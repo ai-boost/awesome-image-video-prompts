@@ -1274,6 +1274,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Alex Earnings Call](https://chat.openai.com/g/g-GSs2i0VqU-alex-earnings-call)
    - Submit by [@dattran2346](https://github.com/dattran2346)
 
+2. 📊 QuantOracle
+   - Free quant finance calculator with 63 tools for options pricing, portfolio optimization, risk analysis, and technical indicators.
+   - [Chat now](https://chatgpt.com/g/g-69d9c28bddb481918e674e2f9d9f3e97-quantoracle)
+   - Submit by [@QuantOracledev](https://github.com/QuantOracledev)
+
 
 ## Commit and PR Guidelines
 To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
