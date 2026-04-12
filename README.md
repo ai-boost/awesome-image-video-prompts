@@ -1276,6 +1276,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 
 
 ## Commit and PR Guidelines
+research
 To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
 - **Commit Message**: Use `[bot-name][brief-bot-description]` format.
 - **PR Title**: Keep it identical to your commit message for consistency.
