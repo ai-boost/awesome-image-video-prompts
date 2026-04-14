@@ -1279,5 +1279,6 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
 - **Commit Message**: Use `[bot-name][brief-bot-description]` format.
 - **PR Title**: Keep it identical to your commit message for consistency.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 Adherence to these standards makes your contributions more impactful and traceable.
