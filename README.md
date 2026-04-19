@@ -20,6 +20,8 @@
 </div>
 
 ## Latest News and Updates
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [UPDATE 2024.02.08] We open-sourced our website (https://awesomegpt.vip) here: [awesomegpts repo](https://github.com/ai-boost/ai-boost.github.io)  
 - [UPDATE 2024.01.20] Some of our GPTs have been **featured🎉 (top 3)** on the official GPT store, and we are making the prompts behind them freely available as open source here: [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts)
 
