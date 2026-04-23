@@ -676,6 +676,10 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chatgpt.com/g/g-u4xQCrnWD-emoji-suggestion-assistant)
    - Submit by [@relliv](https://github.com/relliv)
 
+9. 💼 AgentJobs
+   - An AI recruiter inside ChatGPT. Asks intake questions (current role, goals, location, salary) then searches 43,000+ live jobs at OpenAI, Anthropic, Stripe, Coinbase and 100+ top companies. Suggests roles you haven't thought of and gives a market read — like a real recruiter would.
+   - [Chat now](https://chatgpt.com/g/g-69c0a8b41d008191a6ad244646f7619e-agentjobs)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
