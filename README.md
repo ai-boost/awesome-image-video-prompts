@@ -676,6 +676,16 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chatgpt.com/g/g-u4xQCrnWD-emoji-suggestion-assistant)
    - Submit by [@relliv](https://github.com/relliv)
 
+9. 🗾 Shirabe Calendar — Japanese Traditional Calendar
+   - Japanese rokuyo (六曜), rekichu (暦注 auspicious days), eto (干支), 24 solar terms, and 8-category auspicious-day scoring (wedding, moving, business opening, travel, construction, car delivery, marriage registration, funeral). Coverage 1873-01-01 to 2100-12-31. Backed by Shirabe Calendar API.
+   - [Chat now](https://chatgpt.com/g/g-69e98031b5b8819185ae196a9f219090-shirabe-ri-ben-noli-japanese-calendar)
+   - Submit by [@techwell-inc-jp](https://github.com/techwell-inc-jp)
+
+9. 🗾 Shirabe Address — Japanese Address Normalization
+   - Japanese address normalization backed by Digital Agency of Japan's Address Base Registry (ABR, CC BY 4.0). All 47 prefectures. Returns structured prefecture/city/town/block/building components, postal codes, WGS84 coordinates, match level, and confidence score. Backed by Shirabe Address API.
+   - [Chat now](https://chatgpt.com/g/g-69e96000b5c08191b21f4d6570ead788-shirabe-ri-ben-nozhu-suo-japanese-address)
+   - Submit by [@techwell-inc-jp](https://github.com/techwell-inc-jp)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
