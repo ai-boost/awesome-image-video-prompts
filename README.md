@@ -640,6 +640,8 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Your go-to guide for boosting productivity
    - [Chat now](https://chat.openai.com/g/g-uDglrkYGg-productivity)
    - Submit by [@stan8086](https://github.com/stan8086)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
+
 
 9. 🌐Fastium
    - A General purpose GPT with /commands support, exportable data and more!
