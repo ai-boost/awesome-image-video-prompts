@@ -676,6 +676,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chatgpt.com/g/g-u4xQCrnWD-emoji-suggestion-assistant)
    - Submit by [@relliv](https://github.com/relliv)
 
+9. 🎬 AI Video Prompt Lab
+   - Hands-on lab for AI video prompts. Generate copy-paste prompts for Seedance 2.0, Runway Gen-4, Pika, Kling, Hailuo, Sora. Cross-model comparisons + permission-safe workflows.
+   - [Chat now](https://chat.openai.com/g/g-69f39fed108c8191b804c2232c7947e8-ai-video-prompt-lab)
+   - Submit by [@davidww0720](https://github.com/davidww0720)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
