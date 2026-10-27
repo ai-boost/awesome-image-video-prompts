@@ -1,0 +1,17 @@
+id: readme-preview-gif
+title: {en: "Make a small looping GIF preview for a README", zh: "给 README 做小体积循环 GIF 预览"}
+tags: [agent-editing, ffmpeg, gif, preview]
+agent: Claude Opus 5.5 in Claude Code
+tools: [ffmpeg 9]
+ask:
+  en: "Make a looping GIF preview of every mp4 in samples/ for the README. Keep each under about 1.5 MB. Speed up clips longer than 8 seconds so the whole story still plays."
+  zh: "给 samples/ 里每个 mp4 做一张 README 用的循环 GIF，每张控制在 1.5 MB 左右。超过 8 秒的片加速播放，保证整段故事都能看到。"
+inputs: [samples/hk-noodle-stall-1960s.mp4]
+commands: |
+  # landscape: 360 px wide; vertical: 300 px tall; 2x speed when longer than 8 s
+  ffmpeg -i in.mp4 -vf "setpts=PTS/2,fps=8,scale=360:-2:flags=lanczos,split[a][b];[a]palettegen=max_colors=96[p];[b][p]paletteuse=dither=bayer:bayer_scale=4" -loop 0 out.gif
+output: previews/hk-noodle-stall-1960s.gif
+preview: previews/hk-noodle-stall-1960s.gif
+notes:
+  en: "Every preview in this repository was made this way: 0.5 to 2 MB each. A per-clip palette with 96 colours and Bayer dithering keeps skin tones and neon clean at a small size."
+  zh: "本仓所有预览图都是这样做的，每张 0.5 到 2 MB。每段单独生成 96 色调色板加 Bayer 抖动，体积小，肤色和霓虹也不脏。"

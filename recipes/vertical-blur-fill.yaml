@@ -1,0 +1,20 @@
+id: vertical-blur-fill
+title: {en: "Turn a 16:9 clip into a 9:16 short with a blurred background", zh: "横屏片改竖屏，背景用模糊填充"}
+tags: [agent-editing, ffmpeg, vertical, reframe]
+agent: Claude Opus 5.5 in Claude Code
+tools: [ffmpeg 9]
+ask:
+  en: "Make a 1080x1920 vertical version of samples/night-train-ticket.mp4 for TikTok. Keep the full frame visible in the middle and fill the top and bottom with a blurred, slightly darkened copy of the same video. Keep the original audio."
+  zh: "把 samples/night-train-ticket.mp4 做成 1080x1920 的竖屏版发抖音。原画面完整放在中间，上下用同一段视频的模糊压暗版本填满，保留原音轨。"
+inputs: [samples/night-train-ticket.mp4]
+commands: |
+  ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
+    [0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=40,eq=brightness=-0.08[bg];
+    [0:v]scale=1080:-2[fg];
+    [bg][fg]overlay=(W-w)/2:(H-h)/2,format=yuv420p" \
+    -c:v libx264 -crf 20 -c:a copy vertical.mp4
+output: samples/recipe-vertical-blur-fill.mp4
+preview: previews/recipe-vertical-blur-fill.gif
+notes:
+  en: "One ffmpeg call, 1.5 s on an M-series Mac for a 5 s clip. Use it when the subject spans the whole width; crop instead when the subject sits in the centre."
+  zh: "一条 ffmpeg 命令，5 秒片在 M 系列 Mac 上 1.5 秒跑完。主体横跨整个画面时用这种填充；主体在正中时直接裁切更好。"

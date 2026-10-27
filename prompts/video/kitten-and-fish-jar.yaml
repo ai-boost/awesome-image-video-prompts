@@ -1,0 +1,30 @@
+id: kitten-and-fish-jar
+title:
+  en: Kitten knocks over the fish jar (15 s vertical)
+  zh: 小猫打翻鱼干罐（15 秒竖屏）
+model: MiniMax H3 (open weights, ComfyUI)
+tags:
+- cinematic
+- vertical
+- animals
+- comedy
+- multi-shot
+- 15s
+notes:
+  en: 'Classic four-beat structure: setup, temptation, accident, innocent stare. The soundscape spells out every physical sound (pads on glass, the jar thud, the fish rattle), which the model renders in sync.'
+  zh: 四拍结构：铺垫、诱惑、闯祸、装无辜。环境声把每个物理声音写全（肉垫碰玻璃、罐子落地、鱼干撒开），模型会同步配出来。
+runs:
+- mode: text-to-video
+  settings:
+    resolution: 480x864
+    duration_s: 15.1
+    steps: 20
+    sampler: res_multistep
+    weights: minimax_h3_fl2va_pruned_int8_convrot.safetensors
+    audio: true
+  sample: samples/kitten-and-fish-jar.mp4
+  preview: previews/kitten-and-fish-jar.gif
+  prompt: |
+    integrated_multimodal_description: [Shot 1] Live-action, cinematic, warm natural morning light, shallow depth of field, vertical 9:16 mobile framing. A clean pale-wood kitchen counter seen from counter height, a tall clear glass jar packed with dried silver fish sitting slightly left of centre, a folded blue linen cloth behind it and an out-of-focus window in the background throwing soft light across the grain of the wood. From the lower edge of the frame the top of a ginger tabby kitten's head rises slowly into view, first two rounded ears, then a pair of wide amber eyes that lock onto the jar. The camera holds a static shot with a faint handheld drift. Throughout the shot the kitten keeps rising until its chin clears the counter edge, its pupils widening and its whiskers pushing forward as it stares at the jar. [Shot 2] At 00:04.200, the shot cuts to a tight close-up of the kitten's front paw, white-socked, reaching slowly across the wood toward the jar. The camera holds a low static shot at counter level. Throughout the shot the soft pink pads press against the cold glass, the paw testing and pushing, and the heavy jar begins to rock gently on its base, the dried fish shifting inside with each tilt. [Shot 3] At 00:08.400, the shot cuts to a wider view as the jar topples onto its side and rolls, dried silver fish spilling and scattering across the pale wood toward the camera. The camera shakes slightly as the jar lands. Throughout the shot the kitten freezes completely mid-reach, ears flattening back against its skull, its eyes going perfectly round while the last few fish keep sliding to a stop around its paws. [Shot 4] At 00:11.600, the shot cuts to a head-on medium close-up of the kitten from the owner's point of view, the spilled fish and the toppled jar filling the wood in front of it. One paw is still resting on the jar. Throughout the shot the kitten slowly draws that paw back and tucks it under its chest, blinks once very slowly, and holds a flat innocent stare directly into the lens.
+    overall_soundscape: A quiet morning kitchen room tone with a faint refrigerator hum and distant birdsong through glass. Soft pads tap and squeak against smooth cold glass, followed by the low woody rumble of a heavy jar rocking on a wooden counter. The jar lands with a dull hollow thud and rolls, and dozens of small dried fish scatter across wood in a fine dry rattle that tapers off. A single short high chirp-meow escapes the kitten just after the jar lands.
+    non_diegetic_music: Light pizzicato strings at a walking tempo with a soft marimba doubling the melody, pausing on one beat of silence as the jar lands, then returning quieter and slowing to a stop.

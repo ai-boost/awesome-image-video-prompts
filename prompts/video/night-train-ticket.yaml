@@ -1,0 +1,30 @@
+id: night-train-ticket
+title:
+  en: Night train, a sentence carried across a cut
+  zh: 夜车车票，一句话跨镜头说完
+model: MiniMax H3 (open weights, ComfyUI)
+tags:
+- cinematic
+- film-look
+- dialogue
+- chinese-dialogue
+- multi-shot
+- landscape
+notes:
+  en: Two shots with a hard cut at 00:02.600. The `<scenetrans>` tag carries the voice across the cut, so the sentence starts in the medium close-up and ends on the close-up of the hand.
+  zh: 两个镜头，00:02.600 硬切。`<scenetrans>` 让声音跨过切点连续，一句话在中近景开头，在手部特写说完。
+runs:
+- mode: text-to-video
+  settings:
+    resolution: 1344x768
+    duration_s: 5.2
+    steps: 20
+    sampler: res_multistep
+    weights: minimax_h3_fl2va_pruned_int8_convrot.safetensors
+    audio: true
+  sample: samples/night-train-ticket.mp4
+  preview: previews/night-train-ticket.gif
+  prompt: |
+    integrated_multimodal_description: [Shot 1] Live-action, cinematic, vintage film look with heavy 35mm grain and a cold teal-and-amber grade, shallow depth of field, slight lens breathing. Interior of a night train carriage, almost empty, warm tungsten ceiling lamps flickering as the train moves. A man in his forties (S1) sits by the window in a rumpled grey raincoat, unshaven, a paper ticket held loosely between two fingers. He is framed in a tight medium close-up from the aisle side, the black window beside him streaked with rain and the intermittent yellow smear of passing platform lights. The camera holds a static shot with a faint natural sway matching the carriage. He looks at the ticket, then out at the dark, and with a quiet, gravelly, unhurried voice (S1) begins to say: <d>[Chinese] 我等了她八年，</d><scenetrans> and the line continues uninterrupted into the next shot. [Shot 2] At 00:02.600, the shot cuts to a low static close-up of his hand on the armrest, the paper ticket now creased between his thumb and forefinger, the tungsten light catching the frayed cuff of his sleeve. <scenetrans>His voice carries over from the previous shot and remains audible across the transition as he finishes: <d>[Chinese] 就等这一趟车。</d> while his hand slowly tightens around the ticket until the paper buckles.
+    overall_soundscape: A steady rhythmic clatter of steel wheels over rail joints runs through the entire clip at a constant tempo, with the deep continuous rumble of the carriage underneath. Rain ticks against the window glass in irregular bursts. The loose ceiling lamp fitting rattles faintly on the same rhythm as the wheels, and fabric rustles as the man shifts his weight.
+    non_diegetic_music: A single sustained low cello note held under the entire scene, joined near the end by sparse, widely spaced piano notes in the upper register, very slow, never rising in volume.

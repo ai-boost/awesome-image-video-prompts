@@ -1,0 +1,34 @@
+id: headphone-logo-reveal
+title:
+  en: Logo reveal continued from a still frame
+  zh: 从一张静帧接着做品牌收尾
+model: MiniMax H3 (open weights, ComfyUI)
+tags:
+- product
+- commercial
+- wordmark
+- image-to-video
+- landscape
+- 15s
+notes:
+  en: 'Image-to-video: the first line pins the input image to 0.00 s, then the usual three-part prompt follows. The input is the last frame of an earlier segment, which is how longer films are chained.'
+  zh: 图生视频：第一行把输入图钉在 0.00 秒，后面照常写三段式。输入图是上一段的末帧，长片就是这样一段段接起来的。
+runs:
+- mode: image-to-video
+  inputs:
+  - inputs/headphone-frame.png
+  settings:
+    resolution: 864x480
+    duration_s: 15.1
+    steps: 4
+    sampler: turbo
+    weights: minimax_h3_fl2va_int8_convrot.safetensors
+    audio: true
+  sample: samples/headphone-logo-reveal.mp4
+  preview: previews/headphone-logo-reveal.gif
+  prompt: |
+    For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+    integrated_multimodal_description: [Shot 1] Live-action, cinematic high-end product commercial, macro anamorphic lens at T2.8 against a seamless pure black void with no visible set, floor or horizon, one hard raking key from the upper left and a broad soft fill from directly above, deep true blacks, high micro-contrast, very shallow depth of field, immaculate dust-free surfaces, a subtle horizontal lens flare. The product is a pair of over-ear headphones with blunt hexagonal earcups milled from deep graphite anodised aluminium with a wide chamfered bevel around each face, a solid one-piece olive-bronze metal headband arching between them with no fabric or padding visible on its outer surface, and a single knurled olive-bronze dial set into the lower edge of the right earcup. The shot opens on the macro seam between headband and earcup and pulls out with small amplitude at slow speed until the complete headphones sit centred and motionless in the pure black void, lit by a single soft top light that defines the graphite hexagonal faces and the olive-bronze headband. Throughout the shot the pull-out decelerates smoothly to a stop and the frame comes to rest holding perfectly still. [Shot 2] At 00:07.600, the shot cuts to a locked-off centred hero shot of the same headphones on pure black, and below them the wordmark "MoMo" appears in large clean white letters, sharp and perfectly still. Throughout the shot the headphones stay completely motionless, the wordmark holds crisp and unmoving, and the frame comes to rest holding perfectly still.
+    overall_soundscape: A deep quiet low-frequency room tone runs throughout, fading toward near silence at the end.
+    non_diegetic_music: A sustained synth pad with sparse piano notes at a slow tempo, everything falling away to one held note at the end.

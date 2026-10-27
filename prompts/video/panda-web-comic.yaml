@@ -1,0 +1,29 @@
+id: panda-web-comic
+title:
+  en: Crude 2D web-comic panda
+  zh: 粗线条 2D 熊猫表情包
+model: MiniMax H3 (open weights, ComfyUI)
+tags:
+- 2d-animation
+- comic
+- meme
+- vertical
+- character
+notes:
+  en: 'Style words for deliberately crude 2D: thick uniform outlines, flat pastel blocks, no gradients, paper grain, no depth of field.'
+  zh: 刻意粗糙的 2D 画风关键词：粗细一致的黑描边、平涂粉彩、无渐变、纸张颗粒、无景深。
+runs:
+- mode: text-to-video
+  settings:
+    resolution: 480x864
+    duration_s: 5.2
+    steps: 4
+    sampler: turbo
+    weights: minimax_h3_fl2va_int8_convrot.safetensors
+    audio: true
+  sample: samples/panda-web-comic.mp4
+  preview: previews/panda-web-comic.gif
+  prompt: |
+    integrated_multimodal_description: [Shot 1] 2D-animated web comic panel look, thick uniform black outlines, flat pastel colour blocking with no gradients, minimal background reduced to two or three flat colour fields, deliberately crude and low-detail drawing, slight paper grain, no depth of field, vertical 9:16 framing. The character is a crude round white panda-like head with two solid black eye patches and a simple wide black mouth, sitting on a small simply drawn body in a bright red hoodie with a large yellow lightning bolt printed across the chest. The character stands centred against a flat mustard-yellow background holding a single sheet of white paper up in front of its chest, mouth already stretched wide open. The camera holds as a static shot. Throughout the shot the character's arms shake the paper in short sharp jolts and its black eye patches squash downward, and at the end the movement settles and the frame comes to rest holding perfectly still.
+    overall_soundscape: A dry paper rustle in short bursts, and a light cartoon whoosh on each shake.
+    non_diegetic_music: A simple bouncy ukulele loop at a brisk tempo, one chord per beat.

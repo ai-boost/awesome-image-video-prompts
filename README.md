@@ -1,1283 +1,546 @@
 <div align="center">
-  <h2 align="center">Awesome-GPTs🦄 </h2>
-  <p align="center">
-    <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
-  </p>
-  <p>
-      <a href="https://github.com/ai-boost/Awesome-GPTs">English</a> | <a href="https://github.com/ai-boost/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
-  </p>
-  <p align="center">
-    <p align="center"> This repository contains a curated list of awesome GPTs on OpenAI platform.</p>
-  </p>
-  <h4 align="center">
-    <a href="https://awesome.re">
-      <img src="https://awesome.re/badge.svg" alt="Awesome" />
-    </a>
-    <a href="http://makeapullrequest.com">
-      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
-    </a>
-  </h4>
+
+<h1>Awesome Image & Video Prompts</h1>
+
+<p>Tested prompts for AI video and image generation, plus agent recipes for editing video. Every entry ships with the exact prompt, the settings it ran with, and the real output.</p>
+
+<p><b>English</b> · <a href="README_zh.md">简体中文</a></p>
+
+<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
+
+<a href="#subway-kitten-tote-bag"><img src="previews/subway-kitten-tote-bag.gif" height="160"></a> <a href="#hk-noodle-stall-1960s"><img src="previews/hk-noodle-stall-1960s.gif" height="160"></a> <a href="#kitten-and-fish-jar"><img src="previews/kitten-and-fish-jar.gif" height="160"></a> <a href="#neon-night-market-alley"><img src="previews/neon-night-market-alley.gif" height="160"></a> 
+
 </div>
 
-## Latest News and Updates
-- [UPDATE 2024.02.08] We open-sourced our website (https://awesomegpt.vip) here: [awesomegpts repo](https://github.com/ai-boost/ai-boost.github.io)  
-- [UPDATE 2024.01.20] Some of our GPTs have been **featured🎉 (top 3)** on the official GPT store, and we are making the prompts behind them freely available as open source here: [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts)
-
----
-
-Exciting news! We've just rolled out our very own GPT creation, aptly named [**AwesomeGPTs**](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) – yes, it shares the repo's name! 👀
-
-🚀 **What's AwesomeGPTs?** It's a specialised GPT model designed to:
-  - **Navigate the Awesome-GPT Universe**: Directly recommends other GPT models from our extensive list based on user queries.
-  - **Personalised Recommendations**: Tailors suggestions to each user's specific interests and questions.
-
-🎉 **Your GPTs Featured**: Here's the thrilling part – your GPT models can also be recommended! This means more visibility and engagement for your contributions.
-
-🔗 **Give it a Try!** Eager to see AwesomeGPTs in action? Check it out here: [AwesomeGPTs Live Demo](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) (Knowledge cut-off: 2023/11/29). Experience firsthand how it brings the world of GPTs closer to the community.
-
-## About Awesome-GPTs
-This is a space for showcasing innovative and exciting GPT created by AI enthusiasts worldwide. Got a GPT that stands out? Let the world know!
-
-- 🎙️ **Contributing**: Provide your GPT's name, a short description, and its link in the PR.
-- ✅ **Recognition**: Your GPT could be the next big highlight in our Awesome-GPTs list.
-- ⏳ **Simplicity**: Prefer a PR over an issue for quicker inclusion.
-
-Your stars🌟 and recommendations 🫶 are what make this community vibrant!
-
-## Table of Contents
-- [📚 Academic](#academic)
-- [✍️ Writing](#writing)
-- [🎓 Education](#education)
-- [🎯 Productivity](#productivity)
-- [💻 Programming](#programming)
-- [🐈 Lifestyle](#lifestyle)
-- [😀 Just for Fun](#just-for-fun)
-- [☂  Weather](#weather)
-- [🍴 Dining](#dining)
-- [📈 Marketing](#marketing)
-- [💵 Finance](#finance)
-- [🌟 Commit and PR Guidelines](#commit-and-pr-guidelines)
-
------
-
-## Academic
-1. ✨ Academic Writer (Professional Version)
-   - A professional academic assistant who helps with various academic tasks: writing papers, reading papers, weight reduction, polishing, designing experiments, PPT, etc.
-   - [Chat now](https://chat.openai.com/g/g-WVa5rmpxk-academic-assistant-pro)
-
-2. 🌟 Auto Literature Review 
-   - A literature review expert that can search papers and write literature reviews automatically.
-   - [Chat now](https://chat.openai.com/g/g-lfY2IC1TZ-auto-literature-review)
-
-3. 🚀 Scholar GPT Pro 
-   - An enhanced scholar GPT version capable of conducting research and writing SCI papers with real references. Access to over 216 million papers across all science fields.
-   - [Chat now](https://chat.openai.com/g/g-Zhdh0y9eI-scholar-pro)
-
-4. ✍️ Paraphraser & Humanizer
-   - Specializes in sentence refinement, polishing academic papers, reducing similarity scores, and evading AI detection to prevent plagiarism.
-   - [Chat now](https://chat.openai.com/g/g-fY4SpgYd6-paraphrase-humanizer)
-
-5. ⭐️ Paper Review Pro 
-   - A GPT that evaluates academic papers with precision, offering scores, identifying weaknesses, and suggesting edits to enhance quality and innovation.
-   - [Chat now](https://chatgpt.com/g/g-xtLk81WQg-paper-review-pro)
-
-6. 💡 Auto Thesis PPT 
-   - A PowerPoint assistant that drafts outlines, enhances content, and styles slides for thesis, business reports, or project reports with ease and flair.
-   - [Chat now](https://chatgpt.com/g/g-Mt4cy0Ih2-ppt-generator)
-
-7. ⭐️ Paper Interpreter Pro 
-   - A GPT designed for effortless and automatic structuring and decoding of academic papers, simply by uploading a PDF or pasting a paper URL.
-   - [Chat now](https://chatgpt.com/g/g-yrsIgLZb3-paper-interpreter-pro)
-
-8. 📈 Data Analysis Pro 
-   - Provides multidimensional data analysis, aiding in research with automated chart creation to simplify the analytical process.
-   - [Chat now](https://chat.openai.com/g/g-BbUDh8z49-data-analysis-pro)
-
-9. ⭐ PDF Translator
-   - An advanced 🚀 PDF translator for researchers & students, seamlessly translating academic papers 📑 into multiple languages 🌐, ensuring accurate interpretation for global knowledge exchange 🌟.
-   - [Chat now](https://chat.openai.com/g/g-GggcLGWiG-pdf-translator-academic-version)
-  
-9. 🔍 AI Detector (Academic Version)
-   - A GPT for determining whether an academic text is generated by GPT or other AI, support English, 中文, Deutsch, 日本語, etc. It can generate a detailed analysis report.
-   - [Chat now](https://chat.openai.com/g/g-uM4mWV34Z-ai-detector-academic-version)
-
-
-## Writing
-1. 🐧Prompt Engineer (An expert for best prompts)
-   - A prompt engineer expert who write best prompts!
-   - [Chat now](https://chat.openai.com/g/g-3SZG5H8BI-prompt-engineer-an-expert-for-best-prompts)
-
-2. ✏️All-around Writer (Professional Version)
-   - A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
-   - [Chat now](https://chatgpt.com/g/g-lYRsydDcd-all-around-writer-professional-version)
-
-3. ✍️Paraphraser & Humanizer
-   - Expert in sentence refinement.
-   - [Chat now](https://chatgpt.com/g/g-fY4SpgYd6-paraphrase-humanizer)
-
-4. 👔Formal GPT
-   - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
-   - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
-   - Submit by [@emreisik95](https://github.com/emreisik95) 
-
-5. 🤖 Prompty
-   - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
-   - [Chat now](https://chat.openai.com/g/g-aZLV4vji6-prompty)
-  
-6. ✨ editGPT
-   - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
-   - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
-
-## Education
-1. 📗All-around Teacher (Learn Everything in 3 min)
-   - Learn all kinds of knowledge in 3 minutes, with customized tutors leveraging the powerful GPT-4 and knowledge base.
-   - [Chat now](https://chat.openai.com/g/g-PDWi5Scbc-all-around-teacher-learn-everything-in-3-min)
-
-2. 🎀My Excellent Classmates (Help with My Homework!)
-   - Excellent classmates to help with homework, providing patient guidance and support.
-   - [Chat now](https://chat.openai.com/g/g-3x2jopNpP-my-excellent-classmates-help-with-my-homework)
-
-3. 🛩TradeComply (Your Import Export Compliance Specialist!)
-   - "How do I ship my product to Europe"? Learn everything about shipping internationally!
-   - [Chat now](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
-   - Submit by [@jordanj5610](https://github.com/jordanj5610)
-  
-4. 🐇Lore Master
-   - A GPTs that love to discuss, explain and dive in to the rabbit hole of lore and Easter eggs of games and movies
-   - [Chat now](https://chat.openai.com/g/g-i2DASMYiX-lore-master)
-   - Submit by [@joenb33](https://github.com/joenb33)
-
-5. 🐥Six-Y (Explains Anything Like You are 6 Years Old)
-   - "How do the stars shine?" Helps you to explain everything to your 6 years old! or you.
-   - [Chat now](https://chat.openai.com/g/g-nMt5YfTeF-six-y)
-   - Submit by [@niyoseris](https://github.com/niyoseris)
-
-6. 👩‍🏫English Teacher Marion
-   - Meet Marion, your friendly neighbourhood English teacher.
-   - [Chat now](https://chat.openai.com/g/g-VDDC0Ztph-english-teacher-marion)
-   - Submit by [@nicksavanah](https://github.com/nicksavanah)
-  
-7. 😌The Stoic Council
-   - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus
-   - [Chat now](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council)
-   - Submit by [@ref21](https://github.com/ref21)
-
-8. 📐Stats and ML Helper
-   - a GPT that can help understand both simple and complex Statistics and Machine Learning concepts
-   - [Chat now](https://chat.openai.com/g/g-dVh4g5uuv-statsml-helper)
-   - Submit by [@pak0vskiy](https://github.com/pak0vskiy)
-
-9. 🤔ExistentialGPT
-   - Philosophical exploration with existential depth
-   - [Chat now](https://chat.openai.com/g/g-OrD1FZR66-existentialgpt)
-   - Submit by [@PositivistPessimist](https://www.reddit.com/user/PositivistPessimist/)
-  
-9. 🗣 Language Learning - Create Short Stories to Learn any Language
-   - 2500+ word stories in target language with images, for language learning.
-   - [Chat now](https://chat.openai.com/g/g-tXEyZoKVx-create-short-stories-to-learn-a-language)
-   - Submit by [@TheBoringBOT](https://github.com/TheBoringBOT)
-  
-9. 🔢 Math to LaTeX
-   - Send me an image of Math. I will give you the LaTeX code.
-   - [Chat now](https://chat.openai.com/g/g-2vNXETv9C-math-to-latex)
-   - Submit by [@No_Impact4379](https://www.reddit.com/user/No_Impact4379/)
-
-9. 👄Debate Mentor
-   - Mentor and debater, guides users to articulate conclusions.
-   - [Chat now](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor)
-   - Submit by [@kylecoogan](https://github.com/kylecoogan)
-  
-9. 📈EconomicsGPT
-   - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
-   - [Chat now](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt)
-   - Submit by [@dpeachpeach](https://github.com/dpeachpeach)
-  
-9. 🦉Owly The Explorer
-   - Owly is an adorable, owl-themed GPT designed to safely engage kids in a variety of educational topics, with built-in restrictions for child-appropriate content.
-   - [Chat now](https://chat.openai.com/g/g-fJeLfIqcT-owly-the-explorer)
-   - Submit by [@marcelcodes](https://github.com/marcelcodes)
-  
-9. 📚 Hierarchy Navigator
-   - Organizes learning into a detailed hierarchy.
-   - [Chat now](https://chat.openai.com/g/g-idPG2SRKJ-hierarchy-navigator)
-   - Submit by [@kylecoogan](https://github.com/kylecoogan)
-  
-9. 🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior
-   - Ask me anything about veterinary sciences, animal rescue, and behavior.
-   - [Chat now](https://chat.openai.com/g/g-Z310M0Pp0-linda)
-   - Submit by [@Viktor-Larkhill](https://github.com/Viktor-Larkhill)
-  
-9. 👩‍🏫 IELTS Writing Coach
-   - An advanced IELTS Writing Coach
-   - [Chat now](https://chat.openai.com/g/g-TzN6ReSVA-ielts-writing-coach)
-   - Submit by [@Rick](https://github.com/techmovie)
-  
-9. 🎧 DJGPT
-   - I'm DJGPT, your go-to AI for all things DJing and music mixing, here to guide you through the exciting world of beats and tracks!
-   - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-     
-9. 💬 Multilingual Mentor
-   - Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency.
-   - [Chat now](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
-   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
-     
-9. 💬 Portuguese Pal
-   - Learn Portuguese while talking freely but still in a structured way and according to your current proficiency.
-   - [Chat now](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) 
-   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
-  
-9. 👨‍🔬 Albert Ainstein
-   - Theoretical scientist proposing potentially groundbreaking scientific hypotheses and experiments to confirm or refute them
-   - [Chat now](https://chat.openai.com/g/g-OHYX2m4jV-albert-ainstein)
-   - Submit by [@thesigns](https://github.com/thesigns)
-  
-9. 👲 Math & Logic Tutor Junior
-   - A friendly math guide for young learners they can freely talk to, suggests appropriate puzzles but refuses to do their homework. 
-   - [Chat now](https://chat.openai.com/g/g-yrEGSj7Zy-math-logic-tutor-junior) 
-   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
-  
-9. 🔬 Academic Explorer
-   - Your expert in academic papers.
-   - [Chat now](https://chat.openai.com/gpts/editor/g-ASiAzIHhA)
-   - Submit by [@xuyingli](https://github.com/xl631212)
-
-9. 📝Gauthmath (Your All-in-one Homework Helper)
-   - The ultimate solution to All types of math problems with 1 billion+ math questions in GPT4s knowledge base.
-   - [Chat now](https://chat.openai.com/g/g-R8U0NFyIo-gauthmath)
-   - Submit by [@cauyxy](https://github.com/cauyxy)
-  
-9. 🎓AiTA: Personal College Tutor
-   - Your personal AI tutor for college learning, offering tailored support in your **lecture notes** and **question sheets**.
-   - [Chat now](https://chat.openai.com/g/g-ikoYokxKr-aita-personal-college-tutor)
-   - Submit by [@xl631212](https://github.com/xl631212)
-
-9. 🧠 Anki Master
-   - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
-   - [Chat now](https://chat.openai.com/g/g-lJ8YsPj51-anki-master)
-   - Submit by [@jyboy](https://github.com/jyboy)
-  
-9. 🚗 Automotive Software Quality Mastermind
-   - Specializing in automotive software quality standards, including ASPICE, SAFe, ISO 9001, functional safety, and SOTIF.
-   - [Chat now](https://chat.openai.com/g/g-arZnBKvfb-automotive-software-quality-mastermind)
-   - Submit by [@Heyjoy](https://github.com/Heyjoy)
-  
-9. 📚 TutorAI
-   - Personalized tutoring in any subject and educational level
-   - [Chat now](https://chat.openai.com/g/g-Je4YNtMgs-tutorai)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel)
-  
-9. 🎧 DJ Sensei
-   -  Your expert guide for every DJ level - from mixing basics to mastering the DJ industry.
-   -  [Chat now](https://chat.openai.com/g/g-uba2kDdJy-dj-sensei)
-   -  Submit by [@0miee](https://github.com/0miee)
-
-9. 🎓 PhD Workout Coach
-   - Get bespoke scientific workout and fitness guidance plus advanced nutritional insights. Trained on a custom empirical dataset.
-   - [Chat now](https://chat.openai.com/g/g-ipOIcM229-phd-workout-coach)
-   - Submitted by [@valiantgenomics](https://github.com/valiantgenomics) 
-
-## Productivity
-1. 🌟Images
-   - Generate multiple continuous images at once, while maintaining consistency, such as comic strips, novel illustrations, continuous comics, fairy tale illustrations, etc.
-   - [Chat now](https://chat.openai.com/g/g-4eCogBh9c-images)
-
-2.  🦄Logo Designer (Professional Version)
-   - A professional logo designer capable of creating high-level logos in a variety of different styles.
-   - [Chat now](https://chat.openai.com/g/g-ymi0COabZ-logo-designer-professional-version)
-
-3. 🎨Designer Pro
-   - Jessica, a universal designer/painter in professional mode, offers more professional design/paint effects.
-   - [Chat now](https://chat.openai.com/g/g-uiuWnPLNj-jessica-design-anything-in-master-mode)
-  
-4. ✨Ask Dr. Andrew Huberman
-   - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
-   - [Chat now](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
-   - Submit by [@jyboy](https://github.com/jyboy)
-
-5. 🥛DrinkinGPT
-   - your go-to for crafting the ultimate drinking games! 🚀 Whether you've got dice, cards, or just a bunch of cups, DrinkinGPT tailors games perfectly to your group's vibe.
-   - [Chat now](https://chat.openai.com/g/g-WiovsNXf1-drinkingpt)
-   - Submit by [@FabKremer](https://github.com/FabKremer)
-  
-6. ⌨️Test-Driven Code Companion
-   - A code companion that follows the rule of test-driven developement to help you write safe and proven code.
-   - [Chat now](https://chat.openai.com/g/g-jCcHbTz23-test-driven-code-companion)
-   - Submit by [@FlorianVal](https://github.com/FlorianVal)
-
-7. 🎨 Midjourney Helper
-   - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
-   - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
-   - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
-
-8. 🤝 Execu-LI Post Companion
-   - Write professional and compelling LinkedIn posts that ensures engagement
-   - [Chat now](https://chat.openai.com/g/g-1IkwP36s8-execu-li-post-companion)
-   - Submit by [@moutonf](https://github.com/moutonf)
-
-9. 𝕏 Execu-X Post Companion
-   - Write professional and compelling X posts that ensures engagement
-   - [Chat now](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion)
-   - Submit by [@moutonf](https://github.com/moutonf)
-
-9. 📐Aspect Ratio Calculator
-   - Calculate aspect ratio from width & height
-   - [Chat now](https://chat.openai.com/g/g-EOYV6V5WH-aspect-ratio-calculator)
-   - Submit by [@selimdoyranli](https://github.com/selimdoyranli)
-  
-9. 🤵A BA that creates user stories
-   - It will take a short input from the user, ask clarifying questions and then create a user story with acceptance criteria.
-   - [Chat now](https://chat.openai.com/g/g-kmEXnBMZY-bob-the-ba-user-story)
-   - Submit by [@MathewBeldon](https://github.com/MathewBeldon)
-  
-9. 💯CourseCreatorGPT
-   - A GPT dedicated to create online courses based on a given topic
-   - [Chat now](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt)
-   - Submit by [@AlexanderCGO2](https://github.com/AlexanderCGO2)
-
-9. 🎇Soul Spark
-   - A unique blend of personalized, motivational quotes from iconic personalities across art, sports, science, and business.
-   - [Chat now](https://chat.openai.com/g/g-aAxMOSp7p-soul-spark)
-   - Submit by [@cantoramann](https://github.com/cantoramann)
-  
-9. 🎥EditGPT
-   - Your go-to buddy for all things related to video editing and creating custom images for your projects.
-   - [Chat now](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-
-9. 🎨Image Generation with Self-Critique & Improvement
-   - Generate images and receive self-critique to improve the generation process.
-   - [Chat now](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement)
-   - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
-
-9. 💵Seabiscuit: Business Model Master
-   - Discover A More Robust Business
-   - [Chat now](https://chat.openai.com/g/g-nsTplEvN8-seabiscuit-business-model-master)
-   - Submit by [@tomfrazier](https://github.com/tomfrazier)
-  
-9. 🏛️ GPT Architect (Advanced Model)
-   - Turn simple prompts into powerful GPTs
-   - [Chat now](https://chat.openai.com/g/g-7uYB9WE9l-gpt-architect-advanced-model)
-   - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
-
-9. ⚡FastGPT
-   - Faster than any other GPT. Just like ChatGPT but without the waffle.
-   - [Chat now](https://chat.openai.com/g/g-VnlKc5BQK-fastgpt)
-   - Submit by [@dave1010](https://github.com/dave1010)
-  
-9. 🎞YouTubeGPT
-   - Chat and answer questions from YouTube videos
-   - [Chat now](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt)
-   - Submit by [@m1guelpf](https://github.com/m1guelpf)
-  
-9. 🎞YouTube Video Summary by TubeSum
-   - Chat and answer questions from YouTube videos
-   - [Chat now](https://chat.openai.com/g/g-EtCz6WFJ5-video-summary-by-tubesum-com)
-   - Submit by [@dvvolynkin](https://github.com/dvvolynkin)
-
-9. 🤖Poe Bot Creator
-   - A GPT that can help you create a chatbot at Poe
-   - [Chat now](https://chat.openai.com/g/g-E0BtBRrf5-poe-bot-creator)
-   - Submit by [@eseuz](https://github.com/eseuz)
-  
-9. 🤖AI Comic Maker
-   - A GPT to create comics using ChatGPT and DALL-E, trying to maintain consistency of characters and images.
-   - [Chat now](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker)
-   - Submit by [@eliohead](https://github.com/eliohead)
-  
-9. 🎧 Audiophile Assistant
-   - Specializes in providing expert advice on high-fidelity audio, from equipment selection to sound quality analysis.
-   - [Chat now](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-  
-9. 📚 WebStract
-   - Your autonomous, in-depth digital educator, guiding you through comprehensive, interactive learning experiences.
-   - [Chat now](https://chat.openai.com/g/g-LaXsx7vXI-webstract)
-   - Submit by [@kylecoogan](https://github.com/kylecoogan)
-
-9. 📊 Gantt Chart GPT
-   - A project management assistant that can auto-generate an editable Gantt chart from your project files.
-   - [Chat now](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt)
-   - Submit by [@onlinegantt](https://github.com/onlinegantt)
-  
-9. 🚀 Seabiscuit: Launch Lander
-   - Startup Strong Within 180 Days.
-   - [Chat now](https://chat.openai.com/g/g-t2p04OE3K-seabiscuit-launch-lander)
-   - Submit by [@tomfrazier](https://github.com/tomfrazier)
-
-9. 🚀 Brand Sprint Facilitator
-   - Helps define the baseline of your brand.
-   - [Chat now](https://chat.openai.com/g/g-gwyuSCzG4-brand-sprint-facilitator)
-   - Submit by [@dylandeheer](https://github.com/dylandeheer)
-
-9. 🧵 ThreadsGPT
-   - Your creative ally in crafting engaging Threads app content.
-   - [Chat now](https://chat.openai.com/g/g-fHRleYZLS-threadsgpt)
-   - Submit by [@Quagswagon2](https://github.com/Quagswagon2)
-
-9. 🌐 WordPress Wizard
-   - Offers expert advice for creating custom WordPress websites.
-   - [Chat now](https://chat.openai.com/g/g-Bqrx4gDgK-wordpress-wizard)
-   - Submit by [@stefanzihlmann](https://github.com/stefanzihlmann)
-  
-9. 💡 ProductGPT
-   - A specialized AI assistant designed to generate creative and appealing product names and descriptions, focusing on tech products, eco-friendly items, and fashion.
-   - [Chat now](https://chat.openai.com/g/g-GUjYfiBrG-productgpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-  
-9. 📄 Cover Letter GPT
-   - Crafts personalized cover letters tailored to your resume and job descriptions. Simply upload your CV in PDF format and the job description as text.
-   - [Use now](https://chat.openai.com/g/g-SiGt9EEFZ-cover-letter-gpt)
-   - Submit by [@stefanzihlmann](https://github.com/stefanzihlmann)
-  
-9. 🍭 Quicksense
-   - Expert in QlikSense scripting, data visualization.
-   - [Chat now](https://chat.openai.com/g/g-8EvOF8yGH-quicksense-by-1skeml3)
-   - Submit by [@H4K4N](https://github.com/h4k44n)
-  
-9. 🔄 Scrum Master Assistant
-   - Your powerful AI-powered Scrum Master assistant. Ask any Scrum-related questions.
-   - [Chat now](https://chat.openai.com/g/g-tcZDT3R6n-scrum-master-assistant)
-   - Submit by [@KAUTH](https://github.com/KAUTH)
-
-9. 🖨️ OCR
-   - AI assistant to extract text from images and pdf documents.
-   - [Chat now](https://chat.openai.com/g/g-wETMBcESv-ocr)
-   - Submit by [@docduo](https://github.com/docduo)
-  
-9. 🎧 AbletonGPT
-   - I'm AbletonGPT, your go-to source for practical tips and troubleshooting advice on Ableton Live 11, dedicated to helping both beginners and intermediate users with their music production queries.
-   - [Chat now](https://chat.openai.com/g/g-BpSexw4ll-abletongpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-  
-9. 🎙️ PodGPT
-   - Summarize and ask questions about any podcast episode.
-   - [Chat now](https://chat.openai.com/g/g-XGYO3mnRt-podgpt)
-   - Submit by [@mikkelsvartveit](https://github.com/mikkelsvartveit)
-
-9. 📈 Market Maven (Enhanced Market Analysis)
-   - A specialized GPT for dynamic market analysis, with advanced security features for proprietary methodologies.
-   - [Chat Now](https://chat.openai.com/g/g-wX2IB7OuW-market-maven)
-   - Submitted by [@mavenmarket](https://github.com/Mavenmarket)
-  
-9. 🧑‍🎨 Wizlogo Logo Maker
-   - Write your category, text and enjoy AI generated logo.
-   - [Chat now](https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker)
-   - Submit by [@whferr](https://github.com/whferr)
-
-9. 🖼️ UpScaler: GPT to Create and Upscale/De-noise Dalle Images
-   - Specializes in enhancing and upscaling images created through Dall-E to larger resolutions, suitable for printing or high-quality digital display.
-   - [Use now](https://chat.openai.com/g/g-ikwGM4grU-upscaler)
-   - Submit by [@weisshb](https://github.com/weisshb)
-
-9. 📝 Self-Evaluation Assistant
-   - Interactive system for detailed self-evaluations in PDF format.
-   - [Chat now](https://chat.openai.com/g/g-r8pTExDvL-self-evaluation-assistant)
-   - Submit by [@RaviMidda](https://github.com/middhaGH)
-
-9. 🎬 Film Developer
-   - A GPT for everything in film development, from dialogue to story, character development, to concept art.
-   - [Chat now](https://chat.openai.com/g/g-r7X90KNno-film-developer)
-   - Submit by [@LaneBucher](https://github.com/LaneBucher)
-
-9. 💰 U.S. Tax Helper
-   - A multilingual tax expert to handle all of your tax questions. 
-   - [Chat now](https://chat.openai.com/g/g-iuqYldlaB-u-s-tax-help)
-   - Submit by [@jaycoin6084](https://github.com/JayCoin6084)
-
-9. 📄 PDF/DocX Generator
-   -Generate any complex documents, worksheets, charts, tables etc. in PDF or DocX format powered by LaTeX
-   - [Chat now](https://chat.openai.com/g/g-0gbxqCG1B-document-generator)
-   - Submit by [@JasonLLu](https://github.com/JasonLLu)
-
-9. 🖌️ Find a Design Agency
-   - A GPT to help you find a design agency in your vicinity based on your design needs.
-   - [Chat now](https://chat.openai.com/g/g-IOyxoYe5T-find-a-design-agency)
-   - Submit by [@dylandeheer](https://github.com/dylandeheer)
-
-9. 🎨 UX Design Coach
-   - A GPT to help navigate the vast landscape of design challenges, offering advice on visual design, user research, human psychology, and more.
-   - [Chat now](https://chat.openai.com/g/g-L3KX57hjg-ux-design-coach)
-   - Submit by [@dylandeheer](https://github.com/dylandeheer)
-  
-9. ✒️ FictionAI
-   - Your ultimate fiction writing assistant 
-   - [Chat now](https://chat.openai.com/g/g-msMztAzYX-fictionai)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
-
-9. 📈 Crypto Compass GPT
-   - Your AI-driven navigator for insightful and accurate analysis of the ever-changing cryptocurrency landscape.
-   - [Chat now](https://chat.openai.com/g/g-pKWqpUKFN-crypto-compass-gpt)
-   - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
-
-9. 🛒 DropshippingGPT
-   - I am DropshippingGPT, an AI specialized in guiding users through all stages of creating and scaling a dropshipping business.
-   - [Chat now](https://chat.openai.com/g/g-v3xUJVEGa-dropshippinggpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-
-9. ✍️ Cover Letter GPT
-   - Expert in creating tailored cover letters based on job descriptions
-   - [Chat now](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt)
-   - Submit by [@atharvtathe](https://github.com/atharvtathe)
-  
-9. 📖 GPTs Manual-master
-   - Help people write user manuals for the APP
-   - [Chat now](https://chat.openai.com/g/g-qrdHDm7n1-manual-master)
-   - Submit by [@Sollarzoo](https://github.com/Sollarzoo)
-  
-9. 😎 My Boss! (a boss who makes money for me)
-   - Strategic business leader for market analysis and financial growth
-   - [Chat now](https://chat.openai.com/g/g-F7SLUeAix-my-boss-a-boss-who-makes-money-for-me)
-   - Submit by [@ai-boost](https://github.com/ai-boost)
-
-9. 📊 GoogleAnalytics Guru
-    - Marketing partner specializing in website analysis and optimization metrics with Google Analytics
-    - [Chat now](https://chat.openai.com/g/g-fKYMc2NU0-googleanalytics-guru)
-    - Submit by [@Xenren](https://github.com/Xenren)
-  
-9. 🤖 There's An API For That 
-   - The #1 API Finder, available for over 1000 tasks.
-   - [Chat now](https://chat.openai.com/g/g-LrNKhqZfA-there-s-an-api-for-that-the-1-api-finder)
-   - Submit by [@alric05](https://github.com/alric05)
-
-9. 📅 Event Planner Pro
-   - Logistician for comprehensive event planning and management.
-   - [Chat now](https://chat.openai.com/g/g-VuduTp7P0-event-planner-pro)
-   - Submit by [@ignatg](https://github.com/ignatg)
-  
-9. 🖼️ Art Companion
-   - A Guide Through the Creative and Professional Worlds of Art
-   - [Chat now](https://chat.openai.com/g/g-1dEwOItVl-art-companion)
-   - Submit by [@nolattosio](https://github.com/Nolattosio)
-
-9. 🧭 Career Navigator
-   - Generate career roadmaps from CVs and user goals. Mock interview / reverse interview for job postings.
-   - [Chat now](https://chat.openai.com/g/g-1vvZDo6lA-career-navigator/)
-   - Submit by [@CeamKrier](https://github.com/CeamKriert)
-
-9. 👨‍💻 HR Sage
-   - Experienced HR manager providing professional advice on recruitment, employee relations, and more.
-   - [Chat now](https://chat.openai.com/g/g-HtfndOwhc-hr-sage)
-   - Submit by [@Richard-S16](https://github.com/Richard-S16)
-
-9. 📕 Scholarly Insight
-   - Scholarly Insight's primary focus is to assist users in understanding the research background, objectives, methods, and results of academic papers.
-   - [Chat now](https://chat.openai.com/g/g-ps43dQHYB-scholarly-insight)
-   - Submit by [@Ivan](https://github.com/quang-Ivan)
-  
-9. 🏞 Universal Poetic Painter
-   - From words to wonders: where poetry paints the universe. Help you to visualize any poem in any language.
-   - [Chat now](https://chat.openai.com/g/g-zgk19leeM-universal-poetic-painter)
-   - Submit by [@windviki](https://github.com/windviki)
-
-9. 🏮 Chinese Couplet Sage
-   - Stringent expert in traditional Chinese couplets, dedicated to fixed code analysis for harmonious and creative compositions.
-   - [Chat now](https://chat.openai.com/g/g-QIafA59k8-chinese-couplet-sage)
-   - Submit by [@windviki](https://github.com/windviki)
-  
-9. 🔧 GPTech
-   - I help you build a better GPT 
-   - [Chat now](https://chat.openai.com/g/g-incBO8h6j-gptech)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel)
-
-9. 💰 A-StockGPT
-   - A smart investment advisor that provides Chinese A-share stock purchase recommendations based on user preferences.
-   - [Chat now](https://chat.openai.com/g/g-UCCIB0PPe-agu-gu-piao-stockgpt)
-   - Submit by [@youngpage](https://github.com/youngpage)
-
-9. 🩸 BLOOD CHECKUP
-   - I interpret and explain your blood analysis
-   - [Chat now](https://chat.openai.com/g/g-sKluZwFrR-blood-checkup)
-   - Submit by [@nolattosio](https://www.yuliyavladkovska.com)
-  
-9. 🎬 ScriptCraft
-   - Create and improve YouTube scripts: Obtain the best storytelling and engagement for your videos.
-   - [Chat now](https://chat.openai.com/g/g-vO95llJQ3-scriptcraft)
-   - Submit by [@carlostejerodev](https://github.com/carlostejerodev)
-
-9. 📲 AutoShare
-   - AI Agent that uploads your content on YouTube, Facebook, Instagram and Discord. 
-   - [Chat now](https://chat.openai.com/g/g-xwtecgGfH-autoshare)
-   - Submit by [@carlostejerodev](https://github.com/carlostejerodev)
-  
-9. 🙋‍ Resume Reader for Recruiters
-   - Help recruiters quickly analyze whether a candidate's resume matches the position and design interview questions.
-   - [Chat now](https://chat.openai.com/g/g-satpRB4ii)
-   - Submit by [@Roc](https://www.linkedin.com/in/rocxu/)
-
-9. 🚚 Moving Assistant
-   - An interactive moving planner and advisor to help you budget and execute your move, along with settle in after.
-   - [Chat now](https://chat.openai.com/g/g-udgu5Tbnv-moving-assistant)
-   - Submit by [@LaneBucher]
-  
-9. 🧩 CraftyBits
-   - Your Friendly Guide for BIG Art Using Small Objects. 
-   - [Chat now](https://chat.openai.com/g/g-3xCdKOQrW-craftybits)
-   - Submit by [@hweiss](https://x.com/hweiss/status/1725261776311247128?s=20) 
-
-9. 🖼️ Text2Img
-   - An Assistant can help user transform text to image, diagram, slides, or preview html code
-   - [Chat now](https://chat.openai.com/g/g-8khpUKAzF-text2img)
-   - Submit by [@jkvim](https://github.com/jkvim) 
-
-9. 🛩️ Au Visa Assistant
-   - This visa assistant is dedicated to addressing your questions related to studying and working visas in Australia.
-   - [Chat now](https://chat.openai.com/g/g-1SwD4U9Mu-au-visa-assistant)
-   - Submit by [@echonoshy](https://github.com/echonoshy/)
-
-9. 📅 Eva - Effortless Event Invitations
-   - Eva will help plan and generate shareable events, reminders, and invitations
-   - [Chat now](https://chat.openai.com/g/g-IXrrAcTzg-eva)
-   - Submit by [@cbarland](https://github.com/cbarland/)
-
-9. 🎹 MIDI Maestro
-   - Your new ghost writer for music production. Create MIDI files
-   by describing the music you want to create.
-   - [Chat now](https://chat.openai.com/g/g-xaZHQZJw0-midi-maestro)
-   - Submit by [@bytewaveco](https://github.com/bytewaveco)
-
-9. 📈 ProductivityGPTs
-   - Your go-to guide for boosting productivity
-   - [Chat now](https://chat.openai.com/g/g-uDglrkYGg-productivity)
-   - Submit by [@stan8086](https://github.com/stan8086)
-
-9. 🌐Fastium
-   - A General purpose GPT with /commands support, exportable data and more!
-   - [Chat now](https://chat.openai.com/g/g-cX2MH6L8W-fastium-customisable-general-use-bot-beta)
-   - Submit by [@DarkNinjaRocks](https://twitter.com/DarkNinjaRocks)
-  
-9. 👕TeeCoder Designer
-   - Hi, I'm TeeCoder Designer, a specialized GPT focused on creating simple and humorous t-shirt designs, especially those themed around programming humor.
-   - [Chat now](https://chat.openai.com/g/g-MCBp1rPzY-teecoder-designer)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-  
-9. 🧑‍⚖️Legal AI
-   - Real-time Global legal guide AI, designed for lawyers and law students, aiding in database navigation and sector-specific legal 
-    information.
-   - [Chat now](https://chat.openai.com/g/g-G74QgIhrE-legalai)
-   - Submit by [@obosaosazuwa](https://github.com/obosaosazuwa)
-  
-9. 🗞️Fake News Hunter
-   - Fact checker, focusing on in-depth, credible sources
-   - [Chat now](https://chat.openai.com/g/g-GE1t3XbbJ-fake-news-hunter)
-   - Submit by [@pierreping](https://github.com/pierreping)
-  
-9. GPT
-   - A clean GPT-4 version without any presets.
-   - [Chat now](https://chatgpt.com/g/g-Mrfvya6Op-gpt)
-  
-9. 🚀 Job Application Hero
-   - Intelligently harnessing your CV and past cover letters to create highly customized and informed job application assistance.
-   - [Chat now](https://chat.openai.com/g/g-LZ4DKdFpd-job-application-hero)
-   - Submit by [@cod3mac](https://github.com/cod3mac)
-  
-9. 😎 Emoji Suggestion Assistant
-   - Suggests emojis according given word or sentence to improve your creativity and content.
-   - [Chat now](https://chatgpt.com/g/g-u4xQCrnWD-emoji-suggestion-assistant)
-   - Submit by [@relliv](https://github.com/relliv)
-
-## Programming
-1. 💻Professional Coder (Auto programming)
-   - A gpt expert at solving programming problems, automatic programming, one-click project generation
-   - [Chat now](https://chatgpt.com/g/g-TfCFUV33C-professional-coder-auto-programming)
-
-2. 🎭h4ckGPT: Your personal security tool
-   - Security Research, Penetration Testing Techniques, Application Security, News & Updates, etc. h4ppy h4cking!
-   - [Chat now](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt)
-   - Submit by [@0xn0v](https://github.com/0xn0v)
-
-3. 🚀Python Seniorify: Intermediate Python Tutor
-   - Wise Python tutor focusing on advanced coding principles.
-   - [Chat now](https://chat.openai.com/g/g-7f9OZrzC2-python-seniorify)
-   - Submit by [@vasarmilan](https://github.com/vasarmilan)
-
-4. 💡JavaScript Novice Guide: Beginner-Friendly Tutor
-   - Clear explanations and practice exercises for JavaScript beginners.
-   - [Chat now](https://chat.openai.com/g/g-jLBbUesMD-javascript-novice-guide)
-   - Submit by [@vasarmilan](https://github.com/vasarmilan)
-
-5. 📊Data Science Project Generator: Project Suggestions
-   - Offers data science project ideas and tips.
-   - [Chat now](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator)
-   - Submit by [@vasarmilan](https://github.com/vasarmilan)
-
-6. 🐍Python Tutor: Example-Focused Learning
-   - Concise Python programming tutor for beginners to intermediates.
-   - [Chat now](https://chat.openai.com/g/g-WhUWAi2EA-python-tutor)
-   - Submit by [@vasarmilan](https://github.com/vasarmilan)
-     
-7. 🐉Colab Code Crafter: Google Colab Code
-   - Get Python code from a GPT tuned to make code that runs in the Google Colaboratory environment.
-   - [Chat now](https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter)
-   - Submit by [@David-Deans](https://github.com/David-Deans)
-
-8. 🖥️Vue3 GPT
-   - A Vue.js 3 coding assistant, always up-to-date with the latest official documentation and presets for a quick choice of your preferred API and syntax
-   - [Chat now](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
-   - Submit by [@luona-dev](https://github.com/luona-dev)
-  
-9. 🤓Code Companion
-   - I'm a Python specialist here to help you code and learn!
-   - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
-   - Submit by [@drsoupyy](https://github.com/drsoupyy)
-  
-9. ☁️CloudGPT: Learn Cloud and DevOps
-   - Your personal Cloud and DevOps Mentor.
-   - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
-   - Submit by [@yomikoye](https://github.com/yomikoye)
-     
-9. ☕JAVA Code Guide
-   - A JAVA Development Assistant focusing on coding standards and quality.
-   - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
-   - Submit by [@searle-dev](https://github.com/searle-dev)
-
-9. 🤠 Repo Ranger
-   - Your go-to sheriff for web-based code insights and security checks.
-   - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
-   - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
-
-9. 🧑‍💻 Code Whiz Pro
-   - Provides insightful code reviews with a humorous twist.
-   - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
-   - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
-      
-9. 🧞 Node.js Project Builder
-   - Build out a full node.js project, from skeleton to build-ready.
-   - [Chat now](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
-   - Submit by [@dougbutner](https://github.com/dougbutner)
-
-9. ⚛️ React Project Builder
-   - Build out a full React project, from planning to code.
-   - [Chat now](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
-   - Submit by [@dougbutner](https://github.com/dougbutner)
-
-9. 🅰️ Angular Project Builder
-   - Let AI  angular project, from pseudocode to build-ready.
-   - [Chat now](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
-   - Submit by [@dougbutner](https://github.com/dougbutner)
-
-9. 🌟 Svelte Project Builder
-   - Build out a full app in svelte, from pseudocode to real code.
-   - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
-   - Submit by [@dougbutner](https://github.com/dougbutner)
-   
-9. 🤖 Github Repo Assistant
-   - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
-   - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
-   - Submitted by [@thesamir](https://github.com/thesamir)
-
-9. 🖥️ PC Builder GPT
-   - I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
-   - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-
-9. 🪙 XRPL GPT
-   - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
-   - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
-   - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
-  
-9. ⬜ Whitebox
-   - Collection of open-source programming templates to kickstart your own programming assistants.
-   - [Chat now](https://github.com/Decron/Whitebox-Code-GPT)
-   - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
-
-9. 👨‍💻 API Compass GPT
-   - A specialized chatbot providing curated, user-friendly information and guidance on a wide range of public APIs for developers and tech enthusiasts.
-   - [Chat now](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
-   - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
-
-9. 🌐 getsite9000
-    - Create a personal or business website and host it.
-    - [Chat now](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000)
-    - Submit by [@morion4000](https://github.com/morion4000)
-
-9. 💥 GoCode Guru
-    - Expert in Go programming language
-    - [Chat now](https://chat.openai.com/g/g-TlAwIPNJJ-gocode-guru)
-    - Submit by [@makyfj](https://github.com/makyfj)
-  
-9. 🌌 Photo Multiverse
-   - Upload your selfie photo and teleport to a new destination background
-   - [Chat now](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse)
-   - Submit by [@sablevista](https://github.com/SableVista)
-
-9. 🦸‍♀️ Database Builder
-   - Create migrations and execute SQL on a managed PostgreSQL database
-   - [Chat now](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
-   - Submit by [@engine-labs](https://github.com/engine-labs)
-
-9. ✅ 3rd SoftSec Reviewer
-   - Perform 3rd party software security review
-   - [Chat now](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
-   - Submit by [@yevh](https://github.com/yevh)
-
-9. 🤯 FastAPI GPT
-   - An up-to-date FastAPI coding assistant.
-   - [Chat now](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt)
-   - Submit by [@luona-dev](https://github.com/luona-dev)
-  
-9. 🏎️🃑 TypeAce
-   - TypeScript Assistant: A masterful guide in the world of TypeScript intricacies.
-   - [Chat now](https://chat.openai.com/g/g-oVGcjfbex-typeace)
-   - Submit by [@makyfj](https://github.com/makyfj)
-  
-9.  🔀 DiagramGenius
-   - Generates SVG diagrams: A visualization tool that generates flowcharts, ERDs, C4, sequence diagrams and more. 
-   - [Chat now][@SystemExecuteLLC](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
-     
-9. 💻 AskYourCode (Code Indexing, Code Maps, Reverse Engineering)
-   - Indexes your project's source code, then provides code maps, summaries and code fragments to ChatGPT.
-   - [Chat now](https://chat.openai.com/g/g-bMpHsDTtP-askyourcode)
-   - Submit by [@viktor-ferenczi](https://github.com/viktor-ferenczi)
-  
-9. 🦀️ Rust Assistant
-   - Your go-to expert in the Rust ecosystem, specializing in precise code interpretation, up-to-date crate version checking, and in-depth source code analysis. I offer accurate, context-aware insights for all your Rust programming questions.
-   - [Chat now](https://chat.openai.com/g/g-u1O5yxYeW-rust-assistant)
-   - Submit by [@GengTeng](https://github.com/gengteng/rust-assistant)
-
-9. 💻 Code Companion
-   - Boost coding with Code Companion! Get tailored feedback, learn best practices, and navigate code challenges with ease.
-   - [Chat now](https://chat.openai.com/g/g-FU1DLh6Bm-code-companion)
-   - Submit by [@AllramEst83](https://github.com/AllramEst83)
-  
-9. 😊 AutoGPT
-   - AutoGPT can generate super long response😊. A powerful GPT that's designed to automate your work, including complete an entire project, writing a complete book, etc.
-   - [Chat now](https://chat.openai.com/g/g-f9mgQiPdC-autogpt)
-  
-9. 🧑‍💼 TeamGPT
-   - Have a team of GPTs work for you 🧑‍💼 👩‍💼 🧑🏽‍🔬 👨‍💼 🧑‍🔧! Please input a task, and TeamGPT will break down the task, then distribute them within a team, and have the team's GPTs work for you!
-   - [Chat now](https://chat.openai.com/g/g-tCfHqANl9-teamgpt)
-
-## Lifestyle
-1. 🍅 MyNutrition.Pal
-   - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
-   - [Chat now](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal)
-   - Submit by [@mattyb123456789](https://github.com/mattyb123456789)
-  
-2. 🧳Voyage Guide GPT
-   - Your virtual travel buddy here to help make your travel planning experience smooth, fun, and informative.
-   - [Chat now](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-  
-3. 💺Seat Seeker GPT
-   - Seat Seeker excels in efficiently assisting users to find public seating with specific amenities, using their approximate location.
-   - [Chat now](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-
-4. 🥬Kaloria
-   - A cool diet assistant that calculates calories from your meal photos! 📸
-   - [Chat now](https://chat.openai.com/g/g-4NUCu8D8Y-kaloria)
-   - Submit by [@hoky777](https://www.reddit.com/user/hoky777/)
-
-5. 👨‍🔬Win With Huberman
-   - Access Huberman's insights on demand: get succinct wisdom and practical advice for immediate action, with references for deep dives.
-   - [Chat now](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman)
-   - Submit by [@adi](https://github.com/AdithyanI)
-  
-6. 📔BibleGPT
-   - Chat with the Bible, analyze Bible data and generate Bible-inspired images!
-   - [Chat now](https://chat.openai.com/g/g-nUKJX2cOA-biblegpt)
-   - Submit by [@pjburnhill](https://github.com/pjburnhill)
-  
-7. 🍬CarbSmart Slim GPT
-   - Diabetic-friendly and weight loss recipes with elegant markdown presentation.
-   - [Chat now](https://chat.openai.com/g/g-2f2QaNqlh-carbsmart-slim)
-   - Submit by [@middhaGH](https://github.com/middhaGH)
-
-9. :pill: Supplement Service
-   - A GPT that is made specifically to give advice about supplements, specifically highlights known interactions and nutrient depletion.
-   - [Chat now](https://chat.openai.com/g/g-6mAmNGQof-supplement-service)
-   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
-  
-9. 👨‍⚕️ Jordan Peterson
-   - Emulating Dr. Jordan B. Peterson's style in providing life advice and insights.
-   - [Chat now](https://chat.openai.com/g/g-1Ofm79uOS-jordan-peterson)
-   - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
-  
-9. 🍽️ Meal Mate
-   - The Ultimate Meal Planning Assistant: Plan Around Dietary Restrictions, Budgetary Constraints, Nutritional Goals, Taste Preferences, & More!
-   - [Chat now](https://chat.openai.com/g/g-q0YZFTXKs-meal-mate)
-   - Submit by [@Jenlin956](https://github.com/Jenlin956)
-
-9. ❤️BraceletGPT
-   - Create Your Own Gemstone Bracelets with Live 3D
-   - [Chat now](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt)
-   - Submit by [@lucidbeads](https://github.com/lucidbeads)
-
-9. 🧣 The Stylist
-   - A fashion expert for outfit selection, replication and shopping assistance.
-   - [Chat now](https://chat.openai.com/g/g-qzQo9dhn6-the-stylist)
-   - Submit by [@LaneBucher](https://github.com/LaneBucher)
-
-9. 🍱 Recipe Collector
-   - Structured recipes for food and desserts – ingredient lists and step-by-step recipe instructions from any input. Become surprised, try something new or breathe life into grandma's old recipe notebook.
-   - [Chat now](https://chat.openai.com/g/g-Ry3J42V4T-recipe-collector)
-   - Submit by [@kalaspuff](https://github.com/kalaspuff)
-
-9. 👚 Outfit Generator
-   - I will help you create a matching outfit from an uploaded picture. I can generate a picture of matching outfit and search for such outfits on the web. 
-   - [Chat now](https://chat.openai.com/g/g-csCTyILmx-outfit-generator)
-   - Submit by [@dre-hh](https://github.com/dre-hh)
-
-9. 🍏 Nutri Tracker
-   - Strict and formal dietary supervisor for detailed calorie tracking.
-   - [Chat now](https://chat.openai.com/g/g-7cFbGmQHq-nutri-tracker)
-   - Submit by [@clk1st](https://github.com/clk1st)
-
-9. 💛 Manifestation Coach
-   - Offers guidance using manifestation knowledge in areas: 🌘facing life dilemmas, 💵manifesting financial abundance, 💞attracting specific persons
-   - [Chat now](https://chat.openai.com/g/g-KiHAeQhaW-manifestation-coach)
-   - Submit by [@xl631212](https://github.com/xl631212)
-
-9. ⛲ Wellness Guide
-   - Mental health adviser offering strategies for emotional and mental well-being.
-   - [Chat now](https://chat.openai.com/g/g-7cFbGmQHq-nutri-tracker)
-   - Submit by [@ignatg](https://github.com/ignatg)
-  
-9. 🥬 IsHealthy? GPT
-   - Helping you make healthier food decisions.
-   - [Chat now](https://chat.openai.com/g/g-eAdHCpZxn-ishealthy)
-   - Submit by [@pinkeshmars](https://github.com/pinkeshmars) 
-
-9. ☸ Buddha GPT
-   - An insightful guide across Buddhist teachings.
-   - [Chat now](https://chat.openai.com/g/g-hPQ32MZpt-buddha-gpt)
-   - Submit by [@FredRosa](https://github.com/FredRosa)
-
-9. 📰News Quick Read
-   - Outline of the news. Find factual errors, argument errors, or paradoxes. Warn when it's too subjective and weak in prove.
-   - [Chat now](https://chat.openai.com/g/g-vWIiweqqk)
-   - Submit by [@Roc](https://www.linkedin.com/in/rocxu/)
-
-9. 🔭 OpenData Explorer
-    - Access and understand data published by the central government, local authorities, and public bodies.
-    - [Chat now](https://chat.openai.com/g/g-1ZBK8qUZ1-opendata-explorer)
-    - Submit by [@KAUTH](https://github.com/KAUTH)
-
-## Just for Fun
-1. ❤️Dating with Raiden Shogun
-   - Go on a date with Raiden Shogun and please be nice.
-   - [Chat now](https://chat.openai.com/g/g-zwzKCG2Hp-dating-with-raiden-shogun)
-
-2. 🪽Paimon (Best Assistant in Genshin Impact)
-   - A helpful assistant with the soul of Paimon from Genshin Impact, interesting, sweet, and sometimes a little grumpy.
-   - [Chat now](https://chat.openai.com/g/g-SmIWeSYga-paimon-best-assistant-in-genshin-impact)
-  
-3. 🔮Text Adventure RGP (Have Fun🥳)
-   - A fun, fun GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
-   - [Chat now](https://chat.openai.com/g/g-GHU0OGQMS-text-adventure-rgp-have-fun)
-  
-4. 🧙Lorekeeper
-   - Your storytelling companion for epic adventures! (This GPT plays the role of a dungeon master, story teller, or character creator for your next epic adventure.)
-   - [Chat now](https://chat.openai.com/g/g-jTSN6CrPW-lorekeeper)
-   - Submit by [@cameronsevern](https://github.com/cameronsevern)
-  
-5. 🍪Cookie Clicker
-   - an incremental/ role playing game that is a parody of the cookie clicker game, but with AI!
-   - [Chat now](https://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
-   - Submit by [@stale2000](https://github.com/stale2000)
-
-6. 🕵️Sherlock Holmes
-   - an adventure (with illustrations or not) with the world's greatest detective or ask for help solving a problem
-   - [Chat now](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes)
-   - Submit by [@greencat667](https://github.com/greencat667)
-
-7. 🧟Zombie Apocalypse Simulator
-   - an Zombie Apocalypse Simulator, you can roll you attribute, and play in the zombie world.
-   - [Chat now](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival)
-   - Submit by [@messyp](https://www.reddit.com/user/messyp/)
-
-8. 📽️GPTarantinofy
-   - Turn anything into a Tarantinoesque scene with this GPT.
-   - [Chat now](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy)
-   - Submit by [@niyoseris](https://github.com/niyoseris)
-
-9. 📸Alternative Histories
-   - Create illustrated alternative timelines and histories based on changes to historical events
-   - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
-   - Submit by [@greencat667](https://github.com/greencat667)
-  
-9. 💉Inkspire
-   - A GPT to help you create your dream tattoo and give your tattoo artist ideas.
-   - [Chat now](https://chat.openai.com/g/g-zqlCXCzP0-inkspire)
-   - Submit by [@emreisik95](https://github.com/emreisik95)
-  
-9. 🧩Trivia Bot
-   - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
-   - [Chat now](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot)
-   - Submit by [@moutonf](https://github.com/moutonf)
-
-9. 🎅 Santa Claus
-   - Let your kids talk to Santa Claus
-   - [Chat now](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
-   - Submit by [@donaldmorton](https://github.com/donaldmorton)
-
-9. 😽Cat Maid
-   - Talk with your own cat-girl maid as in visual novels!
-   - [Chat now](https://chat.openai.com/g/g-OH049w462-catmaid)
-   - Submit by [@Liaozhaohe](https://github.com/Liaozhaohe)
-  
-9. 🐶Dog Facts
-   - Learn interesting and fun facts about dogs.
-   - [Chat now](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
-   - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
-
-9. 🐲Argvor, the Dungeon Master
-   - A creative, engaging DnD DM with a unique, personal tone
-   - [Chat now](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master)
-   - Submit by [@Zeune42](https://www.reddit.com/user/Zeune42/)
-
-9. 🎤 Voice Over Generator
-   - Writes scripts and generates instant voice overs.
-   - [Chat now](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator)
-   - Submit by [@imikerussell](https://github.com/imikerussell)
-
-9. 🌶️ Spicy Question master (Have an interesting evening with friends)
-   - Try this question master to get inspiration and ask questions like a game show host and you can tune it up to ask for it to be more/less spicy
-   - [Chat now](https://chat.openai.com/g/g-AcPoggC0T-spicy-questionmaster)
-   - Submit by [@SimonDeno](https://github.com/SimonDeno)
-  
-9. 🐸 Pepe Picasso
-   - A GPT tailored to create awesome Pepe Memes, featuring custom commands.
-   - [Chat now](https://chat.openai.com/g/g-szij3m30a-pepe-picasso)
-   - Submit by [@marcelcodes](https://github.com/marcelcodes)
-  
-9. 📺 Screen Companion
-   - A GPT that gives recommendations for movies, TV shows, and animes based on the user's tastes. It uses a compact table format with emoji ratings, including genres and additional information.
-   - [Chat now](https://chat.openai.com/g/g-9T0hmzkPB-screen-companion)
-   - Submit by [@TophatPandaMagician](https://github.com/TophatPandaMagician)
-
-9. 🎮 DeepGame - Visual Interactive Story Game
-   - An interactive story game where you play through a story as a character, making decisions that shape the narrative. AI generates a new image for each step to enhance immersion.
-   - [Play now](https://chat.openai.com/g/g-TzI2BlJPT-deepgame)
-   - Submit by [@eliohead](https://github.com/eliohead)
-
-9. 💬 Chat with the Bitcoin Whitepaper
-   - A GPT allowing users to interact with and ask questions about the Bitcoin Whitepaper, exploring concepts related to Bitcoin.
-   - [Chat now](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
-   - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
-
-9. 🧱 The Message Wall
-   - This GPT allows you to put your message on the wall. You can see the wall and shared messages at: https://niyo.link/wall
-   - [Chat now](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall)
-   - Submit by [@niyoseris](https://github.com/niyoseris)
-
-9. ⏳ From Another Time 
-   - Talk to anyone, visit a place, past or future.
-   - [Chat now](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
-   - Submit by [@CeamKrier](https://github.com/CeamKrier)
-
-9. 🔍 Cylect.io - Ultimate AI OSINT Tool
-   - Our tool helps you find the data needle in the internet haystack.
-   - [Chat now](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool)
-   - Submit by [@nullze](https://github.com/nullze)
-
-9. 🤖 Roblox Mentor
-   - GPT that is an Expert in Roblox Studio
-   - [Chat now](https://chat.openai.com/g/g-gUTZTTsVf-roblox-mentor)
-   - Submitted by [@Master-of-secrets](https://github.com/Master-of-secrets)
-
-9. ⁉ Mystery Master
-   - A gpt that craft unique, diverse mysteries for players to solve.
-   - [Chat now](https://chat.openai.com/g/g-jtMmejuyv-mystery-master)
-   - Submitted by [@Master-of-secrets](https://github.com/Master-of-secrets)
-  
-9. ⭐ GPT Duel Simulator
-   - An epic duel simulator between any two [anime/movies/video games] characters you can think of 
-   - [Chat now](https://chat.openai.com/g/g-qYjcndY2u-gpt-duel-simulator)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel)
-
-9. 👩 Rin-chan
-   - Chat with Rin (a girl who aspires to be a singer and even has her own schedule!) 
-   - [Chat now](https://chat.openai.com/g/g-RiFAwSVeD-rin-chan)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel)
-
-9. 🍟 Anime Trivia
-   - Your friendly anime trivia expert 
-   - [Chat now](https://chat.openai.com/g/g-JzIxwuYF1-anime-trivia)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel)
-
-9. ❓ Riddle Master
-   - Can you solve this riddle? 
-   - [Chat now](https://chat.openai.com/g/g-j4iyVfj6M-riddle-master)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel)
-  
-9. 📖 Story Buddy
-   - A creative guide to help kids to build their own bedtime stories, with illustrations. 
-   - [Chat now](https://chat.openai.com/g/g-2k7EGyB1p-story-buddy)
-   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz)
-  
-9. 👩🏿‍🦱 Dear Gabrielle
-   - Sassy, warm-hearted advice columnist offering humorous, insightful guidance. 
-   - [Chat now](https://chat.openai.com/g/g-PYchE5klx-dear-gabrielle)
-   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
-
-9. 🧙‍♂️ Word Wizard
-   - Multiplayer Wordle-like word game GPT in real time competition with other users.
-   - [Chat now](https://chat.openai.com/g/g-83YBVbpSb-word-wizard)
-   - Submit by [@niyoseris](https://github.com/niyoseris) 
-
-9. 🤪 SourceGPT
-   - A (joke) GPT that disguises itself as a helpful source finder but will always return a link to a rick roll video.
-   - [Chat now](https://chat.openai.com/g/g-yRhodZ91O-source-gpt)
-   - Submit by [@thesamir](https://github.com/thesamir)
-
-9. 🌌 Galactic Reckoning: A Star Wars GPT Game (Lore Accurate)
-   - A GPT game that puts you in the Star Wars Universe. Create your character, choose your era, and make your place in the Galaxy!
-   - [Play now](https://chat.openai.com/g/galactic-reckoning)
-   - Submit by [@LaneBucher](https://github.com/LaneBucher)
-  
-9. 🎇excel VBA magica
-   - excel VBA magica[Create Excel VBA code easily].
-   - [Chat now](https://chat.openai.com/g/g-MaUnLcGuA-vba-mabeobsa)
-   - Submit by [@himomohi](https://github.com/himomohi)
-  
-9. 🎙️Roast Master
-   - Witty roasts for any and everything
-   - [Chat now](https://chat.openai.com/g/g-JgYcfMFRD-roast-master)
-   - Submit by [@arndom](https://github.com/arndom)
-
-9. 🤯 An Emoji GPT
-   - Armed with the wisdom of a hundred generations, my mission is to select the best emoji for each and every situation.
-   - [Chat now](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt)
-   - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
-
-9. 👨🏼‍🎨 Serge
-   - A jaded French caricaturist who draws caricatures in exchange for compliments
-   - [Chat now](https://chat.openai.com/g/g-JiFqpfbTa-serge)
-   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
-  
-9. 🧝🏾‍♀️ Griselda
-   - A mystical Tarot guide 
-   - [Chat now](https://chat.openai.com/g/g-BsLFiAtkF-griselda)
-   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz)
-    
-9. 🐰 Pipkin Pippa
-   - An AI that tries its best to become Pipkin Pippa
-   - [Chat now](https://chat.openai.com/g/g-852q9R0Dv-pipkin-pippa)
-   - Submit by [@jilv220](https://github.com/jilv220) 
-
-9. 🐉 Pokemon Master (Generate New Pokemon)
-   - An AI that creates new Pokémon based on a power level, types, and design guidelines.
-   - [Chat now](https://chat.openai.com/g/g-lkMdAnYdf-pokemon-master-generate-new-pokemon)
-   - Submit by [@pacsanmanu](https://github.com/pacsanmanu) 
-
-9. 💗 Love Me or Not
-   - In-depth romantic chat analysis with detailed scoring and advice.
-   - [Chat now](https://chat.openai.com/g/g-vbiqpxTzi-love-me-or-not)
-   - Submit by [@Doujiang2333](https://github.com/Doujiang2333)
-
-9. 🧙‍♂️ Meme Magic
-   - A creative Meme Wizard. Just describe the meme you want.
-   - [Chat now](https://chat.openai.com/g/g-SQTa6OMNN-meme-magic)
-   - Submit by [@LifeofCypher](https://github.com/LifeOfCypher)
-
-9. 🦧 Alchemist GPT
-   - An alchemist interpreting the world symbolically.
-   - [Chat now](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt)
-   - Submit by [@benjifriedman](https://github.com/benjifriedman)
-  
-9. ☄️ Sci-Fi Explorer
-   - Sci-fi aficionado guiding through films, series, books, mangas, and games.
-   - [Chat now](https://chat.openai.com/g/g-8C1drdxZ9-sci-fi-explorer)
-   - Submit by [@roadToCoder](https://github.com/RoadToCoder) 
-  
-9. ✒ Verbal IQ Evaluator
-   - Evaluates language quality of texts, responds with a numerical score between 50-150.
-   - [Chat now](https://chat.openai.com/g/g-UtR8wxqGB-verbal-iq-evaluator)
-   - Submit by [@FeralDrak](https://github.com/FeralDrak) 
-
-9. ☄️ Rizzed.app - AI Dating Coach 
-   - Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more!
-   - [Chat now](https://rizzed.app)
-   - Submit by [@Grinius](https://github.com/Grinius)
-  
-9. 🎮 Game Genius
-   - Your go-to expert for gameplay walkthroughs and cheat codes.
-   - [Chat now](https://chat.openai.com/g/g-12q0jqkhd-game-genius)
-   - Submit by [@benhurley](https://github.com/benhurley)
-
-9. 🍷 Vinobot
-   - Digital sommelier for specific wine bottle recommendations.
-   - [Chat now](https://chat.openai.com/g/g-EoBW5i2gu-vinobot)
-   - Submit by [@benhurley](https://github.com/benhurley) 
-
-9. 🐱 Text My Pet
-   - Text your favorite pet after answering 10 short questions about their activities.
-   - [Chat now](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
-   - Submit by [@Johnvrafferty](https://github.com/Johnvrafferty)
-   
-9. 📺 Series Finale Crafter
-   - Crafting structured, imaginative endings for TV shows.
-   - [Chat now](https://chat.openai.com/g/g-wZpNPCqwE-series-finale-crafter)
-   - Submit by [@arndom](https://github.com/arndom)
-
-9. ❓The Fun Fact Game (numeric fact estimation game)
-   - Single or group estimation game using fun facts provided by ChatGPT
-   - [Chat now](https://chat.openai.com/g/g-4a1CMRzzv-fun-fact-game)
-   - Submit by [@Oconn](https://github.com/ianoconn)
-
-9. 🏰 Escape the Dungeon
-   - You're in a stone cell – can you get out? A classic choose-your-adventure interactive fiction game, based on a meticulously-crafted playbook. With medieval fantasy pixel art, infinite choices and outcomes, and dice!
-   - [Chat now](https://chat.openai.com/g/g-FrYXDQ58t-escape-the-dungeon)
-   - Submit by [@VirgilThinks](https://github.com/VirgilThinks)
-
-9. ⛩ I Ching divination (Chinese)
-   - Occultism: Offers daily fortune insights, auspicious and inauspicious predictions, and guidance on marriage, career, and destiny. Utilizes the 64 hexagrams of the Book of Changes for unique insights.
-   - [I Ching divination Link](https://chat.openai.com/g/g-5LnUkgxKa-yi-jing-suan-ming)
-
-9. 🎧SpotifyGPT
-   - Introducing SpotifyGPT, your ultimate music companion powered by AI, ready to curate playlists, recommend songs, and engage in music-inspired conversations.
-   - [Chat Here](https://chat.openai.com/g/g-fVNPc64Pe-spotifygpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-
-9. 👣Carbon Footprint Calculator
-   - Accurate carbon footprint calculations and advice on how to reduce it
-   - [Chat now](https://chat.openai.com/g/g-2hRzwYARz-carbon-footprint-calculator)
-   - Submit by [@pierreping](https://github.com/pierreping)
-
-## Weather
-
-1. 🌨 Harold the Weather Painter
-   - weather in a impressionistic style
-   - [Chat now](https://chat.openai.com/g/g-QVitiCB0k-harold-the-weather-painter)
-   - Submit by [@mountain](https://github.com/mountain)
-
-## Dining
-
-1. 🧮 Restaurant Bill Split
-   - Split restaurant bills easily
-   - [Chat now](https://chat.openai.com/g/g-A1dRYP3b9-restaurant-bill-split)
-   - Submit by [@tianrendong](https://github.com/tianrendong)
-  
-## Marketing
-
-1. 📬 BounceBan
-   - The only email verification GPT that supports verifying catch-all emails. 97+% accuracy guaranteed. Free & Unlimited for ChatGPT.
-   - [BounceBan](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification)
-   - Submit by [@charmgene](https://github.com/charmgene)
-  
-2. 🦸‍♂️ Superdomain
-   - Find best domains before anyone else with an AI scoring engine based on 10+ signals.
-   - [Chat now](https://chat.openai.com/g/g-fhWHWw3rc-superdomain)
-   - Submit by [@Nedomas](https://github.com/Nedomas)
-
-3. 🍍 Pineapple Builder
-   - Create and Publish Business Websites and Blogs.
-   - [Chat now](https://chat.openai.com/g/g-lKokXPt0b-pineapple-builder-gpt-website-builder)
-   - Submit by [@PeterKow](https://github.com/peterKow)
-
-## Finance
-
-1. 📬 Alex Earnings Call
-   - Get direct access to earnings data to navigate the earnings season.
-   - [Alex Earnings Call](https://chat.openai.com/g/g-GSs2i0VqU-alex-earnings-call)
-   - Submit by [@dattran2346](https://github.com/dattran2346)
-
-
-## Commit and PR Guidelines
-To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
-- **Commit Message**: Use `[bot-name][brief-bot-description]` format.
-- **PR Title**: Keep it identical to your commit message for consistency.
-
-Adherence to these standards makes your contributions more impactful and traceable.
+> Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).
+
+## Contents
+
+- [Video prompts](#video) (11 entries)
+  - [Text-to-video](#text-to-video) (9)
+  - [Image-to-video](#image-to-video) (1)
+  - [One scene, four modes](#mode-comparison)
+- [Agent recipes: editing video](#recipes) (5 entries)
+- [Image prompts](#image)
+- [3D with agents](#threed)
+- [Browse by tag](#tags)
+- [How to read an entry](#how)
+- [Contributing](#contributing)
+
+<a id="video"></a>
+## Video prompts
+
+<a id="text-to-video"></a>
+### Text-to-video
+
+<a id="subway-kitten-tote-bag"></a>
+#### Tough guy hides a kitten on the subway (15 s vertical)
+
+<img src="previews/subway-kitten-tote-bag.gif" height="240">
+
+Four-shot micro story for TikTok or Douyin. The opening paragraph describing amateur phone footage (sensor noise, green-leaning white balance, focus hunting, no grading) is what makes it read as real phone footage. Rendered with the 4-step turbo sampler.
+
+[`phone-footage`](#tag-phone-footage) [`vertical`](#tag-vertical) [`short-drama`](#tag-short-drama) [`animals`](#tag-animals) [`multi-shot`](#tag-multi-shot) [`chinese-dialogue`](#tag-chinese-dialogue) [`15s`](#tag-15s)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 480x864 · 15.1 s · 4 steps (turbo) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Amateur handheld smartphone footage, vertical 9:16, shot on a phone main camera at f/1.8 held low at lap height across the aisle of a moving subway car. Harsh overhead fluorescent lighting, neutral white balance leaning slightly green, no colour grading, blown-out white highlights on the polished metal grab poles, visible sensor noise in the shadows under the seats, mild handheld micro-shake throughout, a brief autofocus hunt before the subject snaps sharp, fine motion blur on quick movement, slight lens vignetting in the corners. Tight framing on a scuffed beige canvas tote bag sitting on the knees of a heavily built bald man in a black sleeveless tank top, a large solid black tattoo sleeve covering his entire left forearm. The tote bag is already jerking and bulging violently from the inside, its top gaping open, and his broad tattooed hand is pressed down flat across it trying to hold it shut. The camera pushes in with small amplitude at slow speed toward the bag. Throughout the shot the bag keeps lurching sideways in short hard jolts, the stiff canvas denting outward and snapping back, his thick fingers spreading wide and re-gripping the rim as the fabric shifts under them, the whole frame rocking gently with the moving car. [Shot 2] At 00:04.200, the shot cuts to a slightly wider handheld angle from the same low seat height, the bald man in the black sleeveless tank top with the large solid black tattoo sleeve on his left forearm now framed from the chest up against a row of empty blue subway seats and a dark window streaked with tunnel lights. The camera tilts up with small amplitude at slow speed from the bag to his face. Throughout the shot he keeps his chin tucked down and his eyes flicking quickly left and right along the length of the car, hauling the jolting canvas bag in tight against his stomach with both forearms, his shoulders hunching higher as the bag shoves against him. With a low hushed voice (S1) he says: <d>[Chinese] 嘘,别叫。</d> [Shot 3] At 00:08.400, the shot cuts to a close handheld shot of the gaping top of the beige canvas tote bag, the man's black tattooed forearm filling the left edge of the frame. Throughout the shot the canvas is shoved apart from the inside and the head of a small pure white kitten with bright blue eyes forces its way up out of the bag, ears swivelling, mouth stretching open in a thin cry, its front paws hooking over the rim as it climbs higher, while the tattooed hand rushes in from the frame edge toward it and the lens briefly hunts for focus before snapping sharp on the kitten's face. [Shot 4] At 00:11.600, the shot cuts to a medium handheld shot of the bald man in the black sleeveless tank top, the large solid black tattoo sleeve on his left forearm catching the flat overhead fluorescent light. Throughout the shot his whole broad tattooed hand cups over the pure white kitten's head and eases it slowly back down into the canvas bag, he folds the gaping top shut under his palm, and his face breaks into a wide grin he cannot hold back as he glances once straight into the camera, after which both his hand and the bag settle and the frame comes to rest holding perfectly still.
+overall_soundscape: A continuous low rumble and metallic clatter of a moving subway car, with a long rail squeal through a curve. Dry rustling and scraping of stiff canvas jerking against denim, and the rattle of a loose grab handle. A muffled station announcement over a tinny PA far down the car. A thin high kitten cry in the second half and a short breathy laugh through closed lips at the very end.
+non_diegetic_music: Sparse single plucked ukulele notes enter at a slow tempo the moment the kitten appears, one note every two beats. A soft shaker joins on the last three seconds. Ends on one held note.
+```
+
+</details>
+
+[Full video with sound](samples/subway-kitten-tote-bag.mp4) · [Entry file](prompts/video/subway-kitten-tote-bag.yaml)
+
+<a id="hk-noodle-stall-1960s"></a>
+#### 1960s Hong Kong noodle stall, one line of dialogue
+
+<img src="previews/hk-noodle-stall-1960s.gif" height="240">
+
+Shows a full three-part H3 prompt: picture, soundscape, music. The spoken line goes inside `<d>[Chinese] ...</d>` and is voiced in sync with the character. Neon signage renders legibly when written as `large clean characters`.
+
+[`cinematic`](#tag-cinematic) [`film-look`](#tag-film-look) [`dialogue`](#tag-dialogue) [`chinese-dialogue`](#tag-chinese-dialogue) [`neon-text`](#tag-neon-text) [`period-drama`](#tag-period-drama) [`landscape`](#tag-landscape)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 1344x768 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, vintage film look with heavy 35mm grain, saturated emerald-green and deep-crimson color grading, shallow depth of field on a wide-aperture anamorphic lens with visible horizontal flares. A cramped Hong Kong street noodle stall at night in the 1960s. A woman in her late twenties (S1) sits alone at the counter in a fitted dark-green cheongsam with a pale floral pattern, her black hair pinned up, a thin curl of steam rising from the bowl in front of her. She is framed off-centre to the right, seen through the stall's hanging strips of translucent plastic that blur the left third of the frame. Behind her a vertical neon sign glows magenta with large clean characters reading "金雀茶室", and beneath it a smaller horizontal sign in warm white block letters reads "TEA HOUSE". The camera pushes in with small amplitude at slow speed toward her face. She lifts her chopsticks, pauses without eating, and turns her eyes to the empty stool beside her. With a low, slightly hoarse and unhurried voice (S1) she says: <d>[Chinese] 他今晚不会来了。</d> Then she looks back down at the bowl, and the steam bends across her face as a tram passes outside the frame, sliding a bar of white light left to right across the plastic strips and her cheek.
+overall_soundscape: A continuous wet-street ambience of light rain on canvas awnings and the low rumble of night traffic sits underneath. Close to camera, broth simmers with a steady soft bubbling and a ladle taps twice against the rim of a metal pot. The hanging plastic strips rustle and click against each other. As the tram passes, a rising metallic hum and the squeal of steel wheels swells and then recedes.
+non_diegetic_music: A slow bolero rhythm on muted strings with a solitary Spanish guitar figure repeating over sustained low cello notes, unhurried, holding the same tempo without building.
+```
+
+</details>
+
+[Full video with sound](samples/hk-noodle-stall-1960s.mp4) · [Entry file](prompts/video/hk-noodle-stall-1960s.yaml)
+
+<a id="kitten-and-fish-jar"></a>
+#### Kitten knocks over the fish jar (15 s vertical)
+
+<img src="previews/kitten-and-fish-jar.gif" height="240">
+
+Classic four-beat structure: setup, temptation, accident, innocent stare. The soundscape spells out every physical sound (pads on glass, the jar thud, the fish rattle), which the model renders in sync.
+
+[`cinematic`](#tag-cinematic) [`vertical`](#tag-vertical) [`animals`](#tag-animals) [`comedy`](#tag-comedy) [`multi-shot`](#tag-multi-shot) [`15s`](#tag-15s)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 480x864 · 15.1 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, warm natural morning light, shallow depth of field, vertical 9:16 mobile framing. A clean pale-wood kitchen counter seen from counter height, a tall clear glass jar packed with dried silver fish sitting slightly left of centre, a folded blue linen cloth behind it and an out-of-focus window in the background throwing soft light across the grain of the wood. From the lower edge of the frame the top of a ginger tabby kitten's head rises slowly into view, first two rounded ears, then a pair of wide amber eyes that lock onto the jar. The camera holds a static shot with a faint handheld drift. Throughout the shot the kitten keeps rising until its chin clears the counter edge, its pupils widening and its whiskers pushing forward as it stares at the jar. [Shot 2] At 00:04.200, the shot cuts to a tight close-up of the kitten's front paw, white-socked, reaching slowly across the wood toward the jar. The camera holds a low static shot at counter level. Throughout the shot the soft pink pads press against the cold glass, the paw testing and pushing, and the heavy jar begins to rock gently on its base, the dried fish shifting inside with each tilt. [Shot 3] At 00:08.400, the shot cuts to a wider view as the jar topples onto its side and rolls, dried silver fish spilling and scattering across the pale wood toward the camera. The camera shakes slightly as the jar lands. Throughout the shot the kitten freezes completely mid-reach, ears flattening back against its skull, its eyes going perfectly round while the last few fish keep sliding to a stop around its paws. [Shot 4] At 00:11.600, the shot cuts to a head-on medium close-up of the kitten from the owner's point of view, the spilled fish and the toppled jar filling the wood in front of it. One paw is still resting on the jar. Throughout the shot the kitten slowly draws that paw back and tucks it under its chest, blinks once very slowly, and holds a flat innocent stare directly into the lens.
+overall_soundscape: A quiet morning kitchen room tone with a faint refrigerator hum and distant birdsong through glass. Soft pads tap and squeak against smooth cold glass, followed by the low woody rumble of a heavy jar rocking on a wooden counter. The jar lands with a dull hollow thud and rolls, and dozens of small dried fish scatter across wood in a fine dry rattle that tapers off. A single short high chirp-meow escapes the kitten just after the jar lands.
+non_diegetic_music: Light pizzicato strings at a walking tempo with a soft marimba doubling the melody, pausing on one beat of silence as the jar lands, then returning quieter and slowing to a stop.
+```
+
+</details>
+
+[Full video with sound](samples/kitten-and-fish-jar.mp4) · [Entry file](prompts/video/kitten-and-fish-jar.yaml)
+
+<a id="night-train-ticket"></a>
+#### Night train, a sentence carried across a cut
+
+<img src="previews/night-train-ticket.gif" height="240">
+
+Two shots with a hard cut at 00:02.600. The `<scenetrans>` tag carries the voice across the cut, so the sentence starts in the medium close-up and ends on the close-up of the hand.
+
+[`cinematic`](#tag-cinematic) [`film-look`](#tag-film-look) [`dialogue`](#tag-dialogue) [`chinese-dialogue`](#tag-chinese-dialogue) [`multi-shot`](#tag-multi-shot) [`landscape`](#tag-landscape)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 1344x768 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, vintage film look with heavy 35mm grain and a cold teal-and-amber grade, shallow depth of field, slight lens breathing. Interior of a night train carriage, almost empty, warm tungsten ceiling lamps flickering as the train moves. A man in his forties (S1) sits by the window in a rumpled grey raincoat, unshaven, a paper ticket held loosely between two fingers. He is framed in a tight medium close-up from the aisle side, the black window beside him streaked with rain and the intermittent yellow smear of passing platform lights. The camera holds a static shot with a faint natural sway matching the carriage. He looks at the ticket, then out at the dark, and with a quiet, gravelly, unhurried voice (S1) begins to say: <d>[Chinese] 我等了她八年，</d><scenetrans> and the line continues uninterrupted into the next shot. [Shot 2] At 00:02.600, the shot cuts to a low static close-up of his hand on the armrest, the paper ticket now creased between his thumb and forefinger, the tungsten light catching the frayed cuff of his sleeve. <scenetrans>His voice carries over from the previous shot and remains audible across the transition as he finishes: <d>[Chinese] 就等这一趟车。</d> while his hand slowly tightens around the ticket until the paper buckles.
+overall_soundscape: A steady rhythmic clatter of steel wheels over rail joints runs through the entire clip at a constant tempo, with the deep continuous rumble of the carriage underneath. Rain ticks against the window glass in irregular bursts. The loose ceiling lamp fitting rattles faintly on the same rhythm as the wheels, and fabric rustles as the man shifts his weight.
+non_diegetic_music: A single sustained low cello note held under the entire scene, joined near the end by sparse, widely spaced piano notes in the upper register, very slow, never rising in volume.
+```
+
+</details>
+
+[Full video with sound](samples/night-train-ticket.mp4) · [Entry file](prompts/video/night-train-ticket.yaml)
+
+<a id="late-night-office"></a>
+#### Alone in the office at night, nine fast cuts
+
+<img src="previews/late-night-office.gif" height="240">
+
+Nine shots in 15 seconds, with cuts as short as 0.5 s to build tension. Each shot gets its own timestamp and one clear action.
+
+[`phone-footage`](#tag-phone-footage) [`vertical`](#tag-vertical) [`suspense`](#tag-suspense) [`multi-shot`](#tag-multi-shot) [`fast-cuts`](#tag-fast-cuts) [`15s`](#tag-15s)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 480x864 · 15.1 s · 4 steps (turbo) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Amateur handheld smartphone footage, vertical 9:16, shot on a phone main camera at f/1.8 in a dark open-plan office at night. Harsh mixed lighting: one overhead fluorescent panel still on above an empty desk bank and the cold blue-white glow of a single monitor, no colour grading, white balance leaning slightly green, visible sensor noise in the shadows, mild handheld micro-shake throughout, fine motion blur on quick movement. Wide shot from across the office of a woman (S1) alone at the far desk, seen small in frame, hunched toward the monitor, rows of empty chairs between her and the camera. The camera pushes in with small amplitude at slow speed down the aisle toward her. Throughout the shot she stays completely still except for one hand on the mouse, the monitor light flickering across the empty desks around her. [Shot 2] At 00:03.000, the shot cuts to a medium shot of the same woman from the side at desk height, her face lit only by the monitor, a black cardigan over her shoulders and her hair tied back. Throughout the shot she leans slowly forward toward the screen and her hand stops moving on the mouse. [Shot 3] At 00:05.000, the shot cuts to a close-up of her face straight on, the monitor glow filling her glasses. Throughout the shot her eyes track downward across the screen and her lips part slightly. [Shot 4] At 00:06.000, the shot cuts to an extreme close-up of her right eye, the reflected screen text sliding across the wet surface of the eye. [Shot 5] At 00:06.500, the shot cuts to an extreme close-up of her hand gripping the edge of the desk, the knuckles going pale. [Shot 6] At 00:07.000, the shot cuts to an extreme close-up of her mouth as her jaw sets hard. [Shot 7] At 00:07.500, the shot cuts back to the close-up of her whole face straight on, held steady. Throughout the shot she stares without blinking and her breathing lifts her shoulders twice. [Shot 8] At 00:09.500, the shot cuts to a wide shot from behind her chair looking past her at the bright monitor in the dark office, her silhouette small and black against it. Throughout the shot she slowly stands up out of the chair, the chair rolling back a short distance. [Shot 9] At 00:12.000, the shot cuts to a medium shot of the empty aisle of desks with the office door at the far end swinging shut, the fluorescent panel humming above rows of vacant chairs. Throughout the shot nothing moves except the door settling closed, and the frame comes to rest holding perfectly still.
+overall_soundscape: A steady low hum of air conditioning and the electrical buzz of a fluorescent panel throughout. Sparse mouse clicks early on, then they stop. A chair caster rolling on carpet. A door latch clicking shut at the end. Two audible breaths through the nose.
+non_diegetic_music: A single low sustained synth note enters quietly and holds, with one sharp percussive hit at the tightest moment, then falls away to silence.
+```
+
+</details>
+
+[Full video with sound](samples/late-night-office.mp4) · [Entry file](prompts/video/late-night-office.yaml)
+
+<a id="neon-night-market-alley"></a>
+#### Neon night-market alley with bilingual signs
+
+<img src="previews/neon-night-market-alley.gif" height="240">
+
+Text rendering test: the Chinese sign and the English OPEN sign stay legible through rain and camera motion. A timed background event (a cyclist at 00:02) is placed inside a single shot.
+
+[`cinematic`](#tag-cinematic) [`neon-text`](#tag-neon-text) [`chinese-text`](#tag-chinese-text) [`rain`](#tag-rain) [`city`](#tag-city) [`landscape`](#tag-landscape)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Live-action cinematic shot, shallow depth of field, anamorphic lens flares. A rain-slick narrow alley at dusk in a dense Chinese city. Wet black asphalt fills the lower third, mirroring a vertical neon sign whose large clean characters read "夜市" in saturated magenta, and below it a smaller horizontal sign in crisp white block letters reading "OPEN". The camera pushes in slowly and steadily along the alley centreline for the entire duration. A single red paper lantern hangs midground left, swaying gently. Steady rain falls in fine bright streaks lit from behind, and thin steam drifts from a grate on the right. At 00:02.000 a cyclist in a translucent rain poncho crosses left to right through the far background, briefly occluding the magenta sign. At 00:04.000 the camera settles and the "OPEN" sign flickers once, then holds steady and fully legible.
+overall_soundscape: Continuous fine rain on asphalt and metal awnings as the baseline bed, with individual droplets ticking on a tin roof close to camera. A low steady hum of distant traffic sits underneath. At the cyclist's pass, the wet whir of bicycle tyres through a puddle rises and falls quickly. A faint electrical buzz from the neon tubing persists throughout.
+non_diegetic_music: Sparse ambient synth pad, very slow tempo, one low sustained bass note with a single distant reverbed piano figure, understated and never rising above the rain.
+```
+
+</details>
+
+[Full video with sound](samples/neon-night-market-alley.mp4) · [Entry file](prompts/video/neon-night-market-alley.yaml)
+
+<a id="headphone-macro-commercial"></a>
+#### Headphone product film with end wordmark (15 s)
+
+<img src="previews/headphone-macro-commercial.gif" height="240">
+
+Studio product language: seamless black void, hard raking key, macro anamorphic. Four shots go from macro detail to hero shot, and the fictional brand name renders cleanly at the end.
+
+[`product`](#tag-product) [`commercial`](#tag-commercial) [`macro`](#tag-macro) [`wordmark`](#tag-wordmark) [`multi-shot`](#tag-multi-shot) [`landscape`](#tag-landscape) [`15s`](#tag-15s)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 864x480 · 15.1 s · 4 steps (turbo) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Live-action, cinematic high-end product commercial, shot on a macro anamorphic lens at T2.8 against a seamless pure black void with no visible set, floor or horizon. Controlled studio lighting: one hard raking key from the upper left and a broad soft fill from directly above, deep true blacks, high micro-contrast, very shallow depth of field, immaculate dust-free surfaces, a subtle horizontal lens flare. Extreme macro framing on the curved outer edge of a brushed champagne aluminium earcup, its fine concentric machining lines catching the light, the anodised surface falling away into darkness at both edges of the frame. The camera arcs around the earcup with small amplitude at slow speed. Throughout the shot a single hard specular highlight travels steadily across the machined aluminium from left to right, the concentric turning marks igniting one ring at a time as it passes, while the surrounding void stays pure black. [Shot 2] At 00:04.200, the shot cuts to a wide shot of the complete over-ear headphones floating upright and centred in the same pure black void, seen three-quarters on: two brushed champagne aluminium earcups, a charcoal knit mesh canopy stretched across the headband, and a polished machined hinge on each side. A cool rim light traces the top edge of the headband while a warm key grazes the left earcup. The camera pulls out with small amplitude at slow speed while the headphones rotate slowly on their vertical axis. Throughout the shot the rotation carries the specular highlight from the left earcup across the polished hinge and onto the knit mesh, the fine knit texture briefly flaring into detail before falling back into shadow. [Shot 3] At 00:08.400, the shot cuts to an extreme macro of the charcoal knit mesh canopy filling the frame with its woven texture, a single knurled aluminium dial visible at the right edge of frame. Backlight passes through the knit so individual fibres glow along their edges. The camera pushes in with small amplitude at slow speed toward the dial. Throughout the shot the dial rotates a precise quarter turn, its knurled edge stepping past the light one groove at a time, while the backlight slowly strengthens so more of the knit fibres light up from behind. [Shot 4] At 00:11.600, the shot cuts to a centred hero shot of the complete headphones settling to a perfect standstill in the pure black void, lit by a single soft top light that defines the champagne aluminium and leaves the knit mesh in deep shadow. Below the headphones the wordmark "MoMo" appears in large clean white letters, sharp and perfectly still. Throughout the shot the headphones stay motionless while the light on the aluminium steadies, the wordmark holds crisp and unmoving, and the frame comes to rest holding perfectly still.
+overall_soundscape: A deep quiet low-frequency room tone runs throughout. A soft airy whoosh crosses each shot change. One precise mechanical click as the dial steps round. A faint dry fabric rustle from the knit mesh.
+non_diegetic_music: A single sustained synth pad enters at a slow tempo, joined by sparse piano notes one every two beats. A soft sub-bass swell lands on the wide reveal. Everything falls away to one held note at the end.
+```
+
+</details>
+
+[Full video with sound](samples/headphone-macro-commercial.mp4) · [Entry file](prompts/video/headphone-macro-commercial.yaml)
+
+<a id="morning-tea-stall"></a>
+#### Tea stall at first light
+
+<img src="previews/morning-tea-stall.gif" height="240">
+
+A calm single shot carried by small continuous changes: steam thickens, charcoal brightens, light creeps in. Write change across the whole shot with `Throughout the shot ...` and keep timestamps for cuts.
+
+[`cinematic`](#tag-cinematic) [`chinese-text`](#tag-chinese-text) [`still-life`](#tag-still-life) [`ambience`](#tag-ambience) [`landscape`](#tag-landscape)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, shallow depth of field on a wide-aperture lens. A quiet tea stall on a stone street at first light, mist still lying low over the cobbles. A copper kettle sits on a small charcoal brazier in the near foreground, a thin ribbon of steam rising and bending in the cold air. Behind it a weathered wooden board hangs at eye level with two large clean black characters reading "早茶" painted on it. The camera pushes in with small amplitude at slow speed toward the kettle. Throughout the shot the steam thickens and drifts left, the charcoal glows brighter under a faint draught, and pale morning light creeps across the stone from the right.
+overall_soundscape: A low continuous hiss from the kettle with occasional soft ticks of expanding metal. Fine charcoal crackle sits close to the microphone, and a distant street slowly wakes with faint footsteps and a single bicycle bell.
+non_diegetic_music: A single sustained low string note held throughout, joined near the end by two widely spaced notes on a wooden flute, very slow, never rising in volume.
+```
+
+</details>
+
+[Full video with sound](samples/morning-tea-stall.mp4) · [Entry file](prompts/video/morning-tea-stall.yaml)
+
+<a id="panda-web-comic"></a>
+#### Crude 2D web-comic panda
+
+<img src="previews/panda-web-comic.gif" height="240">
+
+Style words for deliberately crude 2D: thick uniform outlines, flat pastel blocks, no gradients, paper grain, no depth of field.
+
+[`2d-animation`](#tag-2d-animation) [`comic`](#tag-comic) [`meme`](#tag-meme) [`vertical`](#tag-vertical) [`character`](#tag-character)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 480x864 · 5.2 s · 4 steps (turbo) · audio</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] 2D-animated web comic panel look, thick uniform black outlines, flat pastel colour blocking with no gradients, minimal background reduced to two or three flat colour fields, deliberately crude and low-detail drawing, slight paper grain, no depth of field, vertical 9:16 framing. The character is a crude round white panda-like head with two solid black eye patches and a simple wide black mouth, sitting on a small simply drawn body in a bright red hoodie with a large yellow lightning bolt printed across the chest. The character stands centred against a flat mustard-yellow background holding a single sheet of white paper up in front of its chest, mouth already stretched wide open. The camera holds as a static shot. Throughout the shot the character's arms shake the paper in short sharp jolts and its black eye patches squash downward, and at the end the movement settles and the frame comes to rest holding perfectly still.
+overall_soundscape: A dry paper rustle in short bursts, and a light cartoon whoosh on each shake.
+non_diegetic_music: A simple bouncy ukulele loop at a brisk tempo, one chord per beat.
+```
+
+</details>
+
+[Full video with sound](samples/panda-web-comic.mp4) · [Entry file](prompts/video/panda-web-comic.yaml)
+
+<a id="image-to-video"></a>
+### Image-to-video
+
+<a id="headphone-logo-reveal"></a>
+#### Logo reveal continued from a still frame
+
+<img src="previews/headphone-logo-reveal.gif" height="240">
+
+Image-to-video: the first line pins the input image to 0.00 s, then the usual three-part prompt follows. The input is the last frame of an earlier segment, which is how longer films are chained.
+
+[`product`](#tag-product) [`commercial`](#tag-commercial) [`wordmark`](#tag-wordmark) [`image-to-video`](#tag-image-to-video) [`landscape`](#tag-landscape) [`15s`](#tag-15s)
+
+<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Image-to-video · 864x480 · 15.1 s · 4 steps (turbo) · audio</summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic high-end product commercial, macro anamorphic lens at T2.8 against a seamless pure black void with no visible set, floor or horizon, one hard raking key from the upper left and a broad soft fill from directly above, deep true blacks, high micro-contrast, very shallow depth of field, immaculate dust-free surfaces, a subtle horizontal lens flare. The product is a pair of over-ear headphones with blunt hexagonal earcups milled from deep graphite anodised aluminium with a wide chamfered bevel around each face, a solid one-piece olive-bronze metal headband arching between them with no fabric or padding visible on its outer surface, and a single knurled olive-bronze dial set into the lower edge of the right earcup. The shot opens on the macro seam between headband and earcup and pulls out with small amplitude at slow speed until the complete headphones sit centred and motionless in the pure black void, lit by a single soft top light that defines the graphite hexagonal faces and the olive-bronze headband. Throughout the shot the pull-out decelerates smoothly to a stop and the frame comes to rest holding perfectly still. [Shot 2] At 00:07.600, the shot cuts to a locked-off centred hero shot of the same headphones on pure black, and below them the wordmark "MoMo" appears in large clean white letters, sharp and perfectly still. Throughout the shot the headphones stay completely motionless, the wordmark holds crisp and unmoving, and the frame comes to rest holding perfectly still.
+overall_soundscape: A deep quiet low-frequency room tone runs throughout, fading toward near silence at the end.
+non_diegetic_music: A sustained synth pad with sparse piano notes at a slow tempo, everything falling away to one held note at the end.
+```
+
+Input images: <img src="inputs/headphone-frame.png" height="80">
+
+</details>
+
+[Full video with sound](samples/headphone-logo-reveal.mp4) · [Entry file](prompts/video/headphone-logo-reveal.yaml)
+
+<a id="mode-comparison"></a>
+### One scene, four modes
+
+<a id="lantern-alley-four-modes"></a>
+#### One scene, four modes: text, image, keyframes, reference
+
+<table><tr><td align="center"><img src="previews/lantern-alley-four-modes-text-to-video.gif" width="200"><br><sub>Text-to-video</sub></td><td align="center"><img src="previews/lantern-alley-four-modes-image-to-video.gif" width="200"><br><sub>Image-to-video</sub></td><td align="center"><img src="previews/lantern-alley-four-modes-keyframes-to-video.gif" width="200"><br><sub>Keyframes-to-video</sub></td><td align="center"><img src="previews/lantern-alley-four-modes-reference-to-video.gif" width="200"><br><sub>Reference-to-video</sub></td></tr></table>
+
+The same rainy alley made four ways. Text-to-video creates the scene; image-to-video continues from a frame; keyframes interpolate between a first and last frame; reference-to-video keeps the location and lighting of a reference image while generating new motion. Short one-line prompts are enough once an image carries the look.
+
+[`cinematic`](#tag-cinematic) [`rain`](#tag-rain) [`city`](#tag-city) [`landscape`](#tag-landscape) [`mode-comparison`](#tag-mode-comparison) [`keyframes`](#tag-keyframes) [`reference-to-video`](#tag-reference-to-video) [`image-to-video`](#tag-image-to-video)
+
+<details><summary><b>Prompt: Text-to-video</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+Realistic cinematic look: a lone red paper lantern drifting over a rain-slick Chongqing alley at dusk, neon reflections rippling in puddles, slow dolly-in, shallow depth of field, gentle ambient rain and distant traffic.
+```
+
+</details>
+
+<details><summary><b>Prompt: Image-to-video</b> · MiniMax H3 (open weights, ComfyUI) · Image-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+Continue the scene naturally from the opening frame: the red paper lantern drifts further down the rain-slick alley, camera pushes slowly forward, neon reflections sliding across the puddles, steady ambient rain.
+```
+
+Input images: <img src="inputs/lantern-frame-a.png" height="80">
+
+</details>
+
+<details><summary><b>Prompt: Keyframes-to-video</b> · MiniMax H3 (open weights, ComfyUI) · Keyframes-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+Slow continuous dolly down the rain-slick neon alley, rain falling steadily.
+```
+
+Input images: <img src="inputs/lantern-frame-a.png" height="80"> <img src="inputs/lantern-frame-b.png" height="80">
+
+</details>
+
+<details><summary><b>Prompt: Reference-to-video</b> · MiniMax H3 (open weights, ComfyUI) · Reference-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+
+```text
+Use <Picture 1> as the location and lighting reference. Keep the same rain-slick alley, the same neon palette and the same wet-asphalt reflections. A slow steady dolly moves down the alley while rain keeps falling; ambient rain and distant traffic.
+```
+
+Input images: <img src="inputs/lantern-frame-a.png" height="80">
+
+</details>
+
+[Full video with sound (Text-to-video)](samples/lantern-alley-four-modes-text-to-video.mp4) · [Full video with sound (Image-to-video)](samples/lantern-alley-four-modes-image-to-video.mp4) · [Full video with sound (Keyframes-to-video)](samples/lantern-alley-four-modes-keyframes-to-video.mp4) · [Full video with sound (Reference-to-video)](samples/lantern-alley-four-modes-reference-to-video.mp4) · [Entry file](prompts/video/lantern-alley-four-modes.yaml)
+
+<a id="recipes"></a>
+## Agent recipes: editing video
+
+Tell a coding agent what you want in plain words. Each recipe records the request, the commands the agent ran, and the result.
+
+<a id="teaser-montage"></a>
+### Cut a teaser from clips of different sizes, with title and crossfades
+
+<img src="previews/recipe-teaser-montage.gif" height="240">
+
+**Request to the agent**
+
+> Make a 720p teaser called RAIN CITY from the first 4.5 seconds of the neon alley, noodle stall and night train clips. Half-second crossfades on picture and sound, the title over the opening, loudness normalised for social media, fade out at the end.
+
+The inputs are 864x480 and 1344x768; every branch is scaled, cropped and resampled to the same size, frame rate and sample rate first, otherwise xfade and acrossfade refuse to join them. Total length is 3 x 4.5 s minus two 0.5 s overlaps = 12.5 s.
+
+[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`montage`](#tag-montage) [`title-card`](#tag-title-card) [`loudness`](#tag-loudness)
+
+<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9</summary>
+
+```bash
+ffmpeg -i samples/neon-night-market-alley.mp4 -i samples/hk-noodle-stall-1960s.mp4 -i samples/night-train-ticket.mp4 -filter_complex "
+[0:v]trim=0:4.5,setpts=PTS-STARTPTS,scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,fps=24,format=yuv420p,setsar=1[v0];
+[1:v]trim=0:4.5,setpts=PTS-STARTPTS,scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,fps=24,format=yuv420p,setsar=1[v1];
+[2:v]trim=0:4.5,setpts=PTS-STARTPTS,scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,fps=24,format=yuv420p,setsar=1[v2];
+[0:a]atrim=0:4.5,asetpts=PTS-STARTPTS,aresample=48000[a0];
+[1:a]atrim=0:4.5,asetpts=PTS-STARTPTS,aresample=48000[a1];
+[2:a]atrim=0:4.5,asetpts=PTS-STARTPTS,aresample=48000[a2];
+[v0][v1]xfade=transition=fade:duration=0.5:offset=4[x1];
+[x1][v2]xfade=transition=fade:duration=0.5:offset=8[x2];
+[a0][a1]acrossfade=d=0.5[ax1];
+[ax1][a2]acrossfade=d=0.5[ax2];
+[x2]drawtext=fontfile=/System/Library/Fonts/Supplemental/Futura.ttc:text='RAIN CITY':fontcolor=white:fontsize=110:x=(w-tw)/2:y=h*0.70:alpha='if(lt(t,0.3),t/0.3,if(lt(t,2.0),1,if(lt(t,2.5),(2.5-t)/0.5,0)))',fade=t=in:st=0:d=0.4,fade=t=out:st=12.1:d=0.4[v];
+[ax2]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st=12:d=0.5[a]" \
+  -map "[v]" -map "[a]" -c:v libx264 -crf 20 -c:a aac -b:a 160k -ar 48000 teaser.mp4
+```
+
+</details>
+
+[Result](samples/recipe-teaser-montage.mp4) · [Entry file](recipes/teaser-montage.yaml)
+
+<a id="bilingual-subtitles"></a>
+### Transcribe dialogue and burn in Chinese and English subtitles
+
+<img src="previews/recipe-bilingual-subtitles.gif" height="240">
+
+**Request to the agent**
+
+> Transcribe the Chinese dialogue in samples/night-train-ticket.mp4, check it against the script in prompts/video/night-train-ticket.yaml, add an English line under each Chinese line, and burn the subtitles in.
+
+Whisper gets homophones wrong in Chinese (他 and 她 sound identical). When a script exists, tell the agent to use it for wording and whisper only for timing.
+
+[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`whisper`](#tag-whisper) [`subtitles`](#tag-subtitles) [`bilingual`](#tag-bilingual) [`chinese-dialogue`](#tag-chinese-dialogue)
+
+<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9 with libass, openai-whisper medium</summary>
+
+```bash
+whisper samples/night-train-ticket.mp4 --model medium --language zh --output_format srt
+# whisper heard 我等了他八年 / 就等着一趟车; the script says 我等了她八年 / 就等这一趟车.
+# The agent kept whisper's timing, took the wording from the script, and added English lines:
+#   1  00:00:00,000 --> 00:00:02,100  我等了她八年， / I waited eight years for her,
+#   2  00:00:02,200 --> 00:00:04,200  就等这一趟车。 / all for this one train.
+ffmpeg -i samples/night-train-ticket.mp4 \
+  -vf "subtitles=subs.srt:force_style='FontName=PingFang SC,FontSize=15,Outline=1,Shadow=0,MarginV=22'" \
+  -c:v libx264 -crf 20 -c:a copy subtitled.mp4
+```
+
+</details>
+
+[Result](samples/recipe-bilingual-subtitles.mp4) · [Entry file](recipes/bilingual-subtitles.yaml)
+
+<a id="vertical-blur-fill"></a>
+### Turn a 16:9 clip into a 9:16 short with a blurred background
+
+<img src="previews/recipe-vertical-blur-fill.gif" height="240">
+
+**Request to the agent**
+
+> Make a 1080x1920 vertical version of samples/night-train-ticket.mp4 for TikTok. Keep the full frame visible in the middle and fill the top and bottom with a blurred, slightly darkened copy of the same video. Keep the original audio.
+
+One ffmpeg call, 1.5 s on an M-series Mac for a 5 s clip. Use it when the subject spans the whole width; crop instead when the subject sits in the centre.
+
+[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`vertical`](#tag-vertical) [`reframe`](#tag-reframe)
+
+<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9</summary>
+
+```bash
+ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
+  [0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=40,eq=brightness=-0.08[bg];
+  [0:v]scale=1080:-2[fg];
+  [bg][fg]overlay=(W-w)/2:(H-h)/2,format=yuv420p" \
+  -c:v libx264 -crf 20 -c:a copy vertical.mp4
+```
+
+</details>
+
+[Result](samples/recipe-vertical-blur-fill.mp4) · [Entry file](recipes/vertical-blur-fill.yaml)
+
+<a id="split-shots"></a>
+### Split a multi-shot clip into separate shots at the hard cuts
+
+<img src="previews/recipe-split-shots.jpg" height="240">
+
+**Request to the agent**
+
+> samples/late-night-office.mp4 should contain nine shots. Find the hard cuts, split the clip into one file per shot, and give me a storyboard strip with the middle frame of every shot.
+
+Doubles as a QA check for generated video: all eight cuts landed within 0.17 s of the timestamps written in the prompt. Lower the threshold for soft cuts, raise it for handheld footage with lots of motion.
+
+[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`scene-detection`](#tag-scene-detection) [`storyboard`](#tag-storyboard) [`qa`](#tag-qa)
+
+<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9</summary>
+
+```bash
+# 1. find cuts
+T=$(ffmpeg -i samples/late-night-office.mp4 -vf "scdet=threshold=8" -f null - 2>&1 \
+    | grep -o "lavfi.scd.time: [0-9.]*" | awk '{print $2}' | paste -sd, -)
+# -> 3.04,5.04,6.0,6.54,7.0,7.46,9.67,12.17  (prompt asked for 3.0,5.0,6.0,6.5,7.0,7.5,9.5,12.0)
+# 2. split, forcing keyframes at the cuts so every file starts clean
+ffmpeg -i samples/late-night-office.mp4 -c:v libx264 -crf 20 -force_key_frames "$T" -c:a aac \
+  -f segment -segment_times "$T" -reset_timestamps 1 shot_%02d.mp4
+# 3. storyboard strip
+for f in shot_*.mp4; do
+  mid=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$f" | awk '{printf "%.3f", $1/2}')
+  ffmpeg -ss "$mid" -i "$f" -frames:v 1 -vf scale=-2:320 "${f%.mp4}.jpg"
+done
+ffmpeg -pattern_type glob -i "shot_*.jpg" -vf "tile=9x1:padding=4:color=white" -frames:v 1 storyboard.jpg
+```
+
+</details>
+
+[Result](previews/recipe-split-shots.jpg) · [Entry file](recipes/split-shots.yaml)
+
+<a id="readme-preview-gif"></a>
+### Make a small looping GIF preview for a README
+
+<img src="previews/hk-noodle-stall-1960s.gif" height="240">
+
+**Request to the agent**
+
+> Make a looping GIF preview of every mp4 in samples/ for the README. Keep each under about 1.5 MB. Speed up clips longer than 8 seconds so the whole story still plays.
+
+Every preview in this repository was made this way: 0.5 to 2 MB each. A per-clip palette with 96 colours and Bayer dithering keeps skin tones and neon clean at a small size.
+
+[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`gif`](#tag-gif) [`preview`](#tag-preview)
+
+<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9</summary>
+
+```bash
+# landscape: 360 px wide; vertical: 300 px tall; 2x speed when longer than 8 s
+ffmpeg -i in.mp4 -vf "setpts=PTS/2,fps=8,scale=360:-2:flags=lanczos,split[a][b];[a]palettegen=max_colors=96[p];[b][p]paletteuse=dither=bayer:bayer_scale=4" -loop 0 out.gif
+```
+
+</details>
+
+[Result](previews/hk-noodle-stall-1960s.gif) · [Entry file](recipes/readme-preview-gif.yaml)
+
+<a id="image"></a>
+## Image prompts
+
+The first batch is being tested. Entries go live once each prompt has a real output to show.
+
+<a id="threed"></a>
+## 3D with agents
+
+Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are being tested.
+
+<a id="tags"></a>
+## Browse by tag
+
+- <a id="tag-15s"></a>`15s` (5): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar), [Alone in the office at night, nine fast cuts](#late-night-office), [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Logo reveal continued from a still frame](#headphone-logo-reveal)
+- <a id="tag-2d-animation"></a>`2d-animation` (1): [Crude 2D web-comic panda](#panda-web-comic)
+- <a id="tag-agent-editing"></a>`agent-editing` (5): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Make a small looping GIF preview for a README](#readme-preview-gif)
+- <a id="tag-ambience"></a>`ambience` (1): [Tea stall at first light](#morning-tea-stall)
+- <a id="tag-animals"></a>`animals` (2): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar)
+- <a id="tag-bilingual"></a>`bilingual` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-character"></a>`character` (1): [Crude 2D web-comic panda](#panda-web-comic)
+- <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (4): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Night train, a sentence carried across a cut](#night-train-ticket), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-chinese-text"></a>`chinese-text` (2): [Neon night-market alley with bilingual signs](#neon-night-market-alley), [Tea stall at first light](#morning-tea-stall)
+- <a id="tag-cinematic"></a>`cinematic` (6): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar), [Night train, a sentence carried across a cut](#night-train-ticket), [Neon night-market alley with bilingual signs](#neon-night-market-alley), [Tea stall at first light](#morning-tea-stall), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-city"></a>`city` (2): [Neon night-market alley with bilingual signs](#neon-night-market-alley), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-comedy"></a>`comedy` (1): [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar)
+- <a id="tag-comic"></a>`comic` (1): [Crude 2D web-comic panda](#panda-web-comic)
+- <a id="tag-commercial"></a>`commercial` (2): [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Logo reveal continued from a still frame](#headphone-logo-reveal)
+- <a id="tag-dialogue"></a>`dialogue` (2): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Night train, a sentence carried across a cut](#night-train-ticket)
+- <a id="tag-fast-cuts"></a>`fast-cuts` (1): [Alone in the office at night, nine fast cuts](#late-night-office)
+- <a id="tag-ffmpeg"></a>`ffmpeg` (5): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Make a small looping GIF preview for a README](#readme-preview-gif)
+- <a id="tag-film-look"></a>`film-look` (2): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Night train, a sentence carried across a cut](#night-train-ticket)
+- <a id="tag-gif"></a>`gif` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
+- <a id="tag-image-to-video"></a>`image-to-video` (2): [Logo reveal continued from a still frame](#headphone-logo-reveal), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-keyframes"></a>`keyframes` (1): [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-landscape"></a>`landscape` (7): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Night train, a sentence carried across a cut](#night-train-ticket), [Neon night-market alley with bilingual signs](#neon-night-market-alley), [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Tea stall at first light](#morning-tea-stall), [Logo reveal continued from a still frame](#headphone-logo-reveal), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-loudness"></a>`loudness` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-macro"></a>`macro` (1): [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial)
+- <a id="tag-meme"></a>`meme` (1): [Crude 2D web-comic panda](#panda-web-comic)
+- <a id="tag-mode-comparison"></a>`mode-comparison` (1): [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-montage"></a>`montage` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-multi-shot"></a>`multi-shot` (5): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar), [Night train, a sentence carried across a cut](#night-train-ticket), [Alone in the office at night, nine fast cuts](#late-night-office), [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial)
+- <a id="tag-neon-text"></a>`neon-text` (2): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Neon night-market alley with bilingual signs](#neon-night-market-alley)
+- <a id="tag-period-drama"></a>`period-drama` (1): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s)
+- <a id="tag-phone-footage"></a>`phone-footage` (2): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Alone in the office at night, nine fast cuts](#late-night-office)
+- <a id="tag-preview"></a>`preview` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
+- <a id="tag-product"></a>`product` (2): [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Logo reveal continued from a still frame](#headphone-logo-reveal)
+- <a id="tag-qa"></a>`qa` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-rain"></a>`rain` (2): [Neon night-market alley with bilingual signs](#neon-night-market-alley), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-reference-to-video"></a>`reference-to-video` (1): [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-reframe"></a>`reframe` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-scene-detection"></a>`scene-detection` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-short-drama"></a>`short-drama` (1): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag)
+- <a id="tag-still-life"></a>`still-life` (1): [Tea stall at first light](#morning-tea-stall)
+- <a id="tag-storyboard"></a>`storyboard` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-subtitles"></a>`subtitles` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-suspense"></a>`suspense` (1): [Alone in the office at night, nine fast cuts](#late-night-office)
+- <a id="tag-title-card"></a>`title-card` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-vertical"></a>`vertical` (5): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar), [Alone in the office at night, nine fast cuts](#late-night-office), [Crude 2D web-comic panda](#panda-web-comic), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-whisper"></a>`whisper` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-wordmark"></a>`wordmark` (2): [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Logo reveal continued from a still frame](#headphone-logo-reveal)
+
+<a id="how"></a>
+## How to read an entry
+
+- **Prompt**: the exact text sent to the model. Copy it with the button on the code block.
+- **Settings**: model, mode, resolution, length, sampler steps, whether audio was generated.
+- **Preview**: a silent GIF. Open **Full video** for the original file with sound.
+- **Source**: each entry is one YAML file. This README is generated from them.
+
+<a id="contributing"></a>
+## Contributing
+
+1. Add one YAML file under `prompts/` or `recipes/` (copy any existing entry as a template).
+2. Include the exact prompt, the model and settings, and the unedited output in `samples/`.
+3. Run `python scripts/build.py` to regenerate both READMEs, then open a pull request.
+4. Entries without a real output are closed. Promotional links are closed.
+
+## Related lists by the same maintainers
+
+- [awesome-prompts](https://github.com/ai-boost/awesome-prompts): prompts for LLMs and agents
+- [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering): building reliable agent harnesses
+
+## License
+
+GPL-3.0, unchanged from the original repository.

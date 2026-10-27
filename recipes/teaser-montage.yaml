@@ -1,0 +1,29 @@
+id: teaser-montage
+title: {en: "Cut a teaser from clips of different sizes, with title and crossfades", zh: "把不同尺寸的片剪成预告：标题、转场、响度统一"}
+tags: [agent-editing, ffmpeg, montage, title-card, loudness]
+agent: Claude Opus 5.5 in Claude Code
+tools: [ffmpeg 9]
+ask:
+  en: "Make a 720p teaser called RAIN CITY from the first 4.5 seconds of the neon alley, noodle stall and night train clips. Half-second crossfades on picture and sound, the title over the opening, loudness normalised for social media, fade out at the end."
+  zh: "用夜市小巷、面档、夜车三段的前 4.5 秒剪一支 720p 预告，片名 RAIN CITY。画面和声音都用半秒交叉淡化，开头压片名，响度按社交平台标准统一，结尾淡出。"
+inputs: [samples/neon-night-market-alley.mp4, samples/hk-noodle-stall-1960s.mp4, samples/night-train-ticket.mp4]
+commands: |
+  ffmpeg -i samples/neon-night-market-alley.mp4 -i samples/hk-noodle-stall-1960s.mp4 -i samples/night-train-ticket.mp4 -filter_complex "
+  [0:v]trim=0:4.5,setpts=PTS-STARTPTS,scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,fps=24,format=yuv420p,setsar=1[v0];
+  [1:v]trim=0:4.5,setpts=PTS-STARTPTS,scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,fps=24,format=yuv420p,setsar=1[v1];
+  [2:v]trim=0:4.5,setpts=PTS-STARTPTS,scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,fps=24,format=yuv420p,setsar=1[v2];
+  [0:a]atrim=0:4.5,asetpts=PTS-STARTPTS,aresample=48000[a0];
+  [1:a]atrim=0:4.5,asetpts=PTS-STARTPTS,aresample=48000[a1];
+  [2:a]atrim=0:4.5,asetpts=PTS-STARTPTS,aresample=48000[a2];
+  [v0][v1]xfade=transition=fade:duration=0.5:offset=4[x1];
+  [x1][v2]xfade=transition=fade:duration=0.5:offset=8[x2];
+  [a0][a1]acrossfade=d=0.5[ax1];
+  [ax1][a2]acrossfade=d=0.5[ax2];
+  [x2]drawtext=fontfile=/System/Library/Fonts/Supplemental/Futura.ttc:text='RAIN CITY':fontcolor=white:fontsize=110:x=(w-tw)/2:y=h*0.70:alpha='if(lt(t,0.3),t/0.3,if(lt(t,2.0),1,if(lt(t,2.5),(2.5-t)/0.5,0)))',fade=t=in:st=0:d=0.4,fade=t=out:st=12.1:d=0.4[v];
+  [ax2]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st=12:d=0.5[a]" \
+    -map "[v]" -map "[a]" -c:v libx264 -crf 20 -c:a aac -b:a 160k -ar 48000 teaser.mp4
+output: samples/recipe-teaser-montage.mp4
+preview: previews/recipe-teaser-montage.gif
+notes:
+  en: "The inputs are 864x480 and 1344x768; every branch is scaled, cropped and resampled to the same size, frame rate and sample rate first, otherwise xfade and acrossfade refuse to join them. Total length is 3 x 4.5 s minus two 0.5 s overlaps = 12.5 s."
+  zh: "输入有 864x480 和 1344x768 两种尺寸。每路先统一尺寸、帧率和采样率，否则 xfade 和 acrossfade 接不上。总长是 3 段 4.5 秒减去两次 0.5 秒重叠，共 12.5 秒。"

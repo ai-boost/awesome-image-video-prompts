@@ -1,0 +1,28 @@
+id: split-shots
+title: {en: "Split a multi-shot clip into separate shots at the hard cuts", zh: "按硬切点把多镜头片拆成单独镜头"}
+tags: [agent-editing, ffmpeg, scene-detection, storyboard, qa]
+agent: Claude Opus 5.5 in Claude Code
+tools: [ffmpeg 9]
+ask:
+  en: "samples/late-night-office.mp4 should contain nine shots. Find the hard cuts, split the clip into one file per shot, and give me a storyboard strip with the middle frame of every shot."
+  zh: "samples/late-night-office.mp4 应该有九个镜头。找出硬切点，按镜头拆成单独文件，再给我一张分镜条，每个镜头取中间一帧。"
+inputs: [samples/late-night-office.mp4]
+commands: |
+  # 1. find cuts
+  T=$(ffmpeg -i samples/late-night-office.mp4 -vf "scdet=threshold=8" -f null - 2>&1 \
+      | grep -o "lavfi.scd.time: [0-9.]*" | awk '{print $2}' | paste -sd, -)
+  # -> 3.04,5.04,6.0,6.54,7.0,7.46,9.67,12.17  (prompt asked for 3.0,5.0,6.0,6.5,7.0,7.5,9.5,12.0)
+  # 2. split, forcing keyframes at the cuts so every file starts clean
+  ffmpeg -i samples/late-night-office.mp4 -c:v libx264 -crf 20 -force_key_frames "$T" -c:a aac \
+    -f segment -segment_times "$T" -reset_timestamps 1 shot_%02d.mp4
+  # 3. storyboard strip
+  for f in shot_*.mp4; do
+    mid=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$f" | awk '{printf "%.3f", $1/2}')
+    ffmpeg -ss "$mid" -i "$f" -frames:v 1 -vf scale=-2:320 "${f%.mp4}.jpg"
+  done
+  ffmpeg -pattern_type glob -i "shot_*.jpg" -vf "tile=9x1:padding=4:color=white" -frames:v 1 storyboard.jpg
+output: previews/recipe-split-shots.jpg
+preview: previews/recipe-split-shots.jpg
+notes:
+  en: "Doubles as a QA check for generated video: all eight cuts landed within 0.17 s of the timestamps written in the prompt. Lower the threshold for soft cuts, raise it for handheld footage with lots of motion."
+  zh: "也能当生成视频的验收：八个切点都落在提示词所写时间的 0.17 秒以内。软切换调低阈值，晃动大的手持素材调高阈值。"
