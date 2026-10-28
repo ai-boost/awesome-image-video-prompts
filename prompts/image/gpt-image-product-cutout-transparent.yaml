@@ -1,0 +1,27 @@
+id: gpt-image-product-cutout-transparent
+title:
+  en: Product cutout on a transparent background
+  zh: 产品抠图，透明背景
+model: GPT Image 2.5
+mode: image-edit
+category: brand
+tags:
+- product
+- transparent
+- cutout
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout
+  credit: OpenAI
+  captured: '2026-10-28'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp
+notes:
+  en: 'Asks for a crisp silhouette with no halos, exact geometry and legible labels, and bans backdrops and drawn checkerboards. Use PNG or WebP with background=transparent. Preview: the Sunburst variant.'
+  zh: 要求轮廓干净无白边、形状和标签原样保留，并禁止背景和画出来的棋盘格。输出用 PNG 或 WebP，并设 background=transparent。预览图为 Sunburst 版本。
+prompt: |
+  Extract the product from the input image and isolate it on a fully transparent background.
+  Output: centered product, crisp silhouette, no halos/fringing.
+  Preserve product geometry and label legibility exactly.
+  Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+  Do not restyle the product; remove the background and preserve clean alpha transparency.

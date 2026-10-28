@@ -1,0 +1,40 @@
+id: gpt-image-toy-airplane-collectible-box
+title:
+  en: Holiday collectible toy airplane in retail packaging
+  zh: 节日限定玩具飞机收藏版包装
+model: GPT Image 2.5
+mode: text-to-image
+category: brand
+tags:
+- packaging
+- product
+- toy
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise
+  credit: OpenAI
+  captured: '2026-10-28'
+notes:
+  en: 'Uses product photography cues for materials, lighting and label printing, keeps the design original, and fixes the packaging text verbatim. Preview: the Sunburst variant.'
+  zh: 用产品摄影的说法写材质、灯光和标签印刷，要求原创设计，包装文字逐字固定。预览图为 Sunburst 版本。
+prompt: |
+  Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+  Concept:
+  A nostalgic holiday collectible inspired by the simple toy airplanes
+  children used to play with during winter holidays.
+  Evokes warmth, imagination, and childhood wonder.
+
+  Style:
+  Premium toy photography, realistic plastic and painted metal textures,
+  studio lighting, shallow depth of field,
+  sharp label printing, high-end retail presentation.
+
+  Constraints:
+  - Original design only
+  - No trademarks
+  - No watermarks
+  - No logos
+
+  Include ONLY this packaging text (verbatim):
+  "Christmas Memories Edition"

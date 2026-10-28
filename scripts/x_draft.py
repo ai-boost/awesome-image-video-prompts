@@ -25,7 +25,7 @@ FFMPEG = shutil.which("ffmpeg") or "/opt/homebrew/bin/ffmpeg"
 
 MODES = {"video": ["text-to-video", "image-to-video", "keyframes-to-video", "reference-to-video", "video-edit", "extend"],
          "image": ["text-to-image", "image-edit"]}
-IMAGE_CATS = ["poster", "photo-to-art", "realism", "portrait", "illustration", "ui-mockup", "map", "collage"]
+IMAGE_CATS = ["poster", "photo-to-art", "realism", "portrait", "illustration", "ui-mockup", "map", "collage", "infographic", "brand", "edit"]
 
 RULES = """You are the editor of awesome-image-video-prompts, a curated list of AI video and image prompts.
 Look at the thumbnail with the Read tool first: {thumb}

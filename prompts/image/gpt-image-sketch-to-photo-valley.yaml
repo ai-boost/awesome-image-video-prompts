@@ -1,0 +1,26 @@
+id: gpt-image-sketch-to-photo-valley
+title:
+  en: Line drawing of a river valley rendered as a photo
+  zh: 河谷线稿渲染成照片
+model: GPT Image 2.5
+mode: image-edit
+category: realism
+tags:
+- sketch
+- photorealism
+- landscape
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image
+  credit: OpenAI
+  captured: '2026-10-28'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp
+notes:
+  en: 'Locks layout, proportions and perspective, lets the model choose materials and light, and bans new elements so it does not reinterpret the sketch. Preview: the Sunburst variant.'
+  zh: 锁定布局、比例和透视，材质和光线交给模型，并禁止添加新元素，避免它自由发挥。预览图为 Sunburst 版本。
+prompt: |
+  Turn this drawing into a photorealistic image.
+  Preserve the exact layout, proportions, and perspective.
+  Choose realistic materials and lighting consistent with the sketch intent.
+  Do not add new elements or text.

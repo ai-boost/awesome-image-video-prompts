@@ -1,0 +1,26 @@
+id: gpt-image-outfit-swap-keep-identity
+title:
+  en: Dress a person in three reference garments, identity unchanged
+  zh: 用三件参考服装换装，人物不变
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- virtual-try-on
+- fashion
+- identity
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing
+  credit: OpenAI
+  captured: '2026-10-28'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/boots.webp
+notes:
+  en: 'Lists everything about the person that must stay fixed, then allows only the clothing to change and asks the lighting to match. The same pattern keeps a product recognizable. Preview: the Sunburst variant.'
+  zh: 先列出人物身上所有必须不变的东西，只放开服装，再要求光影匹配原图。要让产品保持可辨认也可以照这个写。预览图为 Sunburst 版本。
+prompt: |
+  Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.

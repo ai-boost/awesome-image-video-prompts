@@ -19,6 +19,9 @@ CATEGORIES = {
     "ui-mockup": {"en": "Phone and UI mockups", "zh": "手机与界面截图"},
     "map": {"en": "Maps", "zh": "地图"},
     "collage": {"en": "Collage", "zh": "拼贴"},
+    "infographic": {"en": "Infographics and slides", "zh": "信息图与幻灯片"},
+    "brand": {"en": "Logos, ads and packaging", "zh": "标志、广告与包装"},
+    "edit": {"en": "Photo editing", "zh": "照片编辑"},
 }
 SHOWCASE = ["seedance-seoul-subway-revenge", "wan-time-space-train", "h3-starship-hyperspace-jump", "omni-four-style-progression",
             "kling-moonlit-garden-run", "veo-off-road-rally"]

@@ -4,6 +4,10 @@ official:
     url: https://github.com/MiniMax-AI/MiniMax-H3/tree/main/.claude/skills/h3-prompt-writing
     en: Official agent skill that rewrites a plain idea into H3's structured prompt format. Local H3 runs look much better with it.
     zh: 官方 Agent skill，把一句想法改写成 H3 的结构化提示词格式。本地跑 H3 用上它效果差别很大。
+  - name: OpenAI image prompting guide
+    url: https://developers.openai.com/api/docs/guides/image-prompting
+    en: Eight rules for GPT Image 2.5, with Flare and Sunburst outputs side by side for generation, editing and multi-turn refinement.
+    zh: GPT Image 2.5 的八条写法规则，生成、编辑、多轮修改的示例都附 Flare 和 Sunburst 两版对比。
   - name: Gemini Omni prompt guide
     url: https://deepmind.google/models/gemini-omni/prompt-guide/
     en: Conversational editing, camera changes, multi-input references, extend, first and last frame.

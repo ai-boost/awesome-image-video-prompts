@@ -1,0 +1,24 @@
+id: gpt-image-place-dog-into-scene
+title:
+  en: Move a dog from one photo into another
+  zh: 把一张照片里的狗放进另一张照片
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- composite
+- reference
+- pets
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#combine-references
+  credit: OpenAI
+  captured: '2026-10-28'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp
+notes:
+  en: 'Images are named by number, with what moves, where it goes and what stays unchanged. Preview: the Sunburst variant.'
+  zh: 按编号指明图片，写清移动什么、放到哪里、什么不变。预览图为 Sunburst 版本。
+prompt: |
+  Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.

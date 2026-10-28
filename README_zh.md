@@ -27,15 +27,18 @@
   - [Veo 3.1](#veo31) (5)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [图片提示词](#image) (40 条)
+- [图片提示词](#image) (64 条)
   - [海报与编辑排版](#img-poster) (10)
-  - [照片转艺术风格](#img-photo-to-art) (8)
-  - [写实照片](#img-realism) (9)
+  - [照片转艺术风格](#img-photo-to-art) (9)
+  - [写实照片](#img-realism) (12)
   - [人像](#img-portrait) (5)
-  - [插画](#img-illustration) (3)
-  - [手机与界面截图](#img-ui-mockup) (2)
+  - [插画](#img-illustration) (6)
+  - [手机与界面截图](#img-ui-mockup) (3)
   - [地图](#img-map) (1)
   - [拼贴](#img-collage) (2)
+  - [信息图与幻灯片](#img-infographic) (5)
+  - [标志、广告与包装](#img-brand) (6)
+  - [照片编辑](#img-edit) (5)
 - [Agent 配方：剪视频](#recipes) (5 条)
 - [指南与 skill](#guides)
 - [用 Agent 做 3D](#threed)
@@ -5054,25 +5057,6 @@ Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, 
 
 </details>
 
-<a id="gpt-image-terrestrial-life-species-infographic"></a>
-### 带数据模块的蜜蜂科普信息图
-
-<a href="https://x.com/iamsofiaijaz/status/2113510238846672945"><img src="previews/gpt-image-terrestrial-life-species-infographic.jpg" width="360"></a>
-
-用主题占位符让同一模板适用于任意物种。逐一点明各个模块（档案侧栏、趣闻列表、尺寸对比、评分、栖息地图标、保护状态滑块），并把配色限定为柔和米色，呈现科学期刊质感。
-
-GPT Image 2.5 · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113510238846672945) · 230 赞，统计于 2026-10-28
-
-[`infographic`](#tag-infographic) [`educational`](#tag-educational) [`template`](#tag-template) [`scientific`](#tag-scientific) [`layout`](#tag-layout)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
-```
-
-</details>
-
 <a id="gpt-image-landmark-sketch-travel-poster"></a>
 ### 红色墨线风格的伊斯坦布尔地标旅行海报
 
@@ -5192,6 +5176,45 @@ Use generous cream-toned negative space, tactile paper grain, faint printing imp
 Overall mood: nostalgic, intimate, poetic, cinematic, handcrafted, sophisticated, and emotionally warm.
 
 Maintain realistic anatomy, natural body proportions, recognizable faces, believable hands, and consistent clothing throughout both versions. High-detail editorial finish, cohesive photo-to-sketch transition, no branding, no logos, and no watermark.
+```
+
+</details>
+
+<a id="gpt-image-teddy-bear-holiday-card"></a>
+### 旧泰迪熊的怀旧圣诞贺卡
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="previews/gpt-image-teddy-bear-holiday-card.jpg" width="360"></a>
+
+场景、情绪、画风和限制分块写，贺卡文字逐字给出，并规定只能有这一句。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+[`holiday`](#tag-holiday) [`card`](#tag-card) [`text-render`](#tag-text-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
 ```
 
 </details>
@@ -5564,6 +5587,27 @@ Nano Banana 2.1 · 上传图改图 · 出处: [@Just_sharon7 on X](https://x.com
 ```
 
 </details>
+
+<a id="gpt-image-pixel-art-style-transfer"></a>
+### 照参考图画风生成像素风摩托骑手
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style"><img src="previews/gpt-image-pixel-art-style-transfer.jpg" width="360"></a>
+
+参考图只用来提供画风，新主体另外描述，这样配色和像素颗粒能迁移过来，场景不会被照抄。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+[`pixel-art`](#tag-pixel-art) [`style-transfer`](#tag-style-transfer) [`reference`](#tag-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/pixels.webp)
 
 <a id="img-realism"></a>
 ## 写实照片
@@ -5969,6 +6013,73 @@ text, watermark, logo, signature, artist signature, handwritten signature, initi
 
 </details>
 
+<a id="gpt-image-1969-festival-crowd"></a>
+### 1969 年 8 月纽约贝塞尔的音乐节人群
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"><img src="previews/gpt-image-1969-festival-crowd.jpg" width="360"></a>
+
+只给地点和日期，模型就能推出服装、场面和环境。出图后检查年代细节是否准确。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+
+[`historical`](#tag-historical) [`crowd`](#tag-crowd) [`photorealism`](#tag-photorealism)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+</details>
+
+<a id="gpt-image-candid-sailor-35mm"></a>
+### 老水手补网的 35mm 抓拍人像
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting"><img src="previews/gpt-image-candid-sailor-35mm.jpg" width="360"></a>
+
+皮肤纹理、镜头、光线和颗粒逐项写明，最后一句排除美化和精修，成片才像没摆拍的照片。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+
+[`photorealism`](#tag-photorealism) [`film`](#tag-film) [`portrait`](#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+</details>
+
+<a id="gpt-image-sketch-to-photo-valley"></a>
+### 河谷线稿渲染成照片
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"><img src="previews/gpt-image-sketch-to-photo-valley.jpg" width="360"></a>
+
+锁定布局、比例和透视，材质和光线交给模型，并禁止添加新元素，避免它自由发挥。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+
+[`sketch`](#tag-sketch) [`photorealism`](#tag-photorealism) [`landscape`](#tag-landscape)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp)
+
 <a id="img-portrait"></a>
 ## 人像
 
@@ -6227,6 +6338,109 @@ Create a high-end editorial fashion illustration of a stylish woman wearing a bo
 
 </details>
 
+<a id="gpt-image-forest-hero-character-sheet"></a>
+### 儿童绘本水彩小英雄定妆图
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="previews/gpt-image-forest-hero-character-sheet.jpg" width="360"></a>
+
+人物、主题、画风和限制分块标注，纯色背景把角色展示清楚，方便后面每页复用。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+
+[`character`](#tag-character) [`childrens-book`](#tag-childrens-book) [`watercolor`](#tag-watercolor)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+</details>
+
+<a id="gpt-image-forest-hero-squirrel-rescue"></a>
+### 同一个小英雄在雪地里救松鼠
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="previews/gpt-image-forest-hero-squirrel-rescue.jpg" width="360"></a>
+
+把角色图作为输入，并在角色一致性一节里重复关键特征，换了场景服装和长相也不变。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+
+[`character`](#tag-character) [`consistency`](#tag-consistency) [`childrens-book`](#tag-childrens-book)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Continue the children’s book story using the same character.
+
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-sunburst.webp)
+
+<a id="gpt-image-pet-home-alone-comic"></a>
+### 宠物独自在家的四格漫画
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip"><img src="previews/gpt-image-pet-home-alone-comic.jpg" width="360"></a>
+
+每格只写一个具体的画面节拍，用动作和构图来写，四格的铺垫和反转就清楚了。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+
+[`comic`](#tag-comic) [`storytelling`](#tag-storytelling) [`pets`](#tag-pets)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+</details>
+
 <a id="img-ui-mockup"></a>
 ## 手机与界面截图
 
@@ -6356,6 +6570,29 @@ Outfits change continuously through the day. Morning: milky-white camisole loung
 Photo mix is fixed at 60% selfies and mirror selfies, 40% solo portraits taken by someone else. Every frame has her as the subject. Every thumbnail keeps real iPhone native-camera texture. Pose, camera distance, angle, expression, lighting, and clothing keep changing.
 The sequence runs from morning to late night. Morning feels loose and just-woken. Late morning has clear natural light. Afternoon feels like ordinary going-out. Evening has soft city light. Night has low indoor light. Late night feels quiet and private after coming home.
 The whole set is quiet, private, relaxed, and real. The album forms a dense, continuous solo-portrait look, like a full day of private portrait camera roll saved on her own phone.
+```
+
+</details>
+
+<a id="gpt-image-farmers-market-app-ui"></a>
+### 放在 iPhone 机身里的农夫市集 App 界面
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"><img src="previews/gpt-image-farmers-market-app-ui.jpg" width="360"></a>
+
+把 App 当成已经上线的产品来描述：真实的模块、层级和间距，不用概念图的词，出来的界面才像能用的。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+[`ui`](#tag-ui) [`mobile`](#tag-mobile) [`mockup`](#tag-mockup)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
 ```
 
 </details>
@@ -6516,6 +6753,402 @@ recreate this image as a collage made from newspaper parts.
 
 </details>
 
+<a id="img-infographic"></a>
+## 信息图与幻灯片
+
+<a id="gpt-image-terrestrial-life-species-infographic"></a>
+### 带数据模块的蜜蜂科普信息图
+
+<a href="https://x.com/iamsofiaijaz/status/2113510238846672945"><img src="previews/gpt-image-terrestrial-life-species-infographic.jpg" width="360"></a>
+
+用主题占位符让同一模板适用于任意物种。逐一点明各个模块（档案侧栏、趣闻列表、尺寸对比、评分、栖息地图标、保护状态滑块），并把配色限定为柔和米色，呈现科学期刊质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113510238846672945) · 230 赞，统计于 2026-10-28
+
+[`infographic`](#tag-infographic) [`educational`](#tag-educational) [`template`](#tag-template) [`scientific`](#tag-scientific) [`layout`](#tag-layout)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
+```
+
+</details>
+
+<a id="gpt-image-cellular-respiration-diagram"></a>
+### 高中生物课用的细胞呼吸示意图
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="previews/gpt-image-cellular-respiration-diagram.jpg" width="360"></a>
+
+按教学设计来写：受众、标题、必须出现的阶段和每个要标注的分子，再写明要避免什么。标注密集时用 high 质量。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+[`education`](#tag-education) [`biology`](#tag-biology) [`diagram`](#tag-diagram)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+</details>
+
+<a id="gpt-image-coffee-machine-flow-infographic"></a>
+### 全自动咖啡机工作流程信息图
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"><img src="previews/gpt-image-coffee-machine-flow-infographic.jpg" width="360"></a>
+
+三句大白话交代机器、部件顺序和想看懂流程的目的，版式和标注交给模型。出图后要核对标注是否正确。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+
+[`infographic`](#tag-infographic) [`technical`](#tag-technical) [`diagram`](#tag-diagram)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+</details>
+
+<a id="gpt-image-market-opportunity-slide"></a>
+### 带具体数字的融资路演市场规模页
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="previews/gpt-image-market-opportunity-slide.jpg" width="360"></a>
+
+按幻灯片规格来写，直接给出数字、图表类型、脚注和标志位置，再列出要避免的东西。示例数字是虚构的，使用前要换成真实数据。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+[`slide`](#tag-slide) [`chart`](#tag-chart) [`startup`](#tag-startup)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+</details>
+
+<a id="gpt-image-translate-infographic-spanish"></a>
+### 把信息图翻译成西班牙语，版式不动
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"><img src="previews/gpt-image-translate-infographic-spanish.jpg" width="360"></a>
+
+在咖啡机信息图上做的一句话编辑。出图后检查有没有漏翻的词。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
+
+[`translation`](#tag-translation) [`edit`](#tag-edit) [`text-render`](#tag-text-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-sunburst.webp)
+
+<a id="img-brand"></a>
+## 标志、广告与包装
+
+<a id="gpt-image-bakery-logo-transparent"></a>
+### 透明背景的面包店标志
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="previews/gpt-image-bakery-logo-transparent.jpg" width="360"></a>
+
+要求原创、在大小尺寸下都清楚，再把透明背景写到位：干净的 alpha 边缘、不要底色、不要棋盘格。调用时同时设 background=transparent。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+[`logo`](#tag-logo) [`transparent`](#tag-transparent) [`vector`](#tag-vector)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+<a id="gpt-image-billboard-winter-evening"></a>
+### 同一块广告牌改成下雪的冬夜
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="previews/gpt-image-billboard-winter-evening.jpg" width="360"></a>
+
+把上一步的成品作为输入，只提一个改动。每次只改一处，才看得出是哪一步起了作用。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
+
+[`multi-turn`](#tag-multi-turn) [`weather`](#tag-weather) [`edit`](#tag-edit)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp)
+
+<a id="gpt-image-product-cutout-transparent"></a>
+### 产品抠图，透明背景
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"><img src="previews/gpt-image-product-cutout-transparent.jpg" width="360"></a>
+
+要求轮廓干净无白边、形状和标签原样保留，并禁止背景和画出来的棋盘格。输出用 PNG 或 WebP，并设 background=transparent。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+
+[`product`](#tag-product) [`transparent`](#tag-transparent) [`cutout`](#tag-cutout)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-shampoo-highway-billboard"></a>
+### 日落高速路旁的洗发水广告牌
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="previews/gpt-image-shampoo-highway-billboard.jpg" width="360"></a>
+
+把照片里的产品放上广告牌，文案注明逐字照写，并规定字体和只出现一次。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
+
+[`billboard`](#tag-billboard) [`product`](#tag-product) [`text-render`](#tag-text-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-streetwear-campaign-tagline"></a>
+### 街头服饰广告大片，标语只出现一次
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="previews/gpt-image-streetwear-campaign-tagline.jpg" width="360"></a>
+
+标语加引号，并要求只出现一次，再禁止多余文字、水印和无关标志。凡是有固定文案的广告都可以照这个写。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+[`ad`](#tag-ad) [`fashion`](#tag-fashion) [`text-render`](#tag-text-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
+
+</details>
+
+<a id="gpt-image-toy-airplane-collectible-box"></a>
+### 节日限定玩具飞机收藏版包装
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="previews/gpt-image-toy-airplane-collectible-box.jpg" width="360"></a>
+
+用产品摄影的说法写材质、灯光和标签印刷，要求原创设计，包装文字逐字固定。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+[`packaging`](#tag-packaging) [`product`](#tag-product) [`toy`](#tag-toy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
+```
+
+</details>
+
+<a id="img-edit"></a>
+## 照片编辑
+
+<a id="gpt-image-outfit-swap-keep-identity"></a>
+### 用三件参考服装换装，人物不变
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"><img src="previews/gpt-image-outfit-swap-keep-identity.jpg" width="360"></a>
+
+先列出人物身上所有必须不变的东西，只放开服装，再要求光影匹配原图。要让产品保持可辨认也可以照这个写。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+
+[`virtual-try-on`](#tag-virtual-try-on) [`fashion`](#tag-fashion) [`identity`](#tag-identity)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
+
+<a id="gpt-image-person-into-campsite-scene"></a>
+### 把人物放进黄昏营地逃跑的场景
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"><img src="previews/gpt-image-person-into-campsite-scene.jpg" width="360"></a>
+
+写清姿态、视线、服装、地点和时间，并反复要求像真实照片，不要电影海报感。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
+
+[`identity`](#tag-identity) [`action`](#tag-action) [`photorealism`](#tag-photorealism)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp)
+
+<a id="gpt-image-place-dog-into-scene"></a>
+### 把一张照片里的狗放进另一张照片
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#combine-references"><img src="previews/gpt-image-place-dog-into-scene.jpg" width="360"></a>
+
+按编号指明图片，写清移动什么、放到哪里、什么不变。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+
+[`composite`](#tag-composite) [`reference`](#tag-reference) [`pets`](#tag-pets)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp)
+
+<a id="gpt-image-remove-object-from-hand"></a>
+### 去掉男人手里的花
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"><img src="previews/gpt-image-remove-object-from-hand.jpg" width="360"></a>
+
+只点名要去掉的那一个物体，并要求其他都不变，不用蒙版也能把改动限制在局部。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+
+[`remove`](#tag-remove) [`inpainting`](#tag-inpainting) [`local-edit`](#tag-local-edit)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp)
+
+<a id="gpt-image-swap-kitchen-chairs"></a>
+### 厨房照片里只换椅子
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"><img src="previews/gpt-image-swap-kitchen-chairs.jpg" width="360"></a>
+
+用大写的 ONLY 限定唯一要换的东西，并列出要保留的机位、光线、地面阴影和周围物品。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+
+[`interior`](#tag-interior) [`local-edit`](#tag-local-edit) [`photorealism`](#tag-photorealism)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp)
+
 <a id="recipes"></a>
 ## Agent 配方：剪视频
 
@@ -6659,6 +7292,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 ### 官方提示词指南
 
 - [MiniMax H3 prompt-writing skill](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/.claude/skills/h3-prompt-writing): 官方 Agent skill，把一句想法改写成 H3 的结构化提示词格式。本地跑 H3 用上它效果差别很大。
+- [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting): GPT Image 2.5 的八条写法规则，生成、编辑、多轮修改的示例都附 Flare 和 Sunburst 两版对比。
 - [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/): 对话式编辑、换机位、多路参考、续写、首尾帧。
 - [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide): 多镜头、主体绑定、多语种对白、方言口音、文字渲染、15 秒长镜头。
 - [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/): 引号写台词、声音提示、动作戏的逐拍长提示词。
@@ -6688,7 +7322,8 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-3d"></a>`3d` (2): [照片变针织定格动画玩偶半身像](#gpt-image-knitted-puppet-bust), [多层 3D 剪纸时装插画](#nano-banana-paper-cut-fashion)
 - <a id="tag-3d-animation"></a>`3d-animation` (1): [小宝宝学爸爸刮胡子](#seedance-toddler-copies-shaving)
 - <a id="tag-accent"></a>`accent` (2): [带印度口音点餐](#kling-indian-accent-order), [马德里问路，磕磕绊绊的西班牙语](#kling-madrid-asking-directions)
-- <a id="tag-action"></a>`action` (13): [红色霓虹酒店走廊里的打斗戏](#kling-hotel-corridor-neon-fight), [夜晚庭院中女子挥刀斩断木人桩](#kling-night-courtyard-katana-six-shots), [低机位锁定牛皮纸袋的跟拍镜头](#kling-paper-bag-locked-tracking), [雪地摩托，六个镜头](#kling-snowmobile-six-shots), [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight), [餐厅后厨一打三](#seedance-kitchen-fight), [实验室收容失效，科幻恐怖](#seedance-lab-containment-breach), [商场突发丧尸潮](#seedance-mall-zombie-outbreak), [首尔地铁站复仇喜剧](#seedance-seoul-subway-revenge), [越野拉力冲过河滩](#veo-off-road-rally), [手绘动画风，对战巨型怪物](#wan-anime-monster-fight), [皮影戏台上，一把剪刀对阵百名刺客](#wan-shadow-puppet-battle), [黄昏寺院庭院的功夫对决](#wan-temple-kung-fu)
+- <a id="tag-action"></a>`action` (14): [红色霓虹酒店走廊里的打斗戏](#kling-hotel-corridor-neon-fight), [夜晚庭院中女子挥刀斩断木人桩](#kling-night-courtyard-katana-six-shots), [低机位锁定牛皮纸袋的跟拍镜头](#kling-paper-bag-locked-tracking), [雪地摩托，六个镜头](#kling-snowmobile-six-shots), [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight), [餐厅后厨一打三](#seedance-kitchen-fight), [实验室收容失效，科幻恐怖](#seedance-lab-containment-breach), [商场突发丧尸潮](#seedance-mall-zombie-outbreak), [首尔地铁站复仇喜剧](#seedance-seoul-subway-revenge), [越野拉力冲过河滩](#veo-off-road-rally), [手绘动画风，对战巨型怪物](#wan-anime-monster-fight), [皮影戏台上，一把剪刀对阵百名刺客](#wan-shadow-puppet-battle), [黄昏寺院庭院的功夫对决](#wan-temple-kung-fu), [把人物放进黄昏营地逃跑的场景](#gpt-image-person-into-campsite-scene)
+- <a id="tag-ad"></a>`ad` (1): [街头服饰广告大片，标语只出现一次](#gpt-image-streetwear-campaign-tagline)
 - <a id="tag-aerial"></a>`aerial` (1): [金雕视角飞越山谷与河流](#kling-eagle-pov-steppe-flight)
 - <a id="tag-agent-editing"></a>`agent-editing` (5): [听写台词，烧录中英双语字幕](#bilingual-subtitles), [给 README 做小体积循环 GIF 预览](#readme-preview-gif), [按硬切点把多镜头片拆成单独镜头](#split-shots), [把不同尺寸的片剪成预告：标题、转场、响度统一](#teaser-montage), [横屏片改竖屏，背景用模糊填充](#vertical-blur-fill)
 - <a id="tag-ambience"></a>`ambience` (1): [一家四口对剧情反转的反应](#kling-family-reacts-to-twist)
@@ -6706,7 +7341,9 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-basketball"></a>`basketball` (1): [篮球运动员在室外球场后空翻扣篮](#kling-basketball-backflip-dunk-court)
 - <a id="tag-beats"></a>`beats` (1): [四个持枪男人的无声对峙](#wan-four-gunmen-standoff)
 - <a id="tag-bilingual"></a>`bilingual` (1): [听写台词，烧录中英双语字幕](#bilingual-subtitles)
+- <a id="tag-billboard"></a>`billboard` (1): [日落高速路旁的洗发水广告牌](#gpt-image-shampoo-highway-billboard)
 - <a id="tag-billiards"></a>`billiards` (1): [台球视角滚入底袋](#kling-billiard-ball-pov-pocket)
+- <a id="tag-biology"></a>`biology` (1): [高中生物课用的细胞呼吸示意图](#gpt-image-cellular-respiration-diagram)
 - <a id="tag-blue-ink"></a>`blue-ink` (1): [照片变成蓝色涂鸦情侣插画](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-cafe"></a>`cafe` (1): [咖啡馆柜台前身穿驼色大衣的男人](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-camera-angle"></a>`camera-angle` (2): [把机位挪到小提琴手肩后](#omni-violinist-over-shoulder), [动作不变，换机位重拍你的视频](#wan-camera-angle-swap)
@@ -6715,15 +7352,18 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-camera-moves"></a>`camera-moves` (1): [二十镜头角色细节蒙太奇，最后才露脸](#h3-character-detail-montage)
 - <a id="tag-camera-plan"></a>`camera-plan` (1): [咖啡馆桌边讲话重拍成十三个新机位](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-camera-roll"></a>`camera-roll` (2): [一张图生成任何人一天的相册](#gpt-image-camera-roll-day), [一整天的照片，做成 iPhone 相册截图](#gpt-image-iphone-photos-screenshot)
+- <a id="tag-card"></a>`card` (1): [旧泰迪熊的怀旧圣诞贺卡](#gpt-image-teddy-bear-holiday-card)
 - <a id="tag-cats"></a>`cats` (1): [流泪的橘猫举枪对准僵尸花猫](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-ccd-flash"></a>`ccd-flash` (1): [米色毛圈沙发上的肩后闪光灯自拍](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-cg"></a>`cg` (2): [珠宝生物变成高跟鞋](#wan-jeweled-creatures-to-heels), [皮影戏台上，一把剪刀对阵百名刺客](#wan-shadow-puppet-battle)
-- <a id="tag-character"></a>`character` (2): [她转身微笑，走出画面](#sora-skyline-turn-and-walk), [老水手念诗](#veo-old-sailor-verse)
+- <a id="tag-character"></a>`character` (4): [她转身微笑，走出画面](#sora-skyline-turn-and-walk), [老水手念诗](#veo-old-sailor-verse), [儿童绘本水彩小英雄定妆图](#gpt-image-forest-hero-character-sheet), [同一个小英雄在雪地里救松鼠](#gpt-image-forest-hero-squirrel-rescue)
 - <a id="tag-character-consistency"></a>`character-consistency` (6): [一镜到底，跟拍女人从电梯走到工位](#kling-office-long-take), [镜头绕到正面，她抬头微笑](#kling-orbit-to-smile), [机场入境卸妆喜剧十二镜头短片](#seedance-airport-immigration-makeup-wipe), [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight), [首尔老街区的周五早晨](#seedance-friday-morning-seoul), [咖啡馆柜台前身穿驼色大衣的男人](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-character-reference"></a>`character-reference` (5): [二十镜头角色细节蒙太奇，最后才露脸](#h3-character-detail-montage), [动漫角色的手伸出黑色上下遮幅](#seedance-anime-frame-break-letterbox-pop-out), [两名动漫格斗者在天台激烈缠斗](#seedance-anime-rooftop-brawl-kinetic-fight), [霓虹游戏桌前兴奋反应的女主播](#veo-live-streamer-neon-desk), [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-character-sheet"></a>`character-sheet` (1): [天界操偶师重塑崩塌的金色恒星](#seedance-celestial-puppeteer-golden-star)
+- <a id="tag-chart"></a>`chart` (1): [带具体数字的融资路演市场规模页](#gpt-image-market-opportunity-slide)
 - <a id="tag-chase"></a>`chase` (1): [修图工具变成实物的街头追逐](#wan-photo-editor-chase-comedy)
 - <a id="tag-chiaroscuro"></a>`chiaroscuro` (1): [把你的照片拍成明暗对比强烈的电影特写](#nano-banana-chiaroscuro-portrait)
+- <a id="tag-childrens-book"></a>`childrens-book` (2): [儿童绘本水彩小英雄定妆图](#gpt-image-forest-hero-character-sheet), [同一个小英雄在雪地里救松鼠](#gpt-image-forest-hero-squirrel-rescue)
 - <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (3): [一镜到底连换装，中文对白](#seedance-outfit-change-one-take), [嘴上说不要，照片却笑得很甜](#wan-street-photographer-cold-face), [听写台词，烧录中英双语字幕](#bilingual-subtitles)
 - <a id="tag-cinematic"></a>`cinematic` (6): [身穿条纹睡袍的惊慌女子冲上曼哈顿街头](#kling-manhattan-panic-nine-shot-sequence), [女子在霓虹夜店与雨中起舞](#kling-neon-nightclub-rain-dance), [指尖捏着复古腕表的微距镜头](#kling-vintage-watch-macro), [小龙在冬日木屋打喷嚏点燃壁炉](#seedance-baby-dragon-sneeze-cabin-fire), [流泪的橘猫举枪对准僵尸花猫](#seedance-zombie-calico-cat-reunion), [把你的照片拍成明暗对比强烈的电影特写](#nano-banana-chiaroscuro-portrait)
 - <a id="tag-city"></a>`city` (1): [身穿条纹睡袍的惊慌女子冲上曼哈顿街头](#kling-manhattan-panic-nine-shot-sequence)
@@ -6735,28 +7375,34 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-color-grading"></a>`color-grading` (1): [酒吧里身穿棕色皮夹克的女子](#gpt-image-wine-bar-ugc-color-reference)
 - <a id="tag-color-window"></a>`color-window` (1): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-comedy"></a>`comedy` (6): [机场入境卸妆喜剧十二镜头短片](#seedance-airport-immigration-makeup-wipe), [首尔地铁站复仇喜剧](#seedance-seoul-subway-revenge), [小宝宝学爸爸刮胡子](#seedance-toddler-copies-shaving), [定格动画，露营者和会顶嘴的熊](#veo-camper-and-bear), [修图工具变成实物的街头追逐](#wan-photo-editor-chase-comedy), [嘴上说不要，照片却笑得很甜](#wan-street-photographer-cold-face)
+- <a id="tag-comic"></a>`comic` (1): [宠物独自在家的四格漫画](#gpt-image-pet-home-alone-comic)
 - <a id="tag-commercial"></a>`commercial` (1): [由商业分镜板生成的厨房平底锅视频](#omni-commercial-storyboard-board-kitchen-pan)
 - <a id="tag-comparison"></a>`comparison` (1): [逐项复刻一张照片的 JSON 提示词](#nano-banana-json-reconstruction)
-- <a id="tag-consistency"></a>`consistency` (2): [飞船改折纸，宇航员改海葵，小飞船改魟鱼](#omni-astronaut-three-swaps), [同一个人的六宫格人像](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-composite"></a>`composite` (1): [把一张照片里的狗放进另一张照片](#gpt-image-place-dog-into-scene)
+- <a id="tag-consistency"></a>`consistency` (3): [飞船改折纸，宇航员改海葵，小飞船改魟鱼](#omni-astronaut-three-swaps), [同一个小英雄在雪地里救松鼠](#gpt-image-forest-hero-squirrel-rescue), [同一个人的六宫格人像](#gpt-image-six-photo-portrait-grid)
 - <a id="tag-construction"></a>`construction` (2): [巨型双手搭建的微缩农舍地基](#omni-miniature-farmhouse-foundation-macro), [空房间延时搭建阁楼](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-continuation"></a>`continuation` (1): [藏起三只幼龙，追兵已到门口](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-continuity"></a>`continuity` (1): [窗边照片延伸为墨线手绘纸面](#gpt-image-photo-to-paper-second-world)
 - <a id="tag-couple"></a>`couple` (1): [照片变成蓝色涂鸦情侣插画](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-cover"></a>`cover` (1): [照片变纸张质感极简封面](#gpt-image-paper-texture-cover)
 - <a id="tag-creature"></a>`creature` (4): [石膏像塔里，与恐龙重逢](#kling-plaster-tower-dinosaur), [小龙在冬日木屋打喷嚏点燃壁炉](#seedance-baby-dragon-sneeze-cabin-fire), [女孩教巨龙烤心形面包](#seedance-dragon-bakes-bread), [冰箱里钻出一只胖乎乎的紫色怪兽](#sora-fridge-monster)
-- <a id="tag-crowd"></a>`crowd` (2): [商场突发丧尸潮](#seedance-mall-zombie-outbreak), [人群齐动，她一动不动](#seedance-woman-in-storm-crowd)
+- <a id="tag-crowd"></a>`crowd` (3): [商场突发丧尸潮](#seedance-mall-zombie-outbreak), [人群齐动，她一动不动](#seedance-woman-in-storm-crowd), [1969 年 8 月纽约贝塞尔的音乐节人群](#gpt-image-1969-festival-crowd)
 - <a id="tag-cube-toy"></a>`cube-toy` (1): [高地牛纸模立方体玩具展开图](#gpt-image-pet-papercraft-cube-template)
+- <a id="tag-cutout"></a>`cutout` (1): [产品抠图，透明背景](#gpt-image-product-cutout-transparent)
 - <a id="tag-dance"></a>`dance` (3): [双人 K-pop MV，逐镜头](#seedance-kpop-two-idol-mv), [固定机位一镜到底的手指舞](#wan-finger-dance-one-take), [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-desert"></a>`desert` (1): [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight)
+- <a id="tag-diagram"></a>`diagram` (2): [高中生物课用的细胞呼吸示意图](#gpt-image-cellular-respiration-diagram), [全自动咖啡机工作流程信息图](#gpt-image-coffee-machine-flow-infographic)
 - <a id="tag-dialogue"></a>`dialogue` (11): [让现成视频里的人开口说话，声音借参考音频](#h3-pink-suit-lip-sync-edit), [一家四口对剧情反转的反应](#kling-family-reacts-to-twist), [带印度口音点餐](#kling-indian-accent-order), [晨雾小站递便当，日语对白](#kling-japanese-station-bento), [朝鲜贵族小姐与侍女](#kling-joseon-lady-and-maid), [韩国高中天台夜聊](#kling-korean-rooftop), [马德里问路，磕磕绊绊的西班牙语](#kling-madrid-asking-directions), [别墅露台，夏日双人对话](#kling-villa-terrace-dialogue), [港口对话，连续续写两段](#omni-harbour-extend), [定格动画，露营者和会顶嘴的熊](#veo-camper-and-bear), [老水手念诗](#veo-old-sailor-verse)
 - <a id="tag-diorama"></a>`diorama` (1): [上海天际线实景照与等距微缩模型海报](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-doodle"></a>`doodle` (1): [照片变成蓝色涂鸦情侣插画](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-dragon"></a>`dragon` (1): [少女与宠物飞龙一起烤肉的奇幻短片](#seedance-cottage-pet-dragon-roast-short-film)
 - <a id="tag-drama"></a>`drama` (1): [藏起三只幼龙，追兵已到门口](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-dv-camcorder"></a>`dv-camcorder` (2): [2000 年代初的韩国生日，DV 摄像机](#seedance-2000s-birthday-dv), [Mini DV 咖啡 ASMR 小片](#seedance-mini-dv-coffee-asmr)
+- <a id="tag-edit"></a>`edit` (2): [同一块广告牌改成下雪的冬夜](#gpt-image-billboard-winter-evening), [把信息图翻译成西班牙语，版式不动](#gpt-image-translate-infographic-spanish)
 - <a id="tag-editorial"></a>`editorial` (5): [每张照片变成一张安静的编辑插画海报](#gpt-image-editorial-illustration-poster), [真实照片变极简生活方式海报](#gpt-image-minimal-lifestyle-poster), [窗边照片延伸为墨线手绘纸面](#gpt-image-photo-to-paper-second-world), [质感几何风全身时装插画](#nano-banana-geometric-fashion-illustration), [上面照片下面素描的编辑海报模板](#nano-banana-photo-sketch-editorial)
 - <a id="tag-editorial-layout"></a>`editorial-layout` (1): [上海天际线实景照与等距微缩模型海报](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-editorial-poster"></a>`editorial-poster` (3): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses), [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster), [锈红电车照片搭配手工纸本插画海报](#gpt-image-tram-photo-paper-illustration-poster)
+- <a id="tag-education"></a>`education` (1): [高中生物课用的细胞呼吸示意图](#gpt-image-cellular-respiration-diagram)
 - <a id="tag-educational"></a>`educational` (1): [带数据模块的蜜蜂科普信息图](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-emotion"></a>`emotion` (1): [石膏像塔里，与恐龙重逢](#kling-plaster-tower-dinosaur)
 - <a id="tag-emotional"></a>`emotional` (1): [流泪的橘猫举枪对准僵尸花猫](#seedance-zombie-calico-cat-reunion)
@@ -6764,11 +7410,12 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-extend"></a>`extend` (1): [港口对话，连续续写两段](#omni-harbour-extend)
 - <a id="tag-family"></a>`family` (1): [小宝宝学爸爸刮胡子](#seedance-toddler-copies-shaving)
 - <a id="tag-fantasy"></a>`fantasy` (5): [小龙在冬日木屋打喷嚏点燃壁炉](#seedance-baby-dragon-sneeze-cabin-fire), [少女与宠物飞龙一起烤肉的奇幻短片](#seedance-cottage-pet-dragon-roast-short-film), [女孩教巨龙烤心形面包](#seedance-dragon-bakes-bread), [藏起三只幼龙，追兵已到门口](#seedance-dragon-hatchlings-dungeon), [月尘平原上的水晶花](#veo-moon-dust-flowers)
-- <a id="tag-fashion"></a>`fashion` (5): [人群齐动，她一动不动](#seedance-woman-in-storm-crowd), [带抓拍闪光的超近景时尚人像](#wan-fashion-face-closeup-flash-orbit), [珠宝生物变成高跟鞋](#wan-jeweled-creatures-to-heels), [质感几何风全身时装插画](#nano-banana-geometric-fashion-illustration), [多层 3D 剪纸时装插画](#nano-banana-paper-cut-fashion)
+- <a id="tag-fashion"></a>`fashion` (7): [人群齐动，她一动不动](#seedance-woman-in-storm-crowd), [带抓拍闪光的超近景时尚人像](#wan-fashion-face-closeup-flash-orbit), [珠宝生物变成高跟鞋](#wan-jeweled-creatures-to-heels), [用三件参考服装换装，人物不变](#gpt-image-outfit-swap-keep-identity), [街头服饰广告大片，标语只出现一次](#gpt-image-streetwear-campaign-tagline), [质感几何风全身时装插画](#nano-banana-geometric-fashion-illustration), [多层 3D 剪纸时装插画](#nano-banana-paper-cut-fashion)
 - <a id="tag-fashion-editorial"></a>`fashion-editorial` (1): [钴蓝圆环中的铂金短发模特](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-fast-cut"></a>`fast-cut` (2): [快剪动画风格做猪排饭](#seedance-katsudon-anime-cooking), [蒸汽朋克侦探，五个地点快剪](#wan-steampunk-detective-montage)
 - <a id="tag-ffmpeg"></a>`ffmpeg` (5): [听写台词，烧录中英双语字幕](#bilingual-subtitles), [给 README 做小体积循环 GIF 预览](#readme-preview-gif), [按硬切点把多镜头片拆成单独镜头](#split-shots), [把不同尺寸的片剪成预告：标题、转场、响度统一](#teaser-montage), [横屏片改竖屏，背景用模糊填充](#vertical-blur-fill)
 - <a id="tag-fight-scene"></a>`fight-scene` (3): [红色霓虹酒店走廊里的打斗戏](#kling-hotel-corridor-neon-fight), [两名动漫格斗者在天台激烈缠斗](#seedance-anime-rooftop-brawl-kinetic-fight), [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight)
+- <a id="tag-film"></a>`film` (1): [老水手补网的 35mm 抓拍人像](#gpt-image-candid-sailor-35mm)
 - <a id="tag-film-grain"></a>`film-grain` (1): [黄昏低角度人像，胶片颗粒](#gpt-image-dusk-film-portrait)
 - <a id="tag-film-look"></a>`film-look` (4): [绿裙女子奔过月下花园，15 秒](#kling-moonlit-garden-run), [卡车司机，四个手持镜头](#kling-truck-driver-four-shots), [咖啡馆柜台前身穿驼色大衣的男人](#wan-cafe-camel-coat-character-sheet), [粉色木槿花环绕的复古胶片人像](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-first-last-frame"></a>`first-last-frame` (1): [从鼓手甩镜到萨克斯手和芭蕾舞者](#omni-drummer-whip-pan)
@@ -6795,14 +7442,19 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-hands"></a>`hands` (1): [巨型双手搭建的微缩农舍地基](#omni-miniature-farmhouse-foundation-macro)
 - <a id="tag-handwriting"></a>`handwriting` (1): [带咖啡渍的线格纸铅笔手写文章](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-hard-cuts"></a>`hard-cuts` (1): [二十镜头角色细节蒙太奇，最后才露脸](#h3-character-detail-montage)
+- <a id="tag-historical"></a>`historical` (1): [1969 年 8 月纽约贝塞尔的音乐节人群](#gpt-image-1969-festival-crowd)
+- <a id="tag-holiday"></a>`holiday` (1): [旧泰迪熊的怀旧圣诞贺卡](#gpt-image-teddy-bear-holiday-card)
 - <a id="tag-home-video"></a>`home-video` (2): [2000 年代初的韩国生日，DV 摄像机](#seedance-2000s-birthday-dv), [首尔夏夜，家庭录像质感](#seedance-seoul-summer-evening-vlog)
 - <a id="tag-horror"></a>`horror` (2): [实验室收容失效，科幻恐怖](#seedance-lab-containment-breach), [商场突发丧尸潮](#seedance-mall-zombie-outbreak)
 - <a id="tag-humor"></a>`humor` (2): [一张图生成任何人一天的相册](#gpt-image-camera-roll-day), [任意角色的九张失败照片](#gpt-image-failed-photos-grid)
+- <a id="tag-identity"></a>`identity` (2): [用三件参考服装换装，人物不变](#gpt-image-outfit-swap-keep-identity), [把人物放进黄昏营地逃跑的场景](#gpt-image-person-into-campsite-scene)
 - <a id="tag-identity-preservation"></a>`identity-preservation` (1): [米色毛圈沙发上的肩后闪光灯自拍](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-illustration"></a>`illustration` (2): [每张照片变成一张安静的编辑插画海报](#gpt-image-editorial-illustration-poster), [真实照片变极简生活方式海报](#gpt-image-minimal-lifestyle-poster)
 - <a id="tag-image-to-video"></a>`image-to-video` (3): [镜头绕到正面，她抬头微笑](#kling-orbit-to-smile), [冰箱里钻出一只胖乎乎的紫色怪兽](#sora-fridge-monster), [她转身微笑，走出画面](#sora-skyline-turn-and-walk)
-- <a id="tag-infographic"></a>`infographic` (1): [带数据模块的蜜蜂科普信息图](#gpt-image-terrestrial-life-species-infographic)
+- <a id="tag-infographic"></a>`infographic` (2): [全自动咖啡机工作流程信息图](#gpt-image-coffee-machine-flow-infographic), [带数据模块的蜜蜂科普信息图](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-ink"></a>`ink` (1): [一半照片一半水墨的海报](#nano-banana-photo-ink-split-poster)
+- <a id="tag-inpainting"></a>`inpainting` (1): [去掉男人手里的花](#gpt-image-remove-object-from-hand)
+- <a id="tag-interior"></a>`interior` (1): [厨房照片里只换椅子](#gpt-image-swap-kitchen-chairs)
 - <a id="tag-interior-design"></a>`interior-design` (1): [空房间延时搭建阁楼](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-ios"></a>`ios` (2): [一张图生成任何人一天的相册](#gpt-image-camera-roll-day), [一整天的照片，做成 iPhone 相册截图](#gpt-image-iphone-photos-screenshot)
 - <a id="tag-isometric"></a>`isometric` (1): [上海天际线实景照与等距微缩模型海报](#gpt-image-travel-poster-photo-diorama-split)
@@ -6817,13 +7469,15 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-korean"></a>`korean` (1): [韩国高中天台夜聊](#kling-korean-rooftop)
 - <a id="tag-korean-makeup"></a>`korean-makeup` (1): [米色毛圈沙发上的肩后闪光灯自拍](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-labeled-blocks"></a>`labeled-blocks` (1): [米色毛圈沙发上的肩后闪光灯自拍](#nano-banana-ccd-flash-sofa-selfie-portrait)
-- <a id="tag-landscape"></a>`landscape` (2): [金雕视角飞越山谷与河流](#kling-eagle-pov-steppe-flight), [阳光洒落的林间空地与茂密绿叶](#gpt-image-forest-clearing-foliage-noise-test)
+- <a id="tag-landscape"></a>`landscape` (3): [金雕视角飞越山谷与河流](#kling-eagle-pov-steppe-flight), [阳光洒落的林间空地与茂密绿叶](#gpt-image-forest-clearing-foliage-noise-test), [河谷线稿渲染成照片](#gpt-image-sketch-to-photo-valley)
 - <a id="tag-layout"></a>`layout` (1): [带数据模块的蜜蜂科普信息图](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-letterbox"></a>`letterbox` (1): [动漫角色的手伸出黑色上下遮幅](#seedance-anime-frame-break-letterbox-pop-out)
 - <a id="tag-line-doodle"></a>`line-doodle` (1): [窗边照片延伸为墨线手绘纸面](#gpt-image-photo-to-paper-second-world)
 - <a id="tag-lip-sync"></a>`lip-sync` (2): [让现成视频里的人开口说话，声音借参考音频](#h3-pink-suit-lip-sync-edit), [咖啡馆桌边讲话重拍成十三个新机位](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-live-action"></a>`live-action` (1): [小鸟从电脑照片中跃出落到手上](#omni-photo-bird-jumps-onto-hand)
+- <a id="tag-local-edit"></a>`local-edit` (2): [去掉男人手里的花](#gpt-image-remove-object-from-hand), [厨房照片里只换椅子](#gpt-image-swap-kitchen-chairs)
 - <a id="tag-locked-camera"></a>`locked-camera` (2): [低机位锁定牛皮纸袋的跟拍镜头](#kling-paper-bag-locked-tracking), [草莓护肤霜罐在红色背景上逐件组装](#veo-strawberry-jar-assembly)
+- <a id="tag-logo"></a>`logo` (1): [透明背景的面包店标志](#gpt-image-bakery-logo-transparent)
 - <a id="tag-long-take"></a>`long-take` (8): [绿裙女子奔过月下花园，15 秒](#kling-moonlit-garden-run), [一镜到底，跟拍女人从电梯走到工位](#kling-office-long-take), [石膏像塔里，与恐龙重逢](#kling-plaster-tower-dinosaur), [从鼓手甩镜到萨克斯手和芭蕾舞者](#omni-drummer-whip-pan), [港口对话，连续续写两段](#omni-harbour-extend), [一镜到底连换装，中文对白](#seedance-outfit-change-one-take), [固定机位一镜到底的手指舞](#wan-finger-dance-one-take), [时空列车，30 秒一镜到底](#wan-time-space-train)
 - <a id="tag-loudness"></a>`loudness` (1): [把不同尺寸的片剪成预告：标题、转场、响度统一](#teaser-montage)
 - <a id="tag-low-angle"></a>`low-angle` (2): [篮球运动员在室外球场后空翻扣篮](#kling-basketball-backflip-dunk-court), [低机位锁定牛皮纸袋的跟拍镜头](#kling-paper-bag-locked-tracking)
@@ -6835,6 +7489,8 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-minimal"></a>`minimal` (1): [照片变纸张质感极简封面](#gpt-image-paper-texture-cover)
 - <a id="tag-minimalist"></a>`minimalist` (3): [照片变成蓝色涂鸦情侣插画](#gpt-image-blue-doodle-couple-photo), [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster), [钴蓝圆环中的铂金短发模特](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-mixed-media"></a>`mixed-media` (1): [给真人滑板加卡通动效](#omni-skateboard-motion-fx)
+- <a id="tag-mobile"></a>`mobile` (1): [放在 iPhone 机身里的农夫市集 App 界面](#gpt-image-farmers-market-app-ui)
+- <a id="tag-mockup"></a>`mockup` (1): [放在 iPhone 机身里的农夫市集 App 界面](#gpt-image-farmers-market-app-ui)
 - <a id="tag-montage"></a>`montage` (3): [二十镜头角色细节蒙太奇，最后才露脸](#h3-character-detail-montage), [蒸汽朋克侦探，五个地点快剪](#wan-steampunk-detective-montage), [把不同尺寸的片剪成预告：标题、转场、响度统一](#teaser-montage)
 - <a id="tag-moody-lighting"></a>`moody-lighting` (1): [指尖捏着复古腕表的微距镜头](#kling-vintage-watch-macro)
 - <a id="tag-morning-routine"></a>`morning-routine` (1): [雨天早晨，咖啡，走去学校](#seedance-rainy-morning-university-vlog)
@@ -6845,6 +7501,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-multi-reference"></a>`multi-reference` (2): [让现成视频里的人开口说话，声音借参考音频](#h3-pink-suit-lip-sync-edit), [鸟群聚成一只鸟的形状，随音乐起落](#omni-birds-form-a-bird)
 - <a id="tag-multi-shot"></a>`multi-shot` (19): [动漫少年在公园奔跑时回头](#h3-grid-storyboard-anime-park-run), [星舰舰桥，舰队跃迁](#h3-starship-hyperspace-jump), [篮球运动员在室外球场后空翻扣篮](#kling-basketball-backflip-dunk-court), [带印度口音点餐](#kling-indian-accent-order), [身穿条纹睡袍的惊慌女子冲上曼哈顿街头](#kling-manhattan-panic-nine-shot-sequence), [夜晚庭院中女子挥刀斩断木人桩](#kling-night-courtyard-katana-six-shots), [雪地摩托，六个镜头](#kling-snowmobile-six-shots), [卡车司机，四个手持镜头](#kling-truck-driver-four-shots), [别墅露台，夏日双人对话](#kling-villa-terrace-dialogue), [给一张分镜图，直接出片](#omni-storyboard-to-video), [机场入境卸妆喜剧十二镜头短片](#seedance-airport-immigration-makeup-wipe), [两名动漫格斗者在天台激烈缠斗](#seedance-anime-rooftop-brawl-kinetic-fight), [小龙在冬日木屋打喷嚏点燃壁炉](#seedance-baby-dragon-sneeze-cabin-fire), [天界操偶师重塑崩塌的金色恒星](#seedance-celestial-puppeteer-golden-star), [少女与宠物飞龙一起烤肉的奇幻短片](#seedance-cottage-pet-dragon-roast-short-film), [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight), [蓝色虚空中的彩绘火焰空手道套路](#seedance-painted-flame-karate-kata-void), [动画女子从冷冻舱苏醒走入森林](#sora-anime-cryo-awakening-forest), [修图工具变成实物的街头追逐](#wan-photo-editor-chase-comedy)
 - <a id="tag-multi-speaker"></a>`multi-speaker` (1): [一家四口对剧情反转的反应](#kling-family-reacts-to-twist)
+- <a id="tag-multi-turn"></a>`multi-turn` (1): [同一块广告牌改成下雪的冬夜](#gpt-image-billboard-winter-evening)
 - <a id="tag-multi-turn-edit"></a>`multi-turn-edit` (5): [飞船改折纸，宇航员改海葵，小飞船改魟鱼](#omni-astronaut-three-swaps), [蝴蝶改蜜蜂再改萤火虫，一轮只改一处](#omni-butterfly-bee-fireflies), [从鞋子起幅，上摇，再拉开](#omni-shoes-tilt-up), [把机位挪到小提琴手肩后](#omni-violinist-over-shoulder), [改怪兽：先换颜色，再加一只](#sora-monster-edits)
 - <a id="tag-multilingual"></a>`multilingual` (4): [晨雾小站递便当，日语对白](#kling-japanese-station-bento), [朝鲜贵族小姐与侍女](#kling-joseon-lady-and-maid), [韩国高中天台夜聊](#kling-korean-rooftop), [马德里问路，磕磕绊绊的西班牙语](#kling-madrid-asking-directions)
 - <a id="tag-music"></a>`music` (2): [从鼓手甩镜到萨克斯手和芭蕾舞者](#omni-drummer-whip-pan), [公寓的灯跟着音乐节拍一盏盏亮起](#omni-lights-sync-to-music)
@@ -6863,6 +7520,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-one-liner"></a>`one-liner` (1): [任何图都能变成报纸拼贴](#nano-banana-newspaper-collage)
 - <a id="tag-orbit"></a>`orbit` (1): [镜头绕到正面，她抬头微笑](#kling-orbit-to-smile)
 - <a id="tag-outfit-change"></a>`outfit-change` (1): [一镜到底连换装，中文对白](#seedance-outfit-change-one-take)
+- <a id="tag-packaging"></a>`packaging` (1): [节日限定玩具飞机收藏版包装](#gpt-image-toy-airplane-collectible-box)
 - <a id="tag-painterly"></a>`painterly` (1): [蓝色虚空中的彩绘火焰空手道套路](#seedance-painted-flame-karate-kata-void)
 - <a id="tag-painterly-animation"></a>`painterly-animation` (1): [天界操偶师重塑崩塌的金色恒星](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-panoramic"></a>`panoramic` (1): [巨大落日前的树影与冰湖倒影](#gpt-image-tree-sun-skyline-frozen-lake)
@@ -6873,20 +7531,23 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-papercraft"></a>`papercraft` (1): [高地牛纸模立方体玩具展开图](#gpt-image-pet-papercraft-cube-template)
 - <a id="tag-period"></a>`period` (3): [朝鲜贵族小姐与侍女](#kling-joseon-lady-and-maid), [2000 年代初的韩国生日，DV 摄像机](#seedance-2000s-birthday-dv), [1950 年代餐馆：时间静止再倒流](#seedance-diner-frozen-time-rewind)
 - <a id="tag-pet"></a>`pet` (1): [高地牛纸模立方体玩具展开图](#gpt-image-pet-papercraft-cube-template)
+- <a id="tag-pets"></a>`pets` (2): [宠物独自在家的四格漫画](#gpt-image-pet-home-alone-comic), [把一张照片里的狗放进另一张照片](#gpt-image-place-dog-into-scene)
 - <a id="tag-phone-photo"></a>`phone-photo` (2): [带咖啡渍的线格纸铅笔手写文章](#gpt-image-pencil-essay-coffee-stain), [站台上的手机随手拍](#gpt-image-train-platform-snapshot)
 - <a id="tag-photo-reconstruction"></a>`photo-reconstruction` (1): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-photo-to-art"></a>`photo-to-art` (5): [每张照片变成一张安静的编辑插画海报](#gpt-image-editorial-illustration-poster), [真实照片变极简生活方式海报](#gpt-image-minimal-lifestyle-poster), [照片做成怀旧杂志画册跨页](#nano-banana-artbook-spread), [一半照片一半水墨的海报](#nano-banana-photo-ink-split-poster), [第二世界：把你的照片重建成另一个世界](#nano-banana-second-world)
 - <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (3): [照片变成蓝色涂鸦情侣插画](#gpt-image-blue-doodle-couple-photo), [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster), [锈红电车照片搭配手工纸本插画海报](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-photo-to-life"></a>`photo-to-life` (1): [小鸟从电脑照片中跃出落到手上](#omni-photo-bird-jumps-onto-hand)
+- <a id="tag-photorealism"></a>`photorealism` (5): [1969 年 8 月纽约贝塞尔的音乐节人群](#gpt-image-1969-festival-crowd), [老水手补网的 35mm 抓拍人像](#gpt-image-candid-sailor-35mm), [把人物放进黄昏营地逃跑的场景](#gpt-image-person-into-campsite-scene), [河谷线稿渲染成照片](#gpt-image-sketch-to-photo-valley), [厨房照片里只换椅子](#gpt-image-swap-kitchen-chairs)
 - <a id="tag-photorealistic"></a>`photorealistic` (3): [巨型双手搭建的微缩农舍地基](#omni-miniature-farmhouse-foundation-macro), [巨型女孩跪在东京街口俯身触碰出租车](#veo-giant-girl-shibuya-crossing), [粉色木槿花环绕的复古胶片人像](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-physics"></a>`physics` (2): [篮球运动员在室外球场后空翻扣篮](#kling-basketball-backflip-dunk-court), [暴雨海崖高尔夫球手与追球镜头](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-physics-motion"></a>`physics-motion` (1): [台球视角滚入底袋](#kling-billiard-ball-pov-pocket)
+- <a id="tag-pixel-art"></a>`pixel-art` (1): [照参考图画风生成像素风摩托骑手](#gpt-image-pixel-art-style-transfer)
 - <a id="tag-pop-out"></a>`pop-out` (1): [动漫角色的手伸出黑色上下遮幅](#seedance-anime-frame-break-letterbox-pop-out)
-- <a id="tag-portrait"></a>`portrait` (4): [带抓拍闪光的超近景时尚人像](#wan-fashion-face-closeup-flash-orbit), [黄昏低角度人像，胶片颗粒](#gpt-image-dusk-film-portrait), [同一个人的六宫格人像](#gpt-image-six-photo-portrait-grid), [粉色木槿花环绕的复古胶片人像](#nano-banana-hibiscus-film-portrait)
+- <a id="tag-portrait"></a>`portrait` (5): [带抓拍闪光的超近景时尚人像](#wan-fashion-face-closeup-flash-orbit), [老水手补网的 35mm 抓拍人像](#gpt-image-candid-sailor-35mm), [黄昏低角度人像，胶片颗粒](#gpt-image-dusk-film-portrait), [同一个人的六宫格人像](#gpt-image-six-photo-portrait-grid), [粉色木槿花环绕的复古胶片人像](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-pose-sheet"></a>`pose-sheet` (1): [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-pov"></a>`pov` (2): [台球视角滚入底袋](#kling-billiard-ball-pov-pocket), [金雕视角飞越山谷与河流](#kling-eagle-pov-steppe-flight)
 - <a id="tag-preview"></a>`preview` (1): [给 README 做小体积循环 GIF 预览](#readme-preview-gif)
-- <a id="tag-product"></a>`product` (1): [糖果做的键盘](#veo-candy-keyboard)
+- <a id="tag-product"></a>`product` (4): [糖果做的键盘](#veo-candy-keyboard), [产品抠图，透明背景](#gpt-image-product-cutout-transparent), [日落高速路旁的洗发水广告牌](#gpt-image-shampoo-highway-billboard), [节日限定玩具飞机收藏版包装](#gpt-image-toy-airplane-collectible-box)
 - <a id="tag-product-ad"></a>`product-ad` (2): [巴黎窗边的香水广告](#kling-perfume-paris-ad), [自拍式护肤品 UGC 广告](#seedance-selfie-skincare-ugc)
 - <a id="tag-product-commercial"></a>`product-commercial` (1): [草莓护肤霜罐在红色背景上逐件组装](#veo-strawberry-jar-assembly)
 - <a id="tag-product-photo"></a>`product-photo` (1): [酒吧里身穿棕色皮夹克的女子](#gpt-image-wine-bar-ugc-color-reference)
@@ -6896,11 +7557,13 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-rain"></a>`rain` (1): [女子在霓虹夜店与雨中起舞](#kling-neon-nightclub-rain-dance)
 - <a id="tag-realism"></a>`realism` (3): [雨天早晨，咖啡，走去学校](#seedance-rainy-morning-university-vlog), [首尔夏夜，家庭录像质感](#seedance-seoul-summer-evening-vlog), [朋友用手机拍的夜游](#seedance-ugc-night-yacht)
 - <a id="tag-reconstruction"></a>`reconstruction` (1): [逐项复刻一张照片的 JSON 提示词](#nano-banana-json-reconstruction)
+- <a id="tag-reference"></a>`reference` (2): [照参考图画风生成像素风摩托骑手](#gpt-image-pixel-art-style-transfer), [把一张照片里的狗放进另一张照片](#gpt-image-place-dog-into-scene)
 - <a id="tag-reference-image"></a>`reference-image` (1): [酒吧里身穿棕色皮夹克的女子](#gpt-image-wine-bar-ugc-color-reference)
 - <a id="tag-reference-images"></a>`reference-images` (7): [首尔老街区的周五早晨](#seedance-friday-morning-seoul), [一镜到底连换装，中文对白](#seedance-outfit-change-one-take), [自拍式护肤品 UGC 广告](#seedance-selfie-skincare-ugc), [人群齐动，她一动不动](#seedance-woman-in-storm-crowd), [手绘动画风，对战巨型怪物](#wan-anime-monster-fight), [固定机位一镜到底的手指舞](#wan-finger-dance-one-take), [嘴上说不要，照片却笑得很甜](#wan-street-photographer-cold-face)
 - <a id="tag-reference-sheet"></a>`reference-sheet` (1): [咖啡馆柜台前身穿驼色大衣的男人](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-reflection"></a>`reflection` (1): [巨大落日前的树影与冰湖倒影](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-reframe"></a>`reframe` (1): [横屏片改竖屏，背景用模糊填充](#vertical-blur-fill)
+- <a id="tag-remove"></a>`remove` (1): [去掉男人手里的花](#gpt-image-remove-object-from-hand)
 - <a id="tag-romance"></a>`romance` (1): [咖啡馆柜台前身穿驼色大衣的男人](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-scale"></a>`scale` (1): [巨型女孩跪在东京街口俯身触碰出租车](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-scene-detection"></a>`scene-detection` (1): [按硬切点把多镜头片拆成单独镜头](#split-shots)
@@ -6918,11 +7581,12 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-silhouette"></a>`silhouette` (1): [巨大落日前的树影与冰湖倒影](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-single-take"></a>`single-take` (1): [唱机推镜至唱针微距](#kling-turntable-needle-macro-pushin)
 - <a id="tag-sizzle-reel"></a>`sizzle-reel` (1): [光泽三维文字逐词依次出现](#omni-word-by-word-kinetic-text-sizzle)
-- <a id="tag-sketch"></a>`sketch` (1): [红色墨线风格的伊斯坦布尔地标旅行海报](#gpt-image-landmark-sketch-travel-poster)
+- <a id="tag-sketch"></a>`sketch` (2): [红色墨线风格的伊斯坦布尔地标旅行海报](#gpt-image-landmark-sketch-travel-poster), [河谷线稿渲染成照片](#gpt-image-sketch-to-photo-valley)
 - <a id="tag-skin-detail"></a>`skin-detail` (1): [把你的照片拍成明暗对比强烈的电影特写](#nano-banana-chiaroscuro-portrait)
 - <a id="tag-skin-texture"></a>`skin-texture` (1): [带抓拍闪光的超近景时尚人像](#wan-fashion-face-closeup-flash-orbit)
 - <a id="tag-skincare"></a>`skincare` (1): [草莓护肤霜罐在红色背景上逐件组装](#veo-strawberry-jar-assembly)
 - <a id="tag-skyline"></a>`skyline` (1): [巨大落日前的树影与冰湖倒影](#gpt-image-tree-sun-skyline-frozen-lake)
+- <a id="tag-slide"></a>`slide` (1): [带具体数字的融资路演市场规模页](#gpt-image-market-opportunity-slide)
 - <a id="tag-slow-motion"></a>`slow-motion` (1): [女子在霓虹夜店与雨中起舞](#kling-neon-nightclub-rain-dance)
 - <a id="tag-sound-design"></a>`sound-design` (4): [唱机推镜至唱针微距](#kling-turntable-needle-macro-pushin), [小龙在冬日木屋打喷嚏点燃壁炉](#seedance-baby-dragon-sneeze-cabin-fire), [蓝色虚空中的彩绘火焰空手道套路](#seedance-painted-flame-karate-kata-void), [草莓护肤霜罐在红色背景上逐件组装](#veo-strawberry-jar-assembly)
 - <a id="tag-spanish"></a>`spanish` (1): [马德里问路，磕磕绊绊的西班牙语](#kling-madrid-asking-directions)
@@ -6931,12 +7595,13 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-split-layout"></a>`split-layout` (3): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses), [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster), [锈红电车照片搭配手工纸本插画海报](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-sports"></a>`sports` (3): [挥棒全程，球棒上的字保持清晰](#kling-baseball-bat-logo), [篮球运动员在室外球场后空翻扣篮](#kling-basketball-backflip-dunk-court), [暴雨海崖高尔夫球手与追球镜头](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-start-end-frames"></a>`start-end-frames` (1): [空房间延时搭建阁楼](#veo-empty-room-loft-construction-timelapse)
+- <a id="tag-startup"></a>`startup` (1): [带具体数字的融资路演市场规模页](#gpt-image-market-opportunity-slide)
 - <a id="tag-static-camera"></a>`static-camera` (1): [前景拉面，后景家宴，一次焦点转移](#h3-ramen-focus-pull)
 - <a id="tag-steampunk"></a>`steampunk` (1): [蒸汽朋克侦探，五个地点快剪](#wan-steampunk-detective-montage)
 - <a id="tag-stop-motion"></a>`stop-motion` (1): [定格动画，露营者和会顶嘴的熊](#veo-camper-and-bear)
 - <a id="tag-storm"></a>`storm` (1): [暴雨海崖高尔夫球手与追球镜头](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-storyboard"></a>`storyboard` (4): [动漫少年在公园奔跑时回头](#h3-grid-storyboard-anime-park-run), [由商业分镜板生成的厨房平底锅视频](#omni-commercial-storyboard-board-kitchen-pan), [给一张分镜图，直接出片](#omni-storyboard-to-video), [按硬切点把多镜头片拆成单独镜头](#split-shots)
-- <a id="tag-storytelling"></a>`storytelling` (1): [动画女子从冷冻舱苏醒走入森林](#sora-anime-cryo-awakening-forest)
+- <a id="tag-storytelling"></a>`storytelling` (2): [动画女子从冷冻舱苏醒走入森林](#sora-anime-cryo-awakening-forest), [宠物独自在家的四格漫画](#gpt-image-pet-home-alone-comic)
 - <a id="tag-streamer"></a>`streamer` (1): [霓虹游戏桌前兴奋反应的女主播](#veo-live-streamer-neon-desk)
 - <a id="tag-street"></a>`street` (1): [站台上的手机随手拍](#gpt-image-train-platform-snapshot)
 - <a id="tag-structured-prompt"></a>`structured-prompt` (4): [让现成视频里的人开口说话，声音借参考音频](#h3-pink-suit-lip-sync-edit), [前景拉面，后景家宴，一次焦点转移](#h3-ramen-focus-pull), [星舰舰桥，舰队跃迁](#h3-starship-hyperspace-jump), [黄昏寺院庭院的功夫对决](#wan-temple-kung-fu)
@@ -6944,13 +7609,14 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-studio-background"></a>`studio-background` (1): [二十镜头角色细节蒙太奇，最后才露脸](#h3-character-detail-montage)
 - <a id="tag-studio-portrait"></a>`studio-portrait` (1): [钴蓝圆环中的铂金短发模特](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-style-lock"></a>`style-lock` (1): [孔版印刷扁平风，讲清量子计算](#omni-quantum-explainer)
-- <a id="tag-style-transfer"></a>`style-transfer` (1): [同一段视频依次变成蜡笔、铅笔、玻璃、孔版](#omni-four-style-progression)
+- <a id="tag-style-transfer"></a>`style-transfer` (2): [同一段视频依次变成蜡笔、铅笔、玻璃、孔版](#omni-four-style-progression), [照参考图画风生成像素风摩托骑手](#gpt-image-pixel-art-style-transfer)
 - <a id="tag-subtitles"></a>`subtitles` (2): [首尔地铁站复仇喜剧](#seedance-seoul-subway-revenge), [听写台词，烧录中英双语字幕](#bilingual-subtitles)
 - <a id="tag-sunset"></a>`sunset` (1): [巨大落日前的树影与冰湖倒影](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-sync-sound"></a>`sync-sound` (1): [夜晚码头闺蜜同游与跳水](#wan-marina-night-out-quay-leap)
+- <a id="tag-technical"></a>`technical` (1): [全自动咖啡机工作流程信息图](#gpt-image-coffee-machine-flow-infographic)
 - <a id="tag-template"></a>`template` (9): [巨型女孩跪在东京街口俯身触碰出租车](#veo-giant-girl-shibuya-crossing), [你的城市从地图上长出来](#gpt-image-city-on-map), [任意角色的九张失败照片](#gpt-image-failed-photos-grid), [红色墨线风格的伊斯坦布尔地标旅行海报](#gpt-image-landmark-sketch-travel-poster), [真实照片变极简生活方式海报](#gpt-image-minimal-lifestyle-poster), [高地牛纸模立方体玩具展开图](#gpt-image-pet-papercraft-cube-template), [带数据模块的蜜蜂科普信息图](#gpt-image-terrestrial-life-species-infographic), [半张脸，名字竖排在旁](#nano-banana-half-face-name-portrait), [上面照片下面素描的编辑海报模板](#nano-banana-photo-sketch-editorial)
 - <a id="tag-tension"></a>`tension` (1): [四个持枪男人的无声对峙](#wan-four-gunmen-standoff)
-- <a id="tag-text-render"></a>`text-render` (3): [挥棒全程，球棒上的字保持清晰](#kling-baseball-bat-logo), [巴黎窗边的香水广告](#kling-perfume-paris-ad), [动态文字，一拍一个词](#omni-word-by-word-sizzle)
+- <a id="tag-text-render"></a>`text-render` (7): [挥棒全程，球棒上的字保持清晰](#kling-baseball-bat-logo), [巴黎窗边的香水广告](#kling-perfume-paris-ad), [动态文字，一拍一个词](#omni-word-by-word-sizzle), [日落高速路旁的洗发水广告牌](#gpt-image-shampoo-highway-billboard), [街头服饰广告大片，标语只出现一次](#gpt-image-streetwear-campaign-tagline), [旧泰迪熊的怀旧圣诞贺卡](#gpt-image-teddy-bear-holiday-card), [把信息图翻译成西班牙语，版式不动](#gpt-image-translate-infographic-spanish)
 - <a id="tag-text-rendering"></a>`text-rendering` (1): [光泽三维文字逐词依次出现](#omni-word-by-word-kinetic-text-sizzle)
 - <a id="tag-textile"></a>`textile` (1): [照片变针织定格动画玩偶半身像](#gpt-image-knitted-puppet-bust)
 - <a id="tag-texture"></a>`texture` (1): [带咖啡渍的线格纸铅笔手写文章](#gpt-image-pencil-essay-coffee-stain)
@@ -6965,21 +7631,27 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-timestamped"></a>`timestamped` (1): [机场入境卸妆喜剧十二镜头短片](#seedance-airport-immigration-makeup-wipe)
 - <a id="tag-timestamped-shots"></a>`timestamped-shots` (1): [流泪的橘猫举枪对准僵尸花猫](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-title-card"></a>`title-card` (1): [把不同尺寸的片剪成预告：标题、转场、响度统一](#teaser-montage)
-- <a id="tag-toy"></a>`toy` (1): [照片变针织定格动画玩偶半身像](#gpt-image-knitted-puppet-bust)
+- <a id="tag-toy"></a>`toy` (2): [照片变针织定格动画玩偶半身像](#gpt-image-knitted-puppet-bust), [节日限定玩具飞机收藏版包装](#gpt-image-toy-airplane-collectible-box)
 - <a id="tag-tracking-shot"></a>`tracking-shot` (6): [台球视角滚入底袋](#kling-billiard-ball-pov-pocket), [金雕视角飞越山谷与河流](#kling-eagle-pov-steppe-flight), [红色霓虹酒店走廊里的打斗戏](#kling-hotel-corridor-neon-fight), [一镜到底，跟拍女人从电梯走到工位](#kling-office-long-take), [低机位锁定牛皮纸袋的跟拍镜头](#kling-paper-bag-locked-tracking), [暴雨海崖高尔夫球手与追球镜头](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-transformation"></a>`transformation` (1): [珠宝生物变成高跟鞋](#wan-jeweled-creatures-to-heels)
+- <a id="tag-translation"></a>`translation` (1): [把信息图翻译成西班牙语，版式不动](#gpt-image-translate-infographic-spanish)
+- <a id="tag-transparent"></a>`transparent` (2): [透明背景的面包店标志](#gpt-image-bakery-logo-transparent), [产品抠图，透明背景](#gpt-image-product-cutout-transparent)
 - <a id="tag-travel"></a>`travel` (3): [东京旅行 vlog，一秒一个节拍](#wan-tokyo-travel-vlog), [建筑照片变半调拼贴旅行海报](#gpt-image-halftone-architecture-poster), [上半照片，下半水彩旅行速写](#gpt-image-photo-to-watercolor-travel)
 - <a id="tag-travel-poster"></a>`travel-poster` (2): [红色墨线风格的伊斯坦布尔地标旅行海报](#gpt-image-landmark-sketch-travel-poster), [上海天际线实景照与等距微缩模型海报](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-typography"></a>`typography` (1): [半张脸，名字竖排在旁](#nano-banana-half-face-name-portrait)
 - <a id="tag-ugc"></a>`ugc` (5): [自拍式护肤品 UGC 广告](#seedance-selfie-skincare-ugc), [首尔夏夜，家庭录像质感](#seedance-seoul-summer-evening-vlog), [朋友用手机拍的夜游](#seedance-ugc-night-yacht), [夜晚码头闺蜜同游与跳水](#wan-marina-night-out-quay-leap), [酒吧里身穿棕色皮夹克的女子](#gpt-image-wine-bar-ugc-color-reference)
+- <a id="tag-ui"></a>`ui` (1): [放在 iPhone 机身里的农夫市集 App 界面](#gpt-image-farmers-market-app-ui)
+- <a id="tag-vector"></a>`vector` (1): [透明背景的面包店标志](#gpt-image-bakery-logo-transparent)
 - <a id="tag-vertical"></a>`vertical` (8): [蓝色虚空中的彩绘火焰空手道套路](#seedance-painted-flame-karate-kata-void), [自拍式护肤品 UGC 广告](#seedance-selfie-skincare-ugc), [小宝宝学爸爸刮胡子](#seedance-toddler-copies-shaving), [朋友用手机拍的夜游](#seedance-ugc-night-yacht), [带抓拍闪光的超近景时尚人像](#wan-fashion-face-closeup-flash-orbit), [固定机位一镜到底的手指舞](#wan-finger-dance-one-take), [嘴上说不要，照片却笑得很甜](#wan-street-photographer-cold-face), [横屏片改竖屏，背景用模糊填充](#vertical-blur-fill)
 - <a id="tag-vfx"></a>`vfx` (3): [给真人滑板加卡通动效](#omni-skateboard-motion-fx), [1950 年代餐馆：时间静止再倒流](#seedance-diner-frozen-time-rewind), [修图工具变成实物的街头追逐](#wan-photo-editor-chase-comedy)
 - <a id="tag-video-reference"></a>`video-reference` (1): [动作不变，换机位重拍你的视频](#wan-camera-angle-swap)
 - <a id="tag-video-to-video"></a>`video-to-video` (1): [咖啡馆桌边讲话重拍成十三个新机位](#seedance-cafe-table-multi-angle-reshoot)
+- <a id="tag-virtual-try-on"></a>`virtual-try-on` (1): [用三件参考服装换装，人物不变](#gpt-image-outfit-swap-keep-identity)
 - <a id="tag-vlog"></a>`vlog` (5): [首尔老街区的周五早晨](#seedance-friday-morning-seoul), [Mini DV 咖啡 ASMR 小片](#seedance-mini-dv-coffee-asmr), [雨天早晨，咖啡，走去学校](#seedance-rainy-morning-university-vlog), [首尔夏夜，家庭录像质感](#seedance-seoul-summer-evening-vlog), [东京旅行 vlog，一秒一个节拍](#wan-tokyo-travel-vlog)
 - <a id="tag-voice-reference"></a>`voice-reference` (1): [让现成视频里的人开口说话，声音借参考音频](#h3-pink-suit-lip-sync-edit)
 - <a id="tag-voiceover"></a>`voiceover` (1): [巴黎窗边的香水广告](#kling-perfume-paris-ad)
-- <a id="tag-watercolor"></a>`watercolor` (1): [上半照片，下半水彩旅行速写](#gpt-image-photo-to-watercolor-travel)
+- <a id="tag-watercolor"></a>`watercolor` (2): [儿童绘本水彩小英雄定妆图](#gpt-image-forest-hero-character-sheet), [上半照片，下半水彩旅行速写](#gpt-image-photo-to-watercolor-travel)
+- <a id="tag-weather"></a>`weather` (1): [同一块广告牌改成下雪的冬夜](#gpt-image-billboard-winter-evening)
 - <a id="tag-whimsical"></a>`whimsical` (2): [冰箱里钻出一只胖乎乎的紫色怪兽](#sora-fridge-monster), [糖果做的键盘](#veo-candy-keyboard)
 - <a id="tag-whisper"></a>`whisper` (1): [听写台词，烧录中英双语字幕](#bilingual-subtitles)
 - <a id="tag-wide-angle"></a>`wide-angle` (1): [低机位锁定牛皮纸袋的跟拍镜头](#kling-paper-bag-locked-tracking)

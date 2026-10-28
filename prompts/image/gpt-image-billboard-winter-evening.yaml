@@ -1,0 +1,23 @@
+id: gpt-image-billboard-winter-evening
+title:
+  en: Same billboard, now on a snowy winter evening
+  zh: 同一块广告牌改成下雪的冬夜
+model: GPT Image 2.5
+mode: image-edit
+category: brand
+tags:
+- multi-turn
+- weather
+- edit
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns
+  credit: OpenAI
+  captured: '2026-10-28'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp
+notes:
+  en: 'The previous output goes back in with one short change. Narrow follow-ups show which change helped. Preview: the Sunburst variant.'
+  zh: 把上一步的成品作为输入，只提一个改动。每次只改一处，才看得出是哪一步起了作用。预览图为 Sunburst 版本。
+prompt: |
+  Make it look like a winter evening with snowfall.

@@ -27,15 +27,18 @@
   - [Veo 3.1](#veo31) (5)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [Image prompts](#image) (40 entries)
+- [Image prompts](#image) (64 entries)
   - [Posters and editorial layouts](#img-poster) (10)
-  - [Photo to art](#img-photo-to-art) (8)
-  - [Photo realism](#img-realism) (9)
+  - [Photo to art](#img-photo-to-art) (9)
+  - [Photo realism](#img-realism) (12)
   - [Portraits](#img-portrait) (5)
-  - [Illustration](#img-illustration) (3)
-  - [Phone and UI mockups](#img-ui-mockup) (2)
+  - [Illustration](#img-illustration) (6)
+  - [Phone and UI mockups](#img-ui-mockup) (3)
   - [Maps](#img-map) (1)
   - [Collage](#img-collage) (2)
+  - [Infographics and slides](#img-infographic) (5)
+  - [Logos, ads and packaging](#img-brand) (6)
+  - [Photo editing](#img-edit) (5)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
 - [3D with agents](#threed)
@@ -5054,25 +5057,6 @@ Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, 
 
 </details>
 
-<a id="gpt-image-terrestrial-life-species-infographic"></a>
-### Honey bee educational infographic with data modules
-
-<a href="https://x.com/iamsofiaijaz/status/2113510238846672945"><img src="previews/gpt-image-terrestrial-life-species-infographic.jpg" width="360"></a>
-
-A subject placeholder lets one template cover any species. It names every module (profile sidebar, facts list, size chart, rating, habitat icons, status slider) and fixes the palette to soft beige for a journal look.
-
-GPT Image 2.5 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113510238846672945) · 230 likes on 2026-10-28
-
-[`infographic`](#tag-infographic) [`educational`](#tag-educational) [`template`](#tag-template) [`scientific`](#tag-scientific) [`layout`](#tag-layout)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
-```
-
-</details>
-
 <a id="gpt-image-landmark-sketch-travel-poster"></a>
 ### Istanbul landmark sketch travel poster in red ink
 
@@ -5192,6 +5176,45 @@ Use generous cream-toned negative space, tactile paper grain, faint printing imp
 Overall mood: nostalgic, intimate, poetic, cinematic, handcrafted, sophisticated, and emotionally warm.
 
 Maintain realistic anatomy, natural body proportions, recognizable faces, believable hands, and consistent clothing throughout both versions. High-detail editorial finish, cohesive photo-to-sketch transition, no branding, no logos, and no watermark.
+```
+
+</details>
+
+<a id="gpt-image-teddy-bear-holiday-card"></a>
+### Nostalgic Christmas card with an old teddy bear
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="previews/gpt-image-teddy-bear-holiday-card.jpg" width="360"></a>
+
+Scene, mood, style and constraints are labeled blocks, and the card text is given verbatim as the only text allowed. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+[`holiday`](#tag-holiday) [`card`](#tag-card) [`text-render`](#tag-text-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
 ```
 
 </details>
@@ -5564,6 +5587,27 @@ Nano Banana 2.1 · Edit · Source: [@Just_sharon7 on X](https://x.com/Just_sharo
 ```
 
 </details>
+
+<a id="gpt-image-pixel-art-style-transfer"></a>
+### Pixel art rider in the style of a reference image
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style"><img src="previews/gpt-image-pixel-art-style-transfer.jpg" width="360"></a>
+
+The reference image is used for style only, and the new subject is described separately, so the palette and pixel grid carry over without copying the scene. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+[`pixel-art`](#tag-pixel-art) [`style-transfer`](#tag-style-transfer) [`reference`](#tag-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/pixels.webp)
 
 <a id="img-realism"></a>
 ## Photo realism
@@ -5969,6 +6013,73 @@ text, watermark, logo, signature, artist signature, handwritten signature, initi
 
 </details>
 
+<a id="gpt-image-1969-festival-crowd"></a>
+### Festival crowd in Bethel, New York, August 1969
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"><img src="previews/gpt-image-1969-festival-crowd.jpg" width="360"></a>
+
+A place and a date are enough for the model to infer clothing, staging and setting. Inspect the result for period accuracy. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+
+[`historical`](#tag-historical) [`crowd`](#tag-crowd) [`photorealism`](#tag-photorealism)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+</details>
+
+<a id="gpt-image-candid-sailor-35mm"></a>
+### Candid 35mm portrait of an old sailor mending a net
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting"><img src="previews/gpt-image-candid-sailor-35mm.jpg" width="360"></a>
+
+Skin texture, lens, light and grain are each named, and the last line rules out glamour and retouching, so the result reads as an unposed photo. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+
+[`photorealism`](#tag-photorealism) [`film`](#tag-film) [`portrait`](#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+</details>
+
+<a id="gpt-image-sketch-to-photo-valley"></a>
+### Line drawing of a river valley rendered as a photo
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"><img src="previews/gpt-image-sketch-to-photo-valley.jpg" width="360"></a>
+
+Locks layout, proportions and perspective, lets the model choose materials and light, and bans new elements so it does not reinterpret the sketch. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+
+[`sketch`](#tag-sketch) [`photorealism`](#tag-photorealism) [`landscape`](#tag-landscape)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp)
+
 <a id="img-portrait"></a>
 ## Portraits
 
@@ -6227,6 +6338,109 @@ Create a high-end editorial fashion illustration of a stylish woman wearing a bo
 
 </details>
 
+<a id="gpt-image-forest-hero-character-sheet"></a>
+### Watercolor hero for a children's book
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="previews/gpt-image-forest-hero-character-sheet.jpg" width="360"></a>
+
+Character, theme, style and constraints are separate labeled blocks, and the plain background shows the character clearly for reuse in later pages. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+
+[`character`](#tag-character) [`childrens-book`](#tag-childrens-book) [`watercolor`](#tag-watercolor)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+</details>
+
+<a id="gpt-image-forest-hero-squirrel-rescue"></a>
+### Same hero rescues a squirrel in the snow
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="previews/gpt-image-forest-hero-squirrel-rescue.jpg" width="360"></a>
+
+Feeds the character image back in and repeats its defining details under Character Consistency, so the outfit and face stay the same in a new scene. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+
+[`character`](#tag-character) [`consistency`](#tag-consistency) [`childrens-book`](#tag-childrens-book)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Continue the children’s book story using the same character.
+
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-sunburst.webp)
+
+<a id="gpt-image-pet-home-alone-comic"></a>
+### Four-panel comic of a pet left home alone
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip"><img src="previews/gpt-image-pet-home-alone-comic.jpg" width="360"></a>
+
+One concrete visual beat per panel, written as action and framing, gives a readable comic with a clear setup and punchline. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+
+[`comic`](#tag-comic) [`storytelling`](#tag-storytelling) [`pets`](#tag-pets)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+</details>
+
 <a id="img-ui-mockup"></a>
 ## Phone and UI mockups
 
@@ -6356,6 +6570,29 @@ Outfits change continuously through the day. Morning: milky-white camisole loung
 Photo mix is fixed at 60% selfies and mirror selfies, 40% solo portraits taken by someone else. Every frame has her as the subject. Every thumbnail keeps real iPhone native-camera texture. Pose, camera distance, angle, expression, lighting, and clothing keep changing.
 The sequence runs from morning to late night. Morning feels loose and just-woken. Late morning has clear natural light. Afternoon feels like ordinary going-out. Evening has soft city light. Night has low indoor light. Late night feels quiet and private after coming home.
 The whole set is quiet, private, relaxed, and real. The album forms a dense, continuous solo-portrait look, like a full day of private portrait camera roll saved on her own phone.
+```
+
+</details>
+
+<a id="gpt-image-farmers-market-app-ui"></a>
+### Farmers market app screen in an iPhone frame
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"><img src="previews/gpt-image-farmers-market-app-ui.jpg" width="360"></a>
+
+Describes the app as if it already ships: real sections, hierarchy and spacing, no concept-art words. That keeps the result looking like a usable interface. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+[`ui`](#tag-ui) [`mobile`](#tag-mobile) [`mockup`](#tag-mockup)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
 ```
 
 </details>
@@ -6516,6 +6753,402 @@ recreate this image as a collage made from newspaper parts.
 
 </details>
 
+<a id="img-infographic"></a>
+## Infographics and slides
+
+<a id="gpt-image-terrestrial-life-species-infographic"></a>
+### Honey bee educational infographic with data modules
+
+<a href="https://x.com/iamsofiaijaz/status/2113510238846672945"><img src="previews/gpt-image-terrestrial-life-species-infographic.jpg" width="360"></a>
+
+A subject placeholder lets one template cover any species. It names every module (profile sidebar, facts list, size chart, rating, habitat icons, status slider) and fixes the palette to soft beige for a journal look.
+
+GPT Image 2.5 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113510238846672945) · 230 likes on 2026-10-28
+
+[`infographic`](#tag-infographic) [`educational`](#tag-educational) [`template`](#tag-template) [`scientific`](#tag-scientific) [`layout`](#tag-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
+```
+
+</details>
+
+<a id="gpt-image-cellular-respiration-diagram"></a>
+### Cellular respiration diagram for a high school class
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="previews/gpt-image-cellular-respiration-diagram.jpg" width="360"></a>
+
+Written like a lesson brief: audience, title, required stages and every molecule to label, plus what to avoid. Use high quality for dense labels. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+[`education`](#tag-education) [`biology`](#tag-biology) [`diagram`](#tag-diagram)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+</details>
+
+<a id="gpt-image-coffee-machine-flow-infographic"></a>
+### How an automatic coffee machine works, as an infographic
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"><img src="previews/gpt-image-coffee-machine-flow-infographic.jpg" width="360"></a>
+
+Three plain sentences name the machine, the parts in order and the goal of understanding the flow. The model fills in layout and labels; check the labels for accuracy. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+
+[`infographic`](#tag-infographic) [`technical`](#tag-technical) [`diagram`](#tag-diagram)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+</details>
+
+<a id="gpt-image-market-opportunity-slide"></a>
+### Market opportunity pitch deck slide with real numbers
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="previews/gpt-image-market-opportunity-slide.jpg" width="360"></a>
+
+Written as a slide spec with the actual numbers, chart type, footnotes and logo slot, plus a list of things to avoid. The figures are sample data; replace them before use. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+[`slide`](#tag-slide) [`chart`](#tag-chart) [`startup`](#tag-startup)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+</details>
+
+<a id="gpt-image-translate-infographic-spanish"></a>
+### Translate an infographic into Spanish without touching the layout
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"><img src="previews/gpt-image-translate-infographic-spanish.jpg" width="360"></a>
+
+A one-line edit on the coffee machine infographic. Check the output for words left in the original language. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
+
+[`translation`](#tag-translation) [`edit`](#tag-edit) [`text-render`](#tag-text-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-sunburst.webp)
+
+<a id="img-brand"></a>
+## Logos, ads and packaging
+
+<a id="gpt-image-bakery-logo-transparent"></a>
+### Bakery logo on a transparent background
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="previews/gpt-image-bakery-logo-transparent.jpg" width="360"></a>
+
+Asks for an original mark that reads at small and large sizes, then spells out the transparent background: clean alpha edges, no backdrop, no checkerboard. Pair it with background=transparent in the API. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+[`logo`](#tag-logo) [`transparent`](#tag-transparent) [`vector`](#tag-vector)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+<a id="gpt-image-billboard-winter-evening"></a>
+### Same billboard, now on a snowy winter evening
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="previews/gpt-image-billboard-winter-evening.jpg" width="360"></a>
+
+The previous output goes back in with one short change. Narrow follow-ups show which change helped. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
+
+[`multi-turn`](#tag-multi-turn) [`weather`](#tag-weather) [`edit`](#tag-edit)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp)
+
+<a id="gpt-image-product-cutout-transparent"></a>
+### Product cutout on a transparent background
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"><img src="previews/gpt-image-product-cutout-transparent.jpg" width="360"></a>
+
+Asks for a crisp silhouette with no halos, exact geometry and legible labels, and bans backdrops and drawn checkerboards. Use PNG or WebP with background=transparent. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+
+[`product`](#tag-product) [`transparent`](#tag-transparent) [`cutout`](#tag-cutout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-shampoo-highway-billboard"></a>
+### Product billboard on a highway at sunset
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="previews/gpt-image-shampoo-highway-billboard.jpg" width="360"></a>
+
+Puts the product from a photo onto a billboard and quotes the copy as exact and verbatim, with typography and a rule that it appears once. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
+
+[`billboard`](#tag-billboard) [`product`](#tag-product) [`text-render`](#tag-text-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-streetwear-campaign-tagline"></a>
+### Streetwear campaign shot with one exact tagline
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="previews/gpt-image-streetwear-campaign-tagline.jpg" width="360"></a>
+
+The tagline is quoted and the prompt asks for it exactly once, then bans extra text, watermarks and unrelated logos. This is the pattern for any ad with fixed copy. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+[`ad`](#tag-ad) [`fashion`](#tag-fashion) [`text-render`](#tag-text-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
+
+</details>
+
+<a id="gpt-image-toy-airplane-collectible-box"></a>
+### Holiday collectible toy airplane in retail packaging
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="previews/gpt-image-toy-airplane-collectible-box.jpg" width="360"></a>
+
+Uses product photography cues for materials, lighting and label printing, keeps the design original, and fixes the packaging text verbatim. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+[`packaging`](#tag-packaging) [`product`](#tag-product) [`toy`](#tag-toy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
+```
+
+</details>
+
+<a id="img-edit"></a>
+## Photo editing
+
+<a id="gpt-image-outfit-swap-keep-identity"></a>
+### Dress a person in three reference garments, identity unchanged
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"><img src="previews/gpt-image-outfit-swap-keep-identity.jpg" width="360"></a>
+
+Lists everything about the person that must stay fixed, then allows only the clothing to change and asks the lighting to match. The same pattern keeps a product recognizable. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+
+[`virtual-try-on`](#tag-virtual-try-on) [`fashion`](#tag-fashion) [`identity`](#tag-identity)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
+
+<a id="gpt-image-person-into-campsite-scene"></a>
+### Put a person into a dusk campsite chase scene
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"><img src="previews/gpt-image-person-into-campsite-scene.jpg" width="360"></a>
+
+Describes pose, gaze, clothing, place and time of day, and keeps asking for an unstyled real photo instead of a movie poster look. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
+
+[`identity`](#tag-identity) [`action`](#tag-action) [`photorealism`](#tag-photorealism)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp)
+
+<a id="gpt-image-place-dog-into-scene"></a>
+### Move a dog from one photo into another
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#combine-references"><img src="previews/gpt-image-place-dog-into-scene.jpg" width="360"></a>
+
+Images are named by number, with what moves, where it goes and what stays unchanged. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+
+[`composite`](#tag-composite) [`reference`](#tag-reference) [`pets`](#tag-pets)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp)
+
+<a id="gpt-image-remove-object-from-hand"></a>
+### Remove a flower from a man's hand
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"><img src="previews/gpt-image-remove-object-from-hand.jpg" width="360"></a>
+
+Names the one object to remove and says nothing else may change, which keeps the edit local without a mask. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+
+[`remove`](#tag-remove) [`inpainting`](#tag-inpainting) [`local-edit`](#tag-local-edit)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp)
+
+<a id="gpt-image-swap-kitchen-chairs"></a>
+### Swap only the chairs in a kitchen photo
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"><img src="previews/gpt-image-swap-kitchen-chairs.jpg" width="360"></a>
+
+Writes ONLY in capitals for the one object to replace and lists what to preserve: camera angle, lighting, floor shadows and surrounding objects. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+
+[`interior`](#tag-interior) [`local-edit`](#tag-local-edit) [`photorealism`](#tag-photorealism)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp)
+
 <a id="recipes"></a>
 ## Agent recipes: editing video
 
@@ -6659,6 +7292,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 ### Official prompt guides
 
 - [MiniMax H3 prompt-writing skill](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/.claude/skills/h3-prompt-writing): Official agent skill that rewrites a plain idea into H3's structured prompt format. Local H3 runs look much better with it.
+- [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting): Eight rules for GPT Image 2.5, with Flare and Sunburst outputs side by side for generation, editing and multi-turn refinement.
 - [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/): Conversational editing, camera changes, multi-input references, extend, first and last frame.
 - [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide): Multi-shot, element binding, multilingual dialogue, accents, text rendering, 15-second takes.
 - [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/): Dialogue in quotes, audio cues, long play-by-play prompts for action.
@@ -6688,7 +7322,8 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-3d"></a>`3d` (2): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
 - <a id="tag-3d-animation"></a>`3d-animation` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
 - <a id="tag-accent"></a>`accent` (2): [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
-- <a id="tag-action"></a>`action` (13): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Off-road rally through a river crossing](#veo-off-road-rally), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
+- <a id="tag-action"></a>`action` (14): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Off-road rally through a river crossing](#veo-off-road-rally), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu), [Put a person into a dusk campsite chase scene](#gpt-image-person-into-campsite-scene)
+- <a id="tag-ad"></a>`ad` (1): [Streetwear campaign shot with one exact tagline](#gpt-image-streetwear-campaign-tagline)
 - <a id="tag-aerial"></a>`aerial` (1): [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight)
 - <a id="tag-agent-editing"></a>`agent-editing` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-ambience"></a>`ambience` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
@@ -6706,7 +7341,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-basketball"></a>`basketball` (1): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court)
 - <a id="tag-beats"></a>`beats` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-bilingual"></a>`bilingual` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-billboard"></a>`billboard` (1): [Product billboard on a highway at sunset](#gpt-image-shampoo-highway-billboard)
 - <a id="tag-billiards"></a>`billiards` (1): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket)
+- <a id="tag-biology"></a>`biology` (1): [Cellular respiration diagram for a high school class](#gpt-image-cellular-respiration-diagram)
 - <a id="tag-blue-ink"></a>`blue-ink` (1): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-cafe"></a>`cafe` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-camera-angle"></a>`camera-angle` (2): [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
@@ -6715,15 +7352,18 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-camera-moves"></a>`camera-moves` (1): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage)
 - <a id="tag-camera-plan"></a>`camera-plan` (1): [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-camera-roll"></a>`camera-roll` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
+- <a id="tag-card"></a>`card` (1): [Nostalgic Christmas card with an old teddy bear](#gpt-image-teddy-bear-holiday-card)
 - <a id="tag-cats"></a>`cats` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-ccd-flash"></a>`ccd-flash` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-cg"></a>`cg` (2): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle)
-- <a id="tag-character"></a>`character` (2): [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk), [Old sailor speaks in verse](#veo-old-sailor-verse)
+- <a id="tag-character"></a>`character` (4): [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk), [Old sailor speaks in verse](#veo-old-sailor-verse), [Watercolor hero for a children's book](#gpt-image-forest-hero-character-sheet), [Same hero rescues a squirrel in the snow](#gpt-image-forest-hero-squirrel-rescue)
 - <a id="tag-character-consistency"></a>`character-consistency` (6): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-character-reference"></a>`character-reference` (5): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage), [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Excited Streamer Reacting at Neon Gaming Desk](#veo-live-streamer-neon-desk), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-character-sheet"></a>`character-sheet` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
+- <a id="tag-chart"></a>`chart` (1): [Market opportunity pitch deck slide with real numbers](#gpt-image-market-opportunity-slide)
 - <a id="tag-chase"></a>`chase` (1): [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-chiaroscuro"></a>`chiaroscuro` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
+- <a id="tag-childrens-book"></a>`childrens-book` (2): [Watercolor hero for a children's book](#gpt-image-forest-hero-character-sheet), [Same hero rescues a squirrel in the snow](#gpt-image-forest-hero-squirrel-rescue)
 - <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (3): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
 - <a id="tag-cinematic"></a>`cinematic` (6): [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance), [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion), [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
 - <a id="tag-city"></a>`city` (1): [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence)
@@ -6735,28 +7375,34 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-color-grading"></a>`color-grading` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
 - <a id="tag-color-window"></a>`color-window` (1): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-comedy"></a>`comedy` (6): [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
+- <a id="tag-comic"></a>`comic` (1): [Four-panel comic of a pet left home alone](#gpt-image-pet-home-alone-comic)
 - <a id="tag-commercial"></a>`commercial` (1): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
 - <a id="tag-comparison"></a>`comparison` (1): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction)
-- <a id="tag-consistency"></a>`consistency` (2): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-composite"></a>`composite` (1): [Move a dog from one photo into another](#gpt-image-place-dog-into-scene)
+- <a id="tag-consistency"></a>`consistency` (3): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Same hero rescues a squirrel in the snow](#gpt-image-forest-hero-squirrel-rescue), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
 - <a id="tag-construction"></a>`construction` (2): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-continuation"></a>`continuation` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-continuity"></a>`continuity` (1): [Window Photo Continuing Into Ink Sketch Paper](#gpt-image-photo-to-paper-second-world)
 - <a id="tag-couple"></a>`couple` (1): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-cover"></a>`cover` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
 - <a id="tag-creature"></a>`creature` (4): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
-- <a id="tag-crowd"></a>`crowd` (2): [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd)
+- <a id="tag-crowd"></a>`crowd` (3): [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Festival crowd in Bethel, New York, August 1969](#gpt-image-1969-festival-crowd)
 - <a id="tag-cube-toy"></a>`cube-toy` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
+- <a id="tag-cutout"></a>`cutout` (1): [Product cutout on a transparent background](#gpt-image-product-cutout-transparent)
 - <a id="tag-dance"></a>`dance` (3): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-desert"></a>`desert` (1): [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight)
+- <a id="tag-diagram"></a>`diagram` (2): [Cellular respiration diagram for a high school class](#gpt-image-cellular-respiration-diagram), [How an automatic coffee machine works, as an infographic](#gpt-image-coffee-machine-flow-infographic)
 - <a id="tag-dialogue"></a>`dialogue` (11): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Four family members react to a plot twist](#kling-family-reacts-to-twist), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Harbour conversation extended twice](#omni-harbour-extend), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [Old sailor speaks in verse](#veo-old-sailor-verse)
 - <a id="tag-diorama"></a>`diorama` (1): [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-doodle"></a>`doodle` (1): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-dragon"></a>`dragon` (1): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film)
 - <a id="tag-drama"></a>`drama` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-dv-camcorder"></a>`dv-camcorder` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
+- <a id="tag-edit"></a>`edit` (2): [Same billboard, now on a snowy winter evening](#gpt-image-billboard-winter-evening), [Translate an infographic into Spanish without touching the layout](#gpt-image-translate-infographic-spanish)
 - <a id="tag-editorial"></a>`editorial` (5): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Window Photo Continuing Into Ink Sketch Paper](#gpt-image-photo-to-paper-second-world), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
 - <a id="tag-editorial-layout"></a>`editorial-layout` (1): [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-editorial-poster"></a>`editorial-poster` (3): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
+- <a id="tag-education"></a>`education` (1): [Cellular respiration diagram for a high school class](#gpt-image-cellular-respiration-diagram)
 - <a id="tag-educational"></a>`educational` (1): [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-emotion"></a>`emotion` (1): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur)
 - <a id="tag-emotional"></a>`emotional` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
@@ -6764,11 +7410,12 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-extend"></a>`extend` (1): [Harbour conversation extended twice](#omni-harbour-extend)
 - <a id="tag-family"></a>`family` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
 - <a id="tag-fantasy"></a>`fantasy` (5): [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon), [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
-- <a id="tag-fashion"></a>`fashion` (5): [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
+- <a id="tag-fashion"></a>`fashion` (7): [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Dress a person in three reference garments, identity unchanged](#gpt-image-outfit-swap-keep-identity), [Streetwear campaign shot with one exact tagline](#gpt-image-streetwear-campaign-tagline), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
 - <a id="tag-fashion-editorial"></a>`fashion-editorial` (1): [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-fast-cut"></a>`fast-cut` (2): [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-ffmpeg"></a>`ffmpeg` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-fight-scene"></a>`fight-scene` (3): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight)
+- <a id="tag-film"></a>`film` (1): [Candid 35mm portrait of an old sailor mending a net](#gpt-image-candid-sailor-35mm)
 - <a id="tag-film-grain"></a>`film-grain` (1): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait)
 - <a id="tag-film-look"></a>`film-look` (4): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet), [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-first-last-frame"></a>`first-last-frame` (1): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan)
@@ -6795,14 +7442,19 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-hands"></a>`hands` (1): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro)
 - <a id="tag-handwriting"></a>`handwriting` (1): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-hard-cuts"></a>`hard-cuts` (1): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage)
+- <a id="tag-historical"></a>`historical` (1): [Festival crowd in Bethel, New York, August 1969](#gpt-image-1969-festival-crowd)
+- <a id="tag-holiday"></a>`holiday` (1): [Nostalgic Christmas card with an old teddy bear](#gpt-image-teddy-bear-holiday-card)
 - <a id="tag-home-video"></a>`home-video` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog)
 - <a id="tag-horror"></a>`horror` (2): [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak)
 - <a id="tag-humor"></a>`humor` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [Nine failed photos of any character](#gpt-image-failed-photos-grid)
+- <a id="tag-identity"></a>`identity` (2): [Dress a person in three reference garments, identity unchanged](#gpt-image-outfit-swap-keep-identity), [Put a person into a dusk campsite chase scene](#gpt-image-person-into-campsite-scene)
 - <a id="tag-identity-preservation"></a>`identity-preservation` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-illustration"></a>`illustration` (2): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster)
 - <a id="tag-image-to-video"></a>`image-to-video` (3): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk)
-- <a id="tag-infographic"></a>`infographic` (1): [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic)
+- <a id="tag-infographic"></a>`infographic` (2): [How an automatic coffee machine works, as an infographic](#gpt-image-coffee-machine-flow-infographic), [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-ink"></a>`ink` (1): [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster)
+- <a id="tag-inpainting"></a>`inpainting` (1): [Remove a flower from a man's hand](#gpt-image-remove-object-from-hand)
+- <a id="tag-interior"></a>`interior` (1): [Swap only the chairs in a kitchen photo](#gpt-image-swap-kitchen-chairs)
 - <a id="tag-interior-design"></a>`interior-design` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-ios"></a>`ios` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
 - <a id="tag-isometric"></a>`isometric` (1): [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
@@ -6817,13 +7469,15 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-korean"></a>`korean` (1): [Korean high-school rooftop at night](#kling-korean-rooftop)
 - <a id="tag-korean-makeup"></a>`korean-makeup` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-labeled-blocks"></a>`labeled-blocks` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
-- <a id="tag-landscape"></a>`landscape` (2): [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight), [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
+- <a id="tag-landscape"></a>`landscape` (3): [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight), [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test), [Line drawing of a river valley rendered as a photo](#gpt-image-sketch-to-photo-valley)
 - <a id="tag-layout"></a>`layout` (1): [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-letterbox"></a>`letterbox` (1): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out)
 - <a id="tag-line-doodle"></a>`line-doodle` (1): [Window Photo Continuing Into Ink Sketch Paper](#gpt-image-photo-to-paper-second-world)
 - <a id="tag-lip-sync"></a>`lip-sync` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-live-action"></a>`live-action` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
+- <a id="tag-local-edit"></a>`local-edit` (2): [Remove a flower from a man's hand](#gpt-image-remove-object-from-hand), [Swap only the chairs in a kitchen photo](#gpt-image-swap-kitchen-chairs)
 - <a id="tag-locked-camera"></a>`locked-camera` (2): [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking), [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
+- <a id="tag-logo"></a>`logo` (1): [Bakery logo on a transparent background](#gpt-image-bakery-logo-transparent)
 - <a id="tag-long-take"></a>`long-take` (8): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [One take follows a woman from elevator to desk](#kling-office-long-take), [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Harbour conversation extended twice](#omni-harbour-extend), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Time-travelling train, one 30-second take](#wan-time-space-train)
 - <a id="tag-loudness"></a>`loudness` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
 - <a id="tag-low-angle"></a>`low-angle` (2): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking)
@@ -6835,6 +7489,8 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-minimal"></a>`minimal` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
 - <a id="tag-minimalist"></a>`minimalist` (3): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-mixed-media"></a>`mixed-media` (1): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx)
+- <a id="tag-mobile"></a>`mobile` (1): [Farmers market app screen in an iPhone frame](#gpt-image-farmers-market-app-ui)
+- <a id="tag-mockup"></a>`mockup` (1): [Farmers market app screen in an iPhone frame](#gpt-image-farmers-market-app-ui)
 - <a id="tag-montage"></a>`montage` (3): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
 - <a id="tag-moody-lighting"></a>`moody-lighting` (1): [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro)
 - <a id="tag-morning-routine"></a>`morning-routine` (1): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog)
@@ -6845,6 +7501,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-multi-reference"></a>`multi-reference` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird)
 - <a id="tag-multi-shot"></a>`multi-shot` (19): [Anime boy glancing back while running in park](#h3-grid-storyboard-anime-park-run), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star), [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-multi-speaker"></a>`multi-speaker` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
+- <a id="tag-multi-turn"></a>`multi-turn` (1): [Same billboard, now on a snowy winter evening](#gpt-image-billboard-winter-evening)
 - <a id="tag-multi-turn-edit"></a>`multi-turn-edit` (5): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up), [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
 - <a id="tag-multilingual"></a>`multilingual` (4): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-music"></a>`music` (2): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
@@ -6863,6 +7520,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-one-liner"></a>`one-liner` (1): [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
 - <a id="tag-orbit"></a>`orbit` (1): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile)
 - <a id="tag-outfit-change"></a>`outfit-change` (1): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take)
+- <a id="tag-packaging"></a>`packaging` (1): [Holiday collectible toy airplane in retail packaging](#gpt-image-toy-airplane-collectible-box)
 - <a id="tag-painterly"></a>`painterly` (1): [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void)
 - <a id="tag-painterly-animation"></a>`painterly-animation` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-panoramic"></a>`panoramic` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
@@ -6873,20 +7531,23 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-papercraft"></a>`papercraft` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
 - <a id="tag-period"></a>`period` (3): [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)
 - <a id="tag-pet"></a>`pet` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
+- <a id="tag-pets"></a>`pets` (2): [Four-panel comic of a pet left home alone](#gpt-image-pet-home-alone-comic), [Move a dog from one photo into another](#gpt-image-place-dog-into-scene)
 - <a id="tag-phone-photo"></a>`phone-photo` (2): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain), [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
 - <a id="tag-photo-reconstruction"></a>`photo-reconstruction` (1): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-photo-to-art"></a>`photo-to-art` (5): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
 - <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (3): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-photo-to-life"></a>`photo-to-life` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
+- <a id="tag-photorealism"></a>`photorealism` (5): [Festival crowd in Bethel, New York, August 1969](#gpt-image-1969-festival-crowd), [Candid 35mm portrait of an old sailor mending a net](#gpt-image-candid-sailor-35mm), [Put a person into a dusk campsite chase scene](#gpt-image-person-into-campsite-scene), [Line drawing of a river valley rendered as a photo](#gpt-image-sketch-to-photo-valley), [Swap only the chairs in a kitchen photo](#gpt-image-swap-kitchen-chairs)
 - <a id="tag-photorealistic"></a>`photorealistic` (3): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing), [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-physics"></a>`physics` (2): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-physics-motion"></a>`physics-motion` (1): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket)
+- <a id="tag-pixel-art"></a>`pixel-art` (1): [Pixel art rider in the style of a reference image](#gpt-image-pixel-art-style-transfer)
 - <a id="tag-pop-out"></a>`pop-out` (1): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out)
-- <a id="tag-portrait"></a>`portrait` (4): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid), [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
+- <a id="tag-portrait"></a>`portrait` (5): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Candid 35mm portrait of an old sailor mending a net](#gpt-image-candid-sailor-35mm), [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid), [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-pose-sheet"></a>`pose-sheet` (1): [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-pov"></a>`pov` (2): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket), [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight)
 - <a id="tag-preview"></a>`preview` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
-- <a id="tag-product"></a>`product` (1): [Keyboard made of candy](#veo-candy-keyboard)
+- <a id="tag-product"></a>`product` (4): [Keyboard made of candy](#veo-candy-keyboard), [Product cutout on a transparent background](#gpt-image-product-cutout-transparent), [Product billboard on a highway at sunset](#gpt-image-shampoo-highway-billboard), [Holiday collectible toy airplane in retail packaging](#gpt-image-toy-airplane-collectible-box)
 - <a id="tag-product-ad"></a>`product-ad` (2): [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc)
 - <a id="tag-product-commercial"></a>`product-commercial` (1): [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
 - <a id="tag-product-photo"></a>`product-photo` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
@@ -6896,11 +7557,13 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-rain"></a>`rain` (1): [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
 - <a id="tag-realism"></a>`realism` (3): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht)
 - <a id="tag-reconstruction"></a>`reconstruction` (1): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction)
+- <a id="tag-reference"></a>`reference` (2): [Pixel art rider in the style of a reference image](#gpt-image-pixel-art-style-transfer), [Move a dog from one photo into another](#gpt-image-place-dog-into-scene)
 - <a id="tag-reference-image"></a>`reference-image` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
 - <a id="tag-reference-images"></a>`reference-images` (7): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
 - <a id="tag-reference-sheet"></a>`reference-sheet` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-reflection"></a>`reflection` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-reframe"></a>`reframe` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-remove"></a>`remove` (1): [Remove a flower from a man's hand](#gpt-image-remove-object-from-hand)
 - <a id="tag-romance"></a>`romance` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-scale"></a>`scale` (1): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-scene-detection"></a>`scene-detection` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
@@ -6918,11 +7581,12 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-silhouette"></a>`silhouette` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-single-take"></a>`single-take` (1): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin)
 - <a id="tag-sizzle-reel"></a>`sizzle-reel` (1): [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle)
-- <a id="tag-sketch"></a>`sketch` (1): [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster)
+- <a id="tag-sketch"></a>`sketch` (2): [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster), [Line drawing of a river valley rendered as a photo](#gpt-image-sketch-to-photo-valley)
 - <a id="tag-skin-detail"></a>`skin-detail` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
 - <a id="tag-skin-texture"></a>`skin-texture` (1): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit)
 - <a id="tag-skincare"></a>`skincare` (1): [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
 - <a id="tag-skyline"></a>`skyline` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
+- <a id="tag-slide"></a>`slide` (1): [Market opportunity pitch deck slide with real numbers](#gpt-image-market-opportunity-slide)
 - <a id="tag-slow-motion"></a>`slow-motion` (1): [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
 - <a id="tag-sound-design"></a>`sound-design` (4): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
 - <a id="tag-spanish"></a>`spanish` (1): [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
@@ -6931,12 +7595,13 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-split-layout"></a>`split-layout` (3): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-sports"></a>`sports` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-start-end-frames"></a>`start-end-frames` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
+- <a id="tag-startup"></a>`startup` (1): [Market opportunity pitch deck slide with real numbers](#gpt-image-market-opportunity-slide)
 - <a id="tag-static-camera"></a>`static-camera` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
 - <a id="tag-steampunk"></a>`steampunk` (1): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-stop-motion"></a>`stop-motion` (1): [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear)
 - <a id="tag-storm"></a>`storm` (1): [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-storyboard"></a>`storyboard` (4): [Anime boy glancing back while running in park](#h3-grid-storyboard-anime-park-run), [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
-- <a id="tag-storytelling"></a>`storytelling` (1): [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest)
+- <a id="tag-storytelling"></a>`storytelling` (2): [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [Four-panel comic of a pet left home alone](#gpt-image-pet-home-alone-comic)
 - <a id="tag-streamer"></a>`streamer` (1): [Excited Streamer Reacting at Neon Gaming Desk](#veo-live-streamer-neon-desk)
 - <a id="tag-street"></a>`street` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
 - <a id="tag-structured-prompt"></a>`structured-prompt` (4): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
@@ -6944,13 +7609,14 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-studio-background"></a>`studio-background` (1): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage)
 - <a id="tag-studio-portrait"></a>`studio-portrait` (1): [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-style-lock"></a>`style-lock` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
-- <a id="tag-style-transfer"></a>`style-transfer` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
+- <a id="tag-style-transfer"></a>`style-transfer` (2): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression), [Pixel art rider in the style of a reference image](#gpt-image-pixel-art-style-transfer)
 - <a id="tag-subtitles"></a>`subtitles` (2): [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
 - <a id="tag-sunset"></a>`sunset` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-sync-sound"></a>`sync-sound` (1): [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
+- <a id="tag-technical"></a>`technical` (1): [How an automatic coffee machine works, as an infographic](#gpt-image-coffee-machine-flow-infographic)
 - <a id="tag-template"></a>`template` (9): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing), [Your city as a tiny world growing out of a map](#gpt-image-city-on-map), [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template), [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic), [Half face, name stacked beside it](#nano-banana-half-face-name-portrait), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
 - <a id="tag-tension"></a>`tension` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
-- <a id="tag-text-render"></a>`text-render` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
+- <a id="tag-text-render"></a>`text-render` (7): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Kinetic type, one word per beat](#omni-word-by-word-sizzle), [Product billboard on a highway at sunset](#gpt-image-shampoo-highway-billboard), [Streetwear campaign shot with one exact tagline](#gpt-image-streetwear-campaign-tagline), [Nostalgic Christmas card with an old teddy bear](#gpt-image-teddy-bear-holiday-card), [Translate an infographic into Spanish without touching the layout](#gpt-image-translate-infographic-spanish)
 - <a id="tag-text-rendering"></a>`text-rendering` (1): [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle)
 - <a id="tag-textile"></a>`textile` (1): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust)
 - <a id="tag-texture"></a>`texture` (1): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain)
@@ -6965,21 +7631,27 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-timestamped"></a>`timestamped` (1): [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe)
 - <a id="tag-timestamped-shots"></a>`timestamped-shots` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-title-card"></a>`title-card` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
-- <a id="tag-toy"></a>`toy` (1): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust)
+- <a id="tag-toy"></a>`toy` (2): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust), [Holiday collectible toy airplane in retail packaging](#gpt-image-toy-airplane-collectible-box)
 - <a id="tag-tracking-shot"></a>`tracking-shot` (6): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket), [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight), [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [One take follows a woman from elevator to desk](#kling-office-long-take), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-transformation"></a>`transformation` (1): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels)
+- <a id="tag-translation"></a>`translation` (1): [Translate an infographic into Spanish without touching the layout](#gpt-image-translate-infographic-spanish)
+- <a id="tag-transparent"></a>`transparent` (2): [Bakery logo on a transparent background](#gpt-image-bakery-logo-transparent), [Product cutout on a transparent background](#gpt-image-product-cutout-transparent)
 - <a id="tag-travel"></a>`travel` (3): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog), [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel)
 - <a id="tag-travel-poster"></a>`travel-poster` (2): [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster), [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-typography"></a>`typography` (1): [Half face, name stacked beside it](#nano-banana-half-face-name-portrait)
 - <a id="tag-ugc"></a>`ugc` (5): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap), [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
+- <a id="tag-ui"></a>`ui` (1): [Farmers market app screen in an iPhone frame](#gpt-image-farmers-market-app-ui)
+- <a id="tag-vector"></a>`vector` (1): [Bakery logo on a transparent background](#gpt-image-bakery-logo-transparent)
 - <a id="tag-vertical"></a>`vertical` (8): [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-vfx"></a>`vfx` (3): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-video-reference"></a>`video-reference` (1): [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
 - <a id="tag-video-to-video"></a>`video-to-video` (1): [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
+- <a id="tag-virtual-try-on"></a>`virtual-try-on` (1): [Dress a person in three reference garments, identity unchanged](#gpt-image-outfit-swap-keep-identity)
 - <a id="tag-vlog"></a>`vlog` (5): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr), [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-voice-reference"></a>`voice-reference` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
 - <a id="tag-voiceover"></a>`voiceover` (1): [Perfume ad by a Paris window](#kling-perfume-paris-ad)
-- <a id="tag-watercolor"></a>`watercolor` (1): [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel)
+- <a id="tag-watercolor"></a>`watercolor` (2): [Watercolor hero for a children's book](#gpt-image-forest-hero-character-sheet), [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel)
+- <a id="tag-weather"></a>`weather` (1): [Same billboard, now on a snowy winter evening](#gpt-image-billboard-winter-evening)
 - <a id="tag-whimsical"></a>`whimsical` (2): [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [Keyboard made of candy](#veo-candy-keyboard)
 - <a id="tag-whisper"></a>`whisper` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
 - <a id="tag-wide-angle"></a>`wide-angle` (1): [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking)

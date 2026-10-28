@@ -1,0 +1,41 @@
+id: gpt-image-forest-hero-character-sheet
+title:
+  en: Watercolor hero for a children's book
+  zh: 儿童绘本水彩小英雄定妆图
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- character
+- childrens-book
+- watercolor
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent
+  credit: OpenAI
+  captured: '2026-10-28'
+notes:
+  en: 'Character, theme, style and constraints are separate labeled blocks, and the plain background shows the character clearly for reuse in later pages. Preview: the Sunburst variant.'
+  zh: 人物、主题、画风和限制分块标注，纯色背景把角色展示清楚，方便后面每页复用。预览图为 Sunburst 版本。
+prompt: |
+  Create a children’s book illustration introducing a main character.
+
+  Character:
+  A young, storybook-style hero inspired by a little forest outlaw,
+  wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+  The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+  Carries a small wooden bow used only for helping, never harming.
+
+  Theme:
+  The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+  Style:
+  Children’s book illustration, hand-painted watercolor look,
+  soft outlines, warm earthy colors, whimsical and friendly.
+  Proportions suitable for picture books (slightly oversized head, expressive face).
+
+  Constraints:
+  - Original character (no copyrighted characters)
+  - No text
+  - No watermarks
+  - Plain forest background to clearly showcase the character

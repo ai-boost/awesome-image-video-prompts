@@ -1,0 +1,43 @@
+id: gpt-image-forest-hero-squirrel-rescue
+title:
+  en: Same hero rescues a squirrel in the snow
+  zh: 同一个小英雄在雪地里救松鼠
+model: GPT Image 2.5
+mode: image-edit
+category: illustration
+tags:
+- character
+- consistency
+- childrens-book
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent
+  credit: OpenAI
+  captured: '2026-10-28'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-sunburst.webp
+notes:
+  en: 'Feeds the character image back in and repeats its defining details under Character Consistency, so the outfit and face stay the same in a new scene. Preview: the Sunburst variant.'
+  zh: 把角色图作为输入，并在角色一致性一节里重复关键特征，换了场景服装和长相也不变。预览图为 Sunburst 版本。
+prompt: |
+  Continue the children’s book story using the same character.
+
+  Scene:
+  The same young forest hero is gently helping a frightened squirrel
+  out of a fallen tree after a winter storm.
+  The character kneels beside the squirrel, offering reassurance.
+
+  Character Consistency:
+  - Same green hooded tunic
+  - Same facial features, proportions, and color palette
+  - Same gentle, heroic personality
+
+  Style:
+  Children’s book watercolor illustration,
+  soft lighting, snowy forest environment,
+  warm and comforting mood.
+
+  Constraints:
+  - Do not redesign the character
+  - No text
+  - No watermarks

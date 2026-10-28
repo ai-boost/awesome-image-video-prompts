@@ -1,0 +1,25 @@
+id: gpt-image-pet-home-alone-comic
+title:
+  en: Four-panel comic of a pet left home alone
+  zh: 宠物独自在家的四格漫画
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- comic
+- storytelling
+- pets
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip
+  credit: OpenAI
+  captured: '2026-10-28'
+notes:
+  en: 'One concrete visual beat per panel, written as action and framing, gives a readable comic with a clear setup and punchline. Preview: the Sunburst variant.'
+  zh: 每格只写一个具体的画面节拍，用动作和构图来写，四格的铺垫和反转就清楚了。预览图为 Sunburst 版本。
+prompt: |
+  Create a short vertical comic-style reel with 4 panels.
+  Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+  Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+  Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+  Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.

@@ -1,0 +1,25 @@
+id: gpt-image-farmers-market-app-ui
+title:
+  en: Farmers market app screen in an iPhone frame
+  zh: 放在 iPhone 机身里的农夫市集 App 界面
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- ui
+- mobile
+- mockup
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview
+  credit: OpenAI
+  captured: '2026-10-28'
+notes:
+  en: 'Describes the app as if it already ships: real sections, hierarchy and spacing, no concept-art words. That keeps the result looking like a usable interface. Preview: the Sunburst variant.'
+  zh: 把 App 当成已经上线的产品来描述：真实的模块、层级和间距，不用概念图的词，出来的界面才像能用的。预览图为 Sunburst 版本。
+prompt: |
+  Create a realistic mobile app UI mockup for a local farmers market.
+  Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+  Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+  It should look like a real, well-designed, beautiful app for a small local market.
+  Place the UI mockup in an iPhone frame.

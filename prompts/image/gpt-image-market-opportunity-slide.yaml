@@ -1,0 +1,37 @@
+id: gpt-image-market-opportunity-slide
+title:
+  en: Market opportunity pitch deck slide with real numbers
+  zh: 带具体数字的融资路演市场规模页
+model: GPT Image 2.5
+mode: text-to-image
+category: infographic
+tags:
+- slide
+- chart
+- startup
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts
+  credit: OpenAI
+  captured: '2026-10-28'
+notes:
+  en: 'Written as a slide spec with the actual numbers, chart type, footnotes and logo slot, plus a list of things to avoid. The figures are sample data; replace them before use. Preview: the Sunburst variant.'
+  zh: 按幻灯片规格来写，直接给出数字、图表类型、脚注和标志位置，再列出要避免的东西。示例数字是虚构的，使用前要换成真实数据。预览图为 Sunburst 版本。
+prompt: |
+  Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+  Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+  * A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+  * Specific, believable market sizing numbers:
+
+    * **TAM:** $42B
+    * **SAM:** $8.7B
+    * **SOM:** $340M
+  * A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+  * Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+  * A company logo placeholder in the bottom-right corner
+
+  The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+  Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
