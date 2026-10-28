@@ -1,0 +1,19 @@
+id: veo-old-sailor-verse
+title:
+  en: Old sailor speaks in verse
+  zh: 老水手念诗
+model: Veo 3
+mode: text-to-video
+tags:
+- dialogue
+- character
+source:
+  name: Veo 3 prompt guide
+  url: https://deepmind.google/models/veo/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__sailor.webm
+notes:
+  en: Character first (hat, beard, pipe), then the spoken line in quotes. Veo 3 lip-syncs the quoted text.
+  zh: 先写人物（帽子、胡子、烟斗），再把台词放进引号，Veo 3 会按引号里的内容对口型。
+prompt: |
+  A medium shot frames an old sailor, his knitted blue sailor hat casting a shadow over his eyes, a thick grey beard obscuring his chin. He holds his pipe in one hand, gesturing with it towards the churning, grey sea beyond the ship's railing. "This ocean, it's a force, a wild, untamed might. And she commands your awe, with every breaking light"

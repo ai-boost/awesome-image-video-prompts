@@ -1,0 +1,20 @@
+id: omni-quantum-explainer
+title:
+  en: Quantum computing explained in risograph flat style
+  zh: 孔版印刷扁平风，讲清量子计算
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- explainer
+- motion-graphics
+- style-lock
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__quantum.webm
+notes:
+  en: Asks for an explanation and leaves the content to the model's world knowledge. The prompt only pins down the visual style.
+  zh: 只提要讲什么，内容交给模型自己的知识，提示词只管把画风定死。
+prompt: |
+  Explain the difference between regular computing and quantum computing. Visualize this sentence using a contemporary flat-media style that blends minimalist vector shapes with rich organic textures. The aesthetic is defined by a high-contrast, "electric" color palette of neon pinks, cyans, and limes set against a deep navy background. A hallmark of this style is the use of stipple shading and grainy gradients, which adds a tactile, risograph-like quality to the otherwise simple geometric forms. By combining sharp edges with these softened, speckled transitions, the illustration achieves a playful, editorial feel.

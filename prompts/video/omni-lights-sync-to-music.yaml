@@ -1,0 +1,21 @@
+id: omni-lights-sync-to-music
+title:
+  en: Apartment lights switch on to the beat
+  zh: 公寓的灯跟着音乐节拍一盏盏亮起
+model: Gemini Omni Flash
+mode: video-edit
+tags:
+- audio-sync
+- music
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__building-light.webm
+inputs:
+- https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__building-no-light.webm
+notes:
+  en: Syncs a visual event to an audio track by naming both in one sentence. No timestamps needed.
+  zh: 一句话同时点名画面事件和音轨，就能让两者对拍，不用写时间点。
+prompt: |
+  The lights of the apartments start turning on in sync with the music.

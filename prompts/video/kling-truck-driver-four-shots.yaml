@@ -1,0 +1,22 @@
+id: kling-truck-driver-four-shots
+title:
+  en: Truck driver in four handheld shots
+  zh: 卡车司机，四个手持镜头
+model: Kling 3.0
+mode: image-to-video
+tags:
+- multi-shot
+- handheld
+- film-look
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-94.klingai-cdn-aws.com/kling-blog/presigned_url/b77930c4-755d-4035-ba98-842446609ea8_Dave_multi.mp4
+inputs:
+- https://static--56.klingai-cdn-aws.com/kling-blog/file/0c5b8af23bea126e21beac535408c4cf6020f44cc773e2985ab1c32c42756216.jpg
+notes:
+  en: Custom Multi-Shot from Kling creative partner Dave Clark. Every shot repeats `cinematic handheld` so the look holds across cuts.
+  zh: 可灵创作伙伴 Dave Clark 的自定义多镜头。每个镜头都重复 `cinematic handheld`，切镜后质感不跳。
+prompt: |
+  shot 1, profile shot of black man driving a truck, cinematic handheld. Shot 2, frontal macro shot of black man driving a truck, cinematic handheld. Shot 3, macro shot of hands on the steering wheel, cinematic handheld. Shot 4, macro shot of a weathered picture of a young black child laying on the passenger side seat, cinematic handheld.

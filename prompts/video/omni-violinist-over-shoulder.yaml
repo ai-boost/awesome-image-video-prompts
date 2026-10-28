@@ -1,0 +1,21 @@
+id: omni-violinist-over-shoulder
+title:
+  en: Move the camera over the violinist's shoulder
+  zh: 把机位挪到小提琴手肩后
+model: Gemini Omni Flash
+mode: video-edit
+tags:
+- multi-turn-edit
+- camera-angle
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/3cYlYfozIFs5_Ngj/gemini-omni__edit-over-multiple-turns-with-consistency__angle.webm
+inputs:
+- https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/3cYlYfozIFs5_Ngj/gemini-omni__edit-over-multiple-turns-with-consistency__invisible.webm
+notes:
+  en: A camera change written as one plain sentence. Omni re-renders the same performance from the new angle.
+  zh: 改机位只用一句大白话，Omni 用新角度重拍同一段演奏。
+prompt: |
+  Change the camera angle to be over the violinist’s shoulder.

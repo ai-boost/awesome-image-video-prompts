@@ -1,0 +1,21 @@
+id: omni-four-style-progression
+title:
+  en: One clip through crayon, pencil, glass and risograph
+  zh: 同一段视频依次变成蜡笔、铅笔、玻璃、孔版
+model: Gemini Omni Flash
+mode: video-edit
+tags:
+- style-transfer
+- animation
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini_omni__prompt-guide__astro-sketch-valley.webm
+inputs:
+- https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini_omni__prompt-guide__astro-sketch-valley_input.webm
+notes:
+  en: Restyles a reference video in four stages. Each stage gets its own texture words, so the transitions read clearly.
+  zh: 把参考视频分四段换风格，每段都有自己的质感词，转场一眼能分清。
+prompt: |
+  Create a four-part stylistic progression of the video reference that begins with a vibrant colored crayon aesthetic, featuring rich, waxy, textured strokes and playful, hand-drawn character designs against a backdrop of heavily granulated paper. Transition seamlessly into a graphite pencil sketch on textured paper, utilizing cross-hatching, varying line weights, and a 12fps "line boiling" effect to emphasize a hand-drawn feel. Next, morph into a hyper-realistic 3D translucent glass style, characterized by complex light refractions, caustic patterns, and soft internal glows within a minimalist studio setting. Conclude the sequence with a tactile risograph print look, applying a limited three-color palette, grainy halftone textures, and intentional registration overlays for a retro, mechanical finish.

@@ -1,0 +1,20 @@
+id: veo-candy-keyboard
+title:
+  en: Keyboard made of candy
+  zh: 糖果做的键盘
+model: Veo 3
+mode: text-to-video
+tags:
+- sfx
+- product
+- whimsical
+source:
+  name: Veo 3 prompt guide
+  url: https://deepmind.google/models/veo/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__keyboard.webm
+notes:
+  en: A separate `Audio:` line tells the model what the scene should sound like.
+  zh: 单独一行 `Audio:` 告诉模型画面该配什么声音。
+prompt: |
+  A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.

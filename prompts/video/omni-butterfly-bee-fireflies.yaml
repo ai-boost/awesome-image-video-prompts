@@ -1,0 +1,22 @@
+id: omni-butterfly-bee-fireflies
+title:
+  en: Butterfly to bee to fireflies, one change per turn
+  zh: 蝴蝶改蜜蜂再改萤火虫，一轮只改一处
+model: Gemini Omni Flash
+mode: video-edit
+tags:
+- multi-turn-edit
+- object-swap
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__firefly.webm
+inputs:
+- https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__butterfly.webm
+notes:
+  en: Two short edit turns on the same clip. Each turn names one subject and its replacement, and everything else stays put.
+  zh: 同一段视频连改两轮，每轮只点名一个对象和它的替换物，其余画面原样保留。
+prompt: |
+  Change the butterfly to a bee.
+  Change the bee into a small swarm of fireflies.

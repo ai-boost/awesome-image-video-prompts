@@ -2,13 +2,13 @@
 
 <h1>Awesome Image & Video Prompts</h1>
 
-<p>Tested prompts for AI video and image generation, plus agent recipes for editing video. Every entry ships with the exact prompt, the settings it ran with, and the real output.</p>
+<p>Copy-ready prompts for the leading AI video models, each with its real output and a link to where it came from. Plus agent recipes for editing video.</p>
 
 <p><b>English</b> · <a href="README_zh.md">简体中文</a></p>
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
-<a href="#subway-kitten-tote-bag"><img src="previews/subway-kitten-tote-bag.gif" height="160"></a> <a href="#hk-noodle-stall-1960s"><img src="previews/hk-noodle-stall-1960s.gif" height="160"></a> <a href="#kitten-and-fish-jar"><img src="previews/kitten-and-fish-jar.gif" height="160"></a> <a href="#neon-night-market-alley"><img src="previews/neon-night-market-alley.gif" height="160"></a> 
+<a href="#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
 
 </div>
 
@@ -16,301 +16,949 @@
 
 ## Contents
 
-- [Video prompts](#video) (11 entries)
-  - [Text-to-video](#text-to-video) (9)
-  - [Image-to-video](#image-to-video) (1)
-  - [One scene, four modes](#mode-comparison)
+- [Video prompts](#video) (39 entries)
+  - [MiniMax H3](#minimaxh3) (3)
+  - [Gemini Omni Flash](#geminiomniflash) (13)
+  - [Kling 3.0](#kling30) (15)
+  - [Veo 3](#veo3) (5)
+  - [Sora 2](#sora2) (3)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Image prompts](#image)
 - [3D with agents](#threed)
 - [Browse by tag](#tags)
-- [How to read an entry](#how)
 - [Contributing](#contributing)
 
 <a id="video"></a>
 ## Video prompts
 
-<a id="text-to-video"></a>
-### Text-to-video
+Every prompt below is copied verbatim from the model maker's own guide or model card, next to the video it produced. Click a thumbnail to watch the original with sound. Sections follow the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video) ranking.
 
-<a id="subway-kitten-tote-bag"></a>
-#### Tough guy hides a kitten on the subway (15 s vertical)
+<a id="minimaxh3"></a>
+## MiniMax H3
 
-<img src="previews/subway-kitten-tote-bag.gif" height="240">
+<a id="h3-pink-suit-lip-sync-edit"></a>
+### Make the man in an existing clip speak, in a borrowed voice
 
-Four-shot micro story for TikTok or Douyin. The opening paragraph describing amateur phone footage (sensor noise, green-leaning white balance, focus hunting, no grading) is what makes it read as real phone footage. Rendered with the 4-step turbo sampler.
+<a href="https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/r2va_2k.mp4"><img src="previews/h3-pink-suit-lip-sync-edit.jpg" width="360"></a>
 
-[`phone-footage`](#tag-phone-footage) [`vertical`](#tag-vertical) [`short-drama`](#tag-short-drama) [`animals`](#tag-animals) [`multi-shot`](#tag-multi-shot) [`chinese-dialogue`](#tag-chinese-dialogue) [`15s`](#tag-15s)
+Edit-mode prompt with six fields. `retention_analysis` says what to keep from each input: the source video fully, its music partly, and only the voice timbre from the second audio clip.
 
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 480x864 · 15.1 s · 4 steps (turbo) · audio</summary>
+MiniMax H3 · Video edit · Source: [MiniMax H3 model card](https://huggingface.co/MiniMaxAI/MiniMax-H3)
+
+[`lip-sync`](#tag-lip-sync) [`voice-reference`](#tag-voice-reference) [`multi-reference`](#tag-multi-reference) [`structured-prompt`](#tag-structured-prompt) [`dialogue`](#tag-dialogue)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
-integrated_multimodal_description: [Shot 1] Amateur handheld smartphone footage, vertical 9:16, shot on a phone main camera at f/1.8 held low at lap height across the aisle of a moving subway car. Harsh overhead fluorescent lighting, neutral white balance leaning slightly green, no colour grading, blown-out white highlights on the polished metal grab poles, visible sensor noise in the shadows under the seats, mild handheld micro-shake throughout, a brief autofocus hunt before the subject snaps sharp, fine motion blur on quick movement, slight lens vignetting in the corners. Tight framing on a scuffed beige canvas tote bag sitting on the knees of a heavily built bald man in a black sleeveless tank top, a large solid black tattoo sleeve covering his entire left forearm. The tote bag is already jerking and bulging violently from the inside, its top gaping open, and his broad tattooed hand is pressed down flat across it trying to hold it shut. The camera pushes in with small amplitude at slow speed toward the bag. Throughout the shot the bag keeps lurching sideways in short hard jolts, the stiff canvas denting outward and snapping back, his thick fingers spreading wide and re-gripping the rim as the fabric shifts under them, the whole frame rocking gently with the moving car. [Shot 2] At 00:04.200, the shot cuts to a slightly wider handheld angle from the same low seat height, the bald man in the black sleeveless tank top with the large solid black tattoo sleeve on his left forearm now framed from the chest up against a row of empty blue subway seats and a dark window streaked with tunnel lights. The camera tilts up with small amplitude at slow speed from the bag to his face. Throughout the shot he keeps his chin tucked down and his eyes flicking quickly left and right along the length of the car, hauling the jolting canvas bag in tight against his stomach with both forearms, his shoulders hunching higher as the bag shoves against him. With a low hushed voice (S1) he says: <d>[Chinese] 嘘,别叫。</d> [Shot 3] At 00:08.400, the shot cuts to a close handheld shot of the gaping top of the beige canvas tote bag, the man's black tattooed forearm filling the left edge of the frame. Throughout the shot the canvas is shoved apart from the inside and the head of a small pure white kitten with bright blue eyes forces its way up out of the bag, ears swivelling, mouth stretching open in a thin cry, its front paws hooking over the rim as it climbs higher, while the tattooed hand rushes in from the frame edge toward it and the lens briefly hunts for focus before snapping sharp on the kitten's face. [Shot 4] At 00:11.600, the shot cuts to a medium handheld shot of the bald man in the black sleeveless tank top, the large solid black tattoo sleeve on his left forearm catching the flat overhead fluorescent light. Throughout the shot his whole broad tattooed hand cups over the pure white kitten's head and eases it slowly back down into the canvas bag, he folds the gaping top shut under his palm, and his face breaks into a wide grin he cannot hold back as he glances once straight into the camera, after which both his hand and the bag settle and the frame comes to rest holding perfectly still.
-overall_soundscape: A continuous low rumble and metallic clatter of a moving subway car, with a long rail squeal through a curve. Dry rustling and scraping of stiff canvas jerking against denim, and the rattle of a loose grab handle. A muffled station announcement over a tinny PA far down the car. A thin high kitten cry in the second half and a short breathy laugh through closed lips at the very end.
-non_diegetic_music: Sparse single plucked ukulele notes enter at a slow tempo the moment the kitten appears, one note every two beats. A soft shaker joins on the last three seconds. Ends on one held note.
+subject_definitions:
+<Subject 1> is the young man with short wavy blonde hair, wearing a bright pink suit jacket, matching pink trousers, an unbuttoned white shirt, and silver rings, holding a small black lamb in his arms in <Video 1>.
+<Video 1> is the source video for the editing task.
+<Audio 1> is the synchronized audio track of <Video 1>, providing the background music.
+<Audio 2> is the voice timbre reference for <Subject 1>'s voice, containing a spoken male voiceover.
+
+summary:
+[video editing + audio reference + audio reuse] The target video is an edited version of <Video 1>. <Subject 1>, wearing a bright pink suit and holding a black lamb, stands in a grassy field with other white lambs in the background. The edit animates <Subject 1>'s face to speak the user-provided dialogue. <Audio 1> is partially reused as the continuous background music, while the target references the calm male voice timbre of <Audio 2> for <Subject 1>'s spoken lines.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - the man retains his identity, wavy blonde hair, pink suit, white shirt, accessories, and the black lamb he holds, with his mouth newly animated to speak.
+<Video 1> (source video editing): fully_preserved - the original camera framing, warm golden hour lighting, grassy hill setting, and background white lambs are maintained while the central character is edited.
+<Audio 1>: partially_copy - the atmospheric background music from <Audio 1> is reused in the target video, mixed beneath the newly added spoken dialogue.
+<Audio 2>: reference - the target audio references the male voice timbre from <Audio 2> to generate <Subject 1>'s spoken dialogue.
+
+detailed_description:
+The target video is in realistic photographic style.
+[Shot 1] The shot begins from the source <Video 1>, showing <Subject 1>, a young man with short wavy blonde hair, wearing a bright pink suit jacket, matching pink trousers, and a casually unbuttoned white shirt. He stands confidently in a sunlit green pasture, gently holding a small black lamb securely in his arms. The warm, golden hour lighting casts soft shadows across his face and the bright pink fabric of his suit. Behind him, several white lambs stand and graze on the rolling grassy hill against a clear, pale blue sky. The atmospheric background music from <Audio 1> plays continuously throughout the scene. <Subject 1> physically speaks, his mouth movements naturally syncing to the new dialogue, with his voice timbre referencing the calm male delivery from <Audio 2>. Looking thoughtfully forward, <Subject 1> (S1) speaks softly, <d>[English] Follow the wind, live free.</d> As he delivers the line, he subtly shifts his weight, cradling the resting black lamb while the camera slowly pushes in. <Subject 1> (S1) continues his thought, <d>[English] Leave worries behind, enjoy the moment.</d> Exactly as his voice stops, his lips meet in a relaxed, peaceful smile, and his jaw ceases speaking motion. He then turns his gaze slightly away toward the horizon, gently stroking the black lamb's fleece with his fingers as the camera holds on this tranquil, sunlit state through the end of the video.
+
+overall_soundscape:
+The soundscape consists of the continuous, atmospheric background music from <Audio 1>, overlaid with the clear, calm male dialogue spoken by the main character, referencing the voice timbre of <Audio 2>.
+
+non_diegetic_music:
+The atmospheric, sustained background music from <Audio 1> is reused as the continuous score, playing quietly beneath the spoken dialogue.
 ```
 
 </details>
 
-[Full video with sound](samples/subway-kitten-tote-bag.mp4) · [Entry file](prompts/video/subway-kitten-tote-bag.yaml)
+<a id="h3-ramen-focus-pull"></a>
+### Ramen in front, family dinner behind, one focus pull
 
-<a id="hk-noodle-stall-1960s"></a>
-#### 1960s Hong Kong noodle stall, one line of dialogue
+<a href="https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/i2va_2k.mp4"><img src="previews/h3-ramen-focus-pull.jpg" width="360"></a>
 
-<img src="previews/hk-noodle-stall-1960s.gif" height="240">
+The first line pins the input photo to frame 0, then the prompt describes the whole eight seconds as one locked-off shot whose only move is the focus shifting from the bowl to the family.
 
-Shows a full three-part H3 prompt: picture, soundscape, music. The spoken line goes inside `<d>[Chinese] ...</d>` and is voiced in sync with the character. Neon signage renders legibly when written as `large clean characters`.
+MiniMax H3 · Image-to-video · Source: [MiniMax H3 model card](https://huggingface.co/MiniMaxAI/MiniMax-H3)
 
-[`cinematic`](#tag-cinematic) [`film-look`](#tag-film-look) [`dialogue`](#tag-dialogue) [`chinese-dialogue`](#tag-chinese-dialogue) [`neon-text`](#tag-neon-text) [`period-drama`](#tag-period-drama) [`landscape`](#tag-landscape)
+[`focus-pull`](#tag-focus-pull) [`static-camera`](#tag-static-camera) [`structured-prompt`](#tag-structured-prompt) [`food`](#tag-food) [`sfx`](#tag-sfx)
 
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 1344x768 · 5.2 s · 20 steps (res_multistep) · audio</summary>
-
-```text
-integrated_multimodal_description: [Shot 1] Live-action, cinematic, vintage film look with heavy 35mm grain, saturated emerald-green and deep-crimson color grading, shallow depth of field on a wide-aperture anamorphic lens with visible horizontal flares. A cramped Hong Kong street noodle stall at night in the 1960s. A woman in her late twenties (S1) sits alone at the counter in a fitted dark-green cheongsam with a pale floral pattern, her black hair pinned up, a thin curl of steam rising from the bowl in front of her. She is framed off-centre to the right, seen through the stall's hanging strips of translucent plastic that blur the left third of the frame. Behind her a vertical neon sign glows magenta with large clean characters reading "金雀茶室", and beneath it a smaller horizontal sign in warm white block letters reads "TEA HOUSE". The camera pushes in with small amplitude at slow speed toward her face. She lifts her chopsticks, pauses without eating, and turns her eyes to the empty stool beside her. With a low, slightly hoarse and unhurried voice (S1) she says: <d>[Chinese] 他今晚不会来了。</d> Then she looks back down at the bowl, and the steam bends across her face as a tram passes outside the frame, sliding a bar of white light left to right across the plastic strips and her cheek.
-overall_soundscape: A continuous wet-street ambience of light rain on canvas awnings and the low rumble of night traffic sits underneath. Close to camera, broth simmers with a steady soft bubbling and a ladle taps twice against the rim of a metal pot. The hanging plastic strips rustle and click against each other. As the tram passes, a rising metallic hum and the squeal of steel wheels swells and then recedes.
-non_diegetic_music: A slow bolero rhythm on muted strings with a solitary Spanish guitar figure repeating over sustained low cello notes, unhurried, holding the same tempo without building.
-```
-
-</details>
-
-[Full video with sound](samples/hk-noodle-stall-1960s.mp4) · [Entry file](prompts/video/hk-noodle-stall-1960s.yaml)
-
-<a id="kitten-and-fish-jar"></a>
-#### Kitten knocks over the fish jar (15 s vertical)
-
-<img src="previews/kitten-and-fish-jar.gif" height="240">
-
-Classic four-beat structure: setup, temptation, accident, innocent stare. The soundscape spells out every physical sound (pads on glass, the jar thud, the fish rattle), which the model renders in sync.
-
-[`cinematic`](#tag-cinematic) [`vertical`](#tag-vertical) [`animals`](#tag-animals) [`comedy`](#tag-comedy) [`multi-shot`](#tag-multi-shot) [`15s`](#tag-15s)
-
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 480x864 · 15.1 s · 20 steps (res_multistep) · audio</summary>
-
-```text
-integrated_multimodal_description: [Shot 1] Live-action, cinematic, warm natural morning light, shallow depth of field, vertical 9:16 mobile framing. A clean pale-wood kitchen counter seen from counter height, a tall clear glass jar packed with dried silver fish sitting slightly left of centre, a folded blue linen cloth behind it and an out-of-focus window in the background throwing soft light across the grain of the wood. From the lower edge of the frame the top of a ginger tabby kitten's head rises slowly into view, first two rounded ears, then a pair of wide amber eyes that lock onto the jar. The camera holds a static shot with a faint handheld drift. Throughout the shot the kitten keeps rising until its chin clears the counter edge, its pupils widening and its whiskers pushing forward as it stares at the jar. [Shot 2] At 00:04.200, the shot cuts to a tight close-up of the kitten's front paw, white-socked, reaching slowly across the wood toward the jar. The camera holds a low static shot at counter level. Throughout the shot the soft pink pads press against the cold glass, the paw testing and pushing, and the heavy jar begins to rock gently on its base, the dried fish shifting inside with each tilt. [Shot 3] At 00:08.400, the shot cuts to a wider view as the jar topples onto its side and rolls, dried silver fish spilling and scattering across the pale wood toward the camera. The camera shakes slightly as the jar lands. Throughout the shot the kitten freezes completely mid-reach, ears flattening back against its skull, its eyes going perfectly round while the last few fish keep sliding to a stop around its paws. [Shot 4] At 00:11.600, the shot cuts to a head-on medium close-up of the kitten from the owner's point of view, the spilled fish and the toppled jar filling the wood in front of it. One paw is still resting on the jar. Throughout the shot the kitten slowly draws that paw back and tucks it under its chest, blinks once very slowly, and holds a flat innocent stare directly into the lens.
-overall_soundscape: A quiet morning kitchen room tone with a faint refrigerator hum and distant birdsong through glass. Soft pads tap and squeak against smooth cold glass, followed by the low woody rumble of a heavy jar rocking on a wooden counter. The jar lands with a dull hollow thud and rolls, and dozens of small dried fish scatter across wood in a fine dry rattle that tapers off. A single short high chirp-meow escapes the kitten just after the jar lands.
-non_diegetic_music: Light pizzicato strings at a walking tempo with a soft marimba doubling the melody, pausing on one beat of silence as the jar lands, then returning quieter and slowing to a stop.
-```
-
-</details>
-
-[Full video with sound](samples/kitten-and-fish-jar.mp4) · [Entry file](prompts/video/kitten-and-fish-jar.yaml)
-
-<a id="night-train-ticket"></a>
-#### Night train, a sentence carried across a cut
-
-<img src="previews/night-train-ticket.gif" height="240">
-
-Two shots with a hard cut at 00:02.600. The `<scenetrans>` tag carries the voice across the cut, so the sentence starts in the medium close-up and ends on the close-up of the hand.
-
-[`cinematic`](#tag-cinematic) [`film-look`](#tag-film-look) [`dialogue`](#tag-dialogue) [`chinese-dialogue`](#tag-chinese-dialogue) [`multi-shot`](#tag-multi-shot) [`landscape`](#tag-landscape)
-
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 1344x768 · 5.2 s · 20 steps (res_multistep) · audio</summary>
-
-```text
-integrated_multimodal_description: [Shot 1] Live-action, cinematic, vintage film look with heavy 35mm grain and a cold teal-and-amber grade, shallow depth of field, slight lens breathing. Interior of a night train carriage, almost empty, warm tungsten ceiling lamps flickering as the train moves. A man in his forties (S1) sits by the window in a rumpled grey raincoat, unshaven, a paper ticket held loosely between two fingers. He is framed in a tight medium close-up from the aisle side, the black window beside him streaked with rain and the intermittent yellow smear of passing platform lights. The camera holds a static shot with a faint natural sway matching the carriage. He looks at the ticket, then out at the dark, and with a quiet, gravelly, unhurried voice (S1) begins to say: <d>[Chinese] 我等了她八年，</d><scenetrans> and the line continues uninterrupted into the next shot. [Shot 2] At 00:02.600, the shot cuts to a low static close-up of his hand on the armrest, the paper ticket now creased between his thumb and forefinger, the tungsten light catching the frayed cuff of his sleeve. <scenetrans>His voice carries over from the previous shot and remains audible across the transition as he finishes: <d>[Chinese] 就等这一趟车。</d> while his hand slowly tightens around the ticket until the paper buckles.
-overall_soundscape: A steady rhythmic clatter of steel wheels over rail joints runs through the entire clip at a constant tempo, with the deep continuous rumble of the carriage underneath. Rain ticks against the window glass in irregular bursts. The loose ceiling lamp fitting rattles faintly on the same rhythm as the wheels, and fabric rustles as the man shifts his weight.
-non_diegetic_music: A single sustained low cello note held under the entire scene, joined near the end by sparse, widely spaced piano notes in the upper register, very slow, never rising in volume.
-```
-
-</details>
-
-[Full video with sound](samples/night-train-ticket.mp4) · [Entry file](prompts/video/night-train-ticket.yaml)
-
-<a id="late-night-office"></a>
-#### Alone in the office at night, nine fast cuts
-
-<img src="previews/late-night-office.gif" height="240">
-
-Nine shots in 15 seconds, with cuts as short as 0.5 s to build tension. Each shot gets its own timestamp and one clear action.
-
-[`phone-footage`](#tag-phone-footage) [`vertical`](#tag-vertical) [`suspense`](#tag-suspense) [`multi-shot`](#tag-multi-shot) [`fast-cuts`](#tag-fast-cuts) [`15s`](#tag-15s)
-
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 480x864 · 15.1 s · 4 steps (turbo) · audio</summary>
-
-```text
-integrated_multimodal_description: [Shot 1] Amateur handheld smartphone footage, vertical 9:16, shot on a phone main camera at f/1.8 in a dark open-plan office at night. Harsh mixed lighting: one overhead fluorescent panel still on above an empty desk bank and the cold blue-white glow of a single monitor, no colour grading, white balance leaning slightly green, visible sensor noise in the shadows, mild handheld micro-shake throughout, fine motion blur on quick movement. Wide shot from across the office of a woman (S1) alone at the far desk, seen small in frame, hunched toward the monitor, rows of empty chairs between her and the camera. The camera pushes in with small amplitude at slow speed down the aisle toward her. Throughout the shot she stays completely still except for one hand on the mouse, the monitor light flickering across the empty desks around her. [Shot 2] At 00:03.000, the shot cuts to a medium shot of the same woman from the side at desk height, her face lit only by the monitor, a black cardigan over her shoulders and her hair tied back. Throughout the shot she leans slowly forward toward the screen and her hand stops moving on the mouse. [Shot 3] At 00:05.000, the shot cuts to a close-up of her face straight on, the monitor glow filling her glasses. Throughout the shot her eyes track downward across the screen and her lips part slightly. [Shot 4] At 00:06.000, the shot cuts to an extreme close-up of her right eye, the reflected screen text sliding across the wet surface of the eye. [Shot 5] At 00:06.500, the shot cuts to an extreme close-up of her hand gripping the edge of the desk, the knuckles going pale. [Shot 6] At 00:07.000, the shot cuts to an extreme close-up of her mouth as her jaw sets hard. [Shot 7] At 00:07.500, the shot cuts back to the close-up of her whole face straight on, held steady. Throughout the shot she stares without blinking and her breathing lifts her shoulders twice. [Shot 8] At 00:09.500, the shot cuts to a wide shot from behind her chair looking past her at the bright monitor in the dark office, her silhouette small and black against it. Throughout the shot she slowly stands up out of the chair, the chair rolling back a short distance. [Shot 9] At 00:12.000, the shot cuts to a medium shot of the empty aisle of desks with the office door at the far end swinging shut, the fluorescent panel humming above rows of vacant chairs. Throughout the shot nothing moves except the door settling closed, and the frame comes to rest holding perfectly still.
-overall_soundscape: A steady low hum of air conditioning and the electrical buzz of a fluorescent panel throughout. Sparse mouse clicks early on, then they stop. A chair caster rolling on carpet. A door latch clicking shut at the end. Two audible breaths through the nose.
-non_diegetic_music: A single low sustained synth note enters quietly and holds, with one sharp percussive hit at the tightest moment, then falls away to silence.
-```
-
-</details>
-
-[Full video with sound](samples/late-night-office.mp4) · [Entry file](prompts/video/late-night-office.yaml)
-
-<a id="neon-night-market-alley"></a>
-#### Neon night-market alley with bilingual signs
-
-<img src="previews/neon-night-market-alley.gif" height="240">
-
-Text rendering test: the Chinese sign and the English OPEN sign stay legible through rain and camera motion. A timed background event (a cyclist at 00:02) is placed inside a single shot.
-
-[`cinematic`](#tag-cinematic) [`neon-text`](#tag-neon-text) [`chinese-text`](#tag-chinese-text) [`rain`](#tag-rain) [`city`](#tag-city) [`landscape`](#tag-landscape)
-
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
-
-```text
-integrated_multimodal_description: [Shot 1] Live-action cinematic shot, shallow depth of field, anamorphic lens flares. A rain-slick narrow alley at dusk in a dense Chinese city. Wet black asphalt fills the lower third, mirroring a vertical neon sign whose large clean characters read "夜市" in saturated magenta, and below it a smaller horizontal sign in crisp white block letters reading "OPEN". The camera pushes in slowly and steadily along the alley centreline for the entire duration. A single red paper lantern hangs midground left, swaying gently. Steady rain falls in fine bright streaks lit from behind, and thin steam drifts from a grate on the right. At 00:02.000 a cyclist in a translucent rain poncho crosses left to right through the far background, briefly occluding the magenta sign. At 00:04.000 the camera settles and the "OPEN" sign flickers once, then holds steady and fully legible.
-overall_soundscape: Continuous fine rain on asphalt and metal awnings as the baseline bed, with individual droplets ticking on a tin roof close to camera. A low steady hum of distant traffic sits underneath. At the cyclist's pass, the wet whir of bicycle tyres through a puddle rises and falls quickly. A faint electrical buzz from the neon tubing persists throughout.
-non_diegetic_music: Sparse ambient synth pad, very slow tempo, one low sustained bass note with a single distant reverbed piano figure, understated and never rising above the rain.
-```
-
-</details>
-
-[Full video with sound](samples/neon-night-market-alley.mp4) · [Entry file](prompts/video/neon-night-market-alley.yaml)
-
-<a id="headphone-macro-commercial"></a>
-#### Headphone product film with end wordmark (15 s)
-
-<img src="previews/headphone-macro-commercial.gif" height="240">
-
-Studio product language: seamless black void, hard raking key, macro anamorphic. Four shots go from macro detail to hero shot, and the fictional brand name renders cleanly at the end.
-
-[`product`](#tag-product) [`commercial`](#tag-commercial) [`macro`](#tag-macro) [`wordmark`](#tag-wordmark) [`multi-shot`](#tag-multi-shot) [`landscape`](#tag-landscape) [`15s`](#tag-15s)
-
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 864x480 · 15.1 s · 4 steps (turbo) · audio</summary>
-
-```text
-integrated_multimodal_description: [Shot 1] Live-action, cinematic high-end product commercial, shot on a macro anamorphic lens at T2.8 against a seamless pure black void with no visible set, floor or horizon. Controlled studio lighting: one hard raking key from the upper left and a broad soft fill from directly above, deep true blacks, high micro-contrast, very shallow depth of field, immaculate dust-free surfaces, a subtle horizontal lens flare. Extreme macro framing on the curved outer edge of a brushed champagne aluminium earcup, its fine concentric machining lines catching the light, the anodised surface falling away into darkness at both edges of the frame. The camera arcs around the earcup with small amplitude at slow speed. Throughout the shot a single hard specular highlight travels steadily across the machined aluminium from left to right, the concentric turning marks igniting one ring at a time as it passes, while the surrounding void stays pure black. [Shot 2] At 00:04.200, the shot cuts to a wide shot of the complete over-ear headphones floating upright and centred in the same pure black void, seen three-quarters on: two brushed champagne aluminium earcups, a charcoal knit mesh canopy stretched across the headband, and a polished machined hinge on each side. A cool rim light traces the top edge of the headband while a warm key grazes the left earcup. The camera pulls out with small amplitude at slow speed while the headphones rotate slowly on their vertical axis. Throughout the shot the rotation carries the specular highlight from the left earcup across the polished hinge and onto the knit mesh, the fine knit texture briefly flaring into detail before falling back into shadow. [Shot 3] At 00:08.400, the shot cuts to an extreme macro of the charcoal knit mesh canopy filling the frame with its woven texture, a single knurled aluminium dial visible at the right edge of frame. Backlight passes through the knit so individual fibres glow along their edges. The camera pushes in with small amplitude at slow speed toward the dial. Throughout the shot the dial rotates a precise quarter turn, its knurled edge stepping past the light one groove at a time, while the backlight slowly strengthens so more of the knit fibres light up from behind. [Shot 4] At 00:11.600, the shot cuts to a centred hero shot of the complete headphones settling to a perfect standstill in the pure black void, lit by a single soft top light that defines the champagne aluminium and leaves the knit mesh in deep shadow. Below the headphones the wordmark "MoMo" appears in large clean white letters, sharp and perfectly still. Throughout the shot the headphones stay motionless while the light on the aluminium steadies, the wordmark holds crisp and unmoving, and the frame comes to rest holding perfectly still.
-overall_soundscape: A deep quiet low-frequency room tone runs throughout. A soft airy whoosh crosses each shot change. One precise mechanical click as the dial steps round. A faint dry fabric rustle from the knit mesh.
-non_diegetic_music: A single sustained synth pad enters at a slow tempo, joined by sparse piano notes one every two beats. A soft sub-bass swell lands on the wide reveal. Everything falls away to one held note at the end.
-```
-
-</details>
-
-[Full video with sound](samples/headphone-macro-commercial.mp4) · [Entry file](prompts/video/headphone-macro-commercial.yaml)
-
-<a id="morning-tea-stall"></a>
-#### Tea stall at first light
-
-<img src="previews/morning-tea-stall.gif" height="240">
-
-A calm single shot carried by small continuous changes: steam thickens, charcoal brightens, light creeps in. Write change across the whole shot with `Throughout the shot ...` and keep timestamps for cuts.
-
-[`cinematic`](#tag-cinematic) [`chinese-text`](#tag-chinese-text) [`still-life`](#tag-still-life) [`ambience`](#tag-ambience) [`landscape`](#tag-landscape)
-
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
-
-```text
-integrated_multimodal_description: [Shot 1] Live-action, cinematic, shallow depth of field on a wide-aperture lens. A quiet tea stall on a stone street at first light, mist still lying low over the cobbles. A copper kettle sits on a small charcoal brazier in the near foreground, a thin ribbon of steam rising and bending in the cold air. Behind it a weathered wooden board hangs at eye level with two large clean black characters reading "早茶" painted on it. The camera pushes in with small amplitude at slow speed toward the kettle. Throughout the shot the steam thickens and drifts left, the charcoal glows brighter under a faint draught, and pale morning light creeps across the stone from the right.
-overall_soundscape: A low continuous hiss from the kettle with occasional soft ticks of expanding metal. Fine charcoal crackle sits close to the microphone, and a distant street slowly wakes with faint footsteps and a single bicycle bell.
-non_diegetic_music: A single sustained low string note held throughout, joined near the end by two widely spaced notes on a wooden flute, very slow, never rising in volume.
-```
-
-</details>
-
-[Full video with sound](samples/morning-tea-stall.mp4) · [Entry file](prompts/video/morning-tea-stall.yaml)
-
-<a id="panda-web-comic"></a>
-#### Crude 2D web-comic panda
-
-<img src="previews/panda-web-comic.gif" height="240">
-
-Style words for deliberately crude 2D: thick uniform outlines, flat pastel blocks, no gradients, paper grain, no depth of field.
-
-[`2d-animation`](#tag-2d-animation) [`comic`](#tag-comic) [`meme`](#tag-meme) [`vertical`](#tag-vertical) [`character`](#tag-character)
-
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 480x864 · 5.2 s · 4 steps (turbo) · audio</summary>
-
-```text
-integrated_multimodal_description: [Shot 1] 2D-animated web comic panel look, thick uniform black outlines, flat pastel colour blocking with no gradients, minimal background reduced to two or three flat colour fields, deliberately crude and low-detail drawing, slight paper grain, no depth of field, vertical 9:16 framing. The character is a crude round white panda-like head with two solid black eye patches and a simple wide black mouth, sitting on a small simply drawn body in a bright red hoodie with a large yellow lightning bolt printed across the chest. The character stands centred against a flat mustard-yellow background holding a single sheet of white paper up in front of its chest, mouth already stretched wide open. The camera holds as a static shot. Throughout the shot the character's arms shake the paper in short sharp jolts and its black eye patches squash downward, and at the end the movement settles and the frame comes to rest holding perfectly still.
-overall_soundscape: A dry paper rustle in short bursts, and a light cartoon whoosh on each shake.
-non_diegetic_music: A simple bouncy ukulele loop at a brisk tempo, one chord per beat.
-```
-
-</details>
-
-[Full video with sound](samples/panda-web-comic.mp4) · [Entry file](prompts/video/panda-web-comic.yaml)
-
-<a id="image-to-video"></a>
-### Image-to-video
-
-<a id="headphone-logo-reveal"></a>
-#### Logo reveal continued from a still frame
-
-<img src="previews/headphone-logo-reveal.gif" height="240">
-
-Image-to-video: the first line pins the input image to 0.00 s, then the usual three-part prompt follows. The input is the last frame of an earlier segment, which is how longer films are chained.
-
-[`product`](#tag-product) [`commercial`](#tag-commercial) [`wordmark`](#tag-wordmark) [`image-to-video`](#tag-image-to-video) [`landscape`](#tag-landscape) [`15s`](#tag-15s)
-
-<details><summary><b>Prompt</b> · MiniMax H3 (open weights, ComfyUI) · Image-to-video · 864x480 · 15.1 s · 4 steps (turbo) · audio</summary>
+<details><summary><b>Prompt</b></summary>
 
 ```text
 For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
-integrated_multimodal_description: [Shot 1] Live-action, cinematic high-end product commercial, macro anamorphic lens at T2.8 against a seamless pure black void with no visible set, floor or horizon, one hard raking key from the upper left and a broad soft fill from directly above, deep true blacks, high micro-contrast, very shallow depth of field, immaculate dust-free surfaces, a subtle horizontal lens flare. The product is a pair of over-ear headphones with blunt hexagonal earcups milled from deep graphite anodised aluminium with a wide chamfered bevel around each face, a solid one-piece olive-bronze metal headband arching between them with no fabric or padding visible on its outer surface, and a single knurled olive-bronze dial set into the lower edge of the right earcup. The shot opens on the macro seam between headband and earcup and pulls out with small amplitude at slow speed until the complete headphones sit centred and motionless in the pure black void, lit by a single soft top light that defines the graphite hexagonal faces and the olive-bronze headband. Throughout the shot the pull-out decelerates smoothly to a stop and the frame comes to rest holding perfectly still. [Shot 2] At 00:07.600, the shot cuts to a locked-off centred hero shot of the same headphones on pure black, and below them the wordmark "MoMo" appears in large clean white letters, sharp and perfectly still. Throughout the shot the headphones stay completely motionless, the wordmark holds crisp and unmoving, and the frame comes to rest holding perfectly still.
-overall_soundscape: A deep quiet low-frequency room tone runs throughout, fading toward near silence at the end.
-non_diegetic_music: A sustained synth pad with sparse piano notes at a slow tempo, everything falling away to one held note at the end.
-```
+integrated_multimodal_description: [Shot 1] This is a live-action, cinematic shot with a shallow depth of field. The camera holds a perfectly static shot throughout the entire eight-second duration, capturing a cozy family gathering in a traditional Japanese dining room. The scene opens with a large, intricately patterned blue and white ceramic bowl of ramen in the immediate foreground, rendered in crisp, sharp focus. The bowl sits on a smooth, polished long wooden table. Inside the bowl, a rich, oily golden-brown broth surrounds yellow wavy noodles, topped with two thick, round slices of chashu pork featuring visible fat marbling and a distinct spiral meat pattern. A generous mound of freshly chopped, bright green scallions rests in the center, and a crisp, dark green rectangular sheet of nori seaweed is tucked into the right edge. To the left of the bowl, a pair of light brown wooden chopsticks rests horizontally on a small, dark rectangular chopstick rest, near a small cylindrical ceramic teacup with blue painted patterns. On the right side of the table, a spherical paper lantern with a ribbed bamboo frame sits on a black wooden base. In the background, a large family of seven is gathered around the table, initially appearing as a soft, blurred presence. Behind them, traditional Japanese sliding shoji screens with wooden lattice frames are open, revealing a bright outdoor scene with lush green trees. Early in the clip, the thick, white steam rising from the hot ramen broth immediately intensifies, billowing upwards in thick, swirling clouds that dance continuously above the bowl. As the clip progresses into the middle seconds, the camera maintains its static position while the focus begins a deliberate, smooth shift deeper into the room. The foreground ramen bowl, its vibrant ingredients, and the rising steam gradually soften into a hazy, out-of-focus blur. Simultaneously, the family members in the background come into sharp, detailed clarity. The heavy steam continues to rise from the foreground, creating a dynamic, translucent veil between the camera and the family. With the focus now firmly locked on the background, the vibrant family dinner comes alive. The man in the dark navy blue long-sleeved shirt on the left leans forward, his mouth moving animatedly in a silent exchange. The young girl in the crisp white short-sleeved t-shirt beside him smiles brightly, looking toward the center of the table. The woman on the far left, wearing a soft light blue long-sleeved blouse, turns her head slightly, smiling gently. Across the table, the woman in the light grey button-down shirt smiles broadly, her eyes crinkling, as she rests her hands near her plate. The woman in the dark grey top further back uses her wooden chopsticks to pick up a small piece of food from a central ceramic dish filled with bright red pickled vegetables. The woman in the center back in the light grey sweater smiles gently, her hands clasped softly in front of her, observing the interaction. Throughout the remainder of the clip, the family continues their lively physical interaction, their mouths moving in continuous, silent cadences of conversation, while the thick, white steam from the blurred ramen bowl in the foreground never stops rising, adding a comforting atmosphere to the warm gathering.
 
-Input images: <img src="inputs/headphone-frame.png" height="80">
+overall_soundscape: The soundscape begins with a quiet room tone mixed with the faint, airy rustle of the thick steam billowing from the hot ramen bowl in the foreground, accompanied by the subtle, continuous hissing and bubbling of the rich broth. As the visual focus shifts deeper into the room, the physical sounds of the bustling family dinner become dominant in the foreground. The clear, sharp clinking of ceramic bowls and wooden chopsticks touching plates is clearly heard as the family members reach for food. This is followed by the faint, muffled thud of a cup being set down on the smooth wooden table, and the subtle, rhythmic rustle of cotton and wool clothing as the family members lean forward and gesture, perfectly capturing the lively, physical atmosphere of the shared meal.
+
+non_diegetic_music: A gentle, heartwarming acoustic guitar melody plays softly in the background, accompanied by the subtle, resonant notes of a traditional Japanese koto. The music maintains a slow, comforting tempo that enhances the cozy, nostalgic, and joyful atmosphere of the family gathering.
+```
 
 </details>
 
-[Full video with sound](samples/headphone-logo-reveal.mp4) · [Entry file](prompts/video/headphone-logo-reveal.yaml)
+<a id="h3-starship-hyperspace-jump"></a>
+### Starship bridge, the fleet jumps to hyperspace
 
-<a id="mode-comparison"></a>
-### One scene, four modes
+<a href="https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/t2va_2k.mp4"><img src="previews/h3-starship-hyperspace-jump.jpg" width="360"></a>
 
-<a id="lantern-alley-four-modes"></a>
-#### One scene, four modes: text, image, keyframes, reference
+The full H3-Context-IR format: numbered shots with a timed cut at 00:04.500, then separate fields for sound and score. Most local H3 runs skip this rewriting step, which is why they look flat.
 
-<table><tr><td align="center"><img src="previews/lantern-alley-four-modes-text-to-video.gif" width="200"><br><sub>Text-to-video</sub></td><td align="center"><img src="previews/lantern-alley-four-modes-image-to-video.gif" width="200"><br><sub>Image-to-video</sub></td><td align="center"><img src="previews/lantern-alley-four-modes-keyframes-to-video.gif" width="200"><br><sub>Keyframes-to-video</sub></td><td align="center"><img src="previews/lantern-alley-four-modes-reference-to-video.gif" width="200"><br><sub>Reference-to-video</sub></td></tr></table>
+MiniMax H3 · Text-to-video · Source: [MiniMax H3 model card](https://huggingface.co/MiniMaxAI/MiniMax-H3)
 
-The same rainy alley made four ways. Text-to-video creates the scene; image-to-video continues from a frame; keyframes interpolate between a first and last frame; reference-to-video keeps the location and lighting of a reference image while generating new motion. Short one-line prompts are enough once an image carries the look.
+[`multi-shot`](#tag-multi-shot) [`timed-cut`](#tag-timed-cut) [`structured-prompt`](#tag-structured-prompt) [`sfx`](#tag-sfx) [`score`](#tag-score) [`sci-fi`](#tag-sci-fi)
 
-[`cinematic`](#tag-cinematic) [`rain`](#tag-rain) [`city`](#tag-city) [`landscape`](#tag-landscape) [`mode-comparison`](#tag-mode-comparison) [`keyframes`](#tag-keyframes) [`reference-to-video`](#tag-reference-to-video) [`image-to-video`](#tag-image-to-video)
-
-<details><summary><b>Prompt: Text-to-video</b> · MiniMax H3 (open weights, ComfyUI) · Text-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+<details><summary><b>Prompt</b></summary>
 
 ```text
-Realistic cinematic look: a lone red paper lantern drifting over a rain-slick Chongqing alley at dusk, neon reflections rippling in puddles, slow dolly-in, shallow depth of field, gentle ambient rain and distant traffic.
+integrated_multimodal_description: [Shot 1] Cinematic, medium wide shot, pushing in slowly. In the cavernous, dimly lit bridge of a starship, sleek metallic consoles with glowing amber displays flank a massive, curved observation window. A female captain, in her late 40s with an athletic build and short silver-streaked black hair, stands in the center midground. She wears a structured, high-collared dark navy military tunic with silver chest insignias. Her back is to the camera, silhouetted against the cool, ambient starlight pouring through the thick glass. She stands perfectly still with her hands clasped tightly behind her back. Outside the window, a massive armada of jagged, dark grey dreadnoughts hovers in tight formation against a deep purple space nebula. The fleet's massive rear thrusters begin to glow with an intense, escalating bright blue light. [Shot 2] At 00:04.500, the camera cuts to a close-up of the captain's face and shakes strongly. The brilliant blue-white light from the fleet's gathering energy reflects vividly in her dark eyes. Suddenly, a blinding white flash floods through the window, completely washing out the background as the fleet jumps to hyperspace. The sheer spatial force violently jolts the bridge, causing the captain from Shot 1 to stagger slightly forward, her shoulders tensing as she visibly braces herself against the physical tremors. As the intense white light fades abruptly, leaving only the dim, empty expanse of the purple nebula reflected on her starkly lit skin, her jaw clenches, and she slowly closes her eyes in the newly emptied space.
+overall_soundscape: A low, resonant hum of the ship's ambient life support systems serves as the baseline, soon drowned out by an audible, escalating, high-pitched electronic whine as the fleet outside charges its hyperdrives. A massive, deafening, bass-heavy boom and sharp crackle erupts during the blinding flash, accompanied by the loud metallic creaking, rattling, and deep thuds of the bridge's bulkheads vibrating under immense physical stress. The intense roaring impact then cuts abruptly back to a hollow, echoing room tone, leaving only the faint, steady hum of the isolated bridge.
+non_diegetic_music: Cinematic space-opera orchestral score, slow tempo, featuring a solitary, mournful French horn melody over deep, sustained string dissonances that build rapidly in volume and intensity, swelling to a massive orchestral peak before snapping immediately into silence right after the jump.
 ```
 
 </details>
 
-<details><summary><b>Prompt: Image-to-video</b> · MiniMax H3 (open weights, ComfyUI) · Image-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+<a id="geminiomniflash"></a>
+## Gemini Omni Flash
+
+<a id="omni-astronaut-three-swaps"></a>
+### Ships to origami, astronaut to anemone, ships to stingrays
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide_astro-stingray.webm"><img src="previews/omni-astronaut-three-swaps.jpg" width="360"></a>
+
+Three edits in a row on one shot. The scene and camera stay consistent across every turn.
+
+Gemini Omni Flash · Video edit · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`multi-turn-edit`](#tag-multi-turn-edit) [`object-swap`](#tag-object-swap) [`consistency`](#tag-consistency)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
-Continue the scene naturally from the opening frame: the red paper lantern drifts further down the rain-slick alley, camera pushes slowly forward, neon reflections sliding across the puddles, steady ambient rain.
+Change the ships to be made from white origami paper.
+Change the astronaut to a sea anemone.
+Change the small ships to stingrays.
 ```
-
-Input images: <img src="inputs/lantern-frame-a.png" height="80">
 
 </details>
 
-<details><summary><b>Prompt: Keyframes-to-video</b> · MiniMax H3 (open weights, ComfyUI) · Keyframes-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+Inputs: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide_astro-spaceship.webm)
+
+<a id="omni-birds-form-a-bird"></a>
+### A flock of birds forms the shape of a bird, to music
+
+<a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__prompt-guide__birds-shape.webm"><img src="previews/omni-birds-form-a-bird.jpg" width="360"></a>
+
+Three inputs, each with its own tag: `<video>` for motion, `<image>` for shape, `<audio>` for timing.
+
+Gemini Omni Flash · Reference-to-video · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`multi-reference`](#tag-multi-reference) [`audio-sync`](#tag-audio-sync)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
-Slow continuous dolly down the rain-slick neon alley, rain falling steadily.
+The birds from <video> loosely form the imperfect shape of a bird based on <image>. They move to the music from <audio> and dissipate as they fly
 ```
-
-Input images: <img src="inputs/lantern-frame-a.png" height="80"> <img src="inputs/lantern-frame-b.png" height="80">
 
 </details>
 
-<details><summary><b>Prompt: Reference-to-video</b> · MiniMax H3 (open weights, ComfyUI) · Reference-to-video · 864x480 · 5.2 s · 20 steps (res_multistep) · audio</summary>
+Inputs: [1](https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-inputs__bird-shape.webm) · [2](https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-combine-multi-ingredient-01.webp)
+
+<a id="omni-butterfly-bee-fireflies"></a>
+### Butterfly to bee to fireflies, one change per turn
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__firefly.webm"><img src="previews/omni-butterfly-bee-fireflies.jpg" width="360"></a>
+
+Two short edit turns on the same clip. Each turn names one subject and its replacement, and everything else stays put.
+
+Gemini Omni Flash · Video edit · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`multi-turn-edit`](#tag-multi-turn-edit) [`object-swap`](#tag-object-swap)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
-Use <Picture 1> as the location and lighting reference. Keep the same rain-slick alley, the same neon palette and the same wet-asphalt reflections. A slow steady dolly moves down the alley while rain keeps falling; ambient rain and distant traffic.
+Change the butterfly to a bee.
+Change the bee into a small swarm of fireflies.
 ```
-
-Input images: <img src="inputs/lantern-frame-a.png" height="80">
 
 </details>
 
-[Full video with sound (Text-to-video)](samples/lantern-alley-four-modes-text-to-video.mp4) · [Full video with sound (Image-to-video)](samples/lantern-alley-four-modes-image-to-video.mp4) · [Full video with sound (Keyframes-to-video)](samples/lantern-alley-four-modes-keyframes-to-video.mp4) · [Full video with sound (Reference-to-video)](samples/lantern-alley-four-modes-reference-to-video.mp4) · [Entry file](prompts/video/lantern-alley-four-modes.yaml)
+Inputs: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__butterfly.webm)
+
+<a id="omni-drummer-whip-pan"></a>
+### Whip-pan from drummer to saxophonist and dancer
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/YMgFKThN-vej75eW/gemini-omni__first-last-frame__dummer-ballet.webm"><img src="previews/omni-drummer-whip-pan.jpg" width="360"></a>
+
+First and last frames fix both ends. The prompt describes the move between them and closes with `One continuous shot, no jump cuts`.
+
+Gemini Omni Flash · First & last frame · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`first-last-frame`](#tag-first-last-frame) [`camera-move`](#tag-camera-move) [`long-take`](#tag-long-take) [`music`](#tag-music)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A close-up low-angle shot of a stylish drummer in a beige suit playing a red drum kit in a grand hall transitions as the camera whip-pans to the side, revealing an older saxophonist playing alongside a ballet dancer spinning in a white outfit under soft purple stage lights. One continuous shot, no jump cuts.
+```
+
+</details>
+
+<a id="omni-four-style-progression"></a>
+### One clip through crayon, pencil, glass and risograph
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini_omni__prompt-guide__astro-sketch-valley.webm"><img src="previews/omni-four-style-progression.jpg" width="360"></a>
+
+Restyles a reference video in four stages. Each stage gets its own texture words, so the transitions read clearly.
+
+Gemini Omni Flash · Video edit · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`style-transfer`](#tag-style-transfer) [`animation`](#tag-animation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a four-part stylistic progression of the video reference that begins with a vibrant colored crayon aesthetic, featuring rich, waxy, textured strokes and playful, hand-drawn character designs against a backdrop of heavily granulated paper. Transition seamlessly into a graphite pencil sketch on textured paper, utilizing cross-hatching, varying line weights, and a 12fps "line boiling" effect to emphasize a hand-drawn feel. Next, morph into a hyper-realistic 3D translucent glass style, characterized by complex light refractions, caustic patterns, and soft internal glows within a minimalist studio setting. Conclude the sequence with a tactile risograph print look, applying a limited three-color palette, grainy halftone textures, and intentional registration overlays for a retro, mechanical finish.
+```
+
+</details>
+
+Inputs: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini_omni__prompt-guide__astro-sketch-valley_input.webm)
+
+<a id="omni-harbour-extend"></a>
+### Harbour conversation extended twice
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/YMgFKThN-vej75eW/gemini-omni__extend__boats_1080.webm"><img src="previews/omni-harbour-extend.jpg" width="360"></a>
+
+Each extension only says what happens next: one line of dialogue, then a camera pull-back and a music cue.
+
+Gemini Omni Flash · Extend · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`extend`](#tag-extend) [`dialogue`](#tag-dialogue) [`long-take`](#tag-long-take)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The man in the blue sweater replies: "Did your father go out on the boat too?"
+The camera pulls back in one continuous movement as he continues his story: "He used to say that this harbour had a soul. And that the boats were a part of us." The music swells.
+```
+
+</details>
+
+<a id="omni-lights-sync-to-music"></a>
+### Apartment lights switch on to the beat
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__building-light.webm"><img src="previews/omni-lights-sync-to-music.jpg" width="360"></a>
+
+Syncs a visual event to an audio track by naming both in one sentence. No timestamps needed.
+
+Gemini Omni Flash · Video edit · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`audio-sync`](#tag-audio-sync) [`music`](#tag-music)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The lights of the apartments start turning on in sync with the music.
+```
+
+</details>
+
+Inputs: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__building-no-light.webm)
+
+<a id="omni-quantum-explainer"></a>
+### Quantum computing explained in risograph flat style
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__quantum.webm"><img src="previews/omni-quantum-explainer.jpg" width="360"></a>
+
+Asks for an explanation and leaves the content to the model's world knowledge. The prompt only pins down the visual style.
+
+Gemini Omni Flash · Text-to-video · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`explainer`](#tag-explainer) [`motion-graphics`](#tag-motion-graphics) [`style-lock`](#tag-style-lock)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Explain the difference between regular computing and quantum computing. Visualize this sentence using a contemporary flat-media style that blends minimalist vector shapes with rich organic textures. The aesthetic is defined by a high-contrast, "electric" color palette of neon pinks, cyans, and limes set against a deep navy background. A hallmark of this style is the use of stipple shading and grainy gradients, which adds a tactile, risograph-like quality to the otherwise simple geometric forms. By combining sharp edges with these softened, speckled transitions, the illustration achieves a playful, editorial feel.
+```
+
+</details>
+
+<a id="omni-shoes-tilt-up"></a>
+### Start on the shoes, tilt up, then widen
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__boots.webm"><img src="previews/omni-shoes-tilt-up.jpg" width="360"></a>
+
+Three camera moves chained in one line, in the order they happen.
+
+Gemini Omni Flash · Video edit · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`camera-move`](#tag-camera-move) [`multi-turn-edit`](#tag-multi-turn-edit)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Change the camera angle, a close-up on his shoes, quickly tilting up to medium shot, then widening.
+```
+
+</details>
+
+<a id="omni-skateboard-motion-fx"></a>
+### Add cartoon motion lines to live skateboarding
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__skateboard.webm"><img src="previews/omni-skateboard-motion-fx.jpg" width="360"></a>
+
+`keeping everything the same` locks the footage, so the edit only layers effects on top.
+
+Gemini Omni Flash · Video edit · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`vfx`](#tag-vfx) [`mixed-media`](#tag-mixed-media)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
+```
+
+</details>
+
+<a id="omni-storyboard-to-video"></a>
+### Hand it a storyboard, get the scene
+
+<a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini_omni__prompt-guide__storyboard.webm"><img src="previews/omni-storyboard-to-video.jpg" width="360"></a>
+
+The storyboard image carries the plot. The text only sets reading order, total length and tone.
+
+Gemini Omni Flash · Reference-to-video · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`storyboard`](#tag-storyboard) [`multi-shot`](#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic
+```
+
+</details>
+
+Inputs: [1](https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-storyboard-ingredient-01.webp) · [2](https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-storyboard-ingredient-02.webp)
+
+<a id="omni-violinist-over-shoulder"></a>
+### Move the camera over the violinist's shoulder
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/3cYlYfozIFs5_Ngj/gemini-omni__edit-over-multiple-turns-with-consistency__angle.webm"><img src="previews/omni-violinist-over-shoulder.jpg" width="360"></a>
+
+A camera change written as one plain sentence. Omni re-renders the same performance from the new angle.
+
+Gemini Omni Flash · Video edit · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`multi-turn-edit`](#tag-multi-turn-edit) [`camera-angle`](#tag-camera-angle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Change the camera angle to be over the violinist’s shoulder.
+```
+
+</details>
+
+Inputs: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/3cYlYfozIFs5_Ngj/gemini-omni__edit-over-multiple-turns-with-consistency__invisible.webm)
+
+<a id="omni-word-by-word-sizzle"></a>
+### Kinetic type, one word per beat
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__text.webm"><img src="previews/omni-word-by-word-sizzle.jpg" width="360"></a>
+
+Lists the exact words in order and asks for a new animation style on each. Good test of on-screen text.
+
+Gemini Omni Flash · Text-to-video · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+
+[`text-render`](#tag-text-render) [`motion-graphics`](#tag-motion-graphics)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+word by word, one word on a the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
+```
+
+</details>
+
+<a id="kling30"></a>
+## Kling 3.0
+
+<a id="kling-baseball-bat-logo"></a>
+### Logo on a baseball bat stays sharp through the swing
+
+<a href="https://static-54.klingai-cdn-aws.com/kling-blog/presigned_url/50fdd9a7-e3d7-4d62-8715-edaa9b3003bc_文字_棒球.mp4"><img src="previews/kling-baseball-bat-logo.jpg" width="360"></a>
+
+One sentence that ties the camera to a word on a moving object. A quick test for text stability.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`text-render`](#tag-text-render) [`sports`](#tag-sports)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The camera remains fixed on the word "KLING" emblazoned on the baseball bat as the player swings and hits the ball.
+```
+
+</details>
+
+Inputs: [1](https://static-3.klingai-cdn-aws.com/kling-blog/file_by_url/a8527e3967d0a358562fddac74c2c9e13c98135619da9af77ea326fe756fb0ff.png)
+
+<a id="kling-family-reacts-to-twist"></a>
+### Four family members react to a plot twist
+
+<a href="https://static-86.klingai-cdn-aws.com/kling-blog/presigned_url/8aa6f5a2-b121-4b08-840d-827cc670c4be_kling_20260202_作品_居家环境_背景有轻微_5022_0.mp4"><img src="previews/kling-family-reacts-to-twist.jpg" width="360"></a>
+
+Four speakers, each tagged by role and tone (`Mom (softly, in a surprised tone)`), so lines land on the right face.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`dialogue`](#tag-dialogue) [`multi-speaker`](#tag-multi-speaker) [`ambience`](#tag-ambience)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Home setting with a faint hum of the living room air conditioner in the background for a realistic daily vibe. Mom (softly, in a surprised tone): Wow, I didn’t expect this plot at all. Dad (in a low voice, agreeing, in a calm tone): Yeah, it’s totally unexpected. Never thought that would happen. Boy (in an excited tone): It’s the best twist ever! Girl (nodding along, in an enthusiastic tone): I can’t believe they did that!
+```
+
+</details>
+
+Inputs: [1](https://static--49.klingai-cdn-aws.com/kling-blog/file_by_url/006b3efc9ecef758c2aac2e8765f63e4b0f7d684de4d8e6e40e50a90fdb426ce.png)
+
+<a id="kling-indian-accent-order"></a>
+### Ordering dinner with an Indian English accent
+
+<a href="https://static-78.klingai-cdn-aws.com/kling-blog/presigned_url/29736974-c5c6-46d2-a9af-ec0413fb74ef_kling_20260204_作品_多镜头_一位中年男子_5210_1.mp4"><img src="previews/kling-indian-accent-order.jpg" width="360"></a>
+
+Accent is named once before the line. The pause between the two sentences is written as an action (`then he looks up`).
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`dialogue`](#tag-dialogue) [`accent`](#tag-accent) [`multi-shot`](#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A middle-aged man is ordering food in a Western restaurant. He speaks in English with an Indian accent and says: "excuse me, I would like to order a seafood pasta, and a filet mignon. medium-rare", then he looks up and continues: “And, do you have any drink recommendations?”
+```
+
+</details>
+
+Inputs: [1](https://static--52.klingai-cdn-aws.com/kling-blog/file_by_url/4a06a8651731e50c212477bcb626257d4e1ba3576eb48ff57aa077cd6a5d9d4f.png)
+
+<a id="kling-japanese-station-bento"></a>
+### Bento handed over at a misty station, in Japanese
+
+<a href="https://static--87.klingai-cdn-aws.com/kling-blog/presigned_url/3d106f34-7b24-462f-9238-0a9d4c3981dc_kling_20260204_作品_清晨薄雾的小站_男生_5550_3.mp4"><img src="previews/kling-japanese-station-bento.jpg" width="360"></a>
+
+Japanese lines in corner brackets, no speaker labels beyond `the boy` and `the girl`. Shows Kling's Japanese lip sync.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`dialogue`](#tag-dialogue) [`multilingual`](#tag-multilingual) [`japanese`](#tag-japanese)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+On a small station shrouded in morning mist, the boy smiled and handed over the bento: 「急いで作ったけど、大丈夫？ お母さんのレシピだよ。」The girl took it with a smile: 「うん、きっと美味しい！ 到着したら LINE するね。」
+```
+
+</details>
+
+Inputs: [1](https://static-39.klingai-cdn-aws.com/kling-blog/file_by_url/1e96651baca4447550008b624ccb8723fb4d5aa383734b8744042d031532e619.jpg)
+
+<a id="kling-joseon-lady-and-maid"></a>
+### Joseon noblewoman and her maid
+
+<a href="https://static-41.klingai-cdn-aws.com/kling-blog/presigned_url/d7236484-7cf3-4092-a019-4321dbc661b4_kling_20260202_作品_镜头聚焦两人的互动__4898_0.mp4"><img src="previews/kling-joseon-lady-and-maid.jpg" width="360"></a>
+
+Period drama in Korean. Tone words (`warm, gentle`, `with deference`) set the social register between the two.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`dialogue`](#tag-dialogue) [`multilingual`](#tag-multilingual) [`period`](#tag-period)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The camera lingers on their interaction— the noble lady’s gaze soft and mild, her maid listening with her head bowed. The lady lifts a hand to smooth her sleeve gently, and speaks in a warm, gentle tone: “오늘 후원에서 피어난 꽃을 보니, 시원한 바람이 분다. 너도 함께 걸어볼까?” The maid inclines her body slightly forward, and replies with deference: “네, 아씨님. 따라갈게요.
+```
+
+</details>
+
+Inputs: [1](https://static-10.klingai-cdn-aws.com/kling-blog/file_by_url/6ea73c8a737512559f23bb74328f56539882634fa386241b340d5af0c0314b93.jpg)
+
+<a id="kling-korean-rooftop"></a>
+### Korean high-school rooftop at night
+
+<a href="https://static-74.klingai-cdn-aws.com/kling-blog/presigned_url/43cd806c-13a5-4375-906d-7c29f632b04c_kling_20260202_作品_韩国高中屋顶场景下__5286_0.mp4"><img src="previews/kling-korean-rooftop.jpg" width="360"></a>
+
+Language is declared inside each speaker tag: `Boy (casual tone, Korean)`.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`dialogue`](#tag-dialogue) [`multilingual`](#tag-multilingual) [`korean`](#tag-korean)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+On the rooftop of a Korean high school, distant city lights glimmer in the background with a soft wind rustling, and stars twinkle in the night sky. The girl leans against the railing, lost in thought. The boy walks over with two cans of cola, hands one to her, and she takes it and pops the tab open. Boy (casual tone, Korean): "숙제 다 했어? 왜 여기 있어?" Girl (sighing, Korean): "시험이 너무 무서워". Boy (gentle tone, Korean): “걱정 마, 넌 잘할 거야.”
+```
+
+</details>
+
+Inputs: [1](https://static-46.klingai-cdn-aws.com/kling-blog/file_by_url/f04a52d4d7bbeb30091cb136cd8623e84bd995776b765099fcc5ddcbbaf07391.png)
+
+<a id="kling-madrid-asking-directions"></a>
+### Asking directions in Madrid, in halting Spanish
+
+<a href="https://static-45.klingai-cdn-aws.com/kling-blog/presigned_url/10902407-6b2f-4e1c-86f4-ae81f9da21c2_kling_20260204_作品_阳光洒满马德里老街__3484_0.mp4"><img src="previews/kling-madrid-asking-directions.jpg" width="360"></a>
+
+Three speakers with different fluency: the tourist is told to speak slowly with an awkward accent, the clerk lightly and cheerfully.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`dialogue`](#tag-dialogue) [`multilingual`](#tag-multilingual) [`spanish`](#tag-spanish) [`accent`](#tag-accent)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Sunlight fills the old streets of Madrid. In front of a street-side bakery, a Chinese female tourist and a male tourist wearing a gray hoodie walk toward the shop clerk, both wearing polite smiles. Female tourist (speaking slightly slowly, with an awkward accent, in Spanish):Disculpe, ¿dónde está la plaza mayor? A white-haired Spanish shop clerk (turning slightly and pointing forward, with a light and cheerful tone, in Spanish):Por allí, a dos calles. Muy cerca. The female tourist nods to express her thanks. The male tourist also nods in agreement and says (in Spanish): Muchas gracias. The shop clerk smiles and nods in response. The two tourists then turn and walk in the indicated direction.
+```
+
+</details>
+
+Inputs: [1](https://static--53.klingai-cdn-aws.com/kling-blog/file_by_url/e4699b0ea66d1a1b6b94dcc1dedc462be6136f1a4fe5d263b719f7bd54dc8992.png)
+
+<a id="kling-moonlit-garden-run"></a>
+### Woman in green runs across a moonlit garden, 15 s
+
+<a href="https://static--79.klingai-cdn-aws.com/kling-blog/presigned_url/3f219e9a-5e38-46ed-af01-9831ebce2f2a_kling_20260203_作品_超广角中远景横向跟拍_4556_0.mp4"><img src="previews/kling-moonlit-garden-run.jpg" width="360"></a>
+
+A 15-second continuous shot written as a director's paragraph: lens, rig height, grade, then action in order.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`long-take`](#tag-long-take) [`film-look`](#tag-film-look) [`camera-move`](#tag-camera-move)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Opening with an ultra-wide-angle medium-long shot tracking horizontally, the stabilizer moves low to the ground, with a highly contrasting romantic cinematic tone of cold blue night and silvery white starry sky, exuding a strong poetic realism and classical epic temperament. The protagonist is a young woman in a dark green long dress, running with all her might on the garden lawn illuminated by moonlight; her skirt billows in the wind forming surging dynamic curves, she clutches a small white flower in her right hand and lifts the hem of her dress with her left, breathing rapidly yet with a firm gaze. At the 4th second, the camera accelerates forward with her, and multiple men and women in old-era ball gowns break into the frame one after another from the left and right sides in the background, running alongside her—some try to approach, some turn back to shout, yet none truly touch her, implying pursuit and escape. At the 8th second, the camera gradually zooms in to a medium shot, pans to track forward in front of the protagonist and lifts slightly; she glances back briefly at a young male character behind her, their gazes meet for a split second, emotions erupt mid-run, and the woman and man join hands to run together. At the 12th second, the music and movement reach a climax; the camera moves forward close to her side face and fluttering hair, she releases the white flower and tosses it into the air, the flower drifting down in slow motion as the crowd behind brushes past it. In the final 3 seconds, the camera keeps moving forward, the woman and man break through the crowd and dash toward the starry sky at the end of the garden, their figures gradually taking over the center of the frame. The overall atmosphere is fiery, romantic and resolute, a burst of narrative about fate, choice and freedom.
+```
+
+</details>
+
+Inputs: [1](https://static--91.klingai-cdn-aws.com/kling-blog/file_by_url/21ef15bece0400c220dd7db92c388544a486345d867b33673fec8ba66b1ee2c6.png)
+
+<a id="kling-office-long-take"></a>
+### One take follows a woman from elevator to desk
+
+<a href="https://static--46.klingai-cdn-aws.com/kling-blog/presigned_url/cf695909-2395-4433-a0b1-caeb28df578d_kling_20260201_作品_平稳跟拍长镜头一镜到_3635_0.mp4"><img src="previews/kling-office-long-take.jpg" width="360"></a>
+
+Start frame plus a bound character element. The prompt spells out how the camera moves with her: track when she walks, stop when she stops.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`long-take`](#tag-long-take) [`character-consistency`](#tag-character-consistency) [`tracking-shot`](#tag-tracking-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Authentic workplace texture, one continuous long take without any cuts. The camera follows the professional woman steadily in a medium shot throughout, moving in sync with her: the camera tracks her as she walks and freezes instantly when she pauses, with natural and smooth movements and fluid camera work. The woman walks forward out of the elevator, and the elevator doors close slowly and naturally behind her; she steps into the office area, takes off her sunglasses by hand, tucks them into her commuter bag casually, and nods politely to colleagues passing by; she pauses briefly, the camera freezes in sync, she hangs her commuter bag on the coat rack in the office area, then takes off her outer coat and hangs it on the same rack; after hanging up her clothes, she walks forward again, the camera tracks her in sync; a young man in a formal shirt walks towards her, hands her a document and a signature pen, she pauses, the camera freezes in sync, takes them and signs the document; after signing, she walks forward again, the camera tracks her in sync; finally, she walks to her desk, sits down by the chair, reaches out to pick up a cup of tea on the desk, and sips it with her head down, her movements relaxed and natural.
+```
+
+</details>
+
+Inputs: [1](https://static-44.klingai-cdn-aws.com/kling-blog/file_by_url/f810ae350b11c0469938a2dc73724c09618b56830d84f506027187df168c830e.png)
+
+<a id="kling-orbit-to-smile"></a>
+### Camera circles to her face, she looks up and smiles
+
+<a href="https://static-36.klingai-cdn-aws.com/kling-blog/presigned_url/53d2490e-3ad9-4d84-b74f-bc0b1fcc4151_kling_20260204_作品_镜头逐渐环绕至女孩的_4266_2.mp4"><img src="previews/kling-orbit-to-smile.jpg" width="360"></a>
+
+Same one-line prompt run twice, with and without a bound element. The page shows both outputs so you can compare face consistency.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`character-consistency`](#tag-character-consistency) [`orbit`](#tag-orbit) [`image-to-video`](#tag-image-to-video)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The camera gradually moves around to the front of the girl, who then lifts her head and smiles warmly at the camera, as if seeing an old friend after many years.
+```
+
+</details>
+
+Inputs: [1](https://static--64.klingai-cdn-aws.com/kling-blog/file_by_url/445147e8acb2e81e4c06a4a819081baeacbdbcf1824946cf1cd9b5a2f0c4e0f5.png)
+
+<a id="kling-perfume-paris-ad"></a>
+### Perfume ad by a Paris window
+
+<a href="https://static--72.klingai-cdn-aws.com/kling-blog/presigned_url/27107c4f-403c-412d-94b7-20a8835c8ffa_kling_20260202_作品_巴黎公寓窗边场景下__5018_0.mp4"><img src="previews/kling-perfume-paris-ad.jpg" width="360"></a>
+
+Product shot that keeps the bottle's printed name legible. Voiceover, accent and BGM are all specified in the prompt.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`product-ad`](#tag-product-ad) [`text-render`](#tag-text-render) [`voiceover`](#tag-voiceover)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+By the window of a Parisian apartment, with soft French piano BGM in the background, the gilded afternoon sunlight filters through the shutters onto the perfume bottle, casting dappled light and shadow. The camera pans slowly in from the scattered rose petals, shifting focus to the faceted cut of the Kling perfume bottle. Voiceover (lazy French female voice, British accent, slow pace): Bathe in the golden hour. The camera orbits the perfume bottle in slow motion, capturing the play of light and shadow on the golden lettering and bottle body. Voiceover: Kling, a whisper of Parisian elegance. The camera pulls back and freezes on the complete scene—the Kling perfume bottle standing on a velvet pedestal, with Parisian buildings faintly visible outside the window. Voiceover: Wrap yourself in luxury with every breath.
+```
+
+</details>
+
+Inputs: [1](https://static--74.klingai-cdn-aws.com/kling-blog/file_by_url/3de2fbc80df150e68fc05823f829a0fd88e2145ed4b4dbfb2f6a6a4fd5dbea87.png)
+
+<a id="kling-plaster-tower-dinosaur"></a>
+### Inside a plaster-statue tower, a dinosaur reunion
+
+<a href="https://static-17.klingai-cdn-aws.com/kling-blog/presigned_url/9d0eec96-49d3-4229-a2c0-f38ceb5974e0_没想到吧Alex是只恐龙.mp4"><img src="previews/kling-plaster-tower-dinosaur.jpg" width="360"></a>
+
+Declares `single unbroken shot with no edited transitions` up front, then carries one emotional arc from despair to reunion.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`long-take`](#tag-long-take) [`emotion`](#tag-emotion) [`creature`](#tag-creature)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+This is a 15-second cinematic long take, a single unbroken shot with no edited transitions. The scene is set inside a tower of plaster statues dappled with light and shadow, surrounded by towering white plaster sculptures, evoking an air of mystery and oppression. The shot opens with the protagonist skidding to a halt at the center of the scene after a frantic run, chest heaving, expression dazed and helpless, fear glinting in their eyes. The camera orbits the protagonist in a smooth 360-degree pan. As the camera rotates, the protagonist glances anxiously around and shouts: "Alex! Alex where are you! Are you here?" A cute dinosaur cry then echoes in the background, and the camera pushes in over the protagonist’s shoulder to their back— a small to medium-sized, adorable baby dinosaur steps out from behind a plaster pillar, letting out a sweet chirp. Startled by the sound, the protagonist whips around; catching sight of the dinosaur, they burst into tears instantly and rush forward without hesitation to clasp it tightly in their arms. The dinosaur nestles obediently against them. Sobbing, the protagonist strokes the dinosaur gently and trembles: "I found you! Thank God, I’m so scared!" The overall lighting and shadow boast a cinematic texture, with the emotion shifting from despair to an overwhelmingly touching reunion.
+```
+
+</details>
+
+Inputs: [1](https://static-47.klingai-cdn-aws.com/kling-blog/file_by_url/fe49a43ec06b9e0cdf7f555268cbe2a18c35175ab6cc25fc2b1150218076b6d9.png)
+
+<a id="kling-snowmobile-six-shots"></a>
+### Snowmobile run in six shots
+
+<a href="https://static-14.klingai-cdn-aws.com/kling-blog/presigned_url/fbf5a59b-e1c0-45ee-9ec8-13726d3d3887_kling_20260202_作品_镜头_1_2s_后远_4947_0.mp4"><img src="previews/kling-snowmobile-six-shots.jpg" width="360"></a>
+
+Six shots, each defined only by angle and camera move. The landscape is described once, in the last shot.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`multi-shot`](#tag-multi-shot) [`camera-move`](#tag-camera-move) [`action`](#tag-action)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Shot 1, Low-angle rear wide shot, tracking behind the rider as they move forward. Shot 2, Low-angle side close-up, a detailed shot of the motorcycle wheel. Shot 3, First-person POV from the rider, with the handlebars and instrument panel visible ahead. Shot 4, Frontal medium shot, tracking backward in front of the motorcycle, the rider’s helmet facing the camera. Shot 5, Side-on eye-level tracking shot with slight lateral movement. Shot 6, High-angle wide shot with a gentle downward tilt. The camera rises as the snowmobile rides deeper into the snowfield, leaving winding tracks carved into the pristine white snow, with snow-covered forests scattered on both sides.
+```
+
+</details>
+
+Inputs: [1](https://static-29.klingai-cdn-aws.com/kling-blog/file_by_url/ef7ccbdcafe3af9d5fbbe492976b10793b302cc4ecab0778734b129dc7db9570.png)
+
+<a id="kling-truck-driver-four-shots"></a>
+### Truck driver in four handheld shots
+
+<a href="https://static-94.klingai-cdn-aws.com/kling-blog/presigned_url/b77930c4-755d-4035-ba98-842446609ea8_Dave_multi.mp4"><img src="previews/kling-truck-driver-four-shots.jpg" width="360"></a>
+
+Custom Multi-Shot from Kling creative partner Dave Clark. Every shot repeats `cinematic handheld` so the look holds across cuts.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`multi-shot`](#tag-multi-shot) [`handheld`](#tag-handheld) [`film-look`](#tag-film-look)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+shot 1, profile shot of black man driving a truck, cinematic handheld. Shot 2, frontal macro shot of black man driving a truck, cinematic handheld. Shot 3, macro shot of hands on the steering wheel, cinematic handheld. Shot 4, macro shot of a weathered picture of a young black child laying on the passenger side seat, cinematic handheld.
+```
+
+</details>
+
+Inputs: [1](https://static--56.klingai-cdn-aws.com/kling-blog/file/0c5b8af23bea126e21beac535408c4cf6020f44cc773e2985ab1c32c42756216.jpg)
+
+<a id="kling-villa-terrace-dialogue"></a>
+### Villa terrace, a two-person summer dialogue
+
+<a href="https://static-37.klingai-cdn-aws.com/kling-blog/presigned_url/206908e5-edd9-4f12-a7cb-2baca6a0f2bd_kling_20260203_作品_欧洲别墅户外露台场景_4118_0.mp4"><img src="previews/kling-villa-terrace-dialogue.jpg" width="360"></a>
+
+Multi-Shot on: the model plans the shot-reverse-shot by itself from one paragraph of action and dialogue.
+
+Kling 3.0 · Image-to-video · Source: [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide)
+
+[`multi-shot`](#tag-multi-shot) [`dialogue`](#tag-dialogue) [`shot-reverse-shot`](#tag-shot-reverse-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Outdoor terrace of a European villa, by a dining table with a blue and white checkered tablecloth, a young white woman in a blue and white striped short-sleeve shirt and khaki shorts, with a brown belt, sits barefoot, opposite a young white man in a white T-shirt. The camera zooms in, the woman swirls the juice in a glass, her eyes looking at the distant woods, and says "These trees will turn yellow in a month, won't they?". Close-up of the man, he lowers his head and says, "but they'll be green again next summer.". Then the woman turns her head, smiles at the man opposite, and says, "Are you always this optimistic? Or just about summer?". Then the man lifts his head, looks at the woman and says, “Only about summers with you.”
+```
+
+</details>
+
+Inputs: [1](https://static-6.klingai-cdn-aws.com/kling-blog/file_by_url/1e8ad2ce90036c01aa7fe86c89178590aaf136880206c40d8fc0f99e68d93445.png)
+
+<a id="veo3"></a>
+## Veo 3
+
+<a id="veo-camper-and-bear"></a>
+### Stop-motion camper and a bear with a comeback
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__camper.webm"><img src="previews/veo-camper-and-bear.jpg" width="360"></a>
+
+The whole prompt is a format label plus two lines of dialogue. Veo fills in the scene.
+
+Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
+
+[`stop-motion`](#tag-stop-motion) [`dialogue`](#tag-dialogue) [`comedy`](#tag-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Camping (Stop Motion): Camper: "I'm one with nature now!" Bear: "Nature would prefer some personal space."
+```
+
+</details>
+
+<a id="veo-candy-keyboard"></a>
+### Keyboard made of candy
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__keyboard.webm"><img src="previews/veo-candy-keyboard.jpg" width="360"></a>
+
+A separate `Audio:` line tells the model what the scene should sound like.
+
+Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
+
+[`sfx`](#tag-sfx) [`product`](#tag-product) [`whimsical`](#tag-whimsical)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.
+```
+
+</details>
+
+<a id="veo-moon-dust-flowers"></a>
+### Crystal flowers on a moon-dust plain
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__moon-dust.webm"><img src="previews/veo-moon-dust-flowers.jpg" width="360"></a>
+
+Short world-building prompt. One striking detail (`the only footprints in untouched dust`) does more than a long list.
+
+Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
+
+[`world-building`](#tag-world-building) [`fantasy`](#tag-fantasy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A snow-covered plain of iridescent moon-dust under twilight skies. Thirty-foot crystalline flowers bloom, refracting light into slow-moving rainbows. A fur-cloaked figure walks between these colossal blossoms, leaving the only footprints in untouched dust.
+```
+
+</details>
+
+<a id="veo-off-road-rally"></a>
+### Off-road rally through a river crossing
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4"><img src="previews/veo-off-road-rally.jpg" width="360"></a>
+
+A play-by-play for an 8-second action beat. It also asks for unbranded vehicles, which keeps logos out of the frame.
+
+Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
+
+[`action`](#tag-action) [`handheld`](#tag-handheld) [`sfx`](#tag-sfx)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The scene explodes with the raw, visceral, and unpredictable energy of a hardcore off-road rally, captured with a dynamic, almost found-footage or embedded sports documentary aesthetic. The camera is often shaky, seemingly mounted inside one of the vehicles or held by a daring spectator very close to the action, frequently splattered with mud or water, catching unintentional lens flares from the natural, often harsh, sunlight filtering through trees or reflecting off wet surfaces. We are immersed in a challenging, untamed natural environment – perhaps a dense, muddy forest trail, a treacherous rocky incline littered with loose scree, or a series_of shallow, fast-flowing river crossings. Several heavily modified, entirely unidentifiable, and unbranded off-road vehicles are engaged in a frenetic, no-holds-barred race. These are not showroom models; they are custom-built, rugged machines – open-wheeled buggies with exposed engines and prominent roll cages, heavily armored pickup trucks with oversized, knobby tires and snorkel exhausts, their original forms and manufacturers completely obscured by extreme modifications, layers of caked-on mud, and a general air of brutal functionality. The dominant sounds are the deafening, guttural roar of powerful, untamed engines, the whine of transmissions, the percussive impact of suspension bottoming out, and the constant spray of mud and water. Within an 8-second sequence, one of the lead vehicles, a low-slung, open-cockpit buggy so caked in thick, brown mud that its original color is a mystery, approaches a wide, shallow river crossing at incredible speed. Without the slightest hesitation, its unseen driver powers straight into the water. The impact sends an enormous, almost solid, opaque sheet of muddy water, mixed with stones and debris from the riverbed, spectacularly high into the air, completely engulfing the small buggy for a terrifying moment, obscuring it from view as if it has been swallowed by the river itself. Right on its tail, a pursuing, equally mud-encrusted, custom-built truck – a hulking, high-clearance beast with a heavily reinforced external roll cage and no discernible badging – arrives at the river crossing just as this massive wall of airborne water reaches its peak. Instead of slowing or attempting to find a clearer path, the truck's driver, with unwavering aggression, plunges directly into and through this opaque, turbulent curtain of muddy spray at full throttle. A split second later, the truck bursts out from the other side of the deluge, water cascading from its roof and chassis, its oversized windshield wipers struggling frantically to clear the torrent of muddy water obscuring the driver's vision. It lands heavily on the far bank, suspension groaning, but still in hot pursuit of the now-reappearing buggy. This thrilling, messy, and visually spectacular sequence of one vehicle creating a massive environmental obstacle and the next immediately conquering it through sheer force, forms the core, immersive, attention-grabbing event of the 8-second sequence. The race continues with undiminished ferocity, the natural terrain itself an active participant in the conflict.
+```
+
+</details>
+
+<a id="veo-old-sailor-verse"></a>
+### Old sailor speaks in verse
+
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__sailor.webm"><img src="previews/veo-old-sailor-verse.jpg" width="360"></a>
+
+Character first (hat, beard, pipe), then the spoken line in quotes. Veo 3 lip-syncs the quoted text.
+
+Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
+
+[`dialogue`](#tag-dialogue) [`character`](#tag-character)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A medium shot frames an old sailor, his knitted blue sailor hat casting a shadow over his eyes, a thick grey beard obscuring his chin. He holds his pipe in one hand, gesturing with it towards the churning, grey sea beyond the ship's railing. "This ocean, it's a force, a wild, untamed might. And she commands your awe, with every breaking light"
+```
+
+</details>
+
+<a id="sora2"></a>
+## Sora 2
+
+<a id="sora-fridge-monster"></a>
+### A chubby purple monster comes out of the fridge
+
+<a href="https://cdn.openai.com/API/docs/images/sora/sora_monster_original.gif"><img src="previews/sora-fridge-monster.jpg" width="360"></a>
+
+Two short beats: the door opens, the monster comes out.
+
+Sora 2 · Image-to-video · Source: [Sora 2 prompting guide](https://cookbook.openai.com/examples/sora/sora2_prompting_guide)
+
+[`image-to-video`](#tag-image-to-video) [`creature`](#tag-creature) [`whimsical`](#tag-whimsical)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The fridge door opens. A cute, chubby purple monster comes out of it.
+```
+
+</details>
+
+Inputs: [1](https://cdn.openai.com/API/docs/images/sora/monster_original_720p.jpeg)
+
+<a id="sora-monster-edits"></a>
+### Edit the monster: recolour it, then add a second one
+
+<a href="https://cdn.openai.com/API/docs/images/sora/sora_monster_2monsters.gif"><img src="previews/sora-monster-edits.jpg" width="360"></a>
+
+Each edit is a separate run on the original clip and changes one thing. OpenAI's advice: describe only the tweak.
+
+Sora 2 · Video edit · Source: [Sora 2 prompting guide](https://cookbook.openai.com/examples/sora/sora2_prompting_guide)
+
+[`multi-turn-edit`](#tag-multi-turn-edit) [`object-swap`](#tag-object-swap)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Change the color of the monster to orange
+A second monster comes out right after
+```
+
+</details>
+
+Inputs: [1](https://cdn.openai.com/API/docs/images/sora/sora_monster_original.gif)
+
+<a id="sora-skyline-turn-and-walk"></a>
+### She turns, smiles and walks out of frame
+
+<a href="https://cdn.openai.com/API/docs/images/sora/sora_woman_skyline_video.gif"><img src="previews/sora-skyline-turn-and-walk.jpg" width="360"></a>
+
+With an input image the first frame is set, so the prompt only describes what happens next.
+
+Sora 2 · Image-to-video · Source: [Sora 2 prompting guide](https://cookbook.openai.com/examples/sora/sora2_prompting_guide)
+
+[`image-to-video`](#tag-image-to-video) [`character`](#tag-character)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+She turns around and smiles, then slowly walks out of the frame.
+```
+
+</details>
+
+Inputs: [1](https://cdn.openai.com/API/docs/images/sora/woman_skyline_original_720p.jpeg)
 
 <a id="recipes"></a>
 ## Agent recipes: editing video
 
-Tell a coding agent what you want in plain words. Each recipe records the request, the commands the agent ran, and the result.
+Tell a coding agent what you want in plain words. Each recipe records the request and the commands the agent ran. Swap in your own clips.
+
+<a id="bilingual-subtitles"></a>
+### Transcribe dialogue and burn in Chinese and English subtitles
+
+**Request to the agent**
+
+> Transcribe the Chinese dialogue in samples/night-train-ticket.mp4, check it against the script in prompts/video/night-train-ticket.yaml, add an English line under each Chinese line, and burn the subtitles in.
+
+Whisper gets homophones wrong in Chinese (他 and 她 sound identical). When a script exists, tell the agent to use it for wording and whisper only for timing.
+
+[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`whisper`](#tag-whisper) [`subtitles`](#tag-subtitles) [`bilingual`](#tag-bilingual) [`chinese-dialogue`](#tag-chinese-dialogue)
+
+<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9 with libass, openai-whisper medium</summary>
+
+```bash
+whisper samples/night-train-ticket.mp4 --model medium --language zh --output_format srt
+# whisper heard 我等了他八年 / 就等着一趟车; the script says 我等了她八年 / 就等这一趟车.
+# The agent kept whisper's timing, took the wording from the script, and added English lines:
+#   1  00:00:00,000 --> 00:00:02,100  我等了她八年， / I waited eight years for her,
+#   2  00:00:02,200 --> 00:00:04,200  就等这一趟车。 / all for this one train.
+ffmpeg -i samples/night-train-ticket.mp4 \
+  -vf "subtitles=subs.srt:force_style='FontName=PingFang SC,FontSize=15,Outline=1,Shadow=0,MarginV=22'" \
+  -c:v libx264 -crf 20 -c:a copy subtitled.mp4
+```
+
+</details>
+
+<a id="readme-preview-gif"></a>
+### Make a small looping GIF preview for a README
+
+**Request to the agent**
+
+> Make a looping GIF preview of every mp4 in samples/ for the README. Keep each under about 1.5 MB. Speed up clips longer than 8 seconds so the whole story still plays.
+
+Every preview in this repository was made this way: 0.5 to 2 MB each. A per-clip palette with 96 colours and Bayer dithering keeps skin tones and neon clean at a small size.
+
+[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`gif`](#tag-gif) [`preview`](#tag-preview)
+
+<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9</summary>
+
+```bash
+# landscape: 360 px wide; vertical: 300 px tall; 2x speed when longer than 8 s
+ffmpeg -i in.mp4 -vf "setpts=PTS/2,fps=8,scale=360:-2:flags=lanczos,split[a][b];[a]palettegen=max_colors=96[p];[b][p]paletteuse=dither=bayer:bayer_scale=4" -loop 0 out.gif
+```
+
+</details>
+
+<a id="split-shots"></a>
+### Split a multi-shot clip into separate shots at the hard cuts
+
+**Request to the agent**
+
+> samples/late-night-office.mp4 should contain nine shots. Find the hard cuts, split the clip into one file per shot, and give me a storyboard strip with the middle frame of every shot.
+
+Doubles as a QA check for generated video: all eight cuts landed within 0.17 s of the timestamps written in the prompt. Lower the threshold for soft cuts, raise it for handheld footage with lots of motion.
+
+[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`scene-detection`](#tag-scene-detection) [`storyboard`](#tag-storyboard) [`qa`](#tag-qa)
+
+<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9</summary>
+
+```bash
+# 1. find cuts
+T=$(ffmpeg -i samples/late-night-office.mp4 -vf "scdet=threshold=8" -f null - 2>&1 \
+    | grep -o "lavfi.scd.time: [0-9.]*" | awk '{print $2}' | paste -sd, -)
+# -> 3.04,5.04,6.0,6.54,7.0,7.46,9.67,12.17  (prompt asked for 3.0,5.0,6.0,6.5,7.0,7.5,9.5,12.0)
+# 2. split, forcing keyframes at the cuts so every file starts clean
+ffmpeg -i samples/late-night-office.mp4 -c:v libx264 -crf 20 -force_key_frames "$T" -c:a aac \
+  -f segment -segment_times "$T" -reset_timestamps 1 shot_%02d.mp4
+# 3. storyboard strip
+for f in shot_*.mp4; do
+  mid=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$f" | awk '{printf "%.3f", $1/2}')
+  ffmpeg -ss "$mid" -i "$f" -frames:v 1 -vf scale=-2:320 "${f%.mp4}.jpg"
+done
+ffmpeg -pattern_type glob -i "shot_*.jpg" -vf "tile=9x1:padding=4:color=white" -frames:v 1 storyboard.jpg
+```
+
+</details>
 
 <a id="teaser-montage"></a>
 ### Cut a teaser from clips of different sizes, with title and crossfades
-
-<img src="previews/recipe-teaser-montage.gif" height="240">
 
 **Request to the agent**
 
@@ -341,42 +989,8 @@ ffmpeg -i samples/neon-night-market-alley.mp4 -i samples/hk-noodle-stall-1960s.m
 
 </details>
 
-[Result](samples/recipe-teaser-montage.mp4) · [Entry file](recipes/teaser-montage.yaml)
-
-<a id="bilingual-subtitles"></a>
-### Transcribe dialogue and burn in Chinese and English subtitles
-
-<img src="previews/recipe-bilingual-subtitles.gif" height="240">
-
-**Request to the agent**
-
-> Transcribe the Chinese dialogue in samples/night-train-ticket.mp4, check it against the script in prompts/video/night-train-ticket.yaml, add an English line under each Chinese line, and burn the subtitles in.
-
-Whisper gets homophones wrong in Chinese (他 and 她 sound identical). When a script exists, tell the agent to use it for wording and whisper only for timing.
-
-[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`whisper`](#tag-whisper) [`subtitles`](#tag-subtitles) [`bilingual`](#tag-bilingual) [`chinese-dialogue`](#tag-chinese-dialogue)
-
-<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9 with libass, openai-whisper medium</summary>
-
-```bash
-whisper samples/night-train-ticket.mp4 --model medium --language zh --output_format srt
-# whisper heard 我等了他八年 / 就等着一趟车; the script says 我等了她八年 / 就等这一趟车.
-# The agent kept whisper's timing, took the wording from the script, and added English lines:
-#   1  00:00:00,000 --> 00:00:02,100  我等了她八年， / I waited eight years for her,
-#   2  00:00:02,200 --> 00:00:04,200  就等这一趟车。 / all for this one train.
-ffmpeg -i samples/night-train-ticket.mp4 \
-  -vf "subtitles=subs.srt:force_style='FontName=PingFang SC,FontSize=15,Outline=1,Shadow=0,MarginV=22'" \
-  -c:v libx264 -crf 20 -c:a copy subtitled.mp4
-```
-
-</details>
-
-[Result](samples/recipe-bilingual-subtitles.mp4) · [Entry file](recipes/bilingual-subtitles.yaml)
-
 <a id="vertical-blur-fill"></a>
 ### Turn a 16:9 clip into a 9:16 short with a blurred background
-
-<img src="previews/recipe-vertical-blur-fill.gif" height="240">
 
 **Request to the agent**
 
@@ -398,143 +1012,102 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 
 </details>
 
-[Result](samples/recipe-vertical-blur-fill.mp4) · [Entry file](recipes/vertical-blur-fill.yaml)
-
-<a id="split-shots"></a>
-### Split a multi-shot clip into separate shots at the hard cuts
-
-<img src="previews/recipe-split-shots.jpg" height="240">
-
-**Request to the agent**
-
-> samples/late-night-office.mp4 should contain nine shots. Find the hard cuts, split the clip into one file per shot, and give me a storyboard strip with the middle frame of every shot.
-
-Doubles as a QA check for generated video: all eight cuts landed within 0.17 s of the timestamps written in the prompt. Lower the threshold for soft cuts, raise it for handheld footage with lots of motion.
-
-[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`scene-detection`](#tag-scene-detection) [`storyboard`](#tag-storyboard) [`qa`](#tag-qa)
-
-<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9</summary>
-
-```bash
-# 1. find cuts
-T=$(ffmpeg -i samples/late-night-office.mp4 -vf "scdet=threshold=8" -f null - 2>&1 \
-    | grep -o "lavfi.scd.time: [0-9.]*" | awk '{print $2}' | paste -sd, -)
-# -> 3.04,5.04,6.0,6.54,7.0,7.46,9.67,12.17  (prompt asked for 3.0,5.0,6.0,6.5,7.0,7.5,9.5,12.0)
-# 2. split, forcing keyframes at the cuts so every file starts clean
-ffmpeg -i samples/late-night-office.mp4 -c:v libx264 -crf 20 -force_key_frames "$T" -c:a aac \
-  -f segment -segment_times "$T" -reset_timestamps 1 shot_%02d.mp4
-# 3. storyboard strip
-for f in shot_*.mp4; do
-  mid=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$f" | awk '{printf "%.3f", $1/2}')
-  ffmpeg -ss "$mid" -i "$f" -frames:v 1 -vf scale=-2:320 "${f%.mp4}.jpg"
-done
-ffmpeg -pattern_type glob -i "shot_*.jpg" -vf "tile=9x1:padding=4:color=white" -frames:v 1 storyboard.jpg
-```
-
-</details>
-
-[Result](previews/recipe-split-shots.jpg) · [Entry file](recipes/split-shots.yaml)
-
-<a id="readme-preview-gif"></a>
-### Make a small looping GIF preview for a README
-
-<img src="previews/hk-noodle-stall-1960s.gif" height="240">
-
-**Request to the agent**
-
-> Make a looping GIF preview of every mp4 in samples/ for the README. Keep each under about 1.5 MB. Speed up clips longer than 8 seconds so the whole story still plays.
-
-Every preview in this repository was made this way: 0.5 to 2 MB each. A per-clip palette with 96 colours and Bayer dithering keeps skin tones and neon clean at a small size.
-
-[`agent-editing`](#tag-agent-editing) [`ffmpeg`](#tag-ffmpeg) [`gif`](#tag-gif) [`preview`](#tag-preview)
-
-<details><summary><b>Commands the agent ran</b> · Agent: Claude Opus 5.5 in Claude Code · Tools: ffmpeg 9</summary>
-
-```bash
-# landscape: 360 px wide; vertical: 300 px tall; 2x speed when longer than 8 s
-ffmpeg -i in.mp4 -vf "setpts=PTS/2,fps=8,scale=360:-2:flags=lanczos,split[a][b];[a]palettegen=max_colors=96[p];[b][p]paletteuse=dither=bayer:bayer_scale=4" -loop 0 out.gif
-```
-
-</details>
-
-[Result](previews/hk-noodle-stall-1960s.gif) · [Entry file](recipes/readme-preview-gif.yaml)
-
 <a id="image"></a>
 ## Image prompts
 
-The first batch is being tested. Entries go live once each prompt has a real output to show.
+Coming next, built the same way: official and widely shared prompts, each with its output.
 
 <a id="threed"></a>
 ## 3D with agents
 
-Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are being tested.
+Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in progress.
 
 <a id="tags"></a>
 ## Browse by tag
 
-- <a id="tag-15s"></a>`15s` (5): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar), [Alone in the office at night, nine fast cuts](#late-night-office), [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Logo reveal continued from a still frame](#headphone-logo-reveal)
-- <a id="tag-2d-animation"></a>`2d-animation` (1): [Crude 2D web-comic panda](#panda-web-comic)
-- <a id="tag-agent-editing"></a>`agent-editing` (5): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Make a small looping GIF preview for a README](#readme-preview-gif)
-- <a id="tag-ambience"></a>`ambience` (1): [Tea stall at first light](#morning-tea-stall)
-- <a id="tag-animals"></a>`animals` (2): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar)
+- <a id="tag-accent"></a>`accent` (2): [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
+- <a id="tag-action"></a>`action` (2): [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-agent-editing"></a>`agent-editing` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-ambience"></a>`ambience` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
+- <a id="tag-animation"></a>`animation` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
+- <a id="tag-audio-sync"></a>`audio-sync` (2): [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
 - <a id="tag-bilingual"></a>`bilingual` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-character"></a>`character` (1): [Crude 2D web-comic panda](#panda-web-comic)
-- <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (4): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Night train, a sentence carried across a cut](#night-train-ticket), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-chinese-text"></a>`chinese-text` (2): [Neon night-market alley with bilingual signs](#neon-night-market-alley), [Tea stall at first light](#morning-tea-stall)
-- <a id="tag-cinematic"></a>`cinematic` (6): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar), [Night train, a sentence carried across a cut](#night-train-ticket), [Neon night-market alley with bilingual signs](#neon-night-market-alley), [Tea stall at first light](#morning-tea-stall), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
-- <a id="tag-city"></a>`city` (2): [Neon night-market alley with bilingual signs](#neon-night-market-alley), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
-- <a id="tag-comedy"></a>`comedy` (1): [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar)
-- <a id="tag-comic"></a>`comic` (1): [Crude 2D web-comic panda](#panda-web-comic)
-- <a id="tag-commercial"></a>`commercial` (2): [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Logo reveal continued from a still frame](#headphone-logo-reveal)
-- <a id="tag-dialogue"></a>`dialogue` (2): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Night train, a sentence carried across a cut](#night-train-ticket)
-- <a id="tag-fast-cuts"></a>`fast-cuts` (1): [Alone in the office at night, nine fast cuts](#late-night-office)
-- <a id="tag-ffmpeg"></a>`ffmpeg` (5): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Make a small looping GIF preview for a README](#readme-preview-gif)
-- <a id="tag-film-look"></a>`film-look` (2): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Night train, a sentence carried across a cut](#night-train-ticket)
+- <a id="tag-camera-angle"></a>`camera-angle` (1): [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder)
+- <a id="tag-camera-move"></a>`camera-move` (4): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up)
+- <a id="tag-character"></a>`character` (2): [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk), [Old sailor speaks in verse](#veo-old-sailor-verse)
+- <a id="tag-character-consistency"></a>`character-consistency` (2): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile)
+- <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-comedy"></a>`comedy` (1): [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear)
+- <a id="tag-consistency"></a>`consistency` (1): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps)
+- <a id="tag-creature"></a>`creature` (2): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
+- <a id="tag-dialogue"></a>`dialogue` (11): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Four family members react to a plot twist](#kling-family-reacts-to-twist), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Harbour conversation extended twice](#omni-harbour-extend), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [Old sailor speaks in verse](#veo-old-sailor-verse)
+- <a id="tag-emotion"></a>`emotion` (1): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur)
+- <a id="tag-explainer"></a>`explainer` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
+- <a id="tag-extend"></a>`extend` (1): [Harbour conversation extended twice](#omni-harbour-extend)
+- <a id="tag-fantasy"></a>`fantasy` (1): [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
+- <a id="tag-ffmpeg"></a>`ffmpeg` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-film-look"></a>`film-look` (2): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Truck driver in four handheld shots](#kling-truck-driver-four-shots)
+- <a id="tag-first-last-frame"></a>`first-last-frame` (1): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan)
+- <a id="tag-focus-pull"></a>`focus-pull` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
+- <a id="tag-food"></a>`food` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
 - <a id="tag-gif"></a>`gif` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
-- <a id="tag-image-to-video"></a>`image-to-video` (2): [Logo reveal continued from a still frame](#headphone-logo-reveal), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
-- <a id="tag-keyframes"></a>`keyframes` (1): [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
-- <a id="tag-landscape"></a>`landscape` (7): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Night train, a sentence carried across a cut](#night-train-ticket), [Neon night-market alley with bilingual signs](#neon-night-market-alley), [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Tea stall at first light](#morning-tea-stall), [Logo reveal continued from a still frame](#headphone-logo-reveal), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-handheld"></a>`handheld` (2): [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-image-to-video"></a>`image-to-video` (3): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk)
+- <a id="tag-japanese"></a>`japanese` (1): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento)
+- <a id="tag-korean"></a>`korean` (1): [Korean high-school rooftop at night](#kling-korean-rooftop)
+- <a id="tag-lip-sync"></a>`lip-sync` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
+- <a id="tag-long-take"></a>`long-take` (5): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [One take follows a woman from elevator to desk](#kling-office-long-take), [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Harbour conversation extended twice](#omni-harbour-extend)
 - <a id="tag-loudness"></a>`loudness` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
-- <a id="tag-macro"></a>`macro` (1): [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial)
-- <a id="tag-meme"></a>`meme` (1): [Crude 2D web-comic panda](#panda-web-comic)
-- <a id="tag-mode-comparison"></a>`mode-comparison` (1): [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
+- <a id="tag-mixed-media"></a>`mixed-media` (1): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx)
 - <a id="tag-montage"></a>`montage` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
-- <a id="tag-multi-shot"></a>`multi-shot` (5): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar), [Night train, a sentence carried across a cut](#night-train-ticket), [Alone in the office at night, nine fast cuts](#late-night-office), [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial)
-- <a id="tag-neon-text"></a>`neon-text` (2): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s), [Neon night-market alley with bilingual signs](#neon-night-market-alley)
-- <a id="tag-period-drama"></a>`period-drama` (1): [1960s Hong Kong noodle stall, one line of dialogue](#hk-noodle-stall-1960s)
-- <a id="tag-phone-footage"></a>`phone-footage` (2): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Alone in the office at night, nine fast cuts](#late-night-office)
+- <a id="tag-motion-graphics"></a>`motion-graphics` (2): [Quantum computing explained in risograph flat style](#omni-quantum-explainer), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
+- <a id="tag-multi-reference"></a>`multi-reference` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird)
+- <a id="tag-multi-shot"></a>`multi-shot` (6): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video)
+- <a id="tag-multi-speaker"></a>`multi-speaker` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
+- <a id="tag-multi-turn-edit"></a>`multi-turn-edit` (5): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up), [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
+- <a id="tag-multilingual"></a>`multilingual` (4): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
+- <a id="tag-music"></a>`music` (2): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
+- <a id="tag-object-swap"></a>`object-swap` (3): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
+- <a id="tag-orbit"></a>`orbit` (1): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile)
+- <a id="tag-period"></a>`period` (1): [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid)
 - <a id="tag-preview"></a>`preview` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
-- <a id="tag-product"></a>`product` (2): [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Logo reveal continued from a still frame](#headphone-logo-reveal)
+- <a id="tag-product"></a>`product` (1): [Keyboard made of candy](#veo-candy-keyboard)
+- <a id="tag-product-ad"></a>`product-ad` (1): [Perfume ad by a Paris window](#kling-perfume-paris-ad)
 - <a id="tag-qa"></a>`qa` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
-- <a id="tag-rain"></a>`rain` (2): [Neon night-market alley with bilingual signs](#neon-night-market-alley), [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
-- <a id="tag-reference-to-video"></a>`reference-to-video` (1): [One scene, four modes: text, image, keyframes, reference](#lantern-alley-four-modes)
 - <a id="tag-reframe"></a>`reframe` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-scene-detection"></a>`scene-detection` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
-- <a id="tag-short-drama"></a>`short-drama` (1): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag)
-- <a id="tag-still-life"></a>`still-life` (1): [Tea stall at first light](#morning-tea-stall)
-- <a id="tag-storyboard"></a>`storyboard` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-sci-fi"></a>`sci-fi` (1): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
+- <a id="tag-score"></a>`score` (1): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
+- <a id="tag-sfx"></a>`sfx` (4): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Keyboard made of candy](#veo-candy-keyboard), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-shot-reverse-shot"></a>`shot-reverse-shot` (1): [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue)
+- <a id="tag-spanish"></a>`spanish` (1): [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
+- <a id="tag-sports"></a>`sports` (1): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo)
+- <a id="tag-static-camera"></a>`static-camera` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
+- <a id="tag-stop-motion"></a>`stop-motion` (1): [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear)
+- <a id="tag-storyboard"></a>`storyboard` (2): [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-structured-prompt"></a>`structured-prompt` (3): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
+- <a id="tag-style-lock"></a>`style-lock` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
+- <a id="tag-style-transfer"></a>`style-transfer` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
 - <a id="tag-subtitles"></a>`subtitles` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-suspense"></a>`suspense` (1): [Alone in the office at night, nine fast cuts](#late-night-office)
+- <a id="tag-text-render"></a>`text-render` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
+- <a id="tag-timed-cut"></a>`timed-cut` (1): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
 - <a id="tag-title-card"></a>`title-card` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
-- <a id="tag-vertical"></a>`vertical` (5): [Tough guy hides a kitten on the subway (15 s vertical)](#subway-kitten-tote-bag), [Kitten knocks over the fish jar (15 s vertical)](#kitten-and-fish-jar), [Alone in the office at night, nine fast cuts](#late-night-office), [Crude 2D web-comic panda](#panda-web-comic), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-tracking-shot"></a>`tracking-shot` (1): [One take follows a woman from elevator to desk](#kling-office-long-take)
+- <a id="tag-vertical"></a>`vertical` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-vfx"></a>`vfx` (1): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx)
+- <a id="tag-voice-reference"></a>`voice-reference` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
+- <a id="tag-voiceover"></a>`voiceover` (1): [Perfume ad by a Paris window](#kling-perfume-paris-ad)
+- <a id="tag-whimsical"></a>`whimsical` (2): [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [Keyboard made of candy](#veo-candy-keyboard)
 - <a id="tag-whisper"></a>`whisper` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-wordmark"></a>`wordmark` (2): [Headphone product film with end wordmark (15 s)](#headphone-macro-commercial), [Logo reveal continued from a still frame](#headphone-logo-reveal)
-
-<a id="how"></a>
-## How to read an entry
-
-- **Prompt**: the exact text sent to the model. Copy it with the button on the code block.
-- **Settings**: model, mode, resolution, length, sampler steps, whether audio was generated.
-- **Preview**: a silent GIF. Open **Full video** for the original file with sound.
-- **Source**: each entry is one YAML file. This README is generated from them.
+- <a id="tag-world-building"></a>`world-building` (1): [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
 
 <a id="contributing"></a>
 ## Contributing
 
-1. Add one YAML file under `prompts/` or `recipes/` (copy any existing entry as a template).
-2. Include the exact prompt, the model and settings, and the unedited output in `samples/`.
+1. Add one YAML file under `prompts/video/` (copy any entry as a template).
+2. Link the original post or page where the prompt and its output were published, and credit the author.
 3. Run `python scripts/build.py` to regenerate both READMEs, then open a pull request.
-4. Entries without a real output are closed. Promotional links are closed.
+4. Entries without a visible output or a traceable source are closed. Promotional links are closed.
 
 ## Related lists by the same maintainers
 
@@ -543,4 +1116,4 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are be
 
 ## License
 
-GPL-3.0, unchanged from the original repository.
+Repository code and notes: GPL-3.0. Prompts and videos belong to their original publishers and are linked or quoted with credit.

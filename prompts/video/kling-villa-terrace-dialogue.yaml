@@ -1,0 +1,22 @@
+id: kling-villa-terrace-dialogue
+title:
+  en: Villa terrace, a two-person summer dialogue
+  zh: 别墅露台，夏日双人对话
+model: Kling 3.0
+mode: image-to-video
+tags:
+- multi-shot
+- dialogue
+- shot-reverse-shot
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-37.klingai-cdn-aws.com/kling-blog/presigned_url/206908e5-edd9-4f12-a7cb-2baca6a0f2bd_kling_20260203_作品_欧洲别墅户外露台场景_4118_0.mp4
+inputs:
+- https://static-6.klingai-cdn-aws.com/kling-blog/file_by_url/1e8ad2ce90036c01aa7fe86c89178590aaf136880206c40d8fc0f99e68d93445.png
+notes:
+  en: 'Multi-Shot on: the model plans the shot-reverse-shot by itself from one paragraph of action and dialogue.'
+  zh: 开启多镜头后，模型从一段动作加对白里自己排出正反打。
+prompt: |
+  Outdoor terrace of a European villa, by a dining table with a blue and white checkered tablecloth, a young white woman in a blue and white striped short-sleeve shirt and khaki shorts, with a brown belt, sits barefoot, opposite a young white man in a white T-shirt. The camera zooms in, the woman swirls the juice in a glass, her eyes looking at the distant woods, and says "These trees will turn yellow in a month, won't they?". Close-up of the man, he lowers his head and says, "but they'll be green again next summer.". Then the woman turns her head, smiles at the man opposite, and says, "Are you always this optimistic? Or just about summer?". Then the man lifts his head, looks at the woman and says, “Only about summers with you.”

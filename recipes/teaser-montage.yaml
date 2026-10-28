@@ -22,8 +22,6 @@ commands: |
   [x2]drawtext=fontfile=/System/Library/Fonts/Supplemental/Futura.ttc:text='RAIN CITY':fontcolor=white:fontsize=110:x=(w-tw)/2:y=h*0.70:alpha='if(lt(t,0.3),t/0.3,if(lt(t,2.0),1,if(lt(t,2.5),(2.5-t)/0.5,0)))',fade=t=in:st=0:d=0.4,fade=t=out:st=12.1:d=0.4[v];
   [ax2]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st=12:d=0.5[a]" \
     -map "[v]" -map "[a]" -c:v libx264 -crf 20 -c:a aac -b:a 160k -ar 48000 teaser.mp4
-output: samples/recipe-teaser-montage.mp4
-preview: previews/recipe-teaser-montage.gif
 notes:
   en: "The inputs are 864x480 and 1344x768; every branch is scaled, cropped and resampled to the same size, frame rate and sample rate first, otherwise xfade and acrossfade refuse to join them. Total length is 3 x 4.5 s minus two 0.5 s overlaps = 12.5 s."
   zh: "输入有 864x480 和 1344x768 两种尺寸。每路先统一尺寸、帧率和采样率，否则 xfade 和 acrossfade 接不上。总长是 3 段 4.5 秒减去两次 0.5 秒重叠，共 12.5 秒。"

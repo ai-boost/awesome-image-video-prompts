@@ -1,0 +1,22 @@
+id: kling-office-long-take
+title:
+  en: One take follows a woman from elevator to desk
+  zh: 一镜到底，跟拍女人从电梯走到工位
+model: Kling 3.0
+mode: image-to-video
+tags:
+- long-take
+- character-consistency
+- tracking-shot
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static--46.klingai-cdn-aws.com/kling-blog/presigned_url/cf695909-2395-4433-a0b1-caeb28df578d_kling_20260201_作品_平稳跟拍长镜头一镜到_3635_0.mp4
+inputs:
+- https://static-44.klingai-cdn-aws.com/kling-blog/file_by_url/f810ae350b11c0469938a2dc73724c09618b56830d84f506027187df168c830e.png
+notes:
+  en: 'Start frame plus a bound character element. The prompt spells out how the camera moves with her: track when she walks, stop when she stops.'
+  zh: 首帧加绑定的人物主体。提示词写清机位怎么跟：她走就跟，她停就停。
+prompt: |
+  Authentic workplace texture, one continuous long take without any cuts. The camera follows the professional woman steadily in a medium shot throughout, moving in sync with her: the camera tracks her as she walks and freezes instantly when she pauses, with natural and smooth movements and fluid camera work. The woman walks forward out of the elevator, and the elevator doors close slowly and naturally behind her; she steps into the office area, takes off her sunglasses by hand, tucks them into her commuter bag casually, and nods politely to colleagues passing by; she pauses briefly, the camera freezes in sync, she hangs her commuter bag on the coat rack in the office area, then takes off her outer coat and hangs it on the same rack; after hanging up her clothes, she walks forward again, the camera tracks her in sync; a young man in a formal shirt walks towards her, hands her a document and a signature pen, she pauses, the camera freezes in sync, takes them and signs the document; after signing, she walks forward again, the camera tracks her in sync; finally, she walks to her desk, sits down by the chair, reaches out to pick up a cup of tea on the desk, and sips it with her head down, her movements relaxed and natural.

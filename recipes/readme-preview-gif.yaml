@@ -10,8 +10,6 @@ inputs: [samples/hk-noodle-stall-1960s.mp4]
 commands: |
   # landscape: 360 px wide; vertical: 300 px tall; 2x speed when longer than 8 s
   ffmpeg -i in.mp4 -vf "setpts=PTS/2,fps=8,scale=360:-2:flags=lanczos,split[a][b];[a]palettegen=max_colors=96[p];[b][p]paletteuse=dither=bayer:bayer_scale=4" -loop 0 out.gif
-output: previews/hk-noodle-stall-1960s.gif
-preview: previews/hk-noodle-stall-1960s.gif
 notes:
   en: "Every preview in this repository was made this way: 0.5 to 2 MB each. A per-clip palette with 96 colours and Bayer dithering keeps skin tones and neon clean at a small size."
   zh: "本仓所有预览图都是这样做的，每张 0.5 到 2 MB。每段单独生成 96 色调色板加 Bayer 抖动，体积小，肤色和霓虹也不脏。"

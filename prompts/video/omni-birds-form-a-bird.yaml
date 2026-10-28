@@ -1,0 +1,22 @@
+id: omni-birds-form-a-bird
+title:
+  en: A flock of birds forms the shape of a bird, to music
+  zh: 鸟群聚成一只鸟的形状，随音乐起落
+model: Gemini Omni Flash
+mode: reference-to-video
+tags:
+- multi-reference
+- audio-sync
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__prompt-guide__birds-shape.webm
+inputs:
+- https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-inputs__bird-shape.webm
+- https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-combine-multi-ingredient-01.webp
+notes:
+  en: 'Three inputs, each with its own tag: `<video>` for motion, `<image>` for shape, `<audio>` for timing.'
+  zh: 三路输入各有标签：`<video>` 管运动，`<image>` 管形状，`<audio>` 管节奏。
+prompt: |
+  The birds from <video> loosely form the imperfect shape of a bird based on <image>. They move to the music from <audio> and dissipate as they fly

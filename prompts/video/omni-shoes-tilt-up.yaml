@@ -1,0 +1,19 @@
+id: omni-shoes-tilt-up
+title:
+  en: Start on the shoes, tilt up, then widen
+  zh: 从鞋子起幅，上摇，再拉开
+model: Gemini Omni Flash
+mode: video-edit
+tags:
+- camera-move
+- multi-turn-edit
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__boots.webm
+notes:
+  en: Three camera moves chained in one line, in the order they happen.
+  zh: 一行里按发生顺序串起三个运镜。
+prompt: |
+  Change the camera angle, a close-up on his shoes, quickly tilting up to medium shot, then widening.

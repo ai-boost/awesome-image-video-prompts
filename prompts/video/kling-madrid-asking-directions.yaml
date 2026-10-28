@@ -1,0 +1,23 @@
+id: kling-madrid-asking-directions
+title:
+  en: Asking directions in Madrid, in halting Spanish
+  zh: 马德里问路，磕磕绊绊的西班牙语
+model: Kling 3.0
+mode: image-to-video
+tags:
+- dialogue
+- multilingual
+- spanish
+- accent
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-45.klingai-cdn-aws.com/kling-blog/presigned_url/10902407-6b2f-4e1c-86f4-ae81f9da21c2_kling_20260204_作品_阳光洒满马德里老街__3484_0.mp4
+inputs:
+- https://static--53.klingai-cdn-aws.com/kling-blog/file_by_url/e4699b0ea66d1a1b6b94dcc1dedc462be6136f1a4fe5d263b719f7bd54dc8992.png
+notes:
+  en: 'Three speakers with different fluency: the tourist is told to speak slowly with an awkward accent, the clerk lightly and cheerfully.'
+  zh: 三个说话人流利度不同：游客要求说得慢、口音别扭，店员轻快。
+prompt: |
+  Sunlight fills the old streets of Madrid. In front of a street-side bakery, a Chinese female tourist and a male tourist wearing a gray hoodie walk toward the shop clerk, both wearing polite smiles. Female tourist (speaking slightly slowly, with an awkward accent, in Spanish):Disculpe, ¿dónde está la plaza mayor? A white-haired Spanish shop clerk (turning slightly and pointing forward, with a light and cheerful tone, in Spanish):Por allí, a dos calles. Muy cerca. The female tourist nods to express her thanks. The male tourist also nods in agreement and says (in Spanish): Muchas gracias. The shop clerk smiles and nods in response. The two tourists then turn and walk in the indicated direction.

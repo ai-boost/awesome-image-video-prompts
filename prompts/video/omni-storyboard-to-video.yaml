@@ -1,0 +1,22 @@
+id: omni-storyboard-to-video
+title:
+  en: Hand it a storyboard, get the scene
+  zh: 给一张分镜图，直接出片
+model: Gemini Omni Flash
+mode: reference-to-video
+tags:
+- storyboard
+- multi-shot
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini_omni__prompt-guide__storyboard.webm
+inputs:
+- https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-storyboard-ingredient-01.webp
+- https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-storyboard-ingredient-02.webp
+notes:
+  en: The storyboard image carries the plot. The text only sets reading order, total length and tone.
+  zh: 剧情全在分镜图里，文字只交代阅读顺序、总时长和基调。
+prompt: |
+  Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic

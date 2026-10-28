@@ -1,0 +1,21 @@
+id: kling-baseball-bat-logo
+title:
+  en: Logo on a baseball bat stays sharp through the swing
+  zh: 挥棒全程，球棒上的字保持清晰
+model: Kling 3.0
+mode: image-to-video
+tags:
+- text-render
+- sports
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-54.klingai-cdn-aws.com/kling-blog/presigned_url/50fdd9a7-e3d7-4d62-8715-edaa9b3003bc_文字_棒球.mp4
+inputs:
+- https://static-3.klingai-cdn-aws.com/kling-blog/file_by_url/a8527e3967d0a358562fddac74c2c9e13c98135619da9af77ea326fe756fb0ff.png
+notes:
+  en: One sentence that ties the camera to a word on a moving object. A quick test for text stability.
+  zh: 一句话把镜头钉在运动物体的字上，用来快速测文字稳定性。
+prompt: |
+  The camera remains fixed on the word "KLING" emblazoned on the baseball bat as the player swings and hits the ball.

@@ -1,0 +1,22 @@
+id: kling-joseon-lady-and-maid
+title:
+  en: Joseon noblewoman and her maid
+  zh: 朝鲜贵族小姐与侍女
+model: Kling 3.0
+mode: image-to-video
+tags:
+- dialogue
+- multilingual
+- period
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-41.klingai-cdn-aws.com/kling-blog/presigned_url/d7236484-7cf3-4092-a019-4321dbc661b4_kling_20260202_作品_镜头聚焦两人的互动__4898_0.mp4
+inputs:
+- https://static-10.klingai-cdn-aws.com/kling-blog/file_by_url/6ea73c8a737512559f23bb74328f56539882634fa386241b340d5af0c0314b93.jpg
+notes:
+  en: Period drama in Korean. Tone words (`warm, gentle`, `with deference`) set the social register between the two.
+  zh: 韩语古装戏。语气词（`warm, gentle`、`with deference`）交代两人的身份高低。
+prompt: |
+  The camera lingers on their interaction— the noble lady’s gaze soft and mild, her maid listening with her head bowed. The lady lifts a hand to smooth her sleeve gently, and speaks in a warm, gentle tone: “오늘 후원에서 피어난 꽃을 보니, 시원한 바람이 분다. 너도 함께 걸어볼까?” The maid inclines her body slightly forward, and replies with deference: “네, 아씨님. 따라갈게요.

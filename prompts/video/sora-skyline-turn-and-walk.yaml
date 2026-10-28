@@ -1,0 +1,21 @@
+id: sora-skyline-turn-and-walk
+title:
+  en: She turns, smiles and walks out of frame
+  zh: 她转身微笑，走出画面
+model: Sora 2
+mode: image-to-video
+tags:
+- image-to-video
+- character
+source:
+  name: Sora 2 prompting guide
+  url: https://cookbook.openai.com/examples/sora/sora2_prompting_guide
+  credit: OpenAI
+video: https://cdn.openai.com/API/docs/images/sora/sora_woman_skyline_video.gif
+inputs:
+- https://cdn.openai.com/API/docs/images/sora/woman_skyline_original_720p.jpeg
+notes:
+  en: With an input image the first frame is set, so the prompt only describes what happens next.
+  zh: 有了输入图，第一帧已经定了，提示词只写接下来发生什么。
+prompt: |
+  She turns around and smiles, then slowly walks out of the frame.

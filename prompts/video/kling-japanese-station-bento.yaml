@@ -1,0 +1,22 @@
+id: kling-japanese-station-bento
+title:
+  en: Bento handed over at a misty station, in Japanese
+  zh: 晨雾小站递便当，日语对白
+model: Kling 3.0
+mode: image-to-video
+tags:
+- dialogue
+- multilingual
+- japanese
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static--87.klingai-cdn-aws.com/kling-blog/presigned_url/3d106f34-7b24-462f-9238-0a9d4c3981dc_kling_20260204_作品_清晨薄雾的小站_男生_5550_3.mp4
+inputs:
+- https://static-39.klingai-cdn-aws.com/kling-blog/file_by_url/1e96651baca4447550008b624ccb8723fb4d5aa383734b8744042d031532e619.jpg
+notes:
+  en: Japanese lines in corner brackets, no speaker labels beyond `the boy` and `the girl`. Shows Kling's Japanese lip sync.
+  zh: 日语台词用直角引号，说话人只写 `the boy` 和 `the girl`，展示可灵的日语口型。
+prompt: |
+  On a small station shrouded in morning mist, the boy smiled and handed over the bento: 「急いで作ったけど、大丈夫？ お母さんのレシピだよ。」The girl took it with a smile: 「うん、きっと美味しい！ 到着したら LINE するね。」

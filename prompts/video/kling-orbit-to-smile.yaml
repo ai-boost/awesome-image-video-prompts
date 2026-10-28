@@ -1,0 +1,22 @@
+id: kling-orbit-to-smile
+title:
+  en: Camera circles to her face, she looks up and smiles
+  zh: 镜头绕到正面，她抬头微笑
+model: Kling 3.0
+mode: image-to-video
+tags:
+- character-consistency
+- orbit
+- image-to-video
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-36.klingai-cdn-aws.com/kling-blog/presigned_url/53d2490e-3ad9-4d84-b74f-bc0b1fcc4151_kling_20260204_作品_镜头逐渐环绕至女孩的_4266_2.mp4
+inputs:
+- https://static--64.klingai-cdn-aws.com/kling-blog/file_by_url/445147e8acb2e81e4c06a4a819081baeacbdbcf1824946cf1cd9b5a2f0c4e0f5.png
+notes:
+  en: Same one-line prompt run twice, with and without a bound element. The page shows both outputs so you can compare face consistency.
+  zh: 同一句提示词跑两遍，一遍绑定主体，一遍只用首帧，页面上两版并排，能直接比脸的一致性。
+prompt: |
+  The camera gradually moves around to the front of the girl, who then lifts her head and smiles warmly at the camera, as if seeing an old friend after many years.

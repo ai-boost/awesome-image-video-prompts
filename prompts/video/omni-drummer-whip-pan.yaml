@@ -1,0 +1,21 @@
+id: omni-drummer-whip-pan
+title:
+  en: Whip-pan from drummer to saxophonist and dancer
+  zh: 从鼓手甩镜到萨克斯手和芭蕾舞者
+model: Gemini Omni Flash
+mode: keyframes-to-video
+tags:
+- first-last-frame
+- camera-move
+- long-take
+- music
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/YMgFKThN-vej75eW/gemini-omni__first-last-frame__dummer-ballet.webm
+notes:
+  en: First and last frames fix both ends. The prompt describes the move between them and closes with `One continuous shot, no jump cuts`.
+  zh: 首尾帧定住两端，提示词写清中间怎么动，结尾加 `One continuous shot, no jump cuts`。
+prompt: |
+  A close-up low-angle shot of a stylish drummer in a beige suit playing a red drum kit in a grand hall transitions as the camera whip-pans to the side, revealing an older saxophonist playing alongside a ballet dancer spinning in a white outfit under soft purple stage lights. One continuous shot, no jump cuts.

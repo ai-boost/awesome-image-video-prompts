@@ -1,0 +1,21 @@
+id: omni-harbour-extend
+title:
+  en: Harbour conversation extended twice
+  zh: 港口对话，连续续写两段
+model: Gemini Omni Flash
+mode: extend
+tags:
+- extend
+- dialogue
+- long-take
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/YMgFKThN-vej75eW/gemini-omni__extend__boats_1080.webm
+notes:
+  en: 'Each extension only says what happens next: one line of dialogue, then a camera pull-back and a music cue.'
+  zh: 每次续写只交代接下来发生什么：先一句对白，再一个后拉镜头加配乐提示。
+prompt: |
+  The man in the blue sweater replies: "Did your father go out on the boat too?"
+  The camera pulls back in one continuous movement as he continues his story: "He used to say that this harbour had a soul. And that the boats were a part of us." The music swells.

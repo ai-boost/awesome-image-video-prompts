@@ -1,0 +1,22 @@
+id: kling-family-reacts-to-twist
+title:
+  en: Four family members react to a plot twist
+  zh: 一家四口对剧情反转的反应
+model: Kling 3.0
+mode: image-to-video
+tags:
+- dialogue
+- multi-speaker
+- ambience
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-86.klingai-cdn-aws.com/kling-blog/presigned_url/8aa6f5a2-b121-4b08-840d-827cc670c4be_kling_20260202_作品_居家环境_背景有轻微_5022_0.mp4
+inputs:
+- https://static--49.klingai-cdn-aws.com/kling-blog/file_by_url/006b3efc9ecef758c2aac2e8765f63e4b0f7d684de4d8e6e40e50a90fdb426ce.png
+notes:
+  en: Four speakers, each tagged by role and tone (`Mom (softly, in a surprised tone)`), so lines land on the right face.
+  zh: 四个说话人，每个都标角色和语气（`Mom (softly, in a surprised tone)`），台词能对上正确的人。
+prompt: |
+  Home setting with a faint hum of the living room air conditioner in the background for a realistic daily vibe. Mom (softly, in a surprised tone): Wow, I didn’t expect this plot at all. Dad (in a low voice, agreeing, in a calm tone): Yeah, it’s totally unexpected. Never thought that would happen. Boy (in an excited tone): It’s the best twist ever! Girl (nodding along, in an enthusiastic tone): I can’t believe they did that!

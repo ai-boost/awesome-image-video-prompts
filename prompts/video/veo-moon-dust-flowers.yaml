@@ -1,0 +1,19 @@
+id: veo-moon-dust-flowers
+title:
+  en: Crystal flowers on a moon-dust plain
+  zh: 月尘平原上的水晶花
+model: Veo 3
+mode: text-to-video
+tags:
+- world-building
+- fantasy
+source:
+  name: Veo 3 prompt guide
+  url: https://deepmind.google/models/veo/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__moon-dust.webm
+notes:
+  en: Short world-building prompt. One striking detail (`the only footprints in untouched dust`) does more than a long list.
+  zh: 短小的造景提示词。一个抓人的细节（`the only footprints in untouched dust`）胜过一长串形容。
+prompt: |
+  A snow-covered plain of iridescent moon-dust under twilight skies. Thirty-foot crystalline flowers bloom, refracting light into slow-moving rainbows. A fur-cloaked figure walks between these colossal blossoms, leaving the only footprints in untouched dust.

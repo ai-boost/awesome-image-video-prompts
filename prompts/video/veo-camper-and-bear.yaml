@@ -1,0 +1,20 @@
+id: veo-camper-and-bear
+title:
+  en: Stop-motion camper and a bear with a comeback
+  zh: 定格动画，露营者和会顶嘴的熊
+model: Veo 3
+mode: text-to-video
+tags:
+- stop-motion
+- dialogue
+- comedy
+source:
+  name: Veo 3 prompt guide
+  url: https://deepmind.google/models/veo/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__camper.webm
+notes:
+  en: The whole prompt is a format label plus two lines of dialogue. Veo fills in the scene.
+  zh: 整条提示词只有一个形式标签和两句台词，场景交给 Veo 补全。
+prompt: |
+  Camping (Stop Motion): Camper: "I'm one with nature now!" Bear: "Nature would prefer some personal space."

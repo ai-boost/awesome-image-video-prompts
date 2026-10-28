@@ -1,0 +1,19 @@
+id: omni-skateboard-motion-fx
+title:
+  en: Add cartoon motion lines to live skateboarding
+  zh: 给真人滑板加卡通动效
+model: Gemini Omni Flash
+mode: video-edit
+tags:
+- vfx
+- mixed-media
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__skateboard.webm
+notes:
+  en: '`keeping everything the same` locks the footage, so the edit only layers effects on top.'
+  zh: '`keeping everything the same` 先锁住原片，改动只叠加特效。'
+prompt: |
+  Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.

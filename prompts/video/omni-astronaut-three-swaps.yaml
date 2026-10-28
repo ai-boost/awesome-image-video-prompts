@@ -1,0 +1,24 @@
+id: omni-astronaut-three-swaps
+title:
+  en: Ships to origami, astronaut to anemone, ships to stingrays
+  zh: 飞船改折纸，宇航员改海葵，小飞船改魟鱼
+model: Gemini Omni Flash
+mode: video-edit
+tags:
+- multi-turn-edit
+- object-swap
+- consistency
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide_astro-stingray.webm
+inputs:
+- https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide_astro-spaceship.webm
+notes:
+  en: Three edits in a row on one shot. The scene and camera stay consistent across every turn.
+  zh: 同一个镜头连改三轮，场景和机位每一轮都保持一致。
+prompt: |
+  Change the ships to be made from white origami paper.
+  Change the astronaut to a sea anemone.
+  Change the small ships to stingrays.

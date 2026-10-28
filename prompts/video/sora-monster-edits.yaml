@@ -1,0 +1,22 @@
+id: sora-monster-edits
+title:
+  en: 'Edit the monster: recolour it, then add a second one'
+  zh: 改怪兽：先换颜色，再加一只
+model: Sora 2
+mode: video-edit
+tags:
+- multi-turn-edit
+- object-swap
+source:
+  name: Sora 2 prompting guide
+  url: https://cookbook.openai.com/examples/sora/sora2_prompting_guide
+  credit: OpenAI
+video: https://cdn.openai.com/API/docs/images/sora/sora_monster_2monsters.gif
+inputs:
+- https://cdn.openai.com/API/docs/images/sora/sora_monster_original.gif
+notes:
+  en: 'Each edit is a separate run on the original clip and changes one thing. OpenAI''s advice: describe only the tweak.'
+  zh: 每次编辑都基于原片单独跑，只改一处。OpenAI 的建议是只描述要改的地方。
+prompt: |
+  Change the color of the monster to orange
+  A second monster comes out right after

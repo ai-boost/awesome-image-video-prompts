@@ -1,0 +1,22 @@
+id: kling-korean-rooftop
+title:
+  en: Korean high-school rooftop at night
+  zh: 韩国高中天台夜聊
+model: Kling 3.0
+mode: image-to-video
+tags:
+- dialogue
+- multilingual
+- korean
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-74.klingai-cdn-aws.com/kling-blog/presigned_url/43cd806c-13a5-4375-906d-7c29f632b04c_kling_20260202_作品_韩国高中屋顶场景下__5286_0.mp4
+inputs:
+- https://static-46.klingai-cdn-aws.com/kling-blog/file_by_url/f04a52d4d7bbeb30091cb136cd8623e84bd995776b765099fcc5ddcbbaf07391.png
+notes:
+  en: 'Language is declared inside each speaker tag: `Boy (casual tone, Korean)`.'
+  zh: 语言写在每个说话人标签里：`Boy (casual tone, Korean)`。
+prompt: |
+  On the rooftop of a Korean high school, distant city lights glimmer in the background with a soft wind rustling, and stars twinkle in the night sky. The girl leans against the railing, lost in thought. The boy walks over with two cans of cola, hands one to her, and she takes it and pops the tab open. Boy (casual tone, Korean): "숙제 다 했어? 왜 여기 있어?" Girl (sighing, Korean): "시험이 너무 무서워". Boy (gentle tone, Korean): “걱정 마, 넌 잘할 거야.”

@@ -1,0 +1,19 @@
+id: omni-word-by-word-sizzle
+title:
+  en: Kinetic type, one word per beat
+  zh: 动态文字，一拍一个词
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- text-render
+- motion-graphics
+source:
+  name: Gemini Omni prompt guide
+  url: https://deepmind.google/models/gemini-omni/prompt-guide/
+  credit: Google DeepMind
+video: https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__text.webm
+notes:
+  en: Lists the exact words in order and asks for a new animation style on each. Good test of on-screen text.
+  zh: 按顺序列出每个词，要求每个词换一种动画样式，很适合测屏幕文字。
+prompt: |
+  word by word, one word on a the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.

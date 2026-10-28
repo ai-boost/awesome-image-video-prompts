@@ -16,8 +16,6 @@ commands: |
   ffmpeg -i samples/night-train-ticket.mp4 \
     -vf "subtitles=subs.srt:force_style='FontName=PingFang SC,FontSize=15,Outline=1,Shadow=0,MarginV=22'" \
     -c:v libx264 -crf 20 -c:a copy subtitled.mp4
-output: samples/recipe-bilingual-subtitles.mp4
-preview: previews/recipe-bilingual-subtitles.gif
 notes:
   en: "Whisper gets homophones wrong in Chinese (他 and 她 sound identical). When a script exists, tell the agent to use it for wording and whisper only for timing."
   zh: "Whisper 会听错中文同音字（他和她读音相同）。有剧本时，让 Agent 用剧本定文字，只用 Whisper 定时间。"

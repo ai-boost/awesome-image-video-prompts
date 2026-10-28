@@ -1,0 +1,22 @@
+id: kling-indian-accent-order
+title:
+  en: Ordering dinner with an Indian English accent
+  zh: 带印度口音点餐
+model: Kling 3.0
+mode: image-to-video
+tags:
+- dialogue
+- accent
+- multi-shot
+source:
+  name: Kling VIDEO 3.0 user guide
+  url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+  credit: Kling AI
+video: https://static-78.klingai-cdn-aws.com/kling-blog/presigned_url/29736974-c5c6-46d2-a9af-ec0413fb74ef_kling_20260204_作品_多镜头_一位中年男子_5210_1.mp4
+inputs:
+- https://static--52.klingai-cdn-aws.com/kling-blog/file_by_url/4a06a8651731e50c212477bcb626257d4e1ba3576eb48ff57aa077cd6a5d9d4f.png
+notes:
+  en: Accent is named once before the line. The pause between the two sentences is written as an action (`then he looks up`).
+  zh: 口音在台词前点一次。两句话之间的停顿写成动作（`then he looks up`）。
+prompt: |
+  A middle-aged man is ordering food in a Western restaurant. He speaks in English with an Indian accent and says: "excuse me, I would like to order a seafood pasta, and a filet mignon. medium-rare", then he looks up and continues: “And, do you have any drink recommendations?”

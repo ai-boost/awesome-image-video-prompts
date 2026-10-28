@@ -1,0 +1,45 @@
+id: h3-pink-suit-lip-sync-edit
+title:
+  en: Make the man in an existing clip speak, in a borrowed voice
+  zh: 让现成视频里的人开口说话，声音借参考音频
+model: MiniMax H3
+mode: video-edit
+tags:
+- lip-sync
+- voice-reference
+- multi-reference
+- structured-prompt
+- dialogue
+source:
+  name: MiniMax H3 model card
+  url: https://huggingface.co/MiniMaxAI/MiniMax-H3
+  credit: MiniMax
+video: https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/r2va_2k.mp4
+notes:
+  en: 'Edit-mode prompt with six fields. `retention_analysis` says what to keep from each input: the source video fully, its music partly, and only the voice timbre from the second audio clip.'
+  zh: 编辑模式的六字段写法。`retention_analysis` 逐个说明每路输入留多少：原视频全留，原音乐留一部分，第二段音频只借音色。
+prompt: |
+  subject_definitions:
+  <Subject 1> is the young man with short wavy blonde hair, wearing a bright pink suit jacket, matching pink trousers, an unbuttoned white shirt, and silver rings, holding a small black lamb in his arms in <Video 1>.
+  <Video 1> is the source video for the editing task.
+  <Audio 1> is the synchronized audio track of <Video 1>, providing the background music.
+  <Audio 2> is the voice timbre reference for <Subject 1>'s voice, containing a spoken male voiceover.
+
+  summary:
+  [video editing + audio reference + audio reuse] The target video is an edited version of <Video 1>. <Subject 1>, wearing a bright pink suit and holding a black lamb, stands in a grassy field with other white lambs in the background. The edit animates <Subject 1>'s face to speak the user-provided dialogue. <Audio 1> is partially reused as the continuous background music, while the target references the calm male voice timbre of <Audio 2> for <Subject 1>'s spoken lines.
+
+  retention_analysis:
+  <Subject 1> (appears in [Shot 1]): fully_preserved - the man retains his identity, wavy blonde hair, pink suit, white shirt, accessories, and the black lamb he holds, with his mouth newly animated to speak.
+  <Video 1> (source video editing): fully_preserved - the original camera framing, warm golden hour lighting, grassy hill setting, and background white lambs are maintained while the central character is edited.
+  <Audio 1>: partially_copy - the atmospheric background music from <Audio 1> is reused in the target video, mixed beneath the newly added spoken dialogue.
+  <Audio 2>: reference - the target audio references the male voice timbre from <Audio 2> to generate <Subject 1>'s spoken dialogue.
+
+  detailed_description:
+  The target video is in realistic photographic style.
+  [Shot 1] The shot begins from the source <Video 1>, showing <Subject 1>, a young man with short wavy blonde hair, wearing a bright pink suit jacket, matching pink trousers, and a casually unbuttoned white shirt. He stands confidently in a sunlit green pasture, gently holding a small black lamb securely in his arms. The warm, golden hour lighting casts soft shadows across his face and the bright pink fabric of his suit. Behind him, several white lambs stand and graze on the rolling grassy hill against a clear, pale blue sky. The atmospheric background music from <Audio 1> plays continuously throughout the scene. <Subject 1> physically speaks, his mouth movements naturally syncing to the new dialogue, with his voice timbre referencing the calm male delivery from <Audio 2>. Looking thoughtfully forward, <Subject 1> (S1) speaks softly, <d>[English] Follow the wind, live free.</d> As he delivers the line, he subtly shifts his weight, cradling the resting black lamb while the camera slowly pushes in. <Subject 1> (S1) continues his thought, <d>[English] Leave worries behind, enjoy the moment.</d> Exactly as his voice stops, his lips meet in a relaxed, peaceful smile, and his jaw ceases speaking motion. He then turns his gaze slightly away toward the horizon, gently stroking the black lamb's fleece with his fingers as the camera holds on this tranquil, sunlit state through the end of the video.
+
+  overall_soundscape:
+  The soundscape consists of the continuous, atmospheric background music from <Audio 1>, overlaid with the clear, calm male dialogue spoken by the main character, referencing the voice timbre of <Audio 2>.
+
+  non_diegetic_music:
+  The atmospheric, sustained background music from <Audio 1> is reused as the continuous score, playing quietly beneath the spoken dialogue.

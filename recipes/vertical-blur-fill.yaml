@@ -13,8 +13,6 @@ commands: |
     [0:v]scale=1080:-2[fg];
     [bg][fg]overlay=(W-w)/2:(H-h)/2,format=yuv420p" \
     -c:v libx264 -crf 20 -c:a copy vertical.mp4
-output: samples/recipe-vertical-blur-fill.mp4
-preview: previews/recipe-vertical-blur-fill.gif
 notes:
   en: "One ffmpeg call, 1.5 s on an M-series Mac for a 5 s clip. Use it when the subject spans the whole width; crop instead when the subject sits in the centre."
   zh: "一条 ffmpeg 命令，5 秒片在 M 系列 Mac 上 1.5 秒跑完。主体横跨整个画面时用这种填充；主体在正中时直接裁切更好。"
