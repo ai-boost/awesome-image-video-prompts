@@ -30,6 +30,7 @@ T = {
         "tagline": "Copy-ready prompts for the leading AI video and image models, each with its real output and a link to where it came from. "
                    "Plus agent recipes for editing video.",
         "switch": '<b>English</b> · <a href="README_zh.md">简体中文</a>',
+        "gallery": 'Search, filter and copy in the <a href="https://agentcraft.dev/en/prompts/">online gallery</a>',
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
         "contents": "Contents",
         "video": "Video prompts",
@@ -76,6 +77,7 @@ T = {
         "title": "Awesome Image & Video Prompts",
         "tagline": "主流 AI 视频和图片模型的提示词，拿来就能用。每条都附真实成品和出处链接。另有用 Agent 剪视频的配方。",
         "switch": '<a href="README.md">English</a> · <b>简体中文</b>',
+        "gallery": '在<a href="https://agentcraft.dev/zh/prompts/">在线画廊</a>里搜索、筛选、一键复制',
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
         "video": "视频提示词",
@@ -175,7 +177,7 @@ def build(lang, videos, images, recipes):
     ids = {v["id"] for v in videos}
     out = [
         '<div align="center">', "", f'<h1>{t["title"]}</h1>', "", f'<p>{t["tagline"]}</p>', "",
-        f'<p>{t["switch"]}</p>', "",
+        f'<p>{t["switch"]}</p>', "", f'<p>{t["gallery"]}</p>', "",
         '<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>', "",
         "".join(f'<a href="#{i}"><img src="previews/{i}.gif" height="150"></a> ' for i in SHOWCASE if i in ids),
         "", "</div>", "", f'> {t["formerly"]}', "", f'## {t["contents"]}', "",

@@ -6,6 +6,8 @@
 
 <p><a href="README.md">English</a> · <b>简体中文</b></p>
 
+<p>在<a href="https://agentcraft.dev/zh/prompts/">在线画廊</a>里搜索、筛选、一键复制</p>
+
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
 <a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
