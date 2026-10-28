@@ -1,0 +1,40 @@
+id: seedance-coastal-crime-game-livestream-facecam
+title:
+  en: Coastal crime game livestream with streamer facecam
+  zh: 带主播小窗的海滨犯罪游戏直播
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- gameplay
+- livestream
+- hud
+- long-take
+- photorealistic
+source:
+  name: '@QAiStudio on X'
+  url: https://x.com/QAiStudio/status/2099363620325048805
+  credit: QAiStudio
+  captured: '2026-10-28'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/QAiStudio/status/2099363620325048805
+notes:
+  en: A fixed HUD with a facecam locked to a reference image, English chat and a timed beat list give each seconds range one action and one HUD change. A strict rules list caps characters, weapons and endings so the long take stays consistent across the 30 second opening and 15 second continuation.
+  zh: 固定HUD加参考图锁定的右下角主播小窗，配合英文聊天栏和按秒分段的节拍表，每个时间段只写一个动作和一次HUD变化。末尾的严格规则限定角色数量、武器和结局，让30秒开场加15秒续写的长镜头保持一致。
+prompt: |
+  Photorealistic fictional open-world coastal crime-action gameplay livestream, 16:9, one continuous 45-second take split into a 30-second opening plus a seamless 15-second continuation. Fixed full-screen game HUD throughout: bottom-right square pink-blue neon facecam of HANEUL only, matching the supplied reference image exactly; fixed HUD, English-only scrolling live chat on the left, Korean streamer speech only with no subtitles, third-person chase camera, no cuts, no transitions, no scene changes, no duplicate characters.
+
+  0–8s: Player drives a dark muscle car through a neon coastal city at dusk toward a GPS destination; HANEUL is calm and focused in facecam, with engine, city ambience, faint radio, and keyboard/mouse sounds.
+
+  8–15s: At a warehouse, exactly two dark-red-jacket gang enemies emerge from cover, draw pistols, and ambush the player. The player dives behind a car, is visibly grazed, health drops, and wanted level rises to two stars. HANEUL reacts in shocked Korean.
+
+  15–24s: Intense reckless firefight. Player uses one compact SMG; enemies use pistols only. A flanking enemy shatters a nearby car window, bullets dent the car and pop a tire, ammo falls from 38/120 toward 24/120, wanted level reaches three stars, and distant police cruisers appear only in the background.
+
+  24–30s: Player fires five deliberate SMG shots with visible sequential hit reactions; both enemies fall only after being hit. Ammo drops exactly from 24/120 to 14/120. HANEUL remains wide-eyed and tense; police sirens close in.
+
+  30–38s: With both enemies down, the player limps into the damaged muscle car with a shredded tire. Two police cruisers pursue in the background as the car lurches forward on its rim. Health remains critically low and flashing red; wanted level stays at three stars.
+
+  38–45s: Player scrapes through a narrow alley, knocks off both mirrors, and reaches a side street where traffic briefly blocks the police. The wanted level remains flashing at three stars, police lights remain visible in the rearview, and the ending stays unresolved.
+
+  Strict rules: HANEUL appears only in the bottom-right fixed facecam; exactly one player and two gang enemies; no extra armed characters; no full-screen facecam; no subtitles; English-only HUD/chat text; no weapon swaps; no gore; no victory, clean escape, black screen, or end card.
+  #flovacpp #flovaai

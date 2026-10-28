@@ -1,0 +1,29 @@
+id: seedance-italian-restaurant-spaghetti-comedy
+title:
+  en: Animated Italian restaurant spaghetti ketchup comedy
+  zh: 3D动画意大利餐厅番茄酱意面喜剧
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- 3d-animation
+- restaurant
+- comedy
+- multi-shot
+- character-consistency
+source:
+  name: '@Elvorya on X'
+  url: https://x.com/Elvorya/status/2106974836887318797
+  credit: Elvorya
+  captured: '2026-10-28'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Elvorya/status/2106974836887318797
+notes:
+  en: A single arrow-chained shot list moves from wide establishing shot to close-ups, cutaways and a wide payoff within 15 seconds. The style block repeats consistency constraints such as same characters, no flicker and no identity drift.
+  zh: 用箭头串联的分镜清单在15秒内从全景建立镜头推进到特写、插入镜头,再回到全景收尾。风格段重复强调角色一致、无闪烁、无身份漂移等约束。
+prompt: |
+  Create a 15-second high-quality cinematic 3D animated restaurant sequence with expressive stylized characters, warm lighting, detailed environments, smooth character animation, natural comedic reactions, and consistent character appearance throughout.
+
+  Begin with a wide establishing shot inside a cozy Italian restaurant filled with wooden tables, red-and-white checkered tablecloths, framed food artwork, warm pendant lights, brick arches, and customers enjoying their meals → reveal a young man with messy brown hair sitting at a table with a young brunette woman, both waiting for their food while the busy restaurant continues around them → transition into a close-up as the young man gives an enthusiastic thumbs-up while a red ketchup bottle is squeezed dramatically over a plate of spaghetti, creating a playful food moment → cut to the chef in his white chef uniform and tall chef hat standing in the kitchen, reacting with a concerned and confused expression while holding a wooden spoon → transition to a medium shot of a waiter carrying plates through the restaurant as several customers suddenly look toward the commotion with surprised expressions → cut back to the young couple at their table as the chef approaches them holding a ketchup bottle, gesturing animatedly and trying to explain something → show the chef and the young man exchanging confused but humorous expressions while the woman watches curiously → transition into a dramatic close-up of the chef carefully presenting a beautifully plated spaghetti dish topped with tomato sauce, grated parmesan, and fresh basil → cut to an extreme close-up of a fork lifting a large portion of spaghetti, long noodles stretching upward with rich tomato sauce and steam rising from the freshly prepared food → transition back to the table as the young man and woman happily react while the chef proudly stands behind the dish → final shot becomes a warm cinematic wide shot of the restaurant, with the chef smiling proudly between the young couple as they enjoy their spaghetti, surrounding customers laughing and smiling, warm golden restaurant lighting creating a cozy happy ending.
+
+  Style: polished cinematic 3D animation, expressive facial animation, charming family-friendly comedy, detailed character models, realistic food textures, warm Italian restaurant atmosphere, soft depth of field, smooth camera movement, cinematic composition, natural motion, high-quality animated-film rendering, consistent characters and environment throughout, no flickering, no character deformation, no identity drift, no text, no watermark.

@@ -1,0 +1,65 @@
+id: seedance-toddler-fruit-names-classroom
+title:
+  en: Toddler learns fruit names in 3D classroom
+  zh: 3D教室里幼儿认识水果名称
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- 3d-animation
+- kids-education
+- multi-scene
+- voiceover
+- vertical
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2108381024417993043
+  credit: Zarnab_with_Ai
+  captured: '2026-10-28'
+  posted: '2026-10-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2108381024417993043
+notes:
+  en: The prompt splits 20 seconds into eight numbered scenes, each pairing one fruit with one baby reaction and one on-screen word. A closing style block locks character, outfit, camera angle, voiceover and music across all scenes.
+  zh: 提示词把20秒拆成八个编号场景，每个场景只配一种水果、一个宝宝反应和一个屏幕单词。结尾的风格段落统一锁定角色、服装、机位、配音和音乐。
+prompt: |
+  Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling brown eyes, rosy cheeks, soft brown hair, and a white colorful kids' T-shirt sits at a small table in a beautiful preschool classroom. The classroom features pastel-colored walls, rainbow decorations, clouds, stars, colorful toys, pencils, and soft natural sunlight coming through the window.
+
+  Scene 1 – Banana 🍌: A hand gently presents a fresh yellow banana to the baby. She looks at it with curiosity and smiles happily. Display the word “BANANA” in large, colorful, playful 3D letters at the top of the screen, with a banana emoji.
+
+  Scene 2 – Apple 🍎: The hand presents a shiny red apple. The baby opens her mouth in excitement and reaches toward the fruit. Display “APPLE” in bright, multicolored 3D letters.
+
+  Scene 3 – Orange 🍊: A fresh orange is presented. The baby makes a cute surprised expression with her lips forming an O. Display “ORANGE” in bold, colorful letters.
+
+  Scene 4 – Grapes 🍇: Show a bunch of fresh purple grapes on the table. The baby looks down at the grapes and laughs joyfully. Display “GRAPES” in large purple 3D letters.
+
+  Scene 5 – Watermelon 🍉: A hand presents a juicy red watermelon slice with black seeds and green rind. The baby smiles excitedly and points toward it. Display “WATERMELON” in bright, playful letters.
+
+  Scene 6 – Mango 🥭: Present a ripe golden-yellow mango. The baby opens her mouth with excitement and smiles at the fruit. Display “MANGO” in colorful 3D letters.
+
+  Scene 7 – Strawberry 🍓: Show a fresh, bright red strawberry with green leaves. The baby raises her finger happily and smiles. Display “STRAWBERRY” in large, attractive letters.
+
+  Scene 8 – Pineapple 🍍: Present a beautiful golden pineapple with green spiky leaves. The baby claps her hands with delight. Display “PINEAPPLE” in colorful 3D letters.
+
+  Final Scene: The baby looks directly at the camera, smiles warmly, and gives a cute thumbs-up gesture.
+
+  🎨 Visual Style & Animation
+
+  Ultra-cute, high-quality 3D animation with a Pixar-inspired aesthetic.
+
+  Soft, realistic lighting and vibrant pastel colors.
+
+  Adorable facial expressions, natural blinking, and smooth hand movements.
+
+  Keep the same baby character, outfit, classroom, and camera angle throughout.
+
+  Each fruit must be clearly visible and recognizable.
+
+  Display each fruit's English name in large, bold, colorful 3D letters at the top.
+
+  Gentle camera movements, smooth transitions, and cheerful children's background music.
+
+  Add a friendly female voice pronouncing each fruit's English name clearly.
+
+  Vertical 9:16 format, high resolution, suitable for YouTube Shorts and children's educational content.
+
+  No scary elements, no distorted faces, no extra fingers, and no character changes.

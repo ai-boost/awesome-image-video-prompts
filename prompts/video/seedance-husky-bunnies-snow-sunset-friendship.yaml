@@ -1,0 +1,26 @@
+id: seedance-husky-bunnies-snow-sunset-friendship
+title:
+  en: Husky Meets Two Bunnies in Sunset Snow
+  zh: 日落雪山中哈士奇与两只小兔相遇
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- animals
+- snow
+- golden-hour
+- multi-scene
+- photorealistic
+source:
+  name: '@RizwanAly07 on X'
+  url: https://x.com/RizwanAly07/status/2110654938472952253
+  credit: RizwanAly07
+  captured: '2026-10-28'
+  posted: '2026-10-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/RizwanAly07/status/2110654938472952253
+notes:
+  en: Five labeled scenes give a clear beat by beat arc from approach to reveal, and each one names a single camera move such as a low follow, a push in and a slow pull back. A closing block lists fur detail, golden hour light, ambient audio and a negative list against cartoon looks and duplicated animals to keep the animals consistent.
+  zh: 五个带标题的分镜把剧情从靠近到揭示逐拍写清，每个分镜只给一个镜头动作，如低角度跟拍、推近和缓慢拉远。结尾分块写明毛发细节、黄金时刻光线、环境音，并用负面清单排除卡通感和重复动物，以保持动物形象一致。
+prompt: "Create an ultra-realistic cinematic video of a beautiful black-and-white Siberian Husky with striking blue eyes exploring a snowy mountain landscape at sunset. The environment features pristine white snow, snow-covered pine trees, enormous snow-covered rocks, distant blue mountains, and warm golden sunlight illuminating the snow. Every animal must look completely realistic, with detailed fur, natural movements, and believable interactions.\n\nSCENE 1 — THE HUSKY APPROACHES \nA beautiful black-and-white Siberian Husky walks slowly through deep, powdery snow. Its paws sink naturally into the snow, sending tiny snow particles into the air. The camera follows the dog from a low angle as it lowers its head and sniffs the ground curiously. Warm sunset light illuminates its fur.\n\nSCENE 2 — SOMETHING MOVES \nThe Husky suddenly notices movement near a large snow-covered rock. It stops, raises its head, and turns its blue eyes toward the rock. Its ears stand upright, and its nose twitches\
+  \ as it investigates. The camera smoothly moves closer to capture its curious expression.\n\nSCENE 3 — THE SURPRISE \nA tiny, fluffy brown bunny cautiously peeks out from behind the rock. A second, smaller white bunny appears just behind it. Both rabbits have realistic fur, twitching noses, upright ears, and tiny paws. The Husky watches them with curiosity while maintaining a natural, relaxed posture.\n\nSCENE 4 — THE ADORABLE MOMENT \nThe brown bunny hops forward through the fresh snow, followed by the tiny white bunny. The Husky gently lowers its head toward them, sniffing the snow nearby. The rabbits pause and look toward the dog. Their contrasting sizes create a beautiful cinematic composition.\n\nSCENE 5 — THE HEARTWARMING ENDING \nBoth bunnies hop closer to the Husky. The dog remains calm and gently tilts its head, watching their movements with curious blue eyes. The camera slowly pulls back to reveal the three animals together in the glowing snowy landscape, surrounded by majestic\
+  \ mountains and warm sunset light.\n\n\U0001F3A5 Camera & Quality Instructions\n\nPhotorealistic animal fur, eyes, whiskers, paws, and facial expressions.\n\nNatural animal anatomy and believable movement.\n\nSmooth cinematic tracking shots with realistic depth of field.\n\nGolden-hour lighting with cool blue shadows across the snow.\n\nRealistic snow particles, pawprints, and subtle wind.\n\nNatural ambient audio: soft winter wind, paws crunching in snow, and gentle rabbit movements.\n\nNo dialogue, text, subtitles, logos, or watermarks.\n\nNo cartoon appearance, artificial CGI look, distorted anatomy, duplicated animals, or sudden scene transitions.\n\nMaintain consistent animal appearances throughout the entire video.\n"

@@ -1,0 +1,26 @@
+id: h3-french-bulldog-backyard-agility-course
+title:
+  en: French bulldog runs backyard agility course
+  zh: 法国斗牛犬在后院跑敏捷障碍赛
+model: MiniMax H3
+mode: text-to-video
+tags:
+- pets
+- handheld
+- ugc
+- sequence
+- backyard
+source:
+  name: '@cocktailpeanut on X'
+  url: https://x.com/cocktailpeanut/status/2085448660612182507
+  credit: cocktail peanut
+  likes: 50
+  captured: '2026-10-28'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/cocktailpeanut/status/2085448660612182507
+notes:
+  en: Framing the shot as casual handheld footage by the owner in an ordinary backyard gives a natural amateur look. A clear sequence of obstacles (poles, hurdles, tunnel, bell) gives the model precise beats to follow in order.
+  zh: 把画面设定为主人随手拍的后院手持视频，得到自然的素人质感。按顺序列出障碍物（杆、栏、隧道、铃铛），给模型明确的动作节拍。
+prompt: |
+  A casual handheld smartphone video filmed by the dog's owner in an ordinary suburban backyard. A cute, stocky French bulldog excitedly runs through a small homemade agility course, awkwardly weaving between plastic poles, hopping over two low hurdles, scrambling through a short fabric tunnel, and finally bumping a little bell with its nose.

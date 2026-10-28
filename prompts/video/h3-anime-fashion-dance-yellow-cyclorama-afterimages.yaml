@@ -1,0 +1,36 @@
+id: h3-anime-fashion-dance-yellow-cyclorama-afterimages
+title:
+  en: Anime dance film with pink cyan motion trails
+  zh: 动漫舞蹈短片,粉青残影划过柠檬黄背景
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- anime
+- dance
+- fashion-film
+- motion-graphics
+- music-video
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2097001707683119410
+  credit: Kōda
+  likes: 271
+  captured: '2026-10-28'
+  posted: '2026-09-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aimikoda/status/2097001707683119410
+notes:
+  en: A flat lemon yellow cyclorama keeps the frame clean so the cyan and pink afterimages read clearly. The camera moves are scripted as a counterpoint to the choreography, with ankle height skims, a close-up whip, an overhead cut and a hard brake on each pose lock. A tempo of 170 BPM and a ban on slow motion keep the cuts sharp.
+  zh: 纯平柠檬黄背景让青色和粉色残影一目了然。镜头与舞步对位编排:脚踝高度滑行、甩向特写、俯视切换,每个定格处急停。写明 170 BPM 并禁止慢动作,让剪辑保持利落。
+prompt: |
+  15-second experimental anime fashion film. Use @[character reference] for the character’s exact identity, outfit and rendering style. A pristine, uniform lemon-yellow cyclorama with a seamless matte floor. Flat, clean yellow throughout, free of grain, gradients and set dressing. 16:9. No text or logos.
+
+  The character performs one fast, unconventional dance phrase: ankles weave while the torso stays suspended, a wrist flick ripples through both elbows into a chest pop, knees fold into a low corkscrew pivot, then a heel swivel unwinds the body into an off-balance editorial pose. Continue through asymmetric shoulder rolls, angular arm threading around the face and a sideways glide with the head counter-rotating toward the lens. Every sharp lock immediately releases into another surprising movement. Convincing weight, precise foot contact and expressive follow-through.
+
+  Electric cyan and hot pink dominate the motion effects. Bold, opaque silhouette afterimages peel away from opposite sides of the body, replay the previous gesture a fraction late and slam back into alignment on each pose. Arm sweeps stretch them into broad curved ribbons; crossing steps weave pink and cyan trails around the ankles; rapid turns fan out overlapping screen-print impressions. At the strongest accents, oversized cyan and pink cutouts of the current pose slide across the foreground, briefly masking the lens. Keep the real character crisp and recognizable, with clean yellow visible between effect bursts.
+
+  The camera dances in counterpoint: skim backward at ankle height through advancing footwork, whip upward around an outstretched wrist into an extreme face close-up, then use the passing forearm to cut into a rotating overhead view of the low pivot. Dive to a tilted low-angle full-body composition as the character rises. Orbit opposite the sideways glide, exaggerating hands and feet near the wide lens. Accelerate between compositions and brake hard on pose locks.
+
+  Finish with a sudden forward lean toward the lens while enormous pink and cyan echoes continue leaning farther, sweeping past both sides of the camera. Snap wide: the character lands a final asymmetric pose as the colored echoes collapse precisely into the silhouette. Hard cut to black.
+
+  170 BPM broken beat, syncopated accents, fluid animation and razor-fast camera transitions. No slow motion or prolonged holds.

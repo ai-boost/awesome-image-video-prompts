@@ -1,0 +1,64 @@
+id: h3-dragon-cave-emergence-three-shot-takeoff
+title:
+  en: Armoured rider dragon bursts from mountain cave
+  zh: 披甲骑士驭龙冲出山洞腾空而起
+model: MiniMax H3
+mode: text-to-video
+tags:
+- dark-fantasy
+- dragon
+- multi-shot
+- cinematic
+- creature
+source:
+  name: '@MadMax_Series on X'
+  url: https://x.com/MadMax_Series/status/2083855654205186452
+  credit: MadMax
+  likes: 116
+  captured: '2026-10-28'
+  posted: '2026-08-02'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/MadMax_Series/status/2083855654205186452
+notes:
+  en: Locks the dragon and rider design in separate master blocks, then splits the 15 seconds into three timed shots joined by hard cuts. Each shot names its own camera move (backward dolly, side tracking reveal, rear pursuit), and the lighting section keeps the dark cave readable.
+  zh: 先用独立的龙与骑士锁定段固定外形，再把15秒拆成三个带时间段的镜头并用硬切连接。每个镜头单独写明运镜（后拉、侧向跟拍、尾随追拍），光线段保证暗洞中主体依然清晰。
+prompt: |
+  Create a 15-second photorealistic cinematic dark-fantasy sequence in 16:9 widescreen. The video must contain exactly three clearly separated cinematic shots connected by clean hard cuts. No dissolves, morphing transitions or continuous camera orbit.
+
+  MASTER DRAGON LOCK:
+  Show one enormous ancient dragon with a broad powerful body, charcoal-black overlapping scales, subtle dark crimson colouring across its head and neck, two swept-back horns, smaller facial spikes, glowing amber-orange eyes, one long tail and one pair of enormous bat-like wings with dark leathery membranes. The dragon has four legs: two forelegs and two hind legs. Its design, size, horns, colour, anatomy and facial structure remain identical in all three shots. The dragon must feel extremely heavy, ancient and physically realistic.
+
+  MASTER RIDER LOCK:
+  One adult armoured rider is already seated securely in a dark leather saddle on the dragon from the very first frame. The rider wears detailed weathered silver plate armour, dark under-clothing, a fitted medieval helmet with a narrow shadowed visor and a long dark cloak. The rider’s face is never clearly visible. The rider holds leather reins connected to the saddle and remains seated throughout the entire sequence. The rider does not suddenly appear, mount, dismount or change clothing. During the first shot, the rider is naturally hidden behind the dragon’s large head, neck and folded wings.
+
+  ENVIRONMENT AND LIGHTING:
+  The sequence takes place inside a gigantic ancient mountain cave. The cave contains rough black rock walls, enormous stone formations, drifting mist, scattered bones and faint glowing embers between cracks in the ground. The far interior is almost black, but the dragon must remain readable through soft amber reflections and cold blue rim light entering from the cave mouth. The cave entrance opens from a high mountain cliff into a vast dramatic landscape of jagged mountains, deep valleys, distant waterfalls, rolling clouds and pale stormy daylight. Maintain a cinematic cold-blue and muted-amber colour palette with deep shadows, volumetric light rays and realistic atmospheric haze. Dark and mysterious, but never so underexposed that the dragon or rider becomes blurry or invisible.
+
+  SHOT 1 — DRAGON EMERGES, 0–5 SECONDS:
+  Begin with a symmetrical low frontal wide shot positioned near the cave entrance, facing deep into the darkness. The camera slowly tracks backward toward the entrance as the enormous dragon walks forward out of the black cave interior. The dragon’s wings remain completely folded against both sides of its body. Its glowing amber eyes appear first, followed by its horned head, shoulders and powerful forelegs becoming visible through the mist.
+
+  Each heavy footstep shakes the cave floor and dislodges small stones and dust from the ceiling. The dragon exhales dense vapour from its nostrils and releases a deep restrained growl. Its head moves naturally with the weight of each step. The dragon looks directly past the camera toward the cave opening. The rider is already seated but remains hidden behind the dragon’s head and neck. Do not reveal the rider clearly during this shot.
+
+  SHOT 2 — RIDER REVEAL, 5–9 SECONDS:
+  Clean hard cut to a low three-quarter side tracking shot beside the moving dragon. Begin close to the dragon’s horned head and sharply detailed scales. Track smoothly backward along the dragon’s neck and folded wing while the dragon continues walking toward the cave entrance.
+
+  As the camera reaches the dragon’s shoulder, reveal the single armoured rider seated in the saddle between the folded wings. Hold the composition long enough to clearly show the rider’s silver armour, helmet, dark cloak and both hands gripping the reins. The rider looks toward the bright cave exit and leans slightly forward in preparation for takeoff. The dragon and rider remain in continuous forward motion. Do not show a separate rider anywhere else in the cave.
+
+  SHOT 3 — REAR TAKEOFF AND FLIGHT, 9–15 SECONDS:
+  Clean hard cut to an epic wide rear view positioned behind and slightly above the dragon and rider. The bright cave mouth and vast mountain landscape fill the background ahead of them. The dragon accelerates into a powerful run toward the cave opening while its wings remain folded enough to pass safely through the cave.
+
+  The dragon reaches the cliff edge and makes one forceful leap completely out of the cave. Only after clearing the rock opening, it spreads both enormous wings to their full symmetrical width. The sudden wing expansion pushes mist, dust and loose stones outward from the cave entrance. The rider leans forward, grips the reins and remains firmly attached to the saddle.
+
+  The dragon performs one enormous downward wingbeat, catches the air and transitions naturally into stable forward flight. Loose stones fall from the cliff beneath it. The camera rapidly follows from behind as the dragon and rider soar away over the deep valley between jagged mountain peaks. The long tail streams naturally behind the dragon and the rider’s cloak whips in the wind. End on a majestic wide rear silhouette of the dragon flying into the open mountain landscape as sunlight breaks through the storm clouds.
+
+  CAMERA AND MOTION:
+  Premium cinematic camera movement with realistic scale and parallax. Shot one is a controlled backward dolly. Shot two is a smooth low side-tracking reveal. Shot three is a dynamic rear pursuit shot that follows the takeoff out of the cave. Use natural motion blur only during the leap and wingbeat. Keep the dragon’s movement heavy on the ground and powerful but graceful in the air. No shaky chaotic framing and no extreme close-ups that obscure the action.
+
+  CINEMATIC QUALITY:
+  Big-budget photorealistic dark-fantasy visual effects, highly detailed scales and armour, realistic creature muscles beneath the skin, physically accurate wing membranes, believable foot contact, convincing dust and falling-rock physics, volumetric cave mist, dramatic rim lighting, strong depth, atmospheric perspective and stable character consistency.
+
+  AUDIO:
+  No dialogue and no music. Deep dragon breathing, restrained growl, heavy echoing footsteps, claws scraping stone, armour movement, leather saddle creaking, falling pebbles, rushing cave wind, powerful wingbeat and a deep dragon roar as it enters open air.
+
+  STRICT CONSISTENCY:
+  Exactly one dragon and one rider. The rider is seated on the dragon from the beginning and never disappears. No additional people, dragons or creatures. No dragon transformation or colour change. No extra heads, horns, tails, wings, legs or riders. The wings remain folded inside the cave and open only after the dragon has completely cleared the cave mouth. The wings must not clip through the cave walls. The rider must not float above the saddle or merge into the dragon. No fire breathing, combat, dialogue, text, logos, blood or visible injuries.

@@ -1,0 +1,79 @@
+id: veo-potato-farm-to-chip-commercial
+title:
+  en: Potato morphs into a snapping chip at sunrise
+  zh: 日出农田里土豆变成脆片的广告
+model: Veo 3.1
+mode: text-to-video
+tags:
+- food-commercial
+- macro
+- morph-transition
+- json-prompt
+- storyboard
+source:
+  name: '@Fujimoto_hina on X'
+  url: https://x.com/Fujimoto_hina/status/2094644333882540334
+  credit: Aegon
+  likes: 282
+  captured: '2026-10-28'
+  posted: '2026-09-01'
+video: https://x.com/Fujimoto_hina/status/2094644333882540334
+notes:
+  en: A JSON storyboard splits ten seconds into four timecoded scenes, each with its own shot type, action and lighting. Seamless morph transitions carry the potato from soil to sliced vortex to chip, ending on a macro slow motion snap, and a negative prompt keeps text and logos out.
+  zh: 用JSON把十秒拆成四个带时间码的分镜，每段写明镜头类型、动作和光线。无缝变形把土豆从泥土带到切片旋涡再到脆片，结尾用微距慢动作掰断，并用负面提示排除文字和标志。
+prompt: |
+  {
+    "commercial_specifications": {
+      "title": "Farm to Table: Potato Chip Transformation",
+      "duration_seconds": 10,
+      "aspect_ratio": "16:9",
+      "resolution": "4K",
+      "style": "Cinematic photorealistic premium food commercial",
+      "lighting": "Cinematic golden hour sunrise, warm highlights",
+      "depth_of_field": "Shallow depth of field with high-speed macro focus",
+      "audio_visual_notes": "No text, no logos, hyper-realistic physics"
+    },
+    "storyboard_timeline": [
+      {
+        "timecode": "00:00 - 00:02",
+        "scene": "The Origin",
+        "shot_type": "Close-up pushing in rapidly",
+        "action": "A single raw, fresh potato rests in rich, dark soil at sunrise, lightly coated with fine earth particles. Sunlight filters dynamically through overhead foliage.",
+        "lighting_atmosphere": "Warm morning glow, soft sun flare"
+      },
+      {
+        "timecode": "00:02 - 00:05",
+        "scene": "The Dynamic Transformation",
+        "shot_type": "Dynamic tracking / High-speed aerial follow",
+        "action": "The potato bursts upward from the earth and spins mid-air. In a seamless morph, it sheds its skin and cleanly slices into translucent raw potato rounds swirling in a tight spiral vortex.",
+        "physics_effects": "Particle burst of soil, aerodynamic slice trajectory"
+      },
+      {
+        "timecode": "00:05 - 00:08",
+        "scene": "The Crisp & Flight",
+        "shot_type": "Continuous smooth orbital tracking",
+        "action": "The swirling slices flash-cook into a single perfect, undulating golden-brown potato chip with crisp ruffled edges. The camera tracks alongside the chip as it glides toward a rustic styled wooden dining table.",
+        "visual_details": "Glistening oil sheen, fine salt crystals catching the light"
+      },
+      {
+        "timecode": "00:08 - 00:10",
+        "scene": "The Hero Landing & Snap",
+        "shot_type": "Ultra-macro high-speed slow motion",
+        "action": "The golden chip lands gently beside an artisanal bowl overflowing with freshly prepared chips. In extreme close-up, the hero chip snaps cleanly in half, releasing delicate airy crumb particles in slow motion.",
+        "texture_focus": "Micro-blisters on chip surface, crisp fracture, golden translucence"
+      }
+    ],
+    "prompt_parameters": {
+      "camera": "Dynamic push-in to orbital tracking to high-speed macro slow motion",
+      "render_qualities": [
+        "Photorealistic textures",
+        "Cinematic sunrise lighting",
+        "Shallow depth of field",
+        "Realistic physics",
+        "Seamless morph transitions",
+        "Warm golden highlights",
+        "Ultra-detailed 4K"
+      ],
+      "negative_prompt": "text, watermark, logo, blurry, low resolution, cartoon, plastic texture, unrealistic movement, jerky cuts"
+    }
+  }

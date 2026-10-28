@@ -1,0 +1,26 @@
+id: h3-burger-exploded-stack-macro-commercial
+title:
+  en: Exploded burger stack macro food commercial
+  zh: 汉堡分层悬浮微距美食广告
+model: MiniMax H3
+mode: text-to-video
+tags:
+- food
+- commercial
+- macro
+- kinetic-typography
+- portrait
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2094279178602283013
+  credit: Kōda
+  likes: 234
+  captured: '2026-10-28'
+  posted: '2026-08-31'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aimikoda/status/2094279178602283013
+notes:
+  en: Opens on an extreme macro of the bun, then pulls back into an exploded vertical stack with each ingredient named in order. Camera moves, speed ramps, kinetic typography and light direction are all stated, and swapping the food adapts it.
+  zh: 从面包的极致微距开场，再拉远成竖向分层悬浮的汉堡，并按顺序点名每一层食材。运镜、变速、动态字体和光线方向都写明，替换食物即可复用。
+prompt: |
+  Create a high-end cinematic burger commercial in portrait format, designed like a premium restaurant campaign.  Open on an extreme macro shot of a golden toasted bun, revealing tiny bake-specks, soft flour dusting and rich surface texture under warm directional light. The camera glides smoothly across the bun, then pulls back as the burger ingredients separate into a perfectly aligned exploded stack above a matte wooden tabletop.  The full burger floats on a single vertical axis: toasted top bun, crisp ruffled lettuce, glossy tomato slices, translucent purple-red onion rings, melted cheddar, a thick char-grilled beef patty and toasted bottom bun. Each layer moves with elegant controlled motion, subtle rotation and realistic weight.  Use premium food-commercial camera movement throughout: macro tracking shots, smooth dolly pushes, slow orbital moves, shallow-focus passes between ingredients and precise rack focuses. Add occasional speed ramps into slow-motion beauty moments. Let tiny crumbs, droplets and subtle steam move through the light for additional depth.  Integrate bold hand-lettered white typography directly into the composition. Words appear between the floating burger layers, following the camera movement with kinetic typography. Letters can slide behind ingredients, reveal through depth, stretch slightly during transitions and lock cleanly into place. Add minimal white doodle strokes and graphic accent lines that animate around key ingredients.  Lighting is luxurious and appetizing: soft directional key from upper-left, controlled fill, warm highlights, deep dimensional shadows and glossy specular detail on tomato, cheese and meat. Background is a refined warm brown gradient with subtle cinematic falloff.  Build toward a final satisfying moment where all ingredients rapidly assemble into one perfect burger. The camera performs a fast controlled push-in, then settles into a polished hero shot. Steam rises gently from the patty, cheese settles over the edges and the typography resolves beside the burger.  Final frame: centered premium burger hero shot, clean composition, elegant white campaign typography and subtle animated graphic accents.  Visual style: luxury food advertising, modern restaurant campaign, cinematic macro photography, rich warm tones, high contrast, shallow depth of field, highly detailed food textures, sophisticated motion design, premium typography, smooth dynamic camera choreography, polished commercial finish.

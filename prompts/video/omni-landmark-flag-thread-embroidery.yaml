@@ -1,0 +1,27 @@
+id: omni-landmark-flag-thread-embroidery
+title:
+  en: Eiffel Tower stitched in French flag threads
+  zh: 法国国旗色丝线绣出埃菲尔铁塔
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- embroidery
+- macro
+- timelapse
+- landmark
+- template
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2094066231997354159
+  credit: TechieSA
+  likes: 276
+  captured: '2026-10-28'
+  posted: '2026-08-29'
+video: https://x.com/TechieBySA/status/2094066231997354159
+notes:
+  en: A single [LANDMARK] slot makes the prompt reusable, and the thread moves on its own with no hands in frame. A locked extreme macro shot, side light, shallow depth of field and a steady timelapse pace keep the growing stitched area as the only motion.
+  zh: 只留一个 [LANDMARK] 占位符，提示词可以反复套用，并明确画面里没有手，丝线自行移动。极端微距固定机位、侧光、浅景深和平稳的延时节奏，让不断增长的绣面成为画面里唯一的运动。
+prompt: |
+  Simply replace [LANDMARK]:✨
+
+  “Extreme macro shot of woven cotton shirt fabric, empty at first. Colored embroidery threads rise from the surface and weave themselves into place, laying down tight satin stitches row by row, tracing out a detailed [LANDMARK] in its country flag colors. The stitched area grows steadily across the frame, thread pulling taut and raising into dimensional embroidered texture, colors and defining features building up stitch by stitch until the full landmark is complete and clearly recognizable. Camera holds steady, slow satisfying timelapse pace. Soft natural side light, shallow depth of field, visible fabric fibers and realistic thread sheen. No hands, thread moves on its own. One shot no scene change. 5 second video. 16:9 dimension.”

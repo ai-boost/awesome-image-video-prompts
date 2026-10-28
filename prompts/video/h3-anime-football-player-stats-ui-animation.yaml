@@ -1,0 +1,41 @@
+id: h3-anime-football-player-stats-ui-animation
+title:
+  en: Anime football player stats screen animating in
+  zh: 动漫足球球员属性界面动画开场
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- ui-animation
+- game-ui
+- anime
+- sports
+- reference-image
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2086122377633575169
+  credit: Kōda
+  likes: 707
+  captured: '2026-10-28'
+  posted: '2026-08-08'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aimikoda/status/2086122377633575169
+notes:
+  en: A GPT Image 2 generated stats screen is the sole reference, and the prompt tells the model to animate it without redesigning it. A second by second timeline covers the scanner reveal, counting score, bar fills and final hold, with a locked camera and an audio line for boot hum and confirmation tones.
+  zh: 以 GPT Image 2 生成的属性界面作为唯一参考，并要求只做动画不重新设计。提示词按秒划分扫描揭示、分数计数、属性条填充和最终定格，镜头锁定，并写明启动嗡鸣与确认提示音。
+prompt: |
+  @[ref img] is the sole visual authority for Kaze, the football, the complete player-stats interface, typography, numbers, icons, colors, lighting, layout, and vertical composition. Animate this exact screen without redesigning it. Preserve all existing labels and final stat values.
+  [Goal]
+  Create a polished 15-second anime sports-game player stats screen opening. Use one continuous, locked, straight-on full-screen composition with no camera movement, cuts, cropping, or perspective distortion.
+
+  [Sequence]
+  0–2.2 seconds: Begin from near-black teal. A faint horizontal scanner passes downward, revealing Kaze’s silhouette and the outer edges of the interface. Fine particles and dim mint circuitry flicker awake.
+  2.2–5.5 seconds: The header, KAZE nameplate, role badge, level panel, and overall panel resolve through clean line-draw animations. Kaze emerges fully from shadow, takes a controlled breath, subtly shifts her shoulders and raised arm into the referenced pose, then fixes an intense gaze toward the viewer. Her hair, ribbons, and loose clothing react naturally to a growing current of wind. The football begins a slow, stable rotation beside her hand.
+
+  5.5–10.8 seconds: The large overall score counts rapidly upward and lands precisely on 92. The level settles on 46. Each attribute bar fills smoothly from left to right in sequence—Speed 93, Power 91, Control 88, Stamina 90, Agility 94, Technique 89—each landing with a restrained mint pulse. The radar chart draws outward from its center and locks into the exact final polygon. Skill cards activate from top to bottom; their icons flare briefly while the ACTIVE and ULTIMATE states illuminate.
+  10.8–13.3 seconds: The player ID strip and bottom navigation fade and slide into their exact final positions. The wind energy around Kaze accelerates clockwise, wrapping around the rotating ball and sweeping behind her body with layered luminous trails. Kaze tightens her hand, leans slightly into the current, and gives one natural blink; preserve her identity, anatomy, costume, and right-side placement.
+
+  13.3–15 seconds: The energy arc reaches a bright controlled crest, then settles into a living idle pulse. Hold the fully assembled screen matching @[ref img] exactly. Kaze continues subtle breathing; hair and ribbons drift, the football rotates slowly, particles shimmer, and all stats remain stable and readable.
+
+  Use crisp premium game-UI motion, clean 2D anime character animation, subtle depth between Kaze and the interface, and stable legible typography. Keep every panel, icon, label, number, and geometric boundary fixed once revealed. Do not introduce new text, extra characters, additional objects, logos, captions, or UI elements.
+
+  Audio: low electronic boot hum, delicate scanning ticks, short confirmation tones as values lock, rising airy wind around the ball, soft cloth movement, and one refined completion chime. No dialogue and no music.

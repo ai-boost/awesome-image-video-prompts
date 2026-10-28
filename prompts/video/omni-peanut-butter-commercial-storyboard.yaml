@@ -1,0 +1,68 @@
+id: omni-peanut-butter-commercial-storyboard
+title:
+  en: Peanut Butter Jar Commercial With Macro Shots
+  zh: 花生酱罐装商业广告微距分镜
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- product-commercial
+- food
+- storyboard
+- macro
+- asmr
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2095104027667177825
+  credit: M-studioAi
+  likes: 315
+  captured: '2026-10-28'
+  posted: '2026-09-01'
+video: https://x.com/Strength04_X/status/2095104027667177825
+notes:
+  en: The prompt breaks a 20 second spot into eight numbered scenes, each with a duration, camera direction, action and product detail. A separate camera line (extreme macro, slow motion spread, overhead, push in) and a style line on viscosity and warm light keep the food texture realistic.
+  zh: 提示词把20秒广告拆成八个编号场景，每个场景都写明时长、镜头方向、动作和产品细节。单独的镜头行（极致微距、慢动作涂抹、俯拍、推镜）加上强调黏稠质感与暖光的风格行，让食物质感更真实。
+prompt: |
+  Premium Peanut Butter Product Commercial Storyboard
+
+  FORMAT:
+  • Single-page premium storyboard
+  • 3:4 Portrait ratio
+  • Gourmet breakfast product campaign
+  • 8 cinematic product-focused scenes
+  • Product remains the main hero
+  • Luxury advertising presentation
+
+  HEADER:
+  • Elegant serif typography
+  • Information cards:
+    - Duration: 20 Seconds
+    - Style: Gourmet Food Commercial
+    - Product: Creamy Peanut Butter
+    - Audio: Spoon Scrape + Soft ASMR
+  • Why This Style Works section
+  • Warm beige, caramel and brown aesthetic
+  • Minimal peanut-inspired decorative elements
+
+  STORYBOARD:
+  1. Peanut butter jar positioned on a premium stone surface with whole peanuts around it
+  2. Jar lid being removed, revealing perfectly smooth peanut butter
+  3. Spoon entering the jar in an extreme macro shot
+  4. Thick peanut butter slowly lifting from the spoon in a long creamy ribbon
+  5. Peanut butter spreading smoothly across warm toasted bread
+  6. Roasted peanuts falling around the jar in slow motion
+  7. Extreme macro showing creamy texture with tiny peanut particles
+  8. Final hero jar beside toast and scattered roasted peanuts
+
+  EVERY PANEL:
+  • Scene number
+  • Duration badge
+  • Camera direction
+  • Visual
+  • Action
+  • Product detail
+
+  CAMERA:
+  Extreme macro, slow-motion spread, overhead composition, creamy texture close-up, controlled ingredient drop, smooth product push-in.
+
+  STYLE:
+  Ultra-realistic food photography, rich creamy texture, realistic viscosity, roasted peanut details, warm natural lighting, premium glass packaging, sophisticated breakfast advertising, 8K.

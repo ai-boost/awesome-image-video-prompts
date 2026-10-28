@@ -1,0 +1,129 @@
+id: h3-forest-walk-three-segment-chained-dialogue
+title:
+  en: Two women meet on a forest trail
+  zh: 两个女人在森林小径相遇同行
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- chained-segments
+- dialogue
+- forest
+- tracking-shot
+- character-consistency
+source:
+  name: '@EndFolding79421 on X'
+  url: https://x.com/EndFolding79421/status/2102448683245502844
+  credit: FoldingEnd A.I.
+  likes: 149
+  captured: '2026-10-28'
+  posted: '2026-09-22'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/EndFolding79421/status/2102448683245502844
+notes:
+  en: Each 5 second segment repeats subject definitions, a retention analysis and timed beats, with dialogue pinned to exact timestamps. Later segments open with a continue the existing shot instruction that restates camera height, pace and lighting, so the cuts between clips stay seamless.
+  zh: 每段5秒都重复主体定义、保留分析和分时段节拍，台词精确锁定到时间点。后续片段以延续现有镜头开头，并重申机位高度、步速和光线，让片段之间衔接自然。
+prompt: |
+  ==============================
+  SEGMENT 1 — SHOT (5 SECONDS)
+  ==============================
+
+  subject_definitions:
+  <Subject 1> is Grace, whose face, hair, body and outfit come entirely from <Picture 1>.
+
+  summary:
+  [reference generation] Grace walks alone through a forest, looking for someone.
+
+  retention_analysis:
+  Grace: fully_preserved - identical face, hair, body and clothing.
+
+  detailed_description:
+  [Shot 1] Realistic cinematic live-action, 16:9. A continuous medium tracking shot facing Grace as she walks along a forest trail. Natural overcast daylight.
+
+  00:00-00:02:
+  Grace walks toward the camera at a relaxed pace, looking slightly irritated. The camera tracks backward, keeping her waist-up.
+
+  At 00:02.000:
+  [speaking, English, young woman, slight Southern accent, irritated]
+  "Where the hell is she?"
+
+  00:03-00:05:
+  Grace continues walking at the same pace, looking ahead. The camera maintains its position and distance. She is still walking at the end.
+
+  overall_soundscape:
+  Natural footsteps, forest ambience and dialogue.
+
+  non_diegetic_music:
+  N/A
+
+  ==============================
+  SEGMENT 2 — CONTEXT (5 SECONDS)
+  ==============================
+
+  subject_definitions:
+  <Subject 1> is Grace, whose appearance comes from <Picture 1>.
+  <Subject 2> is Linda, whose appearance and clothing come entirely from <Picture 2>.
+
+  summary:
+  [reference generation] Grace continues walking. Linda enters from offscreen and joins Grace. Both women walk together.
+
+  retention_analysis:
+  Grace: fully_preserved.
+  Linda: fully_preserved - identical appearance and clothing from <Picture 2>.
+
+  detailed_description:
+  [Shot 1] Continue the existing cinematic tracking shot, matching the previous camera position, movement and lighting.
+
+  00:00-00:03:
+  Grace continues walking at exactly the same pace. The camera tracks backward at the same height and distance. No changes to the existing scenery or lighting.
+
+  00:03-00:05:
+  Linda walks naturally into frame from the side and joins Grace, matching her walking speed.
+
+  At 00:03.500:
+  [Linda speaking, English, young woman, warm conversational voice, playful]
+  "Looking for me?"
+
+  Both women remain in frame, still walking together as the segment ends.
+
+  overall_soundscape:
+  Continuous footsteps, forest ambience and natural dialogue.
+
+  non_diegetic_music:
+  N/A
+
+  ==============================
+  SEGMENT 3 — CONTEXT (5 SECONDS)
+  ==============================
+
+  subject_definitions:
+  <Subject 1> is Grace, from <Picture 1>.
+  <Subject 2> is Linda, from <Picture 2>.
+
+  summary:
+  [reference generation] Grace and Linda continue walking together, exchanging a short conversation.
+
+  retention_analysis:
+  Grace and Linda: fully_preserved - consistent faces, hair, clothing and body proportions.
+
+  detailed_description:
+  [Shot 1] Continue the existing uninterrupted cinematic tracking shot. Both women remain visible, walking side by side.
+
+  00:00-00:02:
+  Both women continue walking at the same speed. Maintain their positions, camera distance, lighting and natural movement.
+
+  At 00:02.000:
+  [Grace speaking, English, same slight Southern accent, curious and irritated]
+  "Where have you been?"
+
+  At 00:03.500:
+  [Linda speaking, English, same warm conversational voice, amused]
+  "Long story."
+
+  00:04-00:05:
+  Grace gives Linda an annoyed sideways glance. Linda smiles slightly. Both continue walking naturally.
+
+  overall_soundscape:
+  Continuous footsteps, forest ambience and natural dialogue.
+
+  non_diegetic_music:
+  N/A

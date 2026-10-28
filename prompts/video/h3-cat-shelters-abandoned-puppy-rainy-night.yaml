@@ -1,0 +1,28 @@
+id: h3-cat-shelters-abandoned-puppy-rainy-night
+title:
+  en: Cat shelters abandoned puppy in rainy cardboard box
+  zh: 雨夜纸箱里猫咪守护被遗弃的小狗
+model: MiniMax H3
+mode: text-to-video
+tags:
+- animals
+- storytelling
+- emotional
+- rain
+- narrative-arc
+source:
+  name: '@ZarnishNael on X'
+  url: https://x.com/ZarnishNael/status/2112189056817787267
+  credit: Zarnish
+  likes: 101
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ZarnishNael/status/2112189056817787267
+notes:
+  en: 'The prompt is a short story told as a chronological arc: meeting, storm, next morning, scavenging, sunset. A named animal protagonist gives the model a consistent subject. Each beat states an emotional shift, so the 15s clip can carry a full narrative.'
+  zh: 提示词按时间顺序写成一个短故事：相遇、暴雨、清晨、觅食、日落。给动物主角起名让主体保持一致，每个段落都写明情绪变化，所以 15 秒的片段能装下完整叙事。
+prompt: |
+  Popo, a cat, finds a puppy abandoned in a cardboard box under the eaves. At first, Popo acts cold and indifferent, but when heavy rain begins, the cat bravely shields the puppy from the storm and spends the night keeping it warm beneath its belly.
+
+  By the next morning, a bond has formed between them. They begin facing the harsh life of stray animals together—Popo suppressing its own hunger to give the puppy its prey, even sneaking into a supermarket in search of food. Eventually, with the kindness and help of people around them, the two manage to get something to eat. As they cuddle together beneath the setting sun, they develop a deep and genuine bond that transcends species.

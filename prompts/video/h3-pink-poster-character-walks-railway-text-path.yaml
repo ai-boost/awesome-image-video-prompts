@@ -1,0 +1,54 @@
+id: h3-pink-poster-character-walks-railway-text-path
+title:
+  en: Character walks through pink poster with railway text path
+  zh: 角色走过粉色海报中的铁路线文字路径
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- typography
+- commercial
+- tracking-shot
+- text-interaction
+- transition
+source:
+  name: '@taya_mama_AI on X'
+  url: https://x.com/taya_mama_AI/status/2096612096003965254
+  credit: た〜や｜スキマ時間×AI副業ママ
+  likes: 417
+  captured: '2026-10-28'
+  posted: '2026-09-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/taya_mama_AI/status/2096612096003965254
+notes:
+  en: A single reference poster supplies the text, and the prompt tells the model to treat each word as a physical object the walking character taps, ducks under or steps around. A railway style line links the text in reading order, a side tracking camera keeps the scroll continuous, and a foreground blur wipe hands off to the logo ending.
+  zh: 用一张参考海报提供文字，提示词要求角色把每个文字当作真实物体，边走边点触、低头躲避或侧身绕开。铁路线式的连线按原顺序串起文字，侧向跟拍保持连续横移，结尾用前景模糊遮挡转场切到标志画面。
+prompt: |
+  Commercial film.
+
+  Maintain the initial background color throughout the sequence.
+
+  The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+
+  Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+
+  As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+
+  A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+
+  The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+
+  Do not repeat or duplicate any text.
+
+  Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+
+  Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+
+  For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+
+  As the foreground object clears the frame, seamlessly reveal the final logo screen.
+
+  Camera movement should be smooth, dynamic, and cinematic.
+
+  Prioritize the interaction between the character and the text / graphic elements above everything else.
+
+  BGM: Up-tempo, rhythmic music with a strong beat.

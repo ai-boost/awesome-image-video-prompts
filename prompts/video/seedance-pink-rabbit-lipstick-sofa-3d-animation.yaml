@@ -1,0 +1,29 @@
+id: seedance-pink-rabbit-lipstick-sofa-3d-animation
+title:
+  en: Two fluffy rabbits play with lipstick on sofa
+  zh: 两只毛绒兔子在沙发上玩口红
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- 3d-animation
+- animals
+- cute
+- comedy
+- pixar-style
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2099683790717325390
+  credit: Zarnab_with_Ai
+  captured: '2026-10-28'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2099683790717325390
+notes:
+  en: Each rabbit is fixed by outfit and color so the two characters stay distinct, then a short action chain runs from lipstick to tumbling to hiding under a blanket. A closing list of lighting, lens and style cues such as shallow depth of field and a Pixar style finish sets the look.
+  zh: 用服饰和颜色固定两只兔子的形象，避免角色混淆，再用从涂口红到翻滚再到躲进毯子的连续动作串起情节。结尾罗列光线、镜头和皮克斯风格等关键词来定下画面质感。
+prompt: |
+  Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy beige sofa in a warm modern living room. One rabbit wears a blue shirt and a small golden bunny necklace, while the other is soft pink with a large pink bow and a heart-shaped necklace.
+
+  The pink rabbit applies lipstick while making funny, confident expressions. She then playfully interacts with the other rabbit, who has pink lipstick kiss marks all over its face and ears. They cuddle, laugh, and playfully tumble together on the sofa. At one point, they hide under a soft beige blanket decorated with pink lipstick kiss marks, then pop back out laughing and hugging each other.
+
+  Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.

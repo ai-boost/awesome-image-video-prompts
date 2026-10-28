@@ -1,0 +1,45 @@
+id: seedance-hammock-motorcycle-wash-dv-home-video
+title:
+  en: Hammock Nap and Motorcycle Wash in Early 2000s DV
+  zh: 千禧年初家用DV：吊床小憩与洗摩托车
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- dv-home-video
+- timeline
+- handheld
+- lo-fi
+- ambient-audio
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2099836703729172540
+  credit: doctorwasif
+  captured: '2026-10-28'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2099836703729172540
+notes:
+  en: A reference image locks identity and outfit, while a nine beat timeline in three to four second slices sets each action. Style is pushed toward raw consumer DV with a ban list (no stabilization, no glamour) and an ambience only audio line.
+  zh: 用参考图锁定人物与服装，再用九段三到四秒的时间轴逐段安排动作。风格靠消费级DV质感加禁用清单（无防抖、无美颜、无电影调色）来压住，声音只保留环境音。
+prompt: |
+  Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. Southeast Asian appearance with subtle Korean styling: olive-green faded sleeveless crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, black wavy hair, side-swept bangs, messy ponytail.
+
+  Setting: Quiet early-2000s Southeast Asian residential neighborhood—concrete alley, simple homes, terraces, trees, plants, parked motorcycles, tangled overhead cables. No shops.
+
+  Style: Raw early-2000s consumer DV/home-video footage. Heavy handheld shake, imperfect framing, autofocus hunting, lens breathing, exposure shifts, rolling shutter, natural motion blur, faded low-contrast colors, washed highlights, digital noise/compression. No stabilization, beauty filters, cinematic grading, glamour, or posing.
+
+  Timeline:
+
+  - 00–03: Relaxing in a hammock between trees, dappled sunlight.
+  - 03–07: Uses an old Nokia phone, presses keypad, subtle smile; focus hunts.
+  - 07–10: Lazily stretches in hammock, phone on stomach, looks at canopy.
+  - 10–13: Gets up, pockets phone, walks across yard.
+  - 13–16: Crouches beside motorcycle, picks up soapy water and rag.
+  - 16–20: Slowly cleans helmet; water drips onto concrete.
+  - 20–24: Cleans motorcycle seat, briefly smiles at camera.
+  - 24–27: Rinses and wrings rag over bucket.
+  - 27–30: Wipes hands on jeans, looks at camera and softly smiles; abrupt cut to black.
+
+  Audio: Natural ambience only—birds, breeze, distant motorcycles, chatter, hammock creaks, Nokia keypad clicks, leaves, water, and rag sounds. No music or cinematic effects.
+
+  Format: 16:9.

@@ -1,0 +1,114 @@
+id: seedance-gym-day-selfie-vlog-60-seconds
+title:
+  en: Sixty second selfie vlog of a gym day
+  zh: 六十秒健身日自拍日常vlog
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- vlog
+- selfie
+- day-in-the-life
+- timed-scenes
+- diegetic-sound
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2089569072526823464
+  credit: ZaraIrahh
+  captured: '2026-10-28'
+  posted: '2026-08-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZaraIrahh/status/2089569072526823464
+notes:
+  en: The prompt splits sixty seconds into timed scenes, each with its own action, spoken line and diegetic sound. A fixed selfie viewpoint, authentic phone imperfections and a ban on music and captions keep the footage realistic and the face consistent.
+  zh: 提示词把六十秒拆成带时间码的场景，每段写明动作、台词和现场环境声。固定的手持自拍视角、手机画质瑕疵，以及禁用音乐和字幕的要求，让画面真实、人脸前后一致。
+prompt: |
+  Create a 60-second realistic day-in-the-life gym vlog following the same young Korean woman in her early twenties from waking up at home, getting ready, going to the gym, working out, and returning home.
+
+  Overall visual style
+
+  One continuous handheld front-facing smartphone selfie vlog perspective. She always films herself with the phone in her own hand at arm’s length. No third-person camera, tripod, cinematic camera movements, drones, or external filming.
+
+  Make everything look like authentic modern smartphone footage:
+
+  - Natural handheld shake and small framing imperfections
+  - Realistic walking movement and occasional autofocus hunting
+  - Minor exposure changes
+  - Natural front-camera lens distortion
+  - Soft natural morning light indoors and outdoors
+  - Realistic, unfiltered smartphone colors
+  - No beauty filter, skin smoothing, or cinematic color grading
+  - Same face and hair throughout the entire vlog
+  - Natural expressions, movements, and body language
+  - No subtitles, captions, logos, watermarks, or on-screen text
+  - No background music; use only natural diegetic sound
+
+  0–10 sec — Waking up
+
+  She wakes up in her cozy bedroom wearing a cute, loose casual night suit. She grabs her phone from beside the bed and immediately starts filming herself selfie-style. She looks sleepy, messy-haired, and slightly tired, gives a small yawn, stretches, and smiles at the camera.
+
+  She quietly says:
+
+  “Good morning… I really don’t feel like going to the gym today.”
+
+  She gets out of bed and walks toward the bathroom while holding the phone herself.
+
+  10–18 sec — Brushing teeth
+
+  In the bathroom, she films herself in the mirror/selfie view while brushing her teeth. Keep it casual and imperfect, with realistic bathroom ambience and running-water sounds.
+
+  She briefly looks into the camera with a sleepy expression, then rinses her mouth and smiles.
+
+  She says:
+
+  “But I promised myself I’d go, so… let’s do it.”
+
+  18–27 sec — Getting ready
+
+  Quick natural transition back to her bedroom. She changes from her night suit into a stylish but realistic gym outfit: fitted athletic top, high-waisted leggings or comfortable athletic bottoms, clean sneakers, and minimal accessories.
+
+  Show short selfie moments of her fixing her hair, adjusting her gym outfit, grabbing a water bottle and gym bag.
+
+  She looks into the phone and says:
+
+  “Okay, now I actually look ready.”
+
+  27–35 sec — Going to the gym
+
+  She leaves home with the phone in her hand. Film brief selfie moments while walking outside and naturally bouncing with her steps. Show quick glimpses of the street, morning traffic, buildings, and her gym bag.
+
+  She arrives at the gym and turns the phone slightly to show the entrance before bringing it back to her face.
+
+  Natural street and gym ambience only.
+
+  35–52 sec — Workout
+
+  Inside the gym, she starts with a short warm-up on a treadmill, then moves through a few exercises such as light strength training, squats, dumbbell exercises, and stretching.
+
+  Keep the camera mostly front-facing and handheld, occasionally tilting naturally toward the equipment before returning to her face.
+
+  She becomes slightly sweaty and out of breath but stays cheerful. She laughs and says:
+
+  “Okay… this is harder than I remembered.”
+
+  She takes a quick drink of water, catches her breath, then gives the camera a satisfied smile and continues her workout.
+
+  Include realistic sounds of footsteps, treadmill movement, weights clanking, machines, distant conversations, and gym room tone.
+
+  52–60 sec — Returning home
+
+  After finishing her workout, she leaves the gym and walks home. She looks pleasantly exhausted but happy.
+
+  Cut naturally to her back at home, still holding the phone. She drops her gym bag down, takes a drink of water, relaxes on the couch or bed, and looks into the camera with a tired smile.
+
+  She gives a small wave and says:
+
+  “Workout done. I’m exhausted… but I’m glad I went.”
+
+  She smiles, gives one final sleepy wave, and lowers the phone for a natural ending.
+
+  Final requirements
+
+  Keep the entire vlog fast, spontaneous, cozy, and realistic, with natural transitions between locations. The woman must remain visually consistent throughout: same facial identity, same hair, and realistic appearance. Her outfit changes only once, from the casual night suit to the gym outfit.
+
+  All dialogue must be naturally spoken with visible lip movement. Use only diegetic audio—bedroom ambience, bathroom sounds, footsteps, street noise, gym sounds, water bottle sounds, and home ambience. No music, captions, subtitles, logos, watermarks, or cinematic effects.
+  #Flovaai #Flovacpp

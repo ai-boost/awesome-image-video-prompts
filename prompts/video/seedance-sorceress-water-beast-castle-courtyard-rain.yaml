@@ -1,0 +1,25 @@
+id: seedance-sorceress-water-beast-castle-courtyard-rain
+title:
+  en: Sorceress Summons Water Beast in Rainy Courtyard
+  zh: 女巫在雨中城堡庭院召唤水兽
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- dark-fantasy
+- action
+- water-magic
+- gothic
+- slow-motion
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2107333176985317886
+  credit: laviniavelle
+  captured: '2026-10-28'
+  posted: '2026-10-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2107333176985317886
+notes:
+  en: 'The prompt lays out the action as a clear beat sequence: rise, dodge, summon, impact, dissolve. It also fixes the setting and weather first and ends with lighting and slow motion fluid cues.'
+  zh: 提示词把动作拆成清晰的节拍：现身、闪避、召唤、撞击、消散。开头先定下场景与天气，结尾再补充光线和慢动作流体效果。
+prompt: |
+  A dark fantasy action sequence in a gothic castle courtyard during torrential rain A sorceress with vibrant purple hair rises from a stone fountain Two men with swords attack her She fluidly dodges uses water magic to shield herself, and summons a giant water beast with glowing eyes from the fountain that slams into her attackers She calmly steps out of the fountain raises her hand, and dissolves the water beast into a fine mist of rain. Cinematic lighting slow motion fluid dynamics, 8k resolution.

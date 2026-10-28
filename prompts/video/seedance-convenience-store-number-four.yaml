@@ -1,0 +1,43 @@
+id: seedance-convenience-store-number-four
+title:
+  en: Woman outsmarts three men outside a convenience store
+  zh: 便利店外女子用借力化解三人围堵
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- action-thriller
+- dialogue
+- choreography
+- night
+- korean
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2106981702677451248
+  credit: aiwithaly
+  captured: '2026-10-28'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2106981702677451248
+notes:
+  en: The prompt scripts the 30 seconds as ordered beats, with each line of dialogue and each move in its own sentence. Physics terms like momentum, inertia and leverage, plus a long negative list and an ambience and impact only sound brief, keep the choreography grounded.
+  zh: 提示词把30秒拆成按顺序排列的段落，每句台词和每个动作各占一句。动量、惯性、杠杆等物理词加上很长的负面清单，并限定只有环境声和撞击声，让打斗保持写实。
+prompt: |
+  Create an exactly 30-second, 16:9, 24fps hyper-realistic Korean live-action action thriller with dry dark comedy. Nighttime outside a modern Korean convenience store, wet pavement reflecting storefront lights.
+
+  PYONA exits carrying a small paper bag. Three intimidating adult men surround her. The leader says, “You have three choices: give us your phone, apologize, or fight.”
+
+  PYONA calmly studies the gap between them and says, “I'll take number four.” She walks through the opening and adds, “You leave.” The leader's smile disappears.
+
+  He grabs her forearm. She looks at his hand and says, “That was the wrong answer.” When he pulls her, she steps toward him, rotates with his force and redirects his momentum into the convenience-store door.
+
+  A second man charges with a punch. PYONA sidesteps and redirects him into the first man. A third attacks from behind; she steps aside and redirects him into stacked plastic crates, which collapse from the collision.
+
+  The three men freeze. The leader asks, “Who are you?” PYONA calmly replies, “I already told you.” She picks up her bag, walks past them, then looks back and says, “Number four.”
+
+  Cut to black.
+
+  Use grounded physical choreography: realistic weight, momentum, inertia, friction, leverage, balance and collision reactions. PYONA wins through timing and redirection, never superhuman strength.
+
+  Controlled cinematic camera with consistent screen direction and clear full-body framing during physical actions. Natural nighttime ambience and realistic impact sounds only. No music or narration.
+
+  Negative prompt: supernatural strength, flying bodies, wire-fu, invisible force, impossible throws, premature falls, teleportation, duplicate characters, appearance drift, costume changes, location changes, excessive camera shake, exaggerated slow motion, cartoon physics, blood, gore, weapons, broken bones, head impacts, logos, watermark.

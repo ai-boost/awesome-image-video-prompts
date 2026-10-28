@@ -1,0 +1,106 @@
+id: seedance-magic-pen-street-transport-vlog
+title:
+  en: Magic Pen Turns Street Traffic Into Cartoons
+  zh: 魔法笔把街头交通变成卡通
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- vlog
+- live-action-2d-composite
+- first-person
+- transformation
+- vertical
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2095748874942263601
+  credit: Strength04_X
+  captured: '2026-10-28'
+  posted: '2026-09-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Strength04_X/status/2095748874942263601
+notes:
+  en: A fixed transformation sequence (marker points, a spoken Biu, sketch lines, ink fill) is repeated for every target, so each beat reads the same way. Handheld smartphone realism, shared light direction and contact shadows keep the flat 2D characters anchored in the photoreal street, with a timed beat list and sound cues for each segment.
+  zh: 每个目标都重复同一套变身流程（马克笔指向、说出Biu、蓝色草图线、墨水填色），每个时间段的节奏因此一致。手持手机的真实质感、统一光向和接触阴影，让平面2D角色稳稳落在写实街景里，同时按时间段列出分镜和音效。
+prompt: |
+  Magic Pen Street Transport Vlog · 15 Seconds · Vertical 9:16
+
+  [STYLE]
+  Live-action + flat 2D anime sticker compositing, first-person street transport magic vlog. 8K photorealistic detail with the authentic look of a real smartphone rear-camera recording. Strong visual contrast between the photorealistic city and flat cartoon vehicles. One continuous handheld smartphone shot. No cuts. No scene transitions.
+
+  [CAMERA]
+  Raw, unstabilized handheld smartphone footage throughout: natural walking shake, subtle arm movement, occasional autofocus hunting, realistic exposure shifts between bright sky and building shadows, and slight rolling-shutter jelly during fast pans. Natural smartphone HDR colors with soft, realistic tones. The camera quickly whip-pans to follow the marker and each target.
+
+  [LIGHTING]
+  Late-afternoon sunlight coming consistently from one direction. Every real object and every animated character casts a soft contact shadow matching the direction of the sunlight.
+
+  [SETTING]
+  One continuous walk through a Korean city neighborhood. A wide urban road with a pedestrian sidewalk, bicycle lane, city buses, parked scooters, and a crosswalk. Everyday street life, with background pedestrians and vehicles moving naturally.
+
+  [PEN — MAGIC RULES]
+  The vlogger's real hand, with photorealistic skin and visible pores, holds a black marker and remains visible throughout the entire video, serving as the visual guide connecting every beat.
+
+  Every transformation follows the exact same sequence:
+
+  Marker points → Vlogger says “Biu!” → blue hand-drawn sketch lines wrap around the target → ink spreads → the target transforms into a lively flat 2D cel-shaded anime character with bold cartoon outlines.
+
+  The transformed character must preserve the original object's exact size, position, speed, direction, and perspective, remaining perfectly anchored to the real street environment. Characters retain flat sticker-style shading and are never relit by the real-world lighting. Anything they touch reacts with realistic physical interaction.
+
+  [00:00–00:03]
+
+  First-person view while walking beside a busy road. The vlogger raises the black marker into frame and points at a passing city bus.
+
+  “Biu!”
+
+  Blue sketch lines wrap around the bus. The bus transforms into a giant flat 2D cartoon vehicle with bold anime outlines while maintaining its exact size, speed, direction, and perspective.
+
+  It continues driving normally through traffic.
+
+  SFX: Bus engine + marker whoosh + soft cartoon movement sound.
+
+  [00:03–00:06]
+
+  The marker quickly swings downward toward a bicycle passing along the bicycle lane.
+
+  “Biu!”
+
+  The bicycle transforms into a cute hand-drawn cartoon bicycle. It continues moving at the same speed, its wheels spinning rapidly, with small sketch particles appearing behind it.
+
+  SFX: Bicycle wheel sound + light sketch rustling.
+
+  [00:06–00:10]
+
+  The marker follows the bicycle toward a parked scooter near the sidewalk.
+
+  “Biu!”
+
+  A rapid blue sketch outline covers the scooter. It transforms into a flat 2D cartoon scooter while preserving its exact position, proportions, and perspective.
+
+  Its wheels spin once and its small cartoon headlight blinks twice.
+
+  SFX: Soft engine hum + tiny mechanical click.
+
+  [00:10–00:12]
+
+  The marker quickly swings toward a pedestrian crossing the road.
+
+  “Biu!”
+
+  Blue sketch lines trace around the person. The same person, in the exact same pose, proportions, and position, becomes a vibrant anime cel-shaded illustration.
+
+  They continue walking naturally and briefly wave once.
+
+  SFX: Fast doodling sound + soft sparkle chime.
+
+  [00:12–00:15]
+
+  The vlogger stops walking and gives one final, louder:
+
+  “Biu—!”
+
+  The marker spins upward toward the road. A swirling blue ink trail spreads across the vehicles and pavement, transforming the entire road surface into a hand-drawn anime street while the surrounding buildings remain completely photorealistic.
+
+  A small handwritten “THE END!” doodle — the only text appearing anywhere in the video — pops up above the road.
+
+  Freeze frame.
+
+  SFX: Sharp throwing whoosh + spreading watercolor-ink bloom + felt-tip marker squeaking as it writes “THE END!”

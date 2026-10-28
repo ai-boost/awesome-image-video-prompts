@@ -1,0 +1,60 @@
+id: h3-pink-seoul-korean-fashion-collage-mv
+title:
+  en: Pink Korean Fashion Collage Film With Outfit Changes
+  zh: 粉色韩系时尚拼贴短片与换装
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- fashion
+- kpop
+- collage
+- typography
+- outfit-change
+source:
+  name: '@ImaStudio_ai on X'
+  url: https://x.com/ImaStudio_ai/status/2101981159970480258
+  credit: Ima Studio
+  likes: 106
+  captured: '2026-10-28'
+  posted: '2026-09-21'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ImaStudio_ai/status/2101981159970480258
+notes:
+  en: The prompt is split into numbered blocks for identity lock, outfit beats, 2D motion graphics and editorial layout, then closes with a 13 cut storyboard timed to 115 to 125 BPM. Placeholder text in brackets drives the typography, and the last cut assembles every graphic into a magazine cover.
+  zh: 提示词分成身份锁定、换装节拍、2D动效图形和排版四个编号模块，最后接一份按115到125 BPM卡点的13镜头分镜。方括号占位文字驱动字体设计，末镜把所有图形拼成杂志封面。
+prompt: |
+  Korean Pink Collage Fashion MV (15s, 16:9, 24fps)
+  【1. Identity Lock】
+  Absolute character consistency: Only one young Korean-style woman appears throughout the entire video. Strictly preserve the reference image’s facial features, skin tone, long dark-brown slightly wavy hair, bangs, facial structure, and body proportions.
+  Overall vibe: Asian pop aesthetic, fresh sweet-cool energy, light Y2K influence, balancing cute charm with a polished fashion-editorial feel.
+  Strict restrictions: No face swapping, no identity drift, no Westernized facial features, no masculine features, no background people, and no second character.
+  【2. Outfit Beats】
+  Style lock: Korean sweet-cool girl-group fashion, blending youthful femininity with a slightly mature edge.
+  Outfit transition logic: Seamlessly switch outfits on camera cut points and musical beats. Wardrobe elements include fitted white or pink knit tops, light-blue denim, Y2K pleated skirts, platform boots, delicate mini bags, and Korean-style earrings.
+  The character must remain highly consistent across every outfit change.
+  【3. Motion Graphics】
+  Visual theme: Pink Pattern Collage Pop.
+  Main palette: Cream pink, soft pink, peach pink, creamy white, silver-gray, with small accents of black typography.
+  2D graphic elements: Checkerboard patterns, polka dots, photobooth-style frames, geometric color blocks, and heart outlines.
+  Avoid realistic 3D materials. Use flat, crisp, graphic 2D elements that slide, overlap, crop, and wipe across the frame dynamically.
+  【4. Editorial Layout】
+  Typography: Main titles: [NAME] / [SEOUL POP]
+  Secondary labels: [SOFT CHIC] / [CUTE SIGNAL] / [TRENDY LOOK] / [KOREAN GIRL]
+  Layout style: Use oversized background typography, text inside geometric frames, and small sticker-like labels.
+  Arrange text horizontally, vertically, and diagonally with intentional offset layouts.
+  Typography should change rapidly with the cuts while always remaining clear and never covering the character’s face.
+
+  【5. 13-Cut Fast-Paced Trailer Storyboard | 115–125 BPM】
+  Cut 1 (0s): Extreme close-up. She slightly lifts her chin and looks directly into the camera. The background is filled with solid pink and an oversized [NAME] title, creating an immediate beauty hook.
+  Cut 2 (1s): Medium shot. She takes half a step forward and lightly holds her bag strap. The background switches to a pink-and-white checkerboard pattern.
+  Cut 3 (2s): Full-body shot. Flash outfit transition from a white top into a pink skirt look. She turns back toward camera and freezes briefly.
+  Cut 4 (3s): Close shot. Playful crouching pose with both hands near her face. Photobooth-style frames quickly slide into the composition.
+  Cut 5 (4s): Close-up. Camera pushes in slightly for a sharp eye-contact moment. Polka-dot graphics fill the background.
+  Cut 6 (5s): Medium shot. She turns and adjusts her long hair while large collage typography [SEOUL POP] pops across the frame.
+  Cut 7 (6s): Low-angle shot. She reaches one hand toward the camera as pink graphic strips slice horizontally across the frame.
+  Cut 8 (7s): Full-body shot. She shifts her weight and performs another flash outfit change featuring denim elements. The composition becomes cleaner with more negative space.
+  Cut 9 (8s): Close-up. She looks down slightly, then raises her eyes and smiles softly. Multiple [CUTE SIGNAL] labels appear across the screen.
+  Cut 10 (10s): Medium shot. She lightly holds the hem of her skirt while the background transforms into large geometric color-block sections.
+  Cut 11 (11s): Medium shot. She gently touches her earrings with a small, refined gesture. Overlapping color planes shift slightly out of alignment.
+  Cut 12 (12s): Wide shot. She turns sideways into a preparation pose while all fragmented graphic and typography elements begin converging toward the center.
+  Cut 13 (13.5–15s): Hero Pose. She stands centered in her strongest fashion pose. Graphics, borders, typography, and collage elements perfectly assemble into one polished Korean fashion magazine cover. Hold the final composition for 0.5 seconds.

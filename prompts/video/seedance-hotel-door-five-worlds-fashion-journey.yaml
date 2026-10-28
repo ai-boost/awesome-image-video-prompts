@@ -1,0 +1,134 @@
+id: seedance-hotel-door-five-worlds-fashion-journey
+title:
+  en: Hotel door opens onto five surreal worlds
+  zh: 一扇酒店门通向五个超现实世界
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- surreal
+- fashion-film
+- scene-transitions
+- character-consistency
+- timecoded
+source:
+  name: '@IsabelWhite24 on X'
+  url: https://x.com/IsabelWhite24/status/2096638350174101539
+  credit: IsabelWhite24
+  captured: '2026-10-28'
+  posted: '2026-09-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/IsabelWhite24/status/2096638350174101539
+notes:
+  en: A timecoded script gives each world its own seconds, camera move and lighting, and every door, light flash, motorcycle pass and fish swarm acts as the transition. Identity lock lines are repeated and a reference model image keeps the face and outfit consistent.
+  zh: 按秒数分段，每个世界都写明镜头运动与光线，并用开门强光、摩托车遮挡、鱼群铺满画面作为转场。多次重复锁定面部身份的句子，并配合模特参考图保持人物一致。
+prompt: |
+  Create a 28-second ultra-cinematic surreal fashion adventure starring my female AI model. Preserve her EXACT facial identity, facial structure, hairstyle, skin tone, body proportions and recognizable appearance throughout the entire video.
+
+  The film must feel like ONE continuous impossible journey, not separate AI-generated clips. Photorealistic, mysterious, premium and visually spectacular.
+
+  0–4 SEC — THE MYSTERIOUS HOTEL
+
+  Begin with an extreme cinematic close-up of my model's eyes.
+
+  Camera smoothly pulls backward, revealing her standing inside an impossibly long, luxurious old-European hotel corridor at night.
+
+  Warm golden wall lamps illuminate hundreds of identical doors stretching into the distance.
+
+  She wears an elegant flowing black evening dress with subtle jewellery.
+
+  She looks toward one particular door and confidently approaches it.
+
+  CAMERA: Slow dolly backward → smooth over-the-shoulder orbit as her hand reaches toward the brass handle.
+
+  She opens the door.
+
+  Intense white light floods through it and completely fills the lens.
+
+  SEAMLESS TRANSITION THROUGH THE LIGHT.
+
+  4–9 SEC — STORMY ICELAND
+
+  The camera passes through the doorway directly behind her.
+
+  Without stopping her walking motion, she emerges onto a spectacular Icelandic black-sand beach.
+
+  Towering dark cliffs, crashing ocean waves, mist and light rain surround her.
+
+  Strong wind naturally moves her hair and black dress.
+
+  CAMERA: Begin low beside her feet → rapidly rise into a cinematic tracking orbit around her.
+
+  Standing completely alone on the beach is another mysterious hotel door.
+
+  She reaches it and immediately opens it.
+
+  Camera follows directly through.
+
+  9–14 SEC — FUTURISTIC TOKYO
+
+  She steps through the same doorway directly into a futuristic Tokyo street at midnight.
+
+  Her walking movement continues seamlessly.
+
+  Wet streets reflect enormous neon signs, futuristic architecture and passing autonomous vehicles.
+
+  Crowds naturally move around her while she confidently walks toward camera.
+
+  CAMERA: 35mm anamorphic backward tracking shot → subtle handheld micro-movement → gentle push toward her face.
+
+  A sleek futuristic motorcycle suddenly races extremely close across the foreground.
+
+  For a fraction of a second, the motorcycle completely covers the camera.
+
+  USE THE MOTORCYCLE AS THE TRANSITION.
+
+  14–19 SEC — UNDERWATER BALLROOM
+
+  As the motorcycle clears the lens, she is suddenly walking through an enormous abandoned luxury ballroom deep underwater.
+
+  She does NOT wear diving equipment.
+
+  She walks normally while her dress and hair gently react to the surrounding water.
+
+  Gigantic floor-to-ceiling windows reveal the deep ocean outside.
+
+  A huge whale silently glides past the windows behind her.
+
+  Blue sunlight beams penetrate through the water while thousands of tiny particles float naturally through the scene.
+
+  CAMERA: Slow cinematic 180° orbit around her as she turns slightly toward the whale.
+
+  Suddenly hundreds of shimmering silver fish rush directly toward and across the camera.
+
+  They completely fill the frame.
+
+  19–23 SEC — GOLDEN DESERT
+
+  The silver fish seamlessly transform into thousands of glowing golden particles carried by desert wind.
+
+  Camera pushes through the particles.
+
+  Reveal my model walking along the crest of an enormous golden sand dune during sunset.
+
+  Her outfit has seamlessly transformed into an elegant flowing ivory desert outfit.
+
+  HER FACE AND IDENTITY MUST REMAIN EXACTLY THE SAME.
+
+  Wind dramatically moves the fabric.
+
+  CAMERA: Start extremely wide → rapidly fly toward her → smooth orbit around her body.
+
+  Reveal one final mysterious door standing alone at the top of the dune.
+
+  She opens it.
+
+  Brilliant golden-white sunlight bursts through.
+
+  23–28 SEC — ABOVE THE CLOUDS
+
+  She steps through the door.
+
+  Camera follows immediately.
+
+  Reveal an extraordinary mirrored.
+  #AICinema #Seedance25

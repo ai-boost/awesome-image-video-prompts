@@ -1,0 +1,25 @@
+id: seedance-minidv-couple-afternoon-street-walk
+title:
+  en: Couple on a MiniDV home video afternoon walk
+  zh: MiniDV家庭录像风格的情侣午后街头漫步
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- minidv
+- home-video
+- handheld
+- couple
+- street-ambience
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2094997895187673489
+  credit: AIwithkhan
+  captured: '2026-10-28'
+  posted: '2026-09-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2094997895187673489
+notes:
+  en: A reference image locks identity, hairstyle and outfit, then a style line (early 2000s MiniDV, shaky handheld, autofocus hunting) sets the look. The story runs as a loose chain of beats from street food to sunset kiss, and the audio line asks for ambience and no music.
+  zh: 先用参考图锁定人物外貌和服装，再用风格句（千禧年初MiniDV、手持抖动、对焦漂移）定下画面质感。情节按街头小吃到日落亲吻的顺序连续展开，音频要求环境声且不加音乐，负面提示补充了禁止换人和换装。
+prompt: "Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, makeup, body proportions, \n\nStyle: Early-2000s MiniDV home-video aesthetic, photorealistic live-action, shaky handheld camera, slight autofocus hunting, natural exposure shifts, motion blur, imperfect framing, warm afternoon light, authentic everyday atmosphere.\n\nA young woman from Korea wearing a fitted pastel tshirt spends a casual afternoon with her boyfriend in a quiet neighborhood. She films herself walking down the street, smiling at the camera while her boyfriend walks beside her. They stop at a small street-food stall, share a snack, laugh together, and continue walking.\n\nShe playfully steals his sunglasses and puts them on, making him laugh. They sit together on a low wall, talk and tease each other, then walk through a small park while she records little moments on the handheld camera.\n\nAs the sun begins to set, they stop under a streetlight.\
+  \ She turns the camera toward him, they exchange a warm smile, move closer, and share a brief natural kiss on the lips.\n\nThe camera stays handheld and slightly imperfect as they laugh afterward and walk away together.\n\nAudio: Natural street ambience, footsteps, distant traffic, birds, casual conversation and laughter. No music.\n\nNegative prompt: No subtitles, text, logos, watermarks, identity changes, outfit changes, duplicate people, distorted hands, unnatural movements, or AI artifacts.\n"

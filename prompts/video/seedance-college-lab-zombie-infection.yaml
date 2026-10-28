@@ -1,0 +1,53 @@
+id: seedance-college-lab-zombie-infection
+title:
+  en: College lab student turns into a zombie
+  zh: 大学实验室学生被感染变成丧尸
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- horror
+- zombie
+- photorealistic
+- handheld
+- sound-design
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2106955772395659431
+  credit: AIwithSynthia
+  captured: '2026-10-28'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2106955772395659431
+notes:
+  en: The prompt runs as a timed chain of beats, from the cracked container to infection, chase, barricade and a final smile at the door window, and it locks the character's face and clothes up front. A separate audio line with no music, a style line that moves from cold fluorescent to red emergency light, and a negative list against gore and face morphing keep the horror grounded.
+  zh: 提示词按时间顺序串起容器破裂、感染、追逐、堵门和门窗前的最后一笑，开头就锁定人物的脸和衣着。单独的音频行不要音乐，风格行写明冷色荧光灯转红色应急灯，负面清单排除血腥和脸部变形，让恐怖感保持写实。
+prompt: |
+  Create a photorealistic live-action zombie-horror sequence inside a modern university science laboratory during a normal college practical session. The central character is a young adult Korean female college student wearing a white laboratory coat over a simple shirt, blue jeans and white sneakers. Keep her face, hairstyle, clothing and body proportions identical throughout. Surround her with several college students, laboratory benches, microscopes, glass test tubes, chemical containers, computers and scientific equipment. Use realistic fluorescent lighting, practical effects, handheld camerawork and believable physics.
+
+  The students are quietly working on an experiment when a sealed glass specimen container suddenly cracks. A dark infected substance escapes and attaches itself to the young woman near her shoulder and neck. She stumbles backward in fear as dark veins slowly spread beneath her skin, traveling across her neck and face. Her fingers begin twitching, her body develops violent tremors and her skin becomes pale and clammy.
+
+  Her frightened expression gradually disappears. She raises her head and her eyes slowly transform into deep cloudy-black eyes. She suddenly turns toward a nearby classmate and charges. He desperately backs away behind a laboratory table while she repeatedly slams against it, moving with unnatural strength.
+
+  The other students freeze before scrambling toward the laboratory exit. The infected woman suddenly becomes completely still, then slowly rotates her head toward them. Her dark veins pulse visibly across her face while her black eyes remain fixed on the students.
+
+  Another glass specimen container cracks in the background. A second infected student suddenly collapses onto the floor, convulsing violently as dark veins spread across his neck and face and his eyes turn black. Panic erupts throughout the laboratory.
+
+  Students grab backpacks, chairs and laboratory equipment while trying to escape. One student pulls another toward the emergency exit as the infected chase them through the narrow aisles. A heavy laboratory table is pushed against the door as a temporary barricade.
+
+  The survivors finally reach the hallway and slam the laboratory door shut. Red emergency lights begin flashing as they catch their breath.
+
+  Inside the laboratory, everything becomes silent.
+
+  The camera slowly approaches the small observation window in the door. The infected female student stands motionless in the darkness, still wearing her white lab coat and jeans. Her pale face, prominent dark veins and completely black eyes are clearly visible.
+
+  She slowly tilts her head toward the window.
+
+  Then she suddenly smiles.
+
+  Cut to black.
+
+  AUDIO: Realistic laboratory ambience, fluorescent hum, glass cracking, equipment falling, footsteps, frightened breathing, screams, alarms, convulsions, impacts and distant banging. No music or exaggerated sound effects.
+
+  STYLE: Ultra-realistic college laboratory horror, practical-effects infection, realistic skin texture, believable anatomy, natural handheld camera, grounded movement, realistic facial transformation, dark spreading veins, black/cloudy eyes, violent convulsions and unnatural infected movements, cold fluorescent lighting transitioning into red emergency lighting.
+
+  NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoon, illustration, plastic skin, fake CGI, duplicated students, face morphing, distorted anatomy, extra limbs, floating objects, impossible physics, changing clothes, inconsistent identities, subtitles, text, logos, watermark.

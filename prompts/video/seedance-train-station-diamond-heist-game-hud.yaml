@@ -1,0 +1,112 @@
+id: seedance-train-station-diamond-heist-game-hud
+title:
+  en: Third person game heist at a Japanese train station
+  zh: 日本车站里的第三人称游戏盗窃任务
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- game-footage
+- hud
+- timecoded-shots
+- hard-cut
+- chase
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2099700182388801793
+  credit: saniaspeaks_
+  captured: '2026-10-28'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/saniaspeaks_/status/2099700182388801793
+notes:
+  en: A timecoded script splits the clip into stealth, theft, fight, chase and finale beats, with HUD text for each beat and a hard cut at 27s into a locked frontal shot. An image reference locks the face, and a closing block of absolute locks plus an audio line keeps the continuity and the game feel.
+  zh: 用带时间码的分镜把片段拆成潜行、偷窃、搏斗、追逐和收尾几段，每段配上界面文字，并在27秒硬切到固定正面镜头。参考图锁定人脸，结尾的绝对约束和音频描述保证连贯性与游戏质感。
+prompt: |
+  16:9 landscape, ultra-realistic AAA third-person gameplay, bright afternoon at a luxurious Japanese train station. Realistic game-engine visuals, natural human animation, believable physics, detailed skin and hair, realistic clothing movement, marble reflections and cinematic daylight. Clearly a GAME, not anime or cartoon.
+
+  NAGI: Use @ Image1 as exact face and identity reference. Japanese high-school girl, 17, long straight black hair with blunt bangs, white sailor blouse with pink collar stripes and pink ribbon, grey pleated skirt, black knee-high socks, white sneakers and school bag. Same face, hair and outfit throughout.
+
+  MISSION: Steal a priceless diamond necklace from a VIP passenger's luxury suitcase and escape onto the departing train.
+
+  CAMERA: One physical third-person camera, 1.5m behind NAGI, slightly camera-right. Natural gameplay spring movement, smooth FOV breathing 30°–60°. Camera follows her continuously.
+
+  0–6s — INFILTRATION
+
+  NAGI moves through the crowded luxury station toward a VIP waiting area. A wealthy passenger sits beside a black suitcase guarded by two security guards. She hides briefly behind a luggage cart as a guard passes.
+
+  HUD:
+  MISSION: STEAL VIP NECKLACE
+  STEALTH MODE
+
+  6–12s — THEFT
+
+  NAGI reaches the suitcase while the VIP looks away. She opens it and finds a velvet jewelry case containing a stunning diamond necklace. She grabs it and hides it inside her bag.
+
+  HUD:
+  TARGET ACQUIRED
+
+  Suddenly a guard notices her.
+
+  ALERT
+
+  12–19s — FIGHT
+
+  The guard grabs NAGI's arm. She struggles hard to escape. He pulls her backward and she nearly falls. She pushes free and runs.
+
+  A second guard intercepts her. They struggle physically in a realistic, difficult fight. NAGI finally breaks away, visibly exhausted.
+
+  HUD:
+  NECKLACE ACQUIRED
+  ALERT LEVEL: CRITICAL
+
+  19–25s — CHASE
+
+  NAGI sprints toward the platform while two guards chase her. She jumps over luggage, turns sharply through a narrow passage and runs toward the departing luxury train.
+
+  Her hair, skirt and bag move naturally with her speed.
+
+  Station announcement:
+
+  “Train departing shortly.”
+
+  HUD:
+  ESCAPE ROUTE: PLATFORM 4
+
+  25–27s — LAST SECOND
+
+  The train doors begin closing.
+
+  A guard grabs NAGI's shoulder.
+
+  She struggles free and runs the final few meters.
+
+  She jumps into the train.
+
+  The doors close immediately behind her.
+
+  HUD:
+  ESCAPE SUCCESSFUL
+
+  27.0s HARD CUT
+
+  27–30s — FINAL SHOT
+
+  Locked frontal camera inside the moving luxury train, eye-level, 29° FOV, completely static.
+
+  NAGI stands in the aisle facing camera, breathing heavily, hair slightly messy.
+
+  She opens her bag and reveals the stolen diamond necklace.
+
+  Bright afternoon sunlight enters through the train windows.
+
+  HUD:
+
+  MISSION COMPLETE
+  DIAMOND SECURED
+  ESCAPE RANK: S
+
+  NAGI looks directly at camera and gives a tiny victorious smile.
+
+  AUDIO: tense stealth music, station ambience, footsteps, luggage wheels, security radio, realistic struggle sounds, fast breathing, train warning chime and a short victory sting.
+
+  ABSOLUTE LOCKS: Exactly one hard cut at 27s. First 27 seconds completely continuous. Same NAGI, same outfit, same necklace and same environment continuity. Realistic physics and difficult physical struggles. No superhuman movements, no cartoon animation, no face changes, no teleportation. Daytime only. HUD fixed in the same screen positions. All HUD text English; dialogue/announcements natural Japanese.

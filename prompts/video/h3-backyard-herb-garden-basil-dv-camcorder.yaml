@@ -1,0 +1,42 @@
+id: h3-backyard-herb-garden-basil-dv-camcorder
+title:
+  en: Backyard herb garden basil harvest, DV camcorder look
+  zh: 后院香草园采摘罗勒，DV摄像机质感
+model: MiniMax H3
+mode: text-to-video
+tags:
+- documentary
+- dv-camcorder
+- timeline
+- dialogue
+- ambient-audio
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2085786048521757074
+  credit: 𝐌
+  likes: 73
+  captured: '2026-10-28'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Strength04_X/status/2085786048521757074
+notes:
+  en: A five slot timeline gives each 3 second beat two compressed actions, with spoken Korean lines and a translation in brackets. The early 2000s DV camcorder style, autofocus drift and no stabilization keep the footage candid, and the audio line lists only ambient sounds with no music.
+  zh: 五段时间轴，每个3秒槽位压缩两个动作，韩语台词附括号翻译。2000年代初DV摄像机风格、自动对焦游移和无防抖带来真实随拍感，音频只写环境声，不加音乐。
+prompt: |
+  Main Subject:
+  Young Korean woman, early 20s, loose linen shirt over shorts, hair tied back with a cloth, dirt-smudged fingers, gentle focused expression.
+  Location:
+  Small backyard herb garden beside the house, late morning. Wooden planter boxes, scattered gardening tools, soft natural sunlight, a low fence. No modern structures.
+  Visual Style:
+  Ultra-realistic documentary realism, candid hands-on feeling, bright natural daylight.
+  Camera Style:
+  Early 2000s DV camcorder, handheld close framing, autofocus adjusting between her hands and the plants, warm faded tones, soft grain. No stabilization.
+  Timeline (15 sec, each slot = 2 compressed beats):
+  00:00–00:03 → She kneels by the planter box, then snips a few basil leaves carefully.
+  00:03–00:06 → She smells the leaves, then says to camera "향 진짜 좋다" ("The smell is really nice"), smiling.
+  00:06–00:09 → She moves to another box, then pulls a small weed from the soil.
+  00:09–00:12 → She wipes her hands on her shirt, then gathers the herbs into a small basket.
+  00:12–00:15 → She looks at camera saying "오늘 저녁에 쓸 거야" ("I'll use these for dinner tonight"), standing up as it fades.
+  Audio:
+  Leaves rustling, soil shifting, faint birds, distant wind. Her dialogue as noted above. No music.
+  Goal: A small, grounded gardening moment warm, patient, authentic.

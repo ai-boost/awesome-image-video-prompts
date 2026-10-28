@@ -1,0 +1,48 @@
+id: kling-ten-pose-fashion-editorial-reflective-studio
+title:
+  en: Ten pose fashion editorial in a reflective studio
+  zh: 镜面影棚里的十姿势快切时尚大片
+model: Kling 3.0
+mode: reference-to-video
+tags:
+- fashion
+- editorial
+- kinetic-editing
+- character-reference
+- studio
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2097615157421867206
+  credit: Zara
+  likes: 235
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+video: https://x.com/ZaraIrahh/status/2097615157421867206
+notes:
+  en: A numbered list fixes exactly ten poses, each paired with its own silhouette and camera angle, so the cut stays countable. Transitions are named (whip pans, snap zooms, flashes, lens occlusions), and the sound brief sets a 140 BPM beat with shutter clicks to drive the rhythm.
+  zh: 用编号列表锁定恰好十个姿势，每个姿势配独立的轮廓和机位，镜头数量可控。转场逐一点名（甩镜、急推、闪光、手掌遮镜头），并用 140 BPM 节拍加快门声定下剪辑节奏。
+prompt: |
+  Create a 15-second high-fashion editorial film starring the adult character in <<<image_1>>> . Preserve their exact appearance, outfit, accessories and visual style. Render the entire film in the reference’s aesthetic.
+
+  Use a minimal studio with a reflective floor, bold directional lighting and rhythmic photographic flashes.
+
+  Show exactly 10 distinct fashion poses, each with a different silhouette and camera angle:
+
+  1. A confident standing pose, filmed from floor level with dramatic wide-angle perspective.
+  2. One hand beside the face, captured in an extreme side-profile close-up.
+  3. An asymmetric seated pose, seen directly overhead as the camera rotates.
+  4. One leg extended toward the lens, the foot or reference footwear dominating the foreground through foreshortening.
+  5. A quick, fluid leg cross, captured from a low diagonal angle.
+  6. Fingertips catching the edge of an existing sleeve or collar, framed in a tight detail shot.
+  7. A rear three-quarter turn with a deliberate glance back into the camera.
+  8. A forward lean toward the lens, ending with the palm briefly covering it.
+  9. An elongated upward stretch, revealed in a sharply tilted wide shot with strong side lighting.
+  10. A commanding full-body hero pose, looking down into the lens as the camera rapidly pulls back.
+
+  Keep the performance fast and rhythmically tight. Flow naturally between poses, holding each for only a fraction of a second while keeping its silhouette clearly readable. No repeated poses or additional pose changes.
+
+  Connect angles through whip pans, movement-matched cuts, snap zooms, flashes and lens occlusions. Orbit against the character’s turn, sweep from their floor reflection toward their face and plunge from overhead to floor level. Alternate intimate details with dramatic wide compositions. Accelerate between poses and brake sharply on each hold.
+
+  Keep the sensual gestures quick, confident and fully clothed. Hair and fabric react naturally. No slow motion, lingering shots or gradual camera drift. Build momentum toward the tenth pose, then stop sharply for a crisp final hold.
+
+  Stable identity and anatomy throughout. No outfit changes, added accessories or text. Sound: a driving 140 BPM fashion beat, rhythmic shutter clicks and subtle fabric movement.

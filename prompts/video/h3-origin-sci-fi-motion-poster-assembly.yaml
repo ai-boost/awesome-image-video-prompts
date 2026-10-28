@@ -1,0 +1,27 @@
+id: h3-origin-sci-fi-motion-poster-assembly
+title:
+  en: Sci-fi ORIGIN poster assembling itself in motion
+  zh: 科幻ORIGIN海报逐层动态拼合
+model: MiniMax H3
+mode: image-to-video
+tags:
+- motion-poster
+- typography
+- sci-fi
+- sound-design
+- vertical
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2083628852165672988
+  credit: LudovicCreator
+  likes: 55
+  captured: '2026-10-28'
+  posted: '2026-08-01'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/LudovicCreator/status/2083628852165672988
+notes:
+  en: 'Starts from the still poster as the source image and fixes what must not change: background, palette, typography and layout. The prompt then orders the build as a timeline, from frame to title to landscape to small credits, with matching UI sounds and a closing push-in.'
+  zh: 以海报静图为首帧，先写明背景、配色、字体和版式不得改动，再按时间顺序安排边框、标题、风景到小字的出场，配上对应的界面音效，最后缓慢推近收尾。
+prompt: |
+  Animate the source artwork as a 10-second premium sci-fi motion poster while preserving the white gallery background, thin border, navy-and-orange palette, typography, composition and original poster design. Begin on an almost empty white canvas, then progressively assemble the poster: the outer frame draws itself on, the orange “ORIGIN” background typography slides vertically into place, the planetary landscape fades and expands inside the central frame, and the colossal station descends from above as its lights activate. Bring the cloaked traveler forward from the distant landscape toward the foreground with strong dimensional parallax, allowing the figure and rocky base to slightly break outside the inner frame. Introduce the smaller titles, numbering, studio credits, graphic marks and footer icons one after another with clean pop-in, slide and type-on animations, accompanied by light futuristic clicks, playful digital typing sounds and soft mechanical impacts. Finish with a restrained camera push-in, subtle station lights, drifting mist and a gentle movement in the traveler’s coat while the completed poster remains perfectly readable and close to the original still image. No major scene transformation, no camera orbit, no distorted typography, no altered layout.
+  2/2

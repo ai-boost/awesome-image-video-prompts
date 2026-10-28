@@ -1,0 +1,62 @@
+id: h3-lumi-lemonade-kinetic-typography-title-sequence
+title:
+  en: Anime lemonade girl kinetic typography title sequence
+  zh: 动漫柠檬汽水女孩的动态字体片头
+model: MiniMax H3
+mode: text-to-video
+tags:
+- kinetic-typography
+- motion-graphics
+- anime
+- multi-cut
+- halftone
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2095516988743225637
+  credit: Sharon Riley
+  likes: 244
+  captured: '2026-10-28'
+  posted: '2026-09-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Just_sharon7/status/2095516988743225637
+notes:
+  en: A character lock line at the top keeps her design fixed, then a graphic design first ratio of 80 percent type and 20 percent action sets the tone. Thirteen timed cuts each pair one giant word with one action, and the prompt adds beat synced sound design and a rule that type is readable before she overlaps it.
+  zh: 开头用角色锁定句固定形象,再用八成字体设计、两成角色动作的比例定调。十三个带时间码的镜头各配一个巨型单词和一个动作,并补充踩点音效,以及文字先完整可读、角色后进入的规则。
+prompt: |
+  LUMI is an elegant, cheerful anime girl with long, vivid lemon-yellow hair with blunt bangs, honey-amber almond eyes with dramatic lashes, soft pink blush, a small mint-green hairpin, dangling lemon-slice earrings, a yellow ruffled off-shoulder top layered over a white halter crop top, and holds a tall glass of sparkling lemonade with ice and lemon slices. Preserve her exact face, proportions, hairstyle, outfit, materials, accessories and colors throughout; never redesign her.
+
+  This film is 80% bold graphic design in motion and 20% character action: giant kinetic typography, hard-edged citrus shapes, flat color fields, sunburst rays, halftone dots, juice-splash graphics, speed lines and shutter flashes. Palette: lemon yellow, citrus gold, cream white, soft blush pink, mint accent. Style: premium AAA motion-graphics title sequence x citrus lifestyle campaign film. Every graphic element moves fast and snaps hard on the beat.
+
+  CUT 01 | 0.00–1.00s – Pure graphics: a giant lemon-yellow wordmark "LUMI" slams onto a cream field with a sunburst-ray flash; halftone dots pulse and tiny citrus-slice UI ticks flicker along the frame edges.
+
+  CUT 02 | 1.00–2.10s – Cream-white field, huge black outline letters "FRESH" drop in and bounce; she twirls into frame holding her lemonade glass aloft, ruffles fluttering, sparkle particles trailing behind her.
+
+  CUT 03 | 2.10–3.10s – Close shot: she lifts the glass and takes a slow sip, eyes glinting; a fizz of golden bubbles erupts around her as kinetic type "ZEST" spins and locks into place behind her shoulder.
+
+  CUT 04 | 3.10–4.10s – Flat citrus-yellow field: she spins her glass and lemonade splashes upward in a stylized graphic arc that freezes mid-air as the wordmark "SPLASH" bursts through the liquid shape.
+
+  CUT 05 | 4.10–5.10s – Hard cut to cream field: giant outlined type "POUR" tilts diagonally; she pours a stream of golden lemonade into her glass, the falling stream morphing into the letterforms as it lands.
+
+  CUT 06 | 5.10–6.10s – Sunburst radial wipe: she flicks a lemon slice off the rim of her glass toward camera; it spins in slow motion catching the light, while the word "CITRUS" scatters into halftone dot particles.
+
+  CUT 07 | 6.10–7.10s – Slow hair-flip, her hair rippling like liquid gold; speed lines and sparkle bursts trail from it as the giant type "GOLDEN" ripples across the frame in sync with the movement.
+
+  CUT 08 | 7.10–8.10s – Kinetic type barrage: SWEET / COOL / BRIGHT / SUNNY slam in one per beat with shutter flashes and camera shake, while she raises her glass in a toast toward camera, ice clinking in slow motion.
+
+  CUT 09 | 8.10–9.10s – Cream cyclorama: she tilts her head back with a light laugh, hair catching the wind; a cluster of citrus-slice graphics and sparkle motes swirl around her in a slow orbiting halo.
+
+  CUT 10 | 9.10–10.10s – Layered flat-color glass panes (lemon yellow, cream, blush) shatter one by one, each revealing a bigger letter of "LUMI" underneath, as she steps forward through the breaking panes.
+
+  CUT 11 | 10.10–11.10s – Giant halftone sunburst rays pulse outward from behind her in rhythm with a bass drop, lemon-slice confetti raining down as she smiles and lightly lifts her glass higher.
+
+  CUT 12 | 11.10–13.00s – Hero moment on a clean cream cyclorama: she stands center frame, glass raised, warm confident smile, as a shockwave of concentric golden rings, citrus confetti and wind-rippled ruffles blasts outward from her; brief iconic freeze, overexpose to white.
+
+  CUT 13 | 13.00–15.00s – Final identity card: an enormous black "LUMI" wordmark dominates a pale cream field with translucent lemon-yellow rings, sunburst arcs, halftone dots and a circular emblem containing a lemon-slice motif; she stands relaxed beside the letters, glass in hand, hair rippling in the breeze; one last golden light pulse sweeps through the typography and a soft chime accent punctuates the end.
+
+  Editing: aggressive, stylish rhythm — hard cuts on every beat, graphic matches, snap zooms, speed ramps, shutter flashes and impact pulses; every cut must feel compositionally different; typography is always fully readable before the character overlaps it.
+
+  No weapons, no combat, no fire; all energy comes from motion design, light, liquid, glass and citrus.
+
+  BGM: bright, uptempo pop/electro-swing with fizzy drops and glitch fills locked to every cut; glass clinks, fizz pops, fabric flutter and sparkle chimes as rhythmic sound-design elements. Peak at CUT 12 and end with a warm chime logo stinger.
+
+  Premium AAA quality, anime-inspired cinematic rendering, stylish and vibrant, strong graphic-design identity, consistent character design, exactly 13 cuts

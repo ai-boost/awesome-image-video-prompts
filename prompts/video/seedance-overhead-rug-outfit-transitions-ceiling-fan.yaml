@@ -1,0 +1,29 @@
+id: seedance-overhead-rug-outfit-transitions-ceiling-fan
+title:
+  en: Overhead Outfit Changes on Persian Rug
+  zh: 波斯地毯俯拍的连续换装
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- fashion
+- outfit-transition
+- top-down
+- photorealistic
+- cozy-interior
+source:
+  name: '@Zoyavelle on X'
+  url: https://x.com/Zoyavelle/status/2108060187840180394
+  credit: Zoyavelle
+  captured: '2026-10-28'
+  posted: '2026-10-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zoyavelle/status/2108060187840180394
+notes:
+  en: Fixing the pose, camera angle, room and face in one sentence lets only the outfits change, and a named list of outfits in order gives the transitions a clear sequence. The rotating ceiling fan blades in the foreground add depth and natural motion blur to a static top-down shot.
+  zh: 用一句话锁定姿势、机位、环境和面部，只让服装变化，并按顺序列出每套服装，让转场层次清晰。前景缓慢旋转的吊扇叶片为固定俯拍增加了纵深和自然的动态模糊。
+prompt: |
+  A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living room, viewed through the wooden blades of a slowly rotating ceiling fan in the foreground. She has natural black hair and a calm relaxed expression. The scene uses warm golden indoor lighting, realistic wooden flooring, detailed traditional carpet patterns, soft shadows, and a cozy aesthetic interior. The woman appears in a simple black dress at first, then smoothly transitions through several different fashionable outfits while maintaining the exact same pose, position, camera angle, environment, and facial identity. Outfit transitions include a soft pink cardigan with a white dress, a red cardigan over a white top, and finally a brown textured dress. Highly photorealistic, natural skin texture, realistic fabric details, cinematic lighting, shallow depth of field, subtle motion blur from the rotating ceiling fan, smooth seamless outfit transformation, professional fashion video, DSLR quality, ultra-detailed, 4K, realistic proportions, stable overhead camera, no text, no watermark.
+
+  Camera: fixed top-down perspective, ceiling fan blades passing naturally across the frame, slow smooth motion.
+  Aspect ratio: 16:9.
+  Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless transitions.

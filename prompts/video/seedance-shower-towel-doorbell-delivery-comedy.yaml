@@ -1,0 +1,33 @@
+id: seedance-shower-towel-doorbell-delivery-comedy
+title:
+  en: Man rushes from shower to answer doorbell
+  zh: 男子冲出淋浴间跑去应门取快递
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- comedy
+- photorealistic
+- tracking-shot
+- physics
+- storytelling
+source:
+  name: '@AIwithZeeshi on X'
+  url: https://x.com/AIwithZeeshi/status/2107317166995546481
+  credit: AIwithZeeshi
+  captured: '2026-10-28'
+  posted: '2026-10-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithZeeshi/status/2107317166995546481
+notes:
+  en: 'The prompt tells the gag as a clear beat sequence: notification, doorbell, rush, missed driver, exhausted look. A closing block of physics cues covers water, gravity, wet fabric and shadows, and it keeps the character consistent and the tracking camera smooth.'
+  zh: 提示词把笑点拆成清晰的节拍：通知、门铃、奔跑、错过快递员、无奈表情。结尾用一串物理描述约束水、重力、湿织物和阴影，并保证角色一致和跟拍镜头平滑。
+prompt: |
+  A young man is taking a normal shower in a modern apartment when his phone suddenly shows a delivery notification.
+
+  He hears the doorbell and quickly turns off the shower, grabs a towel, and rushes toward the entrance. His wet feet leave small realistic footprints as he carefully runs across the floor.
+
+  He finally opens the door, but the delivery driver is already walking away. The package is sitting safely on the doormat.
+
+  He looks at the package, then at the driver, completely exhausted.
+
+  Photorealistic cinematic comedy, realistic water behavior, natural human movement, believable gravity and friction, consistent character appearance, realistic wet hair and fabric, natural facial expressions, smooth camera tracking, accurate shadows, realistic apartment lighting, and physically believable interactions throughout.

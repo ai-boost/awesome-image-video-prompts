@@ -1,0 +1,48 @@
+id: seedance-sci-fi-motorcycle-supercar-highway-chase
+title:
+  en: Sci-fi armored rider and supercar highway chase
+  zh: 科幻装甲骑手与超跑公路追逐
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- sci-fi
+- action
+- motorcycle
+- multi-shot
+- chase
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2104064261005709551
+  credit: itsSaira_1
+  captured: '2026-10-28'
+  posted: '2026-09-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2104064261005709551
+notes:
+  en: 'The prompt sets one global look (desaturated grade, motion blur, 4K film) and then lists nine numbered scenes. Each scene names its camera angle and move: low tracking, close-up, drone top-down, interior POV. A long negative prompt keeps the lighting and the motorcycle frame consistent across cuts.'
+  zh: 提示词先统一整体影调(低饱和、动态模糊、4K 胶片感),再列出九个编号分镜,每个分镜都写明机位和运镜:低角度跟拍、特写、无人机俯拍、车内第一视角。末尾的长负面提示词用来稳住各镜头之间的光线和摩托车结构。
+prompt: |
+  Cinematic photorealistic sci-fi action sequence, moody desaturated color grade, dramatic lighting, hyper-detailed mechanical design, motion blur for speed, 4K film quality.
+
+  Scene 1: Wide low-angle tracking shot of a futuristic armored rider in black tactical exosuit on a black-gold angular sci-fi motorcycle, speeding on empty highway, overcast sky.
+
+  Scene 2: Close-up transformation shot — motorcycle's rear panels mechanically unfold like wings while riding at high speed, sparks of light on metal joints.
+
+  Scene 3: Low-angle hero reveal shot of a sleek black Batmobile-style supercar with scissor/wing doors opening, front LED light strip glowing.
+
+  Scene 4: Rear-tracking low-angle shot of two motorcycles riding side by side on the highway, wheels blurred with speed.
+
+  Scene 5: Rear pursuit shot of the black supercar driving with glowing taillights, a motorcycle catching up close behind.
+
+  Scene 6: Aerial drone top-down shot of a curving highway with the car and motorcycles racing, small flying drone visible above for scale.
+
+  Scene 7: Close-up action shot of the car's front wheel with sparks flying off the road surface, high-speed drift feel.
+
+  Scene 8: Interior POV shot from the car's dashboard, glowing speedometer, driving fast through a dark tunnel with lights streaking past.
+
+  Scene 9: Tunnel chase shot — motorcycle and car entering/exiting a concrete tunnel, wet road reflections, cinematic light contrast.
+
+  Negative prompt: blurry, low quality, distorted proportions, extra limbs, deformed hands, warped motorcycle frame, flickering lights, inconsistent lighting, cartoonish, low-res textures, watermark, text, logo, oversaturated colors, daytime bright sun (unless overcast), shaky unstable camera, jerky motion, unrealistic physics, plastic look, glitch artifacts.
+
+  #Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #VisualStorytelling #CinematicAI
+  #GenerativeAI  #AICreator

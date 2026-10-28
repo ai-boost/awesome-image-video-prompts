@@ -1,0 +1,39 @@
+id: h3-kids-counting-morphing-numbers-educational
+title:
+  en: Kids Counting Video With Morphing Numbers
+  zh: 数字变形的儿童数数动画
+model: MiniMax H3
+mode: text-to-video
+tags:
+- educational
+- kids
+- 3d-animation
+- morph-transition
+- timestamped
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2084552480554446929
+  credit: 𝐌
+  likes: 148
+  captured: '2026-10-28'
+  posted: '2026-08-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Strength04_X/status/2084552480554446929
+notes:
+  en: Every number follows one fixed learning pattern, and each shape morphs into the next, so the sequence flows. Timestamped beats pair narrator lines with a highlight color per number, and a recap closes the clip.
+  zh: 每个数字都遵循同一个学习模式，且每个图形变形为下一个，让整段动画连贯。分段时间码把旁白和每个数字的高亮色配在一起，结尾用总结画面收束。
+prompt: |
+  Create a 15-second animated educational video that teaches young children the numbers 1, 2, 3, and 4.
+  Learning pattern for every number:
+  NUMBER → COUNT SOUND → OBJECTS → PLAYFUL ACTION → NUMBER NAME
+  Target audience: children ages 3 to 6.
+  Visual style: Adorable rounded 3D characters, soft pastel colors, gentle expressions, premium minimalist tech aesthetic clean white space, soft studio lighting, smooth gradients, rounded geometry, crisp typography, polished transitions. Clean off-white background with a different soft color glow behind each number.
+  0:00–0:01 Intro: Star mascot bounces in, numbers float around it, text "Let's count!", tap creates ripple revealing "1".
+  0:01–0:04 | 1 is for One Sun: Large "1" shown, narrator: "One. Just one. One Sun." The 1 transforms into a smiling sun with soft rays. One gentle pulse of light. Word "ONE SUN" appears, highlight "1" in yellow.
+  0:04–0:07 | 2 is for Two Birds: The sun's rays curve into a "2." Narrator: "Two. Two Birds." The 2 splits gently into two round bluebirds that flutter and land side by side. Word "TWO BIRDS," highlight "2" in blue.
+  0:07–0:10 | 3 is for Three Flowers: The birds' wings curl into a "3." Narrator: "Three. Three Flowers." The 3 blooms into three pink flowers swaying gently. Word "THREE FLOWERS," highlight "3" in pink.
+  0:10–0:13 | 4 is for Four Fish: The flower stems bend into a "4." Narrator: "Four. Four Fish." The 4 splits into four little green fish swimming in a soft circle. Water ripple effect. Word "FOUR FISH," highlight "4" in green.
+  0:13–0:15 Recap: Sun, birds, flowers, fish appear as four tiles with "1 2 3 4" above. Mascot points to each; Narrator: "1, 2, 3, 4. Great counting!" Sparkle + chime.
+  Requirements: Keep each number visible before morphing, smooth shape transitions, no clutter, no scary faces, gentle squash-and-stretch, synced sound effects, calm and polished finish.
+
+  Prompt idea - @umesh_ai #MiniMaxH3

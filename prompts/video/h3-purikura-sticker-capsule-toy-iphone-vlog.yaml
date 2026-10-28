@@ -1,0 +1,36 @@
+id: h3-purikura-sticker-capsule-toy-iphone-vlog
+title:
+  en: Purikura sticker and capsule toy phone vlog
+  zh: 大头贴贴纸与扭蛋机的手机随拍日常
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- ugc
+- handheld
+- phone-look
+- timeline
+- ambient-sound
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2085656146363249079
+  credit: ÀBDŪLLÂH
+  likes: 74
+  captured: '2026-10-28'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/itxabdullaa/status/2085656146363249079
+notes:
+  en: A face lock on Image1 plus a five beat timeline in 3 second blocks, each with one action and one spoken line. The camera and style sections ask for an unedited old iPhone look with 1x lens, autofocus hunting and a pink white balance cast, and the sound section lists ambient layers.
+  zh: 用参考图锁定人脸，再按每3秒一段写五段时间线，每段只有一个动作和一句台词。镜头和风格部分要求未经剪辑的旧iPhone质感，包括1x镜头、对焦抖动和偏粉的白平衡，声音部分列出了环境声层次。
+prompt: |
+  Subject: Person from Image1. Face and hairstyle must match Image1 completely; do not transform into a different person. Outfit: same casual everyday streetwear as Part 1. Ignore the outfit, background, pose, and bottom text from Image. Even if image quality is rough, facial features must remain clearly defined. 16:9 horizontal. Entire video has an old iPhone low-quality everyday-video look. Constant heavy noise and compression artifacts throughout.
+  Setting: Same convenience store or arcade corner immediately after leaving the purikura booth. Sticker printer beside the booth, capsule toy machines, snack shelves, and bright fluorescent store lighting mixed with colorful purikura lights. Booth curtain still visible in the background. Any visible signs, packaging, and screen text remain completely illegible.
+  Timeline:
+  0–3s: Holds up the phone with the newly attached sticker, smiling proudly. Notices a tiny bonus sticker still attached to the backing sheet and laughs softly. "Wait... there's another one?"
+  3–6s: Peels off the tiny sticker and sticks it onto a reusable drink bottle or wallet. While pressing it down, a nearby capsule toy machine suddenly dispenses a capsule by itself with a loud clunk, making them jump in surprise.
+  6–9s: Picks up the unexpected capsule, shakes it curiously, opens it, and finds a tiny cute keychain inside. Holds it next to the purikura sticker, laughing. "No way... perfect timing!"
+  9–12s: Hooks the keychain onto their bag or phone strap, admires both the sticker and keychain together, then catches their reflection in the booth window and gives themselves an amused grin.
+  12–15s: Looks directly at the camera, holds up the phone and the new keychain together, gives a playful wink and thumbs-up while saying, "Best random stop ever." Freeze on the final frame.
+  Camera: Loose 1–1.5s cuts. Old iPhone, vertical, standard 1x lens (no distortion, standard field of view), handheld with slight natural shake while walking and reacting, steadier during close-up sticker and capsule moments. Slight autofocus hunting during close-ups. Mixed fluorescent and colorful booth lighting creates inconsistent white balance with a subtle magenta/pink cast. Natural exposure fluctuations throughout.
+  Sound: No BGM. Ambient convenience store and arcade background noise (faint chatter, vending machines, capsule toy machine sounds, footsteps), sticker peeling sound, plastic capsule opening, small keychain clink, natural laughter, close slightly muffled voice, subtle booth echo, phone handling sounds.
+  Style: Unedited low-quality phone video look. No color grading, no film look, no cinematic look, no beauty filter, no CG texture. No fisheye/ultra-wide (0.5x)/action-cam look, no barrel distortion, no vignette, no black lens-round at frame edges—flat standard field of view, frame filled edge to edge. Real skin texture maintained (pores, flyaway hairs, natural oil sheen). No cut consolidation, no scene skipping. No on-screen text (all store signs, product labels, booth screens, capsule contents, and sticker graphics/text remain illegible).

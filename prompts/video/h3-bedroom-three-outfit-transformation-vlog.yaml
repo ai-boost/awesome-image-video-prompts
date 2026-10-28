@@ -1,0 +1,86 @@
+id: h3-bedroom-three-outfit-transformation-vlog
+title:
+  en: Bedroom vlog with three seamless outfit changes
+  zh: 卧室博主视频中的三次无缝换装
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- fashion
+- outfit-change
+- vlog
+- transition
+- lipsync
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2090276653012287567
+  credit: H A J R A
+  likes: 83
+  captured: '2026-10-28'
+  posted: '2026-08-20'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/codewithhajra/status/2090276653012287567
+notes:
+  en: A timed beat sheet gives each outfit change its own three second slot, and the transitions are hidden behind a jacket thrown at the lens and a spinning move. A reference image locks identity, and the closing consistency list bans jump cuts, warped clothing and a changing room layout.
+  zh: 按时间段把每次换装拆成三秒一幕，并用抛向镜头的外套和旋转动作遮住转场。参考图锁定人物形象，结尾的一致性清单禁止跳切、衣物变形和房间布局变化。
+prompt: |
+  Format: 15 seconds | 16:9 | 4K HDR | 24fps | photorealistic cinematic vlog
+
+  Character: Use the girl from the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, body proportions, and overall appearance consistently throughout every shot. No face changes or identity drift.
+
+  Scene & Story:
+  0–3 sec — The Mystery Package
+  The video opens with a handheld creator-vlog shot in her cozy bedroom during late afternoon. She walks into frame holding a stylish garment bag, looking genuinely curious. She places it on the bed and looks directly into the camera with a playful expression.
+
+  She says naturally: “Okay… I found something for tonight, but I have absolutely no clue if I can pull it off.”
+
+  She unzips the garment bag, revealing only a glimpse of the outfit.
+
+  3–6 sec — First Reveal
+  She quickly steps behind a nearby room divider. The camera follows with a fast handheld whip-pan.
+
+  She emerges wearing a chic fitted top, tailored trousers, and elegant heels. She looks at herself in the mirror, slightly surprised by how good it looks.
+
+  She turns toward the camera and says: “Wait… this might actually work.”
+
+  She gives a small confident pose.
+
+  6–9 sec — The Unexpected Switch
+  Instead of snapping her fingers, she grabs a jacket hanging beside her and dramatically throws it toward the camera.
+
+  As the jacket briefly covers the lens, the outfit seamlessly transforms underneath it.
+
+  When she pulls the jacket away, she is wearing a completely different fashion-forward look: a stylish mini dress with statement shoes and subtle accessories.
+
+  She looks down, raises one eyebrow, then laughs.
+
+  9–12 sec — The Wild Card
+  She walks toward the mirror while the camera circles around her. She notices a third outfit hanging on the wardrobe door.
+
+  Suddenly, she steps backward and spins.
+
+  During the spin, her outfit naturally morphs into a glamorous evening look with a sophisticated silhouette, elegant heels, and refined accessories.
+
+  The transformation happens continuously during the movement with realistic fabric motion — no jump cut.
+
+  12–15 sec — Final Decision
+  She walks toward the camera with confident energy, then stops very close to the lens.
+
+  She looks at the camera, points toward herself, then gestures toward the three outfits visible behind her.
+
+  With a playful smile, she says:
+
+  “Okay… you’re choosing. Which one?”
+
+  The camera quickly pushes in toward her face as she laughs, ending on a natural freeze-like moment.
+
+  Visual Direction:
+  Ultra-realistic fashion creator vlog, authentic handheld camera movement, natural body language, expressive facial reactions, realistic fabric physics, seamless outfit transitions, natural hair movement, subtle mirror reflections, cinematic depth of field, realistic skin texture, soft late-afternoon daylight mixed with warm practical bedroom lighting, detailed wardrobe and bedroom environment, premium fashion-film aesthetic while maintaining casual YouTube-vlog energy.
+
+  Camera:
+  Handheld selfie framing, medium shots, quick whip-pans, subtle camera shake, smooth tracking movements, one controlled orbit around the character, final slow push-in.
+
+  Audio:
+  Natural bedroom ambience, fabric and wardrobe sounds, footsteps, garment movement, subtle mirror-room reverb, upbeat modern fashion-vlog background music, natural spoken dialogue, soft whoosh effects during the outfit transitions. No subtitles, no logos, no watermark.
+
+  Consistency & Quality:
+  No jump cuts during transformations. No duplicated character. No distorted hands or fingers. No warped clothing. No inconsistent room layout. No facial identity changes. No unnatural skin smoothing. Keep the same character, bedroom, lighting logic, and visual realism throughout.

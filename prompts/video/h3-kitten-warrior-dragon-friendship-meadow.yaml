@@ -1,0 +1,26 @@
+id: h3-kitten-warrior-dragon-friendship-meadow
+title:
+  en: Kitten warrior meets giant dragon in meadow
+  zh: 小猫战士在草地上遇见巨龙
+model: MiniMax H3
+mode: text-to-video
+tags:
+- fantasy
+- dragon
+- kitten
+- emotional-arc
+- cinematic
+source:
+  name: '@LettyVesper on X'
+  url: https://x.com/LettyVesper/status/2108843102417113181
+  credit: Letty
+  likes: 188
+  captured: '2026-10-28'
+  posted: '2026-10-10'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/LettyVesper/status/2108843102417113181
+notes:
+  en: The prompt scripts an emotional arc from fear to tenderness in one clip, pairing a size contrast between tiny hero and huge dragon with low angles, close-ups and golden sunset light. Concrete actions such as dropping the sword and the dragon closing its eyes give the model clear beats.
+  zh: 提示词在一段视频里写出从恐惧到温情的情绪转折，用小战士与巨龙的体型反差搭配低角度、特写和金色日落光线。丢下剑、巨龙闭眼这类具体动作给模型提供了清晰的节拍。
+prompt: |
+  A cinematic, ultra-realistic fantasy scene featuring an adorable fluffy ginger-and-white kitten warrior wearing miniature silver medieval armor, a flowing cream-colored cape, and carrying a tiny sword, standing bravely in a misty green meadow facing a massive, fearsome dragon covered in dark, rugged scales, sharp horns, and powerful leathery wings. The camera captures dramatic low-angle shots, close-ups of the kitten gripping its sword, and intense shots of the dragon lowering its enormous head toward the tiny warrior. The kitten initially stands courageously, but as the dragon approaches, it becomes frightened and drops its sword, looking up with teary eyes and a trembling expression. Suddenly, the mood shifts from danger to tenderness as the dragon gently touches its snout against the kitten, revealing a surprising bond between them. The kitten embraces the dragon's enormous face affectionately, and the dragon closes its glowing amber eyes peacefully. Golden sunset light illuminates the meadow, creating a magical, emotional atmosphere with volumetric lighting, realistic fur and scales, detailed metallic armor, cinematic depth of field, smooth camera movements, dramatic wide shots, intimate close-ups, 4K photorealistic CGI, and an epic fantasy film aesthetic, transitioning from suspense and fear to warmth, friendship, and heartwarming emotional connection.

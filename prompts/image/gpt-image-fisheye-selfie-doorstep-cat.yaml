@@ -1,0 +1,25 @@
+id: gpt-image-fisheye-selfie-doorstep-cat
+title:
+  en: Fisheye selfie on a doorstep with curious cat
+  zh: 门阶上与好奇猫咪的鱼眼自拍
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- fisheye
+- selfie
+- pet
+- candid
+- street
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2111697628941717933
+  credit: Eesha
+  likes: 173
+  captured: '2026-10-28'
+  posted: '2026-10-18'
+notes:
+  en: The prompt asks for a fisheye lens look and puts an oversized cat nose in the near foreground, so the distortion gives depth and humour. It names the outfit pieces and the weathered door texture, and it asks to preserve the face from the uploaded selfie.
+  zh: 提示词指定鱼眼镜头，并让猫的大鼻子占据近景，畸变带来纵深感和趣味。它逐件写明服装和斑驳的门板质感，并要求保留自拍中的面部特征。
+prompt: |
+  Create a realistic fisheye photo of the woman in my uploaded selfie, preserving her exact facial features. She sits on a doorstep in front of weathered green wooden doors, wearing a beige trench coat, ivory turtleneck, and light blue jeans. A curious tabby-and-white cat fills the right foreground with an oversized nose and expressive eyes. Soft daylight, natural textures, playful candid mood, ultra-realistic photography, landscape 16:9, no text.

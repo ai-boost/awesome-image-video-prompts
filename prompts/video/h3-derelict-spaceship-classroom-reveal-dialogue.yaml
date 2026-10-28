@@ -1,0 +1,26 @@
+id: h3-derelict-spaceship-classroom-reveal-dialogue
+title:
+  en: Derelict spaceship door opens onto school classroom
+  zh: 废弃飞船的门后竟是小学教室
+model: MiniMax H3
+mode: text-to-video
+tags:
+- sci-fi
+- dialogue
+- suspense
+- audio-cues
+- plot-twist
+source:
+  name: '@cocktailpeanut on X'
+  url: https://x.com/cocktailpeanut/status/2085498501384024495
+  credit: cocktail peanut
+  likes: 96
+  captured: '2026-10-28'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/cocktailpeanut/status/2085498501384024495
+notes:
+  en: Each spoken line is written out and placed at a specific beat, so the model delivers speech with the right tone and timing. A closing audio list covers static, hum, footsteps, door hiss, then classroom sound, which supports the suspense to absurd reveal.
+  zh: 每句台词都写明说话人和出现的时机,模型因此能把语气和节奏做对。结尾的音频清单依次列出电流声、低频嗡鸣、脚步、开门声和教室环境音,支撑从悬疑到荒诞的反转。
+prompt: |
+  cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic uniforms follows a mysterious distress signal and boards a dark, abandoned spacecraft drifting in space. Flashlights cut through darkness as they move cautiously through narrow metallic corridors. Warning lights flicker, metal creaks, and their boots echo on the floor. One crew member says, "Signal's coming from deeper inside." They enter a large chamber filled with hundreds of empty cryogenic pods, all open and abandoned. Another crew member says nervously, "Where did everyone go?" They approach a final closed door at the far end. The captain slowly opens it, and instead of another ship compartment, it reveals a completely normal present-day elementary school classroom in bright daylight. Children sit at desks, backpacks on the floor, colorful posters on the walls, and a teacher at the front turns to the crew and scolds them: "You're late again. Take your seats." The astronauts stand frozen in confusion at the doorway. Realistic tone, smooth camera movement, strong suspense buildup, with the final reveal clear, sudden, and absurd. Include realistic audio: radio static, low ship hum, footsteps, pod machinery ambience, door hiss, then ordinary classroom sounds and the teacher's voice.

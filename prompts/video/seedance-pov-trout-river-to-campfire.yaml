@@ -1,0 +1,80 @@
+id: seedance-pov-trout-river-to-campfire
+title:
+  en: POV trout catch, clean and campfire grill
+  zh: 第一视角钓鳟鱼、处理并篝火烧烤
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- pov
+- multi-shot
+- hard-cuts
+- outdoor
+- action-camera
+source:
+  name: '@abxxai on X'
+  url: https://x.com/abxxai/status/2087189194720657649
+  credit: abxxai
+  captured: '2026-10-28'
+  posted: '2026-08-11'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/abxxai/status/2087189194720657649
+notes:
+  en: Four timed segments with three hard cuts, each with its own field of view in degrees, keep the chest-mounted GoPro look steady. Named references lock the location and hands, and per-segment sound cues plus physics and positive locks keep props consistent.
+  zh: 四个带时长的片段和三次硬切，每段单独标注视场角度，稳住胸挂运动相机的观感。命名参考图锁定场景和双手，分段声音设计加物理与一致性约束让道具前后一致。
+prompt: |
+  SCENE CONTEXT
+  POV river-to-campfire sequence at a jade-green alpine river through birch/cedar forest, late-afternoon light. A trout is caught, cleaned, seasoned, grilled over an open fire, then eaten, with one sip from a glass bottle while it cooks. 30s, four continuous segments, three hard cuts, real chest-mounted action camera.
+
+  ACTIVE REFERENCES
+
+  @location1
+  : jade-green river, granite boulders, gravel bar, stone fire-ring, tree-stump table, birch/cedar tree line, faint peaks. 100% matches reference.
+
+  @hands1
+  : sun-tanned forearms, light-blond arm hair, olive sleeve rolled to elbow, braided wrist cord. Same fly rod, folding knife, wood board, wire grill basket, plain glass bottle, brown fizzy liquid, no label. 100% matches reference.
+
+  LOCATION MAP
+  Segment A: river foreground, tree line behind. Segments B-D: gravel bar foreground, fire-ring and stump table midground, tree line and peaks background. POV chest-to-eye height, moving only with the body. Key light low, behind camera-left.
+
+  FIRST FRAME / BLOCKING
+  Non-empty opening frame: already mid-cast, rod raised, line already peeling off the reel. Water fills the lower two-thirds, forest/sky the top third.
+
+  FORMAT MODE
+  Controlled multi-shot, three HARD CUTs, camera does not cut anywhere else:
+  A (0-9s) river, one continuous take. HARD CUT.
+  B (9-21s) board, one continuous take. HARD CUT.
+  C (21-27s) fire, one continuous take. HARD CUT.
+  D (27-30s) eating, one continuous take.
+
+  OPTICS
+  84° in A easing to 63° through the fight. 63° easing to 18° across B. 63° opening to 29° in C. 29° held in D. No drift within any segment.
+
+  CAMERA
+  Chest-height POV, moving only with body motion — forward stroke on the cast, downward tilt on the knife and grate, forward lean when hands work close. Soft highlight roll-off on bright water and hot metal.
+
+  ACTION
+  A: rod arcs, line whistles; tip snaps down as the trout strikes; rod pumps, reel clicking, fish surfacing closer each pump; hand closes behind the gills, lifts the fish clear, holds it still one beat as water streams off. B: boots cross the gravel, fish set on the board, knife meets scales, scrapes tail to head; one clean line opens the belly, organs lift free; fish rinses in the shallows, pink cloud drifting off; salt, pepper, herbs scatter over the flesh; fish folds into the basket, latch clacks. C: kindling catches from a breath, flame licks up; basket lowers onto the grate, skin bubbles and browns, smoke lifts. D: bottle tips up for one swallow; fork pauses a half-second at the flesh before splitting it open, steam lifting as a piece rises toward camera, one quiet exhale closing the shot.
+
+  PERFORMANCE
+  Hands stay continuously busy with real working tasks, never idle. Pore-level realism: vellus arm hair in the breeze, capillary flush from cold water. Movements read practiced, unhurried, one deliberate pause at the fish-lift and one at the first bite, restrained and human, never cartoonish.
+
+  PHYSICS
+  No floating props. Correct contact shadows under every prop, every segment. Water carries real weight and splash. Fire holds true flicker, heat-shimmer, smoke on a light breeze. Mass and inertia carry through the rod bend, the fish's thrashing and the latch.
+
+  LIGHTING
+  WB locked 5600K, warm low sun behind camera-left as key, cool sky fill through A-B. From C onward, ember-orange fire light adds a low rim on hands and fish alongside the same key.
+
+  COLOR GRADE
+  Cool jade-green river/forest in A, warm honey wood and pale gravel in B, ember-orange fire glow and seared skin in C-D. Color tied to source and surface, not a flat list.
+
+  AUDIO
+  Warm acoustic guitar bed under everything, mixed low, sitting quietly beneath the natural sound. Diegetic: river current and line-whistle opening A, splash and reel-drag through the fight; gravel footsteps opening B, knife-on-wood, one clean cut sound, rinse-splash, hinge-click closing it; twig-snap opening C, crackle into sizzle; glass clink and swallow opening D, fork scrape, steam hiss, one quiet chuckle closing the shot. No subtitles.
+
+  STYLE
+  8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, true action-camera color science.
+
+  OUTPUT SETTINGS
+  Real-time throughout, no speed ramping, FOV holds exactly as stated per segment with no drift across any hard cut.
+
+  POSITIVE LOCKS
+  Same hands, sleeve and wrist cord across all four segments. Same rod, knife, board, basket and bottle, no substitutions across any cut. Same river, gravel bar and fire-ring geometry held across every segment. Fish skin and flesh stay anatomically real. Eyes stay natural — no eye glow. Contact shadows read clearly every segment. No logos, no UI, no subtitles anywhere in frame.

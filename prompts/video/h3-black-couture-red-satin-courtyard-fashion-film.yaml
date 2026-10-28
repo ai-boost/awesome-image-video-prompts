@@ -1,0 +1,44 @@
+id: h3-black-couture-red-satin-courtyard-fashion-film
+title:
+  en: Red satin reveals couture model in courtyard
+  zh: 红色绸缎揭示庭院中的高定模特
+model: MiniMax H3
+mode: text-to-video
+tags:
+- fashion
+- luxury
+- timecoded-shots
+- whip-pan
+- vertical-9x16
+source:
+  name: '@DaniaSafvi on X'
+  url: https://x.com/DaniaSafvi/status/2109884479619682650
+  credit: Dania
+  likes: 87
+  captured: '2026-10-28'
+  posted: '2026-10-13'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/DaniaSafvi/status/2109884479619682650
+notes:
+  en: A timecoded five beat structure moves from a red satin close-up to a spotlit walk, a whip-pan, a courtyard transition, an orbit and a symmetrical hero shot. Separate Style and Audio lines, an end title and a consistency clause (face, outfit, no flicker) keep the 15 second vertical clip coherent.
+  zh: 按时间码分成五段：红绸特写、聚光灯走秀、急摇转场、庭院环绕、对称收尾定格。风格与音频单独成行，并加入结尾字幕和一致性约束（面部、服装、无闪烁），让15秒竖屏片段保持统一。
+prompt: |
+  Create a 15-second cinematic luxury fashion video in 9:16 vertical format. A tall American female model with long dark hair wears a dramatic black couture gown with silver details and a flowing train.
+
+  0–3 sec: Close-up of red satin fabric moving through darkness before revealing the model under dramatic spotlights.
+
+  3–6 sec: The model walks confidently toward the camera. A stylish whip-pan captures her turning as the gown flows naturally.
+
+  6–10 sec: Seamless transition to a modern architectural courtyard with towering stone walls and golden sunlight. The model walks gracefully as the wind moves her hair and gown.
+
+  10–13 sec: The camera circles around her as she strikes a powerful high-fashion pose.
+
+  13–15 sec: Symmetrical hero shot with dramatic golden rim lighting, fading into black.
+
+  Style: Ultra-realistic luxury fashion campaign, cinematic lighting, natural fabric physics, elegant camera movements, deep shadows, black and gold color palette, 4K quality.
+
+  Audio: Deep cinematic bass, subtle percussion, and soft fabric sounds. No dialogue or subtitles.
+
+  Text at the end: “BEYOND THE ORDINARY”
+
+  Maintain consistent facial features, hairstyle, outfit, and body proportions throughout. No distortion, flickering, watermarks, or random text.

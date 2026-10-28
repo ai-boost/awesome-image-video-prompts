@@ -1,0 +1,25 @@
+id: wan-web-swing-heroine-taxi-crash
+title:
+  en: Masked heroine web swing ends in taxi crash
+  zh: 蒙面女侠蛛丝摆荡撞上出租车
+model: Wan 3.0
+mode: text-to-video
+tags:
+- action
+- cinematic
+- multi-shot
+- anamorphic
+- audio-timing
+source:
+  name: '@ariaxawan on X'
+  url: https://x.com/ariaxawan/status/2112176287750259004
+  credit: Aria
+  likes: 183
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+video: https://x.com/ariaxawan/status/2112176287750259004
+notes:
+  en: Five two second shots with hard cuts, each with its own camera move, and a fixed canyon layout and screen direction keep the action coherent. Exact audio timestamps, a 140 BPM score and an end exactly at impact make the final frame land.
+  zh: 五个两秒分镜用硬切衔接，每镜指定独立机位，并锁定街谷布局与左到右的运动方向，动作保持连贯。音效写到具体秒数，配合140 BPM配乐，并要求恰好在撞击瞬间收尾。
+prompt: |
+  10-second cinematic action sequence, composed for an ultra-wide 2.39:1 anamorphic cinema frame throughout, crop nothing from a different shape. No title card, intro, establishing shot, fade-in, text, subtitles, dialogue, or speech. Open mid-swing and end exactly at impact, with no aftermath or resolution. Five consecutive 2-second sections, hard cuts on motion, no gaps or overlaps. Original adult woman, athletic slim build, fair skin, black high ponytail, fitted matte charcoal bodysuit with electric-teal side and shoulder panels, dark half-mask over nose and above with mouth and chin visible, fingerless black gloves, compact silver-and-teal wrist launchers, grey grip boots. Not an existing character, no emblem, no red or blue costume. A taut, pale white-silver silk web-line connects wrist launcher to anchor, supports her weight. Yellow sedan taxi, black blank roof sign. Dense downtown street canyon between two glass-and-concrete towers, orange dusk reflections, rooftop gantries, tanks and antennae, traffic far below. Keep the same canyon and spatial geography in all shots. Fixed low golden sun from screen-left, soft sky fill, white-gold rim from far facade, warm street lamps, gold highlights, teal-blue shadows, natural skin, mild grain, spherical lens, subtle vignette, sun flare only. Handheld shake throughout, rising at impact, maintain focus and coherent screen direction left-to-right. Shot 1 (0–2s): side-tracking medium-wide view, she is already airborne with line taut, swings smoothly downward through the lowest point, legs tucked, body nearly horizontal, ponytail streaming. Shot 2 (2–4s): low street-level wide-angle looking up, she rises past camera, releases at the apex, performs one fast forward rotation and fires a second line toward the far tower's billboard gantry. Shot 3 (4–6s): close follow from behind, line catches and pulls tight, she swings into the glass facade, boots scrape along it with tiny reflected sparks, then pushes off and turns to face the street. Shot 4 (6–8s): controlled orbit around her, she swings down the tower, line frays against a ledge and snaps, she releases into a head-first dive. Shot 5 (8–10s): compressed side-tracking descent, she fires a final line toward a streetlamp, swings low across the junction as the yellow taxi crosses her path, she twists, but her left shoulder and hip strike the taxi roof edge exactly at 10.0s. Show the roof denting and side window spider-cracking, ponytail whipping forward, car lurching sideways, everyone remains uninjured, no blood or gore. End on the instant of impact, all still moving. Physics-led pendulum motion, believable momentum and anatomy, no impossible body bends. Audio: sharp web-launch thwips at 0.0s, 3.4s, 8.6s, taut-line hum, rising wind rush, cloth flutter, glass scrape, line snap, distant traffic and horns, taxi horn, tire screech, sharp metal-and-glass impact. Fast orchestral score with driving drums and pulsing synth bass at 140 BPM, already playing at 0.0s, open-air sound with short glass-canyon echo. Hard cut audio at 10.0s. No voice.

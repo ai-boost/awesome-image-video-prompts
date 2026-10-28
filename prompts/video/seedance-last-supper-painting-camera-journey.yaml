@@ -1,0 +1,105 @@
+id: seedance-last-supper-painting-camera-journey
+title:
+  en: Camera Flight Inside a Renaissance Last Supper Painting
+  zh: 镜头飞入文艺复兴风格最后的晚餐画作
+model: Seedance 2.5
+mode: image-to-video
+tags:
+- painting
+- camera-move
+- macro
+- orbit
+- vertical
+source:
+  name: '@abxxai on X'
+  url: https://x.com/abxxai/status/2110709089710088537
+  credit: abxxai
+  captured: '2026-10-28'
+  posted: '2026-10-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/abxxai/status/2110709089710088537
+notes:
+  en: The painting is locked as the exact first and final frame, and the prompt asks for full 3D geometry while keeping the oil paint look. A timed shot list (macro bread, wine glass, hand, mantle, face, orbit behind) runs on one continuous move, and a line stating that no figure moves keeps the poses stable.
+  zh: 画作被锁定为首帧和尾帧，提示词要求补全三维几何并保留油画质感。用分秒镜头表（面包微距、酒杯、手、披风、面部、绕到身后）串成一次连续运镜，并写明人物全程不动以稳住姿态。
+prompt: |
+  upload the painting image as first frame and use this video prompt
+
+  [First-Frame.png] Create a 20-second vertical 9:16 image-to-video film, using the supplied image as the exact first frame and matching final frame. One continuous camera journey through the room, with macro detail, a gradual emotional reveal, an orbit behind the central figure and a seamless return.
+
+  Build the supplied scene as complete 3D geometry while preserving its Renaissance oil-painted appearance. The table stands in real space, the tablecloth drapes over its edges, the food and vessels sit on its surface, and every figure has a fully dimensional body beneath their robes. As the camera passes around them, reveal the sides and rear surfaces hidden from the opening viewpoint. Retain the original brushwork, warm earthy colours, soft daylight and expressive faces.
+
+  IDENTIFY AND PRESERVE THE FIGURES
+
+  The central figure sits at the middle of the table. He has long wavy brown hair, a full brown beard and downcast, calm eyes. He wears a deep red robe with a rich blue mantle draped across his left shoulder and lap. His right hand rests palm-down on the tablecloth at the left of the frame; his left hand lies open, palm-up, beside a small glass of red wine.
+
+  To his right (left of frame) sits a young apostle with long golden-brown hair, a green mantle over a red garment, his sorrowful gaze turned toward the centre. In front of him, a balding older man with a dark beard, wearing red and blue, leans in with a pointing gesture. A partly visible figure with curly hair sits at the far left edge.
+
+  To his left (right of frame) a man with thick black curly hair and a dark beard, in a blue robe, turns to speak with a grey-bearded elder in an olive-green robe at the right edge, who raises both hands in an open, questioning gesture.
+
+  Keep every pose, gesture, gaze direction and costume exactly as in the reference. No figure moves.
+
+  THE ROOM AND TABLE
+
+  A dark coffered wooden ceiling. A grey back wall with three tall windows opening onto a sunlit Tuscan landscape of blue hills, cypress trees, terracotta villas and a bell tower. Dark blue and gold damask panels on both side walls.
+
+  A long table covered in white linen with a visible grid of fold creases, hanging almost to the floor. On it: scattered bread rolls and crumbs, pewter plates, a central plate of fish, the small glass of red wine, a bowl of green olives, a plate of red and green grapes at the right, a blue-and-white decorated bowl with bread at the left, and a dark glazed ceramic jug at the far left. Wooden trestle legs and the hems of robes are visible below the cloth.
+
+  0–3 SECONDS — ENTER OVER THE BREAD
+
+  Begin on the exact supplied image for approximately half a second.
+
+  The camera then flies forward into the room and descends toward the bread roll resting on the tablecloth just left of centre. Pass macro-close above it.
+
+  Reveal the roll's rounded volume, cracked golden crust, flour-dusted ridges and the small crumbs scattered around it, each casting a tiny shadow on the linen. The nearest crust passes softly out of focus beneath the lens as the camera glides on.
+
+  The tablecloth has physical relief: woven threads, raised fold creases and shallow dips where objects press into it. The bread falls behind the moving camera while the central figure stays fixed farther into the room. This changing perspective establishes real depth immediately.
+
+  3–7 SECONDS — GLIDE ACROSS THE TABLE TO THE WINE
+
+  Travel low and smoothly across the linen toward the centre of the table, skimming past the rim of the fish plate. Reveal the plate's worn pewter edge, its curved depth and the painted fish resting inside.
+
+  Continue to the small glass of red wine. Curve partly around it at macro distance, revealing the thickness of the glass, the flat surface of the wine, and daylight from the windows refracting through it as a soft red glow on the cloth.
+
+  The glass crosses the near foreground, the open palm-up hand appears just beyond it, and the back wall shifts more slowly behind. Maintain forward momentum throughout.
+
+  7–10 SECONDS — RISE ALONG THE OPEN HAND AND MANTLE
+
+  Rise past the open hand, revealing the gentle curve of the fingers, the creases of the palm and its weight resting on the cloth.
+
+  Continue upward along the blue mantle where it falls across his lap and left shoulder. Travel close to the fabric without touching it. Show the painted texture, the deep blue folds as dimensional surfaces: raised crests catch the window light, undersides fall into shadow, and the red robe shows beneath the mantle's edge.
+
+  The blue fabric passes beside the lens as his face comes into view above.
+
+  10–13 SECONDS — REVEAL THE CENTRAL FACE
+
+  Curve inward and slightly upward toward his face.
+
+  Approach a close view of his lowered eyes, calm brow, nose and the soft strands of his beard and hair. Preserve the exact face from the reference. Reveal the three-dimensional shape of the cheekbones and brow, and the subtle painted texture of the skin, fully connected to his neck and shoulders.
+
+  Ease the camera's speed for approximately one second while continuing a gentle sideways drift. Let the stillness and quiet sorrow register. He does not move; the emotion comes from discovering the expression already present in the painting.
+
+  13–17 SECONDS — ORBIT BEHIND HIM TO THE WINDOW
+
+  Continue past the outside of his face, over his blue-draped left shoulder, and orbit smoothly behind him into the narrow space between his back and the central window.
+
+  Reveal the back of his long wavy hair, the rear folds of the blue mantle and red robe, and the thickness of his shoulders beneath the fabric. His shoulder passes close beside the lens as a soft foreground shape.
+
+  Turn gently to look past him through the central window: the sunlit Tuscan hills, cypresses and villas gain real depth, the far hills hazy and the near trees sharper. Then continue the arc so the view swings back over his other shoulder, revealing from behind the backs of the apostles' heads, the young apostle's green mantle, and the whole table spread out before them toward where the viewer began.
+
+  17–20 SECONDS — RETURN TO THE ORIGINAL COMPOSITION
+
+  Rise and retreat in one smooth arc over the table, passing above the grey-bearded elder's raised open hands at the right, then curving back onto the opening camera axis.
+
+  Reveal all figures again in their exact positions. The bread, plates, wine glass, olives, grapes, decorated bowl and ceramic jug settle back onto the table as in the supplied image. The coffered ceiling, three windows and damask walls realign with the frame.
+
+  Gently decelerate into the exact opening viewpoint, lens perspective, framing and lighting. End on a frame matching the supplied image so the next repetition flows directly into the opening movement.
+
+  CAMERA, STYLE AND CONTINUITY
+
+  Use one uninterrupted physical camera path: over the bread, across the table to the wine, up the open hand and blue mantle, to the central face, around behind him to the window, back over his shoulder and out to the original wide composition.
+
+  Use natural motion blur and shallow depth of field during macro passes. Transfer focus smoothly to the next detail along the route. Foreground objects pass the lens because the camera moves around them; no figure changes pose, blinks, speaks or moves toward the camera.
+
+  Maintain one coherent room with stable geometry and consistent warm daylight from the windows. Hidden surfaces belong to the existing figures, clothing, table and walls and match their visible design. Preserve the oil painting's brushwork, canvas texture and colour at every scale.
+
+  No cuts, crash zooms, dissolves, flat canvas flyovers, wall-relief effects, scene morphing, additional people, new props, extra food, text or watermark.

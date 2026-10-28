@@ -1,0 +1,37 @@
+id: seedance-rainy-japanese-neighborhood-vlog
+title:
+  en: Young woman watching rain from a Japanese bus stop
+  zh: 日本公交站避雨的年轻女子望向雨中
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- japanese-vlog
+- rain
+- lifestyle
+- vertical
+- character-consistency
+source:
+  name: '@ZorviaLux on X'
+  url: https://x.com/ZorviaLux/status/2105533415026241635
+  credit: ZorviaLux
+  captured: '2026-10-28'
+  posted: '2026-10-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZorviaLux/status/2105533415026241635
+notes:
+  en: One outfit and hairstyle description plus a closing rule to keep face, outfit and proportions identical in every scene holds the character steady. Camera direction runs in order from side profile close up to medium shot to rear tracking shot to smiling close up, with 9:16 and 24fps stated in a technical line.
+  zh: 先详细描述发型与服装，结尾再强调所有镜头中脸部、服装和身材比例保持一致，以稳住角色。镜头按侧脸特写、中景、背后跟拍、微笑特写的顺序写明，并在技术行里给出 9:16 和 24fps。
+prompt: |
+  Create an ultra-realistic cinematic Japanese lifestyle vlog featuring a young Japanese woman enjoying a peaceful rainy day in a quiet Japanese neighborhood.
+
+  A young woman with black hair tied in a neat ponytail, wearing a white and navy striped oversized T-shirt, beige shorts, and white sneakers, stands under a traditional covered bus stop during light rain. She looks outside, gently extends her hand to feel the raindrops, then turns around and runs playfully along a quiet residential street.
+
+  Show cinematic transitions of her running through the wet neighborhood, passing traditional Japanese houses, green trees, and a peaceful park. She eventually reaches a wooden shelter in the park, adjusts her ponytail, stretches her arms, and smiles naturally toward the camera.
+
+  Visual Style: Photorealistic Japanese slice-of-life cinematography, soft overcast daylight, realistic rain reflections, natural human movements, beautiful greenery, peaceful atmosphere, authentic Japanese residential environment.
+
+  Camera Direction: Start with a cinematic side-profile close-up, transition into a medium shot of her touching raindrops, followed by a smooth rear tracking shot while running. Finish with emotional close-ups and a warm natural smile.
+
+  Technical: 4K, 9:16 vertical, 24fps, realistic facial expressions, consistent character identity, smooth camera movement, natural physics, detailed environment, cinematic color grading.
+
+  Important: Maintain the same woman's face, hairstyle, outfit, and body proportions throughout every scene. No facial distortion, no outfit changes, no unnatural movements, no text or watermark.

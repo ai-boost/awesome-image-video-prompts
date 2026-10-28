@@ -1,0 +1,33 @@
+id: seedance-busan-coastal-street-travel-vlog
+title:
+  en: Woman on Busan coastal street, tram and finger heart
+  zh: 釜山海边街道上的女孩,电车与比心
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- travel-vlog
+- timed-scenes
+- character-consistency
+- busan
+- realistic
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2113151262103621812
+  credit: MissDelulu9
+  captured: '2026-10-28'
+  posted: '2026-10-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/MissDelulu9/status/2113151262103621812
+notes:
+  en: Fixes format, length, resolution and frame rate in the opening line, then locks the character with one fixed outfit and hair description. Four timed scenes of 2.5 seconds each give every beat a clear action and a gradual camera approach.
+  zh: 开头一句定好时长、画幅、分辨率和帧率,再用固定的发型与服装描述锁定人物。四个各 2.5 秒的分镜,每段只写一个动作,镜头逐步靠近。
+prompt: |
+  Create a 10-second ultra-realistic 4K video, 16:9 landscape, 60 FPS. A cute adult woman with long silky dark-brown hair, soft bangs, almond-shaped brown eyes, and natural skin texture. She wears a pastel pink cardigan, white top, ivory pleated mini skirt, white sneakers, a cream shoulder bag, and a pink hair clip.
+
+  Scene 1 (0–2.5s): On a sloping coastal street in Busan, she smiles, points at the blue ocean, and invites her boyfriend to follow.
+
+  Scene 2 (2.5–5s): A yellow-green tourist tram passes behind her. She waves excitedly from the safe sidewalk.
+
+  Scene 3 (5–7.5s): With the turquoise ocean behind her, she makes a tiny finger heart, then giggles shyly as the camera approaches.
+
+  Scene 4 (7.5–10s): She playfully reaches for the camera, laughs, and ends with a cute smile while pointing at the ocean.

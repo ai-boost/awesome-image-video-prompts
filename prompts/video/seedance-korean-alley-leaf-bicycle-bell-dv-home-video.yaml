@@ -1,0 +1,109 @@
+id: seedance-korean-alley-leaf-bicycle-bell-dv-home-video
+title:
+  en: Korean Woman and Bicycle Bell, DV Home Video
+  zh: 韩国女生与自行车铃铛的老式DV家庭录像
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- dv-camcorder
+- home-video
+- korean
+- street
+- timed-beats
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2096931238460178592
+  credit: SimplyAnnisa
+  captured: '2026-10-28'
+  posted: '2026-09-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/SimplyAnnisa/status/2096931238460178592
+notes:
+  en: A timed beat structure splits 30 seconds into five 6 second scenes, each with one small action and a line of dialogue. A detailed camcorder flaw list (autofocus hunting, accidental zooms, tape noise) plus a location sound only audio rule keeps it looking like real footage.
+  zh: 把30秒按时间码拆成五个6秒段落，每段只有一个小动作和一句台词。详细列出DV摄像机的瑕疵（对焦漂移、意外变焦、磁带噪点），并规定只有现场环境声，让画面更像真实素材。
+prompt: |
+  Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean woman having an ordinary but unexpectedly memorable summer evening in an older Seoul neighborhood.
+
+  A naturally pretty Korean woman in her early 20s, realistic skin, minimal makeup, long black slightly wavy hair, pale-blue knit top, loose cream trousers, white sneakers, brown crossbody bag, and silver watch. Keep her identity, face, outfit, hairstyle, and proportions perfectly consistent.
+
+  SETTING
+
+  A quiet older Seoul residential street with concrete lanes, apartment buildings, potted plants, bicycles, utility poles, leafy trees, and a tiny neighborhood convenience shop. Lived-in and authentic. No brands, logos, advertisements, or tourist locations.
+
+  CAMERA STYLE
+
+  Raw footage from a cheap early-2000s DV camcorder: shaky handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft detail, mild tape noise, accidental zooms, and natural camera mistakes. No stabilization or cinematic shots.
+
+  00:00–00:06 — THE MYSTERY
+
+  She walks down the street holding a small plastic bag when she suddenly hears a faint jingling sound behind her.
+
+  She stops and looks around.
+
+  The camera quickly zooms toward her confused face.
+
+  She says:
+
+  “Did you hear that?”
+
+  00:06–00:12 — THE LITTLE DISCOVERY
+
+  She follows the sound and finds a small old bicycle with a tiny bell stuck slightly open.
+
+  She gently taps the bell.
+
+  Ding.
+
+  She looks at the camera and laughs.
+
+  Then she notices a small handwritten-looking paper tag hanging from the bicycle, but the writing is too unclear to read.
+
+  00:12–00:18 — THE WIND
+
+  A sudden breeze blows several dry leaves across the street.
+
+  One lands directly on her head.
+
+  She doesn't notice.
+
+  The camera operator laughs.
+
+  She looks confused, then realizes and removes the leaf.
+
+  She gives the camera an embarrassed stare.
+
+  00:18–00:24 — THE SMALL CHALLENGE
+
+  She places the leaf on the bicycle seat and tries to balance it there.
+
+  The wind immediately blows it away.
+
+  She tries again.
+
+  It falls again.
+
+  She laughs and finally gives up.
+
+  00:24–00:30 — THE MEMORY
+
+  She picks up the leaf, puts it into her small bag, and starts walking home.
+
+  After a few steps, she turns toward the camera and says:
+
+  “Okay, that was pointless.”
+
+  She smiles and keeps walking.
+
+  The camera follows her for a few seconds before abruptly cutting to black.
+
+  AUDIO
+
+  Natural location sound only: footsteps, distant traffic, bicycle bell, summer insects, leaves, wind, neighborhood ambience, and natural laughter.
+
+  No music, narration, subtitles, captions, logos, watermarks, or on-screen text.
+
+  REALISM
+
+  Natural human reactions, imperfect timing, realistic physics, consistent objects, authentic Korean neighborhood details, and believable DV-camera imperfections. No CGI look, distorted hands, extra fingers, duplicated people, identity drift, or outfit changes.
+
+  16:9 aspect ratio.

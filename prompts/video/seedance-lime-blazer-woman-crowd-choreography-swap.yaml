@@ -1,0 +1,300 @@
+id: seedance-lime-blazer-woman-crowd-choreography-swap
+title:
+  en: Woman in lime blazer replaces crowd lead
+  zh: 青柠西装女子替换人群编舞主角
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- character-replacement
+- identity-lock
+- motion-transfer
+- crowd-choreography
+- timed-segments
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2100115896111161691
+  credit: john_my07
+  captured: '2026-10-28'
+  posted: '2026-09-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/john_my07/status/2100115896111161691
+notes:
+  en: A reference video locks motion, camera and cut points, while one reference image locks identity, with a long list of preserve and never change rules. Timed segments from 0 to 30 seconds, a fixed wardrobe list and an instruction to alter only the central character keep the original choreography intact.
+  zh: 用参考视频锁定动作、镜头和切点，用一张参考图锁定人物身份，并列出大量保持项与禁止项。0到30秒的分段时间轴、固定的服装清单，加上只替换中心人物的指令，让原编舞完整保留。
+prompt: |
+  Use the uploaded reference VIDEO as the exact motion, choreography, camera, framing, timing, pacing, shot duration and cut-point reference.
+
+  Use <image_1> as the STRICT identity reference for the MAIN WOMAN.
+
+  The final video should feel like the SAME original video, but with the original central man completely replaced by the woman from <image_1>.
+
+  Do NOT recreate or preserve the original man's face or identity.
+
+  IDENTITY <image_1>
+
+  The central character is the exact same woman shown in <image_1>.
+
+  Preserve her:
+
+  - exact face
+  - facial structure
+  - jawline
+  - cheekbones
+  - nose
+  - eyes
+  - eyebrows
+  - lips
+  - ears
+  - skin tone
+  - natural facial proportions
+  - hairstyle
+  - hair length, volume and texture
+  - any facial features visible in the reference
+  - natural body proportions
+
+  Maximum identity preservation throughout the entire video.
+
+  She must remain recognizably the same person from the uploaded photograph in every shot and every angle.
+
+  NO face morphing.
+  NO identity drift.
+  NO changing facial structure.
+  NO different hairstyle.
+  NO unwanted hair changes.
+  NO beautification or artificial facial retouching.
+  NO age changes.
+  NO facial distortion.
+
+  CHARACTER REPLACEMENT
+
+  Replace ONLY the original central man with the woman from <image_1>.
+
+  Keep the exact position, scale, body movement, gestures, walking path, head movements, smoking actions and timing from the reference video.
+
+  Everything the original central character does in the reference video should be performed by the <image_1> woman at the same moment and with the same choreography.
+
+  Do not reinterpret or redesign the choreography simply because the replacement character is female.
+
+  WARDROBE
+
+  Dress <image_1> in the same character-reference outfit, adapted naturally for the woman:
+
+  Acid lime green single-breasted blazer, notch lapels, two buttons, buttoned closed, slightly oversized shoulders.
+
+  Plain white cotton shirt underneath.
+
+  Narrow black knitted tie, neatly knotted.
+
+  Straight black trousers.
+
+  Plain black leather ankle boots, low heel.
+
+  No jewellery.
+  No watch.
+  No belt.
+  No bag.
+  No phone.
+  No logos or patterns.
+
+  The lime blazer must remain exactly throughout the entire video.
+
+  IMPORTANT:
+  Do not let the wardrobe replacement change the original choreography, body positioning, composition or pacing.
+
+  SMOKING ACTION
+
+  Preserve the smoking sequence from the reference video exactly.
+
+  At the beginning, the main woman holds a cigarette naturally between her fingers and brings it to her mouth.
+
+  She lights the cigarette using the same hand movements, timing and body positioning as the reference video.
+
+  She takes a drag and naturally exhales smoke.
+
+  Preserve the original:
+
+  - hand position
+  - cigarette position
+  - lighter movement
+  - timing
+  - head movement
+  - facial expression
+  - smoke timing
+  - arm movement
+
+  The smoking action should look physically natural and cinematic.
+
+  Do not exaggerate the smoke.
+  Do not create excessive smoke.
+  No smoking action should occur from any other character.
+
+  All other characters remain unchanged.
+
+  EXACT ORIGINAL ACTION / TIMING
+
+  0–4 SECONDS:
+
+  Match the reference video exactly.
+
+  The central woman is shown smoking.
+
+  She brings the cigarette toward her mouth, lights it, takes a drag and exhales.
+
+  Match the original close framing, facial positioning, hand movements and timing.
+
+  4–11 SECONDS:
+
+  Match the reference video exactly.
+
+  The woman turns away from camera and moves forward into the crowd using the exact same movement and timing as the original central character.
+
+  Preserve her body position, walking speed, direction and camera framing.
+
+  11–17 SECONDS:
+
+  Match the original choreography exactly.
+
+  The woman moves back toward the central position and performs the same gestures and movements as the original central character.
+
+  Do not invent new actions.
+
+  17–22 SECONDS:
+
+  The woman reaches and holds the same central position as the reference.
+
+  She becomes calm and composed.
+
+  Maintain the exact same camera composition.
+
+  22–30 SECONDS:
+
+  The crowd begins the same synchronized chaotic movement from the reference.
+
+  The central woman remains calm and controlled in the center while the surrounding crowd moves violently and rhythmically around her.
+
+  Match the exact timing, intensity and choreography of the original crowd movement.
+
+  The central woman must remain clearly identifiable and visually separated from the crowd.
+
+  CAMERA
+
+  COPY THE REFERENCE VIDEO'S CAMERA LANGUAGE EXACTLY.
+
+  Preserve:
+
+  - camera position
+  - camera height
+  - camera distance
+  - lens perspective
+  - focal length feel
+  - framing
+  - depth of field
+  - camera movement
+  - push/pull movement
+  - tracking
+  - camera shake if present
+  - zoom
+  - subject scale
+  - transitions
+  - shot duration
+  - exact cut points
+
+  Do NOT create new shots.
+
+  Do NOT add new camera movements.
+
+  Do NOT change the original video's pacing.
+
+  The output should have the same visual rhythm and edit structure as the reference video.
+
+  CROWD
+
+  Keep the original crowd concept and choreography from the reference video.
+
+  Large group of young men surrounding the central woman.
+
+  Preserve their:
+
+  - positions
+  - density
+  - formation
+  - movements
+  - synchronized choreography
+  - timing
+  - background behavior
+
+  Do not replace the crowd with women.
+
+  Do not introduce new characters.
+
+  Do not allow anyone else to become visually dominant over the main woman.
+
+  Only the central character is replaced.
+
+  LOCATION
+
+  Preserve the same environment and architecture as the reference video.
+
+  Keep the same:
+
+  - concrete/architectural setting
+  - stairs
+  - background structure
+  - crowd arrangement
+  - environmental depth
+  - overall composition
+
+  Do not redesign the location.
+
+  Do not introduce new buildings or props.
+
+  LIGHTING / COLOR
+
+  Preserve the reference video's overall cinematic lighting and color grading.
+
+  Keep the dark, moody atmosphere.
+
+  The acid lime blazer should be the distinctive color of the central character.
+
+  Keep natural skin tones.
+
+  Realistic shadows and highlights.
+
+  No artificial glow.
+  No haze.
+  No bloom.
+  No excessive smoke.
+  No fantasy lighting.
+
+  VISUAL STYLE
+
+  Photorealistic cinematic live-action footage.
+
+  Natural human motion.
+  Natural body physics.
+  Realistic fabric.
+  Realistic hair.
+  Realistic skin.
+  Realistic cigarette smoke.
+  Realistic lighting.
+
+  No CGI appearance.
+  No animation.
+  No cartoon.
+  No plastic skin.
+  No face distortion.
+  No duplicated main character.
+
+  CRITICAL INSTRUCTION
+
+  REFERENCE VIDEO = controls EVERYTHING about the original video's motion.
+
+  <image_1> = controls ONLY the identity and appearance of the replacement central woman.
+
+  Replace the original central man with the woman from <image_1> while preserving the original video's actions, choreography, camera, timing, pacing, framing and cuts as closely as possible.
+
+  The result should look like the original video was filmed with <image_1> instead of the original actor.
+
+  ONE MAIN CHARACTER ONLY.
+  NO IDENTITY DRIFT.
+  NO EXTRA VERSION OF <image_1>.

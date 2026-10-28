@@ -1,0 +1,26 @@
+id: seedance-pink-court-skateboard-tennis
+title:
+  en: Woman skateboarding while playing tennis on pink court
+  zh: 女子在粉色网球场上滑板打网球
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- fashion
+- sports
+- skateboard
+- tracking-shot
+- shot-sequence
+source:
+  name: '@AIwithNatalia on X'
+  url: https://x.com/AIwithNatalia/status/2107056982163402833
+  credit: AIwithNatalia
+  captured: '2026-10-28'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithNatalia/status/2107056982163402833
+notes:
+  en: 'Four timed segments give each beat its own camera move: low angle, side tracking, orbit, then front tracking. The outfit is locked by a reference image, and a negative prompt guards against identity, outfit and anatomy drift.'
+  zh: 四个定时分段让每一拍都有独立的运镜：低角度、侧向跟拍、环绕、正面跟拍。服装由参考图锁定，反向提示词用来防止身份、服装和人体结构漂移。
+prompt: "Create a photorealistic cinematic fashion-sports video set on a pink tennis court at night. The woman is standing and riding on a skateboard while simultaneously playing tennis. \nShe wears the black-and-white tennis-inspired bodysuit, layered pearl necklaces, white leg warmers, sunglasses, and black high heels shown in the reference.  \nShe pushes off and smoothly skates across the tennis court on the skateboard, maintaining believable balance. She holds a tennis racket in one hand and hits tennis balls coming toward her while continuing to roll forward. \nHer movements should feel confident, stylish, athletic, and controlled—not exaggerated or cartoonish. Her long dark-red hair moves naturally with the motion.  \nShot sequence: \n0–3 sec: Low-angle close-up of the skateboard rolling across the pink court, wheels moving naturally as tennis balls bounce nearby. \n3–7 sec: Wide side-tracking shot showing her riding the skateboard across the court while returning a tennis ball with\
+  \ a clean forehand. \n7–11 sec: Smooth camera orbit around her as she continues skating and hits another incoming ball, with her hair and jewelry moving naturally. \n11–15 sec: Front-facing tracking shot as she rides toward the camera, performs one final stylish tennis swing, then smoothly passes the camera.  \nVisual style: luxury fashion campaign meets futuristic tennis commercial, nighttime stadium lighting, glossy pink court, realistic shadows and reflections, cinematic depth of field, subtle slow motion during racket impacts, smooth stabilized camera movement, realistic human anatomy, realistic skateboard physics, natural facial expression, detailed skin and hair, high-end editorial photography, photorealistic.  \nFormat: 15 seconds, 24 fps, high resolution.  \nNegative prompt: distorted face, changing identity, extra fingers, extra limbs, duplicated tennis rackets, warped skateboard, floating wheels, impossible body positions, broken anatomy, jittery motion, unnatural hair, flickering\
+  \ clothing, changing outfit, cartoon appearance, CGI-looking skin, blurry face, camera shake.\n"

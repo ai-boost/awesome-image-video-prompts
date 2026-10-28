@@ -1,0 +1,26 @@
+id: h3-low-angle-fashion-alley-tracking
+title:
+  en: Low angle fashion tracking shot in sunlit alley
+  zh: 阳光小巷中的低角度时尚跟拍
+model: MiniMax H3
+mode: text-to-video
+tags:
+- fashion
+- low-angle
+- tracking-shot
+- alley
+- photorealistic
+source:
+  name: '@Kiber_Alla on X'
+  url: https://x.com/Kiber_Alla/status/2083583963512062019
+  credit: Kiber Alla
+  likes: 61
+  captured: '2026-10-28'
+  posted: '2026-08-01'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Kiber_Alla/status/2083583963512062019
+notes:
+  en: The prompt opens with camera and lens cues (ARRI Alexa 35, spherical lens, natural daylight), then fixes a single continuous backward tracking move at low angle. Wardrobe, fabric physics, wind and a list of dance gestures give the model concrete motion to render, while strong sun and deep shadow set the contrast.
+  zh: 提示词先给出摄影机与镜头线索（ARRI Alexa 35、球面镜头、自然光），再锁定一个低机位连续后退跟拍。服装、面料物理、风和一串具体舞蹈动作为模型提供可渲染的动态，强日光与深阴影决定画面反差。
+prompt: |
+  Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natural daylight, photorealistic, looks like real footage filmed on location, high-end fashion film aesthetic, extreme detail, realistic skin texture, real fabric physics, subtle film grain. Continuous low angle tracking shot, camera smoothly moving backward as a beautiful young woman with long dark wind-blown hair walks and performs down a narrow sun-drenched urban alley between old textured stone buildings under deep blue sky. She wears a flowing milky white asymmetrical off-shoulder top and high-waist wide-leg technical cotton culottes with a thin rope belt. The wide pants and fabric move naturally and dramatically with the wind and her body. She sings with genuine joy, smiling and softly laughing, maintaining strong eye contact with the camera, while performing free, light dance elements — fluid arm gestures, body swaying, and elegant full turns around herself as she continues walking forward. Her movement is energetic yet effortless, full of lightness and positive energy. Cinematic natural lighting with strong sunlight and deep shadows, realistic motion blur, high dynamic range, masterpiece, best quality, no artificial look.

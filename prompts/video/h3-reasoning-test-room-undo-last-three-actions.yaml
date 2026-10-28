@@ -1,0 +1,26 @@
+id: h3-reasoning-test-room-undo-last-three-actions
+title:
+  en: Test room person undoes last three actions
+  zh: 测试房间里的人撤销最后三个动作
+model: MiniMax H3
+mode: text-to-video
+tags:
+- reasoning-test
+- fixed-camera
+- single-shot
+- instruction-following
+- spoken-dialogue
+source:
+  name: '@cocktailpeanut on X'
+  url: https://x.com/cocktailpeanut/status/2085893756688167396
+  credit: cocktail peanut
+  likes: 81
+  captured: '2026-10-28'
+  posted: '2026-08-08'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/cocktailpeanut/status/2085893756688167396
+notes:
+  en: The prompt sets a fixed initial state of six objects, then a numbered sequence of six separated actions, so the spoken undo instruction has an unambiguous target. A single continuous wide shot with explicit bans on cuts, time jumps and extra dialogue keeps the clip readable as a behavioral experiment.
+  zh: 提示词先固定六件物品的初始状态,再按顺序写出六个分离的动作,让口头的撤销指令有明确的对应目标。单镜头固定广角,并明确禁止剪辑、时间跳跃和多余对白,使画面像一次行为实验记录。
+prompt: |
+  A single continuous fixed wide shot in a plain, brightly lit test room, filmed like an unedited behavioral experiment. At the start, a red cube is on a table, a drawer is closed, a lamp is off, a chair sits precisely inside a taped floor outline, a hat hangs on a wall hook beside a bare mannequin, and a door is open. One person quickly performs six clearly separated actions in this exact order: places the red cube on a shelf, opens the drawer, turns on the lamp, moves the chair away from its taped outline, takes the hat from the hook and puts it on the mannequin, then closes the door. An off-screen instructor clearly says, "Undo only the last three actions." The person pauses briefly, understands the instruction, and carries it out exactly. No cuts, no time jumps, no extra actions, no additional dialogue, realistic synchronized room sounds.

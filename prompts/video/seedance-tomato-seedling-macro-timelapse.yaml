@@ -1,0 +1,39 @@
+id: seedance-tomato-seedling-macro-timelapse
+title:
+  en: Macro time-lapse of seedling growing into tomatoes
+  zh: 微距延时：幼苗长成结满番茄的植株
+model: Seedance 2.5
+mode: image-to-video
+tags:
+- time-lapse
+- macro
+- nature
+- plants
+- locked-camera
+source:
+  name: '@Yesandyou_ on X'
+  url: https://x.com/Yesandyou_/status/2088998841395921185
+  credit: Yesandyou_
+  captured: '2026-10-28'
+  posted: '2026-08-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Yesandyou_/status/2088998841395921185
+notes:
+  en: A reference image of the soil locks the opening frame, and the prompt then splits the 10 seconds into five 2-second growth stages. A closing list of banned elements (cuts, camera movement, zoom, morphing) keeps the locked camera steady and the growth continuous.
+  zh: 用土壤参考图锁定首帧，再把10秒切成五个2秒的生长阶段，每段只写一个变化。结尾列出禁用项（剪辑、运镜、变焦、变形），保证镜头固定、生长连贯。
+prompt: |
+  Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the provided reference image as the exact visual starting point. Begin with the same tiny green seedling 🌱 emerging from dark, rich, slightly moist soil. Keep the camera completely locked and stationary 📷, preserving the same composition, camera angle, depth of field, warm natural sunlight ☀️, soft background bokeh, and realistic soil texture throughout the entire video.
+
+  0–2 seconds 🌱: The tiny seedling slowly pushes upward from beneath the soil. Small cracks and subtle soil movement appear naturally around its base as the plant emerges. The thin green stem gradually becomes taller while the two young leaves slowly unfold and expand 🍃.
+
+  2–4 seconds 🌿: The seedling continues growing into a young tomato plant. The stem becomes thicker and taller, while additional green leaves and small branches gradually emerge. Each leaf unfolds naturally with visible veins and realistic botanical detail 🍃✨. Gentle sunlight passes through the leaves ☀️, creating beautiful natural highlights.
+
+  4–6 seconds 🌼: The plant grows fuller and stronger. Small yellow tomato flowers 🌼 begin appearing on the branches. The flowers gradually develop and bloom one by one, with delicate petals opening naturally. The plant continues extending upward and outward in a smooth time-lapse 🌿.
+
+  6–8 seconds 🍅: After flowering 🌼, tiny green tomatoes 🍅 begin forming beneath the flowers. The fruits slowly enlarge from tiny green buds into recognizable round tomatoes. More tomatoes develop across the branches while fresh leaves continue growing around them 🌿🍃.
+
+  8–10 seconds 🍅❤️: The green tomatoes gradually mature and transform into large, ripe, vibrant red tomatoes 🍅❤️. End with a healthy, fully grown tomato plant 🌿 surrounded by several beautiful ripe tomatoes hanging naturally from its branches.
+
+  Make the entire transformation smooth, continuous, organic, and biologically believable 🌱➡️🌿➡️🌼➡️🍅. Use photorealistic textures, realistic plant anatomy, detailed leaves and veins, natural soil particles, subtle wind movement 🍃, warm golden-hour sunlight ☀️, cinematic depth of field 🎥, soft background bokeh ✨, realistic shadows, macro photography quality, and highly detailed 4K visuals.
+
+  Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌, no camera shake ❌, no text ❌, no people ❌, no hands ❌, and no artificial-looking morphing ❌. The plant must grow progressively from the exact location of the original seedling, with every stage naturally connected to the previous stage. The final result should look like a real professional botanical time-lapse 🌱🎥🍅, showing the complete journey from a tiny seedling to a mature tomato plant full of ripe red tomatoes. 🍅✨

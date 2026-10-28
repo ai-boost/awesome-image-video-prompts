@@ -33,6 +33,10 @@ community:
     url: https://github.com/LearnPrompt/awesome-seedance
     en: The largest Seedance 2.0 / 2.5 library, 840+ cases each traced to the original post.
     zh: 最大的 Seedance 2.0 / 2.5 案例库，840 多条，每条都能追到原帖。
+  - name: SkyNotSilent/awesome-MiniMax-H3-cases
+    url: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+    en: Thousands of MiniMax H3 cases with playable results, marking which ones publish the full prompt.
+    zh: 几千个可直接播放的 MiniMax H3 案例，标明哪些公开了完整提示词。
   - name: dexhunter/seedance2-skill
     url: https://github.com/dexhunter/seedance2-skill
     en: Agent skill that writes Seedance prompts.

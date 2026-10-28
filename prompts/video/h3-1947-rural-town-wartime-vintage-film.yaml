@@ -1,0 +1,41 @@
+id: h3-1947-rural-town-wartime-vintage-film
+title:
+  en: 1947 rural town war sequence, vintage film
+  zh: 1947年美国乡镇战地场景，复古胶片质感
+model: MiniMax H3
+mode: text-to-video
+tags:
+- historical
+- war
+- documentary
+- vintage-film
+- timed-shots
+source:
+  name: '@RuzainaMeer on X'
+  url: https://x.com/RuzainaMeer/status/2087117707816714552
+  credit: Ruzaina
+  likes: 377
+  captured: '2026-10-28'
+  posted: '2026-08-11'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/RuzainaMeer/status/2087117707816714552
+notes:
+  en: The 15 second clip is split into timed beats (establishing shot, tension, combat, human moment, pull back), each with its own camera move. Separate environment, characters, visual style and physics blocks, plus a long negative prompt, hold the 1940s 35mm documentary look and keep the action grounded.
+  zh: 把15秒切成带时间码的分镜（建立镜头、紧张、交火、人情瞬间、拉远），每段都写明机位运动。环境、人物、画面风格和物理规则各自成块，再配上较长的负面提示词，稳住1940年代35mm纪录片质感，动作也不会失真。
+prompt: |
+  Create a 15-second ultra-photorealistic live-action war sequence set in the United States in 1947, designed to look like authentic historical footage captured on a 1940s film camera. The entire scene must feel grounded, documentary-like, raw, and physically realistic.
+  Environment: A rural American town in 1947 with wooden houses, old brick buildings, telephone poles, dirt roads, vintage American cars from the 1940s, wooden fences, farmland, and period-accurate street details. Overcast afternoon light, light fog, drifting smoke, dust in the air, damaged buildings, scattered debris, and a tense wartime atmosphere.
+  Characters: American soldiers wearing historically accurate late-1940s military uniforms, helmets, boots, and equipment. Civilians wear authentic 1940s American clothing. Natural faces, realistic skin texture, sweat, dirt, fatigue, and believable body movements.
+  0–3s — Establishing Shot:
+  Wide handheld shot of a quiet rural American street suddenly filled with smoke and confusion. Vintage 1940s vehicles are parked along the road while soldiers move quickly between wooden buildings. Civilians rush toward safer areas.
+  3–6s — Tension:
+  Camera moves through the street at shoulder height, following several soldiers as distant gunfire is heard. They immediately react and take cover behind a vintage vehicle and a brick wall. Their movements are cautious and realistic.
+  6–10s — Combat:
+  Fast handheld tracking shot as the soldiers move between cover while distant gunfire impacts the environment. Small pieces of wood, dust, and debris fall naturally from nearby impacts. Weapon recoil, movement, and body weight must be physically accurate. Keep the violence realistic and restrained.
+  10–13s — Human Moment:
+  Camera briefly focuses on a soldier helping an injured civilian move behind cover. Their breathing, facial expressions, body language, and movement should feel natural and unscripted.
+  13–15s — Final Shot:
+  Camera pulls back into a wide shot of the American town as smoke slowly moves through the street. Soldiers remain behind cover while vintage vehicles and damaged buildings fill the background. The scene ends with an authentic, tense 1940s documentary feeling.
+  Visual Style: Ultra-photorealistic live-action, authentic 1940s American environment, vintage 35mm film texture, subtle film grain, natural imperfections, realistic exposure, handheld documentary cinematography, muted historical color palette, realistic smoke and dust, natural shadows, accurate depth of field.
+  Physics: Strictly obey real-world gravity, momentum, inertia, friction, recoil, weight, collision physics, and human biomechanics. No exaggerated explosions, impossible movements, superhero behavior, or choreographed-looking combat.
+  Negative Prompt: modern buildings, modern cars, smartphones, modern clothing, modern weapons, futuristic technology, CGI appearance, video-game graphics, fantasy, superhero action, excessive explosions, excessive blood, gore, impossible physics, unrealistic recoil, slow-motion physics, distorted faces, extra limbs, floating objects, plastic skin, artificial-looking environments.

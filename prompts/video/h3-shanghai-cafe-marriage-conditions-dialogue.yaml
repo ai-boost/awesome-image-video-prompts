@@ -1,0 +1,38 @@
+id: h3-shanghai-cafe-marriage-conditions-dialogue
+title:
+  en: Shanghai Café Couple Debate Marriage Conditions
+  zh: 上海咖啡馆情侣谈婚姻条件对话
+model: MiniMax H3
+mode: text-to-video
+tags:
+- dialogue
+- cafe
+- multi-shot
+- native-audio
+- chinese-prompt
+source:
+  name: '@tangpanqing on X'
+  url: https://x.com/tangpanqing/status/2103828594053325201
+  credit: 汤光头
+  likes: 73
+  captured: '2026-10-28'
+  posted: '2026-09-26'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/tangpanqing/status/2103828594053325201
+notes:
+  en: A one line scene setup (year, city, place, action) is followed by a shot by shot script. Each line is labeled close-up or tight close-up and carries its spoken dialogue, so the model cuts between speakers on every line. The closing instruction to add no subtitles keeps the native speech clean.
+  zh: 开头一句交代年份、城市、地点和动作，随后按镜头逐行写脚本。每行标注近景或特写并附带台词，模型会随每句话在两人之间切镜。结尾的不要加字幕指令让原生语音画面保持干净。
+prompt: |
+  2026年，上海。一个男人与一个女人在咖啡馆，喝咖啡，聊天。
+
+  近景，女人问: "有房吗？"
+  近景，男人说：”有“
+  近景，女人问: "有车吗？"
+  近景，男人说：”有"
+  特写，女人说: "基础条件可以，但我还有几个条件。"
+  特写，女人继续说: "婚后我们单住，你的父母不能过来住，你的工资全部上交，家务你全包"
+  特写，男人说：”那你呢？"
+  特写，女人问: "我只负责享受。"
+  特写，男人说：”那我还不如养条狗，要你干嘛？"
+
+  注意，不要加字幕。

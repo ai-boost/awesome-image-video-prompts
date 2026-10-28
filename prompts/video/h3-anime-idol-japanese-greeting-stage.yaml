@@ -1,0 +1,41 @@
+id: h3-anime-idol-japanese-greeting-stage
+title:
+  en: Anime idol greets fans in Japanese on stage
+  zh: 动漫偶像在舞台上用日语向粉丝问好
+model: MiniMax H3
+mode: text-to-video
+tags:
+- anime
+- idol
+- lip-sync
+- storyboard
+- japanese-audio
+source:
+  name: '@riddi0908 on X'
+  url: https://x.com/riddi0908/status/2084233895202197998
+  credit: まゆひらa
+  likes: 94
+  captured: '2026-10-28'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/riddi0908/status/2084233895202197998
+notes:
+  en: A style header, scene overview, timed three shot storyboard, camera and audio blocks give the model a clear structure. The spoken Japanese line is written in kana with romaji, a static close up is kept for lip sync, and SFX are timed to the beats, with a negative line to keep the look pure 2D.
+  zh: 风格、场景概述、带时间码的三镜头分镜、镜头和音频分段，让结构清晰。日语台词同时给出假名和罗马音，口型段落用静止特写保证清晰，音效按时间点标注，末尾用排除句锁定纯 2D 画风。
+prompt: |
+  プロンプト置いときます✋
+
+  Japanese anime style, high-end TV anime production quality, soft pastel lighting, clean line art, subtle cel shading, bright and cheerful idol stage atmosphere, glowing lens flare, gentle bokeh in background, smooth vibrant 60fps animation feel.
+
+  Scene overview: An adorable anime idol girl stands center stage, looking directly at the camera with a brilliant smile. She holds a colorful microphone, energetic and joyful, giving a cute greeting to her fans. A short, charming 5-second anime idol greeting scene.
+
+  Storyboard:
+  [0s-1.5s] Shot 1: Medium close-up: The idol girl steps forward with a big smile, bringing the microphone to her mouth, blinking playfully as stage lights twinkle behind her.
+  [1.5s-3.5s] Shot 2: Close-up on her face: She speaks clearly into the microphone with precise lip-sync: "みんな、こんにちは！今日も一緒に楽しもうね！" (Minna, konnichiwa! Kyou mo issho ni tanoshimou ne!). She winks on "tanoshimou ne!".
+  [3.5s-5s] Shot 3: Slightly pulled-back medium shot: She strikes a cute victory-pose/heart-pose with her free hand, tilting her head with a beaming smile as sparkle particles drift around her.
+
+  Camera: Smooth pan-in at the start, staying centered and static during the lip-sync for maximum clarity, subtle handheld bounce on the final pose at 3.5s.
+
+  Audio: Crisp female anime idol voice clearly pronouncing "みんな、こんにちは！今日も一緒に楽しもうね！" in Japanese. Underneath, an upbeat synth-pop idol BGM playing, accompanied by a soft microphone "pop" sound at 0.5s and a sparkling magic SFX hit at 3.5s during the pose.
+
+  No real-life live action rendering, no realistic skin texture, no 3D CG look, no English subtitles or on-screen text clutter, keep the pure 2D anime aesthetic.

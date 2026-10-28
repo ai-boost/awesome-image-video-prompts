@@ -1,0 +1,26 @@
+id: h3-miniature-stadium-hands-timelapse-build
+title:
+  en: Hands build a miniature stadium timelapse
+  zh: 双手延时搭建迷你体育场
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- timelapse
+- hands-on-build
+- macro
+- reference-image
+- timeline-prompt
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2096606005068972483
+  credit: TechieSA
+  likes: 54
+  captured: '2026-10-28'
+  posted: '2026-09-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/TechieBySA/status/2096606005068972483
+notes:
+  en: A second by second timeline fixes one maker with two hands, and every new part must enter the frame already held. The prompt also bans morphing, interfaces and text, and it ends on a slow push to the finished build. It rebuilds the subject from a reference image, so it works best with a reference supplied.
+  zh: 按秒划分的时间线锁定同一位创作者的双手，所有新部件必须由手持入镜。提示词还禁止变形、界面和文字，并以缓慢推镜收尾。它依据参考图重建主体，提供参考图时效果最好。
+prompt: |
+  A cinematic creation film follows one maker reconstructing the main subject shown in the referenced image completely from scratch. The referenced image defines the finished subject’s complete visible appearance, proportions, structure, materials, colors, clothing or surface details, and distinctive features; ignore its background, framing, lighting, and unrelated elements.  Begin directly on an empty, clean virtual workbench. Use a stable front three-quarter overhead view that keeps the developing subject readable. There is one maker throughout, represented by the same consistent left and right hands and forearms. Show no more than two hands at once.  From 0 to 14 seconds, the entire creation unfolds as a clearly accelerated timelapse with rapid, purposeful hand movement and restrained motion blur. Short jump cuts compress repetitive manual work only after each action has visibly completed. Every cut inherits the exact form and progress left by the previous action.  0-2 seconds: One hand enters already holding the first foundation material, armature, or base element appropriate to the referenced subject and places it at the center. The second hand steadies it as the maker establishes the initial supporting form.  2-8 seconds: The maker rapidly develops the subject’s major structure and volumes using one coherent creation method appropriate to what the referenced image depicts. A living subject is sculpted as one continuous, non-gory digital form from armature to anatomy; a vehicle or machine is built from chassis to functional structure; an object is formed or assembled from its supporting body outward. Each additional material or component enters from outside the frame while firmly held by one of the maker’s hands, is carried to its destination, and remains under hand control until attached or shaped.  8-12 seconds: The same hands develop the recognizable outer form and reference-specific features. The maker sculpts, fits, wraps, stitches, fastens, carves, or polishes only where appropriate to the subject. Facial features, hair, clothing, body panels, wheels, glass, surfaces, accessories, or equivalent defining elements emerge through visible hand and tool contact, never through spontaneous transformation.  12-14 seconds: The maker refines proportions, edges, joints, surface transitions, textures, colors, and distinctive details until the developing subject closely matches the referenced image. One hand stabilizes the form while the other performs each final adjustment with a hand-held tool.  14-15 seconds: The maker removes the last tool by hand and withdraws both hands. The timelapse returns to normal speed as the camera makes a restrained push toward the completed subject and holds on a clean final view.  Materials and components do not need to be visible before use, but anything newly introduced must enter the frame already held by one of the maker’s hands. Nothing moves, assembles, appears, disappears, or changes material independently. Maintain one maker, one continuous subject, one creation position, and one category-appropriate construction method. No assistants, extra hands, detached anatomy, duplicated elements, magical morphing, drawing phase, software interface, cursor, menus, annotations, or text overlays.

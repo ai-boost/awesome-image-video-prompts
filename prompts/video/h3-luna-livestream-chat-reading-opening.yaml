@@ -1,0 +1,52 @@
+id: h3-luna-livestream-chat-reading-opening
+title:
+  en: Virtual streamer opens a livestream reading chat
+  zh: 虚拟主播开播并朗读弹幕聊天
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- livestream
+- reference-to-video
+- lip-sync
+- ui-text
+- virtual-streamer
+source:
+  name: '@GlitterPixely on X'
+  url: https://x.com/GlitterPixely/status/2084481873158328598
+  credit: Glitter Gal
+  likes: 293
+  captured: '2026-10-28'
+  posted: '2026-08-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/GlitterPixely/status/2084481873158328598
+notes:
+  en: 'Each reference image and audio file gets one narrowly scoped job: identity, platform chrome, room, voice. The timed beats fix the silent lead-in, the gaze toward the chat rail and the exact chat lines that may be readable.'
+  zh: 每张参考图和音频只负责一件事：人物身份、平台界面、房间、声音。分秒时间轴锁定开头静音、视线朝向聊天栏，以及唯一允许清晰显示的弹幕文字。
+prompt: |
+  Use @Image4as the opening card only: circular Luna avatar, black background, cream “LUNALIVE”, rose “STREAM STARTING”, warm circles, tiny mint accent. Static, chime.
+
+  Use @Image1 for Luna’s identity only: same face, long center-parted black hair, blue-gray eyes, pink anime hoodie, white headphones around neck, delicate necklace, pale nails. Do not copy the drink, pose, or background from @Image1.
+
+  Use @Image2 only for Twitch-like platform chrome: dark top bar with “LUNALIVE”, red “LIVE” badge, “2.4K viewers”, right “STREAM CHAT” rail, bottom title area, rounded “FOLLOW” and pink “SUBSCRIBE” buttons. Do not copy Luna, pose, drink, or room from @Image2
+
+  Use @Image3 only for the cozy room behind Luna inside the video area: desk, monitor, white PC, plush shelves, curtain fairy lights, soft pink/purple light. No empty-room showcase shot.
+
+  Use @Audio1as Luna’s actual vocal performance and behavior reference. @Audio1has a silent lead-in: 0.0–2.4s must be treated as no speech. Preserve her voice identity, cadence, tone, breaths, pauses, emphasis, warmth, and streamer mannerisms. Do not replace the voice, do not generate a different influencer voice, and do not add extra spoken lines beyond @Audio1 Lip sync, mouth shapes, jaw movement, smiles, glances, nods, and small hand movements must follow the audio waveform after 2.4s.
+
+  Create a 15-second 16:9 Twitch-like stream opening. Important performance direction: Luna is reading chat, not delivering a camera monologue. Place Luna slightly left of center in the video area with the right “STREAM CHAT” rail clearly visible. Whenever she speaks, her eyes angle screen-right toward the chat rail as if she is reading the messages out loud. She returns to camera only for brief reactions. Add constant small movement: eye darts to chat, eyebrow lifts, tiny nods, head tilts, shoulders shifting, one subtle hand gesture near the desk. No stiff talking-head pose. One cursor only, no cursor trail, no duplicate panels, no duplicate buttons.
+
+  Render only large UI text cleanly. Chat feels alive with typing dots and soft short blurred lines, but only these chat lines are readable: “hi Luna”, “welcome back”, “so cozy”, “gugugaga?”, “RAID INCOMING!”. Do not invent usernames. Chat pops stay quieter than Luna’s voice.
+
+  [0–2 seconds] Open on @Image4 “LUNALIVE / STREAM STARTING”. Absolute no-speech zone: @Audio1is silent here, Luna is not shown, no mouth movement, no voice on the card. One soft chime only. No movement.
+
+  [2–7.4 seconds] Hard cut to Luna live at 2.0s, slightly left of center in the cozy room from @Image3 with @Image2 chrome active: “LUNALIVE”, red “LIVE”, “2.4K viewers”, right “STREAM CHAT” rail, bottom title “COZY NEON” and “Just Chatting”. She settles for a beat, eyes already moving toward the chat rail. At about 2.4s when speech begins in @Audio1, match lip sync exactly while she reads toward the chat rail, not into camera. Chat shows typing dots and soft blurred lines.
+
+  [7.4–7.9 seconds] First audio pause = chat beat. Typing dots, then readable messages pop in: “hi Luna”, “welcome back”. Luna’s eyes track the new messages on the right rail; small nod and smile follow the audio pause.
+
+  [7.9–12.5 seconds] Continue matching @Audio1Keep her gaze mostly on the chat rail while speaking, like she is reading and reacting. Add one more readable message: “so cozy”. During any softer phrase, she leans slightly forward as if reading; during brighter phrases, eyebrows lift and shoulders react. No frozen face.
+
+  [12.5–13.9 seconds] Bigger audio pause = bigger chat beat. “gugugaga?” appears, then “RAID INCOMING!”, and a clean “NEW FOLLOWER” banner slides in with a gentle pop. Luna reads the raid message from the chat rail, then reacts brighter as the audio resumes.
+
+  [13.9–14.8 seconds] Finish @Audio1 with accurate lip sync. If the audio winds down, Luna stops talking, gives a small wave toward chat, and settles into a warm listening pose. End on the stable live frame: Luna slightly left of center, eyes toward the right chat rail, red “LIVE”, “2.4K viewers”, no end card.
+
+  Audio mix: 0–2s card is silent except one soft chime. @Audio1voice begins only after the cut to Luna and remains primary. Tiny chat pops under the voice. Warm low room tone. No crowd noise, no music lyrics, no rain, no traffic.

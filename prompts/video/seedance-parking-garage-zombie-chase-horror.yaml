@@ -1,0 +1,39 @@
+id: seedance-parking-garage-zombie-chase-horror
+title:
+  en: Korean Horror Zombie Chase in Parking Garage
+  zh: 地下停车场韩式恐怖僵尸追逐
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- horror
+- zombie
+- timed-shots
+- handheld
+- photorealistic
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2113840061104206005
+  credit: AIwithSynthia
+  captured: '2026-10-28'
+  posted: '2026-10-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2113840061104206005
+notes:
+  en: The prompt splits 30 seconds into six timed beats, each with one clear action, so the story escalates from a prank to a chase to a blackout. A closing STYLE line fixes the look with handheld shake, flickering lights and milky white eyes, and a short negative list keeps out gore, subtitles and cartoon drift.
+  zh: 提示词把 30 秒切成六个带时间码的段落，每段只写一个明确动作，剧情从玩笑升级到追逐再到断电。结尾的 STYLE 行用手持抖动、闪烁灯光和乳白色眼睛锁定画面风格，再用简短的排除清单避免过度血腥、字幕和卡通感。
+prompt: |
+  0–3s: A young Korean woman in a fitted blue crop top and white shorts walks through an underground parking garage, jokingly waving at the security guard.
+
+  3–6s: Her smile freezes, her eyes turn completely white, and dark veins appear across her face. She coughs, revealing blood around her lips.
+
+  6–9s: She tilts her head unnaturally, laughs hysterically, and suddenly slams her bloody palm against the security booth glass.
+
+  9–13s: The terrified guard runs away as she chases him between parked cars, moving with frightening speed.
+
+  13–18s: A resident exits the elevator, mistakes the situation for a prank, then screams as the zombie suddenly charges at him.
+
+  18–24s: Emergency sprinklers activate. Soaked and twitching, the zombie crawls beneath a closing metal shutter while the survivors watch in horror.
+
+  24–30s: Everyone races toward the exit. The zombie smashes against the glass door, revealing her white eyes and blood-smeared grin before the lights suddenly go out.
+
+  STYLE: Photorealistic Korean horror, creepy laughter, milky-white eyes, realistic blood smears, sudden jerky movements, flickering lights, handheld camera shake, dark humor, cinematic 4K. No cartoon, anime, excessive gore, subtitles, or watermark.

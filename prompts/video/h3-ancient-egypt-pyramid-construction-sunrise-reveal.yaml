@@ -1,0 +1,291 @@
+id: h3-ancient-egypt-pyramid-construction-sunrise-reveal
+title:
+  en: Ancient Egypt Pyramid Construction at Nile Sunrise
+  zh: 尼罗河日出下的古埃及金字塔施工
+model: MiniMax H3
+mode: image-to-video
+tags:
+- ancient-egypt
+- historical-drama
+- documentary-realism
+- timed-beats
+- crane-reveal
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2084932583335624724
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 79
+  captured: '2026-10-28'
+  posted: '2026-08-05'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Diplomeme/status/2084932583335624724
+notes:
+  en: A reference image locks the opening frame, then four timed beats (00 to 04s, 04 to 08s, 08 to 12s, 12 to 15s) grow the scene from a quiet riverbank to a crane-up reveal. Separate sections for camera, lighting, physics, performance and audio, plus an explicit avoid list, keep the result documentary and realistic.
+  zh: 先用参考图锁定首帧，再按四个时间段推进，从安静的河岸一路写到升降镜头的全景揭示。镜头、光线、物理、表演和声音各有独立段落，并列出明确的避免项，让画面保持纪录片式的写实。
+prompt: |
+  15 seconds | 16:9 | live-action historical construction drama
+  Fictional dramatization. Documentary-style visual realism.
+
+  SETTING
+
+  Ancient Egypt along the Nile during sunrise beside the Great Pyramids.
+
+  The uploaded reference image is the exact opening frame.
+
+  Maintain the identical traveler, boats, pyramids, moon, river, shoreline, lighting and composition.
+
+  Construction activity gradually becomes visible deeper into the environment while preserving the original scene.
+
+  Warm desert atmosphere.
+  Morning mist.
+  Light dust drifting across the valley.
+
+  WORKFORCE
+
+  A master builder overseeing the day's construction.
+
+  Hundreds of Egyptian laborers, stone masons, engineers, rope teams, carpenters and transport crews gradually become active throughout the distant construction zone.
+
+  Maintain historically accurate clothing, tools, wooden machinery and consistent character identities.
+
+  Human behaviour remains disciplined, coordinated and believable.
+
+  ---
+
+  STORY
+
+  00–04s — ESTABLISHING
+
+  The traveler stands silently at the riverbank exactly as shown in the reference image.
+
+  The camera slowly pushes forward from behind.
+
+  Feluccas drift naturally.
+
+  Palm trees sway gently.
+
+  Birds fly across the sunrise.
+
+  Workers begin appearing in the distant background carrying ropes, wooden beams and stone tools toward the pyramid complex.
+
+  Construction slowly awakens with the rising sun.
+
+  ---
+
+  04–08s — OPERATION
+
+  The traveler picks up the clay vessel and begins walking along the shoreline.
+
+  The camera follows naturally behind him.
+
+  Across the river, dozens of workers unload massive limestone blocks from transport boats.
+
+  Oxen pull wooden sledges.
+
+  Long rope teams drag heavy stones toward enormous earthen ramps.
+
+  Wooden cranes rotate slowly as supervisors organize the workforce.
+
+  Dust rises naturally beneath hundreds of moving feet.
+
+  ---
+
+  08–12s — CONSTRUCTION
+
+  The traveler reaches an elevated viewpoint overlooking the worksite.
+
+  The camera gently reveals the enormous construction operation.
+
+  Hundreds of synchronized workers pull a gigantic limestone block upward using thick ropes and wooden rollers.
+
+  Stone masons shape blocks with copper chisels.
+
+  Carpenters assemble scaffolding.
+
+  Engineers inspect alignment while foremen direct the operation with calm hand signals.
+
+  The environment feels immense, alive and historically authentic.
+
+  ---
+
+  12–15s — LEGACY
+
+  The camera slowly cranes upward into a breathtaking wide reveal.
+
+  The traveler stands watching history unfold before him.
+
+  Thousands of workers continue building across the vast construction site.
+
+  Feluccas constantly arrive carrying fresh limestone.
+
+  Dust drifts through golden sunrise light.
+
+  The pyramids dominate the horizon as one final massive stone settles perfectly into position.
+
+  End with the feeling that humanity's greatest engineering achievement is being built before our eyes.
+
+  ---
+
+  CAMERA
+
+  Grounded historical-documentary cinematography.
+
+  Mix:
+
+  Wide environmental establishing shots.
+
+  Medium handheld following shots.
+
+  Brief observational close-ups.
+
+  Slow cinematic dolly movement.
+
+  Natural handheld instability.
+
+  Realistic operator movement.
+
+  Gentle crane rise for the final reveal.
+
+  No impossible drone transitions.
+
+  No excessive slow motion.
+
+  ---
+
+  LIGHTING
+
+  Natural sunrise illumination.
+
+  Warm golden desert light.
+
+  Soft atmospheric haze.
+
+  Realistic exposure adaptation.
+
+  Natural shadows.
+
+  Detailed limestone texture.
+
+  Physically accurate reflections across the Nile.
+
+  No artificial rim lighting.
+
+  ---
+
+  PHYSICS
+
+  Real gravity.
+
+  Authentic weight of limestone blocks.
+
+  Natural rope tension.
+
+  Wooden cranes flex realistically.
+
+  Workers visibly strain under heavy loads.
+
+  Dust reacts to footsteps.
+
+  Boats move naturally with river currents.
+
+  Water responds realistically.
+
+  Wind moves robes, sails and palm leaves.
+
+  Everything follows believable engineering principles.
+
+  ---
+
+  HUMAN PERFORMANCE
+
+  Restrained, believable teamwork.
+
+  Heavy breathing.
+
+  Natural communication.
+
+  Simple hand signals.
+
+  Realistic lifting mechanics.
+
+  Measured walking.
+
+  Visible physical effort.
+
+  No exaggerated cinematic acting.
+
+  ---
+
+  AUDIO
+
+  Morning wind.
+
+  Flowing Nile water.
+
+  Boat hulls creaking.
+
+  Workers shouting coordinated commands.
+
+  Stone scraping.
+
+  Hammer and chisel impacts.
+
+  Heavy rope tension.
+
+  Footsteps on sand.
+
+  Distant oxen.
+
+  Natural historical ambience.
+
+  No oversized Hollywood trailer effects.
+
+  ---
+
+  VISUAL CHARACTER
+
+  Photorealistic live-action footage.
+
+  Historical documentary realism.
+
+  Museum-quality reconstruction.
+
+  Natural skin texture.
+
+  Authentic linen garments.
+
+  Weathered limestone.
+
+  Subtle sensor noise.
+
+  Natural motion blur.
+
+  Avoid:
+
+  Fantasy elements.
+
+  Magic.
+
+  CGI appearance.
+
+  Oversaturated HDR.
+
+  Modern machinery.
+
+  Floating debris.
+
+  Perfect choreography.
+
+  Beauty-filter faces.
+
+  ---
+
+  CONTINUITY
+
+  Maintain the exact character identity, clothing, boats, pyramids, moon, river, shoreline, architecture and lighting established in the uploaded reference image.
+
+  Construction activity should emerge naturally from the existing environment without changing the original composition.
+
+  Every action begins from the physical state established by the previous shot.
+
+  https://tinyurl.com/dhh4wvyu

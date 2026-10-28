@@ -1,0 +1,27 @@
+id: seedance-korean-countryside-chicken-coop-morning-vlog
+title:
+  en: Korean Countryside Morning Chicken Coop Vlog
+  zh: 韩国乡村清晨鸡舍生活 Vlog
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- vlog
+- korean-countryside
+- documentary
+- handheld
+- morning-routine
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2097556131623432569
+  credit: aiwithaly
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2097556131623432569
+notes:
+  en: The action chain is written as arrow separated beats, which gives a 30 second clip a clear order. Documentary handheld style, weather and sound cues (mist, wind, ambient audio) and a closing list of exclusions (no music, subtitles, logos) keep the result natural.
+  zh: 用箭头把一连串动作拆成有序的节拍，让 30 秒的片段脉络清晰。再配上纪实手持风格、雾气与风声等环境声提示，结尾列出排除项（无背景音乐、字幕、标志），画面更自然。
+prompt: |
+  Create a 30-second photorealistic Korean countryside lifestyle vlog following a woman through her peaceful morning routine. Show her opening the chicken coop → feeding the chickens → collecting fresh eggs → cleaning the coop → preparing a homemade breakfast → sitting outside and enjoying the quiet farmhouse morning.
+
+  Authentic 2026 Korean rural life, natural human movement, realistic chicken behavior, fresh farm-to-table details, morning mist, soft sunlight, natural wind and environmental sounds, and documentary-style handheld cinematography. No background music, subtitles, logos or watermark.

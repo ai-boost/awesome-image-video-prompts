@@ -1,0 +1,25 @@
+id: gpt-image-photo-to-character-sheet-poses
+title:
+  en: Photo to editorial character sheet with poses
+  zh: 参考照片生成带姿势的编辑风角色设定卡
+model: GPT Image 2.5
+mode: image-edit
+category: infographic
+tags:
+- character-sheet
+- reference-photo
+- turnaround
+- editorial-layout
+- consistency
+source:
+  name: '@Arzoo12sh on X'
+  url: https://x.com/Arzoo12sh/status/2102350375076626738
+  credit: Arzoo Ai
+  likes: 178
+  captured: '2026-10-28'
+  posted: '2026-09-22'
+notes:
+  en: The prompt locks identity to a reference photo and fixes the outfit and held prop, so every view stays consistent. It then lists the sheet modules by name (turnaround views, expressions, action poses, material close ups, palette) to drive a labeled editorial layout.
+  zh: 提示词用参考照片锁定人物，并固定服装和手持道具，让各视角保持一致。随后逐项列出版面模块（三视图、表情、动作姿势、材质特写、色板），带出有标注的编辑风排版。
+prompt: |
+  Create a high-resolution professional character sheet of the same young woman from the reference image. Show front, side, and back full-body views, plus multiple facial expressions and dynamic poses. She wears an all-black sweatshirt and black cargo pants, white chunky sneakers, and a black crossbody shoulder bag, holding the same clear cup/bottle of yellow iced drink in her hand. Keep her long brown hair and facial features consistent with the reference. Use a clean light beige/gray studio background, realistic photography, consistent face and body across every pose, editorial character-design sheet layout, neat typography, thin dividers, material close-ups, color palette, and professional poster composition.

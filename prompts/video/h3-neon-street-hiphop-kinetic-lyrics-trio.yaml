@@ -1,0 +1,51 @@
+id: h3-neon-street-hiphop-kinetic-lyrics-trio
+title:
+  en: Neon city hip-hop trio with kinetic lyrics
+  zh: 霓虹街头三人嘻哈舞蹈与动态歌词字幕
+model: MiniMax H3
+mode: text-to-video
+tags:
+- hip-hop
+- kinetic-typography
+- music-video
+- neon-city
+- multi-scene
+source:
+  name: '@Inshrah_ali_ on X'
+  url: https://x.com/Inshrah_ali_/status/2085595583927185447
+  credit: Ai Girllie
+  likes: 157
+  captured: '2026-10-28'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Inshrah_ali_/status/2085595583927185447
+notes:
+  en: The prompt opens with a shared style line, then splits the 15 seconds into four timed scenes, each with its own camera move (circling, gimbal, drone, crane up). Lyrics are supplied as on-screen text and tied to the beat, so the typography follows the music.
+  zh: 提示词先用统一的风格行定调，再把15秒拆成四个带时间码的分镜，每段指定运镜（环绕、云台、航拍、上摇）。歌词作为屏幕文字单独给出并绑定节拍，让字幕跟着音乐动。
+prompt: |
+  Style: Premium music commercial, ultra-realistic, cinematic, 8K HDR, natural lighting, luxury fashion aesthetic, smooth professional camera work, vibrant neon accents, realistic skin textures, high-end choreography, dynamic typography synced to the beat, music-video quality, no watermark.
+
+  Scene 1 (0–3s)
+
+  A stylish young female artist walks confidently through a modern city street at night, flanked by two equally fashionable dancers. They wear coordinated luxury streetwear with premium sneakers and jewelry. The beat drops as the camera circles them in slow motion. Giant animated typography appears behind them, displaying the lyrics in bold kinetic text synchronized perfectly with every word.
+
+  Scene 2 (3–8s)
+
+  The trio performs energetic hip-hop choreography in a neon-lit urban plaza. The camera switches between cinematic gimbal shots, low-angle tracking, drone passes, and close-ups of expressive faces. Every lyric appears on screen with premium motion graphics, glowing typography, smooth transitions, and rhythmic animations that pulse with the music.
+
+  Scene 3 (8–12s)
+
+  Fast-paced performance featuring synchronized dance moves, stylish hand gestures, confident attitude, realistic hair movement, natural fabric physics, and dynamic lighting. The lyrics continue appearing in large, eye-catching typography that interacts with the environment, wrapping around buildings and moving with the beat.
+
+  Scene 4 (12–15s)
+
+  The music reaches its climax. All three performers strike a powerful final pose as the camera cranes upward. Massive cinematic typography fills the background with the final lyric while city lights sparkle behind them. Premium commercial color grading, flawless visual effects, realistic crowd energy, luxury music-video finish.
+
+  Hip-Hop Lyrics (On-Screen Typography):
+
+  We rise, no limits, we own the night,
+  Dreams in motion, shining so bright.
+  Move with the rhythm, feel the fire,
+  We came to win—taking it higher!
+
+  Visual Style: Premium commercial production, Billboard music video aesthetic, luxury fashion campaign, realistic camera movement, cinematic lens flares, authentic facial expressions, smooth choreography, vibrant urban atmosphere, perfectly synchronized kinetic lyric typography.

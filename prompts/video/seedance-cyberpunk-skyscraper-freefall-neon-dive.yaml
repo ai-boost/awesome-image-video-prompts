@@ -1,0 +1,25 @@
+id: seedance-cyberpunk-skyscraper-freefall-neon-dive
+title:
+  en: Cyberpunk skyscraper freefall through neon city
+  zh: 赛博朋克摩天楼坠落穿越霓虹都市
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- cyberpunk
+- freefall
+- neon-city
+- pov
+- one-take
+source:
+  name: '@itsshara_ai on X'
+  url: https://x.com/itsshara_ai/status/2100435410338144486
+  credit: itsshara_ai
+  captured: '2026-10-28'
+  posted: '2026-09-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsshara_ai/status/2100435410338144486
+notes:
+  en: A single continuous take is set up with one clear action, a leap followed by a downward POV plunge. Concrete visual anchors such as holographic billboards, purple and pink signage and rain-slicked reflections give the fall speed and depth, and a short list of style keywords closes the prompt.
+  zh: 用一个连续长镜头讲一个清晰动作，先跃下再以第一人称视角向下俯冲。全息广告牌、紫粉霓虹招牌和雨后反光路面这些具体视觉锚点带来速度感与纵深，结尾用几个风格关键词收束。
+prompt: |
+  A dark figure leaps from a skyscraper ledge and free-falls through a neon-drenched cyberpunk cityscape at night. Massive holographic billboards and glowing purple and pink signage streak past as the camera plunges downward in a vertigo-inducing POV dive. Rain-slicked surfaces reflect neon light below. High-speed freefall, cyberpunk noir atmosphere, vertiginous depth.

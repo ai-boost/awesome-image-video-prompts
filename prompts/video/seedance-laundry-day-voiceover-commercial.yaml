@@ -1,0 +1,48 @@
+id: seedance-laundry-day-voiceover-commercial
+title:
+  en: Laundry day commercial with warm voiceover
+  zh: 带温暖旁白的洗衣日广告
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- commercial
+- voiceover
+- timed-beats
+- lifestyle
+- vertical
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2091386310837862772
+  credit: CaliraVal
+  captured: '2026-10-28'
+  posted: '2026-08-23'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/CaliraVal/status/2091386310837862772
+notes:
+  en: The 30 second timeline is split into timed beats, each paired with a spoken voiceover line, so action and narration stay in sync. A closing style block lists lighting, camera, sound and no text or logo constraints.
+  zh: 把30秒拆成带时间码的分镜，每段配一句旁白，动作与解说保持同步。结尾用一段风格清单统一光线、镜头、声音，并限定无字幕无文字无标志。
+prompt: |
+  Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
+
+  0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
+  Voiceover: “Laundry day starts with one simple step.”
+
+  5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
+  Voiceover: “I just load all my clothes into the washing machine…”
+
+  10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
+  Voiceover: “…add my detergent…”
+
+  13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
+  Voiceover: “…and let the machine do the work.”
+
+  17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
+  Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
+
+  22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
+  Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
+
+  28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
+  Voiceover: “Clean, fresh, and ready to wear.”
+
+  Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.

@@ -1,0 +1,55 @@
+id: h3-one-man-through-history-future-war-time-journey
+title:
+  en: One man transforms across history into a future war
+  zh: 同一个男人穿越历史直至未来战场
+model: MiniMax H3
+mode: text-to-video
+tags:
+- time-journey
+- costume-change
+- single-take
+- static-camera
+- multi-part
+source:
+  name: '@qtum on X'
+  url: https://x.com/qtum/status/2105438735248801831
+  credit: Qtum
+  likes: 60
+  captured: '2026-10-28'
+  posted: '2026-09-30'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/qtum/status/2105438735248801831
+notes:
+  en: A locked wide camera stays still while the scenery and the same man's clothing change in place, with a timed beat of about three seconds per era. A character block fixes the face across all parts, and each part opens by continuing the previous frame to keep the single take seamless.
+  zh: 机位全程锁定不动，场景与同一个男人的服装在原地渐变，每个时代约三秒的时间节拍。角色段落锁定同一张脸，每一段都从上一段的末帧接续，保证单镜头无缝。
+prompt: |
+  One Breath of History, then the Machine (time journey v5)
+
+  Film style
+  Cinematic live-action, photorealistic, epic natural light, rich period-accurate detail, one continuous evolving take with no cuts, fades or resets. The same man is present throughout; the world and his clothing transform seamlessly in place. No generated subtitles, captions or on-screen text.
+
+  Character A: The traveller
+  A rugged man in his thirties with a weathered, expressive face, real skin texture, dark tousled hair and a short dark beard, lean and strong. The same face in every era.
+
+  Era 1 clothing (changes with each era as the shots direct): a ragged grey wolf pelt draped over one shoulder, a fur loincloth, bare dust-streaked arms, a leather cord around the neck.
+  part_01 (15s, cast A)
+
+  Composition: Static wide shot. At the start: a rocky cliff at sunrise, A standing on it as a prehistoric hunter: a ragged grey wolf pelt draped over one shoulder, a fur loincloth, bare dust-streaked arms, a leather cord around his neck, holding a crude wooden spear with a flint tip, watching a herd of animals on the plain below.
+
+  Action: One seamless unbroken take with no cuts, fades or resets; every change is a continuous transformation in place, and his face never changes. [0s-3s] Prehistoric: A stands on the rocky cliff at sunrise in the wolf pelt and fur loincloth with the flint-tipped spear, watching the herd. [3s-6s] The cliff dissolves into a Sumerian mud-brick settlement; his pelt becomes a knee-length woven wool kaunakes skirt with tufted fringes, bare chest, a plain linen sash and leather sandals, and the spear becomes a long wooden farming staff; he runs through the settlement. [6s-9s] The settlement becomes ancient Egypt with pyramids; he now wears a white pleated linen shendyt kilt, a broad beaded collar in blue and gold, a striped linen headcloth and sandals, with kohl-lined eyes, walking among the pyramids. [9s-12s] Egypt becomes a grand Roman road of stone and sand; he now wears desert travel attire: a dusty cream tunic under a hooded sand-coloured wool cloak, a leather belt with a waterskin, laced sandals, the hood shading his face from the sun; he travels along the road. [12s-15s] The road becomes the interior of a medieval castle hall; he enters as a knight in full plate steel armour with a mail coif, a plain white surcoat, gauntlets and a sword at his hip, visor raised so his face stays visible. No dialogue; ambient sound of each era only.
+  Camera: Completely static, locked-off wide camera; no movement, zoom or reframing at all. The scenery and the man's clothing transform in place within the frame.
+
+  part_02 (15s, cast A, ends at 13.0s)
+  Composition: Continues exactly from the previous frame: A as a knight in full plate steel armour with a mail coif, plain white surcoat and raised visor, standing inside a medieval castle hall.
+  Action: One seamless unbroken take continuing the previous part with no cut, fade or reset; every change is a continuous transformation in place, and his face never changes. [0s-3s] The castle hall dissolves into a sandy beach at the water's edge with tall ships sailing out in the distance; his armour becomes an 18th-century sailor's coat of dark navy wool with brass buttons over a striped jersey, white canvas trousers rolled to the calf, a knotted red neckerchief, barefoot; he walks along the shoreline. [3s-6s] The beach becomes a colonial port city of the mid-1800s: brick warehouses, a cobbled quay, tall ships' masts, horse carts and stacked crates; he now wears a mid-19th-century gentleman's suit of that exact period: a long black wool frock coat, a buttoned waistcoat with a gold watch chain, a high starched wing collar with a dark silk cravat, narrow grey striped trousers, polished black leather boots and a black silk top hat on his head; he stands on the quay. [6s-9s] The port becomes a modern urban street; he now wears contemporary casual clothes: a grey hoodie under an olive bomber jacket, dark jeans, white trainers, earbuds; he walks along the pavement.
+  [9s-12s] The street becomes a bustling present-day metropolis of glass towers and crowds; he now wears a slim black overcoat over a plain white t-shirt, dark trousers and sleek trainers, a smartwatch on his wrist; he stands still among the motion. [12s-15s] The metropolis becomes a far-future city of luminous towers; he now stands completely still in an advanced white-and-graphite space suit with articulated plates, a softly glowing blue chest indicator and a clear helmet visor showing his face, observing the landscape while faint visual echoes of all the past eras layer within the sky and the architecture. The take ends there. No dialogue, ambient sound only.
+  Camera: Completely static, locked-off wide camera; no movement, zoom or reframing at all. The scenery and the man's clothing transform in place within the frame.
+
+  part_03c (6s, cast A)
+  Composition: Continues exactly from the previous frame: the man in the white-and-graphite space suit standing completely still before the far-future city of luminous towers.
+  Action: One seamless unbroken take continuing the previous part with no cut, fade or reset; the framing stays identical. [0s-1.5s] Sci-fi robot quadcopters, four-rotor drones with mounted guns and red sensor lights, swarm in over the futuristic city firing bright tracer rounds; explosions bloom on the luminous towers and smoke rises. [1.5s-3s] A is hit by the drone gunfire and collapses to the ground, falling face up, completely motionless, eyes closed, no blood or gore. [3s-6s] Other people in futuristic clothing run into frame from both sides toward him; the drones open fire on them and each one is knocked down by the bullets mid-stride, falling onto A and onto each other, one after another, until a pile of the fallen lies still on top of him at the foot of the burning city. Nobody kneels, helps or crouches; they only run, get shot and fall. The drones keep circling and firing overhead. The take ends there. No dialogue; rotor whine, gunfire and distant explosions.
+  Camera: Completely static, locked-off wide camera; no movement, zoom or reframing at all. The scene transforms in place within the frame.
+  part_04d (6s, cast none)
+  Composition: Continues exactly from the previous frame: the pile of the fallen lying still at the foot of the burning futuristic city, drones circling overhead.
+  Action: One seamless unbroken take continuing the previous part with no cut, fade or reset. [0s-1.5s] The drones fly off, the fires die to smoke, and the pile of the fallen dissolves into dusty, faded, sun-bleached bones and skulls spread across the ground; the burning towers become the dark ruined skyline of the same futuristic city on the horizon. The frame is empty of anyone standing. [1.5s-5s] A towering military war robot, a heavily armoured bipedal battle machine in scorched gunmetal plating with battle damage and soot, six articulated arms spread from its shoulders each ending in a weapon: rotary cannons, gun barrels and a missile pod, glowing red optical sensors in an armoured head, exposed hydraulics and steel ribs, no logos or markings, walks into the frame from the right edge with slow heavy steps, crunching across the bones, and steps up onto the heap of skulls in the centre of the frame, stopping there. [5s-6s] It stands still on the bones, then slowly turns its head toward the camera. The take ends there. No dialogue. Audio: no music at all; only the same natural ambience as the rest of the film, wind over the ruins, distant crackling fire and settling smoke, and the machine's heavy metallic footsteps.
+  Camera: Completely static, locked-off wide camera; no movement, zoom or reframing at all. The scene transforms in place within the frame.

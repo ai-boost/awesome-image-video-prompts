@@ -1,0 +1,35 @@
+id: h3-luxury-perfume-amber-smoke-commercial
+title:
+  en: Luxury perfume commercial with amber golden smoke
+  zh: 琥珀金烟奢华香水广告
+model: MiniMax H3
+mode: text-to-video
+tags:
+- perfume
+- commercial
+- multi-shot
+- luxury
+- product-ad
+source:
+  name: '@Lianaalane on X'
+  url: https://x.com/Lianaalane/status/2086730655161823597
+  credit: liana
+  likes: 228
+  captured: '2026-10-28'
+  posted: '2026-08-10'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Lianaalane/status/2086730655161823597
+notes:
+  en: Four numbered shot lines each carry their own camera move and lighting, bookended by matching push-ins on the bottle. A separate consistency block locks the woman, outfit and bottle across shots and lists negatives such as extra people, distorted hands and logos.
+  zh: 四行分镜各写明镜头运动和光线，首尾用同样的推近镜头呼应产品。单独的一致性段落锁定人物、服装和瓶身，并列出多余人物、变形的手和标志等排除项。
+prompt: |
+  A Luxury perfume bottle on glossy black surface, warm amber lighting, golden smoke, dark elegant background, soft reflections, cinematic close-up, slow push-in, photorealistic 4K.
+  Confident woman in a burnt-orange satin dress, long dark hair, luxurious dark interior with golden lights, subtle smoke, cinematic medium shot, photorealistic 4K.
+  Close-up of the same woman spraying perfume on her neck. Visible fragrance mist, warm golden light, natural hair movement, shallow depth of field, cinematic beauty ad.
+  Same woman walking confidently toward camera in the luxury interior. Smooth tracking shot, reflective floor, warm golden lighting, subtle smoke, elegant cinematic look.
+  Same perfume bottle centered on glossy black surface with amber crystals and golden smoke. Dramatic spotlight, dark luxury background, slow push-in, photorealistic 4K.
+
+  Consistency:
+  Keep the same woman, face, hair, skin tone, outfit, and perfume bottle across all scenes. Warm amber lighting, realistic skin and movement. No extra people, distorted hands, duplicate objects, text, or logos.
+
+  Style: Luxury fragrance commercial, cinematic, photorealistic, 4K.

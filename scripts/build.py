@@ -3,6 +3,7 @@
 Run from the repository root:  python scripts/build.py
 """
 import glob
+import os
 import re
 
 import yaml
@@ -23,6 +24,9 @@ CATEGORIES = {
     "brand": {"en": "Logos, ads and packaging", "zh": "标志、广告与包装"},
     "edit": {"en": "Photo editing", "zh": "照片编辑"},
 }
+# The README shows the most-liked TOP entries of each section; pages/<lang>/ holds every entry of every section.
+TOP = 6
+PAGE_BYTES = 350_000
 SHOWCASE = ["seedance-seoul-subway-revenge", "wan-time-space-train", "h3-starship-hyperspace-jump", "omni-four-style-progression",
             "kling-moonlit-garden-run", "veo-off-road-rally"]
 
@@ -46,7 +50,7 @@ T = {
         "guides_official": "Official prompt guides",
         "guides_community": "Community skills and libraries",
         "image": "Image prompts",
-        "image_body": "The most-liked prompts for the top image models on the [Artificial Analysis image arena](https://artificialanalysis.ai/text-to-image/arena), each shared on X with its result. Grouped by what you want to make. Many work on an uploaded photo; the ones marked *Edit* expect one.",
+        "image_body": "The most-liked prompts for the top image models on the [Artificial Analysis image arena](https://artificialanalysis.ai/text-to-image/arena), each with its result: shared on X by its author, or from the model maker's own guide. Grouped by what you want to make. Many work on an uploaded photo; the ones marked *Edit* expect one.",
         "threed": "3D with agents",
         "threed_body": "Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in progress.",
         "tags": "Browse by tag",
@@ -74,6 +78,10 @@ T = {
         "license": "License",
         "license_body": "Repository code and notes: GPL-3.0. Prompts and videos belong to their original publishers and are linked or quoted with credit.",
         "items": "entries",
+        "all": "All {n} entries",
+        "via": "found via",
+        "all_tags": "All {n} tags",
+        "back": "Back to the list",
     },
     "zh": {
         "file": "README_zh.md",
@@ -93,7 +101,7 @@ T = {
         "guides_official": "官方提示词指南",
         "guides_community": "社区 skill 与案例库",
         "image": "图片提示词",
-        "image_body": "[Artificial Analysis 图像榜](https://artificialanalysis.ai/text-to-image/arena)前排模型上点赞最多的提示词，每条都是作者在 X 上连同成图一起发的。按用途分组。很多要配一张自己的照片，标着「上传图改图」的就是。",
+        "image_body": "[Artificial Analysis 图像榜](https://artificialanalysis.ai/text-to-image/arena)前排模型上点赞最多的提示词，每条都附成图，出自作者在 X 上的帖子或模型官方指南。按用途分组。很多要配一张自己的照片，标着「上传图改图」的就是。",
         "threed": "用 Agent 做 3D",
         "threed_body": "用编程 Agent 搭 3D 场景的配方（Blender MCP、three.js）正在整理。",
         "tags": "按标签浏览",
@@ -121,6 +129,10 @@ T = {
         "license": "许可证",
         "license_body": "仓库代码和说明文字：GPL-3.0。提示词和视频归原发布者所有，本仓注明出处后链接或引用。",
         "items": "条",
+        "all": "全部 {n} 条",
+        "via": "发现于",
+        "all_tags": "全部 {n} 个标签",
+        "back": "返回目录",
     },
 }
 
@@ -144,18 +156,22 @@ def anchor(s):
     return re.sub(r"[^a-z0-9-]", "", s.lower())
 
 
-def tag_line(tags):
-    return " ".join(f"[`{t}`](#tag-{anchor(t)})" for t in tags)
+def tag_line(tags, href):
+    """href is the path to pages/<lang>/tags.md from the output file."""
+    return " ".join(f"[`{t}`]({href}#tag-{anchor(t)})" for t in tags)
 
 
-def video_entry(e, lang, t):
+def video_entry(e, lang, t, root=""):
+    """root is the path from the output file back to the repository root."""
     s = e["source"]
     meta = f'{e["model"]} · {MODE_NAMES[lang][e["mode"]]} · {t["source"]}: [{s["name"]}]({s["url"]})'
     if s.get("likes"):
         meta += f' · {s["likes"]:,} {t["likes"]} {s["captured"]}'
+    if s.get("via"):
+        meta += f' · {t["via"]} [{s["via"].split("github.com/")[-1]}]({s["via"]})'
     out = [f'<a id="{e["id"]}"></a>', f'### {e["title"][lang]}', "",
-           f'<a href="{e.get("video", s["url"])}"><img src="previews/{e["id"]}.jpg" width="360"></a>', "",
-           e["notes"][lang], "", meta, "", tag_line(e["tags"]), "",
+           f'<a href="{e.get("video", s["url"])}"><img src="{root}previews/{e["id"]}.jpg" width="360"></a>', "",
+           e["notes"][lang], "", meta, "", tag_line(e["tags"], "tags.md" if root else f"pages/{lang}/tags.md"), "",
            f'<details><summary><b>{t["prompt"]}</b></summary>', "", "```text", e["prompt"].rstrip(), "```", "", "</details>", ""]
     if e.get("inputs"):
         out += [f'{t["inputs"]}: ' + " · ".join(f'[{i + 1}]({u})' for i, u in enumerate(e["inputs"])) + "", ""]
@@ -166,10 +182,36 @@ def recipe_entry(e, lang, t):
     return [
         f'<a id="{e["id"]}"></a>', f'### {e["title"][lang]}', "",
         f'**{t["request"]}**', "", f'> {e["ask"][lang]}', "",
-        e["notes"][lang], "", tag_line(e["tags"]), "",
+        e["notes"][lang], "", tag_line(e["tags"], f"pages/{lang}/tags.md"), "",
         f'<details><summary><b>{t["commands"]}</b> · {t["agent"]}: {e["agent"]} · {t["tools"]}: {", ".join(e["tools"])}</summary>',
         "", "```bash", e["commands"].rstrip(), "```", "", "</details>", "",
     ]
+
+
+def rel(link, lang, t):
+    """Turn a README-relative entry link into one relative to pages/<lang>/."""
+    return f"../../{t['file']}{link}" if link.startswith("#") else link.removeprefix(f"pages/{lang}/")
+
+
+def write_pages(lang, t, key, title, entries):
+    """Write every entry of one section to pages/<lang>/<key>.md, <key>-2.md, ...; return {id: page path}."""
+    root, chunks, size = "../../", [[]], 0
+    for e in entries:
+        md = "\n".join(video_entry(e, lang, t, root))
+        if chunks[-1] and size + len(md.encode()) > PAGE_BYTES:
+            chunks.append([])
+            size = 0
+        chunks[-1].append((e, md))
+        size += len(md.encode())
+    names = [f"pages/{lang}/{key}.md"] + [f"pages/{lang}/{key}-{i}.md" for i in range(2, len(chunks) + 1)]
+    where = {}
+    for i, (name, chunk) in enumerate(zip(names, chunks)):
+        nav = " · ".join(f"**{j + 1}**" if j == i else f"[{j + 1}]({os.path.basename(n)})" for j, n in enumerate(names))
+        head = f"[{t['back']}]({root}{t['file']}) · {t['all'].format(n=len(entries))}" + (f" · {nav}" if len(names) > 1 else "")
+        out = [f"# {title}", "", head, ""] + [md for _, md in chunk] + ([nav, ""] if len(names) > 1 else [])
+        open(name, "w", encoding="utf-8").write("\n".join(out))
+        where.update({e["id"]: name for e, _ in chunk})
+    return where
 
 
 def build(lang, videos, images, recipes):
@@ -177,38 +219,44 @@ def build(lang, videos, images, recipes):
     by_model = {m: sorted((v for v in videos if v["model"] == m), key=lambda v: -v["source"].get("likes", 0))
                 for m in MODELS}
     assert sum(map(len, by_model.values())) == len(videos), "entry with a model missing from MODELS"
-    ids = {v["id"] for v in videos}
+    by_cat = {c: sorted((i for i in images if i["category"] == c), key=lambda i: -i["source"].get("likes", 0))
+              for c in CATEGORIES}
+    assert sum(map(len, by_cat.values())) == len(images), "image with a category missing from CATEGORIES"
+    # (pages key, README anchor, heading, entries) for every non-empty section
+    sections = [(f"video-{anchor(m)}", anchor(m), m, by_model[m]) for m in MODELS if by_model[m]] + \
+               [(f"image-{c}", f"img-{c}", CATEGORIES[c][lang], by_cat[c]) for c in CATEGORIES if by_cat[c]]
+    loc, more = {e["id"]: f'#{e["id"]}' for e in videos + images + recipes}, {}
+    for key, _, title, es in sections:
+        if len(es) > TOP:
+            where = write_pages(lang, t, key, title, es)
+            more[key] = where[es[0]["id"]]
+            loc.update({e["id"]: f'{where[e["id"]]}#{e["id"]}' for e in es[TOP:]})
+
     out = [
         '<div align="center">', "", f'<h1>{t["title"]}</h1>', "", f'<p>{t["tagline"]}</p>', "",
         f'<p>{t["switch"]}</p>', "", f'<p>{t["gallery"]}</p>', "",
         '<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>', "",
-        "".join(f'<a href="#{i}"><img src="previews/{i}.gif" height="150"></a> ' for i in SHOWCASE if i in ids),
+        "".join(f'<a href="{loc[i]}"><img src="previews/{i}.gif" height="150"></a> ' for i in SHOWCASE if i in loc),
         "", "</div>", "", f'> {t["formerly"]}', "", f'## {t["contents"]}', "",
         f'- [{t["video"]}](#video) ({len(videos)} {t["items"]})',
     ]
     out += [f'  - [{m}](#{anchor(m)}) ({len(by_model[m])})' for m in MODELS if by_model[m]]
-    by_cat = {c: sorted((i for i in images if i["category"] == c), key=lambda i: -i["source"].get("likes", 0))
-              for c in CATEGORIES}
-    assert sum(map(len, by_cat.values())) == len(images), "image with a category missing from CATEGORIES"
     out += [f'- [{t["image"]}](#image) ({len(images)} {t["items"]})']
     out += [f'  - [{CATEGORIES[c][lang]}](#img-{c}) ({len(by_cat[c])})' for c in CATEGORIES if by_cat[c]]
     out += [f'- [{t["recipes"]}](#recipes) ({len(recipes)} {t["items"]})',
             f'- [{t["guides"]}](#guides)', f'- [{t["threed"]}](#threed)',
             f'- [{t["tags"]}](#tags)', f'- [{t["contrib"]}](#contributing)', ""]
 
-    out += ['<a id="video"></a>', f'## {t["video"]}', "", t["video_intro"], ""]
-    for m in MODELS:
-        if by_model[m]:
-            out += [f'<a id="{anchor(m)}"></a>', f"## {m}", ""]
-            for v in by_model[m]:
-                out += video_entry(v, lang, t)
-
-    out += ['<a id="image"></a>', f'## {t["image"]}', "", t["image_body"], ""]
-    for c in CATEGORIES:
-        if by_cat[c]:
-            out += [f'<a id="img-{c}"></a>', f"## {CATEGORIES[c][lang]}", ""]
-            for i in by_cat[c]:
-                out += video_entry(i, lang, t)
+    for key, anc, title, es in sections:
+        if key == sections[0][0]:
+            out += ['<a id="video"></a>', f'## {t["video"]}', "", t["video_intro"], ""]
+        if key.startswith("image-") and not any(k.startswith("image-") for k, *_ in sections[:sections.index((key, anc, title, es))]):
+            out += ['<a id="image"></a>', f'## {t["image"]}', "", t["image_body"], ""]
+        out += [f'<a id="{anc}"></a>', f"## {title}", ""]
+        for e in es[:TOP]:
+            out += video_entry(e, lang, t)
+        if key in more:
+            out += [f'**[{t["all"].format(n=len(es))}]({more[key]})**', ""]
 
     out += ['<a id="recipes"></a>', f'## {t["recipes"]}', "", t["recipes_intro"], ""]
     for r in recipes:
@@ -225,11 +273,16 @@ def build(lang, videos, images, recipes):
     for e in videos + images + recipes:
         for tg in e["tags"]:
             tags.setdefault(tg, []).append(e)
-    out += ['<a id="tags"></a>', f'## {t["tags"]}', ""]
+    # The full index lives on pages/<lang>/tags.md; the README keeps the tags used three times or more.
+    page = [f"# {t['tags']}", "", f"[{t['back']}](../../{t['file']})", ""]
     for tg in sorted(tags):
-        links = ", ".join(f'[{e["title"][lang]}](#{e["id"]})' for e in tags[tg])
-        out.append(f'- <a id="tag-{anchor(tg)}"></a>`{tg}` ({len(tags[tg])}): {links}')
-    out.append("")
+        links = ", ".join(f'[{e["title"][lang]}]({rel(loc[e["id"]], lang, t)})' for e in tags[tg])
+        page.append(f'- <a id="tag-{anchor(tg)}"></a>`{tg}` ({len(tags[tg])}): {links}')
+    open(f"pages/{lang}/tags.md", "w", encoding="utf-8").write("\n".join(page) + "\n")
+    common = sorted((tg for tg in tags if len(tags[tg]) >= 3), key=lambda tg: -len(tags[tg]))
+    out += ['<a id="tags"></a>', f'## {t["tags"]}', "",
+            " · ".join(f'[`{tg}`](pages/{lang}/tags.md#tag-{anchor(tg)}) {len(tags[tg])}' for tg in common), "",
+            f'**[{t["all_tags"].format(n=len(tags))}](pages/{lang}/tags.md)**', ""]
 
     out += ['<a id="contributing"></a>', f'## {t["contrib"]}', ""] + [f"{i}. {x}" for i, x in enumerate(t["contrib_body"], 1)] + [""]
     out += [f'## {t["related"]}', ""] + [f"- {x}" for x in t["related_items"]] + [""]
@@ -241,6 +294,10 @@ if __name__ == "__main__":
     videos = load("prompts/video/*.yaml")
     images = load("prompts/image/*.yaml")
     recipes = load("recipes/*.yaml")
+    for lang in T:
+        os.makedirs(f"pages/{lang}", exist_ok=True)
+        for f in glob.glob(f"pages/{lang}/*.md"):
+            os.remove(f)
     for lang in T:
         build(lang, videos, images, recipes)
     print(f"built README.md and README_zh.md: {len(videos)} video, {len(images)} image entries, {len(recipes)} recipes")

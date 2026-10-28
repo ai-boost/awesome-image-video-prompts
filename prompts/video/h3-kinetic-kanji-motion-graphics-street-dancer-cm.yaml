@@ -1,0 +1,131 @@
+id: h3-kinetic-kanji-motion-graphics-street-dancer-cm
+title:
+  en: Kinetic kanji motion graphics ad with street dancer
+  zh: 动感汉字动态图形广告与街舞少女
+model: MiniMax H3
+mode: text-to-video
+tags:
+- motion-graphics
+- typography
+- anime
+- commercial
+- multi-shot
+source:
+  name: '@tanabe_fragm on X'
+  url: https://x.com/tanabe_fragm/status/2090306302966919515
+  credit: タナベ | AI動画 × マーケティング
+  likes: 132
+  captured: '2026-10-28'
+  posted: '2026-08-20'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/tanabe_fragm/status/2090306302966919515
+notes:
+  en: A global style paragraph locks a four color palette and a fixed character design. Thirteen timestamped shots then each give a graphic action, a character action and a camera move with amplitude and speed, closing on a static identity card.
+  zh: 开头的全局段落锁定四色配色和固定的角色设定，随后十三个带时间戳的分镜各自写明图形动作、角色动作以及带幅度和速度的镜头运动，最后以静态标识卡收尾。
+prompt: |
+  ----------------------
+  integrated_multimodal_description:
+  2D-animated, a bold graphic-design motion-graphics commercial in 16:9 with exactly 13
+  distinct cuts at 24fps. This film is 85% kinetic graphic design and 15% character action:
+  giant kinetic Japanese typography, hard-edged flat shapes, split screens, halftone, speed
+  lines, torn-paper reveals and shutter flashes. Palette, strictly four colors: fluorescent
+  orange, deep black, off-white, silver grey. The recurring character is a young anime street
+  dancer with a black chin-length bob and blunt bangs, sharp confident eyes, an oversized
+  off-white track jacket with fluorescent-orange sleeve stripes, black cargo shorts, and
+  chunky white sneakers with fluorescent-orange lines. Preserve her exact face, proportions,
+  hairstyle, outfit, materials and colors throughout; never redesign her. Every graphic
+  element moves fast and snaps hard on the beat.
+
+  [Shot 1] On a deep black field, a massive off-white circle slams into frame left of center,
+  then two fluorescent-orange bars wipe across the upper and lower thirds, then the Japanese
+  kanji "烈" builds itself stroke by stroke in off-white at the center until it is complete.
+  The camera shakes slightly with small amplitude at fast speed on each impact.
+
+  [Shot 2] At 00:01.000, the camera cuts to an off-white field where four black squares
+  rotate into the center one at a time. The largest square opens as a porthole revealing an
+  extreme close-up of the dancer's ice-sharp eye glancing up, then a red-and-cyan split flash
+  tears across the edges and the squares shatter into flat shards. The camera pushes in with
+  small amplitude at fast speed.
+
+  [Shot 3] At 00:02.000, the camera cuts to an off-white field filled by an enormous black
+  kanji "烈". The dancer sprints in from frame left, power-slides along the baseline of the
+  typography, and fluorescent-orange ink splatter trails behind her as speed lines streak
+  past. The camera trucks left with large amplitude at fast speed. The kanji stays fully
+  readable before she crosses in front of it.
+
+  [Shot 4] At 00:03.100, the camera cuts to a vertical triptych of fluorescent-orange, deep
+  black and off-white panels. Her flat silhouette appears in each panel in stroboscopic
+  freeze, one after another — takeoff, mid-air tuck, landing — while giant vertical silver
+  text "全速" scrolls upward behind the panels. Static shot.
+
+  [Shot 5] At 00:04.000, the camera cuts to a black field where a giant tilted ring of
+  fluorescent-orange Japanese characters reading "止マルナ" rotates. The dancer leaps through
+  the center of the ring, spins once in mid-air, and the characters break off and scatter
+  outward as flat shards. The camera arcs with large amplitude at fast speed, then snap-zooms
+  onto her confident face.
+
+  [Shot 6] At 00:05.100, the camera cuts to a clean off-white editorial card holding a huge
+  black kanji "跳" with one orange diagonal slash. She vaults over the word itself, plants her
+  palm on its left radical, the character compresses like a spring under her hand, then
+  rebounds as her legs whip across the frame. Static shot.
+
+  [Shot 7] At 00:06.000, the camera cuts to a full fluorescent-orange field crossed by one
+  thick black diagonal stripe. She back-flips along the stripe in three stroboscopic ghost
+  frames tinted black, off-white and silver grey, while a large outlined kanji "回" rotates
+  180 degrees in sync with her rotation. The camera rolls clockwise with small amplitude at
+  fast speed.
+
+  [Shot 8] At 00:07.000, the camera cuts to an off-white field with a hard black band. Four
+  bold black kanji slam in one at a time at different scales and angles — "速", then "鋭",
+  then "静", then "烈" — each landing with a white shutter flash and an orange impact mark,
+  while she slides on her knees across the foreground, jacket flaring. The camera shakes
+  slightly with small amplitude at fast speed.
+
+  [Shot 9] At 00:08.000, the camera cuts to a black frame where a white wireframe grid tilts
+  away in 3D. She runs up the grid like a wall, kicks off it, and hangs frozen in mid-air as
+  a fluorescent-orange circle stamps around her pose like a target lock with silver UI
+  brackets and tick marks. The camera tilts up with small amplitude at slow speed.
+
+  [Shot 10] At 00:09.000, the freeze releases and the camera cuts to layered flat-color panes
+  stacked toward the lens. She dives straight at the camera, the panes tear open one at a
+  time like thick paper, and each tear reveals a larger portion of the black kanji "烈"
+  behind, before her sneaker wipes across the foreground. The camera pulls out with large
+  amplitude at fast speed.
+
+  [Shot 11] At 00:10.100, the camera cuts to a rapid-fire montage of four full-screen graphic
+  posters of her in different action poses — mid-flip, sliding, landing, hands in pockets —
+  snapping past with hard cuts, each with an oversized silver number 01 to 04, a black
+  barcode strip and thick diagonal slashes. Static shot.
+
+  [Shot 12] At 00:11.100, the camera cuts to a clean off-white cyclorama for the hero moment.
+  She lands a final backflip dead center in slow motion, straightens with both hands in her
+  pockets, and a shockwave of concentric fluorescent-orange rings blasts outward from her feet
+  carrying shattered fragments of the kanji "烈" with it, then the frame overexposes toward
+  white. The camera pushes in with small amplitude at slow speed.
+
+  [Shot 13] At 00:13.000, the camera cuts to the final identity card on a pale off-white
+  field. An enormous black kanji "烈" dominates the frame with translucent orange rings and
+  thin technical arcs behind it, the silver-grey word "RETSU" sits directly beneath the kanji,
+  and she stands relaxed at the lower center overlapping the bottom of the strokes with her
+  jacket rippling. One thin orange pulse sweeps horizontally through the typography and holds
+  cleanly until exactly 15.000 seconds. Static shot.
+
+  Editing: extremely aggressive rhythm — hard cuts on every beat, graphic matches, whip pans,
+  snap zooms, stroboscopic freezes, foreground wipes, split flashes and impact shakes. Every
+  cut must feel compositionally different. All Japanese typography is always fully readable
+  before the character overlaps it. No weapons, no combat, no fire, no explosions; all energy
+  comes from motion design, ink, torn paper, wind and her street-dance athleticism. No
+  photorealism, no 3D rendering, no gradients, no browser interface, no player controls, no
+  subtitles, no captions, and no text other than the Japanese characters named above.
+  Exactly 13 cuts.
+
+  overall_soundscape:
+  Sneaker impacts, knee slides and landings hit hard against a clean room tone. Ink splatters
+  burst, thick paper tears open, and flat panels shatter like glass. Sharp whooshes carry the
+  color wipes and typography slams, with small shutter clicks on each flash. No dialogue.
+
+  non_diegetic_music:
+  An original 15-second drum-heavy breakbeat with a deep sub bass, hard snare hits, risers and
+  glitch fills locked to every cut. Begin with a single impact, build tightly through the
+  middle, peak at the landing at 00:11.100, and end with a cold electronic logo sting that
+  resolves at 15.000 seconds.

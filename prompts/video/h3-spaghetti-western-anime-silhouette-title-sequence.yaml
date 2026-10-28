@@ -1,0 +1,29 @@
+id: h3-spaghetti-western-anime-silhouette-title-sequence
+title:
+  en: Spaghetti western anime silhouette title sequence
+  zh: 西部片风动漫剪影片头
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- anime
+- title-sequence
+- silhouette
+- spaghetti-western
+- film-grain
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2085599659326935100
+  credit: WasifAI
+  likes: 250
+  captured: '2026-10-28'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/doctorwasif/status/2085599659326935100
+notes:
+  en: Reference image and audio track set the timing, with hard cuts only and freeze frames on full beats. A flat black silhouette on a restricted desert palette, plus stencil title typography and heavy 35mm print wear, keeps the look consistent.
+  zh: 以参考图和音轨定节奏，只用硬切，在整拍处定格。纯黑剪影配限定的沙漠色板，再加模板字标题和厚重的35mm胶片磨损，让整段风格统一。
+prompt: |
+  Use the attached character reference (Image1) and audio track as the timing guide. Create a spaghetti-western pulp anime title sequence where every cut lands precisely on the beat.
+  Style the character as a flat black silhouette against solid desert-inspired colors (burnt orange, ochre, rust, adobe tan), using bold pop-art compositions, vintage bounty-poster framing, split panels, extreme close-ups, and wide horizon shots. Alternate fast action bursts with full-beat freeze frames (draw, stride, turn, match strike, etc.), using hard cuts only.
+  Add worn woodblock/stencil title typography that slams into frame on the beat. Finish with the character frozen in silhouette on a burnt-orange background as the title stamps in on the final hit.
+  Apply heavy 35mm film grain, scratches, dust, gate weave, cigarette burns, and sun-faded print wear throughout for an authentic 1960s spaghetti-western look.

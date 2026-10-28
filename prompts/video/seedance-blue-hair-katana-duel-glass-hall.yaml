@@ -1,0 +1,25 @@
+id: seedance-blue-hair-katana-duel-glass-hall
+title:
+  en: Blue haired swordswoman duel in glass hall
+  zh: 蓝发持刀少女在玻璃大厅中的对决
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- action
+- anime-inspired
+- tracking-shot
+- bullet-time
+- long-take
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2093540453261946900
+  credit: AvelyrahnAI
+  captured: '2026-10-28'
+  posted: '2026-08-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AvelyrahnAI/status/2093540453261946900
+notes:
+  en: The prompt sets one location and a tracking shot, then names each fighter's look and weapons so the choreography stays readable. Stacked effect cues (bullet time, splinters, smoke, volumetric light) push the motion across a long continuous action take.
+  zh: 提示词先锁定单一场景和跟拍镜头，再逐一写明两名对手的外形与武器，让打斗调度清晰可读。子弹时间、木屑、烟雾、体积光等效果叠加，支撑起一镜到底的长动作段落。
+prompt: |
+  Cinematic action sequence, dynamic tracking shot in a modern glass-and-concrete architectural hall. A stylish anime-inspired girl with vibrant light-blue bob hair and cute blue/white hair clips wields a handgun and a katana, engaging in intense hand-to-hand combat against a nimble blonde rival armed with dual daggers. High-speed bullet-time perspective, dramatic close-ups, flying wood splinters, dynamic smoke effects, volumetric lighting, photorealistic skin texture, dramatic cinematic framing, 8k resolution, highly detailed martial arts choreography.

@@ -1,0 +1,39 @@
+id: seedance-apartment-afternoon-vlog-face-yoga-nails
+title:
+  en: Cozy apartment afternoon vlog with face yoga and nails
+  zh: 温馨公寓午后日常vlog：面部瑜伽与涂指甲
+model: Seedance 2.5
+mode: image-to-video
+tags:
+- vlog
+- handheld
+- lifestyle
+- ambient-sound
+- timed-shots
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2107824210899055039
+  credit: doctorwasif
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2107824210899055039
+notes:
+  en: A reference image locks identity and outfit, then five timed beats of about seven seconds each chain small domestic actions into one 30 second take. Handheld realism cues (camera shake, imperfect framing, autofocus) and a closed list of ambient sounds with no music keep it feeling like real footage.
+  zh: 用参考图锁定人物形象与服装，再把五个约七秒的时间段串成一个30秒的家居日常长镜头。手持感关键词（轻微抖动、不完美构图、真实对焦）加上限定环境音且不要音乐，让画面更像真实拍摄。
+prompt: |
+  image = Main Subject. Preserve her exact identity, face, hairstyle, skin tone, proportions, and reference outfit throughout.
+
+  Authentic Korean woman in a cozy, modern Korean apartment. RAW handheld vlog realism, natural afternoon light, subtle camera shake, imperfect framing, realistic autofocus, and natural colors.
+
+  00:00–00:07: In front of a mirror, she makes exaggerated face yoga expressions, notices her reflection, and laughs shyly.
+
+  00:07–00:13: She mists windowsill plants, gently inspecting a leaf with a satisfied smile.
+
+  00:13–00:20: Sitting cross-legged on the living room floor, she folds laundry beside a basket, briefly reacting to a TV show.
+
+  00:20–00:27: At a desk by the window, she carefully paints her nails, then blows on them to dry.
+
+  00:27–00:30: She admires her freshly painted nails in sunlight, turns her hand, and smiles softly at the camera.
+
+  Natural movements and ambient sounds only: spray bottle, distant TV, fabric, nail polish, and breathing. No music. 16:9.

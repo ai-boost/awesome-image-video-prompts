@@ -1,0 +1,26 @@
+id: h3-prehistoric-cave-concert-dinosaurs-documentary
+title:
+  en: Prehistoric cave concert with dinosaurs and crowd
+  zh: 史前洞穴演唱会，恐龙与人群围观
+model: MiniMax H3
+mode: text-to-video
+tags:
+- multi-shot
+- documentary
+- ultra-realistic
+- crowd-scene
+- dinosaurs
+source:
+  name: '@ozansihay on X'
+  url: https://x.com/ozansihay/status/2085420070952649179
+  credit: Ozan Sihay
+  likes: 241
+  captured: '2026-10-28'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ozansihay/status/2085420070952649179
+notes:
+  en: A short plain scene description names the stage, performers, background creatures and audience in turn, then states multi-shot coverage, a natural documentary camera feel and an ultra realistic look. Written in Turkish and kept simple, it makes a good test of how well a model follows a loose brief.
+  zh: 提示词用简短平实的语句依次交代舞台、表演者、背景生物和观众，再写明多镜头、自然纪录片式镜头感和超写实风格。全文为土耳其语且结构简单，适合测试模型对宽松描述的理解力。
+prompt: |
+  Tarih öncesi çağlarda geçen bir konser sahnesi. Sahnede mağara adamları var, tarih öncesi insanlar, anlaşılmaz bir dilde şarkı söylüyorlar. Etrafta dinozorlar da dolaşıyor. Konseri izleyen kalabalık bir topluluk var. Çekim multi-shot olacak, doğal ve belgesel havasında bir kamera hissi olmalı. Görsel stil ultra gerçekçi olmalı.

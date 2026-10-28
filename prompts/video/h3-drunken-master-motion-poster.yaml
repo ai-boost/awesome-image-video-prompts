@@ -1,0 +1,40 @@
+id: h3-drunken-master-motion-poster
+title:
+  en: Drunken master movie poster turned motion poster
+  zh: 醉拳电影海报变成动态海报
+model: MiniMax H3
+mode: image-to-video
+tags:
+- motion-poster
+- martial-arts
+- typography
+- poster-animation
+- cinematic
+source:
+  name: '@MonetizationDon on X'
+  url: https://x.com/MonetizationDon/status/2087183007874453795
+  credit: LAPTOP LIFESTYLE BLOGGER
+  likes: 225
+  captured: '2026-10-28'
+  posted: '2026-08-11'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/MonetizationDon/status/2087183007874453795
+notes:
+  en: The prompt starts by locking the uploaded poster artwork, typography and layout, and ends with explicit bans on redesign, new text and distorted lettering. Motion is split into ambient layers, subtle character action, a title reveal and a camera push then pull back to the final frame.
+  zh: 提示词开头先锁定上传海报的画面、字体和版式，结尾明确禁止重新设计、新增文字和字形变形。动态按氛围层、人物小动作、标题特效、镜头推进再拉回定格的顺序拆开写。
+prompt: |
+  Animate the uploaded CHUNG LEE movie poster as a 10-second cinematic martial-arts motion poster while preserving the original artwork, characters, typography, composition and layout.
+
+  Bring the static poster to life with rich cinematic colors — crimson red, golden yellow, fiery orange, electric blue, emerald green and magenta. Animate the lanterns, drifting smoke, flying dust, sparks, debris and the surrounding crowd.
+
+  Give CHUNG LEE subtle drunken-master movement: shifting shoulders, flowing hair, a confident expression and a casual lift of the gourd with liquid splashing in slow motion.
+
+  Then make “CHUNG LEE” the ultimate visual flex — dramatic brush-stroke reveals, golden particles, energy trails and a powerful 3D pop-out effect that makes the title feel like it is breaking out of the poster.
+
+  Add glowing red energy around the Chinese characters, dynamic martial-arts impacts, moving background fighters, cinematic camera movement and bursts of colorful light.
+
+  Finish with a dramatic push toward the CHUNG LEE title, then pull back to reveal the complete poster before locking into the final frame.
+
+  No redesign. No new text. No distorted typography. Preserve the original poster — just make it move.
+
+  Animation made with Minimax H3

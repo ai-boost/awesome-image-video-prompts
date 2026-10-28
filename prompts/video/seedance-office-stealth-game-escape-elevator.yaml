@@ -1,0 +1,306 @@
+id: seedance-office-stealth-game-escape-elevator
+title:
+  en: Office worker sneaks to elevator, stealth game
+  zh: 上班族潜行下班，潜行游戏视角
+model: Seedance 2.5
+mode: image-to-video
+tags:
+- stealth-game
+- third-person
+- one-take
+- office
+- hud
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2099440985872933199
+  credit: Just_sharon7
+  captured: '2026-10-28'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2099440985872933199
+notes:
+  en: A cast separation block gives each character a distinct height, age and hairstyle so they stay separate people. Seedance is told to use one unbroken third person camera with a spring delay, smooth FOV breathing, a timed beat list and a single hard cut to a locked reverse shot.
+  zh: 用角色分离段落为每个人物写明身高、年龄和发型，避免人物混淆。镜头设定为带弹簧延迟的第三人称长镜头，视场角平滑变化，按秒分段写动作节拍，仅在结尾硬切一次到固定反打镜头。
+prompt: |
+  SCENE CONTEXT
+
+  A 30-second realistic AAA third-person stealth-action game sequence set in a Japanese corporate office at exactly 5:00 PM on a bright weekday afternoon. The player character, NAGI, has finished her work and must reach the elevator without being stopped by her boss and given another assignment.
+
+  ACTIVE REFERENCES
+
+  [@Image1] = NAGI’s facial identity, if a character reference is supplied. Use only her facial appearance as the identity reference; replace any school clothing and background with the adult office character and environment specified below.
+
+  NAGI: Japanese woman, 25, long straight black hair with blunt bangs, white short-sleeve office blouse, charcoal tailored trousers, black leather belt, white minimalist sneakers, employee ID clipped to her waistband, small black work tote held close to her body.
+
+  Voice: light, breathy adult female voice, speaking Japanese in a hushed whisper. Keep her face, hairstyle, outfit, proportions, and accessories identical throughout.
+
+  CAST SEPARATION
+
+  Four distinct adult office characters appear, each with a different silhouette, age, and hairstyle so they read as separate people:
+
+  TEAM LEADER: man in his 40s, 170 cm, average build, full head of short black hair parted at the side, thin metal-framed glasses, white dress shirt with a loosened navy tie. Appears only beside the first desk cluster, checking his watch.
+  PAPERWORK COWORKER: woman in her 20s, 160 cm, slim, brown hair in a high ponytail, beige cardigan over a white blouse, carrying a thick stack of printouts. Appears only in the printer aisle.
+  BOSS: man in his 60s, 160 cm, stout and round-shouldered, completely bald with a shiny scalp and a fringe of white hair above the ears, round gold-rimmed glasses, charcoal three-piece suit with a company lapel badge, carrying a blue assignment folder. Appears at the corridor T-junction and remains in that connected corridor during the whiteboard sequence.
+  OFFICE ASSISTANT: man in his early 30s, 182 cm, lean and broad-shouldered, thick full black hair swept back, short beard, navy shirt with rolled sleeves, dark trousers, no glasses. Pushes the mobile whiteboard from the meeting-room alcove toward the elevator lobby.
+
+  The BOSS is the only bald character in the entire video. The OFFICE ASSISTANT keeps a full head of thick black hair and a beard, stands more than 20 cm taller than the BOSS, and is clearly a different, much younger man.
+
+  LOCATION MAP
+
+  One unbroken spatial route the camera travels with her:
+
+  Her workstation → low desk partition → printer aisle → corridor T-junction → meeting-room alcove with mobile whiteboard → elevator lobby → elevator interior.
+
+  Keep the route compact and physically traversable within the 27-second continuous section.
+
+  Foreground: polished linoleum floor, office desks, steel filing cabinets, rolling chairs, and reflective glass meeting-room partitions.
+
+  Background: window wall on camera-right overlooking neighboring office buildings, dust suspended in the sunbeams. Light enters from camera-right along the office route.
+
+  ELEVATOR GEOMETRY
+
+  The elevator entrance is at the end of the office corridor. The call button is on the wall beside the entrance. The elevator is empty when NAGI enters.
+
+  Inside the elevator: brushed-metal rear wall, side handrails, softly illuminated ceiling, control panel beside the doorway. No rear exit and no mirror creating a second NAGI.
+
+  NAGI enters facing the rear wall, then turns to face the open elevator doors.
+
+  For the final reverse shot, the camera is positioned INSIDE the elevator, immediately beside the doorway, looking inward at NAGI. The brushed-metal rear wall is behind her. The elevator doors close behind the camera, allowing her face to remain visible throughout the final shot.
+
+  FIRST FRAME / BLOCKING
+
+  First frame is already in motion: NAGI darts in from lower-left toward camera-right, work tote clutched to her chest, and drops into a crouch-slide behind a low desk partition beside her workstation.
+
+  Camera behind her right shoulder. Game HUD fully visible from frame one.
+
+  A small desk clock reads 17:00.
+
+  FORMAT MODE
+
+  One continuous unbroken take from 0.0s to 27.0s with no cuts of any kind, then a single HARD CUT at 27.0s to one final locked reverse shot that runs to 30.0s.
+
+  Exactly one cut exists in the whole video, at 27.0s. The camera does not cut anywhere else.
+
+  OPTICS
+
+  One lens for the continuous section: 47° third-person over-the-shoulder framing as the baseline, breathing in to 29° on reaction beats and out to 63° for the boss encounter and moving-whiteboard concealment.
+
+  All FOV changes in that section happen as smooth continuous zoom breathing, never as a jump.
+
+  The final shot after the cut is a fixed 29° frontal framing of NAGI, no drift.
+
+  CAMERA
+
+  For the continuous section, the camera is a physical object flying with her.
+
+  Chest-height, 1.5 meters behind NAGI, slightly camera-right of her spine, swinging with a soft spring delay half a beat behind her turns like an analog-stick gameplay camera.
+
+  It dips to knee height when she crouches, rises when she stands, slides sideways along the filing cabinets with her, swings wide to corridor-left to reveal the boss encounter, drifts behind her for the moving whiteboard, and follows her through the open elevator doorway.
+
+  The camera travels through open space around desks and partitions. It never clips through furniture, walls, the whiteboard, or elevator doors.
+
+  After the cut, the camera is repositioned inside the elevator beside the doorway, looking inward at NAGI — locked off, eye level, completely static, no movement.
+
+  ACTION
+
+  [Beat 1 — 0.0s to 6.0s]
+
+  NAGI crouch-slides behind the low desk partition, back flat against it, chest heaving. She leans out 20 cm to peek at the TEAM LEADER checking his watch beside the adjacent desk cluster, then pulls back.
+
+  She whispers in Japanese:
+
+  {定時だ…捕まったら終わり。}
+
+  HUD flashes 【5:00 PM — SHIFT OVER】 and the mission banner 【OBJECTIVE: REACH THE ELEVATOR UNDETECTED】.
+
+  The TEAM LEADER turns toward a ringing desk phone. NAGI slips behind his back, staying below the desk-partition line, and moves into the printer aisle.
+
+  The camera follows without stopping.
+
+  [Beat 2 — 6.0s to 12.0s]
+
+  The camera stays with her beside the steel filing cabinets.
+
+  NAGI presses her spine flat against the cabinets and shuffles sideways at 2 km/h, sneakers rolling heel-to-toe in silence. The camera tracks sideways with her at the same speed.
+
+  The PAPERWORK COWORKER walks past the end of the row carrying a thick stack of printouts, scanning the office for someone available to help.
+
+  NAGI holds her breath, pupils tracking the coworker without moving her head, and whispers:
+
+  {来ないで…こっち見ないで。}
+
+  The minimap vision cone sweeps past NAGI’s marker and turns away.
+
+  HUD shows 【SNEAKING MODE】.
+
+  The PAPERWORK COWORKER exits frame-left. NAGI exhales, crouches beneath the edge of the last desk, and slips into the corridor with the camera still on her shoulder.
+
+  [Beat 3 — 12.0s to 18.0s]
+
+  The BOSS steps around the T-junction two meters in front of her, blue assignment folder in hand.
+
+  He catches a brief glimpse of movement. A red exclamation marker snaps above his bald head with a sharp alert sting. The HUD edge pulses red: 【ALERT】.
+
+  He starts saying in Japanese:
+
+  {なぎさん、追加の仕事が…}
+
+  The camera swings wide to corridor-left as NAGI reacts in one motion: hugs her tote tightly against her ribs, drops below his eye line, pivots around the corner of a tall filing cabinet, and slips into the adjacent meeting-room alcove.
+
+  The cabinet fully blocks his view before he can finish approaching her.
+
+  She whispers:
+
+  {今だけは無理…！}
+
+  HUD prints 【EVASIVE MANEUVER】 and 【BREAK LINE OF SIGHT】.
+
+  The BOSS takes a step toward the place where he last saw her, looking around the cabinet. NAGI has already moved to the far side of a mobile whiteboard in the alcove.
+
+  The camera falls in behind her again.
+
+  [Beat 4 — 18.0s to 24.0s]
+
+  The OFFICE ASSISTANT starts pushing the mobile whiteboard out of the meeting-room alcove toward the elevator lobby.
+
+  The whiteboard is a tall, opaque rectangular board on a metal frame with four caster wheels. Its panel extends low enough to conceal NAGI’s crouched torso and head; only her white sneakers occasionally show below the frame.
+
+  NAGI crouches on the side opposite the BOSS and shuffles with the board, matching its rolling speed exactly. She keeps her tote tucked close so it never protrudes beyond the board’s edge.
+
+  The camera tracks low on her concealed side, showing her careful steps and the BOSS intermittently visible beyond the board’s far edge.
+
+  The BOSS pauses, looks toward the moving whiteboard for a full beat, then turns back toward the office with his assignment folder.
+
+  From behind the board, NAGI whispers:
+
+  {ホワイトボード…最強。}
+
+  HUD prints 【MOBILE COVER EQUIPPED】, then 【ENEMY LOST CONTACT】.
+
+  The alert bar drains to green.
+
+  The OFFICE ASSISTANT steers the board into a wall recess beside the elevator lobby. NAGI slips away from its concealed side as it stops.
+
+  [Beat 5 — 24.0s to 27.0s]
+
+  NAGI reaches the elevator call button and taps it once.
+
+  A soft arrival chime sounds. The elevator is already waiting on this floor; its doors slide fully open.
+
+  She slips through the clear doorway. The camera follows her inside, staying behind her shoulder.
+
+  She turns to face the entrance and presses the door-close button once. Her shoulders remain tense, tote held tightly in both hands.
+
+  The doors remain open until the cut.
+
+  27.0s HARD CUT
+
+  [Beat 6 — 27.0s to 30.0s]
+
+  Locked static reverse shot from inside the elevator beside the doorway, looking inward:
+
+  NAGI stands facing camera, shoulders squared, work tote held in front of her, chest still rising fast. Behind her are the brushed-metal rear wall and a horizontal handrail.
+
+  Off camera behind the lens, from the distant office corridor, the BOSS calls in Japanese:
+
+  {なぎさん、ちょっといい？}
+
+  The elevator doors slide closed behind the camera. Their narrowing opening is registered by the shrinking patch of corridor light across NAGI’s face and the sliding-door sound.
+
+  NAGI answers brightly, looking straight down the lens:
+
+  {お先に失礼します！}
+
+  The doors finish closing. Her shoulders drop with relief.
+
+  HUD prints 【MISSION COMPLETE】, 【STEALTH RANK: S】, 【ADRENALINE +150】, and the final notification:
+
+  【AFTER-HOURS TASK EVADED】
+
+  Final frame: NAGI facing camera, a tiny triumphant smile pulling at one corner of her mouth.
+
+  PERFORMANCE
+
+  Photographic human realism indistinguishable from live-action footage: skin with visible pores, fine vellus hair catching the light, subsurface scattering in the earlobes and fingertips, capillary flush across her cheeks and ears from running, individual flyaway strands lifting off her hair, wet living eyes with true window catchlights and a faint red inner rim, clean matte skin.
+
+  Visible fast breathing at the collarbone, eyes darting a half-second before her head turns.
+
+  Tension shown by muscle: shoulders drawn up to her ears, fingers clamped white on the tote handles, jaw set, then a full-body shoulder drop on each escape.
+
+  All adults have equally real skin, real hair follicles, and natural asymmetric faces.
+
+  PHYSICS
+
+  Her blouse and tailored trousers crease naturally during crouches and turns. Hair lags and sweeps across her face on fast direction changes.
+
+  The work tote has real weight: its handles pull taut in her hands, and its body swings with inertia before settling against her torso.
+
+  The mobile whiteboard has real mass. Its caster wheels rotate against the floor, swivel when steered, and rattle lightly over a flooring seam. The board wobbles subtly when the OFFICE ASSISTANT starts and stops it.
+
+  NAGI moves with her own visible footsteps; the board does not drag or transport her.
+
+  The coworker’s printouts flex slightly while walking. The BOSS’s folder stays in his hand.
+
+  Elevator doors slide smoothly on fixed tracks and close only after NAGI and the camera are fully inside.
+
+  Contact shadows stay glued under every foot, every knee, every furniture leg, and every caster wheel.
+
+  LIGHTING
+
+  One continuous light logic across the office route: bright late-afternoon sun at 5600K entering from the window wall on camera-right, throwing long window-frame stripes across the floor.
+
+  NAGI passes through light and shadow as she travels. Soft bounce fill off the pale linoleum lifts her face. Fine dust hangs suspended in the sunbeams.
+
+  The elevator lobby receives the same window light. Inside the elevator, neutral overhead illumination provides continuous soft fill.
+
+  In the final reverse shot, the same corridor daylight enters from camera-left through the open doorway, raking across her cheek. As the doors close behind the lens, this daylight narrows and disappears naturally, leaving the elevator’s established overhead light.
+
+  Exposure rolls smoothly as she moves between bright and shadowed stretches, and the color temperature matches exactly across the cut.
+
+  HUD
+
+  GTA-style real-time game HUD locked to fixed screen positions for the whole 30 seconds, with every on-screen word written in English:
+
+  Circular minimap bottom-left with the player arrow and yellow vision cones for the office characters; health and stamina bars top-left; alert-state bar shifting green to amber to red; controller button prompts bottom-right; English mission objective text top-center; floating red exclamation markers over alerted characters; notification cards sliding in from screen-right.
+
+  The HUD stays in the same screen positions across the cut.
+
+  No subtitles or caption bars anywhere on screen.
+
+  The HUD is a clean flat graphic overlay composited on top of fully photographic live-action-grade footage.
+
+  AUDIO
+
+  Tense minimalist stealth synth loop with a pulsing heartbeat underneath, running unbroken across the cut and resolving to a short bright victory fanfare at the end.
+
+  Ambience carries continuously through the cut. Office sounds become naturally muffled as the elevator doors close.
+  All dialogue is spoken in Japanese.
+  STYLE
+  Photoreal live-action realism, real human beings and real fabric, natural skin tones with true-to-life color science, physically correct materials, realistic human proportions and anatomy, real optical depth of field, real floor reflections, subtle handheld gameplay motion blur, fine film grain at 5%, sharp detail intent.
+  OUTPUT SETTINGS
+  16:9, real-time speed throughout, one continuous 27-second take plus one 3-second locked shot after a single hard cut.
+  POSITIVE LOCKS
+  Exactly one cut in the entire video, at 27.0s — everything before it is a single unbroken take with the camera connected to NAGI.
+  NAGI is consistently an adult office employee, 25, with the same face, long black hair with blunt bangs, white office blouse, charcoal tailored trousers, black belt, white sneakers, clipped employee ID, and black work tote throughout, with dry clean skin.
+  The work tote stays with her throughout.
+  The mobile whiteboard appears only from the meeting-room alcove onward and is physically pushed by the OFFICE ASSISTANT. It remains between NAGI and the BOSS during the concealment beat.
+
+  The bald BOSS in the charcoal suit and the tall bearded OFFICE ASSISTANT with thick black hair are unmistakably different men.
+
+  The office route remains spatially continuous. Characters do not teleport between locations.
+
+  NAGI enters the elevator before turning toward its doors.
+
+  In the final shot, the camera is inside the elevator beside the doorway, with NAGI facing the lens and the brushed-metal rear wall behind her. The doors close behind the camera; they never pass between the lens and her face.
+
+  All on-screen text is English. The last 3 seconds hold a locked frontal eye-level shot of NAGI facing camera.
+
+  HUD elements stay in the same screen corners throughout.
+
+  One single NAGI on screen at all times.
+
+  All spoken lines are in Japanese.
+
+  Sunlight direction stays consistent across the office route, with a physically motivated transition to elevator lighting as the doors close.
+
+  Final notification: 【AFTER-HOURS TASK EVADED】.

@@ -1,0 +1,48 @@
+id: h3-obsidian-ronin-valkyrie-liquid-mirror-duel
+title:
+  en: Armored Ronin and Valkyrie Duel on Liquid Obsidian Mirror
+  zh: 装甲浪人与女武神在液态黑曜石镜面对决
+model: MiniMax H3
+mode: text-to-video
+tags:
+- dark-fantasy
+- sword-fight
+- timeline-prompt
+- kinetic-typography
+- black-and-white
+source:
+  name: '@itxsarmadd on X'
+  url: https://x.com/itxsarmadd/status/2106698801604186579
+  credit: Sarmad Tahir
+  likes: 88
+  captured: '2026-10-28'
+  posted: '2026-10-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/itxsarmadd/status/2106698801604186579
+notes:
+  en: A fixed 3 second timeline splits the 15 second fight into five beats, each with one clear action, and the on screen smoke text is written out as exact strings. A constraint line bans idle poses, hard cuts and teleportation, while a single physical rule (the mirror acts as liquid glass) ties ripples, cracks and reflections together.
+  zh: 把15秒打斗按每3秒切成五段，每段只写一个明确动作，画面里的烟雾文字直接给出原文。开头用约束句禁止静止姿势、硬切和瞬移，再用一条物理规则（镜面如液态玻璃）统一涟漪、裂纹与倒影的表现。
+prompt: |
+  MINIMAX H3 — 15-SECOND CINEMATIC FIGHT
+  “BLACK MIRROR: FINAL REFLECTION”
+  16:9 widescreen, premium dark-fantasy fashion-action.
+
+  Obsidian Ronin vs Inkshade Valkyrie inside a gigantic floating liquid-black obsidian mirror surrounded by an endless white void. Preserve exact established character designs, faces, hair, armor, weapons, proportions and silhouettes. No redesigns.
+
+  Constant movement. No idle poses, hard cuts, teleportation, freeze frames, blood or gore.
+
+  The mirror behaves like liquid glass: every sword strike creates ripples, cracks and independent reflections that briefly attack before snapping back.
+
+  0–3s: Mirror forms from liquid black glass. Ronin emerges with a katana strike as Valkyrie attacks from the opposite reflection. Blades collide, creating a huge circular ripple.
+
+  3–6s: Ronin's heavy cut meets Valkyrie's agile twin-blade counter. Reflections attack from opposite directions. Black cracks race across the mirror. Smoke briefly forms “REAL OR REFLECTION?”
+
+  6–9s: Mirror tilts vertical. Both fighters sprint across its surface, exchanging rapid sword strikes. The glass bends around them like liquid.
+
+  9–12s: Mirror explodes into floating black fragments. Fighters leap between reflections, destroying them. Fragments align into a giant blade shape. Smoke forms “BREAK THE IMAGE”, then shatters.
+
+  12–15s: Final charge. Ronin's massive diagonal katana strike collides with Valkyrie's spinning twin-blade cross attack. The entire mirror shatters into thousands of black particles. Silence. Final smoke typography: “ONLY ONE REMAINS.”
+
+  Elegant black-and-white luxury aesthetic, glossy reflections, silver highlights, charcoal smoke, cinematic motion blur, precise camera orbiting, low mirror tracking, rotating blade shots and dramatic final push.
+
+  15s | 16:9 | continuous action | premium cinematic dark fantasy | exact character consistency

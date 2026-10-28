@@ -1,0 +1,25 @@
+id: seedance-korean-coastal-coffee-lifestyle-film
+title:
+  en: Korean woman coffee day along coastal city
+  zh: 滨海城市里韩国女孩的咖啡日常
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- lifestyle
+- cinematic
+- multi-shot
+- coastal
+- golden-hour
+source:
+  name: '@aiwithaayat on X'
+  url: https://x.com/aiwithaayat/status/2110600258871013510
+  credit: aiwithaayat
+  captured: '2026-10-28'
+  posted: '2026-10-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaayat/status/2110600258871013510
+notes:
+  en: The prompt runs as an ordered shot list, from coffee counter to street, seaside railing and golden hour hill, so a 25 second runtime holds one continuous story. A closing block of lens, grain, colour and mood terms keeps the look consistent across every cut.
+  zh: 提示词按顺序列出镜头，从咖啡柜台到街头、海边栏杆再到黄金时刻的山坡，让25秒时长里有一条连贯的故事线。结尾集中写明镜头、颗粒、色调和情绪，使各个镜头保持统一的画面风格。
+prompt: |
+  Created a 25 second video, beautiful Korean girls, cinematic lifestyle film set in a beautiful coastal city, capturing the peaceful and aesthetic moments of everyday life. Begin with a warm, cozy coffee shop scene featuring a barista serving a takeaway coffee on a wooden counter, followed by a cinematic reflection of a young Korean woman standing near a large glass window with soft city lights reflecting across the glass. Show close-up shots of her walking along a busy urban street, focusing on her sneakers stepping across the pavement, then transition to a wide low-angle shot of her standing in front of a striking modern architectural building, wearing a stylish beige trench coat, carrying a black shoulder bag, and looking peacefully toward the sky. Capture intimate side-profile shots of her holding a coffee cup beside a window, with natural sunlight illuminating her face and soft shadows creating a moody atmosphere. Transition smoothly to a beautiful seaside promenade where she stands beside a metal railing, holding her coffee and gazing at the sparkling blue ocean as a large cruise ship moves slowly in the background. Continue with breathtaking golden-hour shots of a beautiful Korean girl sitting on a lush green grassy hill overlooking the ocean, her long dark brown hair moving gently in the sea breeze, wearing a relaxed beige outfit and holding a takeaway coffee cup. Capture natural facial expressions, subtle movements, candid moments, and elegant close-ups of her face as she turns toward the camera. End with an expansive cinematic wide shot of the green coastal landscape, calm blue water, distant islands, and a cruise ship sailing peacefully along the horizon, with the girl appearing small against the beautiful scenery. Use photorealistic visuals, cinematic composition, smooth camera movements, shallow depth of field, natural skin texture, soft film grain, realistic lighting, warm golden-hour tones, muted earthy colors, subtle lens flares, and premium Korean fashion editorial aesthetics. The overall mood should feel peaceful, dreamy, elegant, emotional, and authentic, like a high-end Korean lifestyle film shot on a professional cinema camera, with seamless transitions, realistic motion, beautiful environmental details, and no artificial-looking faces or exaggerated movements.

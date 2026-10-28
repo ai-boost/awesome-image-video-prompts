@@ -1,0 +1,68 @@
+id: omni-sparkling-lemon-drink-storyboard-commercial
+title:
+  en: Sparkling lemon drink bottle on ice, macro commercial
+  zh: 冰块上的气泡柠檬饮料瓶微距广告
+model: Gemini Omni Flash
+mode: image-to-video
+tags:
+- product-commercial
+- beverage
+- storyboard
+- macro
+- slow-motion
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2097237465887338994
+  credit: M-studioAi
+  likes: 361
+  captured: '2026-10-28'
+  posted: '2026-09-08'
+video: https://x.com/Strength04_X/status/2097237465887338994
+notes:
+  en: An eight scene storyboard sheet is generated first with Nano Banana 2, then animated by Omni Flash. Each panel pairs a camera direction with a product detail, and the camera line asks for 120fps liquid photography, macro condensation and a 360° product move.
+  zh: 先用 Nano Banana 2 生成八个分镜的故事板，再交给 Omni Flash 动起来。每个分镜都写明镜头方向和产品细节，镜头部分指定 120fps 液体摄影、凝结水珠微距和 360° 产品环绕。
+prompt: |
+  Premium Sparkling Lemon Drink Product Commercial Storyboard
+
+  FORMAT:
+  • Single-page premium storyboard
+  • 3:4 Portrait ratio
+  • Luxury beverage campaign
+  • 8 cinematic product-focused scenes
+  • Product remains the visual hero
+  • High-end commercial presentation
+
+  HEADER:
+  • Bold contemporary typography
+  • Information cards:
+    - Duration: 20 Seconds
+    - Style: High-Speed Cinematic Beverage Commercial
+    - Product: Sparkling Lemon Drink
+    - Audio: Fizz + Ice Crack + Liquid ASMR
+  • Why This Style Works section
+  • Crystal white, lemon yellow and silver aesthetic
+  • Minimal citrus-inspired graphic accents
+
+  STORYBOARD:
+  1. Ice-cold bottle standing alone with heavy condensation
+  2. Extreme macro of water droplets sliding down the bottle
+  3. Bottle cap opening with a dramatic burst of carbonation
+  4. Sparkling drink exploding upward in a controlled liquid splash
+  5. Lemon slices spinning through the sparkling liquid
+  6. Ice cubes falling into a crystal glass in ultra slow motion
+  7. Extreme macro showing thousands of carbonation bubbles rising through the drink
+  8. Final hero packshot with bottle, glass, lemon slices and frozen splash surrounding the product
+
+  EVERY PANEL:
+  • Scene number
+  • Duration badge
+  • Camera direction
+  • Visual
+  • Action
+  • Product detail
+
+  CAMERA:
+  120fps high-speed liquid photography, extreme macro, frozen splash, rotating lemon slices, dramatic backlight, condensation close-up, smooth 360° product movement.
+
+  STYLE:
+  Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive carbonation, physically accurate water droplets

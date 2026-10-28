@@ -1,0 +1,27 @@
+id: h3-blue-studio-dance-kinetic-typography
+title:
+  en: Surreal blue studio dance with kinetic typography
+  zh: 蓝色影棚超现实舞蹈与动态字体
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- omni-reference
+- kinetic-typography
+- fashion-film
+- motion-graphics
+- surreal
+source:
+  name: '@egeberkina on X'
+  url: https://x.com/egeberkina/status/2083301476206588086
+  credit: Ege
+  likes: 237
+  captured: '2026-10-28'
+  posted: '2026-07-31'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/egeberkina/status/2083301476206588086
+notes:
+  en: Three Omni Reference tags lock the man, the woman and the horse before a beat by beat scene description. A long list of motion graphics techniques and a music and sound brief make the typography part of the choreography, and the ending is a timed whisper, sprint and cut to black.
+  zh: 先用三个 Omni Reference 标签锁定男人、女人和马，再按节拍描述场景。长串动态图形手法加上音乐与声音设定，让字体成为编舞的一部分，结尾是定时的低语、冲刺和黑场切断。
+prompt: "Use @ Image1 as the man reference. \nUse @ Image2 as the woman reference. \nUse @ Image3 as the horse reference.  \n\nCreate a surreal 15-second fashion-film sequence inside a minimalist monochrome blue studio.  The woman performs an elegant contemporary dance.  The man casually walks into frame wearing a completely serious expression.  Without explanation, he immediately joins the choreography.  His movements are awkward, strangely confident, almost ritualistic.  The woman never acknowledges him.  The horse behaves as though both dancers are part of its routine.  It wanders through the studio.  Runs behind them.  Appears from impossible places.  Stops.  Looks directly into the camera.  Leaves.  Returns again.  Sometimes all three performers accidentally synchronize for one beat before drifting apart again.  The choreography becomes increasingly absurd but remains perfectly cinematic.  Every movement is intentional.  Every frame feels designed.  Throughout the sequence, premium\
+  \ kinetic typography appears as part of the composition, not subtitles, but editorial motion graphics inspired by high-end After Effects title design.  Animated words flash for only a few frames:  THE GARDENER.  THE DRIVER.  THE HORSE.  THE WOMAN.  KNIFE.  MOVE.  FASTER.  AGAIN.  THE EXIT. These words slam into frame, wrap around the dancers, disappear behind bodies, stretch with motion blur, rotate in 3D, fragment into pieces, reveal through masks, pulse with the bass, smear across cuts, become oversized, tiny, vertical, upside down, and constantly transform using premium motion-design techniques.  Add abstract editorial graphics: animated arrows, circles, blueprint lines, tape labels, interface markers, halftone textures, scribbles, grain, tracking graphics, geometric overlays, chromatic aberration, liquid masks, flash frames, split screens, typography trails, speed ramps and graphic wipes.  Music evolves into strange electronic art-pop.  Analog synths.  Mechanical breathing.  Heavy\
+  \ bass.  Everything is synchronized to the rhythm.  Final close-up.  The woman whispers:  \"Again.\"  The man quietly smiles for the first time.  The horse suddenly sprints directly toward the camera.  The word  AGAIN.  fills the screen before an instant cut to black.\n"

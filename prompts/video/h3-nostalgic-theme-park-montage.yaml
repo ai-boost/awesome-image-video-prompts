@@ -1,0 +1,26 @@
+id: h3-nostalgic-theme-park-montage
+title:
+  en: Nostalgic theme park montage in graphic layouts
+  zh: 主题公园好友欢聚的怀旧图形拼贴
+model: MiniMax H3
+mode: text-to-video
+tags:
+- montage
+- nostalgic
+- motion-graphics
+- theme-park
+- short-prompt
+source:
+  name: '@magnific on X'
+  url: https://x.com/magnific/status/2083217899540586917
+  credit: Magnific
+  likes: 508
+  captured: '2026-10-28'
+  posted: '2026-07-31'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/magnific/status/2083217899540586917
+notes:
+  en: The prompt names the format (a montage of different clips) and the layout language (graphic motion layouts), then gives only the subject and setting. That leaves shot choice, film grain and panel arrangement to the model, so a short prompt gives a varied multi panel result.
+  zh: 提示词只点明形式（不同片段的蒙太奇）和版式语言（动态图形排版），再给出主体与场景。镜头选择、胶片颗粒和分格排布都交给模型，所以短提示词也能得到多画面的丰富结果。
+prompt: |
+  Nostalgic montage of different clips. Graphic motion layouts of friends having fun in a theme park.

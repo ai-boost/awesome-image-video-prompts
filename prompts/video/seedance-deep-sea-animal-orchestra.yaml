@@ -1,0 +1,25 @@
+id: seedance-deep-sea-animal-orchestra
+title:
+  en: Sea animal orchestra performing in the deep ocean
+  zh: 深海动物管弦乐团在海底演出
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- underwater
+- surreal
+- animals
+- music
+- cinematic
+source:
+  name: '@thisismariaa25 on X'
+  url: https://x.com/thisismariaa25/status/2087112692809060493
+  credit: thisismariaa25
+  captured: '2026-10-28'
+  posted: '2026-08-11'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/thisismariaa25/status/2087112692809060493
+notes:
+  en: Opens with a clear contrast, an orchestra at 3,000 feet underwater, then assigns one instrument to each animal in short parallel clauses. The stated depth sets the dark, light starved mood and the opera line invites generated sound.
+  zh: 开头先用管弦乐团与三千英尺深海的反差定下场景，再用简短的并列句给每种动物指定一件乐器。明确的深度交代了昏暗少光的氛围，歌剧一句则带出生成的声音。
+prompt: |
+  An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, dolphins singing opera.

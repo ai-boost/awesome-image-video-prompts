@@ -1,0 +1,37 @@
+id: seedance-kyoto-autumn-slow-travel-vlog
+title:
+  en: Quiet Kyoto autumn travel vlog, 30 seconds
+  zh: 京都秋日慢节奏旅行 vlog,30 秒
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- travel-vlog
+- kyoto
+- character-consistency
+- handheld
+- film-grain
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2099439262106083704
+  credit: Chaemate_
+  captured: '2026-10-28'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Chaemate_/status/2099439262106083704
+notes:
+  en: Locks the face, outfit and necklace to a reference image, then sets a slow pace with one simple action per scene. It bans ad-style montage and gives short dialogue lines with pauses, plus handheld, autofocus, ambient sound and 35mm grain cues for a casual home-video feel.
+  zh: 用参考图锁定面部、服装和项链,再规定慢节奏、每个场景只做一个简单动作,并明确排除广告式蒙太奇。给出带停顿的简短台词,配合手持、自动对焦、环境声和 35mm 胶片颗粒,营造随手拍的真实感。
+prompt: |
+  Create a photorealistic 30-second personal travel vlog featuring the exact same woman from the reference image. Keep her face, hairstyle, physical appearance, makeup, outfit and necklace consistent throughout the entire video.
+
+  Make it feel like a real young woman casually documenting her autumn trip to Kyoto with a friend behind the camera. No commercial travel-ad look, no fast montage and no overly cinematic movements.
+
+  Keep the pacing slow and natural. Each scene should focus on one simple action. Let shots breathe and allow natural pauses. She should walk, look around and react at normal human speed. Never speed up her movement or speech to fit more into the scene.
+
+  Show quiet everyday moments around Kyoto: riding a local train in the morning, walking through a residential street, discovering a small bakery, sitting by the river, browsing a tiny stationery shop, getting caught in light rain and grabbing a warm drink from a vending machine at night.
+
+  Keep the dialogue extremely short and casual, with natural pauses. Things like “Cute…”, “So pretty”, “Mmm… good”, “Look…”, “This one?”, “Oh… rain”, “Nice…” and “One more stop.” She should never sound like she's reading a script or rushing through lines.
+
+  Use realistic handheld camera movement, subtle autofocus, natural exposure changes, real ambient sounds, natural skin texture, realistic lighting and subtle 35mm film grain. Some moments should have no dialogue at all.
+
+  The goal is simple: make it feel like an actual travel vlog someone happened to capture during a real day in Kyoto, not an AI-generated commercial.

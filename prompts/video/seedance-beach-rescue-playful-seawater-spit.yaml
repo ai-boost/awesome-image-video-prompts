@@ -1,0 +1,39 @@
+id: seedance-beach-rescue-playful-seawater-spit
+title:
+  en: Beach rescue ends with playful seawater spit
+  zh: 海滩急救以顽皮喷水收尾
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- beach
+- emotional-drama
+- timeline-prompt
+- handheld
+- golden-hour
+source:
+  name: '@Harry_thingss on X'
+  url: https://x.com/Harry_thingss/status/2104579594695409840
+  credit: Harry_thingss
+  captured: '2026-10-28'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Harry_thingss/status/2104579594695409840
+notes:
+  en: Splits 15 seconds into three timed beats, each with its own shot size, camera move and emotional turn from panic to relief to laughter. A locked character block, a rack focus from hand to face, a sound list and a negative line keep identity, wardrobe and tone stable.
+  zh: 把15秒拆成三个定时段落，每段都有景别、运镜和情绪转折，从惊慌到释然再到大笑。固定的角色描述、从手到脸的变焦、声音清单和负面提示共同稳住人物、服装和基调。
+prompt: |
+  PHOTOREALISTIC CINEMATIC VIDEO, 15 sec, 16:9, 35mm lens, shallow depth of field, warm golden-hour light, high-end film look.
+
+  CHARACTERS (identical in every frame): Woman, mid-20s, curvy Indian/Latina, wavy shoulder-length brown hair (soaked, on sand), soft makeup, wet olive-green sleeveless bodycon midi dress, gold chain necklace, hoop earrings, watch on left wrist, small floral tattoo on right forearm. Realistic skin, water droplets, sand grains. Boyfriend: early-30s, athletic, wet white t-shirt, dark shorts, short wet hair.
+
+  LOCATION: Quiet beach, wet sand, foaming waves behind, side sunlight with rim light on wet hair and skin, light sea breeze.
+
+  0-5s: Wide-to-medium shot, slow push-in at sand level. She lies on her back, eyes closed. He drops to his knees, urgently tilts her head and performs rescue-style chest compressions, realistic and non-graphic. Worried, panicked face; water drips from his hair. A wave washes near her feet.
+
+  5-10s: Close-up, slight handheld push-in on her hand and face. Her fingers twitch, hand curls, eyelids flutter, chest rises with a breath. He notices, freezes, panic turns to deep relief. Rack focus from her hand to his face.
+
+  10-15s: Medium close-up at sand level, both in frame. Still lying down, she opens her eyes, smiles mischievously, and playfully spits a small burst of seawater at his face. Droplets arc slowly, catching sunlight. He recoils, blinks, then laughs in shock. She looks relieved and amused. End on a warm two-shot.
+
+  CAMERA: smooth, slight handheld, slow push-ins, no sudden cuts.
+  AUDIO: waves, seagulls, wind, her small cough, soft laughter, light emotional score.
+  NEGATIVE: no blood, no gore, no distortion, no extra fingers, no face morphing, no outfit or jewelry change, no text, no watermark, no cartoon or plastic skin.

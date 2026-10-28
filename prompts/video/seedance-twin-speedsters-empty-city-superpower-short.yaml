@@ -1,0 +1,38 @@
+id: seedance-twin-speedsters-empty-city-superpower-short
+title:
+  en: Two women with superspeed meet in empty city
+  zh: 两位超速女孩在空城街头相遇
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- sci-fi
+- superpower
+- timed-shots
+- dialogue
+- cinematic
+source:
+  name: '@ai_anelia on X'
+  url: https://x.com/ai_anelia/status/2112960745168392440
+  credit: ai_anelia
+  captured: '2026-10-28'
+  posted: '2026-10-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ai_anelia/status/2112960745168392440
+notes:
+  en: A 30 second prompt split into timed beats of 4 to 6 seconds, each with its own shot type and motion, so the story moves from a busy street to complete silence. Character blocks lock faces and outfits, and the audio line pairs wind and tire screeches fading to silence with dialogue and a building score.
+  zh: 把 30 秒拆成每段 4 到 6 秒的时间节拍，每段指定景别和运动，故事从繁忙街头推进到完全寂静。角色块锁定脸部和服装，音频一行把风声和轮胎声渐隐为寂静，并配上对白和渐强配乐。
+prompt: |
+  Cinematic ultra-realistic sci-fi superpower short film, 16:9, 30 seconds, 24fps, shot like a high-budget streaming drama, bright natural daylight, downtown American-style city with tall glass and stone buildings, palm trees, traffic lights, wide crosswalks and parked cars, shallow depth of field, crisp detail, subtle film grain, natural color grade with warm sunlight and cool shadows.
+  Character 1: A young Korean woman in her early 20s, long straight black hair, soft natural makeup, expressive wide eyes, wearing a light-blue open button-up shirt over a fitted white t-shirt, cream trousers and white sneakers. Gentle, curious and a little frightened at the start, slowly turning confident.
+  Character 2: A young blonde woman in her mid-20s, wavy shoulder-length hair, calm sharp eyes, wearing a black sweater and blue jeans. Cool, mysterious and fast, with a hint of loneliness behind her eyes.
+  Keep both faces, hairstyles and outfits identical in every shot.
+  Setting: A busy city intersection that slowly turns completely empty and silent as the story goes on, with wind, dust and loose papers moving through the air.
+  0–4s: Wide establishing shot of a sunny downtown street with pedestrians, taxis and cars. The Korean woman stands near a crosswalk. Time seems to slow down; the background blurs into soft motion and her eyes widen in shock as a car speeds straight toward her.
+  4–8s: Extreme close-up of her startled face, then she bursts into superhuman speed. Her feet kick up dust and wind, her hair and shirt whip backward, and she weaves between moving cars and people, the city stretching into streaks of motion behind her. Low tracking shot, strong motion blur.
+  8–12s: A shockwave of dust rolls across the crosswalk. From the side of the frame, the blonde woman appears running at the same impossible speed. They glance at each other, both stunned. Close-up of the Korean woman whispering: "There's someone else like me?"
+  12–18s: They sprint side by side down the wide street, dust clouds exploding behind them, cars frozen in the background like statues. Dynamic side tracking shots, then a low-angle shot as they run past the camera, hair flying, determination on both faces.
+  18–22s: The Korean woman launches into a long, graceful leap, gliding through the air above the street, while the blonde woman runs beneath her, hair blowing wildly in the wind. Slow-motion for the leap, cinematic and almost weightless.
+  22–26s: Both slow down and come to a stop in the middle of a completely empty street. Papers drift down through the air, the wind fades, the whole city is silent and still around them. Wide shot from behind showing the two small figures in the empty avenue.
+  26–30s: Calm close-ups, soft light on their faces. The blonde woman says quietly: "I thought I was the only one." The Korean woman smiles and answers: "So did I." Slow pull-back as they stand together in the empty street, then cut to black.
+  Audio: Rushing wind, tire screeches fading into complete silence, a soft heartbeat, light footsteps, a subtle emotional orchestral score building gently, clear natural English dialogue.
+  Style: Realistic grounded sci-fi action-drama, smooth physics, natural human movement, emotional performances, non-graphic, no text, no subtitles, no logos, no watermark.

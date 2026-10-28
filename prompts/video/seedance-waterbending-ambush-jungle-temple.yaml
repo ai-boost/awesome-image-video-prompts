@@ -1,0 +1,85 @@
+id: seedance-waterbending-ambush-jungle-temple
+title:
+  en: Waterbender fights five armored enemies in jungle temple
+  zh: 水系术士在丛林神庙对战五名铠甲敌人
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- fantasy-action
+- waterbending
+- jungle-temple
+- handheld
+- timed-beats
+source:
+  name: '@itxsarmadd on X'
+  url: https://x.com/itxsarmadd/status/2103694941260222603
+  credit: itxsarmadd
+  captured: '2026-10-28'
+  posted: '2026-09-26'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxsarmadd/status/2103694941260222603
+notes:
+  en: Three labeled reference images lock the hero, the location and the enemies, then four timed beats of 2.5 seconds each chain cause to effect so the fight never pauses. Explicit rules against glow and anime effects, a reactive handheld camera and a raw sound list with no music keep the water and ice grounded and photoreal.
+  zh: 用三张带编号的参考图分别锁定主角、场景和敌人，再按四段各2.5秒的时间轴让动作环环相扣、全程不停顿。明确禁止发光和动漫特效，配合手持跟拍镜头与无配乐的纯音效清单，让水和冰保持写实质感。
+prompt: |
+  SCENE — WATERBENDING AMBUSH
+  DURATION: exactly 10 seconds
+  FORMAT: 16:9
+  STYLE: ultra-photorealistic live-action fantasy action, grounded CGI, realistic water physics, Hollywood stunt choreography, practical jungle-temple location, handheld cinematography, seamless VFX integration, no digital-art appearance.
+  PACE: extremely fast continuous combat, zero pauses, zero idle moments, action already in progress.
+
+  REFERENCES
+
+  IMAGE 1 — ARMAN
+  Preserve facial identity, hairstyle, body proportions, costume, and appearance exactly.
+
+  IMAGE 2 — MASTER ENVIRONMENT SHEET
+  Preserve environment, architecture, vegetation, atmosphere, and location identity exactly.
+
+  IMAGE 3 — ENEMY REFERENCE
+  Preserve enemy armor, silhouette, proportions, and visual identity exactly.
+
+  ACTION
+
+  0.0–2.5 SECONDS — SURROUNDED
+  Fight begins mid-combat. Five armored enemies attack from multiple directions. Arman pivots beneath a frontal strike while a large mass of water is already orbiting around him. He redirects the flow to deflect Enemy A. Several sections split from the moving water, instantly freeze into sharp ice shards, and fire toward attacking enemies. Camera performs fast handheld lateral tracking.
+
+  2.5–5.0 SECONDS — ROTATING PRESSURE
+  Enemy C closes from behind. Arman ducks beneath an attack and transitions into a continuous spinning movement. The main water mass whips around him with believable inertia, striking, deflecting, and creating openings. Multiple ice shards separate from the flowing water and launch toward different attackers, forcing evasions and interrupting attacks. Camera reacts with quick pans and target switching.
+
+  5.0–7.5 SECONDS — WATER IMPACT
+  Enemy A attacks again. Arman redirects the entire water mass into a powerful lateral strike. Water impact throws the enemy sideways onto wet stone. While the enemy falls, additional ice shards fire toward advancing attackers. Arman immediately turns toward the next threat without stopping.
+
+  7.5–10.0 SECONDS — COMBO CONTINUES
+  Enemies close from opposite directions. Arman performs rapid circular footwork while continuously controlling the moving water flow. Fresh ice shards split from the leading edge and fire toward multiple enemies. Enemy C charges directly into range. Arman pivots and accelerates the main water mass toward him.
+
+  END BEFORE IMPACT.
+
+  SMASH CUT. ACTION INTERRUPTED MID-COMBO. END.
+
+  VISUAL RULES
+
+  - Five active enemies remain engaged throughout.
+  - No enemy stands and watches.
+  - Combat never slows down.
+  - Water remains a single continuous moving mass.
+  - Ice shards separate from the moving water, instantly freeze, and launch as sharp translucent projectiles.
+  - No glowing effects, energy beams, neon trails, or anime aura.
+  - Grounded CGI integrated into live-action photography.
+  - Every action directly causes the next event.
+  - Continuous movement, zero pauses, zero dead frames.
+  - Final frame preserves active combat momentum for Scene 02.
+
+  CAMERA
+
+  Reactive handheld Hollywood action camera. Fast but readable movement, medium-wide coverage, brief wider shots for major impacts, natural motion blur, occasional water spray crossing lens. No floating virtual camera.
+
+  ENVIRONMENT
+
+  Ancient jungle temple ruins. Wet stone, moss, roots, ferns, waterfalls, dense tropical vegetation, humid atmosphere, realistic live-action location photography.
+
+  SOUND
+
+  Raw action only. Footsteps, armor movement, weapons cutting air, rushing water, splashes, ice projectiles, impact sounds, bodies hitting wet ground, distant waterfalls and jungle ambience.
+
+  NO MUSIC.

@@ -1,0 +1,52 @@
+id: seedance-wizard-duck-monster-storyboard
+title:
+  en: Wizard turns into a duck to escape monster
+  zh: 女巫变成鸭子逃离怪物
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- comedy
+- storyboard
+- timed-beats
+- fantasy
+- dialogue
+source:
+  name: '@AIwithNatalia on X'
+  url: https://x.com/AIwithNatalia/status/2089170554725265625
+  credit: AIwithNatalia
+  captured: '2026-10-28'
+  posted: '2026-08-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithNatalia/status/2089170554725265625
+notes:
+  en: A seven beat storyboard with exact second ranges gives each story step its own time slot. Dialogue lines and SFX cues are written inline, and an end text card closes the clip.
+  zh: 七段分镜精确到秒，每个剧情节点都有独立的时间段。对白和音效直接写进对应段落，结尾用一行文字卡收束。
+prompt: |
+  0–3 sec — Hook
+  A young wizard stands frozen in a dark forest as a massive monster charges toward her.
+  Wizard: “Ten seconds… that’s all I need!”
+
+  3–8 sec — The Spell
+  She raises her glowing staff and rapidly chants a magical spell. The monster gets closer and closer.
+
+  8–12 sec — Countdown
+  Monster: “YOU’RE TOO LATE!”
+  The wizard finishes the final word: “TRANSFORMUS!”
+
+  12–16 sec — Magic Burst
+  A huge explosion of purple light fills the screen. Everything goes silent.
+
+  16–21 sec — Twist
+  The smoke clears. The monster looks confused.
+  Instead of the wizard… there’s a tiny, adorable duck standing in her robes.
+
+  21–26 sec — Reaction
+  The duck looks down at herself, quacks angrily, and smacks the staff with her wing.
+
+  26–30 sec — Punchline
+  The monster slowly backs away.
+  Monster: “...Honestly, I’m scared of her.”
+  The duck suddenly starts chasing him.
+  SFX: Quack! Quack! Quack!
+  End text:
+  ✨ Never rush a spell. 🦆

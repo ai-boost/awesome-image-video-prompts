@@ -1,0 +1,76 @@
+id: h3-morning-skincare-serum-commercial
+title:
+  en: Morning skincare ritual ending on serum hero shot
+  zh: 晨间护肤仪式，以精华瓶特写收尾
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- commercial
+- skincare
+- storyboard
+- match-cut
+- macro
+source:
+  name: '@Maercihh on X'
+  url: https://x.com/Maercihh/status/2083407991114805571
+  credit: Maercih
+  likes: 97
+  captured: '2026-10-28'
+  posted: '2026-08-01'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Maercihh/status/2083407991114805571
+notes:
+  en: An uploaded storyboard guides eight timed shots, and each shot ends with a transition line that hands the camera move to the next one, which produces seamless match cuts. A closing style block locks the lenses, lighting and consistency rules so the woman, room and product stay the same.
+  zh: 上传分镜图作为镜头参考，八个定时镜头各以一句转场收尾，把运镜交给下一镜，形成无缝匹配剪辑。结尾的风格段锁定镜头焦段、光线和一致性规则，让人物、房间和产品全程不变。
+prompt: |
+  Use the uploaded storyboard as the camera guide. Follow all 8 frames in order with smooth cinematic continuity. The same woman, outfit, hairstyle, makeup, room and product must remain perfectly consistent throughout the entire 15-second commercial. Every shot must begin where the previous shot ends with seamless match cuts and natural camera movement.
+
+  Shot 1 (0-1.8s)
+  A slow push in as morning sunlight enters through the window. The woman looks outside and gently turns toward the mirror. The camera continues moving without stopping.
+
+  Transition:
+  The camera keeps pushing forward until her face fills the frame.
+
+  Shot 2 (1.8-3.6s)
+  Without cutting, the shot becomes a close-up of her face in the mirror. She notices dull skin and lightly touches her cheek. The camera slowly circles around her as she reaches toward the vanity.
+
+  Transition:
+  Follow her hand naturally to the serum bottle.
+
+  Shot 3 (3.6-5.4s)
+  Macro shot as she picks up the serum bottle. The bottle rotates slightly in her hand while natural sunlight reflects across the glass. The camera smoothly follows the bottle upward.
+
+  Transition:
+  Continue tracking into an extreme macro of the dropper.
+
+  Shot 4 (5.4-7.2s)
+  Extreme macro of the dropper lifting from the bottle. A single drop forms and falls in slow motion. The camera follows the drop as it lands on her fingertips.
+
+  Transition:
+  The camera continues following her fingertips toward her face.
+
+  Shot 5 (7.2-9.0s)
+  Close-up as she gently applies the serum across her cheeks using smooth circular motions. Skin catches soft natural highlights. Hair moves slightly in the breeze.
+
+  Transition:
+  The camera slowly rotates around her face while maintaining eye level.
+
+  Shot 6 (9.0-11.1s)
+  The lighting naturally becomes warmer as her skin appears healthier and more radiant. The transformation happens gradually, not instantly. She smiles softly while looking into the mirror.
+
+  Transition:
+  She turns away from the mirror and walks toward the window as the camera follows.
+
+  Shot 7 (11.1-13.2s)
+  Medium shot as she confidently walks into warm sunlight. She smiles naturally at the camera while the background softly blurs. The camera slowly arcs around her.
+
+  Transition:
+  She lowers the product toward the camera until it fills the frame.
+
+  Shot 8 (13.2-15.0s)
+  Hero product shot. The serum bottle stands on a clean surface with warm natural daylight. Soft reflections move across the glass. Premium end card with elegant typography and subtle camera push in. End on the product with "Shop Now."
+
+  Overall style:
+  Ultra photorealistic luxury skincare commercial, Apple-style cinematography, ARRI Alexa 65, 50mm and 85mm lenses, soft natural daylight, realistic skin texture, premium color grading, physically accurate lighting, smooth cinematic camera movement, seamless match cuts, invisible transitions, no jump cuts, no frame skipping, no character changes, no outfit changes, no background changes, premium beauty ad quality.
+
+  #MiniMaxH3 @Hailuo_AI

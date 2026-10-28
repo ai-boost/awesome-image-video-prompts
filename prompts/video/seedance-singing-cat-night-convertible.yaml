@@ -1,0 +1,25 @@
+id: seedance-singing-cat-night-convertible
+title:
+  en: Singing cat driving night convertible with passengers
+  zh: 夜间敞篷车里唱歌的司机猫和乘客
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- animals
+- cat
+- night-drive
+- lip-sync
+- cinematic
+source:
+  name: '@MahiraEhan on X'
+  url: https://x.com/MahiraEhan/status/2109875307675017668
+  credit: MahiraEhan
+  captured: '2026-10-28'
+  posted: '2026-10-13'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/MahiraEhan/status/2109875307675017668
+notes:
+  en: The prompt names each animal with its coat and breed, fixes the seating layout, and asks for natural lip-sync on the singing driver. Bokeh city lights, light reflecting off the hood and a shallow depth of field give the night drive a cinematic look, and a line about character consistency across cuts keeps the animals stable.
+  zh: 提示词为每只动物写明毛色和品种，并固定座位布局，同时要求司机猫自然对口型唱歌。城市灯光虚化、车头反光和浅景深营造出夜间电影感，再加一句跨镜头角色一致性来稳定角色外观。
+prompt: |
+  A high-definition 4K cinematic video of a white and orange tabby cat sitting in the driver's seat of a classic convertible car at night, looking expressively toward the passenger side while "singing" with natural lip-sync movement. In the passenger seat, a fluffy blue-gray British Shorthair cat and a tiny white Pomeranian dog sit close together, watching with wide, emotional eyes. The background features soft, blurred bokeh city lights of a downtown street. Moody, cinematic lighting reflecting off the polished black car hood. Shot with a shallow depth of field, playful yet dramatic tone, seamless character consistency across cuts.

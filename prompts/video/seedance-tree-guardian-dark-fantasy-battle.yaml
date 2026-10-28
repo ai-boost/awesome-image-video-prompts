@@ -1,0 +1,27 @@
+id: seedance-tree-guardian-dark-fantasy-battle
+title:
+  en: Woman Awakens Lava Tree Guardian Against Demons
+  zh: 女子唤醒熔岩树灵对抗恶魔
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- dark-fantasy
+- battle
+- creature
+- cinematic
+- slow-motion
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2107685928647160275
+  credit: itsSaira_1
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2107685928647160275
+notes:
+  en: Opens with global style tokens for format, lens, color grade and particles, then runs a clear beat sequence from capture to summon to battle to calm close. Camera and pacing cues such as fast dynamic moves, slow motion explosions and skull close-ups steer the shot rhythm.
+  zh: 开头先用画幅、镜头、色调和粒子等全局风格词定调，再按被擒、召唤、战斗、平静收尾的顺序写清节拍。快速运镜、慢动作爆炸和骷髅特写等镜头词控制了画面节奏。
+prompt: |
+  Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorphic lens, moody teal-grey and fiery orange color grade, drifting embers and smoke. A young woman with short wavy brown hair in an emerald green dress is dragged across cracked dark stone floor by a tall horned grey demon. She slams her hand down and glowing white-gold roots erupt from the ground, growing into a towering tree-guardian with a glowing lava-vein bark body and antler-like branches. The tree-guardian fights a horde of grey demon creatures, shoots a massive stream of fire, and gets surrounded by burning demons. Close-ups of a skull-faced demon with molten cracks. Fast dynamic camera, slow-motion fire explosions. Ends with a glowing sphere of woven burning roots, then the woman kneeling on the ground, hands glowing on the floor, calm and powerful.
+
+  #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Visualart

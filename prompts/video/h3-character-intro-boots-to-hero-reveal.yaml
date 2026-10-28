@@ -1,0 +1,49 @@
+id: h3-character-intro-boots-to-hero-reveal
+title:
+  en: Anime Character Intro from Boots to Hero Pose
+  zh: 从靴子特写到全身英雄亮相的动漫角色介绍
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- character-intro
+- reveal
+- camera-progression
+- anime
+- reference-lock
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2086412223061135392
+  credit: Kōda
+  likes: 1501
+  captured: '2026-10-28'
+  posted: '2026-08-09'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aimikoda/status/2086412223061135392
+notes:
+  en: A character reference image locks identity while four timed beats (0 to 4s, 4 to 8s, 8 to 12s, 12 to 15s) move from a detail close up to a back view, a face portrait and a full body hero shot. One minimal signature action and smooth camera moves keep the reveal controlled.
+  zh: 用角色参考图锁定形象，再按四个时间段依次推进：细节特写、背面或侧面中景、面部肖像、全身英雄镜头。只给一个克制的标志性动作，并要求运镜平滑，让揭示过程可控。
+prompt: |
+  Use @[char ref] as the sole character reference. Preserve the exact identity, face, body proportions, hairstyle, outfit, colors, materials and overall silhouette of the character throughout the entire video. Do not redesign, simplify or replace any defining visual features.
+
+  Create a cinematic character introduction focused on presence, silhouette, attitude and controlled motion.
+
+  0–4s
+  Begin with a close shot of a defining lower-body or detail element such as boots, shoes, feet, hands, clothing hem or an important accessory. The character enters frame or settles into position. The camera slowly tracks upward while hair, clothing and secondary elements move naturally in the wind or environment.
+
+  4–8s
+  Reveal more of the body with a medium or medium-wide shot from the back, side or three-quarter angle. The character stands in a calm, composed way inside the environment. The camera makes a smooth orbit, arc or lateral move to gradually reveal the character’s face and silhouette.
+
+  8–12s
+  Move into a tight cinematic portrait or upper-body shot. The character performs one subtle signature action that fits their personality, such as lifting the chin, turning the head, adjusting clothing, brushing hair aside, opening a hand, looking toward camera, or shifting posture. Keep the motion minimal and intentional. The expression should match the character’s vibe.
+
+  12–15s
+  End with a strong full-body hero shot that clearly presents the entire design and silhouette. Use a low-angle, eye-level or slightly dramatic framing depending on the character’s personality. The character settles into a natural final pose and holds it confidently for a clean final reveal.
+
+  VISUAL DIRECTION
+  Premium cinematic presentation. Match the visual medium and rendering style of @[char ref]. Emphasize clean silhouette, elegant staging, subtle secondary motion, believable hair and cloth movement, strong composition, atmospheric depth and polished lighting. The scene should feel like a high-end anime, game or film character introduction.
+
+  CAMERA
+  Use a clear progression from detail reveal to partial reveal to face reveal to full-body hero reveal. Camera movement should be smooth, controlled and intentional. Avoid chaotic motion.
+
+  ENVIRONMENT
+  Place the character in a fitting environment that supports their identity and mood. The background should enhance the character without distracting from them.

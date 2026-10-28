@@ -1,0 +1,30 @@
+id: h3-gold-chain-rapper-audio-lipsync-multicut
+title:
+  en: Gold chain rapper performing on a night street
+  zh: 戴金链的说唱歌手在夜晚街头表演
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- lip-sync
+- rap
+- omni-reference
+- multi-cut
+- music-video
+source:
+  name: '@KEETY2591756 on X'
+  url: https://x.com/KEETY2591756/status/2085918684879765882
+  credit: KEETY｜AIクリエイター
+  likes: 61
+  captured: '2026-10-28'
+  posted: '2026-08-08'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/KEETY2591756/status/2085918684879765882
+notes:
+  en: A character image plus an audio track act as the timing guide, so the mouth and actions lip sync to the audio automatically. Asking for multiple cuts with extreme low and high angles, in an East Coast rap video style, gives the fast, aggressive camera rhythm.
+  zh: 用一张角色参考图加一条音频作为节奏依据，口型和动作自动对上音频。要求多切镜头，并在极低角度与极高角度间快速切换，做出美国东海岸说唱视频的快节奏镜头感。
+prompt: |
+  モード1：Omni Reference
+  プロンプト：添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタイミングガイドとして使用してください。オーディオにある「音声」に完全に会うようにキャラクターの口とアクションを入れてリップシンクしてダイナミックなカメラアングルでラップを披露してください。カメラはマルチカットでキャラの部位をクローズアップしてください。全て超ハイスピードで激しく行ってください。
+
+  モード2：Omni Reference
+  プロンプト：添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタイミングガイドとして使用してください。オーディオにある「音声」に完全に会うようにキャラクターの口とアクションを入れてリップシンクしてダイナミックなカメラアングルでラップを披露してください。カメラはマルチカットで超ローアングル・超ハイアングルを小刻みに切り替えたUS東海岸のラップビデオのようなスタイルに仕上げる。全て超ハイスピードで激しく行ってください。

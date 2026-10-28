@@ -1,0 +1,35 @@
+id: h3-pencil-portrait-drawn-on-blank-paper
+title:
+  en: Hands sketch a portrait on blank paper
+  zh: 双手在白纸上铅笔绘制人像
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- drawing-process
+- pencil-sketch
+- time-lapse
+- continuous-take
+- portrait
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2095473707611553897
+  credit: Sharon Riley
+  likes: 328
+  captured: '2026-10-28'
+  posted: '2026-09-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Just_sharon7/status/2095473707611553897
+notes:
+  en: 'The prompt orders the drawing like a real artist works: pale construction lines, then placement blocks, face, hair, clothing, props and finally shading. Locked limits such as one continuous take, no cuts and no motion except the hands and pencil keep the process readable, and a reference photo supplies the likeness.'
+  zh: 提示词按真实画师的顺序推进：先是浅色构造线，再依次是布局块面、五官、头发、衣物、道具，最后上调子。同时锁定一镜到底、无剪辑、除手和铅笔外画面不动，绘制过程清晰可读，人物相貌由参考照片提供。
+prompt: |
+  A completely blank sheet of smooth white paper fills the frame. Two hands enter from the bottom. The right hand holds a sharpened graphite pencil; the left hand rests lightly at the lower-left corner of the paper to keep it still.
+  The right hand makes the first mark: a very light, loose oval in the center of the page for the head. Immediately add a faint vertical center line and a horizontal eye-line crossing the middle of the oval. Draw two short marks for the brow line and the base of the nose, then a light curve for the chin. All construction lines stay pale and barely visible.
+  Next, block in the neck as two simple sloping lines and a shallow U for the shoulders and collarbones. Sketch a rough rectangle for the torso and the square neckline of the top. Still using only the lightest pressure, place a large circle on the left for the round vanity mirror and a few vertical ovals and cylinders across the bottom for bottles and brush handles. Nothing is detailed yet—only placement.
+  Now the face. Darken the eye-line slightly and draw the almond shapes of both eyes, leaving a small highlight circle in each iris. Add the upper lids, a few lashes, and the gentle arch of the brows. Move to the nose: a soft wedge and two small nostril curves. Then the mouth: a short center dip, the full upper lip, and the slight upward curve of the smile. Keep every stroke inside the original oval.
+  Shift to the hair. Start at the hairline and draw the high, messy half-up bun with the flower-shaped clip on top and the two small barrettes on the right side. Pull long, wavy strands down the left side of the face and over the right shoulder, using loose, overlapping S-curves. Let a few shorter pieces fall across the forehead.
+  Refine the clothing: the ribbed texture of the white top, the thin orange trim around the neckline and sleeve, and the tiny bow at the center. Add the thin necklace chain and its small pendant. Darken the contour of the right hand resting against the cheek, fingers relaxed.
+  Move to the foreground still life. Outline the gold-framed round mirror on the left, then the cluster of bottles—tall toner bottle, perfume with a faceted cap, pump bottles, and the cup of makeup brushes on the right. Keep these objects slightly lighter so they sit in front of the figure without competing.
+  Begin shading. Hatch soft graphite under the chin, along the left side of the nose, beneath the lower lip, and in the hollow of the neck. Build darker value in the hair where strands overlap and around the clips. Add light cross-hatching on the fabric folds of the top and a faint cast shadow from the hand onto the cheek. Leave the paper white for the brightest highlights on the forehead, nose tip, and lip.
+  The left hand slides out of frame. The right hand makes a few final tightening strokes on the eyes and the edges of the hair, then rests the pencil at the top of the paper. The finished drawing is a complete graphite sketch of the blonde woman at her vanity, built entirely from the first faint oval to the last shadow, on otherwise empty white paper.
+  Satisfying, calm, close-up process video. Continuous take, no cuts, no extra motion except the hands and pencil. Soft natural light, visible pencil grain and paper tooth.

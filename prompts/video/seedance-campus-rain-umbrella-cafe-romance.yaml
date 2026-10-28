@@ -1,0 +1,29 @@
+id: seedance-campus-rain-umbrella-cafe-romance
+title:
+  en: Campus rain romance from umbrella to café
+  zh: 校园暴雨伞下相遇到咖啡馆的恋爱短片
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- romance
+- vlog
+- rain
+- handheld
+- dialogue
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2096832969453543579
+  credit: nawalsehar
+  captured: '2026-10-28'
+  posted: '2026-09-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2096832969453543579
+notes:
+  en: The prompt lays out the story as ordered beats (rain, shared umbrella, café, sunlight after the storm) so a 30 second clip keeps a clear arc. Physical details such as umbrella physics, wet hair and puddle reflections, a handheld smartphone camera and a closing list of exclusions keep the look realistic.
+  zh: 提示词把故事拆成按顺序的段落（暴雨、共伞、咖啡馆、雨后放晴），让30秒的片子有清晰的起承转合。雨伞物理、湿发、水洼倒影等细节加上手持手机镜头，再用结尾的排除清单，让画面保持写实。
+prompt: |
+  Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.
+
+  They escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.
+
+  Modern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.

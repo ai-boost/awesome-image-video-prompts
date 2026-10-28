@@ -1,0 +1,45 @@
+id: seedance-helicopter-news-dirt-bike-pursuit
+title:
+  en: Helicopter news footage of a dirt bike chase
+  zh: 直升机新闻镜头拍摄的越野摩托追逐
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- aerial
+- news-footage
+- motocross
+- handheld-realism
+- timed-beats
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2111517673276240251
+  credit: CharaspowerAI
+  captured: '2026-10-28'
+  posted: '2026-10-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/CharaspowerAI/status/2111517673276240251
+notes:
+  en: A single helicopter viewpoint is locked with deliberate flaws like shaky zooms, compression artifacts, heat haze and late pans, so the footage reads as raw news. Six timed beats escalate the action, and rotor thump, radio chatter and a final reporter line carry the sound.
+  zh: 全程锁定单一直升机视角，并刻意写入抖动变焦、压缩伪影、热浪和迟到的摇镜，让画面像未经修饰的新闻素材。六个带时间码的段落逐步升级动作，旋翼声、电台杂音和结尾的记者台词构成声音层。
+prompt: |
+  Ultra-realistic viral helicopter pursuit footage, raw local-news style, filmed entirely from one helicopter in bright Los Angeles daylight. Long-lens aerial camera, unstable vibration, abrupt zooms, compression artifacts, heat haze, autofocus breathing, imperfect framing, rotor thump, distant radio chatter, harsh California sun, no cinematic polish, believable amateur-news realism.
+
+  Main subject: one motocross rider on a dirt bike, full helmet and motocross gear, highly skilled, aggressive but controlled riding. Keep the same rider and same bike throughout.
+
+  Los Angeles daytime: palm-lined boulevard, parking lots, freeway ramps, concrete flood channel, industrial blocks, overpasses, service roads and distant skyline.
+
+  0-5s: Immediate viral hook The helicopter camera is already searching frantically when the rider suddenly blasts into frame between moving cars. Operator snaps into a shaky zoom. The rider jumps a curb, cuts across a parking lot and nearly disappears behind palm trees.
+
+  5-10s: Chaotic tracking He rejoins a boulevard, threads through traffic, then veers up a sloped driveway and launches over a low divider. Camera over-zooms, loses him for half a second, then catches him landing cleanly.
+
+  10-15s: Escalation The rider enters a concrete flood channel. Huge aerial reveal. He accelerates along the channel floor while the helicopter banks hard overhead. Dust trails behind the bike. Quick zoom on spinning rear wheel and suspension.
+
+  15-20s: Viral stunt beat He rides up the angled concrete wall, holds a dramatic high line for a moment, then drops back down smoothly. Camera shakes violently trying to follow. Rotor vibration and radio chatter intensify.
+
+  20-25s: Big surprise The rider exits through a service ramp, crosses beneath an overpass, then unexpectedly appears on a parallel industrial road. The operator pans late and barely recovers him. He hits a natural rise and gets long airtime in full daylight.
+
+  25-30s: Iconic ending He lands, accelerates toward another overpass and vanishes into shadow underneath. The helicopter overshoots, circles, zooms wildly across multiple roads, but he is gone. Reporter voice, stunned: “We just lost him.” Hold on shaky wide aerial of Los Angeles. Hard cut.
+
+  One continuous helicopter perspective, strong amateur-news authenticity, same rider throughout, realistic motocross physics, believable Los Angeles geography, harsh daylight, imperfect tracking, viral unpredictability, readable stunts, no crash, no gore, no readable text, no logos.
+
+  #DreaminaCPP  @dreamina_ai

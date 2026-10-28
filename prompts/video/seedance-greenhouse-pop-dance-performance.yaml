@@ -1,0 +1,59 @@
+id: seedance-greenhouse-pop-dance-performance
+title:
+  en: Pop dance performance in a sunlit glass greenhouse
+  zh: 阳光玻璃温室里的流行舞蹈表演
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- dance
+- k-pop
+- multi-scene
+- character-lock
+- music
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2110278863691325907
+  credit: Chaemate_
+  captured: '2026-10-28'
+  posted: '2026-10-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Chaemate_/status/2110278863691325907
+notes:
+  en: Separate character, outfit and background locks tied to two reference images keep identity and location stable across thirty seconds, and a negative prompt repeats those locks. Five timed scenes each name the choreography and a camera move, and the audio line specifies tempo, instruments and a bass drop on the final pose.
+  zh: 角色锁、服装锁和背景锁分别绑定两张参考图，并在负面提示中重复，让三十秒内人物与场景保持一致。五个带时间段的分镜各写明舞步和运镜，音频部分给出速度、乐器和落在最后一个造型上的低音下落。
+prompt: |
+  K-POP GREENHOUSE DANCE PERFORMANCE
+
+  Duration: 30 seconds | Aspect ratio: 16:9 | Ultra-realistic 4K, photorealistic live-action, cinematic professional K-pop performance video.
+
+  CHARACTER LOCK (@Image1):
+  An adult Korean woman with delicate idol features and glowing skin, long wavy ginger-copper hair worn down with two small side braids pinned back and a small black hair clip. Soft shimmer eyeshadow, thin black eyeliner, glossy coral lips. Silver hoop earrings and a thin silver chain necklace.
+
+  OUTFIT LOCK (identical in every shot): Cropped cobalt-blue varsity bomber jacket with cream striped collar and cuffs, modest closed black fitted inner top, black pleated mini skirt with black cycling shorts underneath, black knee-high socks, white chunky platform sneakers with blue accents. No changes to outfit, colors, hairstyle, face, or accessories in any scene.
+
+  BACKGROUND LOCK (@Image2): Use the reference image as the only environment for all 30 seconds. Keep the glass greenhouse, lush plants, stone floor, and warm sunlight. Do not change the location.
+
+  SCENE 1 (0-6s): Sunlit Reveal
+  Overhead top-down shot of the stone floor as her white sneakers step into frame. The camera tilts up as she walks forward through a beam of sunlight, stops, and straightens her jacket collar with a smirk. She then does a smooth body wave from head to toe, two slow arm rolls, and a quick shoulder shimmy that lands on the first beat. Camera: top-down tilt up to a low-angle wide shot.
+
+  SCENE 2 (6-12s): Groove Section
+  Medium-wide shot. Crisscross hop-steps, a glide step to the right, then to the left, finger snaps at hip level, and a playful "shh" gesture with one finger to her lips. She throws a quick pop-and-lock arm sequence, then points up and down in alternating beats. Palm leaves sway gently behind her. Camera: smooth lateral slide, following her movement.
+
+  SCENE 3 (12-18s): Power Break
+  Wide shot with sunlight rays streaming through the glass behind her. Fast running-man footwork, a sharp front kick, a stomp-stomp-clap rhythm, arm slices across the body, and a low squat bounce with her hands pushed forward. The skirt and braids move naturally. Camera: quick push-in, then a short rack focus from the plants to her face.
+
+  SCENE 4 (18-24s): Hook Section
+  Medium close-up transitioning to full-body. She makes a "V" sign with her fingers near her eye, then a camera-lens shape with both hands, shifts her weight in a sharp side-slide, swings her arms in a big circle, and spins a full 360 with a confident flair. Sunlight glints through her hair as she turns. Camera: handheld-style orbit with a subtle shake.
+
+  SCENE 5 (24-30s): Final Pose
+  She backs away from the camera, turns her back, and looks over her shoulder with a wink. She turns around, does a final arm wave, and ends with one hand extended toward the camera and the other tucked at her waist, followed by a blown kiss and a warm smile. Camera: slow dolly-out to a wide shot, then a gentle push-in to a close-up on the last pose, with a soft golden glow on the final frame.
+
+  LIGHTING: Warm golden natural sunlight through the glass with soft rim light on her hair, gentle light rays, subtle haze, realistic skin texture and fabric movement. No neon or colored artificial lights.
+
+  DANCE QUALITY: Full-body motion synced to the music, clear footwork, smooth transitions between moves, precise timing, natural facial expressions, realistic hair and clothing physics, consistent anatomy.
+
+  NEGATIVE PROMPT: No neon lights, no outfit changes, no hairstyle changes, no face changes, no background replacement, no distorted anatomy, no extra fingers, no duplicated limbs, no floating feet, no jittering, no flickering, no cartoon or CGI look, no subtitles, no text overlays, no watermark, no logos.
+
+  AUDIO: Original bright pop K-pop dance track, about 125 BPM, with a punchy kick, glossy synth chords, funky bass, finger-snap percussion, and an energetic build-up before the hook, ending with a clean bass drop at the last pose. No vocals, no dialogue.
+
+  #KPop #AIVideo #Dance

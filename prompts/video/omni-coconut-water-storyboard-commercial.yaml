@@ -1,0 +1,70 @@
+id: omni-coconut-water-storyboard-commercial
+title:
+  en: Coconut water bottle commercial from an eight panel storyboard
+  zh: 椰子水瓶装广告，八格分镜转成视频
+model: Gemini Omni Flash
+mode: image-to-video
+tags:
+- product-commercial
+- storyboard
+- beverage
+- macro
+- asmr
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2094760813794111843
+  credit: M-studioAi
+  likes: 663
+  captured: '2026-10-28'
+  posted: '2026-09-01'
+video: https://x.com/Strength04_X/status/2094760813794111843
+notes:
+  en: A structured storyboard sheet fixes the format, header cards, eight numbered scenes and per panel fields for duration, camera, action and product detail. The camera line lists high speed liquid, extreme macro and low angle shots, and the audio is specified as water plus ASMR. The image from the sheet's first panel then drives the video model.
+  zh: 先用结构化分镜板固定版式、信息卡、八个编号场景，以及每格的时长、镜头、动作和产品细节。镜头一行列出高速液体、极致微距和低角度，声音写明水声加 ASMR。再把分镜首格画面交给视频模型生成。
+prompt: |
+  Nano Banana 2 × Gemini Omni flash 1.1
+
+  Prompt - TITLE: Premium Coconut Water Product Commercial Storyboard
+
+  FORMAT:
+  • Single-page premium storyboard
+  • 3:4 Portrait ratio
+  • Premium natural beverage campaign
+  • 8 cinematic product-focused scenes
+  • Product remains the central hero
+  • High-end advertising agency presentation
+
+  HEADER:
+  • Clean modern typography
+  • Information cards:
+    - Duration: 20 Seconds
+    - Style: Fresh Natural Beverage Commercial
+    - Product: Coconut Water
+    - Audio: Tropical Water + Refreshing ASMR
+  • Why This Style Works section
+  • White, coconut green and natural beige aesthetic
+  • Minimal tropical decorative accents
+
+  STORYBOARD:
+  1. Chilled coconut water bottle standing on wet natural stone, covered in condensation
+  2. Bottle cap opening with a crisp close-up of the seal
+  3. Coconut water pouring into a transparent glass
+  4. Clear liquid swirling inside the glass with tiny bubbles
+  5. Fresh coconut pieces dropping beside the bottle in slow motion
+  6. Ice cubes falling into the drink and creating a controlled splash
+  7. Extreme macro of condensation droplets running down the bottle
+  8. Final hero bottle and glass surrounded by fresh coconut pieces and a frozen water splash
+
+  EVERY PANEL:
+  • Scene number
+  • Duration badge
+  • Camera direction
+  • Visual
+  • Action
+  • Product detail
+
+  CAMERA:
+  High-speed liquid photography, extreme macro, condensation close-up, slow-motion ice drop, transparent liquid swirl, low-angle product shot, cinematic hero framing.
+
+  STYLE:
+  Ultra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packaging, luxury commercial photography, 8K.

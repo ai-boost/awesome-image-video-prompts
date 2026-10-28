@@ -1,0 +1,26 @@
+id: h3-car-backseat-raccoon-monkey-chip-burst
+title:
+  en: Raccoon and monkey chip burst in car
+  zh: 车后座浣熊与猴子的薯片爆开
+model: MiniMax H3
+mode: text-to-video
+tags:
+- animals
+- comedy
+- car-interior
+- photorealistic
+- three-beat
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2108851182244606445
+  credit: Lavinia
+  likes: 188
+  captured: '2026-10-28'
+  posted: '2026-10-10'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/laviniavelle/status/2108851182244606445
+notes:
+  en: The prompt fixes the setting, subject positions and wardrobe first, then runs a beginning, middle and end beat sequence so the chip burst lands as a clear comic payoff. Soft natural lighting and photorealistic cues keep the animals believable.
+  zh: 提示词先固定场景、人物位置和服装，再按开头、中段、结尾三个节拍推进，让薯片炸开成为清晰的笑点。柔和自然光和写实描述让动物显得可信。
+prompt: |
+  A cinematic video inside the back seat of a moving car with beige leather interior On the right a young woman with medium-length brown hair, wearing a yellow knitted sweater and blue jeans is holding a blue bag of potato chips Sitting on the left is a fluffy raccoon and a small capuchin monkey is resting close to the raccoon The woman offers a chip to the animals but as the raccoon reaches into the bag chips accidentally burst into the air and scatter all over the backseat including one landing on the raccoon's head The woman reacts with surprise and then bursts into laughter while the monkey looks around curious and playful Photorealistic soft natural lighting, vibrant colors.

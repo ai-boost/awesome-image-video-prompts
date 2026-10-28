@@ -1,0 +1,43 @@
+id: seedance-lightning-warrior-ruined-battlefield-30s
+title:
+  en: Lightning Warrior Splits Reality Over Ruined Battlefield
+  zh: 闪电战士在废墟战场劈开现实
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- dark-fantasy
+- action
+- lightning
+- timeline-prompt
+- photorealistic
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2106702315239686628
+  credit: itxabdullaa
+  captured: '2026-10-28'
+  posted: '2026-10-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxabdullaa/status/2106702315239686628
+notes:
+  en: A 30 second timeline is cut into 0 to 5, 5 to 10 and later blocks, each with one escalating beat from spark to pursuit to spatial rupture to silence. A closing negative list (no anime, no armor, no costume changes) and a physics-first style line keep the look grounded and the character consistent.
+  zh: 把30秒按0到5秒、5到10秒等时间段切开，每段只推进一个节拍，从火花、追击到空间撕裂再归于寂静。结尾用排除清单（不要动漫、不要盔甲、不要换装）加上物理优先的风格句，保持画面写实、角色前后一致。
+prompt: |
+  16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTIC PHYSICS
+
+  A dark-fantasy warrior with long disheveled black hair, cold expression, tattered gray-white scarf, shattered dark cloak and white-gray outfit awakens an abandoned battlefield.
+
+  0–5s: A tiny white-blue spark triggers the entire environment. Stones vibrate, cracks spread, invisible pressure bends the air, and a colossal thunderstorm ring forms overhead.
+
+  5–10s: Shadow distortions hunt him. He explodes into motion—wall runs, aerial redirects, lightning-charged impacts and massive shockwaves destroy the ruins. Black smoke afterimages trail every movement.
+
+  10–15s: He moves across falling debris at impossible speed. Multiple motion afterimages surround the battlefield before collapsing back into him, compressing into one devastating lightning strike.
+
+  15–20s: The battlefield transforms into a rotating storm cage. Debris, dust, fabric and lightning orbit him. Everything suddenly compresses inward as a giant spatial crack opens behind him.
+
+  20–27s: He launches into the fractured dimension, moving through floating ruins with punches, elbows and aerial strikes. All accumulated energy converges into a tiny, hyper-dense white-blue thunderstorm sphere.
+
+  27–30s: Absolute silence. One spark. His eyes open. He unleashes the WORLD-SPLITTING STRIKE—a colossal white-blue shockwave tears through reality, followed by a black-and-white spatial implosion.
+
+  Cut back to the ruined battlefield. He stands alone, dust falling, scarf moving in the residual wind. One final spark crosses his cheek.
+
+  STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent lightning, black smoke/shattered-shadow afterimages, air distortion, debris interaction and violent wind pressure. No anime, no superhero CGI, no modern tech, no guns, no armor, no dialogue, no text, no subtitles, no logos, no face/hairstyle/costume changes. Continuous escalation from mystery → pursuit → impossible movement → environmental destruction → spatial rupture → silence.

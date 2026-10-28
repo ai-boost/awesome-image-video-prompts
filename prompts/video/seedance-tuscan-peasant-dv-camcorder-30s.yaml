@@ -1,0 +1,44 @@
+id: seedance-tuscan-peasant-dv-camcorder-30s
+title:
+  en: 1800s Tuscan Peasant Day on DV Camcorder
+  zh: DV摄像机拍摄的1800年代托斯卡纳农妇日常
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- documentary
+- dv-camcorder
+- historical
+- handheld
+- timestamped
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2107530733212590250
+  credit: Goodmanprotocol
+  captured: '2026-10-28'
+  posted: '2026-10-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Goodmanprotocol/status/2107530733212590250
+notes:
+  en: Five six second blocks give the single continuous shot a clear sequence of actions. The anachronistic early 2000s DV look is pinned down with named flaws like autofocus hunting, exposure pumping and compression noise, and an audio line limits sound to natural ambience.
+  zh: 五个六秒时间段把一镜到底拆成清晰的动作序列。用对焦游移、曝光起伏、压缩噪点等具体缺陷锁定2000年代初DV质感，并在音频部分限定只有自然环境声。
+prompt: |
+  30-second ultra-realistic documentary slice-of-life video, early-2000s consumer DV camcorder aesthetic. A young Italian peasant woman in her early 20s, sun-weathered olive skin with freckles, dark brown wavy hair loosely tied with a faded scarf, worn off-white linen blouse, earth-brown patched wool skirt, faded floral apron and muddy leather boots. Rural Tuscany in the late 1800s. Golden wheat fields, olive trees, stone farmhouse, cypress trees, stone walls, chickens, donkey and old stone well. No modern objects or machinery.
+
+  [0–6s]
+  Handheld camera follows her naturally along a dirt path through golden wheat fields. She carries a woven basket on her hip and brushes her free hand across the wheat. Wind moves the stalks and her loose hair.
+
+  [6–12s]
+  She reaches a wooden fence, sets down the basket and feeds scraps to several chickens gathered around her boots. The camera stays close and imperfect, briefly adjusting focus as she moves.
+
+  [12–18s]
+  She continues toward an old stone well. She lowers a wooden bucket on a rope, pulls it up with effort, then drinks fresh water from a small ladle. Water runs down her chin and she wipes it away with her sleeve.
+
+  [18–24s]
+  A donkey approaches. She smiles softly, pats its muzzle, then picks a small wildflower from the field and tucks it behind her ear. She lifts the basket and walks toward the farmhouse.
+
+  [24–30s]
+  Near the heavy wooden doorway, she notices the person filming. She gives a tired but warm smile and a small wave, then opens the door. She looks back once before stepping inside. The camera remains outside as the door slowly closes.
+
+  STYLE: photorealistic historical documentary, authentic 1800s Tuscany, early-2000s consumer DV look, handheld shake, imperfect framing, autofocus hunting, slight exposure pumping, faded colors, soft contrast, mild digital compression and sensor noise. No stabilization, no cinematic camera moves, no modern color grading. One continuous fluid shot, no cuts, no captions, no music.
+
+  AUDIO: natural ambience only -wind through wheat, birds, chickens, footsteps on dry earth, rope and wooden bucket creaking, water splashing, donkey sounds, distant countryside atmosphere and the wooden door closing.

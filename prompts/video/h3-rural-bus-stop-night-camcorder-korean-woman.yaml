@@ -1,0 +1,35 @@
+id: h3-rural-bus-stop-night-camcorder-korean-woman
+title:
+  en: Tired woman waits at rural night bus stop
+  zh: 疲惫女子在乡间夜晚公交站等车
+model: MiniMax H3
+mode: text-to-video
+tags:
+- night
+- camcorder
+- dialogue
+- korean
+- lo-fi
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2096578562866463197
+  credit: 𝐌
+  likes: 84
+  captured: '2026-10-28'
+  posted: '2026-09-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Strength04_X/status/2096578562866463197
+notes:
+  en: Labeled blocks for setting, camera feel, timed beats and sound keep a 15 second shot controllable, while a tripod with handheld nudges and tape hiss gives the lo-fi camcorder look. Short Korean lines with English glosses in quotes drive the spoken audio.
+  zh: 用场景、镜头感、分段动作和声音等标签块组织 15 秒镜头，三脚架加轻微手持晃动与磁带底噪营造摄像机质感。韩语台词后附英文释义，用来驱动对白音频。
+prompt: |
+  A young Korean woman, early 20s, tired after a long day, oversized coat swallowing her frame, hair escaping a loose braid, stands alone at a rural bus stop long after the sun has set.
+  Setting: A single flickering streetlamp, an empty road disappearing into darkness, rice paddies barely visible on either side, insects buzzing somewhere in the black.
+  Camera feel: Static tripod shot with occasional handheld nudges, like whoever's filming keeps almost forgetting they're recording — heavy grain, the lamp's orange glow bleeding into the frame, tape hiss audible under everything.
+  What happens (15 sec total):
+  She leans against the bus stop sign, checking her phone, then pocketing it with a tired sigh.
+  She mutters to camera, almost to herself, "버스 왜 안 와..." ("Why isn't the bus coming..."), kicking a small pebble.
+  Headlights appear far down the road she straightens up, relief crossing her face.
+  As the bus approaches, she looks back at the camera one last time saying "드디어" ("Finally"), stepping toward the curb as the tape cuts.
+  Sound: Crickets, distant engine growing louder, gravel underfoot, wind.
+  Mood: Quiet exhaustion giving way to small relief nothing dramatic, just real.

@@ -1,0 +1,26 @@
+id: h3-marina-boat-dolphin-encounter-travel-documentary
+title:
+  en: Traveler boards boat and spots dolphins
+  zh: 游客登船出海偶遇海豚
+model: MiniMax H3
+mode: text-to-video
+tags:
+- travel-documentary
+- photorealistic
+- dialogue
+- lip-sync
+- wildlife
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2090306968900784383
+  credit: Nawal
+  likes: 166
+  captured: '2026-10-28'
+  posted: '2026-08-20'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/nawalsehar/status/2090306968900784383
+notes:
+  en: The prompt narrates one continuous action chain from dock to boarding, departure, dolphin sighting and reaction. Spoken lines are written inline, and a long list of physical realism cues plus a closing negative list keeps the motion and water believable.
+  zh: 提示词把登船、出港、遇见海豚到最后反应写成一条连续的动作链，台词直接写进叙述里。末尾用一长串物理真实感要求和一串排除项来稳住动作与水面表现。
+prompt: |
+  A young Western female traveler in her mid-20s walks naturally along a wooden marina dock toward a small white sightseeing boat. She wears a light blue windbreaker, white shirt, dark trousers, comfortable sneakers, sunglasses, a properly fitted life jacket, and a small crossbody bag. She carefully steps from the dock onto the gently rocking boat while holding the handrail, naturally shifting her weight as the boat responds to her movement. She walks toward the rear passenger bench, sits down, adjusts her position, and looks toward the open water. The boat engine starts with a realistic low rumble and gradually leaves the marina, creating a small bow wave and narrow wake. As the boat moves into open water, she notices movement nearby, looks surprised, and naturally says, "Wait... are those dolphins?" Two dolphins surface several meters beside the moving boat, swimming parallel at a safe distance with realistic tail propulsion, surfacing, diving, breathing, and water displacement. She picks up her phone with both hands and records them while smiling with genuine excitement. One dolphin briefly surfaces near the rear side of the boat, exhales through its blowhole, creates a small burst of mist and droplets, then dives beneath the water and leaves expanding ripples behind. She lowers her phone and says, "That is incredible." Ultra-photorealistic marine wildlife travel documentary, cinematic realism, natural human behavior, realistic walking and sitting biomechanics, physically accurate boat buoyancy and acceleration, authentic ocean waves and wake, realistic dolphin anatomy and swimming behavior, natural water reflections and refraction, accurate English lip synchronization, bright neutral daytime lighting, realistic coastal wind, immersive marina and ocean ambience, smooth documentary camera movement, continuous visual consistency, seamless storytelling from walking to boarding, departure, dolphin encounter, recording, and final reaction, no narration, no CGI appearance, no plastic skin, no robotic movement, no exaggerated dolphin jumps, no impossible water behavior, no sudden camera transitions, no text overlays, logos, or watermarks.

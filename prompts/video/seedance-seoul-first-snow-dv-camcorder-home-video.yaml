@@ -1,0 +1,37 @@
+id: seedance-seoul-first-snow-dv-camcorder-home-video
+title:
+  en: Early 2000s camcorder video of Seoul's first snow
+  zh: 2000年代初DV摄像机拍下的首尔初雪
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- dv-camcorder
+- vintage
+- snow
+- handheld
+- diegetic-audio
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2106251329085874184
+  credit: nawalsehar
+  captured: '2026-10-28'
+  posted: '2026-10-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2106251329085874184
+notes:
+  en: A reference image locks the character's face and outfit, and the action runs in a clear beat sequence from window to snowball to streetlight. Detailed consumer DV artifacts, diegetic only audio and a long negative list keep the look authentic and the physics believable.
+  zh: 用参考图锁定人物的脸和服装，动作按窗边、雪球、路灯的顺序分段写清。详细的DV画质瑕疵、只保留现场声音和一长串负面词，让质感真实、物理合理。
+prompt: |
+  Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Korean woman experiencing Seoul’s first snowfall of winter. Use the attached image as the character reference and keep her face, hairstyle, body proportions, outfit and identity consistent throughout.
+
+  She notices the first snow from her window, excitedly grabs her coat and scarf, rushes outside and catches snowflakes in her hand. She runs briefly through the residential lane, crouches to make a tiny snowball, shows it proudly to the camera and tosses it. The snowball follows realistic gravity and breaks apart naturally on impact.
+
+  She continues walking through the snowy older Seoul neighborhood, leaving believable footprints as snow gradually settles on bicycles, cars, rooftops and bushes. Her hair, scarf and coat move naturally in the winter breeze, with subtle visible breath in the cold air.
+
+  At the end, she stops beneath a streetlight, looks into the camera, catches a snowflake in her palm and softly says, “First snow.” She smiles and walks away as the handheld camera follows.
+
+  Authentic early-2000s consumer DV look: shaky handheld framing, autofocus hunting, slight exposure/white-balance shifts, soft digital detail, CCD noise, subtle interlacing, cool white balance, natural motion blur, limited dynamic range and occasional awkward zooms. The camera operator reacts imperfectly like a real home-video recording.
+
+  Natural diegetic audio only: wind, footsteps crunching snow, breathing, doors, fabric movement, distant traffic, birds and neighborhood ambience. No music, narration, subtitles, CGI, beauty filters, cinematic grading, slow motion or polished camera movement.
+
+  Negative prompt: inconsistent face, changing clothes, morphing, distorted hands, extra fingers, unnatural physics, floating snow, instant snowballs, impossible trajectories, teleportation, clipping, plastic skin, cinematic camera, excessive stabilization, commercial look, logos, watermark.

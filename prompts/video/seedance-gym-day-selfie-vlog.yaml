@@ -1,0 +1,76 @@
+id: seedance-gym-day-selfie-vlog
+title:
+  en: Casual gym selfie vlog with spoken lines
+  zh: 健身房日常自拍 vlog,带口播台词
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- vlog
+- selfie
+- gym
+- dialogue
+- handheld
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2089195912119943367
+  credit: ZaraIrahh
+  captured: '2026-10-28'
+  posted: '2026-08-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZaraIrahh/status/2089195912119943367
+notes:
+  en: Locks one handheld front camera point of view and lists real phone flaws such as shake, autofocus hunting and exposure shifts, so the result avoids a cinematic look. The scene runs in timed beats with quoted dialogue lines, and the audio is limited to diegetic gym ambience with no music.
+  zh: 全程锁定手持前置自拍视角,并列出手机真实瑕疵,如抖动、对焦漂移和曝光变化,避免电影感。场景按时间节拍推进并写入台词,音频只保留健身房环境声,不加配乐。
+prompt: |
+  Create a 30-second casual gym vlog featuring the same young woman in her early twenties. She has natural everyday beauty, and her face and hair remain identical throughout the entire video.
+
+  Camera & visual style
+
+  One continuous handheld front-facing smartphone selfie vlog, always filmed from her own point of view with the phone held in her own hand at arm’s length. No third-person camera, external camera, tripod, cinematic camera movement, or professional filming.
+
+  Make it look like a real modern smartphone recording:
+
+  - Mild handheld shake and natural walking bounce
+  - Occasional autofocus hunting
+  - Small exposure shifts and minor framing imperfections
+  - Natural front-camera lens distortion
+  - Soft warm natural daylight transitioning toward early evening
+  - Natural, uncorrected smartphone color
+  - No color grading, beauty filter, or skin smoothing
+  - Same woman, same face and hair throughout
+  - She holds the phone herself in every shot
+  - No subtitles, captions, logos, watermarks, or on-screen text
+  - No brand or character names
+  - Never show a reference sheet or duplicate subject
+
+  Outfit
+
+  She is wearing a cute, trendy, realistic gym outfit appropriate for a casual workout vlog: fitted athletic top, comfortable high-waisted leggings or shorts, clean sneakers, and minimal accessories. The styling should feel fashionable but natural and practical for the gym.
+
+  Scene
+
+  She is spending a casual day at the gym and filming herself throughout her workout.
+
+  She enters the gym while holding her phone at arm’s length, smiling into the front camera. She briefly sweeps the phone toward the workout area, showing treadmills, weights, machines, and other gym-goers in the background, then brings it back to her face. She grins and says upbeat:
+
+  “Okay, gym day! Let’s get this workout started!”
+
+  She walks toward the workout area, naturally bouncing the phone with her steps. She glances at the equipment, smiles at the camera, and starts a light warm-up. Keep the movements natural and unscripted, with brief moments of her adjusting her hair, checking her form, and laughing at herself.
+
+  She moves into a short workout sequence while still filming herself handheld: a few casual gym exercises, light cardio, and a quick strength-training moment. Keep the camera mostly selfie-facing, occasionally tilting naturally toward the equipment before returning to her face. She looks slightly out of breath but happy and says with a playful laugh:
+
+  “Why did I think this was gonna be easy?”
+
+  She takes a quick water break, holding her bottle near the selfie camera before taking a sip. She smiles and catches her breath while natural gym ambience continues around her.
+
+  Later, after finishing the workout, she walks toward the gym exit with the phone still in her hand. Her hair is slightly messier and she looks pleasantly tired. She gives the camera a satisfied smile, lightly wipes her forehead, and says:
+
+  “Okay… I’m actually proud of myself.”
+
+  She gives a small tired laugh, waves at the camera, and lowers the phone slightly for a relaxed ending.
+
+  Audio
+
+  Diegetic sound only, no background music. Include realistic gym ambience: treadmill hum, weights clanking, machine sounds, footsteps, distant conversations, subtle ventilation, water bottle sounds, and natural room tone. Every spoken line should be delivered frontally with clearly visible lip movement and natural timing.
+
+  Keep the entire sequence fast, casual, spontaneous, and realistic, with natural transitions and enough brief visual moments to fill approximately 30 seconds without making the dialogue feel rushed. The final result should feel like an authentic personal gym vlog recorded casually on a modern smartphone.

@@ -1,0 +1,42 @@
+id: h3-industrial-hyperpop-timeline-fashion-dancer
+title:
+  en: Androgynous dancer escaping a glass timeline loop
+  zh: 中性舞者逃出玻璃时间轴循环
+model: MiniMax H3
+mode: text-to-video
+tags:
+- fashion-commercial
+- music-sync
+- 3d-typography
+- glitch
+- dance
+source:
+  name: '@lepadphone on X'
+  url: https://x.com/lepadphone/status/2084637679254376793
+  credit: padphone
+  likes: 325
+  captured: '2026-10-28'
+  posted: '2026-08-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/lepadphone/status/2084637679254376793
+notes:
+  en: The prompt splits into labelled blocks (concept, character, world logic, visual language, motion rules, restrictions). It ties each beat of a 160 BPM grid to a camera or space rule, so kicks compress the timeline and snares duplicate frames. A closing list of exclusions keeps the dancer's identity and the on-screen text under control.
+  zh: 提示词分成概念、角色、世界规则、视觉语言、动作规则和限制几个标签块，把 160 BPM 的每个鼓点绑定到具体的镜头或空间规则：底鼓压缩时间轴，军鼓复制画面。结尾的禁止项清单锁定人物形象并控制画面文字。
+prompt: |
+  [Core Concept]
+  15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based reality where rhythm controls space and motion.
+
+  [Character Identity]
+  Single androgynous dancer with short black hair, silver eyebrow mark, asymmetric black jacket, wide pants, red stitching. Maintain identical face, body, hairstyle and outfit. Multiple figures are only past-frame projections.
+
+  [World Logic]
+  Each kick compresses the timeline toward the dancer. Each snare duplicates previous movements into adjacent frames. Moving against the timeline transforms the 2D interface into a foldable 3D structure. The dancer escapes the repetition loop.
+
+  [Visual Language]
+  Black, cold white, warning red. Glass timelines, metal rails, glowing frame lines, scanning grids. Extreme wide-angle, low angles, top-down shots, Dutch angles, dolly moves, impossible perspective. 3D words COPY, SAME, TREND, OUTSIDE exist as physical architecture, not subtitles.
+
+  [Motion Rules]
+  Use anticipation → attack → overshoot → settle. Kick drives spatial compression, snare breaks frames, hi-hats animate cursors and fragments, bass bends time. Build with glitch cuts, then explode into an impossible continuous long take during the drop.
+
+  [Restrictions]
+  No character changes, extra people, random text, subtitles, logos, outfit changes, bad anatomy, flat camera angles, or meaningless flashes.

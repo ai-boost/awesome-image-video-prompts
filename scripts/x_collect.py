@@ -118,24 +118,31 @@ def known_urls():
     return urls
 
 
+def faves(query):
+    """The like threshold a query already asks X for, so results are not filtered twice."""
+    m = re.search(r"min_faves:(\d+)", query)
+    return int(m.group(1)) if m else 150
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", help="YAML list of {model, kind, query, max, min_likes}")
     ap.add_argument("--model")
     ap.add_argument("--kind", choices=["video", "image"])
     ap.add_argument("--query")
-    ap.add_argument("--min-likes", type=int, default=150)
+    ap.add_argument("--min-likes", type=int, help="defaults to the query's min_faves, else 150")
     ap.add_argument("--max", type=int, default=15)
     a = ap.parse_args()
     OUT.mkdir(exist_ok=True)
     if a.config:
         for q in yaml.safe_load(open(a.config, encoding="utf-8")):
             run(argparse.Namespace(model=q["model"], kind=q["kind"], query=q["query"],
-                                   min_likes=q.get("min_likes", 150), max=q.get("max", 10)))
+                                   min_likes=q.get("min_likes", faves(q["query"])), max=q.get("max", 10)))
             time.sleep(20)
     else:
         if not (a.model and a.kind and a.query):
             ap.error("--model, --kind and --query are required without --config")
+        a.min_likes = a.min_likes or faves(a.query)
         run(a)
 
 

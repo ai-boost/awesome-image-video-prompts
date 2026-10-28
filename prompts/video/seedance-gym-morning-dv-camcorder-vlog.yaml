@@ -1,0 +1,27 @@
+id: seedance-gym-morning-dv-camcorder-vlog
+title:
+  en: Morning Gym Workout on Early 2000s Camcorder
+  zh: 千禧年初家用摄像机拍摄的晨间健身
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- dv-camcorder
+- vlog
+- timecoded
+- dialogue
+- character-reference
+source:
+  name: '@sipteaandcoffee on X'
+  url: https://x.com/sipteaandcoffee/status/2104887547243774358
+  credit: sipteaandcoffee
+  captured: '2026-10-28'
+  posted: '2026-09-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/sipteaandcoffee/status/2104887547243774358
+notes:
+  en: Reads as a friend filming on a consumer DV camcorder, with timecoded beats, a character reference image, and spoken lines in each beat. The off-camera friend reacting to the camera zoom and the lens cover adds spontaneity, and the outfit is locked so it stays consistent.
+  zh: 按时间码分段，用参考图锁定人物，每段都有台词，并写明固定的服装。朋友在镜头外跟拍，画面里有突然推近和手遮镜头的反应，真实感来自这些细节。
+prompt: "Create a **45-second ultra-realistic personal home-video** of a young Korean woman going to a small neighborhood gym for a casual morning workout. Use the **attached image as the absolute character reference** and keep her face, facial features, hairstyle, body proportions and overall appearance consistent throughout.\n\nThe video should feel like a friend casually followed her to the gym with an **early-2000s consumer DV camcorder**. It should feel spontaneous, slightly awkward, playful and real — **not like a fitness advertisement or influencer workout video**.\n\nCamera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain,\nhalation on the bulbs. Focal length: 35mm. Aperture: f/2.0.\n \n### CHARACTER & OUTFIT\n\nShe begins with her **long blonde hair worn loose**.\n\nFor the walk to the gym, she wears a casual oversized zip-up hoodie over her workout clothes and carries a small dark gym bag.\n\nInside the gym, she removes the hoodie and ties her\
+  \ hair into a **slightly messy high ponytail**.\n\nHer workout outfit is:\n\n- muted sage-green fitted short-sleeve athletic top\n- loose black athletic track pants with a comfortable straight-leg fit\n- gray-and-white training sneakers\n- simple black fitness watch\n- no jewelry\n- minimal natural makeup\n\nKeep this exact workout outfit consistent throughout the gym sequence.\n\nShe carries:\n\n- dark gym bag\n- translucent reusable water bottle\n- small light-gray workout towel\n\n### 00:00–00:06 — WALKING TO THE GYM\n\nOpen outside her home in soft morning daylight.\n\nShe steps through the door carrying her gym bag and starts walking through a quiet residential neighborhood.\n\nThe friend filming walks slightly behind her.\n\nThe camera shakes naturally with every step.\n\nShe turns around while walking backward for a moment and smiles at the camera.\n\n**WOMAN, laughing:**\n“Why are you filming already?”\n\nThe person behind the camera quietly laughs.\n\nShe shakes her head, turns\
+  \ around and keeps walking.\n\nCut to her approaching a modest neighborhood gym.\n\nBefore entering, she puts her bag down for a second and ties her long black hair into a messy high ponytail.\n\nShe looks at the camera.\n\n**WOMAN:**\n“Okay. Now I’m ready.”\n\nShe immediately laughs at herself.\n\n### 00:06–00:12 — WARM-UP\n\nInside the gym, she removes her hoodie, revealing the **sage-green athletic top and loose black workout pants**.\n\nShe places her gym bag beside a bench, sets down her water bottle and towel and begins warming up.\n\nInstead of ordinary stretching, show:\n\n- shoulder rotations\n- arm swings\n- standing torso twists\n- alternating knee raises\n\nThe camera awkwardly zooms toward her face.\n\nShe notices.\n\n**WOMAN:**\n“Don’t zoom in!”\n\nShe laughs and briefly covers the lens with her hand.\n\nThe camera pulls back.\n\n### 00:12–00:20 — KETTLEBELL & STEP-UPS\n\nShe picks up a **light kettlebell** and performs slow, controlled kettlebell deadlifts.\n\nShow realistic\
+  \ posture, grip, weight and breathing.\n\nCut to her performing **alternating step-ups onto a low padded exercise box**.\n\nHer ponytail bounces naturally.\n\nAfter several repetitions, she stops with her hands on her hips and exhales.\n\n**WOMAN:**\n“Why is this harder than it looks?”\n\nShe smiles breathlessly.\n\nSmall beads of sweat are beginning to appear around her forehead and hairline.\n\n### 00:20–00:27 — RESISTANCE BAND\n\nShe places a resistance band around her thighs and performs **controlled lateral band walks** across the gym floor.\n\nThe friend filming follows her sideways.\n\nShe looks toward the camera while continuing.\n\n**WOMAN:**\n“My legs are already complaining.”\n\nShe laughs, loses her rhythm for a second, then continues.\n"

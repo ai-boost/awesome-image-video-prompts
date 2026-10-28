@@ -1,0 +1,45 @@
+id: seedance-korean-sunday-chores-dv-home-video
+title:
+  en: Korean woman sweeping her step, early 2000s DV
+  zh: 韩国女子清扫门前台阶的千禧年DV家庭录像
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- dv-camcorder
+- home-video
+- observational
+- korean
+- ambient-audio
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2099379932082348417
+  credit: Ciri_ai
+  captured: '2026-10-28'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Ciri_ai/status/2099379932082348417
+notes:
+  en: 'The prompt is split into labelled blocks for subject, setting, sequence, camera, audio, continuity and negatives. Each action is a single lingering shot with no cuts inside it, and the DV flaws are listed explicitly: autofocus hunting, faded color and accidental zooms. The audio block names only ambient sounds, and the continuity block locks the props and the cat so nothing vanishes or duplicates. The subject refers to a reference image for identity.'
+  zh: 提示词按主体、场景、动作序列、镜头、音频、连贯性和负面词分块书写。每个动作都是不剪辑的长镜头,并明确列出DV的瑕疵,如自动对焦来回拉扯、褪色和意外变焦。音频只写环境声,连贯性一块锁定道具和猫,避免物体消失或重复。主体通过参考图锁定人物身份。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic early-2000s DV home video of a young Korean woman doing quiet Sunday chores around her home in an older Seoul neighborhood. Purely observational, no dialogue, no narrative arc  just rhythmic, textural everyday realism.
+  MAIN SUBJECT
+  Young Korean woman same as , early 20s, natural beauty, realistic skin texture, no makeup, black hair tied up messily in a claw clip, oversized faded T-shirt, rolled-up sweatpants, bare feet or house slippers. Keep her identity, outfit, hairstyle and proportions perfectly consistent throughout.
+  SETTING
+  The front step and small yard/alley outside an older Seoul home. Concrete step, a low gate, potted plants, a garden hose, a trash bin, scattered leaves. Ordinary, lived-in, no landmarks or brand names.
+  SEQUENCE (rhythmic, no dialogue)
+  She sweeps the front step with a short broom, dust and leaves scattering in the light.
+  She crouches down and pours a small amount of dry food into a bowl for a neighborhood cat waiting nearby; the cat eats while she watches briefly.
+  She stands and waters potted plants along the wall with a small watering can, water visibly darkening the soil.
+  She picks up a bagged trash bundle and carries it a few steps to place it by the curb/bin.
+  She wipes her hands on her shirt, looks around the now-tidy step and yard for a moment, then exhales/stretches.
+  She glances toward the camera briefly with a small, tired smile — no words — then turns and walks back inside.
+  Camera holds on the empty, swept step for a beat before cutting to black.
+  CAMERA
+  Raw handheld early-2000s DV camcorder, shaky footage, autofocus hunting, faded colors, exposure shifts, motion blur, soft digital detail, occasional accidental zooms. Observational, documentary-like framing — lingering shots, no cuts within actions. No polished cinematography.
+  AUDIO
+  Natural ambience only — broom bristles on concrete, water pouring, cat eating, distant birds, wind, a far-off scooter or dog bark, plastic bag rustling, faint footsteps. No dialogue, no music.
+  CONTINUITY
+  Broom, watering can and trash bag each remain consistent through their respective actions. Cat stays in frame while eating, doesn't disappear or duplicate. No teleporting or vanishing objects. Smooth, realistic, unhurried movement throughout.
+  NEGATIVE
+  CGI look, plastic skin, identity drift, outfit changes, distorted hands, extra fingers, subtitles, watermark.

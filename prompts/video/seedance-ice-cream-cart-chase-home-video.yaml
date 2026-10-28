@@ -1,0 +1,35 @@
+id: seedance-ice-cream-cart-chase-home-video
+title:
+  en: Woman Chases Ice Cream Cart in Handheld Home Video
+  zh: 年轻女子追冰淇淋车的手持家庭录像
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- slice-of-life
+- japanese
+- handheld
+- home-video
+- natural-audio
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2104428091476988236
+  credit: aiwithaly
+  captured: '2026-10-28'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2104428091476988236
+notes:
+  en: The prompt sets an amateur camcorder look with imperfect framing, autofocus shifts and no cinematic polish, then lays the story out as a clear beat sequence over 30 seconds. A locked wardrobe list, physics cues, an audio only sound list and a long negative prompt keep the character and motion consistent.
+  zh: 提示词先定下业余摄像机质感，包括不完美构图、对焦漂移和无电影感，再按时间顺序写清30秒内的情节节拍。固定的服装清单、物理细节、只含自然声的音频清单和较长的负面提示，共同保证人物和动作前后一致。
+prompt: |
+  Create a 30-second ultra-photorealistic Japanese slice-of-life home-video following an adorable Japanese woman in her early 20s who hears the distant ice-cream cart bell while relaxing at home. She grabs her wallet, slips on her sneakers, rushes outside, and runs through a quiet neighborhood to catch the cart.
+
+  Show authentic handheld consumer-camera footage with imperfect framing, subtle shake, autofocus shifts, natural daylight, realistic motion blur and no commercial cinematic look.
+
+  She catches the cart just in time, buys a vanilla-strawberry cone, then meets neighborhood children playing with a ball. She joins them briefly before walking home through the warm late-afternoon street, happily finishing her ice cream.
+
+  Maintain consistent face, ponytail, pale-blue blouse, beige skirt, white sneakers, cream shoulder bag and natural expressions throughout. Use realistic physics for running, balance, bag and hair movement, bicycle momentum, ball motion, melting ice cream, shadows and material interaction.
+
+  Natural audio only: bicycle bell, footsteps, breathing, children laughing, ball, vendor dialogue, neighborhood ambience and light wind. No music or narration.
+
+  Negative prompt: No anime, CGI, plastic skin, beauty filters, robotic movement, impossible physics, floating objects, teleportation, distorted hands, extra fingers, duplicated children, face/outfit changes, excessive camera movement, commercial look, subtitles, logos or watermark.

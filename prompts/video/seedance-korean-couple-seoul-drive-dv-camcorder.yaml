@@ -1,0 +1,63 @@
+id: seedance-korean-couple-seoul-drive-dv-camcorder
+title:
+  en: Korean couple afternoon drive in DV camcorder style
+  zh: 韩国情侣午后兜风DV摄像机风格
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- dv-camcorder
+- couple
+- seoul
+- lo-fi-realism
+- native-audio
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2104776214066188611
+  credit: AIwithkhan
+  captured: '2026-10-28'
+  posted: '2026-09-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2104776214066188611
+notes:
+  en: Sections for characters, a beat by beat story, camera feel, audio, continuity and negatives keep a 30 second piece coherent. The DV look comes from named flaws like autofocus hunting, accidental zooms and exposure shifts, plus a built in microphone only soundscape with no music.
+  zh: prompt按人物、分段剧情、镜头质感、音频、连续性和负面词分区,让30秒内容保持连贯。DV质感来自具体的瑕疵描述,如对焦抖动、意外变焦和曝光波动,音频只用内置麦克风的环境声,不加音乐。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video of a young Korean couple going for a casual afternoon drive through Seoul. The footage should feel like a genuine memory recorded by a friend, imperfect and spontaneous rather than a polished commercial.
+
+  === CHARACTERS ===
+
+  GIRL: Young adult Korean woman in her early 20s, naturally beautiful, realistic skin, minimal makeup, long slightly wavy dark hair tied loosely with a few strands framing her face. Ll
+
+  BOYFRIEND: Young adult Korean man in his early 20s, natural hairstyle, realistic skin, relaxed expression, wearing a loose white T-shirt, dark jeans and white sneakers. Keep his appearance consistent.
+
+  === STORY ===
+
+  She waits outside her apartment building with a small shoulder bag, checking her phone and looking down the street. Her boyfriend arrives in an older compact car and smiles when he sees her. She opens the passenger door, gets inside and playfully looks toward the camera as if embarrassed about being filmed.
+
+  They drive slowly through an older Seoul neighborhood. She sits in the passenger seat with the window slightly open, enjoying the breeze while her hair moves naturally. Her boyfriend occasionally glances at her and smiles while keeping his attention on the road.
+
+  They stop at a small neighborhood convenience store. She gets out, buys two cold drinks and returns to the car. She hands one to her boyfriend, keeps the other for herself, and they laugh together before continuing the drive.
+
+  Later, they park near a quiet riverside road. They get out and walk beside the parked car, talking casually. She takes a sip of her drink, makes a playful expression at the taste, and he laughs. She lightly pushes his shoulder and they continue walking together.
+
+  A gentle breeze moves through her hair. He notices a strand across her face and gently moves it aside. She smiles and looks at him for a moment. They stand close together beside the car, sharing a quiet romantic moment.
+
+  Near the end, she looks toward the camera and laughs shyly, then turns back toward her boyfriend. He steps closer, she smiles, and they share a brief, natural kiss. They pull back, laugh softly and remain standing close together as the camera keeps recording.
+
+  The boyfriend looks toward the camera and jokingly shakes his head while she hides her face against his shoulder, laughing.
+
+  === CAMERA / DV FEEL ===
+
+  Raw early-2000s consumer DV camcorder footage. Handheld camera operated by a friend sitting in the back seat and later walking with them. Imperfect framing, subtle handheld shake, autofocus hunting, occasional exposure shifts, faded summer colors, soft digital detail, mild sensor noise, natural motion blur and occasional accidental zooms. No stabilization and no polished cinematic movement.
+
+  === AUDIO ===
+
+  Built-in camcorder microphone only. Car engine, road noise, turn signals, window breeze, distant Seoul traffic, convenience-store door chime, refrigerator hum, footsteps, birds, neighborhood voices, fabric movement and natural laughter. Their dialogue should feel casual and partially imperfect like a real home video. No music, no narration, no subtitles.
+
+  === REALISM / CONTINUITY ===
+
+  Keep the same couple, faces, hairstyles, outfits, accessories and car throughout. Natural Korean facial features, realistic hands and fingers, believable walking, sitting, driving and kissing. Hair and clothing react naturally to the breeze and movement. Genuine expressions rather than exaggerated acting.
+
+  === NEGATIVE ===
+
+  No cinematic commercial look, no gimbal shots, no drone shots, no dramatic lighting, no beauty filters, no plastic skin, no CGI appearance, no anime, no cartoon

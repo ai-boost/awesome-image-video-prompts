@@ -1,0 +1,43 @@
+id: seedance-dragon-roasts-turkey-medieval-cottage
+title:
+  en: Dragon Roasts a Turkey at Medieval Cottage
+  zh: 巨龙在中世纪村舍旁烤火鸡
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- fantasy
+- dragon
+- multi-shot
+- photorealistic
+- cinematic
+source:
+  name: '@Arzoo12sh on X'
+  url: https://x.com/Arzoo12sh/status/2113215535706198293
+  credit: Arzoo12sh
+  captured: '2026-10-28'
+  posted: '2026-10-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Arzoo12sh/status/2113215535706198293
+notes:
+  en: A six scene timeline with exact second ranges gives each shot its own action, from the wide establishing shot to the macro eye close-up and the sunset ending. A closing style block and a negative prompt keep the characters and fire consistent.
+  zh: 六个分镜都标明精确的秒数区间,每个镜头各有动作,从全景建立镜头到眼睛微距再到日落收尾。结尾的风格段和负面提示词让角色与火焰保持一致。
+prompt: |
+  **Prompt: The Dragon and the Roasted Turkey**
+
+  Create a 27-second photorealistic cinematic fantasy film set in a medieval countryside. A young woman wearing a simple cream-colored medieval dress stands outside a rustic stone cottage with a thatched roof. Beside her is a large pale pink and white dragon with detailed scales, golden reptilian eyes, and expressive facial movements.
+
+  **Scene 1 (0–5 seconds):** Wide establishing shot of the medieval cottage and grassy countryside. The woman holds a raw turkey on a long metal spit while the curious dragon leans forward, opens its mouth, and breathes a powerful stream of fire.
+
+  **Scene 2 (5–10 seconds):** The fire fills the frame, transitioning into a close-up of a rugged, dirt-covered young woman with messy blonde hair and an intense expression. Use dramatic lighting, realistic skin texture, and cinematic shallow depth of field.
+
+  **Scene 3 (10–15 seconds):** Cut back to the cottage. Several raw turkeys, fresh herbs, butter, and cooking ingredients are arranged on a rustic wooden table. The woman prepares the food while the dragon watches closely.
+
+  **Scene 4 (15–22 seconds):** Extreme close-up of the dragon breathing controlled blue flames toward the turkey on the metal spit. The turkey gradually transforms from raw to golden-brown, crispy roasted meat. Show realistic sizzling fat, detailed skin texture, subtle smoke, and the woman carefully rotating the spit.
+
+  **Scene 5 (22–25 seconds):** Macro close-up of the dragon's magnificent golden eye, followed by a cinematic shot of a knife slicing through the perfectly roasted turkey, revealing juicy meat and crispy skin.
+
+  **Scene 6 (25–27 seconds):** Warm sunset lighting. The dragon gently lowers its enormous head toward the woman, and she affectionately touches its snout. End with a beautiful fantasy-film composition.
+
+  **Visual style:** Ultra-photorealistic fantasy cinema, realistic dragon anatomy, highly detailed scales, natural human expressions, physically accurate fire simulation, volumetric smoke, cinematic camera movements, 35mm film look, shallow depth of field, natural countryside atmosphere, dramatic lighting, seamless transitions, consistent characters, 4K detail, 16:9 aspect ratio.
+
+  **Negative prompt:** Cartoon, anime, plastic textures, low resolution, distorted faces, extra limbs, inconsistent characters, flickering, unnatural fire, duplicate objects, text, subtitles, logos, watermarks.

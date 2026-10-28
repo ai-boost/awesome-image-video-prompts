@@ -1,0 +1,37 @@
+id: seedance-miniature-woman-convenience-store-adventure
+title:
+  en: Miniature woman races through giant convenience store
+  zh: 迷你女子在巨型便利店中飞奔冒险
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- miniature
+- macro
+- adventure
+- handheld
+- sfx
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2106397932304191969
+  credit: AIwithkhan
+  captured: '2026-10-28'
+  posted: '2026-10-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2106397932304191969
+notes:
+  en: A fixed character lock at 1:5 scale opens the prompt, followed by a chain of physical obstacles in order, from shelves to cart to freezer to sign. Macro tracking, foreground parallax, a closing pull back to show scale, a layered SFX list and a negative list against scale drift keep the result consistent.
+  zh: 开头先锁定角色与一比五的比例，再按顺序串联货架、购物车、冷柜、招牌等物理障碍。微距跟拍、前景视差、结尾拉远展示尺度，加上分层音效清单和防止比例漂移的负面词，让画面保持一致。
+prompt: |
+  STYLE: Photorealistic live-action miniature-person FX, cinematic macro photography, ultra-shallow depth of field, realistic convenience store, dynamic handheld camera, dramatic practical lighting, realistic physics, detailed textures, premium viral commercial aesthetic, 4K.
+
+  Create a 30-second cinematic adventure featuring one athletic miniature woman at approximately 1 : 5 scale. Maintain her exact face, hairstyle, outfit, body proportions, backpack, and scale throughout.
+
+  She races across towering snack shelves, jumping over oversized packages and gaps. A giant candy box falls, creating an avalanche of rolling candies that she uses as stepping stones before landing on a massive chocolate bar. She climbs a huge drink bottle, runs up its curved surface, jumps over the cap, and lands on a hanging promotional display. She then rides a moving shopping cart through checkout, dodging the scanner and jumping onto the conveyor belt. At the refrigerated section, she runs across frozen-food packages, slides beneath a closing freezer door, and swings onto the display using the handle. Finally, she climbs onto a giant store sign and looks across the enormous store filled with products and shoppers as the camera pulls back to reveal just how tiny she is.
+
+  Use dynamic macro tracking, dramatic low angles, smooth aerial-style movements, strong foreground parallax, realistic reflections, shadows, depth of field, product packaging, natural human movement, believable physics, seamless transitions, and cinematic lighting.
+
+  End with the cinematic title: “SMALL SCALE. BIG ADVENTURE.” followed by “EVERY AISLE IS A NEW WORLD.”
+
+  SFX: Footsteps, packaging crinkles, candy rattles, plastic flexing, cart wheels, scanner beeps, conveyor hum, freezer sounds, rushing air, and cinematic impact.
+
+  NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated character, face or outfit changes, distorted anatomy, floating, scale changes, narration, or subtitles.

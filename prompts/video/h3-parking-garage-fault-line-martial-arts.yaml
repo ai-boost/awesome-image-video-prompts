@@ -1,0 +1,62 @@
+id: h3-parking-garage-fault-line-martial-arts
+title:
+  en: Parking garage fight with cracking concrete
+  zh: 地下停车场格斗与地面裂纹
+model: MiniMax H3
+mode: text-to-video
+tags:
+- martial-arts
+- photorealistic
+- dialogue
+- one-take
+- action
+source:
+  name: '@chatgptpaglu on X'
+  url: https://x.com/chatgptpaglu/status/2104518897424548018
+  credit: yusra.
+  likes: 69
+  captured: '2026-10-28'
+  posted: '2026-09-28'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/chatgptpaglu/status/2104518897424548018
+notes:
+  en: A fixed header, a character lock and a ban on glow or magic effects keep the supernatural strength grounded in physical cracks. Four timed beats carry the Korean dialogue and a 0.2 second slow motion accent, and a realism lock plus handheld camera notes keep it documentary.
+  zh: 固定的开头参数、人物锁定和禁用光效魔法的限制,让超自然力量只表现为真实的地面裂纹。四个计时段落配上韩语台词和0.2秒微慢动作,再用写实锁定和手持镜头说明保持纪实感。
+prompt: |
+  15 sec | 16:9 | One continuous generation | Korean dialogue | No BGM | No subtitles
+
+  STYLE:
+  Ultra-photorealistic live-action AAA supernatural martial arts. Real actors, real environment, grounded physical VFX.
+
+  CHARACTER LOCK:
+  SO-YEON, 160cm, messy black hair, black hoodie, sweatpants, Converse. Natural skin texture, sweat, pores, micro-expressions. Same actress throughout. One human only.
+
+  LOCATION:
+  Nighttime underground parking garage. Wet concrete, fluorescent lights, concrete pillars, scooters, shopping carts, puddles, exposed pipes.
+
+  SOUND:
+  Korean dialogue, footsteps, breathing, impacts, metal rattling, fluorescent hum. No music.
+
+  COMBAT:
+  Unarmed Sanda + Muay Thai clinch + Silat. Continuous flow: evade → redirect → knee → elbow → sweep → pivot → throw. Six attackers engage simultaneously. Two bystanders react naturally.
+
+  FAULT-LINE PHYSICS:
+  Heavy foot plants and slams create realistic cracks from the exact impact point. Visible vibration, dust, debris movement. No glow, aura, particles, energy waves, speed trails, or magic.
+
+  00:00–03:00 — CORNERED
+  Six men surround So-Yeon beside a scooter. One grabs her hoodie. A delivery worker warns, "도망가요!" Terrified, So-Yeon whispers, "그만해..." The leader swings. She instinctively ducks.
+
+  03:00–07:00 — FIRST IMPACT
+  She catches his wrist, pivots, and knees his stomach. Her sneaker plants hard. A thin crack shoots across the wet concrete. The leader crashes into a shopping cart and knocks into two others. Everyone freezes. A thug shouts, "뭐야, 저년!" The remaining men rush her.
+
+  07:00–11:00 — CHAOS
+  She slips a punch and elbows one attacker into a pillar. Redirects another into a puddle. Sweeps a third to the ground. 0.2-second micro slow motion: cracks spread, water ripples, dust falls. Immediate speed return. Bystanders pull each other behind a parked car.
+
+  11:00–15:00 — THE LAST MAN
+  The final attacker grabs her from behind. She becomes completely still. Her foot plants hard. Concrete cracks sharply. She redirects and throws him onto a parking line. Dense fractures spread. The delivery worker cautiously asks, "괜찮아요?" She nods, still frightened, and walks away across the cracked concrete. Fluorescent lights flicker from the vibration.
+
+  CAMERA:
+  Close handheld pursuit, reactive movement, occasional wider shots during group combat. Low angles for impacts and fractures, natural focus hunting, slight operator mistakes. No impossible moves or heroic posing.
+
+  REALISM LOCK:
+  Attackers hesitate, collide, and react naturally. Bystanders panic and move. So-Yeon looks confused by her strength. Every piece of damage has a visible physical cause. No supernatural visual effects.

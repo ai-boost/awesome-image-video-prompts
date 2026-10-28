@@ -1,0 +1,33 @@
+id: seedance-subway-platform-martial-arts-fight
+title:
+  en: Woman Defeats Attacker on Subway Platform
+  zh: 地铁站台上女子击败袭击者
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- action
+- martial-arts
+- subway
+- multi-shot
+- character-consistency
+source:
+  name: '@Elvorya on X'
+  url: https://x.com/Elvorya/status/2104450675656835476
+  credit: Elvorya
+  captured: '2026-10-28'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Elvorya/status/2104450675656835476
+notes:
+  en: A chain of arrow-linked shot beats runs from medium shot through handheld fight coverage and a low-angle finisher to a follow-behind walk-away. Separate character consistency and negative prompt blocks keep both faces and outfits stable across the cuts.
+  zh: 用箭头串联的分镜节拍，从中景、手持打斗、低角度收招一直到跟拍离场。单独的角色一致性和负面提示词段落，让两个人物的面孔与服装在多次切镜中保持稳定。
+prompt: |
+  Create a 10-second cinematic action sequence set inside a gritty modern subway station, featuring a determined young woman confronting a larger male attacker on a wet underground platform. Maintain the same character appearance, facial features, body proportions, hairstyle, clothing, and accessories throughout the entire sequence.
+
+  Begin with a cinematic medium shot of the woman standing on the subway platform beside a stopped silver train, looking alert and focused as the male opponent approaches her from the side → transition into a sudden close-range confrontation as the man attempts to attack, while she quickly reacts and raises her arms defensively → cut into a dynamic action sequence as the woman delivers a powerful side kick toward the man's torso, with realistic body mechanics and believable impact → transition to fast handheld-style camera movement as both characters exchange rapid punches, blocks, dodges, and defensive movements across the platform → capture the woman's controlled fighting technique as she remains balanced and focused while the larger man struggles to keep up → cut to a dramatic low-angle shot as she delivers a final powerful strike, causing the man to lose his balance and fall heavily onto the wet platform → show him lying on the ground while the woman stands above him, breathing steadily and watching him cautiously → transition to a wider cinematic shot as she turns away and begins walking down the subway platform while the defeated man remains motionless in the foreground → final shot follows behind the woman as she walks away beside the stationary train, creating a stylish action-movie ending.
+
+  Visual style: high-end cinematic action filmmaking, realistic human movement, gritty underground subway atmosphere, wet reflective floor, dramatic overhead fluorescent lighting, realistic train details, natural clothing movement, subtle motion blur, dynamic handheld camera, low-angle action shots, fast cinematic cuts, believable martial-arts choreography, realistic impact physics, strong facial expressions, shallow depth of field, atmospheric urban tension, polished color grading, intense but grounded action tone.
+
+  Character consistency: preserve the woman's exact facial identity, hairstyle, body proportions, black outfit, and overall appearance throughout every shot. Preserve the man's appearance, clothing, hairstyle, and body proportions throughout the entire sequence. No character morphing or identity drift.
+
+  Negative prompt: distorted faces, changing faces, character morphing, extra limbs, missing limbs, extra fingers, broken hands, unnatural anatomy, floating bodies, unrealistic physics, cartoon movement, exaggerated CGI, duplicated characters, clothing changes, hairstyle changes, inconsistent characters, warped train, flickering background, excessive motion blur, text, subtitles, logos, watermark.

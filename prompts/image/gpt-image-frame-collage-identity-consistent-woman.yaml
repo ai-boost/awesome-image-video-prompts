@@ -1,0 +1,51 @@
+id: gpt-image-frame-collage-identity-consistent-woman
+title:
+  en: Woman posing across rustic wooden frames collage
+  zh: 女子在复古木相框中的多姿势拼贴
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- collage
+- identity-consistency
+- scrapbook
+- vintage-frames
+- editorial
+source:
+  name: '@Alina_with_Ai on X'
+  url: https://x.com/Alina_with_Ai/status/2102358953489481762
+  credit: Alina Ai
+  likes: 156
+  captured: '2026-10-28'
+  posted: '2026-09-22'
+notes:
+  en: A reference photo anchors identity, then a list of distinct expressions and poses fills each frame while a repeated consistency line and a negative list guard against drift. Warm studio light, props and hand drawn doodles with short speech bubbles give the scrapbook feel.
+  zh: 先用参考图锁定人物身份，再逐一列出每个相框的表情和姿势，并用重复的一致性要求和负面清单防止走样。暖色影棚光、道具和手绘涂鸦对话气泡营造出剪贴簿质感。
+prompt: |
+  Use the uploaded reference image as the identity and facial reference. Create a high-resolution photorealistic editorial collage of the same young woman, keeping her face, hairstyle, skin tone, body proportions, and overall appearance consistent in every frame.
+
+  A stylish young woman with long straight dark-brown hair, wearing a fitted royal-blue short-sleeve T-shirt, blue denim jeans, and clean white chunky sneakers. Create a playful vintage photography-wall composition where she appears multiple times inside and around several ornate rustic wooden picture frames arranged vertically and overlapping.
+
+  The central full-body version of the woman sits casually on the frames, one leg bent and the other extended downward, smiling confidently while making a peace/V sign with one hand. Surrounding frames contain different realistic versions of the same woman with different expressions and poses:
+
+  laughing with eyes closed
+
+  surprised expression with both hands on cheeks
+
+  smiling with hands forming a heart
+
+  taking a mirror-style selfie with a modern smartphone
+
+  happily raising both arms
+
+  playful wink and smile
+
+  cheerful candid expressions
+
+  Maintain perfect facial identity consistency across all versions.
+
+  Background: warm beige studio wall with a cozy retro photography-studio aesthetic. Add several vintage film cameras placed naturally on some of the frames. Surround the composition with hand-drawn doodles, small stars, red hearts, arrows, and playful speech bubbles containing short phrases such as “BEST DAY EVER!”, “OOPS!”, “SO HAPPY!”, “HAHA!”, “LOVE THIS!”, “LITTLE MOMENTS!”
+
+  Composition should feel like a creative Instagram editorial photoshoot / scrapbook collage, highly detailed, natural realistic skin texture, realistic hands and fingers, accurate anatomy, soft warm studio lighting, subtle shadows, cinematic photography, crisp focus, premium fashion editorial quality, photorealistic, ultra-detailed, 8K, vertical 4:5 composition.
+
+  Important: Keep the same person recognizable in every frame, consistent clothing and hairstyle, realistic proportions, no duplicated facial features, no distorted hands, no extra fingers, no warped limbs, no text errors.

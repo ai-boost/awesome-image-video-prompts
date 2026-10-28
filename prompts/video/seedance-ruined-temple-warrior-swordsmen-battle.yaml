@@ -1,0 +1,25 @@
+id: seedance-ruined-temple-warrior-swordsmen-battle
+title:
+  en: Female warrior fights swordsmen in ruined temple
+  zh: 女武者在破败古寺大战剑客
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- martial-arts
+- cinematic
+- temple
+- action
+- film-grain
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2112055308701053088
+  credit: aiwithaly
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2112055308701053088
+notes:
+  en: The prompt sets the genre reference first, then builds the set from specific debris and golden light shafts through dust. It lists the choreography beats and camera moves in order and ends on one clear final action, a spinning kick through an altar. Film grain, a colour grade and a sound line with no dialogue cover look and audio.
+  zh: 提示词先交代类型参照，再用具体的残骸和穿过灰尘的金色光束搭出场景。随后按顺序列出招式与镜头运动，并以旋踢击碎祭坛这一明确动作收尾。胶片颗粒、色调和无对白的声音描述补全了画面与音频。
+prompt: |
+  A 15-second ultra-realistic cinematic martial arts battle inspired by classic Hong Kong action cinema. A fearless female warrior dressed in black and white faces deadly swordsmen inside a ruined ancient temple. Broken Buddha statues, shattered roof tiles, collapsed wooden beams, and dusty stone pillars create a dramatic battlefield. Golden sunlight cuts through the damaged roof, illuminating floating dust particles in a moody amber atmosphere. Lightning-fast punches, powerful spinning kicks, precise sword deflections, sweeping leg attacks, and breathtaking airborne qinggong maneuvers unfold in seamless, high-intensity choreography. Every impact releases clouds of white dust, clashing weapons spark, and enemies crash into ancient pillars and wooden altars. Dynamic handheld tracking shots, rapid lateral movements, dramatic orbital camera angles, realistic body mechanics, flowing robes, and authentic facial skin textures enhance the immersion. Vintage 35mm film grain, deep sepia shadows, warm golden highlights, natural side lighting, and rich cinematic contrast recreate the timeless aesthetic of classic martial arts films. The warrior finishes with a powerful spinning kick, shattering an altar before landing gracefully in a fearless fighting stance. Photorealistic, intense, immersive, ultra-detailed cinematic action with traditional percussion, realistic combat sound effects, and no dialogue or on-screen text.

@@ -1,0 +1,50 @@
+id: seedance-spy-factory-fight-15-seconds
+title:
+  en: Spy Fights Through Burning Factory in 15 Seconds
+  zh: 特工在着火工厂里十五秒打斗
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- action
+- spy
+- fight-choreography
+- handheld
+- vertical
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2092873962640519385
+  credit: Xaroon_x
+  captured: '2026-10-28'
+  posted: '2026-08-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2092873962640519385
+notes:
+  en: An identity lock on a reference image opens the prompt, then timed beats for 0 to 4, 4 to 7, 7 to 10, 10 to 13 and 13 to 15 seconds each give one action and one camera move. Separate camera, lighting, physics and negative prompt blocks keep the handheld realism steady.
+  zh: 开头先用参考图锁定人物身份，再按0到4、4到7、7到10、10到13、13到15秒分段，每段只写一个动作和一种运镜。镜头、光线、物理和负面提示各自成段，让手持写实感保持稳定。
+prompt: |
+  REFERENCE / IDENTITY LOCK
+  Use Reference Image 1 as the exact identity lock for the adult male spy. Preserve identical face, facial proportions, black hairstyle, skin tone, physique, outfit and accessories throughout. No identity or wardrobe changes.
+
+  15-SECOND CINEMATIC ACTION — 24FPS, REAL-TIME
+  Photorealistic Hollywood spy-action, ARRI Alexa Mini, 27mm spherical lens, 4K, 24fps, realistic physics, sharp cinematic film grain, aggressive handheld camera, dynamic tracking, whip-pans, low-angle combat shots and realistic motion blur. 9:16 vertical.
+
+  ENVIRONMENT
+  Continue inside the same oil-soaked industrial factory. Thick smoke, flickering cyan-white fluorescent lights, sparks, steam bursts, broken glass, damaged machinery, oil-covered concrete, fallen enemies, barrels, conveyor belts, steel columns, overhead crane and elevated platforms. Maintain perfect continuity.
+
+  0–4 SEC: Immediately after the final gunshot, two armed reinforcements burst through a steel security door while another enemy rappels from an overhead crane. The spy instantly sprints forward, steps onto a fallen crate and launches into a flying side kick, crushing Enemy 6 into the steel door. He seamlessly follows with a spinning tornado kick, knocking Enemy 7 from the rappel line into stacked barrels.
+
+  4–7 SEC: Enemy 8 opens automatic fire. The spy rolls underneath the gunfire, draws a combat knife with his left hand, slashes the weapon arm and disarms him. He traps the wrist, pivots with precise Kung Fu footwork, throws Enemy 8 over his shoulder and finishes with a powerful downward axe kick.
+
+  7–10 SEC: Warning alarms activate as a heavily armored operative with a ballistic shield charges. The spy sprints toward him, rebounds from a steel column, performs a short wall-run and launches an aerial bicycle kick, knocking the shield upward. He lands behind the operative, executes a rapid arm lock, elbows, knees and spinning back kick, sending him through a steel railing onto the lower floor.
+
+  10–13 SEC: Enemies on elevated platforms open fire. The spy dives behind a moving conveyor, slides underneath it and fires four rapid tactical shots through narrow openings, eliminating two attackers. He emerges, grabs a hanging industrial chain, swings across a machinery gap and launches a flying double-foot kick into the final attacker, smashing him through reinforced safety glass.
+
+  13–15 SEC: The spy lands in a controlled three-point stance. Red emergency lights replace the fluorescent lighting. A massive fuel pipeline ruptures behind him, creating a realistic towering wall of fire. Without looking back, he calmly turns toward a dark industrial corridor. Brief cinematic push-in, then hard cut to black at 15 seconds.
+
+  CAMERA / LIGHTING: Aggressive handheld shaky-cam, fast dolly tracking, rapid whip-pans, dynamic low angles, close over-the-shoulder shots, realistic camera inertia. Cyan-white industrial lighting transitions into flashing red emergency lights and realistic orange fire illumination. Dense smoke, sparks, steam, muzzle flashes and realistic debris.
+
+  PHYSICS: Grounded Kung Fu choreography, realistic human weight, momentum, impacts and ragdoll behavior. No wire-fu or superhero movement. Weapons and bodies remain physically consistent.
+
+  NEGATIVE PROMPT: No slow motion, time-lapse, bullet-time, dreamy effects, superhero movement, unrealistic physics, exaggerated wire-fu, impossible parkour, poor anatomy, distorted face, identity changes, wardrobe changes, CGI artifacts, jitter, ghosting, duplicated limbs, weapon clipping, teleportation, unrealistic explosions, fake glass destruction, continuity errors or video-game movement.
+
+  FINAL: 15 seconds, 9:16, 24fps, 4K, photorealistic Hollywood action, cinematic realism, sharp film grain.

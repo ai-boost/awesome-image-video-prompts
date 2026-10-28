@@ -1,0 +1,26 @@
+id: h3-bangkok-street-food-pad-thai-travel-vlog
+title:
+  en: Bangkok street market Pad Thai travel vlog
+  zh: 曼谷街头市场泰式炒河粉旅行vlog
+model: MiniMax H3
+mode: text-to-video
+tags:
+- travel-vlog
+- street-food
+- handheld
+- lip-sync
+- photorealistic
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2085233880353915217
+  credit: Nawal
+  likes: 198
+  captured: '2026-10-28'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/nawalsehar/status/2085233880353915217
+notes:
+  en: 'The prompt lays the 15 second vlog out as a sequence of beats: market walk, chef cooking, close-ups, tasting reaction. It adds handheld realism, a cinema camera look, natural lip-sync and street sound cues, and ends with no text, no logos.'
+  zh: 提示词把15秒vlog拆成一串镜头节拍：逛市场、大厨烹饪、食物特写、试吃反应。再加上手持真实感、电影机质感、自然对口型和街头环境音，并以不要文字、不要标志收尾。
+prompt: |
+  A cinematic 15-second ultra-realistic travel vlog following a young female creator exploring Bangkok's vibrant street food scene. She walks through a lively daytime market, introduces the legendary Pad Thai, watches a skilled street chef prepare the dish with fresh ingredients, and captures detailed close-ups of sizzling noodles, colorful toppings, and authentic cooking moments. She tastes the freshly made Pad Thai and shares her genuine reaction while surrounded by the energy of local vendors and travelers. Handheld vlog realism, natural lip-sync, expressive emotions, cinematic food close-ups, realistic market atmosphere, bright tropical daylight, ARRI Alexa 35 aesthetic, HDR, immersive street sounds, premium travel documentary style, 4K photorealistic quality, seamless character consistency, no text, no logos.

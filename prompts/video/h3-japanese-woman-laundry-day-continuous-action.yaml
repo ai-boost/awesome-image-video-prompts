@@ -1,0 +1,26 @@
+id: h3-japanese-woman-laundry-day-continuous-action
+title:
+  en: Woman Carries Laundry Basket Through Bedroom
+  zh: 女子端着洗衣篮穿过卧室
+model: MiniMax H3
+mode: text-to-video
+tags:
+- lifestyle
+- photorealistic
+- handheld
+- continuous-action
+- japanese
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2091749172361978149
+  credit: Ali
+  likes: 217
+  captured: '2026-10-28'
+  posted: '2026-08-24'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aiwithaly/status/2091749172361978149
+notes:
+  en: The prompt walks through one continuous chain of physical actions, from sorting to washing, hanging and folding, so the model keeps a single character and location. A closing list of realism terms and negatives (handheld camera, fabric behavior, no teleportation, no floating objects) keeps the motion believable.
+  zh: 提示词把分拣、洗涤、晾晒、折叠写成一条连续的动作链，让模型保持同一人物和场景。结尾用手持镜头、布料物理等写实词和禁止瞬移、悬浮物等否定项约束动作，使画面可信。
+prompt: |
+  A young Japanese woman carries a full laundry basket from her bedroom to a small laundry area, kneels down, and actively sorts white and dark clothes into separate piles. She then picks up the laundry, walks several steps to the washing machine, loads the clothes one by one, closes the door, and starts the machine. The scene transitions to her walking onto the balcony with freshly washed laundry, placing the basket down, shaking out a wet white shirt, putting it on a hanger, and hanging it on the drying rack as a gentle breeze moves the clothes naturally. After the clothes dry, she walks back inside carrying a stack of laundry, places it on a table, and actively folds a T-shirt by shaking it open, folding the sleeves inward, folding it in half, and placing it onto the stack before starting the next garment. Photorealistic Japanese lifestyle video, natural handheld camera, realistic household physics, authentic walking and body movement, natural fabric behavior, realistic washing-machine motion, subtle wind, continuous action, neutral morning daylight, consistent character and environment, seamless transitions, no static posing, no teleportation, no floating objects, no distorted hands, no CGI appearance, no text overlays, logos, or watermarks.

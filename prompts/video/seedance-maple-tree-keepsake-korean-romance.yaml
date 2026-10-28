@@ -1,0 +1,247 @@
+id: seedance-maple-tree-keepsake-korean-romance
+title:
+  en: Elderly Korean woman opens a keepsake box in autumn
+  zh: 韩国老奶奶在秋日窗边打开旧物盒
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- 3d-animation
+- korean-romance
+- autumn
+- flashback
+- multi-scene
+source:
+  name: '@JuliaClarky on X'
+  url: https://x.com/JuliaClarky/status/2112763209836835000
+  credit: JuliaClarky
+  captured: '2026-10-28'
+  posted: '2026-10-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/JuliaClarky/status/2112763209836835000
+notes:
+  en: A fixed character sheet for the older and younger versions is written first to hold consistency, then timed scenes with their own camera, animation and lighting lines. A photograph push in serves as the transition into the flashback, and a negative list steers the look away from anime and plastic 3D.
+  zh: 先写好老年和青年两个版本的固定角色设定来保持一致，再按时间分段，每段单独写镜头、动画和光线。用推近老照片作为进入回忆的转场，并用排除清单避开动漫感和塑料感的三维质感。
+prompt: |
+  Duration: 20 seconds | Cinematic 3D Animation | Korean Romance | Autumn Nostalgia | 16:9
+  ANIMATION STYLE AND VISUAL DIRECTION
+  Create a stunning, high-quality cinematic 3D animated short film set in South Korea. Use sophisticated character animation, beautifully detailed environments, realistic fabric textures, expressive faces, delicate lighting, and fluid natural movements.
+  The visual style should combine the charm of a beautifully animated romantic film with the emotional depth and cinematic composition of a nostalgic Korean love story.
+  Characters should have elegant, attractive facial features, expressive eyes, beautifully animated hair, and subtly stylized proportions while maintaining believable anatomy. Skin, knitted fabric, wood, falling leaves, and lighting should have rich, detailed textures.
+
+  Use warm autumn colors, golden sunlight, burgundy-red accents, soft atmospheric depth, delicate depth of field, and subtle film grain.
+
+  Important: This is a fully animated 3D film, not live-action. Avoid flat 2D animation, exaggerated cartoon proportions, childish character designs, anime styling, or plastic-looking 3D characters.
+
+  CHARACTER DESIGN AND CONTINUITY
+
+  THE ELDERLY WOMAN — PRESENT DAY
+
+  A graceful, exceptionally beautiful 72-year-old Korean woman with delicate facial features, expressive dark eyes, elegant silver-black hair tied loosely at the back, and naturally detailed age lines.
+
+  Her face should communicate kindness, wisdom, warmth, and a lifetime of beautiful memories. Her wrinkles should be delicately rendered rather than exaggerated. Give her a gentle smile and expressive eyes that can communicate happiness and nostalgia without dialogue.
+
+  She wears a vintage cream knitted cardigan over a muted-brown dress.
+
+  Her home is an old, cozy Korean wooden house featuring traditional wooden windows, faded curtains, aged furniture, a small wooden cabinet, an old analogue clock, and warm afternoon sunlight streaming inside.
+
+  On a wooden table sits an old keepsake box containing a faded photograph and a carefully preserved deep-red knitted scarf.
+
+  THE YOUNG WOMAN — 1998 FLASHBACK
+
+  The exact same character at 23 years old.
+
+  She is exceptionally beautiful, with delicate Korean facial features, large expressive dark eyes, smooth skin, long glossy black hair with soft bangs, and a naturally charming smile.
+
+  Her character design should feel elegant, romantic, and timeless, with subtle stylization, detailed hair strands, expressive facial animation, and graceful movements.
+
+  She wears a vintage cream wool coat, an ivory blouse, a dark pleated skirt, and a beautiful deep-red knitted scarf given to her by her first love.
+
+  The scarf must have detailed wool fibers, visible knitted patterns, soft folds, and natural movement.
+
+  THE BOYFRIEND — 1998 FLASHBACK
+
+  An exceptionally handsome 25-year-old Korean man with expressive dark eyes, a naturally defined jawline, thick black hair styled in a classic late-1990s Korean fashion, and a warm, sincere smile.
+
+  He wears a charcoal wool overcoat, a cream knitted sweater, dark trousers, and vintage leather shoes.
+
+  His animated expressions should be subtle and believable. His smile should feel shy, affectionate, and genuine.
+
+  Both characters must remain visually consistent throughout the flashback, with matching facial features, hairstyles, clothing, and proportions.
+
+  SCENE 1 — THE KEEPSAKE
+
+  TIME: 0–5 SECONDS
+
+  Inside a cozy old Korean wooden house, golden autumn sunlight streams through faded curtains.
+
+  Outside the window, red, amber, and golden maple leaves drift gently through the air.
+
+  The elderly woman sits beside a wooden table and slowly opens an old wooden keepsake box.
+
+  Inside is a faded photograph of her younger self standing beside a handsome young Korean man beneath a maple tree.
+
+  A deep-red knitted scarf rests carefully beneath the photograph.
+
+  She gently lifts the scarf with both hands. Her fingers softly move across its knitted texture.
+
+  A small, affectionate smile appears on her face. Her eyes glisten with a subtle tear as she remembers her first love.
+
+  Her expression is peaceful, happy, and filled with gratitude.
+
+  CAMERA: Slow cinematic push-in, beginning with a medium shot of the woman before moving into detailed close-ups of her hands, the red scarf, and the faded photograph.
+
+  ANIMATION DETAILS: Subtle hand movements, natural blinking, gentle breathing, delicate facial expressions, and softly moving curtains.
+
+  LIGHTING: Warm amber sunlight, soft shadows, beautiful highlights on the knitted wool, and realistic light bouncing off the wooden furniture.
+
+  SCENE 2 — A HAPPY MEMORY
+
+  TIME: 5–10 SECONDS
+
+  The camera slowly moves toward the old photograph.
+
+  The photograph fills the screen, and its image gradually transforms into a living, animated memory.
+
+  Suddenly, we are transported to autumn 1998.
+
+  A beautiful young Korean woman stands beneath a magnificent maple tree in a peaceful university garden. Golden leaves float around her as a gentle breeze moves her long black hair.
+
+  She wears her cream wool coat and the deep-red knitted scarf.
+
+  Her exceptionally handsome boyfriend approaches, carrying a small paper bag from an old-fashioned Korean bakery.
+
+  He smiles shyly and gently adjusts the scarf around her neck.
+
+  She looks up at him and laughs softly.
+
+  He brushes a loose strand of hair away from her face. They exchange a warm, affectionate smile.
+
+  Their expressions should communicate the excitement and tenderness of young love.
+
+  VISUAL EFFECT: A dreamy, softly glowing atmosphere with delicate floating leaves, gentle sunlight filtering through the maple canopy, subtle depth of field, and beautifully rendered autumn colors.
+
+  The memory should feel warm, happy, and precious, as though the elderly woman is reliving her favorite moment.
+
+  CAMERA: Gentle tracking movement, intimate close-ups, and graceful transitions between their expressions.
+
+  SCENE 3 — THEIR LITTLE WORLD
+
+  TIME: 10–15 SECONDS
+
+  The young couple walks along an old stone pathway covered in colorful fallen maple leaves.
+
+  The young man playfully steps on a dry leaf, making it crackle.
+
+  The woman laughs and lightly taps his arm.
+
+  He reaches for her hand. Their fingers gently interlock.
+
+  She looks at him with a playful smile before resting her head briefly against his shoulder.
+
+  They stop beneath the magnificent maple tree.
+
+  He gently adjusts the deep-red scarf around her neck and looks into her eyes.
+
+  BOYFRIEND — NATURAL KOREAN DIALOGUE:
+
+  "너한테 잘 어울려."
+
+  ENGLISH SUBTITLE:
+
+  "It looks beautiful on you."
+
+  The woman smiles shyly, lowers her eyes, and then looks back at him.
+
+  GIRL — NATURAL KOREAN DIALOGUE:
+
+  "정말?"
+
+  ENGLISH SUBTITLE:
+
+  "Really?"
+
+  He nods and smiles warmly.
+
+  She laughs softly.
+
+  A few maple leaves float between them as they continue looking at each other.
+
+  ANIMATION DETAILS: Fluid body movement, natural eye contact, subtle smiles, gentle hair movement, realistic scarf physics, and leaves responding naturally to the breeze.
+
+  The scene should feel intimate, playful, innocent, and genuinely happy.
+
+  SCENE 4 — THE MEMORY SHE KEPT
+
+  TIME: 15–20 SECONDS
+
+  A close-up of the young woman's joyful smile.
+
+  The image softly dissolves back into the present day.
+
+  The elderly woman sits beside the window in her wooden home, holding the same deep-red scarf against her chest.
+
+  She smiles tenderly at the photograph.
+
+  Her eyes glisten with nostalgic tears, but she does not look heartbroken. Instead, she looks peaceful and grateful to have experienced such beautiful love.
+
+  She carefully places the scarf beside the photograph and gently smooths its folded edge.
+
+  Outside the window, a golden maple leaf floats past.
+
+  She looks toward the autumn trees and whispers in Korean:
+
+  "행복했어… 정말."
+
+  ENGLISH SUBTITLE:
+
+  "I was happy… truly."
+
+  FINAL SHOT
+
+  A beautifully composed close-up of the faded photograph beside the preserved red scarf.
+
+  Warm sunlight falls across the wooden table. Tiny dust particles drift through the light.
+
+  The camera slowly pulls backward, revealing the peaceful room as golden leaves move beyond the window.
+
+  Fade to black.
+
+  FINAL TEXT:
+
+  "Some memories never grow old."
+
+  The text appears elegantly in the center of the screen, accompanied by a final gentle piano note.
+
+  CINEMATIC ANIMATION AND LIGHTING
+
+  High-end cinematic 3D animation with beautifully detailed character models, expressive facial animation, natural movement, realistic cloth simulation, detailed knitted fabric, individual hair strands, atmospheric lighting, and richly textured environments.
+
+  Use a warm autumn palette of amber, muted gold, burgundy, cream, and soft brown.
+
+  The present-day scenes should feel intimate, peaceful, and softly illuminated.
+
+  The flashback should feel brighter, warmer, and slightly dreamy, with delicate glowing sunlight and floating maple leaves.
+
+  Use smooth camera movement, cinematic composition, subtle depth of field, soft volumetric lighting, and gentle transitions.
+
+  Maintain consistent character identities and preserve the exact same deep-red scarf throughout the entire film.
+
+  AUDIO AND SUBTITLES
+
+  Soft nostalgic piano blended with gentle acoustic guitar.
+
+  Include delicate autumn ambience, rustling leaves, quiet footsteps, and subtle knitted-fabric sounds.
+
+  The Korean dialogue must sound natural, softly spoken, and emotionally authentic.
+
+  Display accurate English subtitles synchronized with the Korean dialogue. Use small, elegant white text with a subtle dark outline at the bottom of the frame.
+
+  No English voice-over.
+
+  NEGATIVE PROMPT
+
+  Flat 2D animation, childish cartoon style, exaggerated anime eyes, chibi characters, overly exaggerated facial expressions, plastic-looking skin, uncanny faces, distorted anatomy, inconsistent character designs, changing hairstyles, changing clothing, changing scarf color, unrealistic scarf physics, poorly animated hands, extra fingers, stiff movements, unnatural walking, excessive crying, horror atmosphere, dark depressing lighting, oversaturated colors, excessive blur, modern objects in the 1998 flashback, incorrect Korean subtitles, random text, logos, and watermarks.
+
+  FINAL OUTPUT
+
+  20-second cinematic 3D animated short film, 16:9 aspect ratio, 24 fps, high-quality rendering, beautiful original Korean character designs, detailed environments, smooth character animation, realistic cloth simulation, warm autumn lighting, seamless flashback transitions, expressive storytelling, and a deeply nostalgic yet happy romantic atmosphere.

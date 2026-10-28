@@ -1,0 +1,63 @@
+id: seedance-noir-rooftop-heist-35-shot-timeline
+title:
+  en: Noir rooftop heist in thirty five shots
+  zh: 三十五镜头的黑色电影屋顶劫案
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- multi-shot
+- noir
+- heist
+- timeline
+- character-consistency
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2100181300049232193
+  credit: doctorwasif
+  captured: '2026-10-28'
+  posted: '2026-09-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2100181300049232193
+notes:
+  en: A numbered timeline gives every shot its own second range, so the 30 second runtime is split into short, controllable beats. A reference image locks the lead character's face and outfit, and a closing style line fixes the neon noir look, the physics and the no dialogue rule.
+  zh: 用带编号的时间轴给每个镜头单独划定秒数，把30秒拆成短而可控的节拍。参考图锁定主角的脸和服装，结尾的风格行统一霓虹黑色电影的画面、物理表现和无对白要求。
+prompt: |
+  35-shot, 30-second cinematic noir rooftop heist. Keep Character A’s face, outfit, and appearance identical to the reference image. Sleek tactical gear, neon-lit city, tense professional choreography, realistic cinematic lighting, sharp cuts, no dialogue.
+
+  1. 0.0–1.0s: A crouches on a rooftop ledge at night, checks wrist device, neon skyline behind.
+  2. 1.0–1.6s: Extreme close-up of her eyes scanning the opposite building, neon reflections.
+  3. 1.6–2.2s: Teammate mechanically checks a grappling-hook launcher.
+  4. 2.2–2.8s: Wide neon city skyline establishing shot.
+  5. 2.8–3.4s: Two teammates exchange a precise silent hand signal.
+  6. 3.4–4.0s: A fires grappling hook across the gap; cable snaps taut.
+  7. 4.0–4.6s: Teammate checks a countdown timer.
+  8. 4.6–5.4s: A launches across the gap, city lights streaking below.
+  9. 5.4–6.0s: She lands silently, rolls, and immediately readies herself.
+  10. 6.0–6.6s: Security camera pans while team freezes in shadows.
+  11. 6.6–7.2s: Camera passes; teammate exhales in brief relief.
+  12. 7.2–7.8s: Three teammates synchronize watches and countdown gestures.
+  13. 7.8–8.6s: Team crosses rooftop in perfect formation, silhouetted against neon.
+  14. 8.6–9.2s: Gloved hands bypass a keypad with a decoding device.
+  15. 9.2–9.8s: Access panel opens; teammate silently signals success.
+  16. 9.8–10.6s: Team descends through rooftop hatch into a dark maintenance corridor.
+  17. 10.6–11.4s: Security guard patrols below, unaware; team hides above stairwell.
+  18. 11.4–12.2s: A signals “wait,” tracking the guard through railing.
+  19. 12.2–13.0s: Guard turns away; team swiftly moves past.
+  20. 13.0–13.8s: Team reaches a reinforced metallic vault door.
+  21. 13.8–14.6s: Decoding device attaches to vault lock; numbers cycle rapidly.
+  22. 14.6–15.6s: Close-ups of tense faces and countdown timer.
+  23. 15.6–16.6s: A guards the corridor, alert and weapon-free.
+  24. 16.6–17.6s: Decoder numbers slow toward final combination.
+  25. 17.6–18.8s: Slow motion: final digit locks; vault mechanisms release.
+  26. 18.8–20.0s: Slow motion: massive vault door opens, dramatic light spills out.
+  27. 20.0–21.0s: Team exchanges a restrained, silent look of triumph.
+  28. 21.0–22.0s: Wide reveal of sleek high-value contents inside vault.
+  29. 22.0–23.0s: A checks corridor again, maintaining vigilance.
+  30. 23.0–24.0s: Team efficiently secures the objective.
+  31. 24.0–25.2s: Distant alarm begins; team instantly shifts into calm exit mode.
+  32. 25.2–26.4s: Team retreats through rooftop access hatch.
+  33. 26.4–27.6s: A briefly looks back at the building, neon reflected in her eyes.
+  34. 27.6–28.8s: Team rappels down the exterior toward a waiting vehicle.
+  35. 28.8–30.0s: Wide final shot: vehicle speeds through neon city streets as rooftop lights fade behind, cinematic noir heist ending.
+
+  Style: high-end cinematic action thriller, realistic tactical movement, neon noir, dramatic contrast, atmospheric night lighting, dynamic camera work, precise choreography, seamless continuity, realistic physics, restrained professional emotion, no dialogue.

@@ -1,0 +1,31 @@
+id: seedance-golden-hour-lot-fight-sequence
+title:
+  en: Golden hour parking lot fight between two women
+  zh: 黄金时刻停车场里的两人格斗
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- action
+- fight-scene
+- golden-hour
+- photorealistic
+- multi-shot
+source:
+  name: '@Elvorya on X'
+  url: https://x.com/Elvorya/status/2101147922251579718
+  credit: Elvorya
+  captured: '2026-10-28'
+  posted: '2026-09-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Elvorya/status/2101147922251579718
+notes:
+  en: The prompt chains shots with arrows, giving each a camera angle and one action beat, from over the shoulder opener to flying kick, fall and selfie style closer. A long visual style list plus a negative prompt keeps the look photoreal and the character consistent.
+  zh: 提示词用箭头串起各个镜头，每个镜头只写一个机位和一个动作节点，从过肩开场到飞踢、倒地，再到自拍式收尾。末尾的长串画面风格词和负面提示词让画面保持写实、人物前后一致。
+prompt: |
+  Create a 15-second photorealistic cinematic action sequence featuring a stylish blonde woman in a black blazer, white fitted top, and black pants, fighting another blonde woman in an industrial urban parking/loading area during golden-hour sunset.
+
+  Begin with a dynamic over-the-shoulder shot of the main woman standing in an empty concrete industrial lot as another woman approaches rapidly in the background → cut into an extreme close-up side angle as the opponent throws a powerful punch toward her face, with the camera moving alongside the action and her blonde hair flowing dramatically in the wind → transition into a wide low-angle shot showing the main woman reacting and engaging in hand-to-hand combat → she performs a fast evasive movement and powerful spinning kick while the opponent attacks → cut to a low-angle tracking shot as both women exchange rapid punches and defensive movements beside a large industrial roller door and stacked cardboard boxes → show the main woman delivering a dramatic flying kick, captured with cinematic motion blur → transition into a wider shot as the opponent falls hard onto the concrete ground → the main woman slowly walks toward the camera while the fallen opponent remains in the background → final shot becomes an intimate handheld close-up/selfie-style shot of the main woman looking directly toward the camera, touching her hair/forehead with one hand and giving a calm, confident expression.
+
+  Visual style: photorealistic Hollywood action cinematography, realistic human anatomy, believable martial-arts choreography, natural facial expressions, realistic skin texture, detailed blonde hair movement, black-and-white fitted clothing, industrial warehouse exterior, concrete pavement, warm golden-hour sunlight, long shadows, dramatic backlighting, subtle lens flare, shallow depth of field, cinematic motion blur, dynamic handheld camera, low-angle action shots, smooth rapid transitions, realistic physics, energetic pacing, high-detail 4K cinematic look, cohesive character appearance throughout.
+
+  Negative prompt: animation, cartoon, anime, CGI appearance, unrealistic physics, distorted faces, extra fingers, malformed hands, duplicated people, warped limbs, floating objects, excessive motion blur, unnatural poses, gore, blood, subtitles, text, logos, watermark.

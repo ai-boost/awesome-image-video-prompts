@@ -1,0 +1,31 @@
+id: h3-arctic-base-fps-gameplay
+title:
+  en: First person Arctic military base shooter gameplay
+  zh: 第一人称北极军事基地射击游戏画面
+model: MiniMax H3
+mode: image-to-video
+tags:
+- fps
+- game-footage
+- arctic
+- first-person
+- photorealistic
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2084338573210157293
+  credit: LudovicCreator
+  likes: 69
+  captured: '2026-10-28'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/LudovicCreator/status/2084338573210157293
+notes:
+  en: The prompt splits into Camera, Lighting and Camera movement blocks and describes player behavior such as scanning, taking cover, firing short bursts and advancing. Specific details like recoil, weapon bobbing and frozen breath make a still game frame read as live gameplay.
+  zh: 提示词分成镜头、光线、镜头运动三段，并写出玩家行为：扫视、找掩体、短点射、继续推进。后坐力、枪身晃动、呼出的白气等具体细节让一张游戏静帧动起来像真实实机画面。
+prompt: |
+  Camera: First-person, eye level, handheld gameplay. Simulate a player operating a modern military FPS while holding a frost-covered assault rifle and cautiously advancing through a remote Arctic military installation. Move forward across an icy service road between snowbanks, radar stations and frozen cargo containers, periodically scanning rooftops, watchtowers and mountain ridgelines. Sweep the reticle naturally across possible threats, briefly stop behind cover to fire several controlled bursts toward a distant enemy near the radar dome, then continue advancing deeper into the frozen base like authentic player-controlled gameplay.
+
+  Lighting: Cold Arctic daylight with soft overcast skies and pale winter sunlight reflecting across ice and snow. Blend crisp blue ambient light with warm floodlights from the base, vehicle headlights, subtle smoke drifting from generators, blowing snow, frozen breath, and atmospheric ice particles. Maintain ultra-photorealistic AAA rendering with highly detailed weapon materials, realistic snow deformation, wet ice reflections, volumetric fog, and cinematic environmental depth.
+
+  Camera movement: Natural player-controlled movement with subtle handheld sway while walking across uneven frozen terrain. Perform small tactical checks left and right, briefly aim down the central lane, add realistic recoil and muzzle flash while firing short bursts, then smoothly recover and continue pushing forward. Include slight weapon bobbing, responsive aim corrections, natural acceleration and deceleration, and authentic FPS movement throughout, preserving the immersive feel of high-end modern military gameplay.
+  2/2

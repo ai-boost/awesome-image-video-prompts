@@ -1,0 +1,67 @@
+id: h3-stand-up-comedy-club-multicam-special
+title:
+  en: Stand-up comedian in a multi-camera club special
+  zh: 多机位喜剧俱乐部脱口秀专场
+model: MiniMax H3
+mode: text-to-video
+tags:
+- stand-up-comedy
+- multi-camera
+- dialogue
+- audience-reaction
+- timed-shots
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2087208466264076759
+  credit: Amira Zairi
+  likes: 91
+  captured: '2026-10-28'
+  posted: '2026-08-11'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/azed_ai/status/2087208466264076759
+notes:
+  en: The prompt splits 15 seconds into five timed shots, each with a named camera move, a spoken line and an audience cue. Production rules such as never cutting during a punchline and laughter only after the line lands keep the timing believable.
+  zh: 提示词把15秒拆成五个带时间码的镜头，每段写明景别、台词和观众反应。制作规则如笑点期间不切镜、笑声只在包袱落地后响起，让喜剧节奏更可信。
+prompt: |
+  Style: Live stand-up comedy special, intimate comedy club, professional multi-camera production, warm stage lighting, packed audience around small tables, sharp HD broadcast look, natural facial expressions, authentic comedic timing, clean microphone audio, realistic audience reactions, subtle handheld audience camera, 15-second video, 5 cinematic cuts
+
+  0–3s: [Wide Establishing → Medium Push-In]
+  A comedian stands center stage holding a microphone as the audience settles. The comedian smiles and says:
+
+  Comedian: “I asked AI to organize my life yesterday”
+
+  Brief beat
+
+  3–6s: [Medium Close-Up]
+  The comedian maintains a completely serious expression
+
+  Comedian: “It looked at my schedule and said, ‘Actually... I’m just a language model.’”
+
+  Audience immediately laughs
+
+  6–9s: [Side Angle + Audience Reaction]
+  The comedian waits for the laughter, then slowly nods
+
+  Comedian: “Even artificial intelligence has boundaries”
+
+  Quick cut to the front row laughing and clapping
+
+  9–12s: [Tight Close-Up]
+  The comedian leans toward the microphone
+
+  Comedian: “My mom thinks AI is listening to everything we say”
+
+  Beat
+
+  Comedian: “Mom... nobody wants that podcast”
+
+  Audience erupts into louder laughter
+
+  12–15s: [Medium → Wide Ending]
+  The comedian waits for silence, then delivers the final line:
+
+  Comedian: “AI isn't replacing us. It saw our search history and declined the position”
+
+  Big audience laugh. The comedian smiles and lowers the microphone as the camera pulls out to reveal the applauding club
+
+  Production details: Keep the same comedian, outfit, microphone, stage and audience throughout. Prioritize precise comedic timing, short pauses before punchlines, believable facial expressions and natural audience reactions. Never cut during a punchline. Audience laughter starts only after the punchline lands. No canned laughter, no overlapping dialogue, coherent eyelines, realistic club acoustics, professional live comedy special editing

@@ -1,0 +1,26 @@
+id: h3-warehouse-final-fight-rain-debris
+title:
+  en: Last stand fight in rainy abandoned warehouse
+  zh: 雨中废弃仓库里的最后一战
+model: MiniMax H3
+mode: text-to-video
+tags:
+- action
+- martial-arts
+- warehouse
+- cinematic
+- slow-motion
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2085585698699243802
+  credit: Ali
+  likes: 202
+  captured: '2026-10-28'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aiwithaly/status/2085585698699243802
+notes:
+  en: One scene, one outnumbered fighter, and a clear arc from dodging and countering to a final standoff. Camera moves (handheld, low-angle tracking, slow motion) and a stack of lens and film references (ARRI Alexa 35, anamorphic, grain) set the look. The closing negatives keep text and logos out.
+  zh: 场景单一、一人对三敌，动作弧线清晰，从闪避反击到最后对峙。运镜（手持、低角度跟拍、慢动作）加上镜头与胶片参照（ARRI Alexa 35、变形镜头、颗粒）定下画面质感。结尾的否定词避免出现文字和标志。
+prompt: |
+  A cinematic 15-second ultra-realistic Hollywood action sequence featuring a skilled fighter facing his final battle inside an abandoned industrial warehouse. Surrounded by three aggressive opponents, he uses precise martial arts movements to dodge attacks, counter strikes, and overcome every challenge with determination. Dust fills the air as sunlight breaks through shattered windows, creating a dramatic battlefield atmosphere. The scene builds toward a tense final confrontation as the fighter stands alone among smoke, rainwater, and debris. Dynamic handheld camera work, low-angle tracking shots, slow-motion action moments, realistic choreography, intense facial expressions, physically accurate movement, dramatic lighting, ARRI Alexa 35 aesthetic, anamorphic lens look, HDR, subtle film grain, premium Hollywood action style, 4K cinematic quality, no text, no logos.

@@ -1,0 +1,39 @@
+id: seedance-blue-pencil-draws-city-into-line-art
+title:
+  en: POV blue pencil turns city into sketches
+  zh: 第一视角蓝色铅笔把街景描成手绘插画
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- pov
+- rotoscoping
+- line-art
+- transformation
+- urban
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2089556355384512991
+  credit: Sairah_0
+  captured: '2026-10-28'
+  posted: '2026-08-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Sairah_0/status/2089556355384512991
+notes:
+  en: A fixed first-person POV with a pencil in the bottom of the frame gives the transformation a visible cause. Each subject gets its own target style (line art, cartoon, pastel, color block), and the closing line asks for organic transformation rather than a cut.
+  zh: 固定第一视角，铅笔始终出现在画面底部，让转变有明确的动因。每个主体指定各自的目标画风（黑白线稿、卡通、粉彩、色块），结尾要求有机转变而不是硬切。
+prompt: |
+  Style: Cinematic live-action seamlessly blended with 2D hand-drawn line-art animation, using a playful rotoscoping-inspired transformation effect.
+
+  Visual Direction:
+  First-person POV throughout. A hand holding a blue pencil appears at the bottom of the frame, seemingly tracing over real-world objects. Wherever the pencil moves, the live-action environment gradually transforms into expressive 2D illustrations.
+
+  Scene Transitions & Subjects:
+
+  - Train: A white-and-green train travels across an elevated urban overpass. As the blue pencil traces along it, the train smoothly converts into clean black-and-white sketch line art, while retaining its movement and perspective.
+  - Cat: An orange tabby cat casually walks along a paved sidewalk. The pencil follows its movement, transforming the cat into a white hand-drawn cartoon with stylized illustrated shadows.
+  - Bus: A light-colored compact bus drives through the street. As it passes beneath the pencil’s tracing path, it morphs into a colorful pastel illustration with loose, artistic hand-drawn outlines.
+  - Girl: A woman sits naturally on a bench in a narrow urban alley, looking at her phone. The pencil traces around her and the surroundings, seamlessly turning the scene into a stylized 2D color-block illustration.
+
+  Tone & Atmosphere: Bright natural daylight, contemporary urban environment, playful and whimsical mood, fluid camera movement, dynamic transformations, and seamless transitions between realistic footage and hand-drawn animation.
+
+  Overall Effect: The video should feel as though the blue pencil is literally drawing reality into an animated world, with each subject transforming organically rather than appearing as a sudden cut or visual effect.

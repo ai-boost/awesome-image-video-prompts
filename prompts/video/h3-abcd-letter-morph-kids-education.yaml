@@ -1,0 +1,178 @@
+id: h3-abcd-letter-morph-kids-education
+title:
+  en: Letters A to D Morph Into Objects
+  zh: 字母A到D依次变形为物体
+model: MiniMax H3
+mode: text-to-video
+tags:
+- education
+- kids
+- 3d-animation
+- shape-morphing
+- narration
+source:
+  name: '@umesh_ai on X'
+  url: https://x.com/umesh_ai/status/2084227244533411987
+  credit: Umesh
+  likes: 459
+  captured: '2026-10-28'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/umesh_ai/status/2084227244533411987
+notes:
+  en: A fixed five-step pattern (letter, sound, object, playful action, object name) repeats in timed 3-second beats. Each letter becomes the next object through a continuous morph, and the prompt pins down narration lines, highlight colors and sound cues. Negative constraints guard against warped letters and cluttered backgrounds.
+  zh: 每个字母都遵循固定的五步模式（字母、发音、物体、动作、名称），并按三秒一段的时间码排布。字母与物体之间用连续形变衔接，提示词写明旁白台词、高亮颜色和音效，并用否定约束防止字母扭曲和背景杂乱。
+prompt: |
+  Create a 15-second animated educational video that teaches young children the letters A, B, C, and D.
+
+  The learning pattern for every letter must be:
+
+  LETTER → SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME
+
+  Target audience: children ages 3 to 6.
+
+  Visual style:
+  Use adorable rounded 3D characters, soft pastel colors, gentle facial expressions, and simple recognizable objects. Combine this with a premium minimalist technology aesthetic featuring clean white space, elegant composition, soft studio lighting, subtle reflections, smooth gradients, rounded geometry, crisp typography, and extremely polished transitions.
+
+  The animation should feel playful and child-friendly while remaining calm, uncluttered, and beautifully designed.
+
+  Use a clean off-white background with a different soft color glow behind each letter.
+
+  0:00–0:01 | Introduction
+  A small smiling star mascot bounces into the center of the screen.
+
+  Colorful letters briefly float around it.
+
+  Display the text:
+
+  “Let’s learn!”
+
+  The mascot taps the screen, creating a soft ripple that reveals the first letter.
+
+  0:01–0:04 | A is for Apple
+
+  Show a large uppercase “A” and smaller lowercase “a” beside it.
+  Use thick, rounded, highly readable typography.
+
+  The narrator says:
+
+  “A. A says ah. A is for Apple.”
+
+  The uppercase A gently inflates and transforms into a shiny red apple.
+
+  Its top point becomes the apple stem, and a small green leaf unfolds from the side.
+
+  The apple gains a cute smiling face and performs one soft bounce.
+
+  Display the word:
+
+  “APPLE”
+
+  Highlight the first letter A in red.
+
+  Add a soft pop and a tiny crunchy sound.
+
+  0:04–0:07 | B is for Ball
+
+  The apple rolls across the screen and leaves behind a curved red trail.
+
+  The trail loops twice and forms a large uppercase “B,” with a lowercase “b” appearing beside it.
+  The narrator says:
+
+  “B. B says buh. B is for Ball.”
+
+  The two rounded sections of the B expand and merge into a colorful striped ball.
+
+  The ball bounces twice with playful squash-and-stretch animation.
+
+  Display the word:
+
+  “BALL”
+
+  Highlight the first letter B in blue.
+
+  Synchronize each bounce with a soft musical note.
+
+  0:07–0:10 | C is for Cat
+
+  On its final bounce, the ball stretches into a curved shape and becomes a large uppercase “C.”
+
+  A lowercase “c” slides gently into place beside it.
+
+  The narrator says:
+  “C. C says kuh. C is for Cat.”
+
+  The C rotates and becomes the curled tail of a cute orange cat.
+
+  The rest of the cat forms from soft rounded shapes.
+
+  The cat stretches, blinks, and gives one gentle wave with its paw.
+
+  Display the word:
+
+  “CAT”
+
+  Highlight the first letter C in orange.
+
+  Add a quiet and friendly “meow.”
+
+  0:10–0:13 | D is for Duck
+
+  The cat’s tail uncurls and transforms into the curved side of a large uppercase “D.”
+
+  A lowercase “d” pops up beside it.
+
+  The narrator says:
+
+  “D. D says duh. D is for Duck.”
+  The straight line of the D becomes the duck’s neck.
+
+  The curved section becomes its round yellow body.
+
+  A small orange beak and two tiny wings pop into place.
+
+  The duck waddles forward, flaps its wings, and gives one cheerful quack.
+
+  Display the word:
+
+  “DUCK”
+
+  Highlight the first letter D in yellow.
+
+  Add tiny water ripples beneath its feet.
+
+  0:13–0:15 | Recap
+
+  The apple, ball, cat, and duck slide into four clean rounded tiles.
+
+  Place their letters above them:
+
+  “A  B  C  D”
+
+  The mascot returns and points to each object as they bounce once in sequence.
+
+  Narrator:
+  “A, B, C, D. Great job!”
+
+  Finish with the text:
+
+  “Great job!”
+
+  Use a small sparkle animation and a warm musical chime.
+
+  Animation requirements:
+
+  Keep each letter fully visible for a moment before it transforms.
+
+  Show uppercase and lowercase versions clearly.
+
+  Make every object instantly recognizable.
+
+  Use smooth shape morphing so children can visually understand how the letter becomes the object.
+
+  Maintain stable spelling, clean letterforms, accurate object shapes, and consistent character design.
+
+  Use gentle squash-and-stretch, soft motion blur, subtle shadows, polished lighting, and precisely synchronized sound effects.
+  Avoid fast camera movement, cluttered backgrounds, harsh colors, tiny text, warped letters, random symbols, duplicated objects, scary expressions, or overly complex transformations.
+
+  The final video should feel cute, educational, memorable, calming, and exceptionally polished.

@@ -1,0 +1,35 @@
+id: seedance-baby-dragon-cottage-feeding
+title:
+  en: Woman secretly feeds baby dragon in cottage
+  zh: 女子在石屋里偷偷喂养幼龙
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- dark-fantasy
+- creature
+- multi-scene
+- cinematic
+- timed-shots
+source:
+  name: '@Adnan_Ai2 on X'
+  url: https://x.com/Adnan_Ai2/status/2113451899013996748
+  credit: Adnan_Ai2
+  captured: '2026-10-28'
+  posted: '2026-10-23'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Adnan_Ai2/status/2113451899013996748
+notes:
+  en: A shared style block sets the lighting, lens and grain, then four timed scenes move from an extreme close-up to a wider reveal and a tender close-up. Warm firelight against cool window light, plus tactile creature detail such as wet sheen and veining, keep the dragon grounded. Continuity lines and implied sound design tie it to the earlier birth scene.
+  zh: 开头的统一风格段落定下光线、镜头和颗粒感，随后四个带时间码的分镜由极特写推到全景，再回到温柔的特写。壁炉暖光与窗边冷光形成对比，湿润反光和细小血管等质感细节让幼龙显得真实。连续性说明和隐含的声音设计把它与前一段龙蛋诞生的剧情衔接起来。
+prompt: |
+  A warm, intimate scene continuing a dark-fantasy medieval drama, shot inside a rustic stone cottage interior with a prestige-television cinematic aesthetic — soft natural window light mixed with warm firelight, shallow depth of field, photorealistic creature texture work, handheld yet controlled camera movement, 16:9 widescreen, 24fps film grain, muted earthy color palette with warm amber accents.
+
+  **Scene 1 (0–6s):** Extreme close-up, low-angle shot on a rough-hewn wooden tabletop inside a dimly lit stone cottage. A small baby dragon — pale translucent pink skin, delicate frilled wing-like fins flaring from its head down its spine, large glossy dark eyes, soft rounded snout, and tiny sharp claws — crouches low on the table, sniffing curiously at a single gleaming gold coin resting in front of it. Faint dust motes drift through a shaft of soft light. Background softly blurred: a clay jug, a wooden bowl, and stone wall textures. The creature's skin has a faint wet sheen and subtle veining, anatomically detailed and grounded rather than cartoonish.
+
+  **Scene 2 (6–12s):** Wider shot reveals a young woman with long, dark, loosely tousled hair, wearing a cream lace-trimmed chemise beneath a dark woolen cloak, leaning across the wooden table toward the dragon. Her expression is tender, watchful, and slightly anxious — the look of someone hiding a secret and caring for it in private. A stone fireplace crackles warmly in the background, casting flickering amber light across the room, with a wrought-iron fire tool and hanging lantern visible nearby. A small leaded-glass window lets in cool grey daylight from the left, creating a natural contrast between warm interior firelight and cool exterior light.
+
+  **Scene 3 (12–20s):** The woman holds up a small torn piece of meat or bread between her fingers, offering it to the dragon. The baby dragon's eyes light up with eager attention; it opens its mouth to reveal small sharp teeth, its delicate wing-fins fluttering slightly with excitement, front claws gripping the wooden table as it leans forward to reach the food. Close-up alternating shots capture the dragon's playful, almost puppy-like eagerness and the woman's warm, affectionate half-smile as she watches it, clearly growing emotionally attached despite the danger of what the creature represents.
+
+  **Scene 4 (20–25s):** A final tender close-up — the dragon playfully snaps at the food, wings spreading slightly in excitement, while the woman smiles softly, her eyes reflecting the warm firelight. The mood is quiet, domestic, and secretly joyful, a brief moment of peace and bonding hidden away from the dangers of the outside world established in the earlier birth scene.
+
+  **Overall tone and continuity:** This is a direct continuation of the cave-birth dark-fantasy story — the same woman now secretly raising the dragon hatchling in hiding inside a humble medieval cottage, their bond deepening through small domestic moments like feeding. Visual continuity maintained: same character designs, same practical-effect creature texture (wet, fleshy, finely scaled, non-cartoonish), same muted cold-vs-warm cinematic color grading. Emotional core: forbidden maternal tenderness and quiet domestic intimacy contrasted against the creature's mythic, dangerous nature. Sound design implied: crackling fire, soft creature chirps/snorts, quiet ambient room tone. Aspect ratio 16:9, cinematic film grain, award-drama quality lighting and composition.

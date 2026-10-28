@@ -1,0 +1,59 @@
+id: h3-warrior-woman-trex-jungle-temple-battle
+title:
+  en: Warrior Woman Fights T-Rex in Jungle Ruins
+  zh: 女战士在丛林遗迹中大战霸王龙
+model: MiniMax H3
+mode: text-to-video
+tags:
+- action
+- fantasy
+- dinosaur
+- multi-shot
+- cinematic
+source:
+  name: '@Lianaalane on X'
+  url: https://x.com/Lianaalane/status/2085625652829708458
+  credit: liana
+  likes: 206
+  captured: '2026-10-28'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Lianaalane/status/2085625652829708458
+notes:
+  en: 'A 14 second timeline splits the fight into timed beats, each with its own shot type: wide establishing, hero close-up, low-angle reveal, handheld dodge, slow-motion swing and a 360 degree jump. A shared style block (ARRI Alexa 35, anamorphic lens, volumetric light) and an explicit non-gory note keep the look consistent and the action safe.'
+  zh: 14秒时间轴把战斗拆成带时间码的镜头段落，每段指定景别与运镜：远景建立、英雄特写、低角度现身、手持闪避、慢动作挥剑和360度环绕跳跃。统一的风格块（ARRI Alexa 35、变形镜头、体积光）保持画面一致，并明确要求无血腥内容。
+prompt: |
+  Create a 14-second ultra-realistic Hollywood-style action fantasy film scene featuring a brave young female warrior battling a massive realistic Tyrannosaurus Rex inside an ancient jungle filled with ruined temples, giant trees, mist, mud, rain, smoke, and dramatic sunlight.
+
+  Visual Style: Premium Hollywood blockbuster, photorealistic, cinematic, epic scale, realistic human anatomy, realistic dinosaur skin and movement, dramatic lighting, detailed environment, natural physics, intense facial expressions, high-end VFX, ARRI Alexa 35 look, anamorphic lens, shallow depth of field, HDR, subtle film grain, 4K cinematic quality, dynamic camera movement, realistic motion blur.
+
+  0–2 seconds — Establishing Shot:
+  Wide cinematic shot of an ancient jungle temple in the middle of a mysterious rainforest. The female warrior stands alone in the ruins, holding a large sword in one hand. Her clothes are rugged fantasy-warrior clothing, slightly wet from the rain. Mist moves through the trees while birds fly in the distant sky. Slow camera push-in toward her.
+
+  2–3 seconds — Hero Close-Up:
+  Cut to a dramatic close-up of the girl's face. Her hair is slightly wet and moving in the wind. She looks determined and fearless. Small scratches and dirt are visible on her face. She slowly raises her sword and prepares for battle.
+
+  3–4 seconds — Dinosaur Reveal:
+  Suddenly, a massive realistic T-Rex emerges from behind the jungle trees and roars aggressively. Its enormous jaws open, sharp teeth visible, water and mud splashing around its feet. Low-angle camera makes the dinosaur look huge and terrifying.
+
+  4–6 seconds — First Attack:
+  The dinosaur charges toward the girl at full speed. She runs toward the side and performs a fast dodge at the last second. The dinosaur crashes through trees and debris behind her. Use handheld camera movement, fast tracking, realistic impact and flying dust.
+
+  6–8 seconds — Sword Counterattack:
+  The girl quickly turns around and attacks with her sword. Show a dramatic slow-motion moment as she swings the sword toward the dinosaur. The dinosaur moves its head aggressively while roaring. Strong cinematic camera movement follows the sword.
+
+  8–10 seconds — Epic Jump:
+  The dinosaur attacks again. The girl jumps onto a large fallen tree and then leaps into the air above the dinosaur. Her hair and clothing move naturally in slow motion. Camera rotates around her as she raises the sword for the final strike.
+
+  10–12 seconds — Final Strike:
+  She lands a powerful cinematic sword strike against the dinosaur's armored hide. Create a dramatic impact with dust, rainwater, debris and strong camera shake. Keep the action non-gory and suitable for a blockbuster fantasy film.
+
+  12–13.5 seconds — Dinosaur Falls Back:
+  The dinosaur loses balance and falls backward into the muddy ground with a huge impact. Water, dust and leaves fly into the air. The girl lands safely and stands ready, breathing heavily.
+
+  13.5–14 seconds — Hero Ending:
+  Slow cinematic push-in toward the girl. She lowers the sword slightly and looks directly toward the camera with a powerful, fearless expression. Behind her, the defeated dinosaur lies in the misty jungle. Golden sunlight breaks through the clouds, creating an epic silhouette and emotional Hollywood-style ending.
+  Camera & Cinematography:
+  Wide establishing shots, low-angle dinosaur shots, close-up facial shots, handheld action camera, tracking shots, 360-degree movement during the jump, dramatic slow motion during key action moments, shallow depth of field for close-ups, realistic motion blur, cinematic composition.
+  Lighting & Atmosphere:
+  Dark stormy jungle atmosphere mixed with warm golden sunlight, volumetric light rays, wet surfaces, realistic rain, mist, smoke, flying leaves, dust and water particles.

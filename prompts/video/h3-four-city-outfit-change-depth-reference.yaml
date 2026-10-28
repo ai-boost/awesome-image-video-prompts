@@ -1,0 +1,56 @@
+id: h3-four-city-outfit-change-depth-reference
+title:
+  en: Four city outfit change with depth reference
+  zh: 四座城市的一镜到底换装旅行
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- outfit-change
+- depth-reference
+- character-consistency
+- vertical
+- travel
+source:
+  name: '@HoodyLiu on X'
+  url: https://x.com/HoodyLiu/status/2101904919540429295
+  credit: Hoody
+  likes: 295
+  captured: '2026-10-28'
+  posted: '2026-09-21'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/HoodyLiu/status/2101904919540429295
+notes:
+  en: Numbered pictures each lock one outfit, city map and UI, while a separate face crop is named the top priority identity reference. A black and white depth video supplies body motion and timing, and timed shots with exact reveal seconds keep every spin ending on a front view.
+  zh: 编号图片分别锁定每套服装、城市地图和界面，另用一张脸部裁剪图作为最高优先级的身份参考。黑白深度视频只提供动作和时间节奏，带精确秒数的分镜保证每次旋转都以正面收尾。
+prompt: |
+  <Picture 1> defines Rei's opening outfit only: a fitted black satin mini dress with thin spaghetti straps, a lace-trimmed V-neckline, a small front bow with trailing ribbons, off-the-shoulder lace ruffle sleeves, a ruched bodice, a ruffled lace hem, bare legs and black pointed-toe stiletto pumps. Preserve the dress's silhouette, materials and front/back construction as shown. Use this outfit for the white-studio opening only; do not reproduce the character-sheet layout.
+
+  <Picture 2> defines her Paris outfit, front-facing presentation pose, drink, sunglasses, city map and UI. <Picture 3> defines her Rome outfit, front/three-quarter presentation pose, props, city map and UI. <Picture 4> defines her Cairo outfit, presentation pose, shopping bags, city map and UI. <Picture 5> defines her Sydney outfit, front-facing finishing pose, city map and UI.
+
+  <Picture 6> is an unmodified slightly turned standard face crop from the original Rei character card. It is the highest-priority facial identity reference for ALL outfits: preserve its eye shape and spacing, eyelids, nose, lips and natural proportions without beautification. Pictures 2–5 supply new city outfits and environments, never a substitute face. This is the same adult woman in different clothes throughout the entire video.
+
+  <Video 1> is a black-and-white relative-depth reference for body movement, camera pullback and chronological timing only. Depth brightness represents distance, not skin color or face detail. Render natural full color using the pictures. A featureless face in the depth map must not become the back of Rei's head. Use the scene pictures to resolve which way her face and chest point after each turn.
+
+  Generate ONE continuous 12-second vertical video. The timed Shot labels below are successive phases of this one output, not instructions to insert camera cuts. Keep the reference timeline at its original speed. Do not compress the opening to make room for the cities. Only Rei rotates during transformation; the camera must not orbit her. A back view is a brief passing orientation during a spin, never a held destination pose. Each completed transformation reveals her face and the FRONT of the new outfit, as in its corresponding picture. Change clothing, handheld props, city map and city-name UI together; do not change only the background while leaving the previous outfit.
+
+  Shot 1 [0.00–2.50 seconds]: White studio and opening black sailor uniform from <Picture 1>. Rei looks at the phone held in front of her chest. Follow the opening camera pullback in <Video 1>. Her torso remains generally facing the camera; allow the original small phone and head gestures. This interval contains no full-body spin, no location pin yet, no city background and no wardrobe change.
+
+  Shot 2 [2.50–3.15 seconds]: The red location pin appears above Rei. This event ONLY adds the pin. She continues looking at her phone in the white studio, still wearing the opening black sailor uniform. The pin does not trigger a spin or a scene change. Do not begin the transformation here.
+
+  Shot 3 [3.15–4.05 seconds]: Follow the small preparatory side pivot in <Video 1>, then return toward the camera-facing starting orientation while holding the phone. This is the preparatory movement, not the rapid transformation spin. Retain the opening black sailor uniform, white background and red pin throughout this interval. No Paris map or summer outfit before 4.05 seconds.
+
+  Shot 4 [4.05–6.00 seconds]: At 4.05 seconds begin the rapid transformation rotation following <Video 1>. Pass continuously through the side and back orientations without pausing. Around 4.25 seconds, during this rotation, change together into the Paris outfit, drink, sunglasses, map and navigation UI from <Picture 2>. By 4.50 seconds complete the rotation and reveal Rei FACING THE CAMERA, with her face and the front of her navy-and-ivory striped top visible. From 4.50 to 6.00 seconds remain in this front/three-quarter FRONT presentation, with the drink and sunglasses gesture from <Picture 2>. The cream full-length trousers, striped top and red neck scarf replace the opening black sailor uniform completely. No back-facing hold, no phone, no opening black sailor uniform during the Paris presentation. The top search bar and bottom location card both read 巴黎.
+
+  Shot 5 [6.00–8.00 seconds]: Begin the next reference turn at 6.00 seconds. Around 6.25 seconds change outfit, props, city and UI to Rome from <Picture 3>. Complete the turn by 6.55 seconds into a front/three-quarter FRONT view showing Rei's face, sage-green midi dress with brown belt. Until 8.00 seconds use the Rome pose with the paper guide and warm Trajan column and Roman Forum map. Both city labels read 罗马. Back-facing frames occur only while the turn is in progress; no stopped back view after the turn.
+
+  Shot 6 [8.00–10.00 seconds]: Begin the next reference turn at 8.00 seconds. Around 8.25 seconds change together to the ivory linen shirt, beige full-length trousers, ochre scarf, shopping bags, Cairo map and UI from <Picture 4>. By 8.55 seconds reveal her face and the front of the ivory linen shirt. Hold the front/three-quarter presentation with natural small movements until 10.00 seconds. Both city labels read 开罗. Keep the Cairo outfit and map together; do not introduce previous clothes or Sydney early.
+
+  Shot 7 [10.00–12.00 seconds]: Begin the final reference turn at 10.00 seconds. Around 10.25 seconds replace the Cairo clothes and shopping bags, city and labels with the Sydney sky-blue overshirt, white T-shirt, navy knee-length shorts and white sneakers, Sydney Tower map and UI from <Picture 5>. By 10.55 seconds face the camera with the white T-shirt beneath the sky-blue overshirt visible, hands raised and one leg bent backward as in <Picture 5>. Keep this front-facing Sydney presentation with subtle natural movement through 12.00 seconds. Both city labels read 悉尼. No additional spin, destination or wardrobe change after this final reveal.
+
+  Keep Rei's facial identity, natural body proportions, hair and bangs throughout. Clothing changes must not alter her face, age, body shape, hair color or hair length. Do not reproduce character-sheet panels, extra people, face closeups or depth-map gray colors. Do not reproduce the blank faces in Picture 1's full-body clothing views; Rei must have her normal face whenever her face is visible.
+
+  Keep the city UI style consistent; update both location labels at each city change. No generated speech or music.
+
+  The angle in Picture 6 describes identity only, NOT a fixed head pose. Face direction, expression, head tilt, hand gestures and full body movement follow Video 1, with each completed city presentation matching its corresponding scene picture.
+
+  In Paris the sunglasses are opaque black and fully cover both eyes and eye sockets. Keep the sunglasses on throughout the Paris presentation. At the Rome transformation, switch to the accessories shown in Picture 3.

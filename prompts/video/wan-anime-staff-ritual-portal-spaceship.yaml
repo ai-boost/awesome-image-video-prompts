@@ -1,0 +1,33 @@
+id: wan-anime-staff-ritual-portal-spaceship
+title:
+  en: Anime Mage Summons Spaceship Through Cloud Portal
+  zh: 动漫法师召唤飞船穿越云端传送门
+model: Wan 3.0
+mode: reference-to-video
+tags:
+- anime
+- fantasy
+- magic-effects
+- character-reference
+- sci-fi
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2099278002534101053
+  credit: Kōda
+  likes: 273
+  captured: '2026-10-28'
+  posted: '2026-09-13'
+video: https://x.com/aimikoda/status/2099278002534101053
+notes:
+  en: A plain idea written as one flowing sequence of events works better here than an expanded prompt. The character is locked with an Image 1 reference, and the energy is described as fluid and undulating to rule out a thin laser line.
+  zh: 直接把创意按先后顺序写成一段连贯的事件，比扩写的长提示词更有效。用图1参考锁定角色，并描述能量为流动起伏的形态，避免变成细激光线。
+prompt: |
+  Testing Wan 3.0 Anime
+
+  I hadn't had much luck with Wan 3.0 anime before but seeing the incredible work below made me want to give it another shot.
+
+  I usually use a skill to turn my ideas into prompts but that approach hadn't worked too well for me with this model. This time, I just used the idea itself as the prompt. I'm happy with the result and might experiment with it some more.
+
+  *Used a character reference.
+
+  Prompt was: Start with the character from Image 1 performing a ritual-like dance on top of a tower. She raises her staff and sends a wave of energy into the clouds, not as a thin laser line but as something more fluid and undulating. In the clouds, a magic circle appears and expands. The surrounding clouds are pulled toward it and begin swirling around it. A portal opens at the center, and a giant spaceship emerges from it and descends to Earth.

@@ -1,0 +1,25 @@
+id: seedance-alpine-golden-hour-fashion-ski-walk
+title:
+  en: Fashion Model Walking Snowy Alpine Slope at Golden Hour
+  zh: 金色黄昏雪山坡上走来的时装模特
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- fashion
+- cinematic
+- snow
+- golden-hour
+- low-angle
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2096826123330138410
+  credit: noorlewisx
+  captured: '2026-10-28'
+  posted: '2026-09-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2096826123330138410
+notes:
+  en: Opens with a low angle and sparkling snow in extreme foreground, which gives shallow depth of field and bokeh before the subject comes into focus. Detailed wardrobe and prop specifics (coat, boots, skis over the shoulder) plus rim lighting and film grain keep the editorial look consistent.
+  zh: 以低机位和前景极近的闪光雪粒开场，形成浅景深与焦外光斑，再让人物走入清晰区。服装与道具细节（外套、雪靴、肩扛滑雪板）配合轮廓光和胶片颗粒，保持时尚大片的统一质感。
+prompt: |
+  Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k

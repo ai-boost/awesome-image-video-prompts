@@ -1,0 +1,26 @@
+id: h3-quote-typography-darkness-to-light
+title:
+  en: Quote typography journey from darkness to light
+  zh: 从黑暗到光明的名言文字动画
+model: MiniMax H3
+mode: text-to-video
+tags:
+- typography
+- text-rendering
+- cinematic
+- motion-graphics
+- quote
+source:
+  name: '@umesh_ai on X'
+  url: https://x.com/umesh_ai/status/2083909535593644291
+  credit: Umesh
+  likes: 339
+  captured: '2026-10-28'
+  posted: '2026-08-02'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/umesh_ai/status/2083909535593644291
+notes:
+  en: The prompt splits the quote into timed segments, one per phrase. Each segment sets its own typography, motion and mood, and a closing negative list guards spelling and letterform stability.
+  zh: 提示词把名言按时间切成分段，每个短语单独设定字体、动效与情绪，结尾用负面清单约束拼写和字形稳定。
+prompt: |
+  Create a 15-second cinematic text-animation video built around the quote:  “Every great change begins quietly, grows through courage, and becomes impossible to ignore.”  The quote should appear gradually as a visual story. Each new phrase must transform the design, atmosphere, movement, and emotional intensity of the scene. Use elegant typography, accurate spelling, cinematic lighting, smooth transitions, and perfectly readable text.  0:00–0:03 | “Every great change”  Begin with a completely black screen.  A tiny point of warm light slowly appears in the center, like the first spark of an idea.  The words “Every great change” emerge softly from the darkness, one word at a time. Use thin, elegant serif typography with wide letter spacing.  “Every” fades in gently.  “Great” grows slightly larger.  “Change” forms from small drifting particles that gather into solid letters.  Keep the scene quiet, minimal, and mysterious.  0:03–0:06 | “begins quietly,”  The camera slowly moves closer to the text.  The previous words shrink and reposition toward the upper-left corner as the phrase “begins quietly,” appears in delicate lowercase letters.  Animate the phrase as though it is being written by an invisible hand.  Each letter should create a subtle ripple in the darkness.  Introduce faint textures, soft shadows, floating dust, and gentle light rays.  The comma should appear last and create a small circular pulse.  0:06–0:09 | “grows through courage,”  The pulse expands and transforms the scene from darkness into a rich sunrise gradient with deep orange, red, and golden tones.  The words “grows through courage” rise upward from the bottom of the frame.  Animate “grows” by gradually increasing its size and weight.  Animate “through” along a curved path.  Animate “courage” in bold uppercase letters that push through a translucent barrier, causing it to crack into geometric fragments.  The movement should feel powerful but controlled.  0:09–0:12 | “and becomes”  The fragments rotate in slow motion and reorganize into a clean editorial grid.  The phrase “AND BECOMES” appears across the frame in condensed sans-serif typography.  Animate the letters with fast tracking changes, vertical stretching, masking, and perspective movement.  The camera accelerates forward through the center of the word “BECOMES.”  The sound and visual energy should steadily build.  0:12–0:14 | “impossible to ignore.”  Reveal a vast bright space filled with light, moving shapes, and large-scale typography.  The words “IMPOSSIBLE TO IGNORE” appear one after another.  “IMPOSSIBLE” expands beyond the edges of the screen.  “TO” remains small and perfectly centered.  “IGNORE” slams into place with strong visual impact, briefly shaking the surrounding grid and shapes.  Use bold contrast, dramatic scale, sharp shadows, and synchronized motion.  0:14–0:15 | Final quote  All movement stops instantly.  The complete quote appears centered on a clean off-white background:  “Every great change begins quietly, grows through courage, and becomes impossible to ignore.”  Use refined black typography with “change,” “courage,” and “impossible” highlighted in deep red.  Hold the final composition clearly for the last second.  Maintain one continuous visual journey from darkness to light, silence to impact, and simplicity to complexity. Keep every phrase connected through visual transformations rather than hard cuts.  Use realistic motion blur, precise kerning, clean masks, stable letterforms, smooth camera movement, subtle film grain, cinematic sound design, rising ambient music, soft particles, controlled color transitions, and a final deep impact sound.  Avoid misspelled words, warped letters, duplicated characters, unreadable text, random symbols, excessive flickering, chaotic layouts, inconsistent fonts.

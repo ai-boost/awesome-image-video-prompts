@@ -1,0 +1,25 @@
+id: seedance-baby-doctor-soldier-army-tent
+title:
+  en: Baby doctor examines soldier with stethoscope in army tent
+  zh: 宝宝医生在军营帐篷里给士兵听诊
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- ugc
+- handheld
+- comedy
+- baby
+- dialogue
+source:
+  name: '@aiwithaayat on X'
+  url: https://x.com/aiwithaayat/status/2113854017420108258
+  credit: aiwithaayat
+  captured: '2026-10-28'
+  posted: '2026-10-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaayat/status/2113854017420108258
+notes:
+  en: The prompt fixes a casual phone recording look with shaky framing, daylight and camp ambience, then bans cinematic lighting, slow motion and grading to keep it real. One subtitled line of dialogue and a locked baby and soldier identity carry the comedy.
+  zh: 提示词先定下随手手机拍摄的质感，包括轻微抖动、自然日光和营地环境音，再禁用电影光、慢动作和调色来保持真实。一句带字幕的台词加上锁定的宝宝与士兵形象，撑起喜剧效果。
+prompt: |
+  Create a 20-second vertical 9:16 ultra-realistic funny baby doctor video, filmed in a casual smartphone recording style inside a real military tent at an outdoor army camp. A cute chubby baby with round cheeks, light-colored eyes, and a serious facial expression wears a tiny white doctor’s coat and a blue stethoscope while being held close to a male soldier wearing a real camouflage military uniform. The baby presses the stethoscope against the soldier’s chest and listens carefully like a professional doctor, looking intensely focused and adorably confused. The soldier looks at the baby with a warm smile, trying not to laugh during the examination. Show natural close-up shots of the baby gripping the stethoscope with tiny hands, looking into the soldier’s eyes, and moving his lips with innocent, funny expressions. Include humorous English dialogue with matching subtitles: “You have a serious case of too much phone and not enough exercise.” The soldier reacts with an amused smile while the baby continues the examination with a completely serious face. Keep another soldier naturally visible in the background, sitting inside the tent and enjoying the funny moment. The camera should feel like a real person casually recording this adorable interaction on a phone, with slight natural hand movements, imperfect framing, authentic outdoor daylight, realistic skin textures, and the ordinary background sounds of a military camp. Use spontaneous reactions, natural facial movements, and believable human interaction instead of dramatic acting or exaggerated effects. Maintain the same baby and soldier throughout the entire video, with accurate clothing, realistic proportions, and consistent faces. No cinematic lighting, no dramatic camera movements, no slow motion, no movie-style color grading, no artificial transitions, no animation, and no polished commercial look. The final result should look like an authentic, funny, heartwarming viral video captured in real life.

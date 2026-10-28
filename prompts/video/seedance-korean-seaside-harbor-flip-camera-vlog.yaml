@@ -1,0 +1,43 @@
+id: seedance-korean-seaside-harbor-flip-camera-vlog
+title:
+  en: Korean Seaside Harbor Walk Flip Camera Vlog
+  zh: 韩国海边港口翻盖相机随拍 Vlog
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- vlog
+- handheld
+- korean
+- timestamped
+- ambient-sound
+source:
+  name: '@ShamiWeb3 on X'
+  url: https://x.com/ShamiWeb3/status/2096101448090267992
+  credit: ShamiWeb3
+  captured: '2026-10-28'
+  posted: '2026-09-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ShamiWeb3/status/2096101448090267992
+notes:
+  en: A timestamped beat list in four second slots gives each action and spoken Korean line its own window, so a 30 second vlog stays coherent. A fixed style block of late 2000s flip camera flaws, a negative list against polish, and a sound only ambience paragraph keep the look raw and authentic.
+  zh: 按四秒左右的时间段列出动作和韩语台词，让 30 秒的 Vlog 节奏清晰。统一的风格段落写明 2000 年代末翻盖相机的画质缺陷，再用否定清单排除精致感，并单独写环境音，画面才显得真实粗粝。
+prompt: |
+  Preserve the exact facial features, identity, skin tone, and natural facial proportions from @image1 throughout. Do not copy the reference hairstyle or outfit. Outfit: lightweight cream sleeveless blouse, high-waisted faded blue jeans, white canvas sneakers, small gold hoop earrings, loose natural wavy hair. Authentic Korean woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, spontaneous reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+
+  00:00–00:04 Walking quickly down a narrow seaside alley while holding the camera, suddenly spotting the ocean at the end of the street. She turns the camera toward it and excitedly says in Korean, "잠깐, 바다가 보여요!"
+
+  00:04–00:08 Runs toward a small harbor, laughing as the camera shakes heavily. She reaches the railing, leans over carefully, and watches fishing boats moving across the water.
+
+  00:08–00:12 Spots a fisherman pulling in a small fishing net and asks if she can help. She grabs one end of the net, struggles with the weight, laughs, and says in Korean, "생각보다 훨씬 무거운데요?"
+
+  00:12–00:16 The fisherman shows her a freshly caught fish. She reacts with wide-eyed surprise, steps backward laughing, then cautiously reaches out to touch it while saying, "우와, 진짜 크다!"
+
+  00:16–00:20 Walks into a tiny harbor-side snack shop, discovers a bowl of freshly made fish cake soup, sits at the counter, takes a sip, and smiles with satisfaction.
+
+  00:20–00:24 Steps outside holding the warm cup, notices a group of neighborhood grandmothers playing a casual Korean card game at a plastic table. She joins them briefly, laughs at their playful reactions, and gestures toward the camera.
+
+  00:24–00:27 Walks along the harbor promenade eating a small ice cream, filming boats and seagulls before accidentally getting a little ice cream on her nose. She notices it and laughs.
+
+  00:27–00:30 Stops beside the harbor railing as the wind moves her hair, turns the camera toward herself, smiles naturally, and says in Korean, "오늘 진짜 재밌었다. 다음에 또 올게요. 안녕!" She waves and the recording ends abruptly.
+
+  Natural ambience only: ocean waves, seagulls, fishing boats, harbor conversations, footsteps, wind, net ropes, shop sounds, card-table laughter, distant scooters, and neighborhood activity. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera Korean vacation vlog with spontaneous actions, imperfect framing, authentic Korean dialogue, realistic human movement, and natural interactions. Aspect ratio: 16:9.

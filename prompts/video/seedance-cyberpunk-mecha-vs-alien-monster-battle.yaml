@@ -1,0 +1,25 @@
+id: seedance-cyberpunk-mecha-vs-alien-monster-battle
+title:
+  en: Mecha fights alien monster in cyberpunk ruins
+  zh: 机甲在赛博朋克废墟中大战异形怪兽
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- cyberpunk
+- mecha
+- monster
+- action
+- sci-fi
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2109504064186982604
+  credit: laviniavelle
+  captured: '2026-10-28'
+  posted: '2026-10-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2109504064186982604
+notes:
+  en: 'The prompt opens with the setting and time of day, then introduces each combatant with distinct colors and glowing details. Verbs set the action beats in order: landing, emerging from smoke, dodging, slashing. It closes with a quality and camera line asking for fast-paced camera movement.'
+  zh: 提示词先交代场景与时间，再用鲜明的颜色和发光细节分别描绘两个对手。动词按顺序排出动作节拍：落地、烟中现身、闪避、斩击。结尾用画质与镜头一句收束，要求快节奏运镜。
+prompt: |
+  Cinematic action sequence in a futuristic, dystopian cyberpunk city at sunset, with towering skyscrapers, glowing neon signs, and a ruined street covered in rubble and abandoned cars. A powerful, heavily armored blue and silver mecha robot with glowing blue energy blades on its arms lands heavily on the cracked asphalt, creating a cloud of dust. A massive, ferocious alien monster with red glowing eyes and spiked armor emerges from the smoke, roaring. The mecha engages in a dynamic, high-speed battle with the creature, dodging attacks, slashing with its energy swords, and sparking with electric energy. Epic movie quality, detailed textures, dramatic lighting, and fast-paced camera movement.

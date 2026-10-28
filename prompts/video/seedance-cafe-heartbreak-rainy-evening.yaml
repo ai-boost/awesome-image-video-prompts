@@ -1,0 +1,78 @@
+id: seedance-cafe-heartbreak-rainy-evening
+title:
+  en: Woman finds boyfriend cheating in a rainy café
+  zh: 雨夜咖啡馆里撞见男友出轨的女孩
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- emotional-drama
+- live-action
+- cafe
+- dialogue
+- handheld
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2096439253970395531
+  credit: AIwithSynthia
+  captured: '2026-10-28'
+  posted: '2026-09-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2096439253970395531
+notes:
+  en: The prompt fixes identity and outfit up front, then writes the scene as a beat by beat action list with a named emotion ramp from confusion to quiet acceptance. Explicit tear continuity rules, a handheld camera that moves closer on the reveal, and a sound list with no music keep the crying restrained and believable.
+  zh: 提示词先锁定人物长相和服装，再按动作节拍逐条写场景，并列出从困惑到平静接受的情绪递进。对眼泪连贯性的明确约束、发现时逐渐推近的手持镜头，以及不加配乐的音效清单，让哭戏克制而可信。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discovering her boyfriend kissing another woman inside a quiet café. Focus entirely on authentic human emotion, natural crying, subtle facial expressions and believable body language. No melodrama or exaggerated acting.
+  MAIN CHARACTER
+  Young Korean woman in her early 20s, naturally beautiful, realistic skin texture, minimal makeup, long black hair loosely styled, wearing a fitted pastel-pink top, casual denim shorts and simple sneakers.
+  Maintain the exact same face, hairstyle, outfit, body proportions and appearance throughout the entire scene.
+  LOCATION
+  A cozy modern café on a rainy evening. Warm interior lighting, large windows covered with rain droplets, wooden tables, soft background chatter, cups and plates, a few customers quietly talking.
+  SCENE
+  She enters the café carrying a small handbag, casually looking around for her boyfriend.
+  She suddenly notices him sitting at a table near the window.
+  He is kissing another young woman.
+  She immediately stops walking.
+  Her expression changes from confusion to disbelief.
+  She slowly lowers her handbag.
+  She stares at them silently for a few seconds, struggling to process what she is seeing.
+  Her eyes begin to fill with tears.
+  Show realistic tears naturally forming along her lower eyelids, then slowly rolling down her cheeks. No exaggerated crying.
+  She takes a shaky breath.
+  She walks toward their table.
+  Her boyfriend notices her.
+  His expression immediately changes to shock.
+  The other woman turns around and becomes uncomfortable.
+  The girlfriend looks directly at him with trembling eyes and quietly says:
+  “How could you do this to me?”
+  Her voice cracks naturally.
+  She wipes one tear from her cheek, but more tears continue falling.
+  Her boyfriend stands up and tries to explain.
+  She shakes her head and takes a small step backward.
+  She says through tears:
+  “I trusted you.”
+  She looks at him for one final moment.
+  Her expression shows heartbreak, disappointment and disbelief rather than anger.
+  She turns around and walks toward the café door while quietly crying.
+  Her boyfriend takes one step after her but stops.
+  She reaches the door, pauses briefly, wipes her face and leaves.
+  The camera remains inside the café as the door closes behind her.
+  CAMERA / VISUAL STYLE
+  Handheld cinematic camera with subtle natural movement. Start with a medium shot following her into the café, then slowly move closer when she notices the couple.
+  Use realistic close-ups of her eyes, trembling lips, tears and subtle facial reactions.
+  Natural shallow depth of field, realistic skin pores, authentic reflections in the café windows, soft rainy evening light, natural motion blur, 24fps, photorealistic live-action.
+  Do not make her crying look beautiful or glamorous. It should look spontaneous, uncomfortable and emotionally real.
+  AUDIO
+  Rain against the café windows, quiet conversations, cups being placed on tables, distant café ambience, footsteps and subtle breathing.
+  No background music.
+  No narration.
+  Dialogue should sound natural with slight pauses, trembling voice and emotional breathing.
+  EMOTIONAL DIRECTION
+  The emotion should build gradually:
+  confusion → realization → shock → disbelief → tears → confrontation → heartbreak → quiet acceptance.
+  Avoid screaming, physical aggression or exaggerated dramatic gestures.
+  CONTINUITY / REALISM
+  Keep tears physically consistent once they appear. Tears should remain visible on her cheeks and naturally accumulate as she continues crying.
+  Maintain consistent clothing, hairstyle, jewelry and facial identity.
+  No sudden emotional changes, no disappearing tears, no duplicated people, no changing café layout, no unnatural body movements.
+  NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, melodramatic acting, screaming, physical violence, distorted faces, extra fingers, identity drift, outfit changes, CGI

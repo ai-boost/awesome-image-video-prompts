@@ -1,0 +1,101 @@
+id: seedance-2011-selfie-vlog-seoul-shopping-street
+title:
+  en: Retro 2011 phone selfie vlog through Seoul shops
+  zh: 2011年手机自拍风首尔购物街vlog
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- selfie-vlog
+- retro-camcorder
+- street
+- dialogue
+- shot-list
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2109218767620444331
+  credit: Just_sharon7
+  captured: '2026-10-28'
+  posted: '2026-10-11'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2109218767620444331
+notes:
+  en: Separate blocks for camera, video quality, character, location, style and audio, then a timed shot list with one line of dialogue per beat. Naming dated hardware, 480p compression flaws and hand tremor keeps the footage amateur, and a closing rules block locks identity, 9:16 framing and no filters.
+  zh: 按镜头、画质、角色、场景、风格和音频分块,再用带时间码的分镜列表,每段配一句台词。写明旧手机型号、480p压缩瑕疵和手抖来保持业余感,末尾的规则块锁定角色一致、竖屏9:16并禁用美颜滤镜。
+prompt: |
+  CAMERA:
+  Early-2010s smartphone front-camera selfie vlog, filmed on an old iPhone 4 or Samsung Galaxy S2. The girl holds the phone at arm's length, occasionally switching to the rear camera to show her surroundings. Natural hand tremors, awkward framing, accidental finger covering the lens, shaky walking footage, imperfect autofocus, and sudden camera tilts. No professional camera movements.
+  VIDEO QUALITY:
+  Authentic 2010–2012 smartphone footage, 480p resolution, low dynamic range, washed-out colors, visible digital noise, blocky compression artifacts, slightly blurry moving subjects, rolling-shutter wobble, overexposed skies, and automatic white-balance shifts. Looks like a forgotten YouTube vlog uploaded in 2011.
+
+  CHARACTER:
+  MILA — a cheerful 22-year-old East Asian girl with a Korean-Chinese appearance, long straight black hair with side-swept bangs, naturally fair skin, soft pink lip tint, minimal makeup, and expressive dark-brown eyes. Wearing a loose pastel-yellow cardigan over a white graphic T-shirt, a short denim skirt, white sneakers, and a small brown leather shoulder bag. Her appearance, hairstyle, outfit, and facial features remain identical throughout.
+  LOCATION:
+  A lively Seoul shopping neighborhood on a sunny afternoon. Narrow pedestrian streets, colorful Korean storefronts, clothing racks outside shops, stationery stores, photo booths, flower stands, parked scooters, and pedestrians walking naturally in the background.
+
+  STYLE:
+  Spontaneous, playful, slightly chaotic 2011 YouTube lifestyle vlog. Casual conversations directly into the phone, unscripted facial expressions, awkward pauses, spontaneous laughter, and quick amateur cuts.
+  SHOT-BY-SHOT SEQUENCE
+
+  0–2.5s — The Flower Shop
+  Front-camera selfie. MILA walks past a tiny flower shop, notices a beautiful bouquet, and suddenly stops.
+
+  Dialogue: "Wait, these flowers are literally so pretty!"
+  She turns the phone toward the flowers, briefly losing focus.
+
+  2.5–5s — The Photo Booth
+
+  Quick shaky cut. MILA squeezes inside a tiny Korean photo booth. The camera is held too close to her face. She makes an exaggerated silly expression and flashes a peace sign as the booth flashes.
+
+  Dialogue: "Oh my gosh, why do I look like that?!"
+
+  She bursts into laughter.
+
+  5–7.5s — The Claw Machine
+
+  MILA stands in front of a small arcade claw machine, filming herself and the machine alternately. She presses the button, the claw grabs a tiny plush bunny but drops it at the last second.
+
+  Dialogue: "Nooo! I almost got it!"
+
+  She dramatically pouts at the camera.
+
+  7.5–10s — The Sunglasses
+
+  Quick cut to a sidewalk accessories stand. MILA tries on oversized heart-shaped pink sunglasses, turns the front camera toward herself, and tilts her head.
+
+  Dialogue: "Okay, wait... kinda iconic!"
+
+  She laughs and adjusts the glasses.
+
+  10–12.5s — The Unexpected Wind
+
+  Walking down the street, a sudden breeze blows her bangs across her face. She tries to fix her hair while still holding the phone. The frame tilts awkwardly.
+
+  Dialogue: "Ahh! My hair! Seriously?!"
+
+  She giggles, brushing her bangs away.
+
+  12.5–15s — Goodbye
+
+  MILA stops beside a colorful storefront, holds up her photo-booth pictures, smiles brightly, and gives a little wave.
+
+  Dialogue: "Best random day ever! Byeee!"
+
+  She reaches toward the phone screen. Her finger partially covers the lens, followed by an abrupt cut to black.
+
+  AUDIO
+
+  Authentic low-quality smartphone microphone. Distant Korean street conversations, footsteps, shop music, arcade machine beeps, camera shutter, occasional wind hitting the microphone, and slight distortion when MILA laughs. Her voice is cheerful, spontaneous, conversational, and slightly muffled.
+
+  IMPORTANT GENERATION RULES
+
+  Exactly 15 seconds, vertical 9:16.
+
+  Same character identity and outfit in every shot.
+
+  Natural selfie perspective, never cinematic third-person footage.
+  Realistic hand movements and physically plausible phone handling.
+
+  Natural dialogue timing and accurate lip synchronization.
+  No beauty filters, artificial skin smoothing, or cinematic color grading.
+  No subtitles, text overlays, logos, or modern smartphone aesthetics.
+  Preserve the authentic, imperfect, nostalgic feeling of an amateur 2011 street vlog. #DomoAI #DomoAICPP

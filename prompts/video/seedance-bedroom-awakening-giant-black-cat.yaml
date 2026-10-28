@@ -1,0 +1,26 @@
+id: seedance-bedroom-awakening-giant-black-cat
+title:
+  en: Bedroom Supernatural Awakening With Giant Black Cat
+  zh: 卧室超自然觉醒与巨型黑猫
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- supernatural
+- fantasy
+- vfx
+- cinematic
+- long-take
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2097594855946113177
+  credit: Zyrellix
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2097594855946113177
+notes:
+  en: 'The 30 second sequence is written as a beat by beat shot list: push in, a sudden arrival, room destruction, an extreme close-up, then a slow reveal and a final close-up on the cat. A closing line of stacked look terms (volumetric light, dust particles, hair physics, shallow depth of field) keeps the photoreal VFX look consistent.'
+  zh: 30秒内容按分镜顺序逐拍写出：推镜、突然现身、房间崩裂、极特写、缓慢揭示并以黑猫特写收尾。结尾叠加体积光、尘埃粒子、发丝物理、浅景深等画面词，让写实特效质感保持一致。
+prompt: |
+  Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
+  Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.

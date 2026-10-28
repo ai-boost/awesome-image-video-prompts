@@ -1,0 +1,75 @@
+id: h3-hover-bike-race-mountain-pass-anime
+title:
+  en: Two-Rider Hover-Bike Race Down Mountain Pass
+  zh: 山路双人悬浮摩托竞速
+model: MiniMax H3
+mode: image-to-video
+tags:
+- anime
+- racing
+- sci-fi
+- action
+- entity-lock
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2086528067019698388
+  credit: Gilbert Odera | Your AI Plug
+  likes: 50
+  captured: '2026-10-28'
+  posted: '2026-08-09'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/yourPlugAI/status/2086528067019698388
+notes:
+  en: An entity lock fixes exactly two racers and two bikes, with a livery description for each to keep them consistent. Timed camera and action blocks cover the whole 15 seconds and run from a supplied first frame.
+  zh: 用实体锁定限定只有两名车手和两辆车，并分别描述涂装来保持一致。分段的镜头与动作时间表覆盖全部15秒，并从给定首帧开始生成。
+prompt: |
+  Cinematic Anime Video Scene
+
+  Generate a 15-second horizontal 16:9 original high-speed hover-bike racing anime video from the provided first frame.
+
+  CRITICAL ENTITY LOCK:
+  There must be exactly 2 racers and 2 bikes in the entire video: RENJI on VALKYRIE-01 (cyan/black drift bike) and ELENA on AERO-X (crimson/white draft bike).
+  Do not add extra racers, drone support vehicles, spectators, or traffic.
+  Maintain total visual consistency for both bikes, helmet visors, suit patterns, repulsor spark colors, and bike liveries throughout the sequence.
+
+  Entity identity:
+  VALKYRIE-01: Matte-black and cyan angular hover-bike, exposed repulsor pads, lateral drift brakes, blue plasma exhaust trails, ridden by Renji (cyan trim suit).
+  AERO-X: Pearl-white and neon-crimson aerodynamic hover-bike, enclosed canopy, crimson energy draft aura, white-hot central booster, ridden by Elena (crimson/gold visor suit).
+
+  Video style:
+  High-budget modern sports anime, sakuga-level velocity animation, crisp line art, vibrant neon lighting contrast, high-speed camera tracking, hyper-realistic friction and energy particle effects. Set on a wet downhill mountain pass at dawn.
+
+  Camera and pacing:
+  Continuous forward velocity, zero slow-motion interruptions:
+  0.0s - 3.0s: High-speed rear-tracking shot diving into the first downhill hairpin curve; instant drift initiation.
+  3.0s - 7.5s: Tight side-parallel tracking shot as bikes navigate rock debris and trade positions through S-curves.
+  7.5s - 11.5s: Close camera lock on the draft-slingshot maneuver; high-energy particle displacement as booster ignition occurs.
+  11.5s - 15.0s: Low-angle front-facing camera lock on the final sprint to the finish line bridge, ending on a hyper-speed photo-finish freeze.
+
+  Action timing:
+  0.0s - 1.5s:
+  Sequence begins at speed. VALKYRIE-01 leads downhill; AERO-X locks onto its rear bumper. Anti-gravity repulsors spray road water and blue sparks into the frame.
+
+  1.5s - 4.0s:
+  First sharp hairpin. VALKYRIE-01 deploys lateral drift airbrakes with a burst of blue thruster fire, sliding sideways at 300 km/h. AERO-X stays glued inside its slipstream aura.
+
+  4.0s - 7.0s:
+  Mountain debris hazard. VALKYRIE-01 hops over a boulder using a repulsor burst. AERO-X ducks under it, scraping the neon magenta guardrail in a cloud of friction sparks.
+
+  7.0s - 10.0s:
+  S-Curve exchange. Bikes lean side-by-side; their repulsor fields collide, creating a bright electrical shockwave. ELENA pulls the overdrive lever; AERO-X's rear fins extend.
+
+  10.0s - 13.0s:
+  Slingshot maneuver. AERO-X bursts out of VALKYRIE-01's draft, igniting its central white plasma booster. Both bikes roar down the final straightaway side-by-side.
+
+  13.0s - 15.0s:
+  Final sprint toward the finish light gate. Water sprays violently behind them. Both nose cones cross the finish line simultaneously in a flash of light. Final freeze frame.
+
+  Motion quality:
+  Fluid 2D animation, extreme speed-line integration, stable bike geometry, flawless vehicle reflection rendering, zero limb or body clipping, high-frame-rate kinetic realism.
+
+  Environment:
+  Wet mountain pass asphalt, sheer cliff walls, neon cyan and magenta guardrail lights, early dawn sky with pink/purple clouds, water spray, floating spark particles.
+
+  Final output:
+  15 seconds, horizontal 16:9, original high-budget sports racing anime, exactly 2 racers, relentless kinetic pacing, dynamic cinematography, no subtitles, no watermarks, no logos.

@@ -1,0 +1,74 @@
+id: seedance-toddler-alphabet-doors-3d-kids-learning
+title:
+  en: Toddler opens alphabet doors in 3D kids video
+  zh: 幼儿逐扇开启字母门的3D儿童启蒙动画
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- 3d-animation
+- kids-education
+- alphabet
+- multi-scene
+- vertical-9-16
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2104764823091490851
+  credit: Zarnab_with_Ai
+  captured: '2026-10-28'
+  posted: '2026-09-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2104764823091490851
+notes:
+  en: 'A fixed character and room description up front keeps the toddler consistent, then each letter gets its own scene built on one repeated pattern: colored door, big letter, door opens, reveal, on screen label. Separate blocks for animation and camera pin down hand to handle contact and gentle push ins across the many cuts.'
+  zh: 开头先固定角色和场景描述以保持幼儿形象一致，再把每个字母写成同一套重复结构：彩色门、大字母、开门、揭示、屏幕标签。单独的动画与镜头段落约束了手握门把的动作和多次切换中的缓慢推镜。
+prompt: |
+  Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style.
+
+  Main character:
+  A cute adorable toddler boy, around 2 years old, with chubby cheeks, big expressive eyes, short light-brown hair, wearing a bright blue T-shirt with a playful “LOL Kids” style graphic and matching diaper/shorts. Keep the child’s appearance consistent throughout the entire video.
+
+  Environment:
+  A clean, bright indoor children's learning room with a glossy white floor, colorful geometric shapes scattered around the background, playful decorations, and a series of colorful doors. Use vibrant red, blue, yellow and green doors. Soft studio lighting, cheerful atmosphere, polished 3D cartoon animation, smooth reflections, high-quality Pixar-like children's animation aesthetic.
+
+  VIDEO SEQUENCE:
+
+  Scene 1 — A for Apple:
+  The toddler stands in front of a bright red door with a large bold yellow letter “A” on it. He reaches toward the door handle and opens the door with excitement. Behind the door is a colorful apple-themed environment with red apples. Show the text “A - APPLE” at the top. The child looks surprised and happy.
+
+  Scene 2 — B for Banana:
+  Cut to a bright blue door with a large yellow “B”. The toddler walks toward it, reaches for the handle and opens the door. Reveal a playful collection of bright yellow bananas behind the door. Display “B - BANANA” at the top.
+
+  Scene 3 — C for Cat:
+  Show a yellow/orange door with a large red “C”. The toddler opens the door and a cute friendly cat appears behind it. The child reacts with excitement and curiosity. Display “C - CAT”.
+
+  Scene 4 — D for Dog:
+  Show a red door with a large yellow “D”. The toddler opens it and reveal a cute friendly brown-and-white puppy standing behind the door. The puppy happily looks toward the child. Display “D - DOG”.
+
+  Scene 5 — E for Elephant:
+  Show a blue door with a large yellow “E”. The toddler opens the door and a cute baby elephant appears. The elephant playfully raises its trunk while the child reacts happily. Display “E - ELEPHANT”.
+
+  Scene 6 — F for Fish:
+  Transition to a bright underwater-themed aquarium area. Show colorful orange fish swimming inside a large glass aquarium. The toddler stands beside it and looks excitedly at the fish. Display “F - FISH”.
+
+  Scene 7 — G for Grapes:
+  Show a green door with a large yellow “G”. The toddler opens the door and discovers a huge bunch of shiny purple grapes behind it. He points toward the grapes with excitement. Display “G - GRAPES”.
+
+  Scene 8 — I for Ice:
+  Show a red door with a large yellow “I”. The toddler stands beside the closed door, reaches for the handle and opens it. Reveal a playful icy environment. Display “I - ICE”.
+
+  Scene 9 — J for Jelly:
+  Show a blue door with a large yellow “J”. The toddler opens the door and reveal colorful jelly/jelly dessert behind it. The child points toward it happily. Display “J - JELLY”.
+
+  Scene 10 — K for Kite:
+  Show a red door with a large yellow “K”. The toddler opens the door and reveal a colorful kite-themed scene. Display “K - KITE”.
+
+  Scene 11 — L for Lion:
+  Show a green door with a large yellow “L”. The toddler opens the door and a cute friendly cartoon lion appears behind it. The lion looks gentle and playful, not scary. The toddler reacts with excitement. Display “L - LION”.
+
+  Final scene:
+  Show a cute fluffy hamster waving goodbye to the camera in a bright pastel background. Add cheerful text:
+  “Bye-Bye 👋”
+  and a colorful kids-learning logo at the bottom.
+
+  Animation and camera:
+  Smooth toddler walking and reaching movements, natural hand interaction with every door handle, realistic door opening motion, expressive facial reactions, playful character animation, gentle camera movements, medium full-body framing, occasional slow push-ins, clean transitions between alphabet scenes, consistent character proportions, bright cinematic lighting, glossy 3D rendering, vibrant colors, soft shadows, highly detailed children'

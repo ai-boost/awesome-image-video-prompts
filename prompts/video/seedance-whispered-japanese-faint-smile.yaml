@@ -1,0 +1,25 @@
+id: seedance-whispered-japanese-faint-smile
+title:
+  en: Whispered Japanese line ending in a faint smile
+  zh: 低声日语台词，以淡淡微笑收尾
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- dialogue
+- japanese
+- facial-expression
+- close-up
+- emotional
+source:
+  name: '@sakisuta_ on X'
+  url: https://x.com/sakisuta_/status/2088559545174175836
+  credit: sakisuta_
+  captured: '2026-10-28'
+  posted: '2026-08-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/sakisuta_/status/2088559545174175836
+notes:
+  en: The prompt is timed to a 12 to 15 second window and moves from a small eyebrow and mouth corner change to one whispered line. It fixes the dialogue language, marks the spoken text in braces, and sets an end state so the expression lands cleanly.
+  zh: 提示词按12到15秒的时间段编写，先写眉毛和嘴角的细微变化，再接一句低声台词。它指定了台词语言，用花括号标出台词原文，并写明结束状态，让表情收得干净。
+prompt: |
+  12-15秒: 眉が緩み、口角が小さく抑えたまま上がる。セリフ言語: 日本語。<Woman> は軽く、ほとんど息のような声で日本語で言う: {……あ、なんで謝るの}。終了状態: かすかに微笑んだまま、彼を見ている。

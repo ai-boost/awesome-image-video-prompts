@@ -1,0 +1,26 @@
+id: h3-cyberpunk-samurai-neon-rain-katana-draw
+title:
+  en: Cyberpunk samurai draws katana in neon rain
+  zh: 赛博朋克武士在霓虹雨中拔刀
+model: MiniMax H3
+mode: text-to-video
+tags:
+- cyberpunk
+- samurai
+- neon-rain
+- slow-motion
+- orbit-shot
+source:
+  name: '@noorwithwifi on X'
+  url: https://x.com/noorwithwifi/status/2084289809359810731
+  credit: NoorAI
+  likes: 77
+  captured: '2026-10-28'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/noorwithwifi/status/2084289809359810731
+notes:
+  en: A single continuous shot with extreme slow motion keeps the action to one clear beat, the katana draw. A camera orbit, volumetric neon fog and lens flare are named as separate cues, so the reflective wet armor catches the colored light.
+  zh: 单一连续镜头加极致慢动作，把动作收束到拔刀这一个节拍。环绕运镜、体积霓虹雾和镜头光晕各自单独点名，让湿润反光的铠甲捕捉到彩色光线。
+prompt: |
+  Continuous 15-second cinematic shot, extreme slow-motion: a futuristic cyberpunk samurai standing in heavy neon rain, reflective wet armor. The samurai slowly draws a glowing katana, lens flare, volumetric neon fog, dynamic camera panning around the character, continuous fluid motion, photorealistic 8k

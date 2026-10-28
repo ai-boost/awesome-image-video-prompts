@@ -1,0 +1,30 @@
+id: seedance-wuxia-fire-sword-shadow-beast-swarm
+title:
+  en: Fire sword warrior against shadow beast swarm
+  zh: 火焰剑客对决暗影兽群
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- wuxia
+- dark-fantasy
+- action
+- vfx
+- low-angle
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2099006619988459985
+  credit: itsSaira_1
+  captured: '2026-10-28'
+  posted: '2026-09-13'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2099006619988459985
+notes:
+  en: 'A low angle tracking shot opens the prompt, followed by a clear beat sequence: spin and slash, ground shockwave, reticle matrix blast, then a slow motion walk. Concrete VFX cues such as fire arc trails, embers and ash give the action visual detail.'
+  zh: 提示词以低机位跟拍开场，再按旋转挥砍、地面冲击波、红色准星阵列爆发、慢动作前行的顺序写出动作节拍。火焰弧光、火星和黑灰等具体特效细节让画面更有层次。
+prompt: |
+  Cinematic dark fantasy wuxia action scene, low angle dynamic tracking shot. A male warrior in black martial robes and arm guards stands in a tall grass field under an overcast gray sky. He spins dynamically, slashing a glowing fiery sword that leaves arc trails of bright orange fire and sparks. A massive swarm of black shadow beasts charges across the field. He triggers a powerful ground shockwave that blasts dirt, smoke, and embers into the air. A circular matrix of glowing red target reticles and energy lasers shoots outward into the monster swarm. The warrior then rests his blazing sword on his shoulder and walks forward in slow motion through floating embers, smoke, and dissolving black ash. Photorealistic VFX, motion blur, 8k resolution, hyper-detailed.
+
+  #ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️
+  #visualstorytelling #flovaai
+  #aicreater
+  #seedance25

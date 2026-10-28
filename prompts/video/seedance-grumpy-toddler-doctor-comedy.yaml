@@ -1,0 +1,41 @@
+id: seedance-grumpy-toddler-doctor-comedy
+title:
+  en: Grumpy toddler doctor examines patient in 3D comedy
+  zh: 暴躁幼儿医生为病人听诊的3D喜剧
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- 3d-animation
+- comedy
+- multi-scene
+- character-consistency
+- vertical
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2113820262743646446
+  credit: Zarnab_with_Ai
+  captured: '2026-10-28'
+  posted: '2026-10-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2113820262743646446
+notes:
+  en: The prompt splits the 30 second story into five numbered scenes, each with a clear beat from examination to reaction shots, a direct look at the camera and a syringe punchline. A fixed character description and an explicit consistency line for face, outfit and proportions keep the toddler stable across cuts, and the style and format blocks set the 3D look and the 9:16 frame.
+  zh: 提示词把30秒故事拆成五个编号场景，从听诊、反应特写、直视镜头到针筒收尾，每段都有明确的笑点。固定的角色描述加上脸、服装和比例保持一致的明确要求，让幼儿医生在切镜时保持稳定，风格与格式段落则锁定3D质感和9:16竖屏。
+prompt: |
+  Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has big expressive brown eyes, soft fair skin, short light-brown hair, and a serious, grumpy facial expression. She wears a miniature white doctor's coat, a white nurse cap with a red medical cross, and a pink stethoscope with a heart-shaped chest piece.
+
+  Scene 1: A young adult man wearing a red T-shirt lies on a medical examination bed while the tiny doctor carefully examines his chest with her stethoscope. The baby doctor looks extremely serious and unimpressed, as if she is a highly experienced physician.
+
+  Scene 2: Show close-up shots of the toddler doctor frowning, narrowing her eyes, and examining the patient with exaggerated expressions. The patient looks nervous and confused, creating a funny contrast between his adult appearance and the tiny doctor's bossy attitude.
+
+  Scene 3: The baby doctor suddenly looks directly at the camera with huge expressive eyes, then returns to her stern expression. Show her confidently holding medical equipment and acting like she is in charge of the entire hospital.
+
+  Scene 4: A young woman enters the room wearing a casual white top and blue jeans. She watches the examination with surprise and amusement. The baby doctor continues her serious medical duties while the patient reacts comically.
+
+  Scene 5: End with the tiny doctor standing confidently beside the patient, holding a medical syringe or medical instrument, with a determined expression. The patient looks worried, creating a humorous final moment.
+
+  Visual Style: Ultra-detailed 3D animated family-movie aesthetic, Pixar-inspired character design, realistic skin shading, soft baby facial features, expressive eyes, cinematic warm indoor lighting, detailed hospital room, smooth character animation, realistic fabric textures, shallow depth of field, close-up reaction shots, gentle camera movements, humorous storytelling, polished 3D rendering, 4K quality.
+
+  Camera and Motion: Use smooth cinematic tracking shots, medium shots, facial close-ups, and reaction shots. Keep the toddler doctor's face, hairstyle, outfit, and body proportions consistent throughout every scene. Natural body movement, accurate hand gestures, expressive facial animation, and seamless scene transitions.
+
+  Format: Vertical 9:16, 24 FPS, approximately 30 seconds, high-quality cinematic 3D animation, family-friendly comedy, no subtitles, no text overlays, no logos.

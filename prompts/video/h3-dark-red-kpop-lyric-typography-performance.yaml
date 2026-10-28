@@ -1,0 +1,26 @@
+id: h3-dark-red-kpop-lyric-typography-performance
+title:
+  en: Dark red K-pop video with lyric typography
+  zh: 暗红氛围韩流歌词字体音乐视频
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- music-video
+- kpop
+- lyrics-typography
+- lip-sync
+- red-atmosphere
+source:
+  name: '@Kiber_Alla on X'
+  url: https://x.com/Kiber_Alla/status/2085138181133894024
+  credit: Kiber Alla
+  likes: 56
+  captured: '2026-10-28'
+  posted: '2026-08-05'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Kiber_Alla/status/2085138181133894024
+notes:
+  en: Locks the performer in close or medium framing with no cuts on her, while typography and backgrounds hard cut every 1 to 1.5 seconds on a numbered lyric list. Three references (character, audio, lyrics) plus explicit mouth and teeth rules keep lip-sync clean.
+  zh: 人物始终锁定近景或中景且不切镜头，歌词字体与背景按编号列表每1到1.5秒硬切。三个参考（角色、音频、歌词）加上对口型与牙齿的明确约束，让对口型保持干净。
+prompt: "10-second dark emotional K-pop music video. Realistic young East Asian woman from the character reference, natural face, real skin texture, messy hair. \nImportant rules: \n- The girl is always framed in close-up or medium shots only. No wide or distant shots at all. \n- The girl performs continuously for the full 10 seconds without any cuts on her. Her movement is natural and fluid — she can shift weight, make small dance-like gestures, turn her head, move her shoulders and hands, but the camera stays on her in consistent medium/close framing. \n- Typography and background change with hard cuts according to the storyboard order, while the girl keeps performing through them.  \n\nSequence of text (hard cuts): \n1. “THE TABLE’S SET AGAIN” \n2. “NOBODY SITS DOWN” \n3. “YOUR WORDS ARE HARD GLASS” \n4. “FALLING TO THE FLOOR NOW” \n5. “I KEPT THE DOOR OPEN” \n6. “YOU KEPT YOUR HANDS CROSSED” \n7. “SAME ROOM, SAME SCAR” \n8. “SAME OLD COST” \n9. Final rose  The girl sings the entire song\
+  \ with clear, accurate lip-sync. \n\nMouth and teeth must stay natural and undistorted at all times — no deformation, no melting, no artifacts. Emotional facial performance. Typography stays sharp and reacts (cracks, shifts, particles). Changing typography every 1–1.5 seconds. Heavy red atmosphere, cinematic lighting, photoreal\n"

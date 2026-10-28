@@ -1,0 +1,26 @@
+id: h3-forgotten-kingdom-stone-bridge-traveler
+title:
+  en: Traveler Crosses Stone Bridge to Hidden Kingdom
+  zh: 旅人走过石桥前往隐秘王国
+model: MiniMax H3
+mode: text-to-video
+tags:
+- fantasy
+- cinematic
+- epic-adventure
+- dragons
+- volumetric-lighting
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2085221226335879541
+  credit: Ali
+  likes: 211
+  captured: '2026-10-28'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aiwithaly/status/2085221226335879541
+notes:
+  en: 'One flowing paragraph lays out the story beats in order: bridge, gates opening, guardians waking, lanterns, dragons. A closing stack of cinema keywords (ARRI Alexa 35, anamorphic lenses, volumetric lighting) fixes the look, and the no text, no logos line keeps the frame clean.'
+  zh: 一段连贯的文字按顺序写出剧情节拍：石桥、城门开启、守卫苏醒、灯笼、飞龙。结尾堆叠电影级关键词（ARRI Alexa 35、变形镜头、体积光）来锁定画面质感，再用不出现文字和标志的约束保持画面干净。
+prompt: |
+  A cinematic 15-second fantasy adventure following a lone traveler as they cross an ancient stone bridge toward a forgotten medieval kingdom hidden beneath towering cliffs. As colossal gates slowly open, giant stone guardians awaken and glowing light spills through the mist, revealing a city untouched by time. The traveler steps forward as thousands of lanterns illuminate the streets, waterfalls cascade from towering cliffs, and majestic dragons soar across the sunrise sky. Epic cinematic camera movements, IMAX-scale visuals, volumetric lighting, realistic weather effects, premium VFX, emotional orchestral atmosphere, ARRI Alexa 35 aesthetic, anamorphic lenses, 4K HDR, seamless continuity, blockbuster movie quality, no text, no logos.

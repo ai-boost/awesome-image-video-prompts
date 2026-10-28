@@ -1,0 +1,26 @@
+id: h3-street-photographer-candid-old-man-dog
+title:
+  en: Street photographer captures candid moment and shows it
+  zh: 街头摄影师抓拍老人与小狗并展示照片
+model: MiniMax H3
+mode: text-to-video
+tags:
+- street-photography
+- documentary
+- photorealistic
+- handheld
+- dialogue
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2087102541146522089
+  credit: Ali
+  likes: 183
+  captured: '2026-10-28'
+  posted: '2026-08-11'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aiwithaly/status/2087102541146522089
+notes:
+  en: 'The prompt describes the action as one continuous beat sequence: notice, compose, shoot, turn to camera, speak a short line, walk on. It then adds a single stack of realism cues for handheld movement, hand accuracy, dog behavior and ambient city sound.'
+  zh: 提示词把动作写成一条连续节拍：发现、构图、按快门、转向镜头、说一句短台词、继续前行。结尾用一串写实关键词，约束手持运动、手部动作、狗的行为和城市环境音。
+prompt: |
+  A young Western female street photographer walks through a lively downtown street and notices an elderly man sitting outside a café with his small dog. She carefully composes the candid moment through her camera, captures the photo, then turns the camera toward the viewer to proudly show the shot she just took. She smiles, says “Look at that,” then continues walking through the city. Ultra-photorealistic visuals, natural handheld documentary movement, realistic camera interaction, authentic facial expressions, accurate hand movements, realistic dog behavior, natural daylight, cinematic depth of field, continuous character consistency, immersive city ambience, premium documentary realism.

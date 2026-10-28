@@ -1,0 +1,40 @@
+id: h3-dragon-attack-medieval-fleet-northern-sea
+title:
+  en: Dragon Attacks Medieval Fleet in Stormy Sea
+  zh: 巨龙突袭风暴北海中的中世纪舰队
+model: MiniMax H3
+mode: text-to-video
+tags:
+- fantasy
+- dragon
+- naval-battle
+- multi-shot
+- cinematic
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2086833428713116099
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 53
+  captured: '2026-10-28'
+  posted: '2026-08-10'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Diplomeme/status/2086833428713116099
+notes:
+  en: The 15 second clip is split into five timed beats that alternate high aerial, low deck level and distant mountain shots, so the dragon's approach builds to a fireball hit on the lead ship. A closing style line of exclusions keeps faces out of close-ups and avoids celebrity likenesses.
+  zh: 15秒内分成五个时间节拍,在高空俯瞰、甲板低机位和远处山景之间切换,让巨龙的逼近一步步推向火球击中领头舰。结尾的风格句列出排除项,避免人脸特写和名人相似。
+prompt: |
+  Hyper-realistic cinematic fantasy action sequence, 15 seconds, aspect ratio 16:9.
+
+  Daytime in a vast cold northern sea surrounded by jagged mountains and dark rocky cliffs. A fleet of large medieval wooden warships sails through rough black-blue water while armored soldiers prepare for battle on the decks. Massive sails snap violently in the wind. The ships carry burning braziers, ropes, shields, spears, banners, wooden siege weapons, and rows of armed warriors. Thick storm clouds hang low above the sea. Wind drives sea spray across the decks. The danger comes from the sky: a giant dragon approaches from behind the mountains, its enormous wings gradually emerging through the mist.
+
+  Begin with a high sweeping view of the entire fleet moving through the dangerous northern sea. Several warships sail in formation while smaller boats move between them. Soldiers look toward the distant mountains as a huge shadow passes across the water.
+  Shift to a low deck-level view among the warriors. Men raise shields and grab spears while officers shout commands. The camera moves toward the front of the ship as the wind suddenly becomes violent.
+  Cut to a distant view of the mountains. The dragon bursts through the clouds and flies directly toward the fleet, enormous wings beating through the storm mist. Its silhouette grows rapidly larger.
+
+  Return above the ships as the dragon dives toward the fleet. Sailors scramble across the decks while archers rush into position. Burning arrows are lit and giant ballistae are rotated toward the approaching creature.
+
+  Near the end, the dragon suddenly opens its jaws and releases a massive stream of fire toward the lead warship. The flames illuminate the dark sea as the crew raises shields and desperately attempts to turn the vessel.
+
+  End with the dragon flying directly above the fleet as the first fireball crashes into the lead ship, exploding across its wooden deck.
+
+  Style: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atmosphere, strong sense of scale, warships, dragon battle, ocean storm, medieval warfare, fire, smoke, dynamic varied camera movement, no text, no logos, no cartoon style, no slow motion, no famous celebrity faces, no recognizable actors, no movie-star resemblance, no public-figure likenesses, no clear facial close-ups. Keep proportions. Keep style and features. Aspect ratio 16:9.

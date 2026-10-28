@@ -1,0 +1,663 @@
+# Posters and editorial layouts
+
+[Back to the list](../../README.md) · All 10 entries
+
+<a id="gpt-image-minimal-lifestyle-poster"></a>
+### Minimal lifestyle art poster from a real photo
+
+<a href="https://x.com/Naiknelofar788/status/2101161664892829838"><img src="../../previews/gpt-image-minimal-lifestyle-poster.jpg" width="360"></a>
+
+A fill-in template: swap `[PERSON / SUBJECT / MOMENT]`. Keeps the subject recognisable while dropping the photographic background.
+
+GPT Image 2.5 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2101161664892829838) · 1,698 likes on 2026-10-27
+
+[`editorial`](tags.md#tag-editorial) [`illustration`](tags.md#tag-illustration) [`template`](tags.md#tag-template) [`photo-to-art`](tags.md#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A sophisticated minimalist lifestyle art poster featuring [PERSON / SUBJECT / MOMENT] as the central focus, transformed from a real-life photograph into a refined hand-drawn editorial illustration. Preserve the subject’s recognizable pose, silhouette, clothing, hairstyle, and key visual details while simplifying the scene into an elegant artistic composition.
+
+Use a limited vintage color palette inspired by the original environment, with warm muted tones printed on an ivory/off-white paper background. Combine delicate ink outlines, loose sketchwork, fine hatching, subtle halftone texture, faded print imperfections, and soft watercolor-like washes.
+
+Reduce the surrounding environment into a few recognizable contextual elements—[CAFÉ / BAR / STREET / LANDMARK / OBJECTS]—using simplified linework and layered shapes rather than detailed realism. Add subtle abstract circles, geometric forms, atmospheric marks, tiny decorative elements, or silhouettes to create visual depth.
+
+Include small minimalist typography on one side: [CITY / LOCATION], [SUBJECT / MOMENT], and optional coordinates, date, or short descriptor, designed like a premium collectible travel/lifestyle print.
+
+Generous negative space, elegant editorial composition, vintage screen-print aesthetic, hand-crafted illustration, sophisticated travel-magazine design, muted heritage colors, subtle paper grain, artistic but recognizable, no photorealistic background, no excessive details, 4:5 vertical composition.
+```
+
+</details>
+
+<a id="gpt-image-editorial-illustration-poster"></a>
+### Turn each photo into a quiet editorial illustration poster
+
+<a href="https://x.com/icreatelife/status/2099343607492702258"><img src="../../previews/gpt-image-editorial-illustration-poster.jpg" width="360"></a>
+
+Opens by forbidding collages, one poster per photo, and closes with a row of mood words the result should feel like.
+
+GPT Image 2.5 · Edit · Source: [@icreatelife on X](https://x.com/icreatelife/status/2099343607492702258) · 1,165 likes on 2026-10-27
+
+[`editorial`](tags.md#tag-editorial) [`illustration`](tags.md#tag-illustration) [`photo-to-art`](tags.md#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create one independent high-end editorial poster for each uploaded photo. Do not combine multiple photos into a collage. Each photo must be processed and output as a separate poster.
+
+OVERALL FORMAT
+
+Strict 3:4 vertical composition.
+
+Divide the canvas horizontally into two exactly equal sections, with a precise 1:1 height ratio.
+
+The top half occupies exactly 50% of the canvas.
+
+The bottom half occupies exactly 50% of the canvas.
+
+The two sections should feel visually connected as one refined art publication cover.
+
+TOP HALF — ORIGINAL PHOTOGRAPH
+
+Preserve the original photograph as faithfully as possible.
+
+Keep the main composition, subjects, identity, facial features, body proportions, poses, expressions, clothing, objects, and spatial relationships unchanged.
+
+Preserve the realistic photographic texture, natural lighting, shadows, atmosphere, and original color mood.
+
+Apply only subtle, sophisticated editorial color grading, creating the feeling of a premium magazine photograph, contemporary art book, or high-end independent publication.
+
+The image should remain photorealistic and authentic, never overly retouched or artificially stylized.
+
+If necessary to fit the 3:4 composition naturally, extend the sky, ground, walls, or surrounding environmental background.
+
+Background extension must feel seamless and photographic.
+
+Never stretch, distort, reshape, replace, or alter the main subject.
+
+BOTTOM HALF — MINIMAL HAND-DRAWN PAPER ILLUSTRATION
+
+Extract the most recognizable visual elements from the original photograph and reinterpret them as a minimalist hand-drawn paper-cover illustration.
+
+Preserve:
+
+The most recognizable subject
+
+Essential silhouette and proportions
+
+Key pose or gesture
+
+Important objects
+
+The core narrative relationship between people and objects
+
+Highly simplify the image. Remove unnecessary details and retain only the visual information needed for immediate recognition.
+
+Use:
+
+Delicate, slightly imperfect hand-drawn lines
+
+A small number of bold, clearly defined acrylic-style flat color shapes
+
+Rough paper texture
+
+Visible handmade brush marks
+
+Slightly irregular, organic edges
+
+Subtle imperfections that make it feel genuinely handmade
+
+The main illustrated subject should be small, centered, and carefully composed, occupying approximately 10–20% of the bottom half.
+
+Leave a large amount of negative space around the illustration.
+
+The background should primarily resemble:
+
+Rough white paper
+
+Warm off-white paper
+
+Pale natural paper
+
+Minimal editorial book-cover stock
+
+Use only a few lines or small color shapes to suggest the surrounding environment.
+
+COLOR PALETTE
+
+Extract the dominant colors directly from the original photograph.
+
+Compress the palette into no more than 4 main colors.
+
+Keep the colors restrained, sophisticated, and harmonious.
+
+Use bold but controlled flat color blocks.
+
+Avoid excessive color variation.
+
+Preserve subtle paper grain and handmade brush texture.
+
+The illustration should visually feel like a simplified color interpretation of the photograph.
+
+TYPOGRAPHY
+
+A small amount of simple typography may be included when appropriate.
+
+Possible elements:
+
+A short title
+
+Keyword
+
+Object name
+
+Location
+
+Year
+
+Number
+
+Short phrase
+
+Text should be minimal, understated, and editorial.
+
+Typography should naturally interact with the large areas of negative space and the small illustration, evoking:
+
+Art book covers
+
+Independent publishing
+
+Contemporary editorial design
+
+Thoughtful children's picture books
+
+Do not force text into the composition if it does not naturally fit the photograph.
+
+VISUAL LANGUAGE
+
+The final poster should feel:
+
+Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thoughtful · High-recognition · Premium
+```
+
+</details>
+
+<a id="gpt-image-halftone-architecture-poster"></a>
+### Building photo to halftone travel-collage poster
+
+<a href="https://x.com/Naiknelofar788/status/2100067049288634730"><img src="../../previews/gpt-image-halftone-architecture-poster.jpg" width="360"></a>
+
+Long spec with a closing priority rule: architectural accuracy first, the halftone treatment second.
+
+GPT Image 2.5 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2100067049288634730) · 497 likes on 2026-10-27
+
+[`halftone`](tags.md#tag-halftone) [`architecture`](tags.md#tag-architecture) [`travel`](tags.md#tag-travel) [`collage`](tags.md#tag-collage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
+
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.
+
+Do not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.
+
+TOP HALF — THE REAL SHOT
+
+Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.
+
+Keep recognizable features such as:
+
+* façade
+* windows and arches
+* towers or domes
+* doors and structural details
+* roofline
+* surrounding landscape or street elements
+
+Add only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Rebuild the same structure as an experimental printed architectural collage using:
+
+torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.
+
+The structure must remain immediately recognizable.
+
+* Torn-edge photographic fragments preserve the most important architectural details.
+* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.
+* Use thin technical construction lines to subtly trace the structure’s geometry.
+* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.
+* Keep the main silhouette strong and readable.
+* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.
+* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.
+* Never fully desaturate the structure.
+
+The structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.
+
+Leave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.
+
+TYPOGRAPHY
+
+Add one clean, readable fixed-width architectural title based on the structure:
+
+[STRUCTURE NAME]
+
+Below it include:
+
+[CITY, COUNTRY]
+REC. STUDY 01
+
+Add one short observational caption related to the architecture, such as:
+
+“A monumental study in geometry, time, and place.”
+
+Typography should feel like an old architectural archive mixed with an underground experimental design journal.
+
+A few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.
+
+MOOD
+
+Early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.
+
+The structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.
+
+Sophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.
+
+AVOID
+
+Solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.
+
+Priority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.
+```
+
+</details>
+
+<a id="nano-banana-photo-ink-split-poster"></a>
+### Half photo, half black-ink illustration poster
+
+<a href="https://x.com/ChillaiKalan__/status/2110581440085987751"><img src="../../previews/nano-banana-photo-ink-split-poster.jpg" width="360"></a>
+
+Asks for an exact 50/50 split, then specifies how each half treats the same subject.
+
+Nano Banana 2.1 · Edit · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2110581440085987751) · 414 likes on 2026-10-27
+
+[`split-composition`](tags.md#tag-split-composition) [`ink`](tags.md#tag-ink) [`photo-to-art`](tags.md#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.
+
+Divide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.
+
+1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH
+
+Use the uploaded reference photograph directly in the upper 50% of the poster.
+
+Preserve its original photographic quality, sharpness, natural lighting, and color relationships.
+
+Allow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.
+
+If required, naturally extend a small portion of the surrounding environment to fit the composition.
+
+Do not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.
+
+Do not introduce black borders, white margins, or empty edges.
+
+2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION
+
+Use a warm, near-white ivory paper background with an extremely subtle paper texture.
+
+Analyze the main subject and visual story of the uploaded reference image.
+
+Extract only the primary subject, preserving one or two essential identifying elements.
+
+Remove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.
+
+Transform the primary subject into a sophisticated black-ink editorial illustration.
+
+ILLUSTRATION STYLE:
+
+Use natural, clean pen strokes with varied line weight.
+
+Preserve an authentic hand-drawn appearance with expressive but controlled linework.
+
+Avoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.
+
+Place a large, nearly pure-black rectangular ink block behind the illustrated subject.
+
+The rectangular block should have subtly imperfect, handmade print-style edges.
+
+Keep the black background clean, with only fine paper grain and minimal noise.
+
+Avoid obvious hatching, scratches, architectural lines, or complex textures.
+
+ILLUSTRATION SCALE AND COMPOSITION:
+
+The illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.
+
+Maintain a clear visual focal point with generous negative space surrounding the illustration.
+
+3. COLOR RULES
+
+The bottom illustration must follow a strictly black-and-white color palette by default.
+
+Preserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.
+
+Ordinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.
+
+Any preserved accent color must remain strictly localized to the relevant subject or area.
+
+Never allow accent colors to spread across the entire illustration.
+
+4. TYPOGRAPHY AND EDITORIAL LAYOUT
+
+Automatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.
+
+The typography must resemble handwritten editorial annotations from an independent art publication.
+
+TOP-LEFT CORNER:
+
+Generate a short handwritten title consisting of 2–5 words, arranged across two lines.
+
+Directly beneath the title, include three short English action verbs relevant to the photograph.
+
+TOP-RIGHT CORNER:
+
+Display only two lines of geographic coordinates:
+
+Latitude
+Longitude
+
+Do not include any additional text in this area.
+
+BOTTOM-LEFT CORNER:
+
+Display the location name followed by the word "DIARY."
+
+Directly beneath it, add one short descriptive English sentence inspired by the photograph.
+
+TYPOGRAPHY STYLE:
+
+Use a rough, upright, slightly irregular handwritten typeface.
+
+Maintain subtle imperfections and a natural editorial annotation aesthetic.
+
+Avoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.
+
+5. FINAL ART DIRECTION
+
+The finished poster must combine:
+
+Authentic, high-quality photography.
+Minimalist black-and-white editorial illustration.
+Generous negative space.
+Independent art publication aesthetics.
+Quiet, restrained, sophisticated visual storytelling.
+Natural handwritten typography.
+A balanced relationship between documentary realism and expressive hand-drawn artwork.
+
+The overall result should resemble a carefully designed, collectible editorial art print.
+
+6. FINAL OUTPUT REQUIREMENTS
+
+ASPECT RATIO:
+2:3 vertical.
+
+RESOLUTION:
+High-resolution, sharp, print-quality output.
+
+COMPOSITION:
+
+Exactly 50% original reference photography on top.
+
+Exactly 50% editorial illustration on the bottom.
+
+One perfectly straight horizontal dividing line.
+
+One complete, standalone poster.
+
+RESTRICTIONS:
+
+No collages.
+No multi-poster layouts.
+No combined images.
+No unnecessary decorative elements.
+No modifications to the original subject's identity or appearance.
+No excessive illustration details.
+No changes to the original photograph's natural color relationships.
+
+FINAL GOAL:
+
+Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.
+```
+
+</details>
+
+<a id="gpt-image-editorial-split-poster-roses"></a>
+### Editorial poster of woman with roses and yellow bag
+
+<a href="https://x.com/Ziha_ai/status/2106990557813968909"><img src="../../previews/gpt-image-editorial-split-poster-roses.jpg" width="360"></a>
+
+The canvas is split into two exact halves. The top keeps the original photo untouched, and the bottom rebuilds the subject over one low saturation color window sampled from the photo. The subject crosses the window edge into white negative space, which gives depth and avoids a sticker look.
+
+GPT Image 2.5 · Edit · Source: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2106990557813968909) · 337 likes on 2026-10-27
+
+[`editorial-poster`](tags.md#tag-editorial-poster) [`split-layout`](tags.md#tag-split-layout) [`color-window`](tags.md#tag-color-window) [`negative-space`](tags.md#tag-negative-space) [`photo-reconstruction`](tags.md#tag-photo-reconstruction)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Premium Editorial Poster Instructions
+
+Each uploaded photo must be made into a separate, independent, premium editorial poster, and multiple photos must not be combined. Use a strict 3:4 vertical canvas. Split the canvas horizontally in the exact center: the upper half and the lower half each occupy 50% of the height, are equally wide, and equally high, with no alteration of proportion.
+
+The upper half uses the original photo directly and must not be regenerated. Preserve the identity of the main subject, the human body or architectural structure, proportions, perspective, spatial relationships, texture, natural light and shadow, color, and environment in their entirety. Only slight cropping and restrained premium color grading are permitted; re-drawing the main subject, fictional light, HDR, excessive saturation, plastic texture, and fictional content are prohibited. hibited. When needing to adapt to the frame, only environmental areas such as sky, water surface, ground, walls, plants, or background can be extended.
+
+The lower half extracts and reconstructs the "narrative core" of the photo: it can be a single primary subject, or a group of related elements that together embody the photo's identity, scale, action, o story relationship. Maintain its realistic, recognizable appearance, proportion, internal structure, texture, and relative position. Do not remove important related elements, and do not directly us rectangular photo cutouts. The reconstructed subject typically occupies 55%-80% of the width of the lower area. It should naturally extend based on the photo's primary direction and retain plausible ground, water lines, shadows, or softly dissipated edges to integrate into the background, avoiding a sticker-like or floating appearance.
+
+Incorporate a narrow, low-saturation geometric color field behind or through the center of the subject, serving as a "critical window" between reality and editorial abstraction. The color of the window must be extracted from the original photo, and its orientation (horizontal, vertical, or diagonal) chosen based on the overall narrative direction.
+
+The subject must actively pass through the window: part of it is within the color field, and part enters the open negative space, naturally crossing the window's boundary to create occlusion, penetration, and spatial depth. The window is not a frame or a card; it must not fully enclose the subject. Only one primary window is allowed; multiple color blocks, thick borders, rounded corners, strong gradients, and drop shadows are prohibited.
+
+Use a white, cool white, very light gray, or near-white background for the lower half, coordinated with the photo. Employ a restrained asymmetrical composition and abundant negative space to establish a three-tier hierarchy:
+
+Reconstructed subject or narrative composition
+
+Low-saturation geometric window
+```
+
+</details>
+
+<a id="nano-banana-photo-sketch-editorial"></a>
+### Photograph above, sketch below: an editorial template
+
+<a href="https://x.com/ChillaiKalan__/status/2111332272670417236"><img src="../../previews/nano-banana-photo-sketch-editorial.jpg" width="360"></a>
+
+Fill `[SUBJECT]` and `[SETTING]`. The ban list covers the usual split-poster failures: heavy borders, mismatched faces.
+
+Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2111332272670417236) · 266 likes on 2026-10-27
+
+[`split-composition`](tags.md#tag-split-composition) [`template`](tags.md#tag-template) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium editorial poster featuring a two-part visual composition. The upper half shows a photorealistic photograph of [SUBJECT] in [SETTING], captured in warm natural sunlight with realistic skin texture, authentic expressions, soft highlights, and cinematic depth of field. The lower half transforms the exact same scene into a beautiful hand-painted digital illustration, preserving the subject’s pose, hairstyle, clothing, colors, and key visual details.
+
+Place the illustrated scene inside a clean rectangular frame on a warm ivory, subtly textured paper background. Use a charming contemporary illustration style with delicate brush textures, simplified organic shapes, pastel colors, soft outlines, and a nostalgic summer-magazine aesthetic. Add tasteful decorative elements that complement the scene.
+
+Below the illustration, include a centered minimalist editorial title reading “[MAIN TITLE]” in thin, widely spaced uppercase typography, followed by a smaller subtitle reading “[TAGLINE]” in elegant letter-spaced text. Add a short, thin pastel-colored line underneath.
+
+Maintain balanced spacing, refined art direction, a cohesive color palette, and a sophisticated print-design finish. Vertical 3:4 composition, high resolution, natural lighting, polished editorial layout, aesthetically pleasing, realistic-to-illustration transformation.
+
+Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, harsh colors, heavy borders, and unnecessary graphic elements.
+```
+
+</details>
+
+<a id="gpt-image-landmark-sketch-travel-poster"></a>
+### Istanbul landmark sketch travel poster in red ink
+
+<a href="https://x.com/Naiknelofar788/status/2101315631237021853"><img src="../../previews/gpt-image-landmark-sketch-travel-poster.jpg" width="360"></a>
+
+A fill in the blank template swaps in the landmark, city and coordinates while fixed style terms keep the look consistent. Ivory paper, hatching, halftone, geometric shapes and a 4:5 ratio give the print feel.
+
+GPT Image 2.5 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2101315631237021853) · 211 likes on 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`architecture`](tags.md#tag-architecture) [`sketch`](tags.md#tag-sketch) [`halftone`](tags.md#tag-halftone) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.
+
+Use a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.
+
+Surround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.
+
+Include small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.
+
+Clean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.
+
+[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.
+```
+
+</details>
+
+<a id="gpt-image-travel-poster-photo-diorama-split"></a>
+### Shanghai skyline photo paired with isometric miniature diorama
+
+<a href="https://x.com/Goodmanprotocol/status/2107675234858131544"><img src="../../previews/gpt-image-travel-poster-photo-diorama-split.jpg" width="360"></a>
+
+The poster is split into two stacked halves, a photoreal destination scene on top and an isometric diorama of the same scene on a dark slab below. Continuity rules, a bracketed location slot and fixed typography blocks with warm off white negative space keep the layout reusable for any city.
+
+GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2107675234858131544) · 200 likes on 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`miniature`](tags.md#tag-miniature) [`editorial-layout`](tags.md#tag-editorial-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 3:4 vertical editorial travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.
+
+COMPOSITION
+Divide the poster into two seamless stacked halves with no gap.
+
+TOP HALF:
+Create a full-width photorealistic cinematic travel scene representing [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose its most recognizable architecture, surroundings, atmosphere, materials, colors, and natural lighting. Treat this as the authentic photographic view of the destination.
+
+BOTTOM HALF:
+Transform the same scene into a highly detailed isometric miniature diorama viewed from approximately a 45° elevated angle. Rebuild the recognizable architecture, streets, landscape, vegetation, and surrounding elements as a physically believable miniature world on a thin dark-gray rectangular base slab.
+
+Maintain visual continuity between the upper photograph and lower diorama — same architecture, same environment, same lighting mood, and recognizable details — while making the lower section clearly handcrafted as a miniature.
+
+EDITORIAL LAYOUT
+Place the diorama toward the lower-right area, leaving generous warm off-white negative space around it.
+
+Use thin dark-navy sans-serif typography in the empty space:
+- a poetic 3-line uppercase title
+- “/”
+- a short 4-line travel verse
+- bottom-left: “001” followed by a thin horizontal rule and [CITY / COUNTRY]
+- bottom-right: a thin horizontal rule followed by accurate GPS coordinates
+
+Automatically determine the appropriate city, country, landmark, and coordinates from [COUNTRY / CITY / LOCATION / SUBJECT].
+
+STYLE
+Photorealistic travel photography × hyper-detailed architectural miniature × premium editorial design × quiet luxury travel journal.
+
+Use realistic materials, miniature-scale details, natural shadows, subtle depth of field, warm off-white paper, restrained dark-navy typography, and sophisticated negative space.
+
+The lower diorama must feel physically constructed rather than like a flat illustration — tiny buildings, roads, vegetation, textures, shadows, and architectural details should have believable scale and depth.
+
+FINAL AESTHETIC
+Minimal, intelligent, atmospheric, collectible, and highly refined — a contemporary travel journal combining the real destination with its miniature architectural memory.
+
+Avoid collage seams, separate unrelated scenes, generic architecture, invented landmarks, excessive typography, glossy CGI, cartoon styling, clutter, logos, watermarks, borders, and UI elements.
+
+FORMAT
+3:4 vertical, two stacked halves, no gap, upper photorealistic destination scene, lower isometric miniature diorama, premium editorial finish.
+```
+
+</details>
+
+<a id="nano-banana-artbook-spread"></a>
+### Nostalgic magazine artbook spread from a photo
+
+<a href="https://x.com/Just_sharon7/status/2107574724041769179"><img src="../../previews/nano-banana-artbook-spread.jpg" width="360"></a>
+
+Keeps the original subjects and adds a sketched echo of them, laid out like a printed spread.
+
+Nano Banana 2.1 · Edit · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2107574724041769179) · 183 likes on 2026-10-27
+
+[`magazine`](tags.md#tag-magazine) [`photo-to-art`](tags.md#tag-photo-to-art) [`nostalgic`](tags.md#tag-nostalgic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a nostalgic, magazine-inspired photo-and-illustration artbook spread using the reference image as the visual foundation. Maintain the original subjects, identities, poses, expressions, wardrobe, framing, and emotional tone without altering their recognizable appearance.
+
+Design the composition as two vertically flowing interpretations of the same moment.
+
+In the upper portion, recreate the reference as an intimate cinematic photograph. Use gentle natural light, realistic skin and fabric textures, muted authentic colors, delicate analog film grain, soft background separation, and shallow depth of field. The image should feel spontaneous and personal, like a quiet memory captured on film rather than a staged portrait.
+
+In the lower portion, reinterpret that identical moment as a raw black-and-white ink drawing printed on warm ivory sketchbook paper. Preserve the characters, pose, proportions, and composition while replacing photographic detail with expressive hand-drawn linework, irregular pen strokes, loose cross-hatching, unfinished contours, and restrained shading. Allow small imperfections so the illustration feels genuinely handmade rather than digitally traced.
+
+Blend both sections naturally so the photograph appears to dissolve into the drawing, creating the impression of a memory gradually becoming an illustration.
+
+Surround the lower artwork with restrained editorial design elements: a small numbered chapter heading, a brief poetic handwritten annotation, tiny archival or documentary notes, and subtle typographic details. Keep all typography secondary to the imagery.
+
+Use generous cream-toned negative space, tactile paper grain, faint printing imperfections, understated vintage publishing details, and an elegant minimalist layout inspired by contemporary photography journals and Japanese visual diaries.
+
+Overall mood: nostalgic, intimate, poetic, cinematic, handcrafted, sophisticated, and emotionally warm.
+
+Maintain realistic anatomy, natural body proportions, recognizable faces, believable hands, and consistent clothing throughout both versions. High-detail editorial finish, cohesive photo-to-sketch transition, no branding, no logos, and no watermark.
+```
+
+</details>
+
+<a id="gpt-image-teddy-bear-holiday-card"></a>
+### Nostalgic Christmas card with an old teddy bear
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="../../previews/gpt-image-teddy-bear-holiday-card.jpg" width="360"></a>
+
+Scene, mood, style and constraints are labeled blocks, and the card text is given verbatim as the only text allowed. Preview: the Sunburst variant.
+
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+[`holiday`](tags.md#tag-holiday) [`card`](tags.md#tag-card) [`text-render`](tags.md#tag-text-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+</details>

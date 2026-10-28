@@ -1,0 +1,78 @@
+id: seedance-mud-in-jar-becomes-bird
+title:
+  en: Mud in a jar transforms into a bird
+  zh: 玻璃罐里的泥土变成一只鸟
+model: Seedance 2.5
+mode: image-to-video
+tags:
+- transformation
+- macro
+- photorealistic
+- fantasy
+- vertical
+source:
+  name: '@Yesandyou_ on X'
+  url: https://x.com/Yesandyou_/status/2090075447195480403
+  credit: Yesandyou_
+  captured: '2026-10-28'
+  posted: '2026-08-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Yesandyou_/status/2090075447195480403
+notes:
+  en: A reference image locks the subject, and the ten seconds are split into four timed beats that run from the mud stirring to the bird's final close up. A camera and style block that forbids cuts and shake, plus a long negative prompt, keeps the transformation physically believable.
+  zh: 用参考图锁定主体，把十秒切成四个带时间码的段落，从泥土涌动一直写到小鸟的最终特写。镜头与风格部分禁止切镜和抖动，再配上很长的负面提示词，让变形过程显得真实可信。
+prompt: |
+  Use the uploaded image as the exact visual reference. Create a highly detailed, cinematic 10-second magical transformation video. Keep the overall composition, character appearance, lighting, camera quality, and environment consistent with the reference.
+
+  ⏱️ 0–2 seconds — Jar & Mud
+  The subject is holding a small transparent glass jar/container carefully in both hands. Inside the jar is thick, dark, moist magical mud/soil with realistic texture. The camera slowly pushes toward the jar, focusing on the mud. Tiny particles of soil begin to move naturally.
+
+  🌱 2–5 seconds — Mud Comes Alive
+  The mud inside the jar starts gently swirling and rising as if something is forming underneath it. Small cracks appear across the surface of the mud. Tiny pieces of soil lift into the air and fall naturally. A subtle magical glow begins to emerge from inside the mud, while keeping the scene photorealistic rather than cartoonish.
+
+  🐣 5–8 seconds — Bird Emerges
+  A small realistic bird slowly emerges from the mud inside the jar. First, its tiny head appears, followed by its neck, wings, and body. Wet mud naturally falls away from its feathers as it comes out. The bird gradually becomes fully formed, with extremely detailed feathers, realistic eyes, tiny beak, and natural movements. The emergence should feel magical but physically believable.
+
+  🐦 8–10 seconds — Final Moment
+  The bird completely emerges from the mud and gently spreads its wings. A few tiny pieces of mud fall back into the jar. The bird looks around naturally and gives a subtle wing movement. The camera finishes with a beautiful close-up of the bird sitting on/above the mud inside the jar, creating a mysterious and magical final shot.
+
+  🎥 CAMERA & VISUAL STYLE
+
+  Duration: 10 seconds
+  Format: 9:16 vertical
+  Ultra-photorealistic
+  Cinematic fantasy realism
+  Smooth slow camera movement
+  Macro-style detail on mud and feathers
+  Realistic depth of field
+  Natural lighting and shadows
+  Detailed glass reflections
+  Realistic mud physics
+  Smooth motion with strong temporal consistency
+  No sudden camera movements
+  No cuts
+  No transitions
+  No camera shake
+
+  🪶 BIRD DETAILS
+
+  The bird should look completely realistic:
+
+  Extremely detailed individual feathers
+  Natural feather movement
+  Realistic eyes and beak
+  Correct bird anatomy
+  Natural wing structure
+  Realistic proportions
+  Wet mud sticking temporarily to feathers
+  Mud naturally falling away as the bird emerges
+  Subtle breathing and head movement
+  Natural wing movement
+
+  🚫 NEGATIVE PROMPT
+
+  cartoon, anime, CGI-looking bird, fake feathers, deformed bird, malformed wings, extra wings, extra legs, extra eyes, multiple birds, duplicate bird, bird suddenly appearing, bird teleportation, unnatural bird anatomy, giant bird, oversized bird, disappearing bird, distorted mud, floating mud, unrealistic mud physics, excessive magic effects, cartoon magic, excessive glowing particles, explosions, smoke, fire, distorted jar, broken glass, melting glass, changing jar shape, extra hands, deformed fingers, missing fingers, distorted hands, face distortion, blurry, low resolution, pixelated, oversaturated, excessive bloom, excessive lens flare, camera shake, fast zoom, sudden movement, flickering, ghosting, frame interpolation artifacts, object morphing, inconsistent lighting, watermark, logo, text, subtitles, UI elements.
+
+  ✨ FINAL QUALITY
+
+  Photorealistic cinematic fantasy, highly detailed wet mud, realistic glass, physically accurate lighting, natural bird anatomy, extremely detailed feathers, believable mud-to-bird transformation, smooth 10-second animation, consistent objects and environment, premium cinematic quality, realistic depth of field, 4K-quality detail.

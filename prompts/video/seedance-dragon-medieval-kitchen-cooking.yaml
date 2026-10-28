@@ -1,0 +1,47 @@
+id: seedance-dragon-medieval-kitchen-cooking
+title:
+  en: White dragon joins medieval village cooking session
+  zh: 白龙加入中世纪村庄烹饪
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- fantasy
+- dragon
+- multi-shot
+- cinematic
+- photorealistic
+source:
+  name: '@ZoyaAi_ on X'
+  url: https://x.com/ZoyaAi_/status/2113998714842779948
+  credit: ZoyaAi_
+  captured: '2026-10-28'
+  posted: '2026-10-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZoyaAi_/status/2113998714842779948
+notes:
+  en: Six timed five second scenes carry the story from wide establishing shot to extreme eye close-up and back to a wide. Fixed character and dragon descriptions plus separate style, camera, audio and format lines keep the 30 second clip consistent.
+  zh: 六个五秒分镜按时间推进，从全景到龙眼特写再回到全景。固定的人物与龙外观描述，加上独立的风格、镜头、音频和格式要求，让30秒片段保持一致。
+prompt: |
+  AI Video Prompt 👇
+
+  Create a 30-second ultra-realistic cinematic fantasy video set in a rustic medieval village kitchen, featuring a young blonde woman with braided hair, wearing a cream blouse and a dark brown apron, alongside a magnificent white dragon with pale pink spikes, glowing amber eyes, and highly detailed scales.
+
+  Scene 1 (0–5 seconds): A wide establishing shot of the woman preparing food at a rustic wooden table outside a medieval cottage. A giant white dragon slowly approaches her from behind, curiously observing the food. Warm golden sunlight streams through the village, creating a magical atmosphere.
+
+  Scene 2 (5–10 seconds): Close-up of the dragon's glowing amber eye as it opens its mouth and breathes a powerful burst of fire toward the cooking area. The woman reacts with shock and quickly moves away from the flames. Sparks, smoke, and realistic fire effects fill the scene.
+
+  Scene 3 (10–15 seconds): The woman uses a metal pan to control the cooking fire while the dragon watches with curiosity. Smoke rises dramatically as the dragon lowers its enormous head beside her, creating a funny yet cinematic moment.
+
+  Scene 4 (15–20 seconds): Inside a cozy medieval kitchen illuminated by flickering candlelight, the woman carefully prepares a piece of roasted meat on a wooden table. The giant white dragon rests its head beside her, watching every movement with intense curiosity. Use intimate close-ups and warm amber lighting.
+
+  Scene 5 (20–25 seconds): The woman holds a small flame near the dragon's snout. Capture an extreme close-up of its beautiful golden eye reflecting the firelight. She tastes the freshly cooked meat, smiles, and gestures approvingly toward the dragon.
+
+  Scene 6 (25–30 seconds): The woman and the dragon share a playful, heartwarming moment beside the dinner table. The dragon gently lowers its enormous head toward her while she continues eating. End with a wide cinematic shot of the medieval kitchen, warm candlelight, rustic wooden furniture, and the dragon curling around the room.
+
+  Visual Style: Photorealistic fantasy, Hollywood-level CGI, cinematic composition, realistic dragon anatomy, highly detailed skin and scales, natural facial expressions, physically accurate fire and smoke, volumetric lighting, shallow depth of field, smooth camera movements, dramatic close-ups, warm golden color grading, realistic textures, 4K quality.
+
+  Camera: Smooth tracking shots, wide establishing shots, extreme close-ups, slow cinematic push-ins, and seamless transitions.
+
+  Audio: Natural kitchen ambience, crackling fire, subtle dragon breathing and growls, sizzling meat, and cinematic fantasy background music.
+
+  Format: 16:9 widescreen, 30 seconds, 24 FPS, consistent character design, consistent dragon appearance, no text, no subtitles, no logos, no watermarks.

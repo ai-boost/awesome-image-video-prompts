@@ -1,0 +1,65 @@
+id: seedance-plum-tree-prince-comedy
+title:
+  en: Woman shakes plum tree and catches a prince
+  zh: 女子摇动梅树,接住掉下来的王子
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- reference-images
+- identity-lock
+- shot-breakdown
+- romantic-comedy
+- japanese-fantasy
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2105611129867395458
+  credit: Chaemate_
+  captured: '2026-10-28'
+  posted: '2026-10-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Chaemate_/status/2105611129867395458
+notes:
+  en: Identity and environment lock blocks tied to two reference images keep both characters and the shrine courtyard consistent across five timed shots. An emotion arc, explicit sound design and a negative prompt steer the comedy beats and the slow motion petal shower.
+  zh: 身份锁和环境锁绑定两张参考图,让两位角色与神社庭院在五个定时分镜里保持一致。情绪曲线、明确的声音设计和负面提示词共同控制喜剧节奏与慢动作花瓣雨。
+prompt: |
+  TITLE: "What Falls from the Plum Tree?"
+  DURATION: 15 seconds | ASPECT RATIO: 16:9
+  GENRE: Romantic Japanese Fantasy Comedy
+  STYLE: Ultra-realistic premium Japanese drama, cinematic film quality
+
+  IDENTITY LOCK:
+  The woman @image1 must keep the exact same face, face shape, skin tone, hairstyle, height, body proportions, and wardrobe in every shot. The man @image2 must keep his exact face, hairstyle, and outfit as in the reference. No changes in any frame.
+
+  ENVIRONMENT LOCK:
+  An elegant Edo-era Japanese shrine courtyard with traditional wooden architecture, tiled rooftops, stone lanterns, and a raked gravel garden in the background. A giant ancient plum (ume) tree with dense white and pink blossoms. Its thick main branch extends horizontally above the woman's head. Soft spring daylight.
+
+  SHOT BREAKDOWN:
+
+  0.0–4.0s | Medium shot
+  The woman stands beneath the huge horizontal branch. Blossom petals drift in the breeze. She looks up curiously, then raises both hands and shakes the branch. The branch trembles and a shower of petals falls. A lacquered cosmetic box tumbles down through the blossoms and she catches it with both hands. Close-up of her face as she peeks inside. Flat, unimpressed expression. She tosses it casually out of frame.
+
+  4.0–7.5s | Medium shot
+  Her curiosity grows. She shakes the branch harder and petals pour down like rain. A scatter of gold koban coins and a few silk pouches fall. She catches one pouch, raises a single eyebrow, looks bored, and tosses it away.
+
+  7.5–10.5s | Slow motion
+  Determined now, she grips the branch with both hands and shakes with all her strength. The branch shudders, a heavy blossom storm rains down, and the man @image2 suddenly drops from the branch. She gasps, spreads her arms, and catches him just before he hits the ground. Petals swirl around them.
+
+  10.5–13.0s | Close-up, 50mm
+  She looks at his face. Her eyes sparkle and a wide, delighted smile appears. He gives a charming, slightly embarrassed smile and looks back at her.
+
+  13.0–15.0s | Medium-wide shot
+  They turn to the camera together and make small heart shapes with their hands, laughing happily. They turn to each other, laugh, and walk out of frame side by side while petals keep falling behind them. Fade out on the falling blossoms.
+
+  EMOTION ARC:
+  Curious → Bored → More curious → Surprised → Smitten → Happy.
+
+  SOUND:
+  Soft spring breeze, rustling blossoms, creaking wood, light thud of the box, jingle of coins, warm playful Japanese rom-com music (koto, light shamisen, soft piano), cheerful laughter, fading footsteps.
+
+  CAMERA & VISUALS:
+  ARRI Alexa 35 look, 35mm and 50mm cinematic lenses, smooth gimbal movement, slow-motion petal shower, natural spring lighting, realistic skin pores, physically accurate shadows, HDR, subtle film grain, soft pastel color grading.
+
+  NEGATIVE PROMPT:
+  cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands, duplicate objects, duplicate people, distorted body, floating objects, unrealistic physics, unnatural falling motion, overexposed lighting, oversaturated colors, AI artifacts, camera shake, abrupt cuts, warped architecture, deformed eyes
+
+  #Seedance25 #AIVideo #AIFilmmaking #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️

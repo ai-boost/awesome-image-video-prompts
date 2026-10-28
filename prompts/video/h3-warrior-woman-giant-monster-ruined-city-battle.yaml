@@ -1,0 +1,26 @@
+id: h3-warrior-woman-giant-monster-ruined-city-battle
+title:
+  en: Warrior woman duels giant monster in ruined city
+  zh: 女战士在废墟都市对决巨型怪兽
+model: MiniMax H3
+mode: text-to-video
+tags:
+- action
+- monster
+- cinematic
+- sci-fi
+- slow-motion
+source:
+  name: '@RuzainaMeer on X'
+  url: https://x.com/RuzainaMeer/status/2085240792067784843
+  credit: Ruzaina
+  likes: 179
+  captured: '2026-10-28'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/RuzainaMeer/status/2085240792067784843
+notes:
+  en: 'The prompt runs as one beat sequence: standoff, charge, dodge, leap, strike, victory. Cinematic camera cues (slow motion, close-up of her face) and a closing style line for lighting and realism fit it into a single 15 second clip.'
+  zh: 提示词按一条连续的节拍写成：对峙、冲锋、闪避、跃起、反击、胜利。运镜提示（慢动作、面部特写）和结尾的光影与写实风格句，让 15 秒单段成片结构完整。
+prompt: |
+  A powerful warrior woman stands alone in a destroyed futuristic city at night, facing a massive towering monster covered in dark armor and glowing cracks. The monster roars and charges toward her, shaking the ground with every step. She dodges its attacks with incredible speed, leaps through the air, and strikes with a glowing energy weapon. Intense hand-to-hand combat, flying debris, explosions, dramatic slow motion shots, cinematic camera movements, close-up of her determined face. The battle reaches its peak as she unleashes her final powerful attack, defeating the giant monster and standing victorious as the city burns behind her. Epic Hollywood action movie style, ultra-realistic, dramatic lighting, dynamic camera angles, high detail, cinematic quality.

@@ -1,0 +1,26 @@
+id: h3-rift-dimensional-tear-metal-title-sequence
+title:
+  en: White energy rift tears open into metal title
+  zh: 白色能量裂隙撕开空间并凝成金属标题
+model: MiniMax H3
+mode: text-to-video
+tags:
+- title-sequence
+- sci-fi
+- kinetic-typography
+- vfx
+- dark
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2101989866762354988
+  credit: Pierrick Chevallier | IA
+  likes: 164
+  captured: '2026-10-28'
+  posted: '2026-09-21'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/CharaspowerAI/status/2101989866762354988
+notes:
+  en: 'The prompt is written as a beat by beat sequence: a thin line of light widens into a fracture, the camera accelerates in, the rift snaps shut, and the debris compresses into the lettering. Specifying the title material, the trapped energy in its cracks and a fast orbital move gives the typography a sense of event.'
+  zh: 提示词按时间顺序写成连续节拍：细线裂开成缝，镜头加速冲入，裂隙闭合，碎片压缩成字母。指定字体材质、裂缝中困住的能量和快速环绕运镜，让文字像一场事件。
+prompt: |
+  High-end sci-fi title sequence beginning with a razor-thin line of white energy slicing vertically through complete darkness. Space immediately begins deforming around it as metallic particles, dust and glowing fragments are violently pulled toward the opening. The line tears wider into a gigantic dimensional fracture filled with unstable plasma and gravitational distortion. The camera accelerates directly toward the rift, violently banking between fragments being stretched into luminous trails. Suddenly the dimensional tear snaps shut with enormous force, compressing all surrounding matter into four gigantic black-metal letterforms that slam together to reveal "RIFT". Brilliant energy remains trapped inside deep cracks across the typography while space visibly bends around its edges. The camera performs a fast orbital move before the title itself splits open along its center, releasing a catastrophic dimensional shockwave that tears through the frame. Sophisticated cosmic distortion, aggressive kinetic typography, premium superhero-film VFX.
