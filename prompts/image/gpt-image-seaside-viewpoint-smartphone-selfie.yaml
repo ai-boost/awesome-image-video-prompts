@@ -1,0 +1,33 @@
+id: gpt-image-seaside-viewpoint-smartphone-selfie
+title:
+  en: Seaside viewpoint smartphone selfie in white cap
+  zh: 戴白色棒球帽的海边观景台手机自拍
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- smartphone-photo
+- travel-selfie
+- seaside
+- natural-light
+- casual-portrait
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2115357570722566196
+  credit: Eesha
+  likes: 48
+  captured: '2026-10-28'
+  posted: '2026-10-28'
+notes:
+  en: Fixes the framing from cap top to lower waist, then specifies fabric details, hard midday sun from one side and phone compression so it reads as a casual snapshot. A closing list of things to avoid, such as plastic skin and studio polish, keeps the result from looking staged.
+  zh: 先限定从帽顶到下腰的取景，再写明面料细节、单侧强烈正午阳光和手机压缩感，让画面像随手拍。结尾列出要避免的塑料皮肤和影棚质感，防止成品显得摆拍。
+prompt: |
+  A real vertical smartphone travel snapshot of a young adult woman in her early 20s at a seaside viewpoint, framed from the top of her white baseball cap to the lower waist in a close front-facing medium portrait. She stands or leans near a wall, very close to the camera, at street.
+
+  She wears a white ribbed scoop-neck tank top and a lightweight white jacket half-slipped off her shoulders, with visible rib texture, wrinkles, snap-button and zipper details, and a small strip of lower abdomen visible above a white bottom waistband.
+
+  Her hair is deep black, long, side-tied or in a low side ponytail, falling over the left shoulder with windblown strands around her face. She has a small oval face, soft jawline, natural East Asian features, sheer clean vacation makeup, muted pink-coral lips, and a calm expression with lips closed.
+
+  Her eyes look gently toward the camera from under the cap brim shadow. Keep the small black logo mark on the cap front, not flipped and not oversized. Strong midday sun from the upper left creates hard highlights and cool ocean-reflected shadows.
+
+  Natural skin texture, slightly imperfect framing, subtle phone compression, deep smartphone depth of field. Avoid plastic skin, studio polish, heavy makeup, exaggerated proportions, wrong logo, app UI, cartoon or CGI style

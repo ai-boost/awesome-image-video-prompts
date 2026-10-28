@@ -1,0 +1,42 @@
+id: gpt-image-architectural-passport-travel-poster
+title:
+  en: Tokyo Kaminarimon colored pencil architectural passport poster
+  zh: 东京雷门彩铅建筑护照旅行海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- colored-pencil
+- architecture
+- sketchbook
+- template
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2105486629586796891
+  credit: simeon-sanai
+  likes: 113
+  captured: '2026-10-28'
+  posted: '2026-10-01'
+notes:
+  en: 'Contrast drives it: the landmark is fully colored and detailed while the city map, measurements and elevation sketches stay ghost faint on ivory paper. A short palette list, bracketed placeholders for city and landmark, and listed imperfections like smudges and erased construction lines keep the hand drawn feel.'
+  zh: 靠对比起效：地标满色且细节密集，城市地图、尺寸标注和立面草图则淡如幽灵地留在象牙色纸面上。简短的配色清单、城市与地标的方括号占位符，以及污迹和擦除construction线等瑕疵清单，共同保住手绘质感。
+prompt: |
+  Create a highly detailed “Architectural Passport” travel poster for [CITY / LANDMARK], designed to look like a premium collectible art print that blends colored-pencil illustration, fine ink drawing, vintage architectural documentation, and subtle watercolor texture.
+
+  Place the landmark as the dramatic hero, drawn with intricate hand-rendered details, realistic perspective, delicate pencil hatching, visible paper grain, and carefully controlled pops of natural color. Surround it with a faint city map, street names, architectural measurements, tiny elevation sketches, construction lines, botanical details, directional arrows, and miniature diagrammatic studies.
+
+  Use an elegant warm ivory paper background with mostly muted graphite, charcoal, terracotta, olive green, dusty blue, and warm beige tones. Keep the background extremely clean and editorial, allowing the landmark to visually emerge from the page.
+
+  Add sophisticated typography:
+  [CITY]
+  [LANDMARK NAME]
+  small coordinates, founding/construction date, architectural style, neighborhood name, and tiny archival annotations.
+
+  Include one or two miniature architectural detail drawings beside the main structure, as if taken from an architect’s sketchbook. Add subtle imperfections: pencil smudges, uneven ink pressure, erased construction marks, paper fibers, faint halftone texture, and hand-drawn annotation marks.
+
+  The composition should feel like a cross between a vintage travel poster, an architectural magazine cover, a museum exhibition print, and a designer’s sketchbook.
+
+  Visual hook: make the landmark extremely detailed and colorful while the surrounding city information remains almost ghost-like, creating a striking contrast between “the place” and “the blueprint of the place.”
+
+  Vertical 4:5 composition, premium editorial design, sophisticated negative space, ultra-detailed hand illustration, realistic architectural perspective, tactile paper texture, collectible poster aesthetic, visually striking at thumbnail size, no photorealistic rendering, no 3D CGI look.

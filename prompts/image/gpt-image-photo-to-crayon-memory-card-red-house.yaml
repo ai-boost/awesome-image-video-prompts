@@ -1,0 +1,43 @@
+id: gpt-image-photo-to-crayon-memory-card-red-house
+title:
+  en: Red house photo with crayon illustration below
+  zh: 红房子照片与下方蜡笔插画记忆卡
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- memory-card
+- photo-to-illustration
+- crayon
+- split-layout
+- naive-art
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2105894224076198150
+  credit: Harboris
+  likes: 133
+  captured: '2026-10-28'
+  posted: '2026-10-02'
+notes:
+  en: A 50/50 split keeps the real photo on top and redraws the same scene as flat color blocks on ivory paper below. Palette extraction from the photo, crayon and screen-print texture cues, and a negative list keep the illustration naive and faithful.
+  zh: 上下各占一半，上半保留原照片，下半在象牙色纸上把同一场景重绘为扁平色块。从照片提取调色板，配合蜡笔与丝网印质感描述和负面清单，让插画保持朴素并忠于原图。
+prompt: |
+  Use the uploaded photo as the only content source. Create a vertical 3:4 "real photo + minimal illustration" memory card based entirely on that image. Preserve the main subjects, subject count, pose, viewpoint, spatial relationships, and overall scene logic. Do not redesign the source or add unrelated content.
+
+  Layout:Split the card into two horizontal sections, about 50% top and 50% bottom. The top half keeps the uploaded photo with photographic texture. Crop naturally to fit, but do not stretch,mirror, rearrange, or alter the main subjects. Keep natural lighting, real materials, and the original color mood, with subtle editorial grading. The lower half uses a warm ivory handmade-paper background and shows a centered horizontal illustration of the same scene. The illustration occupies about 63-67% of the lower width, with generous blank space around it.
+
+  Scene translation:In the lower illustration, preserve the most recognizable subjects, major structures, important objects, viewpoint, depth, relative scale, and key positions from the source. Remove tiny clutter, fine photographic texture, reflections, and complex shadows.Simplify the scene into slightly awkward geometric color blocks and thin hand-drawn lines. People and animals, when present, remain identifiable through silhouette, pose,hair or fur shape,clothing color, and placement, but facial detail may be reduced. Outlines may wobble, break, shift, or misalign slightly while the scene stays recognizable.
+
+  Illustration style: Use restrained naive editorial drawing with soft geometric simplification and handmade quality. Combine thin sketchy linework with flat shapes. The lower scene should feel calm, clean, slightly imperfect, and visually reduced rather than technically precise. Avoid realistic rendering.
+
+  Color:Extract 4-6 representative colors from the uploaded photo and reinterpret them as a soft low-saturation palette. Use muted tones derived from the source, with flat fills and enough contrast to separate major subjects and scene layers. No complex gradients,glossy highlights, or heavy 3D modeling.
+
+  Texture:Blend crayon, pastel,screen-print, and old-book illustration qualities. Keep paper show-through, fine grain, slight pigment unevenness, worn edges, and subtle off-register shifts. The result should feel like an independent editorial illustration printed on aged
+
+  paper:warm, quiet, nostalgic, and collectible.
+
+  Typography:Below the illustration, you may include exactly two short English lines related to the scene.mood,place.or moment. Use a small vintage serif font, left-aligned. If clean readable text cannot be rendered, leave the area blank. No other readable text.
+
+  Cleanup:Remove phone UI,subtitles, screenshot traces, and interface elements when present. Do not invent missing scenery or decorative props.
+
+  Negative:No major layout change, no added or missing primary subjects, no photoreal painting, no polished watercolor,no anime,no manga, no vector clip-art, no oil paint, no impasto, no 3D, no logo,no watermark, no black border,no UI,no unrelated decoration.

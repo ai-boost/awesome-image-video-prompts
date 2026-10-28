@@ -1,0 +1,66 @@
+id: gpt-image-maps-notification-papercraft-miniature-travel
+title:
+  en: Shanghai clay and paper map travel campaign
+  zh: 上海黏土与纸艺地图旅行广告
+model: GPT Image 2.5
+mode: text-to-image
+category: map
+tags:
+- travel-campaign
+- papercraft
+- miniature
+- clay
+- phone-notification
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2097890291860865291
+  credit: Saul Goodman
+  likes: 67
+  captured: '2026-10-28'
+  posted: '2026-09-10'
+notes:
+  en: A single LOCATION placeholder drives the whole scene, so one template works for any destination. A numbered visual hierarchy and a material list (photo phone, clay landmarks, cut paper map) keep the layers readable, and the notification is boxed into the top 25 to 40 percent so it never covers the miniature world.
+  zh: 整个画面只由一个LOCATION占位符驱动,换个目的地即可复用。编号的视觉层级加材质清单(实拍手机、黏土地标、手工剪纸地图)让层次分明,通知卡限定在画面上部25%到40%,不会遮挡微缩场景。
+prompt: |
+  [LOCATION] =
+
+  Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format.
+
+  A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation notification card overlaps the upper-middle of the phone, integrated naturally with realistic depth, soft shadows, and subtle reflections.
+
+  The notification should feature a warm-white, lightly frosted rounded rectangle with a refined mobile UI aesthetic and perfectly legible typography:
+
+  [map icon] MAPS — now
+  You keep searching.
+  Come visit [LOCATION] instead.
+
+  Keep the notification within the upper 25–40% of the composition. It should feel physically connected to the phone and must not cover the miniature destination scene.
+
+  Below the smartphone, a folded papercraft map labeled “[LOCATION]” unfolds into a handcrafted miniature world. Include only 4–6 highly recognizable elements that naturally represent the destination—such as iconic architecture, landscapes, nature, food, culture, or atmosphere.
+
+  Visual Materials
+
+  - Phone & distant background: realistic photography
+  - Buildings & landmarks: handcrafted painted 3D clay
+  - Map, terrain, roads & water: layered hand-cut paper
+  - Vegetation & small details: miniature clay and paper
+
+  Make the physical materials clearly visible through paper fibers, cut edges, layered surfaces, subtle clay texture, tiny imperfections, and soft dimensional shadows.
+
+  Add one large location pin and a tiny backpacked traveler standing on the map, looking toward the miniature world. Keep the traveler small and secondary, like a hidden discovery detail.
+
+  Use only 2–3 subtle travel doodles, such as a paper airplane with a dotted path, a tiny heart, and a simple hand-drawn route arrow. Keep them thin, imperfect, and journal-like.
+
+  Visual Hierarchy
+
+  1. Notification
+  2. Miniature [LOCATION] world
+  3. Location pin
+  4. Tiny traveler
+  5. Folded map
+
+  Maintain generous negative space and avoid clutter, excessive landmarks, unnecessary text, icons, props, or competing focal points.
+
+  Use a refined 3–5 color palette inspired by [LOCATION], warm cinematic or golden-hour lighting, shallow depth of field, realistic miniature photography, tactile materials, and sophisticated editorial advertising composition.
+
+  The final image should feel like a world-class handcrafted travel campaign-instantly recognizable, destination-specific, clean, emotionally inviting, and rich with subtle details worth discovering.

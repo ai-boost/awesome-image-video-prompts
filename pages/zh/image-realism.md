@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 15 条
+[返回目录](../../README_zh.md) · 全部 17 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九张失败照片
@@ -706,6 +706,57 @@ GPT Image 2.5 · 文生图 · 出处: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/
 
 ```text
 A highly realistic humanoid futuristic robot chef standing inside a premium futuristic restaurant kitchen. The robot has a sleek silver metallic body with detailed mechanical joints and realistic humanoid proportions. It has glowing cyan-blue eyes, circular futuristic ear components, a metallic face and neck, and an advanced sophisticated robotic design. The robot is holding a large white serving tray with both hands and looking slightly toward the left with a calm and helpful expression. The background features a stainless-steel futuristic kitchen with modern cooking equipment, metallic countertops, ovens, and ventilation systems. Cyan neon accent lights illuminate the kitchen, combined with warm cinematic lighting. Realistic metallic reflections, subtle steam rising in the background, highly detailed mechanical textures, photorealistic 3D rendering, cinematic composition, ultra-realistic, 4K quality, sharp details, natural depth of field, vertical 9:16 composition.
+```
+
+</details>
+
+<a id="gpt-image-driver-seat-smartphone-selfie"></a>
+### 女子在车内驾驶座的手机自拍
+
+<a href="https://x.com/ZarnishNael/status/2104090733305319799"><img src="../../previews/gpt-image-driver-seat-smartphone-selfie.jpg" width="360"></a>
+
+先限定竖版9:16自拍构图，再逐项写明发型、肤质、服装、车内环境和柔和日光。加入手机轻微柔化和一长串反滤镜否定词（无塑料皮肤、无CGI感），让画面更自然真实。
+
+GPT Image 2.5 · 文生图 · 出处: [@ZarnishNael on X](https://x.com/ZarnishNael/status/2104090733305319799) · 55 赞，统计于 2026-10-28
+
+[`selfie`](tags.md#tag-selfie) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`car-interior`](tags.md#tag-car-interior) [`natural-light`](tags.md#tag-natural-light) [`candid`](tags.md#tag-candid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a highly realistic vertical 9:16 smartphone selfie of a young woman sitting inside a modern car in the driver’s seat. She has long, straight, naturally voluminous dark-brown hair falling over both shoulders, soft natural facial features, warm fair skin with realistic texture, expressive brown eyes, natural eyebrows, subtle rosy cheeks, and a gentle smiling expression. She is wearing a simple fitted black long-sleeve top with black trousers. One hand is holding the steering wheel while she looks naturally toward the camera.
+Capture the scene like an authentic casual smartphone photo, with soft natural daylight entering through the car windows, realistic car interior, dashboard and steering wheel visible, urban buildings and parked cars softly visible outside. Natural proportions, realistic skin pores and hair strands, subtle shadows, slight smartphone-camera softness, authentic colors, candid lifestyle photography, photorealistic, high detail, no artificial beauty filter, no plastic skin, no face distortion, no CGI look, no wa
+```
+
+</details>
+
+<a id="nano-banana-1960s-car-mirror-fashion-reflection"></a>
+### 复古汽车后视镜中的1960年代时装肖像
+
+<a href="https://x.com/mehvishs25/status/2107858748882690121"><img src="../../previews/nano-banana-1960s-car-mirror-fashion-reflection.jpg" width="360"></a>
+
+整个画面设定为弯曲镀铬后视镜里的倒影，并写明机位和行走姿态，让反射显得真实可信。固定的四色配色加上35mm胶片颗粒和划痕描述带来老旧杂志大片质感，同时用明确的不要改变面部指令锁定参考图人物身份。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@mehvishs25 on X](https://x.com/mehvishs25/status/2107858748882690121) · 23 赞，统计于 2026-10-28
+
+[`vintage`](tags.md#tag-vintage) [`fashion`](tags.md#tag-fashion) [`mirror-reflection`](tags.md#tag-mirror-reflection) [`film-grain`](tags.md#tag-film-grain) [`identity-preservation`](tags.md#tag-identity-preservation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-realistic 1960s vintage editorial fashion photograph in a vertical 9:16 composition, featuring the girl from the reference image. Preserve her identity and appearance exactly as shown in the reference — including her facial structure, proportions, distinctive features, skin tone, hairstyle characteristics, and overall natural appearance. Do not alter or reinterpret her face.
+
+The scene is captured as a full-body fashion portrait reflected inside a small, oval chrome side mirror of a vintage car. The mirror has naturally curved, slightly distorted edges and realistic reflections. The camera is positioned close to the driver's window, angled toward the side mirror.
+
+Inside the mirror reflection, the girl is fully visible with generous background space. She is walking toward the rear of the car while slightly turning her head toward the mirror, creating a subtle candid moment. She has a calm, confident expression with a soft, understated smile.
+
+She wears a beautifully tailored powder-blue midi dress with a slim waist belt, paired with a burgundy silk scarf, elegant cat-eye sunglasses, a small ivory handbag, and classic white pointed heels. Her styling has an authentic polished 1960s fashion aesthetic.
+
+The environment is a retro Mediterranean-American street with a palm-lined road, pastel-colored storefronts, a vintage station wagon, and distant mountains. Bright golden morning sunlight creates warm, natural highlights and soft shadows across the scene.
+
+Use a refined color palette of powder blue, ivory, burgundy, and warm beige. The image should look like an authentic aged 35mm film photograph, with natural analog grain, subtle film imperfections, tiny scratches, realistic exposure, authentic skin texture, and physically accurate mirror reflections.
+
+The overall mood should feel chic, nostalgic, elegant, and slightly mysterious — like a genuine fashion editorial photograph captured in the 1960s rather than an AI-generated image. Photorealistic, cinematic, highly detailed, natural proportions, realistic fabric texture, authentic vintage photography aesthetics.
 ```
 
 </details>

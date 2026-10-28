@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 15 entries
+[Back to the list](../../README.md) · All 17 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine failed photos of any character
@@ -706,6 +706,57 @@ GPT Image 2.5 · Text-to-image · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_
 
 ```text
 A highly realistic humanoid futuristic robot chef standing inside a premium futuristic restaurant kitchen. The robot has a sleek silver metallic body with detailed mechanical joints and realistic humanoid proportions. It has glowing cyan-blue eyes, circular futuristic ear components, a metallic face and neck, and an advanced sophisticated robotic design. The robot is holding a large white serving tray with both hands and looking slightly toward the left with a calm and helpful expression. The background features a stainless-steel futuristic kitchen with modern cooking equipment, metallic countertops, ovens, and ventilation systems. Cyan neon accent lights illuminate the kitchen, combined with warm cinematic lighting. Realistic metallic reflections, subtle steam rising in the background, highly detailed mechanical textures, photorealistic 3D rendering, cinematic composition, ultra-realistic, 4K quality, sharp details, natural depth of field, vertical 9:16 composition.
+```
+
+</details>
+
+<a id="gpt-image-driver-seat-smartphone-selfie"></a>
+### Smartphone selfie of a woman in a car
+
+<a href="https://x.com/ZarnishNael/status/2104090733305319799"><img src="../../previews/gpt-image-driver-seat-smartphone-selfie.jpg" width="360"></a>
+
+Fixes a vertical 9:16 selfie framing, then lists specific hair, skin and clothing details alongside the car interior and soft daylight. Casual phone softness and a long list of anti-filter negatives (no plastic skin, no CGI look) keep the result candid and photographic.
+
+GPT Image 2.5 · Text-to-image · Source: [@ZarnishNael on X](https://x.com/ZarnishNael/status/2104090733305319799) · 55 likes on 2026-10-28
+
+[`selfie`](tags.md#tag-selfie) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`car-interior`](tags.md#tag-car-interior) [`natural-light`](tags.md#tag-natural-light) [`candid`](tags.md#tag-candid)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a highly realistic vertical 9:16 smartphone selfie of a young woman sitting inside a modern car in the driver’s seat. She has long, straight, naturally voluminous dark-brown hair falling over both shoulders, soft natural facial features, warm fair skin with realistic texture, expressive brown eyes, natural eyebrows, subtle rosy cheeks, and a gentle smiling expression. She is wearing a simple fitted black long-sleeve top with black trousers. One hand is holding the steering wheel while she looks naturally toward the camera.
+Capture the scene like an authentic casual smartphone photo, with soft natural daylight entering through the car windows, realistic car interior, dashboard and steering wheel visible, urban buildings and parked cars softly visible outside. Natural proportions, realistic skin pores and hair strands, subtle shadows, slight smartphone-camera softness, authentic colors, candid lifestyle photography, photorealistic, high detail, no artificial beauty filter, no plastic skin, no face distortion, no CGI look, no wa
+```
+
+</details>
+
+<a id="nano-banana-1960s-car-mirror-fashion-reflection"></a>
+### 1960s Fashion Portrait Reflected in Car Mirror
+
+<a href="https://x.com/mehvishs25/status/2107858748882690121"><img src="../../previews/nano-banana-1960s-car-mirror-fashion-reflection.jpg" width="360"></a>
+
+The whole scene is framed as a reflection in a curved chrome side mirror, with the camera position and walking pose spelled out so the reflection stays physically believable. A fixed four colour palette and 35mm film grain and scratch cues give an authentic aged editorial look, and the reference identity is locked with an explicit do not alter her face line.
+
+Nano Banana 2.1 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2107858748882690121) · 23 likes on 2026-10-28
+
+[`vintage`](tags.md#tag-vintage) [`fashion`](tags.md#tag-fashion) [`mirror-reflection`](tags.md#tag-mirror-reflection) [`film-grain`](tags.md#tag-film-grain) [`identity-preservation`](tags.md#tag-identity-preservation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyper-realistic 1960s vintage editorial fashion photograph in a vertical 9:16 composition, featuring the girl from the reference image. Preserve her identity and appearance exactly as shown in the reference — including her facial structure, proportions, distinctive features, skin tone, hairstyle characteristics, and overall natural appearance. Do not alter or reinterpret her face.
+
+The scene is captured as a full-body fashion portrait reflected inside a small, oval chrome side mirror of a vintage car. The mirror has naturally curved, slightly distorted edges and realistic reflections. The camera is positioned close to the driver's window, angled toward the side mirror.
+
+Inside the mirror reflection, the girl is fully visible with generous background space. She is walking toward the rear of the car while slightly turning her head toward the mirror, creating a subtle candid moment. She has a calm, confident expression with a soft, understated smile.
+
+She wears a beautifully tailored powder-blue midi dress with a slim waist belt, paired with a burgundy silk scarf, elegant cat-eye sunglasses, a small ivory handbag, and classic white pointed heels. Her styling has an authentic polished 1960s fashion aesthetic.
+
+The environment is a retro Mediterranean-American street with a palm-lined road, pastel-colored storefronts, a vintage station wagon, and distant mountains. Bright golden morning sunlight creates warm, natural highlights and soft shadows across the scene.
+
+Use a refined color palette of powder blue, ivory, burgundy, and warm beige. The image should look like an authentic aged 35mm film photograph, with natural analog grain, subtle film imperfections, tiny scratches, realistic exposure, authentic skin texture, and physically accurate mirror reflections.
+
+The overall mood should feel chic, nostalgic, elegant, and slightly mysterious — like a genuine fashion editorial photograph captured in the 1960s rather than an AI-generated image. Photorealistic, cinematic, highly detailed, natural proportions, realistic fabric texture, authentic vintage photography aesthetics.
 ```
 
 </details>

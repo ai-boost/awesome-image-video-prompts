@@ -1,0 +1,46 @@
+id: gpt-image-photo-to-ink-golden-thread-travel-poster
+title:
+  en: Paris sunset photo flowing into ink sketch poster
+  zh: 巴黎日落实景照片过渡到墨线插画的旅行海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- photo-to-ink
+- golden-thread
+- landmark
+- template
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2103336789339709511
+  credit: Ziha
+  likes: 48
+  captured: '2026-10-28'
+  posted: '2026-09-25'
+notes:
+  en: The prompt splits the canvas into a photo section, a transition and an ink section, and a single golden thread links them. Bracketed placeholders for landmark and time of day make it reusable, and the closing negative list keeps the photo dominant and the layout uncluttered.
+  zh: 提示词把画面拆成实景照片、过渡、墨线插画三段，并用一根金色细线把它们连起来。地标和时段用方括号占位，方便复用，结尾的排除项让照片保持主体、版面不杂乱。
+prompt: |
+  Create a sophisticated conceptual travel-art poster based on [LANDMARK / CITY / COUNTRY], inspired by the visual storytelling of a real photograph seamlessly transitioning into delicate hand-drawn illustration.
+
+  TOP SECTION — REALISTIC PHOTOGRAPH:
+  Show a breathtaking, cinematic photograph of [LANDMARK / CITY / COUNTRY] during [sunrise / sunset / golden hour / blue hour]. Preserve the authentic architecture, landscape, proportions, recognizable details, atmosphere, natural lighting, and distinctive visual identity of the location. Use dramatic warm light, glowing highlights, realistic textures, atmospheric depth, subtle film grain, and an editorial travel-photography aesthetic.
+
+  THE TRANSITION:
+  From one important visual element of the photograph — such as the sun, a window, tower, dome, streetlight, mountain peak, river, or architectural detail — create a single thin golden thread / beam of light that naturally extends downward from the photograph into the empty paper space. The thread should feel delicate, handmade, slightly imperfect, and continuous.
+
+  BOTTOM SECTION — HAND-DRAWN STORY:
+  On warm ivory textured paper, transform the end of the golden thread into a beautiful minimal ink illustration connected to [LANDMARK / CITY / COUNTRY]. The thread could lead to a tiny illustrated traveler, artist, child, architect, traditional object, local street scene, miniature landmark, map element, flower, boat, train, or another meaningful cultural symbol.
+
+  Keep the illustration extremely elegant and sparse, using fine black ink lines, subtle hatching, tiny golden accents, and lots of negative space. Integrate small recognizable details from [CITY / COUNTRY] into the illustration without making it crowded.
+
+  TYPOGRAPHY:
+  Add a small handwritten or refined editorial phrase such as:
+  [CITY] [PLACE NAME]
+
+  Add minimal typography: [CITY / COUNTRY] — [LANDMARK NAME], with optional coordinates or a small location descriptor.
+
+  STYLE: premium conceptual travel poster, poetic visual storytelling, real photography + minimalist ink illustration, warm ivory paper, delicate golden thread, sophisticated editorial composition, museum-quality art print, subtle vintage texture, emotional but understated, generous negative space, vertical 4:5 composition.
+
+  IMPORTANT: Keep the real photograph visually dominant and authentic. The illustrated section should feel like it is physically connected to the photograph by the single continuous golden thread. No collage clutter, no excessive typography, no random objects, no cartoonish style, no distorted architecture.

@@ -27,14 +27,14 @@
   - [Veo 3.1](#veo31) (10)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [图片提示词](#image) (109 条)
-  - [海报与编辑排版](#img-poster) (14)
-  - [照片转艺术风格](#img-photo-to-art) (24)
-  - [写实照片](#img-realism) (15)
-  - [人像](#img-portrait) (10)
-  - [插画](#img-illustration) (18)
-  - [手机与界面截图](#img-ui-mockup) (3)
-  - [地图](#img-map) (1)
+- [图片提示词](#image) (126 条)
+  - [海报与编辑排版](#img-poster) (19)
+  - [照片转艺术风格](#img-photo-to-art) (28)
+  - [写实照片](#img-realism) (17)
+  - [人像](#img-portrait) (11)
+  - [插画](#img-illustration) (19)
+  - [手机与界面截图](#img-ui-mockup) (4)
+  - [地图](#img-map) (4)
   - [拼贴](#img-collage) (6)
   - [信息图与幻灯片](#img-infographic) (6)
   - [标志、广告与包装](#img-brand) (6)
@@ -2525,7 +2525,7 @@ Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, 
 
 </details>
 
-**[全部 14 条](pages/zh/image-poster.md)**
+**[全部 19 条](pages/zh/image-poster.md)**
 
 <a id="img-photo-to-art"></a>
 ## 照片转艺术风格
@@ -2858,7 +2858,7 @@ Style keywords: minimalist doodle, folk-inspired hand drawing, blue ink illustra
 
 </details>
 
-**[全部 24 条](pages/zh/image-photo-to-art.md)**
+**[全部 28 条](pages/zh/image-photo-to-art.md)**
 
 <a id="img-realism"></a>
 ## 写实照片
@@ -3262,7 +3262,7 @@ See for yourself:
 
 </details>
 
-**[全部 15 条](pages/zh/image-realism.md)**
+**[全部 17 条](pages/zh/image-realism.md)**
 
 <a id="img-portrait"></a>
 ## 人像
@@ -3490,7 +3490,7 @@ A hyper-realistic, 8K resolution cinematic close-up portrait of the person in th
 
 </details>
 
-**[全部 10 条](pages/zh/image-portrait.md)**
+**[全部 11 条](pages/zh/image-portrait.md)**
 
 <a id="img-illustration"></a>
 ## 插画
@@ -3746,10 +3746,29 @@ A serene Japanese landscape bathed in the warm glow of a large, luminous full mo
 
 </details>
 
-**[全部 18 条](pages/zh/image-illustration.md)**
+**[全部 19 条](pages/zh/image-illustration.md)**
 
 <a id="img-ui-mockup"></a>
 ## 手机与界面截图
+
+<a id="gpt-image-camera-roll-photos-screen"></a>
+### 一名学生一整天的iPhone相册截图
+
+<a href="https://x.com/sakisuta_/status/2098712371045052764"><img src="previews/gpt-image-camera-roll-photos-screen.jpg" width="360"></a>
+
+提示词明确指定容器是原样截取的照片App界面，模型便在一个网格里填满一整天风格各异的随手拍。提供参考人物并要求日常瞬间，使人脸在美食、朋友、书桌和天空等画面中保持一致。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@sakisuta_ on X](https://x.com/sakisuta_/status/2098712371045052764) · 2,439 赞，统计于 2026-10-28
+
+[`camera-roll`](pages/zh/tags.md#tag-camera-roll) [`photos-app`](pages/zh/tags.md#tag-photos-app) [`screenshot`](pages/zh/tags.md#tag-screenshot) [`reference-image`](pages/zh/tags.md#tag-reference-image) [`everyday`](pages/zh/tags.md#tag-everyday)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn one full day's worth of camera roll for the person in the reference image into a single image that captures the iPhone's Photos app screen as-is. Make it a realistic camera roll that feels like it captures casual everyday moments.
+```
+
+</details>
 
 <a id="gpt-image-camera-roll-day"></a>
 ### 一张图生成任何人一天的相册
@@ -3967,6 +3986,137 @@ OPTIONAL DETAILS:
 [LANDMARK 3]
 [LOCAL CULTURAL ELEMENT]
 [NATURAL LANDMARK]
+```
+
+</details>
+
+<a id="gpt-image-maps-notification-papercraft-miniature-travel"></a>
+### 上海黏土与纸艺地图旅行广告
+
+<a href="https://x.com/Goodmanprotocol/status/2097890291860865291"><img src="previews/gpt-image-maps-notification-papercraft-miniature-travel.jpg" width="360"></a>
+
+整个画面只由一个LOCATION占位符驱动,换个目的地即可复用。编号的视觉层级加材质清单(实拍手机、黏土地标、手工剪纸地图)让层次分明,通知卡限定在画面上部25%到40%,不会遮挡微缩场景。
+
+GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2097890291860865291) · 67 赞，统计于 2026-10-28
+
+[`travel-campaign`](pages/zh/tags.md#tag-travel-campaign) [`papercraft`](pages/zh/tags.md#tag-papercraft) [`miniature`](pages/zh/tags.md#tag-miniature) [`clay`](pages/zh/tags.md#tag-clay) [`phone-notification`](pages/zh/tags.md#tag-phone-notification)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[LOCATION] =
+
+Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format.
+
+A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation notification card overlaps the upper-middle of the phone, integrated naturally with realistic depth, soft shadows, and subtle reflections.
+
+The notification should feature a warm-white, lightly frosted rounded rectangle with a refined mobile UI aesthetic and perfectly legible typography:
+
+[map icon] MAPS — now
+You keep searching.
+Come visit [LOCATION] instead.
+
+Keep the notification within the upper 25–40% of the composition. It should feel physically connected to the phone and must not cover the miniature destination scene.
+
+Below the smartphone, a folded papercraft map labeled “[LOCATION]” unfolds into a handcrafted miniature world. Include only 4–6 highly recognizable elements that naturally represent the destination—such as iconic architecture, landscapes, nature, food, culture, or atmosphere.
+
+Visual Materials
+
+- Phone & distant background: realistic photography
+- Buildings & landmarks: handcrafted painted 3D clay
+- Map, terrain, roads & water: layered hand-cut paper
+- Vegetation & small details: miniature clay and paper
+
+Make the physical materials clearly visible through paper fibers, cut edges, layered surfaces, subtle clay texture, tiny imperfections, and soft dimensional shadows.
+
+Add one large location pin and a tiny backpacked traveler standing on the map, looking toward the miniature world. Keep the traveler small and secondary, like a hidden discovery detail.
+
+Use only 2–3 subtle travel doodles, such as a paper airplane with a dotted path, a tiny heart, and a simple hand-drawn route arrow. Keep them thin, imperfect, and journal-like.
+
+Visual Hierarchy
+
+1. Notification
+2. Miniature [LOCATION] world
+3. Location pin
+4. Tiny traveler
+5. Folded map
+
+Maintain generous negative space and avoid clutter, excessive landmarks, unnecessary text, icons, props, or competing focal points.
+
+Use a refined 3–5 color palette inspired by [LOCATION], warm cinematic or golden-hour lighting, shallow depth of field, realistic miniature photography, tactile materials, and sophisticated editorial advertising composition.
+
+The final image should feel like a world-class handcrafted travel campaign-instantly recognizable, destination-specific, clean, emotionally inviting, and rich with subtle details worth discovering.
+```
+
+</details>
+
+<a id="gpt-image-city-escaping-vintage-paper-map"></a>
+### 巴黎从复古纸质地图中立体浮现
+
+<a href="https://x.com/Naiknelofar788/status/2109226850203619656"><img src="previews/gpt-image-city-escaping-vintage-paper-map.jpg" width="360"></a>
+
+提示词只讲一个清晰的想法，平面印刷墨线变成真实的微缩建筑。一根红线、页边坐标和顶部排版标题搭起版面结构，结尾的禁止建筑变形、禁止虚构建筑保证地标准确。用 [CITY, COUNTRY] 占位符可以换成任意城市。
+
+GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2109226850203619656) · 64 赞，统计于 2026-10-28
+
+[`city`](pages/zh/tags.md#tag-city) [`vintage-map`](pages/zh/tags.md#tag-vintage-map) [`miniature`](pages/zh/tags.md#tag-miniature) [`diorama`](pages/zh/tags.md#tag-diorama) [`red-thread`](pages/zh/tags.md#tag-red-thread)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A real city appears to be physically breaking free from an old paper map, with its actual streets, buildings, and famous landmark rising out of the printed geography into the real world.
+
+Create a breathtaking, surreal-meets-realistic art composition of [CITY, COUNTRY], emerging from an enormous vintage paper map laid flat on a warm ivory surface.
+
+The city’s REAL architecture and geography rise naturally from the map like a miniature three-dimensional world. Its famous landmark stands tall at the center, surrounded by accurately recognizable buildings, winding streets, bridges, rivers, and local architectural details. The printed roads on the map seamlessly transform into actual city streets, while tiny buildings gradually rise from flat ink illustrations into detailed miniature structures.
+
+A single delicate red thread travels across the map, following the city’s real street layout before spiraling around its most famous landmark. Tiny handwritten location coordinates appear in the margin.
+
+Use a stunning combination of architectural realism, miniature diorama photography, vintage cartography, subtle paper textures, and cinematic lighting. Warm sunlight creates long, beautiful shadows across the map. Keep the background minimal and elegant, with the city as the undeniable focal point.
+
+At the top, display the city’s name in sophisticated vintage typography, with its country name and geographical coordinates beneath it.
+
+The result should feel like a real city has magically escaped its map — imaginative, visually striking, geographically recognizable, and beautifully detailed.
+
+Ultra-high detail, realistic materials, exceptional composition, premium art-poster aesthetic, no distorted buildings, no fictional architecture, no clutter.
+```
+
+</details>
+
+<a id="gpt-image-tilt-shift-map-road-travel-poster"></a>
+### 从复古地图延伸出的上海移轴天际线
+
+<a href="https://x.com/Goodmanprotocol/status/2109581797944443143"><img src="previews/gpt-image-tilt-shift-map-road-travel-poster.jpg" width="360"></a>
+
+用城市占位符配合前景、中景、远景三层结构，让蜿蜒道路从印刷地图通向天际线。单一车辆作为视觉焦点，黄金时刻光线与移轴微缩质感让画面可信，排除清单则控制了杂乱。
+
+GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2109581797944443143) · 44 赞，统计于 2026-10-28
+
+[`tilt-shift`](pages/zh/tags.md#tag-tilt-shift) [`miniature`](pages/zh/tags.md#tag-miniature) [`travel-poster`](pages/zh/tags.md#tag-travel-poster) [`vintage-map`](pages/zh/tags.md#tag-vintage-map) [`golden-hour`](pages/zh/tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].
+
+TEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.
+
+CORE CONCEPT:
+A vintage printed city map transforms into a winding elevated road leading toward the destination’s iconic skyline. One realistic local vehicle drives along the curved road, becoming the main focal point.
+
+COMPOSITION:
+Foreground: detailed vintage map with “[CITY NAME]” printed boldly across it. Middle ground: a winding road emerging naturally from the map. Background: recognizable landmarks, authentic architecture, and local scenery arranged in atmospheric depth.
+
+STYLE:
+Photorealistic miniature diorama, tilt-shift photography, intricate cartographic textures, realistic vehicle details, shallow depth of field, warm golden-hour lighting, and cinematic shadows.
+
+FINAL AESTHETIC:
+A premium collectible travel poster blending vintage cartography with a realistic miniature world. Strong visual depth, authentic local atmosphere, and clean, uncluttered composition.
+
+AVOID:
+Unrelated landmarks, distorted roads, oversized vehicles, excessive labels, incorrect text, logos, watermarks, and borders.
+
+FORMAT: Full-bleed 4:5 vertical composition.
 ```
 
 </details>
@@ -4887,9 +5037,9 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 <a id="tags"></a>
 ## 按标签浏览
 
-[`multi-shot`](pages/zh/tags.md#tag-multi-shot) 51 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 45 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 40 · [`handheld`](pages/zh/tags.md#tag-handheld) 39 · [`action`](pages/zh/tags.md#tag-action) 37 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 27 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 25 · [`anime`](pages/zh/tags.md#tag-anime) 23 · [`macro`](pages/zh/tags.md#tag-macro) 22 · [`vertical`](pages/zh/tags.md#tag-vertical) 22 · [`fashion`](pages/zh/tags.md#tag-fashion) 21 · [`vlog`](pages/zh/tags.md#tag-vlog) 20 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 20 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 16 · [`comedy`](pages/zh/tags.md#tag-comedy) 16 · [`template`](pages/zh/tags.md#tag-template) 16 · [`long-take`](pages/zh/tags.md#tag-long-take) 15 · [`sci-fi`](pages/zh/tags.md#tag-sci-fi) 14 · [`editorial`](pages/zh/tags.md#tag-editorial) 14 · [`martial-arts`](pages/zh/tags.md#tag-martial-arts) 13 · [`3d-animation`](pages/zh/tags.md#tag-3d-animation) 12 · [`slow-motion`](pages/zh/tags.md#tag-slow-motion) 12 · [`tracking-shot`](pages/zh/tags.md#tag-tracking-shot) 12 · [`timed-shots`](pages/zh/tags.md#tag-timed-shots) 11 · [`dv-camcorder`](pages/zh/tags.md#tag-dv-camcorder) 11 · [`food`](pages/zh/tags.md#tag-food) 11 · [`commercial`](pages/zh/tags.md#tag-commercial) 11 · [`portrait`](pages/zh/tags.md#tag-portrait) 11 · [`typography`](pages/zh/tags.md#tag-typography) 11 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 11 · [`selfie`](pages/zh/tags.md#tag-selfie) 11 · [`timed-beats`](pages/zh/tags.md#tag-timed-beats) 10 · [`motion-graphics`](pages/zh/tags.md#tag-motion-graphics) 10 · [`multi-scene`](pages/zh/tags.md#tag-multi-scene) 10 · [`korean`](pages/zh/tags.md#tag-korean) 10 · [`lip-sync`](pages/zh/tags.md#tag-lip-sync) 9 · [`kinetic-typography`](pages/zh/tags.md#tag-kinetic-typography) 9 · [`ugc`](pages/zh/tags.md#tag-ugc) 9 · [`sound-design`](pages/zh/tags.md#tag-sound-design) 9 · [`rain`](pages/zh/tags.md#tag-rain) 9 · [`character-reference`](pages/zh/tags.md#tag-character-reference) 9 · [`dragon`](pages/zh/tags.md#tag-dragon) 9 · [`dark-fantasy`](pages/zh/tags.md#tag-dark-fantasy) 9 · [`creature`](pages/zh/tags.md#tag-creature) 9 · [`pov`](pages/zh/tags.md#tag-pov) 9 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 9 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 9 · [`documentary`](pages/zh/tags.md#tag-documentary) 8 · [`dance`](pages/zh/tags.md#tag-dance) 8 · [`lifestyle`](pages/zh/tags.md#tag-lifestyle) 8 · [`home-video`](pages/zh/tags.md#tag-home-video) 8 · [`music-video`](pages/zh/tags.md#tag-music-video) 7 · [`animals`](pages/zh/tags.md#tag-animals) 7 · [`text-render`](pages/zh/tags.md#tag-text-render) 7 · [`poster`](pages/zh/tags.md#tag-poster) 7 · [`storytelling`](pages/zh/tags.md#tag-storytelling) 6 · [`transformation`](pages/zh/tags.md#tag-transformation) 6 · [`sfx`](pages/zh/tags.md#tag-sfx) 6 · [`vfx`](pages/zh/tags.md#tag-vfx) 6 · [`film-grain`](pages/zh/tags.md#tag-film-grain) 6 · [`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration) 6 · [`photo-to-art`](pages/zh/tags.md#tag-photo-to-art) 6 · [`watercolor`](pages/zh/tags.md#tag-watercolor) 6 · [`sports`](pages/zh/tags.md#tag-sports) 5 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 5 · [`timeline-prompt`](pages/zh/tags.md#tag-timeline-prompt) 5 · [`outfit-change`](pages/zh/tags.md#tag-outfit-change) 5 · [`surreal`](pages/zh/tags.md#tag-surreal) 5 · [`travel`](pages/zh/tags.md#tag-travel) 5 · [`japanese`](pages/zh/tags.md#tag-japanese) 5 · [`timestamped`](pages/zh/tags.md#tag-timestamped) 5 · [`low-angle`](pages/zh/tags.md#tag-low-angle) 5 · [`one-take`](pages/zh/tags.md#tag-one-take) 5 · [`collage`](pages/zh/tags.md#tag-collage) 5 · [`night`](pages/zh/tags.md#tag-night) 5 · [`native-audio`](pages/zh/tags.md#tag-native-audio) 5 · [`fight-scene`](pages/zh/tags.md#tag-fight-scene) 5 · [`camera-move`](pages/zh/tags.md#tag-camera-move) 5 · [`multi-turn-edit`](pages/zh/tags.md#tag-multi-turn-edit) 5 · [`consistency`](pages/zh/tags.md#tag-consistency) 5 · [`product-commercial`](pages/zh/tags.md#tag-product-commercial) 5 · [`miniature`](pages/zh/tags.md#tag-miniature) 5 · [`street`](pages/zh/tags.md#tag-street) 5 · [`character-sheet`](pages/zh/tags.md#tag-character-sheet) 5 · [`horror`](pages/zh/tags.md#tag-horror) 5 · [`couple`](pages/zh/tags.md#tag-couple) 5 · [`nature`](pages/zh/tags.md#tag-nature) 5 · [`character`](pages/zh/tags.md#tag-character) 5 · [`photorealism`](pages/zh/tags.md#tag-photorealism) 5 · [`illustration`](pages/zh/tags.md#tag-illustration) 5 · [`minimalist`](pages/zh/tags.md#tag-minimalist) 5 · [`grid`](pages/zh/tags.md#tag-grid) 5 · [`split-layout`](pages/zh/tags.md#tag-split-layout) 5 · [`agent-editing`](pages/zh/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/zh/tags.md#tag-ffmpeg) 5 · [`timeline`](pages/zh/tags.md#tag-timeline) 4 · [`travel-vlog`](pages/zh/tags.md#tag-travel-vlog) 4 · [`montage`](pages/zh/tags.md#tag-montage) 4 · [`time-lapse`](pages/zh/tags.md#tag-time-lapse) 4 · [`locked-camera`](pages/zh/tags.md#tag-locked-camera) 4 · [`chinese-dialogue`](pages/zh/tags.md#tag-chinese-dialogue) 4 · [`structured-prompt`](pages/zh/tags.md#tag-structured-prompt) 4 · [`ambient-sound`](pages/zh/tags.md#tag-ambient-sound) 4 · [`multilingual`](pages/zh/tags.md#tag-multilingual) 4 · [`film-look`](pages/zh/tags.md#tag-film-look) 4 · [`music`](pages/zh/tags.md#tag-music) 4 · [`style-transfer`](pages/zh/tags.md#tag-style-transfer) 4 · [`snow`](pages/zh/tags.md#tag-snow) 4 · [`day-in-the-life`](pages/zh/tags.md#tag-day-in-the-life) 4 · [`romance`](pages/zh/tags.md#tag-romance) 4 · [`product`](pages/zh/tags.md#tag-product) 4 · [`architecture`](pages/zh/tags.md#tag-architecture) 4 · [`paper-texture`](pages/zh/tags.md#tag-paper-texture) 4 · [`historical`](pages/zh/tags.md#tag-historical) 3 · [`education`](pages/zh/tags.md#tag-education) 3 · [`fashion-film`](pages/zh/tags.md#tag-fashion-film) 3 · [`korean-dialogue`](pages/zh/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/zh/tags.md#tag-ambient-audio) 3 · [`luxury`](pages/zh/tags.md#tag-luxury) 3 · [`selfie-vlog`](pages/zh/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/zh/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/zh/tags.md#tag-hard-cuts) 3 · [`cyberpunk`](pages/zh/tags.md#tag-cyberpunk) 3 · [`pets`](pages/zh/tags.md#tag-pets) 3 · [`multi-reference`](pages/zh/tags.md#tag-multi-reference) 3 · [`audio-sync`](pages/zh/tags.md#tag-audio-sync) 3 · [`halftone`](pages/zh/tags.md#tag-halftone) 3 · [`product-ad`](pages/zh/tags.md#tag-product-ad) 3 · [`single-take`](pages/zh/tags.md#tag-single-take) 3 · [`single-shot`](pages/zh/tags.md#tag-single-shot) 3 · [`lo-fi`](pages/zh/tags.md#tag-lo-fi) 3 · [`cafe`](pages/zh/tags.md#tag-cafe) 3 · [`physics`](pages/zh/tags.md#tag-physics) 3 · [`aerial`](pages/zh/tags.md#tag-aerial) 3 · [`landscape`](pages/zh/tags.md#tag-landscape) 3 · [`period`](pages/zh/tags.md#tag-period) 3 · [`image-to-video`](pages/zh/tags.md#tag-image-to-video) 3 · [`voiceover`](pages/zh/tags.md#tag-voiceover) 3 · [`push-in`](pages/zh/tags.md#tag-push-in) 3 · [`object-swap`](pages/zh/tags.md#tag-object-swap) 3 · [`asmr`](pages/zh/tags.md#tag-asmr) 3 · [`landmark`](pages/zh/tags.md#tag-landmark) 3 · [`mixed-media`](pages/zh/tags.md#tag-mixed-media) 3 · [`close-up`](pages/zh/tags.md#tag-close-up) 3 · [`autumn`](pages/zh/tags.md#tag-autumn) 3 · [`hud`](pages/zh/tags.md#tag-hud) 3 · [`short-film`](pages/zh/tags.md#tag-short-film) 3 · [`subtitles`](pages/zh/tags.md#tag-subtitles) 3 · [`subway`](pages/zh/tags.md#tag-subway) 3 · [`action-comedy`](pages/zh/tags.md#tag-action-comedy) 3 · [`crowd`](pages/zh/tags.md#tag-crowd) 3 · [`realism`](pages/zh/tags.md#tag-realism) 3 · [`pet`](pages/zh/tags.md#tag-pet) 3 · [`chase`](pages/zh/tags.md#tag-chase) 3 · [`kids-education`](pages/zh/tags.md#tag-kids-education) 3 · [`diorama`](pages/zh/tags.md#tag-diorama) 3 · [`world-building`](pages/zh/tags.md#tag-world-building) 3 · [`doodle`](pages/zh/tags.md#tag-doodle) 3 · [`editorial-poster`](pages/zh/tags.md#tag-editorial-poster) 3 · [`scrapbook`](pages/zh/tags.md#tag-scrapbook) 3 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 3 · [`flat-color`](pages/zh/tags.md#tag-flat-color) 3 · [`split-composition`](pages/zh/tags.md#tag-split-composition) 3
+[`multi-shot`](pages/zh/tags.md#tag-multi-shot) 51 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 46 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 40 · [`handheld`](pages/zh/tags.md#tag-handheld) 39 · [`action`](pages/zh/tags.md#tag-action) 37 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 27 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 25 · [`anime`](pages/zh/tags.md#tag-anime) 23 · [`template`](pages/zh/tags.md#tag-template) 23 · [`fashion`](pages/zh/tags.md#tag-fashion) 22 · [`macro`](pages/zh/tags.md#tag-macro) 22 · [`vertical`](pages/zh/tags.md#tag-vertical) 22 · [`vlog`](pages/zh/tags.md#tag-vlog) 20 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 20 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 16 · [`comedy`](pages/zh/tags.md#tag-comedy) 16 · [`long-take`](pages/zh/tags.md#tag-long-take) 15 · [`editorial`](pages/zh/tags.md#tag-editorial) 15 · [`sci-fi`](pages/zh/tags.md#tag-sci-fi) 14 · [`martial-arts`](pages/zh/tags.md#tag-martial-arts) 13 · [`3d-animation`](pages/zh/tags.md#tag-3d-animation) 12 · [`slow-motion`](pages/zh/tags.md#tag-slow-motion) 12 · [`tracking-shot`](pages/zh/tags.md#tag-tracking-shot) 12 · [`selfie`](pages/zh/tags.md#tag-selfie) 12 · [`timed-shots`](pages/zh/tags.md#tag-timed-shots) 11 · [`dv-camcorder`](pages/zh/tags.md#tag-dv-camcorder) 11 · [`food`](pages/zh/tags.md#tag-food) 11 · [`commercial`](pages/zh/tags.md#tag-commercial) 11 · [`portrait`](pages/zh/tags.md#tag-portrait) 11 · [`typography`](pages/zh/tags.md#tag-typography) 11 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 11 · [`timed-beats`](pages/zh/tags.md#tag-timed-beats) 10 · [`motion-graphics`](pages/zh/tags.md#tag-motion-graphics) 10 · [`multi-scene`](pages/zh/tags.md#tag-multi-scene) 10 · [`korean`](pages/zh/tags.md#tag-korean) 10 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 10 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 10 · [`lip-sync`](pages/zh/tags.md#tag-lip-sync) 9 · [`kinetic-typography`](pages/zh/tags.md#tag-kinetic-typography) 9 · [`ugc`](pages/zh/tags.md#tag-ugc) 9 · [`sound-design`](pages/zh/tags.md#tag-sound-design) 9 · [`rain`](pages/zh/tags.md#tag-rain) 9 · [`character-reference`](pages/zh/tags.md#tag-character-reference) 9 · [`dragon`](pages/zh/tags.md#tag-dragon) 9 · [`dark-fantasy`](pages/zh/tags.md#tag-dark-fantasy) 9 · [`creature`](pages/zh/tags.md#tag-creature) 9 · [`pov`](pages/zh/tags.md#tag-pov) 9 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 9 · [`documentary`](pages/zh/tags.md#tag-documentary) 8 · [`dance`](pages/zh/tags.md#tag-dance) 8 · [`lifestyle`](pages/zh/tags.md#tag-lifestyle) 8 · [`miniature`](pages/zh/tags.md#tag-miniature) 8 · [`home-video`](pages/zh/tags.md#tag-home-video) 8 · [`architecture`](pages/zh/tags.md#tag-architecture) 8 · [`watercolor`](pages/zh/tags.md#tag-watercolor) 8 · [`music-video`](pages/zh/tags.md#tag-music-video) 7 · [`animals`](pages/zh/tags.md#tag-animals) 7 · [`film-grain`](pages/zh/tags.md#tag-film-grain) 7 · [`text-render`](pages/zh/tags.md#tag-text-render) 7 · [`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration) 7 · [`split-layout`](pages/zh/tags.md#tag-split-layout) 7 · [`poster`](pages/zh/tags.md#tag-poster) 7 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 6 · [`storytelling`](pages/zh/tags.md#tag-storytelling) 6 · [`transformation`](pages/zh/tags.md#tag-transformation) 6 · [`sfx`](pages/zh/tags.md#tag-sfx) 6 · [`vfx`](pages/zh/tags.md#tag-vfx) 6 · [`photo-to-art`](pages/zh/tags.md#tag-photo-to-art) 6 · [`sports`](pages/zh/tags.md#tag-sports) 5 · [`timeline-prompt`](pages/zh/tags.md#tag-timeline-prompt) 5 · [`outfit-change`](pages/zh/tags.md#tag-outfit-change) 5 · [`surreal`](pages/zh/tags.md#tag-surreal) 5 · [`travel`](pages/zh/tags.md#tag-travel) 5 · [`japanese`](pages/zh/tags.md#tag-japanese) 5 · [`timestamped`](pages/zh/tags.md#tag-timestamped) 5 · [`low-angle`](pages/zh/tags.md#tag-low-angle) 5 · [`one-take`](pages/zh/tags.md#tag-one-take) 5 · [`collage`](pages/zh/tags.md#tag-collage) 5 · [`night`](pages/zh/tags.md#tag-night) 5 · [`native-audio`](pages/zh/tags.md#tag-native-audio) 5 · [`fight-scene`](pages/zh/tags.md#tag-fight-scene) 5 · [`camera-move`](pages/zh/tags.md#tag-camera-move) 5 · [`multi-turn-edit`](pages/zh/tags.md#tag-multi-turn-edit) 5 · [`consistency`](pages/zh/tags.md#tag-consistency) 5 · [`product-commercial`](pages/zh/tags.md#tag-product-commercial) 5 · [`landmark`](pages/zh/tags.md#tag-landmark) 5 · [`street`](pages/zh/tags.md#tag-street) 5 · [`character-sheet`](pages/zh/tags.md#tag-character-sheet) 5 · [`horror`](pages/zh/tags.md#tag-horror) 5 · [`couple`](pages/zh/tags.md#tag-couple) 5 · [`nature`](pages/zh/tags.md#tag-nature) 5 · [`character`](pages/zh/tags.md#tag-character) 5 · [`photorealism`](pages/zh/tags.md#tag-photorealism) 5 · [`illustration`](pages/zh/tags.md#tag-illustration) 5 · [`minimalist`](pages/zh/tags.md#tag-minimalist) 5 · [`grid`](pages/zh/tags.md#tag-grid) 5 · [`agent-editing`](pages/zh/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/zh/tags.md#tag-ffmpeg) 5 · [`timeline`](pages/zh/tags.md#tag-timeline) 4 · [`travel-vlog`](pages/zh/tags.md#tag-travel-vlog) 4 · [`montage`](pages/zh/tags.md#tag-montage) 4 · [`time-lapse`](pages/zh/tags.md#tag-time-lapse) 4 · [`locked-camera`](pages/zh/tags.md#tag-locked-camera) 4 · [`chinese-dialogue`](pages/zh/tags.md#tag-chinese-dialogue) 4 · [`structured-prompt`](pages/zh/tags.md#tag-structured-prompt) 4 · [`ambient-sound`](pages/zh/tags.md#tag-ambient-sound) 4 · [`landscape`](pages/zh/tags.md#tag-landscape) 4 · [`multilingual`](pages/zh/tags.md#tag-multilingual) 4 · [`film-look`](pages/zh/tags.md#tag-film-look) 4 · [`music`](pages/zh/tags.md#tag-music) 4 · [`style-transfer`](pages/zh/tags.md#tag-style-transfer) 4 · [`snow`](pages/zh/tags.md#tag-snow) 4 · [`day-in-the-life`](pages/zh/tags.md#tag-day-in-the-life) 4 · [`romance`](pages/zh/tags.md#tag-romance) 4 · [`product`](pages/zh/tags.md#tag-product) 4 · [`diorama`](pages/zh/tags.md#tag-diorama) 4 · [`sketchbook`](pages/zh/tags.md#tag-sketchbook) 4 · [`editorial-poster`](pages/zh/tags.md#tag-editorial-poster) 4 · [`paper-texture`](pages/zh/tags.md#tag-paper-texture) 4 · [`historical`](pages/zh/tags.md#tag-historical) 3 · [`education`](pages/zh/tags.md#tag-education) 3 · [`fashion-film`](pages/zh/tags.md#tag-fashion-film) 3 · [`korean-dialogue`](pages/zh/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/zh/tags.md#tag-ambient-audio) 3 · [`luxury`](pages/zh/tags.md#tag-luxury) 3 · [`selfie-vlog`](pages/zh/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/zh/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/zh/tags.md#tag-hard-cuts) 3 · [`cyberpunk`](pages/zh/tags.md#tag-cyberpunk) 3 · [`pets`](pages/zh/tags.md#tag-pets) 3 · [`multi-reference`](pages/zh/tags.md#tag-multi-reference) 3 · [`audio-sync`](pages/zh/tags.md#tag-audio-sync) 3 · [`halftone`](pages/zh/tags.md#tag-halftone) 3 · [`product-ad`](pages/zh/tags.md#tag-product-ad) 3 · [`single-take`](pages/zh/tags.md#tag-single-take) 3 · [`single-shot`](pages/zh/tags.md#tag-single-shot) 3 · [`lo-fi`](pages/zh/tags.md#tag-lo-fi) 3 · [`cafe`](pages/zh/tags.md#tag-cafe) 3 · [`physics`](pages/zh/tags.md#tag-physics) 3 · [`aerial`](pages/zh/tags.md#tag-aerial) 3 · [`period`](pages/zh/tags.md#tag-period) 3 · [`image-to-video`](pages/zh/tags.md#tag-image-to-video) 3 · [`voiceover`](pages/zh/tags.md#tag-voiceover) 3 · [`push-in`](pages/zh/tags.md#tag-push-in) 3 · [`object-swap`](pages/zh/tags.md#tag-object-swap) 3 · [`asmr`](pages/zh/tags.md#tag-asmr) 3 · [`mixed-media`](pages/zh/tags.md#tag-mixed-media) 3 · [`close-up`](pages/zh/tags.md#tag-close-up) 3 · [`autumn`](pages/zh/tags.md#tag-autumn) 3 · [`line-art`](pages/zh/tags.md#tag-line-art) 3 · [`hud`](pages/zh/tags.md#tag-hud) 3 · [`short-film`](pages/zh/tags.md#tag-short-film) 3 · [`subtitles`](pages/zh/tags.md#tag-subtitles) 3 · [`subway`](pages/zh/tags.md#tag-subway) 3 · [`action-comedy`](pages/zh/tags.md#tag-action-comedy) 3 · [`crowd`](pages/zh/tags.md#tag-crowd) 3 · [`realism`](pages/zh/tags.md#tag-realism) 3 · [`pet`](pages/zh/tags.md#tag-pet) 3 · [`chase`](pages/zh/tags.md#tag-chase) 3 · [`vintage`](pages/zh/tags.md#tag-vintage) 3 · [`kids-education`](pages/zh/tags.md#tag-kids-education) 3 · [`world-building`](pages/zh/tags.md#tag-world-building) 3 · [`doodle`](pages/zh/tags.md#tag-doodle) 3 · [`screenshot`](pages/zh/tags.md#tag-screenshot) 3 · [`camera-roll`](pages/zh/tags.md#tag-camera-roll) 3 · [`smartphone-photo`](pages/zh/tags.md#tag-smartphone-photo) 3 · [`natural-light`](pages/zh/tags.md#tag-natural-light) 3 · [`identity-preservation`](pages/zh/tags.md#tag-identity-preservation) 3 · [`scrapbook`](pages/zh/tags.md#tag-scrapbook) 3 · [`ink-illustration`](pages/zh/tags.md#tag-ink-illustration) 3 · [`flat-color`](pages/zh/tags.md#tag-flat-color) 3 · [`split-composition`](pages/zh/tags.md#tag-split-composition) 3
 
-**[全部 725 个标签](pages/zh/tags.md)**
+**[全部 746 个标签](pages/zh/tags.md)**
 
 <a id="contributing"></a>
 ## 投稿

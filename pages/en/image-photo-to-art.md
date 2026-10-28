@@ -1,6 +1,6 @@
 # Photo to art
 
-[Back to the list](../../README.md) · All 24 entries
+[Back to the list](../../README.md) · All 28 entries
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Upper half photo, lower half watercolour travel sketch
@@ -592,6 +592,132 @@ Draw this photo in the style of a modern, artistic naïve illustration: minimali
 
 </details>
 
+<a id="gpt-image-photo-to-crayon-memory-card-red-house"></a>
+### Red house photo with crayon illustration below
+
+<a href="https://x.com/harboriis/status/2105894224076198150"><img src="../../previews/gpt-image-photo-to-crayon-memory-card-red-house.jpg" width="360"></a>
+
+A 50/50 split keeps the real photo on top and redraws the same scene as flat color blocks on ivory paper below. Palette extraction from the photo, crayon and screen-print texture cues, and a negative list keep the illustration naive and faithful.
+
+GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2105894224076198150) · 133 likes on 2026-10-28
+
+[`memory-card`](tags.md#tag-memory-card) [`photo-to-illustration`](tags.md#tag-photo-to-illustration) [`crayon`](tags.md#tag-crayon) [`split-layout`](tags.md#tag-split-layout) [`naive-art`](tags.md#tag-naive-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded photo as the only content source. Create a vertical 3:4 "real photo + minimal illustration" memory card based entirely on that image. Preserve the main subjects, subject count, pose, viewpoint, spatial relationships, and overall scene logic. Do not redesign the source or add unrelated content.
+
+Layout:Split the card into two horizontal sections, about 50% top and 50% bottom. The top half keeps the uploaded photo with photographic texture. Crop naturally to fit, but do not stretch,mirror, rearrange, or alter the main subjects. Keep natural lighting, real materials, and the original color mood, with subtle editorial grading. The lower half uses a warm ivory handmade-paper background and shows a centered horizontal illustration of the same scene. The illustration occupies about 63-67% of the lower width, with generous blank space around it.
+
+Scene translation:In the lower illustration, preserve the most recognizable subjects, major structures, important objects, viewpoint, depth, relative scale, and key positions from the source. Remove tiny clutter, fine photographic texture, reflections, and complex shadows.Simplify the scene into slightly awkward geometric color blocks and thin hand-drawn lines. People and animals, when present, remain identifiable through silhouette, pose,hair or fur shape,clothing color, and placement, but facial detail may be reduced. Outlines may wobble, break, shift, or misalign slightly while the scene stays recognizable.
+
+Illustration style: Use restrained naive editorial drawing with soft geometric simplification and handmade quality. Combine thin sketchy linework with flat shapes. The lower scene should feel calm, clean, slightly imperfect, and visually reduced rather than technically precise. Avoid realistic rendering.
+
+Color:Extract 4-6 representative colors from the uploaded photo and reinterpret them as a soft low-saturation palette. Use muted tones derived from the source, with flat fills and enough contrast to separate major subjects and scene layers. No complex gradients,glossy highlights, or heavy 3D modeling.
+
+Texture:Blend crayon, pastel,screen-print, and old-book illustration qualities. Keep paper show-through, fine grain, slight pigment unevenness, worn edges, and subtle off-register shifts. The result should feel like an independent editorial illustration printed on aged
+
+paper:warm, quiet, nostalgic, and collectible.
+
+Typography:Below the illustration, you may include exactly two short English lines related to the scene.mood,place.or moment. Use a small vintage serif font, left-aligned. If clean readable text cannot be rendered, leave the area blank. No other readable text.
+
+Cleanup:Remove phone UI,subtitles, screenshot traces, and interface elements when present. Do not invent missing scenery or decorative props.
+
+Negative:No major layout change, no added or missing primary subjects, no photoreal painting, no polished watercolor,no anime,no manga, no vector clip-art, no oil paint, no impasto, no 3D, no logo,no watermark, no black border,no UI,no unrelated decoration.
+```
+
+</details>
+
+<a id="gpt-image-golden-thread-travel-poster-template"></a>
+### Realistic city skyline becoming ink sketch on ivory paper
+
+<a href="https://x.com/Goodmanprotocol/status/2105230944617775113"><img src="../../previews/gpt-image-golden-thread-travel-poster-template.jpg" width="360"></a>
+
+A single golden thread links a cinematic upper photo to a small ink illustration on ivory paper, which holds the two halves together. Bracketed placeholders let one template cover any destination, and the avoid list blocks split screen rigidity and clutter.
+
+GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2105230944617775113) · 113 likes on 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`golden-thread`](tags.md#tag-golden-thread) [`ink-illustration`](tags.md#tag-ink-illustration) [`template`](tags.md#tag-template) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 4:5 vertical conceptual travel-art poster for [COUNTRY / CITY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE ONLY — generate the entire artwork from [COUNTRY / CITY / LOCATION / SUBJECT] alone.
+
+CORE CONCEPT
+Create a poetic travel memory in which a cinematic realistic destination scene gradually transforms into a delicate hand-drawn illustration through one continuous golden thread.
+
+UPPER SCENE
+Create a breathtaking, highly realistic cinematic view of the most iconic location associated with [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose the most atmospheric lighting—sunrise, sunset, golden hour, or blue hour.
+
+Show authentic architecture, landscape, proportions, recognizable local details, realistic materials, atmospheric depth, natural light, subtle film grain, and sophisticated editorial travel-photography composition.
+
+GOLDEN THREAD
+Choose one meaningful visual element from the scene—such as the sun, tower, dome, window, streetlight, mountain peak, river, bridge, cable, or architectural detail—and transform it into one thin golden thread that naturally extends downward from the scene.
+
+The thread should remain continuous, delicate, slightly imperfect, and elegant as it travels into the open space below.
+
+LOWER STORY
+On warm ivory textured paper, let the golden thread evolve into a tiny minimalist ink illustration inspired by [COUNTRY / CITY / LOCATION / SUBJECT].
+
+Automatically choose one meaningful local symbol, traveler, traditional object, miniature landmark, street scene, boat, train, flower, map element, or cultural detail. Draw it with fine black ink lines, subtle hatching, tiny golden accents, and very little detail.
+
+Keep the illustration small and surrounded by generous negative space. It should feel like a quiet continuation of the upper scene rather than a separate picture.
+
+TYPOGRAPHY
+Add minimal refined editorial typography based on [COUNTRY / CITY / LOCATION / SUBJECT]. Use a small destination name, landmark name, or short poetic phrase. Keep the typography subtle and secondary.
+
+FINAL AESTHETIC
+Cinematic travel photography × delicate ink illustration × continuous golden thread × warm ivory paper × poetic visual storytelling × premium editorial art print.
+
+The upper scene should feel authentic and visually dominant, while the lower illustration feels like a beautiful hand-drawn memory emerging naturally from the destination.
+
+Avoid split-screen rigidity, collage clutter, disconnected illustration, random objects, cartoon styling, distorted architecture, excessive text, logos, watermarks, heavy vintage effects, or generic travel imagery.
+
+FORMAT: 4:5 vertical, sophisticated museum-quality travel artwork, generous negative space. Generate for new york
+```
+
+</details>
+
+<a id="gpt-image-photo-to-naive-sketch-memory-card"></a>
+### Snowy lake boat photo with crayon sketch below
+
+<a href="https://x.com/harboriis/status/2104455859447501166"><img src="../../previews/gpt-image-photo-to-naive-sketch-memory-card.jpg" width="360"></a>
+
+Splits a 3:4 card into the untouched source photo on top and a simplified crayon and pastel redraw on aged paper below. The prompt pins the layout ratios, palette extraction from the photo, texture layers, and a negative list, so the sketch stays faithful to the photo.
+
+GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2104455859447501166) · 112 likes on 2026-10-28
+
+[`photo-to-sketch`](tags.md#tag-photo-to-sketch) [`memory-card`](tags.md#tag-memory-card) [`crayon`](tags.md#tag-crayon) [`split-layout`](tags.md#tag-split-layout) [`landscape`](tags.md#tag-landscape)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded photo as the only content source. Create a vertical 3:4 “real photo + minimal illustration” memory card based entirely on that image. Preserve the main subjects, subject count, pose, viewpoint, spatial relationships, and overall scene logic. Do not redesign the source or add unrelated content.
+Layout
+Split the card into two horizontal sections, about 50% top and 50% bottom. The top half keeps the uploaded photo with photographic texture. Crop naturally to fit, but do not stretch, mirror, rearrange, or alter the main subjects. Keep natural lighting, real materials, and the original color mood, with subtle editorial grading. The lower half uses a warm ivory handmade-paper background and shows a centered horizontal illustration of the same scene. The illustration occupies about 63-67% of the lower width, with generous blank space around it.
+Scene Translation
+In the lower illustration, preserve the most recognizable subjects, major structures, important objects, viewpoint, depth, relative scale, and key positions from the source. Remove tiny clutter, fine photographic texture, reflections, and complex shadows. Simplify the scene into slightly awkward geometric color blocks and thin hand-drawn lines. People and animals, when present, remain identifiable through silhouette, pose, hair or fur shape, clothing color, and placement, but facial detail may be reduced. Outlines may wobble, break, shift, or misalign slightly while the scene stays recognizable.
+Illustration Style
+Use restrained naive editorial drawing with soft geometric simplification and handmade quality. Combine thin sketchy linework with flat shapes. The lower scene should feel calm, clean, slightly imperfect, and visually reduced rather than technically precise. Avoid realistic rendering.
+Color
+Extract 4-6 representative colors from the uploaded photo and reinterpret them as a soft low-saturation palette. Use muted tones derived from the source, with flat fills and enough contrast to separate major subjects and scene layers. No complex gradients, glossy highlights, or heavy 3D modeling.
+Texture
+Blend crayon, pastel, screen-print, and old-book illustration qualities. Keep paper show-through, fine grain, slight pigment unevenness, worn edges, and subtle off-register shifts. The result should feel like an independent editorial illustration printed on aged paper: warm, quiet, nostalgic, and collectible.
+Typography
+Below the illustration, you may include exactly two short English lines related to the scene, mood, place, or moment. Use a small vintage serif font, left-aligned. If clean readable text cannot be rendered, leave the area blank. No other readable text.
+Cleanup
+Remove phone UI, subtitles, screenshot traces, and interface elements when present. Do not invent missing scenery or decorative props.
+Negative
+No major layout change, no added or missing primary subjects, no photoreal painting, no polished watercolor, no anime, no manga, no vector clip-art, no oil paint, no impasto, no 3D, no logo, no watermark, no black border, no UI, no unrelated decoration.
+Vertical 3:4 split card · photo top / naive illustration bottom · aged paper texture
+```
+
+</details>
+
 <a id="gpt-image-autumn-die-cut-sticker-from-photo"></a>
 ### Photo turned into autumn die-cut sticker
 
@@ -988,6 +1114,37 @@ Nano Banana 2.1 · Edit · Source: [@harboriis on X](https://x.com/harboriis/sta
 
 ```text
 No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark. Include a small rounded picture-in-picture card in the bottom right corner displaying the original reference photo
+```
+
+</details>
+
+<a id="nano-banana-photo-to-painting-sunset-pair"></a>
+### Sunset rooftop photo paired with painted version
+
+<a href="https://x.com/Aqsahere_/status/2113482539570716831"><img src="../../previews/nano-banana-photo-to-painting-sunset-pair.jpg" width="360"></a>
+
+A two section layout makes the model redraw the same moment as a painting, and it locks pose, outfit, colors and lighting direction so the character stays recognizable. Bracketed slots for subject, setting, title and tagline make it reusable.
+
+Nano Banana 2.1 · Text-to-image · Source: [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2113482539570716831) · 40 likes on 2026-10-28
+
+[`photo-to-painting`](tags.md#tag-photo-to-painting) [`editorial-poster`](tags.md#tag-editorial-poster) [`two-section-layout`](tags.md#tag-two-section-layout) [`sunset`](tags.md#tag-sunset) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Design a sophisticated vertical editorial poster with a seamless two-section composition.
+
+In the upper section, present a highly realistic photograph of [SUBJECT] in [SETTING]. Use warm, natural daylight, authentic facial expression, detailed skin texture, subtle highlights, realistic shadows, and cinematic depth of field for a polished photographic feel.
+
+In the lower section, recreate the exact same moment as a refined hand-painted digital artwork. Keep the character instantly recognizable by matching the original pose, facial features, hairstyle, outfit, colors, lighting direction, and important background elements, while giving the scene a soft artistic interpretation.
+
+Surround the illustrated section with a warm ivory paper layout featuring subtle paper grain and elegant editorial spacing. The artwork should have delicate painterly strokes, organic shapes, muted pastel tones, gentle contours, and a nostalgic contemporary magazine aesthetic. Add a few minimal decorative botanical or seasonal details that naturally enhance the composition.
+
+Under the artwork, place a centered editorial heading: “[MAIN TITLE]” using thin, sophisticated uppercase lettering with generous spacing. Beneath it, add “[TAGLINE]” in a smaller elegant typeface with subtle letter spacing, followed by a short delicate pastel accent line.
+
+Keep the entire design clean, balanced, refined, and visually cohesive. Use a vertical 3:4 format, high resolution, sophisticated print aesthetics, natural color grading, and a seamless transition from photography to illustration.
+
+Avoid visual clutter, excessive typography, thick borders, harsh saturation, distorted anatomy, inconsistent facial details, awkward proportions, or unnecessary graphic decorations.
 ```
 
 </details>

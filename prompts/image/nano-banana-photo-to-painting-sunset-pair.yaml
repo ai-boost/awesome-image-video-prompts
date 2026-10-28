@@ -1,0 +1,37 @@
+id: nano-banana-photo-to-painting-sunset-pair
+title:
+  en: Sunset rooftop photo paired with painted version
+  zh: 日落屋顶照片与手绘版并排对照
+model: Nano Banana 2.1
+mode: text-to-image
+category: photo-to-art
+tags:
+- photo-to-painting
+- editorial-poster
+- two-section-layout
+- sunset
+- template
+source:
+  name: '@Aqsahere_ on X'
+  url: https://x.com/Aqsahere_/status/2113482539570716831
+  credit: Aqsa
+  likes: 40
+  captured: '2026-10-28'
+  posted: '2026-10-23'
+notes:
+  en: A two section layout makes the model redraw the same moment as a painting, and it locks pose, outfit, colors and lighting direction so the character stays recognizable. Bracketed slots for subject, setting, title and tagline make it reusable.
+  zh: 上下两段结构要求把同一瞬间重绘成手绘版，并锁定姿势、服装、色彩和光线方向，让人物保持可辨认。主体、场景、标题和标语用方括号占位，方便复用。
+prompt: |
+  Design a sophisticated vertical editorial poster with a seamless two-section composition.
+
+  In the upper section, present a highly realistic photograph of [SUBJECT] in [SETTING]. Use warm, natural daylight, authentic facial expression, detailed skin texture, subtle highlights, realistic shadows, and cinematic depth of field for a polished photographic feel.
+
+  In the lower section, recreate the exact same moment as a refined hand-painted digital artwork. Keep the character instantly recognizable by matching the original pose, facial features, hairstyle, outfit, colors, lighting direction, and important background elements, while giving the scene a soft artistic interpretation.
+
+  Surround the illustrated section with a warm ivory paper layout featuring subtle paper grain and elegant editorial spacing. The artwork should have delicate painterly strokes, organic shapes, muted pastel tones, gentle contours, and a nostalgic contemporary magazine aesthetic. Add a few minimal decorative botanical or seasonal details that naturally enhance the composition.
+
+  Under the artwork, place a centered editorial heading: “[MAIN TITLE]” using thin, sophisticated uppercase lettering with generous spacing. Beneath it, add “[TAGLINE]” in a smaller elegant typeface with subtle letter spacing, followed by a short delicate pastel accent line.
+
+  Keep the entire design clean, balanced, refined, and visually cohesive. Use a vertical 3:4 format, high resolution, sophisticated print aesthetics, natural color grading, and a seamless transition from photography to illustration.
+
+  Avoid visual clutter, excessive typography, thick borders, harsh saturation, distorted anatomy, inconsistent facial details, awkward proportions, or unnecessary graphic decorations.

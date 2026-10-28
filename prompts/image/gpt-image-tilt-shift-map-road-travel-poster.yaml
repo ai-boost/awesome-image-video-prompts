@@ -1,0 +1,44 @@
+id: gpt-image-tilt-shift-map-road-travel-poster
+title:
+  en: Tilt shift Shanghai skyline rising from vintage map
+  zh: 从复古地图延伸出的上海移轴天际线
+model: GPT Image 2.5
+mode: text-to-image
+category: map
+tags:
+- tilt-shift
+- miniature
+- travel-poster
+- vintage-map
+- golden-hour
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2109581797944443143
+  credit: Saul Goodman
+  likes: 44
+  captured: '2026-10-28'
+  posted: '2026-10-12'
+notes:
+  en: A fill in city placeholder drives a clear foreground, middle ground and background layout, with a winding road leading from the printed map to the skyline. One vehicle as the focal point, golden hour light and a tilt shift diorama look keep the scene believable, and the avoid list limits clutter.
+  zh: 用城市占位符配合前景、中景、远景三层结构，让蜿蜒道路从印刷地图通向天际线。单一车辆作为视觉焦点，黄金时刻光线与移轴微缩质感让画面可信，排除清单则控制了杂乱。
+prompt: |
+  Create a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].
+
+  TEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.
+
+  CORE CONCEPT:
+  A vintage printed city map transforms into a winding elevated road leading toward the destination’s iconic skyline. One realistic local vehicle drives along the curved road, becoming the main focal point.
+
+  COMPOSITION:
+  Foreground: detailed vintage map with “[CITY NAME]” printed boldly across it. Middle ground: a winding road emerging naturally from the map. Background: recognizable landmarks, authentic architecture, and local scenery arranged in atmospheric depth.
+
+  STYLE:
+  Photorealistic miniature diorama, tilt-shift photography, intricate cartographic textures, realistic vehicle details, shallow depth of field, warm golden-hour lighting, and cinematic shadows.
+
+  FINAL AESTHETIC:
+  A premium collectible travel poster blending vintage cartography with a realistic miniature world. Strong visual depth, authentic local atmosphere, and clean, uncluttered composition.
+
+  AVOID:
+  Unrelated landmarks, distorted roads, oversized vehicles, excessive labels, incorrect text, logos, watermarks, and borders.
+
+  FORMAT: Full-bleed 4:5 vertical composition.

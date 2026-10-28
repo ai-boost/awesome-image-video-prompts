@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 14 条
+[返回目录](../../README_zh.md) · 全部 19 条
 
 <a id="gpt-image-minimal-lifestyle-poster"></a>
 ### 真实照片变极简生活方式海报
@@ -623,6 +623,509 @@ Maintain realistic anatomy, natural body proportions, recognizable faces, believ
 
 </details>
 
+<a id="gpt-image-photo-line-art-travel-poster"></a>
+### 上海天际线照片延伸成线描船尾波
+
+<a href="https://x.com/Goodmanprotocol/status/2103408270425960905"><img src="../../previews/gpt-image-photo-line-art-travel-poster.jpg" width="360"></a>
+
+提示词把画面精确分成上半实景照片和下半象牙色纸面，并要求一个元素（这里是渡轮尾波）跨过分界线逐渐变成钢笔线描。占画面高度7%到10%的墨线小人和一句简短题字让版面保持安静，方括号占位符让同一结构可以套用到任何地点。
+
+GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2103408270425960905) · 146 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`line-art`](tags.md#tag-line-art) [`photo-to-sketch`](tags.md#tag-photo-to-sketch) [`editorial`](tags.md#tag-editorial) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium 2:3 vertical “Photo × Line Art” travel editorial poster for [COUNTRY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.
+
+COMPOSITION
+Divide the artwork into two equal 50/50 sections. The upper half is a sophisticated realistic travel photograph depicting the most recognizable scene, landmark, architecture, landscape, or cultural element of [COUNTRY / LOCATION / SUBJECT].
+
+The lower half transitions into clean warm ivory paper with extremely subtle fine-fiber texture and generous negative space.
+
+CONTINUOUS VISUAL CONNECTION
+Identify one distinctive element from the upper scene—such as water, a road, rope, cable, bridge, branch, shoreline, architectural edge, reflection, or light—and extend it naturally across the center boundary.
+
+The element must continuously transform from realistic photographic detail into a delicate black pen line drawing. The transition should feel seamless, intentional, and visually clever, with no gap or abrupt restart.
+
+LINE-ART CHARACTER
+Create one tiny black ink figure interacting with the extended line. The figure should occupy only about 7–10% of the total artwork height, with a simple expressive action such as pulling, climbing, carrying, pushing, observing, walking, or resting.
+
+Use thin, slightly imperfect hand-drawn lines, simplified clothing and props, minimal facial detail, and relaxed editorial sketchbook character.
+
+TYPOGRAPHY
+Add one short, gentle English phrase of 2–5 words, generated specifically for [COUNTRY / LOCATION / SUBJECT]. Keep it small and understated, functioning as an emotional caption rather than a headline.
+
+FINAL AESTHETIC
+Realistic travel photography × minimalist black line art × clever visual continuation × contemporary editorial poster × poetic travel storytelling. Keep the composition refined, quiet, spacious, and sophisticated. Every location should receive a unique connection concept based on its visual identity.
+
+Avoid: disconnected upper and lower sections, floating figures, isolated icons, oversized characters, detailed faces, anime, cartoon styling, thick outlines, dense sketching, full scene illustration, infographic layouts, grids, collage panels, stamps, borders, excessive text, yellow paper, logos, watermarks, or UI elements.
+
+FORMAT: 2:3 vertical, exact 50/50 composition, premium editorial travel-poster aesthetic.
+```
+
+</details>
+
+<a id="gpt-image-architectural-landmark-graphite-watercolor-poster"></a>
+### 比萨斜塔铅笔线稿与水彩建筑海报
+
+<a href="https://x.com/Naiknelofar788/status/2104418521233215906"><img src="../../previews/gpt-image-architectural-landmark-graphite-watercolor-poster.jpg" width="360"></a>
+
+把占位符换成任意地标和城市即可复用。用层次分明的细节、一条在手写坐标旁断开的铅笔线，以及与国家对应的单一点缀色，营造出深度和独特气质。
+
+GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2104418521233215906) · 129 赞，统计于 2026-10-28
+
+[`architecture`](tags.md#tag-architecture) [`landmark`](tags.md#tag-landmark) [`graphite`](tags.md#tag-graphite) [`watercolor`](tags.md#tag-watercolor) [`travel-poster`](tags.md#tag-travel-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an exceptionally original minimalist architectural art poster featuring [LANDMARK] in [CITY, COUNTRY].
+
+Depict the landmark in its recognizable natural architectural appearance, with its authentic proportions, distinctive structure, materials, and characteristic details. Combine fine graphite architectural drawing with subtle vintage watercolor washes, creating the feeling of a sophisticated illustrated travel archive.
+
+The landmark should be the central visual focus, surrounded by an intricate but restrained world of extremely delicate architectural linework: construction measurements, perspective guides, tiny streets, rooftops, surrounding buildings, local landscape, clouds, birds, shadows, fragments of maps, compass marks, elevation studies, structural details, and subtle environmental contours.
+
+Use a layered visual language where some elements are highly detailed while others fade into the paper, creating depth without making the composition feel crowded.
+
+Add one unexpected artistic detail: a single continuous pencil line travels around the landmark without directly tracing its outline. Allow it to occasionally intersect with construction lines, then break at one point beside a tiny handwritten coordinate, date, measurement, or architectural note.
+
+Use warm ivory handmade paper, graphite pencil, extremely fine ink lines, delicate watercolor washes, subtle eraser dust, visible paper fibers, faint halftone imperfections, soft natural shadows, and lightly weathered archival texture.
+
+Color palette
+
+Keep the overall artwork muted, sophisticated, and vintage. Use warm ivory and graphite as the foundation, with the landmark shown in its authentic recognizable colors through restrained watercolor washes.
+
+Add one subtle accent color inspired by [CITY/COUNTRY] — for example:
+
+- Italy → muted terracotta
+- Japan → restrained vermilion
+- France → faded blue
+- UK → muted navy or burgundy
+- India → subtle saffron
+- USA → muted teal or dusty red
+
+Avoid bright digital colors.
+
+Surrounding details
+
+Include carefully chosen elements associated with [CITY/COUNTRY], such as:
+
+- local architecture
+- landscape or geography
+- streets and rooftops
+- transportation
+- vegetation
+- small cultural details
+- map fragments
+- architectural ornaments
+- elevation or measurement diagrams
+- compass rose
+- coordinates
+- faint historical annotations
+
+These details should frame and contextualize the landmark rather than compete with it.
+
+Typography
+
+Place small, refined typography in generous negative space:
+
+[LANDMARK NAME]
+[CITY, COUNTRY]
+
+“drawn by everything around it.”
+
+Use elegant editorial serif typography with generous spacing. Add only a few tiny handwritten architectural annotations or coordinates.
+
+Artistic direction
+
+The final composition should feel mysterious, intelligent, timeless, and unexpectedly beautiful — somewhere between a vintage European travel poster, an architect's working sketch, a museum exhibition print, and a collector's archival illustration.
+
+No people.
+No photorealistic background.
+No excessive typography.
+No decorative clutter.
+No neon colors.
+No glossy digital rendering.
+No cartoon aesthetic.
+No generic stock-travel-poster appearance.
+
+4:5 vertical composition, premium editorial design, tactile handmade paper, sophisticated architectural illustration, precise fine-line details, subtle watercolor, elegant negative space, balanced visual hierarchy, museum-quality contemporary art poster.
+```
+
+</details>
+
+<a id="gpt-image-architectural-travel-postcard-seoul"></a>
+### 首尔光化门建筑旅行明信片
+
+<a href="https://x.com/AiwithLariab/status/2105494196195049873"><img src="../../previews/gpt-image-architectural-travel-postcard-seoul.jpg" width="360"></a>
+
+用方括号槽位填入目的地和国家，让模型选一个地标作为绝对主体。细墨线加两到四种低饱和色，淡化的街区地图层和明确的视觉层级让版面有编辑感。
+
+GPT Image 2.5 · 文生图 · 出处: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2105494196195049873) · 118 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`architecture`](tags.md#tag-architecture) [`pen-and-ink`](tags.md#tag-pen-and-ink) [`template`](tags.md#tag-template) [`seoul`](tags.md#tag-seoul)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+DESTINATION: [CITY / DESTINATION]
+COUNTRY: [COUNTRY]
+
+Create a sophisticated vertical 2:3 premium architectural travel postcard for [DESTINATION], [COUNTRY].
+
+CORE STYLE
+
+Use the visual language of a high-end contemporary architectural travel poster combined with refined vintage editorial illustration.
+
+The design should feel:
+- elegant
+- cultured
+- timeless
+- architectural
+- collectible
+- premium
+- museum-shop quality
+
+Combine extremely detailed architectural pen-and-ink illustration, delicate graphite linework, restrained watercolor-style flat color, archival cartographic graphics, elegant editorial typography, and generous white space.
+
+Do NOT make it look like a generic tourist poster.
+
+MAIN ARCHITECTURAL HERO
+
+Select ONE iconic and instantly recognizable architectural landmark strongly associated with [DESTINATION].
+
+Examples can include:
+- historic monument
+- palace
+- cathedral
+- mosque
+- temple
+- tower
+- bridge
+- government building
+- famous street façade
+- traditional architectural landmark
+- modern architectural icon
+
+The selected landmark must be the dominant visual subject.
+
+Show it from a believable three-quarter or slightly dramatic architectural perspective.
+
+Maintain accurate architectural proportions and recognizable structural details.
+
+Do not combine multiple major landmarks into one main illustration.
+
+ILLUSTRATION STYLE
+
+Render the main landmark using exceptionally fine black or dark graphite ink lines.
+
+Include:
+- detailed architectural hatching
+- precise windows
+- doors
+- columns
+- roofs
+- arches
+- ornaments
+- façade details
+- realistic structural geometry
+- subtle hand-drawn imperfections
+
+Keep the architecture primarily as detailed line art with selective flat color.
+
+Use refined illustrative detailing rather than photorealistic rendering.
+
+COLOR PALETTE
+
+Use mostly white space with only 2–4 sophisticated destination-specific colors.
+
+Choose colors naturally associated with [DESTINATION] or the landmark.
+
+Examples:
+- muted architectural stone tones
+- traditional local colors
+- restrained blue
+- muted green
+- terracotta
+- burgundy
+- soft red
+- architectural gold
+- subtle natural tones
+
+Colors should be elegant and slightly muted.
+
+Avoid:
+- neon colors
+- excessive saturation
+- gradients
+- glossy effects
+- muddy sepia
+- excessive beige
+- photorealistic color grading
+
+BACKGROUND
+
+Use a clean pure white background.
+
+Behind the architecture, add extremely subtle archival graphic elements such as:
+
+- faint city map
+- street plan
+- river outline
+- coordinates
+- contour lines
+- architectural diagram
+- compass
+- grid lines
+- local-language annotations
+- minimal geographical markings
+
+These elements must remain secondary and lightly faded.
+
+Do not allow the background map to overpower the main architecture.
+
+COMPOSITION
+
+Use a vertical 2:3 editorial composition.
+
+The main landmark should occupy approximately 60–75% of the artwork.
+
+Create generous negative space around the typography and architectural subject.
+
+Use an asymmetric premium editorial layout.
+
+The composition should feel carefully designed rather than centered like a basic tourist souvenir.
+
+Tasteful cropping is allowed when it creates a stronger architectural composition.
+
+TYPOGRAPHY
+
+At the top or upper-left area, display:
+
+[DESTINATION]
+
+Use large elegant high-contrast editorial serif typography inspired by premium architecture magazines and museum catalogues.
+
+Below it, optionally include:
+
+[LOCAL NAME]
+
+using the authentic local writing system of the destination.
+
+For example:
+Seoul
+서울
+
+London
+London
+
+Tokyo
+東京
+
+Paris
+Paris
+
+Use restrained typography with generous letter spacing.
+
+Do not use giant decorative typography that overwhelms the architecture.
+
+SECONDARY INFORMATION
+
+Include a small elegant information block containing destination-specific details such as:
+
+[SHORT DESTINATION DESCRIPTION]
+
+[COORDINATES]
+
+[LOCAL NAME]
+
+[COUNTRY]
+
+Use tiny refined typography with generous spacing.
+
+Optional subtle elements:
+
+- compass
+- small architectural sketch
+- miniature landmark drawing
+- local-language stamp-like mark
+- faint map label
+
+Keep all secondary elements minimal.
+
+ARCHIVAL MAP ELEMENT
+
+Include a very subtle map or street-plan layer related specifically to [DESTINATION].
+
+If the destination has a recognizable river, coastline, mountain, historic district, or urban grid, integrate it naturally into the background.
+
+Add a small understated geographical label where appropriate.
+
+Do not create a cluttered map.
+
+CONTEXTUAL DETAILS
+
+Add only a few tiny environmental elements when they naturally belong to the location:
+
+- pedestrians
+- bicycles
+- trees
+- street lamps
+- local vehicles
+- benches
+- small street details
+- birds
+
+These elements should primarily establish scale and atmosphere.
+
+Do not turn the image into a busy city scene.
+
+DESTINATION AUTHENTICITY
+
+Make the architecture, typography, environmental details, colors, map elements, and small contextual objects culturally and geographically appropriate to [DESTINATION], [COUNTRY].
+
+Avoid generic architecture that could belong to another city.
+
+The landmark must immediately communicate the destination.
+
+VISUAL HIERARCHY
+
+Priority order:
+
+1. Main architectural landmark
+2. Destination name
+3. Supporting map / archival graphics
+4. Local-language name
+5. Small contextual details
+6. Coordinates and information strip
+
+Everything should support the main landmark.
+
+BOTTOM INFORMATION STRIP
+
+At the bottom, add a refined museum-catalogue-style information strip:
+
+[DESTINATION]  |  [COUNTRY]  |  [ARCHITECTURAL STYLE]  |  EST. [YEAR]
+
+Keep it small, elegant, evenly spaced, and understated.
+
+If the landmark's construction date is uncertain, use an appropriate historical date or omit the year rather than inventing information.
+
+MOOD
+
+Quiet urban sophistication.
+
+Cultural authenticity.
+
+Architectural heritage.
+
+Modern editorial design.
+
+Historical character combined with contemporary graphic design.
+
+The final artwork should feel like a premium collectible architectural print purchased from a museum design shop.
+
+AVOID
+
+No landmark collage.
+
+No fake architecture.
+
+No random buildings.
+
+No generic tourist-poster aesthetic.
+
+No cartoon style.
+
+No 3D rendering.
+
+No glossy photorealism.
+
+No excessive vintage filters.
+
+No heavy sepia.
+
+No fake passport stamps.
+
+No excessive decorative elements.
+
+No clutter.
+
+No giant unnecessary text.
+
+No random flags.
+
+No inaccurate cultural symbols.
+
+No distorted architecture.
+
+No unrealistic perspective.
+
+No excessive gradients.
+
+No excessive beige.
+
+FINAL GOAL
+
+Create a highly detailed, sophisticated, timeless architectural travel postcard that could work consistently for ANY city or country while maintaining the same premium visual identity.
+
+Only change the destination-specific elements such as:
+
+[DESTINATION]
+[COUNTRY]
+[ICONIC LANDMARK]
+[LOCAL NAME]
+[ARCHITECTURAL STYLE]
+[COORDINATES]
+[ESTABLISHED / CONSTRUCTION YEAR]
+[DESTINATION-SPECIFIC COLORS]
+[MAP / GEOGRAPHICAL ELEMENTS]
+
+Everything else should maintain the same refined editorial postcard design language.
+```
+
+</details>
+
+<a id="gpt-image-architectural-passport-travel-poster"></a>
+### 东京雷门彩铅建筑护照旅行海报
+
+<a href="https://x.com/Naiknelofar788/status/2105486629586796891"><img src="../../previews/gpt-image-architectural-passport-travel-poster.jpg" width="360"></a>
+
+靠对比起效：地标满色且细节密集，城市地图、尺寸标注和立面草图则淡如幽灵地留在象牙色纸面上。简短的配色清单、城市与地标的方括号占位符，以及污迹和擦除construction线等瑕疵清单，共同保住手绘质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2105486629586796891) · 113 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`colored-pencil`](tags.md#tag-colored-pencil) [`architecture`](tags.md#tag-architecture) [`sketchbook`](tags.md#tag-sketchbook) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a highly detailed “Architectural Passport” travel poster for [CITY / LANDMARK], designed to look like a premium collectible art print that blends colored-pencil illustration, fine ink drawing, vintage architectural documentation, and subtle watercolor texture.
+
+Place the landmark as the dramatic hero, drawn with intricate hand-rendered details, realistic perspective, delicate pencil hatching, visible paper grain, and carefully controlled pops of natural color. Surround it with a faint city map, street names, architectural measurements, tiny elevation sketches, construction lines, botanical details, directional arrows, and miniature diagrammatic studies.
+
+Use an elegant warm ivory paper background with mostly muted graphite, charcoal, terracotta, olive green, dusty blue, and warm beige tones. Keep the background extremely clean and editorial, allowing the landmark to visually emerge from the page.
+
+Add sophisticated typography:
+[CITY]
+[LANDMARK NAME]
+small coordinates, founding/construction date, architectural style, neighborhood name, and tiny archival annotations.
+
+Include one or two miniature architectural detail drawings beside the main structure, as if taken from an architect’s sketchbook. Add subtle imperfections: pencil smudges, uneven ink pressure, erased construction marks, paper fibers, faint halftone texture, and hand-drawn annotation marks.
+
+The composition should feel like a cross between a vintage travel poster, an architectural magazine cover, a museum exhibition print, and a designer’s sketchbook.
+
+Visual hook: make the landmark extremely detailed and colorful while the surrounding city information remains almost ghost-like, creating a striking contrast between “the place” and “the blueprint of the place.”
+
+Vertical 4:5 composition, premium editorial design, sophisticated negative space, ultra-detailed hand illustration, realistic architectural perspective, tactile paper texture, collectible poster aesthetic, visually striking at thumbnail size, no photorealistic rendering, no 3D CGI look.
+```
+
+</details>
+
 <a id="nano-banana-landmark-photo-geometric-split-poster"></a>
 ### 上方地标实拍,下方几何插画的双联海报
 
@@ -832,6 +1335,46 @@ Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessiv
 
 FORMAT:
 3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-ink-golden-thread-travel-poster"></a>
+### 巴黎日落实景照片过渡到墨线插画的旅行海报
+
+<a href="https://x.com/Ziha_ai/status/2103336789339709511"><img src="../../previews/gpt-image-photo-to-ink-golden-thread-travel-poster.jpg" width="360"></a>
+
+提示词把画面拆成实景照片、过渡、墨线插画三段，并用一根金色细线把它们连起来。地标和时段用方括号占位，方便复用，结尾的排除项让照片保持主体、版面不杂乱。
+
+GPT Image 2.5 · 文生图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2103336789339709511) · 48 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`photo-to-ink`](tags.md#tag-photo-to-ink) [`golden-thread`](tags.md#tag-golden-thread) [`landmark`](tags.md#tag-landmark) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a sophisticated conceptual travel-art poster based on [LANDMARK / CITY / COUNTRY], inspired by the visual storytelling of a real photograph seamlessly transitioning into delicate hand-drawn illustration.
+
+TOP SECTION — REALISTIC PHOTOGRAPH:
+Show a breathtaking, cinematic photograph of [LANDMARK / CITY / COUNTRY] during [sunrise / sunset / golden hour / blue hour]. Preserve the authentic architecture, landscape, proportions, recognizable details, atmosphere, natural lighting, and distinctive visual identity of the location. Use dramatic warm light, glowing highlights, realistic textures, atmospheric depth, subtle film grain, and an editorial travel-photography aesthetic.
+
+THE TRANSITION:
+From one important visual element of the photograph — such as the sun, a window, tower, dome, streetlight, mountain peak, river, or architectural detail — create a single thin golden thread / beam of light that naturally extends downward from the photograph into the empty paper space. The thread should feel delicate, handmade, slightly imperfect, and continuous.
+
+BOTTOM SECTION — HAND-DRAWN STORY:
+On warm ivory textured paper, transform the end of the golden thread into a beautiful minimal ink illustration connected to [LANDMARK / CITY / COUNTRY]. The thread could lead to a tiny illustrated traveler, artist, child, architect, traditional object, local street scene, miniature landmark, map element, flower, boat, train, or another meaningful cultural symbol.
+
+Keep the illustration extremely elegant and sparse, using fine black ink lines, subtle hatching, tiny golden accents, and lots of negative space. Integrate small recognizable details from [CITY / COUNTRY] into the illustration without making it crowded.
+
+TYPOGRAPHY:
+Add a small handwritten or refined editorial phrase such as:
+[CITY] [PLACE NAME]
+
+Add minimal typography: [CITY / COUNTRY] — [LANDMARK NAME], with optional coordinates or a small location descriptor.
+
+STYLE: premium conceptual travel poster, poetic visual storytelling, real photography + minimalist ink illustration, warm ivory paper, delicate golden thread, sophisticated editorial composition, museum-quality art print, subtle vintage texture, emotional but understated, generous negative space, vertical 4:5 composition.
+
+IMPORTANT: Keep the real photograph visually dominant and authentic. The illustrated section should feel like it is physically connected to the photograph by the single continuous golden thread. No collage clutter, no excessive typography, no random objects, no cartoonish style, no distorted architecture.
 ```
 
 </details>

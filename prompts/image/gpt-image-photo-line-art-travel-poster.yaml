@@ -1,0 +1,52 @@
+id: gpt-image-photo-line-art-travel-poster
+title:
+  en: Shanghai skyline photo turning into line art wake
+  zh: 上海天际线照片延伸成线描船尾波
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- line-art
+- photo-to-sketch
+- editorial
+- template
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2103408270425960905
+  credit: Saul Goodman
+  likes: 146
+  captured: '2026-10-28'
+  posted: '2026-09-25'
+notes:
+  en: The prompt splits the poster into an exact half photo and half ivory paper, then asks one element, here a ferry wake, to continue across the seam as pen line art. A tiny ink figure at 7 to 10 percent of the height and a short caption keep the layout quiet, and the bracketed placeholder lets the same structure work for any place.
+  zh: 提示词把画面精确分成上半实景照片和下半象牙色纸面，并要求一个元素（这里是渡轮尾波）跨过分界线逐渐变成钢笔线描。占画面高度7%到10%的墨线小人和一句简短题字让版面保持安静，方括号占位符让同一结构可以套用到任何地点。
+prompt: |
+  Create a premium 2:3 vertical “Photo × Line Art” travel editorial poster for [COUNTRY / LOCATION / SUBJECT].
+
+  TEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.
+
+  COMPOSITION
+  Divide the artwork into two equal 50/50 sections. The upper half is a sophisticated realistic travel photograph depicting the most recognizable scene, landmark, architecture, landscape, or cultural element of [COUNTRY / LOCATION / SUBJECT].
+
+  The lower half transitions into clean warm ivory paper with extremely subtle fine-fiber texture and generous negative space.
+
+  CONTINUOUS VISUAL CONNECTION
+  Identify one distinctive element from the upper scene—such as water, a road, rope, cable, bridge, branch, shoreline, architectural edge, reflection, or light—and extend it naturally across the center boundary.
+
+  The element must continuously transform from realistic photographic detail into a delicate black pen line drawing. The transition should feel seamless, intentional, and visually clever, with no gap or abrupt restart.
+
+  LINE-ART CHARACTER
+  Create one tiny black ink figure interacting with the extended line. The figure should occupy only about 7–10% of the total artwork height, with a simple expressive action such as pulling, climbing, carrying, pushing, observing, walking, or resting.
+
+  Use thin, slightly imperfect hand-drawn lines, simplified clothing and props, minimal facial detail, and relaxed editorial sketchbook character.
+
+  TYPOGRAPHY
+  Add one short, gentle English phrase of 2–5 words, generated specifically for [COUNTRY / LOCATION / SUBJECT]. Keep it small and understated, functioning as an emotional caption rather than a headline.
+
+  FINAL AESTHETIC
+  Realistic travel photography × minimalist black line art × clever visual continuation × contemporary editorial poster × poetic travel storytelling. Keep the composition refined, quiet, spacious, and sophisticated. Every location should receive a unique connection concept based on its visual identity.
+
+  Avoid: disconnected upper and lower sections, floating figures, isolated icons, oversized characters, detailed faces, anime, cartoon styling, thick outlines, dense sketching, full scene illustration, infographic layouts, grids, collage panels, stamps, borders, excessive text, yellow paper, logos, watermarks, or UI elements.
+
+  FORMAT: 2:3 vertical, exact 50/50 composition, premium editorial travel-poster aesthetic.

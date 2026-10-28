@@ -1,0 +1,47 @@
+id: gpt-image-architectural-sketchbook-study
+title:
+  en: Colosseum architectural sketchbook study in pencil and watercolor
+  zh: 铅笔与水彩的罗马斗兽场建筑速写本
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- architecture
+- sketchbook
+- watercolor
+- pencil-drawing
+- template
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2099096963316957187
+  credit: simeon-sanai
+  likes: 169
+  captured: '2026-10-28'
+  posted: '2026-09-13'
+notes:
+  en: The prompt makes the drawing move from loose construction lines in the foreground to a finished inked and watercolor structure, so the image reads as a sketch in progress. Listed side studies (elevation, ornament detail, map outline, scale silhouette) and minimal handwritten labels fill the page, and the negative terms rule out photorealism and infographic boxes.
+  zh: 提示词让画面从前景的松散construction线条逐步过渡到墨线加水彩的完成态主体，形成未完成的草图感。同时列出侧立面、装饰细节、地图轮廓和比例剪影等小型研究图，并配少量手写标注，再用负面词排除写实渲染和信息图方框。
+prompt: |
+  Create a stunning 4:5 vertical fine-art sketch illustration of [STRUCTURE NAME] as if it is being drawn by a master architectural artist inside a luxury travel sketchbook.
+
+  Show the famous structure transitioning from loose preliminary pencil lines into a fully detailed finished architectural drawing.
+
+  The foreground should contain delicate construction lines, perspective guides, measurement marks, small handwritten architectural notes, compass marks, arrows, erased pencil strokes, and unfinished portions.
+
+  As the eye moves toward the main structure, the sketch gradually becomes more refined — combining graphite pencil, fine black ink, subtle watercolor washes, cross-hatching, and delicate hand-drawn textures.
+
+  Include small artistic studies around the main drawing: a tiny side elevation, architectural detail, window or ornament study, simplified map outline, and a small silhouette showing the scale of the structure.
+
+  Use an elegant warm ivory sketchbook-paper background with natural paper fibers and subtle imperfections.
+
+  Keep the composition sophisticated and spacious. The structure should remain the unmistakable hero.
+
+  Add minimal handwritten-style labeling:
+
+  [STRUCTURE NAME]
+  [CITY, COUNTRY]
+  ARCHITECTURAL STUDY
+
+  The artwork should feel like an original museum-quality architectural sketch discovered inside an explorer’s personal sketchbook — artistic, intellectual, nostalgic, detailed, and highly collectible.
+
+  No photorealistic rendering, no 3D CGI, no modern infographic boxes, no excessive text, no watermark.

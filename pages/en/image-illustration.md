@@ -1,6 +1,6 @@
 # Illustration
 
-[Back to the list](../../README.md) · All 18 entries
+[Back to the list](../../README.md) · All 19 entries
 
 <a id="gpt-image-dance-pose-sheet-4x4-character"></a>
 ### Sixteen panel dance pose sheet of anime girl
@@ -268,6 +268,47 @@ Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com
 
 ```text
 Create a high-end editorial fashion illustration of a stylish woman wearing a bold, contemporary designer outfit. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations such as pastel pink, sky blue, mint green, sunshine yellow, and emerald green, paired with contrasting patterns like polka dots or vertical stripes. Add fashionable accessories, including statement sunglasses, earrings, a structured handbag, and modern shoes. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-architectural-sketchbook-study"></a>
+### Colosseum architectural sketchbook study in pencil and watercolor
+
+<a href="https://x.com/Naiknelofar788/status/2099096963316957187"><img src="../../previews/gpt-image-architectural-sketchbook-study.jpg" width="360"></a>
+
+The prompt makes the drawing move from loose construction lines in the foreground to a finished inked and watercolor structure, so the image reads as a sketch in progress. Listed side studies (elevation, ornament detail, map outline, scale silhouette) and minimal handwritten labels fill the page, and the negative terms rule out photorealism and infographic boxes.
+
+GPT Image 2.5 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2099096963316957187) · 169 likes on 2026-10-28
+
+[`architecture`](tags.md#tag-architecture) [`sketchbook`](tags.md#tag-sketchbook) [`watercolor`](tags.md#tag-watercolor) [`pencil-drawing`](tags.md#tag-pencil-drawing) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a stunning 4:5 vertical fine-art sketch illustration of [STRUCTURE NAME] as if it is being drawn by a master architectural artist inside a luxury travel sketchbook.
+
+Show the famous structure transitioning from loose preliminary pencil lines into a fully detailed finished architectural drawing.
+
+The foreground should contain delicate construction lines, perspective guides, measurement marks, small handwritten architectural notes, compass marks, arrows, erased pencil strokes, and unfinished portions.
+
+As the eye moves toward the main structure, the sketch gradually becomes more refined — combining graphite pencil, fine black ink, subtle watercolor washes, cross-hatching, and delicate hand-drawn textures.
+
+Include small artistic studies around the main drawing: a tiny side elevation, architectural detail, window or ornament study, simplified map outline, and a small silhouette showing the scale of the structure.
+
+Use an elegant warm ivory sketchbook-paper background with natural paper fibers and subtle imperfections.
+
+Keep the composition sophisticated and spacious. The structure should remain the unmistakable hero.
+
+Add minimal handwritten-style labeling:
+
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+ARCHITECTURAL STUDY
+
+The artwork should feel like an original museum-quality architectural sketch discovered inside an explorer’s personal sketchbook — artistic, intellectual, nostalgic, detailed, and highly collectible.
+
+No photorealistic rendering, no 3D CGI, no modern infographic boxes, no excessive text, no watermark.
 ```
 
 </details>

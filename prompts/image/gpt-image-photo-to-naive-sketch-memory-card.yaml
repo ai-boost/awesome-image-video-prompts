@@ -1,0 +1,42 @@
+id: gpt-image-photo-to-naive-sketch-memory-card
+title:
+  en: Snowy lake boat photo with crayon sketch below
+  zh: 雪山湖面小船照片配蜡笔手绘插画
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- photo-to-sketch
+- memory-card
+- crayon
+- split-layout
+- landscape
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2104455859447501166
+  credit: Harboris
+  likes: 112
+  captured: '2026-10-28'
+  posted: '2026-09-28'
+notes:
+  en: Splits a 3:4 card into the untouched source photo on top and a simplified crayon and pastel redraw on aged paper below. The prompt pins the layout ratios, palette extraction from the photo, texture layers, and a negative list, so the sketch stays faithful to the photo.
+  zh: 把 3:4 画面上下对半，上半保留原照片，下半在旧纸上用蜡笔与粉彩重绘简化版。提示词写明版面比例、从照片提取色板、纹理层次和负面清单，让插画紧贴原图。
+prompt: |
+  Use the uploaded photo as the only content source. Create a vertical 3:4 “real photo + minimal illustration” memory card based entirely on that image. Preserve the main subjects, subject count, pose, viewpoint, spatial relationships, and overall scene logic. Do not redesign the source or add unrelated content.
+  Layout
+  Split the card into two horizontal sections, about 50% top and 50% bottom. The top half keeps the uploaded photo with photographic texture. Crop naturally to fit, but do not stretch, mirror, rearrange, or alter the main subjects. Keep natural lighting, real materials, and the original color mood, with subtle editorial grading. The lower half uses a warm ivory handmade-paper background and shows a centered horizontal illustration of the same scene. The illustration occupies about 63-67% of the lower width, with generous blank space around it.
+  Scene Translation
+  In the lower illustration, preserve the most recognizable subjects, major structures, important objects, viewpoint, depth, relative scale, and key positions from the source. Remove tiny clutter, fine photographic texture, reflections, and complex shadows. Simplify the scene into slightly awkward geometric color blocks and thin hand-drawn lines. People and animals, when present, remain identifiable through silhouette, pose, hair or fur shape, clothing color, and placement, but facial detail may be reduced. Outlines may wobble, break, shift, or misalign slightly while the scene stays recognizable.
+  Illustration Style
+  Use restrained naive editorial drawing with soft geometric simplification and handmade quality. Combine thin sketchy linework with flat shapes. The lower scene should feel calm, clean, slightly imperfect, and visually reduced rather than technically precise. Avoid realistic rendering.
+  Color
+  Extract 4-6 representative colors from the uploaded photo and reinterpret them as a soft low-saturation palette. Use muted tones derived from the source, with flat fills and enough contrast to separate major subjects and scene layers. No complex gradients, glossy highlights, or heavy 3D modeling.
+  Texture
+  Blend crayon, pastel, screen-print, and old-book illustration qualities. Keep paper show-through, fine grain, slight pigment unevenness, worn edges, and subtle off-register shifts. The result should feel like an independent editorial illustration printed on aged paper: warm, quiet, nostalgic, and collectible.
+  Typography
+  Below the illustration, you may include exactly two short English lines related to the scene, mood, place, or moment. Use a small vintage serif font, left-aligned. If clean readable text cannot be rendered, leave the area blank. No other readable text.
+  Cleanup
+  Remove phone UI, subtitles, screenshot traces, and interface elements when present. Do not invent missing scenery or decorative props.
+  Negative
+  No major layout change, no added or missing primary subjects, no photoreal painting, no polished watercolor, no anime, no manga, no vector clip-art, no oil paint, no impasto, no 3D, no logo, no watermark, no black border, no UI, no unrelated decoration.
+  Vertical 3:4 split card · photo top / naive illustration bottom · aged paper texture

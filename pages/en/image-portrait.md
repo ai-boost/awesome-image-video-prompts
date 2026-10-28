@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 10 entries
+[Back to the list](../../README.md) · All 11 entries
 
 <a id="nano-banana-cobalt-ring-fashion-editorial"></a>
 ### Platinum bob model in cobalt circular opening
@@ -351,6 +351,33 @@ Her eyes are deep brown with subtle geometric catchlights. Give her naturally te
 Capture extremely realistic skin with visible pores, fine facial texture, subtle imperfections, delicate peach fuzz, natural lips, and detailed eyelashes. Avoid overly smooth or plastic-looking skin.
 
 Photographed with a cinematic 35mm lens aesthetic, shallow depth of field, soft optical falloff, realistic tonal range, subtle analog film grain, and premium editorial photography quality. The final image should feel like an authentic photograph captured in a professional studio — sophisticated, raw, atmospheric, and completely photorealistic, with no obvious AI-generated appearance.
+```
+
+</details>
+
+<a id="gpt-image-seaside-viewpoint-smartphone-selfie"></a>
+### Seaside viewpoint smartphone selfie in white cap
+
+<a href="https://x.com/MissDelulu9/status/2115357570722566196"><img src="../../previews/gpt-image-seaside-viewpoint-smartphone-selfie.jpg" width="360"></a>
+
+Fixes the framing from cap top to lower waist, then specifies fabric details, hard midday sun from one side and phone compression so it reads as a casual snapshot. A closing list of things to avoid, such as plastic skin and studio polish, keeps the result from looking staged.
+
+GPT Image 2.5 · Text-to-image · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2115357570722566196) · 48 likes on 2026-10-28
+
+[`smartphone-photo`](tags.md#tag-smartphone-photo) [`travel-selfie`](tags.md#tag-travel-selfie) [`seaside`](tags.md#tag-seaside) [`natural-light`](tags.md#tag-natural-light) [`casual-portrait`](tags.md#tag-casual-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A real vertical smartphone travel snapshot of a young adult woman in her early 20s at a seaside viewpoint, framed from the top of her white baseball cap to the lower waist in a close front-facing medium portrait. She stands or leans near a wall, very close to the camera, at street.
+
+She wears a white ribbed scoop-neck tank top and a lightweight white jacket half-slipped off her shoulders, with visible rib texture, wrinkles, snap-button and zipper details, and a small strip of lower abdomen visible above a white bottom waistband.
+
+Her hair is deep black, long, side-tied or in a low side ponytail, falling over the left shoulder with windblown strands around her face. She has a small oval face, soft jawline, natural East Asian features, sheer clean vacation makeup, muted pink-coral lips, and a calm expression with lips closed.
+
+Her eyes look gently toward the camera from under the cap brim shadow. Keep the small black logo mark on the cap front, not flipped and not oversized. Strong midday sun from the upper left creates hard highlights and cool ocean-reflected shadows.
+
+Natural skin texture, slightly imperfect framing, subtle phone compression, deep smartphone depth of field. Avoid plastic skin, studio polish, heavy makeup, exaggerated proportions, wrong logo, app UI, cartoon or CGI style
 ```
 
 </details>

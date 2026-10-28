@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 10 条
+[返回目录](../../README_zh.md) · 全部 11 条
 
 <a id="nano-banana-cobalt-ring-fashion-editorial"></a>
 ### 钴蓝圆环中的铂金短发模特
@@ -351,6 +351,33 @@ Her eyes are deep brown with subtle geometric catchlights. Give her naturally te
 Capture extremely realistic skin with visible pores, fine facial texture, subtle imperfections, delicate peach fuzz, natural lips, and detailed eyelashes. Avoid overly smooth or plastic-looking skin.
 
 Photographed with a cinematic 35mm lens aesthetic, shallow depth of field, soft optical falloff, realistic tonal range, subtle analog film grain, and premium editorial photography quality. The final image should feel like an authentic photograph captured in a professional studio — sophisticated, raw, atmospheric, and completely photorealistic, with no obvious AI-generated appearance.
+```
+
+</details>
+
+<a id="gpt-image-seaside-viewpoint-smartphone-selfie"></a>
+### 戴白色棒球帽的海边观景台手机自拍
+
+<a href="https://x.com/MissDelulu9/status/2115357570722566196"><img src="../../previews/gpt-image-seaside-viewpoint-smartphone-selfie.jpg" width="360"></a>
+
+先限定从帽顶到下腰的取景，再写明面料细节、单侧强烈正午阳光和手机压缩感，让画面像随手拍。结尾列出要避免的塑料皮肤和影棚质感，防止成品显得摆拍。
+
+GPT Image 2.5 · 文生图 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2115357570722566196) · 48 赞，统计于 2026-10-28
+
+[`smartphone-photo`](tags.md#tag-smartphone-photo) [`travel-selfie`](tags.md#tag-travel-selfie) [`seaside`](tags.md#tag-seaside) [`natural-light`](tags.md#tag-natural-light) [`casual-portrait`](tags.md#tag-casual-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A real vertical smartphone travel snapshot of a young adult woman in her early 20s at a seaside viewpoint, framed from the top of her white baseball cap to the lower waist in a close front-facing medium portrait. She stands or leans near a wall, very close to the camera, at street.
+
+She wears a white ribbed scoop-neck tank top and a lightweight white jacket half-slipped off her shoulders, with visible rib texture, wrinkles, snap-button and zipper details, and a small strip of lower abdomen visible above a white bottom waistband.
+
+Her hair is deep black, long, side-tied or in a low side ponytail, falling over the left shoulder with windblown strands around her face. She has a small oval face, soft jawline, natural East Asian features, sheer clean vacation makeup, muted pink-coral lips, and a calm expression with lips closed.
+
+Her eyes look gently toward the camera from under the cap brim shadow. Keep the small black logo mark on the cap front, not flipped and not oversized. Strong midday sun from the upper left creates hard highlights and cool ocean-reflected shadows.
+
+Natural skin texture, slightly imperfect framing, subtle phone compression, deep smartphone depth of field. Avoid plastic skin, studio polish, heavy makeup, exaggerated proportions, wrong logo, app UI, cartoon or CGI style
 ```
 
 </details>

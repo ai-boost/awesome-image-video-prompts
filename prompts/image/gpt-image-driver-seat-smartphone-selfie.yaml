@@ -1,0 +1,26 @@
+id: gpt-image-driver-seat-smartphone-selfie
+title:
+  en: Smartphone selfie of a woman in a car
+  zh: 女子在车内驾驶座的手机自拍
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- selfie
+- smartphone-photo
+- car-interior
+- natural-light
+- candid
+source:
+  name: '@ZarnishNael on X'
+  url: https://x.com/ZarnishNael/status/2104090733305319799
+  credit: Zarnish
+  likes: 55
+  captured: '2026-10-28'
+  posted: '2026-09-27'
+notes:
+  en: Fixes a vertical 9:16 selfie framing, then lists specific hair, skin and clothing details alongside the car interior and soft daylight. Casual phone softness and a long list of anti-filter negatives (no plastic skin, no CGI look) keep the result candid and photographic.
+  zh: 先限定竖版9:16自拍构图，再逐项写明发型、肤质、服装、车内环境和柔和日光。加入手机轻微柔化和一长串反滤镜否定词（无塑料皮肤、无CGI感），让画面更自然真实。
+prompt: |
+  Create a highly realistic vertical 9:16 smartphone selfie of a young woman sitting inside a modern car in the driver’s seat. She has long, straight, naturally voluminous dark-brown hair falling over both shoulders, soft natural facial features, warm fair skin with realistic texture, expressive brown eyes, natural eyebrows, subtle rosy cheeks, and a gentle smiling expression. She is wearing a simple fitted black long-sleeve top with black trousers. One hand is holding the steering wheel while she looks naturally toward the camera.
+  Capture the scene like an authentic casual smartphone photo, with soft natural daylight entering through the car windows, realistic car interior, dashboard and steering wheel visible, urban buildings and parked cars softly visible outside. Natural proportions, realistic skin pores and hair strands, subtle shadows, slight smartphone-camera softness, authentic colors, candid lifestyle photography, photorealistic, high detail, no artificial beauty filter, no plastic skin, no face distortion, no CGI look, no wa

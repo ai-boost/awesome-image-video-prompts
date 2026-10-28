@@ -1,0 +1,25 @@
+id: gpt-image-camera-roll-photos-screen
+title:
+  en: iPhone Photos camera roll of a student's day
+  zh: 一名学生一整天的iPhone相册截图
+model: GPT Image 2.5
+mode: image-edit
+category: ui-mockup
+tags:
+- camera-roll
+- photos-app
+- screenshot
+- reference-image
+- everyday
+source:
+  name: '@sakisuta_ on X'
+  url: https://x.com/sakisuta_/status/2098712371045052764
+  credit: さきすた AI artist
+  likes: 2439
+  captured: '2026-10-28'
+  posted: '2026-09-12'
+notes:
+  en: The prompt names the exact container, a Photos app screen captured as is, so the model fills one grid with a full day of varied casual shots. Giving a reference person and asking for everyday moments keeps the face consistent across food, friends, desk and sky frames.
+  zh: 提示词明确指定容器是原样截取的照片App界面，模型便在一个网格里填满一整天风格各异的随手拍。提供参考人物并要求日常瞬间，使人脸在美食、朋友、书桌和天空等画面中保持一致。
+prompt: |
+  Turn one full day's worth of camera roll for the person in the reference image into a single image that captures the iPhone's Photos app screen as-is. Make it a realistic camera roll that feels like it captures casual everyday moments.
