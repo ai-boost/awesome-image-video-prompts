@@ -1,0 +1,99 @@
+id: seedance-outfit-change-one-take
+title:
+  en: Outfit changes in one take, with Chinese dialogue
+  zh: 一镜到底连换装，中文对白
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- outfit-change
+- long-take
+- chinese-dialogue
+- reference-images
+source:
+  name: '@cnyzgkc on X'
+  url: https://x.com/cnyzgkc/status/2099029556434985065
+  credit: 木马人
+  likes: 676
+  captured: '2026-10-27'
+  posted: '2026-09-12'
+video: https://x.com/cnyzgkc/status/2099029556434985065
+notes:
+  en: Image 1 locks only the face and hair, and the clothing is described per change. It also tells the lead to close her mouth when the off-screen man speaks.
+  zh: 图 1 只锁脸和发型，服装逐次描述；还专门要求画外男声说话时女主闭嘴倾听。
+prompt: |
+  Duration 29 seconds, aspect ratio 16:9 landscape, language Chinese.
+  Character reference: Reference only image 1 to lock facial features, hairstyle, skin tone, and character identity; clothing strictly changes as described below. Character requirements: Adult female lead. Same character throughout, no face swaps, no changes to body proportions; increase weight to prioritize rigidly locking facial features, hairstyle, skin tone, and identity.
+
+  Overall style: Hyper-realistic AI dynamic desktop interactive video, simulating a full-screen computer desktop screen recording. Retain a simple taskbar at the bottom, a few desktop icons in the upper left corner; the main screen features a dynamic wallpaper that interacts in real time. Black leather sofa, cool-toned soft lighting, dark background. Fixed camera position, continuous single shot throughout, no cuts, no pans or zooms. Female lead primarily positioned on the right side of the frame, leaving the left side for the voice subtitle interface.
+
+  Subtitle interface (retain, overriding "prohibited text" constraints): Subtitles must appear in the middle left of the frame, not at the bottom. Slim modern sans-serif Chinese font, medium size, no background box, subtle soft glow and shadow. Female lead speaking: Light purple text, with a speaker icon on the left. Male voice speaking: White text, with a microphone icon on the left. A thin white audio waveform always runs below the subtitles, jumping in real time with the sound. All subtitles input word by word following pronunciation, about 0.08–0.12 seconds per word, like manual typing on a keyboard; after the current sentence finishes, pause for about 0.4 seconds, then fade out entirely. No sudden full-sentence appearances, no displaying upcoming text in advance.
+
+  Clothing design (three outfits unified, changing only the neckline: low round neck/shallow V-neck, slightly revealing cleavage, otherwise fully covered):
+  Initial outfit: Black-and-white horizontal stripe fitted short three-quarter sleeve top (low round neck/shallow V-neck, slightly revealing cleavage, otherwise fully covered), black low-waist drawstring casual long pants, silver thin necklace.
+  First schoolgirl style: Top with low round neck/shallow V-neck, slightly revealing cleavage, otherwise fully covered, blue-and-black plaid pleated short skirt, white knee-high socks, white cross-strap garter, overall fresh and playful.
+  Second schoolgirl style: Black fitted suit jacket, white shirt (shirt low round neck/shallow V-neck, slightly revealing cleavage, otherwise fully covered), burgundy plaid tie, burgundy-and-black plaid pleated short skirt, light nude sheer stockings, black loafers, refined and mature.
+
+  SINGLE CONTINUOUS SHOT (00:00-00:29)
+
+  00:00-00:02.80
+  Female lead in initial outfit sits on the right side of the black leather sofa, holding a black throw pillow on her lap. She gently adjusts her hair with both hands, then looks at the camera, showing a warm, slightly playful smile.
+  Female lead speaks naturally: "So, spill it... what do you wanna see today?"
+  Subtitles display word by word: "So, spill it...
+  What do you wanna see today?"
+
+  00:03.00-00:03.80
+  Male lead never shows his face, only off-screen male voice, tone direct and eager: "Wanna see JK."
+  Female lead listens quietly, her smile deepens slightly, and she nods gently.
+  Subtitles display word by word: "Wanna see JK"
+
+  00:04.70-00:06.00
+  Female lead replies cheerfully: "Alright, give me a sec."
+  She sets the pillow aside, right hand bracing the sofa as she prepares to stand.
+  Subtitles display word by word: "Alright, give me a sec."
+
+  00:06.00-00:08.80
+  Female lead stands quickly. Due to the fixed camera and close distance, her waist and legs sweep upward across the frame, her face exiting via the top edge; she then steps out to the right side. The motion includes a light "whoosh" sound, but no teleporting, no direct morphing.
+
+  00:08.80-00:11.50
+  Outfit change completed entirely off-screen. Sofa lingers empty for about one second. Accompanied by a playful reveal sound effect, female lead in first blue schoolgirl outfit re-enters from the right. She stands close to the camera, frame mainly showing waist, plaid skirt hem, and knee-high socks, head naturally above the top edge.
+  Female lead says in a playful tone showcasing the new outfit: "Ta-da... hubby... whaddya think?"
+  Subtitles display word by word: "Ta-da...
+  Hubby... whaddya think?"
+
+  00:11.70-00:12.50
+  Male off-screen voice pauses briefly, then answers approvingly: "Mm... not bad."
+  Female lead holds her stance, subtly swaying her waist left and right to let the plaid skirt hem sway naturally.
+  Subtitles display word by word: "Mm... not bad"
+
+  00:12.90-00:14.40
+  Female lead suddenly recalls another outfit and says lightly: "Wait, there's one more."
+  She immediately turns and exits to the right, skirt hem swaying with the motion.
+  Subtitles display word by word: "Wait, there's one more"
+
+  00:14.40-00:17.40
+  Outfit change completed entirely off-screen. Sofa lingers empty for about one second. Then a short, smooth "whoosh" of changing echoes, female lead in second burgundy schoolgirl outfit enters from the right. Fixed lens first captures black suit hem, burgundy plaid skirt, stockings, and loafers; clothing must be realistically complete, no melting or altering during the walk.
+
+  00:17.40-00:19.00
+  Female lead stops on the right side of the frame, slightly adjusting her stance to let the suit hem and skirt pleats fall naturally, then asks: "What about this one?"
+  Subtitles display word by word: "What about this one?"
+
+  00:19.50-00:20.50
+  Male off-screen voice immediately praises: "This one's good too."
+  Female lead chuckles softly upon hearing it, body beginning to lower as she prepares to sit.
+  Subtitles display word by word: "This one's good too"
+
+  00:20.50-00:24.80
+  Accompanied by faint fabric rustling, female lead sits back on the sofa swiftly and naturally. She repositions the black throw pillow on her lap, smooths hair on both sides and her tie, then leans slightly against the sofa. The lens recaptures her full face. She keeps looking at the camera, expression confident, intimate, with a hint of teasing.
+
+  00:25.00-00:28.20
+  Female lead hugs the pillow, first flashing a smug little smile, then says to the camera: "Chances used up. Which one does hubby wanna keep?"
+  "Chances used up" in a tone like announcing game rules; "Which one does hubby wanna keep?" slowed slightly, with rising inflection at the end, carrying an intimate questioning vibe.
+  Subtitles display word by word: "Chances used up.
+  Which one does hubby wanna keep?"
+
+  00:28.20-00:29.00
+  Subtitles linger fully. Female lead maintains eye contact, tilts her head gently, lips holding the playful smile. Waveform gradually calms, frame fades out naturally.
+
+  Audio: Female lead's realistic on-site human voice, precise lip sync; male lead as off-screen Chinese male voice, no face shown. Retain subtle electronic ambient music (auto-lowers during dialogue, increase weight), outfit "whoosh" sounds, reveal chimes, fabric rustles; all dialogue clear and discernible.
+
+  Performance constraints: Female lead not exaggeratedly cutesy. Smiles, nods, hair adjustments, outfit displays all natural and restrained; opening warm, first change playful, second change more confident, ending with light teasing. When male voice speaks, female lead must close her mouth and listen naturally.

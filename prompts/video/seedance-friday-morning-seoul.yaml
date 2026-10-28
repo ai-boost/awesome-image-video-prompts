@@ -1,0 +1,35 @@
+id: seedance-friday-morning-seoul
+title:
+  en: Friday morning walk in an old Seoul neighbourhood
+  zh: 首尔老街区的周五早晨
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- vlog
+- character-consistency
+- reference-images
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2103329257149898940
+  credit: Smiling Khan
+  likes: 1124
+  captured: '2026-10-27'
+  posted: '2026-09-25'
+video: https://x.com/AIwithkhan/status/2103329257149898940
+notes:
+  en: Character comes from a reference image. The closing list of bans (beauty filter, changing outfit) keeps her stable for 30 seconds.
+  zh: 人物来自参考图。结尾一串禁止项（美颜、换装）让她 30 秒都不走样。
+prompt: |
+  Create a 30-second ultra-realistic personal home-video of a young Korean woman enjoying a relaxed Friday morning in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, silver necklace, and overall appearance perfectly consistent.
+
+  She leaves her home with a cheerful expression and walks casually through the quiet neighborhood. She reaches a nearby outdoor water tap, stops, splashes cool water onto her face, wipes her face with her hands, smiles and continues walking.
+
+  She arrives at a small neighborhood shop and buys a colorful lollipop for herself. She unwraps it immediately, puts it in her mouth and happily enjoys the candy while walking through the street.
+
+  A few school children pass by carrying their backpacks. She smiles, waves at them and casually says, “Hello!” as they walk past.
+
+  She then approaches a newspaper seller outside a small local shop, picks up a newspaper, gives him a few coins, thanks him with a smile and starts walking back toward home while holding the newspaper.
+
+  Near the end, she looks toward the camera with a happy smile, still enjoying her lollipop, and says, “Happy Friday!” before continuing home.
+
+  Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms and authentic home-video imperfections. Natural Seoul neighborhood ambience only — footsteps, running water, children talking, shop sounds, newspaper rustling, distant traffic, birds and summer insects. No music, no narration, no subtitles, no polished commercial cinematography, no beauty-filter skin, no CGI look, no duplicate characters, no changing face, hairstyle or outfit.

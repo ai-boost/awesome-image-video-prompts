@@ -1,0 +1,44 @@
+id: wan-four-gunmen-standoff
+title:
+  en: Four armed men, a silent standoff
+  zh: 四个持枪男人的无声对峙
+model: Wan 3.0
+mode: text-to-video
+tags:
+- thriller
+- beats
+- tension
+source:
+  name: '@VictorInFocus on X'
+  url: https://x.com/VictorInFocus/status/2088029679341261198
+  credit: V
+  likes: 261
+  captured: '2026-10-27'
+  posted: '2026-08-13'
+video: https://x.com/VictorInFocus/status/2088029679341261198
+notes:
+  en: Written in numbered beats with restrained performances. It ends right before anyone fires.
+  zh: 按编号节拍写，表演克制，在有人开枪前一刻切断。
+prompt: |
+  All four men are armed. Performances are restrained, dry and quietly tense, with subtle micro-expressions.
+
+  BEAT 1
+  Quick individual shots of each man holding his gun and staring at someone just outside frame.  Small eye movements, tightened jaws, slow blinks, controlled breathing. Each man is trying to look completely unfazed.
+
+  Cut between them, gradually suggesting they are all aiming at one another.
+
+  BEAT 2
+  Cut wide to reveal all four men several metres apart in a loose circle, each pointing his gun at another man in a four-way standoff.  Hold the wide shot. Wind lightly moves their suits. Nobody lowers their weapon.
+
+  The man in the cream suit glances around the circle.  CREAM SUIT, completely calm in a British accent:
+
+  “Anyone care to explain how we got here?”
+
+  A brief silence.  The older man in pink barely shifts his expression.  OLDER MAN IN PINK, dry in an American accent:
+
+  “Bad manners, mostly.”
+
+  BEAT 3
+  Hold on the group.  A tiny smirk. A raised eyebrow. Eyes flick between faces and guns. One man subtly adjusts his grip.
+
+  Slow, almost imperceptible push toward the group as the silence becomes uncomfortable.  Nobody fires.  Cut just as it feels like someone is about to.

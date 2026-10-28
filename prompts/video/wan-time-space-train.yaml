@@ -1,0 +1,64 @@
+id: wan-time-space-train
+title:
+  en: Time-travelling train, one 30-second take
+  zh: 时空列车，30 秒一镜到底
+model: Wan 3.0
+mode: text-to-video
+tags:
+- long-take
+- sci-fi
+- world-building
+source:
+  name: '@johnAGI168 on X'
+  url: https://x.com/johnAGI168/status/2092180177690194162
+  credit: John
+  likes: 129
+  captured: '2026-10-27'
+  posted: '2026-08-25'
+video: https://x.com/johnAGI168/status/2092180177690194162
+notes:
+  en: Opens with a spec sheet (duration, ratio, format, style), then lists physical rules the scene must obey, such as passengers never teleporting.
+  zh: 开头是参数表（时长、比例、形式、风格），后面列出场景必须遵守的物理规则，比如乘客不能瞬移。
+prompt: |
+  Duration: 30 seconds
+  Aspect Ratio: 16:9 Landscape
+  Format: A truly continuous, uncut, no-frame-jump cinematic long take
+  Overall Style: Hollywood sci-fi adventure blockbuster, hyper-realistic, epic scale, authentic physical motion, cinematic lighting and depth of field, delicate film grain, high dynamic range, cold-to-warm color shifts layer by layer.
+
+  Subject:
+  A modern and realistic urban train with an entire massive curved panoramic glass window. The shot is positioned at the rear of the carriage, capturing the front of the carriage with a 24mm wide-angle oblique angle: the left two-thirds is the panoramic window, the right one-third is handrails, hanging straps, and ordinary passengers. Passengers wear modern dark commuter attire, initially quiet and heads down on their phones. The train, carriage structure, seats, passenger positions, clothing, camera height, and focal length remain completely consistent throughout the 30 seconds. All time-space changes occur only outside the window.
+
+  ONE CONTINUOUS TAKE (0-30 seconds):
+
+  0-4 seconds:
+  The train speeds through the edge of a modern city under overcast skies, with buildings, rivers, and utility poles outside the window creating realistic lateral motion blur. Carriage lights are steady, passengers heads down on phones. The shot maintains an oblique wide-angle composition, with only subtle realistic train vibrations. A calm female voice comes over the broadcast: "The time-space train is about to activate. Please remain seated."
+
+  4-6 seconds:
+  The train enters a dim tunnel, the city replaced by concrete walls, overhead lights quickly sweeping across the glass. The carriage gradually darkens. The tunnel walls continuously transform into rough, damp natural rock faces, using rocks close to the glass for a natural occlusion transition, with absolutely no cuts.
+
+  6-12 seconds — Dinosaur Era:
+  The rock cave suddenly opens, revealing sunlight piercing through mist outside the window: a prehistoric rainforest and vast Jurassic valley. Herds of Parasaurolophus run alongside the train, massive Apatosauruses slowly cross distant woodlands, Pteranodons soar across the sky. Foreground plants create fast motion blur, midground dinosaurs are sharp, distant volcanoes shrouded in mist form strong depth and parallax.
+  At 10 seconds, a massive Tyrannosaurus Rex bursts from the woods, briefly paralleling the train, roaring thunderously close to the glass. Passengers simultaneously look up and turn toward the window, but without exaggerated scrambling. Golden sunlight and forest greens realistically project into the carriage.
+
+  12-19 seconds — Volcanic Apocalypse:
+  The T-Rex's enormous body sweeps across the frame, creating a natural occlusion. After the occlusion clears, the same prehistoric world has transformed into a volcanic wasteland in the midst of destruction. A super-volcano erupts violently in the distance, black volcanic clouds roiling upward, red-hot lava cascading from cliffs, ground fissures extending all the way to the train.
+  The train races through a lava canyon at high speed, volcanic bombs streaking across the sky but not striking the carriage, a scorching shockwave chasing from behind. The glass reflects real firelight, the carriage shifting from golden to intense red-orange, passengers gripping handrails tightly, staring in shock out the window. Maintain realistic gravity, smoke, dust, and volcanic debris motion.
+
+  19-22 seconds — Time-Space Submersion:
+  The train plunges into a massive wall of volcanic steam, thick smoke, and white water vapor, the frame naturally obscured but the shot never interrupts. Red firelight rapidly shifts to deep blue, steam condensing into water droplets streaking across the glass. The train seamlessly crosses the time-space boundary into the deep sea; the carriage interior remains dry and intact, with no seawater intrusion.
+
+  22-28 seconds — Undersea World:
+  The white water vapor clears, revealing a vast, clear, profound blue ocean outside the window. Sunbeams pierce from the surface, colorful corals, seagrasses, schools of fish, sea turtles, and manta rays pass by at varying depths, creating spectacular parallax. A massive blue whale glides slowly overhead, its belly nearly covering the entire panoramic window, the scale utterly breathtaking. Cool blue rippling light flows naturally across the carriage and passengers' faces, all passengers gazing upward in quiet awe.
+
+  28-30 seconds — Ultimate Reveal:
+  The blue whale's tail fluke sweeps across the glass, forming the final natural occlusion. As the tail fluke departs, a grand lost civilization spanning the underwater canyon suddenly appears outside the window: glowing crystal spires, massive domes, ancient temples, and suspended tracks extending to the deep-sea horizon, countless manta rays weaving through the city skies. The train continues toward the brightly glowing time-space gate at the city's center.
+  The shot maintains the original carriage composition, ending amid the silhouetted shocked gazes of all passengers, no fade-out, no cuts.
+
+  Camera:
+  Throughout: 24mm cinematic wide-angle, eye-level height, fixed two-thirds composition from the rear of the carriage obliquely forward; stabilizer texture combined with subtle train vibrations; realistic depth of field, glass reflections, foreground motion blur, and multi-layered parallax. The camera never leaves the carriage, never changes axis, never suddenly pushes in, rotates, or drifts.
+
+  Sound:
+  Continuous unified train track sounds as the audio anchor; tunnel echoes, dinosaur low-frequency footsteps and roars, volcanic explosions and lava rumbles, steam impact sounds, deep-sea submersion into low underwater ambience, whale songs. Sounds transition smoothly with scenes, cinematic surround sound, no background music, no excess dialogue.
+
+  Continuity Constraints:
+  The same train, same carriage, same group of passengers, same clothing, same seating layout, same window structure, same camera position throughout 30 seconds; scenes can only transition continuously via the train's forward motion, rock wall occlusions, smoke, steam, darkness, or large creatures passing by. The carriage does not deform, passengers do not teleport, creatures outside the window never enter the carriage.

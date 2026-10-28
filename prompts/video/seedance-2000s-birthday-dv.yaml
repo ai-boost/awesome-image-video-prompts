@@ -1,0 +1,47 @@
+id: seedance-2000s-birthday-dv
+title:
+  en: Early-2000s Korean birthday on a DV camcorder
+  zh: 2000 年代初的韩国生日，DV 摄像机
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- home-video
+- period
+- dv-camcorder
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2105146792681832481
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 918
+  captured: '2026-10-27'
+  posted: '2026-09-30'
+video: https://x.com/saniaspeaks_/status/2105146792681832481
+notes:
+  en: Period realism by naming the device. Scenes are numbered and the prompt demands they play in that exact order.
+  zh: 用设备定年代感。场景编号，并要求严格按顺序出现。
+prompt: |
+  Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s, filmed casually by a friend on an authentic consumer DV camcorder. It must feel like genuine home-video footage, not a modern video with a retro filter.
+
+  EXACT ORDER — 7 SCENES:
+
+  0–4s — GETTING READY: The same young Korean birthday girl gets ready in her early-2000s bedroom, fixes her hair, adjusts makeup, picks up her handbag and smiles toward the camera.
+
+  4–8s — MEETING FRIENDS: She walks through an authentic Korean neighborhood, meets the same 2–3 friends, they congratulate her and walk together toward a bakery.
+
+  8–11s — BAKERY: They enter a small early-2000s Korean bakery, browse cakes and choose one birthday cake.
+
+  11–14s — BUYING CAKE: A friend pays with cash. The worker puts the cake into a box and hands it over. The same cake box remains visible as they walk to the café.
+
+  14–23s — CAFÉ CELEBRATION: They sit in a cozy early-2000s café. The cake is opened, a candle is lit, everyone sings Happy Birthday, the girl makes a wish and blows it out. They clap and laugh. She then cuts the cake, places pieces on plates, personally gives a piece to each friend, watches them eat, then takes a piece herself. Keep the entire sequence clearly visible and in order.
+
+  23–26s — PHOTOS: After eating, they take group photos using a small early-2000s disposable film camera. No smartphones or modern digital cameras. They pose, the shutter clicks and they laugh afterward.
+
+  26–30s — EVENING WALK: They leave the café and walk through the same neighborhood as it becomes evening. The girl carries her handbag, a friend carries the empty cake box/bag, and they chat and laugh while the camera follows from behind.
+
+  CONTINUITY: Same girl, friends, outfits, hairstyles, handbag and cake throughout. No teleporting, identity drift, outfit changes, disappearing props or reordered actions.
+
+  ERA: Everything must look authentically early 2000s Korean—fashion, hair, bakery, café, cars, signs, furniture, cake packaging and technology. No smartphones, AirPods, modern cars, LED screens or contemporary interiors.
+
+  CAMERA: Raw consumer DV footage with subtle handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild CCD/DV noise, motion blur, compression and occasional awkward zooms. Natural candid behavior, realistic skin and movement. No cinematic stabilization, 4K sharpness, beauty filters, VHS effects or professional filmmaking.
+
+  FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every scene and action clearly shown in the exact requested order.

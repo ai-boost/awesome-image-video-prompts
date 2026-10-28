@@ -1,0 +1,118 @@
+id: seedance-seoul-summer-evening-vlog
+title:
+  en: A summer evening in Seoul, shot like a home video
+  zh: 首尔夏夜，家庭录像质感
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- vlog
+- ugc
+- realism
+- home-video
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2092971211169100048
+  credit: Smiling Khan
+  likes: 6187
+  captured: '2026-10-27'
+  posted: '2026-08-27'
+video: https://x.com/AIwithkhan/status/2092971211169100048
+notes:
+  en: Pure text, no reference image. Realism comes from asking for small accidents and imperfect camcorder operation.
+  zh: 纯文字，没有参考图。真实感来自要求小意外和不完美的手持摄像。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Korean woman. No reference image.
+
+  MAIN SUBJECT
+
+  Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and approachable personality.
+
+  Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace.
+
+  Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.
+
+  SETTING
+
+  A quiet older Seoul residential neighborhood during a warm summer evening. Narrow concrete lanes, small houses, potted plants, bicycles, old walls, utility poles, overhead wires, a tiny neighborhood bakery, a public water tap and large leafy trees casting shadows across the street.
+
+  Everything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.
+
+  CAMERA / VISUAL AESTHETIC
+
+  Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.
+
+  Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.
+
+  No stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.
+
+   — OUTSIDE THE HOUSE
+
+  She steps outside carrying a small reusable shopping bag. She locks the door, adjusts her messy ponytail and looks toward the camera with a relaxed smile.
+
+  A light summer breeze moves her hair as she starts walking down the lane.
+
+   — BAKERY STOP
+
+  She reaches a tiny neighborhood bakery and buys a warm pastry.
+
+  She steps outside, takes her first bite and immediately smiles because it tastes good.
+
+  She notices her friend filming and holds the pastry toward the camera playfully before taking another bite.
+
+  — WALKING HOME
+
+  She continues down the narrow street while eating.
+
+  A neighborhood cat follows her for a few steps. She notices it, crouches down and gently pets it.
+
+  The cat walks away and she laughs before continuing.
+
+   — SMALL ACCIDENT
+
+  She walks beneath a large tree when a few leaves fall onto her hair.
+
+  She stops, looks confused, then realizes what happened and laughs.
+
+  She brushes the leaves away while her friend zooms awkwardly toward her face.
+
+  She looks directly into the camera and says:
+
+  "Seriously?"
+
+   — QUIET MOMENT
+
+  She reaches a low concrete wall beside the street and sits down for a moment.
+
+  She finishes the pastry while watching bicycles and neighbors passing through the lane.
+
+  A gentle breeze moves her hair. She casually fixes her ponytail and looks around peacefully.
+
+   — FINAL MOMENT
+
+  She stands up and continues walking home.
+
+  After a few steps, she turns back toward the camera with a small playful smile and says:
+
+  "Come on."
+
+  She keeps walking down the sunny lane while the camera follows behind.
+
+  She disappears around the corner and the recording abruptly cuts to black.
+
+  AUDIO
+
+  Natural location sound only: birds, summer insects, footsteps, bicycle bells, distant scooters, leaves moving in the breeze, bakery sounds, neighborhood conversations and subtle camera-handling noise.
+
+  No music. No narration. No artificial sound effects.
+
+  Only the two spoken lines specified above.
+
+  FINAL FEEL
+
+  The entire video should feel like a forgotten summer recording from the early 2000s.
+
+  Warm, feminine, casual, slightly playful, intimate and nostalgic.
+
+  No dramatic events, no exaggerated acting, no model poses and no polished cinematic shots.
+
+  The realism should come from ordinary surroundings, natural expressions, small accidents, realistic environmental movement and imperfect camcorder operation.

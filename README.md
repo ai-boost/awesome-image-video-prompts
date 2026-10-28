@@ -8,7 +8,7 @@
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
-<a href="#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
+<a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
 
 </div>
 
@@ -16,13 +16,16 @@
 
 ## Contents
 
-- [Video prompts](#video) (39 entries)
+- [Video prompts](#video) (70 entries)
+  - [Wan 3.0](#wan30) (12)
   - [MiniMax H3](#minimaxh3) (3)
+  - [Seedance 2.5](#seedance25) (19)
   - [Gemini Omni Flash](#geminiomniflash) (13)
   - [Kling 3.0](#kling30) (15)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (3)
 - [Agent recipes: editing video](#recipes) (5 entries)
+- [Guides and skills](#guides)
 - [Image prompts](#image)
 - [3D with agents](#threed)
 - [Browse by tag](#tags)
@@ -31,7 +34,1088 @@
 <a id="video"></a>
 ## Video prompts
 
-Every prompt below is copied verbatim from the model maker's own guide or model card, next to the video it produced. Click a thumbnail to watch the original with sound. Sections follow the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video) ranking.
+Every prompt below is quoted verbatim from its source: the model maker's own guide or model card, or a creator's post on X with the video attached. Click a thumbnail to watch the original with sound. Sections follow the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video) ranking; creator posts are sorted by likes, counted on the date shown.
+
+<a id="wan30"></a>
+## Wan 3.0
+
+<a id="wan-camera-angle-swap"></a>
+### Re-shoot your clip from new camera angles, same action
+
+<a href="https://x.com/Framer_X/status/2101324357108658433"><img src="previews/wan-camera-angle-swap.jpg" width="360"></a>
+
+Upload one continuous shot as the action reference and Wan re-films it from new angles. Regenerate if a shot drifts.
+
+Wan 3.0 · Video edit · Source: [@Framer_X on X](https://x.com/Framer_X/status/2101324357108658433) · 1,170 likes on 2026-10-27
+
+[`camera-angle`](#tag-camera-angle) [`video-reference`](#tag-video-reference) [`workflow`](#tag-workflow)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+STEP 1: Upload your video (must be continuous one shot) to any platform that supports WAN 3.0
+
+STEP 2: Use the prompt below (adjust it to your video):
+
+"Use the original video @ TAG ORIGINAL VIDEO as the exact action reference
+
+0–1s: Camera stays exactly as in the original video as the wolf walks toward the scooter.
+
+1–3s: Hard cut to a tight front close-up as the wolf continues walking toward and reaches the scooter.
+
+3–5s: Hard cut to a high angle above as the wolf as he gets onto the scooter and starts riding.
+
+5–7s: Hard cut to a full shot as the wolf rides the scooter down the street.
+
+7–9s: Hard cut to a side tracking shot as he keeps riding down the street.
+
+9-10s: Hard cut to an over the shoulder shot as he rides forward and notices the banana peel in his path.
+
+10–12s: hard cut to a birds eye view shot as the fallen wolf is rolling over the asphalt.
+
+12-13s : hard cut to an insert shot of his fist as wolf slams it into the asphalt.
+
+Only the camera angle and framing change. Make sure every action, movement, timing and performance exactly identical to the original video @ TAG ORIGINAL VIDEO. The action continues seamlessly across every cut."
+
+NOTE: If some scenes didn't work (action was different than original video) simply regenerate the video, that usually fixes the problem.
+```
+
+</details>
+
+<a id="wan-anime-monster-fight"></a>
+### Hand-drawn anime fight against a giant monster
+
+<a href="https://x.com/aimikoda/status/2103790524637528348"><img src="previews/wan-anime-monster-fight.jpg" width="360"></a>
+
+Two tagged references (hero, monster) and an instruction to keep their hand-drawn line work. Wan has its own anime look.
+
+Wan 3.0 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2103790524637528348) · 502 likes on 2026-10-27
+
+[`anime`](#tag-anime) [`action`](#tag-action) [`reference-images`](#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use @[character ref] for the hero's exact identity and appearance; @[monster ref] for the monster's anatomy, scale, pale body, black projections and luminous horns. Preserve their angular hand-drawn contours, sparse sketch lines, matte cel-shadows, muted lavender and ash gray, blue-black shadows, peach rim light and fine grain. City and effects share this 2D anime style. References bind appearance, not framing or poses.
+
+Five epic shots: the monster destroys the city as it charges toward the rooftop hero. ONE sudden, thick white line bursts from his index fingertip and instantly punches through it, leaving one enormous hole.
+
+The hero stays at one skyscraper's avenue-facing edge, level with the monster's upper torso. The monster approaches directly IN FRONT OF him along the avenue. All cameras stay on one side of their shared axis: hero and tower screen-left, monster screen-right advancing left. The hero faces right. In his profile close-ups, the monster remains ahead, offscreen right, never behind his head or shoulders. No axis-crossing angles or orbits.
+
+Shot 1. Low lateral wide tracking beside the monster charging right-to-left. Its shoulder tears through a building; the facade folds into the street as its next footfall buckles the roadway, hurling rubble forward. Debris whips past the lens through lavender dust. Widen and tilt upward to reveal the target tower ahead on screen-left, the tiny hero at its edge facing the approaching monster on screen-right. Keep the gap between them readable.
+
+Shot 2. Right-side profile of the hero facing screen-right toward the offscreen monster. Face and right hand share the frame against sky and rooftop. Wind pulls his hair and coat; he stays relaxed. With a knowing smile, he extends his right arm toward the target: index straight, thumb raised, other fingers curled. Cut as the finger aligns with the target; no charging glow, gathering energy or held aiming pause.
+
+Shot 3. Steady rear three-quarter view outside the hero's right shoulder, on the established side. Keep a clear gap between his fingertip screen-left and the monster's upper torso screen-right. It reaches for the rooftop directly ahead. Immediately on the cut, ONE thick, straight, brilliant-white line snaps from the index fingertip through the upper torso, below the neck between the shoulders. Its entire length appears instantly, connecting finger, target and the space beyond. Release and penetration happen together: no projectile travel, growing beam or drilling. One tiny finger recoil coincides with a building-sized circular section being punched through the body. The white line switches off immediately, leaving an enormous EMPTY opening, its broken dark rim framing the skyline. The torso jolts and tips sideways at once, the reaching arm knocked off course. Read the hole during the uninterrupted fall. No charging, stunned pause, slow motion or hit-stop. No sphere, pressure ring or full-screen whiteout obscures the contact. One abrupt discharge, never a sustained beam or repeated pulse.
+
+Shot 4. Cut as that sideways tilt begins, keeping the same viewing direction and matching the ALREADY OPEN hole on the first frame. The monster's arm drops short of the roof; its weight carries it diagonally sideways into the blocks beside the avenue before reaching the tower, still in front of the hero. Track downward with the chest exposed: no edge-on turn or face-down roll. The SAME hole stays fixed below the neck between the shoulders, with the same physical diameter, broken rim and missing volume. Its outline foreshortens naturally as the torso tilts; background buildings slide visibly through the opening. Keep dust below the chest and clear of the aperture. Follow the fall through contact with the ruins and briefly show the fallen torso with its hole still open. The rim does not regrow, the opening does not fill, and the torso never returns to its intact state.
+
+Shot 5. Return to the hero's right-side profile, facing screen-right, face and right hand together against sky and rooftop. The fallen monster remains OFFSCREEN ahead to the right. He bends his right elbow and brings the SAME extended index fingertip just in front of his lips. Only after it arrives, he gently purses his lips and visibly blows across it. A fine white wisp bends away in his breath. He lowers the hand slightly with a satisfied smile. Collapse thunder rolls in from ahead and a gust lifts his coat. Hold his effortless composure.
+
+One instantaneous fingertip discharge, one impact, one permanent through-hole carried through the uninterrupted fall and landing. The hero keeps the same hand and facing. Sound: masonry and heavy footfalls, one dry electrical crack and a deep impact report together at the instant of contact, then the intimate breath against distant collapse. No dialogue or subtitles.
+```
+
+</details>
+
+<a id="wan-tokyo-travel-vlog"></a>
+### Tokyo travel vlog in one-second beats
+
+<a href="https://x.com/joshesye/status/2094723798679400808"><img src="previews/wan-tokyo-travel-vlog.jpg" width="360"></a>
+
+Chinese description with Japanese dialogue. Every second gets a location, an action, a line and the transition into the next one.
+
+Wan 3.0 · Text-to-video · Source: [@joshesye on X](https://x.com/joshesye/status/2094723798679400808) · 421 likes on 2026-10-27
+
+[`vlog`](#tag-vlog) [`travel`](#tag-travel) [`japanese-dialogue`](#tag-japanese-dialogue) [`timed-beats`](#tag-timed-beats)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+一位20岁出头的年轻韩国偶像风格女性。长发直顺，黑色，自然蓬松，肤如凝脂，大而明亮的灵动的眼睛，精致的V形脸，小巧的鼻子，自然光泽的嘴唇，清新的淡妆，毫不费力地可爱又平易近人的表情。休闲日式街头穿搭（白色连帽衫 / 深色宽松连帽衫 / 宽大夹克）。26mm手机镜头，深景深，真实肤质，轻度HDR，中性iPhone色彩风格，未经编辑的抓拍，无电影级调色，无影棚灯光，无光轨，无动态模糊效果。
+
+(0:00–0:01) —— 行走镜头，东京塔亮相自拍，低角度。塔在她身后，天空过曝。自然微笑。中性自然光，深景深。台词：「ついに東京に来た……！」 过渡：硬切 / 节奏重拍
+
+(0:01–0:02) —— 涩谷十字路口，步入人群中间。转头看向镜头。身后霓虹灯牌清晰锐利。真实夜景曝光。过渡：节奏快切
+
+(0:02–0:03) —— 便利店，将饭团举向镜头，挑眉。室内荧光灯强烈。冷白光，真实肤质。过渡：节奏闪切
+
+(0:03–0:04) —— 代代木公园，坐姿，视线移向别处。斑驳光影，镜头可见污渍。音乐重拍落下——风、鸟鸣——随即切回。过渡：自然动作剪接
+
+(0:04–0:06) —— 章鱼烧反应，咬下一口，瞪大眼睛，后仰大笑。温暖的实际灯笼光。琥珀色光下的真实肤质。台词：「アツッ！めっちゃ美味しい！」 过渡：笑声结束时剪接
+
+(0:06–0:07) —— 自动售货机夜景，站在发光的售货机前。混合LED灯光映在脸上。微微坏笑。无光效处理。过渡：单拍剪接
+
+(0:07–0:08) —— 电车车窗，面部倒映在车窗上。窗外城市自然模糊。她向外看，不看镜头。过渡：闪切
+
+(0:08–0:09) —— 鸟居，低角度。走向并穿过神社大门。大门占据画面上方。自然日光。过渡：闪切
+
+(0:09–0:11) —— 数字灯光展 ★ 标志性镜头 缓缓抬头。蓝、紫、金色投影映在脸上。焦点转移——面部清晰，灯光柔和散射。只有投影打在皮肤上，无眩光。速度：约60%慢动作 过渡：在抬头过程中柔化剪接
+
+(0:11–0:12) —— 高达亮相，面部→镜头上摇→完整雕像入画。小小的赞赏微笑。广角，自然日光。过渡：微笑后锐利剪接
+
+(0:12–0:13) —— 灯笼小巷，跟随跟拍。灯笼暖色，阴影暗部。自然低光。她回头瞥了一眼。过渡：向前运动时剪接
+
+(0:13–0:14) —— 屋顶天际线，近距自拍→手臂伸远→天际线显现。风吹动发丝。自然夜景手机曝光。台词：「こんな夜景、初めて見た。」 过渡：最后一句台词处硬切
+
+(0:14–0:15) —— 奈良鹿公园，她蹲下，递出鹿仙贝。鹿向她鞠躬——她突然大笑。另一只鹿从背后轻顶她，她几乎站不稳。手持拍摄，略有晃动。全部真实拍摄。台词：「ちょっと！本当にお辞儀した！」 过渡：淡出至黑屏
+```
+
+</details>
+
+<a id="wan-four-gunmen-standoff"></a>
+### Four armed men, a silent standoff
+
+<a href="https://x.com/VictorInFocus/status/2088029679341261198"><img src="previews/wan-four-gunmen-standoff.jpg" width="360"></a>
+
+Written in numbered beats with restrained performances. It ends right before anyone fires.
+
+Wan 3.0 · Text-to-video · Source: [@VictorInFocus on X](https://x.com/VictorInFocus/status/2088029679341261198) · 261 likes on 2026-10-27
+
+[`thriller`](#tag-thriller) [`beats`](#tag-beats) [`tension`](#tag-tension)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+All four men are armed. Performances are restrained, dry and quietly tense, with subtle micro-expressions.
+
+BEAT 1
+Quick individual shots of each man holding his gun and staring at someone just outside frame.  Small eye movements, tightened jaws, slow blinks, controlled breathing. Each man is trying to look completely unfazed.
+
+Cut between them, gradually suggesting they are all aiming at one another.
+
+BEAT 2
+Cut wide to reveal all four men several metres apart in a loose circle, each pointing his gun at another man in a four-way standoff.  Hold the wide shot. Wind lightly moves their suits. Nobody lowers their weapon.
+
+The man in the cream suit glances around the circle.  CREAM SUIT, completely calm in a British accent:
+
+“Anyone care to explain how we got here?”
+
+A brief silence.  The older man in pink barely shifts his expression.  OLDER MAN IN PINK, dry in an American accent:
+
+“Bad manners, mostly.”
+
+BEAT 3
+Hold on the group.  A tiny smirk. A raised eyebrow. Eyes flick between faces and guns. One man subtly adjusts his grip.
+
+Slow, almost imperceptible push toward the group as the silence becomes uncomfortable.  Nobody fires.  Cut just as it feels like someone is about to.
+```
+
+</details>
+
+<a id="wan-street-photographer-cold-face"></a>
+### Cold face on video, sweet smile in the photos
+
+<a href="https://x.com/johnAGI168/status/2093342672605913225"><img src="previews/wan-street-photographer-cold-face.jpg" width="360"></a>
+
+Chinese prompt with labelled blocks. The joke is the hard cut between a cold moving shot and a smiling still photo, and the rules forbid any fade between them.
+
+Wan 3.0 · Reference-to-video · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2093342672605913225) · 240 likes on 2026-10-27
+
+[`chinese-dialogue`](#tag-chinese-dialogue) [`comedy`](#tag-comedy) [`vertical`](#tag-vertical) [`reference-images`](#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+【时长】18秒
+【画幅】9:16竖屏
+【风格】真人街头摄影短视频，手机纪实影像与专业写真照片交替剪辑，傍晚黄金时刻，真实皮肤质感，长焦浅景深，时尚街拍氛围，轻喜剧反差
+【语言】中文对白，无字幕
+【人物数量】画面中始终只有女主一人；摄影师只出现画外男声，不能实体出镜
+
+【人物角色卡】
+  @ 命名“方圆”，街头偶遇摄影师的女生。人物脸部、身形、发型、妆容、服装及原有配饰完全继承参考图。增加一部手机和一只单肩托特包作为剧情道具。
+
+【核心情绪反差】
+
+动态视频状态：
+方圆表现得冷淡、拽、有距离感。下巴微抬，嘴唇轻抿，眉毛略微压低，眼神像是在审视镜头。说话时不撒娇、不害羞、不甜笑，拒绝动作干脆从容。
+
+写真照片状态：
+只要硬切进入写真，方圆的表情瞬间改变。眉眼完全舒展开，眼睛弯起，脸颊抬高，露出明亮、自然、毫无防备的甜美笑容。笑容必须明显比动态视频更温柔、更亲近、更有感染力。
+
+情绪切换不能渐变：
+
+动态冷脸 → 快门声与硬切 → 写真甜笑；
+写真甜笑 → 硬切回视频 → 笑容立即消失，恢复冷淡。
+
+这条“冷脸视频与甜笑照片”的反差是全片最重要的喜剧效果。
+
+[00:00-00:04.20] 镜头1｜第一次冷脸拒绝
+
+方圆站在现代创意园区的林荫道路旁，肩背托特包，低头看手机。
+
+手持摄影机从侧前方缓慢靠近，由中远景推进到胸部近景。
+
+00:00-00:00.80
+方圆低头操作手机，完全没有注意镜头。右手拿手机，另一只手轻点屏幕，嘴唇闭合，表情平静冷淡。
+
+00:00.80-00:02.40
+听见陌生人搭话，她的手指先停下来。
+
+她没有立刻抬头，而是停顿半拍，先把眼睛从手机屏幕移向镜头，随后才缓慢抬起头。
+
+下巴微微上扬，眉毛轻压，眼神带有明显的审视感，脸上没有笑容。
+
+【画外年轻男声】
+“哎，你好，我是一名街头摄影师，可以邀请你拍两张照片吗？”
+
+男声礼貌、自然，带一点试探感。
+
+00:02.40-00:03.90
+方圆先冷冷看着镜头，停顿约0.2秒，再开口：
+
+【方圆】
+“不要拿镜头对着我。”
+
+语气平静、直接、有距离感，不能带娇嗔语气。
+
+说“不要”时，她才抬起空闲的左手。
+
+说“拿镜头”时，左手五指逐渐打开，掌心朝向摄影机。
+
+说“对着我”时，左掌从容地靠近镜头，遮挡大半画面。右手始终拿着手机。
+
+她从手掌旁边继续冷冷盯着镜头，嘴角不笑，也不害羞躲闪。
+
+00:03.90-00:04.20
+方圆收回手掌，干脆转身离开。肩膀先转，头部随后转动，头发产生真实甩动惯性。
+
+[00:04.20-00:07.80] 镜头2｜第一组甜笑写真
+
+在方圆冷脸转身之后，伴随清脆快门声，画面突然硬切成专业写真。
+
+照片中的她不再冷漠，而是立即露出非常甜美、明亮的笑容。
+
+照片一｜00:04.20-00:05.10
+半身逆光回眸写真。
+
+方圆身体朝前，脸回转看向镜头，露出灿烂的露齿甜笑。脸颊明显抬起，眼睛弯成柔和月牙形，整个人突然变得亲近温柔。
+
+人物、发丝和背景完全静止。
+
+照片二｜00:05.10-00:06.00
+林荫道路全身写真。
+
+方圆保持交叉迈步的优雅走姿，低头露出自然甜笑，像是被摄影师逗笑。笑容柔软放松，没有任何冷漠感。
+
+照片三｜00:06.00-00:06.85
+黄金逆光中近景写真。
+
+一只手放在头顶发间，另一条手臂扶住托特包。方圆直视镜头，露出明亮甜美的露齿笑，眼尾弯起，脸颊饱满上扬。
+
+照片四｜00:06.85-00:07.80
+面部与上胸特写写真。
+
+方圆头部轻轻侧歪，双眼温柔看向镜头，露出整组照片中最甜、最有感染力的笑容。牙齿自然露出，眼睛弯起，背景形成金色散景。
+
+四张照片全部是真正静止的写真成片，不眨眼、不呼吸、不飘发。相邻照片通过快门声和硬切切换，不使用大面积白闪。
+
+[00:07.80-00:10.30] 镜头3｜切回视频，笑容立即消失
+
+硬切回手机动态视频。
+
+切回的第一帧，方圆脸上的甜美笑容必须完全消失，重新恢复冷淡、拽、不耐烦的状态。
+
+00:07.80-00:08.50
+摄影机从侧后方跟拍。
+
+方圆背对镜头继续向前走，手机拿在胸腰之间，托特包随脚步轻微晃动。
+
+【画外年轻男声】
+“很快很快，就两张。”
+
+听见摄影师继续央求，方圆没有马上停下。
+
+她先用眼角向后看，再缓慢转动头部和肩膀。她的眼神冷淡，下巴微抬，嘴唇轻抿，像是觉得摄影师很烦。
+
+00:08.50-00:10.00
+方圆一边走一边看向镜头：
+
+【方圆】
+“我没有配合你的义务。”
+
+语气平静、坚定、带明显边界感，不能微笑。
+
+说“我没有”时，她直视镜头，眉毛轻轻压低。
+
+说“配合你的”时，空闲手从胸前抬起，五指逐渐打开。
+
+说“义务”时，掌心正对摄影机并向前靠近，形成明确的“停止拍摄”手势。
+
+她嘴上拒绝得很冷，但肩膀已经自然打开，腰部形成漂亮侧转，头部角度和手掌位置都非常适合拍照。
+
+00:10.00-00:10.30
+她放下手掌，冷淡地转回前方继续走。整个过程中不能出现甜笑。
+
+[00:10.30-00:13.50] 镜头4｜第二组甜笑写真
+
+就在方圆冷着脸转身离开时，快门声响起，画面再次硬切成甜美写真。
+
+照片五｜00:10.30-00:11.10
+大腿以上中景写真。
+
+方圆双手在腰前拿着手机，身体微侧，脸转向镜头，突然露出放松明亮的露齿甜笑。眼睛弯起，肩膀柔和，与上一秒的冷脸形成强烈反差。
+
+照片六｜00:11.10-00:11.90
+道路边全身写真。
+
+方圆一只手叉腰，另一只手抓住托特包肩带，髋部自然侧移。虽然姿势利落时尚，但表情非常甜，嘴角明显上扬，露出自然牙齿，眼神温柔亲近。
+
+照片七｜00:11.90-00:12.70
+林荫道路全身回眸写真。
+
+身体保持向前迈步，后脚脚跟抬起，头和上胸向后回转。方圆回头看镜头时露出灿烂笑容，脸颊抬起，像是在开心地回应摄影师。
+
+照片八｜00:12.70-00:13.50
+胸腰以上近景写真。
+
+方圆双手拿着手机，头部轻轻侧歪，双眼直视镜头，露出温柔甜美的笑容。笑意同时出现在嘴角和眼睛里，不能只是机械地咧嘴。
+
+四张写真全部完全冻结，不能出现眨眼、呼吸、头发移动或背景运动。
+
+[00:13.50-00:15.20] 镜头5｜再次切回冷脸动态视频
+
+硬切回动态视频的第一帧，甜笑再次立即消失。
+
+摄影机位于方圆侧后方，以腰胸以上中近景跟拍。
+
+【画外年轻男声】
+“就两分钟，两分钟，真的，就两……”
+
+男声带一点执着和央求感，最后一句没有说完。
+
+方圆没有台词，不跟随画外声音张嘴。
+
+00:13.50-00:14.00
+她回头冷冷看摄影机一眼。嘴唇闭合，眉毛略压，下巴微抬，表情像在说：“你怎么还在拍？”
+
+00:14.00-00:14.50
+她把脸转回前方，背对镜头继续走。长发自然覆盖背部，托特包随脚步轻轻晃动。
+
+00:14.50-00:15.20
+她借着下一步突然向镜头方向回身。
+
+肩膀先转，头部随后转回，大束头发因惯性向外甩开，形成真实流畅的发丝弧线。
+
+她的脸仍然保持冷淡，不能在甩发过程中提前微笑。
+
+[00:15.20-00:18.00] 镜头6｜冷着脸却已经摆好Pose
+
+摄影机由侧后方绕到侧前方，并缓慢推进至胸部近景。
+
+00:15.20-00:15.80
+方圆完成回身，左手抬到后脑和头顶发根，手肘自然向外打开。
+
+眼睛准确找到镜头，目光稳定直接；嘴唇轻抿，下巴微抬，依然是一副不愿意配合的冷淡表情。
+
+00:15.80-00:16.40
+左手沿头发外侧向下滑动，把甩到脸前的发束拨开。
+
+头发依靠真实惯性继续向一侧飘动。与此同时，她的肩膀自然打开，身体逐渐转成三分之二侧身。
+
+00:16.40-00:17.10
+左手落到托特包上缘，把包轻轻抱稳在身体侧面。
+
+她把重心放到一条腿上，腰部轻微侧移，一侧肩膀向后打开，已经形成完整的专业模特Pose。
+
+她的脸仍然冷淡，不能出现与写真相同的甜笑。
+
+00:17.10-00:18.00
+摄影机缓慢推进至近景。
+
+方圆保持侧身抱包姿势，下巴先微抬，再缓慢压低一点；双眼从略低的眉骨位置直视镜头，嘴唇维持冷淡的闭合状态。
+
+最后0.4秒，她只让一侧嘴角出现极其轻微、几乎看不出来的得意弧度，像是在说：
+
+“我没有答应拍照，只是刚好会摆Pose。”
+
+结尾仍是动态视频，保留轻微呼吸与发丝余动，不能变成甜笑写真。
+
+【声音设计】
+使用节奏利落的时尚流行音乐。
+
+动态视频段保留脚步声、手机握持声、衣料摩擦声、托特包摆动声和甩发声。
+
+每次从冷脸动态视频切入甜笑写真时，必须加入清脆机械快门声，并与画面硬切和音乐重拍同步。
+
+摄影师始终为镜头后的画外男声。只有方圆说两句拒绝台词时产生口型。
+
+【主要约束】
+动态视频中的方圆必须冷淡、拽、不甜笑；
+写真照片中的方圆必须笑得明亮、自然、甜美；
+冷脸和甜笑只能通过硬切瞬间切换，禁止缓慢渐变；
+写真段必须完全静止，动态段保持真实连续运动；
+禁止换脸、人物外观漂移、口型错位、额外人物、字幕、Logo和水印。
+```
+
+</details>
+
+<a id="wan-finger-dance-one-take"></a>
+### Finger dance in one locked-off take
+
+<a href="https://x.com/johnAGI168/status/2092625479521931699"><img src="previews/wan-finger-dance-one-take.jpg" width="360"></a>
+
+Names the character once (`粉宝`) and refers back to her by name. It even specifies which hand does which move.
+
+Wan 3.0 · Reference-to-video · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2092625479521931699) · 194 likes on 2026-10-27
+
+[`dance`](#tag-dance) [`long-take`](#tag-long-take) [`vertical`](#tag-vertical) [`reference-images`](#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+【人物角色卡】
+@   ​→ 命名为“粉宝”，全片唯一人物。后文所有“粉宝”均指同一人，不再重复调用参考图。
+粉宝的脸部身份、五官比例、发型、妆容、服装和配饰全部沿用参考图，不重新描述、不擅自改造。
+全程严格保持同一张脸，不换脸、不改变年龄感、脸型、肤色和五官比例。
+
+【风格】真人竖屏手指舞短视频（Finger Dance Performance），固定机位一镜到底（Locked-off One Take），轻快甜美、自然手机摄影质感，4K清晰度，真实皮肤纹理
+【时长】15秒
+【画幅】9:16
+【人物】仅粉宝一人
+【对白形式】粉宝本人面对镜头进行中文节奏念唱，必须准确对口型
+【字幕】无字幕、无贴纸文字、无水印
+【转场】全片不剪辑、不变装、不使用特效转场
+
+【场景】
+温暖整洁的居家房间，浅色墙壁和木地板；画面左侧是一台关闭的黑色电视和简洁矮柜，右侧是一扇关闭的棕色木门。背景装饰尽量简化，不摆放动物玩偶或动物照片。
+前景保持完全空旷，只出现粉宝一个生命主体。画面中绝对不出现狗、其他动物、动物尾巴、动物毛发或动物影子。
+
+【摄影机】
+竖屏固定手机机位，摄影机位于粉宝正前方、约胸口高度，等效35mm镜头。中全景构图，从头顶拍到大腿上部，保留双手向左右和头顶伸展的空间。
+摄影机全程锁定，不推拉、不摇移、不变焦、不跟随；手指伸向镜头时产生自然的近大远小（Forced Perspective），但镜头本身不能移动。
+
+【表演内核】
+粉宝像在和镜头另一端的人玩方向游戏：先认真介绍左边和右边，再把两边说成“可爱的两边”，随后从指方向逐渐变成指向观众，最后用爱心动作完成“我在你的心里面”。
+情绪递进：俏皮示范 → 笑意增加 → 主动逗观众 → 甜蜜直球。
+不要从第一帧就保持最大笑容；笑容随着手势逐步变亮，最强的笑容和眼神只留给最后一句。
+
+[00:00-00:03.80] 镜头1：左边与右边（Locked Medium Full Shot）
+
+[00:00-00:00.50]
+粉宝跪坐在画面中央，身体正对镜头。右手从身体右侧向外轻快扫出，再弯曲手肘，将右手食指竖起；左手自然垂在左侧大腿旁。
+头部随着右手轻轻晃动，先露出张嘴的明亮笑容，再迅速收成小幅度微笑。目光始终看镜头。
+此段没有台词，嘴巴不能提前念词。
+
+[00:00.50-00:01.40]
+右手食指从竖直状态向内划出一小段弧线，落到人物自身右侧脸颊，也就是观众看到的画面左侧脸颊；其余四指自然收拢。
+【台词】“这是左边。”
+【口型】“这”字嘴唇短促向前；“左”字下颌稍微打开；“边”字嘴角向两侧收紧后闭合。
+【微表情】说“这”时眉毛轻抬、眼睛睁开；说到“左边”时头部向指尖稍微倾斜，眼尾收窄，右侧脸颊被食指轻轻点出一个小凹陷，句尾变成带牙齿的小笑容。
+【声音】清亮、俏皮、中等偏快语速，“左”字稍微加重，句尾轻轻上扬。
+
+[00:01.40-00:02.00]
+右手食指离开脸颊，两条手臂短暂向左右打开，肩膀和上半身跟随节拍轻轻摆动。嘴唇闭合成笑，不发出新台词。
+
+[00:02.00-00:03.05]
+左手抬起，左手食指点向人物自身左侧脸颊，也就是观众看到的画面右侧脸颊；右手自然落到右侧大腿旁。
+【台词】“这是右边。”
+【口型】每个字完整清楚，不能吞掉“右”字；“边”字结束后嘴唇自然闭合。
+【微表情】头部向左手指尖方向倾斜；眼睛先看镜头，再短暂形成玩笑式单眼轻眯，双颊抬起，嘴角由小幅度微笑逐渐扩大。
+【声音】保持与上一句相同的旋律和速度，“右”字落在重拍，句尾同样轻微上扬。
+
+[00:03.05-00:03.80]
+左手食指在脸颊旁做一次极小的离开—点回动作，然后双臂向外松开，为下一组双手动作蓄力。粉宝闭唇笑一下，眼睛轻眯，不说话。
+
+[00:03.80-00:07.05] 镜头2：可爱的两边（Symmetrical Cheek Gesture）
+
+[00:03.80-00:06.08]
+两只手同时抬到脸部两侧，左右食指分别指向对应脸颊，其余手指自然弯曲，双肘向外展开，形成完全对称的双脸颊动作。
+【台词】“这是可爱的两边。”
+【动作同步】
+“这是”——两根食指刚刚到达脸颊旁，头部保持居中；
+“可爱”——两根食指同时轻点脸颊一次，头部向一侧小幅倾斜；
+“的两边”——两根食指继续指住脸颊，上半身随节拍向另一侧轻摆，最后回到中央。
+【口型】“可爱”必须清楚形成两个分开的音节；“两边”不能连成模糊笑声。句尾“边”字结束后嘴唇闭合半拍。
+【微表情】“这是”时眼睛明亮直视镜头；“可爱”时眼尾压成弯月、双颊明显抬起；“两边”时露出整齐牙齿，最后加入一次快速俏皮眨眼。不能全程眯眼，也不能从开头就保持最大笑容。
+【声音】童谣式轻快念唱，“可爱”略微拉长，“两边”落在节拍重音上。
+
+[00:06.08-00:07.05]
+双手从脸颊释放。右臂先向下外侧划开，左手食指在脸侧短暂停留；粉宝做一次清楚但自然的单眼眨眼，然后两只手都降至腰部附近。
+嘴巴从笑容收成闭唇状态，准备下一句，不能在间奏中继续乱动口型。
+
+[00:07.05-00:11.03] 镜头3：前面与后面（Direct-to-Camera Point）
+
+[00:07.05-00:08.55]
+左手食指重新竖起，手臂迅速向摄影机方向伸展。开始时食指朝上，伸近镜头后手腕向下旋转，使食指准确指向镜头中央；其余手指收拢，拇指自然搭在弯曲手指旁。
+手掌靠近镜头后产生明显近大远小，粉宝的脸仍在后方保持清晰可辨。
+
+【台词】“这是指前面。”
+【口型】“指”字短促，“前面”两个音节要清楚分开；“前”字略加重。
+【微表情】伸手前眉毛轻抬，像突然想到一个答案；指尖对准镜头时眼神沿着手指直接锁定观众，眼睛微微收窄，嘴角形成带一点得意的小笑容。
+【声音】比前两句更有直接交流感，“前面”句尾下降，不拖音。
+
+[00:08.55-00:10.07]
+左手食指继续对准镜头保持半拍，然后缓慢收回。收回过程中手腕向侧面转动，食指从指向观众变为指向自己左肩后方；头部同步向该方向轻轻转动，视线先跟随指尖扫向肩后，再迅速回看镜头。
+
+【台词】“这是指后面。”
+【口型】“后”字嘴唇先收圆再放开，“面”字结束后闭唇。
+【微表情】说“后面”时眉梢轻轻抬高，眼神短暂朝肩后看；回看镜头时眼睛弯起，像故意和观众开玩笑。笑容不能遮挡口型。
+【声音】“后”字加重，语气带一点调皮的提示感，句尾轻轻落下。
+
+[00:10.07-00:11.03]
+左手落到腰侧。右手食指短暂指向右肩或胸口上方，左手沿原视频中的低位运动轨迹自然落在左侧大腿上。
+原视频此处存在抚摸狗背的动作，重制时必须改成左手轻落大腿：不要抚摸空气、不要看向地面、不要生成任何动物。
+粉宝闭唇笑，肩膀跟随节拍轻轻弹动一次。
+
+[00:11.03-00:15.00] 镜头4：指向你与心里面（Finger Heart to Overhead Heart）
+
+[00:11.03-00:12.55]
+右手从肩侧向镜头伸出。先短暂握成面向镜头的小拳头，再缓慢松开，将拇指与弯曲的食指交叠，组成清晰的韩式手指爱心；中指、无名指和小指保持收拢。手指爱心位于镜头前方，不能挡住粉宝的双眼。
+
+【台词】“这是指你。”
+【口型】“你”字必须清楚，嘴角先收窄再上扬；不能念成“地”或其他字。
+【微表情】小拳头伸出时目光直接、眉毛微抬；手指爱心成形的一瞬间，眼尾轻轻收窄，嘴角变成带牙齿的顽皮笑容，头部向一侧小幅倾斜。
+【声音】“你”字加重并略微拉长，像直接点名镜头前的人，语气甜但不嗲。
+
+[00:12.55-00:14.80]
+右手爱心释放，两条手臂同时向左右展开，再沿大弧线举过头顶。双臂形成宽大的心形轮廓，两只手在头顶上方弯曲，左右指尖轻轻接触，组成完整的头顶爱心。
+爱心完成后，粉宝保持手臂形状，身体先向一侧轻摆，再回到中央。
+
+【台词】“我在你的心里面。”
+【动作与台词同步】
+“我在”——双臂向左右打开；
+“你的”——双臂向上形成宽阔V形；
+“心里”——两臂在头顶弯曲，双手指尖合拢成爱心；
+“面”——爱心完全闭合并保持，头部位于心形正中央。
+
+【口型】“我在你的”保持连贯但不能抢拍；“心里面”四个音节清晰，“心”字加重，“面”字稍微延长至动作完成。
+【微表情】双臂打开时眼睛明亮、嘴角逐渐扩大；听到“心”字时双颊明显抬起、眼尾变弯；“里面”结束时呈现全片最明亮的笑容，牙齿自然露出，眼神牢牢看向镜头。不要提前达到最大笑容。
+【声音】前半句轻快，念到“心”时音高略微上升，“里面”温柔落下，保持清晰中文发音。
+
+[00:14.80-00:15.00]
+头顶爱心的指尖向两侧分开，两条手臂顺势向下外侧打开；粉宝略微向摄影机靠近，维持明亮笑容和直接眼神，在动作仍有轻微惯性的状态下结束。
+最后一帧不说新台词、不突然恢复中性表情、不淡出。
+
+【完整台词】
+“这是左边。
+这是右边。
+这是可爱的两边。
+这是指前面，这是指后面。
+这是指你，我在你的心里面。”
+
+【声音控制】
+同一位女性声线完成全部念唱，普通话清晰，甜美轻快但不过度夹嗓。每句“这是”使用相近节奏，左右、两边、前面、后面分别与对应手势严格同步。
+只保留轻快的低音量节拍伴奏，不增加第二个人声、合唱、旁白、笑声音效或额外台词。
+
+【动作连续性】
+全片是一镜到底，所有动作必须由上一个动作自然过渡到下一个动作。手臂有真实惯性，手指先伸展再定型、先释放再移动；不能在相邻帧中突然瞬移。
+人物自身左右手不能交换：右手负责第一段画面左侧脸颊，左手负责第二段画面右侧脸颊及指向镜头；右手负责最后的手指爱心，两只手共同组成头顶爱心。
+```
+
+</details>
+
+<a id="wan-photo-editor-chase-comedy"></a>
+### A street chase where photo-editing tools are real objects
+
+<a href="https://x.com/johnAGI168/status/2106723741602546165"><img src="previews/wan-photo-editor-chase-comedy.jpg" width="360"></a>
+
+Cursors, selection boxes and transform handles exist on the street with shadows and occlusion. Long ban list keeps it from turning cartoony.
+
+Wan 3.0 · Text-to-video · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2106723741602546165) · 189 likes on 2026-10-27
+
+[`comedy`](#tag-comedy) [`vfx`](#tag-vfx) [`chase`](#tag-chase) [`multi-shot`](#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Duration：30秒
+
+Aspect ratio：16:9横屏
+
+Overall style：电影实拍质感的都市白天喜剧。真人演员，真实街道，手持跟拍的能量感。图像编辑软件的工具和界面元素以实物形态出现在真实街道上，包括光标、虚线选框、变换框、白色方形把手和灰白透明格子，它们有透视、有遮挡，地面上有淡淡的投影。所有编辑都瞬间完成，干净利落，滑稽无害。动作物理动量连续，严禁静止发呆，严禁塑料CG感。
+
+SUBJECT / 角色与道具绑定：
+
+图片1 命名为【Iaro】，容貌、发型、服装、配饰全部以参考图为准，全片保持一致；
+
+（@只在此处声明一次，正文严禁再出现@）
+
+道具【光标】：巨型电脑光标，带细黑描边的白色哑光实物，常态高约1.2米，悬浮在离地1到1.8米之间，地面上有淡灰色投影。光标有三种形态，切换时"啪"地瞬间变形：
+
+- 箭头形态：经典左上指向的白色箭头；
+
+- 油漆桶形态：白色倾斜的小桶图标，桶口朝下；
+
+- 橡皮擦形态：白色长方体橡皮块，长约1米。
+
+每次"点击"时，光标整体向前点约10厘米，伴随清脆的咔哒声。性格固执又狡猾。
+
+路人与动物：
+
+【遛狗姑娘】年轻女性，浅蓝色卫衣，手牵红色狗绳；
+
+【小白】白色小型卷毛狗，常态肩高约25厘米，被放大后肩高约1.5米，性格欢快，见到会动的东西就想追。
+
+ENVIRONMENT / 空间轴线：
+
+现代城市商业街，晴朗白天。自然阳光从画面右上方45度照下，色温约5600K，阴影清晰柔和。人行道上有木质长椅、路边停着一辆白色厢式货车，有一面红砖墙，街角有一条两侧是砖墙、尽头被墙堵死的窄巷。追逐方向全片统一：Iaro始终从画面右侧往左侧逃，光标始终从画面右侧追来。所有招牌、车身、墙面上都没有任何文字、数字或Logo。
+
+AUDIO / 声音位置，严格按时间（全片无台词，无人声）：
+
+① 0.0s起：城市环境声（远处车流、鸟鸣、路人脚步），原创轻快放克配乐（贝斯加军鼓，无人声），低电平进入；
+
+② 1.2s–2.4s：四声连续的"啵、啵、啵、啵"，冰淇淋球被复制出来；
+
+③ 4.0s"咔哒"；5.6s第二声"咔哒"，长椅被复制，"咚"一声落地；6.2s四个冰淇淋球摔在地上，"啪嗒"；
+
+④ 9.4s"咔哒"，接一声弹性拉伸的"啵——"；10.2s巨犬欢快地低沉吠叫"汪！"；
+
+⑤ 13.2s油漆倾泻的"哗——"；16.2s橡皮摩擦的"擦擦擦"；
+
+⑥ 19.0s光标放大，低频上扬"呜——"；20.0s巨犬吠叫，接着"嗷呜"一口，然后是撕咬玩具的"吱吱"声；
+
+⑦ 23.5s甩水声"噗噜噜"；
+
+⑧ 25.5s配乐戛然而止，只剩环境声；25.8s"咔哒"；26.0s爆炸头弹开，"嘭"的一声；26.8s拍头时头发的弹簧声"啵嘤"；
+
+⑨ 28.0s–30.0s安静，光标晃动时两声俏皮的电子音"嘀嘀"，巨犬尾巴拍地"啪、啪、啪"。
+
+--------------------------------------------------------------------------------
+
+SHOT 1（0.0s–3.5s）｜【冰淇淋复制】
+
+Subject：Iaro，光标
+
+Action：Iaro坐在木质长椅中间，右手握一支单球香草冰淇淋甜筒，正伸舌头要舔。0.6s，箭头光标从画面右侧滑入，停在冰淇淋上方30厘米处。1.0s，一个小号虚线选框框住冰淇淋球。1.2s起，"咔哒"四连击，每0.3秒在顶上复制出一个完全一样的冰淇淋球，摞成5个球、约40厘米高的冰淇淋塔，微微摇晃。2.6s，Iaro眼睛睁大，嘴张开，抬头看光标，咧嘴笑，对光标点了点头。
+
+Environment：长椅背后是人行道和店铺，有零星路人走过。
+
+Camera：35mm，平视中景，Iaro在画面左三分之一处，光标在右三分之一处。1.2s起镜头轻微上摇，跟住长高的冰淇淋塔。
+
+Style：冰淇淋表面有真实的奶油质感和阳光高光，球与球接触处轻微压扁。
+
+Performance：从准备舔，到发愣，再到惊喜，要一气呵成。
+
+Constraints：禁止冰淇淋球悬空分离，每个球必须压在下一个上面。禁止光标碰到Iaro。
+
+SHOT 2（3.5s–7.5s）｜【目标换成Iaro】
+
+Subject：Iaro，光标
+
+Action：3.5s，光标慢慢把箭头转向Iaro。4.0s"咔哒"，一个黑白虚线矩形选框"啪"地合拢，把坐着的Iaro连同身下的长椅一起框住，虚线沿边缘流动。4.3s，Iaro的笑容收住，眼睛往下瞟虚线，再瞟回光标。4.8s，Iaro保持右手举着冰淇淋塔不动，屁股贴着椅面向画面左侧一点点平移，左脚先落地，身体侧滑出选框。选框留在原地。5.6s第二声"咔哒"：选框里的长椅被复制，一张一模一样的长椅"咚"地出现在原长椅右边，紧挨着。5.8s，落地震动让冰淇淋塔剧烈摇晃。6.2s，上面4个球依次滑落，"啪嗒"砸在人行道上，只剩最底下1个。6.6s，Iaro低头看剩下的1个球，再抬头看光标，嘴角下拉。7.0s，Iaro转身向画面左侧起跑，右脚蹬地，身体前倾。
+
+Environment：两张长椅紧挨着并排，掉落的冰淇淋在地上摊开。
+
+Camera：35mm，平视中景，与SHOT 1同轴线。7.0s镜头向左甩，跟住起跑。
+
+Style：选框虚线约3厘米粗，在人身上和长椅上投下极淡的虚线影子。
+
+Performance：侧滑时动作慢而小心，像怕吵醒什么，和后面的爆发起跑形成反差。
+
+Constraints：长椅复制必须在5.6s瞬间完成，不得渐变。Iaro的外观不得发生任何变化。
+
+SHOT 3（7.5s–12.0s）｜【小白变巨犬】
+
+Subject：Iaro，光标，遛狗姑娘，小白
+
+Action：Iaro在人行道上全速向画面左侧冲刺，双臂大幅摆动，光标在Iaro右后方2米处追赶。8.4s，前方遛狗姑娘牵着小白迎面走来。8.8s，Iaro右脚起跳，双膝收起，从小白头顶跃过，左脚先落地，继续跑。9.0s，光标的选框套向Iaro，Iaro已经跳过去，选框落在小白身上。9.4s"咔哒"：小白身上出现带8个白色方形把手的变换框，四角的把手同时向外拉，小白在0.5秒内被等比放大到肩高1.5米，像一匹小马。狗绳仍握在遛狗姑娘手里，姑娘的手臂被一下拉到头顶。10.2s，巨犬欢快地"汪"一声，尾巴猛摇，脑袋跟着光标转来转去，眼睛死死盯着光标，前爪在地上跃跃欲试。11.0s，Iaro边跑边回头，看到巨犬，瞪大眼睛，又回头看第二眼。
+
+Environment：路人纷纷后退给巨犬让出空间，巨犬的卷毛逐根清晰，在阳光下发亮。
+
+Camera：24mm，横移跟拍，机位在Iaro右侧3米处，与Iaro同速向左平移，腰部高度，轻微手持颠簸。
+
+Style：放大后的狗毛质感真实，脚掌接地有重量感。
+
+Performance：巨犬全程开心，不凶，像看见一个大号玩具球。
+
+Constraints：禁止狗变形或变丑，只能等比放大。禁止遛狗姑娘摔倒。禁止Iaro碰到小白。
+
+SHOT 4（12.0s–15.0s）｜【油漆桶：货车染紫】
+
+Subject：Iaro，光标
+
+Action：12.0s，Iaro冲到一辆停在路边的白色厢式货车旁，后背和双手掌心紧贴车身侧面，憋住呼吸，屏息躲藏。12.6s，光标"啪"地变成油漆桶形态，悬停在货车车尾上方。13.0s"咔哒"，桶口点在车尾，鲜艳的亮紫色从点击处向车头方向扩散，像水波一样漫过白色车身，0.6秒内覆盖整辆车。13.3s，Iaro瞥见紫色从右侧涌来，在紫色到达后背前0.2秒，双手一推车身，向画面左侧弹开半米。13.8s，整辆货车变成纯亮紫色，Iaro站在旁边，低头看自己的双手，确认没被染色，长出一口气，继续跑。
+
+Environment：紫色只停在车身漆面上，车窗、轮胎、车灯都保持原样。
+
+Camera：35mm，平视中景，侧面拍货车和Iaro，货车占画面右三分之二，Iaro在画面左侧边缘。
+
+Style：紫色漆面在阳光下有真实的车漆反光。
+
+Performance：贴车躲藏时双眼圆睁，嘴唇紧抿。
+
+Constraints：Iaro身上不得沾到任何紫色。禁止油漆液体溅出车身之外，变色只发生在车身表面。
+
+SHOT 5（15.0s–18.0s）｜【橡皮擦：墙上擦出透明格子】
+
+Subject：Iaro，光标
+
+Action：Iaro沿红砖墙向画面左侧奔跑。15.5s，光标"啪"地变成橡皮擦形态，从Iaro右后方追上来，在头部高度从右向左横扫过来。15.9s，Iaro双膝一弯，上身前折，向下滑铲，橡皮擦从Iaro头顶上方擦过，扫在砖墙上。16.2s，"擦擦擦"三下来回摩擦，砖墙被擦掉一块约1米见方的区域。缺口里不是墙洞，而是一块平整的灰白相间的棋盘格透明背景图案，边缘干净。16.8s，Iaro从滑铲中站起，停下回头，把脸凑近那块棋盘格，用右手食指轻戳一下，指尖碰到的是一个平面，Iaro的眉毛挑起。17.4s，橡皮擦又扫过来，Iaro转身拔腿就跑。
+
+Environment：棋盘格每格约5厘米，灰白两色，平铺在墙面上，周围砖块完好。
+
+Camera：35mm，跟拍转为静止中景。16.8s镜头轻推，Iaro的侧脸和棋盘格同时在画面里。
+
+Style：棋盘格像墙面的一部分，同样被阳光照亮，有砖墙一致的透视。
+
+Performance：戳棋盘格时的好奇和怀疑，是这段的笑点。
+
+Constraints：禁止橡皮擦碰到Iaro。棋盘格禁止发光，禁止出现文字或数字。
+
+SHOT 6（18.0s–22.5s）｜【死胡同：巨犬救场】
+
+Subject：Iaro，光标，小白
+
+Action：18.0s，Iaro拐进窄巷，跑到尽头，被墙堵住，转身背贴墙面，双手摊在墙上。18.5s，光标变回箭头形态，飘到巷口，周身出现变换框，从1.2米膨胀到3米高，堵住整个巷口。19.4s，光标拖出一个虚线矩形选框，框住整条巷子和Iaro。Iaro闭上眼，脸扭向一边。20.0s，巨犬从光标身后的巷口跃起，前爪腾空，一口咬住光标的尾端，叼在嘴里，落地后左右猛甩脑袋，像甩玩具一样。光标的变换框和选框同时闪两下消失，光标在狗嘴里缩回1.2米，被甩得左右乱晃。21.0s，巨犬叼着光标趴下，前爪按住，开心地啃咬，尾巴拍地。21.5s，Iaro睁开一只眼，再睁开另一只，背贴着墙慢慢滑坐到地上，喘着气笑出来。
+
+Environment：窄巷两侧是红砖墙，地面有一些积水，巨犬落地时溅起水花。
+
+Camera：18.0s–19.4s，24mm低机位，从Iaro身后、贴近墙角处拍出去，光标在巷口逆光。20.0s切35mm侧面中景，拍巨犬跃起叼住光标的完整动作弧线。
+
+Style：光标在狗嘴里被咬出真实的压痕，有弹性。
+
+Performance：巨犬全程是玩耍，不是攻击。
+
+Constraints：禁止狗撕碎光标。禁止Iaro在本镜头被选中编辑。禁止出现文字。
+
+SHOT 7（22.5s–25.5s）｜【以为结束了】
+
+Subject：Iaro，光标，小白
+
+Action：22.5s，Iaro站起来，拍了拍裤子，走到巨犬面前，伸手挠它的下巴，脸上是得意的笑。23.0s，巨犬张嘴吐舌头哈气，光标从嘴里滑出，湿漉漉、皱巴巴地掉在地上。23.5s，光标晃晃悠悠浮起，飘到Iaro后脑后方1米处，像狗一样抖身，"噗噜噜"甩出一圈水珠，皱褶瞬间恢复平整。Iaro背对着光标，正在摸狗，毫无察觉。
+
+Environment：甩出的水珠在阳光下闪亮，落在地上。
+
+Camera：35mm，平视中景，Iaro和巨犬在画面左侧，光标在画面右侧Iaro的身后升起，镜头静止。
+
+Style：浅景深，Iaro和光标都清晰。
+
+Performance：Iaro完全放松，甚至有点得意，和下一镜形成反差。
+
+Constraints：Iaro不得回头。光标抖水时不得碰到Iaro。
+
+SHOT 8（25.5s–28.0s）｜【红色爆炸头】
+
+Subject：Iaro，光标
+
+Action：25.8s"咔哒"，一个虚线矩形选框"啪"地合拢，只框住Iaro的头部。26.0s，无论Iaro原本是什么发型，都在0.4秒内"嘭"地膨胀成一个巨大的鲜红色爆炸头：直径约60厘米，正圆形，由紧密的小卷组成，整颗都是同一种正红色，比Iaro的肩膀还宽。26.4s，选框消失。26.6s，Iaro整个人僵住，手还停在狗下巴上。Iaro的右手慢慢抬起来，拍了一下头顶，爆炸头像弹簧一样上下弹了两下。
+
+Environment：爆炸头的边缘在阳光下透出红色的光晕。
+
+Camera：35mm，从Iaro侧后方的中景开始，26.0s起缓慢推近，让爆炸头的体积和形状一目了然。
+
+Style：发卷逐根清晰，有真实的蓬松度和弹性，绝不能是一块头套或一颗毛球。
+
+Performance：从僵住到拍头，脸上没有表情，只有手在动。
+
+Constraints：发型变化只能发生在26.0s–26.4s之间。只有发型改变，Iaro的脸、服装、配饰必须与参考图完全一致。爆炸头禁止出现红色以外的颜色。
+
+SHOT 9（28.0s–30.0s）｜【"真的假的？"】
+
+Subject：Iaro，光标，小白
+
+Action：28.0s，Iaro慢慢转身，用0.8秒转过来面向光标，爆炸头随转身轻微颤动。28.8s，Iaro停住，面无表情地瞪着光标，眉毛压低，嘴角下拉，长长地从鼻子呼出一口气。29.0s，光标在画面右侧左右轻快地摇摆两下，一副无辜的样子。29.3s，画面左下角，巨犬的眼睛盯住了这颗又圆又弹的红色爆炸头，脑袋一歪，尾巴越摇越快，前爪压低身体，摆出扑球前的预备姿势。29.6s，Iaro的眼珠慢慢斜向巨犬。30.0s定格。
+
+Environment：巷子里的阳光打在爆炸头上，背景微虚。
+
+Camera：50mm近景，Iaro在画面中央，胸部以上加爆炸头完整入画，光标在右侧边缘，巨犬的脑袋从左下角入画。镜头静止。
+
+Style：喜剧节奏靠最后的停顿和眼神来出效果。
+
+Performance："真的假的？"只靠表情：先是无语，再是警惕，绝不开口。
+
+Constraints：禁止Iaro说话或张口。巨犬禁止真的扑上去，停在预备姿势。禁止出现字幕或文字。
+
+--------------------------------------------------------------------------------
+
+NEGATIVE / 全片负面约束：
+
+禁止任何文字、字母、数字、Logo、水印、字幕，禁止软件界面的文字菜单和工具栏。禁止对白和人声。禁止开场静止发呆。禁止Iaro的脸、服装、配饰偏离参考图或在镜头间漂移（只有SHOT 8的发型变化例外）。禁止假发套感的头发、塑料皮肤、浮肿卧蚕、CG蜡像脸。禁止变形带有恐怖、血腥或伤害感，巨犬禁止凶狠。禁止光标穿过人体，光标漂浮时必须有投影。禁止追逐方向反转。禁止物体悬空。禁止画面卡通化，所有编辑元素都必须像实物一样嵌在真实光线里。
+```
+
+</details>
+
+<a id="wan-jeweled-creatures-to-heels"></a>
+### Jewelled creatures turn into high heels
+
+<a href="https://x.com/TaliaAariz/status/2093213718540636649"><img src="previews/wan-jeweled-creatures-to-heels.jpg" width="360"></a>
+
+A repeating transformation: each step onto a creature turns it into a shoe. The pattern is stated once and the model repeats it.
+
+Wan 3.0 · Text-to-video · Source: [@TaliaAariz on X](https://x.com/TaliaAariz/status/2093213718540636649) · 186 likes on 2026-10-27
+
+[`fashion`](#tag-fashion) [`transformation`](#tag-transformation) [`cg`](#tag-cg)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hyper-realistic high-fashion CGI animation set in an opulent palace with marble floors, featuring a sequence where bare feet with matching manicured toenails step onto ornate, jewel-encrusted luxury creatures that magically transform into high-heeled shoes. First, a foot with red polished toes steps onto a ruby-and-gold jeweled snail, which unfolds and morphs into a breathtaking crimson gem-studded stiletto pump with delicate gold ankle straps. Next, a foot with blue nails steps onto a sapphire-blue jewel dragonfly, which transforms into a royal blue high heel adorned with shimmering iridescent wings at the heel. Finally, a foot with green nails steps onto a faceted emerald scarab beetle, which transforms into an elegant emerald stiletto featuring delicate butterfly wings, completing each transformation as the wearer steps forward in a luxury fashion showcase.
+```
+
+</details>
+
+<a id="wan-shadow-puppet-battle"></a>
+### Shadow-puppet theatre battle with a pair of scissors
+
+<a href="https://x.com/FellMentKE/status/2092617578338504970"><img src="previews/wan-shadow-puppet-battle.jpg" width="360"></a>
+
+Starts with a style block (CG, lighting, rendering terms), then the fight, then two plain bans: no music, no subtitles.
+
+Wan 3.0 · Text-to-video · Source: [@FellMentKE on X](https://x.com/FellMentKE/status/2092617578338504970) · 184 likes on 2026-10-27
+
+[`action`](#tag-action) [`martial-arts`](#tag-martial-arts) [`cg`](#tag-cg)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Style
+Hyper-realistic CG cinematography with detailed facial features, realistic skin and hair, cinematic lighting, soft shadows, physically accurate reflections, SSS, global illumination, RTX ray tracing, 4K HDR quality, and realistic cloth and rigid-body physics.
+
+Scene
+
+An ancient theater stage illuminated by flickering candlelight, surrounded by translucent shadow-puppet screens and hundreds of faceless wooden assassins.
+
+The female hero, based on Image 2, wears a dark-red opera costume with copper bells and oversized flowing sleeves. She remains elegant, cold, and completely composed throughout the battle.
+
+Shot 1 — 0–3s
+
+Low-angle FPV fly-through
+
+The camera moves beneath the theater stage as hundreds of wooden puppet assassins close in.
+
+The heroine calmly draws a tiny pair of black iron scissors from her sleeve, holding them delicately between her fingertips.
+
+Shot 2 — 3–5s
+
+Extreme close-up
+
+She gently blows cold air onto the scissors, creating visible white mist.
+
+The tiny scissors rapidly expand into enormous black iron shears.
+
+She says:
+
+“The performance is over. Time to take the final bow.”
+
+Shot 3 — 5–9s
+
+Rapid 180-degree orbit
+
+She launches into an elegant, theatrical combat sequence inspired by shadow puppetry.
+
+Each movement of the giant shears releases razor-sharp black energy blades that slice through the wooden assassins like paper puppets.
+
+Shot 4 — 9–13s
+
+Fast tracking shot
+
+She moves between the wooden pillars, using the environment to propel herself forward.
+
+The giant shears crack the floor and pillars while wood splinters and debris fill the air.
+
+Her flowing sleeves, hair, and copper bells react naturally to every movement.
+
+Shot 5 — 13–15s
+
+Low-angle wide shot · Dutch-angle dolly-in
+
+She lands and rests the giant shears on her shoulder.
+
+Behind her, the motionless assassins stand covered in precise cuts.
+
+With a small flick of her wrist, the entire theater cracks apart and collapses.
+
+Smoke, fire, and black ash fill the background as the image freezes on her cold, confident expression and fades to black.
+
+Audio
+
+Diegetic and action sounds only: wooden boards, copper bells, cold wind, breath, metallic transformation, weapon impacts, energy whooshes, splintering wood, and collapsing debris.
+
+No background music. No subtitles.
+```
+
+</details>
+
+<a id="wan-steampunk-detective-montage"></a>
+### Steampunk detective montage across five locations
+
+<a href="https://x.com/socialwithaayan/status/2092581849650593830"><img src="previews/wan-steampunk-detective-montage.jpg" width="360"></a>
+
+Opens mid-motion and keeps one sound element (a low cello) under every cut to hold the montage together.
+
+Wan 3.0 · Text-to-video · Source: [@socialwithaayan on X](https://x.com/socialwithaayan/status/2092581849650593830) · 152 likes on 2026-10-27
+
+[`montage`](#tag-montage) [`fast-cut`](#tag-fast-cut) [`steampunk`](#tag-steampunk) [`score`](#tag-score)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic, fast cutting steampunk detective montage in high fidelity live action, set in a fog choked industrial city at night. Open mid motion on a detective in a soot stained long coat crouched at the edge of a canal, gloved fingers pulling a cracked pocket watch from the water, gaslight smearing through the mist behind him. The camera pushes in hard on the watch face, second hand stuttering, then whip pans into a railway station where steam floods the platform and a torn ticket spins down onto wet cobbles. Cut to a low angle inside the clock tower, brass gears the size of wagon wheels turning past the lens while dust hangs in a single shaft of moonlight. Cut to the boiler room, orange furnace light raking across riveted pipes, water dripping off every surface, the detective's shoes ringing on the iron catwalk. Sudden zoom onto a brass plate bolted to a laboratory door, etched Qwen Create, condensation running down between the letters, his glove wiping it clean. Cut inside to the secret laboratory, copper coils throwing electric sparks that light one half of a face in the dark. Finish on the detective's eyes in tight close up as recognition hits, breath fogging, jaw setting.
+
+Keep the same fog density and gaslight warmth in every shot. Colour lives in the materials: wet black stone, green oxidised copper, worn brass, deep burgundy velvet, white steam.
+
+Handheld throughout, urgent but readable, one snap zoom per location and nothing else fancy.
+
+Diegetic sound only, no score: clock ticking, steam venting, a far off train whistle, leather soles on cobblestone, one low cello note under it all.
+
+Final frame holds two seconds on black, then clean white lettering fades up centre frame reading Qwen Create, and under it
+http://
+create.qwen.com. No other text or subtitles anywhere in the film.
+```
+
+</details>
+
+<a id="wan-time-space-train"></a>
+### Time-travelling train, one 30-second take
+
+<a href="https://x.com/johnAGI168/status/2092180177690194162"><img src="previews/wan-time-space-train.jpg" width="360"></a>
+
+Opens with a spec sheet (duration, ratio, format, style), then lists physical rules the scene must obey, such as passengers never teleporting.
+
+Wan 3.0 · Text-to-video · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2092180177690194162) · 129 likes on 2026-10-27
+
+[`long-take`](#tag-long-take) [`sci-fi`](#tag-sci-fi) [`world-building`](#tag-world-building)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Duration: 30 seconds
+Aspect Ratio: 16:9 Landscape
+Format: A truly continuous, uncut, no-frame-jump cinematic long take
+Overall Style: Hollywood sci-fi adventure blockbuster, hyper-realistic, epic scale, authentic physical motion, cinematic lighting and depth of field, delicate film grain, high dynamic range, cold-to-warm color shifts layer by layer.
+
+Subject:
+A modern and realistic urban train with an entire massive curved panoramic glass window. The shot is positioned at the rear of the carriage, capturing the front of the carriage with a 24mm wide-angle oblique angle: the left two-thirds is the panoramic window, the right one-third is handrails, hanging straps, and ordinary passengers. Passengers wear modern dark commuter attire, initially quiet and heads down on their phones. The train, carriage structure, seats, passenger positions, clothing, camera height, and focal length remain completely consistent throughout the 30 seconds. All time-space changes occur only outside the window.
+
+ONE CONTINUOUS TAKE (0-30 seconds):
+
+0-4 seconds:
+The train speeds through the edge of a modern city under overcast skies, with buildings, rivers, and utility poles outside the window creating realistic lateral motion blur. Carriage lights are steady, passengers heads down on phones. The shot maintains an oblique wide-angle composition, with only subtle realistic train vibrations. A calm female voice comes over the broadcast: "The time-space train is about to activate. Please remain seated."
+
+4-6 seconds:
+The train enters a dim tunnel, the city replaced by concrete walls, overhead lights quickly sweeping across the glass. The carriage gradually darkens. The tunnel walls continuously transform into rough, damp natural rock faces, using rocks close to the glass for a natural occlusion transition, with absolutely no cuts.
+
+6-12 seconds — Dinosaur Era:
+The rock cave suddenly opens, revealing sunlight piercing through mist outside the window: a prehistoric rainforest and vast Jurassic valley. Herds of Parasaurolophus run alongside the train, massive Apatosauruses slowly cross distant woodlands, Pteranodons soar across the sky. Foreground plants create fast motion blur, midground dinosaurs are sharp, distant volcanoes shrouded in mist form strong depth and parallax.
+At 10 seconds, a massive Tyrannosaurus Rex bursts from the woods, briefly paralleling the train, roaring thunderously close to the glass. Passengers simultaneously look up and turn toward the window, but without exaggerated scrambling. Golden sunlight and forest greens realistically project into the carriage.
+
+12-19 seconds — Volcanic Apocalypse:
+The T-Rex's enormous body sweeps across the frame, creating a natural occlusion. After the occlusion clears, the same prehistoric world has transformed into a volcanic wasteland in the midst of destruction. A super-volcano erupts violently in the distance, black volcanic clouds roiling upward, red-hot lava cascading from cliffs, ground fissures extending all the way to the train.
+The train races through a lava canyon at high speed, volcanic bombs streaking across the sky but not striking the carriage, a scorching shockwave chasing from behind. The glass reflects real firelight, the carriage shifting from golden to intense red-orange, passengers gripping handrails tightly, staring in shock out the window. Maintain realistic gravity, smoke, dust, and volcanic debris motion.
+
+19-22 seconds — Time-Space Submersion:
+The train plunges into a massive wall of volcanic steam, thick smoke, and white water vapor, the frame naturally obscured but the shot never interrupts. Red firelight rapidly shifts to deep blue, steam condensing into water droplets streaking across the glass. The train seamlessly crosses the time-space boundary into the deep sea; the carriage interior remains dry and intact, with no seawater intrusion.
+
+22-28 seconds — Undersea World:
+The white water vapor clears, revealing a vast, clear, profound blue ocean outside the window. Sunbeams pierce from the surface, colorful corals, seagrasses, schools of fish, sea turtles, and manta rays pass by at varying depths, creating spectacular parallax. A massive blue whale glides slowly overhead, its belly nearly covering the entire panoramic window, the scale utterly breathtaking. Cool blue rippling light flows naturally across the carriage and passengers' faces, all passengers gazing upward in quiet awe.
+
+28-30 seconds — Ultimate Reveal:
+The blue whale's tail fluke sweeps across the glass, forming the final natural occlusion. As the tail fluke departs, a grand lost civilization spanning the underwater canyon suddenly appears outside the window: glowing crystal spires, massive domes, ancient temples, and suspended tracks extending to the deep-sea horizon, countless manta rays weaving through the city skies. The train continues toward the brightly glowing time-space gate at the city's center.
+The shot maintains the original carriage composition, ending amid the silhouetted shocked gazes of all passengers, no fade-out, no cuts.
+
+Camera:
+Throughout: 24mm cinematic wide-angle, eye-level height, fixed two-thirds composition from the rear of the carriage obliquely forward; stabilizer texture combined with subtle train vibrations; realistic depth of field, glass reflections, foreground motion blur, and multi-layered parallax. The camera never leaves the carriage, never changes axis, never suddenly pushes in, rotates, or drifts.
+
+Sound:
+Continuous unified train track sounds as the audio anchor; tunnel echoes, dinosaur low-frequency footsteps and roars, volcanic explosions and lava rumbles, steam impact sounds, deep-sea submersion into low underwater ambience, whale songs. Sounds transition smoothly with scenes, cinematic surround sound, no background music, no excess dialogue.
+
+Continuity Constraints:
+The same train, same carriage, same group of passengers, same clothing, same seating layout, same window structure, same camera position throughout 30 seconds; scenes can only transition continuously via the train's forward motion, rock wall occlusions, smoke, steam, darkness, or large creatures passing by. The carriage does not deform, passengers do not teleport, creatures outside the window never enter the carriage.
+```
+
+</details>
+
+<a id="wan-temple-kung-fu"></a>
+### Kung fu duel in a temple courtyard at dusk
+
+<a href="https://x.com/LudovicCreator/status/2091103231753457853"><img src="previews/wan-temple-kung-fu.jpg" width="360"></a>
+
+Bracketed sections (`[PROJECT TYPE]`, `[Global Setting]`, …) and a closing checklist of what the fight must show.
+
+Wan 3.0 · Text-to-video · Source: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2091103231753457853) · 114 likes on 2026-10-27
+
+[`martial-arts`](#tag-martial-arts) [`action`](#tag-action) [`structured-prompt`](#tag-structured-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[PROJECT TYPE] Text-to-video. 30-second cinematic action sequence. Intense kung
+fu battle.
+
+[Global Setting] Traditional Chinese temple courtyard at dusk. Stone ground, red
+lanterns, ancient pillars. Dramatic atmospheric lighting. Gritty realistic combat
+cinematography.
+
+[Character 1  Master Martial Artist] Age 35-40, lean muscular build, traditional
+black kung fu gi, intense focused eyes, weathered face. Precise controlled
+movements. Absolute master of combat.
+
+[Character 2  Multiple Opponents] 3-4 trained fighters in red/dark gi attacking
+simultaneously. Skilled but facing a master. Brutal choreography.
+
+[Scene Description]
+
+[Opening, 0–3s] Wide shot of temple courtyard. Master stands alone, perfectly
+still, centered. Opponents circle him from all angles. Tension building. Rain
+begins falling. The master's breathing is calm and controlled. Opponents tense,
+ready. Silence before the storm.
+
+[First Exchange, 3–9s] FIRST OPPONENT ATTACKS  fast combination of kicks and
+punches. Master sidesteps with minimal movement, pure efficiency. Counter-strike
+master's hand snaps out HARD, opponent staggers backward violently. Second
+opponent presses in from different angle. Master blocks incoming kick with
+explosive impact (sparks from boot contact on stone). Sweeping kick from master
+opponent flies backward, crashes into pillar. HARD impacts, no mercy. Fast-cut
+action, realistic combat sounds.
+
+[Escalation, 9–18s] Multiple opponents attack SIMULTANEOUSLY now  coordinated
+assault. Master becomes ABSOLUTE WARRIOR. Rapid-fire strikes and blocks. Every
+movement is purpose-driven and brutal. One opponent launches spinning kick  master
+catches the leg mid-spin and THROWS them across the courtyard (hard slam on
+ground). Another attacks  master's palm strike connects with chest , opponent
+drops gasping. Third opponent attempts combo master weaves through each strike
+with minimal energy expenditure, then delivers devastating elbow strike to the
+face. Blood. Gritty realistic impacts. Master is untouched, breathing controlled.
+Opponents are outmatched completely.
+
+[SLOW-MOTION PEAK, 18–24s] Final standing opponent makes last desperate attempt
+launching powerful overhead strike. Time slows to 40% speed. Master's hand rises
+in perfect defensive position. Slow-motion shows the IMPACT  the sound echoes,
+slow and resonant. Master's muscles tense absorbing the strike. Master's face
+shows absolute concentration. Then master's OTHER hand moves in slow-motion
+palm strike aimed at opponent's chest in devastating counter. Slow-motion shows
+the movement trajectory, the focus, the power building. Impact happens in slow
+opponent's body recoils violently. Return to normal speed.
+
+[Final Moment, 24–30s] Last opponent flies backward, crashes hard against stone
+wall, crumples to ground. All opponents are down. Master stands in center of
+courtyard, completely untouched, breathing steady. Rain falling on his face. His
+expression is calm but intense. He takes one slow controlled breath. Stone ground
+is marked with impact points. Red lanterns flicker in wind. Master's presence is
+absolute and undeniable. Final frame: master looking directly forward, absolute
+confidence and skill.
+
+[Audio] Rain falling. Tense atmospheric buildup. Master's controlled breathing.
+Opponent footsteps and positioning. HARD impact sounds (realistic, meaty, brutal
+— not cartoonish). Bone-on-bone cracks. Heavy breathing from opponents. Master's
+breathing calm throughout. During slow-motion: all sounds deepen and stretch
+(impact becomes resonant). Final moment: just rain and master's steady breathing.
+
+[Visual Style]
+— Cinematic realistic martial arts
+— Dynamic camera angles (tracking, close-ups, wide shots)
+— Slow-motion on key impacts
+— Rain and atmospheric lighting
+— Blood and gritty realism
+— Precise choreography showing skill
+— Temple setting cinematic framing
+— Master dominates completely
+
+[Tone] Serious, brutal, masterful. This is a display of absolute martial skill.
+Respect for the combat but no mercy. Dark and gritty. The master is unstoppable.
+
+[Consistency]
+— One master throughout (untouched, calm)
+— Multiple opponents (becoming increasingly desperate)
+— Temple courtyard location
+— Rain constant
+— Action escalates then peaks
+— Master's superiority clear
+— Realistic brutal combat
+```
+
+</details>
 
 <a id="minimaxh3"></a>
 ## MiniMax H3
@@ -120,6 +1204,894 @@ MiniMax H3 · Text-to-video · Source: [MiniMax H3 model card](https://huggingfa
 integrated_multimodal_description: [Shot 1] Cinematic, medium wide shot, pushing in slowly. In the cavernous, dimly lit bridge of a starship, sleek metallic consoles with glowing amber displays flank a massive, curved observation window. A female captain, in her late 40s with an athletic build and short silver-streaked black hair, stands in the center midground. She wears a structured, high-collared dark navy military tunic with silver chest insignias. Her back is to the camera, silhouetted against the cool, ambient starlight pouring through the thick glass. She stands perfectly still with her hands clasped tightly behind her back. Outside the window, a massive armada of jagged, dark grey dreadnoughts hovers in tight formation against a deep purple space nebula. The fleet's massive rear thrusters begin to glow with an intense, escalating bright blue light. [Shot 2] At 00:04.500, the camera cuts to a close-up of the captain's face and shakes strongly. The brilliant blue-white light from the fleet's gathering energy reflects vividly in her dark eyes. Suddenly, a blinding white flash floods through the window, completely washing out the background as the fleet jumps to hyperspace. The sheer spatial force violently jolts the bridge, causing the captain from Shot 1 to stagger slightly forward, her shoulders tensing as she visibly braces herself against the physical tremors. As the intense white light fades abruptly, leaving only the dim, empty expanse of the purple nebula reflected on her starkly lit skin, her jaw clenches, and she slowly closes her eyes in the newly emptied space.
 overall_soundscape: A low, resonant hum of the ship's ambient life support systems serves as the baseline, soon drowned out by an audible, escalating, high-pitched electronic whine as the fleet outside charges its hyperdrives. A massive, deafening, bass-heavy boom and sharp crackle erupts during the blinding flash, accompanied by the loud metallic creaking, rattling, and deep thuds of the bridge's bulkheads vibrating under immense physical stress. The intense roaring impact then cuts abruptly back to a hollow, echoing room tone, leaving only the faint, steady hum of the isolated bridge.
 non_diegetic_music: Cinematic space-opera orchestral score, slow tempo, featuring a solitary, mournful French horn melody over deep, sustained string dissonances that build rapidly in volume and intensity, swelling to a massive orchestral peak before snapping immediately into silence right after the jump.
+```
+
+</details>
+
+<a id="seedance25"></a>
+## Seedance 2.5
+
+<a id="seedance-seoul-subway-revenge"></a>
+### Seoul subway revenge comedy
+
+<a href="https://x.com/AIwithSynthia/status/2108760866422415701"><img src="previews/seedance-seoul-subway-revenge.jpg" width="360"></a>
+
+Sets the camera language in the first line (handheld, fluorescent, real time), then plays the gag in clear beats and spells out what must stay visible at the end.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2108760866422415701) · 10,056 likes on 2026-10-27
+
+[`action`](#tag-action) [`comedy`](#tag-comedy) [`handheld`](#tag-handheld) [`subtitles`](#tag-subtitles)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use realistic handheld camera movement, cold fluorescent lighting, teal-green accents, and real-time action.
+
+A Korean woman in her 20s with a black bob, sunglasses on her head, a fitted crop top, high-waisted blue jeans, black boots, and a brown shoulder bag descends the subway stairs holding a takeaway coffee. A Korean man with messy dark hair and blonde tips, wearing a dark-green bomber jacket, suddenly hits her from behind and laughs as she stumbles against the handrail. Furious, she chases him onto the platform as he boards a train and mocks her through the closing glass doors.
+
+She punches the glass, creating a dramatic crack and opening. As she confronts him, her coffee cup slips from her hand, falls to the platform, and spills visibly across the floor. She grabs his jacket, forcefully throws him through the air, and sends him crashing into a large metal rubbish bin. The bin rattles and wobbles as he lands inside, looking terrified and humiliated.
+
+She leans toward him and says, "Don't mess around." She then calmly walks away while he remains stuck in the bin.
+
+Maintain identical faces, hairstyles, outfits, and location throughout. Include realistic physics, expressive reactions, cinematic close-ups, subway ambience, and clear white subtitles. Keep the action non-gory, the coffee spill visible, and the final dustbin landing unmistakable.
+```
+
+</details>
+
+<a id="seedance-seoul-summer-evening-vlog"></a>
+### A summer evening in Seoul, shot like a home video
+
+<a href="https://x.com/AIwithkhan/status/2092971211169100048"><img src="previews/seedance-seoul-summer-evening-vlog.jpg" width="360"></a>
+
+Pure text, no reference image. Realism comes from asking for small accidents and imperfect camcorder operation.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2092971211169100048) · 6,187 likes on 2026-10-27
+
+[`vlog`](#tag-vlog) [`ugc`](#tag-ugc) [`realism`](#tag-realism) [`home-video`](#tag-home-video)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Korean woman. No reference image.
+
+MAIN SUBJECT
+
+Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and approachable personality.
+
+Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace.
+
+Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.
+
+SETTING
+
+A quiet older Seoul residential neighborhood during a warm summer evening. Narrow concrete lanes, small houses, potted plants, bicycles, old walls, utility poles, overhead wires, a tiny neighborhood bakery, a public water tap and large leafy trees casting shadows across the street.
+
+Everything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.
+
+CAMERA / VISUAL AESTHETIC
+
+Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.
+
+Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.
+
+No stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.
+
+ — OUTSIDE THE HOUSE
+
+She steps outside carrying a small reusable shopping bag. She locks the door, adjusts her messy ponytail and looks toward the camera with a relaxed smile.
+
+A light summer breeze moves her hair as she starts walking down the lane.
+
+ — BAKERY STOP
+
+She reaches a tiny neighborhood bakery and buys a warm pastry.
+
+She steps outside, takes her first bite and immediately smiles because it tastes good.
+
+She notices her friend filming and holds the pastry toward the camera playfully before taking another bite.
+
+— WALKING HOME
+
+She continues down the narrow street while eating.
+
+A neighborhood cat follows her for a few steps. She notices it, crouches down and gently pets it.
+
+The cat walks away and she laughs before continuing.
+
+ — SMALL ACCIDENT
+
+She walks beneath a large tree when a few leaves fall onto her hair.
+
+She stops, looks confused, then realizes what happened and laughs.
+
+She brushes the leaves away while her friend zooms awkwardly toward her face.
+
+She looks directly into the camera and says:
+
+"Seriously?"
+
+ — QUIET MOMENT
+
+She reaches a low concrete wall beside the street and sits down for a moment.
+
+She finishes the pastry while watching bicycles and neighbors passing through the lane.
+
+A gentle breeze moves her hair. She casually fixes her ponytail and looks around peacefully.
+
+ — FINAL MOMENT
+
+She stands up and continues walking home.
+
+After a few steps, she turns back toward the camera with a small playful smile and says:
+
+"Come on."
+
+She keeps walking down the sunny lane while the camera follows behind.
+
+She disappears around the corner and the recording abruptly cuts to black.
+
+AUDIO
+
+Natural location sound only: birds, summer insects, footsteps, bicycle bells, distant scooters, leaves moving in the breeze, bakery sounds, neighborhood conversations and subtle camera-handling noise.
+
+No music. No narration. No artificial sound effects.
+
+Only the two spoken lines specified above.
+
+FINAL FEEL
+
+The entire video should feel like a forgotten summer recording from the early 2000s.
+
+Warm, feminine, casual, slightly playful, intimate and nostalgic.
+
+No dramatic events, no exaggerated acting, no model poses and no polished cinematic shots.
+
+The realism should come from ordinary surroundings, natural expressions, small accidents, realistic environmental movement and imperfect camcorder operation.
+```
+
+</details>
+
+<a id="seedance-katsudon-anime-cooking"></a>
+### Katsudon cooked in fast-cut anime style
+
+<a href="https://x.com/Goodmanprotocol/status/2098845134326808734"><img src="previews/seedance-katsudon-anime-cooking.jpg" width="360"></a>
+
+Opens with an explicit ban on imitating any existing anime, then walks through the recipe step by step so every cut has a job.
+
+Seedance 2.5 · Text-to-video · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098845134326808734) · 4,935 likes on 2026-10-27
+
+[`anime`](#tag-anime) [`food`](#tag-food) [`fast-cut`](#tag-fast-cut)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirely from the text description below.
+
+IMPORTANT: Do not display, recreate, trace, reference, or imitate any storyboard, sketch, reference image, panel, annotation, or source material. Generate only original anime-style animation.
+
+STYLE
+
+High-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro close-ups, smooth camera movement, warm Japanese kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition.
+
+TIMELINE
+
+0–2.5s — Prepare Pork
+Close-up of hands pounding a thick pork loin with a wooden mallet on a cutting board. The meat gradually flattens and its fibers loosen. Sprinkle salt and pepper evenly. Crisp rhythmic impacts.
+
+2.5–5s — Bread the Pork
+Quick match cuts: press the pork into flour, dip into beaten egg, then firmly coat with coarse panko breadcrumbs. Show realistic egg dripping and breadcrumbs adhering to the surface.
+
+5–7.5s — Fry
+Lower the breaded pork into hot golden oil. Intense bubbling surrounds the cutlet as the crust turns golden brown and crispy. Warm cinematic lighting and detailed oil movement.
+
+7.5–9.5s — Slice
+Place the fried tonkatsu on a wooden board. A sharp knife cuts it into even strips. The crispy crust cracks naturally, revealing juicy white pork with gentle steam escaping.
+
+9.5–12s — Simmer Dashi & Onion
+Thinly sliced onions gently simmer in amber dashi inside a shallow pan. Small bubbles rise while the onions become translucent. Chopsticks gently move them through the broth.
+
+12–14s — Add Tonkatsu
+Place the sliced tonkatsu carefully over the simmering onions using chopsticks. The broth begins soaking into the crispy edges while steam rises.
+
+14–16.5s — Pour Egg
+Slowly pour beaten golden egg over the tonkatsu and onions. The egg spreads naturally through the gaps and begins setting around the hot edges.
+
+16.5–19s — Set the Egg
+Close-up of the egg gently coagulating over low heat. Edges become soft and golden while the center remains glossy, slightly runny, and trembling. No stirring.
+
+19–21s — Prepare Rice
+A white ceramic donburi bowl receives a generous mound of steaming Japanese short-grain rice. The rice looks fluffy and slightly glossy.
+
+21–24s — Assemble
+Carefully slide the egg-and-tonkatsu mixture from the pan onto the rice. The egg settles naturally in a soft wave while dashi lightly absorbs into the rice.
+
+24–26s — Final Close-Up
+The finished katsudon rests on the counter. Glossy egg slowly settles over the tonkatsu and rice, gently trembling. Slow cinematic push-in.
+
+26–30s — Hero Reveal
+Present the finished katsudon in a traditional blue-and-white ceramic bowl on a wooden surface. Golden egg covers crispy tonkatsu over glossy rice, topped with fresh mitsuba. Steam rises as the camera slowly arcs around the bowl for a beautiful anime-food-film ending.
+
+AUDIO
+
+Bright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: mallet impacts, knife slicing, frying sizzle, bubbling dashi, chopsticks, egg pouring, steam, and a soft ceramic clink.
+
+End with one delicate wind-chime tone during the final reveal.
+
+NEGATIVE
+
+No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, or text overlays. No unrelated ingredients or dishes. Katsudon only. Keep the food, hands, utensils, lighting, and environment visually consistent throughout.
+```
+
+</details>
+
+<a id="seedance-rainy-morning-university-vlog"></a>
+### Rainy morning, coffee, walk to university
+
+<a href="https://x.com/nawalsehar/status/2103337966416621703"><img src="previews/seedance-rainy-morning-university-vlog.jpg" width="360"></a>
+
+Under 1,000 characters for 30 seconds. A tight routine plus a short list of failure modes to avoid.
+
+Seedance 2.5 · Text-to-video · Source: [@nawalsehar on X](https://x.com/nawalsehar/status/2103337966416621703) · 4,181 likes on 2026-10-27
+
+[`vlog`](#tag-vlog) [`realism`](#tag-realism) [`morning-routine`](#tag-morning-routine)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic live-action university vlog of a European brunette in her mid-20s waking to a rainy morning, making coffee, getting ready, grabbing her umbrella, walking through a wet city, and arriving at university just before class.
+
+Modern smartphone vlog style: natural handheld movement, subtle shake, autofocus changes, realistic rain, puddles, reflections, traffic, umbrellas, wet clothing, natural expressions and believable human movement.
+
+Dialogue: “Good morning… apparently, it’s raining.” → “First coffee. Then lecture.” → “Two minutes early. I’m impressed.” → “Okay, made it.”
+
+Natural diegetic audio only. No music, narration, CGI look, artificial rain, face changes, distorted anatomy, impossible physics, subtitles, logos or watermark.
+
+16:9 • 24fps • 4K • Ultra-photorealistic live action
+```
+
+</details>
+
+<a id="seedance-diner-frozen-time-rewind"></a>
+### 1950s diner: time freezes, then rewinds
+
+<a href="https://x.com/techhalla/status/2083389002552664385"><img src="previews/seedance-diner-frozen-time-rewind.jpg" width="360"></a>
+
+A single effect carried for 30 seconds. The diner is described once in detail so the freeze and rewind read clearly against it.
+
+Seedance 2.5 · Text-to-video · Source: [@techhalla on X](https://x.com/techhalla/status/2083389002552664385) · 2,873 likes on 2026-10-27
+
+[`vfx`](#tag-vfx) [`time-freeze`](#tag-time-freeze) [`period`](#tag-period)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+
+0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
+
+4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
+
+8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
+
+17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.
+
+24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
+
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+```
+
+</details>
+
+<a id="seedance-lab-containment-breach"></a>
+### Lab containment breach, sci-fi horror
+
+<a href="https://x.com/auqibhabib/status/2099725768310009982"><img src="previews/seedance-lab-containment-breach.jpg" width="360"></a>
+
+Asks for an immediate hook and grounded practical effects, which keeps the creature from looking like CGI.
+
+Seedance 2.5 · Text-to-video · Source: [@auqibhabib on X](https://x.com/auqibhabib/status/2099725768310009982) · 2,425 likes on 2026-10-27
+
+[`horror`](#tag-horror) [`sci-fi`](#tag-sci-fi) [`action`](#tag-action)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic sci-fi horror-action short film set in a research laboratory, opens with an immediate strong hook, natural realistic pacing, grounded practical-effects style. Lab filled with steel equipment, glass containment tubes, monitors, specimen tables, harsh fluorescent lighting. Five scientists in lab coats work at various stations. Natural handheld camera work, muted authentic color grading, all sound fully natural and diegetic — no music, no artificial sound design until the tension score kicks in.
+>
+> **[0-1s]** Hard cut: a containment tube shatters violently, glass exploding across the lab floor.
+>
+> **[1-2s]** A small dark parasite creature skitters out fast, latching instantly onto a scientist's neck.
+>
+> **[2-3s]** He screams, collapsing to his knees, the others recoiling in shock.
+>
+> **[3-4s]** Dark veins pulse rapidly beneath his skin, visible even through his collar, his body convulsing.
+>
+> **[4-5s]** His eyes turn a deep obsidian black — he rises, movements jerky and unnatural.
+>
+> **[5-6s]** He lunges at the nearest colleague, parasite tendrils extending from his mouth toward her.
+>
+> **[6-7s]** She's caught, tendrils latching onto her neck, her scream cutting short.
+>
+> **[7-8s]** Veins spread fast across her too, body convulsing against a lab table, equipment crashing down.
+>
+> **[8-9s]** She rises seconds later, eyes black, joining him, both turning toward the remaining three.
+>
+> **[9-10s]** The three scientists scramble back, one grabbing a fire axe from an emergency case on the wall.
+>
+> **[10-11s]** The two infected charge fast, jerky inhuman movements, tendrils whipping from their jaws.
+>
+> **[11-12s]** The lead scientist swings the axe hard into the first infected — a solid impact, it staggers into a specimen table, equipment shattering.
+>
+> **[12-13s]** A second scientist grabs a fire extinguisher, blasting the other infected in the face, it recoils, tendrils flailing.
+>
+> **[13-14s]** The third scientist shoves a steel cart into the staggering infected's path, sending it crashing down.
+>
+> **[14-15s]** Both infected collapse motionless, twitching, tendrils retracting slowly.
+>
+> **[15-16s]** The three survivors regroup, breathing hard, scanning the wrecked lab for more movement.
+>
+> **[16-17s]** Wide shot: broken glass and toppled equipment everywhere, alarm lights beginning to flash red.
+>
+> **[17-18s]** A third containment tube behind them starts cracking, unnoticed by the group.
+>
+> **[18-19s]** It shatters suddenly — another parasite creature launches out fast.
+>
+> **[19-20s]** The lead scientist spins just in time, swinging the axe and slicing it out of the air mid-leap.
+>
+> **[20-21s]** It hits the floor, motionless, dark fluid spreading slightly beneath it.
+>
+> **[21-23s]** The group presses their backs together, weapons raised, scanning every corner of the lab.
+>
+> **[23-25s]** Emergency lights flash steadily red, alarm klaxon blaring through the facility.
+>
+> **[25-27s]** The lead scientist gestures toward the exit; they move together cautiously, stepping over debris and fallen colleagues.
+>
+> **[27-29s]** They reach the heavy lab door, the lead scientist sealing it shut behind them with a hard mechanical clang.
+>
+> **[29-30s]** Final shot: the three survivors lean against the sealed door, breathing hard, alarm lights flashing red across their exhausted faces. Cut to black.
+>
+> Natural diegetic sound throughout — glass shattering, guttural convulsions, screaming, metal impacts, alarm klaxon, heavy breathing — layered with a tense instrumental score building through the fight and easing at the end. No text overlay, no watermark. Natural handheld camera with realistic shake during action, muted clinical color grading.
+```
+
+</details>
+
+<a id="seedance-woman-in-storm-crowd"></a>
+### A woman stands still while the crowd moves in sync
+
+<a href="https://x.com/AIwithkhan/status/2099707375943066094"><img src="previews/seedance-woman-in-storm-crowd.jpg" width="360"></a>
+
+Uploaded images lock the woman, the crowd and the framing. The text only directs motion and lists what must not appear.
+
+Seedance 2.5 · Reference-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2099707375943066094) · 2,128 likes on 2026-10-27
+
+[`fashion`](#tag-fashion) [`crowd`](#tag-crowd) [`reference-images`](#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman, crowd, wardrobe, framing, and atmosphere.
+A young woman with the same short dark bob wears a fitted black turtleneck, black trousers, and black shoes, standing confidently at the center of a large crowd.
+Start with her walking slowly toward the middle of the crowd, calm and expressionless, with a lit cigarette naturally held between her lips.
+She reaches the center, stops, and faces directly into the camera.
+She takes one slow drag from the cigarette, then removes it from her mouth.
+She slowly exhales a visible stream of smoke toward the camera, with the smoke naturally drifting across her face.
+She lowers her hand and becomes completely still, staring directly into the lens.
+The entire crowd behind her remains frozen for a brief moment.
+Suddenly, everyone behind her begins moving in perfect synchronization — sharp head turns, shoulder jerks, folding forward and snapping upright.
+The movement should feel rhythmic, strange, powerful, and physically realistic.
+The woman does not move at all while the entire crowd moves behind her.
+Slowly push the camera closer to her, keeping her sharply focused while the crowd has subtle depth-of-field blur.
+Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothing, cigarette ember, and physically accurate smoke.
+Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.
+```
+
+</details>
+
+<a id="seedance-ugc-night-yacht"></a>
+### Friends film a night out on a phone
+
+<a href="https://x.com/mightyking/status/2089299068514148655"><img src="previews/seedance-ugc-night-yacht.jpg" width="360"></a>
+
+Starts by naming the camera operator (a friend walking with the group). Everything about the shake and framing follows from that.
+
+Seedance 2.5 · Text-to-video · Source: [@mightyking on X](https://x.com/mightyking/status/2089299068514148655) · 2,038 likes on 2026-10-27
+
+[`ugc`](#tag-ugc) [`vertical`](#tag-vertical) [`realism`](#tag-realism) [`handheld`](#tag-handheld)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
+
+Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
+
+Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
+```
+
+</details>
+
+<a id="seedance-dragon-bakes-bread"></a>
+### A woman teaches a dragon to bake heart-shaped bread
+
+<a href="https://x.com/ElsaSofia__AI/status/2113089111699673461"><img src="previews/seedance-dragon-bakes-bread.jpg" width="360"></a>
+
+Short and specific: colours of the dragon, one hard rule (all bread heart-shaped), and a mood word to end on.
+
+Seedance 2.5 · Text-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2113089111699673461) · 1,430 likes on 2026-10-27
+
+[`fantasy`](#tag-fantasy) [`creature`](#tag-creature) [`food`](#tag-food)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic medieval fantasy film. Warm sunlight, stone cottage, wooden table, iron grill. Colossal dragon with pale pink-white scales, pink spines and golden eyes. All bread must be heart-shaped. Realistic fire, food textures, natural physics.
+0-5s: Heroine arranges raw heart-shaped dough on the grill. Dragon sniffs eagerly, then blasts enormous flames! Fire engulfs the dough. She jumps back: "Whoa! Easy! You're making bread, not dragon food!"
+5-10s: A charred heart-shaped loaf smokes on the grill. Dragon looks guilty, hiding its head. She shows the burnt bread, then smiles and replaces it: "Look. Just a little flame. Can you do that?"
+10-17s: Dragon carefully releases a tiny steady flame beneath the grill. Heart-shaped dough rises, forming a golden crust. Steam rises as dragon watches nervously.
+17-23s: She cuts open the crispy heart-shaped bread, revealing a soft fluffy center. "You did it! Perfect!" Dragon tries to eat it all. She laughs and feeds it a small piece.
+23-30s: Dragon nuzzles her for affection. She strokes its scales, shares more heart-shaped bread. Dragon closes its eyes happily, tail wagging. Wide sunset shot, warm and healing.
+Cinematic lighting, detailed scales, realistic flames, expressive acting. No subtitles, narration, logos or watermark.
+```
+
+</details>
+
+<a id="seedance-toddler-copies-shaving"></a>
+### Toddler copies dad's shaving with soap foam
+
+<a href="https://x.com/Zarnab_with_Ai/status/2106560621932384657"><img src="previews/seedance-toddler-copies-shaving.jpg" width="360"></a>
+
+Vertical 3D family comedy. One clear setup, one gag, one laugh.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2106560621932384657) · 1,379 likes on 2026-10-27
+
+[`3d-animation`](#tag-3d-animation) [`family`](#tag-family) [`comedy`](#tag-comedy) [`vertical`](#tag-vertical)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a heartwarming and funny ultra-realistic 3D animated cinematic video in vertical 9:16 format.
+
+Scene: A cute little toddler boy is sitting on the bathroom floor in front of a dark blue liquid soap dispenser. His father is standing behind him in front of a large bathroom mirror, shaving his own face with a razor.
+
+The toddler curiously watches his father and decides to imitate him. He presses the soap dispenser and playfully covers his eyebrows, cheeks, upper lip, and chin with thick white shaving foam, creating a funny oversized Santa-style beard and eyebrows.
+
+The father notices what the child has done and looks surprised and amused. The toddler proudly stands up, grabs a wooden floor broom, and walks toward the bathroom doorway as if he is going to help clean.
+
+The mother appears at the doorway holding folded white towels. She looks at the toddler, realizes what happened, and starts laughing. The father also looks at his little son and bursts into laughter.
+
+End with the toddler standing proudly between his laughing parents, still covered in shaving foam, smiling innocently at the camera.
+
+Style: high-quality 3D animated family comedy, adorable toddler expressions, realistic body movement, detailed facial animation, warm bathroom lighting, cinematic depth of field, soft shadows, realistic textures, natural camera movement, expressive reactions, wholesome family humor.
+
+Keep the characters consistent throughout the entire video. Preserve the toddler's hairstyle, clothing, facial features, and proportions. Smooth motion, believable hand movements, natural eye direction, cinematic composition, highly detailed animation, no text, no subtitles, no watermark.
+```
+
+</details>
+
+<a id="seedance-friday-morning-seoul"></a>
+### Friday morning walk in an old Seoul neighbourhood
+
+<a href="https://x.com/AIwithkhan/status/2103329257149898940"><img src="previews/seedance-friday-morning-seoul.jpg" width="360"></a>
+
+Character comes from a reference image. The closing list of bans (beauty filter, changing outfit) keeps her stable for 30 seconds.
+
+Seedance 2.5 · Reference-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2103329257149898940) · 1,124 likes on 2026-10-27
+
+[`vlog`](#tag-vlog) [`character-consistency`](#tag-character-consistency) [`reference-images`](#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-realistic personal home-video of a young Korean woman enjoying a relaxed Friday morning in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, silver necklace, and overall appearance perfectly consistent.
+
+She leaves her home with a cheerful expression and walks casually through the quiet neighborhood. She reaches a nearby outdoor water tap, stops, splashes cool water onto her face, wipes her face with her hands, smiles and continues walking.
+
+She arrives at a small neighborhood shop and buys a colorful lollipop for herself. She unwraps it immediately, puts it in her mouth and happily enjoys the candy while walking through the street.
+
+A few school children pass by carrying their backpacks. She smiles, waves at them and casually says, “Hello!” as they walk past.
+
+She then approaches a newspaper seller outside a small local shop, picks up a newspaper, gives him a few coins, thanks him with a smile and starts walking back toward home while holding the newspaper.
+
+Near the end, she looks toward the camera with a happy smile, still enjoying her lollipop, and says, “Happy Friday!” before continuing home.
+
+Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms and authentic home-video imperfections. Natural Seoul neighborhood ambience only — footsteps, running water, children talking, shop sounds, newspaper rustling, distant traffic, birds and summer insects. No music, no narration, no subtitles, no polished commercial cinematography, no beauty-filter skin, no CGI look, no duplicate characters, no changing face, hairstyle or outfit.
+```
+
+</details>
+
+<a id="seedance-selfie-skincare-ugc"></a>
+### Selfie-style skincare UGC ad
+
+<a href="https://x.com/abxxai/status/2095179656802844727"><img src="previews/seedance-selfie-skincare-ugc.jpg" width="360"></a>
+
+Third step of a thread: a character sheet and a product shot go in as references, and the prompt insists `Not an ad` to get the self-filmed feel.
+
+Seedance 2.5 · Reference-to-video · Source: [@abxxai on X](https://x.com/abxxai/status/2095179656802844727) · 1,017 likes on 2026-10-27
+
+[`ugc`](#tag-ugc) [`product-ad`](#tag-product-ad) [`vertical`](#tag-vertical) [`reference-images`](#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A 15-second vertical (9:16) ultra-photorealistic close-up vlog clip, filmed on a phone held at arm's length. Not an ad. A girl talking to her own camera at the end of the day, the way people actually film themselves.
+TALENT —
+Young woman, early-to-mid 20s. Long light-brown hair with soft caramel balayage, middle part, loose undone waves, a few strands stuck to her cheek. Fair-to-light-tan skin with visible freckles across the nose and cheeks, thick natural brows, blue-green eyes, bare face, small blue resin hoop earrings, thin gold chain with a small pearl pendant. Face, freckles, hair and eye color must 100% match the reference. Oversized white linen button-down over a fitted white ribbed top, fully covered, collar slightly crooked, sleeves pushed up.
+PRODUCT —
+LANEIGE Water Sleeping Mask_EX, 70 ml. Frosted translucent light-blue glass jar, smooth matte cobalt-blue screw lid. Front label reads, in this exact order: "LANEIGE" in wide-spaced capitals, "WATER SLEEPING MASK_EX" below it, then "SLEEPING MICROBIOME" and "BRIGHTENING · HYDRATING · SOFTENING" in smaller pale-yellow type, then "70 ml" at the base. Inside, thick pale mint-blue gel with a wet glossy surface that holds a soft peak. Shape, color, gel texture and all label text must 100% match the reference, correctly spelled, legible whenever in focus.
+LOCATION
+A villa bedroom at golden hour. Only fragments read in frame because the camera is so tight: white stucco wall, a corner of rumpled white linen bedding, blurred bougainvillea and olive leaves through an open door behind her. The background stays soft and mostly out of focus the entire time.
+LIGHTING
+One condition, unchanged across all four beats. Low warm sun from frame-left through the open door, roughly 4800K, soft white-wall bounce filling the shadow side of her face. Warm rim on the left edge of her hair and jaw. Slight blown highlight where the sun clips her cheek. No ring light, no fill, no glam lighting.
+FRAMING
+Close-up throughout. Her face fills most of the frame in every beat, chin to just above the hairline, never wider than upper-chest. The jar enters frame close to her face, never held out toward the lens.
+0:00–0:04
+Visual: Tight front-camera close-up, slightly below eye level. She's mid-motion already, pushing hair off her face with the back of her wrist. She glances just off-lens, checking her own image, then back. The jar comes up beside her cheek, held low and casual, only the top half in frame, lid already off. A slow exhale through the nose.
+Camera: Selfie camera, arm's length, natural handheld drift, one quick autofocus hunt between her face and the jar.
+Dialogue: "Okay. Last thing, then bed."
+0:04–0:07
+Visual: She tips the jar slightly and drags two fingertips through the gel. Macro-tight: her fingertips, the wet mint-blue surface, a fine thread of gel stretching and snapping. The "LANEIGE" and "WATER SLEEPING MASK_EX" lines cross the frame in focus for a beat. Her face stays partly in frame at the edge, out of focus.
+Camera: Same front camera pushed in close, shallow focus, rack from the label to the gel on her fingers.
+Dialogue: "It's cold, by the way."
+0:07–0:11
+Visual: Back to her face, closer now. She taps the gel across one cheek, her forehead, her chin, then presses it in flat-palmed, working outward. The gel flashes milky over her skin, then settles clear with a faint sheen. She winces at the cold, blinks it off, keeps going. Freckles, pores and natural under-eye shadows stay visible right through the layer. She's talking while working, not pausing for the line.
+Camera: Selfie camera, very close, small handheld corrections, a slow drift as she turns her cheek toward the light.
+Dialogue: "Thin layer. You don't wash it off."
+0:11–0:15
+Visual: Closest framing of the clip. She presses two fingertips against her cheek and lets them lift, feeling the faint tack. Turns her head slowly through the low sun, checking the sheen along her cheekbone, eyes tracking her own reflection in the screen rather than the lens. A short nod. The corner of the blue jar sits soft-focus in the lower frame edge, label partly readable. She reaches to stop the recording and the frame tilts as her hand moves.
+Camera: Selfie camera, slow handheld orbit from three-quarter profile to straight-on, ending on her face filling the frame, then a small tilt as she reaches.
+Dialogue: "Morning me is gonna be so happy."
+PERFORMANCE
+End-of-day, low energy, unperformed. She talks the way someone talks while doing something else, lines half-thrown-away, not projected. Micro-behavior carries the beats: a slow blink, a genuine flinch at the cold, a half-smile that arrives late, eyes checking her own reflection instead of the lens, one natural swallow, visible breath, a small unconscious head tilt. No presenter voice, no bright delivery, no exaggerated reactions, no pointing at the product.
+VOICE
+Soft, slightly flat, close to the mic because the phone is at arm's length. Natural room tone around it. Unhurried, a little tired. Ordinary speaking volume with a touch of breath on the ends of words.
+REALISM
+Pore-level skin realism: visible pores across the nose and cheeks, fine forehead texture, natural freckling, faint under-eye shadows, a small blemish near the jaw, stray flyaway hairs catching the backlight, vellus hair on the cheek edge. Wet living eyes with catch-lights and natural asymmetric blinking. The gel reads as a real cosmetic layer refracting light on top of her skin, never replacing its texture.
+PHYSICS
+Gel holds a soft peak on her fingertip and slumps under pressure. Hair moves with real inertia and a few strands fall back across her face. Linen creases and drapes naturally. The jar has real weight and correct contact shadow against her hand. Camera weight shifts naturally with her arm.
+CAMERA CHARACTER
+Authentic modern smartphone selfie footage. Natural handheld tremor throughout, small framing corrections, quick autofocus hunts, mild wide-angle distortion at close range, natural rolling shutter, real motion blur, slight sensor noise in the shadow side. Never feels stabilized or operated by anyone else.
+STYLE
+Real personal vlog, iPhone-shot look, high-end photorealistic quality. Warm golden-hour daylight, real ambient evening atmosphere, no retouching, no skin smoothing, no product-hero framing, no before/after transformation, no commercial polish.
+OUTPUT SETTINGS
+9:16 vertical. 15 seconds. Real-time motion. High-detail photorealistic 8K intent. Natural smartphone motion blur and subtle sensor noise.
+POSITIVE LOCKS
+ keeps the same face, freckles, hair, earrings, necklace and white linen shirt over white ribbed top in every beat, fully covered throughout.
+ stays the same frosted blue jar with matte cobalt lid, correct one-hand size, label text correctly spelled and legible whenever in focus, sharpest in the 0:04–0:07 beat.
+Exactly two arms and two hands visible, anatomically correct with five fingers, one hand always holding the phone.
+Same room, same wardrobe, same golden-hour lighting from first frame to last.
+Close-up framing held throughout, her face dominant in every beat.
+Spoken dialogue exactly as written, in order, at the stated timings, with accurate natural lip-sync.
+Natural ambient audio only: faint breeze, distant birds, the small click of the lid, room tone. No music, no on-screen text, no captions, no subtitles, no logos other than the product's own packaging.
+```
+
+</details>
+
+<a id="seedance-mall-zombie-outbreak"></a>
+### Zombie outbreak in a busy shopping mall
+
+<a href="https://x.com/auqibhabib/status/2104107269206237325"><img src="previews/seedance-mall-zombie-outbreak.jpg" width="360"></a>
+
+Starts in normal trading hours so the outbreak has something to break. Ends on a quiet beat instead of an explosion.
+
+Seedance 2.5 · Text-to-video · Source: [@auqibhabib on X](https://x.com/auqibhabib/status/2104107269206237325) · 1,002 likes on 2026-10-27
+
+[`horror`](#tag-horror) [`action`](#tag-action) [`crowd`](#tag-crowd)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a photorealistic live action horror short film set inside a busy modern shopping mall during normal operating hours. The scene must feel like a real emergency captured by a human handheld camera operator, not a choreographed action movie. Prioritize realistic human behavior, believable physics, natural body movement, consistent character appearance, spatial continuity, practical effects and authentic environmental detail.
+
+MAIN CHARACTER: A male mall security guard in his late 30s wearing a realistic dark security uniform and carrying a radio. Keep his face, clothing, body proportions and equipment identical throughout the entire video.
+
+SURVIVORS: A small group of ordinary shoppers with realistic clothing and consistent appearances. Their faces, clothing and body proportions must remain unchanged throughout the sequence.
+
+0–4 SECONDS:
+Begin immediately in the food court with shoppers eating and walking normally. Without warning, an infected man suddenly attacks a nearby shopper. The attack is chaotic and physically messy rather than theatrical. The victim falls against a table, knocking over food and drinks. Nearby shoppers freeze for a moment because they do not understand what is happening.
+
+4–8 SECONDS:
+Several shoppers back away. One person briefly tries to help before realizing the attacker is dangerous. Chairs scrape across the floor as people retreat. The security guard hears the disturbance and runs toward the food court. His reaction is confused and concerned, not heroic.
+
+8–12 SECONDS:
+The infected attacker suddenly rushes toward another shopper. The crowd finally realizes something is seriously wrong. Panic spreads naturally. People run in different directions instead of moving together. Some hide behind storefronts while others run toward exits. Shopping bags and personal belongings fall naturally as people flee.
+
+12–16 SECONDS:
+The security guard reaches the food court and sees two infected people approaching. He grabs a nearby metal crowd-control barrier for protection. He initially backs away while watching them. One infected suddenly charges. The guard swings the barrier defensively and knocks the attacker off balance. The movement must look heavy, awkward and physically difficult, never like professional choreography.
+
+16–20 SECONDS:
+A few shoppers help each other retreat behind a storefront entrance. One person pulls an injured shopper away from the food court. Nobody performs exaggerated combat moves. The guard keeps backing toward the survivors while maintaining distance from the infected.
+
+20–24 SECONDS:
+One infected suddenly charges again. The guard sidesteps at the last moment. The infected crashes into the glass railing from its own momentum. The glass cracks realistically but does not explode into an unrealistic shower of fragments. The guard immediately moves the survivors farther away.
+
+24–27 SECONDS:
+The survivors move together toward a partially closed storefront. The guard stays behind them and keeps watching the infected. Distant screaming comes from another section of the mall, suggesting the outbreak is larger than what the camera has witnessed without showing an unnecessary crowd of zombies.
+
+27–30 SECONDS:
+The group reaches temporary safety behind the storefront. The guard slowly looks through the gap toward the food court. The mall has become eerily quiet. An escalator continues running in the background while abandoned shopping bags, overturned chairs and spilled food remain scattered across the floor. A distant infected figure briefly crosses the far end of the mall. The guard quietly raises one finger, signaling everyone to stay silent.Cut naturally to black.
+```
+
+</details>
+
+<a id="seedance-2000s-birthday-dv"></a>
+### Early-2000s Korean birthday on a DV camcorder
+
+<a href="https://x.com/saniaspeaks_/status/2105146792681832481"><img src="previews/seedance-2000s-birthday-dv.jpg" width="360"></a>
+
+Period realism by naming the device. Scenes are numbered and the prompt demands they play in that exact order.
+
+Seedance 2.5 · Text-to-video · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2105146792681832481) · 918 likes on 2026-10-27
+
+[`home-video`](#tag-home-video) [`period`](#tag-period) [`dv-camcorder`](#tag-dv-camcorder)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s, filmed casually by a friend on an authentic consumer DV camcorder. It must feel like genuine home-video footage, not a modern video with a retro filter.
+
+EXACT ORDER — 7 SCENES:
+
+0–4s — GETTING READY: The same young Korean birthday girl gets ready in her early-2000s bedroom, fixes her hair, adjusts makeup, picks up her handbag and smiles toward the camera.
+
+4–8s — MEETING FRIENDS: She walks through an authentic Korean neighborhood, meets the same 2–3 friends, they congratulate her and walk together toward a bakery.
+
+8–11s — BAKERY: They enter a small early-2000s Korean bakery, browse cakes and choose one birthday cake.
+
+11–14s — BUYING CAKE: A friend pays with cash. The worker puts the cake into a box and hands it over. The same cake box remains visible as they walk to the café.
+
+14–23s — CAFÉ CELEBRATION: They sit in a cozy early-2000s café. The cake is opened, a candle is lit, everyone sings Happy Birthday, the girl makes a wish and blows it out. They clap and laugh. She then cuts the cake, places pieces on plates, personally gives a piece to each friend, watches them eat, then takes a piece herself. Keep the entire sequence clearly visible and in order.
+
+23–26s — PHOTOS: After eating, they take group photos using a small early-2000s disposable film camera. No smartphones or modern digital cameras. They pose, the shutter clicks and they laugh afterward.
+
+26–30s — EVENING WALK: They leave the café and walk through the same neighborhood as it becomes evening. The girl carries her handbag, a friend carries the empty cake box/bag, and they chat and laugh while the camera follows from behind.
+
+CONTINUITY: Same girl, friends, outfits, hairstyles, handbag and cake throughout. No teleporting, identity drift, outfit changes, disappearing props or reordered actions.
+
+ERA: Everything must look authentically early 2000s Korean—fashion, hair, bakery, café, cars, signs, furniture, cake packaging and technology. No smartphones, AirPods, modern cars, LED screens or contemporary interiors.
+
+CAMERA: Raw consumer DV footage with subtle handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild CCD/DV noise, motion blur, compression and occasional awkward zooms. Natural candid behavior, realistic skin and movement. No cinematic stabilization, 4K sharpness, beauty filters, VHS effects or professional filmmaking.
+
+FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every scene and action clearly shown in the exact requested order.
+```
+
+</details>
+
+<a id="seedance-mini-dv-coffee-asmr"></a>
+### Mini DV coffee ASMR vlog
+
+<a href="https://x.com/Strength04_X/status/2083094742682787939"><img src="previews/seedance-mini-dv-coffee-asmr.jpg" width="360"></a>
+
+Organised under labelled blocks (`CAMERA / LOOK`, then subject, action, sound). Easy to reuse as a template.
+
+Seedance 2.5 · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2083094742682787939) · 833 likes on 2026-10-27
+
+[`asmr`](#tag-asmr) [`vlog`](#tag-vlog) [`dv-camcorder`](#tag-dv-camcorder)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen morning light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy coffee-prep vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: bean grinder whirring, portafilter tamping, steam wand hissing, cup clinking, milk frothing.
+SUBJECT: Young man in his mid-20s, plain t-shirt, hair slightly tousled, minimal accessories. Calm, focused energy while making his morning coffee.
+SETTING: Small kitchen counter with an espresso machine on a bright morning. Natural daylight, coffee beans and a mug nearby, quiet atmosphere.
+STORYBOARD:
+→ (3s, propped medium shot) Places camera on the counter, switches on the machine. "Morning coffee, the proper way."
+→ (3s, overhead shot) Grinds fresh coffee beans, fine grounds falling into the portafilter.
+→ (3s, close-up) Tamps the grounds down firmly and evenly.
+→ (3s, handheld shot) Locks the portafilter into the machine. "Here we go."
+→ (3s, detail shot) Espresso streams slowly into a small cup. No dialogue.
+→ (3s, medium shot) Pours cold milk into a small steel pitcher. "Time for the milk."
+→ (3s, macro shot) Steam wand hissing as it froths the milk.
+→ (3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
+→ (3s, warm ending shot) Holds the finished cup, takes a small sip, satisfied smile. "That's exactly what I needed."
+→ (3s, final shot) Reaches toward camera, still holding the cup. "See you later." Hand covers lens as recording ends.
+AUDIO NOTES: Natural kitchen ambience — grinder whirring, tamping, steam hissing, milk pouring should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.
+```
+
+</details>
+
+<a id="seedance-dragon-hatchlings-dungeon"></a>
+### Hiding three dragon hatchlings from a hunter
+
+<a href="https://x.com/Adnan_Ai2/status/2113945930185732358"><img src="previews/seedance-dragon-hatchlings-dungeon.jpg" width="360"></a>
+
+Written as a sequel: the first line states it continues an earlier clip, which helps keep tone and characters consistent across a series.
+
+Seedance 2.5 · Text-to-video · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/status/2113945930185732358) · 781 likes on 2026-10-27
+
+[`fantasy`](#tag-fantasy) [`drama`](#tag-drama) [`continuation`](#tag-continuation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A dark, emotionally charged medieval fantasy drama, cinematic 16:9 widescreen format, continuing directly from the earlier cave-birth and bonding story with full character and tonal continuity. Moody low-key lighting throughout, deep cold-blue tones contrasted sharply against warm amber torch and firelight, photorealistic non-cartoonish creature texture work, handheld intimate camera movement, prestige dark-fantasy television visual quality, 24fps cinematic film grain.
+
+**Scene 1 (0–10s):** Inside a vast glowing ice cave, walls shimmering with deep blue bioluminescent light reflecting off frozen crystalline formations. On the icy cave floor, three baby dragons huddle close together for warmth — one with frost-blue scales, sharp little horns, and piercing blue eyes; one pure white with crystalline, feather-like frills and pale grey-blue eyes; and one soft pink-toned with warm coral fins and large amber eyes. A woman's scarred, bandaged hand slowly reaches into frame, palm open, as the dragons lean curiously toward it, sniffing and nuzzling her fingers with cautious trust. Wide shot establishes the vast, cold, otherworldly isolation of the ice cave.
+
+**Scene 2 (10–20s):** Close-up, emotionally raw shot of the young woman — long dark wavy hair damp and disheveled, wrapped in a thick, heavy fur cloak — her face streaked with tears and dirt, eyes closed in anguish. She presses her forehead gently against the huddled trio of baby dragons, pulling all three into a tight, desperate embrace against her chest. A visible wound bleeds along her forearm, blood smeared on her hands and the dragons' scales, hinting at a recent struggle or sacrifice to protect them. Her expression carries a mixture of exhaustion, grief, and fierce, unwavering maternal protectiveness.
+
+**Scene 3 (20–28s):** A quieter, tender beat — inside a dim hidden nest made of piled hay and straw, the three baby dragons poke their heads out side by side in a neat row, their large reflective eyes blinking in the low light, ears/frills perked with alertness as if sensing an approaching threat. Shallow depth of field keeps focus tightly on their expressive faces, background falling into soft shadow.
+
+**Scene 4 (28–38s):** Setting shifts to a dim, damp stone dungeon or underground cellar, pale light filtering through a small barred window high on the wall. The woman kneels low on the cold stone floor, her fur cloak draped protectively over her shoulders and partially covering the three dragons huddled behind and beneath her. She glances anxiously toward the doorway, body angled to shield the creatures from view, every muscle tense with the instinct to protect at any cost.
+
+**Scene 5 (38–45s):** Intimate close-up — she gently cradles the pink baby dragon in both arms, rocking it slightly to keep it calm and quiet as its small mouth opens in a near-silent chirp or whimper. Her face is soft with tenderness toward the creature but tight with fear of discovery, eyes darting toward unseen danger beyond the frame.
+
+**Scene 6 (45–55s):** Hard cut to a shadowy stone corridor elsewhere in the same fortress/castle. A stern, heavyset older man dressed in dark, heavy medieval robes strides purposefully down the corridor, a large lit torch held firmly in one hand, flames casting flickering, dangerous light across ancient carved stone walls. His expression is grim, suspicious, and resolute as he approaches a heavy iron-banded wooden door — the entrance to the dungeon where the woman and dragons are hiding. Low-angle, slightly ominous camera framing builds mounting dread and tension, the gap between pursuer and protector closing with every step.
+
+**Overall tone and continuity:** A visceral, high-stakes escalation of the established dark-fantasy saga — shifting from tender nurturing (birth, feeding, warmth) toward active danger and sacrifice, as the same woman now harbors not one but three dragon hatchlings and must risk everything to keep them hidden from a clearly hostile authority figure. Visual and character continuity fully maintained: same actress/character design, same practical-effect creature rendering (wet-look skin on younger dragons, fine scale and frill texture, anatomically grounded proportions), same desaturated cold-exterior/warm-interior lighting philosophy established in prior installments. Sound design implied: distant echoing footsteps, crackling torch flame, soft dragon chirps, the woman's held breath. Aspect ratio 16:9, prestige-drama cinematography, emotionally driven pacing building toward confrontation.
+```
+
+</details>
+
+<a id="seedance-outfit-change-one-take"></a>
+### Outfit changes in one take, with Chinese dialogue
+
+<a href="https://x.com/cnyzgkc/status/2099029556434985065"><img src="previews/seedance-outfit-change-one-take.jpg" width="360"></a>
+
+Image 1 locks only the face and hair, and the clothing is described per change. It also tells the lead to close her mouth when the off-screen man speaks.
+
+Seedance 2.5 · Reference-to-video · Source: [@cnyzgkc on X](https://x.com/cnyzgkc/status/2099029556434985065) · 676 likes on 2026-10-27
+
+[`outfit-change`](#tag-outfit-change) [`long-take`](#tag-long-take) [`chinese-dialogue`](#tag-chinese-dialogue) [`reference-images`](#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Duration 29 seconds, aspect ratio 16:9 landscape, language Chinese.
+Character reference: Reference only image 1 to lock facial features, hairstyle, skin tone, and character identity; clothing strictly changes as described below. Character requirements: Adult female lead. Same character throughout, no face swaps, no changes to body proportions; increase weight to prioritize rigidly locking facial features, hairstyle, skin tone, and identity.
+
+Overall style: Hyper-realistic AI dynamic desktop interactive video, simulating a full-screen computer desktop screen recording. Retain a simple taskbar at the bottom, a few desktop icons in the upper left corner; the main screen features a dynamic wallpaper that interacts in real time. Black leather sofa, cool-toned soft lighting, dark background. Fixed camera position, continuous single shot throughout, no cuts, no pans or zooms. Female lead primarily positioned on the right side of the frame, leaving the left side for the voice subtitle interface.
+
+Subtitle interface (retain, overriding "prohibited text" constraints): Subtitles must appear in the middle left of the frame, not at the bottom. Slim modern sans-serif Chinese font, medium size, no background box, subtle soft glow and shadow. Female lead speaking: Light purple text, with a speaker icon on the left. Male voice speaking: White text, with a microphone icon on the left. A thin white audio waveform always runs below the subtitles, jumping in real time with the sound. All subtitles input word by word following pronunciation, about 0.08–0.12 seconds per word, like manual typing on a keyboard; after the current sentence finishes, pause for about 0.4 seconds, then fade out entirely. No sudden full-sentence appearances, no displaying upcoming text in advance.
+
+Clothing design (three outfits unified, changing only the neckline: low round neck/shallow V-neck, slightly revealing cleavage, otherwise fully covered):
+Initial outfit: Black-and-white horizontal stripe fitted short three-quarter sleeve top (low round neck/shallow V-neck, slightly revealing cleavage, otherwise fully covered), black low-waist drawstring casual long pants, silver thin necklace.
+First schoolgirl style: Top with low round neck/shallow V-neck, slightly revealing cleavage, otherwise fully covered, blue-and-black plaid pleated short skirt, white knee-high socks, white cross-strap garter, overall fresh and playful.
+Second schoolgirl style: Black fitted suit jacket, white shirt (shirt low round neck/shallow V-neck, slightly revealing cleavage, otherwise fully covered), burgundy plaid tie, burgundy-and-black plaid pleated short skirt, light nude sheer stockings, black loafers, refined and mature.
+
+SINGLE CONTINUOUS SHOT (00:00-00:29)
+
+00:00-00:02.80
+Female lead in initial outfit sits on the right side of the black leather sofa, holding a black throw pillow on her lap. She gently adjusts her hair with both hands, then looks at the camera, showing a warm, slightly playful smile.
+Female lead speaks naturally: "So, spill it... what do you wanna see today?"
+Subtitles display word by word: "So, spill it...
+What do you wanna see today?"
+
+00:03.00-00:03.80
+Male lead never shows his face, only off-screen male voice, tone direct and eager: "Wanna see JK."
+Female lead listens quietly, her smile deepens slightly, and she nods gently.
+Subtitles display word by word: "Wanna see JK"
+
+00:04.70-00:06.00
+Female lead replies cheerfully: "Alright, give me a sec."
+She sets the pillow aside, right hand bracing the sofa as she prepares to stand.
+Subtitles display word by word: "Alright, give me a sec."
+
+00:06.00-00:08.80
+Female lead stands quickly. Due to the fixed camera and close distance, her waist and legs sweep upward across the frame, her face exiting via the top edge; she then steps out to the right side. The motion includes a light "whoosh" sound, but no teleporting, no direct morphing.
+
+00:08.80-00:11.50
+Outfit change completed entirely off-screen. Sofa lingers empty for about one second. Accompanied by a playful reveal sound effect, female lead in first blue schoolgirl outfit re-enters from the right. She stands close to the camera, frame mainly showing waist, plaid skirt hem, and knee-high socks, head naturally above the top edge.
+Female lead says in a playful tone showcasing the new outfit: "Ta-da... hubby... whaddya think?"
+Subtitles display word by word: "Ta-da...
+Hubby... whaddya think?"
+
+00:11.70-00:12.50
+Male off-screen voice pauses briefly, then answers approvingly: "Mm... not bad."
+Female lead holds her stance, subtly swaying her waist left and right to let the plaid skirt hem sway naturally.
+Subtitles display word by word: "Mm... not bad"
+
+00:12.90-00:14.40
+Female lead suddenly recalls another outfit and says lightly: "Wait, there's one more."
+She immediately turns and exits to the right, skirt hem swaying with the motion.
+Subtitles display word by word: "Wait, there's one more"
+
+00:14.40-00:17.40
+Outfit change completed entirely off-screen. Sofa lingers empty for about one second. Then a short, smooth "whoosh" of changing echoes, female lead in second burgundy schoolgirl outfit enters from the right. Fixed lens first captures black suit hem, burgundy plaid skirt, stockings, and loafers; clothing must be realistically complete, no melting or altering during the walk.
+
+00:17.40-00:19.00
+Female lead stops on the right side of the frame, slightly adjusting her stance to let the suit hem and skirt pleats fall naturally, then asks: "What about this one?"
+Subtitles display word by word: "What about this one?"
+
+00:19.50-00:20.50
+Male off-screen voice immediately praises: "This one's good too."
+Female lead chuckles softly upon hearing it, body beginning to lower as she prepares to sit.
+Subtitles display word by word: "This one's good too"
+
+00:20.50-00:24.80
+Accompanied by faint fabric rustling, female lead sits back on the sofa swiftly and naturally. She repositions the black throw pillow on her lap, smooths hair on both sides and her tie, then leans slightly against the sofa. The lens recaptures her full face. She keeps looking at the camera, expression confident, intimate, with a hint of teasing.
+
+00:25.00-00:28.20
+Female lead hugs the pillow, first flashing a smug little smile, then says to the camera: "Chances used up. Which one does hubby wanna keep?"
+"Chances used up" in a tone like announcing game rules; "Which one does hubby wanna keep?" slowed slightly, with rising inflection at the end, carrying an intimate questioning vibe.
+Subtitles display word by word: "Chances used up.
+Which one does hubby wanna keep?"
+
+00:28.20-00:29.00
+Subtitles linger fully. Female lead maintains eye contact, tilts her head gently, lips holding the playful smile. Waveform gradually calms, frame fades out naturally.
+
+Audio: Female lead's realistic on-site human voice, precise lip sync; male lead as off-screen Chinese male voice, no face shown. Retain subtle electronic ambient music (auto-lowers during dialogue, increase weight), outfit "whoosh" sounds, reveal chimes, fabric rustles; all dialogue clear and discernible.
+
+Performance constraints: Female lead not exaggeratedly cutesy. Smiles, nods, hair adjustments, outfit displays all natural and restrained; opening warm, first change playful, second change more confident, ending with light teasing. When male voice speaks, female lead must close her mouth and listen naturally.
+```
+
+</details>
+
+<a id="seedance-kpop-two-idol-mv"></a>
+### Two-idol K-pop music video, shot by shot
+
+<a href="https://x.com/Just_sharon7/status/2083422886686031982"><img src="previews/seedance-kpop-two-idol-mv.jpg" width="360"></a>
+
+A 30-second MV laid out in 2 to 4 second time ranges, alternating between three sets.
+
+Seedance 2.5 · Text-to-video · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2083422886686031982) · 547 likes on 2026-10-27
+
+[`music-video`](#tag-music-video) [`dance`](#tag-dance) [`timed-beats`](#tag-timed-beats)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.
+```
+
+</details>
+
+<a id="seedance-kitchen-fight"></a>
+### Woman fights three men in a restaurant kitchen
+
+<a href="https://x.com/Alina_with_Ai/status/2113816556140675163"><img src="previews/seedance-kitchen-fight.jpg" width="360"></a>
+
+Ten seconds of fight choreography with the grade and camera fixed up front and a sound list at the end, no music.
+
+Seedance 2.5 · Text-to-video · Source: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2113816556140675163) · 514 likes on 2026-10-27
+
+[`action`](#tag-action) [`martial-arts`](#tag-martial-arts) [`sfx`](#tag-sfx)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic live-action martial arts fight, 10 seconds, wide 16:9, handheld camera with fast whip-pans and slight shake, gritty high-contrast grade with warm brown tile floor and cool steel tones, motion blur on strikes, realistic physics.
+
+Setting: a busy professional restaurant kitchen. Brown quarry-tile floor with black rubber mats, stainless steel prep tables, a rolling rack of fresh vegetables (carrots, greens, red tomatoes), copper pots hanging from a ceiling rail that swing with every impact, gas range and hood, steel refrigerators, wooden produce crates stacked against a white-tiled back wall. In the far background, chefs in white uniforms keep working.
+
+Characters: a young woman with dark hair tied back, grey button-up work shirt with sleeves pushed up and black pants and black boots. She fights 3 men in grey shirts and black aprons (one bearded, one heavyset, one Asian man with short hair), all trying to attack her, one wielding a kitchen knife.
+
+0-1s: She dodges a swinging punch from the bearded man, then blocks the heavyset man's arm with a crossed-arm block, copper pots swaying above.
+1-2s: She drops into a low lunge and kicks, sending the man flipping backward over the stainless prep table, legs in the air.
+2-3s: She spins toward the next man by the cutting board with vegetables, camera whip-pans with motion blur.
+3-4s: She throws a high side kick that knocks a knife aside as a man raises it overhead, third man stepping in behind.
+4-5s: Camera cuts wider: she lands a spinning back kick, a man crashes to the floor, wooden crates and papers on the wall behind.
+5-6s: She leaps high in the air in a flying kick pose against the white wall, whole body visible.
+6-7s: She lands in a ready stance, focused and breathing hard, two men lying defeated on the floor behind the crates, spilled apples on the ground, a knife visible in the background.
+7-8s: A man in a grey shirt charges, she counters with a sharp fist strike.
+8-10s: Tight shot over her shoulder, a man with a knife lunges at her from the right, copper pots overhead, she steps in to meet him.
+
+Sound: impact thuds, fabric whooshes, shoes squeaking on tile, clattering pots and crates, kitchen ambience, no music.
 ```
 
 </details>
@@ -1012,6 +2984,28 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 
 </details>
 
+<a id="guides"></a>
+## Guides and skills
+
+### Official prompt guides
+
+- [MiniMax H3 prompt-writing skill](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/.claude/skills/h3-prompt-writing): Official agent skill that rewrites a plain idea into H3's structured prompt format. Local H3 runs look much better with it.
+- [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/): Conversational editing, camera changes, multi-input references, extend, first and last frame.
+- [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide): Multi-shot, element binding, multilingual dialogue, accents, text rendering, 15-second takes.
+- [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/): Dialogue in quotes, audio cues, long play-by-play prompts for action.
+- [Ultimate prompting guide for Veo 3.1](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-veo-3-1): Five-part formula, timestamped multi-shot prompts, first-last-frame and ingredients workflows with Nano Banana.
+- [Sora 2 prompting guide](https://cookbook.openai.com/examples/sora/sora2_prompting_guide): Prompt anatomy, director-style briefs, dialogue blocks, edits, characters, extensions.
+
+### Community skills and libraries
+
+- [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance): The largest Seedance 2.0 / 2.5 library, 840+ cases each traced to the original post.
+- [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill): Agent skill that writes Seedance prompts.
+- [liyue-aigc/seedance-2-5-video-director](https://github.com/liyue-aigc/seedance-2-5-video-director): Seedance 2.5 director skill covering scripts, character locking, continuation, editing and transitions.
+- [T8mars/minimax-h3-prompt-skill-T8](https://github.com/T8mars/minimax-h3-prompt-skill-T8): Prompt cases and installable skills for MiniMax H3 and Seedance.
+- [smixs/visual-skills](https://github.com/smixs/visual-skills): Film-director skills for agents, from dramaturgy and blocking to per-model prompt syntax.
+- [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills): Curated skills for AI short dramas, from script and storyboard to video prompts.
+- [joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts): Videos rendered from code written by Claude Opus 5.5, with copy-ready prompts.
+
 <a id="image"></a>
 ## Image prompts
 
@@ -1025,81 +3019,115 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
+- <a id="tag-3d-animation"></a>`3d-animation` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
 - <a id="tag-accent"></a>`accent` (2): [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
-- <a id="tag-action"></a>`action` (2): [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-action"></a>`action` (9): [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Off-road rally through a river crossing](#veo-off-road-rally), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
 - <a id="tag-agent-editing"></a>`agent-editing` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-ambience"></a>`ambience` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
 - <a id="tag-animation"></a>`animation` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
+- <a id="tag-anime"></a>`anime` (2): [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight)
+- <a id="tag-asmr"></a>`asmr` (1): [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
 - <a id="tag-audio-sync"></a>`audio-sync` (2): [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
+- <a id="tag-beats"></a>`beats` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-bilingual"></a>`bilingual` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-camera-angle"></a>`camera-angle` (1): [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder)
+- <a id="tag-camera-angle"></a>`camera-angle` (2): [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
 - <a id="tag-camera-move"></a>`camera-move` (4): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up)
+- <a id="tag-cg"></a>`cg` (2): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle)
 - <a id="tag-character"></a>`character` (2): [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk), [Old sailor speaks in verse](#veo-old-sailor-verse)
-- <a id="tag-character-consistency"></a>`character-consistency` (2): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile)
-- <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-comedy"></a>`comedy` (1): [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear)
+- <a id="tag-character-consistency"></a>`character-consistency` (3): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul)
+- <a id="tag-chase"></a>`chase` (1): [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
+- <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (3): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-comedy"></a>`comedy` (5): [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
 - <a id="tag-consistency"></a>`consistency` (1): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps)
-- <a id="tag-creature"></a>`creature` (2): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
+- <a id="tag-continuation"></a>`continuation` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
+- <a id="tag-creature"></a>`creature` (3): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
+- <a id="tag-crowd"></a>`crowd` (2): [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd)
+- <a id="tag-dance"></a>`dance` (2): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Finger dance in one locked-off take](#wan-finger-dance-one-take)
 - <a id="tag-dialogue"></a>`dialogue` (11): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Four family members react to a plot twist](#kling-family-reacts-to-twist), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Harbour conversation extended twice](#omni-harbour-extend), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [Old sailor speaks in verse](#veo-old-sailor-verse)
+- <a id="tag-drama"></a>`drama` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
+- <a id="tag-dv-camcorder"></a>`dv-camcorder` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
 - <a id="tag-emotion"></a>`emotion` (1): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur)
 - <a id="tag-explainer"></a>`explainer` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
 - <a id="tag-extend"></a>`extend` (1): [Harbour conversation extended twice](#omni-harbour-extend)
-- <a id="tag-fantasy"></a>`fantasy` (1): [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
+- <a id="tag-family"></a>`family` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
+- <a id="tag-fantasy"></a>`fantasy` (3): [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon), [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
+- <a id="tag-fashion"></a>`fashion` (2): [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels)
+- <a id="tag-fast-cut"></a>`fast-cut` (2): [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-ffmpeg"></a>`ffmpeg` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-film-look"></a>`film-look` (2): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Truck driver in four handheld shots](#kling-truck-driver-four-shots)
 - <a id="tag-first-last-frame"></a>`first-last-frame` (1): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan)
 - <a id="tag-focus-pull"></a>`focus-pull` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
-- <a id="tag-food"></a>`food` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
+- <a id="tag-food"></a>`food` (3): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking)
 - <a id="tag-gif"></a>`gif` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
-- <a id="tag-handheld"></a>`handheld` (2): [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-handheld"></a>`handheld` (4): [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-home-video"></a>`home-video` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog)
+- <a id="tag-horror"></a>`horror` (2): [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak)
 - <a id="tag-image-to-video"></a>`image-to-video` (3): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk)
 - <a id="tag-japanese"></a>`japanese` (1): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento)
+- <a id="tag-japanese-dialogue"></a>`japanese-dialogue` (1): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-korean"></a>`korean` (1): [Korean high-school rooftop at night](#kling-korean-rooftop)
 - <a id="tag-lip-sync"></a>`lip-sync` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
-- <a id="tag-long-take"></a>`long-take` (5): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [One take follows a woman from elevator to desk](#kling-office-long-take), [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Harbour conversation extended twice](#omni-harbour-extend)
+- <a id="tag-long-take"></a>`long-take` (8): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [One take follows a woman from elevator to desk](#kling-office-long-take), [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Harbour conversation extended twice](#omni-harbour-extend), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Time-travelling train, one 30-second take](#wan-time-space-train)
 - <a id="tag-loudness"></a>`loudness` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-martial-arts"></a>`martial-arts` (3): [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
 - <a id="tag-mixed-media"></a>`mixed-media` (1): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx)
-- <a id="tag-montage"></a>`montage` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-montage"></a>`montage` (2): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-morning-routine"></a>`morning-routine` (1): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog)
 - <a id="tag-motion-graphics"></a>`motion-graphics` (2): [Quantum computing explained in risograph flat style](#omni-quantum-explainer), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
 - <a id="tag-multi-reference"></a>`multi-reference` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird)
-- <a id="tag-multi-shot"></a>`multi-shot` (6): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video)
+- <a id="tag-multi-shot"></a>`multi-shot` (7): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-multi-speaker"></a>`multi-speaker` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
 - <a id="tag-multi-turn-edit"></a>`multi-turn-edit` (5): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up), [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
 - <a id="tag-multilingual"></a>`multilingual` (4): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-music"></a>`music` (2): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
+- <a id="tag-music-video"></a>`music-video` (1): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv)
 - <a id="tag-object-swap"></a>`object-swap` (3): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
 - <a id="tag-orbit"></a>`orbit` (1): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile)
-- <a id="tag-period"></a>`period` (1): [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid)
+- <a id="tag-outfit-change"></a>`outfit-change` (1): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take)
+- <a id="tag-period"></a>`period` (3): [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)
 - <a id="tag-preview"></a>`preview` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
 - <a id="tag-product"></a>`product` (1): [Keyboard made of candy](#veo-candy-keyboard)
-- <a id="tag-product-ad"></a>`product-ad` (1): [Perfume ad by a Paris window](#kling-perfume-paris-ad)
+- <a id="tag-product-ad"></a>`product-ad` (2): [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc)
 - <a id="tag-qa"></a>`qa` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-realism"></a>`realism` (3): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht)
+- <a id="tag-reference-images"></a>`reference-images` (7): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
 - <a id="tag-reframe"></a>`reframe` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-scene-detection"></a>`scene-detection` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
-- <a id="tag-sci-fi"></a>`sci-fi` (1): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
-- <a id="tag-score"></a>`score` (1): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
-- <a id="tag-sfx"></a>`sfx` (4): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Keyboard made of candy](#veo-candy-keyboard), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-sci-fi"></a>`sci-fi` (3): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Time-travelling train, one 30-second take](#wan-time-space-train)
+- <a id="tag-score"></a>`score` (2): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
+- <a id="tag-sfx"></a>`sfx` (5): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Keyboard made of candy](#veo-candy-keyboard), [Off-road rally through a river crossing](#veo-off-road-rally)
 - <a id="tag-shot-reverse-shot"></a>`shot-reverse-shot` (1): [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue)
 - <a id="tag-spanish"></a>`spanish` (1): [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-sports"></a>`sports` (1): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo)
 - <a id="tag-static-camera"></a>`static-camera` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
+- <a id="tag-steampunk"></a>`steampunk` (1): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-stop-motion"></a>`stop-motion` (1): [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear)
 - <a id="tag-storyboard"></a>`storyboard` (2): [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
-- <a id="tag-structured-prompt"></a>`structured-prompt` (3): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
+- <a id="tag-structured-prompt"></a>`structured-prompt` (4): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
 - <a id="tag-style-lock"></a>`style-lock` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
 - <a id="tag-style-transfer"></a>`style-transfer` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
-- <a id="tag-subtitles"></a>`subtitles` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-subtitles"></a>`subtitles` (2): [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-tension"></a>`tension` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-text-render"></a>`text-render` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
+- <a id="tag-thriller"></a>`thriller` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
+- <a id="tag-time-freeze"></a>`time-freeze` (1): [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)
+- <a id="tag-timed-beats"></a>`timed-beats` (2): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-timed-cut"></a>`timed-cut` (1): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
 - <a id="tag-title-card"></a>`title-card` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
 - <a id="tag-tracking-shot"></a>`tracking-shot` (1): [One take follows a woman from elevator to desk](#kling-office-long-take)
-- <a id="tag-vertical"></a>`vertical` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
-- <a id="tag-vfx"></a>`vfx` (1): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx)
+- <a id="tag-transformation"></a>`transformation` (1): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels)
+- <a id="tag-travel"></a>`travel` (1): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
+- <a id="tag-ugc"></a>`ugc` (3): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht)
+- <a id="tag-vertical"></a>`vertical` (6): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-vfx"></a>`vfx` (3): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
+- <a id="tag-video-reference"></a>`video-reference` (1): [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
+- <a id="tag-vlog"></a>`vlog` (5): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr), [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-voice-reference"></a>`voice-reference` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
 - <a id="tag-voiceover"></a>`voiceover` (1): [Perfume ad by a Paris window](#kling-perfume-paris-ad)
 - <a id="tag-whimsical"></a>`whimsical` (2): [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [Keyboard made of candy](#veo-candy-keyboard)
 - <a id="tag-whisper"></a>`whisper` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-world-building"></a>`world-building` (1): [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
+- <a id="tag-workflow"></a>`workflow` (1): [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
+- <a id="tag-world-building"></a>`world-building` (2): [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers), [Time-travelling train, one 30-second take](#wan-time-space-train)
 
 <a id="contributing"></a>
 ## Contributing

@@ -1,0 +1,47 @@
+id: wan-camera-angle-swap
+title:
+  en: Re-shoot your clip from new camera angles, same action
+  zh: 动作不变，换机位重拍你的视频
+model: Wan 3.0
+mode: video-edit
+tags:
+- camera-angle
+- video-reference
+- workflow
+source:
+  name: '@Framer_X on X'
+  url: https://x.com/Framer_X/status/2101324357108658433
+  credit: Framer 🇱🇹
+  likes: 1170
+  captured: '2026-10-27'
+  posted: '2026-09-19'
+video: https://x.com/Framer_X/status/2101324357108658433
+notes:
+  en: Upload one continuous shot as the action reference and Wan re-films it from new angles. Regenerate if a shot drifts.
+  zh: 上传一段连续镜头作动作参考，Wan 从新角度重拍；某个镜头跑偏就重生成。
+prompt: |
+  STEP 1: Upload your video (must be continuous one shot) to any platform that supports WAN 3.0
+
+  STEP 2: Use the prompt below (adjust it to your video):
+
+  "Use the original video @ TAG ORIGINAL VIDEO as the exact action reference
+
+  0–1s: Camera stays exactly as in the original video as the wolf walks toward the scooter.
+
+  1–3s: Hard cut to a tight front close-up as the wolf continues walking toward and reaches the scooter.
+
+  3–5s: Hard cut to a high angle above as the wolf as he gets onto the scooter and starts riding.
+
+  5–7s: Hard cut to a full shot as the wolf rides the scooter down the street.
+
+  7–9s: Hard cut to a side tracking shot as he keeps riding down the street.
+
+  9-10s: Hard cut to an over the shoulder shot as he rides forward and notices the banana peel in his path.
+
+  10–12s: hard cut to a birds eye view shot as the fallen wolf is rolling over the asphalt.
+
+  12-13s : hard cut to an insert shot of his fist as wolf slams it into the asphalt.
+
+  Only the camera angle and framing change. Make sure every action, movement, timing and performance exactly identical to the original video @ TAG ORIGINAL VIDEO. The action continues seamlessly across every cut."
+
+  NOTE: If some scenes didn't work (action was different than original video) simply regenerate the video, that usually fixes the problem.

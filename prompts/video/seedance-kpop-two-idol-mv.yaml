@@ -1,0 +1,23 @@
+id: seedance-kpop-two-idol-mv
+title:
+  en: Two-idol K-pop music video, shot by shot
+  zh: 双人 K-pop MV，逐镜头
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- music-video
+- dance
+- timed-beats
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2083422886686031982
+  credit: Sharon Riley
+  likes: 547
+  captured: '2026-10-27'
+  posted: '2026-08-01'
+video: https://x.com/Just_sharon7/status/2083422886686031982
+notes:
+  en: A 30-second MV laid out in 2 to 4 second time ranges, alternating between three sets.
+  zh: 30 秒 MV 按 2 到 4 秒的时间段排开，在三个布景间来回切。
+prompt: |
+  30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.

@@ -1,0 +1,34 @@
+id: wan-steampunk-detective-montage
+title:
+  en: Steampunk detective montage across five locations
+  zh: 蒸汽朋克侦探，五个地点快剪
+model: Wan 3.0
+mode: text-to-video
+tags:
+- montage
+- fast-cut
+- steampunk
+- score
+source:
+  name: '@socialwithaayan on X'
+  url: https://x.com/socialwithaayan/status/2092581849650593830
+  credit: Muhammad Ayan
+  likes: 152
+  captured: '2026-10-27'
+  posted: '2026-08-26'
+video: https://x.com/socialwithaayan/status/2092581849650593830
+notes:
+  en: Opens mid-motion and keeps one sound element (a low cello) under every cut to hold the montage together.
+  zh: 从动作中途切入，每个镜头底下都垫同一条大提琴，把快剪串成一体。
+prompt: |
+  A cinematic, fast cutting steampunk detective montage in high fidelity live action, set in a fog choked industrial city at night. Open mid motion on a detective in a soot stained long coat crouched at the edge of a canal, gloved fingers pulling a cracked pocket watch from the water, gaslight smearing through the mist behind him. The camera pushes in hard on the watch face, second hand stuttering, then whip pans into a railway station where steam floods the platform and a torn ticket spins down onto wet cobbles. Cut to a low angle inside the clock tower, brass gears the size of wagon wheels turning past the lens while dust hangs in a single shaft of moonlight. Cut to the boiler room, orange furnace light raking across riveted pipes, water dripping off every surface, the detective's shoes ringing on the iron catwalk. Sudden zoom onto a brass plate bolted to a laboratory door, etched Qwen Create, condensation running down between the letters, his glove wiping it clean. Cut inside to the secret laboratory, copper coils throwing electric sparks that light one half of a face in the dark. Finish on the detective's eyes in tight close up as recognition hits, breath fogging, jaw setting.
+
+  Keep the same fog density and gaslight warmth in every shot. Colour lives in the materials: wet black stone, green oxidised copper, worn brass, deep burgundy velvet, white steam.
+
+  Handheld throughout, urgent but readable, one snap zoom per location and nothing else fancy.
+
+  Diegetic sound only, no score: clock ticking, steam venting, a far off train whistle, leather soles on cobblestone, one low cello note under it all.
+
+  Final frame holds two seconds on black, then clean white lettering fades up centre frame reading Qwen Create, and under it
+  http://
+  create.qwen.com. No other text or subtitles anywhere in the film.

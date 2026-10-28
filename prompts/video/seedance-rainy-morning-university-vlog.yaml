@@ -1,0 +1,31 @@
+id: seedance-rainy-morning-university-vlog
+title:
+  en: Rainy morning, coffee, walk to university
+  zh: 雨天早晨，咖啡，走去学校
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- vlog
+- realism
+- morning-routine
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2103337966416621703
+  credit: Nawal
+  likes: 4181
+  captured: '2026-10-27'
+  posted: '2026-09-25'
+video: https://x.com/nawalsehar/status/2103337966416621703
+notes:
+  en: Under 1,000 characters for 30 seconds. A tight routine plus a short list of failure modes to avoid.
+  zh: 30 秒只用不到 1000 字：一条紧凑的日常流程，加一小串要避免的毛病。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action university vlog of a European brunette in her mid-20s waking to a rainy morning, making coffee, getting ready, grabbing her umbrella, walking through a wet city, and arriving at university just before class.
+
+  Modern smartphone vlog style: natural handheld movement, subtle shake, autofocus changes, realistic rain, puddles, reflections, traffic, umbrellas, wet clothing, natural expressions and believable human movement.
+
+  Dialogue: “Good morning… apparently, it’s raining.” → “First coffee. Then lecture.” → “Two minutes early. I’m impressed.” → “Okay, made it.”
+
+  Natural diegetic audio only. No music, narration, CGI look, artificial rain, face changes, distorted anatomy, impossible physics, subtitles, logos or watermark.
+
+  16:9 • 24fps • 4K • Ultra-photorealistic live action

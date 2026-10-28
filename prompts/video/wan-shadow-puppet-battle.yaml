@@ -1,0 +1,86 @@
+id: wan-shadow-puppet-battle
+title:
+  en: Shadow-puppet theatre battle with a pair of scissors
+  zh: 皮影戏台上，一把剪刀对阵百名刺客
+model: Wan 3.0
+mode: text-to-video
+tags:
+- action
+- martial-arts
+- cg
+source:
+  name: '@FellMentKE on X'
+  url: https://x.com/FellMentKE/status/2092617578338504970
+  credit: FELIX
+  likes: 184
+  captured: '2026-10-27'
+  posted: '2026-08-26'
+video: https://x.com/FellMentKE/status/2092617578338504970
+notes:
+  en: 'Starts with a style block (CG, lighting, rendering terms), then the fight, then two plain bans: no music, no subtitles.'
+  zh: 先写风格块（CG、光照、渲染术语），再写打斗，最后两条禁令：不要配乐，不要字幕。
+prompt: |
+  Style
+  Hyper-realistic CG cinematography with detailed facial features, realistic skin and hair, cinematic lighting, soft shadows, physically accurate reflections, SSS, global illumination, RTX ray tracing, 4K HDR quality, and realistic cloth and rigid-body physics.
+
+  Scene
+
+  An ancient theater stage illuminated by flickering candlelight, surrounded by translucent shadow-puppet screens and hundreds of faceless wooden assassins.
+
+  The female hero, based on Image 2, wears a dark-red opera costume with copper bells and oversized flowing sleeves. She remains elegant, cold, and completely composed throughout the battle.
+
+  Shot 1 — 0–3s
+
+  Low-angle FPV fly-through
+
+  The camera moves beneath the theater stage as hundreds of wooden puppet assassins close in.
+
+  The heroine calmly draws a tiny pair of black iron scissors from her sleeve, holding them delicately between her fingertips.
+
+  Shot 2 — 3–5s
+
+  Extreme close-up
+
+  She gently blows cold air onto the scissors, creating visible white mist.
+
+  The tiny scissors rapidly expand into enormous black iron shears.
+
+  She says:
+
+  “The performance is over. Time to take the final bow.”
+
+  Shot 3 — 5–9s
+
+  Rapid 180-degree orbit
+
+  She launches into an elegant, theatrical combat sequence inspired by shadow puppetry.
+
+  Each movement of the giant shears releases razor-sharp black energy blades that slice through the wooden assassins like paper puppets.
+
+  Shot 4 — 9–13s
+
+  Fast tracking shot
+
+  She moves between the wooden pillars, using the environment to propel herself forward.
+
+  The giant shears crack the floor and pillars while wood splinters and debris fill the air.
+
+  Her flowing sleeves, hair, and copper bells react naturally to every movement.
+
+  Shot 5 — 13–15s
+
+  Low-angle wide shot · Dutch-angle dolly-in
+
+  She lands and rests the giant shears on her shoulder.
+
+  Behind her, the motionless assassins stand covered in precise cuts.
+
+  With a small flick of her wrist, the entire theater cracks apart and collapses.
+
+  Smoke, fire, and black ash fill the background as the image freezes on her cold, confident expression and fades to black.
+
+  Audio
+
+  Diegetic and action sounds only: wooden boards, copper bells, cold wind, breath, metallic transformation, weapon impacts, energy whooshes, splintering wood, and collapsing debris.
+
+  No background music. No subtitles.

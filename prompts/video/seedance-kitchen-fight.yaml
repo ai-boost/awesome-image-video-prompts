@@ -1,0 +1,39 @@
+id: seedance-kitchen-fight
+title:
+  en: Woman fights three men in a restaurant kitchen
+  zh: 餐厅后厨一打三
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- action
+- martial-arts
+- sfx
+source:
+  name: '@Alina_with_Ai on X'
+  url: https://x.com/Alina_with_Ai/status/2113816556140675163
+  credit: Alina Ai
+  likes: 514
+  captured: '2026-10-27'
+  posted: '2026-10-24'
+video: https://x.com/Alina_with_Ai/status/2113816556140675163
+notes:
+  en: Ten seconds of fight choreography with the grade and camera fixed up front and a sound list at the end, no music.
+  zh: 10 秒打戏，开头定死调色和机位，结尾列音效，不要配乐。
+prompt: |
+  Cinematic live-action martial arts fight, 10 seconds, wide 16:9, handheld camera with fast whip-pans and slight shake, gritty high-contrast grade with warm brown tile floor and cool steel tones, motion blur on strikes, realistic physics.
+
+  Setting: a busy professional restaurant kitchen. Brown quarry-tile floor with black rubber mats, stainless steel prep tables, a rolling rack of fresh vegetables (carrots, greens, red tomatoes), copper pots hanging from a ceiling rail that swing with every impact, gas range and hood, steel refrigerators, wooden produce crates stacked against a white-tiled back wall. In the far background, chefs in white uniforms keep working.
+
+  Characters: a young woman with dark hair tied back, grey button-up work shirt with sleeves pushed up and black pants and black boots. She fights 3 men in grey shirts and black aprons (one bearded, one heavyset, one Asian man with short hair), all trying to attack her, one wielding a kitchen knife.
+
+  0-1s: She dodges a swinging punch from the bearded man, then blocks the heavyset man's arm with a crossed-arm block, copper pots swaying above.
+  1-2s: She drops into a low lunge and kicks, sending the man flipping backward over the stainless prep table, legs in the air.
+  2-3s: She spins toward the next man by the cutting board with vegetables, camera whip-pans with motion blur.
+  3-4s: She throws a high side kick that knocks a knife aside as a man raises it overhead, third man stepping in behind.
+  4-5s: Camera cuts wider: she lands a spinning back kick, a man crashes to the floor, wooden crates and papers on the wall behind.
+  5-6s: She leaps high in the air in a flying kick pose against the white wall, whole body visible.
+  6-7s: She lands in a ready stance, focused and breathing hard, two men lying defeated on the floor behind the crates, spilled apples on the ground, a knife visible in the background.
+  7-8s: A man in a grey shirt charges, she counters with a sharp fist strike.
+  8-10s: Tight shot over her shoulder, a man with a knife lunges at her from the right, copper pots overhead, she steps in to meet him.
+
+  Sound: impact thuds, fabric whooshes, shoes squeaking on tile, clattering pots and crates, kitchen ambience, no music.

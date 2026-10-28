@@ -8,8 +8,8 @@ import re
 import yaml
 
 # Model sections, ordered by the Artificial Analysis video arena (October 2026).
-MODELS = ["MiniMax H3", "Gemini Omni Flash", "Kling 3.0", "Veo 3", "Sora 2"]
-SHOWCASE = ["h3-starship-hyperspace-jump", "omni-four-style-progression",
+MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 3.0", "Veo 3", "Sora 2"]
+SHOWCASE = ["seedance-seoul-subway-revenge", "wan-time-space-train", "h3-starship-hyperspace-jump", "omni-four-style-progression",
             "kling-moonlit-garden-run", "veo-off-road-rally"]
 
 T = {
@@ -22,10 +22,14 @@ T = {
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
         "contents": "Contents",
         "video": "Video prompts",
-        "video_intro": "Every prompt below is copied verbatim from the model maker's own guide or model card, next to the video it produced. "
-                       "Click a thumbnail to watch the original with sound. Sections follow the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video) ranking.",
+        "video_intro": "Every prompt below is quoted verbatim from its source: the model maker's own guide or model card, or a creator's post on X with the video attached. "
+                       "Click a thumbnail to watch the original with sound. Sections follow the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video) ranking; "
+                       "creator posts are sorted by likes, counted on the date shown.",
         "recipes": "Agent recipes: editing video",
         "recipes_intro": "Tell a coding agent what you want in plain words. Each recipe records the request and the commands the agent ran. Swap in your own clips.",
+        "guides": "Guides and skills",
+        "guides_official": "Official prompt guides",
+        "guides_community": "Community skills and libraries",
         "image": "Image prompts",
         "image_body": "Coming next, built the same way: official and widely shared prompts, each with its output.",
         "threed": "3D with agents",
@@ -35,6 +39,7 @@ T = {
         "inputs": "Inputs",
         "source": "Source",
         "watch": "Watch the original",
+        "likes": "likes on",
         "request": "Request to the agent",
         "commands": "Commands the agent ran",
         "agent": "Agent",
@@ -63,10 +68,14 @@ T = {
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
         "video": "视频提示词",
-        "video_intro": "下面每条提示词都原样摘自模型厂商自己的指南或模型卡，旁边是它生成的视频。"
-                       "点缩略图看带声音的原片。分组顺序按 [Artificial Analysis 视频榜](https://artificialanalysis.ai/video/leaderboard/text-to-video)排名。",
+        "video_intro": "下面每条提示词都原样摘自出处：模型厂商自己的指南或模型卡，或创作者在 X 上附带成片发布的帖子。"
+                       "点缩略图看带声音的原片。分组顺序按 [Artificial Analysis 视频榜](https://artificialanalysis.ai/video/leaderboard/text-to-video)排名，"
+                       "创作者帖子按点赞数排序，点赞数以标注日期为准。",
         "recipes": "Agent 配方：剪视频",
         "recipes_intro": "用大白话告诉编程 Agent 你要什么。每条配方记下交给 Agent 的原话和它实际跑的命令，换成你自己的素材即可。",
+        "guides": "指南与 skill",
+        "guides_official": "官方提示词指南",
+        "guides_community": "社区 skill 与案例库",
         "image": "图片提示词",
         "image_body": "下一批上线，做法相同：官方和广为流传的提示词，每条附成图。",
         "threed": "用 Agent 做 3D",
@@ -76,6 +85,7 @@ T = {
         "inputs": "输入素材",
         "source": "出处",
         "watch": "看原片",
+        "likes": "赞，统计于",
         "request": "交给 Agent 的原话",
         "commands": "Agent 实际跑的命令",
         "agent": "Agent",
@@ -123,6 +133,8 @@ def tag_line(tags):
 def video_entry(e, lang, t):
     s = e["source"]
     meta = f'{e["model"]} · {MODE_NAMES[lang][e["mode"]]} · {t["source"]}: [{s["name"]}]({s["url"]})'
+    if s.get("likes"):
+        meta += f' · {s["likes"]:,} {t["likes"]} {s["captured"]}'
     out = [f'<a id="{e["id"]}"></a>', f'### {e["title"][lang]}', "",
            f'<a href="{e["video"]}"><img src="previews/{e["id"]}.jpg" width="360"></a>', "",
            e["notes"][lang], "", meta, "", tag_line(e["tags"]), "",
@@ -144,7 +156,8 @@ def recipe_entry(e, lang, t):
 
 def build(lang, videos, recipes):
     t = T[lang]
-    by_model = {m: [v for v in videos if v["model"] == m] for m in MODELS}
+    by_model = {m: sorted((v for v in videos if v["model"] == m), key=lambda v: -v["source"].get("likes", 0))
+                for m in MODELS}
     assert sum(map(len, by_model.values())) == len(videos), "entry with a model missing from MODELS"
     ids = {v["id"] for v in videos}
     out = [
@@ -157,7 +170,7 @@ def build(lang, videos, recipes):
     ]
     out += [f'  - [{m}](#{anchor(m)}) ({len(by_model[m])})' for m in MODELS if by_model[m]]
     out += [f'- [{t["recipes"]}](#recipes) ({len(recipes)} {t["items"]})',
-            f'- [{t["image"]}](#image)', f'- [{t["threed"]}](#threed)',
+            f'- [{t["guides"]}](#guides)', f'- [{t["image"]}](#image)', f'- [{t["threed"]}](#threed)',
             f'- [{t["tags"]}](#tags)', f'- [{t["contrib"]}](#contributing)', ""]
 
     out += ['<a id="video"></a>', f'## {t["video"]}', "", t["video_intro"], ""]
@@ -170,6 +183,11 @@ def build(lang, videos, recipes):
     out += ['<a id="recipes"></a>', f'## {t["recipes"]}', "", t["recipes_intro"], ""]
     for r in recipes:
         out += recipe_entry(r, lang, t)
+
+    res = yaml.safe_load(open("resources.yaml", encoding="utf-8"))
+    out += ['<a id="guides"></a>', f'## {t["guides"]}', ""]
+    for key in ("official", "community"):
+        out += [f'### {t["guides_" + key]}', ""] + [f'- [{r["name"]}]({r["url"]}): {r[lang]}' for r in res[key]] + [""]
 
     out += ['<a id="image"></a>', f'## {t["image"]}', "", t["image_body"], "",
             '<a id="threed"></a>', f'## {t["threed"]}', "", t["threed_body"], ""]

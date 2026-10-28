@@ -1,0 +1,23 @@
+id: wan-jeweled-creatures-to-heels
+title:
+  en: Jewelled creatures turn into high heels
+  zh: 珠宝生物变成高跟鞋
+model: Wan 3.0
+mode: text-to-video
+tags:
+- fashion
+- transformation
+- cg
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2093213718540636649
+  credit: Talia
+  likes: 186
+  captured: '2026-10-27'
+  posted: '2026-08-28'
+video: https://x.com/TaliaAariz/status/2093213718540636649
+notes:
+  en: 'A repeating transformation: each step onto a creature turns it into a shoe. The pattern is stated once and the model repeats it.'
+  zh: 重复的变形：每踩一只生物就变成一只鞋。规律只说一次，模型自己重复。
+prompt: |
+  A hyper-realistic high-fashion CGI animation set in an opulent palace with marble floors, featuring a sequence where bare feet with matching manicured toenails step onto ornate, jewel-encrusted luxury creatures that magically transform into high-heeled shoes. First, a foot with red polished toes steps onto a ruby-and-gold jeweled snail, which unfolds and morphs into a breathtaking crimson gem-studded stiletto pump with delicate gold ankle straps. Next, a foot with blue nails steps onto a sapphire-blue jewel dragonfly, which transforms into a royal blue high heel adorned with shimmering iridescent wings at the heel. Finally, a foot with green nails steps onto a faceted emerald scarab beetle, which transforms into an elegant emerald stiletto featuring delicate butterfly wings, completing each transformation as the wearer steps forward in a luxury fashion showcase.

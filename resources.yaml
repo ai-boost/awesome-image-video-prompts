@@ -1,0 +1,55 @@
+# Rendered into the "Guides and skills" section of both READMEs.
+official:
+  - name: MiniMax H3 prompt-writing skill
+    url: https://github.com/MiniMax-AI/MiniMax-H3/tree/main/.claude/skills/h3-prompt-writing
+    en: Official agent skill that rewrites a plain idea into H3's structured prompt format. Local H3 runs look much better with it.
+    zh: 官方 Agent skill，把一句想法改写成 H3 的结构化提示词格式。本地跑 H3 用上它效果差别很大。
+  - name: Gemini Omni prompt guide
+    url: https://deepmind.google/models/gemini-omni/prompt-guide/
+    en: Conversational editing, camera changes, multi-input references, extend, first and last frame.
+    zh: 对话式编辑、换机位、多路参考、续写、首尾帧。
+  - name: Kling VIDEO 3.0 user guide
+    url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
+    en: Multi-shot, element binding, multilingual dialogue, accents, text rendering, 15-second takes.
+    zh: 多镜头、主体绑定、多语种对白、方言口音、文字渲染、15 秒长镜头。
+  - name: Veo 3 prompt guide
+    url: https://deepmind.google/models/veo/prompt-guide/
+    en: Dialogue in quotes, audio cues, long play-by-play prompts for action.
+    zh: 引号写台词、声音提示、动作戏的逐拍长提示词。
+  - name: Ultimate prompting guide for Veo 3.1
+    url: https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-veo-3-1
+    en: Five-part formula, timestamped multi-shot prompts, first-last-frame and ingredients workflows with Nano Banana.
+    zh: 五段式公式、带时间戳的多镜头写法，以及配合 Nano Banana 的首尾帧和多素材工作流。
+  - name: Sora 2 prompting guide
+    url: https://cookbook.openai.com/examples/sora/sora2_prompting_guide
+    en: Prompt anatomy, director-style briefs, dialogue blocks, edits, characters, extensions.
+    zh: 提示词结构、导演式说明、对白块、编辑、角色、续写。
+community:
+  - name: LearnPrompt/awesome-seedance
+    url: https://github.com/LearnPrompt/awesome-seedance
+    en: The largest Seedance 2.0 / 2.5 library, 840+ cases each traced to the original post.
+    zh: 最大的 Seedance 2.0 / 2.5 案例库，840 多条，每条都能追到原帖。
+  - name: dexhunter/seedance2-skill
+    url: https://github.com/dexhunter/seedance2-skill
+    en: Agent skill that writes Seedance prompts.
+    zh: 写 Seedance 提示词的 Agent skill。
+  - name: liyue-aigc/seedance-2-5-video-director
+    url: https://github.com/liyue-aigc/seedance-2-5-video-director
+    en: Seedance 2.5 director skill covering scripts, character locking, continuation, editing and transitions.
+    zh: Seedance 2.5 导演 skill：脚本、人物锁定、续写、编辑、转场。
+  - name: T8mars/minimax-h3-prompt-skill-T8
+    url: https://github.com/T8mars/minimax-h3-prompt-skill-T8
+    en: Prompt cases and installable skills for MiniMax H3 and Seedance.
+    zh: MiniMax H3 和 Seedance 的提示词案例与可安装 skill。
+  - name: smixs/visual-skills
+    url: https://github.com/smixs/visual-skills
+    en: Film-director skills for agents, from dramaturgy and blocking to per-model prompt syntax.
+    zh: 给 Agent 的电影导演 skill，从戏剧结构、走位到各模型的提示词语法。
+  - name: UnderleveledBuilder/awesome-short-drama-skills
+    url: https://github.com/UnderleveledBuilder/awesome-short-drama-skills
+    en: Curated skills for AI short dramas, from script and storyboard to video prompts.
+    zh: AI 短剧、漫剧 skill 精选，从剧本、分镜到视频提示词。
+  - name: joeseesun/opus-video-prompts
+    url: https://github.com/joeseesun/opus-video-prompts
+    en: Videos rendered from code written by Claude Opus 5.5, with copy-ready prompts.
+    zh: 用 Claude Opus 5.5 写代码渲染视频的案例和提示词。

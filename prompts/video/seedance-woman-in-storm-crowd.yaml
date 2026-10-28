@@ -1,0 +1,36 @@
+id: seedance-woman-in-storm-crowd
+title:
+  en: A woman stands still while the crowd moves in sync
+  zh: 人群齐动，她一动不动
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- fashion
+- crowd
+- reference-images
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2099707375943066094
+  credit: Smiling Khan
+  likes: 2128
+  captured: '2026-10-27'
+  posted: '2026-09-15'
+video: https://x.com/AIwithkhan/status/2099707375943066094
+notes:
+  en: Uploaded images lock the woman, the crowd and the framing. The text only directs motion and lists what must not appear.
+  zh: 上传的图锁定人物、人群和构图，文字只管动作和禁止项。
+prompt: |
+  Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman, crowd, wardrobe, framing, and atmosphere.
+  A young woman with the same short dark bob wears a fitted black turtleneck, black trousers, and black shoes, standing confidently at the center of a large crowd.
+  Start with her walking slowly toward the middle of the crowd, calm and expressionless, with a lit cigarette naturally held between her lips.
+  She reaches the center, stops, and faces directly into the camera.
+  She takes one slow drag from the cigarette, then removes it from her mouth.
+  She slowly exhales a visible stream of smoke toward the camera, with the smoke naturally drifting across her face.
+  She lowers her hand and becomes completely still, staring directly into the lens.
+  The entire crowd behind her remains frozen for a brief moment.
+  Suddenly, everyone behind her begins moving in perfect synchronization — sharp head turns, shoulder jerks, folding forward and snapping upright.
+  The movement should feel rhythmic, strange, powerful, and physically realistic.
+  The woman does not move at all while the entire crowd moves behind her.
+  Slowly push the camera closer to her, keeping her sharply focused while the crowd has subtle depth-of-field blur.
+  Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothing, cigarette ember, and physically accurate smoke.
+  Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.

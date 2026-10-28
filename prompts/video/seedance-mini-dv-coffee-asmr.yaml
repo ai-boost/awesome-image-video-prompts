@@ -1,0 +1,39 @@
+id: seedance-mini-dv-coffee-asmr
+title:
+  en: Mini DV coffee ASMR vlog
+  zh: Mini DV 咖啡 ASMR 小片
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- asmr
+- vlog
+- dv-camcorder
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2083094742682787939
+  credit: M-studioAi
+  likes: 833
+  captured: '2026-10-27'
+  posted: '2026-07-31'
+video: https://x.com/Strength04_X/status/2083094742682787939
+notes:
+  en: Organised under labelled blocks (`CAMERA / LOOK`, then subject, action, sound). Easy to reuse as a template.
+  zh: 按标签分块写（`CAMERA / LOOK`、主体、动作、声音），拿来当模板很方便。
+prompt: |
+  CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen morning light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+  STYLE: Cozy coffee-prep vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: bean grinder whirring, portafilter tamping, steam wand hissing, cup clinking, milk frothing.
+  SUBJECT: Young man in his mid-20s, plain t-shirt, hair slightly tousled, minimal accessories. Calm, focused energy while making his morning coffee.
+  SETTING: Small kitchen counter with an espresso machine on a bright morning. Natural daylight, coffee beans and a mug nearby, quiet atmosphere.
+  STORYBOARD:
+  → (3s, propped medium shot) Places camera on the counter, switches on the machine. "Morning coffee, the proper way."
+  → (3s, overhead shot) Grinds fresh coffee beans, fine grounds falling into the portafilter.
+  → (3s, close-up) Tamps the grounds down firmly and evenly.
+  → (3s, handheld shot) Locks the portafilter into the machine. "Here we go."
+  → (3s, detail shot) Espresso streams slowly into a small cup. No dialogue.
+  → (3s, medium shot) Pours cold milk into a small steel pitcher. "Time for the milk."
+  → (3s, macro shot) Steam wand hissing as it froths the milk.
+  → (3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
+  → (3s, warm ending shot) Holds the finished cup, takes a small sip, satisfied smile. "That's exactly what I needed."
+  → (3s, final shot) Reaches toward camera, still holding the cup. "See you later." Hand covers lens as recording ends.
+  AUDIO NOTES: Natural kitchen ambience — grinder whirring, tamping, steam hissing, milk pouring should be clearly audible. Dialogue quiet and casual.
+  REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.
