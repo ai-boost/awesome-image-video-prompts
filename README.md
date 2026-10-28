@@ -18,24 +18,24 @@
 
 ## Contents
 
-- [Video prompts](#video) (102 entries)
+- [Video prompts](#video) (106 entries)
   - [Wan 3.0](#wan30) (15)
-  - [MiniMax H3](#minimaxh3) (4)
+  - [MiniMax H3](#minimaxh3) (6)
   - [Seedance 2.5](#seedance25) (29)
   - [Gemini Omni Flash](#geminiomniflash) (17)
   - [Kling 3.0](#kling30) (25)
-  - [Veo 3.1](#veo31) (3)
+  - [Veo 3.1](#veo31) (5)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [Image prompts](#image) (33 entries)
-  - [Posters and editorial layouts](#img-poster) (7)
-  - [Photo to art](#img-photo-to-art) (7)
-  - [Photo realism](#img-realism) (8)
-  - [Portraits](#img-portrait) (4)
+- [Image prompts](#image) (40 entries)
+  - [Posters and editorial layouts](#img-poster) (10)
+  - [Photo to art](#img-photo-to-art) (8)
+  - [Photo realism](#img-realism) (9)
+  - [Portraits](#img-portrait) (5)
   - [Illustration](#img-illustration) (3)
   - [Phone and UI mockups](#img-ui-mockup) (2)
   - [Maps](#img-map) (1)
-  - [Collage](#img-collage) (1)
+  - [Collage](#img-collage) (2)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
 - [3D with agents](#threed)
@@ -1462,6 +1462,84 @@ Respect for the combat but no mercy. Dark and gritty. The master is unstoppable.
 
 <a id="minimaxh3"></a>
 ## MiniMax H3
+
+<a id="h3-character-detail-montage"></a>
+### Twenty shot character detail montage, face revealed last
+
+<a href="https://x.com/aimikoda/status/2100258514132217859"><img src="previews/h3-character-detail-montage.jpg" width="360"></a>
+
+A numbered shot list with time blocks and one abrupt camera move per shot builds three connected action bursts. Faces stay out of frame until shot 20, and hard match cuts link similar shapes without morphing.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2100258514132217859) · 3,281 likes on 2026-10-28
+
+[`character-reference`](#tag-character-reference) [`montage`](#tag-montage) [`hard-cuts`](#tag-hard-cuts) [`camera-moves`](#tag-camera-moves) [`studio-background`](#tag-studio-background)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use @[character reference] for the character's identity, anatomy, costume, colors, materials and visual style. Adapt body-region cues to its actual anatomy, replacing absent features with existing equivalents. Invent no anatomy or accessories. Select signature inserts from its most recognizable details. Rigid parts rotate; flexible materials bend or stretch.
+
+A 15-second character-detail montage: exactly 20 shots joined by hard cuts. An empty, seamless warm-white studio background; soft directional light reveals the surfaces. Shots 1-19 are tightly cropped body details and rear angles: keep the face, eyes and facial profile entirely outside the frame, including reflections. Shot 20 is the first and only face reveal. No full-body view.
+
+Three connected bursts: a sharp head turn with the body bracing; a coiled arm opening into a strong sweep and torso twist; one short step into a planted pivot, finishing with a sudden look into camera. Carry body state across cuts without resetting to neutral. Existing hair, clothing and attachments react naturally. Keep the character active, with clear articulation and weight shifts.
+
+Jump between distant body regions. Mix brief visual punches with longer moving-detail reads. Use one abrupt camera move per shot except locked-camera inserts 4 and 11, where the character supplies the speed. Vary height, angle and direction. Brake moves briefly for legibility while the subject keeps moving. Local whips stay tightly cropped; changes of body region use hard cuts. Connect selected cuts through similar shapes or motion vectors, without morphing. Real-time action, no slow motion or freeze frames.
+
+0-3s, shots 1-5. A concealed head turn triggers the first burst:
+1. Extreme upper-back detail: a crash push catches its surface shifting as a sharp head turn begins entirely above the crop.
+2. Fingers: a short downward snap catches them curling into a fist as the body braces.
+3. Rear three-quarter shoulder detail: a tight camera arc catches the shoulder drawing back behind the turning head.
+4. Locked floor-level foot detail: the grounded support foot braces, its raised heel pressing down firmly without taking a step.
+5. Rear neck detail: a short upward tilt catches the nape stretching with the turn; stop below the back of the head, keeping the jaw and face excluded.
+
+3-9s, shots 6-13. The coiled arm opens into a forceful sweep:
+6. A signature upper-body detail: a fast diagonal slide catches an existing seam, joint or distinctive contour responding as the arm draws inward.
+7. Elbow: a sharp lateral track catches the folding joint tightening the arm's coil.
+8. Supporting knee: hard match cut from the bent elbow to the knee's similar angle; a short camera drop catches the leg compressing under the same preparation.
+9. Wrist: a quick shallow orbit catches it turning outward to initiate the release.
+10. Upper chest: a short punch-in catches the chest opening as the arm drives outward beyond the crop. Let this moving surface read slightly longer.
+11. Locked hand detail: fingers spring open and the hand sweeps rapidly across the fixed frame. Catch one crisp, readable phase of the spread fingers before they leave the crop.
+12. Upper back: a sharp sideways slide continues that screen direction as the shoulder rolls through the sweep and the torso twists.
+13. A distinctive torso or waist detail: a close diagonal move catches its physical response to the twist, such as an existing fold pulling taut or an attached piece swinging. Give the material response a clear moving read.
+
+9-13s, shots 14-19. One short step and a pivot build toward the reveal:
+14. Thigh of the other leg: an abrupt low tracking move catches it driving the single short step out of the twist.
+15. Advancing foot: a brief downward whip catches it landing; show clear floor contact.
+16. Ankle and lower-leg detail: a fast side slide catches the landed leg accepting weight as the ankle flexes.
+17. Waist: a tight orbit catches the torso rotating above the planted-foot pivot. The foot supports the turn rather than sliding across the floor.
+18. Back-of-head contour: a short lateral whip catches the start of the return turn from behind. Keep only the rear contour in frame, never the facial profile.
+19. A signature shoulder detail: a sharp diagonal slide catches its follow-through beneath the turning head, which stays completely above the crop. Cut at the peak of this movement.
+
+13-15s, shot 20. First face reveal:
+20. Hard cut to a frontal face close-up as the character sharply completes the turn toward the lens. An explosive short push reveals the entire face clearly for the first time and stops tightening before cropping out its features. Direct eye contact lands while hair, clothing or natural body follow-through remains alive. Keep the whole face readable through the end; finish on living motion, without a held pose or another cut.
+
+No added props, scenery, text, graphic overlays or split screens.
+```
+
+</details>
+
+<a id="h3-grid-storyboard-anime-park-run"></a>
+### Anime boy glancing back while running in park
+
+<a href="https://x.com/8co28/status/2099171324568760589"><img src="previews/h3-grid-storyboard-anime-park-run.jpg" width="360"></a>
+
+A 3x3 panel image is fed as the reference, and the prompt asks for cuts running from the first panel to the last, so the storyboard plays back almost as drawn. Forbidding multiple panels on screen and BGM keeps each shot full frame and the audio clean.
+
+MiniMax H3 · Reference-to-video · Source: [@8co28 on X](https://x.com/8co28/status/2099171324568760589) · 1,599 likes on 2026-10-28
+
+[`storyboard`](#tag-storyboard) [`anime`](#tag-anime) [`2d-animation`](#tag-2d-animation) [`grid-reference`](#tag-grid-reference) [`multi-shot`](#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+When you take this 3x3 image and turn it into an AI video with r2v, it will roughly become the footage as-is with the following settings:
+
+Minimax H3 Max r2v 480p 15 seconds Prompt adjustment: Quality Reference strength: Standard
+"A 2D animation where the cut switches from the top-left panel to the bottom-right panel,
+No multiple panels allowed, No BGM"
+```
+
+</details>
 
 <a id="h3-flat-vector-curry-delivery-explainer"></a>
 ### Flat Vector Curry Delivery Explainer Animation
@@ -4167,6 +4245,104 @@ The howling wind roars as the projectile travels straight and true. The manicure
 
 </details>
 
+<a id="veo-strawberry-jar-assembly"></a>
+### Strawberry skincare jar assembling on red background
+
+<a href="https://x.com/ChillaiKalan__/status/2029019321364824452"><img src="previews/veo-strawberry-jar-assembly.jpg" width="360"></a>
+
+The prompt starts from an empty set and numbers each object's entrance, so the assembly order is explicit. A locked camera, a ban on bouncing and an end frame matching the reference image keep the motion clean and controlled.
+
+Veo 3.1 · Reference-to-video · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2029019321364824452) · 582 likes on 2026-10-28
+
+[`product-commercial`](#tag-product-commercial) [`assembly`](#tag-assembly) [`skincare`](#tag-skincare) [`locked-camera`](#tag-locked-camera) [`sound-design`](#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded image as the exact visual reference for jar design, label, strawberries, raspberries, flowers, leaves, condensation droplets, red gradient background, and reflective surface.
+
+Camera:
+Locked front-facing camera.
+No zoom.
+No rotation.
+No angle change.
+Studio composition remains centered.
+
+Style:
+Premium beauty commercial.
+Smooth assembling sequence.
+Ultra realistic.
+Slow motion but not dramatic.
+
+Scene – Start (Empty Setup):
+Start with an empty red gradient background and glossy reflective surface.
+No jar.
+No fruits.
+No flowers.
+No water droplets.
+
+Assembling Sequence:
+
+1. The glass jar base smoothly slides into frame from below and settles perfectly centered.
+2. The lid gently lowers from above and aligns perfectly on the jar.
+3. Condensation droplets subtly appear on the glass surface as if forming naturally.
+4. Raspberries roll in softly from left and right, stopping naturally around the base.
+5. Strawberry halves slide into position at the front.
+6. Whole strawberries gently drop from above into the open jar top and settle naturally.
+7. Small white flowers softly fall into place between the strawberries.
+8. Green leaves slide in behind the jar to frame it.
+9. Final micro water droplets appear on fruits for freshness effect.
+
+All movements smooth and controlled.
+No bouncing.
+No exaggerated motion.
+No dramatic lighting changes.
+
+Lighting:
+Keep original studio lighting.
+Deep red background glow remains consistent.
+Soft reflections on the glossy surface.
+
+Sound (if supported):
+Soft subtle assembling sound design.
+Gentle fruit placement sounds.
+Light glass contact sound.
+No music or very subtle premium ambient tone.
+
+End Frame:
+Fully assembled composition exactly matching the reference image.
+Everything perfectly arranged.
+Hold for 1–2 seconds.
+Ultra clean luxury skincare commercial finish.
+```
+
+</details>
+
+<a id="veo-live-streamer-neon-desk"></a>
+### Excited Streamer Reacting at Neon Gaming Desk
+
+<a href="https://x.com/HBCoop_/status/1995206291120087487"><img src="previews/veo-live-streamer-neon-desk.jpg" width="360"></a>
+
+The prompt describes a medium close-up with pulsing neon light and a handheld micro-sway, so the shot feels like a live stream. It also lists audio layers such as room ambience, keyboard clicks, mic hum and distant game sounds. A Midjourney character reference and a Nano Banana Pro start frame keep the face consistent.
+
+Veo 3.1 · Image-to-video · Source: [@HBCoop_ on X](https://x.com/HBCoop_/status/1995206291120087487) · 366 likes on 2026-10-28
+
+[`streamer`](#tag-streamer) [`neon-lighting`](#tag-neon-lighting) [`handheld-camera`](#tag-handheld-camera) [`native-audio`](#tag-native-audio) [`character-reference`](#tag-character-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Nano Banana Pro -> Veo 3.1 on
+@FlowbyGoogle
+
+
+Character reference: Midjourney
+
+Video prompt: A medium close-up shot of a young woman streaming live at her gaming desk, bathed in neon pink-blue LED lighting that pulses subtly in the background. She reacts with wide-eyed excitement, leaning closer to the camera while gripping her controller, her plaid shirt shifting naturally with the movement. The camera performs a gentle handheld micro-sway to match the high-energy, real-time feel of a live stream. Her chat monitor glows off-screen, casting soft highlights on her face as her expression shifts between shock and joy. Audio includes soft room ambience, quiet keyboard clicks, a faint microphone hum, and the distant echoes of gameplay sound effects.
+```
+
+</details>
+
 <a id="veo3"></a>
 ## Veo 3
 
@@ -4878,6 +5054,113 @@ Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, 
 
 </details>
 
+<a id="gpt-image-terrestrial-life-species-infographic"></a>
+### Honey bee educational infographic with data modules
+
+<a href="https://x.com/iamsofiaijaz/status/2113510238846672945"><img src="previews/gpt-image-terrestrial-life-species-infographic.jpg" width="360"></a>
+
+A subject placeholder lets one template cover any species. It names every module (profile sidebar, facts list, size chart, rating, habitat icons, status slider) and fixes the palette to soft beige for a journal look.
+
+GPT Image 2.5 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113510238846672945) · 230 likes on 2026-10-28
+
+[`infographic`](#tag-infographic) [`educational`](#tag-educational) [`template`](#tag-template) [`scientific`](#tag-scientific) [`layout`](#tag-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
+```
+
+</details>
+
+<a id="gpt-image-landmark-sketch-travel-poster"></a>
+### Istanbul landmark sketch travel poster in red ink
+
+<a href="https://x.com/Naiknelofar788/status/2101315631237021853"><img src="previews/gpt-image-landmark-sketch-travel-poster.jpg" width="360"></a>
+
+A fill in the blank template swaps in the landmark, city and coordinates while fixed style terms keep the look consistent. Ivory paper, hatching, halftone, geometric shapes and a 4:5 ratio give the print feel.
+
+GPT Image 2.5 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2101315631237021853) · 211 likes on 2026-10-28
+
+[`travel-poster`](#tag-travel-poster) [`architecture`](#tag-architecture) [`sketch`](#tag-sketch) [`halftone`](#tag-halftone) [`template`](#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.
+
+Use a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.
+
+Surround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.
+
+Include small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.
+
+Clean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.
+
+[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.
+```
+
+</details>
+
+<a id="gpt-image-travel-poster-photo-diorama-split"></a>
+### Shanghai skyline photo paired with isometric miniature diorama
+
+<a href="https://x.com/Goodmanprotocol/status/2107675234858131544"><img src="previews/gpt-image-travel-poster-photo-diorama-split.jpg" width="360"></a>
+
+The poster is split into two stacked halves, a photoreal destination scene on top and an isometric diorama of the same scene on a dark slab below. Continuity rules, a bracketed location slot and fixed typography blocks with warm off white negative space keep the layout reusable for any city.
+
+GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2107675234858131544) · 200 likes on 2026-10-28
+
+[`travel-poster`](#tag-travel-poster) [`isometric`](#tag-isometric) [`diorama`](#tag-diorama) [`miniature`](#tag-miniature) [`editorial-layout`](#tag-editorial-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 3:4 vertical editorial travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.
+
+COMPOSITION
+Divide the poster into two seamless stacked halves with no gap.
+
+TOP HALF:
+Create a full-width photorealistic cinematic travel scene representing [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose its most recognizable architecture, surroundings, atmosphere, materials, colors, and natural lighting. Treat this as the authentic photographic view of the destination.
+
+BOTTOM HALF:
+Transform the same scene into a highly detailed isometric miniature diorama viewed from approximately a 45° elevated angle. Rebuild the recognizable architecture, streets, landscape, vegetation, and surrounding elements as a physically believable miniature world on a thin dark-gray rectangular base slab.
+
+Maintain visual continuity between the upper photograph and lower diorama — same architecture, same environment, same lighting mood, and recognizable details — while making the lower section clearly handcrafted as a miniature.
+
+EDITORIAL LAYOUT
+Place the diorama toward the lower-right area, leaving generous warm off-white negative space around it.
+
+Use thin dark-navy sans-serif typography in the empty space:
+- a poetic 3-line uppercase title
+- “/”
+- a short 4-line travel verse
+- bottom-left: “001” followed by a thin horizontal rule and [CITY / COUNTRY]
+- bottom-right: a thin horizontal rule followed by accurate GPS coordinates
+
+Automatically determine the appropriate city, country, landmark, and coordinates from [COUNTRY / CITY / LOCATION / SUBJECT].
+
+STYLE
+Photorealistic travel photography × hyper-detailed architectural miniature × premium editorial design × quiet luxury travel journal.
+
+Use realistic materials, miniature-scale details, natural shadows, subtle depth of field, warm off-white paper, restrained dark-navy typography, and sophisticated negative space.
+
+The lower diorama must feel physically constructed rather than like a flat illustration — tiny buildings, roads, vegetation, textures, shadows, and architectural details should have believable scale and depth.
+
+FINAL AESTHETIC
+Minimal, intelligent, atmospheric, collectible, and highly refined — a contemporary travel journal combining the real destination with its miniature architectural memory.
+
+Avoid collage seams, separate unrelated scenes, generic architecture, invented landmarks, excessive typography, glossy CGI, cartoon styling, clutter, logos, watermarks, borders, and UI elements.
+
+FORMAT
+3:4 vertical, two stacked halves, no gap, upper photorealistic destination scene, lower isometric miniature diorama, premium editorial finish.
+```
+
+</details>
+
 <a id="nano-banana-artbook-spread"></a>
 ### Nostalgic magazine artbook spread from a photo
 
@@ -5213,6 +5496,33 @@ Use a subtly warm-white seamless background, soft high-key studio lighting, gent
 **The source photograph determines WHAT is depicted. The style reference determines HOW it is depicted.**
 
 Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust with a distinctive oversized head, tiny facial features, sculptural yarn construction, contrasting textile textures, a deliberate color palette, and clean white studio lighting. Preserve the original subject’s identity and visible content without inventing anything beyond the photographic evidence.
+```
+
+</details>
+
+<a id="gpt-image-blue-doodle-couple-photo"></a>
+### Photo turned into blue doodle couple
+
+<a href="https://x.com/Ciri_ai/status/2114588014034948562"><img src="previews/gpt-image-blue-doodle-couple-photo.jpg" width="360"></a>
+
+The prompt says what to preserve (people, pose, composition) and then simplifies the style with a tight palette of cobalt outlines, peach blush and golden hearts on cream paper. Negative constraints such as no gradients, no shading and no textures keep the result flat and hand drawn.
+
+GPT Image 2.5 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2114588014034948562) · 280 likes on 2026-10-28
+
+[`doodle`](#tag-doodle) [`minimalist`](#tag-minimalist) [`couple`](#tag-couple) [`blue-ink`](#tag-blue-ink) [`photo-to-illustration`](#tag-photo-to-illustration)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform your photo into a minimalist doodle illustration using GPT Image 2.5.
+
+Prompt: Transform the uploaded photo into a cute minimalist hand-drawn doodle illustration. Preserve the original people, pose, composition, and recognizable facial characteristics, but simplify them into charming cartoon forms.
+
+Use a naive handmade sketchbook aesthetic with bold, slightly wobbly cobalt-blue brush-pen outlines, simple rounded shapes, minimal details, and imperfect hand-drawn strokes. Add subtle warm peach/pink blush on the cheeks and small golden-yellow heart accents around the characters.
+
+Keep the illustration clean and airy with a warm cream/off-white paper background. Use flat, very limited colors, no realistic shading, no gradients, and no complex textures. The overall feeling should be sweet, wholesome, playful, cozy, and romantic, like a handmade children's doodle or personal notebook drawing.
+
+Style keywords: minimalist doodle, folk-inspired hand drawing, blue ink illustration, cute couple illustration, naive art, imperfect brush strokes, simple cartoon, handmade sketchbook aesthetic, warm cream paper, subtle blush, tiny heart doodles, charming imperfections, clean composition.
 ```
 
 </details>
@@ -5624,6 +5934,41 @@ GPT-Image 2.5 Sunburst & Flare are available on Higgsfield. try this with your o
 
 </details>
 
+<a id="gpt-image-tree-sun-skyline-frozen-lake"></a>
+### Tree silhouette against huge sun over frozen lake
+
+<a href="https://x.com/churvikv/status/2110114825082945740"><img src="previews/gpt-image-tree-sun-skyline-frozen-lake.jpg" width="360"></a>
+
+The prompt is split into labeled blocks for sky, sun, tree, city, water, reflection and palette, so each element gets its own placement rules. A long negative list and explicit rules such as buildings never overlapping the tree or sun keep the symmetrical composition intact.
+
+GPT Image 2.5 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2110114825082945740) · 150 likes on 2026-10-28
+
+[`silhouette`](#tag-silhouette) [`sunset`](#tag-sunset) [`skyline`](#tag-skyline) [`reflection`](#tag-reflection) [`panoramic`](#tag-panoramic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic silhouette sunset composite, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
+
+SKY: the upper half is a furnace of amber, apricot and burnt gold, deepest at the horizon, cooling to smoky blue-grey at the very top. Long streaky cirrus clouds sweep diagonally across it, undersides lit gold, edges trailing thin warm wisps.
+
+SUN: one huge perfectly round pale white-hot sun disc sits exactly at the centre of the frame just above the treeline, its rim glowing and bleeding a soft warm halo into the surrounding orange.
+
+TREE: dead centre, in front of the sun, a single massive spreading broadleaf tree in pure black silhouette — a thick trunk flaring at the base into a rounded knoll, and a vast dense canopy of fine branch tracery and leaf clusters spreading wide and symmetrical, its edges softly dissolving into the glow.
+
+CITY: flanking the tree, a dense skyline of black skyscraper silhouettes stands along a low ridge of rooftops. Left, a tall stepped tower with twin thin antennae, ringed by shorter blocks. Right, three dark high-rises of graduated height, one carrying a slender spire. The buildings never overlap the tree and never cross the sun.
+
+WATER: the entire lower third is a frozen lake surface, not smooth water — a turbulent marbled expanse of glacial ice and flowed stone, banded in chalky white, sea-green, slate grey and warm tan in long swirling veins.
+
+REFLECTION: sky, sun, tree and skyline all mirror downward into that marbled surface, broken and stretched by the ice grain. The reflected sun lies as a broad soft gold field beneath the trunk, the reflected tree spreads as a dark root-mass of branching veins below it, and the reflected towers hang as vertical dark bars, all smeared by the swirling white and green stone.
+
+PALETTE: pure black, apricot, amber gold, burnt orange, smoky grey, chalk white, glacier green, tan. Sharp silhouette edges against soft glow, high dynamic range, clean and unmarked.
+
+text, watermark, logo, signature, artist signature, handwritten signature, initials, monogram, date, stamp, seal, lettering of any kind, any words, digits, frame, border, picture frame, mat, bevel, molding, plaque, rectangular outline, painting, illustration, oil painting, impasto, watercolor, colored pencil, airbrush, digital art, cartoon, anime, chibi, flat 2d vector, blurry, soft focus, noisy grain, neon, fluorescent, oversaturated greens, blue midday sky, sunrise pink, purple sky, night, moon, stars, clouds covering the sun, rain, storm, lightning, snow falling, second tree, forest, multiple trees, leaves visible on tree with colour, lit windows on buildings, people, faces, birds, animals, deer, boat, ship, dock, bridge, road, cars, traffic, streetlamps, palm trees, mountains, desert, ocean waves, beach, sun cut off, tree cut off, off-centre tree, asymmetric composition
+```
+
+</details>
+
 <a id="img-portrait"></a>
 ## Portraits
 
@@ -5677,6 +6022,45 @@ Nano Banana 2.1 · Edit · Source: [@Emmma___0 on X](https://x.com/Emmma___0/sta
 
 ```text
 Transform the uploaded image into a modern studio portrait. Preserve the subject’s identity and features. Show half the face on the left; stack [NAME] vertically on the right, with each letter filled by matching details from the hidden half. Seamless alignment, [BACKGROUND] backdrop, [LIGHTING], modern typography.
+```
+
+</details>
+
+<a id="nano-banana-hibiscus-film-portrait"></a>
+### Vintage film portrait framed by pink hibiscus flowers
+
+<a href="https://x.com/ZaraIrahh/status/2107705937012142393"><img src="previews/nano-banana-hibiscus-film-portrait.jpg" width="360"></a>
+
+Shooting through foreground petals at eye level builds a natural floral frame, while hard rules like side part, one hand and head to chest crop keep the composition fixed. Film grain, halation and light leaks plus a long negative list steer the result away from a polished studio look.
+
+Nano Banana 2.1 · Text-to-image · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2107705937012142393) · 206 likes on 2026-10-28
+
+[`portrait`](#tag-portrait) [`film-look`](#tag-film-look) [`floral`](#tag-floral) [`photorealistic`](#tag-photorealistic) [`golden-light`](#tag-golden-light)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a photorealistic portrait of her in a refined side-profile-inspired three-quarter angle, with her head naturally turned toward the camera and making direct eye contact. Clearly defined SIDE PART — NEVER a center or middle part.
+
+She has extremely long, rich Dark Mocha Mousse curly hair, dramatically moved by a strong natural breeze, with realistic flyaways and loose strands. No ribbons, bows, headwear, hats, or hair accessories.
+
+Soft-glam Korean-inspired makeup: visible natural pores, luminous realistic skin texture, rosy blush, subtle brown eyeliner, softly defined eyes, rosy gradient lips, and nude espresso nail art. She wears a magenta-soft-purple thin-strap mini dress with a subtle heart-shaped neckline barely visible at the chest. Gold fairy-wing pendant necklace with matching earrings.
+
+ONE HAND is naturally raised in front of her face, gently pushing or clearing a hibiscus flower away from her line of sight. Fingers and joints must be anatomically realistic. Her other hand is completely outside the frame.
+
+Expression: calm, intimate, slightly curious, natural and emotionally subtle.
+
+EYE-LEVEL CAMERA positioned directly among dense blooming soft-pink and white hibiscus flowers, photographing THROUGH the flowers. Foreground petals, leaves, and stems are very close to the lens and naturally overlap the outer edges of the frame, creating an intimate organic floral frame. Flowers must not obscure her eyes or facial features.
+
+NO WIDE VIEW. The subject fills approximately 85–95% of the frame. ONLY HEAD TO CHEST VISIBLE.
+
+VISUAL STYLE:
+Warm nostalgic historical-memory aesthetic. Authentic vintage Canon analog-film character, subtle natural film grain, delicate halation, slightly faded tones, gentle light leaks, realistic exposure imperfections, soft natural shadows, authentic raw human skin texture, and warm soft daylight. Strong wind visibly moves the curls and loose strands. Mild natural motion blur ONLY on moving hair and nearby flower petals.
+
+The final image should feel like a candid, emotionally intimate photograph captured on vintage film rather than a polished studio portrait.
+
+NEGATIVE PROMPT:
+center part, middle part, ribbons, bows, headwear, hat, full body, waist-down, staircase focus, wide shot, distant subject, excessive background, artificial bokeh, studio lighting, smartphone photography, modern digital DSLR look, CGI, cartoon, anime, illustration, plastic skin, beauty filter, over-retouched skin, excessive facial smoothing, face swap, distorted facial anatomy, unnatural hands, malformed fingers, extra fingers, missing fingers, floating limbs, flower covering face, obscured eyes, closed eyes, facial distortion, unnatural pose, watermark, text, logo.
 ```
 
 </details>
@@ -6046,6 +6430,73 @@ OPTIONAL DETAILS:
 <a id="img-collage"></a>
 ## Collage
 
+<a id="gpt-image-photo-to-paper-second-world"></a>
+### Window Photo Continuing Into Ink Sketch Paper
+
+<a href="https://x.com/harboriis/status/2110328832352010584"><img src="previews/gpt-image-photo-to-paper-second-world.jpg" width="360"></a>
+
+A split canvas makes one structure, here the windowsill, cross the seam so the photo continues as paper and line drawing. A torn edge follows the source shape, and a short handwritten caption closes the scene.
+
+GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2110328832352010584) · 171 likes on 2026-10-28
+
+[`split-canvas`](#tag-split-canvas) [`paper-collage`](#tag-paper-collage) [`line-doodle`](#tag-line-doodle) [`continuity`](#tag-continuity) [`editorial`](#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Vertical 3:4 canvas split into two strictly equal horizontal halves: top 50% and bottom 50%. The upper half stays photographic; the lower half becomes the continued Second World. Together they must read as one scene.
+
+the
+
+UPPER HALF
+
+Keep the photo faithful. Preserve the subject, pose, spatial relationships, color atmosphere, and natural light. Do not redesign, repaint, replace, or restage it. Only necessary proportional
+
+cropping is allowed.
+
+CONTINUITY (highest priority)
+
+Identify one source structure that naturally reaches the center split: a road, shoreline, water, reflection, branch, beam of light, piece of architecture, or body movement. This structure must cross the boundary and continue into the lower half. The Second World begins from the photograph itself, so the same scene passes through the seam and simply changes its physical rules.
+
+TRANSITION EDGE
+
+The center may use an irregular torn-paper edge, but the tear must follow the source structure, never act as decoration. Source elements may touch, follow, break through, or extend beyond edge. Never force the same tear shape onto every image.
+
+The Second World
+
+LOWER HALF
+
+Ivory paper with subtle fibers and abundant negative space. Continue the chosen structure downward from the exact point where it meets the split, then reinterpret it with restrained photo fragments, cut-paper forms, and minimal black hand-drawn lines. The lower world must stay visibly attached Never isolate it as a separate portal, window, stage, platform, or floating vignette unless it clearly comes from the photo.
+
+SECOND WORLD LOGIC
+
+Ask: if this structure became touchable, usable, enterable, or changeable, what would it naturally become? Create one image-specific interaction. For example, water may stay attached while being pulled, a road may continue as a drawn path, or light may become something held. Do not repeat actions mechanically.
+
+FIGURES
+
+Add 0-3 tiny black line figures only when useful. They must physically interact with the continued structure. If the photo already contains strong human action, add none. Never use figures as decoration.
+
+World
+
+CAPTION
+
+One
+
+short handwritten English caption (2-6 words) based on the action. Natural, light, slightly witty. Spell it correctly. No inspirational quotes and no fixed "Same..., different..." phrasing.
+
+STYLE
+
+Real photography above, warm paper below, minimal black line doodles, subtle handmade collage texture, independent-magazine mood. Bright, airy, restrained. It should feel as if the Second already hidden inside the photo and simply continued downward.
+
+was
+
+NEGATIVE
+
+No detached lower-half illustration, no generic torn-paper template, no isolated portal, no unrelated vignette, no broken continuity, no dense illustration, no random decoration, no crowd, altered photo colors, no redesign of the upper image, no glossy 3D, no scrapbook clutter, no gibberish text, no watermark, no logo, no UI.
+```
+
+</details>
+
 <a id="nano-banana-newspaper-collage"></a>
 ### Recreate any image as a newspaper collage
 
@@ -6232,6 +6683,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
+- <a id="tag-2d-animation"></a>`2d-animation` (1): [Anime boy glancing back while running in park](#h3-grid-storyboard-anime-park-run)
 - <a id="tag-30-seconds"></a>`30-seconds` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-3d"></a>`3d` (2): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
 - <a id="tag-3d-animation"></a>`3d-animation` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
@@ -6244,9 +6696,10 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-analog"></a>`analog` (1): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin)
 - <a id="tag-animal"></a>`animal` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
 - <a id="tag-animation"></a>`animation` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
-- <a id="tag-anime"></a>`anime` (6): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
-- <a id="tag-architecture"></a>`architecture` (2): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
+- <a id="tag-anime"></a>`anime` (7): [Anime boy glancing back while running in park](#h3-grid-storyboard-anime-park-run), [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-architecture"></a>`architecture` (3): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster), [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-asmr"></a>`asmr` (1): [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
+- <a id="tag-assembly"></a>`assembly` (1): [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
 - <a id="tag-audio"></a>`audio` (1): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film)
 - <a id="tag-audio-sync"></a>`audio-sync` (2): [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
 - <a id="tag-ball-pov"></a>`ball-pov` (1): [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
@@ -6254,10 +6707,12 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-beats"></a>`beats` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-bilingual"></a>`bilingual` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
 - <a id="tag-billiards"></a>`billiards` (1): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket)
+- <a id="tag-blue-ink"></a>`blue-ink` (1): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-cafe"></a>`cafe` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-camera-angle"></a>`camera-angle` (2): [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
 - <a id="tag-camera-move"></a>`camera-move` (4): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up)
 - <a id="tag-camera-movement"></a>`camera-movement` (1): [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight)
+- <a id="tag-camera-moves"></a>`camera-moves` (1): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage)
 - <a id="tag-camera-plan"></a>`camera-plan` (1): [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-camera-roll"></a>`camera-roll` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
 - <a id="tag-cats"></a>`cats` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
@@ -6265,7 +6720,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-cg"></a>`cg` (2): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle)
 - <a id="tag-character"></a>`character` (2): [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk), [Old sailor speaks in verse](#veo-old-sailor-verse)
 - <a id="tag-character-consistency"></a>`character-consistency` (6): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
-- <a id="tag-character-reference"></a>`character-reference` (3): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-character-reference"></a>`character-reference` (5): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage), [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Excited Streamer Reacting at Neon Gaming Desk](#veo-live-streamer-neon-desk), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-character-sheet"></a>`character-sheet` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-chase"></a>`chase` (1): [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-chiaroscuro"></a>`chiaroscuro` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
@@ -6285,6 +6740,8 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-consistency"></a>`consistency` (2): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
 - <a id="tag-construction"></a>`construction` (2): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-continuation"></a>`continuation` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
+- <a id="tag-continuity"></a>`continuity` (1): [Window Photo Continuing Into Ink Sketch Paper](#gpt-image-photo-to-paper-second-world)
+- <a id="tag-couple"></a>`couple` (1): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-cover"></a>`cover` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
 - <a id="tag-creature"></a>`creature` (4): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
 - <a id="tag-crowd"></a>`crowd` (2): [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd)
@@ -6292,11 +6749,15 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-dance"></a>`dance` (3): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-desert"></a>`desert` (1): [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight)
 - <a id="tag-dialogue"></a>`dialogue` (11): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Four family members react to a plot twist](#kling-family-reacts-to-twist), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Harbour conversation extended twice](#omni-harbour-extend), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [Old sailor speaks in verse](#veo-old-sailor-verse)
+- <a id="tag-diorama"></a>`diorama` (1): [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
+- <a id="tag-doodle"></a>`doodle` (1): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo)
 - <a id="tag-dragon"></a>`dragon` (1): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film)
 - <a id="tag-drama"></a>`drama` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-dv-camcorder"></a>`dv-camcorder` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
-- <a id="tag-editorial"></a>`editorial` (4): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
+- <a id="tag-editorial"></a>`editorial` (5): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Window Photo Continuing Into Ink Sketch Paper](#gpt-image-photo-to-paper-second-world), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
+- <a id="tag-editorial-layout"></a>`editorial-layout` (1): [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-editorial-poster"></a>`editorial-poster` (3): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
+- <a id="tag-educational"></a>`educational` (1): [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-emotion"></a>`emotion` (1): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur)
 - <a id="tag-emotional"></a>`emotional` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-explainer"></a>`explainer` (2): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer), [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
@@ -6309,9 +6770,10 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-ffmpeg"></a>`ffmpeg` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-fight-scene"></a>`fight-scene` (3): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight)
 - <a id="tag-film-grain"></a>`film-grain` (1): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait)
-- <a id="tag-film-look"></a>`film-look` (3): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
+- <a id="tag-film-look"></a>`film-look` (4): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet), [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-first-last-frame"></a>`first-last-frame` (1): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan)
 - <a id="tag-flat-vector"></a>`flat-vector` (1): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer)
+- <a id="tag-floral"></a>`floral` (1): [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-focus-pull"></a>`focus-pull` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
 - <a id="tag-foliage"></a>`foliage` (1): [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
 - <a id="tag-food"></a>`food` (3): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking)
@@ -6322,22 +6784,28 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-giant"></a>`giant` (1): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-gif"></a>`gif` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
 - <a id="tag-golden-hour"></a>`golden-hour` (1): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait)
+- <a id="tag-golden-light"></a>`golden-light` (1): [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-gpt-image-workflow"></a>`gpt-image-workflow` (1): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
 - <a id="tag-grid"></a>`grid` (2): [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
 - <a id="tag-grid-layout"></a>`grid-layout` (1): [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
-- <a id="tag-halftone"></a>`halftone` (1): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster)
+- <a id="tag-grid-reference"></a>`grid-reference` (1): [Anime boy glancing back while running in park](#h3-grid-storyboard-anime-park-run)
+- <a id="tag-halftone"></a>`halftone` (2): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster)
 - <a id="tag-handheld"></a>`handheld` (6): [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Off-road rally through a river crossing](#veo-off-road-rally), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
+- <a id="tag-handheld-camera"></a>`handheld-camera` (1): [Excited Streamer Reacting at Neon Gaming Desk](#veo-live-streamer-neon-desk)
 - <a id="tag-hands"></a>`hands` (1): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro)
 - <a id="tag-handwriting"></a>`handwriting` (1): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain)
+- <a id="tag-hard-cuts"></a>`hard-cuts` (1): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage)
 - <a id="tag-home-video"></a>`home-video` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog)
 - <a id="tag-horror"></a>`horror` (2): [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak)
 - <a id="tag-humor"></a>`humor` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [Nine failed photos of any character](#gpt-image-failed-photos-grid)
 - <a id="tag-identity-preservation"></a>`identity-preservation` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-illustration"></a>`illustration` (2): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster)
 - <a id="tag-image-to-video"></a>`image-to-video` (3): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk)
+- <a id="tag-infographic"></a>`infographic` (1): [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-ink"></a>`ink` (1): [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster)
 - <a id="tag-interior-design"></a>`interior-design` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-ios"></a>`ios` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
+- <a id="tag-isometric"></a>`isometric` (1): [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-japanese"></a>`japanese` (1): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento)
 - <a id="tag-japanese-dialogue"></a>`japanese-dialogue` (1): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-japanese-text"></a>`japanese-text` (1): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer)
@@ -6350,10 +6818,12 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-korean-makeup"></a>`korean-makeup` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-labeled-blocks"></a>`labeled-blocks` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-landscape"></a>`landscape` (2): [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight), [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
+- <a id="tag-layout"></a>`layout` (1): [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-letterbox"></a>`letterbox` (1): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out)
+- <a id="tag-line-doodle"></a>`line-doodle` (1): [Window Photo Continuing Into Ink Sketch Paper](#gpt-image-photo-to-paper-second-world)
 - <a id="tag-lip-sync"></a>`lip-sync` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-live-action"></a>`live-action` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
-- <a id="tag-locked-camera"></a>`locked-camera` (1): [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking)
+- <a id="tag-locked-camera"></a>`locked-camera` (2): [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking), [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
 - <a id="tag-long-take"></a>`long-take` (8): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [One take follows a woman from elevator to desk](#kling-office-long-take), [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Harbour conversation extended twice](#omni-harbour-extend), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Time-travelling train, one 30-second take](#wan-time-space-train)
 - <a id="tag-loudness"></a>`loudness` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
 - <a id="tag-low-angle"></a>`low-angle` (2): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking)
@@ -6361,11 +6831,11 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-magazine"></a>`magazine` (1): [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread)
 - <a id="tag-map"></a>`map` (1): [Your city as a tiny world growing out of a map](#gpt-image-city-on-map)
 - <a id="tag-martial-arts"></a>`martial-arts` (4): [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
-- <a id="tag-miniature"></a>`miniature` (2): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Your city as a tiny world growing out of a map](#gpt-image-city-on-map)
+- <a id="tag-miniature"></a>`miniature` (3): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Your city as a tiny world growing out of a map](#gpt-image-city-on-map), [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-minimal"></a>`minimal` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
-- <a id="tag-minimalist"></a>`minimalist` (2): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
+- <a id="tag-minimalist"></a>`minimalist` (3): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-mixed-media"></a>`mixed-media` (1): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx)
-- <a id="tag-montage"></a>`montage` (2): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-montage"></a>`montage` (3): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
 - <a id="tag-moody-lighting"></a>`moody-lighting` (1): [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro)
 - <a id="tag-morning-routine"></a>`morning-routine` (1): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog)
 - <a id="tag-motion-blur"></a>`motion-blur` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
@@ -6373,16 +6843,18 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-multi-angle"></a>`multi-angle` (1): [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-multi-character"></a>`multi-character` (1): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight)
 - <a id="tag-multi-reference"></a>`multi-reference` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird)
-- <a id="tag-multi-shot"></a>`multi-shot` (18): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star), [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
+- <a id="tag-multi-shot"></a>`multi-shot` (19): [Anime boy glancing back while running in park](#h3-grid-storyboard-anime-park-run), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star), [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-multi-speaker"></a>`multi-speaker` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
 - <a id="tag-multi-turn-edit"></a>`multi-turn-edit` (5): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up), [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
 - <a id="tag-multilingual"></a>`multilingual` (4): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-music"></a>`music` (2): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
 - <a id="tag-music-video"></a>`music-video` (1): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv)
 - <a id="tag-nano-banana-pro"></a>`nano-banana-pro` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
+- <a id="tag-native-audio"></a>`native-audio` (1): [Excited Streamer Reacting at Neon Gaming Desk](#veo-live-streamer-neon-desk)
 - <a id="tag-nature"></a>`nature` (1): [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
 - <a id="tag-negative-space"></a>`negative-space` (2): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-neon"></a>`neon` (2): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
+- <a id="tag-neon-lighting"></a>`neon-lighting` (1): [Excited Streamer Reacting at Neon Gaming Desk](#veo-live-streamer-neon-desk)
 - <a id="tag-newspaper"></a>`newspaper` (1): [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
 - <a id="tag-night"></a>`night` (2): [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
 - <a id="tag-nightclub"></a>`nightclub` (1): [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
@@ -6393,7 +6865,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-outfit-change"></a>`outfit-change` (1): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take)
 - <a id="tag-painterly"></a>`painterly` (1): [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void)
 - <a id="tag-painterly-animation"></a>`painterly-animation` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
+- <a id="tag-panoramic"></a>`panoramic` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-paper"></a>`paper` (1): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain)
+- <a id="tag-paper-collage"></a>`paper-collage` (1): [Window Photo Continuing Into Ink Sketch Paper](#gpt-image-photo-to-paper-second-world)
 - <a id="tag-paper-cut"></a>`paper-cut` (1): [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
 - <a id="tag-paper-texture"></a>`paper-texture` (3): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-papercraft"></a>`papercraft` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
@@ -6402,18 +6876,19 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-phone-photo"></a>`phone-photo` (2): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain), [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
 - <a id="tag-photo-reconstruction"></a>`photo-reconstruction` (1): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-photo-to-art"></a>`photo-to-art` (5): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
-- <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (2): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
+- <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (3): [Photo turned into blue doodle couple](#gpt-image-blue-doodle-couple-photo), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-photo-to-life"></a>`photo-to-life` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
-- <a id="tag-photorealistic"></a>`photorealistic` (2): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
+- <a id="tag-photorealistic"></a>`photorealistic` (3): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing), [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-physics"></a>`physics` (2): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-physics-motion"></a>`physics-motion` (1): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket)
 - <a id="tag-pop-out"></a>`pop-out` (1): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out)
-- <a id="tag-portrait"></a>`portrait` (3): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-portrait"></a>`portrait` (4): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid), [Vintage film portrait framed by pink hibiscus flowers](#nano-banana-hibiscus-film-portrait)
 - <a id="tag-pose-sheet"></a>`pose-sheet` (1): [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-pov"></a>`pov` (2): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket), [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight)
 - <a id="tag-preview"></a>`preview` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
 - <a id="tag-product"></a>`product` (1): [Keyboard made of candy](#veo-candy-keyboard)
 - <a id="tag-product-ad"></a>`product-ad` (2): [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc)
+- <a id="tag-product-commercial"></a>`product-commercial` (1): [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
 - <a id="tag-product-photo"></a>`product-photo` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
 - <a id="tag-product-shot"></a>`product-shot` (2): [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro), [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
 - <a id="tag-push-in"></a>`push-in` (1): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin)
@@ -6424,11 +6899,13 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-reference-image"></a>`reference-image` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
 - <a id="tag-reference-images"></a>`reference-images` (7): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
 - <a id="tag-reference-sheet"></a>`reference-sheet` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
+- <a id="tag-reflection"></a>`reflection` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-reframe"></a>`reframe` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-romance"></a>`romance` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-scale"></a>`scale` (1): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-scene-detection"></a>`scene-detection` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
 - <a id="tag-sci-fi"></a>`sci-fi` (5): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [Time-travelling train, one 30-second take](#wan-time-space-train)
+- <a id="tag-scientific"></a>`scientific` (1): [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic)
 - <a id="tag-score"></a>`score` (2): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-screen-breakout"></a>`screen-breakout` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
 - <a id="tag-screenshot"></a>`screenshot` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
@@ -6438,13 +6915,18 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-short-film"></a>`short-film` (2): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film), [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-shot-list"></a>`shot-list` (1): [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
 - <a id="tag-shot-reverse-shot"></a>`shot-reverse-shot` (1): [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue)
+- <a id="tag-silhouette"></a>`silhouette` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-single-take"></a>`single-take` (1): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin)
 - <a id="tag-sizzle-reel"></a>`sizzle-reel` (1): [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle)
+- <a id="tag-sketch"></a>`sketch` (1): [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster)
 - <a id="tag-skin-detail"></a>`skin-detail` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
 - <a id="tag-skin-texture"></a>`skin-texture` (1): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit)
+- <a id="tag-skincare"></a>`skincare` (1): [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
+- <a id="tag-skyline"></a>`skyline` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-slow-motion"></a>`slow-motion` (1): [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
-- <a id="tag-sound-design"></a>`sound-design` (3): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void)
+- <a id="tag-sound-design"></a>`sound-design` (4): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Strawberry skincare jar assembling on red background](#veo-strawberry-jar-assembly)
 - <a id="tag-spanish"></a>`spanish` (1): [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
+- <a id="tag-split-canvas"></a>`split-canvas` (1): [Window Photo Continuing Into Ink Sketch Paper](#gpt-image-photo-to-paper-second-world)
 - <a id="tag-split-composition"></a>`split-composition` (3): [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
 - <a id="tag-split-layout"></a>`split-layout` (3): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-sports"></a>`sports` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
@@ -6453,17 +6935,20 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-steampunk"></a>`steampunk` (1): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-stop-motion"></a>`stop-motion` (1): [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear)
 - <a id="tag-storm"></a>`storm` (1): [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
-- <a id="tag-storyboard"></a>`storyboard` (3): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-storyboard"></a>`storyboard` (4): [Anime boy glancing back while running in park](#h3-grid-storyboard-anime-park-run), [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
 - <a id="tag-storytelling"></a>`storytelling` (1): [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest)
+- <a id="tag-streamer"></a>`streamer` (1): [Excited Streamer Reacting at Neon Gaming Desk](#veo-live-streamer-neon-desk)
 - <a id="tag-street"></a>`street` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
 - <a id="tag-structured-prompt"></a>`structured-prompt` (4): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
 - <a id="tag-studio"></a>`studio` (1): [Half face, name stacked beside it](#nano-banana-half-face-name-portrait)
+- <a id="tag-studio-background"></a>`studio-background` (1): [Twenty shot character detail montage, face revealed last](#h3-character-detail-montage)
 - <a id="tag-studio-portrait"></a>`studio-portrait` (1): [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-style-lock"></a>`style-lock` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
 - <a id="tag-style-transfer"></a>`style-transfer` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
 - <a id="tag-subtitles"></a>`subtitles` (2): [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-sunset"></a>`sunset` (1): [Tree silhouette against huge sun over frozen lake](#gpt-image-tree-sun-skyline-frozen-lake)
 - <a id="tag-sync-sound"></a>`sync-sound` (1): [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
-- <a id="tag-template"></a>`template` (7): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing), [Your city as a tiny world growing out of a map](#gpt-image-city-on-map), [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template), [Half face, name stacked beside it](#nano-banana-half-face-name-portrait), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
+- <a id="tag-template"></a>`template` (9): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing), [Your city as a tiny world growing out of a map](#gpt-image-city-on-map), [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template), [Honey bee educational infographic with data modules](#gpt-image-terrestrial-life-species-infographic), [Half face, name stacked beside it](#nano-banana-half-face-name-portrait), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
 - <a id="tag-tension"></a>`tension` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-text-render"></a>`text-render` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
 - <a id="tag-text-rendering"></a>`text-rendering` (1): [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle)
@@ -6484,6 +6969,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-tracking-shot"></a>`tracking-shot` (6): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket), [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight), [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [One take follows a woman from elevator to desk](#kling-office-long-take), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-transformation"></a>`transformation` (1): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels)
 - <a id="tag-travel"></a>`travel` (3): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog), [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel)
+- <a id="tag-travel-poster"></a>`travel-poster` (2): [Istanbul landmark sketch travel poster in red ink](#gpt-image-landmark-sketch-travel-poster), [Shanghai skyline photo paired with isometric miniature diorama](#gpt-image-travel-poster-photo-diorama-split)
 - <a id="tag-typography"></a>`typography` (1): [Half face, name stacked beside it](#nano-banana-half-face-name-portrait)
 - <a id="tag-ugc"></a>`ugc` (5): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap), [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
 - <a id="tag-vertical"></a>`vertical` (8): [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)

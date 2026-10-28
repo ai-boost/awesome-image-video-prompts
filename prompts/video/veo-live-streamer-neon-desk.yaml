@@ -1,0 +1,31 @@
+id: veo-live-streamer-neon-desk
+title:
+  en: Excited Streamer Reacting at Neon Gaming Desk
+  zh: 霓虹游戏桌前兴奋反应的女主播
+model: Veo 3.1
+mode: image-to-video
+tags:
+- streamer
+- neon-lighting
+- handheld-camera
+- native-audio
+- character-reference
+source:
+  name: '@HBCoop_ on X'
+  url: https://x.com/HBCoop_/status/1995206291120087487
+  credit: Heather Cooper
+  likes: 366
+  captured: '2026-10-28'
+  posted: '2025-11-30'
+video: https://x.com/HBCoop_/status/1995206291120087487
+notes:
+  en: The prompt describes a medium close-up with pulsing neon light and a handheld micro-sway, so the shot feels like a live stream. It also lists audio layers such as room ambience, keyboard clicks, mic hum and distant game sounds. A Midjourney character reference and a Nano Banana Pro start frame keep the face consistent.
+  zh: 提示词用中近景、脉动霓虹光和手持微晃营造直播的实时感，并逐项列出环境声、键盘声、麦克风底噪和远处游戏音效。Midjourney 角色参考加 Nano Banana Pro 首帧，让人物保持一致。
+prompt: |
+  Nano Banana Pro -> Veo 3.1 on
+  @FlowbyGoogle
+
+
+  Character reference: Midjourney
+
+  Video prompt: A medium close-up shot of a young woman streaming live at her gaming desk, bathed in neon pink-blue LED lighting that pulses subtly in the background. She reacts with wide-eyed excitement, leaning closer to the camera while gripping her controller, her plaid shirt shifting naturally with the movement. The camera performs a gentle handheld micro-sway to match the high-energy, real-time feel of a live stream. Her chat monitor glows off-screen, casting soft highlights on her face as her expression shifts between shock and joy. Audio includes soft room ambience, quiet keyboard clicks, a faint microphone hum, and the distant echoes of gameplay sound effects.

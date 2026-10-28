@@ -1,0 +1,33 @@
+id: gpt-image-blue-doodle-couple-photo
+title:
+  en: Photo turned into blue doodle couple
+  zh: 照片变成蓝色涂鸦情侣插画
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- doodle
+- minimalist
+- couple
+- blue-ink
+- photo-to-illustration
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2114588014034948562
+  credit: Ciri
+  likes: 280
+  captured: '2026-10-28'
+  posted: '2026-10-26'
+notes:
+  en: The prompt says what to preserve (people, pose, composition) and then simplifies the style with a tight palette of cobalt outlines, peach blush and golden hearts on cream paper. Negative constraints such as no gradients, no shading and no textures keep the result flat and hand drawn.
+  zh: 提示词先说明要保留的内容（人物、姿势、构图），再用钴蓝线条、桃色腮红和金色爱心配奶油色纸面的有限配色来简化风格。再用不要渐变、不要阴影、不要纹理这类排除条件，保持画面扁平、有手绘感。
+prompt: |
+  Transform your photo into a minimalist doodle illustration using GPT Image 2.5.
+
+  Prompt: Transform the uploaded photo into a cute minimalist hand-drawn doodle illustration. Preserve the original people, pose, composition, and recognizable facial characteristics, but simplify them into charming cartoon forms.
+
+  Use a naive handmade sketchbook aesthetic with bold, slightly wobbly cobalt-blue brush-pen outlines, simple rounded shapes, minimal details, and imperfect hand-drawn strokes. Add subtle warm peach/pink blush on the cheeks and small golden-yellow heart accents around the characters.
+
+  Keep the illustration clean and airy with a warm cream/off-white paper background. Use flat, very limited colors, no realistic shading, no gradients, and no complex textures. The overall feeling should be sweet, wholesome, playful, cozy, and romantic, like a handmade children's doodle or personal notebook drawing.
+
+  Style keywords: minimalist doodle, folk-inspired hand drawing, blue ink illustration, cute couple illustration, naive art, imperfect brush strokes, simple cartoon, handmade sketchbook aesthetic, warm cream paper, subtle blush, tiny heart doodles, charming imperfections, clean composition.

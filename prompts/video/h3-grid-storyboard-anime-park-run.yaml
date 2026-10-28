@@ -1,0 +1,29 @@
+id: h3-grid-storyboard-anime-park-run
+title:
+  en: Anime boy glancing back while running in park
+  zh: 动漫少年在公园奔跑时回头
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- storyboard
+- anime
+- 2d-animation
+- grid-reference
+- multi-shot
+source:
+  name: '@8co28 on X'
+  url: https://x.com/8co28/status/2099171324568760589
+  credit: 852話(hakoniwa)
+  likes: 1599
+  captured: '2026-10-28'
+  posted: '2026-09-13'
+video: https://x.com/8co28/status/2099171324568760589
+notes:
+  en: A 3x3 panel image is fed as the reference, and the prompt asks for cuts running from the first panel to the last, so the storyboard plays back almost as drawn. Forbidding multiple panels on screen and BGM keeps each shot full frame and the audio clean.
+  zh: 把3x3分格图作为参考图，提示词要求镜头从第一格依次切到最后一格，成片几乎按分镜原样播放。明确禁止多格同屏和背景音乐，让每个镜头铺满画面且声音干净。
+prompt: |
+  When you take this 3x3 image and turn it into an AI video with r2v, it will roughly become the footage as-is with the following settings:
+
+  Minimax H3 Max r2v 480p 15 seconds Prompt adjustment: Quality Reference strength: Standard
+  "A 2D animation where the cut switches from the top-left panel to the bottom-right panel,
+  No multiple panels allowed, No BGM"

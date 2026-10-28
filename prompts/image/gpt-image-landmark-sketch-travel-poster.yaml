@@ -1,0 +1,35 @@
+id: gpt-image-landmark-sketch-travel-poster
+title:
+  en: Istanbul landmark sketch travel poster in red ink
+  zh: 红色墨线风格的伊斯坦布尔地标旅行海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- architecture
+- sketch
+- halftone
+- template
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2101315631237021853
+  credit: simeon-sanai
+  likes: 211
+  captured: '2026-10-28'
+  posted: '2026-09-19'
+notes:
+  en: A fill in the blank template swaps in the landmark, city and coordinates while fixed style terms keep the look consistent. Ivory paper, hatching, halftone, geometric shapes and a 4:5 ratio give the print feel.
+  zh: 填空式模板只需替换地标、城市和坐标，固定的风格词保证画面统一。象牙色纸面、排线、网点、几何形状和 4:5 比例共同造出版画质感。
+prompt: |
+  A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.
+
+  Use a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.
+
+  Surround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.
+
+  Include small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.
+
+  Clean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.
+
+  [LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.

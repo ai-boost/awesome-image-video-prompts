@@ -1,0 +1,25 @@
+id: gpt-image-terrestrial-life-species-infographic
+title:
+  en: Honey bee educational infographic with data modules
+  zh: 带数据模块的蜜蜂科普信息图
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- infographic
+- educational
+- template
+- scientific
+- layout
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2113510238846672945
+  credit: Aijaz
+  likes: 230
+  captured: '2026-10-28'
+  posted: '2026-10-23'
+notes:
+  en: A subject placeholder lets one template cover any species. It names every module (profile sidebar, facts list, size chart, rating, habitat icons, status slider) and fixes the palette to soft beige for a journal look.
+  zh: 用主题占位符让同一模板适用于任意物种。逐一点明各个模块（档案侧栏、趣闻列表、尺寸对比、评分、栖息地图标、保护状态滑块），并把配色限定为柔和米色，呈现科学期刊质感。
+prompt: |
+  A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.

@@ -1,0 +1,61 @@
+id: h3-character-detail-montage
+title:
+  en: Twenty shot character detail montage, face revealed last
+  zh: 二十镜头角色细节蒙太奇，最后才露脸
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- character-reference
+- montage
+- hard-cuts
+- camera-moves
+- studio-background
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2100258514132217859
+  credit: Kōda
+  likes: 3281
+  captured: '2026-10-28'
+  posted: '2026-09-16'
+video: https://x.com/aimikoda/status/2100258514132217859
+notes:
+  en: A numbered shot list with time blocks and one abrupt camera move per shot builds three connected action bursts. Faces stay out of frame until shot 20, and hard match cuts link similar shapes without morphing.
+  zh: 按时间段列出编号分镜，每镜只用一个突然的运镜，串成三段连贯的动作爆发。前十九镜始终不拍脸，第二十镜才揭示，并用相似形状的硬切衔接，不做变形。
+prompt: |
+  Use @[character reference] for the character's identity, anatomy, costume, colors, materials and visual style. Adapt body-region cues to its actual anatomy, replacing absent features with existing equivalents. Invent no anatomy or accessories. Select signature inserts from its most recognizable details. Rigid parts rotate; flexible materials bend or stretch.
+
+  A 15-second character-detail montage: exactly 20 shots joined by hard cuts. An empty, seamless warm-white studio background; soft directional light reveals the surfaces. Shots 1-19 are tightly cropped body details and rear angles: keep the face, eyes and facial profile entirely outside the frame, including reflections. Shot 20 is the first and only face reveal. No full-body view.
+
+  Three connected bursts: a sharp head turn with the body bracing; a coiled arm opening into a strong sweep and torso twist; one short step into a planted pivot, finishing with a sudden look into camera. Carry body state across cuts without resetting to neutral. Existing hair, clothing and attachments react naturally. Keep the character active, with clear articulation and weight shifts.
+
+  Jump between distant body regions. Mix brief visual punches with longer moving-detail reads. Use one abrupt camera move per shot except locked-camera inserts 4 and 11, where the character supplies the speed. Vary height, angle and direction. Brake moves briefly for legibility while the subject keeps moving. Local whips stay tightly cropped; changes of body region use hard cuts. Connect selected cuts through similar shapes or motion vectors, without morphing. Real-time action, no slow motion or freeze frames.
+
+  0-3s, shots 1-5. A concealed head turn triggers the first burst:
+  1. Extreme upper-back detail: a crash push catches its surface shifting as a sharp head turn begins entirely above the crop.
+  2. Fingers: a short downward snap catches them curling into a fist as the body braces.
+  3. Rear three-quarter shoulder detail: a tight camera arc catches the shoulder drawing back behind the turning head.
+  4. Locked floor-level foot detail: the grounded support foot braces, its raised heel pressing down firmly without taking a step.
+  5. Rear neck detail: a short upward tilt catches the nape stretching with the turn; stop below the back of the head, keeping the jaw and face excluded.
+
+  3-9s, shots 6-13. The coiled arm opens into a forceful sweep:
+  6. A signature upper-body detail: a fast diagonal slide catches an existing seam, joint or distinctive contour responding as the arm draws inward.
+  7. Elbow: a sharp lateral track catches the folding joint tightening the arm's coil.
+  8. Supporting knee: hard match cut from the bent elbow to the knee's similar angle; a short camera drop catches the leg compressing under the same preparation.
+  9. Wrist: a quick shallow orbit catches it turning outward to initiate the release.
+  10. Upper chest: a short punch-in catches the chest opening as the arm drives outward beyond the crop. Let this moving surface read slightly longer.
+  11. Locked hand detail: fingers spring open and the hand sweeps rapidly across the fixed frame. Catch one crisp, readable phase of the spread fingers before they leave the crop.
+  12. Upper back: a sharp sideways slide continues that screen direction as the shoulder rolls through the sweep and the torso twists.
+  13. A distinctive torso or waist detail: a close diagonal move catches its physical response to the twist, such as an existing fold pulling taut or an attached piece swinging. Give the material response a clear moving read.
+
+  9-13s, shots 14-19. One short step and a pivot build toward the reveal:
+  14. Thigh of the other leg: an abrupt low tracking move catches it driving the single short step out of the twist.
+  15. Advancing foot: a brief downward whip catches it landing; show clear floor contact.
+  16. Ankle and lower-leg detail: a fast side slide catches the landed leg accepting weight as the ankle flexes.
+  17. Waist: a tight orbit catches the torso rotating above the planted-foot pivot. The foot supports the turn rather than sliding across the floor.
+  18. Back-of-head contour: a short lateral whip catches the start of the return turn from behind. Keep only the rear contour in frame, never the facial profile.
+  19. A signature shoulder detail: a sharp diagonal slide catches its follow-through beneath the turning head, which stays completely above the crop. Cut at the peak of this movement.
+
+  13-15s, shot 20. First face reveal:
+  20. Hard cut to a frontal face close-up as the character sharply completes the turn toward the lens. An explosive short push reveals the entire face clearly for the first time and stops tightening before cropping out its features. Direct eye contact lands while hair, clothing or natural body follow-through remains alive. Keep the whole face readable through the end; finish on living motion, without a held pose or another cut.
+
+  No added props, scenery, text, graphic overlays or split screens.
