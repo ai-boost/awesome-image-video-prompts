@@ -27,12 +27,12 @@
   - [Veo 3.1](#veo31) (3)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [图片提示词](#image) (31 条)
-  - [海报与编辑排版](#img-poster) (6)
-  - [照片转艺术风格](#img-photo-to-art) (6)
-  - [写实照片](#img-realism) (7)
+- [图片提示词](#image) (33 条)
+  - [海报与编辑排版](#img-poster) (7)
+  - [照片转艺术风格](#img-photo-to-art) (7)
+  - [写实照片](#img-realism) (8)
   - [人像](#img-portrait) (4)
-  - [插画](#img-illustration) (4)
+  - [插画](#img-illustration) (3)
   - [手机与界面截图](#img-ui-mockup) (2)
   - [地图](#img-map) (1)
   - [拼贴](#img-collage) (1)
@@ -4816,6 +4816,41 @@ Create a sophisticated, visually balanced editorial art poster that faithfully p
 
 </details>
 
+<a id="gpt-image-editorial-split-poster-roses"></a>
+### 手捧玫瑰与黄色手袋女子的编辑风海报
+
+<a href="https://x.com/Ziha_ai/status/2106990557813968909"><img src="previews/gpt-image-editorial-split-poster-roses.jpg" width="360"></a>
+
+画布严格上下对半，上半保留原图不重绘，下半重构主体，并叠加一条从原图取色的低饱和色带。主体跨越色带边缘进入白色留白，形成层次，避免贴纸感。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2106990557813968909) · 337 赞，统计于 2026-10-27
+
+[`editorial-poster`](#tag-editorial-poster) [`split-layout`](#tag-split-layout) [`color-window`](#tag-color-window) [`negative-space`](#tag-negative-space) [`photo-reconstruction`](#tag-photo-reconstruction)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Premium Editorial Poster Instructions
+
+Each uploaded photo must be made into a separate, independent, premium editorial poster, and multiple photos must not be combined. Use a strict 3:4 vertical canvas. Split the canvas horizontally in the exact center: the upper half and the lower half each occupy 50% of the height, are equally wide, and equally high, with no alteration of proportion.
+
+The upper half uses the original photo directly and must not be regenerated. Preserve the identity of the main subject, the human body or architectural structure, proportions, perspective, spatial relationships, texture, natural light and shadow, color, and environment in their entirety. Only slight cropping and restrained premium color grading are permitted; re-drawing the main subject, fictional light, HDR, excessive saturation, plastic texture, and fictional content are prohibited. hibited. When needing to adapt to the frame, only environmental areas such as sky, water surface, ground, walls, plants, or background can be extended.
+
+The lower half extracts and reconstructs the "narrative core" of the photo: it can be a single primary subject, or a group of related elements that together embody the photo's identity, scale, action, o story relationship. Maintain its realistic, recognizable appearance, proportion, internal structure, texture, and relative position. Do not remove important related elements, and do not directly us rectangular photo cutouts. The reconstructed subject typically occupies 55%-80% of the width of the lower area. It should naturally extend based on the photo's primary direction and retain plausible ground, water lines, shadows, or softly dissipated edges to integrate into the background, avoiding a sticker-like or floating appearance.
+
+Incorporate a narrow, low-saturation geometric color field behind or through the center of the subject, serving as a "critical window" between reality and editorial abstraction. The color of the window must be extracted from the original photo, and its orientation (horizontal, vertical, or diagonal) chosen based on the overall narrative direction.
+
+The subject must actively pass through the window: part of it is within the color field, and part enters the open negative space, naturally crossing the window's boundary to create occlusion, penetration, and spatial depth. The window is not a frame or a card; it must not fully enclose the subject. Only one primary window is allowed; multiple color blocks, thick borders, rounded corners, strong gradients, and drop shadows are prohibited.
+
+Use a white, cool white, very light gray, or near-white background for the lower half, coordinated with the photo. Employ a restrained asymmetrical composition and abundant negative space to establish a three-tier hierarchy:
+
+Reconstructed subject or narrative composition
+
+Low-saturation geometric window
+```
+
+</details>
+
 <a id="nano-banana-photo-sketch-editorial"></a>
 ### 上面照片下面素描的编辑海报模板
 
@@ -5182,6 +5217,25 @@ Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust wit
 
 </details>
 
+<a id="gpt-image-tram-photo-paper-illustration-poster"></a>
+### 锈红电车照片搭配手工纸本插画海报
+
+<a href="https://x.com/Ziha_ai/status/2104111940180316193"><img src="previews/gpt-image-tram-photo-paper-illustration-poster.jpg" width="360"></a>
+
+提示词把 3:4 画面严格对半分，上半保留原照片，下半是只用四种取色的小幅手工纸本插画。限定插画只占下半部分的 10% 到 20%，并要求大面积暖白留白，成片就有独立艺术书封面的气质。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2104111940180316193) · 266 赞，统计于 2026-10-27
+
+[`editorial-poster`](#tag-editorial-poster) [`photo-to-illustration`](#tag-photo-to-illustration) [`split-layout`](#tag-split-layout) [`negative-space`](#tag-negative-space) [`paper-texture`](#tag-paper-texture)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-end editorial poster using the uploaded photo as the exact reference, in a strict 3:4 vertical format divided horizontally into two equal 50/50 sections. Preserve the original photo faithfully in the top half, including subjects, identity, pose, clothing, objects, lighting, colors, and realistic texture, with only subtle premium editorial color grading. In the bottom half, reinterpret the most recognizable elements as a small, centered, minimalist handmade paper illustration using delicate imperfect lines, bold flat acrylic-like color shapes, subtle paper grain, organic edges, and no more than 4 colors extracted from the original photo. Keep the illustration only 10–20% of the bottom section with lots of warm off-white negative space and optional minimal editorial typography. The overall result should feel quiet, poetic, refined, artistic, premium, and like an independent art-book cover, avoiding cartoon, watercolor, colored-pencil, 3D, glossy, busy, or commercial aesthetics.
+```
+
+</details>
+
 <a id="nano-banana-second-world"></a>
 ### 第二世界：把你的照片重建成另一个世界
 
@@ -5257,6 +5311,31 @@ Identity consistency: The same Portuguese woman must appear in all six frames, w
 Photography details: Realistic compact-camera flash, authentic skin pores, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, slight variations in exposure, and candid framing. Avoid excessive retouching, artificial skin smoothing, exaggerated beauty standards, duplicated expressions, malformed fingers, distorted anatomy, or the overly polished appearance of AI-generated portraits.
 
 Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no text, no watermark. Photorealistic, youthful, spontaneous, intimate, and effortlessly stylish.
+```
+
+</details>
+
+<a id="gpt-image-pencil-essay-coffee-stain"></a>
+### 带咖啡渍的线格纸铅笔手写文章
+
+<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
+
+提示词先限定媒介（8.5x11 线格纸上的铅笔字）和拍摄方式（手机照片）。再要求笔迹有变化，并指定一处角落的咖啡渍作为小瑕疵，真实感由此而来。
+
+GPT Image 2.5 · 文生图 · 出处: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 赞，统计于 2026-10-27
+
+[`handwriting`](#tag-handwriting) [`paper`](#tag-paper) [`phone-photo`](#tag-phone-photo) [`texture`](#tag-texture) [`coffee-stain`](#tag-coffee-stain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+🚨 GPT-Image-2.5 Output
+
+I said it to write like einstein it did it without reference < i did not give image or anything   >
+
+left side is AI and right side is real photo from reddit to compare
+
+Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
 ```
 
 </details>
@@ -5745,55 +5824,6 @@ Use a warm ivory background with plenty of negative space, soft ground shadows, 
 
 </details>
 
-<a id="gpt-image-character-dance-pose-sheet-4x4"></a>
-### 粉发偶像少女4×4舞蹈姿势表
-
-<a href="https://x.com/Mayz1169/status/2099457417528692871"><img src="previews/gpt-image-character-dance-pose-sheet-4x4.jpg" width="360"></a>
-
-先用上传的参考图锁定角色形象，再用编号的4×4网格和逐格编舞清单规定从开场到收尾的动作。末尾的避免清单针对形象漂移、肢体裁切和重复姿势。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099457417528692871) · 391 赞，统计于 2026-10-27
-
-[`pose-sheet`](#tag-pose-sheet) [`character-consistency`](#tag-character-consistency) [`anime`](#tag-anime) [`dance`](#tag-dance) [`grid`](#tag-grid)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
-
-CHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
-
-ADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion.
-
-Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
-
-Use the following movement structure, adapting each action to the character:
-1. Opening pose that establishes the character’s personality.
-2. Small rhythmic step with a coordinated arm gesture.
-3. Side step with one arm extended.
-4. Compact expressive gesture near the face or upper body.
-5. Grounded stance with arms crossing or sweeping inward.
-6. Knee lift or an anatomically appropriate weight shift.
-7. Open, expansive pose with arms spread.
-8. Playful or expressive balance pose.
-9. Turning pose showing a three-quarter rear view.
-10. Forward-reaching movement with a diagonal body lean.
-11. Strong upward-reaching accent.
-12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
-13. Lowered stance with a forward gesture.
-14. Elegant or dynamic side-facing transition.
-15. Signature gesture that suits the character.
-16. Confident final pose with a clear finishing silhouette.
-
-COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
-
-AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
-
-Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
-```
-
-</details>
-
 <a id="nano-banana-paper-cut-fashion"></a>
 ### 多层 3D 剪纸时装插画
 
@@ -6214,7 +6244,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-analog"></a>`analog` (1): [唱机推镜至唱针微距](#kling-turntable-needle-macro-pushin)
 - <a id="tag-animal"></a>`animal` (1): [小鸟从电脑照片中跃出落到手上](#omni-photo-bird-jumps-onto-hand)
 - <a id="tag-animation"></a>`animation` (1): [同一段视频依次变成蜡笔、铅笔、玻璃、孔版](#omni-four-style-progression)
-- <a id="tag-anime"></a>`anime` (7): [动漫角色的手伸出黑色上下遮幅](#seedance-anime-frame-break-letterbox-pop-out), [两名动漫格斗者在天台激烈缠斗](#seedance-anime-rooftop-brawl-kinetic-fight), [快剪动画风格做猪排饭](#seedance-katsudon-anime-cooking), [动画女子从冷冻舱苏醒走入森林](#sora-anime-cryo-awakening-forest), [手绘动画风，对战巨型怪物](#wan-anime-monster-fight), [粉发偶像少女4×4舞蹈姿势表](#gpt-image-character-dance-pose-sheet-4x4), [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-anime"></a>`anime` (6): [动漫角色的手伸出黑色上下遮幅](#seedance-anime-frame-break-letterbox-pop-out), [两名动漫格斗者在天台激烈缠斗](#seedance-anime-rooftop-brawl-kinetic-fight), [快剪动画风格做猪排饭](#seedance-katsudon-anime-cooking), [动画女子从冷冻舱苏醒走入森林](#sora-anime-cryo-awakening-forest), [手绘动画风，对战巨型怪物](#wan-anime-monster-fight), [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-architecture"></a>`architecture` (2): [建筑照片变半调拼贴旅行海报](#gpt-image-halftone-architecture-poster), [钴蓝圆环中的铂金短发模特](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-asmr"></a>`asmr` (1): [Mini DV 咖啡 ASMR 小片](#seedance-mini-dv-coffee-asmr)
 - <a id="tag-audio"></a>`audio` (1): [少女与宠物飞龙一起烤肉的奇幻短片](#seedance-cottage-pet-dragon-roast-short-film)
@@ -6234,7 +6264,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-ccd-flash"></a>`ccd-flash` (1): [米色毛圈沙发上的肩后闪光灯自拍](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-cg"></a>`cg` (2): [珠宝生物变成高跟鞋](#wan-jeweled-creatures-to-heels), [皮影戏台上，一把剪刀对阵百名刺客](#wan-shadow-puppet-battle)
 - <a id="tag-character"></a>`character` (2): [她转身微笑，走出画面](#sora-skyline-turn-and-walk), [老水手念诗](#veo-old-sailor-verse)
-- <a id="tag-character-consistency"></a>`character-consistency` (7): [一镜到底，跟拍女人从电梯走到工位](#kling-office-long-take), [镜头绕到正面，她抬头微笑](#kling-orbit-to-smile), [机场入境卸妆喜剧十二镜头短片](#seedance-airport-immigration-makeup-wipe), [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight), [首尔老街区的周五早晨](#seedance-friday-morning-seoul), [咖啡馆柜台前身穿驼色大衣的男人](#wan-cafe-camel-coat-character-sheet), [粉发偶像少女4×4舞蹈姿势表](#gpt-image-character-dance-pose-sheet-4x4)
+- <a id="tag-character-consistency"></a>`character-consistency` (6): [一镜到底，跟拍女人从电梯走到工位](#kling-office-long-take), [镜头绕到正面，她抬头微笑](#kling-orbit-to-smile), [机场入境卸妆喜剧十二镜头短片](#seedance-airport-immigration-makeup-wipe), [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight), [首尔老街区的周五早晨](#seedance-friday-morning-seoul), [咖啡馆柜台前身穿驼色大衣的男人](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-character-reference"></a>`character-reference` (3): [动漫角色的手伸出黑色上下遮幅](#seedance-anime-frame-break-letterbox-pop-out), [两名动漫格斗者在天台激烈缠斗](#seedance-anime-rooftop-brawl-kinetic-fight), [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-character-sheet"></a>`character-sheet` (1): [天界操偶师重塑崩塌的金色恒星](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-chase"></a>`chase` (1): [修图工具变成实物的街头追逐](#wan-photo-editor-chase-comedy)
@@ -6245,8 +6275,10 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-cityscape"></a>`cityscape` (1): [巨型女孩跪在东京街口俯身触碰出租车](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-close-up"></a>`close-up` (2): [机场入境卸妆喜剧十二镜头短片](#seedance-airport-immigration-makeup-wipe), [带抓拍闪光的超近景时尚人像](#wan-fashion-face-closeup-flash-orbit)
 - <a id="tag-cobalt-blue"></a>`cobalt-blue` (1): [钴蓝圆环中的铂金短发模特](#nano-banana-cobalt-ring-fashion-editorial)
+- <a id="tag-coffee-stain"></a>`coffee-stain` (1): [带咖啡渍的线格纸铅笔手写文章](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-collage"></a>`collage` (2): [建筑照片变半调拼贴旅行海报](#gpt-image-halftone-architecture-poster), [任何图都能变成报纸拼贴](#nano-banana-newspaper-collage)
 - <a id="tag-color-grading"></a>`color-grading` (1): [酒吧里身穿棕色皮夹克的女子](#gpt-image-wine-bar-ugc-color-reference)
+- <a id="tag-color-window"></a>`color-window` (1): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-comedy"></a>`comedy` (6): [机场入境卸妆喜剧十二镜头短片](#seedance-airport-immigration-makeup-wipe), [首尔地铁站复仇喜剧](#seedance-seoul-subway-revenge), [小宝宝学爸爸刮胡子](#seedance-toddler-copies-shaving), [定格动画，露营者和会顶嘴的熊](#veo-camper-and-bear), [修图工具变成实物的街头追逐](#wan-photo-editor-chase-comedy), [嘴上说不要，照片却笑得很甜](#wan-street-photographer-cold-face)
 - <a id="tag-commercial"></a>`commercial` (1): [由商业分镜板生成的厨房平底锅视频](#omni-commercial-storyboard-board-kitchen-pan)
 - <a id="tag-comparison"></a>`comparison` (1): [逐项复刻一张照片的 JSON 提示词](#nano-banana-json-reconstruction)
@@ -6257,14 +6289,14 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-creature"></a>`creature` (4): [石膏像塔里，与恐龙重逢](#kling-plaster-tower-dinosaur), [小龙在冬日木屋打喷嚏点燃壁炉](#seedance-baby-dragon-sneeze-cabin-fire), [女孩教巨龙烤心形面包](#seedance-dragon-bakes-bread), [冰箱里钻出一只胖乎乎的紫色怪兽](#sora-fridge-monster)
 - <a id="tag-crowd"></a>`crowd` (2): [商场突发丧尸潮](#seedance-mall-zombie-outbreak), [人群齐动，她一动不动](#seedance-woman-in-storm-crowd)
 - <a id="tag-cube-toy"></a>`cube-toy` (1): [高地牛纸模立方体玩具展开图](#gpt-image-pet-papercraft-cube-template)
-- <a id="tag-dance"></a>`dance` (4): [双人 K-pop MV，逐镜头](#seedance-kpop-two-idol-mv), [固定机位一镜到底的手指舞](#wan-finger-dance-one-take), [粉发偶像少女4×4舞蹈姿势表](#gpt-image-character-dance-pose-sheet-4x4), [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-dance"></a>`dance` (3): [双人 K-pop MV，逐镜头](#seedance-kpop-two-idol-mv), [固定机位一镜到底的手指舞](#wan-finger-dance-one-take), [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-desert"></a>`desert` (1): [面具战士在沙漠尘暴中对决持镰死神](#seedance-desert-warrior-reaper-fight)
 - <a id="tag-dialogue"></a>`dialogue` (11): [让现成视频里的人开口说话，声音借参考音频](#h3-pink-suit-lip-sync-edit), [一家四口对剧情反转的反应](#kling-family-reacts-to-twist), [带印度口音点餐](#kling-indian-accent-order), [晨雾小站递便当，日语对白](#kling-japanese-station-bento), [朝鲜贵族小姐与侍女](#kling-joseon-lady-and-maid), [韩国高中天台夜聊](#kling-korean-rooftop), [马德里问路，磕磕绊绊的西班牙语](#kling-madrid-asking-directions), [别墅露台，夏日双人对话](#kling-villa-terrace-dialogue), [港口对话，连续续写两段](#omni-harbour-extend), [定格动画，露营者和会顶嘴的熊](#veo-camper-and-bear), [老水手念诗](#veo-old-sailor-verse)
 - <a id="tag-dragon"></a>`dragon` (1): [少女与宠物飞龙一起烤肉的奇幻短片](#seedance-cottage-pet-dragon-roast-short-film)
 - <a id="tag-drama"></a>`drama` (1): [藏起三只幼龙，追兵已到门口](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-dv-camcorder"></a>`dv-camcorder` (2): [2000 年代初的韩国生日，DV 摄像机](#seedance-2000s-birthday-dv), [Mini DV 咖啡 ASMR 小片](#seedance-mini-dv-coffee-asmr)
 - <a id="tag-editorial"></a>`editorial` (4): [每张照片变成一张安静的编辑插画海报](#gpt-image-editorial-illustration-poster), [真实照片变极简生活方式海报](#gpt-image-minimal-lifestyle-poster), [质感几何风全身时装插画](#nano-banana-geometric-fashion-illustration), [上面照片下面素描的编辑海报模板](#nano-banana-photo-sketch-editorial)
-- <a id="tag-editorial-poster"></a>`editorial-poster` (1): [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-editorial-poster"></a>`editorial-poster` (3): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses), [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster), [锈红电车照片搭配手工纸本插画海报](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-emotion"></a>`emotion` (1): [石膏像塔里，与恐龙重逢](#kling-plaster-tower-dinosaur)
 - <a id="tag-emotional"></a>`emotional` (1): [流泪的橘猫举枪对准僵尸花猫](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-explainer"></a>`explainer` (2): [扁平矢量风咖喱外卖解说动画](#h3-flat-vector-curry-delivery-explainer), [孔版印刷扁平风，讲清量子计算](#omni-quantum-explainer)
@@ -6291,11 +6323,12 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-gif"></a>`gif` (1): [给 README 做小体积循环 GIF 预览](#readme-preview-gif)
 - <a id="tag-golden-hour"></a>`golden-hour` (1): [黄昏低角度人像，胶片颗粒](#gpt-image-dusk-film-portrait)
 - <a id="tag-gpt-image-workflow"></a>`gpt-image-workflow` (1): [由商业分镜板生成的厨房平底锅视频](#omni-commercial-storyboard-board-kitchen-pan)
-- <a id="tag-grid"></a>`grid` (3): [粉发偶像少女4×4舞蹈姿势表](#gpt-image-character-dance-pose-sheet-4x4), [任意角色的九张失败照片](#gpt-image-failed-photos-grid), [同一个人的六宫格人像](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-grid"></a>`grid` (2): [任意角色的九张失败照片](#gpt-image-failed-photos-grid), [同一个人的六宫格人像](#gpt-image-six-photo-portrait-grid)
 - <a id="tag-grid-layout"></a>`grid-layout` (1): [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-halftone"></a>`halftone` (1): [建筑照片变半调拼贴旅行海报](#gpt-image-halftone-architecture-poster)
 - <a id="tag-handheld"></a>`handheld` (6): [身穿条纹睡袍的惊慌女子冲上曼哈顿街头](#kling-manhattan-panic-nine-shot-sequence), [卡车司机，四个手持镜头](#kling-truck-driver-four-shots), [首尔地铁站复仇喜剧](#seedance-seoul-subway-revenge), [朋友用手机拍的夜游](#seedance-ugc-night-yacht), [越野拉力冲过河滩](#veo-off-road-rally), [夜晚码头闺蜜同游与跳水](#wan-marina-night-out-quay-leap)
 - <a id="tag-hands"></a>`hands` (1): [巨型双手搭建的微缩农舍地基](#omni-miniature-farmhouse-foundation-macro)
+- <a id="tag-handwriting"></a>`handwriting` (1): [带咖啡渍的线格纸铅笔手写文章](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-home-video"></a>`home-video` (2): [2000 年代初的韩国生日，DV 摄像机](#seedance-2000s-birthday-dv), [首尔夏夜，家庭录像质感](#seedance-seoul-summer-evening-vlog)
 - <a id="tag-horror"></a>`horror` (2): [实验室收容失效，科幻恐怖](#seedance-lab-containment-breach), [商场突发丧尸潮](#seedance-mall-zombie-outbreak)
 - <a id="tag-humor"></a>`humor` (2): [一张图生成任何人一天的相册](#gpt-image-camera-roll-day), [任意角色的九张失败照片](#gpt-image-failed-photos-grid)
@@ -6348,6 +6381,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-music-video"></a>`music-video` (1): [双人 K-pop MV，逐镜头](#seedance-kpop-two-idol-mv)
 - <a id="tag-nano-banana-pro"></a>`nano-banana-pro` (1): [空房间延时搭建阁楼](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-nature"></a>`nature` (1): [阳光洒落的林间空地与茂密绿叶](#gpt-image-forest-clearing-foliage-noise-test)
+- <a id="tag-negative-space"></a>`negative-space` (2): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses), [锈红电车照片搭配手工纸本插画海报](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-neon"></a>`neon` (2): [红色霓虹酒店走廊里的打斗戏](#kling-hotel-corridor-neon-fight), [女子在霓虹夜店与雨中起舞](#kling-neon-nightclub-rain-dance)
 - <a id="tag-newspaper"></a>`newspaper` (1): [任何图都能变成报纸拼贴](#nano-banana-newspaper-collage)
 - <a id="tag-night"></a>`night` (2): [夜晚庭院中女子挥刀斩断木人桩](#kling-night-courtyard-katana-six-shots), [夜晚码头闺蜜同游与跳水](#wan-marina-night-out-quay-leap)
@@ -6359,21 +6393,23 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-outfit-change"></a>`outfit-change` (1): [一镜到底连换装，中文对白](#seedance-outfit-change-one-take)
 - <a id="tag-painterly"></a>`painterly` (1): [蓝色虚空中的彩绘火焰空手道套路](#seedance-painted-flame-karate-kata-void)
 - <a id="tag-painterly-animation"></a>`painterly-animation` (1): [天界操偶师重塑崩塌的金色恒星](#seedance-celestial-puppeteer-golden-star)
+- <a id="tag-paper"></a>`paper` (1): [带咖啡渍的线格纸铅笔手写文章](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-paper-cut"></a>`paper-cut` (1): [多层 3D 剪纸时装插画](#nano-banana-paper-cut-fashion)
-- <a id="tag-paper-texture"></a>`paper-texture` (2): [照片变纸张质感极简封面](#gpt-image-paper-texture-cover), [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-paper-texture"></a>`paper-texture` (3): [照片变纸张质感极简封面](#gpt-image-paper-texture-cover), [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster), [锈红电车照片搭配手工纸本插画海报](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-papercraft"></a>`papercraft` (1): [高地牛纸模立方体玩具展开图](#gpt-image-pet-papercraft-cube-template)
 - <a id="tag-period"></a>`period` (3): [朝鲜贵族小姐与侍女](#kling-joseon-lady-and-maid), [2000 年代初的韩国生日，DV 摄像机](#seedance-2000s-birthday-dv), [1950 年代餐馆：时间静止再倒流](#seedance-diner-frozen-time-rewind)
 - <a id="tag-pet"></a>`pet` (1): [高地牛纸模立方体玩具展开图](#gpt-image-pet-papercraft-cube-template)
-- <a id="tag-phone-photo"></a>`phone-photo` (1): [站台上的手机随手拍](#gpt-image-train-platform-snapshot)
+- <a id="tag-phone-photo"></a>`phone-photo` (2): [带咖啡渍的线格纸铅笔手写文章](#gpt-image-pencil-essay-coffee-stain), [站台上的手机随手拍](#gpt-image-train-platform-snapshot)
+- <a id="tag-photo-reconstruction"></a>`photo-reconstruction` (1): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-photo-to-art"></a>`photo-to-art` (5): [每张照片变成一张安静的编辑插画海报](#gpt-image-editorial-illustration-poster), [真实照片变极简生活方式海报](#gpt-image-minimal-lifestyle-poster), [照片做成怀旧杂志画册跨页](#nano-banana-artbook-spread), [一半照片一半水墨的海报](#nano-banana-photo-ink-split-poster), [第二世界：把你的照片重建成另一个世界](#nano-banana-second-world)
-- <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (1): [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (2): [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster), [锈红电车照片搭配手工纸本插画海报](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-photo-to-life"></a>`photo-to-life` (1): [小鸟从电脑照片中跃出落到手上](#omni-photo-bird-jumps-onto-hand)
 - <a id="tag-photorealistic"></a>`photorealistic` (2): [巨型双手搭建的微缩农舍地基](#omni-miniature-farmhouse-foundation-macro), [巨型女孩跪在东京街口俯身触碰出租车](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-physics"></a>`physics` (2): [篮球运动员在室外球场后空翻扣篮](#kling-basketball-backflip-dunk-court), [暴雨海崖高尔夫球手与追球镜头](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-physics-motion"></a>`physics-motion` (1): [台球视角滚入底袋](#kling-billiard-ball-pov-pocket)
 - <a id="tag-pop-out"></a>`pop-out` (1): [动漫角色的手伸出黑色上下遮幅](#seedance-anime-frame-break-letterbox-pop-out)
 - <a id="tag-portrait"></a>`portrait` (3): [带抓拍闪光的超近景时尚人像](#wan-fashion-face-closeup-flash-orbit), [黄昏低角度人像，胶片颗粒](#gpt-image-dusk-film-portrait), [同一个人的六宫格人像](#gpt-image-six-photo-portrait-grid)
-- <a id="tag-pose-sheet"></a>`pose-sheet` (2): [粉发偶像少女4×4舞蹈姿势表](#gpt-image-character-dance-pose-sheet-4x4), [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-pose-sheet"></a>`pose-sheet` (1): [动漫少女十六格舞蹈姿势表](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-pov"></a>`pov` (2): [台球视角滚入底袋](#kling-billiard-ball-pov-pocket), [金雕视角飞越山谷与河流](#kling-eagle-pov-steppe-flight)
 - <a id="tag-preview"></a>`preview` (1): [给 README 做小体积循环 GIF 预览](#readme-preview-gif)
 - <a id="tag-product"></a>`product` (1): [糖果做的键盘](#veo-candy-keyboard)
@@ -6410,7 +6446,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-sound-design"></a>`sound-design` (3): [唱机推镜至唱针微距](#kling-turntable-needle-macro-pushin), [小龙在冬日木屋打喷嚏点燃壁炉](#seedance-baby-dragon-sneeze-cabin-fire), [蓝色虚空中的彩绘火焰空手道套路](#seedance-painted-flame-karate-kata-void)
 - <a id="tag-spanish"></a>`spanish` (1): [马德里问路，磕磕绊绊的西班牙语](#kling-madrid-asking-directions)
 - <a id="tag-split-composition"></a>`split-composition` (3): [上半照片，下半水彩旅行速写](#gpt-image-photo-to-watercolor-travel), [一半照片一半水墨的海报](#nano-banana-photo-ink-split-poster), [上面照片下面素描的编辑海报模板](#nano-banana-photo-sketch-editorial)
-- <a id="tag-split-layout"></a>`split-layout` (1): [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-split-layout"></a>`split-layout` (3): [手捧玫瑰与黄色手袋女子的编辑风海报](#gpt-image-editorial-split-poster-roses), [湖边实景照片搭配手绘纸本插画](#gpt-image-photo-to-paper-illustration-split-poster), [锈红电车照片搭配手工纸本插画海报](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-sports"></a>`sports` (3): [挥棒全程，球棒上的字保持清晰](#kling-baseball-bat-logo), [篮球运动员在室外球场后空翻扣篮](#kling-basketball-backflip-dunk-court), [暴雨海崖高尔夫球手与追球镜头](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-start-end-frames"></a>`start-end-frames` (1): [空房间延时搭建阁楼](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-static-camera"></a>`static-camera` (1): [前景拉面，后景家宴，一次焦点转移](#h3-ramen-focus-pull)
@@ -6432,6 +6468,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - <a id="tag-text-render"></a>`text-render` (3): [挥棒全程，球棒上的字保持清晰](#kling-baseball-bat-logo), [巴黎窗边的香水广告](#kling-perfume-paris-ad), [动态文字，一拍一个词](#omni-word-by-word-sizzle)
 - <a id="tag-text-rendering"></a>`text-rendering` (1): [光泽三维文字逐词依次出现](#omni-word-by-word-kinetic-text-sizzle)
 - <a id="tag-textile"></a>`textile` (1): [照片变针织定格动画玩偶半身像](#gpt-image-knitted-puppet-bust)
+- <a id="tag-texture"></a>`texture` (1): [带咖啡渍的线格纸铅笔手写文章](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-texture-test"></a>`texture-test` (1): [阳光洒落的林间空地与茂密绿叶](#gpt-image-forest-clearing-foliage-noise-test)
 - <a id="tag-thriller"></a>`thriller` (1): [四个持枪男人的无声对峙](#wan-four-gunmen-standoff)
 - <a id="tag-time-freeze"></a>`time-freeze` (1): [1950 年代餐馆：时间静止再倒流](#seedance-diner-frozen-time-rewind)

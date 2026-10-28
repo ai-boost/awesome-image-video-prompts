@@ -1,0 +1,25 @@
+id: gpt-image-tram-photo-paper-illustration-poster
+title:
+  en: Rusty red tram photo paired with paper illustration
+  zh: 锈红电车照片搭配手工纸本插画海报
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- editorial-poster
+- photo-to-illustration
+- split-layout
+- negative-space
+- paper-texture
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2104111940180316193
+  credit: Ziha
+  likes: 266
+  captured: '2026-10-27'
+  posted: '2026-09-27'
+notes:
+  en: The prompt splits a 3:4 canvas into two equal halves, with the original photo kept intact on top and a tiny four color paper illustration below. Capping the illustration at 10 to 20 percent of the bottom half and demanding warm off white negative space gives it an art book cover feel.
+  zh: 提示词把 3:4 画面严格对半分，上半保留原照片，下半是只用四种取色的小幅手工纸本插画。限定插画只占下半部分的 10% 到 20%，并要求大面积暖白留白，成片就有独立艺术书封面的气质。
+prompt: |
+  Create a high-end editorial poster using the uploaded photo as the exact reference, in a strict 3:4 vertical format divided horizontally into two equal 50/50 sections. Preserve the original photo faithfully in the top half, including subjects, identity, pose, clothing, objects, lighting, colors, and realistic texture, with only subtle premium editorial color grading. In the bottom half, reinterpret the most recognizable elements as a small, centered, minimalist handmade paper illustration using delicate imperfect lines, bold flat acrylic-like color shapes, subtle paper grain, organic edges, and no more than 4 colors extracted from the original photo. Keep the illustration only 10–20% of the bottom section with lots of warm off-white negative space and optional minimal editorial typography. The overall result should feel quiet, poetic, refined, artistic, premium, and like an independent art-book cover, avoiding cartoon, watercolor, colored-pencil, 3D, glossy, busy, or commercial aesthetics.

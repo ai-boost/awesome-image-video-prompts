@@ -27,12 +27,12 @@
   - [Veo 3.1](#veo31) (3)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [Image prompts](#image) (31 entries)
-  - [Posters and editorial layouts](#img-poster) (6)
-  - [Photo to art](#img-photo-to-art) (6)
-  - [Photo realism](#img-realism) (7)
+- [Image prompts](#image) (33 entries)
+  - [Posters and editorial layouts](#img-poster) (7)
+  - [Photo to art](#img-photo-to-art) (7)
+  - [Photo realism](#img-realism) (8)
   - [Portraits](#img-portrait) (4)
-  - [Illustration](#img-illustration) (4)
+  - [Illustration](#img-illustration) (3)
   - [Phone and UI mockups](#img-ui-mockup) (2)
   - [Maps](#img-map) (1)
   - [Collage](#img-collage) (1)
@@ -4816,6 +4816,41 @@ Create a sophisticated, visually balanced editorial art poster that faithfully p
 
 </details>
 
+<a id="gpt-image-editorial-split-poster-roses"></a>
+### Editorial poster of woman with roses and yellow bag
+
+<a href="https://x.com/Ziha_ai/status/2106990557813968909"><img src="previews/gpt-image-editorial-split-poster-roses.jpg" width="360"></a>
+
+The canvas is split into two exact halves. The top keeps the original photo untouched, and the bottom rebuilds the subject over one low saturation color window sampled from the photo. The subject crosses the window edge into white negative space, which gives depth and avoids a sticker look.
+
+GPT Image 2.5 · Edit · Source: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2106990557813968909) · 337 likes on 2026-10-27
+
+[`editorial-poster`](#tag-editorial-poster) [`split-layout`](#tag-split-layout) [`color-window`](#tag-color-window) [`negative-space`](#tag-negative-space) [`photo-reconstruction`](#tag-photo-reconstruction)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Premium Editorial Poster Instructions
+
+Each uploaded photo must be made into a separate, independent, premium editorial poster, and multiple photos must not be combined. Use a strict 3:4 vertical canvas. Split the canvas horizontally in the exact center: the upper half and the lower half each occupy 50% of the height, are equally wide, and equally high, with no alteration of proportion.
+
+The upper half uses the original photo directly and must not be regenerated. Preserve the identity of the main subject, the human body or architectural structure, proportions, perspective, spatial relationships, texture, natural light and shadow, color, and environment in their entirety. Only slight cropping and restrained premium color grading are permitted; re-drawing the main subject, fictional light, HDR, excessive saturation, plastic texture, and fictional content are prohibited. hibited. When needing to adapt to the frame, only environmental areas such as sky, water surface, ground, walls, plants, or background can be extended.
+
+The lower half extracts and reconstructs the "narrative core" of the photo: it can be a single primary subject, or a group of related elements that together embody the photo's identity, scale, action, o story relationship. Maintain its realistic, recognizable appearance, proportion, internal structure, texture, and relative position. Do not remove important related elements, and do not directly us rectangular photo cutouts. The reconstructed subject typically occupies 55%-80% of the width of the lower area. It should naturally extend based on the photo's primary direction and retain plausible ground, water lines, shadows, or softly dissipated edges to integrate into the background, avoiding a sticker-like or floating appearance.
+
+Incorporate a narrow, low-saturation geometric color field behind or through the center of the subject, serving as a "critical window" between reality and editorial abstraction. The color of the window must be extracted from the original photo, and its orientation (horizontal, vertical, or diagonal) chosen based on the overall narrative direction.
+
+The subject must actively pass through the window: part of it is within the color field, and part enters the open negative space, naturally crossing the window's boundary to create occlusion, penetration, and spatial depth. The window is not a frame or a card; it must not fully enclose the subject. Only one primary window is allowed; multiple color blocks, thick borders, rounded corners, strong gradients, and drop shadows are prohibited.
+
+Use a white, cool white, very light gray, or near-white background for the lower half, coordinated with the photo. Employ a restrained asymmetrical composition and abundant negative space to establish a three-tier hierarchy:
+
+Reconstructed subject or narrative composition
+
+Low-saturation geometric window
+```
+
+</details>
+
 <a id="nano-banana-photo-sketch-editorial"></a>
 ### Photograph above, sketch below: an editorial template
 
@@ -5182,6 +5217,25 @@ Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust wit
 
 </details>
 
+<a id="gpt-image-tram-photo-paper-illustration-poster"></a>
+### Rusty red tram photo paired with paper illustration
+
+<a href="https://x.com/Ziha_ai/status/2104111940180316193"><img src="previews/gpt-image-tram-photo-paper-illustration-poster.jpg" width="360"></a>
+
+The prompt splits a 3:4 canvas into two equal halves, with the original photo kept intact on top and a tiny four color paper illustration below. Capping the illustration at 10 to 20 percent of the bottom half and demanding warm off white negative space gives it an art book cover feel.
+
+GPT Image 2.5 · Edit · Source: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2104111940180316193) · 266 likes on 2026-10-27
+
+[`editorial-poster`](#tag-editorial-poster) [`photo-to-illustration`](#tag-photo-to-illustration) [`split-layout`](#tag-split-layout) [`negative-space`](#tag-negative-space) [`paper-texture`](#tag-paper-texture)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a high-end editorial poster using the uploaded photo as the exact reference, in a strict 3:4 vertical format divided horizontally into two equal 50/50 sections. Preserve the original photo faithfully in the top half, including subjects, identity, pose, clothing, objects, lighting, colors, and realistic texture, with only subtle premium editorial color grading. In the bottom half, reinterpret the most recognizable elements as a small, centered, minimalist handmade paper illustration using delicate imperfect lines, bold flat acrylic-like color shapes, subtle paper grain, organic edges, and no more than 4 colors extracted from the original photo. Keep the illustration only 10–20% of the bottom section with lots of warm off-white negative space and optional minimal editorial typography. The overall result should feel quiet, poetic, refined, artistic, premium, and like an independent art-book cover, avoiding cartoon, watercolor, colored-pencil, 3D, glossy, busy, or commercial aesthetics.
+```
+
+</details>
+
 <a id="nano-banana-second-world"></a>
 ### Second World: your photo, rebuilt as another world
 
@@ -5257,6 +5311,31 @@ Identity consistency: The same Portuguese woman must appear in all six frames, w
 Photography details: Realistic compact-camera flash, authentic skin pores, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, slight variations in exposure, and candid framing. Avoid excessive retouching, artificial skin smoothing, exaggerated beauty standards, duplicated expressions, malformed fingers, distorted anatomy, or the overly polished appearance of AI-generated portraits.
 
 Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no text, no watermark. Photorealistic, youthful, spontaneous, intimate, and effortlessly stylish.
+```
+
+</details>
+
+<a id="gpt-image-pencil-essay-coffee-stain"></a>
+### Pencil handwritten essay on lined paper with coffee stain
+
+<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
+
+The prompt fixes the medium (pencil on 8.5x11 lined paper) and the capture method (phone photo). It asks for stroke variance and one small flaw, a coffee stain in a named corner, which gives the realism.
+
+GPT Image 2.5 · Text-to-image · Source: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 likes on 2026-10-27
+
+[`handwriting`](#tag-handwriting) [`paper`](#tag-paper) [`phone-photo`](#tag-phone-photo) [`texture`](#tag-texture) [`coffee-stain`](#tag-coffee-stain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+🚨 GPT-Image-2.5 Output
+
+I said it to write like einstein it did it without reference < i did not give image or anything   >
+
+left side is AI and right side is real photo from reddit to compare
+
+Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
 ```
 
 </details>
@@ -5745,55 +5824,6 @@ Use a warm ivory background with plenty of negative space, soft ground shadows, 
 
 </details>
 
-<a id="gpt-image-character-dance-pose-sheet-4x4"></a>
-### Pink haired idol girl 4x4 dance pose sheet
-
-<a href="https://x.com/Mayz1169/status/2099457417528692871"><img src="previews/gpt-image-character-dance-pose-sheet-4x4.jpg" width="360"></a>
-
-Locks identity to an uploaded reference, then fixes a numbered 4x4 grid with a choreography list from opening pose to final silhouette. An AVOID list targets identity drift, cropping and repeated poses.
-
-GPT Image 2.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099457417528692871) · 391 likes on 2026-10-27
-
-[`pose-sheet`](#tag-pose-sheet) [`character-consistency`](#tag-character-consistency) [`anime`](#tag-anime) [`dance`](#tag-dance) [`grid`](#tag-grid)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
-
-CHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
-
-ADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion.
-
-Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
-
-Use the following movement structure, adapting each action to the character:
-1. Opening pose that establishes the character’s personality.
-2. Small rhythmic step with a coordinated arm gesture.
-3. Side step with one arm extended.
-4. Compact expressive gesture near the face or upper body.
-5. Grounded stance with arms crossing or sweeping inward.
-6. Knee lift or an anatomically appropriate weight shift.
-7. Open, expansive pose with arms spread.
-8. Playful or expressive balance pose.
-9. Turning pose showing a three-quarter rear view.
-10. Forward-reaching movement with a diagonal body lean.
-11. Strong upward-reaching accent.
-12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
-13. Lowered stance with a forward gesture.
-14. Elegant or dynamic side-facing transition.
-15. Signature gesture that suits the character.
-16. Confident final pose with a clear finishing silhouette.
-
-COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
-
-AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
-
-Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
-```
-
-</details>
-
 <a id="nano-banana-paper-cut-fashion"></a>
 ### Fashion illustration in layered 3D paper-cut
 
@@ -6214,7 +6244,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-analog"></a>`analog` (1): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin)
 - <a id="tag-animal"></a>`animal` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
 - <a id="tag-animation"></a>`animation` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
-- <a id="tag-anime"></a>`anime` (7): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-anime"></a>`anime` (6): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-architecture"></a>`architecture` (2): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-asmr"></a>`asmr` (1): [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
 - <a id="tag-audio"></a>`audio` (1): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film)
@@ -6234,7 +6264,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-ccd-flash"></a>`ccd-flash` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-cg"></a>`cg` (2): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle)
 - <a id="tag-character"></a>`character` (2): [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk), [Old sailor speaks in verse](#veo-old-sailor-verse)
-- <a id="tag-character-consistency"></a>`character-consistency` (7): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet), [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4)
+- <a id="tag-character-consistency"></a>`character-consistency` (6): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-character-reference"></a>`character-reference` (3): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-character-sheet"></a>`character-sheet` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-chase"></a>`chase` (1): [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
@@ -6245,8 +6275,10 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-cityscape"></a>`cityscape` (1): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-close-up"></a>`close-up` (2): [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit)
 - <a id="tag-cobalt-blue"></a>`cobalt-blue` (1): [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
+- <a id="tag-coffee-stain"></a>`coffee-stain` (1): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-collage"></a>`collage` (2): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
 - <a id="tag-color-grading"></a>`color-grading` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
+- <a id="tag-color-window"></a>`color-window` (1): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-comedy"></a>`comedy` (6): [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
 - <a id="tag-commercial"></a>`commercial` (1): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
 - <a id="tag-comparison"></a>`comparison` (1): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction)
@@ -6257,14 +6289,14 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-creature"></a>`creature` (4): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
 - <a id="tag-crowd"></a>`crowd` (2): [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd)
 - <a id="tag-cube-toy"></a>`cube-toy` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
-- <a id="tag-dance"></a>`dance` (4): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-dance"></a>`dance` (3): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-desert"></a>`desert` (1): [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight)
 - <a id="tag-dialogue"></a>`dialogue` (11): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Four family members react to a plot twist](#kling-family-reacts-to-twist), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Harbour conversation extended twice](#omni-harbour-extend), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [Old sailor speaks in verse](#veo-old-sailor-verse)
 - <a id="tag-dragon"></a>`dragon` (1): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film)
 - <a id="tag-drama"></a>`drama` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-dv-camcorder"></a>`dv-camcorder` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
 - <a id="tag-editorial"></a>`editorial` (4): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
-- <a id="tag-editorial-poster"></a>`editorial-poster` (1): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-editorial-poster"></a>`editorial-poster` (3): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-emotion"></a>`emotion` (1): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur)
 - <a id="tag-emotional"></a>`emotional` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-explainer"></a>`explainer` (2): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer), [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
@@ -6291,11 +6323,12 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-gif"></a>`gif` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
 - <a id="tag-golden-hour"></a>`golden-hour` (1): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait)
 - <a id="tag-gpt-image-workflow"></a>`gpt-image-workflow` (1): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
-- <a id="tag-grid"></a>`grid` (3): [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4), [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-grid"></a>`grid` (2): [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
 - <a id="tag-grid-layout"></a>`grid-layout` (1): [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-halftone"></a>`halftone` (1): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster)
 - <a id="tag-handheld"></a>`handheld` (6): [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Off-road rally through a river crossing](#veo-off-road-rally), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
 - <a id="tag-hands"></a>`hands` (1): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro)
+- <a id="tag-handwriting"></a>`handwriting` (1): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-home-video"></a>`home-video` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog)
 - <a id="tag-horror"></a>`horror` (2): [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak)
 - <a id="tag-humor"></a>`humor` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [Nine failed photos of any character](#gpt-image-failed-photos-grid)
@@ -6348,6 +6381,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-music-video"></a>`music-video` (1): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv)
 - <a id="tag-nano-banana-pro"></a>`nano-banana-pro` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-nature"></a>`nature` (1): [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
+- <a id="tag-negative-space"></a>`negative-space` (2): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-neon"></a>`neon` (2): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
 - <a id="tag-newspaper"></a>`newspaper` (1): [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
 - <a id="tag-night"></a>`night` (2): [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
@@ -6359,21 +6393,23 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-outfit-change"></a>`outfit-change` (1): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take)
 - <a id="tag-painterly"></a>`painterly` (1): [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void)
 - <a id="tag-painterly-animation"></a>`painterly-animation` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
+- <a id="tag-paper"></a>`paper` (1): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-paper-cut"></a>`paper-cut` (1): [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
-- <a id="tag-paper-texture"></a>`paper-texture` (2): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-paper-texture"></a>`paper-texture` (3): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-papercraft"></a>`papercraft` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
 - <a id="tag-period"></a>`period` (3): [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)
 - <a id="tag-pet"></a>`pet` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
-- <a id="tag-phone-photo"></a>`phone-photo` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
+- <a id="tag-phone-photo"></a>`phone-photo` (2): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain), [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
+- <a id="tag-photo-reconstruction"></a>`photo-reconstruction` (1): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses)
 - <a id="tag-photo-to-art"></a>`photo-to-art` (5): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
-- <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (1): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (2): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-photo-to-life"></a>`photo-to-life` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
 - <a id="tag-photorealistic"></a>`photorealistic` (2): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-physics"></a>`physics` (2): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-physics-motion"></a>`physics-motion` (1): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket)
 - <a id="tag-pop-out"></a>`pop-out` (1): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out)
 - <a id="tag-portrait"></a>`portrait` (3): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
-- <a id="tag-pose-sheet"></a>`pose-sheet` (2): [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-pose-sheet"></a>`pose-sheet` (1): [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-pov"></a>`pov` (2): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket), [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight)
 - <a id="tag-preview"></a>`preview` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
 - <a id="tag-product"></a>`product` (1): [Keyboard made of candy](#veo-candy-keyboard)
@@ -6410,7 +6446,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-sound-design"></a>`sound-design` (3): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void)
 - <a id="tag-spanish"></a>`spanish` (1): [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-split-composition"></a>`split-composition` (3): [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
-- <a id="tag-split-layout"></a>`split-layout` (1): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-split-layout"></a>`split-layout` (3): [Editorial poster of woman with roses and yellow bag](#gpt-image-editorial-split-poster-roses), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Rusty red tram photo paired with paper illustration](#gpt-image-tram-photo-paper-illustration-poster)
 - <a id="tag-sports"></a>`sports` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-start-end-frames"></a>`start-end-frames` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-static-camera"></a>`static-camera` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
@@ -6432,6 +6468,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-text-render"></a>`text-render` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
 - <a id="tag-text-rendering"></a>`text-rendering` (1): [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle)
 - <a id="tag-textile"></a>`textile` (1): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust)
+- <a id="tag-texture"></a>`texture` (1): [Pencil handwritten essay on lined paper with coffee stain](#gpt-image-pencil-essay-coffee-stain)
 - <a id="tag-texture-test"></a>`texture-test` (1): [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
 - <a id="tag-thriller"></a>`thriller` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-time-freeze"></a>`time-freeze` (1): [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)

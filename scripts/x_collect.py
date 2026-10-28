@@ -142,34 +142,43 @@ def main():
 def run(a):
 
     seen = known_urls() | {json.loads(open(f).read())["url"] for f in glob.glob(str(OUT / "*.json"))}
-    hits = [r for r in search(a.query) if r["media"] and likes(r["stats"]) >= a.min_likes]
+    found = search(a.query) or search(a.query)  # X sometimes renders an empty first page
+    hits = [r for r in found if r["media"] and likes(r["stats"]) >= a.min_likes]
     urls = [u for u in ("https://x.com" + r["link"] for r in sorted(hits, key=lambda r: -likes(r["stats"]))) if u not in seen][: a.max]
     print(f"{len(hits)} posts with media over {a.min_likes} likes, {len(urls)} new", file=sys.stderr)
     saved = 0
     for post in fetch_posts(urls):
-        if post.get("error") or not post.get("main"):
-            continue
-        alltext = " ".join([post["main"]["text"], *post.get("thread", [])]).lower()
-        if a.model.split()[0].lower() not in alltext:
-            print("skip", post["url"], "does not mention", a.model, file=sys.stderr)
-            continue
-        prompt, truncated = pick_prompt(post)
-        m = post["main"]
-        media = m["poster"] if a.kind == "video" else (m["imgs"][0] if m["imgs"] else m["poster"])
-        if truncated or len(prompt) < 60 or not media:
-            print("skip", post["url"], "truncated" if truncated else "no prompt or media", file=sys.stderr)
-            continue
-        cid = post["url"].rstrip("/").split("/")[-1]
-        thumb = OUT / f"{cid}.jpg"
-        urllib.request.urlretrieve(re.sub(r"name=\w+", "name=medium", media), thumb)
-        (OUT / f"{cid}.json").write_text(json.dumps({
-            "cid": cid, "kind": a.kind, "model": a.model, "url": post["url"],
-            "handle": post["url"].split("/")[3], "credit": m["name"], "likes": likes(m["stats"]),
-            "posted": m["time"][:10], "post_text": m["text"], "prompt": prompt,
-            "media": media, "thumb": str(thumb),
-        }, ensure_ascii=False, indent=1))
-        saved += 1
+        try:
+            saved += save(a, post)
+        except Exception as e:  # one bad post must not lose the rest
+            print("skip", post.get("url"), repr(e), file=sys.stderr)
     print(f"saved {saved} candidates for {a.model}", file=sys.stderr)
+
+
+def save(a, post):
+    """Write one candidate and its thumbnail; return 1 when saved."""
+    if post.get("error") or not post.get("main"):
+        return 0
+    alltext = " ".join([post["main"]["text"], *post.get("thread", [])]).lower()
+    if a.model.split()[0].lower() not in alltext:
+        print("skip", post["url"], "does not mention", a.model, file=sys.stderr)
+        return 0
+    prompt, truncated = pick_prompt(post)
+    m = post["main"]
+    media = m["poster"] if a.kind == "video" else (m["imgs"][0] if m["imgs"] else m["poster"])
+    if truncated or len(prompt) < 60 or not media:
+        print("skip", post["url"], "truncated" if truncated else "no prompt or media", file=sys.stderr)
+        return 0
+    cid = post["url"].rstrip("/").split("/")[-1]
+    thumb = OUT / f"{cid}.jpg"
+    urllib.request.urlretrieve(re.sub(r"name=\w+", "name=medium", media), thumb)
+    (OUT / f"{cid}.json").write_text(json.dumps({
+        "cid": cid, "kind": a.kind, "model": a.model, "url": post["url"],
+        "handle": post["url"].split("/")[3], "credit": m["name"], "likes": likes(m["stats"]),
+        "posted": m["time"][:10], "post_text": m["text"], "prompt": prompt,
+        "media": media, "thumb": str(thumb),
+    }, ensure_ascii=False, indent=1))
+    return 1
 
 
 if __name__ == "__main__":
