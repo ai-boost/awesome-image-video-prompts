@@ -1,0 +1,31 @@
+id: nano-banana-photo-sketch-editorial
+title:
+  en: 'Photograph above, sketch below: an editorial template'
+  zh: 上面照片下面素描的编辑海报模板
+model: Nano Banana 2.1
+mode: text-to-image
+category: poster
+tags:
+- split-composition
+- template
+- editorial
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2111332272670417236
+  credit: K
+  likes: 266
+  captured: '2026-10-27'
+  posted: '2026-10-17'
+notes:
+  en: 'Fill `[SUBJECT]` and `[SETTING]`. The ban list covers the usual split-poster failures: heavy borders, mismatched faces.'
+  zh: 填 `[SUBJECT]` 和 `[SETTING]`。禁止项针对分割海报的常见毛病：粗边框、上下脸不一致。
+prompt: |
+  Create a premium editorial poster featuring a two-part visual composition. The upper half shows a photorealistic photograph of [SUBJECT] in [SETTING], captured in warm natural sunlight with realistic skin texture, authentic expressions, soft highlights, and cinematic depth of field. The lower half transforms the exact same scene into a beautiful hand-painted digital illustration, preserving the subject’s pose, hairstyle, clothing, colors, and key visual details.
+
+  Place the illustrated scene inside a clean rectangular frame on a warm ivory, subtly textured paper background. Use a charming contemporary illustration style with delicate brush textures, simplified organic shapes, pastel colors, soft outlines, and a nostalgic summer-magazine aesthetic. Add tasteful decorative elements that complement the scene.
+
+  Below the illustration, include a centered minimalist editorial title reading “[MAIN TITLE]” in thin, widely spaced uppercase typography, followed by a smaller subtitle reading “[TAGLINE]” in elegant letter-spaced text. Add a short, thin pastel-colored line underneath.
+
+  Maintain balanced spacing, refined art direction, a cohesive color palette, and a sophisticated print-design finish. Vertical 3:4 composition, high resolution, natural lighting, polished editorial layout, aesthetically pleasing, realistic-to-illustration transformation.
+
+  Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, harsh colors, heavy borders, and unnecessary graphic elements.

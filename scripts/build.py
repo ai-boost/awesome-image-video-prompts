@@ -9,6 +9,17 @@ import yaml
 
 # Model sections, ordered by the Artificial Analysis video arena (October 2026).
 MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 3.0", "Veo 3", "Sora 2"]
+# Image sections by use case, in display order.
+CATEGORIES = {
+    "poster": {"en": "Posters and editorial layouts", "zh": "海报与编辑排版"},
+    "photo-to-art": {"en": "Photo to art", "zh": "照片转艺术风格"},
+    "realism": {"en": "Photo realism", "zh": "写实照片"},
+    "portrait": {"en": "Portraits", "zh": "人像"},
+    "illustration": {"en": "Illustration", "zh": "插画"},
+    "ui-mockup": {"en": "Phone and UI mockups", "zh": "手机与界面截图"},
+    "map": {"en": "Maps", "zh": "地图"},
+    "collage": {"en": "Collage", "zh": "拼贴"},
+}
 SHOWCASE = ["seedance-seoul-subway-revenge", "wan-time-space-train", "h3-starship-hyperspace-jump", "omni-four-style-progression",
             "kling-moonlit-garden-run", "veo-off-road-rally"]
 
@@ -16,7 +27,7 @@ T = {
     "en": {
         "file": "README.md",
         "title": "Awesome Image & Video Prompts",
-        "tagline": "Copy-ready prompts for the leading AI video models, each with its real output and a link to where it came from. "
+        "tagline": "Copy-ready prompts for the leading AI video and image models, each with its real output and a link to where it came from. "
                    "Plus agent recipes for editing video.",
         "switch": '<b>English</b> · <a href="README_zh.md">简体中文</a>',
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
@@ -31,7 +42,7 @@ T = {
         "guides_official": "Official prompt guides",
         "guides_community": "Community skills and libraries",
         "image": "Image prompts",
-        "image_body": "Coming next, built the same way: official and widely shared prompts, each with its output.",
+        "image_body": "The most-liked prompts for the top image models on the [Artificial Analysis image arena](https://artificialanalysis.ai/text-to-image/arena), each shared on X with its result. Grouped by what you want to make. Many work on an uploaded photo; the ones marked *Edit* expect one.",
         "threed": "3D with agents",
         "threed_body": "Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in progress.",
         "tags": "Browse by tag",
@@ -46,7 +57,7 @@ T = {
         "tools": "Tools",
         "contrib": "Contributing",
         "contrib_body": [
-            "Add one YAML file under `prompts/video/` (copy any entry as a template).",
+            "Add one YAML file under `prompts/video/` or `prompts/image/` (copy any entry as a template).",
             "Link the original post or page where the prompt and its output were published, and credit the author.",
             "Run `python scripts/build.py` to regenerate both READMEs, then open a pull request.",
             "Entries without a visible output or a traceable source are closed. Promotional links are closed.",
@@ -63,7 +74,7 @@ T = {
     "zh": {
         "file": "README_zh.md",
         "title": "Awesome Image & Video Prompts",
-        "tagline": "主流 AI 视频模型的提示词，拿来就能用。每条都附真实成片和出处链接。另有用 Agent 剪视频的配方。",
+        "tagline": "主流 AI 视频和图片模型的提示词，拿来就能用。每条都附真实成品和出处链接。另有用 Agent 剪视频的配方。",
         "switch": '<a href="README.md">English</a> · <b>简体中文</b>',
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
@@ -77,7 +88,7 @@ T = {
         "guides_official": "官方提示词指南",
         "guides_community": "社区 skill 与案例库",
         "image": "图片提示词",
-        "image_body": "下一批上线，做法相同：官方和广为流传的提示词，每条附成图。",
+        "image_body": "[Artificial Analysis 图像榜](https://artificialanalysis.ai/text-to-image/arena)前排模型上点赞最多的提示词，每条都是作者在 X 上连同成图一起发的。按用途分组。很多要配一张自己的照片，标着「上传图改图」的就是。",
         "threed": "用 Agent 做 3D",
         "threed_body": "用编程 Agent 搭 3D 场景的配方（Blender MCP、three.js）正在整理。",
         "tags": "按标签浏览",
@@ -92,7 +103,7 @@ T = {
         "tools": "工具",
         "contrib": "投稿",
         "contrib_body": [
-            "在 `prompts/video/` 下加一个 YAML 文件，照任意现有条目的格式写。",
+            "在 `prompts/video/` 或 `prompts/image/` 下加一个 YAML 文件，照任意现有条目的格式写。",
             "附上提示词和成片最初发布的帖子或页面链接，并署上作者。",
             "运行 `python scripts/build.py` 重新生成两份 README，再提 PR。",
             "看不到成片、查不到出处的条目会被关闭，推广链接会被关闭。",
@@ -111,10 +122,12 @@ T = {
 MODE_NAMES = {
     "en": {"text-to-video": "Text-to-video", "image-to-video": "Image-to-video",
            "keyframes-to-video": "First & last frame", "reference-to-video": "Reference-to-video",
-           "video-edit": "Video edit", "extend": "Extend"},
+           "video-edit": "Video edit", "extend": "Extend",
+           "text-to-image": "Text-to-image", "image-edit": "Edit"},
     "zh": {"text-to-video": "文生视频", "image-to-video": "图生视频",
            "keyframes-to-video": "首尾帧", "reference-to-video": "参考生视频",
-           "video-edit": "视频编辑", "extend": "续写"},
+           "video-edit": "视频编辑", "extend": "续写",
+           "text-to-image": "文生图", "image-edit": "上传图改图"},
 }
 
 
@@ -136,7 +149,7 @@ def video_entry(e, lang, t):
     if s.get("likes"):
         meta += f' · {s["likes"]:,} {t["likes"]} {s["captured"]}'
     out = [f'<a id="{e["id"]}"></a>', f'### {e["title"][lang]}', "",
-           f'<a href="{e["video"]}"><img src="previews/{e["id"]}.jpg" width="360"></a>', "",
+           f'<a href="{e.get("video", s["url"])}"><img src="previews/{e["id"]}.jpg" width="360"></a>', "",
            e["notes"][lang], "", meta, "", tag_line(e["tags"]), "",
            f'<details><summary><b>{t["prompt"]}</b></summary>', "", "```text", e["prompt"].rstrip(), "```", "", "</details>", ""]
     if e.get("inputs"):
@@ -154,7 +167,7 @@ def recipe_entry(e, lang, t):
     ]
 
 
-def build(lang, videos, recipes):
+def build(lang, videos, images, recipes):
     t = T[lang]
     by_model = {m: sorted((v for v in videos if v["model"] == m), key=lambda v: -v["source"].get("likes", 0))
                 for m in MODELS}
@@ -169,8 +182,13 @@ def build(lang, videos, recipes):
         f'- [{t["video"]}](#video) ({len(videos)} {t["items"]})',
     ]
     out += [f'  - [{m}](#{anchor(m)}) ({len(by_model[m])})' for m in MODELS if by_model[m]]
+    by_cat = {c: sorted((i for i in images if i["category"] == c), key=lambda i: -i["source"].get("likes", 0))
+              for c in CATEGORIES}
+    assert sum(map(len, by_cat.values())) == len(images), "image with a category missing from CATEGORIES"
+    out += [f'- [{t["image"]}](#image) ({len(images)} {t["items"]})']
+    out += [f'  - [{CATEGORIES[c][lang]}](#img-{c}) ({len(by_cat[c])})' for c in CATEGORIES if by_cat[c]]
     out += [f'- [{t["recipes"]}](#recipes) ({len(recipes)} {t["items"]})',
-            f'- [{t["guides"]}](#guides)', f'- [{t["image"]}](#image)', f'- [{t["threed"]}](#threed)',
+            f'- [{t["guides"]}](#guides)', f'- [{t["threed"]}](#threed)',
             f'- [{t["tags"]}](#tags)', f'- [{t["contrib"]}](#contributing)', ""]
 
     out += ['<a id="video"></a>', f'## {t["video"]}', "", t["video_intro"], ""]
@@ -179,6 +197,13 @@ def build(lang, videos, recipes):
             out += [f'<a id="{anchor(m)}"></a>', f"## {m}", ""]
             for v in by_model[m]:
                 out += video_entry(v, lang, t)
+
+    out += ['<a id="image"></a>', f'## {t["image"]}', "", t["image_body"], ""]
+    for c in CATEGORIES:
+        if by_cat[c]:
+            out += [f'<a id="img-{c}"></a>', f"## {CATEGORIES[c][lang]}", ""]
+            for i in by_cat[c]:
+                out += video_entry(i, lang, t)
 
     out += ['<a id="recipes"></a>', f'## {t["recipes"]}', "", t["recipes_intro"], ""]
     for r in recipes:
@@ -189,11 +214,10 @@ def build(lang, videos, recipes):
     for key in ("official", "community"):
         out += [f'### {t["guides_" + key]}', ""] + [f'- [{r["name"]}]({r["url"]}): {r[lang]}' for r in res[key]] + [""]
 
-    out += ['<a id="image"></a>', f'## {t["image"]}', "", t["image_body"], "",
-            '<a id="threed"></a>', f'## {t["threed"]}', "", t["threed_body"], ""]
+    out += ['<a id="threed"></a>', f'## {t["threed"]}', "", t["threed_body"], ""]
 
     tags = {}
-    for e in videos + recipes:
+    for e in videos + images + recipes:
         for tg in e["tags"]:
             tags.setdefault(tg, []).append(e)
     out += ['<a id="tags"></a>', f'## {t["tags"]}', ""]
@@ -210,7 +234,8 @@ def build(lang, videos, recipes):
 
 if __name__ == "__main__":
     videos = load("prompts/video/*.yaml")
+    images = load("prompts/image/*.yaml")
     recipes = load("recipes/*.yaml")
     for lang in T:
-        build(lang, videos, recipes)
-    print(f"built README.md and README_zh.md: {len(videos)} video entries, {len(recipes)} recipes")
+        build(lang, videos, images, recipes)
+    print(f"built README.md and README_zh.md: {len(videos)} video, {len(images)} image entries, {len(recipes)} recipes")

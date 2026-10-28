@@ -2,7 +2,7 @@
 
 <h1>Awesome Image & Video Prompts</h1>
 
-<p>Copy-ready prompts for the leading AI video models, each with its real output and a link to where it came from. Plus agent recipes for editing video.</p>
+<p>Copy-ready prompts for the leading AI video and image models, each with its real output and a link to where it came from. Plus agent recipes for editing video.</p>
 
 <p><b>English</b> · <a href="README_zh.md">简体中文</a></p>
 
@@ -24,9 +24,17 @@
   - [Kling 3.0](#kling30) (15)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (3)
+- [Image prompts](#image) (23 entries)
+  - [Posters and editorial layouts](#img-poster) (6)
+  - [Photo to art](#img-photo-to-art) (4)
+  - [Photo realism](#img-realism) (5)
+  - [Portraits](#img-portrait) (2)
+  - [Illustration](#img-illustration) (2)
+  - [Phone and UI mockups](#img-ui-mockup) (2)
+  - [Maps](#img-map) (1)
+  - [Collage](#img-collage) (1)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
-- [Image prompts](#image)
 - [3D with agents](#threed)
 - [Browse by tag](#tags)
 - [Contributing](#contributing)
@@ -2847,6 +2855,1315 @@ She turns around and smiles, then slowly walks out of the frame.
 
 Inputs: [1](https://cdn.openai.com/API/docs/images/sora/woman_skyline_original_720p.jpeg)
 
+<a id="image"></a>
+## Image prompts
+
+The most-liked prompts for the top image models on the [Artificial Analysis image arena](https://artificialanalysis.ai/text-to-image/arena), each shared on X with its result. Grouped by what you want to make. Many work on an uploaded photo; the ones marked *Edit* expect one.
+
+<a id="img-poster"></a>
+## Posters and editorial layouts
+
+<a id="gpt-image-minimal-lifestyle-poster"></a>
+### Minimal lifestyle art poster from a real photo
+
+<a href="https://x.com/Naiknelofar788/status/2101161664892829838"><img src="previews/gpt-image-minimal-lifestyle-poster.jpg" width="360"></a>
+
+A fill-in template: swap `[PERSON / SUBJECT / MOMENT]`. Keeps the subject recognisable while dropping the photographic background.
+
+GPT Image 2.5 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2101161664892829838) · 1,698 likes on 2026-10-27
+
+[`editorial`](#tag-editorial) [`illustration`](#tag-illustration) [`template`](#tag-template) [`photo-to-art`](#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A sophisticated minimalist lifestyle art poster featuring [PERSON / SUBJECT / MOMENT] as the central focus, transformed from a real-life photograph into a refined hand-drawn editorial illustration. Preserve the subject’s recognizable pose, silhouette, clothing, hairstyle, and key visual details while simplifying the scene into an elegant artistic composition.
+
+Use a limited vintage color palette inspired by the original environment, with warm muted tones printed on an ivory/off-white paper background. Combine delicate ink outlines, loose sketchwork, fine hatching, subtle halftone texture, faded print imperfections, and soft watercolor-like washes.
+
+Reduce the surrounding environment into a few recognizable contextual elements—[CAFÉ / BAR / STREET / LANDMARK / OBJECTS]—using simplified linework and layered shapes rather than detailed realism. Add subtle abstract circles, geometric forms, atmospheric marks, tiny decorative elements, or silhouettes to create visual depth.
+
+Include small minimalist typography on one side: [CITY / LOCATION], [SUBJECT / MOMENT], and optional coordinates, date, or short descriptor, designed like a premium collectible travel/lifestyle print.
+
+Generous negative space, elegant editorial composition, vintage screen-print aesthetic, hand-crafted illustration, sophisticated travel-magazine design, muted heritage colors, subtle paper grain, artistic but recognizable, no photorealistic background, no excessive details, 4:5 vertical composition.
+```
+
+</details>
+
+<a id="gpt-image-editorial-illustration-poster"></a>
+### Turn each photo into a quiet editorial illustration poster
+
+<a href="https://x.com/icreatelife/status/2099343607492702258"><img src="previews/gpt-image-editorial-illustration-poster.jpg" width="360"></a>
+
+Opens by forbidding collages, one poster per photo, and closes with a row of mood words the result should feel like.
+
+GPT Image 2.5 · Edit · Source: [@icreatelife on X](https://x.com/icreatelife/status/2099343607492702258) · 1,165 likes on 2026-10-27
+
+[`editorial`](#tag-editorial) [`illustration`](#tag-illustration) [`photo-to-art`](#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create one independent high-end editorial poster for each uploaded photo. Do not combine multiple photos into a collage. Each photo must be processed and output as a separate poster.
+
+OVERALL FORMAT
+
+Strict 3:4 vertical composition.
+
+Divide the canvas horizontally into two exactly equal sections, with a precise 1:1 height ratio.
+
+The top half occupies exactly 50% of the canvas.
+
+The bottom half occupies exactly 50% of the canvas.
+
+The two sections should feel visually connected as one refined art publication cover.
+
+TOP HALF — ORIGINAL PHOTOGRAPH
+
+Preserve the original photograph as faithfully as possible.
+
+Keep the main composition, subjects, identity, facial features, body proportions, poses, expressions, clothing, objects, and spatial relationships unchanged.
+
+Preserve the realistic photographic texture, natural lighting, shadows, atmosphere, and original color mood.
+
+Apply only subtle, sophisticated editorial color grading, creating the feeling of a premium magazine photograph, contemporary art book, or high-end independent publication.
+
+The image should remain photorealistic and authentic, never overly retouched or artificially stylized.
+
+If necessary to fit the 3:4 composition naturally, extend the sky, ground, walls, or surrounding environmental background.
+
+Background extension must feel seamless and photographic.
+
+Never stretch, distort, reshape, replace, or alter the main subject.
+
+BOTTOM HALF — MINIMAL HAND-DRAWN PAPER ILLUSTRATION
+
+Extract the most recognizable visual elements from the original photograph and reinterpret them as a minimalist hand-drawn paper-cover illustration.
+
+Preserve:
+
+The most recognizable subject
+
+Essential silhouette and proportions
+
+Key pose or gesture
+
+Important objects
+
+The core narrative relationship between people and objects
+
+Highly simplify the image. Remove unnecessary details and retain only the visual information needed for immediate recognition.
+
+Use:
+
+Delicate, slightly imperfect hand-drawn lines
+
+A small number of bold, clearly defined acrylic-style flat color shapes
+
+Rough paper texture
+
+Visible handmade brush marks
+
+Slightly irregular, organic edges
+
+Subtle imperfections that make it feel genuinely handmade
+
+The main illustrated subject should be small, centered, and carefully composed, occupying approximately 10–20% of the bottom half.
+
+Leave a large amount of negative space around the illustration.
+
+The background should primarily resemble:
+
+Rough white paper
+
+Warm off-white paper
+
+Pale natural paper
+
+Minimal editorial book-cover stock
+
+Use only a few lines or small color shapes to suggest the surrounding environment.
+
+COLOR PALETTE
+
+Extract the dominant colors directly from the original photograph.
+
+Compress the palette into no more than 4 main colors.
+
+Keep the colors restrained, sophisticated, and harmonious.
+
+Use bold but controlled flat color blocks.
+
+Avoid excessive color variation.
+
+Preserve subtle paper grain and handmade brush texture.
+
+The illustration should visually feel like a simplified color interpretation of the photograph.
+
+TYPOGRAPHY
+
+A small amount of simple typography may be included when appropriate.
+
+Possible elements:
+
+A short title
+
+Keyword
+
+Object name
+
+Location
+
+Year
+
+Number
+
+Short phrase
+
+Text should be minimal, understated, and editorial.
+
+Typography should naturally interact with the large areas of negative space and the small illustration, evoking:
+
+Art book covers
+
+Independent publishing
+
+Contemporary editorial design
+
+Thoughtful children's picture books
+
+Do not force text into the composition if it does not naturally fit the photograph.
+
+VISUAL LANGUAGE
+
+The final poster should feel:
+
+Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thoughtful · High-recognition · Premium
+```
+
+</details>
+
+<a id="gpt-image-halftone-architecture-poster"></a>
+### Building photo to halftone travel-collage poster
+
+<a href="https://x.com/Naiknelofar788/status/2100067049288634730"><img src="previews/gpt-image-halftone-architecture-poster.jpg" width="360"></a>
+
+Long spec with a closing priority rule: architectural accuracy first, the halftone treatment second.
+
+GPT Image 2.5 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2100067049288634730) · 497 likes on 2026-10-27
+
+[`halftone`](#tag-halftone) [`architecture`](#tag-architecture) [`travel`](#tag-travel) [`collage`](#tag-collage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
+
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.
+
+Do not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.
+
+TOP HALF — THE REAL SHOT
+
+Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.
+
+Keep recognizable features such as:
+
+* façade
+* windows and arches
+* towers or domes
+* doors and structural details
+* roofline
+* surrounding landscape or street elements
+
+Add only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Rebuild the same structure as an experimental printed architectural collage using:
+
+torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.
+
+The structure must remain immediately recognizable.
+
+* Torn-edge photographic fragments preserve the most important architectural details.
+* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.
+* Use thin technical construction lines to subtly trace the structure’s geometry.
+* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.
+* Keep the main silhouette strong and readable.
+* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.
+* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.
+* Never fully desaturate the structure.
+
+The structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.
+
+Leave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.
+
+TYPOGRAPHY
+
+Add one clean, readable fixed-width architectural title based on the structure:
+
+[STRUCTURE NAME]
+
+Below it include:
+
+[CITY, COUNTRY]
+REC. STUDY 01
+
+Add one short observational caption related to the architecture, such as:
+
+“A monumental study in geometry, time, and place.”
+
+Typography should feel like an old architectural archive mixed with an underground experimental design journal.
+
+A few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.
+
+MOOD
+
+Early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.
+
+The structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.
+
+Sophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.
+
+AVOID
+
+Solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.
+
+Priority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.
+```
+
+</details>
+
+<a id="nano-banana-photo-ink-split-poster"></a>
+### Half photo, half black-ink illustration poster
+
+<a href="https://x.com/ChillaiKalan__/status/2110581440085987751"><img src="previews/nano-banana-photo-ink-split-poster.jpg" width="360"></a>
+
+Asks for an exact 50/50 split, then specifies how each half treats the same subject.
+
+Nano Banana 2.1 · Edit · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2110581440085987751) · 414 likes on 2026-10-27
+
+[`split-composition`](#tag-split-composition) [`ink`](#tag-ink) [`photo-to-art`](#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.
+
+Divide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.
+
+1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH
+
+Use the uploaded reference photograph directly in the upper 50% of the poster.
+
+Preserve its original photographic quality, sharpness, natural lighting, and color relationships.
+
+Allow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.
+
+If required, naturally extend a small portion of the surrounding environment to fit the composition.
+
+Do not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.
+
+Do not introduce black borders, white margins, or empty edges.
+
+2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION
+
+Use a warm, near-white ivory paper background with an extremely subtle paper texture.
+
+Analyze the main subject and visual story of the uploaded reference image.
+
+Extract only the primary subject, preserving one or two essential identifying elements.
+
+Remove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.
+
+Transform the primary subject into a sophisticated black-ink editorial illustration.
+
+ILLUSTRATION STYLE:
+
+Use natural, clean pen strokes with varied line weight.
+
+Preserve an authentic hand-drawn appearance with expressive but controlled linework.
+
+Avoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.
+
+Place a large, nearly pure-black rectangular ink block behind the illustrated subject.
+
+The rectangular block should have subtly imperfect, handmade print-style edges.
+
+Keep the black background clean, with only fine paper grain and minimal noise.
+
+Avoid obvious hatching, scratches, architectural lines, or complex textures.
+
+ILLUSTRATION SCALE AND COMPOSITION:
+
+The illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.
+
+Maintain a clear visual focal point with generous negative space surrounding the illustration.
+
+3. COLOR RULES
+
+The bottom illustration must follow a strictly black-and-white color palette by default.
+
+Preserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.
+
+Ordinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.
+
+Any preserved accent color must remain strictly localized to the relevant subject or area.
+
+Never allow accent colors to spread across the entire illustration.
+
+4. TYPOGRAPHY AND EDITORIAL LAYOUT
+
+Automatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.
+
+The typography must resemble handwritten editorial annotations from an independent art publication.
+
+TOP-LEFT CORNER:
+
+Generate a short handwritten title consisting of 2–5 words, arranged across two lines.
+
+Directly beneath the title, include three short English action verbs relevant to the photograph.
+
+TOP-RIGHT CORNER:
+
+Display only two lines of geographic coordinates:
+
+Latitude
+Longitude
+
+Do not include any additional text in this area.
+
+BOTTOM-LEFT CORNER:
+
+Display the location name followed by the word "DIARY."
+
+Directly beneath it, add one short descriptive English sentence inspired by the photograph.
+
+TYPOGRAPHY STYLE:
+
+Use a rough, upright, slightly irregular handwritten typeface.
+
+Maintain subtle imperfections and a natural editorial annotation aesthetic.
+
+Avoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.
+
+5. FINAL ART DIRECTION
+
+The finished poster must combine:
+
+Authentic, high-quality photography.
+Minimalist black-and-white editorial illustration.
+Generous negative space.
+Independent art publication aesthetics.
+Quiet, restrained, sophisticated visual storytelling.
+Natural handwritten typography.
+A balanced relationship between documentary realism and expressive hand-drawn artwork.
+
+The overall result should resemble a carefully designed, collectible editorial art print.
+
+6. FINAL OUTPUT REQUIREMENTS
+
+ASPECT RATIO:
+2:3 vertical.
+
+RESOLUTION:
+High-resolution, sharp, print-quality output.
+
+COMPOSITION:
+
+Exactly 50% original reference photography on top.
+
+Exactly 50% editorial illustration on the bottom.
+
+One perfectly straight horizontal dividing line.
+
+One complete, standalone poster.
+
+RESTRICTIONS:
+
+No collages.
+No multi-poster layouts.
+No combined images.
+No unnecessary decorative elements.
+No modifications to the original subject's identity or appearance.
+No excessive illustration details.
+No changes to the original photograph's natural color relationships.
+
+FINAL GOAL:
+
+Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.
+```
+
+</details>
+
+<a id="nano-banana-photo-sketch-editorial"></a>
+### Photograph above, sketch below: an editorial template
+
+<a href="https://x.com/ChillaiKalan__/status/2111332272670417236"><img src="previews/nano-banana-photo-sketch-editorial.jpg" width="360"></a>
+
+Fill `[SUBJECT]` and `[SETTING]`. The ban list covers the usual split-poster failures: heavy borders, mismatched faces.
+
+Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2111332272670417236) · 266 likes on 2026-10-27
+
+[`split-composition`](#tag-split-composition) [`template`](#tag-template) [`editorial`](#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium editorial poster featuring a two-part visual composition. The upper half shows a photorealistic photograph of [SUBJECT] in [SETTING], captured in warm natural sunlight with realistic skin texture, authentic expressions, soft highlights, and cinematic depth of field. The lower half transforms the exact same scene into a beautiful hand-painted digital illustration, preserving the subject’s pose, hairstyle, clothing, colors, and key visual details.
+
+Place the illustrated scene inside a clean rectangular frame on a warm ivory, subtly textured paper background. Use a charming contemporary illustration style with delicate brush textures, simplified organic shapes, pastel colors, soft outlines, and a nostalgic summer-magazine aesthetic. Add tasteful decorative elements that complement the scene.
+
+Below the illustration, include a centered minimalist editorial title reading “[MAIN TITLE]” in thin, widely spaced uppercase typography, followed by a smaller subtitle reading “[TAGLINE]” in elegant letter-spaced text. Add a short, thin pastel-colored line underneath.
+
+Maintain balanced spacing, refined art direction, a cohesive color palette, and a sophisticated print-design finish. Vertical 3:4 composition, high resolution, natural lighting, polished editorial layout, aesthetically pleasing, realistic-to-illustration transformation.
+
+Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, harsh colors, heavy borders, and unnecessary graphic elements.
+```
+
+</details>
+
+<a id="nano-banana-artbook-spread"></a>
+### Nostalgic magazine artbook spread from a photo
+
+<a href="https://x.com/Just_sharon7/status/2107574724041769179"><img src="previews/nano-banana-artbook-spread.jpg" width="360"></a>
+
+Keeps the original subjects and adds a sketched echo of them, laid out like a printed spread.
+
+Nano Banana 2.1 · Edit · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2107574724041769179) · 183 likes on 2026-10-27
+
+[`magazine`](#tag-magazine) [`photo-to-art`](#tag-photo-to-art) [`nostalgic`](#tag-nostalgic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a nostalgic, magazine-inspired photo-and-illustration artbook spread using the reference image as the visual foundation. Maintain the original subjects, identities, poses, expressions, wardrobe, framing, and emotional tone without altering their recognizable appearance.
+
+Design the composition as two vertically flowing interpretations of the same moment.
+
+In the upper portion, recreate the reference as an intimate cinematic photograph. Use gentle natural light, realistic skin and fabric textures, muted authentic colors, delicate analog film grain, soft background separation, and shallow depth of field. The image should feel spontaneous and personal, like a quiet memory captured on film rather than a staged portrait.
+
+In the lower portion, reinterpret that identical moment as a raw black-and-white ink drawing printed on warm ivory sketchbook paper. Preserve the characters, pose, proportions, and composition while replacing photographic detail with expressive hand-drawn linework, irregular pen strokes, loose cross-hatching, unfinished contours, and restrained shading. Allow small imperfections so the illustration feels genuinely handmade rather than digitally traced.
+
+Blend both sections naturally so the photograph appears to dissolve into the drawing, creating the impression of a memory gradually becoming an illustration.
+
+Surround the lower artwork with restrained editorial design elements: a small numbered chapter heading, a brief poetic handwritten annotation, tiny archival or documentary notes, and subtle typographic details. Keep all typography secondary to the imagery.
+
+Use generous cream-toned negative space, tactile paper grain, faint printing imperfections, understated vintage publishing details, and an elegant minimalist layout inspired by contemporary photography journals and Japanese visual diaries.
+
+Overall mood: nostalgic, intimate, poetic, cinematic, handcrafted, sophisticated, and emotionally warm.
+
+Maintain realistic anatomy, natural body proportions, recognizable faces, believable hands, and consistent clothing throughout both versions. High-detail editorial finish, cohesive photo-to-sketch transition, no branding, no logos, and no watermark.
+```
+
+</details>
+
+<a id="img-photo-to-art"></a>
+## Photo to art
+
+<a id="gpt-image-photo-to-watercolor-travel"></a>
+### Upper half photo, lower half watercolour travel sketch
+
+<a href="https://x.com/MahnoorAi12/status/2102724961408626735"><img src="previews/gpt-image-photo-to-watercolor-travel.jpg" width="360"></a>
+
+A vertical split where the photo dissolves into watercolour. Works in Gemini, Grok and ChatGPT, per the author.
+
+GPT Image 2.5 · Edit · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2102724961408626735) · 2,264 likes on 2026-10-27
+
+[`watercolor`](#tag-watercolor) [`travel`](#tag-travel) [`split-composition`](#tag-split-composition)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration.
+Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography.
+Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic.
+Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
+Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
+Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
+```
+
+</details>
+
+<a id="gpt-image-paper-texture-cover"></a>
+### Photo to minimalist paper-textured art cover
+
+<a href="https://x.com/Ciri_ai/status/2113501433471656120"><img src="previews/gpt-image-paper-texture-cover.jpg" width="360"></a>
+
+Organised under headings (composition, palette, texture). Ends by naming the reference point: an independent art-book cover.
+
+GPT Image 2.5 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2113501433471656120) · 561 likes on 2026-10-27
+
+[`paper-texture`](#tag-paper-texture) [`minimal`](#tag-minimal) [`cover`](#tag-cover)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+MINIMAL HAND-DRAWN PAPER ILLUSTRATION
+
+Transform the uploaded photo into a minimalist, hand-drawn, paper-textured artistic cover.
+
+Composition
+
+- The main subject should occupy only 10–20% of the frame.
+- Position the subject near the bottom center of the composition.
+- Leave generous negative space throughout the image.
+- Suggest the environment using only a few lines or small blocks of color.
+
+Preserve
+
+- The most recognizable features of the original subject.
+- The essential silhouette and proportions.
+- The original pose or primary action.
+- Important objects and defining details.
+- The core story, relationships, and emotional atmosphere.
+
+Color Palette
+
+- Extract the dominant colors from the original photograph.
+- Limit the palette to no more than four main colors.
+- Use bold yet restrained, flat color blocks.
+- Maintain a harmonious, muted color combination.
+- Add subtle paper grain and handmade brush textures.
+
+Simplification
+Remove unnecessary details and visual clutter. Retain only the essential visual information needed to make the subject instantly recognizable.
+
+Typography
+
+- Optionally incorporate a small amount of simple text.
+- Keep typography short, subtle, and aesthetically refined.
+- Integrate the text naturally into the composition.
+- Aim for the visual language of an art-book cover, independent publishing, modern editorial design, or a contemplative picture book.
+- Do not force typography into the image if it doesn't improve the composition.
+
+Style and Materials
+
+- Delicate, slightly imperfect hand-drawn lines.
+- A few clearly defined acrylic-like flat color blocks.
+- Rough, tactile paper texture.
+- Visible handmade brushstrokes.
+- Organic, irregular, natural contours.
+- Subtle imperfections that make the artwork feel genuinely handmade.
+
+Overall Mood
+Quiet, poetic, sophisticated, minimalist, innocent, relaxed, artistic, thoughtful, distinctive, and premium.
+
+Avoid
+
+- Colored-pencil rendering.
+- Dry-brush effects.
+- Watercolor washes or bleeding.
+- Pure line-art illustration.
+- Overly detailed or realistic illustrations.
+- Heavy impasto or thick oil-paint textures.
+- Smooth, polished digital illustration.
+- 3D rendering, glossy surfaces, or artificial lighting effects.
+- Generic commercial cartoon styles.
+- E-commerce advertising aesthetics.
+- Generic poster templates.
+- Excessive decorative elements.
+- Overly complex compositions.
+- Too much text.
+
+Final Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.
+```
+
+</details>
+
+<a id="gpt-image-knitted-puppet-bust"></a>
+### Photo to knitted stop-motion puppet bust
+
+<a href="https://x.com/oggii_0/status/2114585881059459119"><img src="previews/gpt-image-knitted-puppet-bust.jpg" width="360"></a>
+
+Very long material spec (yarn, stitches, felt) with a final rule not to invent anything the photo does not show.
+
+GPT Image 2.5 · Edit · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2114585881059459119) · 327 likes on 2026-10-27
+
+[`3d`](#tag-3d) [`textile`](#tag-textile) [`toy`](#tag-toy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph
+
+Use the attached real photograph to create a square 1:1, stylized 3D textile art toy bust. Interpret the inputs by their roles: the real photograph is the source of identity and content, while the minimalist white-background toy image is the style reference. Their order does not matter.
+
+Preserve the subject’s identity, facial expression, pose, and spatial relationships between objects. Reconstruct the subject as an exaggerated, humorous designer collectible toy. Do not apply a simple fuzzy or plush filter to the original photograph.
+
+## 1. Style Reference
+
+Borrow only these visual characteristics from the reference image:
+
+- An oversized, horizontally broad head with rounded corners.
+- Extremely small, centrally concentrated facial features with generous facial negative space.
+- Sculptural knitted forms, clustered yarn shapes, and soft textile construction.
+- Subtle asymmetry for a handmade, designer-toy appearance.
+- Contrast between fine-grained flocked surfaces and chunky knitted textures.
+- A deliberate primary and accent color hierarchy.
+- Clean, minimalist white studio photography.
+
+Do not inherit the reference character’s body, pose, hairstyle, hat, glasses, clothing, props, or colors.
+
+## 2. Subject and Identity Preservation
+
+The real photograph is the exclusive source of visible content. Reproduce only the body parts, hairstyle, clothing, accessories, objects, poses, and contact relationships that are actually visible in the original image. Never invent or complete details that extend beyond the photograph.
+
+Identify 2–5 distinctive identity anchors from the source image. Exaggerate 1–2 of them while simplifying the remaining details to maintain recognizability.
+
+- **Head:** Transform it into a broad, thick, rounded rectangular block or a short cylindrical form with softened corners.
+- **Eyes:** Use tiny black beads or capsule-shaped forms.
+- **Nose:** Reduce it to a small, rounded rectangular block.
+- **Mouth:** Preserve the original expression using a short line or a small opening, as appropriate.
+- **Hair:** Reconstruct it as large yarn loops, chunky knitted clusters, or sculptural bundles of wool.
+- **Hands:** Strictly preserve the number of visible hands. If no hands are visible, add none. If one hand is visible, reproduce only one. Preserve its orientation, sleeve cuff, and contact with the original object.
+- **Text and logos:** Convert any visible lettering or branding into illegible woven or knitted texture rather than readable text.
+
+## 3. Composition
+
+Create a compact, close-up head-and-shoulders composition.
+
+- The head should occupy approximately 75–90% of the image width.
+- Compress the body into a small supporting form, retaining only the essential visible pose, gestures, and objects.
+- Allow elements to be cropped by the image boundaries when necessary.
+- Do not add body parts or anatomy extending beyond the original photograph.
+- Maintain a clear silhouette and recognizable relationships between the subject and any visible objects.
+
+## 4. Visual Style
+
+**Stylized 3D textile art toy, oversized head, tiny concentrated facial features, sculptural knitted forms, micro-flocked surfaces.**
+
+Prioritize abstract exaggeration over photorealism while preserving recognizability through the subject’s silhouette, hairstyle, facial expression, pose, clothing, and visible objects.
+
+The result should feel like a thoughtfully designed, premium collectible art toy rather than a conventional 3D cartoon character.
+
+## 5. Color Palette
+
+Automatically develop a cohesive palette of 3–5 colors, including:
+
+- A dominant primary color.
+- A contrasting accent color with a clear difference in temperature or brightness.
+- One or more supporting colors.
+- A neutral color for balance.
+
+Non-identity-defining elements may be recolored to improve visual harmony. Preserve the essential identity cues of the original subject while avoiding monotonous palettes, excessive neutrals, evenly distributed rainbow colors, or repetitive mechanical stripes.
+
+## 6. Materials, Texture, and Lighting
+
+Use distinct textile treatments for different surfaces:
+
+- **Face, hands, and small components:** Fine, dense micro-flocked or short-fiber felt surfaces.
+- **Hair, hats, and clothing:** Chunky knitting, crochet structures, large yarn loops, and clustered wool forms, applied only where those elements exist in the original photograph.
+
+Create visible material contrast between the fine-grained felt and the coarser knitted structures. The surfaces should appear sculpted from real textile materials, not covered with a generic fuzzy filter.
+
+Use a subtly warm-white seamless background, soft high-key studio lighting, gentle highlights, and short, delicate shadows. Keep the presentation clean, bright, and premium.
+
+## 7. Strict Exclusions
+
+- No photorealistic eyeballs, detailed nostrils, realistic lips, natural skin texture, or individual hair strands.
+- No copying the reference character’s identity or distinctive design elements.
+- No invented body parts, hand gestures, accessories, clothing, or props absent from the source photograph.
+- No conventional 3D cartoon aesthetics.
+- No plastic, polymer clay, wax figure, or long-pile plush appearance.
+- No readable text, logos, or branding.
+- No rooms, environmental scenes, or complex backgrounds.
+- No generic fuzzy overlay that obscures the underlying sculptural textile construction.
+
+## Final Priority
+
+**The source photograph determines WHAT is depicted. The style reference determines HOW it is depicted.**
+
+Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust with a distinctive oversized head, tiny facial features, sculptural yarn construction, contrasting textile textures, a deliberate color palette, and clean white studio lighting. Preserve the original subject’s identity and visible content without inventing anything beyond the photographic evidence.
+```
+
+</details>
+
+<a id="nano-banana-second-world"></a>
+### Second World: your photo, rebuilt as another world
+
+<a href="https://x.com/Just_sharon7/status/2107741881329205516"><img src="previews/nano-banana-second-world.jpg" width="360"></a>
+
+A versioned JSON prompt (v1.2) written by @hx831126 and shared by @Just_sharon7. Includes its own self-check for seams and text.
+
+Nano Banana 2.1 · Edit · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2107741881329205516) · 263 likes on 2026-10-27
+
+[`json`](#tag-json) [`world-building`](#tag-world-building) [`photo-to-art`](#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{   "name": "Second World",   "version": "1.2",   "task": "Using each uploaded photo as an independent source, generate one complete poster per photo. Do not merge multiple photos onto the same canvas.",   "output": {     "aspect_ratio": "3:4",     "orientation": "vertical",     "one_poster_per_photo": true,     "layout": "Canvas horizontally divided at exactly 50% height, with upper and lower sections each occupying 50%, same width",     "no_mockup": true   },   "core_principle": "The Second World is already hidden in the photo. Let the same scene pass through the midline and continue downward, changing only the physical rules in the lower half. Continuity of the cross-boundary structure is the highest visual priority.",   "upper_half": {     "source": "The current uploaded photo",     "preserve": [       "Subject identity and appearance",       "Character poses, expressions, and actions",       "Spatial relationships, proportions, and perspective",       "Original color atmosphere",       "Natural lighting and shadows",       "Environment and important details"     ],     "allowed_change": "Only necessary proportional cropping to fit the upper half, avoiding cutting off key subjects or connection structures",     "forbidden": [       "Redesigning the photo",       "Redrawing or replacing the subject",       "Rearranging characters and objects",       "Changing the photo's colors",       "Fictional lighting or background"     ],     "fidelity_rule": "Prioritize directly reusing the original photo; do not claim generative redrawing as lossless preservation of the original. If the tool cannot meet original preservation and precise layout, state the limitations—do not lower requirements and claim full compliance."   },   "continuity": {     "choose_one_source_structure": "Identify a structure from the original photo that can naturally extend to the midline, such as a road, shoreline, water surface, reflection, tree branch, light beam, architectural line, clothing flow, or body movement",     "requirements": [       "The structure must continue into the lower half at the exact midline meeting point",       "Maintain believable continuity in direction, position, scale, and occlusion relationships",       "Establish a visible connection first, then develop the lower half's imagination",       "Both halves must read as the same scene, not like two independent images stacked vertically"     ],     "transition_edge": {       "optional": "Allow irregular torn paper edges",       "rule": "Tearing must follow the original image's structure, not just as decoration, and avoid using the same tearing shape for every image",       "interaction": "Source elements can touch, cling to, pass through, or cross over the torn edge"     }   },   "lower_half": {     "background": "Warm ivory paper texture, with subtle visible fibers, rich negative space",     "media": [       "Restrained photo fragments",       "Simple cut-paper shapes",       "Minimal black hand-drawn lines"     ],     "construction": "Extend downward from where the upper half's source structure meets the midline, then gradually reinterpret it as the Second World",     "prohibited": "Do not turn it into an isolated entrance, window, stage, platform, or floating vignette, unless the form clearly grows continuously from the original photo",     "density": "Bright, airy, restrained—avoid dense drawing or collage buildup"   },   "second_world_logic": {     "question": "If the structure in the photo could be touched, used, entered, folded, stretched, or changed, what would it naturally become?",     "interaction_count": 1,     "instruction": "Establish only one specific, clear, and interesting interaction per image, prioritizing possibilities discovered from the original image's shapes and actions, not reverse-engineering from fixed props or templates.",     "examples_for_logic_only": [       "Water surface remains connected to the lake while being rolled up or stretched",       "Road extends onto the paper, becoming a path that can be continued by drawing",       "An existing light beam extends downward, becoming something gently graspable"     ],     "variation": "Judge each work individually—do not mechanically repeat actions, connection structures, compositions, or jokes. Examples are not required content."   },   "tiny_figures": {     "count": "0–3",     "appearance": "Minimalist, tiny black line figures",     "add_only_if": "Figures can engage in necessary and explicit physical interaction with the extending structure",     "omit_if": "Source photo already contains strong human actions",     "forbidden": "Using little figures as irrelevant decorations or adding crowds just for liveliness"   },   "copy": {     "language": "Primarily Chinese, paired with a short English accent",     "main_text": "A short, witty, cute, humorous Chinese marginal note, or one with a slight surprising insight",     "english": "Shorter, lighter English supplement; can complement the Chinese without word-for-word translation",     "intent": "Make viewers smile knowingly after seeing the image and then the small text, or suddenly understand one more layer",     "requirements": [       "Recreate based on this photo's specific interaction with the Second World",       "Don't just name the action or mechanically describe the image",       "Can include anthropomorphism, slight contrasts, deadpan little jokes, or gentle self-deprecation",       "Can have a wake-up-call vibe, but no grand life lessons",       "Don't force self-love, motivational, or emotional comfort templates",       "Humor targets the situation, without belittling characters' appearance, identity, or circumstances"     ],     "avoid": [       "Vague inspirational fluff",       "Grand maxims",       "Preachiness",       "Ad slogans",       "Irrelevant internet memes",       "Fixed 'same..., different...' sentence structures",       "Reusing the same copy for every image"     ],     "examples_for_tone_only": [       {         "context": "Taking away the sunset",         "chinese": "这个不算超重吧",         "english": "just a little sunset"       },       {         "context": "Rolling the lake surface into a paper ribbon",         "chinese": "不用袋子，我卷着走",         "english": "no bag, thanks"       },       {         "context": "Shadow rolled into a bed corner",         "chinese": "影子先躺了，我再走会儿",         "english": "five more minutes"       }     ],     "example_rule": "Borrow only the humor mechanism—do not fix example sentences into new works."   },   "handwriting": {     "scale": "Small marginal notes, English even smaller—no huge titles stealing the scene",     "placement": "In natural white space, not obscuring subjects, cross-boundary connection points, or key interactions",     "chinese": "Truly natural, slightly messy handwriting, not neat computer-generated script",     "english": "Similarly like casually scribbled, relaxed and irregular",     "details": [       "Slight variations in character size",       "Baseline with minor undulations",       "Tilt angles not perfectly consistent",       "Natural variations in spacing",       "Strokes with pressure and pauses",       "Minimal overlapping or incomplete ink traces"     ],     "corrections": {       "allowed": true,       "frequency": "Occasional only—not required for every image",       "method": "Can gently strike through a mistaken or revised word, adding the correct version nearby or above",       "limit": "Usually at most 1–2 instances—don't turn the whole page into a repeatedly scribbled draft",       "legibility": "Final meaning must be clear—no simulating handwriting with gibberish or meaningless errors"     }   },   "overall_style": {     "mood": [       "Indie magazine vibe",       "Bright and airy",       "Warm paper texture",       "Restrained",       "Lightly humorous",       "Subtle handmade traces"     ],     "hierarchy": [       "Original photo and cross-boundary structure",       "Clear interaction in the lower half",       "Small bilingual handwritten marginal notes"     ],     "finish": "Like gently unveiling a hidden world in the photo, not pasting an extra illustration below it"   },   "negative_prompt": [     "Detached lower-half illustrations",     "Broken cross-boundary continuity",     "Generic torn-paper templates",     "Isolated entrances or windows",     "Irrelevant vignettes",     "Dense illustrations",     "Random decorations",     "Decorative crowds",     "Altering original photo colors",     "Redesigning the upper photo",     "Glossy 3D",     "Scrapbook clutter",     "Huge titles",     "Neat printed-style handwriting",     "Nonsensical text",     "Motivational fluff",     "Watermarks",     "Logos",     "UI elements",     "Merging multiple photos",     "Grid layouts"   ],   "final_check": [     "Does each original image correspond to one independent 3:4 poster?",     "Do upper and lower sections strictly each occupy 50%?",     "Is the upper half's original photo faithfully preserved, with only necessary cropping?",     "Is there one authentic source structure accurately continuing at the midline?",     "Does the lower half belong to the same scene as the original image, not an isolated illustration?",     "Is there only one clear, natural, and non-repetitive templated interaction?",     "Is the Chinese interesting and lingering, not just a simple action label or preachiness?",     "Are the Chinese and English in small, natural, messy, and readable handwriting?",     "Is sufficient negative space preserved?"   ] }  Note: The above are target requirements; generated results still need checking for original image preservation, seams, and text—do not treat generative redrawing as lossless original preservation.
+```
+
+</details>
+
+<a id="img-realism"></a>
+## Photo realism
+
+<a id="gpt-image-failed-photos-grid"></a>
+### Nine failed photos of any character
+
+<a href="https://x.com/DeepBlueX0/status/2099481521983995971"><img src="previews/gpt-image-failed-photos-grid.jpg" width="360"></a>
+
+Seven words. The author's point: fewer restrictions give more authentic-looking mistakes.
+
+GPT Image 2.5 · Text-to-image · Source: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2099481521983995971) · 2,646 likes on 2026-10-27
+
+[`grid`](#tag-grid) [`humor`](#tag-humor) [`template`](#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Vertical 3×3 failed photos × {Character}
+```
+
+</details>
+
+<a id="gpt-image-six-photo-portrait-grid"></a>
+### Six-photo portrait grid of one person
+
+<a href="https://x.com/john_my07/status/2112737725430554781"><img src="previews/gpt-image-six-photo-portrait-grid.jpg" width="360"></a>
+
+Describes the person once in detail, then six shots. Asks for no gutters so the grid reads as one seamless image.
+
+GPT Image 2.5 · Text-to-image · Source: [@john_my07 on X](https://x.com/john_my07/status/2112737725430554781) · 651 likes on 2026-10-27
+
+[`portrait`](#tag-portrait) [`grid`](#tag-grid) [`consistency`](#tag-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic 6-photo portrait collage arranged in a seamless 3×2 grid, featuring a naturally beautiful young Portuguese woman in her early 20s. She has warm olive-toned skin, expressive hazel-brown eyes, long chestnut-brown hair with subtle natural highlights, soft face-framing layers, naturally full eyebrows, and delicate, distinctive facial features. Her appearance should feel authentic and individual, with realistic skin texture, tiny imperfections, and minimal everyday makeup.
+
+Visual aesthetic: Effortless European Instagram photo dump, reminiscent of candid photographs taken on a Canon PowerShot G7 X Mark III. Direct built-in camera flash, crisp details, bright facial highlights, hard shadows, slightly imperfect framing, subtle digital noise, and a nostalgic early-2000s point-and-shoot feel.
+
+Setting and styling: A warm off-white bedroom wall with subtle texture, a few natural shadows, and no distracting decorations. She wears a fitted burgundy scoop-neck top, tiny gold hoop earrings, and a delicate necklace. Her makeup is understated, with softly flushed cheeks, natural glossy lips, and lightly defined lashes. Her long hair remains the same color and length but falls differently in every photograph.
+
+Six distinct photographs:
+
+1. Sweet candid: Sitting close to the camera, resting her cheek against one hand, smiling gently with relaxed eyes and loose hair framing her face.
+2. Playful snapshot: Looking directly into the lens with a mischievous half-smile, one eyebrow slightly raised, fingers casually tucked behind her ear.
+3. Messy-girl moment: Eyes closed and laughing softly, both hands lifting her hair away from her shoulders, a few loose strands catching the flash.
+4. Effortless confidence: Turning her face over one shoulder, giving the camera a subtle side-eye, with one hand lightly resting against her neck.
+5. Caught laughing: Looking toward someone outside the frame, laughing naturally with her head tilted to the side and hair falling across one cheek.
+6. Quiet evening mood: Leaning against the wall, gazing thoughtfully into the lens, lips relaxed, fingertips gently twisting a strand of hair.
+
+Identity consistency: The same Portuguese woman must appear in all six frames, with identical facial proportions, eye color, skin tone, hair color, and recognizable features. Each photograph should have a different pose, expression, head angle, and hair arrangement, as if captured within the same casual photo session.
+
+Photography details: Realistic compact-camera flash, authentic skin pores, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, slight variations in exposure, and candid framing. Avoid excessive retouching, artificial skin smoothing, exaggerated beauty standards, duplicated expressions, malformed fingers, distorted anatomy, or the overly polished appearance of AI-generated portraits.
+
+Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no text, no watermark. Photorealistic, youthful, spontaneous, intimate, and effortlessly stylish.
+```
+
+</details>
+
+<a id="nano-banana-json-reconstruction"></a>
+### JSON prompt that reconstructs a photo shot for shot
+
+<a href="https://x.com/ViralOps_/status/2107538470818484305"><img src="previews/nano-banana-json-reconstruction.jpg" width="360"></a>
+
+Structured as JSON fields (framing, light, colour, negatives). The post compares the same JSON on Nano Banana 2.1 and GPT Image 2.5.
+
+Nano Banana 2.1 · Edit · Source: [@ViralOps_ on X](https://x.com/ViralOps_/status/2107538470818484305) · 326 likes on 2026-10-27
+
+[`json`](#tag-json) [`reconstruction`](#tag-reconstruction) [`comparison`](#tag-comparison)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "prompt_type": "detailed_image_reconstruction",
+  "aspect_ratio": "4:5 vertical portrait",
+  "overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
+
+  "subject": {
+    "type": "young adult woman",
+    "age_range": "early to mid 20s",
+    "pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
+    "body_position": "relaxed casual posture with shoulders slightly angled",
+    "expression": "soft neutral expression with a subtle pout, calm and confident",
+    "gaze": "looking directly toward the camera",
+    "styling": "minimal everyday styling, clean and natural"
+  },
+
+  "face": {
+    "shape": "soft oval face with a gently tapered jawline",
+    "forehead": "medium-height forehead partly framed by center-parted hair",
+    "eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
+    "eyes": {
+      "shape": "almond-shaped",
+      "color": "light brown to hazel",
+      "appearance": "bright eyes with visible catchlights",
+      "lashes": "long defined eyelashes with subtle mascara"
+    },
+    "nose": "small straight nose with a softly rounded tip",
+    "lips": {
+      "shape": "full lips with a defined cupid's bow",
+      "color": "natural rosy pink",
+      "finish": "soft satin finish, not glossy"
+    },
+    "skin": {
+      "tone": "light warm-neutral skin tone",
+      "texture": "smooth natural skin with subtle pores and realistic tonal variation",
+      "cheeks": "soft natural pink flush",
+      "finish": "fresh luminous skin without heavy retouching"
+    },
+    "makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
+  },
+
+  "hair": {
+    "color": "rich medium-to-dark chocolate brown",
+    "length": "very long, extending well below the chest",
+    "parting": "clean center part",
+    "texture": "mostly straight with very soft natural bends through the lower lengths",
+    "density": "thick and healthy-looking",
+    "finish": "smooth and glossy but still realistic",
+    "front_sections": "two thin face-framing strands falling naturally along both sides of the face",
+    "details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
+    "movement": "hair hanging naturally over both shoulders and down the front of the shirt"
+  },
+
+  "clothing": {
+    "top": "oversized plain white crew-neck T-shirt",
+    "fit": "loose casual fit",
+    "fabric": "soft slightly wrinkled cotton",
+    "logos": "none",
+    "accessories": "no visible jewelry or prominent accessories"
+  },
+
+  "composition": {
+    "shot_type": "close upper-body portrait",
+    "camera_angle": "slightly above chest level, close to eye level",
+    "camera_distance": "approximately arm's-length smartphone distance",
+    "subject_position": "face slightly right of center with long hair occupying much of the lower frame",
+    "crop": "top of head fully visible, image extending down to around lower torso",
+    "orientation": "vertical",
+    "perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
+  },
+
+  "lighting": {
+    "primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
+    "direction": "sunlight striking the subject from camera-left/front",
+    "face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
+    "hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
+    "shadow_quality": "strong but soft-edged natural indoor shadows",
+    "exposure": "face slightly brightly exposed while the room behind remains much darker",
+    "color_temperature": "warm daylight"
+  },
+
+  "environment": {
+    "location": "casual indoor residential room",
+    "background": "dark gray walls with a white ceiling cornice",
+    "left_background": "open doorway or darker hallway area",
+    "right_background": "dark wall and partially visible household objects",
+    "lower_right": "part of a black tripod or light stand visible",
+    "overall_feel": "ordinary lived-in room rather than a studio",
+    "depth": "background moderately out of focus but still recognizable"
+  },
+
+  "camera": {
+    "capture_device": "modern smartphone camera",
+    "lens_equivalent": "approximately 24-28mm full-frame equivalent",
+    "focus": "sharp focus on face and front hair",
+    "depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
+    "dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
+    "image_character": "casual social-media selfie/photo, not professionally staged"
+  },
+
+  "photorealism_details": [
+    "real individual hair strands",
+    "natural skin pores and micro-texture",
+    "subtle peach fuzz",
+    "realistic eyelash separation",
+    "tiny variations in lip texture",
+    "slight fabric creases in the T-shirt",
+    "small flyaway hairs around the crown",
+    "natural sunlight falloff across the face",
+    "slightly imperfect casual framing",
+    "realistic indoor shadow noise"
+  ],
+
+  "style": {
+    "visual_style": "highly photorealistic casual smartphone portrait",
+    "mood": "soft, youthful, relaxed, sunlit",
+    "processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
+    "avoid": [
+      "cinematic movie lighting",
+      "studio portrait lighting",
+      "overly smooth plastic skin",
+      "CGI appearance",
+      "anime or illustration",
+      "heavy beauty filter",
+      "extreme facial symmetry",
+      "over-sharpened hair",
+      "artificial jet-black hair",
+      "dramatic makeup",
+      "excessive background blur",
+      "professional studio backdrop",
+      "text",
+      "watermarks",
+      "logos"
+    ]
+  },
+
+  "negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
+}
+```
+
+</details>
+
+<a id="gpt-image-dusk-film-portrait"></a>
+### Low-angle dusk portrait with film grain
+
+<a href="https://x.com/chatgptpaglu/status/2105219509791678731"><img src="previews/gpt-image-dusk-film-portrait.jpg" width="360"></a>
+
+Under 600 characters. Camera angle, clothing detail, one light source, one film look.
+
+GPT Image 2.5 · Text-to-image · Source: [@chatgptpaglu on X](https://x.com/chatgptpaglu/status/2105219509791678731) · 318 likes on 2026-10-27
+
+[`portrait`](#tag-portrait) [`film-grain`](#tag-film-grain) [`golden-hour`](#tag-golden-hour)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.
+```
+
+</details>
+
+<a id="gpt-image-train-platform-snapshot"></a>
+### Phone snapshot on a train platform
+
+<a href="https://x.com/MissDelulu9/status/2114965450425868519"><img src="previews/gpt-image-train-platform-snapshot.jpg" width="360"></a>
+
+Realism through phone-camera flaws: motion blur on the train, real mobile noise, slight wide-angle distortion.
+
+GPT Image 2.5 · Text-to-image · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2114965450425868519) · 305 likes on 2026-10-27
+
+[`phone-photo`](#tag-phone-photo) [`street`](#tag-street) [`motion-blur`](#tag-motion-blur)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Realistic vertical phone street snapshot of a young woman on an urban train platform, slightly right of center, as a silver train with a green stripe rushes behind in horizontal motion blur. Low angle from waist height, close half-body to mid-thigh, handheld and imperfect.
+
+Long deep-black hair sweeps left in station wind. Oversized brown gradient sunglasses hide her eyes; head tilted upward, lips relaxed, cool distant expression. Small oval face, soft jawline, clean East Asian Y2K makeup, nude-pink lips. Warm-white cropped halter tank, low neckline, fitted ribbed cotton, subtle wrinkles, hem above waist. Low-rise loose vintage gray-brown jeans, layered gold necklaces, black quilted chain bag.
+
+Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and abdomen. Cool fluorescent station light, metallic reflections, yellow tactile paving, concrete floor, blurred passengers in train windows. Real mobile noise, slight wide-angle feel.
+```
+
+</details>
+
+<a id="img-portrait"></a>
+## Portraits
+
+<a id="nano-banana-half-face-name-portrait"></a>
+### Half face, name stacked beside it
+
+<a href="https://x.com/Emmma___0/status/2108777847800426542"><img src="previews/nano-banana-half-face-name-portrait.jpg" width="360"></a>
+
+Each letter of the name hides part of the other half of the face. Fill in name, backdrop and lighting.
+
+Nano Banana 2.1 · Edit · Source: [@Emmma___0 on X](https://x.com/Emmma___0/status/2108777847800426542) · 244 likes on 2026-10-27
+
+[`typography`](#tag-typography) [`studio`](#tag-studio) [`template`](#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the uploaded image into a modern studio portrait. Preserve the subject’s identity and features. Show half the face on the left; stack [NAME] vertically on the right, with each letter filled by matching details from the hidden half. Seamless alignment, [BACKGROUND] backdrop, [LIGHTING], modern typography.
+```
+
+</details>
+
+<a id="nano-banana-chiaroscuro-portrait"></a>
+### Cinematic chiaroscuro close-up of your photo
+
+<a href="https://x.com/rovvmut_/status/2107691827323392159"><img src="previews/nano-banana-chiaroscuro-portrait.jpg" width="360"></a>
+
+One light from the side and an explicit request for visible pores to keep skin from looking airbrushed.
+
+Nano Banana 2.1 · Edit · Source: [@rovvmut_ on X](https://x.com/rovvmut_/status/2107691827323392159) · 170 likes on 2026-10-27
+
+[`chiaroscuro`](#tag-chiaroscuro) [`cinematic`](#tag-cinematic) [`skin-detail`](#tag-skin-detail)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hyper-realistic, 8K resolution cinematic close-up portrait of the person in the uploaded image. The image features dramatic chiaroscuro lighting, heavily illuminating the left side of his face while casting deep, moody shadows on the right against a solid black background. He has an intense, direct gaze, dark brown eyes with square catchlights, and textured, wet-styled hair. He is wearing a plain black t-shirt. Render with 35mm film grain and a shallow depth of field, prioritizing extreme character consistency and highly detailed skin texture, including visible pores.
+```
+
+</details>
+
+<a id="img-illustration"></a>
+## Illustration
+
+<a id="nano-banana-geometric-fashion-illustration"></a>
+### Full-body fashion illustration in textured geometric style
+
+<a href="https://x.com/ChillaiKalan__/status/2109123213351632977"><img src="previews/nano-banana-geometric-fashion-illustration.jpg" width="360"></a>
+
+Outfit described item by item, then a short ban list that rules out photorealism and 3D.
+
+Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2109123213351632977) · 494 likes on 2026-10-27
+
+[`fashion`](#tag-fashion) [`geometric`](#tag-geometric) [`editorial`](#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.
+
+Use a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.
+```
+
+</details>
+
+<a id="nano-banana-paper-cut-fashion"></a>
+### Fashion illustration in layered 3D paper-cut
+
+<a href="https://x.com/ChillaiKalan__/status/2109534297367724221"><img src="previews/nano-banana-paper-cut-fashion.jpg" width="360"></a>
+
+Same structure as the geometric one, with the medium swapped. Good pair for comparing styles.
+
+Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2109534297367724221) · 188 likes on 2026-10-27
+
+[`fashion`](#tag-fashion) [`paper-cut`](#tag-paper-cut) [`3d`](#tag-3d)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a high-end editorial fashion illustration of a stylish woman wearing a bold, contemporary designer outfit. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations such as pastel pink, sky blue, mint green, sunshine yellow, and emerald green, paired with contrasting patterns like polka dots or vertical stripes. Add fashionable accessories, including statement sunglasses, earrings, a structured handbag, and modern shoes. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark.
+```
+
+</details>
+
+<a id="img-ui-mockup"></a>
+## Phone and UI mockups
+
+<a id="gpt-image-camera-roll-day"></a>
+### Camera roll of anyone's day, from one image
+
+<a href="https://x.com/Mayz1169/status/2099479395283214473"><img src="previews/gpt-image-camera-roll-day.jpg" width="360"></a>
+
+Same idea with stricter rules: the upload is the only subject, and only minimal iOS chrome may appear.
+
+GPT Image 2.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099479395283214473) · 762 likes on 2026-10-27
+
+[`ios`](#tag-ios) [`screenshot`](#tag-screenshot) [`camera-roll`](#tag-camera-roll) [`humor`](#tag-humor)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded image as the ONLY subject reference.
+
+Create ONE vertical image that looks exactly like a screenshot of the iPhone Photos app, showing one full day of casual camera-roll photos featuring the exact subject from the uploaded reference.
+
+SUBJECT CONSISTENCY
+First identify the main subject in the uploaded image. It may be a person, anime character, pet, animal, plush toy, figurine, mascot, object, or other character.
+
+Preserve the subject’s recognizable appearance, colors, proportions, facial features, hairstyle, clothing, accessories, markings, materials, and signature details consistently across every photo.
+
+If the reference contains multiple views of the same subject, understand that they are different views of ONE subject, not multiple characters.
+
+Do not redesign or replace the subject.
+
+DAY-IN-THE-LIFE CAMERA ROLL
+Imagine a believable full day for this exact subject based on its appearance, personality, style, and visual world.
+
+Generate many different casual photos from morning to night, as if someone naturally photographed the subject throughout the day.
+
+Automatically choose everyday situations that fit the uploaded subject, such as:
+waking up, resting, eating, sitting by a window, traveling, walking outside, visiting cafés or shops, playing, working, relaxing at home, interacting with everyday objects, sunset moments, nighttime outings, and going to sleep.
+
+The activities and environments should adapt naturally to the subject. Do not force human activities onto animals, toys, objects, or non-human characters when they would look unnatural.
+
+Every thumbnail should show a different moment, composition, distance, pose, camera angle, lighting condition, or location.
+
+Mix:
+close-ups,
+medium shots,
+wide shots,
+overhead photos,
+back views,
+detail shots,
+slightly blurry movement shots,
+imperfect handheld snapshots,
+photos where the subject is partially cropped,
+environmental photos related to the subject’s day.
+
+The result should feel spontaneous and personal rather than like a professional photoshoot.
+
+IPHONE PHOTOS APP LAYOUT
+The FINAL IMAGE itself must look like a real full-screen iPhone Photos app screenshot.
+
+Use a tall smartphone screenshot aspect ratio, approximately 9:19.5.
+
+Create a dense camera-roll gallery using FOUR equal thumbnail columns, closely matching the standard iPhone Photos grid.
+
+Include approximately 24–32 individual photo thumbnails visible on screen.
+
+Use very thin white gaps between thumbnails.
+
+The gallery should fill most of the screen vertically.
+
+Include authentic iPhone Photos interface elements:
+• white iOS interface background
+• iPhone-style status bar at the top
+• time on the upper left
+• cellular/Wi-Fi/battery icons on the upper right
+• simple navigation controls near the top
+• four-column photo gallery
+• bottom Photos app navigation bar
+• Photos tab selected in blue
+• other navigation icons shown in gray
+• black home indicator at the very bottom
+
+The UI must look like an actual screenshot of the Photos app, NOT a decorative frame, moodboard, contact sheet, scrapbook, poster, or generic collage.
+
+PHOTO STYLE
+Make each thumbnail feel like a genuine casual iPhone camera-roll photo.
+
+Use natural everyday lighting, imperfect framing, realistic exposure variation, occasional motion blur, slight focus imperfections, spontaneous compositions, and believable environmental details.
+
+Keep the same subject recognizable throughout the entire gallery while allowing natural changes in pose, expression, camera distance, and lighting.
+
+If the uploaded reference is illustrated, animated, stylized, or 3D, preserve its original visual identity and style unless realistic photography is explicitly requested.
+
+IMPORTANT
+ONE final image only.
+The entire output is ONE iPhone Photos app screenshot containing many different photos.
+Exactly FOUR thumbnail columns.
+Do not create a standalone collage without the iPhone interface.
+Do not create multiple separate outputs.
+Do not duplicate the exact same photo repeatedly.
+Do not introduce unrelated characters or subjects.
+Do not change the main subject’s design.
+No captions, dates, labels, stickers, watermarks, or decorative text inside the photo thumbnails.
+Only normal minimal iOS interface elements may appear.9:16
+```
+
+</details>
+
+<a id="gpt-image-iphone-photos-screenshot"></a>
+### A full day as an iPhone Photos library screenshot
+
+<a href="https://x.com/BubbleBrain/status/2099759367956349012"><img src="previews/gpt-image-iphone-photos-screenshot.jpg" width="360"></a>
+
+Recreates the real iOS Photos interface down to the status bar, filled with candid shots of the reference person.
+
+GPT Image 2.5 · Edit · Source: [@BubbleBrain on X](https://x.com/BubbleBrain/status/2099759367956349012) · 309 likes on 2026-10-27
+
+[`ios`](#tag-ios) [`screenshot`](#tag-screenshot) [`camera-roll`](#tag-camera-roll)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn the girl from the reference image into a full-day iPhone Photos album screenshot that faithfully recreates the real iPhone “Photos — Library / Today” interface. Keep the top status bar (time, signal, battery), the Library title, the Today label, the photo grid layout, and the bottom tab bar: Library / For You / Albums / Search. The whole image should look like a real phone screenshot.
+The girl in the reference image is the only subject in the entire album. Every photo keeps the same identity, the same face, the same hairstyle, the same skin tone, the same body proportions, and the same presence. She is a clearly adult young East Asian woman with long black hair, cool-pale skin, refined cool features, and a private, quiet aura.
+The album is a full portrait camera roll. Every thumbnail shows her. The entire screen is filled with solo portraits of her. The whole set is built around this one person only.
+All album content is portraits of her: waking-up selfie in bed, selfie under the covers, selfie by the pillow, bathroom-mirror selfie, elevator-mirror selfie, window-side selfie, indoor natural-light selfie, sofa selfie, bedside selfie, after-coming-home selfie, night selfie, close-up face selfie, half-body selfie, full-body mirror selfie, seated solo shot, standing solo shot, side-profile solo shot, looking-back solo shot, indoor hallway solo shot, window-side solo shot, candid bedside shot, chair solo shot, carpet solo shot, and photos taken of her by someone else.
+Outfits change continuously through the day. Morning: milky-white camisole lounge top and light-gray home shorts. Late morning: white slim short-sleeve top and pale blue-gray pleated mini skirt. Noon: black thin-strap top and high-waisted denim shorts. Afternoon: light-gray knit cardigan over a white inner layer and a black mini skirt. Evening: dark-gray blazer, white thin-strap top, and black pleated mini skirt. Night: black fitted mini dress with slim silver accessories. Late night after returning home: loose white T-shirt and soft lounge shorts. Each outfit is clearly different; the clothing changes mark a clear passage of time.
+Photo mix is fixed at 60% selfies and mirror selfies, 40% solo portraits taken by someone else. Every frame has her as the subject. Every thumbnail keeps real iPhone native-camera texture. Pose, camera distance, angle, expression, lighting, and clothing keep changing.
+The sequence runs from morning to late night. Morning feels loose and just-woken. Late morning has clear natural light. Afternoon feels like ordinary going-out. Evening has soft city light. Night has low indoor light. Late night feels quiet and private after coming home.
+The whole set is quiet, private, relaxed, and real. The album forms a dense, continuous solo-portrait look, like a full day of private portrait camera roll saved on her own phone.
+```
+
+</details>
+
+<a id="img-map"></a>
+## Maps
+
+<a id="gpt-image-city-on-map"></a>
+### Your city as a tiny world growing out of a map
+
+<a href="https://x.com/Preda2005/status/2098816499075145824"><img src="previews/gpt-image-city-on-map.jpg" width="360"></a>
+
+Swap `[COUNTRY]` and `[CITY]`. Optional landmark slots at the end let you steer what appears.
+
+GPT Image 2.5 · Text-to-image · Source: [@Preda2005 on X](https://x.com/Preda2005/status/2098816499075145824) · 413 likes on 2026-10-27
+
+[`map`](#tag-map) [`miniature`](#tag-miniature) [`template`](#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a highly detailed 1:1 square image using GPT Image 2.5.
+
+The main subject is a realistic top-down geographic map accurately showing the terrain, coastline, rivers, roads and surrounding region of [COUNTRY], with natural and believable map labeling.
+
+At the real geographic location of [CITY], a miniature 3D city rises organically from the map surface, like a premium architectural diorama physically emerging from the map.
+
+The miniature city should include the most recognizable features of [CITY], such as:
+
+• iconic architecture
+• important natural landmarks
+• the characteristic city skyline
+• local cultural elements
+• recognizable regional details
+
+All elements must feel naturally connected to the underlying map, as if the city is growing directly out of it, rather than being placed on top.
+
+Keep the geography believable and visually coherent.
+
+Style:
+ultra-realistic miniature photography,
+high-end collectible diorama,
+cinematic macro photography,
+realistic materials,
+fine surface textures,
+strong depth and scale,
+premium travel editorial aesthetic.
+
+Use shallow depth of field:
+[CITY] should remain extremely sharp and detailed,
+while the surrounding map gradually becomes softer and slightly blurred.
+
+Use soft studio lighting, realistic natural shadows, elegant composition and subtle cinematic contrast.
+
+The result should feel like a luxury macro photograph of a real handcrafted miniature city built directly into a geographic map.
+
+MAP LABELS:
+Use labels appropriate to [COUNTRY].
+For example, if the country is Japan, use Japanese geographic labels.
+Do not introduce unrelated languages.
+
+OPTIONAL DETAILS:
+[LANDMARK 1]
+[LANDMARK 2]
+[LANDMARK 3]
+[LOCAL CULTURAL ELEMENT]
+[NATURAL LANDMARK]
+```
+
+</details>
+
+<a id="img-collage"></a>
+## Collage
+
+<a id="nano-banana-newspaper-collage"></a>
+### Recreate any image as a newspaper collage
+
+<a href="https://x.com/aimikoda/status/2108682052665290854"><img src="previews/nano-banana-newspaper-collage.jpg" width="360"></a>
+
+One sentence edit. Works on photos and illustrations alike.
+
+Nano Banana 2.1 · Edit · Source: [@aimikoda on X](https://x.com/aimikoda/status/2108682052665290854) · 171 likes on 2026-10-27
+
+[`collage`](#tag-collage) [`newspaper`](#tag-newspaper) [`one-liner`](#tag-one-liner)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+recreate this image as a collage made from newspaper parts.
+```
+
+</details>
+
 <a id="recipes"></a>
 ## Agent recipes: editing video
 
@@ -3006,11 +4323,6 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills): Curated skills for AI short dramas, from script and storyboard to video prompts.
 - [joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts): Videos rendered from code written by Claude Opus 5.5, with copy-ready prompts.
 
-<a id="image"></a>
-## Image prompts
-
-Coming next, built the same way: official and widely shared prompts, each with its output.
-
 <a id="threed"></a>
 ## 3D with agents
 
@@ -3019,6 +4331,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
+- <a id="tag-3d"></a>`3d` (2): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
 - <a id="tag-3d-animation"></a>`3d-animation` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
 - <a id="tag-accent"></a>`accent` (2): [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-action"></a>`action` (9): [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Off-road rally through a river crossing](#veo-off-road-rally), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
@@ -3026,53 +4339,76 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-ambience"></a>`ambience` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
 - <a id="tag-animation"></a>`animation` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
 - <a id="tag-anime"></a>`anime` (2): [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight)
+- <a id="tag-architecture"></a>`architecture` (1): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster)
 - <a id="tag-asmr"></a>`asmr` (1): [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
 - <a id="tag-audio-sync"></a>`audio-sync` (2): [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
 - <a id="tag-beats"></a>`beats` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-bilingual"></a>`bilingual` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
 - <a id="tag-camera-angle"></a>`camera-angle` (2): [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
 - <a id="tag-camera-move"></a>`camera-move` (4): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up)
+- <a id="tag-camera-roll"></a>`camera-roll` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
 - <a id="tag-cg"></a>`cg` (2): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle)
 - <a id="tag-character"></a>`character` (2): [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk), [Old sailor speaks in verse](#veo-old-sailor-verse)
 - <a id="tag-character-consistency"></a>`character-consistency` (3): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul)
 - <a id="tag-chase"></a>`chase` (1): [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
+- <a id="tag-chiaroscuro"></a>`chiaroscuro` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
 - <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (3): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-cinematic"></a>`cinematic` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
+- <a id="tag-collage"></a>`collage` (2): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
 - <a id="tag-comedy"></a>`comedy` (5): [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
-- <a id="tag-consistency"></a>`consistency` (1): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps)
+- <a id="tag-comparison"></a>`comparison` (1): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction)
+- <a id="tag-consistency"></a>`consistency` (2): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
 - <a id="tag-continuation"></a>`continuation` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
+- <a id="tag-cover"></a>`cover` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
 - <a id="tag-creature"></a>`creature` (3): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
 - <a id="tag-crowd"></a>`crowd` (2): [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd)
 - <a id="tag-dance"></a>`dance` (2): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Finger dance in one locked-off take](#wan-finger-dance-one-take)
 - <a id="tag-dialogue"></a>`dialogue` (11): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Four family members react to a plot twist](#kling-family-reacts-to-twist), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Harbour conversation extended twice](#omni-harbour-extend), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [Old sailor speaks in verse](#veo-old-sailor-verse)
 - <a id="tag-drama"></a>`drama` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-dv-camcorder"></a>`dv-camcorder` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
+- <a id="tag-editorial"></a>`editorial` (4): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
 - <a id="tag-emotion"></a>`emotion` (1): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur)
 - <a id="tag-explainer"></a>`explainer` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
 - <a id="tag-extend"></a>`extend` (1): [Harbour conversation extended twice](#omni-harbour-extend)
 - <a id="tag-family"></a>`family` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
 - <a id="tag-fantasy"></a>`fantasy` (3): [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon), [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
-- <a id="tag-fashion"></a>`fashion` (2): [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels)
+- <a id="tag-fashion"></a>`fashion` (4): [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
 - <a id="tag-fast-cut"></a>`fast-cut` (2): [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-ffmpeg"></a>`ffmpeg` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-film-grain"></a>`film-grain` (1): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait)
 - <a id="tag-film-look"></a>`film-look` (2): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Truck driver in four handheld shots](#kling-truck-driver-four-shots)
 - <a id="tag-first-last-frame"></a>`first-last-frame` (1): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan)
 - <a id="tag-focus-pull"></a>`focus-pull` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
 - <a id="tag-food"></a>`food` (3): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking)
+- <a id="tag-geometric"></a>`geometric` (1): [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration)
 - <a id="tag-gif"></a>`gif` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
+- <a id="tag-golden-hour"></a>`golden-hour` (1): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait)
+- <a id="tag-grid"></a>`grid` (2): [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-halftone"></a>`halftone` (1): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster)
 - <a id="tag-handheld"></a>`handheld` (4): [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Off-road rally through a river crossing](#veo-off-road-rally)
 - <a id="tag-home-video"></a>`home-video` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog)
 - <a id="tag-horror"></a>`horror` (2): [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak)
+- <a id="tag-humor"></a>`humor` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [Nine failed photos of any character](#gpt-image-failed-photos-grid)
+- <a id="tag-illustration"></a>`illustration` (2): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster)
 - <a id="tag-image-to-video"></a>`image-to-video` (3): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk)
+- <a id="tag-ink"></a>`ink` (1): [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster)
+- <a id="tag-ios"></a>`ios` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
 - <a id="tag-japanese"></a>`japanese` (1): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento)
 - <a id="tag-japanese-dialogue"></a>`japanese-dialogue` (1): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
+- <a id="tag-json"></a>`json` (2): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
 - <a id="tag-korean"></a>`korean` (1): [Korean high-school rooftop at night](#kling-korean-rooftop)
 - <a id="tag-lip-sync"></a>`lip-sync` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
 - <a id="tag-long-take"></a>`long-take` (8): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [One take follows a woman from elevator to desk](#kling-office-long-take), [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Harbour conversation extended twice](#omni-harbour-extend), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Time-travelling train, one 30-second take](#wan-time-space-train)
 - <a id="tag-loudness"></a>`loudness` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-magazine"></a>`magazine` (1): [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread)
+- <a id="tag-map"></a>`map` (1): [Your city as a tiny world growing out of a map](#gpt-image-city-on-map)
 - <a id="tag-martial-arts"></a>`martial-arts` (3): [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
+- <a id="tag-miniature"></a>`miniature` (1): [Your city as a tiny world growing out of a map](#gpt-image-city-on-map)
+- <a id="tag-minimal"></a>`minimal` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
 - <a id="tag-mixed-media"></a>`mixed-media` (1): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx)
 - <a id="tag-montage"></a>`montage` (2): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
 - <a id="tag-morning-routine"></a>`morning-routine` (1): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog)
+- <a id="tag-motion-blur"></a>`motion-blur` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
 - <a id="tag-motion-graphics"></a>`motion-graphics` (2): [Quantum computing explained in risograph flat style](#omni-quantum-explainer), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
 - <a id="tag-multi-reference"></a>`multi-reference` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird)
 - <a id="tag-multi-shot"></a>`multi-shot` (7): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
@@ -3081,42 +4417,60 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-multilingual"></a>`multilingual` (4): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-music"></a>`music` (2): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
 - <a id="tag-music-video"></a>`music-video` (1): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv)
+- <a id="tag-newspaper"></a>`newspaper` (1): [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
+- <a id="tag-nostalgic"></a>`nostalgic` (1): [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread)
 - <a id="tag-object-swap"></a>`object-swap` (3): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
+- <a id="tag-one-liner"></a>`one-liner` (1): [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
 - <a id="tag-orbit"></a>`orbit` (1): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile)
 - <a id="tag-outfit-change"></a>`outfit-change` (1): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take)
+- <a id="tag-paper-cut"></a>`paper-cut` (1): [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
+- <a id="tag-paper-texture"></a>`paper-texture` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
 - <a id="tag-period"></a>`period` (3): [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)
+- <a id="tag-phone-photo"></a>`phone-photo` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
+- <a id="tag-photo-to-art"></a>`photo-to-art` (5): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
+- <a id="tag-portrait"></a>`portrait` (2): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
 - <a id="tag-preview"></a>`preview` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
 - <a id="tag-product"></a>`product` (1): [Keyboard made of candy](#veo-candy-keyboard)
 - <a id="tag-product-ad"></a>`product-ad` (2): [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc)
 - <a id="tag-qa"></a>`qa` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
 - <a id="tag-realism"></a>`realism` (3): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht)
+- <a id="tag-reconstruction"></a>`reconstruction` (1): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction)
 - <a id="tag-reference-images"></a>`reference-images` (7): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
 - <a id="tag-reframe"></a>`reframe` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-scene-detection"></a>`scene-detection` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
 - <a id="tag-sci-fi"></a>`sci-fi` (3): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Time-travelling train, one 30-second take](#wan-time-space-train)
 - <a id="tag-score"></a>`score` (2): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
+- <a id="tag-screenshot"></a>`screenshot` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
 - <a id="tag-sfx"></a>`sfx` (5): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Keyboard made of candy](#veo-candy-keyboard), [Off-road rally through a river crossing](#veo-off-road-rally)
 - <a id="tag-shot-reverse-shot"></a>`shot-reverse-shot` (1): [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue)
+- <a id="tag-skin-detail"></a>`skin-detail` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
 - <a id="tag-spanish"></a>`spanish` (1): [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
+- <a id="tag-split-composition"></a>`split-composition` (3): [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
 - <a id="tag-sports"></a>`sports` (1): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo)
 - <a id="tag-static-camera"></a>`static-camera` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
 - <a id="tag-steampunk"></a>`steampunk` (1): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-stop-motion"></a>`stop-motion` (1): [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear)
 - <a id="tag-storyboard"></a>`storyboard` (2): [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-street"></a>`street` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
 - <a id="tag-structured-prompt"></a>`structured-prompt` (4): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
+- <a id="tag-studio"></a>`studio` (1): [Half face, name stacked beside it](#nano-banana-half-face-name-portrait)
 - <a id="tag-style-lock"></a>`style-lock` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
 - <a id="tag-style-transfer"></a>`style-transfer` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
 - <a id="tag-subtitles"></a>`subtitles` (2): [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-template"></a>`template` (5): [Your city as a tiny world growing out of a map](#gpt-image-city-on-map), [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Half face, name stacked beside it](#nano-banana-half-face-name-portrait), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
 - <a id="tag-tension"></a>`tension` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-text-render"></a>`text-render` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
+- <a id="tag-textile"></a>`textile` (1): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust)
 - <a id="tag-thriller"></a>`thriller` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-time-freeze"></a>`time-freeze` (1): [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)
 - <a id="tag-timed-beats"></a>`timed-beats` (2): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-timed-cut"></a>`timed-cut` (1): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
 - <a id="tag-title-card"></a>`title-card` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-toy"></a>`toy` (1): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust)
 - <a id="tag-tracking-shot"></a>`tracking-shot` (1): [One take follows a woman from elevator to desk](#kling-office-long-take)
 - <a id="tag-transformation"></a>`transformation` (1): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels)
-- <a id="tag-travel"></a>`travel` (1): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
+- <a id="tag-travel"></a>`travel` (3): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog), [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel)
+- <a id="tag-typography"></a>`typography` (1): [Half face, name stacked beside it](#nano-banana-half-face-name-portrait)
 - <a id="tag-ugc"></a>`ugc` (3): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht)
 - <a id="tag-vertical"></a>`vertical` (6): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-vfx"></a>`vfx` (3): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
@@ -3124,15 +4478,16 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 - <a id="tag-vlog"></a>`vlog` (5): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr), [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-voice-reference"></a>`voice-reference` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
 - <a id="tag-voiceover"></a>`voiceover` (1): [Perfume ad by a Paris window](#kling-perfume-paris-ad)
+- <a id="tag-watercolor"></a>`watercolor` (1): [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel)
 - <a id="tag-whimsical"></a>`whimsical` (2): [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [Keyboard made of candy](#veo-candy-keyboard)
 - <a id="tag-whisper"></a>`whisper` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
 - <a id="tag-workflow"></a>`workflow` (1): [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
-- <a id="tag-world-building"></a>`world-building` (2): [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers), [Time-travelling train, one 30-second take](#wan-time-space-train)
+- <a id="tag-world-building"></a>`world-building` (3): [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers), [Time-travelling train, one 30-second take](#wan-time-space-train), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
 
 <a id="contributing"></a>
 ## Contributing
 
-1. Add one YAML file under `prompts/video/` (copy any entry as a template).
+1. Add one YAML file under `prompts/video/` or `prompts/image/` (copy any entry as a template).
 2. Link the original post or page where the prompt and its output were published, and credit the author.
 3. Run `python scripts/build.py` to regenerate both READMEs, then open a pull request.
 4. Entries without a visible output or a traceable source are closed. Promotional links are closed.

@@ -1,0 +1,90 @@
+id: gpt-image-paper-texture-cover
+title:
+  en: Photo to minimalist paper-textured art cover
+  zh: 照片变纸张质感极简封面
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- paper-texture
+- minimal
+- cover
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2113501433471656120
+  credit: Ciri
+  likes: 561
+  captured: '2026-10-27'
+  posted: '2026-10-23'
+notes:
+  en: 'Organised under headings (composition, palette, texture). Ends by naming the reference point: an independent art-book cover.'
+  zh: 按小标题组织（构图、配色、质感），最后点明参照物：独立艺术书封面。
+prompt: |
+  MINIMAL HAND-DRAWN PAPER ILLUSTRATION
+
+  Transform the uploaded photo into a minimalist, hand-drawn, paper-textured artistic cover.
+
+  Composition
+
+  - The main subject should occupy only 10–20% of the frame.
+  - Position the subject near the bottom center of the composition.
+  - Leave generous negative space throughout the image.
+  - Suggest the environment using only a few lines or small blocks of color.
+
+  Preserve
+
+  - The most recognizable features of the original subject.
+  - The essential silhouette and proportions.
+  - The original pose or primary action.
+  - Important objects and defining details.
+  - The core story, relationships, and emotional atmosphere.
+
+  Color Palette
+
+  - Extract the dominant colors from the original photograph.
+  - Limit the palette to no more than four main colors.
+  - Use bold yet restrained, flat color blocks.
+  - Maintain a harmonious, muted color combination.
+  - Add subtle paper grain and handmade brush textures.
+
+  Simplification
+  Remove unnecessary details and visual clutter. Retain only the essential visual information needed to make the subject instantly recognizable.
+
+  Typography
+
+  - Optionally incorporate a small amount of simple text.
+  - Keep typography short, subtle, and aesthetically refined.
+  - Integrate the text naturally into the composition.
+  - Aim for the visual language of an art-book cover, independent publishing, modern editorial design, or a contemplative picture book.
+  - Do not force typography into the image if it doesn't improve the composition.
+
+  Style and Materials
+
+  - Delicate, slightly imperfect hand-drawn lines.
+  - A few clearly defined acrylic-like flat color blocks.
+  - Rough, tactile paper texture.
+  - Visible handmade brushstrokes.
+  - Organic, irregular, natural contours.
+  - Subtle imperfections that make the artwork feel genuinely handmade.
+
+  Overall Mood
+  Quiet, poetic, sophisticated, minimalist, innocent, relaxed, artistic, thoughtful, distinctive, and premium.
+
+  Avoid
+
+  - Colored-pencil rendering.
+  - Dry-brush effects.
+  - Watercolor washes or bleeding.
+  - Pure line-art illustration.
+  - Overly detailed or realistic illustrations.
+  - Heavy impasto or thick oil-paint textures.
+  - Smooth, polished digital illustration.
+  - 3D rendering, glossy surfaces, or artificial lighting effects.
+  - Generic commercial cartoon styles.
+  - E-commerce advertising aesthetics.
+  - Generic poster templates.
+  - Excessive decorative elements.
+  - Overly complex compositions.
+  - Too much text.
+
+  Final Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.

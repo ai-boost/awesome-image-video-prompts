@@ -1,0 +1,23 @@
+id: nano-banana-paper-cut-fashion
+title:
+  en: Fashion illustration in layered 3D paper-cut
+  zh: 多层 3D 剪纸时装插画
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- fashion
+- paper-cut
+- 3d
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2109534297367724221
+  credit: K
+  likes: 188
+  captured: '2026-10-27'
+  posted: '2026-10-12'
+notes:
+  en: Same structure as the geometric one, with the medium swapped. Good pair for comparing styles.
+  zh: 和几何风那条结构相同，只换了媒介，适合对比风格。
+prompt: |
+  Create a high-end editorial fashion illustration of a stylish woman wearing a bold, contemporary designer outfit. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations such as pastel pink, sky blue, mint green, sunshine yellow, and emerald green, paired with contrasting patterns like polka dots or vertical stripes. Add fashionable accessories, including statement sunglasses, earrings, a structured handbag, and modern shoes. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark.

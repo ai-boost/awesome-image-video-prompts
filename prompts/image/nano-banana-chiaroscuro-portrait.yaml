@@ -1,0 +1,23 @@
+id: nano-banana-chiaroscuro-portrait
+title:
+  en: Cinematic chiaroscuro close-up of your photo
+  zh: 把你的照片拍成明暗对比强烈的电影特写
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- chiaroscuro
+- cinematic
+- skin-detail
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2107691827323392159
+  credit: Heisenberg
+  likes: 170
+  captured: '2026-10-27'
+  posted: '2026-10-07'
+notes:
+  en: One light from the side and an explicit request for visible pores to keep skin from looking airbrushed.
+  zh: 单侧光，明确要求看得见毛孔，皮肤就不会像磨过皮。
+prompt: |
+  A hyper-realistic, 8K resolution cinematic close-up portrait of the person in the uploaded image. The image features dramatic chiaroscuro lighting, heavily illuminating the left side of his face while casting deep, moody shadows on the right against a solid black background. He has an intense, direct gaze, dark brown eyes with square catchlights, and textured, wet-styled hair. He is wearing a plain black t-shirt. Render with 35mm film grain and a shallow depth of field, prioritizing extreme character consistency and highly detailed skin texture, including visible pores.

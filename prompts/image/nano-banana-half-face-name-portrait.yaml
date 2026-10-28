@@ -1,0 +1,23 @@
+id: nano-banana-half-face-name-portrait
+title:
+  en: Half face, name stacked beside it
+  zh: 半张脸，名字竖排在旁
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- typography
+- studio
+- template
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2108777847800426542
+  credit: Emma
+  likes: 244
+  captured: '2026-10-27'
+  posted: '2026-10-10'
+notes:
+  en: Each letter of the name hides part of the other half of the face. Fill in name, backdrop and lighting.
+  zh: 名字每个字母里藏着另一半脸的细节。填名字、背景和光线即可。
+prompt: |
+  Transform the uploaded image into a modern studio portrait. Preserve the subject’s identity and features. Show half the face on the left; stack [NAME] vertically on the right, with each letter filled by matching details from the hidden half. Seamless alignment, [BACKGROUND] backdrop, [LIGHTING], modern typography.

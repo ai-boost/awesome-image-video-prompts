@@ -1,0 +1,39 @@
+id: nano-banana-artbook-spread
+title:
+  en: Nostalgic magazine artbook spread from a photo
+  zh: 照片做成怀旧杂志画册跨页
+model: Nano Banana 2.1
+mode: image-edit
+category: poster
+tags:
+- magazine
+- photo-to-art
+- nostalgic
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2107574724041769179
+  credit: Sharon Riley
+  likes: 183
+  captured: '2026-10-27'
+  posted: '2026-10-06'
+notes:
+  en: Keeps the original subjects and adds a sketched echo of them, laid out like a printed spread.
+  zh: 保留原照片的人物，再加一份素描呼应，排成印刷跨页的样子。
+prompt: |
+  Create a nostalgic, magazine-inspired photo-and-illustration artbook spread using the reference image as the visual foundation. Maintain the original subjects, identities, poses, expressions, wardrobe, framing, and emotional tone without altering their recognizable appearance.
+
+  Design the composition as two vertically flowing interpretations of the same moment.
+
+  In the upper portion, recreate the reference as an intimate cinematic photograph. Use gentle natural light, realistic skin and fabric textures, muted authentic colors, delicate analog film grain, soft background separation, and shallow depth of field. The image should feel spontaneous and personal, like a quiet memory captured on film rather than a staged portrait.
+
+  In the lower portion, reinterpret that identical moment as a raw black-and-white ink drawing printed on warm ivory sketchbook paper. Preserve the characters, pose, proportions, and composition while replacing photographic detail with expressive hand-drawn linework, irregular pen strokes, loose cross-hatching, unfinished contours, and restrained shading. Allow small imperfections so the illustration feels genuinely handmade rather than digitally traced.
+
+  Blend both sections naturally so the photograph appears to dissolve into the drawing, creating the impression of a memory gradually becoming an illustration.
+
+  Surround the lower artwork with restrained editorial design elements: a small numbered chapter heading, a brief poetic handwritten annotation, tiny archival or documentary notes, and subtle typographic details. Keep all typography secondary to the imagery.
+
+  Use generous cream-toned negative space, tactile paper grain, faint printing imperfections, understated vintage publishing details, and an elegant minimalist layout inspired by contemporary photography journals and Japanese visual diaries.
+
+  Overall mood: nostalgic, intimate, poetic, cinematic, handcrafted, sophisticated, and emotionally warm.
+
+  Maintain realistic anatomy, natural body proportions, recognizable faces, believable hands, and consistent clothing throughout both versions. High-detail editorial finish, cohesive photo-to-sketch transition, no branding, no logos, and no watermark.

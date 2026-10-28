@@ -1,0 +1,27 @@
+id: gpt-image-train-platform-snapshot
+title:
+  en: Phone snapshot on a train platform
+  zh: 站台上的手机随手拍
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- phone-photo
+- street
+- motion-blur
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2114965450425868519
+  credit: Eesha
+  likes: 305
+  captured: '2026-10-27'
+  posted: '2026-10-27'
+notes:
+  en: 'Realism through phone-camera flaws: motion blur on the train, real mobile noise, slight wide-angle distortion.'
+  zh: 靠手机相机的瑕疵出真实感：列车动态模糊、真实噪点、轻微广角变形。
+prompt: |
+  Realistic vertical phone street snapshot of a young woman on an urban train platform, slightly right of center, as a silver train with a green stripe rushes behind in horizontal motion blur. Low angle from waist height, close half-body to mid-thigh, handheld and imperfect.
+
+  Long deep-black hair sweeps left in station wind. Oversized brown gradient sunglasses hide her eyes; head tilted upward, lips relaxed, cool distant expression. Small oval face, soft jawline, clean East Asian Y2K makeup, nude-pink lips. Warm-white cropped halter tank, low neckline, fitted ribbed cotton, subtle wrinkles, hem above waist. Low-rise loose vintage gray-brown jeans, layered gold necklaces, black quilted chain bag.
+
+  Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and abdomen. Cool fluorescent station light, metallic reflections, yellow tactile paving, concrete floor, blurred passengers in train windows. Real mobile noise, slight wide-angle feel.

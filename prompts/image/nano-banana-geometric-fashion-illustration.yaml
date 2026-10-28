@@ -1,0 +1,25 @@
+id: nano-banana-geometric-fashion-illustration
+title:
+  en: Full-body fashion illustration in textured geometric style
+  zh: 质感几何风全身时装插画
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- fashion
+- geometric
+- editorial
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2109123213351632977
+  credit: K
+  likes: 494
+  captured: '2026-10-27'
+  posted: '2026-10-11'
+notes:
+  en: Outfit described item by item, then a short ban list that rules out photorealism and 3D.
+  zh: 服装逐件描述，再用一小串禁止项排除写实和 3D。
+prompt: |
+  Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.
+
+  Use a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.

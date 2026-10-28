@@ -1,0 +1,68 @@
+id: gpt-image-city-on-map
+title:
+  en: Your city as a tiny world growing out of a map
+  zh: 你的城市从地图上长出来
+model: GPT Image 2.5
+mode: text-to-image
+category: map
+tags:
+- map
+- miniature
+- template
+source:
+  name: '@Preda2005 on X'
+  url: https://x.com/Preda2005/status/2098816499075145824
+  credit: Marcio Lima 利真 マルシオ 💎
+  likes: 413
+  captured: '2026-10-27'
+  posted: '2026-09-12'
+notes:
+  en: Swap `[COUNTRY]` and `[CITY]`. Optional landmark slots at the end let you steer what appears.
+  zh: 替换 `[COUNTRY]` 和 `[CITY]`，结尾的可选地标槽位用来指定要出现什么。
+prompt: |
+  Create a highly detailed 1:1 square image using GPT Image 2.5.
+
+  The main subject is a realistic top-down geographic map accurately showing the terrain, coastline, rivers, roads and surrounding region of [COUNTRY], with natural and believable map labeling.
+
+  At the real geographic location of [CITY], a miniature 3D city rises organically from the map surface, like a premium architectural diorama physically emerging from the map.
+
+  The miniature city should include the most recognizable features of [CITY], such as:
+
+  • iconic architecture
+  • important natural landmarks
+  • the characteristic city skyline
+  • local cultural elements
+  • recognizable regional details
+
+  All elements must feel naturally connected to the underlying map, as if the city is growing directly out of it, rather than being placed on top.
+
+  Keep the geography believable and visually coherent.
+
+  Style:
+  ultra-realistic miniature photography,
+  high-end collectible diorama,
+  cinematic macro photography,
+  realistic materials,
+  fine surface textures,
+  strong depth and scale,
+  premium travel editorial aesthetic.
+
+  Use shallow depth of field:
+  [CITY] should remain extremely sharp and detailed,
+  while the surrounding map gradually becomes softer and slightly blurred.
+
+  Use soft studio lighting, realistic natural shadows, elegant composition and subtle cinematic contrast.
+
+  The result should feel like a luxury macro photograph of a real handcrafted miniature city built directly into a geographic map.
+
+  MAP LABELS:
+  Use labels appropriate to [COUNTRY].
+  For example, if the country is Japan, use Japanese geographic labels.
+  Do not introduce unrelated languages.
+
+  OPTIONAL DETAILS:
+  [LANDMARK 1]
+  [LANDMARK 2]
+  [LANDMARK 3]
+  [LOCAL CULTURAL ELEMENT]
+  [NATURAL LANDMARK]

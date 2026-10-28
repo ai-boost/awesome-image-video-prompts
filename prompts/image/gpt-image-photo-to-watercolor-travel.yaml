@@ -1,0 +1,28 @@
+id: gpt-image-photo-to-watercolor-travel
+title:
+  en: Upper half photo, lower half watercolour travel sketch
+  zh: 上半照片，下半水彩旅行速写
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- travel
+- split-composition
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2102724961408626735
+  credit: Mahnoor Fatima
+  likes: 2264
+  captured: '2026-10-27'
+  posted: '2026-09-23'
+notes:
+  en: A vertical split where the photo dissolves into watercolour. Works in Gemini, Grok and ChatGPT, per the author.
+  zh: 上下分割，照片渐变成水彩。作者说 Gemini、Grok、ChatGPT 都能用。
+prompt: |
+  Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration.
+  Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography.
+  Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic.
+  Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
+  Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
+  Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.

@@ -1,0 +1,32 @@
+id: gpt-image-minimal-lifestyle-poster
+title:
+  en: Minimal lifestyle art poster from a real photo
+  zh: 真实照片变极简生活方式海报
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- editorial
+- illustration
+- template
+- photo-to-art
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2101161664892829838
+  credit: simeon-sanai
+  likes: 1698
+  captured: '2026-10-27'
+  posted: '2026-09-19'
+notes:
+  en: 'A fill-in template: swap `[PERSON / SUBJECT / MOMENT]`. Keeps the subject recognisable while dropping the photographic background.'
+  zh: 填空模板，替换 `[PERSON / SUBJECT / MOMENT]` 即可。主体保持可辨认，背景去掉照片感。
+prompt: |
+  A sophisticated minimalist lifestyle art poster featuring [PERSON / SUBJECT / MOMENT] as the central focus, transformed from a real-life photograph into a refined hand-drawn editorial illustration. Preserve the subject’s recognizable pose, silhouette, clothing, hairstyle, and key visual details while simplifying the scene into an elegant artistic composition.
+
+  Use a limited vintage color palette inspired by the original environment, with warm muted tones printed on an ivory/off-white paper background. Combine delicate ink outlines, loose sketchwork, fine hatching, subtle halftone texture, faded print imperfections, and soft watercolor-like washes.
+
+  Reduce the surrounding environment into a few recognizable contextual elements—[CAFÉ / BAR / STREET / LANDMARK / OBJECTS]—using simplified linework and layered shapes rather than detailed realism. Add subtle abstract circles, geometric forms, atmospheric marks, tiny decorative elements, or silhouettes to create visual depth.
+
+  Include small minimalist typography on one side: [CITY / LOCATION], [SUBJECT / MOMENT], and optional coordinates, date, or short descriptor, designed like a premium collectible travel/lifestyle print.
+
+  Generous negative space, elegant editorial composition, vintage screen-print aesthetic, hand-crafted illustration, sophisticated travel-magazine design, muted heritage colors, subtle paper grain, artistic but recognizable, no photorealistic background, no excessive details, 4:5 vertical composition.
