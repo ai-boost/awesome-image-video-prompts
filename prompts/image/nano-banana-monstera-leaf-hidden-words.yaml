@@ -1,0 +1,25 @@
+id: nano-banana-monstera-leaf-hidden-words
+title:
+  en: Monstera leaf gaps forming hidden words
+  zh: 龟背竹叶片缝隙中浮现隐藏文字
+model: Nano Banana 2.1
+mode: text-to-image
+category: realism
+tags:
+- text-in-image
+- monstera
+- nature
+- typography
+- photo
+source:
+  name: '@fofrAI on X'
+  url: https://x.com/fofrAI/status/2107509669514113058
+  credit: fofr
+  likes: 549
+  captured: '2026-10-28'
+  posted: '2026-02-26'
+notes:
+  en: The prompt names one real object and asks for the text to emerge organically from its natural features, so the lettering follows the leaf's own cut-outs instead of sitting on top. A simple backdrop keeps the gaps readable as letterforms.
+  zh: 提示词只指定一个真实物体，并要求文字从它的天然特征中自然浮现，字形顺着叶片自身的裂口生成，而不是叠加在表面。简洁的背景让缝隙更容易被读成字母。
+prompt: |
+  A photo of a monstera leaf against a simple backdrop, cleverly and organically appearing within the natural gaps of the leaf are the words Nano Banana

@@ -1,0 +1,25 @@
+id: gpt-image-minimalist-doodle-sketchbook-photo
+title:
+  en: Photo turned into minimalist black ink doodle
+  zh: 照片转成极简黑色墨线涂鸦
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- doodle
+- line-art
+- sketchbook
+- black-and-white
+- style-transfer
+source:
+  name: '@Inshrah_ali_ on X'
+  url: https://x.com/Inshrah_ali_/status/2098462576346886442
+  credit: Ai Girllie
+  likes: 88
+  captured: '2026-10-28'
+  posted: '2026-09-11'
+notes:
+  en: 'Describes the line quality directly: wobbly brush-pen outlines, childlike shapes and a clean white background. Telling the model to keep the main subject and composition makes the style transfer reusable on any photo.'
+  zh: 直接描述线条质感：略带抖动的毛笔式黑色轮廓、童趣造型和干净白底。要求保留主体与构图，所以能套用到任何照片上。
+prompt: |
+  Transform the image into a minimalist hand-drawn doodle illustration. Use simple black brush-pen outlines with slightly wobbly, imperfect strokes. Reduce all details to cute, childlike shapes while preserving the main subject and composition. Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, black ink drawing, charming imperfections, simple cartoon illustration.

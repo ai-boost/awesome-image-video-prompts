@@ -1,6 +1,6 @@
 # Gemini Omni Flash
 
-[返回目录](../../README_zh.md) · 全部 21 条
+[返回目录](../../README_zh.md) · 全部 26 条
 
 <a id="omni-photo-bird-jumps-onto-hand"></a>
 ### 小鸟从电脑照片中跃出落到手上
@@ -369,6 +369,174 @@ Gemini Omni Flash · 文生视频 · 出处: [@TechieBySA on X](https://x.com/Te
 Simply replace [LANDMARK]:✨
 
 “Extreme macro shot of woven cotton shirt fabric, empty at first. Colored embroidery threads rise from the surface and weave themselves into place, laying down tight satin stitches row by row, tracing out a detailed [LANDMARK] in its country flag colors. The stitched area grows steadily across the frame, thread pulling taut and raising into dimensional embroidered texture, colors and defining features building up stitch by stitch until the full landmark is complete and clearly recognizable. Camera holds steady, slow satisfying timelapse pace. Soft natural side light, shallow depth of field, visible fabric fibers and realistic thread sheen. No hands, thread moves on its own. One shot no scene change. 5 second video. 16:9 dimension.”
+```
+
+</details>
+
+<a id="omni-pov-telekinetic-outfit-change"></a>
+### 第一视角戴手套的手为女子换装
+
+<a href="https://x.com/KrevixAi/status/2099562556507492661"><img src="../../previews/omni-pov-telekinetic-outfit-change.jpg" width="360"></a>
+
+以分镜图作参考，并把十秒拆成按秒计时的节拍，如聚焦、拉扯、环绕、组装，每段只写一个动作。固定人物外貌描述并配上较长的排除清单，让布料物理真实、人物保持一致。
+
+Gemini Omni Flash · 参考生视频 · 出处: [@KrevixAi on X](https://x.com/KrevixAi/status/2099562556507492661) · 211 赞，统计于 2026-10-28
+
+[`fashion`](tags.md#tag-fashion) [`pov`](tags.md#tag-pov) [`commercial`](tags.md#tag-commercial) [`outfit-change`](tags.md#tag-outfit-change) [`storyboard`](tags.md#tag-storyboard)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 10-second photorealistic luxury fashion commercial, 16:9, based on the reference storyboard. Pure black infinite studio, STRICT first-person POV, centered full-body framing. The same adult woman remains visually identical throughout: 25–30, tall, slim, long dark-chestnut wavy hair, refined face, natural makeup.
+Two masculine hands in matte-black gloves remotely control the clothing without touching it. No visible telekinetic effects — movement is shown only through realistic fabric tension, weight and inertia.
+0.0–1.0s — FOCUS. Woman wears an outdated oversized beige top, loose grey trousers and worn grey sneakers. POV hands extend toward her. The clothes stretch outward under invisible force.
+1.0–2.0s — FORCE PULL. Hands sharply separate. Beige top, trousers and sneakers detach as complete garments and fly sideways. Nothing tears or dissolves. She remains covered by a minimal opaque black fashion base: fitted black crop top, high-waisted fitted black shorts and simple black pumps.
+2.0–2.8s — STOP. Hands open sharply. The old garments suddenly stop and briefly remain suspended around her with realistic residual movement.
+2.8–3.5s — DISPATCH. Hands sweep outward, throwing all old garments completely out of frame.
+3.5–4.7s — PULL. Hands pull inward. Premium clothing rapidly flies from the darkness toward her: burgundy satin top, high-waisted black wide-leg trousers, structured black blazer, pointed black heels, slim black belt, gold earrings and small black handbag.
+4.7–6.0s — ORBIT. The new garments dynamically circle the woman. POV hands precisely control their trajectories. Realistic fabric folds, weight, momentum and aerodynamic movement.
+6.0–7.2s — ASSEMBLE. Hands sharply converge. All garments simultaneously move into their correct positions: trousers, burgundy top, blazer, heels, belt and accessories physically assemble into one finished luxury look. No morphing or dissolving.
+7.2–8.5s — HERO. Hands leave frame. Clean full-body hero shot. Woman confidently poses in the completed black-and-burgundy luxury outfit.
+8.5–10.0s — TOGETHER. One gloved POV hand reaches toward her. She takes it and confidently walks directly toward the camera while holding hands, moving from full-body to close-up until she fills the frame.
+Photorealistic premium fashion campaign, dramatic studio lighting, deep blacks, realistic skin and fabric, cinematic contrast, fast elegant choreography, strong POV depth. No identity changes, nudity, transparent clothing, extra people, text, particles, beams, glow, smoke, magic, teleportation or unrealistic cloth physics.
+```
+
+</details>
+
+<a id="omni-rose-perfume-storyboard-commercial"></a>
+### 玫瑰香水瓶奢华广告与飘落花瓣
+
+<a href="https://x.com/Strength04_X/status/2097919290980921451"><img src="../../previews/omni-rose-perfume-storyboard-commercial.jpg" width="360"></a>
+
+先用图像模型生成十格分镜图定下画面，再交给视频模型动起来。一致性段落锁定瓶身、背景和花瓣，头部信息卡写明时长、风格和分层音效。
+
+Gemini Omni Flash · 图生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2097919290980921451) · 195 赞，统计于 2026-10-28
+
+[`product-commercial`](tags.md#tag-product-commercial) [`storyboard`](tags.md#tag-storyboard) [`perfume`](tags.md#tag-perfume) [`macro`](tags.md#tag-macro) [`luxury`](tags.md#tag-luxury)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+</details>
+
+<a id="omni-invisible-fitting-room-mannequin"></a>
+### 无形之手为人台依次换上四套造型
+
+<a href="https://x.com/KrevixAi/status/2101361197400387598"><img src="../../previews/omni-invisible-fitting-room-mannequin.jpg" width="360"></a>
+
+固定正面机位加按秒拆分的时间轴，让每套造型各占一个节拍。明确禁止魔法、发光和变形，布料物理才显得真实。结尾外套遮住镜头转黑，画面首尾闭环。
+
+Gemini Omni Flash · 图生视频 · 出处: [@KrevixAi on X](https://x.com/KrevixAi/status/2101361197400387598) · 127 赞，统计于 2026-10-28
+
+[`fashion`](tags.md#tag-fashion) [`mannequin`](tags.md#tag-mannequin) [`cloth-physics`](tags.md#tag-cloth-physics) [`storyboard`](tags.md#tag-storyboard) [`vertical`](tags.md#tag-vertical)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 10-second ultra-photorealistic premium fashion video “INVISIBLE FITTING ROOM”, 9:16. One locked frontal camera, black seamless studio. Same tall muscular matte-white faceless male mannequin centered full-body, initially wearing only fitted black shorts. Female hands in long matte-black gloves remotely dress him without touching. No magic, glow, portals, particles or morphing; realistic cloth physics, gravity and inertia. 0–2s: espresso oversized shirt + caramel wide trousers + brown loafers fly in and physically dress him; mannequin strikes an editorial pose, then one sharp hand swipe pulls the outfit off and it falls to the floor. 2–4s: cognac leather jacket + cream knit + dark-chocolate trousers + boots fly in; mannequin takes a strong pose, then both hands pull the outfit away and garments fall beside the first look. 4–6s: cream turtleneck + coffee trousers + long mocha coat assemble onto him; coat rotates naturally around his body, he poses, then a wide swipe removes everything onto the growing clothing pile. 6–8.5s: final luxury outfit assembles layer by layer: ivory silk shirt, espresso tailored trousers, burnt-orange waistcoat, long dark-chocolate jacket, cognac shoes, tie and gold brooch. Precise hand gestures remotely tailor waist, shoulders, lapels and cuffs with realistic fabric tension. 8.5–9.2s: mannequin holds a powerful final fashion pose surrounded by discarded clothes. 9.2–10s: female hand reaches forward; mannequin physically takes her hand and walks confidently toward the fixed camera until his jacket naturally covers the lens → black. Premium coffee palette, burnt-orange accent, cinematic rim lighting, realistic silk, leather, cashmere and wool, seamless continuity.
+```
+
+</details>
+
+<a id="omni-professor-chalkboard-trig-proof"></a>
+### 教授在黑板上书写三角恒等式证明
+
+<a href="https://www.reddit.com/r/google/comments/1ta6grg/gemini_omni_new_video_model"><img src="../../previews/omni-professor-chalkboard-trig-proof.jpg" width="360"></a>
+
+单一主体、单一动作和单一场景让画面保持简洁。要求教授讲解当前步骤，会触发同步语音，模型需要让讲解与粉笔书写对上。
+
+Gemini Omni Flash · 文生视频 · 出处: [u/cowardbeater1969 on Reddit](https://www.reddit.com/r/google/comments/1ta6grg/gemini_omni_new_video_model) · 115 赞，统计于 2026-10-28
+
+[`education`](tags.md#tag-education) [`chalkboard`](tags.md#tag-chalkboard) [`speech`](tags.md#tag-speech) [`classroom`](tags.md#tag-classroom) [`single-shot`](tags.md#tag-single-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A professor writes out a mathematical proof for trigonometric identities on a traditional chalkboard, explaining the step he is currently on in the equation.
+```
+
+</details>
+
+<a id="omni-street-scan-object-to-hand-drawn"></a>
+### 第一人称扫描街头物件变成手绘动画
+
+<a href="https://www.reddit.com/r/GeminiAI/comments/1vsgjgi/this_feels_like_such_a_fun_video_idea_to_plan"><img src="../../previews/omni-street-scan-object-to-hand-drawn.jpg" width="360"></a>
+
+第一人称手持装置扫描真实物体,只有被锁定的目标变成粗糙的二维手绘动画,其余画面保持实拍。四个硬切镜头都重复扫描、锁定、变形的同一流程,并写明位置、透视、遮挡和阴影保持不变,让替换看起来是一镜到底。
+
+Gemini Omni Flash · 文生视频 · 出处: [u/Few-Profession421 on Reddit](https://www.reddit.com/r/GeminiAI/comments/1vsgjgi/this_feels_like_such_a_fun_video_idea_to_plan) · 76 赞，统计于 2026-10-28
+
+[`pov`](tags.md#tag-pov) [`hand-drawn`](tags.md#tag-hand-drawn) [`live-action-composite`](tags.md#tag-live-action-composite) [`object-transform`](tags.md#tag-object-transform) [`street`](tags.md#tag-street)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+10 second SNS vertical short video, aspect ratio 3:4, 30fps. Setting: Beijing summer street, August midday 13:00, hot humid sunny weather 35°C, strong harsh sunlight, distant developing grey white cumulus clouds hinting afternoon thunderstorm, dry ground. First person smartphone POV shot, left hand holding phone out of frame, live action phone footage composited with rough cute 2D hand drawn frame by frame animation. Ordinary real world Beijing street scenes, no famous landmarks, no readable signs or text. Real human right hand enters frame from bottom right corner, holding fully fictional childish cardboard toy water gun style graffiti morph device; short chubby asymmetrical white cardboard bulk, cyan blue circular scanning ring on front, short clumsy toy water gun like grip, loose uneven black marker outline, visible white paper fiber, sparse cyan blue and light pink colored pencil hatching, single circular energy slot on side, no gun barrel, no weapon like structures. Maintain identical shape, color, size and hand grip posture for right hand and graffiti morph device across all shots. Press circular trigger button, scanning ring emits small cyan blue hand drawn ripple plus a few black ink dots only, no shooting, no explosion, no flame, no damage. Ripple hits target, a 0.6 to 0.8 second hand drawn lock on frame appears: wobbly black loose lines, cyan circles, light pink scale ticks, jittery graffiti markers tightly sticking onto target respecting perspective and occlusion. After lock on finishes, only the targeted everyday object transforms in place into rough cute 2D hand drawn animation; real life humans, streets, buildings, trees and other objects remain live action smartphone footage. Four shots connected by clean hard cuts only, no fades, no transition effects. Each shot fully shows the complete sequence: real world target, then lock on effect, then in place transform to hand drawn version before cutting.
+
+[0.0 to 2.5s Shot 1: takeout thermal box beside subway entrance]: Ordinary Beijing subway entrance exterior, glass canopy, light grey stone ground, yellow tactile paving, street trees, no readable station name. Strong midday sun creates bright specular reflection on glass and pavement. Parked electric bicycle at shadow edge, rear rack mounts a plain text free light grey square takeout thermal box. Slight forward walking camera motion. Right hand with graffiti morph device enters bottom right, aims at thermal box. Trigger pressed, cyan blue scanning ripple hits box, lock on frame adheres accurately respecting perspective and bicycle occlusion. After about 0.7s, only the thermal box transforms in place into a 2D hand drawn version: white paper box body, boiling jittery black outline strokes, cyan blue edge trim, light pink buckles, sparse ink specks; mounting position, dimension, orientation and shadow direction stay exactly unchanged. Electric bike, glass canopy, paving and passers by stay live action.
+
+[2.5 to 5.0s Shot 2: folding paper fan at grey brick hutong entrance]: Beijing grey brick hutong entrance under dense locust tree shade, dappled sunlight filtering through leaves, background air conditioning outdoor units, stone steps, slowly passing pedestrians, no readable house number. A passer by in light summer clothes walks left to right, only lower shoulder to back visible, naturally waving a light wood folding fan. Graffiti morph device tracks the fan from bottom right. Trigger pressed, lock on frame follows the fan swinging angle and hand occlusion. After about 0.7s, only the folding fan becomes hand drawn 2D animation: white paper fan surface, loose black line fan ribs, cyan blue and light pink colored pencil diagonal hatching. The real human hand, clothes, body and hutong environment keep live action. The hand drawn fan keeps a natural swinging rhythm driven by the real human wrist, never detaching from the palm.
+
+[5.0 to 7.5s Shot 3: wide brim sun hat outside commercial street crossing]: Pedestrian waiting zone outside a modern Beijing commercial street, light colored pavement, metal bollards, tree pits, blurred shared bikes in background, scorching bright sunlight, humid hot air. A passer by wearing a plain light beige wide brim sun hat walks slowly from front right toward front left, back view only, no clear facial features. Slight laggy tracking camera movement. Graffiti morph device aims at the hat, cyan blue ripple travels a short distance, lock on frame strictly follows the hat brim elliptical perspective, head occlusion and walking bounce. After about 0.6s, only the sun hat transforms into a white paper textured hand drawn hat: irregular black brim outline, cyan blue hatching on the hatband, light pink marker patch on the hat top. The passer by hair, body, clothes and whole street stay live action. The hand drawn hat bounces subtly with walking pace, firmly sitting on the real human head.
+
+[7.5 to 10.0s Shot 4: cold water sports bottle on shaded stone pier]: Street corner tree shade, a light grey stone pier holds a text free translucent cold water sports bottle with a carry loop, real condensation water droplets on the bottle surface. Background sun blasted Beijing street, distant slow walking pedestrians, rounded summer cumulus clouds in the sky. Slight camera push in. Graffiti morph device from bottom right aims at the bottle. Trigger pressed, lock on frame orbits around the bottle for about 0.8s. Only the sports bottle transforms in place into a white background black line 2D hand drawn bottle: translucent white paper fill, cyan blue bottle cap, light pink carry loop, colored pencil hatching, tiny ink specks. Bottle to stone pier contact point, gravity, perspective and original shadow direction fully preserved. Several wiggly cyan blue hand drawn cold steam lines rise from the bottle outer surface, tiny black ink specks float upward like small bubbles. Video ends on a frame with swaying cold steam lines and slowly drifting distant clouds.
+
+2D hand drawn animation style: uneven wobbly black outlines, white paper fill, colored pencil and marker hatching texture, ink grain, slightly overbleeding color blocks, frame by frame subtle boiling line jitter on every drawing frame, a child like rough cute hand drawn aesthetic; no smooth vector graphics, no 3D CG render, no plastic material look, no neon sci fi hologram glow. After transformation, the converted object strictly inherits the original pixel position, scale, orientation, motion trajectory, gravity weight, perspective, occlusion relation, contact anchor points and shadow direction. Only the target object visual material gets replaced; the background, real human figures and supporting objects never animate. The lock on frame must stay tightly aligned to the target, no misalignment; the graffiti morph device never changes shape or color across hard cuts.
+
+Camera spec: smartphone main camera 1x wide angle, equivalent focal length 24 to 28mm, no 0.5x ultra wide or fisheye lens. Electronic image stabilization enabled, preserve subtle natural hand held micro shake, minor vertical bounce during walking, slight tracking lag, tiny auto exposure fluctuation. The right hand and morph device near the lens appear slightly larger with soft minor softness; street background and target objects stay reasonably sharp. No heavy shallow depth of field bokeh blur. Color grading: bright clean pastel cyan pink pop aesthetic, keep Beijing street photoreal believability. Sky and glass highlight tint soft pale cyan blue, grey brick and stone keep neutral clean tone, skin and warm surfaces tint soft peach pink, foliage low saturation olive green and teal green. Exposure lifted plus 0.5 stop, elevated black and white levels, low to medium contrast, subtle smartphone HDR, gentle digital sharpening, light SNS social media filter texture. No heavy film grain, no strong lens flare, no teal orange cinematic grading, no crushed deep black shadows.
+
+Audio: zero dialogue, zero voiceover, zero background music. Only a soft button click sound effect, a gentle electronic lock on beep, a marker pen on paper scratching sound, and a faint ink dot pop sound, mixed with quiet real world Beijing summer street ambient noise; sound effects precisely sync with the four lock on trigger moments.
+
+Strict prohibitions: no on screen text, no titles, no logos, no watermarks, no brand, shop, station or license plate readable text. No firearm shaped props, no muzzle like structures, no bullets, no shooting impact, no attack, no explosion, no fire, no physical destruction. Never animate the full frame image, never animate real human bodies. No target object drifting, geometry warping, proportion mutation, clipping through geometry, or detaching from contact surfaces. The graffiti morph device must not alter shape or color. No deformed hands, extra fingers, missing fingers, or left right hand swap errors. No extreme fisheye distortion, no heavy background bokeh, no excessive glowing bloom, no violent camera rotation, no slow motion, no black out frames, no freeze frame.
 ```
 
 </details>

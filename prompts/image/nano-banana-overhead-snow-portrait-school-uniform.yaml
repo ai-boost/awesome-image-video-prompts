@@ -1,0 +1,74 @@
+id: nano-banana-overhead-snow-portrait-school-uniform
+title:
+  en: Overhead portrait of a girl lying in snow
+  zh: 身穿校服躺在雪地里的俯拍人像
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- snow
+- school-uniform
+- overhead
+- json-prompt
+source:
+  name: '@VibeEverything on X'
+  url: https://x.com/VibeEverything/status/2113256906294796645
+  credit: LOOPY
+  likes: 275
+  captured: '2026-10-28'
+  posted: '2026-07-25'
+notes:
+  en: A JSON prompt locks identity to the reference photo, then specifies camera angle, lens, focus, pose, outfit and lighting as separate fields. Naming overcast light, snowflake details and a negative prompt against face changes keeps the likeness and the cold, quiet mood.
+  zh: 用 JSON 结构把人物身份锁定在参考图上，再把机位、镜头、对焦、姿势、服装和光线分字段写清。阴天柔光、雪花细节和防止改脸的负面提示共同保住了相貌和清冷氛围。
+prompt: |
+  {
+    "reference_image": {
+      "identity_preservation": "STRICT — The person's identity from the reference image must be preserved exactly. Keep facial structure, face shape, eye shape, nose, lips, skin tone, freckles/skin texture, and overall likeness identical. Do not alter, beautify, age, or stylize the face.",
+      "use_reference_for": ["face", "hairstyle", "overall likeness"]
+    },
+    "image_type": "photorealistic portrait photograph",
+    "aspect_ratio": "2:3 (vertical)",
+    "camera": {
+      "angle": "top-down overhead shot, camera directly above the subject",
+      "framing": "close-up to medium close-up, head to upper chest",
+      "lens": "85mm portrait lens look",
+      "depth_of_field": "shallow, face in sharp focus",
+      "focus": "eyes"
+    },
+    "subject": {
+      "pose": "lying on her back in fresh snow, head slightly tilted, relaxed and calm",
+      "gaze": "looking directly into the camera lens, eye contact with the viewer",
+      "expression": "calm, dreamy, slightly melancholic, lips gently closed",
+      "hair": {
+        "color": "black",
+        "length": "long",
+        "style": "loose, fanned out across the snow, a few strands across the face, snowflakes caught in the hair"
+      },
+      "accessories": [
+        "round tortoiseshell-frame glasses",
+        "white wired earphones in both ears, cable running down over the chest"
+      ],
+      "makeup": "natural, minimal, soft coral lips"
+    },
+    "outfit": {
+      "outerwear": "charcoal school uniform blazer with notched lapels, matte wool texture",
+      "shirt": "white collared dress shirt",
+      "tie": "navy striped tie with light blue and white diagonal stripes",
+      "details": "snowflakes resting on the blazer shoulders and lapels"
+    },
+    "environment": {
+      "setting": "outdoors, lying in a bed of fresh powdery snow",
+      "weather": "light snowfall, individual snowflakes visible in the frame",
+      "background": "white snow surface filling the background"
+    },
+    "lighting": {
+      "type": "soft diffused natural daylight, overcast",
+      "quality": "even, gentle, no harsh shadows",
+      "skin_rendering": "natural skin texture, subtle cool tones on skin"
+    },
+    "color_palette": ["snow white", "charcoal gray", "navy", "black", "warm tortoiseshell brown", "soft coral"],
+    "mood": "quiet, cold, cinematic winter, introspective",
+    "style": "high-end editorial photography, film-like, realistic detail",
+    "negative_prompt": "face alteration, identity change, distorted features, extra fingers, plastic skin, over-smoothing, cartoon, anime, heavy makeup, harsh flash, blurry eyes, looking away from camera"
+  }

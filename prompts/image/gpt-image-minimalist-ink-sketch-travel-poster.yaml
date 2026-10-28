@@ -1,0 +1,46 @@
+id: gpt-image-minimalist-ink-sketch-travel-poster
+title:
+  en: Minimalist ink sketch travel poster of a landmark
+  zh: 地标极简钢笔速写旅行海报
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- travel-poster
+- ink-sketch
+- pastel
+- minimalist
+- template
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2115000503151231060
+  credit: simeon-sanai
+  likes: 87
+  captured: '2026-10-28'
+  posted: '2026-10-27'
+notes:
+  en: Fill-in placeholders for landmark and destination make it reusable. Fine ink outlines are paired with a limited pastel palette, dry-brush color patches on ivory paper and a fixed typography block with a divider. Negative prompts such as no 3D and no extra text keep the result clean.
+  zh: 用地标和目的地占位符让提示词可重复套用。细墨线搭配有限的粉彩色板、象牙白纸面上的干笔色块,并固定标题排版与分隔线。再用不要3D、不要多余文字等排除项保持画面干净。
+prompt: |
+  Create a beautiful, minimalist hand-drawn travel illustration of [LANDMARK / CITY / COUNTRY], inspired by Japanese architectural sketchbook art and contemporary minimalist travel posters.
+
+  Illustration style:
+
+  Fine black ink outlines with loose, expressive, imperfect hand-drawn strokes.
+  Simplified architectural forms that preserve the destination’s most recognizable features.
+  Soft, dry-brush pastel colour patches in the background, with a distressed, textured, almost crayon-like finish.
+  A limited palette of muted sage green, dusty pink, pale blue, warm beige, and soft ochre.
+  Warm ivory paper background with subtle natural paper grain.
+  Delicate sketchy trees, tiny shrubs, birds, distant mountains, clouds, or other location-specific elements.
+  Beautiful negative space and an airy, uncluttered composition.
+  Artistic imperfections, uneven ink lines, and a handmade illustration aesthetic.
+
+  Composition:
+  Place the iconic landmark in the lower half of the image, drawn in elegant black ink. Add a few surrounding elements to create a small, atmospheric scene. Behind the architecture, incorporate abstract vertical or irregular pastel brushstrokes that add colour without overpowering the drawing.
+
+  Typography:
+  At the top, write the destination name in thin, spaced-out uppercase lettering: “[DESTINATION NAME]”. Place the country name directly underneath in smaller, elegant uppercase letters. Add a fine horizontal divider with tiny circular endpoints between the title and subtitle, if appropriate.
+
+  Overall mood: Peaceful, poetic, artistic, minimalist, nostalgic, and sophisticated — like a page from a beautifully illustrated travel journal.
+
+  Technical details: Square 1:1 composition, crisp fine-line drawing, restrained pastel colours, plenty of cream negative space, no photorealism, no 3D effects, no glossy finish, no heavy shadows, no clutter, and no extra text. Ensure the destination name is spelled correctly.

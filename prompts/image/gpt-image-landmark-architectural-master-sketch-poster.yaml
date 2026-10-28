@@ -1,0 +1,74 @@
+id: gpt-image-landmark-architectural-master-sketch-poster
+title:
+  en: Statue of Liberty as an unfinished architectural ink sketch
+  zh: 自由女神像的未完成建筑墨线草图海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- architecture
+- ink-sketch
+- landmark
+- white-background
+- template
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2106688617682788602
+  credit: Saul Goodman
+  likes: 98
+  captured: '2026-10-28'
+  posted: '2026-10-04'
+notes:
+  en: The prompt sets one landmark against pure white negative space. It mixes precise ink linework with loose construction guides and allows only one accent color taken from the landmark's real materials. Bracketed placeholders for the location and landmark make it reusable for any building.
+  zh: 提示词把单一地标放在纯白留白中，用精确墨线结合松散的construction辅助线，并只允许一种取自地标真实材质的点缀色。方括号占位符让它可以套用到任何建筑。
+prompt: |
+  Create a premium 2:3 vertical architectural poster for [COUNTRY / CITY / LOCATION / LANDMARK].
+
+  TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / LANDMARK]. No reference image required.
+
+  CORE CONCEPT
+  Present [LANDMARK] as an expressive unfinished architectural master sketch, as if drawn by an architect exploring the building’s form, structure, and character. Keep the real architecture accurate — preserve its recognizable silhouette, proportions, façade rhythm, materials, and signature details. Do not redesign the landmark.
+
+  COMPOSITION
+  Show approximately 80–95% of the landmark from the most elegant and architecturally informative viewpoint for that specific building. Use a natural eye-level or gently elevated three-quarter perspective with realistic depth and restrained distortion.
+
+  ONE LANDMARK ONLY. Let it dominate the composition while surrounding it with generous PURE WHITE negative space. No skyline or secondary landmarks.
+
+  SKETCH STYLE
+  Combine precise architectural ink drawing with loose unfinished concept-sketch elements:
+
+  crisp black structural lines
+
+  fine façade detailing
+
+  varied line weights
+
+  construction and perspective guides
+
+  subtle drafting marks
+
+  selective ink washes
+
+  partially unfinished contours
+
+  Some areas should be highly detailed while others naturally dissolve into loose exploratory lines and white space. It must feel genuinely hand-drawn, not like a 3D render with a sketch filter.
+
+  DETAIL & COLOR
+  Reveal authentic architectural elements such as structural connections, façade layers, openings, ornamentation, joints, and material textures. Never invent features that do not belong to the landmark.
+
+  Use a PURE WHITE background with black and charcoal linework, plus ONE subtle accent color naturally derived from the landmark’s real materials.
+
+  TYPOGRAPHY
+  Optional small refined text in one corner:
+  [DESTINATION]
+  [LANDMARK]
+
+  Keep typography minimal and secondary to the architecture.
+
+  FINAL AESTHETIC
+  Architectural master sketch × technical drawing × expressive ink work × restrained hand-painted wash × contemporary collectible art poster.
+
+  Avoid fictional architecture, incorrect proportions, extreme perspectives, close-ups, surrounding cityscapes, multiple landmarks, beige/aged paper, gradients, excessive colors, glossy 3D rendering, oversized typography, logos, and watermarks.
+
+  FORMAT
+  2:3 vertical, single landmark, full architectural form clearly visible, generous white space, intricate linework, natural perspective, premium gallery-quality finish.

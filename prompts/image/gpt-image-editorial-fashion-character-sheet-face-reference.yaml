@@ -1,0 +1,118 @@
+id: gpt-image-editorial-fashion-character-sheet-face-reference
+title:
+  en: Editorial fashion character sheet from one face photo
+  zh: 由一张人脸照片生成的时尚编辑角色设定表
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- character-sheet
+- face-reference
+- fashion
+- editorial
+- consistency
+source:
+  name: '@Alina_with_Ai on X'
+  url: https://x.com/Alina_with_Ai/status/2102234488562655721
+  credit: Alina Ai
+  likes: 138
+  captured: '2026-10-28'
+  posted: '2026-09-22'
+notes:
+  en: 'The prompt separates identity from styling: the uploaded photo supplies only the face, while the outfit is locked item by item and repeated in a closing consistency block. A fixed panel grid of three views, four expressions, four action poses, materials and palette keeps one character coherent across the whole sheet.'
+  zh: 提示词把身份和造型分开处理:上传照片只提供人脸,服装逐件锁定并在结尾的一致性段落再次强调。固定的版面网格包含三视图、四种表情、四个动作姿势、材质和色板,让整张设定表中的角色保持统一。
+prompt: |
+  Create a premium editorial-style CHARACTER REFERENCE SHEET using the uploaded photo as the PRIMARY FACE REFERENCE.
+
+  IMPORTANT IDENTITY INSTRUCTION:
+  Use ONLY the face and identity from the uploaded reference photo. Preserve her facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural facial proportions and overall recognizable appearance consistently in every panel.
+
+  DO NOT copy the clothing, outfit, accessories, pose, or background from the reference photo.
+  ONLY use the uploaded photo as the FACE/IDENTITY REFERENCE.
+
+  CHARACTER:
+  24-year-old woman, 5'6" (167 cm), slim build, long naturally wavy dark-brown hair, warm natural skin tone, expressive brown eyes, soft feminine facial features.
+
+  OUTFIT — MUST REMAIN EXACTLY THIS:
+  Long tailored dark-brown wool-blend coat
+  Black fitted ribbed turtleneck knit
+  High-waisted wide-leg dark charcoal tailored trousers
+  Black leather loafers
+  Black leather shoulder bag
+  Black sunglasses as an optional accessory
+
+  Do NOT replace or redesign the outfit.
+
+  CHARACTER SHEET LAYOUT:
+
+  TOP SECTION:
+  Show THREE consistent full-body views of the same woman:
+
+  1. FRONT VIEW
+  Standing naturally with one hand in her trouser pocket and the other holding the black shoulder bag.
+
+  2. SIDE VIEW
+  Natural three-quarter side profile, clearly showing her face, long hair, coat silhouette and shoulder bag.
+
+  3. BACK VIEW
+  Full back view showing the long brown coat, hairstyle, trousers and shoulder bag.
+
+  FACIAL EXPRESSIONS:
+  Create four close-up portraits using the EXACT SAME FACE:
+  • Neutral
+  • Thoughtful
+  • Happy
+  • Determined
+
+  Keep facial identity consistent across all expressions.
+
+  IN ACTION:
+  Create four lifestyle poses:
+  • EXPLORE — walking outdoors with sunglasses and coffee
+  • CREATE — sitting with a laptop
+  • SHOOT — holding a professional camera
+  • TRAVEL — walking confidently with shoulder bag
+
+  OUTFIT / MATERIALS:
+  Show clean visual material references for:
+  • Brown wool-blend coat
+  • Black ribbed turtleneck
+  • Dark charcoal tailored trousers
+  • Black leather shoulder bag
+  • Black leather loafers
+  • Black sunglasses
+
+  KEY ATTRIBUTES:
+  Creative
+  Empathetic
+  Adventurous
+  Independent
+  Adaptable
+  Resilient
+
+  COLOR PALETTE:
+  Black, charcoal gray, warm brown, beige, dark burgundy, muted olive green.
+
+  CHARACTER NOTES:
+  Finds beauty in small moments.
+  Believes in people and new ideas.
+  Turns emotions into creative work.
+  Always searching for what's next.
+  Sees the world from her own perspective.
+
+  DESIGN:
+  Luxury fashion editorial character sheet, premium magazine layout, warm beige background, elegant typography, clean professional grid, realistic studio photography, subtle shadows, cinematic soft lighting, natural skin texture, photorealistic, highly detailed, cohesive visual identity.
+
+  CRITICAL CONSISTENCY:
+  The SAME WOMAN must appear in every panel.
+  The uploaded reference photo is the ONLY source of truth for her face.
+  Do not change her facial identity between panels.
+  Do not copy the uploaded photo's clothing.
+  Keep the specified brown coat, black turtleneck, dark trousers, black loafers and black shoulder bag in every relevant panel.
+
+  Add tasteful editorial typography:
+  “CHARACTER SHEET”
+  “CREATIVE GIRL”
+  “Good Stories, Brighter People”
+
+  Make it look like a professional AI character reference sheet created for a film, fashion campaign, or visual storytelling project.

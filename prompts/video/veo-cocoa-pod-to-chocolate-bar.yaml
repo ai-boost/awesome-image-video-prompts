@@ -1,0 +1,93 @@
+id: veo-cocoa-pod-to-chocolate-bar
+title:
+  en: Cocoa pod transforming into a snapped chocolate bar
+  zh: 可可果变身为掰开的巧克力板
+model: Veo 3.1
+mode: text-to-video
+tags:
+- food
+- macro
+- commercial
+- json-prompt
+- storyboard
+source:
+  name: '@Fujimoto_hina on X'
+  url: https://x.com/Fujimoto_hina/status/2094803500488372359
+  credit: Aegon
+  likes: 81
+  captured: '2026-10-28'
+  posted: '2026-09-01'
+video: https://x.com/Fujimoto_hina/status/2094803500488372359
+notes:
+  en: A JSON storyboard splits ten seconds into five two second beats, each with its own shot type, action and physics cues, so the pod to bean to molten chocolate to bar transformation stays continuous. Global specs for lighting, depth of field and a negative prompt keep the macro look consistent.
+  zh: 用JSON分镜把十秒拆成五个两秒段落，每段写明镜头类型、动作和物理细节，让可可果到豆、巧克力液再到巧克力板的转变保持连贯。全局的光线、景深和负面提示词让微距质感前后一致。
+prompt: |
+  {
+    "commercial_specifications": {
+      "title": "From Cocoa Pod to Chocolate: Nature's Transformation",
+      "duration_seconds": 10,
+      "aspect_ratio": "16:9",
+      "resolution": "4K",
+      "style": "Cinematic photorealistic luxury food commercial",
+      "lighting": "Tropical golden-hour sunlight with rich cinematic contrast",
+      "depth_of_field": "Ultra-shallow depth of field with high-speed macro photography",
+      "audio_visual_notes": "No text, no logos, seamless transitions, hyper-realistic physics"
+    },
+
+    "storyboard_timeline": [
+      {
+        "timecode": "00:00 - 00:02",
+        "scene": "The Cocoa Pod",
+        "shot_type": "Slow cinematic macro push-in",
+        "action": "A ripe crimson-orange cocoa pod hangs from a tropical cocoa tree covered in tiny droplets after rainfall. A single droplet slides down the textured surface and falls in slow motion.",
+        "lighting_atmosphere": "Warm sunset rays piercing through dense green leaves, mist and sparkling water particles"
+      },
+
+      {
+        "timecode": "00:02 - 00:04",
+        "scene": "The Break",
+        "shot_type": "Rapid orbital macro shot",
+        "action": "The cocoa pod suddenly cracks open with a powerful but elegant split. White cocoa pulp and glossy cocoa beans burst outward and float weightlessly around the camera.",
+        "physics_effects": "Realistic fruit fibers, suspended droplets, slow-motion particle explosion"
+      },
+
+      {
+        "timecode": "00:04 - 00:06",
+        "scene": "The Transformation",
+        "shot_type": "高速 rotating macro tracking shot",
+        "action": "The floating cocoa beans rapidly darken and transform through a seamless visual time-lapse into perfectly roasted chocolate-brown beans. They swirl into a vortex and dissolve into thick, glossy molten chocolate.",
+        "visual_details": "Steam wisps, shimmering chocolate reflections, realistic viscosity and flowing liquid physics"
+      },
+
+      {
+        "timecode": "00:06 - 00:08",
+        "scene": "The Pour",
+        "shot_type": "Smooth continuous overhead-to-side tracking",
+        "action": "The molten chocolate pours in a perfect ribbon onto a polished marble surface, spreading naturally into a flawless glossy chocolate disc.",
+        "physics_effects": "Realistic liquid flow, surface tension, reflections and tiny chocolate ripples"
+      },
+
+      {
+        "timecode": "00:08 - 00:10",
+        "scene": "The Snap",
+        "shot_type": "Ultra-macro 1000fps slow motion",
+        "action": "The chocolate instantly hardens into an elegant chocolate bar. A hand gently lifts it and snaps it in half. The fracture reveals delicate layers and releases tiny chocolate crumbs into the air.",
+        "texture_focus": "Glossy tempered surface, sharp snap, realistic porous interior, microscopic chocolate fragments"
+      }
+    ],
+
+    "prompt_parameters": {
+      "camera": "Macro push-in to orbital tracking, aerial transition, continuous motion, ultra-high-speed slow motion",
+      "render_qualities": [
+        "Photorealistic cocoa textures",
+        "Luxury food advertising aesthetic",
+        "Cinematic tropical lighting",
+        "Realistic liquid chocolate physics",
+        "Seamless transformations",
+        "Natural motion blur",
+        "Extreme macro detail",
+        "Premium 4K commercial quality"
+      ],
+      "negative_prompt": "text, watermark, logo, packaging, cartoon, CGI appearance, plastic texture, unrealistic liquid, blurry details, distorted hands, jerky movement, abrupt cuts, artificial lighting, duplicated objects"
+    }
+  }

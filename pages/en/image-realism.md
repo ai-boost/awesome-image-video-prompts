@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 12 entries
+[Back to the list](../../README.md) · All 15 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine failed photos of any character
@@ -17,6 +17,275 @@ GPT Image 2.5 · Text-to-image · Source: [@DeepBlueX0 on X](https://x.com/DeepB
 
 ```text
 Vertical 3×3 failed photos × {Character}
+```
+
+</details>
+
+<a id="nano-banana-sunlit-smartphone-selfie-white-tee"></a>
+### Sunlit smartphone selfie of woman in white tee
+
+<a href="https://www.reddit.com/r/GeminiAI/comments/1x08axv/nano_banana_21_goes_crazy"><img src="../../previews/nano-banana-sunlit-smartphone-selfie-white-tee.jpg" width="360"></a>
+
+A structured JSON spec splits face, hair, clothing, lighting and camera into separate fields, so each detail is controlled on its own. Naming a 24 to 28mm phone lens, clipped HDR highlights and a long avoid list keeps the result casual instead of studio polished.
+
+Nano Banana 2.1 · Text-to-image · Source: [u/RIGHT200 on Reddit](https://www.reddit.com/r/GeminiAI/comments/1x08axv/nano_banana_21_goes_crazy) · 1,204 likes on 2026-10-28
+
+[`selfie`](tags.md#tag-selfie) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`json-prompt`](tags.md#tag-json-prompt) [`natural-light`](tags.md#tag-natural-light) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+
+"prompt_type": "detailed_image_reconstruction",
+
+"aspect_ratio": "16:9 horizontal portrait",
+
+"overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
+
+"subject": {
+
+"type": "young adult woman",
+
+"age_range": "early to mid 20s",
+
+"pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
+
+"body_position": "relaxed casual posture with shoulders slightly angled",
+
+"expression": "soft neutral expression with a subtle pout, calm and confident",
+
+"gaze": "looking directly toward the camera",
+
+"styling": "minimal everyday styling, clean and natural"
+
+},
+
+"face": {
+
+"shape": "soft oval face with a gently tapered jawline",
+
+"forehead": "medium-height forehead partly framed by center-parted hair",
+
+"eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
+
+"eyes": {
+
+"shape": "almond-shaped",
+
+"color": "light brown to hazel",
+
+"appearance": "bright eyes with visible catchlights",
+
+"lashes": "long defined eyelashes with subtle mascara"
+
+},
+
+"nose": "small straight nose with a softly rounded tip",
+
+"lips": {
+
+"shape": "full lips with a defined cupid's bow",
+
+"color": "natural rosy pink",
+
+"finish": "soft satin finish, not glossy"
+
+},
+
+"skin": {
+
+"tone": "light warm-neutral skin tone",
+
+"texture": "smooth natural skin with subtle pores and realistic tonal variation",
+
+"cheeks": "soft natural pink flush",
+
+"finish": "fresh luminous skin without heavy retouching"
+
+},
+
+"makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
+
+},
+
+"hair": {
+
+"color": "rich medium-to-dark chocolate brown",
+
+"length": "very long, extending well below the chest",
+
+"parting": "clean center part",
+
+"texture": "mostly straight with very soft natural bends through the lower lengths",
+
+"density": "thick and healthy-looking",
+
+"finish": "smooth and glossy but still realistic",
+
+"front_sections": "two thin face-framing strands falling naturally along both sides of the face",
+
+"details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
+
+"movement": "hair hanging naturally over both shoulders and down the front of the shirt"
+
+},
+
+"clothing": {
+
+"top": "oversized plain white crew-neck T-shirt",
+
+"fit": "loose casual fit",
+
+"fabric": "soft slightly wrinkled cotton",
+
+"logos": "none",
+
+"accessories": "no visible jewelry or prominent accessories"
+
+},
+
+"composition": {
+
+"shot_type": "close upper-body portrait",
+
+"camera_angle": "slightly above chest level, close to eye level",
+
+"camera_distance": "approximately arm's-length smartphone distance",
+
+"subject_position": "face slightly right of center with long hair occupying much of the lower frame",
+
+"crop": "top of head fully visible, image extending down to around lower torso",
+
+"orientation": "vertical",
+
+"perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
+
+},
+
+"lighting": {
+
+"primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
+
+"direction": "sunlight striking the subject from camera-left/front",
+
+"face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
+
+"hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
+
+"shadow_quality": "strong but soft-edged natural indoor shadows",
+
+"exposure": "face slightly brightly exposed while the room behind remains much darker",
+
+"color_temperature": "warm daylight"
+
+},
+
+"environment": {
+
+"location": "casual indoor residential room",
+
+"background": "dark gray walls with a white ceiling cornice",
+
+"left_background": "open doorway or darker hallway area",
+
+"right_background": "dark wall and partially visible household objects",
+
+"lower_right": "part of a black tripod or light stand visible",
+
+"overall_feel": "ordinary lived-in room rather than a studio",
+
+"depth": "background moderately out of focus but still recognizable"
+
+},
+
+"camera": {
+
+"capture_device": "modern smartphone camera",
+
+"lens_equivalent": "approximately 24-28mm full-frame equivalent",
+
+"focus": "sharp focus on face and front hair",
+
+"depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
+
+"dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
+
+"image_character": "casual social-media selfie/photo, not professionally staged"
+
+},
+
+"photorealism_details": [
+
+"real individual hair strands",
+
+"natural skin pores and micro-texture",
+
+"subtle peach fuzz",
+
+"realistic eyelash separation",
+
+"tiny variations in lip texture",
+
+"slight fabric creases in the T-shirt",
+
+"small flyaway hairs around the crown",
+
+"natural sunlight falloff across the face",
+
+"slightly imperfect casual framing",
+
+"realistic indoor shadow noise"
+
+],
+
+"style": {
+
+"visual_style": "highly photorealistic casual smartphone portrait",
+
+"mood": "soft, youthful, relaxed, sunlit",
+
+"processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
+
+"avoid": [
+
+"cinematic movie lighting",
+
+"studio portrait lighting",
+
+"overly smooth plastic skin",
+
+"CGI appearance",
+
+"anime or illustration",
+
+"heavy beauty filter",
+
+"extreme facial symmetry",
+
+"over-sharpened hair",
+
+"artificial jet-black hair",
+
+"dramatic makeup",
+
+"excessive background blur",
+
+"professional studio backdrop",
+
+"text",
+
+"watermarks",
+
+"logos"
+
+]
+
+},
+
+"negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
+
+}
 ```
 
 </details>
@@ -80,6 +349,25 @@ I said it to write like einstein it did it without reference < i did not give im
 left side is AI and right side is real photo from reddit to compare
 
 Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
+```
+
+</details>
+
+<a id="nano-banana-monstera-leaf-hidden-words"></a>
+### Monstera leaf gaps forming hidden words
+
+<a href="https://x.com/fofrAI/status/2107509669514113058"><img src="../../previews/nano-banana-monstera-leaf-hidden-words.jpg" width="360"></a>
+
+The prompt names one real object and asks for the text to emerge organically from its natural features, so the lettering follows the leaf's own cut-outs instead of sitting on top. A simple backdrop keeps the gaps readable as letterforms.
+
+Nano Banana 2.1 · Text-to-image · Source: [@fofrAI on X](https://x.com/fofrAI/status/2107509669514113058) · 549 likes on 2026-10-28
+
+[`text-in-image`](tags.md#tag-text-in-image) [`monstera`](tags.md#tag-monstera) [`nature`](tags.md#tag-nature) [`typography`](tags.md#tag-typography) [`photo`](tags.md#tag-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A photo of a monstera leaf against a simple backdrop, cleverly and organically appearing within the natural gaps of the leaf are the words Nano Banana
 ```
 
 </details>
@@ -399,6 +687,25 @@ REFLECTION: sky, sun, tree and skyline all mirror downward into that marbled sur
 PALETTE: pure black, apricot, amber gold, burnt orange, smoky grey, chalk white, glacier green, tan. Sharp silhouette edges against soft glow, high dynamic range, clean and unmarked.
 
 text, watermark, logo, signature, artist signature, handwritten signature, initials, monogram, date, stamp, seal, lettering of any kind, any words, digits, frame, border, picture frame, mat, bevel, molding, plaque, rectangular outline, painting, illustration, oil painting, impasto, watercolor, colored pencil, airbrush, digital art, cartoon, anime, chibi, flat 2d vector, blurry, soft focus, noisy grain, neon, fluorescent, oversaturated greens, blue midday sky, sunrise pink, purple sky, night, moon, stars, clouds covering the sun, rain, storm, lightning, snow falling, second tree, forest, multiple trees, leaves visible on tree with colour, lit windows on buildings, people, faces, birds, animals, deer, boat, ship, dock, bridge, road, cars, traffic, streetlamps, palm trees, mountains, desert, ocean waves, beach, sun cut off, tree cut off, off-centre tree, asymmetric composition
+```
+
+</details>
+
+<a id="gpt-image-robot-chef-futuristic-kitchen-tray"></a>
+### Silver robot chef holding a tray in neon kitchen
+
+<a href="https://x.com/Adnan_Ai2/status/2102217167458754843"><img src="../../previews/gpt-image-robot-chef-futuristic-kitchen-tray.jpg" width="360"></a>
+
+The prompt lists the robot's parts in order (silver body, mechanical joints, cyan eyes, ear components), then the pose and gaze, then the kitchen. Cyan neon is paired with warm cinematic light, and steam, reflections and depth of field add realism. The 9:16 ratio is stated at the end.
+
+GPT Image 2.5 · Text-to-image · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/status/2102217167458754843) · 58 likes on 2026-10-28
+
+[`robot`](tags.md#tag-robot) [`futuristic`](tags.md#tag-futuristic) [`kitchen`](tags.md#tag-kitchen) [`cinematic`](tags.md#tag-cinematic) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A highly realistic humanoid futuristic robot chef standing inside a premium futuristic restaurant kitchen. The robot has a sleek silver metallic body with detailed mechanical joints and realistic humanoid proportions. It has glowing cyan-blue eyes, circular futuristic ear components, a metallic face and neck, and an advanced sophisticated robotic design. The robot is holding a large white serving tray with both hands and looking slightly toward the left with a calm and helpful expression. The background features a stainless-steel futuristic kitchen with modern cooking equipment, metallic countertops, ovens, and ventilation systems. Cyan neon accent lights illuminate the kitchen, combined with warm cinematic lighting. Realistic metallic reflections, subtle steam rising in the background, highly detailed mechanical textures, photorealistic 3D rendering, cinematic composition, ultra-realistic, 4K quality, sharp details, natural depth of field, vertical 9:16 composition.
 ```
 
 </details>

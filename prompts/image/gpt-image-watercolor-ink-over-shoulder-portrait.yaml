@@ -1,0 +1,79 @@
+id: gpt-image-watercolor-ink-over-shoulder-portrait
+title:
+  en: Watercolor ink portrait looking over shoulder
+  zh: 回眸水彩墨线肖像
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- ink
+- portrait
+- selfie
+- splatter
+source:
+  name: '@Kubra_286 on X'
+  url: https://x.com/Kubra_286/status/2100063240105435328
+  credit: Kubra Ai
+  likes: 187
+  captured: '2026-10-28'
+  posted: '2026-09-16'
+notes:
+  en: Locks pose, rendering style and a warm left to cool right color split in separate labeled blocks, so the model keeps the identity while the watercolor behavior stays controlled. Specific cues like wet-on-wet blending, splatter, vertical drips and cold-press paper grain give the hybrid ink and wash look.
+  zh: 分块锁定姿势、画风以及左暖右冷的色彩分区，在保留人物面部特征的同时让水彩效果可控。湿画法晕染、飞溅、垂直流淌和冷压纸纹理等具体描述造就了墨线与水彩混合的质感。
+prompt: |
+  Use the uploaded image ONLY for face and identity reference. Do not change facial structure, proportions, or realism.
+
+  Create a high-detail mixed-media watercolor portrait of a woman with POSE STRICTLY LOCKED:
+  Three-quarter view from back
+  Upper body slightly turned away from camera
+  Head turned back over shoulder toward viewer
+  Direct eye contact
+  Frame includes head, neck, and partial shoulder
+  Composition tightly cropped (portrait focus)
+
+  Expression (IMPORTANT):
+  Calm yet emotionally intense, soft but piercing gaze, slightly parted lips, natural subtle tension in face — no exaggerated emotion.
+
+  Rendering Style (LOCKED)
+  Watercolor + ink hybrid illustration
+  Soft fluid washes + sharp ink linework
+  Fine dark lines defining eyes, nose, lips, jawline
+  No painterly blur, no oil painting effect
+
+  Color & Lighting (STRUCTURED)
+  Strong split color contrast:
+  Left side → warm (yellow, orange, magenta)
+  Right side → cool (blue, cyan, violet)
+  Abstract light from upper-left (represented as color bursts, not realistic light)
+  Skin tones blend naturally with watercolor pigments (not flat coloring)
+
+  Watercolor Behavior (VERY IMPORTANT)
+  Wet-on-wet blending on face and skin
+  Visible paint splashes around subject
+  Controlled splatter and ink drops
+  Subtle vertical drips (especially lower area)
+  Organic color blooms and pigment edges
+  Colors slightly bleed beyond edges (natural watercolor feel)
+
+  Hair (MATCH STYLE)
+  Loose tied or messy bun
+  Wispy strands around face
+  Hair absorbs surrounding colors (blue, purple, warm highlights)
+  Slight motion feel, not static
+
+  Background
+  Clean white base
+  Dynamic watercolor splashes behind subject (not random — composition-aware)
+  No clutter, no objects
+
+  Texture
+  Visible cold-press watercolor paper grain
+  Slight rough pigment edges
+  Natural watercolor imperfections preserved
+
+  Style: expressive watercolor + ink illustration
+
+  Mood: artistic, soulful, emotionally engaging
+
+  Aspect ratio: 4:5

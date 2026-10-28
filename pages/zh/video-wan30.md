@@ -1,6 +1,6 @@
 # Wan 3.0
 
-[返回目录](../../README_zh.md) · 全部 17 条
+[返回目录](../../README_zh.md) · 全部 18 条
 
 <a id="wan-fashion-face-closeup-flash-orbit"></a>
 ### 带抓拍闪光的超近景时尚人像
@@ -1454,6 +1454,37 @@ Respect for the combat but no mercy. Dark and gritty. The master is unstoppable.
 — Action escalates then peaks
 — Master's superiority clear
 — Realistic brutal combat
+```
+
+</details>
+
+<a id="wan-everyday-worldbuilding-vignette"></a>
+### 安静卧室里熟睡的猫耳女孩
+
+<a href="https://x.com/aimikoda/status/2104946617937727524"><img src="../../previews/wan-everyday-worldbuilding-vignette.jpg" width="360"></a>
+
+以角色参考图为起点，扩展为19个简短的观察式镜头，由角色设计推断其身份与世界观。镜头固定为28到40mm肩扛手持风格，只保留干净的现场环境音。换模型或缩短时长时可减少镜头数量。
+
+Wan 3.0 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2104946617937727524) · 88 赞，统计于 2026-10-28
+
+[`worldbuilding`](tags.md#tag-worldbuilding) [`anime`](tags.md#tag-anime) [`multi-shot`](tags.md#tag-multi-shot) [`handheld`](tags.md#tag-handheld) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an everyday worldbuilding vignette built from 19 short cuts following the character from @[character reference] through ordinary moments in their world. Preserve the character’s identity, visual style and overall design. Keep everything consistent.
+
+Infer the character’s role, status, daily routine, environment, social context and relationship to the world from their design. Use the character as a guide through the setting, revealing how this world functions through ordinary lived experience rather than exposition or major plot events.
+
+Do not build one large dramatic plot. Each cut should feel like a small observational moment that adds another layer of understanding to the setting. The character does not need to be the center of attention at all times. The surrounding world should feel active, inhabited and specific.
+
+Preserve the character’s moral alignment, temperament and social presence. A villain should still feel unsettling or feared within ordinary life. A heroic or gentle character should reveal that nature just as subtly. Do not force wholesomeness, redemption or spectacle.
+
+Use objective third-person observational cinematography with restrained shoulder-mounted handheld movement and natural 28–40mm lens language. No POV, no camera acknowledgment, no vlog framing, no surveillance style, no gimbal movement, cranes or drones. Keep the camera detached and readable with subtle micro-jitter, shoulder drift, soft focus breathing, delayed reframing and brief reactive pans.
+
+Keep the piece grounded, lived-in and atmospheric. Favor environmental storytelling, social texture, routine behavior and cultural detail over exposition.
+
+Use only clean diegetic location sound. No dialogue, narration, BGM, subtitles or title cards.
 ```
 
 </details>

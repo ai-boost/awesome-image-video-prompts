@@ -1,0 +1,25 @@
+id: gpt-image-scrapbook-collage-identity-reference
+title:
+  en: Warm scrapbook collage of one person in frames
+  zh: 同一人物的暖色手帐风相框拼贴
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- scrapbook
+- collage
+- identity-consistency
+- doodle
+- lifestyle
+source:
+  name: '@Adnan_Ai2 on X'
+  url: https://x.com/Adnan_Ai2/status/2103431738349502591
+  credit: Adnan
+  likes: 57
+  captured: '2026-10-28'
+  posted: '2026-09-25'
+notes:
+  en: Names the reference identity and fixed clothing so they hold across every frame. A large central portrait is surrounded by six frames, each with its own action. The prompt then lists the handwritten doodle phrases, a warm beige wall and lighting, and closes with anatomy negatives.
+  zh: 先锁定参考图中的人物身份与固定服装，保证每个相框一致。画面是一张大的中心肖像加六个各带不同动作的相框，再列出手写涂鸦短语、暖米色墙面与灯光，最后用解剖结构负面词收尾。
+prompt: |
+  Create the same warm scrapbook-style collage, but featuring the exact same boy from the reference image. Keep his facial identity, short brown hair, light beard, dark navy jacket, white T-shirt, light blue jeans and white sneakers consistent in every frame. Place a large central portrait of him sitting casually and smiling on a cozy sofa, surrounded by six rustic wooden picture frames showing different actions: waving hello, drinking coffee from a “Good Vibes” mug, giving a thumbs-up, thinking with one hand on his chin, smiling confidently, and looking back over his shoulder. Use the same warm beige textured wall, cozy indoor background, plants, soft lamps and natural lifestyle atmosphere. Add hand-drawn black doodles, hearts and stars with handwritten phrases such as “Smile More,” “Just Being Me,” “Coffee Time,” “Work Hard Dream Big,” “Spread Love,” “Good Vibes Only,” “You Got This,” and “Same Boy Bigger Dreams.” Maintain consistent identity across every frame, realistic hands, natural expressions, detailed hair and clothing, warm cinematic lighting, professional photography, clean composition, ultra-realistic 4K, no distorted anatomy, no extra fingers or duplicated body parts.

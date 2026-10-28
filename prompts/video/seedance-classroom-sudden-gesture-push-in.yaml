@@ -1,0 +1,33 @@
+id: seedance-classroom-sudden-gesture-push-in
+title:
+  en: Classroom students react to a sudden gesture
+  zh: 课堂上同学们对突然的手势作出反应
+model: Seedance 2.5
+mode: image-to-video
+tags:
+- classroom
+- cinematic
+- push-in
+- slow-motion
+- reaction-shot
+source:
+  name: u/Independent-Date393 on Reddit
+  url: https://www.reddit.com/r/Seedance_AI/comments/1x6t7ph/an_8second_classroom_drama_made_with_seedance_25
+  credit: Independent-Date393
+  likes: 558
+  captured: '2026-10-28'
+  posted: '2026-10-15'
+video: https://www.reddit.com/r/Seedance_AI/comments/1x6t7ph/an_8second_classroom_drama_made_with_seedance_25
+notes:
+  en: Anchors the first frame with a reference image and a preserve clause for characters, clothing, layout and starting positions. It then describes one action with staggered background reactions, a single slow push-in and a brief slow motion beat.
+  zh: 用参考图锁定首帧,并写明保持人物、服装、布局和起始位置不变。随后只描写一个主动作,配合背景人物的延迟反应、一次缓慢推镜和短暂慢动作。
+prompt: |
+  Create an 8-second cinematic video using the reference image. Preserve the characters, clothing, classroom layout, and starting positions.
+
+  A female student in a dark blue blazer suddenly extends her arm toward a male student seated on a wooden chair. He leans forward in surprise. Nearby students notice the movement and exchange nervous looks, reacting with slight delays.
+
+  Warm sunlight enters through large windows, revealing drifting dust above desks scattered with books and notebooks.
+
+  Use one slow camera push-in, natural movement, restrained facial expressions, and a brief moment of subtle slow motion during the gesture. Maintain consistent anatomy, lighting, and spatial relationships.
+
+  Realistic cinematic photography, 16:9 widescreen, 4K where supported. No text or watermark.

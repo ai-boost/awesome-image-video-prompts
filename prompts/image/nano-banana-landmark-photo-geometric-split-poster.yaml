@@ -1,0 +1,33 @@
+id: nano-banana-landmark-photo-geometric-split-poster
+title:
+  en: Landmark photo above, geometric illustration below
+  zh: 上方地标实拍,下方几何插画的双联海报
+model: Nano Banana 2.1
+mode: image-edit
+category: poster
+tags:
+- landmark
+- split-poster
+- geometric
+- screen-print
+- photo-to-illustration
+source:
+  name: u/Few-Profession421 on Reddit
+  url: https://www.reddit.com/r/GeminiAI/comments/1x97v1p/turn_landmark_photos_into_geometric_architecture
+  credit: Few-Profession421
+  likes: 101
+  captured: '2026-10-28'
+  posted: '2026-10-18'
+notes:
+  en: The canvas is split into two exactly equal halves, with the top kept as a faithful photograph and the bottom redrawn from a few large shapes. Aligning towers and rooflines across the dividing line keeps the landmark recognizable in both halves.
+  zh: 画面严格对半分割,上半保留真实照片,下半用少量大色块重绘。跨分界线对齐塔楼和屋顶线,让两半都能认出同一座地标。
+prompt: |
+  Using the uploaded photograph of [LANDMARK], [CITY], [COUNTRY], create one premium 3:4 vertical editorial poster.
+  Divide the canvas into two exactly equal horizontal halves with a straight central boundary.
+  Top 50% — Photography
+  Preserve the landmark’s identity, proportions, materials, perspective, surroundings, and natural lighting. Apply restrained editorial color grading. Extend the environment only if necessary; never stretch, distort, or redesign the building.
+  Bottom 50% — Geometric illustration
+  Reinterpret the same landmark using a few large, cohesive rectangles, circles, triangles, arches, and layered planes. Preserve its distinctive silhouette and structural rhythm. Avoid tiny fragments and generic building symbols.
+  Use a restrained palette drawn from the photograph, with subtle paper grain, matte surfaces, and delicate screen-print texture.
+  Keep the viewing angle consistent between both halves. Where possible, align signature towers, rooflines, or dominant verticals across the division. Balance the composition with generous negative space.
+  No text, numbers, logos, watermarks, borders, added flags, unrelated landmarks, or multiple-photo collages. Output one complete standalone poster.

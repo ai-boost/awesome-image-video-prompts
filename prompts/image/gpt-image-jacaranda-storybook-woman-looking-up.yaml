@@ -1,0 +1,31 @@
+id: gpt-image-jacaranda-storybook-woman-looking-up
+title:
+  en: Woman Under Blooming Jacaranda Storybook Painting
+  zh: 盛开蓝花楹下的绘本风女子插画
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- illustration
+- storybook
+- painterly
+- vibrant-palette
+- portrait-9-16
+source:
+  name: '@hey_am_cherry on X'
+  url: https://x.com/hey_am_cherry/status/2110952509217140779
+  credit: Cherry
+  likes: 92
+  captured: '2026-10-28'
+  posted: '2026-10-16'
+notes:
+  en: The prompt fixes the composition with explicit placement, with the woman lower right, branches sweeping diagonally and the canopy filling the upper third. It also names a complementary palette of violet, turquoise and coral, and adds a negative prompt to keep the image painterly rather than photoreal.
+  zh: 提示词明确指定构图位置，人物在右下、枝干斜向展开、树冠占上三分之一，并点明紫、青绿、珊瑚红的互补配色。再用负面提示词排除照片感和3D渲染，保持手绘质感。
+prompt: |
+  {
+    "prompt": "Create a beautiful vertical 9:16 digital painting in a vibrant, expressive storybook illustration style. A young woman with a short dark bob haircut stands in the lower-right portion of the composition, peacefully looking upward at a magnificent flowering jacaranda tree. The enormous dark branches sweep diagonally across the upper half of the image, covered in clusters of vivid violet, electric purple, and magenta blossoms. Tiny purple petals float gently through the air. The woman wears a flowing coral-red coat, a bright turquoise scarf, dark plum leggings, and elegant black ankle boots. A small mustard-yellow shoulder bag adds a warm accent. The background features a rich turquoise-blue sky blending into soft lavender mountains, with subtle painterly textures and a few delicate wildflowers along the ground. Use a bold, highly saturated color palette with striking contrasts between violet flowers, turquoise surroundings, coral clothing, and golden highlights. Artistic hand-painted brushstrokes, delicate ink outlines, textured paper finish, atmospheric depth, beautiful natural lighting, poetic and peaceful mood. The tree canopy fills the upper third and spreads across the frame, while generous open space in the middle emphasizes the woman and creates a balanced composition. Full-body character visible, elegant natural pose, visually rich details, polished high-quality illustration, beautiful color harmony, 9:16 portrait composition.",
+    "negative_prompt": "photorealistic, 3D render, dull colors, washed-out palette, blurry details, low resolution, distorted anatomy, extra limbs, extra fingers, malformed hands, duplicate people, oversized head, cropped feet, cut-off body, text, watermark, logo, copied composition, yellow autumn leaves, orange trench coat, plain empty background",
+    "aspect_ratio": "9:16",
+    "style": "vibrant painterly storybook illustration",
+    "quality": "high"
+  }

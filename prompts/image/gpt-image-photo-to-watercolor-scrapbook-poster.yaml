@@ -1,0 +1,33 @@
+id: gpt-image-photo-to-watercolor-scrapbook-poster
+title:
+  en: Photo paired with watercolor painting on cream scrapbook poster
+  zh: 奶油色手账海报上的照片与水彩画对照
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- scrapbook
+- photo-reference
+- poster
+- handmade-paper
+source:
+  name: '@Alina_with_Ai on X'
+  url: https://x.com/Alina_with_Ai/status/2102714815793992093
+  credit: Alina Ai
+  likes: 157
+  captured: '2026-10-28'
+  posted: '2026-09-23'
+notes:
+  en: The prompt stacks a realistic copy of the uploaded photo above a watercolor repaint of the same scene, and lists identity, outfit and pose to keep consistent. Paper texture, splatter, edge and caption details give the layout an editorial scrapbook finish.
+  zh: 提示词把上传照片的写实版放在上方,下方用水彩重绘同一场景,并逐项列出需要保持一致的人物身份、服装和姿势。纸张质感、泼溅、边缘和手写题字等细节让版面有编辑感手账风格。
+prompt: |
+  Create a vertical scrapbook-style artistic poster using the uploaded photo as the exact reference. Keep the woman’s identity, facial features, hairstyle, pink button-up shirt, light blue wide-leg jeans, white sneakers, pose, proportions, and outfit consistent.
+
+  The poster is printed on textured warm ivory watercolor paper. At the top, place a clean, realistic version of the original photograph, showing the woman casually leaning against a terrace railing with one hand resting on the railing and the other in her pocket. Preserve the scenic lake, distant mountains, hillside houses, tall trees, warm sunlight, stone terrace, and vibrant pink bougainvillea.
+
+  Below the photo, create a beautiful hand-painted watercolor version of the exact same scene and pose, with soft blue mountain washes, a calm lake, warm beige architecture, green trees, pink flowers, delicate paper texture, natural watercolor bleeding, visible brush strokes, subtle paint splatters, and irregular artistic edges. Make the watercolor version clearly recognizable as the same woman and location.
+
+  Leave generous cream-colored paper space around both images for a premium editorial scrapbook aesthetic. Add elegant handwritten-style text underneath: “sunny days”, with a thin decorative line and a tiny heart beneath it.
+
+  Soft natural color palette, cozy travel-journal aesthetic, realistic photo + delicate watercolor illustration, sophisticated composition, high detail, subtle film grain, authentic handmade paper texture, balanced spacing, clean vertical 4:5 composition, Pinterest/Instagram editorial aesthetic, photorealistic upper image and artistic watercolor lower image.

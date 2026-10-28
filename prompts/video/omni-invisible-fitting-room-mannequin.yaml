@@ -1,0 +1,25 @@
+id: omni-invisible-fitting-room-mannequin
+title:
+  en: Mannequin dressed by invisible hands in four outfits
+  zh: 无形之手为人台依次换上四套造型
+model: Gemini Omni Flash
+mode: image-to-video
+tags:
+- fashion
+- mannequin
+- cloth-physics
+- storyboard
+- vertical
+source:
+  name: '@KrevixAi on X'
+  url: https://x.com/KrevixAi/status/2101361197400387598
+  credit: KreviX
+  likes: 127
+  captured: '2026-10-28'
+  posted: '2026-09-19'
+video: https://x.com/KrevixAi/status/2101361197400387598
+notes:
+  en: A locked frontal camera and a timed breakdown by second give each outfit its own beat. Explicit bans on magic, glow and morphing keep the cloth physics real. The ending, where a jacket covers the lens and cuts to black, closes the loop.
+  zh: 固定正面机位加按秒拆分的时间轴，让每套造型各占一个节拍。明确禁止魔法、发光和变形，布料物理才显得真实。结尾外套遮住镜头转黑，画面首尾闭环。
+prompt: |
+  Create a 10-second ultra-photorealistic premium fashion video “INVISIBLE FITTING ROOM”, 9:16. One locked frontal camera, black seamless studio. Same tall muscular matte-white faceless male mannequin centered full-body, initially wearing only fitted black shorts. Female hands in long matte-black gloves remotely dress him without touching. No magic, glow, portals, particles or morphing; realistic cloth physics, gravity and inertia. 0–2s: espresso oversized shirt + caramel wide trousers + brown loafers fly in and physically dress him; mannequin strikes an editorial pose, then one sharp hand swipe pulls the outfit off and it falls to the floor. 2–4s: cognac leather jacket + cream knit + dark-chocolate trousers + boots fly in; mannequin takes a strong pose, then both hands pull the outfit away and garments fall beside the first look. 4–6s: cream turtleneck + coffee trousers + long mocha coat assemble onto him; coat rotates naturally around his body, he poses, then a wide swipe removes everything onto the growing clothing pile. 6–8.5s: final luxury outfit assembles layer by layer: ivory silk shirt, espresso tailored trousers, burnt-orange waistcoat, long dark-chocolate jacket, cognac shoes, tie and gold brooch. Precise hand gestures remotely tailor waist, shoulders, lapels and cuffs with realistic fabric tension. 8.5–9.2s: mannequin holds a powerful final fashion pose surrounded by discarded clothes. 9.2–10s: female hand reaches forward; mannequin physically takes her hand and walks confidently toward the fixed camera until his jacket naturally covers the lens → black. Premium coffee palette, burnt-orange accent, cinematic rim lighting, realistic silk, leather, cashmere and wool, seamless continuity.

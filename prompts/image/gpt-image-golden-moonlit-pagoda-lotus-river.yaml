@@ -1,0 +1,58 @@
+id: gpt-image-golden-moonlit-pagoda-lotus-river
+title:
+  en: Golden Pagoda and Lotus River Under Moon
+  zh: 满月下的金色宝塔与莲花河
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- night-landscape
+- pagoda
+- gold-on-black
+- lotus
+- poster
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2101030587478007880
+  credit: Viki
+  likes: 196
+  captured: '2026-10-28'
+  posted: '2026-09-18'
+notes:
+  en: The prompt is split into labeled sections (environment, lighting, materials, composition, mood) with explicit avoid lists. A strict gold on black palette and a vertical 4:5 frame keep the poster look consistent.
+  zh: 提示词按环境、光照、材质、构图、氛围分段，并附明确的排除项。严格的黑金配色和 4:5 竖构图让海报风格保持统一。
+prompt: |
+  A highly detailed stylized nightscape illustration in a luxury editorial poster aesthetic, rendered with crisp linework and glowing contrast against a deep black background. The scene centers on a luminous golden moon rising behind layered mountain silhouettes, with a refined Japanese pagoda beside a reflective stream, all bathed in warm amber, cream, and muted blue-gray tones.
+  Environment:
+  • A serene landscape with a large full moon dominating the upper center background
+  • Dark, layered mountain ranges stretching across the horizon, with elegant contour lines and subtle highlights
+  • A multi-tier pagoda positioned right of center, perched on rocky ground beside the water, with curved rooflines and softly glowing windows
+  • A winding reflective stream running from the midground toward the foreground center, creating a bright path of moonlit reflection
+  • Lotus flowers and tall grasses framing both sides of the foreground, especially clustered at lower left and lower right
+  • Stylized cloud bands passing horizontally across the moon, with small stars and a few tiny bird silhouettes in the sky
+  • Additional small architectural detail faintly visible in the midground left near the water
+  • Avoid modern elements, clutter, heavy realism, or dense texture noise
+  Lighting:
+  • Strong moon backlight from the large central moon, creating a radiant halo and soft atmospheric glow
+  • Warm internal glow within the pagoda, contrasting with the cool darkness of the mountains and sky
+  • Gentle highlights along roof edges, flower petals, rocks, and water ripples
+  • Reflections in the stream should be luminous and controlled, not mirror-sharp
+  • No harsh shadows, no blown-out moon detail, no flat unlit foreground
+  Materials:
+  • Smooth ink-like black negative space with metallic gold and ivory highlights
+  • Pagoda surfaces with polished wood-like warmth and fine architectural edging
+  • Water rendered with silky reflective lines and soft layered shimmer
+  • Flowers with delicate satin-like petals and softly glowing centers
+  • Rocky terrain in matte charcoal with clean stylized edge lighting
+  Composition:
+  • Vertical poster composition, centered around the moon and water reflection axis
+  • Pagoda occupying the right midground as the hero structure, balanced by floral masses on both sides
+  • Mountains layered behind the pagoda to create depth without overwhelming the moon
+  • Strong use of negative space around the upper sky and outer edges for dramatic contrast
+  • Hero elements fill most of the frame with a symmetrical visual rhythm, though not perfectly mirrored
+  Mood:
+  Quiet, majestic, dreamlike, and elegant with a tranquil nocturnal fantasy atmosphere
+  Ultra-detailed digital illustration, sharp ornamental linework, high contrast, vertical 4:5 composition, glowing gold-on-black palette, polished cinematic finish.
+
+  🏞 Prompt 3:
+  A serene Japanese landscape bathed in the warm glow of a large, luminous full moon. A multi-tiered pagoda, adorned with intricate golden details and traditional roofing, stands majestically on a rocky outcrop. It is surrounded by lush, golden-hued foliage and large, delicate lotus flowers in shades of cream and soft orange. A tranquil river, reflecting the moonlight and surrounding scenery, gently flows through the foreground. Jagged, dark mountains form the backdrop, silhouetted against the vibrant sky. The atmosphere is mystical and peaceful, with a hint of ancient grandeur. The color palette is dominated by deep blacks, contrasting with bright yellows, golds, and soft oranges, creating a striking visual. The composition is framed by darkness, emphasizing the illuminated central elements, with a low-angle perspective drawing the viewer into the scene. The style is reminiscent of traditional Japanese ink paintings with a touch of fantasy illustration, featuring smooth textures and dramatic lighting.

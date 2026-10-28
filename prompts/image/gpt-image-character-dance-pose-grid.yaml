@@ -1,0 +1,59 @@
+id: gpt-image-character-dance-pose-grid
+title:
+  en: Sixteen Dance Poses of a Bunny Hat Girl
+  zh: 兔耳帽少女的十六个舞蹈姿势
+model: GPT Image 2.5
+mode: image-edit
+category: illustration
+tags:
+- character-sheet
+- dance
+- pose-grid
+- anime
+- seedance-reference
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2098050289819652321
+  credit: Kiki
+  likes: 283
+  captured: '2026-10-28'
+  posted: '2026-09-10'
+notes:
+  en: The prompt asks the model to read the character's personality and invent a matching dance vocabulary, then fixes a strict 4×4 numbered grid with one camera distance and white backgrounds. Explicit identity locks and an avoid list keep outfit and proportions consistent across all 16 panels.
+  zh: 提示词先让模型解读角色性格并据此编排舞蹈动作，再用严格的 4×4 编号网格、固定机位和白底统一版式。身份锁定和禁止项清单让 16 格里的服装与比例保持一致。
+prompt: |
+  Create a single square image featuring a 4×4 grid of 16 unique full-body dance poses based on the uploaded character.
+
+  CHARACTER-DRIVEN CHOREOGRAPHY
+  First, visually interpret the character’s personality and aesthetic through their expression, silhouette, outfit, accessories, proportions, and overall visual style. Use this interpretation to invent a personalized dance vocabulary that feels natural and distinctive to THIS character.
+
+  Do not apply a generic dance routine or a predetermined list of poses. Let the character’s attitude determine the rhythm, energy, gestures, posture, footwork, and use of space.
+
+  For example, a mischievous character might use cheeky gestures, unexpected weight shifts, and playful hops; a reserved character might favor controlled steps and subtle hand movements; a bold character might use grounded footwork and sharp accents; an ethereal character might move through soft curves and floating transitions. These are illustrative possibilities, not required categories or moves. Combine traits when the design suggests a more nuanced personality.
+
+  Develop a recognizable movement motif unique to this character and reinterpret it across several panels without repeating the same pose. Incorporate distinctive design features naturally: flowing sleeves may follow sweeping gestures, heavy boots may inspire grounded steps, and a tail or wings may contribute to balance and expression if present. Do not invent accessories or anatomy.
+
+  Make the result feel like this character is expressing themselves through dance, rather than performing an interchangeable pose pack. Keep the movement appropriate to the character’s apparent age, anatomy, clothing, and mobility.
+
+  SEQUENCE AND VARIETY
+  Show 16 distinct key poses from one cohesive, character-specific dance phrase, read left to right and top to bottom. Build a natural progression from an opening gesture through variations and a climax to a signature finish.
+
+  Include meaningful variation in silhouette, arm placement, footwork, body orientation, and movement level only where it suits the character. Do not force jumps, squats, exaggerated expressions, or dramatic poses onto a character whose personality calls for restraint. Even subtle choreography should produce clearly distinguishable poses.
+
+  Maintain believable balance and natural joints. Use facial expressions, head tilts, hands, and posture to reinforce the same personality throughout. Hair, clothing, and accessories should react naturally to movement.
+
+  IDENTITY AND STYLE
+  Preserve the uploaded character’s identity exactly: face, hairstyle, body proportions, outfit, colors, footwear, and accessories. Maintain the reference image’s rendering style throughout all 16 panels. Do not redesign, recolor, or change costumes. Infer any unseen details conservatively and keep them consistent.
+
+  GRID AND PRESENTATION
+  Exactly four rows and four columns, with 16 equally sized square panels separated by thin black lines. Plain white backgrounds and subtle grounding shadows. Number the panels 1–16 in the upper-left corners.
+
+  One full-body character per panel, including all extremities and accessories, with comfortable margins. Consistent character scale, camera distance, lighting, and ground level. Use a fixed eye-level camera; different views should result from the character turning.
+
+  If a separate dance-grid reference is provided, use it only for the grid layout and presentation. Do not copy its character, outfit, dance poses, or attitude. The uploaded character must determine the choreography.
+
+  OUTPUT
+  A polished dance reference sheet with strong character identity and 16 individually readable poses. Output only the image, without written analysis.
+
+  AVOID
+  Generic choreography, copied reference poses, repetitive or mirrored duplicates, personality mismatches, forced cuteness or swagger, inconsistent identity, altered outfits, cropped extremities, extra limbs, distorted anatomy, motion trails, missing or extra panels, and text other than panel numbers.

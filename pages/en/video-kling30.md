@@ -1,6 +1,6 @@
 # Kling 3.0
 
-[Back to the list](../../README.md) · All 27 entries
+[Back to the list](../../README.md) · All 28 entries
 
 <a id="kling-vintage-watch-macro"></a>
 ### Macro shot of a vintage wristwatch between fingers
@@ -332,6 +332,27 @@ Try it with prompt : High-octane, hyper-realistic fashion sequence in the style 
 •Shot 7 (12-14s): Shaky handheld tracking shot following her final dramatic pose as camera flashes erupt around her.
 •Shot 8 (14-15s): Hard cut to black with a lingering burst of camera flashes fading into darkness.
 Raw documentary-style camera textures, organic lens flares, lifelike physics, authentic fashion motion blur, realistic skin texture, natural crowd movement, and a glamorous sense of celebrity spectacle. Ultra-detailed, 4k resolution.
+```
+
+</details>
+
+<a id="kling-rainy-alley-armored-vehicle-chase"></a>
+### Bearded hero sprints from exploding armored vehicle in rain
+
+<a href="https://x.com/iamrealsnow/status/2104788524310688210"><img src="../../previews/kling-rainy-alley-armored-vehicle-chase.jpg" width="360"></a>
+
+The prompt splits seven seconds into timed beats, each with its own camera move: backward tracking, a slide and roll, a whip pan, then a push in. A closing list of motion and lighting terms and explicit negatives such as no slow motion and no static shots keeps the pacing aggressive.
+
+Kling 3.0 · Text-to-video · Source: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2104788524310688210) · 89 likes on 2026-10-28
+
+[`action`](tags.md#tag-action) [`rain`](tags.md#tag-rain) [`night`](tags.md#tag-night) [`handheld`](tags.md#tag-handheld) [`timed-shots`](tags.md#tag-timed-shots)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A rugged bearded action hero sprints through a rain-soaked industrial alley at night as a massive armored vehicle explodes behind him. 0–2 sec: handheld low-angle tracking shot racing backward in front of him, rain and sparks flying through the lens, intense facial expression, coat whipping violently in the wind. 2–4 sec: he suddenly slides beneath a burst of gunfire, rolls across the wet concrete, grabs a metal pipe and uses it to knock an attacking enemy off balance. 4–6 sec: explosive close-quarters fight — one brutal punch, spinning elbow, rapid camera whip-pan, shattered glass and sparks filling the frame. 6–7 sec: he rises into a powerful hero stance as the burning vehicle erupts behind him, camera rapidly pushes toward his face, rain dripping from his beard.
+
+Fast choreography, continuous physical momentum, realistic body mechanics, dynamic handheld camera, aggressive camera movement, dramatic lighting, volumetric smoke, flying debris, realistic rain, cinematic motion blur, sharp facial detail, natural cloth physics, high contrast, premium action-film cinematography. No slow motion, no static shots, no unnecessary cuts, no text, no logos.
 ```
 
 </details>

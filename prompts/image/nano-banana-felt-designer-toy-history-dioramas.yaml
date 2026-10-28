@@ -1,0 +1,52 @@
+id: nano-banana-felt-designer-toy-history-dioramas
+title:
+  en: Felt designer toy dioramas of four historic days
+  zh: 四个历史时刻的毛毡设计师玩具场景
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- designer-toy
+- felt
+- diorama
+- grid
+- template
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2107781229164556402
+  credit: Gadgetify
+  likes: 29
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+notes:
+  en: Three concept anchors are fused into one style, with an instruction to ignore their literal subjects and keep only the material logic. Explicit style rules for felt, moss and vinyl surfaces, small street details, a calm gray backdrop and limited bright accents make the 2x2 grid consistent across different subjects.
+  zh: 先用三个概念锚点融合出统一风格，并要求忽略其字面内容、只提取材质逻辑。再用毛毡、苔藓、乙烯基质感，街头小细节，灰色背景和克制的亮色点缀等规则，让2x2四格在不同主题下保持一致。
+prompt: |
+  do this for 4 unforgettable days in human history , 2x2 grid: CONCEPT ANCHOR 1: "Stylized 3D animated rebel character — expressive oversized eyes, strong attitude pose, streetwear details, colorful hair, soft cinematic toy-like rendering"
+
+  ::
+
+  CONCEPT ANCHOR 2: "Fuzzy green minimalist toy-world — mossy texture, rounded trees, soft felt surfaces, tiny houses, gentle surreal creatures, quiet gray background"
+
+  ::
+
+  CONCEPT ANCHOR 3: "Isometric miniature scene — small props, tiny environmental storytelling, dollhouse-scale staging, clean studio lighting"
+
+  INSTRUCTION:
+  Find the exact visual center of these three concepts.
+  Ignore the literal character, trash can, animals, and room references.
+  Extract only the style and material logic.
+
+  Render $ SUBJECT as a soft but rebellious designer-toy diorama.
+
+  STYLE RULES:
+  - Convert the subject into a stylized 3D character, object, creature, or environment with clear attitude and expressive shape language.
+  - Use soft felt, moss, knitted fiber, fuzzy flocking, matte clay, and vinyl-like surfaces.
+  - Add small street or everyday details: stickers, scuffs, props, miniature objects, signs, containers, tools, or personal items inferred from the subject.
+  - Keep the world minimal and gallery-like, with calm gray or muted pastel background.
+  - Use bright accent colors only where they matter: hair-like forms, graffiti-like marks, symbols, accessories, tiny props.
+  - Blend softness with rebellion: cute surface texture, but confident pose and graphic edge.
+  - Use shallow studio lighting and clean product-shot presentation.
+
+  OUTPUT:
+  A collectible fuzzy designer-toy scene where $ SUBJECT becomes soft, expressive, slightly punk, and highly tactile.

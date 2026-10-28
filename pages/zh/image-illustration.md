@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 7 条
+[返回目录](../../README_zh.md) · 全部 18 条
 
 <a id="gpt-image-dance-pose-sheet-4x4-character"></a>
 ### 动漫少女十六格舞蹈姿势表
@@ -129,6 +129,130 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
+<a id="gpt-image-pixel-art-combat-sprite-sheet-from-character"></a>
+### 由角色渲染图生成像素风战斗精灵表
+
+<a href="https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet"><img src="../../previews/gpt-image-pixel-art-combat-sprite-sheet-from-character.jpg" width="360"></a>
+
+附上一张全身角色渲染图，并写明像素尺寸（128px）、网格（4x4）和动作类型，让十六帧里的发型、外套和靴子保持一致。要求透明背景并接着生成 GIF，让精灵表可以直接用于动画。
+
+GPT Image 2.5 · 上传图改图 · 出处: [u/Practical_Low29 on Reddit](https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet) · 303 赞，统计于 2026-10-28
+
+[`sprite-sheet`](tags.md#tag-sprite-sheet) [`pixel-art`](tags.md#tag-pixel-art) [`game-assets`](tags.md#tag-game-assets) [`character-design`](tags.md#tag-character-design) [`animation`](tags.md#tag-animation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Make a simplified 128px pixel art combat motion sprite sheet of this character, transparent background if you can, arrange it 4x4.
+```
+
+</details>
+
+<a id="gpt-image-character-dance-pose-grid"></a>
+### 兔耳帽少女的十六个舞蹈姿势
+
+<a href="https://x.com/Mayz1169/status/2098050289819652321"><img src="../../previews/gpt-image-character-dance-pose-grid.jpg" width="360"></a>
+
+提示词先让模型解读角色性格并据此编排舞蹈动作，再用严格的 4×4 编号网格、固定机位和白底统一版式。身份锁定和禁止项清单让 16 格里的服装与比例保持一致。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2098050289819652321) · 283 赞，统计于 2026-10-28
+
+[`character-sheet`](tags.md#tag-character-sheet) [`dance`](tags.md#tag-dance) [`pose-grid`](tags.md#tag-pose-grid) [`anime`](tags.md#tag-anime) [`seedance-reference`](tags.md#tag-seedance-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a single square image featuring a 4×4 grid of 16 unique full-body dance poses based on the uploaded character.
+
+CHARACTER-DRIVEN CHOREOGRAPHY
+First, visually interpret the character’s personality and aesthetic through their expression, silhouette, outfit, accessories, proportions, and overall visual style. Use this interpretation to invent a personalized dance vocabulary that feels natural and distinctive to THIS character.
+
+Do not apply a generic dance routine or a predetermined list of poses. Let the character’s attitude determine the rhythm, energy, gestures, posture, footwork, and use of space.
+
+For example, a mischievous character might use cheeky gestures, unexpected weight shifts, and playful hops; a reserved character might favor controlled steps and subtle hand movements; a bold character might use grounded footwork and sharp accents; an ethereal character might move through soft curves and floating transitions. These are illustrative possibilities, not required categories or moves. Combine traits when the design suggests a more nuanced personality.
+
+Develop a recognizable movement motif unique to this character and reinterpret it across several panels without repeating the same pose. Incorporate distinctive design features naturally: flowing sleeves may follow sweeping gestures, heavy boots may inspire grounded steps, and a tail or wings may contribute to balance and expression if present. Do not invent accessories or anatomy.
+
+Make the result feel like this character is expressing themselves through dance, rather than performing an interchangeable pose pack. Keep the movement appropriate to the character’s apparent age, anatomy, clothing, and mobility.
+
+SEQUENCE AND VARIETY
+Show 16 distinct key poses from one cohesive, character-specific dance phrase, read left to right and top to bottom. Build a natural progression from an opening gesture through variations and a climax to a signature finish.
+
+Include meaningful variation in silhouette, arm placement, footwork, body orientation, and movement level only where it suits the character. Do not force jumps, squats, exaggerated expressions, or dramatic poses onto a character whose personality calls for restraint. Even subtle choreography should produce clearly distinguishable poses.
+
+Maintain believable balance and natural joints. Use facial expressions, head tilts, hands, and posture to reinforce the same personality throughout. Hair, clothing, and accessories should react naturally to movement.
+
+IDENTITY AND STYLE
+Preserve the uploaded character’s identity exactly: face, hairstyle, body proportions, outfit, colors, footwear, and accessories. Maintain the reference image’s rendering style throughout all 16 panels. Do not redesign, recolor, or change costumes. Infer any unseen details conservatively and keep them consistent.
+
+GRID AND PRESENTATION
+Exactly four rows and four columns, with 16 equally sized square panels separated by thin black lines. Plain white backgrounds and subtle grounding shadows. Number the panels 1–16 in the upper-left corners.
+
+One full-body character per panel, including all extremities and accessories, with comfortable margins. Consistent character scale, camera distance, lighting, and ground level. Use a fixed eye-level camera; different views should result from the character turning.
+
+If a separate dance-grid reference is provided, use it only for the grid layout and presentation. Do not copy its character, outfit, dance poses, or attitude. The uploaded character must determine the choreography.
+
+OUTPUT
+A polished dance reference sheet with strong character identity and 16 individually readable poses. Output only the image, without written analysis.
+
+AVOID
+Generic choreography, copied reference poses, repetitive or mirrored duplicates, personality mismatches, forced cuteness or swagger, inconsistent identity, altered outfits, cropped extremities, extra limbs, distorted anatomy, motion trails, missing or extra panels, and text other than panel numbers.
+```
+
+</details>
+
+<a id="gpt-image-golden-moonlit-pagoda-lotus-river"></a>
+### 满月下的金色宝塔与莲花河
+
+<a href="https://x.com/churvikv/status/2101030587478007880"><img src="../../previews/gpt-image-golden-moonlit-pagoda-lotus-river.jpg" width="360"></a>
+
+提示词按环境、光照、材质、构图、氛围分段，并附明确的排除项。严格的黑金配色和 4:5 竖构图让海报风格保持统一。
+
+GPT Image 2.5 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2101030587478007880) · 196 赞，统计于 2026-10-28
+
+[`night-landscape`](tags.md#tag-night-landscape) [`pagoda`](tags.md#tag-pagoda) [`gold-on-black`](tags.md#tag-gold-on-black) [`lotus`](tags.md#tag-lotus) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A highly detailed stylized nightscape illustration in a luxury editorial poster aesthetic, rendered with crisp linework and glowing contrast against a deep black background. The scene centers on a luminous golden moon rising behind layered mountain silhouettes, with a refined Japanese pagoda beside a reflective stream, all bathed in warm amber, cream, and muted blue-gray tones.
+Environment:
+• A serene landscape with a large full moon dominating the upper center background
+• Dark, layered mountain ranges stretching across the horizon, with elegant contour lines and subtle highlights
+• A multi-tier pagoda positioned right of center, perched on rocky ground beside the water, with curved rooflines and softly glowing windows
+• A winding reflective stream running from the midground toward the foreground center, creating a bright path of moonlit reflection
+• Lotus flowers and tall grasses framing both sides of the foreground, especially clustered at lower left and lower right
+• Stylized cloud bands passing horizontally across the moon, with small stars and a few tiny bird silhouettes in the sky
+• Additional small architectural detail faintly visible in the midground left near the water
+• Avoid modern elements, clutter, heavy realism, or dense texture noise
+Lighting:
+• Strong moon backlight from the large central moon, creating a radiant halo and soft atmospheric glow
+• Warm internal glow within the pagoda, contrasting with the cool darkness of the mountains and sky
+• Gentle highlights along roof edges, flower petals, rocks, and water ripples
+• Reflections in the stream should be luminous and controlled, not mirror-sharp
+• No harsh shadows, no blown-out moon detail, no flat unlit foreground
+Materials:
+• Smooth ink-like black negative space with metallic gold and ivory highlights
+• Pagoda surfaces with polished wood-like warmth and fine architectural edging
+• Water rendered with silky reflective lines and soft layered shimmer
+• Flowers with delicate satin-like petals and softly glowing centers
+• Rocky terrain in matte charcoal with clean stylized edge lighting
+Composition:
+• Vertical poster composition, centered around the moon and water reflection axis
+• Pagoda occupying the right midground as the hero structure, balanced by floral masses on both sides
+• Mountains layered behind the pagoda to create depth without overwhelming the moon
+• Strong use of negative space around the upper sky and outer edges for dramatic contrast
+• Hero elements fill most of the frame with a symmetrical visual rhythm, though not perfectly mirrored
+Mood:
+Quiet, majestic, dreamlike, and elegant with a tranquil nocturnal fantasy atmosphere
+Ultra-detailed digital illustration, sharp ornamental linework, high contrast, vertical 4:5 composition, glowing gold-on-black palette, polished cinematic finish.
+
+🏞 Prompt 3:
+A serene Japanese landscape bathed in the warm glow of a large, luminous full moon. A multi-tiered pagoda, adorned with intricate golden details and traditional roofing, stands majestically on a rocky outcrop. It is surrounded by lush, golden-hued foliage and large, delicate lotus flowers in shades of cream and soft orange. A tranquil river, reflecting the moonlight and surrounding scenery, gently flows through the foreground. Jagged, dark mountains form the backdrop, silhouetted against the vibrant sky. The atmosphere is mystical and peaceful, with a hint of ancient grandeur. The color palette is dominated by deep blacks, contrasting with bright yellows, golds, and soft oranges, creating a striking visual. The composition is framed by darkness, emphasizing the illuminated central elements, with a low-angle perspective drawing the viewer into the scene. The style is reminiscent of traditional Japanese ink paintings with a touch of fantasy illustration, featuring smooth textures and dramatic lighting.
+```
+
+</details>
+
 <a id="nano-banana-paper-cut-fashion"></a>
 ### 多层 3D 剪纸时装插画
 
@@ -144,6 +268,430 @@ Nano Banana 2.1 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/Chi
 
 ```text
 Create a high-end editorial fashion illustration of a stylish woman wearing a bold, contemporary designer outfit. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations such as pastel pink, sky blue, mint green, sunshine yellow, and emerald green, paired with contrasting patterns like polka dots or vertical stripes. Add fashionable accessories, including statement sunglasses, earrings, a structured handbag, and modern shoes. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-watercolor-ink-sailboat-moonlit-skyline"></a>
+### 月光天际线前的水彩水墨帆船
+
+<a href="https://x.com/churvikv/status/2109054962667864073"><img src="../../previews/gpt-image-watercolor-ink-sailboat-moonlit-skyline.jpg" width="360"></a>
+
+提示词用 MOON、SKYLINE、CENTRE、WATER、TEXTURE 等分区标签逐块锁定 9:16 画面的各个区域。冷青与暖橙的左右对比加上灰色纸面底色，让混合媒介质感保持一致。
+
+GPT Image 2.5 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2109054962667864073) · 131 赞，统计于 2026-10-28
+
+[`watercolor`](tags.md#tag-watercolor) [`ink-wash`](tags.md#tag-ink-wash) [`sailboat`](tags.md#tag-sailboat) [`skyline`](tags.md#tag-skyline) [`mixed-media`](tags.md#tag-mixed-media)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Semi-abstract mixed-media digital artwork, watercolor and ink wash with painterly digital treatment, tall 9:16 vertical composition, matte mid-grey paper background filling the whole canvas. A lone sailboat with white sails and a dark hull sits on the horizon line at the exact centre, framed by a mirrored split cityscape. LEFT HALF: a dense futuristic skyline glowing electric teal, cyan and blue, towers of many heights with fine lit window grids; above it a large brilliant white four-point starburst star with radiating glow, a wide dark ink cloud behind it, and scattered white star specks. The skyline base dissolves downward into black-blue ink spatter. RIGHT HALF: a mirrored skyline in deep crimson and black, a bright glowing red-white sun disc low between the towers casting a warm red haze, fine red dots and ink splatter along the rooflines, one thin bare tree at the far right edge. CENTRE: the sailboat, small and precise, two pale cream sails catching cool light on one side and warm light on the other, a slender mast, a dark hull with a sharp vertical reflection beneath it. WATER: below the boat the surface becomes sculpted concentric ripple rings spreading outward in widening circles from the hull, built from glossy liquid-ink ribbons with bright white specular highlights, teal and ink-black on the left, crimson and ink-black on the right. The rings stack down through the lower two-thirds and thin out, the lowest breaking into drips and splatter that fade into the grey background. TEXTURE: ink wash bleeding, granulated pigment, stipple dots, splatter, distressed melting edges where the scene dissolves into the neutral grey. High contrast, glossy wet highlights against matte paper, no frame, no border, no text, no signature.
+```
+
+</details>
+
+<a id="gpt-image-vintage-ink-polka-dot-fashion-portrait"></a>
+### 波点头巾复古墨线时尚肖像
+
+<a href="https://x.com/Just_Anika_Here/status/2114206456518148577"><img src="../../previews/gpt-image-vintage-ink-polka-dot-fashion-portrait.jpg" width="360"></a>
+
+直接写明交叉排线、实心黑色阴影和做旧印刷颗粒，并限定黑与象牙白的配色。JSON 结构补充了构图、姿态和负面提示，避免画面滑向写实风格。
+
+GPT Image 2.5 · 文生图 · 出处: [@Just_Anika_Here on X](https://x.com/Just_Anika_Here/status/2114206456518148577) · 97 赞，统计于 2026-10-28
+
+[`vintage`](tags.md#tag-vintage) [`ink-illustration`](tags.md#tag-ink-illustration) [`fashion`](tags.md#tag-fashion) [`cross-hatching`](tags.md#tag-cross-hatching) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "prompt": "Create a highly detailed vintage fashion illustration of a stylish young adult woman in a three-quarter side profile, looking confidently over her shoulder toward the viewer. She has voluminous short black curly hair with individually defined ringlets, dramatic winged eyeliner, long eyelashes, a small nose, and full glossy lips. She wears oversized pointed cat-eye sunglasses with dark lenses and thick black frames. A wide cream-colored headscarf with bold black polka dots wraps around her head and forms a large playful bow on top. A large geometric hoop earring hangs from her visible ear. She wears a dark, elegant high-neck top with a light-colored shoulder strap crossing diagonally over her shoulder. Her chin is slightly raised, her head tilted back, and her expression is effortlessly confident and fashionable. Use expressive black ink outlines, intricate cross-hatching, dense hand-drawn curls, fine facial linework, bold solid-black shadow areas, and subtle distressed print textures. The background is warm ivory paper with visible grain, tiny ink speckles, and an aged screen-printed finish. Strong contrast between black ink and off-white paper, sophisticated retro editorial composition, authentic vintage comic-book print quality, clean recognizable silhouette, beautifully balanced negative space.",
+
+  "composition": {
+    "framing": "vertical portrait, head to upper torso",
+    "camera_angle": "slightly low three-quarter profile",
+    "subject_position": "centered, face turned toward the right",
+    "pose": "looking back over her shoulder with chin slightly raised",
+    "background": "minimal textured ivory paper"
+  },
+  "color_palette": {
+    "primary": "deep ink black",
+    "secondary": "warm ivory",
+    "accents": "soft antique cream"
+  },
+  "lighting": "illustrative high-contrast tonal shading, no realistic photographic lighting",
+  "texture": "rough ink grain, distressed paper, vintage halftone speckles, fine cross-hatching",
+  "negative_prompt": "photorealism, 3D render, color gradients, bright colors, smooth digital vector art, glossy plastic skin, blurry facial features, asymmetrical eyes, malformed sunglasses, extra earrings, distorted hands, messy outlines, low detail, text, typography, watermark, logo, frame"
+}
+```
+
+</details>
+
+<a id="gpt-image-jacaranda-storybook-woman-looking-up"></a>
+### 盛开蓝花楹下的绘本风女子插画
+
+<a href="https://x.com/hey_am_cherry/status/2110952509217140779"><img src="../../previews/gpt-image-jacaranda-storybook-woman-looking-up.jpg" width="360"></a>
+
+提示词明确指定构图位置，人物在右下、枝干斜向展开、树冠占上三分之一，并点明紫、青绿、珊瑚红的互补配色。再用负面提示词排除照片感和3D渲染，保持手绘质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2110952509217140779) · 92 赞，统计于 2026-10-28
+
+[`illustration`](tags.md#tag-illustration) [`storybook`](tags.md#tag-storybook) [`painterly`](tags.md#tag-painterly) [`vibrant-palette`](tags.md#tag-vibrant-palette) [`portrait-9-16`](tags.md#tag-portrait-9-16)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "prompt": "Create a beautiful vertical 9:16 digital painting in a vibrant, expressive storybook illustration style. A young woman with a short dark bob haircut stands in the lower-right portion of the composition, peacefully looking upward at a magnificent flowering jacaranda tree. The enormous dark branches sweep diagonally across the upper half of the image, covered in clusters of vivid violet, electric purple, and magenta blossoms. Tiny purple petals float gently through the air. The woman wears a flowing coral-red coat, a bright turquoise scarf, dark plum leggings, and elegant black ankle boots. A small mustard-yellow shoulder bag adds a warm accent. The background features a rich turquoise-blue sky blending into soft lavender mountains, with subtle painterly textures and a few delicate wildflowers along the ground. Use a bold, highly saturated color palette with striking contrasts between violet flowers, turquoise surroundings, coral clothing, and golden highlights. Artistic hand-painted brushstrokes, delicate ink outlines, textured paper finish, atmospheric depth, beautiful natural lighting, poetic and peaceful mood. The tree canopy fills the upper third and spreads across the frame, while generous open space in the middle emphasizes the woman and creates a balanced composition. Full-body character visible, elegant natural pose, visually rich details, polished high-quality illustration, beautiful color harmony, 9:16 portrait composition.",
+  "negative_prompt": "photorealistic, 3D render, dull colors, washed-out palette, blurry details, low resolution, distorted anatomy, extra limbs, extra fingers, malformed hands, duplicate people, oversized head, cropped feet, cut-off body, text, watermark, logo, copied composition, yellow autumn leaves, orange trench coat, plain empty background",
+  "aspect_ratio": "9:16",
+  "style": "vibrant painterly storybook illustration",
+  "quality": "high"
+}
+```
+
+</details>
+
+<a id="gpt-image-minimalist-ink-sketch-travel-poster"></a>
+### 地标极简钢笔速写旅行海报
+
+<a href="https://x.com/Naiknelofar788/status/2115000503151231060"><img src="../../previews/gpt-image-minimalist-ink-sketch-travel-poster.jpg" width="360"></a>
+
+用地标和目的地占位符让提示词可重复套用。细墨线搭配有限的粉彩色板、象牙白纸面上的干笔色块,并固定标题排版与分隔线。再用不要3D、不要多余文字等排除项保持画面干净。
+
+GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2115000503151231060) · 87 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`ink-sketch`](tags.md#tag-ink-sketch) [`pastel`](tags.md#tag-pastel) [`minimalist`](tags.md#tag-minimalist) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a beautiful, minimalist hand-drawn travel illustration of [LANDMARK / CITY / COUNTRY], inspired by Japanese architectural sketchbook art and contemporary minimalist travel posters.
+
+Illustration style:
+
+Fine black ink outlines with loose, expressive, imperfect hand-drawn strokes.
+Simplified architectural forms that preserve the destination’s most recognizable features.
+Soft, dry-brush pastel colour patches in the background, with a distressed, textured, almost crayon-like finish.
+A limited palette of muted sage green, dusty pink, pale blue, warm beige, and soft ochre.
+Warm ivory paper background with subtle natural paper grain.
+Delicate sketchy trees, tiny shrubs, birds, distant mountains, clouds, or other location-specific elements.
+Beautiful negative space and an airy, uncluttered composition.
+Artistic imperfections, uneven ink lines, and a handmade illustration aesthetic.
+
+Composition:
+Place the iconic landmark in the lower half of the image, drawn in elegant black ink. Add a few surrounding elements to create a small, atmospheric scene. Behind the architecture, incorporate abstract vertical or irregular pastel brushstrokes that add colour without overpowering the drawing.
+
+Typography:
+At the top, write the destination name in thin, spaced-out uppercase lettering: “[DESTINATION NAME]”. Place the country name directly underneath in smaller, elegant uppercase letters. Add a fine horizontal divider with tiny circular endpoints between the title and subtitle, if appropriate.
+
+Overall mood: Peaceful, poetic, artistic, minimalist, nostalgic, and sophisticated — like a page from a beautifully illustrated travel journal.
+
+Technical details: Square 1:1 composition, crisp fine-line drawing, restrained pastel colours, plenty of cream negative space, no photorealism, no 3D effects, no glossy finish, no heavy shadows, no clutter, and no extra text. Ensure the destination name is spelled correctly.
+```
+
+</details>
+
+<a id="nano-banana-caped-animal-character-trio"></a>
+### storybook 风格的青色斗篷灰猫角色
+
+<a href="https://x.com/iamrealsnow/status/2113141068929826897"><img src="../../previews/nano-banana-caped-animal-character-trio.jpg" width="360"></a>
+
+同一模板套用到三种动物，只替换物种、毛色、斗篷颜色和扣饰形状。固定站姿、正面、全身和浅色纯背景，让整组角色风格一致。
+
+Nano Banana 2.1 · 文生图 · 出处: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2113141068929826897) · 60 赞，统计于 2026-10-28
+
+[`character-design`](tags.md#tag-character-design) [`storybook`](tags.md#tag-storybook) [`animals`](tags.md#tag-animals) [`cape`](tags.md#tag-cape) [`character-sheet`](tags.md#tag-character-sheet)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cat
+A cute gray cat character with green eyes, wearing a simple teal hooded cape with a small silver crescent clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.
+
+Squirrel
+A cute orange-brown squirrel character with a big bushy tail, wearing a simple navy cape with a small gold leaf-shaped clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.
+
+Rabbit
+A cute cream-colored rabbit character with tall ears, wearing a simple plum cape with a small gold round clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.
+```
+
+</details>
+
+<a id="nano-banana-felt-designer-toy-history-dioramas"></a>
+### 四个历史时刻的毛毡设计师玩具场景
+
+<a href="https://x.com/Gdgtify/status/2107781229164556402"><img src="../../previews/nano-banana-felt-designer-toy-history-dioramas.jpg" width="360"></a>
+
+先用三个概念锚点融合出统一风格，并要求忽略其字面内容、只提取材质逻辑。再用毛毡、苔藓、乙烯基质感，街头小细节，灰色背景和克制的亮色点缀等规则，让2x2四格在不同主题下保持一致。
+
+Nano Banana 2.1 · 文生图 · 出处: [@Gdgtify on X](https://x.com/Gdgtify/status/2107781229164556402) · 29 赞，统计于 2026-10-28
+
+[`designer-toy`](tags.md#tag-designer-toy) [`felt`](tags.md#tag-felt) [`diorama`](tags.md#tag-diorama) [`grid`](tags.md#tag-grid) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+do this for 4 unforgettable days in human history , 2x2 grid: CONCEPT ANCHOR 1: "Stylized 3D animated rebel character — expressive oversized eyes, strong attitude pose, streetwear details, colorful hair, soft cinematic toy-like rendering"
+
+::
+
+CONCEPT ANCHOR 2: "Fuzzy green minimalist toy-world — mossy texture, rounded trees, soft felt surfaces, tiny houses, gentle surreal creatures, quiet gray background"
+
+::
+
+CONCEPT ANCHOR 3: "Isometric miniature scene — small props, tiny environmental storytelling, dollhouse-scale staging, clean studio lighting"
+
+INSTRUCTION:
+Find the exact visual center of these three concepts.
+Ignore the literal character, trash can, animals, and room references.
+Extract only the style and material logic.
+
+Render $ SUBJECT as a soft but rebellious designer-toy diorama.
+
+STYLE RULES:
+- Convert the subject into a stylized 3D character, object, creature, or environment with clear attitude and expressive shape language.
+- Use soft felt, moss, knitted fiber, fuzzy flocking, matte clay, and vinyl-like surfaces.
+- Add small street or everyday details: stickers, scuffs, props, miniature objects, signs, containers, tools, or personal items inferred from the subject.
+- Keep the world minimal and gallery-like, with calm gray or muted pastel background.
+- Use bright accent colors only where they matter: hair-like forms, graffiti-like marks, symbols, accessories, tiny props.
+- Blend softness with rebellion: cute surface texture, but confident pose and graphic edge.
+- Use shallow studio lighting and clean product-shot presentation.
+
+OUTPUT:
+A collectible fuzzy designer-toy scene where $ SUBJECT becomes soft, expressive, slightly punk, and highly tactile.
+```
+
+</details>
+
+<a id="nano-banana-sea-turtle-film-studio-island"></a>
+### 背负漂浮电影工作室岛屿的海龟
+
+<a href="https://x.com/wilzap/status/2112169111291908222"><img src="../../previews/nano-banana-sea-turtle-film-studio-island.jpg" width="360"></a>
+
+提示词在同一场景里讲了一个前后对比的小故事：像素化的胶片被精灵打磨成金色胶片。明确的材质风格（柔和黏土质感3D）、限定的配色和光线指令（轮廓光、体积光、移轴景深）让整幅画面保持统一。
+
+Nano Banana 2.1 · 文生图 · 出处: [@wilzap on X](https://x.com/wilzap/status/2112169111291908222) · 29 赞，统计于 2026-10-28
+
+[`3d-cartoon`](tags.md#tag-3d-cartoon) [`fantasy`](tags.md#tag-fantasy) [`sea-turtle`](tags.md#tag-sea-turtle) [`floating-island`](tags.md#tag-floating-island) [`cinematic-lighting`](tags.md#tag-cinematic-lighting)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A stylized 3D cartoon fantasy scene of a giant ancient sea turtle swimming through a starry night sky, carrying an entire floating island on its shell. The island is a magical film studio: tiny glowing mushroom houses, a waterfall made of flowing film strips, and a crooked wizard tower with a giant projector lens for an eye. At the base of the waterfall, the film strips look rough, blocky, and pixelated, like broken stained glass. As they spill over a glowing crystal ledge, a swarm of tiny lantern fairies hammers and polishes them, and they transform mid-fall into crisp, shimmering, ultra-detailed film that glows like liquid gold. At the very top, the wizard tower beams the finished movie across the sky like an aurora, showing a vivid dragon soaring through clouds. Chunky rounded shapes, soft clay-like 3D textures, exaggerated cartoon proportions, glowing bioluminescent accents, deep indigo sky with magenta and electric teal highlights, cinematic rim lighting, volumetric light rays, tilt-shift depth of field, ultra detailed, 16:9.
+```
+
+</details>
+
+<a id="nano-banana-anime-new-year-dinner-confrontation"></a>
+### 日本新年家宴上的动画风家庭冲突
+
+<a href="https://x.com/ViralOps_/status/2114709909178810799"><img src="../../previews/nano-banana-anime-new-year-dinner-confrontation.jpg" width="360"></a>
+
+每个角色都有固定的年龄、面部、发型和服装描述块，保证人物形象稳定。场景部分再为每个人指定动作和表情，无需台词也能看懂冲突。
+
+Nano Banana 2.1 · 文生图 · 出处: [@ViralOps_ on X](https://x.com/ViralOps_/status/2114709909178810799) · 27 赞，统计于 2026-10-28
+
+[`anime`](tags.md#tag-anime) [`japanese`](tags.md#tag-japanese) [`family-dinner`](tags.md#tag-family-dinner) [`character-consistency`](tags.md#tag-character-consistency) [`storytelling`](tags.md#tag-storytelling)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+**STYLE AND VISUAL QUALITY**
+
+Premium modern Japanese anime film style, cinematic 2D animation quality, beautifully detailed Japanese character designs, expressive faces, soft cel shading, delicate linework, painterly backgrounds, realistic fabric folds, natural skin tones, rich atmospheric lighting, and emotional visual storytelling.
+
+The image should resemble a beautifully animated Japanese drama film, with warm cinematic lighting, rich colors, subtle depth of field, and emotionally powerful facial expressions. Avoid generic cartoon aesthetics, 3D rendering, or photorealism.
+
+**CHARACTER DESCRIPTIONS — MAINTAIN THESE EXACT APPEARANCES**
+
+**WIFE (Late 20s):**
+
+A beautiful young Japanese woman, approximately 27 years old, with fair warm-toned skin, a delicate oval face, large expressive dark-brown eyes, straight dark eyebrows, a small natural nose, and soft feminine facial features.
+
+She has long, silky, dark-brown hair reaching the middle of her back, styled with soft face-framing strands and a simple half-up hairstyle.
+
+She wears an elegant, modest, dusty-rose pink knitted cardigan over a cream-colored blouse, paired with a flowing sage-green midi skirt.
+
+Her appearance is graceful, gentle, and slightly delicate. Her large expressive eyes should communicate intense emotional pain, vulnerability, and quiet dignity.
+
+**HUSBAND (Early 30s):**
+
+A handsome Japanese man, approximately 32 years old, with fair-to-medium warm skin, short neatly styled black hair, dark-brown eyes, straight eyebrows, a clean-shaven face, and a defined but natural jawline.
+
+He wears a slate-blue button-up shirt with a cream-colored undershirt, dark tailored trousers, and a simple silver wristwatch on his left wrist.
+
+Average-to-tall height, lean-to-medium build, attractive but realistic anime facial proportions.
+
+His personality should be reflected through subtle, emotionally expressive reactions.
+
+**MOTHER-IN-LAW (Late 50s):**
+
+A Japanese woman, approximately 58 years old, with fair-to-medium warm skin, a slightly rounded face, visible fine wrinkles around her eyes and mouth, sharp eyebrows, narrow expressive dark-brown eyes, and a stern, authoritative appearance.
+
+Her dark hair, lightly streaked with gray, is neatly arranged in an elegant low bun.
+
+She wears a sophisticated deep-maroon Japanese kimono with subtle gold floral embroidery, a cream-colored obi belt, and a traditional decorative hairpin.
+
+Her posture and facial expressions communicate pride, authority, harsh judgment, and a controlling personality.
+
+**SETTING — JAPANESE NEW YEAR FAMILY DINNER**
+
+Inside a beautiful, cozy, traditional-modern Japanese family home during an Oshōgatsu (Japanese New Year) celebration in the evening.
+
+A long, low polished wooden dining table dominates the tatami-mat room.
+
+The table is covered with a generous Japanese New Year feast, including:
+
+- Beautifully arranged osechi ryōri in traditional lacquered jubako boxes.
+- Grilled fish served on ceramic plates.
+- Ozōni soup in traditional bowls.
+- Sushi and neatly arranged sashimi.
+- Decorative mochi and traditional Japanese sweets.
+- Elegant ceramic teacups and wooden chopsticks.
+
+The room features authentic Japanese interior design: warm wooden beams, shoji paper sliding doors, tatami flooring, a decorative tokonoma alcove, a traditional flower arrangement, and soft hanging lanterns.
+
+Through a partially open shoji door, a peaceful Japanese garden is faintly visible beneath the evening sky.
+
+Warm golden interior lighting creates a beautiful festive atmosphere.
+
+The peaceful New Year celebration contrasts sharply with the painful family confrontation unfolding around the table.
+
+**MAIN SCENE — PUBLIC HUMILIATION AT THE FAMILY DINNER**
+
+Capture a deeply emotional and dramatic moment at the exact instant a family celebration turns into a humiliating confrontation.
+
+The mother-in-law sits at the head of the low Japanese dining table, leaning forward aggressively.
+
+She points her index finger directly toward her daughter-in-law.
+
+Her expression is harsh, mocking, and judgmental. Her mouth is slightly open as if she has just delivered a cruel, insulting remark in front of everyone.
+
+The young wife stands beside the dining table, holding a beautiful ceramic serving platter with both hands.
+
+She looks completely shocked and humiliated.
+
+Her shoulders are tense, her lips slightly parted, and her large brown eyes are filled with tears she is desperately trying to hold back.
+
+Her cheeks are faintly flushed with embarrassment.
+
+Her expression communicates heartbreak, helplessness, and the unbearable pain of being publicly disrespected in front of her husband's entire family.
+
+The husband sits on a floor cushion beside his mother.
+
+He suddenly looks up with a frozen, stunned expression.
+
+His body is tense, his eyes widened in disbelief, as though he cannot believe what his mother has just said to his wife.
+
+Capture the precise moment before he decides whether to speak.
+
+**SIX ADDITIONAL FAMILY MEMBERS**
+
+Six adult Japanese relatives sit on floor cushions around the table.
+
+The men wear a mixture of elegant casual shirts, sweaters, and traditional Japanese clothing.
+
+The women wear tasteful modern outfits or subtle traditional kimono.
+
+All six relatives have turned their attention toward the young wife.
+
+Some look visibly shocked.
+
+Others exchange uncomfortable glances.
+
+One elderly relative lowers their eyes in embarrassment.
+
+Another relative watches the confrontation with a judgmental expression.
+
+Their reactions should amplify the wife's painful realization that everyone has witnessed her humiliation.
+
+**EMOTIONAL VISUAL STORYTELLING**
+
+The mother's aggressive pointing gesture, the wife's devastated expression, the husband's stunned reaction, and the relatives' uncomfortable stares must immediately communicate the entire conflict without any written dialogue.
+
+The viewer should instantly understand:
+
+A young Japanese wife has just been publicly insulted by her mother-in-law during an important family celebration, and everyone is waiting to see whether her husband will defend her.
+
+**CAMERA AND COMPOSITION**
+
+Portrait 4:5 aspect ratio.
+
+Final resolution: 1080 × 1350 pixels.
+
+Cinematic medium-wide shot at a natural eye-level camera angle, carefully framed to emphasize the emotional tension between the three main characters.
+
+The composition should resemble a dramatic freeze-frame from a premium Japanese animated feature film.
+
+**CRITICAL COMPOSITION RULE — TEXT OVERLAY SPACE**
+
+The entire dramatic scene must occupy only the UPPER 55% of the image.
+
+This includes:
+
+- All important character faces.
+- The mother-in-law's pointing gesture.
+- The wife's shocked expression.
+- The husband's frozen reaction.
+- The relatives' uncomfortable stares.
+
+The LOWER 45% of the image must remain a clean, darker, visually calm, uncluttered foreground.
+
+Use the near section of the low wooden dining table, softly shadowed tatami flooring, and subtle atmospheric shadows to create this negative space.
+
+Do not place important faces, hands, food plates, or distracting decorations in the lower 45%.
+
+Create a natural transition from the detailed dramatic scene above into the quieter, darker foreground below.
+
+The bottom area must be suitable for adding large, highly readable text overlays later.
+
+**LIGHTING AND MOOD**
+
+Warm golden Japanese lantern lighting.
+
+Soft cinematic interior illumination.
+
+Subtle shadows and atmospheric depth.
+
+Beautiful highlights on expressive anime eyes.
+
+Detailed painterly Japanese interiors.
+
+Rich but natural color grading.
+
+The emotional atmosphere should feel:
+
+Heartbreaking, tense, humiliating, uncomfortable, dramatic, and deeply human.
+
+The beautiful peaceful Japanese New Year setting should contrast strongly with the cruelty of the family confrontation.
+
+**STRICT REQUIREMENTS**
+
+- Generate ONE single cinematic anime illustration.
+- Portrait 4:5 aspect ratio, 1080 × 1350 pixels.
+- Premium Japanese animated film quality.
+- Consistent character anatomy and natural body proportions.
+- Beautiful expressive faces with accurate hands and fingers.
+- All characters must have Japanese facial features and styling.
+- The wife must wear her dusty-rose cardigan and sage-green skirt.
+- The husband must wear his slate-blue shirt and silver wristwatch.
+- The mother-in-law must wear her deep-maroon kimono with cream obi.
+- Preserve the emotional intensity of the confrontation.
+- Concentrate all important storytelling in the upper 55%.
+- Reserve the lower 45% for future text overlays.
+- No text.
+- No letters.
+- No speech bubbles.
+- No subtitles.
+- No captions.
+- No logos.
+- No borders.
+- No watermarks.
+- No 3D rendering.
+- No CGI.
+- No photorealism.
 ```
 
 </details>

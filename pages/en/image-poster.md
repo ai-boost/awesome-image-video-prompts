@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 10 entries
+[Back to the list](../../README.md) · All 14 entries
 
 <a id="gpt-image-minimal-lifestyle-poster"></a>
 ### Minimal lifestyle art poster from a real photo
@@ -619,6 +619,219 @@ Use generous cream-toned negative space, tactile paper grain, faint printing imp
 Overall mood: nostalgic, intimate, poetic, cinematic, handcrafted, sophisticated, and emotionally warm.
 
 Maintain realistic anatomy, natural body proportions, recognizable faces, believable hands, and consistent clothing throughout both versions. High-detail editorial finish, cohesive photo-to-sketch transition, no branding, no logos, and no watermark.
+```
+
+</details>
+
+<a id="nano-banana-landmark-photo-geometric-split-poster"></a>
+### Landmark photo above, geometric illustration below
+
+<a href="https://www.reddit.com/r/GeminiAI/comments/1x97v1p/turn_landmark_photos_into_geometric_architecture"><img src="../../previews/nano-banana-landmark-photo-geometric-split-poster.jpg" width="360"></a>
+
+The canvas is split into two exactly equal halves, with the top kept as a faithful photograph and the bottom redrawn from a few large shapes. Aligning towers and rooflines across the dividing line keeps the landmark recognizable in both halves.
+
+Nano Banana 2.1 · Edit · Source: [u/Few-Profession421 on Reddit](https://www.reddit.com/r/GeminiAI/comments/1x97v1p/turn_landmark_photos_into_geometric_architecture) · 101 likes on 2026-10-28
+
+[`landmark`](tags.md#tag-landmark) [`split-poster`](tags.md#tag-split-poster) [`geometric`](tags.md#tag-geometric) [`screen-print`](tags.md#tag-screen-print) [`photo-to-illustration`](tags.md#tag-photo-to-illustration)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using the uploaded photograph of [LANDMARK], [CITY], [COUNTRY], create one premium 3:4 vertical editorial poster.
+Divide the canvas into two exactly equal horizontal halves with a straight central boundary.
+Top 50% — Photography
+Preserve the landmark’s identity, proportions, materials, perspective, surroundings, and natural lighting. Apply restrained editorial color grading. Extend the environment only if necessary; never stretch, distort, or redesign the building.
+Bottom 50% — Geometric illustration
+Reinterpret the same landmark using a few large, cohesive rectangles, circles, triangles, arches, and layered planes. Preserve its distinctive silhouette and structural rhythm. Avoid tiny fragments and generic building symbols.
+Use a restrained palette drawn from the photograph, with subtle paper grain, matte surfaces, and delicate screen-print texture.
+Keep the viewing angle consistent between both halves. Where possible, align signature towers, rooflines, or dominant verticals across the division. Balance the composition with generous negative space.
+No text, numbers, logos, watermarks, borders, added flags, unrelated landmarks, or multiple-photo collages. Output one complete standalone poster.
+```
+
+</details>
+
+<a id="gpt-image-landmark-architectural-master-sketch-poster"></a>
+### Statue of Liberty as an unfinished architectural ink sketch
+
+<a href="https://x.com/Goodmanprotocol/status/2106688617682788602"><img src="../../previews/gpt-image-landmark-architectural-master-sketch-poster.jpg" width="360"></a>
+
+The prompt sets one landmark against pure white negative space. It mixes precise ink linework with loose construction guides and allows only one accent color taken from the landmark's real materials. Bracketed placeholders for the location and landmark make it reusable for any building.
+
+GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2106688617682788602) · 98 likes on 2026-10-28
+
+[`architecture`](tags.md#tag-architecture) [`ink-sketch`](tags.md#tag-ink-sketch) [`landmark`](tags.md#tag-landmark) [`white-background`](tags.md#tag-white-background) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 2:3 vertical architectural poster for [COUNTRY / CITY / LOCATION / LANDMARK].
+
+TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / LANDMARK]. No reference image required.
+
+CORE CONCEPT
+Present [LANDMARK] as an expressive unfinished architectural master sketch, as if drawn by an architect exploring the building’s form, structure, and character. Keep the real architecture accurate — preserve its recognizable silhouette, proportions, façade rhythm, materials, and signature details. Do not redesign the landmark.
+
+COMPOSITION
+Show approximately 80–95% of the landmark from the most elegant and architecturally informative viewpoint for that specific building. Use a natural eye-level or gently elevated three-quarter perspective with realistic depth and restrained distortion.
+
+ONE LANDMARK ONLY. Let it dominate the composition while surrounding it with generous PURE WHITE negative space. No skyline or secondary landmarks.
+
+SKETCH STYLE
+Combine precise architectural ink drawing with loose unfinished concept-sketch elements:
+
+crisp black structural lines
+
+fine façade detailing
+
+varied line weights
+
+construction and perspective guides
+
+subtle drafting marks
+
+selective ink washes
+
+partially unfinished contours
+
+Some areas should be highly detailed while others naturally dissolve into loose exploratory lines and white space. It must feel genuinely hand-drawn, not like a 3D render with a sketch filter.
+
+DETAIL & COLOR
+Reveal authentic architectural elements such as structural connections, façade layers, openings, ornamentation, joints, and material textures. Never invent features that do not belong to the landmark.
+
+Use a PURE WHITE background with black and charcoal linework, plus ONE subtle accent color naturally derived from the landmark’s real materials.
+
+TYPOGRAPHY
+Optional small refined text in one corner:
+[DESTINATION]
+[LANDMARK]
+
+Keep typography minimal and secondary to the architecture.
+
+FINAL AESTHETIC
+Architectural master sketch × technical drawing × expressive ink work × restrained hand-painted wash × contemporary collectible art poster.
+
+Avoid fictional architecture, incorrect proportions, extreme perspectives, close-ups, surrounding cityscapes, multiple landmarks, beige/aged paper, gradients, excessive colors, glossy 3D rendering, oversized typography, logos, and watermarks.
+
+FORMAT
+2:3 vertical, single landmark, full architectural form clearly visible, generous white space, intricate linework, natural perspective, premium gallery-quality finish.
+```
+
+</details>
+
+<a id="gpt-image-rainy-day-editorial-poster"></a>
+### Rainy Day Editorial Poster with Umbrella Walker
+
+<a href="https://x.com/Goodmanprotocol/status/2100508937514897577"><img src="../../previews/gpt-image-rainy-day-editorial-poster.jpg" width="360"></a>
+
+A bracketed subject slot makes the template reusable, and the prompt sets the palette, 22 to 30 percent negative space and a type hierarchy of brush title, serif caption and small supporting text. Film grain and paper texture give it a printed zine look.
+
+GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2100508937514897577) · 76 likes on 2026-10-28
+
+[`editorial`](tags.md#tag-editorial) [`poster`](tags.md#tag-poster) [`template`](tags.md#tag-template) [`typography`](tags.md#tag-typography) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create one premium 3:4 vertical editorial art poster for [COUNTRY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE GENERATION ONLY. Generate the complete artwork from [COUNTRY / LOCATION / SUBJECT] alone. No reference image or additional visual input is required.
+
+Automatically interpret the subject and create a visually compelling composition that reflects its character, atmosphere, appearance, setting, colors, and distinctive visual identity.
+
+LOWER SECTION
+
+Use a refined background palette inspired by [COUNTRY / LOCATION / SUBJECT], using limited low-saturation tones such as misty gray, warm beige, light khaki, cream white, dusty rose, or soft gray-pink, selecting only the colors that naturally suit the subject.
+
+Keep approximately 22–30% continuous negative space. Avoid complicated scenery, excessive objects, sticker-like elements, or meaningless decoration.
+
+TYPOGRAPHY
+
+Create a sophisticated editorial typography system based on the subject.
+
+Automatically generate a short main title inspired by the subject's appearance, mood, action, or personality.
+
+Add one natural 8–16 word English sentence written like a subtle editorial note or magazine caption.
+
+Use a carefully designed hand-drawn or retro bubble-style font for the main title. Use smaller refined typography for supporting text, such as an elegant serif, subtle typewriter style, or delicate book-inspired font.
+
+Create clear hierarchy, breathing room, and intentional spacing. Typography should feel integrated into the artwork rather than simply placed on top.
+
+VISUAL STYLE
+
+Keep the overall palette restrained and cohesive, with subtle film grain, tactile paper texture, and a gentle printed-editorial quality.
+
+Allow slight asymmetry and imperfect positioning to create a sophisticated independent-magazine aesthetic without making the composition messy.
+
+IMPORTANT
+
+Keep the main subject recognizable and naturally proportioned. Do not cartoonize the person or subject.
+
+Avoid:
+multiple mascots, existing animated characters, brand logos, QR codes, watermarks, signatures, gibberish text, incorrect hands, extra limbs, excessive decoration, cheap templates, overly cute styling, or cluttered compositions.
+
+FINAL LOOK
+
+The finished artwork should feel like a premium independent fashion magazine, contemporary art publication, or sophisticated editorial ZINE—minimal, tactile, slightly imperfect, modern, and visually intelligent.
+
+STRICT 3:4 VERTICAL | TEXT-ONLY GENERATION | RESTRAINED COLORS | 22–30% NEGATIVE SPACE | PREMIUM EDITORIAL TYPOGRAPHY | SUBTLE FILM GRAIN & PAPER PRINT TEXTURE.
+
+Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone.
+```
+
+</details>
+
+<a id="gpt-image-food-photo-ingredient-sketchbook-poster"></a>
+### Pizza photo above hand-drawn ingredient sketchbook
+
+<a href="https://x.com/Goodmanprotocol/status/2108555814604812483"><img src="../../previews/gpt-image-food-photo-ingredient-sketchbook-poster.jpg" width="360"></a>
+
+The prompt splits the canvas into a realistic food photo on top and a gouache ingredient sheet below, with a hard horizontal divider and a fixed height ratio. A small dish illustration in the center, arrows and numbered specimens give the lower half a field-note structure, and a long avoid list keeps it uncluttered.
+
+GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2108555814604812483) · 67 likes on 2026-10-28
+
+[`food`](tags.md#tag-food) [`poster`](tags.md#tag-poster) [`editorial`](tags.md#tag-editorial) [`sketchbook`](tags.md#tag-sketchbook) [`split-layout`](tags.md#tag-split-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].
+
+TEXT-TO-IMAGE ONLY.
+Generate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any reference image or existing photograph. Automatically identify the dish’s authentic appearance, ingredients, textures, and cultural identity.
+
+CORE CONCEPT:
+Create one elegant travel-food editorial poster combining realistic food photography in the upper section with a handmade ingredient-observation sketchbook in the lower section. Feature ONE recognizable plate or bowl containing a single dish, with at least three visually distinct ingredients.
+
+UPPER SECTION — REALISTIC FOOD PHOTOGRAPHY:
+Occupy approximately 48% of the canvas height. Create a beautifully composed, authentic photographic view of the specified local dish, preserving believable ingredient textures, natural lighting, realistic proportions, and culturally accurate presentation. Use subtle food-magazine color grading and extremely light film grain. Keep the entire plate or bowl visible.
+
+SECTION DIVIDER:
+Separate both sections with a straight, clean horizontal boundary. A very thin warm-ivory paper strip is optional. No gradients, blending, or elements crossing the divider.
+
+LOWER SECTION — INGREDIENT OBSERVATION SHEET:
+Use warm ivory drawing paper with visible fibers, fine grain, faint smudges, and subtle handmade irregularities. Create a sparse, asymmetrical food-field-note composition rather than repeating the full photographic dish.
+
+Place ONE small, simplified but recognizable illustration of the complete dish near the center. Keep it secondary and compact, occupying approximately one-third of the lower section’s width.
+
+Around it, illustrate 3–6 individually selected ingredients inferred from the dish. Use small watercolor specimens, cut-surface studies, herb sketches, grain clusters, sauce swatches, or distinctive ingredient shapes. Arrange them at varied sizes and angles with generous breathing room.
+
+DRAWING STYLE:
+Matte gouache, delicate black-ink outlines, slightly hesitant hand-drawn strokes, dry-brush gaps, uneven pigment coverage, soft watercolor edges, visible paper texture, and restrained natural colors. Keep ingredients recognizable without excessive detail. Add a few fine arrows and small handwritten numbers connecting specimens to the miniature dish.
+
+TYPOGRAPHY:
+Use minimal, understated editorial annotations only when helpful. Short ingredient names or tiny handwritten notes are acceptable. Keep all text small and secondary; avoid unnecessary titles or decorative lettering.
+
+COLOR PALETTE:
+Derive the colors naturally from the dish, balanced by warm cream, muted earth tones, and subtle ink details.
+
+FINAL AESTHETIC:
+Authentic local food photography × handmade ingredient studies × refined travel-food editorial × collectible culinary field notebook.
+
+AVOID:
+Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessive garnish, crowded layouts, gradients, bleeding transitions, glossy digital painting, flat vector infographics, 3D rendering, commercial menu styling, excessive text, logos, watermarks, and interface elements.
+
+FORMAT:
+3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
 ```
 
 </details>

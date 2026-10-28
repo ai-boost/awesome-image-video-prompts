@@ -1,6 +1,6 @@
 # Kling 3.0
 
-[返回目录](../../README_zh.md) · 全部 27 条
+[返回目录](../../README_zh.md) · 全部 28 条
 
 <a id="kling-vintage-watch-macro"></a>
 ### 指尖捏着复古腕表的微距镜头
@@ -332,6 +332,27 @@ Try it with prompt : High-octane, hyper-realistic fashion sequence in the style 
 •Shot 7 (12-14s): Shaky handheld tracking shot following her final dramatic pose as camera flashes erupt around her.
 •Shot 8 (14-15s): Hard cut to black with a lingering burst of camera flashes fading into darkness.
 Raw documentary-style camera textures, organic lens flares, lifelike physics, authentic fashion motion blur, realistic skin texture, natural crowd movement, and a glamorous sense of celebrity spectacle. Ultra-detailed, 4k resolution.
+```
+
+</details>
+
+<a id="kling-rainy-alley-armored-vehicle-chase"></a>
+### 雨夜小巷中蓄须英雄奔逃爆炸装甲车
+
+<a href="https://x.com/iamrealsnow/status/2104788524310688210"><img src="../../previews/kling-rainy-alley-armored-vehicle-chase.jpg" width="360"></a>
+
+提示词把七秒拆成带时间戳的分镜,每段指定镜头运动:倒退跟拍、滑铲翻滚、快速摇镜、推向面部。结尾罗列动作与光影关键词,并用禁止慢动作和静态镜头等否定项保持节奏凌厉。
+
+Kling 3.0 · 文生视频 · 出处: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2104788524310688210) · 89 赞，统计于 2026-10-28
+
+[`action`](tags.md#tag-action) [`rain`](tags.md#tag-rain) [`night`](tags.md#tag-night) [`handheld`](tags.md#tag-handheld) [`timed-shots`](tags.md#tag-timed-shots)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A rugged bearded action hero sprints through a rain-soaked industrial alley at night as a massive armored vehicle explodes behind him. 0–2 sec: handheld low-angle tracking shot racing backward in front of him, rain and sparks flying through the lens, intense facial expression, coat whipping violently in the wind. 2–4 sec: he suddenly slides beneath a burst of gunfire, rolls across the wet concrete, grabs a metal pipe and uses it to knock an attacking enemy off balance. 4–6 sec: explosive close-quarters fight — one brutal punch, spinning elbow, rapid camera whip-pan, shattered glass and sparks filling the frame. 6–7 sec: he rises into a powerful hero stance as the burning vehicle erupts behind him, camera rapidly pushes toward his face, rain dripping from his beard.
+
+Fast choreography, continuous physical momentum, realistic body mechanics, dynamic handheld camera, aggressive camera movement, dramatic lighting, volumetric smoke, flying debris, realistic rain, cinematic motion blur, sharp facial detail, natural cloth physics, high contrast, premium action-film cinematography. No slow motion, no static shots, no unnecessary cuts, no text, no logos.
 ```
 
 </details>

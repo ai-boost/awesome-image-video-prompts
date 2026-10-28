@@ -1,6 +1,6 @@
 # Photo to art
 
-[Back to the list](../../README.md) · All 11 entries
+[Back to the list](../../README.md) · All 24 entries
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Upper half photo, lower half watercolour travel sketch
@@ -368,6 +368,79 @@ Nano Banana 2.1 · Edit · Source: [@Just_sharon7 on X](https://x.com/Just_sharo
 
 </details>
 
+<a id="gpt-image-watercolor-ink-over-shoulder-portrait"></a>
+### Watercolor ink portrait looking over shoulder
+
+<a href="https://x.com/Kubra_286/status/2100063240105435328"><img src="../../previews/gpt-image-watercolor-ink-over-shoulder-portrait.jpg" width="360"></a>
+
+Locks pose, rendering style and a warm left to cool right color split in separate labeled blocks, so the model keeps the identity while the watercolor behavior stays controlled. Specific cues like wet-on-wet blending, splatter, vertical drips and cold-press paper grain give the hybrid ink and wash look.
+
+GPT Image 2.5 · Edit · Source: [@Kubra_286 on X](https://x.com/Kubra_286/status/2100063240105435328) · 187 likes on 2026-10-28
+
+[`watercolor`](tags.md#tag-watercolor) [`ink`](tags.md#tag-ink) [`portrait`](tags.md#tag-portrait) [`selfie`](tags.md#tag-selfie) [`splatter`](tags.md#tag-splatter)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded image ONLY for face and identity reference. Do not change facial structure, proportions, or realism.
+
+Create a high-detail mixed-media watercolor portrait of a woman with POSE STRICTLY LOCKED:
+Three-quarter view from back
+Upper body slightly turned away from camera
+Head turned back over shoulder toward viewer
+Direct eye contact
+Frame includes head, neck, and partial shoulder
+Composition tightly cropped (portrait focus)
+
+Expression (IMPORTANT):
+Calm yet emotionally intense, soft but piercing gaze, slightly parted lips, natural subtle tension in face — no exaggerated emotion.
+
+Rendering Style (LOCKED)
+Watercolor + ink hybrid illustration
+Soft fluid washes + sharp ink linework
+Fine dark lines defining eyes, nose, lips, jawline
+No painterly blur, no oil painting effect
+
+Color & Lighting (STRUCTURED)
+Strong split color contrast:
+Left side → warm (yellow, orange, magenta)
+Right side → cool (blue, cyan, violet)
+Abstract light from upper-left (represented as color bursts, not realistic light)
+Skin tones blend naturally with watercolor pigments (not flat coloring)
+
+Watercolor Behavior (VERY IMPORTANT)
+Wet-on-wet blending on face and skin
+Visible paint splashes around subject
+Controlled splatter and ink drops
+Subtle vertical drips (especially lower area)
+Organic color blooms and pigment edges
+Colors slightly bleed beyond edges (natural watercolor feel)
+
+Hair (MATCH STYLE)
+Loose tied or messy bun
+Wispy strands around face
+Hair absorbs surrounding colors (blue, purple, warm highlights)
+Slight motion feel, not static
+
+Background
+Clean white base
+Dynamic watercolor splashes behind subject (not random — composition-aware)
+No clutter, no objects
+
+Texture
+Visible cold-press watercolor paper grain
+Slight rough pigment edges
+Natural watercolor imperfections preserved
+
+Style: expressive watercolor + ink illustration
+
+Mood: artistic, soulful, emotionally engaging
+
+Aspect ratio: 4:5
+```
+
+</details>
+
 <a id="gpt-image-fisheye-selfie-doorstep-cat"></a>
 ### Fisheye selfie on a doorstep with curious cat
 
@@ -383,6 +456,33 @@ GPT Image 2.5 · Edit · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/s
 
 ```text
 Create a realistic fisheye photo of the woman in my uploaded selfie, preserving her exact facial features. She sits on a doorstep in front of weathered green wooden doors, wearing a beige trench coat, ivory turtleneck, and light blue jeans. A curious tabby-and-white cat fills the right foreground with an oversized nose and expressive eyes. Soft daylight, natural textures, playful candid mood, ultra-realistic photography, landscape 16:9, no text.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-watercolor-scrapbook-poster"></a>
+### Photo paired with watercolor painting on cream scrapbook poster
+
+<a href="https://x.com/Alina_with_Ai/status/2102714815793992093"><img src="../../previews/gpt-image-photo-to-watercolor-scrapbook-poster.jpg" width="360"></a>
+
+The prompt stacks a realistic copy of the uploaded photo above a watercolor repaint of the same scene, and lists identity, outfit and pose to keep consistent. Paper texture, splatter, edge and caption details give the layout an editorial scrapbook finish.
+
+GPT Image 2.5 · Edit · Source: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2102714815793992093) · 157 likes on 2026-10-28
+
+[`watercolor`](tags.md#tag-watercolor) [`scrapbook`](tags.md#tag-scrapbook) [`photo-reference`](tags.md#tag-photo-reference) [`poster`](tags.md#tag-poster) [`handmade-paper`](tags.md#tag-handmade-paper)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a vertical scrapbook-style artistic poster using the uploaded photo as the exact reference. Keep the woman’s identity, facial features, hairstyle, pink button-up shirt, light blue wide-leg jeans, white sneakers, pose, proportions, and outfit consistent.
+
+The poster is printed on textured warm ivory watercolor paper. At the top, place a clean, realistic version of the original photograph, showing the woman casually leaning against a terrace railing with one hand resting on the railing and the other in her pocket. Preserve the scenic lake, distant mountains, hillside houses, tall trees, warm sunlight, stone terrace, and vibrant pink bougainvillea.
+
+Below the photo, create a beautiful hand-painted watercolor version of the exact same scene and pose, with soft blue mountain washes, a calm lake, warm beige architecture, green trees, pink flowers, delicate paper texture, natural watercolor bleeding, visible brush strokes, subtle paint splatters, and irregular artistic edges. Make the watercolor version clearly recognizable as the same woman and location.
+
+Leave generous cream-colored paper space around both images for a premium editorial scrapbook aesthetic. Add elegant handwritten-style text underneath: “sunny days”, with a thin decorative line and a tiny heart beneath it.
+
+Soft natural color palette, cozy travel-journal aesthetic, realistic photo + delicate watercolor illustration, sophisticated composition, high detail, subtle film grain, authentic handmade paper texture, balanced spacing, clean vertical 4:5 composition, Pinterest/Instagram editorial aesthetic, photorealistic upper image and artistic watercolor lower image.
 ```
 
 </details>
@@ -469,6 +569,444 @@ Avoid
 - Too much text.
 
 Final Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.
+```
+
+</details>
+
+<a id="gpt-image-naive-pencil-illustration-from-photo"></a>
+### Photo redrawn as a naive pencil illustration poster
+
+<a href="https://x.com/oggii_0/status/2113499885181747239"><img src="../../previews/gpt-image-naive-pencil-illustration-from-photo.jpg" width="360"></a>
+
+Stacks style traits such as playful proportions, imperfect outlines and soft contrasting flat colors, then bans shadows, gradients and 3D effects to keep the result flat. The closing line anchors the output to a premium designer poster with a pencil look.
+
+GPT Image 2.5 · Edit · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2113499885181747239) · 134 likes on 2026-10-28
+
+[`naive-illustration`](tags.md#tag-naive-illustration) [`pencil`](tags.md#tag-pencil) [`flat-color`](tags.md#tag-flat-color) [`photo-to-illustration`](tags.md#tag-photo-to-illustration) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Draw this photo in the style of a modern, artistic naïve illustration: minimalist, hand-drawn, with playful proportions, imperfect outlines, soft yet contrasting flat colors, and decorative pencil strokes. No shadows, no gradients, no 3D effects. The overall look should resemble a premium designer poster, with a charming, whimsical, and authentic hand-drawn pencil aesthetic.
+```
+
+</details>
+
+<a id="gpt-image-autumn-die-cut-sticker-from-photo"></a>
+### Photo turned into autumn die-cut sticker
+
+<a href="https://x.com/Aneeza__S/status/2098457814507422182"><img src="../../previews/gpt-image-autumn-die-cut-sticker-from-photo.jpg" width="360"></a>
+
+The prompt first analyzes the uploaded photo, then redraws the subject as an illustration with a thick white die-cut border and soft shadow over the softened original background. A named autumn palette and a ban on photorealism and clip-art keep the style consistent.
+
+GPT Image 2.5 · Edit · Source: [@Aneeza__S on X](https://x.com/Aneeza__S/status/2098457814507422182) · 94 likes on 2026-10-28
+
+[`sticker`](tags.md#tag-sticker) [`autumn`](tags.md#tag-autumn) [`die-cut`](tags.md#tag-die-cut) [`illustration`](tags.md#tag-illustration) [`photo-to-sticker`](tags.md#tag-photo-to-sticker)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the uploaded photo into a charming AUTUMN ILLUSTRATED STICKER.
+
+IMPORTANT — USE THE UPLOADED PHOTO AS THE CONTENT REFERENCE:
+First analyze what is actually present in the original photograph: the person or people, animals, objects, clothing, hairstyle, pose, facial expression, interaction between subjects, surroundings, lighting and distinctive details.
+
+Recreate THIS specific photograph as a completely hand-drawn animated-style illustration.
+
+The final result must NOT look like an edited photograph, photo filter or realistic portrait. Completely redraw the main subject and all important foreground elements as a polished digital illustration.
+
+STICKER TRANSFORMATION:
+Turn the main subject or group of subjects into one large die-cut sticker.
+
+Create a thick, smooth white sticker border around the entire silhouette, including important accessories and decorative elements that belong to the sticker.
+
+Add a very subtle soft shadow underneath the white border so the sticker feels like a real physical vinyl or paper sticker placed over the original scene.
+
+Keep the original background from the uploaded photograph visible BEHIND the sticker.
+
+Slightly soften, simplify or gently blur the original background if necessary so the illustrated sticker clearly stands out, but preserve enough of the environment that the original location remains recognizable.
+
+Do not keep a realistic photographic face. The face must also become illustrated.
+
+If the photo contains an animal, transform the animal completely into a cute animated illustrated character while preserving its recognizable breed/type, colors, markings, proportions, pose and personality.
+
+ILLUSTRATION STYLE:
+Use a cozy modern digital illustration aesthetic inspired by premium stationery, seasonal stickers and charming editorial character art.
+
+Avoid photorealism, 3D rendering, plastic-looking characters, generic Disney-like characters or childish clip-art.
+
+AUTUMN TRANSFORMATION:
+Give the sticker a strong but tasteful autumn identity.
+
+Analyze the original photograph and creatively choose autumn details that naturally fit the subject instead of adding exactly the same decorations to every image.
+
+You may partially redesign the original clothing into a more autumnal version if it improves the result, while keeping the person's overall identity and personality recognizable.
+
+Use an autumn palette inspired by burnt orange, rust, terracotta, cinnamon, caramel, warm brown, muted mustard, cream, beige and deep burgundy.
+
+DECORATIVE STICKER ELEMENTS:
+Integrate several small illustrated autumn elements around the main character INSIDE or attached to the sticker silhouette.
+
+For example, leaves can float beside the character, appear in their hair, peek from behind their shoulders or interact with objects they are holding.
+
+Do not scatter random decorations everywhere. Make them feel intentionally composed around the original pose.
+
+Add tiny hand-drawn details such as dots, speckles, sparkles or delicate texture where appropriate.
+
+COMPOSITION :
+Preserve the general storytelling and pose of the original photograph, but feel free to simplify or slightly adjust the composition to create a stronger sticker silhouette.
+
+The sticker should be the clear visual focus and occupy a substantial part of the image.
+
+Do not simply draw a white outline around the original photograph.
+
+The transformation must be obvious:
+PHOTO → FULLY ILLUSTRATED AUTUMN CHARACTER → DIE-CUT STICKER.
+
+Keep the original photographic background behind it so the contrast between the real environment and illustrated sticker is clearly visible.
+```
+
+</details>
+
+<a id="gpt-image-selfie-giant-portrait-beach-birthday-cake"></a>
+### Giant Portrait Behind Beach Birthday Cake at Sunset
+
+<a href="https://x.com/Adnan_Ai2/status/2104759717289681001"><img src="../../previews/gpt-image-selfie-giant-portrait-beach-birthday-cake.jpg" width="360"></a>
+
+A reference photo locks the face, then the scene pairs a large close-up with a small full-body copy seated on the cake for a scale illusion. Exact text strings for the plaque and cake front, plus a request for clean spelling, keep the lettering legible.
+
+GPT Image 2.5 · Edit · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/status/2104759717289681001) · 92 likes on 2026-10-28
+
+[`selfie`](tags.md#tag-selfie) [`miniature-world`](tags.md#tag-miniature-world) [`birthday-cake`](tags.md#tag-birthday-cake) [`golden-hour`](tags.md#tag-golden-hour) [`face-reference`](tags.md#tag-face-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded girl reference image as the exact facial and appearance reference. Create a highly detailed cinematic fantasy birthday portrait inspired by the provided cake-and-beach composition. Show the same girl in two versions: a large realistic close-up portrait rising behind the cake, and a smaller full-body version sitting naturally on top of the cake. Keep her recognizable facial features, hairstyle, soft smile, eyes, and overall appearance consistent with the reference image. Dress her in an elegant cozy cream-white knitted outfit with a soft feminine look.
+Place everything on a beautiful beach during golden-hour sunset, with a glowing orange sky, soft clouds, ocean waves, warm sunlight, and cinematic reflections on the water. Create a huge luxurious round vanilla-and-chocolate drip cake in the foreground, covered with creamy white and chocolate frosting swirls, chocolate pieces, truffles, small decorative pearls, and realistic glossy chocolate drips. The small girl should sit naturally on the cake with a relaxed, cute pose, while the large portrait appears behind her with soft glowing edges and artistic depth.
+Add a chocolate plaque beside the girl with the text “Girls Make Life Sweeter ♥” and write “Stay Awesome ♡” on the front of the cake with a small crown above it. Make the text clean, readable, and correctly spelled. Use realistic skin texture, detailed hair strands, natural fabric texture, accurate proportions, soft shadows, warm rim lighting, shallow depth of field, photorealistic details, premium editorial photography, dreamy cinematic color grading, 8K quality, highly polished composition, vertical portrait format.
+```
+
+</details>
+
+<a id="gpt-image-minimalist-doodle-sketchbook-photo"></a>
+### Photo turned into minimalist black ink doodle
+
+<a href="https://x.com/Inshrah_ali_/status/2098462576346886442"><img src="../../previews/gpt-image-minimalist-doodle-sketchbook-photo.jpg" width="360"></a>
+
+Describes the line quality directly: wobbly brush-pen outlines, childlike shapes and a clean white background. Telling the model to keep the main subject and composition makes the style transfer reusable on any photo.
+
+GPT Image 2.5 · Edit · Source: [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2098462576346886442) · 88 likes on 2026-10-28
+
+[`doodle`](tags.md#tag-doodle) [`line-art`](tags.md#tag-line-art) [`sketchbook`](tags.md#tag-sketchbook) [`black-and-white`](tags.md#tag-black-and-white) [`style-transfer`](tags.md#tag-style-transfer)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the image into a minimalist hand-drawn doodle illustration. Use simple black brush-pen outlines with slightly wobbly, imperfect strokes. Reduce all details to cute, childlike shapes while preserving the main subject and composition. Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, black ink drawing, charming imperfections, simple cartoon illustration.
+```
+
+</details>
+
+<a id="gpt-image-naive-pencil-illustration-from-photo-2"></a>
+### Classroom girl in headphones as colored pencil illustration
+
+<a href="https://x.com/harboriis/status/2115028772588261435"><img src="../../previews/gpt-image-naive-pencil-illustration-from-photo-2.jpg" width="360"></a>
+
+Names the target style (naive, minimalist, uneven outlines, flat colors, decorative pencil strokes) and bans shadows, gradients and 3D effects. The designer poster and colored pencil references set the finish.
+
+GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2115028772588261435) · 75 likes on 2026-10-28
+
+[`colored-pencil`](tags.md#tag-colored-pencil) [`naive-art`](tags.md#tag-naive-art) [`photo-to-illustration`](tags.md#tag-photo-to-illustration) [`flat-color`](tags.md#tag-flat-color) [`cute`](tags.md#tag-cute)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn this photo into a contemporary, artist-made naïve illustration: minimalist and hand-drawn, with playful proportions, uneven outlines, flat colors that are soft yet contrasting, and decorative pencil strokes. No shadows, gradients, or 3D effects. Give it the feel of a high-end designer poster drawn with colored pencils. Keep it cute and cartoon-like.
+```
+
+</details>
+
+<a id="gpt-image-japanese-comic-poster-photo-comparison"></a>
+### Photo and Japanese comic poster comparison of Istanbul cats
+
+<a href="https://x.com/Goodmanprotocol/status/2114688658746028256"><img src="../../previews/gpt-image-japanese-comic-poster-photo-comparison.jpg" width="360"></a>
+
+The image splits into two halves, with the uploaded photo untouched on top and a redrawn version below. Exact hex colors for ink, red, blue and paper, plus a headline split across two lines in two colors, keep the screen-print look consistent.
+
+GPT Image 2.5 · Edit · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2114688658746028256) · 69 likes on 2026-10-28
+
+[`comparison`](tags.md#tag-comparison) [`screen-print`](tags.md#tag-screen-print) [`japanese-comic`](tags.md#tag-japanese-comic) [`poster`](tags.md#tag-poster) [`limited-palette`](tags.md#tag-limited-palette)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 3:4 vertical comparison image divided into two equal horizontal halves, seamlessly joined without borders or gaps.
+
+TOP HALF: Display the uploaded photograph exactly as it is, without editing, recoloring, or adding text. Preserve proportions; crop only peripheral background if necessary.
+
+BOTTOM HALF: Redraw the same subject as a Japanese hand-drawn comic poster with minimalist, limited-color screen-print aesthetics. Preserve the subject's recognizable features, pose, proportions, colors, and relationships between objects. Adapt naturally to people, animals, objects, or landscapes. Keep the essential scenery and add nothing absent from the original photograph.
+
+ART STYLE: Delicate, slightly irregular ink-black outlines (#02030B), simplified shapes, clean opaque color blocks, and minimal hard-edged shadows. Use warm red (#E9444B), muted gray-blue (#5296BD), and off-white paper (#ECEDE5), with red dominant over blue. Avoid photorealistic textures, dense hatching, 3D effects, and excessive details.
+
+LAYOUT & TEXT: Position the illustration in the upper-middle of the bottom half, with generous negative space and bold, hand-carved typography below. Add a small handwritten, subject-related caption at the top and a short handwritten annotation beside the subject, both in black. The main headline reads “Jen” in warm red on the first line and “Style” in gray-blue on the second. Each appears once. Keep all text within the bottom half, fully legible and uncropped. Replace sample text only when the user provides alternatives.
+
+FINAL RESULT: One complete 3:4 image, with the untouched original photograph above and its Japanese hand-drawn, limited-color poster interpretation below. No extra borders, watermarks, invented elements, or decorative clutter.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-ink-editorial-split-poster"></a>
+### Photo and black ink illustration split poster
+
+<a href="https://x.com/TheVirtualMuse/status/2109930829942288624"><img src="../../previews/gpt-image-photo-to-ink-editorial-split-poster.jpg" width="360"></a>
+
+Splits the canvas into exact halves, keeping the reference photo on top and redrawing its subject as a pen illustration on a black ink block below. Strict size ratios, a black and white palette with one optional accent, and fixed handwritten text slots for title, coordinates and diary line keep the layout consistent.
+
+GPT Image 2.5 · Edit · Source: [@TheVirtualMuse on X](https://x.com/TheVirtualMuse/status/2109930829942288624) · 69 likes on 2026-10-28
+
+[`editorial`](tags.md#tag-editorial) [`split-layout`](tags.md#tag-split-layout) [`ink-illustration`](tags.md#tag-ink-illustration) [`handwritten-typography`](tags.md#tag-handwritten-typography) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.
+
+Divide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.
+
+1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH
+
+Use the uploaded reference photograph directly in the upper 50% of the poster.
+
+Preserve its original photographic quality, sharpness, natural lighting, and color relationships.
+
+Allow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.
+
+If required, naturally extend a small portion of the surrounding environment to fit the composition.
+
+Do not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.
+
+Do not introduce black borders, white margins, or empty edges.
+
+2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION
+
+Use a warm, near-white ivory paper background with an extremely subtle paper texture.
+
+Analyze the main subject and visual story of the uploaded reference image.
+
+Extract only the primary subject, preserving one or two essential identifying elements.
+
+Remove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.
+
+Transform the primary subject into a sophisticated black-ink editorial illustration.
+
+ILLUSTRATION STYLE:
+
+Use natural, clean pen strokes with varied line weight.
+
+Preserve an authentic hand-drawn appearance with expressive but controlled linework.
+
+Avoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.
+
+Place a large, nearly pure-black rectangular ink block behind the illustrated subject.
+
+The rectangular block should have subtly imperfect, handmade print-style edges.
+
+Keep the black background clean, with only fine paper grain and minimal noise.
+
+Avoid obvious hatching, scratches, architectural lines, or complex textures.
+
+ILLUSTRATION SCALE AND COMPOSITION:
+
+The illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.
+
+Maintain a clear visual focal point with generous negative space surrounding the illustration.
+
+3. COLOR RULES
+
+The bottom illustration must follow a strictly black-and-white color palette by default.
+
+Preserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.
+
+Ordinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.
+
+Any preserved accent color must remain strictly localized to the relevant subject or area.
+
+Never allow accent colors to spread across the entire illustration.
+
+4. TYPOGRAPHY AND EDITORIAL LAYOUT
+
+Automatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.
+
+The typography must resemble handwritten editorial annotations from an independent art publication.
+
+TOP-LEFT CORNER:
+
+Generate a short handwritten title consisting of 2–5 words, arranged across two lines.
+
+Directly beneath the title, include three short English action verbs relevant to the photograph.
+
+TOP-RIGHT CORNER:
+
+Display only two lines of geographic coordinates:
+
+Latitude
+Longitude
+
+Do not include any additional text in this area.
+
+BOTTOM-LEFT CORNER:
+
+Display the location name followed by the word "DIARY."
+
+Directly beneath it, add one short descriptive English sentence inspired by the photograph.
+
+TYPOGRAPHY STYLE:
+
+Use a rough, upright, slightly irregular handwritten typeface.
+
+Maintain subtle imperfections and a natural editorial annotation aesthetic.
+
+Avoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.
+
+5. FINAL ART DIRECTION
+
+The finished poster must combine:
+
+Authentic, high-quality photography.
+Minimalist black-and-white editorial illustration.
+Generous negative space.
+Independent art publication aesthetics.
+Quiet, restrained, sophisticated visual storytelling.
+Natural handwritten typography.
+A balanced relationship between documentary realism and expressive hand-drawn artwork.
+
+The overall result should resemble a carefully designed, collectible editorial art print.
+
+6. FINAL OUTPUT REQUIREMENTS
+
+ASPECT RATIO:
+2:3 vertical.
+
+RESOLUTION:
+High-resolution, sharp, print-quality output.
+
+COMPOSITION:
+
+Exactly 50% original reference photography on top.
+
+Exactly 50% editorial illustration on the bottom.
+
+One perfectly straight horizontal dividing line.
+
+One complete, standalone poster.
+
+RESTRICTIONS:
+
+No collages.
+No multi-poster layouts.
+No combined images.
+No unnecessary decorative elements.
+No modifications to the original subject's identity or appearance.
+No excessive illustration details.
+No changes to the original photograph's natural color relationships.
+
+FINAL GOAL:
+
+Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.
+```
+
+</details>
+
+<a id="gpt-image-traveler-sunset-chest-portal-ravens"></a>
+### Traveler with sunset landscape inside chest and ravens
+
+<a href="https://x.com/AiWithTariq/status/2103695256445477234"><img src="../../previews/gpt-image-traveler-sunset-chest-portal-ravens.jpg" width="360"></a>
+
+Blends a miniature landscape into the torso, jacket and backpack, so the portrait and the scene read as one double exposure. A cool slate sky against a molten amber core, plus a low angle 85mm lens and two ravens at the edges, adds contrast and depth.
+
+GPT Image 2.5 · Edit · Source: [@AiWithTariq on X](https://x.com/AiWithTariq/status/2103695256445477234) · 67 likes on 2026-10-28
+
+[`double-exposure`](tags.md#tag-double-exposure) [`selfie`](tags.md#tag-selfie) [`surreal`](tags.md#tag-surreal) [`miniature-world`](tags.md#tag-miniature-world) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A breathtaking surreal double-exposure fine-art photograph and masterwork cinematic composite featuring an adventurous, reflective traveler with the uploaded face as reference, depicted in a dramatic low-angle three-quarter profile with their neck gently extended and gaze cast reverently upward toward the sky. The character is dressed in a travel-worn, dusty khaki button-down utility shirt with rolled sleeves and textured denim trousers, carrying a heavy weathered expedition backpack. Seamlessly integrated and blending directly into the wanderer’s torso, jacket, and pack is an enchanting, luminous miniature landscape centered around a colossal, incandescent golden sunset that bathes the scene in warm radiant amber brilliance. Within this surreal chest portal, a winding path of stone steps ascends toward the blazing horizon, flanked by the dark silhouette of an ancient acacia tree and fiery autumn groves of deep orange and crimson foliage that disintegrate into floating embers, billowing dust clouds, and miniature flying bird silhouettes drifting into the open air. Soaring through the surrounding atmosphere are two photorealistic, glossy black ravens with meticulously rendered wing feathers and sharp talons, one carving dynamically across the left foreground and the other descending from the upper right amid ethereal tendrils of gray smoke. The backdrop consists of expansive, muted slate-blue overcast clouds with soft diffused daylight, establishing a poignant color temperature juxtaposition between the cool, cinematic ambient exterior and the molten, hyper-saturated warm glow emanating from the core. Captured from a low-angle medium shot with a prime 85mm portrait lens, deep depth of field rendering crisp tactile details from the rugged cotton weave and feathered edges to the dynamic particulate clouds, featuring high-contrast cinematic color grading, balanced chiaroscuro lighting, and poetic surrealist visual storytelling.
+```
+
+</details>
+
+<a id="gpt-image-watercolor-double-exposure-butterfly-portrait"></a>
+### Watercolor double exposure portrait with Monarch butterflies
+
+<a href="https://x.com/Kubra_286/status/2100220440543441049"><img src="../../previews/gpt-image-watercolor-double-exposure-butterfly-portrait.jpg" width="360"></a>
+
+A realistic face is kept as the sharpest focal point while translucent watercolor washes dissolve the cheek, neck and clothing, and the prompt names exactly where the effect must appear. A cool teal and navy palette against vivid orange butterflies gives strong contrast.
+
+GPT Image 2.5 · Edit · Source: [@Kubra_286 on X](https://x.com/Kubra_286/status/2100220440543441049) · 67 likes on 2026-10-28
+
+[`watercolor`](tags.md#tag-watercolor) [`double-exposure`](tags.md#tag-double-exposure) [`portrait`](tags.md#tag-portrait) [`butterfly`](tags.md#tag-butterfly) [`mixed-media`](tags.md#tag-mixed-media)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 2:3 vertical premium mixed-media watercolor portrait on off-white cold-pressed watercolor paper.
+Use the uploaded image only as the subject reference. Keep the subject’s natural features, overall appearance, and recognizable look intact, but do not let the image turn into a generic painted character.
+Show the subject in a bust-length three-quarter profile, facing slightly toward the viewer’s right, with the gaze directed softly off-camera. Keep the expression calm, warm, serene, and naturally pleasant, with a subtle gentle smile and bright relaxed eyes. The mood should feel elegant, fresh, dreamy, and refined — not sad, blank, tired, or overly serious.
+Keep the face highly realistic and softly photorealistic, not fully painted, not sketch-like, and not cartoonish. The face should be the main focal point. Use soft diffused natural-looking light, similar to indirect window light, to gently illuminate the forehead, nose bridge, cheeks, lips, and jawline, with delicate depth and soft shadows. Render realistic eyes with soft catchlights, defined brows, natural lips, smooth skin transitions, and fine hair strands.
+Style the hair in an elegant loose low updo / low messy bun at the nape, with a few soft tendrils framing the face and neck. Intertwine subtle rustic botanical accents in the hair — tiny dried wildflowers in muted yellow, white, and blue tones — delicate, understated, and premium.
+Add several detailed Monarch butterflies with vivid orange wings, black veins, black borders, and tiny white spots. Keep them crisp, refined, and slightly dimensional. Place multiple butterflies naturally around the portrait: some resting in the hair, one near the upper-right side, and others floating around the shoulders and lower frame. Their warm orange color should stand out beautifully against the cool watercolor tones.
+Create a strong mixed-media double-exposure effect where parts of the portrait dissolve into watercolor blooms. This effect must be clearly visible across selected parts of the cheek, temple, jawline, neck, shoulder, and lower clothing area — not only in the background. The watercolor should feel translucent and layered over the realistic portrait, so the subject remains clearly realistic underneath.
+Use expressive watercolor washes in muted teal, seafoam green, dusty blue, soft gray, charcoal, and deep navy tones. Let the washes bloom naturally into the paper with wet-on-wet behavior, soft transparent bleeding, irregular edges, subtle blooms, and a few darker pooled edges where pigment appears to have dried. Allow the watercolor to expand organically into the negative space while keeping the face as the sharpest and most detailed focal area.
+Dress the subject in a simple deep navy-blue top / blouse with a high rounded neckline and soft gathered or finely pleated texture around the shoulders and upper chest. The garment should look minimal, elegant, matte, and plain, with no collar, no buttons, no printed pattern, and no decorative embellishments. Keep the outfit close to the reference look. Let the lower portion of the top gradually dissolve into blue-gray watercolor splashes.
+Preserve the contrast between hyper-detailed realism and loose abstract watercolor forms. The final artwork should feel like a luxury fine-art portrait print that combines:
+
+photorealistic portraiture
+abstract watercolor fusion
+soft ethereal surrealism
+crisp butterfly detailing
+cool watercolor tones contrasted with vivid orange butterflies
+textured watercolor paper and handcrafted mixed-media realism
+Overall, the result should feel poetic, airy, elegant, and premium, with the viewer’s eye drawn first to the realistic face, then to the translucent watercolor overlays and butterflies surrounding the subject.
+```
+
+</details>
+
+<a id="nano-banana-geometric-character-poster-from-photo"></a>
+### Flat geometric character poster from a reference photo
+
+<a href="https://x.com/harboriis/status/2110238400163074321"><img src="../../previews/nano-banana-geometric-character-poster-from-photo.jpg" width="360"></a>
+
+Numbered sections lock format, character, style, face and palette, with hex colours fixing a six colour scheme. A negative list and a picture in picture card keep the reference identity while the style stays flat.
+
+Nano Banana 2.1 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2110238400163074321) · 64 likes on 2026-10-28
+
+[`flat-geometric`](tags.md#tag-flat-geometric) [`character-poster`](tags.md#tag-character-poster) [`six-colour-palette`](tags.md#tag-six-colour-palette) [`editorial`](tags.md#tag-editorial) [`reference-photo`](tags.md#tag-reference-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark. Include a small rounded picture-in-picture card in the bottom right corner displaying the original reference photo
+```
+
+</details>
+
+<a id="nano-banana-style-transfer-cobra-witch-hat"></a>
+### Cobra restyled as star pattern witch sticker
+
+<a href="https://x.com/thefinnmckenty/status/2107574685433286858"><img src="../../previews/nano-banana-style-transfer-cobra-witch-hat.jpg" width="360"></a>
+
+Two reference images split the job: image 1 supplies the content and image 2 supplies the style. The prompt lists the style attributes to carry over (medium, palette, mood, rendering, saturation, texture).
+
+Nano Banana 2.1 · Edit · Source: [@thefinnmckenty on X](https://x.com/thefinnmckenty/status/2107574685433286858) · 30 likes on 2026-10-28
+
+[`style-transfer`](tags.md#tag-style-transfer) [`reference-image`](tags.md#tag-reference-image) [`sticker`](tags.md#tag-sticker) [`illustration`](tags.md#tag-illustration) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an image of the content as shown in [image 1] but with the same medium, color palette, mood, rendering technique, saturation level, textures, and overall style of [image 2]. Objective: Style transfer from [image 1 to [image 2]
 ```
 
 </details>

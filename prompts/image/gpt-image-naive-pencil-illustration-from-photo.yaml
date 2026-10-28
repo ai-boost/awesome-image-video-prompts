@@ -1,0 +1,25 @@
+id: gpt-image-naive-pencil-illustration-from-photo
+title:
+  en: Photo redrawn as a naive pencil illustration poster
+  zh: 照片重绘为朴素风铅笔插画海报
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- naive-illustration
+- pencil
+- flat-color
+- photo-to-illustration
+- poster
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2113499885181747239
+  credit: Oogie
+  likes: 134
+  captured: '2026-10-28'
+  posted: '2026-10-23'
+notes:
+  en: Stacks style traits such as playful proportions, imperfect outlines and soft contrasting flat colors, then bans shadows, gradients and 3D effects to keep the result flat. The closing line anchors the output to a premium designer poster with a pencil look.
+  zh: 先叠加俏皮比例、不完美轮廓、柔和对比的平涂色等风格特征，再明确禁用阴影、渐变和3D效果，让画面保持扁平。结尾用高级设计师海报和铅笔质感锚定整体气质。
+prompt: |
+  Draw this photo in the style of a modern, artistic naïve illustration: minimalist, hand-drawn, with playful proportions, imperfect outlines, soft yet contrasting flat colors, and decorative pencil strokes. No shadows, no gradients, no 3D effects. The overall look should resemble a premium designer poster, with a charming, whimsical, and authentic hand-drawn pencil aesthetic.

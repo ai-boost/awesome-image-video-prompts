@@ -1,0 +1,35 @@
+id: veo-strawberry-gelato-churn-macro
+title:
+  en: Strawberry Gelato Churn in Macro Close-Up
+  zh: 草莓冰淇淋制作过程的微距特写
+model: Veo 3.1
+mode: text-to-video
+tags:
+- food
+- macro
+- commercial
+- slow-motion
+- json-prompt
+source:
+  name: '@Fujimoto_hina on X'
+  url: https://x.com/Fujimoto_hina/status/2101697533705920970
+  credit: Aegon
+  likes: 108
+  captured: '2026-10-28'
+  posted: '2026-09-20'
+video: https://x.com/Fujimoto_hina/status/2101697533705920970
+notes:
+  en: A four-beat sequence runs from sliced fruit to a zero-gravity vortex, the churning cylinder and a final scoop, so the camera move for each beat is clear. Separate fields for camera, lighting, visual style and a negative prompt keep the macro look consistent.
+  zh: 四段式结构依次是切开草莓、失重漩涡、搅拌筒和最后的挖球，每段都有明确的镜头运动。镜头、光线、视觉风格和负面提示词分字段书写，让微距质感保持一致。
+prompt: |
+  {
+    "title": "Crimson Cream: The Artisanal Churn",
+    "duration": "10 seconds",
+    "format": "16:9, 4K",
+    "style": "Cinematic photorealistic artisanal culinary commercial",
+    "prompt": "Create a seamless 10-second cinematic journey tracing the creation of decadent churned strawberry gelato. Begin with ripe, dew-kissed organic strawberries sliced on chilled dark marble, sending microscopic ruby juice droplets and seeds bursting into the air. Transition into a dynamic zero-gravity vortex where velvety sweet cream, pure vanilla bean specks, and thick strawberry coulis collide and swirl together in mid-air ribbons. Move directly into the churning cylinder where sub-zero brass paddles whip the mixture, rapidly crystallizing into dense, glossy, ribboned ice cream with frost vapors swirling outward. Finish with an ultra-macro 1000fps ice cream scoop gliding through the dense mass, rolling up a perfect textured sphere with visible strawberry chunks, delicate frost crystals, glistening condensation, and a single cascading drop of vibrant strawberry reduction.",
+    "visual_style": "Extreme macro, ultra-shallow depth of field, authentic churning physics, realistic thermodynamic frost and vapor, rich cream and ruby-pink berry palette with deep contrasting marble accents",
+    "camera": "Continuous kinetic macro push-in, seamless fluid-vortex tumble, rotational cylinder tracking, and ultra-high-speed slow-motion curl reveal",
+    "lighting": "Crisp morning natural rim lighting transitioning into cool cryogenic frosty blues, balanced by warm culinary studio highlights on glossy fruit surfaces",
+    "negative_prompt": "text, watermark, logo, subtitles, cartoon, artificial neon pink, icy melting mush, plastic texture, dry powder, low resolution, flat lighting, jump cuts, jerky camera movement, grainy footage"
+  }

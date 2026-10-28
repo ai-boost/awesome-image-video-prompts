@@ -1,6 +1,6 @@
 # Seedance 2.5
 
-[Back to the list](../../README.md) · All 144 entries · **1** · [2](video-seedance25-2.md)
+[Back to the list](../../README.md) · All 146 entries · **1** · [2](video-seedance25-2.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### Seoul subway revenge comedy
@@ -1444,6 +1444,33 @@ Performance constraints: Female lead not exaggeratedly cutesy. Smiles, nods, hai
 
 </details>
 
+<a id="seedance-classroom-sudden-gesture-push-in"></a>
+### Classroom students react to a sudden gesture
+
+<a href="https://www.reddit.com/r/Seedance_AI/comments/1x6t7ph/an_8second_classroom_drama_made_with_seedance_25"><img src="../../previews/seedance-classroom-sudden-gesture-push-in.jpg" width="360"></a>
+
+Anchors the first frame with a reference image and a preserve clause for characters, clothing, layout and starting positions. It then describes one action with staggered background reactions, a single slow push-in and a brief slow motion beat.
+
+Seedance 2.5 · Image-to-video · Source: [u/Independent-Date393 on Reddit](https://www.reddit.com/r/Seedance_AI/comments/1x6t7ph/an_8second_classroom_drama_made_with_seedance_25) · 558 likes on 2026-10-28
+
+[`classroom`](tags.md#tag-classroom) [`cinematic`](tags.md#tag-cinematic) [`push-in`](tags.md#tag-push-in) [`slow-motion`](tags.md#tag-slow-motion) [`reaction-shot`](tags.md#tag-reaction-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an 8-second cinematic video using the reference image. Preserve the characters, clothing, classroom layout, and starting positions.
+
+A female student in a dark blue blazer suddenly extends her arm toward a male student seated on a wooden chair. He leans forward in surprise. Nearby students notice the movement and exchange nervous looks, reacting with slight delays.
+
+Warm sunlight enters through large windows, revealing drifting dust above desks scattered with books and notebooks.
+
+Use one slow camera push-in, natural movement, restrained facial expressions, and a brief moment of subtle slow motion during the gesture. Maintain consistent anatomy, lighting, and spatial relationships.
+
+Realistic cinematic photography, 16:9 widescreen, 4K where supported. No text or watermark.
+```
+
+</details>
+
 <a id="seedance-kpop-two-idol-mv"></a>
 ### Two-idol K-pop music video, shot by shot
 
@@ -1459,6 +1486,49 @@ Seedance 2.5 · Text-to-video · Source: [@Just_sharon7 on X](https://x.com/Just
 
 ```text
 30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.
+```
+
+</details>
+
+<a id="seedance-anime-rooftop-four-shot-brawl"></a>
+### Four-shot anime rooftop fight between two women
+
+<a href="https://www.reddit.com/r/Seedance_AI/comments/1x97lk3/seedance_25_anime_fight_prompt_a_fourshot_rooftop"><img src="../../previews/seedance-anime-rooftop-four-shot-brawl.jpg" width="360"></a>
+
+Fixes each fighter's outfit and hand accessories in a character reference block, then splits 30 seconds into four timed shots. Each shot gives one camera move and a chain of strike, recoil and counter, and the audio line names impacts, scuffs, chains and wind.
+
+Seedance 2.5 · Text-to-video · Source: [u/Fresh-Resolution182 on Reddit](https://www.reddit.com/r/Seedance_AI/comments/1x97lk3/seedance_25_anime_fight_prompt_a_fourshot_rooftop) · 530 likes on 2026-10-28
+
+[`anime`](tags.md#tag-anime) [`fight-scene`](tags.md#tag-fight-scene) [`multi-shot`](tags.md#tag-multi-shot) [`camera-movement`](tags.md#tag-camera-movement) [`cel-shading`](tags.md#tag-cel-shading)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second, four-shot 2D anime fight between two adult women. Bold outlines, flat colors, hard cel shading, deep foreshortening, speed smears, and brief two-frame impact drawings. Blue-teal backgrounds flash pink or orange on contact.
+
+Character references
+
+Mina: long black hair, green striped crop top, orange graffiti cargo pants, white sneakers, black fingerless boxing gloves, chain bracelet.
+
+Rue: long pink hair, black crop top, black cargo shorts with chains, bare hands with silver rings, lime sneakers, dog tags.
+
+Keep their identities, outfits, and hand accessories distinct throughout.
+
+Location: empty concrete rooftop, rear chain-link fence, steel vent at center-right. Mina begins left, Rue right. Maintain readable spacing, depth, and movement.
+
+0–8s — Opening exchange
+Rise from floor level between their opening attacks, then orbit around crossing arms. Mina throws a hook; Rue blocks and counters. A straight punch breaks the guard, followed by a push kick that sends Mina sliding into her next approach.
+
+8–16s — Fence rebound
+Track Rue toward the fence. She rebounds over Mina, who rolls through the landing attack and answers with a sweep. Drop the camera low as both recover, turn, and exchange kicks.
+
+16–24s — Vent-box clash
+Dive toward the vent as Mina attacks from above. Rue evades and dents the metal with a kick. Continue around the damaged vent through a compact sequence of strikes, blocks, and counters.
+
+24–30s — Final collision
+Both launch upward. Spiral downward, pass between them, and rotate to a side view as their fists converge. The background flashes hot pink. Cut just before contact, with both fighters and camera still moving.
+
+Use continuous camera movement within each shot. Every impact has direction, recoil, and recovery. No slow motion, extended holds, idle poses, dialogue, subtitles, or gore. Audio: impacts, shoe scuffs, rattling chains, and rooftop wind.
 ```
 
 </details>
@@ -3986,74 +4056,6 @@ Keep the same couple, faces, hairstyles, outfits, accessories and car throughout
 === NEGATIVE ===
 
 No cinematic commercial look, no gimbal shots, no drone shots, no dramatic lighting, no beauty filters, no plastic skin, no CGI appearance, no anime, no cartoon
-```
-
-</details>
-
-<a id="seedance-korean-farm-day-front-facing-home-video"></a>
-### Korean Farm Day Filmed Like Home Video
-
-<a href="https://x.com/saniaspeaks_/status/2098742251472261330"><img src="../../previews/seedance-korean-farm-day-front-facing-home-video.jpg" width="360"></a>
-
-A timeline of five 5 second beats keeps a 30 second clip coherent. Repeated rules for a camera always in front, handheld DV flaws and sound limited to location audio keep the home-video realism.
-
-Seedance 2.5 · Text-to-video · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2098742251472261330) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`home-video`](tags.md#tag-home-video) [`dv-camcorder`](tags.md#tag-dv-camcorder) [`korean`](tags.md#tag-korean) [`vlog`](tags.md#tag-vlog) [`farm`](tags.md#tag-farm)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman visiting a small traditional farm and helping with the animals. No reference image.
-
-A naturally pretty beautiful Korean woman in her early 20s, realistic natural skin texture, minimal makeup, relaxed and cheerful personality. Long black hair tied in a loose low ponytail. She wears a loose white cotton T-shirt, light olive-green cargo pants, brown ankle boots, and a beige canvas crossbody bag. Keep the same face, hairstyle, clothing, body proportions, and overall appearance throughout the entire video.
-
-A small traditional countryside farm outside Seoul during a warm summer afternoon. Wooden fences, green fields, an old farmhouse, barn, hay bales, vegetable patches, chickens, cows, buckets, farming tools, trees and natural countryside surroundings. The farm feels ordinary and lived-in, not like a tourist attraction.
-
-The camera is ALWAYS positioned IN FRONT OF THE GIRL, never behind her. A friend stands or walks in front of her, casually filming her with a handheld consumer DV camcorder/smartphone. Her front face must remain clearly visible during the important moments. The camera naturally moves backward while she walks toward it. Use imperfect handheld movement, small shakes, slightly uneven framing, autofocus hunting, occasional exposure changes, natural motion blur, soft digital detail, mild image noise, faded early-2000s home-video colors, and occasional accidental zooms.
-
-Absolutely NO rear-view shots, NO filming from behind, NO drone, NO gimbal, NO cinematic tracking shots, NO polished commercial look, NO beauty filter. It should genuinely feel like a friend casually recorded this afternoon.
-
-TIMELINE
-
-0:00–0:05 — Arriving at the Farm
-
-The girl walks toward the farm entrance while the friend walks backward in front of her filming. She smiles naturally and looks around at the animals and fields. She says casually in Korean:
-
-“오늘 농장에 왔어요.”
-
-Natural footsteps, birds, insects and distant farm sounds.
-
-0:05–0:10 — Feeding the Cow
-
-Still filmed from the front, the girl approaches a calm cow and holds out fresh vegetables. The cow gently eats from her hand. She laughs naturally and looks at the camera, then back at the cow.
-
-0:10–0:15 — Helping With Vegetables
-
-Hard cut. The camera remains in front of her as she walks through a vegetable patch and picks fresh vegetables. She holds them up toward the camera with a happy smile.
-
-0:15–0:20 — Chickens
-
-Hard cut. Several chickens suddenly walk across the path in front of her. The camera stays facing her from the front as she laughs and carefully steps around them. One chicken comes close to her boots.
-
-0:20–0:25 — Farmhouse Break
-
-She sits outside the farmhouse with a basket of freshly picked vegetables and eats a piece of fresh fruit. She looks relaxed and slightly tired from working. She smiles at the camera and says:
-
-“생각보다 재밌어요.”
-
-0:25–0:30 — Walking Away / Goodbye
-She gets up and walks toward the camera, then stops near the farm entrance. The friend keeps filming from directly in front of her. She gives a small wave and says:
-
-“다음에 또 올게요. 안녕!”
-
-She walks past the camera as the recording ends naturally.
-
-AUDIO:
-Only authentic location sound: birds, chickens, cows, insects, footsteps, leaves, distant farm activity and natural conversation. No background music, no narration, no artificial sound effects.
-
-FINAL LOOK:
-Completely believable real-life home-video footage. Slightly imperfect, spontaneous, unpolished and human. Front-facing camera coverage throughout the story, with the girl's face clearly visible.
 ```
 
 </details>

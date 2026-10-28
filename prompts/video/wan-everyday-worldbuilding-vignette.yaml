@@ -1,0 +1,37 @@
+id: wan-everyday-worldbuilding-vignette
+title:
+  en: Sleeping cat-eared girl in quiet bedroom
+  zh: 安静卧室里熟睡的猫耳女孩
+model: Wan 3.0
+mode: reference-to-video
+tags:
+- worldbuilding
+- anime
+- multi-shot
+- handheld
+- character-consistency
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2104946617937727524
+  credit: Kōda
+  likes: 88
+  captured: '2026-10-28'
+  posted: '2026-09-29'
+video: https://x.com/aimikoda/status/2104946617937727524
+notes:
+  en: A character reference is expanded into 19 short observational cuts. The prompt infers the character's role and world from their design, and fixes the camera to shoulder-mounted handheld at 28 to 40mm with clean diegetic sound only. Reduce the number of cuts for shorter clips or other models.
+  zh: 以角色参考图为起点，扩展为19个简短的观察式镜头，由角色设计推断其身份与世界观。镜头固定为28到40mm肩扛手持风格，只保留干净的现场环境音。换模型或缩短时长时可减少镜头数量。
+prompt: |
+  Create an everyday worldbuilding vignette built from 19 short cuts following the character from @[character reference] through ordinary moments in their world. Preserve the character’s identity, visual style and overall design. Keep everything consistent.
+
+  Infer the character’s role, status, daily routine, environment, social context and relationship to the world from their design. Use the character as a guide through the setting, revealing how this world functions through ordinary lived experience rather than exposition or major plot events.
+
+  Do not build one large dramatic plot. Each cut should feel like a small observational moment that adds another layer of understanding to the setting. The character does not need to be the center of attention at all times. The surrounding world should feel active, inhabited and specific.
+
+  Preserve the character’s moral alignment, temperament and social presence. A villain should still feel unsettling or feared within ordinary life. A heroic or gentle character should reveal that nature just as subtly. Do not force wholesomeness, redemption or spectacle.
+
+  Use objective third-person observational cinematography with restrained shoulder-mounted handheld movement and natural 28–40mm lens language. No POV, no camera acknowledgment, no vlog framing, no surveillance style, no gimbal movement, cranes or drones. Keep the camera detached and readable with subtle micro-jitter, shoulder drift, soft focus breathing, delayed reframing and brief reactive pans.
+
+  Keep the piece grounded, lived-in and atmospheric. Favor environmental storytelling, social texture, routine behavior and cultural detail over exposition.
+
+  Use only clean diegetic location sound. No dialogue, narration, BGM, subtitles or title cards.

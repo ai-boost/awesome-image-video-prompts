@@ -1,0 +1,42 @@
+id: gpt-image-watercolor-double-exposure-butterfly-portrait
+title:
+  en: Watercolor double exposure portrait with Monarch butterflies
+  zh: 帝王蝶环绕的水彩双重曝光肖像
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- double-exposure
+- portrait
+- butterfly
+- mixed-media
+source:
+  name: '@Kubra_286 on X'
+  url: https://x.com/Kubra_286/status/2100220440543441049
+  credit: Kubra Ai
+  likes: 67
+  captured: '2026-10-28'
+  posted: '2026-09-16'
+notes:
+  en: A realistic face is kept as the sharpest focal point while translucent watercolor washes dissolve the cheek, neck and clothing, and the prompt names exactly where the effect must appear. A cool teal and navy palette against vivid orange butterflies gives strong contrast.
+  zh: 提示词让写实的脸保持最清晰，并明确指出水彩晕染要出现在脸颊、脖颈和衣物等具体位置，形成半透明叠加的双重曝光。冷色的青绿与深蓝配上鲜橙色蝴蝶，对比强烈。
+prompt: |
+  Create a 2:3 vertical premium mixed-media watercolor portrait on off-white cold-pressed watercolor paper.
+  Use the uploaded image only as the subject reference. Keep the subject’s natural features, overall appearance, and recognizable look intact, but do not let the image turn into a generic painted character.
+  Show the subject in a bust-length three-quarter profile, facing slightly toward the viewer’s right, with the gaze directed softly off-camera. Keep the expression calm, warm, serene, and naturally pleasant, with a subtle gentle smile and bright relaxed eyes. The mood should feel elegant, fresh, dreamy, and refined — not sad, blank, tired, or overly serious.
+  Keep the face highly realistic and softly photorealistic, not fully painted, not sketch-like, and not cartoonish. The face should be the main focal point. Use soft diffused natural-looking light, similar to indirect window light, to gently illuminate the forehead, nose bridge, cheeks, lips, and jawline, with delicate depth and soft shadows. Render realistic eyes with soft catchlights, defined brows, natural lips, smooth skin transitions, and fine hair strands.
+  Style the hair in an elegant loose low updo / low messy bun at the nape, with a few soft tendrils framing the face and neck. Intertwine subtle rustic botanical accents in the hair — tiny dried wildflowers in muted yellow, white, and blue tones — delicate, understated, and premium.
+  Add several detailed Monarch butterflies with vivid orange wings, black veins, black borders, and tiny white spots. Keep them crisp, refined, and slightly dimensional. Place multiple butterflies naturally around the portrait: some resting in the hair, one near the upper-right side, and others floating around the shoulders and lower frame. Their warm orange color should stand out beautifully against the cool watercolor tones.
+  Create a strong mixed-media double-exposure effect where parts of the portrait dissolve into watercolor blooms. This effect must be clearly visible across selected parts of the cheek, temple, jawline, neck, shoulder, and lower clothing area — not only in the background. The watercolor should feel translucent and layered over the realistic portrait, so the subject remains clearly realistic underneath.
+  Use expressive watercolor washes in muted teal, seafoam green, dusty blue, soft gray, charcoal, and deep navy tones. Let the washes bloom naturally into the paper with wet-on-wet behavior, soft transparent bleeding, irregular edges, subtle blooms, and a few darker pooled edges where pigment appears to have dried. Allow the watercolor to expand organically into the negative space while keeping the face as the sharpest and most detailed focal area.
+  Dress the subject in a simple deep navy-blue top / blouse with a high rounded neckline and soft gathered or finely pleated texture around the shoulders and upper chest. The garment should look minimal, elegant, matte, and plain, with no collar, no buttons, no printed pattern, and no decorative embellishments. Keep the outfit close to the reference look. Let the lower portion of the top gradually dissolve into blue-gray watercolor splashes.
+  Preserve the contrast between hyper-detailed realism and loose abstract watercolor forms. The final artwork should feel like a luxury fine-art portrait print that combines:
+
+  photorealistic portraiture
+  abstract watercolor fusion
+  soft ethereal surrealism
+  crisp butterfly detailing
+  cool watercolor tones contrasted with vivid orange butterflies
+  textured watercolor paper and handcrafted mixed-media realism
+  Overall, the result should feel poetic, airy, elegant, and premium, with the viewer’s eye drawn first to the realistic face, then to the translucent watercolor overlays and butterflies surrounding the subject.

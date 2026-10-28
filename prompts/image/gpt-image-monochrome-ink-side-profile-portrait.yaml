@@ -1,0 +1,44 @@
+id: gpt-image-monochrome-ink-side-profile-portrait
+title:
+  en: Monochrome ink portrait of a man in sunglasses
+  zh: 墨色水墨风戴墨镜男士侧脸肖像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- monochrome
+- ink-wash
+- side-profile
+- editorial
+- grunge
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2100427348789363114
+  credit: Mr. Tariq
+  likes: 91
+  captured: '2026-10-28'
+  posted: '2026-09-17'
+notes:
+  en: Anchors the result to an uploaded reference by naming the pose, angle, texture and background to keep, then limits the palette to black, charcoal, gray and beige. Listing grunge elements like ink wash, splatter, scribbles and faded type, plus negative space, gives a gallery poster look.
+  zh: 先指定要保留的参考图姿态、角度、质感与背景，再把配色限定为黑、炭灰、灰与米白。逐项列出水墨晕染、泼溅、手写涂鸦和淡化字体等粗粝元素，并留足空白，形成画廊海报质感。
+prompt: |
+  Use the uploaded image as the main composition and style reference. Recreate the artwork almost exactly, keeping the same overall pose, side-profile angle, moody expression, rough painterly texture, abstract ink treatment, distressed overlays, and minimal beige background.
+
+  Create a high-contrast black-and-white editorial portrait illustration of a stylish man shown in left-facing side profile, wearing round dark sunglasses and a dark jacket, with his head slightly lowered in a thoughtful pose. Keep one hand raised near his mouth/chin in the same position as the reference.
+
+  Important change:
+  Everything else should remain primarily monochrome black, charcoal, gray, and off-white/beige.
+
+  Preserve the same grunge fine-art aesthetic:
+
+  * rough ink wash textures
+  * distressed brush strokes
+  * splattered paint effects
+  * abstract smudges
+  * layered handwritten scribbles and sketch marks around the figure
+  * fragmented editorial collage feeling
+  * subtle textural blocks and faded typographic elements integrated into the background
+
+  Keep the figure vertically centered with a clean off-white / warm beige background, lots of negative space, and the lower body dissolving into abstract painterly textures. Maintain the same premium fashion-poster / gallery-art vibe.
+
+  Style: ultra-detailed monochrome mixed-media portrait, contemporary editorial wall art, expressive ink illustration, dramatic contrast, textured fine-art poster, premium minimalist composition.

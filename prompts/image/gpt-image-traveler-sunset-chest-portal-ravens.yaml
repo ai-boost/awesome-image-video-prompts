@@ -1,0 +1,25 @@
+id: gpt-image-traveler-sunset-chest-portal-ravens
+title:
+  en: Traveler with sunset landscape inside chest and ravens
+  zh: 旅人胸口藏着日落风景与乌鸦
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- double-exposure
+- selfie
+- surreal
+- miniature-world
+- cinematic
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2103695256445477234
+  credit: Mr. Tariq
+  likes: 67
+  captured: '2026-10-28'
+  posted: '2026-09-26'
+notes:
+  en: Blends a miniature landscape into the torso, jacket and backpack, so the portrait and the scene read as one double exposure. A cool slate sky against a molten amber core, plus a low angle 85mm lens and two ravens at the edges, adds contrast and depth.
+  zh: 把微缩风景融入躯干、外套和背包，让人像与场景成为一体的双重曝光。冷灰蓝天空对比熔金般的琥珀色核心，再配合低角度 85mm 镜头和画面两侧的乌鸦，增强反差与纵深。
+prompt: |
+  A breathtaking surreal double-exposure fine-art photograph and masterwork cinematic composite featuring an adventurous, reflective traveler with the uploaded face as reference, depicted in a dramatic low-angle three-quarter profile with their neck gently extended and gaze cast reverently upward toward the sky. The character is dressed in a travel-worn, dusty khaki button-down utility shirt with rolled sleeves and textured denim trousers, carrying a heavy weathered expedition backpack. Seamlessly integrated and blending directly into the wanderer’s torso, jacket, and pack is an enchanting, luminous miniature landscape centered around a colossal, incandescent golden sunset that bathes the scene in warm radiant amber brilliance. Within this surreal chest portal, a winding path of stone steps ascends toward the blazing horizon, flanked by the dark silhouette of an ancient acacia tree and fiery autumn groves of deep orange and crimson foliage that disintegrate into floating embers, billowing dust clouds, and miniature flying bird silhouettes drifting into the open air. Soaring through the surrounding atmosphere are two photorealistic, glossy black ravens with meticulously rendered wing feathers and sharp talons, one carving dynamically across the left foreground and the other descending from the upper right amid ethereal tendrils of gray smoke. The backdrop consists of expansive, muted slate-blue overcast clouds with soft diffused daylight, establishing a poignant color temperature juxtaposition between the cool, cinematic ambient exterior and the molten, hyper-saturated warm glow emanating from the core. Captured from a low-angle medium shot with a prime 85mm portrait lens, deep depth of field rendering crisp tactile details from the rugged cotton weave and feathered edges to the dynamic particulate clouds, featuring high-contrast cinematic color grading, balanced chiaroscuro lighting, and poetic surrealist visual storytelling.

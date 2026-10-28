@@ -1,0 +1,27 @@
+id: gpt-image-selfie-giant-portrait-beach-birthday-cake
+title:
+  en: Giant Portrait Behind Beach Birthday Cake at Sunset
+  zh: 海滩日落生日蛋糕后的巨幅人像
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- selfie
+- miniature-world
+- birthday-cake
+- golden-hour
+- face-reference
+source:
+  name: '@Adnan_Ai2 on X'
+  url: https://x.com/Adnan_Ai2/status/2104759717289681001
+  credit: Adnan
+  likes: 92
+  captured: '2026-10-28'
+  posted: '2026-09-29'
+notes:
+  en: A reference photo locks the face, then the scene pairs a large close-up with a small full-body copy seated on the cake for a scale illusion. Exact text strings for the plaque and cake front, plus a request for clean spelling, keep the lettering legible.
+  zh: 先用参考图锁定面部，再让大尺寸特写与坐在蛋糕上的小型全身像同框，形成比例错位的效果。牌子和蛋糕正面的文字逐字给出，并要求拼写清晰，字迹因此保持可读。
+prompt: |
+  Use the uploaded girl reference image as the exact facial and appearance reference. Create a highly detailed cinematic fantasy birthday portrait inspired by the provided cake-and-beach composition. Show the same girl in two versions: a large realistic close-up portrait rising behind the cake, and a smaller full-body version sitting naturally on top of the cake. Keep her recognizable facial features, hairstyle, soft smile, eyes, and overall appearance consistent with the reference image. Dress her in an elegant cozy cream-white knitted outfit with a soft feminine look.
+  Place everything on a beautiful beach during golden-hour sunset, with a glowing orange sky, soft clouds, ocean waves, warm sunlight, and cinematic reflections on the water. Create a huge luxurious round vanilla-and-chocolate drip cake in the foreground, covered with creamy white and chocolate frosting swirls, chocolate pieces, truffles, small decorative pearls, and realistic glossy chocolate drips. The small girl should sit naturally on the cake with a relaxed, cute pose, while the large portrait appears behind her with soft glowing edges and artistic depth.
+  Add a chocolate plaque beside the girl with the text “Girls Make Life Sweeter ♥” and write “Stay Awesome ♡” on the front of the cake with a small crown above it. Make the text clean, readable, and correctly spelled. Use realistic skin texture, detailed hair strands, natural fabric texture, accurate proportions, soft shadows, warm rim lighting, shallow depth of field, photorealistic details, premium editorial photography, dreamy cinematic color grading, 8K quality, highly polished composition, vertical portrait format.

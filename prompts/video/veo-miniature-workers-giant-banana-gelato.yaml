@@ -1,0 +1,35 @@
+id: veo-miniature-workers-giant-banana-gelato
+title:
+  en: Tiny workers peel a giant banana for gelato
+  zh: 微缩工匠剥开巨型香蕉制作冰淇淋
+model: Veo 3.1
+mode: text-to-video
+tags:
+- miniature
+- macro
+- food
+- diorama
+- json-prompt
+source:
+  name: '@Fujimoto_hina on X'
+  url: https://x.com/Fujimoto_hina/status/2107732918932328800
+  credit: Aegon
+  likes: 77
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+video: https://x.com/Fujimoto_hina/status/2107732918932328800
+notes:
+  en: A JSON structure splits the clip into labeled stages (setup, banana preparation, scene transition), so each beat gets its own concrete action. A macro low angle and a physical diorama look keep the tiny workers believable against the oversized fruit.
+  zh: 用 JSON 把画面拆成带标签的阶段（开场、剥皮准备、场景转换），每个阶段都有具体动作。微距低机位加实拍微缩模型的质感，让小工匠与巨型香蕉的比例显得可信。
+prompt: |
+  {
+    "title": "Golden Titan: The Miniature Banana Silk Gelato",
+    "duration": "10 seconds",
+    "format": "16:9, 4K",
+    "style": "Cinematic photorealistic artisanal food commercial with hyper-realistic miniature diorama craftsmanship",
+
+    "prompt": "Create a seamless 10-second cinematic macro journey showing the creation of an impossibly luxurious banana silk gelato inside a gigantic handcrafted miniature culinary world. The entire environment must look like a physically photographed ultra-realistic diorama, with tiny human food artisans working around monumental banana fruit, machinery, tools, and ingredients. Begin with an extreme macro low-angle shot of a gigantic perfectly ripe golden banana resting across dark wet basalt rock. The banana is enormous compared with the miniature workers, its curved peel covered in realistic fine pores, subtle brown freckles, tiny condensation beads, natural ridges, and soft golden highlights. Tiny culinary artisans, only a few centimeters tall, climb wooden ladders and rope scaffolds surrounding the banana. They wear charcoal-gray chef aprons, leather gloves, miniature boots, safety goggles, and realistic utility harnesses.",
+
+    "banana_preparation": "Several miniature workers carefully secure the banana using braided ropes, wooden braces, and tiny steel anchors. Others operate a monumental precision peeling mechanism. The thick golden peel slowly separates and curls backward in dramatic slow motion, revealing an enormous creamy ivory-golden banana interior. Individual fibrous strands stretch naturally between the peel and fruit. Tiny droplets of banana moisture sparkle under the warm light. Workers use miniature brass hooks and curved stainless-steel tools to guide the peel away while others collect freshly exposed banana flesh into tiny copper containers. The banana should look ripe, fresh, dense, creamy, and naturally sweet—not rotten or excessively brown.",
+
+    "scene_transition": "As the giant banana peel curls away, the camera smoothly travels through the exposed banana surface and transitions into a spectacular miniature ingredient-processing chamber hidden inside the culinary world. Fresh banana flesh is pressed through enormous polished brass rollers and transparent glass tubes. Thick golden banana puree flows through the system like a luxurious river while miniature workers operate hand wheels, valves, pumps, and pressure gauges.

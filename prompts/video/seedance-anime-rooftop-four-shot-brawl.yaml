@@ -1,0 +1,49 @@
+id: seedance-anime-rooftop-four-shot-brawl
+title:
+  en: Four-shot anime rooftop fight between two women
+  zh: 两名女性的四镜头动漫天台格斗
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- anime
+- fight-scene
+- multi-shot
+- camera-movement
+- cel-shading
+source:
+  name: u/Fresh-Resolution182 on Reddit
+  url: https://www.reddit.com/r/Seedance_AI/comments/1x97lk3/seedance_25_anime_fight_prompt_a_fourshot_rooftop
+  credit: Fresh-Resolution182
+  likes: 530
+  captured: '2026-10-28'
+  posted: '2026-10-18'
+video: https://www.reddit.com/r/Seedance_AI/comments/1x97lk3/seedance_25_anime_fight_prompt_a_fourshot_rooftop
+notes:
+  en: Fixes each fighter's outfit and hand accessories in a character reference block, then splits 30 seconds into four timed shots. Each shot gives one camera move and a chain of strike, recoil and counter, and the audio line names impacts, scuffs, chains and wind.
+  zh: 先用角色参考块锁定两位格斗者的服装与手部配饰，再把30秒拆成四个带时间码的镜头。每个镜头只给一种运镜和一串出招、后撤、反击，音频一行点明撞击声、鞋底摩擦、锁链和风声。
+prompt: |
+  Create a 30-second, four-shot 2D anime fight between two adult women. Bold outlines, flat colors, hard cel shading, deep foreshortening, speed smears, and brief two-frame impact drawings. Blue-teal backgrounds flash pink or orange on contact.
+
+  Character references
+
+  Mina: long black hair, green striped crop top, orange graffiti cargo pants, white sneakers, black fingerless boxing gloves, chain bracelet.
+
+  Rue: long pink hair, black crop top, black cargo shorts with chains, bare hands with silver rings, lime sneakers, dog tags.
+
+  Keep their identities, outfits, and hand accessories distinct throughout.
+
+  Location: empty concrete rooftop, rear chain-link fence, steel vent at center-right. Mina begins left, Rue right. Maintain readable spacing, depth, and movement.
+
+  0–8s — Opening exchange
+  Rise from floor level between their opening attacks, then orbit around crossing arms. Mina throws a hook; Rue blocks and counters. A straight punch breaks the guard, followed by a push kick that sends Mina sliding into her next approach.
+
+  8–16s — Fence rebound
+  Track Rue toward the fence. She rebounds over Mina, who rolls through the landing attack and answers with a sweep. Drop the camera low as both recover, turn, and exchange kicks.
+
+  16–24s — Vent-box clash
+  Dive toward the vent as Mina attacks from above. Rue evades and dents the metal with a kick. Continue around the damaged vent through a compact sequence of strikes, blocks, and counters.
+
+  24–30s — Final collision
+  Both launch upward. Spiral downward, pass between them, and rotate to a side view as their fists converge. The background flashes hot pink. Cut just before contact, with both fighters and camera still moving.
+
+  Use continuous camera movement within each shot. Every impact has direction, recoil, and recovery. No slow motion, extended holds, idle poses, dialogue, subtitles, or gore. Audio: impacts, shoe scuffs, rattling chains, and rooftop wind.

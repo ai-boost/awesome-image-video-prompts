@@ -1,0 +1,35 @@
+id: veo-alphonso-mango-gelato-churn
+title:
+  en: Alphonso Mango Gelato From Slice to Scoop
+  zh: 阿方索芒果冰淇淋从切开到挖球
+model: Veo 3.1
+mode: text-to-video
+tags:
+- food
+- macro
+- commercial
+- slow-motion
+- json-prompt
+source:
+  name: '@Fujimoto_hina on X'
+  url: https://x.com/Fujimoto_hina/status/2102063087251853337
+  credit: Aegon
+  likes: 129
+  captured: '2026-10-28'
+  posted: '2026-09-21'
+video: https://x.com/Fujimoto_hina/status/2102063087251853337
+notes:
+  en: The prompt chains four macro stages (slice, zero-gravity vortex, churning cylinder, final scoop) into one continuous 10 second move. Separate fields for style, camera, lighting and a negative prompt keep the look consistent from stage to stage.
+  zh: 提示词把切芒果、失重漩涡、搅拌筒、挖球四个微距阶段串成一条连续的10秒运动。风格、镜头、光线和负面提示分字段书写，让各阶段的画面保持一致。
+prompt: |
+  {
+    "title": "Golden Churn: The Artisanal Alphonso",
+    "duration": "10 seconds",
+    "format": "16:9, 4K",
+    "style": "Cinematic photorealistic artisanal culinary commercial",
+    "prompt": "Create a seamless 10-second cinematic journey tracing the creation of decadent churned Alphonso mango gelato. Begin with a sun-ripened, honey-glazed mango sliced on chilled dark slate, releasing golden nectar droplets and delicate fibrous fruit mist into the air. Transition into a dynamic zero-gravity vortex where velvety sweet cream, crushed cardamom pods, and rich saffron-gold mango pulp collide and swirl together in mid-air ribbons. Move directly into the churning cylinder where sub-zero brass paddles whip the mixture, rapidly crystallizing into dense, glossy, ribboned ice cream with frost vapors swirling outward. Finish with an ultra-macro 1000fps ice cream scoop gliding through the dense mass, rolling up a perfect textured sphere with visible ripe mango chunks, delicate frost crystals, glistening condensation, and a single cascading thread of thick mango reduction.",
+    "visual_style": "Extreme macro, ultra-shallow depth of field, authentic churning physics, realistic thermodynamic frost and vapor, deep saffron-gold and rich ivory palette with dark slate contrast",
+    "camera": "Continuous kinetic macro push-in, seamless fluid-vortex tumble, rotational cylinder tracking, and ultra-high-speed slow-motion curl reveal",
+    "lighting": "Warm golden-hour rim lighting transitioning into cool cryogenic frosty blues, balanced by crisp studio highlights on glossy fruit surfaces",
+    "negative_prompt": "text, watermark, logo, subtitles, cartoon, artificial neon yellow, icy melting mush, plastic texture, dry powder, low resolution, flat lighting, jump cuts, jerky camera movement, grainy footage"
+  }

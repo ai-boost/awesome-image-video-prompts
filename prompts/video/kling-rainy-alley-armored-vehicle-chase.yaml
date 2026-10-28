@@ -1,0 +1,27 @@
+id: kling-rainy-alley-armored-vehicle-chase
+title:
+  en: Bearded hero sprints from exploding armored vehicle in rain
+  zh: 雨夜小巷中蓄须英雄奔逃爆炸装甲车
+model: Kling 3.0
+mode: text-to-video
+tags:
+- action
+- rain
+- night
+- handheld
+- timed-shots
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2104788524310688210
+  credit: Snow
+  likes: 89
+  captured: '2026-10-28'
+  posted: '2026-09-29'
+video: https://x.com/iamrealsnow/status/2104788524310688210
+notes:
+  en: 'The prompt splits seven seconds into timed beats, each with its own camera move: backward tracking, a slide and roll, a whip pan, then a push in. A closing list of motion and lighting terms and explicit negatives such as no slow motion and no static shots keeps the pacing aggressive.'
+  zh: 提示词把七秒拆成带时间戳的分镜,每段指定镜头运动:倒退跟拍、滑铲翻滚、快速摇镜、推向面部。结尾罗列动作与光影关键词,并用禁止慢动作和静态镜头等否定项保持节奏凌厉。
+prompt: |
+  A rugged bearded action hero sprints through a rain-soaked industrial alley at night as a massive armored vehicle explodes behind him. 0–2 sec: handheld low-angle tracking shot racing backward in front of him, rain and sparks flying through the lens, intense facial expression, coat whipping violently in the wind. 2–4 sec: he suddenly slides beneath a burst of gunfire, rolls across the wet concrete, grabs a metal pipe and uses it to knock an attacking enemy off balance. 4–6 sec: explosive close-quarters fight — one brutal punch, spinning elbow, rapid camera whip-pan, shattered glass and sparks filling the frame. 6–7 sec: he rises into a powerful hero stance as the burning vehicle erupts behind him, camera rapidly pushes toward his face, rain dripping from his beard.
+
+  Fast choreography, continuous physical momentum, realistic body mechanics, dynamic handheld camera, aggressive camera movement, dramatic lighting, volumetric smoke, flying debris, realistic rain, cinematic motion blur, sharp facial detail, natural cloth physics, high contrast, premium action-film cinematography. No slow motion, no static shots, no unnecessary cuts, no text, no logos.

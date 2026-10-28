@@ -1,0 +1,25 @@
+id: nano-banana-sea-turtle-film-studio-island
+title:
+  en: Sea turtle carrying floating film studio island
+  zh: 背负漂浮电影工作室岛屿的海龟
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- 3d-cartoon
+- fantasy
+- sea-turtle
+- floating-island
+- cinematic-lighting
+source:
+  name: '@wilzap on X'
+  url: https://x.com/wilzap/status/2112169111291908222
+  credit: Wilzap
+  likes: 29
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+notes:
+  en: 'The prompt tells a before and after story in one scene: pixelated film strips are polished by fairies and turn into golden film. A named material look (soft clay-like 3D), a limited palette and lighting cues (rim light, volumetric rays, tilt-shift) keep the whole scene cohesive.'
+  zh: 提示词在同一场景里讲了一个前后对比的小故事：像素化的胶片被精灵打磨成金色胶片。明确的材质风格（柔和黏土质感3D）、限定的配色和光线指令（轮廓光、体积光、移轴景深）让整幅画面保持统一。
+prompt: |
+  A stylized 3D cartoon fantasy scene of a giant ancient sea turtle swimming through a starry night sky, carrying an entire floating island on its shell. The island is a magical film studio: tiny glowing mushroom houses, a waterfall made of flowing film strips, and a crooked wizard tower with a giant projector lens for an eye. At the base of the waterfall, the film strips look rough, blocky, and pixelated, like broken stained glass. As they spill over a glowing crystal ledge, a swarm of tiny lantern fairies hammers and polishes them, and they transform mid-fall into crisp, shimmering, ultra-detailed film that glows like liquid gold. At the very top, the wizard tower beams the finished movie across the sky like an aurora, showing a vivid dragon soaring through clouds. Chunky rounded shapes, soft clay-like 3D textures, exaggerated cartoon proportions, glowing bioluminescent accents, deep indigo sky with magenta and electric teal highlights, cinematic rim lighting, volumetric light rays, tilt-shift depth of field, ultra detailed, 16:9.

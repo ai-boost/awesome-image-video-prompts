@@ -1,0 +1,43 @@
+id: gpt-image-vintage-ink-polka-dot-fashion-portrait
+title:
+  en: Vintage ink fashion portrait with polka dot scarf
+  zh: 波点头巾复古墨线时尚肖像
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- vintage
+- ink-illustration
+- fashion
+- cross-hatching
+- json-prompt
+source:
+  name: '@Just_Anika_Here on X'
+  url: https://x.com/Just_Anika_Here/status/2114206456518148577
+  credit: Anika
+  likes: 97
+  captured: '2026-10-28'
+  posted: '2026-10-25'
+notes:
+  en: Names the ink techniques directly (cross-hatching, solid black shadows, distressed print grain) and fixes a limited black and ivory palette. A JSON structure adds composition, pose and a negative prompt that keeps the result from drifting into photorealism.
+  zh: 直接写明交叉排线、实心黑色阴影和做旧印刷颗粒，并限定黑与象牙白的配色。JSON 结构补充了构图、姿态和负面提示，避免画面滑向写实风格。
+prompt: |
+  {
+    "prompt": "Create a highly detailed vintage fashion illustration of a stylish young adult woman in a three-quarter side profile, looking confidently over her shoulder toward the viewer. She has voluminous short black curly hair with individually defined ringlets, dramatic winged eyeliner, long eyelashes, a small nose, and full glossy lips. She wears oversized pointed cat-eye sunglasses with dark lenses and thick black frames. A wide cream-colored headscarf with bold black polka dots wraps around her head and forms a large playful bow on top. A large geometric hoop earring hangs from her visible ear. She wears a dark, elegant high-neck top with a light-colored shoulder strap crossing diagonally over her shoulder. Her chin is slightly raised, her head tilted back, and her expression is effortlessly confident and fashionable. Use expressive black ink outlines, intricate cross-hatching, dense hand-drawn curls, fine facial linework, bold solid-black shadow areas, and subtle distressed print textures. The background is warm ivory paper with visible grain, tiny ink speckles, and an aged screen-printed finish. Strong contrast between black ink and off-white paper, sophisticated retro editorial composition, authentic vintage comic-book print quality, clean recognizable silhouette, beautifully balanced negative space.",
+
+    "composition": {
+      "framing": "vertical portrait, head to upper torso",
+      "camera_angle": "slightly low three-quarter profile",
+      "subject_position": "centered, face turned toward the right",
+      "pose": "looking back over her shoulder with chin slightly raised",
+      "background": "minimal textured ivory paper"
+    },
+    "color_palette": {
+      "primary": "deep ink black",
+      "secondary": "warm ivory",
+      "accents": "soft antique cream"
+    },
+    "lighting": "illustrative high-contrast tonal shading, no realistic photographic lighting",
+    "texture": "rough ink grain, distressed paper, vintage halftone speckles, fine cross-hatching",
+    "negative_prompt": "photorealism, 3D render, color gradients, bright colors, smooth digital vector art, glossy plastic skin, blurry facial features, asymmetrical eyes, malformed sunglasses, extra earrings, distorted hands, messy outlines, low detail, text, typography, watermark, logo, frame"
+  }

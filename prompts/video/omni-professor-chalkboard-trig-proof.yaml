@@ -1,0 +1,25 @@
+id: omni-professor-chalkboard-trig-proof
+title:
+  en: Professor writing trigonometric proof on chalkboard
+  zh: 教授在黑板上书写三角恒等式证明
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- education
+- chalkboard
+- speech
+- classroom
+- single-shot
+source:
+  name: u/cowardbeater1969 on Reddit
+  url: https://www.reddit.com/r/google/comments/1ta6grg/gemini_omni_new_video_model
+  credit: cowardbeater1969
+  likes: 115
+  captured: '2026-10-28'
+  posted: '2026-05-11'
+video: https://www.reddit.com/r/google/comments/1ta6grg/gemini_omni_new_video_model
+notes:
+  en: A single subject, a single action and a single setting keep the shot simple. Asking the professor to explain the current step cues synced speech, so the model has to match narration to the chalk writing.
+  zh: 单一主体、单一动作和单一场景让画面保持简洁。要求教授讲解当前步骤，会触发同步语音，模型需要让讲解与粉笔书写对上。
+prompt: |
+  A professor writes out a mathematical proof for trigonometric identities on a traditional chalkboard, explaining the step he is currently on in the equation.

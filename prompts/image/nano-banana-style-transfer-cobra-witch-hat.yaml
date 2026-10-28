@@ -1,0 +1,25 @@
+id: nano-banana-style-transfer-cobra-witch-hat
+title:
+  en: Cobra restyled as star pattern witch sticker
+  zh: 眼镜蛇变身星星图案女巫贴纸
+model: Nano Banana 2.1
+mode: image-edit
+category: photo-to-art
+tags:
+- style-transfer
+- reference-image
+- sticker
+- illustration
+- template
+source:
+  name: '@thefinnmckenty on X'
+  url: https://x.com/thefinnmckenty/status/2107574685433286858
+  credit: Finn McKenty
+  likes: 30
+  captured: '2026-10-28'
+  posted: '2026-10-06'
+notes:
+  en: 'Two reference images split the job: image 1 supplies the content and image 2 supplies the style. The prompt lists the style attributes to carry over (medium, palette, mood, rendering, saturation, texture).'
+  zh: 用两张参考图分工：图1提供内容，图2提供风格。提示词逐项列出要迁移的风格属性，包括媒介、配色、氛围、渲染方式、饱和度和质感。
+prompt: |
+  Create an image of the content as shown in [image 1] but with the same medium, color palette, mood, rendering technique, saturation level, textures, and overall style of [image 2]. Objective: Style transfer from [image 1 to [image 2]

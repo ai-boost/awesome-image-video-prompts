@@ -1,0 +1,42 @@
+id: gpt-image-flash-photo-dump-six-frame-portrait-collage
+title:
+  en: Six frame flash photo dump portrait collage
+  zh: 六格闪光灯随拍人像拼图
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- portrait-collage
+- identity-preservation
+- flash-photography
+- photo-dump
+- grid
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2112208561673740615
+  credit: Meem
+  likes: 211
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+notes:
+  en: Locks identity to the reference photo, then lists six numbered moments, each with its own expression, hand placement and hair arrangement. The compact camera flash look, a fixed outfit and wall, and a closing avoid list keep the grid consistent and candid.
+  zh: 以参考照片锁定人物身份，再逐条列出六个编号瞬间，每格有各自的表情、手势和发型。卡片相机闪光灯质感、固定的服装与墙面，加上结尾的避免清单，让整组画面一致又自然。
+prompt: |
+  Create an ultra-realistic 6-frame portrait collage arranged in a clean 3×2 grid, featuring the exact same girl from the uploaded reference photo. Use the reference exclusively for identity preservation, accurately retaining her facial structure, eye color, natural hair color, hairstyle, hair length, volume, texture, and distinctive facial features. Her identity must remain consistent across all six frames.
+
+  Overall aesthetic: Casual Instagram photo dump with an authentic early-2000s digital camera vibe. A simple muted powder-blue wall, fitted black spaghetti-strap top, delicate minimal accessories, and effortless everyday makeup. Shot on a Canon PowerShot G7 X Mark III with direct on-camera flash, crisp facial details, realistic skin pores, subtle grain, natural imperfections, strong flash highlights, and distinct shadows against the wall.
+
+  Six different candid moments:
+
+  1. Playful charm: Leaning slightly toward the camera, cheeks gently resting against her palms, giving a small, natural smile.
+  2. Cheeky energy: One eye closed in a wink, grinning brightly while sweeping a section of hair behind her ear.
+  3. Carefree mood: Eyes softly closed, lips forming a playful pout, both hands raised above her head as she loosely gathers her hair.
+  4. Cool and confident: Face turned slightly sideways, looking into the lens from the corner of her eyes, fingertips lightly touching her jawline.
+  5. Unfiltered laughter: Looking off-camera with a genuine open smile, head tilted back slightly, hair falling naturally across one shoulder.
+  6. Soft, dreamy moment: Chin tilted down, eyes gazing thoughtfully toward the camera, one hand loosely twirling a strand of hair.
+
+  Composition and realism: Every frame must have a distinct facial expression, head angle, hand placement, and hair arrangement. Keep the same outfit, background, lighting style, and identity throughout, while varying the crop and camera distance subtly. Natural anatomy, believable fingers, realistic hair strands, and authentic compact-camera flash photography. The result should feel like six spontaneous photos taken during one fun evening, not a polished studio campaign.
+
+  Avoid: Face swapping artifacts, altered facial features, inconsistent identity, plastic skin, excessive retouching, artificial beauty filters, duplicated poses, malformed hands, extra fingers, excessive sharpening, and obvious AI-generated details.
+
+  Vertical 3:4 canvas, six equally sized photographs, precise grid alignment, no borders, no text, no watermarks.

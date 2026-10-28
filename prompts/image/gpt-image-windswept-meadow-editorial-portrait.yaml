@@ -1,0 +1,28 @@
+id: gpt-image-windswept-meadow-editorial-portrait
+title:
+  en: Woman in ivory dress among windswept green grass
+  zh: 身穿象牙白长裙立于风中青草间的女子
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- editorial
+- meadow
+- film-grain
+- fashion
+- cinematic
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2101997367641751808
+  credit: Mahnoor Fatima
+  likes: 113
+  captured: '2026-10-28'
+  posted: '2026-09-21'
+notes:
+  en: Layers foreground grass over the subject for depth, then fixes a muted sage and forest green palette, soft overcast light and an 85mm f/1.8 look with film grain. The 1:1 framing places her right of center with open negative space above, which gives the editorial feel.
+  zh: 前景草叶遮挡人物营造层次，再用鼠尾草绿与森林绿的低饱和配色、柔和阴天光、85mm f/1.8 景深和胶片颗粒定调。1:1 构图让人物偏右、上方留白，形成杂志感。
+prompt: |
+  A cinematic fashion-editorial portrait of a young East Asian woman standing partially concealed within tall, windswept green grass in an expansive meadow. She wears a loose, flowing off-white or ivory linen dress that moves softly with the breeze, contrasting gently against the rich natural surroundings.
+  Her dark hair appears naturally tousled by the wind, with soft strands falling across her face, partially veiling her eyes. Her head is gently lowered, gaze directed downward or slightly to the side, conveying a quiet, dreamy, introspective mood. The tall grass surrounds and partially obscures her figure, creating layered foreground elements, immersive depth, and a sense of visual intimacy.
+  Wind moves through the grass with subtle motion blur, while the subject remains sharply focused. The environment feels calm, isolated, and poetic, enhanced by a faint atmospheric haze and a muted palette of sage green, deep forest green, and soft neutral tones. Soft overcast daylight provides diffused, shadowless illumination with smooth tonal transitions, low contrast, gentle highlights, and realistic skin rendering.
+  Shallow depth of field produces creamy bokeh and natural background separation, while fine film grain adds an organic editorial texture. Minimalist composition emphasizing solitude and emotional storytelling. Square 1:1 composition, subject positioned slightly right of center with generous negative space above and around her, balanced visual weight, refined framing, sophisticated Korean and Japanese fashion magazine aesthetic, cinematic realism, highly detailed photorealistic photography, 85mm portrait lens, f/1.8, natural lens compression, ultra-realistic skin texture, premium color grading, atmospheric depth, elegant visual storytelling, award-winning editorial photography, masterfully composed, authentic and emotionally resonant.

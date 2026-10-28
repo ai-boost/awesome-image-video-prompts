@@ -1,0 +1,32 @@
+id: nano-banana-caped-animal-character-trio
+title:
+  en: Gray cat in teal cape, storybook style
+  zh: storybook 风格的青色斗篷灰猫角色
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- character-design
+- storybook
+- animals
+- cape
+- character-sheet
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2113141068929826897
+  credit: Snow
+  likes: 60
+  captured: '2026-10-28'
+  posted: '2026-10-22'
+notes:
+  en: One template is repeated for three animals, and only the species, fur colour, cape colour and clasp shape change. The fixed pose, front view, full body and plain light background keep the set consistent.
+  zh: 同一模板套用到三种动物，只替换物种、毛色、斗篷颜色和扣饰形状。固定站姿、正面、全身和浅色纯背景，让整组角色风格一致。
+prompt: |
+  Cat
+  A cute gray cat character with green eyes, wearing a simple teal hooded cape with a small silver crescent clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.
+
+  Squirrel
+  A cute orange-brown squirrel character with a big bushy tail, wearing a simple navy cape with a small gold leaf-shaped clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.
+
+  Rabbit
+  A cute cream-colored rabbit character with tall ears, wearing a simple plum cape with a small gold round clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.

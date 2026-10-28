@@ -90,7 +90,7 @@ def write_entry(c, d):
     if kind == "image":
         e["category"] = d["category"]
     e.update({"tags": d["tags"],
-              "source": {"name": f"@{c['handle']} on X", "url": c["url"], "credit": c["credit"] or c["handle"],
+              "source": {"name": c.get("source_name") or f"@{c['handle']} on X", "url": c["url"], "credit": c["credit"] or c["handle"],
                          "likes": c["likes"], "captured": date.today().isoformat(), "posted": c["posted"]}})
     if e["source"]["likes"] is None:  # found through a collection that reports no like count
         del e["source"]["likes"]

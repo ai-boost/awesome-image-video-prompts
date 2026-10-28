@@ -1,0 +1,71 @@
+id: omni-rose-perfume-storyboard-commercial
+title:
+  en: Rose perfume bottle luxury commercial with petals
+  zh: 玫瑰香水瓶奢华广告与飘落花瓣
+model: Gemini Omni Flash
+mode: image-to-video
+tags:
+- product-commercial
+- storyboard
+- perfume
+- macro
+- luxury
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2097919290980921451
+  credit: M-studioAi
+  likes: 195
+  captured: '2026-10-28'
+  posted: '2026-09-10'
+video: https://x.com/Strength04_X/status/2097919290980921451
+notes:
+  en: A 10 panel storyboard sheet made in an image model sets the look, and the video model animates it. A frame consistency block locks the bottle, background and petals, and a header card gives duration, style and layered audio cues.
+  zh: 先用图像模型生成十格分镜图定下画面，再交给视频模型动起来。一致性段落锁定瓶身、背景和花瓣，头部信息卡写明时长、风格和分层音效。
+prompt: |
+  Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+  FORMAT:
+  • Single-page premium storyboard
+  • 3:4 portrait storyboard sheet
+  • 10 cinematic product-focused panels
+  • Clean editorial grid with thin borders
+  • Connected sequence from one continuous commercial
+  • Luxury beauty campaign aesthetic
+
+  HEADER:
+  • Bold elegant typography
+  • Compact information cards
+  • Duration: 20 Seconds
+  • Style: Soft Luxury Fragrance Commercial
+  • Product: Premium Perfume Bottle
+  • Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+  • White, blush pink and champagne aesthetic
+  • Minimal floral graphic accents
+
+  STORYBOARD:
+  1. Perfume bottle standing alone on a glossy white studio surface
+  2. Macro shot revealing crystal glass, cap and delicate reflections
+  3. Soft pink light sweeps smoothly across the bottle
+  4. Perfume cap lifts elegantly with a subtle sparkle
+  5. Fragrance liquid gently swirls inside the bottle
+  6. Fine perfume mist sprays into the soft white-pink atmosphere
+  7. Floating rose petals slowly move around the bottle
+  8. Bottle performs a smooth elegant 360° rotation
+  9. Rose petals settle around the base of the bottle
+  10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+  FRAME CONSISTENCY:
+  • Same perfume bottle in every scene
+  • Identical bottle shape, cap, label and proportions
+  • Same white glossy studio environment
+  • Soft white-pink gradient background throughout
+  • Consistent champagne highlights and reflections
+  • Same rose petals from Scene 7 onward
+  • Product remains centered and visually dominant
+  • Every frame naturally continues from the previous scene
+
+  CAMERA:
+  Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+  VISUAL STYLE:
+  Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate

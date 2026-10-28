@@ -1,0 +1,37 @@
+id: gpt-image-mural-twin-half-heart-illusion
+title:
+  en: Woman making half heart with her mural twin
+  zh: 女子与壁画分身合成一颗爱心
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- mural
+- trompe-l-oeil
+- forced-perspective
+- street-art
+- selfie
+source:
+  name: '@Kubra_286 on X'
+  url: https://x.com/Kubra_286/status/2102235098703880428
+  credit: Kubra Ai
+  likes: 241
+  captured: '2026-10-28'
+  posted: '2026-09-22'
+notes:
+  en: Describes the mural and the real person in separate labeled blocks with matching outfits, so the fingertips line up into one heart. Closing with forced perspective and brick overlay cues keeps the paint looking part of the wall.
+  zh: 把壁画和真人分成两个带标签的段落并保持同款穿搭，指尖才能拼成完整爱心。结尾补充强制透视和砖纹叠加，让画面看起来像画在墙上。
+prompt: |
+  Ultra realistic cinematic photo of a young woman making a half heart sign with her mural twin, interactive street art illusion.
+
+  Face match 100%
+
+  Mural on brick wall: giant hyper-realistic painting of the same woman, shoulder-length wavy blonde hair with dark roots, smiling side profile, wearing light pink ribbed cropped t-shirt, small hoop earrings, delicate 'Clariz' name necklace, right hand raised making half heart shape with thumb and index finger. Photorealistic mural style, brick texture visible through paint, black graffiti background.
+
+  Real woman: same woman, same face, shoulder-length wavy blonde hair, same pink ribbed crop top, brown dark cargo pants with side pockets, blue and white sneakers. Standing on sidewalk facing the mural, left hand raised completing the other half of the heart shape with the painted hand, fingers almost touching, perfect alignment forming a full heart. Smiling at mural.
+
+  Environment: urban alley brick wall with graffiti, posters and stickers on adjacent wall, small green plants growing along wall base, concrete sidewalk, soft natural daylight.
+
+  Style: true to life color grading, photorealistic, DSLR 8K, ultra detailed skin, same face recognizable, natural shadows, 9:16 vertical portrait, trompe-l'oeil, Instagram couple bestie heart hand trend.
+  *Pro tip to get it perfect:*
+  two people making heart shape, one real one painted, fingertip connection point, forced perspective heart illusion, brick overlay on mural, same outfit mural and real

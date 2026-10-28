@@ -1,0 +1,36 @@
+id: omni-pov-telekinetic-outfit-change
+title:
+  en: POV gloved hands swap a woman's outfit
+  zh: 第一视角戴手套的手为女子换装
+model: Gemini Omni Flash
+mode: reference-to-video
+tags:
+- fashion
+- pov
+- commercial
+- outfit-change
+- storyboard
+source:
+  name: '@KrevixAi on X'
+  url: https://x.com/KrevixAi/status/2099562556507492661
+  credit: KreviX
+  likes: 211
+  captured: '2026-10-28'
+  posted: '2026-09-14'
+video: https://x.com/KrevixAi/status/2099562556507492661
+notes:
+  en: A storyboard image is the reference, and the prompt splits ten seconds into timed beats named Focus, Pull, Orbit and Assemble, each with one action. Fixed identity wording and a long negative list keep the fabric physics believable and the woman consistent.
+  zh: 以分镜图作参考，并把十秒拆成按秒计时的节拍，如聚焦、拉扯、环绕、组装，每段只写一个动作。固定人物外貌描述并配上较长的排除清单，让布料物理真实、人物保持一致。
+prompt: |
+  Create a 10-second photorealistic luxury fashion commercial, 16:9, based on the reference storyboard. Pure black infinite studio, STRICT first-person POV, centered full-body framing. The same adult woman remains visually identical throughout: 25–30, tall, slim, long dark-chestnut wavy hair, refined face, natural makeup.
+  Two masculine hands in matte-black gloves remotely control the clothing without touching it. No visible telekinetic effects — movement is shown only through realistic fabric tension, weight and inertia.
+  0.0–1.0s — FOCUS. Woman wears an outdated oversized beige top, loose grey trousers and worn grey sneakers. POV hands extend toward her. The clothes stretch outward under invisible force.
+  1.0–2.0s — FORCE PULL. Hands sharply separate. Beige top, trousers and sneakers detach as complete garments and fly sideways. Nothing tears or dissolves. She remains covered by a minimal opaque black fashion base: fitted black crop top, high-waisted fitted black shorts and simple black pumps.
+  2.0–2.8s — STOP. Hands open sharply. The old garments suddenly stop and briefly remain suspended around her with realistic residual movement.
+  2.8–3.5s — DISPATCH. Hands sweep outward, throwing all old garments completely out of frame.
+  3.5–4.7s — PULL. Hands pull inward. Premium clothing rapidly flies from the darkness toward her: burgundy satin top, high-waisted black wide-leg trousers, structured black blazer, pointed black heels, slim black belt, gold earrings and small black handbag.
+  4.7–6.0s — ORBIT. The new garments dynamically circle the woman. POV hands precisely control their trajectories. Realistic fabric folds, weight, momentum and aerodynamic movement.
+  6.0–7.2s — ASSEMBLE. Hands sharply converge. All garments simultaneously move into their correct positions: trousers, burgundy top, blazer, heels, belt and accessories physically assemble into one finished luxury look. No morphing or dissolving.
+  7.2–8.5s — HERO. Hands leave frame. Clean full-body hero shot. Woman confidently poses in the completed black-and-burgundy luxury outfit.
+  8.5–10.0s — TOGETHER. One gloved POV hand reaches toward her. She takes it and confidently walks directly toward the camera while holding hands, moving from full-body to close-up until she fills the frame.
+  Photorealistic premium fashion campaign, dramatic studio lighting, deep blacks, realistic skin and fabric, cinematic contrast, fast elegant choreography, strong POV depth. No identity changes, nudity, transparent clothing, extra people, text, particles, beams, glow, smoke, magic, teleportation or unrealistic cloth physics.

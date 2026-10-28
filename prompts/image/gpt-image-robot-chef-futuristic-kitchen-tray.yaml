@@ -1,0 +1,25 @@
+id: gpt-image-robot-chef-futuristic-kitchen-tray
+title:
+  en: Silver robot chef holding a tray in neon kitchen
+  zh: 霓虹未来厨房里端着托盘的银色机器人厨师
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- robot
+- futuristic
+- kitchen
+- cinematic
+- photorealistic
+source:
+  name: '@Adnan_Ai2 on X'
+  url: https://x.com/Adnan_Ai2/status/2102217167458754843
+  credit: Adnan
+  likes: 58
+  captured: '2026-10-28'
+  posted: '2026-09-22'
+notes:
+  en: The prompt lists the robot's parts in order (silver body, mechanical joints, cyan eyes, ear components), then the pose and gaze, then the kitchen. Cyan neon is paired with warm cinematic light, and steam, reflections and depth of field add realism. The 9:16 ratio is stated at the end.
+  zh: 提示词先逐项描述机器人的部件（银色机身、机械关节、青蓝色眼睛、耳部组件），再写姿势与视线，最后写厨房环境。青色霓虹与暖色电影光搭配，蒸汽、金属反光和景深增强真实感，结尾标明 9:16 竖构图。
+prompt: |
+  A highly realistic humanoid futuristic robot chef standing inside a premium futuristic restaurant kitchen. The robot has a sleek silver metallic body with detailed mechanical joints and realistic humanoid proportions. It has glowing cyan-blue eyes, circular futuristic ear components, a metallic face and neck, and an advanced sophisticated robotic design. The robot is holding a large white serving tray with both hands and looking slightly toward the left with a calm and helpful expression. The background features a stainless-steel futuristic kitchen with modern cooking equipment, metallic countertops, ovens, and ventilation systems. Cyan neon accent lights illuminate the kitchen, combined with warm cinematic lighting. Realistic metallic reflections, subtle steam rising in the background, highly detailed mechanical textures, photorealistic 3D rendering, cinematic composition, ultra-realistic, 4K quality, sharp details, natural depth of field, vertical 9:16 composition.

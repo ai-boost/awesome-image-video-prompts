@@ -1,0 +1,25 @@
+id: gpt-image-watercolor-ink-sailboat-moonlit-skyline
+title:
+  en: Watercolor ink sailboat before a moonlit skyline
+  zh: 月光天际线前的水彩水墨帆船
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- watercolor
+- ink-wash
+- sailboat
+- skyline
+- mixed-media
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2109054962667864073
+  credit: Viki
+  likes: 131
+  captured: '2026-10-28'
+  posted: '2026-10-10'
+notes:
+  en: The prompt is split into labelled blocks (MOON, SKYLINE, CENTRE, WATER, TEXTURE) that fix each zone of the 9:16 canvas. A cool teal versus warm amber split and a grey paper ground keep the mixed-media look consistent.
+  zh: 提示词用 MOON、SKYLINE、CENTRE、WATER、TEXTURE 等分区标签逐块锁定 9:16 画面的各个区域。冷青与暖橙的左右对比加上灰色纸面底色，让混合媒介质感保持一致。
+prompt: |
+  Semi-abstract mixed-media digital artwork, watercolor and ink wash with painterly digital treatment, tall 9:16 vertical composition, matte mid-grey paper background filling the whole canvas. A lone sailboat with white sails and a dark hull sits on the horizon line at the exact centre, framed by a mirrored split cityscape. LEFT HALF: a dense futuristic skyline glowing electric teal, cyan and blue, towers of many heights with fine lit window grids; above it a large brilliant white four-point starburst star with radiating glow, a wide dark ink cloud behind it, and scattered white star specks. The skyline base dissolves downward into black-blue ink spatter. RIGHT HALF: a mirrored skyline in deep crimson and black, a bright glowing red-white sun disc low between the towers casting a warm red haze, fine red dots and ink splatter along the rooflines, one thin bare tree at the far right edge. CENTRE: the sailboat, small and precise, two pale cream sails catching cool light on one side and warm light on the other, a slender mast, a dark hull with a sharp vertical reflection beneath it. WATER: below the boat the surface becomes sculpted concentric ripple rings spreading outward in widening circles from the hull, built from glossy liquid-ink ribbons with bright white specular highlights, teal and ink-black on the left, crimson and ink-black on the right. The rings stack down through the lower two-thirds and thin out, the lowest breaking into drips and splatter that fade into the grey background. TEXTURE: ink wash bleeding, granulated pigment, stipple dots, splatter, distressed melting edges where the scene dissolves into the neutral grey. High contrast, glossy wet highlights against matte paper, no frame, no border, no text, no signature.

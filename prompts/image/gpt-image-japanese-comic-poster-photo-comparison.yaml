@@ -1,0 +1,35 @@
+id: gpt-image-japanese-comic-poster-photo-comparison
+title:
+  en: Photo and Japanese comic poster comparison of Istanbul cats
+  zh: 伊斯坦布尔猫咪照片与日式漫画海报对照图
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- comparison
+- screen-print
+- japanese-comic
+- poster
+- limited-palette
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2114688658746028256
+  credit: Saul Goodman
+  likes: 69
+  captured: '2026-10-28'
+  posted: '2026-10-26'
+notes:
+  en: The image splits into two halves, with the uploaded photo untouched on top and a redrawn version below. Exact hex colors for ink, red, blue and paper, plus a headline split across two lines in two colors, keep the screen-print look consistent.
+  zh: 画面分为上下两半，上半保留原照片，下半重绘为海报。墨色、红色、蓝色和纸色都给出了精确色值，标题分两行并分别指定颜色，让丝网印刷风格保持稳定。
+prompt: |
+  Create a 3:4 vertical comparison image divided into two equal horizontal halves, seamlessly joined without borders or gaps.
+
+  TOP HALF: Display the uploaded photograph exactly as it is, without editing, recoloring, or adding text. Preserve proportions; crop only peripheral background if necessary.
+
+  BOTTOM HALF: Redraw the same subject as a Japanese hand-drawn comic poster with minimalist, limited-color screen-print aesthetics. Preserve the subject's recognizable features, pose, proportions, colors, and relationships between objects. Adapt naturally to people, animals, objects, or landscapes. Keep the essential scenery and add nothing absent from the original photograph.
+
+  ART STYLE: Delicate, slightly irregular ink-black outlines (#02030B), simplified shapes, clean opaque color blocks, and minimal hard-edged shadows. Use warm red (#E9444B), muted gray-blue (#5296BD), and off-white paper (#ECEDE5), with red dominant over blue. Avoid photorealistic textures, dense hatching, 3D effects, and excessive details.
+
+  LAYOUT & TEXT: Position the illustration in the upper-middle of the bottom half, with generous negative space and bold, hand-carved typography below. Add a small handwritten, subject-related caption at the top and a short handwritten annotation beside the subject, both in black. The main headline reads “Jen” in warm red on the first line and “Style” in gray-blue on the second. Each appears once. Keep all text within the bottom half, fully legible and uncropped. Replace sample text only when the user provides alternatives.
+
+  FINAL RESULT: One complete 3:4 image, with the untouched original photograph above and its Japanese hand-drawn, limited-color poster interpretation below. No extra borders, watermarks, invented elements, or decorative clutter.

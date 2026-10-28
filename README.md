@@ -18,27 +18,27 @@
 
 ## Contents
 
-- [Video prompts](#video) (304 entries)
-  - [Wan 3.0](#wan30) (17)
+- [Video prompts](#video) (317 entries)
+  - [Wan 3.0](#wan30) (18)
   - [MiniMax H3](#minimaxh3) (80)
-  - [Seedance 2.5](#seedance25) (144)
-  - [Gemini Omni Flash](#geminiomniflash) (21)
-  - [Kling 3.0](#kling30) (27)
-  - [Veo 3.1](#veo31) (6)
+  - [Seedance 2.5](#seedance25) (146)
+  - [Gemini Omni Flash](#geminiomniflash) (26)
+  - [Kling 3.0](#kling30) (28)
+  - [Veo 3.1](#veo31) (10)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [Image prompts](#image) (69 entries)
-  - [Posters and editorial layouts](#img-poster) (10)
-  - [Photo to art](#img-photo-to-art) (11)
-  - [Photo realism](#img-realism) (12)
-  - [Portraits](#img-portrait) (5)
-  - [Illustration](#img-illustration) (7)
+- [Image prompts](#image) (109 entries)
+  - [Posters and editorial layouts](#img-poster) (14)
+  - [Photo to art](#img-photo-to-art) (24)
+  - [Photo realism](#img-realism) (15)
+  - [Portraits](#img-portrait) (10)
+  - [Illustration](#img-illustration) (18)
   - [Phone and UI mockups](#img-ui-mockup) (3)
   - [Maps](#img-map) (1)
-  - [Collage](#img-collage) (3)
+  - [Collage](#img-collage) (6)
   - [Infographics and slides](#img-infographic) (6)
   - [Logos, ads and packaging](#img-brand) (6)
-  - [Photo editing](#img-edit) (5)
+  - [Photo editing](#img-edit) (6)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
 - [3D with agents](#threed)
@@ -508,7 +508,7 @@ Wan 3.0 · Text-to-video · Source: [@joshesye on X](https://x.com/joshesye/stat
 
 </details>
 
-**[All 17 entries](pages/en/video-wan30.md)**
+**[All 18 entries](pages/en/video-wan30.md)**
 
 <a id="minimaxh3"></a>
 ## MiniMax H3
@@ -1078,7 +1078,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 </details>
 
-**[All 144 entries](pages/en/video-seedance25.md)**
+**[All 146 entries](pages/en/video-seedance25.md)**
 
 <a id="geminiomniflash"></a>
 ## Gemini Omni Flash
@@ -1371,7 +1371,7 @@ Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive car
 
 </details>
 
-**[All 21 entries](pages/en/video-geminiomniflash.md)**
+**[All 26 entries](pages/en/video-geminiomniflash.md)**
 
 <a id="kling30"></a>
 ## Kling 3.0
@@ -1556,7 +1556,7 @@ Shot 9: Final tight close-up. The blonde woman stares directly into the lens, he
 
 </details>
 
-**[All 27 entries](pages/en/video-kling30.md)**
+**[All 28 entries](pages/en/video-kling30.md)**
 
 <a id="veo31"></a>
 ## Veo 3.1
@@ -1811,6 +1811,8 @@ Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto
 ```
 
 </details>
+
+**[All 10 entries](pages/en/video-veo31.md)**
 
 <a id="veo3"></a>
 ## Veo 3
@@ -2523,7 +2525,7 @@ Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, 
 
 </details>
 
-**[All 10 entries](pages/en/image-poster.md)**
+**[All 14 entries](pages/en/image-poster.md)**
 
 <a id="img-photo-to-art"></a>
 ## Photo to art
@@ -2856,7 +2858,7 @@ Style keywords: minimalist doodle, folk-inspired hand drawing, blue ink illustra
 
 </details>
 
-**[All 11 entries](pages/en/image-photo-to-art.md)**
+**[All 24 entries](pages/en/image-photo-to-art.md)**
 
 <a id="img-realism"></a>
 ## Photo realism
@@ -2876,6 +2878,275 @@ GPT Image 2.5 · Text-to-image · Source: [@DeepBlueX0 on X](https://x.com/DeepB
 
 ```text
 Vertical 3×3 failed photos × {Character}
+```
+
+</details>
+
+<a id="nano-banana-sunlit-smartphone-selfie-white-tee"></a>
+### Sunlit smartphone selfie of woman in white tee
+
+<a href="https://www.reddit.com/r/GeminiAI/comments/1x08axv/nano_banana_21_goes_crazy"><img src="previews/nano-banana-sunlit-smartphone-selfie-white-tee.jpg" width="360"></a>
+
+A structured JSON spec splits face, hair, clothing, lighting and camera into separate fields, so each detail is controlled on its own. Naming a 24 to 28mm phone lens, clipped HDR highlights and a long avoid list keeps the result casual instead of studio polished.
+
+Nano Banana 2.1 · Text-to-image · Source: [u/RIGHT200 on Reddit](https://www.reddit.com/r/GeminiAI/comments/1x08axv/nano_banana_21_goes_crazy) · 1,204 likes on 2026-10-28
+
+[`selfie`](pages/en/tags.md#tag-selfie) [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) [`json-prompt`](pages/en/tags.md#tag-json-prompt) [`natural-light`](pages/en/tags.md#tag-natural-light) [`photorealistic`](pages/en/tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+
+"prompt_type": "detailed_image_reconstruction",
+
+"aspect_ratio": "16:9 horizontal portrait",
+
+"overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
+
+"subject": {
+
+"type": "young adult woman",
+
+"age_range": "early to mid 20s",
+
+"pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
+
+"body_position": "relaxed casual posture with shoulders slightly angled",
+
+"expression": "soft neutral expression with a subtle pout, calm and confident",
+
+"gaze": "looking directly toward the camera",
+
+"styling": "minimal everyday styling, clean and natural"
+
+},
+
+"face": {
+
+"shape": "soft oval face with a gently tapered jawline",
+
+"forehead": "medium-height forehead partly framed by center-parted hair",
+
+"eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
+
+"eyes": {
+
+"shape": "almond-shaped",
+
+"color": "light brown to hazel",
+
+"appearance": "bright eyes with visible catchlights",
+
+"lashes": "long defined eyelashes with subtle mascara"
+
+},
+
+"nose": "small straight nose with a softly rounded tip",
+
+"lips": {
+
+"shape": "full lips with a defined cupid's bow",
+
+"color": "natural rosy pink",
+
+"finish": "soft satin finish, not glossy"
+
+},
+
+"skin": {
+
+"tone": "light warm-neutral skin tone",
+
+"texture": "smooth natural skin with subtle pores and realistic tonal variation",
+
+"cheeks": "soft natural pink flush",
+
+"finish": "fresh luminous skin without heavy retouching"
+
+},
+
+"makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
+
+},
+
+"hair": {
+
+"color": "rich medium-to-dark chocolate brown",
+
+"length": "very long, extending well below the chest",
+
+"parting": "clean center part",
+
+"texture": "mostly straight with very soft natural bends through the lower lengths",
+
+"density": "thick and healthy-looking",
+
+"finish": "smooth and glossy but still realistic",
+
+"front_sections": "two thin face-framing strands falling naturally along both sides of the face",
+
+"details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
+
+"movement": "hair hanging naturally over both shoulders and down the front of the shirt"
+
+},
+
+"clothing": {
+
+"top": "oversized plain white crew-neck T-shirt",
+
+"fit": "loose casual fit",
+
+"fabric": "soft slightly wrinkled cotton",
+
+"logos": "none",
+
+"accessories": "no visible jewelry or prominent accessories"
+
+},
+
+"composition": {
+
+"shot_type": "close upper-body portrait",
+
+"camera_angle": "slightly above chest level, close to eye level",
+
+"camera_distance": "approximately arm's-length smartphone distance",
+
+"subject_position": "face slightly right of center with long hair occupying much of the lower frame",
+
+"crop": "top of head fully visible, image extending down to around lower torso",
+
+"orientation": "vertical",
+
+"perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
+
+},
+
+"lighting": {
+
+"primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
+
+"direction": "sunlight striking the subject from camera-left/front",
+
+"face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
+
+"hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
+
+"shadow_quality": "strong but soft-edged natural indoor shadows",
+
+"exposure": "face slightly brightly exposed while the room behind remains much darker",
+
+"color_temperature": "warm daylight"
+
+},
+
+"environment": {
+
+"location": "casual indoor residential room",
+
+"background": "dark gray walls with a white ceiling cornice",
+
+"left_background": "open doorway or darker hallway area",
+
+"right_background": "dark wall and partially visible household objects",
+
+"lower_right": "part of a black tripod or light stand visible",
+
+"overall_feel": "ordinary lived-in room rather than a studio",
+
+"depth": "background moderately out of focus but still recognizable"
+
+},
+
+"camera": {
+
+"capture_device": "modern smartphone camera",
+
+"lens_equivalent": "approximately 24-28mm full-frame equivalent",
+
+"focus": "sharp focus on face and front hair",
+
+"depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
+
+"dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
+
+"image_character": "casual social-media selfie/photo, not professionally staged"
+
+},
+
+"photorealism_details": [
+
+"real individual hair strands",
+
+"natural skin pores and micro-texture",
+
+"subtle peach fuzz",
+
+"realistic eyelash separation",
+
+"tiny variations in lip texture",
+
+"slight fabric creases in the T-shirt",
+
+"small flyaway hairs around the crown",
+
+"natural sunlight falloff across the face",
+
+"slightly imperfect casual framing",
+
+"realistic indoor shadow noise"
+
+],
+
+"style": {
+
+"visual_style": "highly photorealistic casual smartphone portrait",
+
+"mood": "soft, youthful, relaxed, sunlit",
+
+"processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
+
+"avoid": [
+
+"cinematic movie lighting",
+
+"studio portrait lighting",
+
+"overly smooth plastic skin",
+
+"CGI appearance",
+
+"anime or illustration",
+
+"heavy beauty filter",
+
+"extreme facial symmetry",
+
+"over-sharpened hair",
+
+"artificial jet-black hair",
+
+"dramatic makeup",
+
+"excessive background blur",
+
+"professional studio backdrop",
+
+"text",
+
+"watermarks",
+
+"logos"
+
+]
+
+},
+
+"negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
+
+}
 ```
 
 </details>
@@ -2943,6 +3214,25 @@ Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil
 
 </details>
 
+<a id="nano-banana-monstera-leaf-hidden-words"></a>
+### Monstera leaf gaps forming hidden words
+
+<a href="https://x.com/fofrAI/status/2107509669514113058"><img src="previews/nano-banana-monstera-leaf-hidden-words.jpg" width="360"></a>
+
+The prompt names one real object and asks for the text to emerge organically from its natural features, so the lettering follows the leaf's own cut-outs instead of sitting on top. A simple backdrop keeps the gaps readable as letterforms.
+
+Nano Banana 2.1 · Text-to-image · Source: [@fofrAI on X](https://x.com/fofrAI/status/2107509669514113058) · 549 likes on 2026-10-28
+
+[`text-in-image`](pages/en/tags.md#tag-text-in-image) [`monstera`](pages/en/tags.md#tag-monstera) [`nature`](pages/en/tags.md#tag-nature) [`typography`](pages/en/tags.md#tag-typography) [`photo`](pages/en/tags.md#tag-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A photo of a monstera leaf against a simple backdrop, cleverly and organically appearing within the natural gaps of the leaf are the words Nano Banana
+```
+
+</details>
+
 <a id="gpt-image-forest-clearing-foliage-noise-test"></a>
 ### Sunlit woodland clearing with dense green foliage
 
@@ -2972,181 +3262,7 @@ See for yourself:
 
 </details>
 
-<a id="nano-banana-json-reconstruction"></a>
-### JSON prompt that reconstructs a photo shot for shot
-
-<a href="https://x.com/ViralOps_/status/2107538470818484305"><img src="previews/nano-banana-json-reconstruction.jpg" width="360"></a>
-
-Structured as JSON fields (framing, light, colour, negatives). The post compares the same JSON on Nano Banana 2.1 and GPT Image 2.5.
-
-Nano Banana 2.1 · Edit · Source: [@ViralOps_ on X](https://x.com/ViralOps_/status/2107538470818484305) · 326 likes on 2026-10-27
-
-[`json`](pages/en/tags.md#tag-json) [`reconstruction`](pages/en/tags.md#tag-reconstruction) [`comparison`](pages/en/tags.md#tag-comparison)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{
-  "prompt_type": "detailed_image_reconstruction",
-  "aspect_ratio": "4:5 vertical portrait",
-  "overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
-
-  "subject": {
-    "type": "young adult woman",
-    "age_range": "early to mid 20s",
-    "pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
-    "body_position": "relaxed casual posture with shoulders slightly angled",
-    "expression": "soft neutral expression with a subtle pout, calm and confident",
-    "gaze": "looking directly toward the camera",
-    "styling": "minimal everyday styling, clean and natural"
-  },
-
-  "face": {
-    "shape": "soft oval face with a gently tapered jawline",
-    "forehead": "medium-height forehead partly framed by center-parted hair",
-    "eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
-    "eyes": {
-      "shape": "almond-shaped",
-      "color": "light brown to hazel",
-      "appearance": "bright eyes with visible catchlights",
-      "lashes": "long defined eyelashes with subtle mascara"
-    },
-    "nose": "small straight nose with a softly rounded tip",
-    "lips": {
-      "shape": "full lips with a defined cupid's bow",
-      "color": "natural rosy pink",
-      "finish": "soft satin finish, not glossy"
-    },
-    "skin": {
-      "tone": "light warm-neutral skin tone",
-      "texture": "smooth natural skin with subtle pores and realistic tonal variation",
-      "cheeks": "soft natural pink flush",
-      "finish": "fresh luminous skin without heavy retouching"
-    },
-    "makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
-  },
-
-  "hair": {
-    "color": "rich medium-to-dark chocolate brown",
-    "length": "very long, extending well below the chest",
-    "parting": "clean center part",
-    "texture": "mostly straight with very soft natural bends through the lower lengths",
-    "density": "thick and healthy-looking",
-    "finish": "smooth and glossy but still realistic",
-    "front_sections": "two thin face-framing strands falling naturally along both sides of the face",
-    "details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
-    "movement": "hair hanging naturally over both shoulders and down the front of the shirt"
-  },
-
-  "clothing": {
-    "top": "oversized plain white crew-neck T-shirt",
-    "fit": "loose casual fit",
-    "fabric": "soft slightly wrinkled cotton",
-    "logos": "none",
-    "accessories": "no visible jewelry or prominent accessories"
-  },
-
-  "composition": {
-    "shot_type": "close upper-body portrait",
-    "camera_angle": "slightly above chest level, close to eye level",
-    "camera_distance": "approximately arm's-length smartphone distance",
-    "subject_position": "face slightly right of center with long hair occupying much of the lower frame",
-    "crop": "top of head fully visible, image extending down to around lower torso",
-    "orientation": "vertical",
-    "perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
-  },
-
-  "lighting": {
-    "primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
-    "direction": "sunlight striking the subject from camera-left/front",
-    "face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
-    "hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
-    "shadow_quality": "strong but soft-edged natural indoor shadows",
-    "exposure": "face slightly brightly exposed while the room behind remains much darker",
-    "color_temperature": "warm daylight"
-  },
-
-  "environment": {
-    "location": "casual indoor residential room",
-    "background": "dark gray walls with a white ceiling cornice",
-    "left_background": "open doorway or darker hallway area",
-    "right_background": "dark wall and partially visible household objects",
-    "lower_right": "part of a black tripod or light stand visible",
-    "overall_feel": "ordinary lived-in room rather than a studio",
-    "depth": "background moderately out of focus but still recognizable"
-  },
-
-  "camera": {
-    "capture_device": "modern smartphone camera",
-    "lens_equivalent": "approximately 24-28mm full-frame equivalent",
-    "focus": "sharp focus on face and front hair",
-    "depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
-    "dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
-    "image_character": "casual social-media selfie/photo, not professionally staged"
-  },
-
-  "photorealism_details": [
-    "real individual hair strands",
-    "natural skin pores and micro-texture",
-    "subtle peach fuzz",
-    "realistic eyelash separation",
-    "tiny variations in lip texture",
-    "slight fabric creases in the T-shirt",
-    "small flyaway hairs around the crown",
-    "natural sunlight falloff across the face",
-    "slightly imperfect casual framing",
-    "realistic indoor shadow noise"
-  ],
-
-  "style": {
-    "visual_style": "highly photorealistic casual smartphone portrait",
-    "mood": "soft, youthful, relaxed, sunlit",
-    "processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
-    "avoid": [
-      "cinematic movie lighting",
-      "studio portrait lighting",
-      "overly smooth plastic skin",
-      "CGI appearance",
-      "anime or illustration",
-      "heavy beauty filter",
-      "extreme facial symmetry",
-      "over-sharpened hair",
-      "artificial jet-black hair",
-      "dramatic makeup",
-      "excessive background blur",
-      "professional studio backdrop",
-      "text",
-      "watermarks",
-      "logos"
-    ]
-  },
-
-  "negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
-}
-```
-
-</details>
-
-<a id="gpt-image-dusk-film-portrait"></a>
-### Low-angle dusk portrait with film grain
-
-<a href="https://x.com/chatgptpaglu/status/2105219509791678731"><img src="previews/gpt-image-dusk-film-portrait.jpg" width="360"></a>
-
-Under 600 characters. Camera angle, clothing detail, one light source, one film look.
-
-GPT Image 2.5 · Text-to-image · Source: [@chatgptpaglu on X](https://x.com/chatgptpaglu/status/2105219509791678731) · 318 likes on 2026-10-27
-
-[`portrait`](pages/en/tags.md#tag-portrait) [`film-grain`](pages/en/tags.md#tag-film-grain) [`golden-hour`](pages/en/tags.md#tag-golden-hour)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.
-```
-
-</details>
-
-**[All 12 entries](pages/en/image-realism.md)**
+**[All 15 entries](pages/en/image-realism.md)**
 
 <a id="img-portrait"></a>
 ## Portraits
@@ -3182,6 +3298,74 @@ Photography Style: Luxury fashion magazine editorial, contemporary avant-garde p
 Image Quality: Photorealistic, ultra-detailed, 8K appearance, professional art direction, anatomically accurate hands, realistic proportions, elegant negative space, clean architectural geometry, natural facial expression, crisp details, refined composition, no artificial-looking skin, no excessive retouching.
 
 Vertical portrait composition, 2:3 aspect ratio.
+```
+
+</details>
+
+<a id="nano-banana-overhead-snow-portrait-school-uniform"></a>
+### Overhead portrait of a girl lying in snow
+
+<a href="https://x.com/VibeEverything/status/2113256906294796645"><img src="previews/nano-banana-overhead-snow-portrait-school-uniform.jpg" width="360"></a>
+
+A JSON prompt locks identity to the reference photo, then specifies camera angle, lens, focus, pose, outfit and lighting as separate fields. Naming overcast light, snowflake details and a negative prompt against face changes keeps the likeness and the cold, quiet mood.
+
+Nano Banana 2.1 · Edit · Source: [@VibeEverything on X](https://x.com/VibeEverything/status/2113256906294796645) · 275 likes on 2026-10-28
+
+[`portrait`](pages/en/tags.md#tag-portrait) [`snow`](pages/en/tags.md#tag-snow) [`school-uniform`](pages/en/tags.md#tag-school-uniform) [`overhead`](pages/en/tags.md#tag-overhead) [`json-prompt`](pages/en/tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "reference_image": {
+    "identity_preservation": "STRICT — The person's identity from the reference image must be preserved exactly. Keep facial structure, face shape, eye shape, nose, lips, skin tone, freckles/skin texture, and overall likeness identical. Do not alter, beautify, age, or stylize the face.",
+    "use_reference_for": ["face", "hairstyle", "overall likeness"]
+  },
+  "image_type": "photorealistic portrait photograph",
+  "aspect_ratio": "2:3 (vertical)",
+  "camera": {
+    "angle": "top-down overhead shot, camera directly above the subject",
+    "framing": "close-up to medium close-up, head to upper chest",
+    "lens": "85mm portrait lens look",
+    "depth_of_field": "shallow, face in sharp focus",
+    "focus": "eyes"
+  },
+  "subject": {
+    "pose": "lying on her back in fresh snow, head slightly tilted, relaxed and calm",
+    "gaze": "looking directly into the camera lens, eye contact with the viewer",
+    "expression": "calm, dreamy, slightly melancholic, lips gently closed",
+    "hair": {
+      "color": "black",
+      "length": "long",
+      "style": "loose, fanned out across the snow, a few strands across the face, snowflakes caught in the hair"
+    },
+    "accessories": [
+      "round tortoiseshell-frame glasses",
+      "white wired earphones in both ears, cable running down over the chest"
+    ],
+    "makeup": "natural, minimal, soft coral lips"
+  },
+  "outfit": {
+    "outerwear": "charcoal school uniform blazer with notched lapels, matte wool texture",
+    "shirt": "white collared dress shirt",
+    "tie": "navy striped tie with light blue and white diagonal stripes",
+    "details": "snowflakes resting on the blazer shoulders and lapels"
+  },
+  "environment": {
+    "setting": "outdoors, lying in a bed of fresh powdery snow",
+    "weather": "light snowfall, individual snowflakes visible in the frame",
+    "background": "white snow surface filling the background"
+  },
+  "lighting": {
+    "type": "soft diffused natural daylight, overcast",
+    "quality": "even, gentle, no harsh shadows",
+    "skin_rendering": "natural skin texture, subtle cool tones on skin"
+  },
+  "color_palette": ["snow white", "charcoal gray", "navy", "black", "warm tortoiseshell brown", "soft coral"],
+  "mood": "quiet, cold, cinematic winter, introspective",
+  "style": "high-end editorial photography, film-like, realistic detail",
+  "negative_prompt": "face alteration, identity change, distorted features, extra fingers, plastic skin, over-smoothing, cartoon, anime, heavy makeup, harsh flash, blurry eyes, looking away from camera"
+}
 ```
 
 </details>
@@ -3244,6 +3428,49 @@ center part, middle part, ribbons, bows, headwear, hat, full body, waist-down, s
 
 </details>
 
+<a id="gpt-image-realistic-woman-3d-girl-night-park"></a>
+### Realistic woman beside 3D animated girl at night
+
+<a href="https://x.com/Alina_with_Ai/status/2102960952266432853"><img src="previews/gpt-image-realistic-woman-3d-girl-night-park.jpg" width="360"></a>
+
+Uses an uploaded photo as the identity reference for the realistic woman, then fixes the 3D girl's outfit, hair and proportions so the two styles blend. A short list of hard constraints on pose, gaze and height difference, plus warm streetlight rim lighting, keeps the mixed realism and animation consistent.
+
+GPT Image 2.5 · Edit · Source: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2102960952266432853) · 185 likes on 2026-10-28
+
+[`mixed-style`](pages/en/tags.md#tag-mixed-style) [`3d-character`](pages/en/tags.md#tag-3d-character) [`night-park`](pages/en/tags.md#tag-night-park) [`identity-reference`](pages/en/tags.md#tag-identity-reference) [`golden-light`](pages/en/tags.md#tag-golden-light)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a single cinematic vertical 9:16 image based closely on the uploaded reference.
+
+Show TWO characters standing side by side at night in a beautiful city park.
+
+The adult woman is the main realistic character. Use my uploaded photo as her identity reference and preserve my facial identity, facial structure, skin tone, and recognizable appearance. She has long dark brown hair and wears masculine oversized streetwear: a dark olive/black oversized utility jacket, black oversized hoodie, extremely loose black cargo pants, and white chunky sneakers.
+
+The woman is standing naturally and looking DOWN toward the little girl with a warm, genuine smile. Her body is slightly turned toward the little girl. One hand is casually inside her jacket/pants pocket, while her other hand is raised and her index finger is POINTING toward the little girl, as if proudly introducing or showing her. Make the pointing gesture very clear and natural.
+
+Beside her stands an adorable small 3D animated girl. Keep the little girl extremely cute: oversized expressive brown eyes, rosy cheeks, tiny face, brown hair in a messy high bun with loose strands, black oversized hoodie with a small crown emblem, loose black cargo pants, and white chunky sneakers. She is standing upright and looking up at the woman with a sweet playful smile.
+
+IMPORTANT:
+- Both characters must be FULLY STANDING.
+- One single image only, NOT a collage or split screen.
+- The woman must be pointing toward the little girl.
+- The woman must be looking at the little girl and smiling.
+- The little girl must be looking up at the woman.
+- Keep a clear height difference between them.
+- Do not make the little girl photorealistic; keep her cute high-quality 3D animated appearance.
+- Do not change the little girl's outfit, hairstyle, facial style, or body proportions.
+
+Set them on a nighttime park walkway with leafy trees, warm glowing streetlights, distant city lights, soft bokeh, golden rim lighting around their hair and shoulders, realistic shadows, and a cozy magical atmosphere.
+
+Photorealistic adult woman + adorable 3D animated girl, seamless integration, cinematic photography, realistic skin and clothing textures, warm golden color grading, shallow depth of field, ultra-detailed, natural proportions, professional composition, vertical 9:16.
+
+The final composition should clearly communicate: the big girl is proudly pointing at the cute little girl while smiling at her.
+```
+
+</details>
+
 <a id="nano-banana-chiaroscuro-portrait"></a>
 ### Cinematic chiaroscuro close-up of your photo
 
@@ -3263,48 +3490,7 @@ A hyper-realistic, 8K resolution cinematic close-up portrait of the person in th
 
 </details>
 
-<a id="nano-banana-ccd-flash-sofa-selfie-portrait"></a>
-### Over the shoulder flash selfie on boucle sofa
-
-<a href="https://x.com/Emmma___0/status/2107687127844856184"><img src="previews/nano-banana-ccd-flash-sofa-selfie-portrait.jpg" width="360"></a>
-
-The prompt splits the brief into labeled blocks for pose, hair, expression, outfit, background and camera, and a tight crop that cuts off half the face keeps the framing intimate. A long negative list plus identity preservation from the attached photo keeps the face, neck and hands believable.
-
-Nano Banana 2.1 · Edit · Source: [@Emmma___0 on X](https://x.com/Emmma___0/status/2107687127844856184) · 157 likes on 2026-10-27
-
-[`ccd-flash`](pages/en/tags.md#tag-ccd-flash) [`selfie`](pages/en/tags.md#tag-selfie) [`korean-makeup`](pages/en/tags.md#tag-korean-makeup) [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) [`labeled-blocks`](pages/en/tags.md#tag-labeled-blocks)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed pores, rosy dewy skin, Douyin glass-skin, pink gloss lips, aegyosal, blush, grey contacts, wispy lashes, brushed brows, thin liner. Preserve her recognizable facial identity and natural proportions with a playful yet sophisticated Chryzleen-inspired indoor fashion aesthetic.
-
-[POSE & COMPOSITION] A tight over-the-shoulder CCD selfie while she leans sideways into a plush sofa. The camera sits slightly behind and above her shoulder, creating a close three-quarter over-shoulder perspective. Only one eye, cheekbone, glossy lips, jawline, a sliver of neck, and the near shoulder are visible. The far side of her face is completely cropped out. Her head turns gently back toward the camera with a small natural tilt, keeping the neck relaxed and anatomically believable. One hand rests loosely on the sofa back behind her, with fingertips visible at the edge of the frame. The pose feels subtly seductive and candid rather than overly posed.
-
-[HAIR] Deep side part with lifted roots and intentionally untidy, windswept volume. Several wispy strands fall across the forehead and cheek, while loose pieces spill naturally behind the shoulder. The hair should have irregular movement and soft imperfections, avoiding a freshly styled appearance.
-
-[EXPRESSION] Half-lidded grey-contact gaze looking back toward the camera, relaxed brows, slightly lifted chin, soft jaw, glossy pink lips parted just enough to show a subtle glimpse of front teeth. Alluring, confident, and understated.
-
-[OUTFIT] Sky-blue fitted sweetheart-neckline knit top with tiny white embroidered daisies, delicate scalloped edging, and miniature pearl-like buttons. Cute modern indoor fashion with a feminine fitted silhouette and soft textured fabric.
-
-[BACKGROUND & ENVIRONMENT] A cozy contemporary living room with a warm beige boucle sofa, muted dusty-blue wall, softly blurred floor lamp, and a small cream cushion behind her. The room is visible only in narrow fragments around the extremely tight crop.
-
-[BRANDING] A miniature Chryzleen engraving is physically placed on a tiny gold bracelet charm worn on the hand resting against the sofa. The Chryzleen mark should be naturally etched into the metal and remain subtle. This single Chryzleen accessory is the only visible branding treatment in the entire image.
-
-[CAMERA] Old CCD digicam, direct flash, fine grain. Close over-the-shoulder three-quarter perspective with crisp detail on the visible eye, cheek, lips, messy hair wisps, shoulder, fingers, and tiny jewelry detail.
-
-[QUALITY] Photorealistic pores and skin texture, natural facial asymmetry, believable hair movement, realistic hands and fingers, seamless neck anatomy, authentic knit texture, natural CCD grain, premium indoor fashion-editorial finish.
-
-[MAKEUP] Fresh Korean soft-glam, natural glow, pink blush, wispy lashes, thin winged liner, shimmering rose-taupe eyeshadow, glossy pink lips.
-
-Keep the Chryzleen branding physically integrated into the jewelry and visually understated, never functioning as graphic text.
-
-1:1 aspect ratio.
-
-[NEGATIVE PROMPT] cardigan, cardigan outfit, jacket, blazer, excessive head turn, extreme head tilt, extreme neck arch, twisted neck, unnatural neck curve, stiff pose, frontal selfie, symmetrical composition, perfectly polished hair, salon-perfect hair, no facial wisps, perfectly arranged strands, full body, half body, waist-up, loose crop, distant camera, excessive living room, hands covering face, hair-touching, malformed hands, extra fingers, missing fingers, warped eyes, plastic skin, over-smoothed face, pale washed-out skin, green cast, square skin artifacts, identity drift, multiple people, multiple Chryzleen marks, duplicate branding, watermark, floating text, random readable signage.
-```
-
-</details>
+**[All 10 entries](pages/en/image-portrait.md)**
 
 <a id="img-illustration"></a>
 ## Illustration
@@ -3436,106 +3622,131 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
-<a id="nano-banana-paper-cut-fashion"></a>
-### Fashion illustration in layered 3D paper-cut
+<a id="gpt-image-pixel-art-combat-sprite-sheet-from-character"></a>
+### Pixel art combat sprite sheet from character render
 
-<a href="https://x.com/ChillaiKalan__/status/2109534297367724221"><img src="previews/nano-banana-paper-cut-fashion.jpg" width="360"></a>
+<a href="https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet"><img src="previews/gpt-image-pixel-art-combat-sprite-sheet-from-character.jpg" width="360"></a>
 
-Same structure as the geometric one, with the medium swapped. Good pair for comparing styles.
+Attaching one full body character render and naming the pixel size (128px), the grid (4x4) and the motion type keeps hair, jacket and boots consistent across all sixteen frames. Asking for a transparent background and a follow-up GIF makes the sheet ready for animation.
 
-Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2109534297367724221) · 188 likes on 2026-10-27
+GPT Image 2.5 · Edit · Source: [u/Practical_Low29 on Reddit](https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet) · 303 likes on 2026-10-28
 
-[`fashion`](pages/en/tags.md#tag-fashion) [`paper-cut`](pages/en/tags.md#tag-paper-cut) [`3d`](pages/en/tags.md#tag-3d)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a high-end editorial fashion illustration of a stylish woman wearing a bold, contemporary designer outfit. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations such as pastel pink, sky blue, mint green, sunshine yellow, and emerald green, paired with contrasting patterns like polka dots or vertical stripes. Add fashionable accessories, including statement sunglasses, earrings, a structured handbag, and modern shoes. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark.
-```
-
-</details>
-
-<a id="gpt-image-forest-hero-character-sheet"></a>
-### Watercolor hero for a children's book
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="previews/gpt-image-forest-hero-character-sheet.jpg" width="360"></a>
-
-Character, theme, style and constraints are separate labeled blocks, and the plain background shows the character clearly for reuse in later pages. Preview: the Sunburst variant.
-
-GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
-
-[`character`](pages/en/tags.md#tag-character) [`childrens-book`](pages/en/tags.md#tag-childrens-book) [`watercolor`](pages/en/tags.md#tag-watercolor)
+[`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) [`pixel-art`](pages/en/tags.md#tag-pixel-art) [`game-assets`](pages/en/tags.md#tag-game-assets) [`character-design`](pages/en/tags.md#tag-character-design) [`animation`](pages/en/tags.md#tag-animation)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create a children’s book illustration introducing a main character.
-
-Character:
-A young, storybook-style hero inspired by a little forest outlaw,
-wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
-The character has a kind expression, gentle eyes, and a brave but warm demeanor.
-Carries a small wooden bow used only for helping, never harming.
-
-Theme:
-The character protects and rescues small forest animals like squirrels, birds, and rabbits.
-
-Style:
-Children’s book illustration, hand-painted watercolor look,
-soft outlines, warm earthy colors, whimsical and friendly.
-Proportions suitable for picture books (slightly oversized head, expressive face).
-
-Constraints:
-- Original character (no copyrighted characters)
-- No text
-- No watermarks
-- Plain forest background to clearly showcase the character
+Make a simplified 128px pixel art combat motion sprite sheet of this character, transparent background if you can, arrange it 4x4.
 ```
 
 </details>
 
-<a id="gpt-image-forest-hero-squirrel-rescue"></a>
-### Same hero rescues a squirrel in the snow
+<a id="gpt-image-character-dance-pose-grid"></a>
+### Sixteen Dance Poses of a Bunny Hat Girl
 
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="previews/gpt-image-forest-hero-squirrel-rescue.jpg" width="360"></a>
+<a href="https://x.com/Mayz1169/status/2098050289819652321"><img src="previews/gpt-image-character-dance-pose-grid.jpg" width="360"></a>
 
-Feeds the character image back in and repeats its defining details under Character Consistency, so the outfit and face stay the same in a new scene. Preview: the Sunburst variant.
+The prompt asks the model to read the character's personality and invent a matching dance vocabulary, then fixes a strict 4×4 numbered grid with one camera distance and white backgrounds. Explicit identity locks and an avoid list keep outfit and proportions consistent across all 16 panels.
 
-GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+GPT Image 2.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2098050289819652321) · 283 likes on 2026-10-28
 
-[`character`](pages/en/tags.md#tag-character) [`consistency`](pages/en/tags.md#tag-consistency) [`childrens-book`](pages/en/tags.md#tag-childrens-book)
+[`character-sheet`](pages/en/tags.md#tag-character-sheet) [`dance`](pages/en/tags.md#tag-dance) [`pose-grid`](pages/en/tags.md#tag-pose-grid) [`anime`](pages/en/tags.md#tag-anime) [`seedance-reference`](pages/en/tags.md#tag-seedance-reference)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Continue the children’s book story using the same character.
+Create a single square image featuring a 4×4 grid of 16 unique full-body dance poses based on the uploaded character.
 
-Scene:
-The same young forest hero is gently helping a frightened squirrel
-out of a fallen tree after a winter storm.
-The character kneels beside the squirrel, offering reassurance.
+CHARACTER-DRIVEN CHOREOGRAPHY
+First, visually interpret the character’s personality and aesthetic through their expression, silhouette, outfit, accessories, proportions, and overall visual style. Use this interpretation to invent a personalized dance vocabulary that feels natural and distinctive to THIS character.
 
-Character Consistency:
-- Same green hooded tunic
-- Same facial features, proportions, and color palette
-- Same gentle, heroic personality
+Do not apply a generic dance routine or a predetermined list of poses. Let the character’s attitude determine the rhythm, energy, gestures, posture, footwork, and use of space.
 
-Style:
-Children’s book watercolor illustration,
-soft lighting, snowy forest environment,
-warm and comforting mood.
+For example, a mischievous character might use cheeky gestures, unexpected weight shifts, and playful hops; a reserved character might favor controlled steps and subtle hand movements; a bold character might use grounded footwork and sharp accents; an ethereal character might move through soft curves and floating transitions. These are illustrative possibilities, not required categories or moves. Combine traits when the design suggests a more nuanced personality.
 
-Constraints:
-- Do not redesign the character
-- No text
-- No watermarks
+Develop a recognizable movement motif unique to this character and reinterpret it across several panels without repeating the same pose. Incorporate distinctive design features naturally: flowing sleeves may follow sweeping gestures, heavy boots may inspire grounded steps, and a tail or wings may contribute to balance and expression if present. Do not invent accessories or anatomy.
+
+Make the result feel like this character is expressing themselves through dance, rather than performing an interchangeable pose pack. Keep the movement appropriate to the character’s apparent age, anatomy, clothing, and mobility.
+
+SEQUENCE AND VARIETY
+Show 16 distinct key poses from one cohesive, character-specific dance phrase, read left to right and top to bottom. Build a natural progression from an opening gesture through variations and a climax to a signature finish.
+
+Include meaningful variation in silhouette, arm placement, footwork, body orientation, and movement level only where it suits the character. Do not force jumps, squats, exaggerated expressions, or dramatic poses onto a character whose personality calls for restraint. Even subtle choreography should produce clearly distinguishable poses.
+
+Maintain believable balance and natural joints. Use facial expressions, head tilts, hands, and posture to reinforce the same personality throughout. Hair, clothing, and accessories should react naturally to movement.
+
+IDENTITY AND STYLE
+Preserve the uploaded character’s identity exactly: face, hairstyle, body proportions, outfit, colors, footwear, and accessories. Maintain the reference image’s rendering style throughout all 16 panels. Do not redesign, recolor, or change costumes. Infer any unseen details conservatively and keep them consistent.
+
+GRID AND PRESENTATION
+Exactly four rows and four columns, with 16 equally sized square panels separated by thin black lines. Plain white backgrounds and subtle grounding shadows. Number the panels 1–16 in the upper-left corners.
+
+One full-body character per panel, including all extremities and accessories, with comfortable margins. Consistent character scale, camera distance, lighting, and ground level. Use a fixed eye-level camera; different views should result from the character turning.
+
+If a separate dance-grid reference is provided, use it only for the grid layout and presentation. Do not copy its character, outfit, dance poses, or attitude. The uploaded character must determine the choreography.
+
+OUTPUT
+A polished dance reference sheet with strong character identity and 16 individually readable poses. Output only the image, without written analysis.
+
+AVOID
+Generic choreography, copied reference poses, repetitive or mirrored duplicates, personality mismatches, forced cuteness or swagger, inconsistent identity, altered outfits, cropped extremities, extra limbs, distorted anatomy, motion trails, missing or extra panels, and text other than panel numbers.
 ```
 
 </details>
 
-Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-sunburst.webp)
+<a id="gpt-image-golden-moonlit-pagoda-lotus-river"></a>
+### Golden Pagoda and Lotus River Under Moon
 
-**[All 7 entries](pages/en/image-illustration.md)**
+<a href="https://x.com/churvikv/status/2101030587478007880"><img src="previews/gpt-image-golden-moonlit-pagoda-lotus-river.jpg" width="360"></a>
+
+The prompt is split into labeled sections (environment, lighting, materials, composition, mood) with explicit avoid lists. A strict gold on black palette and a vertical 4:5 frame keep the poster look consistent.
+
+GPT Image 2.5 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2101030587478007880) · 196 likes on 2026-10-28
+
+[`night-landscape`](pages/en/tags.md#tag-night-landscape) [`pagoda`](pages/en/tags.md#tag-pagoda) [`gold-on-black`](pages/en/tags.md#tag-gold-on-black) [`lotus`](pages/en/tags.md#tag-lotus) [`poster`](pages/en/tags.md#tag-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A highly detailed stylized nightscape illustration in a luxury editorial poster aesthetic, rendered with crisp linework and glowing contrast against a deep black background. The scene centers on a luminous golden moon rising behind layered mountain silhouettes, with a refined Japanese pagoda beside a reflective stream, all bathed in warm amber, cream, and muted blue-gray tones.
+Environment:
+• A serene landscape with a large full moon dominating the upper center background
+• Dark, layered mountain ranges stretching across the horizon, with elegant contour lines and subtle highlights
+• A multi-tier pagoda positioned right of center, perched on rocky ground beside the water, with curved rooflines and softly glowing windows
+• A winding reflective stream running from the midground toward the foreground center, creating a bright path of moonlit reflection
+• Lotus flowers and tall grasses framing both sides of the foreground, especially clustered at lower left and lower right
+• Stylized cloud bands passing horizontally across the moon, with small stars and a few tiny bird silhouettes in the sky
+• Additional small architectural detail faintly visible in the midground left near the water
+• Avoid modern elements, clutter, heavy realism, or dense texture noise
+Lighting:
+• Strong moon backlight from the large central moon, creating a radiant halo and soft atmospheric glow
+• Warm internal glow within the pagoda, contrasting with the cool darkness of the mountains and sky
+• Gentle highlights along roof edges, flower petals, rocks, and water ripples
+• Reflections in the stream should be luminous and controlled, not mirror-sharp
+• No harsh shadows, no blown-out moon detail, no flat unlit foreground
+Materials:
+• Smooth ink-like black negative space with metallic gold and ivory highlights
+• Pagoda surfaces with polished wood-like warmth and fine architectural edging
+• Water rendered with silky reflective lines and soft layered shimmer
+• Flowers with delicate satin-like petals and softly glowing centers
+• Rocky terrain in matte charcoal with clean stylized edge lighting
+Composition:
+• Vertical poster composition, centered around the moon and water reflection axis
+• Pagoda occupying the right midground as the hero structure, balanced by floral masses on both sides
+• Mountains layered behind the pagoda to create depth without overwhelming the moon
+• Strong use of negative space around the upper sky and outer edges for dramatic contrast
+• Hero elements fill most of the frame with a symmetrical visual rhythm, though not perfectly mirrored
+Mood:
+Quiet, majestic, dreamlike, and elegant with a tranquil nocturnal fantasy atmosphere
+Ultra-detailed digital illustration, sharp ornamental linework, high contrast, vertical 4:5 composition, glowing gold-on-black palette, polished cinematic finish.
+
+🏞 Prompt 3:
+A serene Japanese landscape bathed in the warm glow of a large, luminous full moon. A multi-tiered pagoda, adorned with intricate golden details and traditional roofing, stands majestically on a rocky outcrop. It is surrounded by lush, golden-hued foliage and large, delicate lotus flowers in shades of cream and soft orange. A tranquil river, reflecting the moonlight and surrounding scenery, gently flows through the foreground. Jagged, dark mountains form the backdrop, silhouetted against the vibrant sky. The atmosphere is mystical and peaceful, with a hint of ancient grandeur. The color palette is dominated by deep blacks, contrasting with bright yellows, golds, and soft oranges, creating a striking visual. The composition is framed by darkness, emphasizing the illuminated central elements, with a low-angle perspective drawing the viewer into the scene. The style is reminiscent of traditional Japanese ink paintings with a touch of fantasy illustration, featuring smooth textures and dramatic lighting.
+```
+
+</details>
+
+**[All 18 entries](pages/en/image-illustration.md)**
 
 <a id="img-ui-mockup"></a>
 ## Phone and UI mockups
@@ -3763,6 +3974,42 @@ OPTIONAL DETAILS:
 <a id="img-collage"></a>
 ## Collage
 
+<a id="gpt-image-flash-photo-dump-six-frame-portrait-collage"></a>
+### Six frame flash photo dump portrait collage
+
+<a href="https://x.com/mehvishs25/status/2112208561673740615"><img src="previews/gpt-image-flash-photo-dump-six-frame-portrait-collage.jpg" width="360"></a>
+
+Locks identity to the reference photo, then lists six numbered moments, each with its own expression, hand placement and hair arrangement. The compact camera flash look, a fixed outfit and wall, and a closing avoid list keep the grid consistent and candid.
+
+GPT Image 2.5 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2112208561673740615) · 211 likes on 2026-10-28
+
+[`portrait-collage`](pages/en/tags.md#tag-portrait-collage) [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) [`flash-photography`](pages/en/tags.md#tag-flash-photography) [`photo-dump`](pages/en/tags.md#tag-photo-dump) [`grid`](pages/en/tags.md#tag-grid)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic 6-frame portrait collage arranged in a clean 3×2 grid, featuring the exact same girl from the uploaded reference photo. Use the reference exclusively for identity preservation, accurately retaining her facial structure, eye color, natural hair color, hairstyle, hair length, volume, texture, and distinctive facial features. Her identity must remain consistent across all six frames.
+
+Overall aesthetic: Casual Instagram photo dump with an authentic early-2000s digital camera vibe. A simple muted powder-blue wall, fitted black spaghetti-strap top, delicate minimal accessories, and effortless everyday makeup. Shot on a Canon PowerShot G7 X Mark III with direct on-camera flash, crisp facial details, realistic skin pores, subtle grain, natural imperfections, strong flash highlights, and distinct shadows against the wall.
+
+Six different candid moments:
+
+1. Playful charm: Leaning slightly toward the camera, cheeks gently resting against her palms, giving a small, natural smile.
+2. Cheeky energy: One eye closed in a wink, grinning brightly while sweeping a section of hair behind her ear.
+3. Carefree mood: Eyes softly closed, lips forming a playful pout, both hands raised above her head as she loosely gathers her hair.
+4. Cool and confident: Face turned slightly sideways, looking into the lens from the corner of her eyes, fingertips lightly touching her jawline.
+5. Unfiltered laughter: Looking off-camera with a genuine open smile, head tilted back slightly, hair falling naturally across one shoulder.
+6. Soft, dreamy moment: Chin tilted down, eyes gazing thoughtfully toward the camera, one hand loosely twirling a strand of hair.
+
+Composition and realism: Every frame must have a distinct facial expression, head angle, hand placement, and hair arrangement. Keep the same outfit, background, lighting style, and identity throughout, while varying the crop and camera distance subtly. Natural anatomy, believable fingers, realistic hair strands, and authentic compact-camera flash photography. The result should feel like six spontaneous photos taken during one fun evening, not a polished studio campaign.
+
+Avoid: Face swapping artifacts, altered facial features, inconsistent identity, plastic skin, excessive retouching, artificial beauty filters, duplicated poses, malformed hands, extra fingers, excessive sharpening, and obvious AI-generated details.
+
+Vertical 3:4 canvas, six equally sized photographs, precise grid alignment, no borders, no text, no watermarks.
+```
+
+</details>
+
 <a id="gpt-image-photo-to-paper-second-world"></a>
 ### Window Photo Continuing Into Ink Sketch Paper
 
@@ -3890,6 +4137,137 @@ Background: warm beige studio wall with a cozy retro photography-studio aestheti
 Composition should feel like a creative Instagram editorial photoshoot / scrapbook collage, highly detailed, natural realistic skin texture, realistic hands and fingers, accurate anatomy, soft warm studio lighting, subtle shadows, cinematic photography, crisp focus, premium fashion editorial quality, photorealistic, ultra-detailed, 8K, vertical 4:5 composition.
 
 Important: Keep the same person recognizable in every frame, consistent clothing and hairstyle, realistic proportions, no duplicated facial features, no distorted hands, no extra fingers, no warped limbs, no text errors.
+```
+
+</details>
+
+<a id="gpt-image-editorial-fashion-character-sheet-face-reference"></a>
+### Editorial fashion character sheet from one face photo
+
+<a href="https://x.com/Alina_with_Ai/status/2102234488562655721"><img src="previews/gpt-image-editorial-fashion-character-sheet-face-reference.jpg" width="360"></a>
+
+The prompt separates identity from styling: the uploaded photo supplies only the face, while the outfit is locked item by item and repeated in a closing consistency block. A fixed panel grid of three views, four expressions, four action poses, materials and palette keeps one character coherent across the whole sheet.
+
+GPT Image 2.5 · Edit · Source: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2102234488562655721) · 138 likes on 2026-10-28
+
+[`character-sheet`](pages/en/tags.md#tag-character-sheet) [`face-reference`](pages/en/tags.md#tag-face-reference) [`fashion`](pages/en/tags.md#tag-fashion) [`editorial`](pages/en/tags.md#tag-editorial) [`consistency`](pages/en/tags.md#tag-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium editorial-style CHARACTER REFERENCE SHEET using the uploaded photo as the PRIMARY FACE REFERENCE.
+
+IMPORTANT IDENTITY INSTRUCTION:
+Use ONLY the face and identity from the uploaded reference photo. Preserve her facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural facial proportions and overall recognizable appearance consistently in every panel.
+
+DO NOT copy the clothing, outfit, accessories, pose, or background from the reference photo.
+ONLY use the uploaded photo as the FACE/IDENTITY REFERENCE.
+
+CHARACTER:
+24-year-old woman, 5'6" (167 cm), slim build, long naturally wavy dark-brown hair, warm natural skin tone, expressive brown eyes, soft feminine facial features.
+
+OUTFIT — MUST REMAIN EXACTLY THIS:
+Long tailored dark-brown wool-blend coat
+Black fitted ribbed turtleneck knit
+High-waisted wide-leg dark charcoal tailored trousers
+Black leather loafers
+Black leather shoulder bag
+Black sunglasses as an optional accessory
+
+Do NOT replace or redesign the outfit.
+
+CHARACTER SHEET LAYOUT:
+
+TOP SECTION:
+Show THREE consistent full-body views of the same woman:
+
+1. FRONT VIEW
+Standing naturally with one hand in her trouser pocket and the other holding the black shoulder bag.
+
+2. SIDE VIEW
+Natural three-quarter side profile, clearly showing her face, long hair, coat silhouette and shoulder bag.
+
+3. BACK VIEW
+Full back view showing the long brown coat, hairstyle, trousers and shoulder bag.
+
+FACIAL EXPRESSIONS:
+Create four close-up portraits using the EXACT SAME FACE:
+• Neutral
+• Thoughtful
+• Happy
+• Determined
+
+Keep facial identity consistent across all expressions.
+
+IN ACTION:
+Create four lifestyle poses:
+• EXPLORE — walking outdoors with sunglasses and coffee
+• CREATE — sitting with a laptop
+• SHOOT — holding a professional camera
+• TRAVEL — walking confidently with shoulder bag
+
+OUTFIT / MATERIALS:
+Show clean visual material references for:
+• Brown wool-blend coat
+• Black ribbed turtleneck
+• Dark charcoal tailored trousers
+• Black leather shoulder bag
+• Black leather loafers
+• Black sunglasses
+
+KEY ATTRIBUTES:
+Creative
+Empathetic
+Adventurous
+Independent
+Adaptable
+Resilient
+
+COLOR PALETTE:
+Black, charcoal gray, warm brown, beige, dark burgundy, muted olive green.
+
+CHARACTER NOTES:
+Finds beauty in small moments.
+Believes in people and new ideas.
+Turns emotions into creative work.
+Always searching for what's next.
+Sees the world from her own perspective.
+
+DESIGN:
+Luxury fashion editorial character sheet, premium magazine layout, warm beige background, elegant typography, clean professional grid, realistic studio photography, subtle shadows, cinematic soft lighting, natural skin texture, photorealistic, highly detailed, cohesive visual identity.
+
+CRITICAL CONSISTENCY:
+The SAME WOMAN must appear in every panel.
+The uploaded reference photo is the ONLY source of truth for her face.
+Do not change her facial identity between panels.
+Do not copy the uploaded photo's clothing.
+Keep the specified brown coat, black turtleneck, dark trousers, black loafers and black shoulder bag in every relevant panel.
+
+Add tasteful editorial typography:
+“CHARACTER SHEET”
+“CREATIVE GIRL”
+“Good Stories, Brighter People”
+
+Make it look like a professional AI character reference sheet created for a film, fashion campaign, or visual storytelling project.
+```
+
+</details>
+
+<a id="gpt-image-scrapbook-collage-identity-reference"></a>
+### Warm scrapbook collage of one person in frames
+
+<a href="https://x.com/Adnan_Ai2/status/2103431738349502591"><img src="previews/gpt-image-scrapbook-collage-identity-reference.jpg" width="360"></a>
+
+Names the reference identity and fixed clothing so they hold across every frame. A large central portrait is surrounded by six frames, each with its own action. The prompt then lists the handwritten doodle phrases, a warm beige wall and lighting, and closes with anatomy negatives.
+
+GPT Image 2.5 · Edit · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/status/2103431738349502591) · 57 likes on 2026-10-28
+
+[`scrapbook`](pages/en/tags.md#tag-scrapbook) [`collage`](pages/en/tags.md#tag-collage) [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) [`doodle`](pages/en/tags.md#tag-doodle) [`lifestyle`](pages/en/tags.md#tag-lifestyle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create the same warm scrapbook-style collage, but featuring the exact same boy from the reference image. Keep his facial identity, short brown hair, light beard, dark navy jacket, white T-shirt, light blue jeans and white sneakers consistent in every frame. Place a large central portrait of him sitting casually and smiling on a cozy sofa, surrounded by six rustic wooden picture frames showing different actions: waving hello, drinking coffee from a “Good Vibes” mug, giving a thumbs-up, thinking with one hand on his chin, smiling confidently, and looking back over his shoulder. Use the same warm beige textured wall, cozy indoor background, plants, soft lamps and natural lifestyle atmosphere. Add hand-drawn black doodles, hearts and stars with handwritten phrases such as “Smile More,” “Just Being Me,” “Coffee Time,” “Work Hard Dream Big,” “Spread Love,” “Good Vibes Only,” “You Got This,” and “Same Boy Bigger Dreams.” Maintain consistent identity across every frame, realistic hands, natural expressions, detailed hair and clothing, warm cinematic lighting, professional photography, clean composition, ultra-realistic 4K, no distorted anatomy, no extra fingers or duplicated body parts.
 ```
 
 </details>
@@ -4199,6 +4577,37 @@ Include ONLY this packaging text (verbatim):
 <a id="img-edit"></a>
 ## Photo editing
 
+<a id="gpt-image-mural-twin-half-heart-illusion"></a>
+### Woman making half heart with her mural twin
+
+<a href="https://x.com/Kubra_286/status/2102235098703880428"><img src="previews/gpt-image-mural-twin-half-heart-illusion.jpg" width="360"></a>
+
+Describes the mural and the real person in separate labeled blocks with matching outfits, so the fingertips line up into one heart. Closing with forced perspective and brick overlay cues keeps the paint looking part of the wall.
+
+GPT Image 2.5 · Edit · Source: [@Kubra_286 on X](https://x.com/Kubra_286/status/2102235098703880428) · 241 likes on 2026-10-28
+
+[`mural`](pages/en/tags.md#tag-mural) [`trompe-l-oeil`](pages/en/tags.md#tag-trompe-l-oeil) [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) [`street-art`](pages/en/tags.md#tag-street-art) [`selfie`](pages/en/tags.md#tag-selfie)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra realistic cinematic photo of a young woman making a half heart sign with her mural twin, interactive street art illusion.
+
+Face match 100%
+
+Mural on brick wall: giant hyper-realistic painting of the same woman, shoulder-length wavy blonde hair with dark roots, smiling side profile, wearing light pink ribbed cropped t-shirt, small hoop earrings, delicate 'Clariz' name necklace, right hand raised making half heart shape with thumb and index finger. Photorealistic mural style, brick texture visible through paint, black graffiti background.
+
+Real woman: same woman, same face, shoulder-length wavy blonde hair, same pink ribbed crop top, brown dark cargo pants with side pockets, blue and white sneakers. Standing on sidewalk facing the mural, left hand raised completing the other half of the heart shape with the painted hand, fingers almost touching, perfect alignment forming a full heart. Smiling at mural.
+
+Environment: urban alley brick wall with graffiti, posters and stickers on adjacent wall, small green plants growing along wall base, concrete sidewalk, soft natural daylight.
+
+Style: true to life color grading, photorealistic, DSLR 8K, ultra detailed skin, same face recognizable, natural shadows, 9:16 vertical portrait, trompe-l'oeil, Instagram couple bestie heart hand trend.
+*Pro tip to get it perfect:*
+two people making heart shape, one real one painted, fingertip connection point, forced perspective heart illusion, brick overlay on mural, same outfit mural and real
+```
+
+</details>
+
 <a id="gpt-image-outfit-swap-keep-identity"></a>
 ### Dress a person in three reference garments, identity unchanged
 
@@ -4478,9 +4887,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
-[`multi-shot`](pages/en/tags.md#tag-multi-shot) 49 · [`cinematic`](pages/en/tags.md#tag-cinematic) 41 · [`dialogue`](pages/en/tags.md#tag-dialogue) 40 · [`handheld`](pages/en/tags.md#tag-handheld) 37 · [`action`](pages/en/tags.md#tag-action) 36 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 24 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 23 · [`vertical`](pages/en/tags.md#tag-vertical) 21 · [`vlog`](pages/en/tags.md#tag-vlog) 20 · [`anime`](pages/en/tags.md#tag-anime) 19 · [`fantasy`](pages/en/tags.md#tag-fantasy) 19 · [`macro`](pages/en/tags.md#tag-macro) 17 · [`fashion`](pages/en/tags.md#tag-fashion) 16 · [`comedy`](pages/en/tags.md#tag-comedy) 16 · [`long-take`](pages/en/tags.md#tag-long-take) 15 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 14 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 13 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 12 · [`storyboard`](pages/en/tags.md#tag-storyboard) 12 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 12 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 11 · [`template`](pages/en/tags.md#tag-template) 11 · [`reference-images`](pages/en/tags.md#tag-reference-images) 11 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 10 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 10 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 10 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 10 · [`korean`](pages/en/tags.md#tag-korean) 10 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 9 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 9 · [`ugc`](pages/en/tags.md#tag-ugc) 9 · [`typography`](pages/en/tags.md#tag-typography) 9 · [`sound-design`](pages/en/tags.md#tag-sound-design) 9 · [`character-reference`](pages/en/tags.md#tag-character-reference) 9 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 9 · [`dragon`](pages/en/tags.md#tag-dragon) 9 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 9 · [`creature`](pages/en/tags.md#tag-creature) 9 · [`documentary`](pages/en/tags.md#tag-documentary) 8 · [`rain`](pages/en/tags.md#tag-rain) 8 · [`home-video`](pages/en/tags.md#tag-home-video) 8 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 8 · [`dance`](pages/en/tags.md#tag-dance) 7 · [`music-video`](pages/en/tags.md#tag-music-video) 7 · [`commercial`](pages/en/tags.md#tag-commercial) 7 · [`portrait`](pages/en/tags.md#tag-portrait) 7 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`pov`](pages/en/tags.md#tag-pov) 7 · [`editorial`](pages/en/tags.md#tag-editorial) 7 · [`food`](pages/en/tags.md#tag-food) 6 · [`animals`](pages/en/tags.md#tag-animals) 6 · [`transformation`](pages/en/tags.md#tag-transformation) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`vfx`](pages/en/tags.md#tag-vfx) 6 · [`selfie`](pages/en/tags.md#tag-selfie) 6 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 6 · [`sports`](pages/en/tags.md#tag-sports) 5 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 5 · [`storytelling`](pages/en/tags.md#tag-storytelling) 5 · [`travel`](pages/en/tags.md#tag-travel) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`low-angle`](pages/en/tags.md#tag-low-angle) 5 · [`one-take`](pages/en/tags.md#tag-one-take) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`camera-move`](pages/en/tags.md#tag-camera-move) 5 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 5 · [`horror`](pages/en/tags.md#tag-horror) 5 · [`couple`](pages/en/tags.md#tag-couple) 5 · [`character`](pages/en/tags.md#tag-character) 5 · [`photorealism`](pages/en/tags.md#tag-photorealism) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`reference-image`](pages/en/tags.md#tag-reference-image) 4 · [`timeline`](pages/en/tags.md#tag-timeline) 4 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 4 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 4 · [`surreal`](pages/en/tags.md#tag-surreal) 4 · [`montage`](pages/en/tags.md#tag-montage) 4 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 4 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 4 · [`japanese`](pages/en/tags.md#tag-japanese) 4 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 4 · [`collage`](pages/en/tags.md#tag-collage) 4 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`night`](pages/en/tags.md#tag-night) 4 · [`film-grain`](pages/en/tags.md#tag-film-grain) 4 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 4 · [`multilingual`](pages/en/tags.md#tag-multilingual) 4 · [`film-look`](pages/en/tags.md#tag-film-look) 4 · [`consistency`](pages/en/tags.md#tag-consistency) 4 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 4 · [`music`](pages/en/tags.md#tag-music) 4 · [`miniature`](pages/en/tags.md#tag-miniature) 4 · [`street`](pages/en/tags.md#tag-street) 4 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 4 · [`romance`](pages/en/tags.md#tag-romance) 4 · [`nature`](pages/en/tags.md#tag-nature) 4 · [`product`](pages/en/tags.md#tag-product) 4 · [`minimalist`](pages/en/tags.md#tag-minimalist) 4 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 4 · [`historical`](pages/en/tags.md#tag-historical) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 3 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 3 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 3 · [`halftone`](pages/en/tags.md#tag-halftone) 3 · [`product-ad`](pages/en/tags.md#tag-product-ad) 3 · [`single-take`](pages/en/tags.md#tag-single-take) 3 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 3 · [`cafe`](pages/en/tags.md#tag-cafe) 3 · [`physics`](pages/en/tags.md#tag-physics) 3 · [`aerial`](pages/en/tags.md#tag-aerial) 3 · [`landscape`](pages/en/tags.md#tag-landscape) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`image-to-video`](pages/en/tags.md#tag-image-to-video) 3 · [`voiceover`](pages/en/tags.md#tag-voiceover) 3 · [`object-swap`](pages/en/tags.md#tag-object-swap) 3 · [`asmr`](pages/en/tags.md#tag-asmr) 3 · [`close-up`](pages/en/tags.md#tag-close-up) 3 · [`snow`](pages/en/tags.md#tag-snow) 3 · [`hud`](pages/en/tags.md#tag-hud) 3 · [`short-film`](pages/en/tags.md#tag-short-film) 3 · [`subtitles`](pages/en/tags.md#tag-subtitles) 3 · [`subway`](pages/en/tags.md#tag-subway) 3 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 3 · [`crowd`](pages/en/tags.md#tag-crowd) 3 · [`realism`](pages/en/tags.md#tag-realism) 3 · [`pet`](pages/en/tags.md#tag-pet) 3 · [`chase`](pages/en/tags.md#tag-chase) 3 · [`kids-education`](pages/en/tags.md#tag-kids-education) 3 · [`world-building`](pages/en/tags.md#tag-world-building) 3 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 3 · [`grid`](pages/en/tags.md#tag-grid) 3 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 3 · [`split-layout`](pages/en/tags.md#tag-split-layout) 3 · [`architecture`](pages/en/tags.md#tag-architecture) 3 · [`split-composition`](pages/en/tags.md#tag-split-composition) 3
+[`multi-shot`](pages/en/tags.md#tag-multi-shot) 51 · [`cinematic`](pages/en/tags.md#tag-cinematic) 45 · [`dialogue`](pages/en/tags.md#tag-dialogue) 40 · [`handheld`](pages/en/tags.md#tag-handheld) 39 · [`action`](pages/en/tags.md#tag-action) 37 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 27 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 25 · [`anime`](pages/en/tags.md#tag-anime) 23 · [`macro`](pages/en/tags.md#tag-macro) 22 · [`vertical`](pages/en/tags.md#tag-vertical) 22 · [`fashion`](pages/en/tags.md#tag-fashion) 21 · [`vlog`](pages/en/tags.md#tag-vlog) 20 · [`fantasy`](pages/en/tags.md#tag-fantasy) 20 · [`storyboard`](pages/en/tags.md#tag-storyboard) 16 · [`comedy`](pages/en/tags.md#tag-comedy) 16 · [`template`](pages/en/tags.md#tag-template) 16 · [`long-take`](pages/en/tags.md#tag-long-take) 15 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 14 · [`editorial`](pages/en/tags.md#tag-editorial) 14 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 13 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 12 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 12 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 12 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 11 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 11 · [`food`](pages/en/tags.md#tag-food) 11 · [`commercial`](pages/en/tags.md#tag-commercial) 11 · [`portrait`](pages/en/tags.md#tag-portrait) 11 · [`typography`](pages/en/tags.md#tag-typography) 11 · [`reference-images`](pages/en/tags.md#tag-reference-images) 11 · [`selfie`](pages/en/tags.md#tag-selfie) 11 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 10 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 10 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 10 · [`korean`](pages/en/tags.md#tag-korean) 10 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 9 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 9 · [`ugc`](pages/en/tags.md#tag-ugc) 9 · [`sound-design`](pages/en/tags.md#tag-sound-design) 9 · [`rain`](pages/en/tags.md#tag-rain) 9 · [`character-reference`](pages/en/tags.md#tag-character-reference) 9 · [`dragon`](pages/en/tags.md#tag-dragon) 9 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 9 · [`creature`](pages/en/tags.md#tag-creature) 9 · [`pov`](pages/en/tags.md#tag-pov) 9 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 9 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 9 · [`documentary`](pages/en/tags.md#tag-documentary) 8 · [`dance`](pages/en/tags.md#tag-dance) 8 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 8 · [`home-video`](pages/en/tags.md#tag-home-video) 8 · [`music-video`](pages/en/tags.md#tag-music-video) 7 · [`animals`](pages/en/tags.md#tag-animals) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`poster`](pages/en/tags.md#tag-poster) 7 · [`storytelling`](pages/en/tags.md#tag-storytelling) 6 · [`transformation`](pages/en/tags.md#tag-transformation) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`vfx`](pages/en/tags.md#tag-vfx) 6 · [`film-grain`](pages/en/tags.md#tag-film-grain) 6 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 6 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 6 · [`watercolor`](pages/en/tags.md#tag-watercolor) 6 · [`sports`](pages/en/tags.md#tag-sports) 5 · [`reference-image`](pages/en/tags.md#tag-reference-image) 5 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 5 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 5 · [`surreal`](pages/en/tags.md#tag-surreal) 5 · [`travel`](pages/en/tags.md#tag-travel) 5 · [`japanese`](pages/en/tags.md#tag-japanese) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`low-angle`](pages/en/tags.md#tag-low-angle) 5 · [`one-take`](pages/en/tags.md#tag-one-take) 5 · [`collage`](pages/en/tags.md#tag-collage) 5 · [`night`](pages/en/tags.md#tag-night) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 5 · [`camera-move`](pages/en/tags.md#tag-camera-move) 5 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 5 · [`consistency`](pages/en/tags.md#tag-consistency) 5 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 5 · [`miniature`](pages/en/tags.md#tag-miniature) 5 · [`street`](pages/en/tags.md#tag-street) 5 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 5 · [`horror`](pages/en/tags.md#tag-horror) 5 · [`couple`](pages/en/tags.md#tag-couple) 5 · [`nature`](pages/en/tags.md#tag-nature) 5 · [`character`](pages/en/tags.md#tag-character) 5 · [`photorealism`](pages/en/tags.md#tag-photorealism) 5 · [`illustration`](pages/en/tags.md#tag-illustration) 5 · [`minimalist`](pages/en/tags.md#tag-minimalist) 5 · [`grid`](pages/en/tags.md#tag-grid) 5 · [`split-layout`](pages/en/tags.md#tag-split-layout) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`timeline`](pages/en/tags.md#tag-timeline) 4 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 4 · [`montage`](pages/en/tags.md#tag-montage) 4 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 4 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 4 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 4 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`multilingual`](pages/en/tags.md#tag-multilingual) 4 · [`film-look`](pages/en/tags.md#tag-film-look) 4 · [`music`](pages/en/tags.md#tag-music) 4 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 4 · [`snow`](pages/en/tags.md#tag-snow) 4 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 4 · [`romance`](pages/en/tags.md#tag-romance) 4 · [`product`](pages/en/tags.md#tag-product) 4 · [`architecture`](pages/en/tags.md#tag-architecture) 4 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 4 · [`historical`](pages/en/tags.md#tag-historical) 3 · [`education`](pages/en/tags.md#tag-education) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 3 · [`luxury`](pages/en/tags.md#tag-luxury) 3 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 3 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 3 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 3 · [`halftone`](pages/en/tags.md#tag-halftone) 3 · [`product-ad`](pages/en/tags.md#tag-product-ad) 3 · [`single-take`](pages/en/tags.md#tag-single-take) 3 · [`single-shot`](pages/en/tags.md#tag-single-shot) 3 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 3 · [`cafe`](pages/en/tags.md#tag-cafe) 3 · [`physics`](pages/en/tags.md#tag-physics) 3 · [`aerial`](pages/en/tags.md#tag-aerial) 3 · [`landscape`](pages/en/tags.md#tag-landscape) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`image-to-video`](pages/en/tags.md#tag-image-to-video) 3 · [`voiceover`](pages/en/tags.md#tag-voiceover) 3 · [`push-in`](pages/en/tags.md#tag-push-in) 3 · [`object-swap`](pages/en/tags.md#tag-object-swap) 3 · [`asmr`](pages/en/tags.md#tag-asmr) 3 · [`landmark`](pages/en/tags.md#tag-landmark) 3 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 3 · [`close-up`](pages/en/tags.md#tag-close-up) 3 · [`autumn`](pages/en/tags.md#tag-autumn) 3 · [`hud`](pages/en/tags.md#tag-hud) 3 · [`short-film`](pages/en/tags.md#tag-short-film) 3 · [`subtitles`](pages/en/tags.md#tag-subtitles) 3 · [`subway`](pages/en/tags.md#tag-subway) 3 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 3 · [`crowd`](pages/en/tags.md#tag-crowd) 3 · [`realism`](pages/en/tags.md#tag-realism) 3 · [`pet`](pages/en/tags.md#tag-pet) 3 · [`chase`](pages/en/tags.md#tag-chase) 3 · [`kids-education`](pages/en/tags.md#tag-kids-education) 3 · [`diorama`](pages/en/tags.md#tag-diorama) 3 · [`world-building`](pages/en/tags.md#tag-world-building) 3 · [`doodle`](pages/en/tags.md#tag-doodle) 3 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 3 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 3 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 3 · [`flat-color`](pages/en/tags.md#tag-flat-color) 3 · [`split-composition`](pages/en/tags.md#tag-split-composition) 3
 
-**[All 636 tags](pages/en/tags.md)**
+**[All 725 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

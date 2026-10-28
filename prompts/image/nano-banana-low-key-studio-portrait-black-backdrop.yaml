@@ -1,0 +1,33 @@
+id: nano-banana-low-key-studio-portrait-black-backdrop
+title:
+  en: Low key studio portrait on seamless black
+  zh: 纯黑背景下的低调影棚人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- low-key
+- studio-lighting
+- photorealistic
+- skin-texture
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2107801411711123546
+  credit: Johnn
+  likes: 82
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+notes:
+  en: One directional light leaves half the face fading into shadow against a seamless black backdrop. Naming skin details like pores and peach fuzz, plus a 35mm lens and film grain, pushes the result toward a real photograph and away from smooth AI skin.
+  zh: 单侧方向光让半边脸渐隐在阴影中，背景为无缝纯黑。点名毛孔和绒毛等皮肤细节，再配合35mm镜头与胶片颗粒，让画面更像真实摄影而非光滑的AI皮肤。
+prompt: |
+  Create an ultra-realistic, high-end cinematic portrait of a beautiful young woman, framed in a tight head-and-shoulders composition. She faces the camera directly with a calm yet intense expression and a confident, captivating gaze.
+
+  Use dramatic low-key studio lighting with a strong directional light illuminating one side of her face while the opposite side gradually disappears into deep, atmospheric shadow. Keep the background completely black and seamless, creating a striking contrast around her silhouette.
+
+  Her eyes are deep brown with subtle geometric catchlights. Give her naturally textured, slightly damp-looking hair with individual strands visible and realistic volume. She wears a simple, elegant black crew-neck top with no visible logos or patterns.
+
+  Capture extremely realistic skin with visible pores, fine facial texture, subtle imperfections, delicate peach fuzz, natural lips, and detailed eyelashes. Avoid overly smooth or plastic-looking skin.
+
+  Photographed with a cinematic 35mm lens aesthetic, shallow depth of field, soft optical falloff, realistic tonal range, subtle analog film grain, and premium editorial photography quality. The final image should feel like an authentic photograph captured in a professional studio — sophisticated, raw, atmospheric, and completely photorealistic, with no obvious AI-generated appearance.

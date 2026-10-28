@@ -1,0 +1,68 @@
+id: gpt-image-rainy-day-editorial-poster
+title:
+  en: Rainy Day Editorial Poster with Umbrella Walker
+  zh: 雨天撑伞行人的编辑风海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- editorial
+- poster
+- template
+- typography
+- film-grain
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2100508937514897577
+  credit: Saul Goodman
+  likes: 76
+  captured: '2026-10-28'
+  posted: '2026-09-17'
+notes:
+  en: A bracketed subject slot makes the template reusable, and the prompt sets the palette, 22 to 30 percent negative space and a type hierarchy of brush title, serif caption and small supporting text. Film grain and paper texture give it a printed zine look.
+  zh: 用方括号主题占位让模板可复用，同时限定低饱和色板、22%到30%留白，以及手写笔触标题加衬线小字的字体层级。胶片颗粒与纸张质感带来印刷杂志的味道。
+prompt: |
+  Create one premium 3:4 vertical editorial art poster for [COUNTRY / LOCATION / SUBJECT].
+
+  TEXT-TO-IMAGE GENERATION ONLY. Generate the complete artwork from [COUNTRY / LOCATION / SUBJECT] alone. No reference image or additional visual input is required.
+
+  Automatically interpret the subject and create a visually compelling composition that reflects its character, atmosphere, appearance, setting, colors, and distinctive visual identity.
+
+  LOWER SECTION
+
+  Use a refined background palette inspired by [COUNTRY / LOCATION / SUBJECT], using limited low-saturation tones such as misty gray, warm beige, light khaki, cream white, dusty rose, or soft gray-pink, selecting only the colors that naturally suit the subject.
+
+  Keep approximately 22–30% continuous negative space. Avoid complicated scenery, excessive objects, sticker-like elements, or meaningless decoration.
+
+  TYPOGRAPHY
+
+  Create a sophisticated editorial typography system based on the subject.
+
+  Automatically generate a short main title inspired by the subject's appearance, mood, action, or personality.
+
+  Add one natural 8–16 word English sentence written like a subtle editorial note or magazine caption.
+
+  Use a carefully designed hand-drawn or retro bubble-style font for the main title. Use smaller refined typography for supporting text, such as an elegant serif, subtle typewriter style, or delicate book-inspired font.
+
+  Create clear hierarchy, breathing room, and intentional spacing. Typography should feel integrated into the artwork rather than simply placed on top.
+
+  VISUAL STYLE
+
+  Keep the overall palette restrained and cohesive, with subtle film grain, tactile paper texture, and a gentle printed-editorial quality.
+
+  Allow slight asymmetry and imperfect positioning to create a sophisticated independent-magazine aesthetic without making the composition messy.
+
+  IMPORTANT
+
+  Keep the main subject recognizable and naturally proportioned. Do not cartoonize the person or subject.
+
+  Avoid:
+  multiple mascots, existing animated characters, brand logos, QR codes, watermarks, signatures, gibberish text, incorrect hands, extra limbs, excessive decoration, cheap templates, overly cute styling, or cluttered compositions.
+
+  FINAL LOOK
+
+  The finished artwork should feel like a premium independent fashion magazine, contemporary art publication, or sophisticated editorial ZINE—minimal, tactile, slightly imperfect, modern, and visually intelligent.
+
+  STRICT 3:4 VERTICAL | TEXT-ONLY GENERATION | RESTRAINED COLORS | 22–30% NEGATIVE SPACE | PREMIUM EDITORIAL TYPOGRAPHY | SUBTLE FILM GRAIN & PAPER PRINT TEXTURE.
+
+  Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone.
