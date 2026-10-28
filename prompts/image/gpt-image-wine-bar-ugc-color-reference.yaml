@@ -1,0 +1,64 @@
+id: gpt-image-wine-bar-ugc-color-reference
+title:
+  en: Woman in brown leather jacket at wine bar
+  zh: 酒吧里身穿棕色皮夹克的女子
+model: GPT Image 2.5
+mode: image-edit
+category: realism
+tags:
+- ugc
+- json-prompt
+- color-grading
+- reference-image
+- product-photo
+source:
+  name: '@Mho_23 on X'
+  url: https://x.com/Mho_23/status/2097483045221917131
+  credit: Miko
+  likes: 298
+  captured: '2026-10-27'
+  posted: '2026-09-08'
+notes:
+  en: A reference photo is first analysed into a detailed JSON of color grading, lighting and exact colors. That JSON plus an attached product image then drives the generation, which avoids the flat AI look and keeps the style consistent.
+  zh: 先把参考照片拆解成包含调色、光线和精确色值的详细JSON，再连同产品图一起交给模型生成，这样能避开AI味的平淡画面，也让风格保持一致。
+prompt: |
+  how to generate AI photos that look 100% real with GPT-Image 2.5:
+
+  GPT-Image 2.5 looks slightly better than GPT-Image 2, but it still has some of the same characteristics. out of the box, you can still get that noticeable AI look without references, which is why we are going to be using inspiration photos for color grading and creative direction
+
+  > find a photo that has the aesthetic you want
+
+  > upload that photo into GPT-6 Astra in ChatGPT and ask for this:
+
+  “analyze this photo and give me a very detailed json prompt describing its visual style. really make sure to break down the color grading, lighting and all the exact colors in the photo so i can apply that look to my own images”
+
+  we’re using GPT-6 Astra here to break down the reference into a detailed prompt instead of trying to describe every little detail ourselves
+
+  > take the json prompt Astra gives you and put it into GPT-Image 2.5 on Higgsfield
+
+  > upload your product image and prompt: “using this json as reference, generate a person holding my product [attach product image]”
+
+  > GPT-Image 2.5 generates the photo with that person holding your product
+
+  compare it with a version generated without the reference and look at the difference in the lighting and color grading
+
+  > save the generated character photo you’re happy with as your reference
+
+  > for future generations, attach the character photo each time and ask it to preserve the same facial features
+
+  now you have a reference character you can use across multiple product photos
+
+  you can also iterate the base json prompt and chat back and forth with GPT-6 Astra based on what you want, then repeat the same process..
+
+  i like this because it gives you much more direction over the color grading instead of leaving everything up to the model
+
+  the basic colours and grainy look are some of the things that can make an image feel AI-generated, so pay attention to those when comparing your results
+
+  this is how you can start building a library of high quality ugc images around your own products
+
+  the json gives GPT-Image 2.5 the lighting and color direction, your character reference helps with consistency, and you control the product placement
+
+  once you have that starting point, you can keep creating variations without writing everything from scratch
+
+  GPT-Image 2.5 Sunburst & Flare are available on Higgsfield. try this with your own product and reference images there
+  ```

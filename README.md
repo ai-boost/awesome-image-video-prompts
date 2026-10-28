@@ -18,20 +18,21 @@
 
 ## Contents
 
-- [Video prompts](#video) (70 entries)
-  - [Wan 3.0](#wan30) (12)
-  - [MiniMax H3](#minimaxh3) (3)
-  - [Seedance 2.5](#seedance25) (19)
-  - [Gemini Omni Flash](#geminiomniflash) (13)
-  - [Kling 3.0](#kling30) (15)
+- [Video prompts](#video) (102 entries)
+  - [Wan 3.0](#wan30) (15)
+  - [MiniMax H3](#minimaxh3) (4)
+  - [Seedance 2.5](#seedance25) (29)
+  - [Gemini Omni Flash](#geminiomniflash) (17)
+  - [Kling 3.0](#kling30) (25)
+  - [Veo 3.1](#veo31) (3)
   - [Veo 3](#veo3) (5)
-  - [Sora 2](#sora2) (3)
-- [Image prompts](#image) (23 entries)
+  - [Sora 2](#sora2) (4)
+- [Image prompts](#image) (31 entries)
   - [Posters and editorial layouts](#img-poster) (6)
-  - [Photo to art](#img-photo-to-art) (4)
-  - [Photo realism](#img-realism) (5)
-  - [Portraits](#img-portrait) (2)
-  - [Illustration](#img-illustration) (2)
+  - [Photo to art](#img-photo-to-art) (6)
+  - [Photo realism](#img-realism) (7)
+  - [Portraits](#img-portrait) (4)
+  - [Illustration](#img-illustration) (4)
   - [Phone and UI mockups](#img-ui-mockup) (2)
   - [Maps](#img-map) (1)
   - [Collage](#img-collage) (1)
@@ -48,6 +49,191 @@ Every prompt below is quoted verbatim from its source: the model maker's own gui
 
 <a id="wan30"></a>
 ## Wan 3.0
+
+<a id="wan-fashion-face-closeup-flash-orbit"></a>
+### Ultra close fashion portrait with candid flashes
+
+<a href="https://x.com/leaf_sanren/status/2105645639703183753"><img src="previews/wan-fashion-face-closeup-flash-orbit.jpg" width="360"></a>
+
+The prompt splits the 15 seconds into five timed beats, each with its own camera move, gaze and flash cue. It also lists real skin flaws and bans plastic skin, which keeps the face photographic.
+
+Wan 3.0 · Text-to-video · Source: [@leaf_sanren on X](https://x.com/leaf_sanren/status/2105645639703183753) · 1,439 likes on 2026-10-27
+
+[`portrait`](#tag-portrait) [`fashion`](#tag-fashion) [`close-up`](#tag-close-up) [`skin-texture`](#tag-skin-texture) [`vertical`](#tag-vertical)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate this video: Create a 15-second, 9:16 vertical screen, ultra-high-definition 4K, 30fps, cinematic realistic portrait quality fashion portrait short film.
+
+The main subject of the frame is a young Asian woman around 20-25 years old, with a high-end face—cool with a touch of youthful greenness, delicate features but not overly perfect, smooth facial contours, natural nose bridge, full lips, eyes with depth, overall vibe like a car model or a close-up candid shot by a photographer at a fashion event.
+No influencer vibe, no exaggerated plastic surgery face, no plastic skin, no excessive skin smoothing, no overly heavy fake lashes, no exaggerated highlights, no anime feel.
+The character's skin must be realistic: clearly visible pores, subtle skin texture, light foundation caking, faint acne marks, very shallow pockmarks, under-eye fine lines, natural contours on nose wings and cheeks, lip lines, a few stray hairs and hair edge wisps. Makeup is refined but imperfect high-end subtle look: base slightly adherent but not flawless, clean eye makeup, naturally realistic lashes, lips with a subtle sheen.
+Hair is black or dark brown straight long hair, with natural stray strands and a slight messy feel, not too deliberate.
+
+Scene and Atmosphere
+
+Scene is a high-end fashion event venue / auto show activity area / luxury brand launch event close-up portrait atmosphere, but the background must be blurred, not highlighting specific brands or text. Background can include soft exhibition hall lighting, minimal out-of-focus neon reflections, blurred crowds, blurred car body highlight reflections or metallic texture backgrounds, overall atmosphere high-end, restrained, fashionable.
+No subtitles, no stickers, no watermarks, no readable text, no exaggerated effects, no illogical flashy lights.
+
+Lighting Requirements
+
+Lighting must conform to real-world logic, like a real photographer shooting close-up at the event site.
+Main light is soft but directional facial key light, coming from slightly off to the front upper side, creating natural facial light and shadow layers.
+Fill light is very subtle, retaining some shadows to enhance facial dimensionality.
+Environment can include soft cool-toned rim light or auto show site reflection light to make the face more three-dimensional.
+Throughout, allow 2 to 3 brief flash occurrences; flashes must feel like natural on-site photography flashes, quickly lighting up only in certain moments, causing temporary enhancement of facial highlights, more obvious pupil catchlights, brighter skin reflections, but no constant strobing, no illogical flashing.
+When flashes occur, it should feel like a photographer's candid shot: lights up once and done, realistic light ratios, face not overexposed, skin details still visible.
+
+Camera and Movement (Top-Tier Cinematography)
+
+Overall, use ultra-close portrait movement, with the lens always orbiting the face to highlight eyes, nose bridge, lips, cheeks, hair strands, and skin texture.
+Cinematography language is high-end, fluid, restrained, with a fashion ad and backstage photography candid feel.
+No heavy shaky cam, no disorienting motion, no exaggerated AI camera moves, no sudden pull-backs.
+Movement must feel natural, like a high-end photographer using a handheld gimbal or slight handheld shooting:
+
+0-3 seconds
+
+Lens starts with an ultra-close side-front face push-in, focus on eyes and nose bridge area, subject slightly lifts gaze to lens, natural breathing feel, lips subtly relaxed.
+Lens does an extremely subtle slow push-in, with very light lateral sliding, showcasing cheeks, under-eye texture, and hair strands.
+This segment should make viewers feel the face's high-end realism right from the first glance.
+
+3-6 seconds
+
+Lens slides along the face from eyes to nose tip, then to near the lips, in an extremely steady micro-arc orbit, close-up observation of features.
+Subject's gaze subtly shifts, no exaggerated acting—just gently looks toward lens edge, then slowly back to lens.
+First flash can occur here, briefly lighting up to enhance skin texture and lip highlights.
+
+6-9 seconds
+
+Lens slowly turns from front-left to front-right, still maintaining face-push distance, emphasizing cheek skin texture, nose wing details, lower eyelid fine lines, lashes, and pupil reflections.
+Subject lightly brushes a bit of hair, or a stray strand naturally falls to the side of the face.
+Lens has a subtle breathing-like float for real photography feel, not rigid.
+
+9-12 seconds
+
+Lens subtly shifts down to highlight lips, jawline, and cheeks, then slowly back to eyes.
+Subject's expression stays cool, restrained, with a touch of high-end aloofness, like a car model caught close-up by a photographer, occasionally a gentle blink, corners of mouth with extremely subtle relaxation.
+Second flash occurs here, natural and instantaneous like on-site candid, returning to normal light after.
+Post-flash, catchlights in eyes more prominent, giving the frame more fashion editorial vibe.
+
+12-15 seconds
+
+Lens does one of the most beautiful ultra-close light arc closes, subtly orbiting the face and lightly pushing in, finally settling on an ideal composition of eyes + nose bridge + half lips.
+Subject gently lifts gaze to straight-on lens in the last second, eyes clean, calm, captivating.
+Ending can have a third very subtle flash or environmental highlight sweep, but must feel natural, not overdone.
+Finally holds on a high-end face-push frame perfect for a thumbnail cover.
+
+Frame Style
+
+Overall style is:
+Real cinematic fashion portrait, close-up commercial photography, auto show model face-close candid, high-end magazine feel, natural skin texture, non-studio fake-face sense.
+Include real lens bokeh, natural depth of field, fine skin quality, subtle on-site feel, restrained high-end vibe.
+Not influencer selfie, not live stream, not Korean-style skin smoothing, not low-quality AI face.
+
+Key Emphases
+
+Face must be real, not fake
+
+Skin can't be overly perfect, retain subtle imperfections
+
+Features stable, no distortion
+
+Eyes can't wander, lips can't move randomly
+
+Hair strands must be real, with stray hairs
+
+Flashes must follow real candid logic
+
+Lighting must be real, no random strobing
+
+Camera must be high-end, smooth, cinematic, fashion photography feel
+
+Whole piece centers on "high-end face close-up showcase," no plot, no big movements
+
+Negative Restrictions (Suggest Adding Together)
+
+Negative prompts:
+Cartoonish feel, CG feel, plastic skin, excessive smoothing, over-beautification, feature distortion, eye misalignment, skin wax figure feel, overexposure, illogical flash strobing, face shake, low clarity, low-quality hair strands, exaggerated filters, influencer face, overly heavy fake lashes, heavy makeup, shaky lens, limb distortion, cluttered background, readable text, subtitles, stickers, watermarks,
+```
+
+</details>
+
+<a id="wan-marina-night-out-quay-leap"></a>
+### Night out friends and a quay leap
+
+<a href="https://x.com/mightyking/status/2091842964054212842"><img src="previews/wan-marina-night-out-quay-leap.jpg" width="360"></a>
+
+Opens with a style and characters block and a setting block, then a timestamped shot list that gives each beat its own camera move such as a backward track, a whip tilt and a high angle look down. A separate audio block asks for live sync sound with no music, which supports the raw phone footage look.
+
+Wan 3.0 · Text-to-video · Source: [@mightyking on X](https://x.com/mightyking/status/2091842964054212842) · 1,353 likes on 2026-10-27
+
+[`ugc`](#tag-ugc) [`handheld`](#tag-handheld) [`night`](#tag-night) [`shot-list`](#tag-shot-list) [`sync-sound`](#tag-sync-sound)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+Characters
+
+The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag.
+
+Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals.
+
+Laughing, spontaneous night-out energy.
+
+Setting
+
+A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls.
+
+Warm orange street lamps, palm trees, distant city lights.
+
+The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+Shot list
+
+0.0s–4.0s — Wide tracking shot, eye level, camera moving backward
+The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+4.0s–6.0s — Medium shot, eye level, backward track + quick left pan
+The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+6.0s–8.0s — Medium-wide, camera tilts down-left to follow, whip motion
+She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+8.0s–10.0s — High-angle wide, looking down at the water, slight jolt
+From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+10.0s–13.0s — High-angle medium, looking down, small handheld drift
+She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+13.0s–16.0s — Handheld tilt up and back down, slight zoom
+The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+16.0s–20.0s — High-angle medium, tilting to follow her up
+She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+20.0s–23.0s — Low/close medium at the quay edge, static handheld
+She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+23.0s–27.0s — Medium shot, eye level, loose handheld reframe
+Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+27.0s–30.0s — Medium shot, eye level, camera settles
+Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio
+
+Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds.
+No music.
+
+Style
+
+Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
+```
+
+</details>
 
 <a id="wan-camera-angle-swap"></a>
 ### Re-shoot your clip from new camera angles, same action
@@ -88,6 +274,153 @@ STEP 2: Use the prompt below (adjust it to your video):
 Only the camera angle and framing change. Make sure every action, movement, timing and performance exactly identical to the original video @ TAG ORIGINAL VIDEO. The action continues seamlessly across every cut."
 
 NOTE: If some scenes didn't work (action was different than original video) simply regenerate the video, that usually fixes the problem.
+```
+
+</details>
+
+<a id="wan-cafe-camel-coat-character-sheet"></a>
+### Man in camel coat at cafe counter
+
+<a href="https://x.com/ivanka_humeniuk/status/2113582628024566084"><img src="previews/wan-cafe-camel-coat-character-sheet.jpg" width="360"></a>
+
+A three panel character sheet is built first from one reference image, with front and back views on the left and one detailed portrait on the right. The front view face is blurred on purpose so the portrait is the only face reference, and outfit, fabric and film look are spelled out to keep the character consistent across scenes.
+
+Wan 3.0 · Reference-to-video · Source: [@ivanka_humeniuk on X](https://x.com/ivanka_humeniuk/status/2113582628024566084) · 878 likes on 2026-10-27
+
+[`character-consistency`](#tag-character-consistency) [`reference-sheet`](#tag-reference-sheet) [`cafe`](#tag-cafe) [`film-look`](#tag-film-look) [`romance`](#tag-romance)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a three-panel character reference sheet of the woman in
+@image1
+ in a single wide 16:9 image.
+Preserve her exact facial identity, blue eyes, dark espresso-brown hair color, skin tone and natural facial
+proportions from
+@image1
+.
+The left half contains two full-body views side by side: front and back, identical in scale, with both figures
+completely visible from above the bun to below the shoes. The right half contains one large
+head-and-shoulders portrait, facing directly into the camera. All three views share one continuous neutral
+mid-grey studio backdrop, matching soft lighting and the same warm film color treatment.
+In the full-body front view, replace the facial features with a smooth, softly blurred skin-toned oval. Keep the
+hairstyle and head silhouette intact. The large portrait on the right is the only detailed face reference.
+Restyle her exceptionally long, thick hair into a high, generously sized, loosely sculpted bun at the crown.
+Preserve the fullness of her hair, with lifted roots and soft volume around the head. Two delicate curved
+tendrils fall beside her temples toward her jaw, framing the outer edges of her face. Her eyebrows, blue eyes
+and cheekbones remain clearly visible. The back view shows the gathered hair and the substantial rounded
+shape of the bun. The hairstyle feels elegant and practical, like a beautiful café waitress in a romantic film
+from around 2000.
+Dress her in a fitted ivory fine-knit top with short sleeves and a modest scoop neckline, tucked into a
+high-waisted black tailored pencil skirt ending at the knees. The skirt has a small functional back vent. Over it,
+she wears a short deep-burgundy cotton waist apron, extending from the waist to mid-thigh, with two discreet
+rectangular front pockets. Narrow apron ties wrap around her waist and form a neat bow at the center of her
+back, clearly visible in the rear view. Her shoes are simple black leather ballet flats with gently rounded toes
+and low flat heels. Small plain gold stud earrings complete the outfit.
+Her figure is tall and slender, with a defined narrow waist, long legs and a graceful neck. The clothing follows
+her natural proportions, with realistic knit texture, tailored seams and soft cotton folds around the apron ties.
+02
+The same outfit, fit, hem lengths and hairstyle appear in all three views.
+In the front view she stands upright, square to the camera, shoulders level, weight evenly balanced, arms
+relaxed at her sides and hands empty. The back view shows the identical stance turned fully away. In the
+portrait her head is upright, chin level and both eyes look directly into the lens. Her lips are gently closed with
+a faint, relaxed smile. Preserve the recognizable face from
+@image1
+, with natural skin texture, visible pores
+and fine facial hairs.
+Soft frontal studio lighting keeps her features and clothing clearly readable, with gentle shading under the
+chin and soft contact shadows beneath the shoes. The grey backdrop remains plain throughout the image.
+The composition consists entirely of the three views and the seamless backdrop.
+Maintain a glamorous late-1990s to early-2000s 35mm film publicity look: warm natural skin, creamy ivory
+fabric, rich burgundy cotton, deep readable blacks, fine organic grain and restrained highlight glow. Her face,
+blue eyes, hair strands and garment details remain clearly resolved. Clean presentation with uninterrupted
+backdrop between the views.
+
+📌 PROMPT 2 (Guy map):
+Create a three-panel character reference sheet of the man in
+@image1
+ in one wide 16:9 image. Preserve his
+exact face, eye color, skin tone, facial proportions and hairstyle from the reference, including the natural
+swept-back waves and the loose strand near his forehead.
+The left half of the image contains two full-body figures side by side: a straight-on front view and a complete
+back view, identical in scale, both visible from above the hair to below the shoes. The right half contains one
+large head-and-shoulders portrait looking directly into the camera, with his entire hairstyle inside the frame.
+All three views share one continuous neutral mid-grey studio backdrop.
+On the full-body front figure, replace the facial features with a smooth, softly blurred skin-toned oval,
+retaining the head silhouette and hair. The large portrait on the right is the single detailed face reference.
+He is tall, approximately 188 cm, with broad shoulders, a lean athletic build, a defined waist and long legs. His
+proportions remain natural and identical across all three views.
+Dress him in an elegant camel-colored wool-and-cashmere overcoat reaching just below the knees. The coat
+has broad notched lapels, softly structured shoulders, a single-breasted three-button front, discreet welt
+pockets and a single center-back vent. He wears it fully unbuttoned, its front panels hanging naturally to
+reveal the clothing underneath. The fabric is substantial, softly brushed and richly textured, with realistic
+weight and long vertical folds.
+Under the overcoat, he wears a dark chocolate-brown tailored wool blazer with a two-button front, worn
+unbuttoned, over a pale-blue cotton shirt with a pointed collar and the top button undone. The shirt is tucked
+neatly into high-waisted charcoal-grey wool trousers with a single pleat on each side, a relaxed straight leg
+and a slight break over the shoes. A dark-brown leather belt with a small brushed-metal buckle completes the
+waist.
+His shoes are polished dark-brown leather penny loafers with matching dark socks. A slim rectangular gold
+wristwatch on a dark-brown leather strap sits on his left wrist, partly visible beneath the cuff. The styling has
+04
+the understated elegance of a wealthy young man in a romantic film set around 2000.
+In both full-body views, he stands upright with shoulders level, weight evenly balanced and arms relaxed
+slightly away from his sides so the coat silhouette remains readable. His hands are empty. The back view
+shows the coat's full length, center seam, vent and natural drape.
+In the large portrait, his face is strictly frontal, head upright, chin level and both eyes directed into the lens.
+His lips are relaxed and closed. Preserve the exact facial structure, subtle beard shadow and natural skin
+texture visible in
+@image1
+. The portrait includes the camel coat lapels, brown blazer and pale-blue shirt
+collar.
+Soft, even studio lighting keeps his face and all clothing details clearly readable, with gentle facial shading,
+broad highlights on the wool and soft contact shadows beneath both pairs of shoes. The backdrop is plain and
+continuous, with clean empty space separating the three views.
+Maintain warm late-1990s to early-2000s 35mm film color: natural warm skin, rich camel wool, deep
+chocolate tailoring, soft pale-blue cotton and readable charcoal shadows. Fine organic film grain and
+restrained highlight glow give the image a tactile cinematic finish while the face, hair and garment
+construction remain clearly resolved.
+
+📌 PROMPT 3 (Cake box map):
+
+A photorealistic pastry packaging reference sheet on a uniform medium-grey seamless studio background, horizontal 16:9 composition, divided into two equal side-by-side views. The surface beneath both boxes and the background are the same neutral grey.
+
+On the left, a closed rectangular ivory cardboard pastry box with a fitted hinged lid, viewed from a slightly elevated three-quarter angle. Matte cardboard, subtle paper texture, clean folded edges and a plain unprinted surface.
+
+On the right, exactly the same box at the same scale, with its hinged lid fully raised behind it. A higher three-quarter viewing angle clearly reveals the contents: six individual chocolate mousse pastries arranged in two rows of three, each on a small gold pastry board. Comfortable spacing makes every pastry’s complete silhouette visible.
+
+Each pastry has a playful, stylized penis shape: a smooth rounded elongated form with two rounded lobes at the base, recognisable as a humorous bachelorette-party confection. All six share the same shape and size, with glossy milk-chocolate mirror glaze and a tiny touch of edible gold leaf. Smooth moulded chocolate surfaces and appetising highlights give them the appearance of carefully crafted patisserie desserts.
+
+The box dimensions, ivory colour and construction are identical in both views. Neatly fitted ivory food-safe paper lines the interior. Both boxes are fully visible with comfortable grey space around them.
+
+Soft studio lighting, gentle contact shadows, clear high-resolution detail and natural optical sharpness with restrained sharpening. Subtle fine film grain and softly warm highlights, consistent with late-1990s cinematic photography. The entire surrounding background remains solid neutral medium grey.
+
+📌 PROMPT 4 (Cafe map):
+
+Create a cinematic location reference photograph of an intimate, elegant neighbourhood café in the year 2000, shortly before closing on an autumn evening. One wide horizontal 16:9 image showing a single coherent interior, photographed at eye level from the customer side, looking diagonally toward the service counter. A natural 28mm lens perspective with straight architectural lines and clearly readable room geography.
+
+A long service counter occupies the right half of the composition, running from the foreground toward the back wall. It has a polished dark walnut front with recessed wooden panels and a warm ivory stone countertop. The central serving section is a broad, clear, uninterrupted surface, ready for a pastry box and a conversation between a standing customer and the waitress behind the counter. This section of the counter is bare, with the stone surface fully visible.
+
+Behind the counter is a comfortable working aisle. The rear service wall contains dark wooden shelves, neatly arranged porcelain dishes, a stainless-steel espresso machine and a small period-appropriate cash register at the far end. A wooden doorway in the back wall leads to the kitchen. A small glass pastry display stands at the far end of the counter, leaving the main serving area open.
+
+On the left side of the room, three small dark wooden tables stand beside burgundy leather banquette seating along the wall. Each table has two bentwood chairs and a small glass sugar dispenser. Above the banquette hang framed botanical prints and warm brass wall sconces with ivory shades. The walls are painted creamy butter yellow above dark wooden wainscoting. The floor is laid with small cream and muted terracotta tiles.
+
+At the far left, tall street-facing windows and a glazed wooden entrance door reveal a quiet city street at dusk. Soft, cool evening light enters through the windows, balanced by warm pools of light from the wall sconces and three opal-glass pendant lamps above the counter. The entrance, seating area, service counter and kitchen doorway are all clearly visible within the same spatially consistent room.
+
+The café feels established, lovingly maintained and slightly worn: subtle patina on brass fittings, gentle wear on the leather seats, fine scratches in the wooden furniture and realistic texture in the plaster walls. The tables are neatly reset for the end of the evening. The room is unoccupied so its layout and furnishings are fully visible.
+
+The visual atmosphere is a romantic feature film from 1999–2000, captured on 35mm film: warm amber practical lighting, creamy highlights, rich walnut brown, muted burgundy and natural shadow detail. Fine film grain, subtle halation around glowing lamps and soft highlight roll-off. Maintain enough depth of field to clearly describe the counter, seating and rear service wall. Photorealistic materials, believable proportions and an inviting, lived-in atmosphere. A clean cinematic location photograph filling the entire frame.
+
+📌 PROMPT 5 (Animation prompt):
+SCENE CONTEXT A 30-second scene in a neighbourhood café in the year 2000, near closing time. A headstrong waitress packs her handmade pastries. A wealthy customer approaches to pay, interrupts her work with questions, tastes a sample and asks her to pose as his girlfriend at dinner.  Play this as a lively romantic dramedy with friction, humour and unexpected attraction. She wants to finish her work and refuses to entertain his casual charm. He wants to keep her attention and finds himself having to earn it. Their reactions evolve naturally as they listen to each other.  ACTIVE REFERENCES
+@image1
+ — the waitress. Use the detailed portrait for her exact face and the full-body views for her work outfit and high loose bun.
+@image2
+ — the customer. Preserve his exact face, hair and clothing, including the unbuttoned camel overcoat.
+@image3
+ — the café architecture, counter, furnishings and dusk outside.
+@image4
+ — one ivory pastry box and its six chocolate novelty pastries. Preserve their shapes, chocolate glaze, gold decoration and individual gold boards. The panels show two states of the same box.  SPACE AND PROPS She stands behind the counter; he approaches on the customer side. In shared shots he is screen-left, she is screen-right. Keep the camera on the same side of their dialogue axis, maintaining matching eyelines.  The box begins open with five pastries inside. She is placing the sixth into the remaining space, holding its gold board. Beside the box is a small ivory plate with an additional matching dessert cut into two portions and a dessert fork. He samples this separate dessert; the six boxed pastries remain whole.  He carries a folded banknote in his left hand, ready to pay. His right hand is free. The central serving surface contains the box and tasting plate. Cups stay on the background shelves.  CAMERA AND EDITING 16:9, 30 seconds, real-time action. Film coverage with foreground depth, deliberate camera movement, expressive changes in shot size and motivated focus pulls. Hard cuts at the listed boundaries. Stable focal length within each shot. Let performances flow inside the shots, with natural listening and gestures overlapping speech.  0.0–3.0 SECONDS 63° FOV. A short lateral tracking shot moves along the customer side of the counter with the approaching man, revealing the waitress already at work beyond him. The polished counter creates a strong diagonal into the frame. She places the final pastry into the box. He stops opposite her, notices the contents and suppresses a laugh. She remains occupied with packing.  HARD CUT — 3.0–5.5 SECONDS 47° FOV. Low oblique view across the open box: the pastries are sharp in the foreground, his face visible beyond them. Pull focus from the chocolate shapes to his amused expression as he looks up at her. MAN: “Is this the new menu?” He is teasing, expecting an easy smile in return.  HARD CUT — 5.5–10.5 SECONDS 47° FOV. Side-on medium shot of the waitress, her face and hands visible, his coat softly framing one edge. WOMAN: “Test batch for a bachelorette party. My coworkers approved.” She answers with dry impatience while straightening the paper inside the box. She gives him a pointed look on “approved,” then slides the tasting plate toward him with a brisk, controlled gesture: he can taste it and let her finish. The plate stops within his reach. Her delivery has bite and personality; her attention moves naturally between him and her work.  HARD CUT — 10.5–14.5 SECONDS 47° FOV. Counter-height three-quarter medium shot of the man, showing his face and right hand, with the box edge in the foreground. He takes a small forkful from the cut dessert. As he tastes, his teasing manner gives way to spontaneous appreciation. He finishes the bite and lowers the fork onto the plate. She is visible at the edge of frame, briefly watching to see whether he likes it before returning to her work. The banknote remains in his left hand.  HARD CUT — 14.5–20.5 SECONDS 47° FOV. A layered two-shot looking diagonally along the counter, both faces readable. The camera makes a gentle lateral move that settles as their eyes meet. MAN: “You make these yourself?” His interest is genuine now. WOMAN: “After my shifts. I'm saving for my own bakery.” She answers firmly, with pride beneath the impatience. For a moment she engages fully because her bakery matters to her. Then she returns her attention to the box. He watches her and considers his next words.  HARD CUT — 20.5–24.0 SECONDS 29° FOV. Medium close-up of the man from beside her shoulder. A slow, restrained dolly inward makes the conversation feel more personal. MAN: “Have dinner with me tonight?” He attempts an easy invitation, but there is a real question in his eyes. Allow a short listening beat after the line.  HARD CUT — 24.0–30.0 SECONDS 29° FOV. Close-up of the waitress from his eyeline, her face in three-quarter view and his blurred shoulder at the edge. Begin with a very slight forward camera move. She looks up from her work and gives him a brief, sceptical half-smile, amused by his nerve. MAN, naturally offscreen: “With my family. As my girlfriend.” His voice hesitates briefly between the two phrases.  Stay on her throughout his clarification so the audience sees it land. Her half-smile disappears; she stops what she is doing and looks directly at him with an immediate, incredulous reaction. She lets out a short disbelieving breath and settles her right palm on the counter. The camera settles with her. Hold the final moment as she silently sizes him up, ready to challenge him. End after the hand movement is complete, on her living reaction.  ACTING Give the actors room for spontaneous conversational behaviour. She is spirited, quick and proud, with dry humour and a short tolerance for being patronised. Her annoyance changes with the conversation: she dismisses his teasing, briefly cares about his response to her baking, defends her ambition and finally reacts to the audacity of his request.  He starts charming and self-assured, adjusts when she gives him little encouragement, becomes genuinely impressed by the dessert and risks the invitation. His confidence becomes less certain as he waits for her response.  Use connected reactions, natural breaths, shifts of attention and expressive vocal rhythm. Each person listens while the other speaks. Movements arise from packing, tasting and trying to hold or end the conversation. Keep their faces recognisable and their physical behaviour grounded.  LIGHTING AND COLOUR Preserve the café's amber pendant lamps, brass sconces and cool dusk windows. Soft directional side lighting shapes their faces, with darker shadow cheeks and gentle reflected fill preserving their eyes. Photograph from the shadow side. Loose hair, camel wool and chocolate glaze catch warm highlights.  Fixed 4000K white balance. Rich walnut browns, burgundy leather, creamy practical highlights and deep textured shadows. Natural skin colour beneath the warm light. Consistent lighting across all angles.  AUDIO — FIXED CHARACTER VOICES WOMAN VOICE: Adult woman in her mid-twenties; medium pitch, warm clear mezzo speaking voice with a lightly husky lower register, neutral General American accent, natural conversational rhythm, crisp intelligible consonants and restrained expressive inflection. MAN VOICE: Adult man in his early thirties; medium-low pitch, warm resonant baritone with a subtle dry rasp, neutral General American accent, measured conversational rhythm, clear articulation and understated playful inflection.  Preserve these vocal identities. Her delivery is dry, spirited and impatient, becoming firm when discussing her bakery. His delivery moves from playful confidence to sincere curiosity and slightly hesitant persuasion.  Use the written English dialogue exactly. Clear turn-taking and accurate lip synchronisation for visible speakers. His final clarification is heard offscreen while the camera stays on her reaction.  Quiet café room tone, distant traffic, paper rustle, a soft plate scrape, the fork touching porcelain and her final palm contact. Keep dialogue clear and foregrounded.  FILM LOOK Late-1990s theatrical romantic dramedy captured on visibly textured 35mm film. Organic moving grain is clearly perceptible across midtones, skin and shadows at normal playback size. Warm halation surrounds the glowing lamps; bright reflections bloom gently. Rich film-print contrast, creamy highlight roll-off and natural optical sharpness with restrained edge enhancement. Preserve readable eyes, realistic skin and fabric detail beneath the film texture. Natural motion blur and 24 fps cinematic cadence.  CONTINUITY After packing, all six boxed pastries remain whole and in place. The separate tasting dessert retains its missing bite. The box stays open on the same section of counter. After the slide, the tasting plate and fork remain on his side. His banknote stays in his left hand. Maintain exact faces, hair, clothing, screen direction, café geometry and dusk throughout. Reference sheets guide appearance; the output is full-frame cinematic footage.
 ```
 
 </details>
@@ -1130,6 +1463,30 @@ Respect for the combat but no mercy. Dark and gritty. The master is unstoppable.
 <a id="minimaxh3"></a>
 ## MiniMax H3
 
+<a id="h3-flat-vector-curry-delivery-explainer"></a>
+### Flat Vector Curry Delivery Explainer Animation
+
+<a href="https://x.com/ponzponz15/status/2087108170271560115"><img src="previews/h3-flat-vector-curry-delivery-explainer.jpg" width="360"></a>
+
+The key visual is locked as the exact first frame, and five timed shots each name their background color, motion type and on screen text. Exact Japanese strings, a ban on extra text or UI, and a fixed end hold at 12 seconds keep the typography clean.
+
+MiniMax H3 · Image-to-video · Source: [@ponzponz15 on X](https://x.com/ponzponz15/status/2087108170271560115) · 766 likes on 2026-10-27
+
+[`motion-graphics`](#tag-motion-graphics) [`explainer`](#tag-explainer) [`flat-vector`](#tag-flat-vector) [`kinetic-typography`](#tag-kinetic-typography) [`japanese-text`](#tag-japanese-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+integrated_multimodal_description: [Shot 1] Classic Japanese 2D flat-vector explainer animation. Begin from the attached key visual as the exact first frame, preserving the same woman, white shirt with teal accent, teal smartphone, yellow curry container, warm-white background, thick charcoal outlines, circular illustrations, flat colors, and wide 16:9 composition. Do not display the attached key visual as a thumbnail, screenshot, media preview, or interface element. Hold the wide composition briefly. The curry steam gently rises, the notification bell pops once, and the woman presents the curry container with a happy expression. In the empty left area, large Japanese typography builds in two stages: "休みの夜、" then "カレーが食べたい。". Highlight "カレー" in curry ochre.
+[Shot 2] At 00:02.200, the scene cuts to a bright teal flat-color field. A simple circular vignette of the same woman relaxing at home appears with a crescent moon, an evening clock without numbers, and an empty kitchen counter. The headline appears word by word: "でも、買いに行くのは面倒。". The final word is emphasized with a small coral-red block. Use simple 2D slide, pop, and mask-reveal motion only.
+[Shot 3] At 00:04.500, the teal field wipes into a sunny yellow solution card. A large teal smartphone slides into the center while three illustrated curry choices pop out as clean circular cards: rich curry, vegetable curry, and spicy curry. A dotted route grows from the phone toward a small delivery scooter carrying a curry bag. The service name "カレヨル" appears clearly in deep charcoal, followed by the short phrase "選ぶだけ。".
+[Shot 4] At 00:06.800, the composition changes to a clean white infographic strip. Three large circular steps assemble from left to right: "選ぶ", "届く", "食べる". The same woman appears in the final circle at home, opening the yellow curry container as visible steam rises. The delivery scooter moves along the dotted route and stops beside her. Keep every illustration flat, simple, and consistent with the key visual.
+[Shot 5] At 00:09.200, the camera returns to a wide warm-white end card with generous negative space. A large two-line headline assembles smoothly: "どうしても、休みの夜は" followed by "カレーが食べたい。". At 00:10.500, the curry bowl and service name appear beneath it with the final message "そんな時は、カレヨル。". A small curry icon makes one cheerful pop and a gentle steam curl rises. Hold the complete wide end card cleanly until exactly 12.000 seconds. Do not add extra text, random pseudo-letters, logos, browser UI, or additional characters.
+```
+
+</details>
+
 <a id="h3-pink-suit-lip-sync-edit"></a>
 ### Make the man in an existing clip speak, in a borrowed voice
 
@@ -1461,6 +1818,98 @@ Natural diegetic audio only. No music, narration, CGI look, artificial rain, fac
 
 </details>
 
+<a id="seedance-cafe-table-multi-angle-reshoot"></a>
+### Cafe table talk reshot from thirteen new angles
+
+<a href="https://x.com/Scenario_gg/status/2102365054389899695"><img src="previews/seedance-cafe-table-multi-angle-reshoot.jpg" width="360"></a>
+
+The prompt locks performance, audio, lighting and tempo of the source video, then varies only camera position and lens through a timed shot list. Measured speech windows, an eyeline rule and an empty sky rule keep lip sync and background clean in every new angle.
+
+Seedance 2.5 · Video edit · Source: [@Scenario_gg on X](https://x.com/Scenario_gg/status/2102365054389899695) · 3,287 likes on 2026-10-27
+
+[`video-to-video`](#tag-video-to-video) [`multi-angle`](#tag-multi-angle) [`camera-plan`](#tag-camera-plan) [`lip-sync`](#tag-lip-sync) [`timed-shot-list`](#tag-timed-shot-list)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Prompt (seedance 2.5 video to video):
+
+ONE FINISHED TAKE, RE-PHOTOGRAPHED
+
+
+@video1
+ is one finished take: a single locked-off wide, 19.53 s, with its original audio, a young man at an outdoor cafe table talking to one camera. Do not restage, re-perform, re-time or reinterpret it. Re-photograph the identical event from thirteen new camera positions, as if thirteen extra cameras had been rolling around him in the same moment. Every output frame shows the same body at the same instant of
+@video1
+ at the same speed. Output runs the full 19.53 s. Keep the audio of
+@video1
+ unchanged and in sync.
+
+DO NOT CHANGE
+Performance, body, hands and what they hold, head angle, eyeline, lip movement, blink timing, movement speed, action start and end times, lighting, exposure, white balance, colour grade, wardrobe, props, set. The only variable is camera position and lens.
+
+SPEECH WINDOWS (measured from the audio of
+@video1
+)
+SPEAKING: 0.00-1.65, 2.05-4.80, 5.95-6.90, 9.65-11.75, 12.20-12.85, 13.35-13.80, 16.70-16.90, 17.60-18.90.
+SILENT, mouth closed and still or chewing: 1.65-2.05, 4.80-5.95, 6.90-9.65 (drinking), 11.75-12.20, 12.85-13.35, 13.80-16.70 (chewing), 16.90-17.60, 18.90-19.55.
+Whenever his mouth is visible in a SPEAKING window it moves in lip-sync with the audio of
+@video1
+. He talks while looking down: from 2.05 to 4.80 his head is down at the laptop and he is speaking. Head down is not silent. Never add speech to a silent window, never mute a speaking one.
+
+EYELINE RULE
+He performed to ONE camera, the A-camera: the original locked-off wide, directly in front of him at seated eye level. His eyeline stays on that spot in every shot, apart from the glances down at keyboard, mug and pastry already in
+@video1
+. He never looks for or turns toward a new camera. From above he reads cap and brow; from the sides, three-quarter or profile; from behind, the back of his head. Single exception: the on-axis shot at 00:01-00:02 sits where the A-camera was, so there alone he looks into the lens.
+
+TEMPO RULE
+Real time, 1:1 with
+@video1
+. No speed ramps, added slow motion, freeze frames or time remaps. Exactly one slowed passage exists, already baked into the source: the pastry at the top of its arc, 12.5-13.55. Reproduce it at the speed it already has, no slower, no longer.
+
+TOSS TIMING
+The pastry leaves his fingers at 12.43 and is caught at 13.60: airborne about one second only. Do not stretch, loop or hang the flight. Before 12.43 and after 13.60 it is in his hand.
+
+EMPTY SKY
+On every low or upward-tilting shot the sky is plain pale overcast and empty. No skyscrapers, glass towers, solar panels, cranes, birds, aircraft, sun disc, structured clouds, lens flare or signage. Above his head only cream wall, white pillars and flat pale sky.
+
+CAMERA PLAN
+
+[00:00-00:01] High-angle MCU from above and to his right, about 40 degrees down, chest up, slow push-in, 35mm feel, moderate depth of field, cap brim and open gesturing palms, marble edge in the lower foreground. Speaking, reading three-quarter, not to this lens.
+
+[00:01-00:02] ON THE A-CAMERA AXIS. ECU of his face, dead front, seated eye level, 85mm feel, shallow focus, pillars soft cream behind. The one shot where he looks into the lens. Hands drop below frame onto the keyboard; mouth closes at 1.65.
+
+[00:02-00:05] Macro along the MacBook keyboard to his typing fingers, lens centimetres above the keys, razor-thin focus, keycaps sharp, his face soft far behind, head down. Speaking 2.05-4.80: where his mouth shows in the blur it moves with the audio. Fingers lift at 5.0.
+
+[00:05-00:06] Top-down bird's eye straight down over the table, 24mm feel, deep focus, locked off. Marble disc fills frame: open laptop, white mug, financier, his cap at the bottom edge. Right hand crosses to the mug handle.
+
+[00:06-00:07] Lens resting on the marble at table height, 50mm feel. White mug large and sharp in the left foreground; his hand enters from the right, grips the handle, lifts the mug up out of frame. Torso soft behind. Speaking 5.95-6.90.
+
+[00:07-00:09] First-person POV from his seat, ultra-wide 18mm feel, gentle handheld breathing. The mug rim rises into the bottom of frame and tips toward the lens; laptop screen and marble beyond in deep focus. No face; framing dips to the mug, never up. Silent.
+
+[00:09-00:10] Extreme wide, slow dolly out, 24mm feel, deep focus. He is small at his table mid-terrace: cream wall, pillars, concentric-circle mural, taped boxes behind, slatted bench visible. He sets the mug on the marble 9.4-10.0; speech resumes 9.65.
+
+[00:10-00:12] Low and to his left, lens just above the marble, 50mm feel, shallow focus, table edge and mug soft in the near foreground. Right hand reaches out at 10.5 and lifts the golden financier into sharp focus before his left profile. Talking to the A-camera: full profile here.
+
+[00:12-00:14] Low beside him, 35mm feel, slight Dutch. Opens on the pastry in his fingers; at 12.43 it leaves his hand and the camera tilts UP, following it against plain pale overcast sky and the top of a white pillar through the baked-in slow apex 12.5-13.55, then tilts DOWN for the catch at 13.60 into cupped hands, head tipped back, mouth open, then head coming forward.
+
+[00:14-00:15] Behind him, over his right shoulder, 50mm feel, moderate focus. Back of the black Yankees cap and long dark hair fill frame-left; laptop glow and marble past his shoulder. Head settles level, hands bring the pastry toward his mouth. No face. Silent.
+
+[00:15-00:16] ECU on his mouth and jaw, 100mm macro feel, very shallow focus, soft open-sky light. The financier enters from below, he bites, crumbs, the jaw chews. Chewing, not speaking. Nothing above the nose in frame.
+
+[00:16-00:18] Slow orbit from his left toward front, 35mm feel, moderate focus, mural and pillars parallaxing behind, table crossing the foreground. He chews, speaks 16.70-16.90 and from 17.60, open palms, a small shrug. As the orbit nears front his gaze lands near, not into, this moving lens.
+
+[00:18-00:20] Top-down bird's eye straight down over the table, 24mm feel, deep focus, locked off. Hands come down beside the laptop and settle, cap centred, speech ends 18.90, then still. Hold to 19.53.
+
+SET AND SUBJECT CONTINUITY (identical in every shot)
+Young man, long dark hair, black short-sleeve button-up shirt with a small chest logo, black New York Yankees baseball cap, grey trousers. Light wood slatted bench, round white marble table, outdoor cafe terrace. On the table: open dark grey MacBook, white mug with a circular graphic, one small golden financier. Behind him: cream wall, white cylindrical pillars, large black-and-white concentric-circle mural, taped cardboard boxes. Soft overcast open-shade daylight, no hard shadows, constant direction and softness. Warm bright grade: cream walls, golden wood, neutral white marble, warm skin, deep neutral blacks. He is alone; no passers-by, no staff.
+
+No on-screen text, captions, subtitles, watermarks or logos beyond the small chest logo and cap emblem already in
+@video1
+.
+```
+
+</details>
+
 <a id="seedance-diner-frozen-time-rewind"></a>
 ### 1950s diner: time freezes, then rewinds
 
@@ -1644,6 +2093,220 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 
 </details>
 
+<a id="seedance-zombie-calico-cat-reunion"></a>
+### Crying ginger cat aims handgun at zombie calico
+
+<a href="https://x.com/ElsaSofia__AI/status/2108740749420646730"><img src="previews/seedance-zombie-calico-cat-reunion.jpg" width="360"></a>
+
+A timestamped shot list assigns each beat a framing, an action and an emotional turn, so the tension in the dark cabin resolves cleanly into the golden hour meadow. The opening lays out both characters, both settings and the lighting contrast between the two halves, which keeps the cats and the locations consistent across cuts.
+
+Seedance 2.5 · Text-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2108740749420646730) · 2,000 likes on 2026-10-27
+
+[`short-film`](#tag-short-film) [`cats`](#tag-cats) [`emotional`](#tag-emotional) [`timestamped-shots`](#tag-timestamped-shots) [`cinematic`](#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic emotional short film, live-action look, 16:9, 24 seconds, 24 fps. Characters: a ginger tabby cat that stands upright on its hind legs like a human, and a calico cat (black, white and orange). At the start the calico is zombie-like: cloudy pale eyes, torn fur hanging in shreds, sharp fangs. Opening setting: a dark rustic wooden cabin kitchen at night, pots on wooden shelves, a window with cold blue night light, wooden plank floor. Final setting: a green meadow at golden-hour sunset with white dandelion fluff floating in the air.
+
+0:00-0:01.5 Extreme close-up of the ginger tabby with tears in his eyes, holding a black handgun with both paws, aimed toward the camera (gun out of focus in the foreground).
+
+0:02-0:02.5 Over-the-shoulder wide shot from behind the ginger cat: he aims the handgun at the zombie calico slowly walking toward him across the wooden floor.
+
+0:03-0:03.5 Front shot: the ginger cat stands upright, aiming with both paws, dark wooden wall and blue window behind him.
+
+0:04-0:04.5 Close-up of the zombie calico, glassy pale eyes, then snarling with fangs.
+
+0:05-0:06.5 Extreme close-up of the ginger cat's face, tears rolling down.
+
+0:06.5-0:08 He stands aiming, then slowly lowers the gun.
+
+0:08.5-0:09 The gun drops from his paw and he opens both arms wide for a hug.
+
+0:09.5-0:10 Quick cuts: the zombie calico's face, then the ginger cat with eyes closed and a tear falling.
+
+0:10.5 The calico leaps into his arms, wrapping her white paws around him; her fur is now healthy and normal.
+
+0:11-0:13 Cut to the sunset meadow: the two cats roll and cuddle in the grass, white fluff floating around, warm golden light.
+
+0:13-0:18 Close-up of the calico's affectionate face while the ginger cat's paw gently touches her face and head; the ginger cat lies on his back in the grass, eyes closed, peaceful.
+
+0:18-0:20.5 The ginger cat's paw rests on her face; he looks up, content and relaxed.
+
+0:21-0:22 Wide silhouette shot: the two cats sit snuggled together against the glowing sunset, tall grass and wildflowers in the foreground.
+
+0:22.5-0:24 Close-up with sun flare: the ginger cat tenderly rubs his head against the calico's head. End.
+
+Style: dramatic zombie-movie tension turning into a heartwarming ending, shallow depth of field, realistic fur detail, warm golden-hour light in the second half, dark low-key lighting in the first half.
+```
+
+</details>
+
+<a id="seedance-anime-rooftop-brawl-kinetic-fight"></a>
+### Two Anime Fighters Brawl on Rooftop
+
+<a href="https://x.com/aimikoda/status/2111824828009193814"><img src="previews/seedance-anime-rooftop-brawl-kinetic-fight.jpg" width="360"></a>
+
+Character reference blocks lock each fighter's outfit, then a style and energy header sets cel shading, impact frames and constant camera motion. A four shot list gives each shot its own camera path and a chain of strikes with no pauses, and an Avoid line bans slow motion and freeze frames.
+
+Seedance 2.5 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2111824828009193814) · 1,962 likes on 2026-10-27
+
+[`anime`](#tag-anime) [`fight-scene`](#tag-fight-scene) [`multi-shot`](#tag-multi-shot) [`camera-movement`](#tag-camera-movement) [`character-reference`](#tag-character-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+References:
+@[char1 ref]: Mina. Long black hair, green striped crop top, baggy orange cargo pants with black graffiti, white sneakers, black fingerless boxing gloves on both hands, chain bracelet.
+@[char2 ref]: Rue. Long pink hair, black crop top, black cargo shorts with chains and tags, bare knuckles with silver rings, skin visible on both hands, chunky lime sneakers, dog tag necklace.
+
+Visual style: High-sakuga flat-color 2D anime, bold linework, hard cel shading, flat blue and teal backgrounds that flash hot pink or orange on impact, speed smears, impact frames, deep foreshortening.
+
+Energy: Within every shot the camera keeps moving: it spirals around crossing limbs, dives under kicks, skims the floor, and whips between faces, often following a fist or a sole within inches of the lens. Every movement flows straight into the next strike, block, or counter. Every landed hit plays as sakuga impact: a two-frame impact frame, then the struck body whips away in a long smear, elastic recoil, immediate re-entry into her own attack. Heads snap, torsos fold, feet leave the ground, bodies skid across concrete. Each impact throws a color flash, dust, flying hair and cloth, and radiating speed lines.
+
+Avoid: No subtitles. No slow motion, no idle posing, no pauses between actions, no freeze frames, no held two-shots.
+
+Mina and Rue trade one relentless brawl on an empty concrete rooftop with a chain-link fence at the back and a steel vent box at center right. Mina starts screen left, Rue screen right. Whenever they close, one body is nearer the camera and the other clearly behind it with air between. No dialogue; hits, shoe scuffs, chain rattle, wind. Shot list: 4 shots, about 30 seconds, every shot packed edge to edge with exchanges.
+
+Scene 1: 连续时间，天台。
+Shot 1: 大全景起，地面高度，低角度；镜头从水泥地面猛然升起，穿过两名已经腾空扑向对方的格斗者之间，然后贴着Mina的拳套甩进中景，并绕着两人交错的手臂急速环绕。Mina的右勾拳与Rue抬起的膝盖在半空撞上，冲击帧，两人同时被震成拖影向后飞开，滑步落地的瞬间已经再次扑上；Mina左直拳，Rue下潜躲过并打出上勾拳，Mina用前臂接住，前臂被顶上自己的下巴，头向后一甩成拖影，她借着仰头的势头打出一记一二连击，第二拳砸开Rue的防守，冲击帧，Rue的头横向甩出，粉发拉成一道弧，她踉跄一步就从踉跄里踢出正蹬，踢中Mina的拳套，把Mina推得双脚在地上滑出一道痕。快速细节切：Rue眯起的眼睛，Mina收紧的拳套，狗牌甩动，然后镜头钻到Rue旋踢的下方。Rue的脚跟掠过Mina低下的头顶，Mina从内侧起身的身体勾拳把Rue整个人折弯在拳套上，冲击帧，Rue的双脚离地，她顺着折弯的势头甩出肘击，Mina双拳套挡住，拳套却被顶进自己的脸，她向后踉跄两步，Rue追上来一记戴戒指的直拳擦着镜头砸过，Mina侧滑，把一记短右拳埋进Rue的肋部，冲击帧，Rue半边身体塌陷成拖影，双脚在地面打滑，她就从打滑里顶出一膝，砸在拳套上，把Mina的胳膊震到自己胸口。
+
+Shot 2: 跟拍起，位于Rue身后腰部高度；镜头随她冲向铁丝网，沿着网向上扫，在她蹬离时翻转，然后落到地面高度，贴着天台地面疾驰穿过两人相撞的缝隙。Rue推开Mina的胸口转身冲向铁丝网，在网上蹬两步，蹬离，后空翻越过从下方冲进来的Mina，落下的膝盖砸中Mina的肩膀，冲击帧，Mina被砸成一个拖影般的前滚翻，从翻滚里起身时顺势扫向Rue落地的那条腿，Rue跳过扫踢，撑手后空翻，落地时Mina的直拳已经到了，Rue格挡，格挡把她自己的手臂震开，Mina的第二拳穿过空档擦中她的太阳穴，冲击帧，Rue半转过身，粉发横扫镜头。快速细节切：荧光绿鞋底填满镜头，橙色工装布料猛甩，铁丝网剧烈震颤，然后镜头贴地。两人再次相撞：Mina低身滑过Rue的飞跃拳，两人在另一侧旋转成背对背，同一瞬间各踢出一记后蹬，鞋底对撞，冲击帧，两人都被踢得向前扑倒撑地，撑起后同时转身甩出旋转背拳，拳套撞上指节，粉色闪光，两人的头各自甩向一侧成拖影，Rue先回过身勾住Mina的腿，Mina跳脱的同时抡出过顶拳，擦过Rue的太阳穴，把她打得转了半圈，Rue转完这半圈的势头直接变成一记反手肘，砸在Mina的肩上，Mina的肩膀被压得一沉。
+
+Shot 3: 高角度俯冲起；镜头向通风箱俯冲，压低绕到箱侧，然后在两张脸之间左右急甩，每一拳都跟着拳头从一张脸甩到另一张脸。Mina，戴黑拳套，跃上通风箱，膝盖朝下砸落；Rue，赤手戴戒指，侧步闪开，一记侧踢踹进箱体，箱体轰然凹陷；Mina从压扁的边缘跃起打出飞身直拳，Rue后仰躲过，扫掉Mina的支撑手臂，Mina侧手翻落地的同时勾拳打中Rue的下颌，冲击帧，Rue的头甩过去，整个人被带得转了半圈，脚步踉跄，又从踉跄里反扑一记直拳，震得Mina的下巴一晃。快速细节切：弯折的金属，断裂的电缆冒着火花，拳套在箱顶打滑，然后镜头切进两张脸之间。隔着废墟的近身对轰：刺拳，格挡，直拳，侧闪，没有一拳停在半路；Rue的膝盖顶进Mina垂下的拳套，把她推退一步；Mina的头槌砸在Rue的眉骨上，冲击帧，Rue的头向后甩成拖影，她的身体先于意识反击，戴戒指的勾拳打在Mina的拳套上；Mina的反击肘撞上Rue的脸颊，冲击帧，粉发炸开，Rue踉跄两步，膝盖一软又撑住，从撑住的那一下里直拳回敬，打得Mina的头偏过去，Mina的头偏到一半就已经转回来，两人同时下蹲。
+
+Shot 4: 高角度大全景起，倾斜成荷兰角；镜头在两人跃起时螺旋下降，在最高点从两人之间穿过，再翻到两人侧面，并在两人上升时继续旋转。两人同时向上爆发，拳头在前，Mina的黑拳套与Rue戴戒指的拳头冲向画面中央同一点，头发向后飞扬成拖影，速度线向中心汇聚，拳头进入触及范围的瞬间背景炸成全屏亮粉色；拳头仍在逼近，头发仍在甩动，镜头仍在旋转，画面在此切断。
+```
+
+</details>
+
+<a id="seedance-anime-frame-break-letterbox-pop-out"></a>
+### Anime character reaching past black letterbox bars
+
+<a href="https://x.com/aimikoda/status/2106044483863191748"><img src="previews/seedance-anime-frame-break-letterbox-pop-out.jpg" width="360"></a>
+
+The prompt states a back to front compositing order (background, black bars, character) so the foreground character overlaps the bars while the bars stay fixed. A stationary wide angle camera, an opening lunge toward the lens and a closing instruction not to crop the character inside the window make the overlap repeat. Bar size still varies between generations.
+
+Seedance 2.5 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2106044483863191748) · 1,675 likes on 2026-10-27
+
+[`frame-break`](#tag-frame-break) [`letterbox`](#tag-letterbox) [`anime`](#tag-anime) [`pop-out`](#tag-pop-out) [`character-reference`](#tag-character-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use @[char ref]￼as the exact character and style reference. Preserve her white hair, red eyes, oversized black cropped top, long cream skirt with orange lining, bare feet and single slender sword. Keep the same angular painterly anime rendering.
+
+MAIN VISUAL GOAL: an unmistakable OUT-OF-FRAME, POP-OUT effect. The character repeatedly projects beyond the central picture window, with her sword, hands, hair and especially her wide skirt visibly moving OVER the black letterbox bars toward the viewer.
+
+COMPOSITING ORDER, BACK TO FRONT:
+1. Background and scene.
+2. Two broad black letterbox bars at the top and bottom.
+3. The foreground character, including her sword, hair and flowing skirt.
+
+The background is confined to the central picture window. The foreground character is NOT confined to that window. Her silhouette continues uninterrupted across its boundaries and onto the black bars. Cream fabric, orange lining, white hair and the silver blade remain fully visible when overlapping black.
+
+Keep both bars equal in thickness and fixed in screen position throughout. The character covers them temporarily without moving or changing them. Keep sections of black visible beside each overlap so the frame-break illusion remains clear.
+
+The camera stays stationary with a fixed wide-angle lens. The character moves rapidly through depth, creating extreme foreshortening and dramatic scale changes through physical approaches and retreats.
+
+OPENING:
+Start immediately with a powerful forward lunge. Her sword hand projects toward the lens and overlaps the lower black bar. At the same time, the nearest cream skirt folds spill across that bar. Establish the frame-break effect clearly in the very first movement.
+
+CHOREOGRAPHY:
+She pulls back into the central window, then snaps into a fast turning advance. Her skirt fans outward in a huge cream sweep, crossing the bottom boundary and spreading over the black surface. The orange lining flips into view along the moving hem. Her waist and torso remain inside the central window while the nearest fabric extends outside it.
+
+Reverse the rotation sharply into an upward sword flourish. The blade crosses onto the upper black bar, followed by flying strands of white hair. She immediately drives forward again, bringing her hand and blade extremely close to the viewer.
+
+Chain rapid fencing lunges, spinning evasions, low sweeping turns and short twisting leaps. Repeatedly move from the depth of the central scene into extreme foreground space. Alternate sword-and-hair overlaps across the upper bar with large skirt-and-hand overlaps across the lower bar.
+
+Give the skirt substantial momentum: it follows her hips, overtakes her during abrupt stops and lashes around her during reversals. Show broad cream folds sweeping across black, not merely touching the border. Keep the fabric naturally attached to her waist.
+
+Include a close spinning pass where the skirt occupies a large portion of the lower black bar while her sword cuts diagonally across the upper bar. Her face remains readable between them.
+
+FINISH:
+A final explosive lunge brings the sword toward the lens as the skirt billows across the lower bar. Resolve into a confident fencing pose with the blade and cream hem still visibly extending beyond the central picture window.
+
+Prioritize visible foreground overlap throughout. Do not crop the entire character inside the letterbox window. Do not replace the effect with simple zooming or a character moving behind black bars.
+
+Fast, forceful motion with crisp silhouettes and brief directional smears. No slow motion, camera movement, duplicated weapons, cloth morphing, text or background music.
+
+---
+
+Prompt for the second one:
+
+Use @[char ref]￼as the exact reference for the character and visual style. Preserve her blonde hair, small crown, orange puff-sleeved dress, cream skirt panels, slender sword and elongated proportions. Maintain the same flat painterly anime aesthetic, rough ink contours, dry-brush textures, graphic silhouettes and restricted orange, cream, yellow and charcoal palette.
+
+Create an explosive, high-speed sword performance built around a strong FRAME-BREAK EFFECT. Solid black horizontal bars occupy the top and bottom 15% of the output throughout the entire shot. These bars remain perfectly fixed to the screen while the camera moves inside the central image window.
+
+CRITICAL COMPOSITING RULE: the environment stays behind the black bars. Selected foreground parts of the character render IN FRONT OF the bars, visibly covering their black surface with her original colors. Her sword, hands, crown, hair and flaring skirt repeatedly cross the inner edges and overlap the bars. Do not crop these foreground elements at the inner frame boundary. The bars remain intact beneath them. This must read as the character physically bursting out of the framed image toward the viewer.
+
+Start immediately in motion. She launches straight toward the lens and thrusts her sword past it, the sharply foreshortened blade growing enormous in the foreground and extending across the lower black bar. The camera recoils and banks sideways as her hand and orange sleeve sweep through the same foreground space.
+
+She snaps into a full-body corkscrew turn, pulling the sword around her waist before whipping it upward. The blade crosses the upper black bar, followed by her crown and flying blonde hair. Her cream-and-orange skirt fans outward in a huge rotating arc, spilling over the lower bar while her torso remains inside the central window.
+
+Chain rapid thrusts, reverse-grip transitions, overhead cuts and tight spinning combinations without pauses. Alternate deep retreats into the scene with sudden lunges directly toward the viewer. Every return creates a new frame-breaking overlap: a sword tip punching toward the lens, a hand reaching beyond the lower border, an orange sleeve flashing across the upper border, a cream skirt panel sweeping across the bottom.
+
+Use aggressive wide-angle perspective and dramatic changes in depth. The camera darts backward ahead of her charge, arcs close around her sword arm, drops below an airborne turn and whips back toward her face. Keep the camera reactive and fluid in one continuous shot. No top-down angles. Keep the black bars screen-locked during every camera roll, orbit and recoil.
+
+Make each near-lens pass feel dangerously close, with strong parallax, brief directional smears and crisp readable silhouettes at the peak of each movement. Her face stays consistent and expressive: fierce concentration with a confident, playful edge. Hair, sleeves and layered skirt react sharply to acceleration.
+
+Finish with one final forward burst. She drives the sword diagonally past the lens, its blade spanning the lower black bar while her crown overlaps the upper bar. Resolve directly into a striking extended fencing pose, close to the viewer, with fabric still whipping around her.
+
+Full-speed action throughout. No slow motion, frozen midair poses or gentle floating. No extra weapons, duplicated limbs, costume changes or transformation into 3D. Sword whooshes, sharp fabric snaps and forceful air rushes only. No background music, dialogue or text.
+
+---
+
+Prompt for this one:
+
+Use @[char ref]￼as the exact character and style reference. Preserve her black hair and braids, oversized blue hooded jacket with cream graphics and orange trim, white cropped top, layered cream-and-orange pants, orange ribbons and white sneakers with black stripes and orange panels. Preserve her single sword with its black wrapped handle, gold guard and red tassel. Keep the same angular painterly anime rendering and blue background.
+
+MAIN VISUAL GOAL:
+An unmistakable OUT-OF-FRAME, POP-OUT effect. The character repeatedly projects beyond the central picture window, with her sword, hands, sneakers, hair and loose clothing visibly moving OVER the black letterbox bars toward the viewer.
+
+COMPOSITING ORDER, BACK TO FRONT:
+1. Background and scene.
+2. Two broad black letterbox bars at the top and bottom.
+3. The foreground character, including her sword, hands, sneakers and clothing.
+
+The background is confined to the central picture window. The foreground character is NOT confined to that window. Her silhouette continues uninterrupted across its boundaries and onto the black bars. Blue sleeves, cream fabric, orange panels, sneakers and the silver blade remain fully visible when overlapping black.
+
+STATIC BARS, MOVING CHARACTER:
+Both bars are completely static screen graphics. Keep their equal thickness, full width and exact screen position unchanged throughout. Their inner boundaries remain perfectly straight and horizontal.
+
+The character simply renders in front of them. Her movement temporarily hides portions of their black surface. The underlying bars never move or deform. Visible edge segments on either side of an overlap remain aligned on the same horizontal line. When she withdraws a limb, reveal the original unchanged black bar beneath it.
+
+Keep black visible beside the overlapping body parts. No bending, sliding, shaking, stretching, opening or impact reactions in the bars.
+
+The camera stays stationary with a fixed wide-angle lens. One continuous shot. She stays close and large in the composition, using short forward approaches, lateral pivots and compact recoveries. Never retreat deep into the background.
+
+OPENING:
+Already close to the viewer, she reaches toward the lens with her EMPTY hand while retaining the sword in her other hand.
+
+Her fingertips visibly overlap the upper black bar. She makes one brisk diagonal lens-wiping gesture with her open palm, passing across the center and over the lower black bar. The hand and sleeve appear in front of both bars during the gesture. The bars remain unchanged beneath them.
+
+The instant her palm clears the lens, she snaps into fast action without a pause.
+
+CHOREOGRAPHY:
+A diagonal sword slash passes close to the lens and visibly extends over the upper black bar. Reverse immediately into a tight turning cut. Her blue sleeve and loose cream-and-orange fabric sweep across the lower black surface.
+
+She chambers a knee and fires a sharp FRONT KICK toward the viewer. The sneaker sole becomes large in the foreground and clearly overlaps the lower black bar, with black still visible beside it. Her shin connects continuously back to her body inside the central window. Retract immediately.
+
+Plant the foot and pivot into a fast sword flourish crossing the upper bar. Continue into a compact SPINNING HEEL KICK. The sneaker sweeps close past the lens, its heel and sole projecting over the lower bar while her jacket and trouser fabric trail behind.
+
+Keep alternating clear close-range overlaps: sword above the upper bar, sneaker over the lower bar, empty hand across a border, blue sleeve and cream fabric sweeping across black. Use fast connected combinations with crisp readable extensions and immediate recoveries.
+
+Her clothing follows her body with strong momentum. Preserve the garment construction, patterned orange sections and cream folds. Fabric stays attached naturally and visibly covers the black surface without affecting its straight boundaries.
+
+FINISH:
+A final close-range sword extension crosses the upper black bar as her loose clothing flares over the lower bar. Resolve sharply into a confident martial-arts pose, retaining visible foreground overlap and quick natural follow-through.
+
+The frame-break effect must come from the character visibly covering black areas outside the central picture window. Do not keep her entirely behind the bars. Do not simulate the effect by moving the bars or enlarging the window.
+
+Fast real-time movement throughout, including the opening wipe. No slow motion, speed ramps, long windups or floating pauses. No camera movement, duplicated limbs or weapons, clothing morphing, text or background music. Sword whooshes, kick air bursts and fabric snaps only.
+```
+
+</details>
+
 <a id="seedance-dragon-bakes-bread"></a>
 ### A woman teaches a dragon to bake heart-shaped bread
 
@@ -1702,6 +2365,42 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 </details>
 
+<a id="seedance-celestial-puppeteer-golden-star"></a>
+### Celestial puppeteer rebuilds a collapsing golden star
+
+<a href="https://x.com/itsPixieVerse/status/2099712704940568739"><img src="previews/seedance-celestial-puppeteer-golden-star.jpg" width="360"></a>
+
+A fixed painterly style block with explicit negatives opens and closes the prompt, then WORLD and CHARACTER blocks lock the look. Ten timed shots of three seconds each, with the shot type named in every cut, give the 30 second piece a clear arc from macro detail to hero frame. The character sheet made with GPT Image 2.5 serves as the identity reference.
+
+Seedance 2.5 · Reference-to-video · Source: [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2099712704940568739) · 1,127 likes on 2026-10-27
+
+[`painterly-animation`](#tag-painterly-animation) [`multi-shot`](#tag-multi-shot) [`character-sheet`](#tag-character-sheet) [`sci-fi`](#tag-sci-fi) [`30-seconds`](#tag-30-seconds)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 2.5D animation in painterly rendering, gouache concept art in motion, visible brush textures, flat posterized color blocks, matte finish, soft volumetric lighting. NOT flat 2D cartoon, NO outlines, NOT glossy CGI, NO photorealism.
+
+WORLD: Shattered zero-G celestial observatory overlooking a collapsing golden planetary core, palette of obsidian black, ivory stone, and blinding gold energy, floating cosmic debris.
+
+CHARACTER: Extremely tall adult woman in early 20s, black visor-hat with glowing gold glyphs, floating orbital halo, black prosthetic arms with trailing strings. Massive ballooning obsidian cloak, cream draped gown, platform heels. Elongated tall proportions, supermodel legs, painterly matte skin.
+
+CINEMATIC SHOT DESIGN (10 Filmic Cuts across 30 Seconds):
+• SHOT 1 (0–3s | Macro Detail): Macro close-up of Ophelia's black prosthetic fingers twitching; glowing gold gravitational threads unspool into the vacuum.
+• SHOT 2 (3–6s | Scale & Threat): Wide shot of the dying planetary core cracking in half, blasting shockwaves of golden light through floating ivory pillars.
+• SHOT 3 (6–9s | Character Entrance): Low-angle tracking shot as Ophelia glides weightlessly into the abyss, her massive obsidian cloak ballooning around her like a cosmic void.
+• SHOT 4 (9–12s | Expression Focus): Close-up on her face under the visor; the gold glyphs flare brightly as she tilts her head in absolute, chilling composure.
+• SHOT 5 (12–15s | Casting the Strings): Medium shot; Ophelia sweeps both mechanical hands outward, casting hundreds of glowing gold puppet strings across the entire starfield.
+• SHOT 6 (15–18s | Reality Pull): Dynamic wide shot; she violently pulls the strings taut, arresting the collapse of the planet and dragging the colossal burning fragments back together.
+• SHOT 7 (18–21s | High-Speed Tracking): FPV tracking shot swooping past floating debris as the planetary fragments collide and fuse into a newly ignited miniature golden sun.
+• SHOT 8 (21–24s | Power Apex): Medium shot; Ophelia rotates her mechanical wrists, the floating orbital halo around her head spinning rapidly and locking the new star into orbit behind her.
+• SHOT 9 (24–27s | Aftermath Echo): Extreme wide shot; the restored golden star illuminates the massive expanse, Ophelia silhouetted dead-center as the master of the cosmos.
+• SHOT 10 (27–30s | Hero Poster Frame): Low-angle hero shot; Ophelia lowers her hands, gravity strings dissolving into gold dust, her massive black mantle settling around her towering silhouette. Hold final frame.
+Weighty natural animation, zero-G fabric motion, 24fps filmic motion, shallow depth of field.  NOT flat 2D cartoon, no bold outlines, not glossy CGI, no photorealism.
+```
+
+</details>
+
 <a id="seedance-friday-morning-seoul"></a>
 ### Friday morning walk in an old Seoul neighbourhood
 
@@ -1729,6 +2428,47 @@ She then approaches a newspaper seller outside a small local shop, picks up a ne
 Near the end, she looks toward the camera with a happy smile, still enjoying her lollipop, and says, “Happy Friday!” before continuing home.
 
 Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms and authentic home-video imperfections. Natural Seoul neighborhood ambience only — footsteps, running water, children talking, shop sounds, newspaper rustling, distant traffic, birds and summer insects. No music, no narration, no subtitles, no polished commercial cinematography, no beauty-filter skin, no CGI look, no duplicate characters, no changing face, hairstyle or outfit.
+```
+
+</details>
+
+<a id="seedance-cottage-pet-dragon-roast-short-film"></a>
+### Woman and Pet Dragon Cook a Roast
+
+<a href="https://x.com/Alina_with_Ai/status/2109224200217198796"><img src="previews/seedance-cottage-pet-dragon-roast-short-film.jpg" width="360"></a>
+
+A second-by-second shot list from wide shot to extreme close-up builds a full comedy arc in 30 seconds, from the dragon's fire blast to a gentle forgiveness beat. Character sheets for both leads, a setting list and a separate audio line for fire, steam and dragon sounds keep the look and sound consistent.
+
+Seedance 2.5 · Text-to-video · Source: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2109224200217198796) · 1,043 likes on 2026-10-27
+
+[`fantasy`](#tag-fantasy) [`dragon`](#tag-dragon) [`short-film`](#tag-short-film) [`multi-shot`](#tag-multi-shot) [`audio`](#tag-audio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 16:9 fantasy short film, 30 seconds, 30fps, photorealistic, warm golden-hour light, rich film color grading, shallow depth of field, smooth camera, natural motion blur, heartwarming comedy tone.
+
+Characters:
+1) A young woman with messy wavy blonde hair, thin round glasses, a linen cream blouse with rolled sleeves and a dark brown pinafore apron dress. Expressive, funny, warm face.
+2) Her pet baby dragon: a huge, friendly, horse-sized dragon with white-cream scales covered in pink-magenta patterns, a crest of soft pink spikes, big amber eyes with vertical pupils, a gentle snout. It acts like a naughty, affectionate puppy.
+
+Setting: a rustic medieval cottage courtyard and kitchen: a stone oven, a wooden table, hanging lavender and herbs, stacked firewood, a low stone wall, green hills in the background. Later, the warm inside of the cottage with a wooden table, a candle, pots on shelves, and sunbeams through a small window.
+
+0-3s: Wide shot, courtyard. The woman turns a big pink raw pork roast on a metal spit over the table. The dragon's head peeks over the stone wall on the right, watching curiously. She talks to the dragon, laughing, asking it for just "a little fire".
+3-5s: Extreme close-up of the dragon's scaly snout and nostrils, then a close-up of her smiling face, laughing and confident.
+5-7.5s: The dragon opens its mouth and unleashes a huge blast of fire at the roast, flames and sparks everywhere. She throws her hands up in panic.
+7.5-10s: Extreme close-ups of her shocked face, wide eyes, hair blown by the heat, hands raised, shouting "No, no, no!". Cut to the roast, completely burnt black and surrounded by flames.
+10-12s: She grabs a wooden bucket and throws water on the fire, a giant cloud of steam rises. The dragon laughs with its mouth open, tongue out.
+12-15s: Steam clears. She stands with her arms out, scolding the dragon like a child. The dragon lowers its head with guilty puppy eyes, and she gently touches its snout, forgiving it.
+15-18s: Cut to the cozy kitchen. She wipes her forehead, then cuts a small piece of fresh meat and puts it on a tiny skewer, calmly explaining to the dragon how little fire is needed. The dragon leans in beside her.
+18-21s: Close-up: she holds the skewered meat cube. The dragon carefully breathes a tiny, gentle flame, and the meat sizzles with small sparks. She smiles proudly.
+21-23s: Extreme close-up: the perfectly seared meat cube on the skewer, in front of the dragon's amber eye, a reflection of tiny fire in its vertical pupil.
+23-26s: She sits at the table with a plate of cooked meat, cuts a piece, tastes it with a delighted face and gives a thumbs-up. She feeds a piece to the dragon, who opens its mouth happily.
+26-30s: Wide, warm shot of the cottage interior, golden sunbeam through the window, a candle on the table. She eats while the dragon rests its big head on the table next to her, its eyes slowly closing in contentment, its body curled behind. Peaceful, heartwarming final frame, hold.
+
+Style: Pixar-quality emotional storytelling with photorealistic detail, warm golden and orange tones, soft volumetric light, steam and sparks, cinematic grading.
+
+Audio: gentle fantasy folk music (soft strings and flute), crackling fire and a whoosh on the fire blasts, steam hiss, a deep playful dragon rumble and purr, her laughter and short dialogue, light kitchen sounds.
 ```
 
 </details>
@@ -1890,6 +2630,104 @@ FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every sc
 
 </details>
 
+<a id="seedance-desert-warrior-reaper-fight"></a>
+### Masked warrior fights scythe reaper in desert dust
+
+<a href="https://x.com/techhalla/status/2090568539325317401"><img src="previews/seedance-desert-warrior-reaper-fight.jpg" width="360"></a>
+
+Two image references lock the reaper and the warrior character sheet, then a timed shot list from 0 to 30 seconds names a camera move and a clear action beat for each segment. A shared style block of anamorphic lens, haze and particle physics keeps the look consistent across the cuts.
+
+Seedance 2.5 · Reference-to-video · Source: [@techhalla on X](https://x.com/techhalla/status/2090568539325317401) · 882 likes on 2026-10-27
+
+[`action`](#tag-action) [`fight-scene`](#tag-fight-scene) [`multi-shot`](#tag-multi-shot) [`character-consistency`](#tag-character-consistency) [`desert`](#tag-desert)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+I've used 2 image refs as the only reference for this one (both made on MJ), along with this prompt:
+
+Hyper-kinetic desert combat spectacle, extreme high-intensity CGI action, thick volumetric cinematic haze and golden-hour dust storms, aggressive anamorphic 35mm lens with heavy motion blur, relentless handheld tracking and whip pans, deep shadows, heat distortion, ultra-realistic particle systems.
+
+Use the first provided image as exact reference for the ethereal dark reaper silhouette, flowing tattered robes, skull-scythe and arid desert environment. Use the second multi-view character sheet as exact appearance lock for the muscular tribal warrior (mask, red cape, yellow tattered bone-adorned skirt, dreadlocks, scarred body, barefoot).
+
+0-4s: [Extreme Wide Crash-In] Instant violent collision. Warrior explodes forward through dense dust cloud, red cape whipping. Reaper swings massive scythe in wide horizontal arc. Impact detonates shockwave of sand and embers. No pause.
+
+4-8s: [Dynamic Low Tracking] Rapid exchange. Warrior ducks under scythe, delivers spinning elbow to reaper’s ribs, then upward knee. Reaper phases partially, reforms mid-strike, counters with spectral claw rake across warrior’s chest. Fabric and ash particles explode outward.
+
+8-13s: [Orbiting Medium + Dutch Angle] Acrobatic mid-air clash. Warrior vaults off scythe shaft, red cape fully extended, lands dual-fist hammer blow to reaper’s hood. Reaper retaliates with vertical scythe slam that cracks the ground; warrior rolls, rises into spinning back-kick that shreds more robe into black ribbons.
+
+13-18s: [Handheld Close Combat Frenzy] Brutal ground scramble. Warrior grapples the scythe pole, headbutts the mask, then rips free and unleashes three distinct strikes: upward palm, horizontal elbow, downward axe-kick. Reaper absorbs then unleashes tendril-whip of shadow that lashes warrior’s back, drawing blood and dust.
+
+18-23s: [Slow-Motion Impact Montage] Escalating power. Warrior catches scythe mid-swing, twists, drives knee into reaper’s midsection twice, then spinning heel kick that sends the figure airborne. Reaper crashes down in explosion of ash and sand, robes half-dissolved. Warrior advances without mercy.
+
+23-28s: [Wide to Tight Push-In] Finishing sequence. Warrior seizes the collapsing reaper by the remaining hood, delivers a savage rising uppercut followed by a final two-handed overhead smash. Reaper’s entire form shatters into swirling black ash and ember particles that scatter across the desert floor. Warrior stands over the dissipating cloud, breathing hard.
+
+28-30s: [Hard Cut Reverse Extreme Close-Up] Blurred warrior fills foreground, chest heaving, sweat and dust streaking his mask, mouth open in ragged breath. Sharp deep background: the dark figure slowly reconstitutes from residual ash, scythe reforming in hand, rising and stalking forward with predatory stillness.
+
+Photorealistic, ultra-detailed fabric physics and particle simulation, perfect motion blur, volumetric haze at maximum density, coherent anatomy and proportions, stable character consistency, cinematic color grade, movie-level VFX polish.
+
+Hope you like it! 🫡
+```
+
+</details>
+
+<a id="seedance-baby-dragon-sneeze-cabin-fire"></a>
+### Baby Dragon Sneezes Fire in Winter Cabin
+
+<a href="https://x.com/Alina_with_Ai/status/2108875306144813134"><img src="previews/seedance-baby-dragon-sneeze-cabin-fire.jpg" width="360"></a>
+
+The prompt splits 25 seconds into four timed scenes, each with its own shot size and one clear action beat. A blue to amber color shift tracks the fire lighting up, and the sound design and a negative prompt keep the creature consistent.
+
+Seedance 2.5 · Text-to-video · Source: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2108875306144813134) · 833 likes on 2026-10-27
+
+[`fantasy`](#tag-fantasy) [`creature`](#tag-creature) [`multi-shot`](#tag-multi-shot) [`cinematic`](#tag-cinematic) [`sound-design`](#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+CINEMATIC FANTASY | THE BABY DRAGON
+
+Format: 16:9 | Duration: 25 seconds | Photorealistic CGI
+
+Scene & Atmosphere:
+
+Create a breathtaking, cinematic fantasy short set inside a cozy medieval winter cabin. The interior features dark, rough stone walls, a rustic wooden floor, a small frosted window overlooking a snowy pine forest, and an empty stone fireplace. Cold blue winter light filters through the window, creating a beautiful contrast with the warm golden glow that gradually fills the room. Use shallow depth of field, subtle handheld camera movement, realistic textures, fine film grain, and an intimate, heartwarming atmosphere.
+
+Main Characters:
+
+The Woman: A young woman with long, wavy dark brown hair, wearing a black wool cloak over a dark, rustic dress. She shivers from the freezing temperature, with her breath visible in the cold air. Her expressions are gentle, natural, and full of warmth.
+
+The Baby Dragon: An adorable, cat-sized baby dragon with pearly white and pale pink shimmering skin, enormous amber eyes, delicate frilly ears, translucent pink wings with intricate rose-colored veins, and a long, slender tail. Its movements are lifelike, innocent, playful, and emotionally expressive.
+
+Scene 1 | 0–6 Seconds: A Magical Encounter
+
+Begin with a cinematic wide shot of the freezing cabin. The woman sits beside the cold stone fireplace, hugging herself to keep warm. Her breath forms delicate clouds in the chilly air. A tiny baby dragon waddles across the wooden floor, its little tail trailing behind. It climbs beside the fireplace, and the woman gently strokes its head. The dragon looks up at her with curious, sparkling amber eyes.
+
+Scene 2 | 6–12 Seconds: The Tiny Sneeze
+
+Transition into an intimate close-up of the baby dragon's face. Its eyes slowly close, its tiny nostrils twitch, and it prepares to sneeze. A little puff of smoke escapes from its nose. The dragon opens its eyes in surprise, looking adorably confused and embarrassed. The woman smiles warmly, leans closer, and gently encourages it to try again. The dragon scrunches its face, preparing for another sneeze.
+
+Scene 3 | 12–17 Seconds: A Spark of Magic
+
+Capture a close two-shot as the baby dragon suddenly sneezes again. This time, a tiny burst of golden-orange flame shoots from its mouth and ignites the dry twigs inside the fireplace. The flames begin to dance, casting beautiful golden reflections across the stone walls. The woman bursts into joyful laughter, clasping her hands as the warm light illuminates her face. The baby dragon looks at the newly lit fire with pride and innocent amazement.
+
+Scene 4 | 17–25 Seconds: Warmth and Affection
+
+The cabin is now filled with a cozy, golden glow as the fire crackles gently. The woman carefully wraps the tiny dragon in a thick, soft sheepskin fur. The dragon climbs into her lap, curls up comfortably, and nuzzles against her cheek. End with an emotional cinematic close-up of the woman gently touching her forehead to the dragon's snout while stroking its tiny head. The dragon purrs softly as they share a tender moment beside the glowing fireplace.
+
+Cinematic Style & Sound Design:
+
+Ultra-realistic live-action aesthetic with photorealistic CGI, detailed dragon skin, beautifully translucent wings, believable creature animation, expressive eyes, natural human movements, cinematic composition, soft volumetric lighting, realistic fire simulation, and smooth transitions. Begin with icy blue tones and gradually transition into rich amber and golden hues as the fireplace comes alive.
+
+Sound design includes howling winter wind outside, soft breathing, tiny dragon footsteps, a cute sneeze, a gentle burst of flame, crackling fire, and emotional piano accompanied by delicate orchestral strings during the final scene.
+
+Negative Prompt:
+
+No text, no watermark, no subtitles, no distorted faces, no extra limbs, no malformed wings, no unnatural movements, no flickering character designs, no inconsistent character appearance, no cartoon style, no plastic textures, no scary or aggressive dragon, no sudden scene changes, and no unrealistic lighting.
+```
+
+</details>
+
 <a id="seedance-mini-dv-coffee-asmr"></a>
 ### Mini DV coffee ASMR vlog
 
@@ -1925,6 +2763,57 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 </details>
 
+<a id="seedance-painted-flame-karate-kata-void"></a>
+### Painted Flame Karate Kata in Blue Void
+
+<a href="https://x.com/aimikoda/status/2110119492076404869"><img src="previews/seedance-painted-flame-karate-kata-void.jpg" width="360"></a>
+
+Two labeled references split identity from body, costume and effects, and a sixteen shot timeline gives each cut a time range, camera move and technique. Sound cues are tied to the cuts and an avoid list keeps the painted look free of glossy CG fire.
+
+Seedance 2.5 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2110119492076404869) · 802 likes on 2026-10-27
+
+[`martial-arts`](#tag-martial-arts) [`painterly`](#tag-painterly) [`multi-shot`](#tag-multi-shot) [`vertical`](#tag-vertical) [`sound-design`](#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+References:
+@[ref1]: The martial artist's face. Identity, dark tousled hair, eyes, and the look of the painted flame around her open hand.
+@[ref2]: Her body, costume, setting, and effects. Pale pink short-sleeve top, red wrist wraps and red sash, dark loose trousers, her low kneeling stance, the misty blue void with its dark floor, the looping pink ribbon arcs, and the spark burst.
+
+Visual style: Painterly digital illustration in motion: thick, loose brushstrokes and palette-knife texture, deep blue-teal shadows and haze, figures built from broad painted planes. Every effect is painted, not rendered: flame-like ribbons of orange, hot pink, and violet with white-hot cores, exactly as in @[ref1] and @[ref2].
+
+Avoid: No subtitles. No background music. No clean 3D particle fire, glossy CG effects, or lens-flare glare. No weapons or opponents.
+
+A solo karate kata in a misty blue void, where painted flame grows with every strike and ends in an explosive palm strike into the floor. Vertical 9:16 frame, real-time speed except one brief speed ramp at the final impact. She performs toward screen right, faces screen left after her turn, and faces the lens for the finale; the camera stays on the same side of her line. The flame starts in her right hand; after the first punch it ignites on whichever limb strikes, and each technique leaves its own shape. Warm colors stay on the effects; the setting stays blue-teal. Crackling flame, sharp whooshes, foot stamps, cloth snaps, breath, one kiai, and heavy impact thuds land on the cuts.
+
+Scene 1: Continuous, the misty blue void, its dark floor dusted pale blue.
+Shot 1 (0-2s): [Extreme close-up on her eyes, slow push in] Stillness. A single ember drifts across her face as she breathes in. Cut on a sharp inhale.
+Shot 2 (2-4s): [Close-up on her right hand, low angle, quick push toward the lens] Her open right hand thrusts at the lens in teisho-uchi, fingers spread as in @[ref1]. Painted flame ignites in the palm and curls up her forearm. Cut as the flame flares.
+
+Scene 2: Continuous, the first form.
+Shot 3 (4-6s): [Low wide, fast lateral track] She steps into zenkutsu-dachi and drives a right oi-zuki toward screen right; the flame stretches behind her fist in one long straight ribbon. Cut as the punch locks out.
+Shot 4 (6-7s): [Tight side view at waist height] A left gyaku-zuki snaps out past the retracting right fist, and the flame catches on her left fist too. Cut as it locks out.
+Shot 5 (7-9s): [Medium, camera whipping around to face her] Her right mae-geri kicks straight at the lens, flame fanning off the foot in a short burst. Cut as the kick retracts.
+Shot 6 (9-10s): [Ground level, close on her feet] The kicking foot stamps down, throwing a ring of pale blue dust and orange sparks. Cut as she pivots.
+Shot 7 (10-13s): [Orbiting camera with a whip pan] She turns 180 degrees through a right, then left shuto-uke, and her burning hands wrap her in looping pink ribbon arcs as in @[ref2]. She now faces screen left. Cut as the arcs close.
+
+Scene 3: Continuous, the pause and the escalation.
+Shot 8 (13-15s): [Low frontal medium, locked] She sinks into kiba-dachi, both fists drawn to her hips. The flames shrink into tight glowing cores in her fists and the dust settles; only her breath is heard. Cut on a sharp exhale.
+Shot 9 (15-16s): [Snap zoom into her face] Her kiai rings out, flame reflected in her eyes, hair whipping. Cut at the peak of the shout.
+Shot 10 (16-18s): [Low wide] She explodes into ushiro-mawashi-geri, the burning heel drawing one full ring of fire around her. Cut as the ring closes.
+Shot 11 (18-19s): [Close tracking on her right fist] An uraken-uchi snaps through the frame toward screen left, its trail cracking like a whip. Cut on the snap.
+Shot 12 (19-20s): [Medium from behind her shoulder] Her right empi-uchi drives toward screen left, a short burst flaring off the elbow. Cut as the elbow locks.
+Shot 13 (20-22s): [Low angle, camera rising] She crouches and launches into nidan-geri, a spiral of flame climbing around her through both kicks. Cut at the apex.
+
+Scene 4: Continuous, the finale.
+Shot 14 (22-24s): [High angle, camera diving down with her] She descends from the apex, turning to face the lens, and drops onto one knee, right palm driving toward the floor. Cut just before contact.
+Shot 15 (24-25s): [Ground-level close-up] Her right teisho-uchi hits the floor: a white-hot core flashes and erupts into orange sparks, pink paint flecks, and lifted blue dust, as in @[ref2], with a brief speed ramp at contact. Cut at the peak of the burst.
+Shot 16 (25-30s): [Low frontal wide, slow push in to medium] She holds the low kneeling stance from @[ref2] as the burst's ribbons settle into drifting embers and fade. She raises her eyes to the lens and holds.
+```
+
+</details>
+
 <a id="seedance-dragon-hatchlings-dungeon"></a>
 ### Hiding three dragon hatchlings from a hunter
 
@@ -1954,6 +2843,85 @@ A dark, emotionally charged medieval fantasy drama, cinematic 16:9 widescreen fo
 **Scene 6 (45–55s):** Hard cut to a shadowy stone corridor elsewhere in the same fortress/castle. A stern, heavyset older man dressed in dark, heavy medieval robes strides purposefully down the corridor, a large lit torch held firmly in one hand, flames casting flickering, dangerous light across ancient carved stone walls. His expression is grim, suspicious, and resolute as he approaches a heavy iron-banded wooden door — the entrance to the dungeon where the woman and dragons are hiding. Low-angle, slightly ominous camera framing builds mounting dread and tension, the gap between pursuer and protector closing with every step.
 
 **Overall tone and continuity:** A visceral, high-stakes escalation of the established dark-fantasy saga — shifting from tender nurturing (birth, feeding, warmth) toward active danger and sacrifice, as the same woman now harbors not one but three dragon hatchlings and must risk everything to keep them hidden from a clearly hostile authority figure. Visual and character continuity fully maintained: same actress/character design, same practical-effect creature rendering (wet-look skin on younger dragons, fine scale and frill texture, anatomically grounded proportions), same desaturated cold-exterior/warm-interior lighting philosophy established in prior installments. Sound design implied: distant echoing footsteps, crackling torch flame, soft dragon chirps, the woman's held breath. Aspect ratio 16:9, prestige-drama cinematography, emotionally driven pacing building toward confrontation.
+```
+
+</details>
+
+<a id="seedance-airport-immigration-makeup-wipe"></a>
+### Airport immigration makeup wipe comedy in twelve shots
+
+<a href="https://x.com/ElsaSofia__AI/status/2107290801017704458"><img src="previews/seedance-airport-immigration-makeup-wipe.jpg" width="360"></a>
+
+A character block repeated in every part locks faces, outfits and location, and the 12 shots carry exact timestamps and panel labels. Each shot states framing and camera behavior, and a master effects list plus an energy arc keep the 30 second real time pacing.
+
+Seedance 2.5 · Text-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2107290801017704458) · 740 likes on 2026-10-27
+
+[`multi-shot`](#tag-multi-shot) [`comedy`](#tag-comedy) [`close-up`](#tag-close-up) [`timestamped`](#tag-timestamped) [`character-consistency`](#tag-character-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+VIDEO PROMPT — 30 seconds total, 16:9, live-action cinematic realism, soft natural airport light, shallow depth of field, clean commercial look. Comedic drama, played straight. Keep the same faces, outfits and location in every shot. NO slow motion anywhere, everything runs in REAL TIME.
+
+CHARACTERS (repeat in every part)
+HEROINE: young Korean woman in her 20s, long wavy black hair, porcelain skin. FULL GLAM makeup at first: gold shimmer eyeshadow, long dramatic false lashes, pink blush, glossy rose lips. Wears a sheer dark-brown mesh long-sleeve top over a black bandeau, with a thin gold-chain crossbody bag strap. In the walking shot she also wears a denim mini skirt, black ankle boots, and pulls a pink rolling suitcase.
+OFFICER: Korean woman in her 40s, dark hair pulled back tight, strict calm face, navy uniform jacket with a red-white-navy striped scarf.
+PASSPORT: dark-blue Korean passport. The photo page shows the heroine's BARE-FACED, tired, messy-haired ID photo, with Korean text and a small blue flag icon.
+LOCATION: Korean international airport immigration hall — shiny marble floor, rows of small round ceiling lights, beige columns, blue digital signs, travelers with suitcases walking in the background.
+
+===== PART 1 (0:00-0:13) =====
+
+SHOT 1 (00:00-00:02.2) — Counter Wide [Panel 1]
+Front-facing medium-wide, eye level. The heroine stands behind the immigration counter, one hand on her hip, then takes the blue passport from her bag and places it on the counter edge. Travelers walk in the blurred background. Camera static.
+
+SHOT 2 (00:02.2-00:04.6) — Passport POV [Panel 2]
+Over-the-counter POV close-up of the officer's hands picking up the passport, turning it, then opening it to the photo page with her thumb. The bare-faced ID photo is clearly readable. Camera static, shallow depth of field.
+
+SHOT 3 (00:04.6-00:06.6) — Suspicious Finger [Panel 3]
+Medium shot over the officer's shoulder (back of her head on the right). The officer points a finger at the heroine's face and moves it up and down as if comparing. The heroine looks uneasy with a small frown. Airport counters blurred behind.
+
+SHOT 4 (00:06.6-00:10.2) — Eyelash Peel [Panel 4]
+Extreme close-up of the heroine's glam face looking straight into the camera. Her fingers pinch the false lash and she slowly peels it off, holding it between her fingertips. Camera static.
+
+SHOT 5 (00:10.2-00:12.9) — Face-Off Two-Shot [Panel 5]
+Medium close-up: the heroine's face on the left, the officer's face in sharp profile on the right, very close, staring at her. The heroine looks back with a stiff blank expression, then purses her lips.
+
+===== PART 2 (0:13-0:22) =====
+
+SHOT 6 (00:13.0-00:14.0) — Wipe Out [Panel 6]
+Close-up, airport lights blurred into soft bokeh behind her. The heroine pouts, takes out a white wet makeup wipe, and unfolds it with both hands.
+
+SHOT 7 (00:14.0-00:19.0) — Makeup Removal [Panel 7]
+Same close-up. She presses the wipe over her eyes, then wipes her cheeks and lips with both hands, eyes closed. At the end she lowers the wipe to reveal a fresh, bare, natural face and looks calmly into the camera.
+
+SHOT 8 (00:19.0-00:20.6) — Officer Verdict [Panel 8]
+Medium close-up of the officer, blurred teal-grey wall behind her. She looks down at the passport, then up at the heroine, and breaks into a satisfied small smile.
+
+SHOT 9 (00:20.6-00:22.0) — The Stamp [Panel 9]
+Close-up of the open passport on the counter. The officer's hand brings down a black-and-red rubber stamp onto the photo page and lifts it, leaving a round red stamp mark. Camera static.
+
+===== PART 3 (0:22-0:30) =====
+
+SHOT 10 (00:22.0-00:25.2) — Passport Returned [Panel 10]
+Back to the opening wide shot. The heroine now has full glam makeup again. The officer's hand slides the passport across the counter. She picks it up and holds it with both hands at chest height, looking down at it, then glances toward the camera.
+
+SHOT 11 (00:25.2-00:27.0) — Walk Away
+Rear tracking shot: the heroine walks away through the terminal in denim mini skirt and black boots, pulling the pink suitcase. Travelers cross in the background, blue digital signs glow. Camera follows at eye level.
+
+SHOT 12 (00:27.0-00:30.4) — Final Pout [Panel 11-12]
+Close-up: she looks back over her shoulder, then turns to face the camera. She pouts, scrunches her face and squints in cute annoyance, then returns to a flat pout. Blurred airport behind. Hold, then end.
+
+MASTER EFFECTS INVENTORY
+1. Eyelash peel close-up (Shot 4).
+2. Makeup wipe transformation: glam to bare face (Shots 6-7).
+3. Over-the-shoulder suspicion framing (Shots 3, 5).
+4. Passport insert close-ups and stamp (Shots 2, 9).
+5. Shallow depth-of-field bokeh throughout.
+
+ENERGY ARC
+Part 1 (0-13s): tension, suspicion.
+Part 2 (13-22s): transformation, then relief.
+Part 3 (22-30s): she walks off, final grumpy pout.
 ```
 
 </details>
@@ -2108,6 +3076,168 @@ Sound: impact thuds, fabric whooshes, shoes squeaking on tile, clattering pots a
 
 <a id="geminiomniflash"></a>
 ## Gemini Omni Flash
+
+<a id="omni-photo-bird-jumps-onto-hand"></a>
+### Bird leaps from laptop photo onto hand
+
+<a href="https://x.com/alexanderchen/status/2060322611586834518"><img src="previews/omni-photo-bird-jumps-onto-hand.jpg" width="360"></a>
+
+The prompt first locks the screen content to match the source video, then describes one continuous action in order: head turn, leaving the photo, landing on the hand. A real filmed setup gives the effect a physical anchor.
+
+Gemini Omni Flash · Video edit · Source: [@alexanderchen on X](https://x.com/alexanderchen/status/2060322611586834518) · 1,385 likes on 2026-10-27
+
+[`photo-to-life`](#tag-photo-to-life) [`animal`](#tag-animal) [`screen-breakout`](#tag-screen-breakout) [`live-action`](#tag-live-action)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Start with the computer screen content exactly the same as in the video. Make the bird come to life, turning head, leaving the photo and jumping onto the person's hand.
+```
+
+</details>
+
+<a id="omni-word-by-word-kinetic-text-sizzle"></a>
+### Glossy 3D words appearing one at a time
+
+<a href="https://x.com/Google/status/2062925430290526486"><img src="previews/omni-word-by-word-kinetic-text-sizzle.jpg" width="360"></a>
+
+The exact word sequence is spelled out, with one word on screen at a time. Asking for a different animated style per word and pacing to a rhythm gives the model clear control over timing and text motion.
+
+Gemini Omni Flash · Text-to-video · Source: [@Google on X](https://x.com/Google/status/2062925430290526486) · 1,219 likes on 2026-10-27
+
+[`kinetic-typography`](#tag-kinetic-typography) [`text-rendering`](#tag-text-rendering) [`sizzle-reel`](#tag-sizzle-reel) [`motion-graphics`](#tag-motion-graphics)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Beyond just rendering text, Gemini Omni actively syncs your text with the onscreen action.
+
+It draws on Gemini's knowledge to connect language, imagery and meaning to turn complex ideas into compelling visuals. 💬
+
+Prompt for this video: Add the word “SMILE” in bold white sans-serif typography across the nose of every inflatable shark, clean modern lettering naturally integrated into the glossy wet plastic surface, slightly curved and distorted by the inflatable shape while remaining crisp and readable during movement through the water slide. The text on the sharks must remain perfectly locked and tracked to each shark’s skin surface at all times, moving consistently with the body and rotating naturally with the sharks during the descent. Avoid flickering, sliding, jittering, duplicated characters, changing letter count, or distorted typography. Any existing text must remain stable, readable, and physically integrated into the shark skin texture, behaving like a natural marking rather than an added overlay. No text should appear or disappear mid-descent.
+```
+
+</details>
+
+<a id="omni-miniature-farmhouse-foundation-macro"></a>
+### Miniature farmhouse foundation built by giant hands
+
+<a href="https://x.com/Strength04_X/status/2085930145374966138"><img src="previews/omni-miniature-farmhouse-foundation-macro.jpg" width="360"></a>
+
+The prompt lists concrete miniature materials and tools, then states the construction stage and the empty pool area, so the model knows what is built and what is not. Macro lens, shallow depth of field and giant hands against tiny objects set the scale contrast.
+
+Gemini Omni Flash · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2085930145374966138) · 1,205 likes on 2026-10-27
+
+[`miniature`](#tag-miniature) [`macro`](#tag-macro) [`construction`](#tag-construction) [`hands`](#tag-hands) [`photorealistic`](#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Hyper-realistic miniature luxury farmhouse construction site at the very first stage of construction, viewed through cinematic macro photography. A small rectangular foundation area partially prepared on natural brown sand and compact soil, realistic miniature construction materials scattered naturally around the site, tiny red bricks, miniature cement bags, wooden beams, gravel, sand piles, metal rods, tiny buckets, miniature trowel, measuring tape, spirit level and other authentic construction tools. Giant human fingers and realistic human hands carefully interacting with the miniature materials, positioning the first construction pieces. The future farmhouse footprint clearly visible but construction has only just begun, with no completed walls or roof. Subtle markings and foundation trenches visible in the soil. A small empty area beside the foundation reserved for a future swimming pool. Extremely realistic material scale, authentic construction imperfections, tiny dust particles, cement residue, fingerprints, rough brick texture and granular soil detail. Professional miniature craftsmanship, photorealistic 8K detail, cinematic studio lighting, realistic soft shadows, shallow depth of field, strong foreground-to-background scale contrast, sharp focus on construction area, premium macro lens photography, realistic bokeh, natural color reproduction, high dynamic range, tactile textures, physically accurate lighting, believable human-to-miniature scale, no cartoon appearance, no CGI look, no text, no watermark.
+```
+
+</details>
+
+<a id="omni-commercial-storyboard-board-kitchen-pan"></a>
+### Kitchen frying pan from a commercial storyboard
+
+<a href="https://x.com/Strength04_X/status/2078516405251801458"><img src="previews/omni-commercial-storyboard-board-kitchen-pan.jpg" width="360"></a>
+
+A structured prompt written as labeled sections (format, header, panel layout, photography style, footer) makes GPT Image 2 produce an eight frame storyboard board. That board then serves as the visual reference that Gemini Omni Flash animates into a product shot.
+
+Gemini Omni Flash · Image-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2078516405251801458) · 589 likes on 2026-10-27
+
+[`storyboard`](#tag-storyboard) [`product-shot`](#tag-product-shot) [`commercial`](#tag-commercial) [`kitchen`](#tag-kitchen) [`gpt-image-workflow`](#tag-gpt-image-workflow)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+TITLE: Premium Commercial Storyboard Presentation
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury advertising agency presentation board
+• Client-ready storyboard layout
+• 8 storyboard frames
+• Editorial Swiss grid system
+• High-end presentation quality
+• Print-ready infographic
+
+HEADER:
+• Large elegant serif title
+• Premium minimalist information bar
+• Information cards:
+  - Duration
+  - Style
+  - Audience
+  - Audio Suggestion
+• Rounded "Why This Style Works" section
+• Gold decorative doodles, stars, sparkles, hearts
+• Soft cream luxury background
+• Thin beige border
+• Clean editorial spacing
+
+STORYBOARD LAYOUT:
+• 8 equal storyboard panels
+• 2 rows × 4 columns
+• Rounded white cards
+• Soft realistic shadows
+• Perfect alignment
+• Equal margins
+• Professional grid layout
+• Large cinematic image in upper section
+• Information block below image
+
+EVERY STORYBOARD PANEL INCLUDES:
+• Scene number inside white outlined circle
+• Duration badge in top-right corner
+• Large commercial-quality photograph
+• Sections:
+  - Visual
+  - Action
+  - Dialogue
+• Bold section titles
+• Perfect typography hierarchy
+• Consistent spacing
+• Premium card design
+
+PHOTOGRAPHY STYLE:
+• Ultra realistic commercial photography
+• Cinematic product shots
+• Natural daylight
+• Soft warm lighting
+• Luxury advertising look
+• Shallow depth of field
+• Smooth background bokeh
+• High-end product styling
+• Professional color grading
+• DSLR quality
+• Premium lifestyle photography
+
+GRAPHIC STYLE:
+• Apple keynote presentation aesthetic
+• Behance showcase quality
+• Modern editorial magazine design
+• Premium infographic
+• Clean UI composition
+• Luxury branding
+• Elegant typography
+• Minimalist design language
+• Print-quality layout
+
+FOOTER:
+• Total Duration
+• Format
+• Visual Style
+• Minimal line icons
+• Premium editorial finish
+
+QUALITY:
+Ultra detailed, 8K, razor sharp, perfectly aligned, symmetrical composition, luxury commercial presentation, agency-quality storyboard, realistic textures, flawless typography, premium client presentation.
+```
+
+</details>
 
 <a id="omni-astronaut-three-swaps"></a>
 ### Ships to origami, astronaut to anemone, ships to stingrays
@@ -2376,6 +3506,268 @@ word by word, one word on a the screen at a time: did, you, know, that, this, mo
 
 <a id="kling30"></a>
 ## Kling 3.0
+
+<a id="kling-vintage-watch-macro"></a>
+### Macro shot of a vintage wristwatch between fingers
+
+<a href="https://x.com/higgsfield_ai/status/2019088049448362164"><img src="previews/kling-vintage-watch-macro.jpg" width="360"></a>
+
+The prompt fixes the camera distance in inches and lists concrete surface details such as dust, micro scratches and patina, so the model holds texture. A single warm grazing key light, a shallow depth of field and one small motion, the second hand, keep the shot stable.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019088049448362164) · 2,534 likes on 2026-10-27
+
+[`macro`](#tag-macro) [`product-shot`](#tag-product-shot) [`shallow-depth-of-field`](#tag-shallow-depth-of-field) [`moody-lighting`](#tag-moody-lighting) [`cinematic`](#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic cinematic macro shot of a vintage wristwatch held between two fingers, extreme close-up framing focused on the watch face and crystal, with the camera positioned inches away to reveal fine dust particles, micro scratches on the glass, worn metal edges, engraved numerals, and subtle patina on the hands. Shallow depth of field isolates the dial while the background dissolves into soft, dark bokeh. The lighting is moody and directional, a single warm key light grazing the surface to create delicate reflections along the curved crystal and metallic rim, emphasizing texture and age. The second hand moves subtly, creating a sense of quiet tension and time passing. Skin texture of the fingers is visible at the edges of the frame, slightly out of focus, adding scale and realism. High contrast, cinematic color grading, soft film grain, precise focus breathing, and a tactile, intimate macro perspective that feels handcrafted and timeless.
+```
+
+</details>
+
+<a id="kling-basketball-backflip-dunk-court"></a>
+### Basketball player backflip dunk on outdoor court
+
+<a href="https://x.com/higgsfield_ai/status/2019083976682684558"><img src="previews/kling-basketball-backflip-dunk-court.jpg" width="360"></a>
+
+The prompt splits one action into four numbered shots (dribble, jump, mid-air flip, dunk), each with its own shot size and angle. Low angles and a slow-motion close-up on the flip give Kling's physics a clear beat to simulate.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019083976682684558) · 2,533 likes on 2026-10-27
+
+[`multi-shot`](#tag-multi-shot) [`sports`](#tag-sports) [`basketball`](#tag-basketball) [`low-angle`](#tag-low-angle) [`physics`](#tag-physics)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Shot 1: A side profile, medium shot of a muscular African American man in athletic wear, intensely dribbling a basketball on an outdoor concrete court towards a hoop against a high white wall under a bright blue sky.
+Shot 2: A dynamic, low-angle wide shot showing the man jumping remarkably high into the air, performing a backflip while holding the basketball, with the white wall and sky in the background.
+Shot 3: A close-up, slow-motion shot of the man mid-air and upside down during his flip, showing his focused expression and the basketball held firmly in his hands against the sky.
+Shot 4: A dramatic, low-angle shot focusing on the basketball hoop as the man, still upside down from his acrobatic jump, powerfully dunks the ball into the net.
+```
+
+</details>
+
+<a id="kling-night-courtyard-katana-six-shots"></a>
+### Woman slices wooden dummy in night courtyard
+
+<a href="https://x.com/higgsfield_ai/status/2019104313302569185"><img src="previews/kling-night-courtyard-katana-six-shots.jpg" width="360"></a>
+
+Six numbered shots, each with its own framing, move a single scene from a macro mouth detail through wide action to a closing portrait. Naming the camera angle and the physical effect per shot, such as flying wood splinters and dust, gives the model clear impact beats.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019104313302569185) · 2,473 likes on 2026-10-27
+
+[`multi-shot`](#tag-multi-shot) [`action`](#tag-action) [`katana`](#tag-katana) [`macro`](#tag-macro) [`night`](#tag-night)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Shot 1: An extreme close-up of a young woman's mouth, her teeth clenched on a wooden toothpick, creating a tense and gritty atmosphere.
+Shot 2: A medium shot of the woman in a traditional Japanese-style courtyard at night, illuminated by soft lanterns. She is dressed in a white tank top and dark trousers, holding a katana in a defensive stance with a determined look on her face.
+Shot 3: A dynamic, low-angle action shot of the woman jumping high into the air, raising her katana to strike a wooden training dummy that resembles a samurai in armor.
+Shot 4: A close-up, high-speed impact shot showing the woman’s katana slicing through the wooden dummy, sending wood splinters and dust flying into the air.
+Shot 5: A fast-paced tracking shot of the woman landing gracefully and immediately striking another wooden structure, demonstrating her speed and precision.
+Shot 6: A final medium close-up of the woman’s face as she finishes her move. She is slightly breathless, her hair disheveled, with a sharp, focused gaze directed off-camera.
+```
+
+</details>
+
+<a id="kling-eagle-pov-steppe-flight"></a>
+### Golden eagle POV flight over mountain valleys
+
+<a href="https://x.com/higgsfield_ai/status/2019090635408744851"><img src="previews/kling-eagle-pov-steppe-flight.jpg" width="360"></a>
+
+The camera is locked to the eagle's head, with wing and feather edges kept in frame as a stable anchor. Ground parallax cues (rivers, valleys, peaks) and the constraints on jitter, motion blur and cuts keep the flight physically coherent in one continuous shot.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019090635408744851) · 2,454 likes on 2026-10-27
+
+[`pov`](#tag-pov) [`aerial`](#tag-aerial) [`wildlife`](#tag-wildlife) [`tracking-shot`](#tag-tracking-shot) [`landscape`](#tag-landscape)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+POV flight from a golden eagle soaring over vast mountainous steppe landscapes. Camera locked to the eagle’s head with clean, precise tracking — stable forward motion, no jitter. The eagle actively flaps its wings, powerful wingbeats transitioning into smooth gliding. Wings and feathers visible at the frame edges, moving naturally in rhythm. Strong ground parallax below: winding rivers, open valleys, rocky peaks. Bright late-afternoon light, crisp air, subtle lens flare. Ultra-wide cinematic perspective, natural motion blur from speed only, realistic flight physics, continuous shot, no cuts.
+```
+
+</details>
+
+<a id="kling-turntable-needle-macro-pushin"></a>
+### Turntable Push-In to Stylus Needle Macro
+
+<a href="https://x.com/higgsfield_ai/status/2019101323317375400"><img src="previews/kling-turntable-needle-macro-pushin.jpg" width="360"></a>
+
+Starts from a given frame and runs one continuous take. A rigid bolt-mounted push-in locks onto the needle tip, and the prompt lists macro details, dominant sound design and explicit camera rules.
+
+Kling 3.0 · Image-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019101323317375400) · 2,357 likes on 2026-10-27
+
+[`macro`](#tag-macro) [`single-take`](#tag-single-take) [`sound-design`](#tag-sound-design) [`push-in`](#tag-push-in) [`analog`](#tag-analog)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the provided image as the exact starting frame.
+Cinematic video, single continuous shot, duration 5–7 seconds.
+Single take. No cuts. No transitions.
+CAMERA & ACTION (CONTINUOUS MOTION)
+The camera starts static, framing a turntable in warm analog studio light.
+A human hand lowers the tonearm onto a spinning vinyl record.
+The record begins rotating smoothly. Immediately after contact, the camera accelerates forward in one continuous movement, a fast, rigid robot-bolt push-in directly toward the stylus needle. No easing. No cinematic zoom. Pure mechanical forward motion. As the camera reaches extreme macro distance, it locks onto the needle tip, as if physically bolted to it, without any cut. From this moment on, the camera moves together with the needle, perfectly synchronized.
+
+MACRO DETAIL (SAME SHOT)
+Extreme macro view shows:
+Stylus tip vibrating microscopically
+Vinyl grooves flowing beneath
+Dust particles, micro scratches, groove texture
+Subtle vertical and lateral needle movement, physically accurate
+The camera remains rigidly attached, only tiny micro-vibrations from groove friction.
+
+SOUND DESIGN (DOMINANT, CONTINUOUS)
+Sound is uninterrupted and dominant:
+Needle drop click
+Loud, authentic vinyl crackle and hiss
+Stylus-on-groove friction
+Low mechanical hum of the turntable
+No music clarity at first — raw analog texture only.
+No score. No digital effects.
+
+VISUAL STYLE
+Extreme macro cinematography
+Ultra-shallow depth of field
+Warm analog color grading
+Natural reflections on vinyl
+Subtle film grain
+
+CAMERA RULES
+One continuous take
+No cuts, no edits, no montage
+No handheld shake
+No floating camera
+Robo-cam, bolt-mounted feel only
+
+END FRAME
+Camera stays locked to the needle,
+vinyl spinning endlessly beneath it,
+hypnotic, mechanical, intimate.
+```
+
+</details>
+
+<a id="kling-manhattan-panic-nine-shot-sequence"></a>
+### Panicked woman in striped robe on Manhattan street
+
+<a href="https://x.com/higgsfield_ai/status/2019314800409600470"><img src="previews/kling-manhattan-panic-nine-shot-sequence.jpg" width="360"></a>
+
+Each shot gets its own number, with a stated shot size, lens behavior and one concrete action. Cutaways to macro details and a contrasting calm scene build rhythm, and the character's look is repeated so she stays consistent across shots.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019314800409600470) · 622 likes on 2026-10-27
+
+[`multi-shot`](#tag-multi-shot) [`cinematic`](#tag-cinematic) [`handheld`](#tag-handheld) [`macro`](#tag-macro) [`city`](#tag-city)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Shot 1: High-intensity handheld tracking shot. A young woman with disheveled blonde hair, wearing a white tank top under a vibrant red and blue vertical-striped silk robe, bursts out of a shadowy alleyway. Her face is a mask of pure panic as she stumbles onto a sun-drenched Manhattan sidewalk, the camera shaking to mirror her frantic movements.
+
+Shot 2: Medium shot, shallow depth of field. A middle-aged businessman in a charcoal suit and navy tie stands amidst a sea of pedestrians. He checks his silver watch with a sharp, rhythmic jerk of his wrist, his brow furrowed in annoyance. The background is a blur of yellow taxis and the towering architecture of 5th Avenue.
+
+Shot 3: Extreme macro photography. The camera focus is locked onto the tip of a silver watch hand as it clicks forward. Microscopic dust motes dance in the harsh sunlight reflecting off the brushed metal surface of the dial.
+
+Shot 4: Low-angle medium shot. Rapid-fire motion of a street drummer’s hands hitting a series of weathered white plastic buckets. The wooden drumsticks are a blur of motion, and the camera captures the vibration of the plastic lids as the city crowd flows past in a time-lapse-like stream.
+
+Shot 5: Low-angle medium shot. The woman in the striped robe has stopped running; she is hunched over, hands on her knees, gasping for breath. The camera remains low, making the surrounding skyscrapers feel like they are closing in on her as she looks around, disoriented.
+
+Shot 6: Macro close-up, high contrast. A man’s stubbled face as he inhales from a cigarette. The paper crinkles and the tobacco glows a fierce, molten orange before instantly turning into a delicate, flaky grey ash that threatens to fall.
+
+Shot 7: Extreme close-up of the woman's face, focusing on her piercing blue eyes. Her pupils are dilated, and her forehead is deeply wrinkled with anxiety. The reflection of the busy street and moving vehicles can be seen glinting in her irises.
+
+Shot 8: Medium-wide lifestyle shot. Two young Asian women walk across a city crosswalk, bathed in warm afternoon "golden hour" light. They are laughing and talking, creating a sharp emotional contrast to the previous shots of distress.
+
+Shot 9: Final tight close-up. The blonde woman stares directly into the lens, her expression shifting from confusion to absolute shock. She slowly brings her hand up, her fingers trembling, to cover her mouth as her eyes well up with fear.
+```
+
+</details>
+
+<a id="kling-paper-bag-locked-tracking"></a>
+### Low angle tracking shot locked on paper bag
+
+<a href="https://x.com/higgsfield_ai/status/2019304424297177558"><img src="previews/kling-paper-bag-locked-tracking.jpg" width="360"></a>
+
+The prompt names one anchor object and states that the camera is rigidly locked to it, so the subject stays centered while the background streams past. Concrete motion and texture cues such as pumping arm, whitening knuckles and vibrating paper tie the subject's movement to the shot.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019304424297177558) · 554 likes on 2026-10-27
+
+[`tracking-shot`](#tag-tracking-shot) [`locked-camera`](#tag-locked-camera) [`low-angle`](#tag-low-angle) [`wide-angle`](#tag-wide-angle) [`action`](#tag-action)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Low-angle wide-angle tracking shot focused on a crumpled brown paper bag held tightly in a man’s hand. The camera is rigidly locked to the bag with precise tracking — the bag stays centered and stable while the world rushes past. The man is running away from someone, sprinting forward; his arm pumps hard, aggressive vertical and lateral motion transferred directly to the bag. Strong grip, whitening knuckles, paper creasing and vibrating from speed.
+```
+
+</details>
+
+<a id="kling-billiard-ball-pov-pocket"></a>
+### Billiard ball POV rolling into corner pocket
+
+<a href="https://x.com/higgsfield_ai/status/2019253167662534748"><img src="previews/kling-billiard-ball-pov-pocket.jpg" width="360"></a>
+
+The prompt names an unusual camera identity, the ball itself, and splits the shot into strike, roll and drop beats. Low table level framing, motion blur, lamp light streaks and parallax from rails and background players keep the POV motion physical.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019253167662534748) · 449 likes on 2026-10-27
+
+[`pov`](#tag-pov) [`billiards`](#tag-billiards) [`tracking-shot`](#tag-tracking-shot) [`physics-motion`](#tag-physics-motion) [`ambient-sound`](#tag-ambient-sound)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+POV video from the perspective of a billiard ball on a pool table inside a dim, smoky billiard club. A focused male player leans in and strikes the ball with a cue. At the moment of impact, the camera becomes the ball, rolling straight toward a corner pocket across the green felt. Realistic rolling motion with subtle vibration and spin, low table-level angle, natural edge motion blur. Warm overhead lamps stretch into soft light streaks as the camera advances. Strong parallax as table rails and background players slide past. The pocket rapidly fills the frame — then the ball drops into the pocket, brief darkness, soft impact, and muffled ambient sound implied.
+```
+
+</details>
+
+<a id="kling-hotel-corridor-neon-fight"></a>
+### Hotel corridor fight under red neon lights
+
+<a href="https://x.com/higgsfield_ai/status/2019272810838061122"><img src="previews/kling-hotel-corridor-neon-fight.jpg" width="360"></a>
+
+The prompt sets the location and lighting first, then lists the action beats in order: stance, entrance from the right, block, grab, knee strike, push to the wall. A closing camera line asks for a steady tracking move that follows the action.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019272810838061122) · 445 likes on 2026-10-27
+
+[`action`](#tag-action) [`fight-scene`](#tag-fight-scene) [`neon`](#tag-neon) [`tracking-shot`](#tag-tracking-shot) [`multi-character`](#tag-multi-character)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A gritty, cinematic fight scene in a modern, dimly lit hotel corridor with grey concrete walls and dark wooden doors. The scene is illuminated by glowing red vertical neon lights.
+
+A man in a white dress shirt and black trousers is in a defensive stance over a person lying on the floor. Suddenly, an attacker enters from the right, swinging a wooden baseball bat. The man in the white shirt quickly blocks the strike, grabs the attacker, and delivers a powerful knee strike to the midsection before pushing him back against the wall. The camera follows the movement with a steady, high-tension tracking motion.
+```
+
+</details>
+
+<a id="kling-neon-nightclub-rain-dance"></a>
+### Woman dancing in neon nightclub and rain
+
+<a href="https://x.com/CaliraVal/status/2052314090467405869"><img src="previews/kling-neon-nightclub-rain-dance.jpg" width="360"></a>
+
+The prompt stacks subject, wardrobe, setting, lighting palette and camera moves in one dense paragraph. A separate negative list and a closing technical line for resolution, frame rate and grade keep the look consistent.
+
+Kling 3.0 · Text-to-video · Source: [@CaliraVal on X](https://x.com/CaliraVal/status/2052314090467405869) · 445 likes on 2026-10-27
+
+[`neon`](#tag-neon) [`nightclub`](#tag-nightclub) [`rain`](#tag-rain) [`slow-motion`](#tag-slow-motion) [`cinematic`](#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic ultra-realistic 4K music video scene of a beautiful young woman in a neon-lit nightclub and rainy retro city at night. Vibrant pink, purple, blue, and teal neon lighting creates a dreamy cyberpunk atmosphere. The woman has long wet dark hair, glowing natural makeup, and wears a stylish white top with a dark skirt and black heels. Emotional slow-motion shots of her dancing freely in heavy rain on wet reflective streets, surrounded by colorful neon signs, vintage American cars, retro diners, and blurred nightclub crowds. Smooth cinematic camera tracking, soft bokeh lights, realistic rain effects, glossy pavement reflections, dramatic Hollywood-style lighting, shallow depth of field, sensual emotional mood, highly detailed skin texture, cinematic storytelling, shot on a 35mm film look with premium color grading.
+
+low quality, blurry, distorted face, bad anatomy, extra fingers, extra limbs, cartoon, anime, oversaturated colors, noisy image, watermark, text, duplicate body, unrealistic eyes, glitch, low detail, poorly drawn hands
+
+4K Ultra HD, 16:9 aspect ratio, 24fps, cinematic realism style, smooth slow-motion camera movement, Hollywood lighting, ultra detailed quality, realistic rain simulation, cinematic neon color grading
+```
+
+</details>
 
 <a id="kling-baseball-bat-logo"></a>
 ### Logo on a baseball bat stays sharp through the swing
@@ -2692,6 +4084,89 @@ Outdoor terrace of a European villa, by a dining table with a blue and white che
 
 Inputs: [1](https://static-6.klingai-cdn-aws.com/kling-blog/file_by_url/1e8ad2ce90036c01aa7fe86c89178590aaf136880206c40d8fc0f99e68d93445.png)
 
+<a id="veo31"></a>
+## Veo 3.1
+
+<a id="veo-giant-girl-shibuya-crossing"></a>
+### Giant girl kneeling over a Tokyo crossing
+
+<a href="https://x.com/MrDavids1/status/1997581641892446293"><img src="previews/veo-giant-girl-shibuya-crossing.jpg" width="360"></a>
+
+A bracketed universal template fixes the camera angle, the giant's outfit, location and action, then adds tiny cars and people near the hands and feet to establish scale. Generate the still with Nano Banana Pro at 4K, then animate it with Veo 3.1 as image to video.
+
+Veo 3.1 · Image-to-video · Source: [@MrDavids1 on X](https://x.com/MrDavids1/status/1997581641892446293) · 3,040 likes on 2026-10-27
+
+[`giant`](#tag-giant) [`scale`](#tag-scale) [`cityscape`](#tag-cityscape) [`photorealistic`](#tag-photorealistic) [`template`](#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Here is a fun idea to try. You can create these images with giant people/animals using Nano Banana Pro. Just adjust the elements in brackets and have fun! If you have the option to generate at 4K, definitely use it as it makes the tiny people look crisper. These types of images seem to animate best with Veo 3.1 from testing, but you can try with Kling 2.6 or Grok Imagine as well so have some fun! Feel free to show me your giant humans/animals.
+
+🍌Universal Prompt: A highly detailed, photorealistic [CAMERA ANGLE, e.g., wide-angle shot, aerial shot looking down, extreme low-angle looking up] showing a colossal [DESCRIBE THE PERSON & CLOTHING] positioned in [SPECIFIC LOCATION/CITY/LANDSCAPE]. The giant is [ACTION -  INTERACTING WITH THE ENVIRONMENT, e.g., sitting on a building, stepping over a bridge]. To establish the immense scale, tiny [TINY ELEMENTS: PEOPLE, CARS, OR BOATS] are visible near their [FEET/HANDS]. The lighting is [TIME OF DAY, e.g., golden hour, midday sun].
+
+There are more visuals examples with prompts included in my 80 creative use cases document which you can view via this link completely for free. Look for use case 84.
+https://
+canva.com/design/DAG5ifq
+rYJc/BReEw-WwUMW9HmSJBHWBXQ/edit
+…
+```
+
+</details>
+
+<a id="veo-empty-room-loft-construction-timelapse"></a>
+### Empty room timelapse building a loft
+
+<a href="https://x.com/venturetwins/status/1992725268855968071"><img src="previews/veo-empty-room-loft-construction-timelapse.jpg" width="360"></a>
+
+Start and end frames, both made in Nano Banana Pro, fix the empty room and the finished design. The prompt only describes the fast motion construction between them, so Veo fills in the transformation.
+
+Veo 3.1 · First & last frame · Source: [@venturetwins on X](https://x.com/venturetwins/status/1992725268855968071) · 1,986 likes on 2026-10-27
+
+[`time-lapse`](#tag-time-lapse) [`interior-design`](#tag-interior-design) [`construction`](#tag-construction) [`start-end-frames`](#tag-start-end-frames) [`nano-banana-pro`](#tag-nano-banana-pro)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Did some experimenting and figured out the workflow for AI design transformations:
+
+Start with a base image of a room with no furniture. Then prompt on Nano Banana Pro to add what you'd like (e.g. a cool door frame, loft, or pool).
+
+Take to Veo 3.1 as your start and end frames.
+
+Prompt: "time lapse construction, fast motion as a construction workers bring a tree into the living room and then construct the loft and add the couch and lights."
+```
+
+</details>
+
+<a id="veo-golf-ball-tracking-storm-cliff"></a>
+### Golfer on stormy cliff, camera tracks ball
+
+<a href="https://x.com/Dheepanratnam/status/2032810971140420073"><img src="previews/veo-golf-ball-tracking-storm-cliff.jpg" width="360"></a>
+
+The prompt runs as a beat by beat sequence: swing, camera locks onto the ball, approach, then an extreme close up at the cup. It states the tracking behavior outright, with the ball sharp and centered while the background streaks, and adds sound cues like the crack of the club and howling wind.
+
+Veo 3.1 · Text-to-video · Source: [@Dheepanratnam on X](https://x.com/Dheepanratnam/status/2032810971140420073) · 666 likes on 2026-10-27
+
+[`sports`](#tag-sports) [`tracking-shot`](#tag-tracking-shot) [`storm`](#tag-storm) [`physics`](#tag-physics) [`ball-pov`](#tag-ball-pov)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+video 1 - veo3.1
+video 2 - Sora 2
+
+"A dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove.
+
+As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball into the stormy sky. The camera immediately accelerates and locks onto the golf ball mid-flight.
+
+The camera tracks directly behind the spinning sphere, maintaining perfect alignment as it cuts through the driving rain. The ocean waves and dark clouds become a streaking motion blur while the ball remains sharp and centered.
+
+The howling wind roars as the projectile travels straight and true. The manicured green grows rapidly larger. In the final seconds, the camera closes in tightly as the ball strikes the turf. End on an extreme close-up of the ball ripping through the wet grass, throwing up a spray of dirt before dropping perfectly into the cup."
+```
+
+</details>
+
 <a id="veo3"></a>
 ## Veo 3
 
@@ -2792,6 +4267,46 @@ A medium shot frames an old sailor, his knitted blue sailor hat casting a shadow
 
 <a id="sora2"></a>
 ## Sora 2
+
+<a id="sora-anime-cryo-awakening-forest"></a>
+### Anime woman wakes from cryosleep into forest
+
+<a href="https://x.com/EccentrismArt/status/1976308338230165942"><img src="previews/sora-anime-cryo-awakening-forest.jpg" width="360"></a>
+
+A style line up front sets the anime look, then timecoded Cut to beats every two seconds pin down each shot. Each beat names one action and one camera position, so the story moves from lab to ladder to forest.
+
+Sora 2 · Text-to-video · Source: [@EccentrismArt on X](https://x.com/EccentrismArt/status/1976308338230165942) · 2,957 likes on 2026-10-27
+
+[`anime`](#tag-anime) [`timecode`](#tag-timecode) [`multi-shot`](#tag-multi-shot) [`sci-fi`](#tag-sci-fi) [`storytelling`](#tag-storytelling)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Big budget anime movie with clean lines and smooth movements
+
+[00:00]
+The woman earring a short hospital gown suddenly wakes up in her cryogenic chamber with cold breath
+
+[00:02]
+Cut to she walks away from the cyrochamber looking around the lab with control consoles on the left
+
+[00:04]
+Cut to backside of the woman walking down a hallway at the end of the hallway is a black ladder mounted to the wall that leads up a vertical pathway with some light emitting down from led lights on the walls
+
+[00:06]
+Cut to Below the woman as she ascends up the black ladder and above her is a manhole cover with four small holes in it that has light shining through them
+
+[00:08]
+cut to the woman climbing out of a manhole in the middle of an overgrown forest
+
+[00:10]
+Cut to the woman amazed looking around the beautiful forest with fireflies and deer running past
+
+[00:12]
+Cut to wide shot of the large beautiful forest with destroyed city with overgrown plants all around it in the far background
+```
+
+</details>
 
 <a id="sora-fridge-monster"></a>
 ### A chubby purple monster comes out of the fridge
@@ -3390,6 +4905,45 @@ Portrait orientation, clean composition, premium art direction, no clutter, no b
 
 </details>
 
+<a id="gpt-image-pet-papercraft-cube-template"></a>
+### Highland cow papercraft cube toy template
+
+<a href="https://x.com/icreatelife/status/2101353488408006830"><img src="previews/gpt-image-pet-papercraft-cube-template.jpg" width="360"></a>
+
+The prompt fixes the source photo as the only reference for the animal and lists each flat piece with folds, tabs and cut edges. A closing list of things not to change keeps the animal's identity and fur texture intact.
+
+GPT Image 2.5 · Edit · Source: [@icreatelife on X](https://x.com/icreatelife/status/2101353488408006830) · 1,178 likes on 2026-10-27
+
+[`papercraft`](#tag-papercraft) [`cube-toy`](#tag-cube-toy) [`pet`](#tag-pet) [`template`](#tag-template) [`fur-texture`](#tag-fur-texture)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression.
+
+Transform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible.
+
+The printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet.
+
+Include:
+
+cube-shaped head with my pet’s real face on it
+
+cube-shaped body with realistic fur texture
+
+four legs matching my pet’s appearance
+
+ears with correct shape and inner ear details
+
+tail matching my pet’s size and color pattern
+
+Style: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper.
+
+Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model
+```
+
+</details>
+
 <a id="gpt-image-paper-texture-cover"></a>
 ### Photo to minimalist paper-textured art cover
 
@@ -3472,6 +5026,50 @@ Avoid
 - Too much text.
 
 Final Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-paper-illustration-split-poster"></a>
+### Lakeside Photo Paired With Paper Illustration
+
+<a href="https://x.com/harboriis/status/2107346549542203400"><img src="previews/gpt-image-photo-to-paper-illustration-split-poster.jpg" width="360"></a>
+
+A strict 50/50 split keeps the top as a faithful photo and turns the bottom into a small centered handmade illustration of the same scene. Capping the palette at 4 colors extracted from the photo, plus generous paper negative space, ties the two halves together.
+
+GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2107346549542203400) · 417 likes on 2026-10-27
+
+[`editorial-poster`](#tag-editorial-poster) [`photo-to-illustration`](#tag-photo-to-illustration) [`split-layout`](#tag-split-layout) [`paper-texture`](#tag-paper-texture) [`minimalist`](#tag-minimalist)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create one independent high-end editorial poster for each uploaded photo. Never combine photos.
+
+FORMAT
+Strict 3:4 vertical composition with an exact 50/50 horizontal split. The top and bottom halves must be equal in height and visually connected as one refined editorial cover.
+
+TOP HALF: ORIGINAL PHOTO
+Use the original photo faithfully. Preserve the subject, identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and color mood. Keep it fully photorealistic with only subtle premium editorial color grading. Never stylize, distort, replace, or alter the main subject. Extend only surrounding background when necessary, seamlessly and naturally.
+
+BOTTOM HALF: HAND-DRAWN ILLUSTRATION
+Reinterpret the same scene as a minimalist handmade paper illustration. Preserve the recognizable subject, silhouette, pose, key objects, and main visual story.
+
+Use delicate imperfect lines, simple acrylic-style flat color shapes, visible brush marks, rough paper texture, organic edges, and subtle handmade imperfections. Keep the illustration small and centered, occupying about 10–20% of the bottom half, with generous negative space.
+
+Use a rough white, warm off-white, or pale natural paper background with only minimal environmental details.
+
+COLOR
+Extract colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors. Use controlled flat color blocks while maintaining subtle paper grain and brush texture.
+
+TYPOGRAPHY
+Optional minimal editorial text only when appropriate, such as a short title, keyword, location, or number. Keep it understated and never force text into the design.
+
+STYLE
+Quiet, poetic, refined, minimal, relaxed, artistic, thoughtful, premium, high-recognition.
+
+FINAL
+Maintain the exact 50/50 split. The top must remain a faithful photograph, while the bottom is a simplified handmade illustration of the same scene. Avoid clutter, excessive colors, heavy typography, artificial effects, or unnecessary details. The result should feel like a premium contemporary independent art publication cover.
 ```
 
 </details>
@@ -3659,6 +5257,35 @@ Identity consistency: The same Portuguese woman must appear in all six frames, w
 Photography details: Realistic compact-camera flash, authentic skin pores, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, slight variations in exposure, and candid framing. Avoid excessive retouching, artificial skin smoothing, exaggerated beauty standards, duplicated expressions, malformed fingers, distorted anatomy, or the overly polished appearance of AI-generated portraits.
 
 Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no text, no watermark. Photorealistic, youthful, spontaneous, intimate, and effortlessly stylish.
+```
+
+</details>
+
+<a id="gpt-image-forest-clearing-foliage-noise-test"></a>
+### Sunlit woodland clearing with dense green foliage
+
+<a href="https://x.com/mark_k/status/2097411028510179759"><img src="previews/gpt-image-forest-clearing-foliage-noise-test.jpg" width="360"></a>
+
+A single plain sentence that names the subject, the photo medium, and a highly detailed cue works as a noise artifact test, because dense repeating foliage exposes texture smearing and grain. The short wording leaves the model free to choose light and composition.
+
+GPT Image 2.5 · Text-to-image · Source: [@mark_k on X](https://x.com/mark_k/status/2097411028510179759) · 415 likes on 2026-10-27
+
+[`forest`](#tag-forest) [`nature`](#tag-nature) [`foliage`](#tag-foliage) [`texture-test`](#tag-texture-test) [`landscape`](#tag-landscape)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GPT-Image-2.5 has arrived in
+@ChatGPT
+ 🔥
+
+It features many improvements, but I couldn't help myself from doing the infamous "noise artifact" test.
+
+The results are mixed!
+
+Prompt: "Photo of a clearing in the woods with lots of green foliage, highly detailed"
+
+See for yourself:
 ```
 
 </details>
@@ -3860,8 +5487,101 @@ Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and 
 
 </details>
 
+<a id="gpt-image-wine-bar-ugc-color-reference"></a>
+### Woman in brown leather jacket at wine bar
+
+<a href="https://x.com/Mho_23/status/2097483045221917131"><img src="previews/gpt-image-wine-bar-ugc-color-reference.jpg" width="360"></a>
+
+A reference photo is first analysed into a detailed JSON of color grading, lighting and exact colors. That JSON plus an attached product image then drives the generation, which avoids the flat AI look and keeps the style consistent.
+
+GPT Image 2.5 · Edit · Source: [@Mho_23 on X](https://x.com/Mho_23/status/2097483045221917131) · 298 likes on 2026-10-27
+
+[`ugc`](#tag-ugc) [`json-prompt`](#tag-json-prompt) [`color-grading`](#tag-color-grading) [`reference-image`](#tag-reference-image) [`product-photo`](#tag-product-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+how to generate AI photos that look 100% real with GPT-Image 2.5:
+
+GPT-Image 2.5 looks slightly better than GPT-Image 2, but it still has some of the same characteristics. out of the box, you can still get that noticeable AI look without references, which is why we are going to be using inspiration photos for color grading and creative direction
+
+> find a photo that has the aesthetic you want
+
+> upload that photo into GPT-6 Astra in ChatGPT and ask for this:
+
+“analyze this photo and give me a very detailed json prompt describing its visual style. really make sure to break down the color grading, lighting and all the exact colors in the photo so i can apply that look to my own images”
+
+we’re using GPT-6 Astra here to break down the reference into a detailed prompt instead of trying to describe every little detail ourselves
+
+> take the json prompt Astra gives you and put it into GPT-Image 2.5 on Higgsfield
+
+> upload your product image and prompt: “using this json as reference, generate a person holding my product [attach product image]”
+
+> GPT-Image 2.5 generates the photo with that person holding your product
+
+compare it with a version generated without the reference and look at the difference in the lighting and color grading
+
+> save the generated character photo you’re happy with as your reference
+
+> for future generations, attach the character photo each time and ask it to preserve the same facial features
+
+now you have a reference character you can use across multiple product photos
+
+you can also iterate the base json prompt and chat back and forth with GPT-6 Astra based on what you want, then repeat the same process..
+
+i like this because it gives you much more direction over the color grading instead of leaving everything up to the model
+
+the basic colours and grainy look are some of the things that can make an image feel AI-generated, so pay attention to those when comparing your results
+
+this is how you can start building a library of high quality ugc images around your own products
+
+the json gives GPT-Image 2.5 the lighting and color direction, your character reference helps with consistency, and you control the product placement
+
+once you have that starting point, you can keep creating variations without writing everything from scratch
+
+GPT-Image 2.5 Sunburst & Flare are available on Higgsfield. try this with your own product and reference images there
+```
+```
+
+</details>
+
 <a id="img-portrait"></a>
 ## Portraits
+
+<a id="nano-banana-cobalt-ring-fashion-editorial"></a>
+### Platinum bob model in cobalt circular opening
+
+<a href="https://x.com/Emmma___0/status/2109146295252459682"><img src="previews/nano-banana-cobalt-ring-fashion-editorial.jpg" width="360"></a>
+
+The prompt is split into labeled blocks for scene, outfit, pose, lighting, palette and photography style. Naming a lens, a medium-format look and a cool-versus-warm light split keeps the high-end editorial feel consistent.
+
+Nano Banana 2.1 · Text-to-image · Source: [@Emmma___0 on X](https://x.com/Emmma___0/status/2109146295252459682) · 370 likes on 2026-10-27
+
+[`fashion-editorial`](#tag-fashion-editorial) [`architecture`](#tag-architecture) [`cobalt-blue`](#tag-cobalt-blue) [`studio-portrait`](#tag-studio-portrait) [`minimalist`](#tag-minimalist)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic, high-end fashion editorial photoshoot featuring a beautiful young adult woman with short, tousled platinum-blonde bob hair, delicate facial features, fair skin, natural rosy lips, light-colored eyes, and a calm, confident expression.
+
+Scene and Environment: A futuristic minimalist architectural studio featuring a massive sculptural circular opening with thick, smooth, curved white walls. The interior of the circular structure is a rich cobalt-blue or vibrant cyan-blue, creating a striking contrast against the white architectural frame. Clean geometric shapes, curved surfaces, and a contemporary art-gallery aesthetic.
+
+Outfit and Styling: The model wears a sophisticated, oversized black knit sweater or elegant black long-sleeved top paired with tailored black or ivory trousers. Minimal makeup, natural skin texture, understated accessories, and effortless luxury styling.
+
+Pose and Composition: The model poses naturally within and around the giant circular opening. Create a series of artistic editorial poses: a close-up portrait leaning forward through the circular frame, a full-body seated pose inside the sculptural ring with one knee raised, and a standing or seated three-quarter portrait with one hand resting on the curved white surface. Relaxed hands, graceful posture, elongated silhouette, and direct eye contact with the camera.
+
+Lighting: Soft natural daylight entering from one side, creating beautiful directional highlights on the platinum hair, subtle shadows across the face, realistic skin tones, and soft gradients on the white architectural surfaces. Cinematic interplay between cool blue ambient light and warm sunlight.
+
+Color Palette: Vivid cobalt blue, turquoise, icy cyan, pure white, deep black, and platinum blonde. Clean, cool-toned color grading with balanced highlights and rich shadows.
+
+Photography Style: Luxury fashion magazine editorial, contemporary avant-garde photography, minimalist Scandinavian design, architectural fashion campaign, medium-format camera aesthetics, 85mm portrait lens, subtle depth of field, precise focus on the eyes, realistic hair strands, detailed knit fabric, natural skin texture, sophisticated framing, and premium commercial photography quality.
+
+Image Quality: Photorealistic, ultra-detailed, 8K appearance, professional art direction, anatomically accurate hands, realistic proportions, elegant negative space, clean architectural geometry, natural facial expression, crisp details, refined composition, no artificial-looking skin, no excessive retouching.
+
+Vertical portrait composition, 2:3 aspect ratio.
+```
+
+</details>
 
 <a id="nano-banana-half-face-name-portrait"></a>
 ### Half face, name stacked beside it
@@ -3901,8 +5621,108 @@ A hyper-realistic, 8K resolution cinematic close-up portrait of the person in th
 
 </details>
 
+<a id="nano-banana-ccd-flash-sofa-selfie-portrait"></a>
+### Over the shoulder flash selfie on boucle sofa
+
+<a href="https://x.com/Emmma___0/status/2107687127844856184"><img src="previews/nano-banana-ccd-flash-sofa-selfie-portrait.jpg" width="360"></a>
+
+The prompt splits the brief into labeled blocks for pose, hair, expression, outfit, background and camera, and a tight crop that cuts off half the face keeps the framing intimate. A long negative list plus identity preservation from the attached photo keeps the face, neck and hands believable.
+
+Nano Banana 2.1 · Edit · Source: [@Emmma___0 on X](https://x.com/Emmma___0/status/2107687127844856184) · 157 likes on 2026-10-27
+
+[`ccd-flash`](#tag-ccd-flash) [`selfie`](#tag-selfie) [`korean-makeup`](#tag-korean-makeup) [`identity-preservation`](#tag-identity-preservation) [`labeled-blocks`](#tag-labeled-blocks)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed pores, rosy dewy skin, Douyin glass-skin, pink gloss lips, aegyosal, blush, grey contacts, wispy lashes, brushed brows, thin liner. Preserve her recognizable facial identity and natural proportions with a playful yet sophisticated Chryzleen-inspired indoor fashion aesthetic.
+
+[POSE & COMPOSITION] A tight over-the-shoulder CCD selfie while she leans sideways into a plush sofa. The camera sits slightly behind and above her shoulder, creating a close three-quarter over-shoulder perspective. Only one eye, cheekbone, glossy lips, jawline, a sliver of neck, and the near shoulder are visible. The far side of her face is completely cropped out. Her head turns gently back toward the camera with a small natural tilt, keeping the neck relaxed and anatomically believable. One hand rests loosely on the sofa back behind her, with fingertips visible at the edge of the frame. The pose feels subtly seductive and candid rather than overly posed.
+
+[HAIR] Deep side part with lifted roots and intentionally untidy, windswept volume. Several wispy strands fall across the forehead and cheek, while loose pieces spill naturally behind the shoulder. The hair should have irregular movement and soft imperfections, avoiding a freshly styled appearance.
+
+[EXPRESSION] Half-lidded grey-contact gaze looking back toward the camera, relaxed brows, slightly lifted chin, soft jaw, glossy pink lips parted just enough to show a subtle glimpse of front teeth. Alluring, confident, and understated.
+
+[OUTFIT] Sky-blue fitted sweetheart-neckline knit top with tiny white embroidered daisies, delicate scalloped edging, and miniature pearl-like buttons. Cute modern indoor fashion with a feminine fitted silhouette and soft textured fabric.
+
+[BACKGROUND & ENVIRONMENT] A cozy contemporary living room with a warm beige boucle sofa, muted dusty-blue wall, softly blurred floor lamp, and a small cream cushion behind her. The room is visible only in narrow fragments around the extremely tight crop.
+
+[BRANDING] A miniature Chryzleen engraving is physically placed on a tiny gold bracelet charm worn on the hand resting against the sofa. The Chryzleen mark should be naturally etched into the metal and remain subtle. This single Chryzleen accessory is the only visible branding treatment in the entire image.
+
+[CAMERA] Old CCD digicam, direct flash, fine grain. Close over-the-shoulder three-quarter perspective with crisp detail on the visible eye, cheek, lips, messy hair wisps, shoulder, fingers, and tiny jewelry detail.
+
+[QUALITY] Photorealistic pores and skin texture, natural facial asymmetry, believable hair movement, realistic hands and fingers, seamless neck anatomy, authentic knit texture, natural CCD grain, premium indoor fashion-editorial finish.
+
+[MAKEUP] Fresh Korean soft-glam, natural glow, pink blush, wispy lashes, thin winged liner, shimmering rose-taupe eyeshadow, glossy pink lips.
+
+Keep the Chryzleen branding physically integrated into the jewelry and visually understated, never functioning as graphic text.
+
+1:1 aspect ratio.
+
+[NEGATIVE PROMPT] cardigan, cardigan outfit, jacket, blazer, excessive head turn, extreme head tilt, extreme neck arch, twisted neck, unnatural neck curve, stiff pose, frontal selfie, symmetrical composition, perfectly polished hair, salon-perfect hair, no facial wisps, perfectly arranged strands, full body, half body, waist-up, loose crop, distant camera, excessive living room, hands covering face, hair-touching, malformed hands, extra fingers, missing fingers, warped eyes, plastic skin, over-smoothed face, pale washed-out skin, green cast, square skin artifacts, identity drift, multiple people, multiple Chryzleen marks, duplicate branding, watermark, floating text, random readable signage.
+```
+
+</details>
+
 <a id="img-illustration"></a>
 ## Illustration
+
+<a id="gpt-image-dance-pose-sheet-4x4-character"></a>
+### Sixteen panel dance pose sheet of anime girl
+
+<a href="https://x.com/Mayz1169/status/2098014577414033912"><img src="previews/gpt-image-dance-pose-sheet-4x4-character.jpg" width="360"></a>
+
+Locks identity to one uploaded reference, then scripts sixteen numbered moves from opening pose to finishing silhouette so the grid reads as one routine. Fixed camera, white background and an explicit avoid list keep scale, costume and panel layout consistent.
+
+GPT Image 2.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2098014577414033912) · 1,270 likes on 2026-10-27
+
+[`pose-sheet`](#tag-pose-sheet) [`character-reference`](#tag-character-reference) [`dance`](#tag-dance) [`grid-layout`](#tag-grid-layout) [`anime`](#tag-anime)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
+
+CHARACTER CONSISTENCY
+Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
+
+ADAPTIVE CHOREOGRAPHY
+Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.
+
+Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
+
+Use the following movement structure, adapting each action to the character:
+1. Opening pose that establishes the character’s personality.
+2. Small rhythmic step with a coordinated arm gesture.
+3. Side step with one arm extended.
+4. Compact expressive gesture near the face or upper body.
+5. Grounded stance with arms crossing or sweeping inward.
+6. Knee lift or an anatomically appropriate weight shift.
+7. Open, expansive pose with arms spread.
+8. Playful or expressive balance pose.
+9. Turning pose showing a three-quarter rear view.
+10. Forward-reaching movement with a diagonal body lean.
+11. Strong upward-reaching accent.
+12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
+13. Lowered stance with a forward gesture.
+14. Elegant or dynamic side-facing transition.
+15. Signature gesture that suits the character.
+16. Confident final pose with a clear finishing silhouette.
+
+COMPOSITION AND PRESENTATION
+Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.
+
+Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.
+
+Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
+
+AVOID
+Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
+
+Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+</details>
 
 <a id="nano-banana-geometric-fashion-illustration"></a>
 ### Full-body fashion illustration in textured geometric style
@@ -3921,6 +5741,55 @@ Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com
 Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.
 
 Use a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.
+```
+
+</details>
+
+<a id="gpt-image-character-dance-pose-sheet-4x4"></a>
+### Pink haired idol girl 4x4 dance pose sheet
+
+<a href="https://x.com/Mayz1169/status/2099457417528692871"><img src="previews/gpt-image-character-dance-pose-sheet-4x4.jpg" width="360"></a>
+
+Locks identity to an uploaded reference, then fixes a numbered 4x4 grid with a choreography list from opening pose to final silhouette. An AVOID list targets identity drift, cropping and repeated poses.
+
+GPT Image 2.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099457417528692871) · 391 likes on 2026-10-27
+
+[`pose-sheet`](#tag-pose-sheet) [`character-consistency`](#tag-character-consistency) [`anime`](#tag-anime) [`dance`](#tag-dance) [`grid`](#tag-grid)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
+
+CHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
+
+ADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion.
+
+Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
+
+Use the following movement structure, adapting each action to the character:
+1. Opening pose that establishes the character’s personality.
+2. Small rhythmic step with a coordinated arm gesture.
+3. Side step with one arm extended.
+4. Compact expressive gesture near the face or upper body.
+5. Grounded stance with arms crossing or sweeping inward.
+6. Knee lift or an anatomically appropriate weight shift.
+7. Open, expansive pose with arms spread.
+8. Playful or expressive balance pose.
+9. Turning pose showing a three-quarter rear view.
+10. Forward-reaching movement with a diagonal body lean.
+11. Strong upward-reaching accent.
+12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
+13. Lowered stance with a forward gesture.
+14. Elegant or dynamic side-facing transition.
+15. Signature gesture that suits the character.
+16. Confident final pose with a clear finishing silhouette.
+
+COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
+
+AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
+
+Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
 ```
 
 </details>
@@ -4333,156 +6202,265 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
+- <a id="tag-30-seconds"></a>`30-seconds` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-3d"></a>`3d` (2): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
 - <a id="tag-3d-animation"></a>`3d-animation` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
 - <a id="tag-accent"></a>`accent` (2): [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
-- <a id="tag-action"></a>`action` (9): [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Off-road rally through a river crossing](#veo-off-road-rally), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
+- <a id="tag-action"></a>`action` (13): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Off-road rally through a river crossing](#veo-off-road-rally), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
+- <a id="tag-aerial"></a>`aerial` (1): [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight)
 - <a id="tag-agent-editing"></a>`agent-editing` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-ambience"></a>`ambience` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
+- <a id="tag-ambient-sound"></a>`ambient-sound` (1): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket)
+- <a id="tag-analog"></a>`analog` (1): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin)
+- <a id="tag-animal"></a>`animal` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
 - <a id="tag-animation"></a>`animation` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
-- <a id="tag-anime"></a>`anime` (2): [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight)
-- <a id="tag-architecture"></a>`architecture` (1): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster)
+- <a id="tag-anime"></a>`anime` (7): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-architecture"></a>`architecture` (2): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-asmr"></a>`asmr` (1): [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
+- <a id="tag-audio"></a>`audio` (1): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film)
 - <a id="tag-audio-sync"></a>`audio-sync` (2): [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
+- <a id="tag-ball-pov"></a>`ball-pov` (1): [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
+- <a id="tag-basketball"></a>`basketball` (1): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court)
 - <a id="tag-beats"></a>`beats` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-bilingual"></a>`bilingual` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-billiards"></a>`billiards` (1): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket)
+- <a id="tag-cafe"></a>`cafe` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-camera-angle"></a>`camera-angle` (2): [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
 - <a id="tag-camera-move"></a>`camera-move` (4): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up)
+- <a id="tag-camera-movement"></a>`camera-movement` (1): [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight)
+- <a id="tag-camera-plan"></a>`camera-plan` (1): [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-camera-roll"></a>`camera-roll` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
+- <a id="tag-cats"></a>`cats` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
+- <a id="tag-ccd-flash"></a>`ccd-flash` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-cg"></a>`cg` (2): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle)
 - <a id="tag-character"></a>`character` (2): [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk), [Old sailor speaks in verse](#veo-old-sailor-verse)
-- <a id="tag-character-consistency"></a>`character-consistency` (3): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul)
+- <a id="tag-character-consistency"></a>`character-consistency` (7): [One take follows a woman from elevator to desk](#kling-office-long-take), [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet), [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4)
+- <a id="tag-character-reference"></a>`character-reference` (3): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-character-sheet"></a>`character-sheet` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-chase"></a>`chase` (1): [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-chiaroscuro"></a>`chiaroscuro` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
 - <a id="tag-chinese-dialogue"></a>`chinese-dialogue` (3): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-cinematic"></a>`cinematic` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
+- <a id="tag-cinematic"></a>`cinematic` (6): [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance), [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion), [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
+- <a id="tag-city"></a>`city` (1): [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence)
+- <a id="tag-cityscape"></a>`cityscape` (1): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
+- <a id="tag-close-up"></a>`close-up` (2): [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit)
+- <a id="tag-cobalt-blue"></a>`cobalt-blue` (1): [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-collage"></a>`collage` (2): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
-- <a id="tag-comedy"></a>`comedy` (5): [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
+- <a id="tag-color-grading"></a>`color-grading` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
+- <a id="tag-comedy"></a>`comedy` (6): [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
+- <a id="tag-commercial"></a>`commercial` (1): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
 - <a id="tag-comparison"></a>`comparison` (1): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction)
 - <a id="tag-consistency"></a>`consistency` (2): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-construction"></a>`construction` (2): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-continuation"></a>`continuation` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-cover"></a>`cover` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
-- <a id="tag-creature"></a>`creature` (3): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
+- <a id="tag-creature"></a>`creature` (4): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [A chubby purple monster comes out of the fridge](#sora-fridge-monster)
 - <a id="tag-crowd"></a>`crowd` (2): [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd)
-- <a id="tag-dance"></a>`dance` (2): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Finger dance in one locked-off take](#wan-finger-dance-one-take)
+- <a id="tag-cube-toy"></a>`cube-toy` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
+- <a id="tag-dance"></a>`dance` (4): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-desert"></a>`desert` (1): [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight)
 - <a id="tag-dialogue"></a>`dialogue` (11): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Four family members react to a plot twist](#kling-family-reacts-to-twist), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Harbour conversation extended twice](#omni-harbour-extend), [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear), [Old sailor speaks in verse](#veo-old-sailor-verse)
+- <a id="tag-dragon"></a>`dragon` (1): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film)
 - <a id="tag-drama"></a>`drama` (1): [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon)
 - <a id="tag-dv-camcorder"></a>`dv-camcorder` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr)
 - <a id="tag-editorial"></a>`editorial` (4): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
+- <a id="tag-editorial-poster"></a>`editorial-poster` (1): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster)
 - <a id="tag-emotion"></a>`emotion` (1): [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur)
-- <a id="tag-explainer"></a>`explainer` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
+- <a id="tag-emotional"></a>`emotional` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
+- <a id="tag-explainer"></a>`explainer` (2): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer), [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
 - <a id="tag-extend"></a>`extend` (1): [Harbour conversation extended twice](#omni-harbour-extend)
 - <a id="tag-family"></a>`family` (1): [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving)
-- <a id="tag-fantasy"></a>`fantasy` (3): [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon), [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
-- <a id="tag-fashion"></a>`fashion` (4): [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
+- <a id="tag-fantasy"></a>`fantasy` (5): [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Hiding three dragon hatchlings from a hunter](#seedance-dragon-hatchlings-dungeon), [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers)
+- <a id="tag-fashion"></a>`fashion` (5): [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels), [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration), [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
+- <a id="tag-fashion-editorial"></a>`fashion-editorial` (1): [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-fast-cut"></a>`fast-cut` (2): [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-ffmpeg"></a>`ffmpeg` (5): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles), [Make a small looping GIF preview for a README](#readme-preview-gif), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-fight-scene"></a>`fight-scene` (3): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight)
 - <a id="tag-film-grain"></a>`film-grain` (1): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait)
-- <a id="tag-film-look"></a>`film-look` (2): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Truck driver in four handheld shots](#kling-truck-driver-four-shots)
+- <a id="tag-film-look"></a>`film-look` (3): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-first-last-frame"></a>`first-last-frame` (1): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan)
+- <a id="tag-flat-vector"></a>`flat-vector` (1): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer)
 - <a id="tag-focus-pull"></a>`focus-pull` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
+- <a id="tag-foliage"></a>`foliage` (1): [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
 - <a id="tag-food"></a>`food` (3): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [A woman teaches a dragon to bake heart-shaped bread](#seedance-dragon-bakes-bread), [Katsudon cooked in fast-cut anime style](#seedance-katsudon-anime-cooking)
+- <a id="tag-forest"></a>`forest` (1): [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
+- <a id="tag-frame-break"></a>`frame-break` (1): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out)
+- <a id="tag-fur-texture"></a>`fur-texture` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
 - <a id="tag-geometric"></a>`geometric` (1): [Full-body fashion illustration in textured geometric style](#nano-banana-geometric-fashion-illustration)
+- <a id="tag-giant"></a>`giant` (1): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-gif"></a>`gif` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
 - <a id="tag-golden-hour"></a>`golden-hour` (1): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait)
-- <a id="tag-grid"></a>`grid` (2): [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-gpt-image-workflow"></a>`gpt-image-workflow` (1): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
+- <a id="tag-grid"></a>`grid` (3): [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4), [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-grid-layout"></a>`grid-layout` (1): [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
 - <a id="tag-halftone"></a>`halftone` (1): [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster)
-- <a id="tag-handheld"></a>`handheld` (4): [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-handheld"></a>`handheld` (6): [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Off-road rally through a river crossing](#veo-off-road-rally), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
+- <a id="tag-hands"></a>`hands` (1): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro)
 - <a id="tag-home-video"></a>`home-video` (2): [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog)
 - <a id="tag-horror"></a>`horror` (2): [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Zombie outbreak in a busy shopping mall](#seedance-mall-zombie-outbreak)
 - <a id="tag-humor"></a>`humor` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [Nine failed photos of any character](#gpt-image-failed-photos-grid)
+- <a id="tag-identity-preservation"></a>`identity-preservation` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-illustration"></a>`illustration` (2): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster)
 - <a id="tag-image-to-video"></a>`image-to-video` (3): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile), [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [She turns, smiles and walks out of frame](#sora-skyline-turn-and-walk)
 - <a id="tag-ink"></a>`ink` (1): [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster)
+- <a id="tag-interior-design"></a>`interior-design` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-ios"></a>`ios` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
 - <a id="tag-japanese"></a>`japanese` (1): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento)
 - <a id="tag-japanese-dialogue"></a>`japanese-dialogue` (1): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
+- <a id="tag-japanese-text"></a>`japanese-text` (1): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer)
 - <a id="tag-json"></a>`json` (2): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
+- <a id="tag-json-prompt"></a>`json-prompt` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
+- <a id="tag-katana"></a>`katana` (1): [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots)
+- <a id="tag-kinetic-typography"></a>`kinetic-typography` (2): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer), [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle)
+- <a id="tag-kitchen"></a>`kitchen` (1): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
 - <a id="tag-korean"></a>`korean` (1): [Korean high-school rooftop at night](#kling-korean-rooftop)
-- <a id="tag-lip-sync"></a>`lip-sync` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
+- <a id="tag-korean-makeup"></a>`korean-makeup` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
+- <a id="tag-labeled-blocks"></a>`labeled-blocks` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
+- <a id="tag-landscape"></a>`landscape` (2): [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight), [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
+- <a id="tag-letterbox"></a>`letterbox` (1): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out)
+- <a id="tag-lip-sync"></a>`lip-sync` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
+- <a id="tag-live-action"></a>`live-action` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
+- <a id="tag-locked-camera"></a>`locked-camera` (1): [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking)
 - <a id="tag-long-take"></a>`long-take` (8): [Woman in green runs across a moonlit garden, 15 s](#kling-moonlit-garden-run), [One take follows a woman from elevator to desk](#kling-office-long-take), [Inside a plaster-statue tower, a dinosaur reunion](#kling-plaster-tower-dinosaur), [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Harbour conversation extended twice](#omni-harbour-extend), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Time-travelling train, one 30-second take](#wan-time-space-train)
 - <a id="tag-loudness"></a>`loudness` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-low-angle"></a>`low-angle` (2): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking)
+- <a id="tag-macro"></a>`macro` (5): [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin), [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro), [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro)
 - <a id="tag-magazine"></a>`magazine` (1): [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread)
 - <a id="tag-map"></a>`map` (1): [Your city as a tiny world growing out of a map](#gpt-image-city-on-map)
-- <a id="tag-martial-arts"></a>`martial-arts` (3): [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
-- <a id="tag-miniature"></a>`miniature` (1): [Your city as a tiny world growing out of a map](#gpt-image-city-on-map)
+- <a id="tag-martial-arts"></a>`martial-arts` (4): [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Shadow-puppet theatre battle with a pair of scissors](#wan-shadow-puppet-battle), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
+- <a id="tag-miniature"></a>`miniature` (2): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Your city as a tiny world growing out of a map](#gpt-image-city-on-map)
 - <a id="tag-minimal"></a>`minimal` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
+- <a id="tag-minimalist"></a>`minimalist` (2): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster), [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-mixed-media"></a>`mixed-media` (1): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx)
 - <a id="tag-montage"></a>`montage` (2): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage), [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
+- <a id="tag-moody-lighting"></a>`moody-lighting` (1): [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro)
 - <a id="tag-morning-routine"></a>`morning-routine` (1): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog)
 - <a id="tag-motion-blur"></a>`motion-blur` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
-- <a id="tag-motion-graphics"></a>`motion-graphics` (2): [Quantum computing explained in risograph flat style](#omni-quantum-explainer), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
+- <a id="tag-motion-graphics"></a>`motion-graphics` (4): [Flat Vector Curry Delivery Explainer Animation](#h3-flat-vector-curry-delivery-explainer), [Quantum computing explained in risograph flat style](#omni-quantum-explainer), [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
+- <a id="tag-multi-angle"></a>`multi-angle` (1): [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
+- <a id="tag-multi-character"></a>`multi-character` (1): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight)
 - <a id="tag-multi-reference"></a>`multi-reference` (2): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [A flock of birds forms the shape of a bird, to music](#omni-birds-form-a-bird)
-- <a id="tag-multi-shot"></a>`multi-shot` (7): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
+- <a id="tag-multi-shot"></a>`multi-shot` (18): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Ordering dinner with an Indian English accent](#kling-indian-accent-order), [Panicked woman in striped robe on Manhattan street](#kling-manhattan-panic-nine-shot-sequence), [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Snowmobile run in six shots](#kling-snowmobile-six-shots), [Truck driver in four handheld shots](#kling-truck-driver-four-shots), [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe), [Two Anime Fighters Brawl on Rooftop](#seedance-anime-rooftop-brawl-kinetic-fight), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star), [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film), [Masked warrior fights scythe reaper in desert dust](#seedance-desert-warrior-reaper-fight), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-multi-speaker"></a>`multi-speaker` (1): [Four family members react to a plot twist](#kling-family-reacts-to-twist)
 - <a id="tag-multi-turn-edit"></a>`multi-turn-edit` (5): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Start on the shoes, tilt up, then widen](#omni-shoes-tilt-up), [Move the camera over the violinist's shoulder](#omni-violinist-over-shoulder), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
 - <a id="tag-multilingual"></a>`multilingual` (4): [Bento handed over at a misty station, in Japanese](#kling-japanese-station-bento), [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Korean high-school rooftop at night](#kling-korean-rooftop), [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-music"></a>`music` (2): [Whip-pan from drummer to saxophonist and dancer](#omni-drummer-whip-pan), [Apartment lights switch on to the beat](#omni-lights-sync-to-music)
 - <a id="tag-music-video"></a>`music-video` (1): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv)
+- <a id="tag-nano-banana-pro"></a>`nano-banana-pro` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
+- <a id="tag-nature"></a>`nature` (1): [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
+- <a id="tag-neon"></a>`neon` (2): [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
 - <a id="tag-newspaper"></a>`newspaper` (1): [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
+- <a id="tag-night"></a>`night` (2): [Woman slices wooden dummy in night courtyard](#kling-night-courtyard-katana-six-shots), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
+- <a id="tag-nightclub"></a>`nightclub` (1): [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
 - <a id="tag-nostalgic"></a>`nostalgic` (1): [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread)
 - <a id="tag-object-swap"></a>`object-swap` (3): [Ships to origami, astronaut to anemone, ships to stingrays](#omni-astronaut-three-swaps), [Butterfly to bee to fireflies, one change per turn](#omni-butterfly-bee-fireflies), [Edit the monster: recolour it, then add a second one](#sora-monster-edits)
 - <a id="tag-one-liner"></a>`one-liner` (1): [Recreate any image as a newspaper collage](#nano-banana-newspaper-collage)
 - <a id="tag-orbit"></a>`orbit` (1): [Camera circles to her face, she looks up and smiles](#kling-orbit-to-smile)
 - <a id="tag-outfit-change"></a>`outfit-change` (1): [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take)
+- <a id="tag-painterly"></a>`painterly` (1): [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void)
+- <a id="tag-painterly-animation"></a>`painterly-animation` (1): [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star)
 - <a id="tag-paper-cut"></a>`paper-cut` (1): [Fashion illustration in layered 3D paper-cut](#nano-banana-paper-cut-fashion)
-- <a id="tag-paper-texture"></a>`paper-texture` (1): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover)
+- <a id="tag-paper-texture"></a>`paper-texture` (2): [Photo to minimalist paper-textured art cover](#gpt-image-paper-texture-cover), [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-papercraft"></a>`papercraft` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
 - <a id="tag-period"></a>`period` (3): [Joseon noblewoman and her maid](#kling-joseon-lady-and-maid), [Early-2000s Korean birthday on a DV camcorder](#seedance-2000s-birthday-dv), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)
+- <a id="tag-pet"></a>`pet` (1): [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template)
 - <a id="tag-phone-photo"></a>`phone-photo` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
 - <a id="tag-photo-to-art"></a>`photo-to-art` (5): [Turn each photo into a quiet editorial illustration poster](#gpt-image-editorial-illustration-poster), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Nostalgic magazine artbook spread from a photo](#nano-banana-artbook-spread), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
-- <a id="tag-portrait"></a>`portrait` (2): [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-photo-to-illustration"></a>`photo-to-illustration` (1): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-photo-to-life"></a>`photo-to-life` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
+- <a id="tag-photorealistic"></a>`photorealistic` (2): [Miniature farmhouse foundation built by giant hands](#omni-miniature-farmhouse-foundation-macro), [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
+- <a id="tag-physics"></a>`physics` (2): [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
+- <a id="tag-physics-motion"></a>`physics-motion` (1): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket)
+- <a id="tag-pop-out"></a>`pop-out` (1): [Anime character reaching past black letterbox bars](#seedance-anime-frame-break-letterbox-pop-out)
+- <a id="tag-portrait"></a>`portrait` (3): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Low-angle dusk portrait with film grain](#gpt-image-dusk-film-portrait), [Six-photo portrait grid of one person](#gpt-image-six-photo-portrait-grid)
+- <a id="tag-pose-sheet"></a>`pose-sheet` (2): [Pink haired idol girl 4x4 dance pose sheet](#gpt-image-character-dance-pose-sheet-4x4), [Sixteen panel dance pose sheet of anime girl](#gpt-image-dance-pose-sheet-4x4-character)
+- <a id="tag-pov"></a>`pov` (2): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket), [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight)
 - <a id="tag-preview"></a>`preview` (1): [Make a small looping GIF preview for a README](#readme-preview-gif)
 - <a id="tag-product"></a>`product` (1): [Keyboard made of candy](#veo-candy-keyboard)
 - <a id="tag-product-ad"></a>`product-ad` (2): [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc)
+- <a id="tag-product-photo"></a>`product-photo` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
+- <a id="tag-product-shot"></a>`product-shot` (2): [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro), [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan)
+- <a id="tag-push-in"></a>`push-in` (1): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin)
 - <a id="tag-qa"></a>`qa` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-rain"></a>`rain` (1): [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
 - <a id="tag-realism"></a>`realism` (3): [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht)
 - <a id="tag-reconstruction"></a>`reconstruction` (1): [JSON prompt that reconstructs a photo shot for shot](#nano-banana-json-reconstruction)
+- <a id="tag-reference-image"></a>`reference-image` (1): [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
 - <a id="tag-reference-images"></a>`reference-images` (7): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Outfit changes in one take, with Chinese dialogue](#seedance-outfit-change-one-take), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A woman stands still while the crowd moves in sync](#seedance-woman-in-storm-crowd), [Hand-drawn anime fight against a giant monster](#wan-anime-monster-fight), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face)
+- <a id="tag-reference-sheet"></a>`reference-sheet` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
 - <a id="tag-reframe"></a>`reframe` (1): [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-romance"></a>`romance` (1): [Man in camel coat at cafe counter](#wan-cafe-camel-coat-character-sheet)
+- <a id="tag-scale"></a>`scale` (1): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing)
 - <a id="tag-scene-detection"></a>`scene-detection` (1): [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
-- <a id="tag-sci-fi"></a>`sci-fi` (3): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Time-travelling train, one 30-second take](#wan-time-space-train)
+- <a id="tag-sci-fi"></a>`sci-fi` (5): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Celestial puppeteer rebuilds a collapsing golden star](#seedance-celestial-puppeteer-golden-star), [Lab containment breach, sci-fi horror](#seedance-lab-containment-breach), [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest), [Time-travelling train, one 30-second take](#wan-time-space-train)
 - <a id="tag-score"></a>`score` (2): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
+- <a id="tag-screen-breakout"></a>`screen-breakout` (1): [Bird leaps from laptop photo onto hand](#omni-photo-bird-jumps-onto-hand)
 - <a id="tag-screenshot"></a>`screenshot` (2): [Camera roll of anyone's day, from one image](#gpt-image-camera-roll-day), [A full day as an iPhone Photos library screenshot](#gpt-image-iphone-photos-screenshot)
+- <a id="tag-selfie"></a>`selfie` (1): [Over the shoulder flash selfie on boucle sofa](#nano-banana-ccd-flash-sofa-selfie-portrait)
 - <a id="tag-sfx"></a>`sfx` (5): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Woman fights three men in a restaurant kitchen](#seedance-kitchen-fight), [Keyboard made of candy](#veo-candy-keyboard), [Off-road rally through a river crossing](#veo-off-road-rally)
+- <a id="tag-shallow-depth-of-field"></a>`shallow-depth-of-field` (1): [Macro shot of a vintage wristwatch between fingers](#kling-vintage-watch-macro)
+- <a id="tag-short-film"></a>`short-film` (2): [Woman and Pet Dragon Cook a Roast](#seedance-cottage-pet-dragon-roast-short-film), [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
+- <a id="tag-shot-list"></a>`shot-list` (1): [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
 - <a id="tag-shot-reverse-shot"></a>`shot-reverse-shot` (1): [Villa terrace, a two-person summer dialogue](#kling-villa-terrace-dialogue)
+- <a id="tag-single-take"></a>`single-take` (1): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin)
+- <a id="tag-sizzle-reel"></a>`sizzle-reel` (1): [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle)
 - <a id="tag-skin-detail"></a>`skin-detail` (1): [Cinematic chiaroscuro close-up of your photo](#nano-banana-chiaroscuro-portrait)
+- <a id="tag-skin-texture"></a>`skin-texture` (1): [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit)
+- <a id="tag-slow-motion"></a>`slow-motion` (1): [Woman dancing in neon nightclub and rain](#kling-neon-nightclub-rain-dance)
+- <a id="tag-sound-design"></a>`sound-design` (3): [Turntable Push-In to Stylus Needle Macro](#kling-turntable-needle-macro-pushin), [Baby Dragon Sneezes Fire in Winter Cabin](#seedance-baby-dragon-sneeze-cabin-fire), [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void)
 - <a id="tag-spanish"></a>`spanish` (1): [Asking directions in Madrid, in halting Spanish](#kling-madrid-asking-directions)
 - <a id="tag-split-composition"></a>`split-composition` (3): [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel), [Half photo, half black-ink illustration poster](#nano-banana-photo-ink-split-poster), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
-- <a id="tag-sports"></a>`sports` (1): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo)
+- <a id="tag-split-layout"></a>`split-layout` (1): [Lakeside Photo Paired With Paper Illustration](#gpt-image-photo-to-paper-illustration-split-poster)
+- <a id="tag-sports"></a>`sports` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Basketball player backflip dunk on outdoor court](#kling-basketball-backflip-dunk-court), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
+- <a id="tag-start-end-frames"></a>`start-end-frames` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
 - <a id="tag-static-camera"></a>`static-camera` (1): [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull)
 - <a id="tag-steampunk"></a>`steampunk` (1): [Steampunk detective montage across five locations](#wan-steampunk-detective-montage)
 - <a id="tag-stop-motion"></a>`stop-motion` (1): [Stop-motion camper and a bear with a comeback](#veo-camper-and-bear)
-- <a id="tag-storyboard"></a>`storyboard` (2): [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-storm"></a>`storm` (1): [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
+- <a id="tag-storyboard"></a>`storyboard` (3): [Kitchen frying pan from a commercial storyboard](#omni-commercial-storyboard-board-kitchen-pan), [Hand it a storyboard, get the scene](#omni-storyboard-to-video), [Split a multi-shot clip into separate shots at the hard cuts](#split-shots)
+- <a id="tag-storytelling"></a>`storytelling` (1): [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest)
 - <a id="tag-street"></a>`street` (1): [Phone snapshot on a train platform](#gpt-image-train-platform-snapshot)
 - <a id="tag-structured-prompt"></a>`structured-prompt` (4): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit), [Ramen in front, family dinner behind, one focus pull](#h3-ramen-focus-pull), [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump), [Kung fu duel in a temple courtyard at dusk](#wan-temple-kung-fu)
 - <a id="tag-studio"></a>`studio` (1): [Half face, name stacked beside it](#nano-banana-half-face-name-portrait)
+- <a id="tag-studio-portrait"></a>`studio-portrait` (1): [Platinum bob model in cobalt circular opening](#nano-banana-cobalt-ring-fashion-editorial)
 - <a id="tag-style-lock"></a>`style-lock` (1): [Quantum computing explained in risograph flat style](#omni-quantum-explainer)
 - <a id="tag-style-transfer"></a>`style-transfer` (1): [One clip through crayon, pencil, glass and risograph](#omni-four-style-progression)
 - <a id="tag-subtitles"></a>`subtitles` (2): [Seoul subway revenge comedy](#seedance-seoul-subway-revenge), [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
-- <a id="tag-template"></a>`template` (5): [Your city as a tiny world growing out of a map](#gpt-image-city-on-map), [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Half face, name stacked beside it](#nano-banana-half-face-name-portrait), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
+- <a id="tag-sync-sound"></a>`sync-sound` (1): [Night out friends and a quay leap](#wan-marina-night-out-quay-leap)
+- <a id="tag-template"></a>`template` (7): [Giant girl kneeling over a Tokyo crossing](#veo-giant-girl-shibuya-crossing), [Your city as a tiny world growing out of a map](#gpt-image-city-on-map), [Nine failed photos of any character](#gpt-image-failed-photos-grid), [Minimal lifestyle art poster from a real photo](#gpt-image-minimal-lifestyle-poster), [Highland cow papercraft cube toy template](#gpt-image-pet-papercraft-cube-template), [Half face, name stacked beside it](#nano-banana-half-face-name-portrait), [Photograph above, sketch below: an editorial template](#nano-banana-photo-sketch-editorial)
 - <a id="tag-tension"></a>`tension` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-text-render"></a>`text-render` (3): [Logo on a baseball bat stays sharp through the swing](#kling-baseball-bat-logo), [Perfume ad by a Paris window](#kling-perfume-paris-ad), [Kinetic type, one word per beat](#omni-word-by-word-sizzle)
+- <a id="tag-text-rendering"></a>`text-rendering` (1): [Glossy 3D words appearing one at a time](#omni-word-by-word-kinetic-text-sizzle)
 - <a id="tag-textile"></a>`textile` (1): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust)
+- <a id="tag-texture-test"></a>`texture-test` (1): [Sunlit woodland clearing with dense green foliage](#gpt-image-forest-clearing-foliage-noise-test)
 - <a id="tag-thriller"></a>`thriller` (1): [Four armed men, a silent standoff](#wan-four-gunmen-standoff)
 - <a id="tag-time-freeze"></a>`time-freeze` (1): [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind)
+- <a id="tag-time-lapse"></a>`time-lapse` (1): [Empty room timelapse building a loft](#veo-empty-room-loft-construction-timelapse)
+- <a id="tag-timecode"></a>`timecode` (1): [Anime woman wakes from cryosleep into forest](#sora-anime-cryo-awakening-forest)
 - <a id="tag-timed-beats"></a>`timed-beats` (2): [Two-idol K-pop music video, shot by shot](#seedance-kpop-two-idol-mv), [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-timed-cut"></a>`timed-cut` (1): [Starship bridge, the fleet jumps to hyperspace](#h3-starship-hyperspace-jump)
+- <a id="tag-timed-shot-list"></a>`timed-shot-list` (1): [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
+- <a id="tag-timestamped"></a>`timestamped` (1): [Airport immigration makeup wipe comedy in twelve shots](#seedance-airport-immigration-makeup-wipe)
+- <a id="tag-timestamped-shots"></a>`timestamped-shots` (1): [Crying ginger cat aims handgun at zombie calico](#seedance-zombie-calico-cat-reunion)
 - <a id="tag-title-card"></a>`title-card` (1): [Cut a teaser from clips of different sizes, with title and crossfades](#teaser-montage)
 - <a id="tag-toy"></a>`toy` (1): [Photo to knitted stop-motion puppet bust](#gpt-image-knitted-puppet-bust)
-- <a id="tag-tracking-shot"></a>`tracking-shot` (1): [One take follows a woman from elevator to desk](#kling-office-long-take)
+- <a id="tag-tracking-shot"></a>`tracking-shot` (6): [Billiard ball POV rolling into corner pocket](#kling-billiard-ball-pov-pocket), [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight), [Hotel corridor fight under red neon lights](#kling-hotel-corridor-neon-fight), [One take follows a woman from elevator to desk](#kling-office-long-take), [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking), [Golfer on stormy cliff, camera tracks ball](#veo-golf-ball-tracking-storm-cliff)
 - <a id="tag-transformation"></a>`transformation` (1): [Jewelled creatures turn into high heels](#wan-jeweled-creatures-to-heels)
 - <a id="tag-travel"></a>`travel` (3): [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog), [Building photo to halftone travel-collage poster](#gpt-image-halftone-architecture-poster), [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel)
 - <a id="tag-typography"></a>`typography` (1): [Half face, name stacked beside it](#nano-banana-half-face-name-portrait)
-- <a id="tag-ugc"></a>`ugc` (3): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht)
-- <a id="tag-vertical"></a>`vertical` (6): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
+- <a id="tag-ugc"></a>`ugc` (5): [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Night out friends and a quay leap](#wan-marina-night-out-quay-leap), [Woman in brown leather jacket at wine bar](#gpt-image-wine-bar-ugc-color-reference)
+- <a id="tag-vertical"></a>`vertical` (8): [Painted Flame Karate Kata in Blue Void](#seedance-painted-flame-karate-kata-void), [Selfie-style skincare UGC ad](#seedance-selfie-skincare-ugc), [Toddler copies dad's shaving with soap foam](#seedance-toddler-copies-shaving), [Friends film a night out on a phone](#seedance-ugc-night-yacht), [Ultra close fashion portrait with candid flashes](#wan-fashion-face-closeup-flash-orbit), [Finger dance in one locked-off take](#wan-finger-dance-one-take), [Cold face on video, sweet smile in the photos](#wan-street-photographer-cold-face), [Turn a 16:9 clip into a 9:16 short with a blurred background](#vertical-blur-fill)
 - <a id="tag-vfx"></a>`vfx` (3): [Add cartoon motion lines to live skateboarding](#omni-skateboard-motion-fx), [1950s diner: time freezes, then rewinds](#seedance-diner-frozen-time-rewind), [A street chase where photo-editing tools are real objects](#wan-photo-editor-chase-comedy)
 - <a id="tag-video-reference"></a>`video-reference` (1): [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
+- <a id="tag-video-to-video"></a>`video-to-video` (1): [Cafe table talk reshot from thirteen new angles](#seedance-cafe-table-multi-angle-reshoot)
 - <a id="tag-vlog"></a>`vlog` (5): [Friday morning walk in an old Seoul neighbourhood](#seedance-friday-morning-seoul), [Mini DV coffee ASMR vlog](#seedance-mini-dv-coffee-asmr), [Rainy morning, coffee, walk to university](#seedance-rainy-morning-university-vlog), [A summer evening in Seoul, shot like a home video](#seedance-seoul-summer-evening-vlog), [Tokyo travel vlog in one-second beats](#wan-tokyo-travel-vlog)
 - <a id="tag-voice-reference"></a>`voice-reference` (1): [Make the man in an existing clip speak, in a borrowed voice](#h3-pink-suit-lip-sync-edit)
 - <a id="tag-voiceover"></a>`voiceover` (1): [Perfume ad by a Paris window](#kling-perfume-paris-ad)
 - <a id="tag-watercolor"></a>`watercolor` (1): [Upper half photo, lower half watercolour travel sketch](#gpt-image-photo-to-watercolor-travel)
 - <a id="tag-whimsical"></a>`whimsical` (2): [A chubby purple monster comes out of the fridge](#sora-fridge-monster), [Keyboard made of candy](#veo-candy-keyboard)
 - <a id="tag-whisper"></a>`whisper` (1): [Transcribe dialogue and burn in Chinese and English subtitles](#bilingual-subtitles)
+- <a id="tag-wide-angle"></a>`wide-angle` (1): [Low angle tracking shot locked on paper bag](#kling-paper-bag-locked-tracking)
+- <a id="tag-wildlife"></a>`wildlife` (1): [Golden eagle POV flight over mountain valleys](#kling-eagle-pov-steppe-flight)
 - <a id="tag-workflow"></a>`workflow` (1): [Re-shoot your clip from new camera angles, same action](#wan-camera-angle-swap)
 - <a id="tag-world-building"></a>`world-building` (3): [Crystal flowers on a moon-dust plain](#veo-moon-dust-flowers), [Time-travelling train, one 30-second take](#wan-time-space-train), [Second World: your photo, rebuilt as another world](#nano-banana-second-world)
 

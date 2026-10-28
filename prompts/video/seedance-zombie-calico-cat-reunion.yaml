@@ -1,0 +1,55 @@
+id: seedance-zombie-calico-cat-reunion
+title:
+  en: Crying ginger cat aims handgun at zombie calico
+  zh: 流泪的橘猫举枪对准僵尸花猫
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- short-film
+- cats
+- emotional
+- timestamped-shots
+- cinematic
+source:
+  name: '@ElsaSofia__AI on X'
+  url: https://x.com/ElsaSofia__AI/status/2108740749420646730
+  credit: Elsa Ai
+  likes: 2000
+  captured: '2026-10-27'
+  posted: '2026-10-10'
+video: https://x.com/ElsaSofia__AI/status/2108740749420646730
+notes:
+  en: A timestamped shot list assigns each beat a framing, an action and an emotional turn, so the tension in the dark cabin resolves cleanly into the golden hour meadow. The opening lays out both characters, both settings and the lighting contrast between the two halves, which keeps the cats and the locations consistent across cuts.
+  zh: 按时间码逐段写出景别、动作和情绪转折，让昏暗木屋里的紧张感顺畅过渡到金色黄昏草地。开头先交代两只猫、两处场景以及前后半段的光线对比，保证跨镜头的角色与场景一致。
+prompt: |
+  Cinematic emotional short film, live-action look, 16:9, 24 seconds, 24 fps. Characters: a ginger tabby cat that stands upright on its hind legs like a human, and a calico cat (black, white and orange). At the start the calico is zombie-like: cloudy pale eyes, torn fur hanging in shreds, sharp fangs. Opening setting: a dark rustic wooden cabin kitchen at night, pots on wooden shelves, a window with cold blue night light, wooden plank floor. Final setting: a green meadow at golden-hour sunset with white dandelion fluff floating in the air.
+
+  0:00-0:01.5 Extreme close-up of the ginger tabby with tears in his eyes, holding a black handgun with both paws, aimed toward the camera (gun out of focus in the foreground).
+
+  0:02-0:02.5 Over-the-shoulder wide shot from behind the ginger cat: he aims the handgun at the zombie calico slowly walking toward him across the wooden floor.
+
+  0:03-0:03.5 Front shot: the ginger cat stands upright, aiming with both paws, dark wooden wall and blue window behind him.
+
+  0:04-0:04.5 Close-up of the zombie calico, glassy pale eyes, then snarling with fangs.
+
+  0:05-0:06.5 Extreme close-up of the ginger cat's face, tears rolling down.
+
+  0:06.5-0:08 He stands aiming, then slowly lowers the gun.
+
+  0:08.5-0:09 The gun drops from his paw and he opens both arms wide for a hug.
+
+  0:09.5-0:10 Quick cuts: the zombie calico's face, then the ginger cat with eyes closed and a tear falling.
+
+  0:10.5 The calico leaps into his arms, wrapping her white paws around him; her fur is now healthy and normal.
+
+  0:11-0:13 Cut to the sunset meadow: the two cats roll and cuddle in the grass, white fluff floating around, warm golden light.
+
+  0:13-0:18 Close-up of the calico's affectionate face while the ginger cat's paw gently touches her face and head; the ginger cat lies on his back in the grass, eyes closed, peaceful.
+
+  0:18-0:20.5 The ginger cat's paw rests on her face; he looks up, content and relaxed.
+
+  0:21-0:22 Wide silhouette shot: the two cats sit snuggled together against the glowing sunset, tall grass and wildflowers in the foreground.
+
+  0:22.5-0:24 Close-up with sun flare: the ginger cat tenderly rubs his head against the calico's head. End.
+
+  Style: dramatic zombie-movie tension turning into a heartwarming ending, shallow depth of field, realistic fur detail, warm golden-hour light in the second half, dark low-key lighting in the first half.

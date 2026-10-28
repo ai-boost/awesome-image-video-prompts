@@ -1,0 +1,25 @@
+id: kling-eagle-pov-steppe-flight
+title:
+  en: Golden eagle POV flight over mountain valleys
+  zh: 金雕视角飞越山谷与河流
+model: Kling 3.0
+mode: text-to-video
+tags:
+- pov
+- aerial
+- wildlife
+- tracking-shot
+- landscape
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2019090635408744851
+  credit: Higgsfield AI 🧩
+  likes: 2454
+  captured: '2026-10-27'
+  posted: '2026-02-04'
+video: https://x.com/higgsfield_ai/status/2019090635408744851
+notes:
+  en: The camera is locked to the eagle's head, with wing and feather edges kept in frame as a stable anchor. Ground parallax cues (rivers, valleys, peaks) and the constraints on jitter, motion blur and cuts keep the flight physically coherent in one continuous shot.
+  zh: 镜头锁定在金雕头部,翅膀与羽毛留在画面边缘作为稳定参照。用河流、山谷、岩峰提供地面视差,并限定无抖动、仅速度模糊、无剪辑,让飞行动作连贯真实。
+prompt: |
+  POV flight from a golden eagle soaring over vast mountainous steppe landscapes. Camera locked to the eagle’s head with clean, precise tracking — stable forward motion, no jitter. The eagle actively flaps its wings, powerful wingbeats transitioning into smooth gliding. Wings and feathers visible at the frame edges, moving naturally in rhythm. Strong ground parallax below: winding rivers, open valleys, rocky peaks. Bright late-afternoon light, crisp air, subtle lens flare. Ultra-wide cinematic perspective, natural motion blur from speed only, realistic flight physics, continuous shot, no cuts.

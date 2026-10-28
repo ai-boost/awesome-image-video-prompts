@@ -1,0 +1,47 @@
+id: seedance-cottage-pet-dragon-roast-short-film
+title:
+  en: Woman and Pet Dragon Cook a Roast
+  zh: 少女与宠物飞龙一起烤肉的奇幻短片
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- fantasy
+- dragon
+- short-film
+- multi-shot
+- audio
+source:
+  name: '@Alina_with_Ai on X'
+  url: https://x.com/Alina_with_Ai/status/2109224200217198796
+  credit: Alina Ai
+  likes: 1043
+  captured: '2026-10-27'
+  posted: '2026-10-11'
+video: https://x.com/Alina_with_Ai/status/2109224200217198796
+notes:
+  en: A second-by-second shot list from wide shot to extreme close-up builds a full comedy arc in 30 seconds, from the dragon's fire blast to a gentle forgiveness beat. Character sheets for both leads, a setting list and a separate audio line for fire, steam and dragon sounds keep the look and sound consistent.
+  zh: 按秒划分的分镜从全景推到特写，在30秒内走完从喷火闯祸到温柔原谅的完整喜剧弧线。两位主角各有一份外观设定，再加场景清单和单独的音效行（火焰、蒸汽、龙的低吼），保证画面与声音前后一致。
+prompt: |
+  Cinematic 16:9 fantasy short film, 30 seconds, 30fps, photorealistic, warm golden-hour light, rich film color grading, shallow depth of field, smooth camera, natural motion blur, heartwarming comedy tone.
+
+  Characters:
+  1) A young woman with messy wavy blonde hair, thin round glasses, a linen cream blouse with rolled sleeves and a dark brown pinafore apron dress. Expressive, funny, warm face.
+  2) Her pet baby dragon: a huge, friendly, horse-sized dragon with white-cream scales covered in pink-magenta patterns, a crest of soft pink spikes, big amber eyes with vertical pupils, a gentle snout. It acts like a naughty, affectionate puppy.
+
+  Setting: a rustic medieval cottage courtyard and kitchen: a stone oven, a wooden table, hanging lavender and herbs, stacked firewood, a low stone wall, green hills in the background. Later, the warm inside of the cottage with a wooden table, a candle, pots on shelves, and sunbeams through a small window.
+
+  0-3s: Wide shot, courtyard. The woman turns a big pink raw pork roast on a metal spit over the table. The dragon's head peeks over the stone wall on the right, watching curiously. She talks to the dragon, laughing, asking it for just "a little fire".
+  3-5s: Extreme close-up of the dragon's scaly snout and nostrils, then a close-up of her smiling face, laughing and confident.
+  5-7.5s: The dragon opens its mouth and unleashes a huge blast of fire at the roast, flames and sparks everywhere. She throws her hands up in panic.
+  7.5-10s: Extreme close-ups of her shocked face, wide eyes, hair blown by the heat, hands raised, shouting "No, no, no!". Cut to the roast, completely burnt black and surrounded by flames.
+  10-12s: She grabs a wooden bucket and throws water on the fire, a giant cloud of steam rises. The dragon laughs with its mouth open, tongue out.
+  12-15s: Steam clears. She stands with her arms out, scolding the dragon like a child. The dragon lowers its head with guilty puppy eyes, and she gently touches its snout, forgiving it.
+  15-18s: Cut to the cozy kitchen. She wipes her forehead, then cuts a small piece of fresh meat and puts it on a tiny skewer, calmly explaining to the dragon how little fire is needed. The dragon leans in beside her.
+  18-21s: Close-up: she holds the skewered meat cube. The dragon carefully breathes a tiny, gentle flame, and the meat sizzles with small sparks. She smiles proudly.
+  21-23s: Extreme close-up: the perfectly seared meat cube on the skewer, in front of the dragon's amber eye, a reflection of tiny fire in its vertical pupil.
+  23-26s: She sits at the table with a plate of cooked meat, cuts a piece, tastes it with a delighted face and gives a thumbs-up. She feeds a piece to the dragon, who opens its mouth happily.
+  26-30s: Wide, warm shot of the cottage interior, golden sunbeam through the window, a candle on the table. She eats while the dragon rests its big head on the table next to her, its eyes slowly closing in contentment, its body curled behind. Peaceful, heartwarming final frame, hold.
+
+  Style: Pixar-quality emotional storytelling with photorealistic detail, warm golden and orange tones, soft volumetric light, steam and sparks, cinematic grading.
+
+  Audio: gentle fantasy folk music (soft strings and flute), crackling fire and a whoosh on the fire blasts, steam hiss, a deep playful dragon rumble and purr, her laughter and short dialogue, light kitchen sounds.

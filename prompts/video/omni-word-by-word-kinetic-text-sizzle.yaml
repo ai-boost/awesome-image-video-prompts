@@ -1,0 +1,28 @@
+id: omni-word-by-word-kinetic-text-sizzle
+title:
+  en: Glossy 3D words appearing one at a time
+  zh: 光泽三维文字逐词依次出现
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- kinetic-typography
+- text-rendering
+- sizzle-reel
+- motion-graphics
+source:
+  name: '@Google on X'
+  url: https://x.com/Google/status/2062925430290526486
+  credit: Google
+  likes: 1219
+  captured: '2026-10-27'
+  posted: '2026-06-05'
+video: https://x.com/Google/status/2062925430290526486
+notes:
+  en: The exact word sequence is spelled out, with one word on screen at a time. Asking for a different animated style per word and pacing to a rhythm gives the model clear control over timing and text motion.
+  zh: 提示词逐一写出完整的词序，并限定同一时刻只出现一个词。再要求每个词采用不同的动画风格并按节奏卡点，让模型能清楚控制文字的出现时机与动态。
+prompt: |
+  Beyond just rendering text, Gemini Omni actively syncs your text with the onscreen action.
+
+  It draws on Gemini's knowledge to connect language, imagery and meaning to turn complex ideas into compelling visuals. 💬
+
+  Prompt for this video: Add the word “SMILE” in bold white sans-serif typography across the nose of every inflatable shark, clean modern lettering naturally integrated into the glossy wet plastic surface, slightly curved and distorted by the inflatable shape while remaining crisp and readable during movement through the water slide. The text on the sharks must remain perfectly locked and tracked to each shark’s skin surface at all times, moving consistently with the body and rotating naturally with the sharks during the descent. Avoid flickering, sliding, jittering, duplicated characters, changing letter count, or distorted typography. Any existing text must remain stable, readable, and physically integrated into the shark skin texture, behaving like a natural marking rather than an added overlay. No text should appear or disappear mid-descent.

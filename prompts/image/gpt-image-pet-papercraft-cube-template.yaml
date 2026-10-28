@@ -1,0 +1,45 @@
+id: gpt-image-pet-papercraft-cube-template
+title:
+  en: Highland cow papercraft cube toy template
+  zh: 高地牛纸模立方体玩具展开图
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- papercraft
+- cube-toy
+- pet
+- template
+- fur-texture
+source:
+  name: '@icreatelife on X'
+  url: https://x.com/icreatelife/status/2101353488408006830
+  credit: Kris Kashtanova
+  likes: 1178
+  captured: '2026-10-27'
+  posted: '2026-09-19'
+notes:
+  en: The prompt fixes the source photo as the only reference for the animal and lists each flat piece with folds, tabs and cut edges. A closing list of things not to change keeps the animal's identity and fur texture intact.
+  zh: 提示词把上传照片限定为动物外观的唯一来源，并逐一列出平铺的各个部件及折线、粘合片和裁切边。结尾列出不得更改的内容，用来保住动物的身份特征和毛发质感。
+prompt: |
+  Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression.
+
+  Transform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible.
+
+  The printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet.
+
+  Include:
+
+  cube-shaped head with my pet’s real face on it
+
+  cube-shaped body with realistic fur texture
+
+  four legs matching my pet’s appearance
+
+  ears with correct shape and inner ear details
+
+  tail matching my pet’s size and color pattern
+
+  Style: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper.
+
+  Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model

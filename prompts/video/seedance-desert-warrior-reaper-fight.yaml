@@ -1,0 +1,47 @@
+id: seedance-desert-warrior-reaper-fight
+title:
+  en: Masked warrior fights scythe reaper in desert dust
+  zh: 面具战士在沙漠尘暴中对决持镰死神
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- action
+- fight-scene
+- multi-shot
+- character-consistency
+- desert
+source:
+  name: '@techhalla on X'
+  url: https://x.com/techhalla/status/2090568539325317401
+  credit: TechHalla
+  likes: 882
+  captured: '2026-10-27'
+  posted: '2026-08-20'
+video: https://x.com/techhalla/status/2090568539325317401
+notes:
+  en: Two image references lock the reaper and the warrior character sheet, then a timed shot list from 0 to 30 seconds names a camera move and a clear action beat for each segment. A shared style block of anamorphic lens, haze and particle physics keeps the look consistent across the cuts.
+  zh: 用两张图分别锁定死神和战士的角色设定图，再按 0 到 30 秒分段，每段写明镜头运动和具体动作节拍。开头的统一风格段落（变形宽银幕镜头、烟尘、粒子物理）让各镜头画面保持一致。
+prompt: |
+  I've used 2 image refs as the only reference for this one (both made on MJ), along with this prompt:
+
+  Hyper-kinetic desert combat spectacle, extreme high-intensity CGI action, thick volumetric cinematic haze and golden-hour dust storms, aggressive anamorphic 35mm lens with heavy motion blur, relentless handheld tracking and whip pans, deep shadows, heat distortion, ultra-realistic particle systems.
+
+  Use the first provided image as exact reference for the ethereal dark reaper silhouette, flowing tattered robes, skull-scythe and arid desert environment. Use the second multi-view character sheet as exact appearance lock for the muscular tribal warrior (mask, red cape, yellow tattered bone-adorned skirt, dreadlocks, scarred body, barefoot).
+
+  0-4s: [Extreme Wide Crash-In] Instant violent collision. Warrior explodes forward through dense dust cloud, red cape whipping. Reaper swings massive scythe in wide horizontal arc. Impact detonates shockwave of sand and embers. No pause.
+
+  4-8s: [Dynamic Low Tracking] Rapid exchange. Warrior ducks under scythe, delivers spinning elbow to reaper’s ribs, then upward knee. Reaper phases partially, reforms mid-strike, counters with spectral claw rake across warrior’s chest. Fabric and ash particles explode outward.
+
+  8-13s: [Orbiting Medium + Dutch Angle] Acrobatic mid-air clash. Warrior vaults off scythe shaft, red cape fully extended, lands dual-fist hammer blow to reaper’s hood. Reaper retaliates with vertical scythe slam that cracks the ground; warrior rolls, rises into spinning back-kick that shreds more robe into black ribbons.
+
+  13-18s: [Handheld Close Combat Frenzy] Brutal ground scramble. Warrior grapples the scythe pole, headbutts the mask, then rips free and unleashes three distinct strikes: upward palm, horizontal elbow, downward axe-kick. Reaper absorbs then unleashes tendril-whip of shadow that lashes warrior’s back, drawing blood and dust.
+
+  18-23s: [Slow-Motion Impact Montage] Escalating power. Warrior catches scythe mid-swing, twists, drives knee into reaper’s midsection twice, then spinning heel kick that sends the figure airborne. Reaper crashes down in explosion of ash and sand, robes half-dissolved. Warrior advances without mercy.
+
+  23-28s: [Wide to Tight Push-In] Finishing sequence. Warrior seizes the collapsing reaper by the remaining hood, delivers a savage rising uppercut followed by a final two-handed overhead smash. Reaper’s entire form shatters into swirling black ash and ember particles that scatter across the desert floor. Warrior stands over the dissipating cloud, breathing hard.
+
+  28-30s: [Hard Cut Reverse Extreme Close-Up] Blurred warrior fills foreground, chest heaving, sweat and dust streaking his mask, mouth open in ragged breath. Sharp deep background: the dark figure slowly reconstitutes from residual ash, scythe reforming in hand, rising and stalking forward with predatory stillness.
+
+  Photorealistic, ultra-detailed fabric physics and particle simulation, perfect motion blur, volumetric haze at maximum density, coherent anatomy and proportions, stable character consistency, cinematic color grade, movie-level VFX polish.
+
+  Hope you like it! 🫡

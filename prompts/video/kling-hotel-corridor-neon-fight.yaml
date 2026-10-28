@@ -1,0 +1,27 @@
+id: kling-hotel-corridor-neon-fight
+title:
+  en: Hotel corridor fight under red neon lights
+  zh: 红色霓虹酒店走廊里的打斗戏
+model: Kling 3.0
+mode: text-to-video
+tags:
+- action
+- fight-scene
+- neon
+- tracking-shot
+- multi-character
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2019272810838061122
+  credit: Higgsfield AI 🧩
+  likes: 445
+  captured: '2026-10-27'
+  posted: '2026-02-05'
+video: https://x.com/higgsfield_ai/status/2019272810838061122
+notes:
+  en: 'The prompt sets the location and lighting first, then lists the action beats in order: stance, entrance from the right, block, grab, knee strike, push to the wall. A closing camera line asks for a steady tracking move that follows the action.'
+  zh: 提示词先定地点和光线，再按顺序写出动作节拍：防御姿态、右侧入场、格挡、擒抱、膝击、推向墙面。结尾一句镜头指令要求稳定跟拍，贴着动作走。
+prompt: |
+  A gritty, cinematic fight scene in a modern, dimly lit hotel corridor with grey concrete walls and dark wooden doors. The scene is illuminated by glowing red vertical neon lights.
+
+  A man in a white dress shirt and black trousers is in a defensive stance over a person lying on the floor. Suddenly, an attacker enters from the right, swinging a wooden baseball bat. The man in the white shirt quickly blocks the strike, grabs the attacker, and delivers a powerful knee strike to the midsection before pushing him back against the wall. The camera follows the movement with a steady, high-tension tracking motion.

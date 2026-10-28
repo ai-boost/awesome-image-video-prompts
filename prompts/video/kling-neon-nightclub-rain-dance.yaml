@@ -1,0 +1,29 @@
+id: kling-neon-nightclub-rain-dance
+title:
+  en: Woman dancing in neon nightclub and rain
+  zh: 女子在霓虹夜店与雨中起舞
+model: Kling 3.0
+mode: text-to-video
+tags:
+- neon
+- nightclub
+- rain
+- slow-motion
+- cinematic
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2052314090467405869
+  credit: Calira
+  likes: 445
+  captured: '2026-10-27'
+  posted: '2026-05-07'
+video: https://x.com/CaliraVal/status/2052314090467405869
+notes:
+  en: The prompt stacks subject, wardrobe, setting, lighting palette and camera moves in one dense paragraph. A separate negative list and a closing technical line for resolution, frame rate and grade keep the look consistent.
+  zh: 提示词在一段话里依次交代人物、服装、场景、霓虹配色和运镜。另附负面词清单，结尾再用一行写明分辨率、帧率和调色，使画面风格保持一致。
+prompt: |
+  A cinematic ultra-realistic 4K music video scene of a beautiful young woman in a neon-lit nightclub and rainy retro city at night. Vibrant pink, purple, blue, and teal neon lighting creates a dreamy cyberpunk atmosphere. The woman has long wet dark hair, glowing natural makeup, and wears a stylish white top with a dark skirt and black heels. Emotional slow-motion shots of her dancing freely in heavy rain on wet reflective streets, surrounded by colorful neon signs, vintage American cars, retro diners, and blurred nightclub crowds. Smooth cinematic camera tracking, soft bokeh lights, realistic rain effects, glossy pavement reflections, dramatic Hollywood-style lighting, shallow depth of field, sensual emotional mood, highly detailed skin texture, cinematic storytelling, shot on a 35mm film look with premium color grading.
+
+  low quality, blurry, distorted face, bad anatomy, extra fingers, extra limbs, cartoon, anime, oversaturated colors, noisy image, watermark, text, duplicate body, unrealistic eyes, glitch, low detail, poorly drawn hands
+
+  4K Ultra HD, 16:9 aspect ratio, 24fps, cinematic realism style, smooth slow-motion camera movement, Hollywood lighting, ultra detailed quality, realistic rain simulation, cinematic neon color grading

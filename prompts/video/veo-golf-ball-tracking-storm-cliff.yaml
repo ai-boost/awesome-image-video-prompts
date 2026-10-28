@@ -1,0 +1,34 @@
+id: veo-golf-ball-tracking-storm-cliff
+title:
+  en: Golfer on stormy cliff, camera tracks ball
+  zh: 暴雨海崖高尔夫球手与追球镜头
+model: Veo 3.1
+mode: text-to-video
+tags:
+- sports
+- tracking-shot
+- storm
+- physics
+- ball-pov
+source:
+  name: '@Dheepanratnam on X'
+  url: https://x.com/Dheepanratnam/status/2032810971140420073
+  credit: Dheepan Ratnam
+  likes: 666
+  captured: '2026-10-27'
+  posted: '2026-03-14'
+video: https://x.com/Dheepanratnam/status/2032810971140420073
+notes:
+  en: 'The prompt runs as a beat by beat sequence: swing, camera locks onto the ball, approach, then an extreme close up at the cup. It states the tracking behavior outright, with the ball sharp and centered while the background streaks, and adds sound cues like the crack of the club and howling wind.'
+  zh: 提示词按时间顺序分成挥杆、镜头锁定球、逼近果岭、杯口特写几个段落。它直接写明追踪规则，球保持清晰居中而背景拉成动态模糊，并加入击球脆响和风声等声音提示。
+prompt: |
+  video 1 - veo3.1
+  video 2 - Sora 2
+
+  "A dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove.
+
+  As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball into the stormy sky. The camera immediately accelerates and locks onto the golf ball mid-flight.
+
+  The camera tracks directly behind the spinning sphere, maintaining perfect alignment as it cuts through the driving rain. The ocean waves and dark clouds become a streaking motion blur while the ball remains sharp and centered.
+
+  The howling wind roars as the projectile travels straight and true. The manicured green grows rapidly larger. In the final seconds, the camera closes in tightly as the ball strikes the turf. End on an extreme close-up of the ball ripping through the wet grass, throwing up a spray of dirt before dropping perfectly into the cup."

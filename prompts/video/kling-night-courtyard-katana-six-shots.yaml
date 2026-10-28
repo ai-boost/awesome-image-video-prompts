@@ -1,0 +1,30 @@
+id: kling-night-courtyard-katana-six-shots
+title:
+  en: Woman slices wooden dummy in night courtyard
+  zh: 夜晚庭院中女子挥刀斩断木人桩
+model: Kling 3.0
+mode: text-to-video
+tags:
+- multi-shot
+- action
+- katana
+- macro
+- night
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2019104313302569185
+  credit: Higgsfield AI 🧩
+  likes: 2473
+  captured: '2026-10-27'
+  posted: '2026-02-04'
+video: https://x.com/higgsfield_ai/status/2019104313302569185
+notes:
+  en: Six numbered shots, each with its own framing, move a single scene from a macro mouth detail through wide action to a closing portrait. Naming the camera angle and the physical effect per shot, such as flying wood splinters and dust, gives the model clear impact beats.
+  zh: 六个编号镜头各自写明景别和运镜，从嘴部微距到全景动作再到收尾人像，节奏清晰。每个镜头都点明机位和物理效果，比如飞溅的木屑和灰尘，让冲击瞬间有据可依。
+prompt: |
+  Shot 1: An extreme close-up of a young woman's mouth, her teeth clenched on a wooden toothpick, creating a tense and gritty atmosphere.
+  Shot 2: A medium shot of the woman in a traditional Japanese-style courtyard at night, illuminated by soft lanterns. She is dressed in a white tank top and dark trousers, holding a katana in a defensive stance with a determined look on her face.
+  Shot 3: A dynamic, low-angle action shot of the woman jumping high into the air, raising her katana to strike a wooden training dummy that resembles a samurai in armor.
+  Shot 4: A close-up, high-speed impact shot showing the woman’s katana slicing through the wooden dummy, sending wood splinters and dust flying into the air.
+  Shot 5: A fast-paced tracking shot of the woman landing gracefully and immediately striking another wooden structure, demonstrating her speed and precision.
+  Shot 6: A final medium close-up of the woman’s face as she finishes her move. She is slightly breathless, her hair disheveled, with a sharp, focused gaze directed off-camera.

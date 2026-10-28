@@ -1,0 +1,33 @@
+id: veo-giant-girl-shibuya-crossing
+title:
+  en: Giant girl kneeling over a Tokyo crossing
+  zh: 巨型女孩跪在东京街口俯身触碰出租车
+model: Veo 3.1
+mode: image-to-video
+tags:
+- giant
+- scale
+- cityscape
+- photorealistic
+- template
+source:
+  name: '@MrDavids1 on X'
+  url: https://x.com/MrDavids1/status/1997581641892446293
+  credit: Travis Davids
+  likes: 3040
+  captured: '2026-10-27'
+  posted: '2025-12-07'
+video: https://x.com/MrDavids1/status/1997581641892446293
+notes:
+  en: A bracketed universal template fixes the camera angle, the giant's outfit, location and action, then adds tiny cars and people near the hands and feet to establish scale. Generate the still with Nano Banana Pro at 4K, then animate it with Veo 3.1 as image to video.
+  zh: 通用模板用方括号固定机位、巨人服装、地点和动作，再在手脚附近加入微小的车辆和行人来建立体量感。先用 Nano Banana Pro 以 4K 生成静帧，再交给 Veo 3.1 做图生视频。
+prompt: |
+  Here is a fun idea to try. You can create these images with giant people/animals using Nano Banana Pro. Just adjust the elements in brackets and have fun! If you have the option to generate at 4K, definitely use it as it makes the tiny people look crisper. These types of images seem to animate best with Veo 3.1 from testing, but you can try with Kling 2.6 or Grok Imagine as well so have some fun! Feel free to show me your giant humans/animals.
+
+  🍌Universal Prompt: A highly detailed, photorealistic [CAMERA ANGLE, e.g., wide-angle shot, aerial shot looking down, extreme low-angle looking up] showing a colossal [DESCRIBE THE PERSON & CLOTHING] positioned in [SPECIFIC LOCATION/CITY/LANDSCAPE]. The giant is [ACTION -  INTERACTING WITH THE ENVIRONMENT, e.g., sitting on a building, stepping over a bridge]. To establish the immense scale, tiny [TINY ELEMENTS: PEOPLE, CARS, OR BOATS] are visible near their [FEET/HANDS]. The lighting is [TIME OF DAY, e.g., golden hour, midday sun].
+
+  There are more visuals examples with prompts included in my 80 creative use cases document which you can view via this link completely for free. Look for use case 84.
+  https://
+  canva.com/design/DAG5ifq
+  rYJc/BReEw-WwUMW9HmSJBHWBXQ/edit
+  …

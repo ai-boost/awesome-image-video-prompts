@@ -1,0 +1,42 @@
+id: seedance-celestial-puppeteer-golden-star
+title:
+  en: Celestial puppeteer rebuilds a collapsing golden star
+  zh: 天界操偶师重塑崩塌的金色恒星
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- painterly-animation
+- multi-shot
+- character-sheet
+- sci-fi
+- 30-seconds
+source:
+  name: '@itsPixieVerse on X'
+  url: https://x.com/itsPixieVerse/status/2099712704940568739
+  credit: PIXEL
+  likes: 1127
+  captured: '2026-10-27'
+  posted: '2026-09-15'
+video: https://x.com/itsPixieVerse/status/2099712704940568739
+notes:
+  en: A fixed painterly style block with explicit negatives opens and closes the prompt, then WORLD and CHARACTER blocks lock the look. Ten timed shots of three seconds each, with the shot type named in every cut, give the 30 second piece a clear arc from macro detail to hero frame. The character sheet made with GPT Image 2.5 serves as the identity reference.
+  zh: 提示词首尾各放一段带明确排除项的绘画风格约束，中间用世界观和角色两个模块锁定外观。三十秒切成十个三秒镜头，每个镜头标明景别，从微距细节一路推到英雄定格。用 GPT Image 2.5 生成的角色设定图作为形象参考。
+prompt: |
+  Cinematic 2.5D animation in painterly rendering, gouache concept art in motion, visible brush textures, flat posterized color blocks, matte finish, soft volumetric lighting. NOT flat 2D cartoon, NO outlines, NOT glossy CGI, NO photorealism.
+
+  WORLD: Shattered zero-G celestial observatory overlooking a collapsing golden planetary core, palette of obsidian black, ivory stone, and blinding gold energy, floating cosmic debris.
+
+  CHARACTER: Extremely tall adult woman in early 20s, black visor-hat with glowing gold glyphs, floating orbital halo, black prosthetic arms with trailing strings. Massive ballooning obsidian cloak, cream draped gown, platform heels. Elongated tall proportions, supermodel legs, painterly matte skin.
+
+  CINEMATIC SHOT DESIGN (10 Filmic Cuts across 30 Seconds):
+  • SHOT 1 (0–3s | Macro Detail): Macro close-up of Ophelia's black prosthetic fingers twitching; glowing gold gravitational threads unspool into the vacuum.
+  • SHOT 2 (3–6s | Scale & Threat): Wide shot of the dying planetary core cracking in half, blasting shockwaves of golden light through floating ivory pillars.
+  • SHOT 3 (6–9s | Character Entrance): Low-angle tracking shot as Ophelia glides weightlessly into the abyss, her massive obsidian cloak ballooning around her like a cosmic void.
+  • SHOT 4 (9–12s | Expression Focus): Close-up on her face under the visor; the gold glyphs flare brightly as she tilts her head in absolute, chilling composure.
+  • SHOT 5 (12–15s | Casting the Strings): Medium shot; Ophelia sweeps both mechanical hands outward, casting hundreds of glowing gold puppet strings across the entire starfield.
+  • SHOT 6 (15–18s | Reality Pull): Dynamic wide shot; she violently pulls the strings taut, arresting the collapse of the planet and dragging the colossal burning fragments back together.
+  • SHOT 7 (18–21s | High-Speed Tracking): FPV tracking shot swooping past floating debris as the planetary fragments collide and fuse into a newly ignited miniature golden sun.
+  • SHOT 8 (21–24s | Power Apex): Medium shot; Ophelia rotates her mechanical wrists, the floating orbital halo around her head spinning rapidly and locking the new star into orbit behind her.
+  • SHOT 9 (24–27s | Aftermath Echo): Extreme wide shot; the restored golden star illuminates the massive expanse, Ophelia silhouetted dead-center as the master of the cosmos.
+  • SHOT 10 (27–30s | Hero Poster Frame): Low-angle hero shot; Ophelia lowers her hands, gravity strings dissolving into gold dust, her massive black mantle settling around her towering silhouette. Hold final frame.
+  Weighty natural animation, zero-G fabric motion, 24fps filmic motion, shallow depth of field.  NOT flat 2D cartoon, no bold outlines, not glossy CGI, no photorealism.

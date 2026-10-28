@@ -1,0 +1,41 @@
+id: kling-manhattan-panic-nine-shot-sequence
+title:
+  en: Panicked woman in striped robe on Manhattan street
+  zh: 身穿条纹睡袍的惊慌女子冲上曼哈顿街头
+model: Kling 3.0
+mode: text-to-video
+tags:
+- multi-shot
+- cinematic
+- handheld
+- macro
+- city
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2019314800409600470
+  credit: Higgsfield AI 🧩
+  likes: 622
+  captured: '2026-10-27'
+  posted: '2026-02-05'
+video: https://x.com/higgsfield_ai/status/2019314800409600470
+notes:
+  en: Each shot gets its own number, with a stated shot size, lens behavior and one concrete action. Cutaways to macro details and a contrasting calm scene build rhythm, and the character's look is repeated so she stays consistent across shots.
+  zh: 每个镜头单独编号，写明景别、镜头运动和一个具体动作。穿插微距细节和情绪反差的平静画面来制造节奏，并反复写出主角的外观，让她在各镜头间保持一致。
+prompt: |
+  Shot 1: High-intensity handheld tracking shot. A young woman with disheveled blonde hair, wearing a white tank top under a vibrant red and blue vertical-striped silk robe, bursts out of a shadowy alleyway. Her face is a mask of pure panic as she stumbles onto a sun-drenched Manhattan sidewalk, the camera shaking to mirror her frantic movements.
+
+  Shot 2: Medium shot, shallow depth of field. A middle-aged businessman in a charcoal suit and navy tie stands amidst a sea of pedestrians. He checks his silver watch with a sharp, rhythmic jerk of his wrist, his brow furrowed in annoyance. The background is a blur of yellow taxis and the towering architecture of 5th Avenue.
+
+  Shot 3: Extreme macro photography. The camera focus is locked onto the tip of a silver watch hand as it clicks forward. Microscopic dust motes dance in the harsh sunlight reflecting off the brushed metal surface of the dial.
+
+  Shot 4: Low-angle medium shot. Rapid-fire motion of a street drummer’s hands hitting a series of weathered white plastic buckets. The wooden drumsticks are a blur of motion, and the camera captures the vibration of the plastic lids as the city crowd flows past in a time-lapse-like stream.
+
+  Shot 5: Low-angle medium shot. The woman in the striped robe has stopped running; she is hunched over, hands on her knees, gasping for breath. The camera remains low, making the surrounding skyscrapers feel like they are closing in on her as she looks around, disoriented.
+
+  Shot 6: Macro close-up, high contrast. A man’s stubbled face as he inhales from a cigarette. The paper crinkles and the tobacco glows a fierce, molten orange before instantly turning into a delicate, flaky grey ash that threatens to fall.
+
+  Shot 7: Extreme close-up of the woman's face, focusing on her piercing blue eyes. Her pupils are dilated, and her forehead is deeply wrinkled with anxiety. The reflection of the busy street and moving vehicles can be seen glinting in her irises.
+
+  Shot 8: Medium-wide lifestyle shot. Two young Asian women walk across a city crosswalk, bathed in warm afternoon "golden hour" light. They are laughing and talking, creating a sharp emotional contrast to the previous shots of distress.
+
+  Shot 9: Final tight close-up. The blonde woman stares directly into the lens, her expression shifting from confusion to absolute shock. She slowly brings her hand up, her fingers trembling, to cover her mouth as her eyes well up with fear.

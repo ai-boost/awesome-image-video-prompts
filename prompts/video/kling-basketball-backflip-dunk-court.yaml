@@ -1,0 +1,28 @@
+id: kling-basketball-backflip-dunk-court
+title:
+  en: Basketball player backflip dunk on outdoor court
+  zh: 篮球运动员在室外球场后空翻扣篮
+model: Kling 3.0
+mode: text-to-video
+tags:
+- multi-shot
+- sports
+- basketball
+- low-angle
+- physics
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2019083976682684558
+  credit: Higgsfield AI 🧩
+  likes: 2533
+  captured: '2026-10-27'
+  posted: '2026-02-04'
+video: https://x.com/higgsfield_ai/status/2019083976682684558
+notes:
+  en: The prompt splits one action into four numbered shots (dribble, jump, mid-air flip, dunk), each with its own shot size and angle. Low angles and a slow-motion close-up on the flip give Kling's physics a clear beat to simulate.
+  zh: 提示词把一个动作拆成四个编号镜头（运球、起跳、空中翻转、扣篮），每个镜头都写明景别和机位。低机位加上翻转时的慢动作特写，让 Kling 的物理模拟每一步都有明确的画面目标。
+prompt: |
+  Shot 1: A side profile, medium shot of a muscular African American man in athletic wear, intensely dribbling a basketball on an outdoor concrete court towards a hoop against a high white wall under a bright blue sky.
+  Shot 2: A dynamic, low-angle wide shot showing the man jumping remarkably high into the air, performing a backflip while holding the basketball, with the white wall and sky in the background.
+  Shot 3: A close-up, slow-motion shot of the man mid-air and upside down during his flip, showing his focused expression and the basketball held firmly in his hands against the sky.
+  Shot 4: A dramatic, low-angle shot focusing on the basketball hoop as the man, still upside down from his acrobatic jump, powerfully dunks the ball into the net.

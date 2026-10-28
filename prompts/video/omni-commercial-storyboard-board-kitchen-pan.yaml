@@ -1,0 +1,107 @@
+id: omni-commercial-storyboard-board-kitchen-pan
+title:
+  en: Kitchen frying pan from a commercial storyboard
+  zh: 由商业分镜板生成的厨房平底锅视频
+model: Gemini Omni Flash
+mode: image-to-video
+tags:
+- storyboard
+- product-shot
+- commercial
+- kitchen
+- gpt-image-workflow
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2078516405251801458
+  credit: M-studioAi
+  likes: 589
+  captured: '2026-10-27'
+  posted: '2026-07-18'
+video: https://x.com/Strength04_X/status/2078516405251801458
+notes:
+  en: A structured prompt written as labeled sections (format, header, panel layout, photography style, footer) makes GPT Image 2 produce an eight frame storyboard board. That board then serves as the visual reference that Gemini Omni Flash animates into a product shot.
+  zh: 提示词按版式、页眉、分镜布局、摄影风格、页脚分段列出，让 GPT Image 2 先生成八格分镜板。再把分镜板作为视觉参考交给 Gemini Omni Flash，生成产品镜头。
+prompt: |
+  TITLE: Premium Commercial Storyboard Presentation
+
+  FORMAT:
+  • Single-page premium storyboard
+  • 3:4 Portrait ratio
+  • Luxury advertising agency presentation board
+  • Client-ready storyboard layout
+  • 8 storyboard frames
+  • Editorial Swiss grid system
+  • High-end presentation quality
+  • Print-ready infographic
+
+  HEADER:
+  • Large elegant serif title
+  • Premium minimalist information bar
+  • Information cards:
+    - Duration
+    - Style
+    - Audience
+    - Audio Suggestion
+  • Rounded "Why This Style Works" section
+  • Gold decorative doodles, stars, sparkles, hearts
+  • Soft cream luxury background
+  • Thin beige border
+  • Clean editorial spacing
+
+  STORYBOARD LAYOUT:
+  • 8 equal storyboard panels
+  • 2 rows × 4 columns
+  • Rounded white cards
+  • Soft realistic shadows
+  • Perfect alignment
+  • Equal margins
+  • Professional grid layout
+  • Large cinematic image in upper section
+  • Information block below image
+
+  EVERY STORYBOARD PANEL INCLUDES:
+  • Scene number inside white outlined circle
+  • Duration badge in top-right corner
+  • Large commercial-quality photograph
+  • Sections:
+    - Visual
+    - Action
+    - Dialogue
+  • Bold section titles
+  • Perfect typography hierarchy
+  • Consistent spacing
+  • Premium card design
+
+  PHOTOGRAPHY STYLE:
+  • Ultra realistic commercial photography
+  • Cinematic product shots
+  • Natural daylight
+  • Soft warm lighting
+  • Luxury advertising look
+  • Shallow depth of field
+  • Smooth background bokeh
+  • High-end product styling
+  • Professional color grading
+  • DSLR quality
+  • Premium lifestyle photography
+
+  GRAPHIC STYLE:
+  • Apple keynote presentation aesthetic
+  • Behance showcase quality
+  • Modern editorial magazine design
+  • Premium infographic
+  • Clean UI composition
+  • Luxury branding
+  • Elegant typography
+  • Minimalist design language
+  • Print-quality layout
+
+  FOOTER:
+  • Total Duration
+  • Format
+  • Visual Style
+  • Minimal line icons
+  • Premium editorial finish
+
+  QUALITY:
+  Ultra detailed, 8K, razor sharp, perfectly aligned, symmetrical composition, luxury commercial presentation, agency-quality storyboard, realistic textures, flawless typography, premium client presentation.

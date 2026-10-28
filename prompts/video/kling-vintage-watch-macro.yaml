@@ -1,0 +1,25 @@
+id: kling-vintage-watch-macro
+title:
+  en: Macro shot of a vintage wristwatch between fingers
+  zh: 指尖捏着复古腕表的微距镜头
+model: Kling 3.0
+mode: text-to-video
+tags:
+- macro
+- product-shot
+- shallow-depth-of-field
+- moody-lighting
+- cinematic
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2019088049448362164
+  credit: Higgsfield AI 🧩
+  likes: 2534
+  captured: '2026-10-27'
+  posted: '2026-02-04'
+video: https://x.com/higgsfield_ai/status/2019088049448362164
+notes:
+  en: The prompt fixes the camera distance in inches and lists concrete surface details such as dust, micro scratches and patina, so the model holds texture. A single warm grazing key light, a shallow depth of field and one small motion, the second hand, keep the shot stable.
+  zh: 提示词用英寸级机位距离，并列出灰尘、细划痕、包浆等具体表面细节，让模型稳住质感。单一暖色侧掠光、浅景深，加上只有秒针这一处微动，画面不易闪烁或崩坏。
+prompt: |
+  Ultra-realistic cinematic macro shot of a vintage wristwatch held between two fingers, extreme close-up framing focused on the watch face and crystal, with the camera positioned inches away to reveal fine dust particles, micro scratches on the glass, worn metal edges, engraved numerals, and subtle patina on the hands. Shallow depth of field isolates the dial while the background dissolves into soft, dark bokeh. The lighting is moody and directional, a single warm key light grazing the surface to create delicate reflections along the curved crystal and metallic rim, emphasizing texture and age. The second hand moves subtly, creating a sense of quiet tension and time passing. Skin texture of the fingers is visible at the edges of the frame, slightly out of focus, adding scale and realism. High contrast, cinematic color grading, soft film grain, precise focus breathing, and a tactile, intimate macro perspective that feels handcrafted and timeless.

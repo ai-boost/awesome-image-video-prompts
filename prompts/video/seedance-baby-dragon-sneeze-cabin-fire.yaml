@@ -1,0 +1,63 @@
+id: seedance-baby-dragon-sneeze-cabin-fire
+title:
+  en: Baby Dragon Sneezes Fire in Winter Cabin
+  zh: 小龙在冬日木屋打喷嚏点燃壁炉
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- fantasy
+- creature
+- multi-shot
+- cinematic
+- sound-design
+source:
+  name: '@Alina_with_Ai on X'
+  url: https://x.com/Alina_with_Ai/status/2108875306144813134
+  credit: Alina Ai
+  likes: 833
+  captured: '2026-10-27'
+  posted: '2026-10-10'
+video: https://x.com/Alina_with_Ai/status/2108875306144813134
+notes:
+  en: The prompt splits 25 seconds into four timed scenes, each with its own shot size and one clear action beat. A blue to amber color shift tracks the fire lighting up, and the sound design and a negative prompt keep the creature consistent.
+  zh: 提示词把 25 秒拆成四个带时间码的场景，每个场景指定景别和一个明确的动作节点。画面色调从冷蓝渐变到暖琥珀，对应壁炉点燃，再用声音设计和负面提示词稳住角色形象。
+prompt: |
+  CINEMATIC FANTASY | THE BABY DRAGON
+
+  Format: 16:9 | Duration: 25 seconds | Photorealistic CGI
+
+  Scene & Atmosphere:
+
+  Create a breathtaking, cinematic fantasy short set inside a cozy medieval winter cabin. The interior features dark, rough stone walls, a rustic wooden floor, a small frosted window overlooking a snowy pine forest, and an empty stone fireplace. Cold blue winter light filters through the window, creating a beautiful contrast with the warm golden glow that gradually fills the room. Use shallow depth of field, subtle handheld camera movement, realistic textures, fine film grain, and an intimate, heartwarming atmosphere.
+
+  Main Characters:
+
+  The Woman: A young woman with long, wavy dark brown hair, wearing a black wool cloak over a dark, rustic dress. She shivers from the freezing temperature, with her breath visible in the cold air. Her expressions are gentle, natural, and full of warmth.
+
+  The Baby Dragon: An adorable, cat-sized baby dragon with pearly white and pale pink shimmering skin, enormous amber eyes, delicate frilly ears, translucent pink wings with intricate rose-colored veins, and a long, slender tail. Its movements are lifelike, innocent, playful, and emotionally expressive.
+
+  Scene 1 | 0–6 Seconds: A Magical Encounter
+
+  Begin with a cinematic wide shot of the freezing cabin. The woman sits beside the cold stone fireplace, hugging herself to keep warm. Her breath forms delicate clouds in the chilly air. A tiny baby dragon waddles across the wooden floor, its little tail trailing behind. It climbs beside the fireplace, and the woman gently strokes its head. The dragon looks up at her with curious, sparkling amber eyes.
+
+  Scene 2 | 6–12 Seconds: The Tiny Sneeze
+
+  Transition into an intimate close-up of the baby dragon's face. Its eyes slowly close, its tiny nostrils twitch, and it prepares to sneeze. A little puff of smoke escapes from its nose. The dragon opens its eyes in surprise, looking adorably confused and embarrassed. The woman smiles warmly, leans closer, and gently encourages it to try again. The dragon scrunches its face, preparing for another sneeze.
+
+  Scene 3 | 12–17 Seconds: A Spark of Magic
+
+  Capture a close two-shot as the baby dragon suddenly sneezes again. This time, a tiny burst of golden-orange flame shoots from its mouth and ignites the dry twigs inside the fireplace. The flames begin to dance, casting beautiful golden reflections across the stone walls. The woman bursts into joyful laughter, clasping her hands as the warm light illuminates her face. The baby dragon looks at the newly lit fire with pride and innocent amazement.
+
+  Scene 4 | 17–25 Seconds: Warmth and Affection
+
+  The cabin is now filled with a cozy, golden glow as the fire crackles gently. The woman carefully wraps the tiny dragon in a thick, soft sheepskin fur. The dragon climbs into her lap, curls up comfortably, and nuzzles against her cheek. End with an emotional cinematic close-up of the woman gently touching her forehead to the dragon's snout while stroking its tiny head. The dragon purrs softly as they share a tender moment beside the glowing fireplace.
+
+  Cinematic Style & Sound Design:
+
+  Ultra-realistic live-action aesthetic with photorealistic CGI, detailed dragon skin, beautifully translucent wings, believable creature animation, expressive eyes, natural human movements, cinematic composition, soft volumetric lighting, realistic fire simulation, and smooth transitions. Begin with icy blue tones and gradually transition into rich amber and golden hues as the fireplace comes alive.
+
+  Sound design includes howling winter wind outside, soft breathing, tiny dragon footsteps, a cute sneeze, a gentle burst of flame, crackling fire, and emotional piano accompanied by delicate orchestral strings during the final scene.
+
+  Negative Prompt:
+
+  No text, no watermark, no subtitles, no distorted faces, no extra limbs, no malformed wings, no unnatural movements, no flickering character designs, no inconsistent character appearance, no cartoon style, no plastic textures, no scary or aggressive dragon, no sudden scene changes, and no unrealistic lighting.

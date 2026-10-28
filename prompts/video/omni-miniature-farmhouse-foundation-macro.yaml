@@ -1,0 +1,25 @@
+id: omni-miniature-farmhouse-foundation-macro
+title:
+  en: Miniature farmhouse foundation built by giant hands
+  zh: 巨型双手搭建的微缩农舍地基
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- miniature
+- macro
+- construction
+- hands
+- photorealistic
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2085930145374966138
+  credit: M-studioAi
+  likes: 1205
+  captured: '2026-10-27'
+  posted: '2026-08-08'
+video: https://x.com/Strength04_X/status/2085930145374966138
+notes:
+  en: The prompt lists concrete miniature materials and tools, then states the construction stage and the empty pool area, so the model knows what is built and what is not. Macro lens, shallow depth of field and giant hands against tiny objects set the scale contrast.
+  zh: 提示词先列出具体的微缩材料和工具，再写明施工阶段和预留的泳池空地，让模型清楚哪些已建、哪些未建。微距镜头、浅景深以及巨型双手与微小物件的对比确立了尺度感。
+prompt: |
+  Hyper-realistic miniature luxury farmhouse construction site at the very first stage of construction, viewed through cinematic macro photography. A small rectangular foundation area partially prepared on natural brown sand and compact soil, realistic miniature construction materials scattered naturally around the site, tiny red bricks, miniature cement bags, wooden beams, gravel, sand piles, metal rods, tiny buckets, miniature trowel, measuring tape, spirit level and other authentic construction tools. Giant human fingers and realistic human hands carefully interacting with the miniature materials, positioning the first construction pieces. The future farmhouse footprint clearly visible but construction has only just begun, with no completed walls or roof. Subtle markings and foundation trenches visible in the soil. A small empty area beside the foundation reserved for a future swimming pool. Extremely realistic material scale, authentic construction imperfections, tiny dust particles, cement residue, fingerprints, rough brick texture and granular soil detail. Professional miniature craftsmanship, photorealistic 8K detail, cinematic studio lighting, realistic soft shadows, shallow depth of field, strong foreground-to-background scale contrast, sharp focus on construction area, premium macro lens photography, realistic bokeh, natural color reproduction, high dynamic range, tactile textures, physically accurate lighting, believable human-to-miniature scale, no cartoon appearance, no CGI look, no text, no watermark.

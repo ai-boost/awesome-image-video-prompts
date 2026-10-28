@@ -1,0 +1,41 @@
+id: nano-banana-cobalt-ring-fashion-editorial
+title:
+  en: Platinum bob model in cobalt circular opening
+  zh: 钴蓝圆环中的铂金短发模特
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- fashion-editorial
+- architecture
+- cobalt-blue
+- studio-portrait
+- minimalist
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2109146295252459682
+  credit: Emma
+  likes: 370
+  captured: '2026-10-27'
+  posted: '2026-10-11'
+notes:
+  en: The prompt is split into labeled blocks for scene, outfit, pose, lighting, palette and photography style. Naming a lens, a medium-format look and a cool-versus-warm light split keeps the high-end editorial feel consistent.
+  zh: 提示词按场景、服装、姿势、光线、色板和摄影风格分块标注。写明镜头焦段、中画幅质感以及冷暖光对比，让高级编辑感保持统一。
+prompt: |
+  Create an ultra-realistic, high-end fashion editorial photoshoot featuring a beautiful young adult woman with short, tousled platinum-blonde bob hair, delicate facial features, fair skin, natural rosy lips, light-colored eyes, and a calm, confident expression.
+
+  Scene and Environment: A futuristic minimalist architectural studio featuring a massive sculptural circular opening with thick, smooth, curved white walls. The interior of the circular structure is a rich cobalt-blue or vibrant cyan-blue, creating a striking contrast against the white architectural frame. Clean geometric shapes, curved surfaces, and a contemporary art-gallery aesthetic.
+
+  Outfit and Styling: The model wears a sophisticated, oversized black knit sweater or elegant black long-sleeved top paired with tailored black or ivory trousers. Minimal makeup, natural skin texture, understated accessories, and effortless luxury styling.
+
+  Pose and Composition: The model poses naturally within and around the giant circular opening. Create a series of artistic editorial poses: a close-up portrait leaning forward through the circular frame, a full-body seated pose inside the sculptural ring with one knee raised, and a standing or seated three-quarter portrait with one hand resting on the curved white surface. Relaxed hands, graceful posture, elongated silhouette, and direct eye contact with the camera.
+
+  Lighting: Soft natural daylight entering from one side, creating beautiful directional highlights on the platinum hair, subtle shadows across the face, realistic skin tones, and soft gradients on the white architectural surfaces. Cinematic interplay between cool blue ambient light and warm sunlight.
+
+  Color Palette: Vivid cobalt blue, turquoise, icy cyan, pure white, deep black, and platinum blonde. Clean, cool-toned color grading with balanced highlights and rich shadows.
+
+  Photography Style: Luxury fashion magazine editorial, contemporary avant-garde photography, minimalist Scandinavian design, architectural fashion campaign, medium-format camera aesthetics, 85mm portrait lens, subtle depth of field, precise focus on the eyes, realistic hair strands, detailed knit fabric, natural skin texture, sophisticated framing, and premium commercial photography quality.
+
+  Image Quality: Photorealistic, ultra-detailed, 8K appearance, professional art direction, anatomically accurate hands, realistic proportions, elegant negative space, clean architectural geometry, natural facial expression, crisp details, refined composition, no artificial-looking skin, no excessive retouching.
+
+  Vertical portrait composition, 2:3 aspect ratio.

@@ -1,0 +1,25 @@
+id: kling-billiard-ball-pov-pocket
+title:
+  en: Billiard ball POV rolling into corner pocket
+  zh: 台球视角滚入底袋
+model: Kling 3.0
+mode: text-to-video
+tags:
+- pov
+- billiards
+- tracking-shot
+- physics-motion
+- ambient-sound
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2019253167662534748
+  credit: Higgsfield AI 🧩
+  likes: 449
+  captured: '2026-10-27'
+  posted: '2026-02-05'
+video: https://x.com/higgsfield_ai/status/2019253167662534748
+notes:
+  en: The prompt names an unusual camera identity, the ball itself, and splits the shot into strike, roll and drop beats. Low table level framing, motion blur, lamp light streaks and parallax from rails and background players keep the POV motion physical.
+  zh: 提示词把镜头设定为球本身，并把画面拆成击球、滚动、落袋三个节拍。低机位、边缘动态模糊、灯光拉出光束以及台边和背景人物的视差，让第一视角的运动显得真实。
+prompt: |
+  POV video from the perspective of a billiard ball on a pool table inside a dim, smoky billiard club. A focused male player leans in and strikes the ball with a cue. At the moment of impact, the camera becomes the ball, rolling straight toward a corner pocket across the green felt. Realistic rolling motion with subtle vibration and spin, low table-level angle, natural edge motion blur. Warm overhead lamps stretch into soft light streaks as the camera advances. Strong parallax as table rails and background players slide past. The pocket rapidly fills the frame — then the ball drops into the pocket, brief darkness, soft impact, and muffled ambient sound implied.

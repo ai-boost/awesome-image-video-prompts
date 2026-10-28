@@ -1,0 +1,35 @@
+id: gpt-image-forest-clearing-foliage-noise-test
+title:
+  en: Sunlit woodland clearing with dense green foliage
+  zh: 阳光洒落的林间空地与茂密绿叶
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- forest
+- nature
+- foliage
+- texture-test
+- landscape
+source:
+  name: '@mark_k on X'
+  url: https://x.com/mark_k/status/2097411028510179759
+  credit: Mark Kretschmann
+  likes: 415
+  captured: '2026-10-27'
+  posted: '2026-09-08'
+notes:
+  en: A single plain sentence that names the subject, the photo medium, and a highly detailed cue works as a noise artifact test, because dense repeating foliage exposes texture smearing and grain. The short wording leaves the model free to choose light and composition.
+  zh: 一句话点明主体、照片媒介和高细节要求，可作为噪点伪影测试，因为密集重复的树叶最容易暴露纹理涂抹和颗粒问题。提示词很短，光线与构图交由模型自行决定。
+prompt: |
+  GPT-Image-2.5 has arrived in
+  @ChatGPT
+   🔥
+
+  It features many improvements, but I couldn't help myself from doing the infamous "noise artifact" test.
+
+  The results are mixed!
+
+  Prompt: "Photo of a clearing in the woods with lots of green foliage, highly detailed"
+
+  See for yourself:

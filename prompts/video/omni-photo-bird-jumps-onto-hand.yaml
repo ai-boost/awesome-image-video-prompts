@@ -1,0 +1,24 @@
+id: omni-photo-bird-jumps-onto-hand
+title:
+  en: Bird leaps from laptop photo onto hand
+  zh: 小鸟从电脑照片中跃出落到手上
+model: Gemini Omni Flash
+mode: video-edit
+tags:
+- photo-to-life
+- animal
+- screen-breakout
+- live-action
+source:
+  name: '@alexanderchen on X'
+  url: https://x.com/alexanderchen/status/2060322611586834518
+  credit: Alexander Chen
+  likes: 1385
+  captured: '2026-10-27'
+  posted: '2026-05-29'
+video: https://x.com/alexanderchen/status/2060322611586834518
+notes:
+  en: 'The prompt first locks the screen content to match the source video, then describes one continuous action in order: head turn, leaving the photo, landing on the hand. A real filmed setup gives the effect a physical anchor.'
+  zh: 提示词先要求屏幕内容与原视频完全一致，再按顺序写出转头、离开照片、跳上手这一连续动作。真实拍摄的场景为画面效果提供了物理锚点。
+prompt: |
+  Start with the computer screen content exactly the same as in the video. Make the bird come to life, turning head, leaving the photo and jumping onto the person's hand.

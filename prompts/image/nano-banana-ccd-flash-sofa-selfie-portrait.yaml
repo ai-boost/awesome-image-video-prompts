@@ -1,0 +1,49 @@
+id: nano-banana-ccd-flash-sofa-selfie-portrait
+title:
+  en: Over the shoulder flash selfie on boucle sofa
+  zh: 米色毛圈沙发上的肩后闪光灯自拍
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- ccd-flash
+- selfie
+- korean-makeup
+- identity-preservation
+- labeled-blocks
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2107687127844856184
+  credit: Emma
+  likes: 157
+  captured: '2026-10-27'
+  posted: '2026-10-07'
+notes:
+  en: The prompt splits the brief into labeled blocks for pose, hair, expression, outfit, background and camera, and a tight crop that cuts off half the face keeps the framing intimate. A long negative list plus identity preservation from the attached photo keeps the face, neck and hands believable.
+  zh: 提示词用姿势、发型、表情、服装、背景、相机等分段标签组织，并用极紧的裁切只保留半张脸，画面更私密。末尾的长负面清单加上对参考图人物身份的保持，让脸、脖子和手更自然可信。
+prompt: |
+  Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed pores, rosy dewy skin, Douyin glass-skin, pink gloss lips, aegyosal, blush, grey contacts, wispy lashes, brushed brows, thin liner. Preserve her recognizable facial identity and natural proportions with a playful yet sophisticated Chryzleen-inspired indoor fashion aesthetic.
+
+  [POSE & COMPOSITION] A tight over-the-shoulder CCD selfie while she leans sideways into a plush sofa. The camera sits slightly behind and above her shoulder, creating a close three-quarter over-shoulder perspective. Only one eye, cheekbone, glossy lips, jawline, a sliver of neck, and the near shoulder are visible. The far side of her face is completely cropped out. Her head turns gently back toward the camera with a small natural tilt, keeping the neck relaxed and anatomically believable. One hand rests loosely on the sofa back behind her, with fingertips visible at the edge of the frame. The pose feels subtly seductive and candid rather than overly posed.
+
+  [HAIR] Deep side part with lifted roots and intentionally untidy, windswept volume. Several wispy strands fall across the forehead and cheek, while loose pieces spill naturally behind the shoulder. The hair should have irregular movement and soft imperfections, avoiding a freshly styled appearance.
+
+  [EXPRESSION] Half-lidded grey-contact gaze looking back toward the camera, relaxed brows, slightly lifted chin, soft jaw, glossy pink lips parted just enough to show a subtle glimpse of front teeth. Alluring, confident, and understated.
+
+  [OUTFIT] Sky-blue fitted sweetheart-neckline knit top with tiny white embroidered daisies, delicate scalloped edging, and miniature pearl-like buttons. Cute modern indoor fashion with a feminine fitted silhouette and soft textured fabric.
+
+  [BACKGROUND & ENVIRONMENT] A cozy contemporary living room with a warm beige boucle sofa, muted dusty-blue wall, softly blurred floor lamp, and a small cream cushion behind her. The room is visible only in narrow fragments around the extremely tight crop.
+
+  [BRANDING] A miniature Chryzleen engraving is physically placed on a tiny gold bracelet charm worn on the hand resting against the sofa. The Chryzleen mark should be naturally etched into the metal and remain subtle. This single Chryzleen accessory is the only visible branding treatment in the entire image.
+
+  [CAMERA] Old CCD digicam, direct flash, fine grain. Close over-the-shoulder three-quarter perspective with crisp detail on the visible eye, cheek, lips, messy hair wisps, shoulder, fingers, and tiny jewelry detail.
+
+  [QUALITY] Photorealistic pores and skin texture, natural facial asymmetry, believable hair movement, realistic hands and fingers, seamless neck anatomy, authentic knit texture, natural CCD grain, premium indoor fashion-editorial finish.
+
+  [MAKEUP] Fresh Korean soft-glam, natural glow, pink blush, wispy lashes, thin winged liner, shimmering rose-taupe eyeshadow, glossy pink lips.
+
+  Keep the Chryzleen branding physically integrated into the jewelry and visually understated, never functioning as graphic text.
+
+  1:1 aspect ratio.
+
+  [NEGATIVE PROMPT] cardigan, cardigan outfit, jacket, blazer, excessive head turn, extreme head tilt, extreme neck arch, twisted neck, unnatural neck curve, stiff pose, frontal selfie, symmetrical composition, perfectly polished hair, salon-perfect hair, no facial wisps, perfectly arranged strands, full body, half body, waist-up, loose crop, distant camera, excessive living room, hands covering face, hair-touching, malformed hands, extra fingers, missing fingers, warped eyes, plastic skin, over-smoothed face, pale washed-out skin, green cast, square skin artifacts, identity drift, multiple people, multiple Chryzleen marks, duplicate branding, watermark, floating text, random readable signage.

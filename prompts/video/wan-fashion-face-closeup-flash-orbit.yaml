@@ -1,0 +1,115 @@
+id: wan-fashion-face-closeup-flash-orbit
+title:
+  en: Ultra close fashion portrait with candid flashes
+  zh: 带抓拍闪光的超近景时尚人像
+model: Wan 3.0
+mode: text-to-video
+tags:
+- portrait
+- fashion
+- close-up
+- skin-texture
+- vertical
+source:
+  name: '@leaf_sanren on X'
+  url: https://x.com/leaf_sanren/status/2105645639703183753
+  credit: Leaf Yeah!
+  likes: 1439
+  captured: '2026-10-27'
+  posted: '2026-10-01'
+video: https://x.com/leaf_sanren/status/2105645639703183753
+notes:
+  en: The prompt splits the 15 seconds into five timed beats, each with its own camera move, gaze and flash cue. It also lists real skin flaws and bans plastic skin, which keeps the face photographic.
+  zh: 提示词把15秒拆成五个时间段，每段写明运镜、眼神和闪光时机。同时列出真实的皮肤瑕疵并禁止塑料感，让人脸保持摄影质感。
+prompt: |
+  Generate this video: Create a 15-second, 9:16 vertical screen, ultra-high-definition 4K, 30fps, cinematic realistic portrait quality fashion portrait short film.
+
+  The main subject of the frame is a young Asian woman around 20-25 years old, with a high-end face—cool with a touch of youthful greenness, delicate features but not overly perfect, smooth facial contours, natural nose bridge, full lips, eyes with depth, overall vibe like a car model or a close-up candid shot by a photographer at a fashion event.
+  No influencer vibe, no exaggerated plastic surgery face, no plastic skin, no excessive skin smoothing, no overly heavy fake lashes, no exaggerated highlights, no anime feel.
+  The character's skin must be realistic: clearly visible pores, subtle skin texture, light foundation caking, faint acne marks, very shallow pockmarks, under-eye fine lines, natural contours on nose wings and cheeks, lip lines, a few stray hairs and hair edge wisps. Makeup is refined but imperfect high-end subtle look: base slightly adherent but not flawless, clean eye makeup, naturally realistic lashes, lips with a subtle sheen.
+  Hair is black or dark brown straight long hair, with natural stray strands and a slight messy feel, not too deliberate.
+
+  Scene and Atmosphere
+
+  Scene is a high-end fashion event venue / auto show activity area / luxury brand launch event close-up portrait atmosphere, but the background must be blurred, not highlighting specific brands or text. Background can include soft exhibition hall lighting, minimal out-of-focus neon reflections, blurred crowds, blurred car body highlight reflections or metallic texture backgrounds, overall atmosphere high-end, restrained, fashionable.
+  No subtitles, no stickers, no watermarks, no readable text, no exaggerated effects, no illogical flashy lights.
+
+  Lighting Requirements
+
+  Lighting must conform to real-world logic, like a real photographer shooting close-up at the event site.
+  Main light is soft but directional facial key light, coming from slightly off to the front upper side, creating natural facial light and shadow layers.
+  Fill light is very subtle, retaining some shadows to enhance facial dimensionality.
+  Environment can include soft cool-toned rim light or auto show site reflection light to make the face more three-dimensional.
+  Throughout, allow 2 to 3 brief flash occurrences; flashes must feel like natural on-site photography flashes, quickly lighting up only in certain moments, causing temporary enhancement of facial highlights, more obvious pupil catchlights, brighter skin reflections, but no constant strobing, no illogical flashing.
+  When flashes occur, it should feel like a photographer's candid shot: lights up once and done, realistic light ratios, face not overexposed, skin details still visible.
+
+  Camera and Movement (Top-Tier Cinematography)
+
+  Overall, use ultra-close portrait movement, with the lens always orbiting the face to highlight eyes, nose bridge, lips, cheeks, hair strands, and skin texture.
+  Cinematography language is high-end, fluid, restrained, with a fashion ad and backstage photography candid feel.
+  No heavy shaky cam, no disorienting motion, no exaggerated AI camera moves, no sudden pull-backs.
+  Movement must feel natural, like a high-end photographer using a handheld gimbal or slight handheld shooting:
+
+  0-3 seconds
+
+  Lens starts with an ultra-close side-front face push-in, focus on eyes and nose bridge area, subject slightly lifts gaze to lens, natural breathing feel, lips subtly relaxed.
+  Lens does an extremely subtle slow push-in, with very light lateral sliding, showcasing cheeks, under-eye texture, and hair strands.
+  This segment should make viewers feel the face's high-end realism right from the first glance.
+
+  3-6 seconds
+
+  Lens slides along the face from eyes to nose tip, then to near the lips, in an extremely steady micro-arc orbit, close-up observation of features.
+  Subject's gaze subtly shifts, no exaggerated acting—just gently looks toward lens edge, then slowly back to lens.
+  First flash can occur here, briefly lighting up to enhance skin texture and lip highlights.
+
+  6-9 seconds
+
+  Lens slowly turns from front-left to front-right, still maintaining face-push distance, emphasizing cheek skin texture, nose wing details, lower eyelid fine lines, lashes, and pupil reflections.
+  Subject lightly brushes a bit of hair, or a stray strand naturally falls to the side of the face.
+  Lens has a subtle breathing-like float for real photography feel, not rigid.
+
+  9-12 seconds
+
+  Lens subtly shifts down to highlight lips, jawline, and cheeks, then slowly back to eyes.
+  Subject's expression stays cool, restrained, with a touch of high-end aloofness, like a car model caught close-up by a photographer, occasionally a gentle blink, corners of mouth with extremely subtle relaxation.
+  Second flash occurs here, natural and instantaneous like on-site candid, returning to normal light after.
+  Post-flash, catchlights in eyes more prominent, giving the frame more fashion editorial vibe.
+
+  12-15 seconds
+
+  Lens does one of the most beautiful ultra-close light arc closes, subtly orbiting the face and lightly pushing in, finally settling on an ideal composition of eyes + nose bridge + half lips.
+  Subject gently lifts gaze to straight-on lens in the last second, eyes clean, calm, captivating.
+  Ending can have a third very subtle flash or environmental highlight sweep, but must feel natural, not overdone.
+  Finally holds on a high-end face-push frame perfect for a thumbnail cover.
+
+  Frame Style
+
+  Overall style is:
+  Real cinematic fashion portrait, close-up commercial photography, auto show model face-close candid, high-end magazine feel, natural skin texture, non-studio fake-face sense.
+  Include real lens bokeh, natural depth of field, fine skin quality, subtle on-site feel, restrained high-end vibe.
+  Not influencer selfie, not live stream, not Korean-style skin smoothing, not low-quality AI face.
+
+  Key Emphases
+
+  Face must be real, not fake
+
+  Skin can't be overly perfect, retain subtle imperfections
+
+  Features stable, no distortion
+
+  Eyes can't wander, lips can't move randomly
+
+  Hair strands must be real, with stray hairs
+
+  Flashes must follow real candid logic
+
+  Lighting must be real, no random strobing
+
+  Camera must be high-end, smooth, cinematic, fashion photography feel
+
+  Whole piece centers on "high-end face close-up showcase," no plot, no big movements
+
+  Negative Restrictions (Suggest Adding Together)
+
+  Negative prompts:
+  Cartoonish feel, CG feel, plastic skin, excessive smoothing, over-beautification, feature distortion, eye misalignment, skin wax figure feel, overexposure, illogical flash strobing, face shake, low clarity, low-quality hair strands, exaggerated filters, influencer face, overly heavy fake lashes, heavy makeup, shaky lens, limb distortion, cluttered background, readable text, subtitles, stickers, watermarks,

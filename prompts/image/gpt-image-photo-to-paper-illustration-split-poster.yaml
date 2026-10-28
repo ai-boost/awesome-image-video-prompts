@@ -1,0 +1,50 @@
+id: gpt-image-photo-to-paper-illustration-split-poster
+title:
+  en: Lakeside Photo Paired With Paper Illustration
+  zh: 湖边实景照片搭配手绘纸本插画
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- editorial-poster
+- photo-to-illustration
+- split-layout
+- paper-texture
+- minimalist
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2107346549542203400
+  credit: Harboris
+  likes: 417
+  captured: '2026-10-27'
+  posted: '2026-10-06'
+notes:
+  en: A strict 50/50 split keeps the top as a faithful photo and turns the bottom into a small centered handmade illustration of the same scene. Capping the palette at 4 colors extracted from the photo, plus generous paper negative space, ties the two halves together.
+  zh: 严格五五分栏，上半保留原照片，下半把同一场景重绘成居中的小幅手绘插画。调色限制为从照片提取的最多四种颜色，并留出大量纸面空白，让上下两部分连成一体。
+prompt: |
+  Create one independent high-end editorial poster for each uploaded photo. Never combine photos.
+
+  FORMAT
+  Strict 3:4 vertical composition with an exact 50/50 horizontal split. The top and bottom halves must be equal in height and visually connected as one refined editorial cover.
+
+  TOP HALF: ORIGINAL PHOTO
+  Use the original photo faithfully. Preserve the subject, identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and color mood. Keep it fully photorealistic with only subtle premium editorial color grading. Never stylize, distort, replace, or alter the main subject. Extend only surrounding background when necessary, seamlessly and naturally.
+
+  BOTTOM HALF: HAND-DRAWN ILLUSTRATION
+  Reinterpret the same scene as a minimalist handmade paper illustration. Preserve the recognizable subject, silhouette, pose, key objects, and main visual story.
+
+  Use delicate imperfect lines, simple acrylic-style flat color shapes, visible brush marks, rough paper texture, organic edges, and subtle handmade imperfections. Keep the illustration small and centered, occupying about 10–20% of the bottom half, with generous negative space.
+
+  Use a rough white, warm off-white, or pale natural paper background with only minimal environmental details.
+
+  COLOR
+  Extract colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors. Use controlled flat color blocks while maintaining subtle paper grain and brush texture.
+
+  TYPOGRAPHY
+  Optional minimal editorial text only when appropriate, such as a short title, keyword, location, or number. Keep it understated and never force text into the design.
+
+  STYLE
+  Quiet, poetic, refined, minimal, relaxed, artistic, thoughtful, premium, high-recognition.
+
+  FINAL
+  Maintain the exact 50/50 split. The top must remain a faithful photograph, while the bottom is a simplified handmade illustration of the same scene. Avoid clutter, excessive colors, heavy typography, artificial effects, or unnecessary details. The result should feel like a premium contemporary independent art publication cover.

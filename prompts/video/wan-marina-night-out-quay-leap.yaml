@@ -1,0 +1,82 @@
+id: wan-marina-night-out-quay-leap
+title:
+  en: Night out friends and a quay leap
+  zh: 夜晚码头闺蜜同游与跳水
+model: Wan 3.0
+mode: text-to-video
+tags:
+- ugc
+- handheld
+- night
+- shot-list
+- sync-sound
+source:
+  name: '@mightyking on X'
+  url: https://x.com/mightyking/status/2091842964054212842
+  credit: Stav Zilbershtein
+  likes: 1353
+  captured: '2026-10-27'
+  posted: '2026-08-24'
+video: https://x.com/mightyking/status/2091842964054212842
+notes:
+  en: Opens with a style and characters block and a setting block, then a timestamped shot list that gives each beat its own camera move such as a backward track, a whip tilt and a high angle look down. A separate audio block asks for live sync sound with no music, which supports the raw phone footage look.
+  zh: 先写风格、角色和场景,再用带时间戳的分镜表,每个片段单独指定运镜,如倒退跟拍、甩镜下摇和俯拍。单独的音频段要求现场同期声且无音乐,强化手机随拍的真实感。
+prompt: |
+  Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+  Characters
+
+  The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag.
+
+  Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals.
+
+  Laughing, spontaneous night-out energy.
+
+  Setting
+
+  A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls.
+
+  Warm orange street lamps, palm trees, distant city lights.
+
+  The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+  Shot list
+
+  0.0s–4.0s — Wide tracking shot, eye level, camera moving backward
+  The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+  4.0s–6.0s — Medium shot, eye level, backward track + quick left pan
+  The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+  6.0s–8.0s — Medium-wide, camera tilts down-left to follow, whip motion
+  She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+  8.0s–10.0s — High-angle wide, looking down at the water, slight jolt
+  From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+  10.0s–13.0s — High-angle medium, looking down, small handheld drift
+  She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+  13.0s–16.0s — Handheld tilt up and back down, slight zoom
+  The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+  16.0s–20.0s — High-angle medium, tilting to follow her up
+  She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+  20.0s–23.0s — Low/close medium at the quay edge, static handheld
+  She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+  23.0s–27.0s — Medium shot, eye level, loose handheld reframe
+  Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+  27.0s–30.0s — Medium shot, eye level, camera settles
+  Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+  Audio
+
+  Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds.
+  No music.
+
+  Style
+
+  Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.

@@ -1,0 +1,31 @@
+id: veo-empty-room-loft-construction-timelapse
+title:
+  en: Empty room timelapse building a loft
+  zh: 空房间延时搭建阁楼
+model: Veo 3.1
+mode: keyframes-to-video
+tags:
+- time-lapse
+- interior-design
+- construction
+- start-end-frames
+- nano-banana-pro
+source:
+  name: '@venturetwins on X'
+  url: https://x.com/venturetwins/status/1992725268855968071
+  credit: Justine Moore
+  likes: 1986
+  captured: '2026-10-27'
+  posted: '2025-11-23'
+video: https://x.com/venturetwins/status/1992725268855968071
+notes:
+  en: Start and end frames, both made in Nano Banana Pro, fix the empty room and the finished design. The prompt only describes the fast motion construction between them, so Veo fills in the transformation.
+  zh: 首尾帧由 Nano Banana Pro 先生成，分别锁定空房间和完工效果。提示词只描述两帧之间的快速施工过程，由 Veo 补全中间的变化。
+prompt: |
+  Did some experimenting and figured out the workflow for AI design transformations:
+
+  Start with a base image of a room with no furniture. Then prompt on Nano Banana Pro to add what you'd like (e.g. a cool door frame, loft, or pool).
+
+  Take to Veo 3.1 as your start and end frames.
+
+  Prompt: "time lapse construction, fast motion as a construction workers bring a tree into the living room and then construct the loft and add the couch and lights."

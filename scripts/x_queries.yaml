@@ -1,0 +1,10 @@
+# Weekly X refresh: one search per line, run in order by scripts/x_collect.py --config.
+# Keep the total small; the searches run on a real signed-in account.
+- {model: Seedance 2.5, kind: video, max: 8, query: '"Seedance 2.5" prompt min_faves:400 filter:videos'}
+- {model: Wan 3.0, kind: video, max: 8, query: '("Wan 3.0" OR wan3.0) prompt min_faves:150 filter:videos'}
+- {model: Kling 3.0, kind: video, max: 6, query: '"Kling 3.0" prompt min_faves:200 filter:videos'}
+- {model: Veo 3.1, kind: video, max: 5, query: '"Veo 3.1" prompt min_faves:300 filter:videos'}
+- {model: MiniMax H3, kind: video, max: 5, query: '("MiniMax H3" OR "Hailuo H3") prompt min_faves:150 filter:videos'}
+- {model: Gemini Omni Flash, kind: video, max: 5, query: '"Gemini Omni" prompt min_faves:150 filter:videos'}
+- {model: GPT Image 2.5, kind: image, max: 10, query: '"GPT Image 2.5" prompt min_faves:250 filter:images'}
+- {model: Nano Banana 2.1, kind: image, max: 8, query: '"Nano Banana 2.1" prompt min_faves:120 filter:images'}
