@@ -4,6 +4,7 @@ title:
   zh: 铁匠把铁块打成巨剑，从首帧到尾帧
 model: Kling 4.0
 mode: keyframes-to-video
+category: cinematic
 tags:
 - keyframes
 - craft

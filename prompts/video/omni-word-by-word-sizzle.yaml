@@ -4,6 +4,7 @@ title:
   zh: 动态文字，一拍一个词
 model: Gemini Omni Flash
 mode: text-to-video
+category: vfx
 tags:
 - text-render
 - motion-graphics

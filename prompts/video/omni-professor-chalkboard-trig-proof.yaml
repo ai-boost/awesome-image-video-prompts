@@ -4,6 +4,7 @@ title:
   zh: 教授在黑板上书写三角恒等式证明
 model: Gemini Omni Flash
 mode: text-to-video
+category: dialogue
 tags:
 - education
 - chalkboard

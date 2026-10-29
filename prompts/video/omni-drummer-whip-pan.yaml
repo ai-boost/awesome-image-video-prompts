@@ -4,6 +4,7 @@ title:
   zh: 从鼓手甩镜到萨克斯手和芭蕾舞者
 model: Gemini Omni Flash
 mode: keyframes-to-video
+category: music-dance
 tags:
 - first-last-frame
 - camera-move

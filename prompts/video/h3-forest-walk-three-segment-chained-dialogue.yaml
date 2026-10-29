@@ -4,6 +4,7 @@ title:
   zh: 两个女人在森林小径相遇同行
 model: MiniMax H3
 mode: reference-to-video
+category: dialogue
 tags:
 - chained-segments
 - dialogue

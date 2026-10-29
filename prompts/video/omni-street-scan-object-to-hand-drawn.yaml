@@ -4,6 +4,7 @@ title:
   zh: 第一人称扫描街头物件变成手绘动画
 model: Gemini Omni Flash
 mode: text-to-video
+category: vfx
 tags:
 - pov
 - hand-drawn

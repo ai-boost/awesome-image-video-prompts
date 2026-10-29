@@ -4,6 +4,7 @@ title:
   zh: 测试房间里的人撤销最后三个动作
 model: MiniMax H3
 mode: text-to-video
+category: dialogue
 tags:
 - reasoning-test
 - fixed-camera

@@ -4,6 +4,7 @@ title:
   zh: 用一张角色设定图做七个镜头的滑雪片
 model: Kling 4.0
 mode: reference-to-video
+category: action
 tags:
 - sports
 - multi-shot

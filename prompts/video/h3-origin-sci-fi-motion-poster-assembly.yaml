@@ -4,6 +4,7 @@ title:
   zh: 科幻ORIGIN海报逐层动态拼合
 model: MiniMax H3
 mode: image-to-video
+category: vfx
 tags:
 - motion-poster
 - typography

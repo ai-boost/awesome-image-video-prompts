@@ -10,7 +10,7 @@
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
-<a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/en/video-wan30.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/en/video-minimaxh3.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/en/video-geminiomniflash.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/en/video-kling30.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
+<a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/en/video-scifi-fantasy.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/en/video-scifi-fantasy.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/en/video-vfx.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/en/video-cinematic.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="pages/en/video-action.md#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
 
 </div>
 
@@ -19,16 +19,18 @@
 ## Contents
 
 - [Recently added](#recent)
-- [Video prompts](#video) (378 entries)
-  - [Wan 3.0](#wan30) (18)
-  - [MiniMax H3](#minimaxh3) (93)
-  - [Seedance 2.5](#seedance25) (163)
-  - [Gemini Omni Flash](#geminiomniflash) (29)
-  - [Kling 4.0](#kling40) (26)
-  - [Kling 3.0](#kling30) (29)
-  - [Veo 3.1](#veo31) (11)
-  - [Veo 3](#veo3) (5)
-  - [Sora 2](#sora2) (4)
+- [Video prompts](#video) (374 entries)
+  - [Cinematic scenes and short films](#vid-cinematic) (36)
+  - [Action, chases and sports](#vid-action) (65)
+  - [Sci-fi and fantasy](#vid-scifi-fantasy) (35)
+  - [Anime and animation](#vid-anime) (32)
+  - [Ads and product videos](#vid-commercial) (47)
+  - [Dialogue and talking heads](#vid-dialogue) (27)
+  - [Music and dance](#vid-music-dance) (19)
+  - [Phone footage and vlogs](#vid-vlog) (61)
+  - [Nature, travel and aerial](#vid-nature) (3)
+  - [Animals and pets](#vid-animal) (14)
+  - [VFX and transformations](#vid-vfx) (35)
 - [Image prompts](#image) (1146 entries)
   - [Posters and editorial layouts](#img-poster) (187)
   - [Infographics and slides](#img-infographic) (88)
@@ -70,235 +72,109 @@
 <a id="video"></a>
 ## Video prompts
 
-Every prompt below is quoted verbatim from its source: the model maker's own guide or model card, or a creator's post on X with the video attached. Click a thumbnail to watch the original with sound. Sections follow the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video) ranking; creator posts are sorted by likes, counted on the date shown.
+Every prompt below is quoted verbatim from its source: the model maker's own guide or model card, or a creator's post on X with the video attached. Click a thumbnail to watch the original with sound. Grouped by what you want to make, covering the leaders of the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video); each entry names its model, and creator posts are sorted by likes, counted on the date shown.
 
-<a id="wan30"></a>
-## Wan 3.0
+<a id="vid-cinematic"></a>
+## Cinematic scenes and short films
 
-<a id="wan-fashion-face-closeup-flash-orbit"></a>
-### Ultra close fashion portrait with candid flashes
+<a id="h3-character-detail-montage"></a>
+### Twenty shot character detail montage, face revealed last
 
-<a href="https://x.com/leaf_sanren/status/2105645639703183753"><img src="previews/wan-fashion-face-closeup-flash-orbit.jpg" width="360"></a>
+<a href="https://x.com/aimikoda/status/2100258514132217859"><img src="previews/h3-character-detail-montage.jpg" width="360"></a>
 
-The prompt splits the 15 seconds into five timed beats, each with its own camera move, gaze and flash cue. It also lists real skin flaws and bans plastic skin, which keeps the face photographic.
+A numbered shot list with time blocks and one abrupt camera move per shot builds three connected action bursts. Faces stay out of frame until shot 20, and hard match cuts link similar shapes without morphing.
 
-Wan 3.0 · Text-to-video · Source: [@leaf_sanren on X](https://x.com/leaf_sanren/status/2105645639703183753) · 1,439 likes on 2026-10-27
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2100258514132217859) · 3,281 likes on 2026-10-28
 
-[`portrait`](pages/en/tags.md#tag-portrait) [`fashion`](pages/en/tags.md#tag-fashion) [`close-up`](pages/en/tags.md#tag-close-up) [`skin-texture`](pages/en/tags.md#tag-skin-texture) [`vertical`](pages/en/tags.md#tag-vertical)
+[`character-reference`](pages/en/tags.md#tag-character-reference) [`montage`](pages/en/tags.md#tag-montage) [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) [`camera-moves`](pages/en/tags.md#tag-camera-moves) [`studio-background`](pages/en/tags.md#tag-studio-background)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Generate this video: Create a 15-second, 9:16 vertical screen, ultra-high-definition 4K, 30fps, cinematic realistic portrait quality fashion portrait short film.
+Use @[character reference] for the character's identity, anatomy, costume, colors, materials and visual style. Adapt body-region cues to its actual anatomy, replacing absent features with existing equivalents. Invent no anatomy or accessories. Select signature inserts from its most recognizable details. Rigid parts rotate; flexible materials bend or stretch.
 
-The main subject of the frame is a young Asian woman around 20-25 years old, with a high-end face—cool with a touch of youthful greenness, delicate features but not overly perfect, smooth facial contours, natural nose bridge, full lips, eyes with depth, overall vibe like a car model or a close-up candid shot by a photographer at a fashion event.
-No influencer vibe, no exaggerated plastic surgery face, no plastic skin, no excessive skin smoothing, no overly heavy fake lashes, no exaggerated highlights, no anime feel.
-The character's skin must be realistic: clearly visible pores, subtle skin texture, light foundation caking, faint acne marks, very shallow pockmarks, under-eye fine lines, natural contours on nose wings and cheeks, lip lines, a few stray hairs and hair edge wisps. Makeup is refined but imperfect high-end subtle look: base slightly adherent but not flawless, clean eye makeup, naturally realistic lashes, lips with a subtle sheen.
-Hair is black or dark brown straight long hair, with natural stray strands and a slight messy feel, not too deliberate.
+A 15-second character-detail montage: exactly 20 shots joined by hard cuts. An empty, seamless warm-white studio background; soft directional light reveals the surfaces. Shots 1-19 are tightly cropped body details and rear angles: keep the face, eyes and facial profile entirely outside the frame, including reflections. Shot 20 is the first and only face reveal. No full-body view.
 
-Scene and Atmosphere
+Three connected bursts: a sharp head turn with the body bracing; a coiled arm opening into a strong sweep and torso twist; one short step into a planted pivot, finishing with a sudden look into camera. Carry body state across cuts without resetting to neutral. Existing hair, clothing and attachments react naturally. Keep the character active, with clear articulation and weight shifts.
 
-Scene is a high-end fashion event venue / auto show activity area / luxury brand launch event close-up portrait atmosphere, but the background must be blurred, not highlighting specific brands or text. Background can include soft exhibition hall lighting, minimal out-of-focus neon reflections, blurred crowds, blurred car body highlight reflections or metallic texture backgrounds, overall atmosphere high-end, restrained, fashionable.
-No subtitles, no stickers, no watermarks, no readable text, no exaggerated effects, no illogical flashy lights.
+Jump between distant body regions. Mix brief visual punches with longer moving-detail reads. Use one abrupt camera move per shot except locked-camera inserts 4 and 11, where the character supplies the speed. Vary height, angle and direction. Brake moves briefly for legibility while the subject keeps moving. Local whips stay tightly cropped; changes of body region use hard cuts. Connect selected cuts through similar shapes or motion vectors, without morphing. Real-time action, no slow motion or freeze frames.
 
-Lighting Requirements
+0-3s, shots 1-5. A concealed head turn triggers the first burst:
+1. Extreme upper-back detail: a crash push catches its surface shifting as a sharp head turn begins entirely above the crop.
+2. Fingers: a short downward snap catches them curling into a fist as the body braces.
+3. Rear three-quarter shoulder detail: a tight camera arc catches the shoulder drawing back behind the turning head.
+4. Locked floor-level foot detail: the grounded support foot braces, its raised heel pressing down firmly without taking a step.
+5. Rear neck detail: a short upward tilt catches the nape stretching with the turn; stop below the back of the head, keeping the jaw and face excluded.
 
-Lighting must conform to real-world logic, like a real photographer shooting close-up at the event site.
-Main light is soft but directional facial key light, coming from slightly off to the front upper side, creating natural facial light and shadow layers.
-Fill light is very subtle, retaining some shadows to enhance facial dimensionality.
-Environment can include soft cool-toned rim light or auto show site reflection light to make the face more three-dimensional.
-Throughout, allow 2 to 3 brief flash occurrences; flashes must feel like natural on-site photography flashes, quickly lighting up only in certain moments, causing temporary enhancement of facial highlights, more obvious pupil catchlights, brighter skin reflections, but no constant strobing, no illogical flashing.
-When flashes occur, it should feel like a photographer's candid shot: lights up once and done, realistic light ratios, face not overexposed, skin details still visible.
+3-9s, shots 6-13. The coiled arm opens into a forceful sweep:
+6. A signature upper-body detail: a fast diagonal slide catches an existing seam, joint or distinctive contour responding as the arm draws inward.
+7. Elbow: a sharp lateral track catches the folding joint tightening the arm's coil.
+8. Supporting knee: hard match cut from the bent elbow to the knee's similar angle; a short camera drop catches the leg compressing under the same preparation.
+9. Wrist: a quick shallow orbit catches it turning outward to initiate the release.
+10. Upper chest: a short punch-in catches the chest opening as the arm drives outward beyond the crop. Let this moving surface read slightly longer.
+11. Locked hand detail: fingers spring open and the hand sweeps rapidly across the fixed frame. Catch one crisp, readable phase of the spread fingers before they leave the crop.
+12. Upper back: a sharp sideways slide continues that screen direction as the shoulder rolls through the sweep and the torso twists.
+13. A distinctive torso or waist detail: a close diagonal move catches its physical response to the twist, such as an existing fold pulling taut or an attached piece swinging. Give the material response a clear moving read.
 
-Camera and Movement (Top-Tier Cinematography)
+9-13s, shots 14-19. One short step and a pivot build toward the reveal:
+14. Thigh of the other leg: an abrupt low tracking move catches it driving the single short step out of the twist.
+15. Advancing foot: a brief downward whip catches it landing; show clear floor contact.
+16. Ankle and lower-leg detail: a fast side slide catches the landed leg accepting weight as the ankle flexes.
+17. Waist: a tight orbit catches the torso rotating above the planted-foot pivot. The foot supports the turn rather than sliding across the floor.
+18. Back-of-head contour: a short lateral whip catches the start of the return turn from behind. Keep only the rear contour in frame, never the facial profile.
+19. A signature shoulder detail: a sharp diagonal slide catches its follow-through beneath the turning head, which stays completely above the crop. Cut at the peak of this movement.
 
-Overall, use ultra-close portrait movement, with the lens always orbiting the face to highlight eyes, nose bridge, lips, cheeks, hair strands, and skin texture.
-Cinematography language is high-end, fluid, restrained, with a fashion ad and backstage photography candid feel.
-No heavy shaky cam, no disorienting motion, no exaggerated AI camera moves, no sudden pull-backs.
-Movement must feel natural, like a high-end photographer using a handheld gimbal or slight handheld shooting:
+13-15s, shot 20. First face reveal:
+20. Hard cut to a frontal face close-up as the character sharply completes the turn toward the lens. An explosive short push reveals the entire face clearly for the first time and stops tightening before cropping out its features. Direct eye contact lands while hair, clothing or natural body follow-through remains alive. Keep the whole face readable through the end; finish on living motion, without a held pose or another cut.
 
-0-3 seconds
-
-Lens starts with an ultra-close side-front face push-in, focus on eyes and nose bridge area, subject slightly lifts gaze to lens, natural breathing feel, lips subtly relaxed.
-Lens does an extremely subtle slow push-in, with very light lateral sliding, showcasing cheeks, under-eye texture, and hair strands.
-This segment should make viewers feel the face's high-end realism right from the first glance.
-
-3-6 seconds
-
-Lens slides along the face from eyes to nose tip, then to near the lips, in an extremely steady micro-arc orbit, close-up observation of features.
-Subject's gaze subtly shifts, no exaggerated acting—just gently looks toward lens edge, then slowly back to lens.
-First flash can occur here, briefly lighting up to enhance skin texture and lip highlights.
-
-6-9 seconds
-
-Lens slowly turns from front-left to front-right, still maintaining face-push distance, emphasizing cheek skin texture, nose wing details, lower eyelid fine lines, lashes, and pupil reflections.
-Subject lightly brushes a bit of hair, or a stray strand naturally falls to the side of the face.
-Lens has a subtle breathing-like float for real photography feel, not rigid.
-
-9-12 seconds
-
-Lens subtly shifts down to highlight lips, jawline, and cheeks, then slowly back to eyes.
-Subject's expression stays cool, restrained, with a touch of high-end aloofness, like a car model caught close-up by a photographer, occasionally a gentle blink, corners of mouth with extremely subtle relaxation.
-Second flash occurs here, natural and instantaneous like on-site candid, returning to normal light after.
-Post-flash, catchlights in eyes more prominent, giving the frame more fashion editorial vibe.
-
-12-15 seconds
-
-Lens does one of the most beautiful ultra-close light arc closes, subtly orbiting the face and lightly pushing in, finally settling on an ideal composition of eyes + nose bridge + half lips.
-Subject gently lifts gaze to straight-on lens in the last second, eyes clean, calm, captivating.
-Ending can have a third very subtle flash or environmental highlight sweep, but must feel natural, not overdone.
-Finally holds on a high-end face-push frame perfect for a thumbnail cover.
-
-Frame Style
-
-Overall style is:
-Real cinematic fashion portrait, close-up commercial photography, auto show model face-close candid, high-end magazine feel, natural skin texture, non-studio fake-face sense.
-Include real lens bokeh, natural depth of field, fine skin quality, subtle on-site feel, restrained high-end vibe.
-Not influencer selfie, not live stream, not Korean-style skin smoothing, not low-quality AI face.
-
-Key Emphases
-
-Face must be real, not fake
-
-Skin can't be overly perfect, retain subtle imperfections
-
-Features stable, no distortion
-
-Eyes can't wander, lips can't move randomly
-
-Hair strands must be real, with stray hairs
-
-Flashes must follow real candid logic
-
-Lighting must be real, no random strobing
-
-Camera must be high-end, smooth, cinematic, fashion photography feel
-
-Whole piece centers on "high-end face close-up showcase," no plot, no big movements
-
-Negative Restrictions (Suggest Adding Together)
-
-Negative prompts:
-Cartoonish feel, CG feel, plastic skin, excessive smoothing, over-beautification, feature distortion, eye misalignment, skin wax figure feel, overexposure, illogical flash strobing, face shake, low clarity, low-quality hair strands, exaggerated filters, influencer face, overly heavy fake lashes, heavy makeup, shaky lens, limb distortion, cluttered background, readable text, subtitles, stickers, watermarks,
+No added props, scenery, text, graphic overlays or split screens.
 ```
 
 </details>
 
-<a id="wan-marina-night-out-quay-leap"></a>
-### Night out friends and a quay leap
+<a id="seedance-mall-zombie-outbreak"></a>
+### Zombie outbreak in a busy shopping mall
 
-<a href="https://x.com/mightyking/status/2091842964054212842"><img src="previews/wan-marina-night-out-quay-leap.jpg" width="360"></a>
+<a href="https://x.com/auqibhabib/status/2104107269206237325"><img src="previews/seedance-mall-zombie-outbreak.jpg" width="360"></a>
 
-Opens with a style and characters block and a setting block, then a timestamped shot list that gives each beat its own camera move such as a backward track, a whip tilt and a high angle look down. A separate audio block asks for live sync sound with no music, which supports the raw phone footage look.
+Starts in normal trading hours so the outbreak has something to break. Ends on a quiet beat instead of an explosion.
 
-Wan 3.0 · Text-to-video · Source: [@mightyking on X](https://x.com/mightyking/status/2091842964054212842) · 1,353 likes on 2026-10-27
+Seedance 2.5 · Text-to-video · Source: [@auqibhabib on X](https://x.com/auqibhabib/status/2104107269206237325) · 1,002 likes on 2026-10-27
 
-[`ugc`](pages/en/tags.md#tag-ugc) [`handheld`](pages/en/tags.md#tag-handheld) [`night`](pages/en/tags.md#tag-night) [`shot-list`](pages/en/tags.md#tag-shot-list) [`sync-sound`](pages/en/tags.md#tag-sync-sound)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
-
-Characters
-
-The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag.
-
-Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals.
-
-Laughing, spontaneous night-out energy.
-
-Setting
-
-A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls.
-
-Warm orange street lamps, palm trees, distant city lights.
-
-The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
-
-Shot list
-
-0.0s–4.0s — Wide tracking shot, eye level, camera moving backward
-The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
-
-4.0s–6.0s — Medium shot, eye level, backward track + quick left pan
-The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
-
-6.0s–8.0s — Medium-wide, camera tilts down-left to follow, whip motion
-She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
-
-8.0s–10.0s — High-angle wide, looking down at the water, slight jolt
-From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
-
-10.0s–13.0s — High-angle medium, looking down, small handheld drift
-She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
-
-13.0s–16.0s — Handheld tilt up and back down, slight zoom
-The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
-
-16.0s–20.0s — High-angle medium, tilting to follow her up
-She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
-
-20.0s–23.0s — Low/close medium at the quay edge, static handheld
-She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
-
-23.0s–27.0s — Medium shot, eye level, loose handheld reframe
-Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
-
-27.0s–30.0s — Medium shot, eye level, camera settles
-Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
-
-Audio
-
-Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds.
-No music.
-
-Style
-
-Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
-```
-
-</details>
-
-<a id="wan-camera-angle-swap"></a>
-### Re-shoot your clip from new camera angles, same action
-
-<a href="https://x.com/Framer_X/status/2101324357108658433"><img src="previews/wan-camera-angle-swap.jpg" width="360"></a>
-
-Upload one continuous shot as the action reference and Wan re-films it from new angles. Regenerate if a shot drifts.
-
-Wan 3.0 · Video edit · Source: [@Framer_X on X](https://x.com/Framer_X/status/2101324357108658433) · 1,170 likes on 2026-10-27
-
-[`camera-angle`](pages/en/tags.md#tag-camera-angle) [`video-reference`](pages/en/tags.md#tag-video-reference) [`workflow`](pages/en/tags.md#tag-workflow)
+[`horror`](pages/en/tags.md#tag-horror) [`action`](pages/en/tags.md#tag-action) [`crowd`](pages/en/tags.md#tag-crowd)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-STEP 1: Upload your video (must be continuous one shot) to any platform that supports WAN 3.0
+Create a photorealistic live action horror short film set inside a busy modern shopping mall during normal operating hours. The scene must feel like a real emergency captured by a human handheld camera operator, not a choreographed action movie. Prioritize realistic human behavior, believable physics, natural body movement, consistent character appearance, spatial continuity, practical effects and authentic environmental detail.
 
-STEP 2: Use the prompt below (adjust it to your video):
+MAIN CHARACTER: A male mall security guard in his late 30s wearing a realistic dark security uniform and carrying a radio. Keep his face, clothing, body proportions and equipment identical throughout the entire video.
 
-"Use the original video @ TAG ORIGINAL VIDEO as the exact action reference
+SURVIVORS: A small group of ordinary shoppers with realistic clothing and consistent appearances. Their faces, clothing and body proportions must remain unchanged throughout the sequence.
 
-0–1s: Camera stays exactly as in the original video as the wolf walks toward the scooter.
+0–4 SECONDS:
+Begin immediately in the food court with shoppers eating and walking normally. Without warning, an infected man suddenly attacks a nearby shopper. The attack is chaotic and physically messy rather than theatrical. The victim falls against a table, knocking over food and drinks. Nearby shoppers freeze for a moment because they do not understand what is happening.
 
-1–3s: Hard cut to a tight front close-up as the wolf continues walking toward and reaches the scooter.
+4–8 SECONDS:
+Several shoppers back away. One person briefly tries to help before realizing the attacker is dangerous. Chairs scrape across the floor as people retreat. The security guard hears the disturbance and runs toward the food court. His reaction is confused and concerned, not heroic.
 
-3–5s: Hard cut to a high angle above as the wolf as he gets onto the scooter and starts riding.
+8–12 SECONDS:
+The infected attacker suddenly rushes toward another shopper. The crowd finally realizes something is seriously wrong. Panic spreads naturally. People run in different directions instead of moving together. Some hide behind storefronts while others run toward exits. Shopping bags and personal belongings fall naturally as people flee.
 
-5–7s: Hard cut to a full shot as the wolf rides the scooter down the street.
+12–16 SECONDS:
+The security guard reaches the food court and sees two infected people approaching. He grabs a nearby metal crowd-control barrier for protection. He initially backs away while watching them. One infected suddenly charges. The guard swings the barrier defensively and knocks the attacker off balance. The movement must look heavy, awkward and physically difficult, never like professional choreography.
 
-7–9s: Hard cut to a side tracking shot as he keeps riding down the street.
+16–20 SECONDS:
+A few shoppers help each other retreat behind a storefront entrance. One person pulls an injured shopper away from the food court. Nobody performs exaggerated combat moves. The guard keeps backing toward the survivors while maintaining distance from the infected.
 
-9-10s: Hard cut to an over the shoulder shot as he rides forward and notices the banana peel in his path.
+20–24 SECONDS:
+One infected suddenly charges again. The guard sidesteps at the last moment. The infected crashes into the glass railing from its own momentum. The glass cracks realistically but does not explode into an unrealistic shower of fragments. The guard immediately moves the survivors farther away.
 
-10–12s: hard cut to a birds eye view shot as the fallen wolf is rolling over the asphalt.
+24–27 SECONDS:
+The survivors move together toward a partially closed storefront. The guard stays behind them and keeps watching the infected. Distant screaming comes from another section of the mall, suggesting the outbreak is larger than what the camera has witnessed without showing an unnecessary crowd of zombies.
 
-12-13s : hard cut to an insert shot of his fist as wolf slams it into the asphalt.
-
-Only the camera angle and framing change. Make sure every action, movement, timing and performance exactly identical to the original video @ TAG ORIGINAL VIDEO. The action continues seamlessly across every cut."
-
-NOTE: If some scenes didn't work (action was different than original video) simply regenerate the video, that usually fixes the problem.
+27–30 SECONDS:
+The group reaches temporary safety behind the storefront. The guard slowly looks through the gap toward the food court. The mall has become eerily quiet. An escalator continues running in the background while abandoned shopping bags, overturned chairs and spilled food remain scattered across the floor. A distant infected figure briefly crosses the far end of the mall. The guard quietly raises one finger, signaling everyone to stay silent.Cut naturally to black.
 ```
 
 </details>
@@ -450,62 +326,582 @@ SCENE CONTEXT A 30-second scene in a neighbourhood café in the year 2000, near 
 
 </details>
 
-**[All 18 entries](pages/en/video-wan30.md)**
+<a id="seedance-airport-immigration-makeup-wipe"></a>
+### Airport immigration makeup wipe comedy in twelve shots
 
-<a id="minimaxh3"></a>
-## MiniMax H3
+<a href="https://x.com/ElsaSofia__AI/status/2107290801017704458"><img src="previews/seedance-airport-immigration-makeup-wipe.jpg" width="360"></a>
 
-<a id="h3-character-detail-montage"></a>
-### Twenty shot character detail montage, face revealed last
+A character block repeated in every part locks faces, outfits and location, and the 12 shots carry exact timestamps and panel labels. Each shot states framing and camera behavior, and a master effects list plus an energy arc keep the 30 second real time pacing.
 
-<a href="https://x.com/aimikoda/status/2100258514132217859"><img src="previews/h3-character-detail-montage.jpg" width="360"></a>
+Seedance 2.5 · Text-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2107290801017704458) · 740 likes on 2026-10-27
 
-A numbered shot list with time blocks and one abrupt camera move per shot builds three connected action bursts. Faces stay out of frame until shot 20, and hard match cuts link similar shapes without morphing.
-
-MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2100258514132217859) · 3,281 likes on 2026-10-28
-
-[`character-reference`](pages/en/tags.md#tag-character-reference) [`montage`](pages/en/tags.md#tag-montage) [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) [`camera-moves`](pages/en/tags.md#tag-camera-moves) [`studio-background`](pages/en/tags.md#tag-studio-background)
+[`multi-shot`](pages/en/tags.md#tag-multi-shot) [`comedy`](pages/en/tags.md#tag-comedy) [`close-up`](pages/en/tags.md#tag-close-up) [`timestamped`](pages/en/tags.md#tag-timestamped) [`character-consistency`](pages/en/tags.md#tag-character-consistency)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Use @[character reference] for the character's identity, anatomy, costume, colors, materials and visual style. Adapt body-region cues to its actual anatomy, replacing absent features with existing equivalents. Invent no anatomy or accessories. Select signature inserts from its most recognizable details. Rigid parts rotate; flexible materials bend or stretch.
+VIDEO PROMPT — 30 seconds total, 16:9, live-action cinematic realism, soft natural airport light, shallow depth of field, clean commercial look. Comedic drama, played straight. Keep the same faces, outfits and location in every shot. NO slow motion anywhere, everything runs in REAL TIME.
 
-A 15-second character-detail montage: exactly 20 shots joined by hard cuts. An empty, seamless warm-white studio background; soft directional light reveals the surfaces. Shots 1-19 are tightly cropped body details and rear angles: keep the face, eyes and facial profile entirely outside the frame, including reflections. Shot 20 is the first and only face reveal. No full-body view.
+CHARACTERS (repeat in every part)
+HEROINE: young Korean woman in her 20s, long wavy black hair, porcelain skin. FULL GLAM makeup at first: gold shimmer eyeshadow, long dramatic false lashes, pink blush, glossy rose lips. Wears a sheer dark-brown mesh long-sleeve top over a black bandeau, with a thin gold-chain crossbody bag strap. In the walking shot she also wears a denim mini skirt, black ankle boots, and pulls a pink rolling suitcase.
+OFFICER: Korean woman in her 40s, dark hair pulled back tight, strict calm face, navy uniform jacket with a red-white-navy striped scarf.
+PASSPORT: dark-blue Korean passport. The photo page shows the heroine's BARE-FACED, tired, messy-haired ID photo, with Korean text and a small blue flag icon.
+LOCATION: Korean international airport immigration hall — shiny marble floor, rows of small round ceiling lights, beige columns, blue digital signs, travelers with suitcases walking in the background.
 
-Three connected bursts: a sharp head turn with the body bracing; a coiled arm opening into a strong sweep and torso twist; one short step into a planted pivot, finishing with a sudden look into camera. Carry body state across cuts without resetting to neutral. Existing hair, clothing and attachments react naturally. Keep the character active, with clear articulation and weight shifts.
+===== PART 1 (0:00-0:13) =====
 
-Jump between distant body regions. Mix brief visual punches with longer moving-detail reads. Use one abrupt camera move per shot except locked-camera inserts 4 and 11, where the character supplies the speed. Vary height, angle and direction. Brake moves briefly for legibility while the subject keeps moving. Local whips stay tightly cropped; changes of body region use hard cuts. Connect selected cuts through similar shapes or motion vectors, without morphing. Real-time action, no slow motion or freeze frames.
+SHOT 1 (00:00-00:02.2) — Counter Wide [Panel 1]
+Front-facing medium-wide, eye level. The heroine stands behind the immigration counter, one hand on her hip, then takes the blue passport from her bag and places it on the counter edge. Travelers walk in the blurred background. Camera static.
 
-0-3s, shots 1-5. A concealed head turn triggers the first burst:
-1. Extreme upper-back detail: a crash push catches its surface shifting as a sharp head turn begins entirely above the crop.
-2. Fingers: a short downward snap catches them curling into a fist as the body braces.
-3. Rear three-quarter shoulder detail: a tight camera arc catches the shoulder drawing back behind the turning head.
-4. Locked floor-level foot detail: the grounded support foot braces, its raised heel pressing down firmly without taking a step.
-5. Rear neck detail: a short upward tilt catches the nape stretching with the turn; stop below the back of the head, keeping the jaw and face excluded.
+SHOT 2 (00:02.2-00:04.6) — Passport POV [Panel 2]
+Over-the-counter POV close-up of the officer's hands picking up the passport, turning it, then opening it to the photo page with her thumb. The bare-faced ID photo is clearly readable. Camera static, shallow depth of field.
 
-3-9s, shots 6-13. The coiled arm opens into a forceful sweep:
-6. A signature upper-body detail: a fast diagonal slide catches an existing seam, joint or distinctive contour responding as the arm draws inward.
-7. Elbow: a sharp lateral track catches the folding joint tightening the arm's coil.
-8. Supporting knee: hard match cut from the bent elbow to the knee's similar angle; a short camera drop catches the leg compressing under the same preparation.
-9. Wrist: a quick shallow orbit catches it turning outward to initiate the release.
-10. Upper chest: a short punch-in catches the chest opening as the arm drives outward beyond the crop. Let this moving surface read slightly longer.
-11. Locked hand detail: fingers spring open and the hand sweeps rapidly across the fixed frame. Catch one crisp, readable phase of the spread fingers before they leave the crop.
-12. Upper back: a sharp sideways slide continues that screen direction as the shoulder rolls through the sweep and the torso twists.
-13. A distinctive torso or waist detail: a close diagonal move catches its physical response to the twist, such as an existing fold pulling taut or an attached piece swinging. Give the material response a clear moving read.
+SHOT 3 (00:04.6-00:06.6) — Suspicious Finger [Panel 3]
+Medium shot over the officer's shoulder (back of her head on the right). The officer points a finger at the heroine's face and moves it up and down as if comparing. The heroine looks uneasy with a small frown. Airport counters blurred behind.
 
-9-13s, shots 14-19. One short step and a pivot build toward the reveal:
-14. Thigh of the other leg: an abrupt low tracking move catches it driving the single short step out of the twist.
-15. Advancing foot: a brief downward whip catches it landing; show clear floor contact.
-16. Ankle and lower-leg detail: a fast side slide catches the landed leg accepting weight as the ankle flexes.
-17. Waist: a tight orbit catches the torso rotating above the planted-foot pivot. The foot supports the turn rather than sliding across the floor.
-18. Back-of-head contour: a short lateral whip catches the start of the return turn from behind. Keep only the rear contour in frame, never the facial profile.
-19. A signature shoulder detail: a sharp diagonal slide catches its follow-through beneath the turning head, which stays completely above the crop. Cut at the peak of this movement.
+SHOT 4 (00:06.6-00:10.2) — Eyelash Peel [Panel 4]
+Extreme close-up of the heroine's glam face looking straight into the camera. Her fingers pinch the false lash and she slowly peels it off, holding it between her fingertips. Camera static.
 
-13-15s, shot 20. First face reveal:
-20. Hard cut to a frontal face close-up as the character sharply completes the turn toward the lens. An explosive short push reveals the entire face clearly for the first time and stops tightening before cropping out its features. Direct eye contact lands while hair, clothing or natural body follow-through remains alive. Keep the whole face readable through the end; finish on living motion, without a held pose or another cut.
+SHOT 5 (00:10.2-00:12.9) — Face-Off Two-Shot [Panel 5]
+Medium close-up: the heroine's face on the left, the officer's face in sharp profile on the right, very close, staring at her. The heroine looks back with a stiff blank expression, then purses her lips.
 
-No added props, scenery, text, graphic overlays or split screens.
+===== PART 2 (0:13-0:22) =====
+
+SHOT 6 (00:13.0-00:14.0) — Wipe Out [Panel 6]
+Close-up, airport lights blurred into soft bokeh behind her. The heroine pouts, takes out a white wet makeup wipe, and unfolds it with both hands.
+
+SHOT 7 (00:14.0-00:19.0) — Makeup Removal [Panel 7]
+Same close-up. She presses the wipe over her eyes, then wipes her cheeks and lips with both hands, eyes closed. At the end she lowers the wipe to reveal a fresh, bare, natural face and looks calmly into the camera.
+
+SHOT 8 (00:19.0-00:20.6) — Officer Verdict [Panel 8]
+Medium close-up of the officer, blurred teal-grey wall behind her. She looks down at the passport, then up at the heroine, and breaks into a satisfied small smile.
+
+SHOT 9 (00:20.6-00:22.0) — The Stamp [Panel 9]
+Close-up of the open passport on the counter. The officer's hand brings down a black-and-red rubber stamp onto the photo page and lifts it, leaving a round red stamp mark. Camera static.
+
+===== PART 3 (0:22-0:30) =====
+
+SHOT 10 (00:22.0-00:25.2) — Passport Returned [Panel 10]
+Back to the opening wide shot. The heroine now has full glam makeup again. The officer's hand slides the passport across the counter. She picks it up and holds it with both hands at chest height, looking down at it, then glances toward the camera.
+
+SHOT 11 (00:25.2-00:27.0) — Walk Away
+Rear tracking shot: the heroine walks away through the terminal in denim mini skirt and black boots, pulling the pink suitcase. Travelers cross in the background, blue digital signs glow. Camera follows at eye level.
+
+SHOT 12 (00:27.0-00:30.4) — Final Pout [Panel 11-12]
+Close-up: she looks back over her shoulder, then turns to face the camera. She pouts, scrunches her face and squints in cute annoyance, then returns to a flat pout. Blurred airport behind. Hold, then end.
+
+MASTER EFFECTS INVENTORY
+1. Eyelash peel close-up (Shot 4).
+2. Makeup wipe transformation: glam to bare face (Shots 6-7).
+3. Over-the-shoulder suspicion framing (Shots 3, 5).
+4. Passport insert close-ups and stamp (Shots 2, 9).
+5. Shallow depth-of-field bokeh throughout.
+
+ENERGY ARC
+Part 1 (0-13s): tension, suspicion.
+Part 2 (13-22s): transformation, then relief.
+Part 3 (22-30s): she walks off, final grumpy pout.
+```
+
+</details>
+
+**[All 36 entries](pages/en/video-cinematic.md)**
+
+<a id="vid-action"></a>
+## Action, chases and sports
+
+<a id="seedance-seoul-subway-revenge"></a>
+### Seoul subway revenge comedy
+
+<a href="https://x.com/AIwithSynthia/status/2108760866422415701"><img src="previews/seedance-seoul-subway-revenge.jpg" width="360"></a>
+
+Sets the camera language in the first line (handheld, fluorescent, real time), then plays the gag in clear beats and spells out what must stay visible at the end.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2108760866422415701) · 10,056 likes on 2026-10-27
+
+[`action`](pages/en/tags.md#tag-action) [`comedy`](pages/en/tags.md#tag-comedy) [`handheld`](pages/en/tags.md#tag-handheld) [`subtitles`](pages/en/tags.md#tag-subtitles)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use realistic handheld camera movement, cold fluorescent lighting, teal-green accents, and real-time action.
+
+A Korean woman in her 20s with a black bob, sunglasses on her head, a fitted crop top, high-waisted blue jeans, black boots, and a brown shoulder bag descends the subway stairs holding a takeaway coffee. A Korean man with messy dark hair and blonde tips, wearing a dark-green bomber jacket, suddenly hits her from behind and laughs as she stumbles against the handrail. Furious, she chases him onto the platform as he boards a train and mocks her through the closing glass doors.
+
+She punches the glass, creating a dramatic crack and opening. As she confronts him, her coffee cup slips from her hand, falls to the platform, and spills visibly across the floor. She grabs his jacket, forcefully throws him through the air, and sends him crashing into a large metal rubbish bin. The bin rattles and wobbles as he lands inside, looking terrified and humiliated.
+
+She leans toward him and says, "Don't mess around." She then calmly walks away while he remains stuck in the bin.
+
+Maintain identical faces, hairstyles, outfits, and location throughout. Include realistic physics, expressive reactions, cinematic close-ups, subway ambience, and clear white subtitles. Keep the action non-gory, the coffee spill visible, and the final dustbin landing unmistakable.
+```
+
+</details>
+
+<a id="kling-basketball-backflip-dunk-court"></a>
+### Basketball player backflip dunk on outdoor court
+
+<a href="https://x.com/higgsfield_ai/status/2019083976682684558"><img src="previews/kling-basketball-backflip-dunk-court.jpg" width="360"></a>
+
+The prompt splits one action into four numbered shots (dribble, jump, mid-air flip, dunk), each with its own shot size and angle. Low angles and a slow-motion close-up on the flip give Kling's physics a clear beat to simulate.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019083976682684558) · 2,533 likes on 2026-10-27
+
+[`multi-shot`](pages/en/tags.md#tag-multi-shot) [`sports`](pages/en/tags.md#tag-sports) [`basketball`](pages/en/tags.md#tag-basketball) [`low-angle`](pages/en/tags.md#tag-low-angle) [`physics`](pages/en/tags.md#tag-physics)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Shot 1: A side profile, medium shot of a muscular African American man in athletic wear, intensely dribbling a basketball on an outdoor concrete court towards a hoop against a high white wall under a bright blue sky.
+Shot 2: A dynamic, low-angle wide shot showing the man jumping remarkably high into the air, performing a backflip while holding the basketball, with the white wall and sky in the background.
+Shot 3: A close-up, slow-motion shot of the man mid-air and upside down during his flip, showing his focused expression and the basketball held firmly in his hands against the sky.
+Shot 4: A dramatic, low-angle shot focusing on the basketball hoop as the man, still upside down from his acrobatic jump, powerfully dunks the ball into the net.
+```
+
+</details>
+
+<a id="kling-night-courtyard-katana-six-shots"></a>
+### Woman slices wooden dummy in night courtyard
+
+<a href="https://x.com/higgsfield_ai/status/2019104313302569185"><img src="previews/kling-night-courtyard-katana-six-shots.jpg" width="360"></a>
+
+Six numbered shots, each with its own framing, move a single scene from a macro mouth detail through wide action to a closing portrait. Naming the camera angle and the physical effect per shot, such as flying wood splinters and dust, gives the model clear impact beats.
+
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019104313302569185) · 2,473 likes on 2026-10-27
+
+[`multi-shot`](pages/en/tags.md#tag-multi-shot) [`action`](pages/en/tags.md#tag-action) [`katana`](pages/en/tags.md#tag-katana) [`macro`](pages/en/tags.md#tag-macro) [`night`](pages/en/tags.md#tag-night)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Shot 1: An extreme close-up of a young woman's mouth, her teeth clenched on a wooden toothpick, creating a tense and gritty atmosphere.
+Shot 2: A medium shot of the woman in a traditional Japanese-style courtyard at night, illuminated by soft lanterns. She is dressed in a white tank top and dark trousers, holding a katana in a defensive stance with a determined look on her face.
+Shot 3: A dynamic, low-angle action shot of the woman jumping high into the air, raising her katana to strike a wooden training dummy that resembles a samurai in armor.
+Shot 4: A close-up, high-speed impact shot showing the woman’s katana slicing through the wooden dummy, sending wood splinters and dust flying into the air.
+Shot 5: A fast-paced tracking shot of the woman landing gracefully and immediately striking another wooden structure, demonstrating her speed and precision.
+Shot 6: A final medium close-up of the woman’s face as she finishes her move. She is slightly breathless, her hair disheveled, with a sharp, focused gaze directed off-camera.
+```
+
+</details>
+
+<a id="seedance-anime-rooftop-brawl-kinetic-fight"></a>
+### Two Anime Fighters Brawl on Rooftop
+
+<a href="https://x.com/aimikoda/status/2111824828009193814"><img src="previews/seedance-anime-rooftop-brawl-kinetic-fight.jpg" width="360"></a>
+
+Character reference blocks lock each fighter's outfit, then a style and energy header sets cel shading, impact frames and constant camera motion. A four shot list gives each shot its own camera path and a chain of strikes with no pauses, and an Avoid line bans slow motion and freeze frames.
+
+Seedance 2.5 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2111824828009193814) · 1,962 likes on 2026-10-27
+
+[`anime`](pages/en/tags.md#tag-anime) [`fight-scene`](pages/en/tags.md#tag-fight-scene) [`multi-shot`](pages/en/tags.md#tag-multi-shot) [`camera-movement`](pages/en/tags.md#tag-camera-movement) [`character-reference`](pages/en/tags.md#tag-character-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+References:
+@[char1 ref]: Mina. Long black hair, green striped crop top, baggy orange cargo pants with black graffiti, white sneakers, black fingerless boxing gloves on both hands, chain bracelet.
+@[char2 ref]: Rue. Long pink hair, black crop top, black cargo shorts with chains and tags, bare knuckles with silver rings, skin visible on both hands, chunky lime sneakers, dog tag necklace.
+
+Visual style: High-sakuga flat-color 2D anime, bold linework, hard cel shading, flat blue and teal backgrounds that flash hot pink or orange on impact, speed smears, impact frames, deep foreshortening.
+
+Energy: Within every shot the camera keeps moving: it spirals around crossing limbs, dives under kicks, skims the floor, and whips between faces, often following a fist or a sole within inches of the lens. Every movement flows straight into the next strike, block, or counter. Every landed hit plays as sakuga impact: a two-frame impact frame, then the struck body whips away in a long smear, elastic recoil, immediate re-entry into her own attack. Heads snap, torsos fold, feet leave the ground, bodies skid across concrete. Each impact throws a color flash, dust, flying hair and cloth, and radiating speed lines.
+
+Avoid: No subtitles. No slow motion, no idle posing, no pauses between actions, no freeze frames, no held two-shots.
+
+Mina and Rue trade one relentless brawl on an empty concrete rooftop with a chain-link fence at the back and a steel vent box at center right. Mina starts screen left, Rue screen right. Whenever they close, one body is nearer the camera and the other clearly behind it with air between. No dialogue; hits, shoe scuffs, chain rattle, wind. Shot list: 4 shots, about 30 seconds, every shot packed edge to edge with exchanges.
+
+Scene 1: 连续时间，天台。
+Shot 1: 大全景起，地面高度，低角度；镜头从水泥地面猛然升起，穿过两名已经腾空扑向对方的格斗者之间，然后贴着Mina的拳套甩进中景，并绕着两人交错的手臂急速环绕。Mina的右勾拳与Rue抬起的膝盖在半空撞上，冲击帧，两人同时被震成拖影向后飞开，滑步落地的瞬间已经再次扑上；Mina左直拳，Rue下潜躲过并打出上勾拳，Mina用前臂接住，前臂被顶上自己的下巴，头向后一甩成拖影，她借着仰头的势头打出一记一二连击，第二拳砸开Rue的防守，冲击帧，Rue的头横向甩出，粉发拉成一道弧，她踉跄一步就从踉跄里踢出正蹬，踢中Mina的拳套，把Mina推得双脚在地上滑出一道痕。快速细节切：Rue眯起的眼睛，Mina收紧的拳套，狗牌甩动，然后镜头钻到Rue旋踢的下方。Rue的脚跟掠过Mina低下的头顶，Mina从内侧起身的身体勾拳把Rue整个人折弯在拳套上，冲击帧，Rue的双脚离地，她顺着折弯的势头甩出肘击，Mina双拳套挡住，拳套却被顶进自己的脸，她向后踉跄两步，Rue追上来一记戴戒指的直拳擦着镜头砸过，Mina侧滑，把一记短右拳埋进Rue的肋部，冲击帧，Rue半边身体塌陷成拖影，双脚在地面打滑，她就从打滑里顶出一膝，砸在拳套上，把Mina的胳膊震到自己胸口。
+
+Shot 2: 跟拍起，位于Rue身后腰部高度；镜头随她冲向铁丝网，沿着网向上扫，在她蹬离时翻转，然后落到地面高度，贴着天台地面疾驰穿过两人相撞的缝隙。Rue推开Mina的胸口转身冲向铁丝网，在网上蹬两步，蹬离，后空翻越过从下方冲进来的Mina，落下的膝盖砸中Mina的肩膀，冲击帧，Mina被砸成一个拖影般的前滚翻，从翻滚里起身时顺势扫向Rue落地的那条腿，Rue跳过扫踢，撑手后空翻，落地时Mina的直拳已经到了，Rue格挡，格挡把她自己的手臂震开，Mina的第二拳穿过空档擦中她的太阳穴，冲击帧，Rue半转过身，粉发横扫镜头。快速细节切：荧光绿鞋底填满镜头，橙色工装布料猛甩，铁丝网剧烈震颤，然后镜头贴地。两人再次相撞：Mina低身滑过Rue的飞跃拳，两人在另一侧旋转成背对背，同一瞬间各踢出一记后蹬，鞋底对撞，冲击帧，两人都被踢得向前扑倒撑地，撑起后同时转身甩出旋转背拳，拳套撞上指节，粉色闪光，两人的头各自甩向一侧成拖影，Rue先回过身勾住Mina的腿，Mina跳脱的同时抡出过顶拳，擦过Rue的太阳穴，把她打得转了半圈，Rue转完这半圈的势头直接变成一记反手肘，砸在Mina的肩上，Mina的肩膀被压得一沉。
+
+Shot 3: 高角度俯冲起；镜头向通风箱俯冲，压低绕到箱侧，然后在两张脸之间左右急甩，每一拳都跟着拳头从一张脸甩到另一张脸。Mina，戴黑拳套，跃上通风箱，膝盖朝下砸落；Rue，赤手戴戒指，侧步闪开，一记侧踢踹进箱体，箱体轰然凹陷；Mina从压扁的边缘跃起打出飞身直拳，Rue后仰躲过，扫掉Mina的支撑手臂，Mina侧手翻落地的同时勾拳打中Rue的下颌，冲击帧，Rue的头甩过去，整个人被带得转了半圈，脚步踉跄，又从踉跄里反扑一记直拳，震得Mina的下巴一晃。快速细节切：弯折的金属，断裂的电缆冒着火花，拳套在箱顶打滑，然后镜头切进两张脸之间。隔着废墟的近身对轰：刺拳，格挡，直拳，侧闪，没有一拳停在半路；Rue的膝盖顶进Mina垂下的拳套，把她推退一步；Mina的头槌砸在Rue的眉骨上，冲击帧，Rue的头向后甩成拖影，她的身体先于意识反击，戴戒指的勾拳打在Mina的拳套上；Mina的反击肘撞上Rue的脸颊，冲击帧，粉发炸开，Rue踉跄两步，膝盖一软又撑住，从撑住的那一下里直拳回敬，打得Mina的头偏过去，Mina的头偏到一半就已经转回来，两人同时下蹲。
+
+Shot 4: 高角度大全景起，倾斜成荷兰角；镜头在两人跃起时螺旋下降，在最高点从两人之间穿过，再翻到两人侧面，并在两人上升时继续旋转。两人同时向上爆发，拳头在前，Mina的黑拳套与Rue戴戒指的拳头冲向画面中央同一点，头发向后飞扬成拖影，速度线向中心汇聚，拳头进入触及范围的瞬间背景炸成全屏亮粉色；拳头仍在逼近，头发仍在甩动，镜头仍在旋转，画面在此切断。
+```
+
+</details>
+
+**[All 65 entries](pages/en/video-action.md)**
+
+<a id="vid-scifi-fantasy"></a>
+## Sci-fi and fantasy
+
+<a id="seedance-lab-containment-breach"></a>
+### Lab containment breach, sci-fi horror
+
+<a href="https://x.com/auqibhabib/status/2099725768310009982"><img src="previews/seedance-lab-containment-breach.jpg" width="360"></a>
+
+Asks for an immediate hook and grounded practical effects, which keeps the creature from looking like CGI.
+
+Seedance 2.5 · Text-to-video · Source: [@auqibhabib on X](https://x.com/auqibhabib/status/2099725768310009982) · 2,425 likes on 2026-10-27
+
+[`horror`](pages/en/tags.md#tag-horror) [`sci-fi`](pages/en/tags.md#tag-sci-fi) [`action`](pages/en/tags.md#tag-action)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic sci-fi horror-action short film set in a research laboratory, opens with an immediate strong hook, natural realistic pacing, grounded practical-effects style. Lab filled with steel equipment, glass containment tubes, monitors, specimen tables, harsh fluorescent lighting. Five scientists in lab coats work at various stations. Natural handheld camera work, muted authentic color grading, all sound fully natural and diegetic — no music, no artificial sound design until the tension score kicks in.
+>
+> **[0-1s]** Hard cut: a containment tube shatters violently, glass exploding across the lab floor.
+>
+> **[1-2s]** A small dark parasite creature skitters out fast, latching instantly onto a scientist's neck.
+>
+> **[2-3s]** He screams, collapsing to his knees, the others recoiling in shock.
+>
+> **[3-4s]** Dark veins pulse rapidly beneath his skin, visible even through his collar, his body convulsing.
+>
+> **[4-5s]** His eyes turn a deep obsidian black — he rises, movements jerky and unnatural.
+>
+> **[5-6s]** He lunges at the nearest colleague, parasite tendrils extending from his mouth toward her.
+>
+> **[6-7s]** She's caught, tendrils latching onto her neck, her scream cutting short.
+>
+> **[7-8s]** Veins spread fast across her too, body convulsing against a lab table, equipment crashing down.
+>
+> **[8-9s]** She rises seconds later, eyes black, joining him, both turning toward the remaining three.
+>
+> **[9-10s]** The three scientists scramble back, one grabbing a fire axe from an emergency case on the wall.
+>
+> **[10-11s]** The two infected charge fast, jerky inhuman movements, tendrils whipping from their jaws.
+>
+> **[11-12s]** The lead scientist swings the axe hard into the first infected — a solid impact, it staggers into a specimen table, equipment shattering.
+>
+> **[12-13s]** A second scientist grabs a fire extinguisher, blasting the other infected in the face, it recoils, tendrils flailing.
+>
+> **[13-14s]** The third scientist shoves a steel cart into the staggering infected's path, sending it crashing down.
+>
+> **[14-15s]** Both infected collapse motionless, twitching, tendrils retracting slowly.
+>
+> **[15-16s]** The three survivors regroup, breathing hard, scanning the wrecked lab for more movement.
+>
+> **[16-17s]** Wide shot: broken glass and toppled equipment everywhere, alarm lights beginning to flash red.
+>
+> **[17-18s]** A third containment tube behind them starts cracking, unnoticed by the group.
+>
+> **[18-19s]** It shatters suddenly — another parasite creature launches out fast.
+>
+> **[19-20s]** The lead scientist spins just in time, swinging the axe and slicing it out of the air mid-leap.
+>
+> **[20-21s]** It hits the floor, motionless, dark fluid spreading slightly beneath it.
+>
+> **[21-23s]** The group presses their backs together, weapons raised, scanning every corner of the lab.
+>
+> **[23-25s]** Emergency lights flash steadily red, alarm klaxon blaring through the facility.
+>
+> **[25-27s]** The lead scientist gestures toward the exit; they move together cautiously, stepping over debris and fallen colleagues.
+>
+> **[27-29s]** They reach the heavy lab door, the lead scientist sealing it shut behind them with a hard mechanical clang.
+>
+> **[29-30s]** Final shot: the three survivors lean against the sealed door, breathing hard, alarm lights flashing red across their exhausted faces. Cut to black.
+>
+> Natural diegetic sound throughout — glass shattering, guttural convulsions, screaming, metal impacts, alarm klaxon, heavy breathing — layered with a tense instrumental score building through the fight and easing at the end. No text overlay, no watermark. Natural handheld camera with realistic shake during action, muted clinical color grading.
+```
+
+</details>
+
+<a id="seedance-dragon-bakes-bread"></a>
+### A woman teaches a dragon to bake heart-shaped bread
+
+<a href="https://x.com/ElsaSofia__AI/status/2113089111699673461"><img src="previews/seedance-dragon-bakes-bread.jpg" width="360"></a>
+
+Short and specific: colours of the dragon, one hard rule (all bread heart-shaped), and a mood word to end on.
+
+Seedance 2.5 · Text-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2113089111699673461) · 1,430 likes on 2026-10-27
+
+[`fantasy`](pages/en/tags.md#tag-fantasy) [`creature`](pages/en/tags.md#tag-creature) [`food`](pages/en/tags.md#tag-food)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic medieval fantasy film. Warm sunlight, stone cottage, wooden table, iron grill. Colossal dragon with pale pink-white scales, pink spines and golden eyes. All bread must be heart-shaped. Realistic fire, food textures, natural physics.
+0-5s: Heroine arranges raw heart-shaped dough on the grill. Dragon sniffs eagerly, then blasts enormous flames! Fire engulfs the dough. She jumps back: "Whoa! Easy! You're making bread, not dragon food!"
+5-10s: A charred heart-shaped loaf smokes on the grill. Dragon looks guilty, hiding its head. She shows the burnt bread, then smiles and replaces it: "Look. Just a little flame. Can you do that?"
+10-17s: Dragon carefully releases a tiny steady flame beneath the grill. Heart-shaped dough rises, forming a golden crust. Steam rises as dragon watches nervously.
+17-23s: She cuts open the crispy heart-shaped bread, revealing a soft fluffy center. "You did it! Perfect!" Dragon tries to eat it all. She laughs and feeds it a small piece.
+23-30s: Dragon nuzzles her for affection. She strokes its scales, shares more heart-shaped bread. Dragon closes its eyes happily, tail wagging. Wide sunset shot, warm and healing.
+Cinematic lighting, detailed scales, realistic flames, expressive acting. No subtitles, narration, logos or watermark.
+```
+
+</details>
+
+<a id="seedance-celestial-puppeteer-golden-star"></a>
+### Celestial puppeteer rebuilds a collapsing golden star
+
+<a href="https://x.com/itsPixieVerse/status/2099712704940568739"><img src="previews/seedance-celestial-puppeteer-golden-star.jpg" width="360"></a>
+
+A fixed painterly style block with explicit negatives opens and closes the prompt, then WORLD and CHARACTER blocks lock the look. Ten timed shots of three seconds each, with the shot type named in every cut, give the 30 second piece a clear arc from macro detail to hero frame. The character sheet made with GPT Image 2.5 serves as the identity reference.
+
+Seedance 2.5 · Reference-to-video · Source: [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2099712704940568739) · 1,127 likes on 2026-10-27
+
+[`painterly-animation`](pages/en/tags.md#tag-painterly-animation) [`multi-shot`](pages/en/tags.md#tag-multi-shot) [`character-sheet`](pages/en/tags.md#tag-character-sheet) [`sci-fi`](pages/en/tags.md#tag-sci-fi) [`30-seconds`](pages/en/tags.md#tag-30-seconds)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 2.5D animation in painterly rendering, gouache concept art in motion, visible brush textures, flat posterized color blocks, matte finish, soft volumetric lighting. NOT flat 2D cartoon, NO outlines, NOT glossy CGI, NO photorealism.
+
+WORLD: Shattered zero-G celestial observatory overlooking a collapsing golden planetary core, palette of obsidian black, ivory stone, and blinding gold energy, floating cosmic debris.
+
+CHARACTER: Extremely tall adult woman in early 20s, black visor-hat with glowing gold glyphs, floating orbital halo, black prosthetic arms with trailing strings. Massive ballooning obsidian cloak, cream draped gown, platform heels. Elongated tall proportions, supermodel legs, painterly matte skin.
+
+CINEMATIC SHOT DESIGN (10 Filmic Cuts across 30 Seconds):
+• SHOT 1 (0–3s | Macro Detail): Macro close-up of Ophelia's black prosthetic fingers twitching; glowing gold gravitational threads unspool into the vacuum.
+• SHOT 2 (3–6s | Scale & Threat): Wide shot of the dying planetary core cracking in half, blasting shockwaves of golden light through floating ivory pillars.
+• SHOT 3 (6–9s | Character Entrance): Low-angle tracking shot as Ophelia glides weightlessly into the abyss, her massive obsidian cloak ballooning around her like a cosmic void.
+• SHOT 4 (9–12s | Expression Focus): Close-up on her face under the visor; the gold glyphs flare brightly as she tilts her head in absolute, chilling composure.
+• SHOT 5 (12–15s | Casting the Strings): Medium shot; Ophelia sweeps both mechanical hands outward, casting hundreds of glowing gold puppet strings across the entire starfield.
+• SHOT 6 (15–18s | Reality Pull): Dynamic wide shot; she violently pulls the strings taut, arresting the collapse of the planet and dragging the colossal burning fragments back together.
+• SHOT 7 (18–21s | High-Speed Tracking): FPV tracking shot swooping past floating debris as the planetary fragments collide and fuse into a newly ignited miniature golden sun.
+• SHOT 8 (21–24s | Power Apex): Medium shot; Ophelia rotates her mechanical wrists, the floating orbital halo around her head spinning rapidly and locking the new star into orbit behind her.
+• SHOT 9 (24–27s | Aftermath Echo): Extreme wide shot; the restored golden star illuminates the massive expanse, Ophelia silhouetted dead-center as the master of the cosmos.
+• SHOT 10 (27–30s | Hero Poster Frame): Low-angle hero shot; Ophelia lowers her hands, gravity strings dissolving into gold dust, her massive black mantle settling around her towering silhouette. Hold final frame.
+Weighty natural animation, zero-G fabric motion, 24fps filmic motion, shallow depth of field.  NOT flat 2D cartoon, no bold outlines, not glossy CGI, no photorealism.
+```
+
+</details>
+
+<a id="seedance-cottage-pet-dragon-roast-short-film"></a>
+### Woman and Pet Dragon Cook a Roast
+
+<a href="https://x.com/Alina_with_Ai/status/2109224200217198796"><img src="previews/seedance-cottage-pet-dragon-roast-short-film.jpg" width="360"></a>
+
+A second-by-second shot list from wide shot to extreme close-up builds a full comedy arc in 30 seconds, from the dragon's fire blast to a gentle forgiveness beat. Character sheets for both leads, a setting list and a separate audio line for fire, steam and dragon sounds keep the look and sound consistent.
+
+Seedance 2.5 · Text-to-video · Source: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2109224200217198796) · 1,043 likes on 2026-10-27
+
+[`fantasy`](pages/en/tags.md#tag-fantasy) [`dragon`](pages/en/tags.md#tag-dragon) [`short-film`](pages/en/tags.md#tag-short-film) [`multi-shot`](pages/en/tags.md#tag-multi-shot) [`audio`](pages/en/tags.md#tag-audio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 16:9 fantasy short film, 30 seconds, 30fps, photorealistic, warm golden-hour light, rich film color grading, shallow depth of field, smooth camera, natural motion blur, heartwarming comedy tone.
+
+Characters:
+1) A young woman with messy wavy blonde hair, thin round glasses, a linen cream blouse with rolled sleeves and a dark brown pinafore apron dress. Expressive, funny, warm face.
+2) Her pet baby dragon: a huge, friendly, horse-sized dragon with white-cream scales covered in pink-magenta patterns, a crest of soft pink spikes, big amber eyes with vertical pupils, a gentle snout. It acts like a naughty, affectionate puppy.
+
+Setting: a rustic medieval cottage courtyard and kitchen: a stone oven, a wooden table, hanging lavender and herbs, stacked firewood, a low stone wall, green hills in the background. Later, the warm inside of the cottage with a wooden table, a candle, pots on shelves, and sunbeams through a small window.
+
+0-3s: Wide shot, courtyard. The woman turns a big pink raw pork roast on a metal spit over the table. The dragon's head peeks over the stone wall on the right, watching curiously. She talks to the dragon, laughing, asking it for just "a little fire".
+3-5s: Extreme close-up of the dragon's scaly snout and nostrils, then a close-up of her smiling face, laughing and confident.
+5-7.5s: The dragon opens its mouth and unleashes a huge blast of fire at the roast, flames and sparks everywhere. She throws her hands up in panic.
+7.5-10s: Extreme close-ups of her shocked face, wide eyes, hair blown by the heat, hands raised, shouting "No, no, no!". Cut to the roast, completely burnt black and surrounded by flames.
+10-12s: She grabs a wooden bucket and throws water on the fire, a giant cloud of steam rises. The dragon laughs with its mouth open, tongue out.
+12-15s: Steam clears. She stands with her arms out, scolding the dragon like a child. The dragon lowers its head with guilty puppy eyes, and she gently touches its snout, forgiving it.
+15-18s: Cut to the cozy kitchen. She wipes her forehead, then cuts a small piece of fresh meat and puts it on a tiny skewer, calmly explaining to the dragon how little fire is needed. The dragon leans in beside her.
+18-21s: Close-up: she holds the skewered meat cube. The dragon carefully breathes a tiny, gentle flame, and the meat sizzles with small sparks. She smiles proudly.
+21-23s: Extreme close-up: the perfectly seared meat cube on the skewer, in front of the dragon's amber eye, a reflection of tiny fire in its vertical pupil.
+23-26s: She sits at the table with a plate of cooked meat, cuts a piece, tastes it with a delighted face and gives a thumbs-up. She feeds a piece to the dragon, who opens its mouth happily.
+26-30s: Wide, warm shot of the cottage interior, golden sunbeam through the window, a candle on the table. She eats while the dragon rests its big head on the table next to her, its eyes slowly closing in contentment, its body curled behind. Peaceful, heartwarming final frame, hold.
+
+Style: Pixar-quality emotional storytelling with photorealistic detail, warm golden and orange tones, soft volumetric light, steam and sparks, cinematic grading.
+
+Audio: gentle fantasy folk music (soft strings and flute), crackling fire and a whoosh on the fire blasts, steam hiss, a deep playful dragon rumble and purr, her laughter and short dialogue, light kitchen sounds.
+```
+
+</details>
+
+**[All 35 entries](pages/en/video-scifi-fantasy.md)**
+
+<a id="vid-anime"></a>
+## Anime and animation
+
+<a id="seedance-katsudon-anime-cooking"></a>
+### Katsudon cooked in fast-cut anime style
+
+<a href="https://x.com/Goodmanprotocol/status/2098845134326808734"><img src="previews/seedance-katsudon-anime-cooking.jpg" width="360"></a>
+
+Opens with an explicit ban on imitating any existing anime, then walks through the recipe step by step so every cut has a job.
+
+Seedance 2.5 · Text-to-video · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098845134326808734) · 4,935 likes on 2026-10-27
+
+[`anime`](pages/en/tags.md#tag-anime) [`food`](pages/en/tags.md#tag-food) [`fast-cut`](pages/en/tags.md#tag-fast-cut)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirely from the text description below.
+
+IMPORTANT: Do not display, recreate, trace, reference, or imitate any storyboard, sketch, reference image, panel, annotation, or source material. Generate only original anime-style animation.
+
+STYLE
+
+High-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro close-ups, smooth camera movement, warm Japanese kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition.
+
+TIMELINE
+
+0–2.5s — Prepare Pork
+Close-up of hands pounding a thick pork loin with a wooden mallet on a cutting board. The meat gradually flattens and its fibers loosen. Sprinkle salt and pepper evenly. Crisp rhythmic impacts.
+
+2.5–5s — Bread the Pork
+Quick match cuts: press the pork into flour, dip into beaten egg, then firmly coat with coarse panko breadcrumbs. Show realistic egg dripping and breadcrumbs adhering to the surface.
+
+5–7.5s — Fry
+Lower the breaded pork into hot golden oil. Intense bubbling surrounds the cutlet as the crust turns golden brown and crispy. Warm cinematic lighting and detailed oil movement.
+
+7.5–9.5s — Slice
+Place the fried tonkatsu on a wooden board. A sharp knife cuts it into even strips. The crispy crust cracks naturally, revealing juicy white pork with gentle steam escaping.
+
+9.5–12s — Simmer Dashi & Onion
+Thinly sliced onions gently simmer in amber dashi inside a shallow pan. Small bubbles rise while the onions become translucent. Chopsticks gently move them through the broth.
+
+12–14s — Add Tonkatsu
+Place the sliced tonkatsu carefully over the simmering onions using chopsticks. The broth begins soaking into the crispy edges while steam rises.
+
+14–16.5s — Pour Egg
+Slowly pour beaten golden egg over the tonkatsu and onions. The egg spreads naturally through the gaps and begins setting around the hot edges.
+
+16.5–19s — Set the Egg
+Close-up of the egg gently coagulating over low heat. Edges become soft and golden while the center remains glossy, slightly runny, and trembling. No stirring.
+
+19–21s — Prepare Rice
+A white ceramic donburi bowl receives a generous mound of steaming Japanese short-grain rice. The rice looks fluffy and slightly glossy.
+
+21–24s — Assemble
+Carefully slide the egg-and-tonkatsu mixture from the pan onto the rice. The egg settles naturally in a soft wave while dashi lightly absorbs into the rice.
+
+24–26s — Final Close-Up
+The finished katsudon rests on the counter. Glossy egg slowly settles over the tonkatsu and rice, gently trembling. Slow cinematic push-in.
+
+26–30s — Hero Reveal
+Present the finished katsudon in a traditional blue-and-white ceramic bowl on a wooden surface. Golden egg covers crispy tonkatsu over glossy rice, topped with fresh mitsuba. Steam rises as the camera slowly arcs around the bowl for a beautiful anime-food-film ending.
+
+AUDIO
+
+Bright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: mallet impacts, knife slicing, frying sizzle, bubbling dashi, chopsticks, egg pouring, steam, and a soft ceramic clink.
+
+End with one delicate wind-chime tone during the final reveal.
+
+NEGATIVE
+
+No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, or text overlays. No unrelated ingredients or dishes. Katsudon only. Keep the food, hands, utensils, lighting, and environment visually consistent throughout.
+```
+
+</details>
+
+<a id="seedance-anime-frame-break-letterbox-pop-out"></a>
+### Anime character reaching past black letterbox bars
+
+<a href="https://x.com/aimikoda/status/2106044483863191748"><img src="previews/seedance-anime-frame-break-letterbox-pop-out.jpg" width="360"></a>
+
+The prompt states a back to front compositing order (background, black bars, character) so the foreground character overlaps the bars while the bars stay fixed. A stationary wide angle camera, an opening lunge toward the lens and a closing instruction not to crop the character inside the window make the overlap repeat. Bar size still varies between generations.
+
+Seedance 2.5 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2106044483863191748) · 1,675 likes on 2026-10-27
+
+[`frame-break`](pages/en/tags.md#tag-frame-break) [`letterbox`](pages/en/tags.md#tag-letterbox) [`anime`](pages/en/tags.md#tag-anime) [`pop-out`](pages/en/tags.md#tag-pop-out) [`character-reference`](pages/en/tags.md#tag-character-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use @[char ref]￼as the exact character and style reference. Preserve her white hair, red eyes, oversized black cropped top, long cream skirt with orange lining, bare feet and single slender sword. Keep the same angular painterly anime rendering.
+
+MAIN VISUAL GOAL: an unmistakable OUT-OF-FRAME, POP-OUT effect. The character repeatedly projects beyond the central picture window, with her sword, hands, hair and especially her wide skirt visibly moving OVER the black letterbox bars toward the viewer.
+
+COMPOSITING ORDER, BACK TO FRONT:
+1. Background and scene.
+2. Two broad black letterbox bars at the top and bottom.
+3. The foreground character, including her sword, hair and flowing skirt.
+
+The background is confined to the central picture window. The foreground character is NOT confined to that window. Her silhouette continues uninterrupted across its boundaries and onto the black bars. Cream fabric, orange lining, white hair and the silver blade remain fully visible when overlapping black.
+
+Keep both bars equal in thickness and fixed in screen position throughout. The character covers them temporarily without moving or changing them. Keep sections of black visible beside each overlap so the frame-break illusion remains clear.
+
+The camera stays stationary with a fixed wide-angle lens. The character moves rapidly through depth, creating extreme foreshortening and dramatic scale changes through physical approaches and retreats.
+
+OPENING:
+Start immediately with a powerful forward lunge. Her sword hand projects toward the lens and overlaps the lower black bar. At the same time, the nearest cream skirt folds spill across that bar. Establish the frame-break effect clearly in the very first movement.
+
+CHOREOGRAPHY:
+She pulls back into the central window, then snaps into a fast turning advance. Her skirt fans outward in a huge cream sweep, crossing the bottom boundary and spreading over the black surface. The orange lining flips into view along the moving hem. Her waist and torso remain inside the central window while the nearest fabric extends outside it.
+
+Reverse the rotation sharply into an upward sword flourish. The blade crosses onto the upper black bar, followed by flying strands of white hair. She immediately drives forward again, bringing her hand and blade extremely close to the viewer.
+
+Chain rapid fencing lunges, spinning evasions, low sweeping turns and short twisting leaps. Repeatedly move from the depth of the central scene into extreme foreground space. Alternate sword-and-hair overlaps across the upper bar with large skirt-and-hand overlaps across the lower bar.
+
+Give the skirt substantial momentum: it follows her hips, overtakes her during abrupt stops and lashes around her during reversals. Show broad cream folds sweeping across black, not merely touching the border. Keep the fabric naturally attached to her waist.
+
+Include a close spinning pass where the skirt occupies a large portion of the lower black bar while her sword cuts diagonally across the upper bar. Her face remains readable between them.
+
+FINISH:
+A final explosive lunge brings the sword toward the lens as the skirt billows across the lower bar. Resolve into a confident fencing pose with the blade and cream hem still visibly extending beyond the central picture window.
+
+Prioritize visible foreground overlap throughout. Do not crop the entire character inside the letterbox window. Do not replace the effect with simple zooming or a character moving behind black bars.
+
+Fast, forceful motion with crisp silhouettes and brief directional smears. No slow motion, camera movement, duplicated weapons, cloth morphing, text or background music.
+
+---
+
+Prompt for the second one:
+
+Use @[char ref]￼as the exact reference for the character and visual style. Preserve her blonde hair, small crown, orange puff-sleeved dress, cream skirt panels, slender sword and elongated proportions. Maintain the same flat painterly anime aesthetic, rough ink contours, dry-brush textures, graphic silhouettes and restricted orange, cream, yellow and charcoal palette.
+
+Create an explosive, high-speed sword performance built around a strong FRAME-BREAK EFFECT. Solid black horizontal bars occupy the top and bottom 15% of the output throughout the entire shot. These bars remain perfectly fixed to the screen while the camera moves inside the central image window.
+
+CRITICAL COMPOSITING RULE: the environment stays behind the black bars. Selected foreground parts of the character render IN FRONT OF the bars, visibly covering their black surface with her original colors. Her sword, hands, crown, hair and flaring skirt repeatedly cross the inner edges and overlap the bars. Do not crop these foreground elements at the inner frame boundary. The bars remain intact beneath them. This must read as the character physically bursting out of the framed image toward the viewer.
+
+Start immediately in motion. She launches straight toward the lens and thrusts her sword past it, the sharply foreshortened blade growing enormous in the foreground and extending across the lower black bar. The camera recoils and banks sideways as her hand and orange sleeve sweep through the same foreground space.
+
+She snaps into a full-body corkscrew turn, pulling the sword around her waist before whipping it upward. The blade crosses the upper black bar, followed by her crown and flying blonde hair. Her cream-and-orange skirt fans outward in a huge rotating arc, spilling over the lower bar while her torso remains inside the central window.
+
+Chain rapid thrusts, reverse-grip transitions, overhead cuts and tight spinning combinations without pauses. Alternate deep retreats into the scene with sudden lunges directly toward the viewer. Every return creates a new frame-breaking overlap: a sword tip punching toward the lens, a hand reaching beyond the lower border, an orange sleeve flashing across the upper border, a cream skirt panel sweeping across the bottom.
+
+Use aggressive wide-angle perspective and dramatic changes in depth. The camera darts backward ahead of her charge, arcs close around her sword arm, drops below an airborne turn and whips back toward her face. Keep the camera reactive and fluid in one continuous shot. No top-down angles. Keep the black bars screen-locked during every camera roll, orbit and recoil.
+
+Make each near-lens pass feel dangerously close, with strong parallax, brief directional smears and crisp readable silhouettes at the peak of each movement. Her face stays consistent and expressive: fierce concentration with a confident, playful edge. Hair, sleeves and layered skirt react sharply to acceleration.
+
+Finish with one final forward burst. She drives the sword diagonally past the lens, its blade spanning the lower black bar while her crown overlaps the upper bar. Resolve directly into a striking extended fencing pose, close to the viewer, with fabric still whipping around her.
+
+Full-speed action throughout. No slow motion, frozen midair poses or gentle floating. No extra weapons, duplicated limbs, costume changes or transformation into 3D. Sword whooshes, sharp fabric snaps and forceful air rushes only. No background music, dialogue or text.
+
+---
+
+Prompt for this one:
+
+Use @[char ref]￼as the exact character and style reference. Preserve her black hair and braids, oversized blue hooded jacket with cream graphics and orange trim, white cropped top, layered cream-and-orange pants, orange ribbons and white sneakers with black stripes and orange panels. Preserve her single sword with its black wrapped handle, gold guard and red tassel. Keep the same angular painterly anime rendering and blue background.
+
+MAIN VISUAL GOAL:
+An unmistakable OUT-OF-FRAME, POP-OUT effect. The character repeatedly projects beyond the central picture window, with her sword, hands, sneakers, hair and loose clothing visibly moving OVER the black letterbox bars toward the viewer.
+
+COMPOSITING ORDER, BACK TO FRONT:
+1. Background and scene.
+2. Two broad black letterbox bars at the top and bottom.
+3. The foreground character, including her sword, hands, sneakers and clothing.
+
+The background is confined to the central picture window. The foreground character is NOT confined to that window. Her silhouette continues uninterrupted across its boundaries and onto the black bars. Blue sleeves, cream fabric, orange panels, sneakers and the silver blade remain fully visible when overlapping black.
+
+STATIC BARS, MOVING CHARACTER:
+Both bars are completely static screen graphics. Keep their equal thickness, full width and exact screen position unchanged throughout. Their inner boundaries remain perfectly straight and horizontal.
+
+The character simply renders in front of them. Her movement temporarily hides portions of their black surface. The underlying bars never move or deform. Visible edge segments on either side of an overlap remain aligned on the same horizontal line. When she withdraws a limb, reveal the original unchanged black bar beneath it.
+
+Keep black visible beside the overlapping body parts. No bending, sliding, shaking, stretching, opening or impact reactions in the bars.
+
+The camera stays stationary with a fixed wide-angle lens. One continuous shot. She stays close and large in the composition, using short forward approaches, lateral pivots and compact recoveries. Never retreat deep into the background.
+
+OPENING:
+Already close to the viewer, she reaches toward the lens with her EMPTY hand while retaining the sword in her other hand.
+
+Her fingertips visibly overlap the upper black bar. She makes one brisk diagonal lens-wiping gesture with her open palm, passing across the center and over the lower black bar. The hand and sleeve appear in front of both bars during the gesture. The bars remain unchanged beneath them.
+
+The instant her palm clears the lens, she snaps into fast action without a pause.
+
+CHOREOGRAPHY:
+A diagonal sword slash passes close to the lens and visibly extends over the upper black bar. Reverse immediately into a tight turning cut. Her blue sleeve and loose cream-and-orange fabric sweep across the lower black surface.
+
+She chambers a knee and fires a sharp FRONT KICK toward the viewer. The sneaker sole becomes large in the foreground and clearly overlaps the lower black bar, with black still visible beside it. Her shin connects continuously back to her body inside the central window. Retract immediately.
+
+Plant the foot and pivot into a fast sword flourish crossing the upper bar. Continue into a compact SPINNING HEEL KICK. The sneaker sweeps close past the lens, its heel and sole projecting over the lower bar while her jacket and trouser fabric trail behind.
+
+Keep alternating clear close-range overlaps: sword above the upper bar, sneaker over the lower bar, empty hand across a border, blue sleeve and cream fabric sweeping across black. Use fast connected combinations with crisp readable extensions and immediate recoveries.
+
+Her clothing follows her body with strong momentum. Preserve the garment construction, patterned orange sections and cream folds. Fabric stays attached naturally and visibly covers the black surface without affecting its straight boundaries.
+
+FINISH:
+A final close-range sword extension crosses the upper black bar as her loose clothing flares over the lower bar. Resolve sharply into a confident martial-arts pose, retaining visible foreground overlap and quick natural follow-through.
+
+The frame-break effect must come from the character visibly covering black areas outside the central picture window. Do not keep her entirely behind the bars. Do not simulate the effect by moving the bars or enlarging the window.
+
+Fast real-time movement throughout, including the opening wipe. No slow motion, speed ramps, long windups or floating pauses. No camera movement, duplicated limbs or weapons, clothing morphing, text or background music. Sword whooshes, kick air bursts and fabric snaps only.
 ```
 
 </details>
@@ -575,61 +971,605 @@ Place the character in a fitting environment that supports their identity and mo
 
 </details>
 
-<a id="h3-flat-vector-curry-delivery-explainer"></a>
-### Flat Vector Curry Delivery Explainer Animation
+**[All 32 entries](pages/en/video-anime.md)**
 
-<a href="https://x.com/ponzponz15/status/2087108170271560115"><img src="previews/h3-flat-vector-curry-delivery-explainer.jpg" width="360"></a>
+<a id="vid-commercial"></a>
+## Ads and product videos
 
-The key visual is locked as the exact first frame, and five timed shots each name their background color, motion type and on screen text. Exact Japanese strings, a ban on extra text or UI, and a fixed end hold at 12 seconds keep the typography clean.
+<a id="kling-vintage-watch-macro"></a>
+### Macro shot of a vintage wristwatch between fingers
 
-MiniMax H3 · Image-to-video · Source: [@ponzponz15 on X](https://x.com/ponzponz15/status/2087108170271560115) · 766 likes on 2026-10-27
+<a href="https://x.com/higgsfield_ai/status/2019088049448362164"><img src="previews/kling-vintage-watch-macro.jpg" width="360"></a>
 
-[`motion-graphics`](pages/en/tags.md#tag-motion-graphics) [`explainer`](pages/en/tags.md#tag-explainer) [`flat-vector`](pages/en/tags.md#tag-flat-vector) [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) [`japanese-text`](pages/en/tags.md#tag-japanese-text)
+The prompt fixes the camera distance in inches and lists concrete surface details such as dust, micro scratches and patina, so the model holds texture. A single warm grazing key light, a shallow depth of field and one small motion, the second hand, keep the shot stable.
 
-<details><summary><b>Prompt</b></summary>
+Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019088049448362164) · 2,534 likes on 2026-10-27
 
-```text
-For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
-integrated_multimodal_description: [Shot 1] Classic Japanese 2D flat-vector explainer animation. Begin from the attached key visual as the exact first frame, preserving the same woman, white shirt with teal accent, teal smartphone, yellow curry container, warm-white background, thick charcoal outlines, circular illustrations, flat colors, and wide 16:9 composition. Do not display the attached key visual as a thumbnail, screenshot, media preview, or interface element. Hold the wide composition briefly. The curry steam gently rises, the notification bell pops once, and the woman presents the curry container with a happy expression. In the empty left area, large Japanese typography builds in two stages: "休みの夜、" then "カレーが食べたい。". Highlight "カレー" in curry ochre.
-[Shot 2] At 00:02.200, the scene cuts to a bright teal flat-color field. A simple circular vignette of the same woman relaxing at home appears with a crescent moon, an evening clock without numbers, and an empty kitchen counter. The headline appears word by word: "でも、買いに行くのは面倒。". The final word is emphasized with a small coral-red block. Use simple 2D slide, pop, and mask-reveal motion only.
-[Shot 3] At 00:04.500, the teal field wipes into a sunny yellow solution card. A large teal smartphone slides into the center while three illustrated curry choices pop out as clean circular cards: rich curry, vegetable curry, and spicy curry. A dotted route grows from the phone toward a small delivery scooter carrying a curry bag. The service name "カレヨル" appears clearly in deep charcoal, followed by the short phrase "選ぶだけ。".
-[Shot 4] At 00:06.800, the composition changes to a clean white infographic strip. Three large circular steps assemble from left to right: "選ぶ", "届く", "食べる". The same woman appears in the final circle at home, opening the yellow curry container as visible steam rises. The delivery scooter moves along the dotted route and stops beside her. Keep every illustration flat, simple, and consistent with the key visual.
-[Shot 5] At 00:09.200, the camera returns to a wide warm-white end card with generous negative space. A large two-line headline assembles smoothly: "どうしても、休みの夜は" followed by "カレーが食べたい。". At 00:10.500, the curry bowl and service name appear beneath it with the final message "そんな時は、カレヨル。". A small curry icon makes one cheerful pop and a gentle steam curl rises. Hold the complete wide end card cleanly until exactly 12.000 seconds. Do not add extra text, random pseudo-letters, logos, browser UI, or additional characters.
-```
-
-</details>
-
-**[All 93 entries](pages/en/video-minimaxh3.md)**
-
-<a id="seedance25"></a>
-## Seedance 2.5
-
-<a id="seedance-seoul-subway-revenge"></a>
-### Seoul subway revenge comedy
-
-<a href="https://x.com/AIwithSynthia/status/2108760866422415701"><img src="previews/seedance-seoul-subway-revenge.jpg" width="360"></a>
-
-Sets the camera language in the first line (handheld, fluorescent, real time), then plays the gag in clear beats and spells out what must stay visible at the end.
-
-Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2108760866422415701) · 10,056 likes on 2026-10-27
-
-[`action`](pages/en/tags.md#tag-action) [`comedy`](pages/en/tags.md#tag-comedy) [`handheld`](pages/en/tags.md#tag-handheld) [`subtitles`](pages/en/tags.md#tag-subtitles)
+[`macro`](pages/en/tags.md#tag-macro) [`product-shot`](pages/en/tags.md#tag-product-shot) [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) [`moody-lighting`](pages/en/tags.md#tag-moody-lighting) [`cinematic`](pages/en/tags.md#tag-cinematic)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use realistic handheld camera movement, cold fluorescent lighting, teal-green accents, and real-time action.
-
-A Korean woman in her 20s with a black bob, sunglasses on her head, a fitted crop top, high-waisted blue jeans, black boots, and a brown shoulder bag descends the subway stairs holding a takeaway coffee. A Korean man with messy dark hair and blonde tips, wearing a dark-green bomber jacket, suddenly hits her from behind and laughs as she stumbles against the handrail. Furious, she chases him onto the platform as he boards a train and mocks her through the closing glass doors.
-
-She punches the glass, creating a dramatic crack and opening. As she confronts him, her coffee cup slips from her hand, falls to the platform, and spills visibly across the floor. She grabs his jacket, forcefully throws him through the air, and sends him crashing into a large metal rubbish bin. The bin rattles and wobbles as he lands inside, looking terrified and humiliated.
-
-She leans toward him and says, "Don't mess around." She then calmly walks away while he remains stuck in the bin.
-
-Maintain identical faces, hairstyles, outfits, and location throughout. Include realistic physics, expressive reactions, cinematic close-ups, subway ambience, and clear white subtitles. Keep the action non-gory, the coffee spill visible, and the final dustbin landing unmistakable.
+Ultra-realistic cinematic macro shot of a vintage wristwatch held between two fingers, extreme close-up framing focused on the watch face and crystal, with the camera positioned inches away to reveal fine dust particles, micro scratches on the glass, worn metal edges, engraved numerals, and subtle patina on the hands. Shallow depth of field isolates the dial while the background dissolves into soft, dark bokeh. The lighting is moody and directional, a single warm key light grazing the surface to create delicate reflections along the curved crystal and metallic rim, emphasizing texture and age. The second hand moves subtly, creating a sense of quiet tension and time passing. Skin texture of the fingers is visible at the edges of the frame, slightly out of focus, adding scale and realism. High contrast, cinematic color grading, soft film grain, precise focus breathing, and a tactile, intimate macro perspective that feels handcrafted and timeless.
 ```
 
 </details>
+
+<a id="kling-turntable-needle-macro-pushin"></a>
+### Turntable Push-In to Stylus Needle Macro
+
+<a href="https://x.com/higgsfield_ai/status/2019101323317375400"><img src="previews/kling-turntable-needle-macro-pushin.jpg" width="360"></a>
+
+Starts from a given frame and runs one continuous take. A rigid bolt-mounted push-in locks onto the needle tip, and the prompt lists macro details, dominant sound design and explicit camera rules.
+
+Kling 3.0 · Image-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019101323317375400) · 2,357 likes on 2026-10-27
+
+[`macro`](pages/en/tags.md#tag-macro) [`single-take`](pages/en/tags.md#tag-single-take) [`sound-design`](pages/en/tags.md#tag-sound-design) [`push-in`](pages/en/tags.md#tag-push-in) [`analog`](pages/en/tags.md#tag-analog)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the provided image as the exact starting frame.
+Cinematic video, single continuous shot, duration 5–7 seconds.
+Single take. No cuts. No transitions.
+CAMERA & ACTION (CONTINUOUS MOTION)
+The camera starts static, framing a turntable in warm analog studio light.
+A human hand lowers the tonearm onto a spinning vinyl record.
+The record begins rotating smoothly. Immediately after contact, the camera accelerates forward in one continuous movement, a fast, rigid robot-bolt push-in directly toward the stylus needle. No easing. No cinematic zoom. Pure mechanical forward motion. As the camera reaches extreme macro distance, it locks onto the needle tip, as if physically bolted to it, without any cut. From this moment on, the camera moves together with the needle, perfectly synchronized.
+
+MACRO DETAIL (SAME SHOT)
+Extreme macro view shows:
+Stylus tip vibrating microscopically
+Vinyl grooves flowing beneath
+Dust particles, micro scratches, groove texture
+Subtle vertical and lateral needle movement, physically accurate
+The camera remains rigidly attached, only tiny micro-vibrations from groove friction.
+
+SOUND DESIGN (DOMINANT, CONTINUOUS)
+Sound is uninterrupted and dominant:
+Needle drop click
+Loud, authentic vinyl crackle and hiss
+Stylus-on-groove friction
+Low mechanical hum of the turntable
+No music clarity at first — raw analog texture only.
+No score. No digital effects.
+
+VISUAL STYLE
+Extreme macro cinematography
+Ultra-shallow depth of field
+Warm analog color grading
+Natural reflections on vinyl
+Subtle film grain
+
+CAMERA RULES
+One continuous take
+No cuts, no edits, no montage
+No handheld shake
+No floating camera
+Robo-cam, bolt-mounted feel only
+
+END FRAME
+Camera stays locked to the needle,
+vinyl spinning endlessly beneath it,
+hypnotic, mechanical, intimate.
+```
+
+</details>
+
+<a id="seedance-woman-in-storm-crowd"></a>
+### A woman stands still while the crowd moves in sync
+
+<a href="https://x.com/AIwithkhan/status/2099707375943066094"><img src="previews/seedance-woman-in-storm-crowd.jpg" width="360"></a>
+
+Uploaded images lock the woman, the crowd and the framing. The text only directs motion and lists what must not appear.
+
+Seedance 2.5 · Reference-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2099707375943066094) · 2,128 likes on 2026-10-27
+
+[`fashion`](pages/en/tags.md#tag-fashion) [`crowd`](pages/en/tags.md#tag-crowd) [`reference-images`](pages/en/tags.md#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman, crowd, wardrobe, framing, and atmosphere.
+A young woman with the same short dark bob wears a fitted black turtleneck, black trousers, and black shoes, standing confidently at the center of a large crowd.
+Start with her walking slowly toward the middle of the crowd, calm and expressionless, with a lit cigarette naturally held between her lips.
+She reaches the center, stops, and faces directly into the camera.
+She takes one slow drag from the cigarette, then removes it from her mouth.
+She slowly exhales a visible stream of smoke toward the camera, with the smoke naturally drifting across her face.
+She lowers her hand and becomes completely still, staring directly into the lens.
+The entire crowd behind her remains frozen for a brief moment.
+Suddenly, everyone behind her begins moving in perfect synchronization — sharp head turns, shoulder jerks, folding forward and snapping upright.
+The movement should feel rhythmic, strange, powerful, and physically realistic.
+The woman does not move at all while the entire crowd moves behind her.
+Slowly push the camera closer to her, keeping her sharply focused while the crowd has subtle depth-of-field blur.
+Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothing, cigarette ember, and physically accurate smoke.
+Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.
+```
+
+</details>
+
+<a id="wan-fashion-face-closeup-flash-orbit"></a>
+### Ultra close fashion portrait with candid flashes
+
+<a href="https://x.com/leaf_sanren/status/2105645639703183753"><img src="previews/wan-fashion-face-closeup-flash-orbit.jpg" width="360"></a>
+
+The prompt splits the 15 seconds into five timed beats, each with its own camera move, gaze and flash cue. It also lists real skin flaws and bans plastic skin, which keeps the face photographic.
+
+Wan 3.0 · Text-to-video · Source: [@leaf_sanren on X](https://x.com/leaf_sanren/status/2105645639703183753) · 1,439 likes on 2026-10-27
+
+[`portrait`](pages/en/tags.md#tag-portrait) [`fashion`](pages/en/tags.md#tag-fashion) [`close-up`](pages/en/tags.md#tag-close-up) [`skin-texture`](pages/en/tags.md#tag-skin-texture) [`vertical`](pages/en/tags.md#tag-vertical)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate this video: Create a 15-second, 9:16 vertical screen, ultra-high-definition 4K, 30fps, cinematic realistic portrait quality fashion portrait short film.
+
+The main subject of the frame is a young Asian woman around 20-25 years old, with a high-end face—cool with a touch of youthful greenness, delicate features but not overly perfect, smooth facial contours, natural nose bridge, full lips, eyes with depth, overall vibe like a car model or a close-up candid shot by a photographer at a fashion event.
+No influencer vibe, no exaggerated plastic surgery face, no plastic skin, no excessive skin smoothing, no overly heavy fake lashes, no exaggerated highlights, no anime feel.
+The character's skin must be realistic: clearly visible pores, subtle skin texture, light foundation caking, faint acne marks, very shallow pockmarks, under-eye fine lines, natural contours on nose wings and cheeks, lip lines, a few stray hairs and hair edge wisps. Makeup is refined but imperfect high-end subtle look: base slightly adherent but not flawless, clean eye makeup, naturally realistic lashes, lips with a subtle sheen.
+Hair is black or dark brown straight long hair, with natural stray strands and a slight messy feel, not too deliberate.
+
+Scene and Atmosphere
+
+Scene is a high-end fashion event venue / auto show activity area / luxury brand launch event close-up portrait atmosphere, but the background must be blurred, not highlighting specific brands or text. Background can include soft exhibition hall lighting, minimal out-of-focus neon reflections, blurred crowds, blurred car body highlight reflections or metallic texture backgrounds, overall atmosphere high-end, restrained, fashionable.
+No subtitles, no stickers, no watermarks, no readable text, no exaggerated effects, no illogical flashy lights.
+
+Lighting Requirements
+
+Lighting must conform to real-world logic, like a real photographer shooting close-up at the event site.
+Main light is soft but directional facial key light, coming from slightly off to the front upper side, creating natural facial light and shadow layers.
+Fill light is very subtle, retaining some shadows to enhance facial dimensionality.
+Environment can include soft cool-toned rim light or auto show site reflection light to make the face more three-dimensional.
+Throughout, allow 2 to 3 brief flash occurrences; flashes must feel like natural on-site photography flashes, quickly lighting up only in certain moments, causing temporary enhancement of facial highlights, more obvious pupil catchlights, brighter skin reflections, but no constant strobing, no illogical flashing.
+When flashes occur, it should feel like a photographer's candid shot: lights up once and done, realistic light ratios, face not overexposed, skin details still visible.
+
+Camera and Movement (Top-Tier Cinematography)
+
+Overall, use ultra-close portrait movement, with the lens always orbiting the face to highlight eyes, nose bridge, lips, cheeks, hair strands, and skin texture.
+Cinematography language is high-end, fluid, restrained, with a fashion ad and backstage photography candid feel.
+No heavy shaky cam, no disorienting motion, no exaggerated AI camera moves, no sudden pull-backs.
+Movement must feel natural, like a high-end photographer using a handheld gimbal or slight handheld shooting:
+
+0-3 seconds
+
+Lens starts with an ultra-close side-front face push-in, focus on eyes and nose bridge area, subject slightly lifts gaze to lens, natural breathing feel, lips subtly relaxed.
+Lens does an extremely subtle slow push-in, with very light lateral sliding, showcasing cheeks, under-eye texture, and hair strands.
+This segment should make viewers feel the face's high-end realism right from the first glance.
+
+3-6 seconds
+
+Lens slides along the face from eyes to nose tip, then to near the lips, in an extremely steady micro-arc orbit, close-up observation of features.
+Subject's gaze subtly shifts, no exaggerated acting—just gently looks toward lens edge, then slowly back to lens.
+First flash can occur here, briefly lighting up to enhance skin texture and lip highlights.
+
+6-9 seconds
+
+Lens slowly turns from front-left to front-right, still maintaining face-push distance, emphasizing cheek skin texture, nose wing details, lower eyelid fine lines, lashes, and pupil reflections.
+Subject lightly brushes a bit of hair, or a stray strand naturally falls to the side of the face.
+Lens has a subtle breathing-like float for real photography feel, not rigid.
+
+9-12 seconds
+
+Lens subtly shifts down to highlight lips, jawline, and cheeks, then slowly back to eyes.
+Subject's expression stays cool, restrained, with a touch of high-end aloofness, like a car model caught close-up by a photographer, occasionally a gentle blink, corners of mouth with extremely subtle relaxation.
+Second flash occurs here, natural and instantaneous like on-site candid, returning to normal light after.
+Post-flash, catchlights in eyes more prominent, giving the frame more fashion editorial vibe.
+
+12-15 seconds
+
+Lens does one of the most beautiful ultra-close light arc closes, subtly orbiting the face and lightly pushing in, finally settling on an ideal composition of eyes + nose bridge + half lips.
+Subject gently lifts gaze to straight-on lens in the last second, eyes clean, calm, captivating.
+Ending can have a third very subtle flash or environmental highlight sweep, but must feel natural, not overdone.
+Finally holds on a high-end face-push frame perfect for a thumbnail cover.
+
+Frame Style
+
+Overall style is:
+Real cinematic fashion portrait, close-up commercial photography, auto show model face-close candid, high-end magazine feel, natural skin texture, non-studio fake-face sense.
+Include real lens bokeh, natural depth of field, fine skin quality, subtle on-site feel, restrained high-end vibe.
+Not influencer selfie, not live stream, not Korean-style skin smoothing, not low-quality AI face.
+
+Key Emphases
+
+Face must be real, not fake
+
+Skin can't be overly perfect, retain subtle imperfections
+
+Features stable, no distortion
+
+Eyes can't wander, lips can't move randomly
+
+Hair strands must be real, with stray hairs
+
+Flashes must follow real candid logic
+
+Lighting must be real, no random strobing
+
+Camera must be high-end, smooth, cinematic, fashion photography feel
+
+Whole piece centers on "high-end face close-up showcase," no plot, no big movements
+
+Negative Restrictions (Suggest Adding Together)
+
+Negative prompts:
+Cartoonish feel, CG feel, plastic skin, excessive smoothing, over-beautification, feature distortion, eye misalignment, skin wax figure feel, overexposure, illogical flash strobing, face shake, low clarity, low-quality hair strands, exaggerated filters, influencer face, overly heavy fake lashes, heavy makeup, shaky lens, limb distortion, cluttered background, readable text, subtitles, stickers, watermarks,
+```
+
+</details>
+
+**[All 47 entries](pages/en/video-commercial.md)**
+
+<a id="vid-dialogue"></a>
+## Dialogue and talking heads
+
+<a id="seedance-cafe-table-multi-angle-reshoot"></a>
+### Cafe table talk reshot from thirteen new angles
+
+<a href="https://x.com/Scenario_gg/status/2102365054389899695"><img src="previews/seedance-cafe-table-multi-angle-reshoot.jpg" width="360"></a>
+
+The prompt locks performance, audio, lighting and tempo of the source video, then varies only camera position and lens through a timed shot list. Measured speech windows, an eyeline rule and an empty sky rule keep lip sync and background clean in every new angle.
+
+Seedance 2.5 · Video edit · Source: [@Scenario_gg on X](https://x.com/Scenario_gg/status/2102365054389899695) · 3,287 likes on 2026-10-27
+
+[`video-to-video`](pages/en/tags.md#tag-video-to-video) [`multi-angle`](pages/en/tags.md#tag-multi-angle) [`camera-plan`](pages/en/tags.md#tag-camera-plan) [`lip-sync`](pages/en/tags.md#tag-lip-sync) [`timed-shot-list`](pages/en/tags.md#tag-timed-shot-list)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Prompt (seedance 2.5 video to video):
+
+ONE FINISHED TAKE, RE-PHOTOGRAPHED
+
+
+@video1
+ is one finished take: a single locked-off wide, 19.53 s, with its original audio, a young man at an outdoor cafe table talking to one camera. Do not restage, re-perform, re-time or reinterpret it. Re-photograph the identical event from thirteen new camera positions, as if thirteen extra cameras had been rolling around him in the same moment. Every output frame shows the same body at the same instant of
+@video1
+ at the same speed. Output runs the full 19.53 s. Keep the audio of
+@video1
+ unchanged and in sync.
+
+DO NOT CHANGE
+Performance, body, hands and what they hold, head angle, eyeline, lip movement, blink timing, movement speed, action start and end times, lighting, exposure, white balance, colour grade, wardrobe, props, set. The only variable is camera position and lens.
+
+SPEECH WINDOWS (measured from the audio of
+@video1
+)
+SPEAKING: 0.00-1.65, 2.05-4.80, 5.95-6.90, 9.65-11.75, 12.20-12.85, 13.35-13.80, 16.70-16.90, 17.60-18.90.
+SILENT, mouth closed and still or chewing: 1.65-2.05, 4.80-5.95, 6.90-9.65 (drinking), 11.75-12.20, 12.85-13.35, 13.80-16.70 (chewing), 16.90-17.60, 18.90-19.55.
+Whenever his mouth is visible in a SPEAKING window it moves in lip-sync with the audio of
+@video1
+. He talks while looking down: from 2.05 to 4.80 his head is down at the laptop and he is speaking. Head down is not silent. Never add speech to a silent window, never mute a speaking one.
+
+EYELINE RULE
+He performed to ONE camera, the A-camera: the original locked-off wide, directly in front of him at seated eye level. His eyeline stays on that spot in every shot, apart from the glances down at keyboard, mug and pastry already in
+@video1
+. He never looks for or turns toward a new camera. From above he reads cap and brow; from the sides, three-quarter or profile; from behind, the back of his head. Single exception: the on-axis shot at 00:01-00:02 sits where the A-camera was, so there alone he looks into the lens.
+
+TEMPO RULE
+Real time, 1:1 with
+@video1
+. No speed ramps, added slow motion, freeze frames or time remaps. Exactly one slowed passage exists, already baked into the source: the pastry at the top of its arc, 12.5-13.55. Reproduce it at the speed it already has, no slower, no longer.
+
+TOSS TIMING
+The pastry leaves his fingers at 12.43 and is caught at 13.60: airborne about one second only. Do not stretch, loop or hang the flight. Before 12.43 and after 13.60 it is in his hand.
+
+EMPTY SKY
+On every low or upward-tilting shot the sky is plain pale overcast and empty. No skyscrapers, glass towers, solar panels, cranes, birds, aircraft, sun disc, structured clouds, lens flare or signage. Above his head only cream wall, white pillars and flat pale sky.
+
+CAMERA PLAN
+
+[00:00-00:01] High-angle MCU from above and to his right, about 40 degrees down, chest up, slow push-in, 35mm feel, moderate depth of field, cap brim and open gesturing palms, marble edge in the lower foreground. Speaking, reading three-quarter, not to this lens.
+
+[00:01-00:02] ON THE A-CAMERA AXIS. ECU of his face, dead front, seated eye level, 85mm feel, shallow focus, pillars soft cream behind. The one shot where he looks into the lens. Hands drop below frame onto the keyboard; mouth closes at 1.65.
+
+[00:02-00:05] Macro along the MacBook keyboard to his typing fingers, lens centimetres above the keys, razor-thin focus, keycaps sharp, his face soft far behind, head down. Speaking 2.05-4.80: where his mouth shows in the blur it moves with the audio. Fingers lift at 5.0.
+
+[00:05-00:06] Top-down bird's eye straight down over the table, 24mm feel, deep focus, locked off. Marble disc fills frame: open laptop, white mug, financier, his cap at the bottom edge. Right hand crosses to the mug handle.
+
+[00:06-00:07] Lens resting on the marble at table height, 50mm feel. White mug large and sharp in the left foreground; his hand enters from the right, grips the handle, lifts the mug up out of frame. Torso soft behind. Speaking 5.95-6.90.
+
+[00:07-00:09] First-person POV from his seat, ultra-wide 18mm feel, gentle handheld breathing. The mug rim rises into the bottom of frame and tips toward the lens; laptop screen and marble beyond in deep focus. No face; framing dips to the mug, never up. Silent.
+
+[00:09-00:10] Extreme wide, slow dolly out, 24mm feel, deep focus. He is small at his table mid-terrace: cream wall, pillars, concentric-circle mural, taped boxes behind, slatted bench visible. He sets the mug on the marble 9.4-10.0; speech resumes 9.65.
+
+[00:10-00:12] Low and to his left, lens just above the marble, 50mm feel, shallow focus, table edge and mug soft in the near foreground. Right hand reaches out at 10.5 and lifts the golden financier into sharp focus before his left profile. Talking to the A-camera: full profile here.
+
+[00:12-00:14] Low beside him, 35mm feel, slight Dutch. Opens on the pastry in his fingers; at 12.43 it leaves his hand and the camera tilts UP, following it against plain pale overcast sky and the top of a white pillar through the baked-in slow apex 12.5-13.55, then tilts DOWN for the catch at 13.60 into cupped hands, head tipped back, mouth open, then head coming forward.
+
+[00:14-00:15] Behind him, over his right shoulder, 50mm feel, moderate focus. Back of the black Yankees cap and long dark hair fill frame-left; laptop glow and marble past his shoulder. Head settles level, hands bring the pastry toward his mouth. No face. Silent.
+
+[00:15-00:16] ECU on his mouth and jaw, 100mm macro feel, very shallow focus, soft open-sky light. The financier enters from below, he bites, crumbs, the jaw chews. Chewing, not speaking. Nothing above the nose in frame.
+
+[00:16-00:18] Slow orbit from his left toward front, 35mm feel, moderate focus, mural and pillars parallaxing behind, table crossing the foreground. He chews, speaks 16.70-16.90 and from 17.60, open palms, a small shrug. As the orbit nears front his gaze lands near, not into, this moving lens.
+
+[00:18-00:20] Top-down bird's eye straight down over the table, 24mm feel, deep focus, locked off. Hands come down beside the laptop and settle, cap centred, speech ends 18.90, then still. Hold to 19.53.
+
+SET AND SUBJECT CONTINUITY (identical in every shot)
+Young man, long dark hair, black short-sleeve button-up shirt with a small chest logo, black New York Yankees baseball cap, grey trousers. Light wood slatted bench, round white marble table, outdoor cafe terrace. On the table: open dark grey MacBook, white mug with a circular graphic, one small golden financier. Behind him: cream wall, white cylindrical pillars, large black-and-white concentric-circle mural, taped cardboard boxes. Soft overcast open-shade daylight, no hard shadows, constant direction and softness. Warm bright grade: cream walls, golden wood, neutral white marble, warm skin, deep neutral blacks. He is alone; no passers-by, no staff.
+
+No on-screen text, captions, subtitles, watermarks or logos beyond the small chest logo and cap emblem already in
+@video1
+.
+```
+
+</details>
+
+<a id="seedance-selfie-skincare-ugc"></a>
+### Selfie-style skincare UGC ad
+
+<a href="https://x.com/abxxai/status/2095179656802844727"><img src="previews/seedance-selfie-skincare-ugc.jpg" width="360"></a>
+
+Third step of a thread: a character sheet and a product shot go in as references, and the prompt insists `Not an ad` to get the self-filmed feel.
+
+Seedance 2.5 · Reference-to-video · Source: [@abxxai on X](https://x.com/abxxai/status/2095179656802844727) · 1,017 likes on 2026-10-27
+
+[`ugc`](pages/en/tags.md#tag-ugc) [`product-ad`](pages/en/tags.md#tag-product-ad) [`vertical`](pages/en/tags.md#tag-vertical) [`reference-images`](pages/en/tags.md#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A 15-second vertical (9:16) ultra-photorealistic close-up vlog clip, filmed on a phone held at arm's length. Not an ad. A girl talking to her own camera at the end of the day, the way people actually film themselves.
+TALENT —
+Young woman, early-to-mid 20s. Long light-brown hair with soft caramel balayage, middle part, loose undone waves, a few strands stuck to her cheek. Fair-to-light-tan skin with visible freckles across the nose and cheeks, thick natural brows, blue-green eyes, bare face, small blue resin hoop earrings, thin gold chain with a small pearl pendant. Face, freckles, hair and eye color must 100% match the reference. Oversized white linen button-down over a fitted white ribbed top, fully covered, collar slightly crooked, sleeves pushed up.
+PRODUCT —
+LANEIGE Water Sleeping Mask_EX, 70 ml. Frosted translucent light-blue glass jar, smooth matte cobalt-blue screw lid. Front label reads, in this exact order: "LANEIGE" in wide-spaced capitals, "WATER SLEEPING MASK_EX" below it, then "SLEEPING MICROBIOME" and "BRIGHTENING · HYDRATING · SOFTENING" in smaller pale-yellow type, then "70 ml" at the base. Inside, thick pale mint-blue gel with a wet glossy surface that holds a soft peak. Shape, color, gel texture and all label text must 100% match the reference, correctly spelled, legible whenever in focus.
+LOCATION
+A villa bedroom at golden hour. Only fragments read in frame because the camera is so tight: white stucco wall, a corner of rumpled white linen bedding, blurred bougainvillea and olive leaves through an open door behind her. The background stays soft and mostly out of focus the entire time.
+LIGHTING
+One condition, unchanged across all four beats. Low warm sun from frame-left through the open door, roughly 4800K, soft white-wall bounce filling the shadow side of her face. Warm rim on the left edge of her hair and jaw. Slight blown highlight where the sun clips her cheek. No ring light, no fill, no glam lighting.
+FRAMING
+Close-up throughout. Her face fills most of the frame in every beat, chin to just above the hairline, never wider than upper-chest. The jar enters frame close to her face, never held out toward the lens.
+0:00–0:04
+Visual: Tight front-camera close-up, slightly below eye level. She's mid-motion already, pushing hair off her face with the back of her wrist. She glances just off-lens, checking her own image, then back. The jar comes up beside her cheek, held low and casual, only the top half in frame, lid already off. A slow exhale through the nose.
+Camera: Selfie camera, arm's length, natural handheld drift, one quick autofocus hunt between her face and the jar.
+Dialogue: "Okay. Last thing, then bed."
+0:04–0:07
+Visual: She tips the jar slightly and drags two fingertips through the gel. Macro-tight: her fingertips, the wet mint-blue surface, a fine thread of gel stretching and snapping. The "LANEIGE" and "WATER SLEEPING MASK_EX" lines cross the frame in focus for a beat. Her face stays partly in frame at the edge, out of focus.
+Camera: Same front camera pushed in close, shallow focus, rack from the label to the gel on her fingers.
+Dialogue: "It's cold, by the way."
+0:07–0:11
+Visual: Back to her face, closer now. She taps the gel across one cheek, her forehead, her chin, then presses it in flat-palmed, working outward. The gel flashes milky over her skin, then settles clear with a faint sheen. She winces at the cold, blinks it off, keeps going. Freckles, pores and natural under-eye shadows stay visible right through the layer. She's talking while working, not pausing for the line.
+Camera: Selfie camera, very close, small handheld corrections, a slow drift as she turns her cheek toward the light.
+Dialogue: "Thin layer. You don't wash it off."
+0:11–0:15
+Visual: Closest framing of the clip. She presses two fingertips against her cheek and lets them lift, feeling the faint tack. Turns her head slowly through the low sun, checking the sheen along her cheekbone, eyes tracking her own reflection in the screen rather than the lens. A short nod. The corner of the blue jar sits soft-focus in the lower frame edge, label partly readable. She reaches to stop the recording and the frame tilts as her hand moves.
+Camera: Selfie camera, slow handheld orbit from three-quarter profile to straight-on, ending on her face filling the frame, then a small tilt as she reaches.
+Dialogue: "Morning me is gonna be so happy."
+PERFORMANCE
+End-of-day, low energy, unperformed. She talks the way someone talks while doing something else, lines half-thrown-away, not projected. Micro-behavior carries the beats: a slow blink, a genuine flinch at the cold, a half-smile that arrives late, eyes checking her own reflection instead of the lens, one natural swallow, visible breath, a small unconscious head tilt. No presenter voice, no bright delivery, no exaggerated reactions, no pointing at the product.
+VOICE
+Soft, slightly flat, close to the mic because the phone is at arm's length. Natural room tone around it. Unhurried, a little tired. Ordinary speaking volume with a touch of breath on the ends of words.
+REALISM
+Pore-level skin realism: visible pores across the nose and cheeks, fine forehead texture, natural freckling, faint under-eye shadows, a small blemish near the jaw, stray flyaway hairs catching the backlight, vellus hair on the cheek edge. Wet living eyes with catch-lights and natural asymmetric blinking. The gel reads as a real cosmetic layer refracting light on top of her skin, never replacing its texture.
+PHYSICS
+Gel holds a soft peak on her fingertip and slumps under pressure. Hair moves with real inertia and a few strands fall back across her face. Linen creases and drapes naturally. The jar has real weight and correct contact shadow against her hand. Camera weight shifts naturally with her arm.
+CAMERA CHARACTER
+Authentic modern smartphone selfie footage. Natural handheld tremor throughout, small framing corrections, quick autofocus hunts, mild wide-angle distortion at close range, natural rolling shutter, real motion blur, slight sensor noise in the shadow side. Never feels stabilized or operated by anyone else.
+STYLE
+Real personal vlog, iPhone-shot look, high-end photorealistic quality. Warm golden-hour daylight, real ambient evening atmosphere, no retouching, no skin smoothing, no product-hero framing, no before/after transformation, no commercial polish.
+OUTPUT SETTINGS
+9:16 vertical. 15 seconds. Real-time motion. High-detail photorealistic 8K intent. Natural smartphone motion blur and subtle sensor noise.
+POSITIVE LOCKS
+ keeps the same face, freckles, hair, earrings, necklace and white linen shirt over white ribbed top in every beat, fully covered throughout.
+ stays the same frosted blue jar with matte cobalt lid, correct one-hand size, label text correctly spelled and legible whenever in focus, sharpest in the 0:04–0:07 beat.
+Exactly two arms and two hands visible, anatomically correct with five fingers, one hand always holding the phone.
+Same room, same wardrobe, same golden-hour lighting from first frame to last.
+Close-up framing held throughout, her face dominant in every beat.
+Spoken dialogue exactly as written, in order, at the stated timings, with accurate natural lip-sync.
+Natural ambient audio only: faint breeze, distant birds, the small click of the lid, room tone. No music, no on-screen text, no captions, no subtitles, no logos other than the product's own packaging.
+```
+
+</details>
+
+<a id="h3-joey-chandler-ai-couch-scene"></a>
+### Joey and Chandler on Central Perk couch with coffee
+
+<a href="https://x.com/TechieBySA/status/2084600512180113820"><img src="previews/h3-joey-chandler-ai-couch-scene.jpg" width="360"></a>
+
+Dialogue is written as labelled lines with a stage direction between beats, so the model gets timing and pauses as well as the lines. The style line sets the era, a steady handheld camera and deadpan performances, and the closing hold instruction fixes the final beat on Chandler's face.
+
+MiniMax H3 · Text-to-video · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2084600512180113820) · 755 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`sitcom`](pages/en/tags.md#tag-sitcom) [`dialogue`](pages/en/tags.md#tag-dialogue) [`handheld`](pages/en/tags.md#tag-handheld) [`comedy`](pages/en/tags.md#tag-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+“Joey and Chandler sit side by side on the couch with coffee cups. Joey turns to Chandler with a completely sincere, concerned expression.
+
+DIALOGUE:
+
+JOEY: “Could AI replace us?”
+
+Chandler slowly looks up from his coffee. Pauses. Looks Joey dead in the eye.
+
+CHANDLER: “Joey, AI cannot replace you. Nothing can replace you.”
+
+Joey nods slowly. Visibly relieved. Processing.
+
+JOEY: “Because I’m too good?”
+
+Chandler stares at him. Long beat. He looks down at his coffee, then back up.
+
+CHANDLER: “…Sure. Let’s go with that.”
+
+STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, characters in casual clothing. Joey played completely straight — zero irony. Chandler delivers every line with exhausted deadpan sarcasm. Hold on Chandler’s face after the final line for a full beat before cut.”
+```
+
+</details>
+
+<a id="h3-office-michael-whiteboard-mockumentary"></a>
+### Michael Scott presents at the Dunder Mifflin whiteboard
+
+<a href="https://x.com/Arminn_Ai/status/2084387316286595436"><img src="previews/h3-office-michael-whiteboard-mockumentary.jpg" width="360"></a>
+
+The prompt sets the mockumentary look with a handheld camera and snap zooms, then splits the scene into timed beats with one dialogue line per beat so the cuts read like real editing. A closing STYLE line tells the model a documentary crew is present and characters occasionally glance at the lens.
+
+MiniMax H3 · Text-to-video · Source: [@Arminn_Ai on X](https://x.com/Arminn_Ai/status/2084387316286595436) · 447 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`mockumentary`](pages/en/tags.md#tag-mockumentary) [`sitcom`](pages/en/tags.md#tag-sitcom) [`dialogue`](pages/en/tags.md#tag-dialogue) [`handheld-camera`](pages/en/tags.md#tag-handheld-camera)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The Office (US) mockumentary style. Dunder Mifflin conference room,
+mid-afternoon, harsh fluorescent lighting, cheap office chairs,
+whiteboard at the front. Handheld documentary camera, slightly
+unsteady, with sudden reframes and quick zooms toward whoever is
+reacting.
+
+Michael Scott stands at the whiteboard, overly excited, marker in
+hand, badly drawn diagram behind him. The staff sit around the table
+looking exhausted. Stanley Hudson sits at the far end, glasses on,
+head down over a folded crossword puzzle, completely disengaged.
+
+DIALOGUE:
+
+MICHAEL (loud, proud): "Okay everybody, listen up. Large language
+models. L-L-Ms. This is the future of the paper industry."
+
+Beat. Nobody reacts. Camera pushes in slowly on Stanley — he does not
+look up, does not blink, keeps filling in his crossword.
+
+MICHAEL: "Which is why corporate is giving a bonus to whoever—"
+
+Instant snap zoom to Stanley. His head lifts. He takes off his
+glasses. Dead serious.
+
+STANLEY: "I'm listening."
+
+MICHAEL (waving him off): "—anyway. Moving on. Next topic. Prompt
+engineering."
+
+Snap zoom back to Stanley. He immediately puts his glasses back on,
+lowers his head, and returns to the crossword as if nothing happened.
+
+Cut to Jim, who slowly turns his head and looks directly into the
+camera lens with a flat, knowing expression. Hold for two seconds.
+
+STYLE: single-camera sitcom shot like a documentary crew is present,
+natural performances, no laugh track, muted office color palette,
+slightly soft consumer-camera look, characters occasionally glancing
+at the lens.
+```
+
+</details>
+
+**[All 27 entries](pages/en/video-dialogue.md)**
+
+<a id="vid-music-dance"></a>
+## Music and dance
+
+<a id="seedance-kpop-two-idol-mv"></a>
+### Two-idol K-pop music video, shot by shot
+
+<a href="https://x.com/Just_sharon7/status/2083422886686031982"><img src="previews/seedance-kpop-two-idol-mv.jpg" width="360"></a>
+
+A 30-second MV laid out in 2 to 4 second time ranges, alternating between three sets.
+
+Seedance 2.5 · Text-to-video · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2083422886686031982) · 547 likes on 2026-10-27
+
+[`music-video`](pages/en/tags.md#tag-music-video) [`dance`](pages/en/tags.md#tag-dance) [`timed-beats`](pages/en/tags.md#tag-timed-beats)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.
+```
+
+</details>
+
+<a id="kling-neon-nightclub-rain-dance"></a>
+### Woman dancing in neon nightclub and rain
+
+<a href="https://x.com/CaliraVal/status/2052314090467405869"><img src="previews/kling-neon-nightclub-rain-dance.jpg" width="360"></a>
+
+The prompt stacks subject, wardrobe, setting, lighting palette and camera moves in one dense paragraph. A separate negative list and a closing technical line for resolution, frame rate and grade keep the look consistent.
+
+Kling 3.0 · Text-to-video · Source: [@CaliraVal on X](https://x.com/CaliraVal/status/2052314090467405869) · 445 likes on 2026-10-27
+
+[`neon`](pages/en/tags.md#tag-neon) [`nightclub`](pages/en/tags.md#tag-nightclub) [`rain`](pages/en/tags.md#tag-rain) [`slow-motion`](pages/en/tags.md#tag-slow-motion) [`cinematic`](pages/en/tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic ultra-realistic 4K music video scene of a beautiful young woman in a neon-lit nightclub and rainy retro city at night. Vibrant pink, purple, blue, and teal neon lighting creates a dreamy cyberpunk atmosphere. The woman has long wet dark hair, glowing natural makeup, and wears a stylish white top with a dark skirt and black heels. Emotional slow-motion shots of her dancing freely in heavy rain on wet reflective streets, surrounded by colorful neon signs, vintage American cars, retro diners, and blurred nightclub crowds. Smooth cinematic camera tracking, soft bokeh lights, realistic rain effects, glossy pavement reflections, dramatic Hollywood-style lighting, shallow depth of field, sensual emotional mood, highly detailed skin texture, cinematic storytelling, shot on a 35mm film look with premium color grading.
+
+low quality, blurry, distorted face, bad anatomy, extra fingers, extra limbs, cartoon, anime, oversaturated colors, noisy image, watermark, text, duplicate body, unrealistic eyes, glitch, low detail, poorly drawn hands
+
+4K Ultra HD, 16:9 aspect ratio, 24fps, cinematic realism style, smooth slow-motion camera movement, Hollywood lighting, ultra detailed quality, realistic rain simulation, cinematic neon color grading
+```
+
+</details>
+
+<a id="h3-industrial-hyperpop-timeline-fashion-dancer"></a>
+### Androgynous dancer escaping a glass timeline loop
+
+<a href="https://x.com/lepadphone/status/2084637679254376793"><img src="previews/h3-industrial-hyperpop-timeline-fashion-dancer.jpg" width="360"></a>
+
+The prompt splits into labelled blocks (concept, character, world logic, visual language, motion rules, restrictions). It ties each beat of a 160 BPM grid to a camera or space rule, so kicks compress the timeline and snares duplicate frames. A closing list of exclusions keeps the dancer's identity and the on-screen text under control.
+
+MiniMax H3 · Text-to-video · Source: [@lepadphone on X](https://x.com/lepadphone/status/2084637679254376793) · 325 likes on 2026-10-28 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`fashion-commercial`](pages/en/tags.md#tag-fashion-commercial) [`music-sync`](pages/en/tags.md#tag-music-sync) [`3d-typography`](pages/en/tags.md#tag-3d-typography) [`glitch`](pages/en/tags.md#tag-glitch) [`dance`](pages/en/tags.md#tag-dance)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[Core Concept]
+15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based reality where rhythm controls space and motion.
+
+[Character Identity]
+Single androgynous dancer with short black hair, silver eyebrow mark, asymmetric black jacket, wide pants, red stitching. Maintain identical face, body, hairstyle and outfit. Multiple figures are only past-frame projections.
+
+[World Logic]
+Each kick compresses the timeline toward the dancer. Each snare duplicates previous movements into adjacent frames. Moving against the timeline transforms the 2D interface into a foldable 3D structure. The dancer escapes the repetition loop.
+
+[Visual Language]
+Black, cold white, warning red. Glass timelines, metal rails, glowing frame lines, scanning grids. Extreme wide-angle, low angles, top-down shots, Dutch angles, dolly moves, impossible perspective. 3D words COPY, SAME, TREND, OUTSIDE exist as physical architecture, not subtitles.
+
+[Motion Rules]
+Use anticipation → attack → overshoot → settle. Kick drives spatial compression, snare breaks frames, hi-hats animate cursors and fragments, bass bends time. Build with glitch cuts, then explode into an impossible continuous long take during the drop.
+
+[Restrictions]
+No character changes, extra people, random text, subtitles, logos, outfit changes, bad anatomy, flat camera angles, or meaningless flashes.
+```
+
+</details>
+
+<a id="h3-anime-fashion-dance-yellow-cyclorama-afterimages"></a>
+### Anime dance film with pink cyan motion trails
+
+<a href="https://x.com/aimikoda/status/2097001707683119410"><img src="previews/h3-anime-fashion-dance-yellow-cyclorama-afterimages.jpg" width="360"></a>
+
+A flat lemon yellow cyclorama keeps the frame clean so the cyan and pink afterimages read clearly. The camera moves are scripted as a counterpoint to the choreography, with ankle height skims, a close-up whip, an overhead cut and a hard brake on each pose lock. A tempo of 170 BPM and a ban on slow motion keep the cuts sharp.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2097001707683119410) · 271 likes on 2026-10-28 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`anime`](pages/en/tags.md#tag-anime) [`dance`](pages/en/tags.md#tag-dance) [`fashion-film`](pages/en/tags.md#tag-fashion-film) [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) [`music-video`](pages/en/tags.md#tag-music-video)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+15-second experimental anime fashion film. Use @[character reference] for the character’s exact identity, outfit and rendering style. A pristine, uniform lemon-yellow cyclorama with a seamless matte floor. Flat, clean yellow throughout, free of grain, gradients and set dressing. 16:9. No text or logos.
+
+The character performs one fast, unconventional dance phrase: ankles weave while the torso stays suspended, a wrist flick ripples through both elbows into a chest pop, knees fold into a low corkscrew pivot, then a heel swivel unwinds the body into an off-balance editorial pose. Continue through asymmetric shoulder rolls, angular arm threading around the face and a sideways glide with the head counter-rotating toward the lens. Every sharp lock immediately releases into another surprising movement. Convincing weight, precise foot contact and expressive follow-through.
+
+Electric cyan and hot pink dominate the motion effects. Bold, opaque silhouette afterimages peel away from opposite sides of the body, replay the previous gesture a fraction late and slam back into alignment on each pose. Arm sweeps stretch them into broad curved ribbons; crossing steps weave pink and cyan trails around the ankles; rapid turns fan out overlapping screen-print impressions. At the strongest accents, oversized cyan and pink cutouts of the current pose slide across the foreground, briefly masking the lens. Keep the real character crisp and recognizable, with clean yellow visible between effect bursts.
+
+The camera dances in counterpoint: skim backward at ankle height through advancing footwork, whip upward around an outstretched wrist into an extreme face close-up, then use the passing forearm to cut into a rotating overhead view of the low pivot. Dive to a tilted low-angle full-body composition as the character rises. Orbit opposite the sideways glide, exaggerating hands and feet near the wide lens. Accelerate between compositions and brake hard on pose locks.
+
+Finish with a sudden forward lean toward the lens while enormous pink and cyan echoes continue leaning farther, sweeping past both sides of the camera. Snap wide: the character lands a final asymmetric pose as the colored echoes collapse precisely into the silhouette. Hard cut to black.
+
+170 BPM broken beat, syncopated accents, fluid animation and razor-fast camera transitions. No slow motion or prolonged holds.
+```
+
+</details>
+
+**[All 19 entries](pages/en/video-music-dance.md)**
+
+<a id="vid-vlog"></a>
+## Phone footage and vlogs
 
 <a id="seedance-seoul-summer-evening-vlog"></a>
 ### A summer evening in Seoul, shot like a home video
@@ -744,79 +1684,6 @@ The realism should come from ordinary surroundings, natural expressions, small a
 
 </details>
 
-<a id="seedance-katsudon-anime-cooking"></a>
-### Katsudon cooked in fast-cut anime style
-
-<a href="https://x.com/Goodmanprotocol/status/2098845134326808734"><img src="previews/seedance-katsudon-anime-cooking.jpg" width="360"></a>
-
-Opens with an explicit ban on imitating any existing anime, then walks through the recipe step by step so every cut has a job.
-
-Seedance 2.5 · Text-to-video · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098845134326808734) · 4,935 likes on 2026-10-27
-
-[`anime`](pages/en/tags.md#tag-anime) [`food`](pages/en/tags.md#tag-food) [`fast-cut`](pages/en/tags.md#tag-fast-cut)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirely from the text description below.
-
-IMPORTANT: Do not display, recreate, trace, reference, or imitate any storyboard, sketch, reference image, panel, annotation, or source material. Generate only original anime-style animation.
-
-STYLE
-
-High-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro close-ups, smooth camera movement, warm Japanese kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition.
-
-TIMELINE
-
-0–2.5s — Prepare Pork
-Close-up of hands pounding a thick pork loin with a wooden mallet on a cutting board. The meat gradually flattens and its fibers loosen. Sprinkle salt and pepper evenly. Crisp rhythmic impacts.
-
-2.5–5s — Bread the Pork
-Quick match cuts: press the pork into flour, dip into beaten egg, then firmly coat with coarse panko breadcrumbs. Show realistic egg dripping and breadcrumbs adhering to the surface.
-
-5–7.5s — Fry
-Lower the breaded pork into hot golden oil. Intense bubbling surrounds the cutlet as the crust turns golden brown and crispy. Warm cinematic lighting and detailed oil movement.
-
-7.5–9.5s — Slice
-Place the fried tonkatsu on a wooden board. A sharp knife cuts it into even strips. The crispy crust cracks naturally, revealing juicy white pork with gentle steam escaping.
-
-9.5–12s — Simmer Dashi & Onion
-Thinly sliced onions gently simmer in amber dashi inside a shallow pan. Small bubbles rise while the onions become translucent. Chopsticks gently move them through the broth.
-
-12–14s — Add Tonkatsu
-Place the sliced tonkatsu carefully over the simmering onions using chopsticks. The broth begins soaking into the crispy edges while steam rises.
-
-14–16.5s — Pour Egg
-Slowly pour beaten golden egg over the tonkatsu and onions. The egg spreads naturally through the gaps and begins setting around the hot edges.
-
-16.5–19s — Set the Egg
-Close-up of the egg gently coagulating over low heat. Edges become soft and golden while the center remains glossy, slightly runny, and trembling. No stirring.
-
-19–21s — Prepare Rice
-A white ceramic donburi bowl receives a generous mound of steaming Japanese short-grain rice. The rice looks fluffy and slightly glossy.
-
-21–24s — Assemble
-Carefully slide the egg-and-tonkatsu mixture from the pan onto the rice. The egg settles naturally in a soft wave while dashi lightly absorbs into the rice.
-
-24–26s — Final Close-Up
-The finished katsudon rests on the counter. Glossy egg slowly settles over the tonkatsu and rice, gently trembling. Slow cinematic push-in.
-
-26–30s — Hero Reveal
-Present the finished katsudon in a traditional blue-and-white ceramic bowl on a wooden surface. Golden egg covers crispy tonkatsu over glossy rice, topped with fresh mitsuba. Steam rises as the camera slowly arcs around the bowl for a beautiful anime-food-film ending.
-
-AUDIO
-
-Bright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: mallet impacts, knife slicing, frying sizzle, bubbling dashi, chopsticks, egg pouring, steam, and a soft ceramic clink.
-
-End with one delicate wind-chime tone during the final reveal.
-
-NEGATIVE
-
-No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, or text overlays. No unrelated ingredients or dishes. Katsudon only. Keep the food, hands, utensils, lighting, and environment visually consistent throughout.
-```
-
-</details>
-
 <a id="seedance-rainy-morning-university-vlog"></a>
 ### Rainy morning, coffee, walk to university
 
@@ -844,317 +1711,209 @@ Natural diegetic audio only. No music, narration, CGI look, artificial rain, fac
 
 </details>
 
-**[All 163 entries](pages/en/video-seedance25.md)**
+<a id="seedance-ugc-night-yacht"></a>
+### Friends film a night out on a phone
 
-<a id="geminiomniflash"></a>
-## Gemini Omni Flash
+<a href="https://x.com/mightyking/status/2089299068514148655"><img src="previews/seedance-ugc-night-yacht.jpg" width="360"></a>
 
-<a id="omni-photo-bird-jumps-onto-hand"></a>
-### Bird leaps from laptop photo onto hand
+Starts by naming the camera operator (a friend walking with the group). Everything about the shake and framing follows from that.
 
-<a href="https://x.com/alexanderchen/status/2060322611586834518"><img src="previews/omni-photo-bird-jumps-onto-hand.jpg" width="360"></a>
+Seedance 2.5 · Text-to-video · Source: [@mightyking on X](https://x.com/mightyking/status/2089299068514148655) · 2,038 likes on 2026-10-27
 
-The prompt first locks the screen content to match the source video, then describes one continuous action in order: head turn, leaving the photo, landing on the hand. A real filmed setup gives the effect a physical anchor.
-
-Gemini Omni Flash · Video edit · Source: [@alexanderchen on X](https://x.com/alexanderchen/status/2060322611586834518) · 1,385 likes on 2026-10-27
-
-[`photo-to-life`](pages/en/tags.md#tag-photo-to-life) [`animal`](pages/en/tags.md#tag-animal) [`screen-breakout`](pages/en/tags.md#tag-screen-breakout) [`live-action`](pages/en/tags.md#tag-live-action)
+[`ugc`](pages/en/tags.md#tag-ugc) [`vertical`](pages/en/tags.md#tag-vertical) [`realism`](pages/en/tags.md#tag-realism) [`handheld`](pages/en/tags.md#tag-handheld)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Start with the computer screen content exactly the same as in the video. Make the bird come to life, turning head, leaving the photo and jumping onto the person's hand.
+Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
+
+Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
+
+Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
 ```
 
 </details>
 
-<a id="omni-word-by-word-kinetic-text-sizzle"></a>
-### Glossy 3D words appearing one at a time
+<a id="wan-marina-night-out-quay-leap"></a>
+### Night out friends and a quay leap
 
-<a href="https://x.com/Google/status/2062925430290526486"><img src="previews/omni-word-by-word-kinetic-text-sizzle.jpg" width="360"></a>
+<a href="https://x.com/mightyking/status/2091842964054212842"><img src="previews/wan-marina-night-out-quay-leap.jpg" width="360"></a>
 
-The exact word sequence is spelled out, with one word on screen at a time. Asking for a different animated style per word and pacing to a rhythm gives the model clear control over timing and text motion.
+Opens with a style and characters block and a setting block, then a timestamped shot list that gives each beat its own camera move such as a backward track, a whip tilt and a high angle look down. A separate audio block asks for live sync sound with no music, which supports the raw phone footage look.
 
-Gemini Omni Flash · Text-to-video · Source: [@Google on X](https://x.com/Google/status/2062925430290526486) · 1,219 likes on 2026-10-27
+Wan 3.0 · Text-to-video · Source: [@mightyking on X](https://x.com/mightyking/status/2091842964054212842) · 1,353 likes on 2026-10-27
 
-[`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) [`text-rendering`](pages/en/tags.md#tag-text-rendering) [`sizzle-reel`](pages/en/tags.md#tag-sizzle-reel) [`motion-graphics`](pages/en/tags.md#tag-motion-graphics)
+[`ugc`](pages/en/tags.md#tag-ugc) [`handheld`](pages/en/tags.md#tag-handheld) [`night`](pages/en/tags.md#tag-night) [`shot-list`](pages/en/tags.md#tag-shot-list) [`sync-sound`](pages/en/tags.md#tag-sync-sound)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Beyond just rendering text, Gemini Omni actively syncs your text with the onscreen action.
+Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
 
-It draws on Gemini's knowledge to connect language, imagery and meaning to turn complex ideas into compelling visuals. 💬
+Characters
 
-Prompt for this video: Add the word “SMILE” in bold white sans-serif typography across the nose of every inflatable shark, clean modern lettering naturally integrated into the glossy wet plastic surface, slightly curved and distorted by the inflatable shape while remaining crisp and readable during movement through the water slide. The text on the sharks must remain perfectly locked and tracked to each shark’s skin surface at all times, moving consistently with the body and rotating naturally with the sharks during the descent. Avoid flickering, sliding, jittering, duplicated characters, changing letter count, or distorted typography. Any existing text must remain stable, readable, and physically integrated into the shark skin texture, behaving like a natural marking rather than an added overlay. No text should appear or disappear mid-descent.
+The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag.
+
+Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals.
+
+Laughing, spontaneous night-out energy.
+
+Setting
+
+A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls.
+
+Warm orange street lamps, palm trees, distant city lights.
+
+The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+Shot list
+
+0.0s–4.0s — Wide tracking shot, eye level, camera moving backward
+The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+4.0s–6.0s — Medium shot, eye level, backward track + quick left pan
+The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+6.0s–8.0s — Medium-wide, camera tilts down-left to follow, whip motion
+She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+8.0s–10.0s — High-angle wide, looking down at the water, slight jolt
+From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+10.0s–13.0s — High-angle medium, looking down, small handheld drift
+She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+13.0s–16.0s — Handheld tilt up and back down, slight zoom
+The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+16.0s–20.0s — High-angle medium, tilting to follow her up
+She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+20.0s–23.0s — Low/close medium at the quay edge, static handheld
+She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+23.0s–27.0s — Medium shot, eye level, loose handheld reframe
+Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+27.0s–30.0s — Medium shot, eye level, camera settles
+Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio
+
+Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds.
+No music.
+
+Style
+
+Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
 ```
 
 </details>
 
-<a id="omni-miniature-farmhouse-foundation-macro"></a>
-### Miniature farmhouse foundation built by giant hands
+**[All 61 entries](pages/en/video-vlog.md)**
 
-<a href="https://x.com/Strength04_X/status/2085930145374966138"><img src="previews/omni-miniature-farmhouse-foundation-macro.jpg" width="360"></a>
+<a id="vid-nature"></a>
+## Nature, travel and aerial
 
-The prompt lists concrete miniature materials and tools, then states the construction stage and the empty pool area, so the model knows what is built and what is not. Macro lens, shallow depth of field and giant hands against tiny objects set the scale contrast.
+<a id="h3-marina-boat-dolphin-encounter-travel-documentary"></a>
+### Traveler boards boat and spots dolphins
 
-Gemini Omni Flash · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2085930145374966138) · 1,205 likes on 2026-10-27
+<a href="https://x.com/nawalsehar/status/2090306968900784383"><img src="previews/h3-marina-boat-dolphin-encounter-travel-documentary.jpg" width="360"></a>
 
-[`miniature`](pages/en/tags.md#tag-miniature) [`macro`](pages/en/tags.md#tag-macro) [`construction`](pages/en/tags.md#tag-construction) [`hands`](pages/en/tags.md#tag-hands) [`photorealistic`](pages/en/tags.md#tag-photorealistic)
+The prompt narrates one continuous action chain from dock to boarding, departure, dolphin sighting and reaction. Spoken lines are written inline, and a long list of physical realism cues plus a closing negative list keeps the motion and water believable.
+
+MiniMax H3 · Text-to-video · Source: [@nawalsehar on X](https://x.com/nawalsehar/status/2090306968900784383) · 166 likes on 2026-10-28 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`travel-documentary`](pages/en/tags.md#tag-travel-documentary) [`photorealistic`](pages/en/tags.md#tag-photorealistic) [`dialogue`](pages/en/tags.md#tag-dialogue) [`lip-sync`](pages/en/tags.md#tag-lip-sync) [`wildlife`](pages/en/tags.md#tag-wildlife)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Hyper-realistic miniature luxury farmhouse construction site at the very first stage of construction, viewed through cinematic macro photography. A small rectangular foundation area partially prepared on natural brown sand and compact soil, realistic miniature construction materials scattered naturally around the site, tiny red bricks, miniature cement bags, wooden beams, gravel, sand piles, metal rods, tiny buckets, miniature trowel, measuring tape, spirit level and other authentic construction tools. Giant human fingers and realistic human hands carefully interacting with the miniature materials, positioning the first construction pieces. The future farmhouse footprint clearly visible but construction has only just begun, with no completed walls or roof. Subtle markings and foundation trenches visible in the soil. A small empty area beside the foundation reserved for a future swimming pool. Extremely realistic material scale, authentic construction imperfections, tiny dust particles, cement residue, fingerprints, rough brick texture and granular soil detail. Professional miniature craftsmanship, photorealistic 8K detail, cinematic studio lighting, realistic soft shadows, shallow depth of field, strong foreground-to-background scale contrast, sharp focus on construction area, premium macro lens photography, realistic bokeh, natural color reproduction, high dynamic range, tactile textures, physically accurate lighting, believable human-to-miniature scale, no cartoon appearance, no CGI look, no text, no watermark.
+A young Western female traveler in her mid-20s walks naturally along a wooden marina dock toward a small white sightseeing boat. She wears a light blue windbreaker, white shirt, dark trousers, comfortable sneakers, sunglasses, a properly fitted life jacket, and a small crossbody bag. She carefully steps from the dock onto the gently rocking boat while holding the handrail, naturally shifting her weight as the boat responds to her movement. She walks toward the rear passenger bench, sits down, adjusts her position, and looks toward the open water. The boat engine starts with a realistic low rumble and gradually leaves the marina, creating a small bow wave and narrow wake. As the boat moves into open water, she notices movement nearby, looks surprised, and naturally says, "Wait... are those dolphins?" Two dolphins surface several meters beside the moving boat, swimming parallel at a safe distance with realistic tail propulsion, surfacing, diving, breathing, and water displacement. She picks up her phone with both hands and records them while smiling with genuine excitement. One dolphin briefly surfaces near the rear side of the boat, exhales through its blowhole, creates a small burst of mist and droplets, then dives beneath the water and leaves expanding ripples behind. She lowers her phone and says, "That is incredible." Ultra-photorealistic marine wildlife travel documentary, cinematic realism, natural human behavior, realistic walking and sitting biomechanics, physically accurate boat buoyancy and acceleration, authentic ocean waves and wake, realistic dolphin anatomy and swimming behavior, natural water reflections and refraction, accurate English lip synchronization, bright neutral daytime lighting, realistic coastal wind, immersive marina and ocean ambience, smooth documentary camera movement, continuous visual consistency, seamless storytelling from walking to boarding, departure, dolphin encounter, recording, and final reaction, no narration, no CGI appearance, no plastic skin, no robotic movement, no exaggerated dolphin jumps, no impossible water behavior, no sudden camera transitions, no text overlays, logos, or watermarks.
 ```
 
 </details>
 
-<a id="omni-coconut-water-storyboard-commercial"></a>
-### Coconut water bottle commercial from an eight panel storyboard
+<a id="omni-lights-sync-to-music"></a>
+### Apartment lights switch on to the beat
 
-<a href="https://x.com/Strength04_X/status/2094760813794111843"><img src="previews/omni-coconut-water-storyboard-commercial.jpg" width="360"></a>
+<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__building-light.webm"><img src="previews/omni-lights-sync-to-music.jpg" width="360"></a>
 
-A structured storyboard sheet fixes the format, header cards, eight numbered scenes and per panel fields for duration, camera, action and product detail. The camera line lists high speed liquid, extreme macro and low angle shots, and the audio is specified as water plus ASMR. The image from the sheet's first panel then drives the video model.
+Syncs a visual event to an audio track by naming both in one sentence. No timestamps needed.
 
-Gemini Omni Flash · Image-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2094760813794111843) · 663 likes on 2026-10-28
+Gemini Omni Flash · Video edit · Source: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
 
-[`product-commercial`](pages/en/tags.md#tag-product-commercial) [`storyboard`](pages/en/tags.md#tag-storyboard) [`beverage`](pages/en/tags.md#tag-beverage) [`macro`](pages/en/tags.md#tag-macro) [`asmr`](pages/en/tags.md#tag-asmr)
+[`audio-sync`](pages/en/tags.md#tag-audio-sync) [`music`](pages/en/tags.md#tag-music)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Nano Banana 2 × Gemini Omni flash 1.1
-
-Prompt - TITLE: Premium Coconut Water Product Commercial Storyboard
-
-FORMAT:
-• Single-page premium storyboard
-• 3:4 Portrait ratio
-• Premium natural beverage campaign
-• 8 cinematic product-focused scenes
-• Product remains the central hero
-• High-end advertising agency presentation
-
-HEADER:
-• Clean modern typography
-• Information cards:
-  - Duration: 20 Seconds
-  - Style: Fresh Natural Beverage Commercial
-  - Product: Coconut Water
-  - Audio: Tropical Water + Refreshing ASMR
-• Why This Style Works section
-• White, coconut green and natural beige aesthetic
-• Minimal tropical decorative accents
-
-STORYBOARD:
-1. Chilled coconut water bottle standing on wet natural stone, covered in condensation
-2. Bottle cap opening with a crisp close-up of the seal
-3. Coconut water pouring into a transparent glass
-4. Clear liquid swirling inside the glass with tiny bubbles
-5. Fresh coconut pieces dropping beside the bottle in slow motion
-6. Ice cubes falling into the drink and creating a controlled splash
-7. Extreme macro of condensation droplets running down the bottle
-8. Final hero bottle and glass surrounded by fresh coconut pieces and a frozen water splash
-
-EVERY PANEL:
-• Scene number
-• Duration badge
-• Camera direction
-• Visual
-• Action
-• Product detail
-
-CAMERA:
-High-speed liquid photography, extreme macro, condensation close-up, slow-motion ice drop, transparent liquid swirl, low-angle product shot, cinematic hero framing.
-
-STYLE:
-Ultra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packaging, luxury commercial photography, 8K.
+The lights of the apartments start turning on in sync with the music.
 ```
 
 </details>
 
-**[All 29 entries](pages/en/video-geminiomniflash.md)**
+Inputs: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__building-no-light.webm)
 
-<a id="kling40"></a>
-## Kling 4.0
+<a id="seedance-tomato-seedling-macro-timelapse"></a>
+### Macro time-lapse of seedling growing into tomatoes
 
-<a id="kling4-ugc-brunch-pancake-thief"></a>
-### Phone clip at brunch, sister steals a bite of pancake
+<a href="https://x.com/Yesandyou_/status/2088998841395921185"><img src="previews/seedance-tomato-seedling-macro-timelapse.jpg" width="360"></a>
 
-<a href="https://x.com/minchoi/status/2111471573395755295"><img src="previews/kling4-ugc-brunch-pancake-thief.jpg" width="360"></a>
+A reference image of the soil locks the opening frame, and the prompt then splits the 10 seconds into five 2-second growth stages. A closing list of banned elements (cuts, camera movement, zoom, morphing) keeps the locked camera steady and the growth continuous.
 
-A 30-second single take that reads as an unedited phone clip: auto-exposure drifting, a waiter bumping the table at 9s, off-camera dialogue and café noise.
+Seedance 2.5 · Image-to-video · Source: [@Yesandyou_ on X](https://x.com/Yesandyou_/status/2088998841395921185) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
 
-Kling 4.0 · Text-to-video · Source: [@minchoi on X](https://x.com/minchoi/status/2111471573395755295) · 268 likes on 2026-10-28
-
-[`ugc`](pages/en/tags.md#tag-ugc) [`vertical`](pages/en/tags.md#tag-vertical) [`one-take`](pages/en/tags.md#tag-one-take) [`dialogue`](pages/en/tags.md#tag-dialogue) [`food`](pages/en/tags.md#tag-food) [`phone-footage`](pages/en/tags.md#tag-phone-footage)
+[`time-lapse`](pages/en/tags.md#tag-time-lapse) [`macro`](pages/en/tags.md#tag-macro) [`nature`](pages/en/tags.md#tag-nature) [`plants`](pages/en/tags.md#tag-plants) [`locked-camera`](pages/en/tags.md#tag-locked-camera)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the café behind her as sharp as her face, auto-exposure brightening and dimming as people pass the sunny window behind her, no colour grading. The phone sits close and a little low, looking slightly up at her; around 9 s a waiter's arm bumps the table, the phone slides and tilts, and she catches it and props it back up. Sadie, a young woman in her early 20s with long honey-blonde waves, light natural makeup, small gold hoop earrings and a cropped cream knit top, sits at a small marble table by a big sunny window in a busy brunch café. Her sister sits across from her, out of frame except for her arm and a hand with a silver ring. Behind Sadie: other tables of people talking, a counter with a glass pastry case, plants, staff moving about, chalkboards too far away to read. Around 9 s a waiter sets down two plates, a lemon ricotta pancakes and a plate of eggs on toast, plus two iced coffees in plain glasses. Around 15 s she turns the pancake plate toward the camera; around 20 s she cuts a bite, eats it and closes her eyes; around 26 s her sister's hand reaches in with a fork and steals a piece of pancake, and Sadie swats at it, laughing. [Sadie: casual young woman's voice, warm and a bit giggly, recorded on the phone's built-in mic from half a metre away]: "Okay, I promised I'd show you what we get. ... We get the same thing every single time. ... Oh, here it is! Thank you! ... Look at this. Lemon ricotta pancakes. ... Mmm. Okay. Yeah. Still the best. ... Hey! Get your own!" [Her sister, off camera: a young woman's voice, dry and amused]: "That's the tax." [Sadie, laughing]: "She does this every time." Audio as captured by the phone mic in a busy café, not studio clean: her voice close but with the room around it, the hiss and grind of an espresso machine, cups and cutlery clinking, overlapping chatter and laughter from other tables, a door bell jingling, a chair scraping, faint music in the background. No subtitles, no captions, no on-screen text.
+Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the provided reference image as the exact visual starting point. Begin with the same tiny green seedling 🌱 emerging from dark, rich, slightly moist soil. Keep the camera completely locked and stationary 📷, preserving the same composition, camera angle, depth of field, warm natural sunlight ☀️, soft background bokeh, and realistic soil texture throughout the entire video.
+
+0–2 seconds 🌱: The tiny seedling slowly pushes upward from beneath the soil. Small cracks and subtle soil movement appear naturally around its base as the plant emerges. The thin green stem gradually becomes taller while the two young leaves slowly unfold and expand 🍃.
+
+2–4 seconds 🌿: The seedling continues growing into a young tomato plant. The stem becomes thicker and taller, while additional green leaves and small branches gradually emerge. Each leaf unfolds naturally with visible veins and realistic botanical detail 🍃✨. Gentle sunlight passes through the leaves ☀️, creating beautiful natural highlights.
+
+4–6 seconds 🌼: The plant grows fuller and stronger. Small yellow tomato flowers 🌼 begin appearing on the branches. The flowers gradually develop and bloom one by one, with delicate petals opening naturally. The plant continues extending upward and outward in a smooth time-lapse 🌿.
+
+6–8 seconds 🍅: After flowering 🌼, tiny green tomatoes 🍅 begin forming beneath the flowers. The fruits slowly enlarge from tiny green buds into recognizable round tomatoes. More tomatoes develop across the branches while fresh leaves continue growing around them 🌿🍃.
+
+8–10 seconds 🍅❤️: The green tomatoes gradually mature and transform into large, ripe, vibrant red tomatoes 🍅❤️. End with a healthy, fully grown tomato plant 🌿 surrounded by several beautiful ripe tomatoes hanging naturally from its branches.
+
+Make the entire transformation smooth, continuous, organic, and biologically believable 🌱➡️🌿➡️🌼➡️🍅. Use photorealistic textures, realistic plant anatomy, detailed leaves and veins, natural soil particles, subtle wind movement 🍃, warm golden-hour sunlight ☀️, cinematic depth of field 🎥, soft background bokeh ✨, realistic shadows, macro photography quality, and highly detailed 4K visuals.
+
+Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌, no camera shake ❌, no text ❌, no people ❌, no hands ❌, and no artificial-looking morphing ❌. The plant must grow progressively from the exact location of the original seedling, with every stage naturally connected to the previous stage. The final result should look like a real professional botanical time-lapse 🌱🎥🍅, showing the complete journey from a tiny seedling to a mature tomato plant full of ripe red tomatoes. 🍅✨
 ```
 
 </details>
 
-<a id="kling4-tactical-shooter-gameplay"></a>
-### Fake gameplay of a 5v5 tactical shooter
-
-<a href="https://x.com/higgsfield_ai/status/2110905436371370009"><img src="previews/kling4-tactical-shooter-gameplay.jpg" width="360"></a>
-
-Written as a screen recording: HUD, crosshair, PC game lighting and gunfire sound design. The model gets asked for a game, not a film.
-
-Kling 4.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2110905436371370009) · 260 likes on 2026-10-28
-
-[`gameplay`](pages/en/tags.md#tag-gameplay) [`pov`](pages/en/tags.md#tag-pov) [`hud`](pages/en/tags.md#tag-hud) [`action`](pages/en/tags.md#tag-action) [`sound-design`](pages/en/tags.md#tag-sound-design)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-15-second horizontal 16:9 1080p first-person gameplay recording of a competitive 5v5 tactical shooter in team elimination mode, captured straight from a PC screen. Modern next-gen competitive shooter graphics: bright, clean, readable daylight, crisp PBR materials, high frame rate, sharp image. Pure first-person view: the player's hands in purple tactical gloves hold an original assault rifle with a flashy custom skin of hot-pink and teal graffiti patterns, positioned in the lower right of the frame. Clean screen with the HUD turned off: the only on-screen element is a small green crosshair in the center. There is no minimap, no kill feed, no health, ammo or money counters, no timer and no banners. Snappy competitive movement with quick peeks, crouching, strafing and precise flicks. The whole video is one continuous round with no cinematic cuts.
-
-Setting: a sunny Asian harbor market district at midday, an original competitive map. There are narrow alleys between stacked, faded red, blue and yellow shipping containers, sun-bleached concrete, stalls with colorful canvas tarps and hanging paper lanterns, food carts, wooden crates and fish barrels, metal stairs and catwalks, corrugated metal walls, an open harbor basin of deep blue-green water with moored wooden fishing boats and floating pontoons, cranes on the docks in the background, and colorful painted shop signs made of abstract shapes, not letters. Bright high sun, clear blue sky with a few clouds, hard crisp shadows, seagulls in the distance and sunlight glittering on the water.
-
-[00:00–00:02] The player strafes out from behind a shipping container, flicks onto an enemy soldier at the alley entrance and drops him with a short burst. The enemy ragdolls onto the concrete.
-[00:02–00:04] He sprints along the containers, wide-swings around a stack of crates and drops an enemy hiding behind them with a quick two-shot tap.
-[00:04–00:06] He jiggle-peeks the corner of a market stall and lands a clean headshot on an enemy on the catwalk.
-[00:06–00:08] He hops down from the pier onto a floating wooden pontoon at the edge of the harbor basin and casually reloads with a fast magazine swap while moving along the planks.
-[00:08–00:10] He advances along the pontoons between moored wooden fishing boats and taps an enemy standing on a boat deck. The body ragdolls off the deck and drops into the water with a splash.
-[00:10–00:11] He throws a smoke grenade ahead onto the dock. It bounces across the wooden planks, then pops, and thick grey smoke spreads over the pier in the sunlight.
-[00:11–00:13] Two enemies push out of the smoke along the dock. He sprays and taps them down; bullet impacts kick up wood splinters from the planks and small splashes in the water. Both enemies ragdoll onto the dock.
-[00:13–00:15] The round is won. Standing alone on the pontoon in the middle of the harbor, he glances down at the sunlit water lapping against the boards, then looks back up and inspects his rifle with a stylish flip animation.
-
-Style: authentic competitive esports gameplay footage that looks like a real ranked match caught on stream, with confident, clean play. Readable action, stable first-person camera with natural view bob and recoil, sharp, high detail, bright saturated daylight colors. No real-world text, no words, no brand logos, no watermark, no IP characters or maps.
-
-Audio: competitive shooter sound design, with punchy rifle bursts with echo off the containers, shell casings clinking on concrete and wood, footsteps on concrete and hollow wooden planks, bullet impacts on wood and metal with small water splashes, a smoke grenade hiss, a crisp magazine reload, seagulls, lapping water against the boats, distant harbor horns and a short round-win sting at the end. No dialogue.
-```
-
-</details>
-
-<a id="kling4-perfume-bottle-loop-ramp"></a>
-### A perfume bottle drives a loop ramp and blasts off
-
-<a href="https://x.com/AIWithRay/status/2114672427964010805"><img src="previews/kling4-perfume-bottle-loop-ramp.jpg" width="360"></a>
-
-A product spot played as a stunt show, timed in two-second beats, with an unlabeled bottle so no brand gets in the way.
-
-Kling 4.0 · Text-to-video · Source: [@AIWithRay on X](https://x.com/AIWithRay/status/2114672427964010805) · 142 likes on 2026-10-28
-
-[`product-commercial`](pages/en/tags.md#tag-product-commercial) [`surreal`](pages/en/tags.md#tag-surreal) [`timed-beats`](pages/en/tags.md#tag-timed-beats) [`vfx`](pages/en/tags.md#tag-vfx) [`luxury`](pages/en/tags.md#tag-luxury)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Cinematic, photoreal night scene on a black stage inside a giant hangar. A towering concrete loop ramp/road with glowing red edge lights and a white center stripe dominates the background. In front of it stands a premium transparent glass perfume bottle, unlabeled, no logo, filled with pale golden fragrance, featuring elegant beveled edges, a polished metallic cap, realistic glass refraction, crisp reflections, and subtle condensation droplets. The bottle engages four small rocket nozzles under its base; soft white exhaust with bright orange cores appears. The bottle glides forward, then blasts up the glowing ramp, hugging the curve, leaving faint light trails and red neon reflections across its glass surface. At the apex it shoots off the ramp and transitions to a sleek electric-thruster flight, like a futuristic luxury flying car, then ends in a close hero shot of the perfume bottle hovering and roaring upward vertically with four bright jets, volumetric spotlights and fog below, sparks and vapor interaction, dramatic rim light, golden highlights, crisp reflections, shallow depth of field, 4K, high-end luxury perfume and car commercial look. No text, no brand, no label. Duration 9–10 seconds. Aspect ratio 9:16. Negative cues: no logos, no text, no labels, no hands, no spillage, no deformation, no duplicate bottles, no cartoon look, no melting glass, no detached cap, no liquid leakage, no extreme motion-blur smears. Beat sheet (timing guide) 0–2s: Low-angle push-in on the massive loop ramp; perfume bottle centered, engines arming beneath the base with subtle heat shimmer and glowing orange cores. 2–6s: Dynamic follow-cam as the bottle rockets up the ramp; speed ramping, neon edge lights streaking, dramatic red reflections sliding across the glass. 6–8s: Bottle leaves the ramp, switches to electric thrusters; quick cinematic orbit as it hovers midair, revealing the golden fragrance and metallic cap. 8–10s: Tight hero shot of the perfume bottle ascending vertically with four bright jets, swirling fog, volumetric spotlights, realistic vapor, and luxurious golden reflections. End with the bottle sharply focused and centered against the dark hangar.
-```
-
-</details>
-
-<a id="kling4-blacksmith-forges-greatsword"></a>
-### A blacksmith turns iron blocks into a greatsword, first frame to last
-
-<a href="https://static--34.klingai-cdn-aws.com/kling-blog/presigned_url/e8b7cc55-4cb6-4a0c-b175-e22d1f378f5f_1-2.mp4"><img src="previews/kling4-blacksmith-forges-greatsword.jpg" width="360"></a>
-
-First frame is the raw iron on the table, last frame the finished sword in the same spot. Six cuts compress the forging between them.
-
-Kling 4.0 · First & last frame · Source: [Kling 4.0 user guide](https://kling.ai/quickstart/kling-4-model-user-guide)
-
-[`keyframes`](pages/en/tags.md#tag-keyframes) [`craft`](pages/en/tags.md#tag-craft) [`multi-shot`](pages/en/tags.md#tag-multi-shot) [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) [`time-lapse`](pages/en/tags.md#tag-time-lapse)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-SCENE CONTEXT EXACT 1 CHARACTER — NO DUPLICATES. Interior, a worn blacksmith workshop, daytime. The same blacksmith removes the raw material, works it into a greatsword, and returns the completed sword to the original table.15 seconds, six shots. Manufacturing time is compressed through editorial cuts; individual actions retain natural weight and speed.
-ACTIVE REFERENCES: @Image1: exact first-frame anchor. Preserve all five iron blocks, their arrangement, the tabletop, background tools, perspective, and lighting. This image is the starting state of an active pickup shot.@Image2: exact final-frame anchor and finished-sword design. Preserve the blade silhouette, central fuller, angular curved crossguard, spiral metal grip, faceted pommel, diagonal placement, perspective, and background. This composition is reached through a visible physical placement.
-LOCATION MAP: The worktable fills the foreground. The tool bucket stands behind its left-center edge, the rod rack occupies the rear right, and the anvil stands at the right. The blacksmith works from the left side of the table in both endpoint shots. The camera stays on the original viewer-facing side of the table. During blade-working inserts, the tang points screen-left and the tip points screen-right. The final sword position runs from the upper-left pommel to the lower-right tip.
-FIRST FRAME AND SPATIAL BLOCKING: At 0.0 seconds, the frame exactly matches the raw-material reference, with five iron blocks and no hands visible. The same blacksmith immediately reaches in from the left edge. Both gloved hands approach the largest central block from opposite ends, preparing a supported two-handed lift. The blacksmith wears soot-gray sleeves, brown leather gloves, and a narrow dark strap around the right cuff. These details remain identical throughout every shot.
-FORMAT MODE: 15 seconds total, six shots.Hard cuts at 3.0, 5.0, 8.0, 10.0, and 11.0 seconds. Cuts compress the omitted manufacturing work and bench clearing. The opening pickup and closing placement each play as continuous physical actions.No fades, dissolves, or object-morph transitions.
-OPTICS: Shots 1 and 6: reference-matched elevated three-quarter framing, approximately 63° diagonal field of view and approximately 1.8 meters from the tabletop center. Exact endpoint framing takes priority over estimated optical measurements. Shots 2–5: 40° diagonal field of view, approximately 0.8 meters from the working contact point. Focus follows the hands and metal contact; the workshop background remains softly readable. Each shot holds one fixed field of view.
-CAMERA: A real camera operator holds the camera from the viewer-facing side of the workspace. All shots use handheld SETTLE: visible breathing sway, slight roll, and small delayed corrections. The opening camera holds its position while the iron block leaves the frame. The closing camera holds the empty tabletop composition while the sword enters, then settles into the exact final reference. The blacksmith is the only visible worker; the camera operator remains outside the image.
-ACTION TIMING: 0.0–3.0s — TAKE THE IRON. Start on the exact first reference; during 0.0–0.6s, the blacksmith’s matching gloved hands enter from screen-left and grip opposite ends of the largest central block. During 0.6–1.5s, the wrists brace and both hands lift the block clear of the tabletop, exposing the patch of table beneath it. During 1.5–3.0s, the blacksmith carries the supported block out through screen-left; the other four blocks remain resting on the table through the cut.3.0–5.0s — HEAT THE STOCK. Hard cut forward in time to one thick billet already glowing orange among forge coals. The same gray sleeves, brown gloves, and right-cuff strap appear at screen-left as the blacksmith holds long tongs around the billet. A short controlled pull draws the billet toward the forge mouth, with heat shimmer rising above its scaled surface.5.0–8.0s — FORGE THE BLADE. Hard cut forward to an elongated orange-hot blade blank supported on the anvil, tang left and emerging tip right. The same blacksmith braces the tang with left-hand tongs and delivers three deliberate right-hand hammer strikes along the blade flat. Each strike produces local compression, wrist recoil, and a brief scatter of dark scale.8.0–10.0s — FINISH THE METAL. Hard cut forward to a cooled blade with its fuller already formed, held by the same gloved hands against an abrasive wheel. The blacksmith makes one controlled finishing pass along the bevel. A narrow stream of sparks falls from the actual contact point as a brighter strip of metal appears.10.0–11.0s — COMPLETE THE HILT. Hard cut forward to the nearly finished sword supported on a separate assembly bench, its crossguard and spiral metal grip already fitted. The same blacksmith’s left hand braces the grip while the right hand gives the faceted pommel its final tightening turn. The completed sword now has the exact construction and finish required for the final image.11.0–15.0s — PLACE THE FINISHED SWORD.Hard cut to the original worktable, now completely clear; show its empty surface for 0.4 seconds before the same gloved hands carry the completed sword in from screen-left, one hand around the grip and the other supporting the blade flat near its balance point. From 11.4–13.8s, the blacksmith lowers the entire rigid sword diagonally, hilt toward upper-left and tip toward lower-right, easing it onto the tabletop and sliding the supporting hand free as its weight transfers to the table. From 13.8–15.0s, both hands release and withdraw through screen-left; the sword remains motionless in the exact final-reference position as the camera settles onto the final frame.
-PHYSICS: The raw block retains its shape and mass throughout the pickup. Both hands support it continuously; the forearms tense and the lift accelerates slowly under its weight. The anvil supports the hot blade during forging. Large changes of shape occur across editorial time jumps. The completed sword remains rigid during carrying and placement. The blade-supporting hand has visible clearance to slide free as the sword settles; the hand never passes through the blade or tabletop. Metal contact produces a short scrape and a low, heavy clink, followed by stillness. The same blacksmith clears the remaining raw stock during omitted time before the final shot.
-LIGHTING: The original table shots use soft daylight from upper camera-left, matching both references. Retain dark detail in the iron and protect the silver blade highlights. The forge insert uses orange coal glow from below-left as its dominant source. Return to the original neutral daylight before the sword enters the final tabletop shot.
-AUDIO: Quiet workshop air and distant furnace draft form the ambient bed. Opening: leather creaks, a brief iron scrape, and a restrained exertion breath as the heavy block rises.Middle: forge crackle, tong contact, three synchronized hammer impacts, abrasive scraping, and a short fitting sound.Ending: sleeve movement, glove friction against metal, a weighted sword-to-table clink, then quiet workshop ambience. The blacksmith speaks no dialogue.SFX only, no music, no score, no song, no soundtrack.
-CHARACTER ACTING: One consistent blacksmith performs every visible action. Soot-gray sleeves, brown leather gloves, and the dark right-cuff strap remain unchanged. Hands work deliberately: brace before lifting, maintain firm tool contact, and reduce speed before lowering the finished sword. The physical rhythm shifts from effort during the raw-block pickup to careful control during the final placement. The face and torso remain outside the crop.
-STYLE: Grounded workshop documentary with tactile iron, worn tools, and convincing manual labor.Soft old-photograph texture, restrained grain, and natural motion blur; no digital sharpening. Charcoal metal and muted brown surfaces dominate, with silver highlights and localized forge orange. The first and last frames preserve the supplied images’ appearance.
-QUALITY: Maintain consistent hands, gloves, sleeve details, metal geometry, and contact shadows. The lifted block reveals the tabletop underneath it. The closing shot visibly establishes the empty tabletop before the sword enters. Keep the full final sword readable, including its tip, guard, grip, and pommel. Avoid duplicate limbs, flickering geometry, and intersecting solid surfaces.
-POSITIVE CONSTRAINTS: The first frame contains exactly five iron blocks. The largest central block physically leaves the table in the same blacksmith’s two hands. The final shot begins with an empty table. The completed sword enters while visibly supported by that same blacksmith, contacts the tabletop, and remains after both hands withdraw. The last frame matches the finished-sword reference exactly. The opening pickup and final placement each remain continuous, with visible hand-object contact. Exactly one finished sword is present.No text overlays, subtitles, or music.
-```
-
-</details>
-
-Inputs: [1](https://static-84.klingai-cdn-aws.com/kling-blog/file_by_url/19ce60e842cb8fb4c613ed685c77e1c4d4cf027c6e827611fe944122945eccf1.png) · [2](https://static--59.klingai-cdn-aws.com/kling-blog/file_by_url/0b1daaccfe88e3810a5249fa9b1b81d8270e3a89ba88adda865ec5cfe0fa6ae1.png)
-
-**[All 26 entries](pages/en/video-kling40.md)**
-
-<a id="kling30"></a>
-## Kling 3.0
-
-<a id="kling-vintage-watch-macro"></a>
-### Macro shot of a vintage wristwatch between fingers
-
-<a href="https://x.com/higgsfield_ai/status/2019088049448362164"><img src="previews/kling-vintage-watch-macro.jpg" width="360"></a>
-
-The prompt fixes the camera distance in inches and lists concrete surface details such as dust, micro scratches and patina, so the model holds texture. A single warm grazing key light, a shallow depth of field and one small motion, the second hand, keep the shot stable.
-
-Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019088049448362164) · 2,534 likes on 2026-10-27
-
-[`macro`](pages/en/tags.md#tag-macro) [`product-shot`](pages/en/tags.md#tag-product-shot) [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) [`moody-lighting`](pages/en/tags.md#tag-moody-lighting) [`cinematic`](pages/en/tags.md#tag-cinematic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic cinematic macro shot of a vintage wristwatch held between two fingers, extreme close-up framing focused on the watch face and crystal, with the camera positioned inches away to reveal fine dust particles, micro scratches on the glass, worn metal edges, engraved numerals, and subtle patina on the hands. Shallow depth of field isolates the dial while the background dissolves into soft, dark bokeh. The lighting is moody and directional, a single warm key light grazing the surface to create delicate reflections along the curved crystal and metallic rim, emphasizing texture and age. The second hand moves subtly, creating a sense of quiet tension and time passing. Skin texture of the fingers is visible at the edges of the frame, slightly out of focus, adding scale and realism. High contrast, cinematic color grading, soft film grain, precise focus breathing, and a tactile, intimate macro perspective that feels handcrafted and timeless.
-```
-
-</details>
-
-<a id="kling-basketball-backflip-dunk-court"></a>
-### Basketball player backflip dunk on outdoor court
-
-<a href="https://x.com/higgsfield_ai/status/2019083976682684558"><img src="previews/kling-basketball-backflip-dunk-court.jpg" width="360"></a>
-
-The prompt splits one action into four numbered shots (dribble, jump, mid-air flip, dunk), each with its own shot size and angle. Low angles and a slow-motion close-up on the flip give Kling's physics a clear beat to simulate.
-
-Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019083976682684558) · 2,533 likes on 2026-10-27
-
-[`multi-shot`](pages/en/tags.md#tag-multi-shot) [`sports`](pages/en/tags.md#tag-sports) [`basketball`](pages/en/tags.md#tag-basketball) [`low-angle`](pages/en/tags.md#tag-low-angle) [`physics`](pages/en/tags.md#tag-physics)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Shot 1: A side profile, medium shot of a muscular African American man in athletic wear, intensely dribbling a basketball on an outdoor concrete court towards a hoop against a high white wall under a bright blue sky.
-Shot 2: A dynamic, low-angle wide shot showing the man jumping remarkably high into the air, performing a backflip while holding the basketball, with the white wall and sky in the background.
-Shot 3: A close-up, slow-motion shot of the man mid-air and upside down during his flip, showing his focused expression and the basketball held firmly in his hands against the sky.
-Shot 4: A dramatic, low-angle shot focusing on the basketball hoop as the man, still upside down from his acrobatic jump, powerfully dunks the ball into the net.
-```
-
-</details>
-
-<a id="kling-night-courtyard-katana-six-shots"></a>
-### Woman slices wooden dummy in night courtyard
-
-<a href="https://x.com/higgsfield_ai/status/2019104313302569185"><img src="previews/kling-night-courtyard-katana-six-shots.jpg" width="360"></a>
-
-Six numbered shots, each with its own framing, move a single scene from a macro mouth detail through wide action to a closing portrait. Naming the camera angle and the physical effect per shot, such as flying wood splinters and dust, gives the model clear impact beats.
-
-Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019104313302569185) · 2,473 likes on 2026-10-27
-
-[`multi-shot`](pages/en/tags.md#tag-multi-shot) [`action`](pages/en/tags.md#tag-action) [`katana`](pages/en/tags.md#tag-katana) [`macro`](pages/en/tags.md#tag-macro) [`night`](pages/en/tags.md#tag-night)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Shot 1: An extreme close-up of a young woman's mouth, her teeth clenched on a wooden toothpick, creating a tense and gritty atmosphere.
-Shot 2: A medium shot of the woman in a traditional Japanese-style courtyard at night, illuminated by soft lanterns. She is dressed in a white tank top and dark trousers, holding a katana in a defensive stance with a determined look on her face.
-Shot 3: A dynamic, low-angle action shot of the woman jumping high into the air, raising her katana to strike a wooden training dummy that resembles a samurai in armor.
-Shot 4: A close-up, high-speed impact shot showing the woman’s katana slicing through the wooden dummy, sending wood splinters and dust flying into the air.
-Shot 5: A fast-paced tracking shot of the woman landing gracefully and immediately striking another wooden structure, demonstrating her speed and precision.
-Shot 6: A final medium close-up of the woman’s face as she finishes her move. She is slightly breathless, her hair disheveled, with a sharp, focused gaze directed off-camera.
-```
-
-</details>
+<a id="vid-animal"></a>
+## Animals and pets
 
 <a id="kling-eagle-pov-steppe-flight"></a>
 ### Golden eagle POV flight over mountain valleys
@@ -1175,10 +1934,121 @@ POV flight from a golden eagle soaring over vast mountainous steppe landscapes. 
 
 </details>
 
-**[All 29 entries](pages/en/video-kling30.md)**
+<a id="seedance-zombie-calico-cat-reunion"></a>
+### Crying ginger cat aims handgun at zombie calico
 
-<a id="veo31"></a>
-## Veo 3.1
+<a href="https://x.com/ElsaSofia__AI/status/2108740749420646730"><img src="previews/seedance-zombie-calico-cat-reunion.jpg" width="360"></a>
+
+A timestamped shot list assigns each beat a framing, an action and an emotional turn, so the tension in the dark cabin resolves cleanly into the golden hour meadow. The opening lays out both characters, both settings and the lighting contrast between the two halves, which keeps the cats and the locations consistent across cuts.
+
+Seedance 2.5 · Text-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2108740749420646730) · 2,000 likes on 2026-10-27
+
+[`short-film`](pages/en/tags.md#tag-short-film) [`cats`](pages/en/tags.md#tag-cats) [`emotional`](pages/en/tags.md#tag-emotional) [`timestamped-shots`](pages/en/tags.md#tag-timestamped-shots) [`cinematic`](pages/en/tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic emotional short film, live-action look, 16:9, 24 seconds, 24 fps. Characters: a ginger tabby cat that stands upright on its hind legs like a human, and a calico cat (black, white and orange). At the start the calico is zombie-like: cloudy pale eyes, torn fur hanging in shreds, sharp fangs. Opening setting: a dark rustic wooden cabin kitchen at night, pots on wooden shelves, a window with cold blue night light, wooden plank floor. Final setting: a green meadow at golden-hour sunset with white dandelion fluff floating in the air.
+
+0:00-0:01.5 Extreme close-up of the ginger tabby with tears in his eyes, holding a black handgun with both paws, aimed toward the camera (gun out of focus in the foreground).
+
+0:02-0:02.5 Over-the-shoulder wide shot from behind the ginger cat: he aims the handgun at the zombie calico slowly walking toward him across the wooden floor.
+
+0:03-0:03.5 Front shot: the ginger cat stands upright, aiming with both paws, dark wooden wall and blue window behind him.
+
+0:04-0:04.5 Close-up of the zombie calico, glassy pale eyes, then snarling with fangs.
+
+0:05-0:06.5 Extreme close-up of the ginger cat's face, tears rolling down.
+
+0:06.5-0:08 He stands aiming, then slowly lowers the gun.
+
+0:08.5-0:09 The gun drops from his paw and he opens both arms wide for a hug.
+
+0:09.5-0:10 Quick cuts: the zombie calico's face, then the ginger cat with eyes closed and a tear falling.
+
+0:10.5 The calico leaps into his arms, wrapping her white paws around him; her fur is now healthy and normal.
+
+0:11-0:13 Cut to the sunset meadow: the two cats roll and cuddle in the grass, white fluff floating around, warm golden light.
+
+0:13-0:18 Close-up of the calico's affectionate face while the ginger cat's paw gently touches her face and head; the ginger cat lies on his back in the grass, eyes closed, peaceful.
+
+0:18-0:20.5 The ginger cat's paw rests on her face; he looks up, content and relaxed.
+
+0:21-0:22 Wide silhouette shot: the two cats sit snuggled together against the glowing sunset, tall grass and wildflowers in the foreground.
+
+0:22.5-0:24 Close-up with sun flare: the ginger cat tenderly rubs his head against the calico's head. End.
+
+Style: dramatic zombie-movie tension turning into a heartwarming ending, shallow depth of field, realistic fur detail, warm golden-hour light in the second half, dark low-key lighting in the first half.
+```
+
+</details>
+
+<a id="omni-photo-bird-jumps-onto-hand"></a>
+### Bird leaps from laptop photo onto hand
+
+<a href="https://x.com/alexanderchen/status/2060322611586834518"><img src="previews/omni-photo-bird-jumps-onto-hand.jpg" width="360"></a>
+
+The prompt first locks the screen content to match the source video, then describes one continuous action in order: head turn, leaving the photo, landing on the hand. A real filmed setup gives the effect a physical anchor.
+
+Gemini Omni Flash · Video edit · Source: [@alexanderchen on X](https://x.com/alexanderchen/status/2060322611586834518) · 1,385 likes on 2026-10-27
+
+[`photo-to-life`](pages/en/tags.md#tag-photo-to-life) [`animal`](pages/en/tags.md#tag-animal) [`screen-breakout`](pages/en/tags.md#tag-screen-breakout) [`live-action`](pages/en/tags.md#tag-live-action)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Start with the computer screen content exactly the same as in the video. Make the bird come to life, turning head, leaving the photo and jumping onto the person's hand.
+```
+
+</details>
+
+<a id="wan-camera-angle-swap"></a>
+### Re-shoot your clip from new camera angles, same action
+
+<a href="https://x.com/Framer_X/status/2101324357108658433"><img src="previews/wan-camera-angle-swap.jpg" width="360"></a>
+
+Upload one continuous shot as the action reference and Wan re-films it from new angles. Regenerate if a shot drifts.
+
+Wan 3.0 · Video edit · Source: [@Framer_X on X](https://x.com/Framer_X/status/2101324357108658433) · 1,170 likes on 2026-10-27
+
+[`camera-angle`](pages/en/tags.md#tag-camera-angle) [`video-reference`](pages/en/tags.md#tag-video-reference) [`workflow`](pages/en/tags.md#tag-workflow)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+STEP 1: Upload your video (must be continuous one shot) to any platform that supports WAN 3.0
+
+STEP 2: Use the prompt below (adjust it to your video):
+
+"Use the original video @ TAG ORIGINAL VIDEO as the exact action reference
+
+0–1s: Camera stays exactly as in the original video as the wolf walks toward the scooter.
+
+1–3s: Hard cut to a tight front close-up as the wolf continues walking toward and reaches the scooter.
+
+3–5s: Hard cut to a high angle above as the wolf as he gets onto the scooter and starts riding.
+
+5–7s: Hard cut to a full shot as the wolf rides the scooter down the street.
+
+7–9s: Hard cut to a side tracking shot as he keeps riding down the street.
+
+9-10s: Hard cut to an over the shoulder shot as he rides forward and notices the banana peel in his path.
+
+10–12s: hard cut to a birds eye view shot as the fallen wolf is rolling over the asphalt.
+
+12-13s : hard cut to an insert shot of his fist as wolf slams it into the asphalt.
+
+Only the camera angle and framing change. Make sure every action, movement, timing and performance exactly identical to the original video @ TAG ORIGINAL VIDEO. The action continues seamlessly across every cut."
+
+NOTE: If some scenes didn't work (action was different than original video) simply regenerate the video, that usually fixes the problem.
+```
+
+</details>
+
+**[All 14 entries](pages/en/video-animal.md)**
+
+<a id="vid-vfx"></a>
+## VFX and transformations
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### Giant girl kneeling over a Tokyo crossing
@@ -1203,6 +2073,37 @@ https://
 canva.com/design/DAG5ifq
 rYJc/BReEw-WwUMW9HmSJBHWBXQ/edit
 …
+```
+
+</details>
+
+<a id="seedance-diner-frozen-time-rewind"></a>
+### 1950s diner: time freezes, then rewinds
+
+<a href="https://x.com/techhalla/status/2083389002552664385"><img src="previews/seedance-diner-frozen-time-rewind.jpg" width="360"></a>
+
+A single effect carried for 30 seconds. The diner is described once in detail so the freeze and rewind read clearly against it.
+
+Seedance 2.5 · Text-to-video · Source: [@techhalla on X](https://x.com/techhalla/status/2083389002552664385) · 2,873 likes on 2026-10-27
+
+[`vfx`](pages/en/tags.md#tag-vfx) [`time-freeze`](pages/en/tags.md#tag-time-freeze) [`period`](pages/en/tags.md#tag-period)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+
+0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
+
+4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
+
+8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
+
+17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.
+
+24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
+
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
 ```
 
 </details>
@@ -1232,296 +2133,30 @@ Prompt: "time lapse construction, fast motion as a construction workers bring a 
 
 </details>
 
-<a id="veo-golf-ball-tracking-storm-cliff"></a>
-### Golfer on stormy cliff, camera tracks ball
+<a id="omni-word-by-word-kinetic-text-sizzle"></a>
+### Glossy 3D words appearing one at a time
 
-<a href="https://x.com/Dheepanratnam/status/2032810971140420073"><img src="previews/veo-golf-ball-tracking-storm-cliff.jpg" width="360"></a>
+<a href="https://x.com/Google/status/2062925430290526486"><img src="previews/omni-word-by-word-kinetic-text-sizzle.jpg" width="360"></a>
 
-The prompt runs as a beat by beat sequence: swing, camera locks onto the ball, approach, then an extreme close up at the cup. It states the tracking behavior outright, with the ball sharp and centered while the background streaks, and adds sound cues like the crack of the club and howling wind.
+The exact word sequence is spelled out, with one word on screen at a time. Asking for a different animated style per word and pacing to a rhythm gives the model clear control over timing and text motion.
 
-Veo 3.1 · Text-to-video · Source: [@Dheepanratnam on X](https://x.com/Dheepanratnam/status/2032810971140420073) · 666 likes on 2026-10-27
+Gemini Omni Flash · Text-to-video · Source: [@Google on X](https://x.com/Google/status/2062925430290526486) · 1,219 likes on 2026-10-27
 
-[`sports`](pages/en/tags.md#tag-sports) [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) [`storm`](pages/en/tags.md#tag-storm) [`physics`](pages/en/tags.md#tag-physics) [`ball-pov`](pages/en/tags.md#tag-ball-pov)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-video 1 - veo3.1
-video 2 - Sora 2
-
-"A dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove.
-
-As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball into the stormy sky. The camera immediately accelerates and locks onto the golf ball mid-flight.
-
-The camera tracks directly behind the spinning sphere, maintaining perfect alignment as it cuts through the driving rain. The ocean waves and dark clouds become a streaking motion blur while the ball remains sharp and centered.
-
-The howling wind roars as the projectile travels straight and true. The manicured green grows rapidly larger. In the final seconds, the camera closes in tightly as the ball strikes the turf. End on an extreme close-up of the ball ripping through the wet grass, throwing up a spray of dirt before dropping perfectly into the cup."
-```
-
-</details>
-
-<a id="veo-strawberry-jar-assembly"></a>
-### Strawberry skincare jar assembling on red background
-
-<a href="https://x.com/ChillaiKalan__/status/2029019321364824452"><img src="previews/veo-strawberry-jar-assembly.jpg" width="360"></a>
-
-The prompt starts from an empty set and numbers each object's entrance, so the assembly order is explicit. A locked camera, a ban on bouncing and an end frame matching the reference image keep the motion clean and controlled.
-
-Veo 3.1 · Reference-to-video · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2029019321364824452) · 582 likes on 2026-10-28
-
-[`product-commercial`](pages/en/tags.md#tag-product-commercial) [`assembly`](pages/en/tags.md#tag-assembly) [`skincare`](pages/en/tags.md#tag-skincare) [`locked-camera`](pages/en/tags.md#tag-locked-camera) [`sound-design`](pages/en/tags.md#tag-sound-design)
+[`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) [`text-rendering`](pages/en/tags.md#tag-text-rendering) [`sizzle-reel`](pages/en/tags.md#tag-sizzle-reel) [`motion-graphics`](pages/en/tags.md#tag-motion-graphics)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Use the uploaded image as the exact visual reference for jar design, label, strawberries, raspberries, flowers, leaves, condensation droplets, red gradient background, and reflective surface.
+Beyond just rendering text, Gemini Omni actively syncs your text with the onscreen action.
 
-Camera:
-Locked front-facing camera.
-No zoom.
-No rotation.
-No angle change.
-Studio composition remains centered.
+It draws on Gemini's knowledge to connect language, imagery and meaning to turn complex ideas into compelling visuals. 💬
 
-Style:
-Premium beauty commercial.
-Smooth assembling sequence.
-Ultra realistic.
-Slow motion but not dramatic.
-
-Scene – Start (Empty Setup):
-Start with an empty red gradient background and glossy reflective surface.
-No jar.
-No fruits.
-No flowers.
-No water droplets.
-
-Assembling Sequence:
-
-1. The glass jar base smoothly slides into frame from below and settles perfectly centered.
-2. The lid gently lowers from above and aligns perfectly on the jar.
-3. Condensation droplets subtly appear on the glass surface as if forming naturally.
-4. Raspberries roll in softly from left and right, stopping naturally around the base.
-5. Strawberry halves slide into position at the front.
-6. Whole strawberries gently drop from above into the open jar top and settle naturally.
-7. Small white flowers softly fall into place between the strawberries.
-8. Green leaves slide in behind the jar to frame it.
-9. Final micro water droplets appear on fruits for freshness effect.
-
-All movements smooth and controlled.
-No bouncing.
-No exaggerated motion.
-No dramatic lighting changes.
-
-Lighting:
-Keep original studio lighting.
-Deep red background glow remains consistent.
-Soft reflections on the glossy surface.
-
-Sound (if supported):
-Soft subtle assembling sound design.
-Gentle fruit placement sounds.
-Light glass contact sound.
-No music or very subtle premium ambient tone.
-
-End Frame:
-Fully assembled composition exactly matching the reference image.
-Everything perfectly arranged.
-Hold for 1–2 seconds.
-Ultra clean luxury skincare commercial finish.
+Prompt for this video: Add the word “SMILE” in bold white sans-serif typography across the nose of every inflatable shark, clean modern lettering naturally integrated into the glossy wet plastic surface, slightly curved and distorted by the inflatable shape while remaining crisp and readable during movement through the water slide. The text on the sharks must remain perfectly locked and tracked to each shark’s skin surface at all times, moving consistently with the body and rotating naturally with the sharks during the descent. Avoid flickering, sliding, jittering, duplicated characters, changing letter count, or distorted typography. Any existing text must remain stable, readable, and physically integrated into the shark skin texture, behaving like a natural marking rather than an added overlay. No text should appear or disappear mid-descent.
 ```
 
 </details>
 
-**[All 11 entries](pages/en/video-veo31.md)**
-
-<a id="veo3"></a>
-## Veo 3
-
-<a id="veo-camper-and-bear"></a>
-### Stop-motion camper and a bear with a comeback
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__camper.webm"><img src="previews/veo-camper-and-bear.jpg" width="360"></a>
-
-The whole prompt is a format label plus two lines of dialogue. Veo fills in the scene.
-
-Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`stop-motion`](pages/en/tags.md#tag-stop-motion) [`dialogue`](pages/en/tags.md#tag-dialogue) [`comedy`](pages/en/tags.md#tag-comedy)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Camping (Stop Motion): Camper: "I'm one with nature now!" Bear: "Nature would prefer some personal space."
-```
-
-</details>
-
-<a id="veo-candy-keyboard"></a>
-### Keyboard made of candy
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__keyboard.webm"><img src="previews/veo-candy-keyboard.jpg" width="360"></a>
-
-A separate `Audio:` line tells the model what the scene should sound like.
-
-Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`sfx`](pages/en/tags.md#tag-sfx) [`product`](pages/en/tags.md#tag-product) [`whimsical`](pages/en/tags.md#tag-whimsical)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.
-```
-
-</details>
-
-<a id="veo-moon-dust-flowers"></a>
-### Crystal flowers on a moon-dust plain
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__moon-dust.webm"><img src="previews/veo-moon-dust-flowers.jpg" width="360"></a>
-
-Short world-building prompt. One striking detail (`the only footprints in untouched dust`) does more than a long list.
-
-Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`world-building`](pages/en/tags.md#tag-world-building) [`fantasy`](pages/en/tags.md#tag-fantasy)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A snow-covered plain of iridescent moon-dust under twilight skies. Thirty-foot crystalline flowers bloom, refracting light into slow-moving rainbows. A fur-cloaked figure walks between these colossal blossoms, leaving the only footprints in untouched dust.
-```
-
-</details>
-
-<a id="veo-off-road-rally"></a>
-### Off-road rally through a river crossing
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4"><img src="previews/veo-off-road-rally.jpg" width="360"></a>
-
-A play-by-play for an 8-second action beat. It also asks for unbranded vehicles, which keeps logos out of the frame.
-
-Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`action`](pages/en/tags.md#tag-action) [`handheld`](pages/en/tags.md#tag-handheld) [`sfx`](pages/en/tags.md#tag-sfx)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-The scene explodes with the raw, visceral, and unpredictable energy of a hardcore off-road rally, captured with a dynamic, almost found-footage or embedded sports documentary aesthetic. The camera is often shaky, seemingly mounted inside one of the vehicles or held by a daring spectator very close to the action, frequently splattered with mud or water, catching unintentional lens flares from the natural, often harsh, sunlight filtering through trees or reflecting off wet surfaces. We are immersed in a challenging, untamed natural environment – perhaps a dense, muddy forest trail, a treacherous rocky incline littered with loose scree, or a series_of shallow, fast-flowing river crossings. Several heavily modified, entirely unidentifiable, and unbranded off-road vehicles are engaged in a frenetic, no-holds-barred race. These are not showroom models; they are custom-built, rugged machines – open-wheeled buggies with exposed engines and prominent roll cages, heavily armored pickup trucks with oversized, knobby tires and snorkel exhausts, their original forms and manufacturers completely obscured by extreme modifications, layers of caked-on mud, and a general air of brutal functionality. The dominant sounds are the deafening, guttural roar of powerful, untamed engines, the whine of transmissions, the percussive impact of suspension bottoming out, and the constant spray of mud and water. Within an 8-second sequence, one of the lead vehicles, a low-slung, open-cockpit buggy so caked in thick, brown mud that its original color is a mystery, approaches a wide, shallow river crossing at incredible speed. Without the slightest hesitation, its unseen driver powers straight into the water. The impact sends an enormous, almost solid, opaque sheet of muddy water, mixed with stones and debris from the riverbed, spectacularly high into the air, completely engulfing the small buggy for a terrifying moment, obscuring it from view as if it has been swallowed by the river itself. Right on its tail, a pursuing, equally mud-encrusted, custom-built truck – a hulking, high-clearance beast with a heavily reinforced external roll cage and no discernible badging – arrives at the river crossing just as this massive wall of airborne water reaches its peak. Instead of slowing or attempting to find a clearer path, the truck's driver, with unwavering aggression, plunges directly into and through this opaque, turbulent curtain of muddy spray at full throttle. A split second later, the truck bursts out from the other side of the deluge, water cascading from its roof and chassis, its oversized windshield wipers struggling frantically to clear the torrent of muddy water obscuring the driver's vision. It lands heavily on the far bank, suspension groaning, but still in hot pursuit of the now-reappearing buggy. This thrilling, messy, and visually spectacular sequence of one vehicle creating a massive environmental obstacle and the next immediately conquering it through sheer force, forms the core, immersive, attention-grabbing event of the 8-second sequence. The race continues with undiminished ferocity, the natural terrain itself an active participant in the conflict.
-```
-
-</details>
-
-**[All 5 entries](pages/en/video-veo3.md)**
-
-<a id="sora2"></a>
-## Sora 2
-
-<a id="sora-anime-cryo-awakening-forest"></a>
-### Anime woman wakes from cryosleep into forest
-
-<a href="https://x.com/EccentrismArt/status/1976308338230165942"><img src="previews/sora-anime-cryo-awakening-forest.jpg" width="360"></a>
-
-A style line up front sets the anime look, then timecoded Cut to beats every two seconds pin down each shot. Each beat names one action and one camera position, so the story moves from lab to ladder to forest.
-
-Sora 2 · Text-to-video · Source: [@EccentrismArt on X](https://x.com/EccentrismArt/status/1976308338230165942) · 2,957 likes on 2026-10-27
-
-[`anime`](pages/en/tags.md#tag-anime) [`timecode`](pages/en/tags.md#tag-timecode) [`multi-shot`](pages/en/tags.md#tag-multi-shot) [`sci-fi`](pages/en/tags.md#tag-sci-fi) [`storytelling`](pages/en/tags.md#tag-storytelling)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Big budget anime movie with clean lines and smooth movements
-
-[00:00]
-The woman earring a short hospital gown suddenly wakes up in her cryogenic chamber with cold breath
-
-[00:02]
-Cut to she walks away from the cyrochamber looking around the lab with control consoles on the left
-
-[00:04]
-Cut to backside of the woman walking down a hallway at the end of the hallway is a black ladder mounted to the wall that leads up a vertical pathway with some light emitting down from led lights on the walls
-
-[00:06]
-Cut to Below the woman as she ascends up the black ladder and above her is a manhole cover with four small holes in it that has light shining through them
-
-[00:08]
-cut to the woman climbing out of a manhole in the middle of an overgrown forest
-
-[00:10]
-Cut to the woman amazed looking around the beautiful forest with fireflies and deer running past
-
-[00:12]
-Cut to wide shot of the large beautiful forest with destroyed city with overgrown plants all around it in the far background
-```
-
-</details>
-
-<a id="sora-fridge-monster"></a>
-### A chubby purple monster comes out of the fridge
-
-<a href="https://cdn.openai.com/API/docs/images/sora/sora_monster_original.gif"><img src="previews/sora-fridge-monster.jpg" width="360"></a>
-
-Two short beats: the door opens, the monster comes out.
-
-Sora 2 · Image-to-video · Source: [Sora 2 prompting guide](https://cookbook.openai.com/examples/sora/sora2_prompting_guide)
-
-[`image-to-video`](pages/en/tags.md#tag-image-to-video) [`creature`](pages/en/tags.md#tag-creature) [`whimsical`](pages/en/tags.md#tag-whimsical)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-The fridge door opens. A cute, chubby purple monster comes out of it.
-```
-
-</details>
-
-Inputs: [1](https://cdn.openai.com/API/docs/images/sora/monster_original_720p.jpeg)
-
-<a id="sora-monster-edits"></a>
-### Edit the monster: recolour it, then add a second one
-
-<a href="https://cdn.openai.com/API/docs/images/sora/sora_monster_2monsters.gif"><img src="previews/sora-monster-edits.jpg" width="360"></a>
-
-Each edit is a separate run on the original clip and changes one thing. OpenAI's advice: describe only the tweak.
-
-Sora 2 · Video edit · Source: [Sora 2 prompting guide](https://cookbook.openai.com/examples/sora/sora2_prompting_guide)
-
-[`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) [`object-swap`](pages/en/tags.md#tag-object-swap)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Change the color of the monster to orange
-A second monster comes out right after
-```
-
-</details>
-
-Inputs: [1](https://cdn.openai.com/API/docs/images/sora/sora_monster_original.gif)
-
-<a id="sora-skyline-turn-and-walk"></a>
-### She turns, smiles and walks out of frame
-
-<a href="https://cdn.openai.com/API/docs/images/sora/sora_woman_skyline_video.gif"><img src="previews/sora-skyline-turn-and-walk.jpg" width="360"></a>
-
-With an input image the first frame is set, so the prompt only describes what happens next.
-
-Sora 2 · Image-to-video · Source: [Sora 2 prompting guide](https://cookbook.openai.com/examples/sora/sora2_prompting_guide)
-
-[`image-to-video`](pages/en/tags.md#tag-image-to-video) [`character`](pages/en/tags.md#tag-character)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-She turns around and smiles, then slowly walks out of the frame.
-```
-
-</details>
-
-Inputs: [1](https://cdn.openai.com/API/docs/images/sora/woman_skyline_original_720p.jpeg)
+**[All 35 entries](pages/en/video-vfx.md)**
 
 <a id="image"></a>
 ## Image prompts
@@ -4480,7 +5115,6 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 - [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide): Multi-shot, element binding, multilingual dialogue, accents, text rendering, 15-second takes.
 - [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/): Dialogue in quotes, audio cues, long play-by-play prompts for action.
 - [Ultimate prompting guide for Veo 3.1](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-veo-3-1): Five-part formula, timestamped multi-shot prompts, first-last-frame and ingredients workflows with Nano Banana.
-- [Sora 2 prompting guide](https://cookbook.openai.com/examples/sora/sora2_prompting_guide): Prompt anatomy, director-style briefs, dialogue blocks, edits, characters, extensions.
 
 ### Community skills and libraries
 
@@ -4501,9 +5135,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
-[`portrait`](pages/en/tags.md#tag-portrait) 141 · [`template`](pages/en/tags.md#tag-template) 119 · [`fashion`](pages/en/tags.md#tag-fashion) 100 · [`cinematic`](pages/en/tags.md#tag-cinematic) 97 · [`typography`](pages/en/tags.md#tag-typography) 94 · [`editorial`](pages/en/tags.md#tag-editorial) 83 · [`anime`](pages/en/tags.md#tag-anime) 71 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 63 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 62 · [`infographic`](pages/en/tags.md#tag-infographic) 61 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 58 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 55 · [`dialogue`](pages/en/tags.md#tag-dialogue) 51 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 48 · [`handheld`](pages/en/tags.md#tag-handheld) 45 · [`fantasy`](pages/en/tags.md#tag-fantasy) 44 · [`macro`](pages/en/tags.md#tag-macro) 43 · [`storyboard`](pages/en/tags.md#tag-storyboard) 42 · [`action`](pages/en/tags.md#tag-action) 42 · [`collage`](pages/en/tags.md#tag-collage) 41 · [`miniature`](pages/en/tags.md#tag-miniature) 41 · [`selfie`](pages/en/tags.md#tag-selfie) 40 · [`reference-image`](pages/en/tags.md#tag-reference-image) 38 · [`poster`](pages/en/tags.md#tag-poster) 38 · [`diorama`](pages/en/tags.md#tag-diorama) 36 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 35 · [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) 34 · [`vertical`](pages/en/tags.md#tag-vertical) 33 · [`watercolor`](pages/en/tags.md#tag-watercolor) 33 · [`food`](pages/en/tags.md#tag-food) 32 · [`chibi`](pages/en/tags.md#tag-chibi) 32 · [`pastel`](pages/en/tags.md#tag-pastel) 32 · [`grid`](pages/en/tags.md#tag-grid) 30 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 29 · [`surreal`](pages/en/tags.md#tag-surreal) 27 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 27 · [`film-grain`](pages/en/tags.md#tag-film-grain) 27 · [`identity-lock`](pages/en/tags.md#tag-identity-lock) 27 · [`monochrome`](pages/en/tags.md#tag-monochrome) 26 · [`reference-photo`](pages/en/tags.md#tag-reference-photo) 24 · [`comedy`](pages/en/tags.md#tag-comedy) 23 · [`architecture`](pages/en/tags.md#tag-architecture) 23 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 23 · [`3d-render`](pages/en/tags.md#tag-3d-render) 23 · [`vlog`](pages/en/tags.md#tag-vlog) 22 · [`low-angle`](pages/en/tags.md#tag-low-angle) 22 · [`doodle`](pages/en/tags.md#tag-doodle) 22 · [`split-layout`](pages/en/tags.md#tag-split-layout) 22 · [`candid`](pages/en/tags.md#tag-candid) 22 · [`product-ad`](pages/en/tags.md#tag-product-ad) 21 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 21 · [`travel`](pages/en/tags.md#tag-travel) 21 · [`landscape`](pages/en/tags.md#tag-landscape) 21 · [`face-reference`](pages/en/tags.md#tag-face-reference) 21 · [`fashion-editorial`](pages/en/tags.md#tag-fashion-editorial) 21 · [`isometric`](pages/en/tags.md#tag-isometric) 21 · [`streetwear`](pages/en/tags.md#tag-streetwear) 20 · [`long-take`](pages/en/tags.md#tag-long-take) 19 · [`minimalist`](pages/en/tags.md#tag-minimalist) 19 · [`night`](pages/en/tags.md#tag-night) 18 · [`pixel-art`](pages/en/tags.md#tag-pixel-art) 18 · [`reference-images`](pages/en/tags.md#tag-reference-images) 17 · [`cafe`](pages/en/tags.md#tag-cafe) 17 · [`studio-portrait`](pages/en/tags.md#tag-studio-portrait) 17 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 17 · [`luxury`](pages/en/tags.md#tag-luxury) 16 · [`commercial`](pages/en/tags.md#tag-commercial) 16 · [`black-and-white`](pages/en/tags.md#tag-black-and-white) 16 · [`double-exposure`](pages/en/tags.md#tag-double-exposure) 16 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 15 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 15 · [`landmark`](pages/en/tags.md#tag-landmark) 15 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 15 · [`vintage`](pages/en/tags.md#tag-vintage) 15 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 15 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 14 · [`sports`](pages/en/tags.md#tag-sports) 14 · [`rain`](pages/en/tags.md#tag-rain) 14 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 14 · [`film-look`](pages/en/tags.md#tag-film-look) 14 · [`pixar-style`](pages/en/tags.md#tag-pixar-style) 14 · [`character`](pages/en/tags.md#tag-character) 14 · [`food-photography`](pages/en/tags.md#tag-food-photography) 14 · [`oil-painting`](pages/en/tags.md#tag-oil-painting) 14 · [`storybook`](pages/en/tags.md#tag-storybook) 14 · [`negative-space`](pages/en/tags.md#tag-negative-space) 14 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 13 · [`character-reference`](pages/en/tags.md#tag-character-reference) 13 · [`dragon`](pages/en/tags.md#tag-dragon) 13 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 13 · [`flat-vector`](pages/en/tags.md#tag-flat-vector) 13 · [`japanese`](pages/en/tags.md#tag-japanese) 13 · [`pov`](pages/en/tags.md#tag-pov) 13 · [`studio`](pages/en/tags.md#tag-studio) 13 · [`advertising`](pages/en/tags.md#tag-advertising) 13 · [`packaging`](pages/en/tags.md#tag-packaging) 13 · [`motion-blur`](pages/en/tags.md#tag-motion-blur) 13 · [`bokeh`](pages/en/tags.md#tag-bokeh) 12 · [`sound-design`](pages/en/tags.md#tag-sound-design) 12 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 12 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 12 · [`city`](pages/en/tags.md#tag-city) 12 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 12 · [`couple`](pages/en/tags.md#tag-couple) 12 · [`layout`](pages/en/tags.md#tag-layout) 12 · [`sketchbook`](pages/en/tags.md#tag-sketchbook) 12 · [`chinese-text`](pages/en/tags.md#tag-chinese-text) 12 · [`product-photography`](pages/en/tags.md#tag-product-photography) 12 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 11 · [`japanese-text`](pages/en/tags.md#tag-japanese-text) 11 · [`korean`](pages/en/tags.md#tag-korean) 11 · [`neon`](pages/en/tags.md#tag-neon) 11 · [`cat`](pages/en/tags.md#tag-cat) 11 · [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) 11 · [`grid-layout`](pages/en/tags.md#tag-grid-layout) 11 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 11 · [`campaign`](pages/en/tags.md#tag-campaign) 11 · [`sunset`](pages/en/tags.md#tag-sunset) 11 · [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) 11 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 10 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 10 · [`ugc`](pages/en/tags.md#tag-ugc) 10 · [`animals`](pages/en/tags.md#tag-animals) 10 · [`street-photography`](pages/en/tags.md#tag-street-photography) 10 · [`close-up`](pages/en/tags.md#tag-close-up) 10 · [`line-art`](pages/en/tags.md#tag-line-art) 10 · [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) 10 · [`flash-photography`](pages/en/tags.md#tag-flash-photography) 10 · [`85mm`](pages/en/tags.md#tag-85mm) 10 · [`identity-reference`](pages/en/tags.md#tag-identity-reference) 10 · [`documentary`](pages/en/tags.md#tag-documentary) 9 · [`dance`](pages/en/tags.md#tag-dance) 9 · [`game-ui`](pages/en/tags.md#tag-game-ui) 9 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 9 · [`pencil-sketch`](pages/en/tags.md#tag-pencil-sketch) 9 · [`consistency`](pages/en/tags.md#tag-consistency) 9 · [`beverage`](pages/en/tags.md#tag-beverage) 9 · [`logo`](pages/en/tags.md#tag-logo) 9 · [`hand-drawn`](pages/en/tags.md#tag-hand-drawn) 9 · [`turnaround`](pages/en/tags.md#tag-turnaround) 9 · [`reference-face`](pages/en/tags.md#tag-reference-face) 9 · [`product-poster`](pages/en/tags.md#tag-product-poster) 9 · [`kawaii`](pages/en/tags.md#tag-kawaii) 9 · [`beauty`](pages/en/tags.md#tag-beauty) 9 · [`impasto`](pages/en/tags.md#tag-impasto) 9 · [`fisheye`](pages/en/tags.md#tag-fisheye) 9 · [`exploded-view`](pages/en/tags.md#tag-exploded-view) 9 · [`timeline`](pages/en/tags.md#tag-timeline) 8 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 8 · [`creature`](pages/en/tags.md#tag-creature) 8 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 8 · [`halftone`](pages/en/tags.md#tag-halftone) 8 · [`transformation`](pages/en/tags.md#tag-transformation) 8 · [`skincare`](pages/en/tags.md#tag-skincare) 8 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 8 · [`text-rendering`](pages/en/tags.md#tag-text-rendering) 8 · [`silhouette`](pages/en/tags.md#tag-silhouette) 8 · [`y2k`](pages/en/tags.md#tag-y2k) 8 · [`hud`](pages/en/tags.md#tag-hud) 8 · [`home-video`](pages/en/tags.md#tag-home-video) 8 · [`horror`](pages/en/tags.md#tag-horror) 8 · [`realism`](pages/en/tags.md#tag-realism) 8 · [`product`](pages/en/tags.md#tag-product) 8 · [`cityscape`](pages/en/tags.md#tag-cityscape) 8 · [`photorealism`](pages/en/tags.md#tag-photorealism) 8 · [`sticker`](pages/en/tags.md#tag-sticker) 8 · [`blueprint`](pages/en/tags.md#tag-blueprint) 8 · [`full-body`](pages/en/tags.md#tag-full-body) 8 · [`menswear`](pages/en/tags.md#tag-menswear) 8 · [`screen-print`](pages/en/tags.md#tag-screen-print) 8 · [`sketch`](pages/en/tags.md#tag-sketch) 8 · [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) 8 · [`natural-light`](pages/en/tags.md#tag-natural-light) 8 · [`cinematic-lighting`](pages/en/tags.md#tag-cinematic-lighting) 8 · [`music-video`](pages/en/tags.md#tag-music-video) 7 · [`automotive`](pages/en/tags.md#tag-automotive) 7 · [`perfume`](pages/en/tags.md#tag-perfume) 7 · [`vfx`](pages/en/tags.md#tag-vfx) 7 · [`product-shot`](pages/en/tags.md#tag-product-shot) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) 7 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 7 · [`video-edit`](pages/en/tags.md#tag-video-edit) 7 · [`animal`](pages/en/tags.md#tag-animal) 7 · [`street`](pages/en/tags.md#tag-street) 7 · [`beach`](pages/en/tags.md#tag-beach) 7 · [`fitness`](pages/en/tags.md#tag-fitness) 7 · [`nature`](pages/en/tags.md#tag-nature) 7 · [`cute`](pages/en/tags.md#tag-cute) 7 · [`illustration`](pages/en/tags.md#tag-illustration) 7 · [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) 7 · [`social-media`](pages/en/tags.md#tag-social-media) 7 · [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) 7 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 7 · [`chinese-typography`](pages/en/tags.md#tag-chinese-typography) 7 · [`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) 7 · [`street-fashion`](pages/en/tags.md#tag-street-fashion) 7 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 6 · [`storytelling`](pages/en/tags.md#tag-storytelling) 6 · [`one-take`](pages/en/tags.md#tag-one-take) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 6 · [`realistic`](pages/en/tags.md#tag-realistic) 6 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 6 · [`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) 6 · [`wide-angle`](pages/en/tags.md#tag-wide-angle) 6 · [`object-swap`](pages/en/tags.md#tag-object-swap) 6 · [`music`](pages/en/tags.md#tag-music) 6 · [`embroidery`](pages/en/tags.md#tag-embroidery) 6 · [`animation`](pages/en/tags.md#tag-animation) 6 · [`shot-list`](pages/en/tags.md#tag-shot-list) 6 · [`snow`](pages/en/tags.md#tag-snow) 6 · [`superhero`](pages/en/tags.md#tag-superhero) 6 · [`coastal`](pages/en/tags.md#tag-coastal) 6 · [`pet`](pages/en/tags.md#tag-pet) 6 · [`interior`](pages/en/tags.md#tag-interior) 6 · [`backlight`](pages/en/tags.md#tag-backlight) 6 · [`japanese-typography`](pages/en/tags.md#tag-japanese-typography) 6 · [`paper-craft`](pages/en/tags.md#tag-paper-craft) 6 · [`screenshot`](pages/en/tags.md#tag-screenshot) 6 · [`colored-pencil`](pages/en/tags.md#tag-colored-pencil) 6 · [`street-style`](pages/en/tags.md#tag-street-style) 6 · [`recipe`](pages/en/tags.md#tag-recipe) 6 · [`doodles`](pages/en/tags.md#tag-doodles) 6 · [`brand-identity`](pages/en/tags.md#tag-brand-identity) 6 · [`concept-art`](pages/en/tags.md#tag-concept-art) 6 · [`chiaroscuro`](pages/en/tags.md#tag-chiaroscuro) 6 · [`mascot`](pages/en/tags.md#tag-mascot) 6 · [`expressions`](pages/en/tags.md#tag-expressions) 6 · [`map`](pages/en/tags.md#tag-map) 6 · [`reflection`](pages/en/tags.md#tag-reflection) 6 · [`product-render`](pages/en/tags.md#tag-product-render) 6 · [`mockup`](pages/en/tags.md#tag-mockup) 6 · [`golden-light`](pages/en/tags.md#tag-golden-light) 6 · [`limited-palette`](pages/en/tags.md#tag-limited-palette) 6 · [`3d`](pages/en/tags.md#tag-3d) 6 · [`papercraft`](pages/en/tags.md#tag-papercraft) 6 · [`labels`](pages/en/tags.md#tag-labels) 6 · [`historical`](pages/en/tags.md#tag-historical) 5 · [`education`](pages/en/tags.md#tag-education) 5 · [`first-person`](pages/en/tags.md#tag-first-person) 5 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 5 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 5 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`wildlife`](pages/en/tags.md#tag-wildlife) 5 · [`nostalgic`](pages/en/tags.md#tag-nostalgic) 5 · [`handheld-camera`](pages/en/tags.md#tag-handheld-camera) 5 · [`seaside`](pages/en/tags.md#tag-seaside) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`multilingual`](pages/en/tags.md#tag-multilingual) 5 · [`camera-move`](pages/en/tags.md#tag-camera-move) 5 · [`stop-motion`](pages/en/tags.md#tag-stop-motion) 5 · [`chase`](pages/en/tags.md#tag-chase) 5 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 5 · [`autumn`](pages/en/tags.md#tag-autumn) 5 · [`photoreal`](pages/en/tags.md#tag-photoreal) 5 · [`underwater`](pages/en/tags.md#tag-underwater) 5 · [`negative-prompt`](pages/en/tags.md#tag-negative-prompt) 5 · [`painterly`](pages/en/tags.md#tag-painterly) 5 · [`lookbook`](pages/en/tags.md#tag-lookbook) 5 · [`football`](pages/en/tags.md#tag-football) 5 · [`street-portrait`](pages/en/tags.md#tag-street-portrait) 5 · [`reference-identity`](pages/en/tags.md#tag-reference-identity) 5 · [`before-after`](pages/en/tags.md#tag-before-after) 5 · [`pose-sheet`](pages/en/tags.md#tag-pose-sheet) 5 · [`pop-art`](pages/en/tags.md#tag-pop-art) 5 · [`street-art`](pages/en/tags.md#tag-street-art) 5 · [`minimal`](pages/en/tags.md#tag-minimal) 5 · [`birthday`](pages/en/tags.md#tag-birthday) 5 · [`botanical`](pages/en/tags.md#tag-botanical) 5 · [`cherry-blossom`](pages/en/tags.md#tag-cherry-blossom) 5 · [`floral`](pages/en/tags.md#tag-floral) 5 · [`identity-preserve`](pages/en/tags.md#tag-identity-preserve) 5 · [`crayon`](pages/en/tags.md#tag-crayon) 5 · [`travel-journal`](pages/en/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/en/tags.md#tag-ink-sketch) 5 · [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) 5 · [`geometric`](pages/en/tags.md#tag-geometric) 5 · [`fan-art`](pages/en/tags.md#tag-fan-art) 5 · [`risograph`](pages/en/tags.md#tag-risograph) 5 · [`ink-wash`](pages/en/tags.md#tag-ink-wash) 5 · [`graffiti`](pages/en/tags.md#tag-graffiti) 5 · [`paris`](pages/en/tags.md#tag-paris) 5 · [`celebrity`](pages/en/tags.md#tag-celebrity) 5 · [`sunglasses`](pages/en/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`product-reference`](pages/en/tags.md#tag-product-reference) 4 · [`montage`](pages/en/tags.md#tag-montage) 4 · [`samurai`](pages/en/tags.md#tag-samurai) 4 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 4 · [`sitcom`](pages/en/tags.md#tag-sitcom) 4 · [`educational`](pages/en/tags.md#tag-educational) 4 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 4 · [`single-take`](pages/en/tags.md#tag-single-take) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`single-shot`](pages/en/tags.md#tag-single-shot) 4 · [`physics`](pages/en/tags.md#tag-physics) 4 · [`voiceover`](pages/en/tags.md#tag-voiceover) 4 · [`keyframes`](pages/en/tags.md#tag-keyframes) 4 · [`kids-education`](pages/en/tags.md#tag-kids-education) 4 · [`claymation`](pages/en/tags.md#tag-claymation) 4 · [`asmr`](pages/en/tags.md#tag-asmr) 4 · [`live-action`](pages/en/tags.md#tag-live-action) 4 · [`family`](pages/en/tags.md#tag-family) 4 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 4 · [`urban`](pages/en/tags.md#tag-urban) 4 · [`romance`](pages/en/tags.md#tag-romance) 4 · [`desert`](pages/en/tags.md#tag-desert) 4 · [`scale-contrast`](pages/en/tags.md#tag-scale-contrast) 4 · [`slice-of-life`](pages/en/tags.md#tag-slice-of-life) 4 · [`restaurant`](pages/en/tags.md#tag-restaurant) 4 · [`thriller`](pages/en/tags.md#tag-thriller) 4 · [`crowd`](pages/en/tags.md#tag-crowd) 4 · [`top-down`](pages/en/tags.md#tag-top-down) 4 · [`scale`](pages/en/tags.md#tag-scale) 4 · [`world-building`](pages/en/tags.md#tag-world-building) 4 · [`worldbuilding`](pages/en/tags.md#tag-worldbuilding) 4 · [`character-design`](pages/en/tags.md#tag-character-design) 4 · [`film-photography`](pages/en/tags.md#tag-film-photography) 4 · [`glassmorphism`](pages/en/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/en/tags.md#tag-self-portrait) 4 · [`comparison`](pages/en/tags.md#tag-comparison) 4 · [`japan`](pages/en/tags.md#tag-japan) 4 · [`parody`](pages/en/tags.md#tag-parody) 4 · [`ms-paint`](pages/en/tags.md#tag-ms-paint) 4 · [`vector`](pages/en/tags.md#tag-vector) 4 · [`side-profile`](pages/en/tags.md#tag-side-profile) 4 · [`bilingual`](pages/en/tags.md#tag-bilingual) 4 · [`mediterranean`](pages/en/tags.md#tag-mediterranean) 4 · [`fashion-portrait`](pages/en/tags.md#tag-fashion-portrait) 4 · [`butterfly`](pages/en/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/en/tags.md#tag-candid-portrait) 4 · [`diagram`](pages/en/tags.md#tag-diagram) 4 · [`product-photo`](pages/en/tags.md#tag-product-photo) 4 · [`game-asset`](pages/en/tags.md#tag-game-asset) 4 · [`billboard`](pages/en/tags.md#tag-billboard) 4 · [`low-light`](pages/en/tags.md#tag-low-light) 4 · [`landmarks`](pages/en/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/en/tags.md#tag-direct-flash) 4 · [`photobooth`](pages/en/tags.md#tag-photobooth) 4 · [`contact-sheet`](pages/en/tags.md#tag-contact-sheet) 4 · [`satire`](pages/en/tags.md#tag-satire) 4 · [`cozy`](pages/en/tags.md#tag-cozy) 4 · [`caricature`](pages/en/tags.md#tag-caricature) 4 · [`sepia`](pages/en/tags.md#tag-sepia) 4 · [`zodiac`](pages/en/tags.md#tag-zodiac) 4 · [`movie-poster`](pages/en/tags.md#tag-movie-poster) 4 · [`manga`](pages/en/tags.md#tag-manga) 4 · [`encyclopedia`](pages/en/tags.md#tag-encyclopedia) 4 · [`photo-dump`](pages/en/tags.md#tag-photo-dump) 4 · [`summer`](pages/en/tags.md#tag-summer) 4 · [`flat-color`](pages/en/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/en/tags.md#tag-miniature-world) 4 · [`triptych`](pages/en/tags.md#tag-triptych) 4 · [`children-illustration`](pages/en/tags.md#tag-children-illustration) 4 · [`splash`](pages/en/tags.md#tag-splash) 4 · [`color-palette`](pages/en/tags.md#tag-color-palette) 4 · [`white-background`](pages/en/tags.md#tag-white-background) 4 · [`retro`](pages/en/tags.md#tag-retro) 4 · [`grid-collage`](pages/en/tags.md#tag-grid-collage) 4 · [`bedroom`](pages/en/tags.md#tag-bedroom) 4 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 4 · [`photo-restoration`](pages/en/tags.md#tag-photo-restoration) 4 · [`tokyo`](pages/en/tags.md#tag-tokyo) 4 · [`street-photo`](pages/en/tags.md#tag-street-photo) 4 · [`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) 4 · [`liquid-splash`](pages/en/tags.md#tag-liquid-splash) 4 · [`rooftop`](pages/en/tags.md#tag-rooftop) 4 · [`vintage-film`](pages/en/tags.md#tag-vintage-film) 3 · [`kids`](pages/en/tags.md#tag-kids) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`fps`](pages/en/tags.md#tag-fps) 3 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 3 · [`night-scene`](pages/en/tags.md#tag-night-scene) 3 · [`forest`](pages/en/tags.md#tag-forest) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 3 · [`3d-typography`](pages/en/tags.md#tag-3d-typography) 3 · [`timestamped-shots`](pages/en/tags.md#tag-timestamped-shots) 3 · [`morph-transition`](pages/en/tags.md#tag-morph-transition) 3 · [`livestream`](pages/en/tags.md#tag-livestream) 3 · [`timelapse`](pages/en/tags.md#tag-timelapse) 3 · [`match-cut`](pages/en/tags.md#tag-match-cut) 3 · [`camcorder`](pages/en/tags.md#tag-camcorder) 3 · [`aerial`](pages/en/tags.md#tag-aerial) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`image-to-video`](pages/en/tags.md#tag-image-to-video) 3 · [`push-in`](pages/en/tags.md#tag-push-in) 3 · [`felt`](pages/en/tags.md#tag-felt) 3 · [`painting`](pages/en/tags.md#tag-painting) 3 · [`classroom`](pages/en/tags.md#tag-classroom) 3 · [`camera-angle`](pages/en/tags.md#tag-camera-angle) 3 · [`pop-out`](pages/en/tags.md#tag-pop-out) 3 · [`reference-character`](pages/en/tags.md#tag-reference-character) 3 · [`timed-scenes`](pages/en/tags.md#tag-timed-scenes) 3 · [`multi-angle`](pages/en/tags.md#tag-multi-angle) 3 · [`short-film`](pages/en/tags.md#tag-short-film) 3 · [`mecha`](pages/en/tags.md#tag-mecha) 3 · [`skateboard`](pages/en/tags.md#tag-skateboard) 3 · [`subtitles`](pages/en/tags.md#tag-subtitles) 3 · [`gym`](pages/en/tags.md#tag-gym) 3 · [`morning-routine`](pages/en/tags.md#tag-morning-routine) 3 · [`subway`](pages/en/tags.md#tag-subway) 3 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 3 · [`noir`](pages/en/tags.md#tag-noir) 3 · [`motorcycle`](pages/en/tags.md#tag-motorcycle) 3 · [`whimsical`](pages/en/tags.md#tag-whimsical) 3 · [`fashion-ad`](pages/en/tags.md#tag-fashion-ad) 3 · [`skin-texture`](pages/en/tags.md#tag-skin-texture) 3 · [`amigurumi`](pages/en/tags.md#tag-amigurumi) 3 · [`fashion-illustration`](pages/en/tags.md#tag-fashion-illustration) 3 · [`magazine-cover`](pages/en/tags.md#tag-magazine-cover) 3 · [`key-visual`](pages/en/tags.md#tag-key-visual) 3 · [`style-conversion`](pages/en/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/en/tags.md#tag-e-commerce) 3 · [`graphite`](pages/en/tags.md#tag-graphite) 3 · [`landing-page`](pages/en/tags.md#tag-landing-page) 3 · [`city-map`](pages/en/tags.md#tag-city-map) 3 · [`face-consistency`](pages/en/tags.md#tag-face-consistency) 3 · [`cutout`](pages/en/tags.md#tag-cutout) 3 · [`design-system`](pages/en/tags.md#tag-design-system) 3 · [`light-mode`](pages/en/tags.md#tag-light-mode) 3 · [`beauty-portrait`](pages/en/tags.md#tag-beauty-portrait) 3 · [`night-street`](pages/en/tags.md#tag-night-street) 3 · [`brutalist`](pages/en/tags.md#tag-brutalist) 3 · [`camera-roll`](pages/en/tags.md#tag-camera-roll) 3 · [`humor`](pages/en/tags.md#tag-humor) 3 · [`candlelight`](pages/en/tags.md#tag-candlelight) 3 · [`3d-caricature`](pages/en/tags.md#tag-3d-caricature) 3 · [`food-ad`](pages/en/tags.md#tag-food-ad) 3 · [`calligraphy`](pages/en/tags.md#tag-calligraphy) 3 · [`saas`](pages/en/tags.md#tag-saas) 3 · [`clay`](pages/en/tags.md#tag-clay) 3 · [`comic`](pages/en/tags.md#tag-comic) 3 · [`comic-book`](pages/en/tags.md#tag-comic-book) 3 · [`profile`](pages/en/tags.md#tag-profile) 3 · [`16-9`](pages/en/tags.md#tag-16-9) 3 · [`product-design`](pages/en/tags.md#tag-product-design) 3 · [`expression-grid`](pages/en/tags.md#tag-expression-grid) 3 · [`low-key`](pages/en/tags.md#tag-low-key) 3 · [`chrome`](pages/en/tags.md#tag-chrome) 3 · [`art-studio`](pages/en/tags.md#tag-art-studio) 3 · [`mural`](pages/en/tags.md#tag-mural) 3 · [`photo-collage`](pages/en/tags.md#tag-photo-collage) 3 · [`engineering`](pages/en/tags.md#tag-engineering) 3 · [`9-16`](pages/en/tags.md#tag-9-16) 3 · [`dramatic-lighting`](pages/en/tags.md#tag-dramatic-lighting) 3 · [`strawberry`](pages/en/tags.md#tag-strawberry) 3 · [`portrait-collage`](pages/en/tags.md#tag-portrait-collage) 3 · [`watch`](pages/en/tags.md#tag-watch) 3 · [`campaign-poster`](pages/en/tags.md#tag-campaign-poster) 3 · [`surreal-scale`](pages/en/tags.md#tag-surreal-scale) 3 · [`panoramic`](pages/en/tags.md#tag-panoramic) 3 · [`ad-poster`](pages/en/tags.md#tag-ad-poster) 3 · [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) 3 · [`group-portrait`](pages/en/tags.md#tag-group-portrait) 3 · [`mid-century`](pages/en/tags.md#tag-mid-century) 3 · [`disintegration`](pages/en/tags.md#tag-disintegration) 3 · [`polaroid`](pages/en/tags.md#tag-polaroid) 3 · [`dessert`](pages/en/tags.md#tag-dessert) 3 · [`palette-knife`](pages/en/tags.md#tag-palette-knife) 3 · [`paper-cut`](pages/en/tags.md#tag-paper-cut) 3 · [`text-layout`](pages/en/tags.md#tag-text-layout) 3 · [`textile`](pages/en/tags.md#tag-textile) 3 · [`ink-doodle`](pages/en/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/en/tags.md#tag-local-edit) 3 · [`brand-poster`](pages/en/tags.md#tag-brand-poster) 3 · [`upscale`](pages/en/tags.md#tag-upscale) 3 · [`color-analysis`](pages/en/tags.md#tag-color-analysis) 3 · [`magazine`](pages/en/tags.md#tag-magazine) 3 · [`paper-collage`](pages/en/tags.md#tag-paper-collage) 3 · [`advertisement`](pages/en/tags.md#tag-advertisement) 3 · [`paper-cutout`](pages/en/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/en/tags.md#tag-memory-card) 3 · [`hard-light`](pages/en/tags.md#tag-hard-light) 3 · [`naive-art`](pages/en/tags.md#tag-naive-art) 3 · [`ui-design`](pages/en/tags.md#tag-ui-design) 3 · [`chinese-style`](pages/en/tags.md#tag-chinese-style) 3 · [`product-mockup`](pages/en/tags.md#tag-product-mockup) 3 · [`macro-photography`](pages/en/tags.md#tag-macro-photography) 3 · [`phone-photo`](pages/en/tags.md#tag-phone-photo) 3 · [`iphone-style`](pages/en/tags.md#tag-iphone-style) 3 · [`photo-reference`](pages/en/tags.md#tag-photo-reference) 3 · [`split-composition`](pages/en/tags.md#tag-split-composition) 3 · [`warm-tones`](pages/en/tags.md#tag-warm-tones) 3 · [`dark-background`](pages/en/tags.md#tag-dark-background) 3 · [`logo-design`](pages/en/tags.md#tag-logo-design) 3 · [`xiaohongshu`](pages/en/tags.md#tag-xiaohongshu) 3 · [`winter`](pages/en/tags.md#tag-winter) 3 · [`brand`](pages/en/tags.md#tag-brand) 3 · [`parchment`](pages/en/tags.md#tag-parchment) 3 · [`cinematic-portrait`](pages/en/tags.md#tag-cinematic-portrait) 3 · [`chocolate`](pages/en/tags.md#tag-chocolate) 3 · [`soft-lighting`](pages/en/tags.md#tag-soft-lighting) 3
+[`portrait`](pages/en/tags.md#tag-portrait) 141 · [`template`](pages/en/tags.md#tag-template) 119 · [`fashion`](pages/en/tags.md#tag-fashion) 100 · [`cinematic`](pages/en/tags.md#tag-cinematic) 97 · [`typography`](pages/en/tags.md#tag-typography) 94 · [`editorial`](pages/en/tags.md#tag-editorial) 83 · [`anime`](pages/en/tags.md#tag-anime) 70 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 63 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 61 · [`infographic`](pages/en/tags.md#tag-infographic) 61 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 58 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 55 · [`dialogue`](pages/en/tags.md#tag-dialogue) 51 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 48 · [`handheld`](pages/en/tags.md#tag-handheld) 45 · [`fantasy`](pages/en/tags.md#tag-fantasy) 44 · [`macro`](pages/en/tags.md#tag-macro) 43 · [`storyboard`](pages/en/tags.md#tag-storyboard) 42 · [`action`](pages/en/tags.md#tag-action) 42 · [`collage`](pages/en/tags.md#tag-collage) 41 · [`miniature`](pages/en/tags.md#tag-miniature) 41 · [`selfie`](pages/en/tags.md#tag-selfie) 40 · [`reference-image`](pages/en/tags.md#tag-reference-image) 38 · [`poster`](pages/en/tags.md#tag-poster) 38 · [`diorama`](pages/en/tags.md#tag-diorama) 36 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 35 · [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) 34 · [`vertical`](pages/en/tags.md#tag-vertical) 33 · [`watercolor`](pages/en/tags.md#tag-watercolor) 33 · [`food`](pages/en/tags.md#tag-food) 32 · [`chibi`](pages/en/tags.md#tag-chibi) 32 · [`pastel`](pages/en/tags.md#tag-pastel) 32 · [`grid`](pages/en/tags.md#tag-grid) 30 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 29 · [`surreal`](pages/en/tags.md#tag-surreal) 27 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 27 · [`film-grain`](pages/en/tags.md#tag-film-grain) 27 · [`identity-lock`](pages/en/tags.md#tag-identity-lock) 27 · [`monochrome`](pages/en/tags.md#tag-monochrome) 26 · [`reference-photo`](pages/en/tags.md#tag-reference-photo) 24 · [`comedy`](pages/en/tags.md#tag-comedy) 23 · [`architecture`](pages/en/tags.md#tag-architecture) 23 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 23 · [`3d-render`](pages/en/tags.md#tag-3d-render) 23 · [`vlog`](pages/en/tags.md#tag-vlog) 22 · [`low-angle`](pages/en/tags.md#tag-low-angle) 22 · [`doodle`](pages/en/tags.md#tag-doodle) 22 · [`split-layout`](pages/en/tags.md#tag-split-layout) 22 · [`candid`](pages/en/tags.md#tag-candid) 22 · [`product-ad`](pages/en/tags.md#tag-product-ad) 21 · [`travel`](pages/en/tags.md#tag-travel) 21 · [`landscape`](pages/en/tags.md#tag-landscape) 21 · [`face-reference`](pages/en/tags.md#tag-face-reference) 21 · [`fashion-editorial`](pages/en/tags.md#tag-fashion-editorial) 21 · [`isometric`](pages/en/tags.md#tag-isometric) 21 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 20 · [`streetwear`](pages/en/tags.md#tag-streetwear) 20 · [`long-take`](pages/en/tags.md#tag-long-take) 19 · [`minimalist`](pages/en/tags.md#tag-minimalist) 19 · [`night`](pages/en/tags.md#tag-night) 18 · [`pixel-art`](pages/en/tags.md#tag-pixel-art) 18 · [`reference-images`](pages/en/tags.md#tag-reference-images) 17 · [`cafe`](pages/en/tags.md#tag-cafe) 17 · [`studio-portrait`](pages/en/tags.md#tag-studio-portrait) 17 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 17 · [`luxury`](pages/en/tags.md#tag-luxury) 16 · [`commercial`](pages/en/tags.md#tag-commercial) 16 · [`black-and-white`](pages/en/tags.md#tag-black-and-white) 16 · [`double-exposure`](pages/en/tags.md#tag-double-exposure) 16 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 15 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 15 · [`landmark`](pages/en/tags.md#tag-landmark) 15 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 15 · [`vintage`](pages/en/tags.md#tag-vintage) 15 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 15 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 14 · [`sports`](pages/en/tags.md#tag-sports) 14 · [`rain`](pages/en/tags.md#tag-rain) 14 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 14 · [`film-look`](pages/en/tags.md#tag-film-look) 14 · [`pixar-style`](pages/en/tags.md#tag-pixar-style) 14 · [`food-photography`](pages/en/tags.md#tag-food-photography) 14 · [`oil-painting`](pages/en/tags.md#tag-oil-painting) 14 · [`storybook`](pages/en/tags.md#tag-storybook) 14 · [`negative-space`](pages/en/tags.md#tag-negative-space) 14 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 13 · [`character-reference`](pages/en/tags.md#tag-character-reference) 13 · [`dragon`](pages/en/tags.md#tag-dragon) 13 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 13 · [`flat-vector`](pages/en/tags.md#tag-flat-vector) 13 · [`japanese`](pages/en/tags.md#tag-japanese) 13 · [`pov`](pages/en/tags.md#tag-pov) 13 · [`studio`](pages/en/tags.md#tag-studio) 13 · [`advertising`](pages/en/tags.md#tag-advertising) 13 · [`character`](pages/en/tags.md#tag-character) 13 · [`packaging`](pages/en/tags.md#tag-packaging) 13 · [`motion-blur`](pages/en/tags.md#tag-motion-blur) 13 · [`bokeh`](pages/en/tags.md#tag-bokeh) 12 · [`sound-design`](pages/en/tags.md#tag-sound-design) 12 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 12 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 12 · [`city`](pages/en/tags.md#tag-city) 12 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 12 · [`couple`](pages/en/tags.md#tag-couple) 12 · [`layout`](pages/en/tags.md#tag-layout) 12 · [`sketchbook`](pages/en/tags.md#tag-sketchbook) 12 · [`chinese-text`](pages/en/tags.md#tag-chinese-text) 12 · [`product-photography`](pages/en/tags.md#tag-product-photography) 12 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 11 · [`japanese-text`](pages/en/tags.md#tag-japanese-text) 11 · [`korean`](pages/en/tags.md#tag-korean) 11 · [`neon`](pages/en/tags.md#tag-neon) 11 · [`cat`](pages/en/tags.md#tag-cat) 11 · [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) 11 · [`grid-layout`](pages/en/tags.md#tag-grid-layout) 11 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 11 · [`campaign`](pages/en/tags.md#tag-campaign) 11 · [`sunset`](pages/en/tags.md#tag-sunset) 11 · [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) 11 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 10 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 10 · [`ugc`](pages/en/tags.md#tag-ugc) 10 · [`animals`](pages/en/tags.md#tag-animals) 10 · [`street-photography`](pages/en/tags.md#tag-street-photography) 10 · [`close-up`](pages/en/tags.md#tag-close-up) 10 · [`line-art`](pages/en/tags.md#tag-line-art) 10 · [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) 10 · [`flash-photography`](pages/en/tags.md#tag-flash-photography) 10 · [`85mm`](pages/en/tags.md#tag-85mm) 10 · [`identity-reference`](pages/en/tags.md#tag-identity-reference) 10 · [`documentary`](pages/en/tags.md#tag-documentary) 9 · [`dance`](pages/en/tags.md#tag-dance) 9 · [`game-ui`](pages/en/tags.md#tag-game-ui) 9 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 9 · [`pencil-sketch`](pages/en/tags.md#tag-pencil-sketch) 9 · [`consistency`](pages/en/tags.md#tag-consistency) 9 · [`beverage`](pages/en/tags.md#tag-beverage) 9 · [`logo`](pages/en/tags.md#tag-logo) 9 · [`hand-drawn`](pages/en/tags.md#tag-hand-drawn) 9 · [`turnaround`](pages/en/tags.md#tag-turnaround) 9 · [`reference-face`](pages/en/tags.md#tag-reference-face) 9 · [`product-poster`](pages/en/tags.md#tag-product-poster) 9 · [`kawaii`](pages/en/tags.md#tag-kawaii) 9 · [`beauty`](pages/en/tags.md#tag-beauty) 9 · [`impasto`](pages/en/tags.md#tag-impasto) 9 · [`fisheye`](pages/en/tags.md#tag-fisheye) 9 · [`exploded-view`](pages/en/tags.md#tag-exploded-view) 9 · [`timeline`](pages/en/tags.md#tag-timeline) 8 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 8 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 8 · [`halftone`](pages/en/tags.md#tag-halftone) 8 · [`transformation`](pages/en/tags.md#tag-transformation) 8 · [`skincare`](pages/en/tags.md#tag-skincare) 8 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 8 · [`text-rendering`](pages/en/tags.md#tag-text-rendering) 8 · [`silhouette`](pages/en/tags.md#tag-silhouette) 8 · [`y2k`](pages/en/tags.md#tag-y2k) 8 · [`hud`](pages/en/tags.md#tag-hud) 8 · [`home-video`](pages/en/tags.md#tag-home-video) 8 · [`horror`](pages/en/tags.md#tag-horror) 8 · [`realism`](pages/en/tags.md#tag-realism) 8 · [`product`](pages/en/tags.md#tag-product) 8 · [`cityscape`](pages/en/tags.md#tag-cityscape) 8 · [`photorealism`](pages/en/tags.md#tag-photorealism) 8 · [`sticker`](pages/en/tags.md#tag-sticker) 8 · [`blueprint`](pages/en/tags.md#tag-blueprint) 8 · [`full-body`](pages/en/tags.md#tag-full-body) 8 · [`menswear`](pages/en/tags.md#tag-menswear) 8 · [`screen-print`](pages/en/tags.md#tag-screen-print) 8 · [`sketch`](pages/en/tags.md#tag-sketch) 8 · [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) 8 · [`natural-light`](pages/en/tags.md#tag-natural-light) 8 · [`cinematic-lighting`](pages/en/tags.md#tag-cinematic-lighting) 8 · [`music-video`](pages/en/tags.md#tag-music-video) 7 · [`automotive`](pages/en/tags.md#tag-automotive) 7 · [`creature`](pages/en/tags.md#tag-creature) 7 · [`perfume`](pages/en/tags.md#tag-perfume) 7 · [`vfx`](pages/en/tags.md#tag-vfx) 7 · [`product-shot`](pages/en/tags.md#tag-product-shot) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) 7 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 7 · [`video-edit`](pages/en/tags.md#tag-video-edit) 7 · [`animal`](pages/en/tags.md#tag-animal) 7 · [`street`](pages/en/tags.md#tag-street) 7 · [`beach`](pages/en/tags.md#tag-beach) 7 · [`fitness`](pages/en/tags.md#tag-fitness) 7 · [`nature`](pages/en/tags.md#tag-nature) 7 · [`cute`](pages/en/tags.md#tag-cute) 7 · [`illustration`](pages/en/tags.md#tag-illustration) 7 · [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) 7 · [`social-media`](pages/en/tags.md#tag-social-media) 7 · [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) 7 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 7 · [`chinese-typography`](pages/en/tags.md#tag-chinese-typography) 7 · [`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) 7 · [`street-fashion`](pages/en/tags.md#tag-street-fashion) 7 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 6 · [`one-take`](pages/en/tags.md#tag-one-take) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 6 · [`realistic`](pages/en/tags.md#tag-realistic) 6 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 6 · [`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) 6 · [`wide-angle`](pages/en/tags.md#tag-wide-angle) 6 · [`music`](pages/en/tags.md#tag-music) 6 · [`embroidery`](pages/en/tags.md#tag-embroidery) 6 · [`animation`](pages/en/tags.md#tag-animation) 6 · [`shot-list`](pages/en/tags.md#tag-shot-list) 6 · [`snow`](pages/en/tags.md#tag-snow) 6 · [`superhero`](pages/en/tags.md#tag-superhero) 6 · [`coastal`](pages/en/tags.md#tag-coastal) 6 · [`pet`](pages/en/tags.md#tag-pet) 6 · [`interior`](pages/en/tags.md#tag-interior) 6 · [`backlight`](pages/en/tags.md#tag-backlight) 6 · [`japanese-typography`](pages/en/tags.md#tag-japanese-typography) 6 · [`paper-craft`](pages/en/tags.md#tag-paper-craft) 6 · [`screenshot`](pages/en/tags.md#tag-screenshot) 6 · [`colored-pencil`](pages/en/tags.md#tag-colored-pencil) 6 · [`street-style`](pages/en/tags.md#tag-street-style) 6 · [`recipe`](pages/en/tags.md#tag-recipe) 6 · [`doodles`](pages/en/tags.md#tag-doodles) 6 · [`brand-identity`](pages/en/tags.md#tag-brand-identity) 6 · [`concept-art`](pages/en/tags.md#tag-concept-art) 6 · [`chiaroscuro`](pages/en/tags.md#tag-chiaroscuro) 6 · [`mascot`](pages/en/tags.md#tag-mascot) 6 · [`expressions`](pages/en/tags.md#tag-expressions) 6 · [`map`](pages/en/tags.md#tag-map) 6 · [`reflection`](pages/en/tags.md#tag-reflection) 6 · [`product-render`](pages/en/tags.md#tag-product-render) 6 · [`mockup`](pages/en/tags.md#tag-mockup) 6 · [`golden-light`](pages/en/tags.md#tag-golden-light) 6 · [`limited-palette`](pages/en/tags.md#tag-limited-palette) 6 · [`3d`](pages/en/tags.md#tag-3d) 6 · [`papercraft`](pages/en/tags.md#tag-papercraft) 6 · [`labels`](pages/en/tags.md#tag-labels) 6 · [`historical`](pages/en/tags.md#tag-historical) 5 · [`education`](pages/en/tags.md#tag-education) 5 · [`first-person`](pages/en/tags.md#tag-first-person) 5 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 5 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 5 · [`storytelling`](pages/en/tags.md#tag-storytelling) 5 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`wildlife`](pages/en/tags.md#tag-wildlife) 5 · [`nostalgic`](pages/en/tags.md#tag-nostalgic) 5 · [`handheld-camera`](pages/en/tags.md#tag-handheld-camera) 5 · [`seaside`](pages/en/tags.md#tag-seaside) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`multilingual`](pages/en/tags.md#tag-multilingual) 5 · [`camera-move`](pages/en/tags.md#tag-camera-move) 5 · [`object-swap`](pages/en/tags.md#tag-object-swap) 5 · [`stop-motion`](pages/en/tags.md#tag-stop-motion) 5 · [`chase`](pages/en/tags.md#tag-chase) 5 · [`autumn`](pages/en/tags.md#tag-autumn) 5 · [`photoreal`](pages/en/tags.md#tag-photoreal) 5 · [`underwater`](pages/en/tags.md#tag-underwater) 5 · [`negative-prompt`](pages/en/tags.md#tag-negative-prompt) 5 · [`painterly`](pages/en/tags.md#tag-painterly) 5 · [`lookbook`](pages/en/tags.md#tag-lookbook) 5 · [`football`](pages/en/tags.md#tag-football) 5 · [`street-portrait`](pages/en/tags.md#tag-street-portrait) 5 · [`reference-identity`](pages/en/tags.md#tag-reference-identity) 5 · [`before-after`](pages/en/tags.md#tag-before-after) 5 · [`pose-sheet`](pages/en/tags.md#tag-pose-sheet) 5 · [`pop-art`](pages/en/tags.md#tag-pop-art) 5 · [`street-art`](pages/en/tags.md#tag-street-art) 5 · [`minimal`](pages/en/tags.md#tag-minimal) 5 · [`birthday`](pages/en/tags.md#tag-birthday) 5 · [`botanical`](pages/en/tags.md#tag-botanical) 5 · [`cherry-blossom`](pages/en/tags.md#tag-cherry-blossom) 5 · [`floral`](pages/en/tags.md#tag-floral) 5 · [`identity-preserve`](pages/en/tags.md#tag-identity-preserve) 5 · [`crayon`](pages/en/tags.md#tag-crayon) 5 · [`travel-journal`](pages/en/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/en/tags.md#tag-ink-sketch) 5 · [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) 5 · [`geometric`](pages/en/tags.md#tag-geometric) 5 · [`fan-art`](pages/en/tags.md#tag-fan-art) 5 · [`risograph`](pages/en/tags.md#tag-risograph) 5 · [`ink-wash`](pages/en/tags.md#tag-ink-wash) 5 · [`graffiti`](pages/en/tags.md#tag-graffiti) 5 · [`paris`](pages/en/tags.md#tag-paris) 5 · [`celebrity`](pages/en/tags.md#tag-celebrity) 5 · [`sunglasses`](pages/en/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`product-reference`](pages/en/tags.md#tag-product-reference) 4 · [`montage`](pages/en/tags.md#tag-montage) 4 · [`samurai`](pages/en/tags.md#tag-samurai) 4 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 4 · [`sitcom`](pages/en/tags.md#tag-sitcom) 4 · [`educational`](pages/en/tags.md#tag-educational) 4 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 4 · [`single-take`](pages/en/tags.md#tag-single-take) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`single-shot`](pages/en/tags.md#tag-single-shot) 4 · [`physics`](pages/en/tags.md#tag-physics) 4 · [`voiceover`](pages/en/tags.md#tag-voiceover) 4 · [`keyframes`](pages/en/tags.md#tag-keyframes) 4 · [`kids-education`](pages/en/tags.md#tag-kids-education) 4 · [`claymation`](pages/en/tags.md#tag-claymation) 4 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 4 · [`asmr`](pages/en/tags.md#tag-asmr) 4 · [`live-action`](pages/en/tags.md#tag-live-action) 4 · [`family`](pages/en/tags.md#tag-family) 4 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 4 · [`urban`](pages/en/tags.md#tag-urban) 4 · [`romance`](pages/en/tags.md#tag-romance) 4 · [`desert`](pages/en/tags.md#tag-desert) 4 · [`scale-contrast`](pages/en/tags.md#tag-scale-contrast) 4 · [`slice-of-life`](pages/en/tags.md#tag-slice-of-life) 4 · [`restaurant`](pages/en/tags.md#tag-restaurant) 4 · [`thriller`](pages/en/tags.md#tag-thriller) 4 · [`crowd`](pages/en/tags.md#tag-crowd) 4 · [`top-down`](pages/en/tags.md#tag-top-down) 4 · [`scale`](pages/en/tags.md#tag-scale) 4 · [`world-building`](pages/en/tags.md#tag-world-building) 4 · [`worldbuilding`](pages/en/tags.md#tag-worldbuilding) 4 · [`character-design`](pages/en/tags.md#tag-character-design) 4 · [`film-photography`](pages/en/tags.md#tag-film-photography) 4 · [`glassmorphism`](pages/en/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/en/tags.md#tag-self-portrait) 4 · [`comparison`](pages/en/tags.md#tag-comparison) 4 · [`japan`](pages/en/tags.md#tag-japan) 4 · [`parody`](pages/en/tags.md#tag-parody) 4 · [`ms-paint`](pages/en/tags.md#tag-ms-paint) 4 · [`vector`](pages/en/tags.md#tag-vector) 4 · [`side-profile`](pages/en/tags.md#tag-side-profile) 4 · [`bilingual`](pages/en/tags.md#tag-bilingual) 4 · [`mediterranean`](pages/en/tags.md#tag-mediterranean) 4 · [`fashion-portrait`](pages/en/tags.md#tag-fashion-portrait) 4 · [`butterfly`](pages/en/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/en/tags.md#tag-candid-portrait) 4 · [`diagram`](pages/en/tags.md#tag-diagram) 4 · [`product-photo`](pages/en/tags.md#tag-product-photo) 4 · [`game-asset`](pages/en/tags.md#tag-game-asset) 4 · [`billboard`](pages/en/tags.md#tag-billboard) 4 · [`low-light`](pages/en/tags.md#tag-low-light) 4 · [`landmarks`](pages/en/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/en/tags.md#tag-direct-flash) 4 · [`photobooth`](pages/en/tags.md#tag-photobooth) 4 · [`contact-sheet`](pages/en/tags.md#tag-contact-sheet) 4 · [`satire`](pages/en/tags.md#tag-satire) 4 · [`cozy`](pages/en/tags.md#tag-cozy) 4 · [`caricature`](pages/en/tags.md#tag-caricature) 4 · [`sepia`](pages/en/tags.md#tag-sepia) 4 · [`zodiac`](pages/en/tags.md#tag-zodiac) 4 · [`movie-poster`](pages/en/tags.md#tag-movie-poster) 4 · [`manga`](pages/en/tags.md#tag-manga) 4 · [`encyclopedia`](pages/en/tags.md#tag-encyclopedia) 4 · [`photo-dump`](pages/en/tags.md#tag-photo-dump) 4 · [`summer`](pages/en/tags.md#tag-summer) 4 · [`flat-color`](pages/en/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/en/tags.md#tag-miniature-world) 4 · [`triptych`](pages/en/tags.md#tag-triptych) 4 · [`children-illustration`](pages/en/tags.md#tag-children-illustration) 4 · [`splash`](pages/en/tags.md#tag-splash) 4 · [`color-palette`](pages/en/tags.md#tag-color-palette) 4 · [`white-background`](pages/en/tags.md#tag-white-background) 4 · [`retro`](pages/en/tags.md#tag-retro) 4 · [`grid-collage`](pages/en/tags.md#tag-grid-collage) 4 · [`bedroom`](pages/en/tags.md#tag-bedroom) 4 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 4 · [`photo-restoration`](pages/en/tags.md#tag-photo-restoration) 4 · [`tokyo`](pages/en/tags.md#tag-tokyo) 4 · [`street-photo`](pages/en/tags.md#tag-street-photo) 4 · [`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) 4 · [`liquid-splash`](pages/en/tags.md#tag-liquid-splash) 4 · [`rooftop`](pages/en/tags.md#tag-rooftop) 4 · [`vintage-film`](pages/en/tags.md#tag-vintage-film) 3 · [`kids`](pages/en/tags.md#tag-kids) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`fps`](pages/en/tags.md#tag-fps) 3 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 3 · [`night-scene`](pages/en/tags.md#tag-night-scene) 3 · [`forest`](pages/en/tags.md#tag-forest) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 3 · [`3d-typography`](pages/en/tags.md#tag-3d-typography) 3 · [`timestamped-shots`](pages/en/tags.md#tag-timestamped-shots) 3 · [`morph-transition`](pages/en/tags.md#tag-morph-transition) 3 · [`livestream`](pages/en/tags.md#tag-livestream) 3 · [`timelapse`](pages/en/tags.md#tag-timelapse) 3 · [`match-cut`](pages/en/tags.md#tag-match-cut) 3 · [`camcorder`](pages/en/tags.md#tag-camcorder) 3 · [`aerial`](pages/en/tags.md#tag-aerial) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`push-in`](pages/en/tags.md#tag-push-in) 3 · [`felt`](pages/en/tags.md#tag-felt) 3 · [`painting`](pages/en/tags.md#tag-painting) 3 · [`classroom`](pages/en/tags.md#tag-classroom) 3 · [`camera-angle`](pages/en/tags.md#tag-camera-angle) 3 · [`pop-out`](pages/en/tags.md#tag-pop-out) 3 · [`reference-character`](pages/en/tags.md#tag-reference-character) 3 · [`timed-scenes`](pages/en/tags.md#tag-timed-scenes) 3 · [`multi-angle`](pages/en/tags.md#tag-multi-angle) 3 · [`short-film`](pages/en/tags.md#tag-short-film) 3 · [`mecha`](pages/en/tags.md#tag-mecha) 3 · [`skateboard`](pages/en/tags.md#tag-skateboard) 3 · [`subtitles`](pages/en/tags.md#tag-subtitles) 3 · [`gym`](pages/en/tags.md#tag-gym) 3 · [`morning-routine`](pages/en/tags.md#tag-morning-routine) 3 · [`subway`](pages/en/tags.md#tag-subway) 3 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 3 · [`noir`](pages/en/tags.md#tag-noir) 3 · [`motorcycle`](pages/en/tags.md#tag-motorcycle) 3 · [`fashion-ad`](pages/en/tags.md#tag-fashion-ad) 3 · [`skin-texture`](pages/en/tags.md#tag-skin-texture) 3 · [`amigurumi`](pages/en/tags.md#tag-amigurumi) 3 · [`fashion-illustration`](pages/en/tags.md#tag-fashion-illustration) 3 · [`magazine-cover`](pages/en/tags.md#tag-magazine-cover) 3 · [`key-visual`](pages/en/tags.md#tag-key-visual) 3 · [`style-conversion`](pages/en/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/en/tags.md#tag-e-commerce) 3 · [`graphite`](pages/en/tags.md#tag-graphite) 3 · [`landing-page`](pages/en/tags.md#tag-landing-page) 3 · [`city-map`](pages/en/tags.md#tag-city-map) 3 · [`face-consistency`](pages/en/tags.md#tag-face-consistency) 3 · [`cutout`](pages/en/tags.md#tag-cutout) 3 · [`design-system`](pages/en/tags.md#tag-design-system) 3 · [`light-mode`](pages/en/tags.md#tag-light-mode) 3 · [`beauty-portrait`](pages/en/tags.md#tag-beauty-portrait) 3 · [`night-street`](pages/en/tags.md#tag-night-street) 3 · [`brutalist`](pages/en/tags.md#tag-brutalist) 3 · [`camera-roll`](pages/en/tags.md#tag-camera-roll) 3 · [`humor`](pages/en/tags.md#tag-humor) 3 · [`candlelight`](pages/en/tags.md#tag-candlelight) 3 · [`3d-caricature`](pages/en/tags.md#tag-3d-caricature) 3 · [`food-ad`](pages/en/tags.md#tag-food-ad) 3 · [`calligraphy`](pages/en/tags.md#tag-calligraphy) 3 · [`saas`](pages/en/tags.md#tag-saas) 3 · [`clay`](pages/en/tags.md#tag-clay) 3 · [`comic`](pages/en/tags.md#tag-comic) 3 · [`comic-book`](pages/en/tags.md#tag-comic-book) 3 · [`profile`](pages/en/tags.md#tag-profile) 3 · [`16-9`](pages/en/tags.md#tag-16-9) 3 · [`product-design`](pages/en/tags.md#tag-product-design) 3 · [`expression-grid`](pages/en/tags.md#tag-expression-grid) 3 · [`low-key`](pages/en/tags.md#tag-low-key) 3 · [`chrome`](pages/en/tags.md#tag-chrome) 3 · [`art-studio`](pages/en/tags.md#tag-art-studio) 3 · [`mural`](pages/en/tags.md#tag-mural) 3 · [`photo-collage`](pages/en/tags.md#tag-photo-collage) 3 · [`engineering`](pages/en/tags.md#tag-engineering) 3 · [`9-16`](pages/en/tags.md#tag-9-16) 3 · [`dramatic-lighting`](pages/en/tags.md#tag-dramatic-lighting) 3 · [`strawberry`](pages/en/tags.md#tag-strawberry) 3 · [`portrait-collage`](pages/en/tags.md#tag-portrait-collage) 3 · [`watch`](pages/en/tags.md#tag-watch) 3 · [`campaign-poster`](pages/en/tags.md#tag-campaign-poster) 3 · [`surreal-scale`](pages/en/tags.md#tag-surreal-scale) 3 · [`panoramic`](pages/en/tags.md#tag-panoramic) 3 · [`ad-poster`](pages/en/tags.md#tag-ad-poster) 3 · [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) 3 · [`group-portrait`](pages/en/tags.md#tag-group-portrait) 3 · [`mid-century`](pages/en/tags.md#tag-mid-century) 3 · [`disintegration`](pages/en/tags.md#tag-disintegration) 3 · [`polaroid`](pages/en/tags.md#tag-polaroid) 3 · [`dessert`](pages/en/tags.md#tag-dessert) 3 · [`palette-knife`](pages/en/tags.md#tag-palette-knife) 3 · [`paper-cut`](pages/en/tags.md#tag-paper-cut) 3 · [`text-layout`](pages/en/tags.md#tag-text-layout) 3 · [`textile`](pages/en/tags.md#tag-textile) 3 · [`ink-doodle`](pages/en/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/en/tags.md#tag-local-edit) 3 · [`brand-poster`](pages/en/tags.md#tag-brand-poster) 3 · [`upscale`](pages/en/tags.md#tag-upscale) 3 · [`color-analysis`](pages/en/tags.md#tag-color-analysis) 3 · [`magazine`](pages/en/tags.md#tag-magazine) 3 · [`paper-collage`](pages/en/tags.md#tag-paper-collage) 3 · [`advertisement`](pages/en/tags.md#tag-advertisement) 3 · [`paper-cutout`](pages/en/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/en/tags.md#tag-memory-card) 3 · [`hard-light`](pages/en/tags.md#tag-hard-light) 3 · [`naive-art`](pages/en/tags.md#tag-naive-art) 3 · [`ui-design`](pages/en/tags.md#tag-ui-design) 3 · [`chinese-style`](pages/en/tags.md#tag-chinese-style) 3 · [`product-mockup`](pages/en/tags.md#tag-product-mockup) 3 · [`macro-photography`](pages/en/tags.md#tag-macro-photography) 3 · [`phone-photo`](pages/en/tags.md#tag-phone-photo) 3 · [`iphone-style`](pages/en/tags.md#tag-iphone-style) 3 · [`photo-reference`](pages/en/tags.md#tag-photo-reference) 3 · [`split-composition`](pages/en/tags.md#tag-split-composition) 3 · [`warm-tones`](pages/en/tags.md#tag-warm-tones) 3 · [`dark-background`](pages/en/tags.md#tag-dark-background) 3 · [`logo-design`](pages/en/tags.md#tag-logo-design) 3 · [`xiaohongshu`](pages/en/tags.md#tag-xiaohongshu) 3 · [`winter`](pages/en/tags.md#tag-winter) 3 · [`brand`](pages/en/tags.md#tag-brand) 3 · [`parchment`](pages/en/tags.md#tag-parchment) 3 · [`cinematic-portrait`](pages/en/tags.md#tag-cinematic-portrait) 3 · [`chocolate`](pages/en/tags.md#tag-chocolate) 3 · [`soft-lighting`](pages/en/tags.md#tag-soft-lighting) 3
 
-**[All 2182 tags](pages/en/tags.md)**
+**[All 2181 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

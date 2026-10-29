@@ -11,7 +11,21 @@ from datetime import datetime
 import yaml
 
 # Model sections, ordered by the Artificial Analysis video arena (October 2026).
-MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 4.0", "Kling 3.0", "Veo 3.1", "Veo 3", "Sora 2"]
+MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 4.0", "Kling 3.0", "Veo 3.1", "Veo 3"]
+# Video sections by type, in display order. The model shows on every entry.
+VIDEO_CATEGORIES = {
+    "cinematic": {"en": "Cinematic scenes and short films", "zh": "电影感场景与短片"},
+    "action": {"en": "Action, chases and sports", "zh": "动作、追逐与运动"},
+    "scifi-fantasy": {"en": "Sci-fi and fantasy", "zh": "科幻与奇幻"},
+    "anime": {"en": "Anime and animation", "zh": "动漫与动画"},
+    "commercial": {"en": "Ads and product videos", "zh": "广告与产品"},
+    "dialogue": {"en": "Dialogue and talking heads", "zh": "对白与口播"},
+    "music-dance": {"en": "Music and dance", "zh": "音乐与舞蹈"},
+    "vlog": {"en": "Phone footage and vlogs", "zh": "手机实拍与 Vlog"},
+    "nature": {"en": "Nature, travel and aerial", "zh": "自然、旅行与航拍"},
+    "animal": {"en": "Animals and pets", "zh": "动物与萌宠"},
+    "vfx": {"en": "VFX and transformations", "zh": "特效与变身转场"},
+}
 # Image sections by use case, in display order.
 CATEGORIES = {
     "poster": {"en": "Posters and editorial layouts", "zh": "海报与编辑排版"},
@@ -50,8 +64,8 @@ T = {
         "recent": "Recently added",
         "video": "Video prompts",
         "video_intro": "Every prompt below is quoted verbatim from its source: the model maker's own guide or model card, or a creator's post on X with the video attached. "
-                       "Click a thumbnail to watch the original with sound. Sections follow the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video) ranking; "
-                       "creator posts are sorted by likes, counted on the date shown.",
+                       "Click a thumbnail to watch the original with sound. Grouped by what you want to make, covering the leaders of the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video); "
+                       "each entry names its model, and creator posts are sorted by likes, counted on the date shown.",
         "recipes": "Agent recipes: editing video",
         "recipes_intro": "Tell a coding agent what you want in plain words. Each recipe records the request and the commands the agent ran. Swap in your own clips.",
         "guides": "Guides and skills",
@@ -102,8 +116,8 @@ T = {
         "recent": "最近新增",
         "video": "视频提示词",
         "video_intro": "下面每条提示词都原样摘自出处：模型厂商自己的指南或模型卡，或创作者在 X 上附带成片发布的帖子。"
-                       "点缩略图看带声音的原片。分组顺序按 [Artificial Analysis 视频榜](https://artificialanalysis.ai/video/leaderboard/text-to-video)排名，"
-                       "创作者帖子按点赞数排序，点赞数以标注日期为准。",
+                       "点缩略图看带声音的原片。按想做的内容分组，覆盖 [Artificial Analysis 视频榜](https://artificialanalysis.ai/video/leaderboard/text-to-video)前排模型，"
+                       "每条都标明模型，创作者帖子按点赞数排序，点赞数以标注日期为准。",
         "recipes": "Agent 配方：剪视频",
         "recipes_intro": "用大白话告诉编程 Agent 你要什么。每条配方记下交给 Agent 的原话和它实际跑的命令，换成你自己的素材即可。",
         "guides": "指南与 skill",
@@ -237,14 +251,15 @@ def write_pages(lang, t, key, title, entries):
 
 def build(lang, videos, images, recipes):
     t = T[lang]
-    by_model = {m: sorted((v for v in videos if v["model"] == m), key=lambda v: -v["source"].get("likes", 0))
-                for m in MODELS}
-    assert sum(map(len, by_model.values())) == len(videos), "entry with a model missing from MODELS"
+    assert all(v["model"] in MODELS for v in videos), "entry with a model missing from MODELS"
+    by_vcat = {c: sorted((v for v in videos if v["category"] == c), key=lambda v: -v["source"].get("likes", 0))
+               for c in VIDEO_CATEGORIES}
+    assert sum(map(len, by_vcat.values())) == len(videos), "video with a category missing from VIDEO_CATEGORIES"
     by_cat = {c: sorted((i for i in images if i["category"] == c), key=lambda i: -i["source"].get("likes", 0))
               for c in CATEGORIES}
     assert sum(map(len, by_cat.values())) == len(images), "image with a category missing from CATEGORIES"
     # (pages key, README anchor, heading, entries) for every non-empty section
-    sections = [(f"video-{anchor(m)}", anchor(m), m, by_model[m]) for m in MODELS if by_model[m]] + \
+    sections = [(f"video-{c}", f"vid-{c}", VIDEO_CATEGORIES[c][lang], by_vcat[c]) for c in VIDEO_CATEGORIES if by_vcat[c]] + \
                [(f"image-{c}", f"img-{c}", CATEGORIES[c][lang], by_cat[c]) for c in CATEGORIES if by_cat[c]]
     loc, more = {e["id"]: f'#{e["id"]}' for e in videos + images + recipes}, {}
     for key, _, title, es in sections:
@@ -262,7 +277,7 @@ def build(lang, videos, images, recipes):
         f'- [{t["recent"]}](#recent)',
         f'- [{t["video"]}](#video) ({len(videos)} {t["items"]})',
     ]
-    out += [f'  - [{m}](#{anchor(m)}) ({len(by_model[m])})' for m in MODELS if by_model[m]]
+    out += [f'  - [{VIDEO_CATEGORIES[c][lang]}](#vid-{c}) ({len(by_vcat[c])})' for c in VIDEO_CATEGORIES if by_vcat[c]]
     out += [f'- [{t["image"]}](#image) ({len(images)} {t["items"]})']
     out += [f'  - [{CATEGORIES[c][lang]}](#img-{c}) ({len(by_cat[c])})' for c in CATEGORIES if by_cat[c]]
     out += [f'- [{t["recipes"]}](#recipes) ({len(recipes)} {t["items"]})',

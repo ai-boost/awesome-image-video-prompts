@@ -4,6 +4,7 @@ title:
   zh: 多机位喜剧俱乐部脱口秀专场
 model: MiniMax H3
 mode: text-to-video
+category: dialogue
 tags:
 - stand-up-comedy
 - multi-camera

@@ -4,6 +4,7 @@ title:
   zh: 改视频：整段转成毛毡风格
 model: Kling 4.0
 mode: video-edit
+category: anime
 tags:
 - video-edit
 - felt

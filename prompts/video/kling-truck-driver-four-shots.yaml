@@ -4,6 +4,7 @@ title:
   zh: 卡车司机，四个手持镜头
 model: Kling 3.0
 mode: image-to-video
+category: cinematic
 tags:
 - multi-shot
 - handheld

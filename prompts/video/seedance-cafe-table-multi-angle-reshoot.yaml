@@ -4,6 +4,7 @@ title:
   zh: 咖啡馆桌边讲话重拍成十三个新机位
 model: Seedance 2.5
 mode: video-edit
+category: dialogue
 tags:
 - video-to-video
 - multi-angle

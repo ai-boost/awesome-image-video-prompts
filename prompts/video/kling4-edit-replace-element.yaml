@@ -4,6 +4,7 @@ title:
   zh: 改视频：把主体换成图里的
 model: Kling 4.0
 mode: video-edit
+category: vfx
 tags:
 - video-edit
 - object-swap

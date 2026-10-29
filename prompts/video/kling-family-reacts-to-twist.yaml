@@ -4,6 +4,7 @@ title:
   zh: 一家四口对剧情反转的反应
 model: Kling 3.0
 mode: image-to-video
+category: dialogue
 tags:
 - dialogue
 - multi-speaker

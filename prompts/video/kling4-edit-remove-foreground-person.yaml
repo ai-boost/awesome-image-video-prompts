@@ -4,6 +4,7 @@ title:
   zh: 改视频：去掉前景里的人
 model: Kling 4.0
 mode: video-edit
+category: cinematic
 tags:
 - video-edit
 - object-removal

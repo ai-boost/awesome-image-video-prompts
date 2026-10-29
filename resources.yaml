@@ -28,10 +28,6 @@ official:
     url: https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-veo-3-1
     en: Five-part formula, timestamped multi-shot prompts, first-last-frame and ingredients workflows with Nano Banana.
     zh: 五段式公式、带时间戳的多镜头写法，以及配合 Nano Banana 的首尾帧和多素材工作流。
-  - name: Sora 2 prompting guide
-    url: https://cookbook.openai.com/examples/sora/sora2_prompting_guide
-    en: Prompt anatomy, director-style briefs, dialogue blocks, edits, characters, extensions.
-    zh: 提示词结构、导演式说明、对白块、编辑、角色、续写。
 community:
   - name: LearnPrompt/awesome-seedance
     url: https://github.com/LearnPrompt/awesome-seedance

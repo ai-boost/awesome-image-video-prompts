@@ -4,6 +4,7 @@ title:
   zh: 港口对话，连续续写两段
 model: Gemini Omni Flash
 mode: extend
+category: dialogue
 tags:
 - extend
 - dialogue

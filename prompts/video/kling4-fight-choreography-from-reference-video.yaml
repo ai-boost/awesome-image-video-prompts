@@ -4,6 +4,7 @@ title:
   zh: 借一段打斗的动作编排，换成自己的角色
 model: Kling 4.0
 mode: reference-to-video
+category: action
 tags:
 - fight-scene
 - motion-reference

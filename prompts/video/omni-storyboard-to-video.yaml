@@ -4,6 +4,7 @@ title:
   zh: 给一张分镜图，直接出片
 model: Gemini Omni Flash
 mode: reference-to-video
+category: cinematic
 tags:
 - storyboard
 - multi-shot

@@ -4,6 +4,7 @@ title:
   zh: 让现成视频里的人开口说话，声音借参考音频
 model: MiniMax H3
 mode: video-edit
+category: dialogue
 tags:
 - lip-sync
 - voice-reference

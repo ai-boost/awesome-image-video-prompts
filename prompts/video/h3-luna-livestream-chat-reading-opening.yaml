@@ -4,6 +4,7 @@ title:
   zh: 虚拟主播开播并朗读弹幕聊天
 model: MiniMax H3
 mode: reference-to-video
+category: dialogue
 tags:
 - livestream
 - reference-to-video

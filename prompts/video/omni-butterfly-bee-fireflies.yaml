@@ -4,6 +4,7 @@ title:
   zh: 蝴蝶改蜜蜂再改萤火虫，一轮只改一处
 model: Gemini Omni Flash
 mode: video-edit
+category: vfx
 tags:
 - multi-turn-edit
 - object-swap

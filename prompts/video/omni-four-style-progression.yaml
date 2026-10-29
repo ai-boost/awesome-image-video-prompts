@@ -4,6 +4,7 @@ title:
   zh: 同一段视频依次变成蜡笔、铅笔、玻璃、孔版
 model: Gemini Omni Flash
 mode: video-edit
+category: vfx
 tags:
 - style-transfer
 - animation

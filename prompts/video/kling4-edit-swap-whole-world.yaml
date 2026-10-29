@@ -4,6 +4,7 @@ title:
   zh: 改视频：整个场景和角色换成一张图里的
 model: Kling 4.0
 mode: video-edit
+category: vfx
 tags:
 - video-edit
 - restyle

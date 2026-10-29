@@ -4,6 +4,7 @@ title:
   zh: 魔法笔把街头交通变成卡通
 model: Seedance 2.5
 mode: text-to-video
+category: vlog
 tags:
 - vlog
 - live-action-2d-composite

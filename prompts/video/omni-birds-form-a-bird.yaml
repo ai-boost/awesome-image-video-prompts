@@ -4,6 +4,7 @@ title:
   zh: 鸟群聚成一只鸟的形状，随音乐起落
 model: Gemini Omni Flash
 mode: reference-to-video
+category: vfx
 tags:
 - multi-reference
 - audio-sync

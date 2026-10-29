@@ -4,6 +4,7 @@ title:
   zh: 改视频：箱子里加一只睡着的猪，顺便改最后一句台词
 model: Kling 4.0
 mode: video-edit
+category: animal
 tags:
 - video-edit
 - add-object

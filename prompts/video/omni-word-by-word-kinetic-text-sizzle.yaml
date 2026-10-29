@@ -4,6 +4,7 @@ title:
   zh: 光泽三维文字逐词依次出现
 model: Gemini Omni Flash
 mode: text-to-video
+category: vfx
 tags:
 - kinetic-typography
 - text-rendering

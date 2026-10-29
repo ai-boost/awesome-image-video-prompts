@@ -25,8 +25,10 @@ FFMPEG = shutil.which("ffmpeg") or "/opt/homebrew/bin/ffmpeg"
 
 MODES = {"video": ["text-to-video", "image-to-video", "keyframes-to-video", "reference-to-video", "video-edit", "extend"],
          "image": ["text-to-image", "image-edit"]}
+VIDEO_CATS = ["cinematic", "action", "scifi-fantasy", "anime", "commercial", "dialogue", "music-dance", "vlog", "nature", "animal", "vfx"]
 IMAGE_CATS = ["poster", "infographic", "ui-mockup", "product", "brand", "realism", "portrait", "character", "illustration",
               "comic", "photo-to-art", "architecture", "map", "collage", "edit"]
+CATS = {"video": VIDEO_CATS, "image": IMAGE_CATS}
 
 RULES = """You are the editor of awesome-image-video-prompts, a curated list of AI video and image prompts.
 Look at the thumbnail with the Read tool first: {thumb}
@@ -70,12 +72,12 @@ yaml.add_representer(Lit, lambda d, s: d.represent_scalar("tag:yaml.org,2002:str
 
 
 def ask(c):
-    prefix = {"Seedance": "seedance", "Wan": "wan", "Kling": "kling", "Veo": "veo", "Sora": "sora", "MiniMax": "h3",
+    prefix = {"Seedance": "seedance", "Wan": "wan", "Kling": "kling", "Veo": "veo", "MiniMax": "h3",
               "Gemini": "omni", "GPT Image": "gpt-image", "Nano Banana": "nano-banana"}
     pre = next((v for k, v in prefix.items() if c["model"].startswith(k)), re.sub(r"[^a-z0-9]+", "-", c["model"].lower()))
     text = RULES.format(thumb=c["thumb"], prefix=pre, modes=", ".join(MODES[c["kind"]]),
-                        cat_line=f"- category: one of {', '.join(IMAGE_CATS)}" if c["kind"] == "image" else "",
-                        cat_key=', "category": "..."' if c["kind"] == "image" else "",
+                        cat_line=f"- category: one of {', '.join(CATS[c['kind']])}",
+                        cat_key=', "category": "..."',
                         model=c["model"], post=c["post_text"][:1500], prompt=c["prompt"])
     out = subprocess.run(["claude", "-p", "--model", "haiku", "--allowedTools", "Read", "--output-format", "text"],
                          input=text, capture_output=True, text=True, timeout=600).stdout
@@ -89,8 +91,7 @@ def write_entry(c, d):
     while (ROOT / f"prompts/{kind}/{eid}.yaml").exists():
         eid += "-2"
     e = {"id": eid, "title": d["title"], "model": c["model"], "mode": d["mode"]}
-    if kind == "image":
-        e["category"] = d["category"]
+    e["category"] = d["category"]
     e.update({"tags": d["tags"],
               "source": {"name": c.get("source_name") or f"@{c['handle']} on X", "url": c["url"], "credit": c["credit"] or c["handle"],
                          "likes": c["likes"], "captured": date.today().isoformat(), "posted": c["posted"]}})
@@ -111,8 +112,7 @@ def write_entry(c, d):
 def valid(c, d):
     ok = d.get("accept") and d.get("mode") in MODES[c["kind"]] and d.get("id") and d.get("tags")
     ok = ok and all(d.get(k, {}).get(l) for k in ("title", "notes") for l in ("en", "zh"))
-    if c["kind"] == "image":
-        ok = ok and d.get("category") in IMAGE_CATS
+    ok = ok and d.get("category") in CATS[c["kind"]]
     return ok and not any(ch in json.dumps([d["title"], d["notes"]], ensure_ascii=False) for ch in "—–")
 
 

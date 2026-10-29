@@ -4,6 +4,7 @@ title:
   zh: 动漫角色的手伸出黑色上下遮幅
 model: Seedance 2.5
 mode: reference-to-video
+category: anime
 tags:
 - frame-break
 - letterbox

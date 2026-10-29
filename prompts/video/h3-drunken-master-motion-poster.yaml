@@ -4,6 +4,7 @@ title:
   zh: 醉拳电影海报变成动态海报
 model: MiniMax H3
 mode: image-to-video
+category: action
 tags:
 - motion-poster
 - martial-arts
