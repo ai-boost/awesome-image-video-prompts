@@ -38,7 +38,7 @@ Reject the candidate when any of these hold:
 - explicit nudity or sex acts, or minors in any suggestive context (sexy, suggestive, lingerie or swimwear looks are fine)
 - the prompt is not a usable prompt (an ad, a teaser, truncated, a half filled template, only a negative prompt)
 - the prompt tells the user to bypass a safety or face-detection system
-- the output contradicts the prompt (different text, subject or style than the prompt asks for)
+- the output contradicts the prompt: its subject, text, colours or style differ from what the prompt asks for, or the prompt is for a video. This means the image did not come from this prompt, so reject it; never treat it as a notes problem
 - quality: the output is clearly broken (garbled text, broken anatomy, muddy); a simple prompt is fine when the output is good
 
 Otherwise accept and write, in the house style:
