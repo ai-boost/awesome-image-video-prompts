@@ -1,0 +1,26 @@
+id: nano-banana-manga-creator-toy-box-grid
+title:
+  en: Four manga creators as toy figurines with escaping creations
+  zh: 四位漫画家的玩具手办，作品从包装盒中跃出
+model: Nano Banana 2.1
+mode: text-to-image
+category: product
+tags:
+- manga
+- figurine
+- grid
+- toy-packaging
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2113528348362338611
+  credit: Gadgetify
+  likes: 17
+  captured: '2026-10-29'
+  posted: '2026-10-23'
+notes:
+  en: Each beat is a numbered rule paired with a negative clause that names what must not appear, so the model checks every element against a concrete test. The fixed 2x2 grid at 16:9 and the studio toy render terms lock the layout and lighting across all four panels.
+  zh: 每一条都是编号规则，并配有一句否定条件，写明不允许出现的内容，让模型逐项对照检查。固定的 2x2 网格、16:9 画幅和影棚式玩具渲染描述，使四个画面的构图与光线保持一致。
+prompt: |
+  Same manga prompt I did with Nano Banana 2.1 but this time with GPT 2.5
+
+  Prompt: 2x2 grid, modify this prompt do this for 4 famous founding fathers, 2x2 grid, 16:9, do this for 4 famous manga: B₁  CREATOR FIGURE AT CRAFT (master)   a stylized 3D figurine of the creator at their craft station (drafting desk, pen,       tablet, typewriter) in a focused working pose; toy/vinyl material.   ¬B₁ = no figure / realistic human / idle figure / no craft station. B₂  OWN PACKAGING IN COMPOSITION   the creator's retail box — title + box art depicting the creator — present in‑frame as       a set piece; figure and box art share the same character design.   ¬B₂ = no box / box unrelated / box art ≠ figure. B₃  CREATIONS ESCAPE THE BOX   the works the creator made (characters/creatures/panels) burst OUT of the box art into 3D       space in dynamic poses; ≥2 escapees.   ¬B₃ = creations static on the box / no escape / creations unrelated to the creator. B₄  CRAFT ARTIFACTS ORBIT   floating artifacts of the craft (pages/panels, ink bottles, erasers, crumpled drafts, sprites)       suspended around, implying a stopped moment.   ¬B₄ = no artifacts / artifacts resting on ground / unrelated props. B₅  STUDIO TOY PRESENTATION   clean neutral studio background, soft light, collectible‑figure render quality, legible box       title.   ¬B₅ = busy background / flat render / illegible title / harsh light. η   HONEST TOY   vinyl/plastic sheen, box print texture, panel linework legible. FORBIDDEN = realistic human · no box · box art mismatch · static creations · no escape · no artifacts · busy bg · illegible title · flat render

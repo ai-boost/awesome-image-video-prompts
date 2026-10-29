@@ -1,0 +1,24 @@
+id: gpt-image-xiaohongshu-3d-profile-card-girl
+title:
+  en: Girl sitting on a 3D Xiaohongshu profile card
+  zh: 女孩坐在3D小红书个人资料卡边缘
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- xiaohongshu
+- 3d-render
+- ui-design
+- pixar-style
+source:
+  name: '@MrGafish on X'
+  url: https://x.com/MrGafish/status/2052323461268467860
+  credit: MrGafish
+  captured: '2026-10-29'
+  posted: '2026-05-07'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the composition by naming the held card, the cutout edge where the figure sits, and the floating icons. Surface and light words such as soft cinematic light, glossy texture and glowing neon set the 3D finish.
+  zh: 提示词先固定构图，写明手持卡片、镂空边缘坐人和漂浮图标的位置，再用柔和电影光线、闪亮光滑纹理、霓虹光晕等材质与光线词定下3D质感。
+prompt: |
+  一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学

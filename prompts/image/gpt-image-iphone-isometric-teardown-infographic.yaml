@@ -1,0 +1,39 @@
+id: gpt-image-iphone-isometric-teardown-infographic
+title:
+  en: iPhone isometric teardown infographic with color coded callouts
+  zh: iPhone 等轴测拆解信息图，带彩色标注
+model: GPT Image 2.5
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- isometric
+- technical-drawing
+- product-teardown
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2097692061554118999
+  credit: TechieSA
+  likes: 48
+  captured: '2026-10-29'
+  posted: '2026-04-25'
+notes:
+  en: The prompt fixes a 45 degree isometric angle, black linework on white, and a color key that maps power, data, thermal and sensors to red, blue, orange and green. Only the [OBJECT] slot changes, so the same layout works for any device.
+  zh: 提示词固定了四十五度等轴测视角、白底黑色线稿，以及用红、蓝、橙、绿分别表示电源、数据、散热和传感器的颜色图例。只需替换 [OBJECT] 这一处，同一版式即可套用到任何设备。
+prompt: |
+  Simply replace [OBJECT]:✨
+
+  Create a technical infographic of [OBJECT] with a 45-degree isometric 3D perspective showing the device slightly tilted to reveal depth and dimension.
+  Combine a realistic photoreal render with black ink technical annotations on pure white background. Include:
+  Key component labels with color-coded callout boxes
+  Internal component visibility through transparent/cutaway sections
+  Measurements, dimensions, and precise scale markers
+  Material callouts and quantities
+  Color-coded arrows for function/flow: RED (power/battery), BLUE (data/connectivity), ORANGE (thermal/processor), GREEN (sensors/haptics)
+  Simple schematics or cross-sectional diagrams where relevant
+
+  Place “OBJECT” title in a hand-drawn technical box (top-left corner).
+  Style: Black linework (technical pen/architectural), sketched but precise. Object remains clearly visible. Educational museum-exhibit vibe. Clean composition, balanced negative space.
+  Perspective: Isometric 3D angle—tilted to show depth, dimension, and internal architecture dramatically. Like a professional product teardown or engineering manual.
+  Colors: ~10-15% accent density. Black dominant. White background.
+  Output: 1080×1080, ultra-crisp, social-feed optimized.”

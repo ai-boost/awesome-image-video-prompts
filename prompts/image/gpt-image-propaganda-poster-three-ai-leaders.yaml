@@ -1,0 +1,23 @@
+id: gpt-image-propaganda-poster-three-ai-leaders
+title:
+  en: 1980s propaganda poster of three AI leaders
+  zh: 三位AI领袖的80年代宣传海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- propaganda
+- retro-poster
+- chinese-text
+source:
+  name: '@akokoi1 on X'
+  url: https://x.com/akokoi1/status/2046558658096738672
+  credit: akokoi1
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: 'Naming the era and genre sets the whole visual system: a red sunburst, banners, peony borders and painted realism. The slogan is quoted verbatim so the Chinese text renders exactly, and one concrete wardrobe detail, the red scarf, makes one figure identifiable.'
+  zh: 点明年代与海报类型即可定下整套视觉：红色旭日、标语旗帜、牡丹边框和写实绘画风格。引号中的标语原样保留，中文文字因此能准确呈现；红领巾这一具体服饰细节则让其中一人可以被辨认。
+prompt: |
+  Generate a 1980s propaganda poster. Use the exact slogan "热烈庆祝GPT-Image-2全量开放". Include Sam Altman, Dario Amodei, and Elon Musk, and give Dario Amodei a red scarf.

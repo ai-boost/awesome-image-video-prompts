@@ -1,0 +1,36 @@
+id: gpt-image-sensenova-u1-pro-solar-terms-landing-page
+title:
+  en: Landing page with 24 Chinese solar term panels
+  zh: 带二十四节气插画的落地页
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- landing-page
+- solar-terms
+- watercolor
+- web-design
+source:
+  name: '@Lentils80 on X'
+  url: https://x.com/Lentils80/status/2078480576202346900
+  credit: Lentils
+  captured: '2026-10-29'
+  posted: '2026-07-18'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the page from top to bottom, quoting every headline, paragraph and label exactly, so the result reads as a real webpage capture. Listing the 24 solar term labels in order and stating the exact panel count keeps the artwork complete and correctly sequenced.
+  zh: 提示词从上到下固定了页面结构，并逐字给出标题、段落和标签文字，因此画面像真实网页截图。按顺序列出 24 个节气标签并写明面板数量，保证插画数量完整、排序正确。
+prompt: |
+  Goal: Create a clean landing-page screenshot for an AI image model announcement, styled like a polished corporate technology blog page.
+
+  Canvas: Wide 16:9 webpage capture, approximately 1200×675 px, with lots of white space. Use a pale white and lavender background with subtle diagonal glossy light streaks in the top hero area.
+
+  Layout: Top hero section occupies the upper third. Place a large dark navy serif headline at top left reading SenseNova U1 Pro. Under it, add a small gray sans-serif paragraph: Flagship image creation model that uses interleaved text-image chain of thought to create accurate, well-designed, production-ready visual assets, delivering global-leading overall performance. Leave the right side mostly empty with soft abstract light beams.
+
+  Main section: Below a horizontal transition into a light gray-white content area, place a large sans-serif heading on the left reading Ultra-High-Resolution Output. Directly underneath, show one blue highlighted text strip like selected webpage text, reading Supports up to native 8K resolution and specialized aspect ratios for production-grade precision and detail.
+
+  Feature image: Beneath the highlighted strip, insert a centered framed horizontal artwork preview with a thin beige border and cream background. The artwork is a traditional Chinese watercolor calendar titled in black calligraphy at the top center: 二十四节气. It contains exactly 24 tall vertical painted panels arranged left to right, each representing one Chinese solar term with delicate ink-and-watercolor landscapes, flowers, birds, fields, snow, and seasonal plants. Count and label the 24 panels at the bottom in Chinese, in this exact order: 1 立春, 2 雨水, 3 惊蛰, 4 春分, 5 清明, 6 谷雨, 7 立夏, 8 小满, 9 芒种, 10 夏至, 11 小暑, 12 大暑, 13 立秋, 14 处暑, 15 白露, 16 秋分, 17 寒露, 18 霜降, 19 立冬, 20 小雪, 21 大雪, 22 冬至, 23 小寒, 24 大寒. Add tiny date ranges under each label, but keep them small and secondary.
+
+  Visual style: Minimal modern web design, high-end AI product branding, crisp typography, large serif hero title, clean sans-serif body text, subdued gray text, navy accents, soft luminous abstract background, realistic screenshot-like composition.
+
+  Constraints: Preserve the exact visible text hierarchy and the 24-panel count. Do not add extra navigation bars, logos, buttons, people, browser chrome, watermarks, or unrelated interface elements.

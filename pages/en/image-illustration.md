@@ -1,6 +1,6 @@
 # Illustration
 
-[Back to the list](../../README.md) · All 101 entries
+[Back to the list](../../README.md) · All 106 entries
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### Anime style panorama of Shibuya Crossing from map screenshot
@@ -1844,6 +1844,27 @@ Constraints: Keep the whole scene visible as a single map-like composition. Do n
 
 </details>
 
+<a id="gpt-image-crayon-doodle-footballer-caricature"></a>
+### Crayon doodle caricature of a footballer in red
+
+<a href="https://x.com/Shorelyn_/status/2063235707632533954"><img src="../../previews/gpt-image-crayon-doodle-footballer-caricature.jpg" width="360"></a>
+
+The prompt keeps the person recognizable while exaggerating an oversized head and a crooked grin. It lists wax crayon, marker bleed, handwritten captions, arrows and stars as explicit elements, plus paper grain and an asymmetric layout, so the result reads as a handmade sketchbook page.
+
+GPT Image 2 · Edit · Source: [@Shorelyn_ on X](https://x.com/Shorelyn_/status/2063235707632533954) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`doodle`](tags.md#tag-doodle) [`caricature`](tags.md#tag-caricature) [`crayon`](tags.md#tag-crayon) [`sketch`](tags.md#tag-sketch)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.
+
+Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
+```
+
+</details>
+
 <a id="gpt-image-dimensional-embroidery-birds-flower-branch"></a>
 ### Dimensional silk embroidery birds on flowering branch
 
@@ -1859,6 +1880,25 @@ GPT Image 2 · Text-to-image · Source: [@dotey on X](https://x.com/dotey/status
 
 ```text
 精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
+```
+
+</details>
+
+<a id="gpt-image-droplet-mascot-robot-high-five-studio"></a>
+### Droplet mascot high fives robot in art studio
+
+<a href="https://x.com/FellMentKE/status/2049879410170560611"><img src="../../previews/gpt-image-droplet-mascot-robot-high-five-studio.jpg" width="360"></a>
+
+Exact counts for brush cups, robots and tablets plus a quoted poster line give the scene checkable structure. Layering the foreground table, midground robots and the window garden with named soft morning light keeps the composition readable.
+
+GPT Image 2 · Text-to-image · Source: [@FellMentKE on X](https://x.com/FellMentKE/status/2049879410170560611) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`illustration`](tags.md#tag-illustration) [`mascot`](tags.md#tag-mascot) [`robot`](tags.md#tag-robot) [`art-studio`](tags.md#tag-art-studio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A warm, whimsical digital illustration of a cozy sunlit art studio showing a friendly collaboration between a cute blue water-drop mascot and cheerful white-and-teal robots. In the foreground, a large wooden worktable is covered with art supplies and finished sketches: exactly 3 paintbrush cups, multiple pencils and pens, watercolor palettes, small paint jars, loose character drawings, and 2 digital drawing tablets. At the center of the table, one large horizontal pen-display tablet shows a colorful pastel illustration in progress. The blue droplet character, with glossy rounded body, tiny arms, rosy cheeks, and a happy open smile, sits on the left holding a paintbrush and giving a high-five to a humanoid robot seated on the right. The robot has a smooth white body with teal glowing accents, a dark face screen with bright cyan smiling eyes, and one hand touching the tablet while the other meets the mascot’s hand, with small celebratory spark lines around the high-five. In the midground on the right, exactly 2 more robots are visible: one seated beside a human artist and one partially visible in the lower-right corner drawing on paper. The human artist is seen from behind, hair in a bun, sitting at a desk near the window and working on a tablet. The studio is filled with cozy decorative details: a large framed poster on the left wall reading "The Perfect Match: Skywork x GPT-Image-2", a bookshelf packed with books and cute objects, potted plants throughout the room, framed mini art prints, wall shelves with jars and decor, hanging bunting in the upper left, a teal pendant lamp above the table, and a large window on the right with cream curtains revealing a bright garden, fence, and soft greenery outside. Use soft golden morning light, pastel colors, polished children’s-book-style rendering, clean linework, gentle shading, inviting creative atmosphere, highly detailed props, and a polished cinematic composition that feels like an uplifting promotional illustration for Skywork x GPT-Image-2.
 ```
 
 </details>
@@ -2415,6 +2455,25 @@ A graphic illustration centered on a dark navy blue t-shirt, depicting an astron
 
 </details>
 
+<a id="gpt-image-neon-crime-game-cover-marina"></a>
+### Two armed protagonists on a marina dock
+
+<a href="https://x.com/Coinvo/status/2049813518090956904"><img src="../../previews/gpt-image-neon-crime-game-cover-marina.jpg" width="360"></a>
+
+Each character, vehicle and bird gets a named position and count, and the palette is spelled out with colours, so the scene reads as one framed cover shot. The cel shaded style and wide framing tell the model which game art look to target.
+
+GPT Image 2 · Text-to-image · Source: [@Coinvo on X](https://x.com/Coinvo/status/2049813518090956904) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`game-key-art`](tags.md#tag-game-key-art) [`vaporwave`](tags.md#tag-vaporwave) [`marina`](tags.md#tag-marina) [`cel-shaded`](tags.md#tag-cel-shaded)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A stylized cinematic illustration inspired by a neon-soaked Florida crime-game cover scene at sunset, showing two armed protagonists standing heroically on a wooden marina dock in the foreground, facing the viewer. The scene has a polished modern video game key-art look with pastel vaporwave colors, warm pink and peach highlights, turquoise water, and a clear blue sky. On the right, a tall athletic young man in a white t-shirt, open short-sleeve blue tropical print shirt, tan cargo pants, and a wristwatch stands in a dominant forward pose with both hands aiming a silver semi-automatic pistol toward the camera. On the left, a curvy young woman with long dark curly hair tied half-up wears a black crop top, denim shorts, layered gold necklaces, and a crossbody bag at her hip, holding a handgun pointed downward in a relaxed but ready pose. Both characters are centered and framed like iconic action-game cover art. Behind them is a bright waterfront city skyline with high-rise hotels and apartment towers, a low bridge crossing the water, several palm trees on the left, and glossy reflections across the bay. Include 1 helicopter in the upper left sky, 1 police speedboat racing across the water on the right with a white wake, 1 sleek black speedboat docked in the lower right foreground with visible bullet cracks in the windshield, and 1 white seabird standing in the shallow water near the left side. Strong late-afternoon sunlight, long shadows, saturated retro Miami palette, crisp cel-shaded digital painting style, dramatic action-poster composition, ultra-clean lines, highly detailed environment, wide 16:9 framing.
+```
+
+</details>
+
 <a id="gpt-image-night-forest-spaceship-landing"></a>
 ### Night Forest Spaceship Landing Concept Art
 
@@ -2430,6 +2489,27 @@ GPT Image 2 · Text-to-image · Source: [@aimikoda on X](https://x.com/aimikoda/
 
 ```text
 Create a cinematic wide 16:9 sci-fi environment concept art scene of a small white utility spaceship landed in a dark ancient forest at night. The ship is parked side-on in a small clearing beside a shallow reflective pool in the foreground, surrounded by towering redwood-like tree trunks, deep black background shadows, ferns, broad-leaf plants, moss, rocks, scattered crates, hoses, and small ground equipment. The ship has a chunky retro-futuristic design like a compact shuttle/helicopter hybrid: rounded rectangular fuselage, white worn paint, panel seams, vents, grime streaks, landing struts, a rear ramp or stairs open on the right, a dark glass cockpit window at the front right, a side engine pod on the left with a glowing warm orange intake, a small top rotor assembly with 4 long dark blades, and a raised oval radar dish on the upper left side. Include exactly 5 prominent ship markings: a large red number "379" on the side, a black block label "E10" near the cockpit, a red angular emblem on the white radar dish, one orange triangular warning decal, and one small black X mark. A small seated pilot or mechanic is barely visible in the cockpit doorway area. Lighting should be dramatic and painterly: moonless night forest with strong warm spotlights hitting the ship and tree trunks, deep green-black shadows, subtle reflections in the water, high contrast, cinematic composition, detailed but not photorealistic, inspired by high-end animated sci-fi concept art. Use 379 as the largest side number, E10 as the black cockpit-side label, dark redwood forest at night, and quiet mysterious landing site. Avoid extra readable text, avoid modern cars or buildings, avoid a bright daytime sky, and keep the ship grounded and partially integrated into the forest clearing.
+```
+
+</details>
+
+<a id="gpt-image-notebook-pop-out-man-pencil-legs"></a>
+### Man stepping out of notebook with pencil legs
+
+<a href="https://x.com/RizwanAly07/status/2066732255532429324"><img src="../../previews/gpt-image-notebook-pop-out-man-pencil-legs.jpg" width="360"></a>
+
+Splitting the figure into two rendering styles, graphite sketch for the legs and realistic 3D for the upper body, makes the pop out illusion read at a glance. Anchoring the scene to a spiral notebook on a wooden desk under warm sunlight gives the sketch shadows and depth.
+
+GPT Image 2 · Text-to-image · Source: [@RizwanAly07 on X](https://x.com/RizwanAly07/status/2066732255532429324) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`optical-illusion`](tags.md#tag-optical-illusion) [`pencil-sketch`](tags.md#tag-pencil-sketch) [`notebook`](tags.md#tag-notebook) [`mixed-media`](tags.md#tag-mixed-media)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A creative 3D illusion artwork of a handsome young man stepping out of a spiral notebook page placed on a wooden desk. The notebook features lined paper with handwritten notes at the top. The character is designed in a semi-realistic 3D cartoon style with neatly styled dark brown hair, expressive eyes, a confident friendly smile, and subtle realistic facial details. He wears a casual pastel-colored t-shirt, a light denim jacket, slim-fit light grey jeans, and clean white sneakers.
+
+The lower half of his body appears as a detailed pencil sketch drawn directly on the notebook page, while his upper body transforms into a realistic 3D figure emerging from the paper, creating a striking pop-out illusion effect. Intricate graphite shading and sketch lines seamlessly blend into the realistic textures of the 3D character. Warm natural sunlight illuminates the wooden desk, casting soft shadows and enhancing depth. Ultra-detailed, photorealistic mixed-media artwork, realistic notebook textures, cinematic lighting, shallow depth of field, highly creative optical illusion, 8K quality, masterpiece composition.
 ```
 
 </details>
@@ -2468,6 +2548,25 @@ GPT Image 2 · Text-to-image · Source: [@kumiko_shiraki on X](https://x.com/kum
 
 ```text
 Minimalist ultra-high-resolution travel sketch poster of Omotesando, Tokyo, on clean white sketchbook paper with subtle paper grain texture. Style: refined pen drawing + loose watercolor sketch. Delicate black ink linework, airy watercolor washes, elegant urban details.
+```
+
+</details>
+
+<a id="gpt-image-paris-autumn-camel-coat-illustration"></a>
+### Woman in camel coat on Parisian street
+
+<a href="https://x.com/heyfatema/status/2057745100365787170"><img src="../../previews/gpt-image-paris-autumn-camel-coat-illustration.jpg" width="360"></a>
+
+The prompt lists each garment with its material and the bag hardware, so the outfit stays exact. It then sets a full body vertical camera with shallow depth of field and warm golden hour light, and closes with a named muted palette to keep the colours consistent.
+
+GPT Image 2 · Text-to-image · Source: [@heyfatema on X](https://x.com/heyfatema/status/2057745100365787170) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`fashion`](tags.md#tag-fashion) [`paris`](tags.md#tag-paris) [`autumn`](tags.md#tag-autumn) [`illustration`](tags.md#tag-illustration)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a long camel wool coat draped open over a black ribbed turtleneck sweater and high-waisted wide-leg cream trousers, holding a quilted tan leather shoulder bag with interlocking CC logo and chain strap in her left hand while her right hand slides into a pocket, short dark brown wavy hair gently lifted by a breeze, pearl stud earrings, natural fresh makeup and a confident serene expression; cinematic shallow depth of field with soft warm golden-hour light, subtle bokeh on Haussmann-style buildings and slow-moving cars in the blurred background, scattered fallen leaves on the pavement; semi-realistic digital painting / fashion illustration style with clean linework, soft gradients, high-detail fabric textures and realistic folds, emphasis on elegant silhouettes and tactile materials, muted autumn palette (camel, cream, black, warm ochre), vertical composition, crisp foreground, gentle film grain and polished finishing.
 ```
 
 </details>

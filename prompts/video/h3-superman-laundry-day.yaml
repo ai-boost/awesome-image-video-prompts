@@ -1,0 +1,30 @@
+id: h3-superman-laundry-day
+title:
+  en: Superman wrestles a laundry pile in a messy apartment
+  zh: 超人在凌乱公寓里与一堆衣服较劲
+model: MiniMax H3
+mode: text-to-video
+tags:
+- comedy
+- superman
+- timed-shots
+- singing
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2085210848272986556
+  credit: 𝐌
+  likes: 56
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Strength04_X/status/2085210848272986556
+notes:
+  en: Timed four-second beats lay out one shot per block, so the sequence stays readable. A small gag escalates from sock on the face to wrong button to bubbles, which takes a serious hero to laughing, and the quoted sung lines set the voice and pacing.
+  zh: 按四秒分段逐个写明镜头，让整段动作顺序清楚。袜子粘脸、误按按钮、泡泡飞出，一个小笑点层层升级，把严肃的英雄带到大笑，引号中的歌词同时设定了声音和节奏。
+prompt: |
+  0:00–0:04 — Wide shot of a messy apartment living room. SUPERMAN (full costume) is standing in front of an open washing machine holding a huge pile of red-and-blue clothes.
+  0:04–0:07 — He starts stuffing the cape into the machine while singing in a deep heroic voice: “Laundry day, laundry day… even heroes have to pay!” and does a dramatic fist pump that makes the clothes fly everywhere.
+  0:07–0:10 — He tries to close the lid, but a red sock keeps floating up and sticking to his face. He peels it off and continues singing louder: “Red socks, blue socks… they never stay in the box!” while spinning in a circle.
+  0:10–0:13 — He accidentally presses the wrong button. The machine starts shaking violently and soap bubbles start flying out. Superman tries to stay serious and stop it with one hand.
+  0:13–0:16 — Bubbles land on his face and the sock sticks again. His serious superhero expression completely cracks. He bursts out laughing while still holding the machine.
+  0:16–0:18 — He freezes mid-pose with bubbles all over him, laughing so hard he has to lean on the washing machine as more clothes keep popping out.

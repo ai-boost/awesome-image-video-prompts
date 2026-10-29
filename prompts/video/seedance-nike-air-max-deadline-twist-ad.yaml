@@ -1,0 +1,55 @@
+id: seedance-nike-air-max-deadline-twist-ad
+title:
+  en: Creative director at night beside Nike Air Max
+  zh: 深夜办公桌旁的女性创意总监与 Nike Air Max 运动鞋
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- advertising
+- sneakers
+- character-consistency
+- timed-beats
+- sound-design
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2096099021152498159
+  credit: SyntheSarah
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/SyntheSarah/status/2096099021152498159
+notes:
+  en: Timed beats with a time code for each segment and the dialogue written inline keep the 30 second spot in order. A fixed rule for the character's face, hair and outfit, plus per beat audio cues for keyboard, footsteps and the music drop, controls continuity and comedy timing.
+  zh: 按时间段划分分镜并写入台词，让 30 秒广告的节奏清晰。用一条固定规则锁定人物的脸、发型和服装，并为键盘声、脚步声和音乐停顿逐段写明音效，控制连贯性与喜剧节奏。
+prompt: |
+  Create a 30-second ultra-photorealistic cinematic commercial for Nike Air Max, combining premium sports advertising, creativity, subtle comedy, and a surprising twist.
+
+  Keep the female creative director’s face, hairstyle, clothing, body proportions, and appearance perfectly consistent throughout.
+
+  0–4s — THE DEADLINE
+  Late-night creative studio. A stylish young female creative director sits surrounded by monitors and unfinished projects. Nike Air Max sneakers sit on her desk. Notifications appear rapidly. She says:
+  “Five projects. One deadline.”
+
+  4–8s — THE IDEA
+  She looks at the Nike Air Max, gets an idea, rapidly creates a campaign on her computer, and hits ENTER. The screen flashes.
+
+  8–16s — THE CAMPAIGN
+  A powerful athlete wearing the same Nike Air Max runs through multiple cinematic environments: a futuristic city at sunrise, rain-soaked streets, and mountains. Show extreme close-ups of the sneakers, realistic Air Max cushioning compression, pavement impacts, water splashes, and seamless match cuts between locations.
+
+  16–21s — DONE
+  Back in the studio, her monitors display polished Nike Air Max campaign visuals. Only seconds have passed. Shocked, she says:
+  “Wait… that's it?”
+
+  21–26s — THE TWIST
+  She relaxes with coffee. A notification appears: CAMPAIGN APPROVED. She smiles. Another appears:
+  CLIENT: “Can we make 10 more?”
+  Her smile disappears. She looks at the camera and says:
+  “Never mind.”
+
+  26–30s — HERO REVEAL
+  Extreme cinematic product shot of Nike Air Max on a dark reflective surface. Dramatic lighting, floating particles, slow camera rotation. Final frame:
+  NIKE — JUST DO IT.
+
+  STYLE: Ultra-photorealistic, premium global sports commercial, cinematic lighting, realistic skin, fabric, reflections, shadows, natural motion, dynamic camera movement, shallow depth of field, subtle slow motion. No cartoon style, distorted anatomy, fake logos, fake text, watermarks, or altered shoe design.
+
+  AUDIO: Keyboard and notification sounds at the start, building into energetic cinematic music during the running sequence. Powerful footsteps, sneaker impacts, water splashes, and bass hits. Music drops for the comedy moment and ends with a strong cinematic hit.

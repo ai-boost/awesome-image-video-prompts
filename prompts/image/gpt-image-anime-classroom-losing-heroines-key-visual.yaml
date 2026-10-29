@@ -1,0 +1,36 @@
+id: gpt-image-anime-classroom-losing-heroines-key-visual
+title:
+  en: Anime classroom key visual with three students and posters
+  zh: 动漫教室主视觉，三名学生与海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- anime
+- classroom
+- key-visual
+- japanese-text
+source:
+  name: '@kiyoshi_shin on X'
+  url: https://x.com/kiyoshi_shin/status/2090292842992488516
+  credit: 新清士@AIコンテンツ開発者
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes every element by count (3 students, 3 desk items, 2 posters, 3 captions) so nothing extra appears, and it sets a desk-height camera angled slightly upward. Writing the exact Japanese title, poster and caption text into the prompt keeps the on-image typography readable.
+  zh: 提示词逐项限定数量（3名学生、3件桌面物品、2张海报、3条手写注释），避免画面出现多余元素；同时指定桌面高度、略微仰拍的机位，并直接写出日文标题、海报和台词，使画面文字保持可读。
+prompt: |
+  Goal: Create a cinematic anime key visual for a high-school romantic comedy titled 負けヒロインが多すぎる!, set in a classroom with gentle daylight and a slightly melancholic but humorous mood.
+
+  Canvas: Wide 16:9 composition, 1200×675 style framing, like a polished TV anime promotional still. Use soft realistic lighting, detailed painted backgrounds, clean character line art, subtle depth of field, and no grain or image noise.
+
+  Layout: Three teenage students sit at desks in the foreground and midground. Count exactly 3 students: 1) left foreground main heroine, 2) center boy, 3) right background girl. The camera is at desk height, angled slightly upward, with large classroom windows behind them showing a bright blue sky, distant school buildings, balcony railings, and green hills. A concrete pillar and wall occupy the right side.
+
+  Subject details: The left foreground girl is the dominant subject: a cheerful teenage girl with deep navy blue shoulder-length messy hair, blue eyes, flushed cheeks, and a teasing smile. She wears a white short-sleeve school shirt with a blue bow and sits lazily with her cheek resting on one hand, leaning toward the viewer. In front of her are exactly 3 desk items: a pink lunch box, a pink-and-white cloth, and a small yogurt drink carton with a straw labeled in Japanese. The center boy is a nervous teenage boy with short dark brown hair, wide uncertain eyes, a sweat drop, a white school shirt, and a green tie; he looks sideways toward the blue-haired girl as if thinking things are starting again. The right background girl is a withdrawn teenage girl with dark reddish-purple short bobbed hair and hairpins, wearing a white school shirt; she sits apart near the wall, half-hidden behind a phone or small book, looking annoyed and pretending not to care. On the right foreground desk place a dark navy school bag.
+
+  Visible text and graphic elements: Include exactly 1 main title cluster in the upper left with the large Japanese title 負けヒロインが多すぎる!, small romanization “MAKEINE,” and small English subtitle “Too Many Losing Heroines!” beneath it. Include exactly 2 wall posters on the right: one larger poster on the pillar reading 負けても、きっと、青春は、終わらない。 with the small English subtitle “Too Many Losing Heroines!”, and one smaller tilted poster in the upper right reading Japanese handwriting that means “Even so, this feeling is surely not losing.” Include exactly 3 handwritten white annotation captions with curved arrows or dotted trails: near the left girl, “やっぱ私は負けヒロインなんだよね〜”; near the boy, “また始まった…”; near the right girl, “別に気にしてない”.
+
+  Visual style: Modern Japanese anime film still, delicate shadows, cool blue classroom atmosphere, warm skin tones, expressive faces, natural hair highlights, detailed desks and windows, crisp but painterly background. The mood should feel like a promotional scene from a school comedy-drama about “losing heroines.”
+
+  Constraints: Keep the composition clean and cinematic, preserve exactly the counted characters, posters, desk items, and annotation captions, avoid extra characters, avoid extra random text, avoid watermark or logo beyond the specified title graphics.

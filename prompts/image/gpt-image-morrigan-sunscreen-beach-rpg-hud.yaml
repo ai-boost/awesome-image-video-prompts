@@ -1,0 +1,24 @@
+id: gpt-image-morrigan-sunscreen-beach-rpg-hud
+title:
+  en: Morrigan asks for sunscreen help in RPG HUD screenshot
+  zh: 莫莉甘在RPG界面截图中请求帮忙涂防晒霜
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- game-screenshot
+- hud
+- first-person
+- 3d-render
+source:
+  name: '@underwoodxie96 on X'
+  url: https://x.com/underwoodxie96/status/2097587863139537262
+  credit: underwood
+  likes: 115
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+notes:
+  en: The prompt fixes a first person camera and lists every HUD element to show, which makes the frame read as a playable game capture. Naming the character and the scene together keeps Morrigan's design and the sunscreen action consistent.
+  zh: 提示词限定第一人称视角，并列出所有需要出现的界面元素（小地图、任务、状态条、字幕），使画面像可玩的游戏截图。同时写明角色和场景，让人物造型与涂防晒的动作保持一致。
+prompt: |
+  Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.

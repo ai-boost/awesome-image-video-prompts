@@ -1,0 +1,43 @@
+id: nano-banana-white-halter-dress-keor-hem-portrait
+title:
+  en: Woman crouched in white halter dress with Keor embroidery
+  zh: 白色吊带裙女子蹲坐，裙边绣有Keor字样
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- studio-portrait
+- glamour
+- embroidered-text
+- dramatic-lighting
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2064728849703748030
+  credit: KeorUnreal
+  likes: 156
+  captured: '2026-10-29'
+  posted: '2026-06-10'
+notes:
+  en: The JSON splits the scene into subject, clothing, environment and an additions block, and the full_prompt line restates it in one sentence. Placing the Keor text on the hem in fine thread keeps the added detail small and believable.
+  zh: 提示词把主体、服装、环境和附加要求分开写，末尾的 full_prompt 再用一句话概括全部内容。把 Keor 文字放在裙摆并用细线绣制，使新增细节小而自然。
+prompt: |
+  {
+    "image_description": "A highly detailed, photorealistic studio portrait of a stunning young woman with long, wavy black hair, fair skin with natural freckles, and striking blue-green eyes. She sits on the floor against a solid black background in a dramatic pose with knees raised and legs apart, one hand running through her hair. She wears a form-fitting white short dress with a criss-cross halter neckline and glossy white high-heeled shoes. Her expression is confident and slightly vulnerable as she gazes directly at the camera.",
+    "composition": "Low-angle medium full-body studio shot focusing on her pose, figure, and facial expression. Dramatic, high-contrast studio lighting with soft highlights on skin, hair, and the glossy shoes, creating a sensual and elegant atmosphere.",
+    "details": {
+      "woman": "Beautiful woman in her mid-20s, slim and toned build, long wavy black hair, expressive eyes, natural makeup with glossy lips.",
+      "clothing": "Form-fitting white dress with criss-cross halter neckline, glossy white high-heeled shoes.",
+      "environment": "Minimalist black studio backdrop.",
+      "props": "None additional."
+    },
+    "modifications": {
+      "additions": "Add a small, elegant embroidered sign reading 'Keor' in delicate cursive script on the visible border or hem of her white dress. Place it realistically along the lower hem, neckline edge, or side seam using fine white or metallic thread that blends naturally as a subtle, high-end custom detail."
+    },
+    "style": "Photorealistic, high-resolution glamour portrait photography, dramatic studio lighting, sharp focus on the subject, realistic skin texture, hair volume, fabric drape on the white dress, and glossy shoe reflections, confident and seductive mood.",
+    "technical": {
+      "resolution": "8K",
+      "aspect_ratio": "portrait",
+      "quality": "Extremely detailed wavy hair strands, skin texture with natural freckles, realistic white fabric folds and sheen, glossy white heels, and subtle embroidered 'Keor' sign."
+    },
+    "full_prompt": "Photorealistic studio portrait of a beautiful woman with long black hair wearing a form-fitting short white halter dress, sitting on the floor with knees raised and hand in hair, dramatic black background, confident gaze, add subtle embroidered 'Keor' on the border hem of the white dress --ar 2:3 --v 6 --q 2 --stylize 250"
+  }

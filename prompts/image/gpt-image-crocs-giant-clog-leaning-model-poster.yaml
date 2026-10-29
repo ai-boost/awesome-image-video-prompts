@@ -1,0 +1,29 @@
+id: gpt-image-crocs-giant-clog-leaning-model-poster
+title:
+  en: Model leaning on giant white Crocs clog poster
+  zh: 模特倚靠巨型白色 Crocs 洞洞鞋海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- poster
+- surrealism
+- typography
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2047629543608025121
+  credit: Heisenberg
+  captured: '2026-10-29'
+  posted: '2026-04-24'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'Scale contrast carries the concept: an oversized clog becomes the model''s backrest, and a massive condensed wordmark behind both is partly hidden by them to create depth. Exact copy for the corner credit and tagline, plus a 3:4 ratio, keeps the output layout-ready.'
+  zh: 巨大鞋子与模特形成尺度对比，鞋子充当靠背，身后超大窄体 CROCS 字标被人物和鞋子部分遮挡，营造纵深。提示词精确给出角落署名、标语文字和 3:4 比例，输出可直接用于海报排版。
+prompt: |
+  A high-fashion surrealist advertising poster for Crocs. The scene is set in a minimalist, monochrome light blue studio with a semi-reflective floor. 
+  The central focus is an oversized, giant white Croc clog positioned on its heel at a diagonal angle, serving as a backrest. A fashion model with long dark hair, dressed in a clean, all-white coordinated sweatshirt and wide-leg trousers, leans her entire back against the giant shoe in a relaxed, leaning posture. She is facing right in profile, looking ahead with a serene expression, and wearing standard-sized white Crocs.
+  In the background, the word "CROCS" is written in massive, bold, white condensed sans-serif typography, partially occluded by the giant shoe and the model to create a sense of depth. At the  top right, "Designed with ChatGPT" 
+  At the bottom center, a white sans-serif tagline reads: "Made for comfort, worn for confidence. Because life feels better when your feet stop complaining." The lighting is soft, cool, and even, casting gentle shadows and a soft reflection of the subjects on the glossy blue floor. The overall aesthetic is clean, modern, and high-concept.
+
+  Make the aspect ratio 3:4

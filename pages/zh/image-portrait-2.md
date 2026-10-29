@@ -1,6 +1,372 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 202 条 · [1](image-portrait.md) · **2**
+[返回目录](../../README_zh.md) · 全部 217 条 · [1](image-portrait.md) · **2**
+
+<a id="gpt-image-realistic-big-head-miniature-pinwheel-portrait"></a>
+### 手持风车的写实大头小身人像
+
+<a href="https://x.com/oggii_0/status/2114231078843973707"><img src="../../previews/gpt-image-realistic-big-head-miniature-pinwheel-portrait.jpg" width="360"></a>
+
+用头部占身高比例和肩宽占头宽比例等数值锁定夸张程度，再分段固定姿势、五官、服装和场景，让结果保持真实照片质感。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2114231078843973707) · 70 赞，统计于 2026-10-29
+
+[`big-head`](tags.md#tag-big-head) [`miniature`](tags.md#tag-miniature) [`photo-edit`](tags.md#tag-photo-edit) [`realistic`](tags.md#tag-realistic) [`chibi`](tags.md#tag-chibi)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn any image into realistic chibi-style portrait using Chat GPT Image 2.5
+
+Prompt: Task: Strictly edit the uploaded original photograph to transform the person or animal into a hyper-realistic, extremely exaggerated big-head miniature figure, matching the visual style of the provided reference image.
+
+Highest Priority: Transform the head-to-body proportions while preserving the subject's recognizable identity, natural facial features, original expression, hairstyle, clothing, accessories, pose, and overall photographic realism. The final result must resemble a real photograph, not a cartoon or CGI creation.
+
+1. Head-to-Body Proportions (Highest Priority)
+
+- Giant Head: Dramatically enlarge the entire head, including hair, hats, ears, and other existing head accessories. The head should dominate the figure, occupying approximately 65–75% of the total visible silhouette height in a full-body composition.
+- Extremely Narrow Shoulders: Reduce shoulder width to approximately 40–50% of the head width. Create a tiny neck and narrow shoulder structure that transitions naturally into the miniature torso.
+- Miniature Body: Compress the torso, waist, hips, and limbs into an extremely small body beneath the oversized head. The torso should be short and narrow, with realistic anatomical connections.
+- Miniature Arms and Hands: Reduce the arms, palms, and fingers proportionally. Keep the arms naturally close to the body, preserving the original gestures and hand positions.
+- Tiny Legs and Feet: Dramatically shorten and narrow the legs, feet, and shoes while preserving the original stance, footwear design, and points of contact with the ground.
+- Strong Proportional Contrast: The head must be unmistakably oversized relative to the tiny body. Preserve the subject's original clothing design while naturally adapting its fit to the miniature proportions.
+
+The transformation must create an extreme, visually striking big-head miniature effect without making the subject look like a toy, doll, or digitally assembled figure.
+
+2. Pose and Actions (Strictly Preserve)
+
+Preserve the original subject's exact pose, body orientation, gestures, facial expression, gaze direction, and interactions with the environment.
+
+- If standing, keep the subject standing in the same position.
+- If sitting, crouching, leaning, kneeling, or lying down, preserve that exact posture.
+- Retain the original hand positions, held objects, arm placement, leg orientation, and contact points.
+- Maintain the original head tilt and gaze direction unless a slight anatomical adjustment is necessary for a seamless transformation.
+- Keep the subject's original framing. For full-body photographs, preserve the entire figure. For selfies, close-ups, and partial-body images, do not invent missing body parts or expand the frame unnecessarily.
+
+The miniature body must adapt to the original pose rather than forcing the subject into a new pose.
+
+3. Facial Features, Hair, and Clothing (Fully Preserve)
+
+- Identity: Preserve the same recognizable person or animal from the original image. Do not replace, reinterpret, or redesign the subject.
+- Face: Retain the original facial structure, eye shape, nose, lips, cheeks, skin tone, expression, and natural facial proportions. Do not apply beauty filters, artificial eye enlargement, face reshaping, or excessive skin smoothing.
+- Hair: Preserve the original hairstyle, hair color, hairline, texture, volume, and distinctive strands. Scale the hair naturally with the enlarged head.
+- Clothing: Preserve the exact original garments, colors, materials, prints, patterns, logos, folds, and textures. Adapt their dimensions to fit the miniature body without changing their design.
+- Accessories: Retain all original jewelry, glasses, hats, bags, watches, and other visible accessories, resizing them only when necessary to fit the transformed proportions.
+- Animals: Preserve the original species, recognizable features, fur patterns, ears, eyes, and expression. Apply the same oversized-head and miniature-body transformation without changing the animal's identity.
+
+4. Scene and Composition (Fully Preserve)
+
+Use the uploaded photograph as the sole reference for the subject and environment.
+
+- Preserve the original background, architecture, furniture, plants, ground surface, and environmental objects.
+- Maintain the original camera angle, perspective, framing, subject placement, composition, and aspect ratio.
+- Keep the surrounding environment at its original scale. The subject's altered proportions should create a striking contrast with the realistic environment.
+- Preserve the original lighting direction, color tones, shadows, reflections, and depth of field.
+- Ensure the miniature figure remains naturally grounded in the scene, with realistic contact shadows beneath the feet and physically consistent lighting across the enlarged head and reduced body.
+- Do not remove, replace, or introduce environmental elements unless a minor reconstruction is essential to repair an editing artifact.
+
+5. Photographic Realism and Visual Quality
+
+The entire image must retain the appearance of an authentic, high-resolution photograph.
+
+- Realistic skin pores, fine facial details, and natural skin texture.
+- Individual hair strands with believable highlights and shadows.
+- Authentic fabric weave, clothing folds, and accessory details.
+- Natural lighting, physically accurate shadows, and consistent reflections.
+- Seamless transitions between the enlarged head, neck, and miniature body.
+- Realistic anatomy, natural edges, and coherent perspective.
+- Subtle photographic imperfections consistent with the original image.
+
+The oversized head must remain fully photorealistic, with the original person's natural facial anatomy and expression intact. The miniature body must look like a physically plausible part of the same person.
+
+6. Strictly Prohibited
+
+- Cartoon, anime, illustration, or stylized 3D figurine aesthetics.
+- Plastic skin, toy-like materials, doll faces, or artificial beauty enhancements.
+- Changing the subject's identity, facial features, expression, hairstyle, or clothing design.
+- Normal adult shoulder width or a body that appears too large relative to the head.
+- Oversized hands, fingers, feet, or shoes.
+- Disconnected heads, visible neck seams, floating limbs, malformed joints, or duplicated body parts.
+- Altered poses, invented gestures, or changed interactions with the environment.
+- Unnecessary background replacement, camera-angle changes, or aspect-ratio changes.
+- Unnatural shadows, inconsistent lighting, visible compositing artifacts, text, watermarks, or interface elements.
+
+Final Output
+
+Transform the original photograph into an ultra-photorealistic big-head miniature portrait with a dramatically enlarged head, extremely narrow shoulders, a tiny compressed body, and proportionally miniature limbs.
+
+Preserve the original subject's identity, expression, pose, clothing, accessories, background, and photographic characteristics as faithfully as possible. The exaggerated head-to-body ratio should be the defining visual transformation, producing the same realistic, charming, oversized-head aesthetic as the reference image.
+
+Editing Rule: Change the subject's proportions only. Preserve everything else from the original photograph.
+```
+
+</details>
+
+<a id="nano-banana-man-beside-anime-self-graffiti-mural"></a>
+### 男子站在自己动漫形象的涂鸦墙前
+
+<a href="https://x.com/Minahil42298354/status/2032956520057414135"><img src="../../previews/nano-banana-man-beside-anime-self-graffiti-mural.jpg" width="360"></a>
+
+写实前景人物与同一人物的赛璐璐漫画风壁画同框，形成真人与动漫的对照。提示词点明壁画配色、片假名文字和涂鸦签名，再用脏旧的小巷地面收住前景，让墙面鲜艳而前景保持照片质感。
+
+Nano Banana 2 · 文生图 · 出处: [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2032956520057414135) · 70 赞，统计于 2026-10-29
+
+[`graffiti`](tags.md#tag-graffiti) [`anime-mural`](tags.md#tag-anime-mural) [`mixed-style`](tags.md#tag-mixed-style) [`street-art`](tags.md#tag-street-art) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A medium shot of a real-life man with short dark hair and a beard, wearing a black hoodie, standing in a pensive pose with his fingers to his temple. He is positioned in front of a massive, vibrant graffiti mural on a concrete wall. The mural depicts an anime-style version of the same man in a dynamic action pose, holding a spray paint can. The art style is bold cel-shaded manga with thick outlines, featuring Japanese katakana text, bright orange and purple splashes, and "
+http://
+YAPPER.SO" tags. Hyper-realistic foreground, gritty urban alleyway floor with scattered paint cans.
+```
+
+</details>
+
+<a id="nano-banana-concrete-passage-burgundy-fashion-portrait"></a>
+### 复古混凝土廊道中的酒红色时装人像
+
+<a href="https://x.com/ChillaiKalan__/status/2114593231640170868"><img src="../../previews/nano-banana-concrete-passage-burgundy-fashion-portrait.jpg" width="360"></a>
+
+提示词先锁定参考图的面部身份，再按颜色和材质逐项列出服装、配饰与妆容细节。50mm 镜头和傍晚暖光营造出自然的杂志级景深。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2114593231640170868) · 69 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`full-body`](tags.md#tag-full-body) [`reference-photo`](tags.md#tag-reference-photo) [`realistic`](tags.md#tag-realistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the reference photo and keep her original face identity completely unchanged. Create an ultra-realistic full-body fashion portrait in a quiet vintage concrete passage with aged textured walls, narrow architectural shadows, and warm late-afternoon light.
+She wears a fitted burgundy satin blouse, charcoal-gray high-waisted wide-leg trousers, and oversized dark olive leather jacket. Add chunky black platform ankle boots with a sculptural heel. Her hair is long, sleek, and softly waved with wispy curtain bangs.
+Makeup luminous matte skin, taupe smoky eyes, subtle brown eyeliner, softly sculpted cheeks, muted berry blush, and deep rose-brown glossy lips. Add a vintage watch, layered silver necklaces, small hoop earrings, and a structured mini shoulder bag. Dark burgundy nails with tiny chrome accents. Fashion editorial realism, 50mm lens, natural depth of field.Use the reference photo and keep her original face identity completely unchanged. Create an ultra-realistic full-body fashion portrait in a quiet vintage concrete passage with aged textured walls, narrow architectural shadows, and warm late-afternoon light.
+She wears a fitted burgundy satin blouse, charcoal-gray high-waisted wide-leg trousers, and oversized dark olive leather jacket. Add chunky black platform ankle boots with a sculptural heel. Her hair is long, sleek, and softly waved with wispy curtain bangs.
+Makeup luminous matte skin, taupe smoky eyes, subtle brown eyeliner, softly sculpted cheeks, muted berry blush, and deep rose-brown glossy lips. Add a vintage watch, layered silver necklaces, small hoop earrings, and a structured mini shoulder bag. Dark burgundy nails with tiny chrome accents. Fashion editorial realism, 50mm lens, natural depth of field.
+```
+
+</details>
+
+<a id="nano-banana-streetwear-leather-bomber-portrait"></a>
+### 皮质飞行夹克全身街头时尚人像
+
+<a href="https://x.com/weiinberg/status/2083776018763157835"><img src="../../previews/nano-banana-streetwear-leather-bomber-portrait.jpg" width="360"></a>
+
+用镜头焦段、光圈、光线和 4:5 画幅等具体参数定义画面，营造大片质感。按顺序逐层列出服装（夹克、连帽衫、长裤、鞋），让造型清晰可辨。
+
+Nano Banana 2 · 上传图改图 · 出处: [@weiinberg on X](https://x.com/weiinberg/status/2083776018763157835) · 69 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`streetwear`](tags.md#tag-streetwear) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+cartoon, anime, illustration, CGI, low quality, blurry, oversaturated, extra limbs, distorted body, deformed hands, watermark, text, logo, cropped, duplicate person, noisy background
+Camera setting:
+* Lens: 85mm
+* Aperture: f/2.8
+* Lighting: Soft overcast daylight
+* Aspect Ratio: 4:5 (Instagram portrait)
+* Style: Editorial, luxury streetwear, photorealistic
+* Quality: Ultra detailed, 8K
+If you’re replacing the person with your
+```
+
+</details>
+
+<a id="nano-banana-double-breasted-suit-stone-steps-menswear"></a>
+### 石阶上的炭灰色双排扣西装男装人像
+
+<a href="https://x.com/pictsbyai/status/2112458298603479350"><img src="../../previews/nano-banana-double-breasted-suit-stone-steps-menswear.jpg" width="360"></a>
+
+提示词按姿势、服装、发型、背景、光线、镜头的顺序展开，每个元素在相机参数之前就已锁定。镜头、光圈、快门、ISO 的具体数值，加上点明阴影与高光的位置，让画面接近编辑摄影。
+
+Nano Banana 2.1 · 文生图 · 出处: [@pictsbyai on X](https://x.com/pictsbyai/status/2112458298603479350) · 68 赞，统计于 2026-10-28
+
+[`menswear`](tags.md#tag-menswear) [`editorial`](tags.md#tag-editorial) [`suit`](tags.md#tag-suit) [`street-style`](tags.md#tag-street-style) [`85mm`](tags.md#tag-85mm)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A confident handsome male in his late twenties or early thirties stands in a classic 45-degree turn with his weight comfortably shifted and shoulders level. He wears a meticulously tailored charcoal grey double-breasted suit, paired with a crisp white dress shirt, a dark patterned tie, and a precise white pocket square. His thick hair is scissor-cut with a classic taper and a deep side part roughly an inch and a half from the right, left three to four inches long on top to showcase a naturally wavy texture. The styling eschews artificial smoothness in favor of organic volume and movement, revealing natural imperfections, slight flyaways, and varying wave directions held by a low-shine, natural-finish paste. His candid expression features relaxed eyebrows and a softly closed mouth as his eyes gaze away toward the open negative space on the left side of the frame. His left arm extends downward with the fingers of his hand curled naturally and organically inward, exposing a silver-tone dress watch with a light dial peeking from beneath his stark white shirt cuff, while his right arm bends cleanly at the elbow, tucked deeply into his trouser pocket. He is framed straight-on outdoors against a medium-depth urban backdrop, standing upon solid, dark gray horizontal stone steps. To his left in the midground, a vintage wrought-iron door features black painted metal with decorative circular and scrolling motifs, softly out of focus. Dominating the right background is a weathered architectural stone pillar crafted from raw carved masonry. This warm taupe-gray and beige stone wall bears the authentic marks of old city buildings, showcasing a matte surface textured with horizontal carved ridges, vertical corner framing, subtle water staining, natural pitting, and patchy accumulations of soot. The scene is enveloped in a sophisticated, timeless urban elegance, illuminated by a single soft, diffused natural light source cascading from above. This moderate-intensity overhead lighting creates an asymmetrically balanced, medium-contrast palette, casting soft-edged, gray shadows subtly under his chin, beneath the structured suit lapels, and deep within the architectural recesses of the stone building. Specular highlights are beautifully preserved across his forehead, the bridge of his nose, his cheekbone, and the textured crests of his hair waves, while a gentle ambient fill maintains the rich charcoal, warm stone, black, and crisp white dominant tones. Captured as a tack-sharp digital menswear editorial photograph influenced by classic Pitti Uomo street style, the cinematic portrait utilizes an 85mm lens at an f/2.8 aperture and 1/250s shutter speed at ISO 100 for a realistic medium depth of field. Post-processing enhances the composition through a subtle warm neutral color grade, deliberately desaturated background elements to isolate the subject, gentle dodging and burning to define the jawline and structured suit lapels, and a delicate layer of film grain, all seamlessly framed in a 9:16 aspect ratio.
+```
+
+</details>
+
+<a id="nano-banana-golden-hour-coastal-portrait-pair"></a>
+### 海岸金色时刻的男性特写肖像
+
+<a href="https://x.com/ozansihay/status/2107565033186083128"><img src="../../previews/nano-banana-golden-hour-coastal-portrait-pair.jpg" width="360"></a>
+
+一对提示词沿用完全相同的构图、光线方向和背景描述，让男女肖像保持一致。脸部占比、眼睛位置、85mm f/1.4 镜头以及逆光加天空补光的细节，营造出电影剧照质感。
+
+Nano Banana 2.1 · 文生图 · 出处: [@ozansihay on X](https://x.com/ozansihay/status/2107565033186083128) · 68 赞，统计于 2026-10-28
+
+[`golden-hour`](tags.md#tag-golden-hour) [`portrait`](tags.md#tag-portrait) [`film-still`](tags.md#tag-film-still) [`backlight`](tags.md#tag-backlight) [`photoreal`](tags.md#tag-photoreal)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Woman
+Cinematic outdoor close-up at golden hour of a beautiful woman in her late 20s with Mediterranean features, warm olive skin, dark brown eyes catching the low sun, soft freckles, natural slightly parted lips, loose dark wavy hair lifted by a light breeze across her right cheek. Head-and-shoulders, face filling about 60% of the frame, eyes on the upper third, body turned three-quarter toward camera-left while she looks just past the lens. Real sunset backlight from behind-right wrapping her hair in warm rim glow, soft open-shade fill on the face from the sky, long gentle shadows. Background: softly blurred coastal landscape with amber sky, distant hills and a hint of sea sparkle, empty of people and props. Shot like an arthouse film still on 85mm f/1.4, creamy bokeh, fine film grain, natural skin texture, warm gold highlights against cool blue shadow pockets, photoreal, no flash look, no plastic skin, no text.
+
+Man
+Cinematic outdoor close-up at golden hour of a handsome man in his early 30s, strong jaw under short dark stubble, hazel eyes catching the low sun, messy black hair with a few wind-blown strands on the forehead, natural lips slightly closed. Identical framing to the female portrait: head-and-shoulders, face filling about 60% of the frame, eyes on the upper third, body turned three-quarter toward camera-left while he looks just past the lens. Real sunset backlight from behind-right wrapping his hair and shoulders in warm rim glow, soft open-shade fill on the face from the sky, long gentle shadows. Background: the same softly blurred coastal landscape with amber sky, distant hills and a hint of sea sparkle, empty of people and props. Shot like an arthouse film still on 85mm f/1.4, creamy bokeh, fine film grain, visible pores and microtexture, warm gold highlights against cool blue shadow pockets, photoreal, no flash look, no plastic skin, no text.
+```
+
+</details>
+
+<a id="nano-banana-seated-man-chesterfield-sofa-lamp"></a>
+### 男子坐在皮质切斯特菲尔德沙发上，旁边是螺旋木柱落地灯
+
+<a href="https://x.com/pictsbyai/status/2071140707377512953"><img src="../../previews/nano-banana-seated-man-chesterfield-sofa-lamp.jpg" width="360"></a>
+
+提示词逐项指定服装、配饰、双手姿势和落地灯位置，让画面与描述一一对应。50毫米镜头、f/2.8光圈和混合正面光则确定了写实摄影的质感。
+
+Nano Banana 2 · 文生图 · 出处: [@pictsbyai on X](https://x.com/pictsbyai/status/2071140707377512953) · 68 赞，统计于 2026-10-29
+
+[`portrait`](tags.md#tag-portrait) [`lifestyle`](tags.md#tag-lifestyle) [`interior`](tags.md#tag-interior) [`leather-sofa`](tags.md#tag-leather-sofa)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A young man with dark hair and a beard sits in the center of the frame, angled at a 45-degree turn and leaning slightly to his right with casually tilted shoulders. His expression is intentionally posed and serious, featuring relaxed eyebrows, a neutral mouth with no trace of a smile, and eyes thoughtfully looking away. He is dressed in a black v-neck t-shirt and white trousers, accessorized with a gold digital watch, a silver pendant necklace, and a silver bracelet. His left hand rests softly on his thigh in a naturally relaxed state, while his right hand is organically draped over the back of the furniture with a comfortably loose wrist. He is seated on a dominant, vintage brown button-tufted leather Chesterfield sofa that shows slight, authentic wear in the foreground. Situated in the midground to his right is a vintage floor lamp featuring a beige fringed shade and a distinctly carved spiral wood stand. The indoor setting utilizes a shallow spatial depth that meets a rough, matte raw concrete wall, highly detailed with patchy cool gray tones, horizontal lines, realistic pitting, and industrial cracks. The calm, relaxed indoor lifestyle atmosphere is illuminated by soft, moderately directional mixed front lighting with ambient fill from multiple sources, blending neutral light with a warm practical glow. A complementary color palette of cool grays, warm browns, deep blacks, and light beiges is balanced by medium-length, soft-edged gray shadows that pool naturally under the subject and across the textured leather, paired with subtle specular highlights gently catching on his face and the sofa's surface. Captured straight on as an organically styled, realistic digital photograph using a 50mm lens at f/2.8, the composition blends contemporary lifestyle aesthetics with industrial interior design, utilizing a medium depth of field and slightly soft overall sharpness with zero grain, finished with subtle contrast enhancements and meticulously preserved shadows, framed naturally in a 1:1 aspect ratio.
+```
+
+</details>
+
+<a id="gpt-image-traveler-sunset-chest-portal-ravens"></a>
+### 旅人胸口藏着日落风景与乌鸦
+
+<a href="https://x.com/AiWithTariq/status/2103695256445477234"><img src="../../previews/gpt-image-traveler-sunset-chest-portal-ravens.jpg" width="360"></a>
+
+把微缩风景融入躯干、外套和背包，让人像与场景成为一体的双重曝光。冷灰蓝天空对比熔金般的琥珀色核心，再配合低角度 85mm 镜头和画面两侧的乌鸦，增强反差与纵深。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@AiWithTariq on X](https://x.com/AiWithTariq/status/2103695256445477234) · 67 赞，统计于 2026-10-28
+
+[`double-exposure`](tags.md#tag-double-exposure) [`selfie`](tags.md#tag-selfie) [`surreal`](tags.md#tag-surreal) [`miniature-world`](tags.md#tag-miniature-world) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A breathtaking surreal double-exposure fine-art photograph and masterwork cinematic composite featuring an adventurous, reflective traveler with the uploaded face as reference, depicted in a dramatic low-angle three-quarter profile with their neck gently extended and gaze cast reverently upward toward the sky. The character is dressed in a travel-worn, dusty khaki button-down utility shirt with rolled sleeves and textured denim trousers, carrying a heavy weathered expedition backpack. Seamlessly integrated and blending directly into the wanderer’s torso, jacket, and pack is an enchanting, luminous miniature landscape centered around a colossal, incandescent golden sunset that bathes the scene in warm radiant amber brilliance. Within this surreal chest portal, a winding path of stone steps ascends toward the blazing horizon, flanked by the dark silhouette of an ancient acacia tree and fiery autumn groves of deep orange and crimson foliage that disintegrate into floating embers, billowing dust clouds, and miniature flying bird silhouettes drifting into the open air. Soaring through the surrounding atmosphere are two photorealistic, glossy black ravens with meticulously rendered wing feathers and sharp talons, one carving dynamically across the left foreground and the other descending from the upper right amid ethereal tendrils of gray smoke. The backdrop consists of expansive, muted slate-blue overcast clouds with soft diffused daylight, establishing a poignant color temperature juxtaposition between the cool, cinematic ambient exterior and the molten, hyper-saturated warm glow emanating from the core. Captured from a low-angle medium shot with a prime 85mm portrait lens, deep depth of field rendering crisp tactile details from the rugged cotton weave and feathered edges to the dynamic particulate clouds, featuring high-contrast cinematic color grading, balanced chiaroscuro lighting, and poetic surrealist visual storytelling.
+```
+
+</details>
+
+<a id="nano-banana-brutalist-porthole-stairwell-bw-portrait"></a>
+### 圆形洞口中的混凝土楼梯黑白人像
+
+<a href="https://x.com/ChillaiKalan__/status/2107688620081738000"><img src="../../previews/nano-banana-brutalist-porthole-stairwell-bw-portrait.jpg" width="360"></a>
+
+平涂炭黑背景上的圆形镜口加细白边框，构图一目了然。强烈的直射光、压暗的黑部，以及 85mm f/1.4 浅景深，让人脸成为画面最锐利的焦点。
+
+Nano Banana 2.1 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2107688620081738000) · 67 赞，统计于 2026-10-29
+
+[`black-and-white`](tags.md#tag-black-and-white) [`brutalist`](tags.md#tag-brutalist) [`architectural-portrait`](tags.md#tag-architectural-portrait) [`high-contrast`](tags.md#tag-high-contrast) [`porthole-frame`](tags.md#tag-porthole-frame)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Black and white fine-art architectural portrait photography, vertical 4:5 portrait format. A perfectly circular porthole-shaped cutout reveals a brutalist concrete stairwell, while everything outside the circle is flat, solid near-black charcoal (#161616), with a thin crisp white rectangular border line inset a few millimeters from the frame edge. The circle sits slightly above center, with the thick, weathered concrete ring edge visible on the left side.
+
+Inside the circle: wide concrete steps rising diagonally from left to right, a slim dark metal handrail running parallel along the diagonal, a large curved concrete wall on the right catching a hard shaft of direct sunlight that creates a bright white diagonal shape, a dark curved ceiling overhang at the top right, and rough concrete texture on the left wall. Extremely high contrast, deep crushed blacks, bright highlights, strong geometric lines and curves.
+
+A lone man is walking up the stairs in the lower right of the circle, caught mid-step, one hand lightly sliding along the metal handrail. His body is angled up the staircase, but his head is turned and he looks directly into the camera lens, making strong eye contact with the viewer. He is clearly visible, not a silhouette: bareheaded with short dark hair, no hat, no cap, wearing a dark long coat, face lit by the sunbeam on one side, with a calm, serious expression. His face is the sharpest point in the image, with crisp eyes, skin texture, and defined jawline, in razor-sharp focus.
+
+Shot on an 85mm f/1.4 portrait lens, shallow depth of field, the stairs, handrail, and concrete walls behind and in front of him fall into a soft, creamy blur, with gentle compression of the stairwell geometry. Moody, minimalist, cinematic, fine film grain, no color, no text.
+```
+
+</details>
+
+<a id="nano-banana-monochrome-editorial-lounge-portrait"></a>
+### 黑白编辑风格酒店休息室男士肖像
+
+<a href="https://x.com/pictsbyai/status/2075259938234913038"><img src="../../previews/nano-banana-monochrome-editorial-lounge-portrait.jpg" width="360"></a>
+
+明确的黑白色调、50mm 镜头和浅景深设定了编辑时尚的质感。前景大理石桌、双手拽领口的动作和中景棕榈等具体道具，形成清晰的前中后景层次。
+
+Nano Banana 2 · 文生图 · 出处: [@pictsbyai on X](https://x.com/pictsbyai/status/2075259938234913038) · 67 赞，统计于 2026-10-29
+
+[`portrait`](tags.md#tag-portrait) [`monochrome`](tags.md#tag-monochrome) [`editorial`](tags.md#tag-editorial) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back with a natural side part, displaying subtle texture where individual strands catch the soft ambient light. He is dressed in a sharply tailored dark suit jacket accented by a dark patterned pocket square, layered over a crisp white dress shirt left casually unbuttoned at the collar. Sitting in a relaxed posture, his hands are raised to mid-chest, gently gripping the inner edges of his jacket lapels in a subtle adjustment, revealing the glint of a metallic wristwatch on his left wrist. He is seated in a plush, curved light-colored upholstered armchair pulled up to a smooth, veined white marble table in the immediate foreground, which holds a closed black leather notebook, a pen, a pair of folded dark-rimmed eyeglasses, and the partial view of a glowing ribbed glass table lamp. Behind him in the midground, the textured, arching fronds of a large indoor palm tree frame his head, while other patrons blur slightly into the ambiance, including a man seated to the left and a blonde woman relaxing at a softly lit table to the right. The background extends into a grand, high-ceilinged interior lounge featuring tall, dramatic dark vertical drapery, imposing architectural columns, and a softly illuminated arched glass display case. Rendered entirely in a rich black-and-white monochrome palette, the lighting is soft yet directional, carving out precise specular highlights on the man's cheekbones, his watch, and the polished marble surface, while deep, velvety shadows gather in the heavy folds of his suit, the curtain pleats, and the distant recesses of the room to forge a moody, luxurious atmosphere. Captured with a classic 50mm lens for an editorial fashion aesthetic, utilizing a shallow depth of field to isolate the razor-sharp subject against the softly blurred environment, processed with a high-contrast tonal range and subtle photographic film grain, framed in a 4:5 aspect ratio.
+```
+
+</details>
+
+<a id="gpt-image-double-exposure-travel-silhouette-portrait"></a>
+### 欧洲老城双重曝光旅行人像
+
+<a href="https://x.com/Arina_hoqe/status/2104060103704150362"><img src="../../previews/gpt-image-double-exposure-travel-silhouette-portrait.jpg" width="360"></a>
+
+大幅侧脸剪影内嵌目的地风景，前景再放同一位女性行走，参考图同时驱动两个图层。酒红、藏青与象牙白水彩泼溅配干净白底把画面统一起来，结尾的否定清单用来守住人物身份和皮肤质感。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Arina_hoqe on X](https://x.com/Arina_hoqe/status/2104060103704150362) · 65 赞，统计于 2026-10-29
+
+[`double-exposure`](tags.md#tag-double-exposure) [`travel`](tags.md#tag-travel) [`watercolor`](tags.md#tag-watercolor) [`selfie`](tags.md#tag-selfie) [`silhouette`](tags.md#tag-silhouette)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium photorealistic artistic travel portrait using the same woman from the reference photo. Preserve her facial identity, natural features, hairstyle, and realistic appearance accurately.
+
+Create a creative double-exposure composition: a large elegant side-profile silhouette of the woman forms the background, beautifully blended with a breathtaking travel destination inside her silhouette. In the foreground, show the same woman walking naturally through the scene with a stylish travel outfit, backpack, sunglasses, and sneakers.
+
+Inside the silhouette, include a magnificent European old-town street with grand historic architecture, warm sunset light, distant mountains, birds, and subtle atmospheric details. Add artistic watercolor splashes flowing outward from the bottom in soft burgundy, navy, and ivory tones.
+
+Clean white background, seamless photo blending, cinematic sunset glow, realistic shadows, sophisticated travel-editorial aesthetic, highly detailed, premium magazine composition, photorealistic, 8K, elegant and visually captivating.
+
+No cartoon, no anime, no illustration, no distorted face, no duplicate person, no extra limbs, no artificial-looking skin, no identity change.
+```
+
+</details>
+
+<a id="nano-banana-comic-collage-dress-monarch-wings"></a>
+### 漫画拼贴礼服与帝王蝶翅披风
+
+<a href="https://x.com/Ozayrr_irl/status/2059559152024739856"><img src="../../previews/nano-banana-comic-collage-dress-monarch-wings.jpg" width="360"></a>
+
+提示词先交代礼服的拼贴材质，再叠加帝王蝶翅披风这一个超大元素，让轮廓一眼可辨。明亮的白色走廊、棚拍布光和红色高跟鞋点缀，让彩色礼服成为视觉焦点。
+
+Nano Banana 2 · 文生图 · 出处: [@Ozayrr_irl on X](https://x.com/Ozayrr_irl/status/2059559152024739856) · 65 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`pop-art`](tags.md#tag-pop-art) [`butterfly`](tags.md#tag-butterfly) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Avant-garde high-fashion photography of a female model in an editorial pose. She is wearing a dramatic dress made from a collage of colorful pop art and yellow comic book pages. The back of the dress features massive, realistic yellow and black monarch butterfly wings as a cape. Elegant floral headpiece, red high heels, bright white luxury hallway background, professional studio lighting, vivid colors, photorealistic.
+```
+
+</details>
+
+<a id="nano-banana-red-neon-rim-monochrome-portrait"></a>
+### 黑白人像配红色霓虹轮廓光
+
+<a href="https://x.com/weiinberg/status/2069632981120250203"><img src="../../previews/nano-banana-red-neon-rim-monochrome-portrait.jpg" width="360"></a>
+
+提示词先锁定黑白底色和纯黑背景，再把红色霓虹轮廓光设为唯一的彩色元素。镜头焦距、光圈和棚拍光线等术语让结果更接近写实的编辑人像。
+
+Nano Banana 2 · 上传图改图 · 出处: [@weiinberg on X](https://x.com/weiinberg/status/2069632981120250203) · 62 赞，统计于 2026-10-29
+
+[`portrait`](tags.md#tag-portrait) [`neon-rim-light`](tags.md#tag-neon-rim-light) [`monochrome`](tags.md#tag-monochrome) [`studio`](tags.md#tag-studio)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform the reference image into a dramatic cinematic black-and-white portrait. Pure black background with deep contrast. Subject wearing a tailored black suit jacket and black dress shirt with an open collar, luxury editorial styling.
+
+Bright light-red neon rim light tracing the entire silhouette of the subject, creating a glowing outline around the head, shoulders, hair, ears, and clothing edges. Strong side lighting with high contrast shadows. Monochrome skin tones with detailed texture, while the neon glow remains the only colored element.
+
+Premium magazine cover aesthetic, powerful masculine energy, luxury fashion campaign, dramatic studio lighting, intense mood, confident posture, looking away from camera. Ultra-sharp focus on face and upper torso, rich blacks, deep shadows, high dynamic range.
+
+Professional portrait photography, cinematic color grading, black-and-white fine art portrait, neon edge lighting, volumetric glow, realistic skin detail, luxury editorial, studio photography, photorealistic, 85mm lens, f/2.0, shallow depth of field, masterpiece quality, ultra detailed, 8K resolution.
+```
+
+</details>
 
 <a id="nano-banana-rooftop-golden-hour-menswear-portrait"></a>
 ### 黄金时刻屋顶男装人像
@@ -830,6 +1196,31 @@ Nano Banana 2.1 · 上传图改图 · 出处: [@weiinberg on X](https://x.com/we
 Nano Banana 2.1.
 
 Prompt: MINIMALIST MODERN LUXURY CAMPAIGN, FEMALE  MODEL as in <<<image_1>>> IN PROFILE, LOOKING BEHIND CAMERA, WEARING PREMIUM SUNGLASSES, FAST MOTION BLUR HAIR MOVEMENT, COOL GRADIENT BACKDROP, AIRY NEGATIVE SPACE, CALM CINEMATIC LIGHTING, MATTE TEXTURES, UNDERSTATED LUXURY FASHION AESTHETIC, HIGH-END EDITORIAL PHOTOGRAPHY, SHALLOW DEPTH OF FIELD
+```
+
+</details>
+
+<a id="nano-banana-ceo-life-stage-timeline"></a>
+### 桑达尔·皮查伊从5岁到现在的人生阶段时间线
+
+<a href="https://x.com/marcthecreatorr/status/2107532275529273535"><img src="../../previews/nano-banana-ceo-life-stage-timeline.jpg" width="360"></a>
+
+单一主体、固定的人生阶段列表，加上始终是同一张脸的明确要求，给模型提供了可重复的结构。加入 realistic 让每个面板保持照片质感而非插画，年龄变化才读起来像同一个人。
+
+Nano Banana 2.1 · 文生图 · 出处: [@marcthecreatorr on X](https://x.com/marcthecreatorr/status/2107532275529273535) · 36 赞，统计于 2026-10-29
+
+[`timeline`](tags.md#tag-timeline) [`face-consistency`](tags.md#tag-face-consistency) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+nano banana 2.1 is live and my first output already looks really good.
+
+simple prompt: create a realistic timeline of google’s ceo from childhood to now while keeping the same face throughout.
+
+> it’s still based on the older gemini 3.6 flash model, but image generation is fast as hell. most outputs come back in seconds.
+
+here’s the first side-by-side i ran with the exact same prompt and i already have a winner :)
 ```
 
 </details>
@@ -1991,6 +2382,25 @@ GPT Image 2 · 文生图 · 出处: [@SiliconBarbie_ on X](https://x.com/Silicon
 
 ```text
 candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kissed skin, wearing a baby pink velour tracksuit and butterfly clips in her hair, smiling brightly at the camera, golden hour warm light, palm trees, y2k aesthetic, glossy lips
+```
+
+</details>
+
+<a id="gpt-image-yang-zhilin-caricature-editorial-redraw"></a>
+### 键盘前的杨植麟夸张漫画肖像
+
+<a href="https://x.com/ElainaNotes/status/2081202322911433189"><img src="../../previews/gpt-image-yang-zhilin-caricature-editorial-redraw.jpg" width="360"></a>
+
+逐项列出需要保留的版式元素（姿势、网格背景、点状色块、标题），把构图锁定在参考图上。同时写明夸张特征和紧凑的竖向构图，让人脸明显大于参考图，在保留版式的前提下增强夸张效果。
+
+GPT Image 2 · 上传图改图 · 出处: [@ElainaNotes on X](https://x.com/ElainaNotes/status/2081202322911433189) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`caricature`](tags.md#tag-caricature) [`editorial`](tags.md#tag-editorial) [`portrait`](tags.md#tag-portrait) [`reference-redraw`](tags.md#tag-reference-redraw)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using the provided reference image, redraw it as a polished exaggerated editorial caricature while preserving the original Financial Times-style composition and all key elements. Keep the same seated-at-keyboard pose, the hands reaching toward the keyboard, the white grid-paper background, the red/pink dotted side shapes, the blue dotted rounded rectangle in the upper right, and the same lower-left headline text: Yang Zhilin, the rock star founder behind China’s Moonshot AI. Transform the portrait into a glossy, high-detail digital caricature with an oversized head, fuller cheeks, slightly comical smile, enlarged glasses, stylized black hair, painterly skin texture, and a more satirical magazine-illustration look. Keep the crop tight and vertical, with the face much larger in frame than the reference and the text overlay still readable in large white serif type across the lower third. Maintain the keyboard along the bottom edge and do not add any new objects, logos, watermarks, or extra text.
 ```
 
 </details>

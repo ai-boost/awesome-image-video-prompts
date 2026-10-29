@@ -1,6 +1,6 @@
 # Collage
 
-[Back to the list](../../README.md) · All 70 entries
+[Back to the list](../../README.md) · All 81 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine accidental phone snapshots of any character
@@ -80,6 +80,85 @@ Identity consistency: The same Portuguese woman must appear in all six frames, w
 Photography details: Realistic compact-camera flash, authentic skin pores, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, slight variations in exposure, and candid framing. Avoid excessive retouching, artificial skin smoothing, exaggerated beauty standards, duplicated expressions, malformed fingers, distorted anatomy, or the overly polished appearance of AI-generated portraits.
 
 Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no text, no watermark. Photorealistic, youthful, spontaneous, intimate, and effortlessly stylish.
+```
+
+</details>
+
+<a id="nano-banana-ana-de-armas-burgundy-hotel-hallway-collage"></a>
+### Four panel burgundy fur editorial in a hotel hallway
+
+<a href="https://x.com/Strength04_X/status/2044296739679809880"><img src="../../previews/nano-banana-ana-de-armas-burgundy-hotel-hallway-collage.jpg" width="360"></a>
+
+A structured JSON prompt fixes the scene, wardrobe and camera once, then assigns each grid cell its own pose and panel position so the four frames stay consistent. The 85mm f/2.0 portrait lens and warm wall-lamp lighting give it a magazine editorial feel.
+
+Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2044296739679809880) · 474 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`collage`](tags.md#tag-collage) [`celebrity`](tags.md#tag-celebrity)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"scene": {
+    "type": "luxury hotel hallway",
+    "style": "ultra realistic high-fashion editorial photography",
+    "environment": "elegant hotel corridor with warm ambient lighting, wall lamps, beige textured walls, carpeted floor, cinematic depth"
+  },
+  "subject": {
+    "identity": "Ana de Armas",
+    "appearance": {
+      "hair": "dark brown hair styled in an elegant loose updo with soft strands",
+      "makeup": "glamorous makeup with defined eyes and warm tones",
+      "skin_texture": "smooth realistic skin with soft glow"
+    },
+    "wardrobe": {
+      "outfit": "deep burgundy fitted long-sleeve bodysuit",
+      "layer": "luxury burgundy faux fur stole over shoulders",
+      "hosiery": "sheer burgundy stockings",
+      "footwear": "matching burgundy high heels",
+      "accessories": "large hoop earrings"
+    }
+  },
+  "composition": {
+    "format": "4-panel collage",
+    "layout": "2x2 grid with equal frames",
+    "style": "fashion magazine editorial layout"
+  },
+  "poses": [
+    {
+      "panel": "top-left",
+      "pose": "walking forward confidently in the hallway, mid-stride, strong model walk, direct gaze"
+    },
+    {
+      "panel": "top-right",
+      "pose": "standing against the wall with arms crossed, confident dominant posture, direct eye contact"
+    },
+    {
+      "panel": "bottom-left",
+      "pose": "sitting on a small bench with legs crossed elegantly, relaxed editorial pose"
+    },
+    {
+      "panel": "bottom-right",
+      "pose": "turning back while walking away, looking over shoulder with soft confident expression"
+    }
+  ],
+  "lighting": {
+    "setup": "warm cinematic indoor lighting",
+    "details": "soft highlights from wall lamps, subtle shadows, luxury hotel ambiance"
+  },
+  "camera": {
+    "type": "professional DSLR",
+    "lens": "85mm portrait lens",
+    "settings": "f/2.0 shallow depth of field",
+    "quality": "8k ultra photorealistic",
+    "focus": "sharp focus on subject in each panel"
+  },
+  "render": {
+    "style": "hyper realistic fashion editorial",
+    "details": "luxury fabric textures, realistic lighting, cinematic composition, magazine-quality finish",
+    "restrictions": "no watermark, no logo, no text"
+  },
+  "aspect_ratio": "1:1"
+}
 ```
 
 </details>
@@ -280,6 +359,25 @@ The overall color tone is high-key, light, and vibrant, with soft natural colors
 
 </details>
 
+<a id="nano-banana-superhero-ten-styles-grid"></a>
+### Spider-Man drawn in ten labelled art styles
+
+<a href="https://x.com/chetaslua/status/2113896151883919812"><img src="../../previews/nano-banana-superhero-ten-styles-grid.jpg" width="360"></a>
+
+One open subject with no named style list lets the model choose ten distinct looks and place them as labelled panels in one grid. Asking for a single image of one character in many styles keeps the identity consistent across panels, so the set reads as a direct style comparison.
+
+Nano Banana 2.1 · Text-to-image · Source: [@chetaslua on X](https://x.com/chetaslua/status/2113896151883919812) · 284 likes on 2026-10-29
+
+[`superhero`](tags.md#tag-superhero) [`art-styles`](tags.md#tag-art-styles) [`grid`](tags.md#tag-grid) [`multi-style`](tags.md#tag-multi-style)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+🚨 New Nano Banana 2.1 just got new checkpoint on arena < high chance this is new pro version i will test and keep you guys updated>
+```
+
+</details>
+
 <a id="gpt-image-low-angle-pose-grid-blue-sky-doodles"></a>
 ### Nine pose grid with sky doodles
 
@@ -397,6 +495,25 @@ Composition and realism: Every frame must have a distinct facial expression, hea
 Avoid: Face swapping artifacts, altered facial features, inconsistent identity, plastic skin, excessive retouching, artificial beauty filters, duplicated poses, malformed hands, extra fingers, excessive sharpening, and obvious AI-generated details.
 
 Vertical 3:4 canvas, six equally sized photographs, precise grid alignment, no borders, no text, no watermarks.
+```
+
+</details>
+
+<a id="gpt-image-water-brand-logos-ocean-grid"></a>
+### Six brand logos shaped from water above ocean
+
+<a href="https://x.com/AIwithSynthia/status/2062521441141088599"><img src="../../previews/gpt-image-water-brand-logos-ocean-grid.jpg" width="360"></a>
+
+The prompt fixes three things across all panels: the material (transparent water with splashes, droplets and refractions), the setting (ocean and blue sky) and the layout (3x2 grid). Stating that each logo must be made entirely of water keeps the shapes liquid instead of flat graphics.
+
+GPT Image 2 · Text-to-image · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2062521441141088599) · 205 likes on 2026-10-29
+
+[`water-effect`](tags.md#tag-water-effect) [`brand-logos`](tags.md#tag-brand-logos) [`grid-collage`](tags.md#tag-grid-collage) [`ocean`](tags.md#tag-ocean)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.
 ```
 
 </details>
@@ -937,6 +1054,25 @@ Add a vintage Pentax K1000 film camera resting on stacked old books near the bot
 Warm natural indoor lighting, soft cinematic depth of field, realistic skin texture, high-end editorial photography, authentic candid expressions, detailed paper textures, realistic shadows, premium lifestyle photography, harmonious composition, ultra-realistic, high resolution.
 
 Important: Use my uploaded image as the identity reference. Preserve my face exactly and consistently in all frames. Only change the poses, expressions, composition, and environment. Do not alter my identity.
+```
+
+</details>
+
+<a id="gpt-image-anime-characters-real-living-room"></a>
+### Anime characters inside a real living room
+
+<a href="https://x.com/codewithhajra/status/2072304737949474960"><img src="../../previews/gpt-image-anime-characters-real-living-room.jpg" width="360"></a>
+
+A reference face anchors the real man while each anime character is placed by its exact spot and pose, which keeps the photoreal room and the cel shaded figures in clearly separate layers. Naming the light direction through sheer curtains and the landing spots on sofa, table and pouf keeps the layout consistent.
+
+GPT Image 2 · Edit · Source: [@codewithhajra on X](https://x.com/codewithhajra/status/2072304737949474960) · 112 likes on 2026-10-29
+
+[`mixed-media`](tags.md#tag-mixed-media) [`reference-face`](tags.md#tag-reference-face) [`anime-crossover`](tags.md#tag-anime-crossover) [`interior`](tags.md#tag-interior)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A high-fidelity, wide-angle interior shot captures a surreal, mixed-media composition within a modern living room. It features a man resembling the face in the reference photo—using an uploaded face as a reference—wearing a dark green sweatshirt, sweatpant and white sneakers, sitting centrally on a plush light gray sofa. The scene seamlessly blends photorealistic 3D environments with cel-shaded 2D anime and cartoon characters interacting directly with the physical space. On the right side of the subject on the sofa, Nobita sits casually waving his hand, while on the left side, Doraemon leans casually on a pillow. Behind the sofa, two framed posters hang on the white wall—one featuring Son Goku and Vegeta, and the other featuring Trunks in a dynamic anime style. In the foreground, Shinchan lies relaxed on a textured gray carpet near a plate of dorayaki, while a chibi version of Son Goku stands triumphantly on a cream-colored knit pouf. On the left side of the room, Vegeta stands tall on a grooved wooden side table in a confident pose, while a miniature version of Trunks is near the wooden coffee table in the center, as if observing the scene with a curious expression. Soft natural light streams in from the left side through sheer curtains, creating subtle volumetric lighting that accentuates the texture of the blanket, the wood grain of the tiered table, and the leaves of the snake plant in the corner of the room. The entire scene is rendered in 8K resolution with sharp focus, vivid colors, and a dreamy, cinematic, and playful aesthetic blending between the real world and the anime world, with no AI visible.
 ```
 
 </details>
@@ -1635,6 +1771,66 @@ cartoon, anime, CGI, illustration, plastic skin, inaccurate face, different iden
 
 </details>
 
+<a id="nano-banana-morning-routine-photo-dump-collage"></a>
+### Nine panel morning routine photo dump carousel
+
+<a href="https://x.com/astronomerozge1/status/2059250075503575489"><img src="../../previews/nano-banana-morning-routine-photo-dump-collage.jpg" width="360"></a>
+
+Locks one woman across nine panels by repeating the same look, room and lighting, and writes each panel as a short action beat. The negative prompt blocks glamour and plastic skin so the set reads as a candid social photo dump instead of an editorial shoot.
+
+Nano Banana 2 · Text-to-image · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2059250075503575489) · 73 likes on 2026-10-29
+
+[`collage`](tags.md#tag-collage) [`morning-routine`](tags.md#tag-morning-routine) [`social-post`](tags.md#tag-social-post) [`lifestyle`](tags.md#tag-lifestyle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-photorealistic Instagram-style 3x3 morning routine collage post, but with a realistic, imperfect, everyday human morning vibe instead of polished influencer energy. The same young woman appears consistently in all nine panels. She has long dark hair, soft natural features, realistic skin texture, light under-eye tiredness, and a relatable just-woke-up energy. The overall mood should feel candid, slightly messy, sleepy, and authentic — like a real person slowly getting ready in the morning, not a perfect content creator shoot.
+
+At the top, include an Instagram-style post header with the username “ozgedoner”, a profile photo, blue verification badge, a Follow button, and the music label “Imagine Dragons · Wake Up”. Add a small “1/4” carousel indicator in the upper-right corner.
+
+Keep the room and bathroom slightly messy and lived-in: unmade bed, wrinkled white bedding, a few scattered clothes, hair tools left out, skincare products on the counter, a mug on the nightstand, soft morning light, natural home atmosphere.
+
+3x3 panels:
+
+Panel 1:
+She wakes up in bed with messy, tangled hair, sleepy face, low energy, half-awake expression, wrinkled white bedding.
+
+Panel 2:
+She sits up in bed stretching tiredly, looking a bit drained and unmotivated, natural slouch, soft pajama top, bed still messy.
+
+Panel 3:
+Brushing teeth in the bathroom mirror, hair tied up carelessly, still sleepy, pajama top slightly rumpled, realistic bathroom setting.
+
+Panel 4:
+Applying skincare with a tired blank expression, bare face, realistic morning skin, products casually left around.
+
+Panel 5:
+Trying to do her hair with a styling tool, slightly frustrated, not perfectly put together yet, hair still messy in parts.
+
+Panel 6:
+Doing simple makeup at the vanity, looking more awake but still natural, not overly glamorous, realistic getting-ready moment.
+
+Panel 7:
+Making coffee in the kitchen or room corner and accidentally spilling a little coffee, visibly annoyed or frustrated, authentic chaotic morning energy.
+
+Panel 8:
+Eating a quick breakfast, slightly tired expression, maybe sitting casually on the bed or chair, natural unposed moment.
+
+Panel 9:
+Final simple selfie after getting ready — still natural and human, soft fresh look, but not overly polished or influencer-perfect.
+
+Style / mood:
+
+realistic morning routine, candid imperfections, slight mess, sleepy energy, authentic feminine lifestyle, natural indoor light, relatable everyday routine, soft neutral colors, lived-in bedroom, true-to-life social media photo dump feel, not overly staged.
+
+Negative prompt:
+
+overly glamorous, influencer-perfect styling, spotless room, plastic skin, heavy makeup, luxury editorial vibe, exaggerated smile, unrealistic perfection, identical stiff pose, cartoon, illustration, distorted hands, extra fingers, low quality, harsh lighting, over-styled content creator aesthetic
+```
+
+</details>
+
 <a id="gpt-image-jungle-explorer-storyboard-four-shots"></a>
 ### Jungle explorer in four labeled storyboard shots
 
@@ -1704,6 +1900,25 @@ Nano Banana 2 · Edit · Source: [@AiwithKinza on X](https://x.com/AiwithKinza/s
 
 ```text
 Generate a double exposure and collage-style digital art piece featuring an hourglass curvy, full huge bust, stylish woman. On the left, a close-up cinematic portrait of her face in profile, wearing round black sunglasses, elegant earrings, and a delicate necklace, with her messy dark hair blowing in the wind. On the right, a full-body shot of the same Woman leaning against a white textured wall, wearing a black graphic, extremely tight fitting t-shirt with extra  deep scoop neck, with blue under sleeves, white high-waisted pants, and white sneakers, holding her sunglasses. The background is an artistic blend of black watercolor ink splashes, golden bokeh light streaks, flying birds, and scattered red flower petals under a soft twilight sky. High resolution, 8k, photorealistic, cinematic lighting. Maintain the same face as the uploaded photo. Aspect ratio 4:5
+```
+
+</details>
+
+<a id="nano-banana-motorcycle-fashion-collage-three-panel"></a>
+### Three panel collage of woman with black motorcycle
+
+<a href="https://x.com/Soaima_Ai/status/2070361938031464613"><img src="../../previews/nano-banana-motorcycle-fashion-collage-three-panel.jpg" width="360"></a>
+
+The prompt splits the shot into one full-body hero frame and two tight side panels, each with a named action such as smiling, adjusting a watch or looking away. Repeating the same wardrobe and sunglasses in every panel keeps the three frames reading as one shoot.
+
+Nano Banana 2 · Text-to-image · Source: [@Soaima_Ai on X](https://x.com/Soaima_Ai/status/2070361938031464613) · 70 likes on 2026-10-29
+
+[`collage`](tags.md#tag-collage) [`motorcycle`](tags.md#tag-motorcycle) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A three-panel fashion collage style photo showcasing a stylish Indian woman posing with a black vintage motorcycle. The main image is a full-body shot showing her in a white casual shirt, khaki cargo trousers, and white tennis shoes. The smaller side panels show medium close-ups of her smiling, adjusting her watch, and looking away. She has long dark hair and is wearing classic sunglasses.
 ```
 
 </details>
@@ -2103,6 +2318,77 @@ Create a high-end morning editorial scrapbook poster from the uploaded photo. Tr
 
 </details>
 
+<a id="nano-banana-luxury-menswear-vintage-studio-collage"></a>
+### Four panel black and white menswear editorial collage
+
+<a href="https://x.com/jzaib4269/status/2063930810428740045"><img src="../../previews/nano-banana-luxury-menswear-vintage-studio-collage.jpg" width="360"></a>
+
+The prompt packs the wardrobe, set props and four named poses into one block, so the model lays them out as a magazine collage with a consistent look across panels. Lens and lighting terms such as 85mm and low key lighting push the result toward a photographic finish rather than a generic render.
+
+Nano Banana 2 · Text-to-image · Source: [@jzaib4269 on X](https://x.com/jzaib4269/status/2063930810428740045) · 60 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`studio`](tags.md#tag-studio) [`collage`](tags.md#tag-collage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Which looks better?
+
+Left: Gemini Nano Banana 2
+Right: GPT Image 2.0 on ChatGPT
+
+Prompt: Ultra-realistic luxury fashion editorial photoshoot featuring a world-class male athlete with a sharp jawline, athletic physique, and perfectly groomed dark hair, dressed in an elegant all-white linen outfit consisting of an open-collar button-down shirt, tailored trousers, and minimalist white sneakers. Studio setting with a deep black seamless background, cinematic low-key lighting, dramatic contrast, and rich shadows.
+A sophisticated vintage photography theme with antique large-format cameras on wooden tripods, aged wooden crates, and classic travel trunks placed around the scene. Multiple poses captured in a premium magazine-style collage: sitting cross-legged on the floor with a confident smile, seated on a wooden chest with an intense gaze, standing with arms crossed in a powerful pose, and posing with one foot on a crate while adjusting his hair.
+Luxury menswear campaign aesthetic, timeless elegance, masculine confidence, refined styling, high-end fashion photography, medium and full-body compositions, ultra-detailed skin texture, crisp fabric details, professional studio lighting, cinematic color grading, shallow depth of field, premium watch accessory, clean composition, Vogue-quality editorial, award-winning photography, 8K resolution, hyperrealistic, sharp focus, commercial advertising quality.
+For an even more viral / premium AI image result:
+Masterpiece, ultra-realistic luxury fashion campaign, iconic athletic superstar, old-money elegance, monochromatic white wardrobe, dramatic black background, vintage camera studio, cinematic lighting, powerful masculine energy, luxury lifestyle magazine cover, photorealistic, highly detailed face, perfect skin texture, luxury watch, premium editorial photography, global advertising campaign, soft rim light, depth and atmosphere, fashion week campaign aesthetic, Leica medium-format look, 85mm lens, f/1.8, HDR, ultra-sharp focus, 8K, masterpiece composition, timeless sophistication, stop-scrolling visual impact.
+```
+
+</details>
+
+<a id="gpt-image-cartoon-mural-portrait-yellow-streetwear"></a>
+### Cartoon mural portrait behind yellow streetwear photo
+
+<a href="https://x.com/Techbyhani/status/2102715195454074956"><img src="../../previews/gpt-image-cartoon-mural-portrait-yellow-streetwear.jpg" width="360"></a>
+
+Labelled EXACT sections for concept, subject, outfit, background, lighting, color grade and camera keep the layered composite under control. An identity lock paragraph tied to a reference photo keeps the real face stable while the background copy stays stylized.
+
+GPT Image 2.5 · Edit · Source: [@Techbyhani on X](https://x.com/Techbyhani/status/2102715195454074956) · 59 likes on 2026-10-28
+
+[`graffiti-wall`](tags.md#tag-graffiti-wall) [`streetwear`](tags.md#tag-streetwear) [`cartoon-overlay`](tags.md#tag-cartoon-overlay) [`identity-lock`](tags.md#tag-identity-lock) [`yellow`](tags.md#tag-yellow)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cartoon Ghost Portrait + Sharp Streetwear Photo (Graffiti Wall)
+
+CONCEPT — EXACT: A layered composite — a massive stylized cartoon/anime-style illustrated portrait fills the background against a vibrant graffiti-covered concrete wall, and a smaller sharp full-color photorealistic full-body portrait of the same woman stands in the foreground.
+
+BACKGROUND CARTOON PORTRAIT — EXACT: Large flat-shaded anime/webtoon-style illustrated portrait, head tilted slightly, long straight dark hair falling past the waist, white rectangular sunglasses, glossy red lips, wearing an oversized yellow graphic t-shirt with a small "NY" logo patch and white sleeve stripes, rendered in clean cel-shaded illustration style with bold outlines, blended into the graffiti wall so it reads as a mural-style painting.
+
+MAIN SUBJECT — FOREGROUND — EXACT: Full-body standing pose, hands tucked into the pockets of oversized cargo pants, head tilted slightly, calm confident expression, white rectangular sunglasses, long dark wavy hair with subtle highlights, thin silver necklace, small stud earrings, silver bracelet.
+
+MAIN SUBJECT IDENTITY LOCK: Foreground photorealistic face must match the reference photo exactly — same jaw width, cheek fullness, eyebrow shape, eye shape/color, nose bridge, and lip shape. The background cartoon portrait may be stylized as illustrated art but should echo the same facial features and hairstyle.
+
+BODY: Fair skin tone, slim build, relaxed confident standing posture.
+
+OUTFIT: Oversized yellow crew-neck t-shirt with a small "NY" logo patch on the chest and white sleeve-cuff stripes, matching yellow cargo pants with multiple pockets and a drawstring waist, white sneakers, thin silver necklace, silver bracelet.
+
+BACKGROUND/ENVIRONMENT — EXACT: A concrete wall densely covered in colorful graffiti street art — bold red, blue, orange, and yellow spray-paint shapes, splatter marks, and abstract tag lettering, a white vertical drainpipe running along the right edge, a strip of bright blue sky visible in the upper-right corner, plain grey concrete pavement beneath the subject's feet.
+
+LIGHTING — EXACT: Bright natural daylight throughout, strong directional sunlight casting a defined shadow on the pavement, vivid clear outdoor lighting on the foreground figure.
+
+COLOR GRADE — EXACT: Vivid saturated yellow dominant throughout both the outfit and the illustrated background portrait, bold multicolor graffiti tones providing contrast, natural warm skin tone on the photorealistic figure, clean vibrant streetwear-editorial color grading.
+
+CAMERA: Shot on 35mm lens, natural street-level framing, sharp photorealistic focus on the foreground figure, background cartoon portrait cleanly illustrated with flat shading and bold linework.
+
+Ultra photorealistic — zero AI artifacts, no watermark.
+
+IMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity of the photorealistic foreground figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture, and feminine proportions exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, or replace my face with a random celebrity or model face in the foreground portrait. Identity preservation is the highest priority for the photorealistic figure.
+```
+
+</details>
+
 <a id="gpt-image-eight-pose-hoodie-portrait-collage"></a>
 ### Eight Pose Portrait Collage in Blue Hoodie
 
@@ -2473,6 +2759,29 @@ GPT Image 2 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/st
 
 </details>
 
+<a id="gpt-image-gold-saints-zodiac-card-grid"></a>
+### Twelve Gold Saints zodiac cards with Chinese names
+
+<a href="https://x.com/songguoxiansen/status/2046476566537080849"><img src="../../previews/gpt-image-gold-saints-zodiac-card-grid.jpg" width="360"></a>
+
+Stating the exact count, the 4 per row layout, the 16:9 ratio and the name on each card gives a consistent set. Every card uses the same zodiac symbol and name plate template, so all twelve panels share one frame and style.
+
+GPT Image 2 · Text-to-image · Source: [@songguoxiansen on X](https://x.com/songguoxiansen/status/2046476566537080849) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`saint-seiya`](tags.md#tag-saint-seiya) [`zodiac`](tags.md#tag-zodiac) [`card-grid`](tags.md#tag-card-grid) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[中文]
+生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。
+
+[English]
+Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.
+```
+
+</details>
+
 <a id="gpt-image-japanese-cafe-couple-dessert-scrapbook"></a>
 ### Japanese couple sharing desserts in a cozy café
 
@@ -2496,6 +2805,41 @@ Soft [lighting style] lighting enters through the café windows creating dreamy 
 Add cute scrapbook-style doodles and handwritten notes around the image in [doodle color] ink — tiny hearts, stars, sparkles, ribbons, arrows, smiley sketches, bows, diary stickers, and handwritten café notes.
 
 Color palette should focus on [color theme] tones. Style inspired by viral Pinterest café photography, Korean lifestyle aesthetics, Japanese cozy café culture, dreamy Gen-Z romance mood, shallow depth of field, cinematic composition, ultra realistic food textures, soft blurry background, ultra detailed realistic photography, clean aesthetic layout, 8k.
+```
+
+</details>
+
+<a id="gpt-image-japanese-travel-app-collage-poster"></a>
+### Japanese Travel App Collage Poster
+
+<a href="https://x.com/shinojapan/status/2072208937349492857"><img src="../../previews/gpt-image-japanese-travel-app-collage-poster.jpg" width="360"></a>
+
+The prompt fixes the layout zone by zone and numbers every text group, collage cutout and UI card, with exact Japanese strings quoted for legible typography. A strict green and white palette plus detailed subject wardrobe keeps the campaign look consistent.
+
+GPT Image 2 · Text-to-image · Source: [@shinojapan on X](https://x.com/shinojapan/status/2072208937349492857) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`travel`](tags.md#tag-travel) [`advertising`](tags.md#tag-advertising) [`japanese-typography`](tags.md#tag-japanese-typography) [`app-ui`](tags.md#tag-app-ui) [`collage`](tags.md#tag-collage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Goal: Create a vibrant Japanese travel-app advertising poster for NEWT, combining editorial travel photography, clean app UI mockups, and bold Japanese typography to promote the feeling that the next trip is already beginning.
+
+Canvas: Square 1:1 promotional graphic, bright white and mint-green background, high-key summer lighting, energetic composition, polished commercial ad quality.
+
+Layout: A large diagonal Japanese headline dominates the top-left and upper center. The main traveler stands large in the center foreground, smiling and looking up to the right while holding a smartphone showing the green brand screen. A second traveler appears behind her on the left inside an airport scene. Layer multiple travel photo cutouts around the lower half and right side, with floating app interface cards over them. Place a large green rounded brand block on the upper-right.
+
+Text content: Use exactly 5 main text groups: 1) huge headline text 次の旅が、もう始まってる。 in vivid green, with the first line filled and the second line outlined; 2) small upper-right Japanese copy 航空券も、ホテルも、アプリひとつで軽やかに。; 3) English tagline “TRAVEL FEELS NEW.” near the top-right; 4) left-side vertical category list with exactly 5 items: “AIRPORT”, “HOTEL”, “CITY”, “BEACH”, “FOOD”; 5) brand block text with a white animal-like logo, the word “NEWT”, and the small Japanese call-to-action “NEWTで旅をみる” with a circular arrow icon.
+
+Subject details: Main subject is a cheerful young East Asian woman traveler, mid-20s, short dark bob hair moving naturally, gold hoop earrings, green ribbed top, loose translucent mint-and-white striped overshirt, cream high-waisted pants, woven straw shoulder bag with a small green charm, pulling a dark green rolling suitcase. She holds a phone with a green screen, white brand logo, and “NEWT” text. Secondary subject is a smiling young East Asian woman in an orange cardigan at an airport, holding a drink, with a departures board behind her.
+
+Travel image collage: Include exactly 5 travel photo cutouts: 1) bright airport terminal with departures board behind the secondary woman, 2) luxury hotel room with ocean view, 3) close-up seafood dish with shrimp and greens near the suitcase, 4) turquoise beach and ocean with swimmers on the right, 5) colorful resort city street with palm trees along the bottom-right.
+
+App UI cards: Include exactly 2 floating white app interface cards with rounded corners and soft shadows. Card 1 is a booking search card at mid-right with tabs for flight, hotel, and package; large destination text “ソウル”, small text “SEOUL, KOREA”, rows showing round trip, dates “6月20日(金) - 6月23日(月)”, passengers “大人1名、エコノミー”, and a green button labeled “検索する”. Card 2 is a hotel recommendation card lower-right with a pool thumbnail, small heart icon, hotel name “NEWT SEOUL 明洞”, rating “4.8”, and five yellow stars.
+
+Visual style: Premium Japanese startup travel campaign, fresh mint green brand color, crisp cutout collage, clean sans-serif typography, dynamic diagonal composition, airy negative space, glossy magazine-ad finish, realistic photography mixed with minimal vector UI. Add a dotted flight path with a location pin near the top-right.
+
+Constraints: Use no extra logos or watermarks beyond the specified brand. Keep all Japanese text legible and accurately placed. Maintain the strong green-and-white identity, optimistic summer travel mood, and layered depth.
 ```
 
 </details>
@@ -2700,6 +3044,37 @@ Bottom left panel: close-up portrait of the athlete with glowing skin, minimal m
 Bottom right panel: full-body crouched pose holding racket, strong posture, text “DISCIPLINE DRIVES DOMINANCE”, grid-based layout lines, premium sports branding feel.
 
 Consistent color grading, dark green and white palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio.
+```
+
+</details>
+
+<a id="gpt-image-three-nyc-billboard-comparison-slide"></a>
+### Three NYC billboard street photos as comparison panels
+
+<a href="https://x.com/synthwavedd/status/2086561496864047271"><img src="../../previews/gpt-image-three-nyc-billboard-comparison-slide.jpg" width="360"></a>
+
+A fixed three panel row with pale beige mats and centered captions makes the slide read as a model comparison. Each panel gets its own street angle, lighting and billboard spec, so the outputs differ while the concept stays the same.
+
+GPT Image 2 · Text-to-image · Source: [@synthwavedd on X](https://x.com/synthwavedd/status/2086561496864047271) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`billboard`](tags.md#tag-billboard) [`comparison-slide`](tags.md#tag-comparison-slide) [`street-photo`](tags.md#tag-street-photo) [`nyc`](tags.md#tag-nyc)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Goal: Create a clean comparison graphic showing three AI-generated urban billboard photos side by side, as if comparing image model outputs.
+
+Canvas: Wide 16:9 presentation slide with a warm off-white background and generous margins. Place three tall vertical photo panels evenly spaced across the canvas, each framed by a pale beige mat/border. Under each panel, add a centered caption.
+
+Layout: Exactly 3 vertical street-photo panels in one row. Panel 1 on the left, Panel 2 in the center, Panel 3 on the right. Each panel shows a realistic New York City street scene with parked cars in the foreground, tall buildings, sidewalks, traffic signs, and a large square billboard mounted high on a building. Use slightly different street angles and lighting in each panel, like three separate model outputs of the same concept.
+
+Panel details: Left panel: a rear view of a black SUV parked on a city street, looking toward storefronts and buildings; a large white billboard above the street reads like a social-media quote card with a small circular animal avatar, the heading “What do you think?”, a short quote, and small ChatGPT branding. Center panel: a black SUV parked on a narrow Manhattan street with the Empire State Building visible in the distance; a large dark billboard with white text, a circular animal avatar, and ChatGPT branding. Right panel: a black sedan parked along a busier avenue with storefront signs such as “I ♥ NY GIFTS”; a large black billboard with a bright cyan border, white quote text, a circular animal avatar, and ChatGPT branding.
+
+Caption text: Use exactly 3 captions beneath the panels. Left caption: “ChatGPT Images 2.0” on the first line and “MEDIUM” in bold quotation marks on the second line. Center caption: “mona-lisa-1” in bold quotation marks. Right caption: “ChatGPT Images 2.0” on the first line and “HIGH” in bold quotation marks on the second line.
+
+Customizable text slots: The comparison labels should read ChatGPT Images 2.0, mona-lisa-1, and ChatGPT Images 2.0. The left quality tag should be MEDIUM and the right quality tag should be HIGH.
+
+Visual style: Photorealistic smartphone street photography inside each panel, but arranged as a polished social-media comparison slide. Keep the overall slide minimal, with no decorative graphics beyond the three framed images and their captions. The billboard text inside the photos may be small and partially imperfect, but it should clearly resemble AI quote-card advertising with ChatGPT logos.
 ```
 
 </details>

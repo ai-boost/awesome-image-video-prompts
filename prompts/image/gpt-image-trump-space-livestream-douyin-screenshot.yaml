@@ -1,0 +1,28 @@
+id: gpt-image-trump-space-livestream-douyin-screenshot
+title:
+  en: Trump floats on ISS live stream with rocket gift
+  zh: 特朗普在空间站直播，火箭礼物特效
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- douyin
+- live-stream
+- space-station
+- chinese-text
+source:
+  name: '@songguoxiansen on X'
+  url: https://x.com/songguoxiansen/status/2046478609238626569
+  credit: songguoxiansen
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt copies a real Douyin live stream layout and quotes every on-screen string exactly, including the viewer count and bullet comments, so the UI text reads cleanly. Setting the gift rocket against a real launch visible through the porthole gives the virtual and real echo the prompt asks for.
+  zh: 提示词按抖音直播界面的布局逐项写出屏幕上的文字，包括人数和弹幕，因此界面文字清晰可读。让屏幕中央的礼物火箭与舷窗外的真实发射相呼应，形成虚实结合的构图。
+prompt: |
+  [中文]
+  一张9:16竖屏的抖音直播截图，太空直播风格。特朗普穿着NASA风格的白色宇航服，头盔面罩半开，露出他标志性的金色头发和笑容。他漂浮在国际空间站的舱内进行直播，处于微重力失重状态，身体微微悬浮。他双手举着一块固定在宇航服上的金属铭牌，铭牌上用NASA风格的印刷体写着"感谢松果先森送的大火箭"。身后圆形舷窗外可以看到蓝色的地球和深邃的太空。直播界面显示在线人数"地球+火星共888万"。弹幕区有人刷"真的在太空直播？""松果先森的火箭把你送上天了"。屏幕中央的火箭礼物特效与窗外太空中一枚正在发射的真实火箭遥相呼应，形成虚实结合的效果。舱内有各种精密仪器和控制面板，绿色和蓝色的指示灯闪烁。画面色调以深蓝、白色和金色为主，舷窗外的星光点缀其间，8K超高清，电影《地心引力》级别的视觉效果。
+
+  [English]
+  A 9:16 vertical screen screenshot of a Douyin live stream, space live stream style. Trump is wearing a NASA-style white spacesuit, with the helmet visor half open, revealing his signature golden hair and smile. He is floating inside the cabin of the International Space Station doing a live stream, in a microgravity weightless state, with his body slightly suspended. He is holding up a metal nameplate fixed to the spacesuit with both hands, and the nameplate says "Thanks to Songguo Xiansen for the big rocket" in NASA-style print. Behind him, the blue Earth and deep space can be seen through the circular porthole. The live stream interface shows the online viewer count as "Earth + Mars total 8.88 million". In the bullet screen area, someone is commenting "Really live streaming from space?" and "Songguo Xiansen's rocket sent you up to the sky". The rocket gift effect in the center of the screen echoes a real rocket launching in the space outside the window, forming a combination of virtual and real effects. There are various precision instruments and control panels inside the cabin, with green and blue indicator lights flashing. The color tone of the picture is mainly dark blue, white, and gold, with starlight from outside the porthole embellishing it, 8K ultra-high definition, visual effects at the level of the movie "Gravity".

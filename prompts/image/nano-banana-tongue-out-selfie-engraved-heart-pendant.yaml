@@ -1,0 +1,30 @@
+id: nano-banana-tongue-out-selfie-engraved-heart-pendant
+title:
+  en: Blonde woman selfie with tongue out
+  zh: 金发女子吐舌自拍
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- selfie
+- photorealistic
+- manga-expression
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2042931156333543781
+  credit: KeorUnreal
+  likes: 3443
+  captured: '2026-10-29'
+  posted: '2026-04-11'
+notes:
+  en: A vertical close-up selfie framing plus an engraved heart pendant gives the model a fixed text anchor, and the negative prompt locks its spelling. The manga-face cue comes through pose and expression rather than an art style, so the result stays photorealistic.
+  zh: 竖版特写自拍构图加上刻字心形吊坠，为模型提供固定的文字锚点，负面提示词则锁定其拼写。漫画式的表情通过姿态和神态呈现，而非画风，因此画面保持照片级真实感。
+prompt: |
+  {
+    "prompt": "Vertical close-up selfie of attractive woman with long blonde hair playfully sticking her tongue out and looking up with crossed eyes like iconic manga girl, wearing a electric pink ribbed tank top with deep cleavage, golden necklaces with a heart pendant engraved 'Keor', soft natural lighting, photorealistic, detailed skin and jewelry textures, playful glamorous vibe, 8k",
+    "negative_prompt": "cropped, bad hands, blurry face, low quality, different pendant text, closed mouth",
+    "parameters": {
+      "aspect_ratio": "9:16",
+      "lighting": "soft natural"
+    }
+  }

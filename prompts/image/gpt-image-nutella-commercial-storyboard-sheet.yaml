@@ -1,0 +1,69 @@
+id: gpt-image-nutella-commercial-storyboard-sheet
+title:
+  en: Eight panel Nutella storyboard with pancake and jar scenes
+  zh: 八格 Nutella 广告分镜，含煎饼与罐装特写
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- storyboard
+- food-ad
+- product-ad
+- macro
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2096915887504982258
+  credit: ÀBDŪLLÂH
+  likes: 181
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+notes:
+  en: Each panel is a numbered card with a duration badge, camera direction, visual, action and product detail, so the layout reads as a real agency storyboard. Close shots of the spread and the jar keep the hero product in every frame.
+  zh: 每格都是带编号的分镜卡，包含时长标签、镜头方向、画面、动作和产品细节，版面结构接近广告公司的分镜表。每一格都以近距离特写展示果酱和罐装主体，让产品始终是画面焦点。
+prompt: |
+  Premium Nutella Product Commercial Storyboard
+
+  FORMAT:
+  • Single-page premium storyboard
+  • 3:4 Portrait ratio
+  • Luxury food product advertising
+  • 8 cinematic product-focused scenes
+  • Product remains the main hero
+  • High-end advertising agency presentation
+
+  HEADER:
+  • Elegant serif typography
+  • Information cards:
+
+  - Duration: 20 Seconds
+  - Style: Cinematic Gourmet Food Commercial
+  - Product: Nutella Hazelnut Spread
+  - Audio: Soft Spread + Food ASMR
+    • Why This Style Works section
+    • Warm brown, cream and golden aesthetic
+    • Minimal hazelnut decorative accents
+
+  STORYBOARD:
+
+  1. Premium Nutella jar standing on polished dark wood
+  2. Jar lid opening in extreme macro
+  3. Creamy Nutella slowly spreading from the jar
+  4. Chocolate spread forming a glossy ribbon in mid-air
+  5. Nutella cascading over fluffy pancakes
+  6. Extreme macro showing rich chocolate texture and tiny reflections
+  7. Pancake stack surrounded by the hero jar and hazelnuts
+  8. Final luxury product packshot with dramatic Nutella spread
+
+  EVERY PANEL:
+  • Scene number
+  • Duration badge
+  • Camera direction
+  • Visual
+  • Action
+  • Product detail
+
+  CAMERA:
+  Extreme macro, slow-motion spread photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.
+
+  STYLE:
+  Ultra-realistic food advertising, realistic spread viscosity, glossy chocolate texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.

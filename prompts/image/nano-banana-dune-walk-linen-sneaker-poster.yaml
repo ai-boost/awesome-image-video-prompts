@@ -1,0 +1,33 @@
+id: nano-banana-dune-walk-linen-sneaker-poster
+title:
+  en: Man in linen strides past giant WALK typography
+  zh: 身穿亚麻服装的男子大步走过巨型WALK字样
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- sneaker-ad
+- typography
+- lifestyle
+- editorial
+source:
+  name: '@Ozayrr_irl on X'
+  url: https://x.com/Ozayrr_irl/status/2050214923100368911
+  credit: Ozair AI
+  likes: 168
+  captured: '2026-10-29'
+  posted: '2026-05-01'
+notes:
+  en: A low camera angle and an oversized terracotta headline placed behind the figure create depth, while the sharp foreground sneakers anchor the product. Naming the exact tagline text and the 9:16 layout keeps the poster clean.
+  zh: 低机位与置于人物身后的超大赤陶色标题营造纵深感，前景清晰的运动鞋则突出产品。明确写出标语原文与9:16版式，使海报保持整洁。
+prompt: |
+  " A warm editorial vertical lifestyle sneaker poster (9:16 ratio).
+  A young American white man with sharp jawline and defined facial features,
+  wearing oversized cream linen pants and a beige crewneck, casually mid-stride
+  with one foot forward — shot from below at a low ground-level angle,
+  confident and relaxed energy. Large earthy bold typography "WALK" in terracotta
+  brown behind the figure. Brand name "DUNE" at the bottom. Taglines:
+  "SLOW DOWN TO STAND OUT." / "MADE FOR THE JOURNEY." Sand-colored suede sneakers
+  with terracotta sole in sharp foreground. Warm sandy gradient background with
+  subtle dust particle atmosphere. Ultra photorealistic, 8K, no text overlays
+  on subject, cinematic color grading."

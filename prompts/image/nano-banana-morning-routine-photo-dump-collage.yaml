@@ -1,0 +1,65 @@
+id: nano-banana-morning-routine-photo-dump-collage
+title:
+  en: Nine panel morning routine photo dump carousel
+  zh: 九宫格晨间日常图文合集
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- collage
+- morning-routine
+- social-post
+- lifestyle
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2059250075503575489
+  credit: Özge Döner
+  likes: 73
+  captured: '2026-10-29'
+  posted: '2026-05-26'
+notes:
+  en: Locks one woman across nine panels by repeating the same look, room and lighting, and writes each panel as a short action beat. The negative prompt blocks glamour and plastic skin so the set reads as a candid social photo dump instead of an editorial shoot.
+  zh: 在九个画面中重复同一人物、房间和光线，并把每个画面写成一个简短动作。负面提示词排除精致妆造和塑料皮肤，让整组图更像随手拍的社交动态，而不是大片。
+prompt: |
+  Ultra-photorealistic Instagram-style 3x3 morning routine collage post, but with a realistic, imperfect, everyday human morning vibe instead of polished influencer energy. The same young woman appears consistently in all nine panels. She has long dark hair, soft natural features, realistic skin texture, light under-eye tiredness, and a relatable just-woke-up energy. The overall mood should feel candid, slightly messy, sleepy, and authentic — like a real person slowly getting ready in the morning, not a perfect content creator shoot.
+
+  At the top, include an Instagram-style post header with the username “ozgedoner”, a profile photo, blue verification badge, a Follow button, and the music label “Imagine Dragons · Wake Up”. Add a small “1/4” carousel indicator in the upper-right corner.
+
+  Keep the room and bathroom slightly messy and lived-in: unmade bed, wrinkled white bedding, a few scattered clothes, hair tools left out, skincare products on the counter, a mug on the nightstand, soft morning light, natural home atmosphere.
+
+  3x3 panels:
+
+  Panel 1:
+  She wakes up in bed with messy, tangled hair, sleepy face, low energy, half-awake expression, wrinkled white bedding.
+
+  Panel 2:
+  She sits up in bed stretching tiredly, looking a bit drained and unmotivated, natural slouch, soft pajama top, bed still messy.
+
+  Panel 3:
+  Brushing teeth in the bathroom mirror, hair tied up carelessly, still sleepy, pajama top slightly rumpled, realistic bathroom setting.
+
+  Panel 4:
+  Applying skincare with a tired blank expression, bare face, realistic morning skin, products casually left around.
+
+  Panel 5:
+  Trying to do her hair with a styling tool, slightly frustrated, not perfectly put together yet, hair still messy in parts.
+
+  Panel 6:
+  Doing simple makeup at the vanity, looking more awake but still natural, not overly glamorous, realistic getting-ready moment.
+
+  Panel 7:
+  Making coffee in the kitchen or room corner and accidentally spilling a little coffee, visibly annoyed or frustrated, authentic chaotic morning energy.
+
+  Panel 8:
+  Eating a quick breakfast, slightly tired expression, maybe sitting casually on the bed or chair, natural unposed moment.
+
+  Panel 9:
+  Final simple selfie after getting ready — still natural and human, soft fresh look, but not overly polished or influencer-perfect.
+
+  Style / mood:
+
+  realistic morning routine, candid imperfections, slight mess, sleepy energy, authentic feminine lifestyle, natural indoor light, relatable everyday routine, soft neutral colors, lived-in bedroom, true-to-life social media photo dump feel, not overly staged.
+
+  Negative prompt:
+
+  overly glamorous, influencer-perfect styling, spotless room, plastic skin, heavy makeup, luxury editorial vibe, exaggerated smile, unrealistic perfection, identical stiff pose, cartoon, illustration, distorted hands, extra fingers, low quality, harsh lighting, over-styled content creator aesthetic

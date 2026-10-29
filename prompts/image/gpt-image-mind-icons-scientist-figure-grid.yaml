@@ -1,0 +1,24 @@
+id: gpt-image-mind-icons-scientist-figure-grid
+title:
+  en: Einstein, Curie, Newton and Tesla collectible figure launch grid
+  zh: 爱因斯坦、居里夫人、牛顿和特斯拉的收藏手办发布图
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- collectible
+- product-launch
+- grid-layout
+- scientists
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2049766203392921897
+  credit: Gdgtify
+  captured: '2026-10-29'
+  posted: '2026-04-30'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt fixes one 2x2 layout and repeats the same slot list in every panel (figure, accessories, packaging, scale, material close-up), so the four quadrants read as one collectible line. Luxury drop and unboxing language sets the glossy studio lighting and keeps the box secondary to the hero figure.
+  zh: 提示词固定了 2x2 网格，并在每格中重复同样的版面要素（手办、配件、包装、比例、材质特写），四格因此像同一系列产品。奢侈首发与开箱的措辞带来精致的棚拍光感，同时让包装盒退居手办之后。
+prompt: |
+  2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.

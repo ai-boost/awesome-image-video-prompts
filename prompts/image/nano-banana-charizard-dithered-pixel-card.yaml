@@ -1,0 +1,28 @@
+id: nano-banana-charizard-dithered-pixel-card
+title:
+  en: Charizard card art converted to dithered pixel art
+  zh: 喷火龙卡牌插画转为抖动像素风
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- pokemon
+- pixel-art
+- dithering
+- style-transfer
+source:
+  name: '@ProperPrompter on X'
+  url: https://x.com/ProperPrompter/status/2028603020746141797
+  credit: proper
+  likes: 115
+  captured: '2026-10-29'
+  posted: '2026-03-02'
+notes:
+  en: Attach a pixel art style reference and the source card, then swap the placeholder for the Pokémon name so the model isolates that artwork and converts it to dithered pixels while keeping the original background. The short instruction works because the reference images carry the target style.
+  zh: 先附上像素风格参考图和原始卡牌图，再把占位符替换为宝可梦名字，让模型只抠出该角色的画面并转换为抖动像素风，同时保留原背景。简短指令有效，因为风格主要由参考图传递。
+prompt: |
+  attach reference image(s) of the pixel art style & the card you want to convert.
+
+  references attached below, replace "[pokemon]" with the name of the pokemon on your card.
+
+  prompt: isolate and convert the [pokemon] art in to dithered pixel art style, keep the [pokemon] background

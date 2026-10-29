@@ -1,0 +1,24 @@
+id: nano-banana-white-convertible-mediterranean-portrait
+title:
+  en: Man leaning on white convertible by Mediterranean coast
+  zh: 男子倚靠白色敞篷车，站在地中海海岸边
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- lifestyle
+- car
+- mediterranean
+- portrait
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2052064741917417687
+  credit: Picts by AI
+  likes: 114
+  captured: '2026-10-29'
+  posted: '2026-05-06'
+notes:
+  en: Camera and lighting specs (ISO 100, 1/1000s, 5500K, f/8 to f/11, straight-on) are stacked over a precisely posed subject, so the output reads as a sharp daylight photo rather than a generic lifestyle shot. Depth ordering from the car to the scrub and sea gives the eye a clear path through the frame.
+  zh: 以相机和光线参数（ISO 100、1/1000秒快门、5500K色温、f/8至f/11光圈、正面平拍）叠加精确的人物姿势描述，使画面呈现清晰的日间摄影质感。由近及远依次描述车身、灌木与海面，引导视线穿过画面纵深。
+prompt: |
+  A confident young adult male stands posed in a relaxed, leaning posture on the right side of the frame, facing the camera with shifted weight and relaxed shoulders, wearing an unbuttoned light blue linen shirt with deep folds, dark shorts, a silver chain necklace, a wristwatch with a dark strap, and metal-framed sunglasses that shield his direct, serious gaze. His expression features a neutral mouth and relaxed eyebrows, projecting a cool, polished demeanor with warm tan skin. His left hand rests casually inside the left pocket of his shorts, with the thumb exposed and securely hooked over the pocket edge. His right hand leans gently against the pristine white exterior of a car body just below the door line, the tension relaxed with fingers curled downward naturally, clearly exposing the resting index and middle fingers. He interacts seamlessly with this dominant foreground element, a pristine white BMW convertible parked on solid light grey concrete, featuring an open dropped top, deep red leather seats, chrome accents, and a black steering wheel. The eye follows an asymmetric visual hierarchy starting from his face, moving down the clear blue shirt to the deep red car interior, before sweeping out to the deep spatial environment. The midground on the right is framed by weathered, dry green and brown scrub brush gripping rugged coastal rocks, dropping off to a background of deep ocean blue water that lightens into turquoise shallows near the coast. In the far left distance, a faint mountainous silhouette anchors the horizon beneath a perfectly smooth, clear bright blue gradient sky accented by a single small white cloud on the far left. A luxurious, breezy Mediterranean summer atmosphere envelops the scene, defined by an energetic, highly saturated, high-contrast split-complementary color palette. Hard, bright, highly directional natural sunlight streams from the top front-left, casting deep black, harsh-edged short shadows tucked beneath the subject's chin, nestled within the folds of his shirt, inside the car's interior, and beneath the side mirror. In stark contrast, brilliant specular highlights gleam across the car's paint, as well as on the subject's forehead, nose, and the tops of his shoulders, blending cool overall temperatures with warm sunlight accents. Captured straight-on through the lens of modern digital photography at ISO 100 with a fast 1/1000s shutter speed and a daylight white balance of 5500K, the realistic, clean image boasts a tack-sharp, grain-free texture and a deep depth of field from f/8.0 to f/11 that keeps every distant landscape detail perfectly in focus. The aesthetic draws heavily from contemporary social media and automotive lifestyle modeling, refined in post-processing with a high contrast curve, boosted saturation in the blue and red channels, enhanced clarity, and careful highlight protection for the white exterior, all perfectly framed in a 4:5 aspect ratio.

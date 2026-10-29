@@ -1,0 +1,25 @@
+id: h3-street-fighter-arcade-zoom-transition
+title:
+  en: Arcade cabinet opens into Street Fighter II
+  zh: 街机实拍画面推入《街头霸王II》游戏画面
+model: MiniMax H3
+mode: text-to-video
+tags:
+- street-fighter
+- found-footage
+- video-transition
+- retro-arcade
+source:
+  name: '@cocktailpeanut on X'
+  url: https://x.com/cocktailpeanut/status/2085835546572800047
+  credit: cocktail peanut
+  likes: 58
+  captured: '2026-10-29'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/cocktailpeanut/status/2085835546572800047
+notes:
+  en: A handheld shot from behind the player anchors the scene in real footage, then one continuous push-in through the CRT glass hands off to the game view. Stating no camera shake after entry and a full-screen 4:3 frame keeps the arcade look steady.
+  zh: 从玩家背后的手持镜头起步，先锚定真实拍摄质感，再用一次连续推入穿过CRT屏幕转入游戏画面。明确要求进入游戏后不抖动，并固定4:3全屏构图，保持街机画面的稳定感。
+prompt: |
+  A handheld found-footage shot from behind a person playing an authentic Street Fighter II arcade cabinet in a dim 1990s arcade. Ryu and Ken begin a normal match as the announcer shouts, “Fight!” The camera suddenly rushes toward the curved CRT screen in one continuous motion; reflections and scanlines expand into giant glowing red, green, and blue phosphor dots, then the camera passes through them and the image resolves into a clean full-screen 4:3 Street Fighter II game view with crisp 16-bit pixel art and subtle CRT scanlines. Chun-Li unexpectedly jumps into the match, followed by Blanka dropping from above, Dhalsim teleporting into the center, Zangief charging in, and several more fighters entering from both sides. The stage widens as the match becomes a chaotic but readable eight-player free-for-all: Sonic Booms cross the screen, Blanka’s electricity shocks multiple fighters, Zangief spins through a crowd, characters collide in midair, and health bars rapidly drain. Everyone unleashes a special move at once, filling the screen with pixel explosions and impact flashes. When the smoke clears, every fighter is knocked out except Dhalsim, calmly floating above the pile. The announcer declares, “Dhalsim wins. Perfect!” Authentic arcade sound effects, energetic chiptune music, no modern 3D graphics, no camera shake after entering the game.

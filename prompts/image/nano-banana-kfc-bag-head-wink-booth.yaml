@@ -1,0 +1,38 @@
+id: nano-banana-kfc-bag-head-wink-booth
+title:
+  en: Woman winking with KFC bag on head
+  zh: 女子头顶肯德基纸袋眨眼嘟嘴
+model: Nano Banana 2
+mode: image-edit
+category: realism
+tags:
+- kfc
+- iphone-style
+- reference-identity
+- fast-food
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2051611199582937536
+  credit: Johnn
+  likes: 123
+  captured: '2026-10-29'
+  posted: '2026-05-05'
+notes:
+  en: The prompt anchors identity to a reference photo and lists each pose, outfit and table item, so the subject and the cluttered KFC spread stay consistent. Asking for a raw iPhone look with no beauty filters keeps skin texture and overhead lighting natural.
+  zh: 提示词以参考照片锁定人物身份，并逐项写明姿势、服装和餐桌物品，使主体与杂乱的快餐桌面保持一致。要求原始 iPhone 质感且不加美颜，有助于保留自然肤质和顶光效果。
+prompt: |
+  Ultra-realistic iPhone-style photo set inside a KFC fast-food restaurant, maintaining the subject’s identity exactly as in the reference image.
+  A young Korean woman is seated in a booth, captured from across the table with a slightly wide, casual iPhone perspective. She sits centered in frame, leaning back comfortably while a messy spread of fast food fills the foreground.
+  Pose & expression:
+  She’s holding a brown KFC paper bag on top of her head with both hands, elbows lifted outward. Her expression is playful and a bit cheeky, one eye closed in a wink, lips slightly pouted, giving a mock-annoyed yet cute vibe.
+  Outfit & styling:
+  She wears a fitted white sleeveless top, with long, dark flowing hair. Minimal accessories like a thin necklace or chain. Long, well-manicured nails. Overall look is casual, clean, and effortlessly stylish.
+  Table setup:
+  The table in front is cluttered with KFC-style items, fried chicken buckets, fries, wrappers, branded paper cups with straws, dipping sauces, napkins, tray liner with colorful illustrated graphics, and a crumpled takeaway bag. The arrangement feels natural, slightly chaotic, like mid-meal.
+  Environment:
+  Modern KFC interior with a mix of white tiles and darker textured walls, subtle branding or typography on the walls, booth seating, and a few tables or stools visible in the background. Typical fast-food ambiance.
+  Camera & lighting:
+  Shot like a raw iPhone photo, slightly wide lens distortion, overhead indoor lighting that creates mild shadows, unfiltered and authentic. Feels like a spontaneous social media snap rather than a staged shoot.
+  Important details:
+  Keep the booth framing, bag-on-head pose, wink + pout expression, white sleeveless outfit, and messy fast-food spread consistent. Focus on realism, natural skin texture, accurate food packaging, no smoothing or beauty filters.
+  Format: 4K resolution, vertical aspect ratio.

@@ -1,0 +1,93 @@
+id: gpt-image-portugal-lisbon-double-exposure-poster
+title:
+  en: Profile portrait fused with Lisbon, Portugal travel poster
+  zh: 侧脸人像与里斯本城市融合的葡萄牙旅游海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- double-exposure
+- travel-poster
+- editorial
+- portrait
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2060332705532063968
+  credit: Nexora
+  likes: 775
+  captured: '2026-10-29'
+  posted: '2026-05-29'
+notes:
+  en: 'The prompt fixes the layout first: a portrait double exposed with landmarks, a creamy beige field, golden hour grading, and a small serif title block with a tagline. Listing landmarks, transport and street life by category gives concrete content without dictating every detail.'
+  zh: 提示词先固定版式：人像与地标做双重曝光融合，奶油米色底色，黄金时刻暖色调分级，衬线字体的标题和标语。按类别列出地标、交通和街景，既给出具体内容，又不限定每个细节。
+prompt: |
+  Create an ultra-premium cinematic travel poster in a sophisticated double-exposure editorial style.
+
+  Use [CELEBRITY NAME] from [COUNTRY] as the main subject. Preserve the exact recognizable facial structure, hairstyle, expression, skin texture, and realistic likeness of the celebrity with photorealistic detail.
+
+  The composition should feel like a luxury international tourism campaign mixed with high-end fashion editorial photography and professional Adobe Photoshop compositing.
+
+  Design the poster using the actual map/silhouette shape of [COUNTRY] as a major compositional element. Seamlessly blend the celebrity portrait into the country silhouette while integrating iconic landmarks, architecture, skylines, streets, culture, transportation, landscapes, nature, and atmosphere of [COUNTRY].
+
+  The celebrity should appear stylish, elegant, and cinematic, wearing modern luxury travel fashion such as a neutral-toned jacket, minimal outfit, and sophisticated traveler styling.
+
+  Inside the composition, include realistic iconic elements associated with [COUNTRY], such as:
+
+  - famous monuments
+  - skyline/city views
+  - historical architecture
+  - coastal or mountain scenery
+  - local culture and transportation
+  - cinematic streets and cafes
+  - recognizable national atmosphere
+
+  Use MASTER-LEVEL PROFESSIONAL COLOR GRADING:
+
+  - warm cinematic golden-hour lighting
+  - creamy beige/off-white luxury background
+  - rich soft highlights
+  - muted premium tones
+  - subtle shadows
+  - atmospheric haze
+  - realistic contrast
+  - filmic dynamic range
+  - elegant depth separation
+  - polished editorial finish
+
+  The blending must look seamless and realistic:
+
+  - no harsh edges
+  - no artificial overlays
+  - no clutter
+  - no random floating elements
+  - realistic light interaction
+  - smooth compositing transitions
+  - natural texture consistency
+
+  Typography should look like a luxury tourism brand campaign:
+
+  - elegant serif fonts
+  - minimal clean layout
+  - refined spacing
+  - premium hierarchy
+  - cinematic slogan/tagline
+  - subtle decorative elements
+
+  Poster aesthetic:
+
+  - luxury travel advertisement
+  - Netflix documentary poster vibe
+  - high-end tourism campaign
+  - editorial magazine quality
+  - timeless sophisticated aesthetic
+  - cinematic realism
+  - polished professional design
+  - visually balanced composition
+  - strong focal hierarchy
+
+  Avoid:
+  cartoon style, AI artifacts, distorted anatomy, extra limbs, oversaturated colors, messy composition, fake lighting, unrealistic textures, duplicate features, low-quality blending, cheap typography, cluttered layout, random elements, exaggerated fantasy effects.
+
+  Ultra realistic, highly detailed, photorealistic, cinematic, masterpiece quality, professional color grading, luxury editorial aesthetic.
+
+  Aspect Ratio: 1:1

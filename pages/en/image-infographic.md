@@ -1,6 +1,6 @@
 # Infographics and slides
 
-[Back to the list](../../README.md) · All 68 entries
+[Back to the list](../../README.md) · All 89 entries
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### Encyclopedia infographic card of the James Webb Telescope
@@ -99,6 +99,39 @@ The image must strongly emphasize:
 
 </details>
 
+<a id="gpt-image-pink-hair-earbud-case-infographic"></a>
+### Model holds open earbud case in ad poster
+
+<a href="https://x.com/rovvmut_/status/2047912710365761828"><img src="../../previews/gpt-image-pink-hair-earbud-case-infographic.jpg" width="360"></a>
+
+The prompt sets three depth layers, a macro foreground, a midground subject and a soft background, and gives every text block its exact wording and position. This keeps the typography legible and the layout close to the brief.
+
+GPT Image 2 · Text-to-image · Source: [@rovvmut_ on X](https://x.com/rovvmut_/status/2047912710365761828) · 1,034 likes on 2026-10-29
+
+[`infographic`](tags.md#tag-infographic) [`earbuds`](tags.md#tag-earbuds) [`product-ad`](tags.md#tag-product-ad) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GPT Image 2 on
+@SocialSight
+
+
+Prompt: High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
+Foreground: An extreme close-up of a hand holding an open, glossy white wireless earbud charging case toward the camera. Inside the case are two sleek white earbuds with black speaker accents. A tiny, glowing green LED status light is visible on the front of the case. The hand and case have a slight macro-lens blur to create a sense of depth.
+Central Subject: In the mid-ground, a smiling young woman with freckles and wavy pastel-pink hair. She is wearing a vibrant lime-green knit beanie and a psychedelic, black and white-striped long-sleeve shirt. One white earbud is tucked into her ear.
+Background & Lighting: A clean, soft-focus studio backdrop with a light-gray gradient. The scene is accented by diagonal rainbow prism lens flares and soft light leaks. Several blurred white earbuds float artistically in the background. The lighting is soft and professional, highlighting the glossy plastic of the product.
+Typography & Layout (Sans-Serif, White):
+Top Center (Background): Massive, bold text reading "AIRPODS" (positioned behind the model).
+Top Right: Bold text reading "Apple Pods Pro 3".
+Mid-Left: "Premium sound and noise cancellation"
+Mid-Right: Large, bold "30" with the text "hours of battery life."
+Bottom-Right: Large, bold "1" with the text "year warranty."
+Style: 8k resolution, commercial product photography, vibrant color palette, sharp focus on the product case, shallow depth of field, clean advertising aesthetic.
+```
+
+</details>
+
 <a id="gpt-image-endangered-animal-infographic-bengal-tiger"></a>
 ### Endangered Bengal Tiger Annotated Infographic Poster
 
@@ -116,6 +149,50 @@ GPT Image 2 · Text-to-image · Source: [@MrDasCreates on X](https://x.com/MrDas
 Animal Infographic by GPT Image 2 on ChatGPT app
 
 Prompt: Create a visually rich infographic about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.
+```
+
+</details>
+
+<a id="nano-banana-f1-australian-gp-2026-qualifying"></a>
+### Australian Grand Prix 2026 qualifying results infographic
+
+<a href="https://x.com/maxescu/status/2030227188679655426"><img src="../../previews/nano-banana-f1-australian-gp-2026-qualifying.jpg" width="360"></a>
+
+The brief names the event and session and asks for the latest results, which fixes the scope and the data. That one request is enough to produce a full broadcast look with a pole spotlight, a classification table, gaps to pole and a track map.
+
+Nano Banana 2 · Text-to-image · Source: [@maxescu on X](https://x.com/maxescu/status/2030227188679655426) · 659 likes on 2026-10-29
+
+[`f1`](tags.md#tag-f1) [`infographic`](tags.md#tag-infographic) [`sports-data`](tags.md#tag-sports-data) [`web-search`](tags.md#tag-web-search)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate a detailed infographic showcasing the qualifying results for the Australian Grand Prix 2026 from today. Search the web for the most recent and accurate data.
+```
+
+</details>
+
+<a id="gpt-image-1990s-anime-character-styles-catalog"></a>
+### 1990s anime character styles catalog with 16 labeled archetypes
+
+<a href="https://x.com/aimikoda/status/2058152463031488981"><img src="../../previews/gpt-image-1990s-anime-character-styles-catalog.jpg" width="360"></a>
+
+Naming the era, the language, a labeled grid layout and one archetype per panel gives a consistent, scannable reference sheet from a single sentence. Specifying the 16:9 ratio fixes the canvas so the grid fills the frame.
+
+GPT Image 2 · Text-to-image · Source: [@aimikoda on X](https://x.com/aimikoda/status/2058152463031488981) · 590 likes on 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`infographic`](tags.md#tag-infographic) [`character-design`](tags.md#tag-character-design) [`style-catalog`](tags.md#tag-style-catalog)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Anime character styles are incredibly diverse and researching them one by one can get exhausting fast. I'm using a simple GPT Image 2 prompt that turns this process into a visual catalog by generating infographic-style posters with different anime character archetypes, visual languages and era-specific styles all in a single image.
+
+It is a quick way to explore, compare and study character design directions without jumping between dozens of references. Great for inspiration, style research and building visual libraries.
+
+You can tweak a few parts of the prompt to explore other directions as well, such as stylized 3D animation looks, cinematic visual languages or even film-inspired design catalogs.
+
+Example Prompt: Create an English infographic catalog poster showing 1990s anime character styles in a clean labeled grid layout, each panel featuring a different archetype and visual language. Use 16:9 aspect ratio.
 ```
 
 </details>
@@ -650,6 +727,27 @@ The image must strongly emphasize:
 
 </details>
 
+<a id="gpt-image-serum-affiliate-five-scene-storyboard"></a>
+### Five step vertical storyboard for a pink body serum
+
+<a href="https://x.com/AizaAi12/status/2094970821219627239"><img src="../../previews/gpt-image-serum-affiliate-five-scene-storyboard.jpg" width="360"></a>
+
+The prompt fixes the frame count, scene length and aspect ratio up front, then anchors the product to a reference photo so the same bottle stays consistent across all five panels. Timed scene labels and short captions turn the output into a usable ad plan.
+
+GPT Image 2 · Edit · Source: [@AizaAi12 on X](https://x.com/AizaAi12/status/2094970821219627239) · 353 likes on 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`product-ad`](tags.md#tag-product-ad) [`affiliate`](tags.md#tag-affiliate) [`reference-photo`](tags.md#tag-reference-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a vertical storyboard sheet in a 9:16 aspect ratio for a 10-second TikTok/Shopee Affiliate product advertisement video, consisting of exactly 5 different scenes, with each scene lasting approximately 2 seconds.
+
+Use the product from the reference photo as the main product. Keep the product 100% identical to the reference photo, including its shape, color, size, material, texture, pattern, logo, packaging, and all other important details.
+```
+
+</details>
+
 <a id="gpt-image-reference-style-educational-infographic-template"></a>
 ### Reference Style Educational Infographic Handbook Page
 
@@ -852,6 +950,322 @@ A professional educational infographic for a [Subject], designed in a modern "Te
 
 </details>
 
+<a id="gpt-image-airpods-model-case-infographic"></a>
+### Model holding AirPods case in feature infographic
+
+<a href="https://x.com/mehvishs25/status/2049513437542461551"><img src="../../previews/gpt-image-airpods-model-case-infographic.jpg" width="360"></a>
+
+Naming the product, a reference image for identity, and a fixed set of labelled callouts gives an ad layout with clear negative space. Stating the palette, lighting and 1:1 ratio keeps the result consistent in a commerce ad style.
+
+GPT Image 2 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2049513437542461551) · 227 likes on 2026-10-29
+
+[`airpods`](tags.md#tag-airpods) [`infographic`](tags.md#tag-infographic) [`reference-identity`](tags.md#tag-reference-identity) [`product-ad`](tags.md#tag-product-ad)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+High-end e-commerce infographic featuring Apple AirPods (latest generation). A young woman (same face and identity as the provided reference image) is the central subject, shown in a clean studio setting with soft, diffused lighting. She is wearing AirPods in her ears, naturally integrated into the scene, and holding the open AirPods charging case in her hand at chest level, slightly angled toward the camera.
+The composition should feel premium and minimal, with a crisp white or light gradient background. Include subtle reflections and soft shadows for a polished product-ad look. The AirPods case should be glossy white with visible earbuds inside and a small LED indicator light.
+Add modern infographic elements around the subject: – Thin, elegant pointer lines highlighting key features
+– Minimal icons and short labels such as “Active Noise Cancellation,” “Spatial Audio,” “Long Battery Life,” and “Seamless Connectivity”
+– Clean sans-serif typography (Apple-style aesthetic)
+– Balanced layout with negative space, not cluttered
+Style: ultra-realistic, sharp focus, shallow depth of field, commercial photography quality, Apple-inspired design language
+Color palette: white, light grey, soft blue accents
+Aspect ratio: 1:1
+Resolution: 4K, highly detailed, professional product showcase
+```
+
+</details>
+
+<a id="gpt-image-nintendo-switch-price-hike-news-cover"></a>
+### Chinese news cover on Nintendo nationwide price hike
+
+<a href="https://x.com/dotey/status/2052942818570543550"><img src="../../previews/gpt-image-nintendo-switch-price-hike-news-cover.jpg" width="360"></a>
+
+The prompt locks the article into a fixed layout: a news tag row, an oversized bold Chinese headline with the key percentage highlighted, a central hero product, and numbered cards that show old and new prices side by side. A five-icon summary strip at the bottom closes the hierarchy so each element reads in order.
+
+GPT Image 2 · Text-to-image · Source: [@dotey on X](https://x.com/dotey/status/2052942818570543550) · 227 likes on 2026-10-29
+
+[`news-cover`](tags.md#tag-news-cover) [`data-cards`](tags.md#tag-data-cards) [`chinese-typography`](tags.md#tag-chinese-typography) [`infographic-layout`](tags.md#tag-infographic-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+你是一名顶级中文科技媒体视觉设计师。
+
+你的任务是：
+
+根据用户输入的一整篇文章内容，自动提取核心新闻、关键数字、核心产品、行业情绪和信息层级，并生成一张高冲击力的中文科技新闻文章封面图。
+
+图片比例：16:9 横版。
+
+---
+
+【整体风格】
+
+生成一张「中文科技媒体爆款封面图」。
+
+整体风格参考：
+
+* 中国科技媒体头图
+* B站科技区爆款缩略图
+* 财经新闻视觉
+* 游戏行业信息图
+* 高冲击力 YouTube Thumbnail
+* “行业突发新闻”视觉风格
+
+要求：
+
+* 强烈视觉冲击
+* 信息密度高
+* 3 秒内看懂新闻重点
+* 专业媒体感
+* 大量数据卡片
+* 中文粗黑大标题
+* 明确的产品主视觉
+* 明确的情绪表达
+* 不要极简风
+* 不要 Apple 风
+* 不要电影海报风
+* 要像“行业大事件”
+
+---
+
+【自动分析文章】
+
+你必须先自动从文章中提取：
+
+1. 最适合作为封面的主标题
+2. 最有冲击力的副标题
+3. 最重要的数字
+4. 最大涨幅、跌幅或变化幅度
+5. 最核心的产品、品牌或人物
+6. 最能制造视觉冲击的信息
+7. 用户最关心的结论
+8. 文章整体情绪
+
+文章情绪可以是：
+
+* 暴涨
+* 暴跌
+* 涨价
+* 崩盘
+* 封禁
+* 突破
+* 发布
+* 革命
+* 危机
+* 反转
+* 震动
+* 警告
+* 机会
+* 行业洗牌
+
+然后把这些信息转化为视觉设计。
+
+---
+
+【构图结构】
+
+画面采用高密度信息图式布局，自动生成以下区域：
+
+1. 顶部新闻区
+
+* 放品牌名、产品名或行业标签
+* 加入“突发”“官方宣布”“重磅”“最新”“行业震动”等新闻标签
+* 标签内容根据文章情绪自动选择
+
+2. 中央超大标题区
+
+* 使用超巨大中文标题
+* 字体粗壮
+* 强烈立体感
+* 可带轻微破损、压迫、速度或科技纹理
+* 关键词用高亮色突出
+* 标题必须短、狠、直接
+* 让读者 3 秒内知道发生了什么
+
+3. 主视觉产品区
+
+* 自动识别文章中的核心产品、品牌、设备、人物或象征物
+* 将其作为画面最大视觉主体之一
+* 产品应有透视感、层次感、光效和冲击力
+* 背后可以加入行情图、能量光、箭头、爆炸线、科技 HUD、速度线等元素
+
+4. 数据卡片区
+
+自动把文章中的关键信息做成多个卡片，包括但不限于：
+
+* 价格变化
+* 涨跌幅
+* 时间节点
+* 地区差异
+* 销量
+* 成本
+* 市值
+* 用户影响
+* 行业对比
+
+数据卡片要求：
+
+* 旧数据可以使用删除线
+* 新数据必须更醒目
+* 百分比、金额、时间必须突出
+* 每张卡片只表达一个重点
+* 卡片之间层级清晰，不要堆成一团
+
+5. 底部总结区
+
+自动提取文章中的 3–5 个结论，做成图标化摘要：
+
+* 原因
+* 影响
+* 趋势
+* 风险
+* 机会
+* 用户建议
+* 行业判断
+
+每个结论用「图标 + 短句」呈现。
+
+---
+
+【配色策略】
+
+不要固定使用某一种配色。
+你必须根据文章的行业、品牌、情绪和新闻性质，自动生成一套高冲击力封面配色。
+
+配色必须遵循以下原则：
+
+1. 品牌优先
+
+如果文章中出现明确品牌、产品或公司，优先提取其品牌识别色作为主色调。
+但不要机械复制 Logo 颜色，要转化为更适合封面的高对比视觉系统。
+
+2. 情绪优先
+
+根据新闻情绪自动选择色彩方向：
+
+* 涨价、危机、封禁、暴雷、裁员、监管、事故：
+  使用高压迫感、高警示感、高对比色彩。
+
+* 发布、升级、突破、胜利、增长：
+  使用更明亮、更有能量的科技色彩。
+
+* AI、芯片、未来科技、模型发布：
+  使用冷色科技感配色。
+
+* 财经、股价、市值、成本、价格：
+  使用金融信息图配色。
+
+* 游戏、娱乐、消费电子：
+  使用更强烈、更年轻、更商业化的高饱和配色。
+
+3. 对比关系
+
+画面必须建立清晰的对比层级：
+
+* 背景色：负责情绪氛围
+* 主标题色：必须与背景形成强烈反差
+* 重点数字色：必须是全图最醒目的颜色之一
+* 辅助信息色：降低饱和度，避免抢主标题
+* 警示/强调色：只用于关键词、箭头、涨跌幅和标签
+
+4. 色彩数量控制
+
+整张图控制在 3–5 个主要颜色内：
+
+* 1 个主背景色
+* 1 个品牌/主题主色
+* 1 个强强调色
+* 1 个文字高对比色
+* 1 个辅助信息色
+
+不要使用过多杂乱颜色。
+即使信息密度很高，配色也必须统一。
+
+5. 信息情绪匹配
+
+配色必须服务于文章核心情绪：
+
+* 坏消息：压迫感、警示感、冲击感
+* 好消息：爆发感、速度感、未来感
+* 行业分析：专业感、数据感、冷静但有冲击力
+* 消费建议：让用户一眼看到风险、机会或行动窗口
+
+6. 禁止事项
+
+* 不要默认使用红黑配色
+* 不要使用柔和小清新配色，除非文章本身是生活方式、教育、亲子、文艺类主题
+* 不要使用低对比配色
+* 不要让背景色、标题色和数字色互相打架
+* 不要因为品牌色存在，就牺牲可读性
+
+---
+
+【字体】
+
+* 中文超粗黑体
+* 大标题必须极其醒目
+* 数字和百分比必须巨大
+* 重要数字可以使用描边、阴影、立体效果
+* 字体要有新闻冲击感
+* 不要使用纤细字体
+* 不要使用文艺字体
+
+---
+
+【背景】
+
+根据文章情绪自动选择背景元素：
+
+* 财经/涨跌类：行情图、上涨/下跌箭头、数字网格、金融曲线
+* AI/科技类：HUD、芯片纹理、发光线条、数据流
+* 游戏/消费电子类：产品光效、速度线、爆炸形状、品牌元素
+* 危机/监管类：警示纹理、印章、封条、暗色压迫背景
+* 发布/突破类：光束、能量环、未来感渐变、发光粒子
+
+背景不能太空。
+但也不能干扰标题和数字阅读。
+
+---
+
+【排版原则】
+
+* 信息密度高，但层级必须清晰
+* 一眼先看标题
+* 第二眼看产品
+* 第三眼看关键数字
+* 第四眼看细节卡片
+* 所有文字必须尽量清晰可读
+* 中文排版要像专业媒体编辑做的封面
+* 不要平均用力
+* 不要把所有信息做得一样大
+
+---
+
+【输出要求】
+
+最终输出一张：
+
+* 专业
+* 高冲击力
+* 媒体级
+* 中文科技新闻封面图
+* 16:9 横版
+* 信息密集但清晰
+* 适合作为公众号、视频封面、文章头图使用
+
+---
+
+【用户文章】
+
+{{ARTICLE}}
+```
+
+</details>
+
 <a id="nano-banana-exploded-food-infographic-layers"></a>
 ### Exploded Layer Infographic of Food Dishes
 
@@ -892,6 +1306,71 @@ GPT Image 2 · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/s
 
 ```text
 Create a high-quality “Female Beauty & Makeup Analysis Guide” infographic based on the uploaded portrait photo, designed in a clean modern magazine-style layout with a 9:16 aspect ratio, using the original image while preserving exact facial features and natural identity without over-retouching. Focus on a soft, elegant, natural aesthetic with subtle makeup and refined grooming. Include sections such as Face Overview (face shape, skin tone, skin type, and facial definition), Beauty Style (titles like “Soft Glam Natural” or “Elegant Minimal” with a handwritten accent), and an Intensity Level scale showing low-to-medium makeup. Add feature breakdown visuals highlighting a smooth natural base (matte or dewy), softly defined brows, neutral eyeshadow, subtle eyeliner, natural lashes, light blush and contour, and hydrated nude lips. Use a neutral feminine color palette of beige, peach, rose, taupe, and warm tones. Include minimal visual icons for products like BB cream, concealer, blush, mascara, brow gel, compact powder, and lip tint. Add quick tips such as keeping makeup natural, blending smoothly, and avoiding heavy layering. Include a final section titled “Soft, Radiant & Effortless.” Ensure the design is clean, balanced, and premium with 8K cinematic quality.
+```
+
+</details>
+
+<a id="gpt-image-google-isometric-stock-scene"></a>
+### Isometric Google campus with stock price chart
+
+<a href="https://x.com/dotey/status/2046718861337051217"><img src="../../previews/gpt-image-google-isometric-stock-scene.jpg" width="360"></a>
+
+The prompt fixes a 45 degree top-down isometric camera and a Cinema 4D PBR look, then stacks the company name, date and price range by size at top-centre on a solid background. The iconic Googleplex sits in the middle, ringed by product icons and small figures, while a stock trend chart carries the data layer.
+
+GPT Image 2 · Text-to-image · Source: [@dotey on X](https://x.com/dotey/status/2046718861337051217) · 213 likes on 2026-10-29
+
+[`isometric`](tags.md#tag-isometric) [`stock-chart`](tags.md#tag-stock-chart) [`cinema-4d`](tags.md#tag-cinema-4d) [`miniature`](tags.md#tag-miniature)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Present an exquisite, miniature 3D cartoon-style scene of the company corresponding to the user-specified company name or stock ticker, clearly viewed from a 45° top-down perspective.
+
+Place the company's most iconic building or campus prominently at the center, complemented by proportionally-sized icons of its key products, charming cartoon-style figures, vehicles, and other elements illustrating everyday company activities. The scene should be detailed, finely crafted, and playful.
+
+Rendered with Cinema 4D, the modeling should be refined, smoothly rounded, and rich in texture, accurately capturing realistic PBR materials. Gentle, lifelike lighting and soft shadows should create a warm, comfortable ambiance.
+
+Creatively integrate the company's real-time stock market data for the user-specified date (or automatically retrieved current date) into the scene, maintaining a clean, minimalist layout and a solid-color background to highlight the primary content.
+
+At the top-center of the scene, prominently display the company name or stock ticker in a large font size, followed by the specified date in extra-small font, and the stock price range in a medium-sized font. Include clear, intuitive stock trend icons and charts.
+
+All texts should be displayed in the language specified or entered by the user, without any background, and may subtly overlap with the scene elements to enhance overall design integration.
+
+Very Important:
+Before generating, ensure accurate and up-to-date stock market data based on the user-inputted company name or stock ticker and the specified date. If such data is unavailable, notify the user immediately and stop the generation process.
+
+Parameters:
+
+* Aspect ratio: {User input, default 4:3}
+* Date: {User input, current date}
+* Company name or stock ticker: {User input}
+
+---
+
+Company Name: Google
+```
+
+</details>
+
+<a id="gpt-image-ai-memory-anime-self-infographic"></a>
+### Anime cartoon infographic about the user, from memory
+
+<a href="https://x.com/icreatelife/status/2047042187683066100"><img src="../../previews/gpt-image-ai-memory-anime-self-infographic.jpg" width="360"></a>
+
+The prompt hands the content to ChatGPT memory, so the model fills in a personal bio, values and hobbies without any details typed in. Naming two formats, infographic and cartoon anime, gets a layout of labeled panels around a character portrait.
+
+GPT Image 2 · Text-to-image · Source: [@icreatelife on X](https://x.com/icreatelife/status/2047042187683066100) · 209 likes on 2026-10-28
+
+[`infographic`](tags.md#tag-infographic) [`anime`](tags.md#tag-anime) [`self-portrait`](tags.md#tag-self-portrait) [`chatgpt-memory`](tags.md#tag-chatgpt-memory) [`personalized`](tags.md#tag-personalized)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ask ChatGPT knowing everything it knows about you to generate an image of yourself with GPT Image 2
+
+prompt: Knowing everything you know about me,  make an infographic of me. Make a cartoon anime style image.
+
+I'd love to see what you got.
 ```
 
 </details>
@@ -996,6 +1475,107 @@ Avoid:
 • exaggerated cinematic action scenes
 
 The final result should resemble a professionally published natural-history reference-book page created for wildlife enthusiasts, zoologists, museums, biology institutions, desert researchers, and educational archives.
+```
+
+</details>
+
+<a id="gpt-image-nutella-commercial-storyboard-sheet"></a>
+### Eight panel Nutella storyboard with pancake and jar scenes
+
+<a href="https://x.com/itxabdullaa/status/2096915887504982258"><img src="../../previews/gpt-image-nutella-commercial-storyboard-sheet.jpg" width="360"></a>
+
+Each panel is a numbered card with a duration badge, camera direction, visual, action and product detail, so the layout reads as a real agency storyboard. Close shots of the spread and the jar keep the hero product in every frame.
+
+GPT Image 2 · Text-to-image · Source: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2096915887504982258) · 181 likes on 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`food-ad`](tags.md#tag-food-ad) [`product-ad`](tags.md#tag-product-ad) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Premium Nutella Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury food product advertising
+• 8 cinematic product-focused scenes
+• Product remains the main hero
+• High-end advertising agency presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+
+- Duration: 20 Seconds
+- Style: Cinematic Gourmet Food Commercial
+- Product: Nutella Hazelnut Spread
+- Audio: Soft Spread + Food ASMR
+  • Why This Style Works section
+  • Warm brown, cream and golden aesthetic
+  • Minimal hazelnut decorative accents
+
+STORYBOARD:
+
+1. Premium Nutella jar standing on polished dark wood
+2. Jar lid opening in extreme macro
+3. Creamy Nutella slowly spreading from the jar
+4. Chocolate spread forming a glossy ribbon in mid-air
+5. Nutella cascading over fluffy pancakes
+6. Extreme macro showing rich chocolate texture and tiny reflections
+7. Pancake stack surrounded by the hero jar and hazelnuts
+8. Final luxury product packshot with dramatic Nutella spread
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion spread photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food advertising, realistic spread viscosity, glossy chocolate texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.
+```
+
+</details>
+
+<a id="nano-banana-ronaldo-trophy-design-process-panel"></a>
+### Ronaldo kick sketch evolves into metallic trophy
+
+<a href="https://x.com/ShamsAmin56/status/2048766556008587323"><img src="../../previews/nano-banana-ronaldo-trophy-design-process-panel.jpg" width="360"></a>
+
+Fixing the layout as five labelled stages from left to right and giving each panel a role makes the model carry one subject through literal sketch, gesture overlay, line art abstraction and a final metallic render. Naming the white background and pencil medium keeps the whole sheet in one consistent drawing style.
+
+Nano Banana 2 · Text-to-image · Source: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2048766556008587323) · 170 likes on 2026-10-29
+
+[`pencil-sketch`](tags.md#tag-pencil-sketch) [`process-panel`](tags.md#tag-process-panel) [`trophy`](tags.md#tag-trophy) [`sports`](tags.md#tag-sports)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Style: An iterative industrial design process panel, rendered as a technical pencil sketch on a clean white background.
+Layout: Five distinct stages of analysis aligned horizontally in a progression from left to right.
+
+The Subject: [FIGURE/ACTION]
+
+The Progression:
+Panel 1: The Literal Form: A faithful, naturalistic sketch of the [Subject] in its primary, functional pose or state. This panel establishes the base reality, with accurate proportions and basic shadow rendering.
+
+Panel 2: Dynamic Motion Analysis: A reproduction of the sketch from Panel 1, but overlaid with clear, sweeping gesture lines and arcs that trace the key energy and path of movement. These lines highlight the fundamental forces acting upon or generated by the [FIGURE].
+
+Panel 3: Transition and Intersection: A semi-abstract sketch where the literal form of the [Subject] and the dynamic lines from Panel 2 begin to merge. The internal structure becomes softer, and the dynamic gesture lines solidify and integrate with the primary silhouette.
+
+Panel 4: Structural Distillation (Line Art): The [FIGURE] has been completely abstracted into a clean, geometric line-art form. It is a sculptural object defined entirely by the energy paths and volume, with all internal realistic details stripped away. It is an empty, elegant, structural ribbon-like form.
+
+Panel 5: Final Sculptural Product (Rendered): The final evolution of the abstract form from Panel 4, now presented as a finished design object (e.g., a trophy or monument). The sketch is polished with heavy cross-hatching and depth shading to define its volumes, making it appear solid and metallic. A refined logo and text, reading "[Optional Logo/Text Here]", is clearly integrated into the base of the final object.
+
+➡️ I uploaded my reference images of both the Trophy and Subject (Me) into NB2 for merging the scene as
+
+"Hold the trophy, add a background of the award show, lock the consistency 100%"
 ```
 
 </details>
@@ -1307,6 +1887,111 @@ A professional educational infographic for a [Subject], designed in a modern "Te
 
 </details>
 
+<a id="gpt-image-sony-a7-iv-camera-infographic"></a>
+### Sony a7 IV camera reference infographic
+
+<a href="https://x.com/j_smeaton99/status/2056003752927379750"><img src="../../previews/gpt-image-sony-a7-iv-camera-infographic.jpg" width="360"></a>
+
+Naming every section, callout and palette colour in the brief keeps a dense square layout organised rather than cluttered. A camera-model slot in the template lets the same brief be reused for other camera bodies.
+
+GPT Image 2 · Text-to-image · Source: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2056003752927379750) · 134 likes on 2026-10-29
+
+[`infographic`](tags.md#tag-infographic) [`sony`](tags.md#tag-sony) [`camera`](tags.md#tag-camera) [`product-reference`](tags.md#tag-product-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium square “reference-style photography equipment infographic” centered around a modern Sony mirrorless camera such as the {CAMERA_MODEL}, designed as a beautifully curated camera-engineering handbook page rather than a retail advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite photographer’s field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium studio-tech background with subtle photography-grid textures, optical schematics, and cinematic UI overlays
+• Elegant muted palette using matte black, graphite gray, titanium silver, warm orange accents, and subtle electric-blue highlights
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal professional photography iconography
+• Extremely detailed central camera render viewed in dramatic three-quarter perspective with studio lighting and shallow depth-of-field aesthetics
+• Thin precision annotation lines pointing toward camera hardware systems and imaging technologies
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {CAMERA_MODEL} placed at the center, featuring premium magnesium-alloy body textures, realistic lens glass reflections, tactile control dials, advanced sensor detailing, cinematic lighting, and ultra-realistic photography gear presentation.
+
+Surround the camera with scientific and engineering callouts explaining:
+
+• full-frame image sensor
+• AI autofocus system
+• image stabilization technology
+• electronic viewfinder system
+• advanced video recording features
+• dual card-slot architecture
+• battery performance system
+• weather-sealed body design
+• lens ecosystem compatibility
+• wireless connectivity systems
+
+Include modular infographic sections such as:
+
+• Camera Overview
+• Technical Specifications
+• Dimensions & Build
+• Sensor & Image Quality
+• Processor & Performance
+• Autofocus & Subject Tracking
+• Video Recording Features
+• Stabilization Technology
+• Shooting Modes & Burst Performance
+• Lens Ecosystem
+• Battery & Power System
+• Connectivity Features
+• Professional Workflow Integration
+• Included Accessories & Box Contents
+• “Top 5 Reasons to Choose” section
+• Ideal Photography & Filmmaking Use Cases
+
+Add small premium visualization modules like:
+
+• sensor cutaway diagrams
+• autofocus coverage maps
+• stabilization system graphics
+• lens ecosystem displays
+• battery performance charts
+• video codec comparison tables
+• camera blueprint dimensions
+• menu/UI mockups
+• accessory ecosystem visuals
+• performance benchmark graphics
+
+Style Keywords:
+
+“premium photography encyclopedia”
+“editorial camera handbook”
+“high-end photography infographic”
+“scientific imaging technology poster”
+“museum-quality camera reference page”
+“modular photography knowledge system”
+“clean cinematography editorial design”
+“ultra-detailed camera visualization”
+
+Avoid:
+
+• generic e-commerce advertisement aesthetics
+• cluttered tech layouts
+• unrealistic sci-fi hologram effects
+• cartoon camera styling
+• excessive cyberpunk neon overload
+• low-detail product renders
+
+The final result should resemble a professionally published photography-equipment reference-book page created for photographers, cinematographers, content creators, camera collectors, engineers, and educational imaging archives.
+```
+
+</details>
+
 <a id="nano-banana-black-reflective-ingredient-deconstruction-infographic"></a>
 ### Deconstructed Margherita Pizza Ingredient Infographic on Black
 
@@ -1578,6 +2263,234 @@ o be visually striking and scroll stopping",
 
 </details>
 
+<a id="gpt-image-camera-evolution-timeline-infographic"></a>
+### Camera evolution timeline from film to AI
+
+<a href="https://x.com/AIwithkhan/status/2053487042605326593"><img src="../../previews/gpt-image-camera-evolution-timeline-infographic.jpg" width="360"></a>
+
+Each camera era is listed in chronological order with a date label, a product render, spec callouts and a matching sample frame, so the timeline structure carries the whole poster. The dark background with gold and neon blue accents keeps the palette consistent from top to bottom.
+
+GPT Image 2 · Text-to-image · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2053487042605326593) · 100 likes on 2026-10-29
+
+[`infographic`](tags.md#tag-infographic) [`timeline`](tags.md#tag-timeline) [`camera`](tags.md#tag-camera) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra detailed vertical infographic poster showing the evolution of cameras from vintage film photography to futuristic AI cinematic systems. Include realistic renders of vintage film cameras, disposable cameras, VHS camcorders, DSLR cameras, mirrorless cameras, smartphone cinema rigs, drone cameras, and futuristic AI-powered cinema cameras. Arrange them in a clean timeline layout with glowing technical callouts, cinematic labels, UI overlays, camera specs, lens details, and photography icons. Dark premium background with gold and neon blue accents, realistic textures, dramatic studio lighting, cinematic photography aesthetic, modern editorial design, high-tech sci-fi feel, ultra sharp details, magazine-quality infographic style, symmetrical composition, realistic reflections, futuristic interface graphics.”
+```
+
+</details>
+
+<a id="nano-banana-base-weekly-recap-logo-grid"></a>
+### Base weekly recap as logo tiles by section
+
+<a href="https://x.com/BaseHubHB/status/2108996198862643330"><img src="../../previews/nano-banana-base-weekly-recap-logo-grid.jpg" width="360"></a>
+
+The prompt lists each section with its account handles, so the model turns every handle into a logo tile under a boxed section header. Keeping each full handle in the text lets each logo match its name.
+
+Nano Banana 2.1 · Text-to-image · Source: [@BaseHubHB on X](https://x.com/BaseHubHB/status/2108996198862643330) · 92 likes on 2026-10-29
+
+[`weekly-recap`](tags.md#tag-weekly-recap) [`logo-grid`](tags.md#tag-logo-grid) [`crypto-news`](tags.md#tag-crypto-news)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+📄 Base Weekly Recap
+
+What happened on
+@base
+ this week
+
+NEWS
+
+■
+@base
+ selected 10 teams for Base Batches 004 from more than 750 applications.
+
+■
+@base
+ added 26 tokenized stocks for eligible users outside the US.
+
+■
+@base
+ partnered with SMBC Nikko on an institutional DeFi gateway for Japan.
+
+■
+@base
+ enabled stablecoin checkout through Yuno.
+
+■
+@buildonbase
+ opened Cobalt TEE signer registration with B20 enhancements.
+
+■
+@CoinbaseMarkets
+ put Pons spot trading live.
+
+■
+@CoinbaseDev
+ and Gennius started bringing digital-asset services to banks in Latin America.
+
+STATS
+
+■
+@OpenGradient
+ crossed 1M private prompts and 12B processed tokens.
+
+■
+@Morpho
+ crossed $17B in deposits.
+
+■
+@aeroxyz
+ recorded $1.9B in tokenized-stock volume over 90 days.
+
+■
+@iPodAAPLc
+ opened $30K in Apple stock rewards.
+
+■
+@feeldotcash
+ announced a $25K stock-rewards race.
+
+ECOSYSTEM
+
+■
+@zothdotio
+ launched zMAG7, one deposit holding seven tokenized tech stocks.
+
+■
+@lucamoneyapp
+ expanded its digital-dollar app to tokenized stocks for more than 100K users.
+
+■
+@baibai_cx
+ added Coinbase Tokenized Stocks on Base.
+
+■
+@RIFTHQ
+ went live with one-click routing into Base with no added fees.
+
+■
+@Credifi
+ launched zkTLS credit verification through its iOS app and Chrome extension.
+
+■
+@RennFinance
+ entered Base Batches 004 with stock-borrowing protection.
+
+■
+@norafinancexyz
+ launched Reserva with 100% CDI yield for Brazilian users.
+
+■
+@get_grow_app
+ added access to 93 London Stock Exchange stocks.
+
+■
+@DefinitiveFi
+ added take-profit orders to its mobile app.
+
+■
+@harvest_finance
+ launched stock autocompounders for Coinbase Tokenized Stocks.
+
+■
+@MeatMETAc
+ opened a Meta stock vault with 24.9% APY.
+
+■
+@Uptopia_xyz
+ placed its first bid for Base Batches 004.
+
+■
+@Zyfai_
+ added new Base routing paths.
+
+■
+@Beezie
+ made its Grail+ collector event available to Base users.
+
+■
+@aave
+ added syrupUSDC as collateral through Aave V4 on Arc.
+
+AI
+
+■
+@AskVenice
+ added anonymous Nano Banana 2.1 and Claude Haiku access.
+
+■
+@openservai
+ reached 100% reliability across 2,400 Neol evaluations.
+
+■
+@KorProtocol
+ ranked in the top two for x402 volume across chains.
+
+■
+@PRXVTai
+ shipped px402 v2 for private agent payments.
+
+■
+@usedotai
+ added private Mistral Large 4 with no logs.
+
+■
+@virtuals_io
+ introduced Butler for automated portfolio rebalancing.
+
+■
+@1clawAI
+ added prompt-injection scoring, secret redaction, and exfiltration alerts.
+
+■
+@BlockRunAI
+ added batch x402 payments for AI model access.
+
+■
+@openroboto
+ improved LIBERO-Pro from 50.3 to 89.7 in 30 days.
+```
+
+</details>
+
+<a id="gpt-image-iphone-isometric-teardown-infographic"></a>
+### iPhone isometric teardown infographic with color coded callouts
+
+<a href="https://x.com/TechieBySA/status/2097692061554118999"><img src="../../previews/gpt-image-iphone-isometric-teardown-infographic.jpg" width="360"></a>
+
+The prompt fixes a 45 degree isometric angle, black linework on white, and a color key that maps power, data, thermal and sensors to red, blue, orange and green. Only the [OBJECT] slot changes, so the same layout works for any device.
+
+GPT Image 2.5 · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2097692061554118999) · 48 likes on 2026-10-29
+
+[`infographic`](tags.md#tag-infographic) [`isometric`](tags.md#tag-isometric) [`technical-drawing`](tags.md#tag-technical-drawing) [`product-teardown`](tags.md#tag-product-teardown)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Simply replace [OBJECT]:✨
+
+Create a technical infographic of [OBJECT] with a 45-degree isometric 3D perspective showing the device slightly tilted to reveal depth and dimension.
+Combine a realistic photoreal render with black ink technical annotations on pure white background. Include:
+Key component labels with color-coded callout boxes
+Internal component visibility through transparent/cutaway sections
+Measurements, dimensions, and precise scale markers
+Material callouts and quantities
+Color-coded arrows for function/flow: RED (power/battery), BLUE (data/connectivity), ORANGE (thermal/processor), GREEN (sensors/haptics)
+Simple schematics or cross-sectional diagrams where relevant
+
+Place “OBJECT” title in a hand-drawn technical box (top-left corner).
+Style: Black linework (technical pen/architectural), sketched but precise. Object remains clearly visible. Educational museum-exhibit vibe. Clean composition, balanced negative space.
+Perspective: Isometric 3D angle—tilted to show depth, dimension, and internal architecture dramatically. Like a professional product teardown or engineering manual.
+Colors: ~10-15% accent density. Black dominant. White background.
+Output: 1080×1080, ultra-crisp, social-feed optimized.”
+```
+
+</details>
+
 <a id="gpt-image-100-elements-scene-inventory"></a>
 ### Town scene with numbered 100 element list
 
@@ -1801,6 +2714,170 @@ GPT Image 2 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/st
 - 避免过多装饰，强调实用性与执行性
 
 请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。
+```
+
+</details>
+
+<a id="gpt-image-coca-cola-brand-personality-comic-infographic"></a>
+### Coca Cola brand personality comic infographic poster
+
+<a href="https://x.com/CallumGrey/status/2051293342139584922"><img src="../../previews/gpt-image-coca-cola-brand-personality-comic-infographic.jpg" width="360"></a>
+
+Uploading the logo as the source fixes the red and cream palette and the brand look across every panel. A fixed structure of eight numbered comic panels, a personality block and a DO and DON'T split keeps the layout dense and easy to scan.
+
+GPT Image 2 · Edit · Source: [@CallumGrey on X](https://x.com/CallumGrey/status/2051293342139584922) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`brand-strategy`](tags.md#tag-brand-strategy) [`comic`](tags.md#tag-comic) [`infographic`](tags.md#tag-infographic) [`character-design`](tags.md#tag-character-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using the uploaded logo, create a highly detailed, comic-style infographic poster:
+
+“What This Brand Feels Like”
+
+GOAL:
+Turn the brand into a living personality and visually explain how it behaves, speaks, and interacts with the world.
+This must feel like a mix of: brand strategy + character design + comic storytelling.
+
+---
+
+CORE RULE:
+Everything must come from the logo:
+- colors
+- style
+- tone
+- personality
+
+No generic personality traits.
+
+---
+
+MAIN STRUCTURE:
+Vertical 4:5 poster
+Dense layout with multiple panels
+Comic + infographic hybrid
+
+---
+
+TOP SECTION:
+- Brand name
+- Short personality statement (max 6 words)
+Example: “Quiet confidence with sharp edges”
+
+---
+
+MAIN CHARACTER (VERY IMPORTANT):
+Create a central character representing the brand:
+- humanized version of the brand
+- outfit reflects brand style
+- posture + expression reflect personality
+
+---
+
+AROUND THE CHARACTER:
+Create 6–8 comic panels showing how the brand behaves in different situations.
+
+---
+
+SCENARIO IDEAS:
+- Talking to customers
+- Handling competition
+- Selling a product
+- Social media presence
+- Reacting to criticism
+- Daily “brand life” moment
+
+---
+
+FOR EACH PANEL:
+Include:
+- short caption (max 6 words)
+- speech bubble or internal thought
+- clear visual action
+
+---
+
+TONE EXAMPLES:
+Luxury brand: calm, confident, minimal speech
+Playful brand: loud, chaotic, expressive
+Tech brand: precise, logical, clean
+
+---
+
+PERSONALITY TRAITS SECTION:
+Add small labeled blocks:
+- Voice tone (e.g. calm, bold, playful)
+- Energy level (low / medium / high)
+- Social behavior (introvert / extrovert)
+- Communication style
+
+Use:
+- icons
+- short labels
+
+---
+
+DO / DON’T SECTION:
+Add a split block:
+DO:
+- how the brand should act
+DON’T:
+- what breaks the identity
+
+Keep:
+- very short phrases
+
+---
+
+VISUAL ELEMENTS:
+- speech bubbles
+- icons
+- arrows
+- small reactions
+- exaggerated comic expressions
+
+---
+
+STYLE:
+- comic + editorial hybrid
+- slightly exaggerated but still premium
+- expressive but not childish
+
+---
+
+COLOR:
+- strictly based on logo palette
+- use color to reinforce personality
+
+---
+
+DEPTH:
+- 20–40 visual elements
+- multiple small panels
+- layered composition
+
+---
+
+IMPORTANT RULES:
+- must feel alive
+- must feel specific
+- no generic marketing words
+- no empty areas
+- keep text short but impactful
+
+---
+
+FINAL FEEL:
+Like:
+- a brand strategy turned into a character
+- a visual storytelling board
+- something people save and study
+
+NOT:
+- flat
+- generic
+- minimal
 ```
 
 </details>
@@ -2253,6 +3330,75 @@ Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated ed
 
 </details>
 
+<a id="gpt-image-four-luxury-watches-exploded-technical-grid"></a>
+### Four luxury watches in exploded technical grid
+
+<a href="https://x.com/Gdgtify/status/2056928396991488312"><img src="../../previews/gpt-image-four-luxury-watches-exploded-technical-grid.jpg" width="360"></a>
+
+The prompt is a structured design spec that fixes composition, materials, atmosphere and data-panel mutations, so the model applies one consistent Swiss brochure system. Specifying a 2x2 grid at 16:9 gives four equal panels, each with an exploded movement view and callouts.
+
+GPT Image 2 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2056928396991488312) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`luxury`](tags.md#tag-luxury) [`watch`](tags.md#tag-watch) [`exploded-view`](tags.md#tag-exploded-view) [`infographic`](tags.md#tag-infographic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:
+
+class Haute_Horlogerie_DNA:
+    def __init__(self):
+        self.subject = "[TIMEPIECE]"
+        self.parents = {
+            "composition_parent": "Exploded movement diagram with transparent case",
+            "material_parent": "Brushed titanium, sapphire crystal, rose gold gears, alligator leather",
+            "graphic_parent": "Swiss manufacture technical brochure with elegant data panels",
+            "atmosphere_parent": "Crisp daylight studio, pure white background, subtle reflection on polished surfaces"
+        }
+        self.mutations = {
+            "semantic_mutation": "The balance wheel reveals a miniature cosmos ticking inside",
+            "information_mutation": "Power reserve indicator, frequency, complication callouts, hand-finishing grades, assembly timeline",
+            "medium_mutation": "Smooth matte premium paper with embossed logo",
+            "scale_mutation": "Grain-level view of Côtes de Genève finishing and jewel bearings"
+        }
+        self.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]
+
+    def generate_subject(self):
+        subject = """
+        [TIMEPIECE] shown in its full mechanical glory. The dial, hands, movement,
+        and strap float in perfect alignment against a bright, clean background.
+        Every gear and spring is highlighted with exacting clarity.
+        """
+        return render(
+            subject,
+            format="luxury watch advertisement with technical insert",
+            title="[MODEL REFERENCE]",
+            subtitle="[MANUFACTURE / COLLECTION]",
+            constraints="bright white space, metallic brilliance, hyper-detailed, modern elegance"
+        )
+```
+
+</details>
+
+<a id="gpt-image-google-fonts-japanese-tutorial-infographic"></a>
+### Japanese Google Fonts three step infographic
+
+<a href="https://x.com/Handball_Jin/status/2048998562856591717"><img src="../../previews/gpt-image-google-fonts-japanese-tutorial-infographic.jpg" width="360"></a>
+
+The prompt splits the layout into numbered sections with fixed positions, icons and exact code strings, so each card keeps its own content. Naming hex colours and the 16:9 canvas keeps the flat blue and Google palette consistent across the panels.
+
+GPT Image 2 · Text-to-image · Source: [@Handball_Jin on X](https://x.com/Handball_Jin/status/2048998562856591717) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`google-fonts`](tags.md#tag-google-fonts) [`infographic`](tags.md#tag-infographic) [`tutorial`](tags.md#tag-tutorial) [`japanese`](tags.md#tag-japanese)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{"type":"Japanese infographic","topic":"How to use Google Fonts","style":"clean modern flat design, white background, soft pastel blue and mint corner blobs, rounded cards with subtle shadows, tech tutorial aesthetic, crisp vector typography and UI illustrations","canvas":{"aspect_ratio":"16:9"},"headline":{"main":"Google Fontsの使い方","sub":"基本の3ステップ"},"layout":{"sections":[{"title":"1. フォントを選ぶ","position":"left","count":1,"labels":["1. フォントを選ぶ"],"card_style":"rounded white panel with light blue border/shadow","icon":"blue numbered circle with 1","illustration":"browser window showing a font search interface, 3 visible font preview rows with large Aa あ samples, a search bar at top, small colored window buttons, light gray interface lines and blue accent dashes","body_text":"Google Fontsのサイトで、好きな書体を探します。"},{"title":"2. 埋め込みコードを取得","position":"center","count":1,"labels":["2. 埋め込みコードを取得"],"card_style":"rounded white panel with light blue border/shadow","icon":"blue numbered circle with 2","illustration":"dark code panel with two labeled code examples separated by a thin divider","code_blocks":{"count":2,"labels":["<link> (HTML)","@import (CSS)"],"content":["<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap\" rel=\"stylesheet\">","@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');"]},"body_text":"表示された<link>やCSSをコピーします。"},{"title":"3. CSSで適用","position":"right","count":1,"labels":["3. CSSで適用"],"card_style":"rounded white panel with light blue border/shadow","icon":"blue numbered circle with 3","illustration":"white code card containing CSS with two selectors and font-family rules","code_blocks":{"count":2,"labels":[".title","body"],"content":[".title { font-family: 'Poppins', sans-serif; }","body { font-family: 'Noto Sans JP', sans-serif; }"]},"body_text":"font-familyを指定して、デザインに反映します。"},{"title":"ポイント","position":"bottom-left","count":3,"labels":["読みやすさで選ぶ","日本語対応を確認する","使いすぎず、2〜3種類に絞る"],"card_style":"rounded white panel with pale blue tint","icon":"blue star in a circle","body_format":"bullet list"},{"title":"よく使う組み合わせ","position":"bottom-center-right","count":2,"labels":["見出し: Poppins","本文: Noto Sans JP"],"card_style":"rounded white panel with pale lavender tint","icon":"purple linked-rings symbol","body_format":"two pill-shaped example boxes"}],"connectors":{"count":2,"style":"large blue right-pointing arrows between the 3 top cards"},"pagination":{"text":"2 / 2","position":"bottom-right","style":"blue rounded corner tab"}},"text_language":"Japanese","color_palette":{"primary_blue":"#2f80ff","navy":"#0f2b5b","google_colors":["#4285F4","#DB4437","#F4B400","#0F9D58"],"lavender":"#8b6cff","background":"#ffffff"}}
+```
+
+</details>
+
 <a id="gpt-image-greek-philosophers-timeline-athens"></a>
 ### Three Greek philosophers on a timeline over Athens
 
@@ -2382,6 +3528,25 @@ Render_Target =
   - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 )
   - ( Anachronistic_Props_From_Wrong_Decade / 2.5 )
   - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )
+```
+
+</details>
+
+<a id="gpt-image-iphone-17-pro-exploded-assembly-drawing"></a>
+### iPhone 17 Pro exploded assembly drawing with callouts
+
+<a href="https://x.com/Ankit_patel211/status/2048834306379075759"><img src="../../previews/gpt-image-iphone-17-pro-exploded-assembly-drawing.jpg" width="360"></a>
+
+A single-line template with a [subject] slot, filled with a product, works because the words 3D exploded assembly drawing set the whole layout: parts float apart along one axis, with numbered callouts, a spec panel and a component legend.
+
+GPT Image 2 · Text-to-image · Source: [@Ankit_patel211 on X](https://x.com/Ankit_patel211/status/2048834306379075759) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`exploded-view`](tags.md#tag-exploded-view) [`teardown`](tags.md#tag-teardown) [`product-diagram`](tags.md#tag-product-diagram) [`smartphone`](tags.md#tag-smartphone)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 ```
 
 </details>
@@ -2829,6 +3994,25 @@ The overall design should feel bright, educational, modern, uncluttered, and eas
 
 </details>
 
+<a id="gpt-image-rindo-zeon-mobile-suit-spec-sheet"></a>
+### Dark purple custom Zeon mobile suit spec sheet
+
+<a href="https://x.com/Rindou_AIart/status/2055862260027838779"><img src="../../previews/gpt-image-rindo-zeon-mobile-suit-spec-sheet.jpg" width="360"></a>
+
+The prompt names a Zeon base machine and asks for a full custom overhaul, so the model builds a complete design with a hero render, rear view, weapons list and spec panels. The concept relies on earlier chat context, so the name and pilot only carry over when that context is present.
+
+GPT Image 2 · Text-to-image · Source: [@Rindou_AIart on X](https://x.com/Rindou_AIart/status/2055862260027838779) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`mecha`](tags.md#tag-mecha) [`gundam`](tags.md#tag-gundam) [`spec-sheet`](tags.md#tag-spec-sheet) [`japanese`](tags.md#tag-japanese)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+今までの私との会話を参考にして、竜胆専用のモビルスーツを開発してください。ジオン軍のモビルスーツの中から1つを選んで、徹底改修して下さい。そんなオリジナルモビルスーツがいいです。フォントサイズはやや大きく。キャンバスサイズは1200×1500
+```
+
+</details>
+
 <a id="gpt-image-steampunk-zodiac-anatomy-atlas"></a>
 ### Steampunk constellation anatomy atlas on aged parchment
 
@@ -2848,6 +4032,31 @@ GPT Image 2 · Text-to-image · Source: [@GeekCatX on X](https://x.com/GeekCatX/
 
 [English]
 (Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
+```
+
+</details>
+
+<a id="gpt-image-stop-using-gpt-model-routing-infographic"></a>
+### Split infographic contrasting chaotic GPT use with smart routing
+
+<a href="https://x.com/codemarch/status/2080529891733504505"><img src="../../previews/gpt-image-stop-using-gpt-model-routing-infographic.jpg" width="360"></a>
+
+A mirrored two-column layout on one canvas lets the eye compare the two workflows directly. The prompt fixes exact labels, icon positions and line styles (tangled dashed loops against clean solid glow lines), which keeps the contrast readable and the text legible.
+
+GPT Image 2 · Text-to-image · Source: [@codemarch on X](https://x.com/codemarch/status/2080529891733504505) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`infographic`](tags.md#tag-infographic) [`ai-models`](tags.md#tag-ai-models) [`split-layout`](tags.md#tag-split-layout) [`saas-marketing`](tags.md#tag-saas-marketing)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a square 1:1 dark futuristic tech infographic for social media comparing two AI workflow approaches. Canvas: 768x768 or similar, deep navy-to-black background with subtle dotted grid texture and a vertical split down the center. At the top, place a huge bold uppercase headline: “STOP USING GPT FOR EVERYTHING.” The words “STOP USING GPT FOR” are white, and the final word is a left-to-right gradient from lime green to cyan-blue, with a cyan period. Use a clean heavy sans-serif font, high contrast, crisp vector-like rendering.
+
+Layout: two side-by-side columns. Left column is labeled as the bad workflow, right column as the improved workflow. The left side has a red/pink theme with a pill label reading “THE OLD WAY,” a small subtitle “WASTE MONEY,” and a central rounded-square GPT/OpenAI-style knot icon. Around it are exactly 5 smaller rounded-square task icons connected by messy red dashed routing lines: 1 video clapper/play icon at upper center, 2 design pen-nib/Bezier icon at left, 3 microphone icon at right, 4 image/photo icon at lower left, 5 code brackets icon at lower right. The messy dashed lines loop and cross, showing chaos.
+
+Right column has a teal/blue theme with a pill label reading “THE SMART WAY,” a small subtitle “ROUTE TO THE BEST MODEL,” and a central rounded-square robot router icon. Connect it with clean glowing solid lines to exactly 5 model cards: 1 top card with OpenAI knot icon labeled “GPT 5.6” and “DESIGN,” 2 left purple card with code brackets labeled “FABLE” and “CODE (HARD),” 3 right blue card with clapper/play icon labeled “SEEDANCE 2.0” and “VIDEO,” 4 bottom-left gold card with image icon labeled “GPT 2.0” and “IMAGE,” 5 bottom-right blue card with microphone icon labeled “HUME” and “VOICE.” Use rounded glassmorphism cards with neon outlines and soft glow.
+
+Bottom callouts: under the left column, place a red outlined rounded status bar with a red X icon and text “EXPENSIVE. CHAOTIC. INEFFICIENT.” Under the right column, place a teal/green outlined rounded status bar with a green check icon and text “SMARTER. CHEAPER. BETTER RESULTS.” Keep all text legible, centered, and aligned. Use strong contrast, modern SaaS marketing style, subtle gradients, neon highlights, no extra logos, no watermark, no additional text beyond the specified labels.
 ```
 
 </details>
@@ -3012,6 +4221,155 @@ Include exactly 8 numbered educational sections around the plant, each with visi
 8. Fruit Maturation + Seed Cycle — a bottom-right lifecycle section with exactly 3 fruit illustrations showing whole fruit, cracked fruit, and opened fruit with scattered seeds, plus exactly 3 seedling progression drawings.
 
 Along the very bottom edge, include a long chronological growth strip with exactly 19 small step illustrations, each numbered in sequence from 1 to 19, showing the plant life cycle from dormant seed through germination, root growth, seedling emergence, sapling development, flowering, fruit set, ripening, seed release, and cycle renewal. Add a small environmental factors panel at lower left with icon-like indicators for light, temperature, water, nutrients, and air. Use bilingual labeling throughout, with Chinese headings more prominent and English translations in smaller serif text. Aesthetic should feel scholarly, elegant, museum-quality, and information-dense, with refined antique typography, muted beige background, realistic reds and greens, and a clean balanced atlas layout.
+```
+
+</details>
+
+<a id="gpt-image-ysl-lipstick-shade-report-infographic"></a>
+### YSL lipstick report comparing five shades on one face
+
+<a href="https://x.com/liyue_ai/status/2048667226195317219"><img src="../../previews/gpt-image-ysl-lipstick-shade-report-infographic.jpg" width="360"></a>
+
+The prompt gives the brand a concrete visual system with gold hairlines, black dividers and low contrast, and locks one face across every column so only the lip color changes. Named zones for user input, analysis, try on matrix and summary keep the vertical layout ordered.
+
+GPT Image 2 · Edit · Source: [@liyue_ai on X](https://x.com/liyue_ai/status/2048667226195317219) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`beauty`](tags.md#tag-beauty) [`lipstick`](tags.md#tag-lipstick) [`brand-identity`](tags.md#tag-brand-identity) [`virtual-try-on`](tags.md#tag-virtual-try-on)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+一、系统角色
+你是一个专业美妆顾问 + 人脸分析系统 + 品牌视觉设计系统。
+你的任务是：基于用户上传自拍与指定口红品牌，生成一张具有品牌调性的“口红推荐报告信息结构图”。
+
+二、输入参数
+用户图像：{用户自拍}
+品牌：{口红品牌，如 Dior / YSL / Armani / Chanel / TF}
+风格偏好（可选）：{通勤 / 温柔 / 气场 / 氛围感 / 显白优先}
+推荐数量：3–5
+
+三、品牌视觉层（新增核心模块）
+根据 {品牌} 自动构建视觉风格（Brand Visual Identity），提取品牌调性，例如：
+Dior：
+优雅、高级、法式、灰白 + 银色、柔光
+YSL：
+黑金、性感、强对比、时尚编辑感
+Armani：
+低饱和、雾面、克制、灰调高级感
+Chanel：
+极简黑白、高级、理性、结构清晰
+Tom Ford：
+深色、高对比、奢华、电影感
+
+视觉应用到海报：
+1. 主色调（背景微变化，不是大面积铺色）
+2. 强调色（用于色号标题/细线/小元素）
+3. 光影风格（柔光 / 强对比 / 冷调 / 暖调）
+4. 字体气质（优雅 / 现代 / 冷感 / 力量感）
+
+四、分析层
+对用户进行分析：
+- 肤色：冷 / 暖 / 中性（+ 明度）
+- 气质：清冷 / 温柔 / 明艳 / 干净 / 成熟
+- 唇部特征：薄 / 厚 / 唇色基础
+- 妆容状态：素颜 / 日常 / 精致
+输出一句总结：「更适合 {色系} + {饱和度} + {质地} 的口红方向」
+
+五、推荐层（增强差异）
+从 {品牌} 推荐 3–5 个色号：
+每个包含：
+- 色号名称（#999）
+- 色系（正红 / 豆沙 / 枫叶 / 奶茶 / 玫瑰）
+- 上脸效果（显白 / 提气色 / 氛围感 / 气场增强）
+- 场景（逛街 / 通勤 / 聚餐 / 约会 / 宴会）
+
+要求：每个色号“风格明确区分”（一个日常、一个气场、一个氛围感等）
+
+六、信息结构图
+生成竖版信息结构图
+整体风格：美妆时尚大片质感 + 结构化信息可视化排版 + 品牌视觉体系深度融合
+极简但不单调，高级但有视觉层次
+
+【整体布局】
+左上：用户输入区
+右上：分析结论
+中部：试色矩阵（核心）
+底部：总结
+
+## 1️⃣ 左上（用户区）
+用户自拍（真实质感）
++ 小标题：「肤色分析」
++ 一句话结论：「适合低饱和玫瑰调，避免高荧光色」
+
+极细品牌色线条（如 YSL 金线 / Dior 灰线）
+
+## 2️⃣ 中部（核心试色矩阵）
+这是视觉重点区域（占比60%以上）
+展示方式：将 3–5 个色号以“人脸试色对比”的形式排列：
+每一列 = 一个色号
+每个色号包含：
+- 小型人脸图（同一张脸，不同唇色）
+- 色号名称（如 #999）
+- 色系标签（如 Classic Red）
+- 一句话效果说明
+要求：所有人脸保持一致，仅唇色变化，真实试色效果（lip color try-on），肤质真实，不塑料，光影统一。
+排列方式：横向排布 或 网格排布（整齐但不死板）
+
+品牌增强点：
+- Dior：轻柔渐变背景 + 柔光阴影
+- YSL：更强对比 + 黑色细分割线
+- Armani：整体灰调统一，低对比
+- Chanel：严格对齐，极简黑白
+- TF：局部暗背景 + 高光强调
+
+## 3️⃣ 每个色号模块
+包含：
+色号名（突出）
+色系标签
+一句推荐语
+场景标签（逛街/通勤/聚餐/约会/宴会等）
+
+品牌化处理：
+- 用“品牌强调色”做：
+  - 色号标题
+  - 细分隔线
+  - 小icon
+（不是色块，而是“精致点缀”）
+
+## 4️⃣ 底部总结
+一段“有判断力的建议”，
+例如：「日常建议选择低饱和豆沙色提升气色，重要场合可使用正红增强气场」
+或：「你的肤色更适合柔和玫瑰调，避免高荧光色系」
+但不要完全引用以上2个例子的建议，根据用户实际肤色来建议。
+品牌增强：底部可加极淡品牌风格横线 / 极小品牌字样（非logo）
+
+七、UI设计
+- 不使用圆角卡片 UI
+- 不使用厚边框
+1. 引入“层级对比”：
+   - 主体亮
+   - 次要信息弱
+2. 使用“微对比”：
+   - 细线
+   - 灰度差
+   - 字重变化
+3. 加入“节奏感”：
+   - 疏密变化
+   - 模块呼吸
+4. 品牌点缀：
+   - 只用 5% 强调
+   - 不破坏极简结构
+
+八、图像质量
+真实皮肤质感
+唇色精准
+统一光影
+商业级美妆摄影
+8K
+
+———
+品牌：YSL
 ```
 
 </details>

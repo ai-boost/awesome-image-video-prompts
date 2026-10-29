@@ -1,0 +1,24 @@
+id: gpt-image-mclaren-720s-gt3x-technical-blueprint-poster
+title:
+  en: McLaren 720S GT3X engineering blueprint poster
+  zh: 迈凯伦 720S GT3X 技术蓝图海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- automotive
+- blueprint
+- mclaren
+- poster
+source:
+  name: '@Ambani_Wessley on X'
+  url: https://x.com/Ambani_Wessley/status/2046799050994053618
+  credit: Wesley
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The JSON spec fixes the layout with explicit counts, labels and positions for every block, and splits the palette into background, linework, text and highlight. Named argument slots let the same structure be reused for other car models and accent colours.
+  zh: JSON 结构用明确的数量、标签和位置锁定每个版块的布局，并把配色拆分为背景、线稿、文字和高亮四组。命名参数位让同一结构可以复用于其他车型和强调色。
+prompt: |
+  {"type":"automotive technical blueprint poster","subject":{"vehicle":"{argument name=\"car model\" default=\"McLaren 720S GT3X\"}","category":"track weapon concept supercar","brand":"McLaren","primary render":{"view":"front three-quarter low angle hero shot","finish":"glossy dark metallic blue-gray body with exposed carbon fiber aero parts","accent color":"{argument name=\"accent color\" default=\"McLaren orange\"}","livery details":"thin orange striping across hood, splitter, side skirts, doors, diffuser, and rear surfaces, white race number panel with 720 on the door, black multi-spoke center-lock racing wheels, low-profile slick tires with yellow sidewall lettering, very large rear wing, aggressive front splitter, roof scoop, vented hood, deep side intakes, extreme rear diffuser"},"poster text":{"headline":"{argument name=\"headline text\" default=\"McLAREN 720S GT3X\"}","subheadline":"TRACK WEAPON CONCEPT","project":"PROJECT: M720S GT3X","title block":"GENERAL ARRANGEMENT & CONCEPT"},"palette":{"background":"light gray drafting paper","linework":"blue-gray pencil and ink sketch lines","text":"charcoal gray and black","highlight":"orange accent text and pinstripes"}},"layout":{"style":"clean engineering presentation board with grid background, technical callouts, dimension arrows, section boxes, and mixed photoreal render plus hand-drawn blueprint sketches","sections":[{"title":"orthographic views","position":"top half","count":4,"labels":["front view","rear view","side view","top view"]},{"title":"specification blocks","position":"upper left","count":2,"labels":["PROJECT / CHASSIS / ENGINE / POWER / TORQUE / GEARBOX / WEIGHT / FUEL / CLASS","AERO HIGHLIGHTS"]},{"title":"component detail boxes","position":"lower half around center rear view","count":8,"labels":["WHEEL & TIRE PACKAGE","WIDEBODY FENDER FLARE","SUSPENSION SYSTEM","RACE SPECIFICATIONS","REAR DIFFUSER & EXHAUST DETAIL","ROOF INTAKE & LIGHT SYSTEM","GT WING ASSEMBLY","COLOR & LIVERY CONCEPT"]},{"title":"main rendered vehicle views","position":"center and lower middle","count":2,"labels":["front three-quarter hero render","rear view render"]}],"counts":{"orthographic drawings":4,"main photoreal renders":2,"component diagrams":8,"color swatches":4},"color swatches":["primary: {argument name=\"primary color\" default=\"McLaren orange\"}","secondary: naroo grey","accent: carbon black","detail: satin white"],"dimension annotations":"include multiple metric measurements in millimeters around the orthographic views with horizontal and vertical arrows","branding":"top-right McLaren logo and signature-like mark, bottom-right project title block with date, scale, units, and sheet numbering"},"composition":"portrait poster, highly detailed, symmetrical technical infographic layout, precise industrial design aesthetic, realistic reflections on the hero car render, blueprint-style sketch shading everywhere else, white-gray paper with subtle wear and drafting texture","quality":"ultra-detailed, accuracy-first, crisp typography, concept-art meets engineering blueprint, premium automotive presentation board"}

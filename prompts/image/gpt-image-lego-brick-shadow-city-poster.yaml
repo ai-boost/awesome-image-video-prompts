@@ -1,0 +1,45 @@
+id: gpt-image-lego-brick-shadow-city-poster
+title:
+  en: Red LEGO brick casts a shadow city
+  zh: 红色乐高积木投下城市剪影
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- lego
+- shadow-story
+- product-shadow
+- brand-poster
+source:
+  name: '@aziz4ai on X'
+  url: https://x.com/aziz4ai/status/2071117068003377177
+  credit: AZIZ | AI 🇸🇦
+  likes: 301
+  captured: '2026-10-29'
+  posted: '2026-06-28'
+notes:
+  en: A hard directional light keeps the product sharp and dominant while its shadow opens into a miniature city, so the shadow carries the brand's imagination story. The three-word slogan stacks in brand colours on the upper left for a clear hierarchy.
+  zh: 强方向光让产品保持锐利、占据视觉主导，其投影延展成一座微缩城市，让阴影讲述品牌的想象力故事。三词标语以品牌配色纵向排列于左上角，层级清晰。
+prompt: |
+  Create a premium advertising poster for [BRAND] featuring [PRODUCT].
+
+  Use the product’s shadow as the main storytelling device.
+
+  The product must remain sharp, accurate, recognizable, premium, and visually dominant. Place it under dramatic controlled lighting so its shadow transforms into a cinematic scene, symbol, environment, or narrative that represents the product’s purpose, emotional promise, function, or brand DNA.
+
+  The shadow should not be random. It must reveal the hidden story behind the product:
+  - performance products cast shadows of motion, speed, athletes, impact, or ambition
+  - luxury products cast shadows of elegance, heritage, exclusivity, or desire
+  - tech products cast shadows of intelligence, creativity, precision, or the future
+  - food and beverage products cast shadows of flavor, refreshment, warmth, craving, or celebration
+  - lifestyle products cast shadows of comfort, identity, freedom, or everyday transformation
+
+  Make the image feel like a world-class campaign poster with a strong visual hook, cinematic lighting, realistic shadows, premium product detail, refined composition, tasteful typography, and strong visual hierarchy.
+
+  Add a short 3-word slogan that fits the concept and feels aligned with the brand’s tone.
+
+  The final result should feel iconic, polished, scroll-stopping, and art-directed specifically for this exact brand and product.
+
+  Avoid copying any existing campaign. Create a fresh original visual idea.
+
+  Aspect ratio: [RATIO]

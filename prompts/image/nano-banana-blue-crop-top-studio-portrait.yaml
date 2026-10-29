@@ -1,0 +1,44 @@
+id: nano-banana-blue-crop-top-studio-portrait
+title:
+  en: Woman in blue crop top posing in studio
+  zh: 蓝色露背上衣女性棚拍写实人像
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- json-prompt
+- studio
+- fashion
+- portrait
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2056927764549423431
+  credit: M-studioAi
+  likes: 166
+  captured: '2026-10-29'
+  posted: '2026-05-20'
+notes:
+  en: A structured JSON prompt that separates subject, clothing, environment and technical settings keeps each detail locked in place. The seamless light gray backdrop, soft diffused studio light and low medium framing produce clean studio realism.
+  zh: 结构化的 JSON 提示词把主体、服装、环境和技术参数分开描述，让每个细节都被固定下来。无缝浅灰背景、柔和漫射的棚拍光线和略低机位的中景构图，共同营造干净的棚拍写实效果。
+prompt: |
+  "style": "Photorealistic fashion photography",
+    "subject": {
+      "name": Sydney Sweeney
+      "features": "Slender, curvy, and fit physique, subtle makeup, pale pink lips, teal teardrop dangle earrings",
+      "pose": "Sitting on the floor with her back to the camera, legs bent upward, looking back softly over her right shoulder with a neutral expression"
+    },
+    "clothing": {
+      "top": "Light-blue ribbed long-sleeve cropped top with an open back and crisscross tie details",
+      "bottom": "Slim-fit light-blue jeans",
+      "shoes": "Black patent leather stiletto high heels with ankle straps"
+    },
+    "environment": {
+      "setting": "Seamless light-gray studio background, minimal and distraction-free",
+      "lighting": "Soft, diffused studio lighting, delicate highlights on hair and skin, subtle shadows emphasizing fabric textures"
+    },
+    "technical": {
+      "framing": "Medium shot, positioned slightly low to emphasize the seated pose",
+      "quality": "Highly detailed, sharp focus, 8k resolution, professional studio quality",
+      "aspect_ratio": "9:16"
+    }
+  }

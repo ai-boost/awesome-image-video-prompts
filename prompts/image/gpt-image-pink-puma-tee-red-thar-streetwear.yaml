@@ -1,0 +1,24 @@
+id: gpt-image-pink-puma-tee-red-thar-streetwear
+title:
+  en: Man in pink Puma tee beside red Thar
+  zh: 粉色 Puma T恤男子倚靠红色 Thar
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- streetwear
+- fashion-editorial
+- natural-light
+- bokeh
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2067560718379999279
+  credit: Zar⭕on
+  captured: '2026-10-29'
+  posted: '2026-06-18'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt pins garment colours, logo text and lighting, then adds a camera cue for a blurred DSLR background. A red vehicle as the colour anchor makes the pink and red stand out against the green foliage.
+  zh: 提示词明确了服装颜色、印花文字和自然光，并加入 DSLR 虚化背景的镜头描述，使画面保持时尚编辑风格。红色越野车作为色彩锚点，让粉色与红色在绿色背景中更醒目。
+prompt: |
+  AGE 24 EAR OLD CREATE KHAKI HEAVYWEIGHT FULL BODY OVERSIZED pink T-SHIRT WITH THE red COLOUR TEXT puma. Bell bottom PANTS. WHITE SNEAKERS. WATCH IS LEFT HAND. SLIGHTLY MESSY DARK HAIR BLACK SUNGLASSES. RANDAM STYLISH ATTITUDE POST IN Red THAR. THERE WILL BE SOME TREES IN THE green BACKGROUND THAT WILL BE BLURRED, LIKE WHEN TAKING PHOTOS WITH A DSLR. NATURAL LIGHT. URBAN FASHION EDITORIAL STYLE, BOLD ATTITUDE, HIGH CONTRAST PHOTO,

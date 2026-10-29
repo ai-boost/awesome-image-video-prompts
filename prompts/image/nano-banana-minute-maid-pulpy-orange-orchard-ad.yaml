@@ -1,0 +1,25 @@
+id: nano-banana-minute-maid-pulpy-orange-orchard-ad
+title:
+  en: Woman holding Minute Maid bottle in orange orchard
+  zh: 手持美汁源果肉橙汁的女子站在橙园中
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- advertising
+- beverage
+- text-layout
+- golden-hour
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2053313676493607192
+  credit: Snow
+  likes: 66
+  captured: '2026-10-29'
+  posted: '2026-05-10'
+notes:
+  en: 'The prompt fixes the layout in advance: logo reserved for the top band, slogan space on the left, and the bottle held toward the camera. Naming these zones keeps the text clear of the model and the juice splash.'
+  zh: 提示词预先规定了版面：顶部留给品牌标识，左侧留出标语空间，瓶子朝向镜头。提前写明这些区域，可让文字与人物和果汁飞溅分开。
+prompt: |
+  .
+  Ultra realistic premium commercial advertisement for Minute Maid Pulpy Orange, vertical 4:5 format, cinematic beverage photography, beautiful young woman with soft glowing skin and long silky hair standing in a fresh orange orchard during golden hour sunlight, wearing elegant orange and white summer outfit inspired by luxury fashion campaigns, smiling naturally while holding an ice cold Minute Maid Pulpy Orange bottle close to camera, visible orange pulp texture inside bottle, realistic water droplets and condensation on plastic bottle, detailed Minute Maid logo perfectly visible, dynamic splash of fresh orange juice exploding around foreground, sliced oranges flying in motion, tiny pulp particles suspended in air, fresh green leaves floating naturally, luxurious commercial lighting, warm orange color palette, high-end Coca Cola style branding aesthetic, shallow depth of field, dreamy creamy bokeh background, cinematic lens flare from sunlight, hyper detailed facial features, glossy lips, realistic eyes with catchlights, natural pose like a real beverage campaign model, energetic summer vibes, refreshing atmosphere, ultra realistic fruit textures, detailed oranges basket near foreground, splashing juice waves at bottom frame, glowing mist particles in background, clean advertising composition with strong hierarchy, top section reserved for Minute Maid logo, center focus on girl and bottle, bottom filled with oranges and splash effects, realistic reflections, HDR photography, premium product advertising, luxury FMCG campaign, photorealistic skin texture, vibrant orange tones, magazine quality, highly detailed, commercial studio quality, 8K ultra sharp details, global beverage campaign aesthetic, realistic shadows and highlights, emotional joyful expression, fresh healthy energetic mood, professional advertising photography, no extra fingers, no distorted anatomy, perfect hand holding bottle naturally, realistic typography space on left side for slogan “Har Sip Mein Mazaa”, visually balanced composition, award winning beverage advertisement style, Gemini Nano Banana optimized prompt

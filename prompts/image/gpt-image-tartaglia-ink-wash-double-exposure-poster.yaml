@@ -1,0 +1,24 @@
+id: gpt-image-tartaglia-ink-wash-double-exposure-poster
+title:
+  en: Tartaglia key visual with ink wash double exposure
+  zh: 達達利亞水墨雙重曝光主視覺
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- genshin-impact
+- ink-wash
+- double-exposure
+- character-poster
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2052771565318897945
+  credit: Anissa
+  likes: 303
+  captured: '2026-10-29'
+  posted: '2026-05-08'
+notes:
+  en: The bracketed character slot is filled with a name, and a huge head silhouette in the upper half sets the hierarchy above the full figure. Double exposure scenes, ink diffusion at the edges and a vertical flowing line tie the collage layers into one composition.
+  zh: 提示词用角色名替换 [XXX] 槽位，上半幅的巨大头部剪影定下层级，居中的全身角色作为第二焦点。双重曝光的场景、边缘的水墨晕染和贯穿画面的竖向流线把拼贴层次串成一个整体。
+prompt: |
+  A character promotional poster of [XXX], using a unified vertical key-visual composition. Each poster follows a hierarchical layout with a larger upper section and smaller lower section: the upper half features the character’s most recognizable head, facial contour, mask, or upper-body silhouette as a massive visual centerpiece, forming a highly identifiable silhouette-style dominant shape. The middle and lower section contains the full character as the secondary focal point, standing in a stable pose or subtle motion, creating the visual core of the composition. Inside the large silhouette and around the character, use double exposure and collage-style narrative composition, blending multiple scenes, symbolic imagery, small character interactions, supporting elements, and environments layered into mist, ink-wash textures, and negative space. Symmetrical or echoing side sub-scenes are placed on the left and right to create narrative tension and spatial variation. A flowing visual line runs vertically through the entire composition, connecting the main character, internal collage, and upper silhouette, enhancing visual unity and guiding the viewer’s eye. The overall image should preserve large areas of negative space, while the edges use ink diffusion, blur, and fragmented fading effects to create the balance of emptiness and solidity found in Eastern aesthetics, with a breathable sense of space. The overall style should remain unified, premium, restrained, and cinematic, emphasizing layering, storytelling, key visual impact, and a cohesive series-poster visual language.

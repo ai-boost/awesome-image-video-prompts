@@ -1,0 +1,47 @@
+id: h3-office-break-room-mockumentary-argument
+title:
+  en: Michael and Dwight argue in mockumentary break room
+  zh: 迈克尔和德怀特在茶水间争执
+model: MiniMax H3
+mode: text-to-video
+tags:
+- sitcom
+- dialogue
+- handheld-camera
+- character-scene
+source:
+  name: '@Arminn_Ai on X'
+  url: https://x.com/Arminn_Ai/status/2084619631742837115
+  credit: ΛRMIN
+  likes: 295
+  captured: '2026-10-29'
+  posted: '2026-08-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Arminn_Ai/status/2084619631742837115
+notes:
+  en: A scene by scene shot list with handheld camera direction, a snap zoom to whoever reacts, and a final cut to a reaction shot, so the camera sets the timing. Each line carries its speaker and delivery cue, and the STYLE block rules out music and laugh track so the audio stays as natural room tone.
+  zh: 用分镜式的段落写法，依次规定手持摄影的晃动、突然推近的快速变焦，以及结尾切到人物反应的镜头，镜头语言本身带出节奏。每句台词都标明说话人和语气，STYLE 段限定无配乐、无笑声，只留环境底噪。
+prompt: |
+  The Office (US) mockumentary style. Dunder Mifflin break room, mid-afternoon, flat fluorescent lighting, vending machine, cheap
+  round table, coffee pot. Handheld documentary camera, slightly
+  unsteady, deep focus, one continuous setup with a sudden snap zoom
+  toward whoever is reacting.
+  Michael Scott and Dwight Schrute stand on opposite sides of the small
+  table, mid-argument. Michael is animated and enthusiastic. Dwight is
+  rigid, intense, deadly serious.
+  DIALOGUE:
+  MICHAEL (excited): "AI is the future, Dwight."
+  DWIGHT (sharp): "It's a threat. I challenged it to an endurance test.
+  It refused."
+  MICHAEL: "It wrote my performance review in nine seconds."
+  DWIGHT: "I could've done it in seven."
+  Snap zoom to Michael. He puts down his mug.
+  MICHAEL (voice climbing, wounded, slapping the table): "It listens to
+  me! Which is more than anyone here does!"
+  Hard silence. Both men frozen.
+  Cut to Jim Halpert at his desk. He slowly turns his head and looks
+  directly into the camera lens. Hold for two seconds. End.
+  STYLE: single-camera sitcom shot as if a documentary crew is present,
+  natural performances, no laugh track, muted office color palette,
+  slightly soft consumer-camera look, dry deadpan comedic timing, no
+  music, ambient room tone only.

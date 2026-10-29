@@ -1,0 +1,143 @@
+id: nano-banana-mamaearth-vitamin-c-serum-nature-glow
+title:
+  en: Mamaearth vitamin C serum with citrus and turmeric
+  zh: Mamaearth 维C精华，搭配柑橘与姜黄
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- skincare
+- product-shoot
+- poster
+- ingredients
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2070816926872601002
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 107
+  captured: '2026-10-29'
+  posted: '2026-06-27'
+notes:
+  en: The prompt fixes the hero bottle at 35% to 45% of frame height and gives the exact headline and subline, so the layout reads as a clean ad poster. Describing layered surfaces like a wet acrylic block and water ripples, plus a named lens and softbox lighting, produces the glossy studio look.
+  zh: 提示词固定了瓶身占画面高度的 35% 到 45%，并给出了确切的主标题和副文案，所以版式干净，像一张广告海报。它描述了分层的湿润亚克力台面和水波纹，再加上指定的镜头和柔光箱布光，带来高光玻璃的棚拍质感。
+prompt: |
+  Act as a senior beauty art director and elite FMCG product photographer specializing in premium skincare campaigns for high-conversion social media advertising.
+
+  Create an ultra-premium product shoot social media poster for Mamaearth serum in vertical 4:5 format.
+
+  OBJECTIVE:
+  Create a premium yet approachable skincare advertisement that communicates hydration, purity, natural ingredients, and toxin-free goodness while staying true to Mamaearth’s clean botanical brand identity.
+
+  ART DIRECTION:
+  Clean FMCG luxury.
+  Fresh, bright, natural.
+  Premium but accessible.
+  Modern skincare advertising.
+  Minimal clutter.
+  High-conversion SMM quality.
+
+  BRAND IDENTITY:
+  Strict Mamaearth branding.
+
+  Primary colors:
+  Mint green
+  Sky blue
+  Soft white
+  Botanical green
+
+  HERO PRODUCT:
+  A premium Mamaearth serum bottle positioned centrally, occupying 35–45% of frame height.
+  Perfect label readability.
+  Sharp glass bottle edges.
+  Luxury dropper cap.
+  Hyper-detailed transparent serum liquid visible inside bottle.
+  No distortion.
+
+  ENVIRONMENT:
+  Environmental luxury skincare setup inspired by nature and hydration.
+
+  Use layered premium surfaces:
+  translucent acrylic blocks,
+  wet reflective glass platform,
+  soft water ripples,
+  floating botanical leaves,
+  natural ingredient elements.
+
+  Environment should feel fresh, bright, and clean.
+
+  INGREDIENT STORY:
+  Surround product with premium hero ingredients relevant to serum formulation:
+  vitamin C citrus slices,
+  turmeric particles,
+  aloe gel droplets,
+  water splash arcs,
+  hyaluronic acid droplets.
+
+  Ingredients should feel realistic and premium.
+  No clutter.
+
+  SURFACE DETAILS:
+  Wet glossy surfaces.
+  Subtle condensation.
+  Tiny water droplets.
+  Reflective premium surfaces.
+
+  LIGHTING:
+  Soft diffused beauty lighting.
+  Large softbox reflections.
+  Clean hydration glow.
+  Gentle specular highlights on bottle.
+  Soft shadows.
+  Translucent glow through serum liquid.
+
+  DETAIL SHOTS:
+  Visible macro details:
+  serum droplet suspended mid-air,
+  glass reflections,
+  liquid viscosity,
+  label embossing,
+  micro condensation.
+
+  TYPOGRAPHY:
+  Minimal premium SMM typography.
+
+  Main headline:
+  NATURE’S GLOW.
+
+  Secondary copy:
+  Hydrate • Repair • Brighten
+
+  Clean modern sans-serif.
+  Bold but elegant.
+
+  CAMERA:
+  Shot on Phase One XF IQ4
+  100mm macro lens
+  Luxury product photography
+  Shallow depth of field
+
+  COLOR SYSTEM:
+  Strict controlled palette using Mamaearth brand colors.
+  Soft green-blue gradients.
+  Fresh botanical highlights.
+
+  POST PROCESS:
+  Subtle bloom
+  Micro contrast sharpening
+  Beauty retouch
+  Premium FMCG campaign polish
+
+  QUALITY:
+  Hyper-realistic
+  Photorealistic skincare advertising
+  Premium social media campaign
+  Ultra-detailed
+  8K UHD
+
+  NEGATIVE:
+  No AI artifacts
+  No warped bottle
+  No distorted label
+  No clutter
+  No cheap ecommerce aesthetics
+  No oversaturated colors

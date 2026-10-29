@@ -1,0 +1,47 @@
+id: gpt-image-football-dream-storyboard-bedroom-wake
+title:
+  en: Storyboard of a football dream that ends in bedroom
+  zh: 足球梦的分镜图，结局是醒在卧室
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- storyboard
+- football
+- animation
+- cinematic
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2049900959028109567
+  credit: Heisenberg
+  likes: 542
+  captured: '2026-10-29'
+  posted: '2026-04-30'
+notes:
+  en: Each frame gets its own shot type, such as wide establishing, rear medium, slow motion and hard cut, which gives the model a clear shot list. Lighting moves from cool stadium glow to warm morning sun, so the dream and waking worlds separate at a glance.
+  zh: 每一格都写明镜头类型，如全景建立镜头、背面中景、慢动作和硬切，给模型一份清晰的分镜表。光线从冷色球场灯光转为暖色晨光，让梦境与醒来两个世界一眼可辨。
+prompt: |
+  Video Prompt: Use the provided storyboard image
+  @image1
+   as the primary visual reference for composition, framing, and scene progression. Generate a 15-second stylized 3D animated cinematic video that follows the exact sequence and visual storytelling of the storyboard.
+  Style:
+  High-quality 3D animation, cinematic realism, expressive character design, soft depth of field, realistic physics, subtle motion blur, dramatic lighting contrast
+  Theme:
+  A young boy dreams he is a world-famous football player scoring a winning goal in a packed stadium, but wakes up in his bedroom and realizes it was just a dream
+  Execution Instructions:
+  Match all camera angles, framing, and transitions from the storyboard image
+  Maintain consistent character design between dream and real-world scenes
+  Ensure smooth cinematic camera motion (tracking shots, slow push-ins, slight rotations)
+  Use slow motion during key action moments (dribble, kick, goal)
+  Add realistic environmental effects: grass particles, stadium lights, crowd motion
+  Scene Flow (15s timing):
+  0–5s: Stadium sequence — wide establishing → dribble → close-up intensity
+  5–9s: Goal moment — kick → ball hits net → crowd erupts
+  9–11s: Celebration hero shot — dramatic lighting, lens flare, slow-motion
+  11–13s: Hard cut transition — stadium to bedroom, same pose match-cut
+  13–15s: Bedroom reveal — soft morning light, calm mood, subtle smile
+  Lighting:
+  Dream: high-contrast stadium lights, cool tones, bright highlights
+  Reality: warm, soft natural sunlight, grounded and शांत atmosphere
+  Mood & Tone:
+  Start epic and high-energy, then shift into calm, intimate, slightly emotional ending.

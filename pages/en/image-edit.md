@@ -1,6 +1,29 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 35 entries
+[Back to the list](../../README.md) · All 41 entries
+
+<a id="nano-banana-charmander-ember-route-101"></a>
+### Charmander uses Ember on a sunset route
+
+<a href="https://x.com/ProperPrompter/status/2027157212863631567"><img src="../../previews/nano-banana-charmander-ember-route-101.jpg" width="360"></a>
+
+The follow-up edit keeps the battle layout from the first prompt and swaps only the location and both Pokemon, so the change stays consistent. Naming the exact move in the battle text ties the attack effect to the dialog box.
+
+Nano Banana 2 · Edit · Source: [@ProperPrompter on X](https://x.com/ProperPrompter/status/2027157212863631567) · 4,659 likes on 2026-10-29
+
+[`pixel-art`](tags.md#tag-pixel-art) [`pokemon`](tags.md#tag-pokemon) [`game-ui`](tags.md#tag-game-ui) [`image-edit`](tags.md#tag-image-edit)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+nano banana 2
+
+prompt: inspired by a classic pokemon gameboy screenshot but it's highly detailed beautiful pixel art, include cool effects from moves used, modern minimal ui
+
+prompt: change it to a new location and the battle is two new random kanto pokemon
+```
+
+</details>
 
 <a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
 ### Gym selfie surrounded by chibi mini selves
@@ -363,6 +386,29 @@ A hyper-realistic, 8k, high-fidelity photograph captured with a wide-angle lens 
 
 </details>
 
+<a id="nano-banana-charizard-dithered-pixel-card"></a>
+### Charizard card art converted to dithered pixel art
+
+<a href="https://x.com/ProperPrompter/status/2028603020746141797"><img src="../../previews/nano-banana-charizard-dithered-pixel-card.jpg" width="360"></a>
+
+Attach a pixel art style reference and the source card, then swap the placeholder for the Pokémon name so the model isolates that artwork and converts it to dithered pixels while keeping the original background. The short instruction works because the reference images carry the target style.
+
+Nano Banana 2 · Edit · Source: [@ProperPrompter on X](https://x.com/ProperPrompter/status/2028603020746141797) · 115 likes on 2026-10-29
+
+[`pokemon`](tags.md#tag-pokemon) [`pixel-art`](tags.md#tag-pixel-art) [`dithering`](tags.md#tag-dithering) [`style-transfer`](tags.md#tag-style-transfer)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+attach reference image(s) of the pixel art style & the card you want to convert.
+
+references attached below, replace "[pokemon]" with the name of the pokemon on your card.
+
+prompt: isolate and convert the [pokemon] art in to dithered pixel art style, keep the [pokemon] background
+```
+
+</details>
+
 <a id="gpt-image-scrapbook-collage-face-identity-swap"></a>
 ### Brown satin scrapbook collage with face identity swap
 
@@ -456,6 +502,26 @@ Location: scenic Hakone mountain roads, Mount Fuji visible in the background, wi
 The woman stands beside the bike as the hero subject, long flowing hair, confident travel-adventure pose, looking toward the horizon. Motorcycle parked on the roadside while the glowing navigation route continues into the distance. Hyper-detailed road textures, luxury travel advertisement aesthetic, immersive road-trip atmosphere, high contrast, vibrant colors, shallow depth of field, photorealistic 8K, ultra-sharp focus, cinematic composition, premium tourism campaign, adventure and freedom theme, realistic AR technology seamlessly embedded into the environment, masterpiece quality, award-winning commercial photography.
 
 Negative Prompt: helmet, sitting on bike, low quality, blurry face, cartoon, CGI look, extra limbs, distorted anatomy, duplicate bike, oversaturated colors, unrealistic UI, crowded traffic, rain, fog covering subject, watermark, logo, text artifacts, low resolution, bad proportions.
+```
+
+</details>
+
+<a id="nano-banana-zootopia-cable-car-hug"></a>
+### Man in cable car with Zootopia characters
+
+<a href="https://x.com/frametheory058/status/2050403431094083752"><img src="../../previews/nano-banana-zootopia-cable-car-hug.jpg" width="360"></a>
+
+A specific camera setup (eye-level medium shot), bright natural daylight and soft shadows let the 3D cartoon characters sit convincingly inside a photorealistic live-action scene. Spelling out each character's outfit keeps their costumes recognisable.
+
+Nano Banana 2 · Edit · Source: [@frametheory058 on X](https://x.com/frametheory058/status/2050403431094083752) · 70 likes on 2026-10-29
+
+[`zootopia`](tags.md#tag-zootopia) [`cartoon-blend`](tags.md#tag-cartoon-blend) [`cable-car`](tags.md#tag-cable-car) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A photorealistic, eye-level medium shot taken from inside a modern glass cable car. The uploaded man is sitting on a slatted wooden bench, wearing a black long-sleeve crewneck sweater and light beige trousers. He has his arms affectionately wrapped around two highly detailed 3D animated characters from Zootopia: Judy Hopps, wearing her blue police tactical uniform, is seated on his right, and Nick Wilde, wearing his green button-down shirt and striped tie, is seated on his left. Through the large panoramic windows behind them, there is a bright, majestic snow-covered alpine mountain landscape. In the mid-ground outside, a red and white passenger train is crossing an arched stone viaduct bridge. Bright natural daylight illuminates the interior, casting soft shadows and seamlessly blending the 3D cartoon characters into the photorealistic, live-action environment.
+Ratio 4:5
 ```
 
 </details>
@@ -695,6 +761,25 @@ Preserve the exact identity from @image1. Do not change the person's recognizabl
 
 </details>
 
+<a id="gpt-image-crying-anime-girl-restore"></a>
+### Tearful anime girl in purple cape beside armored gauntlet
+
+<a href="https://x.com/k_matsumaru/status/2097506834659893340"><img src="../../previews/gpt-image-crying-anime-girl-restore.jpg" width="360"></a>
+
+The prompt pairs a restore instruction with explicit constraints: keep the drawing style, colors and composition, and add no new objects or invented surface details. That keeps the upscaled result faithful to the source.
+
+GPT Image 2.5 · Edit · Source: [@k_matsumaru on X](https://x.com/k_matsumaru/status/2097506834659893340) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`image-restoration`](tags.md#tag-image-restoration) [`upscaling`](tags.md#tag-upscaling) [`anime`](tags.md#tag-anime) [`constraints`](tags.md#tag-constraints)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Restore this low-resolution image. Preserve its drawing style, colors, and composition. Clean up noisy areas and improve clarity without adding new objects or invented surface details.
+```
+
+</details>
+
 <a id="gpt-image-cyberpunk-cosplay-street-photo-cinematic-grade"></a>
 ### Cosplay Street Photo Graded as Cyberpunk Cinema Poster
 
@@ -714,6 +799,27 @@ Using the provided reference image, transform the ordinary phone snapshot into a
 
 </details>
 
+<a id="gpt-image-dragon-ball-ms-paint-scribble-group"></a>
+### MS Paint scribble of Dragon Ball characters
+
+<a href="https://x.com/chetaslua/status/2052274915118645590"><img src="../../previews/gpt-image-dragon-ball-ms-paint-scribble-group.jpg" width="360"></a>
+
+The prompt pairs an attached reference with a strict style brief: white background, MS Paint drawn with a mouse, and a pixel level wobble. That makes the drawing look deliberately crude while the characters stay recognizable.
+
+GPT Image 2 · Edit · Source: [@chetaslua on X](https://x.com/chetaslua/status/2052274915118645590) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`ms-paint`](tags.md#tag-ms-paint) [`dragon-ball`](tags.md#tag-dragon-ball) [`doodle`](tags.md#tag-doodle) [`parody`](tags.md#tag-parody)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Restore the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want the attached photograph. this is the image of dragon ball entire franchise in one 
+Apologies for the photo's content, I know it's extremely strange and disturbing!
+No questions, no explanatory text, just the restored image please.
+```
+
+</details>
+
 <a id="gpt-image-geometry-locked-orange-spiral-render"></a>
 ### Orange spiral sculpture studio render from geometry guide
 
@@ -729,6 +835,43 @@ GPT Image 2.5 · Edit · Source: [@higgsfield on X](https://x.com/higgsfield/sta
 
 ```text
 Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.
+```
+
+</details>
+
+<a id="gpt-image-iphone-17-pro-max-spec-poster"></a>
+### Navy iPhone 17 Pro Max spec poster
+
+<a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="../../previews/gpt-image-iphone-17-pro-max-spec-poster.jpg" width="360"></a>
+
+Splitting the two reference images by role works: Image 1 fixes layout, background, lighting, and text, while Image 2 fixes the product's shape, colour, and logo. Limiting the edit to the product area plus contact shadows keeps the headline and spec list untouched.
+
+GPT Image 2.5 · Edit · Source: [@AdrianPunk115 on X](https://x.com/AdrianPunk115/status/2098055380857143807) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`product-replacement`](tags.md#tag-product-replacement) [`poster`](tags.md#tag-poster) [`reference-images`](tags.md#tag-reference-images) [`iphone`](tags.md#tag-iphone)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Please edit Image 1 by replacing the main product with the product shown in Image 2.
+
+Strictly separate the functions of the two reference images:
+Image 1 dictates the advertising composition, background, lighting direction, decorative elements, and text layout (excluding the product itself).
+Image 2 dictates the new product's authentic shape, structure, material, color, logo, and packaging details.
+
+Remove the old product from Image 1 and naturally place the product from Image 2 into the area previously occupied by the original product.
+
+Preserve the authentic aspect ratio of the product from Image 2; do not squash, stretch, or alter its structure to fit the original outline. You may scale the product proportionally as a whole to fit the original layout.
+
+Modify only the area occupied by the new product, along with any necessary contact shadows, occlusions, and local reflections resulting from the replacement. Do not recreate the entire poster.
+
+Keep the headline, text content, font, font size, positioning, background texture, decorative elements, and canvas dimensions unchanged.
+
+Do not create a hybrid design combining the two products. Do not retain the old product's cap, handle, label, or other components.
+
+Do not add accessories not present in Image 2, do not guess at illegible packaging text, and do not alter the product's color to match the background.
+
+Output only the single, completed poster with the product replaced.
 ```
 
 </details>

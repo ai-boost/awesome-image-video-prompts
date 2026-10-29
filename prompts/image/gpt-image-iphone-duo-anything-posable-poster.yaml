@@ -1,0 +1,292 @@
+id: gpt-image-iphone-duo-anything-posable-poster
+title:
+  en: Model holds iPhone Duo over giant DUO lettering
+  zh: 模特手持 iPhone Duo，背景为巨型 DUO 字样
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- foldable-phone
+- product-poster
+- giant-typography
+- editorial
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2097978468642480487
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 176
+  captured: '2026-10-29'
+  posted: '2026-09-10'
+notes:
+  en: 'The prompt builds the poster in layers: a giant cropped DUO layer sits behind the subject, a low hero angle and shallow depth keep the phone as the dominant object, and the four feature cards are described as glass panels so they read as part of the layout rather than a spec sheet.'
+  zh: 提示词分层描述海报：背景是被裁切的巨型 DUO 字样，低机位的英雄视角与浅景深让手机保持视觉主体，四张特征卡片被写成玻璃质感面板，使其融入版式而不像规格表。
+prompt: |
+  4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
+  Style: Apple-level art direction × contemporary product photography × bold editorial composition × hyper-real commercial photography
+
+  🧠 CORE INTENT:
+  “ANYTHING’S POSABLE.”
+
+  One iPhone.
+  More ways to see it.
+  More ways to use it.
+  More ways to make it yours.
+
+  Effortless flexibility.
+  Physical intelligence.
+  One device that adapts to the moment.
+
+  🎬 SCENE COMPOSITION:
+
+  BACKGROUND:
+  Pure matte white architectural studio environment with a dominant oversized rounded rectangle block in ultra-soft warm silver gradient (top-left → bottom-right illumination)
+
+  The background block creates a subtle dimensional stage behind the subject and product.
+
+  GIANT TYPOGRAPHY (BACKGROUND LAYER):
+  “DUO”
+
+  * ultra-bold geometric sans-serif
+  * stretched wide kerning
+  * partially cropped by frame edges
+  * soft shadow depth
+  * color: very light warm grey
+  * subtle embossed / debossed effect
+  * typography positioned behind the subject and product
+  * large enough to function as an architectural graphic element
+
+  👤 SUBJECT (HUMAN ELEMENT):
+
+  Female model, clean contemporary editorial look, Apple-style casting
+
+  * neutral expression
+  * confident, calm, effortless
+  * natural skin texture
+  * hair: natural flow, slightly wind-touched
+  * minimal makeup
+  * understated styling
+
+  OUTFIT:
+  → sculptural off-white tailored top
+  → deep graphite trousers
+  → minimal accessories
+  → no visible branding
+  → sophisticated contemporary styling
+
+  POSE:
+
+  * Shot from slightly low angle (hero perspective)
+  * Body slightly angled toward camera
+  * One hand holding iPhone Duo in its compact closed configuration
+  * Other hand lightly supporting the device as it opens
+  * iPhone Duo positioned prominently between viewer and subject
+  * Face aligned toward viewer
+  * direct eye contact
+  * relaxed posture
+  * pose communicates control rather than excitement
+
+  📱 PRODUCT (HERO FOCUS):
+
+  DEVICE:
+  iPhone Duo
+
+  FINISH:
+  Premium titanium finish with physically accurate metallic surface response
+
+  POSITION:
+  Extreme foreground (forced perspective)
+  Slightly rotated toward camera to reveal the thin profile, hinge construction and display relationship
+
+  The device must remain the dominant visual object.
+
+  PRODUCT CONFIGURATION:
+  iPhone Duo shown transitioning from compact outer-display mode into its expansive unfolded configuration.
+
+  One continuous physical device.
+  No impossible geometry.
+  No duplicated products.
+  No floating components.
+
+  DETAILING:
+
+  * ultra-thin titanium frame
+  * precision hinge construction
+  * seamless folding display
+  * extremely thin bezels
+  * hyper-sharp camera system
+  * lens reflections physically accurate
+  * brushed titanium edge highlights
+  * subtle micro-scratches
+  * realistic fingerprints / material response kept extremely subtle
+  * Apple logo centered with restrained reflective gloss
+  * physically accurate display reflections
+  * realistic hinge shadow and contact points
+
+  The unfolded display should feel expansive and architectural rather than simply “larger.”
+
+  REFLECTION:
+
+  * soft studio reflection across titanium edges
+  * subtle screen reflections
+  * controlled highlight around hinge
+  * micro light bloom around metallic edges
+
+  ✨ LIGHTING SYSTEM:
+
+  MAIN LIGHT:
+  Soft studio key light (front-left)
+  → smooth skin tones
+  → clean product highlights
+  → controlled white-to-silver transitions
+
+  RIM LIGHT:
+  Cool-white edge light from right
+  → enhances phone silhouette
+  → separates titanium edges from white background
+  → reveals the thinness of the device
+
+  ACCENT LIGHT:
+  Very subtle warm-silver glow from background architectural block
+
+  SHADOW:
+  Soft drop shadow beneath subject + phone
+  Soft contact shadow around hinge
+  (no harsh contrast)
+
+  🎨 COLOR SYSTEM:
+
+  * Primary: clean Apple white
+  * Secondary: titanium silver / warm metallic grey
+  * Accent: subtle graphite
+  * Background: warm neutral white
+  * Contrast: deep micro-shadows
+
+  No over-saturation.
+  No neon.
+  No unnecessary color effects.
+  Controlled premium palette.
+
+  ✨ GRAPHIC ELEMENTS:
+
+  * Minimal sparkle icons ✦ (2 only)
+  * One subtle translucent UI pill floating near the unfolded display
+  * Thin technical construction line following the phone’s folding axis
+  * Very subtle grain for realism
+  * Minimal geometric indicators showing the transition between closed and open states
+
+  All graphic elements remain secondary to the product.
+
+  ✍️ TYPOGRAPHY SYSTEM:
+
+  TOP LEFT:
+  Apple logo (black, small, clean)
+
+  TOP RIGHT:
+  “Anything’s posable.” (thin sans-serif)
+
+  MID LEFT (pill):
+  “iPhone Duo”
+
+  CENTER DOMINANT:
+  “DUO” (background type)
+
+  BOTTOM RIGHT (body text):
+  Small paragraph:
+
+  “iPhone Duo.
+  One beautifully designed iPhone.
+  Two ways to see it.
+  Made to move with you.”
+
+  📊 FEATURE STRIP (BOTTOM GRID):
+
+  4 rounded cards (glass-white panels):
+
+  1. 7.6″ INNER DISPLAY
+      “More room to see.”
+  2. 5.4″ OUTER DISPLAY
+      “Ready when you are.”
+  3. TITANIUM DESIGN
+      “Precision in every fold.”
+  4. A20 PRO
+      “Pro performance. In a new form.”
+
+  Icons minimal line style.
+
+  Cards must feel integrated into the poster rather than appearing as a generic technology specification panel.
+
+  📐 COMPOSITION GRID:
+
+  * Top: brand + statement
+  * Mid: subject + product (dominant)
+  * Background: giant “DUO” typography layer
+  * Bottom: feature modules
+
+  Strong vertical hierarchy.
+
+  The product overlaps the background typography.
+
+  The model creates secondary depth behind the phone.
+
+  Eye flow:
+  Face → Phone → Hinge → “DUO” → Features
+
+  The iPhone Duo must remain the first visual priority.
+
+  🎥 CAMERA SPECS:
+
+  * ARRI Alexa Mini LF
+  * 50mm premium anamorphic lens
+  * shallow depth of field around subject
+  * product maintained in extremely high optical clarity
+  * HDR rendering
+  * ultra-real skin + titanium material detail
+  * subtle lens distortion for realism
+  * physically accurate reflections
+  * controlled cinematic highlight roll-off
+  * realistic depth separation
+  * premium commercial product photography
+
+  Slightly low camera position for a subtle hero perspective.
+
+  No extreme wide-angle distortion.
+  No exaggerated perspective.
+  No artificial CGI appearance.
+
+  🎯 FINAL ART DIRECTION:
+
+  Apple-level campaign restraint with enough visual tension to feel contemporary and editorial.
+
+  The poster should communicate that iPhone Duo is not simply a phone that folds.
+
+  Its ability to change position becomes the central visual language of the campaign.
+
+  Premium.
+  Precise.
+  Human.
+  Physical.
+  Confident.
+
+  No generic foldable-phone aesthetic.
+  No futuristic sci-fi environment.
+  No excessive holograms.
+  No neon.
+  No cyberpunk styling.
+  No random floating UI.
+  No distorted hands.
+  No malformed device geometry.
+  No impossible hinge.
+  No duplicated cameras.
+  No fake Apple branding.
+  No clutter.
+  No cheap AI-rendered appearance.
+
+  FINAL OUTPUT:
+  4:5 vertical
+  8K
+  hyper-real commercial photography
+  premium Apple campaign art direction
+  global advertising quality
+  OOH billboard ready
+  social media ready
+  Behance-level visual design

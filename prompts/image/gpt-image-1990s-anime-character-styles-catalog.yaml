@@ -1,0 +1,30 @@
+id: gpt-image-1990s-anime-character-styles-catalog
+title:
+  en: 1990s anime character styles catalog with 16 labeled archetypes
+  zh: 1990年代动漫角色风格图鉴，16种原型标注网格
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- anime
+- infographic
+- character-design
+- style-catalog
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2058152463031488981
+  credit: Kōda
+  likes: 590
+  captured: '2026-10-29'
+  posted: '2026-05-23'
+notes:
+  en: Naming the era, the language, a labeled grid layout and one archetype per panel gives a consistent, scannable reference sheet from a single sentence. Specifying the 16:9 ratio fixes the canvas so the grid fills the frame.
+  zh: 一句话写明年代、语言、标注网格以及每格一个原型，就能得到结构统一、便于对照的参考图。指定 16:9 比例可以让网格填满画面。
+prompt: |
+  Anime character styles are incredibly diverse and researching them one by one can get exhausting fast. I'm using a simple GPT Image 2 prompt that turns this process into a visual catalog by generating infographic-style posters with different anime character archetypes, visual languages and era-specific styles all in a single image.
+
+  It is a quick way to explore, compare and study character design directions without jumping between dozens of references. Great for inspiration, style research and building visual libraries.
+
+  You can tweak a few parts of the prompt to explore other directions as well, such as stylized 3D animation looks, cinematic visual languages or even film-inspired design catalogs.
+
+  Example Prompt: Create an English infographic catalog poster showing 1990s anime character styles in a clean labeled grid layout, each panel featuring a different archetype and visual language. Use 16:9 aspect ratio.

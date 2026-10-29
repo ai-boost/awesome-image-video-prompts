@@ -1,0 +1,71 @@
+id: omni-louis-vuitton-neverfull-atelier-morph
+title:
+  en: Monogram canvas and brass parts on atelier workbench
+  zh: 工坊桌面上的老花帆布与黄铜配件
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- product-reveal
+- luxury-fashion
+- morph-transition
+- single-shot
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2095861297288188282
+  credit: Mr Das
+  likes: 139
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+video: https://x.com/MrDasCreates/status/2095861297288188282
+notes:
+  en: A timed beat sheet gives each phase its own action, and a single continuous shot rule with a lens change at the product reveal keeps the assembly from cutting away. Each material collision has a matching sound cue, so the audio locks in with the visual snap-together.
+  zh: 按时间段划分的动作节拍让每个阶段都有明确动作，单镜头不切换的约束加上成品出现时的镜头切换，使拼合过程保持连贯。每次材料碰撞都配有对应的声音提示，让音效与画面的咬合同步。
+prompt: |
+  {
+    "model": "gemini-omni-1.1-flash",
+    "duration": "10s",
+    "aspect_ratio": "16:9",
+    "shot": {
+      "structure": "single continuous unbroken shot, no scene cuts",
+      "composition": "starts wide on a refined Parisian leather atelier workbench, follows individual canvas panels, leather straps, and gold hardware rising and interlocking, ends on a centered floating Louis Vuitton Neverfull close-up",
+      "lens": "50mm for the workshop environment, then 85mm for the product reveal",
+      "frame_rate": "24fps cinematic",
+      "camera_movement": "slow push-in across the bench following the rising materials, then a gentle orbital arc as they lock into the bag, hold steady on the hovering tote"
+    },
+    "timeline": {
+      "0-3s": "Warm-lit luxury leather workshop at dusk. Polished oak workbench scattered with monogram canvas sheets, vachetta leather straps, gold-tone hardware, and brass locks. Soft tungsten lamps, leather tools, faint dust motes in the air.",
+      "3-7s": "Dozens of precision canvas panels, leather pieces, stitching threads, and gold hardware lift from the bench and rotate in elegant, structured orbits. They snap together mid-air with soft leather and metallic clicks into the exact silhouette of a Louis Vuitton Neverfull. Subtle gold reflections and micro-spark highlights on polished surfaces.",
+      "7-10s": "The assembled form pulses once and materializes into a real Louis Vuitton Neverfull with monogram canvas, natural vachetta handles, and gold hardware, hovering weightlessly. The bag settles with a gentle leather creak. Warm rim light and faint workshop haze."
+    },
+    "subject": {
+      "description": "dozens of luxury bag components rising and interlocking in elegant structured orbits to form a classic tote silhouette",
+      "props": "final Louis Vuitton Neverfull formed from swirling canvas and leather parts, then transitioning into the real branded bag while hovering mid-air"
+    },
+    "scene": {
+      "location": "traditional Parisian leather atelier with wooden workbench",
+      "time_of_day": "early evening dusk, warm tungsten glow, lingering workshop atmosphere",
+      "environment": "quiet precision workshop, scattered tools, leather mats, gold hardware, canvas offcuts"
+    },
+    "visual_details": {
+      "action": "parts lift, rotate in organized mechanical paths, lock into bag outline, pulse, then morph into finished Louis Vuitton Neverfull suspended in space",
+      "special_effects": "micro-fiber canvas animation, slow-motion gold reflections, mid-air material morph, subtle levitation shimmer and dust trails"
+    },
+    "cinematography": {
+      "lighting": "warm directional tungsten light, gleaming gold hardware highlights, soft amber rim light on the floating bag",
+      "color_palette": "rich walnut browns, monogram golds, natural vachetta tans, warm ambers",
+      "tone": "precise, heritage luxury, quiet mastery"
+    },
+    "audio": {
+      "music": "subtle orchestral strings with delicate piano and faint leather-texture motifs",
+      "ambient": "distant workshop hush, occasional tool clink, evening stillness",
+      "sound_effects": "soft canvas rustle and leather snaps as parts lock, precision click when the form completes, faint mechanical hum under levitation",
+      "mix": "intimate, refined, workshop-forward with a clean musical center"
+    },
+    "constraints": {
+      "dialogue": "none",
+      "voiceover": "none",
+      "on_screen_text": "none",
+      "captions": "none",
+      "subtitles": false
+    }
+  }

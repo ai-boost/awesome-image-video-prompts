@@ -1,0 +1,30 @@
+id: seedance-school-uniform-lookbook-turntable
+title:
+  en: School uniform lookbook model turns as products rotate
+  zh: 校园风穿搭画册，模特与商品同步旋转
+model: Seedance 2.5
+mode: image-to-video
+tags:
+- fashion
+- lookbook
+- turnaround
+- product-rotation
+source:
+  name: '@AI__TSUBAKI on X'
+  url: https://x.com/AI__TSUBAKI/status/2102459655700287648
+  credit: AI__TSUBAKI
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AI__TSUBAKI/status/2102459655700287648
+notes:
+  en: Starts from the first frame so the board layout stays locked, and only the model and product cutouts move. The model's full turn and each item's single spin end on the same beat, which keeps the sync readable.
+  zh: 从首帧锁定整张版式，只让模特和商品动起来。模特转身与每件商品旋转一圈在同一节拍结束，画面同步感清楚。
+prompt: |
+  A clean, premium 4-second fashion lookbook animation starting from the first frame. The entire layout stays exactly as shown: same background, same cream item panel, same captions, same crown icons, same wordmark, same framing.
+
+  The model on the right turns a full 360° on the spot the way a real fashion model does on set: she steps her feet around naturally, shifting her weight from one leg to the other as she turns, her arms moving freely and her shoulders relaxed. As she comes around to the back she glances over her shoulder, and as she returns to face the camera she settles into a new, different confident model pose. Natural posture, realistic cloth physics; hair, hems and accessories swing and settle with the motion. She stays in the same spot and at the same size in frame throughout.
+
+  At the same time, every product cutout inside the item panel rotates in place on its own vertical axis, like a luxury product display render, revealing front, side and back. Each item stays centered in its own slot, keeps its size, and completes exactly one full rotation in sync with the model's turn, ending in its original orientation.
+
+  The panel, divider lines, captions, crown icons and wordmark stay perfectly fixed; only the model moves and the products rotate. Camera locked off, no zoom, no pan. Soft studio lighting with realistic shadows under the model and the products. Smooth, natural motion, clean commercial fashion-ad aesthetic, ultra-sharp details, luxury catalog presentation.

@@ -1,0 +1,33 @@
+id: nano-banana-candy-biscuits-hero-packet
+title:
+  en: Candy Biscuits packet with falling candies on golden backdrop
+  zh: 糖果饼干包装配飞落糖果与金色背景
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- product-photography
+- food
+- packaging
+- candy
+source:
+  name: '@Aqib__786Ai on X'
+  url: https://x.com/Aqib__786Ai/status/2075583441438114168
+  credit: AqibAi
+  likes: 81
+  captured: '2026-10-29'
+  posted: '2026-07-10'
+notes:
+  en: The prompt fixes the packet as the single hero subject and bans extra products, hands and cropping, which keeps the pack text readable. The warm golden orange gradient, bokeh and 85mm f/5.6 shallow depth of field around it give the premium campaign look.
+  zh: 提示词把包装锁定为唯一主体，并排除多余产品、手部和裁切，使包装文字保持清晰。暖金橙渐变背景、散景和 85mm f/5.6 浅景深营造高端广告质感。
+prompt: |
+  Create a premium commercial product photography image of a "Candy Biscuits" packet standing upright on a clean reflective surface. The packaging is perfectly centered, crisp, and 100% accurate with readable branding and vibrant colors. Surround the product with a few golden crispy biscuits and colorful candy pieces scattered naturally. Soft studio lighting with subtle rim light, realistic reflections, soft shadows, luxury food advertising style, ultra-photorealistic, high-end packaging photography, macro-level texture details, vibrant colors, premium supermarket advertisement look, shallow depth of field, 85mm camera lens, f/4, HDR, 8K quality, razor-sharp focus, realistic food styling, elegant composition, no extra products, no watermark, no text distortion, no cropped product.
+
+  Prompht 2:
+
+  Create a premium hero product advertisement featuring a single "Candy Biscuits" packet as the main focus. The packet is standing upright on a glossy surface with realistic reflections. Place a few crunchy golden biscuits broken into halves around the product, with colorful candy-coated chocolate pieces falling in mid-air to create a dynamic, eye-catching composition. Use a warm golden-orange gradient background with soft glowing light, subtle bokeh, and floating crumbs for a fresh, delicious feel.
+
+  Lighting should be cinematic with soft key light, gentle rim lighting, and realistic shadows that make the packaging pop. Keep the product perfectly sharp with accurate colors, readable branding, and premium packaging details. Capture in high-end commercial food photography style with ultra-realistic textures, HDR quality, shallow depth of field, 85mm lens, f/5.6, luxury FMCG advertising, clean composition, vibrant colors, premium supermarket campaign look.
+
+  Negative Prompt:
+  No extra products, no duplicate packets, no human hands, no watermark, no logo distortion, no spelling errors, no blurry packaging, no overexposed lighting, no unrealistic reflections, no cropped product, no low resolution.

@@ -1,0 +1,30 @@
+id: nano-banana-radial-exploded-view-smartphone
+title:
+  en: Exploded smartphone with labeled components on dark background
+  zh: 深色背景下带标注部件的智能手机爆炸图
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- exploded-view
+- product-teardown
+- 3d-render
+- infographic-labels
+- dark-background
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2032126653309030481
+  credit: Alexandra Aisling
+  likes: 468
+  captured: '2026-10-28'
+  posted: '2026-03-12'
+notes:
+  en: Separate material cues for glass, aluminium, PCB and rubber give each component its own surface, and fixed slots for the title, spec block and label typography keep the layout consistent. Cool overhead light, warm amber underlighting on the internals and a thin blue rim on the shell separate the layers against the dark background.
+  zh: 为玻璃、铝、电路板和橡胶分别给出材质描述，让每个部件有各自的表面质感；标题、规格块和标签排版都固定位置，让版式保持一致。冷色顶光、内部暖色琥珀底光和外壳蓝色细边光在深色背景上区分出各层。
+prompt: |
+  Prompt Studio: 3D Radial Explosion with Nano Banana 2 in Firefly
+
+  Hyperrealistic 3D radial exploded view of [PRODUCT]  [NUMBER] components  bursting outward from a central axis in every direction, frozen in mid-air.  True spatial explosion, not a vertical stack, depth and parallax visible.  COMPONENTS (core outward): [SHELL] → [DISPLAY] → [FRAME] → [MAINBOARD] →  [BATTERY] → [MICRO PARTS shown in 3x floating callout circles]  MATERIALS: glass refracts and catches specular highlights, aluminium shows  brushed grain and machined edges, PCB traces glow faintly amber,   rubber gaskets matte with micro-texture, cables with soft bend physics.  LABELS: hairline leader to floating box. "[COMPONENT]" uppercase /  "[FUNCTION]" italic / "[KEY SPEC]" monospace. Radiate outward, no overlaps.  LIGHTING: cool diffused overhead + warm amber underlighting on internals +  thin blue rim on outer shell. Displays emit soft UI glow. Circuits self-illuminate.  BACKGROUND: [COLOR], deep, non-reflective. Midnight black recommended. TITLE: "[PRODUCT NAME]" top right. SUBTITLE: "[TAGLINE]".  SPEC BLOCK: "[SPEC 1] / [SPEC 2] / [SPEC 3]" bottom left in monospace.  Mood: iFixit teardown meets NASA manual meets WIRED cover. 4K, tack sharp, extraordinary material fidelity.
+
+  Check ALTs for ideas 👇
+  @AdobeFirefly

@@ -1,0 +1,24 @@
+id: gpt-image-luxury-water-bottle-splash-ice
+title:
+  en: Premium water bottle with spiral splash and ice cubes
+  zh: 高端水瓶配螺旋水花与冰块
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- product-photography
+- water-bottle
+- splash
+- studio-lighting
+source:
+  name: '@Itswsm105f on X'
+  url: https://x.com/Itswsm105f/status/2071488588345405695
+  credit: Zyro
+  captured: '2026-10-29'
+  posted: '2026-06-29'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A second paragraph repeats the fixed subject and studio setup, then adds splash, ice, mist and rim light as separate scene cues. Naming the lighting, palette and copy space gives the layout room for branding.
+  zh: 第二段重复固定的主体与棚拍设定，再把水花、冰块、薄雾和轮廓光作为独立的场景描述逐项叠加。明确写出光线、色调与留白，为品牌文字预留版面。
+prompt: |
+  Ultra-realistic luxury commercial product photography of a premium transparent water bottle standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral. Background features cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text. Ultra-realistic luxury commercial product photography of the same premium transparent water bottle standing upright on a reflective wet surface. The bottle is covered with fresh condensation droplets. A powerful splash of crystal-clear water rises around the bottle with small floating bubbles. Background features refreshing aqua green and turquoise gradients with soft sunlight rays, tropical leaves slightly blurred in the distance, fresh mist, and glowing highlights. High-end commercial studio lighting, cinematic product advertisement, ultra-detailed, photorealistic, 8K, elegant composition, premium hydration campaign, minimal branding space, vibrant yet clean aesthetic.

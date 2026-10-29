@@ -1,0 +1,27 @@
+id: gpt-image-f1-final-lap-paddock-broadcast-screenshot
+title:
+  en: Paddock guest on F1 final lap broadcast screenshot
+  zh: F1 决赛圈直播截图中的围场嘉宾
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- f1
+- broadcast
+- photo-realism
+- lower third
+source:
+  name: '@bigwonbots on X'
+  url: https://x.com/bigwonbots/status/2054573714012787059
+  credit: bigwonbots
+  captured: '2026-10-29'
+  posted: '2026-05-13'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt frames the image as a telephoto TV broadcast capture, and the compression artifacts, digital noise and no smoothing cues push it toward a real screenshot look. Each overlay is listed in a fixed order (banner, lap counter, timing tower, logo bug, LIVE tag, lower third) so every graphic lands where the broadcast layout expects it.
+  zh: 提示词把画面设定为长焦电视转播截图，压缩痕迹、数字噪点和不做磨皮的要求让图像接近真实截屏。各个图层按固定顺序列出（横幅、圈数、计时塔、徽标、LIVE 标识、字幕条），让每个图形都出现在转播版式的预期位置。
+prompt: |
+  Ultra-realistic F1 live TV broadcast screenshot. A strikingly beautiful, 25-year-old young woman with bright light blue hair and captivating bright cerulean blue eyes is sitting in the VIP paddock / team garage during a Formula 1 race. Shown on the official live race broadcast as the girlfriend of an F1 driver, she is listening to the team radio through a professional racing headset. It is the final lap, and she is watching the garage monitors with a proud, enchanting smile.
+  She wears a fitted white tank top, an oversized racing team jacket (with generic, unbranded or blank team logos) draped over her shoulders, large black team-radio headset with boom mic, gold jewelry, and soft glam makeup. A slim, unbranded paddock pass hangs naturally from her neck.
+  Add realistic F1 broadcast graphics: "FINAL LAP" banner, lap counter showing final lap, driver timing tower on the left, small F1-style logo bug, "LIVE" indicator, and a lower-third identifying her as a driver partner / paddock guest (e.g., "MIA ANDERSEN - Paddock Guest / Partner"). No fake oversized badges, no selfie angle.
+  Team staff (in generic kit), headsets, garage screens, and generic race equipment are blurred around her. Telephoto broadcast camera shot from across the garage, professional depth of field, compression artifacts, digital noise, bright paddock lighting, natural skin texture, no smoothing, 8k quality, cinematic lighting.

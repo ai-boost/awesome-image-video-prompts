@@ -1,0 +1,38 @@
+id: gpt-image-anime-rom-com-classroom-key-visual
+title:
+  en: Anime classroom scene with three students and Japanese text
+  zh: 三名学生的动漫教室场景与日文文字
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- anime
+- key-visual
+- japanese-text
+- classroom
+source:
+  name: '@mirochill on X'
+  url: https://x.com/mirochill/status/2090181179978944551
+  credit: Mirochill
+  captured: '2026-10-29'
+  posted: '2026-08-19'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the character count, the four named desk objects and the exact wording and position of all seven text labels, so each element can be checked against the output. Soft window daylight and shallow depth of field give a calm cinematic tone while keeping the cel shaded anime look.
+  zh: 提示词固定了人物数量、四件桌面物品，以及七处文字的内容和位置，输出的每个元素都可以逐项核对。窗边柔和的日光和浅景深营造安静的电影感，同时保持赛璐璐上色的动画风格。
+prompt: |
+  Goal: Create a cinematic anime key visual for a school rom-com scene titled 負けヒロインが多すぎる!, with polished modern TV-anime rendering, natural lighting, and coherent character designs.
+
+  Canvas: 16:9 horizontal frame, 1200×675 composition, set inside a bright but slightly shadowed school classroom or club room with large windows in the background showing blue sky, clouds, railings, and distant buildings. Use soft daylight from the windows, cool gray concrete pillars, shallow depth of field, and subtle filmic contrast with no visible grain.
+
+  Layout: Three high-school students sit at desks in the foreground and midground. Place the main girl large on the left, the boy centered slightly behind her, and the second girl on the right, smaller and partially separated by a pillar. Add anime-style promotional text overlays and handwritten Japanese comments around the characters.
+
+  Characters: Exactly 3 characters. 1) Main heroine on the left: a cheerful teenage girl with deep blue shoulder-length messy hair, blue eyes, blushing cheeks, and a teasing smile; she wears a white short-sleeve school shirt with a blue bow tie and a cute decorative chest accessory, resting her cheek on one hand as she leans forward confidently. 2) Center boy: a nervous teenage boy with short dark brown hair, white short-sleeve school shirt, dark green necktie, and a slightly sweaty awkward expression, looking toward the main heroine as if trapped in a conversation. 3) Right-side heroine: a quiet teenage girl with short burgundy-red bobbed hair and hairpins, wearing a white school shirt, sitting lower behind a dark school bag while hiding behind or looking down at a small smartphone, appearing jealous or indifferent.
+
+  Foreground objects: Include exactly 4 prominent desk items: a pink rectangular lunch box or pouch in front of the blue-haired girl, a crumpled pale pink cloth beside it, a small strawberry yogurt drink carton with a straw in front of the boy, and a large dark navy school bag across the right foreground.
+
+  Text content: Include exactly 7 visible text elements. 1) Top-left title: 「負けヒロインが多すぎる!」 with small English subtitle “MAKEINE Too Many Losing Heroines!” beneath it. 2) Handwritten comment near the main heroine on the left: 「やっぱ 私は負けヒロインなんだよね〜」 with a curved arrow pointing to her. 3) Small thought text near the boy: 「また 始まった…」. 4) Poster on the center-right wall: 「負けても、きっと、青春は、終わらない。」 with small English “Too Many Losing Heroines!” beneath. 5) Handwritten quote in the upper-right corner: 「それでも、好きな気持ちは、きっと、負けじゃない。」 with a thin blue underline. 6) Handwritten comment near the red-haired girl: 「別に 気にしてない」 with a dotted line and arrow pointing to her. 7) On the drink carton, write 「ヨーグルト いちご」 with a strawberry graphic.
+
+  Visual style: High-quality Japanese anime production still, delicate line art, expressive faces, soft cel shading, realistic classroom perspective, slightly muted colors, natural blue daylight, detailed hair highlights, emotional rom-com atmosphere, promotional poster composition.
+
+  Constraints: Keep the composition faithful to a single wide anime screenshot, do not add extra characters, do not add extra desk objects beyond the four prominent items, keep all Japanese text legible and placed as described, avoid photorealism, avoid 3D rendering, avoid watermarks.

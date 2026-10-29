@@ -1,6 +1,6 @@
 # Phone and UI mockups
 
-[Back to the list](../../README.md) · All 17 entries
+[Back to the list](../../README.md) · All 28 entries
 
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### iPhone Photos camera roll of a student's day
@@ -147,6 +147,115 @@ Outfits change continuously through the day. Morning: milky-white camisole loung
 Photo mix is fixed at 60% selfies and mirror selfies, 40% solo portraits taken by someone else. Every frame has her as the subject. Every thumbnail keeps real iPhone native-camera texture. Pose, camera distance, angle, expression, lighting, and clothing keep changing.
 The sequence runs from morning to late night. Morning feels loose and just-woken. Late morning has clear natural light. Afternoon feels like ordinary going-out. Evening has soft city light. Night has low indoor light. Late night feels quiet and private after coming home.
 The whole set is quiet, private, relaxed, and real. The album forms a dense, continuous solo-portrait look, like a full day of private portrait camera roll saved on her own phone.
+```
+
+</details>
+
+<a id="gpt-image-morrigan-sunscreen-beach-rpg-hud"></a>
+### Morrigan asks for sunscreen help in RPG HUD screenshot
+
+<a href="https://x.com/underwoodxie96/status/2097587863139537262"><img src="../../previews/gpt-image-morrigan-sunscreen-beach-rpg-hud.jpg" width="360"></a>
+
+The prompt fixes a first person camera and lists every HUD element to show, which makes the frame read as a playable game capture. Naming the character and the scene together keeps Morrigan's design and the sunscreen action consistent.
+
+GPT Image 2.5 · Text-to-image · Source: [@underwoodxie96 on X](https://x.com/underwoodxie96/status/2097587863139537262) · 115 likes on 2026-10-29
+
+[`game-screenshot`](tags.md#tag-game-screenshot) [`hud`](tags.md#tag-hud) [`first-person`](tags.md#tag-first-person) [`3d-render`](tags.md#tag-3d-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.
+```
+
+</details>
+
+<a id="gpt-image-twelve-app-icons-same-man-grid"></a>
+### Same man styled as twelve app icons
+
+<a href="https://x.com/Fujimoto_hina/status/2058574162328002852"><img src="../../previews/gpt-image-twelve-app-icons-same-man-grid.jpg" width="360"></a>
+
+An uploaded reference photo keeps the same face across all twelve tiles, while each icon names a real app and sets a matching color palette and action. The fixed grid layout on a plain white studio background keeps the set cohesive.
+
+GPT Image 2 · Edit · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2058574162328002852) · 102 likes on 2026-10-29
+
+[`app-icons`](tags.md#tag-app-icons) [`reference-photo`](tags.md#tag-reference-photo) [`3d-render`](tags.md#tag-3d-render) [`grid-layout`](tags.md#tag-grid-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "model": "gpt-image-2",
+  "prompt": "Create a premium 3D grid of 12 square app icons arranged neatly on a clean white studio background. Each icon should look like a realistic modern version of popular apps including Spotify, Netflix, TikTok, Gmail, Google, Safari, App Store, Chrome, Clock, Calendar, Instagram, and Notes. Inside every app icon frame, place the same realistic man from the uploaded image, styled differently to match the theme and color palette of each app. Give him fashionable modern outfits, expressive poses, and interactions that creatively blend with the UI and environment of each icon. For example: relaxing inside Spotify with headphones, cinematic lighting in Netflix, trendy creator vibe in TikTok, casual aesthetic in Instagram, professional look in Gmail, etc. The icons should have a glossy 3D floating appearance with depth, shadows, reflections, realistic textures, and soft studio lighting. Make every square visually unique while keeping the overall composition cohesive and premium. Highly detailed skin texture, realistic facial consistency, luxury fashion styling, vibrant colors, pop art inspired aesthetic, ultra realistic digital art, depth of field, 8K quality, trending Behance/Dribbble style.",
+  "size": "1792x1024",
+  "quality": "high"
+}
+```
+
+</details>
+
+<a id="gpt-image-spotify-style-home-ed-sheeran-perfect"></a>
+### Music streaming home screen featuring Ed Sheeran's Perfect
+
+<a href="https://x.com/Naiknelofar788/status/2114389052451606897"><img src="../../previews/gpt-image-spotify-style-home-ed-sheeran-perfect.jpg" width="360"></a>
+
+The prompt is a fill in template with slots for app name, platform and featured content, followed by an explicit checklist of home screen components. Pinning the reference platform, the cinematic visual direction and a ban on invented prices or ratings keeps the result looking like a finished product.
+
+GPT Image 2.5 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2114389052451606897) · 34 likes on 2026-10-29
+
+[`app-mockup`](tags.md#tag-app-mockup) [`ui-design`](tags.md#tag-ui-design) [`music-app`](tags.md#tag-music-app) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a high-fidelity, visually stunning app UI mockup for [APP NAME], inspired by the polished user experience of leading entertainment platforms such as Spotify and Netflix.
+
+Design a realistic, professional interface that looks like a finished product created by an expert UI/UX designer. The screen should immediately communicate the app’s purpose, feature its most important content, and make the primary action obvious.
+
+1. App Identity & Layout
+
+App name: [APP NAME]
+Platform: [Mobile / Desktop / Tablet]
+Screen: Home / Dashboard
+Target audience: [TARGET AUDIENCE]
+Featured content: [SONG / ARTIST / MOVIE / K-DRAMA / SHOW]
+Visual direction: Clean, minimal, premium, modern, and cinematic.
+
+2. Main Screen Composition
+
+Create a well-organized interface with:
+
+A recognizable app logo and navigation menu.
+A clear header with search, notifications, and profile controls where appropriate.
+A prominent featured-content section with beautiful, relevant artwork.
+The content title, creator or artist, genre, and a concise description.
+A highly visible primary action button, such as Play, Watch Now, or Explore.
+A secondary action such as Like, Save, or Add to List, where appropriate.
+Horizontally scrolling content cards for recommendations, popular items, or recently played content.
+A persistent bottom navigation or playback bar when appropriate for the platform.
+
+3. Visual Design
+
+Use a sophisticated design system with:
+
+Carefully balanced spacing, alignment, and visual hierarchy.
+Crisp typography with clear distinctions between headings, descriptions, and metadata.
+Consistent margins, rounded cards, subtle shadows, and refined iconography.
+High-quality cinematic imagery or album artwork relevant to the featured content.
+A cohesive color palette inspired by the app’s identity.
+Realistic interface details, including progress bars, playback controls, active navigation states, and content thumbnails when relevant.
+
+4. User Experience
+
+Make the screen intuitive, uncluttered, and believable. The user should instantly understand what is featured and how to interact with it. Keep the primary action prominent, secondary controls understated, and supporting content visually organized.
+
+5. Rendering & Presentation
+
+Render the complete interface as a polished, high-resolution product mockup. Show the entire screen clearly, with sharp text, realistic UI components, accurate proportions, and professional lighting or device framing when suitable.
+
+The final result should feel like a premium, launch-ready entertainment app design—not a generic template, wireframe, poster, or collection of unrelated elements.
+
+Important: Preserve the supplied app name, labels, and content exactly. Do not invent prices, account details, ratings, statistics, or unsupported features. Prioritize usability, visual consistency, and a clear content hierarchy.
 ```
 
 </details>
@@ -442,6 +551,29 @@ A cinematic anime-style futuristic surveillance status screen showing a full-bod
 
 </details>
 
+<a id="gpt-image-douyin-live-stream-lingerie-gift-screenshot"></a>
+### Douyin live stream selling lingerie with airplane gift
+
+<a href="https://x.com/xiaohu/status/2046536551681954207"><img src="../../previews/gpt-image-douyin-live-stream-lingerie-gift-screenshot.jpg" width="360"></a>
+
+The prompt names the exact on-screen values (viewer count 99996, an 18+ badge and a named gift sender), so the model places each one as a platform UI overlay rather than decorative text. Naming the platform and asking for a screenshot keeps the result in a phone capture style instead of a poster.
+
+GPT Image 2 · Text-to-image · Source: [@xiaohu on X](https://x.com/xiaohu/status/2046536551681954207) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`douyin`](tags.md#tag-douyin) [`live-stream`](tags.md#tag-live-stream) [`ui-screenshot`](tags.md#tag-ui-screenshot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[中文]
+生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+
+[English]
+Generate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xiao Hu sent her an airplane gift
+```
+
+</details>
+
 <a id="gpt-image-farmers-market-app-ui"></a>
 ### Farmers market app screen in an iPhone frame
 
@@ -484,6 +616,48 @@ Create a modern government program landing page UI mockup for Indonesia in a cle
 
 </details>
 
+<a id="gpt-image-jin-ping-mei-arpg-game-screenshot"></a>
+### Ancient Chinese town street with ARPG HUD
+
+<a href="https://x.com/op7418/status/2046520509651886451"><img src="../../previews/gpt-image-jin-ping-mei-arpg-game-screenshot.jpg" width="360"></a>
+
+The short prompt names only the novel, and that alone supplies the setting, period costumes and shop signage. Asking for a game screenshot makes the model add the HUD, quest log, chat panel and minimap without further direction.
+
+GPT Image 2 · Text-to-image · Source: [@op7418 on X](https://x.com/op7418/status/2046520509651886451) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`game-ui`](tags.md#tag-game-ui) [`chinese-classic`](tags.md#tag-chinese-classic) [`open-world`](tags.md#tag-open-world) [`hud`](tags.md#tag-hud)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[中文]
+帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图
+
+[English]
+Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.
+```
+
+</details>
+
+<a id="gpt-image-league-of-legends-mid-lane-trump-khamenei"></a>
+### Trump vs Khamenei mid lane in League of Legends
+
+<a href="https://x.com/underwoodxie96/status/2046529342415790275"><img src="../../previews/gpt-image-league-of-legends-mid-lane-trump-khamenei.jpg" width="360"></a>
+
+The prompt names an exact game, lane and two real figures, so the model rebuilds the League HUD around them with portraits, ability bar, minimap and chat log. A short scene request works here because the game's visual language is strongly recognisable.
+
+GPT Image 2 · Text-to-image · Source: [@underwoodxie96 on X](https://x.com/underwoodxie96/status/2046529342415790275) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+
+[`league-of-legends`](tags.md#tag-league-of-legends) [`game-screenshot`](tags.md#tag-game-screenshot) [`fan-art`](tags.md#tag-fan-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends
+```
+
+</details>
+
 <a id="gpt-image-mac-terminal-world-sim-tui"></a>
 ### Mac Desktop Terminal Running World Simulation TUI
 
@@ -499,6 +673,75 @@ GPT Image 2 · Text-to-image · Source: [@fofrAI on X](https://x.com/fofrAI/stat
 
 ```text
 show me a screenshot of a mac desktop, large terminal window visible, doing something in the terminal with an expressive TUI layout related to a world sim
+```
+
+</details>
+
+<a id="gpt-image-mermaid-puppy-underwater-game-screen"></a>
+### Mermaid puppy underwater game level screenshot
+
+<a href="https://x.com/tinywhale2023/status/2049456974543323195"><img src="../../previews/gpt-image-mermaid-puppy-underwater-game-screen.jpg" width="360"></a>
+
+The prompt builds the scene in layers: setting first, then counted props placed by position words such as left of center and lower right, then the hero, then each Chinese UI label quoted exactly. This keeps the layout checkable and the overlay text clean.
+
+GPT Image 2 · Text-to-image · Source: [@tinywhale2023 on X](https://x.com/tinywhale2023/status/2049456974543323195) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`game-ui`](tags.md#tag-game-ui) [`children-illustration`](tags.md#tag-children-illustration) [`underwater`](tags.md#tag-underwater) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A bright, whimsical underwater 2D game scene in a polished children’s animation style, shown as a full-screen level screenshot inside a rounded-rectangle game viewport. The setting is a colorful coral reef with a sandy seabed and a pale stone path winding from the foreground into the distance at center, creating depth. Sunbeams stream down through clear blue water from above, with many small air bubbles floating throughout the scene. Surround the path with soft, toy-like coral formations and sea plants in pastel pink, peach, lavender, turquoise, and mint, plus rocky ledges on both sides. Place 2 starfish in the foreground, one purple on the lower left rock and one pink-orange on the lower right. Add 2 translucent pink jellyfish, one left of center and one right of center, both gently glowing. Scatter 6 glowing pink clam shells along and beside the path, each emitting a soft magical aura. Add 4 golden-orange collectible shells with a pearl-like center, positioned near the middle play area. Include 2 large purple balloon-like jelly obstacles with white outlines and short dangling tentacles, one in the lower center-left and one in the mid-right. Near the left-center foreground, place a cute mermaid puppy character inspired by a preschool cartoon rescue dog: small smiling puppy face, big expressive eyes, light brown and cream fur, pink head accessory, teal mermaid tail, playful cheerful pose as if moving forward. On the right side, add a faint dashed circular target marker over the environment. Overlay simple mobile-game UI in Chinese: at the top left, two white rounded pill buttons, one reading "收贝壳" and one reading "1/5"; at the top right, a white circular pause button with "II". At the bottom center, place 3 white rounded instruction buttons with blue-gray text: "方向键 / WASD", "空格 / 回车：泡泡", and "Esc 回地图". Make the whole image glossy, soft-lit, kid-friendly, high-saturation but pastel-balanced, with a dreamy fantasy reef atmosphere and clean casual game-art composition.
+```
+
+</details>
+
+<a id="gpt-image-netflix-nightingale-homepage-hero-ui"></a>
+### Netflix homepage hero for The Nightingale
+
+<a href="https://x.com/aimikoda/status/2051420440451801240"><img src="../../previews/gpt-image-netflix-nightingale-homepage-hero-ui.jpg" width="360"></a>
+
+The prompt sets the whole homepage as a UI frame and asks for a hero title plus still taken from the uploaded reference, so the key visual and the streaming chrome come out in one consistent image. Pairing the film title with the still keeps the poster, metadata and call-to-action buttons aligned as a real product screen.
+
+GPT Image 2 · Edit · Source: [@aimikoda on X](https://x.com/aimikoda/status/2051420440451801240) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`ui-design`](tags.md#tag-ui-design) [`streaming`](tags.md#tag-streaming) [`hero-banner`](tags.md#tag-hero-banner) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.
+```
+
+</details>
+
+<a id="gpt-image-sensenova-u1-pro-solar-terms-landing-page"></a>
+### Landing page with 24 Chinese solar term panels
+
+<a href="https://x.com/Lentils80/status/2078480576202346900"><img src="../../previews/gpt-image-sensenova-u1-pro-solar-terms-landing-page.jpg" width="360"></a>
+
+The prompt fixes the page from top to bottom, quoting every headline, paragraph and label exactly, so the result reads as a real webpage capture. Listing the 24 solar term labels in order and stating the exact panel count keeps the artwork complete and correctly sequenced.
+
+GPT Image 2 · Text-to-image · Source: [@Lentils80 on X](https://x.com/Lentils80/status/2078480576202346900) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`landing-page`](tags.md#tag-landing-page) [`solar-terms`](tags.md#tag-solar-terms) [`watercolor`](tags.md#tag-watercolor) [`web-design`](tags.md#tag-web-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Goal: Create a clean landing-page screenshot for an AI image model announcement, styled like a polished corporate technology blog page.
+
+Canvas: Wide 16:9 webpage capture, approximately 1200×675 px, with lots of white space. Use a pale white and lavender background with subtle diagonal glossy light streaks in the top hero area.
+
+Layout: Top hero section occupies the upper third. Place a large dark navy serif headline at top left reading SenseNova U1 Pro. Under it, add a small gray sans-serif paragraph: Flagship image creation model that uses interleaved text-image chain of thought to create accurate, well-designed, production-ready visual assets, delivering global-leading overall performance. Leave the right side mostly empty with soft abstract light beams.
+
+Main section: Below a horizontal transition into a light gray-white content area, place a large sans-serif heading on the left reading Ultra-High-Resolution Output. Directly underneath, show one blue highlighted text strip like selected webpage text, reading Supports up to native 8K resolution and specialized aspect ratios for production-grade precision and detail.
+
+Feature image: Beneath the highlighted strip, insert a centered framed horizontal artwork preview with a thin beige border and cream background. The artwork is a traditional Chinese watercolor calendar titled in black calligraphy at the top center: 二十四节气. It contains exactly 24 tall vertical painted panels arranged left to right, each representing one Chinese solar term with delicate ink-and-watercolor landscapes, flowers, birds, fields, snow, and seasonal plants. Count and label the 24 panels at the bottom in Chinese, in this exact order: 1 立春, 2 雨水, 3 惊蛰, 4 春分, 5 清明, 6 谷雨, 7 立夏, 8 小满, 9 芒种, 10 夏至, 11 小暑, 12 大暑, 13 立秋, 14 处暑, 15 白露, 16 秋分, 17 寒露, 18 霜降, 19 立冬, 20 小雪, 21 大雪, 22 冬至, 23 小寒, 24 大寒. Add tiny date ranges under each label, but keep them small and secondary.
+
+Visual style: Minimal modern web design, high-end AI product branding, crisp typography, large serif hero title, clean sans-serif body text, subdued gray text, navy accents, soft luminous abstract background, realistic screenshot-like composition.
+
+Constraints: Preserve the exact visible text hierarchy and the 24-panel count. Do not add extra navigation bars, logos, buttons, people, browser chrome, watermarks, or unrelated interface elements.
 ```
 
 </details>
@@ -589,6 +832,29 @@ Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 
 </details>
 
+<a id="gpt-image-trump-space-livestream-douyin-screenshot"></a>
+### Trump floats on ISS live stream with rocket gift
+
+<a href="https://x.com/songguoxiansen/status/2046478609238626569"><img src="../../previews/gpt-image-trump-space-livestream-douyin-screenshot.jpg" width="360"></a>
+
+The prompt copies a real Douyin live stream layout and quotes every on-screen string exactly, including the viewer count and bullet comments, so the UI text reads cleanly. Setting the gift rocket against a real launch visible through the porthole gives the virtual and real echo the prompt asks for.
+
+GPT Image 2 · Text-to-image · Source: [@songguoxiansen on X](https://x.com/songguoxiansen/status/2046478609238626569) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`douyin`](tags.md#tag-douyin) [`live-stream`](tags.md#tag-live-stream) [`space-station`](tags.md#tag-space-station) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[中文]
+一张9:16竖屏的抖音直播截图，太空直播风格。特朗普穿着NASA风格的白色宇航服，头盔面罩半开，露出他标志性的金色头发和笑容。他漂浮在国际空间站的舱内进行直播，处于微重力失重状态，身体微微悬浮。他双手举着一块固定在宇航服上的金属铭牌，铭牌上用NASA风格的印刷体写着"感谢松果先森送的大火箭"。身后圆形舷窗外可以看到蓝色的地球和深邃的太空。直播界面显示在线人数"地球+火星共888万"。弹幕区有人刷"真的在太空直播？""松果先森的火箭把你送上天了"。屏幕中央的火箭礼物特效与窗外太空中一枚正在发射的真实火箭遥相呼应，形成虚实结合的效果。舱内有各种精密仪器和控制面板，绿色和蓝色的指示灯闪烁。画面色调以深蓝、白色和金色为主，舷窗外的星光点缀其间，8K超高清，电影《地心引力》级别的视觉效果。
+
+[English]
+A 9:16 vertical screen screenshot of a Douyin live stream, space live stream style. Trump is wearing a NASA-style white spacesuit, with the helmet visor half open, revealing his signature golden hair and smile. He is floating inside the cabin of the International Space Station doing a live stream, in a microgravity weightless state, with his body slightly suspended. He is holding up a metal nameplate fixed to the spacesuit with both hands, and the nameplate says "Thanks to Songguo Xiansen for the big rocket" in NASA-style print. Behind him, the blue Earth and deep space can be seen through the circular porthole. The live stream interface shows the online viewer count as "Earth + Mars total 8.88 million". In the bullet screen area, someone is commenting "Really live streaming from space?" and "Songguo Xiansen's rocket sent you up to the sky". The rocket gift effect in the center of the screen echoes a real rocket launching in the space outside the window, forming a combination of virtual and real effects. There are various precision instruments and control panels inside the cabin, with green and blue indicator lights flashing. The color tone of the picture is mainly dark blue, white, and gold, with starlight from outside the porthole embellishing it, 8K ultra-high definition, visual effects at the level of the movie "Gravity".
+```
+
+</details>
+
 <a id="gpt-image-wu-zetian-weibo-selfie-post"></a>
 ### Empress Wu Zetian selfie on a Weibo post
 
@@ -608,6 +874,25 @@ GPT Image 2 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/st
 
 [English]
 Wu Zetian taking a selfie, registering and posting on Weibo.
+```
+
+</details>
+
+<a id="gpt-image-xiaohongshu-3d-profile-card-girl"></a>
+### Girl sitting on a 3D Xiaohongshu profile card
+
+<a href="https://x.com/MrGafish/status/2052323461268467860"><img src="../../previews/gpt-image-xiaohongshu-3d-profile-card-girl.jpg" width="360"></a>
+
+The prompt fixes the composition by naming the held card, the cutout edge where the figure sits, and the floating icons. Surface and light words such as soft cinematic light, glossy texture and glowing neon set the 3D finish.
+
+GPT Image 2 · Text-to-image · Source: [@MrGafish on X](https://x.com/MrGafish/status/2052323461268467860) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`xiaohongshu`](tags.md#tag-xiaohongshu) [`3d-render`](tags.md#tag-3d-render) [`ui-design`](tags.md#tag-ui-design) [`pixar-style`](tags.md#tag-pixar-style)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
 ```
 
 </details>

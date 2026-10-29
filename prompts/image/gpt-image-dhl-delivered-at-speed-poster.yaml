@@ -1,0 +1,149 @@
+id: gpt-image-dhl-delivered-at-speed-poster
+title:
+  en: DHL cargo jet, truck and warehouse on yellow poster
+  zh: DHL货机、卡车与仓库的黄色海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- dhl
+- poster
+- logistics
+- brand-palette
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2071447385998508240
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 170
+  captured: '2026-10-29'
+  posted: '2026-06-29'
+notes:
+  en: The prompt is split into labelled sections for layout, a strict hex palette and fixed headline, subhead and CTA text, which keeps the type readable and the colours on brand. The 70mm lens and the 3/4 forward angle make the aircraft the dominant diagonal in the frame.
+  zh: 提示词把版面、严格的色值（#FFCC00、#D40511）以及标题、副标题、按钮文字分成固定段落，让文字清晰、配色统一。70mm镜头与3/4正面斜角把飞机做成画面中最主导的对角线。
+prompt: |
+  Act as a senior art director from a global advertising agency specializing in premium logistics and transportation campaigns.
+
+  Create an ultra-premium social media campaign poster for DHL in vertical 4:5 format.
+
+  OBJECTIVE:
+  Position DHL as the fastest and most reliable global logistics network, emphasizing speed, precision, and worldwide delivery capability.
+
+  ART DIRECTION:
+  Bold commercial energy.
+  Industrial precision.
+  High-speed visual storytelling.
+  Clean but aggressive.
+  Premium enterprise campaign.
+  Behance front-page quality.
+
+  BRAND LANGUAGE:
+  High velocity.
+  Global logistics.
+  Urgent movement.
+  Operational excellence.
+  Industrial precision.
+
+  LAYOUT ENGINEERING:
+  Dynamic asymmetrical editorial composition.
+  Strong diagonal visual flow.
+  Large premium negative space for headline.
+  Clear hierarchy between hero visual, supporting graphics, and CTA.
+
+  VISUAL HIERARCHY:
+  Hero subject occupies 50 percent of composition.
+  Motion elements occupy 30 percent.
+  Branding and typography occupy 20 percent.
+
+  HERO SUBJECT:
+  A premium DHL cargo aircraft flying aggressively toward camera at dynamic 3/4 perspective, emerging from clouds with strong forward motion.
+  Visible DHL branding on fuselage.
+  Aircraft feels dominant, fast, and powerful.
+
+  SECONDARY ELEMENTS:
+  DHL delivery truck,
+  shipping containers,
+  cargo pallets,
+  subtle world route lines,
+  warehouse infrastructure.
+
+  Use sparingly to support scale without clutter.
+
+  GEOMETRY BLOCK:
+  Bold diagonal graphic planes inspired by motion streaks and speed lanes.
+  Angular yellow and red shapes cutting across composition.
+  Strong directional energy.
+
+  BACKGROUND:
+  Expansive dramatic sky with cloud layers and atmospheric depth.
+  Subtle world map grid integrated into background.
+  Motion blur streaks emphasizing global movement.
+
+  MOTION / ENERGY:
+  Extreme speed visualization.
+  High-velocity streak lines.
+  Directional motion blur.
+  Particle trails.
+  Compressed airflow around aircraft.
+  Visual energy should feel fast and aggressive.
+
+  LIGHTING:
+  High-contrast commercial lighting.
+  Golden sunlight breaking through clouds.
+  Strong yellow rim lighting.
+  Sharp reflections on aircraft body.
+  Premium HDR realism.
+
+  COLOR SYSTEM:
+  Strict DHL palette.
+
+  Primary:
+  DHL Yellow (#FFCC00)
+
+  Secondary:
+  DHL Red (#D40511)
+
+  Support:
+  White
+  Black
+
+  No extra colors.
+
+  TYPOGRAPHY SAFE ZONES:
+  Reserve large clean headline area in upper third.
+  Reserve CTA area near lower third.
+  Maintain clean readable hierarchy.
+
+  HEADLINE:
+  DELIVERED AT SPEED
+
+  SUBHEAD:
+  GLOBAL SHIPPING. ZERO COMPROMISE.
+
+  CTA:
+  SHIP NOW
+
+  CAMERA:
+  Cinematic aerial commercial photography
+  70mm compression lens
+  Dynamic forward perspective
+
+  POST PROCESS:
+  Micro contrast sharpening
+  Subtle bloom
+  Print-quality finish
+  Premium commercial polish
+
+  QUALITY:
+  Hyper-realistic
+  Photorealistic commercial advertising
+  Premium global campaign quality
+  Ultra-detailed
+  8K UHD
+
+  NEGATIVE:
+  No AI artifacts
+  No warped aircraft
+  No clutter
+  No broken text
+  No distorted perspective
+  No cheap stock-ad aesthetics

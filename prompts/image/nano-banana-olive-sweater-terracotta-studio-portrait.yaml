@@ -1,0 +1,34 @@
+id: nano-banana-olive-sweater-terracotta-studio-portrait
+title:
+  en: Seated studio portrait in olive sweater and beige trousers
+  zh: 橄榄绿毛衣与米色长裤的坐姿棚拍人像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- studio-portrait
+- reference-pose
+- fashion-photo
+- color-palette
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2061830756364947855
+  credit: Nexora
+  likes: 89
+  captured: '2026-10-29'
+  posted: '2026-06-02'
+notes:
+  en: Pins the reference pose, framing and hand placement while swapping identity and outfit, so the model edits the person instead of inventing a new scene. The terracotta-to-sand backdrop echoes the olive and beige clothing, and the camera body and lens line adds photographic realism.
+  zh: 通过锁定参考图的姿势、构图和手部位置，只替换人物身份与服装，避免模型重新构图。陶土到浅沙色的背景与橄榄绿和米色服装相呼应，相机与镜头参数则增强摄影写实感。
+prompt: |
+  Create an ultra premium studio portrait using the uploaded person’s REAL face, hairstyle, beard style, and facial identity. Do NOT copy the reference model’s facial features or hair. Preserve the uploaded person’s natural appearance completely.
+
+  Match only the EXACT sitting pose, body angle, hand placement, camera framing, composition, and relaxed posture from the reference image. Maintain the same modern editorial studio aesthetic and confident lifestyle vibe.
+
+  Dress the person in a luxurious olive green knitted sweater paired with tailored beige trousers. The background should be a smooth warm terracotta-to-soft sand gradient studio backdrop that perfectly complements the outfit tones and creates a premium harmonious color palette.
+
+  Lighting should be soft professional studio lighting with subtle warm highlights, realistic shadows, cinematic depth, and clean luxury contrast. Keep the mood minimal, modern, stylish, and highly Instagram-worthy.
+
+  Ultra realistic skin texture, natural body proportions, premium fashion photography style, shallow depth of field, soft background blur, realistic fabric texture, luxury creator-brand photoshoot aesthetic.
+
+  Shot on Sony A7 IV, 50mm lens, f/2.2, photorealistic, ultra detailed, high-end color grading, editorial magazine quality, 8k.

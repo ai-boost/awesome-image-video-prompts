@@ -1,0 +1,28 @@
+id: gpt-image-echoes-scifi-face-city-poster
+title:
+  en: Science fiction poster titled ECHOES over a city
+  zh: 科幻电影海报，标题为ECHOES，城市上方是人脸与飞船
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- science-fiction
+- movie-poster
+- cityscape
+- text-to-image
+source:
+  name: '@underwoodxie96 on X'
+  url: https://x.com/underwoodxie96/status/2046514205529088501
+  credit: underwoodxie96
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'A bare genre brief works because the model supplies the full one-sheet structure: tagline, billing block, festival laurels and release line. The cool grey blue palette, a face in the sky and a figure seen from behind set scale and mood.'
+  zh: 只给出科幻海报的类型要求，模型会自动补全完整的电影海报结构：标语、署名区、电影节荣誉和上映信息。冷灰蓝色调，天空中的人脸，以及城市前背对镜头的人物，共同营造规模感和氛围。
+prompt: |
+  [中文]
+  创建一张科幻电影海报
+
+  [English]
+  Create a Science fiction movie poster

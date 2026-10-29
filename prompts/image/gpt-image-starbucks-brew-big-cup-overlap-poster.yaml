@@ -1,0 +1,75 @@
+id: gpt-image-starbucks-brew-big-cup-overlap-poster
+title:
+  en: Iced Starbucks cup over giant BREW BIG poster
+  zh: 星巴克冰饮杯压在巨大 BREW BIG 海报上
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- starbucks
+- typography
+- product-ad
+- forced-perspective
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2113124509477998992
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 122
+  captured: '2026-10-29'
+  posted: '2026-10-22'
+notes:
+  en: Oversized type is the hero, cropped by the canvas edges, and the cup sits in front of the word so scale and overlap create depth. A fixed brand green, one photoreal hero object and a short bottom feature strip keep the hierarchy clear.
+  zh: 超大字体作为主视觉并被画布边缘裁切，杯子压在文字前方，用尺度和遮挡营造纵深。固定的品牌绿色、单一写实主体和底部信息条，让版式层级清晰。
+prompt: |
+  STARBUCKS — “BREW BIG.”
+
+  4:5 vertical premium poster, 8K, exaggerated bold typography × high-impact commercial art direction × photorealistic product advertising
+
+  🧠 CORE IDEA:
+  “BREW BIG.”
+
+  🎬 LAYOUT:
+
+  BACKGROUND BLOCK:
+  Solid, vivid Starbucks green background with oversized graphic shapes and strong contrast.
+
+  GIANT TYPOGRAPHY:
+  “BREW”
+  Extremely bold, oversized, tightly cropped typography dominating almost the entire composition. Letters extend beyond the canvas edges, with the Starbucks cup overlapping the text.
+
+  👤 SUBJECT:
+
+  A hand holding an iced Starbucks drink directly toward the camera, extreme forced perspective, cup dramatically enlarged in the foreground, realistic condensation, crisp ice, natural lighting.
+
+  ☕ PRODUCT + VISUAL TWIST:
+
+  The Starbucks cup becomes the centerpiece of the typography. The oversized word “BREW” appears to wrap behind the cup, creating striking depth through scale, layering, and composition. Keep the cup, logo, and beverage completely photorealistic.
+
+  ✨ GRAPHIC ELEMENTS:
+
+  * Oversized green and white shapes
+  * Sharp contrasting shadows
+  * Minimal starburst accents
+  * Small directional arrows
+  * Bold editorial layering
+
+  ✍️ TEXT SYSTEM:
+
+  Top pill:
+  “STARBUCKS COFFEE”
+
+  Main headline:
+  “BREW BIG.”
+
+  Supporting text:
+  “YOUR DAILY DOSE OF EXTRAORDINARY.”
+
+  BOTTOM FEATURE STRIP:
+
+  * Freshly Brewed
+  * Rich Flavour
+  * Iced or Hot
+  * Made for Your Moment
+
+  ANTI-SLOP DIRECTION:
+  Typography is the main design feature, not a small decorative element. Extreme scale, aggressive cropping, strong visual hierarchy, deliberate overlap, premium print-ad finish. No floating coffee beans, no miniature landscapes, no random surreal objects, no excessive particles, no cluttered layouts, no generic gradients. The final poster should feel like a bold global advertising campaign with unmistakable graphic impact.

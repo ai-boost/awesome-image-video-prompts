@@ -1,6 +1,67 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 63 条
+[返回目录](../../README_zh.md) · 全部 72 条
+
+<a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
+### 炭治郎十六帧像素精灵图与水之呼吸攻击
+
+<a href="https://x.com/Mayz1169/status/2097539942985728162"><img src="../../previews/gpt-image-tanjiro-pixel-sprite-sheet-water-attack.jpg" width="360"></a>
+
+上传角色参考图，并固定 4 乘 4 网格、等大小单元格以及起手、蓄力、出招、命中、收势的动作顺序，帧与帧之间的衔接就能保持清楚。攻击方式取自角色自身的能力（这里是水之呼吸），特效来源明确，也更容易保持统一的像素风格。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2097539942985728162) · 1,559 赞，统计于 2026-10-29
+
+[`pixel-art`](tags.md#tag-pixel-art) [`sprite-sheet`](tags.md#tag-sprite-sheet) [`animation`](tags.md#tag-animation) [`anime`](tags.md#tag-anime)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using the character reference image I upload, create a pixel-art battle animation. Deliver a transparent animated GIF and a 4×4 sprite sheet containing 16 sequential frames.
+
+CHARACTER FIDELITY
+Identify the character’s hairstyle, outfit, colors, weapon, proportions, and distinctive features. Translate them into a recognizable chibi pixel-art sprite. Keep the character’s identity, scale, clothing, and equipment consistent across all frames.
+
+BATTLE DESIGN
+Automatically design an attack that suits the character:
+- If they carry a weapon, build the animation around it.
+- If their abilities are clearly identifiable, use the appropriate effects, such as water, fire, or lightning.
+- If their abilities are unclear, create a plausible physical attack based on their appearance. Do not invent unrelated powers.
+
+Proceed without asking preliminary questions. Create one coherent battle loop:
+Ready stance → Anticipation → Attack → Impact peak → Effects dissipate → Recovery.
+
+Distribute the sequence naturally across 16 frames. The final frame must transition smoothly into the first. Animate actual changes in pose and body mechanics; do not fake movement by merely translating or rotating a static character image.
+
+PIXEL-ART STYLE
+Use crisp 16-bit game-style pixel art with readable silhouettes, sharp pixel edges, and a restrained palette. Maintain a consistent pixel scale for both the character and effects. Avoid blur, photorealistic rendering, and style drift.
+
+SPRITE SHEET REQUIREMENTS
+- Exactly 4 columns × 4 rows, totaling 16 frames.
+- Frames play left to right, then top to bottom.
+- All cells must have identical dimensions.
+- Use a fixed camera, consistent character scale, a stable ground baseline, and consistent animation registration.
+- Each cell contains exactly one character.
+- Keep the entire body, weapon, and effects inside its cell.
+- Leave sufficient transparent padding on every side. Nothing may cross cell boundaries or be cropped.
+- No text, frame numbers, grid lines, watermarks, or background scenery.
+
+TRANSPARENCY AND ANIMATION
+Generate a genuinely transparent RGBA PNG. Do not draw a checkerboard pattern to imitate transparency.
+
+Slice the sheet into frames and assemble a transparent, infinitely looping GIF. Adjust frame durations to emphasize anticipation and fast strikes. Aim for a total loop duration of approximately 1.5–2 seconds.
+
+Preserve full alpha transparency in the PNG files. Use a transparent palette index and correct frame disposal in the GIF to prevent trails from previous frames.
+
+DELIVERABLES AND QUALITY CHECK
+Create the actual files, not just prompts or instructions:
+1. A transparent 4×4 PNG sprite sheet.
+2. A playable transparent battle GIF.
+3. A ZIP containing all 16 individual transparent PNG frames.
+
+Before delivery, verify that there are exactly 16 frames, transparency is genuine, the character remains consistent, no neighboring frames bleed into the crops, the action plays in the correct order, and the loop has no obvious positional jumps. Fix any issues before presenting the GIF preview and download links.
+```
+
+</details>
 
 <a id="gpt-image-dance-pose-sheet-4x4-character"></a>
 ### 动漫少女十六格舞蹈姿势表
@@ -59,6 +120,31 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
+<a id="nano-banana-3d-caricature-elongated-neck-portrait"></a>
+### 长脖子夸张风格3D漫画肖像
+
+<a href="https://x.com/Naiknelofar788/status/2032256273782358153"><img src="../../previews/nano-banana-3d-caricature-elongated-neck-portrait.jpg" width="360"></a>
+
+以参考图保留相貌，同时点名要变形的部位，如脖子长度、眼睑下垂和厚嘴唇。再用一长串排除项（无颗粒、无噪点、无雀斑）和平整的中性影棚光，让渲染干净、有收藏品质感。
+
+Nano Banana 2 · 上传图改图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2032256273782358153) · 1,034 赞，统计于 2026-10-28
+
+[`3d-caricature`](tags.md#tag-3d-caricature) [`reference-photo`](tags.md#tag-reference-photo) [`studio-lighting`](tags.md#tag-studio-lighting) [`street-fashion`](tags.md#tag-street-fashion) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an exaggerated stylized 3D caricature character portrait with strong intentional deformation and a clean, controlled surface finish. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form with an elongated neck, oversized head-to-neck ratio, droopy eyelids, heavy lips, and slightly asymmetrical facial structure.Render as a human-like 3D character with smooth, studio-clean skin and intentionally designed detail, avoiding random texture or noise. Style with bold accessories such as round or oval glasses, hoop earrings, gold chains, headscarves or bandanas, and street-luxury clothing.
+
+Use neutral studio lighting with soft shadows and even illumination, no dramatic contrast, against a plain neutral grey or off-white background. The overall aesthetic should feel weird, fashion-forward, collectible, and character-driven rather than cute or realistic.
+
+Ultra high definition, premium cinematic 3D render quality, hyper-realistic hyper realism, clean materials, no freckles, no dirt, no grain, no noise, no speckling, no text, no logos, no watermarks.
+
+Aspect ratio 4:5.
+```
+
+</details>
+
 <a id="nano-banana-ball-shaped-cute-animal"></a>
 ### 漂浮在海藻间的球形小海獭
 
@@ -76,6 +162,27 @@ Nano Banana 2 · 文生图 · 出处: [@NanoBanana on X](https://x.com/NanoBanan
 This prompt works best with Nano Banana 2:
 
 Prompt: Make a photo of a cute ball-shaped version of a [animal], with big adorable over-sized eyes, it has no head, instead its face is part of the ball, its head and body are one. They are in their usual habitat. Must be almost spherical and cartoonishly cute. Its eyes are looking up in the most adorable cheeky fashion.
+```
+
+</details>
+
+<a id="nano-banana-four-tv-shows-bathroom-mirror-selfie"></a>
+### 四部剧角色浴室镜前自拍合集
+
+<a href="https://x.com/TechieBySA/status/2032557237437116521"><img src="../../previews/nano-banana-four-tv-shows-bathroom-mirror-selfie.jpg" width="360"></a>
+
+模板把画风固定为皮克斯风格的三维 CGI 和 3:4 竖版构图，让一位角色举着相机居中，其余角色挤进画面营造拥挤的自拍感。镜面文字和浴室道具按剧名替换，因此每部剧都保持相同的构图。
+
+Nano Banana 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2032557237437116521) · 794 赞，统计于 2026-10-29
+
+[`template`](tags.md#tag-template) [`pixar-style`](tags.md#tag-pixar-style) [`selfie`](tags.md#tag-selfie) [`tv-shows`](tags.md#tag-tv-shows) [`3d-cgi`](tags.md#tag-3d-cgi)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Inspired by pettrusvaz on Instagram🔥
+
+“High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, the most iconic characters from [SHOW/MOVIE] captured as a chaotic and joyful bathroom mirror selfie; the most recognizable character holds a large vintage camera up toward the mirror, the remaining characters squeezed tightly into the frame around them, each showing their most signature expression or pose; everyone wearing their most iconic costumes and outfits faithful to the source material; all crammed together creating classic crowded selfie energy; facial proportions gently stylized in Disney/Pixar animation style with expressive eyes while faithfully preserving each character's most recognizable traits, hairstyles and costumes from [SHOW/MOVIE]; the bathroom mirror has realistic toothpaste splatters and subtle smudges; the reflection shows bold black Pixar-style lettering reading "[SHOW/MOVIE]❤️"; the bathroom background is styled to match the world of [SHOW/MOVIE] with thematic props and easter eggs relevant to [SHOW/MOVIE] placed naturally around the scene; lighting combines soft ambient bathroom lighting with a bright camera flash reflecting in the mirror creating gentle specular highlights; warm Pixar-style color grading faithful to the visual tone of [SHOW/MOVIE], smooth highlight rolloff, refined Disney/Pixar cinematic character shading, ultra-detailed 4K render, no watermark”
 ```
 
 </details>
@@ -215,6 +322,64 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
+<a id="gpt-image-maid-character-4x4-dance-pose-sheet"></a>
+### 女仆角色 4x4 舞蹈姿势图
+
+<a href="https://x.com/Mayz1169/status/2103139749540339890"><img src="../../previews/gpt-image-maid-character-4x4-dance-pose-sheet.jpg" width="360"></a>
+
+用编号的动作结构从开场姿势排到收尾造型，固定镜头、纯白背景和单张参考图让16个分格中的服装、比例和角色大小保持一致。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2103139749540339890) · 373 赞，统计于 2026-10-29
+
+[`pose-sheet`](tags.md#tag-pose-sheet) [`anime`](tags.md#tag-anime) [`dance`](tags.md#tag-dance) [`character-sheet`](tags.md#tag-character-sheet)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
+
+CHARACTER CONSISTENCY
+Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
+
+ADAPTIVE CHOREOGRAPHY
+Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.
+
+Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
+
+Use the following movement structure, adapting each action to the character:
+
+1. Opening pose that establishes the character’s personality.
+2. Small rhythmic step with a coordinated arm gesture.
+3. Side step with one arm extended.
+4. Compact expressive gesture near the face or upper body.
+5. Grounded stance with arms crossing or sweeping inward.
+6. Knee lift or an anatomically appropriate weight shift.
+7. Open, expansive pose with arms spread.
+8. Playful or expressive balance pose.
+9. Turning pose showing a three-quarter rear view.
+10. Forward-reaching movement with a diagonal body lean.
+11. Strong upward-reaching accent.
+12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
+13. Lowered stance with a forward gesture.
+14. Elegant or dynamic side-facing transition.
+15. Signature gesture that suits the character.
+16. Confident final pose with a clear finishing silhouette.
+
+COMPOSITION AND PRESENTATION
+Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.
+
+Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.
+
+Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
+
+AVOID
+Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
+
+Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+</details>
+
 <a id="gpt-image-caricature-companion-holding-hands"></a>
 ### 写实男子与自己的3D卡通版牵手
 
@@ -290,6 +455,72 @@ Nano Banana 2 · 文生图 · 出处: [@Emmma___0 on X](https://x.com/Emmma___0/
 
 ```text
 A cute stylized 3D cartoon boy stepping out of a sketchbook drawing on a wooden desk, the notebook page showing a pencil sketch version of the same boy labeled "MY WORLD – SKETCHES". The boy has big expressive eyes, short messy brown hair, wearing a white and blue raglan t-shirt, blue jeans, and red sneakers. One leg is stepping out of the sketchbook into the real world. Warm cozy studio lighting, bokeh fairy lights in the background, colored pencils and art supplies scattered on the desk, shallow depth of field, Pixar-style character design, ultra-detailed, cinematic lighting, soft shadows, photorealistic textures, magical creative atmosphere, 3D render, high resolution.
+```
+
+</details>
+
+<a id="nano-banana-3d-sticker-expression-grid-cream"></a>
+### 奶油色3x3网格中的九款3D贴纸表情
+
+<a href="https://x.com/doctorwasif/status/2039340995322446177"><img src="../../previews/nano-banana-3d-sticker-expression-grid-cream.jpg" width="360"></a>
+
+将单张上传人脸设为唯一面部参考并禁止过度美化，让九个变体保持相同长相。每格只改变表情、服装和姿势，并固定在奶油色背景的3x3网格中。
+
+Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2039340995322446177) · 322 赞，统计于 2026-10-29
+
+[`sticker-set`](tags.md#tag-sticker-set) [`pixar-style`](tags.md#tag-pixar-style) [`face-reference`](tags.md#tag-face-reference) [`expression-grid`](tags.md#tag-expression-grid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium Pixar-style 3D character sticker set that is clearly recognizable as the same person. Use the uploaded image as the ONLY facial reference.
+Output Requirements:
+3×3 grid layout (9 stickers total)
+Final aspect ratio: 4:5
+Ultra high resolution (8K)
+Clean cream background
+Each sticker is separated with clear spacing
+Add a subtle drop shadow under each sticker for depth
+Character Identity (VERY IMPORTANT):
+MUST preserve exact facial structure, hairstyle, grooming details, and unique features from the uploaded image
+Maintain high likeness accuracy
+Do NOT over beautify or alter identity beyond recognition
+Style:
+Pixar-style 3D animation
+Glossy, high-end rendering
+Soft global illumination
+Smooth shading
+High-detail facial textures
+Framing:
+All stickers must be head and shoulders (portrait close-up) only
+No full-body or mid-body shots allowed
+Focus tightly on face and upper shoulders to emphasize expressions
+Outfit:
+Modern casual and slightly stylized clothing
+Each sticker must have a different outfit (no repetition at all)
+Clean, minimal, and visually appealing for sticker use
+Expressions & Poses (9 variations):
+1. Happy smile
+2. Laughing
+3. Cool (with sunglasses)
+4. Angry/serious
+5. Surprised
+6. Thinking
+7. Wink
+8. Love (heart eyes and heart gesture)
+9. Thumbs up
+Sticker Design:
+Bold, clean outline
+Slightly exaggerated cartoon proportions
+Strong emphasis on facial expressions
+Optimized for digital sticker platforms
+Each sticker must have a smooth rounded bottom cutout (semi-curved base)
+No text
+Lighting:
+Soft studio lighting
+Subtle rim light for depth and separation
+Goal:
+Create a highly engaging, cute, and expressive sticker pack that feels premium and collectable.
 ```
 
 </details>
@@ -517,6 +748,37 @@ Generated with Nano Banana 2 on Yapper
 Prompt: Ultra-high-quality hyper-realistic photo showing a real person and a giant 3D Pixar-style version of the SAME person, both strictly based on the uploaded reference image. The real person and the Pixar character must have identical facial structure, hairstyle, facial expression, body proportions, height, and clothing. Both are wearing a knitted sweater with a gradient from light yellow to pink, high-waisted blue jeans, and white high-top sneakers. The pose must exactly match the reference: the real person stands relaxed with a friendly smile, with one hand naturally resting on the Pixar character’s shoulder. The Pixar version stands slightly wider, with hands confidently positioned near the pockets, with a playful mischievous smirk, a raised eyebrow, and expressive Pixar-style eyes. The size of the Pixar character should be proportionally larger but anatomically identical to the real person. The facial expression, head tilt, posture, and body language must precisely replicate the reference image. Clean grey-blue studio background, soft even studio lighting, realistic shadows, crisp fabric texture, smooth Pixar skin shading, cinematic sharpness. Do NOT change the pose, reaction, clothing, or proportions. Strict adherence to the reference.
 
 Negative prompt: incorrect clothing, different pose, different facial expression, mismatched face, exaggerated cartoon style, thin or bulky body, incorrect Pixar proportions, incorrect height ratio, smile instead of smirk, neutral face, realistic render instead of Pixar, distorted anatomy, different clothing colors, weak resemblance, generic Pixar face.
+```
+
+</details>
+
+<a id="nano-banana-3d-cgi-fur-coat-character"></a>
+### 秃头 3D 人物穿毛皮外套与红色球鞋
+
+<a href="https://x.com/Xaroon_x/status/2031735211772317828"><img src="../../previews/nano-banana-3d-cgi-fur-coat-character.jpg" width="360"></a>
+
+结构化的 JSON 提示把渲染引擎、比例、皮肤、材质、灯光和镜头分成独立字段，让每个部分的效果可以单独控制。三点布光和 35 到 50 毫米镜头的设定固定了全身棚拍构图，毛皮和服装字段则补充材质细节。
+
+Nano Banana 2 · 文生图 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2031735211772317828) · 152 赞，统计于 2026-10-29
+
+[`3d`](tags.md#tag-3d) [`cgi`](tags.md#tag-cgi) [`character`](tags.md#tag-character) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "renderEngine": "Blender Cycles / Unreal Engine 5 Lumen",
+  "baseStyle": "Stylized 3D CGI character — Pixar meets high-fashion editorial",
+  "proportions": "Slightly enlarged head (1.3x natural), compact torso, simplified facial features, exaggerated chunky feet/shoes",
+  "skinShader": "Subsurface scattering with physically-based roughness, no pores, smooth cartoon-like finish",
+  "clothingPhysics": "Marvelous Designer simulation baked in, wrinkle maps, fabric-specific material shaders",
+  "furTech": "XGen or Ornatrix volumetric fur for faux-fur pieces, physics-simulated",
+  "resolution": "8192x8192px minimum, 300DPI",
+  "backgroundStyle": "Solid flat color, no gradient, no texture — studio seamless backdrop",
+  "lightingRig": "Three-point studio: key (45° front-top), fill (opposite side soft), rim (back edge definition)",
+  "cameraLens": "35-50mm equivalent, slight vignette, no fisheye",
+  "postProcessing": "Subtle chromatic aberration on edges, mild film grain 2%, slight color grade"
+}
 ```
 
 </details>
@@ -807,6 +1069,48 @@ GPT Image 2 · 文生图 · 出处: [@ZephyraLeigh on X](https://x.com/ZephyraLe
 
 ```text
 Cute stylized 3D [SUBJECT] mascot, original character design, rounded body proportions, expressive face, [DOING ACTION] pose, smooth matte material, colorful contemporary animation aesthetic, vibrant [COLOR1], [COLOR2], and [COLOR3] palette, studio lighting, high-detail CGI render, minimalist background.
+```
+
+</details>
+
+<a id="gpt-image-anime-rpg-coastal-megacity-game-hud"></a>
+### 日落海岸超大城市中的动漫RPG游戏HUD截图
+
+<a href="https://x.com/xRahultripathi/status/2053331477224739071"><img src="../../previews/gpt-image-anime-rpg-coastal-megacity-game-hud.jpg" width="360"></a>
+
+镜头设定为过肩的游戏实录视角，角色边走边回头，因此更像真实主机游戏截图而非摆拍展示。提示词按屏幕位置逐项列出HUD元素，并用暖色落日与青色霓虹的对比来定义光线。
+
+GPT Image 2 · 文生图 · 出处: [@xRahultripathi on X](https://x.com/xRahultripathi/status/2053331477224739071) · 108 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`game-ui`](tags.md#tag-game-ui) [`screenshot`](tags.md#tag-screenshot) [`sunset-city`](tags.md#tag-sunset-city)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-detailed authentic in-game screenshot from a fictional AAA open-world anime RPG set in a futuristic Mediterranean-inspired megacity at golden sunset. Completely different visual identity from previous images.
+
+Main character: Hancock-inspired anime woman with very long midnight-blue hair, sharp elegant facial features, and a confident expression. Outfit redesigned into a luxurious white-and-teal futuristic beachwear set with holographic fabric accents, translucent silk jacket, gold jewelry, glowing anklets, and high-fashion sci-fi styling. No purple or red tones.
+
+Environment: massive coastal smart-city with elevated highways, luxury shopping districts, digital hologram ads, floating drones, reflective wet pavement, tropical gardens, rooftop pools, monorail tracks, and ocean visible between skyscrapers. Warm orange sunset lighting mixed with cyan neon reflections creates cinematic contrast. Busy crowds of NPCs walking naturally.
+
+Game UI must feel like a real next-gen RPG:
+
+- circular minimap top left with roads and icons
+- quest tracker with stylish typography
+- party character list on right side
+- stamina and HP bars at bottom
+- ability wheel with futuristic glowing icons
+- subtitle dialogue box with cinematic caption
+- in-game currency and ping indicator
+- realistic console-game HUD styling
+- subtle motion blur and depth of field
+- photo-real 3D cel-shaded anime rendering
+- dynamic lighting and ambient occlusion
+- PlayStation 5 / Unreal Engine style quality
+
+Camera angle: over-the-shoulder cinematic gameplay screenshot, not character showcase pose. Character should be naturally walking through the city while looking slightly back toward camera.
+
+Mood: premium stylish anime GTA-like RPG mixed with modern JRPG aesthetics and urban vacation luxury vibe. Completely fresh composition and color palette.
 ```
 
 </details>
@@ -1125,6 +1429,50 @@ A cute orange-brown squirrel character with a big bushy tail, wearing a simple n
 
 Rabbit
 A cute cream-colored rabbit character with tall ears, wearing a simple plum cape with a small gold round clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.
+```
+
+</details>
+
+<a id="gpt-image-naruto-pixel-sprite-energy-blast"></a>
+### Q版鸣人像素精灵，战斗姿态
+
+<a href="https://x.com/MahnoorAi12/status/2097633800058769496"><img src="../../previews/gpt-image-naruto-pixel-sprite-energy-blast.jpg" width="360"></a>
+
+固定角色特征、配色和服装，再加上 4×4 的 256 像素分格网格，让每一帧的造型与基线保持一致。明确要求透明背景和最近邻采样，避免边缘发糊和背景色混入。
+
+GPT Image 2.5 · 文生图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2097633800058769496) · 45 赞，统计于 2026-10-29
+
+[`pixel art`](tags.md#tag-pixelart) [`sprite-sheet`](tags.md#tag-sprite-sheet) [`anime`](tags.md#tag-anime) [`character`](tags.md#tag-character)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn the character described below into an adorable pixel-art sprite with a looping energy blast cast animation.
+CHARACTER
+The character is Naruto Uzumaki: spiky blond hair, orange and blue ninja jumpsuit, whisker marks on cheeks, forehead headband with metal plate. Preserve the character's recognizable features, colors, hairstyle/texture, outfit, accessories, and distinctive silhouette. Adapt its original anatomy into cute chibi proportions without forcing non-human characters into a human body.
+STYLE
+Create crisp pixel art with clearly defined square pixels, clean outlines, and a cohesive limited palette. No blurry edges, smooth vector styling, or realistic rendering.
+ANIMATION
+Create 16 consecutive frames of one seamless energy blast cast animation:
+Character raises a hand or weapon, channels glowing energy, and releases a burst outward.
+Energy particles grow from a small spark to a full burst, then fade on the return frames.
+Slight recoil/lean-back on the release frame.
+Keep the design, proportions, camera angle, and scale consistent across all frames.
+Keep the character anchored within the cell (no drifting off-center) unless the motion described requires a small in-place shift.
+Make the last frame transition smoothly back to the first for a perfect loop.
+SPRITE SHEET
+Arrange the 16 frames in exactly 4 columns × 4 rows, ordered left to right, top to bottom.
+Canvas: 1024 × 1024 pixels. Each cell: 256 × 256 pixels.
+Use identical alignment and a fixed baseline across all cells.
+Keep the entire character inside each cell, with at least 16 pixels of transparent padding on every side, including around moving accessories or effects.
+No overlapping cells, grid lines, labels, text, or watermarks.
+TRANSPARENCY
+Use a genuinely transparent RGBA background with alpha zero outside the character. Do not draw a checkerboard or add a solid background, floor, or cast shadow. Preserve white and pale details inside the character.
+DELIVERABLES
+A transparent 4×4 PNG sprite sheet.
+A transparent animated GIF of the single character, using all 16 frames at 256×256 pixels, looping forever with an approximately 2.2-second cycle.
+A ZIP containing all 16 individual transparent PNG frames.
+Use nearest-neighbor sampling if resizing is needed to preserve crisp pixels. Before finalizing, ensure no stray pixels, clipping, or background artifacts remain, and that the background is truly transparent.
 ```
 
 </details>
@@ -1989,6 +2337,57 @@ OUTPUT QUALITY:
 16K: 15360 × 8640 ≈ 132.7 million pixels, high-resolution professional quality.
 NEGATIVE CONSTRAINTS:
 No character redesign, no identity drift, no inconsistent proportions, no changing face, no changing hairstyle, no costume variations, no missing accessories, no duplicated accessories, no extra limbs, no malformed hands, no distorted anatomy, no random props, no dramatic scenery, no cinematic background, no excessive effects, no clutter, no watermark, no logo, no cropped views.
+```
+
+</details>
+
+<a id="gpt-image-cherry-blossom-schoolgirl-anime-wallpaper"></a>
+### 樱花树下害羞双马尾少女
+
+<a href="https://x.com/joshesye/status/2046593124646928397"><img src="../../previews/gpt-image-cherry-blossom-schoolgirl-anime-wallpaper.jpg" width="360"></a>
+
+提示词把角色、风格、背景和姿势拆成带标签的分段，每个细节只说一次，服装和配色因此更稳定。明确标注16:9手机壁纸的用途，让人物周围留出天空与樱花的空间。
+
+GPT Image 2 · 文生图 · 出处: [@joshesye on X](https://x.com/joshesye/status/2046593124646928397) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`anime`](tags.md#tag-anime) [`cherry-blossom`](tags.md#tag-cherry-blossom) [`school-uniform`](tags.md#tag-school-uniform) [`wallpaper`](tags.md#tag-wallpaper)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[中文]
+生成一张高质量二次元美少女图片。
+
+ 角色设定：
+
+- 年龄：17岁
+- 发型：双马尾，颜色：樱花粉，发梢带点渐变紫色
+ - 眼睛：大而明亮，紫色瞳孔，有星星高光
+ - 服装：JK制服，白色衬衫，深蓝色格子裙，红色领结
+ - 配饰：白色过膝袜，棕色小皮鞋，头上戴一个粉色蝴蝶结
+
+风格要求：
+ - 日系动画风格，线条清晰 - 色彩鲜艳，对比度高 - 光影柔和，有层次感
+- 背景：樱花树下，花瓣飘落，远处是学校教学楼  表情：微笑，有点害羞 姿势：站姿，双手放在身后，身体微微前倾
+
+比例：16:9（手机壁纸） 质量：8K，超精细，细节丰富
+
+[English]
+Generate a high-quality anime beautiful girl image.
+
+ Character setting:
+
+- Age: 17 years old
+- Hairstyle: twin tails, color: cherry blossom pink, hair tips with a bit of gradient purple
+ - Eyes: large and bright, purple pupils, with star highlights
+ - Clothing: JK uniform, white shirt, dark blue plaid skirt, red bow tie
+ - Accessories: white over-the-knee socks, brown leather shoes, wearing a pink bow on the head
+
+ Style requirements:
+ - Japanese animation style, clear lines - bright colors, high contrast - soft light and shadow, with a sense of layering
+- Background: under the cherry blossom tree, petals falling, school teaching building in the distance  Expression: smiling, a bit shy Pose: standing posture, hands placed behind the back, body slightly leaning forward
+
+Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
 ```
 
 </details>

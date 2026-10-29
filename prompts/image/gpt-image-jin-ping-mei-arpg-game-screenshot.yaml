@@ -1,0 +1,28 @@
+id: gpt-image-jin-ping-mei-arpg-game-screenshot
+title:
+  en: Ancient Chinese town street with ARPG HUD
+  zh: 古风市井街道与 ARPG 游戏界面
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- game-ui
+- chinese-classic
+- open-world
+- hud
+source:
+  name: '@op7418 on X'
+  url: https://x.com/op7418/status/2046520509651886451
+  credit: op7418
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The short prompt names only the novel, and that alone supplies the setting, period costumes and shop signage. Asking for a game screenshot makes the model add the HUD, quest log, chat panel and minimap without further direction.
+  zh: 提示词只写作品名称，这已足以带出场景、古代服饰和店铺招牌等设定。要求生成游戏截图后，模型会自动加入血条、任务栏、聊天框和小地图等界面元素，无需额外描述。
+prompt: |
+  [中文]
+  帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图
+
+  [English]
+  Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.

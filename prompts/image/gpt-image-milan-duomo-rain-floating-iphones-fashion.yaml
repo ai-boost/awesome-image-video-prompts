@@ -1,0 +1,24 @@
+id: gpt-image-milan-duomo-rain-floating-iphones-fashion
+title:
+  en: Woman reaching for floating blue iPhones in Milan rain
+  zh: 雨中米兰大教堂前，女子伸手够漂浮的蓝色手机
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- fashion
+- milan
+- rain
+- campaign
+source:
+  name: '@Arzoo12sh on X'
+  url: https://x.com/Arzoo12sh/status/2102710718302966229
+  credit: Arzoo Ai
+  likes: 102
+  captured: '2026-10-29'
+  posted: '2026-09-23'
+notes:
+  en: Pins the setting to a named landmark and weather, then lists the wardrobe piece by piece so the outfit stays specific. Asking for duplicate figures in the background and a vertical frame gives the layered campaign look.
+  zh: 用具体地标和天气锁定场景，再逐件列出服装，让穿搭描述更具体。要求背景中出现重复人物并采用竖构图，营造多层次的广告大片效果。
+prompt: |
+  A cinematic ultra-realistic fashion campaign in Piazza del Duomo, Milan, during heavy rain. A beautiful young woman wearing an all-black oversized streetwear outfit, black cargo pants, black sweatshirt and clean white sneakers, confidently posing in the center with one arm raised toward a floating blue iPhone. Multiple identical blue smartphones are dramatically floating and falling from the stormy sky around her. Wet reflective pavement, realistic rain droplets, dramatic dark cloudy sky, Milan Cathedral clearly visible in the background, crowded tourists with umbrellas, several duplicate versions of the same woman naturally positioned in the background, premium luxury advertising aesthetic, dynamic fashion photography, realistic skin texture, natural anatomy, cinematic lighting, sharp details, depth of field, photorealistic, high-end commercial campaign, vertical composition.

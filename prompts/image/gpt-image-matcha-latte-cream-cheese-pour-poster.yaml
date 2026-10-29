@@ -1,0 +1,78 @@
+id: gpt-image-matcha-latte-cream-cheese-pour-poster
+title:
+  en: Matcha latte poster with pouring stream and cream cheese
+  zh: 抹茶拿铁海报，倾倒的抹茶流与奶油奶酪
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- matcha
+- beverage-ad
+- product-reference
+- pouring-liquid
+source:
+  name: '@im_shahid7 on X'
+  url: https://x.com/im_shahid7/status/2079513962685866076
+  credit: Al-Shamus
+  likes: 192
+  captured: '2026-10-29'
+  posted: '2026-07-21'
+notes:
+  en: Attaching the product photo as a reference and asking to keep its cup, logo and colours exact holds the brand identity. A flavour-matched monochrome backdrop plus a separate pour stream and dripping liquid frame the product without clutter.
+  zh: 上传产品图作为参考，并要求保持杯型、logo和颜色不变，从而锁定品牌形象。背景采用与口味同色系的单色调，再加上倾倒的液流和滴落效果，让画面有动感又不杂乱。
+prompt: |
+  Advertising poster
+
+  Use the uploaded product image as your main reference point.
+
+  Keep the cup shape, logo placement, typography, proportions, corporate identity elements, lid design, textures, colors, materials, and overall brand style exactly as shown in the reference image.
+
+  Create an ultra-realistic Korean-style premium beverage advertising campaign.
+
+  The drink is elegantly located in the center of a luxurious minimalist studio. The background color is inspired by the taste of the drink and fits seamlessly into the exquisite monochromatic palette.
+
+  Large shiny drops of liquid made from the drink's signature ingredient naturally flow down from the upper edges of the composition.
+
+  The dynamic moment of pouring the ingredients is captured in the air above the drink, demonstrating how the thick liquid pours into the cup in an elegant cascade. The pouring element should be luxurious, appetizing and physically realistic.
+
+  The drink demonstrates the magnificent effects of mixing ingredients inside the cup, creating stunning gradients, swirling textures, creamy transitions and flowing ribbons of flavor.
+
+  High-quality ingredients are neatly arranged around the base of the product, which tell the story of the drink's taste.:
+
+  Fresh ingredients
+  Flavor cubes
+  Sauce cubes
+  Natural side dishes
+  Exquisite culinary accents
+
+  All ingredients should look freshly prepared and very photorealistic.
+
+  The composition corresponds to the aesthetics of advertising elite Korean cafes:
+
+  Minimalist luxury style
+  Pure negative space
+  Balanced product focus
+  Elegant visual hierarchy
+  Premium Commercial Photography
+
+  Lighting:
+
+  Soft studio lighting
+  Luxury backlight for photographing food
+  Gentle shadows
+  Subtle reflections
+  High-quality drink of commercial quality
+
+  Materials:
+
+  Glossy liquids
+  Realistic ice cubes
+  Crystal clear glass
+  Rich creamy texture
+  Detailed surface of ingredients
+
+  Mood:
+
+  An advertisement for a luxury Korean cafe, an advertising campaign for premium drinks, an elegant culinary editorial, commercial photography of products, sophisticated minimalist branding, and world-class advertising quality.
+
+  Ultra-realistic, 8K, ultra-detailed, commercial food photography, premium Korean advertising, luxury drink poster, shallow depth of field, masterpiece quality.

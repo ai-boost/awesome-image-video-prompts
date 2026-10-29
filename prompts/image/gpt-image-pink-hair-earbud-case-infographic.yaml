@@ -1,0 +1,38 @@
+id: gpt-image-pink-hair-earbud-case-infographic
+title:
+  en: Model holds open earbud case in ad poster
+  zh: 模特手持打开的耳机充电盒广告海报
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- earbuds
+- product-ad
+- typography
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2047912710365761828
+  credit: Heisenberg
+  likes: 1034
+  captured: '2026-10-29'
+  posted: '2026-04-25'
+notes:
+  en: The prompt sets three depth layers, a macro foreground, a midground subject and a soft background, and gives every text block its exact wording and position. This keeps the typography legible and the layout close to the brief.
+  zh: 提示词按前景微距、中景人物和柔焦背景划分三层景深，并逐条写明每段文字的内容与位置，使版式清晰、文字准确。
+prompt: |
+  GPT Image 2 on
+  @SocialSight
+
+
+  Prompt: High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
+  Foreground: An extreme close-up of a hand holding an open, glossy white wireless earbud charging case toward the camera. Inside the case are two sleek white earbuds with black speaker accents. A tiny, glowing green LED status light is visible on the front of the case. The hand and case have a slight macro-lens blur to create a sense of depth.
+  Central Subject: In the mid-ground, a smiling young woman with freckles and wavy pastel-pink hair. She is wearing a vibrant lime-green knit beanie and a psychedelic, black and white-striped long-sleeve shirt. One white earbud is tucked into her ear.
+  Background & Lighting: A clean, soft-focus studio backdrop with a light-gray gradient. The scene is accented by diagonal rainbow prism lens flares and soft light leaks. Several blurred white earbuds float artistically in the background. The lighting is soft and professional, highlighting the glossy plastic of the product.
+  Typography & Layout (Sans-Serif, White):
+  Top Center (Background): Massive, bold text reading "AIRPODS" (positioned behind the model).
+  Top Right: Bold text reading "Apple Pods Pro 3".
+  Mid-Left: "Premium sound and noise cancellation"
+  Mid-Right: Large, bold "30" with the text "hours of battery life."
+  Bottom-Right: Large, bold "1" with the text "year warranty."
+  Style: 8k resolution, commercial product photography, vibrant color palette, sharp focus on the product case, shallow depth of field, clean advertising aesthetic.

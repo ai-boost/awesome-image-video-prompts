@@ -1,0 +1,24 @@
+id: gpt-image-evangelion-unit-01-distressed-poster
+title:
+  en: Distressed Evangelion Unit 01 poster with seated pilot
+  zh: 破旧风格初号机海报与坐姿少年驾驶员
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- evangelion
+- mecha
+- poster
+- distressed
+source:
+  name: '@AI_CyberDreams on X'
+  url: https://x.com/AI_CyberDreams/status/2046617697639620818
+  credit: cyber
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixing the subject's facing direction, its share of the frame and the lower left figure's pose locks the composition in place. Listing every English label word for word and capping the palette at seven named colours keeps the text readable and the output on brief.
+  zh: 通过固定主体朝向、占画面的比例和左下角人物的姿势来锁定构图，并逐字列出所有英文标签、把配色限定在七种指定颜色内，使文字清晰、结果贴合要求。
+prompt: |
+  A gritty vertical anime-mecha poster in distressed screen-print style, inspired by retro military dossiers and Evangelion key art. The main subject is a massive close-up side profile of EVANGELION: UNIT-01, dominating the right two-thirds of the composition, facing left with its jaws open in a feral scream. The head is angular and biomechanical, with deep purple armor, olive-green accent plates, black metal inner structures, a single long horn projecting diagonally upward to the left, sharp teeth, and a narrow glowing eye. The surface is scratched, chipped, weathered, and inked with heavy comic-style linework. Behind it is a dark navy blueprint background filled with 8 visible technical diagram clusters, white schematic lines, anatomical overlays, cross-sections, labels, measurement marks, and interface graphics. A violent red paint slash explodes diagonally across the upper center and left side, with additional red drips running downward from the mecha’s mouth area. In the lower left corner, 1 small human figure sits hunched on a gray equipment crate: a teenage boy in a short-sleeve white school shirt, dark pants, and white sneakers, elbows on knees, looking down at a glowing handheld device, conveying isolation and anxiety. Add layered poster typography and warning graphics throughout the border: a torn yellow caution sign in the upper right with Japanese warning text and “CAUTION NERV ONLY”; a tall left sidebar with “01”, barcode-like blocks, hazard icons, and red-black labels; large distressed white kanji vertically stacked over the mecha torso; the word ESCAPE in spaced red capitals beneath the kanji; a small black label reading “PILOT: IKARI, SHINJI”; a bottom-right NERV logo; and footer text such as classified file markings and top secret stamps. Include 6 clearly readable English technical labels in the blueprint area: “TEST TYPE”, “BIOLOGICAL CONSTRAINT”, “AT FIELD”, “MAGI SYSTEM”, “INTERNAL”, and “CLASSIFIED MATERIAL”. Add Japanese dossier text blocks as authentic graphic texture. The palette is limited to dark indigo, black, crimson red, purple, olive green, dirty beige, and off-white. High contrast, torn-paper collage details, halftone texture, ink splatter, cracked paint, and worn print edges. Cinematic, oppressive, chaotic, collectible poster design, ultra-detailed, sharp, textured, no clean modern polish.

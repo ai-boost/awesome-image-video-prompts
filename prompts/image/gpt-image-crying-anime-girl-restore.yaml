@@ -1,0 +1,24 @@
+id: gpt-image-crying-anime-girl-restore
+title:
+  en: Tearful anime girl in purple cape beside armored gauntlet
+  zh: 泪眼的紫色斗篷动漫少女与铠甲手套
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- image-restoration
+- upscaling
+- anime
+- constraints
+source:
+  name: '@k_matsumaru on X'
+  url: https://x.com/k_matsumaru/status/2097506834659893340
+  credit: k_matsumaru
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: 'The prompt pairs a restore instruction with explicit constraints: keep the drawing style, colors and composition, and add no new objects or invented surface details. That keeps the upscaled result faithful to the source.'
+  zh: 提示词将修复指令与明确约束结合：保留绘画风格、色彩和构图，不添加新物体或虚构的表面细节，使放大后的结果忠于原图。
+prompt: |
+  Restore this low-resolution image. Preserve its drawing style, colors, and composition. Clean up noisy areas and improve clarity without adding new objects or invented surface details.

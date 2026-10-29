@@ -1,0 +1,28 @@
+id: nano-banana-tom-cruise-gucci-soap-portrait
+title:
+  en: Gritty Tom Cruise portrait with GUCCI slogan
+  zh: 汤姆·克鲁斯颗粒感肖像配 GUCCI 标语
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- celebrity
+- cinematic
+- text-overlay
+- film-grain
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2028499516119453886
+  credit: Heisenberg
+  likes: 265
+  captured: '2026-10-29'
+  posted: '2026-03-02'
+notes:
+  en: Naming a close shot, heavy film grain and haze, and a fixed palette of reds, pinks and earth tones makes the image read as one cinematic still. Spelling out the logo and slogan text exactly keeps the serif headline and sans line clearly legible over the busy background.
+  zh: 明确写出近景构图、胶片颗粒与雾感，并给出红、粉、土色的固定色板，画面就会像一张完整的电影剧照。把徽标和标语文字写清楚，衬线主标题和无衬线副标题在复杂背景上也能保持清晰可读。
+prompt: |
+  Nano Banana 2 on
+  @SocialSight
+
+
+  Prompt: A highly detailed, cinematic portrait of Tom Cruise, featuring a gritty, industrial aesthetic. He has messy, spiked dark-blonde hair, facial stubble, and a look of intense, weary focus. He is captured in a close-up shot, holding a lit cigarette to his mouth with his right hand; a thick trail of white smoke curls upward. On his finger is a prominent silver signet ring engraved with a luxury interlocking "GG" logo. The man wears a distressed, dark red leather jacket heavily marked with white paint splatters and deep creases, layered over a filthy, stained cream-colored canvas apron. The center of the frame features the word "GUCCI" in a clean, white, authoritative serif font. Below it, in smaller text on the apron, is the phrase "IS AI STILL JUST A PLAYTHING?" followed by a second, faded "GUCCI" logo. The background is a blurred industrial laboratory or "soap factory" setting. To the right are stacks of translucent pink rectangular soap blocks. In the upper background, dark industrial machinery and hanging wires are illuminated by glowing red horizontal neon lights, creating a moody, high-contrast atmosphere. The entire image has a heavy film grain, a hazy atmosphere, and a color palette dominated by deep reds, pale pinks, and grimy earth tones.

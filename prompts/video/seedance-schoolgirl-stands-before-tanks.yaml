@@ -1,0 +1,65 @@
+id: seedance-schoolgirl-stands-before-tanks
+title:
+  en: Schoolgirl stands alone before tanks on highway
+  zh: 女学生独自站在高速公路上面对坦克
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- continuity
+- timed-scenes
+- dark-fantasy
+- multi-shot
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2101205826895827053
+  credit: itsSaira_1
+  captured: '2026-10-29'
+  posted: '2026-09-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2101205826895827053
+notes:
+  en: A global continuity block locks identity, wardrobe and environment, then each timed scene from 0:00 to 0:27.5 is written to start from the previous last frame so cuts stay consistent. The negative prompt rules out reversed motion and vanishing objects, which keeps the incoming shells travelling forward.
+  zh: 全局连续性段落锁定人物、服装和环境，随后每个定时分镜都从上一镜的末帧开始，保证剪切衔接一致。负面提示词排除了倒放和消失的物体，使飞来的炮弹始终保持向前的运动方向。
+prompt: |
+  GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT same schoolgirl, identical face, black bob haircut, navy school uniform, red ribbon, blue plaid skirt, same highway, mountains, skyline, lighting and visual style. Every scene must directly continue from the previous scene using the exact previous last frame as the next Start/Reference Frame. No changes in identity, clothing, environment, direction, scale or lighting.
+
+  SCENE 1 — 0:00–0:02.5
+  Girl stands exactly in the center of a huge highway, facing distant military tanks. Wide cinematic shot, mountains and city skyline behind them.
+
+  SCENE 2 — 0:02.5–0:04.5
+  The same tanks fire toward the girl. Powerful muzzle flashes, smoke and realistic military details. Camera moves slightly alongside the tanks.
+
+  SCENE 3 — 0:04.5–0:07
+  Cut to the exact same girl, standing calmly and facing the camera. Slow cinematic push-in toward her face.
+
+  SCENE 4 — 0:07–0:09.5
+  Multiple tank shells rapidly fly toward and around the girl. She remains completely still. Projectiles must keep their forward direction and never disappear or reverse.
+
+  SCENE 5 — 0:09.5–0:11.5
+  The girl's eyes glow neon green. She raises one hand and creates powerful green energy around her hand and body.
+
+  SCENE 6 — 0:11.5–0:14
+  A massive explosion erupts on the highway around the attacking forces. Huge fire, smoke, dust and debris.
+
+  SCENE 7 — 0:14–0:16.5
+  Low tracking shot of the same military tanks aggressively moving forward. Realistic tracks, armor, weight, dust and smoke.
+
+  SCENE 8 — 0:16.5–0:19
+  Multiple tanks suddenly rise and float above the highway under a powerful supernatural force. Same environment and daylight.
+
+  SCENE 9 — 0:19–0:21.5
+  The floating tanks violently explode in mid-air. Large fireballs, smoke, metal fragments and debris fall downward.
+
+  SCENE 10 — 0:21.5–0:24
+  A gigantic explosion completely fills the center of the highway with fire, smoke and debris. Wide cinematic shot.
+
+  SCENE 11 — 0:24–0:26
+  Cut back to the EXACT same girl, unchanged and unharmed, standing calmly in the center of the now-empty highway. Slow push-in.
+
+  SCENE 12 — 0:26–0:27.5
+  Camera moves behind the girl as she calmly walks forward down the highway. End with a wide cinematic shot of her walking toward the distant mountains.
+
+  NEGATIVE: No character change, face change, hairstyle change, outfit change, age change, background change, lighting change, weather change, duplicated character, distorted face, deformed hands, extra fingers, disappearing objects, reversed movement, U-turns, camera flips, inconsistent tanks, unrealistic physics, text, subtitles, logos, watermark, UI or continuity errors.
+
+  #Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
+  @Flovaai @itsPolloAI

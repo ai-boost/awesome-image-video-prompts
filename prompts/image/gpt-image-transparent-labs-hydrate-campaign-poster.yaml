@@ -1,0 +1,38 @@
+id: gpt-image-transparent-labs-hydrate-campaign-poster
+title:
+  en: Seated athlete with Hydrate tub on black poster
+  zh: 坐姿运动员与 Hydrate 补剂桶的黑蓝海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- supplement
+- campaign-poster
+- typography
+- reference-edit
+source:
+  name: '@amynys on X'
+  url: https://x.com/amynys/status/2051409591137972606
+  credit: amynys
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Each element gets its own position in the prompt (headline top, model centre, tub front left, icon callouts around the edge), so the layout maps directly onto the output. The reference photo supplies the identity while the clothing, palette and text are set by the prompt.
+  zh: 提示词按位置逐一描述每个元素（顶部标题、中央人物、左前方产品、四周图标卡片），输出的版式与之一一对应。参考图提供人物形象，服装、配色和文字则由提示词指定。
+prompt: |
+  Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate.
+
+  Bold high-impact supplement advertisement with dramatic black and deep electric blue color palette, gritty premium fitness aesthetic, sharp cinematic lighting, glossy reflections, light smoke atmosphere, intense contrast.
+
+  Giant headline typography at top reading “TRANSPARENT LABS HYDRATE” in oversized distressed white and electric blue text.
+
+  Center composition features the exact woman from the attached reference image as a fit athletic female model seated confidently on a studio floor, holding a shaker bottle, with a focused and powerful expression.
+
+  Change her clothes into sleek black fitness gym outfit: a black sports bra / tank top and high-waisted black leggings with chunky white sneakers. Large glowing “1%” graphic behind the subject symbolizing daily progress.
+
+  Front left foreground shows a matte black Transparent Labs Hydrate tub with modern luxury label reading “HYDRATE”, scoop of electrolyte powder spilled beside the container.
+
+  Surround the poster with clean icon-based benefit callouts: replenishes electrolytes, supports hydration, boosts recovery, improves endurance, enhances performance, zero sugar, lab tested, premium quality, no fillers. Strong motivational copy such as “Daily Hydration. Peak Performance.”
+
+  Hyper realistic textures, polished commercial retouching, premium sports nutrition branding, modern typography layout, social media ad format, ultra detailed, high resolution.

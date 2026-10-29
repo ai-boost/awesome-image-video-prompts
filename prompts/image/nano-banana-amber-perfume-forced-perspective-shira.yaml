@@ -1,0 +1,39 @@
+id: nano-banana-amber-perfume-forced-perspective-shira
+title:
+  en: Oversized amber perfume bottle with leaning woman
+  zh: 女子俯身凑近巨大琥珀色香水瓶
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- product-photography
+- forced-perspective
+- perfume
+- warm-palette
+source:
+  name: '@Maercihh on X'
+  url: https://x.com/Maercihh/status/2038838341572178374
+  credit: Maercih
+  likes: 163
+  captured: '2026-10-29'
+  posted: '2026-03-31'
+notes:
+  en: A 24mm wide lens shot from low down makes the bottle loom over the model, and the shallow depth of field keeps focus on the label. Naming the palette outright (terracotta walls, amber glass, mustard checkered floor) keeps the colors consistent.
+  zh: 从低位用24毫米广角镜头拍摄，让瓶子在前景中显得巨大，浅景深则把焦点锁定在标签上。明确写出陶土色墙面、琥珀色玻璃和芥末黄格纹地面等配色，使画面色调统一。
+prompt: |
+  {
+    "settings": {
+      "aspect_ratio": "4:5",
+      "resolution": "1024x1280",
+      "style": "photorealistic",
+      "lighting": "soft diffused studio lighting with warm tones",
+      "camera": "wide angle lens (24mm), low perspective",
+      "depth_of_field": "shallow, focus on perfume bottle",
+      "color_grading": "warm cinematic, terracotta and amber tones",
+      "render_quality": "high detail, natural textures, no plastic skin",
+      "motion": "still frame",
+      "grain": "subtle film grain"
+    },
+    "prompt": "A surreal forced-perspective product shot of a large amber glass perfume bottle labeled 'ZAHARBAAD SHIRA' in the foreground, held by a woman's hand with soft pink nails. In the background, a stylish woman with short wavy dark hair, wearing round sunglasses, a beige jacket, green skirt, and pink heels, leans forward curiously toward the oversized bottle. The room is minimal and geometric with warm terracotta walls, an arched doorway, and a retro checkered floor in mustard and brown tones. The lighting is soft and warm, creating gentle shadows and a premium editorial feel. Realistic skin texture, natural reflections on glass, accurate scale illusion, no over-smoothing, no CGI look.",
+    "negative_prompt": "blurry, low resolution, distorted proportions, extra fingers, plastic skin, overexposed highlights, harsh shadows, unrealistic reflections, text errors, watermark, logo artifacts"
+  }

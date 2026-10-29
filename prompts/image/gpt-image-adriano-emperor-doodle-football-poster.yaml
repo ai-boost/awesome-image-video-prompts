@@ -1,0 +1,40 @@
+id: gpt-image-adriano-emperor-doodle-football-poster
+title:
+  en: Adriano career stats doodle football poster
+  zh: 阿德里亚诺涂鸦风足球生涯数据海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- football
+- poster
+- doodle
+- typography
+source:
+  name: '@ryanpp27 on X'
+  url: https://x.com/ryanpp27/status/2048602248524214542
+  credit: ryanpp27
+  captured: '2026-10-29'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Keep the real player photo intact and wrap him in a glowing neon outline, then surround him with doodles and boxed stat panels. Fixed sections for club, highlights and national team make the layout easy to scan.
+  zh: 保持真人照片不变，并在人物外加一圈发光霓虹轮廓，周围配以涂鸦和数据框。俱乐部、高光与国家队三个固定区块让版面一眼就能读完。
+prompt: |
+  Create a scrapbook doodle-style football poster of [PLAYER_NAME].
+
+  AI auto-generates realistic career stats (club and national team).
+
+  Main photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose).
+
+  Doodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless specified), arrows, stars, scribbles, sketchy outlines. Add a glowing [PRIMARY_COLOR] outline around the player's body.
+
+  Layout (bold handwritten titles and stats):
+  - Top Title: "[PLAYER_NAME]" plus "[NICKNAME/TITLE]"
+  - Club Career: total matches and goals plus 2–4 main clubs (apps and goals)
+  - Highlights: 2–3 standout achievements (e.g., UCL goals, Ballon d'Or, top scorer)
+  - National Team: caps and goals plus 1–2 international achievements
+
+  Style: modern football poster x notebook aesthetic, clean but energetic, slightly messy doodles, high contrast, neon accents on dark or muted background.
+
+  Important: all stats must be realistic and proportional to the player's real career.

@@ -1,0 +1,36 @@
+id: gpt-image-giant-pepsi-can-seated-model-ad
+title:
+  en: Woman leaning on giant Pepsi can ad
+  zh: 女性倚靠巨型百事可乐罐广告
+model: GPT Image 2
+mode: image-edit
+category: product
+tags:
+- product-ad
+- scale-contrast
+- reference-face
+- infographic
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2047829613502754919
+  credit: Meem
+  likes: 912
+  captured: '2026-10-29'
+  posted: '2026-04-25'
+notes:
+  en: 'The scale contrast carries the image: a can nearly as tall as the seated subject, with a reference image pinned to keep her face consistent. Thin callouts and a plain studio gradient keep the ad minimal and premium.'
+  zh: 尺度对比是画面的核心：罐身几乎与坐姿人物等高，并附上参考图以保持人脸一致。细线标注和纯净的影棚渐变背景让广告保持简洁高级。
+prompt: |
+  A premium infographic-style visual featuring an oversized Pepsi can placed beside a young woman. The can is scaled to be nearly the same size as her entire seated body, creating a striking, surreal proportion. The woman sits casually leaning against the giant can, one arm resting on it, interacting naturally with the object.
+  Her face must closely match the provided reference image, accurate facial structure, skin tone, hairstyle, and expression — polished, realistic, and visually appealing.
+  The Pepsi can is ultra-detailed with crisp branding, condensation droplets, realistic reflections, and metallic texture. The logo is clean, sharp, and properly proportioned.
+  Composition is modern and minimal, set in a clean studio or soft gradient background. Include subtle infographic-style elements such as thin annotation lines, minimal labels, or callouts highlighting features like “refreshment,” “carbonation,” or “chilled texture,” but keep it elegant and uncluttered.
+  Lighting is soft studio lighting with controlled highlights and shadows, giving a premium advertising look. The model is styled in minimal, contemporary clothing that complements the red, white, and blue tones of the can.
+  Color grading is crisp and slightly vibrant, with a commercial ad aesthetic. Balanced composition, sharp focus, slight depth of field for realism.
+  Style: high-end product infographic, commercial beverage advertisement, clean UI-inspired annotations
+  Resolution: ultra high resolution, 4K, highly detailed, photorealistic
+
+  85mm lens, f/2.8
+  hyper-realistic, studio quality
+  no distortion, correct proportions
+  clean typography, modern layout

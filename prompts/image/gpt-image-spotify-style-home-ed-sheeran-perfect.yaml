@@ -1,0 +1,71 @@
+id: gpt-image-spotify-style-home-ed-sheeran-perfect
+title:
+  en: Music streaming home screen featuring Ed Sheeran's Perfect
+  zh: 音乐流媒体首页展示 Ed Sheeran 的《Perfect》
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- app-mockup
+- ui-design
+- music-app
+- template
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2114389052451606897
+  credit: simeon-sanai
+  likes: 34
+  captured: '2026-10-29'
+  posted: '2026-10-25'
+notes:
+  en: The prompt is a fill in template with slots for app name, platform and featured content, followed by an explicit checklist of home screen components. Pinning the reference platform, the cinematic visual direction and a ban on invented prices or ratings keeps the result looking like a finished product.
+  zh: 该提示词采用可填充的模板结构，应用名、平台和推荐内容都留有空位，并附带首页组件清单。指定参考平台、电影感视觉方向，并禁止编造价格或评分，使结果更像成品界面。
+prompt: |
+  Create a high-fidelity, visually stunning app UI mockup for [APP NAME], inspired by the polished user experience of leading entertainment platforms such as Spotify and Netflix.
+
+  Design a realistic, professional interface that looks like a finished product created by an expert UI/UX designer. The screen should immediately communicate the app’s purpose, feature its most important content, and make the primary action obvious.
+
+  1. App Identity & Layout
+
+  App name: [APP NAME]
+  Platform: [Mobile / Desktop / Tablet]
+  Screen: Home / Dashboard
+  Target audience: [TARGET AUDIENCE]
+  Featured content: [SONG / ARTIST / MOVIE / K-DRAMA / SHOW]
+  Visual direction: Clean, minimal, premium, modern, and cinematic.
+
+  2. Main Screen Composition
+
+  Create a well-organized interface with:
+
+  A recognizable app logo and navigation menu.
+  A clear header with search, notifications, and profile controls where appropriate.
+  A prominent featured-content section with beautiful, relevant artwork.
+  The content title, creator or artist, genre, and a concise description.
+  A highly visible primary action button, such as Play, Watch Now, or Explore.
+  A secondary action such as Like, Save, or Add to List, where appropriate.
+  Horizontally scrolling content cards for recommendations, popular items, or recently played content.
+  A persistent bottom navigation or playback bar when appropriate for the platform.
+
+  3. Visual Design
+
+  Use a sophisticated design system with:
+
+  Carefully balanced spacing, alignment, and visual hierarchy.
+  Crisp typography with clear distinctions between headings, descriptions, and metadata.
+  Consistent margins, rounded cards, subtle shadows, and refined iconography.
+  High-quality cinematic imagery or album artwork relevant to the featured content.
+  A cohesive color palette inspired by the app’s identity.
+  Realistic interface details, including progress bars, playback controls, active navigation states, and content thumbnails when relevant.
+
+  4. User Experience
+
+  Make the screen intuitive, uncluttered, and believable. The user should instantly understand what is featured and how to interact with it. Keep the primary action prominent, secondary controls understated, and supporting content visually organized.
+
+  5. Rendering & Presentation
+
+  Render the complete interface as a polished, high-resolution product mockup. Show the entire screen clearly, with sharp text, realistic UI components, accurate proportions, and professional lighting or device framing when suitable.
+
+  The final result should feel like a premium, launch-ready entertainment app design—not a generic template, wireframe, poster, or collection of unrelated elements.
+
+  Important: Preserve the supplied app name, labels, and content exactly. Do not invent prices, account details, ratings, statistics, or unsupported features. Prioritize usability, visual consistency, and a clear content hierarchy.

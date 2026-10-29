@@ -1,0 +1,26 @@
+id: gpt-image-strawberry-energy-drink-athlete-ad
+title:
+  en: Athlete leaping beside strawberry energy drink can
+  zh: 运动员跃动，身旁是草莓能量饮料罐
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- energy-drink
+- product-ad
+- sports
+- strawberry
+source:
+  name: '@SPEEDAI07 on X'
+  url: https://x.com/SPEEDAI07/status/2049043627163435040
+  credit: SPEEDAI07
+  captured: '2026-10-29'
+  posted: '2026-04-28'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'Layering the product, the athlete and the splash in one scene works because the prompt fixes each element''s position: subject in midair, can in the foreground, strawberries on a glossy surface. Stating the lighting and a bold typography band behind the subject gives the image a finished ad look.'
+  zh: 提示词把主体、饮料罐和草莓的位置一一固定：人物跃在空中，罐子在前景，草莓落在反光台面上。再加上明确的布光和主体身后的醒目字体，画面就呈现出完整的广告海报效果。
+prompt: |
+  A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface.
+
+  Bright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.

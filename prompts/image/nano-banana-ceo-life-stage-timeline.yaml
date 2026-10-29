@@ -1,0 +1,29 @@
+id: nano-banana-ceo-life-stage-timeline
+title:
+  en: Sundar Pichai life stage timeline, ages 5 to present
+  zh: 桑达尔·皮查伊从5岁到现在的人生阶段时间线
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- timeline
+- face-consistency
+- portrait
+source:
+  name: '@marcthecreatorr on X'
+  url: https://x.com/marcthecreatorr/status/2107532275529273535
+  credit: Marcel
+  likes: 36
+  captured: '2026-10-29'
+  posted: '2026-10-06'
+notes:
+  en: A single subject, a fixed list of life stages and an explicit same-face requirement give the model a clear structure to repeat. Adding realistic keeps every panel photographic rather than illustrated, so the age progression reads as one person.
+  zh: 单一主体、固定的人生阶段列表，加上始终是同一张脸的明确要求，给模型提供了可重复的结构。加入 realistic 让每个面板保持照片质感而非插画，年龄变化才读起来像同一个人。
+prompt: |
+  nano banana 2.1 is live and my first output already looks really good.
+
+  simple prompt: create a realistic timeline of google’s ceo from childhood to now while keeping the same face throughout.
+
+  > it’s still based on the older gemini 3.6 flash model, but image generation is fast as hell. most outputs come back in seconds.
+
+  here’s the first side-by-side i ran with the exact same prompt and i already have a winner :)

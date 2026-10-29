@@ -1,0 +1,23 @@
+id: gpt-image-mint-toner-glass-pedestal-skincare-ad
+title:
+  en: Mint toner bottle on glass pedestal with ribbons
+  zh: 薄荷色化妆水瓶置于玻璃底座，搭配丝带与气泡
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- skincare
+- product-ad
+- mint-palette
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2069099746564960670
+  credit: Wania
+  likes: 89
+  captured: '2026-10-29'
+  posted: '2026-06-22'
+notes:
+  en: Opening with the ad type in parentheses and spelling out the exact headline sets both layout and copy. A single hero bottle on a glass pedestal, a limited mint palette and material words like glossy, translucent and reflective keep the render clean and product-focused.
+  zh: 开头用括号点明广告类型，并写出完整标题文案，版式和文字都能被锁定。单个主体瓶身放在玻璃底座上，配合有限的薄荷色调，以及光泽、半透明、反光等材质词，画面干净，突出产品。
+prompt: |
+  (Luxury skincare product advertisement), (cool mint-green pastel theme), premium cosmetic bottle on glossy glass pedestal, floating translucent bubbles, flowing liquid silk ribbons around product, soft cinematic studio lighting, reflective surface, minimal clean background, high-end beauty campaign aesthetic, hyper-realistic 3D render, elegant typography text (PURE HYDRATION / PURE YOU), premium packaging mockup, ultra-detailed, modern commercial branding, glossy texture, soft shadows, minimal luxury composition, fresh hydrating vibe, trending cosmetic ad style, 8K, photorealistic.

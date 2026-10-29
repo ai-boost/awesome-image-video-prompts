@@ -1,0 +1,24 @@
+id: gpt-image-tennis-ball-sculpture-goal-athlete-poster
+title:
+  en: Athlete lying on giant tennis ball, huge GOAL behind
+  zh: 运动员横卧巨型网球，背后大字GOAL
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- sports-fashion
+- surreal-scale
+- typography
+- reflection
+source:
+  name: '@im_shahid7 on X'
+  url: https://x.com/im_shahid7/status/2086775895017361435
+  credit: Al-Shamus
+  likes: 170
+  captured: '2026-10-29'
+  posted: '2026-08-10'
+notes:
+  en: A single oversized prop becomes the sculpture and the athlete rests on its curve, so the scale contrast carries the concept. Naming the mirrored floor and cinematic lighting sets the reflection and the moody key light.
+  zh: 用一个超大道具作为雕塑，让人物横卧在其弧面上，靠尺度反差传达主题。指定镜面地板与电影感光线，形成倒影和柔和的主光。
+prompt: |
+  Avant-garde sports fashion, advertising, a huge tennis ball set up like a monumental sculpture, a male athlete sprawled across the curved surface of the ball like modern furniture, the huge word "GOAL" in bold typography behind, the background of the burnt green studio, shiny mirrored floor, luxurious sports editorial style, cinematic lighting, ultra-pure composition, 1:1

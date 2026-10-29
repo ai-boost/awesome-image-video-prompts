@@ -1,0 +1,75 @@
+id: seedance-fairground-ice-cream-nose-tease
+title:
+  en: Woman approaching fairground ice cream stall at sunset
+  zh: 夕阳下女孩走向游乐场冰淇淋摊
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- comedy
+- amusement-park
+- character-consistency
+- shot-list
+source:
+  name: '@sophiaparkerr_ on X'
+  url: https://x.com/sophiaparkerr_/status/2096542775709692255
+  credit: sophiaparkerr_
+  captured: '2026-10-29'
+  posted: '2026-09-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/sophiaparkerr_/status/2096542775709692255
+notes:
+  en: Timed beats (0 to 3 sec, 3 to 6 sec and so on) lay out one escalating gag as a sequence of shots, and a closing IMPORTANT block locks the headband, wardrobe, props and environment across cuts. Photographic terms like golden hour light, shallow depth of field and gimbal push-ins push the look toward live action rather than cartoon motion.
+  zh: 按时间段（0到3秒、3到6秒等）分镜，把一个逐步升级的恶作剧拆成连续镜头；结尾的 IMPORTANT 段锁定发箍、服装、道具和场景在切换中保持一致。夕阳逆光、浅景深、云台推拉等摄影术语让画面更接近真人实拍，而不是卡通动作。
+prompt: |
+  CHARACTER:
+  A young woman wearing a cute, stylish amusement-park outfit with a clearly visible Mickey Mouse ears headband. Keep the headband consistent throughout the entire video. She is excited, playful, and expressive.
+  A cheerful Turkish ice cream vendor stands behind a traditional Turkish ice cream stall, holding a long metal ice cream paddle.
+
+  0–3 SEC — ORDER
+  Start with a cinematic wide shot of the colorful amusement park, then smoothly move toward the Turkish ice cream stall.
+
+  The girl approaches the counter, smiling excitedly. Her Mickey Mouse ears headband is clearly visible. She points toward the ice cream.
+  The vendor prepares a cone with a scoop of ice cream and extends it toward her.
+
+  3–6 SEC — THE FIRST TEASE
+  Cut to a medium shot.
+
+  The girl eagerly reaches for the cone.
+
+  Just as she is about to grab it, the vendor smoothly pulls the ice cream away with the long paddle.
+  She looks at him in surprise.
+
+  He smiles mischievously and offers it again.
+
+  6–9 SEC — MORE TEASING
+  She reaches again.
+
+  The vendor smoothly moves the cone from left to right, then slightly upward, always just out of reach.
+
+  The girl follows the cone, laughing and becoming increasingly determined.
+
+  Keep the interaction fluid, realistic, and playful, with natural body movement and timing.
+  9–11 SEC — THE NOSE TRICK
+  The vendor finally brings the ice cream toward her.
+
+  She confidently leans forward, expecting to receive it.
+
+  Instead, he gently places a small dab of ice cream on the tip of her nose.
+
+  Close-up on her shocked expression.
+
+  She pauses, looks cross-eyed toward the ice cream on her nose, then looks back at the vendor with a playful annoyed expression.
+  11–15 SEC — SHE WINS
+  Before the vendor can tease her again, she quickly grabs the cone from the paddle.
+
+  She successfully gets the ice cream.
+
+  The vendor laughs and raises his hands in playful defeat.
+
+  She proudly holds up the cone, smiles toward the camera, wipes the ice cream from her nose, and takes a happy bite.
+
+  CINEMATOGRAPHY:
+  Photorealistic live-action, premium cinematic quality, warm golden-hour lighting, natural skin texture, realistic facial expressions, shallow depth of field, soft background bokeh, subtle anamorphic lens characteristics, natural motion blur, smooth gimbal movement, cinematic push-ins and tracking shots, realistic amusement-park atmosphere.
+
+  IMPORTANT:
+  Keep the Mickey Mouse ears headband clearly visible and consistent throughout the scene. Maintain consistent faces, wardrobe, hairstyle, ice cream cone, vendor paddle, and environment. All movements must be smooth and physically realistic. No exaggerated cartoon movement, no 3D animation, no jerky motion, no teleporting, no object duplication, and no unnatural hand movements.

@@ -1,0 +1,46 @@
+id: nano-banana-holochrome-chrome-character-grid
+title:
+  en: Four chrome cartoon characters with iridescent edges
+  zh: 四个带虹彩边缘的铬金属卡通角色
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- chrome
+- iridescent
+- character
+- studio-lighting
+source:
+  name: '@lloydcreates on X'
+  url: https://x.com/lloydcreates/status/2028852538443743580
+  credit: Lloyd Creates
+  likes: 77
+  captured: '2026-10-29'
+  posted: '2026-03-03'
+notes:
+  en: A pure black void with no floor and strong rim light makes each figure read as a floating studio product. The chromatic fringe along edges and the mix of brushed and mirror finish sell the metal, and only the subject slot changes between renders.
+  zh: 纯黑无地面的虚空配合强边缘光，让每个角色都像悬浮的棚拍产品。金属边缘的色散与拉丝加镜面的混合质感让材质可信，换掉主体即可复用同一套渲染。
+prompt: |
+  Create a hyper-realistic 8K product render of [INSERT YOUR PRODUCT HERE]
+
+  The subject should be perfectly centered and levitating in mid-air, floating in a void with no surface, platform, stand, or floor. Show the full product with zero cropping and visible margins on all sides.
+  Use a dynamic macro 45-degree hero angle.
+
+  The background must be solid pure black (#000000).
+
+  Lighting should feature hard edge lighting with strong rim light highlights. Use a high-contrast chiaroscuro look with thin chromatic aberration along metallic edges. Include reflective caustic light hits and an oily iridescent sheen on polished surfaces.
+
+  Color palette:
+
+  Background: #000000
+  Metal highlights: #E0E0E0
+  Iridescent accents: #4169E1, #FFD700, #FF4500
+
+  Materials and textures should combine micro-brushed sandblasted aluminum with mirror-finish chrome. Add subtle prismatic dispersion and thin-film interference along metal curves. Include fine film grain for tactile realism.
+
+  Do not include any props or additional objects.
+  No light boxes, umbrellas, softboxes, pedestals, cables, tripods, or hands.
+  No cropped edges or cut-off parts.
+  No text, logos, watermarks, blur, bokeh background, dust, or scratches.
+
+  Style reference: Industrial Design meets luxury hardware photography.

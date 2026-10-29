@@ -1,0 +1,24 @@
+id: gpt-image-rindo-zeon-mobile-suit-spec-sheet
+title:
+  en: Dark purple custom Zeon mobile suit spec sheet
+  zh: 深紫色定制吉翁机动战士参数图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- mecha
+- gundam
+- spec-sheet
+- japanese
+source:
+  name: '@Rindou_AIart on X'
+  url: https://x.com/Rindou_AIart/status/2055862260027838779
+  credit: 竜胆 Rindou | AI Character Art
+  captured: '2026-10-29'
+  posted: '2026-05-17'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt names a Zeon base machine and asks for a full custom overhaul, so the model builds a complete design with a hero render, rear view, weapons list and spec panels. The concept relies on earlier chat context, so the name and pilot only carry over when that context is present.
+  zh: 提示词指定了吉翁基础机体并要求彻底改修，模型因此生成了包含主视图、背面视图、武装列表和参数面板的完整设计表。概念依赖此前的对话上下文，单独使用时需要补充机体名称和驾驶员等设定。
+prompt: |
+  今までの私との会話を参考にして、竜胆専用のモビルスーツを開発してください。ジオン軍のモビルスーツの中から1つを選んで、徹底改修して下さい。そんなオリジナルモビルスーツがいいです。フォントサイズはやや大きく。キャンバスサイズは1200×1500

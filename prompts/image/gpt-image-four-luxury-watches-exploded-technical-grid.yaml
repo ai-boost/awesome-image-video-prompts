@@ -1,0 +1,55 @@
+id: gpt-image-four-luxury-watches-exploded-technical-grid
+title:
+  en: Four luxury watches in exploded technical grid
+  zh: 四款奢华腕表的爆炸图技术网格
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- luxury
+- watch
+- exploded-view
+- infographic
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2056928396991488312
+  credit: Gdgtify
+  captured: '2026-10-29'
+  posted: '2026-05-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt is a structured design spec that fixes composition, materials, atmosphere and data-panel mutations, so the model applies one consistent Swiss brochure system. Specifying a 2x2 grid at 16:9 gives four equal panels, each with an exploded movement view and callouts.
+  zh: 提示词把构图、材质、氛围和数据面板写成固定的设计参数，模型因此能套用同一套瑞士技术手册风格。明确指定2x2网格与16:9比例，四个面板的版式因此统一，每块都有爆炸图和标注。
+prompt: |
+  2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:
+
+  class Haute_Horlogerie_DNA:
+      def __init__(self):
+          self.subject = "[TIMEPIECE]"
+          self.parents = {
+              "composition_parent": "Exploded movement diagram with transparent case",
+              "material_parent": "Brushed titanium, sapphire crystal, rose gold gears, alligator leather",
+              "graphic_parent": "Swiss manufacture technical brochure with elegant data panels",
+              "atmosphere_parent": "Crisp daylight studio, pure white background, subtle reflection on polished surfaces"
+          }
+          self.mutations = {
+              "semantic_mutation": "The balance wheel reveals a miniature cosmos ticking inside",
+              "information_mutation": "Power reserve indicator, frequency, complication callouts, hand-finishing grades, assembly timeline",
+              "medium_mutation": "Smooth matte premium paper with embossed logo",
+              "scale_mutation": "Grain-level view of Côtes de Genève finishing and jewel bearings"
+          }
+          self.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]
+
+      def generate_subject(self):
+          subject = """
+          [TIMEPIECE] shown in its full mechanical glory. The dial, hands, movement,
+          and strap float in perfect alignment against a bright, clean background.
+          Every gear and spring is highlighted with exacting clarity.
+          """
+          return render(
+              subject,
+              format="luxury watch advertisement with technical insert",
+              title="[MODEL REFERENCE]",
+              subtitle="[MANUFACTURE / COLLECTION]",
+              constraints="bright white space, metallic brilliance, hyper-detailed, modern elegance"
+          )

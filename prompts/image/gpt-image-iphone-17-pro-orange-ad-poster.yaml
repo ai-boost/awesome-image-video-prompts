@@ -1,0 +1,26 @@
+id: gpt-image-iphone-17-pro-orange-ad-poster
+title:
+  en: Woman holding orange iPhone 17 Pro in ad poster
+  zh: 女性手持橙色 iPhone 17 Pro 广告海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- iphone-17-pro
+- advertising
+- product-poster
+- forced-perspective
+source:
+  name: '@AIwithSarah_ on X'
+  url: https://x.com/AIwithSarah_/status/2051245277563294091
+  credit: Sarah
+  likes: 250
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+notes:
+  en: The layout is pinned with explicit placement, such as an off-center panel, a cropped oversized PRO word and a foreground phone in forced perspective, and every UI string is given word for word so the text renders cleanly. Lens and lighting specs (50mm, shallow depth of field, key light from the front left, warm rim light) give it a studio photo look instead of a flat render.
+  zh: 用明确的位置描述锁定版式，如偏置的橙色面板、被裁切的超大 PRO 字样、前景透视的手机，并逐字给出所有界面文字，使文字清晰可读。50mm 镜头、浅景深、左前方主光和暖色轮廓光等光线设定，让画面接近真实影棚拍摄而非平面渲染。
+prompt: |
+  GPT Image 2 on ChatGPT app.
+
+  Prompt: Create a premium Apple-style smartphone advertisement poster in 3:4 vertical format, ultra-high resolution, with a clean, modern, global campaign aesthetic. A minimal white studio background features a large rounded rectangular orange gradient panel placed slightly off-center behind the subject, soft and luminous rather than flat, with oversized background typography “PRO” in a deep orange tone (slightly darker than the panel), very large and partially cropped by the frame edges, with soft shadow and subtle depth. The subject is a stylish young female model with smooth, well-styled hair (straight or soft waves), glowing skin with minimal makeup, and refined, modern features, posed with a calm, confident, effortless expression and direct eye contact, shot from a slightly low angle, one hand extended toward the camera holding the phone while her body is slightly angled for depth and elegance. She wears a deep maroon tailored jacket over a clean off-white or cream inner top with minimal accessories like a delicate ring or thin chain. The hero product is the iPhone 17 Pro in Titanium Orange finish, placed in the extreme foreground using forced perspective and slightly tilted to highlight camera depth, featuring ultra-realistic triple camera lenses, accurate reflections, deep glass elements, brushed titanium edges with subtle highlights, a soft Apple logo reflection, and fine premium material texture with no plastic feel. Lighting is soft and refined with a key light from the front-left for smooth skin tones, a warm rim light from the right defining the edges of the phone and hair, subtle orange bounce from the background, and gentle shadows without harsh contrast. UI elements include a small Apple logo at the top left, “Built for Apple Intelligence.” in a thin font at the top right, a floating glass-style pill reading “iPhone 17 Pro,” 2–3 subtle sparkle accents, and a very light grain for realism. The bottom section includes four rounded glass cards with minimal icons: A19 Pro Chip – Unstoppable performance, 48MP Pro Camera – Total creative control, 4K Dolby Vision – Cinematic in every frame, and Apple Intelligence – Personal. Private. Powerful. In the bottom right, include a small clean paragraph: “iPhone 17 Pro. Uncompromising power. A19 Pro chip. Advanced camera system. Designed for what’s next.” The camera and render style should emulate a 50mm lens with shallow depth of field, slight natural lens distortion, HDR lighting, and ultra-realistic textures across skin, metal, and glass, maintaining an overall direction that feels like a real studio shoot—premium, effortless, and never over-designed or artificially perfect.

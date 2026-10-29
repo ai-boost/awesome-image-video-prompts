@@ -1,0 +1,73 @@
+id: gpt-image-porsche-911-gt3-rs-yellow-poster
+title:
+  en: Yellow Porsche 911 GT3 RS poster with tall type
+  zh: 黄色保时捷911 GT3 RS海报，超高窄体标题
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- poster
+- typography
+- automotive
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2097641872068063436
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 182
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+notes:
+  en: Labelled sections for background, product, typography, editorial, faded text and specs lock the layout in place. A flat yellow field with charcoal type forms a tight two-colour system that frames the rear 3/4 car.
+  zh: 用背景、产品、字体、编辑文案、淡化文字和参数等分区标签锁定版面。平面黄色底色搭配炭黑文字形成紧凑的双色体系，把后方四分之三视角的车身衬托出来。
+prompt: |
+  GPT image 2.5 Flare on
+  @MageSpace_
+
+
+  This new version looks more detailed and has better prompt understanding.
+
+  Try it with prompt : 4:5 vertical social poster, ultra high resolution, 8K
+
+  SCENE / BACKGROUND:
+  Flat racing yellow with subtle gradient (light → deep amber)
+  Grain texture 2–3%
+  Soft rectangular overlays at 3% opacity
+
+  PRODUCT:
+  Porsche 911 GT3 RS
+  Gloss yellow with carbon details
+  Rear 3/4 angle, slightly elevated
+  Wing dominant
+
+  Position:
+  Right of center
+
+  TYPOGRAPHY:
+  “PORSCHE”
+  Ultra tall, condensed, stretched
+  Deep charcoal
+
+  Secondary:
+  “PORSCHE 911 GT3 RS”
+
+  EDITORIAL:
+  “Porsche — Where Precision Meets Passion”
+
+  Focus:
+  engineering, obsession, track DNA
+
+  FADED TEXT:
+  “GT3 RS” at 3–5%
+
+  SPECS:
+  386 kW / 525 PS
+  3.2 s
+  296 km/h
+
+  LIGHTING:
+  Clean studio, sharp highlights
+
+  MOOD:
+  Precision.
+  Iconic.
+  Timeless performance.

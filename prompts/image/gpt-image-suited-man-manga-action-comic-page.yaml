@@ -1,0 +1,26 @@
+id: gpt-image-suited-man-manga-action-comic-page
+title:
+  en: Suited man pointing in a manga comic page
+  zh: 西装男子指向前方的漫画页面
+model: GPT Image 2
+mode: image-edit
+category: comic
+tags:
+- manga
+- comic-page
+- reference-photo
+- sound-effects
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2053123747604033667
+  credit: Anissa
+  likes: 455
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+notes:
+  en: The prompt fixes a 9:16 page with 5 to 7 panels and lists panel types, speed lines, impact frames and onomatopoeia, so the model builds a full comic page instead of a single illustration. Anchoring the likeness to a reference photo keeps the face consistent across the close-ups and wide shots.
+  zh: 提示词规定了 9:16 的页面、5 到 7 格分镜，并列出速度线、冲击帧和拟声词等元素，使模型生成完整的漫画页而不是单幅插画。以参考照片锁定人物长相，让特写和远景中的面部保持一致。
+prompt: |
+  GPT image 2 on ChatGPT
+
+  Prompt: Create a full-page colored manga illustration based on the person in the reference photo. Use authentic manga page composition with 5–7 dynamic connected panels on a single page. Include cinematic storytelling, dramatic perspective, expressive emotions, dynamic poses, speed lines, impact frames, close-up shots, and intense visual flow.Add English comic-style sound effects, handwritten dialogue bubbles, ink splatter strokes, halftone textures, rough comic sketch lines, and graffiti-inspired brushwork. Blend vibrant colors with manga-style shading and strong contrast. Emphasize the character’s personality and aura with symbolic visual elements and atmospheric energy effects. Highly detailed, emotional, stylish, energetic, professional manga aesthetic with clean white negative space mixed with chaotic ink textures.Hand-drawn look, free-flowing lines, immersive composition, high quality. Aspect ratio 9:16 HD.

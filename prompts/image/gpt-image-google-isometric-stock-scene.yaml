@@ -1,0 +1,47 @@
+id: gpt-image-google-isometric-stock-scene
+title:
+  en: Isometric Google campus with stock price chart
+  zh: 等距视角谷歌园区与股价走势图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- isometric
+- stock-chart
+- cinema-4d
+- miniature
+source:
+  name: '@dotey on X'
+  url: https://x.com/dotey/status/2046718861337051217
+  credit: 宝玉
+  likes: 213
+  captured: '2026-10-29'
+  posted: '2025-12-03'
+notes:
+  en: The prompt fixes a 45 degree top-down isometric camera and a Cinema 4D PBR look, then stacks the company name, date and price range by size at top-centre on a solid background. The iconic Googleplex sits in the middle, ringed by product icons and small figures, while a stock trend chart carries the data layer.
+  zh: 提示词用 45 度俯视等距镜头和 Cinema 4D 的 PBR 质感限定画风，并在顶部中央按公司名、日期、价格区间的大小层级排版。中央是标志性的 Googleplex 园区，周围环绕产品图标和小人物，股价走势图承担数据层。
+prompt: |
+  Present an exquisite, miniature 3D cartoon-style scene of the company corresponding to the user-specified company name or stock ticker, clearly viewed from a 45° top-down perspective.
+
+  Place the company's most iconic building or campus prominently at the center, complemented by proportionally-sized icons of its key products, charming cartoon-style figures, vehicles, and other elements illustrating everyday company activities. The scene should be detailed, finely crafted, and playful.
+
+  Rendered with Cinema 4D, the modeling should be refined, smoothly rounded, and rich in texture, accurately capturing realistic PBR materials. Gentle, lifelike lighting and soft shadows should create a warm, comfortable ambiance.
+
+  Creatively integrate the company's real-time stock market data for the user-specified date (or automatically retrieved current date) into the scene, maintaining a clean, minimalist layout and a solid-color background to highlight the primary content.
+
+  At the top-center of the scene, prominently display the company name or stock ticker in a large font size, followed by the specified date in extra-small font, and the stock price range in a medium-sized font. Include clear, intuitive stock trend icons and charts.
+
+  All texts should be displayed in the language specified or entered by the user, without any background, and may subtly overlap with the scene elements to enhance overall design integration.
+
+  Very Important:
+  Before generating, ensure accurate and up-to-date stock market data based on the user-inputted company name or stock ticker and the specified date. If such data is unavailable, notify the user immediately and stop the generation process.
+
+  Parameters:
+
+  * Aspect ratio: {User input, default 4:3}
+  * Date: {User input, current date}
+  * Company name or stock ticker: {User input}
+
+  ---
+
+  Company Name: Google

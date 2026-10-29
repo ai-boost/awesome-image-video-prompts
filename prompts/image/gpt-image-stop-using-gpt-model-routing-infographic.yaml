@@ -1,0 +1,30 @@
+id: gpt-image-stop-using-gpt-model-routing-infographic
+title:
+  en: Split infographic contrasting chaotic GPT use with smart routing
+  zh: 分屏信息图对比混乱的 GPT 用法与智能模型路由
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- ai-models
+- split-layout
+- saas-marketing
+source:
+  name: '@codemarch on X'
+  url: https://x.com/codemarch/status/2080529891733504505
+  credit: codemarch
+  captured: '2026-10-29'
+  posted: '2026-07-24'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A mirrored two-column layout on one canvas lets the eye compare the two workflows directly. The prompt fixes exact labels, icon positions and line styles (tangled dashed loops against clean solid glow lines), which keeps the contrast readable and the text legible.
+  zh: 同一画布上左右镜像的双栏布局，让两种工作流可以直接对比。提示词固定了每个标签、图标位置和线条样式（杂乱的虚线环路对比干净的实线光晕），使对比一目了然，文字也保持清晰。
+prompt: |
+  Create a square 1:1 dark futuristic tech infographic for social media comparing two AI workflow approaches. Canvas: 768x768 or similar, deep navy-to-black background with subtle dotted grid texture and a vertical split down the center. At the top, place a huge bold uppercase headline: “STOP USING GPT FOR EVERYTHING.” The words “STOP USING GPT FOR” are white, and the final word is a left-to-right gradient from lime green to cyan-blue, with a cyan period. Use a clean heavy sans-serif font, high contrast, crisp vector-like rendering.
+
+  Layout: two side-by-side columns. Left column is labeled as the bad workflow, right column as the improved workflow. The left side has a red/pink theme with a pill label reading “THE OLD WAY,” a small subtitle “WASTE MONEY,” and a central rounded-square GPT/OpenAI-style knot icon. Around it are exactly 5 smaller rounded-square task icons connected by messy red dashed routing lines: 1 video clapper/play icon at upper center, 2 design pen-nib/Bezier icon at left, 3 microphone icon at right, 4 image/photo icon at lower left, 5 code brackets icon at lower right. The messy dashed lines loop and cross, showing chaos.
+
+  Right column has a teal/blue theme with a pill label reading “THE SMART WAY,” a small subtitle “ROUTE TO THE BEST MODEL,” and a central rounded-square robot router icon. Connect it with clean glowing solid lines to exactly 5 model cards: 1 top card with OpenAI knot icon labeled “GPT 5.6” and “DESIGN,” 2 left purple card with code brackets labeled “FABLE” and “CODE (HARD),” 3 right blue card with clapper/play icon labeled “SEEDANCE 2.0” and “VIDEO,” 4 bottom-left gold card with image icon labeled “GPT 2.0” and “IMAGE,” 5 bottom-right blue card with microphone icon labeled “HUME” and “VOICE.” Use rounded glassmorphism cards with neon outlines and soft glow.
+
+  Bottom callouts: under the left column, place a red outlined rounded status bar with a red X icon and text “EXPENSIVE. CHAOTIC. INEFFICIENT.” Under the right column, place a teal/green outlined rounded status bar with a green check icon and text “SMARTER. CHEAPER. BETTER RESULTS.” Keep all text legible, centered, and aligned. Use strong contrast, modern SaaS marketing style, subtle gradients, neon highlights, no extra logos, no watermark, no additional text beyond the specified labels.

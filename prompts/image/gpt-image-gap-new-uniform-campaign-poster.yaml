@@ -1,0 +1,335 @@
+id: gpt-image-gap-new-uniform-campaign-poster
+title:
+  en: Model beside oversized navy GAP campaign typography
+  zh: 模特与巨型藏蓝色GAP字母的广告海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- poster
+- typography
+- campaign
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2064211120412590441
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 307
+  captured: '2026-10-29'
+  posted: '2026-06-09'
+notes:
+  en: The prompt sets a strict visual hierarchy with typography at 70 percent, model at 20 percent and promo elements at 10 percent, plus a locked palette of cream and navy. Naming a lens, studio lighting and grading terms steers the photo toward a restrained luxury look.
+  zh: 提示词设定了明确的视觉层级（字体占70%、模特占20%、促销信息占10%），并锁定奶油色与藏蓝色的配色。镜头、影棚布光和调色等具体术语，让照片呈现克制的奢华质感。
+prompt: |
+  "NEW UNIFORM"
+
+  FORMAT
+
+  Ultra-Premium Fashion SMM Promotional Poster
+  Vertical 4:5
+  Instagram Hero Creative
+  American Lifestyle Fashion Advertising
+  Commercial Fashion Graphic Design
+  Agency-Level Art Direction
+  Behance Front Page Quality
+  8K UHD
+  Hyper-Realistic
+  Fashion × Graphic Design Fusion
+  Zero AI Slop
+  Zero Generic Fashion Campaigns
+  Zero Editorial-Only Aesthetic
+
+  CORE STRATEGY
+
+  This is not a fashion campaign.
+
+  This is a lifestyle statement disguised as a promotional poster.
+
+  The design should feel like Gap's flagship storefront,
+  a premium lifestyle magazine cover,
+  and a global billboard campaign
+  merged into one visual.
+
+  The graphic design is equally important as the fashion.
+
+  Typography is not decoration.
+
+  Typography is architecture.
+
+  CAMPAIGN IDEA
+
+  "NEW UNIFORM"
+
+  Not office uniform.
+
+  Not school uniform.
+
+  The uniform of modern confidence.
+
+  The clothes aren't being sold.
+
+  The lifestyle is.
+
+  MASTER VISUAL
+
+  Massive oversized GAP typography dominates the entire composition.
+
+  The word:
+
+  GAP
+
+  occupies nearly 75% of the canvas.
+
+  Typography is integrated into the design.
+
+  Letters extend beyond frame edges.
+
+  Some letters cropped.
+
+  Some hidden behind the model.
+
+  Some functioning as compositional structures.
+
+  The typography should feel monumental.
+
+  The iconic GAP square logo appears subtly integrated within the layout.
+
+  HERO SUBJECT
+
+  Female model.
+
+  Natural beauty.
+
+  Confident expression.
+
+  Minimal makeup.
+
+  Effortless American luxury energy.
+
+  No smiling.
+
+  No dramatic posing.
+
+  Relaxed confidence.
+
+  Wardrobe:
+
+  Oversized cream Oxford shirt.
+
+  Relaxed tailored trousers.
+
+  Premium neutral knit layering.
+
+  Classic leather accessories.
+
+  Elevated everyday styling.
+
+  Modern American minimalism.
+
+  POSE
+
+  Model stepping through the giant typography.
+
+  One foot slightly forward.
+
+  Direct eye contact.
+
+  Hands relaxed.
+
+  Body partially intersecting typography.
+
+  The feeling:
+
+  She owns the moment effortlessly.
+
+  COMPOSITION
+
+  Typography occupies 70%.
+
+  Model occupies 20%.
+
+  Promotional elements occupy 10%.
+
+  Visual hierarchy:
+
+  GAP
+  ↓
+  Model
+  ↓
+  Promotion
+  ↓
+  CTA
+
+  Everything feels intentional.
+
+  COLOR SYSTEM
+
+  Primary:
+
+  Cream
+
+  Ivory
+
+  Stone
+
+  Soft Beige
+
+  Navy Blue
+
+  White
+
+  Accent:
+
+  Classic Gap Navy
+
+  Muted Silver
+
+  No bright colors.
+
+  No trend-chasing palettes.
+
+  Timeless restraint.
+
+  BACKGROUND
+
+  Clean luxury backdrop.
+
+  Large soft gradient.
+
+  Minimal studio environment.
+
+  Subtle paper texture.
+
+  No architecture.
+
+  No scenery.
+
+  No distractions.
+
+  The design itself creates the environment.
+
+  GRAPHIC DESIGN SYSTEM
+
+  Floating collection cards.
+
+  Lifestyle editorial labels.
+
+  Minimal grid system.
+
+  Thin lines.
+
+  Micro typography.
+
+  Premium retail campaign hierarchy.
+
+  Global flagship-store energy.
+
+  PROMOTIONAL ELEMENTS
+
+  NEW COLLECTION
+
+  AUTUMN WINTER 2026
+
+  LIMITED DROP
+
+  ONLINE EXCLUSIVE
+
+  MEMBERS EARLY ACCESS
+
+  FREE SHIPPING
+
+  Integrated naturally into layout.
+
+  Not banner spam.
+
+  TYPOGRAPHY HIERARCHY
+
+  Top Left
+
+  GAP
+
+  small luxury wordmark
+
+  Center Massive Typography
+
+  G
+  A
+  P
+
+  occupying most of composition
+
+  bold heritage typography
+
+  extremely large scale
+
+  partially cropped
+
+  Campaign Title
+
+  NEW
+  UNIFORM
+
+  bold elegant typography
+
+  Supporting Copy
+
+  Designed for those who make simplicity unforgettable.
+
+  PROMOTIONAL CTA BLOCK
+
+  SHOP NOW →
+
+  Explore the latest collection
+
+  BOTTOM FEATURE STRIP
+
+  NEW ARRIVALS
+
+  EVERYDAY ESSENTIALS
+
+  MODERN BASICS
+
+  LIMITED DROP
+
+  Bottom Right
+
+  Starting From ₹1,990
+
+  Bottom Center
+
+
+  http://
+  gap.com
+  Vertical Edge Text
+  GAP AW26
+  LIGHTING
+  Luxury studio lighting.
+  Large soft source.
+  Editorial contrast.
+  Natural skin rendering.
+  Premium fabric highlights.
+
+  Subtle shadows.
+
+  Lifestyle campaign quality.
+
+  CAMERA
+
+  ARRI Alexa Mini LF
+
+  85mm Lens
+
+  Commercial fashion photography
+
+  Shallow depth of field
+  Extremely sharp fabric rendering
+  Ultra-premium advertising quality
+  POST-PRODUCTION
+  Premium American fashion campaign grading.
+  Rich navy tones.
+  Cream highlights.
+  Visible textile texture.
+  Natural skin detail.
+  No excessive retouching.
+  No artificial HDR.
+  No fake luxury effects.

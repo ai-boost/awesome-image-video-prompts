@@ -1,0 +1,24 @@
+id: gpt-image-droplet-mascot-robot-high-five-studio
+title:
+  en: Droplet mascot high fives robot in art studio
+  zh: 蓝色水滴吉祥物与机器人在画室击掌
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- illustration
+- mascot
+- robot
+- art-studio
+source:
+  name: '@FellMentKE on X'
+  url: https://x.com/FellMentKE/status/2049879410170560611
+  credit: FELIX
+  captured: '2026-10-29'
+  posted: '2026-04-30'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Exact counts for brush cups, robots and tablets plus a quoted poster line give the scene checkable structure. Layering the foreground table, midground robots and the window garden with named soft morning light keeps the composition readable.
+  zh: 精确的数量（笔刷杯、机器人、数位板）和海报上的指定文字，让画面有可核对的结构。按前景桌面、中景机器人和窗外花园分层描述，并指定柔和晨光，使构图清晰易读。
+prompt: |
+  A warm, whimsical digital illustration of a cozy sunlit art studio showing a friendly collaboration between a cute blue water-drop mascot and cheerful white-and-teal robots. In the foreground, a large wooden worktable is covered with art supplies and finished sketches: exactly 3 paintbrush cups, multiple pencils and pens, watercolor palettes, small paint jars, loose character drawings, and 2 digital drawing tablets. At the center of the table, one large horizontal pen-display tablet shows a colorful pastel illustration in progress. The blue droplet character, with glossy rounded body, tiny arms, rosy cheeks, and a happy open smile, sits on the left holding a paintbrush and giving a high-five to a humanoid robot seated on the right. The robot has a smooth white body with teal glowing accents, a dark face screen with bright cyan smiling eyes, and one hand touching the tablet while the other meets the mascot’s hand, with small celebratory spark lines around the high-five. In the midground on the right, exactly 2 more robots are visible: one seated beside a human artist and one partially visible in the lower-right corner drawing on paper. The human artist is seen from behind, hair in a bun, sitting at a desk near the window and working on a tablet. The studio is filled with cozy decorative details: a large framed poster on the left wall reading "The Perfect Match: Skywork x GPT-Image-2", a bookshelf packed with books and cute objects, potted plants throughout the room, framed mini art prints, wall shelves with jars and decor, hanging bunting in the upper left, a teal pendant lamp above the table, and a large window on the right with cream curtains revealing a bright garden, fence, and soft greenery outside. Use soft golden morning light, pastel colors, polished children’s-book-style rendering, clean linework, gentle shading, inviting creative atmosphere, highly detailed props, and a polished cinematic composition that feels like an uplifting promotional illustration for Skywork x GPT-Image-2.

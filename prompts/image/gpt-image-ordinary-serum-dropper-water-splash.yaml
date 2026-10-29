@@ -1,0 +1,24 @@
+id: gpt-image-ordinary-serum-dropper-water-splash
+title:
+  en: The Ordinary serum dropper bottle splashing in blue water
+  zh: The Ordinary 精华滴管瓶置于蓝色水花中
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- skincare
+- product-photography
+- water-splash
+- advertising
+source:
+  name: '@AI_with_Lyra on X'
+  url: https://x.com/AI_with_Lyra/status/2092116220912771292
+  credit: Lyra AI
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the subject count and placement with explicit numbers and corner positions for the bottle, splash, droplets and leaves. Macro lens, shallow depth of field and caustic light cues give it a premium beauty campaign look.
+  zh: 用精确数量和方位词锁定画面元素，例如 1 个瓶子、位于四个角落的 4 片叶子，再加上微距、浅景深和焦散光等摄影语汇，形成高端美妆广告的质感。
+prompt: |
+  Create an ultra-realistic cinematic luxury skincare advertisement in a vertical 9:16 frame. Show one premium clear glass serum dropper bottle of The Ordinary suspended at a slight diagonal angle in crystal-clear blue water, emerging from the center of a dramatic crown-shaped splash. The bottle has a transparent cylindrical glass body, pale aqua serum inside, a minimalist white label with small black skincare text, a white ribbed screw cap, and a soft white rubber pipette; keep the label, proportions, cap, and branding crisp and readable while the surrounding motion feels dynamic. Count exactly 1 product bottle, 1 main water splash crown around it, many realistic floating droplets, and 4 large out-of-focus green leaves framing the scene: one upper left, one top center edge, one upper right, and one lower left foreground. Use warm sunlight, teal-blue background bokeh, glossy reflections, caustic light patterns on the water surface, realistic glass refraction, sharp focus on the product, shallow depth of field, macro product photography, slow-motion frozen-action feeling, premium beauty campaign aesthetic, 4K UHD detail. No extra text, no watermark, no distortion, no hands, no additional products.

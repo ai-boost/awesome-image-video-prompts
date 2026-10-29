@@ -1,0 +1,179 @@
+id: nano-banana-base-weekly-recap-logo-grid
+title:
+  en: Base weekly recap as logo tiles by section
+  zh: Base 周报按板块排列的标志方块
+model: Nano Banana 2.1
+mode: text-to-image
+category: infographic
+tags:
+- weekly-recap
+- logo-grid
+- crypto-news
+source:
+  name: '@BaseHubHB on X'
+  url: https://x.com/BaseHubHB/status/2108996198862643330
+  credit: Base Hub 🛡️
+  likes: 92
+  captured: '2026-10-29'
+  posted: '2026-10-10'
+notes:
+  en: The prompt lists each section with its account handles, so the model turns every handle into a logo tile under a boxed section header. Keeping each full handle in the text lets each logo match its name.
+  zh: 提示词按板块列出每个账号的完整名称，模型据此为每个账号生成标志方块，并放在带标题的分区框内。保留完整的账号文字，让标志与名称一一对应。
+prompt: |
+  📄 Base Weekly Recap
+
+  What happened on
+  @base
+   this week
+
+  NEWS
+
+  ■
+  @base
+   selected 10 teams for Base Batches 004 from more than 750 applications.
+
+  ■
+  @base
+   added 26 tokenized stocks for eligible users outside the US.
+
+  ■
+  @base
+   partnered with SMBC Nikko on an institutional DeFi gateway for Japan.
+
+  ■
+  @base
+   enabled stablecoin checkout through Yuno.
+
+  ■
+  @buildonbase
+   opened Cobalt TEE signer registration with B20 enhancements.
+
+  ■
+  @CoinbaseMarkets
+   put Pons spot trading live.
+
+  ■
+  @CoinbaseDev
+   and Gennius started bringing digital-asset services to banks in Latin America.
+
+  STATS
+
+  ■
+  @OpenGradient
+   crossed 1M private prompts and 12B processed tokens.
+
+  ■
+  @Morpho
+   crossed $17B in deposits.
+
+  ■
+  @aeroxyz
+   recorded $1.9B in tokenized-stock volume over 90 days.
+
+  ■
+  @iPodAAPLc
+   opened $30K in Apple stock rewards.
+
+  ■
+  @feeldotcash
+   announced a $25K stock-rewards race.
+
+  ECOSYSTEM
+
+  ■
+  @zothdotio
+   launched zMAG7, one deposit holding seven tokenized tech stocks.
+
+  ■
+  @lucamoneyapp
+   expanded its digital-dollar app to tokenized stocks for more than 100K users.
+
+  ■
+  @baibai_cx
+   added Coinbase Tokenized Stocks on Base.
+
+  ■
+  @RIFTHQ
+   went live with one-click routing into Base with no added fees.
+
+  ■
+  @Credifi
+   launched zkTLS credit verification through its iOS app and Chrome extension.
+
+  ■
+  @RennFinance
+   entered Base Batches 004 with stock-borrowing protection.
+
+  ■
+  @norafinancexyz
+   launched Reserva with 100% CDI yield for Brazilian users.
+
+  ■
+  @get_grow_app
+   added access to 93 London Stock Exchange stocks.
+
+  ■
+  @DefinitiveFi
+   added take-profit orders to its mobile app.
+
+  ■
+  @harvest_finance
+   launched stock autocompounders for Coinbase Tokenized Stocks.
+
+  ■
+  @MeatMETAc
+   opened a Meta stock vault with 24.9% APY.
+
+  ■
+  @Uptopia_xyz
+   placed its first bid for Base Batches 004.
+
+  ■
+  @Zyfai_
+   added new Base routing paths.
+
+  ■
+  @Beezie
+   made its Grail+ collector event available to Base users.
+
+  ■
+  @aave
+   added syrupUSDC as collateral through Aave V4 on Arc.
+
+  AI
+
+  ■
+  @AskVenice
+   added anonymous Nano Banana 2.1 and Claude Haiku access.
+
+  ■
+  @openservai
+   reached 100% reliability across 2,400 Neol evaluations.
+
+  ■
+  @KorProtocol
+   ranked in the top two for x402 volume across chains.
+
+  ■
+  @PRXVTai
+   shipped px402 v2 for private agent payments.
+
+  ■
+  @usedotai
+   added private Mistral Large 4 with no logs.
+
+  ■
+  @virtuals_io
+   introduced Butler for automated portfolio rebalancing.
+
+  ■
+  @1clawAI
+   added prompt-injection scoring, secret redaction, and exfiltration alerts.
+
+  ■
+  @BlockRunAI
+   added batch x402 payments for AI model access.
+
+  ■
+  @openroboto
+   improved LIBERO-Pro from 50.3 to 89.7 in 30 days.

@@ -1,0 +1,24 @@
+id: seedance-time-machine-future-scientist
+title:
+  en: Scientist beside glowing time machine in dark lab
+  zh: 科学家站在发光时光机旁的昏暗实验室
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- sci-fi
+- thriller
+- countdown
+- time-machine
+source:
+  name: '@iam_nafisahmed on X'
+  url: https://x.com/iam_nafisahmed/status/2088964392528527702
+  credit: iam_nafisahmed
+  captured: '2026-10-29'
+  posted: '2026-08-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/iam_nafisahmed/status/2088964392528527702
+notes:
+  en: A timed beat sheet with an explicit countdown and a cut to black before a white flash gives the model a clear pacing structure. Ending phrases such as realistic physics and subtle film grain anchor the look to live-action cinema.
+  zh: 用带时间点的分镜逐拍描述，并写明倒计时与黑场闪白的收尾，让模型有清晰的节奏结构。结尾用真实物理和细微胶片颗粒等词，把画面锁定在实拍电影的质感上。
+prompt: "He built a machine that could see 10 seconds into the future.\n\nThen he saw himself standing behind him.\n\nCreate your version on @budgetpixel  using Seedance 2.5 \n\nPrompt below if you want to make your own.\U0001F447\n\n\"Create a 10-second photorealistic cinematic sci-fi thriller.\n\nA young scientist stands inside a dark futuristic laboratory beside a glowing experimental time machine. He activates it and sees exactly 10 seconds into the future.\n\nAt first, he smiles in amazement as the machine shows the laboratory still intact.\n\nSuddenly, the future image changes.\n\nThe same laboratory is now completely destroyed—glass shattered, machines burning, sparks flying, smoke everywhere.\n\nThe scientist looks around in panic.\n\nA countdown appears on the machine: 10... 9... 8... 7...\n\nHe notices the machine's glowing energy core rapidly overheating.\n\n3... 2... 1...\n\nHe realizes the machine is about to explode.\n\nThe screen instantly cuts to black as a massive white\
+  \ flash fills the laboratory.\n\nUltra-photorealistic, cinematic sci-fi thriller, realistic futuristic laboratory, dramatic lighting, realistic fire and sparks, intense suspense, fast pacing, believable technology, realistic physics, cinematic camera movement, premium Hollywood VFX, subtle film grain, highly detailed, 4K.\n\nNo subtitles, no logos, no watermark, no cartoon style.\"\n"

@@ -1,0 +1,59 @@
+id: nano-banana-leopard-swimsuit-disco-cube
+title:
+  en: Woman in leopard swimsuit on disco cube
+  zh: 豹纹泳装女子站在迪斯科方块上
+model: Nano Banana 2.1
+mode: text-to-image
+category: realism
+tags:
+- json-prompt
+- low-angle
+- night-event
+- photorealistic
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2114097366823551024
+  credit: KeorUnreal
+  likes: 118
+  captured: '2026-10-29'
+  posted: '2026-10-24'
+notes:
+  en: A structured JSON prompt separates subject, outfit, setting, lighting and camera into fields so each element stays controlled. The low-angle full-body framing with warm string-light highlights gives the photorealistic night event look.
+  zh: 结构化 JSON 把主体、服装、场景、灯光和镜头分成独立字段，让每个元素都保持可控。低角度全身构图加上暖色串灯高光，营造真实的夜间活动摄影质感。
+prompt: |
+  {
+   "subject": {
+   "description": "Young woman with fair skin, long black hair, looking slightly upward with a soft expression",
+   "hair": "Long wavy black hair ponytail falling over her shoulders",
+   "body": "Slender yet curvy figure",
+   "pose": "She's on top of a disco cube, Standing upright, arms relaxed at her sides, body facing slightly to the side",
+   "expression": "Calm, slightly smiling gaze"
+   },
+   "outfit": {
+   "swimsuit": "leopard one-piece swimsuit with a deep neckline and high-cut legs",
+   "headwear": "Large white wide-brim hat",
+   "footwear": "Leopard glossy high heels"
+   },
+   "secondary_subject": {
+   "description": "Person in an electric zebra elephant mascot head with white tusks, black sunglasses featuring a white X, wearing a red tracksuit jacket with yellow stripes and a large gold chain",
+   "placement": "Standing to the left of behind the woman, partially in the foreground under the disco cube"
+   },
+   "setting": {
+   "location": "Outdoor night event or party",
+   "background": "Dark sky, string lights overhead, red and yellow ambient lighting, distant crowd and structures",
+   "added_element": "Neon disco-style writing reading 'Keor' glowing in the backdrop"
+   },
+   "lighting": {
+   "type": "Nighttime event lighting with string lights and neon glow",
+   "effects": "Warm string-light highlights on skin and clothing, colorful neon illumination from the 'Keor' sign"
+   },
+   "camera": {
+   "angle": "Low angle looking up at the standing subjects",
+   "framing": "Full-body shot of the woman with the elephant mascot beside her",
+   "style": "Photorealistic, high-detail event photography, sharp focus"
+   },
+   "additional_details": {
+   "skin": "Smooth with a natural night-event sheen",
+   "atmosphere": "Playful nighttime party scene with a mascot"
+   }
+  }

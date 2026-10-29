@@ -1,0 +1,29 @@
+id: gpt-image-harry-potter-cast-selfie-hogwarts-library
+title:
+  en: Harry Potter cast selfie in Hogwarts library
+  zh: 霍格沃茨图书馆中的哈利波特群体自拍
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- fan-art
+- selfie
+- group-portrait
+- film-look
+source:
+  name: '@RuzainaMeer on X'
+  url: https://x.com/RuzainaMeer/status/2082052362428989936
+  credit: Ruzaina
+  captured: '2026-10-29'
+  posted: '2026-07-28'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A first person wide angle selfie framing, with the shooter's arm in the foreground, pulls the viewer into the group as if they were standing there. The film stock (Kodak Portra 400), 24mm lens and warm candlelight colour grading supply the cinematic realism, while the explicit costume colours set the palette.
+  zh: 第一人称广角自拍构图，前景的手臂把观众拉进合影之中。胶片型号（Kodak Portra 400）、24mm 镜头和暖色烛光调色共同营造电影般的真实感，服装颜色则明确了整体色调。
+prompt: |
+  Ultra-realistic photograph, wide-angle selfie from a first-person perspective.
+  A young woman stands in the center foreground taking a selfie with Harry Potter, Hermione Granger, Ron Weasley, Ginny Weasley, and Professor Dumbledore. Everyone is smiling naturally while wearing Gryffindor robes with rich burnt-orange and deep crimson accents, luxurious scarves, and elegant wizard uniforms.
+  The scene takes place inside the Hogwarts library filled with towering wooden bookshelves, floating candles, glowing fireplaces, antique furniture, magical artifacts, and warm amber lanterns. Soft orange candlelight fills the room, creating a nostalgic golden atmosphere with cozy cinematic lighting.
+  The background features shallow depth of field with creamy bokeh while every face remains razor sharp.
+  Captured with Kodak Portra 400 color science, 24mm wide-angle lens, natural skin tones, ultra-realistic facial details, cinematic orange color grading, subtle film grain, HDR lighting, photorealistic, 8K.
+  Aspect Ratio: 2:3

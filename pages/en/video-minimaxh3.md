@@ -1,6 +1,6 @@
 # MiniMax H3
 
-[Back to the list](../../README.md) · All 80 entries
+[Back to the list](../../README.md) · All 93 entries
 
 <a id="h3-character-detail-montage"></a>
 ### Twenty shot character detail montage, face revealed last
@@ -146,6 +146,43 @@ integrated_multimodal_description: [Shot 1] Classic Japanese 2D flat-vector expl
 
 </details>
 
+<a id="h3-joey-chandler-ai-couch-scene"></a>
+### Joey and Chandler on Central Perk couch with coffee
+
+<a href="https://x.com/TechieBySA/status/2084600512180113820"><img src="../../previews/h3-joey-chandler-ai-couch-scene.jpg" width="360"></a>
+
+Dialogue is written as labelled lines with a stage direction between beats, so the model gets timing and pauses as well as the lines. The style line sets the era, a steady handheld camera and deadpan performances, and the closing hold instruction fixes the final beat on Chandler's face.
+
+MiniMax H3 · Text-to-video · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2084600512180113820) · 755 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`sitcom`](tags.md#tag-sitcom) [`dialogue`](tags.md#tag-dialogue) [`handheld`](tags.md#tag-handheld) [`comedy`](tags.md#tag-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+“Joey and Chandler sit side by side on the couch with coffee cups. Joey turns to Chandler with a completely sincere, concerned expression.
+
+DIALOGUE:
+
+JOEY: “Could AI replace us?”
+
+Chandler slowly looks up from his coffee. Pauses. Looks Joey dead in the eye.
+
+CHANDLER: “Joey, AI cannot replace you. Nothing can replace you.”
+
+Joey nods slowly. Visibly relieved. Processing.
+
+JOEY: “Because I’m too good?”
+
+Chandler stares at him. Long beat. He looks down at his coffee, then back up.
+
+CHANDLER: “…Sure. Let’s go with that.”
+
+STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, characters in casual clothing. Joey played completely straight — zero irony. Chandler delivers every line with exhausted deadpan sarcasm. Hold on Chandler’s face after the final line for a full beat before cut.”
+```
+
+</details>
+
 <a id="h3-anime-football-player-stats-ui-animation"></a>
 ### Anime football player stats screen animating in
 
@@ -176,6 +213,42 @@ Create a polished 15-second anime sports-game player stats screen opening. Use o
 Use crisp premium game-UI motion, clean 2D anime character animation, subtle depth between Kaze and the interface, and stable legible typography. Keep every panel, icon, label, number, and geometric boundary fixed once revealed. Do not introduce new text, extra characters, additional objects, logos, captions, or UI elements.
 
 Audio: low electronic boot hum, delicate scanning ticks, short confirmation tones as values lock, rising airy wind around the ball, soft cloth movement, and one refined completion chime. No dialogue and no music.
+```
+
+</details>
+
+<a id="h3-jesse-digging-office-crossover"></a>
+### Jesse digging a deep hole in a suburban yard
+
+<a href="https://x.com/WolfRiccardo/status/2084402067120988527"><img src="../../previews/h3-jesse-digging-office-crossover.jpg" width="360"></a>
+
+Each beat is timestamped with its own camera, action and sound cues, so one prompt drives a 15 second scene in order. Spoken lines sit inside their beat with the speaker and emotion named, which keeps dialogue and expressions in sync with the shot.
+
+MiniMax H3 · Text-to-video · Source: [@WolfRiccardo on X](https://x.com/WolfRiccardo/status/2084402067120988527) · 615 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`minimax-h3`](tags.md#tag-minimax-h3) [`crossover`](tags.md#tag-crossover) [`dialogue`](tags.md#tag-dialogue) [`handheld`](tags.md#tag-handheld) [`timestamped-shots`](tags.md#tag-timestamped-shots)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The Office & Breaking Bad.
+0:00–0:04 — Medium-wide handheld shot. Jesse angrily throws several shovelfuls of dirt into the deep hole. Realistic shovel impacts, scattering dirt, and heavy breathing. Dwight suddenly walks into frame, studies the hole suspiciously, and adjusts his glasses.
+
+0:04–0:07 — Dwight looks down at Jesse with a smug, sarcastic expression and says:
+
+“Hello, little man. Digging your own grave?”
+
+0:07–0:11 — Jesse immediately stops digging, slowly turns toward Dwight, and tightly grips the shovel. With an angry, threatening expression, he replies:
+
+“No, no, no… I’m digging it for you. Just like I did for Michael.”
+
+0:11–0:15 — Dwight’s confidence instantly collapses. His face fills with horror, his eyes widen, and he begins crying and panicking dramatically. He grabs Jesse by the shoulders and screams:
+
+“No! What did you do to Michael?! Where is he? Tell me now!”
+
+Jesse remains completely emotionless, silently staring at Dwight while holding the shovel. The video ends abruptly on Dwight’s terrified face. 
+
+#Flovaai #Flovacpp @Flovaai @Flovaai_Japan
 ```
 
 </details>
@@ -370,6 +443,63 @@ The final video should feel cute, educational, memorable, calming, and exception
 
 </details>
 
+<a id="h3-office-michael-whiteboard-mockumentary"></a>
+### Michael Scott presents at the Dunder Mifflin whiteboard
+
+<a href="https://x.com/Arminn_Ai/status/2084387316286595436"><img src="../../previews/h3-office-michael-whiteboard-mockumentary.jpg" width="360"></a>
+
+The prompt sets the mockumentary look with a handheld camera and snap zooms, then splits the scene into timed beats with one dialogue line per beat so the cuts read like real editing. A closing STYLE line tells the model a documentary crew is present and characters occasionally glance at the lens.
+
+MiniMax H3 · Text-to-video · Source: [@Arminn_Ai on X](https://x.com/Arminn_Ai/status/2084387316286595436) · 447 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`mockumentary`](tags.md#tag-mockumentary) [`sitcom`](tags.md#tag-sitcom) [`dialogue`](tags.md#tag-dialogue) [`handheld-camera`](tags.md#tag-handheld-camera)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The Office (US) mockumentary style. Dunder Mifflin conference room,
+mid-afternoon, harsh fluorescent lighting, cheap office chairs,
+whiteboard at the front. Handheld documentary camera, slightly
+unsteady, with sudden reframes and quick zooms toward whoever is
+reacting.
+
+Michael Scott stands at the whiteboard, overly excited, marker in
+hand, badly drawn diagram behind him. The staff sit around the table
+looking exhausted. Stanley Hudson sits at the far end, glasses on,
+head down over a folded crossword puzzle, completely disengaged.
+
+DIALOGUE:
+
+MICHAEL (loud, proud): "Okay everybody, listen up. Large language
+models. L-L-Ms. This is the future of the paper industry."
+
+Beat. Nobody reacts. Camera pushes in slowly on Stanley — he does not
+look up, does not blink, keeps filling in his crossword.
+
+MICHAEL: "Which is why corporate is giving a bonus to whoever—"
+
+Instant snap zoom to Stanley. His head lifts. He takes off his
+glasses. Dead serious.
+
+STANLEY: "I'm listening."
+
+MICHAEL (waving him off): "—anyway. Moving on. Next topic. Prompt
+engineering."
+
+Snap zoom back to Stanley. He immediately puts his glasses back on,
+lowers his head, and returns to the crossword as if nothing happened.
+
+Cut to Jim, who slowly turns his head and looks directly into the
+camera lens with a flat, knowing expression. Hold for two seconds.
+
+STYLE: single-camera sitcom shot like a documentary crew is present,
+natural performances, no laugh track, muted office color palette,
+slightly soft consumer-camera look, characters occasionally glancing
+at the lens.
+```
+
+</details>
+
 <a id="h3-pink-poster-character-walks-railway-text-path"></a>
 ### Character walks through pink poster with railway text path
 
@@ -533,6 +663,43 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 </details>
 
+<a id="h3-sprite-golf-hole-in-one-spot"></a>
+### Golfer sips Sprite before a hole in one
+
+<a href="https://x.com/sophiaparkerr_/status/2106337250346664007"><img src="../../previews/h3-sprite-golf-hole-in-one-spot.jpg" width="360"></a>
+
+A timed beat sheet with per second ranges, explicit cuts, whip pans and speed ramps lets the model pace a 15 second spot. Onomatopoeia like PSHHHT and CRACK is written into the action so the sound lines up with the edits.
+
+MiniMax H3 · Text-to-video · Source: [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2106337250346664007) · 303 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`sports-ad`](tags.md#tag-sports-ad) [`multi-shot`](tags.md#tag-multi-shot) [`speed-ramp`](tags.md#tag-speed-ramp) [`product-shot`](tags.md#tag-product-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+0–2s — THE SIP
+Fast close-up of the ginger-haired golfer on a sunny golf course. She grabs the Sprite can, cracks it open — PSHHHT! — condensation and tiny droplets flying in slow motion. She takes a refreshing sip and gives a confident little smirk.
+2–4s — GAME ON
+Hard cut. She tosses the Sprite can slightly upward, catches it, grabs her golf club, and steps into position. Quick whip-pan around her as sunlight flashes across the frame.
+
+4–7s — THE SWING
+Rapid montage: close-up of her gripping the club → golf ball on the tee → her eyes locking onto the ball → skirt and ponytail moving as she swings. She hits the ball with a powerful, perfectly timed CRACK!
+7–10s — FOLLOW THE BALL
+Ultra-fast camera follows the golf ball flying across the bright green course. Speed ramp as it passes trees and sunlight, then lands perfectly near the hole.
+
+10–12s — HOLE IN ONE
+She watches it drop into the hole. Quick reaction shot: she smiles, spins the club casually, and walks toward the camera like she absolutely knew that was happening.
+12–15s — HERO SHOT
+She grabs the cold Sprite can again and takes another sip. Camera pushes in as she lowers the can, smiling confidently. Condensation sparkles in the sunlight. End on a clean product close-up of the Sprite can beside the golf ball.
+
+On-screen text:
+“REFRESH. RELOAD. PLAY.”
+SPRITE — THIRSTY FOR MORE.
+Fast cuts, energetic commercial pacing, whip transitions, speed ramps, crisp summer lighting, realistic golf physics, dynamic camera movement, refreshing splash effects, premium sports-ad aesthetic.
+```
+
+</details>
+
 <a id="h3-four-city-outfit-change-depth-reference"></a>
 ### Four city outfit change with depth reference
 
@@ -578,6 +745,47 @@ Keep the city UI style consistent; update both location labels at each city chan
 The angle in Picture 6 describes identity only, NOT a fixed head pose. Face direction, expression, head tilt, hand gestures and full body movement follow Video 1, with each completed city presentation matching its corresponding scene picture.
 
 In Paris the sunglasses are opaque black and fully cover both eyes and eye sockets. Keep the sunglasses on throughout the Paris presentation. At the Rome transformation, switch to the accessories shown in Picture 3.
+```
+
+</details>
+
+<a id="h3-office-break-room-mockumentary-argument"></a>
+### Michael and Dwight argue in mockumentary break room
+
+<a href="https://x.com/Arminn_Ai/status/2084619631742837115"><img src="../../previews/h3-office-break-room-mockumentary-argument.jpg" width="360"></a>
+
+A scene by scene shot list with handheld camera direction, a snap zoom to whoever reacts, and a final cut to a reaction shot, so the camera sets the timing. Each line carries its speaker and delivery cue, and the STYLE block rules out music and laugh track so the audio stays as natural room tone.
+
+MiniMax H3 · Text-to-video · Source: [@Arminn_Ai on X](https://x.com/Arminn_Ai/status/2084619631742837115) · 295 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`sitcom`](tags.md#tag-sitcom) [`dialogue`](tags.md#tag-dialogue) [`handheld-camera`](tags.md#tag-handheld-camera) [`character-scene`](tags.md#tag-character-scene)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The Office (US) mockumentary style. Dunder Mifflin break room, mid-afternoon, flat fluorescent lighting, vending machine, cheap
+round table, coffee pot. Handheld documentary camera, slightly
+unsteady, deep focus, one continuous setup with a sudden snap zoom
+toward whoever is reacting.
+Michael Scott and Dwight Schrute stand on opposite sides of the small
+table, mid-argument. Michael is animated and enthusiastic. Dwight is
+rigid, intense, deadly serious.
+DIALOGUE:
+MICHAEL (excited): "AI is the future, Dwight."
+DWIGHT (sharp): "It's a threat. I challenged it to an endurance test.
+It refused."
+MICHAEL: "It wrote my performance review in nine seconds."
+DWIGHT: "I could've done it in seven."
+Snap zoom to Michael. He puts down his mug.
+MICHAEL (voice climbing, wounded, slapping the table): "It listens to
+me! Which is more than anyone here does!"
+Hard silence. Both men frozen.
+Cut to Jim Halpert at his desk. He slowly turns his head and looks
+directly into the camera lens. Hold for two seconds. End.
+STYLE: single-camera sitcom shot as if a documentary crew is present,
+natural performances, no laugh track, muted office color palette,
+slightly soft consumer-camera look, dry deadpan comedic timing, no
+music, ambient room tone only.
 ```
 
 </details>
@@ -922,6 +1130,25 @@ Finish with a dramatic push toward the CHUNG LEE title, then pull back to reveal
 No redesign. No new text. No distorted typography. Preserve the original poster — just make it move.
 
 Animation made with Minimax H3
+```
+
+</details>
+
+<a id="h3-audionic-airbud-850-city-walk-ad"></a>
+### Silver earbuds ad: city walk to product hero shot
+
+<a href="https://x.com/ayzalnooor24521/status/2087042771257540945"><img src="../../previews/h3-audionic-airbud-850-city-walk-ad.jpg" width="360"></a>
+
+The prompt is written as a timed shot sequence: a product close up first, then a walking segment with bokeh and a pop song cue, then one clean hero frame. Naming what to leave out (phone screen, discount text, end card) keeps the ending from drifting into a generic ad template.
+
+MiniMax H3 · Text-to-video · Source: [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2087042771257540945) · 223 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`product-ad`](tags.md#tag-product-ad) [`earbuds`](tags.md#tag-earbuds) [`city-walk`](tags.md#tag-city-walk) [`bokeh`](tags.md#tag-bokeh) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start with a close-up of the silver earbuds and case, then show a stylish Korean girl wearing them and walking through a luxurious Korean shopping street while enjoying a modern Korean K-pop song. Use beautiful city lights, soft bokeh, elegant fashion, natural expressions and smooth cinematic camera movement. End with one clean hero shot of the silver earbuds and case only. No phone screen, Bluetooth connection, discount text, logo end card or extra ending scene.
 ```
 
 </details>
@@ -1409,6 +1636,41 @@ Prompt idea - @umesh_ai #MiniMaxH3
 
 </details>
 
+<a id="h3-oreo-twist-cream-macro-commercial"></a>
+### Oreo cookie twist with cream and crumbs
+
+<a href="https://x.com/itxabdullaa/status/2097647954354160120"><img src="../../previews/h3-oreo-twist-cream-macro-commercial.jpg" width="360"></a>
+
+The prompt splits 15 seconds into named beats such as ALMOST TWIST, REWIND and TENSION, so the model gets a shot-by-shot script in one clip. Each beat pairs a camera move with a material cue like stretching cream or suspended crumbs, which keeps the macro look concrete.
+
+MiniMax H3 · Text-to-video · Source: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2097647954354160120) · 145 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`food-commercial`](tags.md#tag-food-commercial) [`macro`](tags.md#tag-macro) [`slow motion`](tags.md#tag-slowmotion) [`brand-ad`](tags.md#tag-brand-ad)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A premium 15-second 3:4 vertical commercial for OREO blending cinematic blockbuster action with extreme macro food photography. Hyper-realistic 8K, 120fps slow-motion, anamorphic lens flares, dynamic camera movements.
+
+ALMOST TWIST: Extreme macro shot of an OREO cookie twisting at the climax of separation, the dark chocolate cookie surface micro-cracking, creamy vanilla filling stretching between both halves, tiny cookie particles suspended in mid-air.
+
+REWIND: Time reverses instantly with a kinetic motion-blur rewind effect; crumbs fly back, cream reconnects, cracks seal, time resets.
+
+COOKIE: Macro tracking shot diving across the razor-sharp ridges and embossed OREO pattern, pristine baked texture, rich cocoa tones, microscopic crumbs vibrating along the edges.
+
+CREAM: A silky wave of brilliant white vanilla cream spreads dramatically between the two chocolate cookie halves in extreme slow-motion, smooth realistic food physics, glossy creamy texture contrasting against the dark cookie.
+
+EMBOSSING:Camera sweeps vertically as the iconic OREO embossed logo and decorative pattern emerge in perfect detail across the chocolate cookie surface, dramatic highlights revealing every texture.
+
+HERO:Low-angle cinematic hero shot of an iconic OREO package opening smoothly, revealing pristine OREO cookies glowing under dramatic studio lighting, rich blue packaging illuminated by cinematic rim light.
+
+TENSION: Macro split-screen tension; hands holding the OREO cookie from both sides, extreme close-up on the cream stretching under rising twisting force, low-frequency sound rumble building anticipation.
+
+ TWIST & PAYOFF: Iconic clean twist in ultra slow-motion, the cookie halves separating perfectly with a satisfying creamy stretch and crisp sound payoff, ending on a pristine hero product shot with bold text "TWIST, LICK, DUNK." Cinematic lighting, volumetric fog, photorealistic, 8K resolution, premium commercial aesthetic, 3:4 aspect ratio.
+```
+
+</details>
+
 <a id="h3-kinetic-kanji-motion-graphics-street-dancer-cm"></a>
 ### Kinetic kanji motion graphics ad with street dancer
 
@@ -1586,6 +1848,25 @@ No dialogue and no music. Deep dragon breathing, restrained growl, heavy echoing
 
 STRICT CONSISTENCY:
 Exactly one dragon and one rider. The rider is seated on the dragon from the beginning and never disappears. No additional people, dragons or creatures. No dragon transformation or colour change. No extra heads, horns, tails, wings, legs or riders. The wings remain folded inside the cave and open only after the dragon has completely cleared the cave mouth. The wings must not clip through the cave walls. The rider must not float above the saddle or merge into the dragon. No fire breathing, combat, dialogue, text, logos, blood or visible injuries.
+```
+
+</details>
+
+<a id="h3-lotr-sitcom-legolas-gimli-argument"></a>
+### Legolas and Gimli bicker in a sitcom living room
+
+<a href="https://x.com/aimikoda/status/2086782084723405173"><img src="../../previews/h3-lotr-sitcom-legolas-gimli-argument.jpg" width="360"></a>
+
+The prompt sets the sitcom format first, then fixes each character's seat and prop so the model keeps two stable positions. Alternating shared wide shots with individual close-ups gives the video a sitcom cutting rhythm.
+
+MiniMax H3 · Text-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2086782084723405173) · 116 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`sitcom`](tags.md#tag-sitcom) [`dialogue`](tags.md#tag-dialogue) [`multi-shot`](tags.md#tag-multi-shot) [`lord-of-the-rings`](tags.md#tag-lord-of-the-rings)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+the lord of the rings as a sitcom, legolas and gimli arguing about how many orcs they hunted
 ```
 
 </details>
@@ -2318,6 +2599,144 @@ Maintain consistent facial features, hairstyle, outfit, and body proportions thr
 
 </details>
 
+<a id="h3-alexa-fan-halloween-outfit-changes"></a>
+### Ceiling fan rotation reveals five Halloween costumes
+
+<a href="https://x.com/MonetizationDon/status/2108957560707457178"><img src="../../previews/h3-alexa-fan-halloween-outfit-changes.jpg" width="360"></a>
+
+A fixed overhead camera and one slow fan rotation per outfit act as the scene cut, so each costume change is hidden behind the blades. Pinning the face and body to a master character reference, while holding the pose and room constant, keeps the subject consistent across all five reveals.
+
+MiniMax H3 · Reference-to-video · Source: [@MonetizationDon on X](https://x.com/MonetizationDon/status/2108957560707457178) · 86 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`halloween`](tags.md#tag-halloween) [`fashion`](tags.md#tag-fashion) [`fan-transition`](tags.md#tag-fan-transition) [`overhead-camera`](tags.md#tag-overhead-camera)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a photorealistic cinematic Halloween fashion transformation video featuring Alexa Grey, using the supplied Alexa Grey Master Character Lock as the exact identity reference.
+
+Alexa is lying in the exact same relaxed pose on a vintage Persian rug in a dark, elegant Halloween-decorated living room.
+
+CAMERA:
+Fixed directly overhead.
+Perfect top-down composition.
+No camera movement.
+No cuts.
+No zoom.
+No change in angle.
+Alexa remains in exactly the same position throughout the entire video.
+
+A large wooden ceiling fan is positioned directly between the camera and Alexa.
+
+THE TRANSITION CONCEPT IS EXTREMELY IMPORTANT:
+
+The ceiling fan rotates VERY SLOWLY.
+
+ONE COMPLETE SLOW ROTATION OF THE CEILING FAN = ONE OUTFIT CHANGE.
+
+As the fan completes one slow rotation, its blades naturally sweep across the camera's view and temporarily obscure Alexa.
+
+When that ONE complete rotation finishes and the fan returns to its original position, Alexa is revealed wearing ONE completely different Halloween costume.
+
+Then the fan makes another single slow rotation, revealing the next outfit.
+
+Do NOT make multiple outfit changes during one rotation.
+
+Do NOT make the fan spin rapidly.
+
+Do NOT use cuts, dissolves, flashes or digital transition effects.
+
+The fan itself must create the transformation.
+
+OUTFIT SEQUENCE:
+
+START:
+Alexa wears a simple elegant black outfit.
+
+ROTATION 1:
+One slow complete fan rotation.
+When the rotation finishes, reveal:
+
+GOTHIC WITCH
+Elegant black Victorian witch dress, dramatic pointed witch hat, dark lace, gothic accessories and mysterious Halloween styling.
+
+ROTATION 2:
+One slow complete fan rotation.
+Reveal:
+
+VAMPIRE QUEEN
+Elegant black-and-deep-red Victorian gown, dramatic cape, gothic jewelry and sophisticated vampire styling.
+
+ROTATION 3:
+One slow complete fan rotation.
+Reveal:
+
+DEMON QUEEN
+Elegant black-and-crimson gothic costume, subtle horns, dramatic dark textures and supernatural styling.
+
+ROTATION 4:
+One slow complete fan rotation.
+Reveal:
+
+FALLEN DARK ANGEL
+Elegant black gothic gown with enormous black feathered wings and dramatic dark angel styling.
+
+ROTATION 5:
+One slow complete fan rotation.
+Reveal:
+
+GHOST BRIDE
+Distressed vintage wedding gown, long torn veil, dark roses and haunting gothic styling.
+
+Every time the fan completes ONE slow rotation, Alexa must be fully revealed in the new outfit.
+
+The transition should feel almost magical and seamless, as if the rotating ceiling fan is changing her costume.
+
+Keep Alexa's exact face, hair, skin tone and body proportions unchanged.
+
+ENVIRONMENT:
+Dark luxury Halloween interior.
+Vintage Persian rug.
+Wooden floor.
+Pumpkins.
+Flickering candles.
+Old books.
+Skulls.
+Dark flowers.
+Subtle atmospheric fog.
+Warm orange candlelight.
+Deep cinematic shadows.
+Elegant gothic atmosphere.
+
+The environment remains exactly the same during every transformation.
+
+FINAL SHOT:
+After the fifth outfit is revealed, Alexa remains lying on the rug and slowly looks directly toward the camera while the ceiling fan continues its slow rotation.
+
+Photorealistic.
+Cinematic Halloween fashion film.
+Luxury horror aesthetic.
+Realistic skin and hair.
+Detailed costumes.
+Realistic fabric and feather textures.
+4K.
+16:9.
+
+NO TEXT.
+NO SUBTITLES.
+NO WATERMARK.
+NO EXTRA PEOPLE.
+NO CAMERA MOVEMENT.
+NO CUTS.
+NO FAST FAN MOTION.
+NO RANDOM OUTFIT CHANGES.
+
+KEY RULE:
+ONE SLOW COMPLETE FAN ROTATION → ONE NEW HALLOWEEN OUTFIT.
+```
+
+</details>
+
 <a id="h3-rural-bus-stop-night-camcorder-korean-woman"></a>
 ### Tired woman waits at rural night bus stop
 
@@ -3043,6 +3462,27 @@ Attackers hesitate, collide, and react naturally. Bystanders panic and move. So-
 
 </details>
 
+<a id="h3-riviera-quilted-bag-commercial"></a>
+### Grey quilted bag and two chain straps by pool
+
+<a href="https://x.com/Dustfinger2077/status/2086086171117969702"><img src="../../previews/h3-riviera-quilted-bag-commercial.jpg" width="360"></a>
+
+Each time window in the timeline gives one job to one shot, and the product reference is named as the sole source so the bag keeps its build. A closing list of banned changes such as merged straps, leather texture and a crossbody carry locks the details the model usually drifts on.
+
+MiniMax H3 · Reference-to-video · Source: [@Dustfinger2077 on X](https://x.com/Dustfinger2077/status/2086086171117969702) · 63 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`minimax-h3`](tags.md#tag-minimax-h3) [`product-fidelity`](tags.md#tag-product-fidelity) [`fashion-commercial`](tags.md#tag-fashion-commercial) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15 second, 16:9 luxury fashion commercial using @Image1@Image2 as exact visual references. @Image1 is the sole product reference. Preserve the bag’s exact proportions, pale grey white woven textile, irregular rectangular stitching, soft structure, curved flap, silver clasp, four black eyelets, side construction, zipper details, and hardware. Do not reinterpret it as leather. The bag has two separate short straps made from silver chain woven with matching textile. Preserve their exact construction, attachment points, resting positions, and maximum lengths. The front strap connects only the two front eyelets. The rear strap connects only the two rear eyelets. They must never cross, merge, disappear, duplicate, lengthen, or be rerouted. @Image2 is the exact character reference. Preserve the woman’s face, green eyes, straight blonde bob, natural proportions, and understated makeup. Dress her consistently in a sophisticated beige silk summer mini dress with a square neckline, narrow shoulder straps, fitted waist, and softly moving skirt. Add ivory slingback heels and small pearl earrings. The bag is the visual anchor throughout. It must always be the largest, brightest, sharpest, or most prominently framed element. The woman, hotel, landscape, and car are supporting elements only.
+0 to 1.75 seconds: Tight product shot of the bag alone on a sunlit limestone console beside a softly shimmering Riviera pool. Directional sunlight reveals the textile weave, stitching, two straps, four eyelets, side details, and clasp. 1.75 to 3.25 seconds: Keep the bag large and tack sharp in the foreground while the woman approaches through the bright hotel suite in soft focus. She has not touched it yet. 3.25 to 5 seconds: Extreme close up of her fingers lifting both straps together. Keep the front and rear straps visibly separate, correctly routed, and uncrossed. Show realistic chain tension, textile threaded through the links, and accurate hands. 5 to 7 seconds: She places both short straps together over one shoulder and wears the bag as a side shoulder bag. It hangs close beneath her arm, high against the side of her upper waist. It must never reach her hip or thigh. Both straps remain visibly separate, uncrossed, and at their true maximum length. 7 to 9 seconds: Close tracking shot through a sunlit hotel colonnade, composed mainly around the bag moving naturally against the beige silk dress. The straps respond realistically to her steps, shoulder movement, tension, and gravity. 9 to 11 seconds: The bag stands upright and tack sharp on a pale stone terrace table. Its two straps settle naturally and remain identifiable. The woman sits behind it in soft focus, looking toward the sea. 11 to 13 seconds: She carries the bag on one shoulder toward a cream vintage convertible. In a tight product focused montage, she opens the driver door, removes both straps from her shoulder, and carefully places the bag upright on the front passenger seat cushion. The bag’s entire base must rest directly on the horizontal cushion where a passenger sits. It is not on the backrest, headrest, seat edge, center console, or top of the seat. The passenger backrest rises behind it. Both straps settle naturally beside and partly behind the bag without disappearing. She enters the driver seat. Keep the car cropped and secondary. 13 to 15 seconds: The car moves along the Riviera coast. Keep the bag upright, large, and tack sharp on the passenger seat cushion while the woman holds steering wheel and drives in the soft background. The sea and road pass through the windows in gentle motion blur. Moving sunlight reveals the woven textile, stitching, eyelets, two distinct straps, and hardware. End with one controlled flash across the silver clasp.
+Use bright, fashion forward European luxury cinematography inspired by a restored 1990s campaign film. Directional Mediterranean sunlight, dimensional shadows, layered reflections, warm 35 mm grain, gentle haliation, creamy highlights, subtle film weave, natural motion blur, and tactile textile detail. Use elegant editorial cuts, realistic movement, accurate hands, and consistent spatial logic. Add a sophisticated original fashion score with crisp percussion, warm bass, airy electronic textures, subtle chain sounds, clasp click, silk movement, footsteps, coastal ambience, car door movement, and quiet engine sound. No dialogue. No product redesign, leather texture, colour change, altered stitching, missing or merged straps, crossed straps, extra straps, extended straps, changed eyelet routing, crossbody carry, low hip placement, warped chains, changed hardware, duplicated bag, distorted hands, outfit changes, blue dress, car hero shot, wide vehicle profile, empty road shot, incorrect seat placement, text, or subtitles.
+```
+
+</details>
+
 <a id="h3-gold-chain-rapper-audio-lipsync-multicut"></a>
 ### Gold chain rapper performing on a night street
 
@@ -3081,6 +3521,31 @@ MiniMax H3 · Text-to-video · Source: [@Kiber_Alla on X](https://x.com/Kiber_Al
 
 ```text
 Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natural daylight, photorealistic, looks like real footage filmed on location, high-end fashion film aesthetic, extreme detail, realistic skin texture, real fabric physics, subtle film grain. Continuous low angle tracking shot, camera smoothly moving backward as a beautiful young woman with long dark wind-blown hair walks and performs down a narrow sun-drenched urban alley between old textured stone buildings under deep blue sky. She wears a flowing milky white asymmetrical off-shoulder top and high-waist wide-leg technical cotton culottes with a thin rope belt. The wide pants and fabric move naturally and dramatically with the wind and her body. She sings with genuine joy, smiling and softly laughing, maintaining strong eye contact with the camera, while performing free, light dance elements — fluid arm gestures, body swaying, and elegant full turns around herself as she continues walking forward. Her movement is energetic yet effortless, full of lightness and positive energy. Cinematic natural lighting with strong sunlight and deep shadows, realistic motion blur, high dynamic range, masterpiece, best quality, no artificial look.
+```
+
+</details>
+
+<a id="h3-chun-li-seated-interview-smoky-arena"></a>
+### Seated Chun-Li answers an interviewer about her father
+
+<a href="https://x.com/ou_zhen599/status/2094322714739871760"><img src="../../previews/h3-chun-li-seated-interview-smoky-arena.jpg" width="360"></a>
+
+Timestamped shots (00:07 and 00:11) start from a locked reference frame, so each cut has a fixed beat and the seated pose carries over. Dialogue lines are tagged with speaker role and language, and the soundscape stays sparse so the voice carries the emotion.
+
+MiniMax H3 · Image-to-video · Source: [@ou_zhen599 on X](https://x.com/ou_zhen599/status/2094322714739871760) · 60 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`chun-li`](tags.md#tag-chun-li) [`street-fighter`](tags.md#tag-street-fighter) [`multi-shot`](tags.md#tag-multi-shot) [`dialogue`](tags.md#tag-dialogue) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic realism, post-fight intimacy. Chun-Li fully matches <Picture 1>: same face, hair buns, white ribbons, battle-worn blue qipao-style outfit, wrist guards, white boots, seated pose, smoky arena environment, clothing damage, body proportions, and controlled intensity. The first frame must begin exactly from the seated posture in <Picture 1>, with no pose reset. IMAX 70mm film grain, Nolan-inspired cinematic realism, photorealistic natural palette with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. Low-angle medium close-up, very slow physical push-in, no cut during the first emotional phase. Chun-Li sits wide and grounded with both hands on her waist. The off-screen interviewer, a mature calm warm woman (S1), says in an off-screen voiceover: <d>[English] Do you still miss your father?</d> Chun-Li does not answer immediately. Her breath catches, one hand slowly drops from her waist to her thigh or the floor, one knee subtly draws inward, her chin dips, her gaze lowers, and her jaw tightens before she finally answers. Chun-Li (S2), low, quiet, controlled, says: <d>[English] Every day.</d> [Shot 2] At 00:07.000, the shot cuts softly to a tighter medium close-up. Chun-Li steadies herself with one hand on her thigh or forearm, leans forward slightly, and says: <d>[English] I still hear him when I fight.</d> [Shot 3] At 00:11.000, the shot cuts softly to a slightly wider medium close-up. Chun-Li slowly straightens, brings one hand higher again, resets her shoulders, firms her jaw, lifts her eyes with quiet resolve, and says: <d>[English] I carry him with me.</d> Only Chun-Li is visible. The interviewer never appears. No melodrama, no exaggerated crying, no glamour posing. End on regained stillness, not collapse.
+
+overall_soundscape: Faint smoke movement, subtle room tone, soft distant arena hush, light fabric rustle, subtle boot shift, and quiet breath.
+
+non_diegetic_music: Very restrained low strings and sparse piano at a slow tempo, mixed gently under the natural ambience.
 ```
 
 </details>
@@ -3133,6 +3598,25 @@ Camera: Completely static, locked-off wide camera; no movement, zoom or reframin
 
 </details>
 
+<a id="h3-street-fighter-arcade-zoom-transition"></a>
+### Arcade cabinet opens into Street Fighter II
+
+<a href="https://x.com/cocktailpeanut/status/2085835546572800047"><img src="../../previews/h3-street-fighter-arcade-zoom-transition.jpg" width="360"></a>
+
+A handheld shot from behind the player anchors the scene in real footage, then one continuous push-in through the CRT glass hands off to the game view. Stating no camera shake after entry and a full-screen 4:3 frame keeps the arcade look steady.
+
+MiniMax H3 · Text-to-video · Source: [@cocktailpeanut on X](https://x.com/cocktailpeanut/status/2085835546572800047) · 58 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`street-fighter`](tags.md#tag-street-fighter) [`found-footage`](tags.md#tag-found-footage) [`video-transition`](tags.md#tag-video-transition) [`retro-arcade`](tags.md#tag-retro-arcade)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A handheld found-footage shot from behind a person playing an authentic Street Fighter II arcade cabinet in a dim 1990s arcade. Ryu and Ken begin a normal match as the announcer shouts, “Fight!” The camera suddenly rushes toward the curved CRT screen in one continuous motion; reflections and scanlines expand into giant glowing red, green, and blue phosphor dots, then the camera passes through them and the image resolves into a clean full-screen 4:3 Street Fighter II game view with crisp 16-bit pixel art and subtle CRT scanlines. Chun-Li unexpectedly jumps into the match, followed by Blanka dropping from above, Dhalsim teleporting into the center, Zangief charging in, and several more fighters entering from both sides. The stage widens as the match becomes a chaotic but readable eight-player free-for-all: Sonic Booms cross the screen, Blanka’s electricity shocks multiple fighters, Zangief spins through a crowd, characters collide in midair, and health bars rapidly drain. Everyone unleashes a special move at once, filling the screen with pixel explosions and impact flashes. When the smoke clears, every fighter is knocked out except Dhalsim, calmly floating above the pile. The announcer declares, “Dhalsim wins. Perfect!” Authentic arcade sound effects, energetic chiptune music, no modern 3D graphics, no camera shake after entering the game.
+```
+
+</details>
+
 <a id="h3-dark-red-kpop-lyric-typography-performance"></a>
 ### Dark red K-pop video with lyric typography
 
@@ -3165,6 +3649,30 @@ Sequence of text (hard cuts):
 9. Final rose  The girl sings the entire song with clear, accurate lip-sync. 
 
 Mouth and teeth must stay natural and undistorted at all times — no deformation, no melting, no artifacts. Emotional facial performance. Typography stays sharp and reacts (cracks, shifts, particles). Changing typography every 1–1.5 seconds. Heavy red atmosphere, cinematic lighting, photoreal
+```
+
+</details>
+
+<a id="h3-superman-laundry-day"></a>
+### Superman wrestles a laundry pile in a messy apartment
+
+<a href="https://x.com/Strength04_X/status/2085210848272986556"><img src="../../previews/h3-superman-laundry-day.jpg" width="360"></a>
+
+Timed four-second beats lay out one shot per block, so the sequence stays readable. A small gag escalates from sock on the face to wrong button to bubbles, which takes a serious hero to laughing, and the quoted sung lines set the voice and pacing.
+
+MiniMax H3 · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2085210848272986556) · 56 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`comedy`](tags.md#tag-comedy) [`superman`](tags.md#tag-superman) [`timed-shots`](tags.md#tag-timed-shots) [`singing`](tags.md#tag-singing)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+0:00–0:04 — Wide shot of a messy apartment living room. SUPERMAN (full costume) is standing in front of an open washing machine holding a huge pile of red-and-blue clothes.
+0:04–0:07 — He starts stuffing the cape into the machine while singing in a deep heroic voice: “Laundry day, laundry day… even heroes have to pay!” and does a dramatic fist pump that makes the clothes fly everywhere.
+0:07–0:10 — He tries to close the lid, but a red sock keeps floating up and sticking to his face. He peels it off and continues singing louder: “Red socks, blue socks… they never stay in the box!” while spinning in a circle.
+0:10–0:13 — He accidentally presses the wrong button. The machine starts shaking violently and soap bubbles start flying out. Superman tries to stay serious and stop it with one hand.
+0:13–0:16 — Bubbles land on his face and the sock sticks again. His serious superhero expression completely cracks. He bursts out laughing while still holding the machine.
+0:16–0:18 — He freezes mid-pose with bubbles all over him, laughing so hard he has to lean on the washing machine as more clothes keep popping out.
 ```
 
 </details>

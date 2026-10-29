@@ -1,0 +1,24 @@
+id: nano-banana-logo-mirror-glaze-cakes
+title:
+  en: Four social media logos as mirror glaze cakes
+  zh: 四个社交媒体标志做成镜面釉面蛋糕
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- food-sculpture
+- mirror-glaze
+- logo-design
+- product-photography
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2038254924207886653
+  credit: Amira Zairi
+  likes: 124
+  captured: '2026-10-29'
+  posted: '2026-03-29'
+notes:
+  en: A [brand name] slot lets one template turn any logo into a dessert, and the bite mark showing sponge and cream layers adds a tactile cue. The pure white background and soft lighting isolate the object and keep attention on the glaze.
+  zh: '[品牌名] 占位符让同一模板可把任意标志变成甜点，咬痕露出海绵和奶油夹层带来质感对比。纯白背景配柔和光线，把注意力集中在镜面釉面上。'
+prompt: |
+  minimalist luxury product photography of an edible sculpture inspired by the [brand name] logo, logo transformed into a refined dessert object, bold monochrome mirror glaze matching brand identity, ultra smooth glossy surface with realistic light reflections, isolated on a pure white background, subtle soft shadow grounding the object, single elegant bite mark revealing layered sponge and creamy filling inside, visible texture contrast between glaze and cake interior, delicate natural crumbs, soft high-key studio lighting, clean minimal composition with balanced negative space, contemporary premium advertising aesthetic, hyper-realistic detail, ultra sharp focus

@@ -1,0 +1,34 @@
+id: gpt-image-titanic-still-handmade-paper-poster
+title:
+  en: Film still above, tiny paper sketch and TITANIC below
+  zh: 上方电影剧照，下方小幅纸面素描与 TITANIC 字样
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- editorial-poster
+- handmade-paper
+- film-still
+- minimal-typography
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2102985897625239876
+  credit: Weinberg
+  likes: 109
+  captured: '2026-10-29'
+  posted: '2026-09-24'
+notes:
+  en: Splitting the frame into a photo panel and a small lower panel keeps the scene recognizable while the ivory paper gives the sketch room to breathe. Capping the artwork at four sampled colors and asking for uneven edges keeps the illustration flat and handmade rather than polished.
+  zh: 将画面分为照片区和下方的小幅插画区，照片保持写实，插画只占很小一部分并留出米白空白。限定四种取样色并要求边缘不规则，让插画保持平面手绘质感，而不是精致的数码感。
+prompt: |
+  Create a sophisticated 3:4 vertical editorial art poster based directly on the uploaded photograph. Divide the composition into two equal horizontal panels.
+
+  Upper panel: retain the photograph as the primary visual, preserving the people, facial appearance, pose, wardrobe, props, lighting, atmosphere, colors, and photographic realism. Do not reinterpret or substantially alter the scene. Apply only a restrained, high-end editorial grade with subtle tonal refinement and natural film-like texture.
+
+  Lower panel: create a very small, centered handmade-paper interpretation of the key visual relationship from the photograph. Reduce the recognizable figures and essential gesture into an understated graphic illustration made from delicate, slightly irregular hand-drawn contours and a few strong, flat acrylic-style shapes. Use organic imperfections, softly fibrous paper texture, and naturally uneven edges. Limit the artwork to a maximum of four colors sampled or closely derived from the original photograph.
+
+  Keep this illustrated element intentionally tiny—approximately 10–20% of the lower panel—and surround it with generous warm ivory/off-white negative space. If typography is included, use only restrained, sophisticated editorial type with minimal visual weight.
+
+  The finished piece should resemble a quiet independent art-book cover or gallery print: poetic, restrained, tactile, elegant, and premium. Favor simplicity, subtle imperfections, and visual breathing room over decoration.
+
+  Avoid: cartoon aesthetics, watercolor effects, colored-pencil rendering, 3D elements, glossy finishes, excessive detail, busy compositions, commercial advertising aesthetics, or overly polished digital illustration.

@@ -1,6 +1,6 @@
 # 漫画与分镜
 
-[返回目录](../../README_zh.md) · 全部 15 条
+[返回目录](../../README_zh.md) · 全部 20 条
 
 <a id="nano-banana-fluffy-creatures-treehouse-story"></a>
 ### 三只毛茸茸生物规划树屋
@@ -17,6 +17,69 @@ Nano Banana 2 · 文生图 · 出处: [@GoogleAI on X](https://x.com/GoogleAI/st
 
 ```text
 Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format, one at a time.
+```
+
+</details>
+
+<a id="gpt-image-football-dream-storyboard-bedroom-wake"></a>
+### 足球梦的分镜图，结局是醒在卧室
+
+<a href="https://x.com/rovvmut_/status/2049900959028109567"><img src="../../previews/gpt-image-football-dream-storyboard-bedroom-wake.jpg" width="360"></a>
+
+每一格都写明镜头类型，如全景建立镜头、背面中景、慢动作和硬切，给模型一份清晰的分镜表。光线从冷色球场灯光转为暖色晨光，让梦境与醒来两个世界一眼可辨。
+
+GPT Image 2 · 文生图 · 出处: [@rovvmut_ on X](https://x.com/rovvmut_/status/2049900959028109567) · 542 赞，统计于 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`football`](tags.md#tag-football) [`animation`](tags.md#tag-animation) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Video Prompt: Use the provided storyboard image
+@image1
+ as the primary visual reference for composition, framing, and scene progression. Generate a 15-second stylized 3D animated cinematic video that follows the exact sequence and visual storytelling of the storyboard.
+Style:
+High-quality 3D animation, cinematic realism, expressive character design, soft depth of field, realistic physics, subtle motion blur, dramatic lighting contrast
+Theme:
+A young boy dreams he is a world-famous football player scoring a winning goal in a packed stadium, but wakes up in his bedroom and realizes it was just a dream
+Execution Instructions:
+Match all camera angles, framing, and transitions from the storyboard image
+Maintain consistent character design between dream and real-world scenes
+Ensure smooth cinematic camera motion (tracking shots, slow push-ins, slight rotations)
+Use slow motion during key action moments (dribble, kick, goal)
+Add realistic environmental effects: grass particles, stadium lights, crowd motion
+Scene Flow (15s timing):
+0–5s: Stadium sequence — wide establishing → dribble → close-up intensity
+5–9s: Goal moment — kick → ball hits net → crowd erupts
+9–11s: Celebration hero shot — dramatic lighting, lens flare, slow-motion
+11–13s: Hard cut transition — stadium to bedroom, same pose match-cut
+13–15s: Bedroom reveal — soft morning light, calm mood, subtle smile
+Lighting:
+Dream: high-contrast stadium lights, cool tones, bright highlights
+Reality: warm, soft natural sunlight, grounded and शांत atmosphere
+Mood & Tone:
+Start epic and high-energy, then shift into calm, intimate, slightly emotional ending.
+```
+
+</details>
+
+<a id="gpt-image-suited-man-manga-action-comic-page"></a>
+### 西装男子指向前方的漫画页面
+
+<a href="https://x.com/SimplyAnnisa/status/2053123747604033667"><img src="../../previews/gpt-image-suited-man-manga-action-comic-page.jpg" width="360"></a>
+
+提示词规定了 9:16 的页面、5 到 7 格分镜，并列出速度线、冲击帧和拟声词等元素，使模型生成完整的漫画页而不是单幅插画。以参考照片锁定人物长相，让特写和远景中的面部保持一致。
+
+GPT Image 2 · 上传图改图 · 出处: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2053123747604033667) · 455 赞，统计于 2026-10-29
+
+[`manga`](tags.md#tag-manga) [`comic-page`](tags.md#tag-comic-page) [`reference-photo`](tags.md#tag-reference-photo) [`sound-effects`](tags.md#tag-sound-effects)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GPT image 2 on ChatGPT
+
+Prompt: Create a full-page colored manga illustration based on the person in the reference photo. Use authentic manga page composition with 5–7 dynamic connected panels on a single page. Include cinematic storytelling, dramatic perspective, expressive emotions, dynamic poses, speed lines, impact frames, close-up shots, and intense visual flow.Add English comic-style sound effects, handwritten dialogue bubbles, ink splatter strokes, halftone textures, rough comic sketch lines, and graffiti-inspired brushwork. Blend vibrant colors with manga-style shading and strong contrast. Emphasize the character’s personality and aura with symbolic visual elements and atmospheric energy effects. Highly detailed, emotional, stylish, energetic, professional manga aesthetic with clean white negative space mixed with chaotic ink textures.Hand-drawn look, free-flowing lines, immersive composition, high quality. Aspect ratio 9:16 HD.
 ```
 
 </details>
@@ -272,6 +335,29 @@ Do not reproduce the uploaded reference sheet’s layout or duplicate its multip
 
 </details>
 
+<a id="nano-banana-split-face-vigilante-comic"></a>
+### 半张人脸裂开化为义警面具
+
+<a href="https://x.com/NikhilRajX/status/2028038967690473711"><img src="../../previews/nano-banana-split-face-vigilante-comic.jpg" width="360"></a>
+
+把脸分成两半并指定撕纸或碎玻璃式分界线，让构图清晰；铅笔墨线、交叉排线和点刻等词锁定漫画质感。侧光与烟雾暗背景带来海报氛围。
+
+Nano Banana 2 · 文生图 · 出处: [@NikhilRajX on X](https://x.com/NikhilRajX/status/2028038967690473711) · 77 赞，统计于 2026-10-29
+
+[`split-face`](tags.md#tag-split-face) [`comic-book`](tags.md#tag-comic-book) [`pencil-ink`](tags.md#tag-pencil-ink) [`superhero`](tags.md#tag-superhero)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Comic-Book version art
+
+Gemini Nano Banana 2
+
+Prompt: Dynamic split-face concept art in detailed pencil & ink style: handsome young adult male, half his face calm realistic human with messy hair, intense gaze and natural skin texture; the other half explodes into a powerful superhero mask inspired by urban vigilante - black base with crimson red accents, sharp geometric patterns, reflective white eye lenses, subtle web cracks. Vertical divide looks like torn paper or shattered glass effect, strong side lighting with deep shadows, artistic cross-hatching and stippling, high contrast, epic movie poster mood, dark smoky background, intricate linework, masterpiece illustration
+```
+
+</details>
+
 <a id="gpt-image-anime-airship-nine-scene-storyboard"></a>
 ### 九场景动漫飞艇分镜头设计稿
 
@@ -341,6 +427,25 @@ the environment minimal: empty space, smoke, fabric motion, harsh light beams an
 Annotation color system: red arrows = body movement blue arrows = camera movement green marks = framing / composition notes orange marks = lighting direction purple marks = vocal / emotional emphasis black text = short lens notes and panel labels No timestamps.
 
 End with one overwhelming final movement pose beneath a harsh isolated spotlight.
+```
+
+</details>
+
+<a id="gpt-image-eight-panel-manga-launch-recap"></a>
+### GPT Image 2 发布日漫画回顾
+
+<a href="https://x.com/venturetwins/status/2046620134933250409"><img src="../../previews/gpt-image-eight-panel-manga-launch-recap.jpg" width="360"></a>
+
+只需一句话写明格数和主题，模型就能自行补全分镜、角色、对白和故事节奏。具体的发布事件让每一格都有清楚的情节可呈现。
+
+GPT Image 2 · 文生图 · 出处: [@venturetwins on X](https://x.com/venturetwins/status/2046620134933250409) · 发现于 [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+
+[`manga`](tags.md#tag-manga) [`comic-panels`](tags.md#tag-comic-panels) [`openai`](tags.md#tag-openai)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an eight-panel manga about GPT-Image-2 launching today
 ```
 
 </details>
@@ -444,6 +549,44 @@ Panel 1: The owner leaves through the front door. The pet is framed in the windo
 Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
 Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
 Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+</details>
+
+<a id="gpt-image-rainy-cyberpunk-superhero-comic-page"></a>
+### 雨夜霓虹屋顶超级英雄七格漫画页
+
+<a href="https://x.com/aftahi_ai/status/2081996736185471283"><img src="../../previews/gpt-image-rainy-cyberpunk-superhero-comic-page.jpg" width="360"></a>
+
+提示词用三格上排、一格宽幅中排、三格下排固定分格，并为每一格指定镜头。配色按角色分工，青色属于装甲英雄的科技效果，红色用于激光和蜘蛛能量，让两位主角在七格中保持辨识度。
+
+GPT Image 2 · 文生图 · 出处: [@aftahi_ai on X](https://x.com/aftahi_ai/status/2081996736185471283) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`comic-page`](tags.md#tag-comic-page) [`superhero`](tags.md#tag-superhero) [`cyberpunk`](tags.md#tag-cyberpunk) [`storyboard`](tags.md#tag-storyboard)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Goal: Create a dynamic comic-book storyboard/collage showing an anime-style futuristic superhero battle on a rainy cyberpunk rooftop at night, featuring a black-and-red spider-themed hero and a blue armored tech hero with a round shield fighting surveillance drones and laser attacks.
+
+Canvas: Square 1:1 image, arranged as a polished comic page with thick clean white gutters separating exactly 7 panels. Use cinematic lighting, high-contrast neon reflections, rain streaks, wet rooftop puddles, storm clouds, and a neon city skyline in the background. Overall mood: intense, heroic, dramatic, action-heavy.
+
+Layout: Use exactly seven discrete panels: 3 narrow panels across the top row, 1 large wide action panel across the middle row, and 3 smaller panels across the bottom row.
+
+Panel details:
+1. Top-left panel: wide rooftop establishing shot. The spider-themed hero crouches low in the foreground on a wet rooftop, black suit with red web patterns and glowing white eye lenses; the armored hero stands farther back. Neon signs, antenna towers, rain, and glossy reflections fill the scene.
+2. Top-middle panel: close-up portrait of the spider hero’s masked face under a red hood, white glowing eyes, red web pattern, clenched red fist raised beside the face, red lightning-like web energy crackling around the hand.
+3. Top-right panel: close-up portrait of the armored hero, sleek dark blue and metallic armor, cyan glowing visor, circular cyan chest reactor, raised round shield with red-white-blue rings, heroic three-quarter view.
+4. Middle large panel: main battle scene. On the rooftop, the spider hero slides or lunges through splashing rainwater while projecting a glowing cyan circular energy web-shield from one hand toward the armored hero. The armored hero stands braced with cape flowing, shield ready, cyan energy beam firing upward. Multiple drones hover in storm clouds, shooting red laser beams across the panel; sparks, water splashes, and neon city buildings intensify the action.
+5. Bottom-left panel: the spider hero crouches alone on the wet rooftop, pointing one hand forward as if preparing to shoot a web; rain, antenna mast, and dark buildings behind.
+6. Bottom-middle panel: the armored hero stands in a battle stance holding the round shield while generating a bright cyan energy sphere; concentric red and cyan circular energy rings swirl around him.
+7. Bottom-right panel: both heroes pose together on the rooftop beneath a giant glowing red spiderweb spread across the sky, with a blue drone caught at the center; the spider hero crouches in front while the armored hero stands behind holding the shield.
+
+Visual style: Modern anime superhero illustration mixed with American comic-book paneling, sharp clean line art, saturated neon cyan and red effects, glossy wet surfaces, dramatic rim lighting, detailed armor highlights, expressive action poses, cinematic depth, rain-soaked cyberpunk atmosphere.
+
+Text content: No speech bubbles, captions, logos, or readable text.
+
+Constraints: Keep the exact 7-panel comic layout and the two main heroes consistent across all panels. Use cyan for the armored hero’s technology effects and red for lasers and spider energy. Background should remain a rainy neon rooftop city at night throughout.
 ```
 
 </details>

@@ -1,0 +1,49 @@
+id: gpt-image-naruto-pixel-sprite-energy-blast
+title:
+  en: Chibi Naruto pixel sprite in fighting stance
+  zh: Q版鸣人像素精灵，战斗姿态
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- pixel art
+- sprite-sheet
+- anime
+- character
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2097633800058769496
+  credit: Mahnoor Fatima
+  likes: 45
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+notes:
+  en: A locked character spec covering traits, palette and outfit, plus a fixed 4 by 4 grid of 256 pixel cells, keeps the design and baseline steady across frames. Explicit transparency and nearest neighbor rules stop the usual blur and background fill from creeping in.
+  zh: 固定角色特征、配色和服装，再加上 4×4 的 256 像素分格网格，让每一帧的造型与基线保持一致。明确要求透明背景和最近邻采样，避免边缘发糊和背景色混入。
+prompt: |
+  Turn the character described below into an adorable pixel-art sprite with a looping energy blast cast animation.
+  CHARACTER
+  The character is Naruto Uzumaki: spiky blond hair, orange and blue ninja jumpsuit, whisker marks on cheeks, forehead headband with metal plate. Preserve the character's recognizable features, colors, hairstyle/texture, outfit, accessories, and distinctive silhouette. Adapt its original anatomy into cute chibi proportions without forcing non-human characters into a human body.
+  STYLE
+  Create crisp pixel art with clearly defined square pixels, clean outlines, and a cohesive limited palette. No blurry edges, smooth vector styling, or realistic rendering.
+  ANIMATION
+  Create 16 consecutive frames of one seamless energy blast cast animation:
+  Character raises a hand or weapon, channels glowing energy, and releases a burst outward.
+  Energy particles grow from a small spark to a full burst, then fade on the return frames.
+  Slight recoil/lean-back on the release frame.
+  Keep the design, proportions, camera angle, and scale consistent across all frames.
+  Keep the character anchored within the cell (no drifting off-center) unless the motion described requires a small in-place shift.
+  Make the last frame transition smoothly back to the first for a perfect loop.
+  SPRITE SHEET
+  Arrange the 16 frames in exactly 4 columns × 4 rows, ordered left to right, top to bottom.
+  Canvas: 1024 × 1024 pixels. Each cell: 256 × 256 pixels.
+  Use identical alignment and a fixed baseline across all cells.
+  Keep the entire character inside each cell, with at least 16 pixels of transparent padding on every side, including around moving accessories or effects.
+  No overlapping cells, grid lines, labels, text, or watermarks.
+  TRANSPARENCY
+  Use a genuinely transparent RGBA background with alpha zero outside the character. Do not draw a checkerboard or add a solid background, floor, or cast shadow. Preserve white and pale details inside the character.
+  DELIVERABLES
+  A transparent 4×4 PNG sprite sheet.
+  A transparent animated GIF of the single character, using all 16 frames at 256×256 pixels, looping forever with an approximately 2.2-second cycle.
+  A ZIP containing all 16 individual transparent PNG frames.
+  Use nearest-neighbor sampling if resizing is needed to preserve crisp pixels. Before finalizing, ensure no stray pixels, clipping, or background artifacts remain, and that the background is truly transparent.

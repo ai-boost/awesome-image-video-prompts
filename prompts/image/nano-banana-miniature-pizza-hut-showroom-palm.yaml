@@ -1,0 +1,24 @@
+id: nano-banana-miniature-pizza-hut-showroom-palm
+title:
+  en: Miniature Pizza Hut showroom on a palm
+  zh: 手掌上的微型必胜客门店
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- miniature
+- diorama
+- brand-showroom
+- palm-scale
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2044605023557222629
+  credit: simeon-sanai
+  likes: 185
+  captured: '2026-10-29'
+  posted: '2026-04-16'
+notes:
+  en: A template with [YOUR BRAND] and [PRODUCTS] slots that can be filled for any retailer. The palm acts as a scale cue, the transparent walls show tiny figures inside, and warm cinematic lighting makes the miniature read like a real product shot.
+  zh: 模板保留 [YOUR BRAND] 和 [PRODUCTS] 占位符，可替换为任意零售品牌。手掌作为比例参照，透明玻璃墙内的微型人物和暖色电影光线，让微缩场景看起来像真实的产品照片。
+prompt: |
+  An ultra-realistic miniature [YOUR BRAND] showroom balanced on a human palm, designed with transparent glass walls. Inside, tiny lifelike figures are enjoying [PRODUCTS]. On the rooftop, a glowing 3D logo shines brightly, while the front facade displays the brand name in a bold, recognizable typeface. Outside the showroom, a miniature delivery person is standing with a branded delivery bag strapped to their back, ready to deliver orders.The showroom’s interior is styled like a cozy retail outlet, with miniature products and branding details on display. Lighting is cinematic with warm tones, crisp details, and natural shadows. Captured in professional product photography style, the scene conveys a vibrant, iconic, and instantly recognizable atmosphere. 1080x1080 dimension.

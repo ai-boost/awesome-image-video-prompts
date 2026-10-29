@@ -1,0 +1,122 @@
+id: nano-banana-low-angle-yellow-top-bulma-poster
+title:
+  en: Low angle woman in yellow top by Bulma poster
+  zh: 黄色上衣女子站在龙珠海报前的低角度照片
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- json-prompt
+- low-angle
+- fashion
+- flash-photo
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2069773380593606947
+  credit: KeorUnreal
+  likes: 178
+  captured: '2026-10-29'
+  posted: '2026-06-24'
+notes:
+  en: A structured JSON spec locks the wardrobe, pose and background, and a very low camera angle with a foreground leg creates strong perspective. Hard front flash and phone snapshot texture keep it looking like a real photo rather than a studio shot.
+  zh: 结构化 JSON 提示词锁定服装、姿势和背景，极低机位加前景腿部形成强透视。正面硬闪光和手机快照质感让画面更像真实照片，而非棚拍。
+prompt: |
+  {
+    "subject": {
+      "description": "Adult woman megan fox in her 20s, calm and distant presence, low-angle ultra close-up fashion selfie style",
+      "mirror_rules": "Not a mirror selfie; no phone or reflective surface",
+      "age": "Adult, early 20s",
+      "expression": {
+        "eyes": {
+          "look": "Calm, slightly looking down at camera",
+          "energy": "Cool, quiet, subtle pressure",
+          "direction": "Direct gaze into low lens"
+        },
+        "overall": "Restrained, emotion shown only through eyes"
+      },
+      "face": {
+        "makeup": "Cool-toned british fashion: soft gray-brown eyeshadow, thin eyeliner, natural brows, glossy lips"
+      }
+    },
+    "hair": {
+      "color": "Deep black",
+      "style": "Long straight with soft bends, one side over chest, other near cheek",
+      "effect": "Natural volume with flyaways"
+    },
+    "body": {
+      "frame": "Slim elongated figure with visible collarbones and shoulders",
+      "pose": "Standing, body leaning slightly back, one leg extended with red high heel forward toward camera creating strong perspective, hands relaxed at sides",
+      "skin": {
+        "tone": "Fair cool undertone",
+        "texture": "Smooth with realistic texture, soft flash highlights on shoulders and foreground leg"
+      }
+    },
+    "clothing": {
+      "top": {
+        "type": "Yellow tight sleeveless long crop tank top, loose-fitting with thin straps and a deep side cutout prominently visible revealing skin",
+        "details": "Tight-fitting, small 'Keor' sign embroidered on edge"
+      },
+      "bottom": {
+        "type": "Pink high-waisted ruched bodycon mini skirt",
+        "details": "Asymmetric opening revealing one thigh"
+      }
+    },
+    "accessories": {
+      "headwear": "None"
+    },
+    "photography": {
+      "camera_style": "Indoor low-angle mobile phone selfie / self-timer snapshot",
+      "angle": "Very low, near leg height, pointing upward",
+      "shot_type": "Vertical full-body, strong foreground leg perspective",
+      "aspect_ratio": "9:16",
+      "lighting": "Hard direct front phone flash with soft ambient",
+      "texture": "Realistic phone flash look with slight noise and compression"
+    },
+    "background": {
+      "setting": "Simple indoor space with light gray wall",
+      "elements": [
+        "Huge Bulma manga cosplay poster prominently displayed behind her",
+        "Plain light gray wall"
+      ],
+      "atmosphere": "Quiet, private, casual night-out vibe"
+    },
+    "the_vibe": {
+      "energy": "Calm, restrained, cool",
+      "mood": "Minimal indoor fashion snapshot",
+      "authenticity": "Realistic phone photo imperfections and strong low-angle perspective"
+    },
+    "constraints": {
+      "must_keep": [
+        "Adult woman",
+        "Long black hair",
+        "Yellow strapless top with 'Keor'",
+        "Pink ruched mini skirt",
+        "Low-angle upward shot with strong leg perspective with red high heel",
+        "Hard front flash",
+        "Huge Bulma cosplay poster in background"
+      ],
+      "avoid": [
+        "Face mask",
+        "Underage appearance",
+        "Nudity",
+        "Plastic skin",
+        "Studio lighting",
+        "Extra limbs",
+        "Watermark or text"
+      ]
+    },
+    "negative_prompt": [
+      "face mask",
+      "underage",
+      "nudity",
+      "transparent clothing",
+      "plastic skin",
+      "over-retouched",
+      "studio lighting",
+      "extra fingers",
+      "deformed legs",
+      "watermark",
+      "text",
+      "logo"
+    ]
+  }

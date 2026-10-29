@@ -1,0 +1,24 @@
+id: gpt-image-rolex-submariner-exploded-view
+title:
+  en: Exploded Rolex Submariner dive watch in seven parts
+  zh: 劳力士潜水表爆炸视图，七个分解部件加机芯
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- exploded-view
+- luxury-watch
+- product-render
+- studio-lighting
+source:
+  name: '@RoundtableSpace on X'
+  url: https://x.com/RoundtableSpace/status/2055170060172579287
+  credit: 0xMarioNawfal
+  captured: '2026-10-29'
+  posted: '2026-05-15'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Listing exactly seven components in a fixed vertical order makes the exploded layout read as a clear sequence. The half-opened movement module shows how the parts connect, and the dark studio backdrop with a 4:3 landscape frame keeps it looking like a product shot rather than a diagram.
+  zh: 用编号列出恰好七个分离部件并按垂直顺序排列，爆炸结构因此清晰可读。中间半开的机芯模块展示了各部件如何连接，深色棚拍背景与 4:3 横向构图让画面更像产品摄影而不是示意图。
+prompt: |
+  Create a photorealistic luxury product rendering of an exploded mechanical dive watch, centered on a Rolex Submariner in stainless steel with a black dial and black ceramic bezel. Canvas is landscape 4:3, dark charcoal-to-black studio background, dramatic softbox reflections, ultra sharp macro detail, premium advertising look, no people. Composition: the fully assembled watch occupies the right half of the image at a slight three-quarter angle, with a brushed oyster-style metal bracelet continuing upward and downward out of frame; the crown is visible on the right side, the serrated bezel has white minute markings and large numerals 10, 20, 30, and 50, and the dial shows luminous round, rectangular, and triangle indices, Mercedes-style hour hand, minute hand, seconds hand, and small white printed dial text including the brand crown logo, brand name, model name, depth rating, and certification lines. On the left half, show an exploded vertical stack of exactly 7 separated watch components aligned in perspective: 1) a transparent domed sapphire crystal floating at the top, 2) a black rotating bezel insert with white markings beneath it, 3) a dark chapter/rehaut ring with tiny engraved brand text, 4) the black watch dial with luminous markers and printed brand/model text, 5) three separate silver hands floating below the dial, 6) a detailed mechanical movement with jewels, screws, gears, and bridges, and 7) the lower steel caseback/case ring at the bottom. Between the exploded stack and the complete watch, show a partially separated circular movement and case module tilted open, exposing gears, gold-toned wheels, ruby jewels, screws, and a rotor with a small gold crown emblem, as if the mechanism is being pulled into the watch. Materials: polished and brushed stainless steel, black glossy ceramic, transparent glass edge highlights, engraved ridges, high-contrast reflections, precise machining, realistic shadows, shallow depth of field but all main parts crisp. Text should be legible where possible and resemble authentic luxury watch dial typography, using black, brushed stainless steel, and deep black. Constraints: make the image look like a high-end technical product visualization, not a diagram; no captions, no labels outside the watch, no watermark, no extra watches, no hands or tools.

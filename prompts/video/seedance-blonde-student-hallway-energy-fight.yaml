@@ -1,0 +1,44 @@
+id: seedance-blonde-student-hallway-energy-fight
+title:
+  en: Blonde student surrounded by classmates in school hallway
+  zh: 金发学生被同学围在学校走廊里
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- cinematic
+- handheld-camera
+- superhero-action
+- slow-motion
+source:
+  name: '@AiwithElisia on X'
+  url: https://x.com/AiwithElisia/status/2092119695201837059
+  credit: AiwithElisia
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AiwithElisia/status/2092119695201837059
+notes:
+  en: The prompt splits the 30 second run into beats (grounded opening, energy build-up, action sequence, quiet close) and gives each its own camera language, with handheld framing for realism and slow motion reserved for the strongest strikes. Repeated constraints against text, logos and malformed anatomy keep the photoreal look stable.
+  zh: 提示词把30秒内容拆成几个段落（写实开场、能量升级、动作戏、安静收尾），每段配独立的镜头语言：开场用手持跟拍保证真实感，慢动作只用于最强的攻击。结尾重复列出禁止文字、标志和畸形肢体的约束，稳定写实画面。
+prompt: |
+  Create a cinematic, photorealistic 30-second live-action video set inside a modern American high school hallway lined with beige lockers. A beautiful young blonde female student with tied-back blonde hair, wearing a loose white long-sleeve top, black mini skirt, black backpack and casual shoes, walks through the crowded hallway while several students around her watch and interact with her.
+
+  Start with a natural medium shot of the girl walking between other students. Use realistic handheld camera movement, shallow depth of field, soft cinematic lighting, natural skin texture, realistic facial expressions and authentic high-school atmosphere.
+
+  As she continues walking, tension suddenly builds. A female student in a dark varsity-style jacket approaches her. The blonde girl raises her hand and mysterious pink-red energy begins glowing around her hands. Small luminous particles and sparks appear in the air. The energy gradually becomes stronger, creating a supernatural aura around her body.
+
+  Transition smoothly into an intense superhero-style action sequence in the same school corridor. The blonde girl suddenly moves with extraordinary speed and power, dodging an attacking male student and striking him with glowing pink-red energy. Show dynamic martial-arts-inspired movements, fast footwork, powerful kicks and punches, with energy trails following her movements.
+
+  Use cinematic slow motion for the strongest attacks, followed by fast-paced cuts. Show students reacting and moving away in fear as the fight continues down the hallway. The glowing pink-red energy should illuminate the lockers, floor and characters realistically, with subtle volumetric light, sparks, smoke and motion blur.
+
+  Include a dramatic moment where the girl performs a powerful spinning kick while surrounded by bright pink-red energy, sending the opponent backward. Keep the choreography physically believable and visually grounded, avoiding cartoonish effects.
+
+  Near the end, the hallway becomes quiet. The glowing energy disappears and the girl calmly continues walking toward the camera as if nothing happened. End with a close-up/medium close-up of her face with a confident, serious expression.
+
+  Visual style: photorealistic Hollywood superhero movie, cinematic color grading, realistic teenage/high-school environment, detailed faces, natural skin, realistic clothing and hair physics, realistic lighting, subtle film grain, shallow depth of field, professional cinematography, dynamic camera movement, high-detail VFX, realistic particle effects, 4K cinematic quality.
+
+  Camera: handheld tracking shots, medium shots, close-ups, low-angle action shots, smooth whip-pans, controlled motion blur, occasional slow motion during attacks.
+
+  Aspect ratio: 16:9.
+  Duration: approximately 30 seconds.
+  No text, no subtitles, no logos, no watermark, no distorted faces, no extra fingers, no unnatural anatomy.

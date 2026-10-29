@@ -1,0 +1,41 @@
+id: gpt-image-product-plot-twist-five-brand-posters
+title:
+  en: Five brand posters with action splashes and slogans
+  zh: 五款品牌海报，各带动作特效与三词标语
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- product-poster
+- ugc-style
+- slogan
+- template
+source:
+  name: '@aziz4ai on X'
+  url: https://x.com/aziz4ai/status/2068736795827646513
+  credit: AZIZ | AI 🇸🇦
+  likes: 304
+  captured: '2026-10-29'
+  posted: '2026-06-21'
+notes:
+  en: This is a template with slots for product, brand and a three word slogan, so one prompt yields many ads. It locks the product shape, label and logo, then asks for one captured moment of hand action with splash, mist or particle effects under rim light and shallow depth of field.
+  zh: 这是一个带产品、品牌和三词标语占位符的模板，同一提示词可生成多款广告。它锁定产品形状、标签和标志，再捕捉手部动作的瞬间，配合飞溅、雾气或颗粒特效，以及轮廓光和浅景深。
+prompt: |
+  Create a premium UGC-style advertising poster for [PRODUCT] by [BRAND]. Use the product as the clear hero of the image and preserve the product shape, packaging, logo, label, colors, proportions, and readable text with strong visual accuracy.
+
+  Design the image as a powerful commercial poster with a bold editorial feel and a high-impact visual hook. The scene should feel like a real viral UGC moment elevated into a luxury campaign. Show a human hand naturally interacting with the product in a dynamic action moment such as grabbing it, tossing it, spraying it, opening it, pouring it, unboxing it, or pushing it toward the camera. Capture the exact split second of action with strong cinematic tension and scroll-stopping energy.
+
+  Add product-related action effects that enhance the visual hook, such as frozen splashes, flying particles, dust bursts, liquid trails, mist, shattered texture bursts, energetic motion blur, glow accents, or floating ingredients depending on the product category. The action should feel bold, intentional, premium, and visually irresistible.
+
+  Make the product the sharpest and most dominant subject in the frame. The composition should feel like a polished advertising poster, not just a casual photo. Use dramatic editorial lighting, clean rim light, realistic reflections, crisp focus, shallow depth of field, premium contrast, cinematic color grading, and a refined luxury commercial finish.
+
+  Include the brand logo clearly and tastefully as part of the poster design, either on the product packaging and/or as a clean design element in the composition. Also include one strong advertising slogan made of exactly 3 words:
+  "[SLOGAN]"
+
+  The slogan must feel bold, memorable, premium, and campaign-worthy. Place it in a visually powerful way, using clean high-end typography and a layout that supports the product without overpowering it.
+
+  Composition: vertical poster, 4:5 or 9:16, dynamic close-up or medium-close framing, product large in the foreground, partial human presence, strong negative space, premium ad layout, viral commercial energy.
+
+  Mood: bold, premium, modern, playful, energetic, stylish, addictive, visually striking.
+
+  No fake branding, no distorted logo, no unreadable packaging, no messy anatomy, no cheap CGI, no cluttered layout, no weak composition, no duplicated product, no watermark.

@@ -1,0 +1,67 @@
+id: nano-banana-nestle-chocolate-logo-plate
+title:
+  en: Nestlé logo drawn in melted chocolate on plate
+  zh: 雀巢标志由融化巧克力淋在餐盘上
+model: Nano Banana 2
+mode: image-edit
+category: brand
+tags:
+- food
+- chocolate
+- brand-integration
+- macro
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2038979200795934955
+  credit: Saul Goodman
+  likes: 109
+  captured: '2026-10-29'
+  posted: '2026-03-31'
+notes:
+  en: Uploading the logo and asking for an exact shape transform keeps the mark readable. Fluid vocabulary such as high viscosity, pooling, streaks and air bubbles makes the chocolate look like real poured liquid, and the same logo engraved on the plate beside a partly eaten dessert ties the brand into a natural table setting.
+  zh: 上传原始标志并要求保持精确形状，使图形清晰可辨。高粘度、堆积、拖拽痕迹和气泡等流体词汇让巧克力像真实倾倒的液体，盘面刻有同一标志，并搭配吃了一半的甜点，使品牌自然融入餐桌场景。
+prompt: |
+  Transform the uploaded logo into a realistic dessert scene where the logo silhouette is formed naturally by melted chocolate spread across a plate, while the plate and dessert presentation are also subtly designed around the same logo as a brand identity.The logo must keep its exact shape and proportions, appearing both as a clean branded element (engraved or printed on the plate) and as a naturally melted chocolate formation created through real fluid behavior.
+
+  Material details:
+  Rich dark chocolate with high viscosity and glossy reflective surface.
+  Thicker areas forming smooth pools, thinner areas creating soft fading edges.
+  Visible chocolate streaks where it has been dragged or spread naturally.
+  Subtle ripples and surface tension curves, with occasional small air bubbles.
+
+  Physics behavior:
+  Chocolate should behave realistically — slow flow, rounded edges, gravity pulling it into thicker pools.
+  Slight directional flow suggesting it was poured or spread.
+  Variations in thickness depending on how it settled on the plate.
+  Natural imperfections — no perfectly sharp lines.
+
+  Surface interaction:
+  Ceramic or porcelain dessert plate with subtle gloss finish.
+  Plate includes a minimal branded logo (engraved, embossed, or printed).
+  Chocolate partially overlaps or interacts with the plate’s logo design for realism.
+  Small chocolate smears or residue near edges.
+
+  Environment & atmosphere:
+  Fine dining or café dessert setting.
+  Partially eaten dessert (cake, pastry, or mousse) nearby.
+  Subtle crumbs, fork marks, and realistic usage details.
+  Refined but not overly staged.
+
+  Lighting:
+  Soft warm lighting (restaurant or café ambiance).
+  Highlights reflecting on chocolate surface.
+  Gentle shadows adding depth to textures.
+
+  Camera & composition:
+  Slightly angled top-down macro shot.
+  Logo clearly visible through chocolate formation.
+  Balanced composition showing both dessert and branding.
+
+  Format:
+  Aspect ratio: STRICT 4:5 vertical.
+  No text overlays.
+
+  Style:
+  Hyper-real food photography.
+  Luxury dessert aesthetic with natural fluid realism.
+  Brand integrated into environment.

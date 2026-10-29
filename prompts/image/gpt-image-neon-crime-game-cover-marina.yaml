@@ -1,0 +1,24 @@
+id: gpt-image-neon-crime-game-cover-marina
+title:
+  en: Two armed protagonists on a marina dock
+  zh: 两名持枪主角站在码头木板上
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- game-key-art
+- vaporwave
+- marina
+- cel-shaded
+source:
+  name: '@Coinvo on X'
+  url: https://x.com/Coinvo/status/2049813518090956904
+  credit: Coinvo
+  captured: '2026-10-29'
+  posted: '2026-04-30'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Each character, vehicle and bird gets a named position and count, and the palette is spelled out with colours, so the scene reads as one framed cover shot. The cel shaded style and wide framing tell the model which game art look to target.
+  zh: 为每个角色、载具和飞鸟指定位置与数量，并写明配色，使整幅画面像一张构图完整的游戏封面。写明卡通渲染风格和宽幅画幅，可让模型锁定对应的游戏美术效果。
+prompt: |
+  A stylized cinematic illustration inspired by a neon-soaked Florida crime-game cover scene at sunset, showing two armed protagonists standing heroically on a wooden marina dock in the foreground, facing the viewer. The scene has a polished modern video game key-art look with pastel vaporwave colors, warm pink and peach highlights, turquoise water, and a clear blue sky. On the right, a tall athletic young man in a white t-shirt, open short-sleeve blue tropical print shirt, tan cargo pants, and a wristwatch stands in a dominant forward pose with both hands aiming a silver semi-automatic pistol toward the camera. On the left, a curvy young woman with long dark curly hair tied half-up wears a black crop top, denim shorts, layered gold necklaces, and a crossbody bag at her hip, holding a handgun pointed downward in a relaxed but ready pose. Both characters are centered and framed like iconic action-game cover art. Behind them is a bright waterfront city skyline with high-rise hotels and apartment towers, a low bridge crossing the water, several palm trees on the left, and glossy reflections across the bay. Include 1 helicopter in the upper left sky, 1 police speedboat racing across the water on the right with a white wake, 1 sleek black speedboat docked in the lower right foreground with visible bullet cracks in the windshield, and 1 white seabird standing in the shallow water near the left side. Strong late-afternoon sunlight, long shadows, saturated retro Miami palette, crisp cel-shaded digital painting style, dramatic action-poster composition, ultra-clean lines, highly detailed environment, wide 16:9 framing.

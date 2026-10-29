@@ -1,0 +1,50 @@
+id: gpt-image-chibi-eraser-bag-rainbow-rare-japanese
+title:
+  en: Japanese chibi eraser bag with rainbow rare piece
+  zh: 日本迷你橡皮袋装，附彩虹稀有款
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- eraser
+- packaging
+- chibi
+- product-photo
+source:
+  name: '@ZetoGroovin on X'
+  url: https://x.com/ZetoGroovin/status/2058408514247410003
+  credit: ZetoGroovin
+  captured: '2026-10-29'
+  posted: '2026-05-24'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt specifies each layer of the product: OPP bag, hanging hole header with cheap print, fake JAN barcode, age label and food warning, so the result reads as a real shelf item. A single rainbow gradient piece placed mid-bag and a fingertip about to pick one give the frame a clear focal point.'
+  zh: 提示词逐层指定商品细节：OPP袋、带吊孔的廉价印刷头卡、条码、年龄标识和食用警告，让画面像真实货架上的商品。袋中放一个彩虹渐变稀有款，并让手指作势去拿，形成清晰的视觉焦点。
+prompt: |
+  添付されたキャラクターシートをSTRICTなデザインリファレンスとして使用すること。 キャラクターの顔、髪型、目の形、プロポーションは絶対に変更しない。
+
+  ■目的： キャラクターを日本の「ちび消しゴム商品」として完全に商品化し、 実際に文房具売り場やガチャで販売されているようなリアルなパッケージ商品写真を作成する。
+
+  ■コンセプト： 「100円ショップや文房具店で売られている袋入りちび消しゴム商品」
+
+  ■消しゴム本体： （※前回と同じ仕様を完全維持） - 強いデフォルメちびキャラ - 厚みのあるブロック形状 - 完全マットなラバー素材 - 微細な粒子・粉・削れ・摩耗あり - 印刷ズレ・色ブレあり - 50個以上のランダム構成
+
+  ■パッケージ（超重要）： - 小さな透明ビニール袋（OPP袋） - 上部に紙ヘッダー（吊り下げ用の穴あり） - ヘッダーはややチープな印刷（軽いズレ・インクのムラ） - ビニールはシワあり、やや曇り、静電気で中身に張り付く - 一部空気が入ってふくらみあり - シール部分に軽いヨレ
+
+  ■グラフィックデザイン： - 日本の子供向け文房具風デザイン - ポップでカラフル（ピンク・黄色・水色ベース） - 手書き風フォントや丸文字 - 商品名ロゴ（オリジナルでOK） - 「ミニけし」「ちびけし」などの表記 - 星・ハート・キラキラ装飾
+
+  ■情報要素（リアル感強化）： - JANコード（バーコード） - 「対象年齢6才以上」 - 「食べられません」注意書き - 「全◯種」や「ランダム封入」 - 小さな会社名（架空） - MADE IN JAPAN or CHINA表記
+
+  ■構図： - パッケージがメインで画面中央 - 周囲に少しだけこぼれた消しゴム - 1〜2個は袋から出ている - 指先が1つをつまもうとしている演出 - 一部フレームアウトで自然さ
+
+  ■レア要素： - 蛍光カラーやグラデーションの特別個体を1つ混ぜる - 視線誘導として目立つ位置に配置
+
+  ■ライティング： - 明るい自然光（ややハイキー） - 柔らかい影 - 商品写真のような清潔感
+
+  ■カメラ： - マクロ寄り - 浅い被写界深度 - 中央シャープ
+
+  ■背景： - 白〜パステルのテーブル - ほんのりドットやポップ柄 - シンプルで清潔
+
+  ■禁止： - プラスチック感 - glossy表現 - 高級すぎる質感（安っぽさが正解） - 完璧すぎる印刷
+
+  ■出力： - 実在する商品にしか見えないレベル - コンビニや100均にありそうなリアリティ - SNSで「これ欲しい」と思わせる完成度

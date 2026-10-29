@@ -1,0 +1,24 @@
+id: gpt-image-plush-apple-logo-warm-healing-pillow
+title:
+  en: Fluffy cream Apple logo pillow in sunlit garden
+  zh: 阳光花园里的奶油色毛绒苹果标志抱枕
+model: GPT Image 2.5
+mode: text-to-image
+category: brand
+tags:
+- plush
+- logo
+- warm-tones
+- product-photo
+source:
+  name: '@DeepBlueX0 on X'
+  url: https://x.com/DeepBlueX0/status/2106744078834765911
+  credit: DeepBlue深藍
+  likes: 27
+  captured: '2026-10-29'
+  posted: '2026-10-04'
+notes:
+  en: The template keeps the brand as a slot and stacks mood, palette and material terms so a logo becomes a tactile product scene. These cues steer the lighting, texture and colour toward a soft cream and warm look.
+  zh: 模板把品牌名留作可替换的槽位，并叠加氛围、配色和材质词，让标志变成有触感的产品场景。这些提示把光线、质感和色调引向柔软的奶油色与温暖风格。
+prompt: |
+  [Brand] Logo × Warm and Healing Style × Softened Brand Colors × Soft Plush Material

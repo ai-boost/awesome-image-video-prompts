@@ -1,0 +1,106 @@
+id: gpt-image-chronicle-ai-presentation-cover-slide
+title:
+  en: Chronicle presentation cover with product mockup
+  zh: Chronicle 演示文稿封面与产品界面
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- presentation
+- typography
+- slide-design
+- saas
+source:
+  name: '@cellier_ on X'
+  url: https://x.com/cellier_/status/2046615173411262959
+  credit: cellier_
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Spelling out every headline, body line and label in order gives the model a complete text map, so the copy lands exactly as written. Separating style, visual feeling and composition into labelled fields keeps the editorial balance and generous whitespace consistent across the layout.
+  zh: 把标题、副标题、正文和标签逐条列出并保持原文顺序，模型就能准确排出每段文字。样式、视觉感受和构图分别写在独立字段里，加上明确的 4:3 比例，让留白和编辑式平衡保持稳定。
+prompt: |
+  [中文]
+  创建一个高级的 4:3 演示文稿封面幻灯片，介绍来自 http://chroniclehq.com 的 AI 原生演示平台 Chronicle。
+
+  Style:
+  优雅，极简，现代，高级初创企业美学。类似于高端品牌指南封面（如 Apple / Linear / Notion 风格）。带有微妙深度感的柔和渐变背景，干净的留白，精致的排版，经过打磨的编辑式布局。
+
+  Main title:
+  CHRONICLE
+
+  Subtitle:
+  AI PRESENTATION PLATFORM
+
+  Body copy (small elegant text):
+  将原始想法转化为经过打磨的、高影响力的演示文稿。
+  从笔记、文档、链接或现有幻灯片开始。
+  使用 AI 生成美观的、符合品牌调性的幻灯片。
+  在灵活的画布上自由编辑。
+  导出为 PPT、PDF，或发布为网站。
+
+  Feature highlights (small premium labels):
+  STORY-FIRST
+  ON-BRAND DESIGN
+  AI EDITING
+  FREEFORM CANVAS
+  PPT EXPORT
+  TEAM COLLABORATION
+
+  Bottom-right elegant logo text:
+  chronicle
+
+  Visual feeling:
+  商务级高级感，战略级幻灯片质量，咨询级演示文稿，略带未来感但高度专业。
+
+  Composition:
+  干净的编辑式平衡，不对称布局，强烈的留白，演示软件主视觉感。
+
+  Aspect ratio:
+  4:3
+
+  Language:
+  仅限英文
+
+  [English]
+  Create a premium 4:3 presentation cover slide introducing Chronicle, the AI-native presentation platform from http://chroniclehq.com.
+
+  Style:
+  elegant, minimal, modern, premium startup aesthetic. Similar to high-end brand guideline covers (like Apple / Linear / Notion style). Soft gradient background with subtle depth, clean whitespace, refined typography, polished editorial layout.
+
+  Main title:
+  CHRONICLE
+
+  Subtitle:
+  AI PRESENTATION PLATFORM
+
+  Body copy (small elegant text):
+  Turn raw ideas into polished, high-impact presentations.
+  Start from notes, docs, links, or existing decks.
+  Generate beautiful, on-brand slides with AI.
+  Edit freely on a flexible canvas.
+  Export to PPT, PDF, or publish as a website.
+
+  Feature highlights (small premium labels):
+  STORY-FIRST
+  ON-BRAND DESIGN
+  AI EDITING
+  FREEFORM CANVAS
+  PPT EXPORT
+  TEAM COLLABORATION
+
+  Bottom-right elegant logo text:
+  chronicle
+
+  Visual feeling:
+  business-class premium, strategy deck quality, consulting-grade presentation, slightly futuristic but highly professional.
+
+  Composition:
+  clean editorial balance, asymmetrical layout, strong whitespace, presentation software hero shot feeling.
+
+  Aspect ratio:
+  4:3
+
+  Language:
+  English only

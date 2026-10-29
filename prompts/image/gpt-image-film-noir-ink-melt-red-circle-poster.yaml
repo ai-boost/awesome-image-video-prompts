@@ -1,0 +1,25 @@
+id: gpt-image-film-noir-ink-melt-red-circle-poster
+title:
+  en: Film noir poster with ink melting fedora man
+  zh: 戴礼帽男子墨水融化的黑色电影海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- film-noir
+- ink-drip
+- minimalist
+- red-circle
+- vertical-poster
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2047165794325500353
+  credit: Saul Goodman
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Sections for subject, style, and technical details keep each layer separate. A strict three color palette, a solid red circle halo, and Rembrandt lighting give the poster a clear focal axis, and the ink drip effect is described in concrete terms.
+  zh: 用主体、风格、技术细节分段，各层要求互不干扰。严格的三色配色、红色圆形光环和伦勃朗光让画面主轴清晰，墨水滴落效果也写得具体。
+prompt: |
+  Subject & Composition:\n\nCentral Figure: A sharp profile view of a man wearing a classic 1940s fedora and a formal suit.\n\nMelting Effect: The lower half of the man's torso should dissolve or \"drip\" into long, vertical black ink streaks and splatters, creating a surreal, liquid-bleed effect against the background.\n\nGraphic Element: A large, solid vibrant red circle is positioned directly behind the man's head and shoulders, creating a \"halo\" or \"rising sun\" motif that anchors the composition.\n\nStyle & Color Palette:\n\nColor Scheme: A strict minimalist palette of True Red, Deep Black, and Off-White/Cream.\n\nPhotography Style: High-contrast, black and white film noir photography for the subject. The texture should look like a high-resolution fashion editorial with a shallow depth of field.\n\nBackground: A clean, slightly textured off-white paper or canvas background to give it a premium, physical poster feel.\n\nTechnical Details:\n\nLighting: Strong \"Rembrandt\" lighting to define the facial contours, emphasizing the bridge of the nose and the jawline with deep shadows.\n\nAtmosphere: Somber, intellectual, and high-stakes. The design should feel modern yet period-accurate to the mid-20th century.\n\nFraming: Vertical poster orientation (A-frame), with significant negative space on the left and right to emphasize the central vertical axis.\n\nAspect ratio is 9:16

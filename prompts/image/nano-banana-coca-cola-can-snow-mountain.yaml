@@ -1,0 +1,24 @@
+id: nano-banana-coca-cola-can-snow-mountain
+title:
+  en: Giant Coca Cola can frosted over snowy mountain peak
+  zh: 雪山上覆满霜雪的巨大可乐罐
+model: Nano Banana 2
+mode: text-to-image
+category: brand
+tags:
+- surreal-scale
+- snow
+- brand
+- cinematic
+source:
+  name: '@auqibhabib on X'
+  url: https://x.com/auqibhabib/status/2043220082881671596
+  credit: auqib
+  likes: 82
+  captured: '2026-10-29'
+  posted: '2026-04-12'
+notes:
+  en: A lone figure in the foreground facing away from the camera sets the scale for the giant can. Frost, falling snow and cool cinematic light blend the object into the rock so it reads as part of the mountain.
+  zh: 前景人物背对镜头仰望巨物，建立尺度感。霜雪与飘落的雪花让罐体融入山体，冷色电影光线统一画面。
+prompt: |
+  A monumental-scale, hyper-realistic photo of a colossal Coca-Cola soda can towering over a vast, snow-covered mountain range, much like a mountain peak itself. In the foreground, a single, lone explorer with a large backpack stands with their back to the camera, staring up at the titanic structure. The red can features the classic white "Coca-Cola" script logo and is partially covered in frost, snow, and ice, seamlessly integrating with the rugged, icy rock of the surrounding mountain range. The entire landscape is a sprawling, snow-laden valley under a dark, dramatic, cold blue sky filled with a flurry of fine, falling snow. Atmospheric perspective enhances the sense of awe and scale. Crisp, hyper-detailed textures on the metal, the explorer's clothing, the backpack, and the rugged, icy terrain. Dramatic, cool-toned cinematic lighting with deep shadows and soft, scattered light from the snowy atmosphere. Shot from a slightly low angle to emphasize the titanic scale. High resolution, 8k

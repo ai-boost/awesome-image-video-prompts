@@ -1,0 +1,24 @@
+id: gpt-image-iphone-17-pro-exploded-assembly-drawing
+title:
+  en: iPhone 17 Pro exploded assembly drawing with callouts
+  zh: iPhone 17 Pro 爆炸拆解装配图与部件标注
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- exploded-view
+- teardown
+- product-diagram
+- smartphone
+source:
+  name: '@Ankit_patel211 on X'
+  url: https://x.com/Ankit_patel211/status/2048834306379075759
+  credit: Ankit_patel211
+  captured: '2026-10-29'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'A single-line template with a [subject] slot, filled with a product, works because the words 3D exploded assembly drawing set the whole layout: parts float apart along one axis, with numbered callouts, a spec panel and a component legend.'
+  zh: 这是一句带 [subject] 占位的模板，填入产品名后，3D 爆炸装配图的描述就决定了版式：零件沿一条轴线分离，并配有编号引线、规格面板和部件图例。
+prompt: |
+  Create a 3D Insane detailed exploded assembly drawing of [subject or object]

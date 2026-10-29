@@ -1,0 +1,43 @@
+id: h3-joey-chandler-ai-couch-scene
+title:
+  en: Joey and Chandler on Central Perk couch with coffee
+  zh: 乔伊和钱德勒在中央咖啡馆沙发上喝咖啡
+model: MiniMax H3
+mode: text-to-video
+tags:
+- sitcom
+- dialogue
+- handheld
+- comedy
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2084600512180113820
+  credit: TechieSA
+  likes: 755
+  captured: '2026-10-29'
+  posted: '2026-08-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/TechieBySA/status/2084600512180113820
+notes:
+  en: Dialogue is written as labelled lines with a stage direction between beats, so the model gets timing and pauses as well as the lines. The style line sets the era, a steady handheld camera and deadpan performances, and the closing hold instruction fixes the final beat on Chandler's face.
+  zh: 台词按角色名逐行标注，每句之间写明动作和停顿，让模型同时获得节奏和表演提示。风格段落指定年代、稳定的手持镜头质感和表演方式，结尾要求在Chandler的脸上停留一拍再切。
+prompt: |
+  “Joey and Chandler sit side by side on the couch with coffee cups. Joey turns to Chandler with a completely sincere, concerned expression.
+
+  DIALOGUE:
+
+  JOEY: “Could AI replace us?”
+
+  Chandler slowly looks up from his coffee. Pauses. Looks Joey dead in the eye.
+
+  CHANDLER: “Joey, AI cannot replace you. Nothing can replace you.”
+
+  Joey nods slowly. Visibly relieved. Processing.
+
+  JOEY: “Because I’m too good?”
+
+  Chandler stares at him. Long beat. He looks down at his coffee, then back up.
+
+  CHANDLER: “…Sure. Let’s go with that.”
+
+  STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, characters in casual clothing. Joey played completely straight — zero irony. Chandler delivers every line with exhausted deadpan sarcasm. Hold on Chandler’s face after the final line for a full beat before cut.”

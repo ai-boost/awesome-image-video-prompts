@@ -1,0 +1,24 @@
+id: nano-banana-pink-watermelon-lip-balm-studio
+title:
+  en: Pink watermelon lip balm tube among watermelon slices
+  zh: 粉色西瓜润唇膏管立于切开的西瓜片之间
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- lip-balm
+- watermelon
+- product-shot
+- studio
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2042219830842098072
+  credit: Synthia
+  likes: 78
+  captured: '2026-10-29'
+  posted: '2026-04-09'
+notes:
+  en: Naming the product, its colour and its surroundings in one clause keeps the subject clear against the fruit. Soft diffused lighting, minimal shadows and a macro cue give the clean commercial beauty finish.
+  zh: 用一句话同时点明产品、颜色和周围的水果，让主体在果肉中依然清晰。柔和漫射光、极少阴影与微距提示共同营造干净的商业美妆广告质感。
+prompt: |
+  A vibrant studio product shot of a pink watermelon lip balm tube standing upright among freshly cut watermelon slices, glossy water droplets on both the product and fruit, rich juicy red textures with visible seeds, green rind contrast, soft diffused lighting with subtle highlights, clean gradient background in warm red tones, hyper-realistic, macro photography, sharp focus, commercial beauty ad style, centered composition, high detail, 4K, minimal shadows

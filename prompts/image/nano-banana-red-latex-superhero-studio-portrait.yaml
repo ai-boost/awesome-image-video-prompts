@@ -1,0 +1,55 @@
+id: nano-banana-red-latex-superhero-studio-portrait
+title:
+  en: Red latex superhero studio portrait with graffiti wall
+  zh: 红色乳胶超级英雄风棚拍人像，涂鸦墙背景
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- json-prompt
+- studio-portrait
+- latex-outfit
+- superhero
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2115436047664287827
+  credit: KeorUnreal
+  likes: 122
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+notes:
+  en: The prompt is a structured JSON spec that separates subject, outfit, setting, lighting and camera, so each element stays fixed. Spelling out the exact graffiti word Keor and the gloss on the latex keeps the text and material readable in the output.
+  zh: 提示词采用结构化 JSON，将主体、服装、场景、灯光和镜头分开描述，各要素不易互相干扰。明确写出涂鸦文字 Keor 的拼写，并描述乳胶的光泽，可以让文字和材质在结果中保持清晰。
+prompt: |
+  {
+   "subject": {
+   "description": "Young woman Sadie Sink with fair skin, voluminous curly platinum-white red hair, dramatic eye makeup, looking directly at the camera with a confident expression",
+   "hair": "Huge, wavy platinum-white red curls cascading around the shoulders and back",
+   "body": "Curvy figure in a form-fitting suit",
+   "pose": "Standing facing the camera, both hands on her hips, elbows out",
+   "expression": "Bold, direct gaze"
+   },
+   "outfit": {
+   "suit": "Glossy neon red latex full-body suit with a deep neckline and long sleeves",
+   "emblem": "Bronze metallic X-shaped emblem on a chain at the chest, small circular emblems on the shoulders",
+   "accessories": "Large gold hoop earrings"
+   },
+   "setting": {
+   "location": "Studio with a plain gradient backdrop",
+   "background": "Soft white-to-pink gradient wall with a huge gold X sculpture with a stargate inside",
+   "added_element": "Graffiti sign reading 'Keor' on the wall in an X-Men superhero style in the backdrop"
+   },
+   "lighting": {
+   "type": "Studio lighting with white and pink rim lights",
+   "effects": "Strong glossy highlights on the neon red latex, colorful glow on the white hair"
+   },
+   "camera": {
+   "angle": "Slightly low full-body angle",
+   "framing": "Full-body shot, subject centered against the gradient wall",
+   "style": "Photorealistic, high-detail fashion photography, sharp focus"
+   },
+   "additional_details": {
+   "skin": "Smooth with a slight sheen",
+   "atmosphere": "Bold superhero-inspired studio portrait"
+   }
+  }

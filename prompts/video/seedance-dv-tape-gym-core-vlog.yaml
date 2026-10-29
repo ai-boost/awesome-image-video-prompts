@@ -1,0 +1,53 @@
+id: seedance-dv-tape-gym-core-vlog
+title:
+  en: Handheld DV tape gym vlog of core workout
+  zh: 手持DV磁带风格健身房核心训练vlog
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- fitness
+- vlog
+- handheld
+- tape-look
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2103476205760774263
+  credit: doctorwasif
+  captured: '2026-10-29'
+  posted: '2026-09-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2103476205760774263
+notes:
+  en: A camcorder POV with tape noise, hand shake, delayed focus pulls and clumsy zooms sells the home-footage realism. Timed storyboard cuts with in-shot dialogue keep the pacing and comedic tone, and stating that the camera never appears on screen keeps the POV clean.
+  zh: 摄像机第一人称视角加上磁带噪点、手抖、延迟对焦和笨拙变焦，营造家用录像的真实感。分镜标注秒数并写明每个镜头的对白，保证节奏和喜剧语气；明确写出摄像机不入画，让视角保持干净。
+prompt: |
+  **CAMERA:**
+  DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+  **LOOK:**
+  Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
+
+  **STYLE:**
+  Playful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.
+
+  **Character**
+
+  CHASE — Korean idol, 20s. Long black hair in a high ponytail, glowing skin with a light sweat sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers or fitted leggings (arms and torso fully covered), sneakers off or socks, no jewelry.
+
+  **Setting**
+
+  A gym mat area in the evening — mirror wall nearby, water bottle on the floor, soft overhead lighting, other equipment visible in the background.
+
+  **Storyboard (15s, 6 cuts)**
+
+  1. *(~2.5s, propped camera, medium shot)* She lies down on the mat, propping up on her elbows, already sighing dramatically. CHASE: "Okay, core day — my least favorite day."
+
+  2. *(~2.5s, propped camera, plank position)* She holds a plank, arms shaking slightly, talking through gritted teeth. CHASE (strained): "Why does this get harder every single time—"
+
+  3. *(~2.5s, medium propped shot, crunches)* She moves into a set of crunches, breathing hard, complaining between reps. CHASE: "Nobody warns you how much this actually burns."
+
+  4. *(~2s, macro insert, shallow DOF)* Close-up on her hands gripping the mat edges during a leg raise, abs visibly working. No dialogue — ambient gym sound only.
+
+  5. *(~2.5s, handheld, leg raises)* She finishes a slow leg raise set, flopping back onto the mat immediately after, laughing at herself. CHASE (breathless): "Okay— that's it, I'm done—"
+
+  6. *(~3s, arm's-length selfie finish)* Still lying on the mat, she lifts the camera above her face, grinning tiredly. CHASE: "Core day never gets easier — see you guys tomorrow, hopefully."

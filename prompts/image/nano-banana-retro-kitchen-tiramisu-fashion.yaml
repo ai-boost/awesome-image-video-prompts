@@ -1,0 +1,59 @@
+id: nano-banana-retro-kitchen-tiramisu-fashion
+title:
+  en: Blonde model in retro kitchen holding tiramisu
+  zh: 复古厨房里手持提拉米苏的金发模特
+model: Nano Banana 2.1
+mode: text-to-image
+category: realism
+tags:
+- json-prompt
+- retro-kitchen
+- fashion
+- tiramisu
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2110467656272728546
+  credit: KeorUnreal
+  likes: 142
+  captured: '2026-10-29'
+  posted: '2026-10-13'
+notes:
+  en: A structured JSON prompt split into subject, outfit, setting, lighting and camera blocks keeps each element explicit. The full body framing with a slightly low angle and a named colour palette keep the retro set cohesive.
+  zh: 将提示词拆分为主体、服装、布景、灯光和镜头等模块，让每个元素都明确具体。略低角度的全身取景加上指定的配色，让复古厨房风格保持统一。
+prompt: |
+  {
+    "subject": {
+      "description": "Young woman with fair skin, long wavy blonde hair with bangs, soft smile, looking toward the camera",
+      "hair": "Long wavy blonde hair with curtain bangs, falling over the shoulders",
+      "body": "Curvy, athletic figure",
+      "pose": "Leaning against a kitchen counter, one leg crossed in front of the other, one hand resting on the counter, the other holding a tiramisù",
+      "expression": "Friendly, slight smile, direct gaze"
+    },
+    "outfit": {
+      "top": "yellow short-sleeve cropped polo shirt",
+      "bottom": "Pink high-waisted shorts with a black belt",
+      "footwear": "Red pointed stiletto heels",
+      "accessories": "Black oven mitts on both hands"
+    },
+    "props": {
+      "item": "Freshly tiramisu held on a plate in one hand"
+    },
+    "setting": {
+      "location": "Retro-style kitchen",
+      "background": "Pink walls, turquoise open cabinets filled with colorful glassware, pink refrigerator, black-and-white checkered floor, 'Home Sweet Home' signs, neon city skyline artwork",
+      "added_element": "Neon writing reading 'Keor' glowing in the backdrop"
+    },
+    "lighting": {
+      "type": "Bright, even indoor lighting with a playful retro feel",
+      "effects": "Clean highlights on skin and clothing, colorful kitchen surfaces, soft neon glow from the 'Keor' sign"
+    },
+    "camera": {
+      "angle": "Slightly low full-body angle",
+      "framing": "Full-body shot, subject centered in the kitchen",
+      "style": "Photorealistic, high-detail fashion photography, sharp focus"
+    },
+    "additional_details": {
+      "skin": "Smooth with a natural sheen",
+      "atmosphere": "Playful, colorful retro kitchen scene"
+    }
+  }

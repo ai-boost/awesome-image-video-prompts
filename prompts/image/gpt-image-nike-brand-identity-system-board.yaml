@@ -1,0 +1,126 @@
+id: gpt-image-nike-brand-identity-system-board
+title:
+  en: Nike brand guideline board with palettes and mockups
+  zh: 耐克品牌指南面板，含色板与应用样机
+model: GPT Image 2
+mode: image-edit
+category: brand
+tags:
+- brand-identity
+- style-guide
+- logo-reference
+- mockup
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2055681687284293991
+  credit: Ziha
+  likes: 80
+  captured: '2026-10-29'
+  posted: '2026-05-16'
+notes:
+  en: Uploading the logo as a reference and filling the brand name into a fixed slot keeps every panel tied to one identity. Listing each section explicitly, with HEX codes, usage labels, a type hierarchy, a 4pt/8pt grid and mockups, forces a dense structured board instead of a loose mood piece.
+  zh: 上传标志作为参考，并把品牌名填入固定位置，让每个版块都围绕同一套识别体系。提示词逐项列出各个章节，包括带 HEX 与用途标注的色板、字体层级、4pt/8pt 网格和应用样机，从而得到结构密集的版面，而不是松散的氛围图。
+prompt: |
+  Using the uploaded logo for (Brand name) generate a high-end, agency-grade brand identity system poster.
+
+  OBJECTIVE
+  Create a complete, presentation-ready brand guideline board that looks like it was designed by a top branding studio. The result must feel commercial, realistic, and client-deliverable, not conceptual.
+
+  INTELLIGENCE RULE (THIS IS WHAT YOU WERE MISSING)
+  Before designing, analyze the logo and infer:
+  3 identity traits (based on analysis)
+
+  COLOR SYSTEM (SMART GENERATION)
+  Extract palette from logo automatically
+  Include:
+  Primary colors (3–5)
+  Secondary colors (3–5)
+  Accent colors
+
+  Each must show:
+  HEX codes
+  labeled usage (primary / UI / highlight / background)
+
+  Also generate:
+  gradients
+  color combinations
+  tonal variations
+
+  TYPOGRAPHY SYSTEM (MATCH PERSONALITY)
+  Select typography style based on brand:
+  luxury → elegant serif
+  tech → geometric sans
+  street → bold condensed
+  corporate → clean neutral sans
+
+  Show:
+  headline / subheadline / body
+  real text examples (brand-relevant, not lorem ipsum)
+  clear hierarchy
+
+  VISUAL LANGUAGE
+  Define and visualize:
+  image style (editorial / lifestyle / futuristic / minimal)
+  lighting (soft / dramatic / high contrast)
+  mood (energetic / premium / calm / disruptive)
+
+  Show:
+  3–5 visual tiles
+
+  BRAND APPLICATIONS (REALISM BOOST)
+  Generate consistent mockups:
+  packaging or product
+  website hero
+  mobile UI
+  3 social media creatives
+  business card
+  billboard / ad
+
+  All must feel real-world usable.
+
+  LAYOUT SYSTEM
+  grid system
+  spacing scale (4pt / 8pt system)
+
+  Show:
+  UI components
+  cards
+  buttons
+  layout examples
+
+  ICONOGRAPHY
+  6–10 icons style derived from brand (rounded / sharp / minimal / filled)
+
+  PATTERNS & ELEMENTS
+  shapes derived from logo
+  repeating motifs
+  background systems
+
+  MICRO DETAILS (THIS CREATES “PREMIUM FEEL”)
+  shadows
+  reflections
+  textures
+  depth layering
+
+  VISUAL STYLE CONTROL
+  modern editorial + system design hybrid
+  strong hierarchy
+  layered composition
+  controlled spacing
+
+  DENSITY RULE
+  minimum 30–50 elements
+  mix of macro + micro components
+  no empty or filler space
+
+  HARD RESTRICTIONS
+  no placeholders
+  no generic UI
+  no inconsistent styles
+  no random colors
+
+  FINAL OUTPUT
+  A high-end brand system poster that looks:
+  Behance feature-worthy
+  agency presentation-ready
+  visually consistent and detailed

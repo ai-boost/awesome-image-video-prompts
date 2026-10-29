@@ -1,6 +1,6 @@
 # Kling 3.0
 
-[返回目录](../../README_zh.md) · 全部 28 条
+[返回目录](../../README_zh.md) · 全部 29 条
 
 <a id="kling-vintage-watch-macro"></a>
 ### 指尖捏着复古腕表的微距镜头
@@ -302,6 +302,52 @@ Connect angles through whip pans, movement-matched cuts, snap zooms, flashes and
 Keep the sensual gestures quick, confident and fully clothed. Hair and fabric react naturally. No slow motion, lingering shots or gradual camera drift. Build momentum toward the tenth pose, then stop sharply for a crisp final hold.
 
 Stable identity and anatomy throughout. No outfit changes, added accessories or text. Sound: a driving 140 BPM fashion beat, rhythmic shutter clicks and subtle fabric movement.
+```
+
+</details>
+
+<a id="kling-mirror-selfie-dialogue-finger-heart"></a>
+### 镜中自拍女子 对白与比心手势
+
+<a href="https://www.reddit.com/r/klingO1/comments/1qw80hp/how_to_create_a_realistic_mirror_selfie_test_with"><img src="../../previews/kling-mirror-selfie-dialogue-finger-heart.jpg" width="360"></a>
+
+提示词按三个分镜编写(中景、特写、中景),每句台词都附带音色描述(低沉、轻微气泡音、气声),让语音和动作同时受控。在各镜头中重复固定的发型、束腰上衣和耳环等细节,有助于人物在切换镜头后保持一致。
+
+Kling 3.0 · 文生视频 · 出处: [u/GearOkBjork on Reddit](https://www.reddit.com/r/klingO1/comments/1qw80hp/how_to_create_a_realistic_mirror_selfie_test_with) · 195 赞，统计于 2026-10-29
+
+[`mirror-selfie`](tags.md#tag-mirror-selfie) [`dialogue`](tags.md#tag-dialogue) [`voice-direction`](tags.md#tag-voice-direction) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Upload the image you want to animate
+
+Click Generate and get your animated video
+
+Prompt:
+
+"A medium shot of Groklyn, a Korean-American woman with platinum blonde bangs and a black floral corset, standing in a white dressing room holding a phone. She looks into the mirror, waves her hand casually, and speaks to the camera. She says: "Ahn-young. It’s Groklyn. Just testing the new Kling V3." The voice is cool, low-pitched, and has a slight vocal fry. A close-up of Groklyn's face. She tucks a strand of blonde hair behind her ear to show her silver hoop earring and turns her head slightly to admire the details. She speaks softly: "The motion is honestly... day-baak. Just look at these details." Her tone is impressed and breathy. A medium shot of Groklyn posing in the mirror. She lifts her hand to make a Korean finger-heart gesture near her cheek, holds the pose, and then winks at the camera. She asks confidently: "Does this look real to you guys? Let me know. Bye."
+
+This clip features Groklyn, a Korean-American woman in a white dressing room, filmed as a mirror-style selfie. The goal was to test three things specifically:
+
+Natural hand gestures and facial motion
+
+Subtle head turns, hair movement, and micro-expressions
+
+Realistic dialogue delivery with tone and vocal texture
+
+Scene breakdown:
+
+Medium mirror shot: casual wave, relaxed posture, natural intro dialogue
+
+Close-up: hair tuck behind the ear, earring detail, soft impressed tone
+
+Final mirror pose: Korean finger-heart gesture, wink, confident outro
+
+What really surprised me was how smooth the transitions and motion continuity felt, especially in the close-up. The facial details, timing of gestures, and voice expression came out way more natural than I expected.
+
+So yeah — does this look real to you?
+Curious how others are using Kling 3.0 for dialogue-driven, selfie-style content. Let me know what you think in the comment section!
 ```
 
 </details>

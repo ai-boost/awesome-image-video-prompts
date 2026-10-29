@@ -1,0 +1,24 @@
+id: gpt-image-water-brand-logos-ocean-grid
+title:
+  en: Six brand logos shaped from water above ocean
+  zh: 六个由水塑造的品牌标志悬于海面上方
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- water-effect
+- brand-logos
+- grid-collage
+- ocean
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2062521441141088599
+  credit: Synthia
+  likes: 205
+  captured: '2026-10-29'
+  posted: '2026-06-04'
+notes:
+  en: 'The prompt fixes three things across all panels: the material (transparent water with splashes, droplets and refractions), the setting (ocean and blue sky) and the layout (3x2 grid). Stating that each logo must be made entirely of water keeps the shapes liquid instead of flat graphics.'
+  zh: 提示词在所有画面中固定了三项要素：材质（透明水体，含飞溅、水滴与折射）、场景（海面与蓝天）和版式（3x2 网格）。明确要求标志完全由水构成，使图形保持液体质感，而不是平面图案。
+prompt: |
+  Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.

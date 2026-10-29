@@ -1,0 +1,24 @@
+id: gpt-image-lovart-gpt-image-2-launch-banner
+title:
+  en: Lovart hero banner with floating GPT Image 2 mockups
+  zh: Lovart 主视觉横幅，中央界面与四周悬浮海报
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- banner
+- text-rendering
+- json-prompt
+- ui-mockup
+source:
+  name: '@dee_naliaks on X'
+  url: https://x.com/dee_naliaks/status/2047319810602844206
+  credit: Doreen
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A JSON spec with explicit canvas, layout, and typography fields turns a complex composition into a structured, repeatable brief. Listing each floating card with its exact label text keeps every piece of copy legible and placed where the prompt asks.
+  zh: 用 JSON 结构分别描述画布、版式和排版，把复杂构图写成可复用的结构化说明。逐项列出每张悬浮卡片的确切文字，使每段文案清晰可读并落在指定位置。
+prompt: |
+  {"type":"futuristic AI product launch campaign hero banner","style":"high-end 3D advertising composite with cinematic neon lighting, polished UI mockups, floating product cards, and glossy tech presentation aesthetics","theme":{"primary colors":["deep navy","electric violet","indigo","white"],"mood":"innovative, premium, futuristic, campaign-ready","lighting":"dramatic blue-violet glow, rim lighting, luminous particle trails, soft bloom, reflective floor"},"canvas":{"aspect_ratio":"16:9","background":"dark futuristic city-at-night bokeh with subtle skyscraper lights and atmospheric haze"},"headline_block":{"position":"top center","count":4,"lines":["GPT Image 2","is now inside Lovart","Transform your creative vision into reality","The next generation of AI image creation"],"cta":"Available now for all creators","typography":"clean modern sans-serif, bold white headline, smaller white and pale gray subtext, glowing rounded button"},"layout":{"centerpiece":"large glowing desktop app interface floating in the center with purple edge lighting and curved energy trails connecting all surrounding assets","sections":[{"title":"left floating posters and devices","position":"left side","count":5,"labels":["BEYOND POSSIBLE vertical sci-fi poster with futuristic skyline and tiny figure","social-style card reading 'The future is yours to create.' with a person facing a surreal landscape","small smart speaker product card reading 'Designed for creators. Built for impact.'","open laptop mockup reading 'Where ideas become iconic' with a purple abstract form on screen","small vertical card reading 'Create without limits' with a tiny landscape scene"]},{"title":"center application UI","position":"middle","count":1,"labels":["Lovart create interface with prompt box and model dropdown opened"]},{"title":"model menu items","position":"center-right inside UI","count":5,"labels":["Lovart Image 1","GPT Image 2","DALL·E 3","Stable Diffusion XL","Midjourney v6"]},{"title":"featured capability cards","position":"lower middle inside UI","count":4,"labels":["Ultra High Quality","Precise Text Rendering","Advanced Composition","Brand Consistency"]},{"title":"bottom asset strip","position":"bottom center","count":5,"labels":["Lovart logo card","abstract purple fabric-like visual","black hoodie mockup","sports car render","dark Lovart card"]},{"title":"right floating posters and packages","position":"right side","count":5,"labels":["headphone ad reading 'Sound elevated.'","large billboard-style poster reading 'Inspire. Create. Repeat.' with a purple flower image","phone-style card reading 'Your vision, perfectly realized.'","tall product box reading 'Focus Fuel'","presentation board reading 'Pitch deck Template' with glowing wireframe cubes"]}]},"ui_details":{"app_brand":"Lovart","main_panel_title":"Create anything","prompt_placeholder":"Describe your creative vision...","left_sidebar_count":6,"left_sidebar_labels":["Lovart","Home","Create","Projects","Assets","Templates"],"top_right_user_label":"Creator Pro Plan"},"composition":"symmetrical campaign composition, central software dashboard larger than all other elements, connected to surrounding posters and product mockups by multiple flowing luminous ribbons, reflective ground plane beneath all objects, crisp readable text, premium launch announcement aesthetic","quality":"ultra-detailed, sharp typography, realistic reflections, clean interface design, commercial-grade product visualization"}

@@ -1,0 +1,27 @@
+id: gpt-image-douyin-live-stream-lingerie-gift-screenshot
+title:
+  en: Douyin live stream selling lingerie with airplane gift
+  zh: 抖音直播间卖丝袜内衣，收到飞机礼物
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- douyin
+- live-stream
+- ui-screenshot
+source:
+  name: '@xiaohu on X'
+  url: https://x.com/xiaohu/status/2046536551681954207
+  credit: xiaohu
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt names the exact on-screen values (viewer count 99996, an 18+ badge and a named gift sender), so the model places each one as a platform UI overlay rather than decorative text. Naming the platform and asking for a screenshot keeps the result in a phone capture style instead of a poster.
+  zh: 提示词写明了具体的界面数值（在线人数99996、18+标识、送礼用户名），模型会把它们渲染为平台界面浮层，而不是装饰文字。点明平台并要求截图形式，结果就会像手机截屏，而不是海报。
+prompt: |
+  [中文]
+  生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+
+  [English]
+  Generate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xiao Hu sent her an airplane gift

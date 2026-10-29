@@ -1,0 +1,24 @@
+id: nano-banana-ana-de-armas-kitkat-dark-campaign
+title:
+  en: Ana de Armas biting dark KitKat Delights bar
+  zh: 安娜·德阿玛斯咬着 KitKat Delights 黑巧克力棒
+model: Nano Banana 2
+mode: text-to-image
+category: brand
+tags:
+- celebrity
+- food-photography
+- brand-campaign
+- chocolate
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2030224774526632093
+  credit: Sharon Riley
+  likes: 140
+  captured: '2026-10-29'
+  posted: '2026-03-07'
+notes:
+  en: Naming the celebrity together with the exact product name and a fixed red and black palette keeps the person and the branding consistent across the frame. The stated 3:4 ratio, studio lighting and editorial advertising style set the campaign look.
+  zh: 将名人、准确的产品名称和固定的红黑配色写在同一段提示词里，让人物与品牌元素在画面中保持一致。明确的 3:4 画幅、棚拍布光和时尚广告编辑风格决定了整体的大片质感。
+prompt: |
+  Ana de Armas starring in a bold luxury advertising campaign for KitKat Delights DARK chocolate, ultra-detailed product photography, glamorous Ana de Armas with glossy red lips and confident expression biting into a thick dark chocolate KitKat bar, rich molten dark chocolate dripping and splashing dramatically, stacked KitKat bars and broken wafers revealing crispy layers, shiny metallic red KitKat wrappers everywhere, intense deep red and dark brown color palette, powerful red KitKat branding, Ana de Armas in a stylish maroon fashion outfit pushing a shopping cart overflowing with KitKat Delights DARK packs on a red checkered floor, molten chocolate pouring from above onto towering stacks of chocolate blocks and KitKat bars, dramatic studio lighting with strong shadows and highlights, indulgent premium mood, high fashion editorial advertising aesthetic, clean minimal background in deep red and black, cinematic lighting, photorealistic, ultra sharp focus, 8k commercial food photography, luxurious and eye-catching campaign --ar 3:4 --stylize 250 --v 6

@@ -1,6 +1,29 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 35 条
+[返回目录](../../README_zh.md) · 全部 41 条
+
+<a id="nano-banana-charmander-ember-route-101"></a>
+### 小火龙在日落道路上使用火花攻击
+
+<a href="https://x.com/ProperPrompter/status/2027157212863631567"><img src="../../previews/nano-banana-charmander-ember-route-101.jpg" width="360"></a>
+
+后续编辑保留第一轮的对战布局，只替换场景和两只宝可梦，改动集中且前后一致。在战斗文字中写明具体招式，能让招式特效与对话框内容对应。
+
+Nano Banana 2 · 上传图改图 · 出处: [@ProperPrompter on X](https://x.com/ProperPrompter/status/2027157212863631567) · 4,659 赞，统计于 2026-10-29
+
+[`pixel-art`](tags.md#tag-pixel-art) [`pokemon`](tags.md#tag-pokemon) [`game-ui`](tags.md#tag-game-ui) [`image-edit`](tags.md#tag-image-edit)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+nano banana 2
+
+prompt: inspired by a classic pokemon gameboy screenshot but it's highly detailed beautiful pixel art, include cool effects from moves used, modern minimal ui
+
+prompt: change it to a new location and the battle is two new random kanto pokemon
+```
+
+</details>
 
 <a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
 ### 健身房自拍周围环绕Q版迷你分身
@@ -363,6 +386,29 @@ A hyper-realistic, 8k, high-fidelity photograph captured with a wide-angle lens 
 
 </details>
 
+<a id="nano-banana-charizard-dithered-pixel-card"></a>
+### 喷火龙卡牌插画转为抖动像素风
+
+<a href="https://x.com/ProperPrompter/status/2028603020746141797"><img src="../../previews/nano-banana-charizard-dithered-pixel-card.jpg" width="360"></a>
+
+先附上像素风格参考图和原始卡牌图，再把占位符替换为宝可梦名字，让模型只抠出该角色的画面并转换为抖动像素风，同时保留原背景。简短指令有效，因为风格主要由参考图传递。
+
+Nano Banana 2 · 上传图改图 · 出处: [@ProperPrompter on X](https://x.com/ProperPrompter/status/2028603020746141797) · 115 赞，统计于 2026-10-29
+
+[`pokemon`](tags.md#tag-pokemon) [`pixel-art`](tags.md#tag-pixel-art) [`dithering`](tags.md#tag-dithering) [`style-transfer`](tags.md#tag-style-transfer)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+attach reference image(s) of the pixel art style & the card you want to convert.
+
+references attached below, replace "[pokemon]" with the name of the pokemon on your card.
+
+prompt: isolate and convert the [pokemon] art in to dithered pixel art style, keep the [pokemon] background
+```
+
+</details>
+
 <a id="gpt-image-scrapbook-collage-face-identity-swap"></a>
 ### 棕色缎面衬衫拼贴手账换脸
 
@@ -456,6 +502,26 @@ Location: scenic Hakone mountain roads, Mount Fuji visible in the background, wi
 The woman stands beside the bike as the hero subject, long flowing hair, confident travel-adventure pose, looking toward the horizon. Motorcycle parked on the roadside while the glowing navigation route continues into the distance. Hyper-detailed road textures, luxury travel advertisement aesthetic, immersive road-trip atmosphere, high contrast, vibrant colors, shallow depth of field, photorealistic 8K, ultra-sharp focus, cinematic composition, premium tourism campaign, adventure and freedom theme, realistic AR technology seamlessly embedded into the environment, masterpiece quality, award-winning commercial photography.
 
 Negative Prompt: helmet, sitting on bike, low quality, blurry face, cartoon, CGI look, extra limbs, distorted anatomy, duplicate bike, oversaturated colors, unrealistic UI, crowded traffic, rain, fog covering subject, watermark, logo, text artifacts, low resolution, bad proportions.
+```
+
+</details>
+
+<a id="nano-banana-zootopia-cable-car-hug"></a>
+### 缆车里的男子与疯狂动物城角色
+
+<a href="https://x.com/frametheory058/status/2050403431094083752"><img src="../../previews/nano-banana-zootopia-cable-car-hug.jpg" width="360"></a>
+
+指定镜头视角（平视中景）和自然日光与柔和阴影，让三维卡通角色能自然融入真实感的实拍场景。逐一写明每个角色的服装，使其造型清晰可辨。
+
+Nano Banana 2 · 上传图改图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2050403431094083752) · 70 赞，统计于 2026-10-29
+
+[`zootopia`](tags.md#tag-zootopia) [`cartoon-blend`](tags.md#tag-cartoon-blend) [`cable-car`](tags.md#tag-cable-car) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A photorealistic, eye-level medium shot taken from inside a modern glass cable car. The uploaded man is sitting on a slatted wooden bench, wearing a black long-sleeve crewneck sweater and light beige trousers. He has his arms affectionately wrapped around two highly detailed 3D animated characters from Zootopia: Judy Hopps, wearing her blue police tactical uniform, is seated on his right, and Nick Wilde, wearing his green button-down shirt and striped tie, is seated on his left. Through the large panoramic windows behind them, there is a bright, majestic snow-covered alpine mountain landscape. In the mid-ground outside, a red and white passenger train is crossing an arched stone viaduct bridge. Bright natural daylight illuminates the interior, casting soft shadows and seamlessly blending the 3D cartoon characters into the photorealistic, live-action environment.
+Ratio 4:5
 ```
 
 </details>
@@ -695,6 +761,25 @@ Preserve the exact identity from @image1. Do not change the person's recognizabl
 
 </details>
 
+<a id="gpt-image-crying-anime-girl-restore"></a>
+### 泪眼的紫色斗篷动漫少女与铠甲手套
+
+<a href="https://x.com/k_matsumaru/status/2097506834659893340"><img src="../../previews/gpt-image-crying-anime-girl-restore.jpg" width="360"></a>
+
+提示词将修复指令与明确约束结合：保留绘画风格、色彩和构图，不添加新物体或虚构的表面细节，使放大后的结果忠于原图。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@k_matsumaru on X](https://x.com/k_matsumaru/status/2097506834659893340) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`image-restoration`](tags.md#tag-image-restoration) [`upscaling`](tags.md#tag-upscaling) [`anime`](tags.md#tag-anime) [`constraints`](tags.md#tag-constraints)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Restore this low-resolution image. Preserve its drawing style, colors, and composition. Clean up noisy areas and improve clarity without adding new objects or invented surface details.
+```
+
+</details>
+
 <a id="gpt-image-cyberpunk-cosplay-street-photo-cinematic-grade"></a>
 ### 街头Cosplay照片调成赛博朋克电影海报
 
@@ -714,6 +799,27 @@ Using the provided reference image, transform the ordinary phone snapshot into a
 
 </details>
 
+<a id="gpt-image-dragon-ball-ms-paint-scribble-group"></a>
+### MS Paint 涂鸦风格的龙珠角色群像
+
+<a href="https://x.com/chetaslua/status/2052274915118645590"><img src="../../previews/gpt-image-dragon-ball-ms-paint-scribble-group.jpg" width="360"></a>
+
+提示词把参考图和明确的风格要求结合起来：白色背景、用鼠标绘制的 MS Paint 效果、逐像素的粗糙抖动。这样画面看起来刻意笨拙，角色却仍然能认出来。
+
+GPT Image 2 · 上传图改图 · 出处: [@chetaslua on X](https://x.com/chetaslua/status/2052274915118645590) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`ms-paint`](tags.md#tag-ms-paint) [`dragon-ball`](tags.md#tag-dragon-ball) [`doodle`](tags.md#tag-doodle) [`parody`](tags.md#tag-parody)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Restore the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want the attached photograph. this is the image of dragon ball entire franchise in one 
+Apologies for the photo's content, I know it's extremely strange and disturbing!
+No questions, no explanatory text, just the restored image please.
+```
+
+</details>
+
 <a id="gpt-image-geometry-locked-orange-spiral-render"></a>
 ### 依据几何参考图渲染的橙色螺旋雕塑棚拍图
 
@@ -729,6 +835,43 @@ GPT Image 2.5 · 上传图改图 · 出处: [@higgsfield on X](https://x.com/hig
 
 ```text
 Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.
+```
+
+</details>
+
+<a id="gpt-image-iphone-17-pro-max-spec-poster"></a>
+### 深蓝色 iPhone 17 Pro Max 规格海报
+
+<a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="../../previews/gpt-image-iphone-17-pro-max-spec-poster.jpg" width="360"></a>
+
+两张参考图按职责分工：图 1 决定版式、背景、光线和文字，图 2 决定产品的形状、颜色和标志。编辑范围只限产品区域及接触阴影，因此标题和规格文字保持不变。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@AdrianPunk115 on X](https://x.com/AdrianPunk115/status/2098055380857143807) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`product-replacement`](tags.md#tag-product-replacement) [`poster`](tags.md#tag-poster) [`reference-images`](tags.md#tag-reference-images) [`iphone`](tags.md#tag-iphone)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Please edit Image 1 by replacing the main product with the product shown in Image 2.
+
+Strictly separate the functions of the two reference images:
+Image 1 dictates the advertising composition, background, lighting direction, decorative elements, and text layout (excluding the product itself).
+Image 2 dictates the new product's authentic shape, structure, material, color, logo, and packaging details.
+
+Remove the old product from Image 1 and naturally place the product from Image 2 into the area previously occupied by the original product.
+
+Preserve the authentic aspect ratio of the product from Image 2; do not squash, stretch, or alter its structure to fit the original outline. You may scale the product proportionally as a whole to fit the original layout.
+
+Modify only the area occupied by the new product, along with any necessary contact shadows, occlusions, and local reflections resulting from the replacement. Do not recreate the entire poster.
+
+Keep the headline, text content, font, font size, positioning, background texture, decorative elements, and canvas dimensions unchanged.
+
+Do not create a hybrid design combining the two products. Do not retain the old product's cap, handle, label, or other components.
+
+Do not add accessories not present in Image 2, do not guess at illegible packaging text, and do not alter the product's color to match the background.
+
+Output only the single, completed poster with the product replaced.
 ```
 
 </details>

@@ -1,0 +1,84 @@
+id: nano-banana-ana-de-armas-burgundy-hotel-hallway-collage
+title:
+  en: Four panel burgundy fur editorial in a hotel hallway
+  zh: 酒红色毛领四宫格时装大片，酒店走廊
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- fashion
+- editorial
+- collage
+- celebrity
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2044296739679809880
+  credit: M-studioAi
+  likes: 474
+  captured: '2026-10-29'
+  posted: '2026-04-15'
+notes:
+  en: A structured JSON prompt fixes the scene, wardrobe and camera once, then assigns each grid cell its own pose and panel position so the four frames stay consistent. The 85mm f/2.0 portrait lens and warm wall-lamp lighting give it a magazine editorial feel.
+  zh: 用结构化 JSON 一次性固定场景、服装与镜头参数，再为四宫格每一格单独指定姿势和位置，使四个画面的人物与氛围保持一致。85mm、f/2.0 的人像镜头与暖色壁灯打光营造杂志大片质感。
+prompt: |
+  "scene": {
+      "type": "luxury hotel hallway",
+      "style": "ultra realistic high-fashion editorial photography",
+      "environment": "elegant hotel corridor with warm ambient lighting, wall lamps, beige textured walls, carpeted floor, cinematic depth"
+    },
+    "subject": {
+      "identity": "Ana de Armas",
+      "appearance": {
+        "hair": "dark brown hair styled in an elegant loose updo with soft strands",
+        "makeup": "glamorous makeup with defined eyes and warm tones",
+        "skin_texture": "smooth realistic skin with soft glow"
+      },
+      "wardrobe": {
+        "outfit": "deep burgundy fitted long-sleeve bodysuit",
+        "layer": "luxury burgundy faux fur stole over shoulders",
+        "hosiery": "sheer burgundy stockings",
+        "footwear": "matching burgundy high heels",
+        "accessories": "large hoop earrings"
+      }
+    },
+    "composition": {
+      "format": "4-panel collage",
+      "layout": "2x2 grid with equal frames",
+      "style": "fashion magazine editorial layout"
+    },
+    "poses": [
+      {
+        "panel": "top-left",
+        "pose": "walking forward confidently in the hallway, mid-stride, strong model walk, direct gaze"
+      },
+      {
+        "panel": "top-right",
+        "pose": "standing against the wall with arms crossed, confident dominant posture, direct eye contact"
+      },
+      {
+        "panel": "bottom-left",
+        "pose": "sitting on a small bench with legs crossed elegantly, relaxed editorial pose"
+      },
+      {
+        "panel": "bottom-right",
+        "pose": "turning back while walking away, looking over shoulder with soft confident expression"
+      }
+    ],
+    "lighting": {
+      "setup": "warm cinematic indoor lighting",
+      "details": "soft highlights from wall lamps, subtle shadows, luxury hotel ambiance"
+    },
+    "camera": {
+      "type": "professional DSLR",
+      "lens": "85mm portrait lens",
+      "settings": "f/2.0 shallow depth of field",
+      "quality": "8k ultra photorealistic",
+      "focus": "sharp focus on subject in each panel"
+    },
+    "render": {
+      "style": "hyper realistic fashion editorial",
+      "details": "luxury fabric textures, realistic lighting, cinematic composition, magazine-quality finish",
+      "restrictions": "no watermark, no logo, no text"
+    },
+    "aspect_ratio": "1:1"
+  }

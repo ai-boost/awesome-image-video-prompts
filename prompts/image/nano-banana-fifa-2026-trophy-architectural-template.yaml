@@ -1,0 +1,28 @@
+id: nano-banana-fifa-2026-trophy-architectural-template
+title:
+  en: Gold FIFA 2026 trophy in chrome cage frame
+  zh: 金色 FIFA 2026 奖杯配铬金属框架
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- fifa
+- product-render
+- template
+- studio-lighting
+source:
+  name: '@ShamsAmin56 on X'
+  url: https://x.com/ShamsAmin56/status/2065836139429384468
+  credit: Shams
+  likes: 181
+  captured: '2026-10-29'
+  posted: '2026-06-12'
+notes:
+  en: 'A fill-in template locks the studio setup (off-white #F5F5F0 backdrop, centered low-angle framing, studio lighting, 9:16 ratio) while the bracketed slots swap the architectural style. Keeping the lighting and material cues fixed keeps the gold silhouette and FIFA 2026 engraving readable whatever style is slotted in.'
+  zh: '模板把摄影棚设置固定下来：米白背景 #F5F5F0、居中低角度构图、影棚光和 9:16 竖幅，只替换括号里的建筑风格与材质。光照和材质描述保持不变，因此无论套用哪种风格，金色奖杯轮廓和 FIFA 2026 刻字都依然清晰可辨。'
+prompt: |
+  A highly detailed, photorealistic product render of the FIFA 2026 World Cup trophy, featuring the iconic golden silhouette with modern geometric updates and subtle "2026" engraving. The trophy is reimagined through the lens of [ARCHITECTURAL STYLE], incorporating [KEY STYLE ELEMENTS: e.g., stepped geometries, raw material textures, soaring vertical lines, fluid parametric curves, or ornate classical motifs]. Centered vertical composition, eye-level perspective with a slight low-angle framing to emphasize monumentality. Studio three-point lighting with soft directional highlights, emphasizing metallic gold surfaces paired with [STYLE MATERIAL: e.g., polished brass, matte stone, brushed titanium, or frosted glass]. Seamless off-white background (#F5F5F0), clean and uncluttered, grounded with a soft, natural drop shadow. High-end product photography style, Octane Render, ultra-detailed textures, photorealistic, --ar 9:16 --v 6.0 --style raw
+
+  Super Easy To Edit:
+
+  Type your favorite style in the bracket [ARCHITECTURAL STYLE]

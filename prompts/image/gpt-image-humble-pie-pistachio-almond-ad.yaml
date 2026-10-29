@@ -1,0 +1,211 @@
+id: gpt-image-humble-pie-pistachio-almond-ad
+title:
+  en: Woman holding Humble Pie pistachio ice cream tub ad
+  zh: 女性手持开心果冰淇淋桶的广告海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- ice-cream
+- advertising
+- identity-consistency
+- typography
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2070802529504420212
+  credit: Mira Sterling
+  likes: 77
+  captured: '2026-10-29'
+  posted: '2026-06-27'
+notes:
+  en: Uploading a reference photo and listing the exact facial features to keep holds the face steady while only wardrobe, pose and setting change. Spelling out zones (headline left, subject center right, tub stack far right) with the exact copy lets every label land where the prompt asks.
+  zh: 上传参考照片并逐项列出需要保留的面部特征，人物长相得以稳定，同时只改变服装、姿势和场景。把版面分区写得很具体（左侧标题、右侧中部人物、最右侧叠放的罐装产品），并给出准确文案，让每段文字落在指定位置。
+prompt: |
+  Use my uploaded reference image of Mira as the identity reference. Preserve her face exactly. Do NOT alter her facial identity, facial proportions, eye shape, nose, lips, jawline, eyebrows, skin tone, smile, or recognizable facial features. Maintain perfect identity consistency. Only change hairstyle, outfit, pose, accessories, lighting, and environment.
+
+  Create a premium luxury ice cream advertisement for a fictional ice cream brand called Humble Pie in a cinematic commercial style.
+
+  Composition
+
+  Create a 16:9 landscape composition suitable for a billboard, website hero banner, or premium advertising campaign.
+
+  Mira stands on the right side of the frame while the left side contains bold advertising typography and branding.
+
+  Pose
+
+  Mira is holding an open Humble Pie Pistachio Almond ice cream tub toward the camera with one hand.
+
+  The lid is completely removed.
+
+  Inside the tub, the ice cream should look freshly packed, with beautiful rounded artisan scoops visible on top, exactly like premium ice cream tubs seen in luxury advertisements.
+
+  The surface must NOT look eaten or hollow.
+
+  Several smooth, rounded pistachio scoops should be stacked naturally above the rim.
+
+  With the other hand, Mira is holding a spoon with one perfectly rounded pistachio ice cream scoop, bringing it toward her mouth.
+
+  She has a joyful, energetic expression as if she's about to take the first delicious bite.
+
+  Face
+
+  Keep Mira's facial identity 100% identical to the reference.
+
+  Do not modify:
+
+  eye shape
+  eyebrow shape
+  nose
+  lips
+  smile
+  face proportions
+  cheekbones
+  jawline
+  skin texture
+
+  Only improve commercial-quality lighting.
+
+  Hairstyle
+
+  Give Mira a stylish modern hairstyle.
+
+  Loose textured half-up hairstyle with soft volume, face-framing strands, luxurious waves, glossy hair, elegant commercial beauty styling.
+
+  Outfit
+
+  Dress Mira in a fashion-forward premium outfit.
+
+  Color:
+
+  Ultra-bright fluorescent chartreuse / electric neon lemon yellow
+
+  The color should be extremely vibrant and eye-catching while remaining luxurious.
+
+  The outfit should look like premium designer fashion suitable for a luxury lifestyle advertisement.
+
+  Accessories
+
+  Replace the necklace with a minimal elegant luxury gold necklace.
+
+  Simple gold earrings.
+
+  Natural makeup.
+
+  Product
+
+  Brand name:
+
+  Humble Pie
+
+  Flavor:
+
+  Pistachio Almond
+
+  The packaging should look premium, modern, minimal, and luxurious.
+
+  The large ice cream tub in Mira's hand should clearly display:
+
+  Humble Pie
+  Pistachio Almond
+  Premium Ice Cream
+
+  Add realistic pistachios around the product.
+
+  Background
+
+  Luxury studio environment.
+
+  Warm olive-green wall with soft sunlight.
+
+  Large tropical leaf shadows.
+
+  Soft cinematic lighting.
+
+  Premium commercial atmosphere.
+
+  Typography
+
+  Create a modern advertising layout.
+
+  Large headline:
+
+  MADE FOR REAL MOMENTS.
+
+  Subheadline:
+
+  Real ingredients. Unreal indulgence.
+
+  Top-left logo:
+
+  Humble Pie Ice Cream
+
+  Bottom CTA:
+
+  SCOOP HAPPINESS
+
+  Include small premium feature icons:
+
+  Real Ingredients
+  No Artificial Flavors
+  Made With Love
+  Delivered To Your Door
+
+  On the right side, showcase multiple Humble Pie flavor tubs stacked vertically.
+
+  Lighting
+
+  Luxury commercial photography.
+
+  Golden-hour sunlight.
+
+  Soft rim lighting.
+
+  Natural skin tones.
+
+  Beautiful highlights.
+
+  Subtle shadows.
+
+  Ultra-clean reflections.
+
+  Camera
+
+  Medium shot.
+
+  Slight low angle.
+
+  85mm commercial lens.
+
+  Extremely sharp focus.
+
+  Luxury advertising composition.
+
+  Style
+
+  Apple-level commercial photography.
+
+  Luxury FMCG campaign.
+
+  Magazine-quality.
+
+  High-end product advertising.
+
+  Hyper-realistic.
+
+  Photorealistic.
+
+  Ultra-detailed.
+
+  8K.
+
+  Award-winning commercial photography.
+
+  Perfect typography alignment.
+
+  Premium color grading.
+
+  Crisp packaging details.
+
+  Luxury visual storytelling.
+
+  Most Important Instruction: Preserve Mira's facial identity exactly as in the reference image. Do not generate a different woman. Only change the hairstyle, outfit, jewelry, pose, product interaction, background, typography, and commercial styling while keeping her face identical.

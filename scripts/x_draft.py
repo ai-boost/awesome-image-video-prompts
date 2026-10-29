@@ -94,7 +94,7 @@ def write_entry(c, d):
     e.update({"tags": d["tags"],
               "source": {"name": c.get("source_name") or f"@{c['handle']} on X", "url": c["url"], "credit": c["credit"] or c["handle"],
                          "likes": c["likes"], "captured": date.today().isoformat(), "posted": c["posted"]}})
-    if e["source"]["likes"] is None:  # found through a collection that reports no like count
+    if e["source"]["likes"] in (None, ""):  # found through a collection that reports no like count
         del e["source"]["likes"]
     if c.get("via"):
         e["source"]["via"] = f"https://github.com/{c['via']}"

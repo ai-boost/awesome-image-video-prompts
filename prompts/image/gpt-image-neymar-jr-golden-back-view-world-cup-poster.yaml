@@ -1,0 +1,24 @@
+id: gpt-image-neymar-jr-golden-back-view-world-cup-poster
+title:
+  en: Neymar Jr saluting from behind under golden sky
+  zh: 内马尔背对镜头在金色天空下敬礼
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- football
+- world-cup
+- sports-poster
+- golden-hour
+source:
+  name: '@azev300 on X'
+  url: https://x.com/azev300/status/2047830522336858566
+  credit: Azev - IA & MKT
+  captured: '2026-10-29'
+  posted: '2026-04-25'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Naming the exact jersey text, crest placement and back-view pose anchors the subject, while the glowing numerals behind him and the metallic serif title lock the poster layout. Rim lighting and a single gold palette keep the whole frame cohesive.
+  zh: 精确描述球衣文字、队徽位置和背面姿势来锁定主体，背后发光的数字与底部金属质感衬线标题共同确定海报版式，边缘光与单一金色调让整体保持统一。
+prompt: |
+  A dramatic cinematic sports poster of Neymar Jr seen from behind wearing the Brazil national team home jersey, bright yellow with green trim, the name NEYMAR JR across the shoulders and the number 10 large on the back. The player is turned slightly left, raising one hand to his forehead in a salute while looking toward a blazing horizon, with short curly hair in a faded mohawk style, visible neck and arm tattoos, and multiple ear piercings. Show the Brazil federation crest on the sleeve. The background is a glowing golden sky with dramatic storm clouds, intense sunlight, and huge luminous geometric numerals forming “10” behind him like monumental light structures. Use a rich gold and amber color palette, high contrast, rim lighting, volumetric glow, sharp fabric texture, heroic composition, and premium poster design. At the bottom, add large metallic gold serif title text reading NEYMAR JR, with smaller gold text beneath reading “2026” and “COPA DO MUNDO”, centered like an epic World Cup announcement poster.

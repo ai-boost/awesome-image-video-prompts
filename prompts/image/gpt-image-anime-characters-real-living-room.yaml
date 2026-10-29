@@ -1,0 +1,24 @@
+id: gpt-image-anime-characters-real-living-room
+title:
+  en: Anime characters inside a real living room
+  zh: 真实客厅里的动漫角色
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- mixed-media
+- reference-face
+- anime-crossover
+- interior
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2072304737949474960
+  credit: H A J R A
+  likes: 112
+  captured: '2026-10-29'
+  posted: '2026-07-01'
+notes:
+  en: A reference face anchors the real man while each anime character is placed by its exact spot and pose, which keeps the photoreal room and the cel shaded figures in clearly separate layers. Naming the light direction through sheer curtains and the landing spots on sofa, table and pouf keeps the layout consistent.
+  zh: 用参考人脸锁定真人主体，再逐一指定每个动漫角色的具体位置和姿势，让写实客厅与卡通角色保持清楚的分层。明确窗光方向以及沙发、矮桌、布艺凳上的落点，使整体布局和光线保持一致。
+prompt: |
+  A high-fidelity, wide-angle interior shot captures a surreal, mixed-media composition within a modern living room. It features a man resembling the face in the reference photo—using an uploaded face as a reference—wearing a dark green sweatshirt, sweatpant and white sneakers, sitting centrally on a plush light gray sofa. The scene seamlessly blends photorealistic 3D environments with cel-shaded 2D anime and cartoon characters interacting directly with the physical space. On the right side of the subject on the sofa, Nobita sits casually waving his hand, while on the left side, Doraemon leans casually on a pillow. Behind the sofa, two framed posters hang on the white wall—one featuring Son Goku and Vegeta, and the other featuring Trunks in a dynamic anime style. In the foreground, Shinchan lies relaxed on a textured gray carpet near a plate of dorayaki, while a chibi version of Son Goku stands triumphantly on a cream-colored knit pouf. On the left side of the room, Vegeta stands tall on a grooved wooden side table in a confident pose, while a miniature version of Trunks is near the wooden coffee table in the center, as if observing the scene with a curious expression. Soft natural light streams in from the left side through sheer curtains, creating subtle volumetric lighting that accentuates the texture of the blanket, the wood grain of the tiered table, and the leaves of the snake plant in the corner of the room. The entire scene is rendered in 8K resolution with sharp focus, vivid colors, and a dreamy, cinematic, and playful aesthetic blending between the real world and the anime world, with no AI visible.

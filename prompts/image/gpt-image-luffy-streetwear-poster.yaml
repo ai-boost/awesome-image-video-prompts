@@ -1,0 +1,89 @@
+id: gpt-image-luffy-streetwear-poster
+title:
+  en: Monkey D. Luffy in red streetwear poster
+  zh: 草帽路飞红色街头风海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- one-piece
+- luffy
+- streetwear
+- anime-poster
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2051938130505453866
+  credit: K
+  likes: 1891
+  captured: '2026-10-29'
+  posted: '2026-05-06'
+notes:
+  en: A fixed style block sets the pose rules, palette, background and lighting once, so a character name slotted into the template gives a consistent poster. Asking for canon identity elements such as the straw hat keeps the character recognisable while the outfit is restyled as streetwear.
+  zh: 固定的风格模块一次性规定了姿势规则、配色、背景和光线，只需替换角色名就能得到风格统一的海报。要求保留草帽等原作识别元素，同时把服装改写成街头风，让角色仍然一眼可认。
+prompt: |
+  Create a stylized illustration of {character_name} from {franchise}.
+
+  Character Analysis:
+
+  Derive the character’s core personality archetype based on canon portrayal (e.g., heroic, calm, mysterious, aggressive).
+  Identify the signature color from the original design and use it as the primary visual accent.
+
+  Pose & Body Language:
+
+  Generate an iconic pose that reflects the personality archetype:
+  Energetic / Heroic: dynamic action, wide stance, explosive movement
+  Calm / Confident: balanced, relaxed posture, minimal motion
+  Dark / Mysterious: low stance, subtle movement, sharp or hidden gaze
+  Aggressive / Intense: forward-leaning attack stance, visible tension, clenched fists
+
+  Facial Expression:
+
+  Match expression precisely to the character’s personality and emotional tone.
+
+  Art Style:
+
+  Anime × streetwear × graphic poster hybrid
+  Clean lineart, semi-flat shading, high contrast
+  Modern, minimal, and visually striking
+
+  Composition:
+
+  Vertical format ({aspect_ratio})
+  Off-center subject placement
+  Strong diagonal visual flow
+  Layered depth for a dynamic poster feel
+
+  Outfit Design:
+
+  Reimagine the original costume as modern streetwear / techwear
+  Preserve recognizable identity elements of the character
+
+  Color Palette:
+
+  Dominant clean white background
+  Use signature color as the primary accent
+  Add one secondary accent (complementary or analogous tone)
+  Keep palette minimal, bold, and high-contrast
+
+  Background:
+
+  Abstract geometric poster layout
+  Use negative space effectively
+  Integrate subtle accents using the character’s color theme
+
+  Effects:
+
+  Energy strokes, paint lines, and motion accents
+  Effects should follow the character’s energy and color identity
+
+  Lighting:
+
+  Sharp directional lighting
+  Crisp shadows
+  Subtle glow using the signature color
+
+  Rendering Quality:
+
+  Ultra-clean vector-style finish
+  Poster-quality composition
+  4K resolution, high detail

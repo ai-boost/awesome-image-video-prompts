@@ -1,0 +1,29 @@
+id: nano-banana-paramount-backlot-map-1950s
+title:
+  en: Paramount Pictures 1950s backlot map with film sets
+  zh: 派拉蒙1950年代片场地图，布景与电影画面并存
+model: Nano Banana 2
+mode: text-to-image
+category: map
+tags:
+- map
+- film
+- template
+- vintage
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2031038080895820272
+  credit: Alexandra Aisling
+  likes: 106
+  captured: '2026-10-29'
+  posted: '2026-03-09'
+notes:
+  en: This is a reusable template where each slot names a studio, film, star, and set, so the map stays structured while the scenes mix construction with illusion. Film strip borders, a director's chair, and visible crews and lighting rigs reinforce the idea of the studio as a dream factory.
+  zh: 这是一个可复用的填空模板，每个槽位对应一个片场、影片、明星和布景，使地图结构清晰，同时让场景兼具施工与幻象。胶片边框、导演椅以及可见的摄制组和灯光装置，强化了片场即梦工厂的概念。
+prompt: |
+  Prompt Studio: Movie Studio Backlot Map with Nano Banana 2 in Firefly Boards
+
+  A movie studio backlot map of {STUDIO_NAME} golden era, with the false fronts erupting into the films they hosted. {SOUNDSTAGE_1} opens to reveal {FILM_1} mid-scene with {STAR_1} performing, {BACKLOT_SET_1} rises as {FILM_2}'s {ICONIC_SCENE}, {EXTERIOR_LOT} becomes {FILM_3}'s {LOCATION_ILLUSION}. The magic of moviemaking visible—camera crews, lighting rigs, the reality behind the fantasy. Sets exist as both construction and illusion simultaneously. A director's chair sits at map's edge. {ERA_ELEMENT} establishes the period: costumes, cars, equipment of {DECADE}. Film strips border the scene, their frames containing completed moments from the productions. Glamorous studio lighting, golden age warmth, 8K, the dream factory as actual factory.
+
+  Check ALTs for ideas 👇
+  @AdobeFirefly

@@ -1,0 +1,24 @@
+id: gpt-image-mint-rose-perfume-bottle-ecommerce
+title:
+  en: Mint perfume bottle with roses and ribbon
+  zh: 薄荷绿香水瓶配玫瑰与米色织带
+model: GPT Image 2
+mode: image-edit
+category: product
+tags:
+- perfume
+- ecommerce
+- product-photo
+- mint
+source:
+  name: '@lovimg_com on X'
+  url: https://x.com/lovimg_com/status/2077036313832996893
+  credit: lovimg_com
+  captured: '2026-10-29'
+  posted: '2026-07-14'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The opening clause locks the uploaded bottle's shape, glass, wood cap and label text, so the edit changes only the surroundings. Props, cool backlight, shallow depth of field and a portrait canvas set the mood and layout for a detail page.
+  zh: 开头的保留条款锁定上传原图的瓶身造型、玻璃质感、木球盖和标签文字，编辑只改变周围环境。道具、冷调逆光、景深虚化和竖版画布共同决定氛围与详情页版式。
+prompt: |
+  100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清

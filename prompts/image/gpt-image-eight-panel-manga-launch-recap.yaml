@@ -1,0 +1,23 @@
+id: gpt-image-eight-panel-manga-launch-recap
+title:
+  en: Manga recap of GPT Image 2 launch
+  zh: GPT Image 2 发布日漫画回顾
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- manga
+- comic-panels
+- openai
+source:
+  name: '@venturetwins on X'
+  url: https://x.com/venturetwins/status/2046620134933250409
+  credit: venturetwins
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: One sentence that sets the panel count and the topic is enough, because the model fills in layout, characters, speech bubbles and a story arc from the request alone. The concrete launch event gives each panel a clear beat to show.
+  zh: 只需一句话写明格数和主题，模型就能自行补全分镜、角色、对白和故事节奏。具体的发布事件让每一格都有清楚的情节可呈现。
+prompt: |
+  Create an eight-panel manga about GPT-Image-2 launching today

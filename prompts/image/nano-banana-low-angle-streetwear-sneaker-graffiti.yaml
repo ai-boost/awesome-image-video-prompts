@@ -1,0 +1,26 @@
+id: nano-banana-low-angle-streetwear-sneaker-graffiti
+title:
+  en: Low angle girl in red headphones and white sneakers
+  zh: 低角度仰拍，红色耳机女孩与白色球鞋
+model: Nano Banana 2
+mode: image-edit
+category: product
+tags:
+- streetwear
+- fashion
+- low-angle
+- foreshortening
+source:
+  name: '@AIwithSarah_ on X'
+  url: https://x.com/AIwithSarah_/status/2041369381784154173
+  credit: Sarah
+  likes: 104
+  captured: '2026-10-29'
+  posted: '2026-04-07'
+notes:
+  en: The prompt pairs a low camera angle with extreme foreshortening so the projected sneaker dominates the frame, while the attached reference photo fixes the outfit and graffiti wall setting. Limiting the logo to the tongue and side keeps the branding subtle.
+  zh: 提示词用低机位加极端透视，让前景球鞋占据画面，同时依靠参考图锁定服装与涂鸦砖墙背景。把品牌标识限定在鞋舌和鞋侧，使其不抢画面。
+prompt: |
+  Nano Banana 2 on Gemini.
+
+  Prompt: Photorealistic and hyper-detailed fashion art (image attached) of a modern girl wearing red over-ear headphones, a fuchsia crop top, and baggy black sweatpants. Low-angle perspective, extreme foreshortening with a projected white sneaker; only the nameless "NIKE" logo is clearly visible on the tongue and side, detailed texture of the sole. Urban streetwear aesthetic, on asphalt, background of a brick wall with colorful graffiti, clean studio lighting, soft gradients, defined edges, high contrast, masterpiece.

@@ -1,0 +1,23 @@
+id: gpt-image-snowman-starbucks-collab-poster
+title:
+  en: Snowman mascot and Starbucks iced drinks collab poster
+  zh: 雪王和星巴克冰饮联名海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- co-branding
+- beverage
+- retail-promo
+source:
+  name: '@web3annie on X'
+  url: https://x.com/web3annie/status/2046877548966256724
+  credit: Annie 所长
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Lists every layout zone in order, from the logo row and headline down to the price block and merch row, so each element lands where the poster needs it. Glossy product lighting, shallow depth of field and a fixed merch count keep the retail photo look and item count consistent.
+  zh: 按版面从上到下逐区定义元素，包括标题、饮品、雪王、标签、价格块和周边区，让每个元素落在正确位置。用光泽饮品摄影、浅景深和固定的周边数量描述，保持零售海报的质感与数量一致。
+prompt: |
+  A bright, cheerful summer co-branded beverage poster in a clean Chinese commercial advertising style, showing a collaboration between 蜜雪冰城 and STARBUCKS. Vertical poster layout with a soft blue sky background, sunlit greenery, and an outdoor cafe atmosphere. At the top, place both brand logos side by side with a large bold Chinese headline in playful hand-drawn display lettering: 雪王遇见星朋友. Beneath it, add a green ribbon banner with Chinese subheadline text: 米雪冰城 × 星巴克 联名开启, and a smaller line reading "甜蜜加倍·快乐翻倍". Include 2 circular stamp-style graphics: one on the left reading "联名限定", and one on the upper right like a postmark with Chinese text around a small drink icon. In the center foreground on a wooden outdoor table, display 2 iced drinks: on the left, a tall clear cup of vivid green matcha slush topped with a tall swirl of vanilla soft serve and green matcha drizzle, with visible ice texture and a cute snowman mascot logo on the cup; on the right, a tall clear Starbucks-style iced latte with milk and green matcha swirls at the bottom, topped with whipped cream and dark cookie crumbs, with the green siren logo on the cup. In front of the drinks, place 1 cute white snowman mascot figurine with a tiny crown, round body, rosy cheeks, red cape, and a happy wink, sitting and holding a small takeaway coffee cup. Add 2 vertical product name tags beside the drinks: left tag "雪顶抹茶星冰乐", right tag "抹茶雪王奥利奥". On the right midground, place 1 small black chalkboard sign on a wooden easel reading "ICE CREAM & COFFEE" with chalk drawings of an ice cream cone and a takeaway cup. In the lower left, create a torn-paper price block showing a combo offer with large red numbers "¥19.9", green supporting text, and a small green badge reading "立省 ¥6". In the lower center-right, add a "联名周边" area displaying exactly 4 merchandise items: 1 cup sleeve, 1 character keychain or acrylic charm, 1 round badge, and 1 small sticker or token, all using the snowman mascot and coffee collaboration theme. Use warm sunlight, glossy drink photography, shallow depth of field, soft bokeh trees, high contrast product retouching, crisp packaging details, and an upbeat youthful retail-promo aesthetic. Include scattered doodle hearts and playful decorative accents around the typography. Keep all visible text in Chinese except the Starbucks wordmark and the chalkboard text.

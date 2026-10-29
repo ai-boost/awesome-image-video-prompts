@@ -1,0 +1,24 @@
+id: nano-banana-pringles-fire-chili-flow-volcano
+title:
+  en: Pringles Fire Chili Flow can rising from lava rocks
+  zh: Pringles 火辣辣椒味薯片罐从熔岩岩石中升起
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- snack
+- food ad
+- volcano
+- fire
+source:
+  name: '@mr_farman_ai on X'
+  url: https://x.com/mr_farman_ai/status/2076622941026988261
+  credit: Mr Farman Ai
+  likes: 71
+  captured: '2026-10-29'
+  posted: '2026-07-13'
+notes:
+  en: Naming the product and its flavour, then placing it in a set (cracked volcanic rocks, glowing lava fissures) with a lighting direction (molten orange and deep crimson) keeps the whole frame in one warm palette. Closing with commercial terms like high end studio lighting, shallow depth of field and 8K render sets the glossy ad finish.
+  zh: 先写明产品与口味，再描述场景（破裂火山岩、发光的熔岩裂缝）和打光方向（熔橙与深红），让整张画面保持统一的暖色调。结尾加入高端影棚灯光、浅景深和8K渲染等商业用语，确定光泽感的广告成片效果。
+prompt: |
+  Ultra-realistic cinematic advertising photography of a “Pringler – Fire Chili Flow” potato chips can emerging from cracked volcanic rocks. The can stands upright in the center while glowing lava fissures surround it. Fiery red chili chips levitate around the product in slow motion, illuminated by molten orange and deep crimson lighting. Explosive sparks, burning chili flakes, and floating embers fill the atmosphere, creating the feeling of extreme heat and intensity. Thick spicy smoke swirls behind the can, while droplets of chili oil and seasoning particles shimmer in the air. Premium commercial food photography, dramatic contrast, hyper-detailed textures, luxury snack campaign, high-end studio lighting, cinematic depth of field, ultra-realistic 8K render.

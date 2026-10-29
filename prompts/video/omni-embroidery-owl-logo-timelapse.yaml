@@ -1,0 +1,31 @@
+id: omni-embroidery-owl-logo-timelapse
+title:
+  en: Macro timelapse of embroidery stitching an owl logo
+  zh: 微距延时拍摄刺绣缝制猫头鹰标志
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- embroidery
+- macro
+- logo
+- timelapse
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2093388159602041067
+  credit: TechieSA
+  likes: 634
+  captured: '2026-10-29'
+  posted: '2026-08-27'
+video: https://x.com/TechieBySA/status/2093388159602041067
+notes:
+  en: The prompt starts from empty fabric and specifies satin stitches laid row by row, so the logo builds up in a clear order. Stating no hands, threads that move on their own, and one shot with no scene change keeps the motion consistent.
+  zh: 提示词从空白面料开始，并指定缎面针逐行绣出图案，使标志按顺序逐步成形。明确写明无手部、线自行运动且为单一镜头，让运动保持连贯、画面不切换。
+prompt: |
+  “Extreme macro shot of woven cotton shirt fabric, empty at first. Colored
+  embroidery threads rise from the surface and weave themselves into place,
+  laying down tight satin stitches row by row, tracing out the logo. The
+  stitched area grows steadily across the frame, thread pulling taut and
+  raising into dimensional embroidered texture, until the full logo is
+  complete. Camera holds steady, slow satisfying timelapse pace. Soft
+  natural side light, shallow depth of field, visible fabric fibers and
+  realistic thread sheen. No hands, thread moves on its own. One shot no scene change.”

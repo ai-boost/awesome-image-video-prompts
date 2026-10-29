@@ -1,0 +1,24 @@
+id: nano-banana-motorcycle-fashion-collage-three-panel
+title:
+  en: Three panel collage of woman with black motorcycle
+  zh: 女子与黑色复古摩托车的三联时尚拼贴
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- collage
+- motorcycle
+- fashion
+- portrait
+source:
+  name: '@Soaima_Ai on X'
+  url: https://x.com/Soaima_Ai/status/2070361938031464613
+  credit: Soaima
+  likes: 70
+  captured: '2026-10-29'
+  posted: '2026-06-26'
+notes:
+  en: The prompt splits the shot into one full-body hero frame and two tight side panels, each with a named action such as smiling, adjusting a watch or looking away. Repeating the same wardrobe and sunglasses in every panel keeps the three frames reading as one shoot.
+  zh: 提示词将画面拆分为一张全身主图和两张近景侧图，每张都指定一个动作，如微笑、调整手表或侧身看向别处。三个画面重复相同的服装和墨镜，让它们看起来像同一次拍摄。
+prompt: |
+  A three-panel fashion collage style photo showcasing a stylish Indian woman posing with a black vintage motorcycle. The main image is a full-body shot showing her in a white casual shirt, khaki cargo trousers, and white tennis shoes. The smaller side panels show medium close-ups of her smiling, adjusting her watch, and looking away. She has long dark hair and is wearing classic sunglasses.

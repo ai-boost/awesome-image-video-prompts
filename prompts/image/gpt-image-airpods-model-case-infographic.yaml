@@ -1,0 +1,33 @@
+id: gpt-image-airpods-model-case-infographic
+title:
+  en: Model holding AirPods case in feature infographic
+  zh: 模特手持 AirPods 充电盒的功能信息图
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- airpods
+- infographic
+- reference-identity
+- product-ad
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2049513437542461551
+  credit: Meem
+  likes: 227
+  captured: '2026-10-29'
+  posted: '2026-04-29'
+notes:
+  en: Naming the product, a reference image for identity, and a fixed set of labelled callouts gives an ad layout with clear negative space. Stating the palette, lighting and 1:1 ratio keeps the result consistent in a commerce ad style.
+  zh: 明确产品名称、参照图身份锁定，以及固定的图标标注和指引线布局，使画面呈现清晰的广告式构图与留白。指定配色、布光和 1:1 比例，让输出风格统一。
+prompt: |
+  High-end e-commerce infographic featuring Apple AirPods (latest generation). A young woman (same face and identity as the provided reference image) is the central subject, shown in a clean studio setting with soft, diffused lighting. She is wearing AirPods in her ears, naturally integrated into the scene, and holding the open AirPods charging case in her hand at chest level, slightly angled toward the camera.
+  The composition should feel premium and minimal, with a crisp white or light gradient background. Include subtle reflections and soft shadows for a polished product-ad look. The AirPods case should be glossy white with visible earbuds inside and a small LED indicator light.
+  Add modern infographic elements around the subject: – Thin, elegant pointer lines highlighting key features
+  – Minimal icons and short labels such as “Active Noise Cancellation,” “Spatial Audio,” “Long Battery Life,” and “Seamless Connectivity”
+  – Clean sans-serif typography (Apple-style aesthetic)
+  – Balanced layout with negative space, not cluttered
+  Style: ultra-realistic, sharp focus, shallow depth of field, commercial photography quality, Apple-inspired design language
+  Color palette: white, light grey, soft blue accents
+  Aspect ratio: 1:1
+  Resolution: 4K, highly detailed, professional product showcase

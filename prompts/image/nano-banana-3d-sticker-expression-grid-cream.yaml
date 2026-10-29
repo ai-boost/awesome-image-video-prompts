@@ -1,0 +1,71 @@
+id: nano-banana-3d-sticker-expression-grid-cream
+title:
+  en: Nine 3D sticker expressions in a cream 3x3 grid
+  zh: 奶油色3x3网格中的九款3D贴纸表情
+model: Nano Banana 2
+mode: image-edit
+category: character
+tags:
+- sticker-set
+- pixar-style
+- face-reference
+- expression-grid
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2039340995322446177
+  credit: WasifAI
+  likes: 322
+  captured: '2026-10-29'
+  posted: '2026-04-01'
+notes:
+  en: Anchors identity to one uploaded face and forbids beautifying, so likeness holds across all nine variants. Each cell then changes only the expression, the outfit and the pose inside a fixed 3x3 grid on cream.
+  zh: 将单张上传人脸设为唯一面部参考并禁止过度美化，让九个变体保持相同长相。每格只改变表情、服装和姿势，并固定在奶油色背景的3x3网格中。
+prompt: |
+  Create a premium Pixar-style 3D character sticker set that is clearly recognizable as the same person. Use the uploaded image as the ONLY facial reference.
+  Output Requirements:
+  3×3 grid layout (9 stickers total)
+  Final aspect ratio: 4:5
+  Ultra high resolution (8K)
+  Clean cream background
+  Each sticker is separated with clear spacing
+  Add a subtle drop shadow under each sticker for depth
+  Character Identity (VERY IMPORTANT):
+  MUST preserve exact facial structure, hairstyle, grooming details, and unique features from the uploaded image
+  Maintain high likeness accuracy
+  Do NOT over beautify or alter identity beyond recognition
+  Style:
+  Pixar-style 3D animation
+  Glossy, high-end rendering
+  Soft global illumination
+  Smooth shading
+  High-detail facial textures
+  Framing:
+  All stickers must be head and shoulders (portrait close-up) only
+  No full-body or mid-body shots allowed
+  Focus tightly on face and upper shoulders to emphasize expressions
+  Outfit:
+  Modern casual and slightly stylized clothing
+  Each sticker must have a different outfit (no repetition at all)
+  Clean, minimal, and visually appealing for sticker use
+  Expressions & Poses (9 variations):
+  1. Happy smile
+  2. Laughing
+  3. Cool (with sunglasses)
+  4. Angry/serious
+  5. Surprised
+  6. Thinking
+  7. Wink
+  8. Love (heart eyes and heart gesture)
+  9. Thumbs up
+  Sticker Design:
+  Bold, clean outline
+  Slightly exaggerated cartoon proportions
+  Strong emphasis on facial expressions
+  Optimized for digital sticker platforms
+  Each sticker must have a smooth rounded bottom cutout (semi-curved base)
+  No text
+  Lighting:
+  Soft studio lighting
+  Subtle rim light for depth and separation
+  Goal:
+  Create a highly engaging, cute, and expressive sticker pack that feels premium and collectable.

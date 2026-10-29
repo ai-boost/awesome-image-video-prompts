@@ -1,0 +1,36 @@
+id: gpt-image-three-nyc-billboard-comparison-slide
+title:
+  en: Three NYC billboard street photos as comparison panels
+  zh: 三张纽约街景广告牌照片对比
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- billboard
+- comparison-slide
+- street-photo
+- nyc
+source:
+  name: '@synthwavedd on X'
+  url: https://x.com/synthwavedd/status/2086561496864047271
+  credit: leo 🐾
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A fixed three panel row with pale beige mats and centered captions makes the slide read as a model comparison. Each panel gets its own street angle, lighting and billboard spec, so the outputs differ while the concept stays the same.
+  zh: 固定的三联排版、米色衬边和居中说明文字，让画面像模型对比图。每张照片有各自的街道角度、光线和广告牌设定，结果有差异，概念却保持一致。
+prompt: |
+  Goal: Create a clean comparison graphic showing three AI-generated urban billboard photos side by side, as if comparing image model outputs.
+
+  Canvas: Wide 16:9 presentation slide with a warm off-white background and generous margins. Place three tall vertical photo panels evenly spaced across the canvas, each framed by a pale beige mat/border. Under each panel, add a centered caption.
+
+  Layout: Exactly 3 vertical street-photo panels in one row. Panel 1 on the left, Panel 2 in the center, Panel 3 on the right. Each panel shows a realistic New York City street scene with parked cars in the foreground, tall buildings, sidewalks, traffic signs, and a large square billboard mounted high on a building. Use slightly different street angles and lighting in each panel, like three separate model outputs of the same concept.
+
+  Panel details: Left panel: a rear view of a black SUV parked on a city street, looking toward storefronts and buildings; a large white billboard above the street reads like a social-media quote card with a small circular animal avatar, the heading “What do you think?”, a short quote, and small ChatGPT branding. Center panel: a black SUV parked on a narrow Manhattan street with the Empire State Building visible in the distance; a large dark billboard with white text, a circular animal avatar, and ChatGPT branding. Right panel: a black sedan parked along a busier avenue with storefront signs such as “I ♥ NY GIFTS”; a large black billboard with a bright cyan border, white quote text, a circular animal avatar, and ChatGPT branding.
+
+  Caption text: Use exactly 3 captions beneath the panels. Left caption: “ChatGPT Images 2.0” on the first line and “MEDIUM” in bold quotation marks on the second line. Center caption: “mona-lisa-1” in bold quotation marks. Right caption: “ChatGPT Images 2.0” on the first line and “HIGH” in bold quotation marks on the second line.
+
+  Customizable text slots: The comparison labels should read ChatGPT Images 2.0, mona-lisa-1, and ChatGPT Images 2.0. The left quality tag should be MEDIUM and the right quality tag should be HIGH.
+
+  Visual style: Photorealistic smartphone street photography inside each panel, but arranged as a polished social-media comparison slide. Keep the overall slide minimal, with no decorative graphics beyond the three framed images and their captions. The billboard text inside the photos may be small and partially imperfect, but it should clearly resemble AI quote-card advertising with ChatGPT logos.

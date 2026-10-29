@@ -1,0 +1,26 @@
+id: gpt-image-crayon-doodle-footballer-caricature
+title:
+  en: Crayon doodle caricature of a footballer in red
+  zh: 蜡笔涂鸦风穿红色球衣的足球运动员漫画像
+model: GPT Image 2
+mode: image-edit
+category: illustration
+tags:
+- doodle
+- caricature
+- crayon
+- sketch
+source:
+  name: '@Shorelyn_ on X'
+  url: https://x.com/Shorelyn_/status/2063235707632533954
+  credit: Shorelyn_
+  captured: '2026-10-29'
+  posted: '2026-06-06'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt keeps the person recognizable while exaggerating an oversized head and a crooked grin. It lists wax crayon, marker bleed, handwritten captions, arrows and stars as explicit elements, plus paper grain and an asymmetric layout, so the result reads as a handmade sketchbook page.
+  zh: 提示词先保留人物可辨认的五官，再夸张大头和歪嘴笑。蜡笔质感、马克笔洇色、手写小字、箭头和星星都被逐项列出，并要求纸张纹理与不对称构图，因此画面像一页手绘速写本。
+prompt: |
+  Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.
+
+  Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.

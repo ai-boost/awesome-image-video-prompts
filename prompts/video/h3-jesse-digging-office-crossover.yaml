@@ -1,0 +1,26 @@
+id: h3-jesse-digging-office-crossover
+title:
+  en: Jesse digging a deep hole in a suburban yard
+  zh: 杰西在郊外院子里挖一个深坑
+model: MiniMax H3
+mode: text-to-video
+tags:
+- minimax-h3
+- crossover
+- dialogue
+- handheld
+- timestamped-shots
+source:
+  name: '@WolfRiccardo on X'
+  url: https://x.com/WolfRiccardo/status/2084402067120988527
+  credit: Riccardo Wolf
+  likes: 615
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/WolfRiccardo/status/2084402067120988527
+notes:
+  en: Each beat is timestamped with its own camera, action and sound cues, so one prompt drives a 15 second scene in order. Spoken lines sit inside their beat with the speaker and emotion named, which keeps dialogue and expressions in sync with the shot.
+  zh: 每个时间段都单独写明镜头、动作和声音，让一段提示词按顺序驱动15秒的完整场景。台词放在对应时间段内并注明说话人和情绪，使对白与表情和镜头保持同步。
+prompt: "The Office & Breaking Bad.\n0:00–0:04 — Medium-wide handheld shot. Jesse angrily throws several shovelfuls of dirt into the deep hole. Realistic shovel impacts, scattering dirt, and heavy breathing. Dwight suddenly walks into frame, studies the hole suspiciously, and adjusts his glasses.\n\n0:04–0:07 — Dwight looks down at Jesse with a smug, sarcastic expression and says:\n\n“Hello, little man. Digging your own grave?”\n\n0:07–0:11 — Jesse immediately stops digging, slowly turns toward Dwight, and tightly grips the shovel. With an angry, threatening expression, he replies:\n\n“No, no, no… I’m digging it for you. Just like I did for Michael.”\n\n0:11–0:15 — Dwight’s confidence instantly collapses. His face fills with horror, his eyes widen, and he begins crying and panicking dramatically. He grabs Jesse by the shoulders and screams:\n\n“No! What did you do to Michael?! Where is he? Tell me now!”\n\nJesse remains completely emotionless, silently staring at Dwight while holding the\
+  \ shovel. The video ends abruptly on Dwight’s terrified face. \n\n#Flovaai #Flovacpp @Flovaai @Flovaai_Japan\n"

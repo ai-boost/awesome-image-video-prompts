@@ -1,0 +1,194 @@
+id: nano-banana-cornetto-belgian-chocolate-ad
+title:
+  en: Cornetto Belgian Chocolate ad with floating cone
+  zh: Cornetto 比利时巧克力冰淇淋悬浮广告
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- ice-cream
+- food-photography
+- chocolate
+- brand-ad
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2056661445950214603
+  credit: Snow
+  likes: 94
+  captured: '2026-10-29'
+  posted: '2026-05-19'
+notes:
+  en: The prompt gives each object its own position, orientation and materials, so the front package, cone and back panel sit in one coherent layout. A frozen motion chocolate splash with a key light from upper left and rim light on the gold edges produces the premium commercial CGI look.
+  zh: 提示词为每个物体单独指定位置、朝向和材质，因此正面包装、甜筒和背面包装能组成统一的版面。冻结动态的巧克力飞溅配合左上方主光与金色边缘轮廓光，形成高端商业 CGI 质感。
+prompt: |
+  {
+    "image_type": "luxury commercial ice cream advertisement",
+    "resolution_target": "8K",
+    "aspect_ratio": "3:4",
+    "orientation": "vertical",
+
+    "scene": {
+      "environment": "premium studio product photography",
+      "background": {
+        "color": "deep chocolate brown to black gradient",
+        "texture": "smooth matte finish",
+        "lighting_falloff": "soft cinematic radial glow behind product"
+      }
+    },
+
+    "composition": {
+      "style": "floating premium dessert arrangement",
+      "depth": "layered foreground, midground and background composition",
+      "camera_angle": "slightly top-down cinematic perspective",
+      "camera_distance": "medium close-up",
+      "focus": "sharp focus on central Cornetto package and ice cream cone",
+      "visual_flow": "dynamic diagonal movement from upper left to lower right"
+    },
+
+    "primary_objects": [
+      {
+        "object_type": "ice_cream_package",
+        "brand_text": "Cornetto",
+        "flavor_text": "Belgian Chocolate",
+        "position": "upper center",
+        "orientation": "slightly tilted upward",
+        "packaging_material": "glossy premium wrapper",
+        "packaging_colors": [
+          "dark chocolate brown",
+          "black",
+          "gold"
+        ],
+        "text_details": {
+          "main_text": "Cornetto",
+          "secondary_text": "Belgian Chocolate",
+          "font_style": "luxury modern script with bold sans-serif",
+          "text_colors": [
+            "white",
+            "gold"
+          ]
+        },
+        "graphics": [
+          "melted Belgian chocolate splash",
+          "rich chocolate chunks",
+          "creamy swirl illustration",
+          "gold chocolate drizzle"
+        ]
+      },
+
+      {
+        "object_type": "ice_cream_cone",
+        "brand_style": "Cornetto waffle cone",
+        "position": "center",
+        "orientation": "slightly angled toward camera",
+        "cone_texture": "crispy golden waffle pattern",
+        "ice_cream_flavor": "Belgian chocolate soft swirl",
+        "toppings": [
+          "dark chocolate curls",
+          "Belgian chocolate shards",
+          "chocolate sauce drizzle"
+        ],
+        "details": {
+          "top_texture": "smooth creamy swirl",
+          "bottom_tip": "signature chocolate-filled cone tip",
+          "surface_reflection": "subtle glossy highlights"
+        }
+      },
+
+      {
+        "object_type": "ice_cream_package",
+        "brand_text": "Cornetto",
+        "position": "bottom",
+        "orientation": "back side visible",
+        "packaging_material": "glossy plastic wrapper",
+        "visible_elements": [
+          "nutrition information",
+          "barcode",
+          "ingredient icons",
+          "Belgian chocolate emblem"
+        ]
+      }
+    ],
+
+    "secondary_objects": [
+      {
+        "object_type": "chocolate_chunks",
+        "colors": [
+          "dark brown",
+          "milk chocolate"
+        ],
+        "texture": "rich glossy Belgian chocolate",
+        "positions": [
+          "floating around cone",
+          "foreground",
+          "background"
+        ]
+      },
+
+      {
+        "object_type": "cocoa_powder_particles",
+        "color": "dark cocoa brown",
+        "distribution": "floating cinematic dust effect"
+      },
+
+      {
+        "object_type": "hazelnuts",
+        "color": "warm beige brown",
+        "texture": "natural matte shell",
+        "positions": "scattered mid-air around product"
+      },
+
+      {
+        "object_type": "liquid_chocolate_splash",
+        "color": "dark Belgian chocolate",
+        "style": "high-speed frozen splash effect",
+        "positions": "wrapping around center cone"
+      }
+    ],
+
+    "lighting": {
+      "type": "cinematic studio lighting",
+      "key_light": "soft directional light from upper left",
+      "fill_light": "subtle ambient fill lighting",
+      "rim_light": "golden edge highlights on packaging and cone",
+      "reflections": "luxury glossy reflections on chocolate and wrapper",
+      "shadows": "soft floating shadows beneath suspended objects"
+    },
+
+    "materials": {
+      "packaging": "premium glossy foil wrapper",
+      "cone": "crispy matte waffle texture",
+      "ice_cream": "smooth creamy Belgian chocolate texture",
+      "chocolate": "rich glossy melted surface",
+      "nuts": "natural matte texture"
+    },
+
+    "color_palette": {
+      "dominant": [
+        "black",
+        "dark chocolate brown"
+      ],
+      "accent": [
+        "gold",
+        "cream",
+        "warm beige"
+      ],
+      "highlight": [
+        "white",
+        "glossy reflections"
+      ]
+    },
+
+    "motion_effect": {
+      "style": "frozen motion photography",
+      "objects": "cone, chocolate splashes and chunks suspended mid-air",
+      "particle_effect": "floating cocoa dust and crumbs"
+    },
+
+    "render_quality": {
+      "detail_level": "ultra high detail",
+      "sharpness": "extremely crisp edges",
+      "texture_quality": "hyper realistic materials",
+      "render_style": "cinematic luxury food advertising",
+      "finish": "premium commercial CGI look"
+    }
+  }

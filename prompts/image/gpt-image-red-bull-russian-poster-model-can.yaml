@@ -1,0 +1,32 @@
+id: gpt-image-red-bull-russian-poster-model-can
+title:
+  en: Red Bull Russian poster with model holding can
+  zh: 红牛俄语海报，模特手持易拉罐
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- red-bull
+- poster
+- russian-text
+- forced-perspective
+- product-reference
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2071604951919329794
+  credit: H A J R A
+  likes: 75
+  captured: '2026-10-29'
+  posted: '2026-06-29'
+notes:
+  en: Attaching the product photo as an exact reference locks the can's logo, colours and packaging, and a low angle wide lens with forced perspective makes it dominate the foreground. Requiring fully legible, error free Russian headlines and slogans keeps the typography clean and poster-like.
+  zh: 附上产品原图作为精确参考，锁定罐身的logo、配色和包装；低角度广角配合透视变形，让产品占据前景。要求俄语标题和口号完全清晰、无拼写错误，使排版保持专业广告海报的质感。
+prompt: |
+  Use the downloaded product image as an exact reference. Fully preserve the shape, packaging, materials, colors, proportions, logo, and brand elements.
+  An ultra-realistic commercial advertising poster. A low-angle wide-angle lens view. A confident, stylish model holding the product, directly facing the camera. The product dominates the foreground due to the forced perspective effect.
+  A modern fashion image, with clothing, accessories, and color palette automatically adapting to the product's style and colors. Dynamic energy, premium brand aesthetics, trendy lifestyle content.
+  A highly detailed product with realistic textures, reflections, water droplets, and perfectly legible packaging. The background is filled with graphic elements in the brand's colors: graffiti, brush strokes, paint splashes, collage textures, arrows, stars, lightning bolts, stickers, and advertising typography.
+  All text in the image must be written in Russian, fully legible, grammatically correct, without spelling errors, random symbols, distorted letters, unreadable words, or AI artifacts. All headlines, slogans, descriptions, flavors, characteristics, and advertising phrases should look like a real professional advertisement.
+  The AI automatically adapts fonts, sizes, composition, and text placement to the poster layout.
+  Premium magazine design, high contrast, sharp focus, commercial product photography, luxury advertising, fashion editorial, ultra realistic, photorealistic, HDR, 8K.
+  Avoid: unreadable text, errors in Russian, AI artifacts, CGI, cartoonish style, distorted product, blurriness, watermarks, and low quality.

@@ -1,6 +1,6 @@
 # 照片转艺术风格
 
-[返回目录](../../README_zh.md) · 全部 96 条
+[返回目录](../../README_zh.md) · 全部 103 条
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -1063,6 +1063,242 @@ Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale
 
 </details>
 
+<a id="gpt-image-couple-dog-swing-photo-watercolor"></a>
+### 情侣与狗坐花藤秋千，照片与水彩双拼
+
+<a href="https://x.com/ElsaSofia__AI/status/2096781706477068548"><img src="../../previews/gpt-image-couple-dog-swing-photo-watercolor.jpg" width="360"></a>
+
+提示词先锁定目标版式、光线与手写文字，再要求上下两段出现同一批人物。分别指定参考图并列出不可改动的元素，使照片段与水彩段保持一致。
+
+GPT Image 2 · 上传图改图 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2096781706477068548) · 252 赞，统计于 2026-10-29
+
+[`image-edit`](tags.md#tag-image-edit) [`reference-images`](tags.md#tag-reference-images) [`watercolor`](tags.md#tag-watercolor) [`split-layout`](tags.md#tag-split-layout)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Image: 1
+Create a single high-resolution image using the provided target image as the EXACT visual, composition, scene, and layout reference.
+
+Use the uploaded person reference image as the EXACT identity and clothing reference.
+
+PERSON REFERENCE — STRICT IDENTITY PRESERVATION:
+Recreate the person from the uploaded reference image with maximum identity consistency.
+
+Preserve:
+- Exact facial identity
+- Facial structure and proportions
+- Eyes, eyebrows, nose, lips, cheeks, jawline and chin
+- Natural skin tone and complexion
+- Hairstyle
+- Hair length, texture, volume, hairline and overall hair appearance
+- Any visible facial hair
+- Recognizable physical characteristics
+
+CLOTHING — STRICT REFERENCE MATCH:
+The person must wear the EXACT outfit shown in their uploaded reference image.
+
+Copy the reference clothing as accurately as possible, including:
+- Clothing type and design
+- Colors
+- Patterns and prints
+- Fabric appearance
+- Sleeves
+- Neckline
+- Fit and proportions
+- Buttons, stitching and other details
+- Visible accessories
+
+DO NOT create a different outfit.
+DO NOT redesign the clothing.
+DO NOT change the clothing colors.
+DO NOT remove clothing details.
+DO NOT substitute the outfit with another style.
+
+TARGET SCENE:
+Recreate the target image as closely as possible.
+
+Preserve the exact:
+- Composition
+- Camera perspective
+- Framing
+- Subject placement
+- Body positions
+- Poses
+- Expressions
+- Scale and proportions
+- Background
+- Environment
+- Lighting
+- Shadows
+- Depth of field
+- Color grading
+- Decorative elements
+- Props
+- Overall visual atmosphere
+
+ROMANTIC COUPLE SCENE:
+Maintain the flower-covered wooden swing surrounded by a beautiful garden filled with greenery and flowers.
+
+Keep the black dog positioned between the couple exactly as shown in the target image, with the couple naturally interacting with and gently touching the dog.
+
+Maintain the warm golden-hour sunlight, soft cinematic glow, natural shadows, shallow depth of field, foreground flower bokeh, and romantic peaceful atmosphere.
+
+TOP SECTION:
+Recreate the upper section as a highly realistic cinematic photograph.
+
+Keep the same couple arrangement, swing, dog, poses, clothing placement, garden, flowers, lighting, camera angle and composition.
+
+Replace only the people with the uploaded reference identities and their reference outfits.
+
+BOTTOM SECTION:
+Recreate the lower section as the same scene transformed into a beautiful soft watercolor / hand-painted illustration.
+
+The illustrated couple must still clearly represent the SAME reference people:
+- Same facial identity
+- Same hairstyle
+- Same hair appearance
+- Same reference clothing
+- Same recognizable features
+
+Preserve the same swing, black dog, flowers, leaves, poses, composition and overall arrangement.
+
+Keep the warm cream/off-white paper background and delicate hand-painted watercolor texture.
+
+Preserve the handwritten decorative text and heart symbols exactly as they appear in the target image. Do not invent or replace the wording.
+
+CONSISTENCY:
+The people in the TOP and BOTTOM sections must be the same individuals.
+
+The male reference identity must remain consistent in both sections.
+The female reference identity must remain consistent in both sections.
+
+Their faces, hair and outfits must remain visually consistent between the realistic photograph and the watercolor illustration.
+
+IMPORTANT:
+This is an image recreation, not a redesign.
+
+Keep everything from the target image unchanged unless specifically instructed to replace the person's identity or clothing with the uploaded reference.
+
+Do not add extra people.
+Do not remove the dog.
+Do not change the swing.
+Do not change the poses.
+Do not change the background.
+Do not change the flowers.
+Do not change the lighting.
+Do not change the overall composition.
+Do not mix identities.
+Do not mix clothing between references.
+Do not invent new clothing.
+Do not add text.
+Do not add logos.
+Do not add a watermark.
+
+FINAL OUTPUT:
+Generate BOTH the photorealistic TOP SECTION and the watercolor BOTTOM SECTION together as ONE single cohesive high-resolution image, matching the target image's original layout and visual appearance as closely as possible.
+
+Image: 2
+Create an exact recreation of the provided target image as a two-section romantic travel poster.
+
+REFERENCE PERSON:
+Use the uploaded reference image(s) as the ONLY identity and clothing reference for the person/people.
+
+For each person, preserve:
+- Exact facial identity and facial structure
+- Eyes, eyebrows, nose, lips, jawline and skin tone
+- Hairstyle, hair length, texture, volume and hairline
+- Facial hair if present
+- EXACT clothing and accessories visible in their reference image
+- Clothing colors, patterns, fabric, sleeves, neckline, fit and details
+
+IMPORTANT:
+The person’s face, hair AND clothing must come from their own reference image.
+Do NOT invent a new outfit.
+Do NOT change or redesign the reference clothing.
+Do NOT mix one person’s clothing with another person’s reference.
+If the reference person is wearing a different outfit, reproduce that exact outfit naturally in the target pose.
+
+TARGET COMPOSITION:
+Recreate the target image with the SAME two-panel layout.
+
+TOP PANEL — PHOTOREALISTIC:
+A cinematic romantic photograph of a couple riding a classic vintage motorcycle along a dramatic ocean coastline.
+
+Preserve the exact target composition:
+- Man seated in front, holding the motorcycle handlebars
+- Woman seated behind him, affectionately wrapping one arm around him
+- Same body positions and interaction
+- Same motorcycle
+- Same camera angle and framing
+- Same sunglasses placement/style
+- Same coastal ocean
+- Same waves and rocky cliffs
+- Same distant lighthouse
+- Same cloudy sky
+- Same cinematic depth of field
+- Same overall color grading and atmosphere
+
+The motorcycle must remain visually consistent with the target image, including its vintage design, round headlamp, mirrors, fuel tank, chrome details and overall appearance.
+
+BOTTOM PANEL — WATERcolor ILLUSTRATION:
+Recreate the SAME exact scene as a delicate hand-painted watercolor and ink illustration on warm cream textured paper.
+
+Preserve:
+- Same couple
+- Same identities
+- Same hairstyles
+- Same reference clothing
+- Same motorcycle
+- Same poses
+- Same ocean and rocks
+- Same lighthouse
+- Same composition
+- Same decorative elements
+- Same handwritten-style quotes
+- Same heart symbols
+- Same birds and subtle illustrated details
+
+The bottom illustration must clearly depict the SAME couple from the top panel.
+
+IDENTITY CONSISTENCY:
+The male must remain the same person in both panels.
+The female must remain the same person in both panels.
+Their faces, hairstyles and reference outfits must remain consistent between the photorealistic top panel and watercolor bottom panel.
+
+STYLE:
+Premium cinematic romantic travel photography combined with elegant hand-painted watercolor artwork. Natural skin texture, realistic facial details, realistic fabric, physically believable lighting, professional editorial quality, subtle filmic atmosphere.
+
+LAYOUT:
+Keep the exact horizontal division between the two panels.
+Top panel = realistic photograph.
+Bottom panel = watercolor illustration.
+Both panels must be part of ONE single vertical poster image.
+
+DO NOT:
+- Change the composition
+- Change the poses
+- Change the motorcycle
+- Change the location
+- Change the background
+- Change the lighting
+- Change the clothing from the provided person references
+- Mix identities
+- Add extra people
+- Remove either person
+- Remove the motorcycle
+- Remove the lighthouse
+- Redesign the poster
+- Add logos
+- Add watermarks
+- Add unrelated objects
+
+FINAL RESULT:
+The final image must look like the exact same target poster recreated with the person/people from the uploaded reference image(s), using their exact face, hair and clothing while preserving everything else from the target image.
+```
+
+</details>
+
 <a id="gpt-image-photo-to-paper-illustration-editorial-split-poster"></a>
 ### 上半实景照片下半极简纸本插画的分栏海报
 
@@ -1259,6 +1495,152 @@ Composition: Close-up portrait, eye-level camera perspective with a subtle upwar
 Aspect Ratio: 4:5
 
 Negative Prompt: distorted face, altered facial identity, different person, excessive makeup, plastic skin, cartoon face, anime style, 3D render, photorealistic photography, blurry sunglasses, distorted reflections, extra fingers, deformed hands, duplicate accessories, messy anatomy, harsh background, oversaturated colors, heavy outlines, artificial digital texture.
+```
+
+</details>
+
+<a id="gpt-image-bat-girl-halftone-pop-diptych"></a>
+### 蝙蝠女孩照片在上，红色网点波普海报在下
+
+<a href="https://x.com/theanu_Sayss/status/2098459664140652850"><img src="../../previews/gpt-image-bat-girl-halftone-pop-diptych.jpg" width="360"></a>
+
+提示词把画布平均分成上下两栏，上栏保留照片的真实质感而不重绘，下栏限定四到五种颜色，加入粗黑轮廓、网点和爆炸状留白，把同一姿态提炼成波普海报。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@theanu_Sayss on X](https://x.com/theanu_Sayss/status/2098459664140652850) · 212 赞，统计于 2026-10-29
+
+[`pop-art`](tags.md#tag-pop-art) [`halftone`](tags.md#tag-halftone) [`diptych`](tags.md#tag-diptych) [`offset-print`](tags.md#tag-offset-print)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use each uploaded image as the only visual source.Create one independent poster per upload and output each separately.Never combine images.Role:You are an art director skilled in vintage offset print,comic halftones,pop posters,and magazine-style visual distillation. Design a vertical 3:4 print-quality diptych poster with an editorial collectible feel.Format:Split the canvas into two strictly equal horizontal panels,top 50% and bottom 50%,with an exact 1:1 division.Upper panel:Present the uploaded reference image in the top half.Keep the original subject,scene identity,main objects,gesture,spatial relationships,and emotional atmosphere recognizable.Preserve it as image-based rather than
+http://
+redrawn.You may crop naturally to fit the panel,but never stretch,distort,mirror,replace,or redesign the subject.Apply only restrained editorial grading and subtle print refinement.Lower panel:Transform the same source into a retro offset-halftone pop poster.Extract the strongest action,the clearest object silhouettes,the main emotional tension,and the essential color relationships from the upper image.Rebuild them with bold black outlines,large flat color fields,visible halftone dots,slight registration misalignment,minor ink spread,small printing imperfections,and controlled burst-like negative space.The lower half should be more distilled and graphic than the upper half,yet still instantly recognizable as the same scene or
+http://
+theme.Style:Blend vintage offset lithography,pop-graphic poster design,magazine cover composition,indie publication aesthetics,and restrained comic-print language.The result should feel sophisticated and collectible,not loud or cheap.Use only 4 to 5 main colors.The lower half may be brighter than the upper half,but keep the palette controlled.Preserve paper grain,subtle ink shift,light fold traces,and retro print noise.Avoid glossy smoothness.Composition:Give the lower half a magazine-cover hierarchy with one dominant focal idea and supporting shapes.Use strong silhouette simplification,clear rhythm,and strategic blank areas.Suggest energy through scale contrast and white space,but do not fill the frame with clutter.Typography:You may add a small amount of English-only text in the lower half,such as a short title,onomatopoeia,a tiny cover line,or a small price-tag detail,but only when it supports the composition.Text must stay legible,sparse,and secondary.Overall feeling:An independent-publication cover,art-exhibition poster,or collectible visual-research page.Calm,modern,restrained,and premium.The top half presents the source;the bottom half turns that source into a refined retro halftone pop interpretation.Negative:No childish cartoon,no cheap sticker look,no sales-promo poster,no garbled text,no pseudo text,no uncontrolled colors,no full-screen blast elements,no 3D rendering,no realistic copying in the lower half,no overly cute styling,no oversized subject,no watermark,no logo,no UI.
+```
+
+</details>
+
+<a id="gpt-image-mr-bean-knitted-plush-doll"></a>
+### Mr Bean邮票与针织毛绒玩偶对比
+
+<a href="https://x.com/Ciri_ai/status/2115314672002076740"><img src="../../previews/gpt-image-mr-bean-knitted-plush-doll.jpg" width="360"></a>
+
+将3:4画幅分为上方原图区和下方半身特写，提示词锁定原图的身份、发型、姿势和配件，并禁止添加原图没有的物件和文字，因此针织纹理、表情和小熊都能准确还原。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2115314672002076740) · 196 赞，统计于 2026-10-29
+
+[`knitted-doll`](tags.md#tag-knitted-doll) [`amigurumi`](tags.md#tag-amigurumi) [`comparison-poster`](tags.md#tag-comparison-poster) [`pop-culture`](tags.md#tag-pop-culture)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform your photo into a 3D handmade knitted plush doll with GPT Image 2.5
+
+Prompt: Transform a Real Photograph into a 3D Handmade Knitted Plush Doll Comparison Poster
+
+Use the uploaded real photograph as the exclusive reference for the person's identity. Automatically analyze the person's facial shape, hairstyle, hair color, expression, clothing, accessories, and pose, then transform them into a cute, intricately crafted 3D handmade knitted plush doll. Create a vertical comparison poster featuring the original photograph on top and the finished knitted doll below.
+
+01 | Layout and Composition
+
+Use a 3:4 portrait aspect ratio, divided into two vertically stacked sections.
+
+Upper 25% — Original Photograph
+
+- Preserve the original photograph's authentic photographic quality, facial features, expression, clothing, and pose.
+- Center the photograph and maintain its original aspect ratio. Natural cropping is permitted when necessary.
+- Fill the areas on the left and right with a soft terracotta-pink color ("#D97B70").
+- Do not redraw, distort, beautify, retouch, or otherwise alter the original photograph.
+
+Lower 75% — 3D Knitted Plush Doll
+
+- Use a pure white, seamless studio background.
+- Center the doll in a bust or half-body close-up composition.
+- Give the doll a large, full head with a clearly defined silhouette and moderate surrounding negative space.
+- Make the two sections meet directly, without divider lines, outer frames, titles, or text.
+
+02 | Character Design
+
+Use exaggerated proportions with an oversized head and a tiny body. The head should occupy approximately 55–65% of the doll's visible height.
+
+The face should be broad, plump, and softly rounded, with a rounded-square shape. The body should be small, with short, rounded limbs and the proportions of an adorable collectible designer toy.
+
+Simplify the facial features:
+
+- Tiny black oval bead eyes.
+- A dimensional orange-brown fabric nose.
+- A simple, natural mouth shape.
+- Soft, pale pink blush on the cheeks.
+
+Recreate the person's original expression, whether smiling, surprised, calm, or otherwise, while preserving their distinctive identity and personality.
+
+03 | Materials and Yarn Details
+
+Construct the face and body from fine, soft knitted fabric, with visible textile patterns, gentle stuffed volume, and delicate fiber details.
+
+Create the hair entirely from sculpted yarn. Automatically reproduce the hairstyle from the original photograph, including:
+
+- Hairstyle, hair color, length, and parting.
+- Straight, curly, short, or long hair, as applicable.
+- Yarn thickness, curl patterns, and layered volume.
+
+Each hair section should display realistic yarn fibers and dimensional knitted structures.
+
+Reinterpret clothing, hats, glasses, and other accessories using handmade knitting or textile-craft techniques. Preserve their original styles, colors, silhouettes, and recognizable details.
+
+Only include elements that are actually visible in the source photograph.
+
+04 | Identity and Pose Preservation
+
+Preserve the person's defining characteristics from the original photograph, including hairstyle, accessories, clothing colors, facial expression, head angle, and primary gestures.
+
+The doll's pose must correspond to the original person's pose. Reproduce visible hands naturally and maintain the correct number of fingers wherever they are clearly visible.
+
+Do not invent or add hats, glasses, jewelry, accessories, or other objects that are absent from the photograph.
+
+Maintain the relationship between the original person and the knitted doll so that the doll is immediately recognizable as a handcrafted textile interpretation of the same subject.
+
+05 | Photography and Lighting
+
+Use the premium product-photography aesthetic of a high-end designer collectible plush doll.
+
+- Pure white background.
+- Soft, even studio lighting.
+- Natural contact shadows.
+- Subtle dimensional depth and realistic fabric volume.
+- An 85mm portrait-lens aesthetic.
+- High-resolution macro-level textile details.
+- Authentic handmade materials with clean, soft colors.
+
+The knitted doll should look like a tangible, physically crafted object that could exist in the real world, not a conventional computer-generated character.
+
+Emphasize the tactile qualities of the yarn, fine stitches, fabric fibers, soft stuffing, and carefully constructed facial features.
+
+06 | Negative Constraints
+
+Do not alter the original photograph in the upper section. Do not regenerate the real person or modify their appearance.
+
+Avoid:
+
+- Plastic materials or smooth, synthetic 3D skin.
+- Photorealistic human facial features.
+- Oversized anime eyes.
+- Flat cartoon illustrations or conventional animated-character aesthetics.
+- Exaggerated noses or mouths.
+- Complex backgrounds.
+- Additional people, body parts, or limbs.
+- Incorrect finger counts or malformed hands.
+- Invented accessories or props.
+- Text, logos, watermarks, decorative borders, or unnecessary embellishments.
+
+Final Output
+
+Create a polished 3:4 portrait comparison poster with a clear visual contrast between the original photograph and its knitted interpretation.
+
+The upper section must display the untouched original photograph. The lower section must feature a corresponding, adorable 3D handmade knitted plush doll whose hairstyle, clothing, expression, and pose closely match the original person.
+
+Core objective: Preserve the real person's identity while translating their appearance into a beautifully crafted, tactile, oversized-head knitted collectible doll. The result should feel like professional product photography of an actual handmade textile art toy.
 ```
 
 </details>
@@ -2739,6 +3121,35 @@ Minimal, sophisticated Japanese travel aesthetic, nostalgic winter/early-evening
 
 </details>
 
+<a id="gpt-image-grouchy-green-fur-trash-can-halloween"></a>
+### 万圣节街头从垃圾桶探出头的绿毛木偶人
+
+<a href="https://x.com/SethCritchley/status/2110706890376401210"><img src="../../previews/gpt-image-grouchy-green-fur-trash-can-halloween.jpg" width="360"></a>
+
+以上传的人脸照片为锚点进行编辑，并明确规定身体结构：垃圾桶直立且与身体分离，看不到腿部，上身从桶沿升起。完整的构图说明（2:3竖构图、四分之三低机位、南瓜暖光与月光冷光的混合）保证夜景风格一致。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@SethCritchley on X](https://x.com/SethCritchley/status/2110706890376401210) · 64 赞，统计于 2026-10-29
+
+[`halloween`](tags.md#tag-halloween) [`puppet`](tags.md#tag-puppet) [`reference-photo`](tags.md#tag-reference-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using my uploaded photo as the primary facial reference, transform me into an outrageously exaggerated, hyper-realistic, classic children’s TV puppet-inspired trash-can creature while keeping my identity and recognizable facial features unmistakably intact.
+
+CHARACTER DESIGN: Enormous head, tiny upper body, narrow shoulders, short, skinny puppet-like arms, huge expressive eyes, heavy downward-slanting brown eyebrows, long bulbous green nose, and a pronounced grouchy frown. Cover my entire visible head, face, eyebrows, neck, and exposed upper body in vibrant, thick, shaggy green fur with individually defined strands, wild spiky tufts, unruly hair, and tactile, messy texture. Preserve my underlying facial structure and recognizable identity. Expression: comically irritated, judgmental, sarcastic, mischievous, and lovable—not frightening or monstrous. Slightly hunch my shoulders and lean my oversized head forward as if preparing a hilarious sarcastic one-liner.
+
+TRASH CAN AND ANATOMY: My upper torso, shoulders, and arms emerge directly from a classic, battered, open-topped cylindrical galvanized-steel trash can with a thick rolled rim. My entire lower body remains concealed inside. The can is upright, intact, separate from my body, and firmly resting directly on the sidewalk. Show its complete structure from rim to bottom base, including realistic dents, scratches, worn edges, subtle rust, metallic reflections, and a clear contact shadow. Absolutely no visible legs, feet, shoes, or body parts beneath, through, or outside the can. I am sitting inside it, not wearing it as a costume. No floating, hovering, sinking, or hidden visible limb support.
+
+ENVIRONMENT: A richly detailed residential neighborhood at nighttime on Halloween. Include charming suburban houses, glowing jack-o’-lanterns along the sidewalk and on porches, spooky decorations, artificial cobwebs, skeletons, bare tree branches, scattered autumn leaves, warm orange window and porch lights, purple and orange string lights, distant trick-or-treater silhouettes, and subtle drifting nighttime mist. Deep midnight-blue sky, soft moonlight, balanced warm pumpkin illumination and cool blue ambient lighting. Festive, quaint, whimsical, playfully spooky—not genuine horror. Keep the background softly focused and subordinate to my face.
+
+COMPOSITION: Vertical 2:3 portrait, three-quarter camera angle, slightly low perspective. Show the complete trash can from its upper rim to its fully grounded base, my entire visible upper body, oversized head, face, shoulders, and visible arms without cropping. Position the can prominently in the lower and central frame, with my expressive face as the primary focal point. Maintain a strong silhouette, clear separation between green fur, metal rim, and dark background, and enough surrounding scenery to establish the Halloween neighborhood.
+
+RENDERING: Premium cinematic CGI combining practical puppet craftsmanship with photorealistic 3D character artistry. Extraordinary tactile fur detail, layered shaggy eyebrows, realistic eye reflections, convincing facial and mouth anatomy, physically accurate weathered metal, and natural material textures. Use cinematic moonlight, warm pumpkin glow, subtle purple accents, global illumination, physically based materials, ambient occlusion, volumetric mist, delicate rim lighting, realistic contact shadows, and cinematic depth of field. Sharp facial details; softly blurred background.
+```
+
+</details>
+
 <a id="nano-banana-photo-to-painting-editorial-poster-seoul"></a>
 ### 实拍与手绘版叠放的杂志风海报
 
@@ -3016,6 +3427,33 @@ Convert only her hair, the bowl, and the chopsticks into a 2D hand-drawn anime i
 
 </details>
 
+<a id="gpt-image-abbey-road-wire-line-art-poster"></a>
+### 上半为披头士过斑马线照片，下半为线条人像
+
+<a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="../../previews/gpt-image-abbey-road-wire-line-art-poster.jpg" width="360"></a>
+
+将3:4画幅严格分为上下两半，上半保留原照片，下半用连续的墨线重构人物与行走关系，线条从两侧进入、缠绕回折。细小的等宽字点缀在留白处，使冷白底色保持克制。
+
+GPT Image 2 · 上传图改图 · 出处: [@xiaoxiaodong01 on X](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`line-art`](tags.md#tag-line-art) [`split-layout`](tags.md#tag-split-layout) [`minimalist`](tags.md#tag-minimalist) [`concept-poster`](tags.md#tag-concept-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面 50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有杂志摄影、艺术出版物和公共议题影像的克制质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为一幅极简、克制、带有公共议题气质的观念线条插画。不机械描边，不复制背景、光影和复杂细节，而是提炼原图中的方向、连接、矛盾、压力与转机，将其压缩成一组连续的黑色手绘线条。线条如被拉紧的细铁丝、路径、束缚或伤口，从画面边缘进入，在下方盘绕、交错、回折与收紧，再沿内在力量逐渐向上或向外抬升，并在运动中自然显露出与原主体有关的象征轮廓；保持一眼可感知原物，但不必完整封闭或直接解释。
+
+画面以冷白、米白或低饱和浅色为底，大面积留白，主体偏下、偏侧或靠近边缘，不居中、不铺满。线条粗细略有变化，保留墨线的摩擦、迟疑、断裂与压力感；尖刺、结点、倒钩或短横仅出现在受力、交叉和方向改变的位置。整体安静而紧张，简洁却不轻松，意义在线条的缠绕、限制、穿越、收紧与释放之间逐渐显现。
+
+文字只作极少量使用，可加入简短英文主题词、编号、地点或适配金句，但必须像线条系统中的一个微小痕迹，以纤细、克制、略带手工感的排版融入空白或线条转折处，不成为视觉中心，也不直接解释画面。整体参考现代主义观念海报、社会议题视觉、艺术出版物和实验编辑设计，避免复杂场景、写实光影、三维质感、多色填充、卡通感、商业广告感、装饰性曲线和无意义的视觉丰富。
+```
+
+</details>
+
 <a id="gpt-image-anime-pop-art-street-style-conversion"></a>
 ### 动漫少女转成霓虹波普街头艺术风
 
@@ -3199,6 +3637,35 @@ GPT Image 2 · 上传图改图 · 出处: [@MahnoorAi12 on X](https://x.com/Mahn
 
 ```text
 a nostalgic contemporary travel-journal artbook page based on the reference image. Preserve the exact same person, facial identity, facial features, hairstyle, pose, expression, clothing, luggage, proportions, camera angle, composition, and emotional atmosphere from the reference image. Divide the page vertically into two seamlessly connected sections. The upper section is an ultra-realistic cinematic airport photograph: the same person standing quietly in a modern airport terminal with a carry-on suitcase beside them, soft natural window light, subtle reflections on polished floors, realistic skin texture, authentic colors, shallow depth of field, delicate film grain, natural candid body language, and a quiet pre-departure atmosphere. The lower section transforms the exact same scene, person, luggage, and composition into a loose black-and-white hand-drawn ink illustration on warm off-white textured paper. Preserve the same pose and perspective while using expressive imperfect lines, rough cross-hatching, minimal shading, subtle architectural details, small directional arrows, luggage outlines, terminal signage shapes, and handmade sketchbook imperfections. Add tasteful editorial typography around the illustration: a small numbered diary entry, handwritten-style caption, tiny documentary notes, subtle timestamp, gate-style notation, and minimal travel-journal annotations. Keep generous cream-colored negative space, slightly imperfect ink printing, understated vintage layout, sophisticated minimalist Japanese-inspired graphic design, emotionally warm and cinematic, premium contemporary photography journal aesthetic, cohesive transition between photograph and drawing, highly detailed, natural human anatomy, authentic proportions, no watermark, no logos.
+```
+
+</details>
+
+<a id="gpt-image-distracted-boyfriend-crayon-city-story-poster"></a>
+### 上方原照片，下方蜡笔插画重绘三人场景
+
+<a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="../../previews/gpt-image-distracted-boyfriend-crayon-city-story-poster.jpg" width="360"></a>
+
+将画面分为上下两半，上半保留真实照片，下半用简练的蜡笔线条和柔和水彩重绘同样的人物与姿态，形成写实与插画的呼应。手写标题和短句取自照片场景，文字像插画的一部分自然生长在画面中。
+
+GPT Image 2 · 上传图改图 · 出处: [@xiaoxiaodong01 on X](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`watercolor`](tags.md#tag-watercolor) [`photo-to-art`](tags.md#tag-photo-to-art) [`crayon-texture`](tags.md#tag-crayon-texture) [`split-layout`](tags.md#tag-split-layout) [`meme`](tags.md#tag-meme)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，准确保持主体身份、情绪、姿态、空间关系、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有时尚杂志、艺术出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为轻盈、稚拙、复古的手绘编辑插画。不要机械复刻细节，以概括造型、适度夸张比例、符号化特征和幽默视觉隐喻重新表达，同时保持原物一眼可辨。融合现代主义编辑插画、包豪斯平面构成、儿童绘本、稚拙艺术与时尚速写气质，形体简练，轮廓略带迟疑与手工误差，局部特征可适度放大，让画面兼具故事感、时尚感与俏皮感。
+
+配色从上方照片中提取，采用高明度、低至中等饱和度的柔和有限色盘，以近似色统一氛围，小面积互补色制造视觉跳点。使用水彩、水粉、彩铅、粉蜡笔与干刷混合质感，保留纸张颗粒、透底、笔触断裂、边缘毛糙、轻微脏色与旧印刷套色偏差。背景大面积留白，仅以松散淡彩、局部斜线或简单几何元素承托主体，避免复杂场景堆积、写实光影、光滑矢量、3D渲染和过度精修。
+
+文字从照片的地点、人物、场景或主题中提炼少量英文关键词、标题、编号或适配金句，并延续下半部分的手绘编辑语言。主标题采用略带稚拙与复古感的手写艺术字，辅助文字使用克制温和的无衬线或衬线字体，可轻微错位、倾斜、拉伸、叠色或产生旧印刷套色偏移，让文字像插画的一部分自然生长在画面中，而不是后期贴上的排版元素。
+
+整体使用米白或浅色背景与大量留白，上下画面通过相同的主体特征、色彩、姿态和视觉符号形成呼应。整体气质轻松、俏皮、复古、温柔、聪明、时髦、幽默、浪漫、松弛，略带笨拙与古怪自信，像一页被精心保存的旧时尚绘本与现代艺术杂志。
 ```
 
 </details>
@@ -4064,6 +4531,37 @@ The final result should feel quiet, tactile, documentary, collectible, and genui
 Avoid
 
 Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax seals, sticker layouts, souvenir-card designs, generic travel templates, smooth vector logos, polished digital illustrations, cartoon styling, 3D rendering, plastic textures, glossy gradients, excessive saturation, HDR effects, excessive text, decorative clutter, overly clean geometry, perfectly aligned ink layers, dense miniature architecture, or any alteration/redrawing of the original photograph.
+```
+
+</details>
+
+<a id="gpt-image-starbucks-mountain-watercolor-comparison"></a>
+### 夜间星巴克与富士山，上下对照水彩版
+
+<a href="https://x.com/Alina_with_Ai/status/2096555280306000120"><img src="../../previews/gpt-image-starbucks-mountain-watercolor-comparison.jpg" width="360"></a>
+
+提示词在两个画面中固定相同的构图，并逐项计数星巴克标识和树木，使模型保持场景一致。将3:4画布分为照片和纸面两部分，一张图即可同时呈现写实夜景与水彩明信片。
+
+GPT Image 2 · 文生图 · 出处: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2096555280306000120) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`watercolor`](tags.md#tag-watercolor) [`night-scene`](tags.md#tag-night-scene) [`comparison`](tags.md#tag-comparison) [`brand`](tags.md#tag-brand)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Goal: Create a vertical comparison-style image showing a nighttime café-and-mountain scene transformed into a delicate watercolor art print.
+
+Canvas: Portrait 3:4 composition, divided into exactly 2 horizontal panels. The top panel occupies about the upper half and is a realistic night photograph; the bottom panel occupies the lower half and is a minimalist watercolor artwork on warm off-white paper.
+
+Top panel: A centered, single-story Starbucks café at night, seen from across a dark parking lot. Behind it is a large snow-capped Mount Fuji-like mountain rising in blue mist under a deep twilight blue sky. The café has a black roofline and glowing warm interior windows. Include exactly 2 visible Starbucks brand marks: 1 large bright yellow word sign reading STARBUCKS centered on the building, and 1 small circular green siren logo on the right side of the storefront. Surrounding silhouettes include exactly 5 prominent natural/urban elements: 2 tall conifer trees on the left, 1 leafless tree to the right of the building, 1 tall conifer tree near the far right, and 1 tall streetlamp on the far right with a simple rectangular lamp head. Keep the mood quiet, blue, misty, cinematic, and calm.
+
+Bottom panel: Recreate the same scene as a small hand-painted watercolor vignette centered on textured cream paper with lots of empty negative space. Paint the café, mountain, trees, and streetlamp in loose blue ink and pale watercolor washes. The miniature café should again include exactly 2 visible Starbucks brand marks: 1 tiny dark rectangular sign with yellow STARBUCKS, and 1 small green circular logo on the right. The watercolor version should include exactly 4 tree silhouettes: 2 thin conifers on the left of the café, 1 thin conifer on the right, and 1 simplified streetlamp beside it. Use soft bleeding edges, sparse brush marks, muted indigo shadows, and warm yellow window glow.
+
+Text content beneath the watercolor vignette: Add exactly 3 centered handwritten lines in small lowercase lettering: line 1 reads coffee · mist · mountain; line 2 reads a quiet moment; line 3 reads 2024. Use widely spaced, delicate gray-blue handwriting.
+
+Visual style: The top half should feel like a crisp realistic nighttime travel photograph; the bottom half should feel like a refined Japanese-inspired watercolor postcard or art print. Preserve the same subject alignment between panels: mountain centered behind the café, café centered below the mountain, tall lamp and conifer on the right, darker trees on the left.
+
+Constraints: No people, no cars, no extra signage beyond the counted Starbucks marks, no borders between panels except the natural transition from photo to paper, no watermark, keep the overall palette deep blue, pale cyan, cream paper, black silhouettes, and warm yellow café light.
 ```
 
 </details>

@@ -1,0 +1,65 @@
+id: nano-banana-sadie-sink-lifeguard-stand-golden-hour
+title:
+  en: Woman in red swimsuit on golden hour lifeguard stand
+  zh: 金色时刻救生塔上穿红色泳衣的女性
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- json-prompt
+- portrait
+- golden-hour
+- editorial
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2038177524048630043
+  credit: M-studioAi
+  likes: 448
+  captured: '2026-10-29'
+  posted: '2026-03-29'
+notes:
+  en: A JSON spec with separate scene, subject, lighting and camera blocks keeps every detail explicit. Naming an 85mm portrait lens at f/2.8 with warm golden hour side light drives the editorial photo look.
+  zh: 用 JSON 分块描述场景、人物、光线和镜头，每个细节都明确。指定 85mm 人像镜头、f/2.8 浅景深和金色时刻侧光，带出杂志摄影质感。
+prompt: |
+  "scene": {
+      "type": "cinematic beachside portrait",
+      "style": "ultra realistic editorial summer photography",
+      "environment": "wooden beach lifeguard walkway at golden hour, coastal houses and hillside softly blurred in the background"
+    },
+    "subject": {
+      "identity": "Sadie Sink",
+      "pose": "sitting on a wooden boardwalk floor leaning slightly against the side railing, one leg extended naturally, the other bent upward with one hand resting on the knee, relaxed elegant posture",
+      "expression": "calm distant gaze with a soft serious expression",
+      "appearance": {
+        "hair": "long natural wavy red hair",
+        "skin": "fair skin with realistic natural texture",
+        "makeup": "minimal soft natural makeup"
+      }
+    },
+    "wardrobe": {
+      "outfit": "simple red one-piece swimsuit",
+      "footwear": "barefoot with casual sandals placed nearby on the wooden floor"
+    },
+    "composition": {
+      "framing": "full body vertical portrait",
+      "camera_angle": "slightly low eye-level perspective",
+      "background": "sunlit beach architecture and coastal scenery softly blurred"
+    },
+    "lighting": {
+      "setup": "golden hour natural sunlight",
+      "details": "warm side lighting casting long soft shadows across the wooden deck, cinematic glow on skin and hair"
+    },
+    "camera": {
+      "type": "professional DSLR",
+      "lens": "85mm portrait lens",
+      "settings": "f/2.8 shallow depth of field",
+      "quality": "8k ultra photorealistic",
+      "focus": "sharp focus on subject"
+    },
+    "render": {
+      "style": "high-end editorial beach fashion photography",
+      "details": "realistic skin texture, natural sunlight, soft background bokeh, cinematic composition",
+      "restrictions": "no watermark, no logo, no text"
+    },
+    "aspect_ratio": "3:4"
+  }

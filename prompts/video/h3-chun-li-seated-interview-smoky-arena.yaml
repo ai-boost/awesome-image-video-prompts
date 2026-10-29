@@ -1,0 +1,32 @@
+id: h3-chun-li-seated-interview-smoky-arena
+title:
+  en: Seated Chun-Li answers an interviewer about her father
+  zh: 坐姿的春丽在烟雾擂台上回答采访者的提问
+model: MiniMax H3
+mode: image-to-video
+tags:
+- chun-li
+- street-fighter
+- multi-shot
+- dialogue
+- cinematic
+source:
+  name: '@ou_zhen599 on X'
+  url: https://x.com/ou_zhen599/status/2094322714739871760
+  credit: Loriel.AI
+  likes: 60
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ou_zhen599/status/2094322714739871760
+notes:
+  en: Timestamped shots (00:07 and 00:11) start from a locked reference frame, so each cut has a fixed beat and the seated pose carries over. Dialogue lines are tagged with speaker role and language, and the soundscape stays sparse so the voice carries the emotion.
+  zh: 带时间戳的分镜（00:07 和 00:11）从锁定的参考首帧开始，每次切镜都有固定节拍，坐姿也得以延续。台词标注说话人身份和语言，音效保持克制，让人声承担情绪。
+prompt: |
+  For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+  integrated_multimodal_description: [Shot 1] Live-action, cinematic realism, post-fight intimacy. Chun-Li fully matches <Picture 1>: same face, hair buns, white ribbons, battle-worn blue qipao-style outfit, wrist guards, white boots, seated pose, smoky arena environment, clothing damage, body proportions, and controlled intensity. The first frame must begin exactly from the seated posture in <Picture 1>, with no pose reset. IMAX 70mm film grain, Nolan-inspired cinematic realism, photorealistic natural palette with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. Low-angle medium close-up, very slow physical push-in, no cut during the first emotional phase. Chun-Li sits wide and grounded with both hands on her waist. The off-screen interviewer, a mature calm warm woman (S1), says in an off-screen voiceover: <d>[English] Do you still miss your father?</d> Chun-Li does not answer immediately. Her breath catches, one hand slowly drops from her waist to her thigh or the floor, one knee subtly draws inward, her chin dips, her gaze lowers, and her jaw tightens before she finally answers. Chun-Li (S2), low, quiet, controlled, says: <d>[English] Every day.</d> [Shot 2] At 00:07.000, the shot cuts softly to a tighter medium close-up. Chun-Li steadies herself with one hand on her thigh or forearm, leans forward slightly, and says: <d>[English] I still hear him when I fight.</d> [Shot 3] At 00:11.000, the shot cuts softly to a slightly wider medium close-up. Chun-Li slowly straightens, brings one hand higher again, resets her shoulders, firms her jaw, lifts her eyes with quiet resolve, and says: <d>[English] I carry him with me.</d> Only Chun-Li is visible. The interviewer never appears. No melodrama, no exaggerated crying, no glamour posing. End on regained stillness, not collapse.
+
+  overall_soundscape: Faint smoke movement, subtle room tone, soft distant arena hush, light fabric rustle, subtle boot shift, and quiet breath.
+
+  non_diegetic_music: Very restrained low strings and sparse piano at a slow tempo, mixed gently under the natural ambience.

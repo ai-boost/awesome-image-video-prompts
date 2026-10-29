@@ -1,0 +1,28 @@
+id: nano-banana-pepsi-phone-screen-pour
+title:
+  en: Pepsi pouring from bottle into giant phone screen
+  zh: 百事可乐从巨大手机屏幕中流出
+model: Nano Banana 2
+mode: image-edit
+category: brand
+tags:
+- surreal
+- advertising
+- liquid-splash
+- scale-illusion
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2028309848429846690
+  credit: Hania Ai
+  likes: 413
+  captured: '2026-10-29'
+  posted: '2026-03-02'
+notes:
+  en: The oversized phone next to real props like a closed book and a pen sets the scale, and a real hand pouring at the screen edge makes the liquid look like it crosses from the table into the glass on screen. The reference portrait keeps the on-screen person consistent.
+  zh: 超大手机与书本、钢笔等真实道具形成比例对比，真实手部在屏幕边缘倾倒液体，让液体看似从桌面穿过屏幕流入画中的杯子。参考人像保证屏幕内人物形象一致。
+prompt: |
+  A hyper-realistic surreal composite scene set on a wooden tabletop. A large oversized smartphone dominates the frame, creating a strong dimensional-break illusion. On the phone screen, the woman from the reference image appears much larger in a close-up winter environment, smiling happily while holding a clear glass with a visible Pepsi logo on it.
+
+  A real human hand pours dark Pepsi cola from a cold bottle covered in condensation droplets directly toward the phone screen. The liquid visually breaks through the display and flows into the glass she is holding inside the screen, creating a powerful surreal effect.
+
+  A closed book and a black pen sit on the wooden table beside the oversized phone to emphasize scale distortion. Warm natural lighting, soft cinematic shadows, ultra-sharp liquid splash details, hyper-realistic skin texture, realistic reflections on glass and screen, surreal cinematic advertising look, professional commercial photography quality, 8K realism.

@@ -1,0 +1,38 @@
+id: gpt-image-rhode-peptide-lip-treatment-comparison
+title:
+  en: Rhode lip treatment ad, GPT Image 2 vs GPT Image 2.5 comparison
+  zh: rhode 唇部护理广告 GPT Image 2 与 GPT Image 2.5 对比
+model: GPT Image 2.5
+mode: text-to-image
+category: product
+tags:
+- beauty-ad
+- model-comparison
+- liquid-splash
+- text-layout
+source:
+  name: '@HeyOz_AI on X'
+  url: https://x.com/HeyOz_AI/status/2097590858564726955
+  credit: HeyOz_AI
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt pins each element by count and position (three watermelon pieces on the left ad, five on the right) and quotes the exact headline and labels, so the two versions differ mainly in splash density and product scale. The black 16:9 canvas with two rounded square panels and matching orange labels makes the comparison readable in one image.
+  zh: 提示词按数量和位置逐项锁定元素（左侧广告 3 块西瓜，右侧广告 5 块），并给出确切的标题和标签文字，因此两版广告的差别主要在飞溅密度和产品大小。黑色 16:9 画布加两个圆角方形面板和同色橙字标签，让对比一眼可见。
+prompt: |
+  Goal: Create a wide comparison graphic showing two generated versions of a rhode beauty static ad for Peptide Lip Treatment in Watermelon Slice, with a black presentation background and two square ad mockups side by side.
+
+  Canvas: 16:9 horizontal frame, black background, high contrast, clean social-media comparison layout.
+
+  Layout: Place two rounded-corner square ad images centered horizontally with generous spacing. The left panel is labeled above in bright orange text: “GPT-Image-2”. The right panel is labeled above in the same bright orange text: “GPT-Image-2.5”. Add one small italic orange caption centered near the bottom reading “prompt in comments”.
+
+  Ad panels: Use exactly 2 square beauty advertisement panels.
+  1. Left panel: soft pink background, rounded corners, elegant editorial beauty-ad composition. At the upper left, large serif headline text reads “A SLICE OF GLOSS.” with smaller text below reading “Peptide Lip Treatment”. A pink rhode Peptide Lip Treatment tube floats diagonally from upper right toward lower center, with vertical white “rhode” branding. Surround it with a glossy pink gel swirl, transparent splash droplets, and watermelon slices. Include a large circular pink sunburst shape behind the product. Watermelon elements count: 3 visible slices or wedges — one large lower watermelon slice, one right-middle slice behind the tube, and one small upper-right wedge. Keep the product large and central.
+  2. Right panel: more dynamic, brighter, more detailed version of the same rhode ad. Pink background, rounded corners, upper-left serif headline “A SLICE OF GLOSS.” and smaller “Peptide Lip Treatment”. A larger pink rhode tube floats diagonally near the center, surrounded by a dramatic translucent glossy pink splash ribbon, many bubbles and droplets, and watermelon slices. Watermelon elements count: 5 visible pieces — one large foreground watermelon strip at the bottom, one left-middle wedge, one right-middle wedge, one small upper-right wedge, and one partial slice behind the splash near the center. The product should appear sharper, glossier, and more premium than the left panel.
+
+  Visual style: polished product advertising, vivid watermelon pinks and reds, glossy liquid textures, studio lighting, high-end cosmetics campaign, crisp typography, saturated color, realistic 3D product rendering mixed with surreal splash photography.
+
+  Text and customization: Use the top labels {argument name="left model label" default="GPT-Image-2"} and {argument name="right model label" default="GPT-Image-2.5"}. Use the ad headline {argument name="headline text" default="A SLICE OF GLOSS."}. Use the brand on the tube {argument name="brand name" default="rhode"}. Use the bottom caption {argument name="bottom caption" default="prompt in comments"}.
+
+  Constraints: Keep exactly 2 comparison panels, exactly 2 orange model labels, and exactly 1 bottom caption. Do not add extra logos, watermarks, UI chrome, or additional text outside the specified labels and ad copy.

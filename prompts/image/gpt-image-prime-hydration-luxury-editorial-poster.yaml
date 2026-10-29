@@ -1,0 +1,279 @@
+id: gpt-image-prime-hydration-luxury-editorial-poster
+title:
+  en: Black studio poster of athlete holding lime PRIME bottle
+  zh: 黑色影棚海报，运动员手持青柠色PRIME饮料瓶
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fashion-editorial
+- product-poster
+- studio-lighting
+- minimal-typography
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2073457723379995093
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 85
+  captured: '2026-10-29'
+  posted: '2026-07-04'
+notes:
+  en: A locked front-facing stance with direct eye contact, and a lime bottle as the only saturated element on a matte black cyclorama, makes the product the focal point. The oversized condensed masthead sits behind the figure, which keeps the top band as negative space and reads as a fashion cover rather than a sports ad.
+  zh: 正面站姿配合直视镜头，把饱和色只留给瓶身，在哑光黑无缝背景上形成唯一焦点。超大窄体标题置于人物身后，既保留顶部留白，也让画面更像时尚杂志封面而非运动广告。
+prompt: |
+  SYSTEM ROLE
+
+  You are an elite commercial art director specializing in luxury editorial advertising, fashion photography, and premium product campaigns.
+
+  Think like a hybrid of:
+
+  Balenciaga Campaign Team
+  Nike Editorial
+  Apple Product Marketing
+  AKQA Sports
+
+  Core behavior:
+
+  - prioritize restraint and luxury
+  - preserve Prime brand identity
+  - reject generic sports advertising
+  - avoid AI-generated clichés
+
+  Never create stadium scenes, splash effects, generic athlete posters, or AI-slop visuals.
+
+  TASK
+
+  Create an ultra-premium editorial social media campaign poster for PRIME Hydration.
+
+  Campaign objective:
+
+  Transform PRIME from a sports drink into a premium cultural status object through luxury editorial storytelling.
+
+  Final creative must feel minimal, iconic, premium, and instantly recognizable.
+
+  BRAND DNA
+
+  Brand:
+  PRIME Hydration
+
+  Industry:
+  Sports Hydration / Lifestyle Beverage
+
+  Core Brand Values:
+
+  - performance
+  - culture
+  - youth
+  - hype
+  - identity
+  - desirability
+
+  Brand truth:
+
+  PRIME does not simply hydrate.
+
+  PRIME signals cultural energy and elite performance.
+
+  Psychological positioning:
+
+  Hydration as identity.
+
+  HERO SUBJECT
+
+  Use one elite athlete as the hero.
+
+  Athlete characteristics:
+
+  - lean muscular physique
+  - premium sportswear styling
+  - calm intense facial expression
+  - direct eye contact
+  - silent confidence
+
+  Critical:
+
+  No action pose.
+
+  Stillness must communicate power.
+
+  Pose:
+
+  Athlete stands front-facing, slightly off-center, body relaxed but powerful, PRIME bottle hanging naturally in one hand near thigh, shoulders squared, chin slightly lowered, eyes locked into camera.
+
+  Expression must feel intimidating yet controlled.
+
+  PRODUCT HERO
+
+  Use PRIME bottle as premium secondary hero.
+
+  Bottle details:
+
+  - tack sharp focus
+  - cold condensation droplets
+  - matte bottle texture
+  - crisp label readability
+  - clean specular highlights
+
+  Bottle must feel collectible.
+
+  ENVIRONMENT
+
+  Create ultra-minimal luxury studio environment.
+
+  Scene:
+
+  matte black seamless cyclorama studio
+  deep negative space
+  subtle floor reflection
+  clean shadow falloff
+  no props
+  no sports environment
+
+  Environment must feel expensive and silent.
+
+  VISUAL COMPOSITION
+
+  Platform:
+  Instagram SMM
+
+  Aspect Ratio:
+  4:5 vertical
+
+  Resolution:
+  1080 x 1350
+
+  Composition blueprint:
+
+  Top 25%
+  Negative space + editorial masthead
+
+  Center 60%
+  Athlete portrait + bottle
+
+  Bottom 15%
+  Minimal CTA + brand mark
+
+  Composition ratio:
+
+  45% negative space
+  35% athlete
+  20% product + typography
+
+  Strong negative space required.
+
+  COLOR SYSTEM
+
+  Primary:
+
+  Matte Black
+  White
+
+  Secondary:
+
+  Deep Gray
+  Skin highlights
+
+  Accent:
+
+  PRIME bottle flavor color only
+
+  Color rules:
+
+  Black dominates.
+  Bottle color becomes visual focal point.
+  No extra neon.
+
+  TYPOGRAPHY SYSTEM
+
+  Use:
+
+  oversized condensed sans serif
+  luxury editorial spacing
+  minimal hierarchy
+  massive scale
+
+  Typography placement:
+
+  large but sparse
+  partially cropped
+  fashion-magazine style
+
+  Headline examples:
+
+  PRIME
+
+  or
+
+  STAY PRIME
+
+  or
+
+  FUEL DISCIPLINE
+
+  Typography must feel premium and iconic.
+
+  GRAPHIC DESIGN SYSTEM
+
+  Use:
+
+  editorial grid
+  negative space
+  minimal overlays
+  clean alignment
+  zero clutter
+
+  Design language must feel:
+
+  luxury
+  minimal
+  fashion-forward
+  timeless
+
+  LIGHTING
+
+  Use high-fashion studio lighting.
+
+  Lighting setup:
+
+  hard overhead spotlight
+  strong side rim light
+  deep controlled shadows
+  sharp skin highlights
+  precise bottle reflections
+
+  Skin texture must remain realistic.
+
+  MATERIAL DETAIL
+
+  Materials:
+
+  matte fabric realism
+  natural skin pores
+  micro sweat sheen
+  condensation droplets
+  soft floor reflection
+
+  Everything must feel tactile and premium.
+
+  ANTI-SLOP NEGATIVES
+
+  Avoid:
+
+  stadiums
+  energy bursts
+  splash effects
+  cheap neon
+  generic sports poses
+  messy typography
+  AI artifacts
+  plastic skin
+
+  QUALITY BAR
+
+  Balenciaga editorial quality.
+  Nike campaign discipline.
+  Apple product lighting precision.
+
+  Viewer reaction:
+
+  "This feels like luxury culture, not a beverage ad."

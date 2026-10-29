@@ -1,0 +1,34 @@
+id: nano-banana-car-ad-poster-template
+title:
+  en: 'Four car ad posters: Scorpio N, Swift, i20, Seltos'
+  zh: 四款汽车广告海报：Scorpio N、Swift、i20、Seltos
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- automotive
+- commercial-poster
+- template
+- typography
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2041366564516368436
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 117
+  captured: '2026-10-29'
+  posted: '2026-04-07'
+notes:
+  en: The car is locked to a 3/4 front angle with a reflection on the surface, and every text element has a fixed corner or edge slot, so one template works across brands. Camera terms such as ARRI Alexa Mini LF, 50mm anamorphic and shallow DOF push the render toward a commercial photo look.
+  zh: 将车辆锁定在 3/4 前视角并在地面加入倒影，每段文字都有固定的角落或边缘位置，因此同一模板可以套用到不同品牌。ARRI Alexa Mini LF、50mm 变形镜头和浅景深等摄影参数让成片接近商业广告摄影。
+prompt: |
+  Hyper-realistic professional automotive commercial ad poster. [BRAND] [MODEL] in [COLOR] parked at a perfect 3/4 front angle on [SURFACE]. Background: [ENVIRONMENT]. [WEATHER/ATMOSPHERE]. The car hyper-detailed — every panel line sharp, all lights on and glowing, [SIGNATURE DESIGN DETAIL] catching [LIGHT SOURCE], alloy wheels clean and sharp, car reflection visible on [SURFACE] below. [ATMOSPHERE DETAIL — mist / dust / rain / stars].
+  Typography: top left — [BRAND] logo white. Center — “[MODEL NAME]” in large bold white. Bottom left — “[HEADLINE TAGLINE]” in italic serif white. Below — “[ENGINE · FEATURE · FEATURE]” in 8px tracked caps white. Bottom right — “Starting [PRICE]*” white. Thin horizontal rule separating tagline from specs. Bottom center — “[BRAND WEBSITE]” 7px tracked caps. Left edge vertical — “[MODEL · YEAR]” 7px white rotated 90 degrees.
+  Lighting: [MAIN LIGHT SOURCE], strong specular on car panels, all brand lights illuminated, [MOOD LIGHT — warm amber / cold blue / golden sunrise / storm dramatic]. Mood: [MOOD]. Shot on ARRI Alexa Mini LF, 50mm anamorphic, shallow DOF, HDR, professional automotive ad campaign poster, 4:5 portrait.
+
+  Fill details
+
+
+  https://
+  prmpt.bio/diplomeme/auto
+  motive-commercial-posters?ref=creator_MU38OJbi
+  …

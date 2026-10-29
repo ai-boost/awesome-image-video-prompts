@@ -1,0 +1,26 @@
+id: gpt-image-notebook-pop-out-man-pencil-legs
+title:
+  en: Man stepping out of notebook with pencil legs
+  zh: 男子从笔记本纸页走出，下半身为铅笔素描
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- optical-illusion
+- pencil-sketch
+- notebook
+- mixed-media
+source:
+  name: '@RizwanAly07 on X'
+  url: https://x.com/RizwanAly07/status/2066732255532429324
+  credit: Maverick | AI
+  captured: '2026-10-29'
+  posted: '2026-06-16'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Splitting the figure into two rendering styles, graphite sketch for the legs and realistic 3D for the upper body, makes the pop out illusion read at a glance. Anchoring the scene to a spiral notebook on a wooden desk under warm sunlight gives the sketch shadows and depth.
+  zh: 将人物拆分为两种画法，腿部为石墨铅笔素描，上半身为写实3D，形成从纸面跃出的错觉。把场景固定在木质书桌上的螺旋笔记本和暖色阳光下，让素描阴影和景深更可信。
+prompt: |
+  A creative 3D illusion artwork of a handsome young man stepping out of a spiral notebook page placed on a wooden desk. The notebook features lined paper with handwritten notes at the top. The character is designed in a semi-realistic 3D cartoon style with neatly styled dark brown hair, expressive eyes, a confident friendly smile, and subtle realistic facial details. He wears a casual pastel-colored t-shirt, a light denim jacket, slim-fit light grey jeans, and clean white sneakers.
+
+  The lower half of his body appears as a detailed pencil sketch drawn directly on the notebook page, while his upper body transforms into a realistic 3D figure emerging from the paper, creating a striking pop-out illusion effect. Intricate graphite shading and sketch lines seamlessly blend into the realistic textures of the 3D character. Warm natural sunlight illuminates the wooden desk, casting soft shadows and enhancing depth. Ultra-detailed, photorealistic mixed-media artwork, realistic notebook textures, cinematic lighting, shallow depth of field, highly creative optical illusion, 8K quality, masterpiece composition.

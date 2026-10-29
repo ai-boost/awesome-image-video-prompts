@@ -1,0 +1,24 @@
+id: nano-banana-f1-australian-gp-2026-qualifying
+title:
+  en: Australian Grand Prix 2026 qualifying results infographic
+  zh: 2026年澳大利亚大奖赛排位赛结果信息图
+model: Nano Banana 2
+mode: text-to-image
+category: infographic
+tags:
+- f1
+- infographic
+- sports-data
+- web-search
+source:
+  name: '@maxescu on X'
+  url: https://x.com/maxescu/status/2030227188679655426
+  credit: Alex Patrascu
+  likes: 659
+  captured: '2026-10-29'
+  posted: '2026-03-07'
+notes:
+  en: The brief names the event and session and asks for the latest results, which fixes the scope and the data. That one request is enough to produce a full broadcast look with a pole spotlight, a classification table, gaps to pole and a track map.
+  zh: 提示词点明赛事和排位赛场次，并要求搜索最新结果，从而限定了范围和数据。仅这一段话就能生成带杆位车手主图、分段圈速、与杆位差距和赛道图的完整转播风格版式。
+prompt: |
+  Generate a detailed infographic showcasing the qualifying results for the Australian Grand Prix 2026 from today. Search the web for the most recent and accurate data.

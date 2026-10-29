@@ -1,0 +1,24 @@
+id: gpt-image-money-heist-particle-cast-poster
+title:
+  en: Money Heist cast rendered as white particle portraits
+  zh: 《纸钞屋》主演化为白色粒子肖像
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- particle-art
+- monochrome
+- poster
+- fan-art
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2062366259908575596
+  credit: Nexora
+  likes: 103
+  captured: '2026-10-29'
+  posted: '2026-06-04'
+notes:
+  en: The prompt names a render engine and a point cloud look, then limits the palette to black, white and tiny orange accents so the output stays monochrome. Thin mono text on the left and right edges stays secondary to the particle portraits.
+  zh: 提示词先指定渲染引擎和点云质感，再把色彩限定为黑色、白色与少量橙色点缀，画面保持单色。左右两侧的细等宽文字只作次要元素，不抢粒子人像的主体。
+prompt: |
+  Transform the uploaded image into a high-contrast monochrome particle-render aesthetic. Subject reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on a pure black background. Use point-cloud dispersion, volumetric particles, halftone density gradients, and scattered noise trails to define the silhouette. Preserve the original subject composition and pose, but simplify details into clean geometric forms. Style should feel like futuristic AI architecture visualization mixed with experimental generative art.  Visual characteristics:  black background only  white particle clusters forming the subject  subtle floating debris and dissolving particles around edges  sparse orange/red accent particles (very minimal)  cinematic negative space  ultra minimal  soft bloom glow on dense particle areas  depth created through particle density  abstract but recognizable silhouette  no realistic textures  no colors besides black, white, and tiny orange accents  brutalist futuristic design aesthetic  clean composition  vertical poster layout  slight voxel / point-cloud rendering effect  high contrast  generative AI art style  experimental architecture visualization aesthetic  Typography treatment: small thin mono-space typography placed minimally on left and right sides, similar to futuristic design posters, white text only, subtle and secondary to the artwork  Rendering style: octane render, point cloud simulation, particle system render, volumetric dispersion, procedural dots, cinematic lighting, ultra detailed, abstract minimalism  Negative prompt: realistic shading, painterly textures, colorful backgrounds, low contrast, photorealism, messy composition, extra objects, blur, noisy artifacts, low resolution

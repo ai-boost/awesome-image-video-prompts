@@ -1,0 +1,54 @@
+id: nano-banana-inflated-3d-logotype-spikes
+title:
+  en: Inflated 3D logotypes with spikes in one colour
+  zh: 单色充气立体字标与尖刺造型
+model: Nano Banana 2
+mode: text-to-image
+category: brand
+tags:
+- 3d-typography
+- logotype
+- inflated-latex
+- studio-render
+source:
+  name: '@AmirMushich on X'
+  url: https://x.com/AmirMushich/status/2043381172646920237
+  credit: AmirMušić
+  likes: 2640
+  captured: '2026-10-29'
+  posted: '2026-04-12'
+notes:
+  en: Locking the whole sculpture to one latex material and one colour family, with a white studio backdrop, means swapping only the brand and colour variables keeps results consistent. Subsurface scattering, soft elongated highlights and a frontal camera slightly above centre make it read as a CGI product render.
+  zh: 将整件雕塑锁定为同一种乳胶材质和同一色系，配合白色摄影棚背景，只替换品牌和颜色两个变量即可保持结果一致。次表面散射、柔和拉长的高光以及略微俯视的正面镜头，让画面接近 CGI 产品渲染。
+prompt: |
+  (access Nano Banana 2 here:
+  https://
+  amirmushich.link/LTX26)
+
+  [BRAND NAME] | [COLOR]
+
+  Act as a 3D Type Designer and CGI Artist working at the intersection of streetwear culture, Y2K aesthetics, and high-end digital sculpture. Your references: Nigo, Futura, Guccimaze, Soulwax art direction.
+
+  ---
+
+  PHASE 1: TYPOGRAPHIC CONCEPT
+
+  Render the word or logotype [BRAND NAME] as a fully 3D sculptural object — not a flat text with extrusion, but a living, inflated, organic type sculpture. Style: Wildstyle graffiti DNA fused with inflatable balloon morphology. Letters are not separate — they flow into each other as one continuous organic mass. Each letterform has: bulbous pneumatic body as if inflated under high pressure from within, stretching the surface taut. Aggressive spike extensions — sharp tapered protrusions erupting between and around letters, directional, asymmetric, energetic, some long and blade-like, others short and thorn-like. Wildstyle overlaps — letters partially occlude each other creating depth layers, classic graffiti ambiguity where readability fights with visual complexity. Organic connective tissue — negative spaces between letters filled with stretched membrane forms, like rubber pulled between two inflated surfaces.
+
+  ---
+
+  PHASE 2: MATERIAL & SURFACE
+
+  Single unified material across the entire sculpture — no color variation between letters. Material type: high-gloss latex / inflated rubber / soft silicone — the surface behaves like a balloon skin stretched to near-bursting point. Subsurface scattering: active — light penetrates slightly into the material, creating a translucent inner glow at thin edges and spike tips. Thinner areas read lighter, denser volumes read darker. Specular highlights: large, soft, slightly elongated — the kind you get on inflated latex, not hard plastic. Multiple secondary highlights in concave zones. Apply [COLOR] as the sole material color of the entire sculpture — this is non-negotiable. [COLOR] defines the pure midtone of the material. Highlights push toward the most luminous near-white version of [COLOR]. Shadow zones and deep crevices push toward the darkest most saturated version of [COLOR]. The entire chromatic range of the sculpture lives within the [COLOR] family — no hue deviation, no neutral grays.
+
+  ---
+
+  PHASE 3: COMPOSITION & STAGING
+
+  Background: pure white (#FFFFFF) — clinical studio isolation. Zero texture, zero gradient. Shadow: none, or absolute minimum contact shadow directly beneath the sculpture — the object appears to float slightly. Orientation: horizontal spread — the sculpture is wider than tall, expanding laterally. Spike elements breach the invisible bounding box on all sides — top spikes reach upward, side extensions push outward. Camera angle: straight-on frontal, slightly elevated 5 to 10° above center — reveals the full typographic mass while showing the 3D depth of overlapping elements. Depth of field: none — sharp from foreground spikes to background letter bodies, every detail in focus. Scale feel: monumental — as if the sculpture is 2 meters wide in physical space, photographed in a white infinity studio.
+
+  ---
+
+  PHASE 4: TECH SPECS
+
+  Render engine: Octane Render or Redshift — physically accurate subsurface scattering mandatory. Global illumination: large soft HDRI dome light, neutral white temperature 5500K. No directional shadows. No rim lights. No background elements. Ray tracing: on — for accurate specular and inter-reflection between letter surfaces. Anti-aliasing: maximum — edges must be razor-clean against white background. Output feel: this is a CGI product render, not AI art. Precision over expressionism. Aspect ratio: 1:1 square — centered composition with breathing room on all four sides.

@@ -1,0 +1,28 @@
+id: gpt-image-gold-saints-zodiac-card-grid
+title:
+  en: Twelve Gold Saints zodiac cards with Chinese names
+  zh: 十二黄金圣斗士星座卡牌，附中文名
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- saint-seiya
+- zodiac
+- card-grid
+- chinese-text
+source:
+  name: '@songguoxiansen on X'
+  url: https://x.com/songguoxiansen/status/2046476566537080849
+  credit: songguoxiansen
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Stating the exact count, the 4 per row layout, the 16:9 ratio and the name on each card gives a consistent set. Every card uses the same zodiac symbol and name plate template, so all twelve panels share one frame and style.
+  zh: 明确写出 12 张、每行 4 张、16:9 画幅以及每张卡上的中文名，版式就能保持统一。每张卡都用同一套星座符号和名牌模板，十二个画面共享同一框架和风格。
+prompt: |
+  [中文]
+  生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。
+
+  [English]
+  Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.

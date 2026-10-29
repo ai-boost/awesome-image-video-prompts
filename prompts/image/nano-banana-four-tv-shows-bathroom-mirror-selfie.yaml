@@ -1,0 +1,27 @@
+id: nano-banana-four-tv-shows-bathroom-mirror-selfie
+title:
+  en: Four TV show characters in bathroom mirror selfie
+  zh: 四部剧角色浴室镜前自拍合集
+model: Nano Banana 2
+mode: text-to-image
+category: character
+tags:
+- template
+- pixar-style
+- selfie
+- tv-shows
+- 3d-cgi
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2032557237437116521
+  credit: TechieSA
+  likes: 794
+  captured: '2026-10-29'
+  posted: '2026-03-13'
+notes:
+  en: A fill-in template that fixes the look to Pixar style 3D CGI in a vertical 3:4 frame, then makes one character the camera holder and crams the rest in for crowded selfie energy. The mirror lettering and set dressing are slotted per show, so every series keeps the same composition.
+  zh: 模板把画风固定为皮克斯风格的三维 CGI 和 3:4 竖版构图，让一位角色举着相机居中，其余角色挤进画面营造拥挤的自拍感。镜面文字和浴室道具按剧名替换，因此每部剧都保持相同的构图。
+prompt: |
+  Inspired by pettrusvaz on Instagram🔥
+
+  “High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, the most iconic characters from [SHOW/MOVIE] captured as a chaotic and joyful bathroom mirror selfie; the most recognizable character holds a large vintage camera up toward the mirror, the remaining characters squeezed tightly into the frame around them, each showing their most signature expression or pose; everyone wearing their most iconic costumes and outfits faithful to the source material; all crammed together creating classic crowded selfie energy; facial proportions gently stylized in Disney/Pixar animation style with expressive eyes while faithfully preserving each character's most recognizable traits, hairstyles and costumes from [SHOW/MOVIE]; the bathroom mirror has realistic toothpaste splatters and subtle smudges; the reflection shows bold black Pixar-style lettering reading "[SHOW/MOVIE]❤️"; the bathroom background is styled to match the world of [SHOW/MOVIE] with thematic props and easter eggs relevant to [SHOW/MOVIE] placed naturally around the scene; lighting combines soft ambient bathroom lighting with a bright camera flash reflecting in the mirror creating gentle specular highlights; warm Pixar-style color grading faithful to the visual tone of [SHOW/MOVIE], smooth highlight rolloff, refined Disney/Pixar cinematic character shading, ultra-detailed 4K render, no watermark”

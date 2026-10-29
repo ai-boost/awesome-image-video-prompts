@@ -1,0 +1,42 @@
+id: gpt-image-iphone-17-pro-max-spec-poster
+title:
+  en: Navy iPhone 17 Pro Max spec poster
+  zh: 深蓝色 iPhone 17 Pro Max 规格海报
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- product-replacement
+- poster
+- reference-images
+- iphone
+source:
+  name: '@AdrianPunk115 on X'
+  url: https://x.com/AdrianPunk115/status/2098055380857143807
+  credit: AdrianPunk115
+  captured: '2026-10-29'
+  posted: '2026-09-10'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: 'Splitting the two reference images by role works: Image 1 fixes layout, background, lighting, and text, while Image 2 fixes the product''s shape, colour, and logo. Limiting the edit to the product area plus contact shadows keeps the headline and spec list untouched.'
+  zh: 两张参考图按职责分工：图 1 决定版式、背景、光线和文字，图 2 决定产品的形状、颜色和标志。编辑范围只限产品区域及接触阴影，因此标题和规格文字保持不变。
+prompt: |
+  Please edit Image 1 by replacing the main product with the product shown in Image 2.
+
+  Strictly separate the functions of the two reference images:
+  Image 1 dictates the advertising composition, background, lighting direction, decorative elements, and text layout (excluding the product itself).
+  Image 2 dictates the new product's authentic shape, structure, material, color, logo, and packaging details.
+
+  Remove the old product from Image 1 and naturally place the product from Image 2 into the area previously occupied by the original product.
+
+  Preserve the authentic aspect ratio of the product from Image 2; do not squash, stretch, or alter its structure to fit the original outline. You may scale the product proportionally as a whole to fit the original layout.
+
+  Modify only the area occupied by the new product, along with any necessary contact shadows, occlusions, and local reflections resulting from the replacement. Do not recreate the entire poster.
+
+  Keep the headline, text content, font, font size, positioning, background texture, decorative elements, and canvas dimensions unchanged.
+
+  Do not create a hybrid design combining the two products. Do not retain the old product's cap, handle, label, or other components.
+
+  Do not add accessories not present in Image 2, do not guess at illegible packaging text, and do not alter the product's color to match the background.
+
+  Output only the single, completed poster with the product replaced.

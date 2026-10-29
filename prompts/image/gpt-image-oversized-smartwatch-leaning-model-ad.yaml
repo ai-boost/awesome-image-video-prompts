@@ -1,0 +1,24 @@
+id: gpt-image-oversized-smartwatch-leaning-model-ad
+title:
+  en: Oversized black smartwatch ad with leaning model
+  zh: 超大黑色智能手表广告与倚靠模特
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- smartwatch
+- product-ad
+- studio-lighting
+- text-placement
+source:
+  name: '@im_shahid7 on X'
+  url: https://x.com/im_shahid7/status/2051172470548476197
+  credit: Al-Shamus
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Describing the watch as oversized and the model leaning against it sets scale and pose in a single frame. Naming the glossy reflective floor, soft studio light and exact text positions gives a clean catalog-style layout.
+  zh: 用超大手表与模特倚靠的姿势同时定义比例与构图，再加入光泽反光地面和柔和棚拍光，营造高端商业摄影质感。写明文字位置（右上角、底部居中）让版式保持稳定。
+prompt: |
+  Minimalist commercial ad featuring oversized BLACK smartwatch, ultra-clean design. A young Man in all-white and yellow outfit leans casually against the giant watch, relaxed confident pose, eyes open in excitement expression , also wearing the same smartwatch on his wrist. Soft gradient blue background with large bold white “SMASUNG” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Shamus”. Bottom center tagline in small white font: “TIME IS TIDE.”

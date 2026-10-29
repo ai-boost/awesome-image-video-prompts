@@ -1,0 +1,26 @@
+id: gpt-image-serum-affiliate-five-scene-storyboard
+title:
+  en: Five step vertical storyboard for a pink body serum
+  zh: 粉色身体精华五段竖版分镜图
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- storyboard
+- product-ad
+- affiliate
+- reference-photo
+source:
+  name: '@AizaAi12 on X'
+  url: https://x.com/AizaAi12/status/2094970821219627239
+  credit: Aiza
+  likes: 353
+  captured: '2026-10-29'
+  posted: '2026-09-02'
+notes:
+  en: The prompt fixes the frame count, scene length and aspect ratio up front, then anchors the product to a reference photo so the same bottle stays consistent across all five panels. Timed scene labels and short captions turn the output into a usable ad plan.
+  zh: 提示词先固定画面数量、每段时长和竖版比例，再以参考图锁定产品外观，使五个画面中的产品保持一致。每段时间标注和简短说明让结果可以直接用作广告分镜规划。
+prompt: |
+  Create a vertical storyboard sheet in a 9:16 aspect ratio for a 10-second TikTok/Shopee Affiliate product advertisement video, consisting of exactly 5 different scenes, with each scene lasting approximately 2 seconds.
+
+  Use the product from the reference photo as the main product. Keep the product 100% identical to the reference photo, including its shape, color, size, material, texture, pattern, logo, packaging, and all other important details.

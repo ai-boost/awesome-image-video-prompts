@@ -1,0 +1,162 @@
+id: gpt-image-kfc-crispy-bucket-miniature-world-poster
+title:
+  en: Man holds KFC bucket with miniature chicken landscape
+  zh: 手持KFC餐桶的男子，桶内是微缩炸鸡世界
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- advertising
+- surreal
+- food-photography
+- typography
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2078325613199610080
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 125
+  captured: '2026-10-29'
+  posted: '2026-07-18'
+notes:
+  en: 'A full layout spec sets the depth order: a red background block, a giant cropped headline behind the subject, and the bucket in the foreground. Naming a camera body, lens and lighting setup keeps the surreal miniature scene photorealistic and focused on the product.'
+  zh: 完整的版式描述确定了景深层次：红色背景块、被裁切的背景大字、前景餐桶。指定相机机型、镜头和灯光，让超现实的微缩场景保持写实，并聚焦产品。
+prompt: |
+  4:5 vertical premium advertising poster, 8K ultra-high resolution, bold commercial layout × surreal realism, world-class brand campaign, luxury editorial food advertising, photorealistic, premium visual storytelling.
+
+  🧠 CORE IDEA:
+  "CRISPY HAS A WORLD OF ITS OWN."
+
+  🎬 LAYOUT
+
+  BACKGROUND BLOCK:
+  Large rounded rectangle in iconic KFC red with soft rounded corners, premium minimalist composition, clean white negative space.
+
+  GIANT TYPOGRAPHY:
+  "CRISP"
+
+  Massive bold typography, heavily cropped, positioned behind the subject with subtle depth.
+
+  👤 SUBJECT
+
+  Young adult holding an iconic KFC chicken bucket toward the camera.
+
+  Bucket dominates the foreground with strong perspective.
+
+  Relaxed smile, excited anticipation, direct eye contact.
+
+  Modern casual clothing in neutral tones to keep focus on the product.
+
+  🍗 PRODUCT + SURREAL TWIST
+
+  Classic KFC bucket becomes an entire miniature fried chicken universe.
+
+  Inside the bucket:
+
+  • Golden crispy mountains made of fried chicken
+  • Rolling mashed potato hills
+  • Rivers of glossy KFC gravy
+  • Tiny biscuit cottages
+  • Corn fields made from sweet corn kernels
+  • Miniature chicken farms with red barns
+  • Small wooden windmills turning from rising heat
+  • Tiny chefs walking through the landscape
+  • Warm buttery sunlight illuminating everything
+
+  The landscape feels handcrafted and alive.
+
+  ☁ ATMOSPHERE
+
+  Fresh hot steam rises naturally from the bucket.
+
+  Steam transforms into soft clouds above the subject.
+
+  Golden crispy crumbs float like leaves.
+
+  Tiny herbs drift through the air.
+
+  Subtle warm light rays emerge from the bucket.
+
+  ✨ GRAPHIC ELEMENTS
+
+  • Crispy crumb particles
+  • Pepper flakes
+  • Floating herbs
+  • Warm food steam
+  • Golden sparkles
+  • Soft volumetric lighting
+  • Premium food styling
+
+  🎨 COLOR PALETTE
+
+  KFC Red
+
+  Crispy Golden Brown
+
+  Warm Cream
+
+  Rich Gravy Brown
+
+  Soft White
+
+  Buttery Yellow
+
+  ✍️ TEXT SYSTEM
+
+  Top Pill:
+  Kentucky Fried Chicken
+
+  Headline:
+  CRISPY HAS A
+  WORLD OF ITS OWN.
+
+  Small Copy:
+  Every piece is hand-breaded, pressure-cooked, and crafted to deliver the unmistakable KFC crunch.
+
+  BOTTOM FEATURE STRIP
+
+  • Original Recipe
+  • Hand Breaded
+  • Pressure Cooked
+  • Finger Lickin' Good
+
+  📸 CAMERA
+
+  Phase One XF IQ4 150MP
+
+  80mm lens
+
+  Ultra shallow depth of field
+
+  Luxury commercial food photography
+
+  Hero bucket perfectly sharp
+
+  💡 LIGHTING
+
+  Warm cinematic key light
+
+  Golden rim lighting
+
+  Natural food reflections
+
+  Soft volumetric steam
+
+  Premium restaurant advertising lighting
+
+  🎯 VISUAL STYLE
+
+  Apple-level advertising precision
+
+  Luxury editorial food campaign
+
+  Hyper-realistic surrealism
+
+  Award-winning commercial food photography
+
+  Rich textures with perfectly crispy chicken
+
+  No AI artifacts
+
+  Impossible yet believable realism
+
+  Global flagship KFC campaign quality.

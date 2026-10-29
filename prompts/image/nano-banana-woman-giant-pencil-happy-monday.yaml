@@ -1,0 +1,24 @@
+id: nano-banana-woman-giant-pencil-happy-monday
+title:
+  en: Woman hugging giant pencil in a cozy room
+  zh: 女子抱着巨型铅笔在温馨房间里画画
+model: Nano Banana 2
+mode: image-edit
+category: realism
+tags:
+- reference-image
+- miniature-replicas
+- doodle-overlay
+- candid-photo
+source:
+  name: '@ariaxawan on X'
+  url: https://x.com/ariaxawan/status/2051246805892161960
+  credit: Aria
+  likes: 62
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+notes:
+  en: A reference image anchors the face and outfit while the prompt layers a candid realistic scene, doodle overlays, and four miniature replicas across the shelves and floor. Naming a camera body, lens, and aspect ratio keeps the result photographic.
+  zh: 参考图锁定人物面部与服装，提示词再叠加抓拍式写实场景、涂鸦装饰，以及分布在书架和地板上的四个微缩复制人物。指定相机机型、镜头和画幅比例，让画面保持摄影质感。
+prompt: |
+  A realistic, candid photograph of a petite Asian woman with a detailed, lifelike face and hairstyle (referencing the provided image for specific features), captured during a soft afternoon. She is wearing the specific clothing from the reference image. She is happily and intently hugging a gigantic wooden pencil adorned with cute, kawaii cartoon patterns with both hands, using it to draw on a massive sketchbook spread before her on a cozy room floor. The scene is full of warmth, with a soft, diffused sunlight filtering in. The floor is covered in pastel-colored (light pink, light blue) oversized toys, stationery, and a cute colored pencil box. A small, fluffy cat plush sits nearby. The room background features warm-toned wooden bookshelves filled with charming books and collectibles, all glowing with soft afternoon light. A minimal white doodle outline loosely traces the woman's figure.  Cute, minimal white handwritten text on the side reads "Happy Monday", and pink handwritten text reads "Hello". Small, simple white doodle elements like stars, flowers, cats, and bunnies are scattered around. Four distinct, miniature 3D chibi-style figures, exact miniature replicas of the woman in the same clothing but in playful, mischievous poses, are placed around her on the shelves, books, and among the giant stationery. The entire image has a soft, dreamy, and warm glow, with pastel tones in the surroundings contrasting with natural wood and cream background colors. Shot on a Canon EOS R5 with a 35mm f/1.4 lens, natural grain, cinematic lighting. Aspect Ratio: 4:5 Style: Realistic Photo, Candid, Warm, Dreamy Lighting: Soft Afternoon Sunlight, Diffused

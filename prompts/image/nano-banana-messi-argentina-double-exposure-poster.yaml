@@ -1,0 +1,30 @@
+id: nano-banana-messi-argentina-double-exposure-poster
+title:
+  en: Messi double exposure over Argentina skyline poster
+  zh: 梅西与阿根廷城市全景双重曝光海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- double-exposure
+- portrait
+- sports
+- travel
+- poster
+source:
+  name: '@sipteaandcoffee on X'
+  url: https://x.com/sipteaandcoffee/status/2063691460529258660
+  credit: kold Coffee
+  likes: 107
+  captured: '2026-10-29'
+  posted: '2026-06-07'
+notes:
+  en: Structured fields name the subject and ratio, then the body places the city inside the portrait silhouette as a double exposure. Dawn light, haze and volumetric beams keep the blend cinematic instead of collage-like.
+  zh: 结构化字段先指定主体和画幅比例，再把城市景观置入人像轮廓内形成双重曝光。晨光、薄雾和体积光束让融合感更像电影画面，而不是拼贴。
+prompt: |
+  {
+  "PLAYER": "Lionel Messi",
+  "COUNTRY": "Argentina",
+  "aspect_ratio": "4:5",
+  "prompt": "Ultra-premium cinematic double-exposure poster featuring an elite football icon Lionel Messi, captured in a powerful three-quarter pose with a calm yet determined gaze. The portrait dominates the composition, showcasing striking facial features, expressive eyes, and ultra-realistic skin detail. Inside his silhouette unfolds an immersive world of travel, culture, and football excellence. Seamlessly integrate a breathtaking Argentina panorama within the portrait, featuring elegant boulevards, illuminated bridges, modern architectural masterpieces, historic districts, vibrant waterfronts, cultural landmarks, and a world-class football arena. The cityscape should feel organically woven into the athlete's identity, symbolizing ambition, movement, and global influence. Atmospheric dawn lighting with warm amber sunlight breaking through soft clouds, cinematic haze, volumetric beams, subtle lens reflections, and realistic environmental depth. Dynamic layers of architecture, urban textures, and distant skylines create a sense of scale and discovery. Flowing motion elements, wind-swept hair, and subtle energy trails add elegance and momentum. Luxury fashion campaign aesthetic combined with elite sports storytelling, premium tourism advertisement quality, sophisticated editorial art direction, minimal high-fashion typography placement, refined composition, rich contrast, cinematic color grading, photorealistic rendering, hyper-detailed textures, realistic reflections, magazine-cover sophistication, global superstar energy, inspiring travel narrative, contemporary luxury branding, blockbuster promotional artwork, award-winning visual design, masterpiece quality, ultra-high resolution, 8K."
+  }

@@ -1,0 +1,63 @@
+id: h3-office-michael-whiteboard-mockumentary
+title:
+  en: Michael Scott presents at the Dunder Mifflin whiteboard
+  zh: 迈克尔·斯科特站在白板前讲话
+model: MiniMax H3
+mode: text-to-video
+tags:
+- mockumentary
+- sitcom
+- dialogue
+- handheld-camera
+source:
+  name: '@Arminn_Ai on X'
+  url: https://x.com/Arminn_Ai/status/2084387316286595436
+  credit: ΛRMIN
+  likes: 447
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Arminn_Ai/status/2084387316286595436
+notes:
+  en: The prompt sets the mockumentary look with a handheld camera and snap zooms, then splits the scene into timed beats with one dialogue line per beat so the cuts read like real editing. A closing STYLE line tells the model a documentary crew is present and characters occasionally glance at the lens.
+  zh: 提示词先用纪录片式手持镜头和快速推拉定下画面感，再把场景分成带时间节拍的段落，每段配一句台词，让剪辑节奏清楚。结尾的STYLE段说明有纪录片剧组在场，角色偶尔看向镜头。
+prompt: |
+  The Office (US) mockumentary style. Dunder Mifflin conference room,
+  mid-afternoon, harsh fluorescent lighting, cheap office chairs,
+  whiteboard at the front. Handheld documentary camera, slightly
+  unsteady, with sudden reframes and quick zooms toward whoever is
+  reacting.
+
+  Michael Scott stands at the whiteboard, overly excited, marker in
+  hand, badly drawn diagram behind him. The staff sit around the table
+  looking exhausted. Stanley Hudson sits at the far end, glasses on,
+  head down over a folded crossword puzzle, completely disengaged.
+
+  DIALOGUE:
+
+  MICHAEL (loud, proud): "Okay everybody, listen up. Large language
+  models. L-L-Ms. This is the future of the paper industry."
+
+  Beat. Nobody reacts. Camera pushes in slowly on Stanley — he does not
+  look up, does not blink, keeps filling in his crossword.
+
+  MICHAEL: "Which is why corporate is giving a bonus to whoever—"
+
+  Instant snap zoom to Stanley. His head lifts. He takes off his
+  glasses. Dead serious.
+
+  STANLEY: "I'm listening."
+
+  MICHAEL (waving him off): "—anyway. Moving on. Next topic. Prompt
+  engineering."
+
+  Snap zoom back to Stanley. He immediately puts his glasses back on,
+  lowers his head, and returns to the crossword as if nothing happened.
+
+  Cut to Jim, who slowly turns his head and looks directly into the
+  camera lens with a flat, knowing expression. Hold for two seconds.
+
+  STYLE: single-camera sitcom shot like a documentary crew is present,
+  natural performances, no laugh track, muted office color palette,
+  slightly soft consumer-camera look, characters occasionally glancing
+  at the lens.

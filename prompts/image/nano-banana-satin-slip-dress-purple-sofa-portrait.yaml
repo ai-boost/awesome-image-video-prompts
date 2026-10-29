@@ -1,0 +1,79 @@
+id: nano-banana-satin-slip-dress-purple-sofa-portrait
+title:
+  en: Blonde woman in satin slip dress on purple sofa
+  zh: 金发女子穿白色缎面吊带裙坐在紫色沙发上
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- editorial-fashion
+- structured-prompt
+- low-angle
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2065897085015064917
+  credit: KeorUnreal
+  likes: 461
+  captured: '2026-10-29'
+  posted: '2026-06-13'
+notes:
+  en: A structured JSON prompt splits subject, wardrobe, pose, environment, lighting and camera into labelled fields, so each element can be edited on its own. The floor level low angle with the red sole heel in the foreground pushes the composition toward the legs.
+  zh: 结构化的 JSON 提示词把主体、服装、姿势、环境、光线和镜头拆分成带标签的字段，每个元素都可以单独修改。从地面高度的低机位，加上前景中带红底的高跟鞋，把画面重心推向双腿。
+prompt: |
+  "subject": {
+      "Kate Upton lookalike",
+      "build": "hourglass figure, large bust",
+      "hair": {
+        "color": "blonde",
+        "length": "long, past shoulders, voluminous loose waves",
+        "style": "side-parted, flowing over right shoulder and back",
+        "texture": "shiny, silky, healthy"
+      },
+      "face": {
+        "eyes": "sharp and seductive gaze",
+        "lips": "full, glossy with deep red lipstick",
+        "makeup": "flawless base, defined eyes with subtle eyeliner, contoured cheeks, glossy red lips",
+        "glasses": "black frame glasses",
+        "expression": "confident, seductive, slight head tilt, direct eye contact with viewer"
+      },
+      "skin": "smooth, glowing, with soft highlights on shoulders and legs"
+    },
+    "clothing_and_accessories": {
+      "dress": "white satin/silk slip dress, thin gold chain straps, low sweetheart neckline, fitted bodice, short hem with high side slit revealing thigh, shiny reflective texture, small sign 'Keor' embroidered on border",
+      "shoes": "white so kate Louboutin high heels with red sole, 12cm heel",
+      "jewelry": "small gold hoop earrings, delicate gold chain necklace",
+      "other": "subtle gold bracelet on left wrist"
+    },
+    "pose_and_action": {
+      "overall_pose": "sitting on the edge of a large grey sofa, body angled slightly toward the camera, leaning back with weight on left arm",
+      "legs": "right leg extended forward toward camera with foot in foreground, left leg bent with knee up, creating a strong, sensual leg focus",
+      "hands": "right hand resting on the sofa behind her for support, left hand placed on the sofa cushion in front",
+      "torso": "slightly twisted toward viewer, chest forward",
+      "head": "turned toward camera with confident seductive expression"
+    },
+    "environment": {
+      "setting": "luxurious modern living room at night",
+      "furniture": "large purple velvet sectional sofa, dark wood coffee table with decorative vase containing red dried flowers",
+      "background": "dark textured wall with large painting of Nami manga character in Francisco goya style, window with sheer white curtains allowing soft natural light",
+      "floor": "dark patterned area rug with subtle texture",
+      "decor": "minimalist elegant styling with soft ambient lighting"
+    },
+    "lighting": {
+      "type": "soft cinematic mixed lighting — natural window light from the side combined with warm dramatic interior lighting",
+      "quality": "high contrast with beautiful highlights on skin, satin dress, and hair, soft shadows that sculpt the body and legs",
+      "mood": "sexy, sophisticated, intimate, high-fashion editorial"
+    },
+    "camera_and_composition": {
+      "shot_type": "medium full-body shot with emphasis on legs and pose",
+      "angle": "slightly low angle from floor level, making legs appear longer and more powerful",
+      "framing": "subject centered with strong foreground focus on the red high heel and extended leg",
+      "depth_of_field": "sharp focus on the woman and dress, softly blurred background",
+      "aspect_ratio": "portrait orientation"
+    },
+    "style_and_quality": {
+      "style": "photorealistic, hyper-detailed, commercial high-fashion photography",
+      "aesthetic": "sexy confident woman in elegant red satin dress and red heels, luxurious intimate setting",
+      "mood": "alluring, powerful, sensual, cinematic",
+      "technical_quality": "8K resolution, extremely sharp details on fabric texture, skin, hair strands, and reflections on the patent leather shoes"
+    },

@@ -1,0 +1,66 @@
+id: seedance-katen-kyokotsu-bankai-thread-web
+title:
+  en: Forest sword duel turns into Bankai thread web
+  zh: 森林剑斗转入卍解白丝大网
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- sword-fight
+- fantasy-action
+- live-action
+- timed-beats
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2102609881677107243
+  credit: itxabdullaa
+  captured: '2026-10-29'
+  posted: '2026-09-23'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxabdullaa/status/2102609881677107243
+notes:
+  en: Two reference images lock each character's look, and a timed beat sheet makes every action trigger the next so the ten second escalation stays readable. Rules against glowing auras and for believable water, cloth and petals keep the result grounded in live-action footage.
+  zh: 两张参考图锁定两名角色的外观，按时间段拆分的分镜表让每个动作直接引发下一个事件，十秒内的节奏层层递进。禁止发光气场并要求水、布料和花瓣遵循真实物理，使画面保持实拍质感。
+prompt: |
+  SCENE — KATEN KYŌKOTSU: KARAMATSU SHINJŪ
+  DURATION: exactly 10 seconds
+  FORMAT: 16:9
+  STYLE: ultra-photorealistic live-action cinematic fantasy action, grounded CGI, desaturated palette, high-contrast lighting, realistic anatomy and physics, dark supernatural atmosphere, cinematic Japanese tragedy, practical environmental interaction, no digital-art appearance.
+  PACE: extremely fast continuous escalation, zero pause, zero dead frame.
+
+  REFERENCES
+  IMAGE 1 — PAKSHUN
+  Preserve facial identity, hairstyle, costume, proportions, and appearance exactly.
+
+  IMAGE 2 — OPPONENT
+  Preserve facial identity, hairstyle, costume, proportions, and appearance exactly.
+
+  ACTION
+
+  0.0–2.0 SECONDS — BANKAI
+  Tight rear three-quarter shot. Opponent charges. Pakshun lowers his sword and says: 「卍解……花天狂骨枯松心中。」
+  A violent pressure wave tears across the ground. Dust, leaves, debris, and hundreds of dark petals rise. The environment rapidly desaturates into black, grey, and pale tones. Camera performs a fast 360° orbit as Opponent closes in.
+
+  2.0–4.0 SECONDS — SHARED WOUND
+  Opponent attacks. Pakshun pivots and cuts across his torso. An identical wound instantly appears on Pakshun. A thin crimson thread connects both wounds as Opponent retreats. The ground cracks beneath it and black water erupts upward.
+
+  4.0–6.5 SECONDS — THE DROWNED STAGE
+  A massive wave floods the battlefield. Camera dives underwater seamlessly. Both characters struggle violently against the current, with realistic movement of soaked clothing, hair, debris, and petals. Pakshun plants his feet and pulls one hand back. The entire current suddenly freezes in turbulent suspension.
+
+  6.5–8.5 SECONDS — WHITE THREADS
+  Pakshun rises through the suspended water. Countless thin white threads spread behind him into a huge web. Opponent tries to escape, but threads catch his wrist, arms, torso, and legs, tightening and dragging him toward the center. Pakshun advances. Camera rapidly pulls back to reveal the full structure.
+
+  8.5–10.0 SECONDS — HAKKA NO TOGAME
+  Pakshun grips one primary thread and pulls once. Every thread becomes violently taut. Water erupts outward and dark petals explode across the frame. Pakshun makes a minimal sword-draw motion. One sharp white cutting line tears across the composition.
+
+  SMASH CUT TO BLACK. One sharp sword-slash sound. END.
+
+  VISUAL RULES
+
+  - Both characters remain active throughout.
+  - No teleportation, transformations, NPC behavior, or static posing.
+  - No glowing anime aura or excessive energy beams.
+  - All water, debris, fabric, hair, petals, and threads obey believable physics.
+  - Grounded CGI integrated into live-action photography.
+  - Every action directly causes the next event.
+  - Continuous movement, zero pauses, zero dead frames.
+  - No unnecessary movement or ending hero pose. #ImagineArt

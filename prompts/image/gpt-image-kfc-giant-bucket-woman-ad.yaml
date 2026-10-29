@@ -1,0 +1,26 @@
+id: gpt-image-kfc-giant-bucket-woman-ad
+title:
+  en: Woman in white leaning on giant KFC bucket
+  zh: 白衣女子倚靠巨型 KFC 桶
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- ad
+- kfc
+- text-layout
+- studio-lighting
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2049527944905982314
+  credit: Mr Das
+  likes: 312
+  captured: '2026-10-29'
+  posted: '2026-04-29'
+notes:
+  en: Each element is listed with its position, such as the top-right credit and bottom-center tagline, so every text block lands where the prompt asks. Placing a person beside an oversized product and specifying soft studio light and a reflective floor gives it a clean commercial look.
+  zh: 按位置逐项描述元素，如右上角署名和底部中央标语，让每段文字都落在指定位置。人物与巨型产品同框，并指定柔和影棚光和反光地面，使画面呈现干净的商业质感。
+prompt: |
+  GPT Image 2 on ChatGPT app
+
+  Prompt: Minimalist commercial ad featuring oversized KFC bucket, ultra-clean design. A young woman in all-white outfit leans casually against the giant bucket, relaxed confident pose, eyes closed, also holding a piece of fried chicken. Soft gradient blue background with large bold white “KFC” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Crispy, juicy, irresistible.”

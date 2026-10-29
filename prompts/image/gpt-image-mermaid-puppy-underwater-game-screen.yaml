@@ -1,0 +1,24 @@
+id: gpt-image-mermaid-puppy-underwater-game-screen
+title:
+  en: Mermaid puppy underwater game level screenshot
+  zh: 美人鱼小狗水下游戏关卡截图
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- game-ui
+- children-illustration
+- underwater
+- chinese-text
+source:
+  name: '@tinywhale2023 on X'
+  url: https://x.com/tinywhale2023/status/2049456974543323195
+  credit: 小鲸鱼
+  captured: '2026-10-29'
+  posted: '2026-04-29'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'The prompt builds the scene in layers: setting first, then counted props placed by position words such as left of center and lower right, then the hero, then each Chinese UI label quoted exactly. This keeps the layout checkable and the overlay text clean.'
+  zh: 提示词按层次组织画面：先写场景，再用左侧、右下等位置词和数量（6 个发光贝壳、4 个金色贝壳）定位元素，最后把每个中文界面文字用引号完整写出，使布局可控、界面文字清晰。
+prompt: |
+  A bright, whimsical underwater 2D game scene in a polished children’s animation style, shown as a full-screen level screenshot inside a rounded-rectangle game viewport. The setting is a colorful coral reef with a sandy seabed and a pale stone path winding from the foreground into the distance at center, creating depth. Sunbeams stream down through clear blue water from above, with many small air bubbles floating throughout the scene. Surround the path with soft, toy-like coral formations and sea plants in pastel pink, peach, lavender, turquoise, and mint, plus rocky ledges on both sides. Place 2 starfish in the foreground, one purple on the lower left rock and one pink-orange on the lower right. Add 2 translucent pink jellyfish, one left of center and one right of center, both gently glowing. Scatter 6 glowing pink clam shells along and beside the path, each emitting a soft magical aura. Add 4 golden-orange collectible shells with a pearl-like center, positioned near the middle play area. Include 2 large purple balloon-like jelly obstacles with white outlines and short dangling tentacles, one in the lower center-left and one in the mid-right. Near the left-center foreground, place a cute mermaid puppy character inspired by a preschool cartoon rescue dog: small smiling puppy face, big expressive eyes, light brown and cream fur, pink head accessory, teal mermaid tail, playful cheerful pose as if moving forward. On the right side, add a faint dashed circular target marker over the environment. Overlay simple mobile-game UI in Chinese: at the top left, two white rounded pill buttons, one reading "收贝壳" and one reading "1/5"; at the top right, a white circular pause button with "II". At the bottom center, place 3 white rounded instruction buttons with blue-gray text: "方向键 / WASD", "空格 / 回车：泡泡", and "Esc 回地图". Make the whole image glossy, soft-lit, kid-friendly, high-saturation but pastel-balanced, with a dreamy fantasy reef atmosphere and clean casual game-art composition.

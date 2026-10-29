@@ -1,0 +1,28 @@
+id: gpt-image-liu-yan-star-mascot-cream-poster
+title:
+  en: Cream poster, yellow star mascot on portrait's head
+  zh: 奶油色海报，黄色星星角色坐在人像头顶
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- poster
+- typography
+- portrait
+- cartoon-mascot
+source:
+  name: '@xiaoxiaodong01 on X'
+  url: https://x.com/xiaoxiaodong01/status/2062924832917029248
+  credit: xiaoxiaodong01
+  captured: '2026-10-29'
+  posted: '2026-06-05'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A bold cropped photo enters from the lower edge while a flat yellow mascot sits on the head, so the real photo and cartoon contrast. The handwritten headline at top and the vertical name in the centre set the hierarchy on a flat, shadowless cream field.
+  zh: 真人局部从下方裁切进入，扁平黄色角色坐在头顶，形成真实与童趣的反差。顶部手写标题加中央竖向大字建立层级，背景保持平整、无阴影的浅色底场。
+prompt: |
+  围绕具体主题内容生成一张明亮清爽的图文合成视觉：画面以大面积高明度纯净色场承托主体，背景平整、通风、没有复杂景深，视觉重心由下方被大胆裁切的人像或真实主体建立，只露出最有记忆点的局部，使主体像从画面边缘进入。主体上方叠放一个极简图形符号或拟物角色，它要像轻轻坐在主体头顶或贴合轮廓生长出来，形体圆润、边缘干净、表情或结构由少量粗线完成，兼具标识感和亲近感。文字是画面的主动角色：顶部使用大号手写感标题，字距松、笔画柔软，像一句轻声招呼；中心用更强的竖向或轴向标题建立层级；边缘安放少量小字号信息，保持安静但精确，让空白继续占主导。色彩从主题自身的材质、情绪、地域或品牌语义中提取，映射为明亮底色、洁净主体亮面、清晰深色结构线与少量强调信息色，保留大面积轻快底场、小面积高对比文字线条、自然主体暗部的关系；整体保持高明度、清透、干净、饱和度清晰而不过度刺激，暗色只用于结构和阅读，不制造脏灰、烟雾或陈旧质感。摄影局部与扁平图形之间要形成真实与童趣的反差，边缘叠压准确，阴影极少，完成感像城市公共宣传与角色插画结合的轻松视觉系统。
+
+  主题：柳岩
+
+  比例9:16

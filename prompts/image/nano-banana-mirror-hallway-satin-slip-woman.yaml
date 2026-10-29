@@ -1,0 +1,57 @@
+id: nano-banana-mirror-hallway-satin-slip-woman
+title:
+  en: Woman in white satin slip dress in mirrored hallway
+  zh: 镜面走廊中穿白色缎面吊带裙的女子
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- structured-json
+- mirror-reflection
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2109735577436275182
+  credit: KeorUnreal
+  likes: 94
+  captured: '2026-10-29'
+  posted: '2026-09-30'
+notes:
+  en: The prompt is structured JSON that separates subject, outfit, secondary subject, setting, lighting and camera, so each block maps to a visible element. Placing the mystery figure in a mirror reflection and specifying a slightly high selfie angle gives the scene depth and layering.
+  zh: 提示词采用结构化 JSON，将主体、服装、次要人物、场景、光线与镜头分块描述，每一块都对应画面中可见的元素。把神秘人物放在镜面反射中并指定略高的自拍视角，使画面有纵深和层次。
+prompt: |
+  {
+    "subject": {
+      "description": "Young woman with fair skin, dark wet-look hair falling over her shoulders, full lips slightly parted, looking toward the camera",
+      "hair": "Dark brown hair with a wet, slicked appearance, partially covering one shoulder",
+      "body": "Curvy figure with a glossy sheen on the skin",
+      "pose": "Standing in a narrow hallway, both arms extended to the sides with hands resting on the wooden door frames, body facing the camera",
+      "expression": "Calm, direct gaze with slightly parted lips"
+    },
+    "outfit": {
+      "dress": "White satin slip short dress with a deep cowl neckline, ruched waist, and fitted silhouette",
+      "accessories": "Small white quilted shoulder bag with a gold chain strap",
+      "embroidery": "A small sign reading 'Keor' embroidered in elegant lettering along the border of the dress (on the neckline or side seam)"
+    },
+    "secondary_subject": {
+      "description": "Mystery figure of a woman in a long red outfit with high heels and a hat that completely covers her face, giving a sense of mystery",
+      "placement": "Standing further down the hallway or visible in a mirror reflection in the backdrop"
+    },
+    "setting": {
+      "location": "Narrow wood-paneled hallway with mirrors",
+      "background": "Warm wooden walls, multiple mirrors reflecting the subject, ceiling lights, white walls visible in reflections"
+    },
+    "lighting": {
+      "type": "Warm indoor ceiling lighting",
+      "effects": "Soft highlights on the satin dress and skin, gentle shadows in the hallway"
+    },
+    "camera": {
+      "angle": "Slightly high selfie-style angle looking down the hallway",
+      "framing": "Three-quarter body shot, subject centered between the mirrors, mystery figure visible in the background or reflection",
+      "style": "Photorealistic, high-detail indoor photography, sharp focus"
+    },
+    "additional_details": {
+      "skin": "Smooth with a dewy, slightly glossy finish",
+      "atmosphere": "Intimate hallway portrait with a mysterious second figure"
+    }
+  }

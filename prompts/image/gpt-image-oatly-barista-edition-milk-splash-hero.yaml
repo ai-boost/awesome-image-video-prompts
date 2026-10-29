@@ -1,0 +1,50 @@
+id: gpt-image-oatly-barista-edition-milk-splash-hero
+title:
+  en: Oatly Barista Edition carton beside milk splash and latte
+  zh: Oatly 咖啡师版燕麦奶盒与牛奶飞溅和拉花咖啡
+model: GPT Image 2
+mode: image-edit
+category: product
+tags:
+- branded-proof
+- product-hero
+- milk-splash
+- latte
+source:
+  name: '@aziz4ai on X'
+  url: https://x.com/aziz4ai/status/2073691521564451078
+  credit: AZIZ | AI 🇸🇦
+  likes: 97
+  captured: '2026-10-29'
+  posted: '2026-07-05'
+notes:
+  en: Uploading a clear product photo as the exact reference keeps the logo, label and packaging accurate. The milk splash and latte pour bring freshness and the barista benefit into a dark, blurred café scene, so the centred product still reads first.
+  zh: 先上传清晰的产品图作为精确参考，使 logo、标签和包装保持准确可读。牛奶飞溅与拉花倒奶的画面把口感和咖啡师场景带入画面，居中的产品在暗色虚化的咖啡馆背景前一眼抓住视线。
+prompt: |
+  Upload a clear product image first.
+
+  Create a premium 16:9 advertising key visual using the uploaded product as the exact hero reference.
+
+  The product must be large, front-facing or best-selling angle, sharply focused, and occupy 35–50% of the frame.
+
+  Keep the logo, label, packaging shape, colors, proportions, typography, and recognizable brand details accurate, readable, and unobstructed.
+
+  Use the visual system: “Branded Proof”.
+
+  Do not just make a pretty scene.
+  Make the environment prove the product’s benefit.
+
+  The product stays clean, pristine, and dominant.
+  Everything around it becomes evidence of what the product does:
+  before/after contrast, texture change, temperature shift, freshness, speed, impact, comfort, flavor, protection, glow, silence, energy, or luxury.
+
+  Build a strong foreground, midground, and background.
+  The eye should land on the logo first, then understand the benefit in one second.
+
+  Style:
+  premium commercial photography, cinematic lighting, agency-grade campaign visual, high contrast, tactile realism, clean negative space, realistic shadows, polished reflections, scroll-stopping composition.
+
+  Avoid:
+  tiny people, micro worlds, UI overlays, holograms, fake floating logos, messy clutter, unreadable labels, hidden branding, random effects, extra text overlays.
+
+  Output: one hero ad image, 16:9.

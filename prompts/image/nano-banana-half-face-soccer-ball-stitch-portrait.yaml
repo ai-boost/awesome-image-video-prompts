@@ -1,0 +1,32 @@
+id: nano-banana-half-face-soccer-ball-stitch-portrait
+title:
+  en: Half face portrait stitched into a soccer ball
+  zh: 半张脸与半个足球缝合的写实肖像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- surreal-composite
+- soccer
+- template
+- portrait
+source:
+  name: '@ShamsAmin56 on X'
+  url: https://x.com/ShamsAmin56/status/2066220842485469445
+  credit: Shams
+  likes: 74
+  captured: '2026-10-29'
+  posted: '2026-06-06'
+notes:
+  en: The [Player Full Name] slot makes one prompt reusable for any player. Dense skin and sweat detail plus named football panels and seams keep the face-to-leather join photoreal, while the white seamless backdrop and 9:16 studio framing keep it clean.
+  zh: '[Player Full Name] 占位符让同一条提示词可以套用到任意球员。细致描述皮肤毛孔、汗水以及足球面板与缝线，让人脸与皮革的交界看起来真实，纯白无缝背景和 9:16 棚拍构图则保持画面干净。'
+prompt: |
+  Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin texture, pores, sweat, realistic football panels and seams, dramatic cinematic lighting, sharp focus, white seamless background, 9:16 aspect ratio, professional studio photography, 4k resolution.
+
+  Super Easy to Edit:
+
+  Replace [Player Full Name] with the player’s name.
+  Example: Cristiano Ronaldo
+
+  Disclaimer:
+  AI-generated images • Creative artistic concept • Not a real photo or real stitches.

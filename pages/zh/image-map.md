@@ -1,6 +1,76 @@
 # 地图
 
-[返回目录](../../README_zh.md) · 全部 12 条
+[返回目录](../../README_zh.md) · 全部 15 条
+
+<a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
+### 等距视角动漫世界地图微缩模型海报
+
+<a href="https://x.com/TechieBySA/status/2091529289283866634"><img src="../../previews/gpt-image-isometric-anime-world-map-diorama-poster.jpg" width="360"></a>
+
+用分支条件分别处理虚构世界和真实地点，让同一模板能切出正确的地图轮廓。版面留白、标题层级和移轴摄影质感都有明确规则，成图风格统一，另可上传参考地图提高准确度。
+
+GPT Image 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2091529289283866634) · 6,709 赞，统计于 2026-10-28
+
+[`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`anime-world`](tags.md#tag-anime-world) [`miniature`](tags.md#tag-miniature) [`editorial-poster`](tags.md#tag-editorial-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Simply replace [ANIME]:✨
+
+(Upload a reference image of the map for enhanced accuracy)
+
+“Ultra-detailed photorealistic isometric miniature scale-model diorama of the world from [ANIME], floating on a pure off-white studio background with a soft drop shadow beneath.
+
+If [ANIME] has a fictional world map: the diorama takes the exact silhouette shape of that fictional continent, island or region, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like the world physically cut out and lifted. The shape matches the canonical map boundary precisely.
+
+If [ANIME] is set in a real or semi-real world: the diorama takes the exact geographic silhouette shape of the primary city, region or country where the story is set, extruded into a thick rock slab with rough cliff edges.
+
+The entire top surface faithfully recreates the complete world of [ANIME] with full anime accuracy: every region, city, landmark, building, terrain feature, road and environment in its exact canonical position as established in the show. Every iconic location is instantly recognizable to any fan — labeled with small readable location markers. The architecture, environment design, building styles, color palette and atmosphere must be completely faithful to the visual world of [ANIME] — not Western or generic realistic, but distinctly true to how this anime world looks and feels. Every location a fan would recognize is present and accurately placed.
+
+Dense micro-detail throughout: tiny figures in show-accurate character designs and clothing, vehicles or creatures authentic to the world, individual trees and foliage, roads and paths between locations, flags and faction symbols, any distinctive environmental features unique to this anime world.
+
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Soft warm lighting from above, gentle diffuse shadows. Colors match the anime's authentic visual palette faithfully — rich, saturated and true to the show's identity.
+
+Layout: the shaped diorama floats centered in the lower two-thirds of the frame, clear margins on all sides, never touching the frame edges. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the world or region name at the very top, then [ANIME] directly below in a bold condensed sans-serif in medium charcoal grey — large and dominant, the biggest text element, then small wide-tracked caps below with the studio name and year.
+
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
+```
+
+</details>
+
+<a id="gpt-image-tv-show-world-isometric-map-diorama"></a>
+### 电视剧世界等距地图微缩景观海报
+
+<a href="https://x.com/TechieBySA/status/2091167214195847433"><img src="../../previews/gpt-image-tv-show-world-isometric-map-diorama.jpg" width="360"></a>
+
+用一个可替换的剧名占位符，并按虚构或真实场景分支，让微缩景观贴合地图轮廓并挤出成岩石厚板。固定的版面把上方三分之一留白给宽字距小字和粗窄标题，海报更干净。
+
+GPT Image 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2091167214195847433) · 2,678 赞，统计于 2026-10-28
+
+[`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`tilt-shift`](tags.md#tag-tilt-shift) [`tv-show`](tags.md#tag-tv-show) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Simply replace [TV SHOW]:✨
+
+“Ultra-detailed photorealistic isometric miniature scale-model diorama of the world from [TV SHOW], floating on a pure off-white studio background with a soft drop shadow beneath.
+
+If [TV SHOW] has a fictional world map: the diorama takes the exact silhouette shape of that fictional continent or world, extruded downward into a thick slab of raw rock and earth with rough cliff-like edges. The top surface recreates the complete world geography exactly as established in the show — every region, kingdom, city, landmark, mountain range, forest and river in its correct canonical position.
+
+If [TV SHOW] is set in the real world: the diorama takes the exact geographic silhouette shape of the real city, state or region where the show is primarily set, extruded into a thick rock slab. The top surface is filled entirely with locations, landmarks, routes and environments from the show rendered in the show's authentic color palette and visual atmosphere — not generic realistic geography but the world as it feels in the show.
+
+In both cases: dense micro-detail throughout — tiny figures in show-accurate clothing, vehicles, buildings, roads, trees, all authentic to the show's world. Every iconic location a fan would recognize is present and accurately placed.
+
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Lighting and color palette match the show's visual identity exactly.
+
+Layout: diorama floats centered in the lower two-thirds, clear margins all sides. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the location or world name at the very top, then [TV SHOW] in a bold condensed sans-serif in medium charcoal grey — large and dominant, then small wide-tracked caps below with network and year.
+
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
+```
+
+</details>
 
 <a id="gpt-image-city-on-map"></a>
 ### 你的城市从地图上长出来
@@ -266,6 +336,30 @@ Each region naturally reflects its real-world biome, climate and architecture �
 Iconic landmarks, local architectural styles and natural textures emerge organically from each region without labels or annotations.
 Each region features unique textures, climate, colors and cultural patterns inspired by local motifs.
 Isometric perspective, miniature scale, floating landmass style. Cinematic lighting, soft shadows, ultra-realistic textures. High-end architectural visualization, storytelling composition. No people, no text, no labels. 8K quality, hyper-detailed, premium aesthetic.​​​​​​​​​​​​​​​​“
+```
+
+</details>
+
+<a id="nano-banana-paramount-backlot-map-1950s"></a>
+### 派拉蒙1950年代片场地图，布景与电影画面并存
+
+<a href="https://x.com/AllaAisling/status/2031038080895820272"><img src="../../previews/nano-banana-paramount-backlot-map-1950s.jpg" width="360"></a>
+
+这是一个可复用的填空模板，每个槽位对应一个片场、影片、明星和布景，使地图结构清晰，同时让场景兼具施工与幻象。胶片边框、导演椅以及可见的摄制组和灯光装置，强化了片场即梦工厂的概念。
+
+Nano Banana 2 · 文生图 · 出处: [@AllaAisling on X](https://x.com/AllaAisling/status/2031038080895820272) · 106 赞，统计于 2026-10-29
+
+[`map`](tags.md#tag-map) [`film`](tags.md#tag-film) [`template`](tags.md#tag-template) [`vintage`](tags.md#tag-vintage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Prompt Studio: Movie Studio Backlot Map with Nano Banana 2 in Firefly Boards
+
+A movie studio backlot map of {STUDIO_NAME} golden era, with the false fronts erupting into the films they hosted. {SOUNDSTAGE_1} opens to reveal {FILM_1} mid-scene with {STAR_1} performing, {BACKLOT_SET_1} rises as {FILM_2}'s {ICONIC_SCENE}, {EXTERIOR_LOT} becomes {FILM_3}'s {LOCATION_ILLUSION}. The magic of moviemaking visible—camera crews, lighting rigs, the reality behind the fantasy. Sets exist as both construction and illusion simultaneously. A director's chair sits at map's edge. {ERA_ELEMENT} establishes the period: costumes, cars, equipment of {DECADE}. Film strips border the scene, their frames containing completed moments from the productions. Glamorous studio lighting, golden age warmth, 8K, the dream factory as actual factory.
+
+Check ALTs for ideas 👇
+@AdobeFirefly
 ```
 
 </details>

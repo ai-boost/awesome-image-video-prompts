@@ -1,0 +1,24 @@
+id: nano-banana-chibi-twins-caricature-pairs
+title:
+  en: Four celebrities beside Pixar style bobblehead caricatures
+  zh: 四位名人与皮克斯风格大头公仔合影
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- caricature
+- bobblehead
+- 3d-render
+- celebrity
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2051378456982671545
+  credit: TechieSA
+  likes: 370
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+notes:
+  en: Fix the real subject on the right and the caricature on the left at 50 to 60 percent of the real height, with one elbow resting on the caricature's head for a natural interaction. Matching outfits, a light gray seamless backdrop and soft upper left light keep both figures lit and grounded in the same scene.
+  zh: 将真人固定在右侧、卡通角色固定在左侧，身高约为真人的50至60%，并让真人单肘搭在角色头顶形成自然互动。服装一比一还原、浅灰无缝背景与左上方柔光让两者处于同一光影与空间中。
+prompt: |
+  “Create a high-resolution, ultra-realistic studio composition in a 4:5 vertical aspect ratio, featuring a real person standing beside a stylized 3D caricature (bobblehead-style) version of the same individual. Use the provided reference image as the only source of identity. Strictly preserve the subject’s exact facial structure, proportions, skin tone, hairstyle, and all recognizable features. Do not alter or stylize the real face. Composition & Framing: Full-body vertical shot with a clean, centered layout. The real subject stands on the right, and the caricature stands on the left at approximately 50–60% of the real subject’s height. The real subject casually rests one elbow on the caricature’s oversized head, creating a natural, playful interaction. Real Subject (Photographic): Ultra-realistic rendering with natural skin texture and fine detail. Expression is warm, relaxed, and confident. Pose & Style (IMPORTANT): The subject stands in a slightly cool, stylish posture — relaxed stance with subtle asymmetry (one leg slightly forward or weight shifted), shoulders loose, not stiff. The hand resting on the caricature should feel effortless and natural. Clothing (Match Reference): Keep textures realistic and clearly visible. 3D Caricature (Stylized Version): Pixar/Disney-inspired 3D style with exaggerated proportions — large expressive head and smaller body. The height should be noticeably shorter, around the real subject's waist level. Facial features must remain recognizable but enhanced — larger eyes, softer forms, slightly amplified smile. Emotion & Body Movement (IMPORTANT): Expression is more playful and animated than the real subject Eyes brighter and more expressive, smile slightly exaggerated Body posture must NOT be stiff — use a natural, lively stance Add subtle movement according to the real subject's personality Pose should feel like a living, animated character, not a rigid figurine Clothing: Exact 1:1 stylized recreation of the real subject’s outfit with soft 3D textures. Lighting & Environment: Soft, diffused studio lighting from the upper-left, creating smooth highlights and gentle shadows. Clean light-gray gradient seamless background(lighter in the inner areas). Output Style: Ultra-clean, cinematic, high-detail render with strong contrast between realistic human and stylized 3D character. Both subjects grounded with soft natural shadows.”

@@ -1,0 +1,29 @@
+id: seedance-giant-woman-skateboarder-golden-hour
+title:
+  en: Giant woman sunset with skateboarder riding her leg
+  zh: 夕阳下巨型女子腿上的滑板少年
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- giant-subject
+- scale-contrast
+- tracking-shot
+- golden-hour
+- skateboard
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2103420922376163808
+  credit: Just_sharon7
+  captured: '2026-10-29'
+  posted: '2026-09-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2103420922376163808
+notes:
+  en: The prompt states the skateboarder is at normal human scale, which sets up a strong size contrast with the giant subject and keeps both in one frame. An extreme low camera that starts at her legs and tracks forward with the rider, plus motion blur on the foreground skin and fabric, sells the feeling of moving along a landscape.
+  zh: 提示词明确写出滑板少年为正常人类比例，与巨人女子形成尺度对比，模型便能在同一画面中保持两者关系。极低机位从她的腿部开始向前并略微上抬跟随滑板者，配合前景皮肤与布料的运动模糊，营造沿着风景移动的临场感。
+prompt: |
+  A cinematic 10-second tracking shot at golden hour. A giant young East Asian woman with long wavy honey-blonde hair tied with black satin ribbons lies on her side on a grassy hill, filling most of the frame. She wears a black-and-white polka-dot halter crop top, a thin black choker with a silver chain, dark lipstick, and a long flowing black robe that drapes over her hips and legs like fabric hills. One arm is bent, hand near her cheek; the other rests on a long smooth wooden staff lying in the grass. Soft sunset light, peach-and-lavender clouds, distant city skyline on the horizon.
+
+  A tiny man (normal human scale relative to her) skateboards along her body. He has short dark hair, a dark gray t-shirt, beige trousers, black sneakers, and a small olive-green crossbody bag. He starts on her pale, sunlit thigh and rides up the curve of her hip and the black fabric of her robe toward her midriff and chest.
+
+  Camera is extremely low and close, starting at her legs and tracking forward and slightly upward with the skateboarder. Strong motion blur on the nearest skin and fabric in the foreground. Shallow depth of field, warm rim light on her face and hair, slight wind in her hair and the robe. Photorealistic, high-end commercial look, 9:16 vertical, smooth continuous camera move, no cuts.

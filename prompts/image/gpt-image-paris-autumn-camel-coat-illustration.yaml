@@ -1,0 +1,24 @@
+id: gpt-image-paris-autumn-camel-coat-illustration
+title:
+  en: Woman in camel coat on Parisian street
+  zh: 巴黎街头身穿驼色大衣的女子
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- fashion
+- paris
+- autumn
+- illustration
+source:
+  name: '@heyfatema on X'
+  url: https://x.com/heyfatema/status/2057745100365787170
+  credit: heyfatema
+  captured: '2026-10-29'
+  posted: '2026-05-22'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt lists each garment with its material and the bag hardware, so the outfit stays exact. It then sets a full body vertical camera with shallow depth of field and warm golden hour light, and closes with a named muted palette to keep the colours consistent.
+  zh: 提示词逐件写明服装材质和包袋五金细节，服装因此保持精确。随后用全身竖向构图、浅景深和暖色黄金时段光线定调，结尾给出明确的克制秋季配色，让色彩保持统一。
+prompt: |
+  Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a long camel wool coat draped open over a black ribbed turtleneck sweater and high-waisted wide-leg cream trousers, holding a quilted tan leather shoulder bag with interlocking CC logo and chain strap in her left hand while her right hand slides into a pocket, short dark brown wavy hair gently lifted by a breeze, pearl stud earrings, natural fresh makeup and a confident serene expression; cinematic shallow depth of field with soft warm golden-hour light, subtle bokeh on Haussmann-style buildings and slow-moving cars in the blurred background, scattered fallen leaves on the pavement; semi-realistic digital painting / fashion illustration style with clean linework, soft gradients, high-detail fabric textures and realistic folds, emphasis on elegant silhouettes and tactile materials, muted autumn palette (camel, cream, black, warm ochre), vertical composition, crisp foreground, gentle film grain and polished finishing.

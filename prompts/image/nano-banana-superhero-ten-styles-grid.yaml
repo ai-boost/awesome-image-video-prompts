@@ -1,0 +1,24 @@
+id: nano-banana-superhero-ten-styles-grid
+title:
+  en: Spider-Man drawn in ten labelled art styles
+  zh: 蜘蛛侠十种画风标签拼图
+model: Nano Banana 2.1
+mode: text-to-image
+category: collage
+tags:
+- superhero
+- art-styles
+- grid
+- multi-style
+source:
+  name: '@chetaslua on X'
+  url: https://x.com/chetaslua/status/2113896151883919812
+  credit: Chetaslua
+  likes: 284
+  captured: '2026-10-29'
+  posted: '2026-10-23'
+notes:
+  en: One open subject with no named style list lets the model choose ten distinct looks and place them as labelled panels in one grid. Asking for a single image of one character in many styles keeps the identity consistent across panels, so the set reads as a direct style comparison.
+  zh: 只给出一个主体和风格数量，不指定具体画风，由模型自行选定十种风格并排成带标签的网格。要求同一张图中呈现同一角色，各格的人物形象保持一致，便于直接比较画风。
+prompt: |
+  🚨 New Nano Banana 2.1 just got new checkpoint on arena < high chance this is new pro version i will test and keep you guys updated>

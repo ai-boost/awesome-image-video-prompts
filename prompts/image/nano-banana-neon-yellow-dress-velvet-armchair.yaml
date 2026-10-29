@@ -1,0 +1,60 @@
+id: nano-banana-neon-yellow-dress-velvet-armchair
+title:
+  en: Neon yellow satin mini dress in velvet armchair
+  zh: 霓虹黄缎面迷你裙女子坐于天鹅绒扶手椅
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- json-prompt
+- fashion
+- text-in-image
+- portrait
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2109984717160276438
+  credit: KeorUnreal
+  likes: 275
+  captured: '2026-10-29'
+  posted: '2026-10-13'
+notes:
+  en: A structured JSON prompt separates subject, outfit, setting, lighting and camera into their own keys, and it names the exact embroidered word Keor for the neckline and hem, which the output reproduces. Naming a three quarter camera and a high detail fashion photo style keeps the image grounded in real studio portraiture.
+  zh: 采用结构化 JSON 提示，将主体、服装、场景、光线和镜头分别写入独立字段，并精确指定领口与裙摆处的刺绣文字 Keor，输出中可见该文字。明确的三四分之三镜头角度与高细节时尚摄影风格，使画面保持真实的人像质感。
+prompt: |
+  {
+    "subject": {
+      "description": "Young woman with fair skin, short black bob haircut with a center part, refined facial features, looking toward the camera with a calm expression",
+      "hair": "Short black bob, sleek and straight with a clean center part",
+      "body": "Slender yet curvy figure, small tattoos visible on both arms",
+      "pose": "Seated in a velvet armchair, one leg extended forward, one hand holding a clutch, the other resting on her thigh near the dress hem",
+      "expression": "Direct, slightly parted-lip gaze"
+    },
+    "outfit": {
+      "dress": "Neon yellow satin mini dress with thin spaghetti straps, ruched sides, and a short fitted silhouette",
+      "accessories": "Black choker with a small bow, dangling red earrings",
+      "nails": "Neon yellow painted fingernails",
+      "prop": "Black textured clutch held in one hand",
+      "text": "The word 'Keor' written in small lettering along the border of the outfit (on the neckline or hem of the dress)"
+    },
+    "setting": {
+      "location": "Elegant indoor room",
+      "background": "Beige velvet armchair, wood-paneled walls, curtains, dark flooring, doorway in the distance"
+    },
+    "lighting": {
+      "type": "Warm soft indoor lighting",
+      "effects": "Gentle highlights on the neon yellow satin and skin, soft shadows in the room"
+    },
+    "camera": {
+      "angle": "Slightly high three-quarter angle looking down at the seated subject",
+      "framing": "Three-quarter body shot, subject centered in the armchair",
+      "style": "Photorealistic, high-detail fashion photography, sharp focus"
+    },
+    "additional_details": {
+      "skin": "Smooth with a natural sheen",
+      "atmosphere": "Stylish indoor portrait with a bold neon yellow look"
+    }
+  }
+  https://
+  x.com/mr_perfect1117
+  /mr_perfect1117/status/2108407417373692016
+  …

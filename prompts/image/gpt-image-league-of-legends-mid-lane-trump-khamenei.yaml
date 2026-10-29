@@ -1,0 +1,23 @@
+id: gpt-image-league-of-legends-mid-lane-trump-khamenei
+title:
+  en: Trump vs Khamenei mid lane in League of Legends
+  zh: 英雄联盟中路，特朗普对阵哈梅内伊
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- league-of-legends
+- game-screenshot
+- fan-art
+source:
+  name: '@underwoodxie96 on X'
+  url: https://x.com/underwoodxie96/status/2046529342415790275
+  credit: underwoodxie96
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: The prompt names an exact game, lane and two real figures, so the model rebuilds the League HUD around them with portraits, ability bar, minimap and chat log. A short scene request works here because the game's visual language is strongly recognisable.
+  zh: 提示词直接点明游戏、线路和两个真实人物，模型会围绕他们补全英雄联盟的界面要素，包括头像栏、技能栏、小地图和聊天记录。游戏的视觉语言辨识度高，因此一句简短描述也能得到完整的对局截图效果。
+prompt: |
+  Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends

@@ -1,0 +1,63 @@
+id: gpt-image-maid-character-4x4-dance-pose-sheet
+title:
+  en: Maid character 4x4 dance pose sheet
+  zh: 女仆角色 4x4 舞蹈姿势图
+model: GPT Image 2.5
+mode: image-edit
+category: character
+tags:
+- pose-sheet
+- anime
+- dance
+- character-sheet
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2103139749540339890
+  credit: Kiki
+  likes: 373
+  captured: '2026-10-29'
+  posted: '2026-09-10'
+notes:
+  en: A numbered movement structure runs from opening pose to finishing silhouette, while a fixed camera, plain white background and one reference image keep costume, proportions and scale consistent across all 16 panels.
+  zh: 用编号的动作结构从开场姿势排到收尾造型，固定镜头、纯白背景和单张参考图让16个分格中的服装、比例和角色大小保持一致。
+prompt: |
+  Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
+
+  CHARACTER CONSISTENCY
+  Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
+
+  ADAPTIVE CHOREOGRAPHY
+  Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.
+
+  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
+
+  Use the following movement structure, adapting each action to the character:
+
+  1. Opening pose that establishes the character’s personality.
+  2. Small rhythmic step with a coordinated arm gesture.
+  3. Side step with one arm extended.
+  4. Compact expressive gesture near the face or upper body.
+  5. Grounded stance with arms crossing or sweeping inward.
+  6. Knee lift or an anatomically appropriate weight shift.
+  7. Open, expansive pose with arms spread.
+  8. Playful or expressive balance pose.
+  9. Turning pose showing a three-quarter rear view.
+  10. Forward-reaching movement with a diagonal body lean.
+  11. Strong upward-reaching accent.
+  12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
+  13. Lowered stance with a forward gesture.
+  14. Elegant or dynamic side-facing transition.
+  15. Signature gesture that suits the character.
+  16. Confident final pose with a clear finishing silhouette.
+
+  COMPOSITION AND PRESENTATION
+  Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.
+
+  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.
+
+  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
+
+  AVOID
+  Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
+
+  Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.

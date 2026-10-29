@@ -1,0 +1,24 @@
+id: gpt-image-cinematic-potato-chips-ad
+title:
+  en: Lay's Classic bag amid flying chips and crumbs
+  zh: 乐事经典装薯片袋，飞溅薯片与金色碎屑
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- snack
+- advertising
+- food-photography
+- typography
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2046980650440544368
+  credit: Amira Zairi
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Placing the product at a three quarter angle against a black backdrop with warm rim light makes the bag the clear hero. Quoting the exact badge and headline text and assigning a colour to each word keeps the typography and product copy legible.
+  zh: 产品以四分之三角度置于黑色背景前，配合暖色边缘光，让包装成为视觉焦点。逐字指定徽章与标题文字及颜色分配，使排版和产品文案准确可读。
+prompt: |
+  Create a high-impact commercial snack advertisement in a dramatic studio setting. Show a large glossy bag of Lay's Classic potato chips standing upright slightly left of center, photographed at a three-quarter front angle. The bag is bright golden yellow with a realistic crinkled plastic texture, a large red-and-white logo centered near the top, the flavor name printed below, a photo of whole potatoes and several stacked potato chips near the lower front, and small package details including a circular badge near the top right that reads "MADE WITH 3 INGREDIENTS" with tiny lines under it reading "POTATOES", "OIL", "SALT", plus small text near the bottom left reading "POTATO CHIPS". Surround the bag with exactly 11 visible potato chips flying through the air at different depths and angles, some curled and some flat, with crisp texture and golden highlights. Fill the scene with explosive golden crumbs, seasoning dust, and sparkling particles bursting around the package, especially behind it and across the floor. Use a deep black background with warm amber rim lighting, strong contrast, glowing highlights, and cinematic backlit particles. On the right side, add a bold stacked headline in large distressed uppercase sans-serif text reading HAPPINESS IN EVERY CRUNCH, with "HAPPINESS" and "CRUNCH" in white and "IN EVERY" in vivid golden yellow. Beneath the headline, place a two-line subheading in smaller uppercase text reading SIMPLE INGREDIENTS. IRRESISTIBLE FLAVOR., with the first line in white and the second line in yellow. At the bottom right, place a small round brand logo above the tagline No Lay's, No Game.. The composition should feel energetic, premium, messy in a controlled way, and optimized for e-commerce or promotional ad creative, with ultra-sharp product focus, dramatic lighting, floating debris, glossy reflections on the ground, and a polished photorealistic food photography look.

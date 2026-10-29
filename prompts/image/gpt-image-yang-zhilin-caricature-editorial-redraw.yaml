@@ -1,0 +1,24 @@
+id: gpt-image-yang-zhilin-caricature-editorial-redraw
+title:
+  en: Exaggerated caricature of Yang Zhilin at keyboard
+  zh: 键盘前的杨植麟夸张漫画肖像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- caricature
+- editorial
+- portrait
+- reference-redraw
+source:
+  name: '@ElainaNotes on X'
+  url: https://x.com/ElainaNotes/status/2081202322911433189
+  credit: Elaina
+  captured: '2026-10-29'
+  posted: '2026-07-26'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Listing every layout element to keep (pose, grid background, dotted shapes, headline) locks the composition to the reference. Naming the caricature traits along with a tight vertical crop and a face much larger than the reference pushes the exaggeration without losing the layout.
+  zh: 逐项列出需要保留的版式元素（姿势、网格背景、点状色块、标题），把构图锁定在参考图上。同时写明夸张特征和紧凑的竖向构图，让人脸明显大于参考图，在保留版式的前提下增强夸张效果。
+prompt: |
+  Using the provided reference image, redraw it as a polished exaggerated editorial caricature while preserving the original Financial Times-style composition and all key elements. Keep the same seated-at-keyboard pose, the hands reaching toward the keyboard, the white grid-paper background, the red/pink dotted side shapes, the blue dotted rounded rectangle in the upper right, and the same lower-left headline text: Yang Zhilin, the rock star founder behind China’s Moonshot AI. Transform the portrait into a glossy, high-detail digital caricature with an oversized head, fuller cheeks, slightly comical smile, enlarged glasses, stylized black hair, painterly skin texture, and a more satirical magazine-illustration look. Keep the crop tight and vertical, with the face much larger in frame than the reference and the text overlay still readable in large white serif type across the lower third. Maintain the keyboard along the bottom edge and do not add any new objects, logos, watermarks, or extra text.

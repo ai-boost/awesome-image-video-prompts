@@ -1,0 +1,63 @@
+id: nano-banana-product-storyboard-3x3-grid
+title:
+  en: Perfume bottle shown in a 3x3 storyboard grid
+  zh: 香水瓶的 3x3 分镜网格展示
+model: Nano Banana 2
+mode: image-edit
+category: product
+tags:
+- storyboard
+- product-mockup
+- grid
+- reference-image
+source:
+  name: '@arceyul on X'
+  url: https://x.com/arceyul/status/2027526257018024246
+  credit: arc.
+  likes: 207
+  captured: '2026-10-29'
+  posted: '2026-02-27'
+notes:
+  en: A reference photo anchors the product so the label and proportions stay fixed across all nine frames. Each panel gets its own angle and framing, while shared lighting logic and palette keep the set reading as one series.
+  zh: 参考图锁定产品的标签、比例与包装，确保九个画面中的产品保持一致。每个画面使用不同的角度与构图，统一的光线逻辑与色调让整组图像看起来像同一个系列。
+prompt: |
+  Crea UNA imagen final.
+
+  Un storyboard limpio en cuadrícula 3×3 con nueve paneles iguales en proporción [ratio], dentro de un formato total 4:5.
+
+  Usa la imagen de referencia como base del producto. Mantén exactamente el mismo producto, diseño del packaging, branding, materiales, colores, proporciones e identidad general en los nueve paneles, tal como en la referencia. El producto debe ser claramente reconocible en cada frame. La etiqueta, el logo y las proporciones deben permanecer exactamente iguales.
+
+  Este storyboard es una presentación mockup de alto nivel para un portfolio de branding. El enfoque está en la forma, la composición, la materialidad y el ritmo visual, más que en el realismo o una narrativa lifestyle. El resultado debe sentirse curado, editorial y orientado al diseño.
+
+  FRAME 1:
+  Plano frontal hero del producto en un entorno de estudio limpio. Fondo neutro, composición equilibrada, presentación calmada y segura del producto.
+
+  FRAME 2:
+  Primer plano con el enfoque centrado en la parte media del producto. Se destacan la textura de la superficie, los materiales y los detalles de impresión.
+
+  FRAME 3:
+  El producto de referencia colocado en un entorno que encaja naturalmente con la marca y la categoría del producto. Escenario de estudio inspirado en los elementos de diseño y colores del producto.
+
+  FRAME 4:
+  Producto mostrado en uso o en interacción sobre un fondo de estudio neutro. Las manos y los elementos de interacción son mínimos y discretos, manteniendo el estilo del packaging.
+
+  FRAME 5:
+  Composición isométrica que muestra varios productos organizados en un orden geométrico preciso desde un ángulo isométrico superior. Todos los productos están colocados con el mismo ángulo isométrico, espaciados de forma uniforme, limpios, estructurados y gráficos.
+
+  FRAME 6:
+  Producto levitando ligeramente, inclinado sobre un fondo neutro que coincida con la paleta de colores de la imagen de referencia. La posición flotante es intencional y natural en el espacio.
+
+  FRAME 7:
+  Primerísimo primer plano centrado en un detalle específico de la etiqueta, el borde, la textura o el comportamiento del material.
+
+  FRAME 8:
+  El producto en un entorno inesperado pero estéticamente potente, con un enfoque audaz, editorial y visualmente impactante. Escenario inesperado pero altamente estilizado, basado en estudio y dirigido por diseño. Composición fuerte que eleva la marca.
+
+  FRAME 9:
+  Composición amplia que muestra el producto en uso dentro de un setup de diseño refinado. Props limpios, estilismo controlado y coherente con el resto de la serie.
+
+  CÁMARA Y ESTILO:
+  Imágenes de estudio de ultra alta calidad con apariencia de cámara real. Diferentes ángulos y encuadres en cada frame. Profundidad de campo controlada, iluminación precisa, materiales y reflejos realistas. La lógica de iluminación, la paleta de colores, el mood y el lenguaje visual deben mantenerse consistentes en los nueve paneles como una sola serie cohesionada.
+
+  OUTPUT:
+  Una cuadrícula limpia 3×3 sin bordes, sin texto, sin captions y sin marcas de agua.

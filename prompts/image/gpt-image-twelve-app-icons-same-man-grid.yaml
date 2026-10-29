@@ -1,0 +1,29 @@
+id: gpt-image-twelve-app-icons-same-man-grid
+title:
+  en: Same man styled as twelve app icons
+  zh: 同一男子化身十二个应用图标
+model: GPT Image 2
+mode: image-edit
+category: ui-mockup
+tags:
+- app-icons
+- reference-photo
+- 3d-render
+- grid-layout
+source:
+  name: '@Fujimoto_hina on X'
+  url: https://x.com/Fujimoto_hina/status/2058574162328002852
+  credit: Aegon
+  likes: 102
+  captured: '2026-10-29'
+  posted: '2026-05-24'
+notes:
+  en: An uploaded reference photo keeps the same face across all twelve tiles, while each icon names a real app and sets a matching color palette and action. The fixed grid layout on a plain white studio background keeps the set cohesive.
+  zh: 上传的参考照片让十二个图标中的人脸保持一致，每个图标指定一个真实应用，并配以对应的配色和动作。固定的网格布局配合纯白摄影棚背景，使整组图标保持统一。
+prompt: |
+  {
+    "model": "gpt-image-2",
+    "prompt": "Create a premium 3D grid of 12 square app icons arranged neatly on a clean white studio background. Each icon should look like a realistic modern version of popular apps including Spotify, Netflix, TikTok, Gmail, Google, Safari, App Store, Chrome, Clock, Calendar, Instagram, and Notes. Inside every app icon frame, place the same realistic man from the uploaded image, styled differently to match the theme and color palette of each app. Give him fashionable modern outfits, expressive poses, and interactions that creatively blend with the UI and environment of each icon. For example: relaxing inside Spotify with headphones, cinematic lighting in Netflix, trendy creator vibe in TikTok, casual aesthetic in Instagram, professional look in Gmail, etc. The icons should have a glossy 3D floating appearance with depth, shadows, reflections, realistic textures, and soft studio lighting. Make every square visually unique while keeping the overall composition cohesive and premium. Highly detailed skin texture, realistic facial consistency, luxury fashion styling, vibrant colors, pop art inspired aesthetic, ultra realistic digital art, depth of field, 8K quality, trending Behance/Dribbble style.",
+    "size": "1792x1024",
+    "quality": "high"
+  }

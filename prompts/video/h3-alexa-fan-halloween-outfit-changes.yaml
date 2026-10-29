@@ -1,0 +1,144 @@
+id: h3-alexa-fan-halloween-outfit-changes
+title:
+  en: Ceiling fan rotation reveals five Halloween costumes
+  zh: 吊扇转一圈换一套万圣节服装
+model: MiniMax H3
+mode: reference-to-video
+tags:
+- halloween
+- fashion
+- fan-transition
+- overhead-camera
+source:
+  name: '@MonetizationDon on X'
+  url: https://x.com/MonetizationDon/status/2108957560707457178
+  credit: LAPTOP LIFESTYLE BLOGGER
+  likes: 86
+  captured: '2026-10-29'
+  posted: '2026-10-10'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/MonetizationDon/status/2108957560707457178
+notes:
+  en: A fixed overhead camera and one slow fan rotation per outfit act as the scene cut, so each costume change is hidden behind the blades. Pinning the face and body to a master character reference, while holding the pose and room constant, keeps the subject consistent across all five reveals.
+  zh: 固定俯拍镜头加上每次只转一圈的吊扇，把服装切换藏在扇叶遮挡之后，形成无剪辑的转场。用主角身份参考图锁定脸部和体型，并让姿势与环境保持不变，使五次换装期间人物始终一致。
+prompt: |
+  Create a photorealistic cinematic Halloween fashion transformation video featuring Alexa Grey, using the supplied Alexa Grey Master Character Lock as the exact identity reference.
+
+  Alexa is lying in the exact same relaxed pose on a vintage Persian rug in a dark, elegant Halloween-decorated living room.
+
+  CAMERA:
+  Fixed directly overhead.
+  Perfect top-down composition.
+  No camera movement.
+  No cuts.
+  No zoom.
+  No change in angle.
+  Alexa remains in exactly the same position throughout the entire video.
+
+  A large wooden ceiling fan is positioned directly between the camera and Alexa.
+
+  THE TRANSITION CONCEPT IS EXTREMELY IMPORTANT:
+
+  The ceiling fan rotates VERY SLOWLY.
+
+  ONE COMPLETE SLOW ROTATION OF THE CEILING FAN = ONE OUTFIT CHANGE.
+
+  As the fan completes one slow rotation, its blades naturally sweep across the camera's view and temporarily obscure Alexa.
+
+  When that ONE complete rotation finishes and the fan returns to its original position, Alexa is revealed wearing ONE completely different Halloween costume.
+
+  Then the fan makes another single slow rotation, revealing the next outfit.
+
+  Do NOT make multiple outfit changes during one rotation.
+
+  Do NOT make the fan spin rapidly.
+
+  Do NOT use cuts, dissolves, flashes or digital transition effects.
+
+  The fan itself must create the transformation.
+
+  OUTFIT SEQUENCE:
+
+  START:
+  Alexa wears a simple elegant black outfit.
+
+  ROTATION 1:
+  One slow complete fan rotation.
+  When the rotation finishes, reveal:
+
+  GOTHIC WITCH
+  Elegant black Victorian witch dress, dramatic pointed witch hat, dark lace, gothic accessories and mysterious Halloween styling.
+
+  ROTATION 2:
+  One slow complete fan rotation.
+  Reveal:
+
+  VAMPIRE QUEEN
+  Elegant black-and-deep-red Victorian gown, dramatic cape, gothic jewelry and sophisticated vampire styling.
+
+  ROTATION 3:
+  One slow complete fan rotation.
+  Reveal:
+
+  DEMON QUEEN
+  Elegant black-and-crimson gothic costume, subtle horns, dramatic dark textures and supernatural styling.
+
+  ROTATION 4:
+  One slow complete fan rotation.
+  Reveal:
+
+  FALLEN DARK ANGEL
+  Elegant black gothic gown with enormous black feathered wings and dramatic dark angel styling.
+
+  ROTATION 5:
+  One slow complete fan rotation.
+  Reveal:
+
+  GHOST BRIDE
+  Distressed vintage wedding gown, long torn veil, dark roses and haunting gothic styling.
+
+  Every time the fan completes ONE slow rotation, Alexa must be fully revealed in the new outfit.
+
+  The transition should feel almost magical and seamless, as if the rotating ceiling fan is changing her costume.
+
+  Keep Alexa's exact face, hair, skin tone and body proportions unchanged.
+
+  ENVIRONMENT:
+  Dark luxury Halloween interior.
+  Vintage Persian rug.
+  Wooden floor.
+  Pumpkins.
+  Flickering candles.
+  Old books.
+  Skulls.
+  Dark flowers.
+  Subtle atmospheric fog.
+  Warm orange candlelight.
+  Deep cinematic shadows.
+  Elegant gothic atmosphere.
+
+  The environment remains exactly the same during every transformation.
+
+  FINAL SHOT:
+  After the fifth outfit is revealed, Alexa remains lying on the rug and slowly looks directly toward the camera while the ceiling fan continues its slow rotation.
+
+  Photorealistic.
+  Cinematic Halloween fashion film.
+  Luxury horror aesthetic.
+  Realistic skin and hair.
+  Detailed costumes.
+  Realistic fabric and feather textures.
+  4K.
+  16:9.
+
+  NO TEXT.
+  NO SUBTITLES.
+  NO WATERMARK.
+  NO EXTRA PEOPLE.
+  NO CAMERA MOVEMENT.
+  NO CUTS.
+  NO FAST FAN MOTION.
+  NO RANDOM OUTFIT CHANGES.
+
+  KEY RULE:
+  ONE SLOW COMPLETE FAN ROTATION → ONE NEW HALLOWEEN OUTFIT.

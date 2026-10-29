@@ -1,0 +1,24 @@
+id: gpt-image-kfc-red-claw-machine-fried-chicken
+title:
+  en: Red KFC claw machine stocked with fried chicken buckets
+  zh: 红色 KFC 风格娃娃机，内装炸鸡桶
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- claw-machine
+- product-shot
+- template
+- fast-food
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2058103785306878367
+  credit: Harboris
+  likes: 104
+  captured: '2026-10-29'
+  posted: '2026-05-23'
+notes:
+  en: The prompt is a fill-in template, so the brand, colour and contents can be swapped while the structure stays fixed. Material words like glossy painted metal, crystal glass and polished edges, plus a symmetrical 3:4 frame on a monochrome backdrop, give it a premium product-display look.
+  zh: 提示词是可填充的模板，品牌、主色和内容物可以替换而结构保持不变。玻璃、抛光金属等材质词，加上对称的 3:4 竖向构图和单色背景，营造出高端商品陈列的质感。
+prompt: |
+  [A futuristic claw machine inspired by the brand's visual identity (BRAND NAME)] JUMA Premium Arcade Machine fully customized with the colors, logo, and visual identity of the brand (BRAND NAME)] [Inside the machine, multiple customized products based on (what should exist inside the machine) stacked naturally in a fun and visually pleasing composition) (A metal claw hanging at the top centered above the products ready to grab an item)] [Clean minimalist studio environment with monochromatic background following (main brand color)] [ULTRA-REALISTIC CINEMATIC 3D RENDERING STYLE] [EXTERIOR OF THE MACHINE MADE OF GLOSSY PAINTED METAL, CRYSTAL CLEAR GLASS PANELS, POLISHED EDGES AND REALISTIC REFLECTIONS] [HIGHLY DETAILED INTERIOR WITH REALISTIC PACKAGING, SHADOWS AND DEPTH] [SOFT REFLECTIONS ON THE GLASS, SUBTLE METALLIC HIGHLIGHTS AND SMOOTH CINEMATIC GRADIENTS] [SYMMETRICAL CENTERED COMPOSITION WITH ELEGANT NEGATIVE SPACE] [DRAMATIC STUDIO LIGHTING WITH SOFT SHADOWS, LUMINOUS GLOWS AND VOLUMETRIC ATMOSPHERE] [DOMINANT COLORS (COLORS OF [BRAND] [INSPIRED BY LUXURY BRANDING CAMPAIGNS, COLLECTIBLE PRODUCT DISPLAYS, MODERN ARCADE AESTHETICS AND PREMIUM COMMERCIAL ADVERTISING] [MINIMALIST COMPOSITION WITH STRONG VISUAL HIERARCHY AND SOPHISTICATED FEEL OF PREMIUM PRESENTATION] [NO TEXT, NO WATERMARK, NO DISTORTION, NO VISUAL POLLUTION] [3:4 VERTICAL COMPOSITION WITH CENTERED FRAMING AND CLEAN BACKGROUND] [BK RESOLUTION, ULTRA-SHARP DETAILS, REALISTIC DEPTH, CINEMATOGRAPHIC LENS BEHAVIOR, HIGH DYNAMIC RANGE] [HYPER-DETAILED TEXTURES, TRANSPARENCY] Realistic glass, polished reflections, volumetric lighting, extreme realism.

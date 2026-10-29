@@ -1,0 +1,25 @@
+id: h3-lotr-sitcom-legolas-gimli-argument
+title:
+  en: Legolas and Gimli bicker in a sitcom living room
+  zh: 莱戈拉斯与金力在情景喜剧客厅争吵
+model: MiniMax H3
+mode: text-to-video
+tags:
+- sitcom
+- dialogue
+- multi-shot
+- lord-of-the-rings
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2086782084723405173
+  credit: Kōda
+  likes: 116
+  captured: '2026-10-29'
+  posted: '2026-08-10'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aimikoda/status/2086782084723405173
+notes:
+  en: The prompt sets the sitcom format first, then fixes each character's seat and prop so the model keeps two stable positions. Alternating shared wide shots with individual close-ups gives the video a sitcom cutting rhythm.
+  zh: 提示词先定下情景喜剧的形式，再固定两个角色的座位和道具，使模型保持稳定的站位。共享全景与单人特写交替出现，形成情景喜剧的剪辑节奏。
+prompt: |
+  the lord of the rings as a sitcom, legolas and gimli arguing about how many orcs they hunted

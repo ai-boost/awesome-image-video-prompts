@@ -1,0 +1,24 @@
+id: gpt-image-juventus-yamal-transfer-poster
+title:
+  en: Yamal Juventus transfer poster with Turin landmarks
+  zh: 尤文图斯亚马尔转会海报，带都灵地标
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- football
+- poster
+- typography
+- layout
+source:
+  name: '@MiskinTV_ on X'
+  url: https://x.com/MiskinTV_/status/2047258567124861108
+  credit: SobatMiskinTV
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Stacks two portraits of the same player at different scales, an upper body back angle over a full body action pose, on a dark Turin skyline with named landmarks. Every line of text, the coordinates and each sponsor detail are spelled out, so the layout and wording stay locked in place.
+  zh: 将同一球员的两张人像按不同尺度叠放，上方为背影半身像，下方为全身动作姿态，背景是带有具体地标的都灵夜景。提示词逐行写明文字、坐标和每处赞助商细节，使版式与文字保持稳定。
+prompt: |
+  Create a dramatic vertical football poster for Yamal in a Juventus transfer-announcement style, ultra-detailed, high-contrast, black-and-white with metallic gold accents, gritty premium sports graphic design. The composition has 2 visible portraits of the same young male footballer with dark brown skin and short tight curly hair: one large upper-body rear three-quarter portrait dominating the top half, wearing a glossy white Juventus jersey with the name YAMAL printed large across the back, head turned slightly left so one ear and partial cheek are visible; and one full-body action pose in the lower center, arms spread wide while running or celebrating, wearing the modern Juventus home kit with black-and-white vertical stripes, white shorts with the number 19, white socks, and light-colored boots with a subtle pink accent on the sole. Keep the face areas softly obscured and non-detailed. Use a dark moody background with layered architectural imagery of Turin, including 3 landmark elements: a faint domed historic building on the left mid-background, a tall tower resembling Mole Antonelliana on the lower right, and a shadowy stadium structure across the lower middle. Add 3 Juventus logos: one small white logo at the top left, one large translucent logo integrated into the upper right background, and one medium white logo at the bottom right. Add bold typography and editorial layout elements: the word YAMAL set vertically in huge white condensed sans-serif letters along the left side, small vertical gold text reading "JUVENTUS FOOTBALL CLUB" beside it, gold text on the right reading YAMAL above the large gold number "19", a gold signature scribble below, the slogan "FINO ALLA FINE" stacked in gold on the lower left, "JUVENTUS" in small white text beneath it, and small coordinate text at the bottom left reading "45.0703° N, 7.6869° E" and "TORINO, ITALIA". The jersey on the action figure should include visible sponsor and badge details: Juventus crest with 3 stars, Adidas logo, Jeep sponsor, a circular tricolor badge on the chest, and a black sleeve patch reading "azimut". Add energetic white paint streaks and brush slashes in 3 main areas: upper right, lower center near the kicking leg, and subtle scratches on the left edge. Include marble-like black texture panels, gold star accents, faint chevrons, and smoky atmosphere. Lighting should be cinematic with rim light on the player, glossy fabric highlights, sharp contrast, and a premium transfer-poster aesthetic suitable for a social media football announcement.

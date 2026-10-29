@@ -1,0 +1,30 @@
+id: nano-banana-kinder-joy-egg-swing-chair
+title:
+  en: Woman sitting in giant Kinder Joy egg swing
+  zh: 女子坐在巨型 Kinder Joy 蛋形秋千椅中
+model: Nano Banana 2
+mode: image-edit
+category: realism
+tags:
+- surreal
+- scale
+- face-reference
+- kinder-joy
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2028673990672216202
+  credit: Hania Ai
+  likes: 119
+  captured: '2026-10-29'
+  posted: '2026-03-03'
+notes:
+  en: The prompt fixes the layout with explicit left and right placement of each prop and a single lighting direction, which keeps the scene readable. The uploaded face reference together with fixed clothing and pose keeps the subject consistent.
+  zh: 提示词用明确的左右位置标注每个道具，并固定单一光源方向，让场景层次清晰。上传的人脸参考图配合固定的服装和姿势，保证人物形象一致。
+prompt: |
+  A hyper-realistic, 8k, medium shot photograph captured with a standard lens and shallow depth of field, showcasing a surreal indoor scene with cinematic lighting. The composition features a normal-sized woman, using the uploaded face as reference, sitting cross-legged inside a colossal, highly detailed Kinder Joy egg that functions as a swing chair. The giant egg is split, with its white interior forming the seat and the orange, textured exterior visible, suspended by dark metal chains from a curved, dark metal stand.
+
+  The woman wears a black t-shirt and blue and white plaid pajama pants, holding a small white teacup with both hands, looking directly at the viewer with a calm and relaxed expression.
+
+  To the left in the foreground, on a highly detailed polished wooden table, stands another gigantic, fully wrapped Kinder Joy egg, exhibiting intricate foil texture and branding. To the right of the swing's base, also on the table, are miniature props: a vintage-style wooden radio with white dials and a tiny bonsai tree in a small pot.
+
+  The lighting is soft, warm, and directional from the left, casting subtle shadows and highlighting the highly detailed textures of the egg wrappers, the woman’s clothing, and the wooden surface. The background is a softly blurred, warm-toned interior wall, creating a pleasing bokeh effect.

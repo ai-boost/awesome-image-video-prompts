@@ -1,0 +1,42 @@
+id: seedance-woman-crowd-synchronized-turn
+title:
+  en: Woman in black jacket at center of white crowd
+  zh: 黑色外套女子站在白衣人群中央
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- crowd
+- reference-image
+- cinematic
+- synchronized-motion
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2100067816162636164
+  credit: AIwithSynthia
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2100067816162636164
+notes:
+  en: 'A reference image locks the face, wardrobe and crowd, and the motion is split into beats: a freeze, a staggered head turn spreading through the crowd, then one sharp synchronized turn. Camera moves are limited to a backward track and a slow push so the lead''s stillness stays the focus.'
+  zh: 用参考图锁定人物、服装和人群，再把动作拆成定格、逐步扩散的转头、最后一次整齐回头三段节拍。镜头只用后退跟拍和缓慢推进，让主角的静止感更突出。
+prompt: |
+  Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual reference for the woman, crowd, wardrobe, composition, lighting, and atmosphere.
+
+  A young woman with a short sleek dark bob, realistic facial features, natural skin texture, and subtle makeup wears a fitted black turtleneck, black trousers, black shoes, and minimal jewelry. Keep her face, hairstyle, outfit, and proportions perfectly consistent.
+
+  She walks slowly and confidently toward a large, tightly packed crowd, maintaining a calm and emotionless expression while the camera smoothly tracks backward and keeps her centered.
+
+  She reaches the exact center of the crowd and stops completely, standing perfectly still with her arms naturally at her sides and looking directly into the camera.
+
+  The crowd remains completely frozen for a brief moment.
+
+  Then, without the woman moving, the people behind her slowly begin turning toward her. The head turns start subtly and spread through the entire crowd until everyone is facing and looking directly at her.
+
+  The woman remains completely motionless and expressionless, never reacting to the crowd.
+
+  The camera slowly pushes closer while the crowd stays turned toward her, creating an unsettling synchronized effect. Their final movement is one sharp, simultaneous turn toward her while she continues staring into the lens.
+
+  Dark, mysterious, photorealistic live-action aesthetic, soft cinematic lighting, deep shadows, realistic skin, hair and clothing physics, shallow depth of field, natural human movement.
+
+  No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphing, random crowd movement, text, subtitles, logos, watermark, excessive camera movement, artificial fog, glow, or exaggerated effects.

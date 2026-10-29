@@ -1,0 +1,24 @@
+id: gpt-image-elon-musk-ink-gold-poster
+title:
+  en: Elon Musk ink portrait poster with gold script name
+  zh: 埃隆·马斯克水墨金色肖像海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- portrait
+- ink-watercolor
+- gold-accents
+- poster
+source:
+  name: '@xRahultripathi on X'
+  url: https://x.com/xRahultripathi/status/2051526227937443888
+  credit: Rossy
+  captured: '2026-10-29'
+  posted: '2026-05-05'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A chest up crop at a slight diagonal, with a soft glowing aura behind the subject, pulls the eye to the face. Ink line sketches over watercolor splashes, gold accents and a brush style name give the luxury poster finish.
+  zh: 胸部以上的构图加上斜向微角度，主体身后的柔和光晕把视线引向面部。水墨线条叠加水彩泼墨，金色点缀和笔刷式人名营造奢华海报质感。
+prompt: |
+  A powerful portrait of a high-status business leader wearing a premium luxury formal suit (tailored dark suit, crisp white shirt, elegant tie). Sharp facial features, clean grooming, ultra-realistic detailing. Expression & Mood: Calm, confident, and highly authoritative expression — focused gaze symbolizing intelligence, control, and global influence. Pose & Composition: Half-body portrait (chest-up), Slight diagonal cinematic angle for depth and intensity, Strong executive posture (hands relaxed or adjusting suit). Art Style: Hand-drawn ink sketch lines blended with watercolor textures, Luxury-inspired gold, black, and deep blue/red paint splashes, Dynamic abstract brush strokes representing power and innovation, Highly detailed realistic face with subtle gritty texture. Background: Clean white or soft neutral base, Elegant watercolor splashes (gold + dark tones), Soft glowing aura behind the subject for a premium elite feel. Typography Elements: Main Title: “TYPE HERE” Name: “TYPE HERE” (bold handwritten luxury brush style) Extra Details: Subtle gold accents for premium billionaire aesthetic, Light grunge texture overlay for cinematic depth, Minimal crown or abstract wealth/power symbols. Signature (Bottom): “TYPE HERE” Optional Quote Section: “TYPE HERE” Mood & Tone: Elite, powerful, cinematic, luxury-driven legacy aesthetic

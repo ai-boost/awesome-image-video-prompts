@@ -1,0 +1,144 @@
+id: gpt-image-beach-selfie-braids-blue-nails
+title:
+  en: Beach selfie of woman shading eyes with one hand
+  zh: 沙滩上单手遮阳的高角度自拍
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- selfie
+- realism
+- beach
+- portrait
+source:
+  name: '@IamEmily2050 on X'
+  url: https://x.com/IamEmily2050/status/2046602266627465534
+  credit: IamEmily2050
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Phone camera framing is spelled out with a raised arm, 24mm equivalent distortion, 5500K color temperature and sand bounce fill, so the image behaves like a real smartphone photo. Explicit skin texture, pores and a refusal of airbrushing push against the beauty filter look that image models default to.
+  zh: 用举臂前置镜头取景、等效24mm广角畸变、5500K色温和沙面反光补光等具体参数定义画面，让结果更接近真实手机照片。明确要求保留毛孔、细绒毛和不磨皮的皮肤纹理，可以抵消图像模型常见的美颜质感。
+prompt: |
+  [中文]
+  {
+    超写实iPhone 15 Pro前置摄像头自拍，一位成年女性在明亮的沙滩上，
+    从举臂高角度自拍视角拍摄。手机略微举在脸部上方，
+    营造出自然的前置摄像头几何形态，带有轻微的等效24mm广角畸变，
+    写实的面部比例，
+    以及智能手机的深景深。她向上抬起下巴，一只手遮挡刺眼的阳光，同时直视手机镜头。她的表情中性，
+    面无表情，
+    且略带疏离感，
+    眼睛大而专注，但在解剖学上具有真实的眼部尺寸和自然面部比例。\n\n她有着极浅的铂金色头发，梳成两条紧紧的辫子，
+    苍白的皮肤带有真实摄影的皮肤纹理，
+    可见的毛孔，
+    细微的绒毛，
+    淡淡的眼下纹理，
+    自然的唇部纹理，
+    以及柔和的阳光光泽，而不是磨皮后的完美无瑕。她的嘴唇是自然色调且略丰满，
+    她的鼻子小巧精致但很写实。她的指甲是鲜艳的蓝色。她穿着一件浅蓝色紧身弹力棉上衣，领口非常深且宽，以自然、
+    非风格化的方式露出突出的锁骨和上胸结构。\n\n背景是宽阔的海岸沙滩，在强烈的上午晚些时候的阳光下，
+    背景中有一条柔和模糊的地平线。光线明亮，
+    色温约5500K的高调海岸日光，
+    强烈的白色沙子反光从下方和脸部周围均匀地填充阴影。皮肤被直射阳光加上海滩宽阔柔和的反射补光照亮，
+    产生清脆但写实的高光，没有生硬的对比。明亮沙子的细小颗粒微妙地捕捉光线。整体图像应该感觉像是在强烈的海边光线下在户外拍摄的真正高曝光智能手机自拍。\n\n色彩渲染应该是柔和、
+    干净、
+    且现代的，
+    带有中性至柔和的色调，
+    写实的iPhone计算摄影，
+    略微提高的曝光，
+    受控的高光过渡，
+    自然的肤色，
+    没有电影级调色。优先考虑写实性、
+    物理准确性、
+    可信的解剖结构，
+    以及真实的智能手机图像表现，而不是美化风格化。", "negative_prompt": "动漫，
+    洋娃娃脸，
+    瓷器皮肤，
+    无毛孔皮肤，
+    塑料皮肤，
+    CGI，
+    3D渲染，
+    超现实眼睛，
+    过大的眼睛，
+    奇幻美，
+    磨皮精修，
+    浓妆，
+    魅力光，
+    戏剧性阴影，
+    胶片颗粒，
+    雪，
+    冬装，
+    黑色上衣，
+    红指甲，
+    保守领口，
+    影棚背景，
+    人造模糊，
+    扭曲的手，
+    变形的手指，
+    畸形的脸，
+    对称完美，
+    美颜滤镜，
+    惊悚的皮肤平滑" }
+
+  [English]
+  {
+    Ultra-realistic iPhone 15 Pro front-camera selfie of an adult woman on a bright beach,
+    photographed from a raised-arm high-angle selfie perspective. The phone is held slightly above her face,
+    creating natural front-camera geometry with mild 24mm equivalent wide-angle distortion,
+    realistic facial proportions,
+    and deep smartphone depth of field. She tilts her chin upward and looks directly toward the phone lens while shielding harsh sunlight with one hand. Her expression is neutral,
+    blank,
+    and slightly distant,
+    with wide attentive eyes but anatomically realistic eye size and natural facial proportions.\n\nShe has very light platinum-blonde hair styled in two tight braids,
+    pale skin with real photographic skin texture,
+    visible pores,
+    subtle peach fuzz,
+    faint under-eye texture,
+    natural lip texture,
+    and a soft sunlit sheen rather than airbrushed perfection. Her lips are naturally toned and slightly full,
+    her nose is small and refined but realistic. Her nails are vivid blue. She wears a light blue fitted stretch-cotton top with a very deep wide neckline that reveals pronounced collarbones and upper chest structure in a natural,
+    non-stylized way.\n\nThe setting is a wide coastal beach under strong late-morning sunlight,
+    with a softly blurred horizon line in the background. The lighting is bright,
+    high-key coastal daylight around 5500K,
+    with strong white sand bounce filling the shadows evenly from below and around the face. Skin is illuminated by direct sun plus broad soft reflected fill from the beach,
+    producing crisp but realistic highlights without harsh contrast. Fine grains of bright sand catch light subtly. The overall image should feel like a real high-exposure smartphone selfie taken outdoors in intense seaside light.\n\nColor rendering should be soft,
+    clean,
+    and modern,
+    with neutral-to-pastel tones,
+    realistic iPhone computational photography,
+    slightly elevated exposure,
+    controlled highlight rolloff,
+    natural skin color,
+    and no cinematic grading. Prioritize realism,
+    physical accuracy,
+    believable anatomy,
+    and true smartphone image behavior over beauty stylization.", "negative_prompt": "anime,
+    doll face,
+    porcelain skin,
+    poreless skin,
+    plastic skin,
+    CGI,
+    3D render,
+    surreal eyes,
+    oversized eyes,
+    fantasy beauty,
+    airbrushed retouching,
+    heavy makeup,
+    glamour lighting,
+    dramatic shadows,
+    film grain,
+    snow,
+    winter clothing,
+    black top,
+    red nails,
+    conservative neckline,
+    studio backdrop,
+    artificial blur,
+    warped hands,
+    deformed fingers,
+    malformed face,
+    symmetry perfection,
+    beauty filter,
+    uncanny skin smoothing" }

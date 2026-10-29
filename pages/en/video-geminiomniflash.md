@@ -1,6 +1,6 @@
 # Gemini Omni Flash
 
-[Back to the list](../../README.md) · All 26 entries
+[Back to the list](../../README.md) · All 29 entries
 
 <a id="omni-photo-bird-jumps-onto-hand"></a>
 ### Bird leaps from laptop photo onto hand
@@ -123,6 +123,32 @@ High-speed liquid photography, extreme macro, condensation close-up, slow-motion
 
 STYLE:
 Ultra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packaging, luxury commercial photography, 8K.
+```
+
+</details>
+
+<a id="omni-embroidery-owl-logo-timelapse"></a>
+### Macro timelapse of embroidery stitching an owl logo
+
+<a href="https://x.com/TechieBySA/status/2093388159602041067"><img src="../../previews/omni-embroidery-owl-logo-timelapse.jpg" width="360"></a>
+
+The prompt starts from empty fabric and specifies satin stitches laid row by row, so the logo builds up in a clear order. Stating no hands, threads that move on their own, and one shot with no scene change keeps the motion consistent.
+
+Gemini Omni Flash · Text-to-video · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2093388159602041067) · 634 likes on 2026-10-29
+
+[`embroidery`](tags.md#tag-embroidery) [`macro`](tags.md#tag-macro) [`logo`](tags.md#tag-logo) [`timelapse`](tags.md#tag-timelapse)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+“Extreme macro shot of woven cotton shirt fabric, empty at first. Colored
+embroidery threads rise from the surface and weave themselves into place,
+laying down tight satin stitches row by row, tracing out the logo. The
+stitched area grows steadily across the frame, thread pulling taut and
+raising into dimensional embroidered texture, until the full logo is
+complete. Camera holds steady, slow satisfying timelapse pace. Soft
+natural side light, shallow depth of field, visible fabric fibers and
+realistic thread sheen. No hands, thread moves on its own. One shot no scene change.”
 ```
 
 </details>
@@ -373,6 +399,72 @@ Simply replace [LANDMARK]:✨
 
 </details>
 
+<a id="omni-rolex-datejust-watch-parts-assembly"></a>
+### Tiny watch parts scattered on a dusk workbench
+
+<a href="https://x.com/MrDasCreates/status/2094772953003311105"><img src="../../previews/omni-rolex-datejust-watch-parts-assembly.jpg" width="360"></a>
+
+Timed beats for each second range, a single unbroken shot, and explicit lens and camera moves keep the scene coherent from the bench to the floating watch. The constraints block sets dialogue, voiceover and on-screen text to none, which keeps the output free of captions.
+
+Gemini Omni Flash · Text-to-video · Source: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2094772953003311105) · 228 likes on 2026-10-29
+
+[`product-reveal`](tags.md#tag-product-reveal) [`watchmaking`](tags.md#tag-watchmaking) [`macro`](tags.md#tag-macro) [`luxury`](tags.md#tag-luxury)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "single continuous unbroken shot, no scene cuts",
+    "composition": "starts wide on a dimly lit Swiss watchmaker's atelier workbench, follows individual precision components rising and interlocking, ends on a centered floating Rolex Datejust close-up",
+    "lens": "50mm for the workshop environment, then 85mm for the product reveal",
+    "frame_rate": "24fps cinematic",
+    "camera_movement": "slow push-in across the bench following the rising parts, then a gentle orbital arc as they lock into the watch, hold steady on the hovering timepiece"
+  },
+  "timeline": {
+    "0-3s": "Warm-lit luxury watchmaking atelier at dusk. Polished walnut workbench scattered with tiny gears, screws, hands, and a gold case. Soft tungsten lamps, leather tools, faint dust motes in the air.",
+    "3-7s": "Dozens of microscopic brass and steel components lift from the bench and rotate in precise, clockwork orbits. They snap together mid-air with tiny metallic clicks into the exact silhouette of a Rolex Datejust. Subtle gold reflections and micro-spark highlights on polished surfaces.",
+    "7-10s": "The assembled form pulses once and materializes into a real Rolex Datejust with fluted bezel and jubilee bracelet, hovering weightlessly. The second hand begins ticking. Warm rim light and faint workshop haze."
+  },
+  "subject": {
+    "description": "dozens of precision watch components rising and interlocking in elegant mechanical orbits to form a luxury timepiece silhouette",
+    "props": "final Rolex Datejust formed from swirling parts, then transitioning into real branded watch while hovering mid-air"
+  },
+  "scene": {
+    "location": "traditional Swiss watchmaker's atelier with wooden workbench",
+    "time_of_day": "early evening dusk, warm tungsten glow, lingering workshop atmosphere",
+    "environment": "quiet precision workshop, scattered tools, leather mats, gold shavings"
+  },
+  "visual_details": {
+    "action": "parts lift, rotate in organized mechanical paths, lock into watch outline, pulse, then morph into finished Rolex Datejust suspended in space",
+    "special_effects": "micro-particle metal animation, slow-motion gold reflections, mid-air material morph, subtle levitation shimmer and dust trails"
+  },
+  "cinematography": {
+    "lighting": "warm directional tungsten light, gleaming metal highlights, soft gold rim light on the floating watch",
+    "color_palette": "rich walnut browns, polished golds, steel silvers, warm ambers",
+    "tone": "precise, heritage luxury, quiet mastery"
+  },
+  "audio": {
+    "music": "subtle orchestral strings with delicate piano and faint ticking motifs",
+    "ambient": "distant workshop hush, occasional tool clink, evening stillness",
+    "sound_effects": "tiny metallic snaps as parts lock, precision click when the form completes, faint mechanical hum under levitation",
+    "mix": "intimate, refined, workshop-forward with a clean musical center"
+  },
+  "constraints": {
+    "dialogue": "none",
+    "voiceover": "none",
+    "on_screen_text": "none",
+    "captions": "none",
+    "subtitles": false
+  }
+}
+```
+
+</details>
+
 <a id="omni-pov-telekinetic-outfit-change"></a>
 ### POV gloved hands swap a woman's outfit
 
@@ -464,6 +556,72 @@ Luxury macro photography, smooth 360° product rotation, controlled push-ins, sh
 
 VISUAL STYLE:
 Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+</details>
+
+<a id="omni-louis-vuitton-neverfull-atelier-morph"></a>
+### Monogram canvas and brass parts on atelier workbench
+
+<a href="https://x.com/MrDasCreates/status/2095861297288188282"><img src="../../previews/omni-louis-vuitton-neverfull-atelier-morph.jpg" width="360"></a>
+
+A timed beat sheet gives each phase its own action, and a single continuous shot rule with a lens change at the product reveal keeps the assembly from cutting away. Each material collision has a matching sound cue, so the audio locks in with the visual snap-together.
+
+Gemini Omni Flash · Text-to-video · Source: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2095861297288188282) · 139 likes on 2026-10-29
+
+[`product-reveal`](tags.md#tag-product-reveal) [`luxury-fashion`](tags.md#tag-luxury-fashion) [`morph-transition`](tags.md#tag-morph-transition) [`single-shot`](tags.md#tag-single-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "single continuous unbroken shot, no scene cuts",
+    "composition": "starts wide on a refined Parisian leather atelier workbench, follows individual canvas panels, leather straps, and gold hardware rising and interlocking, ends on a centered floating Louis Vuitton Neverfull close-up",
+    "lens": "50mm for the workshop environment, then 85mm for the product reveal",
+    "frame_rate": "24fps cinematic",
+    "camera_movement": "slow push-in across the bench following the rising materials, then a gentle orbital arc as they lock into the bag, hold steady on the hovering tote"
+  },
+  "timeline": {
+    "0-3s": "Warm-lit luxury leather workshop at dusk. Polished oak workbench scattered with monogram canvas sheets, vachetta leather straps, gold-tone hardware, and brass locks. Soft tungsten lamps, leather tools, faint dust motes in the air.",
+    "3-7s": "Dozens of precision canvas panels, leather pieces, stitching threads, and gold hardware lift from the bench and rotate in elegant, structured orbits. They snap together mid-air with soft leather and metallic clicks into the exact silhouette of a Louis Vuitton Neverfull. Subtle gold reflections and micro-spark highlights on polished surfaces.",
+    "7-10s": "The assembled form pulses once and materializes into a real Louis Vuitton Neverfull with monogram canvas, natural vachetta handles, and gold hardware, hovering weightlessly. The bag settles with a gentle leather creak. Warm rim light and faint workshop haze."
+  },
+  "subject": {
+    "description": "dozens of luxury bag components rising and interlocking in elegant structured orbits to form a classic tote silhouette",
+    "props": "final Louis Vuitton Neverfull formed from swirling canvas and leather parts, then transitioning into the real branded bag while hovering mid-air"
+  },
+  "scene": {
+    "location": "traditional Parisian leather atelier with wooden workbench",
+    "time_of_day": "early evening dusk, warm tungsten glow, lingering workshop atmosphere",
+    "environment": "quiet precision workshop, scattered tools, leather mats, gold hardware, canvas offcuts"
+  },
+  "visual_details": {
+    "action": "parts lift, rotate in organized mechanical paths, lock into bag outline, pulse, then morph into finished Louis Vuitton Neverfull suspended in space",
+    "special_effects": "micro-fiber canvas animation, slow-motion gold reflections, mid-air material morph, subtle levitation shimmer and dust trails"
+  },
+  "cinematography": {
+    "lighting": "warm directional tungsten light, gleaming gold hardware highlights, soft amber rim light on the floating bag",
+    "color_palette": "rich walnut browns, monogram golds, natural vachetta tans, warm ambers",
+    "tone": "precise, heritage luxury, quiet mastery"
+  },
+  "audio": {
+    "music": "subtle orchestral strings with delicate piano and faint leather-texture motifs",
+    "ambient": "distant workshop hush, occasional tool clink, evening stillness",
+    "sound_effects": "soft canvas rustle and leather snaps as parts lock, precision click when the form completes, faint mechanical hum under levitation",
+    "mix": "intimate, refined, workshop-forward with a clean musical center"
+  },
+  "constraints": {
+    "dialogue": "none",
+    "voiceover": "none",
+    "on_screen_text": "none",
+    "captions": "none",
+    "subtitles": false
+  }
+}
 ```
 
 </details>

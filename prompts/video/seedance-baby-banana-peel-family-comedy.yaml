@@ -1,0 +1,24 @@
+id: seedance-baby-banana-peel-family-comedy
+title:
+  en: Mother sips tea as baby sulks in high chair
+  zh: 妈妈端着茶杯，宝宝坐在高脚椅上生闷气
+model: Seedance 2.5
+mode: text-to-video
+tags:
+- family-comedy
+- pixar-style
+- character-consistency
+- vertical-video
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2110558398492348605
+  credit: Zarnab_with_Ai
+  captured: '2026-10-29'
+  posted: '2026-10-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2110558398492348605
+notes:
+  en: Each character gets a fixed outfit and role (blue teddy romper, white sweater, dark suit) so the model keeps them consistent across beats. The prompt ends on a clear final reaction, then lists style, aspect ratio and sound cues in one closing block so the render settles on one look.
+  zh: 为每个角色固定服装和身份（蓝色熊连体衣、白毛衣、深色西装），让模型在各个镜头中保持一致。结尾给出明确的最后反应，并在末尾集中写明风格、画幅和音效，使画面风格稳定。
+prompt: |
+  Create an ultra-realistic, cinematic 3D animated family comedy featuring an adorable chubby baby wearing a blue teddy-bear romper, a beautiful mother in a white sweater, a father in a dark business suit, and a playful golden-brown dog. Inside a cozy modern home, the baby creates a funny mess in the kitchen, plays with toys, and giggles mischievously. The curious dog follows the baby around while the mother reacts with surprise and amusement. Suddenly, the distracted father enters while looking at his phone, accidentally slips on a banana peel, and falls harmlessly onto a soft mat. The baby bursts into laughter as the father makes an exaggerated shocked expression. End with the baby smiling innocently while the father looks confused. Maintain consistent character faces, clothing, and proportions, with expressive facial animations, realistic textures, smooth movements, cinematic lighting, and perfectly timed comedic sound effects. Pixar-style 3D animation, vertical 9:16, 1080p, family-friendly, high-quality rendering.

@@ -1,0 +1,36 @@
+id: gpt-image-starbucks-mountain-watercolor-comparison
+title:
+  en: Night Starbucks under Fuji, then watercolor version
+  zh: 夜间星巴克与富士山，上下对照水彩版
+model: GPT Image 2
+mode: text-to-image
+category: photo-to-art
+tags:
+- watercolor
+- night-scene
+- comparison
+- brand
+source:
+  name: '@Alina_with_Ai on X'
+  url: https://x.com/Alina_with_Ai/status/2096555280306000120
+  credit: Alina Ai
+  captured: '2026-10-29'
+  posted: '2026-09-06'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes one composition across both panels and counts every brand mark and tree, so the model keeps the scene consistent. Splitting a 3:4 canvas into a photo half and a paper half lets one image show both a realistic night photo and a watercolor postcard.
+  zh: 提示词在两个画面中固定相同的构图，并逐项计数星巴克标识和树木，使模型保持场景一致。将3:4画布分为照片和纸面两部分，一张图即可同时呈现写实夜景与水彩明信片。
+prompt: |
+  Goal: Create a vertical comparison-style image showing a nighttime café-and-mountain scene transformed into a delicate watercolor art print.
+
+  Canvas: Portrait 3:4 composition, divided into exactly 2 horizontal panels. The top panel occupies about the upper half and is a realistic night photograph; the bottom panel occupies the lower half and is a minimalist watercolor artwork on warm off-white paper.
+
+  Top panel: A centered, single-story Starbucks café at night, seen from across a dark parking lot. Behind it is a large snow-capped Mount Fuji-like mountain rising in blue mist under a deep twilight blue sky. The café has a black roofline and glowing warm interior windows. Include exactly 2 visible Starbucks brand marks: 1 large bright yellow word sign reading STARBUCKS centered on the building, and 1 small circular green siren logo on the right side of the storefront. Surrounding silhouettes include exactly 5 prominent natural/urban elements: 2 tall conifer trees on the left, 1 leafless tree to the right of the building, 1 tall conifer tree near the far right, and 1 tall streetlamp on the far right with a simple rectangular lamp head. Keep the mood quiet, blue, misty, cinematic, and calm.
+
+  Bottom panel: Recreate the same scene as a small hand-painted watercolor vignette centered on textured cream paper with lots of empty negative space. Paint the café, mountain, trees, and streetlamp in loose blue ink and pale watercolor washes. The miniature café should again include exactly 2 visible Starbucks brand marks: 1 tiny dark rectangular sign with yellow STARBUCKS, and 1 small green circular logo on the right. The watercolor version should include exactly 4 tree silhouettes: 2 thin conifers on the left of the café, 1 thin conifer on the right, and 1 simplified streetlamp beside it. Use soft bleeding edges, sparse brush marks, muted indigo shadows, and warm yellow window glow.
+
+  Text content beneath the watercolor vignette: Add exactly 3 centered handwritten lines in small lowercase lettering: line 1 reads coffee · mist · mountain; line 2 reads a quiet moment; line 3 reads 2024. Use widely spaced, delicate gray-blue handwriting.
+
+  Visual style: The top half should feel like a crisp realistic nighttime travel photograph; the bottom half should feel like a refined Japanese-inspired watercolor postcard or art print. Preserve the same subject alignment between panels: mountain centered behind the café, café centered below the mountain, tall lamp and conifer on the right, darker trees on the left.
+
+  Constraints: No people, no cars, no extra signage beyond the counted Starbucks marks, no borders between panels except the natural transition from photo to paper, no watermark, keep the overall palette deep blue, pale cyan, cream paper, black silhouettes, and warm yellow café light.

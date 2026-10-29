@@ -1,0 +1,366 @@
+id: gpt-image-satin-bustier-living-room-selfie
+title:
+  en: Woman in satin bustier taking indoor selfie
+  zh: 身穿缎面抹胸上衣在室内自拍的女性
+model: GPT Image 2.5
+mode: image-edit
+category: realism
+tags:
+- selfie
+- ai-ugc
+- reference-variation
+- social-media
+source:
+  name: '@rewind02 on X'
+  url: https://x.com/rewind02/status/2102439961073000920
+  credit: rewind
+  likes: 50
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+notes:
+  en: Locks the layout with a ranked list of priorities such as crop, lighting and selfie framing, then asks for a new face so the scene matches the reference without copying the person. A full omit list for text, hearts and UI keeps the frame clean for social posts.
+  zh: 用有优先级的清单锁定构图、光线和自拍取景，再要求生成新的面孔，使画面接近参考图但不复制人物。列出需去除的文字、爱心和界面元素，让画面可以直接用于社交媒体。
+prompt: |
+  {
+  "prompt_type": "photorealistic_reference_variation",
+  "objective": "Use the supplied reference photograph as a guide for the same close vertical smartphone selfie composition, lighting, upscale interior, crop, and polished social-media aesthetic. Create a visually similar image, but make the woman a distinct person with subtly different facial features, hairstyle details, jewelry, expression, and wardrobe color. Completely remove all text, icons, hearts, buttons, interface graphics, timestamps, watermarks, logos, or other on-screen elements.",
+  "reference_fidelity": {
+  "target": "high similarity in overall composition, camera perspective, lighting, setting, and fashion beauty aesthetic, while preserving a clearly distinct subject identity",
+  "priority_order": [
+  "overall vertical crop and composition",
+  "bright frontal daylight against a darker luxury living-room background",
+  "close upper-body smartphone selfie framing",
+  "warm luminous skin and polished soft-glam beauty styling",
+  "sleek dark updo with face-framing strands",
+  "elegant strapless satin bustier",
+  "large gold statement earrings",
+  "natural high-resolution smartphone-camera rendering"
+  ],
+  "variation_instruction": "Do not replicate the exact face from the reference. Create a new adult woman with a slightly more heart-shaped face, softer jawline, hazel-brown eyes, a subtle closed-lip smile, a deep side-part hairstyle, and different sculptural gold earrings."
+  },
+  "canvas": {
+  "orientation": "portrait",
+  "aspect_ratio": "approximately 918:1588",
+  "framing": "tight vertical smartphone selfie",
+  "crop": "from just above the top of the hair to below the bust and upper torso",
+  "subject_scale": "large, occupying most of the frame",
+  "subject_alignment": "slightly right of center",
+  "camera_distance": "close arm's-length selfie distance",
+  "headroom": "very small",
+  "bottom_crop": "cuts through the lower torso and structured satin top",
+  "left_background": "fireplace and framed artwork softly visible",
+  "right_background": "soft sofa and doorway or window edge visible",
+  "instruction": "do not include any white heart icon or social-media interface graphics"
+  },
+  "scene": {
+  "location": "upscale dimly lit modern living room or lounge",
+  "time_of_day": "daytime with strong natural window light",
+  "mood": "polished, elegant, intimate, warm",
+  "visual_style": "authentic high-resolution smartphone beauty selfie",
+  "background_complexity": "moderate but visually subdued",
+  "environment": {
+  "walls": "dark warm taupe textured walls",
+  "fireplace": "minimal stone or plaster fireplace at left",
+  "sofa": "large soft light-gray sectional sofa in the rear-right",
+  "art": "large framed muted abstract artwork above or near the fireplace",
+  "lighting": "bright frontal daylight on the subject with a darker ambient interior behind"
+  }
+  },
+  "subject": {
+  "description": "a distinct adult woman taking a close front-facing selfie indoors",
+  "identity_instruction": "Create a naturally beautiful woman who is not an exact facial copy of any reference person.",
+  "position": "center foreground",
+  "body_visibility": "head, neck, shoulders, upper chest, and upper torso",
+  "pose": {
+  "head": "upright with a very slight turn toward viewer-right",
+  "torso": "mostly frontal",
+  "shoulders": "relaxed and bare",
+  "camera_arm": "extended toward camera outside the visible frame",
+  "posture": "upright, elegant, and composed"
+  },
+  "expression": {
+  "overall": "calm, confident, softly warm",
+  "mouth": "closed with a faint natural smile",
+  "lips": "softly relaxed",
+  "gaze": "directly into camera",
+  "brows": "relaxed but defined"
+  },
+  "skin": {
+  "tone": "warm medium olive-tan with a golden undertone",
+  "finish": "luminous satin glow",
+  "texture": "realistic fine skin texture with subtle pores",
+  "freckles_and_marks": "a few faint freckles and small natural beauty marks retained",
+  "highlights": "bright natural highlights on forehead, cheekbones, nose bridge, collarbones, shoulders, and chest",
+  "retouching": "light-to-moderate social-media processing, never plastic"
+  },
+  "face": {
+  "shape": "soft heart-oval shape with slightly higher cheekbones and a gently tapered jaw",
+  "forehead": "medium height",
+  "cheekbones": "defined but natural",
+  "jaw": "slender and softly sculpted",
+  "chin": "small and rounded",
+  "eyes": {
+  "shape": "almond-shaped",
+  "color": "warm hazel-brown",
+  "size": "medium",
+  "lashes": "long, curled, dark, cleanly separated",
+  "eyeliner": "very subtle brown-black lash-line enhancement",
+  "eyeshadow": "soft bronze-peach neutral tone",
+  "catchlights": "bright natural window reflections"
+  },
+  "eyebrows": {
+  "shape": "full with a soft natural arch",
+  "color": "deep brown",
+  "density": "medium-full",
+  "finish": "cleanly groomed and softly filled"
+  },
+  "nose": {
+  "shape": "straight and refined",
+  "bridge": "narrow-medium",
+  "tip": "softly rounded",
+  "highlight": "subtle centered highlight"
+  },
+  "lips": {
+  "shape": "full but natural",
+  "upper_lip": "defined cupid's bow",
+  "lower_lip": "slightly fuller",
+  "color": "muted dusty-rose nude",
+  "liner": "slightly deeper nude-pink",
+  "finish": "soft satin gloss"
+  },
+  "makeup": {
+  "style": "natural soft glam",
+  "foundation": "smooth radiant skin-like finish",
+  "bronzer": "warm subtle sculpting",
+  "blush": "soft peach-rose blush across cheeks",
+  "highlight": "controlled luminous sheen on cheekbones",
+  "eyes": "neutral bronze shadow with defined lashes",
+  "lips": "dusty nude rose"
+  }
+  }
+  },
+  "hair": {
+  "color": "dark chestnut brown, almost espresso",
+  "style": "sleek low bun or low tucked ponytail",
+  "part": "deep side part",
+  "texture": "smooth and glossy",
+  "crown": "softly controlled with a little natural volume",
+  "front_sections": "two long, slim face-framing strands left loose on both sides",
+  "left_face_strand": "a thin dark strand falls from the temple past the jaw toward the shoulder",
+  "right_face_strand": "a matching strand curves softly alongside the cheek toward the chest",
+  "back": "hair gathered into a neat low bun or tucked ponytail",
+  "flyaways": "minimal but realistic",
+  "shine": "soft warm highlights along dark strands"
+  },
+  "jewelry": {
+  "earrings": {
+  "type": "large sculptural twisted oval gold drop earrings",
+  "shape": "rounded organic vertical form, distinct from rectangular earrings",
+  "material": "polished warm gold metal",
+  "surface": "smooth reflective metal with subtle ridged detailing",
+  "size": "medium-large statement earrings",
+  "visibility": "viewer-left earring highly visible, opposite earring partially visible",
+  "finish": "bright reflective warm gold"
+  },
+  "necklace": "none visible"
+  },
+  "wardrobe": {
+  "top": {
+  "type": "strapless structured satin corset or bustier top",
+  "color": "pale champagne ivory with a soft rose-beige undertone",
+  "neckline": "straight to gently curved strapless neckline",
+  "construction": "boned corset-style structure with refined cup seams",
+  "cups": "shaped underwire-style satin cups",
+  "center": "subtle central vertical seam and structured paneling",
+  "fit": "close-fitting and supportive",
+  "material": "smooth satin",
+  "finish": "soft pearl-like sheen",
+  "wrinkles": "small realistic tension creases in satin",
+  "instruction": "preserve the elegant structured fashion silhouette without making the garment exaggerated or costume-like"
+  }
+  },
+  "body_and_pose": {
+  "shoulders": "bare and evenly lit",
+  "collarbones": "visible with soft natural highlights",
+  "upper_chest": "warm natural skin tone with subtle tonal variation",
+  "torso": "slightly angled but mostly frontal",
+  "left_arm": "partially visible near the lower-left edge, extended toward camera",
+  "right_side": "cropped close to shoulder and torso edge"
+  },
+  "background": {
+  "left": {
+  "fireplace": {
+  "type": "minimal traditional stone or plaster fireplace",
+  "color": "warm gray-beige",
+  "mantel": "thick simple mantel shelf",
+  "opening": "dark black fireplace opening",
+  "interior": "very dark"
+  },
+  "artwork": {
+  "type": "large framed monochrome or muted abstract artwork",
+  "position": "above the fireplace",
+  "frame": "light gray or off-white",
+  "content": "abstract forms only, no readable text"
+  }
+  },
+  "center_rear": {
+  "lighting": "small soft warm accent light near the wall",
+  "furniture": "dark low-profile furnishings partly obscured"
+  },
+  "right": {
+  "sofa": {
+  "type": "large plush sectional",
+  "color": "light gray",
+  "cushions": "soft oversized cushions",
+  "focus": "slightly out of focus"
+  },
+  "vertical_edge": {
+  "type": "bright door frame or window frame",
+  "color": "white",
+  "position": "far right edge"
+  }
+  }
+  },
+  "lighting": {
+  "type": "strong natural daylight from directly in front of the subject",
+  "primary_source": "large window or open doorway near the camera",
+  "direction": "front and slightly above",
+  "quality": "bright but diffused",
+  "contrast": "high subject-to-background contrast",
+  "subject": "face and upper body brightly illuminated",
+  "background": "intentionally darker and moodier",
+  "skin_effect": "warm luminous highlights without clipped whites",
+  "hair_effect": "subtle glossy reflections",
+  "satin_effect": "soft pearl sheen with gentle highlights",
+  "color_temperature": "neutral-warm daylight",
+  "shadow_style": "very soft facial shadows and deeper background shadows"
+  },
+  "camera": {
+  "device": "modern smartphone front-facing camera",
+  "orientation": "vertical portrait",
+  "lens": "standard wide selfie lens",
+  "focal_length_equivalent": "approximately 24-28mm",
+  "camera_height": "slightly above chest and near face level",
+  "camera_distance": "approximately 45-70 cm from face",
+  "perspective": "mild wide-angle smartphone perspective",
+  "focus": "sharpest on eyes and face",
+  "depth_of_field": "moderately deep but background naturally softer",
+  "image_quality": "high-resolution smartphone image",
+  "dynamic_range": "strong HDR preserving bright skin and dark room",
+  "processing": "subtle sharpening and noise reduction",
+  "grain": "very light realistic phone-sensor grain",
+  "motion_blur": "none"
+  },
+  "composition_geometry": {
+  "face_center": "approximately x=55%, y=31%",
+  "eye_line": "approximately y=28%",
+  "head_top": "approximately y=2%",
+  "mouth": "approximately y=43%",
+  "shoulder_line": "approximately y=60%",
+  "neckline": "approximately y=82%",
+  "corset_center": "approximately x=55%, y=91%",
+  "viewer_left_earring": "approximately x=27%, y=37%",
+  "fireplace": "left-rear background",
+  "sofa": "right-rear background",
+  "visual_balance": "bright subject contrasted against a dark elegant room"
+  },
+  "color_palette": {
+  "dominant_colors": [
+  "warm olive-gold",
+  "dark chestnut brown",
+  "champagne ivory",
+  "warm gold",
+  "charcoal",
+  "light gray",
+  "taupe"
+  ],
+  "skin": "golden olive tan",
+  "hair": "deep chestnut espresso brown",
+  "top": "champagne ivory with a rose-beige undertone",
+  "earrings": "warm gold",
+  "background": "dark taupe and charcoal",
+  "sofa": "light gray",
+  "overall_saturation": "moderate",
+  "contrast": "moderately high",
+  "white_balance": "warm-neutral"
+  },
+  "image_texture": {
+  "skin": "fine pores, faint freckles, and small natural beauty marks",
+  "hair": "individual sleek strands and minimal soft flyaways",
+  "satin": "smooth woven sheen with fine tension folds",
+  "earrings": "polished gold-metal reflections",
+  "walls": "matte textured plaster",
+  "sofa": "soft woven upholstery",
+  "fireplace": "subtle stone or plaster texture"
+  },
+  "photographic_style": {
+  "genre": "beauty and fashion smartphone selfie",
+  "aesthetic": "luxury social-media portrait",
+  "realism": "extreme photorealism",
+  "retouching": "polished but believable",
+  "production_value": "personal phone photo with high-quality natural light",
+  "desired_result": "looks like a genuine high-resolution selfie captured near a window in an upscale living room"
+  },
+  "negative_prompt": [
+  "text",
+  "caption",
+  "white heart icon",
+  "social media UI",
+  "buttons",
+  "watermark",
+  "logo",
+  "screen overlay",
+  "extra people",
+  "different camera angle",
+  "full-body shot",
+  "side profile",
+  "heavy head tilt",
+  "long loose hair",
+  "curly hair",
+  "blonde hair",
+  "red hair",
+  "high ponytail",
+  "messy bun",
+  "missing face-framing strands",
+  "silver earrings",
+  "small stud earrings",
+  "hoop earrings",
+  "missing earrings",
+  "heavy contour",
+  "red lipstick",
+  "smoky black eye makeup",
+  "large smile",
+  "open mouth",
+  "looking away",
+  "black top",
+  "white t-shirt",
+  "sports bra",
+  "dress with sleeves",
+  "visible straps",
+  "bedroom",
+  "bathroom",
+  "kitchen",
+  "outdoor setting",
+  "bright background",
+  "studio backdrop",
+  "hard flash",
+  "cold blue lighting",
+  "dramatic cinematic shadows",
+  "extreme bokeh",
+  "fisheye distortion",
+  "plastic skin",
+  "over-smoothed face",
+  "over-sharpened pores",
+  "CGI",
+  "3D render",
+  "illustration",
+  "anime",
+  "cartoon",
+  "distorted anatomy",
+  "warped shoulders",
+  "asymmetrical eyes",
+  "deformed corset",
+  "exact facial copy of the reference person"
+  ],
+  "final_generation_instruction": "Generate one extremely photorealistic vertical smartphone selfie using the supplied image only as a guide for composition, lighting, fashion mood, and upscale interior. Show a distinct adult woman centered close to the camera with warm olive-golden skin, hazel-brown almond eyes, full dark brows, soft peach-rose blush, long lashes, and muted dusty-rose nude lips. Her dark chestnut-brown hair has a deep side part and is pulled into a sleek low bun or tucked ponytail, with two long narrow face-framing strands beside her cheeks. Add large sculptural twisted oval gold earrings. Dress her in a pale champagne-ivory strapless satin corset bustier with subtle structured cups and visible seam construction. Frame the image from the top of the head to the lower upper torso, with the subject filling most of the image. Keep the dim upscale living room behind her: dark warm-gray walls, stone fireplace and framed artwork on the left, plush light-gray sectional sofa on the right, and a bright white door or window edge at the far right. Illuminate the subject with bright diffused frontal daylight so her face, shoulders, jewelry, and satin top glow while the room remains darker. Preserve realistic skin pores, faint freckles, natural smartphone HDR, mild phone-lens perspective, and crisp facial detail. Completely omit all text, buttons, hearts, watermarks, logos, interface graphics, and screen overlays."
+  }

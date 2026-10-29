@@ -1,0 +1,24 @@
+id: gpt-image-netflix-nightingale-homepage-hero-ui
+title:
+  en: Netflix homepage hero for The Nightingale
+  zh: Netflix 首页《夜莺》主视觉
+model: GPT Image 2
+mode: image-edit
+category: ui-mockup
+tags:
+- ui-design
+- streaming
+- hero-banner
+- reference-image
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2051420440451801240
+  credit: aimikoda
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt sets the whole homepage as a UI frame and asks for a hero title plus still taken from the uploaded reference, so the key visual and the streaming chrome come out in one consistent image. Pairing the film title with the still keeps the poster, metadata and call-to-action buttons aligned as a real product screen.
+  zh: 提示词把整个首页定义为界面框架，并要求根据上传的参考图生成影片标题与剧照，因此主视觉与流媒体界面元素能在同一张图中保持一致。影片标题与剧照搭配，使海报、元数据和操作按钮看起来像一个真实的产品界面。
+prompt: |
+  Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.

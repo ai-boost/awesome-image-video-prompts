@@ -1,0 +1,43 @@
+id: h3-sprite-golf-hole-in-one-spot
+title:
+  en: Golfer sips Sprite before a hole in one
+  zh: 高尔夫女孩喝雪碧后打出一杆进洞
+model: MiniMax H3
+mode: text-to-video
+tags:
+- sports-ad
+- multi-shot
+- speed-ramp
+- product-shot
+source:
+  name: '@sophiaparkerr_ on X'
+  url: https://x.com/sophiaparkerr_/status/2106337250346664007
+  credit: Sophia
+  likes: 303
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/sophiaparkerr_/status/2106337250346664007
+notes:
+  en: A timed beat sheet with per second ranges, explicit cuts, whip pans and speed ramps lets the model pace a 15 second spot. Onomatopoeia like PSHHHT and CRACK is written into the action so the sound lines up with the edits.
+  zh: 按秒划分的时间段配合明确的切镜、甩镜和变速指令，让模型把15秒内容组织成节奏紧凑的广告片。动作描述中写入PSHHHT和CRACK等拟声词，让音效与剪辑点对齐。
+prompt: |
+  0–2s — THE SIP
+  Fast close-up of the ginger-haired golfer on a sunny golf course. She grabs the Sprite can, cracks it open — PSHHHT! — condensation and tiny droplets flying in slow motion. She takes a refreshing sip and gives a confident little smirk.
+  2–4s — GAME ON
+  Hard cut. She tosses the Sprite can slightly upward, catches it, grabs her golf club, and steps into position. Quick whip-pan around her as sunlight flashes across the frame.
+
+  4–7s — THE SWING
+  Rapid montage: close-up of her gripping the club → golf ball on the tee → her eyes locking onto the ball → skirt and ponytail moving as she swings. She hits the ball with a powerful, perfectly timed CRACK!
+  7–10s — FOLLOW THE BALL
+  Ultra-fast camera follows the golf ball flying across the bright green course. Speed ramp as it passes trees and sunlight, then lands perfectly near the hole.
+
+  10–12s — HOLE IN ONE
+  She watches it drop into the hole. Quick reaction shot: she smiles, spins the club casually, and walks toward the camera like she absolutely knew that was happening.
+  12–15s — HERO SHOT
+  She grabs the cold Sprite can again and takes another sip. Camera pushes in as she lowers the can, smiling confidently. Condensation sparkles in the sunlight. End on a clean product close-up of the Sprite can beside the golf ball.
+
+  On-screen text:
+  “REFRESH. RELOAD. PLAY.”
+  SPRITE — THIRSTY FOR MORE.
+  Fast cuts, energetic commercial pacing, whip transitions, speed ramps, crisp summer lighting, realistic golf physics, dynamic camera movement, refreshing splash effects, premium sports-ad aesthetic.

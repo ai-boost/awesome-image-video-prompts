@@ -1,0 +1,241 @@
+id: gpt-image-couple-dog-swing-photo-watercolor
+title:
+  en: Couple and dog on flower swing, photo and watercolor
+  zh: 情侣与狗坐花藤秋千，照片与水彩双拼
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- image-edit
+- reference-images
+- watercolor
+- split-layout
+source:
+  name: '@ElsaSofia__AI on X'
+  url: https://x.com/ElsaSofia__AI/status/2096781706477068548
+  credit: Elsa Ai
+  likes: 252
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+notes:
+  en: The prompt fixes the target layout, lighting and handwritten text, then asks for the same people in both halves. Naming each reference image and listing what to keep unchanged keeps the photo and watercolor sections matched.
+  zh: 提示词先锁定目标版式、光线与手写文字，再要求上下两段出现同一批人物。分别指定参考图并列出不可改动的元素，使照片段与水彩段保持一致。
+prompt: |
+  Image: 1
+  Create a single high-resolution image using the provided target image as the EXACT visual, composition, scene, and layout reference.
+
+  Use the uploaded person reference image as the EXACT identity and clothing reference.
+
+  PERSON REFERENCE — STRICT IDENTITY PRESERVATION:
+  Recreate the person from the uploaded reference image with maximum identity consistency.
+
+  Preserve:
+  - Exact facial identity
+  - Facial structure and proportions
+  - Eyes, eyebrows, nose, lips, cheeks, jawline and chin
+  - Natural skin tone and complexion
+  - Hairstyle
+  - Hair length, texture, volume, hairline and overall hair appearance
+  - Any visible facial hair
+  - Recognizable physical characteristics
+
+  CLOTHING — STRICT REFERENCE MATCH:
+  The person must wear the EXACT outfit shown in their uploaded reference image.
+
+  Copy the reference clothing as accurately as possible, including:
+  - Clothing type and design
+  - Colors
+  - Patterns and prints
+  - Fabric appearance
+  - Sleeves
+  - Neckline
+  - Fit and proportions
+  - Buttons, stitching and other details
+  - Visible accessories
+
+  DO NOT create a different outfit.
+  DO NOT redesign the clothing.
+  DO NOT change the clothing colors.
+  DO NOT remove clothing details.
+  DO NOT substitute the outfit with another style.
+
+  TARGET SCENE:
+  Recreate the target image as closely as possible.
+
+  Preserve the exact:
+  - Composition
+  - Camera perspective
+  - Framing
+  - Subject placement
+  - Body positions
+  - Poses
+  - Expressions
+  - Scale and proportions
+  - Background
+  - Environment
+  - Lighting
+  - Shadows
+  - Depth of field
+  - Color grading
+  - Decorative elements
+  - Props
+  - Overall visual atmosphere
+
+  ROMANTIC COUPLE SCENE:
+  Maintain the flower-covered wooden swing surrounded by a beautiful garden filled with greenery and flowers.
+
+  Keep the black dog positioned between the couple exactly as shown in the target image, with the couple naturally interacting with and gently touching the dog.
+
+  Maintain the warm golden-hour sunlight, soft cinematic glow, natural shadows, shallow depth of field, foreground flower bokeh, and romantic peaceful atmosphere.
+
+  TOP SECTION:
+  Recreate the upper section as a highly realistic cinematic photograph.
+
+  Keep the same couple arrangement, swing, dog, poses, clothing placement, garden, flowers, lighting, camera angle and composition.
+
+  Replace only the people with the uploaded reference identities and their reference outfits.
+
+  BOTTOM SECTION:
+  Recreate the lower section as the same scene transformed into a beautiful soft watercolor / hand-painted illustration.
+
+  The illustrated couple must still clearly represent the SAME reference people:
+  - Same facial identity
+  - Same hairstyle
+  - Same hair appearance
+  - Same reference clothing
+  - Same recognizable features
+
+  Preserve the same swing, black dog, flowers, leaves, poses, composition and overall arrangement.
+
+  Keep the warm cream/off-white paper background and delicate hand-painted watercolor texture.
+
+  Preserve the handwritten decorative text and heart symbols exactly as they appear in the target image. Do not invent or replace the wording.
+
+  CONSISTENCY:
+  The people in the TOP and BOTTOM sections must be the same individuals.
+
+  The male reference identity must remain consistent in both sections.
+  The female reference identity must remain consistent in both sections.
+
+  Their faces, hair and outfits must remain visually consistent between the realistic photograph and the watercolor illustration.
+
+  IMPORTANT:
+  This is an image recreation, not a redesign.
+
+  Keep everything from the target image unchanged unless specifically instructed to replace the person's identity or clothing with the uploaded reference.
+
+  Do not add extra people.
+  Do not remove the dog.
+  Do not change the swing.
+  Do not change the poses.
+  Do not change the background.
+  Do not change the flowers.
+  Do not change the lighting.
+  Do not change the overall composition.
+  Do not mix identities.
+  Do not mix clothing between references.
+  Do not invent new clothing.
+  Do not add text.
+  Do not add logos.
+  Do not add a watermark.
+
+  FINAL OUTPUT:
+  Generate BOTH the photorealistic TOP SECTION and the watercolor BOTTOM SECTION together as ONE single cohesive high-resolution image, matching the target image's original layout and visual appearance as closely as possible.
+
+  Image: 2
+  Create an exact recreation of the provided target image as a two-section romantic travel poster.
+
+  REFERENCE PERSON:
+  Use the uploaded reference image(s) as the ONLY identity and clothing reference for the person/people.
+
+  For each person, preserve:
+  - Exact facial identity and facial structure
+  - Eyes, eyebrows, nose, lips, jawline and skin tone
+  - Hairstyle, hair length, texture, volume and hairline
+  - Facial hair if present
+  - EXACT clothing and accessories visible in their reference image
+  - Clothing colors, patterns, fabric, sleeves, neckline, fit and details
+
+  IMPORTANT:
+  The person’s face, hair AND clothing must come from their own reference image.
+  Do NOT invent a new outfit.
+  Do NOT change or redesign the reference clothing.
+  Do NOT mix one person’s clothing with another person’s reference.
+  If the reference person is wearing a different outfit, reproduce that exact outfit naturally in the target pose.
+
+  TARGET COMPOSITION:
+  Recreate the target image with the SAME two-panel layout.
+
+  TOP PANEL — PHOTOREALISTIC:
+  A cinematic romantic photograph of a couple riding a classic vintage motorcycle along a dramatic ocean coastline.
+
+  Preserve the exact target composition:
+  - Man seated in front, holding the motorcycle handlebars
+  - Woman seated behind him, affectionately wrapping one arm around him
+  - Same body positions and interaction
+  - Same motorcycle
+  - Same camera angle and framing
+  - Same sunglasses placement/style
+  - Same coastal ocean
+  - Same waves and rocky cliffs
+  - Same distant lighthouse
+  - Same cloudy sky
+  - Same cinematic depth of field
+  - Same overall color grading and atmosphere
+
+  The motorcycle must remain visually consistent with the target image, including its vintage design, round headlamp, mirrors, fuel tank, chrome details and overall appearance.
+
+  BOTTOM PANEL — WATERcolor ILLUSTRATION:
+  Recreate the SAME exact scene as a delicate hand-painted watercolor and ink illustration on warm cream textured paper.
+
+  Preserve:
+  - Same couple
+  - Same identities
+  - Same hairstyles
+  - Same reference clothing
+  - Same motorcycle
+  - Same poses
+  - Same ocean and rocks
+  - Same lighthouse
+  - Same composition
+  - Same decorative elements
+  - Same handwritten-style quotes
+  - Same heart symbols
+  - Same birds and subtle illustrated details
+
+  The bottom illustration must clearly depict the SAME couple from the top panel.
+
+  IDENTITY CONSISTENCY:
+  The male must remain the same person in both panels.
+  The female must remain the same person in both panels.
+  Their faces, hairstyles and reference outfits must remain consistent between the photorealistic top panel and watercolor bottom panel.
+
+  STYLE:
+  Premium cinematic romantic travel photography combined with elegant hand-painted watercolor artwork. Natural skin texture, realistic facial details, realistic fabric, physically believable lighting, professional editorial quality, subtle filmic atmosphere.
+
+  LAYOUT:
+  Keep the exact horizontal division between the two panels.
+  Top panel = realistic photograph.
+  Bottom panel = watercolor illustration.
+  Both panels must be part of ONE single vertical poster image.
+
+  DO NOT:
+  - Change the composition
+  - Change the poses
+  - Change the motorcycle
+  - Change the location
+  - Change the background
+  - Change the lighting
+  - Change the clothing from the provided person references
+  - Mix identities
+  - Add extra people
+  - Remove either person
+  - Remove the motorcycle
+  - Remove the lighthouse
+  - Redesign the poster
+  - Add logos
+  - Add watermarks
+  - Add unrelated objects
+
+  FINAL RESULT:
+  The final image must look like the exact same target poster recreated with the person/people from the uploaded reference image(s), using their exact face, hair and clothing while preserving everything else from the target image.

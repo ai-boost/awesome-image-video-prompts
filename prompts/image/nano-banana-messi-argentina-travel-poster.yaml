@@ -1,0 +1,30 @@
+id: nano-banana-messi-argentina-travel-poster
+title:
+  en: Messi in a jacket filled with Argentina landmarks
+  zh: 梅西外套内嵌阿根廷地标旅游海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- double-exposure
+- travel-poster
+- typography
+- celebrity
+source:
+  name: '@sipteaandcoffee on X'
+  url: https://x.com/sipteaandcoffee/status/2062690114497851717
+  credit: kold Coffee
+  likes: 113
+  captured: '2026-10-29'
+  posted: '2026-06-04'
+notes:
+  en: The landmark montage is printed onto the subject's jacket and backpack, so the figure reads as a double exposure frame. A plain warm beige backdrop, an upward gaze and a right-aligned bold wordmark with slogans keep the layout clean and ad-like.
+  zh: 把地标拼贴叠加在人物的夹克和背包上，形成双重曝光效果。纯色米色背景、向上的视线，以及右侧醒目的字标和口号，让版面干净、具有广告感。
+prompt: |
+  Nano Banana 2 on Higgsfield
+
+  Prompt: Ultra-premium travel tourism poster featuring Lionel Messi, designed in a sophisticated double-exposure style. A highly detailed cinematic portrait of Lionel Messi standing confidently against a warm beige minimalist background, wearing a sleek black bomber jacket and backpack, holding a smartphone in one hand. His gaze is directed upward with a determined and inspirational expression.
+  Inside his silhouette, a breathtaking montage of Argentina's iconic landscapes and landmarks is seamlessly blended, including the colorful houses of La Boca in Buenos Aires, the majestic Perito Moreno Glacier in Patagonia, dramatic Andean mountains, the iconic Obelisco, vibrant tango streets, golden-hour reflections on the Río de la Plata, and the thundering Iguazu Falls. Small birds fly across the sunset sky, enhancing the sense of freedom and discovery.
+  Elegant modern typography on the right side reads "ARGENTINA" in large bold letters with subtle Argentine flag accents (light blue and white). Premium tourism campaign branding includes motivational travel slogans such as "Move. Explore. Feel." and "Time to Discover." Clean luxury advertising layout, high-end magazine cover aesthetic, soft golden lighting, realistic skin texture, ultra-sharp details, cinematic color grading, professional commercial photography, destination marketing campaign, award-winning graphic design, photorealistic double exposure, depth, atmosphere, and storytelling.
+  Style Keywords:
+  Double exposure, luxury tourism poster, cinematic portrait photography, travel advertisement, premium branding, photorealistic, ultra-detailed, warm beige tones, golden hour lighting, editorial design, modern typography, inspirational travel campaign, 8K quality, masterpiece composition.

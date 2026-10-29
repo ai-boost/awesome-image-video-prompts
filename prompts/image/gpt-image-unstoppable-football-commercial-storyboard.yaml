@@ -1,0 +1,42 @@
+id: gpt-image-unstoppable-football-commercial-storyboard
+title:
+  en: Six panel football commercial storyboard with one athlete
+  zh: 六格足球广告分镜板，同一女运动员贯穿全片
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- storyboard
+- football
+- commercial
+- character-consistency
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2058062379536269612
+  credit: Sharon Riley
+  captured: '2026-10-29'
+  posted: '2026-05-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A fixed 3 by 2 grid with ACTION, CAMERA and NOTES captions under each frame makes the output read as a real production sheet. Repeating the same hair, kit and body type description in every panel keeps one character consistent across all six scenes.
+  zh: 每格下方配有 ACTION、CAMERA、NOTES 三行说明的固定 3 乘 2 网格，让成品像真实的制作分镜表。在每个画面中重复同一发型、球衣和身材描述，使人物在六个场景中保持一致。
+prompt: |
+  Goal: Create a polished commercial storyboard presentation for a 15-second ultra-realistic cinematic vertical football campaign featuring the same female footballer in every frame, titled UNSTOPPABLE STARTS NOW.
+
+  Canvas: Wide 16:9 black presentation board with thin white divider lines, a premium sports-agency layout, high contrast, realistic stadium photography in each panel, and a small top metadata bar. Use a black background, white condensed uppercase typography, and blue accent blocks for panel numbers and the word “STARTS.”
+
+  Header: Place a white Adidas-style three-stripe logo at top left, followed by the main headline “UNSTOPPABLE STARTS NOW,” with “UNSTOPPABLE” in white and “STARTS NOW” in electric blue. Under it, add small text: “COMMERCIAL STORYBOARD   CINEMATIC FOOTBALL CAMPAIGN.” On the top right add small production labels: “DIRECTOR / SPORTS COMMERCIAL UNIT,” “BRAND / ADIDAS FOOTBALL,” a small “16:9” badge, and “CINEMATIC STORYBOARD.”
+
+  Layout: Use exactly 6 storyboard panels arranged in a 3-column by 2-row grid. Each panel has a blue numbered square, an uppercase scene title, one ultra-realistic cinematic image, and three tiny notes underneath labeled ACTION, CAMERA, and NOTES. Keep the same consistent reference character in all 6 panels: a young athletic blonde female footballer with a high ponytail, wearing a white Real Madrid-style football kit with black shoulder panels, blue trim, white socks, and football boots. Make the face neutral or softly obscured rather than celebrity-specific.
+
+  Storyboard panels, exactly 6:
+  1. “THE ARRIVAL” — The player emerges from a stadium tunnel into a packed football arena at sunset, dramatic orange sky, Real Madrid-style flags in the crowd, huge stadium lights, low-angle wide entrance shot. Text below: ACTION: She emerges from the tunnel as the stadium erupts. CAMERA: Low-angle wide entrance shot with dramatic scale. NOTES: Sunset + stadium lights create cinematic contrast.
+  2. “CROWD REACTION” — Handheld sideline view as excited fans press forward cheering, filming on phones, flashes and stadium lights behind her while she walks past confidently. Text below: ACTION: Fans stand, cheer, and film her entrance. CAMERA: Handheld sideline perspective for energy. NOTES: Flashes, motion blur, and real crowd atmosphere.
+  3. “THE FIRST TRICK” — Close sports-action tracking shot as she juggles a black and white football effortlessly with her knee near the sideline, crowd roaring, bright stadium floodlights, blue Champions League-style ribbon signage. Text below: ACTION: She juggles the ball effortlessly with her knee. CAMERA: Close sports-action tracking shot. NOTES: Ball frozen mid-air, crowd reacts louder.
+  4. “MATCH-DAY ENERGY” — Wide cinematic stadium view with the player moving along the sideline, crowd packed and waving flags, confetti and smoke cannons, advertising boards, dynamic match-day atmosphere. Text below: ACTION: She moves along the sideline, crowd goes wild. CAMERA: Ultra-wide cinematic stadium view. NOTES: Confetti, smoke, banners, and vibrant atmosphere.
+  5. “THE MOMENT” — Dramatic low-angle portrait on the pitch as she controls the ball with one foot raised, stadium lights glowing overhead, shallow depth of field, intense heroic pause. Text below: ACTION: She stops, controls the ball, and owns the moment. CAMERA: Dramatic low-angle portrait shot. NOTES: Shallow depth of field, cinematic lighting on face.
+  6. “ICONIC EXIT” — Rear follow shot of the player jogging toward center pitch with a black backpack, jersey number visible, match continuing in the distance, giant stadium screen showing her, crowd and lights slightly motion blurred. Text below: ACTION: She jogs to the center pitch as the match continues. CAMERA: Rear follow shot with stadium scale. NOTES: Epic finale frame, motion blur on crowd and lights.
+
+  Visual style: Ultra-realistic sports commercial photography, cinematic grading, crisp detail, stadium floodlights, crowd energy, slight motion blur, premium brand-storyboard aesthetic, clean editorial spacing, thin white borders around images, tiny but legible production-note typography.
+
+  Constraints: Use exactly 6 panels and no extra panels. Maintain the same player, kit, hair, and body type across all panels. Keep the board landscape 16:9 even though it describes a vertical video campaign. Avoid random logos except the Adidas-style header mark and football-stadium branding cues. Make it look like a finished professional storyboard sheet, not a comic page.

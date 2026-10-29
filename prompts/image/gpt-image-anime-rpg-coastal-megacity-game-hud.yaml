@@ -1,0 +1,47 @@
+id: gpt-image-anime-rpg-coastal-megacity-game-hud
+title:
+  en: Anime RPG HUD over a sunset coastal megacity
+  zh: 日落海岸超大城市中的动漫RPG游戏HUD截图
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- anime
+- game-ui
+- screenshot
+- sunset-city
+source:
+  name: '@xRahultripathi on X'
+  url: https://x.com/xRahultripathi/status/2053331477224739071
+  credit: POCKET ROCKET
+  likes: 108
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+notes:
+  en: The shot is framed as an over the shoulder gameplay capture with the character walking and glancing back, so it reads as a real console screenshot rather than a posed showcase. Each HUD element is named with its screen position, and the warm sunset is set against cyan neon to give the lighting its contrast.
+  zh: 镜头设定为过肩的游戏实录视角，角色边走边回头，因此更像真实主机游戏截图而非摆拍展示。提示词按屏幕位置逐项列出HUD元素，并用暖色落日与青色霓虹的对比来定义光线。
+prompt: |
+  Ultra-detailed authentic in-game screenshot from a fictional AAA open-world anime RPG set in a futuristic Mediterranean-inspired megacity at golden sunset. Completely different visual identity from previous images.
+
+  Main character: Hancock-inspired anime woman with very long midnight-blue hair, sharp elegant facial features, and a confident expression. Outfit redesigned into a luxurious white-and-teal futuristic beachwear set with holographic fabric accents, translucent silk jacket, gold jewelry, glowing anklets, and high-fashion sci-fi styling. No purple or red tones.
+
+  Environment: massive coastal smart-city with elevated highways, luxury shopping districts, digital hologram ads, floating drones, reflective wet pavement, tropical gardens, rooftop pools, monorail tracks, and ocean visible between skyscrapers. Warm orange sunset lighting mixed with cyan neon reflections creates cinematic contrast. Busy crowds of NPCs walking naturally.
+
+  Game UI must feel like a real next-gen RPG:
+
+  - circular minimap top left with roads and icons
+  - quest tracker with stylish typography
+  - party character list on right side
+  - stamina and HP bars at bottom
+  - ability wheel with futuristic glowing icons
+  - subtitle dialogue box with cinematic caption
+  - in-game currency and ping indicator
+  - realistic console-game HUD styling
+  - subtle motion blur and depth of field
+  - photo-real 3D cel-shaded anime rendering
+  - dynamic lighting and ambient occlusion
+  - PlayStation 5 / Unreal Engine style quality
+
+  Camera angle: over-the-shoulder cinematic gameplay screenshot, not character showcase pose. Character should be naturally walking through the city while looking slightly back toward camera.
+
+  Mood: premium stylish anime GTA-like RPG mixed with modern JRPG aesthetics and urban vacation luxury vibe. Completely fresh composition and color palette.

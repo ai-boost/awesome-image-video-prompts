@@ -1,0 +1,24 @@
+id: gpt-image-anime-tv-show-cast-posters
+title:
+  en: Four TV show cast posters with signature quotes
+  zh: 四部电视剧角色海报配经典台词
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- anime
+- poster
+- tv-shows
+- template
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2059239464858247449
+  credit: TechieSA
+  likes: 131
+  captured: '2026-10-29'
+  posted: '2026-05-26'
+notes:
+  en: 'A reusable template with a [TV SHOW] slot that fixes the poster layout: hero front and center, supporting cast at varying depths, bold title at top and one quote as a graphic element. Locking canonical outfits and a show color accent on white keeps every filled-in poster consistent.'
+  zh: 这是一个带 [TV SHOW] 占位符的可复用模板，固定了海报版式：主角居中靠前，配角按远近和大小错落排列，顶部是醒目的剧名，台词作为图形元素呈现。锁定原始服装，并用剧集标志色在白底上做主色调，使每部剧的海报风格保持一致。
+prompt: |
+  “Anime editorial poster of the cast of [TV SHOW]. The main character front and center, large, mid-body composition. Supporting characters arranged behind at varying depths and scales. Every character in their exact canonical outfit, no redesigns. Clean anime lineart, semi-flat shading, high contrast. Show’s signature color as dominant accent against a white background. Bold show title typography at the top in the show’s original font style. One iconic quote integrated as a graphic element. Background reflects the show’s setting rendered as abstract graphic shapes and texture. Paint strokes, diagonal energy lines, gritty overlays matching the show’s tone. Poster-quality finish, 4K, vertical 3:4 format.”

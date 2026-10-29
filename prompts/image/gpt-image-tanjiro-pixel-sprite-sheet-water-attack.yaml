@@ -1,0 +1,66 @@
+id: gpt-image-tanjiro-pixel-sprite-sheet-water-attack
+title:
+  en: Tanjiro 16 frame pixel sprite sheet with water attack
+  zh: 炭治郎十六帧像素精灵图与水之呼吸攻击
+model: GPT Image 2.5
+mode: image-edit
+category: character
+tags:
+- pixel-art
+- sprite-sheet
+- animation
+- anime
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2097539942985728162
+  credit: Kiki
+  likes: 1559
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+notes:
+  en: Uploading a character reference and fixing a 4 by 4 grid with identical cells and a ready, anticipation, strike, impact, recovery beat order keeps the frames in sequence. Letting the attack follow the character's own ability, here water breathing, gives the effects a clear source that stays in one pixel style.
+  zh: 上传角色参考图，并固定 4 乘 4 网格、等大小单元格以及起手、蓄力、出招、命中、收势的动作顺序，帧与帧之间的衔接就能保持清楚。攻击方式取自角色自身的能力（这里是水之呼吸），特效来源明确，也更容易保持统一的像素风格。
+prompt: |
+  Using the character reference image I upload, create a pixel-art battle animation. Deliver a transparent animated GIF and a 4×4 sprite sheet containing 16 sequential frames.
+
+  CHARACTER FIDELITY
+  Identify the character’s hairstyle, outfit, colors, weapon, proportions, and distinctive features. Translate them into a recognizable chibi pixel-art sprite. Keep the character’s identity, scale, clothing, and equipment consistent across all frames.
+
+  BATTLE DESIGN
+  Automatically design an attack that suits the character:
+  - If they carry a weapon, build the animation around it.
+  - If their abilities are clearly identifiable, use the appropriate effects, such as water, fire, or lightning.
+  - If their abilities are unclear, create a plausible physical attack based on their appearance. Do not invent unrelated powers.
+
+  Proceed without asking preliminary questions. Create one coherent battle loop:
+  Ready stance → Anticipation → Attack → Impact peak → Effects dissipate → Recovery.
+
+  Distribute the sequence naturally across 16 frames. The final frame must transition smoothly into the first. Animate actual changes in pose and body mechanics; do not fake movement by merely translating or rotating a static character image.
+
+  PIXEL-ART STYLE
+  Use crisp 16-bit game-style pixel art with readable silhouettes, sharp pixel edges, and a restrained palette. Maintain a consistent pixel scale for both the character and effects. Avoid blur, photorealistic rendering, and style drift.
+
+  SPRITE SHEET REQUIREMENTS
+  - Exactly 4 columns × 4 rows, totaling 16 frames.
+  - Frames play left to right, then top to bottom.
+  - All cells must have identical dimensions.
+  - Use a fixed camera, consistent character scale, a stable ground baseline, and consistent animation registration.
+  - Each cell contains exactly one character.
+  - Keep the entire body, weapon, and effects inside its cell.
+  - Leave sufficient transparent padding on every side. Nothing may cross cell boundaries or be cropped.
+  - No text, frame numbers, grid lines, watermarks, or background scenery.
+
+  TRANSPARENCY AND ANIMATION
+  Generate a genuinely transparent RGBA PNG. Do not draw a checkerboard pattern to imitate transparency.
+
+  Slice the sheet into frames and assemble a transparent, infinitely looping GIF. Adjust frame durations to emphasize anticipation and fast strikes. Aim for a total loop duration of approximately 1.5–2 seconds.
+
+  Preserve full alpha transparency in the PNG files. Use a transparent palette index and correct frame disposal in the GIF to prevent trails from previous frames.
+
+  DELIVERABLES AND QUALITY CHECK
+  Create the actual files, not just prompts or instructions:
+  1. A transparent 4×4 PNG sprite sheet.
+  2. A playable transparent battle GIF.
+  3. A ZIP containing all 16 individual transparent PNG frames.
+
+  Before delivery, verify that there are exactly 16 frames, transparency is genuine, the character remains consistent, no neighboring frames bleed into the crops, the action plays in the correct order, and the loop has no obvious positional jumps. Fix any issues before presenting the GIF preview and download links.

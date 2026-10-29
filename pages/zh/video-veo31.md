@@ -1,6 +1,6 @@
 # Veo 3.1
 
-[返回目录](../../README_zh.md) · 全部 10 条
+[返回目录](../../README_zh.md) · 全部 11 条
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### 巨型女孩跪在东京街口俯身触碰出租车
@@ -306,6 +306,487 @@ Veo 3.1 · 文生视频 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_
   "camera": "Continuous kinetic macro push-in, seamless fluid-vortex tumble, rotational cylinder tracking, and ultra-high-speed slow-motion curl reveal",
   "lighting": "Crisp morning natural rim lighting transitioning into cool cryogenic frosty blues, balanced by warm culinary studio highlights on glossy fruit surfaces",
   "negative_prompt": "text, watermark, logo, subtitles, cartoon, artificial neon pink, icy melting mush, plastic texture, dry powder, low resolution, flat lighting, jump cuts, jerky camera movement, grainy footage"
+}
+```
+
+</details>
+
+<a id="veo-shadow-corridor-panther-fur-morph"></a>
+### 红光黑丝线走廊化为豹毛
+
+<a href="https://www.reddit.com/r/comfyui/comments/1pic471/product_ads_with_veo_31_in_comfyui"><img src="../../previews/veo-shadow-corridor-panther-fur-morph.jpg" width="360"></a>
+
+结构化 JSON 把外观、镜头和连续性拆成独立字段，让整段变形保持在一个连续镜头内。每次换镜头都绑定到变形的某个阶段，模型便知道何时该拉宽画面。
+
+Veo 3.1 · 文生视频 · 出处: [u/ThinkDiffusion on Reddit](https://www.reddit.com/r/comfyui/comments/1pic471/product_ads_with_veo_31_in_comfyui) · 84 赞，统计于 2026-10-29
+
+[`json-prompt`](tags.md#tag-json-prompt) [`single-take`](tags.md#tag-single-take) [`surreal-morph`](tags.md#tag-surreal-morph) [`fashion-ad`](tags.md#tag-fashion-ad)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Been testing json-format prompts for e-commerce product ads in Veo 3.1. Incredible results so far!
+
+Average generation time: 1 min to 3 mins
+
+Here are the prompts, give them a try and share your thoughts on Veo 3.1!
+
+1. Shadow Corridor to Panther-Fur Figure — One Take Ritual
+
+{
+  "title": "Shadow Corridor to Panther-Fur Figure — One Take Ritual",
+  "duration_seconds": 8,
+
+  "look": {
+"style": "Cinematic hyperreal surrealism",
+"grade": "Black void corridor with razor-red reflections and ink-like shadows",
+"grain": "Ultra-fine film grain, polished luxury surreal texture"
+  },
+
+  "continuity": {
+"single_camera_take": true,
+"no_cuts": true,
+"texture_alignment": "Shadow threads thicken into panther fur strands, which liquify into black latex sheen, becoming finally the coat fabric and the BALENCIAGA typography.",
+"motion_vector_continuity": "Forward glide → dissolve downward into shadow fluid → resurfacing ascent → final reveal in one breath"
+  },
+
+  "camera": {
+"lens": "40mm claustrophobic → 90mm macro shadow immersion → 24mm wide reveal",
+"movement":
+"Begin inside a narrow corridor made of living black threads trembling with red glints.
+Camera glides forward, pulling shadows apart.
+As the lens reaches a cluster of dense threads, they melt into viscous black fluid that swallows the camera.
+Inside the liquid shadow chamber, silky fur strands drift like underwater growth.
+In one continuous upward pull, the fluid becomes a rising curtain of panther fur, expanding into a massive black hallway.
+The camera emerges to reveal a tall figure wearing a sculptural BALENCIAGA coat, its texture identical to the panther fur."
+  },
+
+  "action": {
+"environment": [
+"Corridor made of vibrating black threads with crimson micro-reflections",
+"Threads merging into midnight panther-fur strands, rippling as if breathing",
+"Fur liquifying into shadow fluid with metallic red veins",
+"Shadow fluid rising and flattening into a glossy black runway surface",
+"A towering figure standing at center, wearing an obsidian BALENCIAGA coat whose fabric continuously ripples like a living panther pelt"
+],
+
+"creature_energy": [
+"Subtle panther-like movements inside the shadows",
+"Fur ripples reacting like muscles beneath the surface",
+"A brief suggestion of panther eyes glowing within the liquid black before dissolving"
+]
+  },
+
+  "lighting": {
+"time_of_day": "Timeless void",
+"style": "High-fashion noir lighting with red razor-edge highlights, soft volumetric shadows, underglow fur shimmer"
+  },
+
+  "audio": {
+"sound_effects": [
+"Soft tearing of threads as they expand",
+"Low predatory hum pulsing like a panther growl under the mix",
+"Viscous shadow-fluid drips and slithers",
+"Bass-heavy rise as the figure emerges"
+]
+  },
+
+  "scene_notes": "Everything must feel like a single morph. The environment should behave like a living organism evolving toward the final BALENCIAGA figure. No cuts, no breaks — just one evolving shadow-fabric continuum with subtle panther energy. The BALENCIAGA text can emerge at the end by stretching out of the coat’s fur strands, as if the brand name is woven from darkness itself."
+}
+
+2. IKEA Scandinavian Bedroom Assembly
+
+{
+  "description": "Cinematic shot of a sunlit Scandinavian bedroom. A sealed IKEA box trembles, opens, and flat pack furniture assembles rapidly into a serene, styled room highlighted by a yellow IKEA throw on the bed. No text.",
+  "style": "cinematic",
+  "camera": "fixed wide angle",
+  "lighting": "natural warm with cool accents",
+  "room": "Scandinavian bedroom",
+  "elements": [
+"IKEA box (logo visible)",
+"bed with yellow throw",
+"bedside tables",
+"lamps",
+"wardrobe",
+"shelves",
+"mirror",
+"art",
+"rug",
+"curtains",
+"reading chair",
+"plants"
+  ],
+  "motion": "box opens, furniture assembles precisely and rapidly",
+  "ending": "calm, modern space with yellow IKEA accent",
+  "text": "none",
+  "keywords": [
+"16:9",
+"IKEA",
+"Scandinavian",
+"fast assembly",
+"no text",
+"warm & cool tones"
+  ]
+}
+
+3. Tiffany & Co Jewellery Advertisement
+
+{
+
+  "description": "8-second premium Tiffany & Co jewellery advertisement video. It begins with a creative, artistic brand reveal, then a realistic attractive model wearing jewellery, moving naturally — elegant, fluid, dynamic and real.",
+
+  
+
+  "style": "luxury jewellery campaign, natural high-fashion cinematography, fluid modelling movements, modern elegance, artistic realism.",
+
+  
+
+  "camera": "portrait-lens (85-135 mm) with gentle camera motion — slow dolly/slider or handheld-style softness for realism, smooth push-ins and rack focus between jewellery and model’s face/hands.",
+
+  
+
+  "lighting": "soft beauty lighting with subtle accent lighting on jewellery (diamonds, metal), rim light to highlight contours, gentle reflections, some coloured-light accents (Tiffany-blue, soft teal, soft prism colours) to add artistic vibe.",
+
+  
+
+  "model": {
+
+"face": "full face visible when needed, but also allowed natural body turns, head tilts, movement — she should not stand straight; posture and gesture flow naturally.",
+
+"vibe": "elegant, confident, relaxed sophistication, natural charisma, modern beauty with subtle motion."
+
+  },
+
+  
+
+  "jewellery": [
+
+"Tiffany & Co diamond necklace",
+
+"diamond earrings",
+
+"signature bracelet",
+
+"white-gold/platinum settings"
+
+  ],
+
+  
+
+  "beats": [
+
+"0–1s: deep black screen. A soft swirl of luminous Tiffany-blue liquid-light flows across the frame. From within the glow, the white serif 'TIFFANY & CO.' logo slowly reveals as if carved by light. Subtle diamond-spark particles shimmer around the logo. Heritage glow — elegant, artistic, premium.",
+
+"1–2s: the logo gently dissolves into flowing Tiffany-blue light ribbons that drift across the frame and transform into soft colourful reflections.",
+
+"2–3s: the model emerges naturally from the moving Tiffany-blue reflections, body turned slightly at a three-quarter angle, not standing straight. Necklace catches the same moving light that came from the logo.",
+
+"3–4s: smooth dolly-in to medium close-up. She lifts her hand to brush her hair back naturally, revealing earrings and bracelet with soft artistic light play.",
+
+"4–5s: macro close-up on the diamond necklace — facets catch realistic sparkle with soft colourful prism reflections, not exaggerated.",
+
+"5–6s: camera moves back to an elegant portrait shot. She tilts her head slightly, offering a calm confident smile. Jewellery remains the visual focus.",
+
+"6–7s: gentle slow-motion movement as she lowers her hand and shifts her weight naturally (contrapposto stance). Bracelet and ring catch subtle reflections. Background darkens gradually.",
+
+"7–8s: full fade to black. The Tiffany-blue liquid-light returns and sweeps across the screen once more. As it passes, the bold white 'TIFFANY & CO.' logo reappears sharply in the center with a refined glow. Tiny diamond spark flashes once on the ampersand (&). Logo holds strong for final brand authority."
+
+  ],
+
+  
+
+  "product": [
+
+"Tiffany & Co diamond necklace",
+
+"diamond earrings",
+
+"luxury bracelet or rings",
+
+"platinum/white-gold jewellery pieces"
+
+  ],
+
+  
+
+  "motion": "smooth natural body/hand/head movements, gentle camera motion (dolly/slider or slight handheld), slow dolly in/out, soft fluid transitions, no rigid posing or straight-on fixed stance.",
+
+  
+
+  "ending": "pure black background with creative Tiffany-blue liquid-light logo reveal and subtle diamond spark accent.",
+
+  
+
+  "text": "TIFFANY & CO. — clean white serif font revealed through animated Tiffany-blue light and diamond spark accent.",
+
+  
+
+  "keywords": [
+
+"creative logo animation",
+
+"luxury jewellery ad",
+
+"dynamic model movement",
+
+"natural posing jewellery",
+
+"bold artistic branding",
+
+"Tiffany jewellery cinematography",
+
+"fluid motion commercial",
+
+"elegant modern beauty",
+
+"vertical 9:16 format",
+
+"brand-first reveal with animated light"
+
+  ],
+
+  
+
+  "brand_elements": [
+
+"animated Tiffany-blue liquid-light logo reveal",
+
+"diamond spark accent on final logo",
+
+"Tiffany-blue light identity",
+
+"final black-screen premium brand hold"
+
+  ],
+
+  
+
+  "format": {
+
+"aspect_ratio": "16:9",
+
+"fps": 24
+
+  }
+
+}
+
+4. NIKE-Style Sneaker & Black Snake Interaction
+
+{
+
+  "description": "8-second cinematic animation of a NIKE-style sneaker interacting with a black snake in dark studio space. No text.",
+
+  "style": "cinematic dark energy",
+
+  "camera": "macro orbit then fast push-in",
+
+  "lighting": "sharp rim light with metallic scales reflection",
+
+  "beats": [
+
+"0-1s: single sneaker in darkness, subtle breath of vapor",
+
+"1-3s: black snake made of smoke and scales slithers around the shoe sole",
+
+"3-5s: snake coils upward, tightening and forming the shoe laces and swoosh shape",
+
+"5-7s: coil snap motion reveals pristine completed sneaker, scales drifting away",
+
+"7-8s: final rotation with snake eye reflection on shoe surface"
+
+  ],
+
+  "product": [
+
+"running sneaker",
+
+"snake scale texture",
+
+"black vapor"
+
+  ],
+
+  "motion": "snake wraps, forms shape, releases",
+
+  "ending": "shoe floating with subtle scale shimmer",
+
+  "text": "none",
+
+  "keywords": [
+
+"16:9",
+
+"product + animal FX",
+
+"coil motion",
+
+"dark studio",
+
+"no text"
+
+  ]
+
+}
+
+5. Infinite Corridor Outfit Metamorphosis
+
+Continuous tracking shot following a model walking down an infinite surreal corridor with mirrors on both sides, she starts wearing a dress made of actual dense fog that swirls and dissipates revealing the next outfit, transitions into a gown of living flames that burn without consuming flowing upward like reverse waterfalls, morphs into a crystalline ice sculpture dress that cracks and reforms with each step creating musical chimes, dissolves into flowing liquid mercury that reflects distorted surroundings, blooms into a dress of living flowers that grow accelerate through full life cycles in seconds, evaporates into northern lights aurora borealis fabric that waves impossibly in non-existent wind, finally becomes pure geometric light constructs that flicker between dimensions, her face and body remain constant while outfits seamlessly transition, each material has hyper-realistic physics and textures, the corridor behind her shifts through cosmic nebulae, underwater depths, storm clouds, and abstract void, shot with smooth gimbal movement at 60fps slowed to 24fps for dreamy motion, volumetric lighting and atmospheric fog, fashion meets elemental magic meets psychedelic surrealism
+
+6. Bobbi Brown Lipstick Beauty Commercial
+
+{
+
+  "description": "8-second luxury beauty commercial featuring beautiful woman applying Bobbi Brown lipstick with elegant close-ups and brand reveal. High-end cosmetics aesthetic.",
+
+  "style": "premium beauty editorial with cinematic glamour and sophisticated elegance",
+
+  "camera": "extreme close-up on lips transitioning to medium beauty shot, 100mm macro lens f/2.0 for lip detail then 85mm f/1.4 for face, slow push-in creating intimacy",
+
+  "lighting": "soft beauty lighting with ring light creating catchlights in eyes, warm golden key light from 45-degrees, subtle fill to eliminate shadows, cream seamless background with soft gradient to champagne gold",
+
+  "beats": [
+
+"0-1s: black screen, Bobbi Brown logo in elegant serif font fades in with rose gold shimmer",
+
+"1-2s: extreme close-up of woman's perfect lips in natural nude tone, flawless skin texture visible, anticipation",
+
+"2-3s: elegant hand with manicured nails brings Bobbi Brown lipstick tube into frame, rose gold metal casing catching light with embossed logo visible",
+
+"3-4s: lipstick cap removes in slow motion revealing rich creamy formula in sophisticated mauve-brown shade, bullet perfectly shaped",
+
+"4-5s: first application stroke across bottom lip in extreme slow motion, rich color payoff visible, creamy texture gliding smoothly, lip detail and natural shine",
+
+"5-6s: camera slowly pulls back revealing woman's beautiful face - glowing skin, defined features, confident elegant expression, she completes lip application with precision",
+
+"6-7s: she presses lips together distributing color, then relaxes into subtle knowing smile, perfect lips now in rich Bobbi Brown shade with natural satin finish",
+
+"7-8s: final beauty shot - face centered with perfect lighting, lips prominently featured, Bobbi Brown lipstick tube held elegantly near face, large brand logo and product name appear in rose gold text bottom center with tagline 'Be Who You Are'"
+
+  ],
+
+  "subject": [
+
+"stunning woman in her late 20s with classic beauty",
+
+"flawless glowing skin with warm undertones",
+
+"naturally full perfectly shaped lips",
+
+"elegant bone structure with defined cheekbones",
+
+"soft natural makeup - glowing skin, subtle eyes, focus on lips",
+
+"hair styled in sleek low bun or soft waves, elegant and timeless",
+
+"wearing simple cream or beige clothing, no distracting patterns",
+
+"manicured nails in nude or soft pink shade",
+
+"confident yet approachable expression"
+
+  ],
+
+  "product": [
+
+"Bobbi Brown Luxe Lip Color lipstick",
+
+"rose gold metal tube with weight and luxury feel",
+
+"embossed Bobbi Brown logo on tube catching light",
+
+"rich creamy formula in sophisticated mauve-brown nude shade",
+
+"perfectly shaped bullet with angled tip for precision",
+
+"satin finish - not matte, not glossy, naturally radiant",
+
+"visible smooth texture and pigment payoff"
+
+  ],
+
+  "motion": "slow graceful hand movement bringing product to lips, cap removal in slow motion, lipstick application glide showing texture, lips pressing together, subtle smile formation, camera push-in on face, brand logo fade-in with shimmer effect",
+
+  "ending": "hero beauty shot with model's perfected lips center frame, product held elegantly, confident expression, large Bobbi Brown branding with rose gold shimmer, sophisticated and aspirational",
+
+  "text": "BOBBI BROWN in elegant serif font, rose gold color with subtle shimmer. Product name 'Luxe Lip Color' in smaller refined text. Tagline 'Be Who You Are' in script font. All text bottom center with professional cosmetics branding aesthetic",
+
+  "keywords": [
+
+"16:9",
+
+"120fps slow motion for application",
+
+"macro beauty photography",
+
+"rose gold and cream color palette",
+
+"luxury cosmetics commercial",
+
+"lipstick application beauty",
+
+"premium beauty brand",
+
+"natural elegance aesthetic"
+
+  ],
+
+  "brand_elements": [
+
+"Bobbi Brown logo embossed on lipstick tube",
+
+"Rose gold metal packaging signature to brand",
+
+"Brand wordmark in elegant serif font",
+
+"Tagline 'Be Who You Are' reinforcing brand values",
+
+"Natural beauty aesthetic - sophisticated not dramatic",
+
+"Warm neutral color palette matching brand identity",
+
+"Luxe Lip Color product line name visible"
+
+  ],
+
+  "beauty_details": {
+
+"skin": "flawless glowing complexion, warm undertones, natural radiance",
+
+"lips": "naturally full, perfect cupid's bow, smooth texture, enhanced not transformed",
+
+"eyes": "subtle neutral shadow, defined lashes, warm brown tones",
+
+"brows": "naturally groomed, defined shape",
+
+"overall_look": "effortlessly elegant, timeless beauty, confident sophistication"
+
+  },
+
+  "color_palette": {
+
+"primary": "rose gold - luxury, femininity, warmth",
+
+"secondary": "cream and champagne - elegance, sophistication",
+
+"accent": "warm browns and mauves - natural, wearable, Bobbi Brown signature",
+
+"background": "soft neutral gradient - focus on subject and product"
+
+  },
+
+  "audio_suggestions": [
+
+"soft sophisticated music - perhaps piano or strings",
+
+"subtle lipstick application sound effects",
+
+"gentle ambient room tone",
+
+"optional: soft female voiceover saying tagline at end"
+
+  ]
+
 }
 ```
 

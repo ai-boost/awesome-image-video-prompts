@@ -1,0 +1,24 @@
+id: gpt-image-google-fonts-japanese-tutorial-infographic
+title:
+  en: Japanese Google Fonts three step infographic
+  zh: Google Fonts 三步使用教程日文信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- google-fonts
+- infographic
+- tutorial
+- japanese
+source:
+  name: '@Handball_Jin on X'
+  url: https://x.com/Handball_Jin/status/2048998562856591717
+  credit: HANDBALL ZIN｜AI CREATOR
+  captured: '2026-10-29'
+  posted: '2026-04-28'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt splits the layout into numbered sections with fixed positions, icons and exact code strings, so each card keeps its own content. Naming hex colours and the 16:9 canvas keeps the flat blue and Google palette consistent across the panels.
+  zh: 提示词把版面拆成带固定位置、图标和完整代码文本的编号区块，每张卡片的内容因此各自固定。用十六进制色值和 16:9 画布限定配色与比例，让平面蓝色和 Google 配色在各面板间保持统一。
+prompt: |
+  {"type":"Japanese infographic","topic":"How to use Google Fonts","style":"clean modern flat design, white background, soft pastel blue and mint corner blobs, rounded cards with subtle shadows, tech tutorial aesthetic, crisp vector typography and UI illustrations","canvas":{"aspect_ratio":"16:9"},"headline":{"main":"Google Fontsの使い方","sub":"基本の3ステップ"},"layout":{"sections":[{"title":"1. フォントを選ぶ","position":"left","count":1,"labels":["1. フォントを選ぶ"],"card_style":"rounded white panel with light blue border/shadow","icon":"blue numbered circle with 1","illustration":"browser window showing a font search interface, 3 visible font preview rows with large Aa あ samples, a search bar at top, small colored window buttons, light gray interface lines and blue accent dashes","body_text":"Google Fontsのサイトで、好きな書体を探します。"},{"title":"2. 埋め込みコードを取得","position":"center","count":1,"labels":["2. 埋め込みコードを取得"],"card_style":"rounded white panel with light blue border/shadow","icon":"blue numbered circle with 2","illustration":"dark code panel with two labeled code examples separated by a thin divider","code_blocks":{"count":2,"labels":["<link> (HTML)","@import (CSS)"],"content":["<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap\" rel=\"stylesheet\">","@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');"]},"body_text":"表示された<link>やCSSをコピーします。"},{"title":"3. CSSで適用","position":"right","count":1,"labels":["3. CSSで適用"],"card_style":"rounded white panel with light blue border/shadow","icon":"blue numbered circle with 3","illustration":"white code card containing CSS with two selectors and font-family rules","code_blocks":{"count":2,"labels":[".title","body"],"content":[".title { font-family: 'Poppins', sans-serif; }","body { font-family: 'Noto Sans JP', sans-serif; }"]},"body_text":"font-familyを指定して、デザインに反映します。"},{"title":"ポイント","position":"bottom-left","count":3,"labels":["読みやすさで選ぶ","日本語対応を確認する","使いすぎず、2〜3種類に絞る"],"card_style":"rounded white panel with pale blue tint","icon":"blue star in a circle","body_format":"bullet list"},{"title":"よく使う組み合わせ","position":"bottom-center-right","count":2,"labels":["見出し: Poppins","本文: Noto Sans JP"],"card_style":"rounded white panel with pale lavender tint","icon":"purple linked-rings symbol","body_format":"two pill-shaped example boxes"}],"connectors":{"count":2,"style":"large blue right-pointing arrows between the 3 top cards"},"pagination":{"text":"2 / 2","position":"bottom-right","style":"blue rounded corner tab"}},"text_language":"Japanese","color_palette":{"primary_blue":"#2f80ff","navy":"#0f2b5b","google_colors":["#4285F4","#DB4437","#F4B400","#0F9D58"],"lavender":"#8b6cff","background":"#ffffff"}}

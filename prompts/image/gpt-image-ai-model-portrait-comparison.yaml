@@ -1,0 +1,38 @@
+id: gpt-image-ai-model-portrait-comparison
+title:
+  en: Two AI image models compared as street portraits
+  zh: 两款 AI 图像模型的街头人像对比
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- comparison
+- street-portrait
+- photorealistic
+- social-media
+source:
+  name: '@TimJayas on X'
+  url: https://x.com/TimJayas/status/2086455464930459760
+  credit: Tim Jayas
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: One detailed subject description is repeated in both panels so the comparison is about the model rather than the sitter. Camera feel, lens, motion blur and a fixed element count with a white divider keep the layout controlled and the two photos consistent.
+  zh: 两个画面重复同一位女性的详细描述，让对比聚焦于模型本身而非人物。镜头感、焦段、运动模糊，以及固定的元素数量和白色分隔线，使版式可控、两张照片风格一致。
+prompt: |
+  Goal: Create a clean side-by-side comparison graphic showing two AI image model outputs as realistic street portraits.
+
+  Canvas: Horizontal 3:2 social media comparison image, white background, high resolution. Use a simple two-column layout with a narrow vertical white divider between the image panels.
+
+  Layout: Top header area contains exactly 2 black logos centered above exactly 2 bold model names. Left column: OpenAI knot logo above the heading “GPT-Image 2”. Right column: Grok-style black circular slash logo above the heading “Imagine Image 2.0”. Below the headers are exactly 2 equal-size rectangular photo panels: one on the left and one on the right.
+
+  Photo content: Both panels show a cinematic, photorealistic urban street portrait of the same young woman in a crowded city. She has dark brown hair, natural makeup, full brows, soft lips, and a calm direct gaze. She wears a dark coat. The background is a busy city sidewalk with motion-blurred pedestrians, shallow depth of field, muted gray urban tones, and warm bokeh traffic lights.
+
+  Left photo panel: The woman is slightly left of center, turned partly toward the camera, with loose voluminous hair around her face. A large blurred pedestrian crosses the foreground on the right, partially obscuring the lower face/body area; another blurred figure appears on the left. The image should feel like a candid real-camera street photograph with natural imperfections and documentary realism.
+
+  Right photo panel: The woman is centered closer to camera, facing forward with slightly tousled hair pulled back loosely and face-framing strands. Her facial detail is sharper and more polished, with visible skin texture and freckles. Blurred pedestrians pass on both sides, including a gray figure on the left and a warm brown motion blur on the right.
+
+  Visual style: Photorealistic DSLR street photography, natural light, shallow depth of field, 50mm lens feel, realistic skin texture, subtle filmic color grading, high detail in faces, strong motion blur on passing pedestrians, no illustration style.
+
+  Text and element count: Include exactly 2 logos, exactly 2 headings, exactly 2 photo panels, and exactly 2 main female portraits. Do not add extra captions, scores, labels, borders, watermarks, or interface elements.

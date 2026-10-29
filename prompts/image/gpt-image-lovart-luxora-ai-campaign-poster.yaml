@@ -1,0 +1,23 @@
+id: gpt-image-lovart-luxora-ai-campaign-poster
+title:
+  en: Luxury watch campaign poster with AI platform UI
+  zh: 奢华腕表营销海报，含AI平台界面
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- luxury
+- json-prompt
+- campaign-poster
+source:
+  name: '@dylannknox on X'
+  url: https://x.com/dylannknox/status/2047321348314423477
+  credit: Dylan Knox
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A JSON brief sets each element slot by slot, covering headline, floating asset positions, UI panel labels and the feature row, so every part stays controllable. A central gold light source with screens angled inward ties separate mockups into one composition.
+  zh: 用 JSON 逐项定义标题、浮动素材位置、界面标签和特性行，使每个元素都可控。中心金色光源加上朝内倾斜的屏幕，把各个样机统一成一个构图。
+prompt: |
+  {"type":"luxury AI creative platform promotional poster","style":"cinematic premium tech advertising, glossy black and gold color palette, high contrast, futuristic luxury branding, photoreal 3D compositing with elegant UI mockup elements","format":"square social campaign poster","background":{"color":"deep black","environment":"dark futuristic studio space with subtle architectural shadows and reflective floor","lighting":"dramatic central glow with warm gold volumetric light trails and rim lighting around all floating screens"},"branding":{"logo_text":"Lovart","headline":"{argument name=\"headline text\" default=\"GPT IMAGE 2\"}","subheadline":"{argument name=\"subheadline text\" default=\"IS NOW INSIDE LOVART\"}","tagline":"IDEAS EVOLVE. VISIONS EXPAND. CAMPAIGNS COME TO LIFE.","footer_tagline":"CREATE BEYOND IMAGINATION."},"centerpiece":{"description":"a brilliant glowing heart-shaped energy plume erupting from a circular platform, made of flowing golden light strands, like a fountain of creativity or generative power","position":"center","base":"concentric metallic pedestal rings with illuminated edges"},"product_brand":{"name":"{argument name=\"brand name\" default=\"LUXORA\"}","category":"luxury wristwatch campaign visuals"},"floating_assets":{"count":8,"items":[{"type":"vertical poster billboard","position":"far left","content":"luxury watch hero shot with brand title and dark oceanic backdrop"},{"type":"vertical fashion poster","position":"left center","content":"female model in black styling wearing a luxury watch, face partially obscured by composition"},{"type":"small horizontal product card","position":"lower left center","content":"watch close-up with short campaign copy"},{"type":"large horizontal billboard","position":"upper right","content":"hero watch render with sparkling gold particles and campaign layout"},{"type":"small square info card","position":"mid right","content":"watch detail close-up and short descriptive text"},{"type":"small vertical poster","position":"lower right center","content":"secondary watch campaign image"},{"type":"social media story or feed mockup","position":"far right","content":"smartphone-style interface showing a luxury watch ad post"},{"type":"creative app UI panel","position":"bottom left","content":"dark software sidebar and model selector with GPT Image 2 highlighted, plus other image model options"}]},"ui_panel":{"position":"bottom left","components":{"count":8,"labels":["Lovart","Home","Projects","Canvas","Assets","Brand Kit","Inspiration","GPT Image 2"]}},"feature_row":{"position":"bottom","count":4,"items":[{"title":"ONE IDEA","subtitle":"Infinite Possibilities"},{"title":"MULTI-ASSET GENERATION","subtitle":"Posters, Ads, UI, Social & More"},{"title":"CONSISTENT BRAND SYSTEM","subtitle":"Cohesive, On-Brand, Always"},{"title":"POWERED BY GPT IMAGE 2","subtitle":"Smarter Engine, Superior Results."}]},"composition":"symmetrical but slightly dynamic layout, central energy source surrounded by floating campaign outputs, all screens angled inward toward the glow to suggest one idea expanding into a full brand system","materials":"black glass, brushed metal, gold neon edges, glossy screens, subtle particle sparkles","mood":"innovative, aspirational, premium, magical, campaign-launch energy","quality":"ultra-detailed, crisp typography, polished brand presentation, high-end product visualization, studio-grade advertising render"}

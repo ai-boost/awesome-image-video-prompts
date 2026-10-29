@@ -1,0 +1,72 @@
+id: nano-banana-red-one-piece-swimsuit-pool-steps
+title:
+  en: Woman in red One Piece swimsuit on pool steps
+  zh: 红色海贼王连体泳衣女子站在泳池台阶上
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- json-prompt
+- fan-art
+- night-pool
+- smartphone-photo
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2039691442440802306
+  credit: KeorUnreal
+  likes: 703
+  captured: '2026-10-29'
+  posted: '2026-04-02'
+notes:
+  en: A nested JSON prompt separates subject, pose, camera, lighting and negative prompt into fields, which keeps the suit emblem, handrail grip and underwater blue light consistent. A 50 to 85mm portrait lens at eye level with moderate depth of field keeps the subject sharp against the night background.
+  zh: 嵌套的 JSON 结构把主体、姿势、镜头、灯光和负面提示分开写，让模型保持胸前徽章、扶手抓握和水下蓝光的一致。平视角加 50 到 85 毫米人像镜头与适中景深，主体清晰，背景柔和。
+prompt: |
+  {
+    "subject": {
+      "desc": "Young woman, fair skin, long straight brown hair over shoulders/back, symmetrical face with full lips, defined eyebrows, green-hazel eyes",
+      "apparel": {
+        "item": "One Piece inspired bodysuit",
+        "style": "Halter-neck sleeveless bodysuit",
+        "color": "Vibrant red base with bright white neon web pattern, red trim, large glowing white neon one piece emblem on chest",
+        "details": "Stretch fabric with neon red and white web design, matching neon red and white patterned thigh-high stockings"
+      },
+      "anatomy": {
+        "body_type": "Naturally proportioned hourglass figure",
+        "bust": "Full bust",
+        "hips": "Wide hips, full thighs, narrow waist",
+        "skin": "Smooth fair with natural tone variation"
+      }
+    },
+    "pose": {
+      "posture": "Standing on pool steps, body leaning slightly forward, weight balanced with both hands gripping the metal handrails on either side, hips angled naturally, one leg slightly forward on a higher step",
+      "limbs": {
+        "right_arm": "Extended to the side gripping the right metal handrail",
+        "left_arm": "Extended to the side gripping the left metal handrail",
+        "head": "Slight tilt, facing forward"
+      },
+      "gaze": "Direct eye contact, soft neutral confident expression"
+    },
+    "environment": {
+      "location": "Outdoor swimming pool at night",
+      "elements": [
+        "Crystal clear blue illuminated pool water with reflections",
+        "Metal pool handrails in foreground",
+        "Pool ladder and steps",
+        "Dark nighttime background with blurred greenery and warm yellow lights",
+        "Neon white written 'KeorUnreal' on wall in backdrop"
+      ]
+    },
+    "camera": {
+      "shot": "Medium (thighs up), vertical 3:4",
+      "angle": "Eye-level slightly frontal",
+      "lens": "50-85mm portrait",
+      "dof": "Moderate, sharp subject, slightly soft distinct background",
+      "framing": "Centered subject"
+    },
+    "lighting": "Vibrant blue pool lighting from underwater with neon reflections on water and skin, soft nighttime ambient lighting, highlights on body contours and fabric sheen",
+    "mood": "Confident calm, glamorous nighttime pool atmosphere",
+    "style": "Photorealistic smartphone photography, high-fidelity detailed fabric/skin textures, natural color grading, unstyled physical proportions",
+    "colors": "Vibrant neon red and white suit dominant, deep blue pool water, warm background lights, natural contrast/saturation",
+    "quality": "High-def sharp focus on eyes/face/suit pattern, low noise, minimal grain",
+    "negative_prompt": "small/reduced/flattened bust, lifted breasts, slimmed torso/hips, proportion averaging, plastic/airbrushed skin, beautification, stylization, depth flattening, wide distortion, mirror selfies, reflections, phone-in-hand"
+  }

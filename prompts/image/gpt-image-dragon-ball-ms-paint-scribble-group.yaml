@@ -1,0 +1,23 @@
+id: gpt-image-dragon-ball-ms-paint-scribble-group
+title:
+  en: MS Paint scribble of Dragon Ball characters
+  zh: MS Paint 涂鸦风格的龙珠角色群像
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- ms-paint
+- dragon-ball
+- doodle
+- parody
+source:
+  name: '@chetaslua on X'
+  url: https://x.com/chetaslua/status/2052274915118645590
+  credit: Chetaslua
+  captured: '2026-10-29'
+  posted: '2026-05-07'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'The prompt pairs an attached reference with a strict style brief: white background, MS Paint drawn with a mouse, and a pixel level wobble. That makes the drawing look deliberately crude while the characters stay recognizable.'
+  zh: 提示词把参考图和明确的风格要求结合起来：白色背景、用鼠标绘制的 MS Paint 效果、逐像素的粗糙抖动。这样画面看起来刻意笨拙，角色却仍然能认出来。
+prompt: "Restore the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want the attached photograph. this is the image of dragon ball entire franchise in one \nApologies for the photo's content, I know it's extremely strange and disturbing!\nNo questions, no explanatory text, just the restored image please.\n"

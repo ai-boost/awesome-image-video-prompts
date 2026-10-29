@@ -1,0 +1,49 @@
+id: seedance-zombie-express-sleeper-train
+title:
+  en: Zombie train cabin infection spreads through sleeper car
+  zh: 丧尸列车卧铺车厢感染扩散
+model: Seedance 2.5
+mode: reference-to-video
+tags:
+- horror
+- multi-shot
+- handheld-camera
+- slow-motion
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2095373753983369666
+  credit: doctorwasif
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2095373753983369666
+notes:
+  en: A numbered shot list with exact time ranges sets the beat sheet for 30 seconds, and each shot names its framing and speed, such as close up or slow motion. The image_1 reference locks the face and outfit, while the handheld and wide shots widen the scene from one bite to the whole corridor.
+  zh: 编号分镜并标注每个镜头的精确时间段，为 30 秒内容提供节拍表，每个镜头都写明景别和速度，如特写或慢动作。image_1 参考图锁定面部与服装，手持镜头与全景镜头把画面从一次咬伤扩展到整节车厢。
+prompt: |
+  Shot 1 (0.0–1.2s): <<<image_1>>>, face and outfit matching reference, lying in upper bunk of a dim sleeper cabin, feverish and sweating, eyes fluttering open, curtain half-drawn.
+  Shot 2 (1.2–2.2s): Close-up of her hand gripping the bunk edge, dark veins emerging beneath the skin, shallow breathing, blue nightlight.
+  Shot 3 (2.2–3.3s): Her eyes cloud milky white as her head stiffly tilts toward the bunk edge, eerie stillness.
+  Shot 4 (3.3–4.3s): Dark blood drips from her lips onto the curtain below, extreme close-up, slow motion.
+  Shot 5 (4.3–5.3s): A sleeping passenger stirs as another blood drop lands on his forehead.
+  Shot 6 (5.3–6.3s): Wide view of the stacked bunks, her silhouette slowly leaning over the edge above the sleeping passenger.
+  Shot 7 (6.3–7.5s): She drops silently onto the lower bunk, straddling him; curtain sways as her feral bloodshot eyes fill the frame.
+  Shot 8 (7.5–8.7s): She bites deeply into his neck; his eyes snap open in shock and pain, slow-motion impact.
+  Shot 9 (8.7–9.8s): Close-up of the wound as dark veins rapidly branch across his skin.
+  Shot 10 (9.8–10.8s): His body convulses violently, curtain thrashing as the cabin light flickers.
+  Shot 11 (10.8–11.8s): His eyes turn milky white, jaw twitching as dark veins spread across his face.
+  Shot 12 (11.8–12.8s): He throws his head back with an inhuman scream, ripping the curtain open.
+  Shot 13 (12.8–13.8s): A nearby passenger wakes and cautiously peers from his bunk into the corridor.
+  Shot 14 (13.8–14.8s): The infected passenger suddenly lunges into the corridor and attacks him.
+  Shot 15 (14.8–15.8s): Chaos erupts; curtains rip open as passengers wake to screams, handheld frantic camera.
+  Shot 16 (15.8–16.8s): A newly bitten passenger convulses against the wall as dark veins spread, others retreat in panic.
+  Shot 17 (16.8–17.8s): The infected turns and lunges at nearby passengers, spreading chaos through the narrow corridor.
+  Shot 18 (17.8–18.8s): Passengers scramble over each other to escape, luggage and curtains tumbling around them.
+  Shot 19 (18.8–19.8s): A conductor grabs a fire extinguisher, bracing himself as infected rush toward him.
+  Shot 20 (19.8–21.0s): He blasts an infected passenger with white extinguisher foam, filling the corridor as it recoils.
+  Shot 21 (21.0–22.5s): Survivors rush to the connecting door and slam it shut as infected hands claw through.
+  Shot 22 (22.5–24.0s): They wedge luggage and a fold-down seat against the door, breathing hard as pounding continues.
+  Shot 23 (24.0–25.5s): Close-up of infected faces pressing against the door window, cracks spreading across the glass.
+  Shot 24 (25.5–27.0s): A survivor pulls two children close, shielding them as the pounding grows louder.
+  Shot 25 (27.0–28.5s): Wide shot of survivors huddled in the next car, sealed door shuddering behind them under red emergency lights.
+  Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the night, sleeper windows flickering with chaos inside, ominous ending.

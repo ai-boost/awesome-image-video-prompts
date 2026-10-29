@@ -1,0 +1,34 @@
+id: nano-banana-spidey-girl-golden-hour-skyscraper
+title:
+  en: Blonde spider suit heroine climbing a sunset glass tower
+  zh: 金发蜘蛛装女英雄在夕阳下攀爬玻璃高楼
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- superhero
+- golden-hour
+- cinematic
+- photorealistic
+source:
+  name: '@Document195 on X'
+  url: https://x.com/Document195/status/2031008869775016223
+  credit: Dockie
+  likes: 64
+  captured: '2026-10-29'
+  posted: '2026-03-09'
+notes:
+  en: The prompt anchors the subject with costume, hair, and setting, then uses golden hour light reflecting off the glass and an 85mm shallow depth of field for a cinematic look. Keeping the action as one short pose phrase helps the figure read clearly mid-climb.
+  zh: 提示词用服装、发色和场景锁定主体，再以黄金时刻的光线映照玻璃幕墙，并加入 85 毫米镜头和浅景深形成电影感。把动作概括为一个简短的姿势描述，人物在攀爬中的轮廓更清晰。
+prompt: |
+  http://
+  wondercat.ai Nano Banana 2💜
+
+  {
+    "prompt": "female superhero in red and blue spider suit climbing a glass skyscraper at sunset, long blonde hair flowing in the wind, city skyline in background, golden hour lighting reflecting on glass building, dynamic action pose, cinematic superhero scene, ultra detailed, photorealistic, 85mm lens",
+    "negative_prompt": "low quality, blurry, distorted body, extra limbs, bad anatomy, watermark, text",
+    "style": "cinematic superhero photography",
+    "lighting": "golden hour sunset",
+    "camera": "85mm, shallow depth of field",
+    "resolution": "1024x1536"
+  }

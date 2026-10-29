@@ -1,0 +1,37 @@
+id: gpt-image-cheese-universe-pizza-slice-city-ad
+title:
+  en: Woman lifts pizza slice into a glowing cheese vortex
+  zh: 女子举起披萨块，拉出发光芝士漩涡
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- food-ad
+- cheese-stretch
+- text-in-image
+- cinematic
+source:
+  name: '@Itswsm105f on X'
+  url: https://x.com/Itswsm105f/status/2058147639020187754
+  credit: Zyro AI
+  likes: 164
+  captured: '2026-10-29'
+  posted: '2026-05-23'
+notes:
+  en: Labelled sections for background, lighting, typography and style keep each instruction separate, and the exact headline and tagline are spelled out so the text lands verbatim. Naming the cheese stretch as the hero action and placing the miniature city inside the slice gives the image one clear focal idea.
+  zh: 用带标题的分段（背景、光线与特效、排版、风格）把每项要求分开，并逐字写出主标题和副标题，文字才能准确呈现。把芝士拉丝作为核心动作、把迷你城市放在披萨块内部，画面就有了清晰的焦点。
+prompt: |
+  A hyper-realistic cinematic food advertisement in vertical 9:16 format featuring a stylish young woman  wearing a modern red-and-black streetwear outfit with transparent eyeglasses. She is holding a giant Pizza Hut pizza slice toward the camera while pulling it upward in a dramatic cheese stretch pose.
+  The melted cheese stretches infinitely in glowing golden strands, forming a magical cheese vortex in the air. Floating pepperoni slices spin like planets, and steam rises in cinematic slow motion. Inside the pizza slice, a miniature glowing pizza city exists
+
+  BACKGROUND:
+  A warm Italian-inspired cinematic city at golden sunset with glowing brick streets, soft ambient lights, and blurred pizzerias in the distance. The atmosphere feels cozy, premium, and appetizing.
+
+  LIGHTING & EFFECTS:
+  Golden hour glow, cinematic steam, cheese light reflections, floating herbs, shallow depth of field, warm food photography lighting, soft bokeh highlights.
+
+  TYPOGRAPHY:
+  “CHEESE UNIVERSE”
+  “MORE THAN PIZZA. IT’S AN EXPERIENCE.”
+
+  STYLE: Ultra-realistic 8K food commercial, premium cinematic advertising.

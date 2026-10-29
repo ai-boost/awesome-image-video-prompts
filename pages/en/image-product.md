@@ -1,6 +1,37 @@
 # Product shots and e-commerce
 
-[Back to the list](../../README.md) · All 36 entries
+[Back to the list](../../README.md) · All 71 entries
+
+<a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
+### Woman leaning on giant Pepsi can ad
+
+<a href="https://x.com/mehvishs25/status/2047829613502754919"><img src="../../previews/gpt-image-giant-pepsi-can-seated-model-ad.jpg" width="360"></a>
+
+The scale contrast carries the image: a can nearly as tall as the seated subject, with a reference image pinned to keep her face consistent. Thin callouts and a plain studio gradient keep the ad minimal and premium.
+
+GPT Image 2 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2047829613502754919) · 912 likes on 2026-10-29
+
+[`product-ad`](tags.md#tag-product-ad) [`scale-contrast`](tags.md#tag-scale-contrast) [`reference-face`](tags.md#tag-reference-face) [`infographic`](tags.md#tag-infographic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A premium infographic-style visual featuring an oversized Pepsi can placed beside a young woman. The can is scaled to be nearly the same size as her entire seated body, creating a striking, surreal proportion. The woman sits casually leaning against the giant can, one arm resting on it, interacting naturally with the object.
+Her face must closely match the provided reference image, accurate facial structure, skin tone, hairstyle, and expression — polished, realistic, and visually appealing.
+The Pepsi can is ultra-detailed with crisp branding, condensation droplets, realistic reflections, and metallic texture. The logo is clean, sharp, and properly proportioned.
+Composition is modern and minimal, set in a clean studio or soft gradient background. Include subtle infographic-style elements such as thin annotation lines, minimal labels, or callouts highlighting features like “refreshment,” “carbonation,” or “chilled texture,” but keep it elegant and uncluttered.
+Lighting is soft studio lighting with controlled highlights and shadows, giving a premium advertising look. The model is styled in minimal, contemporary clothing that complements the red, white, and blue tones of the can.
+Color grading is crisp and slightly vibrant, with a commercial ad aesthetic. Balanced composition, sharp focus, slight depth of field for realism.
+Style: high-end product infographic, commercial beverage advertisement, clean UI-inspired annotations
+Resolution: ultra high resolution, 4K, highly detailed, photorealistic
+
+85mm lens, f/2.8
+hyper-realistic, studio quality
+no distortion, correct proportions
+clean typography, modern layout
+```
+
+</details>
 
 <a id="gpt-image-iced-coffee-glass-studio-product-photo"></a>
 ### Iced coffee with milk swirls in frosted glass
@@ -59,6 +90,30 @@ Nano Banana 2 · Text-to-image · Source: [@Arminn_Ai on X](https://x.com/Arminn
 
 ```text
 A photorealistic, highly detailed commercial product photograph of a standard aluminum [Type of Soda Can] centered against a minimal, textured [Background Color] paper background, with subtle fibers visible. A single, continuous horizontal paper-tear strip runs across the entire width of the frame, seamless from the far-right edge to the far-left edge. The torn channel cuts through the metal body of the can and continues across the background on both sides with a barely perceptible and minimal diagonal slope towards the upper-left. The tear channel is significantly broader, revealing a dense, glistening, and vibrant layer of [Description of Fruit Segments/Sacs/Berries] tightly packed inside. Near the extreme far-left end of this tear, the paper is neatly rolled into a tight, realistic coil that occupies almost the entire left margin. The can features a newly designed, minimalist branding: the upper portion has a stylized, abstract line-art illustration of [Fruit Branch/Plant] in a contrasting [Ink Color], set against a subtle matte geometric [Pattern Type] pattern on the can surface. Below this, the brand name "[Brand Name]" is printed in an elegant, modern dark typography, with smaller technical text "330ml - NATURAL EXTRACT" and a small "Recyclable" logo. A small, detailed graphic of the fruit is located below the torn path. The lighting is soft and cinematic, casting delicate drop shadows beneath the torn paper edges and the large left coil. 8k resolution, macro details on fibrous paper and glossy fruit texture.
+```
+
+</details>
+
+<a id="nano-banana-radial-exploded-view-smartphone"></a>
+### Exploded smartphone with labeled components on dark background
+
+<a href="https://x.com/AllaAisling/status/2032126653309030481"><img src="../../previews/nano-banana-radial-exploded-view-smartphone.jpg" width="360"></a>
+
+Separate material cues for glass, aluminium, PCB and rubber give each component its own surface, and fixed slots for the title, spec block and label typography keep the layout consistent. Cool overhead light, warm amber underlighting on the internals and a thin blue rim on the shell separate the layers against the dark background.
+
+Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2032126653309030481) · 468 likes on 2026-10-28
+
+[`exploded-view`](tags.md#tag-exploded-view) [`product-teardown`](tags.md#tag-product-teardown) [`3d-render`](tags.md#tag-3d-render) [`infographic-labels`](tags.md#tag-infographic-labels) [`dark-background`](tags.md#tag-dark-background)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Prompt Studio: 3D Radial Explosion with Nano Banana 2 in Firefly
+
+Hyperrealistic 3D radial exploded view of [PRODUCT]  [NUMBER] components  bursting outward from a central axis in every direction, frozen in mid-air.  True spatial explosion, not a vertical stack, depth and parallax visible.  COMPONENTS (core outward): [SHELL] → [DISPLAY] → [FRAME] → [MAINBOARD] →  [BATTERY] → [MICRO PARTS shown in 3x floating callout circles]  MATERIALS: glass refracts and catches specular highlights, aluminium shows  brushed grain and machined edges, PCB traces glow faintly amber,   rubber gaskets matte with micro-texture, cables with soft bend physics.  LABELS: hairline leader to floating box. "[COMPONENT]" uppercase /  "[FUNCTION]" italic / "[KEY SPEC]" monospace. Radiate outward, no overlaps.  LIGHTING: cool diffused overhead + warm amber underlighting on internals +  thin blue rim on outer shell. Displays emit soft UI glow. Circuits self-illuminate.  BACKGROUND: [COLOR], deep, non-reflective. Midnight black recommended. TITLE: "[PRODUCT NAME]" top right. SUBTITLE: "[TAGLINE]".  SPEC BLOCK: "[SPEC 1] / [SPEC 2] / [SPEC 3]" bottom left in monospace.  Mood: iFixit teardown meets NASA manual meets WIRED cover. 4K, tack sharp, extraordinary material fidelity.
+
+Check ALTs for ideas 👇
+@AdobeFirefly
 ```
 
 </details>
@@ -125,6 +180,64 @@ Check ALTs for ideas 👇
 
 </details>
 
+<a id="nano-banana-product-storyboard-3x3-grid"></a>
+### Perfume bottle shown in a 3x3 storyboard grid
+
+<a href="https://x.com/arceyul/status/2027526257018024246"><img src="../../previews/nano-banana-product-storyboard-3x3-grid.jpg" width="360"></a>
+
+A reference photo anchors the product so the label and proportions stay fixed across all nine frames. Each panel gets its own angle and framing, while shared lighting logic and palette keep the set reading as one series.
+
+Nano Banana 2 · Edit · Source: [@arceyul on X](https://x.com/arceyul/status/2027526257018024246) · 207 likes on 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`product-mockup`](tags.md#tag-product-mockup) [`grid`](tags.md#tag-grid) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Crea UNA imagen final.
+
+Un storyboard limpio en cuadrícula 3×3 con nueve paneles iguales en proporción [ratio], dentro de un formato total 4:5.
+
+Usa la imagen de referencia como base del producto. Mantén exactamente el mismo producto, diseño del packaging, branding, materiales, colores, proporciones e identidad general en los nueve paneles, tal como en la referencia. El producto debe ser claramente reconocible en cada frame. La etiqueta, el logo y las proporciones deben permanecer exactamente iguales.
+
+Este storyboard es una presentación mockup de alto nivel para un portfolio de branding. El enfoque está en la forma, la composición, la materialidad y el ritmo visual, más que en el realismo o una narrativa lifestyle. El resultado debe sentirse curado, editorial y orientado al diseño.
+
+FRAME 1:
+Plano frontal hero del producto en un entorno de estudio limpio. Fondo neutro, composición equilibrada, presentación calmada y segura del producto.
+
+FRAME 2:
+Primer plano con el enfoque centrado en la parte media del producto. Se destacan la textura de la superficie, los materiales y los detalles de impresión.
+
+FRAME 3:
+El producto de referencia colocado en un entorno que encaja naturalmente con la marca y la categoría del producto. Escenario de estudio inspirado en los elementos de diseño y colores del producto.
+
+FRAME 4:
+Producto mostrado en uso o en interacción sobre un fondo de estudio neutro. Las manos y los elementos de interacción son mínimos y discretos, manteniendo el estilo del packaging.
+
+FRAME 5:
+Composición isométrica que muestra varios productos organizados en un orden geométrico preciso desde un ángulo isométrico superior. Todos los productos están colocados con el mismo ángulo isométrico, espaciados de forma uniforme, limpios, estructurados y gráficos.
+
+FRAME 6:
+Producto levitando ligeramente, inclinado sobre un fondo neutro que coincida con la paleta de colores de la imagen de referencia. La posición flotante es intencional y natural en el espacio.
+
+FRAME 7:
+Primerísimo primer plano centrado en un detalle específico de la etiqueta, el borde, la textura o el comportamiento del material.
+
+FRAME 8:
+El producto en un entorno inesperado pero estéticamente potente, con un enfoque audaz, editorial y visualmente impactante. Escenario inesperado pero altamente estilizado, basado en estudio y dirigido por diseño. Composición fuerte que eleva la marca.
+
+FRAME 9:
+Composición amplia que muestra el producto en uso dentro de un setup de diseño refinado. Props limpios, estilismo controlado y coherente con el resto de la serie.
+
+CÁMARA Y ESTILO:
+Imágenes de estudio de ultra alta calidad con apariencia de cámara real. Diferentes ángulos y encuadres en cada frame. Profundidad de campo controlada, iluminación precisa, materiales y reflejos realistas. La lógica de iluminación, la paleta de colores, el mood y el lenguaje visual deben mantenerse consistentes en los nueve paneles como una sola serie cohesionada.
+
+OUTPUT:
+Una cuadrícula limpia 3×3 sin bordes, sin texto, sin captions y sin marcas de agua.
+```
+
+</details>
+
 <a id="nano-banana-cartoon-food-packaging"></a>
 ### Four cartoon food packages with window reveals
 
@@ -140,6 +253,25 @@ Nano Banana 2 · Text-to-image · Source: [@azed_ai on X](https://x.com/azed_ai/
 
 ```text
 Playful designer packaging for [product name], creative box shaped like the product, integrated cartoon face on the front panel, oversized die-cut window revealing the real contents as part of the character’s expression, smooth matte cardboard material, bold flat graphic design, modern minimalist branding, limited pastel color palette, rounded friendly shapes, clean typography, high-end 3D packaging mockup render, soft studio lighting, pure white background, subtle realistic contact shadow beneath, ultra-detailed, retail-ready presentation, 1:1 aspect ratio.
+```
+
+</details>
+
+<a id="nano-banana-miniature-pizza-hut-showroom-palm"></a>
+### Miniature Pizza Hut showroom on a palm
+
+<a href="https://x.com/Naiknelofar788/status/2044605023557222629"><img src="../../previews/nano-banana-miniature-pizza-hut-showroom-palm.jpg" width="360"></a>
+
+A template with [YOUR BRAND] and [PRODUCTS] slots that can be filled for any retailer. The palm acts as a scale cue, the transparent walls show tiny figures inside, and warm cinematic lighting makes the miniature read like a real product shot.
+
+Nano Banana 2 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2044605023557222629) · 185 likes on 2026-10-29
+
+[`miniature`](tags.md#tag-miniature) [`diorama`](tags.md#tag-diorama) [`brand-showroom`](tags.md#tag-brand-showroom) [`palm-scale`](tags.md#tag-palm-scale)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+An ultra-realistic miniature [YOUR BRAND] showroom balanced on a human palm, designed with transparent glass walls. Inside, tiny lifelike figures are enjoying [PRODUCTS]. On the rooftop, a glowing 3D logo shines brightly, while the front facade displays the brand name in a bold, recognizable typeface. Outside the showroom, a miniature delivery person is standing with a branded delivery bag strapped to their back, ready to deliver orders.The showroom’s interior is styled like a cozy retail outlet, with miniature products and branding details on display. Lighting is cinematic with warm tones, crisp details, and natural shadows. Captured in professional product photography style, the scene conveys a vibrant, iconic, and instantly recognizable atmosphere. 1080x1080 dimension.
 ```
 
 </details>
@@ -165,6 +297,29 @@ prompt: UV unwrapped albedo texture map of a hard surface box device, flat 2D la
 
 </details>
 
+<a id="nano-banana-fifa-2026-trophy-architectural-template"></a>
+### Gold FIFA 2026 trophy in chrome cage frame
+
+<a href="https://x.com/ShamsAmin56/status/2065836139429384468"><img src="../../previews/nano-banana-fifa-2026-trophy-architectural-template.jpg" width="360"></a>
+
+A fill-in template locks the studio setup (off-white #F5F5F0 backdrop, centered low-angle framing, studio lighting, 9:16 ratio) while the bracketed slots swap the architectural style. Keeping the lighting and material cues fixed keeps the gold silhouette and FIFA 2026 engraving readable whatever style is slotted in.
+
+Nano Banana 2 · Text-to-image · Source: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2065836139429384468) · 181 likes on 2026-10-29
+
+[`fifa`](tags.md#tag-fifa) [`product-render`](tags.md#tag-product-render) [`template`](tags.md#tag-template) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A highly detailed, photorealistic product render of the FIFA 2026 World Cup trophy, featuring the iconic golden silhouette with modern geometric updates and subtle "2026" engraving. The trophy is reimagined through the lens of [ARCHITECTURAL STYLE], incorporating [KEY STYLE ELEMENTS: e.g., stepped geometries, raw material textures, soaring vertical lines, fluid parametric curves, or ornate classical motifs]. Centered vertical composition, eye-level perspective with a slight low-angle framing to emphasize monumentality. Studio three-point lighting with soft directional highlights, emphasizing metallic gold surfaces paired with [STYLE MATERIAL: e.g., polished brass, matte stone, brushed titanium, or frosted glass]. Seamless off-white background (#F5F5F0), clean and uncluttered, grounded with a soft, natural drop shadow. High-end product photography style, Octane Render, ultra-detailed textures, photorealistic, --ar 9:16 --v 6.0 --style raw
+
+Super Easy To Edit:
+
+Type your favorite style in the bracket [ARCHITECTURAL STYLE]
+```
+
+</details>
+
 <a id="gpt-image-giant-chocolate-bar-snowy-valley"></a>
 ### Giant chocolate bar towering over snowy mountain valley
 
@@ -180,6 +335,91 @@ GPT Image 2 · Text-to-image · Source: [@Urwa_345 on X](https://x.com/Urwa_345/
 
 ```text
 Ultra-realistic cinematic chocolate advertisement featuring a gigantic premium chocolate bar standing vertically in the middle of a beautiful snowy mountain valley. The chocolate bar is dramatically oversized, towering above the surrounding landscape. Rich glossy chocolate texture with realistic details and elegant premium packaging. Hundreds of tiny people stand nearby taking photographs while snow-covered mountains rise dramatically in the background. Pieces of chocolate appear to float around the giant product as if gravity has stopped. Warm golden sunlight breaks through the clouds, creating a magical luxurious glow. Cinematic atmosphere, realistic snow reflections, highly detailed textures, photorealistic product photography, premium food advertising aesthetic, 8K, sharp focus, vertical 9:16 composition, realistic proportions, no distortion, no watermark, no extra text
+```
+
+</details>
+
+<a id="gpt-image-cheese-universe-pizza-slice-city-ad"></a>
+### Woman lifts pizza slice into a glowing cheese vortex
+
+<a href="https://x.com/Itswsm105f/status/2058147639020187754"><img src="../../previews/gpt-image-cheese-universe-pizza-slice-city-ad.jpg" width="360"></a>
+
+Labelled sections for background, lighting, typography and style keep each instruction separate, and the exact headline and tagline are spelled out so the text lands verbatim. Naming the cheese stretch as the hero action and placing the miniature city inside the slice gives the image one clear focal idea.
+
+GPT Image 2 · Text-to-image · Source: [@Itswsm105f on X](https://x.com/Itswsm105f/status/2058147639020187754) · 164 likes on 2026-10-29
+
+[`food-ad`](tags.md#tag-food-ad) [`cheese-stretch`](tags.md#tag-cheese-stretch) [`text-in-image`](tags.md#tag-text-in-image) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hyper-realistic cinematic food advertisement in vertical 9:16 format featuring a stylish young woman  wearing a modern red-and-black streetwear outfit with transparent eyeglasses. She is holding a giant Pizza Hut pizza slice toward the camera while pulling it upward in a dramatic cheese stretch pose.
+The melted cheese stretches infinitely in glowing golden strands, forming a magical cheese vortex in the air. Floating pepperoni slices spin like planets, and steam rises in cinematic slow motion. Inside the pizza slice, a miniature glowing pizza city exists
+
+BACKGROUND:
+A warm Italian-inspired cinematic city at golden sunset with glowing brick streets, soft ambient lights, and blurred pizzerias in the distance. The atmosphere feels cozy, premium, and appetizing.
+
+LIGHTING & EFFECTS:
+Golden hour glow, cinematic steam, cheese light reflections, floating herbs, shallow depth of field, warm food photography lighting, soft bokeh highlights.
+
+TYPOGRAPHY:
+“CHEESE UNIVERSE”
+“MORE THAN PIZZA. IT’S AN EXPERIENCE.”
+
+STYLE: Ultra-realistic 8K food commercial, premium cinematic advertising.
+```
+
+</details>
+
+<a id="nano-banana-amber-perfume-forced-perspective-shira"></a>
+### Oversized amber perfume bottle with leaning woman
+
+<a href="https://x.com/Maercihh/status/2038838341572178374"><img src="../../previews/nano-banana-amber-perfume-forced-perspective-shira.jpg" width="360"></a>
+
+A 24mm wide lens shot from low down makes the bottle loom over the model, and the shallow depth of field keeps focus on the label. Naming the palette outright (terracotta walls, amber glass, mustard checkered floor) keeps the colors consistent.
+
+Nano Banana 2 · Text-to-image · Source: [@Maercihh on X](https://x.com/Maercihh/status/2038838341572178374) · 163 likes on 2026-10-29
+
+[`product-photography`](tags.md#tag-product-photography) [`forced-perspective`](tags.md#tag-forced-perspective) [`perfume`](tags.md#tag-perfume) [`warm-palette`](tags.md#tag-warm-palette)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "settings": {
+    "aspect_ratio": "4:5",
+    "resolution": "1024x1280",
+    "style": "photorealistic",
+    "lighting": "soft diffused studio lighting with warm tones",
+    "camera": "wide angle lens (24mm), low perspective",
+    "depth_of_field": "shallow, focus on perfume bottle",
+    "color_grading": "warm cinematic, terracotta and amber tones",
+    "render_quality": "high detail, natural textures, no plastic skin",
+    "motion": "still frame",
+    "grain": "subtle film grain"
+  },
+  "prompt": "A surreal forced-perspective product shot of a large amber glass perfume bottle labeled 'ZAHARBAAD SHIRA' in the foreground, held by a woman's hand with soft pink nails. In the background, a stylish woman with short wavy dark hair, wearing round sunglasses, a beige jacket, green skirt, and pink heels, leans forward curiously toward the oversized bottle. The room is minimal and geometric with warm terracotta walls, an arched doorway, and a retro checkered floor in mustard and brown tones. The lighting is soft and warm, creating gentle shadows and a premium editorial feel. Realistic skin texture, natural reflections on glass, accurate scale illusion, no over-smoothing, no CGI look.",
+  "negative_prompt": "blurry, low resolution, distorted proportions, extra fingers, plastic skin, overexposed highlights, harsh shadows, unrealistic reflections, text errors, watermark, logo artifacts"
+}
+```
+
+</details>
+
+<a id="gpt-image-nike-tubing-shoe-bag-render"></a>
+### Blue rubber tubing shoe bag with red swoosh
+
+<a href="https://x.com/Just_sharon7/status/2077034244988150062"><img src="../../previews/gpt-image-nike-tubing-shoe-bag-render.jpg" width="360"></a>
+
+The prompt describes the object as bent industrial rubber tubing with material physics terms such as elastomer texture, compression, stretch and grippy surface, so the form reads as a real manufactured product. A pure white seamless background with soft diffused light and a contact shadow gives a clean catalogue-style studio render.
+
+GPT Image 2 · Text-to-image · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2077034244988150062) · 162 likes on 2026-10-29
+
+[`3d-render`](tags.md#tag-3d-render) [`product`](tags.md#tag-product) [`rubber-tubing`](tags.md#tag-rubber-tubing) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.
 ```
 
 </details>
@@ -234,6 +474,25 @@ Composition: centered hero shot, macro food photography, shallow depth of field,
 
 </details>
 
+<a id="gpt-image-giant-lip-essence-tube-city-boulevard-ad"></a>
+### Giant red lip tube towers over wet city boulevard
+
+<a href="https://x.com/Its_Saad_kkk/status/2091748835328512255"><img src="../../previews/gpt-image-giant-lip-essence-tube-city-boulevard-ad.jpg" width="360"></a>
+
+Anchors the oversized product with real city context, such as cars and pedestrians photographing it, so the scale reads as believable. Quoting the exact pack text and adding a no extra text clause keeps the branding clean and legible.
+
+GPT Image 2 · Text-to-image · Source: [@Its_Saad_kkk on X](https://x.com/Its_Saad_kkk/status/2091748835328512255) · 146 likes on 2026-10-29
+
+[`product-ad`](tags.md#tag-product-ad) [`surreal-scale`](tags.md#tag-surreal-scale) [`city-street`](tags.md#tag-city-street) [`beauty`](tags.md#tag-beauty)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic cinematic product advertisement featuring a giant glossy deep-red lip essence tube standing vertically in the center of a busy grand city boulevard after rain. The product is dramatically oversized, towering above the surrounding buildings and vehicles. Minimal premium packaging with bold white “LPSS” branding and smaller text reading “LIP ESSENCE – NATURAL CARE – Moisturizing Treatment.” Wet reflective road surface with realistic reflections, cars driving around the product, pedestrians walking and photographing it with smartphones. Elegant historic European-style architecture on both sides, beautiful golden-domed cathedral visible in the background, dramatic blue sky filled with soft golden sunset clouds, warm sunlight creating a luxurious glow. Highly detailed realistic textures, accurate product reflections, cinematic lighting, shallow atmospheric depth, photorealistic photography, premium beauty campaign aesthetic, 8K, sharp focus, realistic proportions, vertical composition, no distortion, no extra text, no watermark.
+```
+
+</details>
+
 <a id="nano-banana-luxury-watch-macro-contact-sheet"></a>
 ### Luxury blue dial watch macro shot grid
 
@@ -250,6 +509,25 @@ Nano Banana 2 · Text-to-image · Source: [@kellyyjjones on X](https://x.com/kel
 ```text
 Ultra-realistic cinematic luxury fashion commercial featuring a confident, well-dressed gentleman wearing an elegant premium luxury wristwatch. He is dressed in a perfectly tailored black suit, crisp white shirt, and silk tie, standing inside a modern luxury penthouse overlooking a breathtaking city skyline at golden hour. The camera begins with an extreme macro close-up of the luxury watch on his wrist, revealing the flawless sapphire crystal, polished stainless-steel case, deep sunburst dial, luminous hands, diamond-cut hour markers, and smooth sweeping second hand. As he adjusts his cuff, the watch catches the warm sunlight, creating beautiful cinematic reflections. The camera slowly circles around his wrist while the intricate mechanical movement is visible through the transparent exhibition case back. Premium leather strap with handcrafted stitching, scratch-resistant finish, exceptional craftsmanship, precision engineering, timeless elegance, luxury lifestyle, confidence, success, sophistication. Soft golden sunlight, volumetric lighting, shallow depth of field, realistic skin textures, premium fashion photography, smooth cinematic camera movement, ARRI Alexa 65 look, 8K HDR, hyper-realistic, luxury advertisement, masterpiece quality, no logos, no text, no watermark.Ultra-realistic cinematic luxury watch commercial,
  8-second sequence. The film opens with an extreme macro shot of a premium luxury wristwatch emerging from darkness as a single golden spotlight slowly illuminates every detail. The camera performs a smooth 360° orbit around the watch while the polished stainless-steel case reflects elegant studio lights. The sapphire crystal sparkles with flawless clarity, revealing a deep sunburst dial with diamond-cut hour markers and precision-crafted luminous hands. The sweeping second hand moves perfectly smoothly, emphasizing the high-precision automatic movement. The camera transitions into the transparent exhibition case back, where hundreds of intricate mechanical gears, polished bridges, ruby jewels, and the oscillating balance wheel move in perfect harmony. Slow-motion water droplets glide across the scratch-resistant sapphire crystal and premium metal case, demonstrating exceptional water resistance. Fine leather strap stitching and luxury finishing are revealed through cinematic macro close-ups. Floating golden dust particles, soft volumetric lighting, elegant reflections, dramatic black background, shallow depth of field, premium product cinematography, ARRI Alexa 65 look, 8K HDR, hyper-realistic textures, smooth camera motion, luxury advertisement, timeless elegance, precision engineering, exclusivity, masterpiece quality, no text, no logos, no watermark.
+```
+
+</details>
+
+<a id="nano-banana-logo-mirror-glaze-cakes"></a>
+### Four social media logos as mirror glaze cakes
+
+<a href="https://x.com/azed_ai/status/2038254924207886653"><img src="../../previews/nano-banana-logo-mirror-glaze-cakes.jpg" width="360"></a>
+
+A [brand name] slot lets one template turn any logo into a dessert, and the bite mark showing sponge and cream layers adds a tactile cue. The pure white background and soft lighting isolate the object and keep attention on the glaze.
+
+Nano Banana 2 · Text-to-image · Source: [@azed_ai on X](https://x.com/azed_ai/status/2038254924207886653) · 124 likes on 2026-10-29
+
+[`food-sculpture`](tags.md#tag-food-sculpture) [`mirror-glaze`](tags.md#tag-mirror-glaze) [`logo-design`](tags.md#tag-logo-design) [`product-photography`](tags.md#tag-product-photography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+minimalist luxury product photography of an edible sculpture inspired by the [brand name] logo, logo transformed into a refined dessert object, bold monochrome mirror glaze matching brand identity, ultra smooth glossy surface with realistic light reflections, isolated on a pure white background, subtle soft shadow grounding the object, single elegant bite mark revealing layered sponge and creamy filling inside, visible texture contrast between glaze and cake interior, delicate natural crumbs, soft high-key studio lighting, clean minimal composition with balanced negative space, contemporary premium advertising aesthetic, hyper-realistic detail, ultra sharp focus
 ```
 
 </details>
@@ -371,6 +649,184 @@ Luxury cosmetic campaign style, ultra-photorealistic, cinematic lighting, premiu
 
 </details>
 
+<a id="nano-banana-mamaearth-vitamin-c-serum-nature-glow"></a>
+### Mamaearth vitamin C serum with citrus and turmeric
+
+<a href="https://x.com/Diplomeme/status/2070816926872601002"><img src="../../previews/nano-banana-mamaearth-vitamin-c-serum-nature-glow.jpg" width="360"></a>
+
+The prompt fixes the hero bottle at 35% to 45% of frame height and gives the exact headline and subline, so the layout reads as a clean ad poster. Describing layered surfaces like a wet acrylic block and water ripples, plus a named lens and softbox lighting, produces the glossy studio look.
+
+Nano Banana 2 · Text-to-image · Source: [@Diplomeme on X](https://x.com/Diplomeme/status/2070816926872601002) · 107 likes on 2026-10-29
+
+[`skincare`](tags.md#tag-skincare) [`product-shoot`](tags.md#tag-product-shoot) [`poster`](tags.md#tag-poster) [`ingredients`](tags.md#tag-ingredients)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Act as a senior beauty art director and elite FMCG product photographer specializing in premium skincare campaigns for high-conversion social media advertising.
+
+Create an ultra-premium product shoot social media poster for Mamaearth serum in vertical 4:5 format.
+
+OBJECTIVE:
+Create a premium yet approachable skincare advertisement that communicates hydration, purity, natural ingredients, and toxin-free goodness while staying true to Mamaearth’s clean botanical brand identity.
+
+ART DIRECTION:
+Clean FMCG luxury.
+Fresh, bright, natural.
+Premium but accessible.
+Modern skincare advertising.
+Minimal clutter.
+High-conversion SMM quality.
+
+BRAND IDENTITY:
+Strict Mamaearth branding.
+
+Primary colors:
+Mint green
+Sky blue
+Soft white
+Botanical green
+
+HERO PRODUCT:
+A premium Mamaearth serum bottle positioned centrally, occupying 35–45% of frame height.
+Perfect label readability.
+Sharp glass bottle edges.
+Luxury dropper cap.
+Hyper-detailed transparent serum liquid visible inside bottle.
+No distortion.
+
+ENVIRONMENT:
+Environmental luxury skincare setup inspired by nature and hydration.
+
+Use layered premium surfaces:
+translucent acrylic blocks,
+wet reflective glass platform,
+soft water ripples,
+floating botanical leaves,
+natural ingredient elements.
+
+Environment should feel fresh, bright, and clean.
+
+INGREDIENT STORY:
+Surround product with premium hero ingredients relevant to serum formulation:
+vitamin C citrus slices,
+turmeric particles,
+aloe gel droplets,
+water splash arcs,
+hyaluronic acid droplets.
+
+Ingredients should feel realistic and premium.
+No clutter.
+
+SURFACE DETAILS:
+Wet glossy surfaces.
+Subtle condensation.
+Tiny water droplets.
+Reflective premium surfaces.
+
+LIGHTING:
+Soft diffused beauty lighting.
+Large softbox reflections.
+Clean hydration glow.
+Gentle specular highlights on bottle.
+Soft shadows.
+Translucent glow through serum liquid.
+
+DETAIL SHOTS:
+Visible macro details:
+serum droplet suspended mid-air,
+glass reflections,
+liquid viscosity,
+label embossing,
+micro condensation.
+
+TYPOGRAPHY:
+Minimal premium SMM typography.
+
+Main headline:
+NATURE’S GLOW.
+
+Secondary copy:
+Hydrate • Repair • Brighten
+
+Clean modern sans-serif.
+Bold but elegant.
+
+CAMERA:
+Shot on Phase One XF IQ4
+100mm macro lens
+Luxury product photography
+Shallow depth of field
+
+COLOR SYSTEM:
+Strict controlled palette using Mamaearth brand colors.
+Soft green-blue gradients.
+Fresh botanical highlights.
+
+POST PROCESS:
+Subtle bloom
+Micro contrast sharpening
+Beauty retouch
+Premium FMCG campaign polish
+
+QUALITY:
+Hyper-realistic
+Photorealistic skincare advertising
+Premium social media campaign
+Ultra-detailed
+8K UHD
+
+NEGATIVE:
+No AI artifacts
+No warped bottle
+No distorted label
+No clutter
+No cheap ecommerce aesthetics
+No oversaturated colors
+```
+
+</details>
+
+<a id="gpt-image-kfc-red-claw-machine-fried-chicken"></a>
+### Red KFC claw machine stocked with fried chicken buckets
+
+<a href="https://x.com/harboriis/status/2058103785306878367"><img src="../../previews/gpt-image-kfc-red-claw-machine-fried-chicken.jpg" width="360"></a>
+
+The prompt is a fill-in template, so the brand, colour and contents can be swapped while the structure stays fixed. Material words like glossy painted metal, crystal glass and polished edges, plus a symmetrical 3:4 frame on a monochrome backdrop, give it a premium product-display look.
+
+GPT Image 2 · Text-to-image · Source: [@harboriis on X](https://x.com/harboriis/status/2058103785306878367) · 104 likes on 2026-10-29
+
+[`claw-machine`](tags.md#tag-claw-machine) [`product-shot`](tags.md#tag-product-shot) [`template`](tags.md#tag-template) [`fast-food`](tags.md#tag-fast-food)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[A futuristic claw machine inspired by the brand's visual identity (BRAND NAME)] JUMA Premium Arcade Machine fully customized with the colors, logo, and visual identity of the brand (BRAND NAME)] [Inside the machine, multiple customized products based on (what should exist inside the machine) stacked naturally in a fun and visually pleasing composition) (A metal claw hanging at the top centered above the products ready to grab an item)] [Clean minimalist studio environment with monochromatic background following (main brand color)] [ULTRA-REALISTIC CINEMATIC 3D RENDERING STYLE] [EXTERIOR OF THE MACHINE MADE OF GLOSSY PAINTED METAL, CRYSTAL CLEAR GLASS PANELS, POLISHED EDGES AND REALISTIC REFLECTIONS] [HIGHLY DETAILED INTERIOR WITH REALISTIC PACKAGING, SHADOWS AND DEPTH] [SOFT REFLECTIONS ON THE GLASS, SUBTLE METALLIC HIGHLIGHTS AND SMOOTH CINEMATIC GRADIENTS] [SYMMETRICAL CENTERED COMPOSITION WITH ELEGANT NEGATIVE SPACE] [DRAMATIC STUDIO LIGHTING WITH SOFT SHADOWS, LUMINOUS GLOWS AND VOLUMETRIC ATMOSPHERE] [DOMINANT COLORS (COLORS OF [BRAND] [INSPIRED BY LUXURY BRANDING CAMPAIGNS, COLLECTIBLE PRODUCT DISPLAYS, MODERN ARCADE AESTHETICS AND PREMIUM COMMERCIAL ADVERTISING] [MINIMALIST COMPOSITION WITH STRONG VISUAL HIERARCHY AND SOPHISTICATED FEEL OF PREMIUM PRESENTATION] [NO TEXT, NO WATERMARK, NO DISTORTION, NO VISUAL POLLUTION] [3:4 VERTICAL COMPOSITION WITH CENTERED FRAMING AND CLEAN BACKGROUND] [BK RESOLUTION, ULTRA-SHARP DETAILS, REALISTIC DEPTH, CINEMATOGRAPHIC LENS BEHAVIOR, HIGH DYNAMIC RANGE] [HYPER-DETAILED TEXTURES, TRANSPARENCY] Realistic glass, polished reflections, volumetric lighting, extreme realism.
+```
+
+</details>
+
+<a id="nano-banana-low-angle-streetwear-sneaker-graffiti"></a>
+### Low angle girl in red headphones and white sneakers
+
+<a href="https://x.com/AIwithSarah_/status/2041369381784154173"><img src="../../previews/nano-banana-low-angle-streetwear-sneaker-graffiti.jpg" width="360"></a>
+
+The prompt pairs a low camera angle with extreme foreshortening so the projected sneaker dominates the frame, while the attached reference photo fixes the outfit and graffiti wall setting. Limiting the logo to the tongue and side keeps the branding subtle.
+
+Nano Banana 2 · Edit · Source: [@AIwithSarah_ on X](https://x.com/AIwithSarah_/status/2041369381784154173) · 104 likes on 2026-10-29
+
+[`streetwear`](tags.md#tag-streetwear) [`fashion`](tags.md#tag-fashion) [`low-angle`](tags.md#tag-low-angle) [`foreshortening`](tags.md#tag-foreshortening)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Nano Banana 2 on Gemini.
+
+Prompt: Photorealistic and hyper-detailed fashion art (image attached) of a modern girl wearing red over-ear headphones, a fuchsia crop top, and baggy black sweatpants. Low-angle perspective, extreme foreshortening with a projected white sneaker; only the nameless "NIKE" logo is clearly visible on the tongue and side, detailed texture of the sole. Urban streetwear aesthetic, on asphalt, background of a brick wall with colorful graffiti, clean studio lighting, soft gradients, defined edges, high contrast, masterpiece.
+```
+
+</details>
+
 <a id="nano-banana-strawberry-yogurt-jar-cotton-candy-clouds"></a>
 ### Strawberry yogurt jar nested in pink cotton candy clouds
 
@@ -391,6 +847,263 @@ Nano Banana 2 on
 
 Prompt: Ultra-realistic dreamy product photography in a surreal pastel sky environment. A transparent plastic jar filled with thick pink strawberry yogurt smoothie sits centered and slightly embedded inside fluffy cotton-candy-like pink clouds, the jar open at the top with creamy surface visible and a fresh whole strawberry resting on the rim. The jar label is a soft white scalloped shape with simple elegant pink brand text and small strawberry illustrations around the container.
 Additional ripe strawberries are placed around the jar partially resting on the clouds. The background is a soft pale blue sky filled with multiple floating pink cotton candy clouds, some clouds containing small strawberries nestled inside them. Lighting is soft diffused daylight creating gentle shadows and glossy highlights on the creamy texture and plastic surface. Clean symmetrical composition, whimsical dessert advertising aesthetic, soft pastel color palette dominated by pink and light blue, shallow depth of field but product fully sharp, highly detailed textures on clouds and fruit, photorealistic 8k quality.
+```
+
+</details>
+
+<a id="nano-banana-giant-pepsi-can-mountain-waterfall"></a>
+### Giant Pepsi can on mountain summit pouring waterfall
+
+<a href="https://x.com/Sheldon056/status/2036657572296769934"><img src="../../previews/nano-banana-giant-pepsi-can-mountain-waterfall.jpg" width="360"></a>
+
+The prompt is a fill-in template, so the brand, logo and liquid colour can be swapped while the scene stays the same. It describes the subject, then the water path from the tab down the mountain to the river, then the lighting, which keeps the waterfall connected from can to valley.
+
+Nano Banana 2 · Text-to-image · Source: [@Sheldon056 on X](https://x.com/Sheldon056/status/2036657572296769934) · 99 likes on 2026-10-29
+
+[`surreal`](tags.md#tag-surreal) [`product`](tags.md#tag-product) [`waterfall`](tags.md#tag-waterfall) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Nano Banana 2 on
+@Hailuo_AI
+ .
+
+Prompt: A highly realistic, surreal photograph of a colossal, giant [BRAND] aluminum can (with the [BRAND COLORS & LOGO DESCRIPTION] clearly visible) positioned at the top of a rocky summit of a steep, cone-shaped, lush green mountain. The can is lying on its side and a powerful and effervescent waterfall is pouring from its tab opening. This waterfall cascades down the entire side of the mountain face and feeds directly into a pristine, winding river at the mountain's base flowing through a serene green valley. The water should have effervescent bubbles and a luminous, vibrant [LIQUID COLOR] quality. A small flock of birds is visible flying near the peak. Bright, crisp, clear summer day lighting. Natural daylight, clear blue sky with a few soft clouds. Wide-angle.￼
+```
+
+</details>
+
+<a id="gpt-image-oatly-barista-edition-milk-splash-hero"></a>
+### Oatly Barista Edition carton beside milk splash and latte
+
+<a href="https://x.com/aziz4ai/status/2073691521564451078"><img src="../../previews/gpt-image-oatly-barista-edition-milk-splash-hero.jpg" width="360"></a>
+
+Uploading a clear product photo as the exact reference keeps the logo, label and packaging accurate. The milk splash and latte pour bring freshness and the barista benefit into a dark, blurred café scene, so the centred product still reads first.
+
+GPT Image 2 · Edit · Source: [@aziz4ai on X](https://x.com/aziz4ai/status/2073691521564451078) · 97 likes on 2026-10-29
+
+[`branded-proof`](tags.md#tag-branded-proof) [`product-hero`](tags.md#tag-product-hero) [`milk-splash`](tags.md#tag-milk-splash) [`latte`](tags.md#tag-latte)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Upload a clear product image first.
+
+Create a premium 16:9 advertising key visual using the uploaded product as the exact hero reference.
+
+The product must be large, front-facing or best-selling angle, sharply focused, and occupy 35–50% of the frame.
+
+Keep the logo, label, packaging shape, colors, proportions, typography, and recognizable brand details accurate, readable, and unobstructed.
+
+Use the visual system: “Branded Proof”.
+
+Do not just make a pretty scene.
+Make the environment prove the product’s benefit.
+
+The product stays clean, pristine, and dominant.
+Everything around it becomes evidence of what the product does:
+before/after contrast, texture change, temperature shift, freshness, speed, impact, comfort, flavor, protection, glow, silence, energy, or luxury.
+
+Build a strong foreground, midground, and background.
+The eye should land on the logo first, then understand the benefit in one second.
+
+Style:
+premium commercial photography, cinematic lighting, agency-grade campaign visual, high contrast, tactile realism, clean negative space, realistic shadows, polished reflections, scroll-stopping composition.
+
+Avoid:
+tiny people, micro worlds, UI overlays, holograms, fake floating logos, messy clutter, unreadable labels, hidden branding, random effects, extra text overlays.
+
+Output: one hero ad image, 16:9.
+```
+
+</details>
+
+<a id="nano-banana-cornetto-belgian-chocolate-ad"></a>
+### Cornetto Belgian Chocolate ad with floating cone
+
+<a href="https://x.com/iamrealsnow/status/2056661445950214603"><img src="../../previews/nano-banana-cornetto-belgian-chocolate-ad.jpg" width="360"></a>
+
+The prompt gives each object its own position, orientation and materials, so the front package, cone and back panel sit in one coherent layout. A frozen motion chocolate splash with a key light from upper left and rim light on the gold edges produces the premium commercial CGI look.
+
+Nano Banana 2 · Text-to-image · Source: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2056661445950214603) · 94 likes on 2026-10-29
+
+[`ice-cream`](tags.md#tag-ice-cream) [`food-photography`](tags.md#tag-food-photography) [`chocolate`](tags.md#tag-chocolate) [`brand-ad`](tags.md#tag-brand-ad)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "image_type": "luxury commercial ice cream advertisement",
+  "resolution_target": "8K",
+  "aspect_ratio": "3:4",
+  "orientation": "vertical",
+
+  "scene": {
+    "environment": "premium studio product photography",
+    "background": {
+      "color": "deep chocolate brown to black gradient",
+      "texture": "smooth matte finish",
+      "lighting_falloff": "soft cinematic radial glow behind product"
+    }
+  },
+
+  "composition": {
+    "style": "floating premium dessert arrangement",
+    "depth": "layered foreground, midground and background composition",
+    "camera_angle": "slightly top-down cinematic perspective",
+    "camera_distance": "medium close-up",
+    "focus": "sharp focus on central Cornetto package and ice cream cone",
+    "visual_flow": "dynamic diagonal movement from upper left to lower right"
+  },
+
+  "primary_objects": [
+    {
+      "object_type": "ice_cream_package",
+      "brand_text": "Cornetto",
+      "flavor_text": "Belgian Chocolate",
+      "position": "upper center",
+      "orientation": "slightly tilted upward",
+      "packaging_material": "glossy premium wrapper",
+      "packaging_colors": [
+        "dark chocolate brown",
+        "black",
+        "gold"
+      ],
+      "text_details": {
+        "main_text": "Cornetto",
+        "secondary_text": "Belgian Chocolate",
+        "font_style": "luxury modern script with bold sans-serif",
+        "text_colors": [
+          "white",
+          "gold"
+        ]
+      },
+      "graphics": [
+        "melted Belgian chocolate splash",
+        "rich chocolate chunks",
+        "creamy swirl illustration",
+        "gold chocolate drizzle"
+      ]
+    },
+
+    {
+      "object_type": "ice_cream_cone",
+      "brand_style": "Cornetto waffle cone",
+      "position": "center",
+      "orientation": "slightly angled toward camera",
+      "cone_texture": "crispy golden waffle pattern",
+      "ice_cream_flavor": "Belgian chocolate soft swirl",
+      "toppings": [
+        "dark chocolate curls",
+        "Belgian chocolate shards",
+        "chocolate sauce drizzle"
+      ],
+      "details": {
+        "top_texture": "smooth creamy swirl",
+        "bottom_tip": "signature chocolate-filled cone tip",
+        "surface_reflection": "subtle glossy highlights"
+      }
+    },
+
+    {
+      "object_type": "ice_cream_package",
+      "brand_text": "Cornetto",
+      "position": "bottom",
+      "orientation": "back side visible",
+      "packaging_material": "glossy plastic wrapper",
+      "visible_elements": [
+        "nutrition information",
+        "barcode",
+        "ingredient icons",
+        "Belgian chocolate emblem"
+      ]
+    }
+  ],
+
+  "secondary_objects": [
+    {
+      "object_type": "chocolate_chunks",
+      "colors": [
+        "dark brown",
+        "milk chocolate"
+      ],
+      "texture": "rich glossy Belgian chocolate",
+      "positions": [
+        "floating around cone",
+        "foreground",
+        "background"
+      ]
+    },
+
+    {
+      "object_type": "cocoa_powder_particles",
+      "color": "dark cocoa brown",
+      "distribution": "floating cinematic dust effect"
+    },
+
+    {
+      "object_type": "hazelnuts",
+      "color": "warm beige brown",
+      "texture": "natural matte shell",
+      "positions": "scattered mid-air around product"
+    },
+
+    {
+      "object_type": "liquid_chocolate_splash",
+      "color": "dark Belgian chocolate",
+      "style": "high-speed frozen splash effect",
+      "positions": "wrapping around center cone"
+    }
+  ],
+
+  "lighting": {
+    "type": "cinematic studio lighting",
+    "key_light": "soft directional light from upper left",
+    "fill_light": "subtle ambient fill lighting",
+    "rim_light": "golden edge highlights on packaging and cone",
+    "reflections": "luxury glossy reflections on chocolate and wrapper",
+    "shadows": "soft floating shadows beneath suspended objects"
+  },
+
+  "materials": {
+    "packaging": "premium glossy foil wrapper",
+    "cone": "crispy matte waffle texture",
+    "ice_cream": "smooth creamy Belgian chocolate texture",
+    "chocolate": "rich glossy melted surface",
+    "nuts": "natural matte texture"
+  },
+
+  "color_palette": {
+    "dominant": [
+      "black",
+      "dark chocolate brown"
+    ],
+    "accent": [
+      "gold",
+      "cream",
+      "warm beige"
+    ],
+    "highlight": [
+      "white",
+      "glossy reflections"
+    ]
+  },
+
+  "motion_effect": {
+    "style": "frozen motion photography",
+    "objects": "cone, chocolate splashes and chunks suspended mid-air",
+    "particle_effect": "floating cocoa dust and crumbs"
+  },
+
+  "render_quality": {
+    "detail_level": "ultra high detail",
+    "sharpness": "extremely crisp edges",
+    "texture_quality": "hyper realistic materials",
+    "render_style": "cinematic luxury food advertising",
+    "finish": "premium commercial CGI look"
+  }
+}
 ```
 
 </details>
@@ -442,6 +1155,181 @@ low quality, blurry, plastic skin, deformed hands, extra fingers, duplicate ingr
 
 </details>
 
+<a id="gpt-image-mint-toner-glass-pedestal-skincare-ad"></a>
+### Mint toner bottle on glass pedestal with ribbons
+
+<a href="https://x.com/AIwithWania/status/2069099746564960670"><img src="../../previews/gpt-image-mint-toner-glass-pedestal-skincare-ad.jpg" width="360"></a>
+
+Opening with the ad type in parentheses and spelling out the exact headline sets both layout and copy. A single hero bottle on a glass pedestal, a limited mint palette and material words like glossy, translucent and reflective keep the render clean and product-focused.
+
+GPT Image 2 · Text-to-image · Source: [@AIwithWania on X](https://x.com/AIwithWania/status/2069099746564960670) · 89 likes on 2026-10-29
+
+[`skincare`](tags.md#tag-skincare) [`product-ad`](tags.md#tag-product-ad) [`mint-palette`](tags.md#tag-mint-palette)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+(Luxury skincare product advertisement), (cool mint-green pastel theme), premium cosmetic bottle on glossy glass pedestal, floating translucent bubbles, flowing liquid silk ribbons around product, soft cinematic studio lighting, reflective surface, minimal clean background, high-end beauty campaign aesthetic, hyper-realistic 3D render, elegant typography text (PURE HYDRATION / PURE YOU), premium packaging mockup, ultra-detailed, modern commercial branding, glossy texture, soft shadows, minimal luxury composition, fresh hydrating vibe, trending cosmetic ad style, 8K, photorealistic.
+```
+
+</details>
+
+<a id="nano-banana-chrome-hypercar-desert-canyon-sunset"></a>
+### Chrome hypercar on canyon edge at sunset
+
+<a href="https://x.com/kellyyjjones/status/2069600913246113957"><img src="../../previews/nano-banana-chrome-hypercar-desert-canyon-sunset.jpg" width="360"></a>
+
+Builds the scene from lighting and atmosphere terms, god rays, volumetric dust and a backlit sunset, around one subject. Naming a magazine-style commercial photography look and a low angle wide shot sets the framing and the realism.
+
+Nano Banana 2 · Text-to-image · Source: [@kellyyjjones on X](https://x.com/kellyyjjones/status/2069600913246113957) · 89 likes on 2026-10-29
+
+[`hypercar`](tags.md#tag-hypercar) [`desert`](tags.md#tag-desert) [`cinematic-lighting`](tags.md#tag-cinematic-lighting) [`automotive`](tags.md#tag-automotive)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Image generated by Nano Banana 2 on
+@Lart_AI
+
+
+Try it there 👇🏻
+
+
+http://
+lartai.com/?TG=12459
+
+Ultra-detailed cinematic shot of a futuristic hypercar (Bugatti/Lamborghini style) parked on the edge of a vast desert canyon at sunset. The vehicle has a mirror-like metallic finish reflecting the dramatic environment. Golden sunlight cuts through heavy atmospheric dust, creating god rays and long cinematic shadows. Massive sandstone cliffs surround the scene, emphasizing extreme scale and isolation. Subtle sand particles in the air, wind motion visible in the dunes, hyper-realistic textures on rock and car surface. Low-angle wide shot to emphasize power and dominance. Luxury automotive commercial photography style, National Geographic realism mixed with high-end fashion advertising. Ultra sharp focus, HDR, volumetric lighting, depth of field, 8K resolution, masterpiece quality. ❄️ Alternate Extreme Version (Arctic Luxury) Hyper-realistic luxury hypercar driving across a frozen Arctic wasteland under glowing aurora borealis. Ice crystals reflecting neon green and purple lights across the car’s glossy surface. Snow storm gently blowing, dramatic cinematic motion, frozen mountains in background, reflective ice floor like a mirror. Ultra-wide shot, slow-motion cinematic feel, luxury meets survival in extreme nature. High contrast lighting, volumetric fog, ultra-detailed, 8K, editorial automotive photography, award-winning style. Negative Prompt (Improved) cartoon, CGI look, low detail, blurry, distorted car shape, extra wheels, incorrect reflections, watermark, text, logo, oversaturated colors, bad perspective, cropped vehicle, plastic texture
+```
+
+</details>
+
+<a id="nano-banana-candy-biscuits-hero-packet"></a>
+### Candy Biscuits packet with falling candies on golden backdrop
+
+<a href="https://x.com/Aqib__786Ai/status/2075583441438114168"><img src="../../previews/nano-banana-candy-biscuits-hero-packet.jpg" width="360"></a>
+
+The prompt fixes the packet as the single hero subject and bans extra products, hands and cropping, which keeps the pack text readable. The warm golden orange gradient, bokeh and 85mm f/5.6 shallow depth of field around it give the premium campaign look.
+
+Nano Banana 2 · Text-to-image · Source: [@Aqib__786Ai on X](https://x.com/Aqib__786Ai/status/2075583441438114168) · 81 likes on 2026-10-29
+
+[`product-photography`](tags.md#tag-product-photography) [`food`](tags.md#tag-food) [`packaging`](tags.md#tag-packaging) [`candy`](tags.md#tag-candy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium commercial product photography image of a "Candy Biscuits" packet standing upright on a clean reflective surface. The packaging is perfectly centered, crisp, and 100% accurate with readable branding and vibrant colors. Surround the product with a few golden crispy biscuits and colorful candy pieces scattered naturally. Soft studio lighting with subtle rim light, realistic reflections, soft shadows, luxury food advertising style, ultra-photorealistic, high-end packaging photography, macro-level texture details, vibrant colors, premium supermarket advertisement look, shallow depth of field, 85mm camera lens, f/4, HDR, 8K quality, razor-sharp focus, realistic food styling, elegant composition, no extra products, no watermark, no text distortion, no cropped product.
+
+Prompht 2:
+
+Create a premium hero product advertisement featuring a single "Candy Biscuits" packet as the main focus. The packet is standing upright on a glossy surface with realistic reflections. Place a few crunchy golden biscuits broken into halves around the product, with colorful candy-coated chocolate pieces falling in mid-air to create a dynamic, eye-catching composition. Use a warm golden-orange gradient background with soft glowing light, subtle bokeh, and floating crumbs for a fresh, delicious feel.
+
+Lighting should be cinematic with soft key light, gentle rim lighting, and realistic shadows that make the packaging pop. Keep the product perfectly sharp with accurate colors, readable branding, and premium packaging details. Capture in high-end commercial food photography style with ultra-realistic textures, HDR quality, shallow depth of field, 85mm lens, f/5.6, luxury FMCG advertising, clean composition, vibrant colors, premium supermarket campaign look.
+
+Negative Prompt:
+No extra products, no duplicate packets, no human hands, no watermark, no logo distortion, no spelling errors, no blurry packaging, no overexposed lighting, no unrealistic reflections, no cropped product, no low resolution.
+```
+
+</details>
+
+<a id="nano-banana-pink-watermelon-lip-balm-studio"></a>
+### Pink watermelon lip balm tube among watermelon slices
+
+<a href="https://x.com/AIwithSynthia/status/2042219830842098072"><img src="../../previews/nano-banana-pink-watermelon-lip-balm-studio.jpg" width="360"></a>
+
+Naming the product, its colour and its surroundings in one clause keeps the subject clear against the fruit. Soft diffused lighting, minimal shadows and a macro cue give the clean commercial beauty finish.
+
+Nano Banana 2 · Text-to-image · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2042219830842098072) · 78 likes on 2026-10-29
+
+[`lip-balm`](tags.md#tag-lip-balm) [`watermelon`](tags.md#tag-watermelon) [`product-shot`](tags.md#tag-product-shot) [`studio`](tags.md#tag-studio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A vibrant studio product shot of a pink watermelon lip balm tube standing upright among freshly cut watermelon slices, glossy water droplets on both the product and fruit, rich juicy red textures with visible seeds, green rind contrast, soft diffused lighting with subtle highlights, clean gradient background in warm red tones, hyper-realistic, macro photography, sharp focus, commercial beauty ad style, centered composition, high detail, 4K, minimal shadows
+```
+
+</details>
+
+<a id="nano-banana-holochrome-chrome-character-grid"></a>
+### Four chrome cartoon characters with iridescent edges
+
+<a href="https://x.com/lloydcreates/status/2028852538443743580"><img src="../../previews/nano-banana-holochrome-chrome-character-grid.jpg" width="360"></a>
+
+A pure black void with no floor and strong rim light makes each figure read as a floating studio product. The chromatic fringe along edges and the mix of brushed and mirror finish sell the metal, and only the subject slot changes between renders.
+
+Nano Banana 2 · Text-to-image · Source: [@lloydcreates on X](https://x.com/lloydcreates/status/2028852538443743580) · 77 likes on 2026-10-29
+
+[`chrome`](tags.md#tag-chrome) [`iridescent`](tags.md#tag-iridescent) [`character`](tags.md#tag-character) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyper-realistic 8K product render of [INSERT YOUR PRODUCT HERE]
+
+The subject should be perfectly centered and levitating in mid-air, floating in a void with no surface, platform, stand, or floor. Show the full product with zero cropping and visible margins on all sides.
+Use a dynamic macro 45-degree hero angle.
+
+The background must be solid pure black (#000000).
+
+Lighting should feature hard edge lighting with strong rim light highlights. Use a high-contrast chiaroscuro look with thin chromatic aberration along metallic edges. Include reflective caustic light hits and an oily iridescent sheen on polished surfaces.
+
+Color palette:
+
+Background: #000000
+Metal highlights: #E0E0E0
+Iridescent accents: #4169E1, #FFD700, #FF4500
+
+Materials and textures should combine micro-brushed sandblasted aluminum with mirror-finish chrome. Add subtle prismatic dispersion and thin-film interference along metal curves. Include fine film grain for tactile realism.
+
+Do not include any props or additional objects.
+No light boxes, umbrellas, softboxes, pedestals, cables, tripods, or hands.
+No cropped edges or cut-off parts.
+No text, logos, watermarks, blur, bokeh background, dust, or scratches.
+
+Style reference: Industrial Design meets luxury hardware photography.
+```
+
+</details>
+
+<a id="nano-banana-pringles-fire-chili-flow-volcano"></a>
+### Pringles Fire Chili Flow can rising from lava rocks
+
+<a href="https://x.com/mr_farman_ai/status/2076622941026988261"><img src="../../previews/nano-banana-pringles-fire-chili-flow-volcano.jpg" width="360"></a>
+
+Naming the product and its flavour, then placing it in a set (cracked volcanic rocks, glowing lava fissures) with a lighting direction (molten orange and deep crimson) keeps the whole frame in one warm palette. Closing with commercial terms like high end studio lighting, shallow depth of field and 8K render sets the glossy ad finish.
+
+Nano Banana 2 · Text-to-image · Source: [@mr_farman_ai on X](https://x.com/mr_farman_ai/status/2076622941026988261) · 71 likes on 2026-10-29
+
+[`snack`](tags.md#tag-snack) [`food ad`](tags.md#tag-foodad) [`volcano`](tags.md#tag-volcano) [`fire`](tags.md#tag-fire)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic cinematic advertising photography of a “Pringler – Fire Chili Flow” potato chips can emerging from cracked volcanic rocks. The can stands upright in the center while glowing lava fissures surround it. Fiery red chili chips levitate around the product in slow motion, illuminated by molten orange and deep crimson lighting. Explosive sparks, burning chili flakes, and floating embers fill the atmosphere, creating the feeling of extreme heat and intensity. Thick spicy smoke swirls behind the can, while droplets of chili oil and seasoning particles shimmer in the air. Premium commercial food photography, dramatic contrast, hyper-detailed textures, luxury snack campaign, high-end studio lighting, cinematic depth of field, ultra-realistic 8K render.
+```
+
+</details>
+
+<a id="nano-banana-minute-maid-pulpy-orange-orchard-ad"></a>
+### Woman holding Minute Maid bottle in orange orchard
+
+<a href="https://x.com/iamrealsnow/status/2053313676493607192"><img src="../../previews/nano-banana-minute-maid-pulpy-orange-orchard-ad.jpg" width="360"></a>
+
+The prompt fixes the layout in advance: logo reserved for the top band, slogan space on the left, and the bottle held toward the camera. Naming these zones keeps the text clear of the model and the juice splash.
+
+Nano Banana 2 · Text-to-image · Source: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2053313676493607192) · 66 likes on 2026-10-29
+
+[`advertising`](tags.md#tag-advertising) [`beverage`](tags.md#tag-beverage) [`text-layout`](tags.md#tag-text-layout) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+.
+Ultra realistic premium commercial advertisement for Minute Maid Pulpy Orange, vertical 4:5 format, cinematic beverage photography, beautiful young woman with soft glowing skin and long silky hair standing in a fresh orange orchard during golden hour sunlight, wearing elegant orange and white summer outfit inspired by luxury fashion campaigns, smiling naturally while holding an ice cold Minute Maid Pulpy Orange bottle close to camera, visible orange pulp texture inside bottle, realistic water droplets and condensation on plastic bottle, detailed Minute Maid logo perfectly visible, dynamic splash of fresh orange juice exploding around foreground, sliced oranges flying in motion, tiny pulp particles suspended in air, fresh green leaves floating naturally, luxurious commercial lighting, warm orange color palette, high-end Coca Cola style branding aesthetic, shallow depth of field, dreamy creamy bokeh background, cinematic lens flare from sunlight, hyper detailed facial features, glossy lips, realistic eyes with catchlights, natural pose like a real beverage campaign model, energetic summer vibes, refreshing atmosphere, ultra realistic fruit textures, detailed oranges basket near foreground, splashing juice waves at bottom frame, glowing mist particles in background, clean advertising composition with strong hierarchy, top section reserved for Minute Maid logo, center focus on girl and bottle, bottom filled with oranges and splash effects, realistic reflections, HDR photography, premium product advertising, luxury FMCG campaign, photorealistic skin texture, vibrant orange tones, magazine quality, highly detailed, commercial studio quality, 8K ultra sharp details, global beverage campaign aesthetic, realistic shadows and highlights, emotional joyful expression, fresh healthy energetic mood, professional advertising photography, no extra fingers, no distorted anatomy, perfect hand holding bottle naturally, realistic typography space on left side for slogan “Har Sip Mein Mazaa”, visually balanced composition, award winning beverage advertisement style, Gemini Nano Banana optimized prompt
+```
+
+</details>
+
 <a id="nano-banana-ukiyo-cat-human-diorama-food-can"></a>
 ### Edo cat people diorama rising from opened tin can
 
@@ -467,6 +1355,46 @@ in the form of a miniature diorama landscape.
 
 </details>
 
+<a id="nano-banana-manga-creator-toy-box-grid"></a>
+### Four manga creators as toy figurines with escaping creations
+
+<a href="https://x.com/Gdgtify/status/2113528348362338611"><img src="../../previews/nano-banana-manga-creator-toy-box-grid.jpg" width="360"></a>
+
+Each beat is a numbered rule paired with a negative clause that names what must not appear, so the model checks every element against a concrete test. The fixed 2x2 grid at 16:9 and the studio toy render terms lock the layout and lighting across all four panels.
+
+Nano Banana 2.1 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2113528348362338611) · 17 likes on 2026-10-29
+
+[`manga`](tags.md#tag-manga) [`figurine`](tags.md#tag-figurine) [`grid`](tags.md#tag-grid) [`toy-packaging`](tags.md#tag-toy-packaging)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Same manga prompt I did with Nano Banana 2.1 but this time with GPT 2.5
+
+Prompt: 2x2 grid, modify this prompt do this for 4 famous founding fathers, 2x2 grid, 16:9, do this for 4 famous manga: B₁  CREATOR FIGURE AT CRAFT (master)   a stylized 3D figurine of the creator at their craft station (drafting desk, pen,       tablet, typewriter) in a focused working pose; toy/vinyl material.   ¬B₁ = no figure / realistic human / idle figure / no craft station. B₂  OWN PACKAGING IN COMPOSITION   the creator's retail box — title + box art depicting the creator — present in‑frame as       a set piece; figure and box art share the same character design.   ¬B₂ = no box / box unrelated / box art ≠ figure. B₃  CREATIONS ESCAPE THE BOX   the works the creator made (characters/creatures/panels) burst OUT of the box art into 3D       space in dynamic poses; ≥2 escapees.   ¬B₃ = creations static on the box / no escape / creations unrelated to the creator. B₄  CRAFT ARTIFACTS ORBIT   floating artifacts of the craft (pages/panels, ink bottles, erasers, crumpled drafts, sprites)       suspended around, implying a stopped moment.   ¬B₄ = no artifacts / artifacts resting on ground / unrelated props. B₅  STUDIO TOY PRESENTATION   clean neutral studio background, soft light, collectible‑figure render quality, legible box       title.   ¬B₅ = busy background / flat render / illegible title / harsh light. η   HONEST TOY   vinyl/plastic sheen, box print texture, panel linework legible. FORBIDDEN = realistic human · no box · box art mismatch · static creations · no escape · no artifacts · busy bg · illegible title · flat render
+```
+
+</details>
+
+<a id="gpt-image-blue-perfume-corrugated-glass-ad"></a>
+### Sky blue perfume bottle behind corrugated glass
+
+<a href="https://x.com/ShamiWeb3/status/2078074982337515555"><img src="../../previews/gpt-image-blue-perfume-corrugated-glass-ad.jpg" width="360"></a>
+
+A low upward angle makes the bottle loom, while a corrugated glass panel adds vertical distortion over a softly blurred floral box. A tight palette, silver rim light and hydrangea petals with water droplets carry the scent notes visually.
+
+GPT Image 2 · Text-to-image · Source: [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2078074982337515555) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`perfume`](tags.md#tag-perfume) [`product-ad`](tags.md#tag-product-ad) [`minimalist`](tags.md#tag-minimalist) [`glass-distortion`](tags.md#tag-glass-distortion) [`blue-palette`](tags.md#tag-blue-palette)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Minimalist product advertisement featuring [{argument name="product" default="the Vanilla & Blues Eau de Parfum 100ml — a round frosted sky-blue glass bottle filled with pale blue liquid, topped with a twisted seashell-shaped cap in matching light blue and a slim silver collar band, "Vanilla & Blues Eau De Parfum" printed on the rounded face"}] shot from a low upward angle so the bottle looms large and slightly tilted, with its matching blue-and-white floral watercolor box positioned softly out of focus behind it, seen through a vertical corrugated glass panel, with [a pale icy-white studio backdrop with a faint cool blue gradient wash] visible behind the object. Use [a palette of powder blue, frosted ice-white, silver, and soft hydrangea lavender-blue], soft directional lighting with a gentle silver rim-light along the cap and glass edge, semi-obscured contours through the corrugated distortion, elongated vertical distortion lines, elegant editorial mood, asymmetrical off-center composition, subtle depth, smooth gradients, polished commercial styling, delicate blue hydrangea petals and fine water droplets suspended mid-air beside the bottle to evoke its [sweet vanilla, soft floral bouquet, and clean powdery musk] notes, and the title "[VANILLA & BLUES]" in refined serif typography arched gently above the bottle's shoulder, vertical 4:5.
+```
+
+</details>
+
 <a id="gpt-image-blueberry-clamshell-ecommerce-poster"></a>
 ### Blueberry clamshell box e-commerce poster in icy blue
 
@@ -482,6 +1410,70 @@ GPT Image 2 · Edit · Source: [@op7418 on X](https://x.com/op7418/status/204662
 
 ```text
 A premium e-commerce poster for fresh blueberries in a clean Chinese product-advertising style. Show a clear plastic clamshell box of blueberries as the main subject, placed diagonally from lower center to right side on folded blue fabric, viewed from a slightly elevated angle. The package must remain realistic and consistent: a transparent square container with rounded corners, filled with dark blue blueberries, with a large irregular rounded label on top in white, pale blue, and deep blue, featuring one oversized blueberry illustration in the center and elegant Chinese branding. Make the fruit inside look larger, plumper, fresher, and covered with subtle moisture droplets, while keeping the overall blueberry arrangement believable. The background is an airy icy-blue tabletop with soft cloudy texture, cool daylight, and scattered loose blueberries around the package. Add a few blurred green leaves entering from the top right and bottom right edges for a fresh natural feeling. In the upper-right corner, include 1 small inset image showing the original product package from above on a warm brown surface, like a reference thumbnail. On the left side, create Chinese promotional typography with a large dark blue calligraphy headline 决茗新, followed by 2 smaller lines of copy: 新鲜蓝莓 自然之选 and 每一颗都是自然的礼物. Below that, place 3 vertically stacked feature icons with short Chinese captions: a leaf icon for natural ripeness, a fruit icon for juicy fullness, and a heart icon for rich nutrition. Near the bottom left, add large white brush-style Chinese text 蓝莓, a secondary line 膳食纤维+花青素, and a small net weight line reading 125克. Use cool blue color grading, crisp commercial lighting, sparkling highlights on the plastic lid, premium supermarket packaging aesthetics, high detail, realistic product photography blended with polished graphic design.
+```
+
+</details>
+
+<a id="gpt-image-chibi-eraser-bag-rainbow-rare-japanese"></a>
+### Japanese chibi eraser bag with rainbow rare piece
+
+<a href="https://x.com/ZetoGroovin/status/2058408514247410003"><img src="../../previews/gpt-image-chibi-eraser-bag-rainbow-rare-japanese.jpg" width="360"></a>
+
+The prompt specifies each layer of the product: OPP bag, hanging hole header with cheap print, fake JAN barcode, age label and food warning, so the result reads as a real shelf item. A single rainbow gradient piece placed mid-bag and a fingertip about to pick one give the frame a clear focal point.
+
+GPT Image 2 · Text-to-image · Source: [@ZetoGroovin on X](https://x.com/ZetoGroovin/status/2058408514247410003) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`eraser`](tags.md#tag-eraser) [`packaging`](tags.md#tag-packaging) [`chibi`](tags.md#tag-chibi) [`product-photo`](tags.md#tag-product-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+添付されたキャラクターシートをSTRICTなデザインリファレンスとして使用すること。 キャラクターの顔、髪型、目の形、プロポーションは絶対に変更しない。
+
+■目的： キャラクターを日本の「ちび消しゴム商品」として完全に商品化し、 実際に文房具売り場やガチャで販売されているようなリアルなパッケージ商品写真を作成する。
+
+■コンセプト： 「100円ショップや文房具店で売られている袋入りちび消しゴム商品」
+
+■消しゴム本体： （※前回と同じ仕様を完全維持） - 強いデフォルメちびキャラ - 厚みのあるブロック形状 - 完全マットなラバー素材 - 微細な粒子・粉・削れ・摩耗あり - 印刷ズレ・色ブレあり - 50個以上のランダム構成
+
+■パッケージ（超重要）： - 小さな透明ビニール袋（OPP袋） - 上部に紙ヘッダー（吊り下げ用の穴あり） - ヘッダーはややチープな印刷（軽いズレ・インクのムラ） - ビニールはシワあり、やや曇り、静電気で中身に張り付く - 一部空気が入ってふくらみあり - シール部分に軽いヨレ
+
+■グラフィックデザイン： - 日本の子供向け文房具風デザイン - ポップでカラフル（ピンク・黄色・水色ベース） - 手書き風フォントや丸文字 - 商品名ロゴ（オリジナルでOK） - 「ミニけし」「ちびけし」などの表記 - 星・ハート・キラキラ装飾
+
+■情報要素（リアル感強化）： - JANコード（バーコード） - 「対象年齢6才以上」 - 「食べられません」注意書き - 「全◯種」や「ランダム封入」 - 小さな会社名（架空） - MADE IN JAPAN or CHINA表記
+
+■構図： - パッケージがメインで画面中央 - 周囲に少しだけこぼれた消しゴム - 1〜2個は袋から出ている - 指先が1つをつまもうとしている演出 - 一部フレームアウトで自然さ
+
+■レア要素： - 蛍光カラーやグラデーションの特別個体を1つ混ぜる - 視線誘導として目立つ位置に配置
+
+■ライティング： - 明るい自然光（ややハイキー） - 柔らかい影 - 商品写真のような清潔感
+
+■カメラ： - マクロ寄り - 浅い被写界深度 - 中央シャープ
+
+■背景： - 白〜パステルのテーブル - ほんのりドットやポップ柄 - シンプルで清潔
+
+■禁止： - プラスチック感 - glossy表現 - 高級すぎる質感（安っぽさが正解） - 完璧すぎる印刷
+
+■出力： - 実在する商品にしか見えないレベル - コンビニや100均にありそうなリアリティ - SNSで「これ欲しい」と思わせる完成度
+```
+
+</details>
+
+<a id="gpt-image-cinematic-potato-chips-ad"></a>
+### Lay's Classic bag amid flying chips and crumbs
+
+<a href="https://x.com/azed_ai/status/2046980650440544368"><img src="../../previews/gpt-image-cinematic-potato-chips-ad.jpg" width="360"></a>
+
+Placing the product at a three quarter angle against a black backdrop with warm rim light makes the bag the clear hero. Quoting the exact badge and headline text and assigning a colour to each word keeps the typography and product copy legible.
+
+GPT Image 2 · Text-to-image · Source: [@azed_ai on X](https://x.com/azed_ai/status/2046980650440544368) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`snack`](tags.md#tag-snack) [`advertising`](tags.md#tag-advertising) [`food-photography`](tags.md#tag-food-photography) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a high-impact commercial snack advertisement in a dramatic studio setting. Show a large glossy bag of Lay's Classic potato chips standing upright slightly left of center, photographed at a three-quarter front angle. The bag is bright golden yellow with a realistic crinkled plastic texture, a large red-and-white logo centered near the top, the flavor name printed below, a photo of whole potatoes and several stacked potato chips near the lower front, and small package details including a circular badge near the top right that reads "MADE WITH 3 INGREDIENTS" with tiny lines under it reading "POTATOES", "OIL", "SALT", plus small text near the bottom left reading "POTATO CHIPS". Surround the bag with exactly 11 visible potato chips flying through the air at different depths and angles, some curled and some flat, with crisp texture and golden highlights. Fill the scene with explosive golden crumbs, seasoning dust, and sparkling particles bursting around the package, especially behind it and across the floor. Use a deep black background with warm amber rim lighting, strong contrast, glowing highlights, and cinematic backlit particles. On the right side, add a bold stacked headline in large distressed uppercase sans-serif text reading HAPPINESS IN EVERY CRUNCH, with "HAPPINESS" and "CRUNCH" in white and "IN EVERY" in vivid golden yellow. Beneath the headline, place a two-line subheading in smaller uppercase text reading SIMPLE INGREDIENTS. IRRESISTIBLE FLAVOR., with the first line in white and the second line in yellow. At the bottom right, place a small round brand logo above the tagline No Lay's, No Game.. The composition should feel energetic, premium, messy in a controlled way, and optimized for e-commerce or promotional ad creative, with ultra-sharp product focus, dramatic lighting, floating debris, glossy reflections on the ground, and a polished photorealistic food photography look.
 ```
 
 </details>
@@ -615,6 +1607,63 @@ Ultra-realistic professional commercial product photography of a premium glass p
 
 </details>
 
+<a id="gpt-image-luxury-water-bottle-splash-ice"></a>
+### Premium water bottle with spiral splash and ice cubes
+
+<a href="https://x.com/Itswsm105f/status/2071488588345405695"><img src="../../previews/gpt-image-luxury-water-bottle-splash-ice.jpg" width="360"></a>
+
+A second paragraph repeats the fixed subject and studio setup, then adds splash, ice, mist and rim light as separate scene cues. Naming the lighting, palette and copy space gives the layout room for branding.
+
+GPT Image 2 · Text-to-image · Source: [@Itswsm105f on X](https://x.com/Itswsm105f/status/2071488588345405695) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`product-photography`](tags.md#tag-product-photography) [`water-bottle`](tags.md#tag-water-bottle) [`splash`](tags.md#tag-splash) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic luxury commercial product photography of a premium transparent water bottle standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral. Background features cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text. Ultra-realistic luxury commercial product photography of the same premium transparent water bottle standing upright on a reflective wet surface. The bottle is covered with fresh condensation droplets. A powerful splash of crystal-clear water rises around the bottle with small floating bubbles. Background features refreshing aqua green and turquoise gradients with soft sunlight rays, tropical leaves slightly blurred in the distance, fresh mist, and glowing highlights. High-end commercial studio lighting, cinematic product advertisement, ultra-detailed, photorealistic, 8K, elegant composition, premium hydration campaign, minimal branding space, vibrant yet clean aesthetic.
+```
+
+</details>
+
+<a id="gpt-image-mind-icons-scientist-figure-grid"></a>
+### Einstein, Curie, Newton and Tesla collectible figure launch grid
+
+<a href="https://x.com/Gdgtify/status/2049766203392921897"><img src="../../previews/gpt-image-mind-icons-scientist-figure-grid.jpg" width="360"></a>
+
+The prompt fixes one 2x2 layout and repeats the same slot list in every panel (figure, accessories, packaging, scale, material close-up), so the four quadrants read as one collectible line. Luxury drop and unboxing language sets the glossy studio lighting and keeps the box secondary to the hero figure.
+
+GPT Image 2 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2049766203392921897) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`collectible`](tags.md#tag-collectible) [`product-launch`](tags.md#tag-product-launch) [`grid-layout`](tags.md#tag-grid-layout) [`scientists`](tags.md#tag-scientists)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-mint-rose-perfume-bottle-ecommerce"></a>
+### Mint perfume bottle with roses and ribbon
+
+<a href="https://x.com/lovimg_com/status/2077036313832996893"><img src="../../previews/gpt-image-mint-rose-perfume-bottle-ecommerce.jpg" width="360"></a>
+
+The opening clause locks the uploaded bottle's shape, glass, wood cap and label text, so the edit changes only the surroundings. Props, cool backlight, shallow depth of field and a portrait canvas set the mood and layout for a detail page.
+
+GPT Image 2 · Edit · Source: [@lovimg_com on X](https://x.com/lovimg_com/status/2077036313832996893) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`perfume`](tags.md#tag-perfume) [`ecommerce`](tags.md#tag-ecommerce) [`product-photo`](tags.md#tag-product-photo) [`mint`](tags.md#tag-mint)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清
+```
+
+</details>
+
 <a id="gpt-image-moonlit-anime-chocolate-gift-box-2"></a>
 ### Moonlit anime chocolate gift box with ten chocolates
 
@@ -719,6 +1768,44 @@ Constraints: Use exactly one main figure on the central base, exactly one lineup
 
 </details>
 
+<a id="gpt-image-ordinary-serum-dropper-water-splash"></a>
+### The Ordinary serum dropper bottle splashing in blue water
+
+<a href="https://x.com/AI_with_Lyra/status/2092116220912771292"><img src="../../previews/gpt-image-ordinary-serum-dropper-water-splash.jpg" width="360"></a>
+
+Fixes the subject count and placement with explicit numbers and corner positions for the bottle, splash, droplets and leaves. Macro lens, shallow depth of field and caustic light cues give it a premium beauty campaign look.
+
+GPT Image 2 · Text-to-image · Source: [@AI_with_Lyra on X](https://x.com/AI_with_Lyra/status/2092116220912771292) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`skincare`](tags.md#tag-skincare) [`product-photography`](tags.md#tag-product-photography) [`water-splash`](tags.md#tag-water-splash) [`advertising`](tags.md#tag-advertising)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic cinematic luxury skincare advertisement in a vertical 9:16 frame. Show one premium clear glass serum dropper bottle of The Ordinary suspended at a slight diagonal angle in crystal-clear blue water, emerging from the center of a dramatic crown-shaped splash. The bottle has a transparent cylindrical glass body, pale aqua serum inside, a minimalist white label with small black skincare text, a white ribbed screw cap, and a soft white rubber pipette; keep the label, proportions, cap, and branding crisp and readable while the surrounding motion feels dynamic. Count exactly 1 product bottle, 1 main water splash crown around it, many realistic floating droplets, and 4 large out-of-focus green leaves framing the scene: one upper left, one top center edge, one upper right, and one lower left foreground. Use warm sunlight, teal-blue background bokeh, glossy reflections, caustic light patterns on the water surface, realistic glass refraction, sharp focus on the product, shallow depth of field, macro product photography, slow-motion frozen-action feeling, premium beauty campaign aesthetic, 4K UHD detail. No extra text, no watermark, no distortion, no hands, no additional products.
+```
+
+</details>
+
+<a id="gpt-image-oversized-smartwatch-leaning-model-ad"></a>
+### Oversized black smartwatch ad with leaning model
+
+<a href="https://x.com/im_shahid7/status/2051172470548476197"><img src="../../previews/gpt-image-oversized-smartwatch-leaning-model-ad.jpg" width="360"></a>
+
+Describing the watch as oversized and the model leaning against it sets scale and pose in a single frame. Naming the glossy reflective floor, soft studio light and exact text positions gives a clean catalog-style layout.
+
+GPT Image 2 · Text-to-image · Source: [@im_shahid7 on X](https://x.com/im_shahid7/status/2051172470548476197) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`smartwatch`](tags.md#tag-smartwatch) [`product-ad`](tags.md#tag-product-ad) [`studio-lighting`](tags.md#tag-studio-lighting) [`text-placement`](tags.md#tag-text-placement)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Minimalist commercial ad featuring oversized BLACK smartwatch, ultra-clean design. A young Man in all-white and yellow outfit leans casually against the giant watch, relaxed confident pose, eyes open in excitement expression , also wearing the same smartwatch on his wrist. Soft gradient blue background with large bold white “SMASUNG” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Shamus”. Bottom center tagline in small white font: “TIME IS TIDE.”
+```
+
+</details>
+
 <a id="gpt-image-premium-meat-seafood-brand-hero"></a>
 ### Premium Steak Brand Hero on Black Marble
 
@@ -777,6 +1864,58 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 </details>
 
 Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-rhode-peptide-lip-treatment-comparison"></a>
+### Rhode lip treatment ad, GPT Image 2 vs GPT Image 2.5 comparison
+
+<a href="https://x.com/HeyOz_AI/status/2097590858564726955"><img src="../../previews/gpt-image-rhode-peptide-lip-treatment-comparison.jpg" width="360"></a>
+
+The prompt pins each element by count and position (three watermelon pieces on the left ad, five on the right) and quotes the exact headline and labels, so the two versions differ mainly in splash density and product scale. The black 16:9 canvas with two rounded square panels and matching orange labels makes the comparison readable in one image.
+
+GPT Image 2.5 · Text-to-image · Source: [@HeyOz_AI on X](https://x.com/HeyOz_AI/status/2097590858564726955) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`beauty-ad`](tags.md#tag-beauty-ad) [`model-comparison`](tags.md#tag-model-comparison) [`liquid-splash`](tags.md#tag-liquid-splash) [`text-layout`](tags.md#tag-text-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Goal: Create a wide comparison graphic showing two generated versions of a rhode beauty static ad for Peptide Lip Treatment in Watermelon Slice, with a black presentation background and two square ad mockups side by side.
+
+Canvas: 16:9 horizontal frame, black background, high contrast, clean social-media comparison layout.
+
+Layout: Place two rounded-corner square ad images centered horizontally with generous spacing. The left panel is labeled above in bright orange text: “GPT-Image-2”. The right panel is labeled above in the same bright orange text: “GPT-Image-2.5”. Add one small italic orange caption centered near the bottom reading “prompt in comments”.
+
+Ad panels: Use exactly 2 square beauty advertisement panels.
+1. Left panel: soft pink background, rounded corners, elegant editorial beauty-ad composition. At the upper left, large serif headline text reads “A SLICE OF GLOSS.” with smaller text below reading “Peptide Lip Treatment”. A pink rhode Peptide Lip Treatment tube floats diagonally from upper right toward lower center, with vertical white “rhode” branding. Surround it with a glossy pink gel swirl, transparent splash droplets, and watermelon slices. Include a large circular pink sunburst shape behind the product. Watermelon elements count: 3 visible slices or wedges — one large lower watermelon slice, one right-middle slice behind the tube, and one small upper-right wedge. Keep the product large and central.
+2. Right panel: more dynamic, brighter, more detailed version of the same rhode ad. Pink background, rounded corners, upper-left serif headline “A SLICE OF GLOSS.” and smaller “Peptide Lip Treatment”. A larger pink rhode tube floats diagonally near the center, surrounded by a dramatic translucent glossy pink splash ribbon, many bubbles and droplets, and watermelon slices. Watermelon elements count: 5 visible pieces — one large foreground watermelon strip at the bottom, one left-middle wedge, one right-middle wedge, one small upper-right wedge, and one partial slice behind the splash near the center. The product should appear sharper, glossier, and more premium than the left panel.
+
+Visual style: polished product advertising, vivid watermelon pinks and reds, glossy liquid textures, studio lighting, high-end cosmetics campaign, crisp typography, saturated color, realistic 3D product rendering mixed with surreal splash photography.
+
+Text and customization: Use the top labels {argument name="left model label" default="GPT-Image-2"} and {argument name="right model label" default="GPT-Image-2.5"}. Use the ad headline {argument name="headline text" default="A SLICE OF GLOSS."}. Use the brand on the tube {argument name="brand name" default="rhode"}. Use the bottom caption {argument name="bottom caption" default="prompt in comments"}.
+
+Constraints: Keep exactly 2 comparison panels, exactly 2 orange model labels, and exactly 1 bottom caption. Do not add extra logos, watermarks, UI chrome, or additional text outside the specified labels and ad copy.
+```
+
+</details>
+
+<a id="gpt-image-rolex-submariner-exploded-view"></a>
+### Exploded Rolex Submariner dive watch in seven parts
+
+<a href="https://x.com/RoundtableSpace/status/2055170060172579287"><img src="../../previews/gpt-image-rolex-submariner-exploded-view.jpg" width="360"></a>
+
+Listing exactly seven components in a fixed vertical order makes the exploded layout read as a clear sequence. The half-opened movement module shows how the parts connect, and the dark studio backdrop with a 4:3 landscape frame keeps it looking like a product shot rather than a diagram.
+
+GPT Image 2 · Text-to-image · Source: [@RoundtableSpace on X](https://x.com/RoundtableSpace/status/2055170060172579287) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`exploded-view`](tags.md#tag-exploded-view) [`luxury-watch`](tags.md#tag-luxury-watch) [`product-render`](tags.md#tag-product-render) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a photorealistic luxury product rendering of an exploded mechanical dive watch, centered on a Rolex Submariner in stainless steel with a black dial and black ceramic bezel. Canvas is landscape 4:3, dark charcoal-to-black studio background, dramatic softbox reflections, ultra sharp macro detail, premium advertising look, no people. Composition: the fully assembled watch occupies the right half of the image at a slight three-quarter angle, with a brushed oyster-style metal bracelet continuing upward and downward out of frame; the crown is visible on the right side, the serrated bezel has white minute markings and large numerals 10, 20, 30, and 50, and the dial shows luminous round, rectangular, and triangle indices, Mercedes-style hour hand, minute hand, seconds hand, and small white printed dial text including the brand crown logo, brand name, model name, depth rating, and certification lines. On the left half, show an exploded vertical stack of exactly 7 separated watch components aligned in perspective: 1) a transparent domed sapphire crystal floating at the top, 2) a black rotating bezel insert with white markings beneath it, 3) a dark chapter/rehaut ring with tiny engraved brand text, 4) the black watch dial with luminous markers and printed brand/model text, 5) three separate silver hands floating below the dial, 6) a detailed mechanical movement with jewels, screws, gears, and bridges, and 7) the lower steel caseback/case ring at the bottom. Between the exploded stack and the complete watch, show a partially separated circular movement and case module tilted open, exposing gears, gold-toned wheels, ruby jewels, screws, and a rotor with a small gold crown emblem, as if the mechanism is being pulled into the watch. Materials: polished and brushed stainless steel, black glossy ceramic, transparent glass edge highlights, engraved ridges, high-contrast reflections, precise machining, realistic shadows, shallow depth of field but all main parts crisp. Text should be legible where possible and resemble authentic luxury watch dial typography, using black, brushed stainless steel, and deep black. Constraints: make the image look like a high-end technical product visualization, not a diagram; no captions, no labels outside the watch, no watermark, no extra watches, no hands or tools.
+```
+
+</details>
 
 <a id="gpt-image-saint-baroque-black-gold-potato-chips-bag"></a>
 ### Black and Gold Baroque Saint Potato Chips Bag
@@ -849,6 +1988,27 @@ No watermarks, no logos.
 </details>
 
 Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-strawberry-energy-drink-athlete-ad"></a>
+### Athlete leaping beside strawberry energy drink can
+
+<a href="https://x.com/SPEEDAI07/status/2049043627163435040"><img src="../../previews/gpt-image-strawberry-energy-drink-athlete-ad.jpg" width="360"></a>
+
+Layering the product, the athlete and the splash in one scene works because the prompt fixes each element's position: subject in midair, can in the foreground, strawberries on a glossy surface. Stating the lighting and a bold typography band behind the subject gives the image a finished ad look.
+
+GPT Image 2 · Text-to-image · Source: [@SPEEDAI07 on X](https://x.com/SPEEDAI07/status/2049043627163435040) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`energy-drink`](tags.md#tag-energy-drink) [`product-ad`](tags.md#tag-product-ad) [`sports`](tags.md#tag-sports) [`strawberry`](tags.md#tag-strawberry)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface.
+
+Bright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.
+```
+
+</details>
 
 <a id="gpt-image-three-reference-amber-shampoo-bottle-ad"></a>
 ### Amber shampoo bottle ad with leaf shadows

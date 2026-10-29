@@ -1,0 +1,64 @@
+id: nano-banana-brand-grid-poster-template
+title:
+  en: Adidas runner and Red Bull F1 in muted grid
+  zh: 阿迪达斯跑者与红牛赛车的柔和色块海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- brand-poster
+- template
+- muted-palette
+- geometric
+source:
+  name: '@AmirMushich on X'
+  url: https://x.com/AmirMushich/status/2028115571724660920
+  credit: AmirMušić
+  likes: 2570
+  captured: '2026-10-29'
+  posted: '2026-03-01'
+notes:
+  en: A brand slot plus numbered phases (layering, 2x2 grid, muted palette, studio light, single logo) gives the model a fixed checklist, so one template works for any brand. Naming palette shifts with examples like dusty rose and slate blue keeps the colours soft and free of gradients.
+  zh: '[BRAND NAME] 占位加上分阶段的固定指令（分层、2x2 网格、柔和配色、棚拍光、单色标志），让同一模板适用于任何品牌。用 dusty rose、slate blue 这类示例限定色调，让颜色柔和且没有渐变。'
+prompt: |
+  (access Nano Banana 2 here:
+  https://
+  amirmushich.link/LTX_NBP)
+
+  [BRAND NAME]. Act as a World-Class Editorial Designer.
+
+  PHASE 1: DYNAMIC SUBJECT LOGIC.
+
+  - Subject Selection: Autonomously analyze [BRAND NAME].
+
+  - Layering (The Sandwich Effect): Interweave the subject with background shapes. Some parts of the car/person must be hidden behind geometric blocks, while other parts (wheels, limbs, props) must overlap them to create 3D depth.
+
+  PHASE 2: GRID & GEOMETRY.
+
+  - Layout: A clean 2x2 grid composition.
+
+  - Overlays: Superimpose large, bold geometric arcs and circles over the grid.
+
+  - Visual Balance: Place one iconic product prop (e.g., a floating key fob for cars or a ball for sports) in a separate quadrant to balance the subject.
+
+  PHASE 3: SOPHISTICATED MUTED PALETTE.
+
+  - Color Direction: DO NOT use aggressive neon or oversaturated colors.
+
+  - Palette: Identify the core colors of [BRAND NAME] and shift them to a "Sophisticated Muted" spectrum.
+
+  - Tones: Use desaturated, earthy, or "dusty" versions of the brand colors (e.g., instead of hot pink, use dusty rose; instead of bright mint, use sage green; instead of royal blue, use slate blue).
+
+  - Finish: Matte, flat color blocks with zero gradients.
+
+  PHASE 4: PHOTOGRAPHY & LIGHTING.
+
+  - Subject Style: High-end commercial studio photography.
+
+  - Lighting: Soft, diffused studio lighting with gentle highlights. No harsh shadows.
+
+  - Integration: The subject must feel physically embedded into the graphic grid.
+
+  PHASE 5: MINIMALIST BRANDING.
+
+  - Logo: Place a clean, single-color [BRAND NAME] logo in the center of one background block. No taglines, just the iconic symbol.

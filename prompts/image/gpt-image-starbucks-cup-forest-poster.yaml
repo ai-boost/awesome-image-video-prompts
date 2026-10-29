@@ -1,0 +1,75 @@
+id: gpt-image-starbucks-cup-forest-poster
+title:
+  en: Starbucks cup holds a miniature forest world
+  zh: 星巴克杯中藏着微型森林世界
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- surreal
+- poster
+- coffee-brand
+- typography
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2098626670186090499
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 242
+  captured: '2026-10-29'
+  posted: '2026-09-12'
+notes:
+  en: 'The layout is written as separate blocks (rounded background panel, cropped oversized type behind the subject, bottom feature strip), so each element lands in its place. The surreal idea sits on the product itself: the coffee inside the cup becomes a forest with a waterfall, and the steam turns into clouds above the subject.'
+  zh: 提示词把布局拆成独立的分块，包括圆角背景板、被主体遮挡的超大字样和底部信息条，让每个元素都能落在对应位置。超现实创意落在产品本身上，杯中咖啡变成带瀑布的森林，蒸汽则在主体上方化作云层。
+prompt: |
+  4:5 vertical premium poster, 8K, bold commercial layout × surreal realism
+
+  🧠 CORE IDEA:
+  “YOUR COFFEE IS A WORLD.”
+
+  🎬 LAYOUT (INSPIRED BY SOURCE):
+
+  BACKGROUND BLOCK:
+  Large rounded rectangle in deep Starbucks green
+
+  GIANT TYPOGRAPHY:
+  “STAR”
+  bold, cropped, sitting behind subject
+
+  👤 SUBJECT:
+
+  Young adult holding Starbucks cup toward camera
+  same perspective as reference (foreground dominance)
+
+  calm expression, slight curiosity
+
+  ☕ PRODUCT + SURREAL TWIST:
+
+  Starbucks cup in hand →
+
+  Inside the cup:
+  - miniature forest ecosystem
+  - tiny waterfall of coffee flowing
+  - mist rising into sky
+
+  Steam morphs into clouds above subject
+
+  ✨ GRAPHIC ELEMENTS:
+
+  - sparkle icons ✦
+  - soft fog layers
+  - floating leaves
+
+  ✍️ TEXT SYSTEM:
+
+  Top pill:
+  “Starbucks Coffee”
+
+  Small text:
+  “Signature Roast”
+
+  BOTTOM FEATURE STRIP:
+
+  - Ethically Sourced
+  - Fresh Brewed
+  - Rich Aroma
+  - Crafted Daily

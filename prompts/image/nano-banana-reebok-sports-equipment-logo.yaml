@@ -1,0 +1,37 @@
+id: nano-banana-reebok-sports-equipment-logo
+title:
+  en: Reebok logo sculpted from sports equipment
+  zh: 用运动器材拼成的 Reebok 标志
+model: Nano Banana 2
+mode: text-to-image
+category: brand
+tags:
+- sports
+- logo
+- 3d
+- product-visualization
+source:
+  name: '@ShamsAmin56 on X'
+  url: https://x.com/ShamsAmin56/status/2069718453821559218
+  credit: Shams
+  likes: 83
+  captured: '2026-10-29'
+  posted: '2026-06-24'
+notes:
+  en: 'A bracketed brand placeholder makes the template reusable for any brand, while the explicit #F5F5F0 background and 9:16 frame keep the layout stable. Cropped equipment clusters in the corners frame the centered symbol without competing with it.'
+  zh: '方括号品牌占位符让同一模板可以替换成任何品牌，明确指定 #F5F5F0 背景色和 9:16 画幅则保证版式稳定。四角被裁切的器材堆起到框定中心标志的作用，又不抢主体。'
+prompt: |
+  Create a premium 3D sports logo for [BRAND NAME], the main logo symbol realistically sculpted from a rich mix of sports equipment including soccer balls, basketballs, running shoes, tennis rackets, footballs, boxing gloves, dumbbells, and cricket bats fused together in dynamic floating 3D form, highly detailed textures and materials, cinematic studio lighting.
+
+  Top-left: small monochrome black [BRAND] logo.
+  Top-right corner: half-visible, slightly cropped cluster of sports equipment softly faded into background.
+  Bottom-left corner: half-visible, slightly cropped cluster of sports equipment softly faded.
+
+  Clean off-white background #F5F5F0, minimalist premium product visualization, 9:16 aspect ratio, sharp focus, 8k --stylize 250.
+
+  How to Use the Template
+
+  Replace the placeholders:
+  [BRAND NAME] → e.g. Nike, Adidas, Puma, Jordan Brand
+
+  [LOGO DESCRIPTION] → Describe the main logo shape/symbol (very important for good results)

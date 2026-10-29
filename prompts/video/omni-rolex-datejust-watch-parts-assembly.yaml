@@ -1,0 +1,71 @@
+id: omni-rolex-datejust-watch-parts-assembly
+title:
+  en: Tiny watch parts scattered on a dusk workbench
+  zh: 黄昏工作台上散落的微型表芯零件
+model: Gemini Omni Flash
+mode: text-to-video
+tags:
+- product-reveal
+- watchmaking
+- macro
+- luxury
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2094772953003311105
+  credit: Mr Das
+  likes: 228
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+video: https://x.com/MrDasCreates/status/2094772953003311105
+notes:
+  en: Timed beats for each second range, a single unbroken shot, and explicit lens and camera moves keep the scene coherent from the bench to the floating watch. The constraints block sets dialogue, voiceover and on-screen text to none, which keeps the output free of captions.
+  zh: 按时间段（0秒到3秒、3秒到7秒、7秒到10秒）分段描述，并指定单镜头、焦段和运镜，使画面从工作台过渡到悬浮手表时保持连贯。constraints 中将对白、旁白和字幕全部设为无，避免生成多余文字。
+prompt: |
+  {
+    "model": "gemini-omni-1.1-flash",
+    "duration": "10s",
+    "aspect_ratio": "16:9",
+    "shot": {
+      "structure": "single continuous unbroken shot, no scene cuts",
+      "composition": "starts wide on a dimly lit Swiss watchmaker's atelier workbench, follows individual precision components rising and interlocking, ends on a centered floating Rolex Datejust close-up",
+      "lens": "50mm for the workshop environment, then 85mm for the product reveal",
+      "frame_rate": "24fps cinematic",
+      "camera_movement": "slow push-in across the bench following the rising parts, then a gentle orbital arc as they lock into the watch, hold steady on the hovering timepiece"
+    },
+    "timeline": {
+      "0-3s": "Warm-lit luxury watchmaking atelier at dusk. Polished walnut workbench scattered with tiny gears, screws, hands, and a gold case. Soft tungsten lamps, leather tools, faint dust motes in the air.",
+      "3-7s": "Dozens of microscopic brass and steel components lift from the bench and rotate in precise, clockwork orbits. They snap together mid-air with tiny metallic clicks into the exact silhouette of a Rolex Datejust. Subtle gold reflections and micro-spark highlights on polished surfaces.",
+      "7-10s": "The assembled form pulses once and materializes into a real Rolex Datejust with fluted bezel and jubilee bracelet, hovering weightlessly. The second hand begins ticking. Warm rim light and faint workshop haze."
+    },
+    "subject": {
+      "description": "dozens of precision watch components rising and interlocking in elegant mechanical orbits to form a luxury timepiece silhouette",
+      "props": "final Rolex Datejust formed from swirling parts, then transitioning into real branded watch while hovering mid-air"
+    },
+    "scene": {
+      "location": "traditional Swiss watchmaker's atelier with wooden workbench",
+      "time_of_day": "early evening dusk, warm tungsten glow, lingering workshop atmosphere",
+      "environment": "quiet precision workshop, scattered tools, leather mats, gold shavings"
+    },
+    "visual_details": {
+      "action": "parts lift, rotate in organized mechanical paths, lock into watch outline, pulse, then morph into finished Rolex Datejust suspended in space",
+      "special_effects": "micro-particle metal animation, slow-motion gold reflections, mid-air material morph, subtle levitation shimmer and dust trails"
+    },
+    "cinematography": {
+      "lighting": "warm directional tungsten light, gleaming metal highlights, soft gold rim light on the floating watch",
+      "color_palette": "rich walnut browns, polished golds, steel silvers, warm ambers",
+      "tone": "precise, heritage luxury, quiet mastery"
+    },
+    "audio": {
+      "music": "subtle orchestral strings with delicate piano and faint ticking motifs",
+      "ambient": "distant workshop hush, occasional tool clink, evening stillness",
+      "sound_effects": "tiny metallic snaps as parts lock, precision click when the form completes, faint mechanical hum under levitation",
+      "mix": "intimate, refined, workshop-forward with a clean musical center"
+    },
+    "constraints": {
+      "dialogue": "none",
+      "voiceover": "none",
+      "on_screen_text": "none",
+      "captions": "none",
+      "subtitles": false
+    }
+  }

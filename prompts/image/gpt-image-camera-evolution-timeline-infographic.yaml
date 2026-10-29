@@ -1,0 +1,24 @@
+id: gpt-image-camera-evolution-timeline-infographic
+title:
+  en: Camera evolution timeline from film to AI
+  zh: 从胶片到 AI 的相机演变时间线
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- timeline
+- camera
+- poster
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2053487042605326593
+  credit: Smiling Khan
+  likes: 100
+  captured: '2026-10-29'
+  posted: '2026-05-10'
+notes:
+  en: Each camera era is listed in chronological order with a date label, a product render, spec callouts and a matching sample frame, so the timeline structure carries the whole poster. The dark background with gold and neon blue accents keeps the palette consistent from top to bottom.
+  zh: 按时间顺序列出每个相机时代，每段配有年代标签、产品渲染图、规格注释和对应的示例画面，时间线结构撑起整张海报。深色背景搭配金色与霓虹蓝强调色，使整张图的配色从上到下保持统一。
+prompt: |
+  Ultra detailed vertical infographic poster showing the evolution of cameras from vintage film photography to futuristic AI cinematic systems. Include realistic renders of vintage film cameras, disposable cameras, VHS camcorders, DSLR cameras, mirrorless cameras, smartphone cinema rigs, drone cameras, and futuristic AI-powered cinema cameras. Arrange them in a clean timeline layout with glowing technical callouts, cinematic labels, UI overlays, camera specs, lens details, and photography icons. Dark premium background with gold and neon blue accents, realistic textures, dramatic studio lighting, cinematic photography aesthetic, modern editorial design, high-tech sci-fi feel, ultra sharp details, magazine-quality infographic style, symmetrical composition, realistic reflections, futuristic interface graphics.”

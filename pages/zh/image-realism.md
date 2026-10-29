@@ -1,6 +1,172 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 61 条
+[返回目录](../../README_zh.md) · 全部 85 条
+
+<a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
+### 可口可乐罐车漏液，旁边是Mentos货车
+
+<a href="https://x.com/techhalla/status/2100526486113472703"><img src="../../previews/gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam.jpg" width="360"></a>
+
+以未经摆拍的行车记录仪视角构图，画面包含挡风玻璃、车窗边框和仪表盘边缘，让场景像真实抓拍。写明品牌涂装、深棕色喷流和关闭的货车车门，使两个品牌清晰可辨，漏液成为画面焦点。
+
+GPT Image 2.5 · 文生图 · 出处: [@techhalla on X](https://x.com/techhalla/status/2100526486113472703) · 22,510 赞，统计于 2026-10-29
+
+[`dashcam`](tags.md#tag-dashcam) [`realism`](tags.md#tag-realism) [`branded-vehicles`](tags.md#tag-branded-vehicles) [`spill`](tags.md#tag-spill)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+First, lock the initial frame to a realistic one. I've used GPT Image 2.5 and the prompt below:
+
+DIRECTIVE:
+Produce one still that reads as a real in-car dashcam frame grabbed from a moving car on a highway. Optical dashcam capture, wide windshield view, windshield glass, A-pillar, a slice of dashboard/hood — lived-in dashcam JPEG, not cinema, not HDR.
+
+BEAT / COMPOSITION:
+Looking forward through the windshield. On the LEFT side of the road (left lane or left shoulder, clearly in frame): TWO branded trucks close together.
+
+COCA-COLA TRUCK (LEFT, CRITICAL):
+A full-size Coca-Cola tanker / delivery truck, official Coca-Cola red livery and logos readable. It has a breakdown: a torn ragged hole in the tank wall. A thick, heavy jet of dark-brown Coca-Cola is blasting out of that hole onto the asphalt — lots of liquid, puddle spreading, foam, spray in the air, wet road shine. The truck is stopped or crawling, hazard situation.
+
+MENTOS TRUCK (BESIDE IT, CRITICAL):
+Right next to the Coca-Cola truck (same left cluster, slightly ahead or alongside): a closed box truck / delivery truck with large, unmistakable MENTOS branding on the side (Mentos logo, candy rolls artwork). Rear and side doors CLOSED. No candy spilling. You can clearly read that it is a Mentos truck.
+
+CAMERA PACK:
+Fixed dashcam behind the windshield, slight barrel wide, dashboard or hood bottom of frame, windshield dirt/reflections, timestamp overlay optional, daytime road, other traffic farther ahead. Real consumer dashcam still.
+
+LIGHT:
+Daylight, overcast or sun, real road color, cola looking like dark soda not black oil.
+
+PHOTOGRAPHIC CHARACTER:
+Unstaged dashcam grab — physically grounded trucks, readable brands, the leak is the event.
+
+Once it's ready, use it as reference for Seedance 2.5 and this prompt:
+
+[STYLE + CAMERA + ATMOSPHERE]
+Vertical 3:4 smartphone video filmed FROM INSIDE a moving car, passenger or driver seat. Phone held handheld (not a bolted dashcam): arms, slight breathing shake, windshield and A-pillar in frame, a slice of dashboard/hood at the bottom, maybe a finger edge. We are ARRIVING — forward motion first, trucks growing larger, then we slow and stop short of the cola lake. CONTINUOUS SINGLE TAKE the entire 30s. Digital pinch-zooms only (no cuts): punch into the Coke jet, the jug fill, the Mentos doors, the launch, then zoom out as he shrinks to the horizon. Daylight, overcast, wet asphalt, rain specks on glass. Consumer phone JPEG, autofocus hunting, rolling shutter. Photoreal live physics: cola viscosity, foam, Mentos cases, one adult body launched like a Mentos rocket.
+
+LOCKED SET / VEHICLES:
+- LEFT ahead through the windshield: red Coca-Cola tanker with a ragged hole, dark-brown Coca-Cola ALREADY blasting onto the lane, spreading cola lake.
+- BESIDE it: Mentos box truck, rear doors CLOSED at arrival, Mentos livery readable ("mentos / The Freshmaker").
+- Highway continuing past them toward a clear vanishing-point horizon.
+- NO other truck for the guy. He does not exit a vehicle.
+
+LOCKED CAST:
+- THE GUY: one very large man alone — sweat-dark tank top, cargo shorts, stained baseball cap, Alabama redneck energy. No second person. He ENTERS FRAME FROM THE RIGHT (shoulder / right edge of the windshield view) already on foot — he does not get out of any truck, van, or car.
+- HERO OBJECT: one giant gas-station plastic jug / Big Gulp–scale cup in his right hand. Starts EMPTY (daylight visible through clear plastic), stays in that hand until the blast.
+
+Diegetic audio: road noise while arriving, cola hiss, gulping, metal latch, volcanic foam roar, Doppler scream as he flies away, phone mic clipping.
+
+[IMAGE REFERENCES]
+[ref_image] = locked opening phone still from inside the car looking through the windshield at the Coke tanker + Mentos truck cluster. Tanker, hole, cola jet, Mentos truck, and in-car foreground are LAW. Clip BEGINS with us still rolling toward that cluster.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: [HOOK — ARRIVING + ZOOM] Phone already rolling. Road noise. Through the windshield the Coca-Cola tanker and Mentos truck are already ahead on the left; cola ALREADY jetting from the hole. We close distance — trucks grow. Digital zoom punches into the Coke stream and the hole. By ~2.5s brakes dip. Several events already: motion, the leak, closing in, first zoom.
+
+3-5s: [STOP + HE ENTERS FROM RIGHT] We fully stop. Idle phone shake. Zoom out a notch. THE GUY walks INTO FRAME FROM THE RIGHT — already on foot from the shoulder / right edge, giant EMPTY jug held high, clear plastic with daylight through it. He does not exit any vehicle. He steps straight into the cola lake toward the tanker jet.
+
+5-9s: [FILL — HOLD IT] He shoves the empty jug INTO the Coke stream. ONE CONTACT: jug into the jet. Phone slam-zooms the fill and HOLDS. For a clear ~2 full seconds (through ~7–8s) the jug is STILL filling under the blast — brown liquid climbing the plastic, foam boiling over the rim, overflowing his forearm, stream hammering the mouth of the jug the whole time. Only then does he pull the full heavy jug out and raise it.
+
+9-12s: [CHUG] He tilts and CHUGS — huge gulps, cola down the tank top. Empties most of it, gasps, still holding the jug. Turns to the Mentos rear doors. Phone zooms out enough to keep tanker jet + Mentos bumper + him in frame.
+
+12-16s: [OPEN + DUMP] ONE CONTACT: he yanks both Mentos rear doors open. Cases stacked high. He dumps a case — Mentos rolls cascade into the cola lake. Packs split, white mints into the brown river. Digital zoom on the mint waterfall hitting the puddle. He still stands in the lake with the jug.
+
+16-20s: [IT GOES] Hard fizz, then a WHITE FOAM COLUMN erupts between the trucks. ONE CONTACT: the fountain hits him from below like a human Mentos rocket. Feet leave asphalt. Jug flies. He launches UP and AWAY down the highway axis. Phone slam-zooms his body leaving the ground, then struggles to track him.
+
+20-24s: [HUMAN FOUNTAIN] He is a dark silhouette riding the white column, spinning once, cap gone. The geyser leans him toward the open highway horizon. Foam hits our windshield — phone jerks but stays inside the car, still filming through glass. Digital zoom hunting his shape in the spray.
+
+24-26s: [SHRINKS] Zoom out through foam streaks on the glass. He is airborne over the far lanes, a tiny spinning figure on a white spray trail, Mentos truck hopping, tanker still feeding the column. Phone digital-zooms into the shrinking speck, then out again.
+
+26-30s: [PAYOFF — GONE] He dwindles to a speck and DISAPPEARS into the horizon haze past the vanishing point (~1s earlier than before). Phone holds on empty sky/road where he vanished, foam still climbing between the trucks, Mentos doors still open, Coke still dumping. Final tiny digital zoom into that empty vanishing point. Loop-open: empty horizon, roar still going.
+
+[STYLE & QUALITY BOOSTERS]
+Photoreal handheld phone from inside a car, 3:4 vertical. Arriving motion then stop. Digital pinch-zooms only, continuous take. One man enters from the RIGHT on foot — never exits a vehicle. Empty jug fills on camera for a clear multi-second hold. Body launched to the vanishing point. Coherent liquid physics. Identity lock to [ref_image] for both trucks, the hole, and the in-car windshield framing.
+```
+
+</details>
+
+<a id="gpt-image-coca-cola-tanker-mentos-truck-dashcam"></a>
+### 可乐罐车漏液，旁边停着薄荷糖货车
+
+<a href="https://x.com/techhalla/status/2100526482212712584"><img src="../../previews/gpt-image-coca-cola-tanker-mentos-truck-dashcam.jpg" width="360"></a>
+
+以未经摆拍的行车记录仪画面构图，挡风玻璃边框和仪表台入镜，让画面像真实拍摄。明确写出车身配色、罐体破口位置和紧闭的车门，两辆车都清晰可辨，可乐喷射成为画面焦点。
+
+GPT Image 2.5 · 文生图 · 出处: [@techhalla on X](https://x.com/techhalla/status/2100526482212712584) · 22,510 赞，统计于 2026-10-29
+
+[`dashcam`](tags.md#tag-dashcam) [`photoreal`](tags.md#tag-photoreal) [`road-scene`](tags.md#tag-road-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+First, lock the initial frame to a realistic one. I've used GPT Image 2.5 and the prompt below:
+
+DIRECTIVE:
+Produce one still that reads as a real in-car dashcam frame grabbed from a moving car on a highway. Optical dashcam capture, wide windshield view, windshield glass, A-pillar, a slice of dashboard/hood — lived-in dashcam JPEG, not cinema, not HDR.
+
+BEAT / COMPOSITION:
+Looking forward through the windshield. On the LEFT side of the road (left lane or left shoulder, clearly in frame): TWO branded trucks close together.
+
+COCA-COLA TRUCK (LEFT, CRITICAL):
+A full-size Coca-Cola tanker / delivery truck, official Coca-Cola red livery and logos readable. It has a breakdown: a torn ragged hole in the tank wall. A thick, heavy jet of dark-brown Coca-Cola is blasting out of that hole onto the asphalt — lots of liquid, puddle spreading, foam, spray in the air, wet road shine. The truck is stopped or crawling, hazard situation.
+
+MENTOS TRUCK (BESIDE IT, CRITICAL):
+Right next to the Coca-Cola truck (same left cluster, slightly ahead or alongside): a closed box truck / delivery truck with large, unmistakable MENTOS branding on the side (Mentos logo, candy rolls artwork). Rear and side doors CLOSED. No candy spilling. You can clearly read that it is a Mentos truck.
+
+CAMERA PACK:
+Fixed dashcam behind the windshield, slight barrel wide, dashboard or hood bottom of frame, windshield dirt/reflections, timestamp overlay optional, daytime road, other traffic farther ahead. Real consumer dashcam still.
+
+LIGHT:
+Daylight, overcast or sun, real road color, cola looking like dark soda not black oil.
+
+PHOTOGRAPHIC CHARACTER:
+Unstaged dashcam grab — physically grounded trucks, readable brands, the leak is the event.
+
+Once it's ready, use it as reference for Seedance 2.5 and this prompt:
+
+[STYLE + CAMERA + ATMOSPHERE]
+Vertical 3:4 smartphone video filmed FROM INSIDE a moving car, passenger or driver seat. Phone held handheld (not a bolted dashcam): arms, slight breathing shake, windshield and A-pillar in frame, a slice of dashboard/hood at the bottom, maybe a finger edge. We are ARRIVING — forward motion first, trucks growing larger, then we slow and stop short of the cola lake. CONTINUOUS SINGLE TAKE the entire 30s. Digital pinch-zooms only (no cuts): punch into the Coke jet, the jug fill, the Mentos doors, the launch, then zoom out as he shrinks to the horizon. Daylight, overcast, wet asphalt, rain specks on glass. Consumer phone JPEG, autofocus hunting, rolling shutter. Photoreal live physics: cola viscosity, foam, Mentos cases, one adult body launched like a Mentos rocket.
+
+LOCKED SET / VEHICLES:
+- LEFT ahead through the windshield: red Coca-Cola tanker with a ragged hole, dark-brown Coca-Cola ALREADY blasting onto the lane, spreading cola lake.
+- BESIDE it: Mentos box truck, rear doors CLOSED at arrival, Mentos livery readable ("mentos / The Freshmaker").
+- Highway continuing past them toward a clear vanishing-point horizon.
+- NO other truck for the guy. He does not exit a vehicle.
+
+LOCKED CAST:
+- THE GUY: one very large man alone — sweat-dark tank top, cargo shorts, stained baseball cap, Alabama redneck energy. No second person. He ENTERS FRAME FROM THE RIGHT (shoulder / right edge of the windshield view) already on foot — he does not get out of any truck, van, or car.
+- HERO OBJECT: one giant gas-station plastic jug / Big Gulp–scale cup in his right hand. Starts EMPTY (daylight visible through clear plastic), stays in that hand until the blast.
+
+Diegetic audio: road noise while arriving, cola hiss, gulping, metal latch, volcanic foam roar, Doppler scream as he flies away, phone mic clipping.
+
+[IMAGE REFERENCES]
+[ref_image] = locked opening phone still from inside the car looking through the windshield at the Coke tanker + Mentos truck cluster. Tanker, hole, cola jet, Mentos truck, and in-car foreground are LAW. Clip BEGINS with us still rolling toward that cluster.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: [HOOK — ARRIVING + ZOOM] Phone already rolling. Road noise. Through the windshield the Coca-Cola tanker and Mentos truck are already ahead on the left; cola ALREADY jetting from the hole. We close distance — trucks grow. Digital zoom punches into the Coke stream and the hole. By ~2.5s brakes dip. Several events already: motion, the leak, closing in, first zoom.
+
+3-5s: [STOP + HE ENTERS FROM RIGHT] We fully stop. Idle phone shake. Zoom out a notch. THE GUY walks INTO FRAME FROM THE RIGHT — already on foot from the shoulder / right edge, giant EMPTY jug held high, clear plastic with daylight through it. He does not exit any vehicle. He steps straight into the cola lake toward the tanker jet.
+
+5-9s: [FILL — HOLD IT] He shoves the empty jug INTO the Coke stream. ONE CONTACT: jug into the jet. Phone slam-zooms the fill and HOLDS. For a clear ~2 full seconds (through ~7–8s) the jug is STILL filling under the blast — brown liquid climbing the plastic, foam boiling over the rim, overflowing his forearm, stream hammering the mouth of the jug the whole time. Only then does he pull the full heavy jug out and raise it.
+
+9-12s: [CHUG] He tilts and CHUGS — huge gulps, cola down the tank top. Empties most of it, gasps, still holding the jug. Turns to the Mentos rear doors. Phone zooms out enough to keep tanker jet + Mentos bumper + him in frame.
+
+12-16s: [OPEN + DUMP] ONE CONTACT: he yanks both Mentos rear doors open. Cases stacked high. He dumps a case — Mentos rolls cascade into the cola lake. Packs split, white mints into the brown river. Digital zoom on the mint waterfall hitting the puddle. He still stands in the lake with the jug.
+
+16-20s: [IT GOES] Hard fizz, then a WHITE FOAM COLUMN erupts between the trucks. ONE CONTACT: the fountain hits him from below like a human Mentos rocket. Feet leave asphalt. Jug flies. He launches UP and AWAY down the highway axis. Phone slam-zooms his body leaving the ground, then struggles to track him.
+
+20-24s: [HUMAN FOUNTAIN] He is a dark silhouette riding the white column, spinning once, cap gone. The geyser leans him toward the open highway horizon. Foam hits our windshield — phone jerks but stays inside the car, still filming through glass. Digital zoom hunting his shape in the spray.
+
+24-26s: [SHRINKS] Zoom out through foam streaks on the glass. He is airborne over the far lanes, a tiny spinning figure on a white spray trail, Mentos truck hopping, tanker still feeding the column. Phone digital-zooms into the shrinking speck, then out again.
+
+26-30s: [PAYOFF — GONE] He dwindles to a speck and DISAPPEARS into the horizon haze past the vanishing point (~1s earlier than before). Phone holds on empty sky/road where he vanished, foam still climbing between the trucks, Mentos doors still open, Coke still dumping. Final tiny digital zoom into that empty vanishing point. Loop-open: empty horizon, roar still going.
+
+[STYLE & QUALITY BOOSTERS]
+Photoreal handheld phone from inside a car, 3:4 vertical. Arriving motion then stop. Digital pinch-zooms only, continuous take. One man enters from the RIGHT on foot — never exits a vehicle. Empty jug fills on camera for a clear multi-second hold. Body launched to the vanishing point. Coherent liquid physics. Identity lock to [ref_image] for both trucks, the hole, and the in-car windshield framing.
+```
+
+</details>
 
 <a id="gpt-image-night-tokyo-flash-blur-candid-snapshot"></a>
 ### 东京夜晚人行道上的模糊闪光抓拍
@@ -21,6 +187,158 @@ GPT Image 2
 {
   "prompt": "Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman inspired only by general proportions/vibe. Night Tokyo sidewalk beside white ceramic tile wall. Mid-walk, half-profile, turning back in surprise, hand raised toward lens, shy restrained smile, continuing forward, imperfect framing, nearly exiting frame. Flash fired during motion. Strong handheld shake, heavy directional blur, smeared facial details, blurred hand and hair, ghosting, streaked tile wall, deep darkness around. Harsh flash highlights, blown exposure, hard shadows. Raw accidental snapshot, intrusive, playful, fleeting memory. Extremely noisy, heavily blurred, authentic phone-camera look.",
   "negative_prompt": "identity match, face copy, real person replication, anime, illustration, painting, stylized, studio lighting, beauty lighting, sharp focus, clean face, smooth skin, posed portrait, fashion editorial, cinematic, film still, tripod, professional photography"
+}
+```
+
+</details>
+
+<a id="nano-banana-red-one-piece-swimsuit-pool-steps"></a>
+### 红色海贼王连体泳衣女子站在泳池台阶上
+
+<a href="https://x.com/KeorUnreal/status/2039691442440802306"><img src="../../previews/nano-banana-red-one-piece-swimsuit-pool-steps.jpg" width="360"></a>
+
+嵌套的 JSON 结构把主体、姿势、镜头、灯光和负面提示分开写，让模型保持胸前徽章、扶手抓握和水下蓝光的一致。平视角加 50 到 85 毫米人像镜头与适中景深，主体清晰，背景柔和。
+
+Nano Banana 2 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2039691442440802306) · 703 赞，统计于 2026-10-29
+
+[`json-prompt`](tags.md#tag-json-prompt) [`fan-art`](tags.md#tag-fan-art) [`night-pool`](tags.md#tag-night-pool) [`smartphone-photo`](tags.md#tag-smartphone-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "subject": {
+    "desc": "Young woman, fair skin, long straight brown hair over shoulders/back, symmetrical face with full lips, defined eyebrows, green-hazel eyes",
+    "apparel": {
+      "item": "One Piece inspired bodysuit",
+      "style": "Halter-neck sleeveless bodysuit",
+      "color": "Vibrant red base with bright white neon web pattern, red trim, large glowing white neon one piece emblem on chest",
+      "details": "Stretch fabric with neon red and white web design, matching neon red and white patterned thigh-high stockings"
+    },
+    "anatomy": {
+      "body_type": "Naturally proportioned hourglass figure",
+      "bust": "Full bust",
+      "hips": "Wide hips, full thighs, narrow waist",
+      "skin": "Smooth fair with natural tone variation"
+    }
+  },
+  "pose": {
+    "posture": "Standing on pool steps, body leaning slightly forward, weight balanced with both hands gripping the metal handrails on either side, hips angled naturally, one leg slightly forward on a higher step",
+    "limbs": {
+      "right_arm": "Extended to the side gripping the right metal handrail",
+      "left_arm": "Extended to the side gripping the left metal handrail",
+      "head": "Slight tilt, facing forward"
+    },
+    "gaze": "Direct eye contact, soft neutral confident expression"
+  },
+  "environment": {
+    "location": "Outdoor swimming pool at night",
+    "elements": [
+      "Crystal clear blue illuminated pool water with reflections",
+      "Metal pool handrails in foreground",
+      "Pool ladder and steps",
+      "Dark nighttime background with blurred greenery and warm yellow lights",
+      "Neon white written 'KeorUnreal' on wall in backdrop"
+    ]
+  },
+  "camera": {
+    "shot": "Medium (thighs up), vertical 3:4",
+    "angle": "Eye-level slightly frontal",
+    "lens": "50-85mm portrait",
+    "dof": "Moderate, sharp subject, slightly soft distinct background",
+    "framing": "Centered subject"
+  },
+  "lighting": "Vibrant blue pool lighting from underwater with neon reflections on water and skin, soft nighttime ambient lighting, highlights on body contours and fabric sheen",
+  "mood": "Confident calm, glamorous nighttime pool atmosphere",
+  "style": "Photorealistic smartphone photography, high-fidelity detailed fabric/skin textures, natural color grading, unstyled physical proportions",
+  "colors": "Vibrant neon red and white suit dominant, deep blue pool water, warm background lights, natural contrast/saturation",
+  "quality": "High-def sharp focus on eyes/face/suit pattern, low noise, minimal grain",
+  "negative_prompt": "small/reduced/flattened bust, lifted breasts, slimmed torso/hips, proportion averaging, plastic/airbrushed skin, beautification, stylization, depth flattening, wide distortion, mirror selfies, reflections, phone-in-hand"
+}
+```
+
+</details>
+
+<a id="gpt-image-pencil-essay-coffee-stain"></a>
+### 带咖啡渍的线格纸铅笔手写文章
+
+<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="../../previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
+
+提示词先限定媒介（8.5x11 线格纸上的铅笔字）和拍摄方式（手机照片）。再要求笔迹有变化，并指定一处角落的咖啡渍作为小瑕疵，真实感由此而来。
+
+GPT Image 2.5 · 文生图 · 出处: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 赞，统计于 2026-10-27
+
+[`handwriting`](tags.md#tag-handwriting) [`paper`](tags.md#tag-paper) [`phone-photo`](tags.md#tag-phone-photo) [`texture`](tags.md#tag-texture) [`coffee-stain`](tags.md#tag-coffee-stain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+🚨 GPT-Image-2.5 Output
+
+I said it to write like einstein it did it without reference < i did not give image or anything   >
+
+left side is AI and right side is real photo from reddit to compare
+
+Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
+```
+
+</details>
+
+<a id="nano-banana-sadie-sink-lifeguard-stand-golden-hour"></a>
+### 金色时刻救生塔上穿红色泳衣的女性
+
+<a href="https://x.com/Strength04_X/status/2038177524048630043"><img src="../../previews/nano-banana-sadie-sink-lifeguard-stand-golden-hour.jpg" width="360"></a>
+
+用 JSON 分块描述场景、人物、光线和镜头，每个细节都明确。指定 85mm 人像镜头、f/2.8 浅景深和金色时刻侧光，带出杂志摄影质感。
+
+Nano Banana 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2038177524048630043) · 448 赞，统计于 2026-10-29
+
+[`json-prompt`](tags.md#tag-json-prompt) [`portrait`](tags.md#tag-portrait) [`golden-hour`](tags.md#tag-golden-hour) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"scene": {
+    "type": "cinematic beachside portrait",
+    "style": "ultra realistic editorial summer photography",
+    "environment": "wooden beach lifeguard walkway at golden hour, coastal houses and hillside softly blurred in the background"
+  },
+  "subject": {
+    "identity": "Sadie Sink",
+    "pose": "sitting on a wooden boardwalk floor leaning slightly against the side railing, one leg extended naturally, the other bent upward with one hand resting on the knee, relaxed elegant posture",
+    "expression": "calm distant gaze with a soft serious expression",
+    "appearance": {
+      "hair": "long natural wavy red hair",
+      "skin": "fair skin with realistic natural texture",
+      "makeup": "minimal soft natural makeup"
+    }
+  },
+  "wardrobe": {
+    "outfit": "simple red one-piece swimsuit",
+    "footwear": "barefoot with casual sandals placed nearby on the wooden floor"
+  },
+  "composition": {
+    "framing": "full body vertical portrait",
+    "camera_angle": "slightly low eye-level perspective",
+    "background": "sunlit beach architecture and coastal scenery softly blurred"
+  },
+  "lighting": {
+    "setup": "golden hour natural sunlight",
+    "details": "warm side lighting casting long soft shadows across the wooden deck, cinematic glow on skin and hair"
+  },
+  "camera": {
+    "type": "professional DSLR",
+    "lens": "85mm portrait lens",
+    "settings": "f/2.8 shallow depth of field",
+    "quality": "8k ultra photorealistic",
+    "focus": "sharp focus on subject"
+  },
+  "render": {
+    "style": "high-end editorial beach fashion photography",
+    "details": "realistic skin texture, natural sunlight, soft background bokeh, cinematic composition",
+    "restrictions": "no watermark, no logo, no text"
+  },
+  "aspect_ratio": "3:4"
 }
 ```
 
@@ -273,6 +591,78 @@ Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and 
 
 </details>
 
+<a id="nano-banana-surveillance-crosswalk-face-match-hud"></a>
+### 带霓虹人脸匹配界面的监控风格路口照片
+
+<a href="https://x.com/frametheory058/status/2038647491781181624"><img src="../../previews/nano-banana-surveillance-crosswalk-face-match-hud.jpg" width="360"></a>
+
+高位监控视角、35mm 镜头和参考人脸让画面保持写实，同时把追踪框、标签和元数据逐项列为独立的 HUD 元素，使叠加界面显得有条理而不杂乱。
+
+Nano Banana 2 · 上传图改图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2038647491781181624) · 233 赞，统计于 2026-10-29
+
+[`surveillance`](tags.md#tag-surveillance) [`hud-overlay`](tags.md#tag-hud-overlay) [`street-photo`](tags.md#tag-street-photo) [`reference-face`](tags.md#tag-reference-face)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "title": "Hyper-Realistic Surveillance Crosswalk Scene with Futuristic HUD",
+  "description": "A cinematic, hyper-realistic high-angle surveillance-style image capturing a lone male subject walking across a pedestrian crosswalk in an urban environment. The composition emphasizes a technical, observational perspective as if recorded by an advanced security system.",
+  "subject": {
+    "appearance": "Adult male with a clearly defined, recognizable face (reference-based), neutral to focused expression",
+    "clothing": [
+      "Black leather biker jacket",
+      "Black T-shirt",
+      "Dark denim jeans",
+      "Casual sneakers",
+      "Dark sunglasses"
+    ],
+    "accessory": "Holding a red coffee cup in both hands"
+  },
+  "environment": {
+    "location": "Urban pedestrian crosswalk",
+    "lighting": "Diffused natural daylight with soft shadows",
+    "color_palette": [
+      "Muted grays of asphalt",
+      "Glossy black tones",
+      "Subtle urban neutrals"
+    ],
+    "atmosphere": "Gloomy, subdued, and slightly cinematic with a technological surveillance tone"
+  },
+  "camera": {
+    "angle": "High-angle (CCTV / surveillance perspective)",
+    "lens": "35mm",
+    "depth_of_field": "Large depth of field ensuring full scene clarity",
+    "style": "Hyper-realistic, sharp detail, documentary-like capture"
+  },
+  "hud_overlay": {
+    "style": "Futuristic neon blue interface",
+    "elements": [
+      "Dynamic tracking frame outlining the subject",
+      "Segmented highlights around clothing and accessories",
+      "Technical labels such as 'SUBJECT: LEATHER JACKET'",
+      "Facial recognition confirmation window positioned on the left",
+      "Subtle scanning lines and data points",
+      "Camera metadata text in corners (ISO, shutter speed, timestamp)"
+    ],
+    "tone": "Clean, advanced, minimal yet highly technical"
+  },
+  "composition_notes": [
+    "Maintain strong subject centering within crosswalk lines",
+    "Ensure contrast between subject and environment for clarity",
+    "Blend realism with subtle sci-fi interface elements",
+    "Avoid over-saturation; keep tones natural and cinematic"
+  ],
+  "rendering_style": {
+    "quality": "Ultra-detailed, photorealistic",
+    "textures": "Highly defined materials (leather, fabric, asphalt)",
+    "post_processing": "Slight cinematic grading with cool undertones"
+  }
+}
+```
+
+</details>
+
 <a id="gpt-image-fisheye-jump-brick-street"></a>
 ### 鱼眼镜头下跃起伸手的女子与红砖街道
 
@@ -474,6 +864,123 @@ Luxury artisan bakery flatlay photography featuring freshly baked croissants, so
 
 </details>
 
+<a id="nano-banana-low-angle-yellow-top-bulma-poster"></a>
+### 黄色上衣女子站在龙珠海报前的低角度照片
+
+<a href="https://x.com/KeorUnreal/status/2069773380593606947"><img src="../../previews/nano-banana-low-angle-yellow-top-bulma-poster.jpg" width="360"></a>
+
+结构化 JSON 提示词锁定服装、姿势和背景，极低机位加前景腿部形成强透视。正面硬闪光和手机快照质感让画面更像真实照片，而非棚拍。
+
+Nano Banana 2 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2069773380593606947) · 178 赞，统计于 2026-10-29
+
+[`json-prompt`](tags.md#tag-json-prompt) [`low-angle`](tags.md#tag-low-angle) [`fashion`](tags.md#tag-fashion) [`flash-photo`](tags.md#tag-flash-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "subject": {
+    "description": "Adult woman megan fox in her 20s, calm and distant presence, low-angle ultra close-up fashion selfie style",
+    "mirror_rules": "Not a mirror selfie; no phone or reflective surface",
+    "age": "Adult, early 20s",
+    "expression": {
+      "eyes": {
+        "look": "Calm, slightly looking down at camera",
+        "energy": "Cool, quiet, subtle pressure",
+        "direction": "Direct gaze into low lens"
+      },
+      "overall": "Restrained, emotion shown only through eyes"
+    },
+    "face": {
+      "makeup": "Cool-toned british fashion: soft gray-brown eyeshadow, thin eyeliner, natural brows, glossy lips"
+    }
+  },
+  "hair": {
+    "color": "Deep black",
+    "style": "Long straight with soft bends, one side over chest, other near cheek",
+    "effect": "Natural volume with flyaways"
+  },
+  "body": {
+    "frame": "Slim elongated figure with visible collarbones and shoulders",
+    "pose": "Standing, body leaning slightly back, one leg extended with red high heel forward toward camera creating strong perspective, hands relaxed at sides",
+    "skin": {
+      "tone": "Fair cool undertone",
+      "texture": "Smooth with realistic texture, soft flash highlights on shoulders and foreground leg"
+    }
+  },
+  "clothing": {
+    "top": {
+      "type": "Yellow tight sleeveless long crop tank top, loose-fitting with thin straps and a deep side cutout prominently visible revealing skin",
+      "details": "Tight-fitting, small 'Keor' sign embroidered on edge"
+    },
+    "bottom": {
+      "type": "Pink high-waisted ruched bodycon mini skirt",
+      "details": "Asymmetric opening revealing one thigh"
+    }
+  },
+  "accessories": {
+    "headwear": "None"
+  },
+  "photography": {
+    "camera_style": "Indoor low-angle mobile phone selfie / self-timer snapshot",
+    "angle": "Very low, near leg height, pointing upward",
+    "shot_type": "Vertical full-body, strong foreground leg perspective",
+    "aspect_ratio": "9:16",
+    "lighting": "Hard direct front phone flash with soft ambient",
+    "texture": "Realistic phone flash look with slight noise and compression"
+  },
+  "background": {
+    "setting": "Simple indoor space with light gray wall",
+    "elements": [
+      "Huge Bulma manga cosplay poster prominently displayed behind her",
+      "Plain light gray wall"
+    ],
+    "atmosphere": "Quiet, private, casual night-out vibe"
+  },
+  "the_vibe": {
+    "energy": "Calm, restrained, cool",
+    "mood": "Minimal indoor fashion snapshot",
+    "authenticity": "Realistic phone photo imperfections and strong low-angle perspective"
+  },
+  "constraints": {
+    "must_keep": [
+      "Adult woman",
+      "Long black hair",
+      "Yellow strapless top with 'Keor'",
+      "Pink ruched mini skirt",
+      "Low-angle upward shot with strong leg perspective with red high heel",
+      "Hard front flash",
+      "Huge Bulma cosplay poster in background"
+    ],
+    "avoid": [
+      "Face mask",
+      "Underage appearance",
+      "Nudity",
+      "Plastic skin",
+      "Studio lighting",
+      "Extra limbs",
+      "Watermark or text"
+    ]
+  },
+  "negative_prompt": [
+    "face mask",
+    "underage",
+    "nudity",
+    "transparent clothing",
+    "plastic skin",
+    "over-retouched",
+    "studio lighting",
+    "extra fingers",
+    "deformed legs",
+    "watermark",
+    "text",
+    "logo"
+  ]
+}
+```
+
+</details>
+
 <a id="gpt-image-fisheye-tiny-planet-red-tracksuit-plaza"></a>
 ### 鱼眼小星球广场与跃起的红裤女孩
 
@@ -489,6 +996,45 @@ GPT Image 2 · 文生图 · 出处: [@AvelyrahnAI on X](https://x.com/AvelyrahnA
 
 ```text
 Ultra-realistic action photography, extreme fisheye lens (8mm), worm’s-eye view from ground level, dynamic urban plaza scene. A stylish young woman appears to be stepping over the camera, one sneaker sole dominating the foreground, hand reaching toward the lens. She wears oversized red track pants with white side stripes, a fitted white crop top, red-and-white high-top sneakers, and silver headphones. Wind-blown dark hair, natural beauty, confident expression. Massive circular “tiny planet” perspective with historic European architecture curving around the edges of the frame, bright blue sky filled with fluffy white clouds at the center. Cinematic composition, dramatic distortion, ultra-wide angle, vibrant colors, sharp focus, HDR, photorealistic, highly detailed skin texture, travel photography aesthetic, motion energy, depth and scale, 8K resolution, professional DSLR quality, masterpiece, Instagram viral shot.
+```
+
+</details>
+
+<a id="nano-banana-blue-crop-top-studio-portrait"></a>
+### 蓝色露背上衣女性棚拍写实人像
+
+<a href="https://x.com/Strength04_X/status/2056927764549423431"><img src="../../previews/nano-banana-blue-crop-top-studio-portrait.jpg" width="360"></a>
+
+结构化的 JSON 提示词把主体、服装、环境和技术参数分开描述，让每个细节都被固定下来。无缝浅灰背景、柔和漫射的棚拍光线和略低机位的中景构图，共同营造干净的棚拍写实效果。
+
+Nano Banana 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2056927764549423431) · 166 赞，统计于 2026-10-29
+
+[`json-prompt`](tags.md#tag-json-prompt) [`studio`](tags.md#tag-studio) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"style": "Photorealistic fashion photography",
+  "subject": {
+    "name": Sydney Sweeney
+    "features": "Slender, curvy, and fit physique, subtle makeup, pale pink lips, teal teardrop dangle earrings",
+    "pose": "Sitting on the floor with her back to the camera, legs bent upward, looking back softly over her right shoulder with a neutral expression"
+  },
+  "clothing": {
+    "top": "Light-blue ribbed long-sleeve cropped top with an open back and crisscross tie details",
+    "bottom": "Slim-fit light-blue jeans",
+    "shoes": "Black patent leather stiletto high heels with ankle straps"
+  },
+  "environment": {
+    "setting": "Seamless light-gray studio background, minimal and distraction-free",
+    "lighting": "Soft, diffused studio lighting, delicate highlights on hair and skin, subtle shadows emphasizing fabric textures"
+  },
+  "technical": {
+    "framing": "Medium shot, positioned slightly low to emphasize the seated pose",
+    "quality": "Highly detailed, sharp focus, 8k resolution, professional studio quality",
+    "aspect_ratio": "9:16"
+  }
+}
 ```
 
 </details>
@@ -620,6 +1166,60 @@ Composition:
 
 </details>
 
+<a id="nano-banana-retro-kitchen-tiramisu-fashion"></a>
+### 复古厨房里手持提拉米苏的金发模特
+
+<a href="https://x.com/KeorUnreal/status/2110467656272728546"><img src="../../previews/nano-banana-retro-kitchen-tiramisu-fashion.jpg" width="360"></a>
+
+将提示词拆分为主体、服装、布景、灯光和镜头等模块，让每个元素都明确具体。略低角度的全身取景加上指定的配色，让复古厨房风格保持统一。
+
+Nano Banana 2.1 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2110467656272728546) · 142 赞，统计于 2026-10-29
+
+[`json-prompt`](tags.md#tag-json-prompt) [`retro-kitchen`](tags.md#tag-retro-kitchen) [`fashion`](tags.md#tag-fashion) [`tiramisu`](tags.md#tag-tiramisu)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "subject": {
+    "description": "Young woman with fair skin, long wavy blonde hair with bangs, soft smile, looking toward the camera",
+    "hair": "Long wavy blonde hair with curtain bangs, falling over the shoulders",
+    "body": "Curvy, athletic figure",
+    "pose": "Leaning against a kitchen counter, one leg crossed in front of the other, one hand resting on the counter, the other holding a tiramisù",
+    "expression": "Friendly, slight smile, direct gaze"
+  },
+  "outfit": {
+    "top": "yellow short-sleeve cropped polo shirt",
+    "bottom": "Pink high-waisted shorts with a black belt",
+    "footwear": "Red pointed stiletto heels",
+    "accessories": "Black oven mitts on both hands"
+  },
+  "props": {
+    "item": "Freshly tiramisu held on a plate in one hand"
+  },
+  "setting": {
+    "location": "Retro-style kitchen",
+    "background": "Pink walls, turquoise open cabinets filled with colorful glassware, pink refrigerator, black-and-white checkered floor, 'Home Sweet Home' signs, neon city skyline artwork",
+    "added_element": "Neon writing reading 'Keor' glowing in the backdrop"
+  },
+  "lighting": {
+    "type": "Bright, even indoor lighting with a playful retro feel",
+    "effects": "Clean highlights on skin and clothing, colorful kitchen surfaces, soft neon glow from the 'Keor' sign"
+  },
+  "camera": {
+    "angle": "Slightly low full-body angle",
+    "framing": "Full-body shot, subject centered in the kitchen",
+    "style": "Photorealistic, high-detail fashion photography, sharp focus"
+  },
+  "additional_details": {
+    "skin": "Smooth with a natural sheen",
+    "atmosphere": "Playful, colorful retro kitchen scene"
+  }
+}
+```
+
+</details>
+
 <a id="gpt-image-floating-library-above-clouds"></a>
 ### 云海之上漂浮的图书馆与飘动的书籍
 
@@ -668,6 +1268,137 @@ TOWN: along the water's edge runs a continuous waterfront promenade of low pale 
 REFLECTIONS: the water is split into ribbons of colour. Directly beneath the yacht run two bold vertical bands — bright magenta and electric cyan — vivid and saturated, broken into short ripples. Across the rest of the surface, the town lights throw long warm amber and orange columns, with cooler teal and deep green streaks threading between them in the lower right.
 
 PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amber gold, teal green, silver-white moon. Sharp focus, high dynamic range, glossy wet highlights, clean and unmarked.
+```
+
+</details>
+
+<a id="nano-banana-kfc-bag-head-wink-booth"></a>
+### 女子头顶肯德基纸袋眨眼嘟嘴
+
+<a href="https://x.com/john_my07/status/2051611199582937536"><img src="../../previews/nano-banana-kfc-bag-head-wink-booth.jpg" width="360"></a>
+
+提示词以参考照片锁定人物身份，并逐项写明姿势、服装和餐桌物品，使主体与杂乱的快餐桌面保持一致。要求原始 iPhone 质感且不加美颜，有助于保留自然肤质和顶光效果。
+
+Nano Banana 2 · 上传图改图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2051611199582937536) · 123 赞，统计于 2026-10-29
+
+[`kfc`](tags.md#tag-kfc) [`iphone-style`](tags.md#tag-iphone-style) [`reference-identity`](tags.md#tag-reference-identity) [`fast-food`](tags.md#tag-fast-food)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic iPhone-style photo set inside a KFC fast-food restaurant, maintaining the subject’s identity exactly as in the reference image.
+A young Korean woman is seated in a booth, captured from across the table with a slightly wide, casual iPhone perspective. She sits centered in frame, leaning back comfortably while a messy spread of fast food fills the foreground.
+Pose & expression:
+She’s holding a brown KFC paper bag on top of her head with both hands, elbows lifted outward. Her expression is playful and a bit cheeky, one eye closed in a wink, lips slightly pouted, giving a mock-annoyed yet cute vibe.
+Outfit & styling:
+She wears a fitted white sleeveless top, with long, dark flowing hair. Minimal accessories like a thin necklace or chain. Long, well-manicured nails. Overall look is casual, clean, and effortlessly stylish.
+Table setup:
+The table in front is cluttered with KFC-style items, fried chicken buckets, fries, wrappers, branded paper cups with straws, dipping sauces, napkins, tray liner with colorful illustrated graphics, and a crumpled takeaway bag. The arrangement feels natural, slightly chaotic, like mid-meal.
+Environment:
+Modern KFC interior with a mix of white tiles and darker textured walls, subtle branding or typography on the walls, booth seating, and a few tables or stools visible in the background. Typical fast-food ambiance.
+Camera & lighting:
+Shot like a raw iPhone photo, slightly wide lens distortion, overhead indoor lighting that creates mild shadows, unfiltered and authentic. Feels like a spontaneous social media snap rather than a staged shoot.
+Important details:
+Keep the booth framing, bag-on-head pose, wink + pout expression, white sleeveless outfit, and messy fast-food spread consistent. Focus on realism, natural skin texture, accurate food packaging, no smoothing or beauty filters.
+Format: 4K resolution, vertical aspect ratio.
+```
+
+</details>
+
+<a id="nano-banana-kinder-joy-egg-swing-chair"></a>
+### 女子坐在巨型 Kinder Joy 蛋形秋千椅中
+
+<a href="https://x.com/HaniaAi12/status/2028673990672216202"><img src="../../previews/nano-banana-kinder-joy-egg-swing-chair.jpg" width="360"></a>
+
+提示词用明确的左右位置标注每个道具，并固定单一光源方向，让场景层次清晰。上传的人脸参考图配合固定的服装和姿势，保证人物形象一致。
+
+Nano Banana 2 · 上传图改图 · 出处: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2028673990672216202) · 119 赞，统计于 2026-10-29
+
+[`surreal`](tags.md#tag-surreal) [`scale`](tags.md#tag-scale) [`face-reference`](tags.md#tag-face-reference) [`kinder-joy`](tags.md#tag-kinder-joy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A hyper-realistic, 8k, medium shot photograph captured with a standard lens and shallow depth of field, showcasing a surreal indoor scene with cinematic lighting. The composition features a normal-sized woman, using the uploaded face as reference, sitting cross-legged inside a colossal, highly detailed Kinder Joy egg that functions as a swing chair. The giant egg is split, with its white interior forming the seat and the orange, textured exterior visible, suspended by dark metal chains from a curved, dark metal stand.
+
+The woman wears a black t-shirt and blue and white plaid pajama pants, holding a small white teacup with both hands, looking directly at the viewer with a calm and relaxed expression.
+
+To the left in the foreground, on a highly detailed polished wooden table, stands another gigantic, fully wrapped Kinder Joy egg, exhibiting intricate foil texture and branding. To the right of the swing's base, also on the table, are miniature props: a vintage-style wooden radio with white dials and a tiny bonsai tree in a small pot.
+
+The lighting is soft, warm, and directional from the left, casting subtle shadows and highlighting the highly detailed textures of the egg wrappers, the woman’s clothing, and the wooden surface. The background is a softly blurred, warm-toned interior wall, creating a pleasing bokeh effect.
+```
+
+</details>
+
+<a id="nano-banana-leopard-swimsuit-disco-cube"></a>
+### 豹纹泳装女子站在迪斯科方块上
+
+<a href="https://x.com/KeorUnreal/status/2114097366823551024"><img src="../../previews/nano-banana-leopard-swimsuit-disco-cube.jpg" width="360"></a>
+
+结构化 JSON 把主体、服装、场景、灯光和镜头分成独立字段，让每个元素都保持可控。低角度全身构图加上暖色串灯高光，营造真实的夜间活动摄影质感。
+
+Nano Banana 2.1 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2114097366823551024) · 118 赞，统计于 2026-10-29
+
+[`json-prompt`](tags.md#tag-json-prompt) [`low-angle`](tags.md#tag-low-angle) [`night-event`](tags.md#tag-night-event) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+ "subject": {
+ "description": "Young woman with fair skin, long black hair, looking slightly upward with a soft expression",
+ "hair": "Long wavy black hair ponytail falling over her shoulders",
+ "body": "Slender yet curvy figure",
+ "pose": "She's on top of a disco cube, Standing upright, arms relaxed at her sides, body facing slightly to the side",
+ "expression": "Calm, slightly smiling gaze"
+ },
+ "outfit": {
+ "swimsuit": "leopard one-piece swimsuit with a deep neckline and high-cut legs",
+ "headwear": "Large white wide-brim hat",
+ "footwear": "Leopard glossy high heels"
+ },
+ "secondary_subject": {
+ "description": "Person in an electric zebra elephant mascot head with white tusks, black sunglasses featuring a white X, wearing a red tracksuit jacket with yellow stripes and a large gold chain",
+ "placement": "Standing to the left of behind the woman, partially in the foreground under the disco cube"
+ },
+ "setting": {
+ "location": "Outdoor night event or party",
+ "background": "Dark sky, string lights overhead, red and yellow ambient lighting, distant crowd and structures",
+ "added_element": "Neon disco-style writing reading 'Keor' glowing in the backdrop"
+ },
+ "lighting": {
+ "type": "Nighttime event lighting with string lights and neon glow",
+ "effects": "Warm string-light highlights on skin and clothing, colorful neon illumination from the 'Keor' sign"
+ },
+ "camera": {
+ "angle": "Low angle looking up at the standing subjects",
+ "framing": "Full-body shot of the woman with the elephant mascot beside her",
+ "style": "Photorealistic, high-detail event photography, sharp focus"
+ },
+ "additional_details": {
+ "skin": "Smooth with a natural night-event sheen",
+ "atmosphere": "Playful nighttime party scene with a mascot"
+ }
+}
+```
+
+</details>
+
+<a id="nano-banana-white-convertible-mediterranean-portrait"></a>
+### 男子倚靠白色敞篷车，站在地中海海岸边
+
+<a href="https://x.com/pictsbyai/status/2052064741917417687"><img src="../../previews/nano-banana-white-convertible-mediterranean-portrait.jpg" width="360"></a>
+
+以相机和光线参数（ISO 100、1/1000秒快门、5500K色温、f/8至f/11光圈、正面平拍）叠加精确的人物姿势描述，使画面呈现清晰的日间摄影质感。由近及远依次描述车身、灌木与海面，引导视线穿过画面纵深。
+
+Nano Banana 2 · 文生图 · 出处: [@pictsbyai on X](https://x.com/pictsbyai/status/2052064741917417687) · 114 赞，统计于 2026-10-29
+
+[`lifestyle`](tags.md#tag-lifestyle) [`car`](tags.md#tag-car) [`mediterranean`](tags.md#tag-mediterranean) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A confident young adult male stands posed in a relaxed, leaning posture on the right side of the frame, facing the camera with shifted weight and relaxed shoulders, wearing an unbuttoned light blue linen shirt with deep folds, dark shorts, a silver chain necklace, a wristwatch with a dark strap, and metal-framed sunglasses that shield his direct, serious gaze. His expression features a neutral mouth and relaxed eyebrows, projecting a cool, polished demeanor with warm tan skin. His left hand rests casually inside the left pocket of his shorts, with the thumb exposed and securely hooked over the pocket edge. His right hand leans gently against the pristine white exterior of a car body just below the door line, the tension relaxed with fingers curled downward naturally, clearly exposing the resting index and middle fingers. He interacts seamlessly with this dominant foreground element, a pristine white BMW convertible parked on solid light grey concrete, featuring an open dropped top, deep red leather seats, chrome accents, and a black steering wheel. The eye follows an asymmetric visual hierarchy starting from his face, moving down the clear blue shirt to the deep red car interior, before sweeping out to the deep spatial environment. The midground on the right is framed by weathered, dry green and brown scrub brush gripping rugged coastal rocks, dropping off to a background of deep ocean blue water that lightens into turquoise shallows near the coast. In the far left distance, a faint mountainous silhouette anchors the horizon beneath a perfectly smooth, clear bright blue gradient sky accented by a single small white cloud on the far left. A luxurious, breezy Mediterranean summer atmosphere envelops the scene, defined by an energetic, highly saturated, high-contrast split-complementary color palette. Hard, bright, highly directional natural sunlight streams from the top front-left, casting deep black, harsh-edged short shadows tucked beneath the subject's chin, nestled within the folds of his shirt, inside the car's interior, and beneath the side mirror. In stark contrast, brilliant specular highlights gleam across the car's paint, as well as on the subject's forehead, nose, and the tops of his shoulders, blending cool overall temperatures with warm sunlight accents. Captured straight-on through the lens of modern digital photography at ISO 100 with a fast 1/1000s shutter speed and a daylight white balance of 5500K, the realistic, clean image boasts a tack-sharp, grain-free texture and a deep depth of field from f/8.0 to f/11 that keeps every distant landscape detail perfectly in focus. The aesthetic draws heavily from contemporary social media and automotive lifestyle modeling, refined in post-processing with a high contrast curve, boosted saturation in the blue and red channels, enhanced clarity, and careful highlight protection for the white exterior, all perfectly framed in a 4:5 aspect ratio.
 ```
 
 </details>
@@ -796,6 +1527,25 @@ Centered composition, shot with an 85mm f/1.8 lens, razor-sharp focus on the eye
 
 </details>
 
+<a id="gpt-image-milan-duomo-rain-floating-iphones-fashion"></a>
+### 雨中米兰大教堂前，女子伸手够漂浮的蓝色手机
+
+<a href="https://x.com/Arzoo12sh/status/2102710718302966229"><img src="../../previews/gpt-image-milan-duomo-rain-floating-iphones-fashion.jpg" width="360"></a>
+
+用具体地标和天气锁定场景，再逐件列出服装，让穿搭描述更具体。要求背景中出现重复人物并采用竖构图，营造多层次的广告大片效果。
+
+GPT Image 2.5 · 文生图 · 出处: [@Arzoo12sh on X](https://x.com/Arzoo12sh/status/2102710718302966229) · 102 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`milan`](tags.md#tag-milan) [`rain`](tags.md#tag-rain) [`campaign`](tags.md#tag-campaign)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic ultra-realistic fashion campaign in Piazza del Duomo, Milan, during heavy rain. A beautiful young woman wearing an all-black oversized streetwear outfit, black cargo pants, black sweatshirt and clean white sneakers, confidently posing in the center with one arm raised toward a floating blue iPhone. Multiple identical blue smartphones are dramatically floating and falling from the stormy sky around her. Wet reflective pavement, realistic rain droplets, dramatic dark cloudy sky, Milan Cathedral clearly visible in the background, crowded tourists with umbrellas, several duplicate versions of the same woman naturally positioned in the background, premium luxury advertising aesthetic, dynamic fashion photography, realistic skin texture, natural anatomy, cinematic lighting, sharp details, depth of field, photorealistic, high-end commercial campaign, vertical composition.
+```
+
+</details>
+
 <a id="nano-banana-upside-down-woman-neon-korean-street"></a>
 ### 霓虹雨街上倒挂天空的女子
 
@@ -851,6 +1601,29 @@ Nano Banana 2 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCr
 A cinematic three-panel vertical collage featuring a fit young man in a dark underground gym, shirtless, wearing black Gymshark athletic shorts. In the top panel, he is captured from behind, standing under a single dim overhead light, revealing a deeply defined back and shoulders with shadows cutting across his muscles. In the middle panel, he faces forward in a mirror, performing a slow controlled flex, showcasing sharp abs, chest, and arms with a powerful, intense presence. In the bottom panel, he is shown in a low-angle close-up, leaning forward with hands on his knees, breathing heavily after a set, sweat dripping onto the floor. His messy medium-length dark hair is damp and partially covering his eyes, giving a raw, focused, and slightly aggressive expression.
 
 The environment is gritty with concrete walls, exposed pipes, and minimal lighting, enhanced by subtle fog and dust particles in the air. A single harsh light source creates deep shadows and dramatic contrast, emphasizing muscle definition. Blurred old-school gym equipment in the background, shallow depth of field, ultra-realistic skin texture, editorial underground fitness photography style. 4K resolution, hyper-realistic, cinematic film still, high-contrast dark color grading, 100% same face as reference photo, vertical 9:16 composition, slightly zoomed-in framing.
+```
+
+</details>
+
+<a id="nano-banana-supper-club-lobster-roll-tray"></a>
+### 烛光晚宴女侍者手托银盘龙虾卷
+
+<a href="https://x.com/oye_samia/status/2054101412976738575"><img src="../../previews/nano-banana-supper-club-lobster-roll-tray.jpg" width="360"></a>
+
+提示词把银盘定为唯一视觉焦点，并用正面略仰视的中景构图围绕它展开。单向烛光、指定相机镜头，再加上禁止塑料感和CGI感的负面描述，让画面更接近真实摄影。
+
+Nano Banana 2 · 文生图 · 出处: [@oye_samia on X](https://x.com/oye_samia/status/2054101412976738575) · 89 赞，统计于 2026-10-29
+
+[`supper-club`](tags.md#tag-supper-club) [`candlelight`](tags.md#tag-candlelight) [`food-photography`](tags.md#tag-food-photography) [`low-angle`](tags.md#tag-low-angle) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Hyper-realistic vertical photograph 4:5. Private dining area of an exclusive supper club with dark wooden panels, burgundy velvet curtains, golden candlelight, and a deep anthracite background.
+A stunning woman stands frontally, medium shot from the chest up, slight low angle. She holds with both hands an ornate oval silver tray extended toward the camera. On the tray is a perfect ring of 12 miniature lobster rolls on brioche buns with pink lobster meat. The silver tray is the main focal point of the scene.
+Clothing: Elegant black Adidas Originals Firebird-inspired zip-up cropped jacket with three white stripes and Trefoil logo, worn over a starched white fitted dress shirt with a black silk bow tie, paired with a sleek high-waisted black mini skirt or tailored black trousers, statement AP Royal Oak watch in steel, delicate silver rings and earrings.
+Lighting: Warm, low golden-amber candlelight coming from the right, sculpting her face and creating beautiful highlights on the silver tray. Deep dramatic shadows on the left. Monochrome black with luxurious gold accents.
+Camera: Sony A7R V, 50mm f/1.4 lens, 8K resolution, natural skin texture, natural depth of field with soft organic candle bokeh. No plasticity, no CGI, no AI artifacts.
 ```
 
 </details>
@@ -1085,6 +1858,54 @@ Nano Banana 2 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCr
 
 </details>
 
+<a id="nano-banana-spidey-girl-golden-hour-skyscraper"></a>
+### 金发蜘蛛装女英雄在夕阳下攀爬玻璃高楼
+
+<a href="https://x.com/Document195/status/2031008869775016223"><img src="../../previews/nano-banana-spidey-girl-golden-hour-skyscraper.jpg" width="360"></a>
+
+提示词用服装、发色和场景锁定主体，再以黄金时刻的光线映照玻璃幕墙，并加入 85 毫米镜头和浅景深形成电影感。把动作概括为一个简短的姿势描述，人物在攀爬中的轮廓更清晰。
+
+Nano Banana 2 · 文生图 · 出处: [@Document195 on X](https://x.com/Document195/status/2031008869775016223) · 64 赞，统计于 2026-10-29
+
+[`superhero`](tags.md#tag-superhero) [`golden-hour`](tags.md#tag-golden-hour) [`cinematic`](tags.md#tag-cinematic) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+http://
+wondercat.ai Nano Banana 2💜
+
+{
+  "prompt": "female superhero in red and blue spider suit climbing a glass skyscraper at sunset, long blonde hair flowing in the wind, city skyline in background, golden hour lighting reflecting on glass building, dynamic action pose, cinematic superhero scene, ultra detailed, photorealistic, 85mm lens",
+  "negative_prompt": "low quality, blurry, distorted body, extra limbs, bad anatomy, watermark, text",
+  "style": "cinematic superhero photography",
+  "lighting": "golden hour sunset",
+  "camera": "85mm, shallow depth of field",
+  "resolution": "1024x1536"
+}
+```
+
+</details>
+
+<a id="nano-banana-woman-giant-pencil-happy-monday"></a>
+### 女子抱着巨型铅笔在温馨房间里画画
+
+<a href="https://x.com/ariaxawan/status/2051246805892161960"><img src="../../previews/nano-banana-woman-giant-pencil-happy-monday.jpg" width="360"></a>
+
+参考图锁定人物面部与服装，提示词再叠加抓拍式写实场景、涂鸦装饰，以及分布在书架和地板上的四个微缩复制人物。指定相机机型、镜头和画幅比例，让画面保持摄影质感。
+
+Nano Banana 2 · 上传图改图 · 出处: [@ariaxawan on X](https://x.com/ariaxawan/status/2051246805892161960) · 62 赞，统计于 2026-10-29
+
+[`reference-image`](tags.md#tag-reference-image) [`miniature-replicas`](tags.md#tag-miniature-replicas) [`doodle-overlay`](tags.md#tag-doodle-overlay) [`candid-photo`](tags.md#tag-candid-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A realistic, candid photograph of a petite Asian woman with a detailed, lifelike face and hairstyle (referencing the provided image for specific features), captured during a soft afternoon. She is wearing the specific clothing from the reference image. She is happily and intently hugging a gigantic wooden pencil adorned with cute, kawaii cartoon patterns with both hands, using it to draw on a massive sketchbook spread before her on a cozy room floor. The scene is full of warmth, with a soft, diffused sunlight filtering in. The floor is covered in pastel-colored (light pink, light blue) oversized toys, stationery, and a cute colored pencil box. A small, fluffy cat plush sits nearby. The room background features warm-toned wooden bookshelves filled with charming books and collectibles, all glowing with soft afternoon light. A minimal white doodle outline loosely traces the woman's figure.  Cute, minimal white handwritten text on the side reads "Happy Monday", and pink handwritten text reads "Hello". Small, simple white doodle elements like stars, flowers, cats, and bunnies are scattered around. Four distinct, miniature 3D chibi-style figures, exact miniature replicas of the woman in the same clothing but in playful, mischievous poses, are placed around her on the shelves, books, and among the giant stationery. The entire image has a soft, dreamy, and warm glow, with pastel tones in the surroundings contrasting with natural wood and cream background colors. Shot on a Canon EOS R5 with a 35mm f/1.4 lens, natural grain, cinematic lighting. Aspect Ratio: 4:5 Style: Realistic Photo, Candid, Warm, Dreamy Lighting: Soft Afternoon Sunlight, Diffused
+```
+
+</details>
+
 <a id="gpt-image-rain-couple-train-platform-farewell"></a>
 ### 雨中列车铁栏窗边的女子与伸手的湿透男子
 
@@ -1138,6 +1959,367 @@ Nano Banana 2.1 · 文生图 · 出处: [@weiinberg on X](https://x.com/weiinber
 straight-on eye-level close-up photograph of a young woman, face clearly visible, captured on a recent iPhone main camera at its native 24 mm equivalent, f/1.8, with natural perspective and no wide-angle distortion. Focus is locked on her face and accessories; the background falls into a mild, realistic smartphone blur.
 She wears a black ribbed knit beanie sitting normally on her head, not covering her eyes or face, large reflective black sunglasses, and white wired Apple earphones with the cable running down in front of her jacket. Her white puffer jacket is worn open at the collar, not pulled up, so her jaw, mouth, and lower face remain fully visible beneath the sunglasses. A small black embroidered Nike swoosh sits on the left shoulder. The quilted synthetic fabric shows soft volume and fine texture.
 The setting is a brightly lit industrial interior with a high cream-colored ceiling and out-of-focus glossy metallic panels or photographic posters behind her. Lighting is large soft overhead ambient, even and slightly cool, like diffused LED panels: gentle fill from above and the front, soft shadows under the chin and beanie brim, and faint specular highlights on the sunglasses and the jacket’s nylon shell. Exposure is clean and slightly bright, true-to-life color, moderate computational sharpening, natural skin texture, no heavy noise or plastic skin. Mood is urban, practical, and quietly anonymous. Photorealistic smartphone photograph.
+```
+
+</details>
+
+<a id="gpt-image-satin-bustier-living-room-selfie"></a>
+### 身穿缎面抹胸上衣在室内自拍的女性
+
+<a href="https://x.com/rewind02/status/2102439961073000920"><img src="../../previews/gpt-image-satin-bustier-living-room-selfie.jpg" width="360"></a>
+
+用有优先级的清单锁定构图、光线和自拍取景，再要求生成新的面孔，使画面接近参考图但不复制人物。列出需去除的文字、爱心和界面元素，让画面可以直接用于社交媒体。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@rewind02 on X](https://x.com/rewind02/status/2102439961073000920) · 50 赞，统计于 2026-10-29
+
+[`selfie`](tags.md#tag-selfie) [`ai-ugc`](tags.md#tag-ai-ugc) [`reference-variation`](tags.md#tag-reference-variation) [`social-media`](tags.md#tag-social-media)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+"prompt_type": "photorealistic_reference_variation",
+"objective": "Use the supplied reference photograph as a guide for the same close vertical smartphone selfie composition, lighting, upscale interior, crop, and polished social-media aesthetic. Create a visually similar image, but make the woman a distinct person with subtly different facial features, hairstyle details, jewelry, expression, and wardrobe color. Completely remove all text, icons, hearts, buttons, interface graphics, timestamps, watermarks, logos, or other on-screen elements.",
+"reference_fidelity": {
+"target": "high similarity in overall composition, camera perspective, lighting, setting, and fashion beauty aesthetic, while preserving a clearly distinct subject identity",
+"priority_order": [
+"overall vertical crop and composition",
+"bright frontal daylight against a darker luxury living-room background",
+"close upper-body smartphone selfie framing",
+"warm luminous skin and polished soft-glam beauty styling",
+"sleek dark updo with face-framing strands",
+"elegant strapless satin bustier",
+"large gold statement earrings",
+"natural high-resolution smartphone-camera rendering"
+],
+"variation_instruction": "Do not replicate the exact face from the reference. Create a new adult woman with a slightly more heart-shaped face, softer jawline, hazel-brown eyes, a subtle closed-lip smile, a deep side-part hairstyle, and different sculptural gold earrings."
+},
+"canvas": {
+"orientation": "portrait",
+"aspect_ratio": "approximately 918:1588",
+"framing": "tight vertical smartphone selfie",
+"crop": "from just above the top of the hair to below the bust and upper torso",
+"subject_scale": "large, occupying most of the frame",
+"subject_alignment": "slightly right of center",
+"camera_distance": "close arm's-length selfie distance",
+"headroom": "very small",
+"bottom_crop": "cuts through the lower torso and structured satin top",
+"left_background": "fireplace and framed artwork softly visible",
+"right_background": "soft sofa and doorway or window edge visible",
+"instruction": "do not include any white heart icon or social-media interface graphics"
+},
+"scene": {
+"location": "upscale dimly lit modern living room or lounge",
+"time_of_day": "daytime with strong natural window light",
+"mood": "polished, elegant, intimate, warm",
+"visual_style": "authentic high-resolution smartphone beauty selfie",
+"background_complexity": "moderate but visually subdued",
+"environment": {
+"walls": "dark warm taupe textured walls",
+"fireplace": "minimal stone or plaster fireplace at left",
+"sofa": "large soft light-gray sectional sofa in the rear-right",
+"art": "large framed muted abstract artwork above or near the fireplace",
+"lighting": "bright frontal daylight on the subject with a darker ambient interior behind"
+}
+},
+"subject": {
+"description": "a distinct adult woman taking a close front-facing selfie indoors",
+"identity_instruction": "Create a naturally beautiful woman who is not an exact facial copy of any reference person.",
+"position": "center foreground",
+"body_visibility": "head, neck, shoulders, upper chest, and upper torso",
+"pose": {
+"head": "upright with a very slight turn toward viewer-right",
+"torso": "mostly frontal",
+"shoulders": "relaxed and bare",
+"camera_arm": "extended toward camera outside the visible frame",
+"posture": "upright, elegant, and composed"
+},
+"expression": {
+"overall": "calm, confident, softly warm",
+"mouth": "closed with a faint natural smile",
+"lips": "softly relaxed",
+"gaze": "directly into camera",
+"brows": "relaxed but defined"
+},
+"skin": {
+"tone": "warm medium olive-tan with a golden undertone",
+"finish": "luminous satin glow",
+"texture": "realistic fine skin texture with subtle pores",
+"freckles_and_marks": "a few faint freckles and small natural beauty marks retained",
+"highlights": "bright natural highlights on forehead, cheekbones, nose bridge, collarbones, shoulders, and chest",
+"retouching": "light-to-moderate social-media processing, never plastic"
+},
+"face": {
+"shape": "soft heart-oval shape with slightly higher cheekbones and a gently tapered jaw",
+"forehead": "medium height",
+"cheekbones": "defined but natural",
+"jaw": "slender and softly sculpted",
+"chin": "small and rounded",
+"eyes": {
+"shape": "almond-shaped",
+"color": "warm hazel-brown",
+"size": "medium",
+"lashes": "long, curled, dark, cleanly separated",
+"eyeliner": "very subtle brown-black lash-line enhancement",
+"eyeshadow": "soft bronze-peach neutral tone",
+"catchlights": "bright natural window reflections"
+},
+"eyebrows": {
+"shape": "full with a soft natural arch",
+"color": "deep brown",
+"density": "medium-full",
+"finish": "cleanly groomed and softly filled"
+},
+"nose": {
+"shape": "straight and refined",
+"bridge": "narrow-medium",
+"tip": "softly rounded",
+"highlight": "subtle centered highlight"
+},
+"lips": {
+"shape": "full but natural",
+"upper_lip": "defined cupid's bow",
+"lower_lip": "slightly fuller",
+"color": "muted dusty-rose nude",
+"liner": "slightly deeper nude-pink",
+"finish": "soft satin gloss"
+},
+"makeup": {
+"style": "natural soft glam",
+"foundation": "smooth radiant skin-like finish",
+"bronzer": "warm subtle sculpting",
+"blush": "soft peach-rose blush across cheeks",
+"highlight": "controlled luminous sheen on cheekbones",
+"eyes": "neutral bronze shadow with defined lashes",
+"lips": "dusty nude rose"
+}
+}
+},
+"hair": {
+"color": "dark chestnut brown, almost espresso",
+"style": "sleek low bun or low tucked ponytail",
+"part": "deep side part",
+"texture": "smooth and glossy",
+"crown": "softly controlled with a little natural volume",
+"front_sections": "two long, slim face-framing strands left loose on both sides",
+"left_face_strand": "a thin dark strand falls from the temple past the jaw toward the shoulder",
+"right_face_strand": "a matching strand curves softly alongside the cheek toward the chest",
+"back": "hair gathered into a neat low bun or tucked ponytail",
+"flyaways": "minimal but realistic",
+"shine": "soft warm highlights along dark strands"
+},
+"jewelry": {
+"earrings": {
+"type": "large sculptural twisted oval gold drop earrings",
+"shape": "rounded organic vertical form, distinct from rectangular earrings",
+"material": "polished warm gold metal",
+"surface": "smooth reflective metal with subtle ridged detailing",
+"size": "medium-large statement earrings",
+"visibility": "viewer-left earring highly visible, opposite earring partially visible",
+"finish": "bright reflective warm gold"
+},
+"necklace": "none visible"
+},
+"wardrobe": {
+"top": {
+"type": "strapless structured satin corset or bustier top",
+"color": "pale champagne ivory with a soft rose-beige undertone",
+"neckline": "straight to gently curved strapless neckline",
+"construction": "boned corset-style structure with refined cup seams",
+"cups": "shaped underwire-style satin cups",
+"center": "subtle central vertical seam and structured paneling",
+"fit": "close-fitting and supportive",
+"material": "smooth satin",
+"finish": "soft pearl-like sheen",
+"wrinkles": "small realistic tension creases in satin",
+"instruction": "preserve the elegant structured fashion silhouette without making the garment exaggerated or costume-like"
+}
+},
+"body_and_pose": {
+"shoulders": "bare and evenly lit",
+"collarbones": "visible with soft natural highlights",
+"upper_chest": "warm natural skin tone with subtle tonal variation",
+"torso": "slightly angled but mostly frontal",
+"left_arm": "partially visible near the lower-left edge, extended toward camera",
+"right_side": "cropped close to shoulder and torso edge"
+},
+"background": {
+"left": {
+"fireplace": {
+"type": "minimal traditional stone or plaster fireplace",
+"color": "warm gray-beige",
+"mantel": "thick simple mantel shelf",
+"opening": "dark black fireplace opening",
+"interior": "very dark"
+},
+"artwork": {
+"type": "large framed monochrome or muted abstract artwork",
+"position": "above the fireplace",
+"frame": "light gray or off-white",
+"content": "abstract forms only, no readable text"
+}
+},
+"center_rear": {
+"lighting": "small soft warm accent light near the wall",
+"furniture": "dark low-profile furnishings partly obscured"
+},
+"right": {
+"sofa": {
+"type": "large plush sectional",
+"color": "light gray",
+"cushions": "soft oversized cushions",
+"focus": "slightly out of focus"
+},
+"vertical_edge": {
+"type": "bright door frame or window frame",
+"color": "white",
+"position": "far right edge"
+}
+}
+},
+"lighting": {
+"type": "strong natural daylight from directly in front of the subject",
+"primary_source": "large window or open doorway near the camera",
+"direction": "front and slightly above",
+"quality": "bright but diffused",
+"contrast": "high subject-to-background contrast",
+"subject": "face and upper body brightly illuminated",
+"background": "intentionally darker and moodier",
+"skin_effect": "warm luminous highlights without clipped whites",
+"hair_effect": "subtle glossy reflections",
+"satin_effect": "soft pearl sheen with gentle highlights",
+"color_temperature": "neutral-warm daylight",
+"shadow_style": "very soft facial shadows and deeper background shadows"
+},
+"camera": {
+"device": "modern smartphone front-facing camera",
+"orientation": "vertical portrait",
+"lens": "standard wide selfie lens",
+"focal_length_equivalent": "approximately 24-28mm",
+"camera_height": "slightly above chest and near face level",
+"camera_distance": "approximately 45-70 cm from face",
+"perspective": "mild wide-angle smartphone perspective",
+"focus": "sharpest on eyes and face",
+"depth_of_field": "moderately deep but background naturally softer",
+"image_quality": "high-resolution smartphone image",
+"dynamic_range": "strong HDR preserving bright skin and dark room",
+"processing": "subtle sharpening and noise reduction",
+"grain": "very light realistic phone-sensor grain",
+"motion_blur": "none"
+},
+"composition_geometry": {
+"face_center": "approximately x=55%, y=31%",
+"eye_line": "approximately y=28%",
+"head_top": "approximately y=2%",
+"mouth": "approximately y=43%",
+"shoulder_line": "approximately y=60%",
+"neckline": "approximately y=82%",
+"corset_center": "approximately x=55%, y=91%",
+"viewer_left_earring": "approximately x=27%, y=37%",
+"fireplace": "left-rear background",
+"sofa": "right-rear background",
+"visual_balance": "bright subject contrasted against a dark elegant room"
+},
+"color_palette": {
+"dominant_colors": [
+"warm olive-gold",
+"dark chestnut brown",
+"champagne ivory",
+"warm gold",
+"charcoal",
+"light gray",
+"taupe"
+],
+"skin": "golden olive tan",
+"hair": "deep chestnut espresso brown",
+"top": "champagne ivory with a rose-beige undertone",
+"earrings": "warm gold",
+"background": "dark taupe and charcoal",
+"sofa": "light gray",
+"overall_saturation": "moderate",
+"contrast": "moderately high",
+"white_balance": "warm-neutral"
+},
+"image_texture": {
+"skin": "fine pores, faint freckles, and small natural beauty marks",
+"hair": "individual sleek strands and minimal soft flyaways",
+"satin": "smooth woven sheen with fine tension folds",
+"earrings": "polished gold-metal reflections",
+"walls": "matte textured plaster",
+"sofa": "soft woven upholstery",
+"fireplace": "subtle stone or plaster texture"
+},
+"photographic_style": {
+"genre": "beauty and fashion smartphone selfie",
+"aesthetic": "luxury social-media portrait",
+"realism": "extreme photorealism",
+"retouching": "polished but believable",
+"production_value": "personal phone photo with high-quality natural light",
+"desired_result": "looks like a genuine high-resolution selfie captured near a window in an upscale living room"
+},
+"negative_prompt": [
+"text",
+"caption",
+"white heart icon",
+"social media UI",
+"buttons",
+"watermark",
+"logo",
+"screen overlay",
+"extra people",
+"different camera angle",
+"full-body shot",
+"side profile",
+"heavy head tilt",
+"long loose hair",
+"curly hair",
+"blonde hair",
+"red hair",
+"high ponytail",
+"messy bun",
+"missing face-framing strands",
+"silver earrings",
+"small stud earrings",
+"hoop earrings",
+"missing earrings",
+"heavy contour",
+"red lipstick",
+"smoky black eye makeup",
+"large smile",
+"open mouth",
+"looking away",
+"black top",
+"white t-shirt",
+"sports bra",
+"dress with sleeves",
+"visible straps",
+"bedroom",
+"bathroom",
+"kitchen",
+"outdoor setting",
+"bright background",
+"studio backdrop",
+"hard flash",
+"cold blue lighting",
+"dramatic cinematic shadows",
+"extreme bokeh",
+"fisheye distortion",
+"plastic skin",
+"over-smoothed face",
+"over-sharpened pores",
+"CGI",
+"3D render",
+"illustration",
+"anime",
+"cartoon",
+"distorted anatomy",
+"warped shoulders",
+"asymmetrical eyes",
+"deformed corset",
+"exact facial copy of the reference person"
+],
+"final_generation_instruction": "Generate one extremely photorealistic vertical smartphone selfie using the supplied image only as a guide for composition, lighting, fashion mood, and upscale interior. Show a distinct adult woman centered close to the camera with warm olive-golden skin, hazel-brown almond eyes, full dark brows, soft peach-rose blush, long lashes, and muted dusty-rose nude lips. Her dark chestnut-brown hair has a deep side part and is pulled into a sleek low bun or tucked ponytail, with two long narrow face-framing strands beside her cheeks. Add large sculptural twisted oval gold earrings. Dress her in a pale champagne-ivory strapless satin corset bustier with subtle structured cups and visible seam construction. Frame the image from the top of the head to the lower upper torso, with the subject filling most of the image. Keep the dim upscale living room behind her: dark warm-gray walls, stone fireplace and framed artwork on the left, plush light-gray sectional sofa on the right, and a bright white door or window edge at the far right. Illuminate the subject with bright diffused frontal daylight so her face, shoulders, jewelry, and satin top glow while the room remains darker. Preserve realistic skin pores, faint freckles, natural smartphone HDR, mild phone-lens perspective, and crisp facial detail. Completely omit all text, buttons, hearts, watermarks, logos, interface graphics, and screen overlays."
+}
 ```
 
 </details>
@@ -1387,6 +2569,39 @@ Generate a photo from 2003, shot with a digital camera, of five-year-old me with
 
 </details>
 
+<a id="gpt-image-ai-model-portrait-comparison"></a>
+### 两款 AI 图像模型的街头人像对比
+
+<a href="https://x.com/TimJayas/status/2086455464930459760"><img src="../../previews/gpt-image-ai-model-portrait-comparison.jpg" width="360"></a>
+
+两个画面重复同一位女性的详细描述，让对比聚焦于模型本身而非人物。镜头感、焦段、运动模糊，以及固定的元素数量和白色分隔线，使版式可控、两张照片风格一致。
+
+GPT Image 2 · 文生图 · 出处: [@TimJayas on X](https://x.com/TimJayas/status/2086455464930459760) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`comparison`](tags.md#tag-comparison) [`street-portrait`](tags.md#tag-street-portrait) [`photorealistic`](tags.md#tag-photorealistic) [`social-media`](tags.md#tag-social-media)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Goal: Create a clean side-by-side comparison graphic showing two AI image model outputs as realistic street portraits.
+
+Canvas: Horizontal 3:2 social media comparison image, white background, high resolution. Use a simple two-column layout with a narrow vertical white divider between the image panels.
+
+Layout: Top header area contains exactly 2 black logos centered above exactly 2 bold model names. Left column: OpenAI knot logo above the heading “GPT-Image 2”. Right column: Grok-style black circular slash logo above the heading “Imagine Image 2.0”. Below the headers are exactly 2 equal-size rectangular photo panels: one on the left and one on the right.
+
+Photo content: Both panels show a cinematic, photorealistic urban street portrait of the same young woman in a crowded city. She has dark brown hair, natural makeup, full brows, soft lips, and a calm direct gaze. She wears a dark coat. The background is a busy city sidewalk with motion-blurred pedestrians, shallow depth of field, muted gray urban tones, and warm bokeh traffic lights.
+
+Left photo panel: The woman is slightly left of center, turned partly toward the camera, with loose voluminous hair around her face. A large blurred pedestrian crosses the foreground on the right, partially obscuring the lower face/body area; another blurred figure appears on the left. The image should feel like a candid real-camera street photograph with natural imperfections and documentary realism.
+
+Right photo panel: The woman is centered closer to camera, facing forward with slightly tousled hair pulled back loosely and face-framing strands. Her facial detail is sharper and more polished, with visible skin texture and freckles. Blurred pedestrians pass on both sides, including a gray figure on the left and a warm brown motion blur on the right.
+
+Visual style: Photorealistic DSLR street photography, natural light, shallow depth of field, 50mm lens feel, realistic skin texture, subtle filmic color grading, high detail in faces, strong motion blur on passing pedestrians, no illustration style.
+
+Text and element count: Include exactly 2 logos, exactly 2 headings, exactly 2 photo panels, and exactly 2 main female portraits. Do not add extra captions, scores, labels, borders, watermarks, or interface elements.
+```
+
+</details>
+
 <a id="gpt-image-anime-wrapped-train-japanese-station"></a>
 ### 日本车站的动漫涂装列车
 
@@ -1406,6 +2621,145 @@ Create a photorealistic wide-angle scene of a modern Japanese station platform i
 
 </details>
 
+<a id="gpt-image-beach-selfie-braids-blue-nails"></a>
+### 沙滩上单手遮阳的高角度自拍
+
+<a href="https://x.com/IamEmily2050/status/2046602266627465534"><img src="../../previews/gpt-image-beach-selfie-braids-blue-nails.jpg" width="360"></a>
+
+用举臂前置镜头取景、等效24mm广角畸变、5500K色温和沙面反光补光等具体参数定义画面，让结果更接近真实手机照片。明确要求保留毛孔、细绒毛和不磨皮的皮肤纹理，可以抵消图像模型常见的美颜质感。
+
+GPT Image 2 · 文生图 · 出处: [@IamEmily2050 on X](https://x.com/IamEmily2050/status/2046602266627465534) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`selfie`](tags.md#tag-selfie) [`realism`](tags.md#tag-realism) [`beach`](tags.md#tag-beach) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[中文]
+{
+  超写实iPhone 15 Pro前置摄像头自拍，一位成年女性在明亮的沙滩上，
+  从举臂高角度自拍视角拍摄。手机略微举在脸部上方，
+  营造出自然的前置摄像头几何形态，带有轻微的等效24mm广角畸变，
+  写实的面部比例，
+  以及智能手机的深景深。她向上抬起下巴，一只手遮挡刺眼的阳光，同时直视手机镜头。她的表情中性，
+  面无表情，
+  且略带疏离感，
+  眼睛大而专注，但在解剖学上具有真实的眼部尺寸和自然面部比例。\n\n她有着极浅的铂金色头发，梳成两条紧紧的辫子，
+  苍白的皮肤带有真实摄影的皮肤纹理，
+  可见的毛孔，
+  细微的绒毛，
+  淡淡的眼下纹理，
+  自然的唇部纹理，
+  以及柔和的阳光光泽，而不是磨皮后的完美无瑕。她的嘴唇是自然色调且略丰满，
+  她的鼻子小巧精致但很写实。她的指甲是鲜艳的蓝色。她穿着一件浅蓝色紧身弹力棉上衣，领口非常深且宽，以自然、
+  非风格化的方式露出突出的锁骨和上胸结构。\n\n背景是宽阔的海岸沙滩，在强烈的上午晚些时候的阳光下，
+  背景中有一条柔和模糊的地平线。光线明亮，
+  色温约5500K的高调海岸日光，
+  强烈的白色沙子反光从下方和脸部周围均匀地填充阴影。皮肤被直射阳光加上海滩宽阔柔和的反射补光照亮，
+  产生清脆但写实的高光，没有生硬的对比。明亮沙子的细小颗粒微妙地捕捉光线。整体图像应该感觉像是在强烈的海边光线下在户外拍摄的真正高曝光智能手机自拍。\n\n色彩渲染应该是柔和、
+  干净、
+  且现代的，
+  带有中性至柔和的色调，
+  写实的iPhone计算摄影，
+  略微提高的曝光，
+  受控的高光过渡，
+  自然的肤色，
+  没有电影级调色。优先考虑写实性、
+  物理准确性、
+  可信的解剖结构，
+  以及真实的智能手机图像表现，而不是美化风格化。", "negative_prompt": "动漫，
+  洋娃娃脸，
+  瓷器皮肤，
+  无毛孔皮肤，
+  塑料皮肤，
+  CGI，
+  3D渲染，
+  超现实眼睛，
+  过大的眼睛，
+  奇幻美，
+  磨皮精修，
+  浓妆，
+  魅力光，
+  戏剧性阴影，
+  胶片颗粒，
+  雪，
+  冬装，
+  黑色上衣，
+  红指甲，
+  保守领口，
+  影棚背景，
+  人造模糊，
+  扭曲的手，
+  变形的手指，
+  畸形的脸，
+  对称完美，
+  美颜滤镜，
+  惊悚的皮肤平滑" }
+
+[English]
+{
+  Ultra-realistic iPhone 15 Pro front-camera selfie of an adult woman on a bright beach,
+  photographed from a raised-arm high-angle selfie perspective. The phone is held slightly above her face,
+  creating natural front-camera geometry with mild 24mm equivalent wide-angle distortion,
+  realistic facial proportions,
+  and deep smartphone depth of field. She tilts her chin upward and looks directly toward the phone lens while shielding harsh sunlight with one hand. Her expression is neutral,
+  blank,
+  and slightly distant,
+  with wide attentive eyes but anatomically realistic eye size and natural facial proportions.\n\nShe has very light platinum-blonde hair styled in two tight braids,
+  pale skin with real photographic skin texture,
+  visible pores,
+  subtle peach fuzz,
+  faint under-eye texture,
+  natural lip texture,
+  and a soft sunlit sheen rather than airbrushed perfection. Her lips are naturally toned and slightly full,
+  her nose is small and refined but realistic. Her nails are vivid blue. She wears a light blue fitted stretch-cotton top with a very deep wide neckline that reveals pronounced collarbones and upper chest structure in a natural,
+  non-stylized way.\n\nThe setting is a wide coastal beach under strong late-morning sunlight,
+  with a softly blurred horizon line in the background. The lighting is bright,
+  high-key coastal daylight around 5500K,
+  with strong white sand bounce filling the shadows evenly from below and around the face. Skin is illuminated by direct sun plus broad soft reflected fill from the beach,
+  producing crisp but realistic highlights without harsh contrast. Fine grains of bright sand catch light subtly. The overall image should feel like a real high-exposure smartphone selfie taken outdoors in intense seaside light.\n\nColor rendering should be soft,
+  clean,
+  and modern,
+  with neutral-to-pastel tones,
+  realistic iPhone computational photography,
+  slightly elevated exposure,
+  controlled highlight rolloff,
+  natural skin color,
+  and no cinematic grading. Prioritize realism,
+  physical accuracy,
+  believable anatomy,
+  and true smartphone image behavior over beauty stylization.", "negative_prompt": "anime,
+  doll face,
+  porcelain skin,
+  poreless skin,
+  plastic skin,
+  CGI,
+  3D render,
+  surreal eyes,
+  oversized eyes,
+  fantasy beauty,
+  airbrushed retouching,
+  heavy makeup,
+  glamour lighting,
+  dramatic shadows,
+  film grain,
+  snow,
+  winter clothing,
+  black top,
+  red nails,
+  conservative neckline,
+  studio backdrop,
+  artificial blur,
+  warped hands,
+  deformed fingers,
+  malformed face,
+  symmetry perfection,
+  beauty filter,
+  uncanny skin smoothing" }
+```
+
+</details>
+
 <a id="gpt-image-car-window-deer-phone-snapshot"></a>
 ### 女孩与好奇小鹿的手机随拍
 
@@ -1421,6 +2775,28 @@ GPT Image 2 · 文生图 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspea
 
 ```text
 Young Japanese girl with long silky black hair and soft wispy bangs, sitting casually in the front passenger seat of a luxury car with beige leather interior, wearing an oversized gray off-shoulder sweatshirt. Natural soft smile, making a peace sign with one hand, long red manicure, relaxed and playful expression. A curious deer stands outside the open car window looking directly inside, with a green park and other deer visible in the background. Captured as a casual smartphone photo, natural daylight, handheld iPhone camera shot, everyday travel snapshot, realistic skin texture, authentic mobile HDR processing, slightly imperfect framing, natural colors, candid social media aesthetic, spontaneous moment, no professional posing, no studio lighting, no cinematic color grading, realistic reflections on car windows and interior, ordinary phone-camera perspective, photorealistic, high-quality mobile photography, lifestyle travel vibe.
+```
+
+</details>
+
+<a id="gpt-image-f1-final-lap-paddock-broadcast-screenshot"></a>
+### F1 决赛圈直播截图中的围场嘉宾
+
+<a href="https://x.com/bigwonbots/status/2054573714012787059"><img src="../../previews/gpt-image-f1-final-lap-paddock-broadcast-screenshot.jpg" width="360"></a>
+
+提示词把画面设定为长焦电视转播截图，压缩痕迹、数字噪点和不做磨皮的要求让图像接近真实截屏。各个图层按固定顺序列出（横幅、圈数、计时塔、徽标、LIVE 标识、字幕条），让每个图形都出现在转播版式的预期位置。
+
+GPT Image 2 · 文生图 · 出处: [@bigwonbots on X](https://x.com/bigwonbots/status/2054573714012787059) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`f1`](tags.md#tag-f1) [`broadcast`](tags.md#tag-broadcast) [`photo-realism`](tags.md#tag-photo-realism) [`lower third`](tags.md#tag-lowerthird)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic F1 live TV broadcast screenshot. A strikingly beautiful, 25-year-old young woman with bright light blue hair and captivating bright cerulean blue eyes is sitting in the VIP paddock / team garage during a Formula 1 race. Shown on the official live race broadcast as the girlfriend of an F1 driver, she is listening to the team radio through a professional racing headset. It is the final lap, and she is watching the garage monitors with a proud, enchanting smile.
+She wears a fitted white tank top, an oversized racing team jacket (with generic, unbranded or blank team logos) draped over her shoulders, large black team-radio headset with boom mic, gold jewelry, and soft glam makeup. A slim, unbranded paddock pass hangs naturally from her neck.
+Add realistic F1 broadcast graphics: "FINAL LAP" banner, lap counter showing final lap, driver timing tower on the left, small F1-style logo bug, "LIVE" indicator, and a lower-third identifying her as a driver partner / paddock guest (e.g., "MIA ANDERSEN - Paddock Guest / Partner"). No fake oversized badges, no selfie angle.
+Team staff (in generic kit), headsets, garage screens, and generic race equipment are blurred around her. Telephoto broadcast camera shot from across the garage, professional depth of field, compression artifacts, digital noise, bright paddock lighting, natural skin texture, no smoothing, 8k quality, cinematic lighting.
 ```
 
 </details>
@@ -1549,6 +2925,30 @@ GPT Image 2 · 文生图 · 出处: [@Just_sharon7 on X](https://x.com/Just_shar
 
 ```text
 A super enormous ANIMAL curled up adorably on the PLACE/OBJECT, its tail wrapped around the structure. Surrounding historic London buildings appear tiny like miniature models. Realistic city setting during a soft sunset, warm gentle light, quiet soothing and heartwarming cute atmosphere, photorealistic, serene and charming.
+```
+
+</details>
+
+<a id="gpt-image-harry-potter-cast-selfie-hogwarts-library"></a>
+### 霍格沃茨图书馆中的哈利波特群体自拍
+
+<a href="https://x.com/RuzainaMeer/status/2082052362428989936"><img src="../../previews/gpt-image-harry-potter-cast-selfie-hogwarts-library.jpg" width="360"></a>
+
+第一人称广角自拍构图，前景的手臂把观众拉进合影之中。胶片型号（Kodak Portra 400）、24mm 镜头和暖色烛光调色共同营造电影般的真实感，服装颜色则明确了整体色调。
+
+GPT Image 2 · 文生图 · 出处: [@RuzainaMeer on X](https://x.com/RuzainaMeer/status/2082052362428989936) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`fan-art`](tags.md#tag-fan-art) [`selfie`](tags.md#tag-selfie) [`group-portrait`](tags.md#tag-group-portrait) [`film-look`](tags.md#tag-film-look)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic photograph, wide-angle selfie from a first-person perspective.
+A young woman stands in the center foreground taking a selfie with Harry Potter, Hermione Granger, Ron Weasley, Ginny Weasley, and Professor Dumbledore. Everyone is smiling naturally while wearing Gryffindor robes with rich burnt-orange and deep crimson accents, luxurious scarves, and elegant wizard uniforms.
+The scene takes place inside the Hogwarts library filled with towering wooden bookshelves, floating candles, glowing fireplaces, antique furniture, magical artifacts, and warm amber lanterns. Soft orange candlelight fills the room, creating a nostalgic golden atmosphere with cozy cinematic lighting.
+The background features shallow depth of field with creamy bokeh while every face remains razor sharp.
+Captured with Kodak Portra 400 color science, 24mm wide-angle lens, natural skin tones, ultra-realistic facial details, cinematic orange color grading, subtle film grain, HDR lighting, photorealistic, 8K.
+Aspect Ratio: 2:3
 ```
 
 </details>
@@ -1756,6 +3156,25 @@ Macro photograph of a miniature city hidden in human hair, clearly on a real hum
 
 </details>
 
+<a id="gpt-image-otter-scientist-benchmark-slide-conference"></a>
+### 水獭科学家在会议上讲解AI基准测试幻灯片
+
+<a href="https://x.com/emollick/status/2046665274535854146"><img src="../../previews/gpt-image-otter-scientist-benchmark-slide-conference.jpg" width="360"></a>
+
+提示词把幻灯片上的每一行文字都用引号写明，并规定图片、分数框和要点的确切数量，让密集排版依然清晰可读。胸牌、白板涂鸦和虚化的前景观众增加了会议现场的真实感。
+
+GPT Image 2 · 文生图 · 出处: [@emollick on X](https://x.com/emollick/status/2046665274535854146) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`satire`](tags.md#tag-satire) [`presentation-slide`](tags.md#tag-presentation-slide) [`anthropomorphic-animal`](tags.md#tag-anthropomorphic-animal) [`text-rendering`](tags.md#tag-text-rendering) [`editorial-photo`](tags.md#tag-editorial-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A photorealistic humorous academic presentation in a conference room: an anthropomorphic otter scientist stands at the left side of the frame wearing a crisp white lab coat and holding a thin pointing stick toward a large presentation board on an easel. The otter is upright like a human, with realistic brown fur, dark paws, and a professional posture. The lab coat has a stitched name tag reading "Dr. Otter" and a smaller line reading "Aquatic Systems Lab," plus two pens in the chest pocket. The otter’s face is partially censored by a square blur block. Behind the otter is a whiteboard with faint handwritten notes and doodles, including "WiFi > Fish," "H2O," "Hydration," a fish sketch, and a wifi symbol. The main focus is a large clean presentation slide with sharp readable text and polished corporate-academic layout. At the top, a bold title reads "Ethan Mollick’s Otter Test" and beneath it a subtitle reads "Prompt: \"An otter sitting on an airplane seat using in-flight wifi on a laptop\"". Below that is a boxed section titled "Sample AI-Generated Images" containing exactly 4 side-by-side sample images of a realistic otter seated in an airplane seat using a laptop or tablet, each framed like model outputs, with one showing a large wifi symbol above the seat. Beneath the images is a section labeled "Performance Results (Pass = otter, airplane seat, in-flight wifi, laptop/tablet)" with exactly 5 score boxes: "DALL·E 3" with no visible numeric score, "GPT-4o" with "4/4" and "100%", "Midjourney v6" with "3/4" and "75%", "Stable Diffusion XL" with "2/4" and "50%", and "SD 1.5" with "0/4" and "0%". On the right side is a large highlighted box reading "Average Score" and "70%" in large blue type. At the bottom of the slide is a "Key Findings" box with exactly 3 bullet points: "Modern models understand complex, specific prompts surprisingly well.", "Otters + airplanes + wifi = a reliable benchmark.", and "Further research is otter-ly necessary." A small simple cartoon otter doodle appears in the lower-right corner of the slide. The room is warmly lit with wood-paneled walls, shallow depth of field, and a few blurred audience members in the foreground, including a laptop at the bottom edge showing an otter image on its screen and a glass pitcher on a table. Style: ultra-realistic editorial photography, deadpan scientific satire, believable conference presentation, high detail, natural indoor lighting, professional lens compression, readable slide typography, polished yet absurd.
+```
+
+</details>
+
 <a id="gpt-image-parisian-morning-cafe-trench-coat-woman"></a>
 ### 巴黎街头手持咖啡与可颂的女子
 
@@ -1771,6 +3190,25 @@ GPT Image 2 · 文生图 · 出处: [@noorlewisx on X](https://x.com/noorlewisx/
 
 ```text
 A cinematic, realistic short video of a stylish young woman with long wavy brown hair and bangs, wearing a beige trench coat over a white top and light pants, carrying a brown leather shoulder bag. She steps out of an elegant blue door of a classic European building onto a sunlit cobblestone street lined with plants and flower boxes. She walks confidently down the charming Parisian-style alley. She approaches and enters a cozy cafe with wooden doors and glass windows labeled something like “CHANEL ALEX” or similar. Inside the warm, inviting cafe with exposed beams, pendant lights, and a marble counter, she orders an “Ice vanilla latte, please” from a bearded barista in an apron. A close-up of a golden, flaky croissant on a white plate with a fork. She sits by the window, happily sips the layered latte from a clear glass mug, closes her eyes in enjoyment, and says “That’s the good stuff.” She then takes a big bite of the croissant and says “Perfect start to the day.” Final shot of her walking down a bustling cobblestone street in golden morning light, holding the coffee and half-eaten croissant, smiling and looking at the camera. Soft natural lighting, warm tones, shallow depth of field, high detail, lifestyle aesthetic
+```
+
+</details>
+
+<a id="gpt-image-pink-puma-tee-red-thar-streetwear"></a>
+### 粉色 Puma T恤男子倚靠红色 Thar
+
+<a href="https://x.com/Xaroon_x/status/2067560718379999279"><img src="../../previews/gpt-image-pink-puma-tee-red-thar-streetwear.jpg" width="360"></a>
+
+提示词明确了服装颜色、印花文字和自然光，并加入 DSLR 虚化背景的镜头描述，使画面保持时尚编辑风格。红色越野车作为色彩锚点，让粉色与红色在绿色背景中更醒目。
+
+GPT Image 2 · 文生图 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2067560718379999279) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`streetwear`](tags.md#tag-streetwear) [`fashion-editorial`](tags.md#tag-fashion-editorial) [`natural-light`](tags.md#tag-natural-light) [`bokeh`](tags.md#tag-bokeh)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+AGE 24 EAR OLD CREATE KHAKI HEAVYWEIGHT FULL BODY OVERSIZED pink T-SHIRT WITH THE red COLOUR TEXT puma. Bell bottom PANTS. WHITE SNEAKERS. WATCH IS LEFT HAND. SLIGHTLY MESSY DARK HAIR BLACK SUNGLASSES. RANDAM STYLISH ATTITUDE POST IN Red THAR. THERE WILL BE SOME TREES IN THE green BACKGROUND THAT WILL BE BLURRED, LIKE WHEN TAKING PHOTOS WITH A DSLR. NATURAL LIGHT. URBAN FASHION EDITORIAL STYLE, BOLD ATTITUDE, HIGH CONTRAST PHOTO,
 ```
 
 </details>

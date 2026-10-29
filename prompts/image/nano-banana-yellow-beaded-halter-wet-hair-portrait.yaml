@@ -1,0 +1,24 @@
+id: nano-banana-yellow-beaded-halter-wet-hair-portrait
+title:
+  en: Woman in yellow beaded halter with damp hair
+  zh: 黄色串珠挂颈上衣与湿发妆造人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- fashion-portrait
+- low-angle
+- beadwork
+- soft-lighting
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2113259619443159550
+  credit: KeorUnreal
+  likes: 290
+  captured: '2026-10-29'
+  posted: '2026-10-22'
+notes:
+  en: A low camera angle with the head tilted back makes the chest and collar the focal point. The prompt names each material (sheer mesh, velvet bodice, crystal embroidery, metallic fringe) so the model renders them as distinct textures, and the soft overhead light with a plain gray wall keeps attention on those details.
+  zh: 低机位加上头部微仰，让胸口和领口成为视觉重心；提示词逐一列出面料与装饰（透明网纱、丝绒上身、水晶刺绣、金属流苏），使模型能分别呈现这些材质。柔和的顶光与素净灰墙让注意力集中在纹理上。
+prompt: |
+  Low-angle chest-up fashion portrait of a young american woman Emilia clarke Head tilted slightly back, half-lidded eyes looking down into the camera, lips slightly parted. Blonde hair in a messy low bun with thin damp strands framing the face and neck. Dewy wet-look makeup: luminous skin sheen on shoulders and collarbones, soft dark liner, glossy peach-pink lips. Neon yelloe halter high-collar piece with bronze beadwork on the collar, a sheer neon yelloe mesh panel edged with beads, and a velvet-like bodice covered in symmetrical gold-silver crystal floral embroidery with fine metallic fringe opened on a deep neckline. Multiple small silver hoop and stud earrings. Soft overhead light, neutral out-of-focus light-gray interior wall with a horizontal architectural line. High-fashion damp glam, sharp embroidery detail, no harsh flash.

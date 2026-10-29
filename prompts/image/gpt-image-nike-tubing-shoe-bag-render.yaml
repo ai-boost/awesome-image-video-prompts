@@ -1,0 +1,24 @@
+id: gpt-image-nike-tubing-shoe-bag-render
+title:
+  en: Blue rubber tubing shoe bag with red swoosh
+  zh: 蓝色橡胶管鞋袋配红色对勾标志
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- 3d-render
+- product
+- rubber-tubing
+- studio-lighting
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2077034244988150062
+  credit: Sharon Riley
+  likes: 162
+  captured: '2026-10-29'
+  posted: '2026-07-14'
+notes:
+  en: The prompt describes the object as bent industrial rubber tubing with material physics terms such as elastomer texture, compression, stretch and grippy surface, so the form reads as a real manufactured product. A pure white seamless background with soft diffused light and a contact shadow gives a clean catalogue-style studio render.
+  zh: 提示词将物体描述为弯曲的工业橡胶管，并使用弹性体纹理、压缩、拉伸和防滑表面等材料物理词汇，让造型看起来像真实的工业产品。纯白无缝背景配合柔和的漫射光与接触阴影，形成干净的产品目录式棚拍效果。
+prompt: |
+  Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.

@@ -1,0 +1,24 @@
+id: gpt-image-bleach-orange-hair-manga-glasses-poster
+title:
+  en: Orange haired anime hero in glasses reflecting manga panels
+  zh: 橙发动漫少年，眼镜倒映漫画分镜
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- anime
+- bleach
+- manga-collage
+- poster
+source:
+  name: '@ponyodong on X'
+  url: https://x.com/ponyodong/status/2052983036724355468
+  credit: 波妞PONYO
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Naming the series and the reflective glasses gives the manga page reflections a clear place to sit. A centred, straight-on close-up with blurred floating panel strips and blue particles against warm orange hair builds layered depth.
+  zh: 点名作品并描述反光眼镜，让漫画分镜的倒影有明确的落点。正面对称特写配合虚化的漫画条带与蓝色粒子，在橙发的暖色之上形成冷暖对比和纵深层次。
+prompt: |
+  超高细节二次元热血漫画风角色海报，少年死神角色正面半身特写，橙色炸毛短发，琥珀色眼睛，佩戴黑色圆框复古墨镜，冷峻严肃表情，正中央对称构图，镜头直视观众，强烈压迫感。眼镜镜片中倒映大量黑白漫画分镜与角色画面，背景也由密集的日漫漫画页拼贴组成，形成“角色记忆 / 名场面回顾”的视觉效果。前景漂浮多条高速运动的漫画分镜条带，带有动态模糊与景深虚化效果，穿插画面上下，营造速度感与空间层次。画面中散落蓝色灵压粒子 / 荧光能量碎片，形成冷暖撞色（橙发 vs 蓝色粒子）。整体采用《BLEACH》式热血少年漫画美学，融合现代潮流海报设计与高级动漫商业视觉。anime key visual, BLEACH style, manga collage poster, cinematic anime lighting, reflective glasses, manga panels reflection, dynamic motion blur, orange spiky hair, intense stare, ultra detailed anime illustration, shonen jump aesthetic, layered composition, high contrast shading, cel shading, glowing blue particles, dramatic close-up portrait, symmetrical composition, manga montage background, Japanese comic aesthetic, premium anime poster

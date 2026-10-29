@@ -1,0 +1,77 @@
+id: nano-banana-surveillance-crosswalk-face-match-hud
+title:
+  en: Surveillance crosswalk photo with neon face match HUD
+  zh: 带霓虹人脸匹配界面的监控风格路口照片
+model: Nano Banana 2
+mode: image-edit
+category: realism
+tags:
+- surveillance
+- hud-overlay
+- street-photo
+- reference-face
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2038647491781181624
+  credit: Nexora
+  likes: 233
+  captured: '2026-10-29'
+  posted: '2026-03-30'
+notes:
+  en: A high angle CCTV viewpoint with a 35mm lens and a reference face keeps the scene photoreal, while listing each HUD element separately makes the tracking frame, labels and metadata read as deliberate interface layers.
+  zh: 高位监控视角、35mm 镜头和参考人脸让画面保持写实，同时把追踪框、标签和元数据逐项列为独立的 HUD 元素，使叠加界面显得有条理而不杂乱。
+prompt: |
+  {
+    "title": "Hyper-Realistic Surveillance Crosswalk Scene with Futuristic HUD",
+    "description": "A cinematic, hyper-realistic high-angle surveillance-style image capturing a lone male subject walking across a pedestrian crosswalk in an urban environment. The composition emphasizes a technical, observational perspective as if recorded by an advanced security system.",
+    "subject": {
+      "appearance": "Adult male with a clearly defined, recognizable face (reference-based), neutral to focused expression",
+      "clothing": [
+        "Black leather biker jacket",
+        "Black T-shirt",
+        "Dark denim jeans",
+        "Casual sneakers",
+        "Dark sunglasses"
+      ],
+      "accessory": "Holding a red coffee cup in both hands"
+    },
+    "environment": {
+      "location": "Urban pedestrian crosswalk",
+      "lighting": "Diffused natural daylight with soft shadows",
+      "color_palette": [
+        "Muted grays of asphalt",
+        "Glossy black tones",
+        "Subtle urban neutrals"
+      ],
+      "atmosphere": "Gloomy, subdued, and slightly cinematic with a technological surveillance tone"
+    },
+    "camera": {
+      "angle": "High-angle (CCTV / surveillance perspective)",
+      "lens": "35mm",
+      "depth_of_field": "Large depth of field ensuring full scene clarity",
+      "style": "Hyper-realistic, sharp detail, documentary-like capture"
+    },
+    "hud_overlay": {
+      "style": "Futuristic neon blue interface",
+      "elements": [
+        "Dynamic tracking frame outlining the subject",
+        "Segmented highlights around clothing and accessories",
+        "Technical labels such as 'SUBJECT: LEATHER JACKET'",
+        "Facial recognition confirmation window positioned on the left",
+        "Subtle scanning lines and data points",
+        "Camera metadata text in corners (ISO, shutter speed, timestamp)"
+      ],
+      "tone": "Clean, advanced, minimal yet highly technical"
+    },
+    "composition_notes": [
+      "Maintain strong subject centering within crosswalk lines",
+      "Ensure contrast between subject and environment for clarity",
+      "Blend realism with subtle sci-fi interface elements",
+      "Avoid over-saturation; keep tones natural and cinematic"
+    ],
+    "rendering_style": {
+      "quality": "Ultra-detailed, photorealistic",
+      "textures": "Highly defined materials (leather, fabric, asphalt)",
+      "post_processing": "Slight cinematic grading with cool undertones"
+    }
+  }

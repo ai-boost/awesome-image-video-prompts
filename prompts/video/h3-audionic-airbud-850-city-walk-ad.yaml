@@ -1,0 +1,26 @@
+id: h3-audionic-airbud-850-city-walk-ad
+title:
+  en: 'Silver earbuds ad: city walk to product hero shot'
+  zh: 银色耳机广告：城市漫步到产品定格
+model: MiniMax H3
+mode: text-to-video
+tags:
+- product-ad
+- earbuds
+- city-walk
+- bokeh
+- cinematic
+source:
+  name: '@ayzalnooor24521 on X'
+  url: https://x.com/ayzalnooor24521/status/2087042771257540945
+  credit: ayzalnoor
+  likes: 223
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ayzalnooor24521/status/2087042771257540945
+notes:
+  en: 'The prompt is written as a timed shot sequence: a product close up first, then a walking segment with bokeh and a pop song cue, then one clean hero frame. Naming what to leave out (phone screen, discount text, end card) keeps the ending from drifting into a generic ad template.'
+  zh: 提示词按时间顺序写成分镜：先是耳机的产品特写，接着是带虚化光斑和流行音乐提示的城市步行段落，最后定格为一个干净的产品主视觉。结尾明确列出不需要的元素（手机屏幕、折扣文字、片尾标识），避免画面滑向通用广告模板。
+prompt: |
+  Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start with a close-up of the silver earbuds and case, then show a stylish Korean girl wearing them and walking through a luxurious Korean shopping street while enjoying a modern Korean K-pop song. Use beautiful city lights, soft bokeh, elegant fashion, natural expressions and smooth cinematic camera movement. End with one clean hero shot of the silver earbuds and case only. No phone screen, Bluetooth connection, discount text, logo end card or extra ending scene.

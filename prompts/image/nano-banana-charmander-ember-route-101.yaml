@@ -1,0 +1,28 @@
+id: nano-banana-charmander-ember-route-101
+title:
+  en: Charmander uses Ember on a sunset route
+  zh: 小火龙在日落道路上使用火花攻击
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- pixel-art
+- pokemon
+- game-ui
+- image-edit
+source:
+  name: '@ProperPrompter on X'
+  url: https://x.com/ProperPrompter/status/2027157212863631567
+  credit: proper
+  likes: 4659
+  captured: '2026-10-29'
+  posted: '2026-02-26'
+notes:
+  en: The follow-up edit keeps the battle layout from the first prompt and swaps only the location and both Pokemon, so the change stays consistent. Naming the exact move in the battle text ties the attack effect to the dialog box.
+  zh: 后续编辑保留第一轮的对战布局，只替换场景和两只宝可梦，改动集中且前后一致。在战斗文字中写明具体招式，能让招式特效与对话框内容对应。
+prompt: |
+  nano banana 2
+
+  prompt: inspired by a classic pokemon gameboy screenshot but it's highly detailed beautiful pixel art, include cool effects from moves used, modern minimal ui
+
+  prompt: change it to a new location and the battle is two new random kanto pokemon

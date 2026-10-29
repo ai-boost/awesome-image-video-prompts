@@ -1,0 +1,28 @@
+id: nano-banana-giant-pepsi-can-mountain-waterfall
+title:
+  en: Giant Pepsi can on mountain summit pouring waterfall
+  zh: 山顶巨型百事可乐罐倾泻瀑布
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- surreal
+- product
+- waterfall
+- template
+source:
+  name: '@Sheldon056 on X'
+  url: https://x.com/Sheldon056/status/2036657572296769934
+  credit: Duet | AI
+  likes: 99
+  captured: '2026-10-29'
+  posted: '2026-03-25'
+notes:
+  en: The prompt is a fill-in template, so the brand, logo and liquid colour can be swapped while the scene stays the same. It describes the subject, then the water path from the tab down the mountain to the river, then the lighting, which keeps the waterfall connected from can to valley.
+  zh: 这是可替换品牌、logo 和液体颜色的占位模板，换成其他产品场景结构不变。按主体、从罐口经山体流到河谷的水流路径、最后光线的顺序描述，使瀑布从罐口到山谷保持连贯。
+prompt: |
+  Nano Banana 2 on
+  @Hailuo_AI
+   .
+
+  Prompt: A highly realistic, surreal photograph of a colossal, giant [BRAND] aluminum can (with the [BRAND COLORS & LOGO DESCRIPTION] clearly visible) positioned at the top of a rocky summit of a steep, cone-shaped, lush green mountain. The can is lying on its side and a powerful and effervescent waterfall is pouring from its tab opening. This waterfall cascades down the entire side of the mountain face and feeds directly into a pristine, winding river at the mountain's base flowing through a serene green valley. The water should have effervescent bubbles and a luminous, vibrant [LIQUID COLOR] quality. A small flock of birds is visible flying near the peak. Bright, crisp, clear summer day lighting. Natural daylight, clear blue sky with a few soft clouds. Wide-angle.￼

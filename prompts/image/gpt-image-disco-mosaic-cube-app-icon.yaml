@@ -1,0 +1,28 @@
+id: gpt-image-disco-mosaic-cube-app-icon
+title:
+  en: Disco mosaic cube app icon with letter N
+  zh: 迪斯科镜面马赛克立方体 App 图标，字母 N
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- app-icon
+- disco-mosaic
+- chrome
+- 3d-render
+source:
+  name: '@vista8 on X'
+  url: https://x.com/vista8/status/2056308962778296715
+  credit: vista8
+  captured: '2026-10-29'
+  posted: '2026-05-18'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Fixed material terms (chrome, mirror mosaic tiles, studio light) set the surface look, while the rounded white tile frames the icon on a clean background. Naming Blender and ultra detailed steers the result toward a polished product render.
+  zh: 固定的材质词（铬金属、镜面马赛克方块、棚拍光）决定表面质感，圆角白色底板把图标框在干净的背景中。加入 Blender 和超精细等词，让结果更接近成品级的产品渲染。
+prompt: |
+  为【品牌名】生成一个高级 3D App 图标，圆角方形底板，玻璃与金属铬材质，迪斯科球镜面马赛克小方块质感，闪亮高光，柔和工作室灯光，干净极简背景，高端产品图标风格，Blender 3D 渲染，超精细
+
+  英文版：
+
+  A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass and chrome material, disco-ball mosaic mirror tiles, sparkling highlights, soft studio lighting, clean minimal background, high-end icon, Blender 3D render, ultra detailed

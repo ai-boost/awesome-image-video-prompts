@@ -1,0 +1,27 @@
+id: nano-banana-adidas-editorial-collage-campaign-poster
+title:
+  en: Model in orange adidas outfit with torn fabric collage
+  zh: 模特身穿橙色阿迪达斯服饰，周围是撕裂织物拼贴
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- collage
+- campaign
+- template
+source:
+  name: '@youraipulse on X'
+  url: https://x.com/youraipulse/status/2031843569942622631
+  credit: AI Pulse
+  likes: 233
+  captured: '2026-10-29'
+  posted: '2026-03-10'
+notes:
+  en: A single brand slot in the prompt sets the palette, outfit colors and symbol, so one template works across brands. Torn-edge material swatches arranged around the model form a frame, and the logo sits at the center as the focal point.
+  zh: 提示词中的品牌占位符统一决定配色、服饰色彩和标志元素，同一模板可套用不同品牌。围绕人物的撕裂边缘面料拼贴形成画框，居中的标志成为视觉焦点。
+prompt: |
+  [BRAND]. A high fashion campaign poster. A model with a strong expressive face as the centerpiece, wearing a signature outfit in the brand's exact official color palette. Dramatic surreal atmospheric background. Layered collage of torn-edge material swatches surrounding the model. Brand's iconic symbol woven into the scene. Logo overlaid in the center in clean serif font. Macro detail on fabric texture and stitching. Cinematic lighting, rich contrast, 8K
+
+  Save for later and follow for more
+  @youraipulse

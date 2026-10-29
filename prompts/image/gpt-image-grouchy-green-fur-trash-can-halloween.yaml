@@ -1,0 +1,33 @@
+id: gpt-image-grouchy-green-fur-trash-can-halloween
+title:
+  en: Green furry puppet grouch in trash can on Halloween street
+  zh: 万圣节街头从垃圾桶探出头的绿毛木偶人
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- halloween
+- puppet
+- reference-photo
+source:
+  name: '@SethCritchley on X'
+  url: https://x.com/SethCritchley/status/2110706890376401210
+  credit: Super Producer Seth
+  likes: 64
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+notes:
+  en: 'Anchors the edit on an uploaded face photo, then locks the anatomy with explicit rules: the can stays upright and separate, no legs are visible, and the body rises from the rim. The full composition spec sets 2:3 portrait framing, a three-quarter low angle and a warm pumpkin and cool moonlight mix so the night scene stays consistent.'
+  zh: 以上传的人脸照片为锚点进行编辑，并明确规定身体结构：垃圾桶直立且与身体分离，看不到腿部，上身从桶沿升起。完整的构图说明（2:3竖构图、四分之三低机位、南瓜暖光与月光冷光的混合）保证夜景风格一致。
+prompt: |
+  Using my uploaded photo as the primary facial reference, transform me into an outrageously exaggerated, hyper-realistic, classic children’s TV puppet-inspired trash-can creature while keeping my identity and recognizable facial features unmistakably intact.
+
+  CHARACTER DESIGN: Enormous head, tiny upper body, narrow shoulders, short, skinny puppet-like arms, huge expressive eyes, heavy downward-slanting brown eyebrows, long bulbous green nose, and a pronounced grouchy frown. Cover my entire visible head, face, eyebrows, neck, and exposed upper body in vibrant, thick, shaggy green fur with individually defined strands, wild spiky tufts, unruly hair, and tactile, messy texture. Preserve my underlying facial structure and recognizable identity. Expression: comically irritated, judgmental, sarcastic, mischievous, and lovable—not frightening or monstrous. Slightly hunch my shoulders and lean my oversized head forward as if preparing a hilarious sarcastic one-liner.
+
+  TRASH CAN AND ANATOMY: My upper torso, shoulders, and arms emerge directly from a classic, battered, open-topped cylindrical galvanized-steel trash can with a thick rolled rim. My entire lower body remains concealed inside. The can is upright, intact, separate from my body, and firmly resting directly on the sidewalk. Show its complete structure from rim to bottom base, including realistic dents, scratches, worn edges, subtle rust, metallic reflections, and a clear contact shadow. Absolutely no visible legs, feet, shoes, or body parts beneath, through, or outside the can. I am sitting inside it, not wearing it as a costume. No floating, hovering, sinking, or hidden visible limb support.
+
+  ENVIRONMENT: A richly detailed residential neighborhood at nighttime on Halloween. Include charming suburban houses, glowing jack-o’-lanterns along the sidewalk and on porches, spooky decorations, artificial cobwebs, skeletons, bare tree branches, scattered autumn leaves, warm orange window and porch lights, purple and orange string lights, distant trick-or-treater silhouettes, and subtle drifting nighttime mist. Deep midnight-blue sky, soft moonlight, balanced warm pumpkin illumination and cool blue ambient lighting. Festive, quaint, whimsical, playfully spooky—not genuine horror. Keep the background softly focused and subordinate to my face.
+
+  COMPOSITION: Vertical 2:3 portrait, three-quarter camera angle, slightly low perspective. Show the complete trash can from its upper rim to its fully grounded base, my entire visible upper body, oversized head, face, shoulders, and visible arms without cropping. Position the can prominently in the lower and central frame, with my expressive face as the primary focal point. Maintain a strong silhouette, clear separation between green fur, metal rim, and dark background, and enough surrounding scenery to establish the Halloween neighborhood.
+
+  RENDERING: Premium cinematic CGI combining practical puppet craftsmanship with photorealistic 3D character artistry. Extraordinary tactile fur detail, layered shaggy eyebrows, realistic eye reflections, convincing facial and mouth anatomy, physically accurate weathered metal, and natural material textures. Use cinematic moonlight, warm pumpkin glow, subtle purple accents, global illumination, physically based materials, ambient occlusion, volumetric mist, delicate rim lighting, realistic contact shadows, and cinematic depth of field. Sharp facial details; softly blurred background.

@@ -1,0 +1,146 @@
+id: gpt-image-energy-bar-botanical-fmcg-poster
+title:
+  en: Tilted energy bar on orange with botanical sketches
+  zh: 橙色背景上倾斜的能量棒与植物线描
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fmcg
+- snack-ad
+- product-poster
+- botanical
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2055853487116919038
+  credit: Zara
+  likes: 255
+  captured: '2026-10-29'
+  posted: '2026-05-17'
+notes:
+  en: A template with fill-in slots that fixes the layout order and hierarchy, then pins a solid single colour background, a centred tilted pack and floating ingredients. Naming hand drawn botanical line art behind the product keeps the decoration separate from the packshot.
+  zh: 带填空槽位的模板，先固定排版顺序和层级，再指定纯色背景、居中倾斜的包装和悬浮食材。把手绘植物线稿放在产品后方，让装饰与产品实拍层次分开。
+prompt: |
+  Create a premium FMCG snack-product advertising poster for [BRAND NAME].
+  TOPIC:
+  [ENERGY BAR / HEALTHY SNACK / SWEET PRODUCT CAMPAIGN]
+  STYLE & ART DIRECTION:
+  Bright playful commercial aesthetic
+
+  Modern healthy-snack branding
+
+  Pinterest FMCG advertising style
+
+  Flat-lay product-focused composition
+
+  Hand-drawn botanical illustration mix
+
+  Vibrant youthful atmosphere
+
+  Clean premium supermarket-ad style
+
+  Energetic healthy-food storytelling
+
+  Modern packaging-brand identity
+
+  Bold candy-color aesthetic
+
+  MAIN SUBJECT:
+
+  A realistic snack package prominently positioned in the center
+
+  Product tilted dynamically for visual energy
+
+  Floating ingredients surrounding the package
+
+  Realistic fruits, chocolate pieces, nuts, or flavor elements
+
+  Glossy premium packaging reflections
+
+  Commercial product photography
+
+  Energetic healthy lifestyle atmosphere
+
+  Vibrant youthful branding mood
+
+  LAYOUT & COMPOSITION:
+
+  Same exact composition and hierarchy as the reference image
+
+  Solid monochromatic background
+
+  Product placed centrally
+
+  Floating ingredient arrangement around the product
+
+  Hand-drawn botanical illustrations integrated behind and around the packaging
+
+  Minimal but energetic visual balance
+
+  Spacious clean layout
+
+  Strong FMCG hierarchy
+
+  TEXT & TYPOGRAPHY:
+
+  Large playful rounded typography
+
+  Youthful healthy-snack branding
+
+  Friendly energetic font style
+
+  Main title:
+  "[PRODUCT NAME]"
+
+  Supporting text:
+  "[FLAVOR / HEALTHY TAGLINE]"
+
+  DEPTH & LIGHTING:
+
+  Bright commercial studio lighting
+
+  Soft realistic shadows
+
+  Glossy package highlights
+
+  Floating-object depth
+
+  Smooth food reflections
+
+  Vibrant premium contrast
+
+  EXTRA DESIGN DETAILS:
+
+  Hand-drawn fruit illustrations
+
+  Floating ingredients
+
+  Dynamic packaging angle
+
+  Minimal decorative doodles
+
+  Organic food textures
+
+  Youthful energetic spacing
+
+  COLOR PALETTE:
+
+  [PRIMARY BRAND COLOR]
+
+  Bright complementary tones
+
+  Candy-inspired highlights
+
+  Vibrant fruit colors
+
+  QUALITY:
+
+  Ultra realistic commercial product photography
+
+  Premium FMCG advertising campaign
+
+  Behance-quality branding composition
+
+  Same exact visual identity and layout as the reference
+
+  Ultra high resolution

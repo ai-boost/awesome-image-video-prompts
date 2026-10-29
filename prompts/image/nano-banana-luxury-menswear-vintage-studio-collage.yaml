@@ -1,0 +1,33 @@
+id: nano-banana-luxury-menswear-vintage-studio-collage
+title:
+  en: Four panel black and white menswear editorial collage
+  zh: 四格黑白男装时尚大片拼贴
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- fashion
+- editorial
+- studio
+- collage
+source:
+  name: '@jzaib4269 on X'
+  url: https://x.com/jzaib4269/status/2063930810428740045
+  credit: Jahan Zaib
+  likes: 60
+  captured: '2026-10-29'
+  posted: '2026-06-08'
+notes:
+  en: The prompt packs the wardrobe, set props and four named poses into one block, so the model lays them out as a magazine collage with a consistent look across panels. Lens and lighting terms such as 85mm and low key lighting push the result toward a photographic finish rather than a generic render.
+  zh: 提示词把服装、道具和四个具体姿势写在同一段里，模型因此会把它们排成一组风格统一的杂志式拼贴。镜头和布光术语如 85mm 与低调光，把画面推向摄影质感，而不是普通渲染。
+prompt: |
+  Which looks better?
+
+  Left: Gemini Nano Banana 2
+  Right: GPT Image 2.0 on ChatGPT
+
+  Prompt: Ultra-realistic luxury fashion editorial photoshoot featuring a world-class male athlete with a sharp jawline, athletic physique, and perfectly groomed dark hair, dressed in an elegant all-white linen outfit consisting of an open-collar button-down shirt, tailored trousers, and minimalist white sneakers. Studio setting with a deep black seamless background, cinematic low-key lighting, dramatic contrast, and rich shadows.
+  A sophisticated vintage photography theme with antique large-format cameras on wooden tripods, aged wooden crates, and classic travel trunks placed around the scene. Multiple poses captured in a premium magazine-style collage: sitting cross-legged on the floor with a confident smile, seated on a wooden chest with an intense gaze, standing with arms crossed in a powerful pose, and posing with one foot on a crate while adjusting his hair.
+  Luxury menswear campaign aesthetic, timeless elegance, masculine confidence, refined styling, high-end fashion photography, medium and full-body compositions, ultra-detailed skin texture, crisp fabric details, professional studio lighting, cinematic color grading, shallow depth of field, premium watch accessory, clean composition, Vogue-quality editorial, award-winning photography, 8K resolution, hyperrealistic, sharp focus, commercial advertising quality.
+  For an even more viral / premium AI image result:
+  Masterpiece, ultra-realistic luxury fashion campaign, iconic athletic superstar, old-money elegance, monochromatic white wardrobe, dramatic black background, vintage camera studio, cinematic lighting, powerful masculine energy, luxury lifestyle magazine cover, photorealistic, highly detailed face, perfect skin texture, luxury watch, premium editorial photography, global advertising campaign, soft rim light, depth and atmosphere, fashion week campaign aesthetic, Leica medium-format look, 85mm lens, f/1.8, HDR, ultra-sharp focus, 8K, masterpiece composition, timeless sophistication, stop-scrolling visual impact.

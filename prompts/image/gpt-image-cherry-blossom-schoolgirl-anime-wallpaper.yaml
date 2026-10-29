@@ -1,0 +1,56 @@
+id: gpt-image-cherry-blossom-schoolgirl-anime-wallpaper
+title:
+  en: Shy twin tail schoolgirl under cherry blossoms
+  zh: 樱花树下害羞双马尾少女
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- anime
+- cherry-blossom
+- school-uniform
+- wallpaper
+source:
+  name: '@joshesye on X'
+  url: https://x.com/joshesye/status/2046593124646928397
+  credit: joshesye
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt splits character, style, background and pose into labeled sections and states each detail once, which keeps the outfit and palette consistent. Naming the 16:9 phone wallpaper format leaves open sky and blossom space around the figure.
+  zh: 提示词把角色、风格、背景和姿势拆成带标签的分段，每个细节只说一次，服装和配色因此更稳定。明确标注16:9手机壁纸的用途，让人物周围留出天空与樱花的空间。
+prompt: |
+  [中文]
+  生成一张高质量二次元美少女图片。
+
+   角色设定：
+
+  - 年龄：17岁
+  - 发型：双马尾，颜色：樱花粉，发梢带点渐变紫色
+   - 眼睛：大而明亮，紫色瞳孔，有星星高光
+   - 服装：JK制服，白色衬衫，深蓝色格子裙，红色领结
+   - 配饰：白色过膝袜，棕色小皮鞋，头上戴一个粉色蝴蝶结
+
+  风格要求：
+   - 日系动画风格，线条清晰 - 色彩鲜艳，对比度高 - 光影柔和，有层次感
+  - 背景：樱花树下，花瓣飘落，远处是学校教学楼  表情：微笑，有点害羞 姿势：站姿，双手放在身后，身体微微前倾
+
+  比例：16:9（手机壁纸） 质量：8K，超精细，细节丰富
+
+  [English]
+  Generate a high-quality anime beautiful girl image.
+
+   Character setting:
+
+  - Age: 17 years old
+  - Hairstyle: twin tails, color: cherry blossom pink, hair tips with a bit of gradient purple
+   - Eyes: large and bright, purple pupils, with star highlights
+   - Clothing: JK uniform, white shirt, dark blue plaid skirt, red bow tie
+   - Accessories: white over-the-knee socks, brown leather shoes, wearing a pink bow on the head
+
+   Style requirements:
+   - Japanese animation style, clear lines - bright colors, high contrast - soft light and shadow, with a sense of layering
+  - Background: under the cherry blossom tree, petals falling, school teaching building in the distance  Expression: smiling, a bit shy Pose: standing posture, hands placed behind the back, body slightly leaning forward
+
+  Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details

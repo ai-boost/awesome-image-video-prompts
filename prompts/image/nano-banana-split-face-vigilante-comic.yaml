@@ -1,0 +1,28 @@
+id: nano-banana-split-face-vigilante-comic
+title:
+  en: Half human face cracks into vigilante mask
+  zh: 半张人脸裂开化为义警面具
+model: Nano Banana 2
+mode: text-to-image
+category: comic
+tags:
+- split-face
+- comic-book
+- pencil-ink
+- superhero
+source:
+  name: '@NikhilRajX on X'
+  url: https://x.com/NikhilRajX/status/2028038967690473711
+  credit: Nikhil
+  likes: 77
+  captured: '2026-10-29'
+  posted: '2026-03-01'
+notes:
+  en: Naming both halves and a torn paper or shattered glass divide keeps the split composition clear, while the pencil and ink, crosshatching and stippling terms lock in the comic rendering. Strong side light and a smoky dark background supply the poster mood.
+  zh: 把脸分成两半并指定撕纸或碎玻璃式分界线，让构图清晰；铅笔墨线、交叉排线和点刻等词锁定漫画质感。侧光与烟雾暗背景带来海报氛围。
+prompt: |
+  Comic-Book version art
+
+  Gemini Nano Banana 2
+
+  Prompt: Dynamic split-face concept art in detailed pencil & ink style: handsome young adult male, half his face calm realistic human with messy hair, intense gaze and natural skin texture; the other half explodes into a powerful superhero mask inspired by urban vigilante - black base with crimson red accents, sharp geometric patterns, reflective white eye lenses, subtle web cracks. Vertical divide looks like torn paper or shattered glass effect, strong side lighting with deep shadows, artistic cross-hatching and stippling, high contrast, epic movie poster mood, dark smoky background, intricate linework, masterpiece illustration

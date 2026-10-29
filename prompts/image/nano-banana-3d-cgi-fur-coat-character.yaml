@@ -1,0 +1,36 @@
+id: nano-banana-3d-cgi-fur-coat-character
+title:
+  en: Bald 3D character in fur coat and red sneakers
+  zh: 秃头 3D 人物穿毛皮外套与红色球鞋
+model: Nano Banana 2
+mode: text-to-image
+category: character
+tags:
+- 3d
+- cgi
+- character
+- fashion
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2031735211772317828
+  credit: Zar⭕on
+  likes: 152
+  captured: '2026-10-29'
+  posted: '2026-03-11'
+notes:
+  en: A structured JSON spec splits the request into labelled fields for render engine, proportions, skin, materials, lighting and camera, so each part of the look is controlled on its own. The three-point lighting and 35 to 50mm lens fields fix a full body studio framing, while the fur and clothing fields add material detail.
+  zh: 结构化的 JSON 提示把渲染引擎、比例、皮肤、材质、灯光和镜头分成独立字段，让每个部分的效果可以单独控制。三点布光和 35 到 50 毫米镜头的设定固定了全身棚拍构图，毛皮和服装字段则补充材质细节。
+prompt: |
+  {
+    "renderEngine": "Blender Cycles / Unreal Engine 5 Lumen",
+    "baseStyle": "Stylized 3D CGI character — Pixar meets high-fashion editorial",
+    "proportions": "Slightly enlarged head (1.3x natural), compact torso, simplified facial features, exaggerated chunky feet/shoes",
+    "skinShader": "Subsurface scattering with physically-based roughness, no pores, smooth cartoon-like finish",
+    "clothingPhysics": "Marvelous Designer simulation baked in, wrinkle maps, fabric-specific material shaders",
+    "furTech": "XGen or Ornatrix volumetric fur for faux-fur pieces, physics-simulated",
+    "resolution": "8192x8192px minimum, 300DPI",
+    "backgroundStyle": "Solid flat color, no gradient, no texture — studio seamless backdrop",
+    "lightingRig": "Three-point studio: key (45° front-top), fill (opposite side soft), rim (back edge definition)",
+    "cameraLens": "35-50mm equivalent, slight vignette, no fisheye",
+    "postProcessing": "Subtle chromatic aberration on edges, mild film grain 2%, slight color grade"
+  }
