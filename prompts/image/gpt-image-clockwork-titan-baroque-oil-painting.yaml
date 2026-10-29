@@ -1,0 +1,26 @@
+id: gpt-image-clockwork-titan-baroque-oil-painting
+title:
+  en: Golden Clockwork Titan Over Ancient Crowd
+  zh: 金色发条巨神俯视古代人群的巴洛克油画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- baroque
+- oil-painting
+- clockwork
+- chiaroscuro
+- fantasy
+source:
+  name: '@mark_k on X'
+  url: https://x.com/mark_k/status/2050673940905820508
+  credit: Mark Kretschmann
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-02'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Names a specific art movement and lighting style, chiaroscuro with Baroque grandeur, then builds the subject from concrete parts like gears, pistons and clock faces. A low camera angle with extreme foreshortening on the reaching hand adds scale, and a tight palette plus explicit exclusions keep it from drifting into sci-fi.
+  zh: 先点明巴洛克与明暗对照法的画风，再用齿轮、活塞、钟面等具体部件搭建主体。低机位加手部极端透视强化体量感，限定配色并写明排除项，避免画面滑向科幻风格。
+prompt: |
+  Create a monumental Baroque oil painting with Romantic-era grandeur depicting a colossal golden clockwork titan emerging from stormy, radiant clouds above an ancient crowd. The titan is enormous and divine, built from intricate brass and gold gears, engraved armor plates, pistons, rings, clock faces, and celestial machinery; its head is a dense crown of rotating mechanical structures with a single blazing golden light at the center like an eye. Show the figure from a dramatic low angle, with one massive articulated hand reaching down toward the viewer in extreme foreshortening, fingers made of cylindrical metal segments and ornate joints. Behind its head, place a circular halo of glowing mechanical rings and sunburst light, sending warm rays through towering dark clouds. Below, depict a vast crowd of robed ancient people in awe, many raising their arms toward the titan; include ruined classical architecture and columns at the left and right edges for scale. Use a cinematic wide composition, chiaroscuro lighting, deep shadows, glowing amber highlights, smoky atmosphere, turbulent clouds, dense painterly brushwork, intricate detail, mythic apocalyptic mood, and museum-quality classical realism. Keep the palette dominated by antique gold, bronze, umber, charcoal gray, and warm celestial amber. No modern text, no sci-fi neon, no cartoon styling; make it feel like a lost grand master painting of a divine machine descending from heaven.

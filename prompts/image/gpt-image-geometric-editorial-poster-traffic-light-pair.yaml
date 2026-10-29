@@ -1,0 +1,51 @@
+id: gpt-image-geometric-editorial-poster-traffic-light-pair
+title:
+  en: Couple leaning on traffic light in flat geometric illustration
+  zh: 靠在红绿灯旁的情侣扁平几何插画
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- geometric-illustration
+- editorial-poster
+- reference-image
+- flat-color
+- print-grain
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2108532094796533952
+  credit: Ziha
+  likes: 124
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+notes:
+  en: A format lock, character spec, style, face, palette and negative prompt sections turn an uploaded photo into a grainy flat poster. Hex colour codes and a rule that gradients appear only where shapes overlap keep the palette controlled while the reference preserves pose and clothing.
+  zh: 用格式锁定、角色、风格、面部、色板和负面提示分段，把上传的照片转成带颗粒感的扁平海报。给出十六进制色值并规定渐变只出现在形体重叠处，色彩因此可控，姿势与服装由参考图保留。
+prompt: |
+  Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a sophisticated flat geometric illustration.
+
+  FORMAT LOCK
+
+  Vertical 3:4 composition. Edge-to-edge warm off-white paper background. One standalone poster. Clean editorial layout.
+
+  CHARACTER
+
+  One adult character constructed from a few oversized asymmetric geometric shapes. Slightly exaggerated proportions, small head, elongated capsule-like limbs, simple mitten-style hands, and one oversized object integrated naturally into the pose and silhouette. Preserve the subject's recognizable appearance while simplifying details into graphic shapes.
+
+  STYLE
+
+  Flat geometric illustration, asymmetric proportions, crisp color blocks, soft airbrushed shading, subtle dark-to-color spray gradients where shapes overlap, fine print grain, delicate stippling mostly inside darker areas, refined contemporary editorial poster aesthetic.
+
+  FACE & EXPRESSION
+
+  Minimal black cut-paper facial features: simple crescent eyes and minimal mouth. The emotion should be communicated primarily through the character's full-body gesture and silhouette rather than detailed facial expression.
+
+  PALETTE
+
+  Warm off-white #F3F1EB, near-black 10100F, hot pink #F553D2, warm red #F42726, cobalt 293EA1, emerald 13785D. Keep colors flat and graphic with controlled soft gradients only where forms overlap.
+
+  Keep the character and oversized object as the main visual focus. Use generous negative space and a balanced editorial arrangement. The object should visibly affect the overall silhouette and feel integrated into the character's pose.
+
+  NEGATIVE PROMPT
+
+  No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark.

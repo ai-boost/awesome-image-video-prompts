@@ -1,0 +1,26 @@
+id: nano-banana-wet-pool-portrait-pearl-heart-necklace
+title:
+  en: Freckled woman in turquoise pool with pearl necklace
+  zh: 绿松石泳池中佩戴珍珠项链的雀斑女子
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- reference-face
+- wet-skin
+- skincare-commercial
+- shallow-depth-of-field
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2044359258008113552
+  credit: Sharon Riley
+  likes: 116
+  captured: '2026-10-29'
+  posted: '2026-04-15'
+notes:
+  en: Opens with a face lock line that keeps the reference identity, then stacks skin details such as freckles, droplets and damp glow with named jewelry and a hand pose. Closing camera cues of shallow depth of field, a 35mm lens and soft daylight give a skincare commercial look.
+  zh: 开头用锁脸指令保持参考图人物不变，再叠加雀斑、水珠和湿润肌肤等细节，并写明首饰与手部姿势。结尾的浅景深、35mm镜头和柔和日光营造出护肤广告质感。
+prompt: |
+  Use the same face from the reference image without changing facial features.
+  Cinematic fashion portrait of a young western woman with light freckles across her nose and cheeks, striking bright blue eyes, and fair skin. She is emerging gracefully from a turquoise swimming pool, water dripping from her wet, dark curly hair that clings to her shoulders. Her skin is glistening and damp under soft natural daylight. She wears a delicate light blue pearl necklace featuring a small glass heart pendant and matching diamond stud earrings. One hand is softly touching her cheek, displaying elegant white manicured nails. The image has a luxurious high-end skincare commercial aesthetic, shallow depth of field with a beautifully blurred water background, hyper-realistic details, 8k resolution, shot on a 35mm lens, cinematic lighting.

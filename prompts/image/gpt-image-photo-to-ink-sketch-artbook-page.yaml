@@ -1,0 +1,25 @@
+id: gpt-image-photo-to-ink-sketch-artbook-page
+title:
+  en: Candid photo above matching ink sketch artbook page
+  zh: 上方实景照片配下方同场景墨线速写画册页
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- photo-to-sketch
+- artbook
+- ink-illustration
+- editorial-layout
+- reference-image
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2093738868436840604
+  credit: Taaruk
+  likes: 874
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+notes:
+  en: The prompt splits the page vertically into a realistic photo and a hand drawn ink redraw of the same scene, while locking subjects, pose, clothing and composition to the reference. Specific paper, line and typography cues like cream negative space, rough cross hatching and a small numbered title give it a journal layout.
+  zh: 提示词把页面上下分成写实照片和同一场景的手绘墨线重绘，并锁定参考图的人物、姿势、服装与构图。奶油色留白、粗糙排线、小号编号标题等纸张、线条和排版细节让它有日记画册的版式感。
+prompt: |
+  Create a nostalgic editorial photo-to-sketch artbook page based on the reference image. Preserve the same subjects, pose, facial expressions, clothing, composition, and emotional atmosphere from the original photograph. Divide the page vertically into two connected sections: the upper section is a cinematic, ultra-realistic photograph with soft natural lighting, subtle film grain, shallow depth of field, authentic colors, and an intimate candid feeling; the lower section transforms the exact same scene and characters into a loose black-and-white hand-drawn ink illustration on warm off-white textured paper, with expressive imperfect lines, rough cross-hatching, minimal shading, and a handmade sketchbook aesthetic. Add tasteful editorial typography around the illustration, including a small numbered title, short poetic handwritten-style caption, and tiny documentary-style notes, creating the feeling of a premium contemporary photography journal or Japanese-inspired visual diary. Keep generous cream-colored negative space, subtle paper texture, slightly imperfect ink printing, understated vintage layout, sophisticated minimalist graphic design, emotionally warm and cinematic, cohesive transition between photograph and drawing, high detail, natural proportions, authentic human anatomy, no watermark, no logos.

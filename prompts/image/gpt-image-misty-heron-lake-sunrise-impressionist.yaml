@@ -1,0 +1,26 @@
+id: gpt-image-misty-heron-lake-sunrise-impressionist
+title:
+  en: Misty Heron Lake at Sunrise Impressionist Painting
+  zh: 日出薄雾湖面苍鹭印象派油画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- impressionist
+- landscape
+- oil-painting
+- heron
+- wall-art
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2055395986520871005
+  credit: Viki
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-15'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt gives exact counts and positions for the water lilies and the heron, which anchors the composition. A named oil painting style, a pastel palette and explicit negatives for text and photorealism keep the brushwork soft.
+  zh: 提示词给出睡莲数量和苍鹭位置的精确说明,稳住了构图。指定油画风格和粉彩色调,并用否定项排除文字与写实锐度,让笔触保持柔和。
+prompt: |
+  Create a serene painterly landscape of a misty lake at sunrise, in a romantic impressionist oil-painting style. The scene shows a calm reflective pond filled with lily pads and exactly 14 visible water lilies: 5 prominent blossoms in the lower-left foreground, 1 small blossom near the center-left water, 2 blossoms just left of the heron, and 6 blossoms scattered across the right-side lily pads. Place a single elegant great blue heron standing in shallow water slightly right of center, facing left, with long legs, an orange beak, blue-gray feathers, and a clear reflection in the water. In the right background, include a graceful willow-like tree with drooping branches covered in pale pink blossoms, leaning over the water; surround it with reeds and soft greenery. The horizon is hazy with distant trees, low morning fog, and a glowing sun near the center, casting peach, coral, lavender, and gold reflections across the lake. Use a wide cinematic canvas, soft brushstrokes, pastel colors, atmospheric depth, gentle ripples, and a peaceful spiritual mood. Emphasize luminous sunrise light, mirrored reflections, blooming water lilies, reeds, and tranquil stillness. No text, no people, no buildings, no harsh outlines, no photorealistic sharpness.

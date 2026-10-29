@@ -1,0 +1,34 @@
+id: gpt-image-anime-gender-swap-before-after-poster
+title:
+  en: Anime Gender Swap Before After Magazine Poster
+  zh: 动漫性别反转前后对比杂志封面海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- anime
+- magazine-cover
+- gender-swap
+- before-after
+- japanese-typography
+source:
+  name: '@ArtistaNozomu on X'
+  url: https://x.com/ArtistaNozomu/status/2085314580130197811
+  credit: のぞむ＊AIイラスト
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt separates the canvas into a small Before card and a dominant After portrait, giving exact counts for cards and stamps plus the Japanese text strings to keep typography legible. A restricted blue and white palette with watercolor lighting keeps the layout cohesive.
+  zh: 提示词把画面拆成小尺寸的前图卡片和占主体的后图人像,并明确卡片与印章的数量以及日文文案原文,保证排版文字清晰。蓝白限定配色加水彩光效让整体统一。
+prompt: |
+  Goal: Create a polished anime magazine-cover style “gender swap before/after” poster. The main subject is the transformed After character: an extremely handsome teenage boy who preserves the soft facial resemblance of the original character, with light ash-blonde tousled medium-short hair, sparkling blue eyes, pale luminous skin, a gentle open smile, and an elegant androgynous beauty. He wears a loose white shirt with rolled sleeves, a pale blue loosened necktie, blue suspenders, slim earrings, a delicate bracelet, and a blue belt with silver details. Pose him seated in a relaxed three-quarter view, leaning slightly forward with one hand near his cheek, looking directly at the viewer. Use airy spring lighting, soft bokeh flowers, floating white petals, translucent watercolor highlights, and crisp high-detail anime linework.
+
+  Canvas: Vertical 4:5 poster, light pastel blue and white palette, bright dreamy background, plenty of negative space on the left for typography, main After portrait large and dominant on the right and center.
+
+  Layout: Include exactly 1 small Before card in the upper-left corner and 1 large After portrait occupying most of the canvas. The Before card should have rounded corners, a thin blue border, and show a cute original girl with the same visual identity: ash-blonde wavy bob hair, blue eyes, white blouse, blue plaid skirt or blue ribbon accents, cheerful expression. Add a small top ribbon label on the card reading 元の姿 and a name under the mini portrait reading のぞむ. Add exactly 1 circular blue stamp near the lower-right of the poster reading 男女\n反転 with tiny sparkle marks.
+
+  Text content: Large elegant Japanese headline on the left, set in a mix of black and soft blue calligraphic serif type: この子、\n男の子に\nなったら。. Under it, smaller Japanese subcopy: "面影そのまま、性別だけ反転。" Near the bottom, add a small caption: "可愛さを残した、最高にかっこいい彼。" Use refined magazine typography, with the key words in blue and the rest in dark ink.
+
+  Visual style: High-end shoujo anime illustration, glossy magazine cover composition, ethereal watercolor lighting, detailed hair strands, delicate jewelry, soft skin shading, blue-white color harmony, romantic and clean design. Keep all Japanese text legible and integrated into the layout. Avoid photorealism, clutter, extra characters, watermarks, or random additional text.

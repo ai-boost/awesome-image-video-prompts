@@ -1,0 +1,59 @@
+id: gpt-image-gym-selfie-chibi-minis-doodles
+title:
+  en: Gym selfie surrounded by chibi mini selves
+  zh: 健身房自拍周围环绕Q版迷你分身
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- chibi
+- scrapbook
+- doodle
+- gym
+- selfie
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2050094437821513896
+  credit: Ciri
+  likes: 3471
+  captured: '2026-10-29'
+  posted: '2026-05-01'
+notes:
+  en: The prompt first locks the original photo as unchanged, then lists each mini self with its own gym action so every figure stays distinct. A scrapbook doodle style in white and pink ink with a quoted list of handwritten phrases ties the overlay together.
+  zh: 提示词先锁定原图不变，再逐条列出每个迷你分身的健身动作，让每个角色各不相同。白色与粉色手绘涂鸦的手账风格，加上逐条给出的手写短语，把叠加元素统一起来。
+prompt: |
+  GPT Image 2 on Chatgpt
+
+  Prompt: Edit the image while keeping the original photo completely unchanged — including the person, face, body, pose, lighting, and gym background.
+
+  Add multiple small, cute chibi-style “mini versions” of her around the image. Each mini character should have a big head, expressive facial features, and match her hairstyle and outfit.
+
+  Depict each mini version doing different gym-related activities:
+
+  one cheering with arms raised
+
+  one running in running shoes
+
+  one drinking from a shaker bottle
+
+  one wearing sporty running glasses
+
+  one climbing near her leg
+
+  Enhance the image with playful, hand-drawn doodles and handwritten notes in white and pink ink, in a scrapbook style. Include elements like arrows, stars, hearts, sparkles, and sketchy lines.
+
+  Add cute, handwritten gym-themed motivational phrases:
+
+  “lift strong”
+
+  “stronger every rep”
+
+  “no pain no gain”
+
+  “sweat now, shine later”
+
+  “progress over perfection”
+
+  “train hard, stay soft”
+
+  The overall vibe should feel fun, energetic, and feminine.

@@ -1,0 +1,26 @@
+id: gpt-image-chinese-cursive-calligraphy-yue-fei-scroll
+title:
+  en: Chinese Cursive Calligraphy of Yue Fei Poem
+  zh: 岳飞满江红草书书法立轴
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- calligraphy
+- chinese-ink
+- scroll
+- cursive-script
+- xuan-paper
+source:
+  name: '@mranti on X'
+  url: https://x.com/mranti/status/2046840306461724772
+  credit: Michael Anti
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'The full poem text is written into the prompt and the column layout is fixed: about 8 main columns read right to left, a 3 column inscription in the left margin, and exactly 3 red seals placed by position. Brush details such as flying white, dry brush breaks and mottled aged paper give the scan a museum look.'
+  zh: 提示词直接写入全诗原文，并固定版式：约8列正文从右向左，左侧留白处写3列落款，3枚红印按位置逐一指定。再用飞白、枯笔和做旧宣纸肌理等笔墨细节，撑起博物馆藏品的质感。
+prompt: |
+  A traditional Chinese ink calligraphy artwork on aged beige xuan paper, presented as a clean flat scan or photograph of a single hanging scroll page with no frame. The composition is entirely vertical Chinese cursive script, bold expressive grass-script brushwork in deep black ink with dynamic stroke variation, flying-white texture, dry-brush breaks, and elegant rhythm. Write the full poem 怒发冲冠，凭栏处、潇潇雨歇。抬望眼，仰天长啸，壮怀激烈。三十功名尘与土，八千里路云和月。莫等闲，白了少年头，空悲切。\n靖康耻，犹未雪；臣子恨，何时灭！驾长车，踏破贺兰山缺。壮志饥餐胡虏肉，笑谈渴饮匈奴血。待从头，收拾旧山河，朝天阙。 in large vertical columns arranged right to left, about 8 main poem columns across the page, each column flowing freely with slight variations in spacing and tilt. Leave a wide left margin containing a smaller vertical inscription with 3 narrow columns: the title and attribution reading 岳飞 满江红 甲辰書月 某元, written in a more restrained but still cursive hand. Add exactly 3 small red seal stamps: 2 stacked square seals in the lower-left margin beneath the inscription, and 1 small oval seal near the upper-right edge beside the first main column. The paper should have subtle warm tan mottling, soft fibers, faint age marks, and natural uneven tone. Overall mood is heroic, scholarly, and museum-quality, with authentic Song-inspired Chinese calligraphy aesthetics, minimal background, high detail, and faithful brush texture.

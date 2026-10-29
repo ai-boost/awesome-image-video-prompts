@@ -1,0 +1,25 @@
+id: gpt-image-giant-woman-floating-island-fantasy-world
+title:
+  en: Giant Woman Above Floating Island Fantasy World
+  zh: 巨大女子俯瞰漂浮岛奇幻微缩世界
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- giant-scale
+- miniature-world
+- fantasy
+- golden-hour
+- surreal
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2063197214420410568
+  credit: Noor
+  likes: 212
+  captured: '2026-10-29'
+  posted: '2026-06-06'
+notes:
+  en: The prompt sets one oversized subject against a miniature landscape, so the scale contrast carries the image. Warm golden-hour volumetric light and a short list of concrete scene elements (islands, villages, rivers, petals) keep the surreal composition coherent.
+  zh: 提示词让一个超大尺寸的主体面对微缩景观，靠尺度反差撑起画面。暖色黄金时刻体积光加上一串具体的场景元素（浮岛、村庄、河流、花瓣），让超现实构图保持连贯。
+prompt: |
+  A giant ethereal woman with glowing skin, glossy lips, dark eyes, and large gold hoop earrings rises above a magical miniature world. Flowing hair, calm expression, floating islands, tiny villages, winding rivers, blooming flowers, and golden-hour sunlight. Warm volumetric light, floating petals, dreamy atmosphere, whimsical surrealism, semi-realistic stylized illustration, ultra-detailed painterly rendering, cinematic composition, vibrant colors, fantasy masterpiece, highly polished, 8K.

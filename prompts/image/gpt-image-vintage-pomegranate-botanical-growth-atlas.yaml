@@ -1,0 +1,38 @@
+id: gpt-image-vintage-pomegranate-botanical-growth-atlas
+title:
+  en: Vintage Pomegranate Plant Botanical Growth Atlas Poster
+  zh: 复古石榴植物生长图鉴海报
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- botanical
+- infographic
+- vintage-atlas
+- bilingual
+- life-cycle
+source:
+  name: '@hx831126 on X'
+  url: https://x.com/hx831126/status/2046448092871041500
+  credit: 虎小象
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes exact counts for every numbered section and a 19 step growth strip, which keeps the dense atlas layout under control. Bilingual headings, leader lines and a 19th century plate style give it a scholarly museum feel.
+  zh: 提示词为每个编号分区和19步生长条都限定了精确数量,让密集的图鉴版面保持可控。双语标题、引线和19世纪图版风格带来博物馆式的学术质感。
+prompt: |
+  Create a highly detailed vintage scientific botanical infographic poster on warm ivory paper, styled like a 19th-century natural history atlas plate with modern clean layout refinement. The main subject is a full pomegranate plant, labeled 石榴 / Punica granatum, shown centered from crown to roots in a full vertical cutaway-style presentation. Depict a slender woody trunk with many branches, glossy green leaves, several orange-red blossoms, unopened buds, young fruits, mature fruits, one large split-open pomegranate exposing dense ruby seeds, and a fully visible sprawling root system underground. Use delicate watercolor and ink rendering, realistic botanical anatomy, precise linework, subtle sepia shadows, fine leader lines, arrows, and small numbered callout circles. Overall poster title at upper left: 植物生命路径剖面 with English subtitle directly below: BOTANICAL GROWTH ATLAS. Add a short introductory bilingual-style text block beneath the title. The composition is a tall 9:16 educational poster with the plant occupying the center and explanatory diagrams surrounding it.
+
+  Include exactly 8 numbered educational sections around the plant, each with visible Chinese title and smaller English translation, arranged atlas-style:
+  1. Seed Architecture — a large cutaway seed diagram with labeled internal parts and a smaller cellular cross-section inset.
+  2. Germination Mechanism — a left-side sequence of exactly 5 stages showing seed swelling, cracking, sprouting, radicle emergence, and early seedling.
+  3. Root System + Substrate Intelligence — a large exposed root mass at lower left with exactly 2 circular magnified root-detail insets showing branching structures and root-hair/network texture.
+  4. Stem, Leaf & Vascular System — a right-middle section with exactly 2 anatomical circular cross-sections and exactly 1 separate leaf illustration, with labels for xylem, phloem, epidermis, and related tissues.
+  5. Photosynthesis + Energy Conversion — a lower-right biology panel with exactly 3 green microstructure diagrams, including leaf tissue/cell-like sections, plus a simple chemical flow line indicating CO2 + H2O to sugars and O2.
+  6. Bud Formation + Blooming — an upper-right flowering section with exactly 2 large flower anatomy diagrams, one side view and one longitudinal cutaway, with labeled stamens, petals, ovary, and pollen structures.
+  7. Pollination + Fruiting Pathway — a right-side development strip with exactly 5 fruit development stages from bud to mature pomegranate, accompanied by a pollination inset featuring a bee approaching a flower.
+  8. Fruit Maturation + Seed Cycle — a bottom-right lifecycle section with exactly 3 fruit illustrations showing whole fruit, cracked fruit, and opened fruit with scattered seeds, plus exactly 3 seedling progression drawings.
+
+  Along the very bottom edge, include a long chronological growth strip with exactly 19 small step illustrations, each numbered in sequence from 1 to 19, showing the plant life cycle from dormant seed through germination, root growth, seedling emergence, sapling development, flowering, fruit set, ripening, seed release, and cycle renewal. Add a small environmental factors panel at lower left with icon-like indicators for light, temperature, water, nutrients, and air. Use bilingual labeling throughout, with Chinese headings more prominent and English translations in smaller serif text. Aesthetic should feel scholarly, elegant, museum-quality, and information-dense, with refined antique typography, muted beige background, realistic reds and greens, and a clean balanced atlas layout.

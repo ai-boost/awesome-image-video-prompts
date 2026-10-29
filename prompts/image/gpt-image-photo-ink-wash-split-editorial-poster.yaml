@@ -1,0 +1,129 @@
+id: gpt-image-photo-ink-wash-split-editorial-poster
+title:
+  en: Colosseum photo above with ink wash reconstruction below
+  zh: 上方古罗马斗兽场照片，下方水墨重构
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- ink-wash
+- split-layout
+- editorial-poster
+- negative-space
+- landmark
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2107353999796326889
+  credit: Ziha
+  likes: 177
+  captured: '2026-10-29'
+  posted: '2026-10-06'
+notes:
+  en: The prompt locks a strict 50/50 split, keeping the uploaded photo unchanged on top while the lower half is rebuilt as sparse ink wash. Naming specific brush techniques, a restrained palette pulled from the photo and generous negative space keeps the two halves in dialogue.
+  zh: 提示词严格锁定上下各占一半的版式，上半部分保留原图不改动，下半部分重构为留白充足的水墨。它点明具体笔法，只从原图提取少量克制的色彩，让上下两部分相互呼应。
+prompt: |
+  Create a premium 3:4 vertical editorial poster using the uploaded photo as the sole reference.
+
+  OVERALL FORMAT
+
+  The image must use a strict 3:4 vertical composition divided horizontally into two equal regions with an exact 1:1 height ratio. Each region occupies exactly 50% of the total image height.
+
+  UPPER REGION: ORIGINAL PHOTO
+
+  Use the original uploaded photo directly as the upper 50% of the composition.
+
+  Preserve the subject's exact identity, facial features, body structure, proportions, posture, perspective, clothing, materials, lighting, and original color atmosphere.
+
+  Do not regenerate, reshape, distort, stretch, beautify, or alter the subject.
+
+  Only apply subtle high-end color grading, image purification, refined tonal balance, and gentle detail enhancement, giving the image the refined texture of an art magazine or exhibition photograph.
+
+  The background may be moderately expanded to fit the 3:4 composition, but the subject must remain completely unchanged in structure, posture, proportions, and core composition.
+
+  LOWER REGION: MINIMALIST INK WASH RECONSTRUCTION
+
+  Reconstruct the same subject and scene as a minimalist contemporary ink wash artwork.
+
+  First identify and preserve the most recognizable elements of the original image, including silhouette, outline, structure, perspective, movement, visual rhythm, spatial relationship, and overall atmosphere.
+
+  Do not directly copy photographic details. Do not create a realistic reproduction. Instead, translate the original scene into an artistic ink wash interpretation that preserves its recognizable essence and visual relationship with the upper photograph.
+
+  Use a milky white, warm white, or natural paper-white base with delicate paper fibers and subtle organic texture.
+
+  Build the artwork using expressive ink wash techniques including dry and wet brushwork, flying white, ink seepage, ink accumulation, soft diffusion, broken edges, layered washes, and intentional white space.
+
+  Remove secondary details. Keep only the most distinctive contours, structural transitions, spatial layers, movement, and atmosphere.
+
+  The lower artwork should feel summarized, refined, poetic, and intentionally incomplete rather than realistically detailed.
+
+  INK AND COLOR
+
+  Use black, charcoal gray, soft gray, and diluted ink tones as the dominant palette.
+
+  Create clear tonal layering with varied ink density, pressure, rhythm, and transparency.
+
+  Extract only a few emotionally important colors from the original image and reinterpret them as small areas of artistic staining or pigment.
+
+  Colors may transform naturally into blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, or similar restrained tones.
+
+  Do not mechanically reproduce the original color values.
+
+  Ink and negative space must remain dominant.
+
+  Avoid muddy brown, dull vintage tones, heavy coloring, excessive decoration, or vulgar color combinations.
+
+  COMPOSITION AND NEGATIVE SPACE
+
+  The main reconstructed subject should occupy approximately 30% to 45% of the lower half.
+
+  Reserve the remaining area for generous negative space.
+
+  The artwork may be asymmetrically positioned, partially framed, suspended, slightly cropped, or offset.
+
+  Maintain strong asymmetrical balance and a sophisticated editorial composition.
+
+  The edges of the ink artwork should gradually loosen, fragment, fade, scatter, and disappear into the paper, creating a natural sense of breathing space.
+
+  Negative space must function as an intentional visual element, not as empty unused space.
+
+  Reduce information rather than filling the entire lower region.
+
+  The final lower section should resemble a refined ink seal, contemporary Eastern material study, or museum-quality oriental artwork displayed on a clean editorial page.
+
+  TEXT
+
+  Use very little text.
+
+  Do not add preset titles, numbers, labels, or template typography.
+
+  If appropriate, extract only a few meaningful words or a very short phrase related to the subject, location, time, action, emotion, or metaphor.
+
+  Place the text quietly within the negative space or near the edge of the artwork.
+
+  Typography must remain subtle, sparse, elegant, and secondary to the visual composition.
+
+  OVERALL AESTHETIC
+
+  Contemporary Eastern aesthetics.
+
+  Minimalist ink wash reconstruction.
+
+  Premium art magazine presentation.
+
+  Exhibition photography quality.
+
+  Large-scale intentional negative space.
+
+  Subtle editorial typography.
+
+  Small-scale seal-like visual focus.
+
+  Quiet, restrained, poetic atmosphere.
+
+  Elegant asymmetrical composition.
+
+  Refined paper texture.
+
+  Museum-quality visual finish.
+
+  Avoid complex backgrounds, excessive photographic details, realistic duplication, decorative clutter, excessive text, rigid template layouts, filled compositions, heavy colors, old-fashioned brown tones, and unnecessary visual elements.

@@ -1,0 +1,25 @@
+id: gpt-image-lavender-demoness-armor-portrait
+title:
+  en: Lavender demoness portrait in golden armor
+  zh: 身披金饰铠甲的薰衣草色魔女肖像
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- fantasy
+- 3d-render
+- portrait
+- horns
+- armor
+source:
+  name: '@tmesic2 on X'
+  url: https://x.com/tmesic2/status/2099519186418769952
+  credit: mes
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-14'
+notes:
+  en: 'The prompt opens with a hyper realistic 3D render label, then lists the character traits in order: skin, hair, eyes, ears, horns, armor. Naming materials such as gold filigree, a green gemstone and plum velvet, plus a close high angle viewpoint, keeps the render coherent.'
+  zh: 提示词先用超写实3D渲染定调,再依次列出肤色、发型、眼睛、耳朵、犄角和铠甲。金色镂空花纹、绿宝石、梅紫色天鹅绒等具体材质,加上近距离俯视视角,让画面保持统一。
+prompt: |
+  A hyper-realistic, high-fidelity 3D render of a female fantasy character with pale lavender-blue skin and shimmering, dewy highlights on her face. She has long, straight lilac hair with bangs framing her forehead, large amber-gold eyes, and pointed elven ears. Two curved, dark ram horns protrude from the top of her head. She is wearing ornate armor featuring gold filigree detailing over dark leather or metal plates, with a prominent green gemstone set in the center of her chest piece. The perspective is a close-up portrait looking slightly down at her as she lies back against soft, textured plum-colored velvet fabric.

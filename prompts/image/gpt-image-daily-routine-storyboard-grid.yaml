@@ -1,0 +1,108 @@
+id: gpt-image-daily-routine-storyboard-grid
+title:
+  en: Sixteen panel daily routine storyboard from reference
+  zh: 基于参考图的十六格日常生活分镜
+model: GPT Image 2
+mode: image-edit
+category: comic
+tags:
+- storyboard
+- grid
+- daily-routine
+- character-consistency
+- lifestyle
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2049168794195837167
+  credit: Johnn
+  likes: 186
+  captured: '2026-10-29'
+  posted: '2026-04-28'
+notes:
+  en: A strict 4 by 4 grid layout block with numbered panels and short titles sits alongside a reference image identity lock and a wardrobe continuity rule per scene group. An ordered list of locations and sixteen steps keeps the story sequence stable from morning to night.
+  zh: 先用严格的四乘四网格规则规定编号和标题，再用参考图锁定人物，并按场景分组写死服装连续性。有序的场景与十六步清单让从早到晚的叙事顺序保持稳定。
+prompt: |
+  “A Day in Motion” (16-Step Story Sequence)
+  [PROJECT TYPE]
+  Cinematic lifestyle sequence (continuous narrative, 16 connected moments)
+  [CHARACTER]
+  Single female character based on the reference image
+  Consistent facial features, hair, and proportions across all scenes
+  Natural expressions (sleepy → focused → relaxed)
+  Realistic human movement (no AI stiffness)
+  [WARDROBE — STRICT CONTINUITY]
+  Home scenes:
+  Modest loungewear (long top + loose pants OR long skirt)
+  Fully covered (no cleavage, no short clothing)
+  Office commute & work scenes:
+  Elegant, modest outfit
+  Long skirt (mid-calf to ankle length, no slit above knee)
+  Fully covered top (high neckline, sleeves)
+  Flat shoes or sneakers
+  Outfit remains consistent throughout commute + office
+  Important:
+  Clothing must never reveal above knees at any point
+  [LOCATIONS / ENVIRONMENT FLOW]
+  Bedroom (morning light)
+  Bathroom / mirror area
+  Kitchen
+  Building entrance / street
+  Train station
+  Inside train
+  Office exterior
+  Office interior
+  Return commute (train)
+  Evening street
+  Home interior (night)
+  All environments should feel realistic, slightly cinematic, European urban tone
+  🔢 [16-SEQUENCE STORY FLOW — STRICT ORDER]
+  Wake Up — lying in bed, soft morning light, opens eyes
+  Sit Up & Stretch — relaxed, waking energy
+  Mirror Prep — brushing hair / light grooming
+  Getting Dressed — adjusting modest outfit
+  Kitchen Moment — making coffee / quick breakfast
+  Leaving Home — walking out, locking door
+  Walking Street — calm European street, purposeful walk
+  Train Station Arrival — waiting on platform
+  Boarding Train — stepping in smoothly
+  Train Ride — standing or seated, looking outside window
+  Office Arrival — entering building
+  At Desk Working — focused, typing / laptop
+  End of Workday — packing bag, slight relief
+  Train Ride Back — evening light, calmer mood
+  Walking Home — relaxed pace, sunset/evening tone
+  Back Home / Wind Down — sitting or resting, closing moment
+  [CAMERA DIRECTION]
+  Cinematic, smooth transitions between scenes
+  Mix of medium and full-body shots
+  Gentle tracking and natural movement
+  No fast cuts — scenes should flow seamlessly
+  Maintain character clarity at all times
+  [MOVEMENT STYLE]
+  Natural daily motion (subtle, realistic)
+  No exaggerated gestures
+  Smooth pacing, grounded actions
+  Emotion evolves through the day
+  [LIGHTING PROGRESSION]
+  Morning: soft, warm natural light
+  Day: neutral bright tones
+  Evening: golden hour → soft dusk
+  Night: dim, cozy indoor lighting
+  [MUSIC DIRECTION]
+  Genre: Chill lo-fi / soft electronic / ambient pop
+  Tempo: 70–95 BPM
+  Mood progression:
+  Calm → focused → slightly energetic → relaxed
+  Subtle beat for transitions
+  [VISUAL STYLE]
+  Photorealistic
+  Soft cinematic grading
+  Slightly muted, elegant tones
+  Clean compositions, no clutter
+  [TIMING]
+  Each step: ~2–3 seconds
+  Total: ~40–60 seconds
+  [OUTPUT SETTINGS]
+  4K resolution
+  24–30 FPS
+  High realism, no distortion

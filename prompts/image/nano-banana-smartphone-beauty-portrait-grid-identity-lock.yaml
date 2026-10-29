@@ -1,0 +1,69 @@
+id: nano-banana-smartphone-beauty-portrait-grid-identity-lock
+title:
+  en: Four smartphone beauty portraits in a 2x2 grid
+  zh: 手机质感的四宫格美妆人像
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- beauty-portrait
+- identity-lock
+- 2x2-grid
+- smartphone-photo
+- golden-light
+source:
+  name: '@TheVirtualMuse on X'
+  url: https://x.com/TheVirtualMuse/status/2115657618710786506
+  credit: Areeba
+  likes: 24
+  captured: '2026-10-29'
+  posted: '2026-10-29'
+notes:
+  en: An identity lock block ties the face to an uploaded selfie while hair, makeup, wardrobe and light come from the text. Each panel gets its own framing, and a shared sunlight setup plus a long negative prompt keep the four shots consistent.
+  zh: 用身份锁定段落把面部绑定到上传的自拍，发型、妆容、服装和光线由文字决定。四格各自指定景别，并用统一的阳光设定和较长的负面提示保证一致。
+prompt: |
+  Create a single, ultra-realistic 2×2 photographic collage in a vertical 9:16 aspect ratio, featuring the same adult woman in four distinct beauty portraits. The final image should look like four genuine smartphone photographs taken during the same indoor photoshoot, with consistent identity, hair, makeup, wardrobe, and environment. Prioritize realistic facial anatomy, crisp eye detail, natural skin texture, and accurate sunlight.
+
+  IDENTITY LOCK
+
+  Use the uploaded selfie as the reference for her face only. The hair, makeup, wardrobe, pose, lighting, and setting come from this prompt. Preserve her recognizable facial features, facial proportions, eye shape, nose, lips, eyebrows, cheekbones, and jawline. Keep her light blue-gray eyes and skin tone consistent across all four panels. Do not create four different women, change her apparent age, or excessively beautify her.
+
+  PANEL LAYOUT
+
+  Four equal portrait panels in a clean 2×2 grid, with straight, consistent borders and no overlapping images or extra panels.
+
+  Top-left: A frontal medium close-up. She faces the camera directly with an intense, confident gaze and her chin slightly lowered. Her voluminous black hair frames both sides of her face and falls over her shoulders. The crop reaches about the upper chest.
+
+  Top-right: A close-up three-quarter view with her head turned slightly. A thick section of jet-black hair sweeps diagonally across her left eye (the viewer's left), covering it, while her right eye looks toward the camera. Her lips are relaxed and slightly parted. A small silver hoop earring is visible.
+
+  Bottom-left: A medium close-up facing forward, looking directly into the camera with a calm, sultry expression. A warm patch of direct sunlight crosses her right cheek and forehead, with realistic shadows over the rest of her face. Her long black hair forms layers around her face and chest.
+
+  Bottom-right: An extreme close-up from a three-quarter side angle. The crop emphasizes one light blue-gray eye, the cheekbone, the nose, and her glossy nude-pink lips, which are slightly parted. Her black hair frames the outer edge of the face and falls along the neck. A delicate silver chain with a small cross pendant is visible near the lower edge.
+
+  HAIR
+
+  Long, thick, voluminous layered black hair with soft curtain-like framing pieces, a lifted crown, and large flowing layers around the shoulders. The hair is deep jet black with cool, restrained charcoal reflections where daylight hits the strands. It looks natural and glossy, with individual strands, fine flyaways, and realistic shadow depth. Do not change the hair to brown, chestnut, copper, auburn, blonde, or gray.
+
+  MAKEUP & SKIN
+
+  Natural peach-nude eyeshadow, sharp but slim black eyeliner, defined dark eyebrows, realistic eyelashes, softly contoured cheeks, and glossy nude-pink lips with a subtle darker lip liner. Skin is fair-to-golden with natural warmth, realistic tonal variation, a dewy highlight on the cheekbones and nose bridge, and visible pores. Avoid excessive airbrushing or plastic-looking skin.
+
+  WARDROBE & ACCESSORIES
+
+  A minimalist black camisole with realistic fabric texture and natural folds. A small silver hoop earring and a fine silver chain necklace with a delicate cross pendant. Keep the same wardrobe and accessories in all four panels.
+
+  SETTING & LIGHTING
+
+  A clean indoor space with off-white walls, a window frame in the upper-left area, and subtle architectural edges. Strong natural golden daylight from a nearby window creates distinct geometric sunlight across her face and hair, with deep but detailed shadows. Keep sunlit areas bright without blowing out the skin, and keep catchlights in the eyes. No neon lighting, no colored backgrounds, no furniture, no text.
+
+  CAMERA & OPTICS
+
+  Realistic modern smartphone photography, 35mm-equivalent lens, natural close-up perspective with subtle optical distortion, mild background separation, sharp eyes, eyelashes, eyebrows, and lips, and balanced exposure. The image should look like an authentic, lightly edited smartphone photograph.
+
+  Visible natural skin pores, individual eyelashes, fine eyebrow hairs, realistic iris patterns, natural lip lines, detailed black hair strands, fine flyaways, realistic fabric fibers, and accurate silver reflections. Natural daylight color with neutral skin tones, deep black hair, and no heavy filters or excessive orange tones.
+
+  Clean photograph only. No text, watermarks, logos, or interface elements.
+
+  NEGATIVE PROMPT
+
+  different woman in each panel, inconsistent identity, altered facial proportions, different eye color, brown hair, chestnut hair, copper hair, auburn hair, blonde hair, gray hair, blue hair, flat hair, short hair, missing hair volume, different clothing, missing necklace, oversized earrings, flat lighting, excessive orange lighting, blown-out face, blurry eyes, blurry lips, plastic skin, excessive airbrushing, artificial glow, overprocessed makeup, distorted face, extra fingers, deformed hands, cartoon, anime, illustration, digital painting, 3D render, CGI, low resolution, pixelation, excessive sharpening, text, watermark, logo, uneven grid, unequal panels, extra panels, overlapping panels, 4:5 aspect ratio

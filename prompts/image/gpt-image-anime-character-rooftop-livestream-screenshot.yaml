@@ -1,0 +1,119 @@
+id: gpt-image-anime-character-rooftop-livestream-screenshot
+title:
+  en: Anime Elf Maid in Rooftop Livestream Screenshot
+  zh: 屋顶直播截图中的动漫精灵女仆
+model: GPT Image 2
+mode: image-edit
+category: illustration
+tags:
+- anime
+- livestream
+- smartphone-ui
+- mixed-reality
+- reference-image
+source:
+  name: '@Eris_Create_Lab on X'
+  url: https://x.com/Eris_Create_Lab/status/2057294055911116941
+  credit: Eris Create Lab
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A reference image locks the character design while a photoreal hand enters the foreground with shallow depth of field. Smartphone artifacts such as sensor noise, JPEG compression and handheld shake, plus bans on cinematic polish, make it read as an accidental live capture.
+  zh: 用参考图锁定角色设计,前景加入浅景深的真人手部。手机传感器噪点、JPEG压缩和手持抖动,再加上禁止电影感与过度打磨,让画面像偶然截下的直播画面。
+prompt: |
+  参照画像をキャラクターデザインのベースとして使用し、「アニメキャラクターが現実世界のライブ配信に現れてしまった瞬間」を描く。
+
+  キャラクターのアニメイラストとしての空気感を正確に維持する。
+
+  キャラクターのアイデンティティを絶対に崩さない。
+  実写人間化しない。
+  キャラクター部分はアニメイラスト表現を維持する。
+
+  縦型スマートフォン配信画面。
+  TikTok LIVE、
+  YouTube Live、
+  Instagram Live、
+  一般的な縦型ライブ配信風UI。
+
+  背景は固定しない。
+
+  現実的な都市空間、
+  または生活感のある現実空間をランダムに生成する。
+
+  例:
+  ビル屋上、
+  コンビニ前、
+  ゲームセンター、
+  駅前、
+  住宅街、
+  雑居ビルの階段、
+  深夜の路地、
+  河川敷、
+  カラオケ前、
+  深夜の自販機周辺、
+  配信部屋、
+  オタク部屋、
+  地方都市の駅前、
+  雨の歩道、
+  商店街など。
+
+  背景は綺麗すぎない。
+  生活感、
+  雑多感、
+  現実のノイズ感を重視する。
+
+  画面手前に実写級の人間の手や腕を自然にフレームインさせる。
+
+  人間側は、
+  少女へ触れようとしている、
+  指を差している、
+  距離を測っている、
+  驚いて反応している、
+  食べ物や飲み物を差し出している、
+  配信中に思わず干渉してしまったような動き。
+
+  手前の手は浅い被写界深度で少しだけボケる。
+
+  「誰かがライブ配信中に偶然撮影してしまった映像」のようなリアリティを重視する。
+
+  映画ポスター風にしない。
+  過剰なシネマティック演出禁止。
+  綺麗すぎる構図禁止。
+  過剰な発光エフェクト禁止。
+  AI特有の glossy rendering を避ける。
+  情報量を盛りすぎない。
+
+  ライブ配信UIには、
+  コメント欄、
+  同接数、
+  LIVE表示、
+  いいね、
+  ギフト通知などを含める。
+
+  コメント欄は、半信半疑でざわつくリアルな反応にする。
+
+  ライティングは自然に統一する。
+
+  自然光、
+  街灯、
+  コンビニ照明、
+  モニター光など、
+  背景とキャラクターの環境光を一致させる。
+
+  スマートフォン撮影風の質感を追加する。
+
+  軽いHDR処理、
+  微細なセンサーノイズ、
+  わずかなJPEG圧縮感、
+  自然な露出、
+  微弱な色収差、
+  軽いレンズブルーム、
+  オートフォーカス的な空気感、
+  わずかな手ブレ、
+  手持ち撮影らしい不安定感。
+
+  完璧な作品ではなく、
+  「SNSに投稿された謎の目撃配信スクショ」
+  のような偶然感を重視する。

@@ -1,0 +1,83 @@
+id: gpt-image-reference-style-educational-infographic-template
+title:
+  en: Reference Style Educational Infographic Handbook Page
+  zh: 参考手册风格的教育信息图页面
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- template
+- encyclopedia
+- field-guide
+- editorial
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2052357609068622199
+  credit: Johnn
+  likes: 249
+  captured: '2026-10-29'
+  posted: '2026-05-07'
+notes:
+  en: 'A TOPIC placeholder is filled in a fixed structure: one central hero render, magnified detail callouts, rounded modular cards and a list of adaptive sections. A light muted palette and an explicit list of looks to avoid keep the result a handbook page rather than a poster.'
+  zh: 用 TOPIC 占位符搭配固定结构：中央主体渲染、放大细节标注、圆角模块卡片和可随主题调整的章节清单。浅色柔和配色，并明确列出要避免的风格，让结果像手册页而不是海报。
+prompt: |
+  Based on {TOPIC}, create a premium vertical “reference-style educational infographic” that feels like a beautifully designed knowledge handbook rather than a traditional poster.
+
+  The design should combine the atmosphere of:
+
+  • a modern visual encyclopedia
+  • a collectible field-guide page
+  • an editorial knowledge system
+  • and a clean, highly shareable infographic layout
+
+  The final image must feel informative, structured, and visually curated — like a page taken from a high-end illustrated reference book.
+
+  Core Design Direction:
+
+  • One stunning, highly detailed central subject illustration or render
+  • Multiple magnified detail callouts showing important features or components
+  • Modular information cards with soft rounded edges
+  • Strong typography hierarchy with highlighted labels and section dividers
+  • Compact but meaningful educational content
+  • Intelligent infographic-style layout with balanced spacing and readable density
+  • Visual summary systems such as rankings, quick facts, comparison charts, “Top 5” insights, or key-stat modules
+
+  The content categories should dynamically adapt to the topic itself. Include the most relevant sections such as:
+
+  • Overview / identity profile
+  • Classification or category system
+  • Structural or physical characteristics
+  • Functions, behavior, or mechanisms
+  • Habitat, environment, or ideal conditions
+  • Usage methods, workflows, or optimization tips
+  • Maintenance, growth, or improvement guidance
+  • Advantages vs limitations
+  • Risks, cautions, or important notes
+  • Recommended users or real-world applications
+  • Quick ratings, tags, or summarized insight cards
+
+  Visual Style Requirements:
+
+  • Soft light-toned background
+  • Elegant muted color palette
+  • Refined editorial aesthetic
+  • Gentle realistic shadows
+  • Minimal premium iconography
+  • Clean modular spacing system
+  • Rounded information containers
+  • High information density while remaining visually breathable
+  • Consistent handbook/reference-book styling throughout
+
+  The composition should prioritize:
+
+  “knowledge organization + visual clarity + modular editorial storytelling”
+
+  Avoid making it look like:
+
+  • a movie poster
+  • a marketing advertisement
+  • a simple character illustration
+  • or a generic social-media graphic
+
+  Instead, the image should resemble a professionally published encyclopedia infographic page designed for learning, collecting, and building into a larger visual knowledge series.

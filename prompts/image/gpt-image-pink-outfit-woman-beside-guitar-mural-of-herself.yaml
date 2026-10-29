@@ -1,0 +1,43 @@
+id: gpt-image-pink-outfit-woman-beside-guitar-mural-of-herself
+title:
+  en: Woman in pink outfit beside mural of herself
+  zh: 粉色穿搭女子与墙上自己的吉他壁画
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- mural
+- selfie
+- photoreal
+- street-fashion
+- vertical
+source:
+  name: '@Kubra_286 on X'
+  url: https://x.com/Kubra_286/status/2102390516792832257
+  credit: Kubra Ai
+  likes: 54
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+notes:
+  en: The prompt describes the real woman and the mural in parallel, repeating face, outfit and ponytail so the painted double matches her. Separate lines for outfit, hair, makeup and accessories, plus a rainy alley setting and a negative prompt, keep the photoreal look.
+  zh: 提示词把真人与壁画并列描写,反复强调脸、服装和高马尾一致,让墙上的画像与本人对应。服装、发型、妆容、配饰分行列出,再加雨天小巷场景和负面提示词,保持写实质感。
+prompt: |
+  Create an ultra realistic cinematic visual of a woman standing in front of a brick wall that has a large mural painting of herself playing acoustic guitar with flying musical notes, treble clefs and music staff waves, while she is listening to music with black wired headphones, both hands holding the headphones on her ears.
+
+  Woman outfit: light pink blazer, black croptop blouse, light pink pleated mini skirt fold, white mary jane doll shoes with bow.
+
+  Face match 100%
+
+  Hair: high ponytail, long wavy hair, natural black.
+
+  Makeup: pink lips, thick eyelashes, peach blush, light natural glam.
+
+  Accessories: pink gemstone necklace, pink drop earrings.
+
+  The mural painting on the bricks is similar to her — same face, same outfit (pink blazer, pink pleated skirt, black top), same high ponytail, playing brown acoustic guitar, surrounded by black musical notes and G-clefs.
+
+  The woman is standing on a sidewalk, puddles on ground, old brick wall with some green vines, urban alley background.
+
+  True to life color grading, photorealistic, DSLR 8K, cinematic natural daylight, ultra detailed skin, same face recognizable, 9:16 vertical aspect ratio.
+  *Negative prompt / to avoid (if your app has it):*
+  blurry, cartoon, anime, painting style on real person, distorted face, extra fingers, low quality, over saturated

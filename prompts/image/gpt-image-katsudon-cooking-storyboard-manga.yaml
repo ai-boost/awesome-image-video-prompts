@@ -1,0 +1,48 @@
+id: gpt-image-katsudon-cooking-storyboard-manga
+title:
+  en: Katsudon Recipe Storyboard in Twelve Panels
+  zh: 十二格猪排饭烹饪流程分镜
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- storyboard
+- recipe
+- pencil-sketch
+- food
+- grid-layout
+source:
+  name: '@ozuozuai99 on X'
+  url: https://x.com/ozuozuai99/status/2061837334753276160
+  credit: オズ
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-02'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the canvas ratio, the exact panel count and a numbered list of what each panel shows, so the grid comes out in a readable recipe order. A pencil and wash style, close cropping and a ban on text keep every panel consistent.
+  zh: 提示词固定了画幅比例和格数,并逐格列出画面内容,所以网格能按清晰的食谱顺序排布。铅笔淡彩的风格、紧凑的近景构图和禁用文字的限制让十二格保持统一。
+prompt: |
+  Goal: Create a monochrome cooking storyboard illustration showing the preparation and serving of a Japanese-style katsudon rice bowl, drawn like a detailed manga storyboard or recipe process sheet.
+
+  Canvas: Wide horizontal aspect ratio, about 2.4:1, white background, arranged as exactly 12 rectangular panels in a clean grid: 6 panels across the top row and 6 panels across the bottom row. Thin black borders separate every panel. No captions, no speech bubbles, no logos, no watermark.
+
+  Visual style: Highly detailed pencil sketch and light watercolor-wash look, mostly grayscale with subtle warm beige tones in the egg sauce and fried cutlet. Fine crosshatching, visible paper texture, realistic hand-drawn food textures, steam, highlights on oil and sauce, cinematic close-up framing in every panel.
+
+  Subject: A step-by-step cooking sequence for katsudon, featuring sliced onion, breaded pork cutlet, simmering egg sauce, rice, and garnish. Use realistic adult hands when hands appear, cropped close to the food.
+
+  Panel layout and exact panel count: Show exactly 12 panels, ordered left to right, top row then bottom row:
+  1. Close-up of hands slicing a pale onion into thin crescent slices on a cutting board with a large kitchen knife.
+  2. Close-up of a breaded pork cutlet on a cutting board, held with tongs, covered in coarse crispy crumbs.
+  3. Close-up of the fried cutlet being cut into thick strips with a knife, fingers holding it steady.
+  4. Top-down close-up of clear liquid or broth being poured into a round metal pan, creating circular ripples.
+  5. Close-up of sliced onions simmering in bubbling broth in the pan, steam rising.
+  6. Close-up of the sliced cutlet being placed on top of the onions in the pan by hand.
+  7. Close-up of beaten egg mixture being poured over the cutlet and onions, creamy ribbons spreading through the pan.
+  8. Close-up of a metal lid covering the pan while steam surrounds the edges.
+  9. Close-up of a large bowl filled with fluffy white rice, rice grains clearly defined.
+  10. Close-up of the cooked cutlet, onion, and soft egg mixture being slid from the pan onto the rice bowl, strands of egg stretching.
+  11. Close-up of the finished bowl being sprinkled with thin dark seaweed strips and green garnish on top, steam rising.
+  12. Close-up serving shot of chopsticks lifting one saucy slice of cutlet with soft egg dripping, the rice bowl visible underneath.
+
+  Composition constraints: Keep each panel tightly framed and food-focused; maintain consistent lighting and hand-drawn pencil shading across all panels; make the sequence readable as a recipe storyboard; do not add text labels, numbers, extra panels, utensils not described, or colorful modern graphics.

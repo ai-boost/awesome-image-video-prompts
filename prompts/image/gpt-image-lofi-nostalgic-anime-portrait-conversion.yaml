@@ -1,0 +1,26 @@
+id: gpt-image-lofi-nostalgic-anime-portrait-conversion
+title:
+  en: Lo-Fi Nostalgic Conversion of Anime Portrait
+  zh: 动漫人像的怀旧Lo-Fi风格转换
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- lo-fi
+- style-transfer
+- film-grain
+- anime
+- nostalgic
+source:
+  name: '@notoro_ai on X'
+  url: https://x.com/notoro_ai/status/2053661484413313463
+  credit: のとろ
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-11'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Lists concrete film cues (dusty pastel palette, grain, soft focus, fade, vignette) and a soft natural light direction for skin and hair. Ends by locking the original composition and character so only the style changes.
+  zh: 列出具体的胶片要素（暗调粉彩、颗粒、柔焦、褪色、暗角），并指定柔和自然光落在皮肤与头发上。结尾锁定原构图与角色，只改变风格。
+prompt: |
+  このイラストを、本格的なLo-Fiアートスタイルで変換してください。暖かく少しくすんだパステル調の色味、フィルムグレイン、ソフトフォーカス、軽い色褪せとビネットを加えて、ノスタルジックでチルな雰囲気を強く表現してください。柔らかい自然光がキャラクターを優しく包み込み、肌や髪に温かみのある光と影を落とす。全体をゆったりと落ち着いた、どこか懐かしく心地よいLo-Fi特有のムードに仕上げてください。元の構図・キャラクターを完全に維持。

@@ -1,0 +1,29 @@
+id: gpt-image-mid-century-isometric-city-travel-poster-template
+title:
+  en: Orange Isometric Istanbul Poster with Hagia Sophia
+  zh: 橙色等距视角伊斯坦布尔圣索菲亚海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- isometric
+- mid-century
+- screen-print
+- limited-palette
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2053667981423784023
+  credit: simeon-sanai
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-11'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A strict three color palette (cream, black linework, one accent) with a flat accent sky and no gradients gives a screen print look. Swapping the city, landmark and color placeholders reuses the same layout, and fine hatching in an isometric bird's eye view keeps the linework technical.
+  zh: 严格限定三色（奶油色、黑色线稿、一种强调色），天空用纯平涂且不用渐变，形成丝网印刷质感。替换城市、地标和颜色占位符即可复用同一版式，等距鸟瞰加细密排线让线稿更有技术感。
+prompt: |
+  Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
+  Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-print texture.
+  Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients.
+  Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.

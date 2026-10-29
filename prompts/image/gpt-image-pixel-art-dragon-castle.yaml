@@ -1,0 +1,26 @@
+id: gpt-image-pixel-art-dragon-castle
+title:
+  en: Pixel Art Dragon Coiled Around Castle
+  zh: 盘绕城堡高塔的像素风巨龙
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- pixel-art
+- fantasy
+- dragon
+- castle
+- game-art
+source:
+  name: '@RealAstropulse on X'
+  url: https://x.com/RealAstropulse/status/2047323453166891227
+  credit: Astropulse
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes exact counts, such as 9 towers with red conical roofs, and places the dragon on a specific tower with wing position. It also names a 16-bit pixel style, a low camera angle and a centered square frame.
+  zh: 提示词给出确切数量,如 9 座红色锥顶塔楼,并指明巨龙盘绕的塔楼和翅膀位置。同时点明 16 位像素风格、低机位视角和居中方形构图。
+prompt: |
+  A detailed retro fantasy pixel art scene of a massive medieval stone castle perched on a steep rocky hill, viewed from a slight low angle, with a winding dirt path leading up to the gate. The castle has many cylindrical towers and connecting walls, exactly 9 visible towers with red-orange conical roofs, several small red flags fluttering from the tallest spires, and weathered gray stone masonry. A huge red dragon is coiled around the tallest central tower, with its long body wrapped around the stone, claws gripping the battlements, horned head leaning forward near the top, and one large batlike wing spread open on the right side. Surround the hill with dense dark-green pine trees and rocky outcrops, with distant blue mountains on the horizon. Place the castle against a bright daytime sky in saturated blue with large fluffy white cumulus clouds. Render in classic 16-bit inspired pixel art with crisp sprite-like shapes, visible pixel texture, rich contrast, adventurous fantasy game cover composition, centered subject, and a square frame.

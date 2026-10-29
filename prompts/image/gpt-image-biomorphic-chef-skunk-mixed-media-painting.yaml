@@ -1,0 +1,25 @@
+id: gpt-image-biomorphic-chef-skunk-mixed-media-painting
+title:
+  en: Biomorphic Mixed-Media Painting of Chef and Skunk
+  zh: 厨师与臭鼬的生物形态混合媒介绘画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- biomorphic
+- mixed-media
+- watercolor
+- template
+- surrealism
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2071228817297863162
+  credit: Anissa
+  likes: 115
+  captured: '2026-10-29'
+  posted: '2026-06-28'
+notes:
+  en: A fill-in template with HUMAN, ANIMAL, SCENERY and PALETTE slots keeps the structure reusable. Stacked material cues like alcohol-ink blooms, graphite contours and hand-cut shape-cells give the painted texture, while shared eye direction and curling limbs tie the two figures together.
+  zh: 用人物、动物、场景和配色四个占位符做成可复用模板。酒精墨晕染、石墨轮廓线和手剪拼贴般的形状单元叠加出绘画质感，共同的视线方向和卷曲的肢体把两个主体连在一起。
+prompt: |
+  Abstract biomorphic mixed-media painting of [HUMAN] with [ANIMAL], caught in a dynamic off-balance pose inside [SCENERY]. Build the figures from irregular floating shape-cells, softly warped anatomy, oversized curious eyes, rounded mask-like faces, playful distorted proportions, and interlocking organic fragments that feel hand-cut and reassembled. Use [PALETTE] with translucent alcohol-ink blooms, watery pigment stains, dry watercolor edges, milky gradients, saturated accent shapes, soft paper texture, visible brush pooling, loose graphite contour marks, and bold imperfect outline moments. Keep the composition whimsical and unstable, with the human and animal visually connected by curling limbs, echoing shapes, shared eye direction, and rhythmic abstract movement. Background scenery should remain suggestive rather than literal, made from drifting color fields, bent geometric pieces, floating domestic symbols, and airy negative space. Painterly abstract portrait energy, playful emotional tension, softly organic surrealism, aspect ratio 4:5.

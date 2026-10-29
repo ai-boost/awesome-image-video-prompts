@@ -1,0 +1,26 @@
+id: gpt-image-bw-panels-color-cutout-fashion-poster
+title:
+  en: Fashion Poster with Color Cutout over B&W Panels
+  zh: 黑白分格背景上的彩色人像时尚海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- collage
+- fashion
+- editorial
+- black-and-white
+- layering
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2061289299060924451
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 445
+  captured: '2026-10-29'
+  posted: '2026-06-01'
+notes:
+  en: Stacks four rounded black and white portrait panels as a background and overlays a full color cutout of the same subject, so contrast and depth layering carry the design. Explicit no text, no typography and soft shadow instructions keep the composition clean.
+  zh: 用四个圆角黑白人像分格做背景，再叠加同一人物的全彩抠图，靠黑白与彩色的对比和层次营造深度。明确写出无文字、无排版和柔和阴影，让画面保持干净。
+prompt: |
+  MODERN EDITORIAL COLLAGE POSTER DESIGN. THE BACKGROUND FEATURES FOUR STACKED ROUNDED PANELS FILLED WITH BLACK AND WHITE CINEMATIC PORTRAITS OF A STYLISH YOUNG WOMAN WEARING SUNGLASSES IN DIFFERENT FASHION POSES. OVERLAYED IN THE FOREGROUND IS A HIGH-QUALITY FULL-COLOR CUTOUT OF THE SAME WOMAN WEARING A WHITE OVERSIZED SHIRT WITH BLACK PANTS AND SUNGLASSES, STRIKING A CONFIDENT FASHION POSE.
+  CLEAN MINIMAL DESIGN, NO TEXT, NO TYPOGRAPHY, NO LETTERS, SOFT SHADOWS, DEPTH LAYERING, HIGH CONTRAST LIGHTING, PREMIUM MAGAZINE STYLE, ULTRA REALISTIC, 8K, PROFESSIONAL POSTER COMPOSITION.

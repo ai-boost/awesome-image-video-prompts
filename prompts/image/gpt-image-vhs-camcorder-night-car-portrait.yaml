@@ -1,0 +1,25 @@
+id: gpt-image-vhs-camcorder-night-car-portrait
+title:
+  en: Late nineties VHS camcorder portrait in night car
+  zh: 九十年代末夜间车内VHS摄像机人像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- vhs
+- retro
+- night
+- portrait
+- camcorder
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2064192184698716186
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 142
+  captured: '2026-10-29'
+  posted: '2026-06-09'
+notes:
+  en: Stacks specific analog artifacts such as chroma bleed, tracking noise, dropout streaks and a burned in REC HUD with timestamp, then fixes the color grade with named tones. A closing negative list rules out DSLR, HDR and modern clean looks.
+  zh: 叠加色度溢出、跟踪噪点、掉线条纹和带时间戳的REC画面信息等具体模拟瑕疵，再用明确色调锁定调色。结尾的负面清单排除单反、HDR和现代干净质感。
+prompt: |
+  Use the attached face as the only identity reference, preserving recognizable facial features and natural asymmetry. Create an authentic late-1990s VHS camcorder scene of a young woman riding in the backseat of a moving car at night, wearing a black off-shoulder top, long windblown dark hair, soft 90s makeup, and a romantic, lonely expression. Warm city lights, neon reflections, and blurred traffic streak past the windows while the dim car interior glows with sodium-vapor streetlight tones. Render as genuine pre-2000s VHS footage with magnetic tape softness, motion blur, scanlines, chroma bleed, focus drift, tape grain, tracking noise, RGB separation, dropout streaks, warped edges, flickering exposure, and a burned-in REC HUD with timestamp, battery icon, SP mode, and tape counter. Vertical 4:5 handheld framing with slight camera tilt, imperfect crop, and nostalgic analog nightlife color grading featuring dirty orange highlights, red neon spill, green-blue shadows, faded blacks, and low contrast. Romantic rediscovered VHS memory from a late-night drive in 1998. Negative: DSLR sharpness, HDR, smartphone look, cinematic grading, ultra-clean skin, influencer aesthetic, crisp digital detail, modern 4K rendering.

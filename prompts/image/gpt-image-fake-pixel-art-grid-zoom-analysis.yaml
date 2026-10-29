@@ -1,0 +1,26 @@
+id: gpt-image-fake-pixel-art-grid-zoom-analysis
+title:
+  en: Zoomed Fake Pixel Art With Blue Grid
+  zh: 带蓝色网格的放大伪像素画分析图
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- pixel-art
+- grid-overlay
+- close-up
+- analysis
+- screenshot
+source:
+  name: '@RealAstropulse on X'
+  url: https://x.com/RealAstropulse/status/2047289982394495477
+  credit: Astropulse
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'Names the exact palette and where each color sits, then describes the flaw to show: staircase edges whose colors blur inside the squares. A grid overlay, a crosshair cursor and a no text rule make it read as an editor screenshot.'
+  zh: 明确写出各色块的配色与位置,再点明要呈现的缺陷:边缘呈阶梯状,但色彩在方格内部柔和混合。网格叠层、十字光标和无文字要求让画面像图像编辑器截图。
+prompt: |
+  A tightly zoomed-in comparison image demonstrating fake pixel-art rendering, showing a low-resolution-looking scene enlarged on screen with a thin bright blue square grid overlay across the entire frame. The composition is an abstract close crop of a pixel-art-style environment: sandy tan and ochre blocky forms on the left and center, a dark navy and black stepped diagonal mass on the right, muted olive-green and slate-blue shapes along the upper background, and a few lighter golden highlights. Every edge looks staircase-like and blocky at first glance, but the colors softly blur and blend within the apparent squares instead of aligning perfectly to the grid, creating the impression of pixel art that breaks down under inspection. Include a small white crosshair cursor near the upper left quadrant to suggest image analysis in an editor. The overall look should feel like a screenshot from a graphics program or social media demonstration about how AI can imitate retro game art aesthetics without producing true grid-perfect pixel art, with no text labels visible.

@@ -1,0 +1,26 @@
+id: gpt-image-bangkok-sunny-street-selfie
+title:
+  en: Sunny Bangkok Street Selfie of Young Woman
+  zh: 曼谷阳光街头年轻女子自拍
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- selfie
+- street-photography
+- bangkok
+- harsh-sunlight
+- photorealistic
+source:
+  name: '@Stonic_AI on X'
+  url: https://x.com/Stonic_AI/status/2069649170429075962
+  credit: Stonic AI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-24'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt sets a phone selfie with a low angle, an extended arm and harsh direct sunlight. It then lists hair, makeup, accessories and outfit one by one, and places the Bangkok street details on one side of the frame so the result reads as a real photo.
+  zh: 提示词先设定手机自拍的低角度、伸臂和强烈直射阳光，再逐项列出发型、妆容、配饰和服装，并把曼谷街景元素安排在画面一侧，让结果更像真实照片。
+prompt: |
+  Hyper-realistic 8K close self-shot, young European woman, slightly low angle, arm extended holding phone, bright sunny daytime, direct harsh sunlight, sharp facial shadows, artistic high-contrast light and shadow, energetic intense atmosphere, slight gentle smile, fair pink-toned glowing smooth skin. Long waist-length curly hair, no bangs, naturally flowing curls at ends, gold hair clip. Thin winged eyeliner, full long lashes, soft peach blush, defined brows, glossy light pink ombre lips. Cream smartwatch, dainty gold necklace. Loose casual camisole top, high-waisted pleated midi skirt, lightweight knitted fringed shawl. Slightly tilted posture, squinting gently against sunlight, one hand raised to block glare. Outdoor Bangkok city background, right side filled with urban scenery, lush green trees, crosswalk, bus stop bench, ultra-detailed, photorealistic.9：16

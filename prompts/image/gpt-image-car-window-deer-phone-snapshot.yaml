@@ -1,0 +1,26 @@
+id: gpt-image-car-window-deer-phone-snapshot
+title:
+  en: Smartphone Snapshot of Girl and Curious Deer
+  zh: 女孩与好奇小鹿的手机随拍
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- smartphone-photo
+- candid
+- travel
+- animal
+- car-interior
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2067813435136680242
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-19'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes a clear scene with a subject inside the car and an animal at the window, then stacks phone camera cues such as handheld iPhone, mobile HDR and slightly imperfect framing. Negative phrases like no studio lighting and no cinematic color grading keep the result candid instead of polished.
+  zh: 提示词先交代车内人物与车窗外小鹿的清晰场景，再叠加手持iPhone、手机HDR、略不完美构图等手机摄影特征。no studio lighting、no cinematic color grading等否定短语让画面保持随拍感而不显精修。
+prompt: |
+  Young Japanese girl with long silky black hair and soft wispy bangs, sitting casually in the front passenger seat of a luxury car with beige leather interior, wearing an oversized gray off-shoulder sweatshirt. Natural soft smile, making a peace sign with one hand, long red manicure, relaxed and playful expression. A curious deer stands outside the open car window looking directly inside, with a green park and other deer visible in the background. Captured as a casual smartphone photo, natural daylight, handheld iPhone camera shot, everyday travel snapshot, realistic skin texture, authentic mobile HDR processing, slightly imperfect framing, natural colors, candid social media aesthetic, spontaneous moment, no professional posing, no studio lighting, no cinematic color grading, realistic reflections on car windows and interior, ordinary phone-camera perspective, photorealistic, high-quality mobile photography, lifestyle travel vibe.

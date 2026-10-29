@@ -1,0 +1,137 @@
+id: gpt-image-anime-character-reference-sheet-kana
+title:
+  en: Anime Character Reference Sheet With Turnaround
+  zh: 带三面图的动漫角色设定表
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- character-sheet
+- anime
+- turnaround
+- json-prompt
+- layout
+source:
+  name: '@REd8358 on X'
+  url: https://x.com/REd8358/status/2047465795005849818
+  credit: あーる@AI Artgrapher
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-24'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A JSON prompt lists each layout section with its position, item count and exact Japanese labels, so the sheet comes out as a tidy grid. Named argument placeholders for hair, jacket and dress colors make it easy to swap the character.
+  zh: JSON 提示词为每个版块写明位置、数量和日文标签，生成的设定表排版整齐。头发、外套和裙子颜色用命名参数占位，方便替换角色。
+prompt: |
+  {
+    "type": "anime character reference sheet",
+    "style": "clean Japanese character design board, elegant watercolor and ink illustration, soft neutral paper background, thin decorative borders, editorial layout, refined fantasy-fashion concept art",
+    "character": {
+      "name": "{argument name=\"character name\" default=\"カナ\"}",
+      "romanized_name": "Kana",
+      "gender_presentation": "young woman",
+      "age": "20",
+      "birthday": "3月14日",
+      "height": "160cm",
+      "weight": "48kg",
+      "blood_type": "O型",
+      "personality_summary": "gentle but strong-willed girl who always faces forward no matter the situation and acts for the people she cares about",
+      "likes": "wind, scenery, black tea, reading",
+      "dislikes": "conflict, noise, closed spaces"
+    },
+    "outfit": {
+      "silhouette": "modest long white dress with cropped jacket, scarf, waist belt, black tights, short lace-up boots",
+      "pieces": [
+        "white scarf with a red jewel brooch",
+        "short jacket in dark muted green",
+        "long-sleeved white dress with soft pleated skirt",
+        "black waist belt with silver buckle",
+        "black tights",
+        "black heeled lace-up short boots"
+      ]
+    },
+    "layout": {
+      "orientation": "landscape",
+      "sections": [
+        {
+          "title": "character profile",
+          "position": "top-left",
+          "count": 1,
+          "labels": ["カナ", "Kana"]
+        },
+        {
+          "title": "3面図",
+          "position": "top-center to top-right",
+          "count": 3,
+          "labels": ["FRONT", "SIDE", "BACK"]
+        },
+        {
+          "title": "基本情報 / 設定メモ",
+          "position": "upper-right",
+          "count": 1,
+          "labels": ["基本情報 / 設定メモ"]
+        },
+        {
+          "title": "衣装のポイント",
+          "position": "right side under notes",
+          "count": 5,
+          "labels": [
+            "白いスカーフ",
+            "ショート丈のジャケット",
+            "ウエストベルト",
+            "プリーツスカーフ風スカート",
+            "黒のタイツとショートブーツ"
+          ]
+        },
+        {
+          "title": "表情集",
+          "position": "bottom-left",
+          "count": 6,
+          "labels": ["通常", "微笑み", "真剣", "驚き", "悲しみ", "笑顔"]
+        },
+        {
+          "title": "ディテール",
+          "position": "bottom-center",
+          "count": 5,
+          "labels": ["スカーフとブローチ", "ジャケット", "ベルト", "スカートの裾", "ブーツ"]
+        },
+        {
+          "title": "カラーパレット",
+          "position": "bottom center-right",
+          "count": 7,
+          "labels": ["髪", "瞳", "肌", "ジャケット", "スカート・スカーフ", "ベルト・ブーツ", "アクセント（宝石）"]
+        },
+        {
+          "title": "小物・装飾",
+          "position": "bottom-right",
+          "count": 2,
+          "labels": ["scarf with brooch", "belt"]
+        }
+      ],
+      "centerpiece": "large three-quarter portrait of the character on the left, looking gentle and composed, scarf flowing in the wind",
+      "spacing": "balanced grid with thin divider lines and generous margins"
+    },
+    "visual_details": {
+      "hair": {
+        "color": "{argument name=\"hair color\" default=\"soft dark brown with ash highlights\"}",
+        "style": "short wavy bob with layered ends, side-swept bangs, slightly tousled"
+      },
+      "eyes": {
+        "color": "muted gray-violet",
+        "expression": "kind, calm, quietly determined"
+      },
+      "palette": {
+        "paper": "warm ivory",
+        "main_dark": "deep charcoal brown",
+        "accent_violet": "dusty lavender gray",
+        "skin": "soft pale peach",
+        "jacket": "{argument name=\"jacket color\" default=\"muted forest green\"}",
+        "dress": "{argument name=\"dress color\" default=\"cream white\"}",
+        "boots_and_belt": "near-black",
+        "gem_accent": "deep muted red"
+      },
+      "rendering": "delicate linework, subtle shading, lightly textured watercolor washes, polished concept-sheet presentation"
+    },
+    "text_language": "Japanese with small English labels for view directions",
+    "quality": "highly polished, cohesive, professional game/anime preproduction sheet"
+  }

@@ -1,0 +1,127 @@
+id: nano-banana-bw-photobooth-expression-grid
+title:
+  en: Black and white photobooth grid of sixteen expressions
+  zh: 十六种表情的黑白拍立得大头贴网格
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- photobooth
+- expression-grid
+- black-and-white
+- json-prompt
+- reference-image
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2031169815927468186
+  credit: simeon-sanai
+  likes: 361
+  captured: '2026-10-29'
+  posted: '2026-03-10'
+notes:
+  en: A JSON spec locks identity to a reference image, then lists one expression and hand gesture per panel, so every cell stays distinct. Fixed flash lighting, a 50mm head and shoulders frame, a flat gray backdrop and a hands focused avoid list keep the grid consistent.
+  zh: 用JSON规格把人物锁定在参考图上，再为每个格子单独指定表情和手势，十六格各不相同。固定的闪光灯布光、50mm半身构图、纯灰背景和针对手部的避免项让整张网格保持统一。
+prompt: |
+  {
+    "generation_request": {
+      "meta_data": {
+        "task_type": "black_and_white_photobooth_expression_grid_4x4",
+        "language": "en",
+        "priority": "highest",
+        "version": "v1.0_BW_PHOTOBOOTH_EXPRESSIONS_4X4"
+      },
+      "input": {
+        "mode": "image_to_image",
+        "reference_image_usage": "very_high",
+        "preserve_identity": true,
+        "preserve_facial_features": true,
+        "preserve_hairstyle": true,
+        "notes": "Use the reference as the primary anchor. Create a black-and-white photobooth-style expression grid. Keep the same adult woman identity and hair. Each panel should show a different facial expression. Minimal background, direct photobooth flash look, natural skin texture."
+      },
+      "output": {
+        "aspect_ratio": "1:1",
+        "resolution": "ultra_high",
+        "num_images": 1,
+        "layout": {
+          "type": "grid",
+          "rows": 4,
+          "cols": 4,
+          "gutter": "thin",
+          "panel_consistency": "high"
+        },
+        "sharpness": "crisp_photobooth",
+        "grain": "subtle_analog_bw"
+      },
+      "scene": {
+        "concept": "classic photobooth contact sheet with expressive faces",
+        "environment": "plain neutral backdrop, no props",
+        "lighting": {
+          "style": "direct photobooth flash",
+          "key_light": "front flash, slightly hard but flattering",
+          "shadows": "soft short shadows behind subject",
+          "avoid": "cinematic side light, dramatic backgrounds"
+        },
+        "camera": {
+          "lens": "50mm",
+          "distance": "tight head-and-shoulders framing",
+          "focus": "eyes sharp in every panel"
+        }
+      },
+      "subject": {
+        "type": "adult woman",
+        "wardrobe": "simple strapless or bare-shoulder photobooth look (no logos)",
+        "hair": "keep same hairstyle across all panels",
+        "makeup": "minimal, natural",
+        "anatomy_rules": "correct facial proportions, no warped eyes/mouth"
+      },
+      "expression_set": {
+        "panel_01": "scrunched smile, eyes squeezed slightly",
+        "panel_02": "intense stare with fingers framing eyes",
+        "panel_03": "big laugh, mouth open, joyful",
+        "panel_04": "bored / unimpressed face, chin in hands",
+        "panel_05": "sad pout, watery eyes look",
+        "panel_06": "goofy face with both hands making small horns above head",
+        "panel_07": "playful tongue out, cheeky grin",
+        "panel_08": "angry glare, eyebrows down",
+        "panel_09": "flirty look, hand touching cheek",
+        "panel_10": "surprised wide eyes, mouth slightly open",
+        "panel_11": "fake scream / excited shout, hands near face",
+        "panel_12": "mischievous grin with claw-like hand pose",
+        "panel_13": "confused frown, lips pressed",
+        "panel_14": "crying face, hands on head, dramatic",
+        "panel_15": "tongue out with eyes closed, playful",
+        "panel_16": "duck face with small devil horns gesture"
+      },
+      "style": {
+        "color": "pure black and white",
+        "contrast": "medium-high",
+        "background": "flat gray",
+        "finish": "slight photobooth grain, clean edges"
+      },
+      "quality_control": {
+        "identity_lock": "strict",
+        "hands_priority": "high",
+        "avoid": [
+          "extra fingers",
+          "missing fingers",
+          "deformed hands",
+          "warped face",
+          "uneven eyes",
+          "melted mouth",
+          "plastic skin",
+          "text",
+          "watermark",
+          "logo"
+        ]
+      },
+      "negative_prompt": [
+        "color",
+        "sepia",
+        "overly cinematic lighting",
+        "beauty retouch plastic skin",
+        "low resolution",
+        "blur",
+        "distorted anatomy"
+      ]
+    }
+  }

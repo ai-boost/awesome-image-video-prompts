@@ -1,0 +1,47 @@
+id: gpt-image-watercolor-straw-hat-denim-fashion-portrait
+title:
+  en: Watercolor Fashion Portrait with Palm Sunglasses
+  zh: 棕榈倒影墨镜的水彩时尚肖像
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- fashion-illustration
+- face-reference
+- sunglasses-reflection
+- straw-hat
+source:
+  name: '@Kubra_286 on X'
+  url: https://x.com/Kubra_286/status/2100423480348946448
+  credit: Kubra Ai
+  likes: 227
+  captured: '2026-10-29'
+  posted: '2026-09-17'
+notes:
+  en: A face reference is locked for identity while the style is explicitly moved to watercolor and pen and ink, with a negative prompt guarding against photo texture. A dedicated sunglasses reflection clause, plus separate lighting, background and composition blocks, keeps the small details crisp.
+  zh: 用人脸参考锁定身份,同时明确把风格转为水彩加钢笔墨线,并用负面提示排除照片质感。单独写墨镜倒影条款,再分开写光线、背景和构图,让小细节保持清晰。
+prompt: |
+  Face Reference: Use the uploaded face reference image as the primary facial identity reference. Preserve the woman’s recognizable facial structure, proportions, eyes, nose, lips, jawline, cheekbones, and overall likeness. Do not copy the photo’s lighting or photographic texture; reinterpret the same face naturally in a traditional watercolor and pen-and-ink fashion illustration style.
+
+  Create a stunning 4:5 chest-up fashion portrait of the reference woman, centrally framed. She wears a light blue denim jacket with realistic stitching, flap pockets, and metallic silver buttons over a crisp white button-down shirt. A brown leather crossbody strap runs diagonally across her torso.
+
+  She wears a wide-brimmed woven straw sun hat, polished silver hoop earrings, and reflective silver-framed round sunglasses. Her head is tilted slightly upward toward her right (viewer’s left), with shoulders subtly angled. Her expression is serene, confident, sophisticated, and effortlessly chic. Her lips are slightly parted with vibrant glossy red lipstick.
+
+  Her medium-length hair is gathered into a loose, messy low bun, with delicate wispy strands escaping around her face and neck and gently lifted by a soft breeze.
+
+  Render the skin using transparent watercolor layers, subtle blush tones, delicate ink contours, and soft shadow transitions. Use expressive hand-painted watercolor washes with wet-on-wet blending, pigment blooms, visible brushstrokes, organic edges, and subtle spontaneous paint splatters.
+
+  Sunglasses Reflection: Make the round lenses highly detailed and reflective, showing tall tropical palm trees silhouetted against a brilliant bright-blue sky. The reflections should look crisp and believable while remaining naturally integrated into the watercolor illustration.
+
+  Lighting: Bright natural summer sunlight entering from the upper left, creating defined shadows beneath the hat brim and warm, gentle gradients across the forehead, cheeks, neck, jawline, and clothing folds. Fresh, sun-drenched vacation atmosphere.
+
+  Background: Pure clean white background with delicate scattered watercolor droplets, pigment specks, and loose paint splashes in muted blue, beige, brown, and gray. Keep the background airy and minimalist without distracting from the subject.
+
+  Art Style: Traditional watercolor illustration, fine pen-and-ink drawing, luxury fashion sketch, editorial magazine artwork, expressive brushwork, loose watercolor washes, hand-painted texture, elegant feminine fashion, tropical travel lifestyle aesthetic, realistic facial likeness, sophisticated composition, high detail, organic watercolor imperfections.
+
+  Composition: Close-up portrait, eye-level camera perspective with a subtle upward emphasis, chest-up framing, centered subject, elegant proportions, refined editorial fashion illustration.
+
+  Aspect Ratio: 4:5
+
+  Negative Prompt: distorted face, altered facial identity, different person, excessive makeup, plastic skin, cartoon face, anime style, 3D render, photorealistic photography, blurry sunglasses, distorted reflections, extra fingers, deformed hands, duplicate accessories, messy anatomy, harsh background, oversaturated colors, heavy outlines, artificial digital texture.

@@ -1,0 +1,26 @@
+id: gpt-image-blue-perfume-corrugated-glass-ad
+title:
+  en: Sky blue perfume bottle behind corrugated glass
+  zh: 波纹玻璃后的天空蓝香水瓶广告
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- perfume
+- product-ad
+- minimalist
+- glass-distortion
+- blue-palette
+source:
+  name: '@ShamiWeb3 on X'
+  url: https://x.com/ShamiWeb3/status/2078074982337515555
+  credit: Shami
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-07-17'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A low upward angle makes the bottle loom, while a corrugated glass panel adds vertical distortion over a softly blurred floral box. A tight palette, silver rim light and hydrangea petals with water droplets carry the scent notes visually.
+  zh: 低角度仰拍让瓶身显得高大，竖纹波纹玻璃为虚化的花卉包装盒带来纵向扭曲。收紧的配色、银色轮廓光，以及绣球花瓣与水珠，用画面传达香调。
+prompt: |
+  Minimalist product advertisement featuring [{argument name="product" default="the Vanilla & Blues Eau de Parfum 100ml — a round frosted sky-blue glass bottle filled with pale blue liquid, topped with a twisted seashell-shaped cap in matching light blue and a slim silver collar band, "Vanilla & Blues Eau De Parfum" printed on the rounded face"}] shot from a low upward angle so the bottle looms large and slightly tilted, with its matching blue-and-white floral watercolor box positioned softly out of focus behind it, seen through a vertical corrugated glass panel, with [a pale icy-white studio backdrop with a faint cool blue gradient wash] visible behind the object. Use [a palette of powder blue, frosted ice-white, silver, and soft hydrangea lavender-blue], soft directional lighting with a gentle silver rim-light along the cap and glass edge, semi-obscured contours through the corrugated distortion, elongated vertical distortion lines, elegant editorial mood, asymmetrical off-center composition, subtle depth, smooth gradients, polished commercial styling, delicate blue hydrangea petals and fine water droplets suspended mid-air beside the bottle to evoke its [sweet vanilla, soft floral bouquet, and clean powdery musk] notes, and the title "[VANILLA & BLUES]" in refined serif typography arched gently above the bottle's shoulder, vertical 4:5.

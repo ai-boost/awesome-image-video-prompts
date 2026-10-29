@@ -1,0 +1,25 @@
+id: gpt-image-pixel-art-banana-sprite-grid
+title:
+  en: Pixel art banana sprite on grid
+  zh: 网格背景上的像素风香蕉精灵图
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- pixel-art
+- sprite
+- grid
+- limited-palette
+- food
+source:
+  name: '@Angaisb_ on X'
+  url: https://x.com/Angaisb_/status/2110484185202962608
+  credit: Angel 🌼
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+notes:
+  en: Names the grid background, outline colour and a limited palette with a role for each colour (stem, body, highlights). A diagonal curve direction fixes the composition.
+  zh: 明确指定网格背景、黑色轮廓和有限色板，并为每种颜色分配用途（茎、主体、高光），再用对角线弯曲方向固定构图。
+prompt: |
+  A pixel art sprite of a curved banana, rendered on a visible white grid background with black outlines. The image is constructed from square pixels using a limited color palette: dark brown for the stem and shadowed edges, bright yellow for the main body, and orange for highlights and shading. The banana curves diagonally from the top right corner down to the bottom left.

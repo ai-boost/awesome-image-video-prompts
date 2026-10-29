@@ -1,0 +1,26 @@
+id: gpt-image-alice-wonderland-fantasy-downtown-aerial
+title:
+  en: Whimsical fantasy city aerial view with card suit towers
+  zh: 扑克花色塔楼的奇幻城市鸟瞰图
+model: GPT Image 2
+mode: text-to-image
+category: architecture
+tags:
+- aerial-view
+- fantasy-city
+- whimsical
+- architecture
+- 16x9
+source:
+  name: '@insmind_com on X'
+  url: https://x.com/insmind_com/status/2062164999817326619
+  credit: insMind
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-03'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the 16:9 aspect ratio and a high altitude aerial viewpoint first, then lists distinctive architectural motifs such as card suit towers, checkerboard plazas and keyholes. Mood words like whimsical and cinematic keep the dense city coherent.
+  zh: 先限定16:9画幅和高空鸟瞰视角，再逐项列出扑克花色塔楼、棋盘广场、钥匙孔等标志性建筑元素。奇幻、电影感等氛围词让密集的城市保持统一风格。
+prompt: |
+  Create a high-detail 16:9 aerial terrain image of an Alice in Wonderland-inspired fantasy downtown. The city should feel whimsical, cinematic, and architectural: card-suit towers, checkerboard plazas, keyhole

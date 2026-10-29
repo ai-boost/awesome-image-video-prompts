@@ -1,0 +1,140 @@
+id: nano-banana-monochrome-tech-product-promo-poster
+title:
+  en: Monochrome headphone promo poster with giant background type
+  zh: 单色耳机宣传海报与背景巨型字
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- tech-poster
+- product-render
+- monochrome
+- typography
+- social-media
+source:
+  name: '@Sheldon056 on X'
+  url: https://x.com/Sheldon056/status/2074697587756806354
+  credit: Duet | AI
+  likes: 102
+  captured: '2026-10-29'
+  posted: '2026-07-08'
+notes:
+  en: Section headers (style, subject, layout, typography, lighting, palette) split the brief into clear parts, and bracketed placeholders for brand, product and color make it reusable. Oversized cropped background text behind a floating 3D hero product gives the poster depth.
+  zh: 用风格、主体、版式、字体、光影、配色等分区标题拆解需求，并用方括号占位符表示品牌、产品和颜色，方便复用。产品后方放置被裁切的超大背景文字，再让立体主体悬浮其上，形成层次感。
+prompt: |
+  Nano Banana 2 on Gemini
+
+  Prompt: Create a premium modern tech product promotional social media poster for [BRAND NAME].
+
+  TOPIC:
+  [PRODUCT NAME]
+
+  STYLE & ART DIRECTION:
+
+  Modern futuristic tech advertising design
+
+  Minimal premium commercial poster aesthetic
+
+  Monochromatic color branding
+
+  Clean geometric composition
+
+  High-end electronic product advertisement
+
+  Soft abstract background elements
+
+  Instagram and Behance-quality tech campaign style
+
+  MAIN SUBJECT:
+
+  A large realistic 3D render of [PRODUCT]
+
+  Product centered prominently as the hero element
+
+  High-detail premium material textures
+
+  Soft reflective surfaces
+
+  Product slightly floating above the background
+
+  Realistic studio product rendering
+
+  Strong focus on curves, materials, and lighting
+
+  LAYOUT & COMPOSITION:
+
+  Centralized symmetrical composition
+
+  Giant background typography behind the product
+
+  Large cropped bold text integrated into the background
+
+  Minimal clean layout with spacious negative space
+
+  Simple CTA button at the bottom center
+
+  Small social/contact information aligned at the bottom
+
+  Abstract geometric overlays in the corners
+
+  TEXT & TYPOGRAPHY:
+
+  Bold futuristic typography
+
+  Large oversized background text
+
+  Minimal modern sans-serif fonts
+
+  Clean premium branding style
+
+  Short high-impact promotional wording
+
+  DEPTH & LIGHTING:
+
+  Soft cinematic studio lighting
+
+  Ambient shadows beneath the product
+
+  Smooth reflective highlights
+
+  Subtle glow around edges
+
+  Premium product render depth
+
+  Clean soft shadow gradients
+
+  EXTRA DESIGN DETAILS:
+
+  Transparent geometric overlays
+
+  Rounded modern shapes
+
+  Minimal UI-inspired elements
+
+  Soft gradients
+
+  Futuristic visual identity
+
+  Elegant commercial balance
+
+  COLOR PALETTE:
+
+  [PRIMARY COLOR]
+
+  Tonal monochromatic shades
+
+  Soft highlights and shadows
+
+  White typography accents
+
+  QUALITY:
+
+  Ultra realistic
+
+  High-end product advertisement
+
+  Behance-quality composition
+
+  Premium studio render quality
+
+  Ultra high resolution

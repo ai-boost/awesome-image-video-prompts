@@ -1,0 +1,38 @@
+id: gpt-image-winged-donkey-knight-pixel-sprite-sheet
+title:
+  en: Winged Donkey Knight Eight Direction Sprite Sheet
+  zh: 长翼驴骑士八方向像素精灵图
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- pixel-art
+- sprite-sheet
+- game-asset
+- fantasy
+- multi-view
+source:
+  name: '@asynkimo on X'
+  url: https://x.com/asynkimo/status/2058161647789723891
+  credit: Kimo
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the canvas, a 3-2-3 grid layout and a numbered list of eight named viewing angles, so the model keeps one character consistent across rotations. A locked palette, pixel style and an explicit constraints block (no labels, extra frames or scenery) keep the sheet clean.
+  zh: 先限定画布和三二三的网格布局,再逐一列出八个编号视角,让模型在不同朝向下保持同一角色。锁定配色与像素风格,并用约束段禁止标签、多余帧和场景,画面更干净。
+prompt: |
+  Goal: Create a clean pixel-art sprite sheet for a fantasy game asset: a medieval knight riding a winged donkey.
+
+  Canvas: Square 768×768 image on a plain white background, no borders, no UI, no text. Use a crisp retro RPG pixel-art style with visible chunky pixels, dark outlines, limited palette, and subtle dithering/shading.
+
+  Layout: Show exactly 8 separate sprites of the same mount-and-rider character, evenly spaced with large white gaps, arranged as 3 sprites on the top row, 2 sprites on the middle row, and 3 sprites on the bottom row. Each sprite should be roughly the same scale and read like an animation/rotation sheet.
+
+  Sprite count and views: 1) top-left: rear three-quarter view facing upper-left, 2) top-center: straight rear view, 3) top-right: rear three-quarter view facing upper-right, 4) middle-left: side view traveling left, 5) middle-right: side view traveling right, 6) bottom-left: front three-quarter view facing lower-left, 7) bottom-center: straight front view, 8) bottom-right: front three-quarter view facing lower-right.
+
+  Subject details: The mount is a small gray-brown donkey with long upright ears, pale muzzle, black hooves, simple bridle and saddle, and a pair of white feathered wings extended from its sides like a small pegasus. The rider is a compact armored knight wearing a rounded steel helmet with vertical visor slits, a bright red plume, a red cape or cloth drape, brown leather tack, and a blue shield with a gold cross emblem strapped at the side. Use steel gray, red, blue and gold, and gray-brown. Maintain the same proportions and costume details across all 8 sprites.
+
+  Visual style: Classic 16-bit fantasy RPG sprite sheet, isometric/top-down compatible proportions, high readability at small size, black and dark-brown pixel outlines, soft shadowless presentation, minimal anti-aliasing, no blur, no gradients beyond pixel shading.
+
+  Constraints: Keep exactly 8 sprites, do not add extra frames, labels, weapons, scenery, background texture, watermark, or character variations. All sprites must depict the same mounted knight and winged donkey from different directions.

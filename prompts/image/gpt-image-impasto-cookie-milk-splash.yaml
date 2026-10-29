@@ -1,0 +1,26 @@
+id: gpt-image-impasto-cookie-milk-splash
+title:
+  en: Impasto oil painting of cookie splashing into milk
+  zh: 油画厚涂风格的饼干砸入牛奶飞溅
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- food
+- impasto
+- oil-painting
+- splash
+- dessert
+source:
+  name: '@giffmana on X'
+  url: https://x.com/giffmana/status/2073444893951697196
+  credit: Lucas Beyer (bl16)
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-07-04'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the exact count and position of flying chocolate chunks to control the composition. A palette knife impasto style and a limited warm palette with muted purple keep the splash dramatic and cohesive.
+  zh: 明确指定飞溅巧克力块的数量和位置来控制构图。刮刀厚涂风格加上受限的暖色调与柔和紫色,让飞溅画面既有张力又统一。
+prompt: |
+  Create a dynamic close-up food illustration of a giant chocolate chip cookie crashing into a clear glass of whole milk, frozen at the instant of impact. The cookie is large, golden brown, round, rough and crumbly, packed with many glossy dark chocolate chips, with visible baked texture and small cracks. Milk erupts upward in dramatic thick splashes and droplets around the cookie, with white arcs, beads, and ribbons of liquid partially obscuring the glass rim. Include exactly 5 prominent flying chocolate chunks or chips outside the cookie: one near the upper left, one near the upper center, one near the upper right, one at the right edge, and one near the lower left foreground; also include numerous tiny cookie crumbs and milk droplets scattered through the air. The glass is transparent with a slightly elliptical rim, thick reflective sides, and creamy milk visible inside. Use an expressive impasto oil-painting style with heavy palette-knife texture, visible brush strokes, warm caramel, cream, chocolate brown, amber, and muted purple tones. The background should be abstract and energetic, swirling like a dessert explosion, with warm studio lighting, high contrast highlights on the milk and chocolate, shallow depth of field, no text, no watermark, no hands, no broken glass.

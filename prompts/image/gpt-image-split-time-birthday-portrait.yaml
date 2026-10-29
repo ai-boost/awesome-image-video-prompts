@@ -1,0 +1,26 @@
+id: gpt-image-split-time-birthday-portrait
+title:
+  en: Split Time Birthday Portrait of Child and Adult
+  zh: 儿时与成年同框的生日分屏肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- split-screen
+- birthday
+- before-after
+- nostalgia
+- portrait
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2050834691570184611
+  credit: K
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-03'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt locks both halves to an identical camera angle and pose, then places a lit cake on the center line so the candle glow ties the two eras together. Black and white grain against color shallow depth of field separates the past from the present, and the two year labels are given in quoted text.
+  zh: 提示词要求左右两半机位和姿势完全一致，并把点燃的蛋糕放在中线，用烛光把两个时空连在一起。黑白颗粒与彩色浅景深形成过去与现在的对比，两侧年份文字用引号直接指定。
+prompt: |
+  A highly realistic split-time portrait of the same person meeting her younger self. The image is divided vertically into two perfectly aligned halves with identical camera angle and composition. On the left side: a black-and-white photo of a young girl (3–4 years old), same facial features as the adult, natural smile, sitting at a table, soft diffused lighting, minimal gray background, nostalgic mood, slightly grainy film texture. On the right side: a realistic color photo of the same person as an adult [AGE], identical pose and camera angle, resting her face on her hands, smiling warmly, modern outfit, soft cinematic lighting, shallow depth of field. In the center between them: a birthday cake placed exactly at the middle line, with lit candles forming the number "[AGE]", warm candle glow illuminating both sides. Both versions are looking at each other with emotional connection, perfectly aligned eye level. Text "(2000)" above the child side and "(2026)" above the adult side, minimal elegant font. Ultra realistic, 8K, high detail skin texture, soft shadows, cinematic color grading, clean composition, emotional storytelling.

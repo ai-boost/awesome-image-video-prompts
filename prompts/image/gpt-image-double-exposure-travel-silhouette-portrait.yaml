@@ -1,0 +1,33 @@
+id: gpt-image-double-exposure-travel-silhouette-portrait
+title:
+  en: Double exposure travel portrait with European old town
+  zh: 欧洲老城双重曝光旅行人像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- double-exposure
+- travel
+- watercolor
+- selfie
+- silhouette
+source:
+  name: '@Arina_hoqe on X'
+  url: https://x.com/Arina_hoqe/status/2104060103704150362
+  credit: Arina Ai
+  likes: 65
+  captured: '2026-10-29'
+  posted: '2026-09-27'
+notes:
+  en: A large side profile silhouette holds the destination scene, while the same woman walks in the foreground, so the reference photo drives both layers. Burgundy, navy and ivory watercolor splashes on a clean white ground tie the layers together, and a closing negative list guards identity and skin realism.
+  zh: 大幅侧脸剪影内嵌目的地风景，前景再放同一位女性行走，参考图同时驱动两个图层。酒红、藏青与象牙白水彩泼溅配干净白底把画面统一起来，结尾的否定清单用来守住人物身份和皮肤质感。
+prompt: |
+  Create a premium photorealistic artistic travel portrait using the same woman from the reference photo. Preserve her facial identity, natural features, hairstyle, and realistic appearance accurately.
+
+  Create a creative double-exposure composition: a large elegant side-profile silhouette of the woman forms the background, beautifully blended with a breathtaking travel destination inside her silhouette. In the foreground, show the same woman walking naturally through the scene with a stylish travel outfit, backpack, sunglasses, and sneakers.
+
+  Inside the silhouette, include a magnificent European old-town street with grand historic architecture, warm sunset light, distant mountains, birds, and subtle atmospheric details. Add artistic watercolor splashes flowing outward from the bottom in soft burgundy, navy, and ivory tones.
+
+  Clean white background, seamless photo blending, cinematic sunset glow, realistic shadows, sophisticated travel-editorial aesthetic, highly detailed, premium magazine composition, photorealistic, 8K, elegant and visually captivating.
+
+  No cartoon, no anime, no illustration, no distorted face, no duplicate person, no extra limbs, no artificial-looking skin, no identity change.

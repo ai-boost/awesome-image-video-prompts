@@ -1,0 +1,34 @@
+id: gpt-image-saint-baroque-black-gold-potato-chips-bag
+title:
+  en: Black and Gold Baroque Saint Potato Chips Bag
+  zh: 黑金巴洛克圣人薯片包装袋
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- packaging
+- mockup
+- baroque
+- black-and-gold
+- japanese-text
+source:
+  name: '@ashiwata100 on X'
+  url: https://x.com/ashiwata100/status/2054486550550061072
+  credit: アシタ🩵
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-13'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt maps every element to a named zone on the bag (ribbon, portrait, badge, banner) and gives the exact Japanese copy for each. Exact counts for chips, bowls and peppers, plus a constraints line, keep the layout stable.
+  zh: 提示词把每个元素对应到包装袋上的具体区域(丝带、肖像、徽章、横幅),并给出每处的日文原文。芯片、碗、辣椒的精确数量加上约束行,让版面保持稳定。
+prompt: |
+  Goal: Create a premium Japanese potato chips package mockup inspired by a dark Catholic/European saint painting, using a black glossy snack bag with ornate gold typography and luxury limited-edition branding.
+
+  Canvas: Front-facing vertical product package, centered on a clean white background, realistic crinkled plastic potato chip bag with serrated sealed edges at top and bottom. Use a tall 3:4 composition, slightly rounded pillow-pack shape, glossy black material with strong highlights and folds.
+
+  Layout: At the very top center place a refined gold brand mark with a small crown and decorative flourishes reading San Ignacio, with small katakana beneath it. Under that, add a short Japanese tagline in small white-gold text. Across the upper middle, place a very large embossed metallic-gold Japanese product title reading ポテトチップス. In the upper-left corner, add one vertical gold ribbon label reading 期間限定. The central-left area contains a framed religious oil-painting style portrait of Saint Ignatius in a black robe, halo, smoky clouds, and glowing sacred heart; place a neutral blurred rectangular mask over the face. The right middle contains a circular gold ornamental flavor badge with Japanese text reading 聖イグナチオの スパイシー 黒胡椒味. The lower-left has one circular laurel badge reading "国産じゃがいも 100% 使用". The lower center foreground contains exactly 3 large golden ridged potato chips overlapping each other. The lower-right foreground contains exactly 1 small bowl filled with black peppercorns, plus exactly 2 red chili peppers and sprigs of green herbs. Along the bottom-left background, add a dark silhouette of a European church or cathedral at sunset. At the very bottom center, add one gold ribbon banner reading イエズス会の精神を、味わいに込めて。, and add tiny disclaimer-style Japanese text at bottom right.
+
+  Visual style: Ultra-realistic commercial packaging design, luxury black-and-gold palette, embossed foil lettering, Baroque religious ornament, fine gold filigree borders, dramatic chiaroscuro lighting, realistic chip texture with black pepper speckles, premium limited-edition snack branding. Keep all text integrated onto the bag surface with perspective and plastic wrinkles.
+
+  Constraints: Show exactly 1 product bag, 1 left ribbon label, 1 central saint portrait, 1 right circular flavor badge, 1 lower-left 100% badge, 3 visible potato chips, 1 peppercorn bowl, 2 red chili peppers, and 1 bottom banner. Do not add hands, people outside the illustration, extra packages, watermarks, or English replacement text for the Japanese package copy.

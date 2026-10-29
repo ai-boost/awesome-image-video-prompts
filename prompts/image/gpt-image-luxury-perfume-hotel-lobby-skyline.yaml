@@ -1,0 +1,26 @@
+id: gpt-image-luxury-perfume-hotel-lobby-skyline
+title:
+  en: Luxury perfume bottle on marble with skyline
+  zh: 大理石桌上的奢华香水与城市天际线
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- perfume
+- commercial-photography
+- golden-hour
+- marble
+- vertical-9x16
+source:
+  name: '@Urwa_345 on X'
+  url: https://x.com/Urwa_345/status/2092256327917797570
+  credit: 𝐔𝐑𝐖𝐀 𓂃♡
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Sets one centered hero object, a named surface and a golden hour window backdrop, then adds lens, lighting and material cues such as an 85mm lens, glass refraction and condensation. A closing list of negative constraints keeps the bottle clean and free of text.
+  zh: 先锁定居中的主体、桌面材质和黄金时刻的窗外背景，再补充85mm镜头、布光、玻璃折射和凝结水珠等质感线索。结尾的否定约束列表让瓶身保持干净且不出现文字。
+prompt: |
+  Ultra-realistic professional commercial product photography of a premium glass perfume bottle placed on a polished black marble table inside a luxurious modern hotel lobby. The perfume bottle has a sophisticated transparent glass design, elegant metallic cap, realistic liquid visible inside, subtle condensation droplets, and clean premium packaging. In the background, a large floor-to-ceiling window overlooks a beautiful modern city skyline during golden hour, with warm sunlight naturally entering the room. The bottle is positioned perfectly in the center of the composition with realistic studio-quality reflections on the glass and marble surface. A few delicate white flowers and minimal luxury accessories are arranged naturally around the product without distracting from it. Soft warm sunlight creates realistic highlights along the edges of the bottle while subtle professional fill lighting keeps the product perfectly exposed. Natural shadows, realistic glass refraction, accurate reflections, physically accurate materials, authentic photography imperfections, shallow depth of field, realistic background bokeh, premium beauty campaign aesthetic, high-end commercial photography, shot on a professional full-frame camera with an 85mm lens, natural cinematic color grading, extremely detailed, photorealistic, 8K resolution, sharp product focus, realistic proportions, vertical 9:16 composition, no fantasy elements, no surreal effects, no floating objects, no distorted packaging, no extra text, no watermark.

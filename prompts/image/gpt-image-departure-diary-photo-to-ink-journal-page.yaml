@@ -1,0 +1,26 @@
+id: gpt-image-departure-diary-photo-to-ink-journal-page
+title:
+  en: Travel journal page pairing photo with ink sketch
+  zh: 照片与墨水速写对照的旅行日记页
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- travel-journal
+- ink-sketch
+- split-layout
+- reference-photo
+- typography
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2094267684968140993
+  credit: Mahnoor Fatima
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A reference photo is split into a realistic cinematic upper half and a loose ink drawing of the same scene below, so identity, pose and composition carry over. Detailed typography cues such as a numbered entry, handwritten caption, timestamp and gate notation, plus cream negative space, give the page its journal layout.
+  zh: 把参考照片拆成上半部写实电影感照片和下半部同一场景的松散墨水手绘,保证人物、姿势与构图一致。再用编号条目、手写题注、时间戳和登机口标注等排版提示,加上奶油色留白,形成日记版式。
+prompt: |
+  a nostalgic contemporary travel-journal artbook page based on the reference image. Preserve the exact same person, facial identity, facial features, hairstyle, pose, expression, clothing, luggage, proportions, camera angle, composition, and emotional atmosphere from the reference image. Divide the page vertically into two seamlessly connected sections. The upper section is an ultra-realistic cinematic airport photograph: the same person standing quietly in a modern airport terminal with a carry-on suitcase beside them, soft natural window light, subtle reflections on polished floors, realistic skin texture, authentic colors, shallow depth of field, delicate film grain, natural candid body language, and a quiet pre-departure atmosphere. The lower section transforms the exact same scene, person, luggage, and composition into a loose black-and-white hand-drawn ink illustration on warm off-white textured paper. Preserve the same pose and perspective while using expressive imperfect lines, rough cross-hatching, minimal shading, subtle architectural details, small directional arrows, luggage outlines, terminal signage shapes, and handmade sketchbook imperfections. Add tasteful editorial typography around the illustration: a small numbered diary entry, handwritten-style caption, tiny documentary notes, subtle timestamp, gate-style notation, and minimal travel-journal annotations. Keep generous cream-colored negative space, slightly imperfect ink printing, understated vintage layout, sophisticated minimalist Japanese-inspired graphic design, emotionally warm and cinematic, premium contemporary photography journal aesthetic, cohesive transition between photograph and drawing, highly detailed, natural human anatomy, authentic proportions, no watermark, no logos.

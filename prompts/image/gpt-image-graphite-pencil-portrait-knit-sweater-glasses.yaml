@@ -1,0 +1,78 @@
+id: gpt-image-graphite-pencil-portrait-knit-sweater-glasses
+title:
+  en: Graphite pencil portrait of woman in knit sweater
+  zh: 戴眼镜女子的针织毛衣石墨铅笔肖像
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- pencil-portrait
+- graphite
+- sketch
+- reference-photo
+- knitwear
+source:
+  name: '@Arina_hoqe on X'
+  url: https://x.com/Arina_hoqe/status/2104762483156340741
+  credit: Arina Ai
+  likes: 84
+  captured: '2026-10-29'
+  posted: '2026-09-29'
+notes:
+  en: Labeled sections for hair, face, glasses, pose, clothing and necklace keep each detail separate while the reference image locks the likeness. A closing negative list rules out color, cartoon features and hand errors, and the medium is pinned to graphite on white paper.
+  zh: 按头发、面部、眼镜、姿势、服装和项链分段描述，细节互不干扰，并用参考图锁定五官与姿势。结尾用负面清单排除色彩、卡通化和手部错误，同时把媒介限定为白纸上的石墨铅笔。
+prompt: |
+  Create a highly detailed graphite pencil portrait drawing based on the uploaded reference image.
+
+  SUBJECT:
+  A beautiful young adult woman wearing thin rectangular eyeglasses, with soft delicate facial features and a calm, elegant expression. Preserve the exact facial proportions, eye shape, nose structure, lips, jawline, hairstyle, and overall pose from the reference.
+
+  HAIR:
+  Long dark hair gathered into a low loose bun at the back, with fine individual graphite strands. Soft curtain bangs sweep naturally across the forehead and frame both sides of the face. Highly detailed hair texture with realistic pencil strokes.
+
+  FACE:
+  Soft oval face, delicate jawline, natural eyebrows, large expressive eyes looking slightly toward the viewer, small refined nose, naturally shaped lips, subtle peaceful expression. Maintain realistic facial anatomy and proportions.
+
+  GLASSES:
+  Thin metal rectangular eyeglass frames with realistic transparent lenses. Carefully render the frame, bridge, temples, and subtle reflections without obscuring the eyes.
+
+  POSE & HAND:
+  Three-quarter portrait composition. Her head is slightly tilted and turned toward the viewer. One elegant hand rests gently near her opposite shoulder/collarbone, with long natural fingers and anatomically correct joints. Preserve the graceful hand gesture from the reference.
+
+  CLOTHING:
+  Oversized ribbed off-shoulder knit sweater. Highly detailed vertical and diagonal knit texture, soft folds, realistic fabric tension around the shoulders and arms.
+
+  NECKLACE:
+  A very thin delicate necklace with a small geometric pendant resting naturally at the base of the neck.
+
+  ART STYLE:
+  Ultra-realistic graphite pencil drawing on clean white paper.
+  Fine mechanical-pencil and traditional graphite textures.
+  Extremely delicate linework.
+  Precise cross-hatching and subtle tonal shading.
+  Soft gradients on the skin.
+  Detailed eyelashes, eyebrows, lips, hair strands, glasses, fingers, sweater fibers, and facial contours.
+  Natural white-paper highlights.
+  Elegant Japanese manga-inspired realism, but anatomically realistic rather than cartoonish.
+
+  LIGHTING & SHADING:
+  Soft diffused studio lighting translated entirely into graphite values.
+  Very subtle shadows beneath the bangs, glasses, nose, chin, neck, fingers, and sweater folds.
+  Balanced midtones with clean white highlights.
+  No harsh black areas.
+
+  COMPOSITION:
+  Vertical portrait, approximately 2:3 ratio.
+  Upper-body framing.
+  Subject centered with comfortable white space around her.
+  Clean white background with no distracting elements.
+
+  QUALITY:
+  Museum-quality pencil illustration.
+  Extremely sharp fine graphite details.
+  Realistic anatomy.
+  Professional fashion-portrait sketch.
+  High-resolution, polished, refined, sophisticated.
+
+  NEGATIVE PROMPT:
+  No color, no watercolor, no ink, no oil painting, no digital painting, no cartoon, no exaggerated anime features, no distorted anatomy, no extra fingers, no malformed hands, no asymmetrical eyes, no warped glasses, no heavy outlines, no messy shading, no background objects, no text, no watermark.

@@ -1,0 +1,26 @@
+id: gpt-image-pastel-teen-character-turnaround-sheet
+title:
+  en: Pastel lavender teen character design sheet
+  zh: 淡紫色少女角色设计图集
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- character-sheet
+- turnaround
+- expressions
+- accessories
+- pastel
+source:
+  name: '@johnAGI168 on X'
+  url: https://x.com/johnAGI168/status/2046841289291821458
+  credit: John
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'A structured JSON spec fixes the layout: four turnaround panels on the left, five labeled expression crops top right, and five accessory cutouts bottom right. Exact labels, counts and a repeated consistency instruction keep the outfit and hair identical across every panel.'
+  zh: 用结构化 JSON 固定版面：左侧四个转面视图，右上五个带标签的表情特写，右下五个配件抠图。明确的标签与数量，加上重复强调的一致性要求，让服装和发型在所有分格中保持相同。
+prompt: |
+  {"type":"advanced character card","style":"clean fashion character design sheet, photorealistic studio catalog aesthetic, soft even lighting, minimal shadows, muted gray background, thin white panel dividers, polished single-canvas layout","subject":{"gender_presentation":"teen girl","age_appearance":"young teenager","identity":"face intentionally obscured and de-emphasized","hair":{"color":"dark brown","style":"center-parted long hair in two braids"},"outfit":{"count":5,"pieces":["oversized pastel lavender hoodie with drawstrings and kangaroo pocket","short white pleated skirt visible below hoodie hem","white crew socks","chunky white sneakers","no visible jewelry"]},"overall_look":"cute casual pastel streetwear, soft youthful styling"},"layout":{"sections":[{"title":"turnaround views","position":"left half","count":4,"labels":["FRONT VIEW","BACK VIEW","SIDE PROFILE","ACTION POSE"],"details":"full-body character shown in four separate vertical panels; front standing straight with arms relaxed, back standing straight, side profile standing neutrally, and playful action pose with one leg bent backward and body turned slightly toward camera"},{"title":"FACIAL EXPRESSIONS","position":"top right","count":5,"labels":["NEUTRAL","ANGRY","HAPPY","SAD","FOCUSED"],"details":"five tightly cropped head-and-shoulders portraits in a horizontal row, each with the same hairstyle and hoodie, subtle expression changes, face area softly blurred"},{"title":"ACCESSORIES","position":"bottom right","count":5,"labels":["lavender backpack","white smartphone","lavender scrunchie","white over-ear headphones","lavender compact camera"],"details":"accessories evenly spaced on gray background like product cutouts"}],"centerpiece":"the 4-view full-body outfit turnaround dominates the composition"},"color_palette":{"count":4,"colors":["pastel lavender","white","soft gray","dark brown"]},"prompt":"Create a single-canvas advanced character card for {argument name=\"character name\" default=\"a teen girl\"} in a photorealistic studio fashion-sheet style. Show a consistent young girl with {argument name=\"hair color\" default=\"dark brown\"} hair in two braids, wearing an oversized {argument name=\"hoodie color\" default=\"pastel lavender\"} hoodie, a short white pleated skirt, white crew socks, and chunky white sneakers. Use a clean gray background with thin white dividers and neatly organized panels. On the left half, include 4 full-body turnaround panels labeled FRONT VIEW, BACK VIEW, SIDE PROFILE, and ACTION POSE. On the top right, include 5 headshot expression panels labeled NEUTRAL, ANGRY, HAPPY, SAD, and FOCUSED. On the bottom right, include 5 accessory items arranged horizontally: a lavender backpack, a white smartphone, a lavender scrunchie, white over-ear headphones, and a lavender compact camera. Keep lighting soft and even, composition symmetrical and professional, emphasizing 100% character consistency across all views. Preserve the minimal pastel aesthetic and use {argument name=\"background color\" default=\"soft gray\"} as the backdrop."}

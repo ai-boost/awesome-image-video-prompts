@@ -1,0 +1,26 @@
+id: gpt-image-parisian-morning-cafe-trench-coat-woman
+title:
+  en: Woman with Coffee and Croissant on Parisian Street
+  zh: 巴黎街头手持咖啡与可颂的女子
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- paris
+- lifestyle
+- cafe
+- street
+- golden-hour
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2089930417420087621
+  credit: Noor
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-19'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt walks through a sequence of scenes, from the doorway to the cafe to the final street shot, and fixes the outfit, bag and hair details so the character stays consistent. Closing style cues for soft natural light, warm tones and shallow depth of field give the golden cobblestone look.
+  zh: 提示词按场景顺序展开,从门口、咖啡馆到街头收尾镜头,并固定服装、包袋和发型细节以保持人物一致。结尾的柔和自然光、暖色调和浅景深关键词营造出金色鹅卵石街道的质感。
+prompt: |
+  A cinematic, realistic short video of a stylish young woman with long wavy brown hair and bangs, wearing a beige trench coat over a white top and light pants, carrying a brown leather shoulder bag. She steps out of an elegant blue door of a classic European building onto a sunlit cobblestone street lined with plants and flower boxes. She walks confidently down the charming Parisian-style alley. She approaches and enters a cozy cafe with wooden doors and glass windows labeled something like “CHANEL ALEX” or similar. Inside the warm, inviting cafe with exposed beams, pendant lights, and a marble counter, she orders an “Ice vanilla latte, please” from a bearded barista in an apron. A close-up of a golden, flaky croissant on a white plate with a fork. She sits by the window, happily sips the layered latte from a clear glass mug, closes her eyes in enjoyment, and says “That’s the good stuff.” She then takes a big bite of the croissant and says “Perfect start to the day.” Final shot of her walking down a bustling cobblestone street in golden morning light, holding the coffee and half-eaten croissant, smiling and looking at the camera. Soft natural lighting, warm tones, shallow depth of field, high detail, lifestyle aesthetic

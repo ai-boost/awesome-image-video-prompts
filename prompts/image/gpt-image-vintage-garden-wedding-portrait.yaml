@@ -1,0 +1,26 @@
+id: gpt-image-vintage-garden-wedding-portrait
+title:
+  en: Vintage Garden Studio Wedding Portrait
+  zh: 复古花园影棚婚纱肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- wedding
+- portrait
+- vintage
+- old-hollywood
+- couple
+source:
+  name: '@zhongying14 on X'
+  url: https://x.com/zhongying14/status/2061872385075122389
+  credit: 麻酱AI实验室
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-02'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt describes each person's pose, outfit and accessories in turn, then sets a painterly sepia garden backdrop with soft directional light, shallow depth of field and film grain. A fixed 3:4 crop and explicit no text, no watermark limits keep the composition clean.
+  zh: 提示词依次交代两人的站位、服装和配饰，再设定棕褐色油画花园背景，配以柔和定向光、浅景深和胶片颗粒。固定 3:4 构图并明确禁止文字和水印，画面因此干净。
+prompt: |
+  Create a vertical 3:4 cinematic fine-art wedding portrait of an elegant couple in a vintage studio garden setting. The groom is an East Asian young adult man with short black textured hair, wearing a classic black tuxedo jacket, white dress shirt, cream waistcoat, and black bow tie; he stands on the left, angled slightly toward the bride, his left arm wrapped around her waist and his right hand relaxed by his side. The bride is an East Asian young adult woman standing on the right with her back mostly to the camera, turned slightly toward the groom in an intimate pose; she wears an ivory satin bridal gown with a deep V-shaped open back, full structured skirt, a vertical row of covered buttons down the back, long black opera gloves, a layered pearl necklace, pearl drop earrings, and a cream pillbox-style bridal hat with a dotted birdcage veil over dark updo hair. Their faces should be close together as if about to kiss, with the mood romantic, composed, and editorial. Use a dark painterly forest-and-garden backdrop with tall shadowy trees, warm sepia-brown haze, a stone planter with pale flowers on the left, and subtle vintage garden architecture in the distance. Lighting should be soft, warm, and directional, with gentle highlights on satin fabric and pearls, muted shadows, shallow depth of field, film-grain texture, and a luxurious old-Hollywood bridal magazine aesthetic. No text, no watermark, no extra people, keep the composition waist-up to full-skirt crop with the bride’s gown occupying the lower right foreground.

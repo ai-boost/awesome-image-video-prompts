@@ -1,0 +1,25 @@
+id: gpt-image-espresso-machine-service-manual-diagram
+title:
+  en: Sectional diagram of a domestic espresso machine
+  zh: 家用意式咖啡机剖面结构图
+model: GPT Image 2.5
+mode: text-to-image
+category: infographic
+tags:
+- technical-diagram
+- cutaway
+- vintage-manual
+- numbered-callouts
+- spot-colour
+source:
+  name: '@ImagineArt_X on X'
+  url: https://x.com/ImagineArt_X/status/2097520469150986457
+  credit: ImagineArt_X
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: The prompt fixes a genre and era (1960s service manual, fine black line work, flat spot colour on cream paper), then lists exact annotation counts and wording. Fourteen numbered leaders, a matching key, a centimetre scale bar and a literal title block text make the model produce a coherent, readable technical plate.
+  zh: 提示词先锁定体裁与年代(1960年代维修手册、细黑线加平涂专色、米色纸张),再精确规定标注数量与文字。十四个编号引线、对应的零件表、厘米比例尺和逐字给出的标题栏,让模型生成连贯且可读的技术图版。
+prompt: |
+  a domestic espresso machine drawn in section, 1960s service manual style, fine black line work with flat spot colour on cream paper. Fourteen numbered leader lines, a key down the right listing all fourteen parts, a scale bar in centimetres, and a title block reading FIG. 3 SECTIONAL VIEW MODEL C2.

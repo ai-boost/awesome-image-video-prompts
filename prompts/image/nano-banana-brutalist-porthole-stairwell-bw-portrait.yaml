@@ -1,0 +1,31 @@
+id: nano-banana-brutalist-porthole-stairwell-bw-portrait
+title:
+  en: Black and white portrait in circular concrete stairwell
+  zh: 圆形洞口中的混凝土楼梯黑白人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- black-and-white
+- brutalist
+- architectural-portrait
+- high-contrast
+- porthole-frame
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2107688620081738000
+  credit: K
+  likes: 67
+  captured: '2026-10-29'
+  posted: '2026-10-07'
+notes:
+  en: A circular cutout on a flat charcoal field with a thin white border frames the scene. Hard sunbeam highlights, crushed blacks, and an 85mm f/1.4 shallow depth of field keep the face as the sharpest point.
+  zh: 平涂炭黑背景上的圆形镜口加细白边框，构图一目了然。强烈的直射光、压暗的黑部，以及 85mm f/1.4 浅景深，让人脸成为画面最锐利的焦点。
+prompt: |
+  Black and white fine-art architectural portrait photography, vertical 4:5 portrait format. A perfectly circular porthole-shaped cutout reveals a brutalist concrete stairwell, while everything outside the circle is flat, solid near-black charcoal (#161616), with a thin crisp white rectangular border line inset a few millimeters from the frame edge. The circle sits slightly above center, with the thick, weathered concrete ring edge visible on the left side.
+
+  Inside the circle: wide concrete steps rising diagonally from left to right, a slim dark metal handrail running parallel along the diagonal, a large curved concrete wall on the right catching a hard shaft of direct sunlight that creates a bright white diagonal shape, a dark curved ceiling overhang at the top right, and rough concrete texture on the left wall. Extremely high contrast, deep crushed blacks, bright highlights, strong geometric lines and curves.
+
+  A lone man is walking up the stairs in the lower right of the circle, caught mid-step, one hand lightly sliding along the metal handrail. His body is angled up the staircase, but his head is turned and he looks directly into the camera lens, making strong eye contact with the viewer. He is clearly visible, not a silhouette: bareheaded with short dark hair, no hat, no cap, wearing a dark long coat, face lit by the sunbeam on one side, with a calm, serious expression. His face is the sharpest point in the image, with crisp eyes, skin texture, and defined jawline, in razor-sharp focus.
+
+  Shot on an 85mm f/1.4 portrait lens, shallow depth of field, the stairs, handrail, and concrete walls behind and in front of him fall into a soft, creamy blur, with gentle compression of the stairwell geometry. Moody, minimalist, cinematic, fine film grain, no color, no text.

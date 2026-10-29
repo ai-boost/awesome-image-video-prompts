@@ -1,0 +1,43 @@
+id: gpt-image-city-landmark-split-photo-graphic-travel-poster
+title:
+  en: Shanghai skyline split photo and flat graphic poster
+  zh: 上海天际线实景照片与扁平图形双拼海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- landmark
+- split-layout
+- swiss-design
+- city
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2090495333877141904
+  credit: Saul Goodman
+  likes: 226
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+notes:
+  en: A fixed 50/50 split pairs a realistic hero landmark photo with a flat geometric redraw of the same landmark. A palette of 4 to 6 colors drawn from the photo, Swiss exhibition poster references and a long avoid list keep it cohesive, and swapping the [CITY] placeholder reuses it for any city.
+  zh: 固定上下各占一半，上半是写实地标摄影，下半是同一地标的扁平几何重绘。从照片提取四到六色的配色、瑞士展览海报参照和较长的禁用清单让画面保持统一，替换[CITY]占位符即可套用到任何城市。
+prompt: |
+  Create a refined 3:4 vertical premium travel poster for [CITY].
+
+  First identify the city, country, architecture, landscape, climate, cultural character, and visual identity. Select ONE iconic and highly recognizable real-world landmark or subject as the HERO. Establish one believable photographic viewpoint and ensure every environmental element logically belongs to that location. Do not create a collage of unrelated landmarks.
+
+  COMPOSITION: Divide the poster into two perfectly equal sections: 50% top and 50% bottom. Use a warm beige, ivory, or soft-white background with generous negative space and precise alignment.
+
+  TOP — HERO PHOTOGRAPH: Create an ultra-realistic, high-end editorial photograph of the chosen landmark from a believable real-world viewpoint. Preserve accurate architecture, proportions, materials, surrounding environment, natural lighting, shadows, atmosphere, and geographic character. The scene should feel like premium architectural photography or a museum-quality travel photograph, with realistic textures and sophisticated cinematic composition.
+
+  BOTTOM — GRAPHIC INTERPRETATION: Reinterpret the same hero landmark as a sophisticated flat graphic design. Extract its most recognizable silhouette, contours, structural details, proportions, and distinctive architectural elements. Simplify them into elegant geometric shapes, flat color blocks, thin lines, restrained divisions, and generous negative space. The landmark must remain instantly recognizable without becoming a realistic illustration, 3D render, cartoon, or game graphic.
+
+  COLOR & TYPOGRAPHY: Derive a restrained palette of approximately 4–6 colors from the city's architecture, environment, and hero photograph. Keep the palette sophisticated with slightly muted saturation. Add minimal geometric accents only when they improve the composition.
+
+  Use limited, elegant typography such as: [CITY] [COUNTRY] ARCHITECTURAL STUDY 2026
+
+  Use Swiss/international graphic design, architectural exhibition posters, luxury editorial design, and museum visual identity as the aesthetic reference. Keep typography subtle, with generous letter spacing and strong visual hierarchy.
+
+  FINAL AESTHETIC: Sophisticated, minimal, contemporary, culturally authentic, artistic, and premium. The photographic upper half and graphic lower half should feel like two expressions of the same visual identity. The final result should resemble a world-class gallery poster, collector's travel print, architectural exhibition artwork, or luxury brand campaign.
+
+  Avoid landmark collages, inaccurate architecture, invented structures, excessive text, tourist-brochure aesthetics, neon, flashy effects, heavy gradients, glossy 3D rendering, cartoon styling, game UI, clutter, excessive decoration, and generic AI-generated cityscapes.

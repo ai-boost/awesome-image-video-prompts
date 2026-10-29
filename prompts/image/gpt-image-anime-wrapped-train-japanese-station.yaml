@@ -1,0 +1,26 @@
+id: gpt-image-anime-wrapped-train-japanese-station
+title:
+  en: Anime Wrapped Train at Japanese Station
+  zh: 日本车站的动漫涂装列车
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- anime-wrap
+- train-station
+- japan
+- photoreal-ad
+- text-rendering
+source:
+  name: '@ArtistaNozomu on X'
+  url: https://x.com/ArtistaNozomu/status/2057817110823539188
+  credit: のぞむ＊AIイラスト
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the camera as a low three quarter front view and lists exactly three numbered platform ad placements with the exact text for each. Pairing real photography cues like tactile paving and sunlight with a printed anime ad style keeps the wrap and the scene both convincing.
+  zh: 固定低位四分之三前视角,并用编号列出恰好三处站台广告及各自的精确文字。真实摄影细节如盲道和阳光与印刷动漫广告风格结合,让涂装和场景都显得可信。
+prompt: |
+  Create a photorealistic wide-angle scene of a modern Japanese station platform in bright daytime, featuring a sleek white limited express train fully covered in an elegant anime character wrapping design for NOZOMU. The train is stopped beside the platform, viewed from a low three-quarter front angle so the rounded glossy black windshield fills the left edge and the decorated cars recede into the distance on the right. The wrap design shows one large pastel anime girl illustration on the nearest car: long light brown hair, oversized pale lavender bow on her head, delicate clock-and-gold accessory details, soft white blouse, fantasy memorial-line styling; keep her face intentionally obscured by a plain rectangular privacy blur. Surround the character with ornate gold filigree frames, antique clocks, stars, white flowers, pale blue ribbons, and soft watercolor accents. Add large refined serif branding on the train side reading “NOZOMU”, with smaller text “SPECIAL WRAPPED TRAIN” and “Limited Memorial Line.” Continue the same illustrated wrap along the following cars with smaller repeated character art and decorative clock motifs visible between dark rectangular train windows. On the platform, include exactly three promotional placements: 1) a large overhead station sign near the upper right reading “NOZOMU / SPECIAL WRAPPED TRAIN / Limited Memorial Line” with a blue strip of Japanese text “本日限定運行” and a blurred character face on the right; 2) a vertical poster pillar on the far right showing the anime girl, Japanese copy “会いに行ける、うちの子。” and NOZOMU branding; 3) a floor advertisement decal near the lower right with ornate border and the same NOZOMU special wrapped train logo. Add a few real commuters in the background on the platform, including one person photographing the train with a phone, but keep them small and secondary. Use realistic railway platform details: yellow tactile paving strip, tiled floor, overhead canopy beams, hanging lights, wires, rails implied beside the train, soft shadows, blue sky, and strong natural sunlight. Style should blend real photography with high-quality printed anime advertising, crisp reflections on the train windows, premium commemorative campaign atmosphere, pastel ivory, gold, pale blue, and lavender color palette. No extra logos, no watermarks, no additional vehicles, and keep all visible text clean and legible.

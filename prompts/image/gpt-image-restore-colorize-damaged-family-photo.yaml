@@ -1,0 +1,26 @@
+id: gpt-image-restore-colorize-damaged-family-photo
+title:
+  en: Restored colorized vintage mother and baby portrait
+  zh: 修复并上色的老式母婴合影
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- photo-restoration
+- colorize
+- vintage
+- family-portrait
+- 4k
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2048014890028486904
+  credit: WasifAI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-25'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt names each element to keep, namely pose, framing, curtain, dress, hair and necklace, so the model repairs damage without redrawing the scene. It sets a target of a professionally remastered 4K print, which pushes sharp detail and believable warm skin tones.
+  zh: 提示词逐项列出要保留的姿势、构图、窗帘、衣着、发色和项链，让模型只修复破损而不重画画面。再以专业修复的4K扫描为目标，带出清晰细节和自然的暖色肤色。
+prompt: |
+  Using REFERENCE_0, restore the old damaged family photo into a clean, high-resolution modern scan. Remove the heavy scratches, stains, fading, tears, and surface damage while preserving the original composition, pose, framing, and background curtain. Reconstruct realistic natural skin tones, sharpen details, and colorize the image with believable warm indoor tones. Keep the woman holding the baby in the same position, restore the black sleeveless dress, the baby's light outfit, the reddish-brown hair, and the subtle necklace. Maintain the same portrait crop and photographic realism, as if the original print was professionally repaired and remastered in 4K.

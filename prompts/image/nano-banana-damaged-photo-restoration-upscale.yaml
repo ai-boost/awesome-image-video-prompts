@@ -1,0 +1,29 @@
+id: nano-banana-damaged-photo-restoration-upscale
+title:
+  en: Damaged vintage family photo restored to sharp DSLR quality
+  zh: 受损的老旧合影修复为清晰的单反画质
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- photo-restoration
+- upscale
+- json-prompt
+- negative-prompt
+- identity-preservation
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2034638781857288239
+  credit: WasifAI
+  likes: 152
+  captured: '2026-10-29'
+  posted: '2026-03-19'
+notes:
+  en: A JSON prompt that opens with an explicit preserve identity, facial structure and composition instruction, then adds photographic quality cues like Arri Alexa and HDR. A long negative prompt blocks style change, plastic skin and face reshaping, and low denoising strength keeps the original faces intact.
+  zh: 用 JSON 结构的提示词，开头明确要求保留人物身份、五官结构和构图，再加入 Arri Alexa、HDR 等摄影画质描述。较长的负面提示词阻止风格改变、塑料皮肤和面部变形，较低的重绘强度则保住原有的面孔。
+prompt: |
+  { "task": "image_restoration_upscale", "positive_prompt":
+  "Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
+  "negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
+  { "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
+  "upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }

@@ -1,0 +1,26 @@
+id: gpt-image-mac-terminal-world-sim-tui
+title:
+  en: Mac Desktop Terminal Running World Simulation TUI
+  zh: Mac桌面终端中的世界模拟文字界面
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- screenshot
+- terminal
+- tui
+- mac-desktop
+- world-sim
+source:
+  name: '@fofrAI on X'
+  url: https://x.com/fofrAI/status/2046603571286720769
+  credit: fofr
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Naming a real desktop context plus a themed TUI lets the model invent dense panels, ASCII maps, logs and stats on its own. The short open prompt leaves layout to the model while keeping the screenshot believable.
+  zh: 先点明真实的Mac桌面场景，再指定世界模拟主题的文字界面，模型会自行补全面板、字符地图、日志和数据。提示词很短，版式交给模型发挥，截图依然可信。
+prompt: |
+  show me a screenshot of a mac desktop, large terminal window visible, doing something in the terminal with an expressive TUI layout related to a world sim

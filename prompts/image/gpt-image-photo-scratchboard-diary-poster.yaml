@@ -1,0 +1,42 @@
+id: gpt-image-photo-scratchboard-diary-poster
+title:
+  en: Carousel Photo Above, Scratchboard Ink Diary Below
+  zh: 上半旋转木马照片，下半刮画墨线日记海报
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- scratchboard
+- editorial-poster
+- photo-to-illustration
+- monochrome
+- handwritten-type
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2113153634833993796
+  credit: Harboris
+  likes: 111
+  captured: '2026-10-29'
+  posted: '2026-10-22'
+notes:
+  en: The poster splits into two equal halves with one straight dividing line. A full bleed reference photo sits above, and the same subject is redrawn below as a black ink block with white etched lines that breaks out into pen strokes on ivory. Strict color limits and handwritten typography slots for title, coordinates and diary caption keep the layout consistent.
+  zh: 海报由一条笔直分割线分成等高上下两半：上半为铺满的参考照片，下半把同一主体重绘为黑色墨块，内部白色刻线，墨块外延伸为象牙纸上的黑色钢笔线条。严格限定的配色与手写字体分区（标题、经纬度、日记说明）让版式稳定统一。
+prompt: |
+  Create a high-resolution, vertical 2:3 editorial art poster using the uploaded reference photo.
+
+  TOP HALF: Use the original photograph full bleed, preserving the subject's identity, appearance, natural lighting, and photographic quality. Crop carefully if needed. No borders or margins.
+
+  BOTTOM HALF: On textured ivory paper, create a monochrome scratchboard illustration of only the main subject and essential accessories. Place a large, rough-edged black ink block in the center. The figure must be larger than the block, with roughly two-thirds inside it and the lower third breaking out onto the ivory paper. Add loose horizontal ink strokes beneath the feet for grounding.
+
+  Inside the black block, use fine white and light-grey etched linework. Outside it, continue the same figure in expressive black pen strokes on ivory. Ensure a seamless transition between both tonal styles. Avoid excessive hatching and unnecessary background details.
+
+  COLORS: The bottom half must use only black, white, and ivory, with subtle paper grain.
+
+  TYPOGRAPHY: Use rough, upright handwritten lettering.
+
+  - Top left: a 2 to 4 word title across two lines, followed by three short lowercase verbs separated by periods.
+  - Top right: latitude and longitude on two lines only.
+  - Bottom left: the location or theme followed by “DIARY.”, with a short descriptive sentence beneath.
+  - Keep all typography black on ivory, natural and imperfect, never cursive.
+
+  FINAL COMPOSITION: Exactly one standalone poster with two equal horizontal halves and one perfectly straight dividing line. Preserve the original subject's identity and proportions. Maintain generous negative space and a restrained, collectible editorial aesthetic, combining documentary photography with expressive hand-printed illustration. Print quality, 2:3 vertical aspect ratio.

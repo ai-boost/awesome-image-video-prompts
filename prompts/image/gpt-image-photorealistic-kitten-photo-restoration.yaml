@@ -1,0 +1,26 @@
+id: gpt-image-photorealistic-kitten-photo-restoration
+title:
+  en: Blurry kitten photo restored to sharp 8K
+  zh: 模糊小猫照片修复为8K高清写实
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- photo-restoration
+- pet
+- upscale
+- photorealistic
+- cat
+source:
+  name: '@robiartec on X'
+  url: https://x.com/robiartec/status/2063969416388178020
+  credit: rob.
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-08'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt locks identity, pose, framing and background layout with explicit preserve and do not change clauses. It then lists the exact micro-details to recover, such as eyes, fur, whiskers and ear hairs, and the artifacts to remove.
+  zh: 提示词用明确的保留与禁止改动条款锁定身份、姿势、构图和背景布局，再逐项列出需要还原的眼睛、毛发、胡须和耳毛等细节，以及要去除的瑕疵。
+prompt: |
+  Using the provided reference image, enhance and restore it into an ultra-premium photorealistic 8K cinematic-quality photo. Preserve 100% of the original subject identity, pose, framing, composition, and color relationships: the kitten remains centered behind the same foreground ledge against the same blue background. Recover realistic micro-details lost in the low-resolution source: sharp glossy eyes, natural fur texture, fine whiskers, ear hairs, subtle skin and nose detail, clean edges, and realistic depth of field. Remove pixelation, blur, noise, color blotches, and compression artifacts while keeping the image natural, high-contrast, studio-quality, and believable. Do not change the kitten’s expression, position, markings, or background layout.

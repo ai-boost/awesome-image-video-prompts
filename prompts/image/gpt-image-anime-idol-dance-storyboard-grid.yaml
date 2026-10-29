@@ -1,0 +1,44 @@
+id: gpt-image-anime-idol-dance-storyboard-grid
+title:
+  en: Anime Idol Dance Storyboard Grid
+  zh: 动漫偶像舞蹈分镜网格
+model: GPT Image 2.5
+mode: text-to-image
+category: comic
+tags:
+- anime
+- storyboard
+- dance
+- idol
+- character-sheet
+source:
+  name: '@OiiOii_AI_JP on X'
+  url: https://x.com/OiiOii_AI_JP/status/2099738831755092209
+  credit: OiiOii AI JP
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-15'
+notes:
+  en: A detailed outfit description is fixed once, then 16 numbered frames each name a pose, camera angle and effect such as motion arrows, hearts or confetti. Layout rules for a 4x4 grid, panel borders, number labels and a shared floor keep the character consistent across frames.
+  zh: 先一次性写定详细的服装设定,再用 16 个编号画格逐一指定姿势、视角和动态箭头、爱心、彩纸等效果。4x4 网格、画格边框、编号标签和统一地面的版面要求让角色在各帧保持一致。
+prompt: |
+  A storyboard grid of 16 numbered frames (4x4 layout) showing a cute anime idol girl performing a continuous dance sequence. The character has shoulder-length wavy brown hair with small blue and white flower accessories, large expressive eyes, and wears an elaborate idol outfit: a white short-sleeved top with blue plaid accents and red ribbon details at the collar, a layered skirt combining white fabric with blue plaid panels and pink ruffled underskirt, thigh-high white socks with blue diamond patterns, and black heeled shoes with gold buckles. She also wears white gloves with blue trim.
+
+  Frame 1: Standing straight with hands clasped together in front of chest, smiling gently.
+  Frame 2: Right arm raised high above head, left arm extended down to side, weight shifted slightly.
+  Frame 3: Both arms spread wide horizontally, palms facing forward, energetic pose with motion lines.
+  Frame 4: Side profile view, body turned right, one hand on hip, other arm extended back, curved arrow indicating rotation.
+  Frame 5: Hands near shoulders making cute gestures, head tilted, sparkle effects around.
+  Frame 6: Mid-spin with flowing hair, arms crossed in front of torso, curved arrow showing rotation direction.
+  Frame 7: Dynamic jump pose, legs bent underneath, arms swinging out, pink petal-like motion trails swirling around.
+  Frame 8: One fist pumped upward triumphantly, other arm extended outward, confident smile.
+  Frame 9: Arms crossed over chest in X-shape, legs apart in power stance, arrows pointing outward from shoulders.
+  Frame 10: Playful pose with one leg kicked up behind, hands forming heart shape near face, floating hearts around.
+  Frame 11: Jumping with both fists raised overhead, knees tucked up, excited expression with radiating energy lines.
+  Frame 12: Standing with hands forming heart shape at chest level, sweet smile, two hearts floating beside her.
+  Frame 13: Back view mid-turn, arms spread wide, skirt flaring out, curved arrow indicating spin continuation.
+  Frame 14: Three-quarter rear view looking over shoulder, one hand extended gracefully, hair flowing.
+  Frame 15: Wide stance with one arm thrust straight up, other arm angled down, powerful finishing pose with star burst effect.
+  Frame 16: Final pose with arms spread wide welcomingly, confetti pieces (blue and pink rectangles) falling around her, big joyful smile.
+
+  Background is clean white with subtle light blue floor tiles visible in lower portion of each frame. Each panel has a thin gray border and number label in top-left corner. Style is polished Japanese anime illustration with soft cel shading, consistent character design across all frames, and dynamic action poses suitable for animation reference.

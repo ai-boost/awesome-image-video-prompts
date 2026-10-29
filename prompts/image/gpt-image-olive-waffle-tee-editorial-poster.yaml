@@ -1,0 +1,26 @@
+id: gpt-image-olive-waffle-tee-editorial-poster
+title:
+  en: Olive Waffle Knit Shirt Editorial Poster
+  zh: 橄榄绿华夫格长袖衫编辑风海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- fashion
+- product-poster
+- editorial
+- typography
+- reference-image
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2053813021592506439
+  credit: Harboris
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-11'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'Fixes the layout zone by zone: a ghost hung product in front of oversized cropped background type, then three diagonal macro detail strips below. A strict three color palette and exact text placements keep the poster cohesive and the copy legible.'
+  zh: 按区域逐一规定版面：衣架上的产品挡在超大裁切背景字前，下方是三条斜切细节特写。严格限定三种颜色并写明每段文字的位置，让整张海报统一且文字清晰。
+prompt: |
+  Create a high-end fashion product advertisement poster in portrait 4:5 ratio, clean minimal editorial style using a reference product image. Background is a warm off-white to light khaki gradient studio setup, very minimal, soft, airy, with subtle warm tones. Main product: an olive army green oversized waffle-knit long sleeve crewneck shirt, ghost-hung on a silver metal clothing rack stand with a visible clamp at the top-right. The shirt hangs naturally with slight drape, front-facing. On the center chest, include white puff embroidery text: “SVG”. Add a small dark navy woven label patch on the right hem side seam and a visible dark navy neck tag at the collar. Typography: top center minimal brand logo “SVG STUDIOS” in olive green clean sans-serif, top-left italic cursive “Field” with a small dark olive rectangle badge below reading “edition” in white, behind the shirt place massive ultra-condensed olive green text “WAFFLE TEE” partially hidden and cut by the product, bleeding off edges. lower-left include handwritten “SVG” and large cursive “Studios” in olive tone. Bottom section features three diagonal detail strips: macro waffle-knit texture, closeup puff embroidery stitching, and closeup dark navy neck label, all with warm studio lighting. Between strips include small text “Built for movement, designed for unity. The SVG Studios WIP Waffle Longsleeve — SS26 Collection” Footer includes 4 small barcode at bottom-left, centered text “• WWW. SVGSTUDIOS. COM • • •” in spaced caps olive tone, and small text “MADE IN MALAYSIA • SS26 COLLECTION”. Color palette is olive army green, warm cream, and dark navy only. Overall style is clean editorial fashion lookbook, military-inspired streetwear campaign, soft diffused lighting, high contrast product focus, photorealistic, ultra detailed, 8K quality.

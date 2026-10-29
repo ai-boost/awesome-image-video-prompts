@@ -4,7 +4,7 @@ title:
   zh: 产品抠图，透明背景
 model: GPT Image 2.5
 mode: image-edit
-category: edit
+category: product
 tags:
 - product
 - transparent

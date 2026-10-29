@@ -1,0 +1,25 @@
+id: gpt-image-snowy-village-floral-shawl-portrait
+title:
+  en: Snowy Village Portrait in Blue Floral Shawl
+  zh: 雪村中披蓝色花披肩的女子肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- winter
+- snow
+- cinematic
+- 85mm
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2067526808602542413
+  credit: Noor
+  likes: 201
+  captured: '2026-10-29'
+  posted: '2026-06-18'
+notes:
+  en: The prompt lists the wardrobe, skin, eyes and expression in order, then sets depth with a blurred cabin and a faint distant figure. Lens and light cues (85mm, shallow depth of field, soft diffused light, muted cool palette) give the cinematic look.
+  zh: 提示词依次交代服饰、肤色、眼神和表情，再用虚化木屋和远处模糊人影营造层次。85mm、浅景深、柔和漫射光和冷色调等镜头与光线描述带出电影感。
+prompt: |
+  A cinematic portrait of a young woman standing in a snowy village, softly falling snowflakes surrounding her. She wears a delicate blue floral shawl wrapped around her head and shoulders, dusted with snow. Her skin is fair with a natural glow, soft pink lips, and expressive light eyes looking slightly to the side. Her expression is calm and introspective. The background shows a blurred wooden cabin and a faint figure in the distance,creating depth. Cold winter atmosphere, soft diffused lighting, shallow depth of field, ultra-realistic, highly detailed textures, 85mm lens, bokeh, photorealistic, 8K resolution, muted cool color palette, cinematic mood."

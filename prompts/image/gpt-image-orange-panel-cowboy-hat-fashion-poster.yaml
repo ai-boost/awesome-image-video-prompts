@@ -1,0 +1,33 @@
+id: gpt-image-orange-panel-cowboy-hat-fashion-poster
+title:
+  en: Orange Panel Cutout Fashion Poster With Wide Hat
+  zh: 橙色分栏裁切效果的宽檐帽时尚海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- fashion-editorial
+- minimalist
+- cutout-effect
+- monochromatic
+- orange
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2099350017844867510
+  credit: Harboris
+  likes: 223
+  captured: '2026-10-29'
+  posted: '2026-09-14'
+notes:
+  en: Three tall panels of different heights on a white ground are described first, then the subject is told to cross all of them, which produces the cutout overlap. A single burnt orange palette plus explicit bans on text, logos and extra objects keeps the layout clean.
+  zh: 先描述白底上三块高度不同的竖向色块，再让人物与帽子横跨所有色块，形成裁切叠压效果。单一焦橙色调，并明确禁止文字、标志和多余物体，使画面保持干净。
+prompt: |
+  Create a vertical 2:3 fashion editorial poster with a minimalist, modern aesthetic. Use a clean white background with three tall, rectangular orange panels arranged vertically across the center, with narrow white gaps between them. The middle panel is slightly taller than the two outer panels.
+
+  Feature a realistic young woman with fair skin, delicate facial features, and light brown hair styled neatly under a large, wide-brimmed burnt-orange cowboy hat. She wears an elegant burnt-orange long-sleeve blouse with soft folds and a refined fashion-forward look.
+
+  Position the woman in a three-quarter profile, facing slightly toward the camera with a calm, confident expression. Her head and oversized hat extend across all three orange panels, while her body is primarily visible through the center panel. The orange panels should create a striking cutout effect, with parts of the portrait appearing to overlap the panel edges.
+
+  Use warm studio lighting, soft natural skin texture, subtle shadows, crisp edges, high-end fashion photography, balanced negative space, and a premium contemporary magazine design. Use a monochromatic burnt-orange color palette against a pure white background.
+
+  No text, no logos, no typography, no borders, no extra objects. Focus entirely on the woman, the oversized hat, and the geometric orange panel composition.

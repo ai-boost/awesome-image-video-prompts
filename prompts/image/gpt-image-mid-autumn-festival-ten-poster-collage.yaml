@@ -1,0 +1,36 @@
+id: gpt-image-mid-autumn-festival-ten-poster-collage
+title:
+  en: Ten Minimalist Mid-Autumn Festival Posters Collage
+  zh: 十张极简中秋节海报拼贴
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- mid-autumn
+- poster-set
+- chinese-typography
+- minimalist
+- grid-layout
+source:
+  name: '@xiaoxiaodong01 on X'
+  url: https://x.com/xiaoxiaodong01/status/2099867787149943085
+  credit: 小小东
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-15'
+notes:
+  en: The prompt lists each poster by grid position with its own background, motif and exact Chinese text, so every panel gets a distinct scene and caption. A shared elegant minimalist style line keeps the ten panels cohesive.
+  zh: 提示词按网格位置逐张描述背景、主体和中文文案，让每个画面都有独立场景与字幕。统一的雅致极简风格设定让十张海报保持协调。
+prompt: |
+  Create a vertical collage of 10 distinct Mid-Autumn Festival posters arranged in a 2-column grid. The style is elegant, poetic, and minimalist Chinese aesthetics.
+
+  Top Left: Dark background with yellow osmanthus flowers and a glowing full moon. Text: "花好月圆" (Blooming Flowers & Full Moon), "人间至味是团圆" (The best taste in life is reunion).
+  Top Right: Ink wash painting style mountains and water with a small boat. Orange sun/moon. Text: "但愿人长久，千里共婵娟" (May we all be blessed with longevity...).
+  Row 2 Left: Deep blue background showing phases of the moon in a horizontal line. Text: "月亮走过的路也是回家的路" (The road the moon traveled is also the road home).
+  Row 2 Right: Close-up photography of a mooncake on a ceramic plate with leaf shadows. Text: "时光有味，月饼知秋" (Time has flavor, mooncakes know autumn).
+  Row 3 Left: Beige background with abstract gold and white circles representing the moon over water ripples. Text: "一轮明月，照见心安" (A bright moon illuminates peace of mind).
+  Row 3 Right: Red wall with traditional lattice window shadows. Text: "中秋" (Mid-Autumn), "月下有光，家中有暖" (Light under the moon, warmth at home).
+  Row 4 Left: Green background featuring the back of a white rabbit's head looking up. Text: "把思念轻轻放在月亮上" (Gently place thoughts on the moon).
+  Row 4 Right: Soft purple/lavender background with hanging paper lanterns. Text: "灯火映圆月，万家皆可期" (Lantern lights reflect the full moon...).
+  Bottom Left: Night landscape with city lights below and a large orange moon rising over mountains. Text: "山河远阔，人间烟火，皆是团圆" (Vast mountains and rivers... are all reunion).
+  Bottom Right: Dark moody shot of incense smoke curling upwards from a bowl. Text: "中秋不止一日，而是长久的惦念" (Mid-Autumn is not just one day...).

@@ -1,0 +1,29 @@
+id: gpt-image-halftone-windswept-hair-portrait-ivory-paper
+title:
+  en: Windswept Hair Halftone Portrait on Ivory Paper
+  zh: 象牙纸上的飞发网点肖像
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- halftone
+- monochrome
+- portrait
+- vintage-print
+- negative-prompt
+source:
+  name: '@hey_am_cherry on X'
+  url: https://x.com/hey_am_cherry/status/2111324127378416005
+  credit: Cherry
+  likes: 108
+  captured: '2026-10-29'
+  posted: '2026-10-17'
+notes:
+  en: Naming the print process (halftone dots, stippled shading, screen-print texture) with a two-tone palette of deep black and cream gives a convincing vintage look. A separate negative prompt rules out color, 3D and plastic skin, and the chest-up framing is stated explicitly.
+  zh: 提示词点明网点、点刻阴影和丝网印刷质感，并限定为深黑与奶油两色，复古印刷感很到位。独立的反向提示排除彩色、3D 和塑料皮肤，同时明确了胸部以上的构图。
+prompt: |
+  {
+    "aspect_ratio": "9:16",
+    "prompt": "A beautiful young woman with long, messy black hair blowing dramatically across her face, eyes closed, lips slightly parted, head tilted back, elegant elongated neck, wearing a simple black V-neck top. Chest-up portrait, slightly right of center. Vintage monochrome halftone print art, tiny black ink dots, stippled shading, high contrast, warm ivory textured paper background, deep black shadows, cream highlights, retro editorial photography, moody, dreamy, melancholic, intricate details, sharp facial features, authentic screen-print texture.",
+    "negative_prompt": "color, 3D, anime, plastic skin, open eyes, exaggerated expression, deformed face, bad anatomy, extra features, busy background, text, watermark, excessive blur"
+  }

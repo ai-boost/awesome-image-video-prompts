@@ -1,0 +1,26 @@
+id: gpt-image-pastel-anime-perplexed-doodle-portrait
+title:
+  en: Perplexed Blue Haired Anime Girl Pastel Doodle
+  zh: 困惑的蓝发动漫少女粉彩涂鸦
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- doodle
+- pastel
+- flat-color
+- character-sketch
+source:
+  name: '@fofrAI on X'
+  url: https://x.com/fofrAI/status/2046636804648927446
+  credit: fofr
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A short prompt names the medium (digital color doodle), the expression (perplexed) and key features (long hair, big blue eyes). Exclusions like no text and no embellishments plus flat pastel coloring keep the result clean.
+  zh: 提示词很短，先点明媒介（数字彩色涂鸦）、表情（困惑）和关键特征（长发、蓝色大眼）。再用无文字、无装饰和扁平粉彩上色的限定，让画面保持干净。
+prompt: |
+  a digitally sketched color doodle of a perplexed an anime character with long hair and big blue eyes character, no text, no embellishments, flat pastel coloring

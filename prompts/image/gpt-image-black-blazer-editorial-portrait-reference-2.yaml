@@ -1,0 +1,27 @@
+id: gpt-image-black-blazer-editorial-portrait-reference-2
+title:
+  en: Black Blazer Editorial Portrait from Reference
+  zh: 参考图黑色西装编辑风人像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- editorial
+- reference-image
+- fashion
+- studio-light
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2114321139959001218
+  credit: Eesha
+  likes: 96
+  captured: '2026-10-29'
+  posted: '2026-10-25'
+notes:
+  en: The prompt locks identity to the reference image and adds negative constraints such as no facial changes and no plastic skin. Camera and lens specs (Sony A7R IV, 85mm f/1.4) plus soft side sunlight on a white background give a clean fashion editorial look.
+  zh: 提示词先锁定参考图的面部与身份，再用不要改脸、不要塑料皮肤等否定约束保证一致性。相机镜头参数（Sony A7R IV、85mm f/1.4）加白底侧向柔光，营造干净的时尚编辑感。
+prompt: |
+  Use the girl from the reference image and preserve her face, identity, proportions, and overall appearance exactly. Ultra-realistic 9:16 chest-up editorial portrait. She sits with a slight head tilt, looking directly at the camera with a calm, confident expression. Long straight glossy hair with a clean center part.
+
+  Wearing a structured oversized black blazer with broad shoulders. Natural luxury makeup with luminous skin, soft brown eyeshadow, subtle eyeliner, defined lashes, and nude glossy lips. Clean white minimalist background with soft side sunlight creating elegant shadows. Shot on a Sony A7R IV, 85mm f/1.4, shallow depth of field, cinematic lighting, realistic skin texture, 8K RAW, premium fashion editorial, no facial changes, no distortion, no plastic skin, no text, logo, or watermark.

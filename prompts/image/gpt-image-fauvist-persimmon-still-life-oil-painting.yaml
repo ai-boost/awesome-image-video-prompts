@@ -1,0 +1,26 @@
+id: gpt-image-fauvist-persimmon-still-life-oil-painting
+title:
+  en: Fauvist oil painting of three persimmons
+  zh: 野兽派三颗柿子油画静物
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- still-life
+- oil-painting
+- fauvist
+- impasto
+- food
+source:
+  name: '@MANISH1027512 on X'
+  url: https://x.com/MANISH1027512/status/2048219853761417653
+  credit: 古一
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-26'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Lists every object with its position, colour and count, so the layout stays fixed while the style words carry the look. Pairing saturated complementary colours with impasto, palette knife strokes and dark contour accents gives the handmade Fauvist feel.
+  zh: 逐一写明每件物体的位置、颜色和数量,构图因此稳定,风格词则负责画面气质。饱和互补色加厚涂、调色刀笔触和深色轮廓线,带出手绘的野兽派质感。
+prompt: |
+  A bold post-impressionist still life painting in thick impasto oil brushstrokes, viewed from slightly above. Center a round turquoise plate holding exactly 3 bright orange persimmons with green leafy tops, arranged in a triangular cluster. Place the plate on a vivid red tablecloth. In the upper left, add a dark green glass bottle casting a soft shadow onto a textured mustard-yellow wall. In the lower left, include a folded cloth napkin with wide cream and muted blue vertical stripes. On the right side of the table, place a kitchen knife with a shiny silver blade and a deep blue handle angled diagonally upward. Use saturated complementary colors, expressive painterly texture, visible palette-knife-like strokes, simplified forms, dark contour accents, and a warm, lively Fauvist color sensibility. The composition should feel handmade, energetic, and slightly naive, like a modern museum-style still life oil painting.

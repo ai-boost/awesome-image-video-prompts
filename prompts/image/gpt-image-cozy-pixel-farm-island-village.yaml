@@ -1,0 +1,44 @@
+id: gpt-image-cozy-pixel-farm-island-village
+title:
+  en: Cozy Pixel Art Farm Island Village
+  zh: 温馨像素风农场岛屿村庄
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- pixel-art
+- game-concept
+- isometric
+- map
+- worldbuilding
+source:
+  name: '@givros on X'
+  url: https://x.com/givros/status/2055671609764016323
+  credit: Givros
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-16'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt describes each island in a numbered list with its own contents, then fixes exact counts for buildings, animals and bridges so the layout stays stable. Explicit canvas, style and constraint sections keep out UI, extra text and extra characters.
+  zh: 提示词按编号逐岛描述内容，再用精确数量锁定建筑、动物和桥梁，让布局保持稳定。画布、风格和限制条款分开写明，排除界面、多余文字和额外角色。
+prompt: |
+  Goal: Create a bright cozy pixel-art farming village map on small islands in a blue ocean, like a top-down/isometric 16-bit life-sim game screenshot.
+
+  Canvas: 4:3 landscape image, about 1024×768, crisp pixel art with no UI overlay, no borders, no watermark. Use a vibrant turquoise ocean background with gentle wave highlights, ripples around shores, scattered lily pads, and small rocks.
+
+  Layout: Show exactly 6 grassy/sandy islands connected by wooden bridges and docks. The largest central island sits in the middle and contains the main house, paths, a fenced crop field, a well, a signpost, a human character, and a dog. Four smaller grassy islands surround it at upper left, upper right, lower left, and right. One small sandy beach island sits near the bottom center.
+
+  Island count and contents:
+  1. Central island: irregular grassy island with dirt paths forming a crossroad. Place a cozy blue-roof cottage near the top center with a chimney puffing smoke, round attic window, wooden front door, flower boxes, shrubs, and a short fence behind it. Put a small pixel farmer character named young farmer standing slightly below center beside a corgi-like dog. Add a fenced crop plot at the lower center with exactly 4 crop rows: leafy green vegetables, white turnips, orange carrots, and golden wheat. Add a stone well to the left of the crop plot, a wooden signpost with a hanging lantern near the left-center path, bushes with flowers, small stones, and daisies.
+  2. Upper-left island: red-roof barn with open double doors, hay bales, a fenced pen, and exactly 1 black-and-white cow. Include a large leafy tree, crates, flowers, and a wooden bridge connecting to the central island.
+  3. Upper-right island: village shop with purple roof, striped purple-and-white awning, front door, window display, flower pots, barrel, and a freestanding signboard. The sign above the awning must read SHOP. Include a fruit tree with red apples and a bridge connecting to the central island.
+  4. Lower-left island: fishing dock island with a wooden pier, a lamppost, barrels, crates, small tackle box/sign, and exactly 1 small wooden rowboat tied near the dock. Connect this island to the central island with a wooden bridge.
+  5. Right island: small orange-roof cottage with chimney, round attic window, front door, blue window, flower box, small fence, trees, flowers, and a wooden bridge connecting to the central island.
+  6. Bottom-center island: tiny sandy beach with a palm tree, red-and-white beach umbrella, blue-striped lounge chair, starfish, shell, and grass around the edges; it is not connected by a bridge.
+
+  Discrete element counts to preserve: exactly 6 islands, exactly 4 bridges connecting to the central island, exactly 4 buildings total (barn, blue-roof cottage, purple shop, orange-roof cottage), exactly 1 human character, exactly 2 animals (1 cow and 1 dog), exactly 1 rowboat, exactly 1 crop field with 4 visible crop types, exactly 1 well, exactly 1 signpost lantern, exactly 1 beach umbrella, exactly 1 lounge chair, exactly 1 palm tree.
+
+  Visual style: Cute high-detail pixel art, top-down three-quarter perspective, warm sunny daylight, saturated colors, soft shadows, chunky readable shapes, detailed grass texture, tiny flowers, rounded shoreline outlines, and animated-game charm. Use bright turquoise blue for the surrounding ocean, blue for the central cottage roof, and cheerful cozy farming adventure as the emotional tone.
+
+  Constraints: Keep the whole scene visible as a single map-like composition. Do not add interface buttons, text besides the shop sign, extra characters, extra animals, vehicles, modern objects, or photorealism.

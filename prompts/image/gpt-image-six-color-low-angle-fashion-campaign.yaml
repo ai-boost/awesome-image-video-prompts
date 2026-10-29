@@ -1,0 +1,25 @@
+id: gpt-image-six-color-low-angle-fashion-campaign
+title:
+  en: Six color low angle fashion campaign
+  zh: 六色低机位时装广告大片
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- campaign
+- low-angle
+- color-palette
+- group-shot
+source:
+  name: '@ImagineArt_X on X'
+  url: https://x.com/ImagineArt_X/status/2097520463811608862
+  credit: ImagineArt_X
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: A ground level 24mm lens tilted fifteen degrees gives a dramatic upward perspective. Naming six exact garment colors against one plain cobalt sky keeps the palette controlled while each person is posed differently.
+  zh: 地面机位加24mm镜头并倾斜十五度,形成强烈的仰视透视。六种明确的服装颜色配单一纯钴蓝天空,色彩可控,每个人姿势各不相同。
+prompt: |
+  a fashion campaign for an invented label, shot from a camera on the ground with a 24mm lens tilted fifteen degrees. Six people in electric blue, tomato red, lime green, hot pink, butter yellow and lilac, all posed differently, against plain cobalt sky.

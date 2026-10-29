@@ -1,0 +1,25 @@
+id: nano-banana-strawberry-milkshake-product-photo
+title:
+  en: Strawberry milkshake on pastel pink studio background
+  zh: 粉色影棚背景下的草莓奶昔产品照
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- food-photography
+- beverage
+- studio-lighting
+- macro
+- pastel
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2090665058980462697
+  credit: M-studioAi
+  likes: 140
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+notes:
+  en: The prompt lists every texture (syrup drips, whipped cream, condensation) and pairs them with DSLR macro and soft studio lighting cues. A second prompt reuses the same drink as an exploded vertical layer list for an infographic, and the image then feeds a video prompt.
+  zh: 提示词逐一写明各层质感（糖浆流痕、奶油、冷凝水珠），并配上单反微距和柔和影棚光的描述。第二条提示词用自上而下的分层清单把同一杯奶昔做成爆炸图信息图，生成的图再作为视频提示词的输入。
+prompt: |
+  The milkshake starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, creamy, and controlled with no extra effects.

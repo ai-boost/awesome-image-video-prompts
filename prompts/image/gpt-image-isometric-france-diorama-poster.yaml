@@ -1,0 +1,32 @@
+id: gpt-image-isometric-france-diorama-poster
+title:
+  en: Isometric France Terrain Diorama Travel Poster
+  zh: 等距法国立体地形微缩旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: map
+tags:
+- isometric
+- diorama
+- travel-poster
+- map
+- 3d-render
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2090481131762114750
+  credit: TechieSA
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the canvas ratio, a text-top and map-bottom split, and an exact count of ten landmarks with compass positions, so the model spreads features across the terrain. Miniature model, relief and soft occlusion keywords give the 3D cutout its depth.
+  zh: 提示词限定画幅比例、上四分之一文字下四分之三地图的版式，并按方位写明十个地标的确切数量与位置，让特征均匀分布在地形上。微缩模型、地形起伏和柔和环境光遮蔽等关键词带来立体切片的质感。
+prompt: |
+  Create a polished isometric country diorama poster for France in a premium travel-atlas style. Use a vertical 4:5 canvas on a warm off-white background, with the country shown as a thick floating 3D terrain cutout in its real recognizable outline, including the separate island of Corsica as a smaller detached cutout at lower right. The landmass should have steep rocky vertical edges, soft studio shadows, and an isometric camera angle looking down from above.
+
+  At the top, add clean centered typography: small spaced uppercase region label "EUROPE", then a huge bold condensed uppercase title "FRANCE" in dark charcoal, with a simple vertical tricolor flag to the right of the title using blue, white, and red. Beneath the title, add a small spaced subtitle reading "PARIS • 67.4 MILLION".
+
+  The diorama should be densely detailed: green countryside, patchwork farms, forests, rivers, roads, rail-like lines, villages, towns, harbors, coastline, and mountain ranges. Include exactly 10 prominent landmark or terrain features distributed across the map: 1 central Eiffel Tower near Paris, 1 large Gothic cathedral in the northeast, 1 domed monument in the west, 1 tall cathedral or basilica in the southwest interior, 1 white coastal lighthouse on the Atlantic side, 1 Mediterranean harbor with boats along the south coast, 1 snowy mountain range across the southeast Alps, 1 snowy mountain range across the southwest Pyrenees, 1 major winding blue river running north-south through the center-east, and 1 detached Corsica island with miniature towns and green hills. Add small boats and sailboats on the surrounding blue water, especially near the Atlantic coast and Mediterranean bay.
+
+  Visual style: highly detailed miniature model, realistic 3D render, crisp topographic relief, vibrant natural greens and yellows, tiny architecture, clean editorial poster composition, soft ambient occlusion, subtle depth of field, no border, no watermark. Keep the overall image balanced with the text occupying the upper quarter and the isometric map filling the lower three quarters.

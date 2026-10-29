@@ -1,0 +1,29 @@
+id: gpt-image-mid-century-isometric-city-travel-poster
+title:
+  en: Mid Century Isometric Tokyo Travel Poster in Red
+  zh: 红色中century等距视角东京旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- isometric
+- mid-century
+- screen-print
+- limited-palette
+source:
+  name: '@jzaib4269 on X'
+  url: https://x.com/jzaib4269/status/2054046672297054595
+  credit: Jahan Zaib
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-12'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A strict three color palette (cream, black linework, one flat accent) keeps the screen print look, and the no gradients rule keeps the sky flat. Bracketed city, landmark and color slots make it a reusable template, while the isometric bird's eye view and fine hatching set the drawing style.
+  zh: 严格限定三色（奶油色、黑色线稿、一种平涂主色），并禁止渐变，让天空保持丝网印刷的平涂质感。方括号里的城市、地标和颜色槽位让它成为可复用模板，等距鸟瞰视角与细密排线决定了画面风格。
+prompt: |
+  Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
+  Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-print texture.
+  Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients.
+  Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.

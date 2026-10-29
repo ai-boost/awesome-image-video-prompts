@@ -1,0 +1,26 @@
+id: gpt-image-kawaii-cactus-die-cut-sticker
+title:
+  en: Kawaii Cactus Die-Cut Sticker
+  zh: 可爱仙人掌贴纸
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- sticker
+- kawaii
+- cactus
+- transparent-background
+- cartoon
+source:
+  name: '@thsottiaux on X'
+  url: https://x.com/thsottiaux/status/2090631723302469995
+  credit: Tibo
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Exact counts for arms, eyes, cheeks and petals keep the character anatomy stable. Style cues such as thick outlines, a white die-cut border and a transparent background make the result print-ready.
+  zh: 对手臂、眼睛、腮红和花瓣数量的精确限定让角色结构稳定。粗描边、白色模切边和透明背景等风格要求让成品可直接用于印刷。
+prompt: |
+  Create a cute printable sticker illustration on a transparent background: a kawaii green cactus in a terracotta flower pot, centered and filling most of a square canvas. The cactus has one large oval ribbed central body and exactly 2 curved side arms, one on the left and one on the right, both raised upward. Give it a happy face with exactly 2 glossy black oval eyes, 2 pink circular blush cheeks, and 1 open smiling mouth with a dark interior and pink tongue. Add a red-pink flower on top-left of the cactus with exactly 6 rounded petals and a cluster of small yellow dots in the center. Cover the cactus with many small star-shaped cream spines with orange bases, distributed across the main body and both arms. Place the cactus in an orange terracotta pot with a thick rim, darker orange shading, small speckles, and glossy highlights; show brown soil and several rounded pebbles at the top. Use a polished digital cartoon style with thick dark green outlines, soft gradients, shiny highlights, saturated colors, and a clean die-cut sticker look with a thick white border around the entire cactus and pot. Background should be transparent, optionally previewed by a light gray checkerboard only to indicate transparency. No text, no watermark, no extra objects.

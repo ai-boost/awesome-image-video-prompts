@@ -1,0 +1,46 @@
+id: nano-banana-landmark-circular-diorama-kicc-nairobi
+title:
+  en: Circular diorama of Nairobi KICC tower with brass nameplates
+  zh: 内罗毕KICC大厦圆形微缩场景与黄铜铭牌
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- diorama
+- miniature
+- landmark
+- isometric
+- macro-photography
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2031308595900359126
+  credit: Gilbert Odera | Your AI Plug
+  likes: 83
+  captured: '2026-10-29'
+  posted: '2026-03-10'
+notes:
+  en: A fill in template locks the circular cross section base, a 45 degree isometric view and polished brass nameplates with exact label text, so any landmark can be swapped in. Macro and tilt shift wording gives the miniature scale, and local light for the city sets the mood.
+  zh: 填空式模板固定了圆形截面底座、45度等距视角和带确切文字的黄铜铭牌，可替换成任意地标。微距与移轴摄影措辞营造微缩感，再用城市本地光线定下氛围。
+prompt: |
+  An intricate geographical diorama contained within a circular cross section base made of [LOCAL STONE OR GEOLOGICAL MATERIAL] and [SECONDARY REGIONAL MATERIAL], presented in a 45 degree isometric top down perspective.
+
+  The central focus of the diorama is the iconic landmark [LANDMARK NAME] located in [CITY], [COUNTRY]. The miniature sculpture accurately captures the architectural identity of the structure, including its [PRIMARY ARCHITECTURAL FEATURES such as domes, towers, arches, spires, terraces, or distinctive roof structures], rendered with precise materials and proportions.
+
+  Surrounding the landmark is a detailed miniature slice of [SURROUNDING DISTRICT / PARK / URBAN AREA], featuring realistic streets, plazas, gardens, and nearby structures scaled appropriately to provide geographical context.
+
+  The outer edge of the circular base reveals a cross section of [NEARBY NATURAL FEATURE such as river, bay, coastline, mountain slope, lake, or forest], represented with realistic textures such as deep blue resin water, layered geological strata, or lush miniature vegetation.
+
+  Tiny environmental details bring the scene to life. Microscopic visitors walk along paths and plazas, small vehicles or boats move through the environment where appropriate, and miniature trees or landscape elements reflect the real ecosystem of the location.
+  Integrated miniature polished brass nameplates identify key features:
+  "[LANDMARK NAME]"
+  "[SURROUNDING DISTRICT OR AREA]"
+  "[NATURAL FEATURE]"
+  "[CITY], [COUNTRY]"
+  "COMPLETED [YEAR OR ERA]"
+
+  The macro photography style emphasizes hyper realistic textures including stone surfaces, vegetation, architectural materials, and geological layers. Tilt shift precision creates an extremely shallow depth of field to emphasize the miniature scale.
+
+  Lighting mimics the natural atmosphere of [CITY], such as warm sunset light, bright coastal daylight, or soft morning haze, casting realistic shadows across the tiny landscape.
+  Ultra detailed, cinematic macro photography, museum quality miniature model, extremely realistic materials.
+
+  Aspect ratio 4:5

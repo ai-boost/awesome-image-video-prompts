@@ -1,0 +1,27 @@
+id: nano-banana-recipe-infographic-template
+title:
+  en: Banana smoothie recipe infographic with numbered steps
+  zh: 带编号步骤的香蕉奶昔食谱信息图
+model: Nano Banana 2
+mode: text-to-image
+category: infographic
+tags:
+- recipe
+- infographic
+- food
+- template
+- editorial
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2027351232419942569
+  credit: TechieSA
+  likes: 168
+  captured: '2026-10-29'
+  posted: '2026-02-27'
+notes:
+  en: A fill-in [FOOD] slot makes the template reusable. It fixes a visual hierarchy of dish, then steps, then ingredients, then stats, and names the panel style (glassmorphism), the icon style and the output size.
+  zh: 用可替换的 [FOOD] 占位符让模板可复用。提示词明确了成品、步骤、食材、数据的视觉层级,并指定面板风格(玻璃拟态)、图标风格和输出尺寸。
+prompt: |
+  Simply replace [FOOD]:✨
+
+  “Ultra-clean modern recipe infographic. Showcase [FOOD] in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1350, ultra-crisp, social-feed optimized”

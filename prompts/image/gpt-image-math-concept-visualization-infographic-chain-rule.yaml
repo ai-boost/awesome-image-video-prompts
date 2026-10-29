@@ -1,0 +1,28 @@
+id: gpt-image-math-concept-visualization-infographic-chain-rule
+title:
+  en: Chain rule math infographic in handdrawn lecture style
+  zh: 手绘讲义风格的链式法则数学可视化信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- math
+- infographic
+- educational
+- hand-drawn-style
+- template
+source:
+  name: '@dotey on X'
+  url: https://x.com/dotey/status/2048258873119674779
+  credit: 宝玉
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-26'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'A fill in the blank template where the concept name is swapped in, and the prompt fixes a numbered question structure: what it is, why it holds, geometric intuition, scenarios. Palette limits, rounded cards, numbered labels and a summary bar keep a dense page orderly.'
+  zh: 提示词是可替换概念名的模板,并固定了编号的提问结构:是什么、为什么成立、几何直觉、不同场景。限定配色、圆角卡片、编号标签和总结栏,让信息密集的版面依然有序。
+prompt: |
+  请创作一张关于「数学概念/知识点」的数学可视化信息图，目标是帮助读者直观理解：它是什么、为什么成立、几何/结构直觉是什么、在不同场景下如何表现。画面要像高质量数学讲义 + 手绘教育海报，优雅、清晰、信息丰富，但不要杂乱。
+
+  视觉风格：竖版或横版均可，干净的浅色纸张背景，深蓝标题，黑色/深灰正文线条，搭配少量优雅的蓝色、青绿色、金色、红色强调色。使用圆角卡片、细线边框、编号标签、手绘箭头、局部放大框和总结栏。整体要美观、平衡、有学术感，让人一眼看懂这个概念的“结构”和“为什么”。

@@ -1,0 +1,40 @@
+id: gpt-image-neon-yellow-japanese-ai-canvas-ad-poster
+title:
+  en: Neon yellow Japanese AI app ad poster
+  zh: 霓虹黄日系AI创作应用广告海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- japanese-typography
+- ad-poster
+- ui-mockup
+- neon-yellow
+- fashion-photo
+source:
+  name: '@dezainaz_ceo on X'
+  url: https://x.com/dezainaz_ceo/status/2063113560830742906
+  credit: 塚本 賢志 / Kenshi Tsukamoto
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-06'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes exact counts for every element, such as 2 stat blocks, 6 feature labels and 5 nav items, and gives the exact Japanese copy for each text slot. A low angle fashion subject is combined with skewed panels and UI mockups on a black and fluorescent yellow palette.
+  zh: 提示词为每类元素规定精确数量,如2个数据块、6个功能标签和5个导航项,并逐处写明日文文案。低角度时尚主体搭配倾斜面板和界面样机,配色限定为黑色与荧光黄。
+prompt: |
+  Goal: Create a high-impact Japanese cyberpunk-style advertising poster for an AI creative canvas tool called Banas, with a loud yellow-and-black street magazine layout and a dramatic fashion photo centerpiece.
+
+  Canvas: Landscape 16:9 poster, bright fluorescent yellow background with black ink texture, diagonal perspective, gritty halftone scratches, skewed panels, thick black borders, and dense promotional typography. Overall look should feel like a Japanese web banner or transit ad for a next-generation AI design app.
+
+  Main subject: One young male creator photographed from an extreme low angle, occupying the left and center of the poster. He wears an oversized glossy cobalt-blue windbreaker jacket, messy black hair, and reaches one hand toward the camera with motion blur and shallow depth of field. His face is intentionally obscured by a soft square blur/mosaic censor block. Lighting is harsh and editorial, with strong contrast against the yellow background.
+
+  Layout: Place a huge slanted black logo wordmark reading Banas on the upper right-center, with a small trademark mark. Above it, add a narrow black headline strip with energetic Japanese marketing copy. Around the logo, use multiple tilted yellow and black text boxes. On the far right, add one tall vertical framed headline panel. At bottom, add a black navigation bar with product feature icons and labels.
+
+  Text content: The largest Japanese headline should be AIで、想像を超えろ。レイヤーも、ポーズも、すべて自由自在。. The main logo area should include the supporting phrase 次世代AIキャンバスツール. Add a bold central callout reading 無限大。. Add one circular call-to-action badge on the right reading 今すぐ無料で始める!. Keep all visible copy in bold Japanese display typography, mixing horizontal and vertical writing.
+
+  Discrete visible elements to include: exactly 1 censored human model; exactly 1 giant product logo; exactly 1 laptop/tablet-like app preview screen near the lower center-right; exactly 1 smartphone app mockup in the bottom-right corner; exactly 1 circular call-to-action badge; exactly 1 tall vertical headline panel on the far right; exactly 2 large numeric statistic blocks on the left, one showing 70% and one showing 50万人; exactly 6 stacked feature labels on the left side; exactly 4 small rectangular feature badges on the right side; exactly 5 bottom navigation items with simple white icons: sparkle/AI generation, layers, grid/template, cloud upload, and search/experience button.
+
+  App mockups: The larger tilted screen should show a dark UI labeled with the product name and a surreal generated image of a person in yellow clothing looking up at floating islands and vegetation in a bright blue sky. The smartphone mockup should show a dark mobile interface with thumbnail rows and a create button.
+
+  Visual style: Ultra-bold Japanese commercial graphic design, black typography on neon yellow, skewed perspective, energetic composition, dramatic lens distortion, glossy fashion photography mixed with UI mockups, high contrast, crisp print-ad finish, no clean minimalism, no white background, no watermark.

@@ -1,0 +1,26 @@
+id: gpt-image-anime-pop-art-street-style-conversion
+title:
+  en: Anime girl restyled as neon pop art
+  zh: 动漫少女转成霓虹波普街头艺术风
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- pop-art
+- street-art
+- anime
+- halftone
+- neon
+source:
+  name: '@notoro_ai on X'
+  url: https://x.com/notoro_ai/status/2051154269064278132
+  credit: のとろ
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt names the target style, then specifies line art, flat shading, Ben Day dots, a neon palette and geometric patterns. It ends by banning text and locking the original composition and character.
+  zh: 提示词先点明目标风格,再逐项限定线稿、平涂、网点、霓虹配色和几何图案,最后禁止出现文字并要求保留原构图与角色。
+prompt: |
+  このイラストを現代アニメ・漫画の影響を基調とした、ポップアート×ストリートアート風スタイルに変換してください。シャープでクリーンな線画とフラットシェーディングをメインに色彩豊かに表現。複雑な幾何学模様など含むスタイリッシュな雰囲気。ベン・デイ・ドットでグラデーションとテクスチャを加味。ネオンカラー中心の鮮やかでコントラストの強い配色で、グラフィカルかつスタイリッシュな雰囲気に。ただし文字は入れないこと。元のイラストの構図・キャラクターを維持。

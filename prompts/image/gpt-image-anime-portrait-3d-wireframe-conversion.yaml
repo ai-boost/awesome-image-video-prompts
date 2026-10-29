@@ -1,0 +1,26 @@
+id: gpt-image-anime-portrait-3d-wireframe-conversion
+title:
+  en: Bob cut glasses girl as 3D wireframe
+  zh: 戴眼镜波波头少女的3D线框转换
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- wireframe
+- 3d-style
+- line-art
+- anime
+- style-conversion
+source:
+  name: '@notoro_ai on X'
+  url: https://x.com/notoro_ai/status/2053082564865528087
+  credit: のとろ
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Describes the line quality (thin, uniform, sharp), the polygon edges and the crossing lines that give depth, then locks the original composition, expression, pose and silhouette so the conversion keeps the source intact. The mood words cool, technological and minimal set the final finish.
+  zh: 先规定线条质感（细、均匀、锐利）、多边形边缘和交叉线带来的纵深，再锁定原图的构图、表情、姿势与轮廓，让转换不破坏原作。最后用冷静、科技、极简的气质词定下整体风格。
+prompt: |
+  このイラストを、ワイヤーフレーム（Wireframe）スタイルで変換してください。細く精密な線で輪郭と内部構造を表現し、3Dモデルのようにポリゴンエッジやジオメトリックな線を全体に重ねて描いてください。線は均一でシャープ、交差する線による立体感と奥行きを強調し、透明感のある軽やかな構造体のように見えるようにしてください。全体の雰囲気はクールでテクノロジカル、未来的でミニマル、デジタルデザインや3Dモデリングのような洗練された美しさに仕上げてください。元のイラストの構図・キャラクターの表情・ポーズ・シルエット・主要な特徴は一切崩さず、ワイヤーフレームとして美しく再構築してください。

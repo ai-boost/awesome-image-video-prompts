@@ -1,0 +1,65 @@
+id: gpt-image-character-transformation-storyboard-12-panel
+title:
+  en: Twelve panel anime pirate captain transformation storyboard
+  zh: 十二格动漫海盗船长变身分镜
+model: GPT Image 2.5
+mode: image-edit
+category: comic
+tags:
+- storyboard
+- transformation
+- character-sheet
+- anime
+- reference-image
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2100135954032087346
+  credit: Kiki
+  likes: 106
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+notes:
+  en: The prompt gives each of the 12 panels a fixed narrative role, from trigger to final hero pose, so the transformation unfolds step by step. It first analyzes the reference character to derive a custom power theme, then locks face, hairstyle and art style for consistency.
+  zh: 提示词为 12 个分格分别指定叙事任务,从触发到最终英雄姿态,让变身逐步展开。先分析参考角色再推导专属能量主题,并锁定脸部、发型和画风以保持一致。
+prompt: |
+  Create a 12-panel transformation storyboard for the character in the uploaded reference image, arranged in a clean 3-column × 4-row grid, read left to right and top to bottom.
+
+  CHARACTER AND CONCEPT
+  First, visually analyze the character’s identity, outfit, signature accessories, color palette, personality, and apparent world or profession. Use these details to invent a distinctive transformation theme that feels like a natural evolution of this specific character.
+
+  Choose a coherent power source, visual effects, transformation mechanism, and final evolved form. Derive these from the character rather than defaulting to generic demon wings, horns, purple lightning, or an unrelated costume.
+
+  The final form must show a substantial, deliberate change in silhouette, costume structure, materials, and signature accessories—not merely the original outfit with a glowing aura. Preserve enough recognizable motifs that the result unmistakably feels like the same character.
+
+  IDENTITY CONSISTENCY
+  Keep the same face, apparent age, body proportions, skin tone, and defining features throughout all 12 panels. Preserve the character’s signature hair color and recognizable hairstyle, allowing natural movement and subtle styling changes. Maintain the reference image’s illustration style.
+
+  Begin with the original outfit faithfully reproduced. Design one coherent final outfit and reveal it progressively. Once a transformed element appears, keep its design consistent in all subsequent panels.
+
+  12-PANEL SEQUENCE
+  Panel 1 — Original state: Clearly establish the reference character in their original outfit, with a readable full-body silhouette in an appropriate setting.
+  Panel 2 — Trigger: A signature accessory, gesture, or environmental element activates the character’s latent power.
+  Panel 3 — Response: The character notices the change and makes a purposeful movement. Small thematic effects begin to gather.
+  Panel 4 — Gathering power: The transformation energy establishes a clear direction and motion around the character.
+  Panel 5 — First visible change: One important costume element or accessory evolves, clearly showing the transformation mechanism.
+  Panel 6 — Progression: The transformation travels across the body, forming new clothing, armor, ornamentation, or other theme-appropriate details.
+  Panel 7 — Defining detail: Show a closer view of a major identity-linked upgrade, such as headwear, shoulder pieces, a weapon, or a magical accessory.
+  Panel 8 — Silhouette expansion: Reveal the largest structural change, such as a flowing mantle, elongated coat, layered armor, or another character-specific feature.
+  Panel 9 — Climax: Show the peak of the transformation with a powerful pose and dramatic thematic effects. Keep the character readable.
+  Panel 10 — Full reveal: Effects clear to reveal the complete evolved form in a clean full-body view.
+  Panel 11 — Personality moment: The character makes a small expressive gesture that conveys their personality and newfound confidence.
+  Panel 12 — Final hero image: Finish with a striking full-body pose that clearly displays the completed design, with restrained residual effects and a resolved background.
+
+  VISUAL DIRECTION
+  Build a clear emotional progression from anticipation to awakening to mastery, adapted to the character’s personality. The character actively participates in the transformation rather than simply standing still.
+
+  Use a cohesive environment and lighting progression across the sequence. Vary framing between full-body, three-quarter, and selective detail shots while maintaining spatial continuity. Prioritize full-body views for the original state, major silhouette changes, and final reveal.
+
+  Make every panel advance the transformation. Show intermediate stages with clear visual cause and effect; do not jump abruptly from the original outfit to the final costume.
+
+  Use elegant, theme-specific transitions such as flowing material, particles assembling into solid forms, unfolding structures, or energy passing over and revealing new costume elements. Keep anatomy stable and clothing coherent. No nudity or erotic framing.
+
+  OUTPUT
+  One polished, high-resolution storyboard image containing exactly 12 distinct panels with thin, consistent borders. Balance character detail with visual clarity. No captions, labels, speech bubbles, logos, or watermarks.
+
+  Do not reproduce the uploaded reference sheet’s layout or duplicate its multiple views. Use the uploaded image to identify one character, then depict that same character across a new, continuous transformation sequence.

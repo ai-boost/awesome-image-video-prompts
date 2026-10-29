@@ -1,0 +1,38 @@
+id: gpt-image-shoujo-manga-quote-page-blue-eyed-heroine
+title:
+  en: Monochrome shoujo manga page with blue-eyed heroine
+  zh: 蓝眼女主角的黑白少女漫画名台词页
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- manga
+- shoujo
+- monochrome
+- japanese-text
+- panel-layout
+source:
+  name: '@ArtistaNozomu on X'
+  url: https://x.com/ArtistaNozomu/status/2091831291658543613
+  credit: のぞむ＊AIイラスト
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the page into exactly four numbered panel areas with a stated layout and spells out every Japanese line verbatim, so the lettering stays legible. A single colour exception, the pale blue eyes, gives the grayscale page its focal point.
+  zh: 提示词把页面严格划分为四个编号分格并写明布局,所有日文台词与拟声词逐字给出,保证文字清晰可读。只保留淡蓝色眼睛这一处颜色,使灰阶画面有了视觉焦点。
+prompt: |
+  Goal: Create a dramatic black-and-white shoujo manga magazine page where a quiet blue-eyed heroine looks like the protagonist of an emotional “famous quote” chapter.
+
+  Canvas: Vertical manga page, 4:5 aspect ratio, high-resolution monochrome ink with screentones, delicate linework, cinematic panel composition. Mostly grayscale, but keep the heroine’s eyes subtly colored pale blue for a striking focal point.
+
+  Layout: Use exactly 4 distinct manga areas: 1) a large main right-side panel occupying about two-thirds of the page with the heroine seated among flowers, 2) a small top-left inset panel showing only black lace-up boots stepping on scattered papers with a small speech balloon, 3) a middle-left inset panel showing a hand holding or reaching toward a letter with a speech balloon, and 4) a narrow lower-left background panel with a fence, trees, flowers, and large hand-drawn sound effects. Add diagonal panel borders and overlapping art elements so flowers and hair break across panel edges.
+
+  Main subject details: The heroine is a beautiful teenage manga girl with long flowing dark hair, thick bangs, large luminous blue eyes, a calm but determined expression, and soft blush shading. She wears a romantic floral-patterned kimono or dress with layered fabric, a dark bow at the chest, and small flower ornaments woven into her hair near one ear. She reaches one hand toward the viewer in the foreground, fingers elegant and slightly foreshortened. Surround her with many blooming flowers, drifting petals, leaves, and wind-swept hair strands.
+
+  Text content: Include a large Japanese chapter title across the left-center in ornate manga lettering: 深灰青に咲く、嘘と願いの記憶. Beneath it add the smaller subtitle: 第7話「綻ぶ手紙」. In the top-left boot panel, add a small vertical speech balloon reading もう読んだよ. In the middle-left letter panel, add handwritten Japanese text reading "君には、この街のために力になってほしい". In the large main panel, place one tall oval speech balloon on the lower right with bold vertical Japanese dialogue: 誰かの都合で私の未来は決めさせない。. Add expressive Japanese manga sound effects including "カサッ", "ポタ…", and a large sweeping "ヒュオオオーー…" across the lower area.
+
+  Visual style: Authentic serialized manga page, shoujo drama, elegant emotional atmosphere, crisp black ink, halftone gradients, detailed hair highlights, floral motifs, subtle paper texture, dynamic wind and petals. The composition should feel like a climactic quote scene from a manga chapter.
+
+  Constraints: No color except the heroine’s pale blue eyes, no modern UI, no watermark, no extra panels beyond the 4 specified areas, keep all Japanese text legible and integrated into the manga artwork.

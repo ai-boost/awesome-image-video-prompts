@@ -1,0 +1,38 @@
+id: gpt-image-vocaloid-mv-nine-panel-character-grid
+title:
+  en: Nine Panel Vocaloid Style Anime Music Video Grid
+  zh: 九宫格 Vocaloid 风格动画 MV 角色分镜
+model: GPT Image 2.5
+mode: image-edit
+category: comic
+tags:
+- anime
+- storyboard
+- grid
+- vocaloid
+- reference-character
+source:
+  name: '@8co28 on X'
+  url: https://x.com/8co28/status/2097412340274934097
+  credit: 852話(hakoniwa)
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-08'
+notes:
+  en: A numbered plan of exactly nine panels fixes the crop, pose, angle and background of every cut, while the reference image keeps the character consistent. A limited palette of red, blue, cyan and white and a ban on UI or captions give the grid a unified flat MV look.
+  zh: 逐格编号的九个分镜分别锁定景别、姿势、机位和背景，参考图负责保持角色一致。红蓝青白的有限配色，加上禁止界面和字幕，让整张图呈现统一的扁平 MV 风格。
+prompt: |
+  Using REFERENCE_1 as the character base, create a 16:9 image made of exactly 9 equal panels in a 3×3 grid, like energetic Vocaloid music-video cuts. Keep the character design consistent, but vary pose, camera angle, crop, facial expression, and background in every panel. Use a flat, clean anime MV style with bold red, blue, cyan, and white graphic shapes, crisp line art, high contrast, and no UI, captions, watermark, or screenshot frame.
+
+  Panel plan, exactly 9 cuts:
+  1. Extreme close-up crop of the character’s eyes and bangs with a blue-and-white spiral graphic background.
+  2. Full-body dynamic jump/dance pose on a red-and-white checkerboard floor against a deep blue background.
+  3. Side-profile close-up with eyes closed, hair flowing dramatically, and a large white circle on a red background.
+  4. Chibi-like forced-perspective shot reaching one gloved hand toward the camera inside a bold blue-and-white circular graphic.
+  5. Front upper-body idol pose, winking and pointing both fingers toward the cheeks, with red, cyan, and white burst shapes and sparkles.
+  6. Three-quarter back view looking over the shoulder in front of a blue nighttime city window scene.
+  7. Close-up of the red sneakers and legs running or stepping across cyan speed lines.
+  8. Tiny full-body running figure across floating white piano-key platforms, with red circles and cyan audio-wave graphics on a dark blue background.
+  9. Happy close-up reaching one gloved hand toward the viewer, smiling with eyes closed, surrounded by red and blue confetti.
+
+  Overall direction: make the grid feel like a polished animated opening or Vocaloid MV storyboard for this character; preserve the reference character’s identity while prioritizing varied cinematic cuts and rhythmic graphic backgrounds.

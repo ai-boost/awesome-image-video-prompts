@@ -1,0 +1,25 @@
+id: nano-banana-floating-outfit-fashion-editorial
+title:
+  en: Floating winter outfit with labeled fabric callouts
+  zh: 悬浮冬装搭配与面料标注图
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- levitation
+- outfit
+- labels
+- editorial
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2034474068087566463
+  credit: M-studioAi
+  likes: 140
+  captured: '2026-10-29'
+  posted: '2026-03-18'
+notes:
+  en: A bottom to top garment list with bracketed slots fixes the layering order, and per-fabric physics lines keep wool, silk and leather behaving differently. Hairline leader labels, a three-light setup and a serif title block turn it into a fashion editorial.
+  zh: 按自下而上的顺序列出单品并用方括号留出可替换位置，再逐种面料描述物理表现，让羊毛、丝绸和皮革各有质感。细引线标签、三重布光和衬线标题把画面做成时装大片。
+prompt: |
+  Complete [STYLE] outfit floating in its exact worn position around  an invisible body with every piece suspended mid-breath, mid-billow.  LOOK (bottom to top): [FOOTWEAR] → [BOTTOMS] → [TOP] → [LAYER] →  [ACCESSORIES] → [JEWELLERY] → [HEADWEAR]  FABRIC PHYSICS: each material true to its weight, wool hangs,  silk drapes, denim holds its crease, leather keeps its shape.  Every edge lifting slightly as if caught in one silent gust.  LABELS: hairline leader to floating label box. "[GARMENT]" uppercase / "[FABRIC]" italic / "[ONE DEFINING DETAIL]"  LIGHTING: soft directional from upper left + warm fill from below  catching linings and sole edges + cool rim outlining the silhouette. BACKGROUND: [COLOR] seamless, fashion-forward. TITLE: "[LOOK NAME]" elegant serif type, top right. SUBTITLE: "[MOOD / OCCASION]" italic.  Mood: high-concept levitation editorial, the outfit exists,  the person is imagination. 4K, extraordinary fabric fidelity, tack sharp.

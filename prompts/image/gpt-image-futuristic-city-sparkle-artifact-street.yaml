@@ -1,0 +1,26 @@
+id: gpt-image-futuristic-city-sparkle-artifact-street
+title:
+  en: Futuristic City Street With Sparkling Noise Artifacts
+  zh: 布满闪烁噪点的未来城市街景
+model: GPT Image 2
+mode: text-to-image
+category: architecture
+tags:
+- sci-fi-city
+- noise-artifacts
+- vertical
+- utopian
+- architecture
+source:
+  name: '@mark_k on X'
+  url: https://x.com/mark_k/status/2046915269784731941
+  credit: Mark Kretschmann
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the camera at pedestrian level looking up, gives exact counts for people and vehicles, and names the artifact layer with its coverage so the noise is applied evenly. The painterly style and soft focus tie the glitter into the scene.
+  zh: 机位固定在行人视角仰拍，并给出人物和飞行器的确切数量，同时点明噪点层及其覆盖范围，让闪烁颗粒均匀分布。绘画感和柔焦让颗粒融入画面。
+prompt: |
+  A bright daytime futuristic city street viewed from pedestrian level, looking upward through a canyon of tall sleek skyscrapers with blue-tinted glass facades, rounded balconies, layered terraces, and elegant sci-fi architecture. The scene shows a bustling urban promenade with about 12 visible pedestrians in the foreground and midground, casually dressed and walking away from the viewer, including one central figure in a gray jacket. At the upper left, include 1 small hovering flying vehicle or drone-like air taxi. The buildings are highly reflective and polished, with integrated greenery: trees along the walkway and planted terrace edges. The sky is clear blue with soft sunlight, giving the image a clean optimistic utopian mood. Across the entire image, add a conspicuous artifact layer of dense multicolored sparkling dots and specks, like a noisy pixel grid or glittering digital contamination scattered uniformly over the architecture, people, sky, and street. Use a painterly semi-realistic style with soft focus, luminous highlights, vertical composition, and cinematic depth.

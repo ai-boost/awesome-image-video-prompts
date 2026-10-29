@@ -1,0 +1,36 @@
+id: gpt-image-longjing-tea-infographic-upscale
+title:
+  en: Longjing Tea Infographic Cleaned Upscale
+  zh: 龙井茶信息图清晰化重绘
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- infographic
+- upscale
+- tea
+- layout-preserving
+- chinese-design
+source:
+  name: '@op7418 on X'
+  url: https://x.com/op7418/status/2068239294372987378
+  credit: 歸藏(guizang.ai)
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-20'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Takes a reference image and locks the layout, text and exact panel and icon counts, so only texture and detail change. It names what to sharpen and what meaningful scenery to add, which replaces noisy artifacts with intentional detail.
+  zh: 以参考图为基础,锁定版式、文字以及面板和图标的确切数量,只改变质感与细节。明确指出要锐化的元素和要补充的景物,用有意义的细节取代杂乱的噪点。
+prompt: |
+  Using the provided reference image, redraw and upscale it into a cleaner, sharper, more polished version while preserving the same overall infographic layout, all original text content, and the Longjing tea theme. Keep the product title 龙井茶 and the English subtitle Longjing Tea unchanged.
+
+  Goal: Make the image look less like a rough GPT-generated graphic by removing broken, noisy, meaningless textures and replacing them with crisp, intentional detail.
+
+  Enhancements to apply: Increase resolution and clarity; sharpen typography, icons, borders, tea leaves, glass, and card edges; make the lighting softer and more natural; improve material realism for the tea, cup, dried leaves, and ceramic dish; clean up any fuzzy or fragmented artifacts.
+
+  Meaningful detail additions: In the main hero panel, replace the vague pale background with a refined scenic tea plantation landscape of layered green terraces, misty mountains, and a wooden tabletop beneath the tea cup and plate. In the origin card, add a small matching tea-terrace landscape illustration at the bottom. Make the bottom green banner more vivid with a natural leaf-vein texture.
+
+  Layout constraints: Preserve exactly 7 visible content panels/sections: the large hero panel, origin card, features card, flavor card, brewing suggestion card, grade-and-picking card, and bottom slogan banner. Preserve exactly 4 feature rows in the features card, exactly 3 small icon benefits in the hero panel, and exactly 3 brewing parameter icons along the bottom of the brewing card. Do not add extra sections, extra labels, watermarks, logos, or decorative clutter.
+
+  Style: Elegant Chinese tea brochure design, cream-and-sage palette, refined minimal UI cards, soft shadows, crisp vector-like icons, realistic tea photography elements, calm premium product-advertising finish.

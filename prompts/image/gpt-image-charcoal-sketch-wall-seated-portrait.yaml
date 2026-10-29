@@ -1,0 +1,121 @@
+id: gpt-image-charcoal-sketch-wall-seated-portrait
+title:
+  en: Seated woman before giant charcoal sketch portrait
+  zh: 巨幅炭笔素描前坐着的真人女性肖像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- charcoal-sketch
+- layered-composite
+- identity-lock
+- editorial-portrait
+source:
+  name: '@Kubra_286 on X'
+  url: https://x.com/Kubra_286/status/2102597090534649952
+  credit: Kubra Ai
+  likes: 122
+  captured: '2026-10-29'
+  posted: '2026-09-23'
+notes:
+  en: A sepia charcoal sketch of the same face fills the wall while a full color photoreal portrait sits in front, so the monochrome against color contrast creates depth. A long identity lock block with explicit do not rules keeps the face consistent in both versions.
+  zh: 同一张脸的棕褐色炭笔素描铺满墙面，前景是全彩写实坐姿人像，单色与全彩的对比拉开层次。用一整段身份锁定加明确的禁止条目，让素描和真人保持同一张脸。
+prompt: |
+  Create a layered composite portrait of the SAME FEMALE PERSON from the uploaded face reference image.
+
+  CONCEPT:
+  A massive, highly detailed charcoal/pencil sketch portrait fills the background like a hand-drawn wall mural, while a sharp full-color photorealistic seated portrait of the same woman appears in the foreground on a dark reflective floor.
+
+  BACKGROUND SKETCH PORTRAIT:
+  Large detailed black-and-white pencil and charcoal sketch of the same woman, head turned slightly to the side. Preserve her exact hairstyle and hair texture, facial features, eyebrows, eyes, nose, lips, jawline and natural facial proportions. The sketch should have visible pencil hatch strokes, charcoal shading, fine facial linework and realistic hand-drawn texture. Add rough torn-paper edges, ink-splatter marks and charcoal dust surrounding the sketch, blending naturally into a warm sepia-grey textured wall.
+
+  FOREGROUND FEMALE SUBJECT:
+  The same woman is seated casually on the floor. One leg is bent with the knee raised and one forearm resting naturally on the knee; the other leg extends outward to the side. Her torso is slightly turned, head tilted while looking off to the side, with a calm, thoughtful and natural expression.
+
+  IDENTITY LOCK — HIGHEST PRIORITY:
+  Use ONLY the uploaded female face reference image for facial identity and facial structure in BOTH the background sketch and the foreground photorealistic woman.
+
+  The foreground woman and background sketch must represent EXACTLY the same real person.
+
+  Preserve the exact:
+
+  - Face shape
+  - Jawline and jaw width
+  - Cheek structure
+  - Forehead shape
+  - Exact hairline
+  - Hairstyle and hair texture
+  - Eyebrow shape
+  - Eye shape, size and spacing
+  - Nose structure
+  - Lip shape and proportions
+  - Natural facial features
+  - Skin tone
+  - Skin texture
+  - Natural facial imperfections
+  - Overall feminine facial proportions
+
+  ZERO identity change.
+
+  Do NOT beautify or alter the face.
+  Do NOT change her age or facial structure.
+  Do NOT feminize or masculinize the face.
+  Do NOT smooth away natural skin texture.
+  Do NOT make her look like a celebrity or model.
+  Do NOT use a generic female face.
+  Do NOT introduce facial morphing.
+  Do NOT change her hairstyle or hairline unless required by the reference.
+  Do NOT create a different person.
+
+  The uploaded reference image is the ONLY source of facial identity.
+
+  BODY:
+  Natural feminine body proportions, realistic physique, natural skin tone and relaxed seated posture.
+
+  OUTFIT:
+  Black hooded sweatshirt with visible drawstrings, light grey jogger sweatpants and clean white-and-grey sneakers.
+
+  ENVIRONMENT:
+  Warm sepia-grey textured wall covered by the giant detailed pencil/charcoal portrait. Rough ink-splatter, charcoal dust and expressive pencil marks spread naturally around the sketch. Dark polished reflective floor beneath the seated woman, creating a subtle soft mirror reflection.
+
+  COMPOSITION:
+  Vertical editorial poster composition.
+  The large background sketch dominates the frame while the full-color seated woman is clearly separated in the foreground.
+  Strong visual depth between the hand-drawn portrait and realistic subject.
+  Balanced negative space.
+  Premium fashion-editorial composition.
+
+  LIGHTING:
+  Soft, even studio lighting from the front.
+  Minimal harsh shadows.
+  Warm neutral illumination.
+  Natural skin highlights.
+  Subtle controlled reflections on the dark floor.
+
+  COLOR GRADING:
+  Background: sepia-grey monochrome charcoal/pencil aesthetic.
+  Foreground: natural full-color female subject with realistic warm skin tones.
+  Strong but elegant contrast between the monochrome sketch and realistic woman.
+  Clean high-contrast editorial poster color grading.
+
+  CAMERA / QUALITY:
+  Sony A7R IV
+  50mm lens
+  f/1.8
+  Foreground subject tack sharp.
+  Extremely detailed skin texture, individual hair strands and clothing fabric.
+  Background pencil strokes, charcoal shading and ink-splatter texture highly detailed.
+  Ultra-photorealistic.
+  Premium editorial photography.
+  Natural depth of field.
+  Realistic materials and reflections.
+  4K-level detail.
+  Zero AI-looking artifacts.
+
+  NEGATIVE PROMPT:
+  No identity change, no different face, no generic female face, no celebrity resemblance, no face-swap artifacts, no facial distortion, no asymmetrical eyes, no extra fingers, no extra limbs, no malformed hands, no duplicated body parts, no plastic skin, no excessive skin smoothing, no beauty filter, no cartoon, no anime, no unrealistic body proportions, no blurry face, no low resolution, no watermark, no text, no logo.
+
+  OUTPUT:
+  Aspect Ratio: 3:4
+  Photorealistic female portrait
+  Identity preservation is the absolute highest priority.

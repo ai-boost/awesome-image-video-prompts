@@ -1,0 +1,31 @@
+id: nano-banana-miniature-self-figurine-in-hand
+title:
+  en: Woman Holding Miniature Figurine of Herself
+  zh: 女子掌托自己的迷你手办
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- forced-perspective
+- miniature-figurine
+- face-reference
+- wide-angle
+- scale-illusion
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2031190193253056883
+  credit: Hania Ai
+  likes: 111
+  captured: '2026-10-29'
+  posted: '2026-03-10'
+notes:
+  en: A forced perspective setup with a 24mm lens places the figurine in the foreground and the woman in the mid ground. The uploaded face reference is reused for both, and the prompt repeats the outfit so the figurine matches. Skin detail on the hand and a soft bokeh garden background sell the scale illusion.
+  zh: 用24mm广角和强制透视，把手办放在前景、真人放在中景。真人和手办共用同一张上传的人脸参考，并重复描述服装让两者保持一致。手部皮肤细节清晰，花园背景虚化柔和，强化了大小反差的错觉。
+prompt: |
+  A hyper-realistic, forced-perspective wide-angle photography shot captured with a 24mm lens, featuring a woman holding a highly detailed miniature figurine of herself in her outstretched right hand, creating a playful scale illusion. The woman in the mid-ground, identified by the uploaded face as reference, wears a black and grey plaid flannel shirt left unbuttoned over a black graphic t-shirt with a yellow and white logo, paired with blue jeans, and is smiling warmly with a soft focus applied to her face.
+
+  The miniature figurine in the immediate foreground is a perfect scale replica, also featuring the uploaded face as reference but with a slightly stylized, hand-painted resin texture, wearing the exact same outfit including the plaid shirt, graphic tee, distressed denim jeans with rips, and grey sneakers, standing on a small circular grey concrete base.
+
+  The hand holding the base is rendered with extreme dermatological fidelity, showing skin pores, knuckles, and fingerprints in razor-sharp focus. The background is a picturesque English countryside garden featuring a stone cottage with a chimney, a wooden archway covered in climbing purple wisteria, lush green lawns, and vibrant pink rose bushes, all bathed in soft, diffused natural daylight with a shallow depth of field that creates a creamy bokeh effect on the distant architecture and foliage.
+
+  8K resolution, cinematic lighting, photorealistic textures, 2:3 ratio.

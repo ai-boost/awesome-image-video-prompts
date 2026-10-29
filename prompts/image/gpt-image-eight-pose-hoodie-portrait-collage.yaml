@@ -1,0 +1,25 @@
+id: gpt-image-eight-pose-hoodie-portrait-collage
+title:
+  en: Eight Pose Portrait Collage in Blue Hoodie
+  zh: 蓝色卫衣女孩八种姿势人像拼图
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- photo-collage
+- pose-sheet
+- consistent-character
+- studio-portrait
+- grid
+source:
+  name: '@Adnan_Ai2 on X'
+  url: https://x.com/Adnan_Ai2/status/2103321407883214989
+  credit: Adnan
+  likes: 50
+  captured: '2026-10-29'
+  posted: '2026-09-25'
+notes:
+  en: The reference photo anchors identity, and the prompt lists the outfit and the teal studio background so they stay fixed across panels. Eight numbered actions in a 2x4 grid, plus constraints on hands and duplicate body parts, give varied poses with a consistent look.
+  zh: 以参考图锁定人物身份，并逐项写明服装与青蓝色影棚背景，保证各格一致。用编号列出八个动作，排成2×4网格，再约束手部和重复肢体，得到姿势多样但形象统一的拼图。
+prompt: |
+  Create a photorealistic 2×4 action collage using the reference image, featuring the exact same girl in all eight panels. Preserve her facial identity, long straight dark hair, light blue oversized hoodie, white top, blue jeans and butterfly necklace consistently. Keep the same teal-blue cinematic studio background, soft glowing lights, subtle bokeh and realistic portrait lighting. Show eight different actions: 1) waving hello, 2) pointing toward the camera with a cute wink, 3) laughing naturally, 4) taking a playful smartphone selfie, 5) posing with both hands on her cheeks, 6) making a heart shape with both hands, 7) sitting on a stool while looking back over her shoulder, 8) celebrating happily with one arm raised. Arrange everything in a clean 2×4 grid with clear separation, realistic skin and hair, natural hands and fingers, accurate body proportions, consistent outfit and face, cinematic depth of field, professional photography, ultra-realistic 4K, sharp details, no distortion, no duplicate body parts.

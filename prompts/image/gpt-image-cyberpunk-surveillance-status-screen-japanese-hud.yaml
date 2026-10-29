@@ -1,0 +1,26 @@
+id: gpt-image-cyberpunk-surveillance-status-screen-japanese-hud
+title:
+  en: Cyberpunk Operative Surveillance Status Screen in Japanese
+  zh: 日文赛博朋克特工监控状态界面
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- hud
+- anime
+- cyberpunk
+- status-screen
+- japanese-text
+source:
+  name: '@himukai_an on X'
+  url: https://x.com/himukai_an/status/2048410685835719053
+  credit: 日向_AI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-26'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt numbers every UI panel and gives each a position, a Japanese label and its contents, so the dense HUD layout stays organized around the central figure. A high security camera angle, scanlines and a restricted blue gray palette keep the dossier look consistent.
+  zh: 提示词给每个界面面板编号，并写明位置、日文标签和内容，让密集的 HUD 围绕中央人物保持有序。监控摄像头式的俯视角度、扫描线和克制的蓝灰配色让档案质感保持统一。
+prompt: |
+  A cinematic anime-style futuristic surveillance status screen showing a full-body young man standing in the center of a dark industrial corridor, viewed from a slightly high angle as if captured by a security camera. He is a tall, lean, athletic male with messy silver-gray hair, pale skin, and a cool, dangerous presence, wearing a black sleeveless high-neck shirt, black tactical pants with straps and side pockets, a black belt with hanging chain details, heavy black combat boots, and a black jacket slipping off his shoulders. His expression is serious and unreadable, framed by a glowing scan bracket around the face like a live target lock. The overall image is a high-tech HUD dossier overlay in a blue-gray and black palette with subtle cyan interface lines, screen noise, scanlines, and a moody cyberpunk thriller atmosphere. The layout contains 10 distinct UI panels around the character: 1 top-left recording strip with a red REC indicator, timestamp, camera code, location, and video specs; 1 left upper identification panel labeled 観察対象 with subject data including codename Raven and ID; 1 left middle warning panel labeled 重要人物 with risk level A and other threat notes; 1 left lower basic profile panel labeled 基本情報 listing name, age, height, birth date, job, personality, likes, and dislikes; 1 bottom-left vital monitor panel labeled バイタルモニタ with 2 waveform graphs and numeric readouts for heart rate, temperature, and stress; 1 lower-left action log panel labeled 行動ログ with 6 timestamped entries; 1 large upper-right facial recognition panel labeled 顔認識ズーム showing 1 zoomed portrait crop, a match result for RAVEN, a 99.7% accuracy bar, and verified status; 1 right middle identification details panel labeled 識別情報 with ID, codename, affiliation unknown, and a paragraph of notes; 1 right lower target analysis panel labeled ターゲット分析 with 1 wireframe human figure and multiple stat lines including height, weight, body fat, muscle mass, combat ability, mobility, intelligence, danger level, and a large overall evaluation A+; 1 bottom-right current location panel labeled 現在位置 with 1 minimap floor plan, a glowing position dot, and camera label CAM-07. Add 1 bottom-center tracking progress bar reading TRACKING... at 97.6%, 1 bottom-left surveillance memo box labeled 監視メモ with 3 short bullet-style notes, and 1 bottom barcode strip with the code RX-0417-17 / TOP PRIORITY. Include small top-right system text such as SYSTEM ONLINE and SECURE LINK : OK. Use Japanese text throughout the interface, crisp thin-line sci-fi frames, layered transparent screens, realistic lighting on the character, and polished gpt-image-2 anime illustration quality, like a classified character status display for a covert operative named Raven.

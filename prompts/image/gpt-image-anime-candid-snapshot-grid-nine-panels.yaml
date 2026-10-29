@@ -1,0 +1,42 @@
+id: gpt-image-anime-candid-snapshot-grid-nine-panels
+title:
+  en: Nine candid anime snapshots of one character
+  zh: 同一角色的九宫格动漫随手拍
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- anime
+- grid
+- candid
+- character-consistency
+- slice-of-life
+source:
+  name: '@8co28 on X'
+  url: https://x.com/8co28/status/2099164852560539975
+  credit: 852話(hakoniwa)
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-13'
+notes:
+  en: A reference image anchors the character, while a numbered panel by panel list gives each cell its own framing, such as motion blur, a finger over the lens, a silhouette or a rear view. Amateur photo cues like grain and mixed daylight, warm indoor and dusk light, plus a locked outfit constraint, keep the set cohesive.
+  zh: 以参考图锁定角色,再按编号逐格指定构图,如动态模糊、手指遮镜头、剪影和背影。颗粒感与多种光线营造业余随手拍质感,并用统一服装约束保证整组一致。
+prompt: |
+  Using the provided reference image as the character base, generate a 3x3 grid of 9 distinct square panels. Each panel should depict the same character in different candid, slice-of-life scenarios, styled to look like casual snapshots or social media posts.
+
+  Layout: A perfectly aligned 3x3 grid with thin white borders separating the panels.
+
+  Style & Atmosphere: The overall aesthetic should be soft, slightly grainy, and naturalistic, mimicking amateur photography. Use varied lighting conditions (daylight, indoor warm light, dusk) and camera angles (close-ups, medium shots, full-body shots).
+
+  Panel Content Instructions:
+  1. Top Left: Motion blur effect, character looking back over shoulder outdoors.
+  2. Top Center: Character sitting at a cafe table with an iced coffee drink in the foreground, resting chin on hand.
+  3. Top Right: Close-up selfie angle, partially obscured by a finger or thumb covering part of the lens.
+  4. Middle Left: Character making a peace sign near their face, winking or squinting against bright sunlight.
+  5. Middle Center: Silhouette shot against a bright window, standing indoors.
+  6. Middle Right: Low-angle street shot, character walking past a concrete wall.
+  7. Bottom Left: Extreme close-up of face, mouth open in surprise or mid-speech.
+  8. Bottom Center: Night/dusk scene, character walking away down a dimly lit street with streetlights.
+  9. Bottom Right: Rear view of character walking along a sidewalk next to a fence.
+
+  Constraints: Maintain consistent character design (hair color, outfit details like the oversized dark hoodie/sweater and shorts) across all panels. Ensure high variety in composition and mood.

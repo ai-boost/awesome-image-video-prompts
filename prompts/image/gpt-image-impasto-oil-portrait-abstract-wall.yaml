@@ -1,0 +1,30 @@
+id: gpt-image-impasto-oil-portrait-abstract-wall
+title:
+  en: Impasto Oil Portrait Against Abstract Wall
+  zh: 抽象墙面前的厚涂油画肖像
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- oil-painting
+- impasto
+- portrait
+- palette-knife
+- editorial
+source:
+  name: '@mon010_de on X'
+  url: https://x.com/mon010_de/status/2058033940305469461
+  credit: Harry Potter
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Names the medium cues directly (impasto, palette knife, visible brush strokes) and sets a warm color scheme of orange, beige and deep blue for the wall. Adds a relaxed pose, a sideways gaze and layered clothing details to keep the figure grounded in the painted texture.
+  zh: 直接点明油画媒介特征（厚涂、刮刀、可见笔触），并为墙面设定橙、米、深蓝的暖色调。再加入放松的坐姿、侧视目光和层次服饰细节，让人物与绘画质感融为一体。
+prompt: |
+  Ultra-realistic expressive oil painting portrait of a handsome young man with medium-length messy blonde hair and sun-kissed skin, sitting casually against a textured abstract wall with orange, beige, and deep blue paint strokes. He is looking sideways with a calm, thoughtful expression. He wears an oversized olive-green satin shirt over a white t-shirt, layered silver necklaces, rings, bracelets, and a luxury wristwatch.
+
+  The artwork features dramatic warm lighting, cinematic shadows, highly detailed brush strokes, painterly texture, rich impasto oil paint style, modern contemporary art aesthetic, realistic facial anatomy, rugged masculine features, soft glowing skin tones, relaxed pose with one arm resting on his knee.
+
+  Background is abstract and artistic with rough palette knife textures and mixed earthy colors. Moody luxury vibe, editorial fashion portrait, museum-quality oil painting, ultra-detailed, high contrast, 8k resolution, masterpiece composition.

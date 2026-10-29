@@ -1,0 +1,25 @@
+id: gpt-image-sunglasses-denim-vest-studio-portrait
+title:
+  en: Woman in sunglasses and denim vest portrait
+  zh: 戴墨镜穿牛仔马甲的女士棚拍肖像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- fashion
+- portrait
+- studio
+- reference-image
+- realistic-skin
+source:
+  name: '@Kubra_286 on X'
+  url: https://x.com/Kubra_286/status/2101270213962702877
+  credit: Kubra Ai
+  likes: 57
+  captured: '2026-10-29'
+  posted: '2026-09-19'
+notes:
+  en: Matches a reference image on pose, framing and lighting, then lists hair, eyewear, clothing and watch one by one. Explicit anatomy and skin texture clauses for the hand and face guard against plastic skin and bad fingers.
+  zh: 以参考图锁定姿势、构图和光线，再逐项描述发型、墨镜、服装和手表。针对手部结构和皮肤质感的明确要求，可避免塑料感皮肤和手指畸形。
+prompt: |
+  Create a highly realistic premium fashion portrait of a young woman in composition, closely matching the overall visual aesthetic, pose, framing, lighting, and styling of the reference image. The woman has long, naturally flowing dark brown to black hair, with soft volume and realistic individual strands. Her hair falls naturally over both shoulders and around her upper body, with wispy bangs/fringe gently covering part of her forehead. Hair should look soft, dense, silky, and naturally textured rather than artificially perfect. She is wearing large black rectangular sunglasses with a sophisticated glossy frame and dark tinted lenses. The sunglasses sit naturally on her face and have realistic reflections and subtle highlights. Her face has soft, delicate feminine features, a naturally shaped nose, softly defined lips with a subtle pink tone, smooth but realistic skin, natural cheeks, and believable facial proportions. Preserve realistic skin texture with subtle pores and fine details; avoid excessive skin smoothing or a plastic appearance. Her body is positioned in a relaxed three-quarter seated pose, with her upper body slightly angled toward the side while her face is turned toward the right side of the frame. Her expression is calm, elegant, relaxed, and subtly confident. One hand is raised naturally beside her cheek/ear area, with the fingers gently touching the side of her face and hair. The hand must have anatomically accurate fingers, realistic joints, natural proportions, detailed skin texture, and believable positioning. Her other arm rests naturally lower in the composition. She wears a white long-sleeve shirt underneath a light-wash denim vest/jacket, with realistic denim texture, visible stitching, seams, buttons, natural fabric folds, and subtle variations in the material. The white shirt has naturally rolled/slightly gathered sleeves with realistic wrinkles and fabric behavior. On her wrist is a black luxury-style analog wristwatch, featuring a round

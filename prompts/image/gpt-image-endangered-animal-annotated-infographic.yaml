@@ -1,0 +1,25 @@
+id: gpt-image-endangered-animal-annotated-infographic
+title:
+  en: Endangered red panda annotated wildlife infographic
+  zh: 濒危小熊猫带标注的野生动物信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- wildlife
+- annotated-callouts
+- photorealistic
+- color-blocking
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2047704250327920716
+  credit: Harboris
+  likes: 477
+  captured: '2026-10-29'
+  posted: '2026-04-24'
+notes:
+  en: 'The prompt lets the model research and pick the animal, then fixes the layout: one photorealistic hero subject, callouts that point at body parts, and graphic shapes and icons in color blocks. Asking for annotated visuals instead of generic sections gives a dense, layered poster.'
+  zh: 提示词让模型自行查资料并选定动物，再固定版式：一个写实主体居中，用引线标注身体部位，配合色块和图标做分层。要求用标注式视觉而不是普通分段，画面因此信息密集、层次丰富。
+prompt: |
+  Create a visually rich infographic about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.

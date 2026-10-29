@@ -1,0 +1,40 @@
+id: gpt-image-giant-croissant-woodland-picnic-tug-of-war
+title:
+  en: Woman tugging giant croissant with rabbit and squirrels
+  zh: 女子与兔子松鼠在森林野餐中争抢巨型可颂
+model: GPT Image 2.5
+mode: image-edit
+category: realism
+tags:
+- fantasy
+- giant-food
+- woodland
+- animals
+- golden-hour
+source:
+  name: '@Adnan_Ai2 on X'
+  url: https://x.com/Adnan_Ai2/status/2107434655083577768
+  credit: Adnan
+  likes: 79
+  captured: '2026-10-29'
+  posted: '2026-10-06'
+notes:
+  en: Locks one character by fixing her outfit, hair and proportions, then lays out the scene as ordered shots with camera moves such as a pull back reveal, a low angle and a slow motion lift. A closing stack of realism cues (fur, crumbs, golden hour rays, depth of field) and a negative list keeps the giant food and animals believable.
+  zh: 先固定人物的服装、发型和比例来锁定角色，再按镜头顺序写出场景，包含拉远揭示、低机位和慢动作上举等运镜。结尾堆叠毛发、碎屑、金色逆光和景深等写实要求，并附负面清单，让巨型食物和动物显得可信。
+prompt: |
+  🎬 Prompt 2 — More Viral / Magical AI Video
+  Generate a premium photorealistic fantasy short film in a magical woodland picnic environment. Maintain one consistent young woman as the main character from beginning to end. She has natural facial features and wears a brown leather jacket, beige patterned scarf, light neutral trousers and brown ankle boots. Her appearance, clothing, hairstyle and proportions must remain consistent in every shot.
+
+  Open with an extreme close-up of a giant golden croissant resting on a rustic picnic table, surrounded by glossy strawberry jam, fresh strawberries, toast, butter and berries. Slowly pull the camera backward to reveal a beautiful forest picnic surrounded by enormous adorable rabbits and squirrels. Warm sunlight shines through the trees, creating cinematic golden rays and creamy background bokeh.
+
+  The woman enters the frame and tries to pick up the enormous croissant. Suddenly a giant fluffy rabbit grabs the other side. Create a playful tug-of-war between the woman and the rabbit. The croissant bends naturally under tension, small crumbs fall realistically, and the woman reacts with surprise and laughter.
+
+  Change to a low-angle cinematic shot where the woman loses balance and sits down among the picnic food while several cute woodland animals surround her. She looks shocked for a moment, then becomes amused as the animals curiously inspect the food around her.
+
+  Next, focus on a large glass jar filled with bright red strawberry jam. A tiny colorful forest bird lands on the jar, looks around, grabs a fresh strawberry and flies toward the woman. The camera follows the bird with a smooth tracking movement while the background remains softly blurred.
+
+  Cut to a dramatic slow-motion shot of the woman lifting an enormous croissant above her head with both hands. She looks upward in amazement while golden crumbs and tiny pastry flakes fall around her. Giant rabbits and squirrels watch from behind her.
+
+  Finish with a warm emotional close-up: the woman sits at the picnic table, smiling while holding a strawberry-covered piece of toast. A cute squirrel sits beside her and a rabbit approaches gently from the other side. She looks toward the animals and smiles naturally.
+
+  Make the entire video visually rich, magical yet believable, with realistic animal movements, detailed fur, realistic food textures, natural human motion, cinematic depth of field, golden-hour lighting, volumetric sun rays, subtle lens flare, smooth camera transitions, professional commercial-film quality, highly detailed photorealism, realistic shadows, consistent character identity, vertical 9:16 format, no glitches, no deformed anatomy, no duplicate animals, no text, no watermark.

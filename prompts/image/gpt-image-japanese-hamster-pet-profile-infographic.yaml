@@ -1,0 +1,26 @@
+id: gpt-image-japanese-hamster-pet-profile-infographic
+title:
+  en: Cute Japanese Hamster Pet Profile Infographic
+  zh: 可爱日式仓鼠宠物档案信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- pet-profile
+- japanese-text
+- json-prompt
+- hamster
+source:
+  name: '@Mugicha_Happy on X'
+  url: https://x.com/Mugicha_Happy/status/2046873545314287689
+  credit: AIハムスターむぎちゃ♂🐹
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A JSON prompt lists every section with its position, item count and exact Japanese labels, so the dense layout stays organized around a centered hero portrait. Argument placeholders for the name, headline and footer make it easy to reuse for another pet.
+  zh: JSON 提示词逐块写明每个板块的位置、条目数量和日文标签，让密集排版围绕居中的主角肖像保持有序。名字、标题和页脚用参数占位，换成别的宠物也能直接复用。
+prompt: |
+  {"type":"cute hamster infographic poster","subject":{"animal":"male Syrian hamster","nickname":"{argument name=\"character name\" default=\"むぎちゃ\"}","appearance":{"fur":"golden beige with cream belly","eyes":"large glossy black eyes","ears":"small rounded ears with dark gray edges","nose":"soft pink nose","paws":"tiny pink front paws held together at chest","body":"round fluffy body, sitting upright on bedding"}},"style":{"overall":"adorable Japanese pet guide poster, warm and cozy, highly detailed, soft realistic photo-illustration look","palette":"cream, beige, warm brown, pastel yellow, soft pink","mood":"friendly, informative, playful, affectionate","background":"light cream paper texture with subtle dots, stars, hearts, and hand-drawn accent marks"},"layout":{"format":"portrait infographic","centerpiece":"large front-facing hamster portrait centered on wood shavings","sections":[{"title":"キングマハムスターの男の子 むぎちゃ を徹底解剖！","position":"top header","count":1,"labels":["main title with crown doodle and subtitle"]},{"title":"むぎちゃの基本情報","position":"top right","count":7,"labels":["種類","名前","性別","誕生日","体長","体重","性格"]},{"title":"むぎちゃのチャームポイント","position":"upper left","count":4,"labels":["つぶらなまんまるおめめ","まんまるほっぺ","ふわふわボディ","プリッとしたおしり"]},{"title":"central callouts","position":"around centerpiece","count":6,"labels":["お耳","好きなひま種！","ピンクのお鼻","小さなおてて","むぎちゃは男の子！","speech bubble portrait introduction"]},{"title":"むぎちゃの一日（例）","position":"mid right","count":7,"labels":["19:00 おはよう！活動開始","20:00 夜の探検タイム！","21:00 ごはんタイム","22:00 回し車でランニング！","23:00 おやつの時間","01:00 のんびりタイム","07:00 おやすみなさい…zzz"]},{"title":"むぎちゃのおうち","position":"bottom left","count":1,"labels":["cage photo with habitat notes"]},{"title":"むぎちゃの大好物ランキング","position":"bottom center-left","count":3,"labels":["1位 ひまわりのタネ","2位 とうもろこし","3位 ブロッコリー"]},{"title":"むぎちゃの表情いろいろ","position":"bottom center-right","count":8,"labels":["まんまる顔","おねだり顔","もぐもぐ顔","寝起き顔","ビックリ顔","探検中の顔","得意げな顔","眠い顔"]},{"title":"むぎちゃと仲良くなるコツ","position":"bottom left strip","count":5,"labels":["tip 1","tip 2","tip 3","tip 4","tip 5"]},{"title":"むぎちゃからのメッセージ","position":"bottom middle strip","count":1,"labels":["first-person handwritten-style note with hearts"]},{"title":"ハムスター豆知識","position":"bottom right strip","count":4,"labels":["fact 1","fact 2","fact 3","fact 4"]},{"title":"bottom footer","position":"very bottom","count":1,"labels":["closing sentence about running, eating, and sleeping cutely every day"]}]},"text":{"language":"Japanese","headline":"{argument name=\"headline text\" default=\"キングマハムスターの男の子 むぎちゃ を徹底解剖！\"}","footer":"{argument name=\"footer text\" default=\"むぎちゃは、今日も元気に走り回って、もぐもぐして、ぐっすり眠ってます！これからも、むぎちゃの毎日を一緒に楽しもうね〜！\"}"},"decorations":{"count":10,"items":["crown doodle","sparkles","hearts","speech bubble","tiny hamster icons","sunflower seed icons","magnifying glass icon","running wheel icon","food illustrations","small cardboard house illustration"]},"rendering":{"camera":"slight eye-level close-up for main hamster, straight-on infographic layout","lighting":"soft bright studio lighting","detail":"crisp fur texture, glossy eyes, clean editorial composition"}}

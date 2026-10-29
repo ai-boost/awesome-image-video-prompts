@@ -1,0 +1,26 @@
+id: gpt-image-giant-fox-curled-around-clock-tower-sunset
+title:
+  en: Giant Fox Curled Around Big Ben at Sunset
+  zh: 日落时分蜷缩在大本钟上的巨型狐狸
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- giant-animal
+- miniature-city
+- sunset
+- photorealistic
+- template
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2062860722250596360
+  credit: Sharon Riley
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-05'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Swapping ANIMAL and PLACE/OBJECT slots makes the prompt reusable, and the line about surrounding buildings looking like miniature models locks in the scale contrast. Warm sunset light plus photorealistic and soothing mood words keep the giant subject cute but believable.
+  zh: 用 ANIMAL 和 PLACE/OBJECT 两个可替换的占位符让提示词可以反复套用，并用周围建筑像微缩模型来固定巨大的比例反差。暖色日落光线加上写实和治愈的氛围词，让巨型主体既可爱又可信。
+prompt: |
+  A super enormous ANIMAL curled up adorably on the PLACE/OBJECT, its tail wrapped around the structure. Surrounding historic London buildings appear tiny like miniature models. Realistic city setting during a soft sunset, warm gentle light, quiet soothing and heartwarming cute atmosphere, photorealistic, serene and charming.

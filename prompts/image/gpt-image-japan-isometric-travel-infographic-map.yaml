@@ -1,0 +1,32 @@
+id: gpt-image-japan-isometric-travel-infographic-map
+title:
+  en: Japan Isometric Map Travel Infographic Poster
+  zh: 日本3D等距地图旅行信息图海报
+model: GPT Image 2
+mode: text-to-image
+category: map
+tags:
+- infographic
+- isometric-map
+- japan
+- travel-poster
+- typography
+source:
+  name: '@miratechtool on X'
+  url: https://x.com/miratechtool/status/2056054235393867940
+  credit: Mira
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-17'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'The prompt fixes the layout zone by zone: a brushstroke title top left, a central isometric map with leader line labels, a facts column on the right and a thumbnail row at the bottom. Exact label text and region taglines keep the typography accurate.'
+  zh: 提示词按区域逐一规定版面：左上毛笔标题、中央等距地图配引线标注、右侧事实栏、底部缩略图行。逐字给出标签文字和地区标语，让排版文字更准确。
+prompt: |
+  Create a vertical infographic poster titled "JAPAN" in large, bold red brushstroke font at the top left. Below the title, include the subtitle "Land of the Rising Sun" and the tagline "Tradition. Innovation. Timeless Beauty." The central visual is a detailed, 3D isometric map of Japan, rendered as a lush green archipelago with realistic terrain, snow-capped Mount Fuji, and miniature landmarks like Tokyo Tower and Kyoto pagodas.
+
+  Label key regions on the map with leader lines: HOKKAIDO (Nature's Paradise), SENDAI (City of Trees), TOKYO (The Heart of Innovation), KYOTO (Timeless Tradition), HIROSHIMA (Peace & Resilience), MOUNT FUJI (Japan's Iconic Symbol), OSAKA (The Culinary Capital), FUKUOKA (Gateway to Kyushu), and OKINAWA (Tropical Paradise).
+
+  On the right side, list quick facts with icons: Population 125.7 Million, Language Japanese, Currency Japanese Yen (¥), Highest Peak Mount Fuji 3,776 m, National Flower Cherry Blossom (Sakura).
+
+  At the bottom, create a section titled "EXPERIENCE JAPAN" featuring six rectangular photo thumbnails labeled: ICONIC LANDMARKS, INNOVATION, EXQUISITE CUISINE, FOUR SEASONS, RICH CULTURE, and VIBRANT CITIES. End with a footer quote in Japanese and English: "日本は美しい国です。" / "Japan is a beautiful country."

@@ -1,0 +1,43 @@
+id: gpt-image-anime-girl-streetwear-sixteen-pose-sheet
+title:
+  en: Anime Girl Streetwear Sixteen Pose Sheet
+  zh: 动漫女孩街头风十六姿势设定表
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- anime
+- character-sheet
+- pose-sheet
+- streetwear
+- grid
+source:
+  name: '@muku_sns on X'
+  url: https://x.com/muku_sns/status/2102743895843156425
+  credit: むく | AIアートのプロ
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-23'
+notes:
+  en: The prompt fixes one detailed outfit and hair description, then fixes a 4x4 numbered grid on a white background. A numbered list of 16 short pose lines gives each panel its own action while keeping the character consistent.
+  zh: 提示词先锁定统一的服装与发型描述，再限定带编号的4x4网格和白色背景。随后用16条简短的编号姿势逐格指定动作，让角色在各格中保持一致。
+prompt: |
+  A character turnaround sheet featuring a cute anime girl in a dynamic streetwear outfit, arranged in a 4x4 grid of 16 distinct poses. The character has messy, shoulder-length blue-grey hair with subtle pink highlights and large, expressive blue eyes. She wears an oversized bright blue bomber jacket over a white hoodie, dark grey cargo shorts, high-top sneakers, and a small backpack. Each panel is numbered 1 through 16 in the top-left corner against a clean white background.
+
+  Pose breakdown:
+  1: Standing straight, hands in pockets, looking forward.
+  2: Winking playfully while making a peace sign near her face.
+  3: Pointing confidently to the side with one hand on hip.
+  4: A cheerful pose with both hands framing her face.
+  5: Arms crossed tightly, standing with feet apart.
+  6: High-kick action pose, balancing on one leg.
+  7: Arms spread wide in a welcoming or 'ta-da' gesture.
+  8: Running motion with arms outstretched for balance.
+  9: Walking away but looking back over her shoulder.
+  10: Crouching low, reaching a hand toward the viewer.
+  11: Reaching upward with one arm extended high.
+  12: Jumping mid-air with legs tucked behind her.
+  13: Squatting down, resting chin on hand, looking up.
+  14: Walking profile view, swinging arms naturally.
+  15: Leaning forward with hands near ears, playful expression.
+  16: Standing relaxed with hands in jacket pockets.

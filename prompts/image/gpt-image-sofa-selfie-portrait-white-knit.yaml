@@ -1,0 +1,26 @@
+id: gpt-image-sofa-selfie-portrait-white-knit
+title:
+  en: Sofa Selfie Portrait in White Knit
+  zh: 白色针织衫沙发自拍人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- selfie
+- sofa
+- indoor-portrait
+- natural-light
+- privacy
+source:
+  name: '@karou2rikon on X'
+  url: https://x.com/karou2rikon/status/2049736652902523066
+  credit: 過労
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-30'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Exact counts such as 3 buttons, 1 window and 1 curtain pin down small details, while a specified light direction and a shallow depth of field give the casual selfie look. The mosaic block is described by placement and by what stays visible around it.
+  zh: 用精确数量(3颗纽扣、1扇窗、1幅窗帘)锁定细节,再指定光源方向和浅景深来营造随手自拍感。马赛克块则通过位置和周围保留的可见部位来描述。
+prompt: |
+  A realistic indoor portrait photo of a young East Asian woman seated on a light beige fabric sofa in a softly lit modern living room, framed from the chest up in a casual selfie-like composition. She has long, straight dark brown hair with a side part, smooth natural skin, and a slim build. Her face is fully covered by a large square mosaic blur censor block centered over the head, obscuring all facial features while leaving the hairline, ears, jawline edge, and neck partially visible. She wears a simple white ribbed long-sleeve knit top with a round neckline and exactly 3 small front buttons visible. Her posture is relaxed, slightly leaning toward the camera, with one arm implied to be extended to take the photo. The background shows 1 bright window at the far left with sheer daylight, 1 beige curtain, and the neutral sofa wrapping behind her. Soft natural daylight from the left, muted warm-gray walls, minimal home interior, shallow depth of field, clean realistic photography, understated candid atmosphere, no text, no accessories, no dramatic styling.

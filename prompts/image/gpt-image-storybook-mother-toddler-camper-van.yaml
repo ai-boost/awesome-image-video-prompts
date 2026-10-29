@@ -1,0 +1,33 @@
+id: gpt-image-storybook-mother-toddler-camper-van
+title:
+  en: Mother and toddler beside camper van storybook illustration
+  zh: 母亲与幼儿站在露营车旁的童书插画
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- storybook
+- photo-to-illustration
+- kawaii
+- family
+- pastel
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2066477758205853710
+  credit: Taaruk
+  likes: 688
+  captured: '2026-10-29'
+  posted: '2026-06-15'
+notes:
+  en: The prompt names what to keep from the photo (pose, clothing, interaction) and what to change (the style), then splits the rest into Style, Composition, Lighting and Quality blocks. A concrete list of doodles such as sun, clouds, hearts and string lights gives the illustration its decorative border.
+  zh: 提示词先写明照片里要保留的姿势、服装和互动，再交代要改变的画风，其余分成风格、构图、光线、质量四个板块。太阳、云朵、爱心、灯串等具体涂鸦清单，撑起了画面周围的装饰感。
+prompt: |
+  Turn my uploaded photo into a heartwarming whimsical children’s storybook illustration. A young mother holding her toddler’s hand beside a vintage beige camper van in a cozy urban neighborhood. Transform the realistic photo into a colorful hand-drawn artwork with soft pastel tones, playful doodles, smiling sun, fluffy clouds, flowers, stars, hearts, cute plants, and string lights. Bright apartment buildings in the background reimagined in a cheerful cartoon style. Keep the characters’ pose, clothing, and interaction faithful to the original photo while adding charming storybook details and a warm family atmosphere.
+
+  Style: modern children’s book illustration, kawaii aesthetic, hand-painted digital art, vibrant colors, textured brush strokes, clean outlines, adorable character design, whimsical environment, cozy neighborhood vibes, highly detailed, magical everyday life, storybook cover quality.
+
+  Composition: full-body mother and child in the center, camper van behind them, colorful flowers and doodles surrounding the scene, balanced layout, white background with decorative elements, cute and uplifting mood.
+
+  Lighting: soft daylight, warm highlights, dreamy glow, gentle shadows.
+
+  Quality: masterpiece, ultra detailed, charming illustration, high resolution, professional children’s book artwork, joyful and nostalgic feeling.

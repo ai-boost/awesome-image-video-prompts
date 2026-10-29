@@ -1,0 +1,26 @@
+id: gpt-image-floor-plan-3d-isometric-real-estate-render
+title:
+  en: Japanese Two Floor Plan as 3D Render
+  zh: 日式两层户型图转3D等轴测渲染
+model: GPT Image 2
+mode: image-edit
+category: architecture
+tags:
+- floor-plan
+- isometric
+- real-estate
+- 3d-render
+- japanese-labels
+source:
+  name: '@wancoro_xx on X'
+  url: https://x.com/wancoro_xx/status/2049760825431511352
+  credit: 月島くん
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-30'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: It converts a 2D plan reference into an isometric render while locking the layout, room sizes and every Japanese label in place. Room by room furniture counts and a plain light background keep the staging controlled and brochure ready.
+  zh: 以平面图为参考转成等轴测渲染，同时锁定布局、房间尺寸和所有日文标注。逐个房间列出家具数量，并使用纯浅色背景，让布置可控、适合楼盘宣传册。
+prompt: |
+  Using the provided floor plan reference image, convert the 2D black-and-white architectural plan into a clean photorealistic 3D isometric real-estate floor plan render while preserving the original layout, room sizes, labels, and the side-by-side composition of the 1F and 2F plans. Add realistic wall thickness, light wood flooring, soft neutral wall colors, doors and windows with depth, and fully furnished interiors appropriate to each room. Keep all visible Japanese room labels in place, including 1F, 2F, 洗面所, 浴室, 収納, 階段下収納, ホール, 玄関, トイレ, L.D.K (18.0帖), 洋室 (6.0帖) for 2 rooms, ウォークインクローゼット (3.0帖), and 主寝室 (6.0帖). Stage the 1F with 1 kitchen, 1 dining table set for 4, 1 living area with sofa and coffee table, 1 toilet, 1 bathroom with tub, 1 wash area, and small plants. Stage the 2F with 3 sleeping/work rooms total: 1 bedroom with a single bed, 1 room with a desk and chair, and 1 master bedroom with a double bed, plus 2 storage spaces and 1 walk-in closet with shelving. Use a bright catalog-style presentation on a plain light background, viewed from a slightly elevated angled top-down perspective, suitable for a property sales brochure.

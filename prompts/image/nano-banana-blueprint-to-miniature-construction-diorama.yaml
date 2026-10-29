@@ -1,0 +1,41 @@
+id: nano-banana-blueprint-to-miniature-construction-diorama
+title:
+  en: White House blueprint growing into miniature construction diorama
+  zh: 白宫蓝图长成施工中的微缩立体模型
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- blueprint
+- miniature
+- diorama
+- landmark
+- template
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2035059070172824021
+  credit: Gilbert Odera | Your AI Plug
+  likes: 89
+  captured: '2026-10-29'
+  posted: '2026-03-20'
+notes:
+  en: A fill in the blank template swaps the landmark, surface, key features and lighting while keeping the core idea of 2D blueprint lines rising into a partly built 3D structure. Tiny workers, cranes, scaffolding and dust, plus macro tilt shift framing, give the scene its handcrafted scale.
+  zh: 模板把地标、台面、建筑特征和光线做成可替换的填空，核心始终是平面蓝图线条升起为半完工的立体建筑。微缩工人、吊车、脚手架和粉尘，加上微距移轴构图，营造出手工模型的尺度感。
+prompt: |
+  Universal Prompt – Blueprint to Miniature Construction Diorama
+
+  An architectural blueprint of [LANDMARK NAME] placed on [SURFACE: wooden desk, marble table, stone slab, drafting table, etc.], with a photorealistic miniature under-construction version of the landmark emerging directly from the blueprint lines.
+
+  The miniature structure captures defining architectural elements such as [KEY FEATURES: domes, columns, towers, roofs, courtyards, facades], partially completed and actively being built. Wooden scaffolding, cranes, and structural supports wrap around the structure, seamlessly rising from the blueprint drawing itself.
+
+  Tiny construction activity brings the scene to life: miniature workers, engineers, and artisans assembling parts, lifting materials, aligning structural elements, painting details, or carving stone. [BUILDING MATERIALS] such as stone blocks, timber beams, metal frames, or tiles are visibly in progress, with dust, debris, or fine particles adding realism.
+
+  The key visual concept is transformation: 2D blueprint lines evolve into 3D architecture, with pillars, walls, and frameworks literally growing upward from the paper. Parts of the structure remain sketched, while others are fully formed, creating a seamless transition between drawing and reality.
+
+  Environmental details enhance authenticity: [CONTEXT ELEMENTS: flags, surrounding objects, weather effects like snow or dust, cultural motifs] subtly integrated into the scene.
+
+  Lighting is cinematic and intentional: [LIGHTING STYLE: soft studio light, warm daylight, cool tones, moody overcast], casting realistic shadows and emphasizing depth, texture, and construction progress.
+
+  Macro, hyper-detailed photography style with tilt-shift depth of field, ultra-realistic textures, and 8K resolution, creating a handcrafted architectural diorama look.
+
+  Aspect Ratio 2:3

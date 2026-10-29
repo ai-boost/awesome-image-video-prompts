@@ -1,0 +1,26 @@
+id: gpt-image-trousers-fashion-ad-poster-product-card
+title:
+  en: Warm brown wide leg trousers fashion ad poster
+  zh: 暖棕阔腿裤时尚广告海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- advertising
+- product-card
+- layout
+- typography
+source:
+  name: '@auqibhabib on X'
+  url: https://x.com/auqibhabib/status/2049403600594747482
+  credit: auqib
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-29'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt splits the layout into left, right and below zones, and gives exact text, font style, swatch and size pill states for each. A closing instruction to remove extra text keeps the composition clean and breathable.
+  zh: 提示词把版面拆成左侧、右侧和下方三个区域,逐一写明文字内容、字体风格、色板与尺码胶囊按钮的状态。结尾要求删去多余文字,让画面保持简洁留白。
+prompt: |
+  Luxury fashion advertisement poster, ultra-premium editorial style (Gucci aesthetic), soft warm beige gradient background with subtle shadows and depth. A confident elegant young woman posing naturally beside a minimal stool, wearing flowy high-waist wide-leg trousers (rich warm brown) and a silky cream blouse, soft curls, minimal gold jewelry, cinematic soft lighting, realistic skin texture, high-end fashion photography. Clean modern layout with strong hierarchy and spacing: Left side: Large vertical text “TROUSERS” in premium serif font (Didot / Bodoni style), high letter spacing, slightly faded brown tone. Small vertical subtext: “EFFORTLESS STYLE. PERFECT FIT.” in thin sans-serif, minimal and elegant. Right side product card: Rounded soft card showing zoomed-in waist detail (same outfit as model) Title: “HIGH WAIST” in serif font Subtext: Flattering Fit, All-Day Comfort in light sans-serif Soft shadow and subtle border Below: Color swatches (navy, beige, taupe, black), perfectly aligned, evenly spaced Sizes row (XS S M L) styled as premium pill buttons “S” filled others outlined Remove unnecessary text like heights, keep layout minimal and breathable. Overall look: High fashion magazine aesthetic Clean spacing, grid aligned Soft shadows, subtle gradients Ultra realistic, sharp, 4K, luxury branding feel

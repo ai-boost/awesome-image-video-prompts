@@ -1,0 +1,26 @@
+id: gpt-image-tribal-warrior-guardian-owl-portrait
+title:
+  en: Tribal Fantasy Warrior with Giant Guardian Owl
+  zh: 部落奇幻女战士与巨型守护猫头鹰
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- fantasy
+- warrior
+- owl
+- dark-fantasy
+- cinematic
+source:
+  name: '@Aqib__786Ai on X'
+  url: https://x.com/Aqib__786Ai/status/2091027228645552456
+  credit: AqibAi
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Every element is described by material and colour, such as silver chains, turquoise gems and icy war paint. The owl is given its own feature list and the cool blue forest palette contrasts with its orange eyes. Photoreal texture keywords and cinematic lighting keep the fantasy subject looking like a real photograph.
+  zh: 提示词逐一用材质和颜色描写元素,如银链、绿松石和冰白战纹。猫头鹰有独立的特征清单,冷蓝森林色调与橙色眼睛形成对比。写实质感关键词加电影光效,让奇幻主体呈现真实摄影质感。
+prompt: |
+  A detailed portrait of a fierce tribal fantasy warrior woman leaning close to a massive, majestic great horned owl, cinematic lighting, dark moody atmosphere. The woman has long, wavy dark hair adorned with intricate silver chains, beads, and metallic headpieces. She has striking light green eyes, piercing the camera, with silver and icy-white war paint painted across her cheeks and nose. She wears dark leather armor decorated with silver pendants and turquoise gemstones Beside her the giant owl features sharp glowing orange eyes, patterned white and black feathers and an ornate silver circular medallion studded with a blue crystal resting on its forehead. The background is a shadowy, mystical forest in cool blue and dark gray tones. Highly detailed feathers, hyper-realistic, photorealistic textures, 8k resolution, dramatic dark fantasy aesthetic, masterpiece.

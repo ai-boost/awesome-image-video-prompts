@@ -1,0 +1,26 @@
+id: gpt-image-futuristic-office-businesswoman-portrait
+title:
+  en: Businesswoman portrait in futuristic glass office
+  zh: 未来感玻璃办公室中的职场女性肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- corporate-portrait
+- business
+- photorealistic
+- futuristic-office
+- vertical
+source:
+  name: '@NadzuAI on X'
+  url: https://x.com/NadzuAI/status/2087901626891940013
+  credit: NadzAI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-13'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt stacks wardrobe, setting, lighting and lens cues (soft cinematic light, shallow depth of field, realistic skin texture) and limits the palette to blue and white tones. It also fixes a 4:5 vertical frame and adds no text and no watermark to keep the output clean.
+  zh: 提示词依次叠加服装、场景、光线和镜头线索（柔和电影光、浅景深、真实皮肤质感），并把色调限定为蓝白。同时指定4:5竖构图，并加入无文字无水印的约束，让成图更干净。
+prompt: |
+  Create a hyper-realistic HD portrait of a confident young professional businesswoman, elegant modern black blazer over a white blouse, standing in a premium futuristic office with glass walls, subtle AI technology screens and a city skyline in the background. Natural makeup, polished hairstyle, confident expression, professional corporate appearance, cinematic soft lighting, realistic skin texture, shallow depth of field, luxury business atmosphere, sophisticated blue-and-white tones, ultra-detailed, photorealistic, 8K quality, sharp focus, premium LinkedIn and AI startup branding aesthetic, vertical 4:5 composition, no text, no watermark.

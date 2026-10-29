@@ -1,0 +1,26 @@
+id: gpt-image-rainy-night-cinema-noir-poster
+title:
+  en: Rainy Night Cinema Noir Poster with Giant Face
+  zh: 雨夜放映电影感黑白海报,巨幅人脸与放映机
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- movie-poster
+- noir
+- monochrome
+- chinese-typography
+- calligraphy
+source:
+  name: '@xiaoxiaodong01 on X'
+  url: https://x.com/xiaoxiaodong01/status/2064877952211489255
+  credit: 小小东
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-11'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt places each element by position (ear left, eye upper right, projector lower left, two silhouettes bottom center) and gives an exact silhouette count. It limits color to charcoal and ivory with one warm amber beam, and it specifies the Chinese title and the release line as exact text.
+  zh: 提示词按位置逐一安排元素(左侧耳环、右上眼睛、左下放映机、底部中央两个剪影),并明确剪影数量。色彩限定为炭黑与象牙白,只留一束琥珀色光,同时给出中文标题和放映信息的确切文字。
+prompt: |
+  Create a cinematic monochrome Chinese movie poster in a dark, rainy, nostalgic style. The canvas is a wide horizontal 3:2 poster. Show an enormous close-up profile of an elegant woman's face filling the entire background, cropped so her ear with a round pearl-like floral earring is on the left, her eye and eyelashes are near the upper right, and her nose and lips fade into shadow on the far right. Use soft black-and-white film grain, smoky haze, high contrast shadows, and a vintage 1930s melodrama mood. In the lower left, place an old film projector with visible reels, projecting a warm amber beam of light across the scene. In the bottom center foreground, show exactly 2 small human silhouettes sitting on a wet reflective floor facing the projection: 1 young man on the left and 1 young woman on the right, both seen from behind. Add subtle rainwater reflections and a thin horizon line at the floor. Across the middle-left to center, overlay large expressive handwritten Chinese calligraphy title text reading 雨夜放映, in off-white brush strokes with long sweeping lines. To the right of the title, add small spaced Chinese release information reading 社团开放夜 / 6月28日 / 教三 204. Keep the typography elegant, sparse, and integrated into the face. Color palette should be mostly charcoal black, muted gray, and ivory, with the projector beam as the only warm orange accent. No extra logos, no borders, no additional characters, no modern digital elements.

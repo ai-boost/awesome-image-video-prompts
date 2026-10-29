@@ -1,0 +1,35 @@
+id: gpt-image-giant-clog-step-into-ease-poster
+title:
+  en: Giant Clog Campaign Poster With Vertical Headline
+  zh: 巨型洞洞鞋广告海报与竖排大标题
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- product-ad
+- campaign
+- typography
+- studio-lighting
+- minimalism
+source:
+  name: '@iamaiistudio on X'
+  url: https://x.com/iamaiistudio/status/2057281549851377866
+  credit: iamaiistudio
+  captured: '2026-10-29'
+  posted: '2026-05-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt is split into labeled blocks for backdrop, lighting, composition, copy and style, so each part can be controlled separately. Exact quoted headline and footer text, plus a headline tucked behind the subject, add depth and layered editorial structure.
+  zh: 提示词按背景、光线、构图、文案和风格分块标注,便于逐项控制。标题与底部小字用引号写明原文,并让大标题藏在人物身后,形成层次分明的杂志式排版。
+prompt: |
+  Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the giant shoe with a relaxed, confident posture.
+
+  Backdrop: clean gradient flowing from soft sky blue into subtle lavender, with massive bold sans-serif typography reading "STEP INTO EASE" stretched vertically, partially tucked behind the subject.
+
+  Lighting: high-end studio lighting, soft highlights, gentle floor reflections, and a subtle rim light tracing the model and the product for depth.
+
+  Composition: editorial magazine layout, subject perfectly centered, generous negative space, luxury campaign mood.
+
+  Small minimal copy at the bottom: "Designed for all-day comfort. Made to move with you."
+
+  Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper-realistic, premium commercial photography, 8K, razor-sharp detail.

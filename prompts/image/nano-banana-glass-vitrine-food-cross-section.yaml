@@ -1,0 +1,30 @@
+id: nano-banana-glass-vitrine-food-cross-section
+title:
+  en: Eggs Benedict Cross Section in Glass Vitrine
+  zh: 玻璃展柜中的班尼迪克蛋剖面
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- food
+- cross-section
+- glass
+- template
+- labels
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2032846968154657147
+  credit: Alexandra Aisling
+  likes: 154
+  captured: '2026-10-29'
+  posted: '2026-03-14'
+notes:
+  en: A fill in the blank template that fixes eye level camera, a plain colour backdrop and engraved glass labels with depth, temperature and method. Naming a reference mood and demanding optically real glass keeps the render from looking like fake 3D.
+  zh: 填空式模板,固定平视机位和纯色背景,并把深度、温度、做法刻在玻璃上作为标注。指定参考气质并要求玻璃光学真实,避免假3D感。
+prompt: |
+  Prompt Studio: Glass Box Cross Section, with Nano Banana 2 in Firefly
+
+  [DISH] sealed inside a flawless glass vitrine, cross-sectioned dead center,  camera locked at exact eye level, pure [COLOR] studio background.  Every internal layer exposed with surgical precision, ingredients stacked  perfectly, sauces at exact depths, condensation fogging the upper glass.  Labels engraved directly on the glass in fine sans-serif: "[INGREDIENT]  [depth]  [temp]  [prep method]" Thin measurement lines. Architectural layer callouts. No floating text.  Dish name engraved on glass base: "[DISH NAME]" Tagline below in italics: "[TAGLINE]"  Mood: Apple product launch meets Michelin kitchen dissection.  Appetizing, precise, craveable. Glass must look optically real, thickness, refraction, edge glow. No fake 3D render look. 4K, tack sharp.
+
+  Check ALTs for ideas 👇
+  @AdobeFirefly

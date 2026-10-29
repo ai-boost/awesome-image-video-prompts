@@ -1,0 +1,86 @@
+id: gpt-image-rubber-hose-cartoon-photo-transformation
+title:
+  en: Vintage rubber hose cartoon of woman in garden
+  zh: 花园中的复古橡皮管卡通女子
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- rubber-hose
+- vintage-cartoon
+- sepia
+- photo-to-cartoon
+- film-grain
+source:
+  name: '@Kashberg_0 on X'
+  url: https://x.com/Kashberg_0/status/2059238639394271540
+  credit: Kashberg
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-26'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'Opens with an IMPORTANT block that locks identity traits such as hair, glasses and expression, then lists the rubber hose features: pie cut eyes, white gloves, oversized shoes and thin limbs. Separate Visual Style, Art Style and Quality sections add sepia tone, film grain and scratches, and the background is taken from the original photo.'
+  zh: 开头用重点块锁定发型、眼镜和表情等身份特征，再列出橡皮管风格要素：饼形眼、白手套、大鞋和细长四肢。随后分别给出视觉风格、艺术风格和质量要求，加入复古棕褐色调、胶片颗粒与划痕，并让背景取自原照片环境。
+prompt: |
+  Transform the person in the photo into a vintage 1930s–1940s cartoon character inspired by classic “rubber hose animation” styles such as Betty Boop, Cuphead, Steamboat Willie, and old Fleischer Studios cartoons.
+
+  IMPORTANT:
+
+  Clearly preserve the identity of the person in the photo (recognizable hair, beard, glasses, face, and facial expression).
+
+  Exaggerated, elastic cartoon-style body.
+
+  Large black vintage pie-cut eyes.
+
+  Big expressive smile.
+
+  Classic white cartoon gloves.
+
+  Oversized 1930s-style cartoon shoes.
+
+  Thin rubber hose-style arms and legs.
+
+  Thick black outlines and authentic vintage animation look.
+
+  Visual Style:
+
+  Black and white or vintage sepia tones.
+
+  Aged old-film texture.
+
+  Small grain, scratches, and imperfections like old film reels.
+
+  Simple cel-animation style shading.
+
+  Caricatured but natural proportions.
+
+  Background inspired by the original environment of the photo.
+
+  Art Style:
+
+  1930s / 1940s cartoon animation.
+
+  Rubber hose cartoon aesthetic.
+
+  Vintage animation poster style.
+
+  Fleischer Studios aesthetic.
+
+  Cuphead-inspired vintage cartoon style.
+
+  Ink outlines and exaggerated expressions.
+
+  Quality:
+
+  Ultra-detailed vintage cartoon.
+
+  Cinematic composition.
+
+  High facial likeness detail.
+
+  Soft vintage lighting.
+
+  Authentic retro animation feeling.
+
+  Full-body character.

@@ -1,0 +1,112 @@
+id: gpt-image-smartphone-reference-style-tech-infographic
+title:
+  en: Futuristic smartphone reference style tech infographic
+  zh: 未来感智能手机参考手册式科技信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- smartphone
+- tech
+- template
+- editorial
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2055485138080014769
+  credit: Jack
+  likes: 121
+  captured: '2026-10-29'
+  posted: '2026-05-16'
+notes:
+  en: A name placeholder keeps the template reusable. Explicit lists of callouts, modular sections and visualization modules, plus a style keyword block and an avoid list, lock a dense encyclopedia layout around one central three quarter render.
+  zh: 用名称占位符让模板可复用。依次列出标注项、模块化版块和可视化小模块，再配上风格关键词与避免项，把高信息密度的百科式版面锁定在一台三分之二视角的中心渲染图周围。
+prompt: |
+  Create a premium square “reference-style consumer technology infographic” centered around a futuristic flagship smartphone called the {SMARTPHONE_NAME}, designed as a beautifully curated product-engineering handbook page rather than a generic commercial advertisement.
+
+  The composition should feel like a modern visual encyclopedia mixed with an elite consumer-electronics field guide and high-end editorial infographic system.
+
+  Visual Direction:
+
+  • 1:1 square composition
+  • Dark premium tech background with subtle circuit-board textures, holographic UI overlays, and futuristic blueprint schematics
+  • Elegant muted palette using matte black, titanium gray, electric blue accents, graphite silver, and soft neon highlights
+  • Refined editorial typography hierarchy
+  • Rounded modular information cards with clean spacing
+  • Gentle realistic reflections and premium HUD-style dividers
+  • Minimal modern technology iconography
+  • Extremely detailed central smartphone render viewed in dramatic three-quarter perspective with floating studio-style lighting
+  • Thin precision annotation lines pointing toward hardware systems and smart features
+  • Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+  Main Subject Presentation:
+
+  A stunning ultra-detailed realistic render of the {SMARTPHONE_NAME} placed at the center, featuring edge-to-edge AMOLED display, premium metallic frame, realistic glass reflections, advanced camera modules, glowing UI screen graphics, ultra-thin bezels, and high-end consumer-tech realism.
+
+  Surround the smartphone with scientific and engineering callouts explaining:
+
+  • AI processor architecture
+  • advanced camera system
+  • AMOLED display technology
+  • battery and fast charging system
+  • cooling and thermal management
+  • connectivity systems (5G/Wi-Fi/Bluetooth)
+  • operating system and AI assistant
+  • audio and speaker technology
+  • durability and water resistance
+  • sustainable material engineering
+
+  Include modular infographic sections such as:
+
+  • Smartphone Overview
+  • Technical Specifications
+  • Dimensions & Design
+  • Camera System Breakdown
+  • Display Technology
+  • Processor & Performance
+  • Battery & Charging
+  • Connectivity Features
+  • Cooling & Durability
+  • Storage & Memory Configurations
+  • Audio Experience
+  • Smart OS & AI Features
+  • Sustainability & Eco Design
+  • Benchmark Performance Charts
+  • “Top 5 Reasons to Choose” section
+  • Accessories & Included Box Contents
+  • Ideal User Profiles
+
+  Add small premium visualization modules like:
+
+  • chipset architecture diagrams
+  • camera lens cutaways
+  • battery charging-speed charts
+  • UI/OS interface mockups
+  • connectivity icons & network visuals
+  • thermal cooling illustrations
+  • benchmark comparison graphs
+  • exploded hardware views
+  • smartphone blueprint dimensions
+  • accessory ecosystem visuals
+
+  Style Keywords:
+
+  “premium consumer-tech encyclopedia”
+  “editorial smartphone handbook”
+  “high-end electronics infographic”
+  “scientific product poster”
+  “museum-quality smartphone reference page”
+  “modular technology knowledge system”
+  “clean futuristic editorial design”
+  “ultra-detailed gadget visualization”
+
+  Avoid:
+
+  • cluttered commercial advertisement aesthetics
+  • cartoon futuristic styling
+  • unrealistic sci-fi hologram overload
+  • cheap e-commerce layouts
+  • excessive neon cyberpunk chaos
+  • low-detail generic phone renders
+
+  The final result should resemble a professionally published consumer-technology reference-book page created for tech enthusiasts, industrial designers, engineers, collectors, reviewers, and educational product-design archives.

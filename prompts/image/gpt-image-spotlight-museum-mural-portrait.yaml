@@ -1,0 +1,47 @@
+id: gpt-image-spotlight-museum-mural-portrait
+title:
+  en: Spotlit woman before Japanese mural in dark museum
+  zh: 暗色展厅里聚光灯下的日式壁画前女子肖像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- spotlight
+- museum
+- film-grain
+- reference-photo
+- low-light
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2056647551470997670
+  credit: Oogie
+  likes: 672
+  captured: '2026-10-29'
+  posted: '2026-05-19'
+notes:
+  en: Opens with an identity lock on the reference photo, then specifies a single diagonal spotlight, a 70 degree side profile and foreground shadow framing for a moody museum scene. Separate camera, lighting, vibe and negative prompt blocks pin down Portra film color and keep the result realistic.
+  zh: 开头先锁定参考照片的身份特征,再用单束斜向聚光灯、70度侧脸角度和前景暗影构图营造展厅氛围。相机、光线、氛围和负面提示分块书写,用Portra胶片色调保持写实质感。
+prompt: |
+  GPT Image 2 on
+  @itsPolloAI
+
+
+  Prompt: Use my reference photo to preserve the exact facial features, hairstyle, bangs, facial proportions, skin tone, body posture, and overall silhouette with high identity consistency.
+
+  Cinematic portrait of a woman standing alone inside a dark exhibition room. She wears a vintage white shirt layered with a soft pink outer jacket and a black vintage-textured skirt. Minimal makeup. Front-profile pose with her body facing the camera, relaxed posture, one shoulder slightly lowered, hands gently adjusting her hair. Calm, mysterious expression with an intellectual and elegant aura.
+
+  She is positioned in the lower center of the frame, surrounded by darkness. A single dramatic diagonal spotlight cuts across the scene from the upper right to the lower left, illuminating only half of her body while the rest fades into shadow. Behind her is a colorful vintage Japanese mural wall filled with retro cartoon illustrations and traditional artistic details.
+
+  Foreground shadows naturally frame the composition like torn darkness, creating a moody museum atmosphere with lonely artistic energy and a contemplative cinematic mood. Realistic photography with subtle film grain, analog texture, muted blacks, and vibrant mural accents.
+
+  Camera angle: eye-level shot, medium-close portrait framing, subject captured at approximately a 70-degree side profile angle, slight distance from the subject for environmental storytelling, centered cinematic composition.
+
+  Camera settings: cinematic low-light photography, shallow depth of field, realistic shadow falloff, Kodak Portra film color grading.
+
+  Lighting: harsh focused spotlight from the upper right creating a strong diagonal beam and deep high-contrast shadows, minimal ambient light, rich blacks, soft warm highlights along the face and glasses edges.
+
+  Vibe: mysterious, artistic, museum-core aesthetic, intelligent quiet energy, melancholic cinematic atmosphere, indie film still, luxury editorial photography, solitary nighttime mood, understated elegance.
+
+  Style: ultra-realistic cinematic photography, analog grain, editorial fashion portrait, natural skin texture, subtle imperfections, realistic color science, masterpiece quality.
+
+  Negative prompt: anime, smiling, overexposed lighting, extra limbs, bad anatomy, overly colorful outfit, cyberpunk neon, blurry face, low quality, distorted hands, unrealistic skin, HDR overload, exaggerated makeup, busy composition, duplicate person.

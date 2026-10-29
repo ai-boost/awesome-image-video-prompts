@@ -1,0 +1,26 @@
+id: gpt-image-oil-pastel-anime-catgirl-tiger-bodysuit
+title:
+  en: Oil Pastel Catgirl in Tiger Outfit Saluting
+  zh: 蜡笔质感的虎纹装猫耳少女敬礼
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- oil-pastel
+- anime
+- catgirl
+- crayon-texture
+- character-art
+source:
+  name: '@MireilleDartois on X'
+  url: https://x.com/MireilleDartois/status/2048739113558573201
+  credit: ダルトワ★TV
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-27'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt names the medium first, then fixes the pose, outfit colors and palette in separate sentences. Words like visible grain, uneven sketchy outlines and scribbled fill push the render toward real crayon texture instead of clean digital anime.
+  zh: 提示词先点明油画棒媒介，再分句锁定姿势、服装配色和整体色板。可见颗粒、不规则草稿线条和涂抹填色这些词把画面推向真实蜡笔质感，而不是干净的数码动漫风。
+prompt: |
+  A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil pastel illustration on textured off-white paper. She has long straight deep purple with lighter lavender ends hair, large pointed orange cat ears on top of her head, and a striped orange-and-black cat tail curving in from the right side. Her outfit is a tiger-inspired bodysuit in vivid bright orange with bold black accents: long fitted sleeves, a dark black chest and torso panel, orange legs, orange gloves, and a soft pale pink patch on the hip and upper thigh area. She is squatting with one knee raised, one hand touching the ground in front of her, and the other hand lifted in a salute near her forehead, facing the viewer with a mischievous, energetic feel. Render the whole image in rough crayon-like oil pastel strokes with visible grain, uneven sketchy black outlines, scribbled color fill, and childlike analog texture. Use a warm pastel palette with orange as the dominant color, purple hair, soft pink scribbled background shading, and a purple-blue scribbled shadow beneath her. Keep the composition as a single centered full-body character on paper, whimsical, charming, slightly messy, and irresistibly cute, like an expressive pastel doodle illustration.

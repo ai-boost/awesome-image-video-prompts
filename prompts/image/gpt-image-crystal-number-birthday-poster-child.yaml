@@ -1,0 +1,40 @@
+id: gpt-image-crystal-number-birthday-poster-child
+title:
+  en: Crystal glass number birthday poster with child
+  zh: 水晶玻璃数字生日海报，孩子探出画框
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- birthday
+- crystal-glass
+- face-consistency
+- pop-out
+- pastel
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2064970191092826474
+  credit: Mahnoor Fatima
+  likes: 482
+  captured: '2026-10-29'
+  posted: '2026-06-11'
+notes:
+  en: Face identity is locked with an explicit consistency instruction, and the body parts that break the number frame give a 3D pop out effect. Material, lighting and typography blocks are written separately, with a negative prompt aimed at face drift and extra limbs. The age and name are bracketed slots to swap.
+  zh: 用明确的人脸一致性指令锁定面部身份，头肩手脚探出数字边框形成立体效果。材质、光线、排版分段书写，负面提示针对面部走样和多余肢体，年龄与名字用方括号占位便于替换。
+prompt: |
+  :::writing{variant="document" id="58372"} Professional luxury birthday poster, 3:4 portrait composition, ultra high-end studio photography aesthetic, premium off-white textured paper wall background with subtle grain and depth.
+  A giant luxury crystal-glass number [AGE] is precisely carved into the wall with realistic thickness, beveled edges, transparent glass material, sparkling reflections, crystal highlights, light refractions, and deep inner shadows creating dramatic 3D depth.
+  Inside the number: elegant pastel pink balloons, premium white roses, luxury flower bouquets, soft floating sparkles, delicate crystal butterflies, dreamy magical atmosphere, clean minimal styling, high-end editorial design.
+  A happy [AGE]-year-old child with EXACT facial identity preserved from the uploaded reference image. Identical facial features, identical eyes, nose, lips, face shape, skin tone, hairstyle, expression style, and overall appearance. Face consistency is the highest priority.
+  Wearing a milky white T-shirt and premium pastel pink denim overalls with realistic fabric texture and luxury styling.
+  The child's head, shoulders, one hand, and one foot extend outside the number frame, creating an ultra-realistic 3D pop-out effect with accurate perspective, natural depth, realistic shadows, and seamless integration between foreground and background.
+  Warm cinematic golden sunlight entering from one side, soft rim lighting, realistic skin texture, studio-quality photography lighting, natural shadows, luxury portrait lighting, shallow depth of field.
+  Elegant typography integrated directly onto the wall:
+  [Ayan]
+  CHAPTER [2]
+  [AGE] YEARS OF MAGIC AND WONDER
+  Minimal luxury editorial layout, Vogue magazine cover style, premium birthday campaign photography, award-winning composition, soft contrast, natural pastel colors, crystal reflections, ultra-sharp focus, photorealistic rendering, masterpiece quality, luxury realism.
+  Negative Prompt: different face, altered facial features, face swap, wrong child, duplicate body parts, extra fingers, extra limbs, deformed hands, distorted face, crossed eyes, blurry face, low quality, AI artifacts, text errors, watermark, logo, bad anatomy, oversaturated colors, cropped head, unrealistic skin, poor lighting.
+  8K ultra-detailed, hyper-realistic, premium luxury birthday poster. :::
+  Sab se important improvement ye hai:
+  "EXACT facial identity preserved from the uploaded reference image" aur "Face consistency is the highest priority"

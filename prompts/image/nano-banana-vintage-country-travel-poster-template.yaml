@@ -1,0 +1,32 @@
+id: nano-banana-vintage-country-travel-poster-template
+title:
+  en: Vintage Parchment Travel Posters for Any Country
+  zh: 适用于任意国家的复古羊皮纸旅行海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- vintage
+- template
+- landmarks
+- parchment
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2044113138551763191
+  credit: TechieSA
+  likes: 151
+  captured: '2026-10-29'
+  posted: '2026-04-14'
+notes:
+  en: 'A single country placeholder drives the whole poster, so one template yields a matching series. The prompt stacks layout cues in order: parchment texture, baroque gold border, panoramic landmarks, foreground cultural objects, golden hour light, then serif title and italic subtitle.'
+  zh: 只用一个国家占位符就能驱动整张海报，同一模板可批量生成成套作品。提示词按顺序叠加版面线索：羊皮纸质感、巴洛克金边、全景地标、前景文化符号、黄金时刻光线，最后是衬线标题和斜体副标题。
+prompt: |
+  “Vintage illustrated travel poster of [COUNTRY], aged parchment background
+  texture, ornate gold baroque decorative border, hyper-detailed editorial
+  illustration style, wide panoramic scene featuring the most iconic landmarks
+  and landscapes of [COUNTRY], foreground scattered with local cultural symbols
+  (traditional food, national flag, flora, iconic objects), warm golden hour
+  sunset lighting, rich earthy tones with pops of color, large serif display
+  title text "COUNTRY" at top, elegant italic subtitle below, small decorative
+  flourishes and botanical elements in corners, 4:5 aspect ratio.”

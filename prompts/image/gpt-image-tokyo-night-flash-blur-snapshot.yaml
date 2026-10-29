@@ -1,0 +1,27 @@
+id: gpt-image-tokyo-night-flash-blur-snapshot
+title:
+  en: Blurry flash snapshot of woman waving on Tokyo street
+  zh: 东京夜街挥手的闪光模糊抓拍
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- candid
+- smartphone-photo
+- motion-blur
+- flash
+- night
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2070345476189336033
+  credit: Eesha
+  likes: 344
+  captured: '2026-10-29'
+  posted: '2026-06-26'
+notes:
+  en: 'Describes a flawed phone photo on purpose: flash fired mid motion, handheld shake, ghosting, blown highlights and imperfect framing. The negative prompt rules out studio lighting, sharp focus and polished portrait looks, so the result reads as an accidental snapshot.'
+  zh: 刻意描述有缺陷的手机照片：行进中开闪光灯、手持抖动、重影、高光过曝和构图不完美。负面提示排除影棚光、锐利对焦和精修人像感，让画面像一张意外抓拍。
+prompt: |
+  Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman on a Tokyo sidewalk at night beside a white tiled wall. Mid-walk, half-profile, turning back with a shy smile, hand raised toward the camera. Flash fired during motion, strong handheld shake, heavy motion blur, ghosting, streaked tiles, deep shadows, blown highlights, imperfect framing, raw accidental snapshot, authentic noisy phone-camera aesthetic.
+
+  Negative Prompt: identity match, face copy, real person replication, anime, illustration, painting, CGI, stylized, studio lighting, beauty lighting, sharp focus, smooth skin, posed portrait, fashion editorial, cinematic, DSLR, tripod, professional photography

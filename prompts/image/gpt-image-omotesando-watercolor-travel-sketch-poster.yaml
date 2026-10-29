@@ -1,0 +1,26 @@
+id: gpt-image-omotesando-watercolor-travel-sketch-poster
+title:
+  en: Omotesando Tokyo Watercolor Travel Sketch Poster
+  zh: 表参道水彩钢笔旅行速写海报
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- watercolor
+- pen-sketch
+- travel-poster
+- tokyo
+- urban
+source:
+  name: '@kumiko_shiraki on X'
+  url: https://x.com/kumiko_shiraki/status/2054859205224616273
+  credit: しらき@パワポ図解
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-14'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Pairs a pen linework plus loose watercolor wash style with a clean white sketchbook paper base and subtle grain. Naming one real place and the airy, delicate linework keeps the street scene refined and uncluttered.
+  zh: 把钢笔线稿和松散水彩淡彩组合成风格，并指定带细微纸纹的白色速写本纸张作底。点名具体地点，再加上轻盈细腻的线条描述，让街景精致而不杂乱。
+prompt: |
+  Minimalist ultra-high-resolution travel sketch poster of Omotesando, Tokyo, on clean white sketchbook paper with subtle paper grain texture. Style: refined pen drawing + loose watercolor sketch. Delicate black ink linework, airy watercolor washes, elegant urban details.

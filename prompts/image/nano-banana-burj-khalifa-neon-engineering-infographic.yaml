@@ -1,0 +1,98 @@
+id: nano-banana-burj-khalifa-neon-engineering-infographic
+title:
+  en: Burj Khalifa neon engineering infographic poster
+  zh: 迪拜哈利法塔霓虹工程信息图海报
+model: Nano Banana 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- blueprint
+- neon
+- skyscraper
+- json-prompt
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2033347394633695616
+  credit: Gilbert Odera | Your AI Plug
+  likes: 102
+  captured: '2026-10-29'
+  posted: '2026-03-15'
+notes:
+  en: 'A JSON prompt splits the infographic into labeled technical layers: dimension lines, cross section, exploded view, wind flow diagrams, materials and data panels. A fixed palette, a dark blueprint background and a 9:16 ratio keep the dense callouts readable around one centered hero object.'
+  zh: 用 JSON 把信息图拆成尺寸线、剖面、爆炸图、风荷载图、材料和数据面板等分层要素。固定的配色、深色蓝图背景和 9:16 比例,让密集标注围绕居中的主体依然清晰。
+prompt: |
+  "subject": "Burj Khalifa skyscraper",
+      "description": "Cinematic industrial architectural infographic of the Burj Khalifa centered in frame. Ultra-precise technical rendering of the skyscraper with accurate proportions, façade textures, and structural realism. The tower rises vertically as the dominant hero object with glowing vibrant annotations clearly visible against a dark background.",
+      "technical_elements": {
+        "dimension_lines": [
+          "total height",
+          "spire height",
+          "base width",
+          "floor intervals",
+          "observation deck levels"
+        ],
+        "cross_section": [
+          "core structural system",
+          "elevator shafts",
+          "residential floors",
+          "mechanical service levels",
+          "observation decks"
+        ],
+        "exploded_view": [
+          "spire assembly",
+          "tiered setbacks",
+          "structural core sections",
+          "glass façade panels"
+        ],
+        "dynamic_diagrams": [
+          "wind load flow lines",
+          "structural stress distribution",
+          "elevator movement paths",
+          "airflow around tower"
+        ],
+        "materials": [
+          "reinforced concrete core",
+          "steel structural elements",
+          "reflective glass façade",
+          "aluminum cladding"
+        ],
+        "manufacturing_processes": [
+          "high-rise concrete pumping",
+          "steel fabrication",
+          "glass panel installation",
+          "modular floor construction"
+        ],
+        "part_numbering": "Architectural engineering annotation style (Part BK01, BK02, etc)",
+        "tech_data_panels": [
+          "total floors",
+          "height in meters and feet",
+          "construction year",
+          "elevator speed",
+          "floor area",
+          "architectural style"
+        ],
+        "industrial_design_elements": [
+          "QR-style architectural data block",
+          "barcode strip",
+          "micro structural schematics"
+        ]
+      },
+      "design_style": {
+        "layout": "vertical cinematic infographic emphasizing extreme height with surrounding technical callouts",
+        "color_palette": [
+          "neon cyan",
+          "electric magenta",
+          "bright amber",
+          "white highlights"
+        ],
+        "background": "deep midnight blue to black gradient with subtle glowing blueprint grid",
+        "typeface": "sharp modern architectural sans-serif with luminous annotation styling",
+        "lighting": "dramatic vertical rim lighting along the tower edges",
+        "shadows": "clean and subtle to maintain clarity"
+      },
+      "overall_vibe": "high energy futuristic architectural engineering poster designed t
+  o be visually striking and scroll stopping",
+      "aspect_ratio": "9:16"
+    }
+  }

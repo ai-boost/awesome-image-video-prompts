@@ -1,0 +1,30 @@
+id: gpt-image-atlas-miniature-city-diorama
+title:
+  en: Miniature Moscow City Rising From Aged Atlas
+  zh: 从做旧地图中升起的莫斯科微缩城市
+model: GPT Image 2
+mode: text-to-image
+category: architecture
+tags:
+- miniature
+- diorama
+- world-map
+- tilt-shift
+- golden-hour
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2053791622702432453
+  credit: Nexora
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-11'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Swappable COUNTRY and CITY placeholders make the template reusable. A tilt-shift macro camera, golden hour haze and map typography left visible under the buildings blend cartography with miniature worldbuilding.
+  zh: COUNTRY 和 CITY 占位符让模板可以直接替换复用。移轴微距镜头、黄金时刻薄雾，以及建筑下方保留的地图文字，把制图与微缩场景融为一体。
+prompt: |
+  An ultra-premium cinematic atlas visualization of COUNTRY designed as a luxurious collectible miniature world built directly into an aged textured world map. Instead of a simple diorama, the scene features an elevated hyper-detailed micro-city of CITY emerging organically from the terrain like a living architectural island. The environment contains iconic monuments, historic buildings, rivers, bridges, tiny streets filled with realistic urban depth, glowing windows, vegetation, atmospheric details, and elegant cultural symbolism crafted with museum-level precision.
+  The camera angle feels like a high-end macro documentary photograph captured with a professional tilt-shift lens, creating an immersive miniature illusion with cinematic depth separation. Surrounding map typography, borders, coordinates, and neighboring regions remain subtly visible beneath the structure, blending cartography with luxury worldbuilding.
+  Add dramatic golden-hour sunlight mixed with soft volumetric atmospheric haze, realistic ambient occlusion, global illumination, rich shadows, ultra-detailed textures, reflective water canals, tiny moving boats, miniature street lamps, cinematic fog layering, and refined environmental storytelling. Include subtle weathered paper textures, embossed map details, and elegant depth transitions for a premium handcrafted aesthetic.
+  The color grading should feel inspired by luxury travel documentaries and next-generation editorial campaigns — warm golden highlights, rich earthy greens, elegant ivory paper tones, deep architectural contrast, and subtle teal shadows. The composition must feel grand, immersive, artistic, and visually unforgettable.
+  Ultra-photorealistic, insanely detailed, masterpiece-quality, hyper-realistic materials, advanced global illumination, macro realism, depth-rich cinematic atmosphere, luxury travel aesthetic, collectible miniature world design, editorial-quality rendering, 8K ultra detail.

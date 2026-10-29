@@ -1,0 +1,25 @@
+id: gpt-image-fire-water-wet-portrait-reference
+title:
+  en: Fierce wet portrait lit by fire and water
+  zh: 火与水交织的凶猛湿发特写肖像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- close-up
+- dramatic-lighting
+- fire-and-water
+- face-reference
+- cinematic
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2102380695704465698
+  credit: Mr. Tariq
+  likes: 57
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+notes:
+  en: The prompt locks the face to the reference image, then splits the lighting into a warm orange side and a cool dark side. Concrete texture cues such as water droplets, wet hair strands and beard detail keep the close up raw and dramatic.
+  zh: 提示词先要求完全沿用参考图的面部，再把光线分成暖橙一侧与冷暗一侧。水珠、湿发和胡须等具体质感词让特写显得真实而有冲击力。
+prompt: |
+  Create image "A hyper-realistic, cinematic close-up portrait of a man ( use the reference image 100% ) with piercing blue eyes, wet skin glistening with water droplets, and strands of dark wet hair falling across his intense face.His expression is fierce and determined, illuminated by a dramatic fiery orange glow on one side, contrasting with the cool darkness on the other.Ultra-detailed textures of skin, beard, and water droplets create a raw and powerful atmosphere, blending elements of fire and water. Moody, high-contrast lighting, epic and dramatic tone, 8K ultra-detailed.

@@ -1,0 +1,26 @@
+id: gpt-image-shanghai-night-skyline-handwritten-travel-note
+title:
+  en: Shanghai Night Skyline With Handwritten Doodle Notes
+  zh: 上海夜景天际线手写涂鸦旅行笔记
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- travel-journal
+- night-cityscape
+- shanghai
+- handwritten-doodle
+- social-media
+source:
+  name: '@TanLuAI on X'
+  url: https://x.com/TanLuAI/status/2052715035940823085
+  credit: 探路AI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-08'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the photo layout first, with sky share, landmark positions and light colors, then lists exact counts of text notes and white doodles with their placements. Stating that line style is thin and imperfect keeps the overlay looking like a real social media travel note.
+  zh: 先锁定照片构图，包括天空占比、地标位置和灯光颜色，再逐条写明手写文字与白色涂鸦的数量和位置。强调线条纤细、略带瑕疵，让叠加层像真实的社交平台旅行笔记。
+prompt: |
+  Create a travel-journal style night cityscape poster of Shanghai Pudong skyline along the Huangpu River. Use a wide 4:3 canvas showing a realistic nighttime waterfront photo look: dark cloudy sky filling the top two thirds, illuminated skyscrapers along the horizon, the Oriental Pearl Tower on the left glowing pink-red, Shanghai Tower and other high-rises on the right with blue, purple, gold, and white lights, and reflective river water across the bottom with a small sightseeing boat. Add playful white hand-drawn diary doodles and handwritten Chinese annotations directly over the scene, like a social media travel note. Include exactly 6 handwritten text notes: “云也来散步啦” near the upper left with a dotted wandering path and small cloud, “慢慢走 慢慢看♡” near the upper right beside a crescent moon and star, “东方明珠 亮晶晶♡” pointing with an arrow to the Oriental Pearl Tower, “夜风 刚刚好♪” on the left above the river, “今晚的楼 都很会发光♡” on the right above the skyline with a curved underline, and “灯光掉进黄浦江” centered near the bottom over the water. Include exactly 15 white doodle elements: a dotted flight path across the upper left, one small outlined cloud near the top, one crescent moon at the upper right, one scalloped cloud outline near the upper center-right, one arrow pointing to the Oriental Pearl Tower, one dashed outline tracing around the Oriental Pearl Tower, three small sparkle/star icons, two music-note icons, one map-pin icon at the bottom left, two flowing wave lines across the bottom water, and one small flower doodle at the bottom right. Keep all doodles thin, casual, hand-drawn, slightly imperfect, and bright white, with no borders or watermark. The mood should be dreamy, cozy, romantic, and spontaneous, like a handwritten travel memory shared on social media.

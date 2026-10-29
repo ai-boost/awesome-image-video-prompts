@@ -1,0 +1,26 @@
+id: gpt-image-breakfast-dating-sim-visual-novel-ui
+title:
+  en: Breakfast Table Dating Sim Game Screenshot
+  zh: 早餐桌恋爱模拟游戏界面截图
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- visual-novel
+- game-ui
+- json-prompt
+- chinese-text
+- photorealistic
+source:
+  name: '@cellinlab on X'
+  url: https://x.com/cellinlab/status/2049317447556378717
+  credit: Cell 细胞
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-29'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A structured JSON prompt separates scene, lighting, camera, subjects, table items and background elements with explicit counts, which keeps the crowded composition stable. The UI block lists each panel with its position and exact Chinese labels, so the game interface renders as legible text over a photoreal frame.
+  zh: 用结构化 JSON 分别描述场景、光线、镜头、人物、桌面物品和背景，并标明数量，让复杂画面保持稳定。界面部分逐个写明面板位置和中文原文，使游戏界面文字清晰地叠加在写实画面上。
+prompt: |
+  {"type":"cinematic visual novel game screenshot","genre":"romantic live-action interactive story interface","scene":{"location":"shared apartment dining room","time":"early morning","lighting":"warm golden sunrise streaming through large sheer-curtained windows, soft bloom, shallow depth of field, cozy domestic atmosphere","camera":"slightly low seated viewpoint from across a wooden breakfast table, wide-angle lens, intimate first-person perspective","mood":"gentle, nostalgic, subtly flirtatious, slice-of-life"},"subjects":{"count":2,"people":[{"position":"center-left","gender_presentation":"young woman","pose":"sitting casually at the breakfast table, one arm raised behind her head, cardigan slipping off one shoulder","outfit":"gray fitted tank top with a loose light gray cardigan","hair":"messy tied-up dark hair","expression":"relaxed morning look"},{"position":"right foreground","gender_presentation":"young woman","pose":"leaning forward with elbows on the table, face resting in both hands, looking toward the viewer","outfit":"oversized cream knit sweater","hair":"long dark wavy hair","expression":"soft, attentive, affectionate"}]},"table":{"items_count":10,"items":["plate of pasta or breakfast noodles in front of the left woman","plate with toast in the center-right","plate with two fried eggs near the right woman","white coffee mug in the center foreground","second mug near the right woman","small clear glass near the center","metal fork","clipboard with papers at the lower left","small camera at the lower center-right edge","small glass vase with white flowers and green leaves at the lower right"]},"background":{"elements_count":7,"elements":["large bright window with sheer curtains on the left","sunlit wooden floor","wooden door in the center back","wooden chairs","small shelf or cabinet with kitchen items","framed wall picture","softly blurred kitchen area on the far right"]},"ui":{"style":"modern dark translucent game HUD with rounded corners and gold accents","sections":[{"title":"环景心动计划","position":"top-left","count":1,"labels":["第一章 合租公寓的早晨 餐厅"]},{"title":"stats panel","position":"left side vertical","count":5,"labels":["路线 未锁定","事业 32","真诚 38","压力 38","信任均值 30"]},{"title":"action buttons","position":"top-right","count":4,"labels":["关系","回忆","存档","设置"]},{"title":"dialogue box","position":"bottom center","count":2,"labels":["旁白","第二天早晨，你在餐桌中央醒来般坐下。水果、咖啡、合司、舞鞋、手柄和票根围成一圈。"]},{"title":"location tag","position":"lower middle above dialogue box","count":1,"labels":["天文馆黎想"]}]},"rendering":{"look":"photorealistic cinematic still frame, premium dating sim interface, soft film grain, creamy bokeh, warm color grading, realistic skin and fabric textures, slight lens haze"},"parameters":{"chapter title":"{argument name=\"chapter title\" default=\"合租公寓的早晨\"}","game title":"{argument name=\"game title\" default=\"环景心动计划\"}","left character outfit":"{argument name=\"left character outfit\" default=\"gray tank top and loose cardigan\"}","right character outfit":"{argument name=\"right character outfit\" default=\"oversized cream knit sweater\"}","narration text":"{argument name=\"narration text\" default=\"第二天早晨，你在餐桌中央醒来般坐下。水果、咖啡、合司、舞鞋、手柄和票根围成一圈。\"}"}}

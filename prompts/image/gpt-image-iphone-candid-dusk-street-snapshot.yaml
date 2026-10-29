@@ -1,0 +1,28 @@
+id: gpt-image-iphone-candid-dusk-street-snapshot
+title:
+  en: Blurry iPhone Candid of Woman at Dusk
+  zh: 黄昏街头模糊的 iPhone 抓拍人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- iphone-snapshot
+- candid
+- motion-blur
+- natural-light
+- lifestyle
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2051292618248904809
+  credit: Ciri_ai
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt frames the image as an accidental iPhone snapshot and asks for imperfections: slight motion blur and uneven natural light. Those flaws, plus the very ordinary framing, push the model away from polished studio looks toward a believable candid.'
+  zh: 提示词把画面设定为随手误拍的 iPhone 照片，并明确要求轻微动态模糊和不均匀的自然光。这些瑕疵加上平凡的构图，让模型避开精修棚拍感，得到可信的抓拍效果。
+prompt: |
+  I want to see what you really look like.
+  Draw a snapshot of your everyday life as if it were accidentally taken on an iPhone.
+  Make it feel like a very ordinary, imperfect candid shot.
+  The photo should have slight motion blur, with uneven, natural lighting.

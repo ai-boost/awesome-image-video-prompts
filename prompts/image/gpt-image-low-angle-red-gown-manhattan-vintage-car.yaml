@@ -1,0 +1,33 @@
+id: gpt-image-low-angle-red-gown-manhattan-vintage-car
+title:
+  en: Low angle red pleated gown beside vintage car
+  zh: 低机位红色褶皱长裙与复古老爷车时尚大片
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- fashion-editorial
+- low-angle
+- pleated-gown
+- street-photography
+- manhattan
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2106379728303309011
+  credit: Nexora
+  likes: 45
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+notes:
+  en: A low street level camera position with a 24mm lens makes the skyscrapers converge and turns the gown into a giant fan. A tight complementary palette of crimson, burnt orange and turquoise, plus real camera specs and imperfection cues, keeps the result photographic rather than synthetic.
+  zh: 低机位加 24mm 广角让摩天楼向上汇聚，长裙在画面中展开成巨大的扇形。深红、焦橙与青绿的互补配色，加上真实相机参数和瑕疵描述，让画面更接近实拍而不是合成感。
+prompt: |
+  A striking high-fashion editorial photographed from an extreme low street-level angle in Manhattan, New York. A beautiful young woman with fair natural skin and softly windswept light-brown hair stands confidently beside a polished vintage burnt-orange sedan with classic round headlights. She wears an extravagant floor-length crimson red pleated gown with a clean sleeveless silhouette, holding the flowing fabric outward with both hands so the dress spreads dramatically across the frame like a giant sculptural fan.
+
+  Her posture feels effortless yet powerful — shoulders relaxed, head tilted toward the sky, eyes gently closed, hair catching the breeze. Above her, a scattered flock of white and grey city pigeons sweeps across a vivid turquoise-blue sky, adding spontaneous movement and scale.
+
+  Massive Manhattan skyscrapers rise steeply on both sides of the frame, converging toward the sky and creating dramatic architectural leading lines. The vintage orange car remains partially visible in the foreground, its chrome details catching small highlights from the sun.
+
+  Warm late-afternoon sunlight cuts naturally between the buildings, producing realistic directional shadows, subtle rim light around her hair and dress, and beautiful reflections across the car. Deep crimson fabric against burnt orange paint, turquoise sky and warm stone architecture. Rich but believable editorial color grading, realistic skin pores and texture, individual hair strands, extremely detailed pleated fabric, natural cloth physics, authentic street imperfections, realistic reflections and shadows.
+
+  Shot as a real luxury fashion campaign on a full-frame camera, 24mm wide-angle lens, f/4, low camera position, crisp subject detail, controlled highlights, subtle photographic grain, sophisticated magazine-cover composition, cinematic fashion photography, timeless 1990s editorial influence mixed with contemporary luxury campaign photography, photorealistic, tactile, imperfect, expensive, absolutely no CGI or synthetic AI aesthetic --ar 2:3 --style raw --stylize 750 --q 2

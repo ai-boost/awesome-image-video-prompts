@@ -1,0 +1,26 @@
+id: gpt-image-wuhan-layered-paper-cut-tourism-poster
+title:
+  en: Layered paper cut poster of Wuhan skyline
+  zh: 武汉江城分层纸雕文旅海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- paper-cut
+- layered-diorama
+- travel-poster
+- chinese-typography
+- landmark
+source:
+  name: '@Mrpinecone888 on X'
+  url: https://x.com/Mrpinecone888/status/2086643289525264395
+  credit: Mr.pinecone
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-10'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt frames the scene as a foreground window and stacks five to seven textured paper layers, with a fixed top left light for real inter-layer shadows. A restricted palette keeps gold for the focal point only. Exact title, subtitle and seal text are specified, with a long negative list covering cheap red gold templates, distorted architecture and extra copy.
+  zh: 提示词用前景窗口构图并叠加五至七层纹理纸，统一左上光源，让层间阴影真实。配色严格限定，金色只用于视觉焦点。标题、副标题和印章文字逐一写明，并用详细的负面清单排除廉价红金模板、建筑变形和多余文案。
+prompt: |
+  为原创文旅品牌“鹤望武汉”创作一幅高端分层纸雕插画海报，传播命题为“登楼望江，一眼看见武汉的山水骨架”，3:4 竖版。画面使用前景窗口构图，以五至七层厚纹理纸构成蛇山、黄鹤楼、长江、武汉长江大桥与对岸城市天际线；黄鹤楼位于后景山脊，屋檐层叠、金色琉璃瓦与朱红柱体关系准确，中景长江大桥横向延伸，江面两艘小型轮渡尺度克制，不能把晴川阁与黄鹤楼合并。纸张切边利落，统一左上柔光，层间阴影真实，综合色为黛青、暖米白、朱砂红和少量鎏金黄，金色只用于视觉焦点。主标题“登楼见江城”置于右上大片留白区，两行现代宋体；副标题“从蛇山望向长江的壮阔日常”横排于标题下方；品牌名“鹤望武汉”置于左下纸质印章形品牌位，保持现代而非仿古。规范简体中文、无错字漏字，仅使用中文；禁止廉价红金模板、漫天祥云、古装人物、建筑比例失真、塑料材质、厚重发光描边、知名标识、水印与额外文案。

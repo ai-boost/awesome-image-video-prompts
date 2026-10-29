@@ -1,0 +1,25 @@
+id: gpt-image-carved-22-birthday-poster-pop-out
+title:
+  en: Luxury birthday poster with carved 22 wall
+  zh: 雕刻数字22的奢华生日海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- birthday
+- pop-out
+- carved-number
+- navy-palette
+- reference-face
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2064643917895839913
+  credit: Sairah
+  likes: 1026
+  captured: '2026-10-29'
+  posted: '2026-06-10'
+notes:
+  en: The number is carved into a textured wall with inner shadows and filled with balloons and flowers, while the subject sits on its curve and extends past the edge for a 3D pop out. A reference face instruction, a limited navy and white palette, side sunlight and exact typography lines keep the poster consistent.
+  zh: 数字被雕刻进纹理墙面并带内阴影，里面填满气球和鲜花，人物坐在数字曲线上并伸出边框形成立体效果。参考人脸指令、藏青与白的限定配色、侧面阳光和逐行指定的文字让整张海报风格统一。
+prompt: |
+  Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premium off-white luxury paper textured wall. Large number “22” precisely carved into the wall with visible depth, realistic inner shadows, and elegant dimensional detailing. Inside the number: navy blue, pastel blue, and white balloons, delicate white flowers, refined bouquet arrangements, and premium celebration styling. A happy 22-year-old child with preserved reference facial features, wearing a navy blue T-shirt and navy blue denim overalls, sitting casually on the lower curve of the number “22” with one leg bent and the other dangling naturally, smiling brightly while looking slightly upward. Face, shoulder, one arm, and one foot extend outside the carved number, creating a realistic 3D pop-out effect. Warm cinematic sunlight entering from one side, soft rim lighting, photorealistic skin texture, premium studio photography, ultra-realistic details, sharp focus, luxury editorial quality. Typography on the wall: “NOEL”, “CHAPTER 22”, “365 MORE DAYS OF WONDER”. Clean minimalist composition, luxury magazine cover aesthetic, high-end art direction, realistic shadows, natural colors, no tree shadows, no fake lighting, no AI artifacts, premium birthday campaign photography, masterpiece quality."

@@ -1,0 +1,45 @@
+id: gpt-image-photo-top-illustration-bottom-editorial-poster
+title:
+  en: Editorial poster pairing a photo with a paper illustration
+  zh: 上方照片下方纸面插画的编辑海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- editorial-poster
+- photo-to-illustration
+- split-layout
+- minimal
+- paper-texture
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2096807576168169628
+  credit: Sairah
+  likes: 474
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+notes:
+  en: The canvas is split into two exact halves. The top half keeps the uploaded photo faithful, and the bottom half redraws its key elements as a tiny acrylic paper illustration in at most four colors taken from the photo. Spelling out the 10 to 20 percent size limit and the negative space keeps the layout calm and book like.
+  zh: 画面严格上下各占一半，上半保留原照片，下半把照片里的主要元素重绘成小幅丙烯纸面插画，配色取自照片且不超过四种。明确写出占比 10% 到 20% 和留白要求，版面安静，像艺术画册封面。
+prompt: |
+  Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+
+  FORMAT
+  Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+
+  TOP 50% — ORIGINAL PHOTO
+  Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+
+  BOTTOM 50% — MINIMAL ILLUSTRATION
+  Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+
+  Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+
+  COLOR
+  Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+
+  TYPOGRAPHY
+  Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+
+  STYLE
+  Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.

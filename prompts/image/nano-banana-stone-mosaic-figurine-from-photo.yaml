@@ -1,0 +1,46 @@
+id: nano-banana-stone-mosaic-figurine-from-photo
+title:
+  en: Handcrafted figurine built from separate natural stones
+  zh: 由多块天然石头拼成的手工人像雕塑
+model: Nano Banana 2
+mode: image-edit
+category: character
+tags:
+- stone-sculpture
+- figurine
+- handcrafted
+- json-prompt
+- reference-image
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2034513404329865614
+  credit: Sharon Riley
+  likes: 136
+  captured: '2026-10-29'
+  posted: '2026-03-19'
+notes:
+  en: A reference photo is limited to silhouette and pose, so the model rebuilds the subject instead of copying it. Construction rules such as no single stone, separated body parts and visible gaps, plus per part material notes, force a layered assembled look.
+  zh: 参考图只用于轮廓和姿势，模型会重新构建主体而不是照搬。用不允许单块石头、部位分离、保留缝隙等构造规则，再为每个部位指定石材做法，得到层层堆叠的拼装质感。
+prompt: |
+  "reference": {
+        "type": "uploaded_image",
+        "use": "silhouette_and_pose_only"
+      },
+      "subject": {
+        "description": "Small handcrafted figurine made from multiple natural stones",
+        "materials": ["irregular stones", "flat stones", "uneven rock fragments"],
+        "construction_rules": {
+          "single_stone": false,
+          "body_parts_separated": true,
+          "visible_gaps": true
+        },
+        "body_structure": {
+          "head": "constructed from individual stones",
+          "torso": "stacked flat and uneven stones",
+          "legs": "assembled from separate stones",
+          "tail": "layered stone fragments"
+        },
+        "style": "layered, assembled, handcrafted look"
+      }
+    }
+  }

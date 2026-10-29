@@ -1,0 +1,26 @@
+id: gpt-image-misty-lotus-pond-heron-sunrise
+title:
+  en: Impressionist Heron at Misty Lotus Pond Sunrise
+  zh: 晨雾莲池中的苍鹭印象派油画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- impressionist
+- oil-painting
+- landscape
+- sunrise
+- heron
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2055338157554491549
+  credit: Viki
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-15'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes an exact count and placement of water lilies, then pins the heron, sun and willow to named positions, which keeps the wide composition stable. A named pastel palette and loose brushstroke cues hold the impressionist oil look.
+  zh: 提示词给出睡莲的确切数量与分布，并为苍鹭、太阳和垂柳指定位置，使宽幅构图稳定。明确的粉彩色板和松散笔触描述保证了印象派油画质感。
+prompt: |
+  Create a serene impressionist oil painting of a misty lotus pond at sunrise, with a great blue heron standing in shallow water slightly right of center among tall reeds and lily pads. The wide horizontal composition shows calm reflective water filling the foreground and middle ground, with exactly 14 visible water lilies: 3 large blossoms clustered at the lower left, 1 bud near them, 3 small pink blossoms near the center, 1 white blossom and 1 pink blossom beside the heron, 4 blossoms scattered across the right-side lily pads, and 1 small blossom near the far right reeds. Add many round green lily pads, soft ripples, and a clear reflected silhouette of the heron in the water. In the background, place a hazy tree line and a graceful willow-like tree on the right bank covered in pale pink blossoms and drooping branches. The sun sits low near the horizon in the center-left, glowing through peach, coral, lavender, and pale blue clouds, with warm golden light reflecting as a vertical path across the pond. Use a dreamy pastel palette, loose visible brushstrokes, atmospheric mist, romantic tranquil mood, painterly realism, soft edges, no text, no people, no buildings, no harsh contrast. Customize the scene with sunrise, pink and white, peach, coral, lavender, and pale blue, and impressionist oil painting.

@@ -1,0 +1,26 @@
+id: gpt-image-japanese-legal-services-lp-banner
+title:
+  en: Japanese Law and Tax Office Landing Page Banner
+  zh: 日本律师税理士事务所落地页横幅
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- landing-page
+- japanese-text
+- legal-services
+- banner
+- advertising
+source:
+  name: '@takeshibengo on X'
+  url: https://x.com/takeshibengo/status/2047061602315460747
+  credit: 岡野タケシ弁護士【アトム法律グループ】
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Spells out exactly four equal color coded panels, each with a header bar, a stock photo subject and a caption bar, then a separate footer layout. Every Japanese string is given in corner brackets with its position and color, which anchors the text placement.
+  zh: 明确规定四个等宽的彩色分栏，每栏包含标题条、图片主体和底部文字条，再单独描述页脚版面。每句日文都用直角引号写出并指定位置和颜色，便于锁定文字排布。
+prompt: |
+  A Japanese listing-ad style landing page hero banner for a fictional law office and tax accountant office, designed like a bold web advertisement with four equal vertical panels across the top and a strong call-to-action area across the bottom. The top row contains exactly 4 service panels, each with a colored header bar, a photo-realistic stock-photo image, and a colored caption bar at the bottom. Panel 1 is red and labeled 「刑事事件」 at the top, showing a close-up of two hands gripping dark prison bars against a black background; the bottom red caption reads 「逮捕・訴訟に即対応！」 in large bold white Japanese text. Panel 2 is blue and labeled 「交通事故」 at the top, showing a realistic rear-end car crash with two damaged dark-colored sedans on a city street in daylight; the bottom blue caption reads 「慰謝料・示談もお任せ！」 in large bold white Japanese text. Panel 3 is green and labeled 「相続税」 at the top, showing an elderly couple seated at a table consulting with a suited professional, with papers and a small house model visible; the bottom green caption reads 「税相続対策をしっかりサポート！」 in large bold white Japanese text. Panel 4 is orange and labeled 「離婚問題」 at the top, showing a distressed woman sitting indoors with her head resting on one hand; the bottom orange caption reads 「慰謝料・親権の悩みを解決！」 in large bold white Japanese text. Make the four panels touch edge-to-edge with clean white dividers, each panel occupying the same width, and use highly saturated primary colors with glossy ad-design styling. Beneath the four panels, create a cream or light beige background footer area. On the left side, place a smaller black subheadline in Japanese: 「法律相談・税務相談なら」. Centered below it, place the large main office name in metallic gold gradient bold Japanese lettering with a slight bevel effect: 「〇〇法律事務所・税理士事務所」. Add thin black horizontal divider lines above and below the main office name. On the lower right, place a large glossy red rounded rectangular button with a bright gradient and white bold Japanese text reading 「無料相談受付中！」. The overall style should feel like a Japanese legal and tax services LP main visual from a listing ad: corporate, urgent, trustworthy, commercial, photo-based, clean grid layout, bold typography, high contrast, and realistic brochure-quality compositing.

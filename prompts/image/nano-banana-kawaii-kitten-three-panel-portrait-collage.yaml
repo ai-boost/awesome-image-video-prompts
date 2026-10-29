@@ -1,0 +1,51 @@
+id: nano-banana-kawaii-kitten-three-panel-portrait-collage
+title:
+  en: Kawaii Three Panel Portrait Collage With Kitten
+  zh: 少女与小猫的三格可爱人像拼贴
+model: Nano Banana 2.1
+mode: image-edit
+category: collage
+tags:
+- kawaii
+- portrait-collage
+- cat
+- korean-editorial
+- identity-preserve
+source:
+  name: '@TheVirtualMuse on X'
+  url: https://x.com/TheVirtualMuse/status/2110359043495846250
+  credit: Areeba
+  likes: 42
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+notes:
+  en: The prompt locks identity to the reference photo, then fixes the outfit, kitten and panel layout so all three frames stay consistent. Each panel gets its own expression and pose, and the doodle hearts and thought bubbles are limited to a light overlay on a plain grey studio background.
+  zh: 提示词先用参考图锁定人物身份,再固定服装、小猫和分格布局,让三格保持一致。每格单独指定表情和动作,手绘爱心与思考气泡只作为浅灰影棚背景上的轻量点缀。
+prompt: |
+  Using the uploaded reference photo, create an ultra-realistic, high-resolution 9:16 vertical Korean-inspired kawaii editorial portrait collage featuring the exact same young woman. Strictly preserve her facial identity, eyes, nose, lips, facial structure, and natural skin texture.
+
+  Divide the composition into three perfectly equal horizontal panels, separated by thin, clean white lines. Each panel must show a complete, beautifully framed close-up portrait with no awkward cropping.
+
+  STYLE & OUTFIT:
+  Soft, voluminous dark hair styled in a slightly messy high bun with delicate loose strands and a pink floral scrunchie. She wears a cozy cream knitted cardigan with tiny pink floral patterns, a delicate cream lace-trimmed inner top, and a minimalist silver necklace. Naturally rosy cheeks, soft pink lips, expressive eyes, and realistic skin texture.
+
+  CAT:
+  The same adorable, extremely fluffy grey-and-white Ragdoll kitten with big crystal-blue eyes, a tiny pink nose, and soft pink paw pads appears consistently in all three panels.
+
+  PANEL 1 — PLAYFUL CUTENESS:
+  She gently cuddles the fluffy kitten against her cheek, making an adorable tiny pout toward the camera. The kitten looks directly at the viewer with wide blue eyes, both fluffy front paws clearly visible. A tiny white cream dot on her nose adds playful charm.
+
+  PANEL 2 — SWEETEST MOMENT:
+  She rests her cheek against the peacefully sleeping kitten, giving the camera a cute, natural wink and a gentle closed-mouth smile. Both look comfortable and affectionate, creating a heartwarming portrait.
+
+  PANEL 3 — DREAMY CONNECTION:
+  She rests her cheek on one hand while holding the kitten close. The kitten gazes lovingly up at her with curious blue eyes as she looks thoughtfully to the side. Soft, innocent, naturally adorable expressions.
+
+  BACKGROUND & DETAILS:
+  Clean, minimal soft-grey studio background. Add a few delicate hand-drawn pastel pink and white hearts, tiny cat doodles, and playful thought bubbles around the subjects, without cluttering the composition.
+
+  PHOTOGRAPHY:
+  Premium Korean lifestyle editorial photography, professional DSLR quality, 85mm portrait lens, beautifully diffused studio lighting, perfectly sharp faces, detailed eyelashes, realistic hair strands, visible knitted fabric textures, and exceptionally detailed kitten fur. Soft pastel color grading, balanced contrast, natural highlights, and gentle depth of field.
+
+  FINAL QUALITY:
+  Photorealistic, crystal-clear, beautifully composed, irresistibly cute, premium Instagram-worthy aesthetic. Maintain identical facial identity, hairstyle, outfit, and kitten appearance across all three panels. Natural human proportions, accurate hands and paws, no facial distortion, no excessive skin smoothing, no artificial CGI or plastic appearance.

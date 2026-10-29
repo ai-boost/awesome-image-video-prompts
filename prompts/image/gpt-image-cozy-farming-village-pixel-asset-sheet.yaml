@@ -1,0 +1,47 @@
+id: gpt-image-cozy-farming-village-pixel-asset-sheet
+title:
+  en: Cozy Farming Village Pixel Asset Sheet
+  zh: 温馨农场村庄像素素材表
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- pixel-art
+- asset-sheet
+- tileset
+- game-art
+- farming
+source:
+  name: '@givros on X'
+  url: https://x.com/givros/status/2055671614763651572
+  credit: Givros
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-16'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt lists each section with an exact item count, a fixed color for every sprite, and a plain white background with labeled rows. It also fixes one outline style, upper left lighting and a no overlap rule, so the sheet can be cut into game assets.
+  zh: 提示词为每个分区写明精确数量和每个精灵的固定颜色,背景为白色并带分区标签。同时统一描边风格、左上方光源并禁止重叠,成品可以直接切图用于游戏。
+prompt: |
+  Goal: Create a clean reusable 2D pixel-art game asset sheet for a cozy farming village tileset, labeled and organized on a plain white background. Use crisp 32-bit style pixel art, orthographic/front-facing RPG perspective, consistent scale, soft outlines, warm saturated colors, and no shadows outside the sprites. Theme: cozy farming village.
+
+  Canvas: Landscape asset sheet, 4:3 ratio, white background, neatly spaced rows and columns. Add small green sprout icons before each section label. Use dark pixel-font labels in English.
+
+  Layout and required sections:
+  - HOUSES: exactly 5 small cottage buildings, each front-facing with different roof colors and details: 1 blue-roof cottage, 1 golden-yellow roof cottage, 1 green roof cottage with planter boxes, 1 orange-red roof cottage with flowers, 1 purple roof cottage with flowers.
+  - SHOP: exactly 1 shop building with a purple roof, striped purple awning, hanging sign reading “SHOP”, flower pots, and a small sidewalk sign.
+  - BARN: exactly 1 red barn with orange roof, large double doors, side hardware, and one hay pile.
+  - FARM PLOTS: exactly 3 fenced rectangular farm plots: 1 planted vegetable plot with greens, wheat, and root crops; 1 tilled plot with small sprouts; 1 empty tilled soil plot.
+  - SOIL TILES: exactly 8 square terrain tiles in a 2-row grid: 4 plain tiles on the top row, showing dark soil, medium dirt, light sand, and grass; 4 planted or transition tiles on the bottom row, showing seeded soil variations and a dirt-to-grass transition.
+  - TREES: exactly 4 leafy fruit/deciduous trees: 1 round dark green tree, 1 larger bright green tree, 1 smaller yellow-green tree, and 1 apple tree with red fruit.
+  - BUSHES: exactly 3 round bushes: 1 plain green bush, 1 flowering bush with pale blossoms, 1 berry bush with red berries.
+  - SPECIAL TREE: exactly 1 palm tree with a curved brown trunk and green fronds.
+  - LOGS & STUMPS: exactly 5 items: 1 long log, 1 cut log, 1 hollow log, 1 large stump, 1 small sprouting stump.
+  - BEACH PROPS: exactly 5 items: 1 red-and-white beach umbrella, 1 blue striped lounge chair, 1 pink starfish, 1 pink shell, 1 beige shell.
+  - FLOWERS: exactly 6 small flower sprites: white daisies, yellow flowers, pink flowers, orange-red flowers, purple lavender, and a pink tulip.
+  - VILLAGE PROPS: exactly 18 village objects in two rows: wooden signpost, lantern post, mailbox, chalkboard sign, wooden crate, barrel, burlap sack, flower pot, wooden bench, stone well, bucket, produce cart, clay pot, flower planter box, round flower planter, market stall, blue-checkered table with flowers, and another lantern post.
+  - FARM PROPS: exactly 9 farm objects: hay bale, blue water trough, hay cart, short wooden fence segment, milk can, pitchfork, shovel, blue watering can, and long wooden planter box.
+  - SMALL DETAILS: exactly 12 ground-detail sprites: 4 rocks, 1 tiny sprout, 1 tall reed clump, 1 grass tuft, 1 red mushroom cluster, 1 yellow flower patch, 1 white flower patch, 1 lily pad, and 1 lily pad with pink water lily.
+  - FENCES: exactly 4 fence sprites: rail fence, vertical plank fence, rope-post fence, and short gate/fence section.
+
+  Visual style: cute high-quality pixel art game tileset. Keep every asset isolated, centered in its own space, and ready to cut out for game use. Use consistent outlines, consistent lighting from upper left, and no overlapping sprites. Text labels should use a pixel font with the section names exactly as listed. Avoid extra decorative background elements, watermarks, mockup UI, or perspective distortions.

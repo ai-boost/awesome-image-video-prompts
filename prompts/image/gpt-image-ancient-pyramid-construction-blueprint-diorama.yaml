@@ -1,0 +1,27 @@
+id: gpt-image-ancient-pyramid-construction-blueprint-diorama
+title:
+  en: Pyramid construction diorama on architectural blueprints
+  zh: 铺在建筑蓝图上的金字塔施工微缩场景
+model: GPT Image 2
+mode: text-to-image
+category: architecture
+tags:
+- miniature
+- diorama
+- blueprint
+- ancient-architecture
+- template
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2054221110372405534
+  credit: simeon-sanai
+  likes: 426
+  captured: '2026-10-29'
+  posted: '2026-05-12'
+notes:
+  en: A bracketed civilization slot makes the template reusable, while the miniature terrain is told to blend into the printed plans beneath it. Window sunlight, shallow depth of field and a listed set of drafting props give a tactile scale model look.
+  zh: 用方括号文明占位符让模板可复用,并要求微缩地形与下方印刷图纸融为一体。窗边暖光、浅景深和一组绘图道具共同营造出触感真实的比例模型质感。
+prompt: |
+  A highly detailed miniature diorama of an ancient civilization under construction, displayed directly on top of large rolled-out architectural blueprints spread across a realistic wooden drafting table. The scene features iconic historical architecture from [CIVILIZATION OR LOCATION], including partially completed monuments, temples, towers, walls, palaces, streets, or ceremonial structures at different stages of construction. Tiny craftsmen, builders, engineers, and workers interact naturally throughout the scene using historically accurate tools, scaffolding, ramps, cranes, carts, stone blocks, timber frameworks, and construction platforms.
+  The miniature terrain blends seamlessly into the printed engineering drawings beneath, combining realistic sand, stone, earth, marble, vegetation, or desert textures with visible architectural floor plans, elevation sketches, measurements, annotations, and cross-sections. Surrounding the workspace are drafting instruments, compasses, rolled parchment plans, books, rulers, brass weights, candles, maps, carving tools, and historical reference materials that enhance the workshop atmosphere.
+  Soft cinematic lighting with warm natural sunlight from a nearby window, shallow depth of field, ultra realistic textures, handcrafted museum-quality scale model aesthetic, intricate miniature detailing, photoreal materials, atmospheric realism, editorial architectural photography style, clean composition, immersive world-building, vertical composition, extremely high detail, realistic shadows, authentic historical mood.

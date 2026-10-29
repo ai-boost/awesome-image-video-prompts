@@ -1,0 +1,31 @@
+id: gpt-image-lock-screen-wallpaper-ui-hijack
+title:
+  en: Lock screen wallpaper with person hijacking the clock
+  zh: 人物玩转时钟与图标的锁屏壁纸
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- iphone
+- lock-screen
+- wallpaper
+- reference-photo
+- ui-interaction
+source:
+  name: '@sakisuta_ on X'
+  url: https://x.com/sakisuta_/status/2099786676751225192
+  credit: さきすた AI artist
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-15'
+notes:
+  en: The prompt takes a reference photo as the subject and asks the person to play with the empty zones where the clock, date, flashlight and camera icons and notifications will sit. It also bans rendered text and UI, so the effect only completes once the image is set as a real lock screen.
+  zh: 提示词以参考照片的人物为主体，让人物与时间、日期、手电筒和相机图标、通知所在的留白区域互动。同时明确禁止画面中出现文字和界面元素，设为真实锁屏后效果才完整。
+prompt: |
+  参照画像の人物を主題に、iPhoneのロック画面用壁紙を作成してください。
+
+  人物がロック画面を乗っ取って、好き勝手に遊んでいるようにしてください。
+  iPhoneのロック画面のUI（時刻、日付、ライト・写真アイコン、通知）を大胆に活かした演出を加えること。
+
+  ロック画面に設定すると演出が完成するようにしてください。
+  文字やiPhoneのUI要素そのものは画像内に入れないでください。

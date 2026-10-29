@@ -1,0 +1,26 @@
+id: gpt-image-isometric-cybersecurity-icon-grid
+title:
+  en: Isometric cybersecurity and compliance icon grid
+  zh: 等距网络安全与合规图标网格
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- isometric
+- icon-set
+- cybersecurity
+- saas
+- 3d
+source:
+  name: '@kumiko_shiraki on X'
+  url: https://x.com/kumiko_shiraki/status/2054855832337351081
+  credit: しらき@パワポ図解
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-14'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the grid at 3 rows by 5 columns and numbers every icon with its material and color, so the model places each object exactly. Quoted label text is limited to a few specified words, which keeps the lettering legible.
+  zh: 把网格固定为3行5列，并为每个图标编号并写明材质与颜色，让模型准确摆放每个物体。文字只限于少数指定的词，保证字样清晰可读。
+prompt: |
+  Create a modern isometric illustration sheet on a clean light gray background, showing a seamless grid of cybersecurity, privacy, and compliance icons with soft shadows, glossy 3D materials, rounded edges, and a blue, white, gray, red, and orange accent palette. Use a wide horizontal canvas, evenly spaced rows and columns, with no border or watermark. Include exactly 15 discrete icons arranged in a 3-row by 5-column grid: top row: 1) a blue padlock with silver shackle and black keyhole, 2) a blue shield badge with a white check mark and metallic rim, 3) a silver key angled diagonally, 4) a dark smartphone-like biometric panel showing a glowing blue fingerprint scan line, 5) a desktop monitor login screen with a lock icon, password dots, and a blue button labeled “LOGIN”; middle row: 6) a white document page with folded corner, blue lock icon, and label “ENCRYPTED”, 7) a red brick firewall with an orange flame in front, 8) a white surveillance camera with blue lens mounted on a small wall bracket, 9) an ID badge with clip, portrait thumbnail, text lines, and barcode, 10) a red triangular warning sign with black exclamation mark; bottom row: 11) a dark server stack with colored status lights and a blue shield check badge in front, 12) a clipboard checklist labeled “COMPLIANCE” with green checkboxes, 13) a dark smartphone facial-recognition screen showing a wireframe face, scan brackets, and “VERIFYING...” text, 14) an alert dashboard card labeled “ALERT” with a magnifying glass inspecting the list, 15) a gray safe/vault box with round combination dial beside a white policy document labeled “POLICY” with gray lines and green check mark. Keep all icons consistent in isometric perspective, miniature object scale, polished SaaS/security branding style, crisp edges, ambient occlusion, and subtle contact shadows. Text should be minimal and legible only where specified. Theme customization: security and compliance; primary color customization: deep blue; background customization: light gray.

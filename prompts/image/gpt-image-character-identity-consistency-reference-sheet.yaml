@@ -1,0 +1,89 @@
+id: gpt-image-character-identity-consistency-reference-sheet
+title:
+  en: Character identity reference sheet with angles and expressions
+  zh: 含多角度与表情的角色身份固定参考图表
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- character-sheet
+- consistency
+- reference-board
+- expression-matrix
+- multi-angle
+source:
+  name: '@Mrpinecone888 on X'
+  url: https://x.com/Mrpinecone888/status/2082748531736244518
+  credit: Mr.pinecone
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-07-30'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'The prompt treats the reference character as a hard constraint and lists every facial, hair and body trait to lock. It then assigns each zone of the board a fixed job: angle views, an expression matrix, detail anchors and colour swatches. A fallback rule drops repeated panels before it allows smaller text or a drifting identity.'
+  zh: 提示词把参考角色当作硬性约束,逐项列出需要锁定的面部、发型和体型特征,再为版面每个区域指定固定任务:多角度视图、表情矩阵、细节锚点和色样。空间不足时规定先减少重复面板,而不是缩小文字或牺牲角色一致性。
+prompt: |
+  根据附带角色原图创建一张“角色身份固定参考图表”，横向 16:10，浅灰白背景，专业视觉资料板布局。首要目标是让所有面板一眼看出是完全相同的角色，而不是多个相似人物。
+
+  将参考图中的角色身份视为不可更改的硬性约束。严格锁定：
+
+  - 脸部宽高比例、颧骨、脸颊、下颌和下巴
+  - 眼睛轮廓、眼距、眼睑结构和视线气质
+  - 眉毛弧度、粗细、颜色和眉眼距离
+  - 鼻梁、鼻尖、鼻翼以及侧脸鼻形
+  - 上下唇厚度、唇峰、嘴角和自然唇色
+  - 肤色、毛孔、血色和自然皮肤凹凸
+  - 发际线、分线、刘海、侧发、后发长度和发丝流向
+  - 年龄印象、骨架、肩宽、四肢长度和整体体型
+  - 原图服装、原始画风、光线质感和整体氛围
+
+  画面中央用较大面板展示：
+
+  - 全身 正面
+  - 全身 侧面
+  - 全身 后方
+  - 脸部 正面
+  - 侧脸左
+  - 侧脸右
+  - 斜左
+  - 斜右
+  - 后脑部
+
+  每个角度保持完全一致的头骨结构、五官相对位置、头发体积和身体比例。侧脸必须准确延续正面的鼻梁、嘴唇、下巴和额头结构，禁止生成不同人物式侧脸。
+
+  右侧配置小型表情矩阵：
+
+  - 通常
+  - 微笑
+  - 认真
+  - 惊讶
+  - 害羞
+  - 思考中
+  - 困扰表情
+  - 稍悲伤
+  - 平静
+
+  保持相同瞳孔、眼睛基础尺寸、鼻形、唇形和脸型。笑容自然克制，不改变角色年龄或气质。
+
+  下部配置精细身份锚点：
+
+  - 左眼
+  - 右眼
+  - 眉毛
+  - 鼻子 正面
+  - 鼻子 侧面
+  - 嘴唇
+  - 耳朵
+  - 下颌轮廓
+  - 皮肤质感
+  - 刘海结构
+  - 侧发结构
+  - 后发结构
+  - 发梢流动
+  - 手部
+
+  左侧加入 5—7 个准确色样：发色、瞳色、肤色、唇色、服装色、阴影色、基调色。加入极简“固定要点”：脸型固定、眼周固定、鼻形固定、嘴唇固定、刘海固定、体型固定、服装统一、同一角色优先。
+
+  背景干净，柔和均匀光线，无电影式灯光、强烈景深或装饰元素。实写角色保留自然毛孔、汗毛和微小肤色差异；非实写角色严格保持原图线条、色块、阴影和材质，不得擅自转换风格。
+
+  所有标签仅使用清晰简体中文，字号适中，不覆盖人物。若版面空间不足，优先保留身份锚点和主要角度，减少重复面板，不得通过缩小文字或牺牲角色一致性强行塞满。

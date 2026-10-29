@@ -1,0 +1,29 @@
+id: nano-banana-isometric-country-floating-diorama
+title:
+  en: Isometric Floating Country Map Dioramas
+  zh: 等距悬浮国家地图微缩景观
+model: Nano Banana 2
+mode: text-to-image
+category: map
+tags:
+- isometric
+- diorama
+- miniature
+- floating-map
+- template
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2031336245972922862
+  credit: TechieSA
+  likes: 121
+  captured: '2026-10-29'
+  posted: '2026-03-10'
+notes:
+  en: A single [COUNTRY] placeholder makes the prompt reusable, while per-region biome and architecture cues give each area its own look. Isometric miniature framing, cinematic soft light and explicit no people, no text, no labels constraints keep the floating landmass clean.
+  zh: 用一个 [COUNTRY] 占位符让提示词可复用，再按区域写明气候带与建筑特征，使各地区风貌不同。等距微缩视角、电影感柔光，加上不要人物、文字和标签的限定，让悬浮陆地保持干净。
+prompt: |
+  “Ultra-detailed isometric miniature diorama of [COUNTRY] as a single floating map, divided into culturally and geographically distinct regions, connected by elegant winding roads.
+  Each region naturally reflects its real-world biome, climate and architecture — coastal areas with harbors and seaside promenades, mountainous regions with dense forests and misty cliffs, arid plains with ancient stone structures, snowy eastern landscapes with dramatic winter light, and fertile valleys with traditional rural settlements.
+  Iconic landmarks, local architectural styles and natural textures emerge organically from each region without labels or annotations.
+  Each region features unique textures, climate, colors and cultural patterns inspired by local motifs.
+  Isometric perspective, miniature scale, floating landmass style. Cinematic lighting, soft shadows, ultra-realistic textures. High-end architectural visualization, storytelling composition. No people, no text, no labels. 8K quality, hyper-detailed, premium aesthetic.​​​​​​​​​​​​​​​​“

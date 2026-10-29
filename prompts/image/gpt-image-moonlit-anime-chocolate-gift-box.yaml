@@ -1,0 +1,26 @@
+id: gpt-image-moonlit-anime-chocolate-gift-box
+title:
+  en: Moonlit anime chocolate gift box with ten chocolates
+  zh: 月夜动漫风巧克力礼盒与十枚手工巧克力
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- chocolate-box
+- anime-packaging
+- product-photography
+- celestial
+- pastel
+source:
+  name: '@ArtistaNozomu on X'
+  url: https://x.com/ArtistaNozomu/status/2055605249147351470
+  credit: のぞむ＊AIイラスト
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-16'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the layout with an exact count and a 2 by 5 grid, then lists every chocolate by shape, color and gold accent so nothing is left to chance. It also quotes the lid and card text verbatim and mixes product photography with anime illustration.
+  zh: 提示词用确切数量和二乘五网格固定布局,再逐枚写明巧克力的形状、颜色和金色点缀,避免模型自由发挥。同时原样给出盒盖与卡片文字,并把产品摄影与动漫插画混合在一起。
+prompt: |
+  Create a luxurious square product photo of an open premium chocolate gift box themed around an original anime girl character named Nozomu. The box lid is a custom limited-edition package illustration: a soft, dreamy anime girl with long dark navy-black hair with pale pink highlights, large sparkling eyes, blush cheeks, and small pastel blue and pink flowers tucked in her hair, wearing a white ruffled off-shoulder dress. Behind her is a moonlit night city skyline in teal and navy, a large crescent moon, tiny stars, hanging celestial ornaments, delicate gold filigree corner borders, and scattered cherry blossoms. Include elegant package typography on the lid: Japanese-style title “のぞむ”, small romanization “NOZOMU”, script subtitle “Moonlit Dream”, and “CHOCOLATE COLLECTION”. Inside the box, show exactly 10 artisan chocolates arranged in a 2-by-5 grid in black paper cups with thin gold dividers: 1 glossy blue sphere with gold flakes, 1 cream rose-shaped chocolate, 1 faceted pale blue gem chocolate, 1 dark round chocolate with a gold crescent moon and starry top, 1 white flower chocolate with gold center, 1 pale blue-white sphere with gold speckles, 1 pink flower chocolate with gold center, 1 glossy purple heart chocolate with tiny stars, 1 faceted white crystal chocolate with gold accents, and 1 blue marbled sphere with gold swirls. In front of the box, place a small matching dark navy product card with the same “のぞむ / NOZOMU / Moonlit Dream / CHOCOLATE COLLECTION” branding and crescent motif. Surround the scene with satin fabric, a pale silver ribbon bow, crystal glassware, small flowers, warm fairy lights, and sparkling highlights. Use a high-end romantic confectionery advertisement style, shallow depth of field, soft cinematic lighting, pastel blue pink gold palette, glossy textures, intricate packaging details, elegant and magical atmosphere, ultra-detailed photorealistic product photography mixed with polished anime illustration. Keep all text legible and avoid extra logos or watermarks.

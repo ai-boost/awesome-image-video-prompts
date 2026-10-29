@@ -1,0 +1,26 @@
+id: gpt-image-brutalist-technical-system-slide
+title:
+  en: Brutalist Monochrome Technical System Presentation Slide
+  zh: 粗野主义单色技术系统演示幻灯片
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- presentation-slide
+- brutalist
+- monochrome
+- json-prompt
+- design-system
+source:
+  name: '@Russell3402 on X'
+  url: https://x.com/Russell3402/status/2046806087903625331
+  credit: Russell
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A JSON prompt that fixes every panel, label and connector on a strict 8px grid, so the model renders the architecture flow and design-system strip with legible text. Argument placeholders for headline, subheadline and type label make it reusable for other decks.
+  zh: 用 JSON 提示词把每个面板、标签和连线都固定在严格的 8px 网格上，模型就能把架构流程和设计系统底栏的文字渲染清晰。标题、副标题和字体标签用参数占位，方便换成其他演示文稿。
+prompt: |
+  {"type":"minimal monochrome presentation slide","style":"high-contrast brutalist technical design, black background with subtle navy tint, thin white wireframe borders, zero decoration, strict grid, mono-first typography, futuristic industrial UI aesthetic","canvas":{"aspect_ratio":"16:9","background":"near-black with faint blue undertone and slight vignette"},"headline":{"text":"{argument name=\"headline text\" default=\"SHIP THE SYSTEM\"}","position":"upper left","style":"very large condensed geometric techno sans in white, all caps, widely tracked, dominant hero title"},"subheadline":{"text":"{argument name=\"subheadline text\" default=\"BRUTAL CLARITY FOR TECHNICAL IDEAS\"}","position":"below headline","style":"medium white monospace or mono-inspired sans, all caps"},"top_bar":{"count":3,"items":[{"text":"xAI-INSPIRED PRESENTATION SYSTEM","position":"top left"},{"text":"SINGLE SLIDE","position":"top right"},{"text":"16:9","position":"far top right"}]},"layout":{"outer_frame":true,"sections":[{"title":"left principles list","position":"left column","count":4,"labels":["[01] WHITE ON DARK","[02] 8PX GRID","[03] ZERO DECORATION","[04] MONO FIRST"]},{"title":"SYSTEM ARCHITECTURE","position":"center large panel","count":5,"labels":["DATA INTAKE","MODEL LAYER","MEMORY","DELIVERY","OBSERVABILITY & EVALUATION"]},{"title":"DESIGN PRINCIPLES","position":"right sidebar panel","count":5,"labels":["[1] REDUCE SURFACE AREA","[2] MAXIMIZE SIGNAL","[3] COMPOSE IN MODULES","[4] MEASURE EVERYTHING","[5] SHIP ITERATIVELY"]},{"title":"bottom system strip","position":"bottom full width","count":3,"labels":["GRID SYSTEM","COLOR SYSTEM","TYPE SYSTEM"]}]},"center_panel":{"bordered":true,"title":"SYSTEM ARCHITECTURE","flow":{"count":4,"boxes":[{"title":"DATA INTAKE","index":"[01]","lines":["STREAMS","BATCH","API"]},{"title":"MODEL LAYER","index":"[02]","lines":["TRAIN","EVAL","INFER"]},{"title":"MEMORY","index":"[03]","lines":["VECTOR STORE","KV CACHE","ARTIFACTS"]},{"title":"DELIVERY","index":"[04]","lines":["API","PRODUCTS","AUTOMATION"]}],"connectors":"3 right-pointing arrows between the 4 top boxes"},"bottom_module":{"title":"OBSERVABILITY & EVALUATION","index":"[05]","lines":["LOGGING / TRACING / METRICS / FEEDBACK"],"connectors":"dashed feedback line spanning beneath the 4 boxes with 4 upward dotted arrows linking back into each top box"}},"bottom_strip":{"left_block":{"title":"GRID SYSTEM","subtitle":"8PX BASE UNIT","visual":"dense matrix of small white plus signs arranged in rows"},"middle_block":{"title":"COLOR SYSTEM","swatch_count":5,"swatches":["#FFFFFF","70%","50%","20%","10%"],"visual":"five grayscale square swatches from white to very dark gray"},"right_block":{"title":"TYPE SYSTEM","text":"{argument name=\"type label\" default=\"GEIST MONO / GEIST SANS\"}"}},"composition":"clean generous spacing, all elements aligned to an 8px grid, mostly left-aligned text, thin divider lines, no photos, no gradients except extremely subtle background depth, technical pitch-deck cover slide look","rendering":"crisp vector presentation mockup, ultra-sharp typography, polished design system board"}

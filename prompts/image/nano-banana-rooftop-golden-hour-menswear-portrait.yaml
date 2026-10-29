@@ -1,0 +1,25 @@
+id: nano-banana-rooftop-golden-hour-menswear-portrait
+title:
+  en: Golden Hour Rooftop Menswear Portrait
+  zh: 黄金时刻屋顶男装人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- editorial
+- menswear
+- golden-hour
+- rooftop
+- 85mm
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2114270237004628019
+  credit: Picts by AI
+  likes: 61
+  captured: '2026-10-29'
+  posted: '2026-10-25'
+notes:
+  en: Names the light direction, angle and fill color, then lists fabric, wall and skyline materials in detail. Closes with lens, aperture and palette so the bokeh and skin texture stay realistic.
+  zh: 先写明光线方向、角度和补光颜色，再逐项描述面料、围墙和天际线的材质，最后用镜头、光圈和色调收尾，让虚化与皮肤质感更真实。
+prompt: |
+  A candid, medium-full editorial photograph of a confident young handsome male model with a chiselled bone structure and sharp jawline, captured in a thoughtful gaze looking away toward the upper left horizon on an outdoor high-rise urban rooftop terrace during the golden hour, framed in a 9:16 aspect ratio. He stands with an asymmetrical, natural posture, his body turned at a 45-degree angle, with both hands casually inserted into the pockets of his tailored charcoal wool overcoat, slightly pulling the coat's edges forward. He wears a high-contrast cream, ribbed turtleneck sweater that frames his neck, partially visible under the heavy, textured dark overcoat. His medium-short, dark brown hair is styled in a classic cut, swept back and to the left with natural, wavy volume, featuring loose flyaway curls on his left forehead and a matte finish. Natural 45-degree side lighting from the low, golden-hour sun on the camera's left illuminates his left cheekbone, nose bridge, brow ridge, and the cream turtleneck, while casting soft, gradual shadow edges across the right side of his face, neck, and the folds of his dark coat, with a gentle, cool sky-blue fill on the shadow side. He is positioned center-right, leaning near a foreground rooftop parapet wall that features weathered gray stone coping, a tan brick base with recessed mortar joints, and a brushed steel tubular handrail. The background, captured with a shallow depth of field, blurs into a deep, creamy bokeh of an urban skyline, balanced on the far left by a tall, modern glass skyscraper reflecting the warm golden sunset, alongside aged mid-century commercial towers with boxy dark brown and terracotta tan masonry facades catching the orange sunlight. The cinematic image, characteristic of a classic menswear luxury campaign, boasts tack-sharp detail on the subject against the soft, warm golden-hour atmosphere, retaining a rich color profile of charcoal, soft sky blue-gray, cream, and warm amber, shot straight on with the characteristic natural clarity of a full-frame digital camera using an 85mm lens at f/2.0, with preserved shadow details in the wool fabric and natural skin textures.

@@ -1,0 +1,26 @@
+id: gpt-image-crayon-style-social-profile-screen
+title:
+  en: Crayon style social profile screen with castles and candy
+  zh: 蜡笔风格社交主页截图,配城堡与糖果
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- crayon
+- childlike
+- profile-picture
+- whimsical
+- style-transfer
+source:
+  name: '@mdmadeit on X'
+  url: https://x.com/mdmadeit/status/2050013641861214518
+  credit: MD
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-01'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt sets a child's age as the drawing skill level and asks for simple, slightly imperfect forms. It also swaps the original palette for bright crayon colors on white paper and lists concrete decorations such as castles, candy, stars and clouds, which keeps the whole interface cohesive.
+  zh: 提示词用十岁孩子的绘画水平限定笔触,要求形状简单且略有不完美。同时替换原有配色为白纸上的明亮蜡笔色,并列出城堡、糖果、星星、云朵等具体装饰,让整个界面风格统一。
+prompt: |
+  Rework the given image into a crayon-style illustration, transforming the entire scene into something that feels hand-drawn by a 10-year-old. Keep the forms simple and slightly imperfect, like a child’s drawing. Avoid using the original color palette—replace it with bright, playful crayon colors on a clean white paper background. Aim for a soft, cute, and innocent aesthetic. Incorporate fun, childlike details such as castles or towers, candy, stars, clouds, and other whimsical decorations to amplify the playful vibe. The final result should feel charming, colorful, and full of childlike imagination.

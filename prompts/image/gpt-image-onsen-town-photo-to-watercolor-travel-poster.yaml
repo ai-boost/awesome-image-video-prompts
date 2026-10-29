@@ -1,0 +1,31 @@
+id: gpt-image-onsen-town-photo-to-watercolor-travel-poster
+title:
+  en: Onsen Town Photo to Watercolor Travel Poster
+  zh: 温泉小镇照片渐变水彩旅行海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- watercolor
+- photo-to-watercolor
+- japan
+- onsen
+source:
+  name: '@KrishnaBio1 on X'
+  url: https://x.com/KrishnaBio1/status/2106416152364863790
+  credit: KrishnaG
+  likes: 66
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+notes:
+  en: Names two real locations and blends their moods into one scene. It splits the canvas so the upper part is photoreal and the lower part dissolves into watercolor on off-white paper, with exact handwritten caption lines at the bottom.
+  zh: 点名两个真实地点并把各自氛围融合成一个场景。画面上半部是照片级写实,下半部渐变为米白纸上的水彩,底部再给出确切的手写字幕文案。
+prompt: |
+  Create a cinematic, ultra-realistic travel editorial scene inspired by the uploaded references, blending the atmosphere of Kinosaki and Hakone, Japan into one cohesive composition. Show a peaceful traditional Japanese onsen town at evening, with narrow stone streets, elegant wooden ryokan buildings, dark tiled roofs, warm glowing paper lanterns, small traditional shops, noren curtains, and a quiet flowing canal lined with graceful willow trees. Add a misty mountain landscape in the background, with subtle steam rising from hot-spring vents and a calm, authentic Japanese atmosphere.
+  Include a small group of naturally dressed travelers walking through the street, with realistic proportions and candid body language. Combine the warm lantern-lit nighttime mood of Kinosaki with the tranquil misty hot-spring atmosphere of Hakone. Use soft cinematic lighting, realistic textures, gentle reflections on the water, atmospheric depth, natural colors, and highly detailed architecture.
+  Present the final artwork as a premium vintage travel-poster / watercolor art-book composition: the upper/main scene should feel photographic and photorealistic, while the lower portion gradually transforms into delicate hand-painted watercolor with artistic paint splashes and textured off-white paper. Keep the transition seamless and elegant.
+  Add refined handwritten-style typography at the bottom:
+  “KINOSAKI — LANTERN NIGHTS”
+  “HAKONE — QUIET ONSEN STREETS”
+  Minimal, sophisticated Japanese travel aesthetic, nostalgic winter/early-evening mood, editorial composition, 8K detail, realistic photography blended with refined watercolor illustration, no clutter, no distorted architecture, no extra text.

@@ -1,0 +1,26 @@
+id: gpt-image-pink-soft-serve-spoon-macro
+title:
+  en: Pink Soft Serve Swirl on Steel Spoon
+  zh: 不锈钢勺上的粉色软冰淇淋漩涡
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- food
+- macro
+- still-life
+- soft-serve
+- photorealistic
+source:
+  name: '@_xxsun1 on X'
+  url: https://x.com/_xxsun1/status/2066842213242527914
+  credit: 개
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-16'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the ribbon fold count, a single side light direction and a plain beige backdrop so the swirl is the only focus. Macro lens, shallow depth of field and surface texture cues (tiny pores, soft highlights) keep it photorealistic.
+  zh: 明确限定螺旋褶皱数量、单一侧光方向和纯米色背景,让冰淇淋漩涡成为唯一主体。微距镜头、浅景深和细小气孔、柔和高光等质感描述保证写实效果。
+prompt: |
+  Create a photorealistic close-up food still life of one polished stainless-steel spoon held vertically in the center of the frame, its bowl facing forward and filled with one tall mound of soft-serve ice cream. The dessert is pale blush pink, piped into a glossy spiral with exactly 7 broad visible ribbon folds wrapping around the mound and a sharp curled peak at the top. The texture should look creamy, dense, and slightly aerated with tiny surface pores and soft highlights. Use warm natural side lighting from the upper left, creating gentle shadows in the spoon bowl and subtle reflections along the metal rim and handle. The background is a plain warm beige surface with a faint paper-like texture, no props, no text, no hands, and no visible bowl or cone. Compose the image as a vertical 3:4 crop, macro lens perspective, shallow depth of field, centered subject, realistic color grading, minimal elegant food photography style.

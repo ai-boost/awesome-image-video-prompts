@@ -1,0 +1,26 @@
+id: gpt-image-minimal-layered-cutout-travel-poster
+title:
+  en: Minimal Layered Cutout New York Travel Poster
+  zh: 极简分层剪纸风纽约旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- paper-cutout
+- minimalist
+- layered
+- editorial
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2085939245026529335
+  credit: Saul Goodman
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-08'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt names a premium Scandinavian editorial look and explicitly rules out busy handmade paper craft, which keeps the shapes large and clean. A limited palette of 4 to 6 colors, soft shadows and a placeholder for the destination make it reusable for any city.
+  zh: 提示词指定高级斯堪的纳维亚编辑海报风格，并明确排除繁杂的手工纸艺感，使形状大而干净。4到6色的有限配色、柔和阴影和可替换的目的地占位符，让它适用于任何城市。
+prompt: |
+  Create a premium editorial travel illustration of DESTINATION, COUNTRY/REGION using a minimal layered cutout illustration style. IMPORTANT: This must NOT look like a busy handmade paper craft artwork. Instead, it should feel like a premium Scandinavian editorial poster, a modern travel magazine cover, a sophisticated museum-shop print, and an elegant minimalist paper collage design. STYLE: minimal layered cutout illustration, large clean paper shapes, editorial paper collage aesthetic, bold geometric masses, simplified layered depth, soft subtle shadows, clean cut edges with slightly rounded corners, ultra simplified shape language. COLOR & LIGHTING: limited color palette (4–6 colors) featuring PRIMARY COLOR, [SECONDARY COLOR], crisp white, soft slate blue, and pale grey, vibrant but restrained tones. MOOD: calm, modern, refined, premium, slightly whimsical, mature high-end travel branding aesthetic. TYPOGRAPHY: minimal elegant sans-serif typography with the text "[DESTINATION]", clean spacing and alignment, suitable size. ASPECT RATIO: 4:5 vertical poster format.

@@ -1,0 +1,25 @@
+id: gpt-image-female-beauty-makeup-analysis-guide
+title:
+  en: Female Beauty and Makeup Analysis Magazine Infographic
+  zh: 女性美妆分析指南杂志风信息图
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- beauty
+- makeup
+- magazine-layout
+- portrait-analysis
+- 9-16
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2051128014230950346
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 213
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+notes:
+  en: Built from an uploaded portrait, the prompt lists named sections (face overview, style title, intensity scale, feature breakdown, product icons, tips) and fixes a 9:16 magazine layout with a beige, peach and rose palette. It also tells the model to preserve the exact face, so the photo stays the anchor.
+  zh: 以上传的人像为基础，提示词逐一列出分区（面部概览、风格标题、强度刻度、特征拆解、产品图标、小贴士），并限定9:16杂志版式与米色、蜜桃、玫瑰色调。同时要求保留原有面部特征，让照片成为版面的锚点。
+prompt: |
+  Create a high-quality “Female Beauty & Makeup Analysis Guide” infographic based on the uploaded portrait photo, designed in a clean modern magazine-style layout with a 9:16 aspect ratio, using the original image while preserving exact facial features and natural identity without over-retouching. Focus on a soft, elegant, natural aesthetic with subtle makeup and refined grooming. Include sections such as Face Overview (face shape, skin tone, skin type, and facial definition), Beauty Style (titles like “Soft Glam Natural” or “Elegant Minimal” with a handwritten accent), and an Intensity Level scale showing low-to-medium makeup. Add feature breakdown visuals highlighting a smooth natural base (matte or dewy), softly defined brows, neutral eyeshadow, subtle eyeliner, natural lashes, light blush and contour, and hydrated nude lips. Use a neutral feminine color palette of beige, peach, rose, taupe, and warm tones. Include minimal visual icons for products like BB cream, concealer, blush, mascara, brow gel, compact powder, and lip tint. Add quick tips such as keeping makeup natural, blending smoothly, and avoiding heavy layering. Include a final section titled “Soft, Radiant & Effortless.” Ensure the design is clean, balanced, and premium with 8K cinematic quality.

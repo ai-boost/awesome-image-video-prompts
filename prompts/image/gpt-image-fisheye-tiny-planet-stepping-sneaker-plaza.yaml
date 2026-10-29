@@ -1,0 +1,25 @@
+id: gpt-image-fisheye-tiny-planet-stepping-sneaker-plaza
+title:
+  en: Fisheye tiny planet plaza with stepping sneaker
+  zh: 鱼眼小星球广场与迈步跨过镜头的球鞋
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- fisheye
+- tiny-planet
+- worms-eye-view
+- street-photography
+- travel
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2067484351378690487
+  credit: Laraib Fatima‎
+  likes: 401
+  captured: '2026-10-29'
+  posted: '2026-06-18'
+notes:
+  en: Pairs an 8mm extreme fisheye lens with a ground level worm's eye viewpoint, and names the foreground sneaker sole and reaching hand so the subject dominates the frame. The tiny planet curvature of the architecture around a central cloudy sky gives the scene its depth and scale.
+  zh: 用 8mm 极端鱼眼加贴地仰拍视角，并点明前景鞋底和伸向镜头的手，让主体占满画面。建筑沿边缘环绕、中央留出云天，形成小星球式的纵深与尺度感。
+prompt: |
+  Ultra-realistic action photography, extreme fisheye lens, 8mm, worm’s-eye view from ground level, dynamic urban plaza scene. A stylish young person appears to be stepping over the camera, one sneaker sole dominating the foreground, hand reaching toward the lens.. Massive circular “tiny planet” perspective with historic European architecture curving around the edges of the frame, bright blue sky filled with fluffy white clouds at the center. Cinematic composition, dramatic distortion, ultra-wide angle, vibrant colors, sharp focus, HDR, photorealistic, highly detailed skin texture, travel photography aesthetic, motion energy, depth and scale, 8K resolution, professional DSLR quality, masterpiece, Instagram viral shot. Aspect Ratio 4:5.

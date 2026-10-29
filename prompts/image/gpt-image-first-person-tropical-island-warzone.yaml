@@ -1,0 +1,26 @@
+id: gpt-image-first-person-tropical-island-warzone
+title:
+  en: First-Person Tropical Island Warzone Key Art
+  zh: 第一人称热带海岛战场游戏主视觉
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- fps
+- game-key-art
+- military
+- first-person
+- cinematic
+source:
+  name: '@lipeng0820 on X'
+  url: https://x.com/lipeng0820/status/2047231302118858815
+  credit: SimbaLee
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A first-person viewpoint anchored by a gloved rifle in the lower right foreground. Exact counts and left-to-right placement for bunkers, battleships, helicopters and missile trails keep the crowded scene organized.
+  zh: 以右下角戴手套的步枪确立第一人称视角。碉堡、战舰、直升机和导弹尾迹都给出确切数量与左右位置,让复杂画面井然有序。
+prompt: |
+  A cinematic first-person modern military battle on a tropical island coastline, viewed from the perspective of a soldier holding a black assault rifle in both hands at the lower right foreground, with dark tactical gloves visible. The scene shows a fortified coastal base under attack in bright midday sunlight beneath a vivid blue sky with scattered white clouds. In the foreground and midground, depict a rugged dirt path with dry grass, scattered debris, crates, and metal barrels leading into a compact military installation made of futuristic-industrial bunkers and machinery painted olive green and gray. Include 5 prominent base structures: a rounded bunker with a small dome on the far left, a cylindrical tower just right of it, a large central arched hangar-like bunker with a dark entrance, 1 squat turreted structure on the right midground, and 1 stone-and-metal defensive wall section at the far right front. In the center midground, show 1 major ground explosion with orange fire and black smoke, plus 1 tall vertical smoke plume rising behind the base near the cliffs. The background features rocky cliffs lined with many palm trees and a small waterfall descending near the center-left, with the ocean and horizon visible to the right. Over the water, show 4 large gray battleships grouped near the coast on the right side. In the sky, include 3 helicopters, 4 smaller aircraft or drones in the distance, and 5 visible missile or rocket trails streaking diagonally across the sky from right to left, emphasizing an active large-scale assault. Ultra-detailed photorealistic AAA video game key art, realistic lighting, sharp textures, cinematic action composition, wide-angle first-person shooter viewpoint, high contrast, dynamic war atmosphere, epic scale.

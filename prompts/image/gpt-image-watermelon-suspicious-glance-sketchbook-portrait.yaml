@@ -1,0 +1,31 @@
+id: gpt-image-watermelon-suspicious-glance-sketchbook-portrait
+title:
+  en: Sketchbook Portrait of Woman Eating Watermelon
+  zh: 吃西瓜的女子速写本肖像
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- sketchbook
+- editorial-illustration
+- mixed-media
+- expression
+- 9-16
+source:
+  name: '@hey_am_cherry on X'
+  url: https://x.com/hey_am_cherry/status/2108424213132697763
+  credit: Cherry
+  likes: 109
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+notes:
+  en: Stacks traditional media terms (charcoal, ink outlines, cross-hatching, watercolor, gouache) and names an exact palette to get a hand-drawn look. A specific expression, a sideways glance with puffed cheeks, keeps the face readable, and the negative style list (not cartoon, not 3D, not a photograph) holds the semi-realism.
+  zh: 叠加炭笔、墨线、交叉排线、水彩和不透明水粉等传统媒介词，并点明具体配色，得到手绘质感。侧目加鼓腮的具体表情让面部清晰可读，结尾的否定风格清单（非卡通、非3D、非照片）守住半写实。
+prompt: |
+  Create an original vertical 9:16 semi-realistic hand-drawn editorial illustration of a quirky young adult woman caught in a funny, spontaneous moment while eating a slice of watermelon. She has realistic human facial anatomy, naturally flushed cheeks, detailed expressive hazel eyes, a few freckles, and messy dark auburn hair loosely tied in a high ponytail with a mustard-yellow ribbon. She wears a vivid plum-purple blouse with loose cream-colored stripes. Her body leans forward over a kitchen table, her head tilted slightly to one side, eyes glancing sideways with a comically suspicious expression, cheeks slightly puffed, and lips pressed together as she tries not to laugh. One hand holds a juicy watermelon slice close to her mouth while the other rests casually on the table beside a small ceramic plate.
+
+  The image must look like a traditional artist's expressive sketchbook illustration, with loose charcoal and graphite strokes, rough ink outlines, visible construction marks, scratchy cross-hatching, textured watercolor washes and opaque gouache brushwork. Realistic skin shading and believable human hands, painterly facial details, imperfect sketch lines extending beyond the figure, lively spontaneous brush marks. Background: a loosely sketched muted dusty-lavender kitchen wall with pale mint and warm ivory brush strokes, faint illegible handwritten-style artistic scribbles, and unfinished pencil marks.
+
+  Use a fresh, vibrant color palette of plum purple, watermelon red, mustard yellow, dusty lavender, pale mint, and warm peach skin tones. Medium close-up composition, face large and sharply readable, natural human proportions, expressive eyes and mouth, visible paper texture, sophisticated hand-illustrated magazine art aesthetic. Keep the character visually dominant and the background loose and sketchy.
+
+  IMPORTANT STYLE: semi-realistic human illustration, NOT cartoon, NOT anime, NOT 3D, NOT glossy digital art, NOT a photograph. Preserve the raw, loose, textured, imperfect hand-drawn quality of traditional editorial sketch art. Original character, original pose, original outfit, original composition.

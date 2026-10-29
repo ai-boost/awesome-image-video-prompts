@@ -1,0 +1,26 @@
+id: gpt-image-semi-chibi-double-tugging-runner-editorial
+title:
+  en: Running Man Pulled Back by Semi Chibi Double
+  zh: 奔跑男子被半Q版分身向后拉扯
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- semi-chibi
+- studio-portrait
+- fabric-physics
+- reference-photo
+- playful
+source:
+  name: '@Waseem_890Ai on X'
+  url: https://x.com/Waseem_890Ai/status/2073412769693741415
+  credit: WaseemAi
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-07-04'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'The prompt locks identity to an uploaded reference photo, then adds a 3D semi chibi double with a clear action: grabbing the clothing and pulling backward. Explicit fabric physics terms like stretched material, folds and tension, plus a pure white seamless studio and a detailed negative prompt, keep the comedic interaction believable.'
+  zh: 提示词先把人物身份锁定在上传的参考照片上,再加入一个3D半Q版分身,并明确其抓住衣服向后拉的动作。拉伸、褶皱和张力等布料物理描述,加上纯白无缝影棚背景和详细的负面提示词,让这一幕的互动既好笑又可信。
+prompt: |
+  Create an ultra-realistic lifestyle editorial studio photo in a 4:5 aspect ratio. Use the uploaded reference photo as the primary source for the character's identity. Preserve the face, facial features, body proportions, hairstyle, outfit, shoes, colors, and overall appearance exactly as shown. Do not redesign or alter the character. Place the character in a clean, minimalist photo studio with a seamless pure white background. The mood should feel modern, bright, playful, energetic, and polished, like a high-end fashion editorial. Capture the character mid-run with natural, believable movement. The body leans forward, one foot is off the ground, and the arms move naturally. The upper body is subtly pulled backward, as though the clothing is being tugged, while the lower body continues driving forward. Give the character a joyful, expressive face with laughter, excitement, and a hint of playful panic. On the left side, add a stylized 3D semi-chibi version of the same person. Keep the identity recognizable while using a larger head, smaller body, expressive eyes, and exaggerated emotions. The semi-chibi character should look frustrated and determined, grabbing the main character's clothing with both hands and pulling backward in an attempt to stop them. Emphasize the comedic struggle. Focus on realistic fabric physics where the clothing is being pulled, showing stretched material, natural folds, wrinkles, and convincing tension. The interaction should feel physically believable and visually entertaining. Use soft professional studio lighting, crisp shadows, ultra-sharp focus, realistic skin textures, detailed fabric, cinematic editorial styling, clean composition, and a premium polished finish. Negative Prompt: Low quality, blurry, noisy, pixelated, bad anatomy, extra or missing fingers, deformed hands, broken joints, stiff pose, weak motion, incorrect fabric physics, flat clothing, missing wrinkles, unrealistic interaction, altered facial identity, changed outfit, changed shoes, altered body proportions, extra characters, cluttered scene, colored background, props, harsh shadows, dark lighting, plastic skin, poor 3D quality, distorted face, watermark, logo, or text.

@@ -1,0 +1,25 @@
+id: gpt-image-okinawa-couple-film-memory-collage
+title:
+  en: Okinawa couple trip in a faded film collage
+  zh: 冲绳情侣旅行的褪色胶片十二宫格
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- film-look
+- travel
+- collage
+- snapshot
+- japanese
+source:
+  name: '@genel_ai on X'
+  url: https://x.com/genel_ai/status/2046852688491807008
+  credit: GENEL | AIを用いた動画制作
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Asks for twelve casual phone snapshots in one collage and adds a faded cinematic film look. Deliberate camera shake and sloppy framing keep the grid feeling like real memories, not staged shots.
+  zh: 要求一张拼贴里包含十二张随手拍的手机照片，并加上褪色的电影胶片质感。刻意写入手抖和随意构图，让整组画面像真实回忆而不是摆拍。
+prompt: "日本人の若い男女が沖縄旅行中にスマホで何気なく撮影した、エモーショナルな写真。12枚をコラージュ。\n思い出の中の1枚のような、色あせたシネマティックな質感。 \n映画のワンシーンで使えそうなカット。\n手振れ感や、適当に撮影した雑な構図を再現。\n"

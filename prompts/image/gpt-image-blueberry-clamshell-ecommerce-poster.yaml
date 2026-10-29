@@ -1,0 +1,26 @@
+id: gpt-image-blueberry-clamshell-ecommerce-poster
+title:
+  en: Blueberry clamshell box e-commerce poster in icy blue
+  zh: 冰蓝色调蓝莓果盒电商海报
+model: GPT Image 2
+mode: image-edit
+category: product
+tags:
+- ecommerce
+- packaging
+- blueberry
+- chinese-typography
+- product-poster
+source:
+  name: '@op7418 on X'
+  url: https://x.com/op7418/status/2046626506722746736
+  credit: 歸藏(guizang.ai)
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the package shape, label colors and camera angle so the product stays believable, then layers a reference thumbnail, calligraphy headline and an icon list. Cool color grading and moisture details on the fruit keep the photo and the graphic layout in one style.
+  zh: 先锁定包装形状、标签配色和机位让产品保持真实,再叠加参考小图、书法标题和图标列表。冷色调与果实水珠细节让摄影与平面排版风格统一。
+prompt: |
+  A premium e-commerce poster for fresh blueberries in a clean Chinese product-advertising style. Show a clear plastic clamshell box of blueberries as the main subject, placed diagonally from lower center to right side on folded blue fabric, viewed from a slightly elevated angle. The package must remain realistic and consistent: a transparent square container with rounded corners, filled with dark blue blueberries, with a large irregular rounded label on top in white, pale blue, and deep blue, featuring one oversized blueberry illustration in the center and elegant Chinese branding. Make the fruit inside look larger, plumper, fresher, and covered with subtle moisture droplets, while keeping the overall blueberry arrangement believable. The background is an airy icy-blue tabletop with soft cloudy texture, cool daylight, and scattered loose blueberries around the package. Add a few blurred green leaves entering from the top right and bottom right edges for a fresh natural feeling. In the upper-right corner, include 1 small inset image showing the original product package from above on a warm brown surface, like a reference thumbnail. On the left side, create Chinese promotional typography with a large dark blue calligraphy headline 决茗新, followed by 2 smaller lines of copy: 新鲜蓝莓 自然之选 and 每一颗都是自然的礼物. Below that, place 3 vertically stacked feature icons with short Chinese captions: a leaf icon for natural ripeness, a fruit icon for juicy fullness, and a heart icon for rich nutrition. Near the bottom left, add large white brush-style Chinese text 蓝莓, a secondary line 膳食纤维+花青素, and a small net weight line reading 125克. Use cool blue color grading, crisp commercial lighting, sparkling highlights on the plastic lid, premium supermarket packaging aesthetics, high detail, realistic product photography blended with polished graphic design.

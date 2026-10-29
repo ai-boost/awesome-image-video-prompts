@@ -1,0 +1,25 @@
+id: gpt-image-handcrafted-landmark-miniature-diorama
+title:
+  en: Handcrafted London landmark miniature diorama on white paper
+  zh: 白色纸面上的手工伦敦地标微缩场景
+model: GPT Image 2
+mode: text-to-image
+category: architecture
+tags:
+- miniature
+- diorama
+- landmark
+- paper-craft
+- template
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2095336325977444847
+  credit: simeon-sanai
+  likes: 437
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+notes:
+  en: A bracketed slot for the landmark and the city name turns one prompt into a reusable template. Material cues like paper craft, clay and tiny imperfections, plus white paper negative space and soft studio light, keep the scene looking physically miniature.
+  zh: 用方括号槽位替换地标和城市名，一条提示词即可复用为模板。纸艺、黏土和细小瑕疵等材质词，加上白纸留白与柔和棚拍光，让画面像真实的微缩模型。
+prompt: |
+  Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations and subtle objects that represent the location. Use a soft warm color palette, realistic handmade textures, tiny imperfections, paper-craft and clay-like details. Everything should feel physically miniature and lovingly hand-built. Set the entire scene against a clean white textured paper background with generous negative space. Add small elegant typography reading “[CITY / COUNTRY]” and a few tiny location-inspired signs. Soft diffused studio lighting, gentle shadows, charming storybook atmosphere, premium collectible miniature art, highly detailed, vertical 4:5 composition, no people, no photorealistic background.

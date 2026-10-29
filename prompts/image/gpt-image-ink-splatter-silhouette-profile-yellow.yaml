@@ -1,0 +1,26 @@
+id: gpt-image-ink-splatter-silhouette-profile-yellow
+title:
+  en: Ink Splatter Side Profile on Yellow
+  zh: 黄底墨迹飞溅的男子侧脸肖像
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- ink-splatter
+- silhouette
+- high-contrast
+- profile
+- graphic-novel
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2049336920451563776
+  credit: Aijaz
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-29'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A two color palette of black and bright yellow keeps contrast high, and the prompt fixes the facing direction and silhouette style. Ink streaks exploding from the head and shoulders add motion without breaking the clean background.
+  zh: 黑黄双色限定了高对比配色，提示词同时锁定了朝向和剪影风格。从头部和肩部炸开的墨迹带来动感，又不破坏干净的背景。
+prompt: |
+  Side profile portrait of a young man with messy hair and round glasses, minimalist black silhouette style, facing left, dramatic lighting, bright yellow background, dynamic black ink splashes and paint streaks exploding from the head and shoulders, abstract motion effect, modern digital illustration, high contrast black and yellow color palette, cinematic composition, sharp details, graphic novel style, paint splatter art, ultra clean background, 4k.

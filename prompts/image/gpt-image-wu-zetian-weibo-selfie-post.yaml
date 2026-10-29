@@ -1,0 +1,29 @@
+id: gpt-image-wu-zetian-weibo-selfie-post
+title:
+  en: Empress Wu Zetian selfie on a Weibo post
+  zh: 武则天自拍发微博的社交截图
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- weibo
+- social-media-screenshot
+- historical-figure
+- selfie
+- anachronism
+source:
+  name: '@MrLarus on X'
+  url: https://x.com/MrLarus/status/2046585220393324553
+  credit: MrLarus
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A one line prompt pairing a historical figure with a modern social media action lets the model fill in a full Weibo screenshot, with a throne room selfie, hot search tag, post text and in character comments. The anachronism does the work, so no layout needs to be specified.
+  zh: 一句话把历史人物与现代社交行为并置，模型就能自行补全完整的微博截图，包括金殿自拍、热搜标签、正文和符合人设的评论。反差感本身起作用，无需额外描述版式。
+prompt: |
+  [中文]
+  武则天自拍登记发微博
+
+  [English]
+  Wu Zetian taking a selfie, registering and posting on Weibo.

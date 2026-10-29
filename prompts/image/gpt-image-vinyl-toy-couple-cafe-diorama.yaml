@@ -1,0 +1,36 @@
+id: gpt-image-vinyl-toy-couple-cafe-diorama
+title:
+  en: Vinyl toy couple at outdoor cafe table
+  zh: 户外咖啡馆桌边的乙烯基玩具情侣
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- 3d-toy
+- vinyl-figure
+- diorama
+- cafe
+- reference-photo
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2066858886511161451
+  credit: Smiling Khan
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-16'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Starts from a reference photo and describes each figure separately with hair, accessories, clothing and pose, so the likeness carries over into the toy look. Material cues (glossy vinyl, toy joints), a scene brief, a composition line and render keywords (Octane, Unreal Engine) keep the diorama consistent.
+  zh: 以参考照片为基础，分别描述两个人物的发型、配饰、服装和姿势，让形象在玩具化后依然保留。再用材质词（亮面乙烯基、玩具关节）、场景说明、构图指令和渲染关键词（Octane、Unreal Engine）统一整体效果。
+prompt: |
+  Create a highly detailed 3D collectible toy diorama of a stylish young couple sitting at an outdoor café table, inspired by a real-life reference photo. Transform both people into premium designer vinyl figures with smooth glossy plastic surfaces, articulated toy-joint details, oversized expressive eyes, realistic facial features, and fashionable outfits.
+
+  The female figure has dark braided hair, black sunglasses, gold earrings, layered gold necklaces, and a white V-neck blouse. She rests her chin on her hand while smiling at her companion. The male figure has thick wavy dark hair, black sunglasses, a white t-shirt, and a silver wristwatch while drinking coffee from a white ceramic cup.
+
+  Both figures sit at a wooden café table with coffee cups, saucers, and spoons. The setting is an elegant European-style outdoor café with warm beige architecture, large windows, blue umbrellas, lush green trees, and softly blurred background guests.
+
+  Style: Pixar-inspired collectible toy, premium vinyl figure, designer toy aesthetic, ultra-realistic 3D render, glossy plastic texture, toy photography, shallow depth of field, cinematic lighting, warm golden-hour sunlight, photorealistic materials, high-end commercial product photography, sharp focus, ultra detailed, 8K resolution.
+
+  Composition: Front-facing medium shot, both characters centered, natural poses, café ambiance, depth and realism, professional advertisement quality.
+
+  Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination, realistic reflections, HDR lighting, highly detailed textures, collectible figurine showcase.

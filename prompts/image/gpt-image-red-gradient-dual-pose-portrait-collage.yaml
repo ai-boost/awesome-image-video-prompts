@@ -1,0 +1,26 @@
+id: gpt-image-red-gradient-dual-pose-portrait-collage
+title:
+  en: Red gradient collage with large and small portraits
+  zh: 红色渐变背景的大小双人像拼贴海报
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- collage
+- reference-photo
+- red-background
+- typography
+- dual-pose
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2061368984944201957
+  credit: Avelyrah
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-01'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'Locks the face and braided hairstyle to the reference photo, then sets two clear scales for the same subject: a large upper portrait and a smaller full body dancing pose in front. Outfit, accessories, background colour, headline text and watermark positions are all given explicitly.'
+  zh: 先让面部和发辫造型严格对应参考图，再为同一人物设定一大一小两个层次：上方大尺寸肖像，前景较小的全身舞步。服装、配饰、背景色、标题文字和水印位置都写得很明确。
+prompt: |
+  A high-contrast, energetic digital collage on a vibrant solid red gradient background. Large uppercase text across the top reads “AvelyrahnAI” in a clean, modern font. The composition features two distinct, confident images of the same young woman, whose specific face and elaborate side-braid hairstyle are 100% accurate to the reference The large upper portrait shows her smiling confidently, wearing a light pink hoodie, stylish sunglasses on her head, and a modern wristwatch, with one hand near her hair. The second, smaller full-body image in front shows her in a dynamic, playful dancing/stepping pose, wearing a dark green button-up shirt, black tailored trousers, sunglasses, and a trendy watch. A small signature-style watermark "AvelyrahnAi creation" is on the side, and a subtle YouTube logo with link text "Pardesilog386" is at the bottom. The lighting is bright and smooth, giving a slightly airbrushed, edited Photoshop look.

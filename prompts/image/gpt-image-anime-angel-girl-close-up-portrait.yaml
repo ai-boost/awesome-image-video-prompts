@@ -1,0 +1,25 @@
+id: gpt-image-anime-angel-girl-close-up-portrait
+title:
+  en: Anime Angel Girl Close-up Portrait
+  zh: 动漫天使少女特写肖像
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- angel
+- close-up
+- bokeh
+- backlight
+source:
+  name: '@magu_ai_h on X'
+  url: https://x.com/magu_ai_h/status/2099072433664004307
+  credit: magu@ai
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-13'
+notes:
+  en: The prompt asks for individual silky hair strands instead of blocky clumps and describes the eye gradient and highlights in detail. Strong backlighting and a bokeh foliage background give the soft, airy mood.
+  zh: 提示词要求发丝根根分明、柔滑而非块状，并细致描述眼睛的渐变色与高光。强烈逆光加上虚化的树叶光斑背景，营造出柔和通透的氛围。
+prompt: |
+  A high-resolution anime-style close-up portrait of a young girl with long, flowing white hair. The art style is soft and ethereal, emphasizing the texture of individual hair strands to create a silky, smooth appearance rather than blocky clumps. She has large, expressive eyes that are a gradient of teal and light blue, filled with intricate highlights and reflections. Her expression is gentle and slightly surprised, with her mouth parted in a small 'o' shape. A faint blush colors her cheeks. Above her head floats a thin, glowing golden halo ring. On the right side of the frame, a fluffy white feathered wing is visible, suggesting she is an angel or celestial being. She wears a simple white garment with delicate lace detailing at the collar. The background is a bright, out-of-focus bokeh effect of green foliage and sunlight, creating a dreamy, airy atmosphere with strong backlighting.

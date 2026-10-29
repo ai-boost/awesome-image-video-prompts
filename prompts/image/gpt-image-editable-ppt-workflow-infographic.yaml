@@ -1,0 +1,51 @@
+id: gpt-image-editable-ppt-workflow-infographic
+title:
+  en: Dark Chinese Workflow Infographic for Editable Slides
+  zh: 可编辑PPT工作流深色科技信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- workflow
+- chinese-text
+- dark-tech
+- presentation
+source:
+  name: '@NFT_Chen on X'
+  url: https://x.com/NFT_Chen/status/2096887500300296416
+  credit: SuSu_酥酥👅
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes exact counts for every element (3 workflow cards, 3 metrics, 4 output cards, 7 layer panels) and quotes every Chinese string verbatim, which keeps the text legible. A layered layout of process row, tilted slide mockup and output list, plus a named palette of cyan and gold on navy, holds the composition together.
+  zh: 提示词为每类元素规定了精确数量(3张流程卡、3个指标、4张输出卡、7层面板),并逐字给出所有中文文案,保证文字清晰。流程行、倾斜幻灯片和输出列表的分层布局,加上青金配色,让画面结构稳定。
+prompt: |
+  Goal: Create a dark futuristic Chinese workflow infographic slide showing how to turn written content plus images into an advanced editable PPT, with a premium tech presentation aesthetic.
+
+  Canvas: Wide 16:9 horizontal slide, deep navy/black background with subtle circuit-line texture, thin glowing border, cyan and gold neon accents, soft bloom highlights, clean corporate SaaS style.
+
+  Main headline: Centered at the top, use 文稿 + 配图 → 高级可编辑PPT. Highlight “文稿” in gold, “配图” in cyan, and the rest in white. Add a small cyan lens flare under the headline.
+
+  Top workflow layout: Place exactly 3 large rounded rectangular cards across the upper half, connected by a glowing horizontal process line and arrows that run left to right.
+  1. Card 1: Yellow numbered circle “1”, title “ChatGPT”, subtitle “理清文字结构”, large gold chat-bubble icon with three dots.
+  2. Card 2: Cyan numbered circle “2”, title “Image2”, subtitle “生成整页视觉稿”, small mock visual preview containing exactly 3 inner panels: a landscape image, a mini bar-chart/text panel, and a second landscape image.
+  3. Card 3: Yellow numbered circle “3”, title “GPT-6”, subtitle “拆层成可编辑PPT”, layered floating blue sheets over a gold base icon.
+
+  Central demonstration: In the lower middle-left, create one large tilted PPT slide mockup with rounded corners and glow. Slide title text: 未来城市：智能与可持续的融合. Slide subtitle: 技术创新 · 绿色发展 · 生态共生. Inside the slide, show a cinematic mountain lake landscape at sunset, plus a small inset city skyline image on the right.
+
+  Metric row inside the slide: Show exactly 3 metric items along the bottom of the slide: “35% 能源效率提升” with a clipboard icon in cyan, “60% 碳排放降低” with a shield/check icon in gold, and “2026 全面落地目标” with a globe icon in gold.
+
+  Layer conversion effect: To the right of the central slide, show the slide splitting into multiple translucent editable layers, about 7 visible stacked panels, with flowing cyan and gold data particles moving from the slide into the layers.
+
+  Editable output list: On the right side, create exactly 4 stacked rounded cards connected by thin lines to the separated layers:
+  1. “标题文本” with smaller text “副标题文本”, icon: large letter T.
+  2. “流程图节点” with smaller text “可编辑 · 可调整”, icon: flowchart nodes.
+  3. “图片占位符” with smaller text “替换 · 缩放 · 裁剪”, icon: image placeholder.
+  4. “布局与样式” with smaller text “母版 · 主题 · 动画”, icon: layout grid.
+
+  Bottom slogan: Centered near the bottom, in gold Chinese characters with dot separators, use 好看 · 能改 · 复用.
+
+  Visual style: High-resolution presentation infographic, crisp vector-like UI, luminous cyan and warm gold strokes, glassmorphism cards, subtle depth and perspective, modern Chinese typography, clean spacing, no people, no logos, no watermark. Keep all listed text legible and preserve the exact counts: 3 top workflow cards, 3 metric items, 4 editable-output cards, and 7 visible separated layer panels.

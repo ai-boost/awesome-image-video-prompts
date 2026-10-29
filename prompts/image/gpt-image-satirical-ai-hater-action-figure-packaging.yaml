@@ -1,0 +1,26 @@
+id: gpt-image-satirical-ai-hater-action-figure-packaging
+title:
+  en: Satirical AI Hater Action Figure Toy Packaging
+  zh: 讽刺风AI黑粉手办玩具包装
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- action-figure
+- packaging-mockup
+- parody
+- toy-box
+- json-prompt
+source:
+  name: '@Artedeingenio on X'
+  url: https://x.com/Artedeingenio/status/2046550068140937575
+  credit: OscarAI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A JSON spec fixes the exact text of every label, the position of each section and the item counts, so the packaging text stays legible. A named palette, a blister pack material cue and a front facing studio shot keep the retail mockup coherent.
+  zh: 用JSON结构写明每个标签的文字、各区块位置和物品数量，让包装上的文字清晰可读。再配合指定配色、吸塑包装材质描述和正面棚拍构图，让整个零售包装样机保持统一。
+prompt: |
+  {"type":"satirical collectible action figure packaging illustration","style":"retro toy blister pack mockup with gritty streetwear design, distressed cardboard backing, bold comic-style typography, highly legible packaging text, humorous anti-AI culture parody","subject":{"product_name":"AI HATER","product_type":"action figure","theme":"skeptical anti-hype tech critic parody toy","age_label":"AGES 14+","warning_label":{"title":"WARNING:","text":"MAY CAUSE PRODUCTIVITY AND ORIGINAL THOUGHT."},"burst_badge":"100% ORGANIC SKEPTICISM"},"figure":{"count":1,"appearance":"stylized male action figure with intentionally obscured face, standing with arms crossed inside blister packaging","outfit_count":5,"outfit_pieces":["black cap with white text 'THINK FOR YOURSELF'","black hoodie with white text 'CTRL+ COMMON SENSE'","blue distressed jeans with ripped knees and a side chain","black-and-white low-top sneakers","dark undershirt peeking from the hoodie"]},"layout":{"packaging_style":"vertical retail toy box with clear plastic blister window","sections":[{"title":"includes","position":"left-middle pink badge","count":1,"labels":["0 FAITH IN HYPE"]},{"title":"ACCESSORIES","position":"upper-right","count":5,"labels":["black mug reading 'HUMAN TEARS (FUEL)'","spiral notepad reading 'THINGS AI STILL CAN'T DO:' with 4 checklist items: 'BE FUNNY', 'HAVE SOUL', 'LOVE DOGS', 'GET SARCASM'","device reading 'TOUCH GRASS MODE' with a green 'ON' button","grumpy gray-and-white cat figure","sign on wooden stake reading 'PROMPT BETTER. BRO.'"]},{"title":"EXTRA HEADS","position":"mid-right lower than accessories","count":3,"labels":["extra head 1 with obscured face","extra head 2 with obscured face","extra head 3 with obscured face"]},{"title":"BONUS ITEMS","position":"bottom-right","count":3,"labels":["spray can reading 'BULLSHIT DETECTOR SPRAY' with small text 'APPLY DIRECTLY TO PROJECT'","pink brain labeled 'LAST WORKING BRAIN CELL'","metal trash can labeled 'AI SLOP'"]},{"title":"COLLECT THEM ALL!","position":"bottom center strip","count":5,"labels":["DOOMSCROLLER","CRYPTO BRO","INFLUENCER","CORPORATE NPC","YOU?"]},{"title":"mission","position":"bottom-right pink note","count":1,"labels":["KEEP HUMANITY FROM BECOMING BORING."]}]} ,"extra_graphics":{"count":2,"labels":["small illustrated portrait of the character in lower-left corner holding a speech bubble that says 'CRITICAL THINKING IS MY SUPERPOWER.'","black banner under title reading 'NOT ANTI-TECH. ANTI-BS.'"]},"color_palette":{"cardboard":"aged beige with grime and scuffs","accent_colors_count":3,"accent_colors":["hot pink","black","warning yellow"]},"composition":"front-facing product shot, centered figure on left half, accessories arranged in molded compartments on right half, bottom strip of collectible silhouettes, realistic toy packaging reflections and shadows, clean studio lighting"}

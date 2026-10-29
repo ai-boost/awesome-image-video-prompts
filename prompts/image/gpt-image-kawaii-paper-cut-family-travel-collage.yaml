@@ -1,0 +1,25 @@
+id: gpt-image-kawaii-paper-cut-family-travel-collage
+title:
+  en: Kawaii Paper Cut Family Travel Station Scene
+  zh: 可爱纸雕风家庭旅行车站场景
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- paper-cut
+- kawaii
+- diorama
+- family-travel
+- scrapbook
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2058400056722731079
+  credit: Taaruk_
+  captured: '2026-10-29'
+  posted: '2026-05-24'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Stacks material cues (layered cardboard, felt, sticker-like white outlines) on a scene list of four locations, so the result reads as one scrapbook diorama. Tilt-shift, soft depth of field and a vertical composition keep the miniature world feel.
+  zh: 先用分层卡纸、毛毡和贴纸白边等材质词定下风格，再列出四个场景融合成一幅拼贴。移轴、浅景深和竖构图强化了微缩世界的质感。
+prompt: |
+  Adorable kawaii family travel collage, combining four different scenes in one composition, cute anime-inspired parents, friends and children taking selfies and exploring together, handcrafted paper-cut diorama style, layered cardboard and felt textures, miniature world aesthetic, cozy pastel color palette, soft cinematic lighting, playful vacation atmosphere, urban city station scene, shopping mall selfie corner, outdoor nature park, and crowded playground blended into one seamless scrapbook-style artwork, charming sticker-like white outlines around characters, tiny tourists and pedestrians in background, whimsical handcrafted textures, soft depth of field, highly detailed paper craft illustration, warm nostalgic mood, cute casual outfits with glasses, caps, bags and sandals, dreamy Instagram kawaii aesthetic, storybook composition, ultra detailed miniature environment, 3D layered paper art, tilt-shift effect, cozy wholesome family travel vibes, premium handcrafted look, high detail, 8k, vertical composition

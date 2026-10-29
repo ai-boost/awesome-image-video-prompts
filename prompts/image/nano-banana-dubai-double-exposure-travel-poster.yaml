@@ -1,0 +1,37 @@
+id: nano-banana-dubai-double-exposure-travel-poster
+title:
+  en: Minimalist double exposure Dubai travel poster
+  zh: 迪拜极简双重曝光旅行海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- double-exposure
+- travel-poster
+- minimalist
+- dubai
+- silhouette
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2048929122936909857
+  credit: simeon-sanai
+  likes: 380
+  captured: '2026-10-29'
+  posted: '2026-04-28'
+notes:
+  en: The prompt splits the brief into labeled blocks for subject, effect, layout, text and aesthetic, so each requirement is explicit. Naming a profile silhouette filled with landmarks, plus a white background and negative space, keeps the double exposure soft and uncluttered.
+  zh: 提示词按主体、效果、版式、文字、美学分块列出要求，每项都很明确。指定侧脸剪影内填充地标，再配白色背景与留白，让双重曝光柔和不杂乱。
+prompt: |
+  Create a minimalist double exposure travel poster for DUBAI.
+  **Main Subject:** A stylish international traveler, depicted in a sharp profile silhouette. The subject should be dressed in modern travel fashion (simple, neat clothing) with subtle elements such as sunglasses, a camera strap, or a map in hand.
+  **Effect:** Inside the silhouette, use a double exposure effect filled with iconic DUBAI visuals such as landmarks, architecture, cultural elements, landscapes, and city atmosphere. The composition should be blended, soft, and seamless—not overloaded, with a clear focus.
+  **Layout & Style:** Maintain a clean and elegant layout using a bright or white background, soft gradient lighting, minimal distractions, and smooth transitions between elements.
+  **Text:** Add a modern editorial headline in a large, clear font: **'TRAVEL DUBAI'**.
+  Optional small subtext: **[UAE]**
+  **Aesthetic:** The design style should resemble a premium travel campaign with:
+   * Minimalist composition
+   * Soft glow and cinematic lighting
+   * High-end branding aesthetic
+   * No clutter, no busy collages
+   * Balanced negative space
+  **Final Look:** Sophisticated, modern double exposure poster, elegant, print-ready, ultra-detailed, 4K."

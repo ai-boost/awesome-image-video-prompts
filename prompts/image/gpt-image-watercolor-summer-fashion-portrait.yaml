@@ -1,0 +1,26 @@
+id: gpt-image-watercolor-summer-fashion-portrait
+title:
+  en: Watercolor Summer Fashion Portrait with Straw Hat
+  zh: 草帽墨镜夏日水彩时尚肖像
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- watercolor
+- fashion
+- portrait
+- mixed-media
+- summer
+source:
+  name: '@Arina_hoqe on X'
+  url: https://x.com/Arina_hoqe/status/2091721687167586815
+  credit: Arina Ai
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Itemizes each garment and accessory with texture details such as stitch lines, seams and reflections in the lenses. It then fixes the medium as transparent washes plus fine ink contours on white paper with controlled splatter colors.
+  zh: 逐项列出服饰与配饰并给出针脚、缝线、镜片倒影等质感细节，再把媒介锁定为透明水彩加细墨线、白纸留白，并限定飞溅颜色。
+prompt: |
+  Create a vertical watercolor fashion portrait of a stylish young woman with warm light skin and tousled dark brown hair shown from the chest up against a clean white paper background. She wears a wide-brim woven straw sun hat with visible circular stitch lines and loose sketchy ink outlines, round mirrored sunglasses reflecting a tropical beach scene with palm trees and blue sky, glossy red lipstick, silver hoop earrings, a crisp white button-up shirt, a faded light-blue denim jacket with detailed seams, buttons, chest pockets, and watercolor bleeds, plus a tan leather crossbody strap crossing diagonally over her shoulder. Pose her in a relaxed three-quarter view, head slightly tilted upward and turned to the side as if looking into bright sunlight, with loose strands of hair blowing around her face. Use an elegant mixed-media style: transparent watercolor washes, fine black ink contour lines, expressive splatters, soft skin shading, realistic facial proportions, detailed fabric texture, and airy negative space. Include scattered blue and warm brown paint splashes around the figure, especially near the hat and jacket, while keeping the background mostly white. Make the illustration refined, fashionable, summery, travel-inspired, and high-detail, with no text or watermark.

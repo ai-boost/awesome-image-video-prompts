@@ -1,0 +1,50 @@
+id: gpt-image-impasto-miniature-split-poster
+title:
+  en: Family photo paired with impasto painted miniature
+  zh: 家庭照片搭配厚涂油画微缩世界海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- split-frame
+- impasto
+- diorama
+- editorial-poster
+- oil-painting
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2094347150251655199
+  credit: Saul Goodman
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The poster is split into two equal halves, with the original photo locked in place on top and a reimagined thick impasto diorama on white paper below. Exact percentages for the painted area, named palette colors, a list of tactile paint marks and a long avoid list keep the texture physical and the typography in the white space.
+  zh: 海报上下等分，上半锁定原照片，下半把同一场景重绘成白纸上的厚涂油画微缩景观。画面占比、点名的色彩、具体的笔刀质感描述和详细的避免清单，让质感保持立体，文字只留在空白处。
+prompt: |
+  Create a high-end editorial art poster in strict 3:4 vertical format, divided horizontally into two equal 50% halves, with either a seamless join or a very thin divider.
+
+  TOP — ORIGINAL PHOTO
+
+  Preserve the photograph exactly: identity, faces, clothing, proportions, poses, expressions, and subject relationships must remain unchanged. Apply only a warm fine-art film grade with soft contrast, lifted shadows, warm highlights, natural vivid color, and subtle grain. Extend the background naturally if needed, without distorting subjects. Generous environmental space is encouraged.
+
+  BOTTOM — IMPASTO MINIATURE WORLD
+
+  Reimagine the same scene as a poetic miniature diorama made from extremely thick impasto oil paint on pure white textured paper. Keep subjects recognizable but make them tiny, figurine-like, preserving their poses, clothing colors, and key features.
+
+  The painted world should occupy 60–75% of the lower half, surrounded by generous white negative space. Use organic, irregular, feathered paint edges, never a rectangular frame.
+
+  Include sculptural palette-knife clouds, reflective water or a natural path, small flowers, grass, foliage, rocks, birds, distant scenery, and atmospheric light where appropriate. The environment may become slightly more idyllic and dreamlike.
+
+  Make the paint thick, tactile, raised, and three-dimensional, with visible brush and palette-knife marks, paint ridges, drag textures, tiny shadows, and subtle translucent glazes. Keep the paper grain clearly visible.
+
+  TYPOGRAPHY
+
+  Place elegant typography only in the white space: a large handwritten calligraphy title, a short poetic subtitle, and a small reference number. Use refined olive green, warm gray, or soft blue-gray tones. Keep typography understated.
+
+  COLOR & MOOD
+
+  Use vivid, natural colors inspired by the photograph: sky blue, lake blue, green, warm yellow, coral, cherry red, peach, cream, and warm white. The overall feeling should be sunny, fresh, warm, joyful, relaxed, and dreamlike.
+
+  Avoid: muted or muddy colors, sepia, dark-brown filters, fluorescent tones, flat digital art, smooth airbrush effects, plastic 3D rendering, hard borders, generic fonts, text over subjects, and distorted figures.

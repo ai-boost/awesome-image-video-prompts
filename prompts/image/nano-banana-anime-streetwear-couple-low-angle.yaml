@@ -1,0 +1,33 @@
+id: nano-banana-anime-streetwear-couple-low-angle
+title:
+  en: Anime streetwear couple in polos and retro sneakers
+  zh: 穿Polo衫与复古球鞋的动漫街头风情侣
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- streetwear
+- couple
+- low-angle
+- fashion-editorial
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2111325365419610211
+  credit: Emma
+  likes: 74
+  captured: '2026-10-29'
+  posted: '2026-10-17'
+notes:
+  en: Separate male and female character blocks fix each outfit down to the footwear, then composition, art style, lighting, quality and negative prompt follow as labeled sections. A low angle camera and a warm orange against navy palette give the fashion editorial look.
+  zh: 先用男女角色两个独立段落把服装细节写到鞋子，再依次给出构图、画风、光影、质量与负面提示词分段。低机位视角加上暖橙对深蓝的配色，营造出时尚大片的质感。
+prompt: |
+  Create a highly detailed, cinematic anime-style illustration of a stylish couple with a strong, confident presence, inspired by modern streetwear fashion and luxury casual aesthetics. The couple should look effortlessly cool, with realistic anatomy, expressive faces, sharp jawlines, detailed eyes, and natural poses.
+  Male character: A tall, athletic man with a masculine face, strong jawline, short styled hair, and a confident expression. He wears a premium polo shirt, relaxed-fit beige or khaki trousers, white crew socks, a luxury wristwatch, and retro Nike Air Max-style sneakers with white, navy, and red accents.
+  Female character: A beautiful, elegant woman with long, silky black hair, defined facial features, expressive eyes, and a calm, confident expression. She wears a fitted polo shirt, a long black skirt or tailored dark trousers, and stylish retro sneakers that complement the man's footwear.
+  Composition and poses: The couple sits or stands together naturally, conveying confidence, elegance, and a subtle sense of intimacy. Use low-angle camera perspectives to make them appear powerful and fashionable. Emphasize their coordinated outfits, detailed footwear, natural hand positions, and realistic clothing folds.
+  Art style: Premium Japanese anime meets modern Western comic-book illustration, with bold ink outlines, intricate linework, semi-realistic facial features, cel-shaded shadows, sophisticated color grading, and polished digital painting. The aesthetic should resemble a high-end fashion editorial transformed into an anime illustration.
+  Lighting and background: Dramatic cinematic lighting, deep shadows, warm reddish-orange highlights, rich navy and charcoal tones, and a stylish architectural setting. Use carefully balanced contrast, atmospheric depth, and subtle reflections to create a luxurious mood.
+  Quality: Ultra-detailed 4K illustration, full-body composition, anatomically accurate proportions, realistic fabric textures, detailed sneaker designs, sharp focus, professional character design, sophisticated color palette, clean outlines, and visually striking composition.
+  Aspect ratio: 3:4 vertical portrait.
+  Negative prompt: Blurry image, low resolution, distorted anatomy, extra fingers, missing limbs, deformed hands, asymmetrical eyes, unnatural poses, poorly drawn shoes, floating objects, incorrect proportions, excessive gloss, oversaturated colors, text, watermarks, logos with distorted lettering, and duplicate body parts.

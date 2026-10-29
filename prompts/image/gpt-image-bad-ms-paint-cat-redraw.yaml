@@ -1,0 +1,26 @@
+id: gpt-image-bad-ms-paint-cat-redraw
+title:
+  en: Orange Cat Redrawn as Bad MS Paint Doodle
+  zh: 橘猫被重画成粗糙的MS Paint涂鸦
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- ms-paint
+- doodle
+- cat
+- meme
+- reference-image
+source:
+  name: '@op7418 on X'
+  url: https://x.com/op7418/status/2050075020714815898
+  credit: 歸藏(guizang.ai)
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-01'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Names the target medium (mouse drawn MS Paint) and asks for wobbly strokes and minimal detail, so the model degrades the quality on purpose. A per feature color list (orange outlines, pink ears and nose, black eyes, gray whiskers) plus keeping the original composition keeps the doodle recognisable.
+  zh: 点明目标媒介是鼠标绘制的MS Paint，并要求抖动笔触和极简细节，让模型有意降低画面质量。逐部位列出颜色（橙色轮廓、粉色耳朵和鼻子、黑色眼睛、灰色胡须）并保留原构图，涂鸦仍然认得出原图。
+prompt: |
+  Using the provided reference image, redraw the same cat as a deliberately clumsy computer-mouse doodle in a simple MS Paint style. Keep the original centered composition and plain light background, but transform the realistic photo into rough hand-drawn line art with visible wobbly strokes, minimal detail, and an amateur low-effort look. Use thin orange outlines for the head, ears, fur stripes, chest fluff, and body edges; pink scribbled inner ears and nose; black curved closed-eye lines and mouth; and light gray whiskers. Preserve the sleepy closed-eye expression and front-facing pose, but make the drawing look awkward, naive, and slightly messy, like a quick bad sketch traced from the photo.

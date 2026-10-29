@@ -1,0 +1,26 @@
+id: gpt-image-couture-garment-process-infographic-poster
+title:
+  en: Couture Garment Process Infographic Poster
+  zh: 高定服装制作流程信息图海报
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- fashion
+- infographic
+- couture
+- process-board
+- json-prompt
+source:
+  name: '@hx831126 on X'
+  url: https://x.com/hx831126/status/2046454226080219281
+  credit: 虎小象
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A structured JSON prompt lists every module with its position, item count and exact bilingual labels, so the dense layout stays organized around a central exploded view gown. A restrained beige palette and fixed counts for drawings, swatches and photos keep the many small panels consistent.
+  zh: JSON 提示词为每个模块写明位置、数量和中英文标签，让密集版面围绕中央爆炸图礼服保持有序。限定米色调，并固定线稿、面料样、过程照片的数量，使众多小面板风格统一。
+prompt: |
+  {"type":"fashion design infographic poster","style":"editorial couture process board, minimalist luxury branding, soft beige monochrome palette, clean white background, fine technical linework, delicate paper texture, elegant serif and small caps typography, bilingual Chinese and English fashion presentation","subject":{"theme":"the full decision chain behind a women's garment from material research to final dress","centerpiece":"a tall front-facing female model wearing an avant-garde deconstructed gown in layered ivory, sand, taupe, and warm beige fabric panels, with semi-transparent pattern pieces, drape fragments, and construction lines floating around the body like an exploded view","model":{"face":"intentionally blurred or obscured","pose":"standing upright, arms relaxed, couture presentation stance"},"garment":{"type":"floor-length sleeveless couture dress","silhouette":"column base with dramatic asymmetrical layered draping, sculptural folds, flared lower panels, and fragmented pattern-like extensions","materials":"matte woven fabric, sheer organza-like overlays, muslin toile textures, paper-pattern aesthetics"}},"layout":{"orientation":"vertical poster","density":"information-dense","sections":[{"title":"一件女装诞生的因果链","position":"top header","count":1,"labels":["THE CAUSAL CHAIN OF A WOMEN'S GARMENT"]},{"title":"面料与材料","position":"upper left","count":6,"labels":["Fiber","Yarn Structure","Fabric Construction","Weight","Drape","Surface Texture"]},{"title":"灵感与企划","position":"left upper-middle","count":6,"labels":["Inspiration Source","Color Direction","Woman Image","Occasion Positioning","Silhouette Intention","Design Sketch"]},{"title":"设计与轮廓","position":"left lower-middle","count":7,"labels":["Drape Sketch","Construction Line","Form Sketch Relationship","Volume Line","Wear Line","Movement Line","Proportion"]},{"title":"中央信息链","position":"center left and center","count":13,"labels":["RAW MATERIAL AND FABRIC","MATERIAL DENSITY FORCE","INSPIRATION BECOMES DIRECTION","SKETCH DECIDES SHAPE","DRAPE PRACTICE SHAPES THE SILHOUETTE","DRAPING & PATTERNMAKING","THE PATTERN SYSTEM","SAMPLE SEWING","FITTING REVEALS TRUTH","REVISED MAKES IT RIGHT","TEAM COLLABORATION","FINAL CONSTRUCTION","COLLABORATION MADE VISIBLE"]},{"title":"打版与立裁","position":"upper right","count":6,"labels":["Pattern Drafting","Panel Line","Balance","Grain Direction","Patternmaking","Draping"]},{"title":"裁剪与样衣","position":"right middle","count":5,"labels":["Cutting","Layout","Sample Sewing","Combination Sequence","Technology Test"]},{"title":"试穿与修正","position":"right lower-middle","count":4,"labels":["Fit test","Before","After","Revision"]},{"title":"团队协作","position":"bottom left","count":8,"labels":["Design Team","Patternmaker","Fabric Table","Fit Model","Design Review","Technical Meeting","Merchandising","QC"]},{"title":"成衣呈现","position":"bottom center","count":5,"labels":["Look","Finished Front & Back","Label & Cm","Packaging","Detail"]},{"title":"最终上身","position":"bottom center-right","count":4,"labels":["Drape","Proportion","Movement in Motion","Close-up"]},{"title":"因果总结","position":"bottom right","count":6,"labels":["Material Base","Aesthetic Judgment","Structural Engineering","Craft Precision","Body Negotiation","All these shape one result"]}],"additional_elements":{"technical_drawings":12,"fabric_swatches":8,"process_photos":23,"mini figure sketches":10,"diagram_arrows":"many thin annotation arrows and numbered callouts connecting process steps to the central garment"}},"text":{"headline_cn":"一件女装诞生的因果链","headline_en":"THE CAUSAL CHAIN OF A WOMEN'S GARMENT","top_right_quote":"A finished garment is visible, collaboration made visible. Every seam preserves a decision.","footer":"A garment exists because of countless decisions."},"color_palette":{"primary":"{argument name=\"primary palette\" default=\"ivory, cream, sand, beige, taupe\"}","background":"warm white","accent":"light gray linework and muted brown text"},"rendering":{"lighting":"soft studio lighting, diffuse and shadow-light","detail_level":"very high","composition":"magazine-quality infographic with the model centered and narrow modular side panels","mood":"intellectual, refined, process-driven, couture atelier"}}

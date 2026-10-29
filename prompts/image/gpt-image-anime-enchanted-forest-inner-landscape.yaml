@@ -1,0 +1,26 @@
+id: gpt-image-anime-enchanted-forest-inner-landscape
+title:
+  en: Anime Girl Enchanted Forest Double Exposure
+  zh: 动漫少女心象森林双重曝光
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- double-exposure
+- watercolor
+- forest
+- typography
+source:
+  name: '@ArtistaNozomu on X'
+  url: https://x.com/ArtistaNozomu/status/2057099863494652378
+  credit: のぞむ＊AIイラスト
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-20'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt blends the hair and dress with a forest scene through double exposure, and fixes the layout by naming where the palm, stream and flowers sit. Exact counts for the butterfly, headline and profile lines, plus quoted text strings, keep the typography overlay accurate.
+  zh: 提示词用双重曝光让头发和裙子融入森林场景,并指明手掌、溪流和花朵的位置来固定构图。蝴蝶、标题和资料行都给出确切数量与原文字符串,让文字排版更准确。
+prompt: |
+  Create a luminous vertical anime illustration visualizing a girl's “inner landscape” through double exposure. Canvas: tall portrait 9:16, soft white background with airy watercolor splashes and glowing particles. Subject: one smiling anime girl, half-body seated pose, turned slightly toward the viewer, long flowing fresh green hair, sparkling green eyes, delicate face, open happy expression, wearing a translucent pale blue-green dress. Her hair and dress are blended with an enchanted forest double exposure: sunlit trees, a clear stream, mossy rocks, wildflowers, blue-green leaves, tiny white and yellow blossoms, and shafts of golden sunlight, as if the forest exists inside her silhouette. Add exactly one turquoise butterfly resting on her open right palm. Add blue flower ornaments in her hair and small matching floral earrings. Lighting: high-key backlight from the upper right, warm golden glow around the crown of her head, glittering bokeh, soft rim light, ethereal and dreamlike. Composition: the girl fills the left and center of the frame, her open palm extends to the right, the forest stream flows vertically through the lower half of her dress, with flowers concentrated near the bottom edge. Text overlay on the upper-right in elegant thin serif typography: main Japanese title 心に咲いた景色, small subtitle “INNER LANDSCAPE”, then four compact profile lines reading “Inner Landscape Type / Enchanted Forest”, “Emotion Level / 86%”, “Memory Color / fresh green”, and “Exposure Point / hair / dress / skirt”. Include exactly 1 character, 1 butterfly, 1 main Japanese headline, 1 English subtitle, and 4 profile text items. Visual style: delicate modern anime key visual, transparent watercolor, soft pastel cyan, mint, teal, white and gold palette, detailed eyes, luminous double exposure, no harsh outlines, no watermark, no extra characters.

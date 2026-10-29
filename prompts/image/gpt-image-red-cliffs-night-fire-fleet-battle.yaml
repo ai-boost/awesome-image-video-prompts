@@ -1,0 +1,26 @@
+id: gpt-image-red-cliffs-night-fire-fleet-battle
+title:
+  en: Red Cliffs Night Battle Burning Fleet
+  zh: 赤壁夜战火烧战船
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- historical
+- battle
+- fire
+- cinematic
+- painterly
+source:
+  name: '@Saccc_c on X'
+  url: https://x.com/Saccc_c/status/2047211498838352177
+  credit: Sac
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Exact object counts for foreground rafts and riders anchor the composition, while a layered depth structure runs from foreground deck to burning fleet to inferno shoreline. A restricted palette of black, ember red and bronze keeps the dense detail readable around the river of fire.
+  zh: 用精确的数量限定前景木筏和骑手，再按前景甲板、中景船队、远岸火海分层铺开纵深。黑、暗红、青铜的限定色板让密集细节仍围绕火河保持清晰。
+prompt: |
+  A monumental cinematic historical painting of the Battle of Red Cliffs at night, showing an entire ancient Chinese river fleet consumed by fire. The composition is a tall vertical frame viewed from a slightly elevated dockside angle, with the river running deep into the center distance and packed with burning warships. Count exactly 3 dominant foreground raft-like platforms or deck structures on the lower left and center foreground, each made of rough timber and engulfed in flames, with soldiers standing shoulder to shoulder among drums, poles, and red battle flags. Count exactly 2 mounted commanders in the lower right foreground galloping toward the viewer along a wooden pier or bridge: the front rider is sharply visible, wearing dark lamellar armor and a wind-whipped deep red cloak, shouting with urgency; the second rider beside him is darker and partially obscured. Across the middle ground, count dozens of ancient Chinese sail warships and smaller boats, many already burning, with traditional battened sails, wooden hulls, siege-like superstructures, and collapsing masts. The far shoreline and fleet form a continuous inferno, with towering sheets of orange flame, black-red smoke clouds filling the sky, and countless sparks and embers blowing through the air. The water reflects molten orange firelight with streaks of black shadow between ships. Fill the image with dense soldiers, rigging, banners, drums, weapons, and chaotic battlefield detail, but keep the overall readability centered on the river of fire. Use a dark, dramatic palette of black, ember red, burnt orange, and bronze, with intense high-contrast firelight, volumetric smoke, epic scale, ultra-detailed textures, dynamic motion, and the grandeur of a legendary Three Kingdoms scene. Historical Chinese warfare aesthetic, grim, heroic, catastrophic, painterly realism, no modern elements, no text.

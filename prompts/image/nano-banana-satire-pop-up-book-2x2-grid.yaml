@@ -1,0 +1,49 @@
+id: nano-banana-satire-pop-up-book-2x2-grid
+title:
+  en: Four satirical pop up books with clay machines
+  zh: 四本讽刺时事的立体书与黏土机器
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- pop-up-book
+- satire
+- diorama
+- clay
+- grid
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2109953794931134838
+  credit: Gadgetify
+  likes: 14
+  captured: '2026-10-29'
+  posted: '2026-10-13'
+notes:
+  en: A CLASSIFY block and immutable design laws keep flat black and white ink pages strictly apart from glossy clay 3D figures. Fill in variables such as subject, metaphor machine and contradiction, so the 3D action visibly contradicts the 2D text.
+  zh: 用 CLASSIFY 分类块和不可违反的设计法则，把平面黑白墨线书页与光亮黏土立体小人严格区分。再填入主题、隐喻机器和矛盾等变量，让立体动作直接反驳平面文字。
+prompt: |
+  2x2 grid, 16:9, do this for 4 topics in the news this week: CLASSIFY(input) → {
+    domain:      editorial_satire × pop_up_engineering × hybrid_2D_3D_diorama
+    intent:      critique + delight + literalize (making abstract hypocrisy physically tangible)
+    audience:    editorial readers, political cartoon consumers, art-toy collectors
+    platform:    4:5 vertical or 1:1 square, high-res digital spread, viral infographic
+    complexity:  extreme (requires strict 2D/3D material separation, kinetic metaphor mechanics,
+                          dense typographic integration, and ironic contradiction logic)
+  }
+
+  CORE DESIGN LAWS (IMMUTABLE):
+    ⚠ THE INK IS FLAT. THE CLAY IS ROUND. THE JOKE IS PHYSICAL.
+    • Base: 2D B&W comic pages / printed guide (Matte, flat, hatched).
+    • Pop-Up: 3D miniature metaphor machine rising from the pages (Glossy/Clay, dimensional).
+    • Actors: Tiny 3D figures enacting the irony (Self-defeating, exaggerated).
+    • Annotations: Labels, bubbles, and signs bridging the 2D/3D gap.
+    • The Joke: The 3D action must physically contradict the 2D text.
+
+  SEMANTIC_VARIABLES (AI infers from {{SUBJECT}}):
+    {{SUBJECT}}         → [e.g., Corporate Greenwashing, Social Media Outrage, Modern Dating]
+    {{METAPHOR_MACHINE}}→ [e.g., A PR Factory, A Treadmill of Validation, A Slot Machine of Swipes]
+    {{2D_BASE}}         → [e.g., An open corporate manifesto, a self-help comic guide]
+    {{3D_MATERIAL}}     → [e.g., Polymer clay, painted resin, papercraft]
+    {{CONTRADICTION}}   → The core hypocrisy (Stated Intent vs. Actual Output)
+    {{ACTORS}}          → Tiny figures trapped in or operating the machine
+    {{ANNOTATIONS}}     → Blunt labels, warning signs, scoreboard stats

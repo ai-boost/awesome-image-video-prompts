@@ -1,0 +1,41 @@
+id: nano-banana-three-level-circular-villa-terraces
+title:
+  en: Three Level Circular Villa With Terraced Gardens
+  zh: 三层圆形别墅与露台花园
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- architecture
+- villa
+- terraces
+- garden
+- photorealistic
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2036509194116014564
+  credit: Gilbert Odera | Your AI Plug
+  likes: 92
+  captured: '2026-10-29'
+  posted: '2026-03-24'
+notes:
+  en: The prompt is organized into labeled sections for style, materials, each level, setting and lighting, so every floor gets its own concrete details. Naming specific flowers, materials and a late afternoon sun with warm interior lights keeps the elevated view coherent.
+  zh: 提示词按风格、材质、逐层细节、环境和光线分段，每一层都有具体描述。点明花卉品种与材质，并设定傍晚阳光和室内暖光，让俯视画面保持统一。
+prompt: |
+  Visual Style: High-end architectural rendering and photorealistic photograph. Elevated perspective, focusing on detail.
+
+  Architecture and Materials: Ultra-modern, three-level circular house with terraced decks and extensive curved glass windows. Exterior walls made of dark charcoal-grey textured concrete and render. Accents of warm, rich wood trim on the staircase risers, deck edges, and railings. Extensive exterior concrete and wood stairs connect the levels.
+
+  Detailed Level-by-Level Features:
+
+  Rooftop Level: A large, circular, tiled terrace deck. Features a modern wooden dining table set with four chairs and central potted plants. Includes a smaller integrated metal water feature and the top of a spiral staircase. Dark wall sconces.
+
+  Middle Level (Main Terrace): A larger concrete terrace area with an integrated, L-shaped cushioned lounge bench and a dining table set. Potted plants. Large sliding glass doors open to reveal a warmly lit living room interior with a beige leather sofa and a rug. More dark wall sconces.
+
+  Ground Level (Patio & Garden): A brick-paved patio area. Wraps around the base with intricately designed, curved integrated garden beds. These beds are filled with multiple varieties of colorful flowering plants (purple hydrangeas, red petunias, yellow and white flowers) and multiple spherical topiary bushes, including a large one in a textured pot. A central small feature fountain. Floor-to-ceiling curved glass windows wrap the ground floor, revealing a warmly lit interior with sophisticated furniture, lamps, and a stone table.
+
+  Setting and Background: The paved brick ground covers the immediate foreground. The surrounding context is a dense, lush, green forest of mature trees under a bright, clear sky.
+
+  Lighting: Bright, clear exterior daylight (late afternoon sun), casting defined shadows. All interior lights (fixtures, lamps) are on, emitting a warm, inviting glow.
+
+  Aspect Ratio 2:3

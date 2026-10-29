@@ -1,0 +1,26 @@
+id: gpt-image-anime-driver-split-screen-mountain-pass
+title:
+  en: Anime driver split screen on mountain pass
+  zh: 峠道漂移的动漫车手分屏画面
+model: GPT Image 2
+mode: image-edit
+category: illustration
+tags:
+- split-screen
+- racing-game
+- anime
+- driver-view
+- reference-character
+source:
+  name: '@Eris_Create_Lab on X'
+  url: https://x.com/Eris_Create_Lab/status/2069652470331228244
+  credit: Eris Create Lab
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-24'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt locks the character to a reference image, then splits the frame into a cockpit view and a rear chase camera. It states repeatedly that both halves show the same car, corner and moment, which keeps the two views consistent.
+  zh: 提示词先用参考图锁定角色，再把画面分成车内视角和后方追尾视角。它反复强调左右是同一辆车、同一弯道、同一瞬间，让两个镜头保持一致。
+prompt: |
+  参照画像のキャラクターを完全に維持する。キャラクターの顔、髪型、髪色、瞳、耳、体格、骨格、肩幅、首の太さ、腕のシルエット、年齢感、性別表現、雰囲気を維持すること。画面は左右二分割されたスプリットスクリーン構成。左右は同じ瞬間を異なるカメラで撮影している。左右は同じ車両、同じコーナー、同じ時間軸である。【車両】左右画面に登場する車両は同一車両。車種：スポーツカーまたはチューニングカー。左右画面は同一車両を異なる視点から映している。【左画面】ドライバーカメラ。車内から見た斜めローアングル腰上ショット。キャラクターは車両を運転している。両手でハンドルを握る。コーナリング中。視線は進行方向へ向けられている。真剣な表情。集中している。身体には横Gがかかっている。髪や衣装がわずかに揺れている。衣装：モータースポーツファッション。キャラクターの顔と表情が大きく見える。車内のロールケージ、バケットシート、メーター類が自然に見える。【右画面】三人称追尾カメラ。同じ車両を後方やや上空から追いかける視点。日本の峠道。森林に囲まれたワインディングロード。ガードレール。路面標示。ヘアピンカーブ。実在する峠道のようなリアリティ。コーナリング中。車体荷重が感じられる姿勢変化。高速走行。躍動感。タイヤのグリップ感。路面との一体感。【画面演出】レースゲームのスクリーンショット風。HUDは最小限。またはHUDなし。スポーツ中継映像のようなリアリティ。左右画面は別のシーンではない。左右画面は同一の瞬間を異なるカメラで撮影している。キャラクターのハンドル操作と車両挙動は完全に同期している。同じ瞬間を二つのカメラが捉えていることが明確に伝わる。高品質アニメキャラクター。高品質背景。躍動感。スピード感。映像作品のワンシーン。

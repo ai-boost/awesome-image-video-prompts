@@ -1,0 +1,39 @@
+id: gpt-image-sun-disintegration-doves-selfie-portrait
+title:
+  en: Man disintegrating into black fragments before burnt orange sun
+  zh: 男子身体碎裂成黑色碎片,背后是橙色巨日
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- selfie
+- disintegration
+- surreal
+- cinematic
+- reference-photo
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2102054027605459193
+  credit: Mr. Tariq
+  likes: 40
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+notes:
+  en: The prompt locks identity from the reference photo with a list of facial features, then gives the outfit, pose and framing in plain terms. It describes the body to particle transition on one side only, adds doves at different distances for depth, and ends with a negative prompt against identity drift and hand errors.
+  zh: 提示词先用一串面部特征锁定参考图中的人物身份,再写清服装、姿势和构图。它只让半边身体向碎片与粒子过渡,用远近不同的白鸽增加层次,最后用负面提示词防止脸部走样和手部错误。
+prompt: |
+  Create a highly realistic cinematic full-body portrait of the person from the reference image. Preserve the exact facial identity, facial structure, hairstyle, skin tone, beard, eyes, nose, lips, and natural body proportions.
+
+  The man is standing confidently in a relaxed pose with both hands naturally inside his pants pockets. He is wearing a dark charcoal oversized sweatshirt, black cargo pants, a black wristwatch, and black sneakers.
+
+  Behind him is a huge textured burnt-orange circular sun, creating a powerful cinematic backdrop. The left side of his entire body is dramatically disintegrating into thousands of black and dark-gray geometric fragments, dust, tiny particles, and shattered pieces flying toward the left side of the frame. The transition from solid body to particles must look extremely realistic and seamless.
+
+  Several beautiful white doves are flying around him at different distances, with realistic feathers and natural wing positions.
+
+  Dark cinematic studio background, smoky atmosphere, floating dust, dramatic volumetric lighting, soft shadows, subtle orange rim light from the giant sun, realistic fabric texture, photorealistic skin.
+
+  Professional cinematic photography, surreal conceptual art, Hollywood movie-poster quality, ultra-detailed, realistic physics, HDR, sharp face, 35mm lens, full-body composition, cinematic depth of field, subtle film grain.
+
+  Vertical 4:5 composition, subject centered, entire body and shoes visible.
+
+  Negative prompt: cartoon, anime, illustration, plastic skin, CGI face, altered identity, distorted face, extra fingers, extra limbs, deformed hands, duplicate person, unnatural anatomy, blurry face, low quality, text, logo, watermark.

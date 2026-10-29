@@ -1,0 +1,26 @@
+id: gpt-image-kids-fashion-boots-concrete-steps-editorial
+title:
+  en: Smiling boy in corduroy jacket on concrete steps
+  zh: 水泥台阶上身穿灯芯绒夹克的微笑男孩
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- kids-fashion
+- editorial
+- footwear
+- urban
+- daylight
+source:
+  name: '@Itswsm105f on X'
+  url: https://x.com/Itswsm105f/status/2072544301418988014
+  credit: Zyro
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-07-02'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt lists each garment and material (corduroy, rolled denim, leather boots) so the textures render accurately. A clean urban background, soft daylight and an editorial seated pose keep the focus on the footwear.
+  zh: 提示词逐件列出服装与材质（灯芯绒、卷边牛仔、皮靴），让质感还原准确。简洁的城市背景、柔和日光和编辑式坐姿把视觉重点留给鞋子。
+prompt: |
+  Ultra-realistic premium kids fashion advertisement featuring an adorable little boy with fair glowing skin, stylish brown hair, wearing a beige corduroy jacket, white T-shirt, rolled-up dark blue jeans, and premium brown leather lace-up ankle boots. Sitting confidently on modern concrete steps with a cheerful smile, clean minimal urban background, focus on stylish footwear, luxury fashion campaign, soft natural daylight, cinematic lighting, editorial composition, DSLR photography, ultra-detailed, masterpiece, 8K,

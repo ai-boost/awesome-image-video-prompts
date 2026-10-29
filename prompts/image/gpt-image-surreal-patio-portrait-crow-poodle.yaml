@@ -1,0 +1,26 @@
+id: gpt-image-surreal-patio-portrait-crow-poodle
+title:
+  en: Surreal Patio Portrait with Crow and Poodle
+  zh: 庭院超现实肖像：头顶乌鸦与怀抱贵宾犬
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- surreal
+- editorial
+- courtyard
+- pet-portrait
+- vintage
+source:
+  name: '@levelsio on X'
+  url: https://x.com/levelsio/status/2046735438128333096
+  credit: '@levelsio'
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Counts every background element exactly (4 decorations, 2 flamingos) and names each one with its position, so the layout stays fixed. A deadpan formal pose, soft overcast light and muted colors give the vintage editorial look, and a closing line lists the swappable variables.
+  zh: 背景装饰数量精确到个（4件装饰、2只火烈鸟）并逐一写明位置，画面布局因此稳定。正式呆板的姿势、柔和阴天光和低饱和色调带来复古杂志感，结尾还列出了可替换的变量。
+prompt: |
+  A slightly surreal but photorealistic portrait of a seated person in a quiet courtyard or patio, centered in frame, wearing a fitted white long-sleeve turtleneck top with delicate pink floral prints and a printed illustration of a girl on the chest, paired with loose cream floral pants. The person sits on a simple white metal chair and holds a small fluffy poodle-like dog in their lap; the dog has curly off-white fur and distinctly dyed orange ears. Perched on top of the person’s dark hair bun is a black crow or raven, facing left, calm and balanced as if it naturally belongs there. The subject’s pose is still, direct, and formal, creating an odd deadpan family-portrait feeling. Set the scene against a textured off-white stucco wall with exactly 4 notable decorative background elements: 1 brown sun-shaped wall ornament in the upper left, 1 small wall-mounted planter shelf with a small bird figurine and trailing flowers on the left, 1 tall arched window or mural on the right showing a bright blue sky with soft white clouds, and 1 white pedestal planter at lower right filled with long green leaves and exactly 2 pink flamingo ornaments. Include a bit of stone edging and dark greenery at lower left and a brown tiled floor. Lighting is soft natural daylight, slightly overcast, with muted colors, shallow depth of field, and a vintage editorial photography look. Composition should be vertical, full seated figure, straight-on, balanced, and quietly uncanny. Customize the main figure as a middle-aged woman, the bird as black crow, the dog breed as small poodle mix, the dog ear color as orange, and the outfit palette as white and faded pink florals.

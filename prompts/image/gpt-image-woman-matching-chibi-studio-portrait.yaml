@@ -1,0 +1,26 @@
+id: gpt-image-woman-matching-chibi-studio-portrait
+title:
+  en: Woman Beside Matching 3D Chibi Self
+  zh: 女子与同款3D Q版自己的棚拍合影
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- chibi
+- studio-portrait
+- full-body
+- matching-outfit
+- 3d-toy
+source:
+  name: '@ElsaSofia__AI on X'
+  url: https://x.com/ElsaSofia__AI/status/2095467491334205827
+  credit: Elsa Ai
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt says exactly two subjects and fixes their positions, with the hand resting on the chibi's head. It gives both figures the same outfit, then asks for realistic leather on the woman and toy-like 3D materials on the chibi. Negative constraints such as no extra people and no cropped feet keep the full-body framing intact.
+  zh: 提示词明确只有两个主体并固定站位，真人的手搭在Q版头顶。两者穿同款服装，同时要求真人为真实皮革质感、Q版为玩具般3D材质。最后用不要多余人物、不要裁掉脚等限制保证全身构图完整。
+prompt: |
+  Create a photorealistic full-body studio portrait featuring exactly two subjects: one real young woman and one cute miniature 3D chibi version of the same woman standing beside her. The real woman is a young adult woman with fair skin, delicate features, blue-green eyes, full brows, and dark brown hair in a loose messy updo with face-framing tendrils; she stands upright on the left, facing the camera with a calm neutral expression. Her right arm rests naturally at her side, and her left hand gently rests on top of the chibi character’s head. The chibi version stands on the right, about knee-to-thigh height compared with the woman, with an oversized head, large glossy expressive eyes, rosy cheeks, a small smiling mouth, and matching dark brown messy-bun hair; she looks upward toward the real woman with a sweet admiring expression. Both subjects wear matching outfits: a burgundy leather biker jacket with silver zippers and snaps, a black top, high-waisted wide-leg black trousers, and chunky black shoes. Use realistic fabric and leather textures on the real woman and polished stylized 3D toy-like materials on the chibi while keeping the same outfit details. Place them on a seamless neutral gray studio backdrop with a soft floor shadow, centered composition, full bodies visible from head to shoes, vertical portrait framing, soft diffused studio lighting, subtle cinematic realism, high detail, natural skin texture, no text, no watermark, no extra people, no cropped feet.

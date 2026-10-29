@@ -1,0 +1,26 @@
+id: gpt-image-clumsy-ms-paint-redraw
+title:
+  en: Clumsy MS Paint style redraw of a photo
+  zh: 把照片重绘成笨拙的MS Paint涂鸦
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- ms-paint
+- doodle
+- humor
+- redraw
+- lo-fi
+source:
+  name: '@MiguelMaestroIA on X'
+  url: https://x.com/MiguelMaestroIA/status/2050123056870490123
+  credit: Miguel Ángel | GptZone
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-01'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt names the tool and input device, MS Paint drawn with a mouse, on a white background, so the model imitates low quality pixel level scribbles. Asking for a result similar but confusingly off from the source gives the humorous mismatch.
+  zh: 提示词点明工具和输入方式,即用鼠标在MS Paint上绘制并使用白色背景,让模型模仿像素级的粗糙涂鸦。要求结果与原图相似又莫名走样,从而制造出幽默的错位感。
+prompt: |
+  Redibuja la imagen adjunta de manera torpe, garabateada y lo más absolutamente patética posible. Usa un fondo blanco, y haz que parezca que fue dibujada en MS Paint con un ratón. Debería ser similar pero también distinta, algo así como coincidente pero desfasado de una manera confusa y torpe, con esa sensación de baja calidad píxel por píxel que realmente enfatiza lo ridículamente malo que es. En realidad, sabes qué, da igual, solo dibújalo como quieras.

@@ -1,0 +1,59 @@
+id: gpt-image-city-name-typography-travel-poster-panorama
+title:
+  en: City Name Typography Poster With Scene Letters
+  zh: 以城市名字母框住街景的文字旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- typography
+- travel-poster
+- city
+- flat-vector
+- swiss-design
+source:
+  name: '@iamaiistudio on X'
+  url: https://x.com/iamaiistudio/status/2054563354899857757
+  credit: iamaiistudio
+  captured: '2026-10-29'
+  posted: '2026-05-13'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Each giant letter works as a window onto a different city scene, and a thin skyline strip across the top balances the heavy type. A strict list of flat vector rules, a limited muted palette keyed to the city type, and repeated spelling constraints keep the lettering clean.
+  zh: 每个巨大字母都是一扇通向不同城市场景的窗口，顶部细长天际线带平衡了厚重字体。严格的扁平矢量规则、按城市类型设定的有限低饱和配色，以及反复强调的拼写约束，让文字保持清晰准确。
+prompt: |
+  Ultra-high-resolution typography travel poster themed around [CITY NAME]. 16:9 poster ratio.
+
+  IMPORTANT: every visible word on the poster must be in English, perfectly spelled, professionally typeset. No distorted letters, no random symbols, no broken text, no AI gibberish.
+
+  CORE COMPOSITION:
+  Place the giant English word "[CITY_NAME]" front and center. Each letter is a tall, bold, elongated sans-serif form, and each one frames a different illustrated scene from the city, like a row of gallery windows. Spread landmarks, streets, transport, nature, culture, and architecture across the letters so the scenes flow from one letter into the next as a single connected urban panorama.
+
+  TOP HORIZONTAL STRIP:
+  Across the top of the poster, a thin panoramic band: city skyline silhouettes, cars, trams or trains, boats where it fits, birds, clouds, sun. Keep it minimalist, elegant, rhythmically balanced.
+
+  STYLE: mid-century modern editorial poster, Swiss graphic design, minimal vector illustration, architectural infographic feel, travel typography poster, flat geometric illustration, ultra-clean composition, premium magazine design, screen-print poster vibe, retro-futuristic travel branding.
+
+  ILLUSTRATION:
+  Flat vector shapes only. No realism, no gradients, no noise. Clean geometric shadows, simplified architectural forms, a mix of map-like top-down with side-view cityscape. Subtle line-art details, crisp vector edges, strong negative space, harmonious rhythm between the letters.
+
+  TYPOGRAPHY:
+  Giant bold sans-serif, letters fill most of the canvas height. Pixel-perfect alignment. Each letter acts as its own framed illustration panel. Soft rounded corners where it suits. Editorial spacing. Print-ready and geometrically clean.
+
+  COLOR PALETTE:
+  Pull a cohesive palette inspired by [CITY_NAME]:
+  coastal city -> aqua, sand, coral, muted teal
+  desert city -> terracotta, beige, warm cream
+  cyber city -> mint, navy, steel blue
+  historic European city -> dusty rose, olive green, parchment
+  Muted pastels, soft vintage travel-poster colors, low saturation. Max 4 to 6 colors.
+
+  CONTENT:
+  Include iconic landmarks, famous streets and transport, local urban patterns, nearby nature, skyline silhouettes, bridges/rivers/coastline if relevant, culturally symbolic architecture, recognizable local atmosphere.
+
+  COMPOSITION:
+  Centered typography on a white or soft ivory background. Lots of breathing room. The top panoramic strip balances the heavy typography below. Asymmetrical but visually balanced. Each letter shows its own scene depth and perspective. Museum-quality poster hierarchy.
+
+  MOOD: premium, intellectual, calm, design-forward, travel-editorial, stylish enough for a museum gift-shop wall.
+
+  QUALITY: 8K ultra-detailed, print-ready, razor-sharp vector edges, flawless typography, zero distorted text, zero random characters, zero spelling errors, zero AI artifacts.

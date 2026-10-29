@@ -1,0 +1,29 @@
+id: gpt-image-korean-doodle-self-portrait-selfie
+title:
+  en: Korean style ink doodle self portrait with selfie
+  zh: 韩系水墨涂鸦风自画像
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- korean-style
+- ink-doodle
+- self-portrait
+- pastel
+- sketch
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2051350955481042967
+  credit: Ciri
+  likes: 671
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+notes:
+  en: The prompt asks the model to imagine the user, which gives open character design. A stack of style cues (ink splashes, loose linework, pastel plus ink shading, comic sketch texture) is paired with a minimal white background and scattered symbolic doodles.
+  zh: 提示词让模型想象使用者本人，角色设计开放。叠加墨点、松散线条、粉彩加墨色明暗、漫画素描质感等风格词，再配极简白底与零散的象征性涂鸦元素。
+prompt: |
+  GPT Image 2 on Chatgpt
+
+  Prompt:  Create an illustration of how you imagine “me”:
+
+  Korean-style illustration, with a distinct and memorable character design, natural and expressive facial emotions, half-body composition, and a dynamic pose. The clothing should feature intricate, refined details. Use a hand-drawn doodle style with ink splashes, loose and spontaneous linework, and a mix of pastel tones with ink shading. Aim for a comic sketch texture. Keep the background minimal and white, with symbolic decorative elements scattered around the character. The overall atmosphere should be strong and evocative, with high detail and high quality.

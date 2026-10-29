@@ -1,0 +1,60 @@
+id: gpt-image-convenience-store-flash-found-photo
+title:
+  en: Found photo flash portrait in a night convenience store
+  zh: 深夜便利店里的闪光灯随手拍人像
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- found-photo
+- direct-flash
+- y2k-compact
+- convenience-store
+- fashion-editorial
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2101253843870707722
+  credit: Ciri
+  likes: 111
+  captured: '2026-10-29'
+  posted: '2026-09-19'
+notes:
+  en: Stacks a magazine editorial sensibility with a specific consumer compact camera spec (30mm, ISO 640, f/3.2) and direct flash, then adds deliberate flaws like clipped highlights, odd white balance and accidental cropping. A long negative list rules out studio gloss, HDR and plastic skin so it reads as a found photograph.
+  zh: 把杂志编辑感与具体的卡片机参数（30mm、ISO 640、f/3.2）和直闪叠加，再刻意加入高光溢出、偏色白平衡和随意构图等瑕疵。长负面清单排除影棚质感、HDR 与塑料皮肤，让画面像翻出来的旧照片。
+prompt: |
+  GINZA Magazine-inspired Japanese lifestyle fashion editorial × early-2000s Y2K consumer compact digital camera × Korean female idol × raw documentary-fashion hybrid × found photograph aesthetic.
+
+  The image must feel like a real photograph discovered inside an old digital camera rather than a deliberately retro-styled AI image.
+
+  Japanese urban lifestyle sensibility, understated fashion intelligence, quiet observational storytelling, mundane everyday environment transformed into subtle fashion imagery.
+
+  A beautiful young adult Korean female idol standing inside a small Japanese convenience store late at night, casually holding a bottled milk drink while looking directly into the camera.
+
+  She wears a faded navy oversized zip hoodie over a white fitted ribbed tank top, low-rise charcoal mini skirt, worn sneakers, tiny silver shoulder bag and thin silver necklace.
+
+  Long platinum-blonde hair, slightly messy straight bangs, loose strands around her face.
+
+  Soft Korean-Japanese makeup, natural flushed cheeks, subtle taupe eyeshadow, soft pink lips, realistic visible pores.
+
+  She stands between narrow convenience-store aisles, refrigerators glowing behind her, shelves of snacks and drinks creating visual clutter.
+
+  Photographed extremely close with a late-2000s consumer compact digital camera, 30mm equivalent, ISO 640, f/3.2.
+
+  DIRECT ON-CAMERA FLASH, slightly harsh frontal flash, realistic specular highlights on skin and packaging, warm fluorescent ambient light mixing with cooler refrigerator illumination.
+
+  Slightly imperfect white balance, clipped highlights on reflective packaging, darker corners, subtle digital noise, mild chromatic aberration, slight edge softness.
+
+  The framing feels accidental: part of a shelf enters the foreground, one product is slightly cropped, subject not perfectly centered.
+
+  GINZA-inspired quiet Japanese lifestyle sensibility, understated fashion intelligence, raw documentary observation.
+
+  LUT: Warm Convenience Digital / muted highlights / fluorescent contamination
+  Harmony: navy × white × charcoal × refrigerator cyan
+  sRef: [Y2K-COMPACT-SREF]
+  Tokens: found photograph, direct flash, consumer digital, mundane location, incidental framing, not retro filter.
+  Real photograph, not AI fashion campaign.
+
+  3:4 portrait.
+
+  NEGATIVE:
+  studio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, smartphone photography, cinematic teal orange, plastic skin, excessive bokeh, flawless skin, CGI, illustration, anime, overly posed idol photoshoot.

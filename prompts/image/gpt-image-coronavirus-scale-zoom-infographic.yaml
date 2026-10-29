@@ -1,0 +1,25 @@
+id: gpt-image-coronavirus-scale-zoom-infographic
+title:
+  en: Coronavirus Seven Level Scale Zoom Infographic
+  zh: 冠状病毒七级尺度缩放科学信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- scale-zoom
+- science
+- 3d-render
+- template
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2051288232613351571
+  credit: Gdgtify
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A single [SUBJECT] variable makes the template reusable, and the layout is fixed as 6 to 8 connected circular frames, each at a new scale. Every frame gets a scale label, a short insight and a measurement tag, and a style line asks for macro lighting and a sequential layout.
+  zh: 用单一的 [SUBJECT] 变量让模板可复用，并把版式固定为 6 到 8 个相连的圆形画框，每个画框对应一个新尺度。每个画框都要求尺度标签、简短洞察和测量标注，最后用风格句指定微距光照与顺序排版。
+prompt: |
+  instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>

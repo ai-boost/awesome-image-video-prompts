@@ -1,0 +1,51 @@
+id: nano-banana-sepia-flash-photobooth-linen-shirt-grid
+title:
+  en: Sepia flash photobooth grid in linen shirt
+  zh: 亚麻衬衫棕褐闪光照相亭四宫格
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- photobooth
+- grid
+- sepia
+- flash-photography
+- identity-preserve
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2066054801226379621
+  credit: Anissa
+  likes: 97
+  captured: '2026-10-29'
+  posted: '2026-06-14'
+notes:
+  en: A reference image locks identity while a 2x2 grid spells out each panel's pose and gaze. Direct flash with a hard wall shadow, a sepia grade and lens and camera details give the retro polaroid look.
+  zh: 用参考图锁定人物身份，再逐格写明2x2四宫格每一格的姿势与视线。直闪加墙面硬阴影、棕褐色调以及相机镜头参数，共同营造复古拍立得质感。
+prompt: |
+  Nano banana 2
+
+  Create an ultra-realistic  using the reference image as the identity source.
+  Preserve the exact facial features, bone structure, proportions, skin tone, and identity of the subject.
+  Do not beautify, reshape, or alter the face in any way. Maintain natural likeness and authentic facial geometry.   Subject & Core Identity
+  An ultra-realistic, high-fidelity portrait of a 28-year-old woman with soft, defined facial structures, an elegant jawline, full natural lips, and expressive dark eyes. The subject possesses a distinct, unaltered facial identity that must be replicated with 100% accuracy, maintaining her natural features with zero modifications and absolutely no nose piercings.
+  Pose & Composition
+  Format: A 4-panel photo grid layout (2x2 matrix) showcasing a continuous sequence of candid poses in a photo-booth style.
+  Top-Left Panel: Close-up, side profile angled slightly toward the camera. Her right arm is raised, hand resting casually behind her head, pulling her hair up slightly. The white linen shirt drops slightly off her right shoulder.
+  Top-Right Panel: Side-profile view looking slightly off-camera to the left. A contemplative, elegant posture with a neutral gaze.
+  Bottom-Left Panel: A direct, slightly tilted head-on shot looking straight into the lens with a soft, confident tilt.
+  Bottom-Right Panel: Frontal shot, eyes closed, playfully puckering her lips in a kiss-face expression, with both hands raised, fingers running lightly through the sides of her hair.
+  Framing: Medium close-ups focusing on the upper torso, shoulders, and head.
+  Hairstyle & Makeup
+  Hairstyle: Long, voluminous brunette hair with soft, effortless waves and natural, layered movement. The texture is textured and slightly tousled, with a relaxed, effortless middle part and occasional loose strands framing her face.
+  Makeup: Minimalist, "no-makeup" makeup look. Subtle, natural brow definition, clean skin texture with a soft matte finish, light mascara enhancing the eyelashes, and a natural nude-toned lip color matching the subject’s authentic features perfectly.
+  Wardrobe & Styling
+  Attire: An oversized, relaxed-fit white linen button-down shirt. The fabric texture shows visible, realistic linen creases, weave patterns, and soft folds. The collar is loosely unbuttoned to create a casual, editorial look.
+  Accessories: Minimalist, classic styling including a delicate silver chain bracelet on the right wrist and a classic metal link watch on the left wrist. Subtle, small metallic hoop earrings.
+  Setting, Lighting & Atmosphere
+  Setting: A minimalist, clean studio setting against a solid, neutral off-white/light gray studio wall backdrop.
+  Lighting: Direct, high-contrast flash photography casting a soft, distinct shadow against the wall directly behind the subject, simulating an authentic polaroid or retro photo-booth flash. The lighting creates clean highlights on her skin, shoulders, and the fabric of the shirt.
+  Color Grading: Monochromatic desaturated tone with a warm, muted sepia-vintage tint, reminiscent of a classic 90s fashion polaroid or silver-halide film aesthetic.
+  Camera Details & Texture Boosters
+  Camera Hardware: Shot on a high-end mirrorless camera, Sony A7R V or Canon EOS R5, paired with an 85mm f/1.4 lens for a perfect portrait perspective with zero distortion.
+  Image Quality: Ultra-HD, 32K resolution, capturing hyper-detailed skin texture, individual hair strands, micro-folds in the linen fabric, and a subtle, authentic fine-grain film texture. Super-sharp focus on the facial features, preserving every authentic detail with lifelike cinematic realism.   Negative Prompt
+  low quality, blurry, flat lighting, dull colors, bad anatomy, extra limbs, distorted face, stiff pose, cartoon, anime, CGI, plastic skin, cheap costume, repetitive outfit, watermark, logo, text

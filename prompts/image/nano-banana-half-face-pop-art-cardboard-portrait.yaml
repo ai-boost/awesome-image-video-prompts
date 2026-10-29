@@ -1,0 +1,77 @@
+id: nano-banana-half-face-pop-art-cardboard-portrait
+title:
+  en: Half Face Photo Half Pop Art Portrait
+  zh: 半脸真实照片半脸波普艺术肖像
+model: Nano Banana 2.1
+mode: image-edit
+category: photo-to-art
+tags:
+- pop-art
+- half-face
+- conceptual-portrait
+- ben-day-dots
+- identity-preserve
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2111772963586576776
+  credit: Emma
+  likes: 39
+  captured: '2026-10-29'
+  posted: '2026-10-18'
+notes:
+  en: A matte cardboard panel covers one half of the face and carries a hand drawn Pop Art version of it. Explicit alignment rules along the dividing line (eyes, nose, lips, jaw, hairline), plus a list of what not to beautify, keep identity and expression consistent across both halves.
+  zh: 用哑光白色硬纸板遮住半张脸,纸板上画出手绘波普艺术版本的那半张脸。提示词明确要求分界线上五官、发际线和衣领逐一对齐,并列出禁止美化的项目,让真实半脸与插画半脸保持同一身份和表情。
+prompt: |
+  Create an editorial-style conceptual portrait with hyper-realistic photographic quality, in a 4:5 vertical aspect ratio.
+  Use the uploaded image solely as a reference for facial identity, clothing, and accessories.
+  Maintain the subject’s (an adult) original facial identity with absolute precision—including natural facial proportions, the shape and spacing of the eyes, nose, lips, and jawline, skin tone, subtle natural asymmetries, and authentic skin texture.
+  Do not replicate the pose or background from the reference image.
+  Do not "beautify" the face, alter it to fit a stereotypical "Korean" aesthetic, enlarge the eyes, shrink the nose, slim the face, create an artificial sharp jawline, excessively smooth the skin, make the subject appear younger, enlarge the head size, or otherwise alter the subject's identity.
+  1. Core Concept
+  "The Other Half / WOW!"
+  A single human face expressing astonishment, bridging two distinct visual worlds:
+  Hyper-realistic photography.
+  Bold Pop Art, inspired by the style of the 1960s.
+  The subject stands facing the camera directly, positioned upright and perfectly centered.
+  In front of one half of the face, a matte white, rectangular cardboard panel completely covers that side.
+  On this panel is a hand-drawn Pop Art-style illustration that accurately depicts the covered half of the subject's face. The other half of the face remains entirely photographic, rendered in natural colors.
+  The two halves merge to form a single, cohesive face with a clear identity, both displaying the same expression of surprise.
+  This is not merely a photograph of a face printed on paper. The paper overlay physically covers half of the subject's actual face, while the obscured portion is reconstructed through a Pop Art-style illustration.
+  This emotional and visual concept is inspired by the iconic "WOW!" expression found in classic Pop Art, yet executed with a modern, sophisticated editorial touch. 2. Hair
+  Maintain the subject's original hairstyle and its distinct, natural characteristics.
+  The actual hair extends to the vertical edge of the paper overlay, then continues seamlessly into the side rendered in a Pop Art style.
+  In the illustrated section, incorporate the following elements:
+  Bold, clear black outlines.
+  Simplified, graphic-style shading.
+  Solid, dot-based shading in the "Ben-Day" style.
+  Hair strands depicted with firm, elegant, and fluid shapes.
+  The transition of the hair—from the photographic side to the illustrated side—should appear natural along the edge of the paper.
+  If the uploaded image features a woman wearing a hijab, no hair should be visible.
+  3. Clothing
+  If the subject is a woman:
+
+  If the uploaded image features a woman wearing a hijab, no hair should be visible.
+
+  The illustrated portion of the clothing must align perfectly with the photographic portion along the edge of the paper.
+  4. Environment and Background
+  An artistic and classy Pop Art studio setting, suitable for any gender.
+  Use a bright, clean background with the following color palette:
+  Warm ivory or soft cream.
+  Cobalt blue.
+  Vibrant red. Bright yellow. The environment must feature large panels of color, subtle Ben-Day dot shading, clean geometric divisions, and simple curved or diagonal shapes, with various physical panels layered at different depths.
+  The studio setup should resemble a tangible 3D art installation rather than mere printed wallpaper.
+  Background elements must be large, simple, and carefully arranged.
+  The inclusion of text, speech bubbles, captions, logos, onomatopoeic words (such as "POW!" or "WOW!"), or sharp, comic-book-style explosion graphics is not permitted.
+  Ensure the atmosphere does not resemble a typical party photo booth.
+  The background should be understated and less striking than the makeup applied to the face.
+  The painted portion of the face serves as the primary artistic element.
+  5. Precise alignment between both sides of the face is a mandatory requirement. The section painted in a *pop-art* style must maintain the exact same anatomy and expression as the partially covered, real side of the face.
+  This section must not transform into a different person or a generic cartoon face.
+  Along the vertical dividing line, all facial features must align perfectly:
+  The positioning of the eyes and eyebrows.
+  The bridge of the nose and the nostrils.
+  The upper and lower lips.
+  The contours of the open mouth.
+  The jaw and chin.
+  The hairline.
+  The realistic portion and the painted portion must form a cohesive, unified whole.

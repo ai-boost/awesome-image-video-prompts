@@ -1,0 +1,26 @@
+id: gpt-image-fictional-itasha-meadow-car
+title:
+  en: Fictional Itasha Car in Flower Meadow
+  zh: 花草地中的原创痛车与少女
+model: GPT Image 2
+mode: image-edit
+category: illustration
+tags:
+- itasha
+- fictional-car
+- anime-photorealism
+- automotive
+- character-vehicle
+source:
+  name: '@ashiwata100 on X'
+  url: https://x.com/ashiwata100/status/2054848942345486704
+  credit: アシタ🩵
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-14'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt maps illustration themes to matching car styling, so body shape, materials and decals follow the source art. It also requires fully original logos and places the character beside the vehicle under a cinematic automotive photo look.
+  zh: 提示词把插画主题对应到不同的车身风格，让造型、材质和贴纸都贴合原图。同时要求所有标志原创，并把角色放在车旁，采用电影感汽车摄影风格。
+prompt: |
+  Create an original Japanese itasha vehicle based entirely on the uploaded illustration. Design a fully fictional car and manufacturer naturally born from the artwork’s universe, never resembling real vehicles or brands. The design must adapt to the illustration itself: cute rounded styling for soft fantasy or shrine themes, elegant luxury styling for regal worlds, aggressive mechanical styling for cyberpunk or military themes, sporty styling for energetic characters, mystical styling for magical worlds, or retro-futuristic styling for nostalgic sci-fi. Body shape, proportions, cockpit, wheels, headlights, aero parts, glowing elements, materials, and interior must visually match the illustration’s atmosphere, colors, fashion, architecture, magic, and technology. All decals, logos, symbols, typography, crests, and sponsor-style graphics must be fully original fictional designs inspired only by the illustration. If a character exists, place them naturally beside the vehicle. Cinematic automotive photography, anime-inspired photorealism, masterpiece quality.

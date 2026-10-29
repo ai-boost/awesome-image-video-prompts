@@ -1,0 +1,45 @@
+id: gpt-image-cat-girl-penguin-line-sticker-sheet
+title:
+  en: Cat Girl and Penguin LINE Sticker Sheet
+  zh: 猫耳少女与企鹅的LINE表情贴纸九宫格
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- sticker-sheet
+- chibi
+- line-stickers
+- japanese-text
+- mascot
+source:
+  name: '@tetumemo on X'
+  url: https://x.com/tetumemo/status/2057301723124040164
+  credit: テツメモ｜AI図解×検証｜Newsletter
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the canvas, a 3 by 3 grid and exact sticker count first, then gives detailed character descriptions for consistency. Each cell lists its pose, props and a Japanese text colour, and the constraints block rules out extra characters and English text.
+  zh: 先限定画布、3乘3网格和贴纸数量，再详细描述角色外观以保持一致。每个格子都写明姿势、道具和日文文字颜色，约束部分排除多余角色和英文文字。
+prompt: |
+  Goal: Create a cute LINE sticker sheet featuring a white-haired cat-eared anime girl and a small blue penguin mascot in a soft chibi style, with exactly 9 separate sticker illustrations arranged in a 3 by 3 grid on a clean white background.
+
+  Canvas: Square 1:1 image, high resolution, lots of white space between stickers, each sticker isolated with no panel borders. Use pastel colors, thick clean outlines, gentle shading, expressive poses, and playful handwritten Japanese sticker text above or near each pose.
+
+  Character details: The main girl is a chibi anime cat girl with long fluffy white hair with pale pink tips, white cat ears, blue eyes, a small tail, a blue oversized hoodie, yellow leg warmers, white shoes, and cute hair clips. The mascot is a round navy-blue penguin wearing a matching blue hoodie with a tiny pouch label, orange beak and feet, and simple cheerful expressions.
+
+  Text style: Use large rounded handwritten Japanese lettering with colored outlines and drop shadows, matching the mood of each sticker. Keep the text readable and cute.
+
+  Sticker layout: Include exactly 9 stickers:
+  1. Top left: Girl sitting tired and hungry with eyes closed, holding her stomach; penguin offers an empty plate and spoon. Text: はらぺこ... in brown.
+  2. Top center: Girl happily eating a burger while the penguin eats popcorn; small pink hearts around them. Text: もぐもぐ in orange.
+  3. Top right: Girl and penguin sitting relaxed with mugs of tea or coffee, eyes closed; cozy rest mood with a steam puff and music note. Text: 休憩中〜 in green.
+  4. Middle left: Girl peeking from the left edge holding a vertical sign or pole, penguin peeking from below; shy suspicious mood. Text: 「チラッ」 in gray.
+  5. Middle center: Girl running away quickly with long hair trailing, motion blur and dust clouds; penguin looks surprised and follows. Text: 「逃げろー！」 in blue.
+  6. Middle right: Girl getting ready in front of a standing mirror, brushing her hair with sparkles; penguin cheers while holding a brush. Text: 「準備中...」 in yellow-orange.
+  7. Bottom left: Girl sitting on luggage or a stump and pointing upward energetically; penguin holds a travel map, mountains in the background, sparkles. Text: 「到着っ！」 in red.
+  8. Bottom center: Girl slumped on the floor looking exhausted and dizzy, with blue vertical stress lines; penguin lies flattened nearby with an ice pack on its head. Text: 「ぐったり」 in blue-gray.
+  9. Bottom right: Girl bowing apologetically with head down; penguin also bows deeply. Text: ぺこり in dark gray.
+
+  Constraints: Make all 9 stickers consistent in character design and scale, with transparent-sticker-like clean edges on white. Do not add extra characters, extra stickers, UI elements, watermarks, or English text. Keep the composition balanced and suitable for a LINE sticker set preview.

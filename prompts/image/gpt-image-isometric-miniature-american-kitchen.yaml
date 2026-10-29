@@ -1,0 +1,26 @@
+id: gpt-image-isometric-miniature-american-kitchen
+title:
+  en: Isometric Miniature Retro American Kitchen Diorama
+  zh: 等距复古美式迷你厨房模型
+model: GPT Image 2
+mode: text-to-image
+category: architecture
+tags:
+- isometric
+- diorama
+- miniature
+- kitchen
+- 3d-render
+source:
+  name: '@berryxia on X'
+  url: https://x.com/berryxia/status/2096158415894835518
+  credit: Berryxia.AI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Fixes the camera as an orthographic three quarter overhead view in an open cube room, then counts exactly 12 furniture items and 10 accessories so the layout stays controlled. A materials list and a restricted palette keep the handcrafted Blender look consistent.
+  zh: 先把镜头固定为正交三四分之三俯视的开放立方体房间,再精确列出12件家具和10件小物来控制布局。材质清单与限定色板让手工质感的Blender渲染风格保持统一。
+prompt: |
+  Create a highly detailed isometric 3D miniature diorama of a cozy American-style kitchen corner, like a handcrafted dollhouse scene rendered in Blender with soft global illumination. The room is an open cube set with two cream wallpapered walls meeting in a corner, a raised square tiled floor base, and warm medium-brown wood trim along the top and chair-rail height. Use a warm beige studio background and orthographic camera at a 3/4 overhead angle. The kitchen style is nostalgic, cute, and slightly toy-like with rounded edges, polished wood, realistic materials, and clean miniature proportions. Include exactly 12 main furniture and fixture elements: 1 cream retro refrigerator on the left with the word NORD, small colorful round magnets and brass handles; 1 mint-green gas stove with black burners and a lidded pot; 1 long wooden lower cabinet run on the right with drawers, paneled cupboard doors, brass knobs, and a sink; 1 double window above the sink with beige tied curtains on a silver rod; 2 wall-mounted wooden box shelves, one above the stove and one to the right of the window, containing books and white jars; 1 square dining table in the center covered with a white-and-green checkered tablecloth; 3 wooden chairs around the table; 1 small framed picture on the left wall; and 1 pair of brass wall lamps with round shades and pastel pink globe accents. Add exactly 10 visible tabletop or counter accessories: 1 tray with bread loaves, 1 wooden cutting board, 1 small green bottle, 1 utensil cup with wooden spoons, 1 soap pump bottle, 1 blue teapot or kettle on the dining table, 1 glass dessert cloche with red-topped sweets, 1 small cup and saucer, 1 tiny plate with food, and 1 small rectangular sponge near the sink. Materials should include glossy cream enamel, mint painted metal, varnished wood grain, semi-transparent glass, soft fabric curtains, ceramic tiles, and brushed metal. Lighting should be warm and soft, with gentle shadows and ambient occlusion, emphasizing the miniature scale and fine details. Color palette: warm medium brown, cream, mint green, beige, pale pink, muted green, brass, and soft gray tile. No people, no watermark, no modern appliances beyond the retro fridge and stove, no clutter outside the cube room.

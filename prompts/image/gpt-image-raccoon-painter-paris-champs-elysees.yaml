@@ -1,0 +1,26 @@
+id: gpt-image-raccoon-painter-paris-champs-elysees
+title:
+  en: Raccoon Painter Portraying a Seal in Paris
+  zh: 巴黎街头为海豹作画的浣熊画家
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- raccoon
+- painter
+- paris
+- photorealistic
+- animal
+source:
+  name: '@arceyul on X'
+  url: https://x.com/arceyul/status/2051948054975029344
+  credit: arc.
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-06'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: One sentence stacks a costume (beret, paint-stained smock), a nested subject (the seal portrait on the easel) and a named location with a landmark. The sunny day and tree-lined avenue fix the light and depth, so the photoreal animal sits convincingly in a real place.
+  zh: 一句话叠加服装(贝雷帽、沾满颜料的罩衫)、嵌套主体(画架上的海豹肖像)和带地标的具体地点。晴天与林荫大道限定了光线和景深,让写实动物自然融入真实场景。
+prompt: |
+  A photorealistic raccoon dressed as a French painter, wearing a black beret and paint-stained smock, painting a portrait of a seal on a canvas easel. Set on the Champs-Élysées in Paris with the Eiffel Tower in the background, sunny day, trees lining the avenue.

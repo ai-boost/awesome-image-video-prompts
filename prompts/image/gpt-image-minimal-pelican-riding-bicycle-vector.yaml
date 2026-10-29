@@ -1,0 +1,26 @@
+id: gpt-image-minimal-pelican-riding-bicycle-vector
+title:
+  en: Minimal Geometric Vector Pelican Riding Bicycle
+  zh: 极简几何矢量风鹈鹕骑自行车
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- vector
+- minimalist
+- geometric
+- flat-illustration
+- icon-style
+source:
+  name: '@jpschroeder on X'
+  url: https://x.com/jpschroeder/status/2046714718790816171
+  credit: Justin Schroeder
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Exact counts for wheels, spokes and legs, plus a part by part breakdown of the bird, keep the shapes sparse and controlled. Explicit bans on shading, gradients, textures and text hold the flat vector look.
+  zh: 对车轮、辐条和腿的数量给出精确要求，并逐件拆解鸟的各个部件，让图形保持简洁可控。明确禁止阴影、渐变、纹理和文字，守住扁平矢量的风格。
+prompt: |
+  A minimalist vector-style illustration on a flat light gray background showing a pelican riding a bicycle, drawn from simple geometric shapes with thick dark charcoal outlines. The composition is wide and centered, with the bicycle occupying the lower two-thirds of the image and the bird’s head floating slightly above and forward of the handlebars in a deliberately abstract, diagram-like way. The bicycle is a simple black road-bike silhouette in side view with exactly 2 large wheels, each with a thick outer rim and exactly 4 visible spoke lines forming a cross, a straight horizontal ground line beneath both wheels, a triangular frame, a short black saddle, and simplified crank and pedal details near the rear of the frame. The pelican is constructed from clean abstract pieces: a white rounded head with a small black circular eye, a long open beak pointing left made of 2 parts with an upper orange triangular section and a lower pale pink pouch section, a short dark curve on top of the head, a small separate white oval neck/body connector, a larger white rounded body positioned over the bike, and a single white wing-like shape angled upward over the back. Add exactly 2 orange leg shapes, long narrow rectangles leaning downward from the body toward the bicycle frame, suggesting the bird is pedaling. Keep the forms intentionally sparse and slightly surreal, like a logo test or simple code-editor doodle, with no shading, no gradients, no textures, no text, and lots of negative space.

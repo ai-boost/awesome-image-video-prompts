@@ -1,0 +1,24 @@
+id: gpt-image-old-photo-restoration-colorize-sharpen
+title:
+  en: Blurry portrait restored to sharp detail, before and after
+  zh: 模糊人像修复为清晰细节的前后对比
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- photo-restoration
+- colorize
+- sharpen
+- old-photo
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2075549421073469614
+  credit: Laraib Fatima‎
+  likes: 932
+  captured: '2026-10-29'
+  posted: '2026-07-10'
+notes:
+  en: The prompt lists the damage to fix (scratches, stains, noise, torn areas), then caps the sharpening with a realism limit. It also asks for natural colors suited to the era and a soft background, so the result keeps the original look.
+  zh: 提示词先逐项列出要修复的损伤（划痕、污渍、噪点、破损），再用保持真实的限制约束锐化程度。同时要求肤色发色衣物采用符合年代的自然色并配柔和背景，让结果忠于原照片。
+prompt: |
+  Restore and enhance an old damaged photo. Remove scratches, stains, and noise. Reconstruct faded or torn areas while preserving original details. Slightly sharpen the image for better clarity, but keep it realistic. Apply natural and era-appropriate colors to skin, hair, and clothing. Use a soft, balanced background color without being too striking. The final result should look like an old photo that has been realistically restored and colorized, while respecting its original appearance.

@@ -1,0 +1,57 @@
+id: gpt-image-five-color-block-outfits-seated-armchair-portrait
+title:
+  en: Five color block outfits above a seated armchair portrait
+  zh: 五色色块换装与扶手椅坐姿人像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- color-block
+- paint-drip
+- identity-lock
+- outfit-variations
+- selfie
+source:
+  name: '@Arina_hoqe on X'
+  url: https://x.com/Arina_hoqe/status/2104898420255453267
+  credit: Arina Ai
+  likes: 50
+  captured: '2026-10-29'
+  posted: '2026-09-29'
+notes:
+  en: Each panel gets its own color, pose and outfit, and the paint drips bridge into a white lower half holding the larger seated shot. An explicit identity lock repeated across all six instances, plus separate lens notes for the panels and the seated portrait, keeps the face consistent.
+  zh: 每个色块面板单独指定颜色、姿势和服装，底部的颜料滴落衔接到白色下半区的大幅坐姿照。六处人脸重复写明身份锁定，并分别为面板和坐姿照指定镜头，保证人脸一致。
+prompt: |
+  PROMPT 2 — Five Color-Block Outfits + Seated Portrait (Female)
+
+  CONCEPT — EXACT: A vertical poster composite — five tall color-block panels in a row across the top, each holding a standing portrait of the same woman in a different outfit matching that panel's color, with the bottom of each panel melting into dripping paint splashes in the same color over a clean white background, and below them a larger seated portrait of her on an ornate teal armchair.
+
+  PANEL COLORS (left to right): bright blue, red, green, navy, orange — each panel a solid flat color with the woman cropped from the head to mid-thigh, and the panel's lower edge dissolving into a paint splash with long vertical drips running down onto the white background.
+
+  PANEL 1 (blue): Standing straight, arms relaxed at her sides, soft calm smile, light-wash denim jacket over a white top, jeans.
+  PANEL 2 (red): Standing with one hand on the hip, soft calm smile, red sleeveless V-neck pleated midi dress.
+  PANEL 3 (green): Standing straight, arms relaxed, soft calm smile, emerald-green satin button-up blouse tucked into black bottoms.
+  PANEL 4 (navy): Standing straight, one hand resting lightly near the waist, soft calm smile, tailored navy blazer with a matching navy top and trousers, slim wristwatch.
+  PANEL 5 (orange): Standing straight, hands near the pockets, soft calm smile, casual short-sleeve graphic tee with bold abstract street-style lettering (no readable brand text) over blue jeans.
+
+  SEATED PORTRAIT — EXACT: Seated on an ornate Rococo-style teal velvet armchair with carved scrolled wooden frame, legs crossed elegantly, one arm resting along the armrest, other hand resting near the knee, torso slightly turned, head tilted with a confident warm closed-mouth smile toward camera.
+
+  MAIN SUBJECT IDENTITY LOCK: All six instances of the face (five panels + seated portrait) must match the reference photo exactly — same jaw width, cheek fullness, eyebrow shape, eye shape and color, nose bridge, lip shape, and hair as in the reference. Identical face in every instance with zero drift.
+
+  BODY: Slim build, poised confident posture in every instance.
+
+  OUTFIT (seated portrait): Deep red satin spaghetti-strap cami top, black high-waisted wide-leg trousers, black pointed-toe heels.
+
+  BACKGROUND — EXACT: Pure clean white studio background below the color-block panels, soft grounded shadow beneath the armchair, paint splashes and drips in blue, red, green, navy, and orange spreading down from the bottom edge of each color panel.
+
+  LIGHTING — EXACT: Soft even bright studio lighting on all six instances, gentle natural shadow definition, clean high-key commercial lighting.
+
+  COLOR GRADE — EXACT: Vivid saturated block colors (blue, red, green, navy, orange) against a pure white base, teal chair as a rich accent, natural warm skin tone throughout, crisp glossy editorial color grading with ultra-detailed 8K sharpness.
+
+  CAMERA: Shot on 85mm lens for the panels and 50mm for the seated portrait, sharp focus on the face in every instance.
+
+  Ultra photorealistic — zero AI artifacts, no watermark.
+
+  IMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity in ALL SIX instances of my likeness across this composite. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture, and feminine proportions exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, or replace my face with a random celebrity or model face. Identity preservation is the highest priority across all instances of my likeness in this composite.
+
+  Gnrat ratio 3:4

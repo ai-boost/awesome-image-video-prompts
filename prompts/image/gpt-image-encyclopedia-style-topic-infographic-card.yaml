@@ -1,0 +1,99 @@
+id: gpt-image-encyclopedia-style-topic-infographic-card
+title:
+  en: Encyclopedia Style Eagle Knowledge Card Infographic
+  zh: 百科图鉴风格的老鹰知识卡信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- encyclopedia
+- infographic
+- template
+- knowledge-card
+- nature
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2052250481414865206
+  credit: Harboris
+  likes: 429
+  captured: '2026-10-29'
+  posted: '2026-05-07'
+notes:
+  en: A TOPIC placeholder lets one template serve any subject. It names the reference handbook feel, lists modular panel types such as taxonomy, zoom ins, Top 5 and ratings, and sets light background and rounded box rules.
+  zh: 用 TOPIC 占位符让同一模板适配任意主题。提示词点明手册式质感，列出分类、放大细节、Top 5、评分等模块化面板，并限定浅色背景与圆角信息框。
+prompt: |
+  Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.”
+
+  This image should NOT look like a regular poster or a simple illustration. Instead, it should feel like a structured knowledge guide that combines:
+
+  the feeling of a collectible reference handbook
+
+  a modern encyclopedia page
+
+  a lifestyle knowledge card
+
+  and a highly shareable social-media infographic
+
+  The overall style should resemble a premium natural-history guidebook mixed with modern editorial infographic design.
+
+  The image should include:
+
+  One beautiful and highly detailed main subject image
+
+  Several zoomed-in detail sections highlighting important features
+
+  Multiple modular information panels with rounded corners
+
+  Clear title hierarchy and highlighted key labels
+
+  Concise yet information-rich encyclopedia content
+
+  Visual scoring systems, quick summaries, or “Top 5” modules
+
+  The information sections should automatically adapt to the topic. Select and combine relevant categories such as:
+
+  Basic profile
+
+  Classification / taxonomy
+
+  Physical characteristics
+
+  Behavior / ecology / habits
+
+  Structure or formation mechanisms
+
+  Growth conditions or usage methods
+
+  Care, maintenance, or optimization tips
+
+  Risks, warnings, and important notes
+
+  Suitable users or application scenarios
+
+  Pros and cons comparison
+
+  Quick rating tags or summary cards
+
+  Visual requirements:
+
+  Clean light-colored background
+
+  Soft and elegant color palette
+
+  Gentle shadows
+
+  Small refined icons
+
+  Rounded information boxes
+
+  Organized editorial layout
+
+  High information density without feeling crowded
+
+  Comfortable reading experience
+
+  The final result should feel like a real publishable encyclopedia knowledge card designed for reading, collecting, and creating as part of a consistent series — NOT like a commercial advertisement poster.
+
+  The image must strongly emphasize:
+
+  “knowledge integration + modular information design + handbook/reference-style presentation.”

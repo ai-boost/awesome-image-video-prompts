@@ -1,0 +1,26 @@
+id: gpt-image-peeking-chibi-penguin-girl-wallpaper
+title:
+  en: Peeking Chibi Penguin Girl Wallpaper
+  zh: 探头的企鹅主题Q版少女壁纸
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- chibi
+- kawaii
+- wallpaper
+- peeking
+- anime
+source:
+  name: '@yourself_life on X'
+  url: https://x.com/yourself_life/status/2070996489279770695
+  credit: エル（Eru）
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-27'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes an exact count of four cropped copies and assigns each one an edge position and orientation. It also keeps the center empty on a pure white ground, so the layout stays minimal and the character details stay consistent across copies.
+  zh: 提示词明确规定四个被画布边缘裁切的角色副本，并为每个副本指定边缘位置和朝向，同时用纯白背景保留空白中心，使构图极简且各副本的角色特征保持一致。
+prompt: |
+  Create a cute anime chibi wallpaper on a pure white background with a large empty blank center, designed like playful peeking stickers around the edges. Show exactly 4 visible copies of the same chibi girl, all partially cropped by the canvas edges: 1 upside-down head peeking from the top edge near the upper left, 1 sideways head and hand peeking from the left edge in the lower-left quadrant, 1 sideways head peeking from the right edge in the upper-right quadrant with a tiny penguin accessory visible near her hair, and 1 main chibi girl peeking up from the bottom center with only her head, small hands, and upper shoulders visible. The character is a tiny penguin-themed chibi girl with glossy silver-white bob hair with cyan-blue tips, large sparkling blue-gray eyes, soft blush, a small gentle smile, rounded baby-face proportions, and short layered bangs. Outfit hints should be a navy-blue penguin-inspired hoodie or sailor-style top. Use clean modern anime line art, soft cel shading, high-detail reflective hair highlights, bright eyes with star-like reflections, pastel colors, and an airy kawaii mood. Composition should be minimal and spacious, with no text, no border, no watermark, no background objects, and no extra characters beyond the 4 counted peeking chibi copies.

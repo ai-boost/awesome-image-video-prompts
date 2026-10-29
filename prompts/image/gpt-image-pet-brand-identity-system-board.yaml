@@ -1,0 +1,26 @@
+id: gpt-image-pet-brand-identity-system-board
+title:
+  en: Pet Brand Identity System Guideline Board
+  zh: 宠物品牌视觉识别系统规范板
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- brand-identity
+- logo
+- guideline-board
+- mockup
+- json-prompt
+source:
+  name: '@yyyole on X'
+  url: https://x.com/yyyole/status/2046469645155303730
+  credit: 沐阳
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A structured JSON spec names every section with its position, item count and labels, so the model lays out a strict multi-column editorial grid. Hex color swatches, a fixed 3:4 canvas and flat front-facing rendering keep the logo, mockups and rules consistent.
+  zh: 用结构化 JSON 逐一写明每个版块的位置、数量和标签，模型便能排出严格的多栏编辑式网格。再配合十六进制色值、固定 3:4 画幅和平视渲染，让标志、样机与规范保持一致。
+prompt: |
+  {"type":"brand identity system board","brand":{"name":"{argument name=\"brand name\" default=\"狗东西\"}","english_mark":"{argument name=\"logo letters\" default=\"GDX\"}","industry":"{argument name=\"industry\" default=\"宠物行业\"}","date":"{argument name=\"date\" default=\"2024.05\"}","tagline":"爱它・懂它・陪伴它"},"style":{"overall":"minimalist premium corporate presentation, clean Swiss-inspired layout, large white margins, light gray divider lines, muted neutral background","palette":"deep forest green and warm off-white with small accent swatches","mood":"modern, trustworthy, pet-friendly, refined"},"canvas":{"aspect_ratio":"3:4 vertical","background":"soft warm white"},"header":{"left_title_cn":"品牌视觉识别系统","left_title_en":"BRAND IDENTITY SYSTEM","right_tagline":"爱它・懂它・陪伴它","center_logo":"large custom GDX wordmark with a white dog silhouette integrated into the middle of the logo, bold geometric curves and diagonal strokes, dark green","center_subtitle":"狗东西"},"layout":{"sections":[{"title":"基础信息","position":"upper left","count":3,"labels":["品牌名称","行业属性","设计时间"]},{"title":"设计网格","position":"mid upper left","count":1,"labels":["logo construction grid with ratio 1.618:1"]},{"title":"概念草图","position":"mid upper center","count":4,"labels":["dog head and letters sketch","outline refinement","intermediate combined mark","final simplified mark"]},{"title":"灵感来源","position":"mid upper right","count":6,"labels":["minimal white architectural arch","golden retriever profile photo","curved arch block composition","green leaf close-up","dark green material square","light wood texture square"]},{"title":"创意理念","position":"middle left","count":4,"labels":["设计哲学与符号意义","品牌定位服务","色彩心理学与策略","可扩展性与适应性"]},{"title":"品牌应用","position":"middle center to right","count":7,"labels":["名片 正反面","信纸信封","APP图标","网站首页 / 网站图标","产品包装 / 购物袋","店面门头 / 标识牌","mobile app icon variants"]},{"title":"色彩规范","position":"lower middle left","count":5,"labels":["主色","辅助色","暖灰色","浅绿色","强调色"]},{"title":"字体规范","position":"lower middle center","count":2,"labels":["思源黑体 CN","思源柔黑体 CN"]},{"title":"最小使用尺寸","position":"lower middle right","count":2,"labels":["horizontal logo minimum size","stacked logo minimum size"]},{"title":"安全留白区域","position":"bottom left","count":1,"labels":["clear space diagram around logo"]},{"title":"错误使用示例","position":"bottom center to right","count":5,"labels":["do not distort","do not change colors","do not add effects","do not stretch vertically","do not place on busy photo background"]}],"grid":"strict multi-column editorial board with thin dividing rules and consistent spacing"},"logo_design":{"form":"GDX lettermark","integration":"negative-space dog silhouette embedded between G and X, reading as the letter D while showing a standing dog profile facing right","color":"dark green","subtitle":"Chinese brand name centered below with thin horizontal lines on both sides"},"color_swatches":[{"name":"墨绿色","hex":"#1E3D34"},{"name":"米白色","hex":"#F5F3EF"},{"name":"暖灰色","hex":"#E5E2DB"},{"name":"浅绿色","hex":"#A8C5B1"},{"name":"暖橙色","hex":"#E0A86E"}],"applications":{"mockups":7,"details":"business card set, stationery set, smartphone app icon screen, website hero with dog photo, dark green and kraft shopping bags, storefront signage, grouped square app icon variations"},"typography":{"families":["思源黑体 CN","思源柔黑体 CN"],"weights":["Bold","Medium","Regular"]},"rendering":"high-resolution graphic design presentation board, flat front-facing view, crisp vector logo, realistic mockup inserts, subtle shadows only inside product mockups, no perspective distortion"}

@@ -1,0 +1,26 @@
+id: gpt-image-dieline-3d-box-studio-render
+title:
+  en: Flat dieline assembled into a 3D product box
+  zh: 平面刀版图组装成三维产品包装盒
+model: GPT Image 2
+mode: image-edit
+category: product
+tags:
+- packaging
+- dieline
+- 3d-mockup
+- studio-lighting
+- product-render
+source:
+  name: '@Salmaaboukarr on X'
+  url: https://x.com/Salmaaboukarr/status/2047008188285792724
+  credit: Salma
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt locks the artwork and type as preserved exactly, which keeps the uploaded dieline from being redrawn. It then fixes the camera (upright three quarter angle) and a plain studio setup with diffused light, no props and a matte paperboard texture.
+  zh: 提示词要求原样保留刀版图的图案和文字，避免模型重绘上传的稿件。随后限定相机为直立四分之三角度，并给出简洁的影棚设置：柔光、无道具、哑光纸板质感。
+prompt: |
+  Assemble the dieline into a flawless 3D box with accurate panels, clean folds, undistorted type, and artwork preserved exactly. shoot it upright at a refined ¾ angle in a minimal premium studio setting with a soft neutral background, diffused light, subtle shadows, no props, true colours, matte paperboard texture, and realistic editorial detail

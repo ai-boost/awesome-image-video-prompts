@@ -1,0 +1,31 @@
+id: gpt-image-endangered-animal-annotated-infographic-2
+title:
+  en: Snow leopard annotated wildlife field guide infographic
+  zh: 雪豹标注式野生动物图鉴信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- wildlife
+- editorial
+- annotated-diagram
+- field-guide
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2053153776400490683
+  credit: Johnn
+  likes: 446
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+notes:
+  en: Names a hero photorealistic animal and lists the information layers (callouts, scientific labels, habitat map, icon clusters), so the model fills in real species facts. Style anchors like paper grain, negative space and museum field guide keep the dense layout editorial.
+  zh: 指定一只写实主体动物，并列出信息层（标注线、学名标签、栖息地地图、图标分组），让模型自行补全真实物种资料。纸张颗粒、留白和博物馆图鉴等风格锚点让密集排版保持编辑感。
+prompt: |
+  Create a premium editorial-style infographic centered around a rare or endangered animal species, designed as a visually immersive wildlife reference sheet rather than a typical educational poster.
+
+  Begin by researching a real endangered species and incorporate authentic details about its ecosystem, behavior, survival threats, diet, anatomy, and adaptations. Structure the information through layered visual storytelling, using annotated diagrams, directional callouts, scientific labels, environmental overlays, habitat maps, and compact data snippets instead of standard text sections.
+
+  The composition should feature a highly detailed photorealistic rendering of the animal as the dominant focal element, surrounded by bold graphic design elements such as textured shapes, infographic markers, icon systems, color-coded information clusters, and cinematic typography.
+
+  Blend natural-history illustration aesthetics with modern editorial graphics: clean negative space, tactile textures, subtle paper-grain feel, and intelligently organized visual density. The final piece should feel like a professionally art-directed page from a futuristic wildlife atlas or museum-quality field guide.

@@ -1,0 +1,26 @@
+id: gpt-image-botanical-plant-dye-canvas-painting
+title:
+  en: Botanical Plant Dye Canvas Painting of Girl
+  zh: 植物染料帆布风格的花田少女插画
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- botanical
+- plant-dye
+- canvas-texture
+- earth-tones
+- style-transfer
+source:
+  name: '@notoro_ai on X'
+  url: https://x.com/notoro_ai/status/2051240426233885129
+  credit: のとろ
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt names plant dye sources and asks for soft bleeding, uneven color and canvas texture, with muted earth tones and pale gradients in place of chemical brightness. It also tells the model to keep the original composition and character unchanged and not to draw the plants themselves.
+  zh: 提示词点明植物染料来源，要求柔和晕染、色彩不均和帆布质感，用沉稳大地色和淡渐变取代化学般的鲜艳。同时要求完整保留原图构图与角色，并且不画出所用的植物本身。
+prompt: |
+  このイラストを植物染料（葉・茎・花・実・根など）で描いた帆布のボタニカル絵画風に変換してください。自然染液の柔らかい滲み、優しい色ムラ、帆布の質感を活かした有機的な表現に。化学的な鮮やかさではなく、植物由来の落ち着いたアースカラーと淡いグラデーションを重視し、温かく穏やかで詩的なボタニカルな雰囲気に。使用した植物自体は描かない。元のイラストの構図・キャラクターは完全に維持。

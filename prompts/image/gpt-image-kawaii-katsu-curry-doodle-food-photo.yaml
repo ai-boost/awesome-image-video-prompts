@@ -1,0 +1,111 @@
+id: gpt-image-kawaii-katsu-curry-doodle-food-photo
+title:
+  en: Katsu curry set with kawaii doodle overlays
+  zh: 日式炸猪排咖喱套餐与可爱涂鸦叠加
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- food-photography
+- kawaii
+- json-prompt
+- doodle-overlay
+- katsu-curry
+source:
+  name: '@Maercihh on X'
+  url: https://x.com/Maercihh/status/2050858178099994898
+  credit: Maercih
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-03'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A structured JSON prompt separates scene, composition, main subject, secondary dishes, graphic overlay and palette, so each layer is controlled on its own. A style balance ratio of 70% realistic to 30% doodle keeps the food photographic while hand drawn faces, hearts and handwritten phrases sit on top.
+  zh: 用结构化 JSON 把场景、构图、主体、配菜、涂鸦层和配色分开控制，每一层都可单独调整。用 70% 写实加 30% 涂鸦的比例设定，让食物保持照片质感，手绘表情、爱心和手写短句叠加在上面。
+prompt: |
+  {
+    "scene": {
+      "type": "food_photography",
+      "style": "playful kawaii cafe aesthetic with subtle realism",
+      "location": "cozy japanese curry restaurant table near window",
+      "surface": "light grey terrazzo tabletop",
+      "lighting": {
+        "type": "natural daylight",
+        "direction": "side lighting from window",
+        "quality": "soft, diffused, gentle highlights, minimal harsh shadows"
+      }
+    },
+    "composition": {
+      "camera_angle": "45-degree top-down",
+      "framing": "hero plate centered slightly right, supporting elements surrounding",
+      "depth": "shallow depth of field, foreground crisp, background slightly softened",
+      "aspect_ratio": "4:5",
+      "focus": "main dish (katsu curry) with secondary attention to drink and side salad"
+    },
+    "main_subject": {
+      "dish": "japanese katsu curry",
+      "details": [
+        "crispy golden breaded cutlet sliced evenly",
+        "rich brown curry sauce with visible vegetables (carrot, potato, green beans)",
+        "steamed white rice base",
+        "slightly glossy sauce texture",
+        "crispy crumb texture highly detailed"
+      ],
+      "plating": "white ceramic plate with minimal branding",
+      "style_overlay": {
+        "kawaii_faces": true,
+        "expressions": "cute smiling faces on curry pieces and vegetables",
+        "extra_elements": ["tiny crown on katsu", "sparkles around dish"]
+      }
+    },
+    "secondary_elements": [
+      {
+        "type": "drink",
+        "description": "iced matcha latte in tall glass",
+        "details": ["ice cubes visible", "striped straw", "cute face overlay"]
+      },
+      {
+        "type": "side_dish",
+        "description": "small salad bowl",
+        "details": ["shredded cabbage", "corn", "cherry tomatoes", "kawaii face accents"]
+      },
+      {
+        "type": "soup",
+        "description": "miso soup in black bowl",
+        "details": ["tofu cubes", "green onions", "soft steam"]
+      },
+      {
+        "type": "menu_prop",
+        "description": "standing menu card with food image",
+        "placement": "background right"
+      }
+    ],
+    "graphic_overlay": {
+      "style": "hand-drawn doodles",
+      "elements": [
+        "hearts",
+        "sparkles",
+        "speech bubbles",
+        "arrows pointing to food"
+      ],
+      "text_phrases": [
+        "sip sip happiness",
+        "comfort food level 100%",
+        "crispy outside, happy inside",
+        "perfect pick-me-up"
+      ],
+      "font_style": "casual handwritten white ink with slight shadow"
+    },
+    "color_palette": {
+      "primary": ["warm golden brown", "creamy white", "soft green"],
+      "accent": ["pastel pink", "light yellow", "soft orange"],
+      "mood": "warm, cozy, cheerful"
+    },
+    "rendering": {
+      "quality": "ultra-detailed",
+      "texture_focus": "crispy coating, glossy curry, glass reflections",
+      "sharpness": "high",
+      "noise": "minimal",
+      "style_balance": "70% realistic, 30% stylized doodle overlay"
+    }
+  }

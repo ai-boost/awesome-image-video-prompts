@@ -1,0 +1,25 @@
+id: nano-banana-ink-watercolor-city-travel-sketch-poster
+title:
+  en: Ink and watercolor city street travel poster
+  zh: 钢笔水彩城市街景旅行海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- watercolor
+- ink-sketch
+- city-scene
+- template
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2054567307880669248
+  credit: simeon-sanai
+  likes: 355
+  captured: '2026-10-29'
+  posted: '2026-05-13'
+notes:
+  en: Pairing delicate black ink linework with airy watercolor washes on grainy sketchbook paper gives a hand drawn travel journal look. A bracketed city name placeholder, a short tagline and generous negative space make the layout easy to reuse for any city.
+  zh: 细腻黑色钢笔线稿加轻盈水彩晕染，配合带纹理的素描纸，呈现手绘旅行手账质感。方括号城市名占位、短标语和大量留白，让版式可以直接替换成任意城市。
+prompt: |
+  Minimalist ultra-high-resolution travel sketch poster of New York City, on clean white sketchbook paper with subtle paper grain texture. Style: refined pen drawing + loose watercolor sketch. Delicate black ink linework, airy watercolor washes, elegant urban details. Show a calm everyday NYC street scene — small cafés, yellow taxis, bicycles, crosswalks, brownstone buildings, subtle local signage, fashionable pedestrians, soft morning light. Spacious editorial composition with generous negative space. Mood: calm, modern, sophisticated, poetic. Typography: “[NEW YORK]” “Everyday Urban Rhythm” Premium travel sketch aesthetic, minimal and stylish, ultra-realistic watercolor + ink travel journal style, ultra-high-resolution, 9:16.

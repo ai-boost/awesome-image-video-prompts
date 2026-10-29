@@ -1,0 +1,27 @@
+id: gpt-image-chibi-avatar-scrapbook-cozy-selfie
+title:
+  en: Chibi Sticker Scrapbook Around a Cozy Selfie
+  zh: 舒适自拍周围的Q版贴纸手账
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- chibi
+- sticker
+- scrapbook
+- selfie
+- kawaii
+source:
+  name: '@xRahultripathi on X'
+  url: https://x.com/xRahultripathi/status/2050478421109817749
+  credit: Rossy
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-02'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt keeps the real subject unchanged and adds a separate list of chibi actions, so each sticker differs. Placement rules limit stickers to edges and empty areas, and a fixed palette plus handwritten phrases tie the doodles to the neon mood.
+  zh: 提示词先锁定真人主体不变，再逐条列出不重复的Q版动作，让每个贴纸都不一样。位置规则把贴纸限制在边缘和空白处，固定配色与手写短语让涂鸦呼应霓虹氛围。
+prompt: "Chibi Avatar Scrapbook Photo Prompt (Based on Uploaded Female Portrait)\n\nUse the uploaded image of a young woman as the base. Do NOT add any new person. Transform the existing subject into a chibi scrapbook-style composition while fully preserving her real identity, face, hairstyle, long soft brown hair, natural makeup, black outfit, pose, lighting, and cozy indoor aesthetic.\n\n[Theme Detection]\nThe scene reflects a cozy lifestyle / selfie / workspace vibe with soft lighting, aesthetic room elements, a motivational neon sign, and a laptop desk setup. Maintain a calm, stylish, slightly productive lifestyle mood throughout.\n\n[Chibi Avatars]\nAdd 5–8 chibi mini versions of the SAME girl:\n- same long soft brown hair (slight waves)\n- same outfit tone (black top)\n- same gentle, confident expression\n\nStyle:\n- kawaii chibi sticker style\n- big head, small body proportions\n- expressive cute eyes\n- soft pastel shading\n- clean, high-quality sticker finish\n\n[Chibi Actions –\
+  \ no repetition]\n- holding coffee \n- working on laptop \n- taking selfie \n- relaxed leaning pose\n- peace sign \n- thinking pose \n- stretching / chill pose\n- smiling & waving \n\n[Sticker Placement]\n- Place chibi avatars around edges and empty areas only\n- Do NOT cover the main face or body\n- Add white outline + soft drop shadow\n- Slight floating sticker effect\n\n[Doodles]\nAdd subtle scrapbook-style doodles:\n- hearts, sparkles, stars, arrows\n- aesthetic lines and circles\n- soft glowing accents\n\nColor palette:\nwhite + warm yellow + soft pink (matching neon vibe)\n\n[Handwritten Text]\nAdd 5–8 short aesthetic phrases:\n- \"just me \"\n- \"soft life\"\n- \"stay cozy\"\n- \"little moments\"\n- \"focus mode\"\n- \"good vibes only\"\n- \"create & grow\"\n- \"be you \"\n\nStyle:\n- handwritten font\n- white text with soft glow\n- selective highlights in pink/yellow\n\n[Composition]\n- Center focus: real girl (unchanged)\n- Surround with chibi stickers + doodles + text\n- Keep\
+  \ layout balanced, clean, not cluttered\n\n[Style Keywords]\nrealistic photo + chibi stickers, kawaii aesthetic, cozy lifestyle, warm lighting, scrapbook diary, soft glow, high detail, Instagram aesthetic\n\n[Final Output]\nA polished, high-quality, social-media-ready scrapbook image combining:\nrealistic subject + cute chibi extensions + aesthetic doodles\n\n[Avoid]\n- altering facial identity\n- over-beautifying or AI face distortion\n- cluttered composition\n- unrelated/random elements\n- covering the subject\n"

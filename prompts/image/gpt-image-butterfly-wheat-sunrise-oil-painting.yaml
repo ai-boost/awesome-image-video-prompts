@@ -1,0 +1,25 @@
+id: gpt-image-butterfly-wheat-sunrise-oil-painting
+title:
+  en: Butterfly on Wheat at Golden Sunrise
+  zh: 日出金色麦穗上的蝴蝶油画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- oil-painting
+- butterfly
+- golden-hour
+- nature
+- fine-art
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2086374982989251027
+  credit: Viki
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Names the subject, light direction and palette first, then adds fine details such as wing colors, dew bokeh and visible brush texture. Backlit mist, shallow depth of field and a vertical frame give the classical painting its depth.
+  zh: 先写主体、光线方向和色调，再补充翅膀配色、露珠光斑和可见笔触等细节。逆光薄雾、浅景深和竖构图让古典油画有了层次。
+prompt: "Oil painting of a butterfly resting on a golden wheat stalk at sunrise, \nwarm backlit sunlight glowing through misty wheat field, soft golden \nhour lighting, delicate detailed butterfly wings with orange, black and green patterns, dew droplets sparkling like bokeh, blurred hazy \nbackground with silhouetted trees, tall wheat ears in foreground with \nfine visible brush texture, warm color palette of gold, amber and \nsoft green, romantic atmospheric mood, classical fine art painting \nstyle, vertical composition, shallow depth of field, cinematic light rays\n"

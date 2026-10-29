@@ -1,0 +1,25 @@
+id: gpt-image-anime-bob-portrait-sketch-collage
+title:
+  en: Anime Fashion Portrait with Sketch Collage Backdrop
+  zh: 动漫风时尚人像与手绘素描拼贴背景
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- fashion-illustration
+- sketch-collage
+- full-body
+- magazine-cover
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2062204692072198580
+  credit: Johnn
+  likes: 316
+  captured: '2026-10-29'
+  posted: '2026-06-03'
+notes:
+  en: The prompt fixes the subject first with hair, glasses, outfit and full-body pose, then describes the backdrop as a scatter of monochrome sketches, manga panels and handwritten notes. Naming the ink and pencil texture, cel shading and a bright white ground keeps the colored figure separate from the grey collage.
+  zh: 提示词先用发型、眼镜、服装和全身姿态锁定主体，再把背景写成散落的单色素描、漫画分格和手写笔记。点明墨线铅笔质感、赛璐璐阴影和纯白底，让彩色人物与灰调拼贴清楚分层。
+prompt: |
+  Semi-realistic anime-inspired portrait of a stylish young Korean woman with a short glossy black bob tucked behind one ear, delicate round-frame glasses, and a gentle confident expression. She wears an oversized pastel lilac blouse with rolled sleeves paired with a flowing ivory A-line midi skirt. Full-body composition, standing casually with relaxed posture. Behind her is an artistic collage of hand-drawn monochrome character studies, loose pencil sketches, manga panels, playful doodles, stars, hearts, swirls, and handwritten notes scattered organically across the backdrop. Contemporary anime fashion illustration with mixed ink-and-pencil textures, clean linework, subtle cel shading, bright white background, magazine-cover aesthetic, highly detailed, ultra-sharp, vibrant yet elegant, 8K masterpiece.

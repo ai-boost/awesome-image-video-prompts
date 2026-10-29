@@ -1,0 +1,26 @@
+id: gpt-image-night-forest-spaceship-landing
+title:
+  en: Night Forest Spaceship Landing Concept Art
+  zh: 夜间森林飞船降落概念图
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- sci-fi
+- concept-art
+- spaceship
+- night-forest
+- cinematic
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2062518534475845848
+  credit: Kōda
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-04'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt lists the ship's parts one by one and fixes an exact count of five markings with their text and colors, so the numbers and decals land where intended. Warm spotlights against a moonless dark forest, plus a painterly not photorealistic note, set the animated concept art mood.
+  zh: 提示词逐一列出飞船部件,并规定恰好五处标记及其文字和颜色,让编号和贴花落在指定位置。月黑森林中的暖色聚光加上绘画感而非照片写实的要求,营造出动画概念图的氛围。
+prompt: |
+  Create a cinematic wide 16:9 sci-fi environment concept art scene of a small white utility spaceship landed in a dark ancient forest at night. The ship is parked side-on in a small clearing beside a shallow reflective pool in the foreground, surrounded by towering redwood-like tree trunks, deep black background shadows, ferns, broad-leaf plants, moss, rocks, scattered crates, hoses, and small ground equipment. The ship has a chunky retro-futuristic design like a compact shuttle/helicopter hybrid: rounded rectangular fuselage, white worn paint, panel seams, vents, grime streaks, landing struts, a rear ramp or stairs open on the right, a dark glass cockpit window at the front right, a side engine pod on the left with a glowing warm orange intake, a small top rotor assembly with 4 long dark blades, and a raised oval radar dish on the upper left side. Include exactly 5 prominent ship markings: a large red number "379" on the side, a black block label "E10" near the cockpit, a red angular emblem on the white radar dish, one orange triangular warning decal, and one small black X mark. A small seated pilot or mechanic is barely visible in the cockpit doorway area. Lighting should be dramatic and painterly: moonless night forest with strong warm spotlights hitting the ship and tree trunks, deep green-black shadows, subtle reflections in the water, high contrast, cinematic composition, detailed but not photorealistic, inspired by high-end animated sci-fi concept art. Use 379 as the largest side number, E10 as the black cockpit-side label, dark redwood forest at night, and quiet mysterious landing site. Avoid extra readable text, avoid modern cars or buildings, avoid a bright daytime sky, and keep the ship grounded and partially integrated into the forest clearing.

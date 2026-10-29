@@ -1,0 +1,30 @@
+id: nano-banana-ramen-liquid-explosion-labeled
+title:
+  en: Ramen bowl in a labeled liquid explosion
+  zh: 带标注的拉面汤汁爆炸高速摄影
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- food
+- high-speed
+- liquid-splash
+- labeled-ingredients
+- template
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2030670376104087834
+  credit: Alexandra Aisling
+  likes: 237
+  captured: '2026-10-29'
+  posted: '2026-03-08'
+notes:
+  en: A reusable template with bracketed slots for dish, ingredient labels, tagline and background color. It combines a frozen high-speed moment, single-source warm light and a named photographer reference with editorial typography and thin leader-line labels.
+  zh: 带括号占位符的可复用模板，可替换菜品、配料标注、标语和背景色。把定格的高速瞬间、单一暖光源和摄影师风格参考，与编辑式排版和细引线标注结合起来。
+prompt: |
+  Prompt Studio: Food, Liquid Explosion with Nano Banana 2 in Firefly
+
+  [DISH] captured at the exact millisecond of a dramatic liquid explosion, high-speed photography frozen in time, every droplet suspended mid-air with razor precision. Hero [DISH] at center perfectly intact and hyperreal, surrounded by an orchestrated explosion of its own sauce, broth, or glaze erupting outward in every direction. Droplets catching dramatic single-source warm light like liquid diamonds. Each floating ingredient or droplet labeled with ultra-thin lines in clean uppercase: "[INGREDIENT]  [descriptor]". Dish name in bold editorial typography: "[DISH NAME]". Subtitle: "[TAGLINE]". Pure [COLOR] background. Mood: Harold Edgerton high-speed photography meets Michelin-star food editorial. 4K, tack sharp every droplet, extraordinary and craveable.
+
+  Check ALTs for ideas 👇
+  @AdobeFirefly

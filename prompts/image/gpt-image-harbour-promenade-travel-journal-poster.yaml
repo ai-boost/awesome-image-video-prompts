@@ -1,0 +1,25 @@
+id: gpt-image-harbour-promenade-travel-journal-poster
+title:
+  en: Harbour promenade photo turned into travel journal poster
+  zh: 海滨步道照片变成极简旅行手账海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- travel-poster
+- screen-print
+- watercolor
+- typewriter-typography
+- paper-texture
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2095422896428798063
+  credit: Taaruk
+  likes: 778
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+notes:
+  en: The prompt first lists what to preserve from the reference (architecture, promenade, people, composition) and only then asks for a hand painted screen print look, with a fixed muted palette and paper grain. Exact typewriter caption text and a 4:5 format lock the layout, and generous negative space keeps it editorial.
+  zh: 提示词先列出要保留的参考图元素(建筑、步道、人群、构图),再要求手绘丝网印刷风格,并固定低饱和配色和纸张颗粒。打字机字体的原文标题与 4:5 比例锁定版式,大量留白让画面更有编辑感。
+prompt: |
+  Transform the reference photograph into a minimalist vintage travel-journal poster while preserving the recognizable street scene: historic ornate buildings, double-decker buses, bus stop, street lamps, pedestrians, storefronts, and warm afternoon sunlight. Reinterpret everything as a refined hand-drawn screen-print illustration using simplified architectural silhouettes, delicate imperfect ink lines, flat muted olive green, ochre, warm brown, cream and soft gray tones, subtle watercolor texture and lightly distressed pigment. Place the illustration in the center of a large warm ivory textured paper sheet, surrounded by generous negative space. Maintain the distinctive building shapes and street perspective while keeping the illustration clean and poetic. Add elegant typewriter-style typography at the bottom reading “afternoon on the high street”, followed by “buses come and go. the light remembers the buildings.” Nostalgic urban travel diary, quiet afternoon atmosphere, editorial art-book aesthetic, handmade paper texture, restrained colors, sophisticated minimalist composition, authentic vintage print imperfections, vertical 4:5 poster.

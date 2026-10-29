@@ -1,0 +1,25 @@
+id: nano-banana-black-outfit-elevator-selfie
+title:
+  en: Man in black outfit takes elevator selfie
+  zh: 黑色套装男子在电梯里自拍
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- selfie
+- elevator
+- monochrome
+- realistic-portrait
+- vertical
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2110283970508398966
+  credit: Picts by AI
+  likes: 55
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+notes:
+  en: The prompt fixes pose, hand placement, hair texture and the steel elevator setting in detail, then names the light source, shadow placement and a desaturated palette with one tan accent. It closes with straight on digital selfie framing, deep focus, no grain and a 9:16 ratio.
+  zh: 提示词逐项锁定姿势、手部位置、发型质感和不锈钢电梯环境，再写明光源、阴影位置和带一点棕褐点缀的低饱和配色。结尾用正面数码自拍构图、深景深、无颗粒和 9:16 画幅收束。
+prompt: |
+  A confident man stands in the center of the frame facing the camera, his weight comfortably shifted and shoulders relaxed, dressed cleanly in a sleek black button-down shirt and matching black slacks. His dark hair features faded sides transitioning into two to three inches of textured wavy curls on top, styled with a matte product and a deep side part that explicitly embraces natural flyaways. Though his face is partially obscured by the smartphone he holds perfectly at face level in his left hand—with his index finger resting naturally on the back of the device—his visible eyes convey an intense, deliberate gaze beneath relaxed eyebrows. His right hand is casually tucked into his front right trouser pocket with the thumb gently hidden, revealing a silver watch gleaming on his wrist. He is positioned within the shallow spatial depth of a polished indoor elevator, standing on a solid dark gray metal floor. In the midground to his left, a small cylindrical brushed metal handrail adds dimension, while the background is entirely dominated by pristine brushed stainless steel elevator door panels featuring clean vertical seams and a perfectly smooth satin finish that bounces cool silver-gray gradients. The cool interior is bathed in even, moderate artificial light beaming downward from two top ceiling panels fitted with grid pattern diffusion covers. This diffused overhead lighting casts soft, gradual-edged gray shadows under his chin and across his chest muscles, while striking specular highlights onto his textured hair, the bridge of his nose, and the sleek metal doors. The environment embraces a desaturated, medium-contrast monochromatic color palette heavily weighted by the silver surroundings and black attire, warmed slightly by a subtle tan accent to evoke a distinctly professional mood. Captured straight on as a digital selfie, the image boasts tack-sharp focus and a deep depth of field that renders every smooth texture crisp and entirely grain-free, finalized with careful contrast enhancement for a realistic, clean aesthetic, all framed in a 9:16 aspect ratio.

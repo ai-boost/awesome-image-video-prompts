@@ -1,0 +1,29 @@
+id: nano-banana-old-photo-restoration-dslr-portrait
+title:
+  en: Damaged Old Photo Restored Into DSLR Portrait
+  zh: 破损老照片修复为单反质感人像
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- photo-restoration
+- old-photo
+- dslr
+- portrait
+- json-prompt
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2039935624799760434
+  credit: WasifAI
+  likes: 157
+  captured: '2026-10-29'
+  posted: '2026-04-03'
+notes:
+  en: Naming a specific camera class (Canon EOS R6 II) sets the target photographic look, and the explicit instruction to preserve exact facial features keeps the restoration faithful. A short JSON wrapper with quality and style fields keeps the request easy to reuse.
+  zh: 指定具体相机档次（Canon EOS R6 II）来锁定目标影像质感，并明确要求保留准确的面部特征以保证修复忠实原图。简短的 JSON 结构带有质量和风格字段，方便重复使用。
+prompt: |
+  {
+    "prompt": "Restore old photo into natural DSLR-quality portrait (Canon EOS R6 II level), high detail, accurate colors, sharp clarity, preserve exact facial features",
+    "quality": "high",
+    "style": "photorealistic"
+  }

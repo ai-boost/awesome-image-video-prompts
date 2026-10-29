@@ -1,0 +1,43 @@
+id: gpt-image-pencil-sketch-ghost-portrait-seated-photo
+title:
+  en: Seated man before giant pencil sketch of himself
+  zh: 坐姿男子与身后巨幅铅笔素描自画像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- pencil-sketch
+- layered-composite
+- identity-lock
+- seated-portrait
+- sepia
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2102743467449606390
+  credit: Mr. Tariq
+  likes: 55
+  captured: '2026-10-29'
+  posted: '2026-09-23'
+notes:
+  en: Every layer gets its own EXACT block (concept, background sketch, subject, outfit, environment, lighting, grade), so the composite stays organized. An identity lock ties the foreground face to the sketch by jaw, cheek, beard, nose and lip, and a sepia monochrome wall against a full color figure creates the contrast.
+  zh: 每一层都用独立的 EXACT 段落描述（概念、背景素描、主体、服装、环境、光线、调色），合成结构清晰。身份锁定段把前景人脸与素描的下颌、脸颊、胡须、鼻形和唇形对齐，再用棕褐单色背景对比全彩人物形成反差。
+prompt: |
+  PROMPT 1 — Pencil Sketch Ghost Portrait + Sharp Seated Photo
+
+  CONCEPT — EXACT: A layered composite — a massive detailed charcoal/pencil sketch portrait fills the background, textured like a hand-drawn wall mural with visible pencil strokes and ink-splatter texture, and a sharp full-color seated photorealistic portrait of the same man sits in the foreground on a reflective dark floor.
+
+  BACKGROUND SKETCH PORTRAIT — EXACT: Large detailed black-and-white pencil/charcoal sketch, head turned slightly to the side, short spiky textured hair rendered with visible hatch-strokes, wearing thin wire-frame glasses, light beard and moustache, collared shirt with visible fabric-fold linework, rough torn-paper/ink-splatter texture surrounding the sketch blending into a warm sepia-grey wall.
+
+  MAIN SUBJECT — FOREGROUND — EXACT: Seated pose on the floor, one leg bent with the knee up and forearm resting on it, other leg extended out to the side, torso turned slightly with head tilted looking off to the side, calm thoughtful expression, short neat dark hair, thin wire-frame glasses, light beard.
+
+  MAIN SUBJECT IDENTITY LOCK: Foreground face must match the background sketch exactly — same jaw width, cheek fullness, beard density, nose shape, and lip shape, with natural head-to-body proportion.
+
+  BODY: Medium-tan skin tone, lean build, relaxed seated posture.
+
+  OUTFIT: Black hooded sweatshirt with drawstrings, light grey jogger sweatpants, white-and-grey sneakers.
+
+  BACKGROUND/ENVIRONMENT — EXACT: Warm sepia-grey textured wall filled with the large pencil-sketch portrait and rough ink-splatter marks, dark reflective floor beneath the seated figure showing a soft mirrored reflection.
+
+  LIGHTING — EXACT: Soft even studio lighting from the front, minimal harsh shadow, warm neutral tone throughout.
+
+  COLOR GRADE — EXACT: Sepia-grey monochrome background sketch contrasted with a natural full-color foreground figure, warm skin tone standing out clearly, clean high-contrast editorial poster color grad

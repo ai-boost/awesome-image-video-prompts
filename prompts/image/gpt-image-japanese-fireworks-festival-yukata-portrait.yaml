@@ -1,0 +1,26 @@
+id: gpt-image-japanese-fireworks-festival-yukata-portrait
+title:
+  en: Japanese Fireworks Festival Yukata Portrait
+  zh: 日本烟花祭浴衣人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- yukata
+- fireworks
+- festival
+- photorealistic
+source:
+  name: '@reonkun_sub on X'
+  url: https://x.com/reonkun_sub/status/2072266484857098584
+  credit: レオンAI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-07-01'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Specific garment, obi, hair ornament and pouch details anchor the subject, while a three quarter back facing pose and shallow depth of field keep the fireworks as soft bokeh. Warm lantern light against a cool blue twilight sky separates the subject from the background, and a closing avoid list blocks plastic skin and anime styling.
+  zh: 服装、腰带、发饰和束口袋的细节锁定了主体,四分之三背向姿势加浅景深让烟花成为柔和虚化背景。暖色灯笼光与冷蓝暮色天空拉开主体与背景的层次,结尾的避免清单排除了塑料皮肤和动漫风格。
+prompt: |
+  Create a highly realistic vertical portrait photo of a beautiful Japanese woman in her 20s at a summer evening fireworks festival in Japan. She is shown from the waist up in a three-quarter back-facing pose, turning her head over her shoulder to smile warmly at the camera, with natural expressive eyes, soft skin texture, and an approachable candid expression. She wears a pale cream-pink yukata with purple and lavender floral patterns, a large beige obi bow tied at the back, and small pink and cream chrysanthemum hair ornaments tucked into a low updo with loose bangs and face-framing strands. Her right hand holds a small floral drawstring kinchaku pouch with thin red cords. The setting is a crowded Japanese matsuri street at dusk, lined with glowing food stalls and red-and-white festival banners, warm paper lanterns, and many festivalgoers in colorful yukata walking away in the background. Above her, the blue twilight sky is filled with large bright fireworks bursts in pink, purple, white, and gold, slightly blurred by depth of field but still dramatic and luminous. Use a close 3/4 portrait composition, subject centered slightly right, shallow depth of field, realistic lens perspective, warm lantern light on her face and yukata, cool blue ambient evening light in the sky, cinematic color grading, crisp detail on the woman and soft bokeh background. Emphasize photorealism, natural human proportions, realistic fabric folds, authentic Japanese summer festival atmosphere, and a joyful romantic mood. Avoid extra text, logos, watermarks, distorted hands, plastic skin, over-smoothed face, or anime styling.

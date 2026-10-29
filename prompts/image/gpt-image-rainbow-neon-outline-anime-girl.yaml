@@ -1,0 +1,26 @@
+id: gpt-image-rainbow-neon-outline-anime-girl
+title:
+  en: Rainbow neon outline anime girl on black
+  zh: 黑底彩虹霓虹描边的动漫少女
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- neon-outline
+- glow
+- anime
+- style-conversion
+- dark-background
+source:
+  name: '@notoro_ai on X'
+  url: https://x.com/notoro_ai/status/2052692043508670791
+  credit: のとろ
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-08'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt makes only the linework glow while fills stay faint, which gives strong contrast against the dark background. A swappable glow colour slot and an explicit instruction to keep composition, pose and expression make it reusable on any illustration.
+  zh: 提示词要求只有线条发光、填色面保持极淡，在深色背景上形成强烈对比。发光色做成可替换的占位，并明确锁定构图、姿势与表情，因此可套用到任意插画。
+prompt: |
+  このイラストを、神秘的で幻想的な発光スタイルで変換してください。 【発光色：虹色】 キャラクターの輪郭線・衣装のライン・アクセサリーのディテール・髪の流れなど全ての線だけが、【発光色】の美しい光で強く発光するようにしてください。線は内側からじんわりと輝き、ゆっくりと浮かび上がるような柔らかいネオン光を放ち、光の粒を僅かに散らしながら周囲を優しく照らす表現に。面で光らせるのではなく、線のみが主役として発光し、他の部分（肌・髪・衣装の塗り面など）は極めて控えめに、僅かに透ける程度に抑えてください。 線の発光が暗い背景に対して非常に強いコントラストを生み、【発光色】の光のスペクトルが穏やかに広がる様子を強調。キャラクターの各線が幻想的で神々しい輝きを放ち、光が線に沿って流れるように美しく表現してください。全体の雰囲気はクールで神秘的、魔法のような幻想的な【発光色】の光の輪郭のみが浮かび上がる、息を飲むほど美しいシルエットに仕上げてください。 元のイラストの構図・キャラクターの表情・ポーズ・シルエット・主要な特徴は一切崩さず忠実に維持。

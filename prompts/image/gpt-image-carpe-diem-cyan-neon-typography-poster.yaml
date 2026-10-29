@@ -1,0 +1,40 @@
+id: gpt-image-carpe-diem-cyan-neon-typography-poster
+title:
+  en: Carpe Diem Neon Typography Fashion Poster
+  zh: 卡佩迪姆霓虹字体时装海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- typography
+- fashion-editorial
+- neon
+- layered-text
+- cyan
+source:
+  name: '@copyelpadrino on X'
+  url: https://x.com/copyelpadrino/status/2055785779691966721
+  credit: Alejandro Martinez | IA
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-16'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt numbers every text block with its position, size and cropping, and puts the huge neon lettering behind the model so his body overlaps the words. A strict two-colour palette and a no extra text constraint keep the layout clean.
+  zh: 提示词给每个文字块编号并写明位置、大小和裁切方式，让超大荧光字母落在模特身后被身体遮挡。严格的双色配色和禁止多余文字的限制让版面保持干净。
+prompt: |
+  Goal: Create a bold editorial fashion poster / magazine cover for a motivational design project, featuring a full-body studio portrait of Akinbinu Akintayo standing confidently in front of oversized typography.
+
+  Canvas: Vertical 4:5 poster, bright cyan-blue seamless studio background with a darker blue floor plane and soft vignette/shadowing near the bottom. High-contrast modern layout, cropped poster typography extending off the edges.
+
+  Main subject: One tall Black male model, full body, centered slightly right, standing upright with both hands in trouser pockets. He wears a dark olive-green button-up shirt tucked into matching tailored trousers with a black belt and polished black dress shoes. Short curly black hair. Face is intentionally obscured by a vertical soft-blurred rectangular block over the center of the face, while ears, hairline, neck, and outfit remain visible. Studio lighting from upper left, realistic shadows on the floor.
+
+  Typography style: Use huge uppercase condensed sans-serif lettering in fluorescent yellow-lime, bold and clean, layered behind and around the figure. Some words are partially hidden by the model or cropped by poster edges. Keep the typography flat, sharp, and poster-like.
+
+  Text content: Include exactly 9 visible text blocks: 1) top left small text: "A DESIGN BY AKINBINU AKINTAYO"; 2) top right huge title: "CARPE DIEM"; 3) left middle huge cropped text: "BEC-"; 4) center-right huge cropped text partly behind model: "MING"; 5) left lower-middle small text: "PROJECT BECOMING"; 6) right lower-middle small text: "AKINBINU AKINTAYO"; 7) lower left small text: "EP 27"; 8) center lower huge text: "OMING"; 9) bottom right huge title: "CARPE DIEM". Add two extra small motto lines at the very bottom left as part of the final block area: "MEMENTO MORI" and "MEMENTO VIVERE". Add a small lower-right phrase: "THE TIME IS COMING". The overall poster concept implies the phrase "BECOMING" split across the composition.
+
+  Layout: Place the model in the foreground so the typography is partially occluded by his body. The top-right "CARPE DIEM" should dominate the upper half, while another cropped "CARPE DIEM" anchors the bottom-right corner. The left-side "BEC-" should be very large and cropped off the left edge. The word fragments "MING" and "OMING" should appear in the middle and lower center, creating a layered typographic rhythm.
+
+  Color palette: Cyan-blue background, neon yellow-lime text, dark olive outfit, black shoes. Minimal colors, clean commercial poster finish.
+
+  Constraints: No logos, no watermark, no extra people, no props, no additional text beyond the specified typography. Preserve the bold fashion-editorial look and the intentionally obscured face.

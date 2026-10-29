@@ -1,0 +1,25 @@
+id: gpt-image-cubist-kawaii-vector-portrait-black-poster
+title:
+  en: Cubist kawaii vector portrait on matte black
+  zh: 黑色背景上的立体派可爱矢量肖像
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- cubist
+- kawaii
+- vector-portrait
+- fashion-illustration
+- black-background
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2067816667535794641
+  credit: Sairah
+  likes: 855
+  captured: '2026-10-29'
+  posted: '2026-06-19'
+notes:
+  en: Stacks style references (Picasso meets kawaii) with explicit feature reductions for eyes, nose and lips, and bans realistic details. Vector flat color terms are then layered with oil pastel grain and a limited palette on deep black.
+  zh: 把毕加索加可爱极简的风格参照与对眼鼻唇的具体简化要求叠在一起，并明确禁止写实细节。再用矢量色块、油画棒颗粒和深黑底上的有限配色收束成海报质感。
+prompt: |
+  Create a cute neo-expressionist cubist minimal vector portrait illustration, Picasso meets kawaii minimalism, inspired by stylized fashion editorials and playful modern art. Ultra-simplified exaggerated facial features with oversized abstract eyes, flat cartoon eye shapes, minimal black dots or single curved strokes, no realistic iris details, no eyelashes, extremely reduced facial detail. Tiny abstract nose drawn with one short angular line. Small single-stroke lips, tiny soft geometric mouth shape, minimal expression marks, no realistic mouth anatomy. Rounded cheeks, dreamy innocent expression, playful asymmetrical proportions, elongated elegant neck, simplified geometric facial planes, stylized angular hair shapes, subtle caricature aesthetics, childlike artistic distortion. Use clean scalable vector shapes, flat color blocking, bold primitive contour lines, sharp Bézier curves, abstract polygon composition, minimal linework, naive handmade drawing quality, expressive empty space, icon-like facial abstraction, no realistic rendering, 2D primitive facial symbols. Add subtle oil pastel grain overlays, rough handmade brush accents, raw scribbled handwritten marks, visible pigment texture, silkscreen poster feeling. Vibrant limited color palette against deep matte black background. Luxury editorial gallery poster composition, contemporary fashion illustration, artsy modern cubist poster, stylish and adorable, premium print-ready vector artwork.

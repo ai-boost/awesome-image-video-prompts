@@ -1,0 +1,39 @@
+id: gpt-image-glowing-opal-lakeside-promenade-night
+title:
+  en: Glowing opal flagstone lakeside promenade at night
+  zh: 夜晚湖畔发光蛋白石石板步道
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- landscape
+- night
+- fantasy
+- panoramic
+- nebula
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2115498807400251803
+  credit: Viki
+  likes: 76
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+notes:
+  en: The prompt is split into labeled zones (path, left, fence, water, mountains, sky) that each fix a position and material, so the layout stays coherent. A closing palette line and wide 16:9 framing keep the colors tied together.
+  zh: 提示词按路径、左侧、栏杆、水面、山、天空分区，每区写明位置和材质，画面布局因此稳定。结尾的色板和 16:9 宽幅构图把整体色彩统一起来。
+prompt: |
+  Photorealistic magical lakeside promenade at night, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
+
+  PATH: the entire foreground is a walkway of irregular rounded flagstones separated by dark joints, and every stone glows from within like stained glass or opal — molten orange, gold and ochre, then turquoise, emerald and cobalt, then deep midnight blue, each a separate luminous cell with wet cracks and bright glossy highlights. The path sweeps from the bottom right corner in a long curve toward the pavilion on the left.
+
+  LEFT: a small ornate wooden lakeside pavilion with a steep shingled roof and a tall pointed arched window, its panes glowing deep amber and fiery orange, lattice tracery visible, warm light spilling onto the path. A huge dark tree with rust-brown autumn foliage overhangs it from the top left.
+
+  FENCE: a black cast-iron railing with rope-strung posts and chunky turned finials runs along the right edge of the path, separating it from the water, receding in strong perspective with a lamp post at the near right.
+
+  WATER: the right third is a broad dark lake, choppy with short wind ridges, its surface catching faint blue and gold light, the far shore dissolving into haze.
+
+  MOUNTAINS: across the lake rises one dominant craggy mountain in grey-blue rock, its flanks forested, a snow-dusted ridge at its right shoulder, with a long flat band of white cloud lying low across its base. Softer forested slopes recede to the left.
+
+  SKY: the upper half is a star-filled night vaulted over the scene, seething with a vast emerald-green and turquoise nebula twisting diagonally across the centre, threaded with dust lanes and gold-brown star clouds. Low on the right horizon, a warm afterglow of apricot, rose and pale amber burns behind the mountain.
+
+  PALETTE: emerald, turquoise, cobalt, molten orange, amber, warm brown, near-black shadow, pale starlight. Sharp focus, glossy wet highlights, high dynamic range, clean and unmarked.

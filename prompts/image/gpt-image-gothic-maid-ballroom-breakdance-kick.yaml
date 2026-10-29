@@ -1,0 +1,26 @@
+id: gpt-image-gothic-maid-ballroom-breakdance-kick
+title:
+  en: Pink haired gothic maid breakdancing in palace ballroom
+  zh: 粉发哥特女仆在宫殿舞厅里的霹雳舞踢腿
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- action
+- low-angle
+- motion-blur
+- gothic-lolita
+source:
+  name: '@NeneneAI on X'
+  url: https://x.com/NeneneAI/status/2052276147547951559
+  credit: ねね*AIcreator
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-07'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: An extremely low camera with upward foreshortening puts the motion blurred boot near the viewer, while sharp focus stays on the face and supporting hand. White circular speed trails and wind ribbons add motion, and the sunlit marble ballroom with chandeliers sets the scene.
+  zh: 镜头压到地面仰拍，近处的靴子做强透视和动态模糊，同时锁定脸部与支撑手的清晰度。白色环形速度线和风带强化动感，阳光大理石舞厅与吊灯交代场景。
+prompt: |
+  Create a dynamic vertical anime action illustration of a pink-haired gothic lolita maid girl performing an acrobatic one-handed breakdance handstand kick inside a grand European palace ballroom. The camera is extremely low near the polished marble floor, looking upward with dramatic foreshortening: one booted leg thrusts close to the viewer and is heavily motion-blurred, the other leg extends backward, while one hand presses on the reflective floor and the character looks toward the viewer with a confident fierce expression. She has long flowing rose pink twin-tail hair whipping through the air, green eyes, frilly white maid headband, and an ornate deep emerald green gothic lolita maid dress with puff sleeves, ruffled white lace trim, corset-like bodice, bows, layered skirt, stockings, and lace-up heeled boots. Add bright white circular speed trails and arcing wind ribbons around her spinning body to emphasize high-speed action. The environment is a luxurious sunlit ballroom with tall arched windows on both sides, gilded wall details, high ceiling, chandeliers, dust motes, shafts of light, and glossy patterned marble reflections. Use cinematic lighting, extreme perspective, intense motion blur, sharp focus on the face and supporting hand, detailed fabric folds and lace, elegant fantasy anime rendering, high detail, vertical composition, dramatic action energy, no text, no watermark.

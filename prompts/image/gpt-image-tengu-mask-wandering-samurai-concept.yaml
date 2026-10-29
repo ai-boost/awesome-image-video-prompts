@@ -1,0 +1,26 @@
+id: gpt-image-tengu-mask-wandering-samurai-concept
+title:
+  en: Tengu Masked Wandering Samurai Character Concept
+  zh: 天狗面具浪人武士角色概念图
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- concept-art
+- samurai
+- character-design
+- full-body
+- negative-space
+source:
+  name: '@0xInk_ on X'
+  url: https://x.com/0xInk_/status/2076528960880750664
+  credit: INK
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-07-13'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt lists every costume piece with its color and material, and fixes the pose as a relaxed contrapposto with a sword balanced across the shoulders. Style cues such as angular painterly brushwork, cel shaded planes, a plain off-white background and negative space keep the result clean and usable as concept art.
+  zh: 提示词逐件写明服装的颜色与材质,并把姿势定为放松的对立式站姿、长刀横担双肩。再用棱角分明的笔触、赛璐璐色块、纯色浅底与大量留白,让画面干净,可直接当概念设计参考。
+prompt: |
+  Create a full-body character concept illustration of a Happy Samurai: a tall, lean, shirtless wandering samurai standing relaxed against a plain warm off-white background. He wears a vivid red tengu/oni-style mask with an extremely long pointed nose, two tall horns, dark expressive eye openings, and a wide laughing open mouth, giving him a mischievous happy expression. Small purple flowers are tucked near the mask and hair. Pose him in a casual contrapposto stance, one arm draped lazily over a long black sheathed katana or staff balanced horizontally across his shoulders, the weapon stretching far beyond both sides of his body; the right end has a black-and-gold diamond-wrapped handle and dangling tassel, the left end is a dark scabbard with subtle fittings. Dress him in tattered layered samurai clothing: a loose pale gray-blue haori slipping off one shoulder, dark green inner robe panels hanging raggedly, oversized dark blue hakama pants cropped above the ankles, a thick tan rope belt tied in a large knot at the waist, and straw rope sandals on bare feet. Use angular painterly brushwork, high-fashion character design proportions, sharp cel-shaded planes, rough ink-like edges, visible fabric tears and folds, earthy muted colors with strong black accents, minimal ground shadow, and lots of negative space. No text, no border, no watermark.

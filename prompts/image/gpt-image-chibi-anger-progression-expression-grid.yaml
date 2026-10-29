@@ -1,0 +1,25 @@
+id: gpt-image-chibi-anger-progression-expression-grid
+title:
+  en: Chibi Boy Anger Progression 16 Panel Grid
+  zh: Q版男孩愤怒升级十六格表情表
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- expression-sheet
+- chibi
+- grid
+- flat-vector
+- emotion
+source:
+  name: '@aresotik on X'
+  url: https://x.com/aresotik/status/2100125134162194942
+  credit: ares. 🎧
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+notes:
+  en: A precise 4x4 grid with numbered cells, and each panel is described one by one so the emotion escalates step by step. Grouping panels into stages and fixing the character design and flat vector style keep the figure consistent throughout.
+  zh: 精确的4x4编号网格,逐格描述表情,让情绪层层递进。按阶段分组并固定角色设定与扁平矢量风格,保证人物前后一致。
+prompt: "Create a clean, high-resolution character expression sheet featuring a single chibi-style young man with messy black hair, round glasses, and a grey hoodie. The image must be arranged in a precise 4x4 grid (16 panels total), numbered 1 through 16 in the top-left corner of each cell. \n\nThe sequence depicts an escalating emotional journey from calm to extreme rage:\n- Panels 1-4: Neutral states. Panel 1 is blank-faced; Panel 2 is smiling; Panel 3 is annoyed/skeptical; Panel 4 is confused with a question mark.\n- Panels 5-8: Growing irritation. Panel 5 has hands on hips with anger marks; Panel 6 is gritting teeth; Panel 7 is shaking with clenched fists; Panel 8 is squinting in frustration.\n- Panels 9-12: Active anger. Panel 9 is leaning forward aggressively; Panel 10 is screaming with arms raised; Panel 11 is roaring with motion lines; Panel 12 is kicking the ground.\n- Panels 13-16: Peak rage and aftermath. Panel 13 has steam shooting from ears; Panel 14 has a red face and popping\
+  \ veins; Panel 15 is a monstrous scream with dark aura and debris; Panel 16 shows the character collapsed on the floor, exhausted and defeated.\n\nStyle: Flat vector illustration, thick outlines, white background for each panel, consistent character design throughout.\n"

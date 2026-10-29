@@ -1,0 +1,26 @@
+id: gpt-image-tennis-hydration-bottle-forced-perspective-ad
+title:
+  en: Tennis Player Thrusting Water Bottle Ad Poster
+  zh: 网球运动员递出水瓶的强透视广告海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- ad-poster
+- forced-perspective
+- sports
+- beverage
+- wide-angle
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2047245211517256054
+  credit: Heisenberg
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-23'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: An extreme wide angle low courtside viewpoint makes the bottle dominate the foreground, while exact colors for every garment and prop keep the scene controlled. Headline lines are given with explicit size hierarchy and placement on the court surface, plus a repeated logo and URL for a finished campaign layout.
+  zh: 极端广角的低机位让水瓶占据前景，每件服装和道具都写明颜色以保持画面可控。标题按大小层级写明并排在球场地面上，再重复放置标志和网址，得到完整的广告版式。
+prompt: |
+  Create a hyper-realistic sports advertising poster shot from an extreme wide-angle, low courtside perspective on a bright sunny day at an outdoor tennis court. In the extreme foreground, a male tennis player lunges dramatically toward the camera while thrusting a large matte cobalt-blue insulated water bottle toward the viewer, making the bottle the dominant object in the frame. The bottle is covered with visible condensation droplets and has a brushed metallic gold cap, with the white logo text Aqua printed near the bottom. The athlete wears a clean white athletic t-shirt, bright blue tennis shorts, white wristbands, white socks, and white tennis shoes. His other arm stretches back holding a black tennis racket, with 1 bright yellow-green tennis ball visible near the racket on the right side of the image. The pose should feel dynamic and athletic, with one leg bent deeply and the other extended in a wide lunge across the blue hard court. Use strong midday sunlight, crisp shadows, vivid saturated blues, and a clear cloudless sky, with green trees and a dark fence line in the distant background. Compose it like a premium hydration brand campaign, with sharp focus on the bottle and athlete, dramatic foreshortening, commercial polish, and energetic motion. Add clean white ad typography integrated onto the court surface in the lower half: a smaller line reading Play Hard, a very large bold line reading Hydrate Smart, and a smaller subheading reading Hydration that keeps up with every move.. Place the Aqua logo again in white at the top right, and a small website URL in white at the bottom right reading www.aqua.com.

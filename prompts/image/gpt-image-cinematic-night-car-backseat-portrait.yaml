@@ -1,0 +1,36 @@
+id: gpt-image-cinematic-night-car-backseat-portrait
+title:
+  en: Cinematic night portrait in a car back seat
+  zh: 夜晚车后座的电影感人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- night
+- cinematic
+- bokeh
+- low-light
+source:
+  name: '@AiwithElisia on X'
+  url: https://x.com/AiwithElisia/status/2089221808436531381
+  credit: Elisia
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-08-17'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Warm horizontal bands of streetlight across the face give dramatic shadow, while the blurred city seen through the rear window adds bokeh depth. Full camera specs (85mm, f/1.4), explicit framing and a negative list against plastic skin keep the portrait realistic.
+  zh: 横向的暖色街灯光带落在脸上形成戏剧性明暗,后窗外虚化的城市光斑增加景深层次。提示词写明85mm、f/1.4等相机参数和构图,并用否定词避免塑料感皮肤,保证真实质感。
+prompt: |
+  A cinematic, photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car at night. She has long, naturally straight, glossy black hair with a few loose strands falling softly across her face, delicate facial features, smooth natural skin texture, dark expressive eyes, subtle eyeliner, soft natural eyebrows, and muted rosy-red lips. She is looking directly toward the camera with a calm, neutral, slightly melancholic expression.
+
+  Warm golden horizontal bands of streetlight pass naturally across her face, creating dramatic cinematic light and shadow. The lighting should softly illuminate her eyes, nose, cheeks, and lips while leaving parts of her face and hair in deep natural shadow. Preserve realistic skin pores and fine facial details without excessive retouching or plastic-looking skin.
+
+  She is seated inside a dark luxury car, with black leather seats and interior surrounding her. Through the rear window, a nighttime city scene is visible with heavily blurred colorful lights, warm yellow bokeh, white headlights, subtle red traffic lights, and dark urban buildings. Strong shallow depth of field separates her from the background.
+
+  Shot on a professional full-frame camera, 85mm portrait lens, f/1.4 aperture, cinematic depth of field, realistic low-light photography, soft filmic contrast, subtle warm highlights, deep blacks, natural color grading, high dynamic range, crisp eyes, detailed hair strands, realistic skin texture, soft bokeh, atmospheric nighttime mood.
+
+  Composition: vertical portrait, subject centered slightly below the middle of the frame, head and shoulders visible, natural perspective, intimate close-up framing, cinematic negative space, realistic car interior framing in the foreground.
+
+  Ultra-realistic photography, high detail, sharp facial focus, natural imperfections, realistic lighting, premium editorial photography, cinematic movie still, subtle film grain, professional color grading, 8K detail, no artificial beauty filter, no over-sharpening, no distorted facial features, no extra fingers, no text, no watermark.

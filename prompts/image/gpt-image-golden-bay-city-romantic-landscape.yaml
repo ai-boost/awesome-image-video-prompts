@@ -1,0 +1,26 @@
+id: gpt-image-golden-bay-city-romantic-landscape
+title:
+  en: Golden Bay City Romantic Landscape Painting
+  zh: 金色海湾城市浪漫风景油画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- landscape
+- oil-painting
+- matte-painting
+- cityscape
+- panorama
+source:
+  name: '@pbbakkum on X'
+  url: https://x.com/pbbakkum/status/2046679497110675635
+  credit: Peter Bakkum
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-21'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Counts are fixed for every element (5 ruins, 3 sailboats, 4 bridge towers), and the scene is built in layers from foreground to middle ground to skyline. Pairing matte painting with 19th century oil landscape language gives a cinematic scale and soft glowing haze.
+  zh: 为每个元素指定了固定数量（5块遗迹、3艘帆船、4座桥塔），并按前景、中景到天际线分层构图。把数字绘景与19世纪油画风景的措辞结合，画面既有电影般的尺度又有柔和的光晕。
+prompt: |
+  A grand romantic landscape painting of San Francisco seen across a wide bay from an elevated hillside overlook. In the foreground, an old rocky path with 5 large stone ruins or broken masonry blocks sits among dark shrubs and windswept trees, painted in soft earthy browns and deep greens. The middle ground shows calm reflective water with 3 small sailboats scattered across the bay. On the left spans a long suspension bridge with 4 visible towers stretching toward the city. In the distance, a luminous modern skyline rises along the waterfront, including a tall tapered central skyscraper and a pointed pyramid-shaped tower. Above, dramatic swirling clouds open around a radiant low sun, casting warm golden light through the sky and across the water. Render it as a vast cinematic matte painting blended with 19th-century oil landscape aesthetics, atmospheric perspective, glowing haze, soft brushwork, monumental scale, serene mood, and detailed cloud drama.

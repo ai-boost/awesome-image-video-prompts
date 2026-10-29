@@ -1,0 +1,27 @@
+id: gpt-image-black-blazer-editorial-portrait-reference
+title:
+  en: Chest-up editorial portrait in oversized black blazer
+  zh: 黑色超大西装的半身时尚人像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- editorial
+- portrait
+- black-blazer
+- reference-image
+- fashion
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2078741062714356031
+  credit: Eesha
+  likes: 282
+  captured: '2026-10-29'
+  posted: '2026-07-19'
+notes:
+  en: Opens with an identity lock on the reference face, then specifies framing, pose, wardrobe and makeup in order. A named camera and lens, soft side sunlight on a white wall, and a closing list of negatives keep the skin realistic and the face unchanged.
+  zh: 开头先锁定参考图的面部与身份，再依次交代构图、姿态、服装和妆容。指定相机镜头，用白墙加侧向柔光，结尾列出排除项，保证皮肤真实、五官不变。
+prompt: |
+  Use the girl from the reference image and preserve her face, identity, proportions, and overall appearance exactly. Ultra-realistic 9:16 chest-up editorial portrait. She sits with a slight head tilt, looking directly at the camera with a calm, confident expression. Long straight glossy hair with a clean center part.
+
+  Wearing a structured oversized black blazer with broad shoulders. Natural luxury makeup with luminous skin, soft brown eyeshadow, subtle eyeliner, defined lashes, and nude glossy lips. Clean white minimalist background with soft side sunlight creating elegant shadows. Shot on a Sony A7R IV, 85mm f/1.4, shallow depth of field, cinematic lighting, realistic skin texture, 8K RAW, premium fashion editorial, no facial changes, no distortion, no plastic skin, no text, logo, or watermark.

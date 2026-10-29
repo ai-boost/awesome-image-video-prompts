@@ -1,0 +1,26 @@
+id: gpt-image-ms-paint-clumsy-redraw-of-photo
+title:
+  en: Deliberately Terrible MS Paint Redraw of a Photo
+  zh: 把照片重画成故意画得很烂的MS Paint涂鸦
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- ms-paint
+- scribble
+- parody
+- redraw
+- lo-fi
+source:
+  name: '@arrakis_ai on X'
+  url: https://x.com/arrakis_ai/status/2049689793118998717
+  credit: CHOI
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-30'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'The prompt stacks self-deprecating adjectives with concrete constraints: white background, mouse drawn, pixel by pixel feel. Asking for a result that is vaguely similar but off keeps the likeness recognisable while the awkwardness stays funny.'
+  zh: 提示词把自嘲式的形容词和具体限制叠在一起：白色背景、鼠标绘制、逐像素的粗糙感。要求画得似像非像，既保留可辨认的原图轮廓，又让笨拙感显得好笑。
+prompt: |
+  Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.

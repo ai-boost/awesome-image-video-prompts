@@ -1,0 +1,25 @@
+id: nano-banana-paris-street-fashion-portrait-eiffel
+title:
+  en: Man in black coat before the Eiffel Tower
+  zh: 黑色大衣男子与埃菲尔铁塔街拍
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- street-fashion
+- paris
+- hard-light
+- 85mm
+- vertical
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2111733521924456499
+  credit: Picts by AI
+  likes: 53
+  captured: '2026-10-29'
+  posted: '2026-10-18'
+notes:
+  en: The prompt moves in order from subject, pose and styling to setting, light direction, palette and camera. It specifies an 85mm lens at f/2.8, a 45 degree front left hard light and a 9:16 frame, so the result reads as real street fashion photography.
+  zh: 提示词依次写主体、姿态与造型、场景、光线方向、色调和相机参数。它指定了85mm镜头、f/2.8光圈、左前方45度硬光和9:16画幅，所以画面像真实的街头时尚摄影。
+prompt: |
+  A stylish man in a heavy black winter coat and textured grey sweater stands centered, facing the camera at a slight angle with relaxed shoulders. He wears sunglasses and flashes a broad, candid, open-mouthed smile showing his teeth. His short-to-medium hair features a wavy top and faded sides, styled with a matte product that highlights its natural texture and delicate sunlit flyaways. His left hand rests organically on his hip and thigh, casually displaying a silver watch and gold ring, while his right hand is tucked comfortably into his pocket. He is positioned on a grey asphalt street marked with solid white crosswalk paint, surrounded by a slightly blurred midground. To the left, a pristine classic Parisian building showcases perfectly smooth, warm cream cut stone with elegant architectural moldings, arched windows, and iron balconies. Thriving autumn trees with yellowing foliage frame the street alongside faint cars and street signs. In the spatial background, the pristine lattice structure of the Eiffel Tower rises beautifully in the top right corner against a clear sky-blue backdrop. The cheerful scene is bathed in bright, highly directional natural sunlight originating from a front-left 45-degree angle, generating a warm, high-contrast aesthetic. This hard light preserves striking highlights on the left side of his face and the grey sweater's fabric, while casting short, harsh, and deep black shadows with defined edges under his chin, across the right side of his face, and along his dark coat. A complementary color palette merges moderate saturation with an energetic, sunny atmosphere, softened just enough by ambient fill light. Captured as a realistic digital photograph from a straight-on perspective, the image utilizes an 85mm lens at f/2.8 and a fast shutter speed with daylight white balance to achieve a tack-sharp, grain-free subject against a medium depth of field. Drawing from clean men's street fashion photography, the final piece features a warm color grade and contrast enhancement, elegantly framed in a 9:16 aspect ratio.

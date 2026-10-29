@@ -1,0 +1,40 @@
+id: gpt-image-nozomu-capsule-figure-display
+title:
+  en: Pastel Capsule Figure Product Display Ad
+  zh: 粉彩扭蛋手办产品展示广告
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- gashapon
+- chibi-figure
+- product-mockup
+- pastel
+- text-rendering
+source:
+  name: '@ArtistaNozomu on X'
+  url: https://x.com/ArtistaNozomu/status/2066112982313263612
+  credit: のぞむ＊AIイラスト
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-14'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt is split into labeled blocks for goal, canvas, subject, props, signs and constraints. Exact counts for capsules, variants and props, plus quoted sign text, keep the layout and lettering controlled.
+  zh: 提示词按目标、画布、主体、道具、标牌和约束分块编写。对扭蛋、款式和道具给出精确数量，并写明标牌文字，使版面和文字更可控。
+prompt: |
+  Goal: Create a highly polished pastel product advertisement photo for a fictional gashapon toy line featuring NOZOMU, designed like a collectible capsule figure display.
+
+  Canvas: Square 1:1 image, high-resolution commercial product photography with soft studio lighting, shallow depth of field, glossy reflections, and a cute teal, white, lavender, and pale pink palette.
+
+  Main subject: Center foreground shows one chibi anime capsule figure standing on a transparent round display base labeled “NOZOMU.” The figure is a small girl with long dark teal hair, large teal eyes, a cheerful open-mouth smile, and a white bear-ear hoodie with teal bear ears. She wears a teal oversized jacket over a white frilly dress, teal ribbons, tiny bear charms, white socks, and white sneakers. Her right hand lifts the edge of the hood, and her left arm is slightly out to the side. The base is clear acrylic with teal trim, decorative white scrollwork, a small bow motif, and the character name on the front.
+
+  Background and props: Place the figure in front of a transparent capsule vending machine filled with pastel capsules. Include exactly 9 visible capsule balls: 3 teal capsules, 2 lavender capsules, 2 white capsules, 1 pale blue capsule, and 1 pale pink capsule. The machine has a teal coin panel and a white dial, with small Japanese-style coin-insertion signage. On the right foreground, place exactly 2 large empty transparent capsule halves, slightly open and reflective. On the lower left, place exactly 1 mini brochure/card showing the same character artwork and the text “NOZOMU Mini Collection.” On the lower right, place exactly 1 clear plastic accessory bag containing small teal-and-white toy parts: a tiny bear-face charm, teal ribbon-like pieces, and small white accessories.
+
+  Left vending-machine sign: Add a rounded white sign with teal text at upper left. It must read “NOZOMU” in large letters, then “Capsule Figure” and “Mini Collection.” Include two teal rounded labels: one says “全5種” and one says “1回 400円.” Decorate the sign with small pale stars and soft pastel shapes.
+
+  Right collection board: Add a large rectangular collection lineup board on the right side with teal border and rounded corners. Header reads “NOZOMU Mini Collection” with a small teal badge reading “全5種.” The board displays exactly 5 variants in a 2-row grid: 1) “Standard” standing pose, 2) “Smile” winking/smiling pose, 3) “Sitting Pose” standing or seated variant image, 4) “Special Color” gray-toned seated version with a pink “New” sticker, and 5) “Secret” as a dark bear-eared silhouette with a white question mark and a small “Premium Rare” badge. Make the labels small but legible, matching the product mockup style.
+
+  Visual style: Cute Japanese collectible toy aesthetic, realistic miniature figure material, glossy plastic capsules, pastel teal branding, clean merchandising layout, bokeh highlights, soft shadows, premium catalog photography, detailed anime face and hair sculpt, realistic acrylic reflections.
+
+  Constraints: Use exactly one main figure on the central base, exactly one lineup board with five variant entries, exactly one left price/collection sign, exactly one brochure, exactly one accessory bag, exactly two open capsule halves, and exactly nine filled capsules in the machine. Keep all text crisp and integrated into the product design. Do not add extra characters, logos, watermarks, or unrelated objects.

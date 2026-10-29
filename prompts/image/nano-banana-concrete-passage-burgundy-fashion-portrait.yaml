@@ -1,0 +1,29 @@
+id: nano-banana-concrete-passage-burgundy-fashion-portrait
+title:
+  en: Vintage Concrete Passage Fashion Portrait in Burgundy
+  zh: 复古混凝土廊道中的酒红色时装人像
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- fashion
+- editorial
+- full-body
+- reference-photo
+- realistic
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2114593231640170868
+  credit: K
+  likes: 69
+  captured: '2026-10-29'
+  posted: '2026-10-26'
+notes:
+  en: The prompt locks identity to the reference photo, then lists each garment, accessory and makeup detail by color and material. A 50mm lens and warm late afternoon light give a natural editorial depth of field.
+  zh: 提示词先锁定参考图的面部身份，再按颜色和材质逐项列出服装、配饰与妆容细节。50mm 镜头和傍晚暖光营造出自然的杂志级景深。
+prompt: |
+  Use the reference photo and keep her original face identity completely unchanged. Create an ultra-realistic full-body fashion portrait in a quiet vintage concrete passage with aged textured walls, narrow architectural shadows, and warm late-afternoon light.
+  She wears a fitted burgundy satin blouse, charcoal-gray high-waisted wide-leg trousers, and oversized dark olive leather jacket. Add chunky black platform ankle boots with a sculptural heel. Her hair is long, sleek, and softly waved with wispy curtain bangs.
+  Makeup luminous matte skin, taupe smoky eyes, subtle brown eyeliner, softly sculpted cheeks, muted berry blush, and deep rose-brown glossy lips. Add a vintage watch, layered silver necklaces, small hoop earrings, and a structured mini shoulder bag. Dark burgundy nails with tiny chrome accents. Fashion editorial realism, 50mm lens, natural depth of field.Use the reference photo and keep her original face identity completely unchanged. Create an ultra-realistic full-body fashion portrait in a quiet vintage concrete passage with aged textured walls, narrow architectural shadows, and warm late-afternoon light.
+  She wears a fitted burgundy satin blouse, charcoal-gray high-waisted wide-leg trousers, and oversized dark olive leather jacket. Add chunky black platform ankle boots with a sculptural heel. Her hair is long, sleek, and softly waved with wispy curtain bangs.
+  Makeup luminous matte skin, taupe smoky eyes, subtle brown eyeliner, softly sculpted cheeks, muted berry blush, and deep rose-brown glossy lips. Add a vintage watch, layered silver necklaces, small hoop earrings, and a structured mini shoulder bag. Dark burgundy nails with tiny chrome accents. Fashion editorial realism, 50mm lens, natural depth of field.

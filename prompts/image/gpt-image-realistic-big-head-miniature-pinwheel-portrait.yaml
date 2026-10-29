@@ -1,0 +1,106 @@
+id: gpt-image-realistic-big-head-miniature-pinwheel-portrait
+title:
+  en: Realistic big head miniature portrait holding pinwheel
+  zh: 手持风车的写实大头小身人像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- big-head
+- miniature
+- photo-edit
+- realistic
+- chibi
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2114231078843973707
+  credit: Oogie
+  likes: 70
+  captured: '2026-10-29'
+  posted: '2026-10-25'
+notes:
+  en: Numeric proportion targets, such as head share of silhouette height and shoulder width relative to head width, make the exaggeration controllable. Separate sections lock pose, face, clothing and scene so the edit stays photographic.
+  zh: 用头部占身高比例和肩宽占头宽比例等数值锁定夸张程度，再分段固定姿势、五官、服装和场景，让结果保持真实照片质感。
+prompt: |
+  Turn any image into realistic chibi-style portrait using Chat GPT Image 2.5
+
+  Prompt: Task: Strictly edit the uploaded original photograph to transform the person or animal into a hyper-realistic, extremely exaggerated big-head miniature figure, matching the visual style of the provided reference image.
+
+  Highest Priority: Transform the head-to-body proportions while preserving the subject's recognizable identity, natural facial features, original expression, hairstyle, clothing, accessories, pose, and overall photographic realism. The final result must resemble a real photograph, not a cartoon or CGI creation.
+
+  1. Head-to-Body Proportions (Highest Priority)
+
+  - Giant Head: Dramatically enlarge the entire head, including hair, hats, ears, and other existing head accessories. The head should dominate the figure, occupying approximately 65–75% of the total visible silhouette height in a full-body composition.
+  - Extremely Narrow Shoulders: Reduce shoulder width to approximately 40–50% of the head width. Create a tiny neck and narrow shoulder structure that transitions naturally into the miniature torso.
+  - Miniature Body: Compress the torso, waist, hips, and limbs into an extremely small body beneath the oversized head. The torso should be short and narrow, with realistic anatomical connections.
+  - Miniature Arms and Hands: Reduce the arms, palms, and fingers proportionally. Keep the arms naturally close to the body, preserving the original gestures and hand positions.
+  - Tiny Legs and Feet: Dramatically shorten and narrow the legs, feet, and shoes while preserving the original stance, footwear design, and points of contact with the ground.
+  - Strong Proportional Contrast: The head must be unmistakably oversized relative to the tiny body. Preserve the subject's original clothing design while naturally adapting its fit to the miniature proportions.
+
+  The transformation must create an extreme, visually striking big-head miniature effect without making the subject look like a toy, doll, or digitally assembled figure.
+
+  2. Pose and Actions (Strictly Preserve)
+
+  Preserve the original subject's exact pose, body orientation, gestures, facial expression, gaze direction, and interactions with the environment.
+
+  - If standing, keep the subject standing in the same position.
+  - If sitting, crouching, leaning, kneeling, or lying down, preserve that exact posture.
+  - Retain the original hand positions, held objects, arm placement, leg orientation, and contact points.
+  - Maintain the original head tilt and gaze direction unless a slight anatomical adjustment is necessary for a seamless transformation.
+  - Keep the subject's original framing. For full-body photographs, preserve the entire figure. For selfies, close-ups, and partial-body images, do not invent missing body parts or expand the frame unnecessarily.
+
+  The miniature body must adapt to the original pose rather than forcing the subject into a new pose.
+
+  3. Facial Features, Hair, and Clothing (Fully Preserve)
+
+  - Identity: Preserve the same recognizable person or animal from the original image. Do not replace, reinterpret, or redesign the subject.
+  - Face: Retain the original facial structure, eye shape, nose, lips, cheeks, skin tone, expression, and natural facial proportions. Do not apply beauty filters, artificial eye enlargement, face reshaping, or excessive skin smoothing.
+  - Hair: Preserve the original hairstyle, hair color, hairline, texture, volume, and distinctive strands. Scale the hair naturally with the enlarged head.
+  - Clothing: Preserve the exact original garments, colors, materials, prints, patterns, logos, folds, and textures. Adapt their dimensions to fit the miniature body without changing their design.
+  - Accessories: Retain all original jewelry, glasses, hats, bags, watches, and other visible accessories, resizing them only when necessary to fit the transformed proportions.
+  - Animals: Preserve the original species, recognizable features, fur patterns, ears, eyes, and expression. Apply the same oversized-head and miniature-body transformation without changing the animal's identity.
+
+  4. Scene and Composition (Fully Preserve)
+
+  Use the uploaded photograph as the sole reference for the subject and environment.
+
+  - Preserve the original background, architecture, furniture, plants, ground surface, and environmental objects.
+  - Maintain the original camera angle, perspective, framing, subject placement, composition, and aspect ratio.
+  - Keep the surrounding environment at its original scale. The subject's altered proportions should create a striking contrast with the realistic environment.
+  - Preserve the original lighting direction, color tones, shadows, reflections, and depth of field.
+  - Ensure the miniature figure remains naturally grounded in the scene, with realistic contact shadows beneath the feet and physically consistent lighting across the enlarged head and reduced body.
+  - Do not remove, replace, or introduce environmental elements unless a minor reconstruction is essential to repair an editing artifact.
+
+  5. Photographic Realism and Visual Quality
+
+  The entire image must retain the appearance of an authentic, high-resolution photograph.
+
+  - Realistic skin pores, fine facial details, and natural skin texture.
+  - Individual hair strands with believable highlights and shadows.
+  - Authentic fabric weave, clothing folds, and accessory details.
+  - Natural lighting, physically accurate shadows, and consistent reflections.
+  - Seamless transitions between the enlarged head, neck, and miniature body.
+  - Realistic anatomy, natural edges, and coherent perspective.
+  - Subtle photographic imperfections consistent with the original image.
+
+  The oversized head must remain fully photorealistic, with the original person's natural facial anatomy and expression intact. The miniature body must look like a physically plausible part of the same person.
+
+  6. Strictly Prohibited
+
+  - Cartoon, anime, illustration, or stylized 3D figurine aesthetics.
+  - Plastic skin, toy-like materials, doll faces, or artificial beauty enhancements.
+  - Changing the subject's identity, facial features, expression, hairstyle, or clothing design.
+  - Normal adult shoulder width or a body that appears too large relative to the head.
+  - Oversized hands, fingers, feet, or shoes.
+  - Disconnected heads, visible neck seams, floating limbs, malformed joints, or duplicated body parts.
+  - Altered poses, invented gestures, or changed interactions with the environment.
+  - Unnecessary background replacement, camera-angle changes, or aspect-ratio changes.
+  - Unnatural shadows, inconsistent lighting, visible compositing artifacts, text, watermarks, or interface elements.
+
+  Final Output
+
+  Transform the original photograph into an ultra-photorealistic big-head miniature portrait with a dramatically enlarged head, extremely narrow shoulders, a tiny compressed body, and proportionally miniature limbs.
+
+  Preserve the original subject's identity, expression, pose, clothing, accessories, background, and photographic characteristics as faithfully as possible. The exaggerated head-to-body ratio should be the defining visual transformation, producing the same realistic, charming, oversized-head aesthetic as the reference image.
+
+  Editing Rule: Change the subject's proportions only. Preserve everything else from the original photograph.

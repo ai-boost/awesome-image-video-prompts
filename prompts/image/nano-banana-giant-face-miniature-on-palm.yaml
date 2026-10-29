@@ -1,0 +1,25 @@
+id: nano-banana-giant-face-miniature-on-palm
+title:
+  en: Giant face and tiny person on palm
+  zh: 巨人脸庞与掌心上的迷你人物
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- forced-perspective
+- miniature
+- giant
+- face-reference
+- photorealistic
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2028065588048810491
+  credit: Hania Ai
+  likes: 116
+  captured: '2026-10-29'
+  posted: '2026-03-01'
+notes:
+  en: A wide angle lens with shallow depth of field forces the perspective, so the giant face and hand fill the frame while the tiny figure stays sharp. A blurred warm office background and a line assigning the uploaded face to both people keep the identity consistent.
+  zh: 广角镜头加浅景深制造强迫透视，巨大的脸和手占满画面，掌心的小人保持清晰。背景是虚化的暖色办公室，并指定上传的人脸同时用于巨人和小人，保证两者身份一致。
+prompt: |
+  A hyper-realistic, 8k, high-fidelity photograph captured with a wide-angle lens and shallow depth of field, creating a dramatic forced perspective. The composition features a colossal human face and hand on the right side, filling the frame, with the hand extended palm-up towards the left. The giant person, with a full beard and mustache, has their mouth slightly agape in an expression of surprise or speech, looking down towards their palm. On the palm of this giant hand stands a miniature person, appearing tiny in comparison, wearing a black short-sleeved t-shirt and light khaki pants, with dark curly hair. This miniature figure is captured mid-action, with arms slightly bent and legs in a dynamic, running or reacting pose, also with an open mouth as if shouting or speaking. The background is an extremely blurred, warm-toned indoor setting, suggesting an office or study with hints of wooden shelves and a blue binder, providing a soft bokeh effect. Cinematic lighting illuminates the scene with soft, warm light, highlighting the highly detailed texture of the skin, hair, and clothing, while maintaining a natural, diffused quality. The character's face for both the giant and the miniature person is: uploaded face as reference.

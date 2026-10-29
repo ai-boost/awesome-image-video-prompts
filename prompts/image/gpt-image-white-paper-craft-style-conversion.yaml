@@ -1,0 +1,26 @@
+id: gpt-image-white-paper-craft-style-conversion
+title:
+  en: Realistic White Paper Craft Illustration Conversion
+  zh: 插画转写实白色纸艺风格
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- paper-craft
+- style-conversion
+- white-paper
+- layered-depth
+- laser-cut
+source:
+  name: '@notoro_ai on X'
+  url: https://x.com/notoro_ai/status/2052018043883319536
+  credit: のとろ
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-06'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'Names the physical material (laser-cut cardstock), then adds concrete cues: sharp cut edges, fine folds, layered depth and paper fiber with natural shadows. A closing line keeps the original composition and character, so the edit changes only the medium.'
+  zh: 先点明实体材质（激光切割厚纸），再补充具体细节：锐利切口、细密折痕、多层景深、纸纤维与自然投影。结尾要求保留原构图和角色，因此只改变媒介。
+prompt: |
+  このイラストを非常に精密でリアルな白い紙のペーパークラフト風に変換してください。厚紙をレーザーカットしたようなシャープで正確な切り口、細かい折り目、複数のレイヤーによる豊かな立体感、紙の繊維感と自然な影を高ディテールで表現してください。光の当たり方による紙の白さと微妙なグラデーションを活かし、本物のような立体的なペーパーアート作品のようなリアリティを出して。全体を洗練されていて芸術的な雰囲気に。元のイラストの構図・キャラクターを忠実に維持。

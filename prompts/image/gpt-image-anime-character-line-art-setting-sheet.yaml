@@ -1,0 +1,106 @@
+id: gpt-image-anime-character-line-art-setting-sheet
+title:
+  en: Elf Girl Anime Character Line Art Sheet
+  zh: 精灵少女动画角色线稿设定资料
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- character-sheet
+- line-art
+- anime
+- reference-image
+- japanese
+source:
+  name: '@Eris_Create_Lab on X'
+  url: https://x.com/Eris_Create_Lab/status/2058807276828565803
+  credit: Eris Create Lab
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-25'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt names the production use, anime staff as the audience, and lists every required panel, from face angles to shoes and accessories. It bans color and rendering, and asks for handwritten notes, arrows and scan texture so the page reads as a real 90s to 2000s setting book.
+  zh: 提示词点明用途与读者是动画制作人员，并逐项列出脸部角度到鞋子配饰的全部分栏。它禁止上色与渲染，同时要求手写批注、箭头和扫描质感，让页面像90到2000年代的真实设定集。
+prompt: |
+  参照画像をキャラクターデザインのベースとして使用し、「商業アニメ制作現場で使用される、プロ仕様のキャラクター線画設定資料」を描く。
+
+  キャラクターの顔、髪型、髪色、瞳、輪郭、体型、シルエット、衣装デザイン、頭身、全体の印象を正確に維持すること。
+
+  キャラクターのアイデンティティを絶対に崩さない。
+  別キャラクターとして描き直さない。
+
+  完成イラストではない。
+  コンセプトアートではない。
+  ポスターではない。
+
+  目的は、
+  アニメーター・作画監督・動画担当へ向けた、
+  作画共有用の設定資料。
+
+  画面は、
+  白背景の設定資料レイアウト。
+
+  複数の線画を、
+  資料ページとして整理して配置する。
+
+  以下を含める：
+
+  ・正面顔
+  ・斜め顔
+  ・横顔
+  ・表情差分
+  ・目のアップ
+  ・髪の流れ確認
+  ・全身正面
+  ・全身背面
+  ・腕や手の形状確認
+  ・衣装ディテール
+  ・靴デザイン
+  ・アクセサリー構造
+
+  キャラクターは、
+  クリーンなアニメ線画のみで描写する。
+
+  彩色しない。
+  ベタ塗りしない。
+  厚塗りしない。
+  レンダリングしない。
+
+  線は、
+  日本のTVアニメ制作現場のような、
+  細めで整理された鉛筆線画またはクリーンアップ線。
+
+  ラフすぎない。
+  漫画線にならない。
+  スケッチ感を出しすぎない。
+
+  現場用設定資料として、
+  読みやすさと構造理解を最優先する。
+
+  ページ内には、
+  小さな手書きメモ、
+  矢印、
+  パーツ指示、
+  簡易注釈、
+  衣装構造メモ、
+  髪の流れ指示などを自然に追加する。
+
+  レイアウトは、
+  日本の90年代〜2000年代アニメ設定資料集のような空気感。
+
+  情報密度は高いが、
+  見やすく整理されている。
+
+  紙面として自然な余白を持たせる。
+
+  誌面全体は、
+  スキャンされた実物の設定資料集のような空気感。
+
+  軽微な紙の質感、
+  わずかな印刷感、
+  コピー紙感、
+  スキャン感を自然に加える。
+
+  完成されたアート作品ではなく、
+  「実際の制作資料」に見えることを最優先する。

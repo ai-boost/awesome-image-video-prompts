@@ -1,0 +1,33 @@
+id: gpt-image-engineering-sketch-model-architecture-slide
+title:
+  en: Engineering Sketch Slide on Model Architecture Stages
+  zh: 模型架构演进的工程手绘风信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- engineering-sketch
+- watercolor-accent
+- whitespace
+- technical-diagram
+- slide
+source:
+  name: '@stark_nico99 on X'
+  url: https://x.com/stark_nico99/status/2048719821865472116
+  credit: Nicolechan
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-27'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt fixes a pure white background, fine engineering linework and a handwritten dark gray title. Low opacity pale blue, green and orange watercolor accents then color code each stage, and annotated steps with small icons keep the layout clear.
+  zh: 提示词先锁定纯白背景、精细工程线条和深灰手写标题，再用高透明度的淡蓝、淡绿、淡橙水彩区分各阶段，配合标注式步骤与简洁图标，让版面清爽有条理。
+prompt: |
+  -  纯白色背景，大量留白
+  - 工程图纸线条风格（细腻、精确）
+  - 手写体标题（深灰色）
+  - 工程标注方式展示步骤
+  - 淡蓝色、淡绿色、淡橙色水彩点缀（高透明度）
+  - 类似苹果/特斯拉产品设计手稿的现代感
+  - 简洁图标配合步骤说明
+  - 清爽、专业、科技感

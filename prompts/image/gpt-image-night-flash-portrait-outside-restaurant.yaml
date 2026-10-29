@@ -1,0 +1,26 @@
+id: gpt-image-night-flash-portrait-outside-restaurant
+title:
+  en: Night Flash Portrait Outside Restaurant
+  zh: 餐厅门外的夜间闪光灯人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- night-portrait
+- direct-flash
+- street-style
+- film-grain
+- candid
+source:
+  name: '@craftian_keskin on X'
+  url: https://x.com/craftian_keskin/status/2046774231900287107
+  credit: Keskin
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-22'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: Direct on camera flash is paired with a raw film snapshot look, slight grain and deep shadows for an unfiltered nightlife feel. Exact jewelry counts, a thigh up vertical frame and specific sign text and neon placement keep the scene precise.
+  zh: 直闪灯配合胶片快照质感、轻微颗粒和深色阴影，营造不加修饰的夜生活氛围。饰品数量、大腿以上竖构图、招牌文字和霓虹位置都写得很具体，画面因此更可控。
+prompt: |
+  A candid nighttime street portrait of a young woman sitting casually on a woven bistro café chair outside a small urban restaurant. She has long black hair worn loose and slightly tousled, tan skin, and minimal natural makeup with a soft flash-lit glow. She wears a fitted white tank top layered over a visible black lace bralette and high-waisted relaxed blue jeans, with subtle gold jewelry: 2 thin bracelets on one wrist, 1 delicate necklace with a tiny heart pendant, and 1 slim bracelet on the other wrist. She leans diagonally toward the camera with one arm draped over the curved chair back and the other hand resting near her lap, giving an off-camera calm, detached expression. Shot vertically as a medium portrait from about thigh-up, slightly close and intimate, direct on-camera flash creating bright skin highlights, deep shadows, and a raw film-snapshot look with slight grain. The setting is a dark city sidewalk at night with storefront windows, black-painted exterior walls, warm interior reflections, and a glowing yellow sign in the upper left reading KOZY KORNER RESTAURANT, with a smaller lit sign below reading LIQUORS. Add a narrow red vertical neon glow in the background, distant streetlights and blurred city bokeh along the left side, and faint gold lettering on the glass door to the right. Include a clear glass bottle on the table edge at the far right. Authentic nightlife mood, stylish but unfiltered, shallow depth of field, realistic proportions, flash photography aesthetic, cinematic urban candid.

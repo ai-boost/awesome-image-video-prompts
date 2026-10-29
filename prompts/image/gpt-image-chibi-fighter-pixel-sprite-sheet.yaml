@@ -1,0 +1,33 @@
+id: gpt-image-chibi-fighter-pixel-sprite-sheet
+title:
+  en: Chibi Schoolgirl Fighter Pixel Art Sprite Sheet
+  zh: Q版女学生格斗家像素精灵图
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- sprite-sheet
+- pixel-art
+- chibi
+- game-asset
+- animation
+source:
+  name: '@8co28 on X'
+  url: https://x.com/8co28/status/2097423580229521849
+  credit: 852話(hakoniwa)
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-09-08'
+notes:
+  en: Fixes the grid at exactly 16 frames and lists every pose by number in reading order, so the animation cycle stays coherent. Locks the outfit colors, outline weight and baseline alignment, and asks for wide gaps between sprites so they can be sliced cleanly.
+  zh: 明确规定 16 帧并按阅读顺序逐帧编号描述动作，让动画循环连贯。锁定服装配色、描边粗细和底线对齐，并要求精灵之间留出大间隙，方便切图。
+prompt: |
+  Goal: Create a 2D pixel-art combat motion sprite sheet for a cute chibi anime schoolgirl fighter, designed for animation use.
+
+  Canvas: Square 1:1 sprite-sheet canvas with a transparent-background checkerboard preview. Arrange exactly 16 separate sprites in a clean 4 x 4 grid, evenly spaced, all facing mostly to the right. No labels, numbers, UI, borders, shadows, or extra effects.
+
+  Character details: A small chibi girl with blue messy medium hair, side ponytail, and one curled ahoge strand on top. She has a simple cute anime face with dark blue eyes and a determined but cheerful expression. Outfit: bright yellow open jacket with oversized sleeves, lavender shirt, dark navy pleated skirt, white legs, and chunky red ankle boots. Use thick dark navy pixel outlines, crisp 16-bit/32-bit game sprite style, limited palette, clean cel shading, and consistent character proportions across all frames.
+
+  Sprite count and poses: Include exactly 16 discrete frames in this order, left to right and top to bottom: 1 standing guard stance with both fists raised, 2 low ready crouched guard, 3 wind-up punch with rear arm pulled back, 4 forward lunge preparation with jacket sweeping back, 5 straight punch extended, 6 deeper straight punch with body leaning forward, 7 returning to guard, 8 balanced guard stance, 9 knee raise preparation, 10 higher knee lift, 11 side kick starting with leg extended horizontally, 12 full high side kick with leg raised near head height, 13 compact knee-up guard, 14 low crouch recovery with one hand near the ground, 15 neutral guard stance, 16 final relaxed guard stance.
+
+  Composition constraints: Each frame should show the full body, preserve consistent scale and baseline alignment, keep large empty gaps between sprites so they can be sliced cleanly, and make the character readable at small size. The sprite sheet should look like a fighting-game animation cycle for a cheerful chibi schoolgirl martial artist.

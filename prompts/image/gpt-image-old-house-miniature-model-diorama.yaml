@@ -1,0 +1,25 @@
+id: gpt-image-old-house-miniature-model-diorama
+title:
+  en: Weathered Old House as 1:24 Miniature Diorama
+  zh: 老房子1:24超写实微缩沙盘模型
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- miniature
+- diorama
+- weathered
+- macro-photography
+- photo-to-model
+source:
+  name: '@MrGafish on X'
+  url: https://x.com/MrGafish/status/2108382775191757286
+  credit: 鱼哥
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+notes:
+  en: Fixes a scale (1:24) and a museum grade finish, lists specific aging details such as peeling plaster, cracks and moss, and sets a 45 degree three quarter view with macro lighting on a neutral grey studio backdrop. A closing negative clause rules out a plastic toy, cartoon or 3D render look.
+  zh: 指定1:24比例与博物馆级质感，逐项列出墙皮剥落、裂缝、青苔等风化细节，并设定45度三分之四视角、微距柔光和中性灰背景，结尾用否定句排除塑料玩具感、卡通感和3D渲染感。
+prompt: |
+  参考上传的老房子照片，以1:24比例精准复刻为博物馆级超写实实体微缩模型，严格还原建筑结构、屋顶、门窗、墙体及原始环境。精细呈现斑驳墙皮、风化砖瓦、裂缝、青苔、灰尘等岁月痕迹，材质真实自然，具有极致手工制作质感。模型置于精致的矩形沙盘底座上，45度俯视三分之四视角，完整展示建筑全貌。专业微距摄影，柔和自然光，真实阴影，中性灰摄影棚背景，8K超高清。强调真实实体模型效果，避免塑料玩具感、卡通感及3D渲染感。

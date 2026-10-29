@@ -1,0 +1,26 @@
+id: gpt-image-3d-chibi-doodle-sticker-portrait
+title:
+  en: Portrait surrounded by 3D chibi doodle stickers
+  zh: 被3D Q版贴纸和涂鸦环绕的人像
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- chibi
+- doodle
+- sticker
+- portrait
+- reference-photo
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2051209193336545713
+  credit: K
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt locks the original face and background first, then adds mini 3D chibi copies with listed poses and expressions. White handwritten doodles, a sticker outline and short casual words finish the pastel look.
+  zh: 提示词先锁定原脸和原背景，再加入若干指定姿势与表情的3D Q版小人。白色手绘涂鸦、贴纸描边和随手写的短词完成粉彩风格。
+prompt: |
+  Use the original face from the reference photo. Background same as the photo. Warm, soft, clean lighting with soft shadows. Surround it with several 3D cute style mini chibi versions of themselves, keeping the original facial features. The chibi characters have various poses and expressions: cheerful jumping, waving, sitting casually holding a drink, and cute/playful expressions.￼ Add white hand-drawn style doodle elements: outlines around the main body, stars, hearts, sparkles, and motion lines. Add aesthetic handwriting text like: 'shine', 'bright day', 'happy', 'smile', etc. (casual doodle font). Overall style: clean & aesthetic composition, white sticker outline, soft pastel color tone, high detail 3D chibi, glossy look, cute Korean style, instagramable￼

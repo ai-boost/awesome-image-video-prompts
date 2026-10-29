@@ -1,0 +1,31 @@
+id: gpt-image-fuji-highway-ar-route-motorcycle-campaign
+title:
+  en: Rider beside red motorcycle on glowing AR highway
+  zh: 红色摩托旁的骑手与发光AR导航公路
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- travel-campaign
+- ar-interface
+- motorcycle
+- japan
+- golden-hour
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2061674387137540325
+  credit: Smiling Khan
+  likes: 85
+  captured: '2026-10-29'
+  posted: '2026-06-02'
+notes:
+  en: Turns an uploaded bike photo into a travel campaign by fixing the pose first (standing beside the bike, not sitting) and then listing every AR element to project on the asphalt. A named location, golden hour lighting and a negative prompt keep the scene realistic and the interface believable.
+  zh: 先锁定人物姿势（站在车旁而非骑乘），再逐项列出投射在路面上的AR界面元素，把上传的摩托照片变成旅行广告。具体地点、黄金时刻光线和负面提示词让画面保持写实、界面可信。
+prompt: |
+  Transform my uploaded red sports bike photo into a cinematic adventure travel campaign set on an iconic Japanese mountain highway. The rider is standing confidently beside the motorcycle, not sitting on it, one hand resting naturally on the bike. Ultra-realistic futuristic navigation route projected directly onto the asphalt with glowing golden GPS lines flowing through the road. Advanced augmented reality travel interface integrated into the highway surface showing destination markers, ETA, distance remaining, speed indicators, route statistics, checkpoints, city names in Japanese and English, holographic map overlays, navigation arrows, and premium HUD elements.
+
+  Location: scenic Hakone mountain roads, Mount Fuji visible in the background, winding Japanese highways, coastal mountain passes, cherry blossom trees, traditional Japanese roadside details, breathtaking panoramic landscape. Golden hour sunset with warm cinematic lighting, volumetric sun rays, atmospheric haze, realistic reflections on the red motorcycle bodywork.
+
+  The woman stands beside the bike as the hero subject, long flowing hair, confident travel-adventure pose, looking toward the horizon. Motorcycle parked on the roadside while the glowing navigation route continues into the distance. Hyper-detailed road textures, luxury travel advertisement aesthetic, immersive road-trip atmosphere, high contrast, vibrant colors, shallow depth of field, photorealistic 8K, ultra-sharp focus, cinematic composition, premium tourism campaign, adventure and freedom theme, realistic AR technology seamlessly embedded into the environment, masterpiece quality, award-winning commercial photography.
+
+  Negative Prompt: helmet, sitting on bike, low quality, blurry face, cartoon, CGI look, extra limbs, distorted anatomy, duplicate bike, oversaturated colors, unrealistic UI, crowded traffic, rain, fog covering subject, watermark, logo, text artifacts, low resolution, bad proportions.

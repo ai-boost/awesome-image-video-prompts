@@ -1,0 +1,50 @@
+id: gpt-image-flat-vector-city-travel-poster-template-2-2
+title:
+  en: Minimal flat vector city travel poster template
+  zh: 极简扁平矢量城市旅行海报模板
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- flat-vector
+- template
+- city
+- pastel-palette
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2069643205818437808
+  credit: Oogie
+  likes: 234
+  captured: '2026-10-29'
+  posted: '2026-06-24'
+notes:
+  en: A CITY_NAME placeholder lets the model fill in the landmark, architecture and street details itself. Reserving upper left negative space for type, capping the figures at three to six, and fixing the palette and a list of banned effects keep the flat vector look consistent.
+  zh: 用 CITY_NAME 占位符让模型自动补全地标、建筑和街景细节。预留左上角排版空白、限定三到六个人物，再锁定配色并列出禁用效果，使扁平矢量风格保持一致。
+prompt: |
+  GPT Image 2 on Chatgpt
+
+  Prompt: Premium minimal flat-vector travel poster for [CITY_NAME], 3:4 vertical.
+
+  Create an airy, elegant city scene with large typography-safe negative space in the upper-left.
+  Add “[CITY_NAME]” and one short refined English caption that matches the city mood.
+
+  Automatically adapt the illustration to [CITY_NAME]:
+  include one iconic primary landmark, local architecture, café culture, a transport sign, street lamps, flowers, trees, small city details, and calm daily-life moments.
+
+  Use only 3–6 people, naturally interacting with the city:
+  talking at a café, walking, jogging, sketching, or taking photos.
+  Avoid crowds, avoid a single hero character, and keep the composition open and uncluttered.
+
+  Style:
+  Japanese stationery aesthetic, luxury sticker illustration, premium commercial flat-vector poster, clean thin outlines, consistent line weight, flat colors only.
+
+  Palette:
+  pale powder blue, soft sky blue, mist blue as the dominant background tones;
+  warm cream, soft beige, sage green, muted gray-green for architecture and nature;
+  dusty rose or blush pink only as tiny accents on flowers, signs, awnings, or small decorative details.
+
+  Mood:
+  fresh, minimal, elegant, calm, refined, high-end travel postcard and lifestyle branding.
+
+  No realism, no watercolor, no painterly effects, no photorealism, no shading, no gradients, no texture, no dense background.

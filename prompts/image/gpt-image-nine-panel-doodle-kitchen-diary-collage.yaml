@@ -1,0 +1,27 @@
+id: gpt-image-nine-panel-doodle-kitchen-diary-collage
+title:
+  en: Nine panel kitchen diary collage with doodles
+  zh: 九宫格厨房日记涂鸦拼贴
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- photo-collage
+- nine-panel-grid
+- doodle-overlay
+- high-key
+- scrapbook
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2071527238600954053
+  credit: Eesha
+  likes: 301
+  captured: '2026-10-29'
+  posted: '2026-06-29'
+notes:
+  en: The prompt asks for the same subject in nine continuous moments with varied poses, angles and distances, so one scene reads as a story. Thin white borders, one continuous white doodle layer that matches each action, and a high key colour brief keep the grid cohesive.
+  zh: 提示词要求同一主体在九个连续瞬间中变换姿势、角度和距离，让整组画面像一段故事。细白边框、贯穿全图并贴合每个动作的白色手绘涂鸦层，以及明亮高调的色彩要求，让九宫格浑然一体。
+prompt: |
+  A nine-panel grid photo collage of the same subject appearing in continuous moments across all frames with different poses, angles, and distances. Each panel feels like a real photograph with natural lighting, clean and airy backgrounds, and a bright, fresh mood. Thin white borders separate the grids neatly. White hand-drawn doodle lines flow across the entire collage, wrapping around the subject, tracing movements, and forming small symbols like hearts, sparkles, waves, and motion marks that match the action in each frame.
+
+  The overall color tone is high-key, light, and vibrant, with soft natural colors and small accent tones, avoiding dull or heavy shadows. The final result feels like a cohesive visual diary or scrapbook page where all nine moments are individually clear but visually connected into one lively, rhythmic story.

@@ -1,0 +1,40 @@
+id: gpt-image-noxen-four-dimensions-chronograph-watch-ad
+title:
+  en: Luxury chronograph watch ad in four elemental worlds
+  zh: 四种元素世界中的奢华计时腕表广告
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- watch
+- advertising
+- four-panel
+- luxury
+- typography
+source:
+  name: '@Riya333S on X'
+  url: https://x.com/Riya333S/status/2054744217239597125
+  credit: Riya_Cute 🇺🇸
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-14'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A fixed 2x2 grid with one watch model described in detail keeps the product consistent while material and environment change per panel. Exact brand, monogram and tagline text is specified for each panel, with a strict no extra text rule.
+  zh: 固定的 2x2 四宫格加上对同一款腕表的细致描述，让产品在各格保持一致，只替换材质与环境。每格都写明品牌名、字母标志和标语原文，并严格禁止多余文字。
+prompt: |
+  Goal: Create a luxury square advertising collage for a futuristic wristwatch brand, showing one premium chronograph watch across four elemental dimensions. Use the brand name NOXEN and the monogram N.
+
+  Canvas: Square 1:1 image divided into exactly 4 equal panels in a clean 2x2 grid, separated by thin white divider lines. Each panel is a cinematic product poster with dramatic lighting, high contrast, sharp watch detail, and premium commercial photography realism.
+
+  Overall subject: A masculine luxury stainless-steel chronograph wristwatch with integrated metal bracelet, octagonal/rounded bezel with small screws, black dial, three subdials, baton hour markers, central hands, crown and pushers on the right side, and subtle brand text on the dial. The watch should remain recognizable as the same model in all 4 panels while material color and environment change.
+
+  Panel count and details: Exactly 4 distinct watch posters:
+  1. Top-left panel: matte black watch in a dark smoky void, surrounded by black dust, volcanic ash, floating debris, and mist. Monochrome black-and-charcoal palette with silver highlights. Place the monogram above the brand name near the top center. Add the small tagline ENGINEERED IN DARKNESS near the bottom center.
+  2. Top-right panel: polished gold watch surrounded by a dramatic splash of liquid gold, bubbles, and warm amber reflections. Black background with intense golden highlights. Place the monogram above the brand name near the top center. Add the small tagline CRAFTED IN GOLD near the bottom center.
+  3. Bottom-left panel: silver steel watch frozen inside a translucent block of cracked blue ice, with frosty mist, icy rock texture, and cold blue lighting. Place a large monogram above the brand name near the bottom center, with the small tagline BUILT BEYOND TIME beneath it.
+  4. Bottom-right panel: black and dark steel watch with neon green accents in a cyberpunk futuristic city at night, glowing skyscrapers, circuit-like lines, holographic HUD rings, and emerald light beams. Place a large glowing monogram above the brand name near the top center. Add the small tagline FUTURE. ENGINEERED. near the bottom center.
+
+  Typography: Elegant luxury serif or widely spaced uppercase lettering for the brand name, thin uppercase tracking for taglines, centered and minimal. Text must be crisp and legible: brand name appears in all 4 panels, the monogram appears in all 4 panels, and each panel has exactly one tagline as listed.
+
+  Visual style: Ultra-realistic high-end watch advertising, macro product photography, cinematic lighting, glossy reflections, deep blacks, premium contrast, sharp metal textures, atmospheric particles, no people, no extra logos, no watermark, no additional text beyond the specified brand, monogram, and four taglines.

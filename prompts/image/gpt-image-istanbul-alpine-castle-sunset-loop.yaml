@@ -1,0 +1,50 @@
+id: gpt-image-istanbul-alpine-castle-sunset-loop
+title:
+  en: Istanbul Mosque and Alpine Castle Sunset Loop
+  zh: 伊斯坦布尔清真寺与阿尔卑斯城堡日落循环
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- travel
+- sunset
+- gif-loop
+- landscape
+- reference-blend
+source:
+  name: '@KrishnaBio1 on X'
+  url: https://x.com/KrishnaBio1/status/2097716825668702388
+  credit: KrishnaG
+  likes: 43
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+notes:
+  en: Sections for scene, lighting, animation, style and camera, plus a long negative list, keep two reference images blended into one believable place. Animation rules limit motion to the environment, lock the camera and require frame 16 to return to frame 1 for a seamless loop.
+  zh: 提示词按场景、光线、动画、风格、镜头分段,再配一长串负面词,让两张参考图融合成一个可信的地点。动画只允许环境微动,镜头锁定,并要求第16帧接回第1帧,形成无缝循环。
+prompt: |
+  Turn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop.
+
+  SCENE
+  Combine the key elements from both images into one natural-looking destination. Include the grand Ottoman-style mosque with multiple minarets and domes, Istanbul-style waterfront and boats from the first image, together with the peaceful alpine lake, colorful European village, dramatic snow-capped mountains and beautiful hilltop stone castle from the second image.
+
+  Create a wide scenic waterfront view with historic architecture on one side and the castle and mountains on the other. Add colorful flowers, green trees, Mediterranean plants, a vintage lantern and an elegant terrace with a small café table in the foreground.
+
+  SUNSET & LIGHTING
+  Beautiful golden-hour sunset with pastel blue, pink, peach and orange clouds. Warm sunlight illuminates the mosque, castle, village, mountains and boats. The lake reflects the sunset, buildings and mountains with realistic gentle ripples and golden reflections.
+
+  ANIMATION
+  Create 16 consecutive frames of a smooth seamless loop. Animate only subtle environmental movement: slowly drifting clouds, gentle water ripples, boats moving slightly, birds flying in the distance, flowers and tree leaves softly moving in the breeze, and subtle candle/lantern flickering.
+
+  Keep the camera completely fixed. Keep the mosque, castle, mountains, houses and all major objects perfectly consistent across every frame. Frame 16 must smoothly transition back into Frame 1.
+
+  STYLE
+  Ultra-realistic cinematic travel photography, luxury tourism advertisement, breathtaking golden-hour atmosphere, realistic architecture, detailed mountains, natural vegetation, beautiful water reflections, atmospheric depth, high dynamic range, rich but natural colors, professional photography, photorealistic 8K quality.
+
+  CAMERA
+  Wide cinematic landscape view, 24mm lens, stable locked camera, natural perspective, realistic depth of field, consistent framing and lighting across all frames.
+
+  ANIMATION SETTINGS
+  16 frames, approximately 2.2-second complete loop, smooth continuous GIF animation, no camera movement, no flickering.
+
+  NEGATIVE PROMPT
+  cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warped mosque, crooked minarets, malformed castle, distorted mountains, duplicated boats, floating objects, unrealistic reflections, fake water, excessive fog, oversaturated colors, extreme HDR, blurry image, motion blur, camera shake, zoom, flickering, morphing buildings, changing architecture, disappearing objects, duplicated birds, unnatural clouds, image seams, visible collage, text, logo, watermark, border, black bars, artifacts.

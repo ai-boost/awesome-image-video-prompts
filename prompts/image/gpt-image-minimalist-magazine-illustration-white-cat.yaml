@@ -1,0 +1,26 @@
+id: gpt-image-minimalist-magazine-illustration-white-cat
+title:
+  en: Minimalist magazine illustration of a white cat
+  zh: 白猫极简主义杂志风格插画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- minimalist
+- magazine-illustration
+- negative-space
+- neutral-palette
+- template
+source:
+  name: '@yyyole on X'
+  url: https://x.com/yyyole/status/2061644933287838180
+  credit: 沐阳
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-06-02'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A fill in subject slot lets one template serve any subject. Clean flowing lines, large negative space and soft neutrals with a single vivid accent color set the focal point, and an explicit no text clause keeps the layout clean.
+  zh: 主体用占位符留空，同一模板可套用任何对象。流畅线条、大面积留白和柔和中性色搭配一处鲜艳点缀色来确定视觉焦点，并明确写明无文字以保持版面干净。
+prompt: |
+  一张极简主义现代杂志风格插画，主体为[xxx]。画面以干净流畅的线条塑造形象，造型简洁但富有美感，背景保留大面积留白，配色以柔和中性色为主，并加入少量鲜艳色彩作为视觉焦点。整体构图精致平衡，氛围优雅清新，具有高级杂志插画与现代艺术海报质感，无文字。

@@ -1,0 +1,26 @@
+id: gpt-image-cyberpunk-cosplay-street-photo-cinematic-grade
+title:
+  en: Cosplay Street Photo Graded as Cyberpunk Cinema Poster
+  zh: 街头Cosplay照片调成赛博朋克电影海报
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- cyberpunk
+- cinematic-grade
+- cosplay
+- photo-retouch
+- relighting
+source:
+  name: '@MMMusol on X'
+  url: https://x.com/MMMusol/status/2051171670380126499
+  credit: Musolsol.𝟎𝐱𝐔
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-04'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: 'The prompt first lists what must stay fixed (subject, pose, outfit, helmet, setting), then lists the changes: darker defocused background, deep shadows, cool blue gray grade, vignette and film grain. One small amber glow on the visor adds a focal accent, and a ban on text and character changes keeps it a retouch rather than a redraw.'
+  zh: 提示词先列出必须保留的内容（主体、姿势、服装、头盔、场景），再列出要改的部分：背景压暗虚化、加深阴影、冷蓝灰调色、暗角与胶片颗粒。头盔面罩上一点琥珀色反光作为视觉焦点，并禁止加字和改角色设计，让结果是修图而不是重绘。
+prompt: |
+  Using the provided reference image, transform the ordinary phone snapshot into a cinematic cyberpunk movie-poster style edit. Keep the same subject, pose, outfit, helmet, foreground composition, and convention-center setting intact, but dramatically relight and color grade the scene with a dark, moody Blade Runner-inspired cyberpunk atmosphere. Make the background darker and slightly defocused, deepen shadows, add high contrast, cool blue-gray tones, subtle vignette, and a soft filmic texture. Add a small warm amber reflection/glow on the helmet visor area as if from neon or sunset light, while preserving realistic skin texture and photographic detail. Do not change the character design or add text; make it look like a professionally retouched cinematic poster frame rather than a casual outdoor snapshot.

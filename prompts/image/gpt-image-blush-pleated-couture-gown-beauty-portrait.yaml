@@ -1,0 +1,33 @@
+id: gpt-image-blush-pleated-couture-gown-beauty-portrait
+title:
+  en: Blush pink pleated couture gown beauty portrait
+  zh: 腮红粉褶皱高定礼服美妆人像
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- fashion
+- beauty-portrait
+- pleated-gown
+- studio-lighting
+- editorial
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2100051238041932083
+  credit: Meem
+  likes: 45
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+notes:
+  en: The prompt describes hair, eyes, makeup, pose and hand placement in separate passages, then gives the gown fabric its own passage with fold and shadow detail. It closes with studio lighting, an 85mm lens and a negative prompt aimed at plastic skin and distorted hands.
+  zh: 提示词把发型、眼妆、姿态和手部位置分段描述，再单独用一段写礼服面料的褶皱与阴影细节。结尾补充棚拍光线、85mm镜头，并用负面提示词压制塑料皮肤和畸形手指。
+prompt: |
+  Create a photorealistic high-fashion beauty portrait of an elegant adult woman with same features and luminous natural skin. She has long, perfectly straight, glossy black hair, sleekly parted down the center and falling smoothly behind her shoulders. Her almond-shaped dark brown eyes are softly defined with subtle eyeliner and warm neutral eyeshadow. She has naturally shaped brows, soft peach blush, radiant cheekbones, and glossy muted nude-pink lips.
+
+  She poses gracefully with her head slightly tilted upward and turned subtly toward the camera, giving a calm, sophisticated, confident expression. One delicate hand is raised beside her face, with her fingertips gently touching beneath her chin. Natural elegant fingers and realistic hands.
+
+  She is wrapped in an exquisite blush-pink pleated couture gown made from lightweight sculptural fabric. The fabric forms dramatic oversized pleated folds that sweep around her shoulders, arms, and torso like flowing architectural waves, creating a luxurious sculptural silhouette while remaining elegant and tasteful. Fine accordion pleats are highly detailed and realistic, with soft dimensional shadows between every fold.
+
+  Minimalist studio background in warm soft gray, with large flowing pleated fabric shapes surrounding her like an artistic backdrop. Soft diffused beauty lighting illuminates her face evenly, creating subtle highlights on her cheekbones, shoulder, and glossy hair. Premium beauty campaign aesthetic, sophisticated editorial photography, dreamy feminine atmosphere, ultra-realistic skin texture, realistic fabric detail, cinematic depth of field, 85mm portrait lens, high-end fashion magazine quality, vertical composition, photorealistic.
+
+  Negative prompt: text, logos, watermark, symbols, stickers, borders, social media UI, excessive makeup, plastic skin, over-smoothed face, distorted hands, extra fingers, malformed fingers, asymmetrical eyes, unrealistic hair, messy hair, cartoon, illustration, CGI, low resolution, blur, oversaturated colors.

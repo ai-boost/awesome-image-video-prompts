@@ -1,0 +1,26 @@
+id: gpt-image-avant-garde-oversized-sunglasses-vision-ad
+title:
+  en: Oversized Sunglasses Fashion Ad with Giant Type
+  zh: 巨型墨镜与超大字标题的时尚广告
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fashion-ad
+- eyewear
+- typography
+- editorial
+- studio
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2047700936605479334
+  credit: Synthia
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-04-24'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: The prompt turns the product into sculpture and furniture, so scale contrast gives the layout its drama. A giant headline word behind the subject, a single powder blue palette and a reflective floor keep the composition clean and editorial.
+  zh: 提示词把产品写成雕塑和家具，用尺度反差制造戏剧感。巨大的标题字放在人物身后，配合单一粉蓝色调和反光地面，画面干净且有杂志感。
+prompt: |
+  Avant-garde fashion advertisement, oversized futuristic sunglasses positioned like sculpture, model casually seated on the frame as if furniture, giant word "VISION" behind in bold white typography, powder blue studio background, reflective floor, luxury eyewear campaign aesthetic, ultra-clean layout, editorial magazine styling, 1:1

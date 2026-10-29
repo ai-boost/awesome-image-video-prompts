@@ -1,0 +1,27 @@
+id: gpt-image-cozy-hoodie-sleeve-selfie
+title:
+  en: Cozy selfie in a cream oversized hoodie
+  zh: 奶油色宽松卫衣里的温柔自拍
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- selfie
+- portrait
+- cozy
+- shallow-depth-of-field
+- photorealistic
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2067555456688791598
+  credit: Eesha
+  likes: 996
+  captured: '2026-10-29'
+  posted: '2026-06-18'
+notes:
+  en: The prompt fixes a tight selfie framing and a specific pose, with the cheek resting on the sleeve. It then layers face details, soft lighting, shallow depth of field and a 9:16 ratio so the result reads as a real webcam selfie.
+  zh: 提示词先锁定贴脸自拍的构图和脸颊靠在袖口的姿势，再依次叠加五官细节、柔和光线、浅景深和 9:16 比例，让画面像真实的前置自拍。
+prompt: |
+  Photorealistic close-up selfie of an adorable young woman, face filling most of the frame, head slightly tilted with cheek resting inside a cozy cream oversized hoodie sleeve. Long silky hair with soft curtain bangs covering one eye, big expressive eyes with winged eyeliner, fluffy lashes, natural glowing skin, dusty pink lips, gentle pout, sweet and cute expression.
+
+  Hoodie slipping off one shoulder, visible collarbone. Warm indoor lighting, soft beige-gray blurred background, shallow depth of field, ultra-detailed eye focus, realistic hair texture, cozy aesthetic, authentic webcam selfie vibe, muted pastel tones, high realism, 9:16 portrait.

@@ -1,0 +1,37 @@
+id: gpt-image-ivory-editorial-collage-skater-breakout
+title:
+  en: Skater breaking out of framed mountain photo
+  zh: 滑板女孩跃出山景相框的编辑拼贴
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- editorial-collage
+- ivory-paper
+- photo-edit
+- travel-magazine
+- cutout
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2112515912993820802
+  credit: Ziha
+  likes: 128
+  captured: '2026-10-29'
+  posted: '2026-10-20'
+notes:
+  en: The prompt fixes a strict 3:4 canvas with a centered rectangular crop on ivory paper, then asks the subject and foreground to overlap the bottom edge as realistic cutouts. A preserve the original block and a restrictions list keep the face, clothing and landscape faithful.
+  zh: 提示词锁定严格 3:4 画布，在象牙白纸面中央放置矩形裁切图，并让主体与前景越过下边缘形成真实抠图。保留原图和限制清单两段文字保证人物、服装与风景不走样。
+prompt: |
+  Use for portraits, people, flowers, trekking photos, and other vertical images. Canvas: strict 3:4 portrait.
+  Transform the uploaded photograph into a premium minimalist editorial collage inspired by luxury travel magazines, contemporary fashion editorials, and artistic outdoor photography.
+  FORMAT & COMPOSITION:
+  Create a strict 3:4 vertical canvas. Use a warm ivory/off-white background with subtle paper texture and generous negative space.
+  Place a large, clean-edged vertical rectangular crop of the original photograph in the center, slightly above the middle. Keep the original scenery recognizable inside the rectangle. Let the main subject naturally overlap and extend beyond the bottom edge of the rectangle into the ivory space. Where it looks natural, allow foreground flowers, grass, foliage, or rocks to extend beyond the frame as realistic photographic cutouts. Keep the layout asymmetrical but balanced, with the subject as the focal point.
+  PRESERVE THE ORIGINAL:
+  Use the uploaded photo as the source. Keep the subject as faithful to the original as possible: preserve identity, face, expression, hair, clothing, pose, proportions, colors, and distinctive details. Do not beautify, redesign, or stylize the subject. Preserve the original landscape, lighting, textures, and atmosphere. Do not crop off important parts of the subject.
+  STYLE:
+  Photorealistic premium travel editorial, minimalist Swiss-inspired art direction, warm ivory paper, muted earthy colors, dusty blues, natural greens, subtle film grain, realistic edges, and soft believable shadows.
+  RESTRICTIONS:
+  No text, typography, logos, watermarks, extra subjects, unrelated objects, illustration, cartoon effects, HDR, oversaturation, artificial glow, plastic textures, or exaggerated shadows. Do not distort proportions. If preserving the original subject conflicts with the layout, prioritize the subject.
+  FINAL RESULT:
+  A refined photorealistic editorial collage with a vertical rectangular photo and the original subject or natural foreground breaking out of the frame into the surrounding ivory negative space.

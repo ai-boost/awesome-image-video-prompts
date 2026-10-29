@@ -1,0 +1,32 @@
+id: gpt-image-human-fragments-typography-poster-template
+title:
+  en: Editorial typography poster with woman and bicycle
+  zh: 人物与单车融入巨型字母的编辑排版海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- typography
+- editorial
+- template
+- lifestyle
+- 9-16
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2084503517709119999
+  credit: K
+  likes: 621
+  captured: '2026-10-29'
+  posted: '2026-08-04'
+notes:
+  en: Oversized letters act as the layout structure, so the person and street scene appear inside the glyphs and break past their edges. Bracketed slots for theme, subject, state and palette plus a fixed series and year make it a reusable template.
+  zh: 以超大字母作为版面骨架，让人物和街景出现在字形内部并突破字形边缘。主题、主体、状态、色板使用占位符，再固定系列名和年份，可作为通用模板反复套用。
+prompt: |
+  Create a 9:16 editorial typography poster from a single human-centered lifestyle moment.
+
+  Use oversized typography as the main composition structure. Let the person, movement, city space, or everyday scene appear inside the letters, pass through them, or break beyond their edges. The image should feel integrated with the type, not simply placed behind text.Theme: [Custom Title]
+  Subject: [Subject Gender Or Origin]
+  Human state: [Human State]
+  Color palette: [Color Palette]
+  Series: HUMAN FRAGMENTS
+  Year: 2026

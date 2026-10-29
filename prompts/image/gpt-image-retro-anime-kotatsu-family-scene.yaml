@@ -1,0 +1,26 @@
+id: gpt-image-retro-anime-kotatsu-family-scene
+title:
+  en: Retro Anime Kotatsu Family Scene
+  zh: 复古动画风暖桌家庭场景
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- retro
+- interior
+- kotatsu
+- slice-of-life
+source:
+  name: '@pentawer88 on X'
+  url: https://x.com/pentawer88/status/2050041839781363867
+  credit: ペンタウァ ai
+  likes: ''
+  captured: '2026-10-29'
+  posted: '2026-05-01'
+  via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
+notes:
+  en: A fixed three quarter camera angle, exact counts for every prop and person, and a left to right layout of the room keep the crowded scene tidy. Specific outfit and hair colors per character, plus a cel anime style cue with faded colors, give the 1980s look.
+  zh: 固定的斜上方三分之四视角、对人物和道具数量的精确限定，以及从左到右的房间布局，让复杂画面井然有序。每个角色明确的服装发色，加上赛璐璐动画风与褪色色调的描述，营造出八十年代的质感。
+prompt: |
+  A nostalgic anime illustration set in a traditional Japanese tatami room during winter, viewed from a slightly elevated three-quarter angle. In the center is a low wooden kotatsu table covered with a thick brown patchwork quilt, with 2 floor cushions visible on the tatami. Around the table sit 3 people: a young woman with long straight teal blue hair and a pink sleeveless dress with a white collar, sitting at the far side of the table and peeling a mandarin orange; a second young woman with short bobbed purple hair, wearing a pale yellow top, blue skirt, and a white apron tied in a bow at the back, seated in the right foreground; and a small boy in a white shirt with blue sleeves and blue shorts, kneeling on the left and crawling partway under the kotatsu to warm himself. On top of the table are 3 green-yellow plastic bottles labeled "mello Yello", a round woven tray holding 5 whole mandarins, and 1 peeled mandarin with loose orange peels spread on the tabletop. In the left background stands a chunky 1980s CRT television with woodgrain side panels on a low TV stand, with a silver video deck or console beneath it. The TV screen shows a blue title card with white Japanese credits and a glowing pale circular shape. Behind the characters are 1 shoji sliding door on the left and 2 beige fusuma sliding doors on the right wall. Warm indoor lighting, cozy family atmosphere, retro Showa-era Japanese home, detailed hand-drawn cel-anime style with soft shading, clean linework, and slightly faded vintage colors.

@@ -1,0 +1,30 @@
+id: nano-banana-national-park-trail-map-diorama
+title:
+  en: National Park Trail Map Rising Into Miniature Diorama
+  zh: 从野餐桌地图中升起的国家公园微缩景观
+model: Nano Banana 2
+mode: text-to-image
+category: map
+tags:
+- map
+- diorama
+- miniature
+- national-park
+- template
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2029605103632580792
+  credit: Alexandra Aisling
+  likes: 201
+  captured: '2026-10-29'
+  posted: '2026-03-05'
+notes:
+  en: The template uses curly brace slots for trailhead, terrain, wildlife, water and weather, so one scene structure can be reused for any park. Concrete scale cues such as frozen hikers, tiny tent smoke and legible trail signs keep the diorama believable.
+  zh: 模板用花括号槽位填入起点、地形、野生动物、水系和天气，同一场景结构可套用到任何公园。静止的徒步者、帐篷炊烟和清晰的路标等具体比例线索让微缩景观更可信。
+prompt: |
+  Prompt Studio: National Park Trail Map with Nano Banana 2 in Firefly
+
+  A National Park trail map unfolded on a picnic table, with the wilderness rising into explorable miniature ecosystem. {TRAILHEAD} emerges with {VISITOR_ELEMENT}, the marked paths wind upward through {TERRAIN_1} featuring {WILDLIFE_1}, past {VIEWPOINT_1} with {SCENIC_ELEMENT}, toward {SUMMIT/DESTINATION} with {PAYOFF_VIEW}. {WATER_FEATURE} flows actual water down the topography. {FOREST_TYPE} trees stand at proper scale, {BIRD_SPECIES} perch in branches. Trail markers and signs are legible. Elevation changes create dramatic miniature mountains. {WEATHER_ELEMENT} affects one region while another stays clear. Camping symbols mark actual tiny tent sites with smoke rising. Day hikers frozen mid-stride, wildlife pausing mid-graze. Golden hour backcountry light, wilderness diorama perfection, 8K, the park as you imagined it from the map.
+
+  Check ALTs for ideas 👇
+  @AdobeFirefly
