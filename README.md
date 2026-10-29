@@ -18,6 +18,7 @@
 
 ## Contents
 
+- [Recently added](#recent)
 - [Video prompts](#video) (343 entries)
   - [Wan 3.0](#wan30) (18)
   - [MiniMax H3](#minimaxh3) (80)
@@ -45,6 +46,22 @@
 - [3D with agents](#threed)
 - [Browse by tag](#tags)
 - [Contributing](#contributing)
+
+<a id="recent"></a>
+## Recently added
+
+- 2026-10-28 · [Phone clip at brunch, sister steals a bite of pancake](#kling4-ugc-brunch-pancake-thief) · Kling 4.0
+- 2026-10-28 · [Fake gameplay of a 5v5 tactical shooter](#kling4-tactical-shooter-gameplay) · Kling 4.0
+- 2026-10-28 · [A perfume bottle drives a loop ramp and blasts off](#kling4-perfume-bottle-loop-ramp) · Kling 4.0
+- 2026-10-28 · [A blacksmith turns iron blocks into a greatsword, first frame to last](#kling4-blacksmith-forges-greatsword) · Kling 4.0
+- 2026-10-28 · [Remake a car spot with your car and your backdrop](#kling4-car-ad-from-reference-video) · Kling 4.0
+- 2026-10-28 · [Felt and clay forest class: a cloud teacher counts to four](#kling4-clay-cloud-teacher-counting) · Kling 4.0
+- 2026-10-28 · [Clay astronaut dog chases a bus-sized cheese mouse, from a storyboard](pages/en/video-kling40.md#kling4-clay-dog-moon-cheese-storyboard) · Kling 4.0
+- 2026-10-28 · [Dragon launches from a peak and burns a coastal city, six shots in 30s](pages/en/video-kling40.md#kling4-dragon-attacks-coastal-city) · Kling 4.0
+- 2026-10-28 · [Edit a clip: the corgi in the snow becomes a blocky voxel corgi](pages/en/video-kling40.md#kling4-edit-corgi-to-voxel-corgi) · Kling 4.0
+- 2026-10-28 · [Edit a clip: turn the whole video into felt](pages/en/video-kling40.md#kling4-edit-felt-style-transfer) · Kling 4.0
+- 2026-10-28 · [Edit a clip: put a sleeping pig in the box and change the last line](pages/en/video-kling40.md#kling4-edit-pig-in-the-box-new-line) · Kling 4.0
+- 2026-10-28 · [Edit a clip: recast three people walking out of a shop](pages/en/video-kling40.md#kling4-edit-recast-three-shop-workers) · Kling 4.0
 
 <a id="video"></a>
 ## Video prompts

@@ -18,6 +18,7 @@
 
 ## 目录
 
+- [最近新增](#recent)
 - [视频提示词](#video) (343 条)
   - [Wan 3.0](#wan30) (18)
   - [MiniMax H3](#minimaxh3) (80)
@@ -45,6 +46,22 @@
 - [用 Agent 做 3D](#threed)
 - [按标签浏览](#tags)
 - [投稿](#contributing)
+
+<a id="recent"></a>
+## 最近新增
+
+- 2026-10-28 · [早午餐手机视频，妹妹偷吃一口松饼](#kling4-ugc-brunch-pancake-thief) · Kling 4.0
+- 2026-10-28 · [以假乱真的 5v5 战术射击游戏实录](#kling4-tactical-shooter-gameplay) · Kling 4.0
+- 2026-10-28 · [香水瓶冲上环形坡道再喷射升空](#kling4-perfume-bottle-loop-ramp) · Kling 4.0
+- 2026-10-28 · [铁匠把铁块打成巨剑，从首帧到尾帧](#kling4-blacksmith-forges-greatsword) · Kling 4.0
+- 2026-10-28 · [照一支汽车短片的运镜，换成自己的车和背景](#kling4-car-ad-from-reference-video) · Kling 4.0
+- 2026-10-28 · [毛毡黏土森林课堂，云朵老师教数 1 到 4](#kling4-clay-cloud-teacher-counting) · Kling 4.0
+- 2026-10-28 · [黏土宇航狗追巴士大的奶酪老鼠，照分镜稿拍](pages/zh/video-kling40.md#kling4-clay-dog-moon-cheese-storyboard) · Kling 4.0
+- 2026-10-28 · [巨龙从山巅起飞火烧海港城，30 秒六个镜头](pages/zh/video-kling40.md#kling4-dragon-attacks-coastal-city) · Kling 4.0
+- 2026-10-28 · [改视频：雪地里的柯基变成方块像素柯基](pages/zh/video-kling40.md#kling4-edit-corgi-to-voxel-corgi) · Kling 4.0
+- 2026-10-28 · [改视频：整段转成毛毡风格](pages/zh/video-kling40.md#kling4-edit-felt-style-transfer) · Kling 4.0
+- 2026-10-28 · [改视频：箱子里加一只睡着的猪，顺便改最后一句台词](pages/zh/video-kling40.md#kling4-edit-pig-in-the-box-new-line) · Kling 4.0
+- 2026-10-28 · [改视频：给走出便利店的三个人换演员](pages/zh/video-kling40.md#kling4-edit-recast-three-shop-workers) · Kling 4.0
 
 <a id="video"></a>
 ## 视频提示词

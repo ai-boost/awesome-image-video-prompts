@@ -5,6 +5,8 @@ Run from the repository root:  python scripts/build.py
 import glob
 import os
 import re
+import subprocess
+from datetime import datetime
 
 import yaml
 
@@ -26,6 +28,7 @@ CATEGORIES = {
 }
 # The README shows the most-liked TOP entries of each section; pages/<lang>/ holds every entry of every section.
 TOP = 6
+RECENT = 12  # newest entries listed near the top of the README
 PAGE_BYTES = 350_000
 SHOWCASE = ["seedance-seoul-subway-revenge", "wan-time-space-train", "h3-starship-hyperspace-jump", "omni-four-style-progression",
             "kling-moonlit-garden-run", "veo-off-road-rally"]
@@ -40,6 +43,7 @@ T = {
         "gallery": 'Search, filter and copy in the <a href="https://agentcraft.dev/en/prompts/">online gallery</a>',
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
         "contents": "Contents",
+        "recent": "Recently added",
         "video": "Video prompts",
         "video_intro": "Every prompt below is quoted verbatim from its source: the model maker's own guide or model card, or a creator's post on X with the video attached. "
                        "Click a thumbnail to watch the original with sound. Sections follow the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video) ranking; "
@@ -91,6 +95,7 @@ T = {
         "gallery": '在<a href="https://agentcraft.dev/zh/prompts/">在线画廊</a>里搜索、筛选、一键复制',
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
+        "recent": "最近新增",
         "video": "视频提示词",
         "video_intro": "下面每条提示词都原样摘自出处：模型厂商自己的指南或模型卡，或创作者在 X 上附带成片发布的帖子。"
                        "点缩略图看带声音的原片。分组顺序按 [Artificial Analysis 视频榜](https://artificialanalysis.ai/video/leaderboard/text-to-video)排名，"
@@ -146,6 +151,18 @@ MODE_NAMES = {
            "video-edit": "视频编辑", "extend": "续写",
            "text-to-image": "文生图", "image-edit": "上传图改图"},
 }
+
+
+def added_dates():
+    """When each prompt file first entered git (ISO time); files not committed yet count as now."""
+    log = subprocess.run(["git", "log", "--diff-filter=A", "--format=%x00%cI", "--name-only", "--", "prompts/"],
+                         capture_output=True, text=True).stdout
+    dates = {}
+    for block in log.split("\0")[1:]:
+        day, *files = block.strip().splitlines()
+        for f in files:
+            dates.setdefault(os.path.basename(f)[:-5], day)  # log runs newest first; keep the latest add
+    return dates
 
 
 def load(pattern):
@@ -238,6 +255,7 @@ def build(lang, videos, images, recipes):
         '<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>', "",
         "".join(f'<a href="{loc[i]}"><img src="previews/{i}.gif" height="150"></a> ' for i in SHOWCASE if i in loc),
         "", "</div>", "", f'> {t["formerly"]}', "", f'## {t["contents"]}', "",
+        f'- [{t["recent"]}](#recent)',
         f'- [{t["video"]}](#video) ({len(videos)} {t["items"]})',
     ]
     out += [f'  - [{m}](#{anchor(m)}) ({len(by_model[m])})' for m in MODELS if by_model[m]]
@@ -246,6 +264,11 @@ def build(lang, videos, images, recipes):
     out += [f'- [{t["recipes"]}](#recipes) ({len(recipes)} {t["items"]})',
             f'- [{t["guides"]}](#guides)', f'- [{t["threed"]}](#threed)',
             f'- [{t["tags"]}](#tags)', f'- [{t["contrib"]}](#contributing)', ""]
+
+    now = datetime.now().astimezone().isoformat(timespec="seconds")
+    newest = sorted(videos + images, key=lambda e: (ADDED.get(e["id"], now), e["source"].get("likes", 0)), reverse=True)[:RECENT]
+    out += ['<a id="recent"></a>', f'## {t["recent"]}', ""]
+    out += [f'- {ADDED.get(e["id"], now)[:10]} · [{e["title"][lang]}]({loc[e["id"]]}) · {e["model"]}' for e in newest] + [""]
 
     for key, anc, title, es in sections:
         if key == sections[0][0]:
@@ -291,6 +314,7 @@ def build(lang, videos, images, recipes):
 
 
 if __name__ == "__main__":
+    ADDED = added_dates()
     videos = load("prompts/video/*.yaml")
     images = load("prompts/image/*.yaml")
     recipes = load("recipes/*.yaml")
