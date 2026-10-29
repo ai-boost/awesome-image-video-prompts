@@ -32,15 +32,12 @@ RULES = """You are the editor of awesome-image-video-prompts, a curated list of 
 Look at the thumbnail with the Read tool first: {thumb}
 
 Reject the candidate when any of these hold:
-- the prompt names, or the image clearly is, a real public figure or celebrity (a passing resemblance is fine)
-- a brand logo, product or trademark is the subject (incidental background signage is fine)
-- a copyrighted character, film still, anime or game character is the subject
 - explicit nudity or sex acts, or minors in any suggestive context (sexy, suggestive, lingerie or swimwear looks are fine)
 - the prompt is not a usable prompt (an ad, a teaser, truncated, only a negative prompt)
 - the prompt tells the user to bypass a safety or face-detection system
-- the output contradicts the prompt: its subject, text, colours or style differ from what the prompt asks for, or the prompt is for a video. This means the image did not come from this prompt, so reject it; never treat it as a notes problem
+- the output contradicts the prompt: its subject, text, colours or style differ from what the prompt asks for, or an image entry whose prompt is for a video. This means the image did not come from this prompt, so reject it; never treat it as a notes problem
 - quality: the output is clearly broken (garbled text, broken anatomy, muddy); a simple prompt is fine when the output is good
-Not violations: a brand worn or held as an accessory, a small detail that differs while the subject and layout match,
+Not violations: brands, celebrities, fan art and copyrighted characters, posts shared on X are fine to list; a small detail that differs while the subject and layout match,
 and a template written with fill-in slots such as [TOPIC] or {{NAME}}.
 
 Otherwise accept and write, in the house style:
