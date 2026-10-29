@@ -1,0 +1,25 @@
+id: gpt-image-risograph-rainy-bus-stop-illustration
+title:
+  en: Risograph illustration of woman at rainy bus stop
+  zh: 孔版印刷风格的雨中公交站少女插画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- risograph
+- minimal
+- pastel
+- print-texture
+- negative-space
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2051493607916589106
+  credit: simeon-sanai
+  likes: 806
+  captured: '2026-10-28'
+  posted: '2026-05-05'
+notes:
+  en: 'The prompt names only the print traits: bold outlines, misaligned ink layers, paper grain and a two or three color limit. It asks for generous negative space and minimal props, so the model builds a calm, sparse scene.'
+  zh: 提示词只描述印刷特征：粗轮廓线、错位的油墨层、纸张颗粒，并限定两到三种颜色。再要求大面积留白和极简道具，模型便生成安静而克制的画面。
+prompt: |
+  A crisp, printmaking-like aesthetic with bold outlines and natural deformation. Pastel color palette, vintage print texture, slightly misaligned ink layers, and rough paper grain. A calm poster composition with generous negative space rather than filling the frame. Props and background kept minimal. Color theme 2–3 colors.

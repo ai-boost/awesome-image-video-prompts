@@ -1,0 +1,25 @@
+id: gpt-image-jewelry-necklace-miniature-city-poster
+title:
+  en: Giant ruby necklace with miniature city poster
+  zh: 红宝石项链微缩城市广告海报
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- jewelry
+- miniature-world
+- luxury-ad
+- monochrome
+- typography
+source:
+  name: '@Umar__786Ai on X'
+  url: https://x.com/Umar__786Ai/status/2055664244138349055
+  credit: Umar__786Ai
+  captured: '2026-10-28'
+  posted: '2026-05-16'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A monumental object is scaled up as architecture, with a listed set of tiny city elements (highways, bridges, drones, figures) built around it. A single crimson monochrome palette with gold accents, tilt shift depth of field and a quoted headline at the top keeps it reading as a luxury ad.
+  zh: 把珠宝放大成建筑地标，再列出高速路、桥梁、无人机、小人等微缩城市元素围绕它。深红单色配金色点缀，加移轴景深和顶部引号标题文字，整体保持高端广告质感。
+prompt: |
+  Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.

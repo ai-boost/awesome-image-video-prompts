@@ -1,0 +1,31 @@
+id: gpt-image-map-road-miniature-rome-scooter
+title:
+  en: Scooter riding off a map into Rome
+  zh: 骑踏板摩托从地图驶入罗马
+model: GPT Image 2
+mode: text-to-image
+category: map
+tags:
+- tilt-shift
+- city-map
+- miniature
+- travel-poster
+- golden-hour
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2062358269172101240
+  credit: SimplyAnnisa
+  captured: '2026-10-28'
+  posted: '2026-06-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Bracketed CITY NAME and VEHICLE NAME slots make the prompt reusable for any city. A road that emerges from the printed map, a foreground vehicle as focal point and tilt shift golden hour lighting blend the flat map with the real skyline.
+  zh: 用方括号的城市名和载具名做成可替换模板，换城市即可复用。道路从印刷地图中延伸而出，前景载具作为视觉焦点，再配移轴和黄金时段光线，让平面地图与真实天际线自然衔接。
+prompt: |
+  Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
+
+  Blend the real city seamlessly with the illustrated map surface so the road appears integrated into the map itself. Include recognizable local landmarks, waterways, architecture, vegetation, and atmosphere associated with [CITY NAME], but keep the composition clean and uncluttered.
+
+  Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama.
+
+  Aspect ratio 1:1.

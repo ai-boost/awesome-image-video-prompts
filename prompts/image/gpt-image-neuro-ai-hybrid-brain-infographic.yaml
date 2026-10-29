@@ -1,0 +1,56 @@
+id: gpt-image-neuro-ai-hybrid-brain-infographic
+title:
+  en: Neuro-AI hybrid brain system handbook infographic
+  zh: 神经科学与AI混合系统手册信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- neuroscience
+- dark-theme
+- modular-panels
+- square
+source:
+  name: '@YaZoraiz on X'
+  url: https://x.com/YaZoraiz/status/2052968427514708371
+  credit: YaZoraiz
+  captured: '2026-10-28'
+  posted: '2026-05-09'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A fixed palette and a dark square layout anchor one central hero render, and named callouts plus a list of modules fill the surrounding panels. Naming the style as a neuroscience and AI engineering manual keeps the typography and panel structure consistent.
+  zh: 固定配色和深色方形版式把视觉重心放在中央主体渲染上，再用点名的标注和模块清单填满周围面板。把风格定为神经科学与AI工程手册，让字体和面板结构保持统一。
+prompt: |
+  Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page.
+
+  Visual Direction:
+  • 1:1 composition
+  • dark neutral background with glowing neural network overlays
+  • palette: electric blue, violet, soft white, silver
+  • elegant scientific typography and modular panels
+  • central ultra-detailed human brain + AI circuit fusion render
+
+  Main Subject:
+  A realistic human brain merging with AI neural networks and digital circuitry.
+
+  Include callouts:
+  • memory encoding system
+  • AI augmentation layer
+  • cognitive signal pathways
+  • emotional response mapping
+  • sensory integration nodes
+  • neural data transfer system
+  • learning adaptation loops
+
+  Modules:
+  • Brain Function Overview
+  • AI Enhancement Layers
+  • Signal Flow Diagram
+  • Cognitive Performance Metrics
+  • Human vs AI Comparison Chart
+  • Neural Safety Protocols
+  • Future Evolution Path
+
+  Style:
+  “neuroscience + AI engineering manual”, “high-end cognitive systems diagram”

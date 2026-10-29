@@ -1,0 +1,26 @@
+id: gpt-image-three-reference-amber-shampoo-bottle-ad
+title:
+  en: Amber shampoo bottle ad with leaf shadows
+  zh: 琥珀色洗发露瓶广告配叶影
+model: GPT Image 2.5
+mode: image-edit
+category: product
+tags:
+- product-ad
+- multi-reference
+- negative-space
+- packaging
+- label-accuracy
+source:
+  name: '@jackzhang123vip on X'
+  url: https://x.com/jackzhang123vip/status/2098414576031481953
+  credit: jackzhang123vip
+  captured: '2026-10-28'
+  posted: '2026-09-11'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: 'Each reference gets one narrow job: product identity, mood, or layout. An explicit conflict priority order and a list of what must not be copied keep the label text accurate and the right side empty for copy.'
+  zh: 三张参考图各管一件事：产品本身、氛围、版式，并写明冲突时的优先级和不可复制的内容。这样标签文字保持准确，右侧留白也得以保留。
+prompt: |
+  Image 1 is the primary reference for the product itself; Image 2 provides only the color, lighting, tonal values, and overall atmosphere; Image 3 provides only the composition, product placement, visual proportions, and negative space structure. Conflict priority: Product authenticity and label accuracy from Image 1 > Layout structure from Image 3 > Color and lighting from Image 2. Create a 1024×1536 vertical commercial product advertisement. Use the exact shampoo bottle from Image 1, placing it fully on the left side of the frame, while reserving a large, clean, and uniform area of ​​negative space for copy on the right, as shown in Image 3. Apply the atmosphere from Image 2—featuring soft warm light entering from the top-left, low-saturation creamy tones, pale apricot hues, and grey-green accents—but do not replicate the objects found in Image 2. Fully preserve the product's shape, proportions, amber glass, ivory-white pump structure, label size and placement, leaf graphic, and the two lines of accurate text ("“山野洗发露”" and "“净含量 300毫升”"). The text must be clear, in the correct order, and appear only on the product label. Do not redesign, recolor, distort, crop, duplicate, or alter the product. Only physically accurate reflections and natural contact shadows may be added to integrate the product into the environment. The product must be fully visible with safe margins around it; no text may be generated on the right side. Do not replicate the spheres, glass cubes, fabric, cylinders, products, text, logos, or branding elements from Image 2 or Image 3.
+  Do not add copy, placeholder text, English text, garbled characters, QR codes, watermarks, extra packaging, props, people, or a second product.

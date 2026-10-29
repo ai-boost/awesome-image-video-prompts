@@ -1,0 +1,25 @@
+id: gpt-image-poster-redesign-male-perspective-lyric
+title:
+  en: Anime schoolboy with bouquet on blue lyric poster
+  zh: 蓝色歌词海报中手捧花束的动漫男生
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- poster-redesign
+- reference-edit
+- text-replacement
+- anime
+- typography
+source:
+  name: '@ponzponz15 on X'
+  url: https://x.com/ponzponz15/status/2097513870969688188
+  credit: ponzponz15
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: Anchors the edit to the original poster by asking to retain its composition and visual world, so the layout stays fixed while the concept changes. Asking for all visible text to be replaced with new copy forces the model to rewrite headlines, labels and captions to match the new perspective.
+  zh: 先要求保留原海报的构图和视觉世界,让版式不变而概念改变。再要求把所有可见文字换成新文案,模型会按新视角重写标题、标签和说明文字。
+prompt: |
+  Using the original poster as reference, retain its overall composition and visual world. Reinterpret it from a male perspective and replace all visible text with new copy that fits the revised concept.

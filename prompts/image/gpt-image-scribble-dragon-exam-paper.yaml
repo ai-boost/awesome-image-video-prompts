@@ -1,0 +1,86 @@
+id: gpt-image-scribble-dragon-exam-paper
+title:
+  en: Scribble dragon drawn over an exam paper
+  zh: 试卷上的涂鸦巨龙
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- scribble-art
+- ballpoint-pen
+- dragon
+- exam-paper
+- bioluminescent
+source:
+  name: '@GeekCatX on X'
+  url: https://x.com/GeekCatX/status/2046539797578330152
+  credit: GeekCatX
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Dense ballpoint scribble linework is layered over a real printed exam page so the text shows through. Bioluminescent accents are limited to the eyes and veins, and a tiny human silhouette sets the scale.
+  zh: 密集的圆珠笔涂鸦线条叠在真实试卷页面上，印刷文字透出纸面。生物发光只用在眼睛和血管等关键处，并用微小人影来衬托尺度。
+prompt: |
+  [中文]
+  一个巨大的巨龙，庞大的规模，高耸的存在感，
+  一个远超人类尺寸的巨大实体，压倒性和压迫性的，
+  用极其密集的混乱涂鸦线条绘制，
+  超密集的重叠笔触，纠缠和混乱的线条画，
+  在真实的印刷英文/中文教科书或试卷页面上，
+  可见的文本、布局和纸张纹理清晰透出，
+  圆珠笔绘画风格，精细的墨水线条，杂乱的分层笔触，
+  没有干净的轮廓，一切由混乱的涂鸦构成，
+  黑暗和柔和的底色（黑色，深靛蓝，暗紫罗兰色），
+  带有微妙的低饱和度霓虹点缀（蓝色，青色，紫色），
+  仅在关键区域（眼睛，核心，裂缝，静脉）有选择性的生物发光，
+  不是整体的亮度，
+  取决于主体的有机或机械纹理，
+  错综复杂的细节，复杂的表面图案，
+  形态从混乱中浮现，
+  高密度中心，边缘消融为松散的涂鸦，
+  主体附近微小的人类剪影强调了尺度感，
+  半透明层，由线条密度产生的深度，
+  原始的，不完美的，嘈杂的，充满活力的手绘感，
+  略带诡异，超现实，神秘的氛围，
+  混合媒体插画，涂鸦艺术，
+  极其详细，黑暗团块和发光点缀之间的高对比度，
+  杰作，极其详细
+
+  [English]
+  A colossal [SUBJECT], massive scale, towering presence,
+  a gigantic entity far beyond human size, overwhelming and oppressive,
+
+  drawn with extremely dense chaotic scribble lines,
+  ultra-dense overlapping pen strokes, tangled and chaotic linework,
+
+  on top of a real printed English/Chinese textbook or exam paper page,
+  visible text, layout, and paper texture clearly showing through,
+
+  ballpoint pen drawing style, fine ink lines, messy layered strokes,
+  no clean outlines, everything constructed from chaotic scribbles,
+
+  dark and muted base tones (black, deep indigo, dark violet),
+  with subtle low-saturation neon accents (blue, cyan, purple),
+
+  selective bioluminescent glow only in key areas (eyes, core, cracks, veins),
+  not overall brightness,
+
+  organic or mechanical textures depending on subject,
+  intricate details, complex surface patterns,
+
+  form emerging from chaos,
+  high-density center, edges dissolving into loose scribbles,
+
+  sense of scale emphasized by tiny human silhouette near the subject,
+
+  semi-transparent layers, depth created by line density,
+  raw, imperfect, noisy, energetic hand-drawn feeling,
+
+  slightly eerie, surreal, mysterious atmosphere,
+  mixed media illustration, scribble art,
+
+  extremely detailed, high contrast between dark mass and glowing accents,
+  masterpiece, ultra detailed
+
+  主体：巨龙

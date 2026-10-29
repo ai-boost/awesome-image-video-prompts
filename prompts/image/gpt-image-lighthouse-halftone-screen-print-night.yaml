@@ -1,0 +1,31 @@
+id: gpt-image-lighthouse-halftone-screen-print-night
+title:
+  en: Colorful lighthouse in 1970s halftone screen print
+  zh: 1970年代网点丝网印刷风格的彩色灯塔
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- screen-print
+- halftone
+- lighthouse
+- retro
+- model-comparison
+source:
+  name: '@hakmgpt on X'
+  url: https://x.com/hakmgpt/status/2107535382183387282
+  credit: Hakm
+  likes: 148
+  captured: '2026-10-28'
+  posted: '2026-10-06'
+notes:
+  en: Names the print process outright with halftone dots, paper texture and imperfect ink registration. It also caps the palette at retro CMYK and describes the beam as one huge curved arc, which gives a strong focal shape.
+  zh: 直接点明印刷工艺：网点、纸张肌理和套印偏差。同时把色板限定为复古CMYK，并把光束写成一道巨大的弧线，画面焦点很明确。
+prompt: |
+  image models comparssion
+  Nano banana 2.1
+  GPT-image 2.5
+  Muse-image
+  Qwen-image 2.1
+
+  Prompt : A spectacular vintage screen-print illustration of a tall colorful lighthouse standing alone on a dark rocky island in a vast nighttime ocean. The lighthouse has geometric blocks of cream, hot pink, yellow and cobalt blue, with a dark blue roof. Its powerful yellow beam sweeps across the sky in a huge curved arc. Deep blue ocean with stylized white waves fills the bottom of the image. Dense halftone dots cover every surface, with rough paper texture and imperfect ink registration. Limited retro CMYK palette, flat graphic shapes, 1970s children's storybook screen-print aesthetic, mysterious and magical atmosphere, no text, 16:9.

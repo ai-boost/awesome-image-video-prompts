@@ -1,0 +1,25 @@
+id: gpt-image-pastel-storybook-photo-to-illustration-girl-bubble-tea
+title:
+  en: Storybook pastel illustration of girl with bubble tea
+  zh: 喝珍珠奶茶女孩的绘本粉彩插画
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- photo-to-illustration
+- storybook
+- pastel
+- watercolor
+- children-illustration
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2056369924399124937
+  credit: Emma
+  likes: 818
+  captured: '2026-10-28'
+  posted: '2026-05-18'
+notes:
+  en: 'Converts a photo with a stacked style vocabulary: elongated shapes, thin imperfect lines, flat pastels, paper texture and watercolor softness. A closing list of things to avoid, such as photorealism, 3D and glossy surfaces, keeps the output flat and naive.'
+  zh: 把照片转成插画，用一串风格词叠加：拉长的形体、纤细不规则线条、平涂粉彩、纸张纹理和水彩柔感。结尾列出要避免的内容，如写实、3D和光泽表面，让画面保持扁平稚拙。
+prompt: |
+  Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles.Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.

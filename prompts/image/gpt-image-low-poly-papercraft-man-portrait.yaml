@@ -1,0 +1,25 @@
+id: gpt-image-low-poly-papercraft-man-portrait
+title:
+  en: Low poly origami paper sculpture portrait of a man
+  zh: 低多边形折纸风男士肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- papercraft
+- low-poly
+- origami
+- portrait
+- studio
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2056953102755115162
+  credit: iamsofiaijaz
+  captured: '2026-10-28'
+  posted: '2026-05-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt names the material and the shape language together, with faceted angular planes, layered paper depth and realistic paper texture. It also fixes colors for hair, shirt and glasses and uses a clean white studio background with soft light.
+  zh: 提示词同时写明材质与造型语言：棱角分明的多边形面、层叠纸张纵深和真实纸张质感。头发、衬衫和墨镜的颜色都有指定，再配干净的白色影棚背景与柔和光线。
+prompt: |
+  Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.

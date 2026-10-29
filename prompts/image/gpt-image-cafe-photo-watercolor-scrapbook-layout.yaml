@@ -1,0 +1,57 @@
+id: gpt-image-cafe-photo-watercolor-scrapbook-layout
+title:
+  en: Cafe Photo Turned Into Watercolor Scrapbook Layout
+  zh: 咖啡馆照片变成水彩手账排版
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- scrapbook
+- watercolor
+- cafe
+- editorial
+- face-reference
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2102368459388801390
+  credit: Mahnoor Fatima
+  likes: 240
+  captured: '2026-10-28'
+  posted: '2026-09-22'
+notes:
+  en: A strict identity lock on the face reference keeps the person consistent, while separate reference images carry only the outfit, pose and mood. The layout is specified as a list of paper, watercolor edge, cutout and caption area details, which gives the scrapbook finish with plenty of negative space.
+  zh: 用严格的面部身份锁定只让人脸参考控制人物，其余参考图只提供服装、姿势和氛围。版式用清单逐条写明纸张、水彩边缘、剪裁感和文字区，得到留白充足的手账成品。
+prompt: |
+  Use the uploaded face reference image ONLY as the identity reference for the woman.
+
+  STRICT FACE IDENTITY LOCK:
+  Preserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person.
+
+  Use the provided reference images as visual inspiration for the overall composition, photography style, outfit, pose, environment, color palette, and aesthetic, but do NOT copy their facial identity.
+
+  Create a photorealistic lifestyle editorial photograph with a soft Japanese/Korean-inspired café and everyday-luxury aesthetic.
+
+  The woman is naturally enjoying a quiet café moment with coffee and dessert. Elegant understated styling, soft neutral tones, natural daylight, subtle film grain, warm muted colors, realistic skin texture, delicate details, candid editorial photography.
+
+  Outfit should be feminine and sophisticated with a minimalist vintage-inspired feel. Add tasteful accessories such as a small structured handbag, delicate jewelry, and elegant shoes where appropriate.
+
+  Composition should feel like a genuine lifestyle photograph rather than an AI-generated portrait. Natural body proportions, realistic hands and fingers, authentic fabric texture, realistic lighting and shadows.
+
+  Create the final image as a refined editorial scrapbook-style photograph:
+  - warm ivory/beige paper-inspired background
+  - softly isolated central subject
+  - subtle hand-painted/watercolor edges around the photograph
+  - slightly imperfect organic cutout effect
+  - delicate vintage paper texture
+  - minimal elegant typography area underneath
+  - calm nostalgic mood
+  - sophisticated feminine aesthetic
+  - lots of clean negative space
+
+  IMPORTANT:
+  The face reference controls ONLY the woman's identity.
+  The scene/reference images control the visual concept.
+  Do not merge or copy another person's face.
+  Keep the woman's identity consistent and recognizable throughout the entire image.
+
+  High-resolution photography, natural lighting, realistic skin texture, detailed clothing, realistic hands, authentic shadows, premium editorial composition, subtle analog film texture, soft focus falloff, photorealistic.

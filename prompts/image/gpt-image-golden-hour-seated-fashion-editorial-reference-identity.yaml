@@ -1,0 +1,37 @@
+id: gpt-image-golden-hour-seated-fashion-editorial-reference-identity
+title:
+  en: Seated luxury fashion editorial in golden hour studio
+  zh: 金色光线影棚中的坐姿奢华时尚大片
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- fashion-editorial
+- identity-reference
+- golden-hour
+- studio-portrait
+- negative-prompt
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2109637018900951298
+  credit: Meem
+  likes: 54
+  captured: '2026-10-28'
+  posted: '2026-10-12'
+notes:
+  en: Locks identity to an uploaded reference by naming the face traits to preserve, then splits outfit, pose and setting into labeled blocks. It closes with lens and grading cues plus a long negative list that guards against altered faces and broken hands.
+  zh: 先列出需要保留的面部特征来锁定参考图身份，再把服装、姿势和场景拆成带标签的独立段落。结尾补充镜头与调色关键词，并用较长的负面清单防止换脸和手部变形。
+prompt: |
+  Create one ultra-realistic luxury fashion editorial photograph using the uploaded reference girl as the exact identity reference. Preserve her original face, green eyes, freckles, nose, lips, natural skin texture, and long, voluminous dark-brown hair. Do not alter her identity.
+
+  Outfit: A fitted deep-burgundy off-shoulder knit top, a chocolate-brown leather jacket draped over her shoulders, a flowing charcoal maxi skirt with a subtle satin sheen, cream leg warmers, chunky cream-and-brown sneakers, and a structured dark-brown shoulder bag with elegant gold hardware. Sophisticated, feminine, contemporary styling with rich textures.
+
+  Pose: She sits confidently on the studio floor, one knee raised naturally and the other leg folded comfortably beneath the flowing skirt. One hand gently touches her cheek while the other rests beside her. Her head tilts slightly as she gives the camera a bold, captivating gaze.
+
+  Setting: A warm ivory studio wall, soft golden-hour sunlight, delicate diagonal shadows, champagne highlights, and a refined luxury fashion-magazine atmosphere.
+
+  Professional DSLR photography, 85mm portrait lens, realistic anatomy, natural skin pores, detailed knitwear and leather, authentic fabric folds, soft depth of field, and premium editorial color grading.
+
+  Negative prompt: Altered identity, different face, plastic skin, excessive retouching, incorrect outfit, distorted hands, extra fingers, twisted legs, broken joints, floating feet, unnatural proportions, CGI, cartoon, blur, text, logos, or watermarks.
+
+  Output: One individual high-resolution, photorealistic fashion photograph with natural anatomy and impeccable styling.

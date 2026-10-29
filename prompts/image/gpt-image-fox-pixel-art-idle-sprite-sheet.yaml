@@ -1,0 +1,40 @@
+id: gpt-image-fox-pixel-art-idle-sprite-sheet
+title:
+  en: Pixel art fox idle animation sprite sheet
+  zh: 像素风小狐狸待机动画精灵图
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- pixel-art
+- sprite-sheet
+- animation
+- game-asset
+- fox
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2097849478506320056
+  credit: Higgsfield AI 🧩
+  likes: 75
+  captured: '2026-10-28'
+  posted: '2026-09-10'
+notes:
+  en: The prompt fixes character design, palette and art direction first, then specifies a frame by frame blink schedule. It also gives exact grid, cell size and padding rules so all 16 sprites stay aligned.
+  zh: 提示词先锁定角色设定、配色和美术风格,再逐帧写明眨眼节奏,并给出网格、单元格尺寸和留白的精确数值,让16个精灵保持对齐。
+prompt: |
+  "Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.
+
+  CHARACTER DESIGN
+  Noxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber eyes, a tiny dark nose, and one large fluffy tail with a midnight-blue tip. Animal face and paws, cute chibi proportions, an oversized head and a compact little body.
+  She wears a short midnight-indigo cape with a scalloped hem, a golden crescent clasp, and a few embroidered stars. A small teal satchel hangs at her hip. In her right paw she holds a short brass staff topped with a crescent moon enclosing a tiny warm-yellow star. Her expression is curious, slightly mischievous, and lovable.
+
+  ART DIRECTION
+  Premium hand-crafted pixel art for a cozy fantasy RPG. Clearly visible square pixels, precise dark-purple outlines, controlled clusters of color, and restrained highlights. Use ivory, indigo, lavender, teal, and warm gold. Front-facing full-body view with a readable silhouette. Keep the moonlight effect contained in crisp pixels. Avoid realistic fur, painted shading, soft gradients, blur, and 3D rendering.
+
+  MOTION
+  Show a single restrained idle cycle across 16 sequential frames. Her chest gently rises and settles; the tail tip and cape follow with a slight delay. Include one quick blink near the middle of the sequence: eyes open in frames 1-7, half closed in frame 8, closed in frame 9, half open in frame 10, open in frames 11-16. Her paws stay planted, and the staff remains firmly held. Maintain identical anatomy, costume details, proportions, and scale throughout. The final pose should flow naturally into the opening pose.
+
+  SHEET LAYOUT
+  One square 1024 x 1024 image divided into four rows and four columns of equally sized 256 x 256 cells. Read frames across each row, then continue below. Repeat the same centered placement and foot baseline in every cell. Every sprite fits entirely inside the central 208 x 208 area of its cell, leaving at least 24 pixels of empty padding on all sides. Show exactly 16 complete sprites without borders, captions, or extra characters. No sprite or accessory may touch any cell edge.
+
+  Use a transparent background with real alpha, without a painted checkerboard, scenery, ground plane, or cast shadows. Output the sprite sheet as one image."

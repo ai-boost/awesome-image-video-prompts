@@ -1,0 +1,29 @@
+id: gpt-image-gongbi-group-portrait-scroll
+title:
+  en: Gongbi long scroll of twelve classical beauties
+  zh: 工笔长卷十二位古典仕女群像
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- gongbi
+- chinese-painting
+- scroll
+- group-portrait
+- calligraphy
+source:
+  name: '@GeekCatX on X'
+  url: https://x.com/GeekCatX/status/2046559605074076112
+  credit: GeekCatX
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt sets a painter persona and a left to right queue composition, then specifies props, vertical nameplates, a calligraphy title and a Xuan paper ground. A bracketed subject slot lets the same layout be reused for any group.
+  zh: 提示词先设定画师人设和从左到右的队列构图，再规定道具、竖排名牌、书法标题和宣纸底色。方括号里的主题位可以替换，同一版式能复用于任何人物群像。
+prompt: |
+  [中文]
+  （国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
+
+  [English]
+  (Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].

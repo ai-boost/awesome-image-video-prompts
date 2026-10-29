@@ -1,0 +1,25 @@
+id: gpt-image-manhattan-park-watercolor-travel-illustration
+title:
+  en: Watercolor Manhattan Park Picnic Travel Illustration
+  zh: 曼哈顿公园野餐水彩旅行插画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- watercolor
+- travel-illustration
+- city-park
+- ink-and-wash
+- skyline
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2090307485374578755
+  credit: Taaruk_
+  captured: '2026-10-28'
+  posted: '2026-08-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Pairs ink outlines with imperfect watercolor washes on cream paper, and fixes a limited muted palette so the result reads as a travel journal. A foreground couple, mid-ground activity and a distant skyline build depth, and the no text clause keeps the page clean.
+  zh: 用墨线勾边配合不规则水彩晕染和奶油色纸张，并限定低饱和配色，呈现旅行手账质感。前景情侣、中景活动人群和远景天际线形成层次，禁止文字的约束让画面保持干净。
+prompt: |
+  Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.

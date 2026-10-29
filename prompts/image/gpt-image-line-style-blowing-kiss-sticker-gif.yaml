@@ -1,0 +1,28 @@
+id: gpt-image-line-style-blowing-kiss-sticker-gif
+title:
+  en: LINE style blowing kiss sticker animation frames
+  zh: LINE风格飞吻表情包动画帧
+model: GPT Image 2.5
+mode: image-edit
+category: comic
+tags:
+- sticker
+- gif-frames
+- grid
+- line-style
+- chinese-text
+source:
+  name: '@Gorden_Sun on X'
+  url: https://x.com/Gorden_Sun/status/2097508341992083824
+  credit: Gorden_Sun
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: Asks for a 4x4 grid of sequential frames that loop back to the first, with whitespace between panels and a solid white background so the frames crop cleanly. Fixed caption text on every frame and a rule to reuse only the figure from the reference keep the character consistent without copying the source.
+  zh: 要求生成4x4连续帧网格并首尾衔接成循环，格间留白且使用纯白背景，方便裁切成GIF。每帧固定配字，并规定只沿用参考图的人物形象，既保持角色一致又不照搬原图。
+prompt: |
+  Generate a set of individual frames for a cartoon-style (LINE sticker aesthetic) half-body GIF animation based on the character in the image; ensure the headwear and hairstyle are accurate.
+  Generate 16 small images arranged in a 4x4 grid. These 16 images should represent a continuous, sequential animation (“飞吻”) that forms a complete, seamless loop with fluid, realistic movement; the final frame should transition smoothly back to the first. Each of the 16 images must include the Chinese text (“爱你哦”) rendered in a font that complements the image style. Leave sufficient whitespace between the 16 images to facilitate later cropping, ensuring no image extends beyond its designated area. Do not copy the original image exactly; use only the figure from the image. Use a solid white background and do not draw dividing lines. Image aspect ratio: 1:1.
+
+  After generating the image, crop it into individual square panels—minimizing whitespace during cropping—and then compile them into an animated GIF.

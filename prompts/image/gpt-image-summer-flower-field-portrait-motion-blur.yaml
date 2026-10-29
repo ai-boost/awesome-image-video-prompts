@@ -1,0 +1,47 @@
+id: gpt-image-summer-flower-field-portrait-motion-blur
+title:
+  en: Woman lying in summer daisy field with motion blur
+  zh: 夏日花田仰卧人像与前景动态模糊
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- flower-field
+- summer
+- motion-blur
+- film-grain
+source:
+  name: '@lovimg_com on X'
+  url: https://x.com/lovimg_com/status/2077036746198618336
+  credit: lovimg_com
+  captured: '2026-10-28'
+  posted: '2026-07-14'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt is split into labeled sections for subject, expression, outfit, light, camera and texture. It keeps the face sharp and limits the diagonal motion blur to the foreground flowers, and it ends with a negative list that guards against plastic skin and broken limbs.
+  zh: 提示词按主体、表情、服装、光线、相机、质感分段标注。只让前景花朵产生对角线动态模糊并保持人脸清晰，结尾的负面清单用来防止塑料皮肤和肢体错误。
+prompt: |
+  主題：
+  花風のまどろみ
+
+  主体：
+  縦長4:5の写真風ポートレート。白と黄色のマーガレット、オレンジ色の小花が密に咲く夏の草花畑に、成熟した大人の女性が仰向けで静かに横たわっている。人物は画面下部から中央にかけて大きく入り、顔は中央やや右、胸元から肩までは画面下側に収まる。周囲の花が画面全体を埋め、対角線方向に流れる花のモーションブラーが前景を横切る。
+
+  人物・表情：
+  自然で現実感のある日系ポートレート。暗めのブラウンロングヘアに、薄い前髪と顔まわりのやわらかな毛束。目を閉じ、眉は力が抜け、唇は軽く閉じた穏やかな表情。頬と鼻先に自然な血色、肌には過度な補正をせず細かな質感を残す。首筋、鎖骨、頬に夏の日差しが当たり、静かに眠っているような落ち着いた雰囲気。
+
+  服装・ポーズ：
+  白い夏用キャミソールワンピース。細い肩紐、胸元の控えめなレース、中央の小さなリボン、薄手のコットン素材。人物の両肩は草花に自然に沈み、片腕は画面下側で花に隠れて見切れる。体は画面左下から右上へ少し斜めに置かれ、髪は草の上に広がり、風で数本だけ額にかかる。
+
+  背景・光：
+  郊外にある小さな花畑のような、生活感のある自然な草花の密度。背景はすべて緑の葉と白・黄色・オレンジの花で構成し、人工物や読める文字は入れない。高めの位置から差す夏の太陽光。光はやや硬めで暖かく、顔の左側と首筋、肩に明るいハイライトが入り、花と髪の影が肌に細く落ちる。草の反射で下側に淡い緑の返り光。
+
+  構図・カメラ：
+  やや俯瞰の近距離撮影。85mm相当の自然な圧縮感、人物の顔にピントを合わせ、周辺の花は浅い被写界深度で少しぼける。前景の花だけが風に流され、白・黄色・オレンジの細長い光跡として左上から右下へ走る。顔まわりはブラーを弱め、表情と肌の質感をはっきり見せる。
+
+  質感・スタイル：
+  リアルな写真表現。夏の日差し、透明感のある肌、柔らかな髪の束感、薄手コットンのしわ、草花の細密な質感。ナチュラルな色調で、緑を深く、白い花を明るく、オレンジの花をアクセントにする。フィルム写真のようなわずかな粒子感と、雑誌ポートレートの落ち着いた仕上がり。
+
+  ネガティブ：
+  不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、服と体の接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。

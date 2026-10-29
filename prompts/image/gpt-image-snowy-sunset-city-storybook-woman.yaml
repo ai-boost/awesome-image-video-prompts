@@ -1,0 +1,30 @@
+id: gpt-image-snowy-sunset-city-storybook-woman
+title:
+  en: Storybook woman in snowy sunset city
+  zh: 雪夜日落城市中的绘本女孩
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- storybook
+- winter
+- sunset
+- cartoon-woman
+- teal-orange
+source:
+  name: '@hey_am_cherry on X'
+  url: https://x.com/hey_am_cherry/status/2109865084071588211
+  credit: Cherry
+  likes: 110
+  captured: '2026-10-28'
+  posted: '2026-10-13'
+notes:
+  en: The prompt lists each garment with its color, then sets a cobalt sky against orange clouds for strong teal and orange contrast. A JSON layout with a negative prompt, aspect ratio and character placement keeps the full body composed.
+  zh: 提示词逐件写明服装与颜色，再用钴蓝天空对比橙色云层，形成青橙对比。JSON 结构配合反向提示词、画幅比例和人物位置，保证全身构图稳定。
+prompt: |
+  {
+    "prompt": "A beautiful 2D storybook illustration of a cute young cartoon woman standing in a snowy city at sunset, full body visible. She has big expressive brown eyes, rosy cheeks, dark brown windblown bob hair, a teal wide-brim hat, a vibrant mustard-yellow long coat, chunky teal knitted scarf flowing in the wind, navy trousers, burnt-orange boots, and a caramel leather handbag. Deep cobalt-blue snowy sky, glowing orange and golden sunset clouds, distant skyscrapers with warm illuminated windows, sparkling snowfall, a vintage glowing street lamp on the left, snow-covered railing, colorful river reflections. Rich vibrant colors, teal-orange contrast, magical cozy atmosphere, detailed painterly textures, soft cinematic lighting, adorable character design, sharp details, premium storybook art, 4K quality, vertical 9:16 composition, character slightly right of center.",
+    "negative_prompt": "photorealistic, 3D, dull colors, blurry face, cropped feet, extra fingers, deformed anatomy, text, watermark, logo",
+    "aspect_ratio": "9:16",
+    "quality": "high"
+  }

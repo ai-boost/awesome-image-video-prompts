@@ -1,0 +1,25 @@
+id: gpt-image-paper-craft-family-mount-fuji-pond
+title:
+  en: Paper craft family photo at Mount Fuji pond
+  zh: 富士山池塘边的纸艺全家福
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- paper-craft
+- photo-to-art
+- family-portrait
+- cute
+- landscape
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2052609040539328759
+  credit: oggii_0
+  captured: '2026-10-28'
+  posted: '2026-05-08'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Asks the model to simplify photo details into cut paper shapes, which gives layered flat forms with soft shadows. Permitting decorative extras such as birds, butterflies and flowers fills the frame while the original scene stays recognisable.
+  zh: 要求把照片细节简化成剪纸形状，得到带柔和阴影的分层平面造型。允许添加小鸟、蝴蝶和花朵等装饰，画面更饱满，同时保留原图场景。
+prompt: |
+  Recreate this image in a paper craft style, simplifying the details to make them suitable for paper craft artwork. Arrange the overall composition to feel visually pleasing, soft, and cute. You may add charming decorative elements such as birds, butterflies, flowers, etc., to enhance the adorable atmosphere while still matching the original image.

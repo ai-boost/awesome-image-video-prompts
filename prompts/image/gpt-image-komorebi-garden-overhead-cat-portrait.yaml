@@ -1,0 +1,25 @@
+id: gpt-image-komorebi-garden-overhead-cat-portrait
+title:
+  en: Overhead Garden Portrait With Orange Cat
+  zh: 木漏日庭院俯拍猫咪人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- top-down
+- komorebi
+- dappled-light
+- garden
+- cat
+source:
+  name: '@ohmuyi on X'
+  url: https://x.com/ohmuyi/status/2067930690977779942
+  credit: ohmuyi
+  captured: '2026-10-28'
+  posted: '2026-06-19'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A high angle top-down camera sets the framing. Dappled komorebi light spots, damp mist for visible light shafts and a soft hazy edge add depth. The expression arc from playful pout to a genuine smile with eye creases and skin texture detail keeps the face natural.
+  zh: 用高角度俯拍机位定下构图，再叠加木漏日光斑、潮湿薄雾形成的丁达尔光柱和柔化的画面边缘来增加层次。表情从俏皮噘嘴写到眼角带纹的真挚笑容，并点明皮肤纹理，让面部显得自然。
+prompt: |
+  俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。

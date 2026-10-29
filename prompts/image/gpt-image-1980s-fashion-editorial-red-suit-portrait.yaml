@@ -1,0 +1,33 @@
+id: gpt-image-1980s-fashion-editorial-red-suit-portrait
+title:
+  en: 1980s editorial portrait in a red suit
+  zh: 红色西装的八十年代时尚杂志人像
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- 1980s
+- fashion-editorial
+- film-grain
+- reference-image
+- vintage
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2098090489811746853
+  credit: Meem
+  likes: 74
+  captured: '2026-10-28'
+  posted: '2026-09-10'
+notes:
+  en: A reference photo locks the face while a detailed list of period outfit pieces and accessories sets the 80s look. Studio backdrop, warm analog light, film grain and lens softness give the magazine feel, and a closing list of negatives keeps modern elements out.
+  zh: 用参考图锁定面部身份，再逐项写出年代服装与配饰来定义八十年代造型。影棚背景、暖色模拟光、胶片颗粒和镜头柔化营造杂志质感，结尾的排除清单避免现代元素混入。
+prompt: |
+  Create a vertical, ultra-photorealistic portrait of the same clearly adult woman from the reference image, preserving her facial identity, facial structure, skin tone, hair characteristics, and overall appearance.
+
+  Give her an authentic 1980s fashion-editorial look with a confident, effortless attitude. She is posing confidently with relaxed shoulders, strong posture, and a subtle self-assured expression, looking directly toward the camera. Her pose should feel natural and charismatic rather than overly staged.
+
+  Style her in an elegant vintage 80s outfit: a sophisticated fitted top or blouse with tasteful coverage, high-waisted trousers or a classic high-waisted skirt, subtle shoulder structure, and period-accurate accessories such as small statement earrings, a delicate necklace, and a vintage wristwatch. Use rich but tasteful 1980s colors and textures.
+
+  Set the scene in a classic 1980s studio fashion environment, with a softly textured backdrop, warm analog lighting, gentle film grain, subtle lens softness, and authentic vintage color rendering. The overall aesthetic should resemble a high-end fashion photograph from an 80s magazine—glamorous, confident, sophisticated, and nostalgic.
+
+  Natural skin texture, realistic fabric detail, authentic proportions, realistic hands, cinematic lighting, 35mm film photography aesthetic, subtle grain, soft highlights, shallow depth of field, no modern objects, no contemporary styling, no text or watermark.

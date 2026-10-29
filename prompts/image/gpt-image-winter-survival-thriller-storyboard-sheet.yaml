@@ -1,0 +1,193 @@
+id: gpt-image-winter-survival-thriller-storyboard-sheet
+title:
+  en: Winter Survival Thriller Ten Cut Storyboard Sheet
+  zh: 冬季生存惊悚十镜头分镜板
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- storyboard
+- cinematic
+- thriller
+- film-pre-production
+- winter
+source:
+  name: '@zulkarnaimx on X'
+  url: https://x.com/zulkarnaimx/status/2053723774680535538
+  credit: zulkarnaimx
+  captured: '2026-10-28'
+  posted: '2026-05-11'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A numbered board structure covers character reference, set map, ten cuts and style notes. Each cut names its camera move and lens, and a shared header locks the palette and environment across every panel.
+  zh: 按编号分区排版：角色设定、场景俯视图、十个分镜和风格说明。每个镜头写明运镜和焦段，顶部的统一设定锁定色板与环境，让所有画格保持一致。
+prompt: |
+  Cinematic Survival Thriller Storyboard Prompt
+
+  Create a premium cinematic storyboard presentation sheet for a prestige winter survival thriller.
+  Ultra-detailed professional film pre-production layout, clean editorial design, grayscale blueprint background with labeled sections and technical annotations.
+  Aspect ratio 16:9 horizontal master board.
+
+  SHARED CHOICES HEADER
+
+  * Cut Count: 10
+  * Color Palette: icy blue + steel gray + pine green + ember amber
+  * Environment Fingerprint: snow-covered pine clearing, overturned horse carcass, torn campsite debris, looming conifer forest, drifting winter fog
+
+  ---
+
+  1. CHARACTER REFERENCE
+
+  A realistic South Asian man in his early 30s wearing a dark charcoal business suit, white dress shirt, black tie, polished black shoes.
+  Snow dusted across shoulders and hair.
+  Calm but haunted expression.
+  Show:
+
+  * front view
+  * side profile
+  * back view
+  * facial close-up
+  * side close-up
+  * costume fabric detail
+  * damaged sleeve detail
+  * shoes in snow
+
+  Character notes:
+  “An intelligent city professional trapped in a brutal wilderness.
+  Outer composure slowly cracks under primal fear.
+  Suit = identity, burden, and last thread of control.”
+
+  Palette swatches:
+
+  * icy blue
+  * steel gray
+  * pine green
+  * ember amber
+
+  ---
+
+  2. ENVIRONMENT / SET DESIGN
+
+  Top-down aerial map of a snowy forest clearing at dusk.
+  Dead horses partially buried in snow.
+  Destroyed campsite tents.
+  Blood trails across frozen ground.
+  Dense dark pine trees forming a claustrophobic wall around the clearing.
+  Heavy winter fog drifting through the forest.
+
+  Add cinematic camera movement markers:
+
+  1. Crane-down
+  2. Track
+  3. Push-in
+  4. Handheld
+  5. Steadicam
+  6. Pan-right
+  7. Dolly-in
+  8. Rack-focus
+  9. Arc shot
+  10. Pull-out
+
+  Include arrows and overhead cinematic blocking diagram.
+
+  Side elevation panel:
+
+  * descending crane shot
+  * fog layers
+  * silhouette scale reference
+  * conifer enclosure composition
+
+  Location elements legend:
+
+  * tree line
+  * torn campsite
+  * horse carcass debris
+  * blood-stained snow
+  * main character
+  * wolf approach zones
+
+  ---
+
+  3. STORYBOARD (10 CUTS)
+
+  CUT 1
+
+  Wide aerial crane-down shot over frozen clearing.
+  Tiny suited man surrounded by devastation.
+  Moody blue dusk lighting.
+
+  CUT 2
+
+  Tracking medium shot beside the man walking cautiously through snow and ripped tents.
+  Wind moving fabric debris.
+
+  CUT 3
+
+  75mm close-up push-in on face.
+  Cold breath visible.
+  Fear slowly emerging in his eyes.
+
+  CUT 4
+
+  Extreme close-up handheld shot of trembling hand gripping torn frozen fabric near blood-covered snow.
+
+  CUT 5
+
+  Steadicam medium shot revealing wolves emerging between trees behind him.
+
+  CUT 6
+
+  Pan-right wide shot sweeping across forest edge.
+  Multiple wolf silhouettes visible in fog.
+
+  CUT 7
+
+  Over-the-shoulder dolly-in toward alpha wolf approaching slowly through snow.
+
+  CUT 8
+
+  Rack-focus insert shot shifting focus from frozen hand to wolf tracks in snow.
+
+  CUT 9
+
+  Arc shot circling around the man as wolves tighten formation.
+  Snow and pine branches moving in icy wind.
+
+  CUT 10
+
+  Close-up pull-out shot from his exhausted face revealing the full massacre behind him in fading ember dusk light.
+
+  ---
+
+  4. LIGHTING / MOOD / STYLE NOTES
+
+  * icy dusk ambience
+  * cold blue backlight
+  * ember sunset glow fading through fog
+  * wet fabric specular highlights
+  * cinematic volumetric fog
+  * snow particles drifting through frame
+  * high-contrast prestige thriller realism
+
+  Mood keywords:
+
+  * isolation
+  * winter dread
+  * survival instinct
+  * prestige thriller realism
+  * primal tension
+  * psychological fear
+
+  Cinematography notes:
+
+  * anamorphic lenses (40mm / 50mm / 75mm / 100mm)
+  * shallow depth of field
+  * compressed forest layers
+  * natural handheld movement
+  * realistic snow atmosphere
+  * cinematic Hollywood survival thriller aesthetic
+  * ultra detailed
+  * photorealistic
+  * film grain
+  * 8k production design board
+  * premium movie pitch deck style

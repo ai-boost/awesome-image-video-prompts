@@ -1,0 +1,29 @@
+id: gpt-image-dark-minimal-avatar-site-vi-system
+title:
+  en: Dark minimal visual identity system for avatar website
+  zh: 暗黑极简头像网站视觉识别系统
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- vi-system
+- brand-board
+- dark-minimal
+- bilingual
+- website-design
+source:
+  name: '@xiaoxiaodong01 on X'
+  url: https://x.com/xiaoxiaodong01/status/2046556758521573546
+  credit: xiaoxiaodong01
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A single style keyword, a black cover design look, plus a one line brand brief is enough to produce a full multi panel VI board. The model fills in logo, color palette, typography, UI screens and merchandise mockups on its own.
+  zh: 只用一个风格关键词（黑色封面设计）加一句品牌简介，就能生成完整的多格视觉识别板。模型会自动补全标志、色板、字体、界面页面和周边样机。
+prompt: |
+  [中文]
+  用 ABCD（a black cover design) 的风格，为 图你太美 设计一个 vi 系统。图你太美是一个头像美图分享 网站。
+
+  [English]
+  In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.

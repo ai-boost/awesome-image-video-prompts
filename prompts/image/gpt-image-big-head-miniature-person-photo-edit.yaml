@@ -1,0 +1,87 @@
+id: gpt-image-big-head-miniature-person-photo-edit
+title:
+  en: Big Head Miniature Person Retail Store Selfie
+  zh: 商场自拍照变超大头迷你人像
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- chibi
+- big-head
+- photo-edit
+- photorealistic
+- proportion
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2113887497751253111
+  credit: Oogie
+  likes: 180
+  captured: '2026-10-28'
+  posted: '2026-10-24'
+notes:
+  en: Ranks the instructions by priority and gives numeric ratios, such as a head 2.5 to 3 times shoulder width and limbs at 25 to 35 percent. Separate sections lock pose, face, clothing and scene, and a prohibited list blocks cartoon or doll looks.
+  zh: 按优先级排列指令并给出数值比例，例如头宽为肩宽的2.5到3倍、四肢缩到25%到35%。姿势、面部、服装和场景各设保留章节，再用禁止清单排除卡通和娃娃脸。
+prompt: |
+  Turn any photo into a hyper-realistic chibi-style portrait using GPT Image 2.5
+
+  Prompt : Hyper-Realistic Big-Head Miniature Person | Photo Editing Prompt
+
+  Strictly edit the uploaded original photograph to transform the person or animal into a hyper-realistic, extremely exaggerated big-head miniature figure.
+
+  Highest Priority: Change only the head-to-body proportions. Preserve the original appearance, pose, actions, clothing, accessories, background, and aspect ratio of the photograph completely.
+
+  1\. Head-to-Body Proportions (Highest Priority)
+
+  * Giant Head: Dramatically enlarge the entire head, including hair, hats, and ears. The head width should be approximately 2.5–3 times the width of the reduced shoulders.
+
+  * Extremely Narrow Shoulders: Make the shoulders significantly narrower than the head, with a short, small neck. Do not retain normal adult shoulder width.
+
+  * Miniature Body: In full-body photographs, the body height (excluding the head) should be approximately 0.9–1.1 times the head height. Scale down the torso, waist, hips, and limbs proportionally.
+
+  * Miniature Hands and Feet: Reduce the arms, palms, fingers, legs, feet, and shoes to approximately 25–35% of their normal proportions. The limbs must be short and slender. Never leave the hands or feet at normal size.
+
+  * Strong Proportional Contrast: Regardless of whether the subject wears a skirt, trousers, or loose-fitting clothing, the result must clearly emphasize a giant, realistic head, extremely narrow shoulders, and an ultra-miniature body.
+
+  ### 2\. Pose and Actions (Strictly Preserve)
+
+  Preserve the original subject's exact pose, actions, gestures, gaze direction, and interactions.
+
+  * If the subject is standing in the original image, keep them standing. If sitting, crouching, lying down, or leaning against an object, preserve that exact position.
+
+  * Retain the original hand positions, held objects, leg positions, and all points of contact with the surrounding environment.
+
+  * If the original image is a half-body portrait, selfie, or partial-body photograph, maintain the original framing. Do not invent or generate legs, shoes, or a complete body that was not visible in the original image.
+
+  * Never alter the pose, actions, or composition simply to accommodate the miniature body proportions.
+
+  ### 3\. Facial Features and Clothing (Fully Preserve)
+
+  * Preserve the original face shape, facial features, facial proportions, expression, skin tone, hairstyle, and recognizable identity. Do not apply beauty filters, skin smoothing, eye enlargement, or face reshaping.
+
+  * Preserve the original clothing styles, materials, colors, patterns, and all accessories. Naturally scale the clothing to fit the miniature body without changing its design.
+
+  * For animals, preserve the original species, fur color, ears, facial characteristics, and expression. Only modify the head-to-body proportions.
+
+  ### 4\. Scene and Composition (Fully Preserve)
+
+  * Use the original photograph as the sole reference for the scene. Preserve the background, architecture, furniture, environmental objects, lighting, shadows, and color tones.
+
+  * Maintain the original camera angle, perspective, subject placement, composition, and image aspect ratio.
+
+  * Keep all background elements at their normal, realistic sizes. Do not replace the scene or introduce new objects.
+
+  * Ensure the subject blends naturally into the environment, with realistic proportions relative to the scene and physically consistent shadows.
+
+  ### 5\. Visual Style
+
+  The entire image must maintain an extremely photorealistic photographic quality. Preserve realistic skin texture, individual hairs, fabric details, and natural lighting. The transition between the enlarged head and miniature body must appear seamless, with no visible compositing artifacts.
+
+  Strictly Prohibited:
+
+  * Cartoon, anime, or stylized 3D figurine aesthetics.
+
+  * Doll-like faces or AI beauty enhancements.
+
+  * Normal adult shoulder width.
+
+  * Oversized hands or feet.

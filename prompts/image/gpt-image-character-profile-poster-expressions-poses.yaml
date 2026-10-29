@@ -1,0 +1,37 @@
+id: gpt-image-character-profile-poster-expressions-poses
+title:
+  en: Dark Character Profile Poster With Expressions And Poses
+  zh: 深色角色档案海报，含表情与动作姿势
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- character-sheet
+- profile-poster
+- expressions
+- reference-image
+- layout
+source:
+  name: '@miratechtool on X'
+  url: https://x.com/miratechtool/status/2049036432451215756
+  credit: Mira
+  likes: 294
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+notes:
+  en: A numbered checklist of sections (main portrait, expression grid, action poses, object icons, color palette, profile) gives the model a clear layout to fill. Asking for poses based on personality makes the poses and profile text agree with the uploaded face.
+  zh: 用编号清单列出各个板块（主肖像、表情格、动作姿势、物品图标、配色、档案），模型就有了清晰的版面可以填。要求动作依据性格来设计，让姿势和档案文字与上传的人脸保持一致。
+prompt: |
+  Create a character design chart based on the uploaded image.
+  Design: Character Profile Poster
+  Include:
+
+  1. Large main portrait
+
+  2. Various facial expressions (happy angry, sleepy, surprised, etc.)
+
+  3. Action poses (running, playing) (based on personality)
+
+  4. Small object icons 5. Color scheme section
+
+  5. Profile section, including name and personality

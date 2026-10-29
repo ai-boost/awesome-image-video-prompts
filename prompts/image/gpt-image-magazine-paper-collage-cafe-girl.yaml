@@ -1,0 +1,25 @@
+id: gpt-image-magazine-paper-collage-cafe-girl
+title:
+  en: Paper collage illustration of a woman holding coffee
+  zh: 手持咖啡的女孩纸艺拼贴插画
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- paper-collage
+- scrapbook
+- korean-editorial
+- handwritten-type
+- minimalist
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2060212097083146644
+  credit: oggii_0
+  captured: '2026-10-28'
+  posted: '2026-05-29'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt keeps the original subject and pose, then layers style, character, composition, objects, typography and atmosphere as separate blocks. A closing Avoid list and a limit on collage elements keep the layout airy and uncluttered.
+  zh: 提示词保留原图主体与姿势，再把风格、人物、构图、物件、字体和氛围分块叠加。结尾的排除清单和对拼贴元素数量的限制，让画面保持留白、不拥挤。
+prompt: |
+  Transform the uploaded image into a minimalist illustration in a magazine collage style, using paper cutouts. Retain the main subject, pose, and overall concept of the original image, but reimagine it as a warm, hand-edited collage. Style: Minimalist illustration in a magazine paper collage style, with flat, layered paper shapes, soft pastel paper textures, torn paper edges, paper shadow effects, neat black doodle accents, a handmade scrapbook atmosphere, modern Korean editorial design, a simple and cute composition, and large areas of clean white space. Character: Cute, simplified Korean characters with minimalist facial features, a small, relaxed smile, soft and rounded proportions, simple and casual clothing, and silhouettes constructed from layered paper cutouts. Composition: A 3:4 aspect ratio, with the main subject positioned slightly lower and off-center, leaving a large, open space on the opposite side for a breezy, minimalist composition that avoids clutter. Objects: Add only a few suitable collage elements: paper sticky notes, small hearts, plants, a cup of coffee, a window, tape fragments, and simple doodle icons. Typography: Add an elegant, handwritten English title that fits the scene's atmosphere. Use short phrases such as: ["May you be like the morning sunshine, full of vitality and hope, embracing the beauty of each day.","Take a small break," or "Good day, good mood."] Atmosphere: Calm, comfortable, warm, sweet, and editorial style. Avoid: Photorealistic style, anime style, watercolor style, 3D clay style, overly detailed backgrounds, excessive collage elements, a luxury poster atmosphere, dark tones, harsh shadows, and sloppy text.

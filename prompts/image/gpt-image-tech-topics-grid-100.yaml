@@ -1,0 +1,25 @@
+id: gpt-image-tech-topics-grid-100
+title:
+  en: Ten by ten grid of technology topics
+  zh: 十乘十的一百个科技主题网格
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- grid
+- technology
+- editorial-illustration
+- labels
+- white-background
+source:
+  name: '@chetaslua on X'
+  url: https://x.com/chetaslua/status/2046489044243403029
+  credit: chetaslua
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: Each row gets its own theme, so the grid has a clear structure and the model fills ten distinct tiles per row. Fixed rules for a white background, a short label under every tile and correct spelling keep the dense layout readable.
+  zh: 每一行指定一个主题，让网格结构清晰，模型每行只需填充十个不同的方块。白底、每格下方短标签和拼写正确这几条固定要求，保证了高密度排版依然清晰可读。
+prompt: |
+  Create a 10 × 10 grid of 100 different topics representing recent technological progress. Use a realistic, polished editorial illustration style. Each topic should appear in its own square with a short clear label underneath. Keep the grid neat on a white background. Make every topic visually different and every label correctly spelled. Use these row themes: Row 1: AI models and agents Row 2: robotics Row 3: semiconductors and compute Row 4: networks and smart devices Row 5: biotech and health technology Row 6: energy and power systems Row 7: transport and autonomy Row 8: space and aerospace Row 9: manufacturing and materials Row 10: climate and environmental technology. Show each tile as a realistic mini-scene, product-class object, lab instrument, robot, chip, vehicle, or device that clearly conveys the topic. Keep the overall style consistent, modern, realistic, and visually impressive.

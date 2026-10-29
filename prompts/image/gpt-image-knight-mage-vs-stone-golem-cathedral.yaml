@@ -1,0 +1,25 @@
+id: gpt-image-knight-mage-vs-stone-golem-cathedral
+title:
+  en: Knight mage battles stone golem in cathedral
+  zh: 骑士法师在大教堂中大战石像魔像
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- dark-fantasy
+- action-scene
+- cinematic
+- backlighting
+- game-cinematic
+source:
+  name: '@RamonVi25791296 on X'
+  url: https://x.com/RamonVi25791296/status/2051568239142973832
+  credit: RamonVi25791296
+  captured: '2026-10-28'
+  posted: '2026-05-05'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt fixes the left foreground and right midground positions for the two fighters, then names the light sources: backlight from an arched window and warm gold highlights on the shield and mace. Argument placeholders for hero and enemy type make it easy to swap characters.'
+  zh: 提示词固定了两个角色在左前景和右中景的位置，并点明光源：拱窗逆光加盾牌与硬头锤上的暖金高光。英雄和敌人类型做成可替换参数，方便换角色。
+prompt: |
+  Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name="hero type" default="female armored knight-mage"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name="enemy type" default="headless stone golem"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.

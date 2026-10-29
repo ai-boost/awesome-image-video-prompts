@@ -1,0 +1,28 @@
+id: gpt-image-shanghai-metro-platform-reading-portrait
+title:
+  en: Woman Reading on Shanghai Metro Platform
+  zh: 上海地铁站台读书的年轻女子
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- candid
+- metro
+- street-photography
+- film-grain
+- motion-blur
+source:
+  name: '@ToroJushiAi on X'
+  url: https://x.com/ToroJushiAi/status/2059452471127240959
+  credit: ToroJushiAi
+  captured: '2026-10-28'
+  posted: '2026-05-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt sets half-body eye-level framing and a motion-blurred train, then adds skin texture cues, a greenish fluorescent light cast and ISO 400 grain. Small imperfections such as stray hairs and asymmetry keep the result looking like a candid photo instead of a render.
+  zh: 提示词先定下半身平视构图和虚化的进站列车，再加入皮肤质感、偏绿荧光灯色温与 ISO 400 颗粒。散落发丝和不对称等小瑕疵让画面更像抓拍照片而非渲染图。
+prompt: |
+  A candid photograph of a young woman standing on a Shanghai metro platform during the summer morning commute, authentic daily life photography, natural candid moment. Half-body framing, shot at eye level from moderate distance — the arriving train a motion-blurred streak behind her, the yellow safety line at her feet.
+  East Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, slightly elongated eye corners — eyes directed downward, absorbed. Straight refined nose with a delicate bridge. Skin tone fair to light beige (NC10–NC20) — skin subsurface scattering visible under cool overhead station light, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible. Summer fresh look, no heavy coverage, lightly tinted lip.
+  She wears a relaxed oversized white shirt dress, collar lightly open, sleeves loosely rolled above the elbow. A structured natural tan canvas tote hangs from her shoulder, a physical novel tucked under one arm — pages open at a saved page. She stands with her weight on one hip, gaze downward at the open book, entirely absorbed, occupying her own stillness inside the morning rush. Background: white and grey tiled metro wall, overhead route signage board, arriving train motion blur to one side, other commuters blurred and distant. Two or three stray hairs displaced by the train's air displacement on arrival, natural unplanned imperfection, not geometrically symmetrical.
+  Cool overhead fluorescent lighting with a slight greenish cast, flat frontal illumination offset by a warm spill from the platform entrance behind. Absorbed in focus, eyes downward, unaware — a private moment inside a public space, the Shanghai morning. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.

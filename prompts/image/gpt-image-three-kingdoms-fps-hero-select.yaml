@@ -1,0 +1,29 @@
+id: gpt-image-three-kingdoms-fps-hero-select
+title:
+  en: Three Kingdoms hero select screen with Guan Yu
+  zh: 三国神话枪战游戏的关羽选角界面
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- game-ui
+- hero-select
+- three-kingdoms
+- fantasy
+- fps
+source:
+  name: '@op7418 on X'
+  url: https://x.com/op7418/status/2046519666047426967
+  credit: op7418
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A short prompt works by naming a well known game style and a mythological setting, so the model fills in the full hero select layout itself. Player list, roster strip, skill icons and a large calligraphy backdrop all come from that one style reference.
+  zh: 提示词很短，靠点名一个知名游戏风格加上神话题材，让模型自行补全完整的选角界面。玩家列表、角色栏、技能图标和大幅书法背景都来自这一个风格参照。
+prompt: |
+  [中文]
+  模仿《无畏契约》的风格，生成一个三国神话的 FPS 游戏
+
+  [English]
+  Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game

@@ -1,0 +1,60 @@
+id: gpt-image-1942-arcade-city-pilot-walk
+title:
+  en: Pilot walking through a wartime city under arcade dogfights
+  zh: 飞行员走过街机空战主题的战时城市
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- wwii
+- arcade
+- cinematic
+- worldbuilding
+- face-reference
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2056940561148363010
+  credit: Xaroon_x
+  captured: '2026-10-28'
+  posted: '2026-05-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Sections for worldbuilding, comedic details, lighting and camera give the model a clear checklist, so the scene fills with layered background gags. A reference face is locked with the phrase exact face while the outfit is spelled out piece by piece.
+  zh: 提示词按世界观、喜剧细节、光线和镜头分段列出清单，让背景塞满层次分明的小细节。用 exact face 锁定参考人脸，同时把服装逐件写明。
+prompt: |
+  Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition
+
+  Male, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead
+
+  ✈️ 1942 CITY WORLDBUILDING
+
+  entire city functions like a living 1942 arcade shooter universe
+  • massive WWII fighter planes dogfighting above skyscrapers
+  • giant anti-aircraft cannons mounted across rooftops
+  • endless bullet patterns streaking through cloudy skies
+  • retro military airfields integrated into urban districts
+  • giant “MISSION START” alerts projected into the clouds
+  • dramatic explosion trails lighting the skyline at night
+  • aircraft carriers docked beside futuristic city ports
+  • glowing power-up icons floating through aerial battle zones
+  • giant radar systems rotating above downtown towers
+  • endless enemy squadrons emerging from storm clouds
+  • cinematic ocean-and-warzone environments surrounding the metropolis
+
+  😂 COMEDIC DETAILS
+
+  • random civilians casually dodging fighter planes on the way to work 😭
+  • one pilot barrel-rolling dramatically for absolutely no reason
+  • giant billboard flashing: “PLAYER 1 READY.”
+  • pedestrians treating near-miss explosions like normal traffic
+  • somebody still trying to collect every floating power-up midair
+  • random mechanic repairing planes using pure confidence
+  • one legendary pilot surviving impossible situations through arcade logic alone
+
+  💡 LIGHTING & STYLE
+
+  retro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality
+
+  🎥 CAMERA
+
+  cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere

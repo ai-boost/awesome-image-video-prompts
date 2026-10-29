@@ -1,0 +1,26 @@
+id: nano-banana-spinning-night-portrait-slow-shutter-blur
+title:
+  en: Spinning night street portrait with long shutter motion blur
+  zh: 夜间街头旋转人像，慢快门动态模糊
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- motion-blur
+- slow-shutter
+- film-grain
+- night
+- fashion
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2111012827213471883
+  credit: Eesha
+  likes: 137
+  captured: '2026-10-28'
+  posted: '2026-10-16'
+notes:
+  en: 'Names a specific shutter range of 1/8 to 1/15 second and lists the blur effects it should produce: ghost trails, horizontal streaks, double exposure. A closing negative line (no frozen motion, no sharp arms or hair) keeps the model from freezing the action.'
+  zh: 直接写明快门速度 1/8 到 1/15 秒，并列出对应的画面效果：残影拖尾、横向背景拉丝、双重曝光。结尾用排除句（不要冻结动作、不要清晰的手臂和头发），避免模型把动作拍定格。
+prompt: |
+  Vertical 9:16 candid fashion portrait of a
+  beautiful East Asian girl wearing a fitted long-sleeve orange turtleneck and a black mini skirt, with long, messy, loose black hair. She spins rapidly while looking back at the camera, arms spread wide and hair flying. VERY SLOW SHUTTER SPEED 1/8–1/15 sec, extreme realistic motion blur, long ghost trails on arms and hair, blurred body, softly recognizable face, horizontal background streaks, camera shake, double-exposure effect, heavy 35mm film grain, dreamy, moody, underexposed, photorealistic. No CGI, no frozen motion, no sharp arms or hair.

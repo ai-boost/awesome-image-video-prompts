@@ -1,0 +1,29 @@
+id: gpt-image-sci-fi-momotaro-key-visual
+title:
+  en: Sci-fi Momotaro animation key visual poster
+  zh: 科幻桃太郎动画主视觉海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- key-visual
+- sci-fi
+- anime-poster
+- logo-design
+- bilingual-prompt
+source:
+  name: '@SSSS_CRYPTOMAN on X'
+  url: https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761
+  credit: SSSS_CRYPTOMAN
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt names a fictional animation key visual and asks for characters, background, logo and slogan in one illustration, so the model builds a full poster layout with title lockup and taglines. A single theme plus a worldview goal is enough to get a coherent composition.
+  zh: 提示词点明是虚构动画的主视觉图，并要求角色、背景、标志和宣传语一并出现在同一幅插画里，模型因此会生成带标题字标和标语的完整海报版式。一个主题加一句世界观目标就足以得到连贯的构图。
+prompt: |
+  [中文]
+  设计虚构动画的钥匙视觉图。主题是「科幻桃太郎」。设计有魅力的角色、背景、标志和宣传语，以一幅美丽插画的形式完成，让世界观在一张图中传达出来。
+
+  [English]
+  Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowing the worldview to be conveyed in a single image.

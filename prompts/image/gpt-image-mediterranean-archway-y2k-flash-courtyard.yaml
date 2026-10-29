@@ -1,0 +1,25 @@
+id: gpt-image-mediterranean-archway-y2k-flash-courtyard
+title:
+  en: Woman under bougainvillea archway in Mediterranean courtyard
+  zh: 地中海庭院九重葛拱门下的女子
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- y2k
+- digicam
+- flash-photography
+- mediterranean
+- candid
+source:
+  name: '@abxxai on X'
+  url: https://x.com/abxxai/status/2097698694296686623
+  credit: Abdul Shakoor
+  likes: 2645
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+notes:
+  en: The prompt places a detailed foreground subject against a lightly specified second figure and a layered setting, from archway to courtyard to sea. It then adds an early 2000s digicam look with on camera flash, CCD colour, bloom and noise to push the result toward candid realism.
+  zh: 提示词先写清前景人物的细节，再用简略的第二人物和由拱门、庭院到海面的层次布景铺开空间。随后加入千禧年代数码相机的机顶闪光、CCD 色调、光晕与噪点，让画面更接近随手抓拍的真实感。
+prompt: |
+  Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.

@@ -1,0 +1,57 @@
+id: gpt-image-scrapbook-collage-face-identity-swap
+title:
+  en: Brown satin scrapbook collage with face identity swap
+  zh: 棕色缎面衬衫拼贴手账换脸
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- face-swap
+- identity-transfer
+- scrapbook
+- collage
+- reference-image
+source:
+  name: '@warraich_Ai2 on X'
+  url: https://x.com/warraich_Ai2/status/2100532000042140040
+  credit: Azka Ai
+  likes: 114
+  captured: '2026-10-28'
+  posted: '2026-09-17'
+notes:
+  en: 'Two uploaded images get fixed roles: the target is the master for everything and the reference supplies face identity only. A bulleted list of what must stay the same, plus a final one line rule, keeps the layout, outfit, text and chibi panels unchanged.'
+  zh: 两张上传图分工明确：目标图决定一切，参考图只提供面部身份。用要素清单逐项锁定版式、服装、文字和Q版小图，再以一句最终规则收尾，保证只换脸不改其他。
+prompt: |
+  Create an image using the uploaded TARGET IMAGE as the exact master reference and the uploaded REFERENCE PHOTO as the identity reference.
+
+  Replace the face identity of the main woman with the woman from the REFERENCE PHOTO.
+
+  IMPORTANT — IDENTITY ONLY:
+  Use the REFERENCE PHOTO only to transfer the woman's facial identity: face shape, eyes, eyebrows, nose, lips, cheeks, jawline, skin texture and natural facial proportions.
+
+  Keep the TARGET IMAGE's hairstyle and messy bun, hair arrangement, body, physique, clothing, brown satin shirt, cream wide-leg trousers, brown belt, necklace, shoulder bag, poses, hand positions, expressions, accessories, and overall styling exactly as shown.
+
+  The entire scrapbook collage must remain the same:
+  - Same central full-body woman
+  - Same surrounding photo cutouts
+  - Same realistic and cartoon/chibi versions
+  - Same poses and expressions
+  - Same torn-paper collage layout
+  - Same tape pieces
+  - Same handwritten text and notes
+  - Same hearts, stars, flowers and decorative elements
+  - Same cat
+  - Same background, colors, textures and vintage beige/brown aesthetic
+  - Same composition, framing and aspect ratio
+
+  Apply the new woman's face naturally to EVERY realistic and illustrated appearance of the woman throughout the collage, while maintaining the appropriate style of each individual image.
+
+  Do not copy the reference woman's hairstyle, clothes, body, pose, background or accessories.
+
+  Make the face replacement seamless and natural in every panel. Match each panel's lighting, angle, expression, skin tone, shadows, perspective and image style.
+
+  FINAL RULE:
+  TARGET IMAGE = everything.
+  REFERENCE IMAGE = face identity only.
+  Change nothing else.
+  The final result must look like the original TARGET IMAGE, with only the woman's facial identity replaced by the woman from the reference photo.

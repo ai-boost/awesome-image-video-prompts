@@ -1,0 +1,27 @@
+id: gpt-image-pencil-sketch-woman-orange-circle-editorial
+title:
+  en: Pencil sketch woman on ledge before orange circle
+  zh: 橙色圆形前坐在石台上的铅笔素描女子
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- pencil-sketch
+- editorial
+- fashion
+- orange-circle
+- minimalist
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2054573031343931418
+  credit: harboriis
+  captured: '2026-10-28'
+  posted: '2026-05-13'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A desaturated cross-hatched pencil style is paired with one solid orange circle on a light grey ground, so a single flat colour carries the contrast. Specific clothing details and a named indie magazine aesthetic keep the pose and layout controlled.
+  zh: 去饱和的交叉排线铅笔风格搭配浅灰底上唯一的纯橙色圆形，用单一平涂色块制造对比。具体的服装细节和独立杂志审美关键词让姿势与构图保持可控。
+prompt: |
+  A high-detail digital illustration of a stylish woman sitting gracefully on a stone ledge, posing with one hand near her chin and legs crossed. She is wearing vintage-inspired round sunglasses, a white blouse with rolled-up sleeves, denim overalls, and rugged lace-up combat boots. The subject is rendered in a desaturated, monochromatic pencil-sketch style with soft cross-hatching and charcoal textures. In the background, a large, vibrant solid orange circle creates a bold geometric contrast against a clean, light grey backdrop. The overall composition is minimalist, editorial, and features a clean "indie-magazine" aesthetic with sharp linework and soft shading.
+
+  Aspect ratio is 9:16

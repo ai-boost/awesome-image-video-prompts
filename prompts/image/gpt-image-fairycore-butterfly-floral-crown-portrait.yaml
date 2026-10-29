@@ -1,0 +1,27 @@
+id: gpt-image-fairycore-butterfly-floral-crown-portrait
+title:
+  en: Fairycore portrait with butterflies and floral crown
+  zh: 蝴蝶环绕的花冠仙境肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- fairycore
+- fantasy-portrait
+- pastel
+- butterflies
+- soft-light
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2062696495741391006
+  credit: HaniaAi12
+  captured: '2026-10-28'
+  posted: '2026-06-05'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt lists concrete hair and gown details such as roses, crystals, feathers and embroidered sheer fabric. It pairs them with a fixed pastel palette and diffused morning light, then closes with photographic terms like bokeh, volumetric lighting and soft focus highlights.
+  zh: 提示词先写具体的发饰和纱裙细节，如玫瑰、水晶、羽毛和刺绣薄纱，再限定粉彩色调与柔和晨光，最后用虚化、体积光、柔焦高光等摄影术语收束。
+prompt: |
+  Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
+
+  The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.

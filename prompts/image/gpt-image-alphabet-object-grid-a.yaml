@@ -1,0 +1,25 @@
+id: gpt-image-alphabet-object-grid-a
+title:
+  en: Ten by ten grid of objects starting with A
+  zh: 十乘十网格，展示以A开头的物品
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- grid
+- alphabet
+- objects
+- layout
+- text-rendering
+source:
+  name: '@umesh_ai on X'
+  url: https://x.com/umesh_ai/status/2046510988367945983
+  credit: umesh_ai
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: A fixed grid size plus a single naming rule gives the model a clear layout and a checkable constraint. Short and open ended, it tests how well the model keeps labels and objects aligned across 100 cells.
+  zh: 固定的网格尺寸加上单一的命名规则，给模型明确的版式和可检查的约束。提示词很短且开放，用来测试模型在100个格子里能否让标签与物体保持对应。
+prompt: |
+  Create an image with a 10x10 grid of objects whose names all start with the letter A

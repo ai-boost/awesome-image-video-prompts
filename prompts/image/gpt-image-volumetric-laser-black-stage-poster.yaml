@@ -1,0 +1,25 @@
+id: gpt-image-volumetric-laser-black-stage-poster
+title:
+  en: Volumetric laser poster on a black stage
+  zh: 全黑舞台体积激光海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- laser
+- volumetric-light
+- black-stage
+- typography
+- diagonal-composition
+source:
+  name: '@zhidawang219555 on X'
+  url: https://x.com/zhidawang219555/status/2090246237094310178
+  credit: zhidawang219555
+  captured: '2026-10-28'
+  posted: '2026-08-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Six laser planes slice a black theatre, each with a stated origin, perspective and haze thickness. The title shares perspective with one plane, the face gets a single rim light, and the small text sits in pure black negative space.
+  zh: 六片体积激光在全黑剧场里分层，每片都写明起点、透视和薄雾厚度。标题与其中一片光面共享透视，脸部只用一道边光，小字留在纯黑负空间。
+prompt: |
+  从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。

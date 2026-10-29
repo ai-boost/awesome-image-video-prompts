@@ -1,0 +1,54 @@
+id: gpt-image-flat-vector-city-travel-poster-template-2
+title:
+  en: Flat vector Kyoto riverside travel poster
+  zh: 扁平矢量风京都河岸旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- flat-vector
+- template
+- city
+- pastel
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2091724761424670980
+  credit: Eesha
+  likes: 429
+  captured: '2026-10-28'
+  posted: '2026-08-24'
+notes:
+  en: A single [CITY_NAME] placeholder turns the prompt into a reusable template. A fixed checklist (landmark, transport, lifestyle moment, local details, signage), a tight pastel palette and a long negative list keep the flat vector style consistent while the composition changes per city.
+  zh: 用一个 [CITY_NAME] 占位符把提示词做成可复用模板。固定的元素清单(地标、交通、生活场景、本地细节、标识)、收紧的柔和配色和很长的否定清单,让扁平矢量风格保持一致,而构图随城市变化。
+prompt: |
+  Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical.
+
+  Create an original city-specific travel poster that captures the authentic personality of [CITY_NAME]. Choose the best composition for the city harbor, historic lane, riverside, coastal path, market, tram avenue, heritage square, skyline terrace, etc.
+
+  Include:
+  -One iconic landmark as the main focal point
+  -One distinctive local transport element
+  -One subtle everyday lifestyle moment
+  -Native vegetation or landscape
+  -3–6 small, naturally integrated people
+  -2–4 carefully chosen local details
+  -Subtle authentic signage/wayfinding
+
+  Typography:
+  Place “[CITY_NAME]” upper-left with generous negative space. Add one short elegant English tagline. Premium editorial typography, understated and spacious.
+
+  Style:
+  Japanese stationery-inspired, luxury sticker illustration, premium commercial vector, modern editorial travel branding, delicate uniform outlines, geometric shapes, flat colors, soft forms, minimalist postcard aesthetic.
+
+  Colors:
+  Pale powder blue, sky blue, mist blue, ivory, cream, beige, muted sage and gray-green. Tiny dusty-rose accents only. Soft, sophisticated, slightly desaturated palette.
+
+  Mood:
+  Fresh, airy, peaceful, refined, contemporary and elegant.
+
+  Important:
+  Make every city visually unique. Change the viewpoint, composition, landmark placement and foreground according to the city's identity. Do not reuse a generic template.
+
+  Negative:
+  No photorealism, realism, watercolor, painterly brushwork, gradients, heavy shadows, cinematic lighting, paper texture, clutter, landmark collage, crowds, oversized characters, dominant hero character, repetitive café scenes, generic tourist-poster layouts, copied compositions or unnecessary decoration.

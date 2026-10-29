@@ -1,0 +1,31 @@
+id: gpt-image-preschool-vocabulary-part-card
+title:
+  en: Preschool vocabulary card showing corn and kernel
+  zh: 幼儿词汇卡：玉米与玉米粒
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- educational
+- vocabulary-card
+- kids
+- template
+- infographic
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2092993830220120231
+  credit: Naiknelofar788
+  captured: '2026-10-28'
+  posted: '2026-08-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Bracketed slots for the fruit and the part name turn one layout into a reusable template. Rounded pastel panels, a dotted arrow, a stick figure and a restrained blue and white palette keep the card clear for young readers.
+  zh: 用方括号占位符替换水果和部位名称，一个版式即可反复套用。圆角浅蓝面板、虚线箭头、火柴人和克制的蓝白配色让卡片对幼儿清晰易读。
+prompt: |
+  Create a clean, child-friendly educational vocabulary poster for preschool/kindergarten children, inspired by a simple visual learning card.
+
+  Feature [FRUIT] as the main large realistic object on the left, and show a [PART / SLICE / SEGMENT] of the same fruit on the right. Connect the two with a playful dotted curved arrow and a tiny simple stick-figure child pointing toward the smaller part.
+
+  Add the word “[FRUIT NAME]” in large bold uppercase letters at the top and “[PART NAME]” in large bold uppercase letters underneath the smaller image. Use a soft white and very light pastel-blue background, rounded image panels, clean spacing, realistic fruit photography, simple blue typography, and minimal playful illustrations.
+
+  The overall design should feel bright, educational, modern, uncluttered, and easy for young children to understand, like a premium preschool vocabulary learning card. Vertical 4:5 composition, high resolution, soft lighting, clear labels, no unnecessary decorations.

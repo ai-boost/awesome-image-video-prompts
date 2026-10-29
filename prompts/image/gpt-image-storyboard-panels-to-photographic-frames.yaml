@@ -1,0 +1,35 @@
+id: gpt-image-storyboard-panels-to-photographic-frames
+title:
+  en: Rooftop chase storyboard turned into photographic frames
+  zh: 屋顶追逐分镜稿转为写实摄影画面
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- storyboard
+- pencil-sketch
+- photorealistic
+- film-previs
+- layout-preservation
+source:
+  name: '@umesh_ai on X'
+  url: https://x.com/umesh_ai/status/2110761775067230600
+  credit: Umesh
+  likes: 68
+  captured: '2026-10-28'
+  posted: '2026-10-15'
+notes:
+  en: A single short instruction converts a six panel pencil storyboard to photography while locking composition, subject placement and camera angle, so the shot design survives the style change. Putting the two boards side by side makes the before and after easy to judge.
+  zh: 一句简短指令把六格铅笔分镜转成写实摄影，同时锁定构图、主体位置和机位，镜头设计在风格转换后依然保留。把两张分镜板并排放置，前后对比一目了然。
+prompt: |
+  Big news!
+
+  Krea 3 is promising Nano Banana Pro/GPT Image 2.5  quality, 5x faster.
+
+  Imagine turning storyboard images into photographic frames you could put in front of a director.
+
+  The prompt I’d use: “Make every panel photographic. Preserve the composition, subject placement and camera angle.”
+
+  Then put the two boards side by side.
+
+  Some ideas become much harder to leave in a folder once you can see what they could look like.

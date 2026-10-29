@@ -1,0 +1,42 @@
+id: gpt-image-photo-to-watercolor-split-travel-poster
+title:
+  en: Travel photo and watercolor redraw split poster
+  zh: 旅行照片与水彩重绘上下分屏海报
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- photo-to-watercolor
+- split-layout
+- editorial-poster
+- travel
+- handwritten-title
+source:
+  name: '@miratechtool on X'
+  url: https://x.com/miratechtool/status/2102656456478589340
+  credit: Mira
+  likes: 151
+  captured: '2026-10-28'
+  posted: '2026-09-23'
+notes:
+  en: The prompt locks the reference photo as unchanged in the top half and asks for the same scene redrawn in watercolor, colored pencil and ink in the bottom half. A soft seamless transition, a warm paper background and a short handwritten title keep the two halves reading as one editorial piece.
+  zh: 提示词把参考照片原样锁定在上半部分，下半部分用水彩、彩铅和钢笔线稿重绘同一场景。柔和的衔接过渡、暖白纸张底色和简短的手写标题，让上下两半成为一张完整的编辑风海报。
+prompt: |
+  Made with GPT Image 2.5 on
+  @itsPolloAI
+
+
+  Prompt : Use the uploaded image as the exact reference. Preserve the original subjects, identities, poses, composition, colors, lighting, background, and key details. Do not add, remove, or rearrange major elements.
+
+  Create a vertical 3:4 editorial poster with two sections:
+
+  - Top half: keep the original photo natural, sharp, and essentially unchanged.
+  - Bottom half: recreate the exact same scene as a refined hand-drawn illustration in soft watercolor, colored pencil, and fine ink sketch style.
+
+  Keep the same subjects, positions, perspective, and recognizable details. Use soft pastel tones, a warm off-white paper background, subtle paper texture, and a premium editorial / art-book / postcard feel. Add a soft seamless transition between the photo and illustration.
+
+  Add minimal elegant typography: a handwritten-style title and a small simple subtitle. Use context-appropriate text such as “A Brighter Day” and “A Slower Life”, or for pets/family “Good Friends”, “Brighter Days”, or “Happier Tails ♡”.
+
+  Optional: add a few subtle hand-drawn decorative details like tiny petals, leaves, hearts, or sketch marks only if they naturally fit.
+
+  Do not change identities or the scene, and do not make the lower section look like photorealism, 3D, anime, or cartoon.

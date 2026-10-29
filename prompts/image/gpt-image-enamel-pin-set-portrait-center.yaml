@@ -1,0 +1,25 @@
+id: gpt-image-enamel-pin-set-portrait-center
+title:
+  en: Enamel pin set around a portrait pin
+  zh: 肖像徽章居中的珐琅徽章套组
+model: GPT Image 2.5
+mode: image-edit
+category: product
+tags:
+- enamel-pin
+- product-photography
+- portrait
+- collectible
+- reference-image
+source:
+  name: '@miratechtool on X'
+  url: https://x.com/miratechtool/status/2097710852413497646
+  credit: miratechtool
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: A reference photo is turned into the central pin, with exact pin counts, sizes and roles spelled out, plus material cues like gold outlines, raised edges and studio lighting. A closing list of exclusions keeps the layout clean, though the model may still add extra pins beyond the count requested.
+  zh: 参考照片被转成居中的主徽章，提示词写明徽章数量、大小和分工，并加入金属描边、凸起边缘和棚拍光线等材质线索。结尾的排除清单让版面保持干净，但模型仍可能多出几枚徽章。
+prompt: |
+  Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.

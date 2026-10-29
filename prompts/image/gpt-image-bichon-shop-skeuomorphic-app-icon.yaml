@@ -1,0 +1,25 @@
+id: gpt-image-bichon-shop-skeuomorphic-app-icon
+title:
+  en: Bichon puppy in pink shopping bag app icon
+  zh: 粉色购物袋里的比熊幼犬应用图标
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- app-icon
+- skeuomorphic
+- macos
+- squircle
+- cute
+source:
+  name: '@iamaiistudio on X'
+  url: https://x.com/iamaiistudio/status/2071923809788285125
+  credit: iamaiistudio
+  captured: '2026-10-28'
+  posted: '2026-06-30'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the format with a single squircle, an 80 percent canvas fill and a white background, then names the macOS App Store skeuomorphic style. The short app name drives the subject and lettering while the model fills in the details.
+  zh: 提示词用单个圆角方块、画布占比八成和白底锁定版式，再点明 macOS App Store 拟物风格。只给出简短的应用名，主体和文字都由模型自行补全。
+prompt: |
+  A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.

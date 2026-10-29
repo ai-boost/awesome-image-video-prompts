@@ -1,0 +1,25 @@
+id: gpt-image-chessboard-low-angle-menswear-campaign-poster
+title:
+  en: Low angle chessboard luxury menswear campaign poster
+  zh: 棋盘低角度奢华男装广告海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fashion-campaign
+- chess
+- low-angle
+- typography
+- luxury
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2058414859658956888
+  credit: harboriis
+  captured: '2026-10-28'
+  posted: '2026-05-24'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A low angle across a glossy chessboard and a king piece held in forced perspective put the foreground object and the model's gaze at the centre. Amber chandelier lighting, scattered pieces for depth, and quoted bottom typography with a 4:5 ratio finish the campaign layout.
+  zh: 低角度越过光亮棋盘拍摄，白色国王棋子以强透视伸向镜头，把前景物体和模特视线放在画面中心。琥珀色吊灯光、散落的棋子增加纵深，底部给出指定文字并限定 4:5 比例，完成广告版式。
+prompt: |
+  Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle perspective across a glossy chessboard table. A stylish young male model with sharp facial features, textured curly hair, wearing thin luxury glasses and a fitted sleeveless knitted brown vest, leaning forward in a confident pose. One hand extended toward the camera holding a large white king chess piece in forced perspective, dominating the foreground. Tattooed arms visible, intense confident facial expression, direct eye contact. Elegant vintage royal interior background with dark paneled walls, warm chandelier wall lights, cinematic amber lighting, moody shadows, luxury editorial atmosphere. Chess pieces scattered on the board in foreground and background for depth. High contrast premium fashion advertising style, ultra-detailed skin texture, sharp focus on face and chess piece, shallow depth of field, glossy reflections on chessboard, dramatic commercial campaign photography, luxury menswear brand aesthetic. Bold typography at bottom saying “DRESSED TO DOMINATE”, premium poster layout, cinematic color grading, high-end fashion ad, editorial magazine quality, 4:5 aspect ratio.

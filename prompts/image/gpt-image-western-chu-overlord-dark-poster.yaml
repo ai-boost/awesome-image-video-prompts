@@ -1,0 +1,25 @@
+id: gpt-image-western-chu-overlord-dark-poster
+title:
+  en: Dark Chinese style Western Chu Overlord poster
+  zh: 西楚霸王国风暗黑海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- chinese-style
+- dark-poster
+- typography
+- cinematic
+- texture
+source:
+  name: '@stellimbris on X'
+  url: https://x.com/stellimbris/status/2048633434961072617
+  credit: stellimbris
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A pure black background with one huge distressed stone-carved title fills the frame, and a strict black, white, gold and red palette keeps the contrast sharp. Texture words (grain, cracks, noise, paper texture) and small finishing details (seal, tagline) give it a cinematic print feel.
+  zh: 纯黑背景加占满画面的粗粝石刻巨型标题，并限定黑白金红四色以强化对比。颗粒、裂痕、噪点、纸张纹理等质感词，加上印章和小字标语，营造出电影海报的印刷质感。
+prompt: |
+  竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K

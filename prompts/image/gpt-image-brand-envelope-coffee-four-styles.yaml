@@ -1,0 +1,34 @@
+id: gpt-image-brand-envelope-coffee-four-styles
+title:
+  en: Four coffee brand worlds around one cup
+  zh: 同一只咖啡杯的四种品牌世界
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- brand-identity
+- product-ad
+- prompt-template
+- coffee
+- packaging
+source:
+  name: '@SRKDAN on X'
+  url: https://x.com/SRKDAN/status/2051482047248560393
+  credit: SRKDAN
+  captured: '2026-10-28'
+  posted: '2026-05-05'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'A four phase template: anchor the brand in two lines of palette, texture and mood, then place the product inside that world, set the output format and add one signature element. Swapping only brand identity, product and format keeps the structure fixed while the look changes.'
+  zh: 四阶段模板：先用两行文字锚定品牌的色板、质感和情绪，再把产品放进这个世界，最后指定输出格式和一个标志性元素。只替换品牌、产品和格式三项，结构不变而风格随之改变。
+prompt: |
+  The Brand Envelope | GPT Image-2 Prompt #89
+
+  This takes any product photo and wraps it in your specific brand world. Different product each time. Same brand, every time.
+
+  PHASE 1 / ANCHOR: Describe [BRAND IDENTITY] in 2 lines. Palette, texture, mood.
+  PHASE 2 / INJECT: Place [PRODUCT] inside that brand world, not the reverse.
+  PHASE 3 / FORMAT: Set [OUTPUT FORMAT]. Hero, square ad, or story.
+  PHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.
+
+  Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]

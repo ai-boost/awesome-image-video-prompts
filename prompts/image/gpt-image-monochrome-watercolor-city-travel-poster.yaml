@@ -1,0 +1,33 @@
+id: gpt-image-monochrome-watercolor-city-travel-poster
+title:
+  en: Monochrome blue watercolor Tokyo travel poster
+  zh: 单色蓝水彩东京旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- watercolor
+- travel-poster
+- monochrome
+- template
+- cityscape
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2062564327140503787
+  credit: Goodmanprotocol
+  captured: '2026-10-28'
+  posted: '2026-06-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A bracketed template swaps city, color, landmarks, street lamp and vehicle while the layout stays fixed. Low pedestrian eye level, white negative space and an upper left serif title give a consistent poster look.
+  zh: 方括号模板可替换城市、颜色、地标、路灯和车辆，版式保持不变。低视角、大面积留白和左上角衬线标题让海报风格统一。
+prompt: |
+  Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework.
+
+  Aspect ratio: 4:5 vertical composition optimized for poster and social media presentation.
+
+  A peaceful early-morning streetscape featuring the iconic [PRIMARY LANDMARK] and [SECONDARY LANDMARK/LOCATION] in the foreground, viewed from a slightly low pedestrian-level perspective. Historic local architecture, elegant facades, ornate details, arched windows, decorative cornices, and traditional street elements line the spacious surroundings, creating a timeless urban atmosphere. A classic [LOCAL STREET ELEMENT OR LAMP STYLE] stands prominently on the left side, while mature leafy trees frame portions of the scene, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT LANDMARK OR SKYLINE FEATURE] rises gracefully against the skyline, serving as a recognizable cultural landmark. A vintage [LOCAL VEHICLE] or a few small pedestrians add subtle life and scale without disturbing the tranquil mood.
+
+  The composition includes large areas of clean white negative space, soft cloudy watercolor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or plaza stretches dramatically across the foreground, leading the viewer’s eye toward the landmark ensemble. Typography in the upper-left corner reads “[CITY NAME], [COUNTRY]” in a refined serif font, styled like a sophisticated travel journal or collectible city poster.
+
+  Handcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.

@@ -1,0 +1,25 @@
+id: gpt-image-personal-color-analysis-diagram
+title:
+  en: Personal color analysis diagram from a portrait
+  zh: 基于人像的个人色彩分析图解
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- color-analysis
+- infographic
+- portrait
+- diagram
+- fashion
+source:
+  name: '@AngryTomtweets on X'
+  url: https://x.com/AngryTomtweets/status/2046674296559313170
+  credit: AngryTomtweets
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: The prompt asks for a visual comparison first and caps the text, so the model shows each clothing color on the same face and adds only short labels. Supplying a portrait as the reference keeps the face consistent across every swatch panel.
+  zh: 提示词要求先用视觉对比、再严格限制文字，模型因此把各种服装颜色直接套在同一张脸上，只配简短标签。以人像作参考图，能让每个色板中的面部保持一致。
+prompt: |
+  Using this portrait, create a diagram-first personal color analysis. Show which clothing colors suit the subject through visual comparison. Keep text minimal and avoid paragraphs.

@@ -1,0 +1,68 @@
+id: gpt-image-soft-cloud-storage-app-mint-ui
+title:
+  en: Mint Cloud Storage Mobile App Home Screen
+  zh: 薄荷色云朵风个人存储手机应用首页
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- mobile-app
+- cloud-storage
+- pastel
+- light-mode
+- design-system
+source:
+  name: Devault on GitHub
+  url: https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5/blob/main/docs/exclusive-mobile-1.md
+  credit: Devault
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+notes:
+  en: The prompt gives exact hex values with a role for each color, a top-down layout spec, and typography and radius rules. MUST and AVOID lists plus a signature detail keep the cloud hero card consistent.
+  zh: 提示词为每个色值标明用途，并写清自上而下的布局、字体与圆角规则。MUST 与 AVOID 清单加上标志性细节，让云朵主卡风格保持一致。
+prompt: |
+  Design a light-mode mobile app interface screen: pillowy cloudscapes and organic pastel surfaces guiding calm personal storage.
+
+  LAYOUT
+  The mobile layout follows a top-down single-column hierarchy starting with a sticky-feel status and navigation header. Immediately beneath sits a horizontal swipeable hero card carousel showing peeking sibling cards. A two-column split row hosts quick action and search shortcuts, followed by vertical grouped collection cards separated by bold section titles.
+
+  PALETTE (use these exact hex values)
+  - #FFFFFF — Canvas White: Primary mobile viewport background and base level
+  - #F8FAFB — Surface Mist: Subtle fill for embedded search inputs and inactive surfaces
+  - #EEF2F3 — Border Subtle: Hairline card outlines, row dividers, and input strokes
+  - #0D4744 — Deep Teal: Hero display text, prominent pill CTA button, and high-emphasis labels
+  - #219D82 — Mint Accent: App logo highlight, active tags, and 'PRO' badge fill
+  - linear-gradient(135deg, #F0FAF7 0%, #E2F5EE 50%, #D8F0F3 100%) — Card Hero Gradient: Background wash for the primary welcome carousel card
+  - #1E2A2A — Text Charcoal: Row item headings, section titles, and primary action text
+  - #768B8A — Text Slate: Subtitles, placeholder text, chevron arrows, and metadata
+  - #EDF8F5 — Badge Mint Tint: Soft pill container fill behind counter numbers
+
+  TYPOGRAPHY
+  Typeface Plus Jakarta Sans (or Outfit, SF Pro Rounded, Inter), weights 400/500/600/700. Sizes 10px caption, 11px body-sm, 13px body, 14px body-lg, 15px subheading, 17px heading, 24px display. Tracking -0.01em at headlines, 0.08em at uppercase captions. The typographic tone is airy, friendly, and structured, best embodied by rounded geometric sans typefaces like Plus Jakarta Sans or SF Pro Rounded. Generous lowercase proportions paired with letterspaced micro-caps ('WELCOME TO') keep utility feeling relaxed and modern. System fonts like SF Pro with rounded attributes provide seamless zero-cost implementation.
+
+  GEOMETRY & SPACING
+  Corner radii — cards 24px, links 8px, inputs 18px, buttons 999px. Spacing on a 4px unit, 12px gaps, 24px between sections, 390px container, comfortable density.
+
+  DEPTH
+  Depth is created without harsh drop shadows. Instead, surfaces rely on 1px crisp borders (#EEF2F3) set against stark white (#FFFFFF) and delicate background pastel gradients. A very soft, diffuse ambient blur (0px 8px 24px rgba(13, 71, 68, 0.04)) is permitted strictly under active floating cards.
+
+  IMAGERY
+  Visual assets consist of simplified 3D-shaded cloud volumes and stylized vector pictograms. Cloud assets use clean semi-translucent overlapping curvilinear lobes in seafoam green and white. Photorealistic photography is restricted entirely to circular user profile avatars.
+
+  SIGNATURE DETAIL — the thing that makes this design itself
+  The mint-washed cloudscape hero card featuring an overlapping curved vector cloud silhouette paired with a deep teal pill button. This establishes the calm 'cloud sanctuary' motif immediately on launch. Misusing it means replacing the organic vector curves with generic stock photography or harsh linear gradients.
+
+  MUST
+  - Wrap related collection rows inside a single bordered card with 20px corner radius.
+  - Use pill-shaped 999px radii exclusively for action buttons, pro tags, and count badges.
+  - Maintain high contrast on headings by pairing Deep Teal (#0D4744) with pure white backgrounds.
+  - Enclose row icons inside squircle containers tinted to match the icon's primary hue.
+
+  AVOID
+  - Never apply harsh black (#000000) for typography; use #0D4744 or #1E2A2A instead.
+  - Never use sharp 90-degree corners on buttons, cards, or search inputs.
+  - Avoid heavy drop shadows; depth is conveyed via faint 1px borders and soft pastel fills.
+  - Do not make count badges bright red or amber; use the soothing mint pill #EDF8F5.
+
+  OUTPUT
+  Render as a clean, pixel-crisp UI design at roughly 2000:3840. Flat vector rendering, real legible text, no browser chrome, no device mockup frame, no watermark, no lorem ipsum placeholder blocks.

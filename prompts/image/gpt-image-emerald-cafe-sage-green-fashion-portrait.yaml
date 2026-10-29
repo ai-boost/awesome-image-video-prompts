@@ -1,0 +1,31 @@
+id: gpt-image-emerald-cafe-sage-green-fashion-portrait
+title:
+  en: Sage green outfit portrait outside emerald cafe
+  zh: 翠绿咖啡馆外的鼠尾草绿穿搭人像
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- fashion
+- cafe
+- golden-hour
+- editorial
+- full-body
+source:
+  name: '@hey_am_cherry on X'
+  url: https://x.com/hey_am_cherry/status/2112044506514440506
+  credit: Cherry
+  likes: 111
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+notes:
+  en: The prompt fixes the setting first, then lists each garment and accessory with its color, so the palette stays coherent. Eye-level full-body framing, shallow depth of field and golden-hour light give it an editorial look, and a closing negative prompt guards against anatomy errors.
+  zh: 先定场景，再逐件列出服饰配饰并指定颜色，让整体色调统一。平视全身构图、浅景深和黄金时段光线带来杂志感，结尾的负面提示词用来防止人体结构出错。
+prompt: |
+  Create a realistic lifestyle fashion portrait, subject stands casually outside a premium modern café with deep emerald green exterior panels and large glass windows revealing a warm, softly lit interior. Minimal Scandinavian café aesthetic with hanging pendant lights, wooden furniture, and subtle reflections on the glass.
+
+  The model wears a pastel sage-green baseball cap, fitted white tube top, olive-green denim overall shorts with one strap unfastened, matching green sneakers, delicate gold jewelry, and a luxury black quilted mini handbag with pearl chain placed on a small marble café table beside a takeaway coffee cup.
+
+  Natural relaxed pose with one leg slightly crossed, one hand inside the pocket, calm confident expression, looking directly at the camera. Eye-level composition, full-body framing, shallow depth of field, creamy bokeh, soft golden-hour daylight, premium editorial fashion photography, ultra-realistic skin texture, luxury color grading, crisp details, cinematic realism, high-end Vogue campaign quality.
+
+  Negative Prompt: low quality, blurry, extra fingers, bad anatomy, distorted face, duplicate person, cartoon, CGI, oversaturated colors, watermark, logo, text, cropped body, unnatural pose, plastic skin, noise.

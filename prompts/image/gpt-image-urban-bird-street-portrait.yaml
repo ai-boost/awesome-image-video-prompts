@@ -1,0 +1,25 @@
+id: gpt-image-urban-bird-street-portrait
+title:
+  en: Woman in White Among Flying Birds
+  zh: 白衣女子与飞鸟的都市街头肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- street-portrait
+- fashion
+- birds
+- graffiti
+- photorealistic
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2060216757797978245
+  credit: HaniaAi12
+  captured: '2026-10-28'
+  posted: '2026-05-29'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Real birds in flight are paired with black graffiti bird silhouettes on the wall, so the live and painted subjects echo each other. A named outfit list with soft daylight and depth of field keeps the fashion look consistent.
+  zh: 真实飞鸟与墙上的黑色涂鸦鸟影相互呼应，画面既有动感又有街头艺术感。逐件列出服装，再加柔和日光和景深，让时尚质感保持稳定。
+prompt: |
+  A stylish cinematic portrait of a confident young woman leaning casually against a textured urban concrete wall, surrounded by vibrant flying birds including blue macaws, white seagulls, and a colorful hummingbird. Black graffiti-style bird silhouettes painted on the wall create an artistic street-art vibe. She is wearing a trendy all-white outfit — oversized denim jacket, fitted graphic tee, skinny jeans, and black sneakers. Soft natural daylight, realistic shadows, ultra-detailed fashion photography, urban luxury aesthetic, sharp facial features, glossy hair, high-end editorial style, dynamic composition, photorealistic, depth of field, 8K quality.

@@ -1,0 +1,31 @@
+id: gpt-image-split-photo-sketch-travel-journal-poster
+title:
+  en: Real photo and watercolor sketch travel poster
+  zh: 实景照片与水彩速写对照的旅行海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- travel-journal
+- split-layout
+- watercolor-sketch
+- colored-pencil
+- photo-to-sketch
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2096902953110299096
+  credit: Eesha
+  likes: 417
+  captured: '2026-10-28'
+  posted: '2026-09-07'
+notes:
+  en: An exact 50/50 split keeps the top half as the untouched reference photo and turns the bottom half into the same scene as colored pencil and watercolor on cream paper. Naming the paper, strokes, washes and cross hatching, plus fixed handwritten captions above and below, keeps the sketch faithful and the layout stable.
+  zh: 严格的上下五五分版面让上半部分保留原始参考照片，下半部分把同一场景转成奶油色纸上的彩铅加水彩。提示词写明纸张、笔触、淡彩和排线，并固定了手写标题的上下位置，因此速写忠于原图，版面也稳定。
+prompt: |
+  Create a premium vertical travel-journal poster in an exact 50/50 split.
+
+  Top 50%: Keep the original reference photo completely real and unchanged same composition, architecture, people, colors, lighting, perspective, and details.
+
+  Bottom 50%: Transform the same photo into a delicate hand-drawn colored-pencil + watercolor sketch on warm cream paper, with visible pencil strokes, soft washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Keep every subject recognizable.
+
+  Add elegant handwritten text: “A Beautiful Day” above and “Memories to Keep” below. Minimal, nostalgic, sophisticated travel-magazine aesthetic. No extra objects, no photorealism in the bottom half, exact 50/50 layout.

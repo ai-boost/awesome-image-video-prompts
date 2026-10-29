@@ -1,0 +1,25 @@
+id: gpt-image-pixel-art-rpg-items-grid-100
+title:
+  en: Grid of 100 labeled pixel art RPG items
+  zh: 100个带标签的像素风RPG道具网格
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- pixel-art
+- item-grid
+- rpg
+- icons
+- labels
+source:
+  name: '@ProperPrompter on X'
+  url: https://x.com/ProperPrompter/status/2046534215311970694
+  credit: ProperPrompter
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: Asking for a single image with a fixed count of 100 unique items makes the model fill a numbered grid. Requiring a meaningful label for each item pushes it toward coherent themed sets such as weapons, potions, rings and gems.
+  zh: 指定单张图和100个互不重复的物品，模型会排出带编号的网格。要求每个物品有贴切的标签，使结果自然分成武器、药水、戒指、宝石等成套主题。
+prompt: |
+  Create a single image containing a grid of 100 completely unique pixel art items, each with a meaningful label

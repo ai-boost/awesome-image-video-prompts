@@ -1,0 +1,38 @@
+id: gpt-image-great-barrier-reef-travel-poster
+title:
+  en: Great Barrier Reef Mid Century Travel Poster
+  zh: 大堡礁中世纪风格旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- flat-vector
+- mid-century
+- underwater
+- typography
+source:
+  name: '@jzaib4269 on X'
+  url: https://x.com/jzaib4269/status/2055487295734620522
+  credit: jzaib4269
+  captured: '2026-10-28'
+  posted: '2026-05-16'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt splits the scene into foreground, midground, background and sky layers, so the above and below water view stays organized. Negative constraints (no textures, no gradients) and exact poster text with a divider icon keep the flat vintage print look.
+  zh: 提示词把画面分成前景、中景、背景和天空四层，水上水下的构图因此清晰。负面约束（无纹理、无渐变）加上带分隔线图标的精确海报文字，保住了扁平复古印刷的质感。
+prompt: |
+  Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia.
+  Style: Flat vector illustration, ultra-clean minimalism, mid-century modern travel poster aesthetic, inspired by vintage tourism prints and Scandinavian graphic design. No photorealism, no textures, no noise, no gradients. Use crisp shapes, smooth color blocks, and harmonious vibrant tones.
+  Composition (vertical 3:4 layout):
+  Foreground (underwater): A rich coral reef ecosystem filled with colorful corals in pink, orange, yellow, and red tones. Include tropical fish of various species (striped, bright yellow, blue, and orange), and a large sea turtle swimming gracefully toward the right. Clear turquoise water with high visibility.
+  Midground: A female snorkeler swimming horizontally just beneath the water surface, wearing fins and a snorkel mask, observing the reef below. Light rays subtly pass through the water surface.
+  Background (above water): A calm tropical ocean with shallow reef patches visible through crystal-clear water. A white leisure boat floats peacefully on the left, and a small sailboat appears far in the distance. On the horizon, soft green islands or hills stretch across.
+  Sky: Bright blue sky with fluffy white clouds and a few birds flying, enhancing the serene vacation mood.
+  Typography:
+  At the bottom of the poster, include bold uppercase text:
+  “GREAT BARRIER REEF”
+  Below it, smaller spaced-out text:
+  “AUSTRALIA”
+  Add a small decorative coral icon between divider lines.
+  Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. Colors should feel fresh, vibrant, and relaxing with strong contrast between coral reef and ocean blues.

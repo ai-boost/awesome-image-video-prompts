@@ -1,0 +1,25 @@
+id: gpt-image-dimensional-embroidery-birds-flower-branch
+title:
+  en: Dimensional silk embroidery birds on flowering branch
+  zh: 立体刺绣小鸟花枝插画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- embroidery
+- birds
+- floral
+- fiber-art
+- pastel
+source:
+  name: '@dotey on X'
+  url: https://x.com/dotey/status/2048529821706195442
+  credit: dotey
+  captured: '2026-10-28'
+  posted: '2026-04-26'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt names the base color, the medium (low relief fiber art, silk thread) and a fixed palette per element, so the thread texture and soft pastel colors stay consistent. Generous white space and a layered flower description keep the composition light.
+  zh: 提示词先定底色和媒介（浅浮雕纤维艺术、丝线质感），再为羽毛、花朵、叶片分别指定配色，丝线质感和柔和色调保持统一。明确要求留白充足，并描述花朵层层叠线，让构图保持轻盈。
+prompt: |
+  精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。

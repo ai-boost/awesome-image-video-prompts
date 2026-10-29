@@ -1,0 +1,25 @@
+id: gpt-image-tokyo-backstreet-film-snapshot-fur-jacket
+title:
+  en: Candid Tokyo street film portrait in fur jacket
+  zh: 东京街头白色毛绒外套胶片抓拍人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- film-photography
+- street-snapshot
+- tokyo
+- candid
+- portrait
+source:
+  name: '@BubbleBrain on X'
+  url: https://x.com/BubbleBrain/status/2055491616392052887
+  credit: BubbleBrain
+  captured: '2026-10-28'
+  posted: '2026-05-16'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Stacks film grain, overexposed highlights and phone snapshot cues such as imperfect framing and slow shutter blur to get a candid look. A detailed street inventory with wires, vending machines and fallen leaves, plus a back turned pose with a look over the shoulder, anchors the scene.
+  zh: 用胶片颗粒、轻微过曝、不完美构图和慢快门拖影等手机抓拍线索营造随手拍的真实感。电线、自动贩卖机、落叶等街景清单加上背身回头的姿势，让画面更有场景感。
+prompt: |
+  film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, scattered fallen leaves on the ground, distant pedestrians and passing taxis softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 19-year-old Chinese female influencer, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy faux fur jacket, playful yet subtly seductive expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic iPhone photography texture, spontaneous candid energy, highly attractive girl casually posing in the middle of the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, masterpiece, best quality, ultra detailed, slight motion blur from slow shutter, authentic everyday realism, “BubbleBrain” small handwritten signature text on bottom corner --ar 9:16

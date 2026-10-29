@@ -1,0 +1,31 @@
+id: gpt-image-tennis-precision-campaign-collage
+title:
+  en: Green tennis campaign collage with giant typography
+  zh: 深绿网球运动员三联广告拼图
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- sports-fashion
+- campaign
+- collage
+- typography
+- tennis
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2048606301039820821
+  credit: AIwithkhan
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A three panel layout is described one panel at a time, each with its own shot size and exact text strings. A shared palette of dark green and white, a grid layout and a stated aspect ratio keep the panels consistent.
+  zh: 按面板逐一描述景别与指定文字，三个画面各有分工。统一的深绿白配色、网格排版和画幅比例让整组保持一致。
+prompt: |
+  Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic.
+
+  Bottom left panel: close-up portrait of the athlete with glowing skin, minimal makeup, soft light, text “FOCUS” and “FUEL” placed subtly.
+
+  Bottom right panel: full-body crouched pose holding racket, strong posture, text “DISCIPLINE DRIVES DOMINANCE”, grid-based layout lines, premium sports branding feel.
+
+  Consistent color grading, dark green and white palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio.

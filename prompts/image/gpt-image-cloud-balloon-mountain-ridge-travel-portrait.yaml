@@ -1,0 +1,76 @@
+id: gpt-image-cloud-balloon-mountain-ridge-travel-portrait
+title:
+  en: Woman holding giant cloud balloon on mountain ridge
+  zh: 山脊上手牵巨大云朵气球的旅行人像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- cloud-balloon
+- mountain
+- travel-fashion
+- identity-preserve
+- vertical
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2091394735416160715
+  credit: AiwithLariab
+  captured: '2026-10-28'
+  posted: '2026-08-23'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Opens with a strict identity lock on the reference photo, then splits the rest into labeled blocks for pose, scene, cloud, clothing, lighting and composition. The cloud strings are described as physically believable and the framing is fixed at 9:16 full body with the sky filling the upper half.
+  zh: 开头先锁定参考图的人物身份，再按姿势、场景、云朵、服装、光线和构图分块描述。云朵牵线强调物理可信，并固定为 9:16 全身构图，天空占上半部分。
+prompt: |
+  Create a dreamy ultra-photorealistic outdoor fashion photograph based on the person in @image1.
+
+  IDENTITY & FACE:
+  Preserve the exact facial identity of the person in @image1. Keep the same face shape, facial proportions, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and all recognizable facial features. The person must remain clearly recognizable and consistent with the reference image. Do not redesign or replace the face.
+
+  POSE & COMPOSITION:
+  Create a full-body vertical portrait of the person standing naturally on a grassy mountain ridge. The body is slightly turned toward the camera while the face looks naturally toward the viewer. One hand gently holds several long white strings attached to an enormous fluffy white cloud floating directly above the person like a whimsical balloon bouquet. The other hand rests naturally beside the body.
+
+  SCENE:
+  A breathtaking high-altitude mountain landscape with layers of distant blue-green mountains stretching across the horizon. The subject stands on a natural grassy ridge with delicate wild grass around her feet. Vast open sky dominates the upper portion of the composition.
+
+  CLOUD BALLOON:
+  Create one enormous soft white cumulus cloud directly above the subject, visually resembling a giant floating cloud balloon. Multiple thin white strings descend from the cloud and gather elegantly into the person's hand. The strings should look physically believable and naturally connected to the cloud. The cloud is fluffy, voluminous, bright white, and beautifully illuminated by sunlight.
+
+  CLOTHING:
+  Dress the person in a completely modest, elegant, fully covered outfit:
+
+  long flowing light-blue maxi dress reaching the ankles
+
+  loose long sleeves covering the arms completely
+
+  high and modest neckline
+
+  opaque non-transparent fabric
+
+  full-length flowing skirt
+
+  simple white closed-toe sneakers
+
+  small woven crossbody bag
+  No exposed midriff, no deep neckline, no sheer fabric, no short skirt, no revealing clothing. The outfit should look graceful, comfortable, elegant, and wholesome.
+
+  ACCESSORIES:
+  Add tasteful round dark sunglasses and a simple woven shoulder/crossbody bag. Keep accessories minimal and natural.
+
+  HAIR:
+  Keep the person's original hairstyle and hair color from @image1 as much as possible. Allow a few natural strands of hair to move gently in the mountain breeze.
+
+  LIGHTING:
+  Bright natural midday sunlight, soft atmospheric illumination, realistic highlights on the white cloud and dress, subtle natural shadows, crisp but gentle exposure, beautiful blue-sky contrast.
+
+  PHOTOGRAPHY STYLE:
+  Ultra-photorealistic professional travel-fashion photography, realistic skin texture, natural fabric details, physically accurate lighting, realistic depth of field, cinematic atmospheric perspective, high dynamic range, sharp subject with a softly detailed background.
+
+  COLOR PALETTE:
+  Sky blue, soft white, pale powder blue, natural green grass, and distant blue mountains. Clean, airy, dreamy color grading with a peaceful summer atmosphere.
+
+  COMPOSITION:
+  9:16 vertical portrait, full body visible from head to shoes, subject positioned slightly below center, enormous blue sky and cloud occupying the upper half, distant mountains forming a soft horizontal horizon, balanced negative space, visually striking editorial travel photograph.
+
+  IMPORTANT:
+  Preserve the exact identity from @image1. Do not change the person's recognizable face or facial structure. Keep the outfit completely modest, opaque, and fully covering. Maintain realistic anatomy, natural hands, realistic proportions, and believable interaction between the person, strings, cloud, grass, and mountain environment.

@@ -1,0 +1,25 @@
+id: gpt-image-paris-storybook-laughing-beret-woman
+title:
+  en: Laughing woman in beret with coffee in Paris
+  zh: 巴黎街头戴贝雷帽捧咖啡大笑的女孩
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- storybook
+- paris
+- portrait-illustration
+- cafe
+- warm-light
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2062376738500526347
+  credit: MissDelulu9
+  captured: '2026-10-28'
+  posted: '2026-06-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt fixes one clear subject with a specific expression (laughing, eyes closed) and props (beret, coffee cup), then sets the place and time of day. Closing mood words like soft, dreamy and gentle lighting steer the painterly storybook finish.
+  zh: 提示词先锁定单一主体及具体表情(闭眼大笑)和道具(贝雷帽、咖啡杯),再交代地点和清晨时段。结尾的柔和、梦幻、温柔光线等氛围词引导出绘本式的绘画质感。
+prompt: |
+  Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.

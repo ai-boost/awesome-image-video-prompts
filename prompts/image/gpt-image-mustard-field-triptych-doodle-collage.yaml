@@ -1,0 +1,40 @@
+id: gpt-image-mustard-field-triptych-doodle-collage
+title:
+  en: Three panel mustard field portrait collage with doodles
+  zh: 油菜花田三联竖版写真拼贴与涂鸦
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- photo-collage
+- golden-hour
+- flower-field
+- doodle-overlay
+- editorial
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2051294907214844249
+  credit: frametheory058
+  captured: '2026-10-28'
+  posted: '2026-05-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'Each panel gets its own pose and framing: back view, close portrait with a hand toward the lens, and a playful lean. A shared outfit, golden hour light and a closing list of overlays (white doodles, light leaks, film grain) keep the three panels consistent.'
+  zh: 每个分格单独指定姿势和景别：背影、手伸向镜头的特写、俏皮侧倾，再用统一的服装和金色夕阳光线保持三格一致。结尾集中列出白色涂鸦、漏光和胶片颗粒等叠加效果。
+prompt: |
+  A high-quality 3-panel vertical photo collage of a stunning uploaded woman with soft, voluminous wavy hair glowing in golden sunlight. She is styled in a cream-colored lace-up vintage blouse with delicate textures, olive green high-waisted flowy trousers, and a wide-brimmed straw hat slightly tilted for a fashionable editorial look. Light golden jewelry (thin chains, rings) adds a subtle luxury touch.
+
+  The setting is a dreamy, vibrant yellow mustard flower field under a bright blue sky with soft clouds, enhanced by golden hour lighting for a magical glow.
+
+  Top panel: Back view of the woman standing in the field with arms wide open, sunlight creating a glowing halo around her hair, slight motion blur in flowers for a cinematic feel.
+
+  Middle panel: Close-up portrait, she smiles naturally at the camera, wind softly moving her hair, her hand reaching toward the lens creating depth and a slightly blurred foreground for a DSLR effect.
+
+  Bottom panel: Playful pose, she leans sideways in the flowers, making a double peace sign, laughing candidly, capturing an authentic joyful moment.
+
+  Add cute, trendy white doodle overlays (smiley faces, sparkles, stars, tiny hearts) with a subtle animated/sketchy feel. Include light leaks, sun flares, and soft film grain for a premium Instagram aesthetic.
+
+  Ultra-realistic, 4K, cinematic lighting, shallow depth of field, high dynamic range, natural skin tones, editorial fashion photography, soft pastel color grading.
+
+  Aspect ratio: 4:5
+  Style tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, candid luxury

@@ -1,0 +1,25 @@
+id: gpt-image-rooftop-court-sunset-varsity-portrait
+title:
+  en: Woman in varsity jacket on rooftop court at sunset
+  zh: 屋顶球场日落下身穿棒球夹克的女生全身人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- rooftop
+- sunset
+- varsity-jacket
+- pose-direction
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2061313477696954522
+  credit: HaniaAi12
+  captured: '2026-10-28'
+  posted: '2026-06-01'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt fixes the pose in detail: weight on one leg, relaxed shoulders, one hand touching the jacket edge, body angled to the camera, direct gaze. A named location and golden hour light then set the scene, and the opening Ultra-realistic cue pushes the photographic finish.'
+  zh: 提示词把姿态写得很具体：重心落在一条腿上、肩膀放松、一只手轻触夹克边缘、身体微侧并直视镜头。再用明确的场景和日落金光定下氛围，开头的超写实关键词把画面推向摄影质感。
+prompt: |
+  Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.

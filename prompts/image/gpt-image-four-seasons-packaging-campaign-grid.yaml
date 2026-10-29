@@ -1,0 +1,30 @@
+id: gpt-image-four-seasons-packaging-campaign-grid
+title:
+  en: Four seasons packaging campaign in a 2x2 grid
+  zh: 四季包装宣传图 2x2 宫格
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- packaging
+- seasonal
+- grid
+- campaign
+- template
+source:
+  name: '@SRKDAN on X'
+  url: https://x.com/SRKDAN/status/2048582939504431195
+  credit: SRKDAN
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt splits the job into four numbered phases: product, grid layout, scene composition and consistency. Fixing one product silhouette while changing only the palette and props per quadrant keeps the set coherent, and the bracketed slots make it easy to reuse.'
+  zh: 提示词按产品、宫格、构图、一致性四个编号阶段拆分。锁定同一产品轮廓，只让每格的色调和道具变化，整组画面保持统一，方括号占位符便于替换复用。
+prompt: |
+  PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design
+  PHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds
+  PHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and environment
+  PHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes
+
+  Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]

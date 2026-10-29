@@ -4,7 +4,7 @@ title:
   zh: 任意角色的九张失败照片
 model: GPT Image 2.5
 mode: text-to-image
-category: realism
+category: collage
 tags:
 - grid
 - humor

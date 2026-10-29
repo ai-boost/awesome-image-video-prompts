@@ -1,0 +1,67 @@
+id: gpt-image-felt-diorama-country-miniature-world
+title:
+  en: Felt diorama miniature world of a country
+  zh: 羊毛毡国家微缩世界场景
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- felt-diorama
+- miniature
+- wool-texture
+- travel
+- template
+source:
+  name: '@volkan_iras on X'
+  url: https://x.com/volkan_iras/status/2051403524966141980
+  credit: volkan_iras
+  captured: '2026-10-28'
+  posted: '2026-05-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt splits the scene into foreground daily life, midground connecting flow and one background identity anchor, so the eye travels front to back through a single world. A country placeholder plus explicit rules against collage and clutter make it reusable for any nation.
+  zh: 提示词把画面拆成前景日常生活、中景连接路径和背景单一地标，视线由近及远贯穿同一个世界。国家名用占位符，并明确禁止拼贴和杂乱符号，可以直接换成任意国家。
+prompt: |
+  Country: [INSERT COUNTRY NAME]
+
+  A miniature felt diorama made of fluffy yarn, wool, and needlework, designed as a single cohesive small world (not a collage), reflecting the real landscape, culture, and daily life of the country.
+
+  Structure:
+  - Select 4–7 naturally integrated elements (landscape, architecture, transport, street life, culture)
+  - Everything must flow together as one environment
+
+  Foreground:
+  Everyday life — small shops, cafes, markets, people interacting, local clothing, street details, subtle movement, warm human presence
+
+  Midground:
+  Connecting flow — streets, bridges, rivers, paths, transport, cultural spaces that guide the eye naturally from front to back
+
+  Background:
+  One strong identity anchor — landmark, skyline, mountain, or symbolic landscape clearly representing the country (keep it clean, not overcrowded)
+
+  Style:
+  Handmade wool felt, yarn, needle-felt textures, visible fibers, soft edges, miniature craftsmanship, premium diorama realism
+
+  Lighting:
+  Warm golden hour or bright noon, soft shadows, clear visibility, gentle glow enhancing depth
+
+  Color:
+  Soft but saturated palette reflecting the country’s natural tones (greens, sky blues, architectural hues, cultural accents), warm and balanced
+
+  Composition:
+  Vertical frame, balanced or centered perspective, slight top-down or immersive angle, clear foreground–midground–background depth
+
+  Mood:
+  Warm, emotional, calm, refined — like a handcrafted fairy-tale version of real life (not childish)
+
+  Rules:
+  - No logos or text overlays
+  - No collage-style composition
+  - No random symbolic clutter
+  - Keep it realistic but stylized as a handmade miniature world
+
+  Quality:
+  16K, ultra-detailed, hyper-realistic miniature textures, cinematic depth, sharp focus
+
+  output_goal:
+  A single, cohesive felt diorama world that instantly conveys the identity and atmosphere of the chosen country through integrated landscape, culture, and daily life

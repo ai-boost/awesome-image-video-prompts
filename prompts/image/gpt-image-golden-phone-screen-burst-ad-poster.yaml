@@ -1,0 +1,33 @@
+id: gpt-image-golden-phone-screen-burst-ad-poster
+title:
+  en: Woman in orange bursting from golden phone
+  zh: 橙装女子冲破金色手机屏幕的广告海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- ad-poster
+- 3d-render
+- forced-perspective
+- social-media
+- orange-gold
+source:
+  name: '@you1873118 on X'
+  url: https://x.com/you1873118/status/2052624395932455061
+  credit: you1873118
+  captured: '2026-10-28'
+  posted: '2026-05-08'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Forced perspective pushes a sneaker sole toward the camera, and a wide angle lens with shallow depth of field sells the effect of stepping out of the screen. A strict orange, white and gold palette, floating 3D icons and a clean layout zone for typography and a QR code give it a finished ad poster structure. An uploaded face reference keeps the identity.
+  zh: 强制透视把鞋底推向镜头，广角畸变加浅景深强化冲出屏幕的效果。橙白金三色严格统一，配合漂浮的3D图标和为排版与二维码预留的干净区域，构成完整的广告海报结构，并用上传的人脸参考保持人物一致。
+prompt: |
+  动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。
+
+  构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。
+
+  明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。
+
+  超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。
+
+  宽高比：3:4。

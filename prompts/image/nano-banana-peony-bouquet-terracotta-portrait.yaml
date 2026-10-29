@@ -1,0 +1,109 @@
+id: nano-banana-peony-bouquet-terracotta-portrait
+title:
+  en: Woman Behind Oversized Peony Bouquet on Terracotta
+  zh: 赭红背景下手捧巨型芍药花束的女子
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- floral
+- fashion-editorial
+- identity-lock
+- golden-hour
+- studio-portrait
+source:
+  name: '@TheVirtualMuse on X'
+  url: https://x.com/TheVirtualMuse/status/2109224903732089215
+  credit: Areeba
+  likes: 90
+  captured: '2026-10-28'
+  posted: '2026-10-11'
+notes:
+  en: An identity lock block comes first and keeps the reference face intact. Then the bouquet is itemised flower by flower, the frame is placed in percentages, and the light is set with a named camera and lens.
+  zh: 开头用身份锁定段落保住参考图的面部特征，随后逐种列出花材，用百分比限定构图占比，并以具体相机镜头和光线方向定下质感。
+prompt: |
+  Using the uploaded reference image as the ONLY facial identity source, create an ultra-realistic, high-end luxury fashion editorial portrait featuring the exact same person holding an oversized, beautifully arranged floral bouquet.
+
+  MASTER IDENTITY LOCK (CRITICAL):
+
+  Preserve the reference person's facial identity with maximum possible accuracy. Maintain the exact facial structure, eye shape, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, and recognizable facial characteristics.
+
+  Retain authentic skin texture, visible pores, natural facial asymmetry, and realistic imperfections. No beautification, facial reconstruction, artificial skin smoothing, or identity changes.
+
+  SUBJECT & STYLING:
+
+  The woman stands elegantly against a warm, burnt-terracotta studio backdrop, wearing a luxurious oversized beige tailored blazer with structured shoulders, notched lapels, refined stitching, and realistic linen-wool fabric texture.
+
+  Her dark brown hair is styled in a voluminous, softly tousled side-parted bob with natural movement, individual flyaway strands, and realistic shine.
+
+  Minimal sophisticated makeup, softly defined eyebrows, natural eyelashes, subtle warm blush, and muted nude-pink lips.
+
+  Her expression is calm, intimate, and effortlessly confident, looking directly into the camera.
+
+  FLORAL ARRANGEMENT (CRITICAL):
+
+  She holds an enormous, luxurious asymmetrical bouquet covering most of her upper torso and partially concealing the left side of her face.
+
+  The arrangement features:
+
+  Large, fully bloomed coral-pink peonies with intricate layered petals and golden centers.
+
+  Three prominent ivory-white anthurium flowers with delicate veining, glossy sculptural petals, and pale cream spadices.
+
+  Smaller blush-pink peonies and unopened flower buds.
+
+  Delicate dried pink astilbe and soft peach botanical fillers.
+
+  Pale ivory blossoms scattered naturally throughout the arrangement.
+
+  Sculptural dried golden palm leaves extending upward between the flowers.
+
+  Every flower must display extraordinary botanical realism, natural petal translucency, delicate imperfections, and physically accurate textures.
+
+  The bouquet is wrapped in oversized, sculptural charcoal-black textured floral paper with dramatic angular folds, finished with a long, luxurious matte-black satin ribbon tied into an elegant bow.
+
+  POSE & COMPOSITION:
+
+  Vertical medium portrait, framed from the upper thighs to slightly above the head.
+
+  The subject stands slightly right of center, holding the bouquet naturally across her chest with both arms.
+
+  The bouquet dominates the left and central portions of the composition.
+
+  One large white anthurium partially overlaps her left eye and cheek, while her right eye remains clearly visible and sharply focused.
+
+  Her face emerges naturally from behind the flowers, creating an intimate, mysterious editorial composition.
+
+  The flowers occupy approximately 60% of the frame, with the subject's face positioned in the upper-right third.
+
+  LIGHTING & ATMOSPHERE:
+
+  Dramatic late-afternoon sunlight enters from the upper left, producing warm directional illumination across her face, blazer, and flowers.
+
+  Strong yet naturally softened shadows create beautiful dimensional contrast.
+
+  Distinct botanical shadows fall across her beige blazer and the terracotta wall behind her.
+
+  Rich burnt-orange background tones contrast elegantly with the ivory flowers, coral-pink peonies, beige tailoring, and deep-black bouquet wrapping.
+
+  Authentic golden-hour warmth, sophisticated editorial contrast, subtle film grain, natural highlight roll-off, and rich cinematic shadows.
+
+  CAMERA & IMAGE QUALITY:
+
+  Photographed as a real luxury fashion campaign using a Hasselblad X2D 100C medium-format camera with an 80mm portrait lens.
+
+  f/2.8 aperture, ISO 100, realistic optical depth of field, precise eye focus, beautifully resolved flower details, and subtle background softness.
+
+  Premium Vogue-inspired floral fashion photography, authentic medium-format rendering, refined luxury magazine color grading, extraordinary photographic detail, realistic dynamic range, and natural skin tones.
+
+  8K-quality appearance, exceptionally sharp where focused, physically accurate materials, realistic hands and fingers, and professional studio photography.
+
+  FINAL REQUIREMENTS:
+
+  The final result must look like an authentic photograph captured by a world-class fashion photographer, not an AI-generated image.
+
+  Preserve natural human anatomy, believable flower proportions, realistic shadows, and accurate fabric behavior.
+
+  No CGI, 3D rendering, illustration, plastic skin, excessive retouching, artificial HDR, oversaturation, distorted facial features, unnatural hands, duplicated flowers, text, logos, or watermarks.
+
+  Aspect Ratio: 9:16 vertical.

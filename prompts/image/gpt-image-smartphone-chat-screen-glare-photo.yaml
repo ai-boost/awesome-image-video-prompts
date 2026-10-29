@@ -1,0 +1,25 @@
+id: gpt-image-smartphone-chat-screen-glare-photo
+title:
+  en: Handheld Phone Photo of Boss Employee Chat
+  zh: 手持手机拍摄的老板员工聊天界面
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- smartphone-photo
+- chat-interface
+- screen-glare
+- handheld
+- realism
+source:
+  name: '@Gorden_Sun on X'
+  url: https://x.com/Gorden_Sun/status/2047178119854145562
+  credit: Gorden_Sun
+  captured: '2026-10-28'
+  posted: '2026-04-23'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: 'Stacks real-world imperfections onto the screen: fingerprints, scratches, glare from a direct light source, a tilted handheld frame and an off-center composition. The chat content is spelled out as a short scripted exchange with a document attachment, so the screen text stays coherent.'
+  zh: 把真实拍摄的瑕疵叠加到屏幕上：指纹划痕、直射光反光、倾斜的手持构图和不完美取景。对话内容写成带文档附件的简短剧本，让屏幕文字保持连贯。
+prompt: |
+  Generate an image, aspect ratio 3:4. A real-life smartphone photo, with the phone screen displaying a WeChat chat interface in Chinese dialogue, featuring chat bubbles and a Word document attachment. The interface has green and gray bubbles. The screen shows obvious fingerprints, smudges, and scratches. The glass has strong reflections and a direct light source creating glare. The frame is slightly tilted, handheld shot, natural ambient light, imperfect composition, strong sense of realism, casual everyday snapshot, high detail, 4K. The dialogue is between a boss and an employee: the employee sends a file to the boss, and the boss replies that they will take a look first.

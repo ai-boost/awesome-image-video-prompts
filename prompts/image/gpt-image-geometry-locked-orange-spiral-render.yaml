@@ -1,0 +1,25 @@
+id: gpt-image-geometry-locked-orange-spiral-render
+title:
+  en: Orange spiral sculpture studio render from geometry guide
+  zh: 依据几何参考图渲染的橙色螺旋雕塑棚拍图
+model: GPT Image 2.5
+mode: image-edit
+category: product
+tags:
+- product-render
+- geometry-guide
+- studio-lighting
+- 3d-sculpture
+- constraint-list
+source:
+  name: '@higgsfield on X'
+  url: https://x.com/higgsfield/status/2097514650518831462
+  credit: higgsfield
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: The prompt lists every geometric attribute to preserve (silhouette, coil count, handedness, pitch, pose, camera angle) and limits the edit to surface and lighting. A hex colour, a named light direction and a closing list of things to leave out keep the render clean.
+  zh: 提示词逐项列出要保持不变的几何属性（轮廓、圈数、旋向、螺距、姿态、机位），只允许修改表面和光照。再配合十六进制色值、明确的光源方向和结尾的禁止项清单，让渲染结果干净可控。
+prompt: |
+  Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.

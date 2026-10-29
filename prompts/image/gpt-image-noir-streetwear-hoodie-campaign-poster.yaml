@@ -1,0 +1,25 @@
+id: gpt-image-noir-streetwear-hoodie-campaign-poster
+title:
+  en: Dark streetwear hoodie campaign poster in wet alley
+  zh: 潮牌黑色卫衣暗调街头广告海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- streetwear
+- campaign
+- hoodie
+- brand-poster
+- dark-moody
+source:
+  name: '@Daniel_adsss on X'
+  url: https://x.com/Daniel_adsss/status/2048542581638701446
+  credit: Daniel_adsss
+  captured: '2026-10-28'
+  posted: '2026-04-26'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: One hero product, a named setting (wet concrete, low light, smoke) and a short headline give the model a clear focal point and text hierarchy. A restricted palette of deep black with grey accents, plus the instruction of no clutter and no collage, keeps the layout clean.
+  zh: 只设一个主角单品,再写明场景(湿混凝土、低光、烟雾)和简短标题,画面焦点与文字层级都清楚。限定黑灰配色并写明无杂物、无拼贴,版面因此干净。
+prompt: |
+  Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like "Wear the Dark." Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.

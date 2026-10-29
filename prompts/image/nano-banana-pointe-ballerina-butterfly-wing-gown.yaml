@@ -1,0 +1,31 @@
+id: nano-banana-pointe-ballerina-butterfly-wing-gown
+title:
+  en: Ballerina en pointe in butterfly wing gown
+  zh: 踮脚芭蕾舞者与蝶翼羽裙
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- ballet
+- avant-garde-fashion
+- butterfly
+- studio-lighting
+- template
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2109858986711240822
+  credit: Gilbert Odera | Your AI Plug
+  likes: 120
+  captured: '2026-10-28'
+  posted: '2026-10-13'
+notes:
+  en: A bracketed template fixes the subject, posture, materials and three colors, so one structure yields many gown variations. A dark stage floor with reflections and high contrast spotlighting makes the textures stand out.
+  zh: 用方括号模板固定主体、姿态、材质和三种配色，同一结构可以换出多种礼服变体。深色舞台地面的倒影加上高反差聚光灯，让羽毛和蝶翼的质感更突出。
+prompt: |
+  Full-body studio photograph of a [SUBJECT, e.g., female ballerina / model / dancer] poised in a graceful [POSTURE / ACTION, e.g., en pointe / reaching upward / mid-leap].
+
+  She wears an intricate, avant-garde outfit crafted from [PRIMARY MATERIAL / MOTIF, e.g., layered peacock feathers / butterfly wings / botanical petals] featuring [SECONDARY MATERIAL / DETAIL, e.g., delicate lace / fractal filigree / iridescent crystals].
+
+  The gown is designed in a striking color palette of [COLOR 1], [COLOR 2], and [COLOR 3] against a dark studio background with soft reflections on a dark stage floor. High-contrast dramatic spotlighting highlights fine textures and details.
+
+  📌Variable Guide attached below

@@ -1,0 +1,47 @@
+id: gpt-image-dance-motion-breakdown-grid-16
+title:
+  en: Sixteen panel grayscale dance move reference sheet
+  zh: 十六格灰度舞蹈动作分解参考表
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- reference-sheet
+- grayscale
+- 3d-character
+- motion-diagram
+- grid-layout
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2048614158699217302
+  credit: oggii_0
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt splits the sheet into labeled blocks for style, layout, character, per cell structure, arrows, rendering and negatives. Fixing each cell to a number badge, pose, caption and motion arrows keeps the sixteen panels consistent, and the reference image locks the same character in every cell.
+  zh: 提示词按风格、布局、角色、单格结构、箭头、渲染和负面词分块书写。每格固定为编号标题、姿势、说明文字和动作箭头，再用参考图锁定角色，十六格保持一致。
+prompt: |
+  [STYLE]
+  Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic.
+
+  [LAYOUT]
+  4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes.
+
+  [CHARACTER]
+  image1 (the same character appears consistently in all panels)
+
+  [PANEL STRUCTURE – per cell]
+  Top-left: bold number badge + English title text
+  Center: full-body character pose illustration
+  Bottom-left: English description text (3–4 lines)
+  Overlay: directional arrows indicating movement
+
+  [ARROWS / MOTION INDICATORS]
+  Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction.
+
+  [RENDERING STYLE]
+  Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality.
+
+  [NEGATIVE]
+  No background scenery, no color tones, no additional characters, no complex background.

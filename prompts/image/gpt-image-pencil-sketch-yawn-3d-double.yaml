@@ -1,0 +1,27 @@
+id: gpt-image-pencil-sketch-yawn-3d-double
+title:
+  en: Pixar style 3D figure before giant pencil yawning sketch
+  zh: 皮克斯风3D人物站在巨幅铅笔打哈欠素描前
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- pencil-sketch
+- pixar-style
+- 3d-render
+- double-exposure
+- photo-to-art
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2062567518389391540
+  credit: AIwithkhan
+  captured: '2026-10-28'
+  posted: '2026-06-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'Two stacked layers: a handdrawn pencil version of the reference photo as the backdrop, then a 3D render of the same subject standing in front of it. Contrasting the flat graphite medium with the soft lit 3D figure creates depth, and the 3:4 ratio is set in the prompt.'
+  zh: 分成两层描述：先把参考照片画成铅笔素描作背景，再加一个站在前面的3D渲染分身。平面石墨与柔光3D人物形成对比和层次，并在提示词里指定3:4比例。
+prompt: |
+  Create a handrawn pencil illustration of [image] yawning on paper, as background.
+
+  Add a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K resolution. 3:4 ratio

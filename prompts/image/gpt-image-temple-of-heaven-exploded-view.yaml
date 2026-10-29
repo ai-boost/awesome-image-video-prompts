@@ -1,0 +1,29 @@
+id: gpt-image-temple-of-heaven-exploded-view
+title:
+  en: Temple of Heaven Exploded Architecture Diagram
+  zh: 天坛建筑拆解图
+model: GPT Image 2
+mode: text-to-image
+category: architecture
+tags:
+- exploded-view
+- architecture
+- chinese-style
+- annotated
+- landmark
+source:
+  name: '@TanShilong on X'
+  url: https://x.com/TanShilong/status/2046524996013662380
+  credit: TanShilong
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Asking for an exploded view with detailed annotations makes the model separate the building into labeled layers, from base to roof, with side panels for details. Naming a cultural style such as Chinese aesthetic sets the paper tone, ink illustration and calligraphy headings.
+  zh: 要求拆解图并附详细说明，模型会把建筑从台基到屋顶分层标注，并配上细节侧栏。指定中式美学风格，则带出纸色底、水墨插画和书法标题。
+prompt: |
+  [中文]
+  生成一个天坛的建筑拆解图，有详细的说明，中式美学风格
+
+  [English]
+  Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style

@@ -1,0 +1,33 @@
+id: gpt-image-japanese-cafe-couple-dessert-scrapbook
+title:
+  en: Japanese couple sharing desserts in a cozy café
+  zh: 日系咖啡馆情侣分享甜点写真
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- cafe
+- couple
+- scrapbook
+- japanese
+- template
+source:
+  name: '@sha_zdiii on X'
+  url: https://x.com/sha_zdiii/status/2054047328420634927
+  credit: sha_zdiii
+  captured: '2026-10-28'
+  posted: '2026-05-12'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Bracketed slots for outfit, props, lighting, doodle ink and color theme turn one prompt into many variants. Layering blurred Japanese signage behind the couple and handwritten doodles around the frame gives an authentic photo plus scrapbook look.
+  zh: 用方括号槽位控制服装、道具、光线、涂鸦颜色和色调，一条提示词可以生成多种变体。背景虚化的日文招牌加上画面四周的手写涂鸦，营造出真实照片与手帐拼贴结合的效果。
+prompt: |
+  Ultra-realistic cozy Japanese-Korean café photography featuring a cute young [Japanese/Korean] couple sitting together naturally in a trendy aesthetic café. The young couple should look stylish and youthful, wearing [fashion style/outfit colors], smiling softly and enjoying desserts together.
+
+  The table is beautifully filled with [desserts/foods] such as pancakes, strawberry cakes, macarons, croissants, pastries, iced coffees, matcha lattes, fruit desserts, and aesthetic drinks arranged in a visually satisfying composition. Add small aesthetic café props like [flowers/ribbons/books/candles/pearls/notebooks] on the table for a premium Pinterest moodboard feel.
+
+  Soft [lighting style] lighting enters through the café windows creating dreamy highlights, creamy shadows, glossy reflections on drinks, and realistic dessert textures. Background should contain softly blurred [Japanese/Korean] signs, glowing café boards, handwritten Japanese text, neon typography, and aesthetic city café elements for an authentic Tokyo/Seoul vibe.
+
+  Add cute scrapbook-style doodles and handwritten notes around the image in [doodle color] ink — tiny hearts, stars, sparkles, ribbons, arrows, smiley sketches, bows, diary stickers, and handwritten café notes.
+
+  Color palette should focus on [color theme] tones. Style inspired by viral Pinterest café photography, Korean lifestyle aesthetics, Japanese cozy café culture, dreamy Gen-Z romance mood, shallow depth of field, cinematic composition, ultra realistic food textures, soft blurry background, ultra detailed realistic photography, clean aesthetic layout, 8k.

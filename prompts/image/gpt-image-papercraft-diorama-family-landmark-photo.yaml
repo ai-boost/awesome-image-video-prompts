@@ -1,0 +1,25 @@
+id: gpt-image-papercraft-diorama-family-landmark-photo
+title:
+  en: Papercraft diorama family portrait before a landmark gate
+  zh: 地标牌坊前的纸艺立体全家福
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- papercraft
+- diorama
+- style-transfer
+- family-photo
+- layered-paper
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2058383856055595158
+  credit: Emma
+  likes: 272
+  captured: '2026-10-28'
+  posted: '2026-05-24'
+notes:
+  en: Names one reference style, papercraft diorama, then specifies shapes, proportions, minimal faces (dot eyes, blush cheeks) and layered depth with shadows. The laser cut cardstock comparison fixes the edge quality and material feel.
+  zh: 先点明纸艺立体模型这一参考风格，再分别限定形状、角色比例、极简五官（圆点眼和腮红）以及带阴影的层叠纵深。激光切割卡纸的比喻锁定了边缘质感和材质。
+prompt: |
+  Convert this images into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.

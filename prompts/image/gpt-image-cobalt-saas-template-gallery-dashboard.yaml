@@ -1,0 +1,69 @@
+id: gpt-image-cobalt-saas-template-gallery-dashboard
+title:
+  en: Cobalt SaaS Dashboard with Template Gallery
+  zh: 钴蓝色SaaS仪表盘与模板画廊
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- dashboard
+- saas
+- web-ui
+- hex-palette
+- light-mode
+source:
+  name: Devault on GitHub
+  url: https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5/blob/main/docs/exclusive-web-1.md
+  credit: Devault
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+notes:
+  en: The prompt fixes the layout order from sidebar to metric cards, chart and card grid. It also gives each color an exact hex value and a role, and names one signature detail, a metrics row above dual buttons in every card, which keeps the long page consistent.
+  zh: 提示词按侧边栏、指标卡、图表和卡片网格的顺序固定版式，并为每个颜色指定精确色值和用途。再用一个标志性细节，即每张卡片里指标行加双按钮，让整张长页面保持一致。
+prompt: |
+  Design a light-mode web interface screen: crisp cobalt workspace balancing enterprise performance metrics with card-based template discovery.
+
+  LAYOUT
+  Structured fixed-width vertical sidebar navigation (approximately 240px wide) pinned to the left, paired with a dynamic fluid-width content canvas. The main pane begins with a global utility bar, descends into an executive header and search toolbar, flows into an analytics summary layer (5 metric cards above a split 2:1 chart and leaderboard section), and concludes with a responsive 3-column template gallery grid.
+
+  PALETTE (use these exact hex values)
+  - #F8F9FC — App Background: Global application page background surrounding sidebar and main content area
+  - #FFFFFF — Card Surface: Background for dashboard metric tiles, performance charts, and template cards
+  - #FFFFFF — Sidebar Surface: Vertical navigation container background separating controls from page content
+  - #1E6BFF — Cobalt Blue: Primary interactive color for action buttons, active navigation states, and primary trend lines
+  - #EBF2FE — Soft Blue Tint: Background for active pill filters, badge tags, and selected sidebar items
+  - #42C3EE — Cyan Accent: Secondary comparison line on charts and conversion rate badge accents
+  - #10B981 — Positive Green: Positive delta indicators, conversion trend percentages, and success status tags
+  - #0F172A — Text Primary: High-contrast headings, main metric values, and template titles
+  - #64748B — Text Secondary: Subheadings, axis labels, inactive navigation links, and microcopy descriptions
+  - #EEF2F6 — Card Border: Delicate containment line enclosing cards, input fields, and tab clusters
+
+  TYPOGRAPHY
+  Typeface Inter (or Plus Jakarta Sans,SF Pro Display,Roboto), weights 400/500/600/700. Sizes 11px caption, 12px body-sm, 14px body, 16px body-lg, 18px subheading, 20px heading, 24px heading-lg, 28px display. Tracking -0.02em at headings, 0 at body. Inter (or modern neo-grotesque alternatives like Plus Jakarta Sans) gives the dashboard an ultra-clean, technical precision without sacrificing readability. Tight tracking on large display metrics communicates data authority, while comfortable line heights on labels prevent eye fatigue in dense multi-metric cards. Free open-source alternatives like Inter from Google Fonts perfectly reproduce this aesthetic.
+
+  GEOMETRY & SPACING
+  Corner radii — cards 14px, links 6px, inputs 10px, buttons 8px. Spacing on a 8px unit, 20px gaps, 32px between sections, 1360px container, comfortable density.
+
+  DEPTH
+  Depth is handled predominantly through soft planar layering: a pale #F8F9FC background hosting pure white (#FFFFFF) panels bordered with crisp 1px strokes (#EEF2F6). True shadows are minimal, reserved for selected segmented tabs (0 1px 2px rgba(0,0,0,0.06)) and occasional subtle card hover states (0 8px 16px rgba(15,23,42,0.04)).
+
+  IMAGERY
+  Thumbnail imagery showcases scaled-down, pristine marketing landing pages with rounded hero sections, clean typography, and vibrant UI illustrations. Previews are enclosed in light containers mimicking actual viewport frames with delicate 1px borders. Never use uncurated, photographic stock art without an enclosing browser or mobile frame.
+
+  SIGNATURE DETAIL — the thing that makes this design itself
+  The dual-button action footer docked directly below a three-column micro-metrics summary inside each template card. This pairing of deep operational statistics with direct 'Preview' and 'Use Template' CTAs transforms standard gallery cards into actionable performance assets. Misusing it involves separating the metrics from the thumbnail or hiding the primary CTA inside a dropdown menu.
+
+  MUST
+  - Use solid white (#FFFFFF) for every data card against the cool #F8F9FC canvas background.
+  - Limit intense blue (#1E6BFF) to primary interactive buttons, active indicators, and hero line paths.
+  - Enclose thumbnail website screenshots in rounded 8px interior frames within template cards.
+  - Pair numeric labels with compact secondary metadata arranged in structured 3-column micro grids.
+
+  AVOID
+  - Do not use dark gray or black backgrounds for metric cards or chart panels.
+  - Do not drop thumbnail borders or shadows entirely, causing them to blend into the white card.
+  - Avoid colored backgrounds for the main canvas that stray outside cool, pale blue-tinted grays.
+  - Never use sharp 0px corners on input fields, buttons, or card surfaces.
+
+  OUTPUT
+  Render as a clean, pixel-crisp UI design at roughly 1280:3840. Flat vector rendering, real legible text, no browser chrome, no device mockup frame, no watermark, no lorem ipsum placeholder blocks.

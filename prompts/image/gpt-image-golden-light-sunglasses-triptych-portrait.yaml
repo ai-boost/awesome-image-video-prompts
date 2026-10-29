@@ -1,0 +1,25 @@
+id: gpt-image-golden-light-sunglasses-triptych-portrait
+title:
+  en: Golden Light Sunglasses Triptych Fashion Portrait
+  zh: 金色光线墨镜三联时尚人像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- triptych
+- fashion-editorial
+- golden-light
+- face-reference
+- macro-eye
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2065652906209284292
+  credit: Noor
+  likes: 271
+  captured: '2026-10-28'
+  posted: '2026-06-13'
+notes:
+  en: 'A 9:16 frame split into three panels, each with its own shot size: medium close-up, extreme eye macro, and close-up. A strict identity instruction for the face reference, plus warm window blind light, lens and aperture specs, and a negative list, keeps the look consistent across panels.'
+  zh: 把 9:16 画面分成三格，每格指定不同景别：中近景、眼部极致微距、特写。人脸参考的严格一致性指令，加上暖色百叶窗光线、镜头光圈参数和负面清单，让三格风格保持统一。
+prompt: |
+  Use the uploaded face reference as a strict identity guide and preserve exact facial features, proportions, skin tone, eye shape, nose, lips, jawline, and overall recognizable identity with very high accuracy. Create an ultra-realistic cinematic high-end fashion editorial vertical triptych portrait in 9:16 format divided into three horizontal panels featuring a young Asian woman with elegant feminine beauty, soft natural styling, luxury aesthetic, silver hoop earring, minimal jewelry, and softly voluminous dark ash-brown wavy hair. Panel 1: medium close-up three-quarter portrait wearing black sunglasses, hand near lips, calm introspective expression, warm golden sunlight through window blinds casting striped shadows, cinematic mood. Panel 2: extreme macro close-up of one eye with sunglasses lowered in foreground, highly detailed iris, lashes, moist reflections, cinematic depth, emotional intimate feel. Panel 3: close-up without sunglasses, head turned toward light, hand behind neck, relaxed lips, soft distant gaze, subtle emotional tension. Outfit: smoky taupe or muted beige tailored silk-viscose blouse, minimal elegant luxury fashion styling, realistic fabric texture. Lighting: warm golden cinematic sunlight, soft indoor blinds shadows, luxury editorial lighting, soft contrast, glowing skin highlights. Camera: DSLR ultra-realism, 85mm lens, f/1.4 shallow depth of field, sharp facial detail, natural skin texture, 8K quality. Color grading: warm golden tones, soft amber highlights, cinematic contrast, filmic glow, luxury finish. Negative: no anime, no CGI, no plastic skin, no over-smoothing, no face change, no distortion, no watermark, no text, no logo.

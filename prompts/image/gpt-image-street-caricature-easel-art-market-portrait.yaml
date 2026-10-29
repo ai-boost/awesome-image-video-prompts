@@ -1,0 +1,111 @@
+id: gpt-image-street-caricature-easel-art-market-portrait
+title:
+  en: Girl beside easel with her street caricature
+  zh: 女孩坐在画架旁，身边是她的街头漫画像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- caricature
+- street-art
+- easel
+- identity-reference
+- lifestyle
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2056061305640169643
+  credit: Emma
+  likes: 538
+  captured: '2026-10-28'
+  posted: '2026-05-17'
+notes:
+  en: The prompt locks identity to an uploaded portrait, then asks the caricature to exaggerate only a few real facial traits. Long negative lists rule out the default cute chibi face and tongue-out pose, and a shallow depth of field market scene keeps both the person and the drawing readable.
+  zh: 提示词以上传的人像锁定身份，并要求漫画只夸张少数真实面部特征。长串负面词排除了默认的可爱Q版脸和吐舌表情，浅景深的集市背景让真人与画作都清晰可读。
+prompt: |
+  Use the uploaded portrait as the identity reference for the subject’s face, hairstyle, facial structure, and overall impression.
+
+  Create a high-quality lifestyle editorial portrait of the same person sitting outdoors beside a wooden easel displaying a colorful street-style caricature portrait of them.
+
+  The real person and the caricature must clearly resemble the same individual.
+
+  Scene:
+  - the person is seated on a simple wooden folding chair
+  - beside them is a wooden easel holding a large caricature drawing
+  - the setting is a sentimental urban art market
+  - include illustration booths, handmade craft stalls, sketch displays, posters, cozy creative shopfronts, and a few softly blurred pedestrians
+  - lively but not crowded
+  - bright soft daylight, warm natural tones, shallow depth of field
+  - realistic photography for the person and environment
+  - vertical composition showing both the person and the caricature clearly
+
+  Subject:
+  - preserve the uploaded person’s recognizable identity
+  - natural pose
+  - calm, relaxed, slightly amused expression
+  - stylish casual outfit that suits the subject
+  - clean editorial lifestyle photography
+  - do not force the same pose or expression for every subject
+
+  Caricature direction:
+  - the drawing on the easel must be a true observational street caricature, not a generic cute cartoon
+  - the caricature artist should exaggerate the subject’s actual most recognizable facial traits
+
+  - analyze the uploaded face and exaggerate only 2–4 distinctive features, such as eye shape, eyebrows, nose, lips, cheeks, jawline, chin, ears, hairstyle, or facial proportions
+  - each caricature should feel custom-made for that specific person
+  - avoid using the same default cute face for every person
+  - avoid generic big eyes plus tongue-out expression
+  - the caricature should be funny because it captures the person’s unique features, not because it uses a random silly pose
+
+  Caricature style:
+  - oversized head with smaller simplified body
+  - playful but recognizable facial proportions
+  - bold hand-drawn marker lines
+  - quick sketchy pen strokes
+  - colored pencil texture
+  - lively street-artist energy
+  - humorous but flattering
+  - witty, expressive, and personality-driven
+  - charming handmade imperfections
+  - colorful accent doodles may be added, but keep the focus on the face
+
+  Expression in the caricature:
+  - choose a natural funny expression that fits the person’s facial character
+  - possible expressions: raised eyebrow, shy smile, surprised eyes, confident smirk, awkward polite smile, exaggerated calm face, pouty lips, confused cute face, or gentle blank stare
+  - the expression should vary depending on the subject
+  - do not always use a tongue-out face
+  - do not always use the same wide-eyed cute expression
+
+  Caricature canvas:
+  - large vertical drawing board or canvas on a wooden easel
+  - the caricature should be clearly visible and occupy a major part of the image
+  - it should immediately read as a funny street caricature
+  - it should be more exaggerated than a portrait sketch
+  - it should not look like a realistic fashion illustration
+  - it should not look like a polished beauty drawing
+
+  Important:
+  - the caricature must be custom to the uploaded person
+  - preserve recognizable identity through the exaggerated features
+  - prioritize personality, likeness, and humor over generic cuteness
+  - make the caricature feel like a real street artist observed the person and drew a witty exaggerated version
+
+  Negative prompt:
+  - no generic cute chibi face
+  - no repeated default caricature face
+  - no tongue-out pose
+  - no identical silly expression for every subject
+  - no random anime expression
+  - no realistic portrait sketch
+  - no polished fashion illustration
+  - no beauty sketch
+  - no weak exaggeration
+  - no scary grotesque distortion
+  - no ugly horror exaggeration
+  - no distorted anatomy of the real person
+  - no extra fingers
+  - no badly drawn hands
+  - no messy crowded background
+  - no text
+  - no watermark
+  - no Eiffel Tower
+  - no famous landmarks.

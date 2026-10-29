@@ -1,0 +1,35 @@
+id: gpt-image-travel-souvenir-enamel-pin-lake-scene
+title:
+  en: Mountain Lake Souvenir Enamel Pin Badge
+  zh: 山间湖泊旅行纪念珐琅徽章
+model: GPT Image 2
+mode: image-edit
+category: product
+tags:
+- enamel-pin
+- souvenir
+- landscape
+- gold-outline
+- product-design
+source:
+  name: '@Emmma__0 on X'
+  url: https://x.com/Emmma__0/status/2093194689222705645
+  credit: Emmma__0
+  captured: '2026-10-28'
+  posted: '2026-08-28'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt puts the landscape first and makes the person a small accent at true relative scale. It also says how to render skin, with light enamel and no facial features, and adds a negative list against black silhouettes. Gold outlines on every divider, a contour that follows the scene and a flat navy linen background make it read as a real pin.
+  zh: 提示词先确立地景为主体、人物只是按真实比例缩小的点缀，并写明肤色用浅色珐琅且不画五官，再用负面清单排除黑色剪影。每条分隔线都用金线勾边，外轮廓贴合场景，配平整的藏青亚麻底，成品像真实的徽章。
+prompt: |
+  Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object.
+
+  Subject hierarchy: the defining landscape, terrain or landmark of the photo forms the main body of the badge and occupies most of its area. If a person appears prominently in the photo, keep them in the badge as a small, simplified figure at true relative scale within that landscape — the person is an accent, the landscape is the subject. Preserve the original spatial relationship and scale between the figure and the surroundings.
+
+  How to render the person: flat enamel color blocks matching their real clothing and hair color from the photo. The face is a smooth plain area of light skin-tone enamel with no drawn facial features — do NOT render the person as a dark or black silhouette, and do NOT black out the face or head. Skin reads as a warm light enamel color, clearly lighter than the clothing.
+
+  Styling: thin polished gold outline around the silhouette and along every internal divider, glossy enamel color fill, gentle even lighting with only a soft sheen on the gold lines, very subtle drop shadow. Outer contour follows the scene's own shape, not a plain rectangle.
+
+  Background: flat dark navy coarse linen texture. Badge centered, filling about 60% of the frame.
+
+  Avoid: black silhouette figure, blacked-out face, dark featureless head, portrait close-up, detailed facial features, person dominating the badge, cropping out the landscape, three-quarter angle, macro product photography, heavy specular glare, cartoon, realistic scene, text, watermark.

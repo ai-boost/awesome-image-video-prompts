@@ -1,0 +1,25 @@
+id: gpt-image-photo-to-paper-illustration-editorial-split-poster
+title:
+  en: Photo above, minimalist paper illustration below, split poster
+  zh: 上半实景照片下半极简纸本插画的分栏海报
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- editorial-poster
+- photo-to-illustration
+- split-layout
+- paper-texture
+- minimalist
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2102972265541304823
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 248
+  captured: '2026-10-28'
+  posted: '2026-09-24'
+notes:
+  en: A strict 50/50 split keeps the original photo intact on top and redraws its key elements below as a tiny handmade illustration. The four color cap, the 10 to 20 percent size limit and the negative space keep it quiet, and the exclusion list rules out cartoon, watercolor and 3D looks.
+  zh: 严格的上下对半分栏，上半保留原照片，下半把主要元素重绘成小幅手作插画。四色上限、占比10%到20%的尺寸限制和大面积留白让画面安静克制，排除清单则避开卡通、水彩和3D质感。
+prompt: |
+  Create a high-end editorial poster using the uploaded photo as the exact reference, in a strict 3:4 vertical format divided horizontally into two equal 50/50 sections. Preserve the original photo faithfully in the top half, including subjects, identity, pose, clothing, objects, lighting, colors, and realistic texture, with only subtle premium editorial color grading. In the bottom half, reinterpret the most recognizable elements as a small, centered, minimalist handmade paper illustration using delicate imperfect lines, bold flat acrylic-like color shapes, subtle paper grain, organic edges, and no more than 4 colors extracted from the original photo. Keep the illustration only 10–20% of the bottom section with lots of warm off-white negative space and optional minimal editorial typography. The overall result should feel quiet, poetic, refined, artistic, premium, and like an independent art-book cover, avoiding cartoon, watercolor, colored-pencil, 3D, glossy, busy, or commercial aesthetics.

@@ -1,0 +1,139 @@
+id: gpt-image-golden-hour-newsstand-editorial-portrait
+title:
+  en: Blonde woman on folding chair at newsstand
+  zh: 报刊亭前折叠椅上的金发女孩
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- json-prompt
+- street-fashion
+- golden-hour
+- editorial
+- newsstand
+source:
+  name: '@SadiaMalik182 on X'
+  url: https://x.com/SadiaMalik182/status/2081611030019572178
+  credit: Sadia
+  likes: 227
+  captured: '2026-10-28'
+  posted: '2026-07-27'
+notes:
+  en: A structured JSON prompt splits style, camera, location, subject, wardrobe, pose and lighting into labelled blocks, so each element is controlled separately. Real camera and lens settings plus Kodak Portra grading anchor the golden hour editorial look.
+  zh: 用结构化 JSON 把风格、相机、场景、人物、服装、姿势和光线拆成独立模块，每个要素都可单独控制。真实的相机镜头参数加柯达 Portra 调色，让黄金时刻的杂志感更稳定。
+prompt: |
+  "category": "Luxury Street Fashion Editorial Portrait",
+    "style": {
+      "genre": "Editorial Lifestyle Photography",
+      "aesthetic": "Vintage Newsstand × Vogue Editorial × European Street Style × Pinterest Aesthetic × Gen-Z Fashion",
+      "quality": "Ultra Photorealistic",
+      "resolution": "4096×2304 (4K UHD)",
+      "aspect_ratio": "16:9",
+      "render_engine": "Octane Render / Unreal Engine 5 / Redshift",
+      "editorial_reference": [
+        "Vogue",
+        "Zara",
+        "Urban Outfitters",
+        "Free People",
+        "COS",
+        "Pinterest Editorial"
+      ],
+      "mood": [
+        "Golden Hour",
+        "Warm",
+        "Relaxed",
+        "Vintage",
+        "Editorial",
+        "Natural",
+        "Authentic"
+      ]
+    },
+    "camera": {
+      "camera": "Sony A7R V",
+      "lens": "85mm f/1.4 GM",
+      "orientation": "Landscape",
+      "angle": "Eye Level",
+      "aperture": "f/2.0",
+      "iso": 100,
+      "shutter_speed": "1/640s",
+      "focus": "Eyes",
+      "depth_of_field": "Cinematic Shallow",
+      "sharpness": "Ultra Detailed"
+    },
+    "location": {
+      "type": "Vintage Outdoor Newspaper & Magazine Stand",
+      "environment": {
+        "newsstand": true,
+        "magazine_display": true,
+        "newspaper_stacks": true,
+        "bookstall": true,
+        "city_sidewalk": true,
+        "urban_news_kiosk": true,
+        "authentic_street_environment": true
+      }
+    },
+    "subject": {
+      "gender": "Female",
+      "age": "Early 20s",
+      "appearance": {
+        "skin": "Natural Fair Skin",
+        "expression": "Calm Editorial Expression",
+        "eye_contact": "Direct Camera",
+        "makeup": {
+          "style": "Natural Minimal",
+          "skin_finish": "Soft Matte Glow",
+          "lips": "Natural Nude",
+          "eyes": "Soft Brown"
+        }
+      },
+      "hair": {
+        "style": "Messy Blonde Bun or Short Wavy Blonde Hair",
+        "movement": "Light Breeze"
+      }
+    },
+    "wardrobe": {
+      "top": {
+        "type": "Oversized White Graphic Sweatshirt",
+        "fabric": "Premium Cotton",
+        "fit": "Relaxed Oversized"
+      },
+      "bottom": {
+        "type": "Red Athletic Shorts"
+      },
+      "socks": "White Ribbed Crew Socks",
+      "shoes": "Black Chunky Sneakers"
+    },
+    "pose": {
+      "position": "Relaxed Sitting On Folding Chair",
+      "body_angle": "Three Quarter",
+      "editorial": true
+    },
+    "lighting": {
+      "time": "Golden Hour",
+      "key_light": "Warm Natural Sunlight",
+      "rim_light": "Golden Rim Light",
+      "cinematic": true
+    },
+    "post_processing": {
+      "hdr": true,
+      "ray_tracing": true,
+      "global_illumination": true,
+      "clarity": "Ultra",
+      "color_grading": "Kodak Portra 400",
+      "film_grain": "Subtle"
+    },
+    "negative_prompt": [
+      "low quality",
+      "blur",
+      "noise",
+      "bad anatomy",
+      "extra fingers",
+      "duplicate person",
+      "watermark",
+      "logo",
+      "text artifacts",
+      "CGI look",
+      "cartoon",
+      "anime"
+    ]
+  }

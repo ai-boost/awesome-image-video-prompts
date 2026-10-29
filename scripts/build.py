@@ -15,19 +15,23 @@ MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 4
 # Image sections by use case, in display order.
 CATEGORIES = {
     "poster": {"en": "Posters and editorial layouts", "zh": "海报与编辑排版"},
-    "photo-to-art": {"en": "Photo to art", "zh": "照片转艺术风格"},
+    "infographic": {"en": "Infographics and slides", "zh": "信息图与幻灯片"},
+    "ui-mockup": {"en": "Phone and UI mockups", "zh": "手机与界面截图"},
+    "product": {"en": "Product shots and e-commerce", "zh": "产品图与电商"},
+    "brand": {"en": "Logos, ads and packaging", "zh": "标志、广告与包装"},
     "realism": {"en": "Photo realism", "zh": "写实照片"},
     "portrait": {"en": "Portraits", "zh": "人像"},
+    "character": {"en": "Characters and figures", "zh": "角色与手办"},
     "illustration": {"en": "Illustration", "zh": "插画"},
-    "ui-mockup": {"en": "Phone and UI mockups", "zh": "手机与界面截图"},
+    "comic": {"en": "Comics and storyboards", "zh": "漫画与分镜"},
+    "photo-to-art": {"en": "Photo to art", "zh": "照片转艺术风格"},
+    "architecture": {"en": "Architecture and interiors", "zh": "建筑与室内"},
     "map": {"en": "Maps", "zh": "地图"},
     "collage": {"en": "Collage", "zh": "拼贴"},
-    "infographic": {"en": "Infographics and slides", "zh": "信息图与幻灯片"},
-    "brand": {"en": "Logos, ads and packaging", "zh": "标志、广告与包装"},
     "edit": {"en": "Photo editing", "zh": "照片编辑"},
 }
 # The README shows the most-liked TOP entries of each section; pages/<lang>/ holds every entry of every section.
-TOP = 6
+TOP = 4
 RECENT = 12  # newest entries listed near the top of the README
 PAGE_BYTES = 350_000
 SHOWCASE = ["seedance-seoul-subway-revenge", "wan-time-space-train", "h3-starship-hyperspace-jump", "omni-four-style-progression",

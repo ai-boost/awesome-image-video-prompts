@@ -1,0 +1,25 @@
+id: gpt-image-paper-cutout-rabbit-mail-carrier
+title:
+  en: Paper cut-out rabbit mail carrier walking on grass
+  zh: 纸雕风格的兔子邮差走在草地上
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- paper-cutout
+- storybook
+- stop-motion
+- character
+- template
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2084594642507776470
+  credit: Sharon Riley
+  likes: 178
+  captured: '2026-10-28'
+  posted: '2026-08-03'
+notes:
+  en: 'A style-first template with a [subject] slot: layered paper shapes, visible cut edges and soft shadows between layers give a handmade depth. Flat paper colors, a plain white background and a simple readable action keep the character clear.'
+  zh: 以风格为先的模板，留有 [subject] 占位：分层纸片、可见切边和层间柔和阴影营造手工层次感。平涂纸色、纯白背景和简单易读的动作让角色一目了然。
+prompt: |
+  Paper cut-out animation style, [subject], full body character shot, layered paper shapes, handmade paper texture, visible cut edges, soft shadow between layers, simple readable action, charming storybook character design, flat paper colors, slightly imperfect handcrafted details, paper collage background, minimal folk tale scenery, gentle stop-motion animation feel, poetic children’s story atmosphere, clean white background with simple paper elements.

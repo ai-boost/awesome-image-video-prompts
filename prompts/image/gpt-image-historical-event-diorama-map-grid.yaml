@@ -1,0 +1,34 @@
+id: gpt-image-historical-event-diorama-map-grid
+title:
+  en: Four Historical Events as Diorama Map Infographics
+  zh: 四大历史事件的立体沙盘地图信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- historical-events
+- diorama
+- infographic
+- 2x2-grid
+- newspaper
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2057277698607599692
+  credit: Gdgtify
+  captured: '2026-10-28'
+  posted: '2026-05-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A weighted Render_Target formula adds and subtracts style elements with numeric multipliers, and square bracket placeholders for event, city, role and era make it reusable. The negative terms remove clock gears, anachronisms and flat timelines.
+  zh: 用带数值权重的 Render_Target 公式做加减，方括号占位符可替换事件、城市、角色和年代，使其可复用。负项排除了时钟齿轮、年代错位道具和平面时间线。
+prompt: |
+  2x2 grid, 16:9, do this for 4 famous historical events:
+
+  Render_Target =
+    ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 )
+    + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 )
+    + ( Period-Accurate_Studio_Background_With_[ERA]_Artifacts * 1.0 )
+    + ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 )
+    - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 )
+    - ( Anachronistic_Props_From_Wrong_Decade / 2.5 )
+    - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )

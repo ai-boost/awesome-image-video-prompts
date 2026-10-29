@@ -1,0 +1,27 @@
+id: nano-banana-iphone-closeup-beanie-sunglasses-puffer
+title:
+  en: Smartphone closeup of woman in beanie and sunglasses
+  zh: 戴毛线帽和墨镜的女生手机近景照
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- smartphone-photo
+- close-up
+- beanie
+- sunglasses
+- soft-lighting
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2107694579764113701
+  credit: Weinberg
+  likes: 61
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+notes:
+  en: The prompt names a real phone camera spec (24 mm equivalent, f/1.8) and a mild smartphone blur to lock the look. Explicit placement rules for the beanie, collar and earphone cable keep the face visible, and the lighting is described as diffused overhead LED with natural skin texture.
+  zh: 提示词写明真实手机镜头参数（24 毫米等效焦距、f/1.8）和轻微的手机式虚化，锁定手机直出的质感。对毛线帽、领口和耳机线的位置逐一限定，确保脸部不被遮挡，光线则描述为柔和的顶部 LED 漫射光，并保留自然肤质。
+prompt: |
+  straight-on eye-level close-up photograph of a young woman, face clearly visible, captured on a recent iPhone main camera at its native 24 mm equivalent, f/1.8, with natural perspective and no wide-angle distortion. Focus is locked on her face and accessories; the background falls into a mild, realistic smartphone blur.
+  She wears a black ribbed knit beanie sitting normally on her head, not covering her eyes or face, large reflective black sunglasses, and white wired Apple earphones with the cable running down in front of her jacket. Her white puffer jacket is worn open at the collar, not pulled up, so her jaw, mouth, and lower face remain fully visible beneath the sunglasses. A small black embroidered Nike swoosh sits on the left shoulder. The quilted synthetic fabric shows soft volume and fine texture.
+  The setting is a brightly lit industrial interior with a high cream-colored ceiling and out-of-focus glossy metallic panels or photographic posters behind her. Lighting is large soft overhead ambient, even and slightly cool, like diffused LED panels: gentle fill from above and the front, soft shadows under the chin and beanie brim, and faint specular highlights on the sunglasses and the jacket’s nylon shell. Exposure is clean and slightly bright, true-to-life color, moderate computational sharpening, natural skin texture, no heavy noise or plastic skin. Mood is urban, practical, and quietly anonymous. Photorealistic smartphone photograph.

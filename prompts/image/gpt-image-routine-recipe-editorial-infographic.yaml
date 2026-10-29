@@ -1,0 +1,25 @@
+id: gpt-image-routine-recipe-editorial-infographic
+title:
+  en: Morning routine recipe editorial infographic
+  zh: 晨间习惯食谱式编辑风信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- editorial
+- routine
+- template
+- glassmorphism
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2047683043918311670
+  credit: TechieSA
+  likes: 460
+  captured: '2026-10-28'
+  posted: '2026-04-23'
+notes:
+  en: 'A single template with a [ROUTINE] placeholder specifies each section in turn: hero objects, a What You Need list with quantities, numbered glassmorphism step panels, and floating stat pills. Warm cream palette, negative space and grain keep the dense layout readable.'
+  zh: 用 [ROUTINE] 占位符做成通用模板，依次规定主视觉物件、带用量的所需清单、编号毛玻璃步骤卡片和悬浮数据胶囊。奶油暖色调、留白与纸张颗粒让密集排版依然清晰。
+prompt: |
+  “Ultra-clean modern editorial infographic on the topic of [ROUTINE] routine. Hero visual: a stylized flat-lay or floating arrangement of 3–4 objects closely associated with the routine — slightly angled or in soft perspective, glowing subtly. All elements arranged dynamically around the hero in a non-restrictive editorial layout. Ingredients Section: Label it ‘What You Need’ — include 6–8 items with small icons or emoji illustrations next to each. Each item has a name and a practical quantity or duration written like a recipe (e.g. ‘x minutes of Y’). Arranged in a cluster or list connected visually to the hero. Steps Section: 5–6 numbered panels with arrows or connecting lines forming a logical flow. Each step has a short action label and a small relevant icon. Panels use glassmorphism or frosted card styling. Stats Badges: 4–5 floating pill-shaped badges showing relevant metadata — total time, difficulty, consistency streak, energy cost — displayed as clean minimal bubbles near the hero. Visual Style: Warm, soft editorial background — cream, warm white, or soft morning light tones. Muted earthy accent colors with clean highlights. Bold modern sans-serif typography. Clean vector icons. Subtle grain or paper texture in background. Composition: Hero object cluster centered or slightly offset. Ingredients on one side. Steps flow opposite or below with connecting lines. Stat badges scattered as floating pills. Generous negative space to keep it airy and readable. Lighting: Soft warm natural light feel emanating from the hero cluster. Premium lifestyle editorial aesthetic, social-feed optimized. Ultra-crisp. No watermark.”

@@ -1,0 +1,28 @@
+id: nano-banana-blue-haze-hoodie-studio-portrait
+title:
+  en: Cinematic blue haze studio portrait in dark hoodie
+  zh: 深蓝雾气影棚中的深色连帽衫电影感肖像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- cinematic
+- studio-lighting
+- photorealistic
+- negative-prompt
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2108109236555403768
+  credit: Emma
+  likes: 102
+  captured: '2026-10-28'
+  posted: '2026-10-08'
+notes:
+  en: A symmetrical medium close-up with cool blue edge light against one warm orange glow in the background gives the cinematic colour contrast. Skin imperfections, an 85mm lens look and a negative prompt against plastic skin and HDR keep the face realistic.
+  zh: 对称的中近景构图,边缘冷蓝光配背景一侧的暖橙光,形成电影感色彩对比。皮肤瑕疵、85mm 镜头感,再加上排除塑料皮肤和过度 HDR 的负面提示,让人脸保持真实。
+prompt: |
+  Create a highly photorealistic cinematic portrait of a person standing centered and facing the camera with a calm, serious expression. Natural facial proportions, realistic skin texture, detailed eyes, subtle skin imperfections, and naturally styled hair. The subject wears a simple oversized dark hoodie with a minimal light-colored shirt visible underneath.
+  Use a symmetrical composition with the subject occupying the central portion of the frame, medium close-up framing, and a clean professional presentation. The background is a dark deep-blue studio environment with atmospheric haze and subtle volumetric fog. Add cool blue lighting around the edges of the subject and a soft warm orange glow in the distant background on one side, creating a cinematic color contrast.
+  Dramatic but natural studio lighting, soft directional key light, subtle rim lighting, realistic shadows, controlled highlights, shallow depth of field, smooth background falloff, premium editorial photography, modern cinematic aesthetic, high contrast, realistic colors, detailed clothing texture, realistic hair and skin, professional camera photography, 85mm lens look, crisp focus, subtle film grain, ultra-photorealistic, highly detailed, 8K quality.
+  Negative prompt: cartoon, illustration, CGI, plastic skin, excessive HDR, oversharpening, distorted face, unnatural anatomy, extra limbs, blurry subject, low resolution, artificial skin, text, logo, watermark.

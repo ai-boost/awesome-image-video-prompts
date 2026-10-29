@@ -1,0 +1,28 @@
+id: gpt-image-porto-mid-century-travel-poster
+title:
+  en: Mid-century isometric travel poster of Porto
+  zh: 波尔图中世纪风格等距旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- mid-century
+- isometric
+- screen-print
+- template
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2053523890744545437
+  credit: Goodmanprotocol
+  captured: '2026-10-28'
+  posted: '2026-05-10'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A strict three color palette of cream, black linework and one flat accent color keeps the screen print look coherent. Bracketed city, landmark and color slots make it reusable, and the bold top title with a smaller local name line sets the poster hierarchy.
+  zh: 严格限定奶油色、黑色线稿加一种平涂强调色的三色调色板，让丝网印刷质感保持统一。城市、地标和颜色用括号占位，方便复用，顶部粗体标题加下方小号本地语言名称确定了海报的文字层级。
+prompt: |
+  Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
+  Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-print texture.
+  Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients.
+  Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.

@@ -1,0 +1,35 @@
+id: gpt-image-digicam-lcd-nostalgic-portrait-comic-shelf
+title:
+  en: Nostalgic 2012 digicam screen portrait beside comic shelf
+  zh: 数码相机屏幕里的2012年漫画书架旁怀旧人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- digicam
+- nostalgic
+- flash-photography
+- candid-portrait
+- camera-ui
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2055876982630686956
+  credit: Ciri_ai
+  captured: '2026-10-28'
+  posted: '2026-05-17'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt nests a photo inside a photo: a close-up of the LCD, with a candid early 2010s snapshot displayed on it. Harsh direct flash, grain and motion blur, plus UI overlays such as a timestamp, exposure data and a battery icon, make it read as a real digicam capture.'
+  zh: 提示词采用画中画结构：先拍相机LCD屏幕特写，再在屏幕里呈现2010年代初的抓拍照片。直闪、颗粒、动态模糊，加上时间戳、曝光参数和电池图标等界面元素，让画面像真实的数码相机成像。
+prompt: |
+  A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+
+  She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+
+  The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+
+  Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+
+  The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+
+  Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.

@@ -1,0 +1,25 @@
+id: gpt-image-clay-skateboard-cat-animation-loop
+title:
+  en: Clay cat skateboard animation loop frames
+  zh: 黏土滑板猫动画循环帧
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- clay
+- stop-motion
+- cat
+- skateboard
+- loop
+source:
+  name: '@nett0eth on X'
+  url: https://x.com/nett0eth/status/2097683441298944340
+  credit: nett0eth
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: The prompt lists the full action sequence from ride to flip to landing so the frames form a loop. Strict framing rules cover a solid background, uncropped limbs and only a faint ground shadow, and asking for choppy handmade motion keeps the plasticine look instead of smooth CGI.
+  zh: 提示词按顺序写出滑行、蹲、跳、翻板、接板、落地的完整动作，让帧序列首尾相接。画面规则很具体：纯色背景、四肢不裁切、只留淡淡地面阴影，再要求手工感的顿挫动作，避免滑向平滑的 CGI 质感。
+prompt: |
+  Create a 24-frame clay stop-motion loop of an orange-and-white cat riding a skateboard. Handmade plasticine texture, black pixel sunglasses, studded collar, cigarette in mouth. The cat rides, crouches, pops, jumps, flips the board, catches it, lands and loops back. Square 1:1, solid off-white background, full character always visible, no cropped ears/tail/skate, no frame leakage, only a subtle horizontal ground shadow. Slightly choppy handcrafted motion, not smooth CGI.

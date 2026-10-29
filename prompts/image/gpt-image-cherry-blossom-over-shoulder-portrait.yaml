@@ -1,0 +1,41 @@
+id: gpt-image-cherry-blossom-over-shoulder-portrait
+title:
+  en: Cherry blossom path over the shoulder portrait
+  zh: 樱花小径回眸电影感人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- cherry-blossom
+- portrait
+- cinematic
+- 85mm
+- json-prompt
+source:
+  name: '@SheBuildsAI_ on X'
+  url: https://x.com/SheBuildsAI_/status/2092431090095149533
+  credit: SheBuildsAI_
+  captured: '2026-10-28'
+  posted: '2026-08-26'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt is split into JSON fields for scene, subject, detail, lighting and composition, so each layer can be tuned on its own. An 85mm lens, shallow depth of field and backlit petals in volumetric haze give the cinematic editorial look.
+  zh: 提示词用 JSON 字段把场景、主体、细节、光线和构图分开，方便逐层调整。85mm 镜头、浅景深和逆光花瓣加体积雾，营造出电影感的杂志人像。
+prompt: |
+  {
+    "title": "WHISPERS OF SPRING",
+
+    "scene": "A peaceful pathway beneath blooming cherry blossom trees during a warm spring afternoon. Pink blossoms fill the canopy overhead while delicate petals drift gracefully through the air. Soft sunlight filters through the branches, creating a dreamy and enchanting atmosphere.",
+
+    "subject": "A young woman walks away from the camera before gently turning her head over her shoulder with a soft, mysterious smile. She wears a flowing natural linen dress that moves gracefully with the breeze, highlighting her delicate facial features and effortless elegance.",
+
+    "detail": "Wind carries countless pink cherry blossom petals across the frame while warm sunlight creates glowing highlights throughout the scene. Every strand of hair moves naturally in the breeze, with ultra realistic skin texture, lifelike fabric folds, soft floral surroundings, and subtle atmospheric haze enhancing the cinematic realism.",
+
+    "atmosphere": "Elegant, peaceful, romantic, dreamy, timeless, cinematic, graceful, and enchanting.",
+
+    "lighting": "Warm spring sunlight filtering through cherry blossom branches, soft natural illumination, glowing highlights, volumetric light rays, gentle ambient shadows, and subtle atmospheric haze.",
+
+    "composition": "Cinematic editorial portrait captured with an 85mm lens, featuring the subject in a three-quarter over-the-shoulder pose. Shallow depth of field, creamy bokeh, balanced framing with flowering trees, soft leading lines, and immersive visual storytelling.",
+
+    "style": "Photorealistic, masterpiece, editorial fashion photography, analog film aesthetic, dreamy pastel color palette, ultra realistic skin texture, highly detailed, shallow depth of field, creamy bokeh, atmospheric haze, HDR, cinematic realism, 8K."
+  }

@@ -1,0 +1,25 @@
+id: gpt-image-black-white-profile-typographic-poster
+title:
+  en: Black and white typographic profile portrait poster
+  zh: 黑白文字排版侧脸肖像海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- typography
+- black-and-white
+- side-profile
+- editorial
+- ink-texture
+source:
+  name: '@HustleXR on X'
+  url: https://x.com/HustleXR/status/2093206386012230000
+  credit: HustleXR
+  captured: '2026-10-28'
+  posted: '2026-08-28'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The portrait is built from bold silhouette blocks and rough ink edges, with the main text placed only inside the neck and body so the lettering fuses with the figure. Placeholders for subject, feature, text and logo make it a reusable template.
+  zh: 用粗黑剪影块面和粗糙墨迹边缘构成肖像，主文字只放进脖颈和身体区域，与人物融为一体。主体、特征、文字和标志都用占位符，可以直接套用。
+prompt: |
+  High-contrast black and white typographic portrait poster of [HUMAN], shown in side profile with [FEATURE]. Build the portrait with bold black silhouette blocks, sharp negative space, rough ink edges, fragmented stencil shapes, tiny editorial microtext, vertical typographic accents and expressive hand-drawn calligraphic marks. Integrate one large readable text block saying “[TEXT]” in 2 to 4 stacked lines, placed only inside the neck and body area, using oversized scribbled lettering that feels fused into the silhouette. Include a graphic design logo reading “[LOGO]” near the footer. Minimal off-white paper background, asymmetrical layout, cropped vertical composition, experimental editorial poster design, raw ink print texture, aspect ratio 4:5.

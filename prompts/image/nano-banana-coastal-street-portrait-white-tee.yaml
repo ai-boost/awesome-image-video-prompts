@@ -1,0 +1,25 @@
+id: nano-banana-coastal-street-portrait-white-tee
+title:
+  en: Man in white tee on coastal street
+  zh: 海滨街头白T男士写实肖像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- street-portrait
+- male-model
+- overcast
+- camera-settings
+- coastal
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2110646359300649048
+  credit: Picts by AI
+  likes: 59
+  captured: '2026-10-28'
+  posted: '2026-10-15'
+notes:
+  en: The prompt describes pose, hair, clothing and hand placement in detail, then layers background depth, a cool overcast palette and diffuse light. It ends with exact camera settings (35mm, f/8, 1/250s, ISO 200) and a 3:4 frame for a deep-focus street look.
+  zh: 提示词先细致描写姿势、发型、服饰和手部位置，再叠加背景纵深、冷调阴天色板与柔和漫射光。结尾给出精确的相机参数（35mm、f/8、1/250s、ISO 200）和3:4画幅，得到深景深的街拍效果。
+prompt: |
+  A young male adult stands asymmetrically placed with a serious, posed expression, his relaxed eyebrows set above eyes that gaze away into the distance, his mouth closed without a hint of a smile. His hair features a medium-length top of about four inches, parted deeply on the left and brushed back with a natural texture that reveals a slight wave and delicate flyaways, styled with glossy pomade for a distinctive wet look. He is dressed in a crisp white tee with sunglasses casually hanging from the neckline, paired with beige trousers and a silver watch secured on his left wrist. His body is turned at a 45-degree angle, shifting his weight to lean leftward with level shoulders as his left hand rests organically on his front waistband, thumb casually hooked with fingers visible, while his right hand lightly grips the trouser fabric on the opposite side. He leans against a worn, gray metal traffic pole with a dull finish and attached sensors in the right foreground, anchoring the composition. The scene unfolds into a deep, straight-on spatial depth, leading the eye down a beige-gray checkered concrete sidewalk that curves leftward alongside a coastal road. In the left midground, a relaxed European street vibe is established by cafe tables and chairs. To the right, thriving palm trees stretch upward with tall trunks and dark olive green fronds. The calm mood is defined by a cool, overcast, desaturated palette dominated by the cool gray of the sky and road, harmonizing with neutral earth tones. Single-source, softly diffused natural light falls from above, yielding low-contrast illumination with a cool blue temperature that casts short, soft-edged gray shadows under the subject and behind the pole, while preserving gentle specular highlights on his shoulders and forehead. Captured as a realistic digital street portrait using a 35mm lens at f/8.0, 1/250s, and ISO 200, the image employs a deep depth of field to keep the sweeping background sharply in focus. The final aesthetic features smooth textures, slightly soft overall sharpness with zero grain, and a desaturated cool-tone color grade, all beautifully framed in a 3:4 aspect ratio.

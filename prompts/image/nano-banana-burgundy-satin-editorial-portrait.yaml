@@ -1,0 +1,35 @@
+id: nano-banana-burgundy-satin-editorial-portrait
+title:
+  en: Editorial portrait in burgundy satin with gold earrings
+  zh: 酒红缎面高定与金色耳饰的时尚人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- editorial
+- fashion
+- portrait
+- satin
+- studio-lighting
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2109630710642528421
+  credit: Eesha
+  likes: 110
+  captured: '2026-10-28'
+  posted: '2026-10-12'
+notes:
+  en: The prompt is built in labeled blocks for face, hair and outfit, pose, background, lighting and photography style. Specific lens, lighting and skin texture terms (85mm, softbox, pores, champagne highlight) steer it toward a believable magazine look.
+  zh: 提示词按面部、发型服装、姿势、背景、光线和摄影风格分块书写，结构清晰。85mm、柔光箱、毛孔与香槟色高光等具体镜头、光线和皮肤质感词，让画面接近真实杂志大片。
+prompt: |
+  Create an ultra-realistic, high-fashion editorial portrait of a stunning adult woman with striking blue-grey eyes, naturally full lips with glossy coral-red lipstick, defined eyebrows, sharp black winged eyeliner, long eyelashes, subtle freckles, and luminous dewy skin with realistic pores and a soft champagne highlight.
+
+  Her sleek, jet-black hair is neatly center-parted and pulled back into a long, straight, low ponytail. She wears an elegant deep burgundy satin couture dress featuring an exaggerated sculptural high collar, dramatic draped fabric, and an asymmetrical sleeveless design. Large, polished gold geometric statement earrings complete the luxurious look.
+
+  Pose: Three-quarter over-the-shoulder pose, body turned away from the camera while her face looks directly toward the viewer, with a confident, elegant, slightly mysterious expression.
+
+  Background: Minimalist muted sage-green and turquoise studio backdrop with soft, atmospheric gradients.
+
+  Lighting: Professional softbox lighting, cinematic shadows, delicate highlights on the cheekbones, realistic satin reflections, beautiful skin texture, and sophisticated color grading.
+
+  Photography style: Luxury beauty campaign, Vogue-inspired editorial photography, 85mm portrait lens, shallow depth of field, sharp focus on the eyes, photorealistic details, premium fashion magazine aesthetic,  vertical 9:16 composition.

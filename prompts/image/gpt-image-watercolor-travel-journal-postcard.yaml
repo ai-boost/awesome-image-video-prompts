@@ -1,0 +1,25 @@
+id: gpt-image-watercolor-travel-journal-postcard
+title:
+  en: Watercolor Travel Journal Postcard From Photo
+  zh: 旅行照片转水彩手账明信片
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- travel-journal
+- postcard
+- sketchbook
+- photo-to-art
+source:
+  name: '@zhgqthomas on X'
+  url: https://x.com/zhgqthomas/status/2056633723366568387
+  credit: zhgqthomas
+  captured: '2026-10-28'
+  posted: '2026-05-19'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Stacks sketchbook cues such as pen and ink linework, bleeding watercolor washes and beige paper texture, then adds a postcard layout with fillable title, notes, date and location stamp slots. A muted earthy palette keeps the result cohesive.
+  zh: 叠加钢笔线稿、水彩晕染和米色纸张质感等手账要素，再用可替换的标题、文案、日期和地点邮戳槽位固定明信片版式，并用克制的大地色调统一画面。
+prompt: |
+  Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.

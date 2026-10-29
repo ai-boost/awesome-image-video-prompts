@@ -1,0 +1,41 @@
+id: gpt-image-surreal-self-head-seat-campaign-poster
+title:
+  en: Man Seated on Giant Own Head Poster
+  zh: 坐在自己巨大头颅上的男子海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- surreal
+- campaign
+- streetwear
+- typography
+- studio-portrait
+source:
+  name: '@Shorelyn_ on X'
+  url: https://x.com/Shorelyn_/status/2060207260685791267
+  credit: Shorelyn_
+  captured: '2026-10-28'
+  posted: '2026-05-29'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A single surreal twist is stated outright, then fixed by composition, lighting and style blocks. Exact typography lines, including a crossed out word, are quoted so the text renders as hand lettering in the negative space.
+  zh: 先点明唯一的超现实设定，再用构图、光线、风格分块来固定画面。排版文字逐行写明，包括被划掉的单词，让手写字落在留白处。
+prompt: |
+  Ultra-realistic conceptual portrait of a young man with curly hair and light stubble, wearing yellow-tinted rectangular sunglasses, a beige minimal t-shirt, blue jeans, and off-white sneakers. He is sitting casually with a relaxed posture.
+
+  The twist: he is seated on a large, hyper-realistic version of his own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.
+
+  Composition: centered, full-body shot, neutral studio background with soft beige tones, minimal aesthetic. Clean negative space.
+
+  Typography integrated into the background:
+
+  * Handwritten-style text at the top: “HEAVY”
+  * Below it, smaller text: “ON MY OWN MIND” with “MIND” crossed out
+  * Large, rough, scribbled text in black: “HEAD”
+
+  Lighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.
+
+  Style: blend of surrealism and modern streetwear campaign, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.
+
+  Mood: introspective, mental weight, identity, self-awareness.

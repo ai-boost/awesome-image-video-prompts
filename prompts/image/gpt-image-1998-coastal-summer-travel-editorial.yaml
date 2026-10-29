@@ -1,0 +1,39 @@
+id: gpt-image-1998-coastal-summer-travel-editorial
+title:
+  en: Late 1990s coastal summer travel portrait
+  zh: 九十年代末海岛夏日旅行杂志人像
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- travel-editorial
+- film-photography
+- 1990s
+- coastal
+- fashion
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2098773641303310647
+  credit: Wania
+  likes: 118
+  captured: '2026-10-28'
+  posted: '2026-09-12'
+notes:
+  en: Fixes an era, a real-world location mood and a film look (Kodak grain, faded highlights, golden light) so the whole frame reads as one period magazine shoot. Detailed outfit, pose and setting lists plus a negative list keep the result candid and realistic.
+  zh: 先定年代、地域氛围和胶片质感（柯达颗粒、褪色高光、金色阳光），让画面统一成一本旧杂志的拍摄风格。服装、姿态、场景逐项写清，再用排除清单保持自然写实。
+prompt: |
+  Create an ultra-realistic late-1990s summer travel editorial featuring a stylish young woman and a stylish young man in two separate portrait frames with the exact same visual theme and color grading.
+
+  The setting is a dreamy coastal destination inspired by Jeju Island and the Greek islands, with crystal-blue sea, rocky coastline, white seaside cafés, flowering plants, distant mountains, small boats, warm wooden furniture, and bright clear summer skies.
+
+  The woman is seated naturally at a charming seaside café. She wears a modest but fashionable pastel-blue puff-sleeve blouse with a flowing cream floral midi skirt, elegant minimal jewelry, and a relaxed straw hat. Her outfit must be tasteful and not revealing. Give her soft, slightly wavy shoulder-length hair with natural movement. Her pose should feel spontaneous and stylish—one hand resting lightly near her hat or hair, the other relaxed beside her, with a gentle natural smile.
+
+  The man is seated casually in the same coastal atmosphere, wearing a cream linen shirt, relaxed beige trousers, classic sunglasses, minimal wristwatch, and clean white sneakers. Give him naturally messy wavy hair and an effortless vintage European summer look. One arm rests casually on the chair while the other hand is near his face, creating a relaxed editorial pose.
+
+  Use warm 1990s film photography, subtle Kodak-style grain, slightly faded highlights, soft golden sunlight, realistic skin texture, gentle shadows, natural imperfections, rich ocean blues, creamy whites, muted pastels, and nostalgic analog color grading.
+
+  Make both portraits look like they were photographed for a rare 1998 international summer travel magazine, candid rather than posed, sophisticated but effortless, cinematic yet completely realistic.
+
+  No modern influencer look, no heavy makeup, no bold/revealing clothes, no artificial CGI appearance, no plastic skin, no excessive blur, no text or logos.
+
+  Vibe: “A forgotten summer somewhere by the sea — 1998.”

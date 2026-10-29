@@ -1,0 +1,54 @@
+id: gpt-image-tokyo-night-flash-candid-snapshot
+title:
+  en: Candid flash snapshot on a rainy Tokyo street
+  zh: 东京雨夜街头的闪光灯随手抓拍
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- smartphone-snapshot
+- direct-flash
+- night-street
+- tokyo
+- character-consistency
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2098413109258207670
+  credit: Nexora
+  likes: 191
+  captured: '2026-10-28'
+  posted: '2026-09-11'
+notes:
+  en: 'A reference image locks the character''s outfit and look across a series, while the prompt specifies smartphone flaws: direct flash, walking camera shake, rolling shutter, soft autofocus and off center framing. A long list of things to avoid, such as studio light, HDR and airbrushed skin, keeps the result from looking staged.'
+  zh: 用参考图锁定人物与服装以保持系列一致，再逐项写明手机拍摄的瑕疵：直闪、行走抖动、卷帘快门、对焦不准和偏心构图。末尾列出棚拍光、HDR、磨皮等禁用项，避免画面显得摆拍。
+prompt: |
+  Ultra-realistic late-night smartphone snapshot, 9:16 vertical.
+
+  Use the reference only to establish the same fictional female character’s overall appearance and continuity. Keep her recognizable across the series with the same dark-brown wavy hair, natural features, black fitted sleeveless tank top, loose high-waisted light-blue jeans, small gold hoop earrings, delicate necklace, white sneakers, and small black shoulder bag.
+
+  Scene:
+  A quiet Tokyo side street late at night after light rain. She walks beside an off-white ceramic-tiled building while distant convenience-store lights, traffic signals, parked bicycles and small Japanese storefronts softly disappear into the darkness. Wet pavement catches scattered reflections.
+
+  New candid moment:
+  Photograph her from a slightly low rear three-quarter angle, about two steps behind her. She has just slowed down and casually turns only her upper body toward the camera while continuing forward. One hand is loosely tucking windblown hair behind her ear while the other hangs naturally beside her bag.
+
+  She looks toward the camera from the corner of her eyes with a tiny closed-mouth smile, as though she noticed her friend taking another photo and is trying not to laugh.
+
+  No deliberate fashion pose. No exaggerated expression. Her shoulders remain relaxed, hips and legs naturally positioned from walking, with one foot caught halfway through the next step.
+
+  Camera:
+  Modern smartphone rear camera with direct flash. Photographer walking at the same time, creating subtle accidental camera shake. Slight motion blur around her hair, moving leg and fingertips, while her eyes remain just barely readable. Mild rolling-shutter distortion, imperfect autofocus, slight edge softness and realistic digital noise.
+
+  Composition should feel accidental: her body sits slightly off-center, a little too much empty darkness on one side, with part of her shoe approaching the bottom edge of frame.
+
+  Flash & exposure:
+  Hard direct phone flash illuminates her face, shoulder, black top and denim while the street behind her falls rapidly into darkness. Slightly overexposed skin highlights, hard natural shadow against the tiled wall, shiny flash reflections on individual hair strands and subtle denim texture. Distant lights bloom and smear naturally.
+
+  Aesthetic:
+  Raw Pinterest night-photo-dump energy. Intimate, youthful, spontaneous and imperfect. It should look like a friend took the photo during a random Tokyo night walk—not a photographer conducting a photoshoot.
+
+  Real pores, tiny skin variations, flyaway hairs, natural fabric wrinkles, realistic body proportions and ordinary smartphone processing.
+
+  Absolutely no: studio lighting, cinematic teal-orange grading, professional bokeh, fashion-editorial posing, perfect symmetry, airbrushed skin, artificial beauty retouching, HDR look, DSLR sharpness, staged composition, AI-perfect anatomy or polished commercial photography.
+
+  The final result should feel like an unexpectedly beautiful photo hidden among 30 messy pictures from the same night.

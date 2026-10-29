@@ -1,0 +1,36 @@
+id: gpt-image-underground-archive-smoke-figure-poster
+title:
+  en: Kneeling figure facing smoke self in archive
+  zh: 地下档案馆中跪地者与烟雾人影对视
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- dark-surrealism
+- archive
+- smoke
+- concept-art
+- vertical-poster
+source:
+  name: '@PromptSin on X'
+  url: https://x.com/PromptSin/status/2092390329890849163
+  credit: PromptSin
+  captured: '2026-10-28'
+  posted: '2026-08-25'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt describes one clear metaphor: a smoke figure with a locked crimson door in its chest, joined by threads to the kneeling person. Symmetrical towering shelves, a single shaft of silver light, small figures low in frame, and a palette with one crimson accent give it scale and focus.'
+  zh: 提示词用一个清晰的隐喻组织画面：烟雾人影胸口有一扇上锁的红门，细线连向跪地者的双手。对称的高耸书架、一束银色冷光、画面下方的小人物，以及只留一处红色点缀的配色，共同营造出压迫的尺度感和视觉焦点。
+prompt: |
+  Use case: stylized-concept
+  Asset type: vertical social-media artwork for the “Your Dark Side” theme
+
+  Create an original psychological dark-surrealist scene in a colossal underground archive. Endless shelves of sealed black books rise like skyscrapers and vanish into fog. In the central aisle, a solitary human figure in bone-white clothing kneels before one open book on the floor. No words are visible. From the blank pages rises a delicate life-size figure made entirely of dense black smoke, standing face-to-face with the kneeling person. The smoke figure has no eyes or mouth; instead, its chest contains a small locked crimson door. Thin threads connect that door to the kneeling person’s hands, suggesting a secret self finally acknowledged.
+
+  Vertical 9:16 framing, towering shelves create a narrow symmetrical canyon, high-angle shaft of cold silver light, the two figures positioned small in the lower center, immense oppressive scale above them. Black paper, aged stone, floating ash, volumetric fog, subtle polished-floor reflections, premium photorealistic dark concept art, refined editorial composition, quiet dread and introspection rather than horror spectacle.
+
+  Color palette: obsidian black, graphite, bone white, cold silver, a single muted crimson accent at the tiny door.
+
+  Constraints: entirely original metaphor; blank book pages with absolutely no writing; no recognizable person; no text, symbols, logos, signatures, borders, or watermark.
+
+  Avoid: visible letters or runes, portrait close-up, split face, black substance on skin, glowing eyes, gore, skulls, conventional ghosts, fantasy wizard styling, imitation of any named artist.

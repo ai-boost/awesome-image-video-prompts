@@ -1,0 +1,25 @@
+id: gpt-image-monochrome-red-streetwear-bean-bag-portrait
+title:
+  en: Man in all red streetwear on red bean bag
+  zh: 全红街头装男士坐在红色懒人沙发上
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- monochrome
+- streetwear
+- fashion-editorial
+- studio-lighting
+- face-preservation
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2076616202793939072
+  credit: Zar⭕on
+  likes: 248
+  captured: '2026-10-28'
+  posted: '2026-07-13'
+notes:
+  en: A single color story covers the outfit, the bean bag and the backdrop, so the whole frame reads as one monochrome block. Each garment is named, a campaign editorial look and dramatic studio lighting set the tone, and an explicit instruction to keep the uploaded face unchanged preserves identity.
+  zh: 服装、懒人沙发和背景统一为同一种红色，画面形成整块单色。逐件点名服装，用广告大片风格和戏剧化影棚光定调，并明确要求保持上传人脸不变以锁定身份。
+prompt: |
+  Hyper-realistic cinematic fashion photoshoot of the uploaded person. Seated on a deep light red bean bag, he wears bold all-red oversized streetwear: trench coat, wide red pants, chunky sneakers, silver watch. Solid red background,. Powerful drip vibes, Adidas campaign editorial look, dramatic studio lighting. Keep my face exactly the same as the uploaded photo. Do not change or edit my face. --ar 4:5 ratio

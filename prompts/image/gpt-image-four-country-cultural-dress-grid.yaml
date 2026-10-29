@@ -1,0 +1,25 @@
+id: gpt-image-four-country-cultural-dress-grid
+title:
+  en: Four Country Dresses Blending Architecture, Fashion, Food
+  zh: 融合建筑服饰美食的四国连衣裙宫格
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- dress-design
+- cultural-fusion
+- grid
+- fashion
+- template
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2051428657571279137
+  credit: Gdgtify
+  captured: '2026-10-28'
+  posted: '2026-05-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'A function-style template defines three anchors per country: architecture, fashion and food, each with texture, material and color. It then asks for a dress at the exact center of that triangle, and a 2x2 grid output keeps the four countries comparable.'
+  zh: 用函数式模板为每个国家设定建筑、服饰、美食三个锚点，并指定纹理、材质与颜色，再要求设计位于三者正中心的连衣裙。2x2 宫格输出让四个国家便于对比。
+prompt: |
+  <instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: "$lesser known's famous architecture" (it's texture, material and color) > Anchor 2: "$lesser known's famous fashion " (it's texture, material and color) > Anchor 3: "$lesser known's famous food " (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)

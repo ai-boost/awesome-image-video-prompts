@@ -1,0 +1,115 @@
+id: gpt-image-photo-to-storybook-gouache-illustration
+title:
+  en: Family Photo Turned Into Gouache Storybook Illustration
+  zh: 家庭照片转手绘水粉绘本插画
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- storybook
+- gouache
+- photo-to-illustration
+- json-prompt
+- pastel
+source:
+  name: '@Maercihh on X'
+  url: https://x.com/Maercihh/status/2115065217822650537
+  credit: Maercih
+  likes: 113
+  captured: '2026-10-28'
+  posted: '2026-10-27'
+notes:
+  en: A structured JSON prompt separates style, subject preservation, color palette and quality control, so the likeness, pose and composition of the uploaded photo stay fixed while only the medium changes. An explicit avoid list rules out digital filter, 3D and anime looks.
+  zh: 用结构化 JSON 把风格、主体保留、色板和质量控制分开写，上传照片的人物相貌、姿势和构图保持不变，只替换绘画媒介。再用明确的禁止清单排除数码滤镜、3D 和动漫感。
+prompt: |
+  {
+  "task": "Transform the uploaded original photograph into a charming, hand-painted children's storybook illustration.",
+
+  "input": {
+  "reference_image": "{{UPLOAD ORIGINAL PHOTO}}"
+  },
+
+  "style": {
+  "art_style": "Traditional hand-painted picture book illustration",
+  "medium": "Gouache and colored pencil on lightly textured paper",
+  "visual_inspiration": "Warm, nostalgic Japanese and European children's book illustrations",
+  "rendering": "Soft painterly brushwork, delicate pencil outlines, visible pigment texture, subtle dry-brush marks, imperfect hand-drawn details",
+  "texture": "Fine paper grain, gentle chalky pigment, subtle watercolor-like color variation",
+  "finish": "Authentic traditional illustration, handmade and organic, never resembling a digital filter or 3D render"
+  },
+
+  "subject_preservation": {
+  "identity": "Preserve the recognizable identity, facial structure, age, hairstyle, skin tone, and distinguishing features of every person in the original photograph.",
+  "people_count": "Maintain the exact number of people in the source image.",
+  "pose": "Preserve the original body positions, gestures, head angles, and interactions.",
+  "composition": "Retain the original arrangement of subjects and the overall framing.",
+  "clothing": "Preserve the original clothing designs, silhouettes, and recognizable accessories while translating their appearance into painted fabric textures.",
+  "objects": "Retain the important objects, pets, flowers, food, furniture, and background elements present in the original.",
+  "expression": "Preserve the original emotional expression and relationship between subjects.",
+  "accuracy": "Do not invent additional people, remove important subjects, change relationships, or replace the original scene."
+  },
+
+  "illustration_treatment": {
+  "faces": "Simplify facial details into expressive picture-book features while retaining each person's recognizable likeness. Use gentle blush on cheeks, softly defined noses, simple expressive eyes, and natural smiles only when present in the source.",
+  "skin": "Warm peach and natural skin tones with visible painterly texture and soft tonal transitions.",
+  "hair": "Render hair in layered, flowing brushstrokes with fine hand-drawn strands and natural color variation.",
+  "clothing": "Use softly painted folds, knitted textures, delicate seams, and subtle pencil detailing.",
+  "edges": "Use organic, slightly irregular hand-painted edges instead of sharp photographic contours.",
+  "details": "Preserve meaningful details but simplify tiny visual elements into elegant illustrated shapes.",
+  "shading": "Gentle, diffuse shading with minimal harsh shadows and no dramatic photorealistic lighting."
+  },
+
+  "color_palette": {
+  "overall": "Muted pastel colors, warm cream, sage green, dusty blue, lavender, butter yellow, soft coral, muted rose, and warm earthy browns.",
+  "saturation": "Soft and restrained, with occasional natural pops of color.",
+  "contrast": "Low to medium contrast with clear subject separation.",
+  "highlights": "Soft creamy highlights with a subtle chalky finish.",
+  "shadows": "Warm, desaturated shadows without black digital gradients."
+  },
+
+  "background": {
+  "preservation": "Retain the original background and its essential objects.",
+  "treatment": "Translate background elements into simplified, softly painted forms consistent with the storybook aesthetic.",
+  "depth": "Use gentle atmospheric separation rather than photographic depth of field.",
+  "simplification": "Reduce distracting details without changing the location or scene.",
+  "background_color": "Preserve the original dominant colors, allowing subtle warm or pastel harmonization."
+  },
+
+  "composition": {
+  "framing": "Match the original photograph.",
+  "perspective": "Maintain the original camera angle and spatial relationships.",
+  "cropping": "Do not crop, zoom, extend, or reposition the original image unnecessarily.",
+  "aspect_ratio": "Preserve the original image aspect ratio.",
+  "visual_balance": "Maintain the original visual hierarchy while creating a cohesive illustrated composition."
+  },
+
+  "lighting_and_mood": {
+  "lighting": "Soft natural daylight with gentle, evenly distributed illumination.",
+  "mood": "Tender, comforting, innocent, nostalgic, intimate, and quietly joyful.",
+  "atmosphere": "The feeling of a cherished moment illustrated in a beautifully printed children's book.",
+  "emotional_tone": "Sincere and understated, avoiding exaggerated cuteness or artificial sentimentality."
+  },
+
+  "quality_control": {
+  "photographic_appearance": "Remove the photographic rendering while preserving the source image's recognizable content.",
+  "avoid": [
+  "Photorealistic skin",
+  "Plastic or airbrushed faces",
+  "Glossy 3D rendering",
+  "Anime or manga styling",
+  "Exaggerated cartoon proportions",
+  "Oversized eyes",
+  "Unnatural facial changes",
+  "Excessive outlines",
+  "Neon colors",
+  "Harsh black shadows",
+  "Heavy blur",
+  "Artificial bokeh",
+  "Unnecessary decorative elements",
+  "Unrequested text or lettering",
+  "Watermarks and signatures",
+  "Unintended changes to the original composition"
+  ],
+  "final_result": "A cohesive, high-quality, hand-painted storybook illustration that immediately resembles the original photograph, as if a skilled children's book illustrator lovingly painted the moment by hand."
+  }
+  }

@@ -1,0 +1,41 @@
+id: gpt-image-guanyin-thousand-hands-office-worker
+title:
+  en: Thousand Hands Guanyin Holding Modern Office Items
+  zh: 千手观音手持现代办公用品的工笔画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- gongbi
+- guanyin
+- satire
+- chinese-painting
+- detailed
+source:
+  name: '@johnAGI168 on X'
+  url: https://x.com/johnAGI168/status/2046565555025367392
+  credit: johnAGI168
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'A classical painting style (Gongbi) is paired with a clear contrast: sacred hands holding a named list of laptops, phones, mops and baby bottles. A clock gear halo and a specified corner seal text add a concept and a signature detail.'
+  zh: 以工笔画这一古典风格为底，用明确的反差设定，让千手拿着列出的笔记本电脑、手机、拖把和奶瓶。时钟齿轮光环和指定文字的角落印章，补足了概念和落款细节。
+prompt: |
+  [中文]
+  一幅高度详细的千手观音菩萨工笔画。
+
+  然而，千手并没有拿着神圣的宗教法器，而是拿着现代办公和家用物品：**笔记本电脑、智能手机、成堆的文件、咖啡杯、印章、计算器、拖把和奶瓶**。它代表了终极的多任务处理现代工作者。
+
+  脑后的金色光环由旋转的时钟齿轮组成。
+
+  **在右下角，一个单一的红色竖排艺术家印章写着“吴先生”（Mr. Wu），风格化得像水印一样。** --ar 3:4
+
+  [English]
+  A highly detailed Gongbi painting of the Bodhisattva "Guanyin of a Thousand Hands".
+
+  However, instead of sacred religious artifacts, the thousand hands are holding modern office and household items: **laptops, smartphones, stacks of paperwork, coffee cups, stamps, calculators, mops, and baby bottles**. It represents the ultimate multi-tasking modern worker.
+
+  The golden aura behind the head is made of spinning clock gears.
+
+  **In the bottom right corner, a single red vertical artist chop seal reads "吴先生" (Mr. Wu), stylized like a watermark.** --ar 3:4

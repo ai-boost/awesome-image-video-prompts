@@ -1,0 +1,111 @@
+id: gpt-image-metro-engineering-infographic-handbook
+title:
+  en: Modern metro engineering handbook infographic
+  zh: 现代地铁工程手册信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- metro
+- engineering
+- dark-theme
+- editorial
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2056950969083343077
+  credit: j_smeaton99
+  captured: '2026-10-28'
+  posted: '2026-05-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A fixed visual direction (palette, square format, card style) is followed by a central hero render, a list of callouts and a list of modular sections. A closing avoid list keeps the result from drifting into advertisement or neon styling.
+  zh: 先定下视觉方向（配色、方形构图、卡片样式），再列出中心主体渲染、标注要点和模块化章节清单，最后用避免清单防止画面滑向广告或霓虹风。
+prompt: |
+  Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.
+
+  The composition should feel like a modern visual encyclopedia mixed with an elite railway infrastructure field guide and high-end editorial infographic system.
+
+  Visual Direction:
+
+  • 1:1 square composition
+  • Dark premium urban-tech background with subtle railway schematics, metro maps, and futuristic blueprint overlays
+  • Elegant palette using deep navy, matte black, steel gray, electric blue accents, and soft white lighting
+  • Refined editorial typography hierarchy with modern transportation aesthetics
+  • Rounded modular information cards with clean spacing
+  • Gentle realistic reflections and premium HUD-style dividers
+  • Minimal transit-system iconography
+  • Extremely detailed central metro train render viewed in dramatic three-quarter perspective inside a futuristic underground station
+  • Thin precision annotation lines pointing toward transportation systems and smart engineering features
+  • Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+  Main Subject Presentation:
+
+  A stunning ultra-detailed realistic render of the {METRO_NAME} modern metro train placed at the center, featuring sleek aerodynamic train design, glowing destination displays, realistic stainless-steel textures, illuminated station lighting, smart glass windows, premium urban-environment realism, and futuristic rail infrastructure.
+
+  Surround the metro with scientific and engineering callouts explaining:
+
+  • regenerative braking system
+  • smart signalling & CBTC control
+  • electric propulsion system
+  • passenger information systems
+  • safety and surveillance technology
+  • platform screen doors
+  • energy-efficient design
+  • smart ventilation systems
+  • accessibility features
+  • track and infrastructure engineering
+
+  Include modular infographic sections such as:
+
+  • Metro System Overview
+  • Technical Specifications
+  • Train Dimensions & Layout
+  • Passenger Capacity & Flow
+  • Smart Control Systems
+  • Sustainability Features
+  • Track & Infrastructure Engineering
+  • Signalling & Automation
+  • Station Design & Facilities
+  • Safety & Emergency Systems
+  • Passenger Experience Features
+  • Urban Connectivity & Network Map
+  • Energy Efficiency Comparison
+  • Construction & Expansion Timeline
+  • “Top 5 Smart Innovations” section
+  • Built for Future Smart Cities
+
+  Add small premium visualization modules like:
+
+  • metro network maps
+  • train blueprint diagrams
+  • station layout graphics
+  • passenger flow visualizations
+  • signalling workflow diagrams
+  • energy-efficiency comparison charts
+  • train configuration illustrations
+  • smart-city connectivity graphics
+  • platform safety diagrams
+  • infrastructure cross-section visuals
+
+  Style Keywords:
+
+  “premium urban mobility encyclopedia”
+  “editorial metro engineering handbook”
+  “high-end transportation infographic”
+  “scientific railway infrastructure poster”
+  “museum-quality transit reference page”
+  “modular smart-city knowledge system”
+  “clean transportation editorial design”
+  “ultra-detailed metro visualization”
+
+  Avoid:
+
+  • cluttered public advertisement aesthetics
+  • cartoon transportation styling
+  • unrealistic sci-fi levitating trains
+  • excessive cyberpunk neon overload
+  • chaotic city scenes
+  • generic subway poster layouts
+
+  The final result should resemble a professionally published railway infrastructure reference-book page created for transit enthusiasts, architects, engineers, urban planners, transportation designers, and educational infrastructure archives.

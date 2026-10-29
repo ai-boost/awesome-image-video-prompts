@@ -1,0 +1,37 @@
+id: nano-banana-photo-to-painting-editorial-poster-seoul
+title:
+  en: Photo and Painted Version Stacked in Editorial Poster
+  zh: 实拍与手绘版叠放的杂志风海报
+model: Nano Banana 2.1
+mode: image-edit
+category: poster
+tags:
+- photo-to-painting
+- editorial-layout
+- magazine-poster
+- before-after
+- pastel
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2113118463824671218
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 62
+  captured: '2026-10-28'
+  posted: '2026-10-22'
+notes:
+  en: The prompt stacks a realistic photo above a painted redraw and locks pose, outfit, props and light direction so both read as one moment. A cream paper layout with tracked uppercase headline and tagline slots keeps the poster reusable.
+  zh: 提示词把实拍照片与手绘重绘上下叠放，并锁定姿势、服装、道具和光线方向，让两幅画面像同一瞬间。奶油色纸面版式加上字距拉开的大写标题与副标题占位，方便反复套用。
+prompt: |
+  Design a sophisticated vertical magazine-style poster built around a seamless transition from reality to illustration. At the top, present the subject as a highly realistic lifestyle photograph, naturally placed within the original environment. Use soft golden sunlight, lifelike skin and hair details, subtle facial expression, natural shadows, and a shallow cinematic focus for an authentic photographic feel.
+
+  Directly beneath it, reinterpret the very same moment as a refined hand-painted artwork. Keep the character instantly recognizable by matching the original composition, body position, hairstyle, outfit, smartphone, lighting direction, and surrounding environment. Give the artwork a gentle painterly finish with visible brushwork, soft edges, organic forms, muted pastel tones, and a nostalgic illustrated-magazine atmosphere.
+
+  Arrange both scenes within a carefully designed editorial layout surrounded by warm cream-colored paper with subtle grain and tactile print texture. Add a few delicate botanical or seasonal accents around the artwork without overwhelming the composition.
+
+  Under the illustrated panel, create a clean typography section with a centered uppercase headline: “[MAIN TITLE]”. Use elegant, widely tracked lettering with a refined fashion-editorial feel. Beneath it, place “[TAGLINE]” in a smaller, understated typeface with generous spacing. Finish the typography area with one short horizontal pastel accent rule.
+
+  Keep the entire composition calm, premium, and visually cohesive. The photographic and illustrated versions should feel like two interpretations of the exact same moment rather than separate scenes.
+
+  Use a vertical 3:4 poster format, high-resolution output, balanced negative space, soft natural color grading, polished print aesthetics, and contemporary editorial art direction.
+
+  Do not introduce unnecessary text, dramatic borders, oversaturated colors, visual clutter, unrealistic anatomy, mismatched facial features, or changes to the subject’s identity and clothing.

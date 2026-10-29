@@ -4,7 +4,7 @@ title:
   zh: 同一个人的六宫格人像
 model: GPT Image 2.5
 mode: text-to-image
-category: realism
+category: portrait
 tags:
 - portrait
 - grid

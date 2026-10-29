@@ -4,7 +4,7 @@ title:
   zh: 每张照片变成一张安静的编辑插画海报
 model: GPT Image 2.5
 mode: image-edit
-category: poster
+category: photo-to-art
 tags:
 - editorial
 - illustration

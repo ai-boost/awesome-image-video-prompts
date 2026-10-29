@@ -1,0 +1,25 @@
+id: gpt-image-exaggerated-anime-subject-redraw
+title:
+  en: Exaggerated anime girl and fluffy dog redraw
+  zh: 夸张动漫风女孩与毛绒小狗重绘
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- anime
+- cel-shading
+- exaggerated
+- perspective-distortion
+- subject-redraw
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2052766810500649197
+  credit: Zyrellix
+  captured: '2026-10-28'
+  posted: '2026-05-08'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt names the line work, flat cel shadows and stretched anatomy, then asks for a warped environment with playful perspective. Because it starts from an uploaded subject, the style transfers while the character stays recognisable.
+  zh: 提示词依次写明线稿、平涂阴影和拉伸的人体比例，再要求带透视变形的环境。以上传主体为起点，风格得以迁移，人物依然可辨。
+prompt: |
+  Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world

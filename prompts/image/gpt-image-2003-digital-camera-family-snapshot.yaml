@@ -1,0 +1,25 @@
+id: gpt-image-2003-digital-camera-family-snapshot
+title:
+  en: 2003 Digital Camera Family Snapshot in Courtyard
+  zh: 2003年数码相机拍摄的小区庭院全家福
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- family-photo
+- nostalgia
+- digital-camera
+- vintage
+- snapshot
+source:
+  name: '@pangyusio on X'
+  url: https://x.com/pangyusio/status/2046991223395950810
+  credit: pangyusio
+  captured: '2026-10-28'
+  posted: '2026-04-22'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: Naming the year and the capture device makes the model reproduce period traits such as soft focus, flat colour and an orange date stamp. A concrete setting, a residential courtyard in China, with a simple family grouping keeps the scene believable.
+  zh: 点明年份和拍摄设备，模型就会还原那个年代的柔焦、平淡色彩和橙色日期戳。再给出具体场景，即中国小区庭院，配上简单的一家三口构图，画面显得真实可信。
+prompt: |
+  Generate a photo from 2003, shot with a digital camera, of five-year-old me with my mom and dad in the courtyard of our residential compound in China.

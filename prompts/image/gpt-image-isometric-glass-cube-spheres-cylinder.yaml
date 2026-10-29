@@ -1,0 +1,25 @@
+id: gpt-image-isometric-glass-cube-spheres-cylinder
+title:
+  en: Glass cube with colored spheres and cylinder
+  zh: 透明玻璃立方体内的彩色球体与圆柱
+model: GPT Image 2.5
+mode: text-to-image
+category: architecture
+tags:
+- isometric
+- spatial-relation
+- glass
+- 3d-shapes
+- test
+source:
+  name: '@Hyperouters on X'
+  url: https://x.com/Hyperouters/status/2097654503692443744
+  credit: Hyperouters
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: Each object gets an explicit position (inside or outside, upper back left, lower front right, directly above), so the layout works as a spatial-relation test. Naming the isometric view fixes the camera and makes the placements easy to check.
+  zh: 每个物体都写明位置（内部或外部、左后上方、右前下方、正上方），把画面变成一次空间关系测试。指定等距视角固定了镜头，也方便核对各物体的位置。
+prompt: |
+  A transparent glass cube: place a red sphere inside at the upper back left, a blue sphere inside at the lower front right, a green sphere outside directly above it, and a yellow cylinder crossing from the lower left to the upper right. Use an isometric view.

@@ -29,18 +29,22 @@
   - [Veo 3.1](#veo31) (10)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [图片提示词](#image) (126 条)
-  - [海报与编辑排版](#img-poster) (19)
-  - [照片转艺术风格](#img-photo-to-art) (28)
-  - [写实照片](#img-realism) (17)
-  - [人像](#img-portrait) (11)
-  - [插画](#img-illustration) (19)
-  - [手机与界面截图](#img-ui-mockup) (4)
-  - [地图](#img-map) (4)
-  - [拼贴](#img-collage) (6)
-  - [信息图与幻灯片](#img-infographic) (6)
-  - [标志、广告与包装](#img-brand) (6)
-  - [照片编辑](#img-edit) (6)
+- [图片提示词](#image) (434 条)
+  - [海报与编辑排版](#img-poster) (81)
+  - [信息图与幻灯片](#img-infographic) (27)
+  - [手机与界面截图](#img-ui-mockup) (14)
+  - [产品图与电商](#img-product) (9)
+  - [标志、广告与包装](#img-brand) (11)
+  - [写实照片](#img-realism) (15)
+  - [人像](#img-portrait) (96)
+  - [角色与手办](#img-character) (29)
+  - [插画](#img-illustration) (41)
+  - [漫画与分镜](#img-comic) (9)
+  - [照片转艺术风格](#img-photo-to-art) (38)
+  - [建筑与室内](#img-architecture) (7)
+  - [地图](#img-map) (5)
+  - [拼贴](#img-collage) (30)
+  - [照片编辑](#img-edit) (22)
 - [Agent 配方：剪视频](#recipes) (5 条)
 - [指南与 skill](#guides)
 - [用 Agent 做 3D](#threed)
@@ -50,18 +54,18 @@
 <a id="recent"></a>
 ## 最近新增
 
-- 2026-10-28 · [早午餐手机视频，妹妹偷吃一口松饼](#kling4-ugc-brunch-pancake-thief) · Kling 4.0
-- 2026-10-28 · [以假乱真的 5v5 战术射击游戏实录](#kling4-tactical-shooter-gameplay) · Kling 4.0
-- 2026-10-28 · [香水瓶冲上环形坡道再喷射升空](#kling4-perfume-bottle-loop-ramp) · Kling 4.0
-- 2026-10-28 · [铁匠把铁块打成巨剑，从首帧到尾帧](#kling4-blacksmith-forges-greatsword) · Kling 4.0
-- 2026-10-28 · [照一支汽车短片的运镜，换成自己的车和背景](#kling4-car-ad-from-reference-video) · Kling 4.0
-- 2026-10-28 · [毛毡黏土森林课堂，云朵老师教数 1 到 4](#kling4-clay-cloud-teacher-counting) · Kling 4.0
-- 2026-10-28 · [黏土宇航狗追巴士大的奶酪老鼠，照分镜稿拍](pages/zh/video-kling40.md#kling4-clay-dog-moon-cheese-storyboard) · Kling 4.0
-- 2026-10-28 · [巨龙从山巅起飞火烧海港城，30 秒六个镜头](pages/zh/video-kling40.md#kling4-dragon-attacks-coastal-city) · Kling 4.0
-- 2026-10-28 · [改视频：雪地里的柯基变成方块像素柯基](pages/zh/video-kling40.md#kling4-edit-corgi-to-voxel-corgi) · Kling 4.0
-- 2026-10-28 · [改视频：整段转成毛毡风格](pages/zh/video-kling40.md#kling4-edit-felt-style-transfer) · Kling 4.0
-- 2026-10-28 · [改视频：箱子里加一只睡着的猪，顺便改最后一句台词](pages/zh/video-kling40.md#kling4-edit-pig-in-the-box-new-line) · Kling 4.0
-- 2026-10-28 · [改视频：给走出便利店的三个人换演员](pages/zh/video-kling40.md#kling4-edit-recast-three-shop-workers) · Kling 4.0
+- 2026-10-28 · [等距视角动漫世界地图微缩模型海报](#gpt-image-isometric-anime-world-map-diorama-poster) · GPT Image 2
+- 2026-10-28 · [笔记本屏幕上Photo Booth里的昏暗卧室自拍](#gpt-image-macbook-screen-photo-booth-selfie) · GPT Image 2
+- 2026-10-28 · [适用任意城市的扁平矢量旅行海报模板](#gpt-image-flat-vector-city-travel-poster-template) · GPT Image 2
+- 2026-10-28 · [电视剧世界等距地图微缩景观海报](#gpt-image-tv-show-world-isometric-map-diorama) · GPT Image 2
+- 2026-10-28 · [九重葛拱门下地中海庭院里的两位女性](#gpt-image-bougainvillea-archway-courtyard-portrait) · GPT Image 2.5
+- 2026-10-28 · [地中海庭院九重葛拱门下的女子](#gpt-image-mediterranean-archway-y2k-flash-courtyard) · GPT Image 2.5
+- 2026-10-28 · [透过敞开车门拍摄的千禧年代胶片抓拍](#gpt-image-car-door-clifftop-2000s-film-snapshot) · GPT Image 2.5
+- 2026-10-28 · [车内视角的2000年代初胶片风海边抓拍](pages/zh/image-portrait.md#gpt-image-car-door-coastal-film-snapshot) · GPT Image 2.5
+- 2026-10-28 · [电梯镜面自拍加Q版贴纸涂鸦](#gpt-image-selfie-chibi-sticker-doodle-edit) · GPT Image 2
+- 2026-10-28 · [灰度3D家务步骤说明图网格](#gpt-image-grayscale-3d-household-chores-step-grid) · GPT Image 2
+- 2026-10-28 · [企业黑色复仇惊悚六格分镜板](#gpt-image-corporate-noir-teaser-storyboard-six-panels) · GPT Image 2
+- 2026-10-28 · [跑步照片配Q版分身贴纸与手绘涂鸦](#gpt-image-chibi-clone-sticker-running-diary) · GPT Image 2
 
 <a id="video"></a>
 ## 视频提示词
@@ -446,86 +450,6 @@ SCENE CONTEXT A 30-second scene in a neighbourhood café in the year 2000, near 
 
 </details>
 
-<a id="wan-anime-monster-fight"></a>
-### 手绘动画风，对战巨型怪物
-
-<a href="https://x.com/aimikoda/status/2103790524637528348"><img src="previews/wan-anime-monster-fight.jpg" width="360"></a>
-
-两个带标签的参考（主角、怪物），要求保留手绘线条。Wan 的动画有自己的味道。
-
-Wan 3.0 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2103790524637528348) · 502 赞，统计于 2026-10-27
-
-[`anime`](pages/zh/tags.md#tag-anime) [`action`](pages/zh/tags.md#tag-action) [`reference-images`](pages/zh/tags.md#tag-reference-images)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use @[character ref] for the hero's exact identity and appearance; @[monster ref] for the monster's anatomy, scale, pale body, black projections and luminous horns. Preserve their angular hand-drawn contours, sparse sketch lines, matte cel-shadows, muted lavender and ash gray, blue-black shadows, peach rim light and fine grain. City and effects share this 2D anime style. References bind appearance, not framing or poses.
-
-Five epic shots: the monster destroys the city as it charges toward the rooftop hero. ONE sudden, thick white line bursts from his index fingertip and instantly punches through it, leaving one enormous hole.
-
-The hero stays at one skyscraper's avenue-facing edge, level with the monster's upper torso. The monster approaches directly IN FRONT OF him along the avenue. All cameras stay on one side of their shared axis: hero and tower screen-left, monster screen-right advancing left. The hero faces right. In his profile close-ups, the monster remains ahead, offscreen right, never behind his head or shoulders. No axis-crossing angles or orbits.
-
-Shot 1. Low lateral wide tracking beside the monster charging right-to-left. Its shoulder tears through a building; the facade folds into the street as its next footfall buckles the roadway, hurling rubble forward. Debris whips past the lens through lavender dust. Widen and tilt upward to reveal the target tower ahead on screen-left, the tiny hero at its edge facing the approaching monster on screen-right. Keep the gap between them readable.
-
-Shot 2. Right-side profile of the hero facing screen-right toward the offscreen monster. Face and right hand share the frame against sky and rooftop. Wind pulls his hair and coat; he stays relaxed. With a knowing smile, he extends his right arm toward the target: index straight, thumb raised, other fingers curled. Cut as the finger aligns with the target; no charging glow, gathering energy or held aiming pause.
-
-Shot 3. Steady rear three-quarter view outside the hero's right shoulder, on the established side. Keep a clear gap between his fingertip screen-left and the monster's upper torso screen-right. It reaches for the rooftop directly ahead. Immediately on the cut, ONE thick, straight, brilliant-white line snaps from the index fingertip through the upper torso, below the neck between the shoulders. Its entire length appears instantly, connecting finger, target and the space beyond. Release and penetration happen together: no projectile travel, growing beam or drilling. One tiny finger recoil coincides with a building-sized circular section being punched through the body. The white line switches off immediately, leaving an enormous EMPTY opening, its broken dark rim framing the skyline. The torso jolts and tips sideways at once, the reaching arm knocked off course. Read the hole during the uninterrupted fall. No charging, stunned pause, slow motion or hit-stop. No sphere, pressure ring or full-screen whiteout obscures the contact. One abrupt discharge, never a sustained beam or repeated pulse.
-
-Shot 4. Cut as that sideways tilt begins, keeping the same viewing direction and matching the ALREADY OPEN hole on the first frame. The monster's arm drops short of the roof; its weight carries it diagonally sideways into the blocks beside the avenue before reaching the tower, still in front of the hero. Track downward with the chest exposed: no edge-on turn or face-down roll. The SAME hole stays fixed below the neck between the shoulders, with the same physical diameter, broken rim and missing volume. Its outline foreshortens naturally as the torso tilts; background buildings slide visibly through the opening. Keep dust below the chest and clear of the aperture. Follow the fall through contact with the ruins and briefly show the fallen torso with its hole still open. The rim does not regrow, the opening does not fill, and the torso never returns to its intact state.
-
-Shot 5. Return to the hero's right-side profile, facing screen-right, face and right hand together against sky and rooftop. The fallen monster remains OFFSCREEN ahead to the right. He bends his right elbow and brings the SAME extended index fingertip just in front of his lips. Only after it arrives, he gently purses his lips and visibly blows across it. A fine white wisp bends away in his breath. He lowers the hand slightly with a satisfied smile. Collapse thunder rolls in from ahead and a gust lifts his coat. Hold his effortless composure.
-
-One instantaneous fingertip discharge, one impact, one permanent through-hole carried through the uninterrupted fall and landing. The hero keeps the same hand and facing. Sound: masonry and heavy footfalls, one dry electrical crack and a deep impact report together at the instant of contact, then the intimate breath against distant collapse. No dialogue or subtitles.
-```
-
-</details>
-
-<a id="wan-tokyo-travel-vlog"></a>
-### 东京旅行 vlog，一秒一个节拍
-
-<a href="https://x.com/joshesye/status/2094723798679400808"><img src="previews/wan-tokyo-travel-vlog.jpg" width="360"></a>
-
-中文描述配日语台词。每一秒都写清地点、动作、台词和到下一秒的转场。
-
-Wan 3.0 · 文生视频 · 出处: [@joshesye on X](https://x.com/joshesye/status/2094723798679400808) · 421 赞，统计于 2026-10-27
-
-[`vlog`](pages/zh/tags.md#tag-vlog) [`travel`](pages/zh/tags.md#tag-travel) [`japanese-dialogue`](pages/zh/tags.md#tag-japanese-dialogue) [`timed-beats`](pages/zh/tags.md#tag-timed-beats)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-一位20岁出头的年轻韩国偶像风格女性。长发直顺，黑色，自然蓬松，肤如凝脂，大而明亮的灵动的眼睛，精致的V形脸，小巧的鼻子，自然光泽的嘴唇，清新的淡妆，毫不费力地可爱又平易近人的表情。休闲日式街头穿搭（白色连帽衫 / 深色宽松连帽衫 / 宽大夹克）。26mm手机镜头，深景深，真实肤质，轻度HDR，中性iPhone色彩风格，未经编辑的抓拍，无电影级调色，无影棚灯光，无光轨，无动态模糊效果。
-
-(0:00–0:01) —— 行走镜头，东京塔亮相自拍，低角度。塔在她身后，天空过曝。自然微笑。中性自然光，深景深。台词：「ついに東京に来た……！」 过渡：硬切 / 节奏重拍
-
-(0:01–0:02) —— 涩谷十字路口，步入人群中间。转头看向镜头。身后霓虹灯牌清晰锐利。真实夜景曝光。过渡：节奏快切
-
-(0:02–0:03) —— 便利店，将饭团举向镜头，挑眉。室内荧光灯强烈。冷白光，真实肤质。过渡：节奏闪切
-
-(0:03–0:04) —— 代代木公园，坐姿，视线移向别处。斑驳光影，镜头可见污渍。音乐重拍落下——风、鸟鸣——随即切回。过渡：自然动作剪接
-
-(0:04–0:06) —— 章鱼烧反应，咬下一口，瞪大眼睛，后仰大笑。温暖的实际灯笼光。琥珀色光下的真实肤质。台词：「アツッ！めっちゃ美味しい！」 过渡：笑声结束时剪接
-
-(0:06–0:07) —— 自动售货机夜景，站在发光的售货机前。混合LED灯光映在脸上。微微坏笑。无光效处理。过渡：单拍剪接
-
-(0:07–0:08) —— 电车车窗，面部倒映在车窗上。窗外城市自然模糊。她向外看，不看镜头。过渡：闪切
-
-(0:08–0:09) —— 鸟居，低角度。走向并穿过神社大门。大门占据画面上方。自然日光。过渡：闪切
-
-(0:09–0:11) —— 数字灯光展 ★ 标志性镜头 缓缓抬头。蓝、紫、金色投影映在脸上。焦点转移——面部清晰，灯光柔和散射。只有投影打在皮肤上，无眩光。速度：约60%慢动作 过渡：在抬头过程中柔化剪接
-
-(0:11–0:12) —— 高达亮相，面部→镜头上摇→完整雕像入画。小小的赞赏微笑。广角，自然日光。过渡：微笑后锐利剪接
-
-(0:12–0:13) —— 灯笼小巷，跟随跟拍。灯笼暖色，阴影暗部。自然低光。她回头瞥了一眼。过渡：向前运动时剪接
-
-(0:13–0:14) —— 屋顶天际线，近距自拍→手臂伸远→天际线显现。风吹动发丝。自然夜景手机曝光。台词：「こんな夜景、初めて見た。」 过渡：最后一句台词处硬切
-
-(0:14–0:15) —— 奈良鹿公园，她蹲下，递出鹿仙贝。鹿向她鞠躬——她突然大笑。另一只鹿从背后轻顶她，她几乎站不稳。手持拍摄，略有晃动。全部真实拍摄。台词：「ちょっと！本当にお辞儀した！」 过渡：淡出至黑屏
-```
-
-</details>
-
 **[全部 18 条](pages/zh/video-wan30.md)**
 
 <a id="minimaxh3"></a>
@@ -671,59 +595,6 @@ integrated_multimodal_description: [Shot 1] Classic Japanese 2D flat-vector expl
 [Shot 3] At 00:04.500, the teal field wipes into a sunny yellow solution card. A large teal smartphone slides into the center while three illustrated curry choices pop out as clean circular cards: rich curry, vegetable curry, and spicy curry. A dotted route grows from the phone toward a small delivery scooter carrying a curry bag. The service name "カレヨル" appears clearly in deep charcoal, followed by the short phrase "選ぶだけ。".
 [Shot 4] At 00:06.800, the composition changes to a clean white infographic strip. Three large circular steps assemble from left to right: "選ぶ", "届く", "食べる". The same woman appears in the final circle at home, opening the yellow curry container as visible steam rises. The delivery scooter moves along the dotted route and stops beside her. Keep every illustration flat, simple, and consistent with the key visual.
 [Shot 5] At 00:09.200, the camera returns to a wide warm-white end card with generous negative space. A large two-line headline assembles smoothly: "どうしても、休みの夜は" followed by "カレーが食べたい。". At 00:10.500, the curry bowl and service name appear beneath it with the final message "そんな時は、カレヨル。". A small curry icon makes one cheerful pop and a gentle steam curl rises. Hold the complete wide end card cleanly until exactly 12.000 seconds. Do not add extra text, random pseudo-letters, logos, browser UI, or additional characters.
-```
-
-</details>
-
-<a id="h3-anime-football-player-stats-ui-animation"></a>
-### 动漫足球球员属性界面动画开场
-
-<a href="https://x.com/aimikoda/status/2086122377633575169"><img src="previews/h3-anime-football-player-stats-ui-animation.jpg" width="360"></a>
-
-以 GPT Image 2 生成的属性界面作为唯一参考，并要求只做动画不重新设计。提示词按秒划分扫描揭示、分数计数、属性条填充和最终定格，镜头锁定，并写明启动嗡鸣与确认提示音。
-
-MiniMax H3 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2086122377633575169) · 707 赞，统计于 2026-10-28 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`ui-animation`](pages/zh/tags.md#tag-ui-animation) [`game-ui`](pages/zh/tags.md#tag-game-ui) [`anime`](pages/zh/tags.md#tag-anime) [`sports`](pages/zh/tags.md#tag-sports) [`reference-image`](pages/zh/tags.md#tag-reference-image)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-@[ref img] is the sole visual authority for Kaze, the football, the complete player-stats interface, typography, numbers, icons, colors, lighting, layout, and vertical composition. Animate this exact screen without redesigning it. Preserve all existing labels and final stat values.
-[Goal]
-Create a polished 15-second anime sports-game player stats screen opening. Use one continuous, locked, straight-on full-screen composition with no camera movement, cuts, cropping, or perspective distortion.
-
-[Sequence]
-0–2.2 seconds: Begin from near-black teal. A faint horizontal scanner passes downward, revealing Kaze’s silhouette and the outer edges of the interface. Fine particles and dim mint circuitry flicker awake.
-2.2–5.5 seconds: The header, KAZE nameplate, role badge, level panel, and overall panel resolve through clean line-draw animations. Kaze emerges fully from shadow, takes a controlled breath, subtly shifts her shoulders and raised arm into the referenced pose, then fixes an intense gaze toward the viewer. Her hair, ribbons, and loose clothing react naturally to a growing current of wind. The football begins a slow, stable rotation beside her hand.
-
-5.5–10.8 seconds: The large overall score counts rapidly upward and lands precisely on 92. The level settles on 46. Each attribute bar fills smoothly from left to right in sequence—Speed 93, Power 91, Control 88, Stamina 90, Agility 94, Technique 89—each landing with a restrained mint pulse. The radar chart draws outward from its center and locks into the exact final polygon. Skill cards activate from top to bottom; their icons flare briefly while the ACTIVE and ULTIMATE states illuminate.
-10.8–13.3 seconds: The player ID strip and bottom navigation fade and slide into their exact final positions. The wind energy around Kaze accelerates clockwise, wrapping around the rotating ball and sweeping behind her body with layered luminous trails. Kaze tightens her hand, leans slightly into the current, and gives one natural blink; preserve her identity, anatomy, costume, and right-side placement.
-
-13.3–15 seconds: The energy arc reaches a bright controlled crest, then settles into a living idle pulse. Hold the fully assembled screen matching @[ref img] exactly. Kaze continues subtle breathing; hair and ribbons drift, the football rotates slowly, particles shimmer, and all stats remain stable and readable.
-
-Use crisp premium game-UI motion, clean 2D anime character animation, subtle depth between Kaze and the interface, and stable legible typography. Keep every panel, icon, label, number, and geometric boundary fixed once revealed. Do not introduce new text, extra characters, additional objects, logos, captions, or UI elements.
-
-Audio: low electronic boot hum, delicate scanning ticks, short confirmation tones as values lock, rising airy wind around the ball, soft cloth movement, and one refined completion chime. No dialogue and no music.
-```
-
-</details>
-
-<a id="h3-nostalgic-theme-park-montage"></a>
-### 主题公园好友欢聚的怀旧图形拼贴
-
-<a href="https://x.com/magnific/status/2083217899540586917"><img src="previews/h3-nostalgic-theme-park-montage.jpg" width="360"></a>
-
-提示词只点明形式（不同片段的蒙太奇）和版式语言（动态图形排版），再给出主体与场景。镜头选择、胶片颗粒和分格排布都交给模型，所以短提示词也能得到多画面的丰富结果。
-
-MiniMax H3 · 文生视频 · 出处: [@magnific on X](https://x.com/magnific/status/2083217899540586917) · 508 赞，统计于 2026-10-28 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`montage`](pages/zh/tags.md#tag-montage) [`nostalgic`](pages/zh/tags.md#tag-nostalgic) [`motion-graphics`](pages/zh/tags.md#tag-motion-graphics) [`theme-park`](pages/zh/tags.md#tag-theme-park) [`short-prompt`](pages/zh/tags.md#tag-short-prompt)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Nostalgic montage of different clips. Graphic motion layouts of friends having fun in a theme park.
 ```
 
 </details>
@@ -973,129 +844,6 @@ Natural diegetic audio only. No music, narration, CGI look, artificial rain, fac
 
 </details>
 
-<a id="seedance-cafe-table-multi-angle-reshoot"></a>
-### 咖啡馆桌边讲话重拍成十三个新机位
-
-<a href="https://x.com/Scenario_gg/status/2102365054389899695"><img src="previews/seedance-cafe-table-multi-angle-reshoot.jpg" width="360"></a>
-
-提示词先锁定原视频的表演、音频、光线和节奏，只允许机位与镜头变化，再用带时间码的镜头表逐段设计新机位。逐段标注的说话时间窗、视线规则和空天空规则，让每个新角度的口型同步与背景都保持干净。
-
-Seedance 2.5 · 视频编辑 · 出处: [@Scenario_gg on X](https://x.com/Scenario_gg/status/2102365054389899695) · 3,287 赞，统计于 2026-10-27
-
-[`video-to-video`](pages/zh/tags.md#tag-video-to-video) [`multi-angle`](pages/zh/tags.md#tag-multi-angle) [`camera-plan`](pages/zh/tags.md#tag-camera-plan) [`lip-sync`](pages/zh/tags.md#tag-lip-sync) [`timed-shot-list`](pages/zh/tags.md#tag-timed-shot-list)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Prompt (seedance 2.5 video to video):
-
-ONE FINISHED TAKE, RE-PHOTOGRAPHED
-
-
-@video1
- is one finished take: a single locked-off wide, 19.53 s, with its original audio, a young man at an outdoor cafe table talking to one camera. Do not restage, re-perform, re-time or reinterpret it. Re-photograph the identical event from thirteen new camera positions, as if thirteen extra cameras had been rolling around him in the same moment. Every output frame shows the same body at the same instant of
-@video1
- at the same speed. Output runs the full 19.53 s. Keep the audio of
-@video1
- unchanged and in sync.
-
-DO NOT CHANGE
-Performance, body, hands and what they hold, head angle, eyeline, lip movement, blink timing, movement speed, action start and end times, lighting, exposure, white balance, colour grade, wardrobe, props, set. The only variable is camera position and lens.
-
-SPEECH WINDOWS (measured from the audio of
-@video1
-)
-SPEAKING: 0.00-1.65, 2.05-4.80, 5.95-6.90, 9.65-11.75, 12.20-12.85, 13.35-13.80, 16.70-16.90, 17.60-18.90.
-SILENT, mouth closed and still or chewing: 1.65-2.05, 4.80-5.95, 6.90-9.65 (drinking), 11.75-12.20, 12.85-13.35, 13.80-16.70 (chewing), 16.90-17.60, 18.90-19.55.
-Whenever his mouth is visible in a SPEAKING window it moves in lip-sync with the audio of
-@video1
-. He talks while looking down: from 2.05 to 4.80 his head is down at the laptop and he is speaking. Head down is not silent. Never add speech to a silent window, never mute a speaking one.
-
-EYELINE RULE
-He performed to ONE camera, the A-camera: the original locked-off wide, directly in front of him at seated eye level. His eyeline stays on that spot in every shot, apart from the glances down at keyboard, mug and pastry already in
-@video1
-. He never looks for or turns toward a new camera. From above he reads cap and brow; from the sides, three-quarter or profile; from behind, the back of his head. Single exception: the on-axis shot at 00:01-00:02 sits where the A-camera was, so there alone he looks into the lens.
-
-TEMPO RULE
-Real time, 1:1 with
-@video1
-. No speed ramps, added slow motion, freeze frames or time remaps. Exactly one slowed passage exists, already baked into the source: the pastry at the top of its arc, 12.5-13.55. Reproduce it at the speed it already has, no slower, no longer.
-
-TOSS TIMING
-The pastry leaves his fingers at 12.43 and is caught at 13.60: airborne about one second only. Do not stretch, loop or hang the flight. Before 12.43 and after 13.60 it is in his hand.
-
-EMPTY SKY
-On every low or upward-tilting shot the sky is plain pale overcast and empty. No skyscrapers, glass towers, solar panels, cranes, birds, aircraft, sun disc, structured clouds, lens flare or signage. Above his head only cream wall, white pillars and flat pale sky.
-
-CAMERA PLAN
-
-[00:00-00:01] High-angle MCU from above and to his right, about 40 degrees down, chest up, slow push-in, 35mm feel, moderate depth of field, cap brim and open gesturing palms, marble edge in the lower foreground. Speaking, reading three-quarter, not to this lens.
-
-[00:01-00:02] ON THE A-CAMERA AXIS. ECU of his face, dead front, seated eye level, 85mm feel, shallow focus, pillars soft cream behind. The one shot where he looks into the lens. Hands drop below frame onto the keyboard; mouth closes at 1.65.
-
-[00:02-00:05] Macro along the MacBook keyboard to his typing fingers, lens centimetres above the keys, razor-thin focus, keycaps sharp, his face soft far behind, head down. Speaking 2.05-4.80: where his mouth shows in the blur it moves with the audio. Fingers lift at 5.0.
-
-[00:05-00:06] Top-down bird's eye straight down over the table, 24mm feel, deep focus, locked off. Marble disc fills frame: open laptop, white mug, financier, his cap at the bottom edge. Right hand crosses to the mug handle.
-
-[00:06-00:07] Lens resting on the marble at table height, 50mm feel. White mug large and sharp in the left foreground; his hand enters from the right, grips the handle, lifts the mug up out of frame. Torso soft behind. Speaking 5.95-6.90.
-
-[00:07-00:09] First-person POV from his seat, ultra-wide 18mm feel, gentle handheld breathing. The mug rim rises into the bottom of frame and tips toward the lens; laptop screen and marble beyond in deep focus. No face; framing dips to the mug, never up. Silent.
-
-[00:09-00:10] Extreme wide, slow dolly out, 24mm feel, deep focus. He is small at his table mid-terrace: cream wall, pillars, concentric-circle mural, taped boxes behind, slatted bench visible. He sets the mug on the marble 9.4-10.0; speech resumes 9.65.
-
-[00:10-00:12] Low and to his left, lens just above the marble, 50mm feel, shallow focus, table edge and mug soft in the near foreground. Right hand reaches out at 10.5 and lifts the golden financier into sharp focus before his left profile. Talking to the A-camera: full profile here.
-
-[00:12-00:14] Low beside him, 35mm feel, slight Dutch. Opens on the pastry in his fingers; at 12.43 it leaves his hand and the camera tilts UP, following it against plain pale overcast sky and the top of a white pillar through the baked-in slow apex 12.5-13.55, then tilts DOWN for the catch at 13.60 into cupped hands, head tipped back, mouth open, then head coming forward.
-
-[00:14-00:15] Behind him, over his right shoulder, 50mm feel, moderate focus. Back of the black Yankees cap and long dark hair fill frame-left; laptop glow and marble past his shoulder. Head settles level, hands bring the pastry toward his mouth. No face. Silent.
-
-[00:15-00:16] ECU on his mouth and jaw, 100mm macro feel, very shallow focus, soft open-sky light. The financier enters from below, he bites, crumbs, the jaw chews. Chewing, not speaking. Nothing above the nose in frame.
-
-[00:16-00:18] Slow orbit from his left toward front, 35mm feel, moderate focus, mural and pillars parallaxing behind, table crossing the foreground. He chews, speaks 16.70-16.90 and from 17.60, open palms, a small shrug. As the orbit nears front his gaze lands near, not into, this moving lens.
-
-[00:18-00:20] Top-down bird's eye straight down over the table, 24mm feel, deep focus, locked off. Hands come down beside the laptop and settle, cap centred, speech ends 18.90, then still. Hold to 19.53.
-
-SET AND SUBJECT CONTINUITY (identical in every shot)
-Young man, long dark hair, black short-sleeve button-up shirt with a small chest logo, black New York Yankees baseball cap, grey trousers. Light wood slatted bench, round white marble table, outdoor cafe terrace. On the table: open dark grey MacBook, white mug with a circular graphic, one small golden financier. Behind him: cream wall, white cylindrical pillars, large black-and-white concentric-circle mural, taped cardboard boxes. Soft overcast open-shade daylight, no hard shadows, constant direction and softness. Warm bright grade: cream walls, golden wood, neutral white marble, warm skin, deep neutral blacks. He is alone; no passers-by, no staff.
-
-No on-screen text, captions, subtitles, watermarks or logos beyond the small chest logo and cap emblem already in
-@video1
-.
-```
-
-</details>
-
-<a id="seedance-diner-frozen-time-rewind"></a>
-### 1950 年代餐馆：时间静止再倒流
-
-<a href="https://x.com/techhalla/status/2083389002552664385"><img src="previews/seedance-diner-frozen-time-rewind.jpg" width="360"></a>
-
-一个特效撑满 30 秒。先把餐馆写细，静止和倒流才看得清。
-
-Seedance 2.5 · 文生视频 · 出处: [@techhalla on X](https://x.com/techhalla/status/2083389002552664385) · 2,873 赞，统计于 2026-10-27
-
-[`vfx`](pages/zh/tags.md#tag-vfx) [`time-freeze`](pages/zh/tags.md#tag-time-freeze) [`period`](pages/zh/tags.md#tag-period)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
-
-0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
-
-4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
-
-8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
-
-17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.
-
-24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
-
-Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
-```
-
-</details>
-
 **[全部 146 条](pages/zh/video-seedance25.md)**
 
 <a id="geminiomniflash"></a>
@@ -1226,169 +974,6 @@ Ultra-realistic beverage advertising, crystal-clear liquid, realistic condensati
 
 </details>
 
-<a id="omni-commercial-storyboard-board-kitchen-pan"></a>
-### 由商业分镜板生成的厨房平底锅视频
-
-<a href="https://x.com/Strength04_X/status/2078516405251801458"><img src="previews/omni-commercial-storyboard-board-kitchen-pan.jpg" width="360"></a>
-
-提示词按版式、页眉、分镜布局、摄影风格、页脚分段列出，让 GPT Image 2 先生成八格分镜板。再把分镜板作为视觉参考交给 Gemini Omni Flash，生成产品镜头。
-
-Gemini Omni Flash · 图生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2078516405251801458) · 589 赞，统计于 2026-10-27
-
-[`storyboard`](pages/zh/tags.md#tag-storyboard) [`product-shot`](pages/zh/tags.md#tag-product-shot) [`commercial`](pages/zh/tags.md#tag-commercial) [`kitchen`](pages/zh/tags.md#tag-kitchen) [`gpt-image-workflow`](pages/zh/tags.md#tag-gpt-image-workflow)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-TITLE: Premium Commercial Storyboard Presentation
-
-FORMAT:
-• Single-page premium storyboard
-• 3:4 Portrait ratio
-• Luxury advertising agency presentation board
-• Client-ready storyboard layout
-• 8 storyboard frames
-• Editorial Swiss grid system
-• High-end presentation quality
-• Print-ready infographic
-
-HEADER:
-• Large elegant serif title
-• Premium minimalist information bar
-• Information cards:
-  - Duration
-  - Style
-  - Audience
-  - Audio Suggestion
-• Rounded "Why This Style Works" section
-• Gold decorative doodles, stars, sparkles, hearts
-• Soft cream luxury background
-• Thin beige border
-• Clean editorial spacing
-
-STORYBOARD LAYOUT:
-• 8 equal storyboard panels
-• 2 rows × 4 columns
-• Rounded white cards
-• Soft realistic shadows
-• Perfect alignment
-• Equal margins
-• Professional grid layout
-• Large cinematic image in upper section
-• Information block below image
-
-EVERY STORYBOARD PANEL INCLUDES:
-• Scene number inside white outlined circle
-• Duration badge in top-right corner
-• Large commercial-quality photograph
-• Sections:
-  - Visual
-  - Action
-  - Dialogue
-• Bold section titles
-• Perfect typography hierarchy
-• Consistent spacing
-• Premium card design
-
-PHOTOGRAPHY STYLE:
-• Ultra realistic commercial photography
-• Cinematic product shots
-• Natural daylight
-• Soft warm lighting
-• Luxury advertising look
-• Shallow depth of field
-• Smooth background bokeh
-• High-end product styling
-• Professional color grading
-• DSLR quality
-• Premium lifestyle photography
-
-GRAPHIC STYLE:
-• Apple keynote presentation aesthetic
-• Behance showcase quality
-• Modern editorial magazine design
-• Premium infographic
-• Clean UI composition
-• Luxury branding
-• Elegant typography
-• Minimalist design language
-• Print-quality layout
-
-FOOTER:
-• Total Duration
-• Format
-• Visual Style
-• Minimal line icons
-• Premium editorial finish
-
-QUALITY:
-Ultra detailed, 8K, razor sharp, perfectly aligned, symmetrical composition, luxury commercial presentation, agency-quality storyboard, realistic textures, flawless typography, premium client presentation.
-```
-
-</details>
-
-<a id="omni-sparkling-lemon-drink-storyboard-commercial"></a>
-### 冰块上的气泡柠檬饮料瓶微距广告
-
-<a href="https://x.com/Strength04_X/status/2097237465887338994"><img src="previews/omni-sparkling-lemon-drink-storyboard-commercial.jpg" width="360"></a>
-
-先用 Nano Banana 2 生成八个分镜的故事板，再交给 Omni Flash 动起来。每个分镜都写明镜头方向和产品细节，镜头部分指定 120fps 液体摄影、凝结水珠微距和 360° 产品环绕。
-
-Gemini Omni Flash · 图生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2097237465887338994) · 361 赞，统计于 2026-10-28
-
-[`product-commercial`](pages/zh/tags.md#tag-product-commercial) [`beverage`](pages/zh/tags.md#tag-beverage) [`storyboard`](pages/zh/tags.md#tag-storyboard) [`macro`](pages/zh/tags.md#tag-macro) [`slow-motion`](pages/zh/tags.md#tag-slow-motion)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Premium Sparkling Lemon Drink Product Commercial Storyboard
-
-FORMAT:
-• Single-page premium storyboard
-• 3:4 Portrait ratio
-• Luxury beverage campaign
-• 8 cinematic product-focused scenes
-• Product remains the visual hero
-• High-end commercial presentation
-
-HEADER:
-• Bold contemporary typography
-• Information cards:
-  - Duration: 20 Seconds
-  - Style: High-Speed Cinematic Beverage Commercial
-  - Product: Sparkling Lemon Drink
-  - Audio: Fizz + Ice Crack + Liquid ASMR
-• Why This Style Works section
-• Crystal white, lemon yellow and silver aesthetic
-• Minimal citrus-inspired graphic accents
-
-STORYBOARD:
-1. Ice-cold bottle standing alone with heavy condensation
-2. Extreme macro of water droplets sliding down the bottle
-3. Bottle cap opening with a dramatic burst of carbonation
-4. Sparkling drink exploding upward in a controlled liquid splash
-5. Lemon slices spinning through the sparkling liquid
-6. Ice cubes falling into a crystal glass in ultra slow motion
-7. Extreme macro showing thousands of carbonation bubbles rising through the drink
-8. Final hero packshot with bottle, glass, lemon slices and frozen splash surrounding the product
-
-EVERY PANEL:
-• Scene number
-• Duration badge
-• Camera direction
-• Visual
-• Action
-• Product detail
-
-CAMERA:
-120fps high-speed liquid photography, extreme macro, frozen splash, rotating lemon slices, dramatic backlight, condensation close-up, smooth 360° product movement.
-
-STYLE:
-Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive carbonation, physically accurate water droplets
-```
-
-</details>
-
 **[全部 26 条](pages/zh/video-geminiomniflash.md)**
 
 <a id="kling40"></a>
@@ -1501,64 +1086,6 @@ POSITIVE CONSTRAINTS: The first frame contains exactly five iron blocks. The lar
 
 输入素材: [1](https://static-84.klingai-cdn-aws.com/kling-blog/file_by_url/19ce60e842cb8fb4c613ed685c77e1c4d4cf027c6e827611fe944122945eccf1.png) · [2](https://static--59.klingai-cdn-aws.com/kling-blog/file_by_url/0b1daaccfe88e3810a5249fa9b1b81d8270e3a89ba88adda865ec5cfe0fa6ae1.png)
 
-<a id="kling4-car-ad-from-reference-video"></a>
-### 照一支汽车短片的运镜，换成自己的车和背景
-
-<a href="https://static--94.klingai-cdn-aws.com/kling-blog/presigned_url/2a2039c8-2a39-48cb-83b6-a3a4f95b4446_1-3.mp4"><img src="previews/kling4-car-ad-from-reference-video.jpg" width="360"></a>
-
-保留参考视频的运镜和剪辑节奏，车和背景分别换成两张图里的。
-
-Kling 4.0 · 参考生视频 · 出处: [Kling 4.0 user guide](https://kling.ai/quickstart/kling-4-model-user-guide)
-
-[`product-commercial`](pages/zh/tags.md#tag-product-commercial) [`camera-reference`](pages/zh/tags.md#tag-camera-reference) [`multi-reference`](pages/zh/tags.md#tag-multi-reference) [`object-swap`](pages/zh/tags.md#tag-object-swap)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use @Video 1 as the reference for camera movements and shot pacing. Replace the Element with the car from @Image 1 and the background with @Image 2.
-```
-
-</details>
-
-输入素材: [1](https://static--54.klingai-cdn-aws.com/kling-blog/file_by_url/5a2591442bc22e9f30c9c01a908746abf2ee781a2f2791f024f9ff727b240966.png) · [2](https://static-58.klingai-cdn-aws.com/kling-blog/file_by_url/515ab05993934539ab58c7ab75862b3282d18fd063246deb918114a6dda943af.png) · [3](https://static--68.klingai-cdn-aws.com/kling-blog/presigned_url/d948f107-f702-4591-842f-c502eaf4e446_1-3-1.mp4)
-
-<a id="kling4-clay-cloud-teacher-counting"></a>
-### 毛毡黏土森林课堂，云朵老师教数 1 到 4
-
-<a href="https://static-77.klingai-cdn-aws.com/kling-blog/presigned_url/c025c539-645d-4cb3-8950-a1582dbba7ec_1-1.mov"><img src="previews/kling4-clay-cloud-teacher-counting.jpg" width="360"></a>
-
-五个硬切的儿童数数课。参考图只管材质和配色，提示词明确说别照搬图里的角色和数字。
-
-Kling 4.0 · 参考生视频 · 出处: [Kling 4.0 user guide](https://kling.ai/quickstart/kling-4-model-user-guide)
-
-[`kids-education`](pages/zh/tags.md#tag-kids-education) [`claymation`](pages/zh/tags.md#tag-claymation) [`felt`](pages/zh/tags.md#tag-felt) [`multi-shot`](pages/zh/tags.md#tag-multi-shot) [`structured-prompt`](pages/zh/tags.md#tag-structured-prompt) [`voiceover`](pages/zh/tags.md#tag-voiceover)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-SCENE CONTEXT: EXACTLY 3 UNIQUE CHARACTERS ACROSS THE VIDEO — NO DUPLICATES.EXT. Enchanted counting forest classroom, warm morning. One soft cream cloud teacher teaches the numbers 1, 2, 3 and 4 in four separate shots. Two tiny yellow chick pupils appear only in the number-two shot.3 characters across the video, 5 hard-cut shots, 15s, real time. @Image1: visual-world reference only — handmade clay-and-felt materials, rounded toy-like forms, pastel forest trunks, mossy ground, rainbow colours, warm diffused backlight and shallow storybook depth. Never inherit its existing characters, numerals or composition.
-LOCATION MAP: All five shots occur on the same circular moss stage inside one enchanted forest classroom.One broad warm-brown tree trunk anchors frame-left; a second tree trunk anchors frame-right. A curved pastel rainbow root crosses the background. The central teaching pedestal remains in the same position in every shot. Camera always stays on the front side of the teaching axis, between 3.0 and 3.3 m from the pedestal. The sun always comes from upper frame-right. Background geometry, material scale and colour palette remain identical after every cut.
-FIRST FRAME AND SPATIAL BLOCKING: Shot 1: the cloud teacher floats centre-left, facing a large red felt numeral 1 on the central pedestal. One red apple is concealed inside the moss below it. Shot 2: The cloud teacher floats centre-left, facing a large amber felt numeral 2. Two yellow chicks begin concealed behind the pedestal. Shot 3: the cloud teacher floats centre-left, facing a large green felt numeral 3. Three blue felt stars begin nested inside the moss. Shot 4: the cloud teacher floats centre-left, facing a large blue felt numeral 4. Four purple clay blocks begin below the pedestal. Shot 5: the cloud teacher floats alone at centre, facing the viewer beneath the rainbow root. Every shot begins mid-gesture with the teacher already pointing toward the active numeral. No empty establishing beat.
-FORMAT MODE: Horizontal 16:9, total 15s, real time, 5 shots connected by clean hard cuts.Shot 1 — 0.00–4.00s: number 1 and one apple.Shot 2 — 4.00–7.08s: number 2 and two chicks.Shot 3 — 7.08–10.21s: number 3 and three stars.Shot 4 — 10.21–13.08s: number 4 and four blocks.Shot 5 — 13.08–15.00s: spoken recap and celebration. Each number receives its own separate shot. Numerals 1, 2, 3 and 4 never share the same teaching frame.No fades, dissolves or split screens.
-OPTICS: 35mm equivalent, 54° horizontal FOV, locked across all five shots. Identical natural perspective, camera height, background scale and depth-of-field character after every cut. Focal plane remains on the cloud teacher, active numeral and active quantity. Foreground flowers softly obscure the lower corners. Distant trees dissolve into the same creamy storybook blur.
-CAMERA: Every shot is operated handheld at approximately 105 cm height from the front side of the teaching axis. World register: gentle SETTLE. Shot 1: slow 10 cm push toward numeral 1. Shot 2: slow 10 cm push toward numeral 2. Shot 3: slow 10 cm push toward numeral 3.Shot 4: slow 10 cm push toward numeral 4. Shot 5: slow 8 cm push toward the celebrating teacher.Visible handheld character throughout: breath sway, micro-roll, late tiny corrections and gentle but obvious handmade shake. Numerals and subtitles remain readable. Camera height, axis and movement speed match across all cuts.Not a gimbal, slider, tripod lock-off, drone or digitally stabilised camera.
-ACTION TIMING 0.00–0.78s: Shot 1 begins. The cloud teacher already points toward the red numeral 1. 0.78–1.98s: numeral 1 rises and completes one soft bounce. 1.98–4.00s: one red apple rises from the moss and settles beneath numeral 1. 4.00–4.86s: hard cut to Shot 2. The amber numeral 2 rises and completes one soft bounce. 4.86–7.08s: one yellow chick hops out from the left, then a second chick joins from the right; they touch shoulders and settle together. 7.08–8.04s: hard cut to Shot 3. The green numeral 3 rises and completes one soft bounce. 8.04–10.21s: two blue felt stars rise together, followed by one additional star; the three stars settle into a clear triangular arrangement. 10.21–11.06s: hard cut to Shot 4. The blue numeral 4 rises and completes one soft bounce. 11.06–13.08s: three purple blocks assemble first; one additional block clicks into the fourth position. 13.08–14.40s: hard cut to Shot 5. Four tiny coloured fireflies pulse sequentially red, amber, green and blue while the teacher points from left to right. 14.40–15.00s: the teacher opens both arms; a small clay sun unfolds above the rainbow and releases a brief sparkle burst.
-PHYSICS: The cloud teacher has the buoyancy of a lightweight stuffed felt puppet, with soft vertical drift and delayed arm movement. Each numeral has padded felt weight: it compresses, rebounds once and settles. The apple lands with soft clay weight. The chicks’ feet squash slightly into the moss. Stars descend with gentle air resistance. Blocks connect with firm edge-to-edge contact. Every quantity remains stable and readable until its shot ends. Hard cuts reset the teaching pedestal cleanly while preserving the same forest, teacher identity, material scale and lighting.
-LIGHTING: One identical motivated source in every shot: warm morning sunlight filtering through the trees from upper frame-right.The teacher’s lower-left side remains slightly darker in all five shots. Soft rim light separates the felt fibres from the forest. Protect the cream cloud, pastel numerals and rainbow highlights from clipping. The direction, colour temperature, haze density and exposure remain unchanged across every cut.
-AUDIO VOICEOVER: The cloud teacher speaks in English with the same warm, clear, medium-high preschool-teacher voice in every shot. Pronunciation is slow, encouraging and rhythmically precise.0.78s: “One.”1.98s: “One means just one.”4.16s: “Two.”4.86s: “Two means one and one together.”7.26s: “Three.”8.04s: “Three means two and one more.”10.32s: “Four.”11.06s: “Four means three and one more.”13.32s: “One, two, three, four.”14.40s: “Great job!”
-MUSIC: one continuous original children’s instrumental across all cuts, using soft marimba, toy piano, light ukulele, felt-drum taps and gentle handclaps. The same melody, tempo and instrumentation continue seamlessly through every shot. It rises slightly with each new number and ends with a short celebratory flourish.SFX: one soft felt pop for each numeral bounce; one clay plop for the apple; two tiny moss footsteps for the chicks; three sparkle chimes for the stars; four wooden clicks for the blocks; four soft firefly pings during the recap; one bright celebration chime at the end.
-AMBIENCE: continuous close grass rustle, mid-distance leaves and faint woodland birds. The ambience never resets at the cuts.MIX: narration remains clear and centred. Music ducks beneath every spoken line. Sound effects synchronise exactly with the quantities. Music and ambience remain continuous across every hard cut.
-SUBTITLES: Burned-in English subtitles, bottom-centre inside the title-safe area, positioned 10% above the lower edge.One or two lines maximum. Rounded cream felt subtitle panel with dark chocolate-brown bold lettering, high contrast and stable placement. Subtitles appear and disappear exactly with the matching narration:0.78–1.38s: “ONE.”1.98–3.84s: “ONE MEANS JUST ONE.”4.16–4.66s: “TWO.”4.86–6.82s: “TWO MEANS ONE AND ONE TOGETHER.”7.26–7.78s: “THREE.”8.04–10.16s: “THREE MEANS TWO AND ONE MORE.”10.32–10.80s: “FOUR.”11.06–13.08s: “FOUR MEANS THREE AND ONE MORE.”13.32–14.24s: “ONE, TWO, THREE, FOUR.”14.40–15.00s: “GREAT JOB!”
-CHARACTER ACTING: Cloud teacher: identical body proportions, cream felt texture, tiny arms, dot eyes, rosy cheeks and a small smiling mouth in every shot. Uses slow preschool-teaching gestures. The gaze always lands on the active numeral or quantity. The expression gradually changes from patient concentration in Shot 1 to a broad celebratory smile in Shot 5.Shot 1: points with one hand and watches the single apple settle.Shot 2: brings both hands together as the two chicks join.Shot 3: traces a small triangle after the third star appears.Shot 4: raises four soft fingertips after the final block connects.Shot 5: points across four firefly pulses, then opens both arms toward the viewer.Two chick pupils: appear only in Shot 2. The first chick leaves a visible space beside itself; the second fills that space. Both look up at the teacher and blink once after joining.
-STYLE: One perfectly consistent handmade clay-and-felt stop-motion storybook world across every shot.Rounded silhouettes, tactile fingerprints, plush fibres, softly imperfect surfaces, oversized friendly trees, moss carpet, tiny flowers and pastel rainbow details.Identical teacher model, forest geometry, prop scale, material softness, lens character and lighting direction after every cut.Soft vintage optical character, old-photograph texture, subtle film grain, slight halation and natural motion blur.Colour 60:30:10 = moss green and warm wood / cream and pastel numeral colours / coral-red and sunny-yellow accents. Vintage photo softness, no sharpening.
-QUALITY: The cloud teacher, active numeral, active quantity and subtitles remain readable in every shot. Numeral shapes are conventional, upright and unambiguous. Subtitle spelling, punctuation and timing match the specified script exactly. Subtitle size, typeface, panel shape and screen position remain identical across all cuts. Soft old-photo resolution, never digitally sharpened.Natural motion blur without ghosting, duplicated limbs, malformed numerals, incorrect quantities or plastic CGI surfaces.
-POSITIVE CONSTRAINTS: Numbers 1, 2, 3 and 4 each receive one separate teaching shot. Only one large numeral appears in each teaching shot. Shot 1 contains exactly one apple. Shot 2 contains exactly two yellow chicks. Shot 3 contains exactly three blue stars. Shot 4 contains exactly four purple blocks. Shot 5 contains only the cloud teacher, four sequential firefly pulses and the final clay sun. The same cloud teacher identity, forest style, light direction, optics, colour palette, music and subtitle design continue across every cut. Speech count: exactly 10 lines. Every subtitle matches its spoken line word for word. A shared 1–4 teaching frame, split screen, incorrect quantity, extra character, style change, lighting change, malformed subtitle or mismatched narration = failed shot.
-```
-
-</details>
-
-输入素材: [1](https://static-29.klingai-cdn-aws.com/kling-blog/file_by_url/5c612de9b2a3a866c24704652186c8a37d57cfc480e6748e24137cf2aa8215ca.webp)
-
 **[全部 26 条](pages/zh/video-kling40.md)**
 
 <a id="kling30"></a>
@@ -1644,102 +1171,6 @@ Kling 3.0 · 文生视频 · 出处: [@higgsfield_ai on X](https://x.com/higgsfi
 
 ```text
 POV flight from a golden eagle soaring over vast mountainous steppe landscapes. Camera locked to the eagle’s head with clean, precise tracking — stable forward motion, no jitter. The eagle actively flaps its wings, powerful wingbeats transitioning into smooth gliding. Wings and feathers visible at the frame edges, moving naturally in rhythm. Strong ground parallax below: winding rivers, open valleys, rocky peaks. Bright late-afternoon light, crisp air, subtle lens flare. Ultra-wide cinematic perspective, natural motion blur from speed only, realistic flight physics, continuous shot, no cuts.
-```
-
-</details>
-
-<a id="kling-turntable-needle-macro-pushin"></a>
-### 唱机推镜至唱针微距
-
-<a href="https://x.com/higgsfield_ai/status/2019101323317375400"><img src="previews/kling-turntable-needle-macro-pushin.jpg" width="360"></a>
-
-以给定画面为起始帧，一镜到底。刚性螺栓固定式推镜锁定唱针尖，并列出微距细节、主导音效和明确的镜头规则。
-
-Kling 3.0 · 图生视频 · 出处: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019101323317375400) · 2,357 赞，统计于 2026-10-27
-
-[`macro`](pages/zh/tags.md#tag-macro) [`single-take`](pages/zh/tags.md#tag-single-take) [`sound-design`](pages/zh/tags.md#tag-sound-design) [`push-in`](pages/zh/tags.md#tag-push-in) [`analog`](pages/zh/tags.md#tag-analog)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use the provided image as the exact starting frame.
-Cinematic video, single continuous shot, duration 5–7 seconds.
-Single take. No cuts. No transitions.
-CAMERA & ACTION (CONTINUOUS MOTION)
-The camera starts static, framing a turntable in warm analog studio light.
-A human hand lowers the tonearm onto a spinning vinyl record.
-The record begins rotating smoothly. Immediately after contact, the camera accelerates forward in one continuous movement, a fast, rigid robot-bolt push-in directly toward the stylus needle. No easing. No cinematic zoom. Pure mechanical forward motion. As the camera reaches extreme macro distance, it locks onto the needle tip, as if physically bolted to it, without any cut. From this moment on, the camera moves together with the needle, perfectly synchronized.
-
-MACRO DETAIL (SAME SHOT)
-Extreme macro view shows:
-Stylus tip vibrating microscopically
-Vinyl grooves flowing beneath
-Dust particles, micro scratches, groove texture
-Subtle vertical and lateral needle movement, physically accurate
-The camera remains rigidly attached, only tiny micro-vibrations from groove friction.
-
-SOUND DESIGN (DOMINANT, CONTINUOUS)
-Sound is uninterrupted and dominant:
-Needle drop click
-Loud, authentic vinyl crackle and hiss
-Stylus-on-groove friction
-Low mechanical hum of the turntable
-No music clarity at first — raw analog texture only.
-No score. No digital effects.
-
-VISUAL STYLE
-Extreme macro cinematography
-Ultra-shallow depth of field
-Warm analog color grading
-Natural reflections on vinyl
-Subtle film grain
-
-CAMERA RULES
-One continuous take
-No cuts, no edits, no montage
-No handheld shake
-No floating camera
-Robo-cam, bolt-mounted feel only
-
-END FRAME
-Camera stays locked to the needle,
-vinyl spinning endlessly beneath it,
-hypnotic, mechanical, intimate.
-```
-
-</details>
-
-<a id="kling-manhattan-panic-nine-shot-sequence"></a>
-### 身穿条纹睡袍的惊慌女子冲上曼哈顿街头
-
-<a href="https://x.com/higgsfield_ai/status/2019314800409600470"><img src="previews/kling-manhattan-panic-nine-shot-sequence.jpg" width="360"></a>
-
-每个镜头单独编号，写明景别、镜头运动和一个具体动作。穿插微距细节和情绪反差的平静画面来制造节奏，并反复写出主角的外观，让她在各镜头间保持一致。
-
-Kling 3.0 · 文生视频 · 出处: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019314800409600470) · 622 赞，统计于 2026-10-27
-
-[`multi-shot`](pages/zh/tags.md#tag-multi-shot) [`cinematic`](pages/zh/tags.md#tag-cinematic) [`handheld`](pages/zh/tags.md#tag-handheld) [`macro`](pages/zh/tags.md#tag-macro) [`city`](pages/zh/tags.md#tag-city)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Shot 1: High-intensity handheld tracking shot. A young woman with disheveled blonde hair, wearing a white tank top under a vibrant red and blue vertical-striped silk robe, bursts out of a shadowy alleyway. Her face is a mask of pure panic as she stumbles onto a sun-drenched Manhattan sidewalk, the camera shaking to mirror her frantic movements.
-
-Shot 2: Medium shot, shallow depth of field. A middle-aged businessman in a charcoal suit and navy tie stands amidst a sea of pedestrians. He checks his silver watch with a sharp, rhythmic jerk of his wrist, his brow furrowed in annoyance. The background is a blur of yellow taxis and the towering architecture of 5th Avenue.
-
-Shot 3: Extreme macro photography. The camera focus is locked onto the tip of a silver watch hand as it clicks forward. Microscopic dust motes dance in the harsh sunlight reflecting off the brushed metal surface of the dial.
-
-Shot 4: Low-angle medium shot. Rapid-fire motion of a street drummer’s hands hitting a series of weathered white plastic buckets. The wooden drumsticks are a blur of motion, and the camera captures the vibration of the plastic lids as the city crowd flows past in a time-lapse-like stream.
-
-Shot 5: Low-angle medium shot. The woman in the striped robe has stopped running; she is hunched over, hands on her knees, gasping for breath. The camera remains low, making the surrounding skyscrapers feel like they are closing in on her as she looks around, disoriented.
-
-Shot 6: Macro close-up, high contrast. A man’s stubbled face as he inhales from a cigarette. The paper crinkles and the tobacco glows a fierce, molten orange before instantly turning into a delicate, flaky grey ash that threatens to fall.
-
-Shot 7: Extreme close-up of the woman's face, focusing on her piercing blue eyes. Her pupils are dilated, and her forehead is deeply wrinkled with anxiety. The reflection of the busy street and moving vehicles can be seen glinting in her irises.
-
-Shot 8: Medium-wide lifestyle shot. Two young Asian women walk across a city crosswalk, bathed in warm afternoon "golden hour" light. They are laughing and talking, creating a sharp emotional contrast to the previous shots of distress.
-
-Shot 9: Final tight close-up. The blonde woman stares directly into the lens, her expression shifting from confusion to absolute shock. She slowly brings her hand up, her fingers trembling, to cover her mouth as her eyes well up with fear.
 ```
 
 </details>
@@ -1902,104 +1333,6 @@ Ultra clean luxury skincare commercial finish.
 
 </details>
 
-<a id="veo-live-streamer-neon-desk"></a>
-### 霓虹游戏桌前兴奋反应的女主播
-
-<a href="https://x.com/HBCoop_/status/1995206291120087487"><img src="previews/veo-live-streamer-neon-desk.jpg" width="360"></a>
-
-提示词用中近景、脉动霓虹光和手持微晃营造直播的实时感，并逐项列出环境声、键盘声、麦克风底噪和远处游戏音效。Midjourney 角色参考加 Nano Banana Pro 首帧，让人物保持一致。
-
-Veo 3.1 · 图生视频 · 出处: [@HBCoop_ on X](https://x.com/HBCoop_/status/1995206291120087487) · 366 赞，统计于 2026-10-28
-
-[`streamer`](pages/zh/tags.md#tag-streamer) [`neon-lighting`](pages/zh/tags.md#tag-neon-lighting) [`handheld-camera`](pages/zh/tags.md#tag-handheld-camera) [`native-audio`](pages/zh/tags.md#tag-native-audio) [`character-reference`](pages/zh/tags.md#tag-character-reference)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Nano Banana Pro -> Veo 3.1 on
-@FlowbyGoogle
-
-
-Character reference: Midjourney
-
-Video prompt: A medium close-up shot of a young woman streaming live at her gaming desk, bathed in neon pink-blue LED lighting that pulses subtly in the background. She reacts with wide-eyed excitement, leaning closer to the camera while gripping her controller, her plaid shirt shifting naturally with the movement. The camera performs a gentle handheld micro-sway to match the high-energy, real-time feel of a live stream. Her chat monitor glows off-screen, casting soft highlights on her face as her expression shifts between shock and joy. Audio includes soft room ambience, quiet keyboard clicks, a faint microphone hum, and the distant echoes of gameplay sound effects.
-```
-
-</details>
-
-<a id="veo-potato-farm-to-chip-commercial"></a>
-### 日出农田里土豆变成脆片的广告
-
-<a href="https://x.com/Fujimoto_hina/status/2094644333882540334"><img src="previews/veo-potato-farm-to-chip-commercial.jpg" width="360"></a>
-
-用JSON把十秒拆成四个带时间码的分镜，每段写明镜头类型、动作和光线。无缝变形把土豆从泥土带到切片旋涡再到脆片，结尾用微距慢动作掰断，并用负面提示排除文字和标志。
-
-Veo 3.1 · 文生视频 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2094644333882540334) · 282 赞，统计于 2026-10-28
-
-[`food-commercial`](pages/zh/tags.md#tag-food-commercial) [`macro`](pages/zh/tags.md#tag-macro) [`morph-transition`](pages/zh/tags.md#tag-morph-transition) [`json-prompt`](pages/zh/tags.md#tag-json-prompt) [`storyboard`](pages/zh/tags.md#tag-storyboard)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-  "commercial_specifications": {
-    "title": "Farm to Table: Potato Chip Transformation",
-    "duration_seconds": 10,
-    "aspect_ratio": "16:9",
-    "resolution": "4K",
-    "style": "Cinematic photorealistic premium food commercial",
-    "lighting": "Cinematic golden hour sunrise, warm highlights",
-    "depth_of_field": "Shallow depth of field with high-speed macro focus",
-    "audio_visual_notes": "No text, no logos, hyper-realistic physics"
-  },
-  "storyboard_timeline": [
-    {
-      "timecode": "00:00 - 00:02",
-      "scene": "The Origin",
-      "shot_type": "Close-up pushing in rapidly",
-      "action": "A single raw, fresh potato rests in rich, dark soil at sunrise, lightly coated with fine earth particles. Sunlight filters dynamically through overhead foliage.",
-      "lighting_atmosphere": "Warm morning glow, soft sun flare"
-    },
-    {
-      "timecode": "00:02 - 00:05",
-      "scene": "The Dynamic Transformation",
-      "shot_type": "Dynamic tracking / High-speed aerial follow",
-      "action": "The potato bursts upward from the earth and spins mid-air. In a seamless morph, it sheds its skin and cleanly slices into translucent raw potato rounds swirling in a tight spiral vortex.",
-      "physics_effects": "Particle burst of soil, aerodynamic slice trajectory"
-    },
-    {
-      "timecode": "00:05 - 00:08",
-      "scene": "The Crisp & Flight",
-      "shot_type": "Continuous smooth orbital tracking",
-      "action": "The swirling slices flash-cook into a single perfect, undulating golden-brown potato chip with crisp ruffled edges. The camera tracks alongside the chip as it glides toward a rustic styled wooden dining table.",
-      "visual_details": "Glistening oil sheen, fine salt crystals catching the light"
-    },
-    {
-      "timecode": "00:08 - 00:10",
-      "scene": "The Hero Landing & Snap",
-      "shot_type": "Ultra-macro high-speed slow motion",
-      "action": "The golden chip lands gently beside an artisanal bowl overflowing with freshly prepared chips. In extreme close-up, the hero chip snaps cleanly in half, releasing delicate airy crumb particles in slow motion.",
-      "texture_focus": "Micro-blisters on chip surface, crisp fracture, golden translucence"
-    }
-  ],
-  "prompt_parameters": {
-    "camera": "Dynamic push-in to orbital tracking to high-speed macro slow motion",
-    "render_qualities": [
-      "Photorealistic textures",
-      "Cinematic sunrise lighting",
-      "Shallow depth of field",
-      "Realistic physics",
-      "Seamless morph transitions",
-      "Warm golden highlights",
-      "Ultra-detailed 4K"
-    ],
-    "negative_prompt": "text, watermark, logo, blurry, low resolution, cartoon, plastic texture, unrealistic movement, jerky cuts"
-  }
-}
-```
-
-</details>
-
 **[全部 10 条](pages/zh/video-veo31.md)**
 
 <a id="veo3"></a>
@@ -2081,24 +1414,7 @@ The scene explodes with the raw, visceral, and unpredictable energy of a hardcor
 
 </details>
 
-<a id="veo-old-sailor-verse"></a>
-### 老水手念诗
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__sailor.webm"><img src="previews/veo-old-sailor-verse.jpg" width="360"></a>
-
-先写人物（帽子、胡子、烟斗），再把台词放进引号，Veo 3 会按引号里的内容对口型。
-
-Veo 3 · 文生视频 · 出处: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`dialogue`](pages/zh/tags.md#tag-dialogue) [`character`](pages/zh/tags.md#tag-character)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A medium shot frames an old sailor, his knitted blue sailor hat casting a shadow over his eyes, a thick grey beard obscuring his chin. He holds his pipe in one hand, gesturing with it towards the churning, grey sea beyond the ship's railing. "This ocean, it's a force, a wild, untamed might. And she commands your awe, with every breaking light"
-```
-
-</details>
+**[全部 5 条](pages/zh/video-veo3.md)**
 
 <a id="sora2"></a>
 ## Sora 2
@@ -2214,6 +1530,1892 @@ She turns around and smiles, then slowly walks out of the frame.
 
 <a id="img-poster"></a>
 ## 海报与编辑排版
+
+<a id="gpt-image-flat-vector-city-travel-poster-template"></a>
+### 适用任意城市的扁平矢量旅行海报模板
+
+<a href="https://x.com/MahnoorAi12/status/2091349007922778211"><img src="previews/gpt-image-flat-vector-city-travel-poster-template.jpg" width="360"></a>
+
+用一个城市名占位符驱动地标、交通、生活瞬间、本地植物、视角五个要素，让每个城市的画面结构都不同。严格的配色体系、少量人物和较长的反向提示词，让扁平矢量风格保持安静统一。
+
+GPT Image 2 · 文生图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2091349007922778211) · 3,421 赞，统计于 2026-10-28
+
+[`travel-poster`](pages/zh/tags.md#tag-travel-poster) [`flat-vector`](pages/zh/tags.md#tag-flat-vector) [`template`](pages/zh/tags.md#tag-template) [`city`](pages/zh/tags.md#tag-city) [`minimalist`](pages/zh/tags.md#tag-minimalist)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical format.
+
+Design an original, sophisticated travel poster that captures the authentic visual personality of [CITY_NAME]. The composition must feel purpose-built for this city rather than following a reusable template.
+
+CITY IDENTITY
+
+First interpret the unique visual character of [CITY_NAME] and build the scene around these five elements:
+
+1. A recognizable landmark, architectural feature, or skyline element.
+2. A distinctive local way of moving through the city.
+3. One subtle everyday lifestyle moment.
+4. A native plant, landscape, or environmental characteristic.
+5. A composition and viewpoint that naturally belongs to the city.
+
+The overall scene structure must change from city to city. Do not repeatedly use the same object positions or visual formula.
+
+Possible compositions include:
+harbor viewpoint, narrow historic lane, riverside garden, coastal path, elevated city overlook, lively market passage, tram avenue, ferry terminal, botanical setting, heritage square, beach promenade, cultural plaza, or skyline terrace.
+
+Choose whichever composition best represents [CITY_NAME].
+
+TYPOGRAPHY
+
+Place “[CITY_NAME]” in the upper-left area with generous clean negative space.
+
+Add one short, sophisticated English tagline inspired by the atmosphere of the city.
+
+Typography should feel understated, editorial, spacious, and premium. Never allow text to dominate the artwork.
+
+VISUAL HIERARCHY
+
+Use one iconic landmark or architectural feature as the main focal point.
+
+Support it with only 2–4 carefully selected local elements. Every added detail should strengthen the sense of place.
+
+Avoid landmark collections or postcard-style collages. Keep the scene visually quiet and intentional.
+
+PEOPLE
+
+Include only 3–6 small-scale figures.
+
+Give each person a believable activity connected to local life, such as:
+walking through a historic lane, cycling, waiting for public transport, sketching architecture, boarding a ferry, reading outdoors, taking a quiet photograph, carrying beach equipment, browsing a market, or jogging beside the water.
+
+Avoid crowds and avoid making any single person the main character. Figures should integrate naturally into the environment.
+
+LOCAL CHARACTER
+
+Use city-specific elements only when they genuinely fit [CITY_NAME]:
+
+- local transportation
+- architecture
+- street furniture
+- vegetation
+- small signs or wayfinding
+- local food references
+- recreational activities
+- pavement markings
+- cultural details
+
+Transport and signage should remain subtle. Instead of always using a large signboard, incorporate details naturally through a small transit marker, station clock, ferry information panel, bike symbol, painted road marking, beach flag, or understated metro icon.
+
+ART DIRECTION
+
+Japanese stationery-inspired aesthetic,
+luxury sticker illustration,
+premium commercial vector artwork,
+modern editorial travel branding,
+clean delicate outlines,
+uniform line weight,
+simple geometric forms,
+flat-color illustration,
+soft shapes,
+balanced visual rhythm,
+high-end minimalist postcard design.
+
+COLOR SYSTEM
+
+Build the atmosphere primarily with:
+pale powder blue, soft sky blue, mist blue, and cool airy blues.
+
+Balance these with:
+warm ivory, cream, soft beige, muted sage, gray-green, and understated architectural neutrals.
+
+Use dusty rose or muted blush only for tiny visual accents such as flowers, clothing details, small signs, awnings, or decorative objects.
+
+Colors should remain soft, sophisticated, slightly desaturated, and cohesive.
+
+MOOD
+
+Fresh, airy, peaceful, refined, contemporary, elegant.
+
+The final artwork should feel like a premium boutique travel postcard or luxury lifestyle brand illustration, with generous breathing room and a relaxed sense of place.
+
+IMPORTANT QUALITY RULES
+
+Every city must have its own visual identity.
+Change the camera angle, scene structure, landmark placement, foreground treatment, and supporting details according to the city's character.
+
+Do not simply replace [CITY_NAME] inside an existing composition.
+
+NEGATIVE PROMPT
+
+No photorealism.
+No realism.
+No watercolor.
+No painterly brushwork.
+No gradients.
+No heavy shadows.
+No dramatic cinematic lighting.
+No paper texture.
+No excessive detail.
+No cluttered background.
+No landmark collage.
+No crowded streets.
+No oversized characters.
+No dominant hero character.
+No repetitive café composition.
+No fixed signboard position.
+No identical foreground treatment.
+No generic tourist-poster formula.
+No copied layout from another city.
+No unnecessary decorative elements.
+```
+
+</details>
+
+<a id="gpt-image-tv-show-world-isometric-map-diorama"></a>
+### 电视剧世界等距地图微缩景观海报
+
+<a href="https://x.com/TechieBySA/status/2091167214195847433"><img src="previews/gpt-image-tv-show-world-isometric-map-diorama.jpg" width="360"></a>
+
+用一个可替换的剧名占位符，并按虚构或真实场景分支，让微缩景观贴合地图轮廓并挤出成岩石厚板。固定的版面把上方三分之一留白给宽字距小字和粗窄标题，海报更干净。
+
+GPT Image 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2091167214195847433) · 2,678 赞，统计于 2026-10-28
+
+[`isometric`](pages/zh/tags.md#tag-isometric) [`diorama`](pages/zh/tags.md#tag-diorama) [`tilt-shift`](pages/zh/tags.md#tag-tilt-shift) [`tv-show`](pages/zh/tags.md#tag-tv-show) [`template`](pages/zh/tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Simply replace [TV SHOW]:✨
+
+“Ultra-detailed photorealistic isometric miniature scale-model diorama of the world from [TV SHOW], floating on a pure off-white studio background with a soft drop shadow beneath.
+
+If [TV SHOW] has a fictional world map: the diorama takes the exact silhouette shape of that fictional continent or world, extruded downward into a thick slab of raw rock and earth with rough cliff-like edges. The top surface recreates the complete world geography exactly as established in the show — every region, kingdom, city, landmark, mountain range, forest and river in its correct canonical position.
+
+If [TV SHOW] is set in the real world: the diorama takes the exact geographic silhouette shape of the real city, state or region where the show is primarily set, extruded into a thick rock slab. The top surface is filled entirely with locations, landmarks, routes and environments from the show rendered in the show's authentic color palette and visual atmosphere — not generic realistic geography but the world as it feels in the show.
+
+In both cases: dense micro-detail throughout — tiny figures in show-accurate clothing, vehicles, buildings, roads, trees, all authentic to the show's world. Every iconic location a fan would recognize is present and accurately placed.
+
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Lighting and color palette match the show's visual identity exactly.
+
+Layout: diorama floats centered in the lower two-thirds, clear margins all sides. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the location or world name at the very top, then [TV SHOW] in a bold condensed sans-serif in medium charcoal grey — large and dominant, then small wide-tracked caps below with network and year.
+
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
+```
+
+</details>
+
+<a id="gpt-image-city-placeholder-flat-vector-travel-poster"></a>
+### 可替换城市名的扁平矢量旅行海报
+
+<a href="https://x.com/AiwithLariab/status/2091435219002003957"><img src="previews/gpt-image-city-placeholder-flat-vector-travel-poster.jpg" width="360"></a>
+
+用一个城市占位符展开出地标、本地交通、生活片段、本地植物和视角五项要素，再用人物数量上限、浅蓝奶油色板和详细的负面提示，让每个城市的构图各不相同。
+
+GPT Image 2 · 文生图 · 出处: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2091435219002003957) · 954 赞，统计于 2026-10-28
+
+[`travel-poster`](pages/zh/tags.md#tag-travel-poster) [`flat-vector`](pages/zh/tags.md#tag-flat-vector) [`city`](pages/zh/tags.md#tag-city) [`template`](pages/zh/tags.md#tag-template) [`minimalist`](pages/zh/tags.md#tag-minimalist)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical format.
+
+Design an original, sophisticated travel poster that captures the authentic visual personality of [CITY_NAME]. The composition must feel purpose-built for this city rather than following a reusable template.
+
+CITY IDENTITY
+
+First interpret the unique visual character of [CITY_NAME] and build the scene around these five elements:
+
+1. A recognizable landmark, architectural feature, or skyline element.
+2. A distinctive local way of moving through the city.
+3. One subtle everyday lifestyle moment.
+4. A native plant, landscape, or environmental characteristic.
+5. A composition and viewpoint that naturally belongs to the city.
+
+The overall scene structure must change from city to city. Do not repeatedly use the same object positions or visual formula.
+
+Possible compositions include:
+harbor viewpoint, narrow historic lane, riverside garden, coastal path, elevated city overlook, lively market passage, tram avenue, ferry terminal, botanical setting, heritage square, beach promenade, cultural plaza, or skyline terrace.
+
+Choose whichever composition best represents [CITY_NAME].
+
+TYPOGRAPHY
+
+Place “[CITY_NAME]” in the upper-left area with generous clean negative space.
+
+Add one short, sophisticated English tagline inspired by the atmosphere of the city.
+
+Typography should feel understated, editorial, spacious, and premium. Never allow text to dominate the artwork.
+
+VISUAL HIERARCHY
+
+Use one iconic landmark or architectural feature as the main focal point.
+
+Support it with only 2–4 carefully selected local elements. Every added detail should strengthen the sense of place.
+
+Avoid landmark collections or postcard-style collages. Keep the scene visually quiet and intentional.
+
+PEOPLE
+
+Include only 3–6 small-scale figures.
+
+Give each person a believable activity connected to local life, such as:
+walking through a historic lane, cycling, waiting for public transport, sketching architecture, boarding a ferry, reading outdoors, taking a quiet photograph, carrying beach equipment, browsing a market, or jogging beside the water.
+
+Avoid crowds and avoid making any single person the main character. Figures should integrate naturally into the environment.
+
+LOCAL CHARACTER
+
+Use city-specific elements only when they genuinely fit [CITY_NAME]:
+
+- local transportation
+- architecture
+- street furniture
+- vegetation
+- small signs or wayfinding
+- local food references
+- recreational activities
+- pavement markings
+- cultural details
+
+Transport and signage should remain subtle. Instead of always using a large signboard, incorporate details naturally through a small transit marker, station clock, ferry information panel, bike symbol, painted road marking, beach flag, or understated metro icon.
+
+ART DIRECTION
+
+Japanese stationery-inspired aesthetic,
+luxury sticker illustration,
+premium commercial vector artwork,
+modern editorial travel branding,
+clean delicate outlines,
+uniform line weight,
+simple geometric forms,
+flat-color illustration,
+soft shapes,
+balanced visual rhythm,
+high-end minimalist postcard design.
+
+COLOR SYSTEM
+
+Build the atmosphere primarily with:
+pale powder blue, soft sky blue, mist blue, and cool airy blues.
+
+Balance these with:
+warm ivory, cream, soft beige, muted sage, gray-green, and understated architectural neutrals.
+
+Use dusty rose or muted blush only for tiny visual accents such as flowers, clothing details, small signs, awnings, or decorative objects.
+
+Colors should remain soft, sophisticated, slightly desaturated, and cohesive.
+
+MOOD
+
+Fresh, airy, peaceful, refined, contemporary, elegant.
+
+The final artwork should feel like a premium boutique travel postcard or luxury lifestyle brand illustration, with generous breathing room and a relaxed sense of place.
+
+IMPORTANT QUALITY RULES
+
+Every city must have its own visual identity.
+Change the camera angle, scene structure, landmark placement, foreground treatment, and supporting details according to the city's character.
+
+Do not simply replace [CITY_NAME] inside an existing composition.
+
+NEGATIVE PROMPT
+
+No photorealism.
+No realism.
+No watercolor.
+No painterly brushwork.
+No gradients.
+No heavy shadows.
+No dramatic cinematic lighting.
+No paper texture.
+No excessive detail.
+No cluttered background.
+No landmark collage.
+No crowded streets.
+No oversized characters.
+No dominant hero character.
+No repetitive café composition.
+No fixed signboard position.
+No identical foreground treatment.
+No generic tourist-poster formula.
+No copied layout from another city.
+No unnecessary decorative elements.
+```
+
+</details>
+
+<a id="nano-banana-monstera-leaf-hidden-words"></a>
+### 龟背竹叶片缝隙中浮现隐藏文字
+
+<a href="https://x.com/fofrAI/status/2107509669514113058"><img src="previews/nano-banana-monstera-leaf-hidden-words.jpg" width="360"></a>
+
+提示词只指定一个真实物体，并要求文字从它的天然特征中自然浮现，字形顺着叶片自身的裂口生成，而不是叠加在表面。简洁的背景让缝隙更容易被读成字母。
+
+Nano Banana 2.1 · 文生图 · 出处: [@fofrAI on X](https://x.com/fofrAI/status/2107509669514113058) · 549 赞，统计于 2026-10-28
+
+[`text-in-image`](pages/zh/tags.md#tag-text-in-image) [`monstera`](pages/zh/tags.md#tag-monstera) [`nature`](pages/zh/tags.md#tag-nature) [`typography`](pages/zh/tags.md#tag-typography) [`photo`](pages/zh/tags.md#tag-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A photo of a monstera leaf against a simple backdrop, cleverly and organically appearing within the natural gaps of the leaf are the words Nano Banana
+```
+
+</details>
+
+**[全部 81 条](pages/zh/image-poster.md)**
+
+<a id="img-infographic"></a>
+## 信息图与幻灯片
+
+<a id="gpt-image-grayscale-3d-household-chores-step-grid"></a>
+### 灰度3D家务步骤说明图网格
+
+<a href="https://x.com/john_my07/status/2048803726312571335"><img src="previews/gpt-image-grayscale-3d-household-chores-step-grid.jpg" width="360"></a>
+
+用带标签的分块依次固定风格、网格、角色、服装和场景,再用统一的单格模板规定步骤标题、姿势、说明文字和动作箭头。参考图锁定16格中的同一张脸,末尾的限制块让画面保持干净,可直接作为动画参考。
+
+GPT Image 2 · 上传图改图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2048803726312571335) · 1,187 赞，统计于 2026-10-28
+
+[`instructional-grid`](pages/zh/tags.md#tag-instructional-grid) [`grayscale`](pages/zh/tags.md#tag-grayscale) [`3d-render`](pages/zh/tags.md#tag-3d-render) [`motion-arrows`](pages/zh/tags.md#tag-motion-arrows) [`reference-image`](pages/zh/tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[VISUAL STYLE]
+Monochrome grayscale composition featuring a highly detailed 3D-rendered female character. Designed like a professional instructional guide with a technical, diagram-inspired layout. Clean white background, soft studio lighting, and strong contrast to highlight posture, actions, and object interaction.
+[GRID LAYOUT]
+Structured 4×4 panel grid (16 frames total), evenly spaced with thin black divider lines. Each panel is identical in size and clearly numbered from 1 to 16, showing a continuous sequence of household activities.
+[CHARACTER]
+Use the provided reference image for the face and overall likeness.
+Same facial features, skin tone, and proportions
+Natural makeup, soft expression
+Consistent identity across all 16 panels
+Realistic proportions and clean hairstyle (loose or tied back)
+[WARDROBE]
+Modern, modest casual outfit:
+Fitted crop top (not revealing, clean neckline, practical for movement)
+High-waisted straight or slightly wide-leg jeans (full length, neat fit)
+Optional minimal sneakers or barefoot indoor styling
+Fabric should react naturally to movement (subtle folds and tension)
+[SCENE APPROACH]
+Minimal, clean environment per panel — only essential props related to the chore.
+No clutter, no complex backgrounds — focus stays on the subject and action.
+[PANEL STRUCTURE – EACH FRAME]
+Top-left: Step number + task title (e.g., “Step 4 – Vacuum Floor”)
+Center: Full-body pose performing the chore
+Bottom-left: 3–4 concise instruction lines
+Overlay: Motion arrows and directional guides showing action flow
+[CHORE SEQUENCE EXAMPLES]
+Make the Bed
+Tidy Up Room
+Dust Surfaces
+Vacuum Floor
+Sweep Floor
+Mop Floor
+Do Laundry
+Hang Clothes
+Fold Clothes
+Clean Kitchen Counter
+Wash Dishes
+Take Out Trash
+Water Plants
+Clean Bathroom
+Organize Shelves
+Final Room Reset
+[MOTION INDICATORS]
+Curved arrows → fluid actions (wiping, folding)
+Straight arrows → directional movement
+Circular arrows → repetitive motions (scrubbing, mopping)
+[RENDER QUALITY]
+High-detail sculpted 3D style with smooth grayscale shading, soft shadows, and clean linework. Polished, concept-art level finish with clarity in every pose and object interaction.
+[RESTRICTIONS]
+No color, no unnecessary background detail, no extra characters, no revealing clothing, no clutter — only the subject, props, and instructional elements.
+```
+
+</details>
+
+<a id="gpt-image-modern-house-architecture-handbook-infographic"></a>
+### 现代住宅建筑手册信息图页面
+
+<a href="https://x.com/mehvishs25/status/2053147765409288633"><img src="previews/gpt-image-modern-house-architecture-handbook-infographic.jpg" width="360"></a>
+
+用 HOUSE_STYLE 占位符让提示词可以反复套用。它把一张四分之三视角的主render和一长串命名的模块化板块、可视化模块组合起来,再用明确的避免清单防止画面变成房地产传单。
+
+GPT Image 2 · 文生图 · 出处: [@mehvishs25 on X](https://x.com/mehvishs25/status/2053147765409288633) · 538 赞，统计于 2026-10-28
+
+[`infographic`](pages/zh/tags.md#tag-infographic) [`architecture`](pages/zh/tags.md#tag-architecture) [`house`](pages/zh/tags.md#tag-house) [`template`](pages/zh/tags.md#tag-template) [`editorial`](pages/zh/tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium square “reference-style architectural infographic” centered around a luxurious {HOUSE_STYLE} modern house, designed as a beautifully curated architecture handbook page rather than a real-estate advertisement.
+The composition should feel like a modern visual encyclopedia mixed with an elite architectural field guide and high-end editorial infographic system.
+Visual Direction:
+• 1:1 square composition
+• Soft light-toned architectural background with subtle blueprint textures and drafting schematics
+• Elegant muted palette using warm white, charcoal gray, natural wood tones, matte black, concrete gray, and soft steel blue accents
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic shadows and premium UI-style dividers
+• Minimal architectural iconography
+• Extremely detailed central house render viewed in dramatic three-quarter exterior perspective during soft golden-hour lighting
+• Thin precision annotation lines pointing toward architectural systems and design features
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+Main Subject Presentation:
+A stunning ultra-detailed realistic render of the {HOUSE_STYLE} modern house placed at the center, featuring premium architectural realism, floor-to-ceiling glass walls, realistic reflections, warm ambient lighting, natural landscaping, modern material textures, elegant geometry, and sophisticated contemporary detailing.
+Surround the house with scientific and architectural callouts explaining:
+• façade design
+• structural engineering
+• smart home systems
+• sustainable architecture
+• passive cooling systems
+• roof design
+• glazing and natural lighting
+• interior planning
+• landscaping integration
+• energy-efficient materials
+Include modular infographic sections such as:
+• House Overview
+• Key Specifications
+• Floor Plan Overview
+• Structural & Material Breakdown
+• Smart Home Features
+• Sustainability Systems
+• Climate-Responsive Design
+• Interior Design Highlights
+• Kitchen & Bathroom Concepts
+• Area Distribution Charts
+• Construction Timeline
+• Cost Estimation (Indicative)
+• Advantages vs Considerations
+• Site Plan Layout
+• Sectional Architectural View
+• “Top 5 Incredible Facts” section
+• Ideal Locations & Usage Scenarios
+Add small premium visualization modules like:
+• floor plan diagrams
+• section-cut architectural drawings
+• airflow & ventilation diagrams
+• sunlight direction graphics
+• smart-home workflow visuals
+• landscaping/site layout plans
+• material palette displays
+• sustainability performance charts
+• miniature blueprint elevation views
+• room distribution infographics
+Style Keywords:
+“premium architecture encyclopedia”
+“editorial architectural handbook”
+“high-end residential infographic”
+“museum-quality modern house reference page”
+“scientific architectural poster”
+“luxury home design editorial”
+“modular architectural knowledge system”
+“ultra-detailed architectural visualization”
+Avoid:
+• generic real-estate flyer aesthetics
+• cluttered luxury brochure layouts
+• excessive cinematic effects
+• overly dark moody scenes
+• unrealistic futuristic sci-fi architecture
+• advertisement-heavy compositions
+The final result should resemble a professionally published architectural reference-book page created for architects, interior designers, collectors, luxury home enthusiasts, and educational design archives.
+```
+
+</details>
+
+<a id="gpt-image-routine-recipe-editorial-infographic"></a>
+### 晨间习惯食谱式编辑风信息图
+
+<a href="https://x.com/TechieBySA/status/2047683043918311670"><img src="previews/gpt-image-routine-recipe-editorial-infographic.jpg" width="360"></a>
+
+用 [ROUTINE] 占位符做成通用模板，依次规定主视觉物件、带用量的所需清单、编号毛玻璃步骤卡片和悬浮数据胶囊。奶油暖色调、留白与纸张颗粒让密集排版依然清晰。
+
+GPT Image 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2047683043918311670) · 460 赞，统计于 2026-10-28
+
+[`infographic`](pages/zh/tags.md#tag-infographic) [`editorial`](pages/zh/tags.md#tag-editorial) [`routine`](pages/zh/tags.md#tag-routine) [`template`](pages/zh/tags.md#tag-template) [`glassmorphism`](pages/zh/tags.md#tag-glassmorphism)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+“Ultra-clean modern editorial infographic on the topic of [ROUTINE] routine. Hero visual: a stylized flat-lay or floating arrangement of 3–4 objects closely associated with the routine — slightly angled or in soft perspective, glowing subtly. All elements arranged dynamically around the hero in a non-restrictive editorial layout. Ingredients Section: Label it ‘What You Need’ — include 6–8 items with small icons or emoji illustrations next to each. Each item has a name and a practical quantity or duration written like a recipe (e.g. ‘x minutes of Y’). Arranged in a cluster or list connected visually to the hero. Steps Section: 5–6 numbered panels with arrows or connecting lines forming a logical flow. Each step has a short action label and a small relevant icon. Panels use glassmorphism or frosted card styling. Stats Badges: 4–5 floating pill-shaped badges showing relevant metadata — total time, difficulty, consistency streak, energy cost — displayed as clean minimal bubbles near the hero. Visual Style: Warm, soft editorial background — cream, warm white, or soft morning light tones. Muted earthy accent colors with clean highlights. Bold modern sans-serif typography. Clean vector icons. Subtle grain or paper texture in background. Composition: Hero object cluster centered or slightly offset. Ingredients on one side. Steps flow opposite or below with connecting lines. Stat badges scattered as floating pills. Generous negative space to keep it airy and readable. Lighting: Soft warm natural light feel emanating from the hero cluster. Premium lifestyle editorial aesthetic, social-feed optimized. Ultra-crisp. No watermark.”
+```
+
+</details>
+
+<a id="gpt-image-grayscale-dance-movement-sheet-4x4"></a>
+### 灰阶4x4舞蹈动作参考表
+
+<a href="https://x.com/ChillaiKalan__/status/2049007457918198128"><img src="previews/gpt-image-grayscale-dance-movement-sheet-4x4.jpg" width="360"></a>
+
+用方括号分段写清版式、角色、单格结构、箭头和渲染风格，让16个编号格保持一致，再用负面提示去掉色彩和杂乱背景。成品动作表可作为参考图交给视频模型生成舞蹈动画。
+
+GPT Image 2 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2049007457918198128) · 253 赞，统计于 2026-10-28
+
+[`movement-sheet`](pages/zh/tags.md#tag-movement-sheet) [`grayscale`](pages/zh/tags.md#tag-grayscale) [`3d-render`](pages/zh/tags.md#tag-3d-render) [`dance`](pages/zh/tags.md#tag-dance) [`reference-sheet`](pages/zh/tags.md#tag-reference-sheet)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Monochromatic grayscale illustration, 3D-rendered character, clean instructional reference sheet.
+White background, comic-style cell grid layout, technical diagram aesthetic.
+[LAYOUT]
+4×4 grid layout (16 panels total).
+Each panel separated by thin black border lines.
+Panels are evenly sized and consistently aligned.
+Each cell is clearly numbered from 1 to 16.
+[CHARACTER]
+(Insert character description)
+Example: Young female dancer with an athletic build, ponytail hairstyle, wearing a crop top, baggy pants, and sneakers.
+The same character must appear consistently in all panels.
+[PANEL STRUCTURE – per cell]
+Top-left: bold number badge + Korean title text
+Center: full-body character pose illustration
+Bottom-left: Korean description text (3–4 lines)
+Overlay: directional arrows indicating movement flow
+[ARROWS / MOTION INDICATORS]
+Curved arrows, straight arrows, and circular rotation indicators.
+Arrows should be placed around the character to clearly show movement direction and flow.
+[RENDERING STYLE]
+Highly detailed 3D sculpted style.
+Soft studio lighting with subtle shadows.
+No color — grayscale only.
+Clean linework, polished finish, game concept art quality.
+[NEGATIVE PROMPT]
+No background scenery.
+No color tones.
+No additional characters.
+No cluttered or complex backgrounds.
+```
+
+</details>
+
+**[全部 27 条](pages/zh/image-infographic.md)**
+
+<a id="img-ui-mockup"></a>
+## 手机与界面截图
+
+<a id="gpt-image-camera-roll-photos-screen"></a>
+### 一名学生一整天的iPhone相册截图
+
+<a href="https://x.com/sakisuta_/status/2098712371045052764"><img src="previews/gpt-image-camera-roll-photos-screen.jpg" width="360"></a>
+
+提示词明确指定容器是原样截取的照片App界面，模型便在一个网格里填满一整天风格各异的随手拍。提供参考人物并要求日常瞬间，使人脸在美食、朋友、书桌和天空等画面中保持一致。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@sakisuta_ on X](https://x.com/sakisuta_/status/2098712371045052764) · 2,439 赞，统计于 2026-10-28
+
+[`camera-roll`](pages/zh/tags.md#tag-camera-roll) [`photos-app`](pages/zh/tags.md#tag-photos-app) [`screenshot`](pages/zh/tags.md#tag-screenshot) [`reference-image`](pages/zh/tags.md#tag-reference-image) [`everyday`](pages/zh/tags.md#tag-everyday)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn one full day's worth of camera roll for the person in the reference image into a single image that captures the iPhone's Photos app screen as-is. Make it a realistic camera roll that feels like it captures casual everyday moments.
+```
+
+</details>
+
+<a id="gpt-image-camera-roll-day"></a>
+### 一张图生成任何人一天的相册
+
+<a href="https://x.com/Mayz1169/status/2099479395283214473"><img src="previews/gpt-image-camera-roll-day.jpg" width="360"></a>
+
+同一思路，规则更严：上传图是唯一主体，只允许出现最少的 iOS 界面元素。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099479395283214473) · 762 赞，统计于 2026-10-27
+
+[`ios`](pages/zh/tags.md#tag-ios) [`screenshot`](pages/zh/tags.md#tag-screenshot) [`camera-roll`](pages/zh/tags.md#tag-camera-roll) [`humor`](pages/zh/tags.md#tag-humor)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the uploaded image as the ONLY subject reference.
+
+Create ONE vertical image that looks exactly like a screenshot of the iPhone Photos app, showing one full day of casual camera-roll photos featuring the exact subject from the uploaded reference.
+
+SUBJECT CONSISTENCY
+First identify the main subject in the uploaded image. It may be a person, anime character, pet, animal, plush toy, figurine, mascot, object, or other character.
+
+Preserve the subject’s recognizable appearance, colors, proportions, facial features, hairstyle, clothing, accessories, markings, materials, and signature details consistently across every photo.
+
+If the reference contains multiple views of the same subject, understand that they are different views of ONE subject, not multiple characters.
+
+Do not redesign or replace the subject.
+
+DAY-IN-THE-LIFE CAMERA ROLL
+Imagine a believable full day for this exact subject based on its appearance, personality, style, and visual world.
+
+Generate many different casual photos from morning to night, as if someone naturally photographed the subject throughout the day.
+
+Automatically choose everyday situations that fit the uploaded subject, such as:
+waking up, resting, eating, sitting by a window, traveling, walking outside, visiting cafés or shops, playing, working, relaxing at home, interacting with everyday objects, sunset moments, nighttime outings, and going to sleep.
+
+The activities and environments should adapt naturally to the subject. Do not force human activities onto animals, toys, objects, or non-human characters when they would look unnatural.
+
+Every thumbnail should show a different moment, composition, distance, pose, camera angle, lighting condition, or location.
+
+Mix:
+close-ups,
+medium shots,
+wide shots,
+overhead photos,
+back views,
+detail shots,
+slightly blurry movement shots,
+imperfect handheld snapshots,
+photos where the subject is partially cropped,
+environmental photos related to the subject’s day.
+
+The result should feel spontaneous and personal rather than like a professional photoshoot.
+
+IPHONE PHOTOS APP LAYOUT
+The FINAL IMAGE itself must look like a real full-screen iPhone Photos app screenshot.
+
+Use a tall smartphone screenshot aspect ratio, approximately 9:19.5.
+
+Create a dense camera-roll gallery using FOUR equal thumbnail columns, closely matching the standard iPhone Photos grid.
+
+Include approximately 24–32 individual photo thumbnails visible on screen.
+
+Use very thin white gaps between thumbnails.
+
+The gallery should fill most of the screen vertically.
+
+Include authentic iPhone Photos interface elements:
+• white iOS interface background
+• iPhone-style status bar at the top
+• time on the upper left
+• cellular/Wi-Fi/battery icons on the upper right
+• simple navigation controls near the top
+• four-column photo gallery
+• bottom Photos app navigation bar
+• Photos tab selected in blue
+• other navigation icons shown in gray
+• black home indicator at the very bottom
+
+The UI must look like an actual screenshot of the Photos app, NOT a decorative frame, moodboard, contact sheet, scrapbook, poster, or generic collage.
+
+PHOTO STYLE
+Make each thumbnail feel like a genuine casual iPhone camera-roll photo.
+
+Use natural everyday lighting, imperfect framing, realistic exposure variation, occasional motion blur, slight focus imperfections, spontaneous compositions, and believable environmental details.
+
+Keep the same subject recognizable throughout the entire gallery while allowing natural changes in pose, expression, camera distance, and lighting.
+
+If the uploaded reference is illustrated, animated, stylized, or 3D, preserve its original visual identity and style unless realistic photography is explicitly requested.
+
+IMPORTANT
+ONE final image only.
+The entire output is ONE iPhone Photos app screenshot containing many different photos.
+Exactly FOUR thumbnail columns.
+Do not create a standalone collage without the iPhone interface.
+Do not create multiple separate outputs.
+Do not duplicate the exact same photo repeatedly.
+Do not introduce unrelated characters or subjects.
+Do not change the main subject’s design.
+No captions, dates, labels, stickers, watermarks, or decorative text inside the photo thumbnails.
+Only normal minimal iOS interface elements may appear.9:16
+```
+
+</details>
+
+<a id="gpt-image-iphone-photos-screenshot"></a>
+### 一整天的照片，做成 iPhone 相册截图
+
+<a href="https://x.com/BubbleBrain/status/2099759367956349012"><img src="previews/gpt-image-iphone-photos-screenshot.jpg" width="360"></a>
+
+连状态栏都还原的 iOS 相册界面，里面塞满参考人物的抓拍。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@BubbleBrain on X](https://x.com/BubbleBrain/status/2099759367956349012) · 309 赞，统计于 2026-10-27
+
+[`ios`](pages/zh/tags.md#tag-ios) [`screenshot`](pages/zh/tags.md#tag-screenshot) [`camera-roll`](pages/zh/tags.md#tag-camera-roll)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn the girl from the reference image into a full-day iPhone Photos album screenshot that faithfully recreates the real iPhone “Photos — Library / Today” interface. Keep the top status bar (time, signal, battery), the Library title, the Today label, the photo grid layout, and the bottom tab bar: Library / For You / Albums / Search. The whole image should look like a real phone screenshot.
+The girl in the reference image is the only subject in the entire album. Every photo keeps the same identity, the same face, the same hairstyle, the same skin tone, the same body proportions, and the same presence. She is a clearly adult young East Asian woman with long black hair, cool-pale skin, refined cool features, and a private, quiet aura.
+The album is a full portrait camera roll. Every thumbnail shows her. The entire screen is filled with solo portraits of her. The whole set is built around this one person only.
+All album content is portraits of her: waking-up selfie in bed, selfie under the covers, selfie by the pillow, bathroom-mirror selfie, elevator-mirror selfie, window-side selfie, indoor natural-light selfie, sofa selfie, bedside selfie, after-coming-home selfie, night selfie, close-up face selfie, half-body selfie, full-body mirror selfie, seated solo shot, standing solo shot, side-profile solo shot, looking-back solo shot, indoor hallway solo shot, window-side solo shot, candid bedside shot, chair solo shot, carpet solo shot, and photos taken of her by someone else.
+Outfits change continuously through the day. Morning: milky-white camisole lounge top and light-gray home shorts. Late morning: white slim short-sleeve top and pale blue-gray pleated mini skirt. Noon: black thin-strap top and high-waisted denim shorts. Afternoon: light-gray knit cardigan over a white inner layer and a black mini skirt. Evening: dark-gray blazer, white thin-strap top, and black pleated mini skirt. Night: black fitted mini dress with slim silver accessories. Late night after returning home: loose white T-shirt and soft lounge shorts. Each outfit is clearly different; the clothing changes mark a clear passage of time.
+Photo mix is fixed at 60% selfies and mirror selfies, 40% solo portraits taken by someone else. Every frame has her as the subject. Every thumbnail keeps real iPhone native-camera texture. Pose, camera distance, angle, expression, lighting, and clothing keep changing.
+The sequence runs from morning to late night. Morning feels loose and just-woken. Late morning has clear natural light. Afternoon feels like ordinary going-out. Evening has soft city light. Night has low indoor light. Late night feels quiet and private after coming home.
+The whole set is quiet, private, relaxed, and real. The album forms a dense, continuous solo-portrait look, like a full day of private portrait camera roll saved on her own phone.
+```
+
+</details>
+
+<a id="gpt-image-claymation-social-profile-screen"></a>
+### 粘土定格动画风格的社交主页界面
+
+<a href="https://x.com/miratechtool/status/2052033236964950111"><img src="previews/gpt-image-claymation-social-profile-screen.jpg" width="360"></a>
+
+提示词先锁定软质黏土这一种材质，再列出手工纹理、圆润造型和指纹等具体触感线索，并配上定格动画式灯光和暖色粉彩。这样现有截图里的按钮、头像和图标都被重做成黏土质感。
+
+GPT Image 2 · 上传图改图 · 出处: [@miratechtool on X](https://x.com/miratechtool/status/2052033236964950111) · 255 赞，统计于 2026-10-28
+
+[`claymation`](pages/zh/tags.md#tag-claymation) [`stop-motion`](pages/zh/tags.md#tag-stop-motion) [`pastel`](pages/zh/tags.md#tag-pastel) [`style-transfer`](pages/zh/tags.md#tag-style-transfer) [`social-profile`](pages/zh/tags.md#tag-social-profile)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Recreate the scene as a cozy claymation-style world made from soft modeling clay. Every object should have handmade textures, rounded shapes, fingerprints, and soft lighting like a stop-motion movie. Use warm pastel colors and a cute cinematic atmosphere.
+```
+
+</details>
+
+**[全部 14 条](pages/zh/image-ui-mockup.md)**
+
+<a id="img-product"></a>
+## 产品图与电商
+
+<a id="gpt-image-pet-papercraft-cube-template"></a>
+### 高地牛纸模立方体玩具展开图
+
+<a href="https://x.com/icreatelife/status/2101353488408006830"><img src="previews/gpt-image-pet-papercraft-cube-template.jpg" width="360"></a>
+
+提示词把上传照片限定为动物外观的唯一来源，并逐一列出平铺的各个部件及折线、粘合片和裁切边。结尾列出不得更改的内容，用来保住动物的身份特征和毛发质感。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@icreatelife on X](https://x.com/icreatelife/status/2101353488408006830) · 1,178 赞，统计于 2026-10-27
+
+[`papercraft`](pages/zh/tags.md#tag-papercraft) [`cube-toy`](pages/zh/tags.md#tag-cube-toy) [`pet`](pages/zh/tags.md#tag-pet) [`template`](pages/zh/tags.md#tag-template) [`fur-texture`](pages/zh/tags.md#tag-fur-texture)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression.
+
+Transform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible.
+
+The printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet.
+
+Include:
+
+cube-shaped head with my pet’s real face on it
+
+cube-shaped body with realistic fur texture
+
+four legs matching my pet’s appearance
+
+ears with correct shape and inner ear details
+
+tail matching my pet’s size and color pattern
+
+Style: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper.
+
+Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model
+```
+
+</details>
+
+<a id="gpt-image-iced-coffee-glass-studio-product-photo"></a>
+### 柔和米色影棚背景中的冰咖啡玻璃杯
+
+<a href="https://x.com/Strength04_X/status/2049082049995362785"><img src="previews/gpt-image-iced-coffee-glass-studio-product-photo.jpg" width="360"></a>
+
+提示词逐层写明饮品的视觉要素，包括深色咖啡底、奶泡漩涡、透明冰块和冷凝水珠。再配合柔和影棚光与单反微距质感，把画面推向高级饮品广告风格。
+
+GPT Image 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2049082049995362785) · 617 赞，统计于 2026-10-28
+
+[`iced-coffee`](pages/zh/tags.md#tag-iced-coffee) [`beverage`](pages/zh/tags.md#tag-beverage) [`studio-lighting`](pages/zh/tags.md#tag-studio-lighting) [`macro`](pages/zh/tags.md#tag-macro) [`product-photography`](pages/zh/tags.md#tag-product-photography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Made with GPT image 2 + Hailuo 2.3 on
+@Hailuo_AI
+
+
+PROMPT - A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visible with realistic transparency and light refraction. The glass has subtle condensation droplets, adding freshness. Soft natural studio lighting creates delicate highlights and a clean shadow beneath the glass. Ultra-sharp focus, premium beverage advertisement style, DSLR macro photography, hyper realistic, 8K.
+
+PROMPT 2 - Create a hyper-realistic exploded vertical infographic composition of an iced coffee.
+
+Top → Bottom structure:
+Foam Layer (light creamy foam with soft airy texture)
+→ Coffee Liquid (rich dark espresso layer with smooth gradient)
+→ Ice Cubes (transparent cubes with sharp edges and reflections)
+→ Milk Layer (soft creamy white layer with smooth blend effect)
+→ Glass Base (clear minimal glass structure)
+
+All elements must be perfectly centered, evenly spaced, and aligned vertically. Use a soft beige seamless background with clean café-style lighting and subtle realistic shadows beneath each floating element. The composition should feel like a premium beverage ad combined with a clean infographic layout.
+
+Add clean minimalist text labels with thin pointer lines using these exact labels:
+“Foam”
+“Coffee”
+“Ice”
+“Milk”
+“Glass”
+Ultra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.
+```
+
+</details>
+
+<a id="gpt-image-crumple-chair-design-board"></a>
+### 皱纸造型沙发概念研发板
+
+<a href="https://x.com/ShamsAmin56/status/2050281206139461780"><img src="previews/gpt-image-crumple-chair-design-board.jpg" width="360"></a>
+
+提示词按五个阶段展开，从形态分析到人体工学、结构和材质。具体的尺寸、角度和材料选项让画面像一份真实的产品研发板。
+
+GPT Image 2 · 文生图 · 出处: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2050281206139461780) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`product-design`](pages/zh/tags.md#tag-product-design) [`furniture`](pages/zh/tags.md#tag-furniture) [`concept-board`](pages/zh/tags.md#tag-concept-board) [`blueprint`](pages/zh/tags.md#tag-blueprint) [`industrial-design`](pages/zh/tags.md#tag-industrial-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Design Concept: The Crumple Chair Core Philosophy: Translating the "controlled chaos" of a tossed paper ball into a sculptural, high-comfort seating experience.
+
+Stage 1: Observation & Morphological Analysis The goal is to deconstruct the image of the crumpled paper into usable geometric data. Crease Mapping: Identify the primary "valley" and "ridge" lines. These represent potential structural ribs or seams in the chair. Faceted Planes: Break down the sphere into a series of non-uniform polygons. Each flat surface of the paper becomes a potential panel for the chair’s upholstery or shell. Shadow Study: Analyze how the "tossed" form creates deep recesses. These natural pockets guide where the user’s weight will be cradled.
+
+Stage 2: Iterative Form Exploration Moving from a sphere to a seat through "Digital Crumpling." Subtractive Sculpting: Imagine the paper ball as a solid mass. Use Boolean operations to "carve out" a seating cavity that fits the human form while maintaining the external jagged texture. Tension Simulation: Use 3D software (like Rhino or Blender) to simulate a flat sheet of material being compressed. This ensures the folds look authentic and not "modeled." The "Toss" Logic: Experiment with gravity-based simulation dropping a digital mesh to see how it settles naturally, mimicking the "tossed" origin.
+
+Stage 3: Ergonomic Translation & Blueprinting Refining the raw aesthetic into a functional object. The Comfort Core: Overlay a standard ergonomic template (Seating Angle: 105°–110°) over the crumpled form. Adjust the internal "folds" to provide lumbar support and pressure relief. Blueprint Generation: Create technical orthographic views (Front, Side, Top). Map out the dimensions: Seat Height: 450mm Total Width: 850mm Surface Smoothing: Maintain the sharp "paper edges" on the exterior shell while softening the interior contact points for skin comfort.
+
+Stage 4: Structural Integration & Scaling Making the concept physically viable. The Skeleton: Design a hidden internal frame (likely CNC-bent steel rods or a 3D-printed lattice) that follows the most prominent ridges of the paper folds to provide rigidity. Material Selection: * Option A (High-End): Faceted, cast aluminum with a white powder coat. Option B (Soft): Vacuum-formed recycled plastic shell covered in "memory-fold" technical fabric that retains a wrinkled appearance.
+
+Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte, slightly porous finish to the material to mimic the tactile feel of heavy-bond paper. Lighting Contrast: Use directional studio lighting in the final renders to emphasize the "tossed" shadows, making the chair look like a giant piece of discarded inspiration. Design Tip: To keep the "tossed" look authentic, avoid symmetry. The most compelling aspect of a crumpled paper ball is its unique irregularity—ensure the left and right sides of the chair are balance-equivalent but not identical
+```
+
+</details>
+
+<a id="gpt-image-enamel-pin-set-portrait-center"></a>
+### 肖像徽章居中的珐琅徽章套组
+
+<a href="https://x.com/miratechtool/status/2097710852413497646"><img src="previews/gpt-image-enamel-pin-set-portrait-center.jpg" width="360"></a>
+
+参考照片被转成居中的主徽章，提示词写明徽章数量、大小和分工，并加入金属描边、凸起边缘和棚拍光线等材质线索。结尾的排除清单让版面保持干净，但模型仍可能多出几枚徽章。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@miratechtool on X](https://x.com/miratechtool/status/2097710852413497646) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`enamel-pin`](pages/zh/tags.md#tag-enamel-pin) [`product-photography`](pages/zh/tags.md#tag-product-photography) [`portrait`](pages/zh/tags.md#tag-portrait) [`collectible`](pages/zh/tags.md#tag-collectible) [`reference-image`](pages/zh/tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.
+```
+
+</details>
+
+**[全部 9 条](pages/zh/image-product.md)**
+
+<a id="img-brand"></a>
+## 标志、广告与包装
+
+<a id="gpt-image-bakery-logo-transparent"></a>
+### 透明背景的面包店标志
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="previews/gpt-image-bakery-logo-transparent.jpg" width="360"></a>
+
+要求原创、在大小尺寸下都清楚，再把透明背景写到位：干净的 alpha 边缘、不要底色、不要棋盘格。调用时同时设 background=transparent。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+[`logo`](pages/zh/tags.md#tag-logo) [`transparent`](pages/zh/tags.md#tag-transparent) [`vector`](pages/zh/tags.md#tag-vector)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+<a id="gpt-image-bichon-shop-skeuomorphic-app-icon"></a>
+### 粉色购物袋里的比熊幼犬应用图标
+
+<a href="https://x.com/iamaiistudio/status/2071923809788285125"><img src="previews/gpt-image-bichon-shop-skeuomorphic-app-icon.jpg" width="360"></a>
+
+提示词用单个圆角方块、画布占比八成和白底锁定版式，再点明 macOS App Store 拟物风格。只给出简短的应用名，主体和文字都由模型自行补全。
+
+GPT Image 2 · 文生图 · 出处: [@iamaiistudio on X](https://x.com/iamaiistudio/status/2071923809788285125) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`app-icon`](pages/zh/tags.md#tag-app-icon) [`skeuomorphic`](pages/zh/tags.md#tag-skeuomorphic) [`macos`](pages/zh/tags.md#tag-macos) [`squircle`](pages/zh/tags.md#tag-squircle) [`cute`](pages/zh/tags.md#tag-cute)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.
+```
+
+</details>
+
+<a id="gpt-image-brand-envelope-coffee-four-styles"></a>
+### 同一只咖啡杯的四种品牌世界
+
+<a href="https://x.com/SRKDAN/status/2051482047248560393"><img src="previews/gpt-image-brand-envelope-coffee-four-styles.jpg" width="360"></a>
+
+四阶段模板：先用两行文字锚定品牌的色板、质感和情绪，再把产品放进这个世界，最后指定输出格式和一个标志性元素。只替换品牌、产品和格式三项，结构不变而风格随之改变。
+
+GPT Image 2 · 文生图 · 出处: [@SRKDAN on X](https://x.com/SRKDAN/status/2051482047248560393) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`brand-identity`](pages/zh/tags.md#tag-brand-identity) [`product-ad`](pages/zh/tags.md#tag-product-ad) [`prompt-template`](pages/zh/tags.md#tag-prompt-template) [`coffee`](pages/zh/tags.md#tag-coffee) [`packaging`](pages/zh/tags.md#tag-packaging)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+The Brand Envelope | GPT Image-2 Prompt #89
+
+This takes any product photo and wraps it in your specific brand world. Different product each time. Same brand, every time.
+
+PHASE 1 / ANCHOR: Describe [BRAND IDENTITY] in 2 lines. Palette, texture, mood.
+PHASE 2 / INJECT: Place [PRODUCT] inside that brand world, not the reverse.
+PHASE 3 / FORMAT: Set [OUTPUT FORMAT]. Hero, square ad, or story.
+PHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.
+
+Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]
+```
+
+</details>
+
+<a id="gpt-image-dark-minimal-avatar-site-vi-system"></a>
+### 暗黑极简头像网站视觉识别系统
+
+<a href="https://x.com/xiaoxiaodong01/status/2046556758521573546"><img src="previews/gpt-image-dark-minimal-avatar-site-vi-system.jpg" width="360"></a>
+
+只用一个风格关键词（黑色封面设计）加一句品牌简介，就能生成完整的多格视觉识别板。模型会自动补全标志、色板、字体、界面页面和周边样机。
+
+GPT Image 2 · 文生图 · 出处: [@xiaoxiaodong01 on X](https://x.com/xiaoxiaodong01/status/2046556758521573546) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`vi-system`](pages/zh/tags.md#tag-vi-system) [`brand-board`](pages/zh/tags.md#tag-brand-board) [`dark-minimal`](pages/zh/tags.md#tag-dark-minimal) [`bilingual`](pages/zh/tags.md#tag-bilingual) [`website-design`](pages/zh/tags.md#tag-website-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[中文]
+用 ABCD（a black cover design) 的风格，为 图你太美 设计一个 vi 系统。图你太美是一个头像美图分享 网站。
+
+[English]
+In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.
+```
+
+</details>
+
+**[全部 11 条](pages/zh/image-brand.md)**
+
+<a id="img-realism"></a>
+## 写实照片
+
+<a id="gpt-image-pencil-essay-coffee-stain"></a>
+### 带咖啡渍的线格纸铅笔手写文章
+
+<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
+
+提示词先限定媒介（8.5x11 线格纸上的铅笔字）和拍摄方式（手机照片）。再要求笔迹有变化，并指定一处角落的咖啡渍作为小瑕疵，真实感由此而来。
+
+GPT Image 2.5 · 文生图 · 出处: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 赞，统计于 2026-10-27
+
+[`handwriting`](pages/zh/tags.md#tag-handwriting) [`paper`](pages/zh/tags.md#tag-paper) [`phone-photo`](pages/zh/tags.md#tag-phone-photo) [`texture`](pages/zh/tags.md#tag-texture) [`coffee-stain`](pages/zh/tags.md#tag-coffee-stain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+🚨 GPT-Image-2.5 Output
+
+I said it to write like einstein it did it without reference < i did not give image or anything   >
+
+left side is AI and right side is real photo from reddit to compare
+
+Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
+```
+
+</details>
+
+<a id="gpt-image-forest-clearing-foliage-noise-test"></a>
+### 阳光洒落的林间空地与茂密绿叶
+
+<a href="https://x.com/mark_k/status/2097411028510179759"><img src="previews/gpt-image-forest-clearing-foliage-noise-test.jpg" width="360"></a>
+
+一句话点明主体、照片媒介和高细节要求，可作为噪点伪影测试，因为密集重复的树叶最容易暴露纹理涂抹和颗粒问题。提示词很短，光线与构图交由模型自行决定。
+
+GPT Image 2.5 · 文生图 · 出处: [@mark_k on X](https://x.com/mark_k/status/2097411028510179759) · 415 赞，统计于 2026-10-27
+
+[`forest`](pages/zh/tags.md#tag-forest) [`nature`](pages/zh/tags.md#tag-nature) [`foliage`](pages/zh/tags.md#tag-foliage) [`texture-test`](pages/zh/tags.md#tag-texture-test) [`landscape`](pages/zh/tags.md#tag-landscape)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GPT-Image-2.5 has arrived in
+@ChatGPT
+ 🔥
+
+It features many improvements, but I couldn't help myself from doing the infamous "noise artifact" test.
+
+The results are mixed!
+
+Prompt: "Photo of a clearing in the woods with lots of green foliage, highly detailed"
+
+See for yourself:
+```
+
+</details>
+
+<a id="gpt-image-train-platform-snapshot"></a>
+### 站台上的手机随手拍
+
+<a href="https://x.com/MissDelulu9/status/2114965450425868519"><img src="previews/gpt-image-train-platform-snapshot.jpg" width="360"></a>
+
+靠手机相机的瑕疵出真实感：列车动态模糊、真实噪点、轻微广角变形。
+
+GPT Image 2.5 · 文生图 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2114965450425868519) · 305 赞，统计于 2026-10-27
+
+[`phone-photo`](pages/zh/tags.md#tag-phone-photo) [`street`](pages/zh/tags.md#tag-street) [`motion-blur`](pages/zh/tags.md#tag-motion-blur)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Realistic vertical phone street snapshot of a young woman on an urban train platform, slightly right of center, as a silver train with a green stripe rushes behind in horizontal motion blur. Low angle from waist height, close half-body to mid-thigh, handheld and imperfect.
+
+Long deep-black hair sweeps left in station wind. Oversized brown gradient sunglasses hide her eyes; head tilted upward, lips relaxed, cool distant expression. Small oval face, soft jawline, clean East Asian Y2K makeup, nude-pink lips. Warm-white cropped halter tank, low neckline, fitted ribbed cotton, subtle wrinkles, hem above waist. Low-rise loose vintage gray-brown jeans, layered gold necklaces, black quilted chain bag.
+
+Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and abdomen. Cool fluorescent station light, metallic reflections, yellow tactile paving, concrete floor, blurred passengers in train windows. Real mobile noise, slight wide-angle feel.
+```
+
+</details>
+
+<a id="gpt-image-raw-chicken-cinematic-food-commercial"></a>
+### 暗色木板上的生鸡肉,电影感美食广告
+
+<a href="https://x.com/DuaFatimaAi/status/2091684066622103675"><img src="previews/gpt-image-raw-chicken-cinematic-food-commercial.jpg" width="360"></a>
+
+提示词把广告拆成四个编号场景,按生鸡肉到炸鸡的顺序推进,每个场景都写明镜头距离和动作。结尾的风格句叠加微距、浅景深、暖光,并要求无文字无标志。
+
+GPT Image 2 · 文生图 · 出处: [@DuaFatimaAi on X](https://x.com/DuaFatimaAi/status/2091684066622103675) · 226 赞，统计于 2026-10-28
+
+[`food`](pages/zh/tags.md#tag-food) [`commercial`](pages/zh/tags.md#tag-commercial) [`macro`](pages/zh/tags.md#tag-macro) [`cinematic`](pages/zh/tags.md#tag-cinematic) [`multi-scene`](pages/zh/tags.md#tag-multi-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-realistic cinematic food commercial showing raw chicken pieces being expertly seasoned and transformed into crispy golden fried chicken.
+
+Scene 1: Close-up of fresh raw chicken pieces arranged on a dark wooden cutting board in a dramatic dark kitchen environment. Soft warm side lighting highlights the natural texture and moisture of the chicken.
+
+Scene 2: A generous blend of spices is sprinkled over the chicken in slow motion. Capture every tiny spice particle floating through the air and landing naturally on the chicken. Use extreme macro detail and shallow depth of field.
+
+Scene 3: The seasoned chicken is carefully lowered into hot oil. Show an intense close-up of the oil rapidly bubbling and sizzling around the chicken, with realistic steam, tiny oil droplets, and crunchy batter forming.
+
+Scene 4: Golden-brown crispy fried chicken is lifted from the hot oil with stainless-steel kitchen tongs. Oil droplets fall back into the pan in slow motion while the crispy textured coating glistens under warm cinematic lighting.
+
+Ultra-realistic food photography, cinematic commercial style, macro close-ups, rich golden tones, realistic textures, dramatic contrast, shallow depth of field, soft background bokeh, slow-motion details, natural movement, professional food advertisement, 4K, highly detailed, appetizing presentation, no text, no logos
+```
+
+</details>
+
+**[全部 15 条](pages/zh/image-realism.md)**
+
+<a id="img-portrait"></a>
+## 人像
+
+<a id="gpt-image-macbook-screen-photo-booth-selfie"></a>
+### 笔记本屏幕上Photo Booth里的昏暗卧室自拍
+
+<a href="https://x.com/tadasgedgaudas/status/2046877643929166330"><img src="previews/gpt-image-macbook-screen-photo-booth-selfie.jpg" width="360"></a>
+
+提示词用结构化JSON，并以身份锁定块保留输入照片中的人脸。它把结果定义为对屏幕的拍摄而不是截图，列出像素网格、摩尔纹、灰尘和指纹等物理瑕疵，再用负面清单排除平整界面和过度精修。
+
+GPT Image 2 · 上传图改图 · 出处: [@tadasgedgaudas on X](https://x.com/tadasgedgaudas/status/2046877643929166330) · 4,434 赞，统计于 2026-10-28
+
+[`screen-photo`](pages/zh/tags.md#tag-screen-photo) [`json-prompt`](pages/zh/tags.md#tag-json-prompt) [`identity-lock`](pages/zh/tags.md#tag-identity-lock) [`low-light`](pages/zh/tags.md#tag-low-light) [`candid`](pages/zh/tags.md#tag-candid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{"image_settings": {"aspect_ratio": "3:4", "resolution": {"width": 1152, "height": 1536}}, "prompt": {"identity_lock": {"reference": "input_photo", "preserve": ["face", "facial proportions", "eye shape", "nose", "lips", "skin tone", "skin texture", "hairline", "overall identity"], "rules": ["no face swap", "no beautify", "no smoothing", "no reshaping", "no AI look"]}, "scene": {"camera_angle": "high-angle downward shot, POV", "composition": "MacBook screen fills most of the frame, thin strip of physical keyboard visible at the bottom", "screen_surface": ["visible RGB pixel grid", "subtle moire effect", "micro dust on glass", "faint fingerprints", "soft ambient reflections"]}, "digital_interface": {"os": "macOS dark mode", "background_app": {"name": "Spotify", "view": "Liked Songs", "visible_tracks": ["Blank Space \u2013 Taylor Swift", "Shake It Off \u2013 Taylor Swift", "Cruel Summer \u2013 Taylor Swift", "Love Story \u2013 Taylor Swift"]}, "foreground_app": {"name": "Photo Booth", "state": "live preview window", "position": "floating, center-right"}}, "photo_booth_content": {"environment": {"room": "dim bedroom", "background": "off-white wall, rumpled bedding", "lighting": "low-light, nocturnal, cool screen glow mixed with warm skin tones"}, "subject": {"pose": "lying down, relaxed, candid", "expression": "natural, slightly relaxed", "outfit": "light-colored tank top", "prop": {"item": "iPhone 15 Pro", "hand": "right hand"}}}, "realism_rules": ["this is a photo of a screen, not a screenshot", "raw smartphone photo look", "natural noise", "imperfect glass", "no studio lighting", "no HD polish"]}, "negative_prompt": ["screenshot", "flat UI", "perfect screen", "clean glass", "studio lighting", "beauty filter", "cartoon", "3d render", "painting", "watermark", "blurred face"]}
+```
+
+</details>
+
+<a id="gpt-image-bougainvillea-archway-courtyard-portrait"></a>
+### 九重葛拱门下地中海庭院里的两位女性
+
+<a href="https://x.com/abxxai/status/2097698712978087966"><img src="previews/gpt-image-bougainvillea-archway-courtyard-portrait.jpg" width="360"></a>
+
+提示词先详细描写近景人物，再只简单带过远处的第二个人，场景按拱门、庭院、大海由近到远分层。同时指定相机年代、直闪和 CCD 色调，让光线与颗粒质感保持统一。
+
+GPT Image 2.5 · 文生图 · 出处: [@abxxai on X](https://x.com/abxxai/status/2097698712978087966) · 2,645 赞，统计于 2026-10-28
+
+[`portrait`](pages/zh/tags.md#tag-portrait) [`mediterranean`](pages/zh/tags.md#tag-mediterranean) [`flash-photography`](pages/zh/tags.md#tag-flash-photography) [`y2k`](pages/zh/tags.md#tag-y2k) [`candid`](pages/zh/tags.md#tag-candid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.
+```
+
+</details>
+
+<a id="gpt-image-mediterranean-archway-y2k-flash-courtyard"></a>
+### 地中海庭院九重葛拱门下的女子
+
+<a href="https://x.com/abxxai/status/2097698694296686623"><img src="previews/gpt-image-mediterranean-archway-y2k-flash-courtyard.jpg" width="360"></a>
+
+提示词先写清前景人物的细节，再用简略的第二人物和由拱门、庭院到海面的层次布景铺开空间。随后加入千禧年代数码相机的机顶闪光、CCD 色调、光晕与噪点，让画面更接近随手抓拍的真实感。
+
+GPT Image 2.5 · 文生图 · 出处: [@abxxai on X](https://x.com/abxxai/status/2097698694296686623) · 2,645 赞，统计于 2026-10-28
+
+[`y2k`](pages/zh/tags.md#tag-y2k) [`digicam`](pages/zh/tags.md#tag-digicam) [`flash-photography`](pages/zh/tags.md#tag-flash-photography) [`mediterranean`](pages/zh/tags.md#tag-mediterranean) [`candid`](pages/zh/tags.md#tag-candid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.
+```
+
+</details>
+
+<a id="gpt-image-car-door-clifftop-2000s-film-snapshot"></a>
+### 透过敞开车门拍摄的千禧年代胶片抓拍
+
+<a href="https://x.com/abxxai/status/2102775797509722602"><img src="previews/gpt-image-car-door-clifftop-2000s-film-snapshot.jpg" width="360"></a>
+
+上传角色设定图锁定人物身份，再用场景、服装、背景、光线、相机和真实感分块写清各项要求。旧胶片质感靠 28mm 桶形畸变、抬黑、光晕和颗粒等文字描述实现而非滤镜，车门框则提供自然的前景。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@abxxai on X](https://x.com/abxxai/status/2102775797509722602) · 1,687 赞，统计于 2026-10-28
+
+[`film-look`](pages/zh/tags.md#tag-film-look) [`candid`](pages/zh/tags.md#tag-candid) [`road-trip`](pages/zh/tags.md#tag-road-trip) [`character-reference`](pages/zh/tags.md#tag-character-reference) [`2000s`](pages/zh/tags.md#tag-2000s)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+4/ the start frame, GPT Image 2.5 made
+
+the old footage look is NOT a filter.. Opus wrote it into the prompt:
+
+Promtp:
+
+Use the uploaded character sheet as the strict identity reference. Keep her exact face, bone structure, brown eyes, light freckles across nose and cheeks, natural full lips, and long straight light-brown hair with sun-kissed caramel highlights parted in the middle. Keep the thin gold chain necklace with the small cross pendant.
+
+SCENE: A candid photo taken from inside a parked silver sedan, looking out through the open rear passenger door. The door frame, the grey fabric headliner, the black door panel with its chrome handle, and part of the seat belt frame the shot on both sides. She stands just outside the open door on a rocky clifftop road above the ocean, both arms raised, one hand gripping the top of the door frame and the other resting on the roof edge, leaning slightly toward the camera. Relaxed, unposed, calm expression, looking straight into the lens.
+
+WARDROBE: Fitted cropped white cotton baby tee with a faded, sun-washed vintage graphic print in pale blue and coral red, slightly worn and soft. Light-wash low-rise denim cutoff shorts with frayed hems. Thin brown leather cord bracelets on one wrist. Hair slightly messy and windblown, a few strands across her face.
+
+BACKGROUND: Deep blue Mediterranean sea filling the frame behind her, sparkling sun glints on the water, a flat horizon line at chest height, pale hazy sky, dark rocks and sandy stones at the cliff edge below.
+
+LIGHT: Harsh direct midday summer sun, bright and slightly overexposed. Sun-warmed skin with a natural sheen and slight glow on the cheeks and nose, soft shadows under the chin, a faint reflection of light off the white car interior.
+
+CAMERA AND LOOK: Early 2000s point-and-shoot film photo, 35mm film, 28mm wide lens with slight barrel distortion at the edges, shot from chest height inside the car. Warm, faded, sun-bleached color grade, lifted blacks, low contrast, creamy highlights that gently blow out in the sky, slightly yellowed whites, soft halation around bright edges, fine visible film grain, a touch of softness and imperfect focus. Looks like a real candid snapshot from a summer road trip, not a studio shot.
+
+REALISM: Real skin texture with visible pores and freckles, no retouching, no plastic skin, natural flyaway hairs, real fabric wrinkles on the tee, real dust and wear on the car interior.
+
+Aspect ratio 4:3. No text, no watermark, no logos.
+```
+
+</details>
+
+**[全部 96 条](pages/zh/image-portrait.md)**
+
+<a id="img-character"></a>
+## 角色与手办
+
+<a id="gpt-image-dance-pose-sheet-4x4-character"></a>
+### 动漫少女十六格舞蹈姿势表
+
+<a href="https://x.com/Mayz1169/status/2098014577414033912"><img src="previews/gpt-image-dance-pose-sheet-4x4-character.jpg" width="360"></a>
+
+以单张参考图锁定角色身份，再按编号写出十六个从起势到收势的动作，让整张图连成一套舞蹈。固定机位、白底和明确的避免清单保证比例、服装和格子排布一致。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2098014577414033912) · 1,270 赞，统计于 2026-10-27
+
+[`pose-sheet`](pages/zh/tags.md#tag-pose-sheet) [`character-reference`](pages/zh/tags.md#tag-character-reference) [`dance`](pages/zh/tags.md#tag-dance) [`grid-layout`](pages/zh/tags.md#tag-grid-layout) [`anime`](pages/zh/tags.md#tag-anime)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
+
+CHARACTER CONSISTENCY
+Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
+
+ADAPTIVE CHOREOGRAPHY
+Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.
+
+Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
+
+Use the following movement structure, adapting each action to the character:
+1. Opening pose that establishes the character’s personality.
+2. Small rhythmic step with a coordinated arm gesture.
+3. Side step with one arm extended.
+4. Compact expressive gesture near the face or upper body.
+5. Grounded stance with arms crossing or sweeping inward.
+6. Knee lift or an anatomically appropriate weight shift.
+7. Open, expansive pose with arms spread.
+8. Playful or expressive balance pose.
+9. Turning pose showing a three-quarter rear view.
+10. Forward-reaching movement with a diagonal body lean.
+11. Strong upward-reaching accent.
+12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
+13. Lowered stance with a forward gesture.
+14. Elegant or dynamic side-facing transition.
+15. Signature gesture that suits the character.
+16. Confident final pose with a clear finishing silhouette.
+
+COMPOSITION AND PRESENTATION
+Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.
+
+Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.
+
+Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
+
+AVOID
+Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
+
+Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+</details>
+
+<a id="gpt-image-kawaii-character-profile-sheet-from-photo"></a>
+### 由人像照片生成的可爱角色设定卡
+
+<a href="https://x.com/ZaraIrahh/status/2048251738604613725"><img src="previews/gpt-image-kawaii-character-profile-sheet-from-photo.jpg" width="360"></a>
+
+提示词逐项列出海报需要的版块：大头像、四种命名表情、动作姿势、小物件图标、色板和档案栏。风格一句话定下温暖的日系可爱调性，上传的照片则让各个版块里的角色保持一致。
+
+GPT Image 2 · 上传图改图 · 出处: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2048251738604613725) · 569 赞，统计于 2026-10-28
+
+[`character-sheet`](pages/zh/tags.md#tag-character-sheet) [`kawaii`](pages/zh/tags.md#tag-kawaii) [`expressions`](pages/zh/tags.md#tag-expressions) [`color-palette`](pages/zh/tags.md#tag-color-palette) [`profile-poster`](pages/zh/tags.md#tag-profile-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an adorable character design sheet based on the uploaded image.
+Style: Warm, soft, and semi-realistic cartoon illustration with a cozy Japanese/kawaii style.
+Design: Character profile poster including:
+Large main portrait
+Various facial expressions (happy, annoyed, sleepy, surprised)
+Action poses (running, playing) (based on personality)
+Small object icons
+Color palette section
+Profile section with name and personality.
+```
+
+</details>
+
+<a id="gpt-image-character-dance-pose-sheet-4x4"></a>
+### 动漫角色4x4舞蹈姿势表
+
+<a href="https://x.com/Mayz1169/status/2099457417528692871"><img src="previews/gpt-image-character-dance-pose-sheet-4x4.jpg" width="360"></a>
+
+用编号的16步编舞清单,从开场姿势到收尾剪影,让每格动作各有分工。严格锁定参考图角色身份,配合固定机位、白底网格和禁止项清单,保证16格角色一致。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099457417528692871) · 391 赞，统计于 2026-10-28
+
+[`pose-sheet`](pages/zh/tags.md#tag-pose-sheet) [`dance`](pages/zh/tags.md#tag-dance) [`character-consistency`](pages/zh/tags.md#tag-character-consistency) [`grid`](pages/zh/tags.md#tag-grid) [`anime`](pages/zh/tags.md#tag-anime)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
+
+CHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
+
+ADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion.
+
+Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
+
+Use the following movement structure, adapting each action to the character:
+1. Opening pose that establishes the character’s personality.
+2. Small rhythmic step with a coordinated arm gesture.
+3. Side step with one arm extended.
+4. Compact expressive gesture near the face or upper body.
+5. Grounded stance with arms crossing or sweeping inward.
+6. Knee lift or an anatomically appropriate weight shift.
+7. Open, expansive pose with arms spread.
+8. Playful or expressive balance pose.
+9. Turning pose showing a three-quarter rear view.
+10. Forward-reaching movement with a diagonal body lean.
+11. Strong upward-reaching accent.
+12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
+13. Lowered stance with a forward gesture.
+14. Elegant or dynamic side-facing transition.
+15. Signature gesture that suits the character.
+16. Confident final pose with a clear finishing silhouette.
+
+COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
+
+AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
+
+Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+</details>
+
+<a id="gpt-image-knitted-puppet-bust"></a>
+### 照片变针织定格动画玩偶半身像
+
+<a href="https://x.com/oggii_0/status/2114585881059459119"><img src="previews/gpt-image-knitted-puppet-bust.jpg" width="360"></a>
+
+超长材质规格（毛线、针脚、毛毡），最后一条：照片里没有的不许编。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2114585881059459119) · 327 赞，统计于 2026-10-27
+
+[`3d`](pages/zh/tags.md#tag-3d) [`textile`](pages/zh/tags.md#tag-textile) [`toy`](pages/zh/tags.md#tag-toy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph
+
+Use the attached real photograph to create a square 1:1, stylized 3D textile art toy bust. Interpret the inputs by their roles: the real photograph is the source of identity and content, while the minimalist white-background toy image is the style reference. Their order does not matter.
+
+Preserve the subject’s identity, facial expression, pose, and spatial relationships between objects. Reconstruct the subject as an exaggerated, humorous designer collectible toy. Do not apply a simple fuzzy or plush filter to the original photograph.
+
+## 1. Style Reference
+
+Borrow only these visual characteristics from the reference image:
+
+- An oversized, horizontally broad head with rounded corners.
+- Extremely small, centrally concentrated facial features with generous facial negative space.
+- Sculptural knitted forms, clustered yarn shapes, and soft textile construction.
+- Subtle asymmetry for a handmade, designer-toy appearance.
+- Contrast between fine-grained flocked surfaces and chunky knitted textures.
+- A deliberate primary and accent color hierarchy.
+- Clean, minimalist white studio photography.
+
+Do not inherit the reference character’s body, pose, hairstyle, hat, glasses, clothing, props, or colors.
+
+## 2. Subject and Identity Preservation
+
+The real photograph is the exclusive source of visible content. Reproduce only the body parts, hairstyle, clothing, accessories, objects, poses, and contact relationships that are actually visible in the original image. Never invent or complete details that extend beyond the photograph.
+
+Identify 2–5 distinctive identity anchors from the source image. Exaggerate 1–2 of them while simplifying the remaining details to maintain recognizability.
+
+- **Head:** Transform it into a broad, thick, rounded rectangular block or a short cylindrical form with softened corners.
+- **Eyes:** Use tiny black beads or capsule-shaped forms.
+- **Nose:** Reduce it to a small, rounded rectangular block.
+- **Mouth:** Preserve the original expression using a short line or a small opening, as appropriate.
+- **Hair:** Reconstruct it as large yarn loops, chunky knitted clusters, or sculptural bundles of wool.
+- **Hands:** Strictly preserve the number of visible hands. If no hands are visible, add none. If one hand is visible, reproduce only one. Preserve its orientation, sleeve cuff, and contact with the original object.
+- **Text and logos:** Convert any visible lettering or branding into illegible woven or knitted texture rather than readable text.
+
+## 3. Composition
+
+Create a compact, close-up head-and-shoulders composition.
+
+- The head should occupy approximately 75–90% of the image width.
+- Compress the body into a small supporting form, retaining only the essential visible pose, gestures, and objects.
+- Allow elements to be cropped by the image boundaries when necessary.
+- Do not add body parts or anatomy extending beyond the original photograph.
+- Maintain a clear silhouette and recognizable relationships between the subject and any visible objects.
+
+## 4. Visual Style
+
+**Stylized 3D textile art toy, oversized head, tiny concentrated facial features, sculptural knitted forms, micro-flocked surfaces.**
+
+Prioritize abstract exaggeration over photorealism while preserving recognizability through the subject’s silhouette, hairstyle, facial expression, pose, clothing, and visible objects.
+
+The result should feel like a thoughtfully designed, premium collectible art toy rather than a conventional 3D cartoon character.
+
+## 5. Color Palette
+
+Automatically develop a cohesive palette of 3–5 colors, including:
+
+- A dominant primary color.
+- A contrasting accent color with a clear difference in temperature or brightness.
+- One or more supporting colors.
+- A neutral color for balance.
+
+Non-identity-defining elements may be recolored to improve visual harmony. Preserve the essential identity cues of the original subject while avoiding monotonous palettes, excessive neutrals, evenly distributed rainbow colors, or repetitive mechanical stripes.
+
+## 6. Materials, Texture, and Lighting
+
+Use distinct textile treatments for different surfaces:
+
+- **Face, hands, and small components:** Fine, dense micro-flocked or short-fiber felt surfaces.
+- **Hair, hats, and clothing:** Chunky knitting, crochet structures, large yarn loops, and clustered wool forms, applied only where those elements exist in the original photograph.
+
+Create visible material contrast between the fine-grained felt and the coarser knitted structures. The surfaces should appear sculpted from real textile materials, not covered with a generic fuzzy filter.
+
+Use a subtly warm-white seamless background, soft high-key studio lighting, gentle highlights, and short, delicate shadows. Keep the presentation clean, bright, and premium.
+
+## 7. Strict Exclusions
+
+- No photorealistic eyeballs, detailed nostrils, realistic lips, natural skin texture, or individual hair strands.
+- No copying the reference character’s identity or distinctive design elements.
+- No invented body parts, hand gestures, accessories, clothing, or props absent from the source photograph.
+- No conventional 3D cartoon aesthetics.
+- No plastic, polymer clay, wax figure, or long-pile plush appearance.
+- No readable text, logos, or branding.
+- No rooms, environmental scenes, or complex backgrounds.
+- No generic fuzzy overlay that obscures the underlying sculptural textile construction.
+
+## Final Priority
+
+**The source photograph determines WHAT is depicted. The style reference determines HOW it is depicted.**
+
+Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust with a distinctive oversized head, tiny facial features, sculptural yarn construction, contrasting textile textures, a deliberate color palette, and clean white studio lighting. Preserve the original subject’s identity and visible content without inventing anything beyond the photographic evidence.
+```
+
+</details>
+
+**[全部 29 条](pages/zh/image-character.md)**
+
+<a id="img-illustration"></a>
+## 插画
+
+<a id="gpt-image-risograph-rainy-bus-stop-illustration"></a>
+### 孔版印刷风格的雨中公交站少女插画
+
+<a href="https://x.com/Naiknelofar788/status/2051493607916589106"><img src="previews/gpt-image-risograph-rainy-bus-stop-illustration.jpg" width="360"></a>
+
+提示词只描述印刷特征：粗轮廓线、错位的油墨层、纸张颗粒，并限定两到三种颜色。再要求大面积留白和极简道具，模型便生成安静而克制的画面。
+
+GPT Image 2 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2051493607916589106) · 806 赞，统计于 2026-10-28
+
+[`risograph`](pages/zh/tags.md#tag-risograph) [`minimal`](pages/zh/tags.md#tag-minimal) [`pastel`](pages/zh/tags.md#tag-pastel) [`print-texture`](pages/zh/tags.md#tag-print-texture) [`negative-space`](pages/zh/tags.md#tag-negative-space)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A crisp, printmaking-like aesthetic with bold outlines and natural deformation. Pastel color palette, vintage print texture, slightly misaligned ink layers, and rough paper grain. A calm poster composition with generous negative space rather than filling the frame. Props and background kept minimal. Color theme 2–3 colors.
+```
+
+</details>
+
+<a id="nano-banana-geometric-fashion-illustration"></a>
+### 质感几何风全身时装插画
+
+<a href="https://x.com/ChillaiKalan__/status/2109123213351632977"><img src="previews/nano-banana-geometric-fashion-illustration.jpg" width="360"></a>
+
+服装逐件描述，再用一小串禁止项排除写实和 3D。
+
+Nano Banana 2.1 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2109123213351632977) · 494 赞，统计于 2026-10-27
+
+[`fashion`](pages/zh/tags.md#tag-fashion) [`geometric`](pages/zh/tags.md#tag-geometric) [`editorial`](pages/zh/tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.
+
+Use a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.
+```
+
+</details>
+
+<a id="gpt-image-isometric-terrain-slab-world-diorama-poster"></a>
+### 悬浮地块上的伊斯坦布尔城市微缩景观海报
+
+<a href="https://x.com/MahnoorAi12/status/2091858610255261949"><img src="previews/gpt-image-isometric-terrain-slab-world-diorama-poster.jpg" width="360"></a>
+
+提示词让真实地图轮廓成为实体地块底座，带断裂岩壁和土层，再按设定摆放地标与博物馆式小标签。固定 4:5 构图并留出上方三分之一放宽字距大写标题，配合柔和暖色影棚光营造收藏级微缩质感。
+
+GPT Image 2 · 文生图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2091858610255261949) · 354 赞，统计于 2026-10-28
+
+[`diorama`](pages/zh/tags.md#tag-diorama) [`isometric`](pages/zh/tags.md#tag-isometric) [`miniature`](pages/zh/tags.md#tag-miniature) [`world-building`](pages/zh/tags.md#tag-world-building) [`editorial-poster`](pages/zh/tags.md#tag-editorial-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-detailed photorealistic isometric miniature diorama of the world from [ANIME], presented as a premium collectible-scale landscape sculpture floating above a clean warm off-white studio background with a subtle natural shadow underneath.
+
+(For best accuracy, upload a clear reference image of the official map/world layout.)
+
+WORLD SHAPE & GEOGRAPHY
+
+If [ANIME] features a fictional world, continent, island or region, recreate its canonical map silhouette exactly. The entire landmass should appear physically carved from the earth and lifted upward as one continuous miniature terrain slab, with naturally broken rock sides, exposed soil layers, cliffs and geological textures.
+
+If [ANIME] takes place in a real or semi-real location, use the most important canonical city, region or country as the physical base shape, maintaining its recognizable geographic outline.
+
+The outer boundary must feel like an actual piece of land cut directly from the map — never like a flat printed map or floating board.
+
+CANONICAL WORLD RECONSTRUCTION
+
+Rebuild the world of [ANIME] across the entire miniature surface with maximum lore accuracy.
+
+Every major region, settlement, city, landmark, mountain, river, forest, road, battlefield, castle, shrine, futuristic structure or other recognizable location should appear in its correct relative position.
+
+Preserve the distinctive visual language of the anime:
+
+- canonical architecture
+- recognizable environments
+- authentic terrain
+- faction territories
+- signature landmarks
+- characteristic colors
+- world-specific technology or fantasy elements
+- environmental atmosphere
+
+Avoid generic Western architecture or realistic substitutions. The result must immediately feel like [ANIME] transformed into a physical miniature world.
+
+Add tiny but readable location markers for important places, designed like elegant museum-style cartographic labels rather than large text.
+
+MICRO-SCALE STORY DETAILS
+
+Fill the landscape with carefully placed miniature storytelling elements: tiny characters wearing recognizable show-accurate outfits, world-specific creatures, vehicles, ships, trains, flags, faction symbols, market areas, farms, bridges, pathways, trees, vegetation and other details that make the world feel alive.
+
+Characters should remain small environmental elements rather than dominating the composition.
+
+Include subtle activity throughout the terrain so the diorama feels like a living snapshot of the anime universe.
+
+MATERIAL & PHOTOGRAPHY
+
+Hyper-realistic premium miniature photography combined with high-end cinematic environment design.
+
+Extremely crisp micro-details, realistic rock formations, miniature vegetation, tiny architectural textures, believable scale relationships and physically accurate materials.
+
+Everything should remain sharply focused with no artificial background blur.
+
+Use soft warm studio illumination from above with gentle contact shadows and subtle ambient occlusion between buildings, terrain and rock layers.
+
+The miniature should have a sophisticated museum-quality collectible appearance while still preserving the anime's original visual identity.
+
+COLOR & ATMOSPHERE
+
+Use the authentic color language of [ANIME] as the primary visual reference.
+
+Translate the anime's signature palette into realistic miniature materials without losing its recognizable mood, atmosphere or world identity.
+
+Rich but controlled colors, cinematic tonal depth, premium print-like contrast and realistic surface textures.
+
+COMPOSITION
+
+Center the complete shaped diorama in the lower two-thirds of the 4:5 vertical frame.
+
+Leave generous clean negative space around the entire landmass.
+
+The diorama must never touch the frame edges.
+
+The upper third remains almost completely empty and off-white, creating a sophisticated editorial poster composition.
+
+At the very top, place small widely tracked uppercase typography showing the world / region name.
+
+Directly underneath, place:
+
+[ANIME]
+
+in a bold condensed sans-serif typeface, medium charcoal grey, large and dominant.
+
+Below it, add a smaller widely tracked uppercase line containing the studio name and year.
+
+Typography should feel like a luxury museum exhibition poster — restrained, elegant and secondary to the miniature world.
+
+FINAL ART DIRECTION
+
+Premium editorial travel-poster aesthetic + cinematic miniature photography + collectible world-building sculpture + museum-quality cartography.
+
+The final image should look as though the entire world of [ANIME] was physically sculpted from the earth and photographed inside a professional studio.
+
+No generic fantasy map, no flat illustration, no random landmarks, no duplicated buildings, no distorted geography, no excessive text, no modern Western substitutions.
+
+4:5 vertical aspect ratio, ultra-high detail, photorealistic materials, cinematic lighting, premium print quality.
+```
+
+</details>
+
+<a id="gpt-image-self-portrait-japanese-ink-doodle"></a>
+### 日式水墨涂鸦风自画像插画
+
+<a href="https://x.com/ChillaiKalan__/status/2051659905157992535"><img src="previews/gpt-image-self-portrait-japanese-ink-doodle.jpg" width="360"></a>
+
+让模型想象我的样子，把个人肖像变成可复用的模板。泼墨、松散线条、粉彩加墨色和漫画草稿质感层层叠加，再配白底与散落的象征元素，画面干净且有氛围。
+
+GPT Image 2 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2051659905157992535) · 322 赞，统计于 2026-10-28
+
+[`japanese-style`](pages/zh/tags.md#tag-japanese-style) [`ink-doodle`](pages/zh/tags.md#tag-ink-doodle) [`half-body`](pages/zh/tags.md#tag-half-body) [`pastel-ink`](pages/zh/tags.md#tag-pastel-ink) [`self-portrait`](pages/zh/tags.md#tag-self-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate an illustration of what you imagine “me” to look like: in a Japanese-style illustration, with distinctive character traits, a natural and expressive emotional look, and a half-body composition. The pose should be dynamic, with finely detailed clothing. Use a hand-drawn doodle style with splashed ink brushstrokes, loose and spontaneous lines, and a mix of pastel colors and ink tones. Aim for a comic sketch texture, set against a simple white background, with symbolic elements scattered around to enhance the atmosphere. The overall feel should be strong in mood, highly detailed, and high quality.
+```
+
+</details>
+
+**[全部 41 条](pages/zh/image-illustration.md)**
+
+<a id="img-comic"></a>
+## 漫画与分镜
+
+<a id="gpt-image-corporate-noir-teaser-storyboard-six-panels"></a>
+### 企业黑色复仇惊悚六格分镜板
+
+<a href="https://x.com/IamEmily2050/status/2048147198869946855"><img src="previews/gpt-image-corporate-noir-teaser-storyboard-six-panels.jpg" width="360"></a>
+
+用系统提示词让模型扮演分镜导演，固定三镜头15秒结构，每镜只有一个动作和一种运镜。人物、服装和色调锁定加上干净的关键帧，保证各格画面一致。
+
+GPT Image 2 · 文生图 · 出处: [@IamEmily2050 on X](https://x.com/IamEmily2050/status/2048147198869946855) · 1,025 赞，统计于 2026-10-28
+
+[`storyboard`](pages/zh/tags.md#tag-storyboard) [`seedance`](pages/zh/tags.md#tag-seedance) [`cinematic`](pages/zh/tags.md#tag-cinematic) [`thriller`](pages/zh/tags.md#tag-thriller) [`system-prompt`](pages/zh/tags.md#tag-system-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+This is the Storyboard system prompt for GPT Image Gen V2, for Seedance V2 (15-second video). I will publish a very comprehensive skill on GitHub for it very soon, and I will also update the Seedance V2 skill.
+So much potential. Also, for people who use agents, there might be untapped potential to use MDJ V8.1 + Nano Banana Pro + Image Gen V2 in one workflow.
+
+You are a senior AI-video storyboard director and prompt engineer specializing in GPT Image 2 keyframe generation and Seedance 2.0 / Seedance V2 15-second video prompting.
+
+Your task is to convert any user idea into a practical, model-followable storyboard package for a 15-second AI video.
+
+Core principle:
+Do not create bloated text-heavy storyboard boards as the primary Seedance reference. Use clean cinematic keyframes for visual reference, then use a short Seedance motion prompt for timing, camera, and action. If a storyboard sheet is requested, make it a planning artifact only, not the main video reference.
+
+Default target:
+Length: exactly 15 seconds.
+Structure: 3 shots of 5 seconds each unless the user specifically requests a single continuous shot or a faster montage.
+Aspect ratio: use the user’s requested ratio; default to 16:9 cinematic. Use 9:16 only for short-form vertical content.
+Style: infer from the user’s concept, but make the style coherent and repeatable.
+Output language: English unless the user asks otherwise.
+
+Your output must contain these sections in this exact order:
+
+1. CREATIVE INTERPRETATION
+Write 2–4 concise sentences explaining the intended video: subject, mood, conflict or transformation, visual style, and final emotional beat. Do not over-explain.
+
+2. 15-SECOND SHOT PLAN
+Create exactly 3 shot beats by default:
+Shot 1: 0–5s
+Shot 2: 5–10s
+Shot 3: 10–15s
+
+For each shot, include:
+- Shot purpose
+- Framing
+- Subject action
+- Camera movement
+- Lighting / atmosphere
+- Transition into next shot
+
+Rules:
+Each shot gets only one main action.
+Each shot gets only one camera move.
+Each shot gets one dominant lighting/mood cue.
+Avoid micro-choreography.
+Avoid too many props, creatures, characters, or environment changes.
+Keep the same subject identity, costume, palette, and world logic across all shots.
+
+3. GPT IMAGE 2 — RECOMMENDED KEYFRAME PROMPTS
+Create three separate GPT Image 2 prompts, one for each Seedance reference frame.
+
+Each keyframe prompt must be a standalone cinematic image prompt.
+Each prompt must include:
+- Same character identity lock
+- Same wardrobe / object lock
+- Same world / environment lock unless the scene intentionally changes
+- Framing and lens language
+- Lighting and color palette
+- Mood
+- Clean background logic
+- “No text, no captions, no UI, no collage, no panels, no watermark”
+
+Do not ask GPT Image 2 to create long paragraphs inside the image.
+Do not ask for a storyboard table inside the image.
+Do not include motion instructions that cannot be seen in a still image, except for visual cues like motion blur, wind, splash, sparks, dust, or pose direction.
+
+Use this format:
+
+KEYFRAME 1 / @ Image1:
+[Prompt]
+
+KEYFRAME 2 / @ Image2:
+[Prompt]
+
+KEYFRAME 3 / @ Image3:
+[Prompt]
+
+4. GPT IMAGE 2 — OPTIONAL STORYBOARD SHEET PROMPT
+Create one optional storyboard-sheet prompt for human planning only.
+
+The sheet must be clean and minimal:
+- 3 wide cinematic panels in a horizontal strip or vertical stack, depending on aspect ratio
+- Small labels only: “0–5s”, “5–10s”, “10–15s”
+- No long text columns
+- No dense director notes
+- No voice-design paragraphs
+- No UI-like table clutter
+- Each panel should match the separate keyframes
+
+Clearly label this as: “Planning only — do not use as the main Seedance visual reference unless you want a storyboard-looking video.”
+
+5. SEEDANCE 2.0 — FINAL 15-SECOND VIDEO PROMPT
+Write one compact Seedance prompt designed for the actual generation.
+
+Target length: 60–100 words.
+Maximum length: 130 words only when asset binding is necessary.
+Lead with the subject.
+Reference assets if available:
+Use @ Image1 for the opening look.
+Use @ Image2 for the midpoint composition.
+Use @ Image3 for the ending composition.
+If the user provides video or audio references, bind them explicitly with @ Video1 or @ Audio1.
+
+The Seedance prompt must include:
+- 15-second duration
+- Shot timing
+- Main subject action
+- Camera movement
+- Lighting / atmosphere
+- Continuity lock
+- Final beat
+- Sound only if needed
+
+Do not include excessive prose.
+Do not include more than 3 major actions.
+Do not include contradictory camera instructions.
+Do not use vague phrases like “make it cinematic” without specifying lens, framing, lighting, or motion.
+
+6. CONSISTENCY LOCK
+Write a short lock statement Seedance can understand:
+“Maintain the same [subject], [face/body/shape], [wardrobe/product details], [color palette], [environment logic], and [lighting style] across the full 15 seconds.”
+
+7. POSITIVE CONSTRAINTS
+Write 3–6 short constraints as positive production rules.
+Use phrases like:
+- stable face and body proportions
+- clean readable silhouette
+- natural physical motion
+- continuous lighting direction
+- coherent spatial layout
+- no on-screen text or UI elements
+
+Prefer positive constraints over long negative-prompt lists.
+
+8. ITERATION ADVICE
+Give one concise note on what to change first if the output fails.
+Examples:
+- If identity drifts, simplify movement and use @ Image1 more strongly.
+- If timing fails, reduce to one continuous shot.
+- If the scene becomes chaotic, remove background actors or secondary objects.
+- If the camera ignores direction, use only one camera move.
+
+Decision rules:
+If the user gives a complex story, compress it into 3 clear beats instead of trying to include every detail.
+If the user asks for a chase, battle, dance, transformation, product reveal, horror reveal, or commercial, still use 3 beats unless they specifically ask for a montage.
+If the idea needs more than 15 seconds, create a strong 15-second teaser with setup, escalation, and final hook.
+If the user gives no style, choose a style that supports the concept.
+If the user gives no character details, invent simple but memorable identity anchors.
+If the user gives copyrighted characters, celebrities, or living-artist style requests, transform them into original, rights-safe archetypes and describe the new visual language instead.
+If the user requests realism, prioritize physical plausibility, natural body mechanics, lens realism, and coherent lighting.
+If the user requests horror, suspense, fantasy, sci-fi, beauty, fashion, product, anime, documentary, or comedy, adapt the same structure but keep the Seedance prompt concise.
+
+Never output:
+- a 10-shot storyboard for a 15-second video
+- a dense table of director notes as the main generation prompt
+- long voice-design blocks unless the user explicitly asks for audio
+- contradictory camera moves in the same shot
+- tiny visual details that will not survive video generation
+- text-heavy reference images for Seedance
+- a prompt that asks Seedance to read a full storyboard sheet
+
+Always optimize for followability over completeness.
+```
+
+</details>
+
+<a id="gpt-image-luxury-fragrance-candle-storyboard-grid"></a>
+### 十二格奢华香氛蜡烛广告分镜板
+
+<a href="https://x.com/insmind_com/status/2049481439285223785"><img src="previews/gpt-image-luxury-fragrance-candle-storyboard-grid.jpg" width="360"></a>
+
+提示词固定三乘四网格，每格上方是电影感画面，下方是分镜说明，并写明从开场到品牌收尾的叙事结构。风格参照、双色调色板和贯穿始终的蜡烛主体让十二个画面保持一致，方便后续做成视频。
+
+GPT Image 2 · 文生图 · 出处: [@insmind_com on X](https://x.com/insmind_com/status/2049481439285223785) · 410 赞，统计于 2026-10-28
+
+[`storyboard`](pages/zh/tags.md#tag-storyboard) [`fragrance`](pages/zh/tags.md#tag-fragrance) [`luxury`](pages/zh/tags.md#tag-luxury) [`editorial`](pages/zh/tags.md#tag-editorial) [`candle`](pages/zh/tags.md#tag-candle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Step 1:  Generate storyboard with GPT Image 2.
+“Create a high-end 9:16 luxury fragrance pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Aesop/Byredo style, beige + lavender palette. Structured flow: intro → ritual → transformation → resolution → brand closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Luxury minimal European aesthetic, calm femininity, slow living mood. Candle is the emotional center throughout.”
+
+Step 2: Take each frame into Seedance 2.0. Set to 1080p to preserve text clarity.
+“Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow push-in, gentle pan, subtle orbit, and rack focus. Lighting transitions from soft morning glow to warm golden ambient light. Fragrance brand editorial aesthetic, minimal luxury, soft film grain. No new shots, no reordering, candle remains emotional focus in all scenes.”
+
+Step 3: Hard-cut into final ad. Add soft ambient music and subtle cinematic SFX.
+```
+
+</details>
+
+<a id="gpt-image-iced-matcha-latte-six-panel-storyboard"></a>
+### 冰抹茶拿铁六格美食分镜
+
+<a href="https://x.com/DuaFatimaAi/status/2095669775456407975"><img src="previews/gpt-image-iced-matcha-latte-six-panel-storyboard.jpg" width="360"></a>
+
+每格按步骤编号，从食材平铺到成品主图，再用一段统一的道具、色调、光线和镜头描述锁定整体风格。结尾的一致性要求和禁止出现人脸的限制让六格画面保持连贯。
+
+GPT Image 2 · 文生图 · 出处: [@DuaFatimaAi on X](https://x.com/DuaFatimaAi/status/2095669775456407975) · 272 赞，统计于 2026-10-28
+
+[`food-photography`](pages/zh/tags.md#tag-food-photography) [`storyboard`](pages/zh/tags.md#tag-storyboard) [`matcha`](pages/zh/tags.md#tag-matcha) [`6-panel-grid`](pages/zh/tags.md#tag-6-panel-grid) [`photorealistic`](pages/zh/tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium photorealistic vertical 6-panel food photography storyboard for an iced matcha latte, arranged in a clean 2×3 grid. Use the same warm natural visual identity, props, lighting, composition, and green color palette across all six panels. Rustic Japanese-inspired kitchen aesthetic, cinematic editorial food photography, soft natural window light, realistic human hands, shallow depth of field, highly detailed textures, creamy matcha, transparent ice cubes, elegant glassware, green linen/checkered cloth, bamboo matcha whisk, ceramic bowls, blueberries, and wooden accents.
+Panel 1 — INGREDIENT PREPARATION:
+Top-down flat lay showing a bowl of vibrant green matcha powder, bamboo whisk, small ceramic pitcher of milk, bowl of sugar, glass of green matcha liquid, bowl of ice cubes, and cream/milk arranged beautifully on a dark green tabletop with a checkered cloth.
+Panel 2 — MATCHA PREPARATION:
+Close-up of realistic hands whisking vibrant green matcha powder in a rustic ceramic bowl using a traditional bamboo matcha whisk. Foamy matcha texture forming naturally.
+Panel 3 — INITIAL MIXING:
+Pour freshly prepared bright green matcha into a transparent measuring glass filled with ice and milk. Capture the pouring action, swirling green-and-white layers, realistic splashes and condensation.
+Panel 4 — MAIN PROCESS:
+Extreme close-up of creamy milk being poured over iced matcha in a clear glass. Beautiful green-and-white marbling around transparent ice cubes, highly appetizing texture, cinematic macro photography.
+Panel 5 — SERVING:
+A spoon gently adds a generous layer of white whipped cream/cream foam onto the top of the iced matcha latte. Full glass visible, surrounded by matcha powder, bamboo whisk, blueberries and rustic props.
+Panel 6 — FINAL HERO SHOT:
+Premium hero shot of the finished iced matcha latte in a tall crystal-clear glass, vibrant green matcha with creamy white swirls and a soft cream topping, condensation on the glass, ice cubes visible, matcha bowl and bamboo whisk softly blurred in the background, blueberries scattered naturally around the glass.
+Visual style: luxury beverage advertisement, photorealistic, cinematic food commercial, warm earthy tones, natural soft lighting, realistic materials, subtle film grain, professional food styling, 85mm macro lens look, shallow depth of field, HDR, ultra-detailed, premium editorial photography, appetizing and authentic.
+Aspect ratio: 4:5 vertical.
+Important: Maintain consistent props, glass, lighting, tabletop, color palette and visual continuity across all six panels. No people’s faces, only natural hands where required.
+```
+
+</details>
+
+<a id="gpt-image-1960s-newspaper-comic-ranger-bear"></a>
+### 护林员与棕熊的六格报纸漫画
+
+<a href="https://x.com/ImagineArt_X/status/2097520479246704871"><img src="previews/gpt-image-1960s-newspaper-comic-ranger-bear.jpg" width="360"></a>
+
+先定下媒介（1960年代星期日报纸连载，泛黄新闻纸）和两行三列的格子，再要求每格都是同一营地和同一角色。逐字指定对白、只留一个拟声词、安排一格无对白，用来控制节奏和文字排版。
+
+GPT Image 2.5 · 文生图 · 出处: [@ImagineArt_X on X](https://x.com/ImagineArt_X/status/2097520479246704871) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`comic`](pages/zh/tags.md#tag-comic) [`newspaper`](pages/zh/tags.md#tag-newspaper) [`six-panel`](pages/zh/tags.md#tag-six-panel) [`vintage`](pages/zh/tags.md#tag-vintage) [`storytelling`](pages/zh/tags.md#tag-storytelling)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two rows of three. A park ranger and a bear with a notched ear, the same campsite in every panel, dialogue specified word for word, one sound effect, and one panel with no dialogue at all.
+```
+
+</details>
+
+**[全部 9 条](pages/zh/image-comic.md)**
+
+<a id="img-photo-to-art"></a>
+## 照片转艺术风格
+
+<a id="gpt-image-photo-to-watercolor-travel"></a>
+### 上半照片，下半水彩旅行速写
+
+<a href="https://x.com/MahnoorAi12/status/2102724961408626735"><img src="previews/gpt-image-photo-to-watercolor-travel.jpg" width="360"></a>
+
+上下分割，照片渐变成水彩。作者说 Gemini、Grok、ChatGPT 都能用。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2102724961408626735) · 2,264 赞，统计于 2026-10-27
+
+[`watercolor`](pages/zh/tags.md#tag-watercolor) [`travel`](pages/zh/tags.md#tag-travel) [`split-composition`](pages/zh/tags.md#tag-split-composition)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration.
+Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography.
+Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic.
+Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
+Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
+Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
+```
+
+</details>
 
 <a id="gpt-image-minimal-lifestyle-poster"></a>
 ### 真实照片变极简生活方式海报
@@ -2395,1724 +3597,275 @@ Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thou
 
 </details>
 
-<a id="gpt-image-halftone-architecture-poster"></a>
-### 建筑照片变半调拼贴旅行海报
+<a id="gpt-image-pastel-storybook-photo-to-illustration-girl-bubble-tea"></a>
+### 喝珍珠奶茶女孩的绘本粉彩插画
 
-<a href="https://x.com/Naiknelofar788/status/2100067049288634730"><img src="previews/gpt-image-halftone-architecture-poster.jpg" width="360"></a>
+<a href="https://x.com/Emmma___0/status/2056369924399124937"><img src="previews/gpt-image-pastel-storybook-photo-to-illustration-girl-bubble-tea.jpg" width="360"></a>
 
-长篇规格，结尾给出优先级：先保建筑准确，再谈半调效果。
+把照片转成插画，用一串风格词叠加：拉长的形体、纤细不规则线条、平涂粉彩、纸张纹理和水彩柔感。结尾列出要避免的内容，如写实、3D和光泽表面，让画面保持扁平稚拙。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2100067049288634730) · 497 赞，统计于 2026-10-27
+GPT Image 2 · 上传图改图 · 出处: [@Emmma___0 on X](https://x.com/Emmma___0/status/2056369924399124937) · 818 赞，统计于 2026-10-28
 
-[`halftone`](pages/zh/tags.md#tag-halftone) [`architecture`](pages/zh/tags.md#tag-architecture) [`travel`](pages/zh/tags.md#tag-travel) [`collage`](pages/zh/tags.md#tag-collage)
+[`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration) [`storybook`](pages/zh/tags.md#tag-storybook) [`pastel`](pages/zh/tags.md#tag-pastel) [`watercolor`](pages/zh/tags.md#tag-watercolor) [`children-illustration`](pages/zh/tags.md#tag-children-illustration)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
+Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles.Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.
+```
 
-FORMAT
+</details>
 
-3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.
+**[全部 38 条](pages/zh/image-photo-to-art.md)**
 
-Do not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.
+<a id="img-architecture"></a>
+## 建筑与室内
 
-TOP HALF — THE REAL SHOT
+<a id="gpt-image-architectural-specimen-card-survey-landmark"></a>
+### 长城建筑勘测标本卡
 
-Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.
+<a href="https://x.com/Naiknelofar788/status/2094626691234816034"><img src="previews/gpt-image-architectural-specimen-card-survey-landmark.jpg" width="360"></a>
 
-Keep recognizable features such as:
+以上传照片为参考，层级清晰：大幅单色墨线地标、一小块彩色照片细节、背后的等高线地图。限定调色并只用一个点缀色，只列少量小号档案式文字，再明确列出要避开的风格，让整张卡片保持克制的博物馆目录感。
 
-* façade
-* windows and arches
-* towers or domes
-* doors and structural details
-* roofline
-* surrounding landscape or street elements
+GPT Image 2 · 上传图改图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2094626691234816034) · 512 赞，统计于 2026-10-28
 
-Add only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.
+[`architecture`](pages/zh/tags.md#tag-architecture) [`specimen-card`](pages/zh/tags.md#tag-specimen-card) [`archival`](pages/zh/tags.md#tag-archival) [`topographic-map`](pages/zh/tags.md#tag-topographic-map) [`ink-drawing`](pages/zh/tags.md#tag-ink-drawing)
 
-BOTTOM HALF — THE PRINTED RECONSTRUCTION
+<details><summary><b>提示词</b></summary>
 
-Rebuild the same structure as an experimental printed architectural collage using:
+```text
+Use the uploaded photo as the primary reference. Create a sophisticated 4:3 landscape architectural specimen card inspired by museum archives, architectural surveys, and vintage scientific documentation.
 
-torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.
+Keep the original location recognizable, but transform the presentation into a curated architectural study rather than a normal travel poster.
 
-The structure must remain immediately recognizable.
+* Place the main landmark as a large monochrome architectural cutout or finely detailed ink drawing.
+* Add a smaller original-color photographic fragment showing one distinctive detail of the location.
+* Include a simplified topographic contour map behind the architecture.
+* Add tiny numbered reference points, measurement marks, arrows, elevation lines, and architectural annotation symbols.
+* Use an aged cream paper background with subtle grain and imperfections.
+* Palette: black, warm beige, muted olive, and one restrained accent color extracted from the landmark.
+* Typography should be small, elegant, and archival: location name, country, year, No. 019, and 3 descriptive keywords.
+* Create subtle imperfections resembling screen printing, drafting ink, pencil marks, and old paper.
+* Keep generous negative space and a sophisticated museum-catalog aesthetic.
 
-* Torn-edge photographic fragments preserve the most important architectural details.
-* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.
-* Use thin technical construction lines to subtly trace the structure’s geometry.
-* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.
-* Keep the main silhouette strong and readable.
-* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.
-* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.
-* Never fully desaturate the structure.
+Important: Avoid postcard layouts, circular stamps, tourist graphics, excessive text, cartoon styling, glossy effects, 3D rendering, and overly detailed illustrations.
 
-The structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.
+Overall mood:
+architectural archive × museum specimen × old survey document × contemporary editorial design.
+```
 
-Leave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.
+</details>
 
-TYPOGRAPHY
+<a id="gpt-image-architectural-sketchbook-study"></a>
+### 铅笔与水彩的罗马斗兽场建筑速写本
 
-Add one clean, readable fixed-width architectural title based on the structure:
+<a href="https://x.com/Naiknelofar788/status/2099096963316957187"><img src="previews/gpt-image-architectural-sketchbook-study.jpg" width="360"></a>
+
+提示词让画面从前景的松散construction线条逐步过渡到墨线加水彩的完成态主体，形成未完成的草图感。同时列出侧立面、装饰细节、地图轮廓和比例剪影等小型研究图，并配少量手写标注，再用负面词排除写实渲染和信息图方框。
+
+GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2099096963316957187) · 169 赞，统计于 2026-10-28
+
+[`architecture`](pages/zh/tags.md#tag-architecture) [`sketchbook`](pages/zh/tags.md#tag-sketchbook) [`watercolor`](pages/zh/tags.md#tag-watercolor) [`pencil-drawing`](pages/zh/tags.md#tag-pencil-drawing) [`template`](pages/zh/tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a stunning 4:5 vertical fine-art sketch illustration of [STRUCTURE NAME] as if it is being drawn by a master architectural artist inside a luxury travel sketchbook.
+
+Show the famous structure transitioning from loose preliminary pencil lines into a fully detailed finished architectural drawing.
+
+The foreground should contain delicate construction lines, perspective guides, measurement marks, small handwritten architectural notes, compass marks, arrows, erased pencil strokes, and unfinished portions.
+
+As the eye moves toward the main structure, the sketch gradually becomes more refined — combining graphite pencil, fine black ink, subtle watercolor washes, cross-hatching, and delicate hand-drawn textures.
+
+Include small artistic studies around the main drawing: a tiny side elevation, architectural detail, window or ornament study, simplified map outline, and a small silhouette showing the scale of the structure.
+
+Use an elegant warm ivory sketchbook-paper background with natural paper fibers and subtle imperfections.
+
+Keep the composition sophisticated and spacious. The structure should remain the unmistakable hero.
+
+Add minimal handwritten-style labeling:
 
 [STRUCTURE NAME]
-
-Below it include:
-
 [CITY, COUNTRY]
-REC. STUDY 01
+ARCHITECTURAL STUDY
 
-Add one short observational caption related to the architecture, such as:
+The artwork should feel like an original museum-quality architectural sketch discovered inside an explorer’s personal sketchbook — artistic, intellectual, nostalgic, detailed, and highly collectible.
 
-“A monumental study in geometry, time, and place.”
-
-Typography should feel like an old architectural archive mixed with an underground experimental design journal.
-
-A few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.
-
-MOOD
-
-Early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.
-
-The structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.
-
-Sophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.
-
-AVOID
-
-Solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.
-
-Priority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.
+No photorealistic rendering, no 3D CGI, no modern infographic boxes, no excessive text, no watermark.
 ```
 
 </details>
 
-<a id="nano-banana-photo-ink-split-poster"></a>
-### 一半照片一半水墨的海报
+<a id="gpt-image-landmark-architectural-master-sketch-poster"></a>
+### 自由女神像的未完成建筑墨线草图海报
 
-<a href="https://x.com/ChillaiKalan__/status/2110581440085987751"><img src="previews/nano-banana-photo-ink-split-poster.jpg" width="360"></a>
+<a href="https://x.com/Goodmanprotocol/status/2106688617682788602"><img src="previews/gpt-image-landmark-architectural-master-sketch-poster.jpg" width="360"></a>
 
-要求严格五五分，再分别规定两半如何处理同一主体。
+提示词把单一地标放在纯白留白中，用精确墨线结合松散的construction辅助线，并只允许一种取自地标真实材质的点缀色。方括号占位符让它可以套用到任何建筑。
 
-Nano Banana 2.1 · 上传图改图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2110581440085987751) · 414 赞，统计于 2026-10-27
+GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2106688617682788602) · 98 赞，统计于 2026-10-28
 
-[`split-composition`](pages/zh/tags.md#tag-split-composition) [`ink`](pages/zh/tags.md#tag-ink) [`photo-to-art`](pages/zh/tags.md#tag-photo-to-art)
+[`architecture`](pages/zh/tags.md#tag-architecture) [`ink-sketch`](pages/zh/tags.md#tag-ink-sketch) [`landmark`](pages/zh/tags.md#tag-landmark) [`white-background`](pages/zh/tags.md#tag-white-background) [`template`](pages/zh/tags.md#tag-template)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.
+Create a premium 2:3 vertical architectural poster for [COUNTRY / CITY / LOCATION / LANDMARK].
 
-Divide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.
+TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / LANDMARK]. No reference image required.
 
-1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH
+CORE CONCEPT
+Present [LANDMARK] as an expressive unfinished architectural master sketch, as if drawn by an architect exploring the building’s form, structure, and character. Keep the real architecture accurate — preserve its recognizable silhouette, proportions, façade rhythm, materials, and signature details. Do not redesign the landmark.
 
-Use the uploaded reference photograph directly in the upper 50% of the poster.
+COMPOSITION
+Show approximately 80–95% of the landmark from the most elegant and architecturally informative viewpoint for that specific building. Use a natural eye-level or gently elevated three-quarter perspective with realistic depth and restrained distortion.
 
-Preserve its original photographic quality, sharpness, natural lighting, and color relationships.
+ONE LANDMARK ONLY. Let it dominate the composition while surrounding it with generous PURE WHITE negative space. No skyline or secondary landmarks.
 
-Allow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.
+SKETCH STYLE
+Combine precise architectural ink drawing with loose unfinished concept-sketch elements:
 
-If required, naturally extend a small portion of the surrounding environment to fit the composition.
+crisp black structural lines
 
-Do not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.
+fine façade detailing
 
-Do not introduce black borders, white margins, or empty edges.
+varied line weights
 
-2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION
+construction and perspective guides
 
-Use a warm, near-white ivory paper background with an extremely subtle paper texture.
+subtle drafting marks
 
-Analyze the main subject and visual story of the uploaded reference image.
+selective ink washes
 
-Extract only the primary subject, preserving one or two essential identifying elements.
+partially unfinished contours
 
-Remove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.
+Some areas should be highly detailed while others naturally dissolve into loose exploratory lines and white space. It must feel genuinely hand-drawn, not like a 3D render with a sketch filter.
 
-Transform the primary subject into a sophisticated black-ink editorial illustration.
+DETAIL & COLOR
+Reveal authentic architectural elements such as structural connections, façade layers, openings, ornamentation, joints, and material textures. Never invent features that do not belong to the landmark.
 
-ILLUSTRATION STYLE:
-
-Use natural, clean pen strokes with varied line weight.
-
-Preserve an authentic hand-drawn appearance with expressive but controlled linework.
-
-Avoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.
-
-Place a large, nearly pure-black rectangular ink block behind the illustrated subject.
-
-The rectangular block should have subtly imperfect, handmade print-style edges.
-
-Keep the black background clean, with only fine paper grain and minimal noise.
-
-Avoid obvious hatching, scratches, architectural lines, or complex textures.
-
-ILLUSTRATION SCALE AND COMPOSITION:
-
-The illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.
-
-Maintain a clear visual focal point with generous negative space surrounding the illustration.
-
-3. COLOR RULES
-
-The bottom illustration must follow a strictly black-and-white color palette by default.
-
-Preserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.
-
-Ordinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.
-
-Any preserved accent color must remain strictly localized to the relevant subject or area.
-
-Never allow accent colors to spread across the entire illustration.
-
-4. TYPOGRAPHY AND EDITORIAL LAYOUT
-
-Automatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.
-
-The typography must resemble handwritten editorial annotations from an independent art publication.
-
-TOP-LEFT CORNER:
-
-Generate a short handwritten title consisting of 2–5 words, arranged across two lines.
-
-Directly beneath the title, include three short English action verbs relevant to the photograph.
-
-TOP-RIGHT CORNER:
-
-Display only two lines of geographic coordinates:
-
-Latitude
-Longitude
-
-Do not include any additional text in this area.
-
-BOTTOM-LEFT CORNER:
-
-Display the location name followed by the word "DIARY."
-
-Directly beneath it, add one short descriptive English sentence inspired by the photograph.
-
-TYPOGRAPHY STYLE:
-
-Use a rough, upright, slightly irregular handwritten typeface.
-
-Maintain subtle imperfections and a natural editorial annotation aesthetic.
-
-Avoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.
-
-5. FINAL ART DIRECTION
-
-The finished poster must combine:
-
-Authentic, high-quality photography.
-Minimalist black-and-white editorial illustration.
-Generous negative space.
-Independent art publication aesthetics.
-Quiet, restrained, sophisticated visual storytelling.
-Natural handwritten typography.
-A balanced relationship between documentary realism and expressive hand-drawn artwork.
-
-The overall result should resemble a carefully designed, collectible editorial art print.
-
-6. FINAL OUTPUT REQUIREMENTS
-
-ASPECT RATIO:
-2:3 vertical.
-
-RESOLUTION:
-High-resolution, sharp, print-quality output.
-
-COMPOSITION:
-
-Exactly 50% original reference photography on top.
-
-Exactly 50% editorial illustration on the bottom.
-
-One perfectly straight horizontal dividing line.
-
-One complete, standalone poster.
-
-RESTRICTIONS:
-
-No collages.
-No multi-poster layouts.
-No combined images.
-No unnecessary decorative elements.
-No modifications to the original subject's identity or appearance.
-No excessive illustration details.
-No changes to the original photograph's natural color relationships.
-
-FINAL GOAL:
-
-Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.
-```
-
-</details>
-
-<a id="gpt-image-editorial-split-poster-roses"></a>
-### 手捧玫瑰与黄色手袋女子的编辑风海报
-
-<a href="https://x.com/Ziha_ai/status/2106990557813968909"><img src="previews/gpt-image-editorial-split-poster-roses.jpg" width="360"></a>
-
-画布严格上下对半，上半保留原图不重绘，下半重构主体，并叠加一条从原图取色的低饱和色带。主体跨越色带边缘进入白色留白，形成层次，避免贴纸感。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2106990557813968909) · 337 赞，统计于 2026-10-27
-
-[`editorial-poster`](pages/zh/tags.md#tag-editorial-poster) [`split-layout`](pages/zh/tags.md#tag-split-layout) [`color-window`](pages/zh/tags.md#tag-color-window) [`negative-space`](pages/zh/tags.md#tag-negative-space) [`photo-reconstruction`](pages/zh/tags.md#tag-photo-reconstruction)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Premium Editorial Poster Instructions
-
-Each uploaded photo must be made into a separate, independent, premium editorial poster, and multiple photos must not be combined. Use a strict 3:4 vertical canvas. Split the canvas horizontally in the exact center: the upper half and the lower half each occupy 50% of the height, are equally wide, and equally high, with no alteration of proportion.
-
-The upper half uses the original photo directly and must not be regenerated. Preserve the identity of the main subject, the human body or architectural structure, proportions, perspective, spatial relationships, texture, natural light and shadow, color, and environment in their entirety. Only slight cropping and restrained premium color grading are permitted; re-drawing the main subject, fictional light, HDR, excessive saturation, plastic texture, and fictional content are prohibited. hibited. When needing to adapt to the frame, only environmental areas such as sky, water surface, ground, walls, plants, or background can be extended.
-
-The lower half extracts and reconstructs the "narrative core" of the photo: it can be a single primary subject, or a group of related elements that together embody the photo's identity, scale, action, o story relationship. Maintain its realistic, recognizable appearance, proportion, internal structure, texture, and relative position. Do not remove important related elements, and do not directly us rectangular photo cutouts. The reconstructed subject typically occupies 55%-80% of the width of the lower area. It should naturally extend based on the photo's primary direction and retain plausible ground, water lines, shadows, or softly dissipated edges to integrate into the background, avoiding a sticker-like or floating appearance.
-
-Incorporate a narrow, low-saturation geometric color field behind or through the center of the subject, serving as a "critical window" between reality and editorial abstraction. The color of the window must be extracted from the original photo, and its orientation (horizontal, vertical, or diagonal) chosen based on the overall narrative direction.
-
-The subject must actively pass through the window: part of it is within the color field, and part enters the open negative space, naturally crossing the window's boundary to create occlusion, penetration, and spatial depth. The window is not a frame or a card; it must not fully enclose the subject. Only one primary window is allowed; multiple color blocks, thick borders, rounded corners, strong gradients, and drop shadows are prohibited.
-
-Use a white, cool white, very light gray, or near-white background for the lower half, coordinated with the photo. Employ a restrained asymmetrical composition and abundant negative space to establish a three-tier hierarchy:
-
-Reconstructed subject or narrative composition
-
-Low-saturation geometric window
-```
-
-</details>
-
-<a id="nano-banana-photo-sketch-editorial"></a>
-### 上面照片下面素描的编辑海报模板
-
-<a href="https://x.com/ChillaiKalan__/status/2111332272670417236"><img src="previews/nano-banana-photo-sketch-editorial.jpg" width="360"></a>
-
-填 `[SUBJECT]` 和 `[SETTING]`。禁止项针对分割海报的常见毛病：粗边框、上下脸不一致。
-
-Nano Banana 2.1 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2111332272670417236) · 266 赞，统计于 2026-10-27
-
-[`split-composition`](pages/zh/tags.md#tag-split-composition) [`template`](pages/zh/tags.md#tag-template) [`editorial`](pages/zh/tags.md#tag-editorial)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a premium editorial poster featuring a two-part visual composition. The upper half shows a photorealistic photograph of [SUBJECT] in [SETTING], captured in warm natural sunlight with realistic skin texture, authentic expressions, soft highlights, and cinematic depth of field. The lower half transforms the exact same scene into a beautiful hand-painted digital illustration, preserving the subject’s pose, hairstyle, clothing, colors, and key visual details.
-
-Place the illustrated scene inside a clean rectangular frame on a warm ivory, subtly textured paper background. Use a charming contemporary illustration style with delicate brush textures, simplified organic shapes, pastel colors, soft outlines, and a nostalgic summer-magazine aesthetic. Add tasteful decorative elements that complement the scene.
-
-Below the illustration, include a centered minimalist editorial title reading “[MAIN TITLE]” in thin, widely spaced uppercase typography, followed by a smaller subtitle reading “[TAGLINE]” in elegant letter-spaced text. Add a short, thin pastel-colored line underneath.
-
-Maintain balanced spacing, refined art direction, a cohesive color palette, and a sophisticated print-design finish. Vertical 3:4 composition, high resolution, natural lighting, polished editorial layout, aesthetically pleasing, realistic-to-illustration transformation.
-
-Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, harsh colors, heavy borders, and unnecessary graphic elements.
-```
-
-</details>
-
-**[全部 19 条](pages/zh/image-poster.md)**
-
-<a id="img-photo-to-art"></a>
-## 照片转艺术风格
-
-<a id="gpt-image-photo-to-watercolor-travel"></a>
-### 上半照片，下半水彩旅行速写
-
-<a href="https://x.com/MahnoorAi12/status/2102724961408626735"><img src="previews/gpt-image-photo-to-watercolor-travel.jpg" width="360"></a>
-
-上下分割，照片渐变成水彩。作者说 Gemini、Grok、ChatGPT 都能用。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2102724961408626735) · 2,264 赞，统计于 2026-10-27
-
-[`watercolor`](pages/zh/tags.md#tag-watercolor) [`travel`](pages/zh/tags.md#tag-travel) [`split-composition`](pages/zh/tags.md#tag-split-composition)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration.
-Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography.
-Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic.
-Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
-Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
-Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
-```
-
-</details>
-
-<a id="gpt-image-pet-papercraft-cube-template"></a>
-### 高地牛纸模立方体玩具展开图
-
-<a href="https://x.com/icreatelife/status/2101353488408006830"><img src="previews/gpt-image-pet-papercraft-cube-template.jpg" width="360"></a>
-
-提示词把上传照片限定为动物外观的唯一来源，并逐一列出平铺的各个部件及折线、粘合片和裁切边。结尾列出不得更改的内容，用来保住动物的身份特征和毛发质感。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@icreatelife on X](https://x.com/icreatelife/status/2101353488408006830) · 1,178 赞，统计于 2026-10-27
-
-[`papercraft`](pages/zh/tags.md#tag-papercraft) [`cube-toy`](pages/zh/tags.md#tag-cube-toy) [`pet`](pages/zh/tags.md#tag-pet) [`template`](pages/zh/tags.md#tag-template) [`fur-texture`](pages/zh/tags.md#tag-fur-texture)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression.
-
-Transform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible.
-
-The printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet.
-
-Include:
-
-cube-shaped head with my pet’s real face on it
-
-cube-shaped body with realistic fur texture
-
-four legs matching my pet’s appearance
-
-ears with correct shape and inner ear details
-
-tail matching my pet’s size and color pattern
-
-Style: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper.
-
-Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model
-```
-
-</details>
-
-<a id="gpt-image-paper-texture-cover"></a>
-### 照片变纸张质感极简封面
-
-<a href="https://x.com/Ciri_ai/status/2113501433471656120"><img src="previews/gpt-image-paper-texture-cover.jpg" width="360"></a>
-
-按小标题组织（构图、配色、质感），最后点明参照物：独立艺术书封面。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2113501433471656120) · 561 赞，统计于 2026-10-27
-
-[`paper-texture`](pages/zh/tags.md#tag-paper-texture) [`minimal`](pages/zh/tags.md#tag-minimal) [`cover`](pages/zh/tags.md#tag-cover)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-MINIMAL HAND-DRAWN PAPER ILLUSTRATION
-
-Transform the uploaded photo into a minimalist, hand-drawn, paper-textured artistic cover.
-
-Composition
-
-- The main subject should occupy only 10–20% of the frame.
-- Position the subject near the bottom center of the composition.
-- Leave generous negative space throughout the image.
-- Suggest the environment using only a few lines or small blocks of color.
-
-Preserve
-
-- The most recognizable features of the original subject.
-- The essential silhouette and proportions.
-- The original pose or primary action.
-- Important objects and defining details.
-- The core story, relationships, and emotional atmosphere.
-
-Color Palette
-
-- Extract the dominant colors from the original photograph.
-- Limit the palette to no more than four main colors.
-- Use bold yet restrained, flat color blocks.
-- Maintain a harmonious, muted color combination.
-- Add subtle paper grain and handmade brush textures.
-
-Simplification
-Remove unnecessary details and visual clutter. Retain only the essential visual information needed to make the subject instantly recognizable.
-
-Typography
-
-- Optionally incorporate a small amount of simple text.
-- Keep typography short, subtle, and aesthetically refined.
-- Integrate the text naturally into the composition.
-- Aim for the visual language of an art-book cover, independent publishing, modern editorial design, or a contemplative picture book.
-- Do not force typography into the image if it doesn't improve the composition.
-
-Style and Materials
-
-- Delicate, slightly imperfect hand-drawn lines.
-- A few clearly defined acrylic-like flat color blocks.
-- Rough, tactile paper texture.
-- Visible handmade brushstrokes.
-- Organic, irregular, natural contours.
-- Subtle imperfections that make the artwork feel genuinely handmade.
-
-Overall Mood
-Quiet, poetic, sophisticated, minimalist, innocent, relaxed, artistic, thoughtful, distinctive, and premium.
-
-Avoid
-
-- Colored-pencil rendering.
-- Dry-brush effects.
-- Watercolor washes or bleeding.
-- Pure line-art illustration.
-- Overly detailed or realistic illustrations.
-- Heavy impasto or thick oil-paint textures.
-- Smooth, polished digital illustration.
-- 3D rendering, glossy surfaces, or artificial lighting effects.
-- Generic commercial cartoon styles.
-- E-commerce advertising aesthetics.
-- Generic poster templates.
-- Excessive decorative elements.
-- Overly complex compositions.
-- Too much text.
-
-Final Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.
-```
-
-</details>
-
-<a id="gpt-image-photo-to-paper-illustration-split-poster"></a>
-### 湖边实景照片搭配手绘纸本插画
-
-<a href="https://x.com/harboriis/status/2107346549542203400"><img src="previews/gpt-image-photo-to-paper-illustration-split-poster.jpg" width="360"></a>
-
-严格五五分栏，上半保留原照片，下半把同一场景重绘成居中的小幅手绘插画。调色限制为从照片提取的最多四种颜色，并留出大量纸面空白，让上下两部分连成一体。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@harboriis on X](https://x.com/harboriis/status/2107346549542203400) · 417 赞，统计于 2026-10-27
-
-[`editorial-poster`](pages/zh/tags.md#tag-editorial-poster) [`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration) [`split-layout`](pages/zh/tags.md#tag-split-layout) [`paper-texture`](pages/zh/tags.md#tag-paper-texture) [`minimalist`](pages/zh/tags.md#tag-minimalist)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create one independent high-end editorial poster for each uploaded photo. Never combine photos.
-
-FORMAT
-Strict 3:4 vertical composition with an exact 50/50 horizontal split. The top and bottom halves must be equal in height and visually connected as one refined editorial cover.
-
-TOP HALF: ORIGINAL PHOTO
-Use the original photo faithfully. Preserve the subject, identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and color mood. Keep it fully photorealistic with only subtle premium editorial color grading. Never stylize, distort, replace, or alter the main subject. Extend only surrounding background when necessary, seamlessly and naturally.
-
-BOTTOM HALF: HAND-DRAWN ILLUSTRATION
-Reinterpret the same scene as a minimalist handmade paper illustration. Preserve the recognizable subject, silhouette, pose, key objects, and main visual story.
-
-Use delicate imperfect lines, simple acrylic-style flat color shapes, visible brush marks, rough paper texture, organic edges, and subtle handmade imperfections. Keep the illustration small and centered, occupying about 10–20% of the bottom half, with generous negative space.
-
-Use a rough white, warm off-white, or pale natural paper background with only minimal environmental details.
-
-COLOR
-Extract colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors. Use controlled flat color blocks while maintaining subtle paper grain and brush texture.
+Use a PURE WHITE background with black and charcoal linework, plus ONE subtle accent color naturally derived from the landmark’s real materials.
 
 TYPOGRAPHY
-Optional minimal editorial text only when appropriate, such as a short title, keyword, location, or number. Keep it understated and never force text into the design.
+Optional small refined text in one corner:
+[DESTINATION]
+[LANDMARK]
+
+Keep typography minimal and secondary to the architecture.
+
+FINAL AESTHETIC
+Architectural master sketch × technical drawing × expressive ink work × restrained hand-painted wash × contemporary collectible art poster.
+
+Avoid fictional architecture, incorrect proportions, extreme perspectives, close-ups, surrounding cityscapes, multiple landmarks, beige/aged paper, gradients, excessive colors, glossy 3D rendering, oversized typography, logos, and watermarks.
+
+FORMAT
+2:3 vertical, single landmark, full architectural form clearly visible, generous white space, intricate linework, natural perspective, premium gallery-quality finish.
+```
+
+</details>
+
+<a id="nano-banana-mythpunk-floating-jungle-temple-miniature"></a>
+### 悬浮丛林神庙微缩世界与发光符文
+
+<a href="https://x.com/artingent/status/2108541437189242932"><img src="previews/nano-banana-mythpunk-floating-jungle-temple-miniature.jpg" width="360"></a>
+
+编号的优先级层级告诉模型哪些规则优先，让等距微缩场景保持清晰易读。固定的分区标题、禁止齿轮的否定规则以及逐行规定文字的铭牌说明增强了可控性。
+
+Nano Banana 2.1 · 文生图 · 出处: [@artingent on X](https://x.com/artingent/status/2108541437189242932) · 34 赞，统计于 2026-10-28
+
+[`miniature`](pages/zh/tags.md#tag-miniature) [`isometric`](pages/zh/tags.md#tag-isometric) [`fantasy`](pages/zh/tags.md#tag-fantasy) [`mesoamerican`](pages/zh/tags.md#tag-mesoamerican) [`claymation`](pages/zh/tags.md#tag-claymation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+SCENE
+Do not render gears or representations of gears in the scene
+A visually rich handcrafted floating miniature world built on a fragmented terrain as the PRIMARY structure, centered on an ancient ruin complex in Mesoamerican myth style within a dense jungle environment. A prophecy event unfolds as structures begin to glow and shift, with the central stepped temple as the dominant focal structure. Surrounding ruins and terrain remain controlled and readable.
+
+WORLD DESIGN
+Fragmented terrain, jungle environment, sacred plateau with symbolic pathways linking temple ruins.
+
+ARCHITECTURE & MATERIALS
+Stepped temple structures and shrine ruins with layered forms, constructed from stone and divine materials, featuring carvings, glyphs, and symbolic reliefs.
+
+PROPS & SYMBOLS
+Altars, relic pedestals, statues, carved symbols, glowing glyphs, floating particles, sacred motifs.
+
+LIFE & ACTIVITY
+Priests and guardians performing invoking rituals and observation; mythic beasts present.
+
+LIGHTING & ATMOSPHERE
+Eternal dusk with ambient glow and energy beams emerging from the temple; mist, aura, and particles create an ominous mysterious tone.
+
+PRIORITY HIERARCHY (CRITICAL)
+1. Miniature readability, scale clarity, clean silhouette
+2. Strong mythic focal structure
+3. Symbolic coherence (consistent myth language)
+4. Controlled surrealism (strange but readable)
+5. Atmospheric depth and mood
+6. Narrative clarity (scene tells a story)
+   Never sacrifice higher priority rules for lower ones.
+
+PRIME DIRECTIVE
+CAMERA Use an isometric camera capturing the entire floating miniature world clearly from top to bottom and side to side.
 
 STYLE
-Quiet, poetic, refined, minimal, relaxed, artistic, thoughtful, premium, high-recognition.
+Ultra detailed 8k Octane Render, hybrid high poly 3D + miniature world + claymation
 
-FINAL
-Maintain the exact 50/50 split. The top must remain a faithful photograph, while the bottom is a simplified handmade illustration of the same scene. Avoid clutter, excessive colors, heavy typography, artificial effects, or unnecessary details. The result should feel like a premium contemporary independent art publication cover.
+DESCRIPTION PLAQUE
+Position bottom right
+Do not render gears or representations of gears in the plaque
+Line 1 bold heading max 5 words
+Line 2 bold MYTHPUNK smaller
+Line 3 description max 30 words
+Plaque must be rendered in aesthetically in an artistic mythpunk style.
 ```
 
 </details>
 
-<a id="gpt-image-knitted-puppet-bust"></a>
-### 照片变针织定格动画玩偶半身像
-
-<a href="https://x.com/oggii_0/status/2114585881059459119"><img src="previews/gpt-image-knitted-puppet-bust.jpg" width="360"></a>
-
-超长材质规格（毛线、针脚、毛毡），最后一条：照片里没有的不许编。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2114585881059459119) · 327 赞，统计于 2026-10-27
-
-[`3d`](pages/zh/tags.md#tag-3d) [`textile`](pages/zh/tags.md#tag-textile) [`toy`](pages/zh/tags.md#tag-toy)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph
-
-Use the attached real photograph to create a square 1:1, stylized 3D textile art toy bust. Interpret the inputs by their roles: the real photograph is the source of identity and content, while the minimalist white-background toy image is the style reference. Their order does not matter.
-
-Preserve the subject’s identity, facial expression, pose, and spatial relationships between objects. Reconstruct the subject as an exaggerated, humorous designer collectible toy. Do not apply a simple fuzzy or plush filter to the original photograph.
-
-## 1. Style Reference
-
-Borrow only these visual characteristics from the reference image:
-
-- An oversized, horizontally broad head with rounded corners.
-- Extremely small, centrally concentrated facial features with generous facial negative space.
-- Sculptural knitted forms, clustered yarn shapes, and soft textile construction.
-- Subtle asymmetry for a handmade, designer-toy appearance.
-- Contrast between fine-grained flocked surfaces and chunky knitted textures.
-- A deliberate primary and accent color hierarchy.
-- Clean, minimalist white studio photography.
-
-Do not inherit the reference character’s body, pose, hairstyle, hat, glasses, clothing, props, or colors.
-
-## 2. Subject and Identity Preservation
-
-The real photograph is the exclusive source of visible content. Reproduce only the body parts, hairstyle, clothing, accessories, objects, poses, and contact relationships that are actually visible in the original image. Never invent or complete details that extend beyond the photograph.
-
-Identify 2–5 distinctive identity anchors from the source image. Exaggerate 1–2 of them while simplifying the remaining details to maintain recognizability.
-
-- **Head:** Transform it into a broad, thick, rounded rectangular block or a short cylindrical form with softened corners.
-- **Eyes:** Use tiny black beads or capsule-shaped forms.
-- **Nose:** Reduce it to a small, rounded rectangular block.
-- **Mouth:** Preserve the original expression using a short line or a small opening, as appropriate.
-- **Hair:** Reconstruct it as large yarn loops, chunky knitted clusters, or sculptural bundles of wool.
-- **Hands:** Strictly preserve the number of visible hands. If no hands are visible, add none. If one hand is visible, reproduce only one. Preserve its orientation, sleeve cuff, and contact with the original object.
-- **Text and logos:** Convert any visible lettering or branding into illegible woven or knitted texture rather than readable text.
-
-## 3. Composition
-
-Create a compact, close-up head-and-shoulders composition.
-
-- The head should occupy approximately 75–90% of the image width.
-- Compress the body into a small supporting form, retaining only the essential visible pose, gestures, and objects.
-- Allow elements to be cropped by the image boundaries when necessary.
-- Do not add body parts or anatomy extending beyond the original photograph.
-- Maintain a clear silhouette and recognizable relationships between the subject and any visible objects.
-
-## 4. Visual Style
-
-**Stylized 3D textile art toy, oversized head, tiny concentrated facial features, sculptural knitted forms, micro-flocked surfaces.**
-
-Prioritize abstract exaggeration over photorealism while preserving recognizability through the subject’s silhouette, hairstyle, facial expression, pose, clothing, and visible objects.
-
-The result should feel like a thoughtfully designed, premium collectible art toy rather than a conventional 3D cartoon character.
-
-## 5. Color Palette
-
-Automatically develop a cohesive palette of 3–5 colors, including:
-
-- A dominant primary color.
-- A contrasting accent color with a clear difference in temperature or brightness.
-- One or more supporting colors.
-- A neutral color for balance.
-
-Non-identity-defining elements may be recolored to improve visual harmony. Preserve the essential identity cues of the original subject while avoiding monotonous palettes, excessive neutrals, evenly distributed rainbow colors, or repetitive mechanical stripes.
-
-## 6. Materials, Texture, and Lighting
-
-Use distinct textile treatments for different surfaces:
-
-- **Face, hands, and small components:** Fine, dense micro-flocked or short-fiber felt surfaces.
-- **Hair, hats, and clothing:** Chunky knitting, crochet structures, large yarn loops, and clustered wool forms, applied only where those elements exist in the original photograph.
-
-Create visible material contrast between the fine-grained felt and the coarser knitted structures. The surfaces should appear sculpted from real textile materials, not covered with a generic fuzzy filter.
-
-Use a subtly warm-white seamless background, soft high-key studio lighting, gentle highlights, and short, delicate shadows. Keep the presentation clean, bright, and premium.
-
-## 7. Strict Exclusions
-
-- No photorealistic eyeballs, detailed nostrils, realistic lips, natural skin texture, or individual hair strands.
-- No copying the reference character’s identity or distinctive design elements.
-- No invented body parts, hand gestures, accessories, clothing, or props absent from the source photograph.
-- No conventional 3D cartoon aesthetics.
-- No plastic, polymer clay, wax figure, or long-pile plush appearance.
-- No readable text, logos, or branding.
-- No rooms, environmental scenes, or complex backgrounds.
-- No generic fuzzy overlay that obscures the underlying sculptural textile construction.
-
-## Final Priority
-
-**The source photograph determines WHAT is depicted. The style reference determines HOW it is depicted.**
-
-Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust with a distinctive oversized head, tiny facial features, sculptural yarn construction, contrasting textile textures, a deliberate color palette, and clean white studio lighting. Preserve the original subject’s identity and visible content without inventing anything beyond the photographic evidence.
-```
-
-</details>
-
-<a id="gpt-image-blue-doodle-couple-photo"></a>
-### 照片变成蓝色涂鸦情侣插画
-
-<a href="https://x.com/Ciri_ai/status/2114588014034948562"><img src="previews/gpt-image-blue-doodle-couple-photo.jpg" width="360"></a>
-
-提示词先说明要保留的内容（人物、姿势、构图），再用钴蓝线条、桃色腮红和金色爱心配奶油色纸面的有限配色来简化风格。再用不要渐变、不要阴影、不要纹理这类排除条件，保持画面扁平、有手绘感。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2114588014034948562) · 280 赞，统计于 2026-10-28
-
-[`doodle`](pages/zh/tags.md#tag-doodle) [`minimalist`](pages/zh/tags.md#tag-minimalist) [`couple`](pages/zh/tags.md#tag-couple) [`blue-ink`](pages/zh/tags.md#tag-blue-ink) [`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Transform your photo into a minimalist doodle illustration using GPT Image 2.5.
-
-Prompt: Transform the uploaded photo into a cute minimalist hand-drawn doodle illustration. Preserve the original people, pose, composition, and recognizable facial characteristics, but simplify them into charming cartoon forms.
-
-Use a naive handmade sketchbook aesthetic with bold, slightly wobbly cobalt-blue brush-pen outlines, simple rounded shapes, minimal details, and imperfect hand-drawn strokes. Add subtle warm peach/pink blush on the cheeks and small golden-yellow heart accents around the characters.
-
-Keep the illustration clean and airy with a warm cream/off-white paper background. Use flat, very limited colors, no realistic shading, no gradients, and no complex textures. The overall feeling should be sweet, wholesome, playful, cozy, and romantic, like a handmade children's doodle or personal notebook drawing.
-
-Style keywords: minimalist doodle, folk-inspired hand drawing, blue ink illustration, cute couple illustration, naive art, imperfect brush strokes, simple cartoon, handmade sketchbook aesthetic, warm cream paper, subtle blush, tiny heart doodles, charming imperfections, clean composition.
-```
-
-</details>
-
-**[全部 28 条](pages/zh/image-photo-to-art.md)**
-
-<a id="img-realism"></a>
-## 写实照片
-
-<a id="gpt-image-failed-photos-grid"></a>
-### 任意角色的九张失败照片
-
-<a href="https://x.com/DeepBlueX0/status/2099481521983995971"><img src="previews/gpt-image-failed-photos-grid.jpg" width="360"></a>
-
-只有七个词。作者的心得：限制越少，失败照越像真的。
-
-GPT Image 2.5 · 文生图 · 出处: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2099481521983995971) · 2,646 赞，统计于 2026-10-27
-
-[`grid`](pages/zh/tags.md#tag-grid) [`humor`](pages/zh/tags.md#tag-humor) [`template`](pages/zh/tags.md#tag-template)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Vertical 3×3 failed photos × {Character}
-```
-
-</details>
-
-<a id="nano-banana-sunlit-smartphone-selfie-white-tee"></a>
-### 窗边阳光下身穿白T恤的手机自拍
-
-<a href="https://www.reddit.com/r/GeminiAI/comments/1x08axv/nano_banana_21_goes_crazy"><img src="previews/nano-banana-sunlit-smartphone-selfie-white-tee.jpg" width="360"></a>
-
-用结构化JSON把面部、头发、服装、光线和相机拆成独立字段，每个细节都能单独控制。写明24到28毫米手机镜头、过曝高光，再配上很长的避免清单，画面保持随手拍的真实感，不会变成影棚质感。
-
-Nano Banana 2.1 · 文生图 · 出处: [u/RIGHT200 on Reddit](https://www.reddit.com/r/GeminiAI/comments/1x08axv/nano_banana_21_goes_crazy) · 1,204 赞，统计于 2026-10-28
-
-[`selfie`](pages/zh/tags.md#tag-selfie) [`smartphone-photo`](pages/zh/tags.md#tag-smartphone-photo) [`json-prompt`](pages/zh/tags.md#tag-json-prompt) [`natural-light`](pages/zh/tags.md#tag-natural-light) [`photorealistic`](pages/zh/tags.md#tag-photorealistic)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-
-"prompt_type": "detailed_image_reconstruction",
-
-"aspect_ratio": "16:9 horizontal portrait",
-
-"overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
-
-"subject": {
-
-"type": "young adult woman",
-
-"age_range": "early to mid 20s",
-
-"pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
-
-"body_position": "relaxed casual posture with shoulders slightly angled",
-
-"expression": "soft neutral expression with a subtle pout, calm and confident",
-
-"gaze": "looking directly toward the camera",
-
-"styling": "minimal everyday styling, clean and natural"
-
-},
-
-"face": {
-
-"shape": "soft oval face with a gently tapered jawline",
-
-"forehead": "medium-height forehead partly framed by center-parted hair",
-
-"eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
-
-"eyes": {
-
-"shape": "almond-shaped",
-
-"color": "light brown to hazel",
-
-"appearance": "bright eyes with visible catchlights",
-
-"lashes": "long defined eyelashes with subtle mascara"
-
-},
-
-"nose": "small straight nose with a softly rounded tip",
-
-"lips": {
-
-"shape": "full lips with a defined cupid's bow",
-
-"color": "natural rosy pink",
-
-"finish": "soft satin finish, not glossy"
-
-},
-
-"skin": {
-
-"tone": "light warm-neutral skin tone",
-
-"texture": "smooth natural skin with subtle pores and realistic tonal variation",
-
-"cheeks": "soft natural pink flush",
-
-"finish": "fresh luminous skin without heavy retouching"
-
-},
-
-"makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
-
-},
-
-"hair": {
-
-"color": "rich medium-to-dark chocolate brown",
-
-"length": "very long, extending well below the chest",
-
-"parting": "clean center part",
-
-"texture": "mostly straight with very soft natural bends through the lower lengths",
-
-"density": "thick and healthy-looking",
-
-"finish": "smooth and glossy but still realistic",
-
-"front_sections": "two thin face-framing strands falling naturally along both sides of the face",
-
-"details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
-
-"movement": "hair hanging naturally over both shoulders and down the front of the shirt"
-
-},
-
-"clothing": {
-
-"top": "oversized plain white crew-neck T-shirt",
-
-"fit": "loose casual fit",
-
-"fabric": "soft slightly wrinkled cotton",
-
-"logos": "none",
-
-"accessories": "no visible jewelry or prominent accessories"
-
-},
-
-"composition": {
-
-"shot_type": "close upper-body portrait",
-
-"camera_angle": "slightly above chest level, close to eye level",
-
-"camera_distance": "approximately arm's-length smartphone distance",
-
-"subject_position": "face slightly right of center with long hair occupying much of the lower frame",
-
-"crop": "top of head fully visible, image extending down to around lower torso",
-
-"orientation": "vertical",
-
-"perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
-
-},
-
-"lighting": {
-
-"primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
-
-"direction": "sunlight striking the subject from camera-left/front",
-
-"face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
-
-"hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
-
-"shadow_quality": "strong but soft-edged natural indoor shadows",
-
-"exposure": "face slightly brightly exposed while the room behind remains much darker",
-
-"color_temperature": "warm daylight"
-
-},
-
-"environment": {
-
-"location": "casual indoor residential room",
-
-"background": "dark gray walls with a white ceiling cornice",
-
-"left_background": "open doorway or darker hallway area",
-
-"right_background": "dark wall and partially visible household objects",
-
-"lower_right": "part of a black tripod or light stand visible",
-
-"overall_feel": "ordinary lived-in room rather than a studio",
-
-"depth": "background moderately out of focus but still recognizable"
-
-},
-
-"camera": {
-
-"capture_device": "modern smartphone camera",
-
-"lens_equivalent": "approximately 24-28mm full-frame equivalent",
-
-"focus": "sharp focus on face and front hair",
-
-"depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
-
-"dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
-
-"image_character": "casual social-media selfie/photo, not professionally staged"
-
-},
-
-"photorealism_details": [
-
-"real individual hair strands",
-
-"natural skin pores and micro-texture",
-
-"subtle peach fuzz",
-
-"realistic eyelash separation",
-
-"tiny variations in lip texture",
-
-"slight fabric creases in the T-shirt",
-
-"small flyaway hairs around the crown",
-
-"natural sunlight falloff across the face",
-
-"slightly imperfect casual framing",
-
-"realistic indoor shadow noise"
-
-],
-
-"style": {
-
-"visual_style": "highly photorealistic casual smartphone portrait",
-
-"mood": "soft, youthful, relaxed, sunlit",
-
-"processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
-
-"avoid": [
-
-"cinematic movie lighting",
-
-"studio portrait lighting",
-
-"overly smooth plastic skin",
-
-"CGI appearance",
-
-"anime or illustration",
-
-"heavy beauty filter",
-
-"extreme facial symmetry",
-
-"over-sharpened hair",
-
-"artificial jet-black hair",
-
-"dramatic makeup",
-
-"excessive background blur",
-
-"professional studio backdrop",
-
-"text",
-
-"watermarks",
-
-"logos"
-
-]
-
-},
-
-"negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
-
-}
-```
-
-</details>
-
-<a id="gpt-image-six-photo-portrait-grid"></a>
-### 同一个人的六宫格人像
-
-<a href="https://x.com/john_my07/status/2112737725430554781"><img src="previews/gpt-image-six-photo-portrait-grid.jpg" width="360"></a>
-
-先把人物写细一次，再写六个画面；要求不留缝，九宫格读起来像一整张。
-
-GPT Image 2.5 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2112737725430554781) · 651 赞，统计于 2026-10-27
-
-[`portrait`](pages/zh/tags.md#tag-portrait) [`grid`](pages/zh/tags.md#tag-grid) [`consistency`](pages/zh/tags.md#tag-consistency)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create an ultra-realistic 6-photo portrait collage arranged in a seamless 3×2 grid, featuring a naturally beautiful young Portuguese woman in her early 20s. She has warm olive-toned skin, expressive hazel-brown eyes, long chestnut-brown hair with subtle natural highlights, soft face-framing layers, naturally full eyebrows, and delicate, distinctive facial features. Her appearance should feel authentic and individual, with realistic skin texture, tiny imperfections, and minimal everyday makeup.
-
-Visual aesthetic: Effortless European Instagram photo dump, reminiscent of candid photographs taken on a Canon PowerShot G7 X Mark III. Direct built-in camera flash, crisp details, bright facial highlights, hard shadows, slightly imperfect framing, subtle digital noise, and a nostalgic early-2000s point-and-shoot feel.
-
-Setting and styling: A warm off-white bedroom wall with subtle texture, a few natural shadows, and no distracting decorations. She wears a fitted burgundy scoop-neck top, tiny gold hoop earrings, and a delicate necklace. Her makeup is understated, with softly flushed cheeks, natural glossy lips, and lightly defined lashes. Her long hair remains the same color and length but falls differently in every photograph.
-
-Six distinct photographs:
-
-1. Sweet candid: Sitting close to the camera, resting her cheek against one hand, smiling gently with relaxed eyes and loose hair framing her face.
-2. Playful snapshot: Looking directly into the lens with a mischievous half-smile, one eyebrow slightly raised, fingers casually tucked behind her ear.
-3. Messy-girl moment: Eyes closed and laughing softly, both hands lifting her hair away from her shoulders, a few loose strands catching the flash.
-4. Effortless confidence: Turning her face over one shoulder, giving the camera a subtle side-eye, with one hand lightly resting against her neck.
-5. Caught laughing: Looking toward someone outside the frame, laughing naturally with her head tilted to the side and hair falling across one cheek.
-6. Quiet evening mood: Leaning against the wall, gazing thoughtfully into the lens, lips relaxed, fingertips gently twisting a strand of hair.
-
-Identity consistency: The same Portuguese woman must appear in all six frames, with identical facial proportions, eye color, skin tone, hair color, and recognizable features. Each photograph should have a different pose, expression, head angle, and hair arrangement, as if captured within the same casual photo session.
-
-Photography details: Realistic compact-camera flash, authentic skin pores, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, slight variations in exposure, and candid framing. Avoid excessive retouching, artificial skin smoothing, exaggerated beauty standards, duplicated expressions, malformed fingers, distorted anatomy, or the overly polished appearance of AI-generated portraits.
-
-Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no text, no watermark. Photorealistic, youthful, spontaneous, intimate, and effortlessly stylish.
-```
-
-</details>
-
-<a id="gpt-image-pencil-essay-coffee-stain"></a>
-### 带咖啡渍的线格纸铅笔手写文章
-
-<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
-
-提示词先限定媒介（8.5x11 线格纸上的铅笔字）和拍摄方式（手机照片）。再要求笔迹有变化，并指定一处角落的咖啡渍作为小瑕疵，真实感由此而来。
-
-GPT Image 2.5 · 文生图 · 出处: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 赞，统计于 2026-10-27
-
-[`handwriting`](pages/zh/tags.md#tag-handwriting) [`paper`](pages/zh/tags.md#tag-paper) [`phone-photo`](pages/zh/tags.md#tag-phone-photo) [`texture`](pages/zh/tags.md#tag-texture) [`coffee-stain`](pages/zh/tags.md#tag-coffee-stain)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-🚨 GPT-Image-2.5 Output
-
-I said it to write like einstein it did it without reference < i did not give image or anything   >
-
-left side is AI and right side is real photo from reddit to compare
-
-Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
-```
-
-</details>
-
-<a id="nano-banana-monstera-leaf-hidden-words"></a>
-### 龟背竹叶片缝隙中浮现隐藏文字
-
-<a href="https://x.com/fofrAI/status/2107509669514113058"><img src="previews/nano-banana-monstera-leaf-hidden-words.jpg" width="360"></a>
-
-提示词只指定一个真实物体，并要求文字从它的天然特征中自然浮现，字形顺着叶片自身的裂口生成，而不是叠加在表面。简洁的背景让缝隙更容易被读成字母。
-
-Nano Banana 2.1 · 文生图 · 出处: [@fofrAI on X](https://x.com/fofrAI/status/2107509669514113058) · 549 赞，统计于 2026-10-28
-
-[`text-in-image`](pages/zh/tags.md#tag-text-in-image) [`monstera`](pages/zh/tags.md#tag-monstera) [`nature`](pages/zh/tags.md#tag-nature) [`typography`](pages/zh/tags.md#tag-typography) [`photo`](pages/zh/tags.md#tag-photo)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A photo of a monstera leaf against a simple backdrop, cleverly and organically appearing within the natural gaps of the leaf are the words Nano Banana
-```
-
-</details>
-
-<a id="gpt-image-forest-clearing-foliage-noise-test"></a>
-### 阳光洒落的林间空地与茂密绿叶
-
-<a href="https://x.com/mark_k/status/2097411028510179759"><img src="previews/gpt-image-forest-clearing-foliage-noise-test.jpg" width="360"></a>
-
-一句话点明主体、照片媒介和高细节要求，可作为噪点伪影测试，因为密集重复的树叶最容易暴露纹理涂抹和颗粒问题。提示词很短，光线与构图交由模型自行决定。
-
-GPT Image 2.5 · 文生图 · 出处: [@mark_k on X](https://x.com/mark_k/status/2097411028510179759) · 415 赞，统计于 2026-10-27
-
-[`forest`](pages/zh/tags.md#tag-forest) [`nature`](pages/zh/tags.md#tag-nature) [`foliage`](pages/zh/tags.md#tag-foliage) [`texture-test`](pages/zh/tags.md#tag-texture-test) [`landscape`](pages/zh/tags.md#tag-landscape)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-GPT-Image-2.5 has arrived in
-@ChatGPT
- 🔥
-
-It features many improvements, but I couldn't help myself from doing the infamous "noise artifact" test.
-
-The results are mixed!
-
-Prompt: "Photo of a clearing in the woods with lots of green foliage, highly detailed"
-
-See for yourself:
-```
-
-</details>
-
-**[全部 17 条](pages/zh/image-realism.md)**
-
-<a id="img-portrait"></a>
-## 人像
-
-<a id="nano-banana-cobalt-ring-fashion-editorial"></a>
-### 钴蓝圆环中的铂金短发模特
-
-<a href="https://x.com/Emmma___0/status/2109146295252459682"><img src="previews/nano-banana-cobalt-ring-fashion-editorial.jpg" width="360"></a>
-
-提示词按场景、服装、姿势、光线、色板和摄影风格分块标注。写明镜头焦段、中画幅质感以及冷暖光对比，让高级编辑感保持统一。
-
-Nano Banana 2.1 · 文生图 · 出处: [@Emmma___0 on X](https://x.com/Emmma___0/status/2109146295252459682) · 370 赞，统计于 2026-10-27
-
-[`fashion-editorial`](pages/zh/tags.md#tag-fashion-editorial) [`architecture`](pages/zh/tags.md#tag-architecture) [`cobalt-blue`](pages/zh/tags.md#tag-cobalt-blue) [`studio-portrait`](pages/zh/tags.md#tag-studio-portrait) [`minimalist`](pages/zh/tags.md#tag-minimalist)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create an ultra-realistic, high-end fashion editorial photoshoot featuring a beautiful young adult woman with short, tousled platinum-blonde bob hair, delicate facial features, fair skin, natural rosy lips, light-colored eyes, and a calm, confident expression.
-
-Scene and Environment: A futuristic minimalist architectural studio featuring a massive sculptural circular opening with thick, smooth, curved white walls. The interior of the circular structure is a rich cobalt-blue or vibrant cyan-blue, creating a striking contrast against the white architectural frame. Clean geometric shapes, curved surfaces, and a contemporary art-gallery aesthetic.
-
-Outfit and Styling: The model wears a sophisticated, oversized black knit sweater or elegant black long-sleeved top paired with tailored black or ivory trousers. Minimal makeup, natural skin texture, understated accessories, and effortless luxury styling.
-
-Pose and Composition: The model poses naturally within and around the giant circular opening. Create a series of artistic editorial poses: a close-up portrait leaning forward through the circular frame, a full-body seated pose inside the sculptural ring with one knee raised, and a standing or seated three-quarter portrait with one hand resting on the curved white surface. Relaxed hands, graceful posture, elongated silhouette, and direct eye contact with the camera.
-
-Lighting: Soft natural daylight entering from one side, creating beautiful directional highlights on the platinum hair, subtle shadows across the face, realistic skin tones, and soft gradients on the white architectural surfaces. Cinematic interplay between cool blue ambient light and warm sunlight.
-
-Color Palette: Vivid cobalt blue, turquoise, icy cyan, pure white, deep black, and platinum blonde. Clean, cool-toned color grading with balanced highlights and rich shadows.
-
-Photography Style: Luxury fashion magazine editorial, contemporary avant-garde photography, minimalist Scandinavian design, architectural fashion campaign, medium-format camera aesthetics, 85mm portrait lens, subtle depth of field, precise focus on the eyes, realistic hair strands, detailed knit fabric, natural skin texture, sophisticated framing, and premium commercial photography quality.
-
-Image Quality: Photorealistic, ultra-detailed, 8K appearance, professional art direction, anatomically accurate hands, realistic proportions, elegant negative space, clean architectural geometry, natural facial expression, crisp details, refined composition, no artificial-looking skin, no excessive retouching.
-
-Vertical portrait composition, 2:3 aspect ratio.
-```
-
-</details>
-
-<a id="nano-banana-overhead-snow-portrait-school-uniform"></a>
-### 身穿校服躺在雪地里的俯拍人像
-
-<a href="https://x.com/VibeEverything/status/2113256906294796645"><img src="previews/nano-banana-overhead-snow-portrait-school-uniform.jpg" width="360"></a>
-
-用 JSON 结构把人物身份锁定在参考图上，再把机位、镜头、对焦、姿势、服装和光线分字段写清。阴天柔光、雪花细节和防止改脸的负面提示共同保住了相貌和清冷氛围。
-
-Nano Banana 2.1 · 上传图改图 · 出处: [@VibeEverything on X](https://x.com/VibeEverything/status/2113256906294796645) · 275 赞，统计于 2026-10-28
-
-[`portrait`](pages/zh/tags.md#tag-portrait) [`snow`](pages/zh/tags.md#tag-snow) [`school-uniform`](pages/zh/tags.md#tag-school-uniform) [`overhead`](pages/zh/tags.md#tag-overhead) [`json-prompt`](pages/zh/tags.md#tag-json-prompt)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-  "reference_image": {
-    "identity_preservation": "STRICT — The person's identity from the reference image must be preserved exactly. Keep facial structure, face shape, eye shape, nose, lips, skin tone, freckles/skin texture, and overall likeness identical. Do not alter, beautify, age, or stylize the face.",
-    "use_reference_for": ["face", "hairstyle", "overall likeness"]
-  },
-  "image_type": "photorealistic portrait photograph",
-  "aspect_ratio": "2:3 (vertical)",
-  "camera": {
-    "angle": "top-down overhead shot, camera directly above the subject",
-    "framing": "close-up to medium close-up, head to upper chest",
-    "lens": "85mm portrait lens look",
-    "depth_of_field": "shallow, face in sharp focus",
-    "focus": "eyes"
-  },
-  "subject": {
-    "pose": "lying on her back in fresh snow, head slightly tilted, relaxed and calm",
-    "gaze": "looking directly into the camera lens, eye contact with the viewer",
-    "expression": "calm, dreamy, slightly melancholic, lips gently closed",
-    "hair": {
-      "color": "black",
-      "length": "long",
-      "style": "loose, fanned out across the snow, a few strands across the face, snowflakes caught in the hair"
-    },
-    "accessories": [
-      "round tortoiseshell-frame glasses",
-      "white wired earphones in both ears, cable running down over the chest"
-    ],
-    "makeup": "natural, minimal, soft coral lips"
-  },
-  "outfit": {
-    "outerwear": "charcoal school uniform blazer with notched lapels, matte wool texture",
-    "shirt": "white collared dress shirt",
-    "tie": "navy striped tie with light blue and white diagonal stripes",
-    "details": "snowflakes resting on the blazer shoulders and lapels"
-  },
-  "environment": {
-    "setting": "outdoors, lying in a bed of fresh powdery snow",
-    "weather": "light snowfall, individual snowflakes visible in the frame",
-    "background": "white snow surface filling the background"
-  },
-  "lighting": {
-    "type": "soft diffused natural daylight, overcast",
-    "quality": "even, gentle, no harsh shadows",
-    "skin_rendering": "natural skin texture, subtle cool tones on skin"
-  },
-  "color_palette": ["snow white", "charcoal gray", "navy", "black", "warm tortoiseshell brown", "soft coral"],
-  "mood": "quiet, cold, cinematic winter, introspective",
-  "style": "high-end editorial photography, film-like, realistic detail",
-  "negative_prompt": "face alteration, identity change, distorted features, extra fingers, plastic skin, over-smoothing, cartoon, anime, heavy makeup, harsh flash, blurry eyes, looking away from camera"
-}
-```
-
-</details>
-
-<a id="nano-banana-half-face-name-portrait"></a>
-### 半张脸，名字竖排在旁
-
-<a href="https://x.com/Emmma___0/status/2108777847800426542"><img src="previews/nano-banana-half-face-name-portrait.jpg" width="360"></a>
-
-名字每个字母里藏着另一半脸的细节。填名字、背景和光线即可。
-
-Nano Banana 2.1 · 上传图改图 · 出处: [@Emmma___0 on X](https://x.com/Emmma___0/status/2108777847800426542) · 244 赞，统计于 2026-10-27
-
-[`typography`](pages/zh/tags.md#tag-typography) [`studio`](pages/zh/tags.md#tag-studio) [`template`](pages/zh/tags.md#tag-template)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Transform the uploaded image into a modern studio portrait. Preserve the subject’s identity and features. Show half the face on the left; stack [NAME] vertically on the right, with each letter filled by matching details from the hidden half. Seamless alignment, [BACKGROUND] backdrop, [LIGHTING], modern typography.
-```
-
-</details>
-
-<a id="nano-banana-hibiscus-film-portrait"></a>
-### 粉色木槿花环绕的复古胶片人像
-
-<a href="https://x.com/ZaraIrahh/status/2107705937012142393"><img src="previews/nano-banana-hibiscus-film-portrait.jpg" width="360"></a>
-
-镜头置于花丛中、透过前景花瓣拍摄，形成自然的花朵边框，并用侧分、单手入镜、头到胸构图等硬性规则锁定画面。胶片颗粒、光晕和漏光配合详细的负面词列表，避免成片变成精修棚拍感。
-
-Nano Banana 2.1 · 文生图 · 出处: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2107705937012142393) · 206 赞，统计于 2026-10-28
-
-[`portrait`](pages/zh/tags.md#tag-portrait) [`film-look`](pages/zh/tags.md#tag-film-look) [`floral`](pages/zh/tags.md#tag-floral) [`photorealistic`](pages/zh/tags.md#tag-photorealistic) [`golden-light`](pages/zh/tags.md#tag-golden-light)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a photorealistic portrait of her in a refined side-profile-inspired three-quarter angle, with her head naturally turned toward the camera and making direct eye contact. Clearly defined SIDE PART — NEVER a center or middle part.
-
-She has extremely long, rich Dark Mocha Mousse curly hair, dramatically moved by a strong natural breeze, with realistic flyaways and loose strands. No ribbons, bows, headwear, hats, or hair accessories.
-
-Soft-glam Korean-inspired makeup: visible natural pores, luminous realistic skin texture, rosy blush, subtle brown eyeliner, softly defined eyes, rosy gradient lips, and nude espresso nail art. She wears a magenta-soft-purple thin-strap mini dress with a subtle heart-shaped neckline barely visible at the chest. Gold fairy-wing pendant necklace with matching earrings.
-
-ONE HAND is naturally raised in front of her face, gently pushing or clearing a hibiscus flower away from her line of sight. Fingers and joints must be anatomically realistic. Her other hand is completely outside the frame.
-
-Expression: calm, intimate, slightly curious, natural and emotionally subtle.
-
-EYE-LEVEL CAMERA positioned directly among dense blooming soft-pink and white hibiscus flowers, photographing THROUGH the flowers. Foreground petals, leaves, and stems are very close to the lens and naturally overlap the outer edges of the frame, creating an intimate organic floral frame. Flowers must not obscure her eyes or facial features.
-
-NO WIDE VIEW. The subject fills approximately 85–95% of the frame. ONLY HEAD TO CHEST VISIBLE.
-
-VISUAL STYLE:
-Warm nostalgic historical-memory aesthetic. Authentic vintage Canon analog-film character, subtle natural film grain, delicate halation, slightly faded tones, gentle light leaks, realistic exposure imperfections, soft natural shadows, authentic raw human skin texture, and warm soft daylight. Strong wind visibly moves the curls and loose strands. Mild natural motion blur ONLY on moving hair and nearby flower petals.
-
-The final image should feel like a candid, emotionally intimate photograph captured on vintage film rather than a polished studio portrait.
-
-NEGATIVE PROMPT:
-center part, middle part, ribbons, bows, headwear, hat, full body, waist-down, staircase focus, wide shot, distant subject, excessive background, artificial bokeh, studio lighting, smartphone photography, modern digital DSLR look, CGI, cartoon, anime, illustration, plastic skin, beauty filter, over-retouched skin, excessive facial smoothing, face swap, distorted facial anatomy, unnatural hands, malformed fingers, extra fingers, missing fingers, floating limbs, flower covering face, obscured eyes, closed eyes, facial distortion, unnatural pose, watermark, text, logo.
-```
-
-</details>
-
-<a id="gpt-image-realistic-woman-3d-girl-night-park"></a>
-### 夜晚公园里真人女子与3D动画小女孩同框
-
-<a href="https://x.com/Alina_with_Ai/status/2102960952266432853"><img src="previews/gpt-image-realistic-woman-3d-girl-night-park.jpg" width="360"></a>
-
-以上传照片作为真人女子的身份参考，并锁定3D小女孩的服装、发型和比例，让两种画风自然融合。用一组硬性约束固定姿势、视线和身高差，再配合暖色路灯轮廓光，保证真人与动画风格统一。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2102960952266432853) · 185 赞，统计于 2026-10-28
-
-[`mixed-style`](pages/zh/tags.md#tag-mixed-style) [`3d-character`](pages/zh/tags.md#tag-3d-character) [`night-park`](pages/zh/tags.md#tag-night-park) [`identity-reference`](pages/zh/tags.md#tag-identity-reference) [`golden-light`](pages/zh/tags.md#tag-golden-light)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a single cinematic vertical 9:16 image based closely on the uploaded reference.
-
-Show TWO characters standing side by side at night in a beautiful city park.
-
-The adult woman is the main realistic character. Use my uploaded photo as her identity reference and preserve my facial identity, facial structure, skin tone, and recognizable appearance. She has long dark brown hair and wears masculine oversized streetwear: a dark olive/black oversized utility jacket, black oversized hoodie, extremely loose black cargo pants, and white chunky sneakers.
-
-The woman is standing naturally and looking DOWN toward the little girl with a warm, genuine smile. Her body is slightly turned toward the little girl. One hand is casually inside her jacket/pants pocket, while her other hand is raised and her index finger is POINTING toward the little girl, as if proudly introducing or showing her. Make the pointing gesture very clear and natural.
-
-Beside her stands an adorable small 3D animated girl. Keep the little girl extremely cute: oversized expressive brown eyes, rosy cheeks, tiny face, brown hair in a messy high bun with loose strands, black oversized hoodie with a small crown emblem, loose black cargo pants, and white chunky sneakers. She is standing upright and looking up at the woman with a sweet playful smile.
-
-IMPORTANT:
-- Both characters must be FULLY STANDING.
-- One single image only, NOT a collage or split screen.
-- The woman must be pointing toward the little girl.
-- The woman must be looking at the little girl and smiling.
-- The little girl must be looking up at the woman.
-- Keep a clear height difference between them.
-- Do not make the little girl photorealistic; keep her cute high-quality 3D animated appearance.
-- Do not change the little girl's outfit, hairstyle, facial style, or body proportions.
-
-Set them on a nighttime park walkway with leafy trees, warm glowing streetlights, distant city lights, soft bokeh, golden rim lighting around their hair and shoulders, realistic shadows, and a cozy magical atmosphere.
-
-Photorealistic adult woman + adorable 3D animated girl, seamless integration, cinematic photography, realistic skin and clothing textures, warm golden color grading, shallow depth of field, ultra-detailed, natural proportions, professional composition, vertical 9:16.
-
-The final composition should clearly communicate: the big girl is proudly pointing at the cute little girl while smiling at her.
-```
-
-</details>
-
-<a id="nano-banana-chiaroscuro-portrait"></a>
-### 把你的照片拍成明暗对比强烈的电影特写
-
-<a href="https://x.com/rovvmut_/status/2107691827323392159"><img src="previews/nano-banana-chiaroscuro-portrait.jpg" width="360"></a>
-
-单侧光，明确要求看得见毛孔，皮肤就不会像磨过皮。
-
-Nano Banana 2.1 · 上传图改图 · 出处: [@rovvmut_ on X](https://x.com/rovvmut_/status/2107691827323392159) · 170 赞，统计于 2026-10-27
-
-[`chiaroscuro`](pages/zh/tags.md#tag-chiaroscuro) [`cinematic`](pages/zh/tags.md#tag-cinematic) [`skin-detail`](pages/zh/tags.md#tag-skin-detail)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A hyper-realistic, 8K resolution cinematic close-up portrait of the person in the uploaded image. The image features dramatic chiaroscuro lighting, heavily illuminating the left side of his face while casting deep, moody shadows on the right against a solid black background. He has an intense, direct gaze, dark brown eyes with square catchlights, and textured, wet-styled hair. He is wearing a plain black t-shirt. Render with 35mm film grain and a shallow depth of field, prioritizing extreme character consistency and highly detailed skin texture, including visible pores.
-```
-
-</details>
-
-**[全部 11 条](pages/zh/image-portrait.md)**
-
-<a id="img-illustration"></a>
-## 插画
-
-<a id="gpt-image-dance-pose-sheet-4x4-character"></a>
-### 动漫少女十六格舞蹈姿势表
-
-<a href="https://x.com/Mayz1169/status/2098014577414033912"><img src="previews/gpt-image-dance-pose-sheet-4x4-character.jpg" width="360"></a>
-
-以单张参考图锁定角色身份，再按编号写出十六个从起势到收势的动作，让整张图连成一套舞蹈。固定机位、白底和明确的避免清单保证比例、服装和格子排布一致。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2098014577414033912) · 1,270 赞，统计于 2026-10-27
-
-[`pose-sheet`](pages/zh/tags.md#tag-pose-sheet) [`character-reference`](pages/zh/tags.md#tag-character-reference) [`dance`](pages/zh/tags.md#tag-dance) [`grid-layout`](pages/zh/tags.md#tag-grid-layout) [`anime`](pages/zh/tags.md#tag-anime)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
-
-CHARACTER CONSISTENCY
-Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
-
-ADAPTIVE CHOREOGRAPHY
-Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.
-
-Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
-
-Use the following movement structure, adapting each action to the character:
-1. Opening pose that establishes the character’s personality.
-2. Small rhythmic step with a coordinated arm gesture.
-3. Side step with one arm extended.
-4. Compact expressive gesture near the face or upper body.
-5. Grounded stance with arms crossing or sweeping inward.
-6. Knee lift or an anatomically appropriate weight shift.
-7. Open, expansive pose with arms spread.
-8. Playful or expressive balance pose.
-9. Turning pose showing a three-quarter rear view.
-10. Forward-reaching movement with a diagonal body lean.
-11. Strong upward-reaching accent.
-12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
-13. Lowered stance with a forward gesture.
-14. Elegant or dynamic side-facing transition.
-15. Signature gesture that suits the character.
-16. Confident final pose with a clear finishing silhouette.
-
-COMPOSITION AND PRESENTATION
-Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.
-
-Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.
-
-Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
-
-AVOID
-Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
-
-Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
-```
-
-</details>
-
-<a id="nano-banana-geometric-fashion-illustration"></a>
-### 质感几何风全身时装插画
-
-<a href="https://x.com/ChillaiKalan__/status/2109123213351632977"><img src="previews/nano-banana-geometric-fashion-illustration.jpg" width="360"></a>
-
-服装逐件描述，再用一小串禁止项排除写实和 3D。
-
-Nano Banana 2.1 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2109123213351632977) · 494 赞，统计于 2026-10-27
-
-[`fashion`](pages/zh/tags.md#tag-fashion) [`geometric`](pages/zh/tags.md#tag-geometric) [`editorial`](pages/zh/tags.md#tag-editorial)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.
-
-Use a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.
-```
-
-</details>
-
-<a id="gpt-image-character-dance-pose-sheet-4x4"></a>
-### 动漫角色4x4舞蹈姿势表
-
-<a href="https://x.com/Mayz1169/status/2099457417528692871"><img src="previews/gpt-image-character-dance-pose-sheet-4x4.jpg" width="360"></a>
-
-用编号的16步编舞清单,从开场姿势到收尾剪影,让每格动作各有分工。严格锁定参考图角色身份,配合固定机位、白底网格和禁止项清单,保证16格角色一致。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099457417528692871) · 391 赞，统计于 2026-10-28
-
-[`pose-sheet`](pages/zh/tags.md#tag-pose-sheet) [`dance`](pages/zh/tags.md#tag-dance) [`character-consistency`](pages/zh/tags.md#tag-character-consistency) [`grid`](pages/zh/tags.md#tag-grid) [`anime`](pages/zh/tags.md#tag-anime)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
-
-CHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
-
-ADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion.
-
-Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
-
-Use the following movement structure, adapting each action to the character:
-1. Opening pose that establishes the character’s personality.
-2. Small rhythmic step with a coordinated arm gesture.
-3. Side step with one arm extended.
-4. Compact expressive gesture near the face or upper body.
-5. Grounded stance with arms crossing or sweeping inward.
-6. Knee lift or an anatomically appropriate weight shift.
-7. Open, expansive pose with arms spread.
-8. Playful or expressive balance pose.
-9. Turning pose showing a three-quarter rear view.
-10. Forward-reaching movement with a diagonal body lean.
-11. Strong upward-reaching accent.
-12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
-13. Lowered stance with a forward gesture.
-14. Elegant or dynamic side-facing transition.
-15. Signature gesture that suits the character.
-16. Confident final pose with a clear finishing silhouette.
-
-COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
-
-AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
-
-Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
-```
-
-</details>
-
-<a id="gpt-image-pixel-art-combat-sprite-sheet-from-character"></a>
-### 由角色渲染图生成像素风战斗精灵表
-
-<a href="https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet"><img src="previews/gpt-image-pixel-art-combat-sprite-sheet-from-character.jpg" width="360"></a>
-
-附上一张全身角色渲染图，并写明像素尺寸（128px）、网格（4x4）和动作类型，让十六帧里的发型、外套和靴子保持一致。要求透明背景并接着生成 GIF，让精灵表可以直接用于动画。
-
-GPT Image 2.5 · 上传图改图 · 出处: [u/Practical_Low29 on Reddit](https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet) · 303 赞，统计于 2026-10-28
-
-[`sprite-sheet`](pages/zh/tags.md#tag-sprite-sheet) [`pixel-art`](pages/zh/tags.md#tag-pixel-art) [`game-assets`](pages/zh/tags.md#tag-game-assets) [`character-design`](pages/zh/tags.md#tag-character-design) [`animation`](pages/zh/tags.md#tag-animation)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Make a simplified 128px pixel art combat motion sprite sheet of this character, transparent background if you can, arrange it 4x4.
-```
-
-</details>
-
-<a id="gpt-image-character-dance-pose-grid"></a>
-### 兔耳帽少女的十六个舞蹈姿势
-
-<a href="https://x.com/Mayz1169/status/2098050289819652321"><img src="previews/gpt-image-character-dance-pose-grid.jpg" width="360"></a>
-
-提示词先让模型解读角色性格并据此编排舞蹈动作，再用严格的 4×4 编号网格、固定机位和白底统一版式。身份锁定和禁止项清单让 16 格里的服装与比例保持一致。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2098050289819652321) · 283 赞，统计于 2026-10-28
-
-[`character-sheet`](pages/zh/tags.md#tag-character-sheet) [`dance`](pages/zh/tags.md#tag-dance) [`pose-grid`](pages/zh/tags.md#tag-pose-grid) [`anime`](pages/zh/tags.md#tag-anime) [`seedance-reference`](pages/zh/tags.md#tag-seedance-reference)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a single square image featuring a 4×4 grid of 16 unique full-body dance poses based on the uploaded character.
-
-CHARACTER-DRIVEN CHOREOGRAPHY
-First, visually interpret the character’s personality and aesthetic through their expression, silhouette, outfit, accessories, proportions, and overall visual style. Use this interpretation to invent a personalized dance vocabulary that feels natural and distinctive to THIS character.
-
-Do not apply a generic dance routine or a predetermined list of poses. Let the character’s attitude determine the rhythm, energy, gestures, posture, footwork, and use of space.
-
-For example, a mischievous character might use cheeky gestures, unexpected weight shifts, and playful hops; a reserved character might favor controlled steps and subtle hand movements; a bold character might use grounded footwork and sharp accents; an ethereal character might move through soft curves and floating transitions. These are illustrative possibilities, not required categories or moves. Combine traits when the design suggests a more nuanced personality.
-
-Develop a recognizable movement motif unique to this character and reinterpret it across several panels without repeating the same pose. Incorporate distinctive design features naturally: flowing sleeves may follow sweeping gestures, heavy boots may inspire grounded steps, and a tail or wings may contribute to balance and expression if present. Do not invent accessories or anatomy.
-
-Make the result feel like this character is expressing themselves through dance, rather than performing an interchangeable pose pack. Keep the movement appropriate to the character’s apparent age, anatomy, clothing, and mobility.
-
-SEQUENCE AND VARIETY
-Show 16 distinct key poses from one cohesive, character-specific dance phrase, read left to right and top to bottom. Build a natural progression from an opening gesture through variations and a climax to a signature finish.
-
-Include meaningful variation in silhouette, arm placement, footwork, body orientation, and movement level only where it suits the character. Do not force jumps, squats, exaggerated expressions, or dramatic poses onto a character whose personality calls for restraint. Even subtle choreography should produce clearly distinguishable poses.
-
-Maintain believable balance and natural joints. Use facial expressions, head tilts, hands, and posture to reinforce the same personality throughout. Hair, clothing, and accessories should react naturally to movement.
-
-IDENTITY AND STYLE
-Preserve the uploaded character’s identity exactly: face, hairstyle, body proportions, outfit, colors, footwear, and accessories. Maintain the reference image’s rendering style throughout all 16 panels. Do not redesign, recolor, or change costumes. Infer any unseen details conservatively and keep them consistent.
-
-GRID AND PRESENTATION
-Exactly four rows and four columns, with 16 equally sized square panels separated by thin black lines. Plain white backgrounds and subtle grounding shadows. Number the panels 1–16 in the upper-left corners.
-
-One full-body character per panel, including all extremities and accessories, with comfortable margins. Consistent character scale, camera distance, lighting, and ground level. Use a fixed eye-level camera; different views should result from the character turning.
-
-If a separate dance-grid reference is provided, use it only for the grid layout and presentation. Do not copy its character, outfit, dance poses, or attitude. The uploaded character must determine the choreography.
-
-OUTPUT
-A polished dance reference sheet with strong character identity and 16 individually readable poses. Output only the image, without written analysis.
-
-AVOID
-Generic choreography, copied reference poses, repetitive or mirrored duplicates, personality mismatches, forced cuteness or swagger, inconsistent identity, altered outfits, cropped extremities, extra limbs, distorted anatomy, motion trails, missing or extra panels, and text other than panel numbers.
-```
-
-</details>
-
-<a id="gpt-image-golden-moonlit-pagoda-lotus-river"></a>
-### 满月下的金色宝塔与莲花河
-
-<a href="https://x.com/churvikv/status/2101030587478007880"><img src="previews/gpt-image-golden-moonlit-pagoda-lotus-river.jpg" width="360"></a>
-
-提示词按环境、光照、材质、构图、氛围分段，并附明确的排除项。严格的黑金配色和 4:5 竖构图让海报风格保持统一。
-
-GPT Image 2.5 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2101030587478007880) · 196 赞，统计于 2026-10-28
-
-[`night-landscape`](pages/zh/tags.md#tag-night-landscape) [`pagoda`](pages/zh/tags.md#tag-pagoda) [`gold-on-black`](pages/zh/tags.md#tag-gold-on-black) [`lotus`](pages/zh/tags.md#tag-lotus) [`poster`](pages/zh/tags.md#tag-poster)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A highly detailed stylized nightscape illustration in a luxury editorial poster aesthetic, rendered with crisp linework and glowing contrast against a deep black background. The scene centers on a luminous golden moon rising behind layered mountain silhouettes, with a refined Japanese pagoda beside a reflective stream, all bathed in warm amber, cream, and muted blue-gray tones.
-Environment:
-• A serene landscape with a large full moon dominating the upper center background
-• Dark, layered mountain ranges stretching across the horizon, with elegant contour lines and subtle highlights
-• A multi-tier pagoda positioned right of center, perched on rocky ground beside the water, with curved rooflines and softly glowing windows
-• A winding reflective stream running from the midground toward the foreground center, creating a bright path of moonlit reflection
-• Lotus flowers and tall grasses framing both sides of the foreground, especially clustered at lower left and lower right
-• Stylized cloud bands passing horizontally across the moon, with small stars and a few tiny bird silhouettes in the sky
-• Additional small architectural detail faintly visible in the midground left near the water
-• Avoid modern elements, clutter, heavy realism, or dense texture noise
-Lighting:
-• Strong moon backlight from the large central moon, creating a radiant halo and soft atmospheric glow
-• Warm internal glow within the pagoda, contrasting with the cool darkness of the mountains and sky
-• Gentle highlights along roof edges, flower petals, rocks, and water ripples
-• Reflections in the stream should be luminous and controlled, not mirror-sharp
-• No harsh shadows, no blown-out moon detail, no flat unlit foreground
-Materials:
-• Smooth ink-like black negative space with metallic gold and ivory highlights
-• Pagoda surfaces with polished wood-like warmth and fine architectural edging
-• Water rendered with silky reflective lines and soft layered shimmer
-• Flowers with delicate satin-like petals and softly glowing centers
-• Rocky terrain in matte charcoal with clean stylized edge lighting
-Composition:
-• Vertical poster composition, centered around the moon and water reflection axis
-• Pagoda occupying the right midground as the hero structure, balanced by floral masses on both sides
-• Mountains layered behind the pagoda to create depth without overwhelming the moon
-• Strong use of negative space around the upper sky and outer edges for dramatic contrast
-• Hero elements fill most of the frame with a symmetrical visual rhythm, though not perfectly mirrored
-Mood:
-Quiet, majestic, dreamlike, and elegant with a tranquil nocturnal fantasy atmosphere
-Ultra-detailed digital illustration, sharp ornamental linework, high contrast, vertical 4:5 composition, glowing gold-on-black palette, polished cinematic finish.
-
-🏞 Prompt 3:
-A serene Japanese landscape bathed in the warm glow of a large, luminous full moon. A multi-tiered pagoda, adorned with intricate golden details and traditional roofing, stands majestically on a rocky outcrop. It is surrounded by lush, golden-hued foliage and large, delicate lotus flowers in shades of cream and soft orange. A tranquil river, reflecting the moonlight and surrounding scenery, gently flows through the foreground. Jagged, dark mountains form the backdrop, silhouetted against the vibrant sky. The atmosphere is mystical and peaceful, with a hint of ancient grandeur. The color palette is dominated by deep blacks, contrasting with bright yellows, golds, and soft oranges, creating a striking visual. The composition is framed by darkness, emphasizing the illuminated central elements, with a low-angle perspective drawing the viewer into the scene. The style is reminiscent of traditional Japanese ink paintings with a touch of fantasy illustration, featuring smooth textures and dramatic lighting.
-```
-
-</details>
-
-**[全部 19 条](pages/zh/image-illustration.md)**
-
-<a id="img-ui-mockup"></a>
-## 手机与界面截图
-
-<a id="gpt-image-camera-roll-photos-screen"></a>
-### 一名学生一整天的iPhone相册截图
-
-<a href="https://x.com/sakisuta_/status/2098712371045052764"><img src="previews/gpt-image-camera-roll-photos-screen.jpg" width="360"></a>
-
-提示词明确指定容器是原样截取的照片App界面，模型便在一个网格里填满一整天风格各异的随手拍。提供参考人物并要求日常瞬间，使人脸在美食、朋友、书桌和天空等画面中保持一致。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@sakisuta_ on X](https://x.com/sakisuta_/status/2098712371045052764) · 2,439 赞，统计于 2026-10-28
-
-[`camera-roll`](pages/zh/tags.md#tag-camera-roll) [`photos-app`](pages/zh/tags.md#tag-photos-app) [`screenshot`](pages/zh/tags.md#tag-screenshot) [`reference-image`](pages/zh/tags.md#tag-reference-image) [`everyday`](pages/zh/tags.md#tag-everyday)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Turn one full day's worth of camera roll for the person in the reference image into a single image that captures the iPhone's Photos app screen as-is. Make it a realistic camera roll that feels like it captures casual everyday moments.
-```
-
-</details>
-
-<a id="gpt-image-camera-roll-day"></a>
-### 一张图生成任何人一天的相册
-
-<a href="https://x.com/Mayz1169/status/2099479395283214473"><img src="previews/gpt-image-camera-roll-day.jpg" width="360"></a>
-
-同一思路，规则更严：上传图是唯一主体，只允许出现最少的 iOS 界面元素。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099479395283214473) · 762 赞，统计于 2026-10-27
-
-[`ios`](pages/zh/tags.md#tag-ios) [`screenshot`](pages/zh/tags.md#tag-screenshot) [`camera-roll`](pages/zh/tags.md#tag-camera-roll) [`humor`](pages/zh/tags.md#tag-humor)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use the uploaded image as the ONLY subject reference.
-
-Create ONE vertical image that looks exactly like a screenshot of the iPhone Photos app, showing one full day of casual camera-roll photos featuring the exact subject from the uploaded reference.
-
-SUBJECT CONSISTENCY
-First identify the main subject in the uploaded image. It may be a person, anime character, pet, animal, plush toy, figurine, mascot, object, or other character.
-
-Preserve the subject’s recognizable appearance, colors, proportions, facial features, hairstyle, clothing, accessories, markings, materials, and signature details consistently across every photo.
-
-If the reference contains multiple views of the same subject, understand that they are different views of ONE subject, not multiple characters.
-
-Do not redesign or replace the subject.
-
-DAY-IN-THE-LIFE CAMERA ROLL
-Imagine a believable full day for this exact subject based on its appearance, personality, style, and visual world.
-
-Generate many different casual photos from morning to night, as if someone naturally photographed the subject throughout the day.
-
-Automatically choose everyday situations that fit the uploaded subject, such as:
-waking up, resting, eating, sitting by a window, traveling, walking outside, visiting cafés or shops, playing, working, relaxing at home, interacting with everyday objects, sunset moments, nighttime outings, and going to sleep.
-
-The activities and environments should adapt naturally to the subject. Do not force human activities onto animals, toys, objects, or non-human characters when they would look unnatural.
-
-Every thumbnail should show a different moment, composition, distance, pose, camera angle, lighting condition, or location.
-
-Mix:
-close-ups,
-medium shots,
-wide shots,
-overhead photos,
-back views,
-detail shots,
-slightly blurry movement shots,
-imperfect handheld snapshots,
-photos where the subject is partially cropped,
-environmental photos related to the subject’s day.
-
-The result should feel spontaneous and personal rather than like a professional photoshoot.
-
-IPHONE PHOTOS APP LAYOUT
-The FINAL IMAGE itself must look like a real full-screen iPhone Photos app screenshot.
-
-Use a tall smartphone screenshot aspect ratio, approximately 9:19.5.
-
-Create a dense camera-roll gallery using FOUR equal thumbnail columns, closely matching the standard iPhone Photos grid.
-
-Include approximately 24–32 individual photo thumbnails visible on screen.
-
-Use very thin white gaps between thumbnails.
-
-The gallery should fill most of the screen vertically.
-
-Include authentic iPhone Photos interface elements:
-• white iOS interface background
-• iPhone-style status bar at the top
-• time on the upper left
-• cellular/Wi-Fi/battery icons on the upper right
-• simple navigation controls near the top
-• four-column photo gallery
-• bottom Photos app navigation bar
-• Photos tab selected in blue
-• other navigation icons shown in gray
-• black home indicator at the very bottom
-
-The UI must look like an actual screenshot of the Photos app, NOT a decorative frame, moodboard, contact sheet, scrapbook, poster, or generic collage.
-
-PHOTO STYLE
-Make each thumbnail feel like a genuine casual iPhone camera-roll photo.
-
-Use natural everyday lighting, imperfect framing, realistic exposure variation, occasional motion blur, slight focus imperfections, spontaneous compositions, and believable environmental details.
-
-Keep the same subject recognizable throughout the entire gallery while allowing natural changes in pose, expression, camera distance, and lighting.
-
-If the uploaded reference is illustrated, animated, stylized, or 3D, preserve its original visual identity and style unless realistic photography is explicitly requested.
-
-IMPORTANT
-ONE final image only.
-The entire output is ONE iPhone Photos app screenshot containing many different photos.
-Exactly FOUR thumbnail columns.
-Do not create a standalone collage without the iPhone interface.
-Do not create multiple separate outputs.
-Do not duplicate the exact same photo repeatedly.
-Do not introduce unrelated characters or subjects.
-Do not change the main subject’s design.
-No captions, dates, labels, stickers, watermarks, or decorative text inside the photo thumbnails.
-Only normal minimal iOS interface elements may appear.9:16
-```
-
-</details>
-
-<a id="gpt-image-iphone-photos-screenshot"></a>
-### 一整天的照片，做成 iPhone 相册截图
-
-<a href="https://x.com/BubbleBrain/status/2099759367956349012"><img src="previews/gpt-image-iphone-photos-screenshot.jpg" width="360"></a>
-
-连状态栏都还原的 iOS 相册界面，里面塞满参考人物的抓拍。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@BubbleBrain on X](https://x.com/BubbleBrain/status/2099759367956349012) · 309 赞，统计于 2026-10-27
-
-[`ios`](pages/zh/tags.md#tag-ios) [`screenshot`](pages/zh/tags.md#tag-screenshot) [`camera-roll`](pages/zh/tags.md#tag-camera-roll)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Turn the girl from the reference image into a full-day iPhone Photos album screenshot that faithfully recreates the real iPhone “Photos — Library / Today” interface. Keep the top status bar (time, signal, battery), the Library title, the Today label, the photo grid layout, and the bottom tab bar: Library / For You / Albums / Search. The whole image should look like a real phone screenshot.
-The girl in the reference image is the only subject in the entire album. Every photo keeps the same identity, the same face, the same hairstyle, the same skin tone, the same body proportions, and the same presence. She is a clearly adult young East Asian woman with long black hair, cool-pale skin, refined cool features, and a private, quiet aura.
-The album is a full portrait camera roll. Every thumbnail shows her. The entire screen is filled with solo portraits of her. The whole set is built around this one person only.
-All album content is portraits of her: waking-up selfie in bed, selfie under the covers, selfie by the pillow, bathroom-mirror selfie, elevator-mirror selfie, window-side selfie, indoor natural-light selfie, sofa selfie, bedside selfie, after-coming-home selfie, night selfie, close-up face selfie, half-body selfie, full-body mirror selfie, seated solo shot, standing solo shot, side-profile solo shot, looking-back solo shot, indoor hallway solo shot, window-side solo shot, candid bedside shot, chair solo shot, carpet solo shot, and photos taken of her by someone else.
-Outfits change continuously through the day. Morning: milky-white camisole lounge top and light-gray home shorts. Late morning: white slim short-sleeve top and pale blue-gray pleated mini skirt. Noon: black thin-strap top and high-waisted denim shorts. Afternoon: light-gray knit cardigan over a white inner layer and a black mini skirt. Evening: dark-gray blazer, white thin-strap top, and black pleated mini skirt. Night: black fitted mini dress with slim silver accessories. Late night after returning home: loose white T-shirt and soft lounge shorts. Each outfit is clearly different; the clothing changes mark a clear passage of time.
-Photo mix is fixed at 60% selfies and mirror selfies, 40% solo portraits taken by someone else. Every frame has her as the subject. Every thumbnail keeps real iPhone native-camera texture. Pose, camera distance, angle, expression, lighting, and clothing keep changing.
-The sequence runs from morning to late night. Morning feels loose and just-woken. Late morning has clear natural light. Afternoon feels like ordinary going-out. Evening has soft city light. Night has low indoor light. Late night feels quiet and private after coming home.
-The whole set is quiet, private, relaxed, and real. The album forms a dense, continuous solo-portrait look, like a full day of private portrait camera roll saved on her own phone.
-```
-
-</details>
-
-<a id="gpt-image-farmers-market-app-ui"></a>
-### 放在 iPhone 机身里的农夫市集 App 界面
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"><img src="previews/gpt-image-farmers-market-app-ui.jpg" width="360"></a>
-
-把 App 当成已经上线的产品来描述：真实的模块、层级和间距，不用概念图的词，出来的界面才像能用的。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
-
-[`ui`](pages/zh/tags.md#tag-ui) [`mobile`](pages/zh/tags.md#tag-mobile) [`mockup`](pages/zh/tags.md#tag-mockup)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a realistic mobile app UI mockup for a local farmers market.
-Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
-Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
-It should look like a real, well-designed, beautiful app for a small local market.
-Place the UI mockup in an iPhone frame.
-```
-
-</details>
+**[全部 7 条](pages/zh/image-architecture.md)**
 
 <a id="img-map"></a>
 ## 地图
+
+<a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
+### 等距视角动漫世界地图微缩模型海报
+
+<a href="https://x.com/TechieBySA/status/2091529289283866634"><img src="previews/gpt-image-isometric-anime-world-map-diorama-poster.jpg" width="360"></a>
+
+用分支条件分别处理虚构世界和真实地点，让同一模板能切出正确的地图轮廓。版面留白、标题层级和移轴摄影质感都有明确规则，成图风格统一，另可上传参考地图提高准确度。
+
+GPT Image 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2091529289283866634) · 6,709 赞，统计于 2026-10-28
+
+[`isometric`](pages/zh/tags.md#tag-isometric) [`diorama`](pages/zh/tags.md#tag-diorama) [`anime-world`](pages/zh/tags.md#tag-anime-world) [`miniature`](pages/zh/tags.md#tag-miniature) [`editorial-poster`](pages/zh/tags.md#tag-editorial-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Simply replace [ANIME]:✨
+
+(Upload a reference image of the map for enhanced accuracy)
+
+“Ultra-detailed photorealistic isometric miniature scale-model diorama of the world from [ANIME], floating on a pure off-white studio background with a soft drop shadow beneath.
+
+If [ANIME] has a fictional world map: the diorama takes the exact silhouette shape of that fictional continent, island or region, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like the world physically cut out and lifted. The shape matches the canonical map boundary precisely.
+
+If [ANIME] is set in a real or semi-real world: the diorama takes the exact geographic silhouette shape of the primary city, region or country where the story is set, extruded into a thick rock slab with rough cliff edges.
+
+The entire top surface faithfully recreates the complete world of [ANIME] with full anime accuracy: every region, city, landmark, building, terrain feature, road and environment in its exact canonical position as established in the show. Every iconic location is instantly recognizable to any fan — labeled with small readable location markers. The architecture, environment design, building styles, color palette and atmosphere must be completely faithful to the visual world of [ANIME] — not Western or generic realistic, but distinctly true to how this anime world looks and feels. Every location a fan would recognize is present and accurately placed.
+
+Dense micro-detail throughout: tiny figures in show-accurate character designs and clothing, vehicles or creatures authentic to the world, individual trees and foliage, roads and paths between locations, flags and faction symbols, any distinctive environmental features unique to this anime world.
+
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Soft warm lighting from above, gentle diffuse shadows. Colors match the anime's authentic visual palette faithfully — rich, saturated and true to the show's identity.
+
+Layout: the shaped diorama floats centered in the lower two-thirds of the frame, clear margins on all sides, never touching the frame edges. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the world or region name at the very top, then [ANIME] directly below in a bold condensed sans-serif in medium charcoal grey — large and dominant, the biggest text element, then small wide-tracked caps below with the studio name and year.
+
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
+```
+
+</details>
 
 <a id="gpt-image-city-on-map"></a>
 ### 你的城市从地图上长出来
@@ -4271,649 +4024,303 @@ Ultra-high detail, realistic materials, exceptional composition, premium art-pos
 
 </details>
 
-<a id="gpt-image-tilt-shift-map-road-travel-poster"></a>
-### 从复古地图延伸出的上海移轴天际线
-
-<a href="https://x.com/Goodmanprotocol/status/2109581797944443143"><img src="previews/gpt-image-tilt-shift-map-road-travel-poster.jpg" width="360"></a>
-
-用城市占位符配合前景、中景、远景三层结构，让蜿蜒道路从印刷地图通向天际线。单一车辆作为视觉焦点，黄金时刻光线与移轴微缩质感让画面可信，排除清单则控制了杂乱。
-
-GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2109581797944443143) · 44 赞，统计于 2026-10-28
-
-[`tilt-shift`](pages/zh/tags.md#tag-tilt-shift) [`miniature`](pages/zh/tags.md#tag-miniature) [`travel-poster`](pages/zh/tags.md#tag-travel-poster) [`vintage-map`](pages/zh/tags.md#tag-vintage-map) [`golden-hour`](pages/zh/tags.md#tag-golden-hour)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].
-
-TEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.
-
-CORE CONCEPT:
-A vintage printed city map transforms into a winding elevated road leading toward the destination’s iconic skyline. One realistic local vehicle drives along the curved road, becoming the main focal point.
-
-COMPOSITION:
-Foreground: detailed vintage map with “[CITY NAME]” printed boldly across it. Middle ground: a winding road emerging naturally from the map. Background: recognizable landmarks, authentic architecture, and local scenery arranged in atmospheric depth.
-
-STYLE:
-Photorealistic miniature diorama, tilt-shift photography, intricate cartographic textures, realistic vehicle details, shallow depth of field, warm golden-hour lighting, and cinematic shadows.
-
-FINAL AESTHETIC:
-A premium collectible travel poster blending vintage cartography with a realistic miniature world. Strong visual depth, authentic local atmosphere, and clean, uncluttered composition.
-
-AVOID:
-Unrelated landmarks, distorted roads, oversized vehicles, excessive labels, incorrect text, logos, watermarks, and borders.
-
-FORMAT: Full-bleed 4:5 vertical composition.
-```
-
-</details>
+**[全部 5 条](pages/zh/image-map.md)**
 
 <a id="img-collage"></a>
 ## 拼贴
 
-<a id="gpt-image-flash-photo-dump-six-frame-portrait-collage"></a>
-### 六格闪光灯随拍人像拼图
+<a id="gpt-image-failed-photos-grid"></a>
+### 任意角色的九张失败照片
 
-<a href="https://x.com/mehvishs25/status/2112208561673740615"><img src="previews/gpt-image-flash-photo-dump-six-frame-portrait-collage.jpg" width="360"></a>
+<a href="https://x.com/DeepBlueX0/status/2099481521983995971"><img src="previews/gpt-image-failed-photos-grid.jpg" width="360"></a>
 
-以参考照片锁定人物身份，再逐条列出六个编号瞬间，每格有各自的表情、手势和发型。卡片相机闪光灯质感、固定的服装与墙面，加上结尾的避免清单，让整组画面一致又自然。
+只有七个词。作者的心得：限制越少，失败照越像真的。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@mehvishs25 on X](https://x.com/mehvishs25/status/2112208561673740615) · 211 赞，统计于 2026-10-28
+GPT Image 2.5 · 文生图 · 出处: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2099481521983995971) · 2,646 赞，统计于 2026-10-27
 
-[`portrait-collage`](pages/zh/tags.md#tag-portrait-collage) [`identity-preservation`](pages/zh/tags.md#tag-identity-preservation) [`flash-photography`](pages/zh/tags.md#tag-flash-photography) [`photo-dump`](pages/zh/tags.md#tag-photo-dump) [`grid`](pages/zh/tags.md#tag-grid)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create an ultra-realistic 6-frame portrait collage arranged in a clean 3×2 grid, featuring the exact same girl from the uploaded reference photo. Use the reference exclusively for identity preservation, accurately retaining her facial structure, eye color, natural hair color, hairstyle, hair length, volume, texture, and distinctive facial features. Her identity must remain consistent across all six frames.
-
-Overall aesthetic: Casual Instagram photo dump with an authentic early-2000s digital camera vibe. A simple muted powder-blue wall, fitted black spaghetti-strap top, delicate minimal accessories, and effortless everyday makeup. Shot on a Canon PowerShot G7 X Mark III with direct on-camera flash, crisp facial details, realistic skin pores, subtle grain, natural imperfections, strong flash highlights, and distinct shadows against the wall.
-
-Six different candid moments:
-
-1. Playful charm: Leaning slightly toward the camera, cheeks gently resting against her palms, giving a small, natural smile.
-2. Cheeky energy: One eye closed in a wink, grinning brightly while sweeping a section of hair behind her ear.
-3. Carefree mood: Eyes softly closed, lips forming a playful pout, both hands raised above her head as she loosely gathers her hair.
-4. Cool and confident: Face turned slightly sideways, looking into the lens from the corner of her eyes, fingertips lightly touching her jawline.
-5. Unfiltered laughter: Looking off-camera with a genuine open smile, head tilted back slightly, hair falling naturally across one shoulder.
-6. Soft, dreamy moment: Chin tilted down, eyes gazing thoughtfully toward the camera, one hand loosely twirling a strand of hair.
-
-Composition and realism: Every frame must have a distinct facial expression, head angle, hand placement, and hair arrangement. Keep the same outfit, background, lighting style, and identity throughout, while varying the crop and camera distance subtly. Natural anatomy, believable fingers, realistic hair strands, and authentic compact-camera flash photography. The result should feel like six spontaneous photos taken during one fun evening, not a polished studio campaign.
-
-Avoid: Face swapping artifacts, altered facial features, inconsistent identity, plastic skin, excessive retouching, artificial beauty filters, duplicated poses, malformed hands, extra fingers, excessive sharpening, and obvious AI-generated details.
-
-Vertical 3:4 canvas, six equally sized photographs, precise grid alignment, no borders, no text, no watermarks.
-```
-
-</details>
-
-<a id="gpt-image-photo-to-paper-second-world"></a>
-### 窗边照片延伸为墨线手绘纸面
-
-<a href="https://x.com/harboriis/status/2110328832352010584"><img src="previews/gpt-image-photo-to-paper-second-world.jpg" width="360"></a>
-
-画面对半分割，让窗台这一结构穿过分界线，照片自然延续成纸面与线稿。撕纸边缘顺着原有结构走，并用一句简短手写字幕收尾。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@harboriis on X](https://x.com/harboriis/status/2110328832352010584) · 171 赞，统计于 2026-10-28
-
-[`split-canvas`](pages/zh/tags.md#tag-split-canvas) [`paper-collage`](pages/zh/tags.md#tag-paper-collage) [`line-doodle`](pages/zh/tags.md#tag-line-doodle) [`continuity`](pages/zh/tags.md#tag-continuity) [`editorial`](pages/zh/tags.md#tag-editorial)
+[`grid`](pages/zh/tags.md#tag-grid) [`humor`](pages/zh/tags.md#tag-humor) [`template`](pages/zh/tags.md#tag-template)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Vertical 3:4 canvas split into two strictly equal horizontal halves: top 50% and bottom 50%. The upper half stays photographic; the lower half becomes the continued Second World. Together they must read as one scene.
-
-the
-
-UPPER HALF
-
-Keep the photo faithful. Preserve the subject, pose, spatial relationships, color atmosphere, and natural light. Do not redesign, repaint, replace, or restage it. Only necessary proportional
-
-cropping is allowed.
-
-CONTINUITY (highest priority)
-
-Identify one source structure that naturally reaches the center split: a road, shoreline, water, reflection, branch, beam of light, piece of architecture, or body movement. This structure must cross the boundary and continue into the lower half. The Second World begins from the photograph itself, so the same scene passes through the seam and simply changes its physical rules.
-
-TRANSITION EDGE
-
-The center may use an irregular torn-paper edge, but the tear must follow the source structure, never act as decoration. Source elements may touch, follow, break through, or extend beyond edge. Never force the same tear shape onto every image.
-
-The Second World
-
-LOWER HALF
-
-Ivory paper with subtle fibers and abundant negative space. Continue the chosen structure downward from the exact point where it meets the split, then reinterpret it with restrained photo fragments, cut-paper forms, and minimal black hand-drawn lines. The lower world must stay visibly attached Never isolate it as a separate portal, window, stage, platform, or floating vignette unless it clearly comes from the photo.
-
-SECOND WORLD LOGIC
-
-Ask: if this structure became touchable, usable, enterable, or changeable, what would it naturally become? Create one image-specific interaction. For example, water may stay attached while being pulled, a road may continue as a drawn path, or light may become something held. Do not repeat actions mechanically.
-
-FIGURES
-
-Add 0-3 tiny black line figures only when useful. They must physically interact with the continued structure. If the photo already contains strong human action, add none. Never use figures as decoration.
-
-World
-
-CAPTION
-
-One
-
-short handwritten English caption (2-6 words) based on the action. Natural, light, slightly witty. Spell it correctly. No inspirational quotes and no fixed "Same..., different..." phrasing.
-
-STYLE
-
-Real photography above, warm paper below, minimal black line doodles, subtle handmade collage texture, independent-magazine mood. Bright, airy, restrained. It should feel as if the Second already hidden inside the photo and simply continued downward.
-
-was
-
-NEGATIVE
-
-No detached lower-half illustration, no generic torn-paper template, no isolated portal, no unrelated vignette, no broken continuity, no dense illustration, no random decoration, no crowd, altered photo colors, no redesign of the upper image, no glossy 3D, no scrapbook clutter, no gibberish text, no watermark, no logo, no UI.
+Vertical 3×3 failed photos × {Character}
 ```
 
 </details>
 
-<a id="nano-banana-newspaper-collage"></a>
-### 任何图都能变成报纸拼贴
+<a id="gpt-image-chibi-clone-sticker-running-diary"></a>
+### 跑步照片配Q版分身贴纸与手绘涂鸦
 
-<a href="https://x.com/aimikoda/status/2108682052665290854"><img src="previews/nano-banana-newspaper-collage.jpg" width="360"></a>
+<a href="https://x.com/Emmma___0/status/2050922155676930544"><img src="previews/gpt-image-chibi-clone-sticker-running-diary.jpg" width="360"></a>
 
-一句话改图，照片和插画都适用。
+先锁定真人照片的身份、服装和背景，再限定添加5到8个Q版分身，每个分身对应不同的跑步动作与情绪。贴纸白边、柔和阴影加上白粉色涂鸦和手写短句，形成手帐日记风格，同时避免遮挡人脸。
 
-Nano Banana 2.1 · 上传图改图 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2108682052665290854) · 171 赞，统计于 2026-10-27
+GPT Image 2 · 上传图改图 · 出处: [@Emmma___0 on X](https://x.com/Emmma___0/status/2050922155676930544) · 959 赞，统计于 2026-10-28
 
-[`collage`](pages/zh/tags.md#tag-collage) [`newspaper`](pages/zh/tags.md#tag-newspaper) [`one-liner`](pages/zh/tags.md#tag-one-liner)
+[`chibi`](pages/zh/tags.md#tag-chibi) [`sticker`](pages/zh/tags.md#tag-sticker) [`scrapbook`](pages/zh/tags.md#tag-scrapbook) [`fitness`](pages/zh/tags.md#tag-fitness) [`photo-edit`](pages/zh/tags.md#tag-photo-edit)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-recreate this image as a collage made from newspaper parts.
+Create a high-quality “chibi clone sticker diary photo” based on the uploaded real-life image. Preserve the original person’s identity, face, hairstyle, hair color, outfit, body proportions, pose, lighting, and background. Do not alter facial features or turn the subject into a full illustration—maintain a realistic photo look.
+Analyze the scene as a fitness/running lifestyle moment. Add 5–8 chibi mini clones of the same person around the subject, designed in a consistent kawaii sticker style (big head, small body, large expressive eyes, clean digital finish). Each clone must clearly resemble the real person (same hair, outfit, colors).
+Design each chibi with different running-related actions and emotions: jogging, stretching, drinking water, feeling tired, cheering, giving thumbs up, celebrating completion. Ensure all poses are unique and contextually relevant.
+Render each chibi as a sticker with white outlines, soft shadows, and a slightly floating effect. Arrange them around the subject and edges without covering the face or main body.
+Add light hand-drawn doodles (hearts, sparkles, arrows, motion lines, circles) in white with subtle pink accents, keeping a clean scrapbook diary feel.
+Include 5–8 short handwritten-style phrases matching a fitness mood (cute, energetic, encouraging). Use mostly white text with slight pink highlights and small decorative marks.
+Composition: keep the real person as the central focus, surrounded by chibi stickers and doodles. The result should feel like a polished, playful, high-resolution social media lifestyle diary image—clean, balanced, and visually rich without clutter.
 ```
 
 </details>
 
-<a id="gpt-image-frame-collage-identity-consistent-woman"></a>
-### 女子在复古木相框中的多姿势拼贴
+<a id="gpt-image-chibi-sticker-street-photo-doodles"></a>
+### 街头人像周围环绕3D Q版自己
 
-<a href="https://x.com/Alina_with_Ai/status/2102358953489481762"><img src="previews/gpt-image-frame-collage-identity-consistent-woman.jpg" width="360"></a>
+<a href="https://x.com/im_shahid7/status/2050201037144002786"><img src="previews/gpt-image-chibi-sticker-street-photo-doodles.jpg" width="360"></a>
 
-先用参考图锁定人物身份，再逐一列出每个相框的表情和姿势，并用重复的一致性要求和负面清单防止走样。暖色影棚光、道具和手绘涂鸦对话气泡营造出剪贴簿质感。
+提示词保留原照片和背景，再按姿势与表情清单加入多个3D Q版小人。白色贴纸描边、涂鸦图标和手写字样把这些元素统一成柔和的粉彩拼贴。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2102358953489481762) · 156 赞，统计于 2026-10-28
+GPT Image 2 · 上传图改图 · 出处: [@im_shahid7 on X](https://x.com/im_shahid7/status/2050201037144002786) · 414 赞，统计于 2026-10-28
 
-[`collage`](pages/zh/tags.md#tag-collage) [`identity-consistency`](pages/zh/tags.md#tag-identity-consistency) [`scrapbook`](pages/zh/tags.md#tag-scrapbook) [`vintage-frames`](pages/zh/tags.md#tag-vintage-frames) [`editorial`](pages/zh/tags.md#tag-editorial)
+[`chibi`](pages/zh/tags.md#tag-chibi) [`sticker-outline`](pages/zh/tags.md#tag-sticker-outline) [`doodle-overlay`](pages/zh/tags.md#tag-doodle-overlay) [`reference-photo`](pages/zh/tags.md#tag-reference-photo) [`3d-cute`](pages/zh/tags.md#tag-3d-cute)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Use the uploaded reference image as the identity and facial reference. Create a high-resolution photorealistic editorial collage of the same young woman, keeping her face, hairstyle, skin tone, body proportions, and overall appearance consistent in every frame.
-
-A stylish young woman with long straight dark-brown hair, wearing a fitted royal-blue short-sleeve T-shirt, blue denim jeans, and clean white chunky sneakers. Create a playful vintage photography-wall composition where she appears multiple times inside and around several ornate rustic wooden picture frames arranged vertically and overlapping.
-
-The central full-body version of the woman sits casually on the frames, one leg bent and the other extended downward, smiling confidently while making a peace/V sign with one hand. Surrounding frames contain different realistic versions of the same woman with different expressions and poses:
-
-laughing with eyes closed
-
-surprised expression with both hands on cheeks
-
-smiling with hands forming a heart
-
-taking a mirror-style selfie with a modern smartphone
-
-happily raising both arms
-
-playful wink and smile
-
-cheerful candid expressions
-
-Maintain perfect facial identity consistency across all versions.
-
-Background: warm beige studio wall with a cozy retro photography-studio aesthetic. Add several vintage film cameras placed naturally on some of the frames. Surround the composition with hand-drawn doodles, small stars, red hearts, arrows, and playful speech bubbles containing short phrases such as “BEST DAY EVER!”, “OOPS!”, “SO HAPPY!”, “HAHA!”, “LOVE THIS!”, “LITTLE MOMENTS!”
-
-Composition should feel like a creative Instagram editorial photoshoot / scrapbook collage, highly detailed, natural realistic skin texture, realistic hands and fingers, accurate anatomy, soft warm studio lighting, subtle shadows, cinematic photography, crisp focus, premium fashion editorial quality, photorealistic, ultra-detailed, 8K, vertical 4:5 composition.
-
-Important: Keep the same person recognizable in every frame, consistent clothing and hairstyle, realistic proportions, no duplicated facial features, no distorted hands, no extra fingers, no warped limbs, no text errors.
+Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features. Chibi characters have various poses and expressions:￼jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
 ```
 
 </details>
 
-<a id="gpt-image-editorial-fashion-character-sheet-face-reference"></a>
-### 由一张人脸照片生成的时尚编辑角色设定表
+<a id="gpt-image-cafe-photo-watercolor-scrapbook-layout"></a>
+### 咖啡馆照片变成水彩手账排版
 
-<a href="https://x.com/Alina_with_Ai/status/2102234488562655721"><img src="previews/gpt-image-editorial-fashion-character-sheet-face-reference.jpg" width="360"></a>
+<a href="https://x.com/MahnoorAi12/status/2102368459388801390"><img src="previews/gpt-image-cafe-photo-watercolor-scrapbook-layout.jpg" width="360"></a>
 
-提示词把身份和造型分开处理:上传照片只提供人脸,服装逐件锁定并在结尾的一致性段落再次强调。固定的版面网格包含三视图、四种表情、四个动作姿势、材质和色板,让整张设定表中的角色保持统一。
+用严格的面部身份锁定只让人脸参考控制人物，其余参考图只提供服装、姿势和氛围。版式用清单逐条写明纸张、水彩边缘、剪裁感和文字区，得到留白充足的手账成品。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2102234488562655721) · 138 赞，统计于 2026-10-28
+GPT Image 2.5 · 上传图改图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2102368459388801390) · 240 赞，统计于 2026-10-28
 
-[`character-sheet`](pages/zh/tags.md#tag-character-sheet) [`face-reference`](pages/zh/tags.md#tag-face-reference) [`fashion`](pages/zh/tags.md#tag-fashion) [`editorial`](pages/zh/tags.md#tag-editorial) [`consistency`](pages/zh/tags.md#tag-consistency)
+[`scrapbook`](pages/zh/tags.md#tag-scrapbook) [`watercolor`](pages/zh/tags.md#tag-watercolor) [`cafe`](pages/zh/tags.md#tag-cafe) [`editorial`](pages/zh/tags.md#tag-editorial) [`face-reference`](pages/zh/tags.md#tag-face-reference)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Create a premium editorial-style CHARACTER REFERENCE SHEET using the uploaded photo as the PRIMARY FACE REFERENCE.
+Use the uploaded face reference image ONLY as the identity reference for the woman.
 
-IMPORTANT IDENTITY INSTRUCTION:
-Use ONLY the face and identity from the uploaded reference photo. Preserve her facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural facial proportions and overall recognizable appearance consistently in every panel.
+STRICT FACE IDENTITY LOCK:
+Preserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person.
 
-DO NOT copy the clothing, outfit, accessories, pose, or background from the reference photo.
-ONLY use the uploaded photo as the FACE/IDENTITY REFERENCE.
+Use the provided reference images as visual inspiration for the overall composition, photography style, outfit, pose, environment, color palette, and aesthetic, but do NOT copy their facial identity.
 
-CHARACTER:
-24-year-old woman, 5'6" (167 cm), slim build, long naturally wavy dark-brown hair, warm natural skin tone, expressive brown eyes, soft feminine facial features.
+Create a photorealistic lifestyle editorial photograph with a soft Japanese/Korean-inspired café and everyday-luxury aesthetic.
 
-OUTFIT — MUST REMAIN EXACTLY THIS:
-Long tailored dark-brown wool-blend coat
-Black fitted ribbed turtleneck knit
-High-waisted wide-leg dark charcoal tailored trousers
-Black leather loafers
-Black leather shoulder bag
-Black sunglasses as an optional accessory
+The woman is naturally enjoying a quiet café moment with coffee and dessert. Elegant understated styling, soft neutral tones, natural daylight, subtle film grain, warm muted colors, realistic skin texture, delicate details, candid editorial photography.
 
-Do NOT replace or redesign the outfit.
+Outfit should be feminine and sophisticated with a minimalist vintage-inspired feel. Add tasteful accessories such as a small structured handbag, delicate jewelry, and elegant shoes where appropriate.
 
-CHARACTER SHEET LAYOUT:
+Composition should feel like a genuine lifestyle photograph rather than an AI-generated portrait. Natural body proportions, realistic hands and fingers, authentic fabric texture, realistic lighting and shadows.
 
-TOP SECTION:
-Show THREE consistent full-body views of the same woman:
+Create the final image as a refined editorial scrapbook-style photograph:
+- warm ivory/beige paper-inspired background
+- softly isolated central subject
+- subtle hand-painted/watercolor edges around the photograph
+- slightly imperfect organic cutout effect
+- delicate vintage paper texture
+- minimal elegant typography area underneath
+- calm nostalgic mood
+- sophisticated feminine aesthetic
+- lots of clean negative space
 
-1. FRONT VIEW
-Standing naturally with one hand in her trouser pocket and the other holding the black shoulder bag.
+IMPORTANT:
+The face reference controls ONLY the woman's identity.
+The scene/reference images control the visual concept.
+Do not merge or copy another person's face.
+Keep the woman's identity consistent and recognizable throughout the entire image.
 
-2. SIDE VIEW
-Natural three-quarter side profile, clearly showing her face, long hair, coat silhouette and shoulder bag.
-
-3. BACK VIEW
-Full back view showing the long brown coat, hairstyle, trousers and shoulder bag.
-
-FACIAL EXPRESSIONS:
-Create four close-up portraits using the EXACT SAME FACE:
-• Neutral
-• Thoughtful
-• Happy
-• Determined
-
-Keep facial identity consistent across all expressions.
-
-IN ACTION:
-Create four lifestyle poses:
-• EXPLORE — walking outdoors with sunglasses and coffee
-• CREATE — sitting with a laptop
-• SHOOT — holding a professional camera
-• TRAVEL — walking confidently with shoulder bag
-
-OUTFIT / MATERIALS:
-Show clean visual material references for:
-• Brown wool-blend coat
-• Black ribbed turtleneck
-• Dark charcoal tailored trousers
-• Black leather shoulder bag
-• Black leather loafers
-• Black sunglasses
-
-KEY ATTRIBUTES:
-Creative
-Empathetic
-Adventurous
-Independent
-Adaptable
-Resilient
-
-COLOR PALETTE:
-Black, charcoal gray, warm brown, beige, dark burgundy, muted olive green.
-
-CHARACTER NOTES:
-Finds beauty in small moments.
-Believes in people and new ideas.
-Turns emotions into creative work.
-Always searching for what's next.
-Sees the world from her own perspective.
-
-DESIGN:
-Luxury fashion editorial character sheet, premium magazine layout, warm beige background, elegant typography, clean professional grid, realistic studio photography, subtle shadows, cinematic soft lighting, natural skin texture, photorealistic, highly detailed, cohesive visual identity.
-
-CRITICAL CONSISTENCY:
-The SAME WOMAN must appear in every panel.
-The uploaded reference photo is the ONLY source of truth for her face.
-Do not change her facial identity between panels.
-Do not copy the uploaded photo's clothing.
-Keep the specified brown coat, black turtleneck, dark trousers, black loafers and black shoulder bag in every relevant panel.
-
-Add tasteful editorial typography:
-“CHARACTER SHEET”
-“CREATIVE GIRL”
-“Good Stories, Brighter People”
-
-Make it look like a professional AI character reference sheet created for a film, fashion campaign, or visual storytelling project.
+High-resolution photography, natural lighting, realistic skin texture, detailed clothing, realistic hands, authentic shadows, premium editorial composition, subtle analog film texture, soft focus falloff, photorealistic.
 ```
 
 </details>
 
-<a id="gpt-image-scrapbook-collage-identity-reference"></a>
-### 同一人物的暖色手帐风相框拼贴
-
-<a href="https://x.com/Adnan_Ai2/status/2103431738349502591"><img src="previews/gpt-image-scrapbook-collage-identity-reference.jpg" width="360"></a>
-
-先锁定参考图中的人物身份与固定服装，保证每个相框一致。画面是一张大的中心肖像加六个各带不同动作的相框，再列出手写涂鸦短语、暖米色墙面与灯光，最后用解剖结构负面词收尾。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/status/2103431738349502591) · 57 赞，统计于 2026-10-28
-
-[`scrapbook`](pages/zh/tags.md#tag-scrapbook) [`collage`](pages/zh/tags.md#tag-collage) [`identity-consistency`](pages/zh/tags.md#tag-identity-consistency) [`doodle`](pages/zh/tags.md#tag-doodle) [`lifestyle`](pages/zh/tags.md#tag-lifestyle)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create the same warm scrapbook-style collage, but featuring the exact same boy from the reference image. Keep his facial identity, short brown hair, light beard, dark navy jacket, white T-shirt, light blue jeans and white sneakers consistent in every frame. Place a large central portrait of him sitting casually and smiling on a cozy sofa, surrounded by six rustic wooden picture frames showing different actions: waving hello, drinking coffee from a “Good Vibes” mug, giving a thumbs-up, thinking with one hand on his chin, smiling confidently, and looking back over his shoulder. Use the same warm beige textured wall, cozy indoor background, plants, soft lamps and natural lifestyle atmosphere. Add hand-drawn black doodles, hearts and stars with handwritten phrases such as “Smile More,” “Just Being Me,” “Coffee Time,” “Work Hard Dream Big,” “Spread Love,” “Good Vibes Only,” “You Got This,” and “Same Boy Bigger Dreams.” Maintain consistent identity across every frame, realistic hands, natural expressions, detailed hair and clothing, warm cinematic lighting, professional photography, clean composition, ultra-realistic 4K, no distorted anatomy, no extra fingers or duplicated body parts.
-```
-
-</details>
-
-<a id="img-infographic"></a>
-## 信息图与幻灯片
-
-<a id="gpt-image-terrestrial-life-species-infographic"></a>
-### 带数据模块的蜜蜂科普信息图
-
-<a href="https://x.com/iamsofiaijaz/status/2113510238846672945"><img src="previews/gpt-image-terrestrial-life-species-infographic.jpg" width="360"></a>
-
-用主题占位符让同一模板适用于任意物种。逐一点明各个模块（档案侧栏、趣闻列表、尺寸对比、评分、栖息地图标、保护状态滑块），并把配色限定为柔和米色，呈现科学期刊质感。
-
-GPT Image 2.5 · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113510238846672945) · 230 赞，统计于 2026-10-28
-
-[`infographic`](pages/zh/tags.md#tag-infographic) [`educational`](pages/zh/tags.md#tag-educational) [`template`](pages/zh/tags.md#tag-template) [`scientific`](pages/zh/tags.md#tag-scientific) [`layout`](pages/zh/tags.md#tag-layout)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
-```
-
-</details>
-
-<a id="gpt-image-photo-to-character-sheet-poses"></a>
-### 参考照片生成带姿势的编辑风角色设定卡
-
-<a href="https://x.com/Arzoo12sh/status/2102350375076626738"><img src="previews/gpt-image-photo-to-character-sheet-poses.jpg" width="360"></a>
-
-提示词用参考照片锁定人物，并固定服装和手持道具，让各视角保持一致。随后逐项列出版面模块（三视图、表情、动作姿势、材质特写、色板），带出有标注的编辑风排版。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Arzoo12sh on X](https://x.com/Arzoo12sh/status/2102350375076626738) · 178 赞，统计于 2026-10-28
-
-[`character-sheet`](pages/zh/tags.md#tag-character-sheet) [`reference-photo`](pages/zh/tags.md#tag-reference-photo) [`turnaround`](pages/zh/tags.md#tag-turnaround) [`editorial-layout`](pages/zh/tags.md#tag-editorial-layout) [`consistency`](pages/zh/tags.md#tag-consistency)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a high-resolution professional character sheet of the same young woman from the reference image. Show front, side, and back full-body views, plus multiple facial expressions and dynamic poses. She wears an all-black sweatshirt and black cargo pants, white chunky sneakers, and a black crossbody shoulder bag, holding the same clear cup/bottle of yellow iced drink in her hand. Keep her long brown hair and facial features consistent with the reference. Use a clean light beige/gray studio background, realistic photography, consistent face and body across every pose, editorial character-design sheet layout, neat typography, thin dividers, material close-ups, color palette, and professional poster composition.
-```
-
-</details>
-
-<a id="gpt-image-cellular-respiration-diagram"></a>
-### 高中生物课用的细胞呼吸示意图
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="previews/gpt-image-cellular-respiration-diagram.jpg" width="360"></a>
-
-按教学设计来写：受众、标题、必须出现的阶段和每个要标注的分子，再写明要避免什么。标注密集时用 high 质量。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
-
-[`education`](pages/zh/tags.md#tag-education) [`biology`](pages/zh/tags.md#tag-biology) [`diagram`](pages/zh/tags.md#tag-diagram)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
-
-Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
-Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
-Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
-
-Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
-```
-
-</details>
-
-<a id="gpt-image-coffee-machine-flow-infographic"></a>
-### 全自动咖啡机工作流程信息图
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"><img src="previews/gpt-image-coffee-machine-flow-infographic.jpg" width="360"></a>
-
-三句大白话交代机器、部件顺序和想看懂流程的目的，版式和标注交给模型。出图后要核对标注是否正确。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
-
-[`infographic`](pages/zh/tags.md#tag-infographic) [`technical`](pages/zh/tags.md#tag-technical) [`diagram`](pages/zh/tags.md#tag-diagram)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
-From bean basket, to grinding, to scale, water tank, boiler, etc.
-I'd like to understand technically and visually the flow.
-```
-
-</details>
-
-<a id="gpt-image-market-opportunity-slide"></a>
-### 带具体数字的融资路演市场规模页
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="previews/gpt-image-market-opportunity-slide.jpg" width="360"></a>
-
-按幻灯片规格来写，直接给出数字、图表类型、脚注和标志位置，再列出要避免的东西。示例数字是虚构的，使用前要换成真实数据。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
-
-[`slide`](pages/zh/tags.md#tag-slide) [`chart`](pages/zh/tags.md#tag-chart) [`startup`](pages/zh/tags.md#tag-startup)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
-
-Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
-
-* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
-* Specific, believable market sizing numbers:
-
-  * **TAM:** $42B
-  * **SAM:** $8.7B
-  * **SOM:** $340M
-* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
-* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
-* A company logo placeholder in the bottom-right corner
-
-The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
-
-Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
-```
-
-</details>
-
-<a id="gpt-image-translate-infographic-spanish"></a>
-### 把信息图翻译成西班牙语，版式不动
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"><img src="previews/gpt-image-translate-infographic-spanish.jpg" width="360"></a>
-
-在咖啡机信息图上做的一句话编辑。出图后检查有没有漏翻的词。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
-
-[`translation`](pages/zh/tags.md#tag-translation) [`edit`](pages/zh/tags.md#tag-edit) [`text-render`](pages/zh/tags.md#tag-text-render)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-sunburst.webp)
-
-<a id="img-brand"></a>
-## 标志、广告与包装
-
-<a id="gpt-image-bakery-logo-transparent"></a>
-### 透明背景的面包店标志
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="previews/gpt-image-bakery-logo-transparent.jpg" width="360"></a>
-
-要求原创、在大小尺寸下都清楚，再把透明背景写到位：干净的 alpha 边缘、不要底色、不要棋盘格。调用时同时设 background=transparent。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
-
-[`logo`](pages/zh/tags.md#tag-logo) [`transparent`](pages/zh/tags.md#tag-transparent) [`vector`](pages/zh/tags.md#tag-vector)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
-The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
-Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
-Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
-```
-
-</details>
-
-<a id="gpt-image-billboard-winter-evening"></a>
-### 同一块广告牌改成下雪的冬夜
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="previews/gpt-image-billboard-winter-evening.jpg" width="360"></a>
-
-把上一步的成品作为输入，只提一个改动。每次只改一处，才看得出是哪一步起了作用。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
-
-[`multi-turn`](pages/zh/tags.md#tag-multi-turn) [`weather`](pages/zh/tags.md#tag-weather) [`edit`](pages/zh/tags.md#tag-edit)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Make it look like a winter evening with snowfall.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp)
-
-<a id="gpt-image-product-cutout-transparent"></a>
-### 产品抠图，透明背景
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"><img src="previews/gpt-image-product-cutout-transparent.jpg" width="360"></a>
-
-要求轮廓干净无白边、形状和标签原样保留，并禁止背景和画出来的棋盘格。输出用 PNG 或 WebP，并设 background=transparent。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
-
-[`product`](pages/zh/tags.md#tag-product) [`transparent`](pages/zh/tags.md#tag-transparent) [`cutout`](pages/zh/tags.md#tag-cutout)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Extract the product from the input image and isolate it on a fully transparent background.
-Output: centered product, crisp silhouette, no halos/fringing.
-Preserve product geometry and label legibility exactly.
-Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
-Do not restyle the product; remove the background and preserve clean alpha transparency.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
-
-<a id="gpt-image-shampoo-highway-billboard"></a>
-### 日落高速路旁的洗发水广告牌
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="previews/gpt-image-shampoo-highway-billboard.jpg" width="360"></a>
-
-把照片里的产品放上广告牌，文案注明逐字照写，并规定字体和只出现一次。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
-
-[`billboard`](pages/zh/tags.md#tag-billboard) [`product`](pages/zh/tags.md#tag-product) [`text-render`](pages/zh/tags.md#tag-text-render)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
-Billboard text (EXACT, verbatim, no extra characters):
-"Fresh and clean"
-Typography: bold sans-serif, high contrast, centered, clean kerning.
-Ensure text appears once and is perfectly legible.
-No watermarks, no logos.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
-
-<a id="gpt-image-streetwear-campaign-tagline"></a>
-### 街头服饰广告大片，标语只出现一次
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="previews/gpt-image-streetwear-campaign-tagline.jpg" width="360"></a>
-
-标语加引号，并要求只出现一次，再禁止多余文字、水印和无关标志。凡是有固定文案的广告都可以照这个写。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
-
-[`ad`](pages/zh/tags.md#tag-ad) [`fashion`](pages/zh/tags.md#tag-fashion) [`text-render`](pages/zh/tags.md#tag-text-render)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Give me a cool in culture ad / fashion shot for a brand called Thread.
-It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
-Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
-Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
-Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
-No extra text, no watermarks, no unrelated logos.
-```
-
-</details>
-
-<a id="gpt-image-toy-airplane-collectible-box"></a>
-### 节日限定玩具飞机收藏版包装
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="previews/gpt-image-toy-airplane-collectible-box.jpg" width="360"></a>
-
-用产品摄影的说法写材质、灯光和标签印刷，要求原创设计，包装文字逐字固定。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
-
-[`packaging`](pages/zh/tags.md#tag-packaging) [`product`](pages/zh/tags.md#tag-product) [`toy`](pages/zh/tags.md#tag-toy)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
-
-Concept:
-A nostalgic holiday collectible inspired by the simple toy airplanes
-children used to play with during winter holidays.
-Evokes warmth, imagination, and childhood wonder.
-
-Style:
-Premium toy photography, realistic plastic and painted metal textures,
-studio lighting, shallow depth of field,
-sharp label printing, high-end retail presentation.
-
-Constraints:
-- Original design only
-- No trademarks
-- No watermarks
-- No logos
-
-Include ONLY this packaging text (verbatim):
-"Christmas Memories Edition"
-```
-
-</details>
+**[全部 30 条](pages/zh/image-collage.md)**
 
 <a id="img-edit"></a>
 ## 照片编辑
+
+<a id="gpt-image-selfie-chibi-sticker-doodle-edit"></a>
+### 电梯镜面自拍加Q版贴纸涂鸦
+
+<a href="https://x.com/ChillaiKalan__/status/2050614367536939243"><img src="previews/gpt-image-selfie-chibi-sticker-doodle-edit.jpg" width="360"></a>
+
+提示词先锁定原图光线与色调，再叠加白色描边、多姿势的同脸Q版小人和简短手写字。限制文字数量并让吉祥物保持克制，避免画面拥挤。
+
+GPT Image 2 · 上传图改图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2050614367536939243) · 1,255 赞，统计于 2026-10-28
+
+[`doodle`](pages/zh/tags.md#tag-doodle) [`chibi`](pages/zh/tags.md#tag-chibi) [`sticker-outline`](pages/zh/tags.md#tag-sticker-outline) [`xiaohongshu`](pages/zh/tags.md#tag-xiaohongshu) [`selfie`](pages/zh/tags.md#tag-selfie)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit while keeping the original composition and colors natural. Do NOT heavily change the original lighting or color grading. Keep the tones soft, airy, warm, and realistic. Avoid oversaturated colors, HDR effects, strong orange filters, or excessive contrast.￼ Add hand-drawn doodle elements around the main objects: * white outline strokes * sketchy sparkles * stars * hearts * arrows * tiny flowers * playful swirls * mini handwritten notes Add small cute mascot-style doodles that match the vibe of the photo (tiny bear, smiling drink, cute food character, sleepy cloud, etc.) but keep them subtle and balanced. Use handwritten white text with short relatable captions only. Do NOT add too many words or overcrowd the image.Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features.Chibi characters have various poses and expressions: jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions.￼ ￼ Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
+```
+
+</details>
+
+<a id="nano-banana-json-reconstruction"></a>
+### 逐项复刻一张照片的 JSON 提示词
+
+<a href="https://x.com/ViralOps_/status/2107538470818484305"><img src="previews/nano-banana-json-reconstruction.jpg" width="360"></a>
+
+按 JSON 字段写（构图、光线、色彩、负面词）。原帖用同一段 JSON 对比了 Nano Banana 2.1 和 GPT Image 2.5。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@ViralOps_ on X](https://x.com/ViralOps_/status/2107538470818484305) · 326 赞，统计于 2026-10-27
+
+[`json`](pages/zh/tags.md#tag-json) [`reconstruction`](pages/zh/tags.md#tag-reconstruction) [`comparison`](pages/zh/tags.md#tag-comparison)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "prompt_type": "detailed_image_reconstruction",
+  "aspect_ratio": "4:5 vertical portrait",
+  "overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
+
+  "subject": {
+    "type": "young adult woman",
+    "age_range": "early to mid 20s",
+    "pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
+    "body_position": "relaxed casual posture with shoulders slightly angled",
+    "expression": "soft neutral expression with a subtle pout, calm and confident",
+    "gaze": "looking directly toward the camera",
+    "styling": "minimal everyday styling, clean and natural"
+  },
+
+  "face": {
+    "shape": "soft oval face with a gently tapered jawline",
+    "forehead": "medium-height forehead partly framed by center-parted hair",
+    "eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
+    "eyes": {
+      "shape": "almond-shaped",
+      "color": "light brown to hazel",
+      "appearance": "bright eyes with visible catchlights",
+      "lashes": "long defined eyelashes with subtle mascara"
+    },
+    "nose": "small straight nose with a softly rounded tip",
+    "lips": {
+      "shape": "full lips with a defined cupid's bow",
+      "color": "natural rosy pink",
+      "finish": "soft satin finish, not glossy"
+    },
+    "skin": {
+      "tone": "light warm-neutral skin tone",
+      "texture": "smooth natural skin with subtle pores and realistic tonal variation",
+      "cheeks": "soft natural pink flush",
+      "finish": "fresh luminous skin without heavy retouching"
+    },
+    "makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
+  },
+
+  "hair": {
+    "color": "rich medium-to-dark chocolate brown",
+    "length": "very long, extending well below the chest",
+    "parting": "clean center part",
+    "texture": "mostly straight with very soft natural bends through the lower lengths",
+    "density": "thick and healthy-looking",
+    "finish": "smooth and glossy but still realistic",
+    "front_sections": "two thin face-framing strands falling naturally along both sides of the face",
+    "details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
+    "movement": "hair hanging naturally over both shoulders and down the front of the shirt"
+  },
+
+  "clothing": {
+    "top": "oversized plain white crew-neck T-shirt",
+    "fit": "loose casual fit",
+    "fabric": "soft slightly wrinkled cotton",
+    "logos": "none",
+    "accessories": "no visible jewelry or prominent accessories"
+  },
+
+  "composition": {
+    "shot_type": "close upper-body portrait",
+    "camera_angle": "slightly above chest level, close to eye level",
+    "camera_distance": "approximately arm's-length smartphone distance",
+    "subject_position": "face slightly right of center with long hair occupying much of the lower frame",
+    "crop": "top of head fully visible, image extending down to around lower torso",
+    "orientation": "vertical",
+    "perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
+  },
+
+  "lighting": {
+    "primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
+    "direction": "sunlight striking the subject from camera-left/front",
+    "face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
+    "hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
+    "shadow_quality": "strong but soft-edged natural indoor shadows",
+    "exposure": "face slightly brightly exposed while the room behind remains much darker",
+    "color_temperature": "warm daylight"
+  },
+
+  "environment": {
+    "location": "casual indoor residential room",
+    "background": "dark gray walls with a white ceiling cornice",
+    "left_background": "open doorway or darker hallway area",
+    "right_background": "dark wall and partially visible household objects",
+    "lower_right": "part of a black tripod or light stand visible",
+    "overall_feel": "ordinary lived-in room rather than a studio",
+    "depth": "background moderately out of focus but still recognizable"
+  },
+
+  "camera": {
+    "capture_device": "modern smartphone camera",
+    "lens_equivalent": "approximately 24-28mm full-frame equivalent",
+    "focus": "sharp focus on face and front hair",
+    "depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
+    "dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
+    "image_character": "casual social-media selfie/photo, not professionally staged"
+  },
+
+  "photorealism_details": [
+    "real individual hair strands",
+    "natural skin pores and micro-texture",
+    "subtle peach fuzz",
+    "realistic eyelash separation",
+    "tiny variations in lip texture",
+    "slight fabric creases in the T-shirt",
+    "small flyaway hairs around the crown",
+    "natural sunlight falloff across the face",
+    "slightly imperfect casual framing",
+    "realistic indoor shadow noise"
+  ],
+
+  "style": {
+    "visual_style": "highly photorealistic casual smartphone portrait",
+    "mood": "soft, youthful, relaxed, sunlit",
+    "processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
+    "avoid": [
+      "cinematic movie lighting",
+      "studio portrait lighting",
+      "overly smooth plastic skin",
+      "CGI appearance",
+      "anime or illustration",
+      "heavy beauty filter",
+      "extreme facial symmetry",
+      "over-sharpened hair",
+      "artificial jet-black hair",
+      "dramatic makeup",
+      "excessive background blur",
+      "professional studio backdrop",
+      "text",
+      "watermarks",
+      "logos"
+    ]
+  },
+
+  "negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
+}
+```
+
+</details>
 
 <a id="gpt-image-mural-twin-half-heart-illusion"></a>
 ### 女子与壁画分身合成一颗爱心
@@ -4946,115 +4353,26 @@ two people making heart shape, one real one painted, fingertip connection point,
 
 </details>
 
-<a id="gpt-image-outfit-swap-keep-identity"></a>
-### 用三件参考服装换装，人物不变
+<a id="gpt-image-minimi-tiny-figures-photo-world"></a>
+### 人像照片周围的迷你3D小人互动
 
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"><img src="previews/gpt-image-outfit-swap-keep-identity.jpg" width="360"></a>
+<a href="https://x.com/Zyrellix/status/2055486410749309438"><img src="previews/gpt-image-minimi-tiny-figures-photo-world.jpg" width="360"></a>
 
-先列出人物身上所有必须不变的东西，只放开服装，再要求光影匹配原图。要让产品保持可辨认也可以照这个写。预览图为 Sunburst 版本。
+提示词列出小人的具体互动，如坐在肩上和包上、挥手、模仿姿势，每个小人都有明确动作。同时要求保留原照片并带真实阴影和景深，让小人自然融入而不是重绘照片。
 
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+GPT Image 2 · 上传图改图 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/status/2055486410749309438) · 212 赞，统计于 2026-10-28
 
-[`virtual-try-on`](pages/zh/tags.md#tag-virtual-try-on) [`fashion`](pages/zh/tags.md#tag-fashion) [`identity`](pages/zh/tags.md#tag-identity)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
-
-<a id="gpt-image-person-into-campsite-scene"></a>
-### 把人物放进黄昏营地逃跑的场景
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"><img src="previews/gpt-image-person-into-campsite-scene.jpg" width="360"></a>
-
-写清姿态、视线、服装、地点和时间，并反复要求像真实照片，不要电影海报感。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
-
-[`identity`](pages/zh/tags.md#tag-identity) [`action`](pages/zh/tags.md#tag-action) [`photorealism`](pages/zh/tags.md#tag-photorealism)
+[`minimi`](pages/zh/tags.md#tag-minimi) [`miniature`](pages/zh/tags.md#tag-miniature) [`photo-to-3d`](pages/zh/tags.md#tag-photo-to-3d) [`portrait`](pages/zh/tags.md#tag-portrait) [`chibi`](pages/zh/tags.md#tag-chibi)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
-She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
-The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”
 ```
 
 </details>
 
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp)
-
-<a id="gpt-image-place-dog-into-scene"></a>
-### 把一张照片里的狗放进另一张照片
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#combine-references"><img src="previews/gpt-image-place-dog-into-scene.jpg" width="360"></a>
-
-按编号指明图片，写清移动什么、放到哪里、什么不变。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
-
-[`composite`](pages/zh/tags.md#tag-composite) [`reference`](pages/zh/tags.md#tag-reference) [`pets`](pages/zh/tags.md#tag-pets)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp)
-
-<a id="gpt-image-remove-object-from-hand"></a>
-### 去掉男人手里的花
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"><img src="previews/gpt-image-remove-object-from-hand.jpg" width="360"></a>
-
-只点名要去掉的那一个物体，并要求其他都不变，不用蒙版也能把改动限制在局部。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
-
-[`remove`](pages/zh/tags.md#tag-remove) [`inpainting`](pages/zh/tags.md#tag-inpainting) [`local-edit`](pages/zh/tags.md#tag-local-edit)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Remove the flower from man's hand. Do not change anything else.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp)
-
-<a id="gpt-image-swap-kitchen-chairs"></a>
-### 厨房照片里只换椅子
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"><img src="previews/gpt-image-swap-kitchen-chairs.jpg" width="360"></a>
-
-用大写的 ONLY 限定唯一要换的东西，并列出要保留的机位、光线、地面阴影和周围物品。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
-
-[`interior`](pages/zh/tags.md#tag-interior) [`local-edit`](pages/zh/tags.md#tag-local-edit) [`photorealism`](pages/zh/tags.md#tag-photorealism)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-In this room photo, replace ONLY the white chairs with chairs made of wood.
-Preserve camera angle, room lighting, floor shadows, and surrounding objects.
-Keep all other aspects of the image unchanged.
-Photorealistic contact shadows and fabric texture.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp)
+**[全部 22 条](pages/zh/image-edit.md)**
 
 <a id="recipes"></a>
 ## Agent 配方：剪视频
@@ -5226,9 +4544,9 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 <a id="tags"></a>
 ## 按标签浏览
 
-[`multi-shot`](pages/zh/tags.md#tag-multi-shot) 56 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 46 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 44 · [`action`](pages/zh/tags.md#tag-action) 41 · [`handheld`](pages/zh/tags.md#tag-handheld) 40 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 27 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 26 · [`template`](pages/zh/tags.md#tag-template) 24 · [`vertical`](pages/zh/tags.md#tag-vertical) 24 · [`anime`](pages/zh/tags.md#tag-anime) 23 · [`fashion`](pages/zh/tags.md#tag-fashion) 22 · [`macro`](pages/zh/tags.md#tag-macro) 22 · [`vlog`](pages/zh/tags.md#tag-vlog) 21 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 21 · [`comedy`](pages/zh/tags.md#tag-comedy) 20 · [`long-take`](pages/zh/tags.md#tag-long-take) 19 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 17 · [`editorial`](pages/zh/tags.md#tag-editorial) 15 · [`timed-shots`](pages/zh/tags.md#tag-timed-shots) 14 · [`sci-fi`](pages/zh/tags.md#tag-sci-fi) 14 · [`tracking-shot`](pages/zh/tags.md#tag-tracking-shot) 14 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 14 · [`martial-arts`](pages/zh/tags.md#tag-martial-arts) 13 · [`3d-animation`](pages/zh/tags.md#tag-3d-animation) 12 · [`timed-beats`](pages/zh/tags.md#tag-timed-beats) 12 · [`food`](pages/zh/tags.md#tag-food) 12 · [`slow-motion`](pages/zh/tags.md#tag-slow-motion) 12 · [`selfie`](pages/zh/tags.md#tag-selfie) 12 · [`dv-camcorder`](pages/zh/tags.md#tag-dv-camcorder) 11 · [`commercial`](pages/zh/tags.md#tag-commercial) 11 · [`portrait`](pages/zh/tags.md#tag-portrait) 11 · [`ugc`](pages/zh/tags.md#tag-ugc) 11 · [`typography`](pages/zh/tags.md#tag-typography) 11 · [`sound-design`](pages/zh/tags.md#tag-sound-design) 11 · [`character-reference`](pages/zh/tags.md#tag-character-reference) 11 · [`pov`](pages/zh/tags.md#tag-pov) 11 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 11 · [`motion-graphics`](pages/zh/tags.md#tag-motion-graphics) 10 · [`lip-sync`](pages/zh/tags.md#tag-lip-sync) 10 · [`rain`](pages/zh/tags.md#tag-rain) 10 · [`dragon`](pages/zh/tags.md#tag-dragon) 10 · [`dark-fantasy`](pages/zh/tags.md#tag-dark-fantasy) 10 · [`multi-scene`](pages/zh/tags.md#tag-multi-scene) 10 · [`korean`](pages/zh/tags.md#tag-korean) 10 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 10 · [`kinetic-typography`](pages/zh/tags.md#tag-kinetic-typography) 9 · [`creature`](pages/zh/tags.md#tag-creature) 9 · [`lifestyle`](pages/zh/tags.md#tag-lifestyle) 9 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 9 · [`documentary`](pages/zh/tags.md#tag-documentary) 8 · [`dance`](pages/zh/tags.md#tag-dance) 8 · [`animals`](pages/zh/tags.md#tag-animals) 8 · [`miniature`](pages/zh/tags.md#tag-miniature) 8 · [`home-video`](pages/zh/tags.md#tag-home-video) 8 · [`architecture`](pages/zh/tags.md#tag-architecture) 8 · [`watercolor`](pages/zh/tags.md#tag-watercolor) 8 · [`music-video`](pages/zh/tags.md#tag-music-video) 7 · [`sports`](pages/zh/tags.md#tag-sports) 7 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 7 · [`transformation`](pages/zh/tags.md#tag-transformation) 7 · [`structured-prompt`](pages/zh/tags.md#tag-structured-prompt) 7 · [`vfx`](pages/zh/tags.md#tag-vfx) 7 · [`film-grain`](pages/zh/tags.md#tag-film-grain) 7 · [`text-render`](pages/zh/tags.md#tag-text-render) 7 · [`product-commercial`](pages/zh/tags.md#tag-product-commercial) 7 · [`video-edit`](pages/zh/tags.md#tag-video-edit) 7 · [`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration) 7 · [`split-layout`](pages/zh/tags.md#tag-split-layout) 7 · [`poster`](pages/zh/tags.md#tag-poster) 7 · [`outfit-change`](pages/zh/tags.md#tag-outfit-change) 6 · [`surreal`](pages/zh/tags.md#tag-surreal) 6 · [`storytelling`](pages/zh/tags.md#tag-storytelling) 6 · [`travel`](pages/zh/tags.md#tag-travel) 6 · [`multi-reference`](pages/zh/tags.md#tag-multi-reference) 6 · [`one-take`](pages/zh/tags.md#tag-one-take) 6 · [`sfx`](pages/zh/tags.md#tag-sfx) 6 · [`fight-scene`](pages/zh/tags.md#tag-fight-scene) 6 · [`object-swap`](pages/zh/tags.md#tag-object-swap) 6 · [`character-sheet`](pages/zh/tags.md#tag-character-sheet) 6 · [`photo-to-art`](pages/zh/tags.md#tag-photo-to-art) 6 · [`timeline-prompt`](pages/zh/tags.md#tag-timeline-prompt) 5 · [`time-lapse`](pages/zh/tags.md#tag-time-lapse) 5 · [`japanese`](pages/zh/tags.md#tag-japanese) 5 · [`timestamped`](pages/zh/tags.md#tag-timestamped) 5 · [`low-angle`](pages/zh/tags.md#tag-low-angle) 5 · [`collage`](pages/zh/tags.md#tag-collage) 5 · [`night`](pages/zh/tags.md#tag-night) 5 · [`native-audio`](pages/zh/tags.md#tag-native-audio) 5 · [`multilingual`](pages/zh/tags.md#tag-multilingual) 5 · [`film-look`](pages/zh/tags.md#tag-film-look) 5 · [`camera-move`](pages/zh/tags.md#tag-camera-move) 5 · [`style-transfer`](pages/zh/tags.md#tag-style-transfer) 5 · [`music`](pages/zh/tags.md#tag-music) 5 · [`chase`](pages/zh/tags.md#tag-chase) 5 · [`multi-turn-edit`](pages/zh/tags.md#tag-multi-turn-edit) 5 · [`consistency`](pages/zh/tags.md#tag-consistency) 5 · [`landmark`](pages/zh/tags.md#tag-landmark) 5 · [`street`](pages/zh/tags.md#tag-street) 5 · [`horror`](pages/zh/tags.md#tag-horror) 5 · [`couple`](pages/zh/tags.md#tag-couple) 5 · [`nature`](pages/zh/tags.md#tag-nature) 5 · [`character`](pages/zh/tags.md#tag-character) 5 · [`photorealism`](pages/zh/tags.md#tag-photorealism) 5 · [`illustration`](pages/zh/tags.md#tag-illustration) 5 · [`minimalist`](pages/zh/tags.md#tag-minimalist) 5 · [`grid`](pages/zh/tags.md#tag-grid) 5 · [`agent-editing`](pages/zh/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/zh/tags.md#tag-ffmpeg) 5 · [`historical`](pages/zh/tags.md#tag-historical) 4 · [`timeline`](pages/zh/tags.md#tag-timeline) 4 · [`travel-vlog`](pages/zh/tags.md#tag-travel-vlog) 4 · [`luxury`](pages/zh/tags.md#tag-luxury) 4 · [`montage`](pages/zh/tags.md#tag-montage) 4 · [`locked-camera`](pages/zh/tags.md#tag-locked-camera) 4 · [`chinese-dialogue`](pages/zh/tags.md#tag-chinese-dialogue) 4 · [`ambient-sound`](pages/zh/tags.md#tag-ambient-sound) 4 · [`physics`](pages/zh/tags.md#tag-physics) 4 · [`landscape`](pages/zh/tags.md#tag-landscape) 4 · [`voiceover`](pages/zh/tags.md#tag-voiceover) 4 · [`keyframes`](pages/zh/tags.md#tag-keyframes) 4 · [`kids-education`](pages/zh/tags.md#tag-kids-education) 4 · [`hud`](pages/zh/tags.md#tag-hud) 4 · [`snow`](pages/zh/tags.md#tag-snow) 4 · [`day-in-the-life`](pages/zh/tags.md#tag-day-in-the-life) 4 · [`romance`](pages/zh/tags.md#tag-romance) 4 · [`product`](pages/zh/tags.md#tag-product) 4 · [`diorama`](pages/zh/tags.md#tag-diorama) 4 · [`sketchbook`](pages/zh/tags.md#tag-sketchbook) 4 · [`editorial-poster`](pages/zh/tags.md#tag-editorial-poster) 4 · [`paper-texture`](pages/zh/tags.md#tag-paper-texture) 4 · [`education`](pages/zh/tags.md#tag-education) 3 · [`fashion-film`](pages/zh/tags.md#tag-fashion-film) 3 · [`korean-dialogue`](pages/zh/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/zh/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/zh/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/zh/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/zh/tags.md#tag-hard-cuts) 3 · [`cyberpunk`](pages/zh/tags.md#tag-cyberpunk) 3 · [`pets`](pages/zh/tags.md#tag-pets) 3 · [`audio-sync`](pages/zh/tags.md#tag-audio-sync) 3 · [`halftone`](pages/zh/tags.md#tag-halftone) 3 · [`product-ad`](pages/zh/tags.md#tag-product-ad) 3 · [`single-take`](pages/zh/tags.md#tag-single-take) 3 · [`single-shot`](pages/zh/tags.md#tag-single-shot) 3 · [`lo-fi`](pages/zh/tags.md#tag-lo-fi) 3 · [`cafe`](pages/zh/tags.md#tag-cafe) 3 · [`aerial`](pages/zh/tags.md#tag-aerial) 3 · [`period`](pages/zh/tags.md#tag-period) 3 · [`image-to-video`](pages/zh/tags.md#tag-image-to-video) 3 · [`push-in`](pages/zh/tags.md#tag-push-in) 3 · [`felt`](pages/zh/tags.md#tag-felt) 3 · [`asmr`](pages/zh/tags.md#tag-asmr) 3 · [`mixed-media`](pages/zh/tags.md#tag-mixed-media) 3 · [`close-up`](pages/zh/tags.md#tag-close-up) 3 · [`autumn`](pages/zh/tags.md#tag-autumn) 3 · [`line-art`](pages/zh/tags.md#tag-line-art) 3 · [`short-film`](pages/zh/tags.md#tag-short-film) 3 · [`subtitles`](pages/zh/tags.md#tag-subtitles) 3 · [`subway`](pages/zh/tags.md#tag-subway) 3 · [`action-comedy`](pages/zh/tags.md#tag-action-comedy) 3 · [`crowd`](pages/zh/tags.md#tag-crowd) 3 · [`realism`](pages/zh/tags.md#tag-realism) 3 · [`pet`](pages/zh/tags.md#tag-pet) 3 · [`vintage`](pages/zh/tags.md#tag-vintage) 3 · [`world-building`](pages/zh/tags.md#tag-world-building) 3 · [`doodle`](pages/zh/tags.md#tag-doodle) 3 · [`screenshot`](pages/zh/tags.md#tag-screenshot) 3 · [`camera-roll`](pages/zh/tags.md#tag-camera-roll) 3 · [`smartphone-photo`](pages/zh/tags.md#tag-smartphone-photo) 3 · [`natural-light`](pages/zh/tags.md#tag-natural-light) 3 · [`identity-preservation`](pages/zh/tags.md#tag-identity-preservation) 3 · [`scrapbook`](pages/zh/tags.md#tag-scrapbook) 3 · [`ink-illustration`](pages/zh/tags.md#tag-ink-illustration) 3 · [`flat-color`](pages/zh/tags.md#tag-flat-color) 3 · [`split-composition`](pages/zh/tags.md#tag-split-composition) 3
+[`cinematic`](pages/zh/tags.md#tag-cinematic) 59 · [`template`](pages/zh/tags.md#tag-template) 58 · [`multi-shot`](pages/zh/tags.md#tag-multi-shot) 56 · [`fashion`](pages/zh/tags.md#tag-fashion) 45 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 44 · [`handheld`](pages/zh/tags.md#tag-handheld) 41 · [`action`](pages/zh/tags.md#tag-action) 41 · [`portrait`](pages/zh/tags.md#tag-portrait) 40 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 39 · [`editorial`](pages/zh/tags.md#tag-editorial) 37 · [`typography`](pages/zh/tags.md#tag-typography) 35 · [`anime`](pages/zh/tags.md#tag-anime) 28 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 28 · [`macro`](pages/zh/tags.md#tag-macro) 27 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 27 · [`vertical`](pages/zh/tags.md#tag-vertical) 27 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 25 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 25 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 25 · [`vlog`](pages/zh/tags.md#tag-vlog) 21 · [`pastel`](pages/zh/tags.md#tag-pastel) 21 · [`comedy`](pages/zh/tags.md#tag-comedy) 20 · [`infographic`](pages/zh/tags.md#tag-infographic) 20 · [`long-take`](pages/zh/tags.md#tag-long-take) 19 · [`miniature`](pages/zh/tags.md#tag-miniature) 19 · [`watercolor`](pages/zh/tags.md#tag-watercolor) 18 · [`food`](pages/zh/tags.md#tag-food) 17 · [`sci-fi`](pages/zh/tags.md#tag-sci-fi) 17 · [`film-grain`](pages/zh/tags.md#tag-film-grain) 17 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 17 · [`candid`](pages/zh/tags.md#tag-candid) 17 · [`character-sheet`](pages/zh/tags.md#tag-character-sheet) 16 · [`selfie`](pages/zh/tags.md#tag-selfie) 16 · [`split-layout`](pages/zh/tags.md#tag-split-layout) 15 · [`timed-shots`](pages/zh/tags.md#tag-timed-shots) 14 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 14 · [`tracking-shot`](pages/zh/tags.md#tag-tracking-shot) 14 · [`lifestyle`](pages/zh/tags.md#tag-lifestyle) 14 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 14 · [`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration) 14 · [`commercial`](pages/zh/tags.md#tag-commercial) 13 · [`character-reference`](pages/zh/tags.md#tag-character-reference) 13 · [`martial-arts`](pages/zh/tags.md#tag-martial-arts) 13 · [`grid`](pages/zh/tags.md#tag-grid) 13 · [`chibi`](pages/zh/tags.md#tag-chibi) 13 · [`scrapbook`](pages/zh/tags.md#tag-scrapbook) 13 · [`editorial-poster`](pages/zh/tags.md#tag-editorial-poster) 13 · [`3d-animation`](pages/zh/tags.md#tag-3d-animation) 12 · [`timed-beats`](pages/zh/tags.md#tag-timed-beats) 12 · [`slow-motion`](pages/zh/tags.md#tag-slow-motion) 12 · [`dragon`](pages/zh/tags.md#tag-dragon) 12 · [`collage`](pages/zh/tags.md#tag-collage) 12 · [`cafe`](pages/zh/tags.md#tag-cafe) 12 · [`pov`](pages/zh/tags.md#tag-pov) 12 · [`diorama`](pages/zh/tags.md#tag-diorama) 12 · [`monochrome`](pages/zh/tags.md#tag-monochrome) 12 · [`architecture`](pages/zh/tags.md#tag-architecture) 12 · [`minimalist`](pages/zh/tags.md#tag-minimalist) 12 · [`photo-to-art`](pages/zh/tags.md#tag-photo-to-art) 12 · [`dv-camcorder`](pages/zh/tags.md#tag-dv-camcorder) 11 · [`surreal`](pages/zh/tags.md#tag-surreal) 11 · [`ugc`](pages/zh/tags.md#tag-ugc) 11 · [`sound-design`](pages/zh/tags.md#tag-sound-design) 11 · [`dark-fantasy`](pages/zh/tags.md#tag-dark-fantasy) 11 · [`low-angle`](pages/zh/tags.md#tag-low-angle) 11 · [`multi-scene`](pages/zh/tags.md#tag-multi-scene) 11 · [`korean`](pages/zh/tags.md#tag-korean) 11 · [`identity-lock`](pages/zh/tags.md#tag-identity-lock) 11 · [`motion-graphics`](pages/zh/tags.md#tag-motion-graphics) 10 · [`lip-sync`](pages/zh/tags.md#tag-lip-sync) 10 · [`rain`](pages/zh/tags.md#tag-rain) 10 · [`travel`](pages/zh/tags.md#tag-travel) 10 · [`night`](pages/zh/tags.md#tag-night) 10 · [`film-look`](pages/zh/tags.md#tag-film-look) 10 · [`vintage`](pages/zh/tags.md#tag-vintage) 10 · [`fashion-editorial`](pages/zh/tags.md#tag-fashion-editorial) 10 · [`studio-lighting`](pages/zh/tags.md#tag-studio-lighting) 10 · [`storybook`](pages/zh/tags.md#tag-storybook) 10 · [`documentary`](pages/zh/tags.md#tag-documentary) 9 · [`dance`](pages/zh/tags.md#tag-dance) 9 · [`kinetic-typography`](pages/zh/tags.md#tag-kinetic-typography) 9 · [`animals`](pages/zh/tags.md#tag-animals) 9 · [`creature`](pages/zh/tags.md#tag-creature) 9 · [`landscape`](pages/zh/tags.md#tag-landscape) 9 · [`city`](pages/zh/tags.md#tag-city) 9 · [`face-reference`](pages/zh/tags.md#tag-face-reference) 9 · [`smartphone-photo`](pages/zh/tags.md#tag-smartphone-photo) 9 · [`style-transfer`](pages/zh/tags.md#tag-style-transfer) 8 · [`home-video`](pages/zh/tags.md#tag-home-video) 8 · [`couple`](pages/zh/tags.md#tag-couple) 8 · [`character`](pages/zh/tags.md#tag-character) 8 · [`doodle`](pages/zh/tags.md#tag-doodle) 8 · [`negative-space`](pages/zh/tags.md#tag-negative-space) 8 · [`poster`](pages/zh/tags.md#tag-poster) 8 · [`music-video`](pages/zh/tags.md#tag-music-video) 7 · [`sports`](pages/zh/tags.md#tag-sports) 7 · [`luxury`](pages/zh/tags.md#tag-luxury) 7 · [`storytelling`](pages/zh/tags.md#tag-storytelling) 7 · [`flat-vector`](pages/zh/tags.md#tag-flat-vector) 7 · [`multi-reference`](pages/zh/tags.md#tag-multi-reference) 7 · [`japanese`](pages/zh/tags.md#tag-japanese) 7 · [`transformation`](pages/zh/tags.md#tag-transformation) 7 · [`structured-prompt`](pages/zh/tags.md#tag-structured-prompt) 7 · [`vfx`](pages/zh/tags.md#tag-vfx) 7 · [`y2k`](pages/zh/tags.md#tag-y2k) 7 · [`text-render`](pages/zh/tags.md#tag-text-render) 7 · [`product-commercial`](pages/zh/tags.md#tag-product-commercial) 7 · [`video-edit`](pages/zh/tags.md#tag-video-edit) 7 · [`landmark`](pages/zh/tags.md#tag-landmark) 7 · [`hand-drawn`](pages/zh/tags.md#tag-hand-drawn) 7 · [`streetwear`](pages/zh/tags.md#tag-streetwear) 7 · [`3d-render`](pages/zh/tags.md#tag-3d-render) 7 · [`isometric`](pages/zh/tags.md#tag-isometric) 7 · [`outfit-change`](pages/zh/tags.md#tag-outfit-change) 6 · [`product-ad`](pages/zh/tags.md#tag-product-ad) 6 · [`one-take`](pages/zh/tags.md#tag-one-take) 6 · [`pencil-sketch`](pages/zh/tags.md#tag-pencil-sketch) 6 · [`sfx`](pages/zh/tags.md#tag-sfx) 6 · [`fight-scene`](pages/zh/tags.md#tag-fight-scene) 6 · [`object-swap`](pages/zh/tags.md#tag-object-swap) 6 · [`mixed-media`](pages/zh/tags.md#tag-mixed-media) 6 · [`street`](pages/zh/tags.md#tag-street) 6 · [`horror`](pages/zh/tags.md#tag-horror) 6 · [`negative-prompt`](pages/zh/tags.md#tag-negative-prompt) 6 · [`cute`](pages/zh/tags.md#tag-cute) 6 · [`realism`](pages/zh/tags.md#tag-realism) 6 · [`illustration`](pages/zh/tags.md#tag-illustration) 6 · [`layout`](pages/zh/tags.md#tag-layout) 6 · [`sketchbook`](pages/zh/tags.md#tag-sketchbook) 6 · [`studio-portrait`](pages/zh/tags.md#tag-studio-portrait) 6 · [`flash-photography`](pages/zh/tags.md#tag-flash-photography) 6 · [`doodle-overlay`](pages/zh/tags.md#tag-doodle-overlay) 6 · [`85mm`](pages/zh/tags.md#tag-85mm) 6 · [`double-exposure`](pages/zh/tags.md#tag-double-exposure) 6 · [`editorial-layout`](pages/zh/tags.md#tag-editorial-layout) 6 · [`screen-print`](pages/zh/tags.md#tag-screen-print) 6 · [`sunset`](pages/zh/tags.md#tag-sunset) 6 · [`paper-texture`](pages/zh/tags.md#tag-paper-texture) 6 · [`education`](pages/zh/tags.md#tag-education) 5 · [`timeline-prompt`](pages/zh/tags.md#tag-timeline-prompt) 5 · [`timeline`](pages/zh/tags.md#tag-timeline) 5 · [`travel-vlog`](pages/zh/tags.md#tag-travel-vlog) 5 · [`time-lapse`](pages/zh/tags.md#tag-time-lapse) 5 · [`timestamped`](pages/zh/tags.md#tag-timestamped) 5 · [`native-audio`](pages/zh/tags.md#tag-native-audio) 5 · [`multilingual`](pages/zh/tags.md#tag-multilingual) 5 · [`camera-move`](pages/zh/tags.md#tag-camera-move) 5 · [`studio`](pages/zh/tags.md#tag-studio) 5 · [`stop-motion`](pages/zh/tags.md#tag-stop-motion) 5 · [`music`](pages/zh/tags.md#tag-music) 5 · [`chase`](pages/zh/tags.md#tag-chase) 5 · [`multi-turn-edit`](pages/zh/tags.md#tag-multi-turn-edit) 5 · [`consistency`](pages/zh/tags.md#tag-consistency) 5 · [`cat`](pages/zh/tags.md#tag-cat) 5 · [`nature`](pages/zh/tags.md#tag-nature) 5 · [`product`](pages/zh/tags.md#tag-product) 5 · [`photorealism`](pages/zh/tags.md#tag-photorealism) 5 · [`identity-consistency`](pages/zh/tags.md#tag-identity-consistency) 5 · [`packaging`](pages/zh/tags.md#tag-packaging) 5 · [`turnaround`](pages/zh/tags.md#tag-turnaround) 5 · [`fisheye`](pages/zh/tags.md#tag-fisheye) 5 · [`campaign`](pages/zh/tags.md#tag-campaign) 5 · [`papercraft`](pages/zh/tags.md#tag-papercraft) 5 · [`motion-blur`](pages/zh/tags.md#tag-motion-blur) 5 · [`agent-editing`](pages/zh/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/zh/tags.md#tag-ffmpeg) 5 · [`historical`](pages/zh/tags.md#tag-historical) 4 · [`montage`](pages/zh/tags.md#tag-montage) 4 · [`cyberpunk`](pages/zh/tags.md#tag-cyberpunk) 4 · [`locked-camera`](pages/zh/tags.md#tag-locked-camera) 4 · [`halftone`](pages/zh/tags.md#tag-halftone) 4 · [`chinese-dialogue`](pages/zh/tags.md#tag-chinese-dialogue) 4 · [`nostalgic`](pages/zh/tags.md#tag-nostalgic) 4 · [`black-and-white`](pages/zh/tags.md#tag-black-and-white) 4 · [`ambient-sound`](pages/zh/tags.md#tag-ambient-sound) 4 · [`text-rendering`](pages/zh/tags.md#tag-text-rendering) 4 · [`silhouette`](pages/zh/tags.md#tag-silhouette) 4 · [`street-photography`](pages/zh/tags.md#tag-street-photography) 4 · [`physics`](pages/zh/tags.md#tag-physics) 4 · [`voiceover`](pages/zh/tags.md#tag-voiceover) 4 · [`keyframes`](pages/zh/tags.md#tag-keyframes) 4 · [`kids-education`](pages/zh/tags.md#tag-kids-education) 4 · [`claymation`](pages/zh/tags.md#tag-claymation) 4 · [`hud`](pages/zh/tags.md#tag-hud) 4 · [`asmr`](pages/zh/tags.md#tag-asmr) 4 · [`close-up`](pages/zh/tags.md#tag-close-up) 4 · [`snow`](pages/zh/tags.md#tag-snow) 4 · [`day-in-the-life`](pages/zh/tags.md#tag-day-in-the-life) 4 · [`romance`](pages/zh/tags.md#tag-romance) 4 · [`restaurant`](pages/zh/tags.md#tag-restaurant) 4 · [`thriller`](pages/zh/tags.md#tag-thriller) 4 · [`pixar-style`](pages/zh/tags.md#tag-pixar-style) 4 · [`world-building`](pages/zh/tags.md#tag-world-building) 4 · [`lookbook`](pages/zh/tags.md#tag-lookbook) 4 · [`sticker`](pages/zh/tags.md#tag-sticker) 4 · [`expressions`](pages/zh/tags.md#tag-expressions) 4 · [`reference-photo`](pages/zh/tags.md#tag-reference-photo) 4 · [`chinese-text`](pages/zh/tags.md#tag-chinese-text) 4 · [`floral`](pages/zh/tags.md#tag-floral) 4 · [`full-body`](pages/zh/tags.md#tag-full-body) 4 · [`summer`](pages/zh/tags.md#tag-summer) 4 · [`identity-preservation`](pages/zh/tags.md#tag-identity-preservation) 4 · [`pixel-art`](pages/zh/tags.md#tag-pixel-art) 4 · [`identity-reference`](pages/zh/tags.md#tag-identity-reference) 4 · [`geometric`](pages/zh/tags.md#tag-geometric) 4 · [`limited-palette`](pages/zh/tags.md#tag-limited-palette) 4 · [`mirror-selfie`](pages/zh/tags.md#tag-mirror-selfie) 4 · [`risograph`](pages/zh/tags.md#tag-risograph) 4 · [`kids`](pages/zh/tags.md#tag-kids) 3 · [`fashion-film`](pages/zh/tags.md#tag-fashion-film) 3 · [`korean-dialogue`](pages/zh/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/zh/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/zh/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/zh/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/zh/tags.md#tag-hard-cuts) 3 · [`pets`](pages/zh/tags.md#tag-pets) 3 · [`audio-sync`](pages/zh/tags.md#tag-audio-sync) 3 · [`educational`](pages/zh/tags.md#tag-educational) 3 · [`single-take`](pages/zh/tags.md#tag-single-take) 3 · [`single-shot`](pages/zh/tags.md#tag-single-shot) 3 · [`lo-fi`](pages/zh/tags.md#tag-lo-fi) 3 · [`realistic`](pages/zh/tags.md#tag-realistic) 3 · [`aerial`](pages/zh/tags.md#tag-aerial) 3 · [`neon`](pages/zh/tags.md#tag-neon) 3 · [`period`](pages/zh/tags.md#tag-period) 3 · [`image-to-video`](pages/zh/tags.md#tag-image-to-video) 3 · [`push-in`](pages/zh/tags.md#tag-push-in) 3 · [`felt`](pages/zh/tags.md#tag-felt) 3 · [`beverage`](pages/zh/tags.md#tag-beverage) 3 · [`animation`](pages/zh/tags.md#tag-animation) 3 · [`embroidery`](pages/zh/tags.md#tag-embroidery) 3 · [`autumn`](pages/zh/tags.md#tag-autumn) 3 · [`line-art`](pages/zh/tags.md#tag-line-art) 3 · [`short-film`](pages/zh/tags.md#tag-short-film) 3 · [`subtitles`](pages/zh/tags.md#tag-subtitles) 3 · [`coastal`](pages/zh/tags.md#tag-coastal) 3 · [`subway`](pages/zh/tags.md#tag-subway) 3 · [`action-comedy`](pages/zh/tags.md#tag-action-comedy) 3 · [`crowd`](pages/zh/tags.md#tag-crowd) 3 · [`pet`](pages/zh/tags.md#tag-pet) 3 · [`cityscape`](pages/zh/tags.md#tag-cityscape) 3 · [`reference-sheet`](pages/zh/tags.md#tag-reference-sheet) 3 · [`worldbuilding`](pages/zh/tags.md#tag-worldbuilding) 3 · [`newspaper`](pages/zh/tags.md#tag-newspaper) 3 · [`film-photography`](pages/zh/tags.md#tag-film-photography) 3 · [`e-commerce`](pages/zh/tags.md#tag-e-commerce) 3 · [`minimal`](pages/zh/tags.md#tag-minimal) 3 · [`colored-pencil`](pages/zh/tags.md#tag-colored-pencil) 3 · [`light-mode`](pages/zh/tags.md#tag-light-mode) 3 · [`photo-edit`](pages/zh/tags.md#tag-photo-edit) 3 · [`side-profile`](pages/zh/tags.md#tag-side-profile) 3 · [`night-street`](pages/zh/tags.md#tag-night-street) 3 · [`mediterranean`](pages/zh/tags.md#tag-mediterranean) 3 · [`brand-identity`](pages/zh/tags.md#tag-brand-identity) 3 · [`concept-art`](pages/zh/tags.md#tag-concept-art) 3 · [`menswear`](pages/zh/tags.md#tag-menswear) 3 · [`candid-portrait`](pages/zh/tags.md#tag-candid-portrait) 3 · [`bokeh`](pages/zh/tags.md#tag-bokeh) 3 · [`screenshot`](pages/zh/tags.md#tag-screenshot) 3 · [`camera-roll`](pages/zh/tags.md#tag-camera-roll) 3 · [`cherry-blossom`](pages/zh/tags.md#tag-cherry-blossom) 3 · [`diagram`](pages/zh/tags.md#tag-diagram) 3 · [`reflection`](pages/zh/tags.md#tag-reflection) 3 · [`grayscale`](pages/zh/tags.md#tag-grayscale) 3 · [`grid-layout`](pages/zh/tags.md#tag-grid-layout) 3 · [`digicam`](pages/zh/tags.md#tag-digicam) 3 · [`natural-light`](pages/zh/tags.md#tag-natural-light) 3 · [`futuristic`](pages/zh/tags.md#tag-futuristic) 3 · [`golden-light`](pages/zh/tags.md#tag-golden-light) 3 · [`ink-illustration`](pages/zh/tags.md#tag-ink-illustration) 3 · [`mid-century`](pages/zh/tags.md#tag-mid-century) 3 · [`children-illustration`](pages/zh/tags.md#tag-children-illustration) 3 · [`miniature-world`](pages/zh/tags.md#tag-miniature-world) 3 · [`color-palette`](pages/zh/tags.md#tag-color-palette) 3 · [`local-edit`](pages/zh/tags.md#tag-local-edit) 3 · [`color-analysis`](pages/zh/tags.md#tag-color-analysis) 3 · [`paper-collage`](pages/zh/tags.md#tag-paper-collage) 3 · [`skyline`](pages/zh/tags.md#tag-skyline) 3 · [`tilt-shift`](pages/zh/tags.md#tag-tilt-shift) 3 · [`flat-color`](pages/zh/tags.md#tag-flat-color) 3 · [`memory-card`](pages/zh/tags.md#tag-memory-card) 3 · [`ink-wash`](pages/zh/tags.md#tag-ink-wash) 3 · [`street-art`](pages/zh/tags.md#tag-street-art) 3 · [`paper-craft`](pages/zh/tags.md#tag-paper-craft) 3 · [`phone-photo`](pages/zh/tags.md#tag-phone-photo) 3 · [`photo-to-sketch`](pages/zh/tags.md#tag-photo-to-sketch) 3 · [`split-composition`](pages/zh/tags.md#tag-split-composition) 3 · [`labels`](pages/zh/tags.md#tag-labels) 3 · [`tokyo`](pages/zh/tags.md#tag-tokyo) 3 · [`cinematic-lighting`](pages/zh/tags.md#tag-cinematic-lighting) 3 · [`street-style`](pages/zh/tags.md#tag-street-style) 3
 
-**[全部 759 个标签](pages/zh/tags.md)**
+**[全部 1315 个标签](pages/zh/tags.md)**
 
 <a id="contributing"></a>
 ## 投稿

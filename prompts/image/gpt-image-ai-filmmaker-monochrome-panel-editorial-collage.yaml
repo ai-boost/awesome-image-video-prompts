@@ -1,0 +1,59 @@
+id: gpt-image-ai-filmmaker-monochrome-panel-editorial-collage
+title:
+  en: Monochrome panel editorial collage with color cutout
+  zh: 黑白分格编辑拼贴搭配彩色全身抠图
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- editorial
+- collage
+- monochrome
+- identity-consistency
+- fashion
+source:
+  name: '@FutureVibesAi on X'
+  url: https://x.com/FutureVibesAi/status/2104874557345841520
+  credit: Future Vibes AI - Testing & Educating
+  likes: 158
+  captured: '2026-10-28'
+  posted: '2026-09-29'
+notes:
+  en: Four stacked black and white panels each get a distinct pose and framing, while one full color figure overlaps them for depth. A strict identity consistency clause, explicit outfit details and a no text rule keep the layout clean.
+  zh: 四个黑白分格各自指定不同姿势和景别，再用一个彩色全身人像叠在上层营造层次。严格的人物一致性条款、详细的服装描述和禁止文字的要求让版面保持干净。
+prompt: |
+  Use my attached/reference portrait as the strict facial identity reference. Keep my real facial structure, skin tone, eyes, nose, lips, hairline and overall likeness highly consistent across every appearance. Do not beautify me into a different person.
+
+  Create a premium modern editorial collage portrait of a female AI filmmaker and creative-tech founder.
+
+  The background consists of four large horizontal rounded-rectangle panels stacked vertically, exactly like a luxury magazine contact-sheet composition. Each panel contains a different cinematic black-and-white portrait of the same woman, while one large full-color full-body version overlaps the panels in the foreground.
+
+  BACKGROUND PANEL 1: cinematic close-up wearing sleek black sunglasses, looking sideways with a calm, powerful expression; subtle creative-studio environment behind her.
+
+  PANEL 2: relaxed candid portrait, chin resting lightly on one hand, thoughtful creator-at-work energy; subtle laptop and blurred production equipment in the environment, never distracting from her face.
+
+  PANEL 3: elegant side-profile portrait, looking away from camera, natural loose hair movement, cinematic shallow depth of field; blurred filmmaking/creative workspace background.
+
+  PANEL 4: slightly low-angle portrait looking upward with quiet ambition and confidence, dramatic directional light shaping her face.
+
+  All four panels are sophisticated monochrome photography, rich blacks, silver-gray highlights, subtle film grain, realistic skin texture and premium editorial contrast.
+
+  FOREGROUND
+
+  Place the same woman as a large full-body color cutout on the right side, overlapping all four panels.
+
+  Style her as a successful contemporary AI filmmaker / creative-tech founder: oversized deep black textured sweater, relaxed wide-leg charcoal/washed-gray cargo jeans, premium clean white sneakers, minimalist black shoulder bag, subtle silver jewelry and sophisticated black sunglasses either worn or naturally held.
+
+  Her pose is effortless and confident: one hand casually inside her pocket, one leg slightly crossed forward, body angled three-quarters toward camera, head turned slightly to the side. Expression composed, ambitious and self-assured — no exaggerated smile.
+
+  Add very subtle creator details: a sleek laptop/tablet partly visible inside the shoulder bag and a small professional camera accessory attached to the bag. Keep these understated and luxurious rather than making the image look like a tech advertisement.
+
+  Hair should feel naturally styled with soft loose strands around the face. Preserve my actual appearance rather than changing me into a fashion model.
+
+  AESTHETIC: Vogue-style contemporary editorial photography, AI creator meets luxury street fashion, cinematic photography, sophisticated minimalism, realistic skin pores, premium fabric textures, natural body proportions, soft directional sunlight, shallow depth of field, subtle analog film grain, high dynamic range, professional fashion campaign retouching, photorealistic, 8K.
+
+  LAYOUT: vertical 4:5 social-media poster, warm off-white background, four evenly spaced rounded monochrome panels, foreground woman extending beyond the panels to create dimensional depth, subtle realistic drop shadow behind her cutout, generous negative space, perfectly balanced editorial composition.
+
+  STRICT CONSISTENCY: every woman shown is the exact same person. Maintain identical facial anatomy and recognizable identity throughout. Correct hands and fingers, realistic anatomy, realistic clothing folds, no duplicate limbs, no warped accessories.
+
+  NO TEXT. NO TYPOGRAPHY. NO LETTERS. NO LOGOS. NO BRAND NAMES. NO WATERMARKS. NO RANDOM SYMBOLS.

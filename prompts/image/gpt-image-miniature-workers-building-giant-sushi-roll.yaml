@@ -1,0 +1,48 @@
+id: gpt-image-miniature-workers-building-giant-sushi-roll
+title:
+  en: Tiny Workers Building a Giant Sushi Roll
+  zh: 迷你工人建造巨型寿司卷
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- miniature
+- macro
+- asmr
+- food
+- video-prompt
+source:
+  name: '@SeeratFatima112 on X'
+  url: https://x.com/SeeratFatima112/status/2088658313114423488
+  credit: Seerat Fatima
+  likes: 222
+  captured: '2026-10-28'
+  posted: '2026-08-15'
+notes:
+  en: The prompt splits the 10 seconds into eight timed scenes, each with one action and one macro framing, so the sequence stays easy to follow. Camera, audio and quality sections are listed separately, and real human hands give the miniature scale.
+  zh: 提示词把10秒拆成八个带时间码的分镜，每个分镜只写一个动作和一种微距构图，顺序清晰。镜头、声音和画质分段列出，真人手的出现交代了微缩比例。
+prompt: |
+  Gpt image 2
+  Prompt Create a 10-second ultra-realistic cinematic miniature-world video showing tiny construction workers building a giant sushi roll with the help of real human hands. The style is realistic ASMR, satisfying miniature construction, macro photography, highly detailed textures, warm cinematic lighting, shallow depth of field.
+
+  Scene 1 — 0:00–0:01: Tiny construction workers use a miniature excavator to scoop freshly cooked white rice and place it into a large bowl. Close-up macro shot, realistic rice texture, tiny machinery sounds.
+
+  Scene 2 — 0:01–0:02: A giant human hand pours water into the rice bowl while miniature workers carefully wash and mix the rice. Clear water movement, realistic ASMR sound.
+
+  Scene 3 — 0:02–0:03: The rice is transferred into a miniature cooking pot. Steam rises as tiny workers supervise the cooking process. Close-up of the lid opening and warm steam escaping.
+
+  Scene 4 — 0:03–0:04: Tiny workers spread the cooked sticky rice evenly across a large sheet of nori using miniature tools, while a human hand gently helps flatten and smooth the rice.
+
+  Scene 5 — 0:04–0:05: A tiny construction crane carefully lifts large pieces of fresh salmon and places them neatly on top of the rice. The salmon looks glossy, fresh, and realistic.
+
+  Scene 6 — 0:05–0:06: Tiny workers bring cucumber and other colorful sushi vegetables and carefully arrange them in straight layers over the salmon. Macro close-up of the ingredients.
+
+  Scene 7 — 0:06–0:07: Several miniature construction workers work together to roll the sushi tightly. A human hand assists by gently pushing and guiding the roll. The nori wraps smoothly around the filling.
+
+  Scene 8 — 0:07–0:10: A large human hand uses a sharp sushi knife to cut the finished sushi roll into perfect pieces. Tiny workers celebrate around the completed sushi, raising their hands. Add a small “MISSION COMPLETE” sign.
+
+  Camera: macro close-ups, smooth cinematic camera movement, realistic focus pulls, shallow depth of field, detailed miniature perspective.
+
+  Audio: satisfying ASMR, rice movement, water pouring, steam, tiny construction machinery, knife cutting through sushi, subtle ambient sounds. No music.
+
+  Visual quality: photorealistic, cinematic, highly detailed, realistic human hands, realistic miniature workers, natural physics, clean composition, warm restaurant/kitchen environment, 4K, vertical 9:16, smooth motion, no text except the small “MISSION COMPLETE” sign.

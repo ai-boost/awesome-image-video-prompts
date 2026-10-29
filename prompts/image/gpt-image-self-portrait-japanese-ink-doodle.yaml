@@ -1,0 +1,25 @@
+id: gpt-image-self-portrait-japanese-ink-doodle
+title:
+  en: Japanese Ink Doodle Self Portrait Illustration
+  zh: 日式水墨涂鸦风自画像插画
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- japanese-style
+- ink-doodle
+- half-body
+- pastel-ink
+- self-portrait
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2051659905157992535
+  credit: K
+  likes: 322
+  captured: '2026-10-28'
+  posted: '2026-05-05'
+notes:
+  en: Asking the model to imagine me turns a personal portrait into a reusable template. Style layers (splashed ink, loose lines, pastel plus ink tones, comic sketch texture) and a white background with scattered symbolic elements keep the composition clean and atmospheric.
+  zh: 让模型想象我的样子，把个人肖像变成可复用的模板。泼墨、松散线条、粉彩加墨色和漫画草稿质感层层叠加，再配白底与散落的象征元素，画面干净且有氛围。
+prompt: |
+  Generate an illustration of what you imagine “me” to look like: in a Japanese-style illustration, with distinctive character traits, a natural and expressive emotional look, and a half-body composition. The pose should be dynamic, with finely detailed clothing. Use a hand-drawn doodle style with splashed ink brushstrokes, loose and spontaneous lines, and a mix of pastel colors and ink tones. Aim for a comic sketch texture, set against a simple white background, with symbolic elements scattered around to enhance the atmosphere. The overall feel should be strong in mood, highly detailed, and high quality.

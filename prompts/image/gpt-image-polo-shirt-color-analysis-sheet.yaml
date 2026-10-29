@@ -1,0 +1,25 @@
+id: gpt-image-polo-shirt-color-analysis-sheet
+title:
+  en: Personal color analysis sheet with polo shirt comparisons
+  zh: 用多件马球衫对比的个人色彩分析图
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- color-analysis
+- polo-shirt
+- personal-styling
+- infographic
+- photo-reference
+source:
+  name: '@garenaguinaldox on X'
+  url: https://x.com/garenaguinaldox/status/2047384051322081738
+  credit: garenaguinaldox
+  captured: '2026-10-28'
+  posted: '2026-04-23'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: The prompt names one clear device, polo color swatches worn by the same subject, and asks for a visual first layout with explanations and tips. That makes the model build best, good and avoid rows, a palette and a short rationale from a single uploaded photo.
+  zh: 提示词只指定一个明确手法，即同一人物换穿不同颜色的马球衫做对比，并要求视觉优先、附说明和建议。模型因此能从一张上传照片生成最佳、可选、避免三组对比、色板和简短理由。
+prompt: |
+  Create a personal color analysis using this picture. Use polo clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with explanations and tips.

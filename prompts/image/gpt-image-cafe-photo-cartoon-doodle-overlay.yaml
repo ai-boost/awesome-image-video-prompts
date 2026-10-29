@@ -1,0 +1,33 @@
+id: gpt-image-cafe-photo-cartoon-doodle-overlay
+title:
+  en: Cafe Photo with Cartoon Coffee Doodle Overlays
+  zh: 咖啡馆写实照片叠加卡通咖啡涂鸦
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- photo-cartoon-mix
+- cafe
+- doodle-overlay
+- golden-hour
+- pop-art
+source:
+  name: '@Jawad_Rahman_ on X'
+  url: https://x.com/Jawad_Rahman_/status/2049796647237066971
+  credit: Jawad_Rahman_
+  captured: '2026-10-28'
+  posted: '2026-04-30'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Splits the scene into a realistic photographic layer and a playful 2D overlay layer, and names each floating cartoon element. Golden hour light and shallow depth of field keep the subject sharp while the doodles stay vivid.
+  zh: 把画面拆成写实摄影层和 2D 卡通叠加层，并逐一点名漂浮的卡通元素。黄金时段光线与浅景深让人物保持清晰，涂鸦依然鲜明。
+prompt: |
+  A trendy young woman sitting at an outdoor café table, holding a hot coffee cup near her lips. She has short curly black hair and wears oversized tinted sunglasses, a cropped beige sweater, loose brown high-waisted pants, and chunky white sneakers. A tote bag with minimal coffee-themed illustrations hangs on her shoulder.
+
+  The scene blends realistic photography with playful 2D cartoon overlays. Floating around her are animated coffee elements: a smiling cappuccino cup with heart-shaped latte art, cute coffee beans with tiny faces, and stylized splashes of caramel forming comic-style shapes. Soft doodle steam rises into hearts and stars.
+
+  On the table: a croissant, a notebook with sketch drawings, and a second coffee cup.
+
+  Background: a realistic cozy café street with brick walls, plants, warm golden hour lighting, and soft shadows. Slight depth of field, subject in sharp focus.
+
+  Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, high saturation but warm tones, clean composition, Instagram-worthy, soft glow, 4k detail.

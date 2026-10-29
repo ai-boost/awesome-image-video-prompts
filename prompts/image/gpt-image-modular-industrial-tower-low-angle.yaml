@@ -1,0 +1,25 @@
+id: gpt-image-modular-industrial-tower-low-angle
+title:
+  en: Colorful modular industrial tower seen from below
+  zh: 仰拍的彩色模块化工业塔
+model: GPT Image 2.5
+mode: text-to-image
+category: architecture
+tags:
+- industrial
+- low-angle
+- photoreal
+- hard-light
+- architecture
+source:
+  name: '@listudio on X'
+  url: https://x.com/listudio/status/2098316254679625917
+  credit: listudio
+  captured: '2026-10-28'
+  posted: '2026-09-11'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: It fixes the camera as a low angle with the top cropped, then lists each module colour and material so painted panels and chrome frames stay distinct. Named details like hinges, stairs and two conveyors at different heights, plus hard sunlight and a closing list of exclusions, keep the render clean and physically plausible.
+  zh: 先把机位定为仰视且塔顶出框，再逐一列出模块颜色与材质，让烤漆板和铬框清楚区分。铰链、检修楼梯、两条不同高度的传送带等具体细节，加上硬光和末尾的排除清单，让画面干净且结构合理。
+prompt: |
+  Create a 2:3 photoreal industrial tower viewed from below, its top outside the frame. Stack offset cobalt, orange-red, yellow, green and silver metal modules. Separate glossy painted panels from chrome frames. Show seams, hinges, maintenance stairs and two supported roller conveyors at different heights. Add a few vertical pipes. Leave clear blue sky on the right. Use hard sunlight and crisp shadows. No text, logos, watermarks, weathering, haze or floating parts.

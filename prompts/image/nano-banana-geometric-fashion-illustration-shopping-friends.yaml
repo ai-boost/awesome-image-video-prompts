@@ -1,0 +1,39 @@
+id: nano-banana-geometric-fashion-illustration-shopping-friends
+title:
+  en: Geometric fashion illustration of two shopping friends
+  zh: 两位购物好友的几何风时尚插画
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- fashion-illustration
+- geometric
+- editorial
+- minimalist
+- color-palette
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2110940513209549117
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 75
+  captured: '2026-10-28'
+  posted: '2026-10-16'
+notes:
+  en: Each figure gets its own clothing, bag and hand instructions, and a closed palette keeps the faceted shading harmonious. Explicit negatives about hands and props, plus a full body 3:4 frame with ivory negative space, guard against the usual anatomy and cropping errors.
+  zh: 为每个人物单独写明服装、袋子和手部动作，并限定封闭色板，让多面体阴影保持和谐。针对手部、道具和裁切写出明确的排除项，再配合留白充足的 3:4 全身构图，减少常见的肢体和裁切错误。
+prompt: |
+  Create a full-body minimalist geometric editorial fashion illustration of two stylish young female friends standing close together, facing the camera and playfully pointing their index fingers directly toward the viewer.
+
+  Left girl: dark hair tied in a messy low bun, dusty-pink oversized sweatshirt, cream wide-leg cargo trousers, chunky white sneakers with subtle pink accents, small black shoulder bag. She carries cream shopping bags with soft pink tissue paper and a kraft-paper bouquet of pink and white flowers. Her other hand is completely free and naturally relaxed — NO coffee cup and NO raised hand holding anything.
+
+  Right girl: long dark wavy hair, beige baseball cap, oversized deep forest-green sweatshirt, wide-leg blue denim jeans with folded cuffs, chunky brown-and-cream sneakers, cream canvas shoulder tote. She carries cream shopping bags with pink tissue paper.
+
+  Both girls have soft elegant proportions, natural relaxed body language, cheerful subtle smiles, and clearly visible hands with natural anatomy.
+
+  Style: minimalist geometric fashion illustration, hand-painted digital artwork, angular polygonal shading, faceted clothing folds, subtle brush textures, visible paper grain, refined edges, simplified facial details, soft diffused lighting and gentle ground shadows.
+
+  Color palette: exactly soft dusty pink, warm ivory, cream, beige, deep forest green, denim blue, muted brown and soft black. Keep the palette muted, warm and harmonious.
+
+  Composition: full bodies completely visible from head to toe, both girls standing upright and balanced, centered together with generous negative space, warm ivory textured background, contemporary lifestyle fashion magazine aesthetic, vertical 3:4 composition.
+
+  No coffee cup, no drink, no object in the left girl's free hand, no extra people, no distorted hands, no extra fingers, no cropped feet, no photorealism, no 3D rendering, no text, no watermark.

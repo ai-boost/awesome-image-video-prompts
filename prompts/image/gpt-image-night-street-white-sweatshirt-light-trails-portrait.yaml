@@ -1,0 +1,35 @@
+id: gpt-image-night-street-white-sweatshirt-light-trails-portrait
+title:
+  en: Night Street Portrait with Neon Light Trails
+  zh: 霓虹光轨夜街白卫衣人像
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- night-street
+- fashion-editorial
+- long-exposure
+- film-grain
+- streetwear
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2113137432254173633
+  credit: Aijaz
+  likes: 52
+  captured: '2026-10-28'
+  posted: '2026-10-22'
+notes:
+  en: The prompt splits the lighting into warm orange red backlight, cool cyan fill and on-camera flash, so the subject stays sharp while traffic turns into long exposure streaks. A film grain 35mm look, a framing instruction (hips up, centered, 4:5) and an avoid list keep the skin realistic.
+  zh: 提示词把光线拆成暖橙红背光、冷青补光和机顶闪光，人物保持清晰，车流则被拉成长曝光光轨。35mm 胶片颗粒、构图指令（腰部以上、居中、4:5）和排除清单共同保证皮肤质感真实。
+prompt: |
+  A cinematic, photorealistic fashion editorial portrait of a young woman standing on a city street at night, with a short, voluminous dark brown wavy bob haircut, soft curtain bangs, natural glowing skin, subtle freckles, warm blush, glossy nude lips, and minimal natural makeup. She wears an oversized white crewneck sweatshirt with relaxed, voluminous sleeves and high-waisted blue denim jeans, with both hands casually tucked into her front pockets.
+
+  She is positioned in the center of the frame, photographed from the hips up, looking directly into the camera with a calm, confident, effortlessly cool expression. The background features a dark urban street with dramatic orange-red streetlights, vibrant cyan and teal illumination, and horizontal streaks of red, orange, and turquoise light created by long-exposure motion blur from passing traffic.
+
+  Lighting and color grading: Warm orange-red backlighting illuminating the background, cool cyan fill light along the lower sides, direct on-camera flash softly illuminating the subject's face and white sweatshirt, strong contrast between warm and cool tones, deep cinematic shadows, subtle film grain, slightly dreamy analog-film texture.
+
+  Photography style: Contemporary streetwear campaign, high-end fashion photography, 35mm film aesthetic, candid editorial mood, realistic skin texture, sharp facial focus, shallow depth of field, motion-blurred background, natural proportions, imperfect film-like details, balanced composition, authentic nighttime city atmosphere.
+
+  Vertical portrait, 4:5 aspect ratio, medium shot, subject centered, ultra-realistic photography, high detail, premium fashion magazine quality.
+
+  Avoid: cartoon rendering, CGI, plastic skin, excessive retouching, oversaturated colors, distorted anatomy, extra fingers, blurry face, artificial facial features, text, logos, watermarks.

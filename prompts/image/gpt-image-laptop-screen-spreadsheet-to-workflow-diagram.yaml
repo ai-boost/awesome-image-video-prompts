@@ -1,0 +1,25 @@
+id: gpt-image-laptop-screen-spreadsheet-to-workflow-diagram
+title:
+  en: Laptop screen swapped to automation workflow diagram
+  zh: 笔记本屏幕换成自动化流程图
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- local-edit
+- screen-replacement
+- workflow-diagram
+- preserve-scene
+- desk-scene
+source:
+  name: '@ai_kairos_jp on X'
+  url: https://x.com/ai_kairos_jp/status/2097679848475099159
+  credit: ai_kairos_jp
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: 'Names the single region to change, the screen, and the replacement content, then lists what must stay untouched: desk, sticky notes, lighting and the night window. Naming the preserved elements keeps the rest of the scene stable during a local edit.'
+  zh: 只点名要改的屏幕区域和替换内容，再逐项列出必须保持不变的桌面、便签、灯光和夜景窗外。明确写出保留项，局部编辑时其余画面才不容易跑偏。
+prompt: |
+  Replace the spreadsheet with an automation workflow diagram. Do not change the desk, sticky notes, lighting or the nighttime view through the window.

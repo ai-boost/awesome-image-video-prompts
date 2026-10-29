@@ -1,0 +1,29 @@
+id: gpt-image-surreal-anime-uncle-posters
+title:
+  en: Four surreal anime posters with Japanese titles
+  zh: 四张带日文标题的超现实动画海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- movie-poster
+- anime
+- japanese-typography
+- surreal
+- grid
+source:
+  name: '@aiehon_aya on X'
+  url: https://x.com/aiehon_aya/status/2046499177916682600
+  credit: aiehon_aya
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Asks for four variations in one grid and frames the concept as a serious yet absurd animated film. Requiring Japanese title and broadcast text pushes the model toward full poster typography with credits and air dates.
+  zh: 要求一次生成四种变体并拼成一张图，把设定写成认真又荒诞的动画电影。指定日文标题和播出信息，让模型补全带署名与播出日期的完整海报排版。
+prompt: |
+  [中文]
+  一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。
+
+  [English]
+  A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.

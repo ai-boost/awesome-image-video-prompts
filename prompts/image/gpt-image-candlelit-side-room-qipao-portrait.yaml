@@ -1,0 +1,31 @@
+id: gpt-image-candlelit-side-room-qipao-portrait
+title:
+  en: Candlelit qipao portrait in a dark side room
+  zh: 烛光暗室中的旗袍女子写实肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- candlelight
+- chiaroscuro
+- qipao
+- 85mm
+- film-grain
+source:
+  name: '@ToroJushiAi on X'
+  url: https://x.com/ToroJushiAi/status/2056926887344042382
+  credit: ToroJushiAi
+  captured: '2026-10-28'
+  posted: '2026-05-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A single off-frame candle sets the light direction, and the amber qipao is matched to the candle's colour temperature so the subject blends into the light. Skin detail cues, stray hairs and ISO 400 grain keep it photographic, while the negative list rules out illustration looks.
+  zh: 画外单支蜡烛定下光线方向，琥珀色旗袍与烛光色温一致，让人物融进光里。皮肤质感、散落发丝和 ISO 400 颗粒保持摄影感，末尾的否定清单排除插画风格。
+prompt: |
+  A medium-shot authentic daily life photograph, natural candid moment, of an East Asian young woman standing in a small side room lit only by a single candle on a low stone shelf. 85mm lens, waist-up framing, shallow depth of field. The candle is off-frame to the left; the room behind her exists only as dark warm suggestion.
+
+  East Asian young woman in her early 20s. Almond-shaped eyes receiving the candle's warm flicker — the irises briefly caught in light before returning to shadow. Straight refined nose, the bridge illuminated in a narrow warm stripe. Skin tone fair beige, warmed entirely by candlelight into something amber. Skin subsurface scattering visible under directional candlelight, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible.
+
+  She wears an aged amber silk qipao with chrysanthemum embroidery in tones of old bronze and dusty ochre — the amber pigment identical in temperature to the candle's own light, the embroidery appearing and disappearing depending on angle. Mandarin collar, short sleeves. She stands facing the candle without looking at it, arms at her sides, very still. The room is otherwise empty. Two or three stray hairs displaced by faint air movement, natural unplanned imperfection, not geometrically symmetrical.
+
+  Single candle — warm amber-orange, directional and fragile. It carves the left side of her face from darkness, leaves the right in near-black shadow. The amber qipao and the candlelight share a single temperature register: the room folds her into the light. Deep chiaroscuro with no artificial fill. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 9:16. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.

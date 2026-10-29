@@ -1,0 +1,43 @@
+id: gpt-image-korean-cafe-mirror-selfie-portra-film
+title:
+  en: Korean Cafe Courtyard Mirror Selfie on Film
+  zh: 韩式咖啡馆庭院圆镜自拍胶片风
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- film-photography
+- mirror-selfie
+- korean-cafe
+- portra-400
+- lifestyle
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2064996549747458319
+  credit: Noor
+  likes: 214
+  captured: '2026-10-28'
+  posted: '2026-06-11'
+notes:
+  en: Labeled sections for appearance, outfit, pose, foreground, midground and background build clear depth layers around the round mirror. Film stock, lens and aperture (Portra 400, 85mm, f/1.8) set the warm soft look, and a negative prompt keeps it photographic.
+  zh: 用外貌、服装、姿势、前景、中景、背景分段，围绕圆镜搭出清晰的景深层次。胶片型号、镜头和光圈（Portra 400、85mm、f/1.8）定下温暖柔焦的质感，负面提示词则让画面保持写实。
+prompt: |
+  Hyper-realistic Kodak Portra 400 film photograph, dreamy soft aesthetic, warm natural sunlight, nostalgic Korean café atmosphere, vertical 9:16 composition.
+
+  A beautiful young woman crouching gracefully in front of a large round gold-framed mirror placed on a pebble-covered courtyard, taking a mirror selfie with her smartphone. She looks at the screen with a gentle smile and relaxed expression.
+
+  Appearance: Fair glowing skin, soft natural makeup, subtle peach blush, glossy pink lips, delicate eyeliner, bright expressive eyes. Long light-brown wavy hair with soft curtain bangs and romantic curls cascading over her shoulders.
+
+  Outfit: Oversized pastel lavender T-shirt featuring a small daisy illustration and subtle Korean typography, high-waisted butter-yellow pleated midi skirt, white crew socks, clean white canvas sneakers, soft pink shoulder tote bag.
+
+  Pose: Comfortable squat with knees together, one arm resting naturally on her leg while holding her phone. Relaxed shoulders, candid lifestyle photography feel, effortless charm.
+
+  Foreground: Two transparent iced latte cups with visible ice cubes, paper straws, soft condensation. Elegant pink tote bags beside the mirror. Creamy foreground bokeh and dreamy highlights.
+
+  Midground: Large circular gold-framed mirror reflecting the woman perfectly. Detailed gravel stones, warm sunlight, realistic reflections, soft shadows, potted plants surrounding the mirror, cinematic depth.
+
+  Background: Aesthetic Korean-style café exterior with cream-colored walls, wooden-framed windows, Korean signboard, lush ivy vines, flowers, potted plants, and a quiet pedestrian alley. Warm golden-hour sunlight filtering through trees, dreamy foliage bokeh.
+
+  Photography Style: Kodak Portra 400, warm pastel tones, soft focus, creamy highlights, realistic skin texture, subtle film grain, shallow depth of field, environmental portrait, HDR, photorealistic, magazine-quality editorial photography, 85mm lens, f/1.8, atmospheric depth, elegant composition, foreground-midground-background layering.
+
+  Negative Prompt: anime, cartoon, illustration, CGI, 3D render, painting, blurry face, distorted hands, extra fingers, duplicate objects, unrealistic proportions, overprocessed skin, harsh shadows, oversaturated colors, artificial lighting, watermark, logo, text, cropped subject, low quality.

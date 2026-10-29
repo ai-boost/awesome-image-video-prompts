@@ -1,0 +1,25 @@
+id: nano-banana-terrace-dining-man-portrait
+title:
+  en: Man in White Shirt at Terrace Table
+  zh: 露台餐桌前的白衬衫男士肖像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- realism
+- photography
+- lifestyle
+- 85mm
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2109559194890502544
+  credit: Picts by AI
+  likes: 58
+  captured: '2026-10-28'
+  posted: '2026-10-12'
+notes:
+  en: 'The prompt describes the scene in layers: foreground table, subject, midground olive tree, then background walls. It ends with exact camera settings (85mm, f/2.8, 1/200s), a lighting description and a 3:4 ratio, which keep the photo realistic.'
+  zh: 提示词按前景餐桌、主体、中景橄榄树、背景墙面的层次逐一描述场景。结尾给出精确的相机参数(85mm、f/2.8、1/200s)、光线说明和 3:4 比例,让画面保持写实。
+prompt: |
+  A handsome man sits centered and facing the camera with level shoulders and a confident, deliberately posed posture, wearing a crisp white dress shirt and a rich brown tie. His medium-short hair is slicked back with a glossy product, revealing natural comb lines and a distinct, slight wave. He maintains a neutral expression with relaxed eyebrows and a direct gaze, while his left hand is raised near his collar with loosely curled fingers and his right hand rests relaxed on the arm of his chair. In the immediate foreground, a pristine dining table draped in a white tablecloth holds a white plate and silver cutlery, visually leading to the subject before gently fading into a deep, softly blurred outdoor environment. To the midground right, a thriving olive tree grows from a large terracotta pot resting on a gray cobblestone stone floor. Behind him, the setting features pristine, warm off-white plaster walls with a slightly textured matte finish and clean classical architectural moldings, subtly accompanied by an overhead heater structure and a distant building. The scene exudes a sophisticated, elegant, and calm luxury dining experience, anchored by a warm, high-contrast color profile dominated by crisp whites, deep structural blacks, rich brown accents, and soft warm yellows. Mixed, diffused front lighting of moderate intensity bathes the scene in a soft glow, casting short, soft-edged gray shadows under his chin and behind his body, while perfectly preserving specular highlights on his face, glossy hair, and bright white shirt. Captured as a tack-sharp realistic digital photograph using an 85mm lens at f/2.8 and 1/200s with a straight-on perspective, the image features zero grain and a medium depth of field that elegantly separates the subject from the European lifestyle-inspired background, finished with warm post-processing color grading, and finally framed in a 3:4 portrait aspect ratio.

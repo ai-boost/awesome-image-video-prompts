@@ -1,0 +1,38 @@
+id: gpt-image-annotated-autumn-fashion-lookbook-poster
+title:
+  en: Pastel autumn outfit lookbook with handwritten annotations
+  zh: 粉彩秋季穿搭手写标注图册海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- lookbook
+- pastel
+- annotated
+- e-commerce
+source:
+  name: '@LiEvanna85716 on X'
+  url: https://x.com/LiEvanna85716/status/2097663816339427547
+  credit: LiEvanna85716
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: The prompt fixes the palette, the frame and the exact headline text in quotes, so layout and typography stay controlled. Handwritten labels with thin arrows tie each piece of clothing to a name, which gives the catalog feel.
+  zh: 提示词固定了配色、边框和标题原文，版式与字体因此可控。手写标签加细箭头把每件单品和名称对应起来，形成商品图册的质感。
+prompt: |
+  Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.
+  Use a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.
+
+  Show the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.
+
+  Add handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.
+
+  Add a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.
+
+  Use a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.
+
+  The final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.
+
+  Vertical 3:4 composition, high-resolution commercial fashion photography.

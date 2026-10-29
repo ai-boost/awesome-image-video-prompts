@@ -1,0 +1,27 @@
+id: gpt-image-greek-philosophers-timeline-athens
+title:
+  en: Three Greek philosophers on a timeline over Athens
+  zh: 古希腊三哲坐谈雅典街头的时间轴图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- timeline
+- history
+- philosophers
+- athens
+- infographic
+source:
+  name: '@ToroJushiAi on X'
+  url: https://x.com/ToroJushiAi/status/2050713034503409874
+  credit: ToroJushiAi
+  captured: '2026-10-28'
+  posted: '2026-05-02'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt names the three speakers and the setting, then asks for their conversation to appear as background text following a timeline across the city view. That layering gets a painterly scene and an infographic into one image.
+  zh: 提示词点明三位人物与雅典街头场景，再要求把谈话内容按时间轴走向叠在城市风光背景里，让绘画场景与信息图合为一张。
+prompt: |
+  二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。
+
+  背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。

@@ -1,0 +1,31 @@
+id: gpt-image-christmas-street-chibi-real-background
+title:
+  en: Hand-drawn chibi girl before glowing Christmas tree
+  zh: 圣诞树前的手绘Q版女孩与真实街景
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- chibi
+- christmas
+- photo-to-illustration
+- mixed-media
+- blue-hour
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2091401764360896762
+  credit: Sairah_0
+  captured: '2026-10-28'
+  posted: '2026-08-23'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt sets a clear split: a pencil and watercolor chibi character against a photorealistic background. It also keeps the reference face, hair, outfit and pose, and adds blue hour lighting and a vertical frame.'
+  zh: 提示词明确区分手绘铅笔水彩风的Q版人物与写实背景，同时锁定参考图的脸、发型、服装和姿势，再补充蓝调时刻光线与竖构图。
+prompt: |
+  Use the uploaded image as the primary reference. Transform the person into a cute, hand-drawn anime/chibi character while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.
+
+  A cute young woman standing on a modern city street at blue hour, surrounded by tall illuminated skyscrapers and festive Christmas decorations. A huge glowing Christmas tree covered in warm golden lights stands directly behind her, creating a magical holiday atmosphere. The street is filled with elegant decorative lights, pedestrians, modern architecture, and soft evening city illumination.
+
+  Render the character in a charming Japanese hand-drawn anime/chibi illustration style with expressive large eyes, soft blush on the cheeks, delicate facial details, textured pencil-and-ink outlines, subtle watercolor-like coloring, and slightly imperfect handmade sketch details. Keep the background photorealistic and highly detailed, creating a beautiful contrast between the illustrated character and the real-world environment.
+
+  Cinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.

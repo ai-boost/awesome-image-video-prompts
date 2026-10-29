@@ -1,0 +1,42 @@
+id: gpt-image-architectural-specimen-card-survey-landmark
+title:
+  en: Great Wall Architectural Survey Specimen Card
+  zh: 长城建筑勘测标本卡
+model: GPT Image 2
+mode: image-edit
+category: architecture
+tags:
+- architecture
+- specimen-card
+- archival
+- topographic-map
+- ink-drawing
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2094626691234816034
+  credit: simeon-sanai
+  likes: 512
+  captured: '2026-10-28'
+  posted: '2026-09-01'
+notes:
+  en: 'Starts from an uploaded photo and sets a clear hierarchy: a large monochrome ink drawing of the landmark, one small color photo fragment, and a contour map behind it. A restricted palette with a single accent color, a short list of small archival text items, and an explicit list of styles to avoid keep the card clean and museum like.'
+  zh: 以上传照片为参考，层级清晰：大幅单色墨线地标、一小块彩色照片细节、背后的等高线地图。限定调色并只用一个点缀色，只列少量小号档案式文字，再明确列出要避开的风格，让整张卡片保持克制的博物馆目录感。
+prompt: |
+  Use the uploaded photo as the primary reference. Create a sophisticated 4:3 landscape architectural specimen card inspired by museum archives, architectural surveys, and vintage scientific documentation.
+
+  Keep the original location recognizable, but transform the presentation into a curated architectural study rather than a normal travel poster.
+
+  * Place the main landmark as a large monochrome architectural cutout or finely detailed ink drawing.
+  * Add a smaller original-color photographic fragment showing one distinctive detail of the location.
+  * Include a simplified topographic contour map behind the architecture.
+  * Add tiny numbered reference points, measurement marks, arrows, elevation lines, and architectural annotation symbols.
+  * Use an aged cream paper background with subtle grain and imperfections.
+  * Palette: black, warm beige, muted olive, and one restrained accent color extracted from the landmark.
+  * Typography should be small, elegant, and archival: location name, country, year, No. 019, and 3 descriptive keywords.
+  * Create subtle imperfections resembling screen printing, drafting ink, pencil marks, and old paper.
+  * Keep generous negative space and a sophisticated museum-catalog aesthetic.
+
+  Important: Avoid postcard layouts, circular stamps, tourist graphics, excessive text, cartoon styling, glossy effects, 3D rendering, and overly detailed illustrations.
+
+  Overall mood:
+  architectural archive × museum specimen × old survey document × contemporary editorial design.

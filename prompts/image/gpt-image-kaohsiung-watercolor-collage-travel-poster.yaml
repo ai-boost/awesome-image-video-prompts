@@ -1,0 +1,37 @@
+id: gpt-image-kaohsiung-watercolor-collage-travel-poster
+title:
+  en: Kaohsiung watercolor collage travel poster at sunset
+  zh: 高雄日落水彩拼贴旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- watercolor
+- collage
+- typography
+- city
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2058372965641662876
+  credit: SimplyAnnisa
+  captured: '2026-10-28'
+  posted: '2026-05-24'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt splits the poster into scene, design elements placed by corner, and style, with exact text strings and coordinates for each position. Translucent geometric overlays and watercolor splashes in a teal and beige palette tie the illustration and photo collage layers together.
+  zh: 提示词把海报拆成场景、按角落定位的设计元素和风格三部分，每个位置都给出确切文字和坐标。半透明几何色块与水彩泼洒用青绿和米色统一，把插画与照片拼贴层融合在一起。
+prompt: |
+  Watercolor and collage travel poster for Kaohsiung, Taiwan, vertical layout, soft pastel and warm golden hour color palette.
+
+  Scene: Waterfront promenade at sunset with a modern light rail tram on the right, a person walking a bicycle on the left, and people strolling along the path. In the background: Kaohsiung skyline with the 85 Sky Tower and other skyscrapers, a harbor with a ferry boat, port cranes, and the Pier-2 Art Center building with murals. Seagulls flying in the sky, trees lining the walkway, calm water reflecting the light.
+
+  Design elements:
+  - Large text top left: 'KAO HSIUNG 2026', smaller text below 'Sea Breeze Slow Light Southern City'
+  - Top right: Vertical Chinese characters, 'KAOHSIUNG TAIWAN' in small caps below
+  - Bottom left: Coordinates '22.6273° N 120.3014° E', 'KAOHSIUNG TAIWAN', wave icon
+  - Bottom center: Handwritten script 'Kaohsiung'
+  - Bottom right: Vertical list 'Harbor Art Light Rail People Slow Life', vertical Chinese text
+  - Overlay effects: Semi-transparent geometric shapes, watercolor splashes, and texture layers in teal and beige
+
+  Style: Modern travel poster meets watercolor painting, airy and atmospheric, blend of illustration and photo-collage, warm and tranquil mood, high detail.

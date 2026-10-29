@@ -1,0 +1,39 @@
+id: gpt-image-pink-varsity-flower-cafe-portrait
+title:
+  en: Pink varsity jacket woman seated at flower cafe
+  zh: 粉色棒球外套女生坐在花店咖啡馆外
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- pastel
+- flower-shop
+- low-angle
+- face-preserve
+source:
+  name: '@xRahultripathi on X'
+  url: https://x.com/xRahultripathi/status/2050677614168391716
+  credit: xRahultripathi
+  captured: '2026-10-28'
+  posted: '2026-05-02'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Strict labelled blocks for pose, framing, outfit, lighting and camera keep the edit controlled, while a keep the same face clause preserves identity. A low angle 50mm lens, a warm pastel grade and a negative list for eye contact and cropping steer the composition.
+  zh: 姿势、构图、服装、光线和镜头分块写明，并加入保持同一张脸的约束来锁定人物身份。低机位 50mm 镜头、暖粉色调，再用负面词排除对视和裁切，让构图稳定。
+prompt: |
+  Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.
+
+  Subject: young woman (18–23) with soft feminine beauty, smooth glowing skin, natural texture.
+  Pose (strict): seated on a wooden chair, body angled sideways (45–70°), legs crossed naturally, upper body slightly leaning forward, head turned away from camera, gaze to the side. She holds a drink cup with a straw using both hands.
+  Framing: full-body vertical (9:16), head to shoes visible, centered but slightly offset for natural composition.
+  Outfit: light pink varsity jacket with white stripes, soft pink inner top, modest knee-length pleated skirt, white sneakers.
+  Accessories: beige newsboy cap, sunglasses (on face or cap), pink shoulder bag, small earrings.
+  Hair: neat low bun with soft loose strands.
+  Environment: outdoor flower shop street scene with pastel flowers (pink, soft tones), decorative plants, floral storefront.
+  Lighting: bright natural daylight, soft glossy skin highlights, balanced exposure, soft shadows.
+  Camera: low/frog angle (slightly below, looking up), 50mm lens, shallow depth of field.
+  Color grading: warm pastel palette (pink, cream), clean bright lifestyle aesthetic.
+  Quality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.
+  Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.
+  --ar 9:16 --style raw --quality high

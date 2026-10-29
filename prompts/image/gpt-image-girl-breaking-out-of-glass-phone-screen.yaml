@@ -1,0 +1,31 @@
+id: gpt-image-girl-breaking-out-of-glass-phone-screen
+title:
+  en: Girl stepping out of shattering glass phone
+  zh: 女孩从碎裂的玻璃手机屏幕中跨步而出
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- 3d-render
+- glass-phone
+- digital-particles
+- pixar-style
+- sunset-glow
+source:
+  name: '@MrGafish on X'
+  url: https://x.com/MrGafish/status/2052632520563528051
+  credit: MrGafish
+  captured: '2026-10-28'
+  posted: '2026-05-08'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A forced low angle perspective pushes one foot toward the viewer, while glass cracks and glowing pixel shards radiate along the direction of her motion. A warm beige, pink and purple gradient with golden sunset bokeh and a Pixar meets semi-realistic style keeps the scene cohesive.
+  zh: 强制低机位透视把一只脚推向镜头，玻璃裂纹和发光像素碎片沿人物运动方向向外扩散。米色、粉色、紫色渐变加金色夕阳光斑，并融合皮克斯与半写实风格，让画面统一。
+prompt: |
+  将一位气质绝佳的女孩放置在一个显示小红书帖文的3D透明玻璃手机画面中，并重新调整她的身体姿势，使她看起来像是正从屏幕中突破、进入现实世界。其中一只脚必须强烈地朝向观者延伸，采用戏剧化的 3D 透视效果，创造出强烈的深度感与沉浸感。整体姿势需要具有动态感、自然且符合人体结构，就像是在从屏幕中跨步而出的瞬间。
+
+  手机屏幕边缘出现真实细腻的玻璃裂纹与数字粒子效果，大量发光的像素碎片与光粒向外扩散，形成富有未来感的“数字破屏”视觉特效。所有碎片与光效自然围绕人物运动方向展开，具有电影级空间层次感。
+
+  整体画面采用温暖米色、柔粉色与梦幻紫色渐变背景，结合金粉色夕阳光斑与电影级柔光渲染。Pixar风格与半现实主义融合，超精细材质，柔和景深，电影感光影，8K超高清品质。
+
+  将画面优化为竖版【9:16】比例（1080×1440），适用于社交媒体展示。

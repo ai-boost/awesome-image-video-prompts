@@ -1,0 +1,25 @@
+id: gpt-image-street-dancer-character-sheet-industrial
+title:
+  en: Street dancer character sheet with four poses
+  zh: 街舞舞者角色设定图，四个全身动态加三个头部特写
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- character-sheet
+- street-dance
+- multi-angle
+- industrial
+- full-body
+source:
+  name: '@ChangningL29508 on X'
+  url: https://x.com/ChangningL29508/status/2052229452080591276
+  credit: ChangningL29508
+  captured: '2026-10-28'
+  posted: '2026-05-07'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The layout is specified by count: four large full body dance poses plus a side strip of three head views (front, profile, three quarter). Cutting text elements frees pixels for facial detail, and a gritty industrial backdrop with realistic lighting sets the mood.'
+  zh: 提示词用数量锁定版式：四个大幅全身舞姿，加侧边三个头部视角（正面、侧面、3/4侧面）。减少文字元素把像素留给面部细节，再用粗砺工业背景和写实光影定下氛围。
+prompt: |
+  角色设定图布局，聚焦于一位18岁的亚裔女性街舞舞者。包含4个大型、高细节度的全身动态舞姿（突出舞蹈动作，面部清晰）。侧边附一条清晰的多角度参考条，仅含3个精细头部特写（正面、侧面、3/4侧面）。最大限度减少文字元素，将像素空间优先用于面部细节刻画。背景为粗砺工业风，搭配写实光影效果

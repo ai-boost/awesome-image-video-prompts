@@ -1,0 +1,25 @@
+id: gpt-image-math-concept-lecture-handout-infographic
+title:
+  en: Hand-Drawn Math Lecture Handout Infographic
+  zh: 手绘风数学讲义信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- math
+- education
+- hand-drawn
+- template
+source:
+  name: '@hqmank on X'
+  url: https://x.com/hqmank/status/2048587150544028084
+  credit: hqmank
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A fill-in-the-blank topic slot lets one template cover any math concept. A defined palette of deep blue title, dark gray lines and four accents, plus named components such as numbered cards, zoom-in callouts and a summary section, keeps the layout organized and dense without clutter.
+  zh: 用可替换的主题占位符让同一模板适配任意数学概念。明确的配色(深蓝标题、深灰线条加四种点缀色)和具名组件(编号卡片、放大标注、总结区)让版面信息密集却不杂乱。
+prompt: |
+  Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.

@@ -1,0 +1,65 @@
+id: nano-banana-mythpunk-floating-jungle-temple-miniature
+title:
+  en: Floating Jungle Temple Miniature With Glowing Glyphs
+  zh: 悬浮丛林神庙微缩世界与发光符文
+model: Nano Banana 2.1
+mode: text-to-image
+category: architecture
+tags:
+- miniature
+- isometric
+- fantasy
+- mesoamerican
+- claymation
+source:
+  name: '@artingent on X'
+  url: https://x.com/artingent/status/2108541437189242932
+  credit: Artingent
+  likes: 34
+  captured: '2026-10-28'
+  posted: '2026-10-09'
+notes:
+  en: A numbered priority hierarchy tells the model which rules win, keeping the isometric miniature readable. Fixed section headers, a negative rule against gears and a plaque spec with line by line text add control.
+  zh: 编号的优先级层级告诉模型哪些规则优先，让等距微缩场景保持清晰易读。固定的分区标题、禁止齿轮的否定规则以及逐行规定文字的铭牌说明增强了可控性。
+prompt: |
+  SCENE
+  Do not render gears or representations of gears in the scene
+  A visually rich handcrafted floating miniature world built on a fragmented terrain as the PRIMARY structure, centered on an ancient ruin complex in Mesoamerican myth style within a dense jungle environment. A prophecy event unfolds as structures begin to glow and shift, with the central stepped temple as the dominant focal structure. Surrounding ruins and terrain remain controlled and readable.
+
+  WORLD DESIGN
+  Fragmented terrain, jungle environment, sacred plateau with symbolic pathways linking temple ruins.
+
+  ARCHITECTURE & MATERIALS
+  Stepped temple structures and shrine ruins with layered forms, constructed from stone and divine materials, featuring carvings, glyphs, and symbolic reliefs.
+
+  PROPS & SYMBOLS
+  Altars, relic pedestals, statues, carved symbols, glowing glyphs, floating particles, sacred motifs.
+
+  LIFE & ACTIVITY
+  Priests and guardians performing invoking rituals and observation; mythic beasts present.
+
+  LIGHTING & ATMOSPHERE
+  Eternal dusk with ambient glow and energy beams emerging from the temple; mist, aura, and particles create an ominous mysterious tone.
+
+  PRIORITY HIERARCHY (CRITICAL)
+  1. Miniature readability, scale clarity, clean silhouette
+  2. Strong mythic focal structure
+  3. Symbolic coherence (consistent myth language)
+  4. Controlled surrealism (strange but readable)
+  5. Atmospheric depth and mood
+  6. Narrative clarity (scene tells a story)
+     Never sacrifice higher priority rules for lower ones.
+
+  PRIME DIRECTIVE
+  CAMERA Use an isometric camera capturing the entire floating miniature world clearly from top to bottom and side to side.
+
+  STYLE
+  Ultra detailed 8k Octane Render, hybrid high poly 3D + miniature world + claymation
+
+  DESCRIPTION PLAQUE
+  Position bottom right
+  Do not render gears or representations of gears in the plaque
+  Line 1 bold heading max 5 words
+  Line 2 bold MYTHPUNK smaller
+  Line 3 description max 30 words
+  Plaque must be rendered in aesthetically in an artistic mythpunk style.

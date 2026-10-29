@@ -1,0 +1,35 @@
+id: gpt-image-graphite-pencil-portrait-blue-butterflies-cap
+title:
+  en: Graphite pencil portrait with blue butterflies and cap
+  zh: 戴帽子的石墨铅笔肖像与蓝色蝴蝶
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- pencil-sketch
+- graphite
+- butterflies
+- selfie-to-art
+- portrait
+source:
+  name: '@Arina_hoqe on X'
+  url: https://x.com/Arina_hoqe/status/2104426552972980328
+  credit: Arina Ai
+  likes: 96
+  captured: '2026-10-28'
+  posted: '2026-09-28'
+notes:
+  en: Locks identity to the reference photo, then limits colour to deep blue and metallic gold accents on a black and white graphite drawing. A hand sketching in frame, surrounding pencils and shavings, and a closing list of negatives keep the scene realistic.
+  zh: 先锁定参考图中的人物身份，再把色彩限制为黑白石墨画加深蓝与金属金点缀。画面里有手在作画，周围摆放铅笔与铅笔屑，结尾的否定清单让画面保持写实。
+prompt: |
+  Create a highly detailed 9:16 graffiti-style pencil portrait of the same young man from the reference image, preserving his exact facial identity, face shape, eyes, nose, lips, curly/wavy dark hair, and natural realistic features.
+
+  He is wearing a stylish two-tone gray-and-deep-blue flat cap with a small blue button, round metal-frame glasses decorated with tiny metallic-gold butterfly details, and a thick textured blue scarf wrapped naturally around his neck.
+
+  A realistic hand holds a pencil and appears to sketch the side of his face and hair. Blue butterflies flutter naturally around his head and face. Surround the portrait with sharpened blue and graphite pencils, pencil shavings, an eraser, paper clips, geometric sketch lines, graphite marks, and clean white drawing paper.
+
+  Style: ultra-realistic black-and-white graphite pencil drawing with selective deep-blue and metallic-gold accents, highly detailed curly hair, realistic skin texture, delicate shading, fine crosshatching, realistic fabric texture, sharp focus, premium artistic composition, intricate hand-drawn details, elegant editorial graffiti-sketch aesthetic.
+
+  Preserve the exact identity of the reference person. No face distortion, no identity change, no extra people, no extra fingers or limbs, no cartoon or anime style, no plastic skin, no 3D look.
+
+  Add a professional italic handwritten signature: “Arina Ai” at the bottom right.

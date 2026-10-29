@@ -1,0 +1,41 @@
+id: gpt-image-taco-exploded-layer-infographic
+title:
+  en: Exploded taco layers with pointer line labels
+  zh: 塔可分层爆炸图与引线标注
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- food
+- exploded-view
+- infographic
+- labels
+- commercial
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2056018963084226866
+  credit: Strength04_X
+  captured: '2026-10-28'
+  posted: '2026-05-17'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt lists each layer from top to bottom with a texture cue for every ingredient, so the stack stays aligned and the food looks real. The exact label words and thin pointer lines turn the photo into a clean infographic.
+  zh: 提示词按自上而下列出每一层，并给每种食材写明质感，所以层次对齐，食物显得真实。指定的标签文字和细引线把照片变成干净的信息图。
+prompt: |
+  Create a hyper-realistic exploded vertical infographic composition of tacos.
+
+  Top → Bottom structure:
+  Fresh Lettuce (crisp green texture with natural folds)
+  → Tomato & Salsa Layer (juicy diced tomatoes and salsa mix)
+  → Melted Cheese (smooth cheddar texture)
+  → Grilled Meat Filling (juicy seasoned meat detail)
+  → Taco Shell Base (crispy golden shell texture)
+  Perfect vertical alignment, rustic background, soft studio lighting, realistic shadows beneath each floating element.
+
+  Add clean infographic text labels with thin pointer lines using these exact labels:
+  “Lettuce”
+  “Salsa”
+  “Cheese”
+  “Meat”
+  “Shell”
+  Ultra-detailed food textures, premium commercial aesthetic, 8K.

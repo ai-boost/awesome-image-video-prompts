@@ -1,0 +1,30 @@
+id: gpt-image-night-tokyo-flash-blur-candid-snapshot
+title:
+  en: Blurred Flash Snapshot on Night Tokyo Sidewalk
+  zh: 东京夜晚人行道上的模糊闪光抓拍
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- candid
+- smartphone-photo
+- motion-blur
+- night
+- flash
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2070011415662842000
+  credit: WasifAI
+  likes: 713
+  captured: '2026-10-28'
+  posted: '2026-06-25'
+notes:
+  en: Stacks accidental phone camera cues such as flash during motion, handheld shake, directional blur, blown highlights and heavy noise to fake a raw snapshot. The negative prompt blocks studio lighting, sharp focus and identity matching.
+  zh: 叠加运动中闪光、手持抖动、方向性模糊、过曝高光和大量噪点等手机随手拍特征，营造未经修饰的抓拍感。负面提示排除影棚光、锐利对焦和真人复刻。
+prompt: |
+  GPT Image 2
+
+  {
+    "prompt": "Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman inspired only by general proportions/vibe. Night Tokyo sidewalk beside white ceramic tile wall. Mid-walk, half-profile, turning back in surprise, hand raised toward lens, shy restrained smile, continuing forward, imperfect framing, nearly exiting frame. Flash fired during motion. Strong handheld shake, heavy directional blur, smeared facial details, blurred hand and hair, ghosting, streaked tile wall, deep darkness around. Harsh flash highlights, blown exposure, hard shadows. Raw accidental snapshot, intrusive, playful, fleeting memory. Extremely noisy, heavily blurred, authentic phone-camera look.",
+    "negative_prompt": "identity match, face copy, real person replication, anime, illustration, painting, stylized, studio lighting, beauty lighting, sharp focus, clean face, smooth skin, posed portrait, fashion editorial, cinematic, film still, tripod, professional photography"
+  }

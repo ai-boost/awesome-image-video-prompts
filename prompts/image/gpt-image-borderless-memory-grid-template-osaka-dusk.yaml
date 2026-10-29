@@ -1,0 +1,43 @@
+id: gpt-image-borderless-memory-grid-template-osaka-dusk
+title:
+  en: Osaka dusk streets in a borderless 4x3 grid
+  zh: 大阪黄昏街景无缝四乘三图板
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- image-board
+- grid
+- template
+- nostalgic
+- cityscape
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2048183782876778821
+  credit: Kōda
+  likes: 229
+  captured: '2026-10-28'
+  posted: '2026-04-25'
+notes:
+  en: A parameter template with slots for subject, grid layout, theme, mood and style. Asking for a borderless grid, consistent color and lighting, no text and no gap keeps twelve independent panels reading as one nostalgic board.
+  zh: 参数化模板，把主体、网格、主题、情绪和风格拆成可替换的槽位。要求无边框网格、统一色彩与光线、无文字无间隙，让十二个独立画面连成一张怀旧图板。
+prompt: |
+  [SUBJECT]: your main character, place, object, city or concept
+  [GRID_LAYOUT]: panel layout
+  [THEME]: story theme, memory type or visual concept
+  [MOOD]: emotional tone
+  [STYLE]: visual style
+
+  Create a [GRID_LAYOUT] borderless grid where each panel is an independent image of the [SUBJECT]. Maintain strong subject consistency across all panels, with consistent color and lighting. Depict [THEME] with a [MOOD] mood in [STYLE] style. No text. No gap.
+
+  ---
+
+  Example Parameters
+
+  [SUBJECT]: a young woman / Osaka / a medieval knight / a seaside town / a lost robot
+  [GRID_LAYOUT]: 4x3 / 3x3 / 2x4 / 5x2 / 6x6
+  [THEME]: childhood memories / school life memories / neon night city life / summer vacation memories / rainy day memories / color-themed memories
+  [MOOD]: warm, nostalgic, wistful / emotional, heartfelt, tender / dreamy, quiet, melancholic / bittersweet, intimate, reflective
+  [STYLE]: nostalgic cinematic realism / sentimental film photography / wistful slice-of-life realism / dreamy nostalgic realism / soft retro film still / emotional memory-like photography / warm vintage realism / melancholic cinematic still
+
+  Used prompts in ALTs.

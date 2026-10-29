@@ -1,0 +1,30 @@
+id: gpt-image-guadalajara-vintage-movie-travel-poster
+title:
+  en: Guadalajara vintage travel poster with mariachi silhouette
+  zh: 瓜达拉哈拉复古旅行海报与墨西哥乐手剪影
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- vintage
+- film-grain
+- silhouette
+- typography
+source:
+  name: '@MiMundoConIA on X'
+  url: https://x.com/MiMundoConIA/status/2077046470335938826
+  credit: MiMundoConIA
+  captured: '2026-10-28'
+  posted: '2026-07-14'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Splits the scene into foreground, midground and background layers so the theatre and cathedral sit apart, and keeps the musician a featureless silhouette to avoid face errors. Vintage print texture is described through grain, halftone and ink bleed rather than a style label.
+  zh: 把画面分成前景、中景和远景三层,让剧院与大教堂各占一层,乐手只保留无五官的剪影以避免人脸出错。复古印刷质感用颗粒、网点和油墨晕染来描述,而不是只写风格名称。
+prompt: |
+  @Crea una imagen {
+    "style": "Cinematic Vintage Movie Poster — Guadalajara, Mexico",
+    "target_tool": "DALL-E 3 (ChatGPT)",
+    "prompt": "Generate a vertical portrait-format movie poster image, taller than wide in a 2:3 aspect ratio. The image is a cinematic vintage travel movie poster for Guadalajara, Mexico, rendered with the visual texture of an aged large-format film poster: heavy 35mm film grain throughout especially in the shadow areas, slightly faded and warm-shifted color tones as if printed on aged matte paper stock, a subtle halftone dot pattern visible in the midtones, and a very slight ink bleed at high-contrast edges giving it an authentic vintage printed poster feel. Foreground: a single dark silhouette of a lone mariachi musician standing still at the center-bottom of the frame, rendered as a pure clean dark silhouette with no facial features visible — traditional wide-brim charro sombrero, fitted traje de charro suit outline, holding a guitarrón — casting a long warm shadow across the honey-colored cantera stone paving of Plaza de la Liberación below, with colorful papel picado banners in red, orange, green and yellow cut tissue paper strung in loose diagonal lines overhead from building to building, swaying slightly, framing the upper composition, no people other than the single silhouetted figure, no vehicles, no modern objects. Midground: the grand honey-amber cantera stone neoclassical facade of the Teatro Degollado rising directly behind the silhouette, its ornate columned portico and triangular pediment warmly lit by the low golden-hour sun hitting from the left, long dramatic shadows stretching across the stone paving, the warm amber volcanic stone glowing intensely in the golden light. Background: the twin neo-Gothic spires of the Catedral Metropolitana de Guadalajara rising tall into the upper frame against a vast deep cerulean blue sky transitioning to burnt amber and deep orange near the horizon, a single scattered cloud catching violet and gold light from below, the cathedral facade in warm honey stone matching the Teatro Degollado's palette. Color grade: saturated warm amber and golden honey tones dominating the stone architecture, deep cobalt blue in the upper sky, rich burnt orange near the horizon, faded warm sepia in the shadow areas consistent with a vintage printed poster. At the very top of the image, centered above the spires, render the single word GUADALAJARA in bold condensed uppercase display serif letters in warm cream-gold with a faint dark drop shadow, leaving clear sky negative space for the title. No modern buildings, no cars, no utility wires, no people other than the single dark silhouette visible anywhere in the scene.",
+    "target": "🎯 Target: DALL-E 3 (ChatGPT) — 💡 Foreground/midground/background separation places Teatro Degollado and the Cathedral in distinct spatial layers, the mariachi silhouette is specified as a featureless outline to eliminate aberration risk, and vintage print texture is described visually rather than as a style label."
+  }

@@ -1,0 +1,29 @@
+id: gpt-image-xuanwu-gate-wechat-moments
+title:
+  en: WeChat Moments feed of the Xuanwu Gate Incident
+  zh: 玄武门之变的微信朋友圈界面
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- wechat-moments
+- history
+- tang-dynasty
+- social-feed
+- chinese-text
+source:
+  name: '@Tz_2022 on X'
+  url: https://x.com/Tz_2022/status/2046523491940225366
+  credit: Tz_2022
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A short topic naming a familiar app format and a historical event is enough. The model fills in period avatars, in-character posts, a likes list and folded comments, so the interface itself carries the story.
+  zh: 只需写明熟悉的应用界面和历史事件，模型就会补全古装头像、符合人设的文案、点赞名单和折叠评论，让界面本身讲出故事。
+prompt: |
+  [中文]
+  玄武门之变的朋友圈
+
+  [English]
+  WeChat Moments of the Xuanwu Gate Incident

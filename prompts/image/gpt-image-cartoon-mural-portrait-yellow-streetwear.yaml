@@ -1,0 +1,49 @@
+id: gpt-image-cartoon-mural-portrait-yellow-streetwear
+title:
+  en: Cartoon mural portrait behind yellow streetwear photo
+  zh: 涂鸦墙卡通肖像与黄色街头写真
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- graffiti-wall
+- streetwear
+- cartoon-overlay
+- identity-lock
+- yellow
+source:
+  name: '@Techbyhani on X'
+  url: https://x.com/Techbyhani/status/2102715195454074956
+  credit: Hania
+  likes: 59
+  captured: '2026-10-28'
+  posted: '2026-09-23'
+notes:
+  en: Labelled EXACT sections for concept, subject, outfit, background, lighting, color grade and camera keep the layered composite under control. An identity lock paragraph tied to a reference photo keeps the real face stable while the background copy stays stylized.
+  zh: 用带 EXACT 标记的分段分别约束概念、主体、服装、背景、光线、色调和镜头，让图文叠层的构图保持可控。身份锁定段落绑定参考照片，保证前景真人面部不变，背景插画则允许风格化。
+prompt: |
+  Cartoon Ghost Portrait + Sharp Streetwear Photo (Graffiti Wall)
+
+  CONCEPT — EXACT: A layered composite — a massive stylized cartoon/anime-style illustrated portrait fills the background against a vibrant graffiti-covered concrete wall, and a smaller sharp full-color photorealistic full-body portrait of the same woman stands in the foreground.
+
+  BACKGROUND CARTOON PORTRAIT — EXACT: Large flat-shaded anime/webtoon-style illustrated portrait, head tilted slightly, long straight dark hair falling past the waist, white rectangular sunglasses, glossy red lips, wearing an oversized yellow graphic t-shirt with a small "NY" logo patch and white sleeve stripes, rendered in clean cel-shaded illustration style with bold outlines, blended into the graffiti wall so it reads as a mural-style painting.
+
+  MAIN SUBJECT — FOREGROUND — EXACT: Full-body standing pose, hands tucked into the pockets of oversized cargo pants, head tilted slightly, calm confident expression, white rectangular sunglasses, long dark wavy hair with subtle highlights, thin silver necklace, small stud earrings, silver bracelet.
+
+  MAIN SUBJECT IDENTITY LOCK: Foreground photorealistic face must match the reference photo exactly — same jaw width, cheek fullness, eyebrow shape, eye shape/color, nose bridge, and lip shape. The background cartoon portrait may be stylized as illustrated art but should echo the same facial features and hairstyle.
+
+  BODY: Fair skin tone, slim build, relaxed confident standing posture.
+
+  OUTFIT: Oversized yellow crew-neck t-shirt with a small "NY" logo patch on the chest and white sleeve-cuff stripes, matching yellow cargo pants with multiple pockets and a drawstring waist, white sneakers, thin silver necklace, silver bracelet.
+
+  BACKGROUND/ENVIRONMENT — EXACT: A concrete wall densely covered in colorful graffiti street art — bold red, blue, orange, and yellow spray-paint shapes, splatter marks, and abstract tag lettering, a white vertical drainpipe running along the right edge, a strip of bright blue sky visible in the upper-right corner, plain grey concrete pavement beneath the subject's feet.
+
+  LIGHTING — EXACT: Bright natural daylight throughout, strong directional sunlight casting a defined shadow on the pavement, vivid clear outdoor lighting on the foreground figure.
+
+  COLOR GRADE — EXACT: Vivid saturated yellow dominant throughout both the outfit and the illustrated background portrait, bold multicolor graffiti tones providing contrast, natural warm skin tone on the photorealistic figure, clean vibrant streetwear-editorial color grading.
+
+  CAMERA: Shot on 35mm lens, natural street-level framing, sharp photorealistic focus on the foreground figure, background cartoon portrait cleanly illustrated with flat shading and bold linework.
+
+  Ultra photorealistic — zero AI artifacts, no watermark.
+
+  IMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity of the photorealistic foreground figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture, and feminine proportions exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, or replace my face with a random celebrity or model face in the foreground portrait. Identity preservation is the highest priority for the photorealistic figure.

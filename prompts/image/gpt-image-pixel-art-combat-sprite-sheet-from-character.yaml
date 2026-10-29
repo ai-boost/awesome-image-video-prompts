@@ -4,7 +4,7 @@ title:
   zh: 由角色渲染图生成像素风战斗精灵表
 model: GPT Image 2.5
 mode: image-edit
-category: illustration
+category: character
 tags:
 - sprite-sheet
 - pixel-art

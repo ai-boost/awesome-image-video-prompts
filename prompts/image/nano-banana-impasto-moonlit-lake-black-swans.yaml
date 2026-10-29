@@ -1,0 +1,25 @@
+id: nano-banana-impasto-moonlit-lake-black-swans
+title:
+  en: Impasto oil painting of moonlit lake with black swans
+  zh: 月光湖面与黑天鹅的厚涂油画
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- oil-painting
+- impasto
+- landscape
+- moonlight
+- swans
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2107856173839872397
+  credit: Viki
+  likes: 110
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+notes:
+  en: Opens with the medium and texture (thick impasto, palette knife strokes), then lists scene elements with placement and count, such as six swans and a cherry tree on the right shore. It closes with mood and lighting terms.
+  zh: 开头先定媒介和质感（厚涂、刮刀笔触），再逐项列出场景元素并写明位置和数量，如六只天鹅、右岸樱花树，最后用氛围与光线词收尾。
+prompt: |
+  Oil painting style, thick impasto texture with visible palette knife strokes. A serene lake at dusk with a large golden moon partially hidden behind textured grey clouds. Six black swans swimming gracefully on the water, creating gentle ripples. Golden moonlight reflecting on the water surface. Pink cherry blossom tree on the right shore with petals falling slowly. Small cozy house with warm yellow lights in the windows. Dry golden reeds swaying gently in the breeze. Mountains in the distance. Calm, peaceful atmosphere, cinematic lighting, 4k.

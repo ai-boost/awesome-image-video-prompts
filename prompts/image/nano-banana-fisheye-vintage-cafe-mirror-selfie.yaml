@@ -1,0 +1,39 @@
+id: nano-banana-fisheye-vintage-cafe-mirror-selfie
+title:
+  en: Fisheye vintage cafe mirror selfie in turquoise interior
+  zh: 青绿色复古咖啡馆的鱼眼镜面自拍
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- fisheye
+- mirror-selfie
+- vintage-film
+- cafe
+- identity-lock
+source:
+  name: '@TheVirtualMuse on X'
+  url: https://x.com/TheVirtualMuse/status/2108762311251116034
+  credit: Areeba
+  likes: 121
+  captured: '2026-10-28'
+  posted: '2026-10-10'
+notes:
+  en: An identity lock block keeps the reference face intact, while labeled sections for scene, background, lighting and camera separate each concern. Fisheye curvature is tied to a circular brass mirror, and strict rules about reflections and a single continuous photo keep the result realistic.
+  zh: 用身份锁定段落保住参考图人脸，再按场景、背景、光线、相机分段写清各自要求。鱼眼畸变与圆形黄铜镜绑定，并用严格规则约束倒影和单张连续照片，保证真实感。
+prompt: |
+  Using the uploaded reference image, create an ultra-realistic 1990s vintage café mirror selfie with a playful fisheye photography aesthetic.
+
+  IDENTITY LOCK: Preserve the exact facial identity of the reference person with maximum accuracy. Maintain the original eye shape, nose, lips, jawline, facial proportions, natural skin tone, age, and recognizable features. No facial alterations, beautification, or artificial skin smoothing.
+
+  SCENE & COMPOSITION: The subject is naturally taking a mirror selfie inside a beautiful vintage European café, standing in front of a large circular mirror with an aged brass frame. Use a strong fisheye lens perspective, creating dramatic yet realistic curvature around the café interior while keeping the subject's face naturally proportioned. The phone must appear correctly reflected in the mirror.
+
+  BACKGROUND: A charming retro café featuring turquoise accent walls, vintage wooden furniture, small round café tables, patterned tiled flooring, warm hanging pendant lights, antique decorative details, and soft daylight entering through large windows. The entire interior should curve naturally around the circular mirror.
+
+  LIGHTING & COLOR: Authentic 1990s analog film photography, warm golden highlights, slightly faded vintage colors, natural skin tones, soft shadows, subtle 35mm film grain, gentle contrast, and realistic reflections.
+
+  CAMERA & REALISM: Strong fisheye wide-angle perspective, authentic mirror reflections, natural handheld selfie composition, realistic optical distortion, detailed skin texture, individual hair strands, accurate fabric textures, and natural imperfections. Premium 8K photographic quality with the organic character of a genuine vintage film photograph.
+
+  STRICT RULES: One continuous photograph, no collage, no split screen, no additional people, no distorted facial features, no extra fingers, no incorrect reflections, no CGI, no artificial AI-generated appearance, no readable text, no logos, and no watermark.
+
+  FINAL LOOK: A beautiful, effortlessly candid vintage café mirror selfie that looks like a genuine photograph captured on a real fisheye lens, not an AI-generated image.

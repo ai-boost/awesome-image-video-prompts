@@ -1,0 +1,96 @@
+id: gpt-image-modern-house-architecture-handbook-infographic
+title:
+  en: Modern House Architecture Handbook Infographic Page
+  zh: 现代住宅建筑手册信息图页面
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- architecture
+- house
+- template
+- editorial
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2053147765409288633
+  credit: Meem
+  likes: 538
+  captured: '2026-10-28'
+  posted: '2026-05-09'
+notes:
+  en: A HOUSE_STYLE placeholder makes the prompt reusable. It pairs one hero three-quarter render with long lists of named modular sections and visualization modules, plus an explicit avoid list that keeps the page from looking like a real estate flyer.
+  zh: 用 HOUSE_STYLE 占位符让提示词可以反复套用。它把一张四分之三视角的主render和一长串命名的模块化板块、可视化模块组合起来,再用明确的避免清单防止画面变成房地产传单。
+prompt: |
+  Create a premium square “reference-style architectural infographic” centered around a luxurious {HOUSE_STYLE} modern house, designed as a beautifully curated architecture handbook page rather than a real-estate advertisement.
+  The composition should feel like a modern visual encyclopedia mixed with an elite architectural field guide and high-end editorial infographic system.
+  Visual Direction:
+  • 1:1 square composition
+  • Soft light-toned architectural background with subtle blueprint textures and drafting schematics
+  • Elegant muted palette using warm white, charcoal gray, natural wood tones, matte black, concrete gray, and soft steel blue accents
+  • Refined editorial typography hierarchy
+  • Rounded modular information cards with clean spacing
+  • Gentle realistic shadows and premium UI-style dividers
+  • Minimal architectural iconography
+  • Extremely detailed central house render viewed in dramatic three-quarter exterior perspective during soft golden-hour lighting
+  • Thin precision annotation lines pointing toward architectural systems and design features
+  • Clean, organized “knowledge-first” layout with high information density but breathable spacing
+  Main Subject Presentation:
+  A stunning ultra-detailed realistic render of the {HOUSE_STYLE} modern house placed at the center, featuring premium architectural realism, floor-to-ceiling glass walls, realistic reflections, warm ambient lighting, natural landscaping, modern material textures, elegant geometry, and sophisticated contemporary detailing.
+  Surround the house with scientific and architectural callouts explaining:
+  • façade design
+  • structural engineering
+  • smart home systems
+  • sustainable architecture
+  • passive cooling systems
+  • roof design
+  • glazing and natural lighting
+  • interior planning
+  • landscaping integration
+  • energy-efficient materials
+  Include modular infographic sections such as:
+  • House Overview
+  • Key Specifications
+  • Floor Plan Overview
+  • Structural & Material Breakdown
+  • Smart Home Features
+  • Sustainability Systems
+  • Climate-Responsive Design
+  • Interior Design Highlights
+  • Kitchen & Bathroom Concepts
+  • Area Distribution Charts
+  • Construction Timeline
+  • Cost Estimation (Indicative)
+  • Advantages vs Considerations
+  • Site Plan Layout
+  • Sectional Architectural View
+  • “Top 5 Incredible Facts” section
+  • Ideal Locations & Usage Scenarios
+  Add small premium visualization modules like:
+  • floor plan diagrams
+  • section-cut architectural drawings
+  • airflow & ventilation diagrams
+  • sunlight direction graphics
+  • smart-home workflow visuals
+  • landscaping/site layout plans
+  • material palette displays
+  • sustainability performance charts
+  • miniature blueprint elevation views
+  • room distribution infographics
+  Style Keywords:
+  “premium architecture encyclopedia”
+  “editorial architectural handbook”
+  “high-end residential infographic”
+  “museum-quality modern house reference page”
+  “scientific architectural poster”
+  “luxury home design editorial”
+  “modular architectural knowledge system”
+  “ultra-detailed architectural visualization”
+  Avoid:
+  • generic real-estate flyer aesthetics
+  • cluttered luxury brochure layouts
+  • excessive cinematic effects
+  • overly dark moody scenes
+  • unrealistic futuristic sci-fi architecture
+  • advertisement-heavy compositions
+  The final result should resemble a professionally published architectural reference-book page created for architects, interior designers, collectors, luxury home enthusiasts, and educational design archives.

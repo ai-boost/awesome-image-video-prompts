@@ -1,0 +1,28 @@
+id: gpt-image-morning-bedroom-candid-window-light
+title:
+  en: Candid Morning Bedroom Portrait in Window Light
+  zh: 晨光窗边卧室抓拍人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- morning-light
+- candid
+- bedroom
+- film-grain
+- japanese-woman
+source:
+  name: '@ToroJushiAi on X'
+  url: https://x.com/ToroJushiAi/status/2053078195482632421
+  credit: ToroJushiAi
+  captured: '2026-10-28'
+  posted: '2026-05-09'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt fixes camera angle, light direction and a cool-to-warm transition, then adds physical skin detail such as subsurface scattering, stray hairs and ISO 400 grain. A lived-in background and a closing list of exclusions (cartoon, illustration, anime) keep the result photographic.
+  zh: 提示词先锁定机位角度、光线方向和冷暖过渡，再加入皮肤次表面散射、散落发丝和 ISO 400 颗粒等物理细节。生活化的背景和结尾的排除项（卡通、插画、动漫）让画面保持摄影质感。
+prompt: |
+  A close-medium shot of a young Japanese woman in her bedroom on an ordinary morning, captured in authentic daily life photography as a natural candid moment. She is seated sideways on the edge of the bed, not fully awake yet, photographed from a slightly elevated three-quarter angle with cool-to-warm morning window light entering from the left.
+  East Asian young woman in her early 20s. Almond-shaped eyes with soft natural single eyelids, slightly elongated eye corners, still carrying the heaviness of just waking. Straight refined nose with a delicate bridge. Skin tone fair to light beige — skin subsurface scattering visible under the soft directional morning window light, specular micro-highlights catching gently on her cheekbone and nose ridge, fine skin texture perceptible, no makeup. Naturally straight fine black hair loosely gathered, slightly disheveled from sleep.
+  She wears a loose oversized cotton sleep shirt and soft shorts, nothing styled. Her gaze drifts toward the window, posture relaxed and unhurried, one hand resting on her knee, the other barely holding a phone face-down. The bedroom background suggests real life — slightly unmade linen, a potted plant near the window partially in shadow, small cluttered bedside items. Two or three stray hairs fall across her cheek in natural asymmetric displacement, not geometrically placed.
+  Soft directional morning light from a side window, cool-to-warm transition across her face and shoulder, long gentle shadows on the bedding behind her. The mood is quietly adrift — not sad, not performing, just suspended in the unhurried first minutes of the day. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.

@@ -1,0 +1,36 @@
+id: gpt-image-oversized-button-fashion-split-editorial
+title:
+  en: Split frame fashion editorial with oversized colorful buttons
+  zh: 巨型彩色纽扣分屏时尚大片
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- editorial
+- split-frame
+- buttons
+- studio
+source:
+  name: '@Mind_Boticni on X'
+  url: https://x.com/Mind_Boticni/status/2053082199436759258
+  credit: Mind_Boticni
+  captured: '2026-10-28'
+  posted: '2026-05-09'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A split frame layout names each panel separately (full body left, two half body panels right) and asks for a different face, pose and background tone in each. A fixed cyan, orange, yellow and red palette plus glossy studio lighting keeps the three panels unified.
+  zh: 提示词为每个分屏单独写明景别（左侧全身，右侧上下两个半身），并要求各自不同的面孔、姿势和背景色调。固定的青橙黄红配色加上统一的光泽棚拍灯光，让三个画面保持一致。
+prompt: |
+  Use reference image as style guide.
+  Surreal minimalist fashion editorial photography with vibrant oversized colorful buttons as main visual theme (cyan, orange, yellow, red palette), glossy 3D surface design, clean studio lighting, ultra-smooth gradients, and high-end commercial fashion look.
+  Split-frame composition:
+
+  Left side: full-body female model standing from top to bottom, wearing bold minimalist fashion outfit inspired by reference style, confident pose, clean studio background filled with oversized colorful buttons, cinematic lighting, soft shadows, ultra-clean composition.
+
+  Right side (vertically split into two parts):
+  Top-right: half-body female model, different face, different pose, different outfit variation inspired by same button aesthetic, different background color mood.
+  Bottom-right: another half-body female model, completely different expression and pose, different styling, different background tone, maintaining same surreal button universe aesthetic.
+
+  Each section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.
+  Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1

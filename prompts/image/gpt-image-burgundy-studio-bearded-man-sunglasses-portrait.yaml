@@ -1,0 +1,29 @@
+id: gpt-image-burgundy-studio-bearded-man-sunglasses-portrait
+title:
+  en: Burgundy studio portrait of bearded man in sunglasses
+  zh: 酒红棚拍戴墨镜的络腮胡男士肖像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- fashion-portrait
+- studio-lighting
+- face-reference
+- menswear
+- cinematic
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2090294894187413883
+  credit: iamsofiaijaz
+  captured: '2026-10-28'
+  posted: '2026-08-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt anchors identity to a reference image, then separates the amber key light from the crimson rim light and the wine gradient background. Lens and aperture (85mm, f/1.8) plus a list of skin, beard and suede textures keep the close up realistic.
+  zh: 提示词先用参考图锁定面部身份，再把琥珀主光、绯红轮廓光和酒红渐变背景分开描述。85mm、f/1.8 的镜头参数，加上皮肤、胡须和麂皮质感清单，让特写保持写实。
+prompt: |
+  A cinematic, ultra-realistic close-up portrait of a stylish man, using the provided image as an accurate face reference. Preserve his natural facial identity, thick naturally curly dark brown hair, neatly trimmed salt-and-pepper beard, strong masculine facial structure, and realistic facial proportions. He wears sophisticated round vintage amber-brown sunglasses and a premium deep burgundy suede jacket over a fitted black silk-knit shirt, creating a refined luxury fashion aesthetic.
+
+  Warm cinematic studio lighting with a soft amber-golden key light illuminating the face from the front-left, complemented by a subtle crimson-red rim light outlining the hair and shoulders. The background is a rich burgundy, wine-red, and dark plum gradient, with soft atmospheric haze and subtle diffused light creating depth without distracting from the subject. Elegant warm highlights contrast beautifully against the dark clothing.
+
+  Extremely detailed natural skin texture, individual beard hairs, realistic pores, subtle facial imperfections, sharp eyes visible behind slightly tinted lenses, natural reflections on the sunglasses, rich dimensional shadows, realistic fabric and suede texture, shallow depth of field. Sophisticated luxury fashion campaign, mysterious and confident mood, premium men's editorial photography, cinematic color grading, photorealistic, HDR, professional studio photography, 85mm portrait lens, f/1.8, crisp facial details, soft background bokeh, centered composition, head-and-shoulders framing, powerful masculine presence, understated elegance, 3:4 aspect ratio.

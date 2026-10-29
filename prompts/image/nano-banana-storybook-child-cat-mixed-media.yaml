@@ -1,0 +1,29 @@
+id: nano-banana-storybook-child-cat-mixed-media
+title:
+  en: Mixed media storybook portrait of child with cat
+  zh: 孩子与猫的混合媒介绘本肖像
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- storybook
+- mixed-media
+- watercolor
+- template
+- animal
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2112461761266032799
+  credit: Eesha
+  likes: 86
+  captured: '2026-10-28'
+  posted: '2026-10-20'
+notes:
+  en: A fill-in template with [HUMAN], [ANIMAL], [SETTING], [CLOTHING] and [COLORS] slots, so one prompt serves many subjects. Stacking named media (watercolor, cut paper, ink wash, chalk pastel, pencil) with exaggerated proportions gives the layered, tactile look.
+  zh: 提示词用 [HUMAN]、[ANIMAL]、[SETTING]、[CLOTHING]、[COLORS] 占位符做成模板，换主体即可复用。叠加水彩、剪纸、墨水、粉彩和铅笔等具体媒介，再配合夸张的比例，画面层次丰富且有触感。
+prompt: |
+  Made with Nano Banana 2.1 on
+  @atlas_cloud_ai
+
+
+  Prompt: Extreme close-up mixed-media storybook illustration of [HUMAN] with [ANIMAL] beside them in [SETTING]. Oversized tilted head, gigantic uneven blue-green eyes, thick eyebrows, tiny nose, coral-pink freckled cheeks, thin neck, and miniature hands. Irregular color planes, translucent watercolor, cut-paper layers, ink washes, chalk-pastel grain, and delicate pencil outlines. Sweeping graphic hair with white scribbles. Wearing [CLOTHING], in [COLORS]. Abstract organic background, smaller wide-eyed matching animal, playful asymmetry, intimate composition, and tactile painterly texture.

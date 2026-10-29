@@ -1,0 +1,55 @@
+id: gpt-image-editorial-city-travel-artwork-reflection
+title:
+  en: San Francisco editorial travel poster with glass reflection
+  zh: 旧金山编辑风旅行海报与玻璃倒影
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- city
+- template
+- reflection
+- editorial
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2091711340666568868
+  credit: Mahnoor Fatima
+  likes: 356
+  captured: '2026-10-28'
+  posted: '2026-08-24'
+notes:
+  en: One template swaps in any city through bracketed slots for name, landscape, architecture and tagline. A muted palette, a glass reflection band, faint geometric borders and small widely spaced magazine type keep the look cohesive. The long avoid list blocks landmark collage and oversized text.
+  zh: 用方括号占位符替换城市名、地貌、建筑和标语，一套模板可适配任何城市。低饱和配色、玻璃倒影带、淡几何边框和小号疏朗的杂志字体让画面统一，长长的排除清单避免地标拼贴和过大的文字。
+prompt: |
+  Create a premium 4:5 vertical contemporary travel artwork featuring [CITY NAME], [COUNTRY], transformed into a serene, sophisticated and collectible editorial travel landscape.
+
+  Build the entire composition around the unique identity of [CITY NAME]. Naturally integrate its most recognizable combination of landscape, architecture, culture, streets, nature, waterfront or mountains, depending on what genuinely defines the city. The scene should feel like one cohesive environment rather than a collage of separate landmarks.
+
+  In the background, create an atmospheric sense of place using [CITY'S SIGNATURE LANDSCAPE — e.g. coastline, mountains, river, desert, forest, skyline, historic district], with soft depth, subtle haze and elegant natural lighting.
+
+  In the foreground, introduce refined simplified architectural forms inspired by [CITY'S HISTORIC / CULTURAL ARCHITECTURE]. Include characteristic rooftops, facades, streets, balconies, walls, pathways and local textures. Add subtle vegetation and a few tiny human silhouettes naturally interacting with the environment, keeping them understated and non-dominant.
+
+  Make the visual identity unmistakably [CITY NAME], but avoid turning the artwork into a landmark collage. Every element should flow naturally into the surrounding landscape.
+
+  Use a sophisticated, slightly desaturated palette inspired by the destination, combining warm ivory, soft beige, muted earth tones, gentle architectural colors and subtle environmental blues/greens. Keep the entire palette harmonious, refined and luxurious.
+
+  Place the entire landscape above a calm glass-like reflective surface, creating delicate vertical reflections of the architecture, landscape and major visual elements. Keep the reflections soft, atmospheric and slightly faded.
+
+  Add extremely subtle translucent geometric forms around the borders to create a contemporary gallery-art aesthetic without distracting from the destination.
+
+  Use generous negative space, atmospheric haze, diffused natural light, delicate shadows, fine architectural linework, tactile paper grain and restrained watercolor-and-gouache textures blended with sophisticated modern digital illustration.
+
+  At the top, add elegant magazine typography:
+
+  [CITY NAME]
+  [SHORT POETIC CITY TAGLINE]
+  No. 05 — 2026
+
+  Typography should be small, refined, widely spaced, minimal and perfectly aligned.
+
+  Avoid anime aesthetics, excessive cultural symbols, clutter, photorealistic collage, generic stock imagery, oversized landmarks, excessive decoration and oversized typography.
+
+  The final artwork should feel like a rare collectible luxury travel print — tranquil, artistic, timeless, sophisticated and instantly recognizable as [CITY NAME].
+
+  Important: Prioritize the authentic visual character of the chosen city. Do not force elements that do not belong there. Adapt the architecture, landscape, vegetation, atmosphere and color palette specifically to the city.

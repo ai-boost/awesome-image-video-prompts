@@ -1,0 +1,43 @@
+id: gpt-image-overthinking-giant-head-seat-poster
+title:
+  en: Woman Sitting on Her Giant Head, Overthinking Poster
+  zh: 坐在自己巨大头颅上的过度思考海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- surreal
+- fashion-editorial
+- typography
+- pastel
+- self-portrait
+source:
+  name: '@AIwithAliya on X'
+  url: https://x.com/AIwithAliya/status/2049044716642316758
+  credit: AIwithAliya
+  captured: '2026-10-28'
+  posted: '2026-04-28'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: One surreal twist, a scaled up copy of her own head used as a seat, is stated in its own paragraph and backed by a plain blush and cream studio. Typography is specified line by line with size, hand drawn style, color and a crossed out word, so the text lands as part of the layout.
+  zh: 用单独一段写明超现实反转，即坐在放大的自己头颅上，背景只用柔和的粉米色棚拍。文字逐行指定大小、手写质感、颜色和划掉的单词，文字就成了版面的一部分。
+prompt: |
+  Ultra-realistic conceptual portrait of a young woman with long wavy hair and soft defined features, wearing rose-tinted rectangular sunglasses, an oversized ivory cropped t-shirt, fitted light-wash denim jeans, and clean white sneakers. She is sitting casually with a confident yet relaxed posture.
+
+  The twist: she is seated on a large, hyper-realistic version of her own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.
+
+  Composition: centered, full-body shot, neutral studio background with soft blush and cream tones, minimal aesthetic. Clean negative space.
+
+  Typography integrated into the background:
+
+  Handwritten-style text at the top: "OVERTHINKING"
+
+  Below it, smaller text: "TRAPPED IN MY OWN HEART" with "HEART" crossed out
+
+  Large, rough, scribbled text in deep pink: "MIND"
+
+  Lighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.
+
+  Style: blend of surrealism and modern luxury streetwear campaign, pastel feminine aesthetic, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.
+
+  Mood: introspective, emotional weight, identity, self-awareness, quiet confidence.

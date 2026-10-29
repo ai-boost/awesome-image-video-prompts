@@ -1,0 +1,29 @@
+id: gpt-image-cyberpunk-hacker-girl-character-sheet
+title:
+  en: Cyberpunk hacker girl character design sheet
+  zh: 赛博朋克少女黑客角色设定表
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- character-sheet
+- cyberpunk
+- anime
+- turnaround
+- concept-art
+source:
+  name: '@Kashberg_0 on X'
+  url: https://x.com/Kashberg_0/status/2055865126335762902
+  credit: Kashberg_0
+  captured: '2026-10-28'
+  posted: '2026-05-17'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt asks for a turnaround of front, side and back views plus a portrait and accessory callouts on a white background, so the model lays the image out like a real reference sheet. A fixed palette, a named typography string and style references keep the colors and graphics consistent across views.
+  zh: 提示词要求正面、侧面、背面三视图加特写和配件细节标注，并指定白底，模型会按真实设定表的版式排布。固定配色、指定文字内容和风格参考让各视图的色彩与图形保持一致。
+prompt: |
+  Ultra-detailed cyberpunk anime character design sheet of a teenage genius hacker girl named “NEO // RIN”, full body turnaround (front, side, back) plus close-up portrait and accessory callouts. Short silver-white bob haircut with neon cyan and magenta gradient streaks, glowing translucent cyber visor over one eye, pale skin, sharp violet eyes, calm confident expression. Oversized techwear jacket with black tactical cargo pants, belts, straps, dangling utility tags, cropped top, futuristic sneakers, holographic accessories, barcode decals, warning symbols, “BYTE//NULL” typography, hacker aesthetic.
+  Color palette: matte black, dark gray, white, neon cyan, neon pink.
+  Style inspired by high-end Japanese concept art, futuristic streetwear, cyberpunk fashion, Akira + Ghost in the Shell + modern anime key visual aesthetics.
+  Include clean character reference sheet layout with labeled details, logo designs, UI graphics, gadget closeups, and color palette on white background.
+  Highly polished cel shading, crisp lineart, soft glow effects, intricate clothing folds, layered accessories, dynamic fashion silhouette, professional game concept art quality, 4k, ultra detailed.

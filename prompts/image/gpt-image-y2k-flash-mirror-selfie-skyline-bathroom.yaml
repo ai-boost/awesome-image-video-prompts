@@ -1,0 +1,31 @@
+id: gpt-image-y2k-flash-mirror-selfie-skyline-bathroom
+title:
+  en: Y2K flash mirror selfie in a skyline bathroom
+  zh: Y2K闪光灯浴室镜面自拍与城市夜景
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- y2k
+- flash-photography
+- mirror-selfie
+- night-city
+- candid
+source:
+  name: '@jzaib4269 on X'
+  url: https://x.com/jzaib4269/status/2062184740849930384
+  credit: jzaib4269
+  captured: '2026-10-28'
+  posted: '2026-06-03'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Smudged mirror details such as dust, water spots and flash burn are named outright, so the image reads as raw and unretouched. A cluttered counter, a neon skyline reflection and a closing camera spec line (direct flash, compact digital, 35mm equivalent, noise) anchor the early 2000s look.
+  zh: 提示词直接写出镜面灰尘、水渍和闪光灯过曝等瑕疵，让画面显得真实未修饰。杂乱的台面、霓虹天际线倒影，以及结尾的相机参数行（直闪、卡片机、35mm等效、噪点）共同锁定千禧年初的质感。
+prompt: |
+  A moody late-night mirror selfie captured in a luxury high-rise bathroom overlooking a glowing city skyline. A young woman with long, slightly messy black hair leans forward over a marble sink, partially obscuring one eye with loose strands. The photo is taken through a smudged mirror with visible dust particles, water spots, and imperfections, creating an authentic raw aesthetic. A powerful direct camera flash explodes in the frame, producing harsh highlights, lens flare, and a nostalgic early-2000s digital camera look.
+
+  The bathroom counter is cluttered with luxury cosmetics, skincare products, jewelry, a smartphone, and everyday personal items, adding a lived-in editorial feel. Reflections of neon-lit skyscrapers and hotel windows shimmer in the background, emphasizing an urban nightlife atmosphere. Soft pale skin tones contrast against dark clothing and black hair. The composition feels intimate, candid, and effortlessly cool.
+
+  Style: Y2K flash photography, candid mirror selfie, Korean editorial aesthetic, indie sleaze, hotel bathroom scene, luxury lifestyle, cinematic nightlife, disposable camera look, grainy texture, flash burn, realistic skin texture, shallow depth of field, authentic imperfections, viral Pinterest mood, high-fashion casual energy, raw unfiltered photography.
+
+  Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, slight motion blur, visible noise, natural color grading, vertical composition, ultra-realistic, high detail.

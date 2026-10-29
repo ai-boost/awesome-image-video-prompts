@@ -1,0 +1,29 @@
+id: gpt-image-imperial-palace-courier-station
+title:
+  en: Imperial palace courier station with gold robed staff
+  zh: 皇宫里身着金袍的快递驿站
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- imperial-palace
+- express-delivery
+- mashup
+- chinese-costume
+- crossover
+source:
+  name: '@joshesye on X'
+  url: https://x.com/joshesye/status/2046596222505361866
+  credit: joshesye
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A single line joins two unrelated settings with a times sign, and the model fills in the details of both. Gold court costume, parcels and a scanner gun, and a palace style signboard reading Express Station all come from that one contrast.
+  zh: 一句话用乘号把两个毫不相干的场景并置,细节由模型自行补全。金色宫廷服饰、包裹与扫码枪、宫廷风格的快递驿站匾额,都来自这一组反差。
+prompt: |
+  [中文]
+  生成一张古代皇宫 × 快递驿站
+
+  [English]
+  Generate an ancient imperial palace × express delivery station

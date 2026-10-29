@@ -1,0 +1,29 @@
+id: gpt-image-night-market-skewer-three-sword-pose
+title:
+  en: Aloof woman striking skewer three sword pose
+  zh: 清冷女子在夜市摆烧烤三刀流姿势
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- night-market
+- street-photography
+- fashion
+- film-look
+- low-angle
+source:
+  name: '@BubbleBrain on X'
+  url: https://x.com/BubbleBrain/status/2046564674112831920
+  credit: BubbleBrain
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A named pose with exact placement (one skewer in the mouth, one in each hand, crossed) keeps the gesture readable. A low angle wide lens, warm night market bokeh and film grain give it a fashion shoot look.
+  zh: 用具体的姿势描述（一根叼在嘴里，两手各持一根并交叉）让动作清晰可控。低机位广角、夜市暖光虚化和胶片颗粒营造出时尚大片的质感。
+prompt: |
+  [中文]
+  一个有着清冷孤傲气质的绝美佳人，精致的面部特征，一张冷酷且精致的高级时装面容，长发，以及优雅苗条的身材；烧烤“三刀流”姿势：嘴里叼着一根烧烤串，每只手各拿一根烧烤串交叉以模仿索隆的三刀流；街头夜景氛围，温暖黄色的夜市灯光，模糊的背景，胶片般的质感，柔焦光晕，电影般的叙事感，时髦高端网红风格的时尚拍摄，清晰发光的肌肤，清晰细致的发丝，生动的动态表情，低角度广角镜头，情绪化的暗调氛围，浅景深，超高清8K，极致细节，电影级光照
+
+  [English]
+  a stunning beauty with a cool, aloof atmosphere, delicate facial features, a cold and sophisticated high-fashion face, long hair, and a graceful slender figure; barbecue “three-sword style” pose: one barbecue skewer held in her mouth, one skewer in each hand crossed to mimic Zoro’s three-sword style; street night scene ambiance, warm yellow night market lighting, blurred background, film-like texture, soft-focus glow, cinematic storytelling feel, trendy high-end influencer-style fashion shoot, clear luminous skin, sharply detailed strands of hair, lively dynamic expression, low-angle wide-angle shot, moody dark-toned atmosphere, shallow depth of field, ultra HD 8K, extreme detail, cinematic lighting

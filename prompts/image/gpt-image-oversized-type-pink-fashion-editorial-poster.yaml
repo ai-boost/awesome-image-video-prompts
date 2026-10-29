@@ -1,0 +1,166 @@
+id: gpt-image-oversized-type-pink-fashion-editorial-poster
+title:
+  en: Pink Fashion Poster With Giant Glowing Lettering
+  zh: 巨型发光字母背景的粉色时尚海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- editorial
+- typography
+- monochrome
+- template
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2053814655655543119
+  credit: Anissa
+  likes: 444
+  captured: '2026-10-28'
+  posted: '2026-05-11'
+notes:
+  en: A fill in the blank template that lists style, subject, layout, typography, lighting and palette as separate labeled blocks. Placing the huge title behind a centered full body model gives depth, and a single monochrome color keeps the poster cohesive.
+  zh: 填空式模板，把风格、主体、版式、字体、光线和配色分成独立板块。巨大的标题放在居中全身模特身后形成层次，单一主色让整张海报保持统一。
+prompt: |
+  Create a premium high-fashion editorial poster for [BRAND NAME].
+
+  TOPIC:
+  [STREETWEAR / FASHION COLLECTION / EDITORIAL CAMPAIGN]
+
+  STYLE & ART DIRECTION:
+
+  Oversized typography editorial aesthetic
+
+  Minimal futuristic fashion design
+
+  Korean high-fashion poster influence
+
+  Luxury streetwear branding
+
+  Avant-garde magazine-cover atmosphere
+
+  Soft monochromatic composition
+
+  Pinterest fashion-editorial aesthetic
+
+  High-end commercial styling
+
+  Modern runway campaign design
+
+  Minimal but bold visual hierarchy
+
+  Vogue-meets-streetwear atmosphere
+
+  MAIN SUBJECT:
+
+  A full-body fashion model prominently centered in the composition
+
+  Oversized luxury streetwear outfit
+
+  Fashion-forward silhouette and styling
+
+  Minimal expressive pose
+
+  Elegant emotional neutrality
+
+  Realistic luxury-fashion photography
+
+  Premium editorial lighting
+
+  Modern runway attitude
+
+  Soft futuristic mood
+
+  Clean symmetrical body positioning
+
+  LAYOUT & COMPOSITION:
+
+  Same exact editorial composition and hierarchy as the reference design
+
+  Massive oversized typography placed behind the model
+
+  Typography integrated into the composition as a graphic element
+
+  Strong centered symmetry
+
+  Minimal clean background
+
+  Spacious luxury editorial layout
+
+  Magazine-cover inspired balance
+
+  Minimal distractions
+
+  Strong visual focus on the fashion styling
+
+  TEXT & TYPOGRAPHY:
+
+  Huge bold geometric typography
+
+  Editorial fashion font style
+
+  Oversized lettering occupying most of the background
+
+  Minimal secondary micro typography
+
+  Luxury magazine hierarchy
+
+  Main title:
+  "[MAIN FASHION WORD]"
+
+  Supporting text:
+  "[COLLECTION / EDITORIAL SUBTITLE]"
+
+  DEPTH & LIGHTING:
+
+  Soft editorial studio lighting
+
+  Luxury fashion shadows
+
+  Smooth pastel reflections
+
+  Minimal contrast
+
+  Premium commercial skin rendering
+
+  High-end fashion atmosphere
+
+  EXTRA DESIGN DETAILS:
+
+  Tiny editorial text blocks
+
+  Magazine micro-details
+
+  Fashion-brand symbols
+
+  Minimal graphic accents
+
+  Soft texture overlays
+
+  Luxury typography interaction
+
+  Editorial spacing
+
+  COLOR PALETTE:
+
+  [PRIMARY MONOCHROMATIC COLOR]
+
+  Soft pastel tones
+
+  White / cream highlights
+
+  Minimal luxury contrast
+
+  QUALITY:
+
+  Ultra realistic fashion photography
+
+  Premium editorial poster design
+
+  Behance-quality fashion campaign
+
+  Vogue-style streetwear composition
+
+  Same exact visual identity and layout as the reference
+
+  Ultra high resolution

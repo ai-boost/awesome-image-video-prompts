@@ -1,0 +1,25 @@
+id: gpt-image-minimalist-hallstatt-travel-poster
+title:
+  en: Minimalist Hallstatt lakeside travel poster with alpine mountains
+  zh: 极简哈尔施塔特湖畔旅行海报与阿尔卑斯山
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- flat-vector
+- pastel
+- typography
+- landscape
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2059188921096085888
+  credit: Taaruk_
+  captured: '2026-10-28'
+  posted: '2026-05-26'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt names a flat vector style and a Scandinavian pastel palette, then lists each destination with its signature landmarks, which keeps every scene specific. Asking for destination name typography and geometric landscape shapes gives the poster a clear layout and a clean finish.
+  zh: 提示词先限定扁平矢量风格和北欧柔和色板，再逐个列出目的地及其标志性景物，让每个场景都具体明确。要求目的地名称排版和几何化景观造型，让海报版式清晰、画面干净。
+prompt: |
+  Minimalist flat travel poster illustration series of iconic destinations around the world, clean vector art style, Scandinavian color palette, soft pastel tones, calm atmospheric scenery, Hallstatt Austria lakeside village with alpine mountains and reflections, Bergen Norway colorful harbor houses with fjord background, Kyoto Japan traditional riverside town with cherry blossoms and pagoda, Santorini Greece white architecture with blue domes overlooking the sea, ultra clean composition, geometric landscape shapes, smooth gradients, elegant typography with destination names, modern tourism poster aesthetic, serene travel mood, crisp vector lines, cinematic wide-angle scenery, peaceful skies with stylized clouds, highly detailed environment art, contemporary flat illustration, premium editorial travel design, balanced composition, minimal shadows, dreamy vacation atmosphere, soft morning lighting, high-end Airbnb poster vibe, Behance trending style, 4k, ultra detailed

@@ -1,0 +1,25 @@
+id: nano-banana-double-breasted-suit-stone-steps-menswear
+title:
+  en: Menswear portrait in charcoal suit on stone steps
+  zh: 石阶上的炭灰色双排扣西装男装人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- menswear
+- editorial
+- suit
+- street-style
+- 85mm
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2112458298603479350
+  credit: Picts by AI
+  likes: 68
+  captured: '2026-10-28'
+  posted: '2026-10-20'
+notes:
+  en: The prompt moves from pose and wardrobe to hair, backdrop, lighting and lens in order, so each element is fixed before the camera spec. Exact lens, aperture, shutter and ISO values plus named shadow and highlight zones push the result toward editorial photography.
+  zh: 提示词按姿势、服装、发型、背景、光线、镜头的顺序展开，每个元素在相机参数之前就已锁定。镜头、光圈、快门、ISO 的具体数值，加上点明阴影与高光的位置，让画面接近编辑摄影。
+prompt: |
+  A confident handsome male in his late twenties or early thirties stands in a classic 45-degree turn with his weight comfortably shifted and shoulders level. He wears a meticulously tailored charcoal grey double-breasted suit, paired with a crisp white dress shirt, a dark patterned tie, and a precise white pocket square. His thick hair is scissor-cut with a classic taper and a deep side part roughly an inch and a half from the right, left three to four inches long on top to showcase a naturally wavy texture. The styling eschews artificial smoothness in favor of organic volume and movement, revealing natural imperfections, slight flyaways, and varying wave directions held by a low-shine, natural-finish paste. His candid expression features relaxed eyebrows and a softly closed mouth as his eyes gaze away toward the open negative space on the left side of the frame. His left arm extends downward with the fingers of his hand curled naturally and organically inward, exposing a silver-tone dress watch with a light dial peeking from beneath his stark white shirt cuff, while his right arm bends cleanly at the elbow, tucked deeply into his trouser pocket. He is framed straight-on outdoors against a medium-depth urban backdrop, standing upon solid, dark gray horizontal stone steps. To his left in the midground, a vintage wrought-iron door features black painted metal with decorative circular and scrolling motifs, softly out of focus. Dominating the right background is a weathered architectural stone pillar crafted from raw carved masonry. This warm taupe-gray and beige stone wall bears the authentic marks of old city buildings, showcasing a matte surface textured with horizontal carved ridges, vertical corner framing, subtle water staining, natural pitting, and patchy accumulations of soot. The scene is enveloped in a sophisticated, timeless urban elegance, illuminated by a single soft, diffused natural light source cascading from above. This moderate-intensity overhead lighting creates an asymmetrically balanced, medium-contrast palette, casting soft-edged, gray shadows subtly under his chin, beneath the structured suit lapels, and deep within the architectural recesses of the stone building. Specular highlights are beautifully preserved across his forehead, the bridge of his nose, his cheekbone, and the textured crests of his hair waves, while a gentle ambient fill maintains the rich charcoal, warm stone, black, and crisp white dominant tones. Captured as a tack-sharp digital menswear editorial photograph influenced by classic Pitti Uomo street style, the cinematic portrait utilizes an 85mm lens at an f/2.8 aperture and 1/250s shutter speed at ISO 100 for a realistic medium depth of field. Post-processing enhances the composition through a subtle warm neutral color grade, deliberately desaturated background elements to isolate the subject, gentle dodging and burning to define the jawline and structured suit lapels, and a delicate layer of film grain, all seamlessly framed in a 9:16 aspect ratio.

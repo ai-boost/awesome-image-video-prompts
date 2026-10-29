@@ -1,0 +1,25 @@
+id: gpt-image-minimalist-boutique-full-body-fashion
+title:
+  en: Full body fashion portrait in minimalist boutique
+  zh: 极简精品店全身时尚写真
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- fashion
+- editorial
+- boutique
+- full-body
+- reference-face
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2062579742759649486
+  credit: john_my07
+  captured: '2026-10-28'
+  posted: '2026-06-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Names the outfit piece by piece, from the oversized pastel knit to the pleated skirt, socks and chunky sneakers, then pairs it with retail materials like wood and stone. Adding same appearance as the reference keeps the face consistent, while depth of field and editorial cues set the magazine look.
+  zh: 逐件写清服装，从宽松粉蓝针织衫到百褶裙、白袜和厚底运动鞋，再配上木材与石材等零售空间材质。用与参考图相同的外貌来锁定人脸，景深和杂志大片关键词负责定调。
+prompt: |
+  A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.

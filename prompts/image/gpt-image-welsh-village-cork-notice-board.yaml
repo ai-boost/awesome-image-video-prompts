@@ -1,0 +1,25 @@
+id: gpt-image-welsh-village-cork-notice-board
+title:
+  en: Cork notice board outside a Welsh post office
+  zh: 威尔士乡村邮局外的软木公告板
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- notice-board
+- typography
+- village
+- mixed-text
+- overcast
+source:
+  name: '@ImagineArt_X on X'
+  url: https://x.com/ImagineArt_X/status/2097520484569276860
+  credit: ImagineArt_X
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: The prompt gives an exact item count and names each pinned item with its own paper type and typography, so the model renders mixed text styles in one scene. A single blank white card is requested, which tests whether the model leaves empty space.
+  zh: 提示词给出确切的张数，并逐一说明每件物品的纸张与字体风格，让模型在同一场景里渲染多种文字样式。特意要求一张空白卡片，用来检验模型能否留白。
+prompt: |
+  a cork notice board outside a Welsh village post office, overcast light, seven pinned items. A choral society flyer, a lost cat poster on yellow paper, a handwritten piano card, a bus timetable with four times, a sheepdog photo, tear off tabs, and one blank white card.

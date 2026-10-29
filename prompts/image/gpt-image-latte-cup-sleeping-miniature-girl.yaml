@@ -1,0 +1,25 @@
+id: gpt-image-latte-cup-sleeping-miniature-girl
+title:
+  en: Miniature chibi girl sleeping on latte cup
+  zh: 拿铁杯上沉睡的微缩Q版女孩
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- miniature
+- chibi
+- latte
+- 3d-render
+- cute
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2059443447602561444
+  credit: Zyrellix
+  captured: '2026-10-28'
+  posted: '2026-05-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A tiny scale subject is placed on an everyday object, and the latte foam is told to spell the greeting text in handwriting. Material cues such as satin pillow, speckled ceramic and soft natural light keep the 3D miniature look.
+  zh: 把微缩人物放在日常物件上，并指定拿铁奶泡拉出手写问候文字。缎面枕头、斑点陶瓷和柔和自然光等材质与光线描述保住了3D微缩质感。
+prompt: |
+  Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, wearing cream colour top and jeans, resting and floating on creamy latte cup, stylized textured ceramic cup, sleeping expression, satin soft pillow tucked behind her head. The latte cream forms a text "Good Morning" in a cute handwriting. Soft-focus minimalist background, bright natural light, 8K UHD.

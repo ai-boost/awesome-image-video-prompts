@@ -1,0 +1,29 @@
+id: gpt-image-iphone-photo-woman-in-cafe
+title:
+  en: Realistic iPhone photo of a woman in cafe
+  zh: 咖啡馆里女生的真实iPhone照片
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- iphone-photo
+- cafe
+- candid
+- short-prompt
+- realistic
+source:
+  name: '@blueemi99 on X'
+  url: https://x.com/blueemi99/status/2097602273085931662
+  credit: bluedev
+  likes: 91
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+notes:
+  en: Naming the capture device and a simple scene is enough to trigger a candid phone photo look, with warm pendant lighting, soft background blur, and a casual hand on cheek pose. A very short prompt leaves the model free to choose natural composition.
+  zh: 只点明拍摄设备和简单场景，就能触发随手拍的手机照片质感，包含暖色吊灯光、柔和虚化背景和托腮的自然姿态。极简提示词把构图交给模型，结果反而更自然。
+prompt: |
+  GPT Image 2.5
+
+  "make me a realistic iphone photo of a woman in a cafe"
+
+  I dont get how people are getting bad results from this model, genuinely few words prompt and looks so good and realistic

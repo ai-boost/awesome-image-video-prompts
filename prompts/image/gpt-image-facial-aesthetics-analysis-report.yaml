@@ -1,0 +1,47 @@
+id: gpt-image-facial-aesthetics-analysis-report
+title:
+  en: Monochrome facial aesthetics analysis report from a portrait
+  zh: 基于人像照片的黑白面部美学分析报告
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- facial-analysis
+- report-dashboard
+- monochrome
+- editorial-layout
+- portrait-reference
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2055857787637522908
+  credit: saniaspeaks_
+  captured: '2026-10-28'
+  posted: '2026-05-17'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt lists every report module as a bullet, then fixes the look with a monochrome palette, thin dividers and soft rounded cards. Asking for honest and not overly flattering analysis keeps the text data driven, and the uploaded portrait anchors the line art and scores.
+  zh: 提示词把报告的每个模块逐条列出，再用黑白配色、细分隔线和圆角卡片统一版式。要求客观而不过度奖励，让文字更偏数据分析，上传的人像则决定了线稿和评分内容。
+prompt: |
+  Create a clean, minimal, luxury-style facial aesthetics analysis report based on the uploaded portrait photo.
+  Design style:
+  Ultra-modern black and white interface, premium editorial aesthetic, thin elegant divider lines, soft rounded cards, subtle shadows, spacious layout, luxury skincare / fashion magazine vibe, monochrome palette, Apple-style UI refinement.
+  Include:
+  – A simple contour line-art drawing of the face based on the subject
+  – Facial symmetry analysis
+  – Face shape identification
+  – Proportional analysis (eyes, nose, jawline, lips, forehead)
+  – Skin texture observations
+  – Hairstyle compatibility suggestions
+  – Grooming and fashion recommendations
+  – Honest attractiveness evaluation with balanced critique
+  – Strengths and weaker facial areas explained objectively
+  – Actionable glow-up recommendations
+  – Confidence score and facial harmony score shown with elegant charts or meters
+  Style notes:
+  Keep the report data-driven, visually refined, realistic, and not overly flattering.
+  Avoid exaggerated praise.
+  Use clean typography, premium spacing, modern infographics, subtle geometric accents, and professional cosmetic consultation aesthetics.
+  Visual composition:
+  Magazine-quality presentation, luxury beauty report dashboard, highly organized layout, cinematic monochrome feel, minimalist infographic design, realistic facial structure interpretation, modern masculine beauty analytics.
+  Rendering:
+  Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated editorial presentation, high-end branding aesthetic, 4K quality.

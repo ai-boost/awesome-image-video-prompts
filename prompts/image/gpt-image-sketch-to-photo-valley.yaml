@@ -4,7 +4,7 @@ title:
   zh: 河谷线稿渲染成照片
 model: GPT Image 2.5
 mode: image-edit
-category: realism
+category: edit
 tags:
 - sketch
 - photorealism

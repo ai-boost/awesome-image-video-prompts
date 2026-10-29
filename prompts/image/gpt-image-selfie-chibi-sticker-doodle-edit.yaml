@@ -1,0 +1,25 @@
+id: gpt-image-selfie-chibi-sticker-doodle-edit
+title:
+  en: Mirror selfie with chibi sticker doodle edit
+  zh: 电梯镜面自拍加Q版贴纸涂鸦
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- doodle
+- chibi
+- sticker-outline
+- xiaohongshu
+- selfie
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2050614367536939243
+  credit: K
+  likes: 1255
+  captured: '2026-10-28'
+  posted: '2026-05-02'
+notes:
+  en: The prompt locks the original lighting and colors, then layers white outline strokes, chibi copies of the same person in varied poses, and short handwritten captions. Limits like few words and subtle mascots keep the doodles from crowding the photo.
+  zh: 提示词先锁定原图光线与色调，再叠加白色描边、多姿势的同脸Q版小人和简短手写字。限制文字数量并让吉祥物保持克制，避免画面拥挤。
+prompt: |
+  Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit while keeping the original composition and colors natural. Do NOT heavily change the original lighting or color grading. Keep the tones soft, airy, warm, and realistic. Avoid oversaturated colors, HDR effects, strong orange filters, or excessive contrast.￼ Add hand-drawn doodle elements around the main objects: * white outline strokes * sketchy sparkles * stars * hearts * arrows * tiny flowers * playful swirls * mini handwritten notes Add small cute mascot-style doodles that match the vibe of the photo (tiny bear, smiling drink, cute food character, sleepy cloud, etc.) but keep them subtle and balanced. Use handwritten white text with short relatable captions only. Do NOT add too many words or overcrowd the image.Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features.Chibi characters have various poses and expressions: jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions.￼ ￼ Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼

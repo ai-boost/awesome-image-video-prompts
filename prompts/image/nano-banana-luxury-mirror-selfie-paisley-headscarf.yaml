@@ -1,0 +1,64 @@
+id: nano-banana-luxury-mirror-selfie-paisley-headscarf
+title:
+  en: Luxury mirror selfie in paisley headscarf and black turtleneck
+  zh: 戴佩斯利头巾和黑色高领毛衣的奢华镜前自拍
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- mirror-selfie
+- identity-lock
+- flash-photography
+- fashion
+- photorealistic
+source:
+  name: '@TheVirtualMuse on X'
+  url: https://x.com/TheVirtualMuse/status/2110656946558611743
+  credit: Areeba
+  likes: 38
+  captured: '2026-10-28'
+  posted: '2026-10-15'
+notes:
+  en: A strict identity lock on the reference face comes first, then labeled sections for hair, outfit, pose, makeup, background and lighting keep every detail controlled. Direct phone flash mixed with warm tungsten light, plus a long negative list against smoothing and AI look, gives the authentic photo feel.
+  zh: 先用严格的身份锁定保留参考图人脸,再按发型、服饰、姿势、妆容、背景、光线分段描述,细节都可控。手机直闪混合暖色钨丝灯光,再用一长串否定词排除磨皮和AI感,画面更像真实照片。
+prompt: |
+  Using the uploaded reference image as the ONLY facial identity reference, create an ultra-photorealistic 4:5 vertical luxury mirror selfie of the exact same young woman.
+
+  STRICT IDENTITY LOCK: Preserve her original face, facial structure, eye shape and color, nose, lips, eyebrows, jawline, natural skin tone, and recognizable facial proportions. No facial modifications, beautification, or identity changes.
+
+  SUBJECT & HAIRSTYLE:
+  Her naturally dark brown hair is styled in a beautiful, slightly voluminous, loosely gathered hairstyle, with soft face-framing strands and a few naturally falling wisps. Preserve her original hair color and realistic hair texture.
+
+  OUTFIT & ACCESSORIES:
+  She wears an elegant, fitted black ribbed turtleneck with full sleeves, styled with a luxurious vintage paisley silk headscarf featuring rich burgundy, deep teal, and antique gold patterns. The scarf is loosely draped over her head, allowing some natural hair to remain visible.
+
+  Delicate gold butterfly and floral rings adorn her left hand, complemented by perfectly shaped, glossy black almond-pointed nails. The overall styling feels sophisticated, feminine, expensive, and effortlessly fashionable.
+
+  POSE & EXPRESSION:
+  A naturally beautiful close-up mirror selfie. She holds a dark graphite iPhone with triple rear cameras in her right hand, positioned beside her face without obstructing her facial features. The camera flash is activated, producing an authentic bright white flash reflection in the mirror.
+
+  Her left palm gently supports her cheek, with her fingers resting naturally along her jawline. She looks directly into the mirror with soft, captivating eyes, a relaxed expression, and naturally slightly parted lips.
+
+  MAKEUP:
+  Beautiful but realistic soft-glam makeup, delicately defined eyelashes, subtle eyeliner, naturally shaped eyebrows, soft rosy-pink blush, and muted matte pink lips. Preserve real skin pores, subtle imperfections, natural facial texture, and authentic skin highlights. No artificial skin smoothing.
+
+  BACKGROUND:
+  An elegant luxury bedroom or dressing room with rich dark walnut wooden wardrobes, warm cream walls, subtle brass details, and sophisticated interior furnishings. The background remains naturally visible but slightly softened, creating realistic photographic depth.
+
+  LIGHTING & COLOR GRADING:
+  Authentic direct iPhone flash photography mixed with warm ambient tungsten lighting. Beautiful natural skin tones, rich burgundy and teal accents, deep realistic blacks, warm walnut-brown surroundings, controlled highlights, and soft cinematic shadows.
+
+  Premium editorial color grading with subtle warmth, rich tonal separation, balanced contrast, and exceptionally natural color reproduction. No excessive saturation, orange skin, artificial glow, or cinematic teal-orange filter.
+
+  CAMERA & REALISM:
+  Captured as an authentic high-end iPhone mirror selfie, with realistic perspective, natural lens characteristics, crisp facial details, subtle photographic grain, and physically accurate mirror reflections.
+
+  Extremely sharp 8K-quality photographic detail, realistic fabric texture, individual hair strands, accurate hand anatomy, natural reflections, and lifelike skin.
+
+  The final image must feel like a genuine luxury lifestyle photograph taken by a real person, not an AI-generated portrait.
+
+  NEGATIVE:
+  No AI look, no CGI, no plastic skin, no beauty filters, no altered identity, no exaggerated facial features, no unnatural eyes, no distorted hands, no extra fingers, no incorrect mirror reflections, no warped phone, no excessive blur, no overprocessed HDR, no artificial color grading.
+
+  ASPECT RATIO: 4:5
+  STYLE: Luxury fashion mirror selfie | Photorealistic | Natural beauty | Premium Instagram editorial

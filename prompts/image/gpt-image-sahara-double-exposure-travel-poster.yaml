@@ -1,0 +1,29 @@
+id: gpt-image-sahara-double-exposure-travel-poster
+title:
+  en: Sahara double exposure travel poster with walking woman
+  zh: 撒哈拉双重曝光旅行海报与行走的女子
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- double-exposure
+- desert
+- silhouette
+- golden-hour
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2106607115733553225
+  credit: Laraib Fatima‎
+  likes: 116
+  captured: '2026-10-28'
+  posted: '2026-10-04'
+notes:
+  en: The prompt names a double exposure silhouette style, then lists the landscape elements (dunes, oasis, towers, camel caravan) so they merge into a profile. It also fixes the outfit, a 4:5 ratio, ivory paper negative space and no text.
+  zh: 提示词先指定双重曝光剪影风格，再逐项列出沙丘、绿洲、石塔和驼队，让风景融进人物侧脸轮廓。同时锁定服装、4:5 比例、象牙色纸张留白和无文字。
+prompt: |
+  Create a premium cinematic travel poster in a sophisticated double-exposure / silhouette collage style. A stylish young adult woman walking toward the right side of the frame, wearing a beige wide-brimmed safari hat, dark sunglasses, elegant white oversized button-up shirt with rolled sleeves, high-waisted cream trousers, white sneakers, and a small brown leather crossbody bag. Preserve realistic human proportions and natural walking posture.
+  Behind and partially merged into the woman’s silhouette is a breathtaking golden Sahara desert landscape at sunset: vast rolling sand dunes, dramatic layered mountains, warm orange sunlight, a glowing sun near the horizon, palm trees surrounding a small desert oasis, traditional desert village architecture, ancient stone towers, tents, and a small camel caravan crossing the dunes.
+  The desert landscape forms an artistic human-profile silhouette on the left side, seamlessly blending into the woman's walking composition on the right. Elegant paint-splash and ink-brush edges around the landscape, subtle dust particles, soft atmospheric haze, warm golden-hour lighting, luxury travel editorial aesthetic, sophisticated minimal composition.
+  Background: clean warm ivory/cream paper texture with large negative space on the right and lower area. High-end tourism campaign poster, artistic commercial photography, photorealistic desert details, realistic fabric texture, cinematic depth, refined composition, premium magazine advertising style.
+  Composition: vertical 4:5, full-body woman on the right, desert silhouette dominating the left, balanced negative space, clean edges, no text, no logo, no watermark, ultra-detailed, high resolution.

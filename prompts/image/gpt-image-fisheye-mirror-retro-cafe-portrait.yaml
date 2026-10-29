@@ -1,0 +1,25 @@
+id: gpt-image-fisheye-mirror-retro-cafe-portrait
+title:
+  en: Fisheye mirror portrait in a teal retro cafe
+  zh: 鱼眼镜面复古青绿咖啡馆人像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- fisheye
+- retro-cafe
+- mirror
+- portrait
+- warm-moody
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2049044698900361241
+  credit: harboriis
+  captured: '2026-10-28'
+  posted: '2026-04-28'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Naming the fisheye lens, the round mirror frame and a close leaning pose gives strong distortion and intimacy. Specific set details such as teal subway tiles, pendant lights and yellow tinted glasses, plus a warm moody tone cue, keep the palette cohesive.
+  zh: 点明鱼眼镜头、圆形镜框和前倾近距离姿势，画面畸变感与亲密感都很强。青绿地铁砖、吊灯、黄色镜片等具体布景细节加上暖调氛围词，让色调保持统一。
+prompt: |
+  A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.

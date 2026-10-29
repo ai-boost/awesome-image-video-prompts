@@ -1,0 +1,25 @@
+id: gpt-image-mediterranean-alien-world-settlement
+title:
+  en: Mediterranean Style Settlement on a Ringed Planet
+  zh: 环状行星上的地中海风格未来聚落
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- sci-fi
+- retro-futurism
+- mediterranean
+- worldbuilding
+- sunset
+source:
+  name: '@wonder_villas on X'
+  url: https://x.com/wonder_villas/status/2097869977890017784
+  credit: wonder_villas
+  captured: '2026-10-28'
+  posted: '2026-09-10'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: One sentence sets a time frame, a setting and a blend of two named styles, Mediterranean architecture and subtle retro futurism. The model fills in the sunset light, the sea, the family and the robot on its own.
+  zh: 一句话给出时间、场景和两种明确风格的混合，即地中海建筑与克制的复古未来主义。夕阳光线、海面、家庭和机器人都由模型自行补全。
+prompt: |
+  A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.

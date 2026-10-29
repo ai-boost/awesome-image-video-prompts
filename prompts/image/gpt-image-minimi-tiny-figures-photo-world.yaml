@@ -1,0 +1,25 @@
+id: gpt-image-minimi-tiny-figures-photo-world
+title:
+  en: Miniature 3D figures playing around a portrait
+  zh: 人像照片周围的迷你3D小人互动
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- minimi
+- miniature
+- photo-to-3d
+- portrait
+- chibi
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2055486410749309438
+  credit: Zyrella
+  likes: 212
+  captured: '2026-10-28'
+  posted: '2026-05-16'
+notes:
+  en: Lists concrete interactions for the tiny figures (sitting on the shoulder and bag, waving, copying the pose), which gives each one a role in the scene. It also says to keep the original photo intact with realistic shadows and depth, so the figures blend in and the photo does not get redrawn.
+  zh: 提示词列出小人的具体互动，如坐在肩上和包上、挥手、模仿姿势，每个小人都有明确动作。同时要求保留原照片并带真实阴影和景深，让小人自然融入而不是重绘照片。
+prompt: |
+  Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”

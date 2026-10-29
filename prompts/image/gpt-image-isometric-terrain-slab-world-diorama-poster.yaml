@@ -1,0 +1,116 @@
+id: gpt-image-isometric-terrain-slab-world-diorama-poster
+title:
+  en: Istanbul city diorama carved as floating terrain slab
+  zh: 悬浮地块上的伊斯坦布尔城市微缩景观海报
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- diorama
+- isometric
+- miniature
+- world-building
+- editorial-poster
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2091858610255261949
+  credit: Mahnoor Fatima
+  likes: 354
+  captured: '2026-10-28'
+  posted: '2026-08-24'
+notes:
+  en: The prompt makes the real map outline the physical base, a terrain slab with broken rock sides and soil layers, then adds lore accurate landmarks and tiny museum style labels. A fixed 4:5 layout keeps the upper third empty for tracked uppercase title typography, and soft warm studio light gives a collectible miniature look.
+  zh: 提示词让真实地图轮廓成为实体地块底座，带断裂岩壁和土层，再按设定摆放地标与博物馆式小标签。固定 4:5 构图并留出上方三分之一放宽字距大写标题，配合柔和暖色影棚光营造收藏级微缩质感。
+prompt: |
+  Ultra-detailed photorealistic isometric miniature diorama of the world from [ANIME], presented as a premium collectible-scale landscape sculpture floating above a clean warm off-white studio background with a subtle natural shadow underneath.
+
+  (For best accuracy, upload a clear reference image of the official map/world layout.)
+
+  WORLD SHAPE & GEOGRAPHY
+
+  If [ANIME] features a fictional world, continent, island or region, recreate its canonical map silhouette exactly. The entire landmass should appear physically carved from the earth and lifted upward as one continuous miniature terrain slab, with naturally broken rock sides, exposed soil layers, cliffs and geological textures.
+
+  If [ANIME] takes place in a real or semi-real location, use the most important canonical city, region or country as the physical base shape, maintaining its recognizable geographic outline.
+
+  The outer boundary must feel like an actual piece of land cut directly from the map — never like a flat printed map or floating board.
+
+  CANONICAL WORLD RECONSTRUCTION
+
+  Rebuild the world of [ANIME] across the entire miniature surface with maximum lore accuracy.
+
+  Every major region, settlement, city, landmark, mountain, river, forest, road, battlefield, castle, shrine, futuristic structure or other recognizable location should appear in its correct relative position.
+
+  Preserve the distinctive visual language of the anime:
+
+  - canonical architecture
+  - recognizable environments
+  - authentic terrain
+  - faction territories
+  - signature landmarks
+  - characteristic colors
+  - world-specific technology or fantasy elements
+  - environmental atmosphere
+
+  Avoid generic Western architecture or realistic substitutions. The result must immediately feel like [ANIME] transformed into a physical miniature world.
+
+  Add tiny but readable location markers for important places, designed like elegant museum-style cartographic labels rather than large text.
+
+  MICRO-SCALE STORY DETAILS
+
+  Fill the landscape with carefully placed miniature storytelling elements: tiny characters wearing recognizable show-accurate outfits, world-specific creatures, vehicles, ships, trains, flags, faction symbols, market areas, farms, bridges, pathways, trees, vegetation and other details that make the world feel alive.
+
+  Characters should remain small environmental elements rather than dominating the composition.
+
+  Include subtle activity throughout the terrain so the diorama feels like a living snapshot of the anime universe.
+
+  MATERIAL & PHOTOGRAPHY
+
+  Hyper-realistic premium miniature photography combined with high-end cinematic environment design.
+
+  Extremely crisp micro-details, realistic rock formations, miniature vegetation, tiny architectural textures, believable scale relationships and physically accurate materials.
+
+  Everything should remain sharply focused with no artificial background blur.
+
+  Use soft warm studio illumination from above with gentle contact shadows and subtle ambient occlusion between buildings, terrain and rock layers.
+
+  The miniature should have a sophisticated museum-quality collectible appearance while still preserving the anime's original visual identity.
+
+  COLOR & ATMOSPHERE
+
+  Use the authentic color language of [ANIME] as the primary visual reference.
+
+  Translate the anime's signature palette into realistic miniature materials without losing its recognizable mood, atmosphere or world identity.
+
+  Rich but controlled colors, cinematic tonal depth, premium print-like contrast and realistic surface textures.
+
+  COMPOSITION
+
+  Center the complete shaped diorama in the lower two-thirds of the 4:5 vertical frame.
+
+  Leave generous clean negative space around the entire landmass.
+
+  The diorama must never touch the frame edges.
+
+  The upper third remains almost completely empty and off-white, creating a sophisticated editorial poster composition.
+
+  At the very top, place small widely tracked uppercase typography showing the world / region name.
+
+  Directly underneath, place:
+
+  [ANIME]
+
+  in a bold condensed sans-serif typeface, medium charcoal grey, large and dominant.
+
+  Below it, add a smaller widely tracked uppercase line containing the studio name and year.
+
+  Typography should feel like a luxury museum exhibition poster — restrained, elegant and secondary to the miniature world.
+
+  FINAL ART DIRECTION
+
+  Premium editorial travel-poster aesthetic + cinematic miniature photography + collectible world-building sculpture + museum-quality cartography.
+
+  The final image should look as though the entire world of [ANIME] was physically sculpted from the earth and photographed inside a professional studio.
+
+  No generic fantasy map, no flat illustration, no random landmarks, no duplicated buildings, no distorted geography, no excessive text, no modern Western substitutions.
+
+  4:5 vertical aspect ratio, ultra-high detail, photorealistic materials, cinematic lighting, premium print quality.

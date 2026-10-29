@@ -1,0 +1,25 @@
+id: gpt-image-cel-animation-volcanic-sand-duel
+title:
+  en: Cel animation duel on black volcanic sand
+  zh: 黑色火山沙滩上的赛璐璐动画对决
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- cel-animation
+- samurai
+- watercolour
+- sunrise
+- cherry-blossom
+source:
+  name: '@ImagineArt_X on X'
+  url: https://x.com/ImagineArt_X/status/2097520490013433944
+  credit: ImagineArt_X
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: Naming a medium, an era and a painted background style (late 1990s cel, watercolour) fixes the whole look in one phrase. A concrete scene with a time of day, two contrasting poses and a stated petal direction gives the composition clear motion.
+  zh: 用媒介、年代和背景画法(九十年代末赛璐璐、水彩背景)一句话锁定整体画风。具体的场景、时间、两人对比鲜明的姿态,再加上花瓣飘动的方向,让画面有清晰的动势。
+prompt: |
+  a still from a hand drawn Japanese animated film, late 1990s cel style, painted watercolour background. A dawn duel on black volcanic sand, a woman with a drawn katana facing an older man with a sheathed one, cherry blossom blowing right to left.

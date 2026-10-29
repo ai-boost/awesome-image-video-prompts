@@ -1,0 +1,25 @@
+id: gpt-image-crystal-arch-country-travel-poster
+title:
+  en: Crystal glass arch country travel poster
+  zh: 水晶玻璃拱门国家旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- glass-frame
+- reflection
+- golden-hour
+- typography
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2091391283063361558
+  credit: Taaruk_
+  captured: '2026-10-28'
+  posted: '2026-08-23'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A glass arch frame on a reflective surface holds one panorama of landmarks, and a COUNTRY placeholder makes the prompt reusable for any destination. A pastel golden hour palette, prism edge highlights, a mirror reflection and fixed typography lines keep the layout consistent.
+  zh: 用反光台面上的玻璃拱框装下整幅地标全景，并以COUNTRY占位符让提示词可换任意国家。粉彩金色光线、棱镜边缘高光、镜面倒影和固定的标题文字层级保证版式统一。
+prompt: |
+  Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.

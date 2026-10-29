@@ -1,0 +1,25 @@
+id: gpt-image-moon-astronaut-tshirt-graphic
+title:
+  en: Astronaut Sipping Coffee on Moon T-Shirt Graphic
+  zh: 月面宇航员喝咖啡T恤图形
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- tshirt-graphic
+- astronaut
+- monochrome
+- screen-print
+- space
+source:
+  name: '@lovimg_com on X'
+  url: https://x.com/lovimg_com/status/2077035644254363972
+  credit: lovimg_com
+  captured: '2026-10-28'
+  posted: '2026-07-14'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Limiting the palette to cool blue and white on a dark navy garment gives the print a screen-printed look. Spelling out the foreground, the Earth behind it and the textured lunar ground sets the depth and the calm mood.
+  zh: 把配色限定为冷蓝与白并放在深海军蓝衣料上，画面有丝网印刷的质感。分别写明前景人物、背景地球和带质感的月面，层次与宁静氛围就清楚了。
+prompt: |
+  A graphic illustration centered on a dark navy blue t-shirt, depicting an astronaut sitting on the surface of the moon, viewed from a side profile. The astronaut is wearing a detailed, bulky space suit and helmet, leaning back against a small lunar rock formation, and is holding a small steaming mug, suggesting they are enjoying a peaceful drink. Positioned directly in front of the astronaut in the background is a large, majestic view of the Earth, rendered in shades of white, light blue, and navy, featuring prominent swirling cloud formations. The entire artwork is monochromatic, utilizing a cool blue-and-white color palette that creates a serene, solitary, and contemplative atmosphere. The lunar ground is textured with craters and dust, providing a grounded contrast to the vast, dark sky and the bright, swirling planet above. The style is clean, artistic, and iconic, reminiscent of screen-printed apparel designs.

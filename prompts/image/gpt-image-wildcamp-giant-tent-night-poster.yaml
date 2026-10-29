@@ -1,0 +1,25 @@
+id: gpt-image-wildcamp-giant-tent-night-poster
+title:
+  en: Bearded hiker beside giant orange tent at night
+  zh: 夜空下大胡子徒步者与巨型橙色帐篷
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- camping
+- advertising
+- night-sky
+- typography
+- cinematic-lighting
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2056258909334306897
+  credit: Strength04_X
+  captured: '2026-10-28'
+  posted: '2026-05-18'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt fixes the scale contrast, a tent three times taller than the man, and names a warm campfire light source against a starry sky. It places each text element by position and role: a large headline in the sky, a tagline at the bottom and a small credit in the corner.'
+  zh: 提示词先用帐篷是人三倍高来固定尺度对比，再指定篝火暖光与星空的冷暖反差。每段文字都写明位置和作用：天空中的大标题、底部标语、角落的小字署名。
+prompt: |
+  An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.

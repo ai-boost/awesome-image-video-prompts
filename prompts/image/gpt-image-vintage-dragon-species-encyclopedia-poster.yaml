@@ -1,0 +1,62 @@
+id: gpt-image-vintage-dragon-species-encyclopedia-poster
+title:
+  en: Vintage Fantasy Encyclopedia Poster of a Dragon Species
+  zh: 龙类物种复古奇幻百科海报
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- dragon
+- fantasy
+- encyclopedia
+- vintage
+- infographic
+source:
+  name: '@sha_zdiii on X'
+  url: https://x.com/sha_zdiii/status/2052237839119835280
+  credit: sha_zdiii
+  captured: '2026-10-28'
+  posted: '2026-05-07'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Stacks several style references (medieval atlas, explorer journal, museum archive) with an explicit palette and background. It lists each infographic panel by name so the layout fills with labeled sections, and closes with NO lines to block modern or flat looks.
+  zh: 叠加中世纪图鉴、探险日志、博物馆档案等风格参照，并给出明确的色板与背景。逐项列出信息图分区名称，让版面自动填满带标签的模块，结尾用否定句排除现代和扁平风格。
+prompt: |
+  Create a highly detailed A4 vertical vintage fantasy encyclopedia style dragon species poster.
+
+  Style: medieval creature atlas, ancient mythology manuscript, museum fantasy archive, old explorer journal.
+
+  Main subject:
+  a massive hyper realistic dragon standing proudly in center with detailed scales, smoke from nostrils, giant wings partially open.
+
+  Background:
+  stormy mountains, ancient ruins, fog layers, burnt parchment texture.
+
+  Color palette:
+  dark emerald, ash gray, faded gold, ancient brown, deep crimson.
+
+  Include infographic sections:
+  Species Type,
+  Fire Capacity,
+  Wing Structure,
+  Temperament Scale,
+  Habitat Region,
+  Battle Strength,
+  Ancient Legends,
+  Scale Patterns,
+  Skull Diagram,
+  Hunter Notes.
+
+  Add:
+  engraved fantasy sketches,
+  ancient symbols,
+  old map textures,
+  ink grain,
+  collectible poster layout.
+
+  NO modern UI.
+  NO futuristic elements.
+  NO flat minimalism.
+
+  Ultra detailed.
+  8K printable masterpiece.

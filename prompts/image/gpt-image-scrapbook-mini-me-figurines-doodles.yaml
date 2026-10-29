@@ -1,0 +1,37 @@
+id: gpt-image-scrapbook-mini-me-figurines-doodles
+title:
+  en: Scrapbook photo with chibi mini selves and doodles
+  zh: 手帐风照片：迷你分身与手写涂鸦
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- scrapbook
+- chibi
+- mini-figurine
+- doodle-overlay
+- pastel
+source:
+  name: '@Kashberg_0 on X'
+  url: https://x.com/Kashberg_0/status/2050272100884340783
+  credit: Kashberg_0
+  captured: '2026-10-28'
+  posted: '2026-05-01'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt locks identity, pose, lighting and background first, then layers on additions: collectible figurine minis doing varied activities, then handwritten doodles tied to scene elements. A closing line demands the SAME image enhanced, not recreated, which keeps the reference intact.'
+  zh: 先锁定人物身份、姿势、光线和背景，再叠加新元素：做着不同事情的收藏手办风迷你分身，以及与场景元素相连的手写涂鸦。结尾强调是同一张图的增强而非重绘，从而保住参考图。
+prompt: |
+  Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background.
+
+  Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing).
+
+  Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene.
+
+  Use a soft pastel color palette (white base with pink, peach, blue accents).
+
+  Keep the frame visually rich and filled but balanced and clean.
+
+  Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful.
+
+  The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene.

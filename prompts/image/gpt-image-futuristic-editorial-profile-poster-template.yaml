@@ -1,0 +1,25 @@
+id: gpt-image-futuristic-editorial-profile-poster-template
+title:
+  en: Futuristic editorial poster with side-profile portrait
+  zh: 侧脸人像未来感编辑海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- editorial-poster
+- template
+- side-profile
+- futuristic
+- typography
+source:
+  name: '@HustleXR on X'
+  url: https://x.com/HustleXR/status/2093967364379324896
+  credit: Zayan
+  likes: 214
+  captured: '2026-10-28'
+  posted: '2026-08-30'
+notes:
+  en: A reusable template with bracketed slots for subject, clothing, three accent colors, title and body text. Fixing the layout (white ground, bold shapes, fine circuit lines, asymmetrical magazine grid) and the 4:5 ratio keeps the typography and composition controlled.
+  zh: 模板用方括号留出人物、服装、三种强调色、标题和正文的位置。白底、粗色块、细电路线、不对称杂志版式和 4:5 比例都写死，排版与构图因此稳定可控。
+prompt: |
+  Conceptual futuristic editorial poster design featuring [HUMAN] in a large side-profile portrait, wearing [CLOTHING], sleek contemporary fashion styling, clean studio lighting, white background with bold [COLOR1] graphic shapes, fine [COLOR2] circuit-like line diagrams, and subtle [COLOR3] interface accents. Large uppercase title "[TITLE]" placed prominently at the top, a short block of small editorial text reading "[TEXT]", modern experimental typography, asymmetrical magazine layout, sharp high-contrast composition, premium graphic design aesthetic, 4:5 aspect ratio.

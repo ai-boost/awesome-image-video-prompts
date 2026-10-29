@@ -1,0 +1,25 @@
+id: gpt-image-raw-sketchy-portrait-poster-with-animal
+title:
+  en: Raw sketchy ink portrait poster with dog
+  zh: 粗粝手绘墨线人物与爱犬肖像海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- sketchy-ink
+- portrait-poster
+- animal-companion
+- limited-palette
+- template
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2093279729717780736
+  credit: kingofdairyque
+  captured: '2026-10-28'
+  posted: '2026-08-28'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A fill in template with HUMAN, CLOTHING, ANIMAL, SCENERY and COLORS slots. Broken ink contours, flat shadow blocks, one warm field against one cool field, and scenery cut down to two or three silhouettes keep the face dominant.
+  zh: 模板用 HUMAN、CLOTHING、ANIMAL、SCENERY、COLORS 五个槽位便于替换。断续墨线、平涂阴影块、一暖一冷的色域对比,再把场景压缩成两三个剪影,让大脸成为视觉中心。
+prompt: |
+  Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and large in frame, accompanied closely by [ANIMAL], with a minimal [SCENERY] background. Render in a rough expressive illustrated style with broken black ink contours, loose sketch lines, scratchy hatching, irregular stroke weight, imperfect line edges, fast gestural mark-making, simplified anatomy, flat cel-like shadow blocks, and reduced detail. Use a restrained [COLORS] palette with one dominant warm field, one cool counter-field, dark inked shadows, and a few pale highlight accents. Keep the face oversized and central, crop around mid-torso, and place the animal in the lower foreground or tucked beside the subject, drawn with the same simplified raw linework. Reduce the scenery into only 2 or 3 bold silhouette shapes behind the subject, with no detailed environment rendering. Add a narrow warm off-white poster border and very light print texture. Strong attitude, graphic poster energy, intentionally imperfect strokes, raw and sketchy finish, ar 4:5

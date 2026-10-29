@@ -1,0 +1,67 @@
+id: gpt-image-selfie-teal-watercolor-portrait-splashes
+title:
+  en: Teal watercolor portrait with paint splashes and drips
+  zh: 青绿水彩人像，泼溅与流淌的颜料
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- portrait
+- selfie
+- photo-to-art
+- negative-space
+source:
+  name: '@Arina_hoqe on X'
+  url: https://x.com/Arina_hoqe/status/2101869888168190404
+  credit: Arina Ai
+  likes: 54
+  captured: '2026-10-28'
+  posted: '2026-09-21'
+notes:
+  en: A reference photo is locked by preserving facial structure and head angle, then the prompt is split into labeled blocks for face, hair, palette, background and lighting. Naming paper grain, wet on wet bleeding and a negative prompt against CGI and plastic skin keeps the result looking hand painted.
+  zh: 先要求保留参考照片的面部结构和头部角度，再按面部、发型、色板、背景、光线分块描述。点明纸纹、湿画法晕染，并用负面提示排除 CGI 和塑料皮肤，让画面更像手绘。
+prompt: |
+  Create a highly detailed traditional watercolor portrait based on the reference image.
+
+  SUBJECT & IDENTITY:
+  A beautiful young woman shown in a refined side-profile / three-quarter profile. Preserve the exact facial structure, proportions, recognizable features, hairstyle, head angle and overall appearance of the reference image.
+
+  POSE & COMPOSITION:
+  Vertical 9:16 portrait composition. Head and upper shoulders only. Her face is turned toward the right side of the frame, with a calm, elegant and slightly mysterious expression. Neck naturally elongated, shoulders relaxed. The face is the central focal point.
+
+  FACE:
+  Natural feminine facial anatomy, defined cheekbones, elegant jawline, delicate straight nose, soft lips, subtle blush on the cheeks. Large expressive light brown/gray eyes looking slightly toward the viewer's direction. Long detailed eyelashes and naturally shaped eyebrows. Soft realistic skin tones rendered through transparent watercolor layers.
+
+  HAIR:
+  Dark teal, deep navy and blue-black hair, swept backward into a loose low ponytail/bun. Flowing strands and layered locks merge naturally into the surrounding watercolor splashes. Individual hair strands should remain visible, with rich turquoise and deep blue pigment variations.
+
+  EXPRESSION:
+  Calm, graceful, sophisticated and slightly melancholic. Natural relaxed lips and subtle emotion in the eyes. No exaggerated smile.
+
+  CLOTHING:
+  Simple elegant dark teal/blue garment visible around the shoulders and neckline, partially dissolving into watercolor washes.
+
+  ART STYLE:
+  Authentic traditional watercolor portrait painted on textured cold-press watercolor paper. Fine ink-and-watercolor illustration, delicate hand-drawn contour lines combined with transparent watercolor washes. Visible paper grain, natural pigment granulation, wet-on-wet color bleeding, soft edges, layered translucent pigments and organic paint blooms.
+
+  COLOR PALETTE:
+  Deep navy blue, turquoise, teal, muted cyan, soft gray, pale beige, warm peach and subtle dusty rose skin tones. Strong contrast between the dark blue hair and the light paper background.
+
+  BACKGROUND:
+  Clean off-white textured watercolor paper. Minimal background with large abstract turquoise and deep-blue watercolor splashes concentrated around the hair and shoulders. Natural paint splatters, droplets, irregular edges and several long dripping watercolor trails extending downward. Keep large areas of white negative space around the face.
+
+  LIGHTING:
+  Soft diffused natural light, subtle highlights across the forehead, nose, cheekbones and lips. Gentle shadows beneath the cheekbone and jawline. Delicate luminous watercolor effect.
+
+  DETAILS:
+  Extremely detailed eyes, eyelashes, eyebrows, lips, nose, facial contours and individual hair strands. Authentic watercolor pigment texture, fine ink outlines, realistic facial anatomy, subtle skin color variations, natural brush marks and paper fibers.
+
+  OVERALL FEEL:
+  Elegant, artistic, sophisticated, emotional watercolor portrait with a modern fashion-illustration aesthetic. The painting should look handmade by a professional watercolor artist rather than digitally generated.
+
+  QUALITY:
+  Ultra-detailed, high-resolution traditional watercolor artwork, refined composition, realistic facial proportions, beautiful color transitions, authentic watercolor imperfections, professional gallery-quality illustration.
+
+  NEGATIVE PROMPT:
+  anime, cartoon, 3D render, CGI, plastic skin, flat digital painting, overly smooth skin, distorted face, altered facial proportions, asymmetrical eyes, extra features, blurry details, harsh outlines, oversaturated colors, photorealistic photography, text, watermark, logo, signature

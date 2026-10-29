@@ -1,0 +1,26 @@
+id: gpt-image-hard-edge-screenprint-geometric-portrait
+title:
+  en: Hard edge screen print geometric portrait
+  zh: 硬边丝网印几何人像
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- screen-print
+- hard-edge
+- geometric
+- portrait
+- limited-palette
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2071783914595897555
+  credit: SimplyAnnisa
+  captured: '2026-10-28'
+  posted: '2026-06-30'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Names the medium and its flaws up front (matte archival paper, visible screen print layers, slight ink misalignment), which gives the image a printed look. A strict three color palette and a single coral accent shape keep the composition tight.
+  zh: 开头先写明媒介和瑕疵（哑光存档纸、可见丝网印层次、轻微套印错位），让画面有印刷质感。严格的三色配色加单一珊瑚色点缀形状，使构图保持紧凑。
+prompt: |
+  A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.
+  dutch angle, stray cat tail --ar 9:16

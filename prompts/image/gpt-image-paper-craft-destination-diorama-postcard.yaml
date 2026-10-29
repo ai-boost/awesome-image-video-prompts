@@ -1,0 +1,65 @@
+id: gpt-image-paper-craft-destination-diorama-postcard
+title:
+  en: Paper Craft Destination Diorama Postcard
+  zh: 纸艺目的地微缩景观明信片
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- paper-craft
+- diorama
+- travel-postcard
+- json-prompt
+- template
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2086125703427436788
+  credit: Sharon Riley
+  likes: 175
+  captured: '2026-10-28'
+  posted: '2026-08-08'
+notes:
+  en: A JSON prompt with a single [DESTINATION] placeholder, where separate fields for landmarks, materials, texture, lighting, palette and composition steer the miniature look. Naming craft materials and a generous negative space frame keeps the result a clean, premium postcard.
+  zh: 用 JSON 结构化提示词，只留一个 [DESTINATION] 占位符，地标、材质、质感、光线、色板和构图各占一个字段来控制微缩质感。点明手工材料并要求大量留白，让成品保持干净高级的明信片感。
+prompt: |
+  "concept": "A charming miniature 3D travel diorama inspired by [DESTINATION], designed as an elegant handmade postcard.",
+      "scene": "Create a narrow floating landscape strip featuring tiny handcrafted versions of the destination's most recognizable landmarks, architecture, and cultural details. Arrange the elements naturally as a compact miniature world.",
+      "landmarks": {
+        "description": "Include iconic local landmarks recreated as miniature paper-craft models using layered paper, clay, painted wood, cardboard, and other handcrafted materials.",
+        "details": "Add tiny local transportation, miniature trees, streetlights, pathways, water features, birds, fluffy clouds, and other subtle environmental elements that help identify [DESTINATION]."
+      },
+      "travel_elements": {
+        "airplane": "Place a tiny handcrafted airplane above the scene with a delicate dotted flight trail.",
+        "atmosphere": "Include subtle postcard-inspired travel details while keeping the overall composition uncluttered."
+      },
+      "materials": "Paper, folded cardstock, handmade clay, lightweight wood, cardboard, miniature craft materials, and tactile handmade surfaces.",
+      "texture": "Show realistic miniature textures, visible paper fibers, gentle folds, tiny imperfections, handcrafted edges, subtle paint variations, and authentic artisanal details.",
+      "background": "Soft white textured paper background with a clean studio-like appearance and generous negative space surrounding the miniature landscape.",
+      "lighting": "Gentle natural diffused lighting with soft highlights, delicate ambient shadows, and subtle depth that emphasizes the handcrafted miniature forms.",
+      "color_palette": "Soft pastel colors with warm, muted, harmonious tones and a light whimsical travel-postcard feel.",
+      "composition": {
+        "layout": "Minimal, centered, airy composition.",
+        "orientation": "Vertical 9:16.",
+        "negative_space": "Leave generous clean space around the miniature scene to create an elegant premium postcard aesthetic."
+      },
+      "typography": {
+        "text": "[DESTINATION]",
+        "placement": "Centered near the bottom of the image.",
+        "style": "Small, elegant handwritten lettering that feels delicate and refined."
+      },
+      "visual_style": [
+        "miniature diorama",
+        "handcrafted paper sculpture",
+        "3D paper art",
+        "travel postcard illustration",
+        "whimsical miniature world",
+        "soft pastel aesthetic",
+        "macro photography look",
+        "tactile handmade textures",
+        "delicate craftsmanship",
+        "cozy artistic atmosphere",
+        "high-resolution detail"
+      ],
+      "final_result": "A polished yet charming miniature travel postcard that feels physically handcrafted, photographed like a tiny real-world diorama, with a magical, cozy, premium artistic quality."
+    }
+  }

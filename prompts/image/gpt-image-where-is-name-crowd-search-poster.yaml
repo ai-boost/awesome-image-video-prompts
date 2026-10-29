@@ -1,0 +1,25 @@
+id: gpt-image-where-is-name-crowd-search-poster
+title:
+  en: Crowd search poster with a hidden person in New York
+  zh: 纽约人群中寻找指定人物的搜寻海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- search-poster
+- crowd-scene
+- city
+- template
+- personalised
+source:
+  name: '@icreatelife on X'
+  url: https://x.com/icreatelife/status/2046639884421550482
+  credit: icreatelife
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: A fill in the name template that names only the poster format and lets the city be swapped, so the model supplies the dense crowd, street signs and landmarks. The circled answer and a header card with a stamp portrait come from the search poster format itself.
+  zh: 用填入姓名的模板只指定海报形式并可更换城市,由模型自行补全密集人群、路牌和地标。圈出答案和带邮票头像的标题卡都来自搜寻海报这一形式本身。
+prompt: |
+  Create a "Where is [Your Name]" crowd search poster set in the city of your choosing

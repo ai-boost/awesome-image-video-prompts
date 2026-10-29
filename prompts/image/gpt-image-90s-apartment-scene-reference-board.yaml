@@ -1,0 +1,43 @@
+id: gpt-image-90s-apartment-scene-reference-board
+title:
+  en: 90s apartment night scene reference board
+  zh: 90年代公寓夜景场景参考板
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- scene-reference
+- production-design
+- cinematic
+- interior
+- 35mm
+source:
+  name: '@Iancu_ai on X'
+  url: https://x.com/Iancu_ai/status/2051287273581203888
+  credit: Iancu_ai
+  captured: '2026-10-28'
+  posted: '2026-05-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'A JSON layout fixes the panel positions: two wide camera views, a six tile prop strip and a footer line of colour temperature and lens. Naming each camera angle and listing the props per tile keeps the room consistent across every panel.'
+  zh: 用 JSON 固定版面：两个宽幅机位、六格道具特写条和色温镜头页脚。逐一写明机位角度并按格列出道具，让各画格里的房间保持一致。
+prompt: |
+  {
+    "type": "scene reference board — 90s apartment living room, cinematic night",
+    "style": "cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality",
+    "layout": {
+      "main_panel_center_left": {
+        "label": "CAMERA A — FRONT VIEW",
+        "scene": "Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain."
+      },
+      "main_panel_center_right": {
+        "label": "CAMERA B — REVERSE VIEW",
+        "scene": "Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow."
+      },
+      "prop_strip_bottom": "6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery",
+      "top_right_inset": "SOURCE REF thumbnail — original photo",
+      "footer": "2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM"
+    },
+    "background": "deep charcoal #1a1a1a, thin white separators",
+    "dimensions": "wide landscape 3:1, high resolution"
+  }

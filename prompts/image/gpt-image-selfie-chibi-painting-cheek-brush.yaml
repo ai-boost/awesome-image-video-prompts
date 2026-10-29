@@ -1,0 +1,35 @@
+id: gpt-image-selfie-chibi-painting-cheek-brush
+title:
+  en: Selfie with chibi self painting his cheek
+  zh: 自拍中画布上的Q版自己为他涂脸颊
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- selfie
+- chibi
+- paint-splatter
+- fourth-wall
+- art-studio
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2098783770513948875
+  credit: Mr. Tariq
+  likes: 219
+  captured: '2026-10-28'
+  posted: '2026-09-12'
+notes:
+  en: The prompt splits the scene into labeled blocks for hair, face, outfit, concept, canvas character, background, style and camera. This lets a real selfie and a 3D chibi share one frame. Repeating the paint splatter colors across both figures ties the real and painted worlds together.
+  zh: 提示词按头发、面部、服装、概念、画布角色、背景、风格和镜头分块标注,让真人自拍与3D Q版角色同框。两个角色重复使用同一组泼墨颜色,把现实与画中世界连在一起。
+prompt: |
+  Study the uploaded photo's facial features and use them as inspiration to create a fun selfie-style photo of a similar-looking young man with a creative cartoon canvas twist.
+  Hair: Messy, tousled dark hair with paint splatters scattered across the hair and face, light stubble beard.
+  Face/Skin: Face and skin splattered with colorful paint speckles (purple, orange, blue), big laughing open-mouth smile, playful joyful expression, no jewelry, no tattoos.
+  Outfit: Purple/lavender knit sweater, paint-splattered casual look.
+  Concept: Taking a close-up selfie next to an easel canvas, where a cute chibi cartoon version of himself is painted on the canvas — the illustrated cartoon character reaching out of the canvas holding a paintbrush and playfully painting/touching the real man's cheek with colorful paint, breaking the fourth wall between reality and illustration.
+  Chibi cartoon (on canvas): Same messy hair and paint splatters, big expressive cartoon eyes, cheerful smile, wearing a purple off-shoulder top, leaning out of the canvas frame with one arm extended holding the paintbrush.
+  Background: Cozy art studio setting, softly blurred art supplies, paint bottles, and shelves in the background, warm natural lighting, wooden easel with visible paint-splattered edges.
+  Art style: Photorealistic selfie photography blended with vibrant 3D chibi cartoon illustration, playful colorful paint-splatter texture throughout, high detail, fun energetic composition.
+  Camera angle: Close-up selfie angle, slightly wide shot capturing both the real face and the canvas painting.
+  Text overlay:
+  Small stylish signature-style text in the top corner: "Mr. Tariq"

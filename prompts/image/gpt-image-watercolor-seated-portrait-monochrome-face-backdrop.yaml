@@ -1,0 +1,54 @@
+id: gpt-image-watercolor-seated-portrait-monochrome-face-backdrop
+title:
+  en: Seated woman over giant graphite watercolor face
+  zh: 坐姿女子与巨幅水墨素描面庞背景
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- watercolor
+- fashion-illustration
+- portrait
+- monochrome
+- double-exposure
+source:
+  name: '@Enaya_ai on X'
+  url: https://x.com/Enaya_ai/status/2103719141849117036
+  credit: Enaya Ai
+  likes: 56
+  captured: '2026-10-28'
+  posted: '2026-09-26'
+notes:
+  en: The prompt is split into labelled blocks for subject, pose, background portrait, style, palette, lighting and composition. It ties the large monochrome face to the foreground woman by asking for the same identity, and a negative prompt guards against face drift and hand errors.
+  zh: 提示词按主体、姿势、背景肖像、风格、色板、光线、构图分块书写，并要求背景大脸与前景人物保持同一身份，再用负面提示词防止脸部漂移和手部错误。
+prompt: |
+  Create a highly detailed elegant watercolor portrait composition of a beautiful South Asian woman, combining a realistic full-body seated portrait with a large monochrome artistic facial portrait in the background.
+
+  Main Subject:
+  A graceful young South Asian woman sitting elegantly on the floor with her legs gently crossed. She has long, thick, naturally wavy dark-black hair styled loosely with soft strands framing her face. Preserve a realistic, delicate facial structure with expressive almond-shaped eyes, naturally defined eyebrows, a refined nose, soft lips, smooth warm skin tone, and a calm gentle expression while looking toward the right side.
+
+  She is wearing an elegant lavender-gray fitted long-sleeve blouse paired with a flowing ivory-white ankle-length skirt made from soft lightweight fabric. The skirt has natural folds and realistic fabric draping. She wears delicate pearl jewelry: a fine pearl necklace, small dangling pearl earrings, and elegant pearl bracelets. Nude-beige high-heeled shoes complete the outfit.
+
+  Pose:
+  She is seated gracefully with both hands resting naturally over one knee, relaxed posture, shoulders slightly turned toward the right, looking peacefully into the distance. Full body visible, including shoes.
+
+  Background Portrait:
+  Behind her, create a large artistic black-and-white close-up portrait of the same woman’s face, occupying most of the upper-right background. The facial identity, hairstyle, eyes, nose, lips, jawline, and overall appearance should remain consistent with the foreground woman. The background portrait should look like a soft graphite-and-watercolor painting, slightly faded and atmospheric, blending naturally into the watercolor background.
+
+  Art Style:
+  Luxury editorial watercolor portrait, sophisticated fashion illustration, realistic watercolor painting combined with delicate pencil/ink details, soft brush strokes, subtle paint bleeding, transparent watercolor washes, cold-pressed textured paper, fine facial details, elegant artistic imperfections, gentle ink splashes and watercolor stains.
+
+  Color Palette:
+  Soft monochrome gray, charcoal, ivory, muted lavender, subtle beige and warm skin tones. Low saturation, sophisticated and timeless.
+
+  Lighting:
+  Soft diffused studio lighting, gentle highlights on the face and clothing, subtle shadows, luminous watercolor atmosphere, no harsh contrast.
+
+  Composition:
+  Vertical portrait composition, foreground woman positioned slightly left of center, large monochrome face extending across the upper-right background, balanced negative space, artistic watercolor splashes around the edges, premium fashion magazine aesthetic.
+
+  Quality:
+  Ultra-detailed, photorealistic facial rendering blended with authentic watercolor texture, realistic anatomy, natural hands and fingers, realistic fabric folds, intricate jewelry details, cinematic composition, premium fine-art portrait, high resolution.
+
+  Negative Prompt:
+  blurry face, distorted anatomy, extra fingers, malformed hands, duplicate person, inconsistent face, different facial identity, deformed eyes, asymmetrical eyes, bad jewelry, plastic skin, oversaturated colors, cartoon, anime, 3D render, CGI, low resolution, harsh lighting, text, watermark, logo.

@@ -1,0 +1,41 @@
+id: gpt-image-chinese-agency-website-mockup
+title:
+  en: Chinese creative agency website full page mockup
+  zh: 中文创意公司官网整页设计稿
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- website-mockup
+- chinese-text
+- agency
+- long-screenshot
+- geometric-collage
+source:
+  name: '@listudio on X'
+  url: https://x.com/listudio/status/2097652659788619894
+  credit: listudio
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: The prompt allocates each section a percentage of the page height and lists exact Chinese copy for every block. It also fixes a four color palette and a grid, which keeps the long layout coherent and the text accurate.
+  zh: 提示词为每个区块指定占整页高度的百分比，并逐块给出准确的中文文案。同时固定四色配色和网格，让长页面的版式统一、文字准确。
+prompt: |
+  Please use the latest GPT Image 2.5 image generation capability of the web version to directly generate images, and do not just return the prompt.
+
+  Generate a complete visual design drawing of the Chinese official website of a creative design company, a long screenshot of the desktop webpage with a frontal view and no perspective, 9:16 vertical format, with as high a resolution as possible, and a complete display from navigation to footer. White background, cobalt blue, bright yellow, coral red and light sky blue colors, narrow white space, neat grid, right-angled cards, bold bevel geometric collage. The overall look is young, lively, and has a sense of design experimentation.
+
+  There is a slim white navigation bar at the top, with the original bold Chinese character mark "见造" and the small slogan "以创意，让世界更有趣" on the left. The navigation on the right is "关于我们、创意服务、精选作品、加入我们、最新动态", and the blue "联系我们 →" button is on the far right.
+
+  The first screen occupies about 27% of the entire image. On the left side, there are two lines of "让有趣，" and "改变世界。" in very eye-catching bold cobalt-blue sans-serif type. On the lower left side are small characters "以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。". On the right side is a clearly adult 20 year old Chinese woman. Black shoulder-length hair is blown by the breeze. She has natural light makeup and real skin. She slightly raises her head and looks to the upper right. Wear a cobalt blue cotton and linen stand-up collared short-sleeved top with a simple slanted placket and a few buttons of the same color. It fits well but is not tight. The character is combined with a blue cube, yellow sphere, coral red ring, and white geometric pedestal. The background is light blue sky and bright natural daylight. The materials and cast shadows are credible.
+
+  The white concept horizontal bar at the bottom of the first screen accounts for about 8%, with the small characters "我们的理念" on the left, the bold black title "用创意，为社会留出想象。" in the middle, and the text "我们相信，好的设计不止解决问题，也让人与世界产生新的连接。" and "了解见造 →" on the right.
+
+  The service area occupies about 16%, with a narrow column title "创意服务", a brief introduction and "查看全部服务 →" on the left; three equal-width cards on the right: a blue background card with a hand-held light bulb photography as "品牌创意", a yellow background card with colorful geometric building blocks as "传播设计", and a coral red background card with an open laptop as "数字体验". Below each card are two lines of brief Chinese introduction and a right arrow.
+
+  The works area occupies about 17%, with the titles "精选作品" and "查看全部作品 →" on the left, and four columns of thumbnails of the flat works on the right, which are a 20-year-old Chinese female portrait poster decorated with colorful paints, an urban geometric installation poster, a blue, white and red editorial design, and a mountain art installation poster. The names of the four projects are "自在生长", "城市游乐场", "灵感发生地" and "山野之间" in order, and the visible text in the thumbnails are all in Chinese.
+
+  The recruitment area occupies about 18%, with the entire cobalt blue horizontal bar, the white title "和有趣的人，一起创造新风景。" on the left, the text "让热爱成为日常，让灵感自由生长。" and the white button "查看开放职位 →". On the right, three clearly adult Chinese women aged 20 sit on the yellow and coral red geometric steps and communicate naturally. They are wearing blue stand-up collar tops, off-white cotton and linen shirts, and light yellow simple knitted tops, loose trousers and clean flat shoes. They have long black hair or short shoulder-length hair, natural light makeup, youthfulness, confidence, and kindness. They are not ancient costumes, not professional suits, and have no exaggerated accessories.
+
+  About 6% below is the "最新动态" column with a white background, and the three lines of messages are "2026.09.09 见造全新品牌网站正式上线", "2026.09.08 城市游乐场创意计划发布" and "2026.09.01 秋季创意伙伴招募开启". The last approximately 8% is a concise footer, with Chinese "见造", navigation and "© 2026 见造创意。保留所有权利。", leaving a comfortable bottom margin. All interface copy is in readable and accurate Simplified Chinese, with clear levels of title and text. No Japanese, no garbled characters, no third-party logos, no watermarks, no browser borders, no device cases. Output a complete web design drawing.

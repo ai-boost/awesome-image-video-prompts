@@ -1,0 +1,29 @@
+id: gpt-image-city-name-landmark-typography-travel-poster
+title:
+  en: City Name Typography Travel Poster With Landmarks
+  zh: 城市名排版地标旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- typography
+- flat-vector
+- landmarks
+- city
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2071819124708438092
+  credit: Goodmanprotocol
+  captured: '2026-10-28'
+  posted: '2026-06-30'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The city name becomes the composition, with landmarks placed inside the letters while the letterforms stay legible. A limited palette of navy, cream, muted red and gray blue, plus a demand for city-accurate details, keeps the flat vector look consistent.
+  zh: 把城市名本身作为构图，地标嵌入字母内部同时保持可读。限定深蓝、奶油、暗红、灰蓝四色，并要求地标与细节符合该城市，让扁平矢量风格统一。
+prompt: |
+  Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility.
+  Use an elegant flat vector illustration style with crisp geometric shapes, minimal detail, clean outlines, subtle shadows, and a premium editorial aesthetic. Maintain a limited color palette of deep navy, warm cream, muted red, and soft gray-blue for a timeless travel-poster look.
+  Add small decorative elements such as street lamps, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific objects where appropriate. Keep generous negative space with a clean background and perfectly balanced composition.
+  Ensure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography.
+  Style: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.

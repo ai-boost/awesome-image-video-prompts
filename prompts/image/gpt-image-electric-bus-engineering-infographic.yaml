@@ -1,0 +1,125 @@
+id: gpt-image-electric-bus-engineering-infographic
+title:
+  en: Electric City Bus Engineering Infographic Handbook Page
+  zh: 电动城市巴士工程信息图手册页
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- electric-bus
+- smart-city
+- engineering
+- square
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2062365258984177766
+  credit: j_smeaton99
+  captured: '2026-10-28'
+  posted: '2026-06-04'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A square layout is built from named modular sections, with a central three-quarter bus render and thin callout lines to key systems. A fixed palette, a placeholder for the bus name and an explicit avoid list keep the page editorial rather than an advert.
+  zh: 方形版面由命名的模块化板块组成，中央是四分之三视角的巴士渲染，细引线指向关键系统。固定配色、可替换的巴士名占位符和明确的避免清单，让页面保持编辑感而不像广告。
+prompt: |
+  Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.
+
+  The composition should feel like a modern visual encyclopedia mixed with an elite public-transit engineering guide and high-end editorial infographic system.
+
+  Visual Direction
+
+  • 1:1 square composition
+  • Premium smart-city background with subtle transportation blueprints, circuit-inspired overlays, and urban infrastructure schematics
+  • Elegant palette using deep navy, graphite black, electric green, steel gray, and soft cyan accents
+  • Refined editorial typography hierarchy
+  • Rounded modular information cards with clean spacing
+  • Gentle realistic reflections and premium transit-system dividers
+  • Minimal transportation engineering iconography
+  • Extremely detailed central electric bus render viewed in dramatic three-quarter perspective driving through a futuristic smart-city boulevard
+  • Thin precision annotation lines pointing toward key systems and technologies
+  • Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+  Main Subject Presentation
+
+  A stunning ultra-detailed realistic render of the {E_BUS_NAME} placed at the center, featuring:
+
+  • sleek aerodynamic body design
+  • panoramic windshield
+  • illuminated destination display
+  • low-floor accessibility layout
+  • futuristic LED lighting systems
+  • premium electric drivetrain details
+  • realistic urban reflections
+  • smart-city transportation realism
+
+  Surround the bus with engineering callouts explaining:
+
+  • battery pack technology
+  • electric motor system
+  • regenerative braking system
+  • charging infrastructure compatibility
+  • smart fleet management systems
+  • passenger accessibility features
+  • thermal battery management
+  • energy-efficiency technologies
+  • safety monitoring systems
+  • intelligent driver assistance features
+
+  Include Modular Sections
+
+  • E-Bus Overview
+  • Technical Specifications
+  • Vehicle Dimensions & Capacity
+  • Powertrain & Energy System
+  • Battery Technology Breakdown
+  • Charging Solutions
+  • Passenger Comfort Features
+  • Safety & Reliability Systems
+  • Fleet Management Technology
+  • Environmental Impact Analysis
+  • Operating Cost Comparison
+  • Construction & Material Engineering
+  • Sustainability Lifecycle Assessment
+  • Smart-City Integration
+  • Global Adoption Trends
+  • “Did You Know?” Facts Section
+  • Future of Electric Public Transport
+
+  Add Premium Visualization Modules
+
+  • battery architecture diagrams
+  • charging workflow graphics
+  • energy-consumption charts
+  • passenger-capacity visualizations
+  • smart-city integration maps
+  • drivetrain cutaway illustrations
+  • environmental impact comparisons
+  • fleet-management dashboards
+  • vehicle blueprint dimensions
+  • lifecycle sustainability graphics
+
+  Style Keywords
+
+  “premium transportation encyclopedia”
+  “editorial electric mobility handbook”
+  “high-end public transit infographic”
+  “scientific transportation poster”
+  “museum-quality electric bus reference page”
+  “modular smart-city knowledge system”
+  “clean engineering editorial design”
+  “ultra-detailed mobility visualization”
+  “future transportation showcase”
+  “sustainable urban mobility design”
+
+  Avoid
+
+  • generic vehicle advertisements
+  • cluttered commercial brochure layouts
+  • cartoon transportation styling
+  • unrealistic flying-bus concepts
+  • excessive cyberpunk neon overload
+  • low-detail stock-vehicle renders
+
+  Final Goal
+
+  The final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.

@@ -1,0 +1,25 @@
+id: gpt-image-1960s-newspaper-comic-ranger-bear
+title:
+  en: Six panel newspaper comic of ranger and bear
+  zh: 护林员与棕熊的六格报纸漫画
+model: GPT Image 2.5
+mode: text-to-image
+category: comic
+tags:
+- comic
+- newspaper
+- six-panel
+- vintage
+- storytelling
+source:
+  name: '@ImagineArt_X on X'
+  url: https://x.com/ImagineArt_X/status/2097520479246704871
+  credit: ImagineArt_X
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: Fixes the medium (1960s Sunday strip on yellowed newsprint) and a two rows of three grid, then keeps the same campsite and characters in every panel. Asking for exact dialogue, one sound effect and one silent panel steers the pacing and the lettering.
+  zh: 先定下媒介（1960年代星期日报纸连载，泛黄新闻纸）和两行三列的格子，再要求每格都是同一营地和同一角色。逐字指定对白、只留一个拟声词、安排一格无对白，用来控制节奏和文字排版。
+prompt: |
+  a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two rows of three. A park ranger and a bear with a notched ear, the same campsite in every panel, dialogue specified word for word, one sound effect, and one panel with no dialogue at all.

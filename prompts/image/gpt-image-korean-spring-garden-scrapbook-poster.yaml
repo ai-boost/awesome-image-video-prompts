@@ -1,0 +1,25 @@
+id: gpt-image-korean-spring-garden-scrapbook-poster
+title:
+  en: Korean Spring Garden Scrapbook Portrait Poster
+  zh: 韩系春日花园手帐风人像海报
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- scrapbook
+- korean-fashion
+- spring
+- doodle
+- polaroid
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2060214163591614900
+  credit: Taaruk_
+  captured: '2026-10-28'
+  posted: '2026-05-29'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A single comma-separated stack of tags covers the subject, outfit, setting, and scrapbook elements such as polaroids, tape, doodles, and handwritten type. The white outline around the subject and the named layout styles keep the collage cohesive.
+  zh: 用逗号串联主体、服装、场景和手帐元素，如拍立得、胶带、涂鸦和手写字体。主体白色描边加上明确的版式风格词，让拼贴保持统一。
+prompt: |
+  Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece

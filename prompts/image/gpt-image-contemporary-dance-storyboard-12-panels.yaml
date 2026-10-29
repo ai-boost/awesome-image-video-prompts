@@ -1,0 +1,41 @@
+id: gpt-image-contemporary-dance-storyboard-12-panels
+title:
+  en: Contemporary dance singer storyboard in brutalist hall
+  zh: 粗野主义大厅中的当代舞歌手分镜板
+model: GPT Image 2
+mode: image-edit
+category: comic
+tags:
+- storyboard
+- contemporary-dance
+- pencil-sketch
+- annotation
+- cinematic
+source:
+  name: '@ogbenniasamuel2 on X'
+  url: https://x.com/ogbenniasamuel2/status/2053088572031250799
+  credit: ogbenniasamuel2
+  captured: '2026-10-28'
+  posted: '2026-05-09'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Locks the drawing style to rough black and white pencil, then layers a colour coded annotation system, with one colour each for body, camera, framing, light and vocal emphasis. Naming lens lengths and shot types per panel gives each of the 12 frames a distinct camera angle.
+  zh: 先把画面限定为粗糙的黑白铅笔速写，再叠加彩色标注体系，肢体、镜头、构图、光线和声音情绪各用一种颜色。逐格指定镜头焦段和景别，让 12 个画格的机位各不相同。
+prompt: |
+  Create a raw contemporary dance performance storyboard focused on intense physical movement and live singing. Use reference image for the character. 16:9 storyboard sheet, 12 cinematic panels.
+
+  The actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple anatomy construction and strong silhouette readability. Keep the artwork lightweight, dynamic and unfinished like early choreography previs.
+
+  A solitary female performer sings continuously while executing an emotionally charged contemporary dance routine inside a massive empty brutalist hall.
+
+  The choreography is aggressive, fluid and constantly evolving: rapid turns, floor slides, crawling transitions, sharp body isolations, trembling hands, extreme balance shifts, hair whips, lunges, jumps, collapsing movements and distorted sculptural poses.
+
+  Every panel must contain visible motion and strong body momentum. Avoid static standing poses. The performer should feel trapped between ritual, exhaustion and emotional release.
+
+  Use cinematic arthouse camerawork with handheld energy, whip pans, orbit movement, overhead shots, side silhouettes, aggressive close-ups, long lens compression and extreme negative space.
+
+  the environment minimal: empty space, smoke, fabric motion, harsh light beams and wet floor reflections only.
+
+  Annotation color system: red arrows = body movement blue arrows = camera movement green marks = framing / composition notes orange marks = lighting direction purple marks = vocal / emotional emphasis black text = short lens notes and panel labels No timestamps.
+
+  End with one overwhelming final movement pose beneath a harsh isolated spotlight.

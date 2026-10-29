@@ -1,0 +1,25 @@
+id: gpt-image-japanese-film-garden-color-grade
+title:
+  en: Japanese film color grade of a spring garden
+  zh: 春日庭园的日系胶片调色
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- color-grading
+- japanese-film
+- cherry-blossom
+- portra-400
+- photo-retouch
+source:
+  name: '@HoodyLiu on X'
+  url: https://x.com/HoodyLiu/status/2099115784417251690
+  credit: HoodyLiu
+  captured: '2026-10-28'
+  posted: '2026-09-13'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: 'The prompt locks composition and objects first, then sets targets for each element: sky, blossoms, foliage and water. A long list of banned effects and a Kodak Portra 400 reference keep the result looking like a graded RAW photo rather than a regenerated image.'
+  zh: 提示词先锁定构图和所有物体，再分别给天空、樱花、绿植和水面设定调色目标。末尾列出大量禁用效果并以柯达 Portra 400 为参照，让结果像调过色的 RAW 原片而不是重新生成的图。
+prompt: |
+  Please only perform professional color grading and light and shadow optimization on the original photos, strictly retain the original composition, scenery positions, cherry blossoms, trees, water reflections and screen proportions, and do not add, delete or change any objects. The overall style is adjusted to a high-end, restrained, and quiet Japanese film style, presenting the quiet atmosphere of a Japanese garden in early spring. Moderately brighten the dark details in the woods, waterfronts and ponds, and restore the layers of tree trunks, shrubs and water surfaces, but retain deep shadows and do not turn black areas into gray. Reduce the sky highlights and blue saturation, and adjust the sky to a transparent, calm gray-blue to avoid excessive brightness and HDR effects. Highlight the cherry blossoms in the center of the picture, making the flowers a natural pale pink-white color to add soft sunlight transparency and delicate layers. Do not turn it into pure white or fluorescent pink. The green plants are adjusted to low-saturated moss green, forest green and slight olive green, reducing the yellow-green and digital feel. The water surface maintains a deep blue-black color, enhancing the subtle reflections and layers of fallen cherry blossoms, making the reflection clear but not sharp. The overall design uses soft highlights, deep shadows, medium to strong contrast, and slightly increases the contrast between warm sunlight and cool shadows. Adding slight film fog, natural halo, fine 35mm film grain and soft sharpening, the color refers to Kodak Portra 400 and Japanese film photography, which is real, natural, subtle, airy and high-end. It is prohibited to change the composition, add cherry blossoms, clouds, buildings, people or lights, generate new branches, change the season, overexposure, dead black, HDR, over-sharpening, fluorescent green, brilliant blue sky, heavy filters, oil painting feeling, illustration feeling and AI redrawing feeling. The end result must be like a professional color correction of the original RAW photo, not a regenerated image.

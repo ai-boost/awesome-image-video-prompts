@@ -1,0 +1,25 @@
+id: gpt-image-strength-dumbbell-fitness-campaign-poster
+title:
+  en: Red fitness campaign poster with giant dumbbell
+  zh: 巨型哑铃红色健身品牌海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fitness
+- campaign
+- typography
+- studio
+- red-black
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2048601383545577614
+  credit: AIwithSynthia
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A single oversized prop and a large background word give the poster a clear focal hierarchy, while the model pose is spelled out limb by limb. The minimal black studio, reflective floor and a one color red palette keep the layout clean and luxurious.
+  zh: 用一个超大道具加背景大字建立清晰的视觉层级,并逐一写明模特的肢体姿势。极简黑色影棚、反光地面和单一红色调让画面干净而有高级感。
+prompt: |
+  Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.

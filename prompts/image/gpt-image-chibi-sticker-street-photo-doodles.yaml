@@ -1,0 +1,25 @@
+id: gpt-image-chibi-sticker-street-photo-doodles
+title:
+  en: Street Portrait Surrounded by 3D Chibi Selves
+  zh: 街头人像周围环绕3D Q版自己
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- chibi
+- sticker-outline
+- doodle-overlay
+- reference-photo
+- 3d-cute
+source:
+  name: '@im_shahid7 on X'
+  url: https://x.com/im_shahid7/status/2050201037144002786
+  credit: Al-Shamus
+  likes: 414
+  captured: '2026-10-28'
+  posted: '2026-05-01'
+notes:
+  en: The prompt keeps the original photo and background, then adds mini 3D chibi copies in a list of distinct poses and expressions. A white sticker outline, doodle icons and casual handwriting words tie the cutouts into one pastel collage.
+  zh: 提示词保留原照片和背景，再按姿势与表情清单加入多个3D Q版小人。白色贴纸描边、涂鸦图标和手写字样把这些元素统一成柔和的粉彩拼贴。
+prompt: |
+  Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features. Chibi characters have various poses and expressions:￼jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼

@@ -1,0 +1,26 @@
+id: gpt-image-obsessed-fan-artist-sketchbook-page
+title:
+  en: Chaotic fan artist sketchbook page of one character
+  zh: 狂热粉丝画的混乱角色速写本页
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- sketchbook
+- character-sheet
+- chibi
+- doodle
+- fan-art
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2060211436232786357
+  credit: Ciri_ai
+  captured: '2026-10-28'
+  posted: '2026-05-29'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt names a persona, an obsessed fan artist, and lists the mix of content: full body poses, tiny chibi doodles, exaggerated expressions and close ups of hands or eyes. Asking for a white background with no grid and no order gives a loose overlapping layout, and a color placeholder for the clothes makes it easy to reuse.'
+  zh: 提示词先设定狂热粉丝画师这个人设，再列出内容组合：全身姿势、迷你Q版涂鸦、夸张表情、手和眼睛的特写。要求白底、无网格、无秩序，得到松散重叠的版面，衣服颜色留作占位符，方便换用。
+prompt: |
+  Draw me as if an obsessed fan artist filled an entire sketchbook page - messy, overlapping, full-body poses, tiny chibi doodles, exaggerated expressions, and random close-ups of their hands or eyes.
+  White background. No grid, no order. Pure chaos energy. With (any color) aesthetic clothes

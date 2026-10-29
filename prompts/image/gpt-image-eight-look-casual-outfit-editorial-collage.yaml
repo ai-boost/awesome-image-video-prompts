@@ -1,0 +1,25 @@
+id: gpt-image-eight-look-casual-outfit-editorial-collage
+title:
+  en: Eight casual outfit editorial collage with handwritten labels
+  zh: 八套日常穿搭编辑拼贴，配手写标注
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- fashion
+- outfit-collage
+- editorial
+- handwritten-labels
+- consistent-face
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2052218645951205463
+  credit: aiwithaly
+  captured: '2026-10-28'
+  posted: '2026-05-07'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Locks the face across all eight looks and implies height through proportions instead of stating a number. Banning grids and borders forces an organic freeform layout, while handwritten arrows and labels call out key pieces.
+  zh: 要求八套造型保持同一张脸，并用比例暗示身高而不直接写出数字。禁用网格和边框让版面自由错落，手写箭头和标签标出关键单品。
+prompt: |
+  Create a freeform fashion-editorial collage of me in 8 distinct full-body casual wear, arranged organically on a clean cream studio backdrop. Keep my face identical across all looks, w/ consistent proportions that visually read as around (height) w/o stating height. Include subtle handwritten-style arrows & labels highlighting key pieces. Avoid any grids, borders, or boxed layouts.

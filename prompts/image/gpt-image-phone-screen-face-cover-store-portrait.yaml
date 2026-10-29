@@ -1,0 +1,25 @@
+id: gpt-image-phone-screen-face-cover-store-portrait
+title:
+  en: Woman hiding eyes behind phone showing her face
+  zh: 手机屏幕遮住上半脸的商场人像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- iphone-style
+- creative-portrait
+- frame-within-frame
+- identity-preserved
+- street-photo
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2053535379618423118
+  credit: Ciri_ai
+  captured: '2026-10-28'
+  posted: '2026-05-10'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt fixes the setting, a slightly elevated frontal angle and the exact hand pose, then states that the phone screen faces the camera and shows her face live. That makes the phone a frame within the frame, while the reference image keeps the identity consistent.
+  zh: 提示词先锁定场景、略微俯拍的正面机位和握手机的姿势，再明确屏幕朝向镜头并显示她的脸，让手机成为画中画，同时用参考图保持人物身份一致。
+prompt: |
+  Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.

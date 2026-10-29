@@ -1,0 +1,33 @@
+id: gpt-image-character-photo-book-japanese
+title:
+  en: Japanese photo book cover for a chibi character
+  zh: chibi角色的日语写真集封面
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- photo-book
+- character
+- japanese-text
+- layout
+- chibi
+source:
+  name: '@Kashiko_AIart on X'
+  url: https://x.com/Kashiko_AIart/status/2046492817804099794
+  credit: Kashiko_AIart
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A reference character image carries the identity, and one short instruction asks for a professional designer photo book in Japanese. The result is a cover with a hero shot, a grid of varied scenes and small info badges. Adding lines such as rich scenes and large amount of information pushes the layout to be denser.
+  zh: 用参考角色图锁定形象，再用一句话要求专业设计师风格的日语写真集。结果是主视觉加多场景图格和信息徽章的封面。追加丰富的场景、信息量较多这类要求，版面会更密。
+prompt: |
+  ・丰富的场景
+  ・信息量较多
+
+  [English]
+  Please use this character to create a photo book crafted by a professional designer. The language should be Japanese.
+
+  Adding prompts according to your preferences will make it more colorful and rich
+  ・Rich scenes
+  ・Large amount of information

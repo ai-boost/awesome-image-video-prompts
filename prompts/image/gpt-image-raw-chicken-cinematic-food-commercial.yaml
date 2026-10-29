@@ -1,0 +1,35 @@
+id: gpt-image-raw-chicken-cinematic-food-commercial
+title:
+  en: Raw chicken on dark board, cinematic food commercial
+  zh: 暗色木板上的生鸡肉,电影感美食广告
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- food
+- commercial
+- macro
+- cinematic
+- multi-scene
+source:
+  name: '@DuaFatimaAi on X'
+  url: https://x.com/DuaFatimaAi/status/2091684066622103675
+  credit: Dua Fatima
+  likes: 226
+  captured: '2026-10-28'
+  posted: '2026-08-24'
+notes:
+  en: The prompt splits the commercial into four numbered scenes that follow the food from raw to fried, each with its own camera distance and action. A closing style line stacks macro, shallow depth of field, warm lighting and no text or logos.
+  zh: 提示词把广告拆成四个编号场景,按生鸡肉到炸鸡的顺序推进,每个场景都写明镜头距离和动作。结尾的风格句叠加微距、浅景深、暖光,并要求无文字无标志。
+prompt: |
+  Create a hyper-realistic cinematic food commercial showing raw chicken pieces being expertly seasoned and transformed into crispy golden fried chicken.
+
+  Scene 1: Close-up of fresh raw chicken pieces arranged on a dark wooden cutting board in a dramatic dark kitchen environment. Soft warm side lighting highlights the natural texture and moisture of the chicken.
+
+  Scene 2: A generous blend of spices is sprinkled over the chicken in slow motion. Capture every tiny spice particle floating through the air and landing naturally on the chicken. Use extreme macro detail and shallow depth of field.
+
+  Scene 3: The seasoned chicken is carefully lowered into hot oil. Show an intense close-up of the oil rapidly bubbling and sizzling around the chicken, with realistic steam, tiny oil droplets, and crunchy batter forming.
+
+  Scene 4: Golden-brown crispy fried chicken is lifted from the hot oil with stainless-steel kitchen tongs. Oil droplets fall back into the pan in slow motion while the crispy textured coating glistens under warm cinematic lighting.
+
+  Ultra-realistic food photography, cinematic commercial style, macro close-ups, rich golden tones, realistic textures, dramatic contrast, shallow depth of field, soft background bokeh, slow-motion details, natural movement, professional food advertisement, 4K, highly detailed, appetizing presentation, no text, no logos

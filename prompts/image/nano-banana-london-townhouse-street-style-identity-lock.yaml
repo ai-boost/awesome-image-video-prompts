@@ -1,0 +1,25 @@
+id: nano-banana-london-townhouse-street-style-identity-lock
+title:
+  en: London Townhouse Street Style in Leather Jacket
+  zh: 伦敦联排屋前的皮夹克街拍人像
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- street-style
+- fashion
+- identity-reference
+- london
+- photorealistic
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2107680165736468917
+  credit: Snow
+  likes: 85
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+notes:
+  en: Opens by locking identity, face, hairstyle and body proportions to the reference image, then specifies the location, door and railings, and each garment with its material. Closes with overcast light, 50mm lens, shallow depth of field, film grain and a no text, no watermark line.
+  zh: 开头先把面部、发型和身材比例锁定到参考图，再逐项写明地点、门和铁栏杆以及每件服装的材质。结尾补上阴天光线、50mm 镜头、浅景深、胶片颗粒和禁止文字水印的约束。
+prompt: |
+  Use the reference image as the exact identity reference. Preserve the subject’s facial identity, facial proportions, hairstyle, body proportions and natural appearance. Create a photorealistic high-fashion street-style photograph in London. The subject is standing outside a classic British townhouse with a muted blue-gray paneled door and black wrought-iron railings. She wears a fitted black ribbed turtleneck, oversized dark brown vintage leather jacket with a soft shearling collar, brown mini skirt, and carries a structured dark brown leather handbag with gold hardware. Oversized dark sunglasses, minimal makeup, effortless model-off-duty expression. Overcast natural daylight, muted neutral color palette, realistic shadows, authentic leather texture, subtle film grain, editorial fashion photography, candid street photography, 50mm lens, shallow depth of field, extremely photorealistic, no text, no watermark.

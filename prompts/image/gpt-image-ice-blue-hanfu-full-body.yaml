@@ -1,0 +1,35 @@
+id: gpt-image-ice-blue-hanfu-full-body
+title:
+  en: Ice blue sequined hanfu full body portrait
+  zh: 冰蓝星点襦裙全身人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- hanfu
+- fashion
+- full-body
+- translucent-fabric
+- 85mm
+source:
+  name: '@fdtreesky on X'
+  url: https://x.com/fdtreesky/status/2046508731090018331
+  credit: fdtreesky
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt splits into clothing details, material and light, and composition, and names fabric layers and sequin embroidery explicitly. Side light through sheer tulle and an 85mm f/1.8 full body framing keep the translucency and texture readable.
+  zh: 提示词按服装细节、材质光影、构图镜头三段书写,明确写出面料层次与亮片刺绣。侧光透过薄纱,加上85mm f/1.8全身构图,让半透明感与织物质感清晰可见。
+prompt: |
+  [中文]
+  服裝細節： 模特兒身穿一套精緻的淡冰藍色齊胸襦裙，採用多層輕盈的薄紗和絲綢歐根紗材質制成。其寬大的、半透明的廣袖上點綴著如繁星般微小的銀色和淺藍色亮片刺繡，在光線下閃爍（具有銀河般的夢幻感）。抹胸位置有複雜的銀色蕾絲和編織紋理細節，腰帶自然垂落。
+
+  材質與光影： 畫面呈現 8k 超高分辨率和對織物微距紋理的極致渲染。光線採用柔和的自然側光（丁達爾效應 Typndall Effect），精準地透射過輕薄的紗布，營造出面料的半透明感（Translucency）和流動感。
+
+  構圖與鏡頭： 採用 85mm 黄金人像鏡頭效果，f/1.8 大光圈，全身構圖，模特居中站立
+
+  [English]
+  Clothing details: The model wears an exquisite pale ice blue chest-high ruqun, made of multiple layers of lightweight tulle and silk organza materials. Its wide, translucent broad sleeves are adorned with tiny silver and light blue sequin embroideries like stars, shimmering under the light (with a galaxy-like dreamy feel). The tube top position has complex silver lace and woven texture details, and the belt falls naturally.
+  Material and light and shadow: The image presents 8k ultra-high resolution and extreme rendering of macro textures of the fabric. The lighting uses soft natural side light (Tyndall Effect Typndall Effect), accurately transmitting through the light gauze, creating a sense of translucency (Translucency) and fluidity of the fabric.
+  Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large aperture, full-body composition, model standing in the center

@@ -1,0 +1,31 @@
+id: gpt-image-chibi-clone-sticker-running-diary
+title:
+  en: Runner photo with chibi clone stickers and doodles
+  zh: 跑步照片配Q版分身贴纸与手绘涂鸦
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- chibi
+- sticker
+- scrapbook
+- fitness
+- photo-edit
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2050922155676930544
+  credit: Emma
+  likes: 959
+  captured: '2026-10-28'
+  posted: '2026-05-03'
+notes:
+  en: Locks the real photo identity, outfit and background first, then adds a counted set of 5 to 8 chibi clones, each given a distinct running action and emotion. Sticker styling (white outline, soft shadow, floating) plus white and pink doodles and handwritten phrases give a scrapbook diary look without covering the face.
+  zh: 先锁定真人照片的身份、服装和背景，再限定添加5到8个Q版分身，每个分身对应不同的跑步动作与情绪。贴纸白边、柔和阴影加上白粉色涂鸦和手写短句，形成手帐日记风格，同时避免遮挡人脸。
+prompt: |
+  Create a high-quality “chibi clone sticker diary photo” based on the uploaded real-life image. Preserve the original person’s identity, face, hairstyle, hair color, outfit, body proportions, pose, lighting, and background. Do not alter facial features or turn the subject into a full illustration—maintain a realistic photo look.
+  Analyze the scene as a fitness/running lifestyle moment. Add 5–8 chibi mini clones of the same person around the subject, designed in a consistent kawaii sticker style (big head, small body, large expressive eyes, clean digital finish). Each clone must clearly resemble the real person (same hair, outfit, colors).
+  Design each chibi with different running-related actions and emotions: jogging, stretching, drinking water, feeling tired, cheering, giving thumbs up, celebrating completion. Ensure all poses are unique and contextually relevant.
+  Render each chibi as a sticker with white outlines, soft shadows, and a slightly floating effect. Arrange them around the subject and edges without covering the face or main body.
+  Add light hand-drawn doodles (hearts, sparkles, arrows, motion lines, circles) in white with subtle pink accents, keeping a clean scrapbook diary feel.
+  Include 5–8 short handwritten-style phrases matching a fitness mood (cute, energetic, encouraging). Use mostly white text with slight pink highlights and small decorative marks.
+  Composition: keep the real person as the central focus, surrounded by chibi stickers and doodles. The result should feel like a polished, playful, high-resolution social media lifestyle diary image—clean, balanced, and visually rich without clutter.

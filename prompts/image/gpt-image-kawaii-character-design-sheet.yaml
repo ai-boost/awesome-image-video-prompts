@@ -1,0 +1,44 @@
+id: gpt-image-kawaii-character-design-sheet
+title:
+  en: Kawaii Girl Character Design Sheet with Expressions
+  zh: 日系可爱女孩角色设定表与表情组
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- character-sheet
+- kawaii
+- pastel
+- expressions
+- image-reference
+source:
+  name: '@xRahultripathi on X'
+  url: https://x.com/xRahultripathi/status/2050152865566708134
+  credit: xRahultripathi
+  captured: '2026-10-28'
+  posted: '2026-05-01'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt lists every panel of the sheet (portrait, six named expressions, full body poses, accessory icons, palette, profile box), so the model lays out a complete animation style sheet. Style anchors such as pastel tones, smooth shading and clean lineart keep the look consistent across panels.
+  zh: 提示词逐一列出设定表的每个版块（主立绘、六种命名表情、全身姿势、配饰图标、色板、档案框），模型就能排出完整的动画设定表版式。粉彩色调、平滑阴影、干净线稿等风格锚点让各版块画风保持一致。
+prompt: |
+  Create a cute female character design sheet inspired by the uploaded image.
+
+  Style: warm, soft, semi-realistic cartoon illustration with a cozy Japanese kawaii vibe (pastel tones, smooth shading, clean lineart).
+
+  Make it a clean character concept poster layout including:
+
+  One large main female portrait (front view, detailed)
+
+  Facial expression set (happy, shy, annoyed, sleepy, surprised, excited)
+
+  2–3 full-body poses (standing, walking/running, playful pose)
+
+  Small accessory/object icons that match her personality (hair clip, cute bag, phone charm, coffee cup, keychain)
+
+  A simple color palette section (skin, hair, outfit, accent colors)
+
+  A profile info box with: name, age range, personality traits, likes/dislikes, short description
+
+  Overall look should feel charming, cozy, feminine, and professionally arranged like an animation character design sheet.
+  High quality, clean background, soft lighting.

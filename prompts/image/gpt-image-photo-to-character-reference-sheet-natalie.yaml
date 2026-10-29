@@ -1,0 +1,69 @@
+id: gpt-image-photo-to-character-reference-sheet-natalie
+title:
+  en: Photoreal character reference sheet from one photo
+  zh: 由单张照片生成的写实角色设定表
+model: GPT Image 2.5
+mode: image-edit
+category: character
+tags:
+- character-sheet
+- turnaround
+- expression-sheet
+- identity-consistency
+- photorealistic
+source:
+  name: '@SadiaMalik182 on X'
+  url: https://x.com/SadiaMalik182/status/2102988748732715426
+  credit: Sadia
+  likes: 162
+  captured: '2026-10-28'
+  posted: '2026-09-24'
+notes:
+  en: Section headers in capitals (profile, turnaround, expressions, poses, costume, palette) turn one uploaded photo into a full editorial grid on a white background. Fill-in brackets for the profile fields and an explicit same person across every panel instruction keep identity consistent.
+  zh: 用大写分区标题（档案、转面、表情、姿势、服装、色板）把一张上传照片扩展成白底编辑式网格设定表。档案字段用方括号留空填写，并明确要求每个分格保持同一个人，从而锁定身份一致性。
+prompt: |
+  Use the uploaded photo as the ONLY identity reference and create a premium professional CHARACTER REFERENCE SHEET of the exact same person.
+
+  Preserve the person's recognizable identity exactly, including facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hair color, hair texture, hairline and hairstyle.
+
+  Create a clean Hollywood-style character design sheet with a professional editorial grid layout and white studio background.
+
+  CHARACTER PROFILE
+  Name: [NAME]
+  Role: [ROLE / PROFESSION]
+  Age: [AGE]
+  Height: [HEIGHT]
+  Body Type: [BODY TYPE]
+  Personality: [3–5 TRAITS]
+  Distinctive Traits: [IMPORTANT FEATURES]
+  Signature Colors: [COLORS]
+
+  FULL-BODY TURNAROUND
+  Show the same person in front view, 3/4 view, side profile and back view.
+
+  FACE & IDENTITY DETAILS
+  Show detailed front face, 3/4 face and side profile.
+
+  EXPRESSION SHEET
+  Show neutral, happy, angry, sad, surprised, worried, confident and determined expressions.
+
+  POSE & BODY LANGUAGE
+  Show neutral standing, walking, sitting, relaxed, tense and action-ready poses.
+
+  COSTUME DETAILS
+  Show close-up details of the neckline, fabric texture, sleeves, accessories, back details and shoes.
+
+  COLOR & MATERIAL PALETTE
+  Include coordinated color swatches and material references matching the character.
+
+  VISUAL STYLE:
+  Premium Hollywood character reference sheet, photorealistic cinematic photography, realistic skin texture, natural studio lighting, highly detailed, clean white background, professional typography, thin divider lines, balanced spacing and polished commercial presentation.
+
+  IMPORTANT:
+  Keep the exact same person consistent across every panel.
+  Do not change the face, hairstyle, age appearance or body proportions.
+  Do not copy the original photo's background or pose.
+  Do not add watermarks, logos, social media handles or promotional text.
+
+
+  @WizstarAI

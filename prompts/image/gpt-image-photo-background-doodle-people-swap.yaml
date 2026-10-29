@@ -1,0 +1,88 @@
+id: gpt-image-photo-background-doodle-people-swap
+title:
+  en: Doodle Mother and Daughter on Seaside Promenade
+  zh: 海边栈道上的涂鸦母女
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- doodle
+- photo-edit
+- people-replacement
+- hand-drawn
+- background-preserve
+source:
+  name: '@Emmma__0 on X'
+  url: https://x.com/Emmma__0/status/2091391958128251286
+  credit: Emmma__0
+  captured: '2026-10-28'
+  posted: '2026-08-23'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'The prompt sets one core rule, photo background and doodle people, then lists what to preserve: count, position, orientation, pose and clothing colors. A priority ranking and a clear avoid list keep the background photographic.'
+  zh: 提示词先立下核心规则，背景保持实拍、人物改为涂鸦，再逐项锁定人数、位置、朝向、姿态和服装颜色。末尾的优先级排序和禁止清单让背景不被涂鸦化。
+prompt: |
+  Transform ONLY the people in the uploaded photo into adorable hand-drawn doodle characters while keeping the original photographic background unchanged.
+
+  CORE RULE:
+  Background = original realistic photo.
+  People = cute hand-drawn doodle characters.
+
+  PRESERVE THE BACKGROUND:
+  Keep the original sky, landscape, buildings, water, furniture, ground, plants, railings, objects, lighting, colors, perspective, camera angle, framing, and textures as close to the original photo as possible.
+
+  Do NOT redraw, simplify, illustrate, or apply doodle/crayon/pencil effects to the background or environmental objects.
+
+  TRANSFORM ONLY PEOPLE:
+  Replace each person with a charming, naive doodle version while preserving:
+  - exact number of people
+  - original position and relative scale
+  - front/back/side/three-quarter orientation
+  - head and body direction
+  - pose and gesture
+  - arm and leg positions
+  - interactions with people or objects
+  - hairstyle, clothing colors, and major accessories
+
+  IMPORTANT:
+  If someone faces away, keep them back-facing.
+  If sideways, keep them sideways.
+  If facing forward, keep them forward.
+  Never rotate a person toward the viewer or invent a face that is not visible.
+
+  CUTE DOODLE STYLE:
+  Freely reinterpret realistic anatomy into an adorable, imperfect character:
+  - oversized round head
+  - tiny compact body
+  - short simplified arms and legs
+  - tiny hands and feet
+  - cute awkward proportions
+  - loose scribbled hair
+  - tiny dot eyes and simple facial features when visible
+  - rosy scribbled cheeks when appropriate
+
+  Keep the original pose recognizable, but simplify and slightly exaggerate it for cuteness.
+
+  DRAWING STYLE:
+  Loose naive hand-drawn doodle, like a quick children's sketch.
+  Use thin shaky black outlines, imperfect shapes, overlapping sketch lines, scribbled colored-pencil or crayon fills, uneven coloring, white gaps, and slightly messy edges.
+
+  The character should look intentionally roughly drawn but extremely cute.
+
+  OBJECTS:
+  Objects, furniture, scenery, and items around the people should remain photographic whenever possible. A doodle character may naturally touch or hold a real photographic object.
+
+  INTEGRATION:
+  Keep correct scale, ground contact, depth, and occlusion so the doodle characters naturally occupy the same locations as the original people.
+
+  FINAL LOOK:
+  It should feel like the real people were removed from the original photograph and replaced with adorable little hand-drawn doodle versions of themselves, while the real-world background remained untouched.
+
+  Prioritize:
+  1. Original photographic background
+  2. Person position and scale
+  3. Exact body orientation
+  4. Pose and gesture
+  5. Cute exaggerated doodle character design
+
+  Avoid full-image illustration, background doodling, realistic anatomy, anime, manga, 3D cartoon, polished digital art, vector lines, changed poses, changed orientation, added people, or invented faces.

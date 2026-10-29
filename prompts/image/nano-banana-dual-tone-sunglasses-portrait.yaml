@@ -1,0 +1,25 @@
+id: nano-banana-dual-tone-sunglasses-portrait
+title:
+  en: Dual tone lit portrait in black sunglasses
+  zh: 黑色墨镜双色光电影感人像
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- cinematic-lighting
+- sunglasses
+- bokeh
+- reference-image
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2109247804707348591
+  credit: Harboris
+  likes: 57
+  captured: '2026-10-28'
+  posted: '2026-10-11'
+notes:
+  en: The prompt locks identity and composition to a reference image, then lists the wardrobe and pose. Cool blue front light against a warm orange rim light, with an 85mm lens and heavy bokeh, gives the cinematic contrast.
+  zh: 提示词先用参考图锁定人物与构图，再逐项列出服装和姿态。前方冷蓝光与右侧暖橙轮廓光对比，配合85mm镜头和强烈虚化背景，形成电影感。
+prompt: |
+  Use the uploaded image as the primary reference. Recreate the same person, face, and exact composition, keeping the same face impression, hairstyle, sunglasses, and outfit. A cinematic close-up portrait of a person wearing black rectangular sunglasses, a plain light-colored (white) crew-neck T-shirt, and small ear stud. Their head is slightly tilted, with calm, confident, and cool expression. Use dramatic dual-tone lighting: cool blue light from the front/left side and warm orange rim light from the right side, creating strong cinematic contrast. Keep the background heavily blurred with bokeh, no distractions. Maintain realistic skin texture, sharp facial details, shadows, DSLR quality, 85mm lens, HDR, premium cinematic color grading, ultra-realistic, highly detailed, crisp focus, photorealistic. Vertical 3:4 composition.

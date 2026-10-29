@@ -1,0 +1,66 @@
+id: gpt-image-astral-vortex-portal-landing-page-ui
+title:
+  en: Astral Vortex Portal Landing Page Design
+  zh: 星尘漩涡入口的网站首页界面
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- landing-page
+- dark-mode
+- glassmorphism
+- hex-palette
+- serif-typography
+source:
+  name: Devault on GitHub
+  url: https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5/blob/main/docs/hero-backgrounds-1.md
+  credit: Devault
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+notes:
+  en: The prompt pins every color with exact hex values and assigns each to a named UI role. A signature detail, dark text inside a bright portal against white controls outside, fixes the contrast logic, and MUST and AVOID lists lock the type and glass rules.
+  zh: 提示词用精确色值并为每种颜色指定界面角色。以亮色入口内深色文字、外围白色控件的对比逻辑作为标志细节，再用必须与避免清单锁定字体和玻璃质感规则。
+prompt: |
+  Design a dark-mode abstract background artwork: an ethereal particle vortex framing a serene morning sky with frosted glass navigation and quiet editorial type.
+
+  LAYOUT
+  Vertically centered hero composition anchored by a global navbar at the top and a floating frosted dock at the bottom. The central focal zone is an unobstructed oval aperture that holds eyebrow, serif display headline, supporting paragraph, primary CTA, and social proof in tight vertical alignment. The bottom dock sits anchored above the lower edge, spanning 1160px across four balanced feature quadrants.
+
+  PALETTE (use these exact hex values)
+  - #15132d — Cosmic Void Indigo: Outer canvas background, edge nebulas, and deep space corners.
+  - #c2e5e7 — Luminous Sky Core: Illuminated center of the vortex against which the main headline rests.
+  - #182c38 — Deep Ocean Navy: Display headlines and primary value proposition text inside the bright portal.
+  - #43616d — Slate Teal Muted: Eyebrow tag and subheadline inside the central light aperture.
+  - #ffffff — Starlight White: Top nav links, bottom dock headings, and glowing icons.
+  - linear-gradient(135deg, #2b2347 0%, #462c5b 100%) — Violet Nocturne Gradient: Primary central action button ('Get started') floating below subcopy.
+  - linear-gradient(135deg, #f2d5e5 0%, #c4f0ea 100%) — Iridescent Dawn Gradient: Top right 'Start for free' navbar CTA button fill.
+
+  TYPOGRAPHY
+  Typeface Instrument Serif (or Cormorant Garamond, Fraunces, New York), weights 400. Sizes 11px caption, 12px body-sm, 14px body, 16px body-lg, 17px heading, 56px display. Tracking -0.015em. Lyrical, contemplative, and premium. The pairing of a delicate, classic serif (Instrument Serif) inside the bright clearing with crisp modern geometric grotesque (Plus Jakarta Sans) conveys visionary intelligence without sacrificing clarity. For production environments where Instrument Serif is unavailable, Cormorant Garamond or Fraunces (Regular, Normal optical size) offer identical weight and emotional warmth.
+
+  GEOMETRY & SPACING
+  Corner radii — cards 24px, links 4px, inputs 999px, buttons 999px. Spacing on a 8px unit, 24px gaps, 96px between sections, 1200px container, airy density.
+
+  DEPTH
+  Depth is created organically through atmospheric layering rather than drop shadows. The background image recedes from dense dark nebula clouds to an infinite glowing sky aperture, while UI components hover via translucent glassmorphism (8% white wash, 1px specular rim highlight, and 24px backdrop blur).
+
+  IMAGERY
+  Photorealistic cinematic digital illustration depicting a swirling ring of celestial stardust, auroral cyan streams, and golden planetary dust framing a calm morning cloudscape. Graphic icons and cartoonish assets are strictly off-brand; all visual richness originates from organic light trails and mist.
+
+  SIGNATURE DETAIL — the thing that makes this design itself
+  The luminous circular vortex portal that naturally inverses content contrast: text is dark slate inside the sunny eye of the storm, while outer interface controls remain glowing starlight white against deep space.
+
+  MUST
+  - Position all primary dark typography directly inside the lighter sky portal center.
+  - Use full pill radii (999px) for all standalone action buttons.
+  - Keep navigation links flat and transparent without background container pill encapsulation.
+  - Maintain heavy blur (20-30px) on the bottom card so cosmic clouds filter smoothly through.
+
+  AVOID
+  - Never place pure white text directly in the bright center sky region.
+  - Do not give the bottom feature dock solid, opaque backgrounds.
+  - Avoid square or sharp corners anywhere; everything follows soft rounded conventions.
+  - Do not use heavy, bold sans-serif typefaces for the central hero message.
+
+  OUTPUT
+  Render as a clean, pixel-crisp UI design at roughly 3424:2416. Flat vector rendering, real legible text, no browser chrome, no device mockup frame, no watermark, no lorem ipsum placeholder blocks.

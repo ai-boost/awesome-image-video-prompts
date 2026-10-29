@@ -1,0 +1,45 @@
+id: gpt-image-car-door-coastal-film-snapshot
+title:
+  en: Candid early 2000s film snapshot from inside car
+  zh: 车内视角的2000年代初胶片风海边抓拍
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- film-look
+- candid-snapshot
+- character-reference
+- travel
+- y2k
+source:
+  name: '@abxxai on X'
+  url: https://x.com/abxxai/status/2102775755646337530
+  credit: Abdul Shakoor
+  likes: 1687
+  captured: '2026-10-28'
+  posted: '2026-09-23'
+notes:
+  en: An uploaded character sheet locks identity, then the scene is framed from inside the car so the door frame, headliner and seat belt create a natural foreground. The film look is written into the prompt as camera and grade details like 28mm barrel distortion, lifted blacks, halation and grain, not applied as a filter.
+  zh: 用上传的角色设定图锁定人物身份，再以车内视角取景，车门框、车顶内衬和安全带自然构成前景。胶片感靠提示词里写明的28mm桶形畸变、提升黑位、光晕和颗粒等相机与调色细节实现，而不是后期滤镜。
+prompt: |
+  4/ the start frame, GPT Image 2.5 made
+
+  the old footage look is NOT a filter.. Opus wrote it into the prompt:
+
+  Promtp:
+
+  Use the uploaded character sheet as the strict identity reference. Keep her exact face, bone structure, brown eyes, light freckles across nose and cheeks, natural full lips, and long straight light-brown hair with sun-kissed caramel highlights parted in the middle. Keep the thin gold chain necklace with the small cross pendant.
+
+  SCENE: A candid photo taken from inside a parked silver sedan, looking out through the open rear passenger door. The door frame, the grey fabric headliner, the black door panel with its chrome handle, and part of the seat belt frame the shot on both sides. She stands just outside the open door on a rocky clifftop road above the ocean, both arms raised, one hand gripping the top of the door frame and the other resting on the roof edge, leaning slightly toward the camera. Relaxed, unposed, calm expression, looking straight into the lens.
+
+  WARDROBE: Fitted cropped white cotton baby tee with a faded, sun-washed vintage graphic print in pale blue and coral red, slightly worn and soft. Light-wash low-rise denim cutoff shorts with frayed hems. Thin brown leather cord bracelets on one wrist. Hair slightly messy and windblown, a few strands across her face.
+
+  BACKGROUND: Deep blue Mediterranean sea filling the frame behind her, sparkling sun glints on the water, a flat horizon line at chest height, pale hazy sky, dark rocks and sandy stones at the cliff edge below.
+
+  LIGHT: Harsh direct midday summer sun, bright and slightly overexposed. Sun-warmed skin with a natural sheen and slight glow on the cheeks and nose, soft shadows under the chin, a faint reflection of light off the white car interior.
+
+  CAMERA AND LOOK: Early 2000s point-and-shoot film photo, 35mm film, 28mm wide lens with slight barrel distortion at the edges, shot from chest height inside the car. Warm, faded, sun-bleached color grade, lifted blacks, low contrast, creamy highlights that gently blow out in the sky, slightly yellowed whites, soft halation around bright edges, fine visible film grain, a touch of softness and imperfect focus. Looks like a real candid snapshot from a summer road trip, not a studio shot.
+
+  REALISM: Real skin texture with visible pores and freckles, no retouching, no plastic skin, natural flyaway hairs, real fabric wrinkles on the tee, real dust and wear on the car interior.
+
+  Aspect ratio 4:3. No text, no watermark, no logos.

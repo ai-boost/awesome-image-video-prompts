@@ -1,0 +1,37 @@
+id: gpt-image-scrapbook-mini-me-figurines-annotations
+title:
+  en: Scrapbook photo with chibi mini me figurines
+  zh: 手帐风照片加入迷你自己手办与涂鸦注释
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- scrapbook
+- chibi-figurine
+- doodle-overlay
+- identity-preservation
+- pastel
+source:
+  name: '@sipteaandcoffee on X'
+  url: https://x.com/sipteaandcoffee/status/2050948629729542407
+  credit: kold Coffee
+  likes: 168
+  captured: '2026-10-28'
+  posted: '2026-05-03'
+notes:
+  en: 'The prompt locks the original subject, pose, lighting and background, then adds a defined list of layers: matching chibi figurines doing varied activities, handwritten doodles and captions, and a fixed pastel palette. The closing line that the result must be the same image enhanced, not recreated, keeps the identity stable.'
+  zh: 提示词先锁定原图的人物、姿势、光线和背景，再分层添加内容：与本人一致且动作各异的迷你手办、手写涂鸦与标注，以及固定的粉彩色板。结尾强调结果必须是同一张图的增强而非重绘，从而稳住人物一致性。
+prompt: |
+  Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background.
+
+  Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing).
+
+  Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene.
+
+  Use a soft pastel color palette (white base with pink, peach, blue accents).
+
+  Keep the frame visually rich and filled but balanced and clean.
+
+  Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful.
+
+  The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene.

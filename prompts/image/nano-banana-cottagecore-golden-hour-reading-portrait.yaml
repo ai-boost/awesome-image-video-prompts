@@ -1,0 +1,75 @@
+id: nano-banana-cottagecore-golden-hour-reading-portrait
+title:
+  en: Woman reading under a tree at golden hour
+  zh: 金色黄昏树下读书的田园风女子
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- cottagecore
+- golden-hour
+- fashion-editorial
+- identity-lock
+- portrait
+source:
+  name: '@TheVirtualMuse on X'
+  url: https://x.com/TheVirtualMuse/status/2110737749733195788
+  credit: Areeba
+  likes: 41
+  captured: '2026-10-28'
+  posted: '2026-10-15'
+notes:
+  en: An identity lock paragraph keeps the reference face, and separate blocks for scene, hair, outfit, lighting, color grade and lens give the model a clear checklist. Specifying an 85mm lens at f/1.8, diagonal upper left sunlight and a Portra 400 grade produces the bokeh and warm film look.
+  zh: 先用身份锁定段落保留参考图人脸，再把场景、发型、服装、光线、调色和镜头分块描述，模型执行更清晰。指定85mm f/1.8镜头、左上斜射阳光和Portra 400色调，得到柔和焦外与暖调胶片感。
+prompt: |
+  Using the uploaded reference image, create an exceptionally beautiful, ultra-photorealistic 4:5 vertical cottagecore fashion editorial photograph.
+
+  IDENTITY LOCK:
+  Preserve the exact facial identity of the woman from the reference image, including her natural facial structure, expressive eyes, delicate nose, lips, eyebrows, skin tone, and recognizable features. No face reshaping, artificial beautification, or identity changes. She must look like the same real woman photographed in a different setting.
+
+  SCENE & COMPOSITION:
+  A breathtakingly peaceful woodland meadow during the final hour before sunset. The woman sits gracefully on the soft forest floor, leaning naturally against the textured bark of a magnificent old tree. Her legs rest comfortably to one side, partially surrounded by delicate wildflowers and lush green grass.
+
+  She holds a small vintage sage-green hardcover book with both hands, quietly reading with her eyes lowered toward the pages. Her expression is soft, thoughtful, and effortlessly adorable, with naturally relaxed lips and a peaceful gaze.
+
+  HAIR & STYLING:
+  Her beautiful, naturally dark brown hair falls in long, soft, slightly tousled waves over her shoulders and down her back. A few delicate strands frame her face, catching the golden sunlight. Individual hair strands remain naturally visible.
+
+  OUTFIT:
+  A romantic vintage-inspired ivory cottagecore maxi dress featuring tiny dusty-pink floral prints, a delicate square neckline with subtle lace detailing, softly gathered puff sleeves, ruffled cuffs, and a thin blush-pink ribbon tied at the bodice. Premium lightweight cotton fabric with authentic folds, delicate stitching, and natural movement.
+
+  LIGHTING — CINEMATIC GOLDEN HOUR:
+  Absolutely breathtaking natural golden-hour lighting.
+
+  Warm late-afternoon sunlight enters diagonally from the upper left, filtering through the woodland canopy and creating beautiful golden highlights across her dark hair, cheekbones, shoulders, and dress.
+
+  Delicate amber rim lighting outlines her silhouette. Soft natural shadows sculpt her facial features while subtle reflected light maintains realistic skin tones.
+
+  Beautiful scattered sunlight creates glowing circles of bokeh in the background. Highlights remain controlled, with rich shadow detail and a natural cinematic contrast.
+
+  PREMIUM COLOR GRADING:
+  An exquisite luxury editorial film grade inspired by Kodak Portra 400.
+
+  Rich honey-gold sunlight, luminous champagne highlights, sophisticated olive-green foliage, muted sage undertones, creamy ivory fabrics, delicate dusty-pink floral accents, and naturally warm skin tones.
+
+  Deep forest greens provide elegant cinematic contrast against the glowing subject.
+
+  Soft highlight roll-off, slightly lifted shadow detail, gentle organic film grain, beautifully balanced saturation, natural color separation, and refined tonal depth.
+
+  The overall palette should feel warm, romantic, expensive, nostalgic, and visually irresistible.
+
+  PHOTOGRAPHY:
+  Captured like an authentic luxury fashion editorial on a full-frame professional camera with an 85mm portrait lens at f/1.8.
+
+  Perfectly natural human proportions, realistic perspective, precise focus on her face and eyelashes, detailed skin pores, subtle facial imperfections, authentic hair texture, and physically accurate hands.
+
+  Beautiful shallow depth of field with exceptionally smooth optical bokeh. Foreground wildflowers are softly blurred, creating a natural sense of depth.
+
+  The framing feels intimate yet cinematic, with her beautiful face, upper body, hands, book, and flowing dress clearly visible.
+
+  FINAL AESTHETIC:
+  A breathtaking fusion of timeless countryside romance, premium fashion photography, and intimate cinematic storytelling.
+
+  The photograph should feel like a genuine, professionally captured editorial image from a high-end fashion magazine.
+
+  Extremely beautiful yet believable, emotionally captivating, naturally elegant, and instantly eye-catching.

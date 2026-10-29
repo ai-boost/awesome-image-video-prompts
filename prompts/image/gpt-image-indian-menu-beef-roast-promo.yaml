@@ -1,0 +1,25 @@
+id: gpt-image-indian-menu-beef-roast-promo
+title:
+  en: Kerala beef roast restaurant promo poster
+  zh: 印度牛肉煲餐厅菜单宣传海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- food-poster
+- menu-redesign
+- restaurant
+- legible-text
+- mobile-friendly
+source:
+  name: '@Johnson998877 on X'
+  url: https://x.com/Johnson998877/status/2050354965110268123
+  credit: Johnson998877
+  captured: '2026-10-28'
+  posted: '2026-05-01'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Starts from a real menu photo and asks for an appetizing explanatory image, so the dish and its details stay grounded in the source. Requiring English text that stays readable on a small phone screen pushes the model toward large headline type, short taglines and badge style callouts.
+  zh: 以真实菜单照片为输入，要求生成引人入胜的说明图，菜品与信息都有据可依。指定英文文字要在手机小屏幕上易于识别，促使模型使用大标题、短标语和徽章式标注。
+prompt: |
+  这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast

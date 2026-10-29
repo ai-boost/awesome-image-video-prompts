@@ -1,0 +1,25 @@
+id: gpt-image-laptop-screen-facetime-night-phone-photo
+title:
+  en: Phone photo of a laptop FaceTime call at night
+  zh: 夜间手机拍摄的笔记本 FaceTime 通话屏幕
+model: GPT Image 2
+mode: text-to-image
+category: ui-mockup
+tags:
+- laptop-screen
+- facetime
+- macos
+- smartphone-photo
+- night
+source:
+  name: '@kaanakz on X'
+  url: https://x.com/kaanakz/status/2056290465503171000
+  credit: kaanakz
+  captured: '2026-10-28'
+  posted: '2026-05-18'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The prompt says raw phone photo, not a screenshot, then lists screen artifacts such as subpixel grid, moire, dust, fingerprints and uneven reflections. Fixed window layering and exact note text keep the interface believable.
+  zh: 提示词先声明是手机实拍而不是截图，再列出像素网格、摩尔纹、灰尘、指纹和不均匀反光等屏幕瑕疵。窗口层叠关系和便签文字写得很具体，界面因此显得可信。
+prompt: |
+  Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.

@@ -1,0 +1,25 @@
+id: gpt-image-1994-infomercial-crashed-saucer-frame
+title:
+  en: Retro 1994 infomercial frame selling a crashed saucer
+  zh: 1994年电视购物画面里兜售坠毁的飞碟
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- infomercial
+- retro-tv
+- scanlines
+- ufo
+- typography
+source:
+  name: '@ImagineArt_X on X'
+  url: https://x.com/ImagineArt_X/status/2097520474226147462
+  credit: ImagineArt_X
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: 'Naming the medium and era first (1994 infomercial, standard definition, scanlines) sets the whole look. A short list of concrete props then drives the layout: host, plinth, price starburst, phone number and legal small print.'
+  zh: 开头先点明媒介和年代（1994年电视购物、标清、扫描线），整体质感就定下来了。再用一串具体元素列出主持人、转台、价格爆炸贴、电话号码和法律小字，直接决定版面构成。
+prompt: |
+  a frame grab from a 1994 infomercial, standard definition video with scanlines. A host in a teal blazer, a battered saucer on a rotating plinth with Antarctic ice frozen around one leg, a price starburst, a phone number, and three lines of legal small print.

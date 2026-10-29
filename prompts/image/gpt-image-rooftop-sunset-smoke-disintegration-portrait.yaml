@@ -1,0 +1,29 @@
+id: gpt-image-rooftop-sunset-smoke-disintegration-portrait
+title:
+  en: Man on rooftop disintegrating into smoke at sunset
+  zh: 日落屋顶上身体化作烟尘消散的男子
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- disintegration
+- smoke-effect
+- rooftop
+- sunset
+- cinematic
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2101869465977897075
+  credit: Mr. Tariq
+  likes: 98
+  captured: '2026-10-28'
+  posted: '2026-09-21'
+notes:
+  en: The prompt fixes the outfit, side profile pose and setting first, then limits the disintegration to one side of the body, which keeps the figure readable. Naming the smoke, ash and golden sparks separately, with warm sunset light and a wet reflective floor, gives the transition a clear light source and depth.
+  zh: 提示词先定下服装、侧面姿势和场景，再把消散效果限定在身体一侧，人物依然清晰可辨。烟、灰烬、金色火星分别点名，再配上暖色日落光和湿润反光地面，让过渡有明确光源和层次。
+prompt: |
+  Create an ultra-realistic cinematic portrait of a young man standing on a rooftop at sunset, wearing a light grey t-shirt, beige cargo pants, white high-top sneakers, a wristwatch, and black sunglasses. The subject stands in a calm side profile pose with hands in pockets, looking downward thoughtfully.
+
+  Apply a dramatic disintegration effect where the left side of his body transforms into swirling dark smoke, floating ash, glowing golden sparks, and particle fragments, blending naturally into the environment. Use a cloudy sunset sky with warm orange light, a distant city skyline, and a wet reflective ground surface.
+
+  Make the smoke highly detailed, volumetric, and realistic, with cinematic lighting, soft depth of field, high contrast, and photorealistic textures. The final image should have an epic fantasy-action mood, ultra-detailed 8K quality, and a seamless smoke-to-human transition effect.

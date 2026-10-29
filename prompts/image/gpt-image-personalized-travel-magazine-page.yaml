@@ -1,0 +1,25 @@
+id: gpt-image-personalized-travel-magazine-page
+title:
+  en: Personalized vertical travel magazine page with attached person
+  zh: 把上传人物融入目的地的竖版旅行杂志页
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- travel-magazine
+- editorial-layout
+- personalized
+- template
+- vertical
+source:
+  name: '@minchoi on X'
+  url: https://x.com/minchoi/status/2097525572591136869
+  credit: minchoi
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: A bracketed destination slot makes the template reusable, and the attached person is blended into the destination photography. Listing the page parts (headline, tips, recommendations, captions) and ending with a check of every visible word keeps the text readable.
+  zh: 用方括号目的地占位符让模板可重复使用，并把上传的人物融入目的地照片。列出页面组成部分（标题、旅行贴士、推荐、图注），再要求检查每个可见文字，让整页文字清晰可读。
+prompt: |
+  Create a vertical 9:16 travel-magazine page about [DESTINATION]. Blend the attached person naturally into the destination photography. Include a clear headline, short travel tips, recommendations, and photo captions. Use the whole page with a readable editorial hierarchy. Check every visible word.

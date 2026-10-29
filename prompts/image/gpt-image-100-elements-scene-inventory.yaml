@@ -1,0 +1,25 @@
+id: gpt-image-100-elements-scene-inventory
+title:
+  en: Town scene with numbered 100 element list
+  zh: 附100项编号清单的小镇场景
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- inventory
+- dense-scene
+- text-list
+- counting
+- illustration
+source:
+  name: '@umesh_ai on X'
+  url: https://x.com/umesh_ai/status/2046569229189849228
+  credit: umesh_ai
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: A fixed element count plus a request to list every item makes the model plan the scene as an inventory. The result is a dense illustrated town under a numbered text list.
+  zh: 固定元素数量并要求逐项列出，让模型把画面当作清单来规划。结果是一幅密集的插画小镇，上方配有编号文字清单。
+prompt: |
+  Create a scene with 100 elements, and list the 100 elements within the image.

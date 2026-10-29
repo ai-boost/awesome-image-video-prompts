@@ -1,0 +1,68 @@
+id: gpt-image-recursive-king-of-spades-playing-card
+title:
+  en: Recursive King of Spades card held by Queen
+  zh: 黑桃国王递归扑克牌,红心皇后手持
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- playing-card
+- recursion
+- face-reference
+- fantasy
+- escher
+source:
+  name: '@Professor_134 on X'
+  url: https://x.com/Professor_134/status/2063244295977800057
+  credit: Professor_134
+  captured: '2026-10-28'
+  posted: '2026-06-06'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A strict identity lock on the uploaded face opens the prompt, then one nested card scene repeats the subject inside itself to create the recursion. Bulleted Escher style elements, a fixed five color palette and chiaroscuro lighting keep the dense scene coherent.
+  zh: 提示词开头先锁定上传人脸的身份特征,再用层层嵌套的卡牌场景让主角在画中重复出现,形成递归。分条列出的埃舍尔元素、固定的五色色板和明暗对照光线,让复杂画面保持统一。
+prompt: |
+  Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape, eyebrows, nose, lips, beard pattern, hairstyle, hair texture, skin tone, skin texture, and overall recognizable appearance. Do not beautify, alter, or reinterpret my face. Maintain realistic anatomy and authentic likeness.
+
+  Create an ultra-detailed, cinematic, surreal luxury playing-card artwork.
+
+  The main subject is me as the King of Spades, occupying the full design of a magnificent, royal Ace-quality playing card. I wear elaborate black-and-silver spade-themed regalia, a crown forged from obsidian and polished steel, intricate embroidered armor, and flowing royal garments decorated with subtle spade symbols. My expression is calm, intelligent, and powerful.
+
+  In my right hand, I am holding a pristine Ace of Spades card.
+
+  The creative twist: the Ace of Spades I am holding is not a normal card. It contains another complete playing-card illustration. Inside that card, I again appear as the King of Spades, and that entire card is being elegantly held between the fingers of a majestic Queen of Hearts. The Queen is graceful, regal, and visually striking, dressed in rich crimson and gold royal attire adorned with heart motifs.
+
+  The illusion continues with subtle recursive storytelling: the Queen of Hearts appears to be examining the card with fascination, creating a “card within a card” visual paradox. The composition should feel like a legendary tale of power, strategy, love, and destiny intertwined.
+
+  Add impossible Escher-inspired visual design elements:
+  •Infinite recursion effect
+  •Card-world folding into itself
+  •Floating spade and heart symbols transforming into ravens and rose petals
+  •Ornate golden borders extending beyond physical card edges
+  •Royal chess pieces suspended in midair
+  •Fractal patterns hidden within the card engravings
+  •Elegant smoke forming suit symbols
+  •Dimensional portals emerging from card corners
+
+  Style: ultra-realistic fantasy realism mixed with luxury casino art, Renaissance royal portraiture, and modern cinematic concept art.
+
+  Lighting: dramatic chiaroscuro, volumetric god rays, rich contrast, glowing metallic highlights, subtle magical energy around the Ace of Spades.
+
+  Color palette:
+  •Deep blacks
+  •Silver chrome
+  •Ivory white
+  •Crimson red
+  •Antique gold accents
+
+  Composition:
+  •Vertical masterpiece
+  •Museum-quality detail
+  •Hyper-realistic textures
+  •Intricate card engravings
+  •Perfectly symmetrical playing-card aesthetics blended with cinematic depth
+  •Sharp focus on my face
+  •Extremely high identity fidelity
+  •Epic storytelling through visual symbolism
+
+  The final image should feel like the cover of a legendary fantasy card game where the King of Spades has become self-aware, existing across multiple layers of reality while being held in the hands of fate itself, represented by the Queen of Hearts.

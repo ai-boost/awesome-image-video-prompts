@@ -1,0 +1,69 @@
+id: gpt-image-bento-fraud-telemetry-website-section
+title:
+  en: Light bento website section with fraud telemetry widgets
+  zh: 浅色便当网格网页区块，内嵌欺诈遥测小组件
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- website-section
+- bento-grid
+- dashboard
+- design-system
+- light-mode
+source:
+  name: Devault on GitHub
+  url: https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5/blob/main/docs/bento-grids-1.md
+  credit: Devault
+  captured: '2026-10-28'
+  posted: '2026-10-19'
+notes:
+  en: The prompt fixes the layout quadrant by quadrant, gives every hex colour a named role, and sets type sizes and radii. It also requires real readable data such as a 92/100 risk score in every tile, so the micro dashboards look like working software.
+  zh: 提示词逐个象限规定版面，为每个色值指定用途，并限定字号与圆角。它还要求每个卡片都放入可读的真实数据，例如 92/100 风险分，让小型仪表盘看起来像真实软件。
+prompt: |
+  Design a light-mode website section: crisp bento telemetry mapping machine cognition to live product operations with surgical blue precision.
+
+  LAYOUT
+  The grid follows an asymmetric bento rhythm anchored by a dominant 2-column top half. The upper-left quadrant hosts the display copy alongside a wide spotlight card featuring real-time fraud telemetry and pipeline nodes. The upper-right quadrant stacks an event-driven AI code block over two split metric cards, while the bottom section locks four equal-width capability columns together.
+
+  PALETTE (use these exact hex values)
+  - #F8FAFC — Canvas Background: Global backdrop providing subtle contrast beneath pure white card surfaces.
+  - #FFFFFF — Card Surface: Modular bento container fill across all feature blocks and nested dashboard components.
+  - #181F2C — Terminal Canvas: High-contrast background reserved exclusively for the developer code and payload preview.
+  - #E2E8F0 — Card Border: Hairline 1px perimeter on all cards, mini-mockups, and divider lines.
+  - #2563EB — Brand Blue: Hero headline emphasis, primary CTA buttons, active checklist checks, and focus elements.
+  - #EFF6FF — Soft Blue Tint: Background fill for uppercase category pills and active state callouts.
+  - #0F172A — Heading Slate: Primary headings, bento card titles, and prominent numeric metric labels.
+  - #64748B — Muted Slate: Supporting descriptive copy, subtitle labels, and inactive meta tags.
+  - #EF4444 — Risk Alert Coral: High-risk indicators, alert sparklines, and status badges.
+  - #0D9488 — Telemetry Teal: Observability metric sparklines and system health indicators.
+
+  TYPOGRAPHY
+  Typeface Inter (or Geist, SF Pro Text, Plus Jakarta Sans), weights 400/500/600/700. Sizes 11px caption, 13px body-sm, 14px body, 16px body-lg, 18px subheading, 24px heading, 42px display. Tracking -0.025em at headlines, 0.05em at caps badges. The voice is confident, technical, and frictionless, driven by Inter's dense neutral grotesque letterforms. High headline contrast is achieved by tinting the terminal half of the display phrase in electric #2563EB. The pairing with a monospace font reinforces developer-grade credibility and operational speed.
+
+  GEOMETRY & SPACING
+  Corner radii — cards 16px, links 4px, inputs 8px, buttons 8px. Spacing on a 4px unit, 20px gaps, 80px between sections, 1360px container, comfortable density.
+
+  DEPTH
+  Depth is handled strictly through surface layering rather than intense shadows. The #F8FAFC ground supports level-1 #FFFFFF cards bounded by 1px #E2E8F0 borders and an ambient shadow of `0 1px 3px rgba(15, 23, 42, 0.04)`. Nested preview cards (like the live fraud dial) sit inside recessed ground wells with matched hairline borders.
+
+  IMAGERY
+  There is zero photographic imagery or abstract 3D artwork. Imagery is replaced entirely by functional, scaled-down user interfaces: live risk scores, JSON event payloads, decision matrices, node-to-node connectors, and SVG sparkline charts. Everything simulates an actual operating software state.
+
+  SIGNATURE DETAIL — the thing that makes this design itself
+  The design's signature element is the embedded 'live telemetry micro-widget' inside every bento tile—specifically showing realistic data states like '92/100 High risk' paired with real SVG sparklines and node diagrams. Misusing this pattern occurs when designers treat the mockups as vague placeholder shapes instead of accurately scaled, readable software workflows.
+
+  MUST
+  - Wrap complex capabilities into tangible, high-fidelity micro-UIs rather than relying on abstract marketing illustrations.
+  - Use solid #2563EB selectively to draw the eye to core messages, primary buttons, and critical flow paths.
+  - Enforce a 1px #E2E8F0 border on all white surface cards to cleanly separate them from the #F8FAFC canvas.
+  - Keep icon containers at 36x36px with 8px radii using very pale tints of their respective accent colors.
+
+  AVOID
+  - Do not introduce 3D renderings, isometric illustrations, or generic stock photography.
+  - Do not use heavy drop shadows; cards should rely on thin borders and near-invisible ambient blur.
+  - Do not scatter brand blue across every icon; reserve it for primary hierarchy and use domain tints elsewhere.
+  - Do not let micro-dashboards exceed 13px font size; they must look like realistic shrunk telemetry.
+
+  OUTPUT
+  Render as a clean, pixel-crisp UI design at roughly 1792:1024. Flat vector rendering, real legible text, no browser chrome, no device mockup frame, no watermark, no lorem ipsum placeholder blocks.

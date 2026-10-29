@@ -1,0 +1,30 @@
+id: gpt-image-cafe-golden-hour-over-shoulder-portrait
+title:
+  en: Golden hour cafe portrait through foreground bokeh
+  zh: 透过前景虚化人物的金色光咖啡馆人像
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- candid-portrait
+- golden-hour
+- film-look
+- bokeh
+- cafe
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2105280094994587829
+  credit: Meem
+  likes: 78
+  captured: '2026-10-28'
+  posted: '2026-09-30'
+notes:
+  en: Over-the-shoulder framing with two blurred foreground figures creates a candid peek through a gap, while the 85mm f/1.4 lens and shallow depth of field keep focus on her eyes. Backlit golden hour light plus named film stocks (Portra 400, Gold 200), grain and halation give the warm analog look.
+  zh: 两个虚化的前景人物形成过肩取景，像从缝隙中偷拍，85mm f/1.4 浅景深把焦点锁在眼睛上。逆光金色阳光加上点名的胶片型号（Portra 400、Gold 200）、颗粒和光晕，营造出温暖的胶片质感。
+prompt: |
+  Candid cinematic portrait of a woman with a warm, playful, knowing smile, seated at a café table and looking directly at the camera through a gap between two out-of-focus people in the foreground. She has voluminous, tousled, shoulder-length curly hair in honey-brown and caramel tones with sun-lightened highlights, messy shaggy curtain bangs falling across her forehead and eyes, strands catching the light like a glowing halo. Her skin is sun-kissed and warm, with natural texture, minimal makeup, a soft muted-rose lip, and a slight smirk that reads as relaxed and flirtatious. She wears a black oversized knit cardigan or soft black jacket, layered with delicate thin gold necklaces of different lengths.
+  On the wooden table in front of her sits a white-lidded brown paper takeaway coffee cup, and beside it a small glass of amber tea. In the extreme foreground, blurred shoulders and heads frame the shot: on the left, a person in a striped beanie and white t-shirt, on the right, a person in a dark brown top with dark curly hair, both heavily out of focus.
+  Setting: a sunlit café interior beside a large window, with a blurred street scene, a soft peach and white building, and a pale sky visible outside.
+  Lighting: Strong golden-hour sunlight pouring in from the side and behind, creating a glowing rim light through her hair, warm orange highlights across her face, and deep chocolate-brown shadows. Sun-drenched, hazy, slightly overexposed highlights with a soft bloom.
+  Style / Mood: Warm, nostalgic, effortless, and intimate. Candid lifestyle photography with a "captured in the moment" feel. Analog film aesthetic, Kodak Portra 400 / Kodak Gold 200 look, visible film grain, lifted warm blacks, rich amber, honey, and brown color palette, gentle halation and lens glow.
+  Camera details: 85mm f/1.4 lens, very shallow depth of field, sharp focus on her eyes and face, layered foreground bokeh (over-the-shoulder framing), vertical 4:5 composition, eye-level shot, slight vignette.

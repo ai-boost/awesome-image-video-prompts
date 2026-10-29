@@ -1,0 +1,25 @@
+id: gpt-image-pro-instagram-pasta-photo-enhance
+title:
+  en: Phone pasta photo enhanced to Instagram quality
+  zh: 手机拍摄的意面照片优化成 Instagram 水准
+model: GPT Image 2
+mode: image-edit
+category: edit
+tags:
+- photo-enhance
+- food
+- instagram
+- iphone-photo
+- retouch
+source:
+  name: '@dezainaz_ceo on X'
+  url: https://x.com/dezainaz_ceo/status/2047172512551977162
+  credit: dezainaz_ceo
+  captured: '2026-10-28'
+  posted: '2026-04-23'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: One sentence gives the model a dual role, professional photographer plus designer, so it handles both color and light grading and the layout polish. It works on an uploaded casual phone photo and leaves the style choices to the model.
+  zh: 一句话同时设定摄影师和设计师两个角色，让模型一并处理光线调色和版面润色。适用于随手拍的手机照片，具体风格交给模型自行决定。
+prompt: |
+  Enhance this iPhone photo with ChatGPT so it looks like a professional photographer and designer worked on it.

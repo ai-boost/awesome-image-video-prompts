@@ -1,0 +1,31 @@
+id: gpt-image-luxury-fragrance-candle-storyboard-grid
+title:
+  en: Luxury fragrance candle storyboard in twelve frames
+  zh: 十二格奢华香氛蜡烛广告分镜板
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- storyboard
+- fragrance
+- luxury
+- editorial
+- candle
+source:
+  name: '@insmind_com on X'
+  url: https://x.com/insmind_com/status/2049481439285223785
+  credit: insMind
+  likes: 410
+  captured: '2026-10-28'
+  posted: '2026-04-29'
+notes:
+  en: The prompt fixes a 3x4 grid with a cinematic image above and storyboard notes below each frame, then names a narrative arc from intro to brand closure. A style reference, a two colour palette and one recurring emotional object keep all twelve frames consistent for animating later.
+  zh: 提示词固定三乘四网格，每格上方是电影感画面，下方是分镜说明，并写明从开场到品牌收尾的叙事结构。风格参照、双色调色板和贯穿始终的蜡烛主体让十二个画面保持一致，方便后续做成视频。
+prompt: |
+  Step 1:  Generate storyboard with GPT Image 2.
+  “Create a high-end 9:16 luxury fragrance pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Aesop/Byredo style, beige + lavender palette. Structured flow: intro → ritual → transformation → resolution → brand closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Luxury minimal European aesthetic, calm femininity, slow living mood. Candle is the emotional center throughout.”
+
+  Step 2: Take each frame into Seedance 2.0. Set to 1080p to preserve text clarity.
+  “Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow push-in, gentle pan, subtle orbit, and rack focus. Lighting transitions from soft morning glow to warm golden ambient light. Fragrance brand editorial aesthetic, minimal luxury, soft film grain. No new shots, no reordering, candle remains emotional focus in all scenes.”
+
+  Step 3: Hard-cut into final ad. Add soft ambient music and subtle cinematic SFX.

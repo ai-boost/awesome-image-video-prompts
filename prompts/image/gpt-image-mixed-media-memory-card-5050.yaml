@@ -1,0 +1,31 @@
+id: gpt-image-mixed-media-memory-card-5050
+title:
+  en: Photo and crayon sketch memory card split
+  zh: 上半照片下半蜡笔速写的回忆卡
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- memory-card
+- mixed-media
+- wax-crayon
+- risograph
+- morandi
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2093212900160868430
+  credit: Sairah_0
+  captured: '2026-10-28'
+  posted: '2026-08-28'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A strict 50/50 split keeps the original photo intact on top and redraws the subjects below as loose wax crayon lines. A muted color patch sampled from the photo, handmade paper texture and Risograph grain give the Morandi feel.
+  zh: 严格五五分栏，上半保留原照片，下半把主体重绘成松散的蜡笔线条。从照片取色的低饱和色块、手工纸纹理和孔版颗粒营造出莫兰迪质感。
+prompt: |
+  Transform the uploaded photo into a vertical mixed-media memory card with a strict 50/50 split.
+
+  Keep the original photo unchanged in the top half. In the bottom half, use textured off-white handmade paper and add a muted, irregular color patch matching the photo’s tones.
+
+  Redraw the main subjects as a simple dark wax-crayon sketch with loose, imperfect lines and minimal details. Add a short handwritten English phrase and subtle Risograph grain.
+
+  Create a quiet, nostalgic Morandi-style aesthetic with generous negative space. Do not add extra elements or copy the reference composition exactly.

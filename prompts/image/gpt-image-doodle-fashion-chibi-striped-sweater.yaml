@@ -1,0 +1,50 @@
+id: gpt-image-doodle-fashion-chibi-striped-sweater
+title:
+  en: Hand drawn doodle chibi in striped sweater
+  zh: 条纹毛衣手绘涂鸦Q版人物
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- doodle
+- chibi
+- fashion-sketch
+- hand-drawn
+- character
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2092473965927334071
+  credit: Sairah_0
+  captured: '2026-10-28'
+  posted: '2026-08-26'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'Starts from a reference image and keeps its identity cues, then specifies the character proportions as a list: oversized head, dot eyes, rosy blush. Separate art style bullets for loose ink lines, light crayon colour and negative space keep the result looking handmade rather than vector.'
+  zh: 以参考图为基础保留人物特征，再用清单限定比例：大头、点状眼睛、腮红。另用风格条目约束松散墨线、淡蜡笔上色和大量留白，使成品像手绘而不是矢量图。
+prompt: |
+  Transform the subject from the reference image into a cute, quirky hand-drawn doodle illustration.
+
+  Use a minimalist children’s storybook / fashion sketch aesthetic with loose, imperfect black ink lines, visible scribbly pencil strokes, subtle cross-hatching, and a charming handmade feel. Keep the character’s recognizable facial features, hairstyle, face shape, clothing, accessories, and overall identity from the reference while simplifying them into a cute illustrated character.
+
+  Character design:
+  - Oversized head and small simplified body
+  - Simple dot-like eyes and tiny minimal mouth
+  - Soft rounded facial features
+  - Slight rosy pink blush on the cheeks
+  - Messy, expressive hand-drawn hair with many loose sketch lines
+  - Slightly exaggerated, playful proportions
+  - Natural, relaxed pose with a whimsical fashion-illustration feel
+
+  Art style:
+  - Black-and-white pencil/ink doodle drawing
+  - Rough, imperfect sketch lines rather than clean digital outlines
+  - Dense scribbled hair and clothing details
+  - Light hand-colored accents
+  - Subtle watercolor/crayon-like coloring
+  - Minimal shading
+  - White or off-white clean background
+  - Lots of negative space
+  - Cute, innocent, playful, cozy aesthetic
+  - Looks like an original handmade notebook/fashion doodle illustration
+
+  Preserve the important details of the reference image while converting everything into this consistent doodle-art style. The final image should feel hand-sketched, slightly imperfect, adorable, expressive, and effortlessly stylish, not like polished vector art or 3D cartoon art.

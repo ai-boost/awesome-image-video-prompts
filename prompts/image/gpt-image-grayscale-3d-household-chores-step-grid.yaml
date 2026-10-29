@@ -1,0 +1,73 @@
+id: gpt-image-grayscale-3d-household-chores-step-grid
+title:
+  en: Grayscale 3D household chores instruction grid
+  zh: 灰度3D家务步骤说明图网格
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- instructional-grid
+- grayscale
+- 3d-render
+- motion-arrows
+- reference-image
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2048803726312571335
+  credit: Johnn
+  likes: 1187
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+notes:
+  en: Labeled blocks fix style, grid, character, wardrobe and scene, then a per panel template sets step title, pose, instruction lines and motion arrows. A reference image locks the face across all 16 panels, and a restrictions block keeps the sheet clean enough to use as an animation reference.
+  zh: 用带标签的分块依次固定风格、网格、角色、服装和场景,再用统一的单格模板规定步骤标题、姿势、说明文字和动作箭头。参考图锁定16格中的同一张脸,末尾的限制块让画面保持干净,可直接作为动画参考。
+prompt: |
+  [VISUAL STYLE]
+  Monochrome grayscale composition featuring a highly detailed 3D-rendered female character. Designed like a professional instructional guide with a technical, diagram-inspired layout. Clean white background, soft studio lighting, and strong contrast to highlight posture, actions, and object interaction.
+  [GRID LAYOUT]
+  Structured 4×4 panel grid (16 frames total), evenly spaced with thin black divider lines. Each panel is identical in size and clearly numbered from 1 to 16, showing a continuous sequence of household activities.
+  [CHARACTER]
+  Use the provided reference image for the face and overall likeness.
+  Same facial features, skin tone, and proportions
+  Natural makeup, soft expression
+  Consistent identity across all 16 panels
+  Realistic proportions and clean hairstyle (loose or tied back)
+  [WARDROBE]
+  Modern, modest casual outfit:
+  Fitted crop top (not revealing, clean neckline, practical for movement)
+  High-waisted straight or slightly wide-leg jeans (full length, neat fit)
+  Optional minimal sneakers or barefoot indoor styling
+  Fabric should react naturally to movement (subtle folds and tension)
+  [SCENE APPROACH]
+  Minimal, clean environment per panel — only essential props related to the chore.
+  No clutter, no complex backgrounds — focus stays on the subject and action.
+  [PANEL STRUCTURE – EACH FRAME]
+  Top-left: Step number + task title (e.g., “Step 4 – Vacuum Floor”)
+  Center: Full-body pose performing the chore
+  Bottom-left: 3–4 concise instruction lines
+  Overlay: Motion arrows and directional guides showing action flow
+  [CHORE SEQUENCE EXAMPLES]
+  Make the Bed
+  Tidy Up Room
+  Dust Surfaces
+  Vacuum Floor
+  Sweep Floor
+  Mop Floor
+  Do Laundry
+  Hang Clothes
+  Fold Clothes
+  Clean Kitchen Counter
+  Wash Dishes
+  Take Out Trash
+  Water Plants
+  Clean Bathroom
+  Organize Shelves
+  Final Room Reset
+  [MOTION INDICATORS]
+  Curved arrows → fluid actions (wiping, folding)
+  Straight arrows → directional movement
+  Circular arrows → repetitive motions (scrubbing, mopping)
+  [RENDER QUALITY]
+  High-detail sculpted 3D style with smooth grayscale shading, soft shadows, and clean linework. Polished, concept-art level finish with clarity in every pose and object interaction.
+  [RESTRICTIONS]
+  No color, no unnecessary background detail, no extra characters, no revealing clothing, no clutter — only the subject, props, and instructional elements.

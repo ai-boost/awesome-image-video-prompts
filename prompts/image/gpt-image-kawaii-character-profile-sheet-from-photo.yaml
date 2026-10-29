@@ -1,0 +1,33 @@
+id: gpt-image-kawaii-character-profile-sheet-from-photo
+title:
+  en: Kawaii character profile sheet from a portrait photo
+  zh: 由人像照片生成的可爱角色设定卡
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- character-sheet
+- kawaii
+- expressions
+- color-palette
+- profile-poster
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2048251738604613725
+  credit: Zara
+  likes: 569
+  captured: '2026-10-28'
+  posted: '2026-04-26'
+notes:
+  en: 'The prompt lists every panel the poster needs: a large portrait, four named expressions, action poses, object icons, a color palette and a profile block. The style line sets a cozy Japanese kawaii look, and the uploaded photo keeps the character consistent across all panels.'
+  zh: 提示词逐项列出海报需要的版块：大头像、四种命名表情、动作姿势、小物件图标、色板和档案栏。风格一句话定下温暖的日系可爱调性，上传的照片则让各个版块里的角色保持一致。
+prompt: |
+  Create an adorable character design sheet based on the uploaded image.
+  Style: Warm, soft, and semi-realistic cartoon illustration with a cozy Japanese/kawaii style.
+  Design: Character profile poster including:
+  Large main portrait
+  Various facial expressions (happy, annoyed, sleepy, surprised)
+  Action poses (running, playing) (based on personality)
+  Small object icons
+  Color palette section
+  Profile section with name and personality.

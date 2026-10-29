@@ -4,7 +4,7 @@ title:
   zh: 把信息图翻译成西班牙语，版式不动
 model: GPT Image 2.5
 mode: image-edit
-category: infographic
+category: edit
 tags:
 - translation
 - edit

@@ -1,0 +1,25 @@
+id: gpt-image-japanese-ink-graffiti-half-body-portrait
+title:
+  en: Japanese ink graffiti half body portrait with symbols
+  zh: 日系水墨涂鸦半身人像与象征元素
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- japanese-style
+- ink-splatter
+- hand-drawn
+- half-body
+- pastel
+source:
+  name: '@heyfatema on X'
+  url: https://x.com/heyfatema/status/2053703602246668607
+  credit: heyfatema
+  captured: '2026-10-28'
+  posted: '2026-05-11'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: 'Stacks style cues in one list: Japanese illustration, ink splatter, pastel and ink blend, comic sketch texture, all on a white background. Asking for surrounding symbolic elements makes the model fill the empty space with motifs such as a skyline, sakura, a notebook and a coffee cup, and the prompt works as a personal portrait template.'
+  zh: 提示词把日系插画、泼墨、粉彩与墨线混合、漫画速写质感等风格词并列写出，并统一放在白底上。再加上周围象征元素的要求，模型会用天际线、樱花、笔记本和咖啡杯等图案填满留白，可当作个人肖像模板使用。
+prompt: |
+  Generate an illustration of "me" as you imagine it. Features include a Japanese illustration style, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.

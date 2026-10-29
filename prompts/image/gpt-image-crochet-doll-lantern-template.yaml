@@ -1,0 +1,25 @@
+id: gpt-image-crochet-doll-lantern-template
+title:
+  en: Crochet doll with glowing lantern in cozy nook
+  zh: 钩织玩偶提着发光提灯的温馨角落
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- crochet
+- amigurumi
+- handmade
+- template
+- cozy
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2067925399947067728
+  credit: azed_ai
+  captured: '2026-10-28'
+  posted: '2026-06-19'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A fill in template with slots for subject, two garment colors, prop and setting, so one structure yields many dolls. Naming yarn texture, knit detail and amigurumi style anchors the material, while a warm muted atmosphere keeps the light soft.
+  zh: 模板为主体、两种服装颜色、道具和场景留出填空位，一套结构可以生成多种玩偶。点明毛线质感、针织细节和阿米古鲁米风格来锁定材质，再用温暖柔和的氛围控制光线。
+prompt: |
+  A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.

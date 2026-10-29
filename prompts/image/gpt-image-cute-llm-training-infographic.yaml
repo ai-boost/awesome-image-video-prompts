@@ -1,0 +1,29 @@
+id: gpt-image-cute-llm-training-infographic
+title:
+  en: Cute infographic of the LLM training pipeline
+  zh: 萌系大模型训练流程图解
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- cute
+- mascot
+- education
+- chinese-text
+source:
+  name: '@op7418 on X'
+  url: https://x.com/op7418/status/2046502136973001143
+  credit: op7418
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A one line topic request leaves layout to the model, which produces a numbered eight step grid with arrows, a mascot per step and a summary strip. Asking for a cute explanation sets the pastel palette, rounded type and character style without any extra styling text.
+  zh: 只用一句话给出主题，由模型自行排出八步编号网格、箭头、每步一个吉祥物和底部总结条。加上可爱的要求就足以定下粉彩配色、圆润字体和角色风格，不需要额外的风格描述。
+prompt: |
+  [中文]
+  可爱地解释一下大语言模型训练过程
+
+  [English]
+  Cute explanation of the large language model training process

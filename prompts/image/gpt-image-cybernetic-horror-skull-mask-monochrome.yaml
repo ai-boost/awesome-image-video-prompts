@@ -1,0 +1,25 @@
+id: gpt-image-cybernetic-horror-skull-mask-monochrome
+title:
+  en: Monochrome cybernetic horror portrait with cabled skull mask
+  zh: 缠绕线缆的骷髅面具单色赛博恐怖肖像
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- cybernetic
+- horror
+- monochrome
+- portrait
+- low-key
+source:
+  name: '@meng_dagg695 on X'
+  url: https://x.com/meng_dagg695/status/2097558679956664521
+  credit: meng_dagg695
+  captured: '2026-10-28'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: The prompt lists concrete asymmetric details, one void socket and one metallic ring, plus cables and bobbin attachments, so the mask reads as specific. Low key lighting, a black background, an 85mm lens and shallow depth keep the monochrome frame dramatic.
+  zh: 提示词列出不对称的具体细节，一边是空洞眼窝，一边是金属环，再加上线缆和线圈部件，让面具形象明确。低调光、黑色背景、85mm 镜头和浅景深让单色画面更有戏剧感。
+prompt: |
+  Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.

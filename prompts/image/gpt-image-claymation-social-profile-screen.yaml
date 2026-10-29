@@ -1,0 +1,25 @@
+id: gpt-image-claymation-social-profile-screen
+title:
+  en: Claymation social profile screen with pastel clay decorations
+  zh: 粘土定格动画风格的社交主页界面
+model: GPT Image 2
+mode: image-edit
+category: ui-mockup
+tags:
+- claymation
+- stop-motion
+- pastel
+- style-transfer
+- social-profile
+source:
+  name: '@miratechtool on X'
+  url: https://x.com/miratechtool/status/2052033236964950111
+  credit: Mira
+  likes: 255
+  captured: '2026-10-28'
+  posted: '2026-05-02'
+notes:
+  en: 'The prompt names one material, soft modeling clay, then lists concrete tactile cues: handmade textures, rounded shapes and fingerprints. It adds a stop motion lighting reference and a warm pastel palette, so an existing screenshot is rebuilt with every button, avatar and icon as clay.'
+  zh: 提示词先锁定软质黏土这一种材质，再列出手工纹理、圆润造型和指纹等具体触感线索，并配上定格动画式灯光和暖色粉彩。这样现有截图里的按钮、头像和图标都被重做成黏土质感。
+prompt: |
+  Recreate the scene as a cozy claymation-style world made from soft modeling clay. Every object should have handmade textures, rounded shapes, fingerprints, and soft lighting like a stop-motion movie. Use warm pastel colors and a cute cinematic atmosphere.

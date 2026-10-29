@@ -1,0 +1,25 @@
+id: gpt-image-vintage-indonesian-catnip-poster
+title:
+  en: Vintage Indonesian catnip poster with flying tuxedo cat
+  zh: 复古印尼猫薄荷广告海报,穿裙子的燕尾服猫飞在空中
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- vintage-poster
+- retro-typography
+- indonesian
+- cat
+- distressed-print
+source:
+  name: '@NyaiiBubu on X'
+  url: https://x.com/NyaiiBubu/status/2053075349424992532
+  credit: NyaiiBubu
+  captured: '2026-10-28'
+  posted: '2026-05-09'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Stacks era cues (1970s paper texture, distressed print, faded colors, grain, scratches) with a funny central subject and a quoted headline to keep the typography exact. Listing ad furniture such as a fake product jar, badges and a price tag makes the layout read as a real period advertisement.
+  zh: 先叠加年代质感关键词(70年代纸张、做旧印刷、褪色、颗粒、划痕),再配上有趣的主体和带引号的标题文字来锁定字形。列出假产品罐、徽章、价签等广告元素,让版面更像真实的老广告。
+prompt: |
+  Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.

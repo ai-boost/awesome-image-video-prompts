@@ -1,0 +1,25 @@
+id: gpt-image-beard-style-analysis-grooming-poster
+title:
+  en: Beard style analysis grooming poster on dark blue
+  zh: 深蓝底胡须风格分析美容海报
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- grooming
+- beard
+- infographic
+- dark-blue
+- face-consistency
+source:
+  name: '@RizwanAly07 on X'
+  url: https://x.com/RizwanAly07/status/2048610196302250019
+  credit: RizwanAly07
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Names every data panel to render (face shape, density, jawline, growth, score) and lists six beard styles to compare, so the layout fills in as a structured report. Asking for front and side views with face consistency keeps the reference man identical across all panels.
+  zh: 提示词逐项列出要生成的数据面板（脸型、密度、下颌线、生长、评分）和六种胡型对比，版面自然形成结构化报告。同时要求正面与侧面视图并强调面部一致，让参考图中的人在各面板里保持同一张脸。
+prompt: |
+  Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.

@@ -1,0 +1,39 @@
+id: gpt-image-watercolor-botanical-monochrome-portrait
+title:
+  en: Monochrome portrait dissolving into blue watercolor botanicals
+  zh: 水彩植物花纹中渐隐的黑白人像
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- monochrome
+- botanical
+- selfie-to-art
+- scrapbook
+source:
+  name: '@Kubra_286 on X'
+  url: https://x.com/Kubra_286/status/2105268519105617962
+  credit: Kubra Ai
+  likes: 67
+  captured: '2026-10-28'
+  posted: '2026-09-30'
+notes:
+  en: Keeps the face grayscale and realistic while the edges dissolve into paper, with the palette limited to gray washes and royal blue accents. Explicit placement of ink botanicals and a small doodle heart, plus a negative list, protects facial identity.
+  zh: 脸部保持灰度写实，边缘融入纸张，色彩只限灰色晕染与宝蓝点缀。明确指定墨线植物与涂鸦爱心的位置，再用负面清单守住五官还原。
+prompt: |
+  Create a premium mixed-media watercolor and digital art portrait of the same young South Asian woman from the uploaded reference image.
+
+  Create a large close-up grayscale black-and-white portrait of her face and upper shoulders. Preserve her exact facial identity and facial structure from the reference image, including her eyes, eyebrows, nose, lips, jawline, skin texture, and natural expression.
+
+  She has long, natural wavy dark hair parted in the middle, softly framing her face. Add a tiny bindi on her forehead. Give her a warm, natural smile with realistic facial details and expressive eyes.
+
+  The portrait should softly fade and dissolve into a textured light cream paper background using artistic watercolor bleeding, soft gray washes, deep blue accents, black ink splatters, and organic paint textures.
+
+  Surround parts of the portrait with delicate hand-drawn botanical ink sketches of leaves, thin branches, and floral patterns. Add expressive watercolor splashes and scattered paint droplets around the edges. Include a subtle hand-drawn white doodle heart near the lower-right side.
+
+  Style: sophisticated handmade scrapbook collage, mixed-media watercolor illustration, monochrome portrait with subtle royal-blue watercolor accents, textured matte paper, organic brushwork, elegant artistic composition, high-detail realistic face.
+
+  No full body, no additional people, no distorted facial features, no warped eyes, no deformed anatomy, no text, no logos, no UI elements.
+
+  Aspect Ratio: 4:5

@@ -1,0 +1,53 @@
+id: gpt-image-storybook-photo-to-handdrawn-portrait
+title:
+  en: Photo to hand-drawn storybook portrait
+  zh: 照片转手绘儿童绘本头像
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- storybook
+- hand-drawn
+- avatar
+- gouache
+- photo-to-illustration
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2090321208441262454
+  credit: Sairah_0
+  captured: '2026-10-28'
+  posted: '2026-08-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A preserve list (face, hair, clothing, accessories) is paired with a banned list, so identity carries over while the style is rebuilt. Named media (gouache, wax crayon, pastel), irregular brown linework and a fixed warm background keep the picture-book look consistent.
+  zh: 先列出必须保留的面部、发型、服装和配饰，再列出禁止照搬的内容，让身份特征保留而画风被重塑。指定水粉、蜡笔、粉彩等媒介和不规则棕色线条，并固定暖色背景，绘本质感更稳定。
+prompt: |
+  Use the single uploaded photo as the only visual reference. Transform the person into an adorable hand-drawn 2D children’s storybook character, while keeping their identity immediately recognizable.
+
+  Preserve exactly from the photo:
+  - Facial features and skin tone
+  - Real hairstyle, length, texture, and color
+  - Exact clothing, colors, patterns, and layering
+  - Glasses, jewelry, headwear, bags, and all visible accessories
+
+  Do not invent or copy hairstyles, outfits, accessories, braids, pigtails, bows, bonnets, or headscarves from any reference artwork.
+
+  ### Character
+  Use an oversized rounded head, tiny compact body, short arms, narrow shoulders, soft rounded silhouette, and cute childlike proportions. Keep the head visually dominant. Avoid realistic anatomy.
+
+  ### Face
+  Simplify into tiny dot/oval eyes, minimal nose, tiny smiling mouth, rounded cheeks, and soft peach/pink blush. Keep recognizable facial characteristics. No realistic eyes, detailed lips, anime features, glossy 3D rendering, or heavy shading.
+
+  ### Hair & Clothing
+  Recreate the exact hairstyle and outfit from the uploaded photo, simplified into chunky hand-drawn shapes. Preserve important colors, patterns, jewelry, glasses, and other recognizable details.
+
+  ### Style
+  Handmade 2D picture-book aesthetic using soft gouache, wax crayon, colored pencil, and dry pastel. Use slightly irregular dark-brown linework, subtle paper grain, uneven pigment, soft brush marks, and imperfect painted edges. Avoid clean vector art, CGI, anime, or photorealism.
+
+  ### Composition
+  Square 1:1 portrait, chest/waist-up, centered and facing mostly forward, with balanced negative space. Use a relaxed, charming pose.
+
+  ### Background
+  Simple warm mustard, butter yellow, ochre, or cream background with subtle paper texture. No scenery, objects, text, borders, or distractions.
+
+  Final feeling: the same person lovingly redrawn as an extremely cute, warm, wholesome, nostalgic, handcrafted children’s-book character—same identity, same hair, same clothes, same accessories, completely simplified and adorable.

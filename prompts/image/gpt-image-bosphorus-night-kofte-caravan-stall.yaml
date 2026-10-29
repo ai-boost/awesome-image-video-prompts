@@ -1,0 +1,31 @@
+id: gpt-image-bosphorus-night-kofte-caravan-stall
+title:
+  en: Night Köfte Caravan Stall on the Bosphorus
+  zh: 博斯普鲁斯海岸夜间肉丸餐车摊
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- night-street
+- food-stall
+- istanbul
+- neon-sign
+- documentary
+source:
+  name: '@ozansihay on X'
+  url: https://x.com/ozansihay/status/2107544398531637407
+  credit: Ozan Sihay
+  likes: 216
+  captured: '2026-10-28'
+  posted: '2026-10-06'
+notes:
+  en: The prompt packs in concrete scene layers (DIY neon sign, charcoal glow, stools, damacana, ferry silhouette) and states the exact Turkish sign text twice, once on the sign and once on the waiter's shirt. Photographic cues like 35mm f/1.8, film grain and wet asphalt reflections, plus a closing no text errors instruction, keep the realism and the lettering clean.
+  zh: 提示词叠加了具体的场景层次（自制霓虹招牌、炭火光、塑料凳、大水桶、渡轮剪影），并把土耳其语招牌文字在招牌和服务员衣背上各写一次。35mm f/1.8、胶片颗粒、湿沥青反光等摄影参数，加上结尾的文字不出错要求，保证了写实感和字样准确。
+prompt: |
+  Aynı promptu sırasıyla şu modeller ile denedim;
+  -Nano Banana 2.1
+  -GPT Image 2.5
+  -Grok Imagine 2.0
+  -Ideogram 4.5
+
+  Prompt: Ultra-realistic night street photograph on the Istanbul Bosphorus waterfront. A tiny makeshift caravan food stall, slightly battered metal sides, steam rising. Hand-painted neon-style rickety sign reading “Köfteci Buğra Usta” in Turkish, glowing uneven cyan and warm amber, wires and brackets visibly DIY. Inside the open caravan, the usta grilling köfte over charcoal, orange ember glow on his face and apron. One waiter in a simple dark shirt stands in front of the stall; the same “Köfteci Buğra Usta” lettering is printed on the back of his shirt. Plastic stools and small low tables outside, a few locals eating, soft conversation. A plastic water jug (damacana) near the counter. Behind them, dark Bosphorus water with distant city lights and a faint ferry silhouette. Wet asphalt reflections, streetlamp spill, shallow depth of field, natural film grain, shot on 35mm f/1.8, candid documentary look, no CGI look, no text errors on signs.

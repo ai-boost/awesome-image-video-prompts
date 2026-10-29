@@ -1,0 +1,69 @@
+id: gpt-image-matcha-brand-touchpoint-board
+title:
+  en: Matcha cafe brand identity board with packaging
+  zh: 抹茶品牌视觉板与包装触点系统
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- brand-identity
+- matcha
+- packaging
+- mockup-board
+- minimalist
+source:
+  name: '@Preda2005 on X'
+  url: https://x.com/Preda2005/status/2049846981271699685
+  credit: Preda2005
+  captured: '2026-10-28'
+  posted: '2026-04-30'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A hero scene plus an itemized list of touchpoints (cups, boxes, tote, labels, menu with prices) makes the model build a whole identity system in one grid layout. Fixing the palette, the Japanese minimalist layout and small imperfections keeps the board consistent and realistic.
+  zh: 先写主视觉场景，再逐项列出杯子、包装盒、帆布袋、标签和带价格的菜单，让模型在一张网格版面里生成完整品牌系统。限定绿色色板、日式极简排版和细微瑕疵，使整板风格统一且真实。
+prompt: |
+  Create a premium “Matcha Brand Touchpoint System” visual board for a modern lifestyle brand called:
+
+  “MATCHA MODE”
+
+  Build a full brand identity system, not a single image.
+
+  HERO SCENE:
+
+  A hyper-realistic matcha drink in a ceramic cup placed on a clean natural surface.
+
+  – vibrant green matcha foam with micro-bubbles
+  – bamboo whisk (chasen) nearby
+  – soft natural light
+  – slight matcha powder dust on the surface
+  – minimal Japanese aesthetic
+  ATMOSPHERE:
+  – calm, warm, soft daylight
+  – clean background (off-white or beige)
+  – subtle shadows and reflections
+  – feeling of wellness and luxury
+  FULL BRAND SYSTEM:
+  – takeout cups (paper + glass bottles)
+  – packaging boxes (minimalist design)
+  – tote bags (premium lifestyle)
+  – labels, stickers, seals
+  – menu cards with pricing ($6.50, $8.90, etc.)
+  – small typography everywhere
+  – subtle imperfections (realism)
+
+  DESIGN LANGUAGE:
+
+  – modern minimalist typography
+  – Japanese-inspired layout
+  – soft green palette
+  – elegant spacing
+
+  INCLUDE:
+  – matcha latte
+  – iced matcha
+  – matcha desserts
+  – combo sets
+  – lifestyle shots
+  The composition must feel like a high-end design agency presentation.
+
+  Ultra-detailed, realistic, clean, aesthetic, and highly shareable.

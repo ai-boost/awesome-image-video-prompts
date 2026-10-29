@@ -1,0 +1,70 @@
+id: gpt-image-oil-painted-european-cafe-woman-coral-blouse
+title:
+  en: Oil painted woman at European café table
+  zh: 欧洲咖啡馆里的油画风女子
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- oil-painting
+- cafe
+- json-prompt
+- mid-century
+- variation
+source:
+  name: '@hey_am_cherry on X'
+  url: https://x.com/hey_am_cherry/status/2106245541508382774
+  credit: Cherry
+  likes: 197
+  captured: '2026-10-28'
+  posted: '2026-10-03'
+notes:
+  en: A structured JSON prompt splits subject, outfit, composition, background, palette, texture and lighting into separate fields, so each element stays controllable. A named four color palette and thick brushstroke texture keep the oil painting look, and the negative prompt blocks copying the reference pose and photorealism.
+  zh: 用结构化 JSON 把人物、服装、构图、背景、配色、质感和光线拆成独立字段，每个要素都便于单独调整。指定四色色板和厚重笔触来稳住油画质感，负面提示词则避免照搬参考图的姿势并排除写实风格。
+prompt: |
+  "aspect_ratio": "9:16",
+      "style": "vintage European café oil painting, expressive brushwork, mid-century editorial artwork",
+
+      "subject": {
+        "character": "stylish young European woman with shoulder-length wavy auburn hair",
+        "expression": "calm, confident, slightly playful gaze toward the viewer",
+        "pose": "seated sideways at a small café table, one arm resting on the chair back while the other lightly holds a coffee cup",
+        "details": "subtle makeup, berry-red lipstick, small gold earrings"
+      },
+
+      "outfit": {
+        "top": "deep coral-red short-sleeve blouse with a relaxed neckline",
+        "style": "chic 1960s-inspired European fashion"
+      },
+
+      "composition": {
+        "framing": "medium-wide portrait",
+        "camera_angle": "slightly elevated three-quarter angle",
+        "subject_position": "slightly left of center",
+        "foreground": "round café table with coffee, small glass and scattered objects"
+      },
+
+      "background": {
+        "setting": "charming old European café interior",
+        "design": "large abstract geometric wall shapes mixed with subtle architectural details",
+        "colors": ["teal", "coral", "cream", "burnt orange"]
+      },
+
+      "props": [
+        "ceramic espresso cup",
+        "small glass bottle",
+        "vintage café chair",
+        "folded napkin"
+      ],
+
+      "color_palette": "teal, coral red, cream, burnt orange and warm brown",
+
+      "texture": "thick imperfect oil brushstrokes, visible canvas grain, slightly weathered painted surface",
+
+      "lighting": "warm afternoon window light with soft natural shadows",
+
+      "mood": "stylish, relaxed, nostalgic European café atmosphere",
+
+      "negative_prompt": "exact recreation of reference, same pose, same character, same outfit, same composition, photorealistic, 3D render, CGI, text, logo, watermark"
+    }
+  }

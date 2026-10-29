@@ -1,0 +1,105 @@
+id: gpt-image-paper-collage-countryside-portrait-diorama
+title:
+  en: Photoreal woman in a paper collage countryside diorama
+  zh: 纸雕拼贴乡野中的写实女孩人像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- paper-collage
+- diorama
+- face-lock
+- countryside
+- fashion-editorial
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2090297565732585554
+  credit: AiwithLariab
+  captured: '2026-10-28'
+  posted: '2026-08-20'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A strict face identity lock on the uploaded reference keeps the person photorealistic while the whole environment is specified as handmade paper. Separate blocks for outfit, scenery, floating decorations, art direction and composition give each layer its own constraints, and listing paper textures such as torn edges, visible fibers and layered cardstock sells the craft look.
+  zh: 用严格的人脸身份锁定保留参考图中的真人写实感，同时把整个环境限定为手工纸艺。服装、场景、漂浮装饰、艺术指导和构图分块描述，每一层都有独立约束，再用手撕边、纸纤维、多层卡纸等质感词强化手作效果。
+prompt: |
+  Create a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.
+
+  Use the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and recognizable facial features. Strict face identity lock — do not redesign, beautify, stylize, age, de-age, or replace her face.
+
+  The girl stands alone in the center of the composition in a graceful, natural editorial pose. She is facing the camera with a relaxed confident expression and a subtle natural smile. Her body is slightly angled, creating a candid fashion-editorial feeling. She holds a beautiful small mixed bouquet of flowers naturally with both hands in front of her. One leg is slightly crossed in front of the other for an elegant relaxed pose.
+
+  Outfit
+
+  Change the outfit completely from the original reference while keeping it fully modest and elegant:
+
+  - elegant ivory/cream long-sleeve button-up blouse
+  - high-waisted wide-leg beige trousers
+  - full-length trousers with complete coverage
+  - simple cream closed-toe shoes
+  - small brown leather shoulder bag
+  - no revealing clothing
+  - no exposed midriff
+  - sophisticated countryside editorial fashion
+  - natural realistic fabric folds and texture
+
+  Environment
+
+  Create a beautiful handcrafted 3D paper-diorama countryside scene:
+
+  - layered blue mountains in the distance
+  - green forest and rolling hills
+  - peaceful blue lake
+  - grassy lakeside landscape
+  - textured beige paper pathway in the foreground
+  - rustic white wooden fence behind the girl
+  - dreamy pastel sky
+
+  Surround the composition with oversized handmade paper flowers in pink, peach, cream, white, and light blue, with layered green paper leaves.
+
+  Add decorative paper elements floating in the sky:
+
+  - pink paper hearts
+  - yellow paper stars
+  - blue stars
+  - soft white and pale-blue clouds
+  - tiny colorful paper dots
+
+  Place two tiny vintage vehicles near the lake in the background: a cream vintage camper van on one side and a small vintage blue-green car on the other.
+
+  Art Direction
+
+  The entire environment should look handcrafted from premium textured paper while the girl remains photorealistic and seamlessly integrated into the paper world.
+
+  Use:
+  hand-torn paper edges, visible paper fibers, layered cardstock, subtle imperfections, realistic paper shadows, dimensional cut-paper elements, tactile textures, soft natural daylight, cinematic depth, gentle atmospheric perspective, premium editorial photography.
+
+  The final image should feel like a luxury handmade paper storybook brought to life with a real photographic subject.
+
+  Composition
+
+  Centered full-body girl
+  Face clearly visible and sharply detailed
+  Natural elegant pose
+  Bouquet held naturally
+  Rustic fence framing the subject
+  Lake and mountains creating depth
+  Large flowers framing both lower corners
+  Clouds and decorative elements filling the upper background
+  Balanced symmetrical composition with organic handmade imperfections
+  Girl remains the strongest focal point
+
+  Final Look
+
+  Photorealistic girl + handcrafted paper-art environment
+  Dreamy pastel colors
+  Luxury editorial aesthetic
+  Whimsical miniature diorama
+  Soft cinematic daylight
+  Highly detailed paper textures
+  Natural realistic skin
+  Sharp facial identity
+  Professional fashion photography
+  Pinterest/Instagram viral visual aesthetic
+  Magazine-quality composition
+
+  Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resolution, clean polished finish, visually striking, aesthetically balanced, premium handcrafted paper-collage photography.

@@ -1,0 +1,25 @@
+id: gpt-image-rice-grain-micro-typography
+title:
+  en: Rice pile with tiny text on one grain
+  zh: 米堆中一粒米上的微型文字
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- micro-typography
+- rice
+- macro
+- text-rendering
+- scale-contrast
+source:
+  name: '@adonis_singh on X'
+  url: https://x.com/adonis_singh/status/2046673729082560919
+  credit: adonis_singh
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+  via: https://github.com/ZeroLu/awesome-gpt-image
+notes:
+  en: A single short sentence sets a huge scale contrast, a massive pile against one grain, and quotes the exact text so the model renders it legibly. The odd mixed case wOw tests precise text fidelity at micro size.
+  zh: 一句话建立巨大的尺度对比，整堆米对应单粒米，并用引号写明确切文字，让模型清晰渲染。大小写混合的wOw用来测试微小文字的还原精度。
+prompt: |
+  A massive pile of rice, and on one single grain of rice there is tiny text that reads "wOw"

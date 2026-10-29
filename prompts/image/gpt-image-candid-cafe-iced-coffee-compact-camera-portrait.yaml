@@ -1,0 +1,25 @@
+id: gpt-image-candid-cafe-iced-coffee-compact-camera-portrait
+title:
+  en: Candid cafe portrait with iced coffee and compact camera
+  zh: 街边咖啡馆抓拍：冰咖啡与卡片相机
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- candid
+- street-cafe
+- dappled-light
+- film-grain
+- lifestyle
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2109514589427876256
+  credit: Nawal
+  likes: 179
+  captured: '2026-10-28'
+  posted: '2026-10-12'
+notes:
+  en: The prompt lists wardrobe, accessories, which hand holds what, seating posture and foreground props in a fixed order, so the pose and details stay consistent. Lens, aperture, dappled sunlight, Kodak Portra tone and film grain give a realistic candid look, and a negative prompt guards against plastic skin and bad hands.
+  zh: 提示词按固定顺序写清服装、配饰、左右手分工、坐姿和前景物件，让姿态和细节保持一致。再用镜头焦段、光圈、斑驳树影、Kodak Portra 色调和胶片颗粒营造真实抓拍感，并用负面提示词压住塑料皮肤和手部畸形。
+prompt: |
+  Cartoon, illustration, plastic skin, extra finger, disabled hand, distorted face, blurry, too open, text, watermark, logo, extra limb

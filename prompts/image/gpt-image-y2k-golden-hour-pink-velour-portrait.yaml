@@ -1,0 +1,25 @@
+id: gpt-image-y2k-golden-hour-pink-velour-portrait
+title:
+  en: Y2K golden hour portrait in pink velour
+  zh: Y2K金色时刻粉色丝绒运动装人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- y2k
+- golden-hour
+- candid-portrait
+- velour
+- palm-trees
+source:
+  name: '@SiliconBarbie_ on X'
+  url: https://x.com/SiliconBarbie_/status/2051475105403040014
+  credit: SiliconBarbie_
+  captured: '2026-10-28'
+  posted: '2026-05-05'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: A single comma-separated line stacks subject, age, skin finish, wardrobe, hair accessories, light and setting, so each detail lands in the frame. Golden hour light with palm trees and glossy lips anchors the Y2K look, and the word candid keeps the pose natural.
+  zh: 一行逗号分隔的提示词依次写明人物、年龄、肤质、服装、发饰、光线和场景，每个细节都能落到画面里。金色时刻的光线、棕榈树和亮唇定下Y2K风格，candid一词让姿态更自然。
+prompt: |
+  candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kissed skin, wearing a baby pink velour tracksuit and butterfly clips in her hair, smiling brightly at the camera, golden hour warm light, palm trees, y2k aesthetic, glossy lips
