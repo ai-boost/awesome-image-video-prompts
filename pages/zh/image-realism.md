@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 45 条
+[返回目录](../../README_zh.md) · 全部 46 条
 
 <a id="gpt-image-night-tokyo-flash-blur-candid-snapshot"></a>
 ### 东京夜晚人行道上的模糊闪光抓拍
@@ -91,6 +91,161 @@ GPT Image 2 · 文生图 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu
 Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman on a Tokyo sidewalk at night beside a white tiled wall. Mid-walk, half-profile, turning back with a shy smile, hand raised toward the camera. Flash fired during motion, strong handheld shake, heavy motion blur, ghosting, streaked tiles, deep shadows, blown highlights, imperfect framing, raw accidental snapshot, authentic noisy phone-camera aesthetic.
 
 Negative Prompt: identity match, face copy, real person replication, anime, illustration, painting, CGI, stylized, studio lighting, beauty lighting, sharp focus, smooth skin, posed portrait, fashion editorial, cinematic, DSLR, tripod, professional photography
+```
+
+</details>
+
+<a id="nano-banana-json-reconstruction"></a>
+### 逐项复刻一张照片的 JSON 提示词
+
+<a href="https://x.com/ViralOps_/status/2107538470818484305"><img src="../../previews/nano-banana-json-reconstruction.jpg" width="360"></a>
+
+按 JSON 字段写（构图、光线、色彩、负面词）。原帖用同一段 JSON 对比了 Nano Banana 2.1 和 GPT Image 2.5。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@ViralOps_ on X](https://x.com/ViralOps_/status/2107538470818484305) · 326 赞，统计于 2026-10-27
+
+[`json`](tags.md#tag-json) [`reconstruction`](tags.md#tag-reconstruction) [`comparison`](tags.md#tag-comparison)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "prompt_type": "detailed_image_reconstruction",
+  "aspect_ratio": "4:5 vertical portrait",
+  "overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
+
+  "subject": {
+    "type": "young adult woman",
+    "age_range": "early to mid 20s",
+    "pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
+    "body_position": "relaxed casual posture with shoulders slightly angled",
+    "expression": "soft neutral expression with a subtle pout, calm and confident",
+    "gaze": "looking directly toward the camera",
+    "styling": "minimal everyday styling, clean and natural"
+  },
+
+  "face": {
+    "shape": "soft oval face with a gently tapered jawline",
+    "forehead": "medium-height forehead partly framed by center-parted hair",
+    "eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
+    "eyes": {
+      "shape": "almond-shaped",
+      "color": "light brown to hazel",
+      "appearance": "bright eyes with visible catchlights",
+      "lashes": "long defined eyelashes with subtle mascara"
+    },
+    "nose": "small straight nose with a softly rounded tip",
+    "lips": {
+      "shape": "full lips with a defined cupid's bow",
+      "color": "natural rosy pink",
+      "finish": "soft satin finish, not glossy"
+    },
+    "skin": {
+      "tone": "light warm-neutral skin tone",
+      "texture": "smooth natural skin with subtle pores and realistic tonal variation",
+      "cheeks": "soft natural pink flush",
+      "finish": "fresh luminous skin without heavy retouching"
+    },
+    "makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
+  },
+
+  "hair": {
+    "color": "rich medium-to-dark chocolate brown",
+    "length": "very long, extending well below the chest",
+    "parting": "clean center part",
+    "texture": "mostly straight with very soft natural bends through the lower lengths",
+    "density": "thick and healthy-looking",
+    "finish": "smooth and glossy but still realistic",
+    "front_sections": "two thin face-framing strands falling naturally along both sides of the face",
+    "details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
+    "movement": "hair hanging naturally over both shoulders and down the front of the shirt"
+  },
+
+  "clothing": {
+    "top": "oversized plain white crew-neck T-shirt",
+    "fit": "loose casual fit",
+    "fabric": "soft slightly wrinkled cotton",
+    "logos": "none",
+    "accessories": "no visible jewelry or prominent accessories"
+  },
+
+  "composition": {
+    "shot_type": "close upper-body portrait",
+    "camera_angle": "slightly above chest level, close to eye level",
+    "camera_distance": "approximately arm's-length smartphone distance",
+    "subject_position": "face slightly right of center with long hair occupying much of the lower frame",
+    "crop": "top of head fully visible, image extending down to around lower torso",
+    "orientation": "vertical",
+    "perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
+  },
+
+  "lighting": {
+    "primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
+    "direction": "sunlight striking the subject from camera-left/front",
+    "face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
+    "hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
+    "shadow_quality": "strong but soft-edged natural indoor shadows",
+    "exposure": "face slightly brightly exposed while the room behind remains much darker",
+    "color_temperature": "warm daylight"
+  },
+
+  "environment": {
+    "location": "casual indoor residential room",
+    "background": "dark gray walls with a white ceiling cornice",
+    "left_background": "open doorway or darker hallway area",
+    "right_background": "dark wall and partially visible household objects",
+    "lower_right": "part of a black tripod or light stand visible",
+    "overall_feel": "ordinary lived-in room rather than a studio",
+    "depth": "background moderately out of focus but still recognizable"
+  },
+
+  "camera": {
+    "capture_device": "modern smartphone camera",
+    "lens_equivalent": "approximately 24-28mm full-frame equivalent",
+    "focus": "sharp focus on face and front hair",
+    "depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
+    "dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
+    "image_character": "casual social-media selfie/photo, not professionally staged"
+  },
+
+  "photorealism_details": [
+    "real individual hair strands",
+    "natural skin pores and micro-texture",
+    "subtle peach fuzz",
+    "realistic eyelash separation",
+    "tiny variations in lip texture",
+    "slight fabric creases in the T-shirt",
+    "small flyaway hairs around the crown",
+    "natural sunlight falloff across the face",
+    "slightly imperfect casual framing",
+    "realistic indoor shadow noise"
+  ],
+
+  "style": {
+    "visual_style": "highly photorealistic casual smartphone portrait",
+    "mood": "soft, youthful, relaxed, sunlit",
+    "processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
+    "avoid": [
+      "cinematic movie lighting",
+      "studio portrait lighting",
+      "overly smooth plastic skin",
+      "CGI appearance",
+      "anime or illustration",
+      "heavy beauty filter",
+      "extreme facial symmetry",
+      "over-sharpened hair",
+      "artificial jet-black hair",
+      "dramatic makeup",
+      "excessive background blur",
+      "professional studio backdrop",
+      "text",
+      "watermarks",
+      "logos"
+    ]
+  },
+
+  "negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
+}
 ```
 
 </details>

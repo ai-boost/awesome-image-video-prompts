@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 58 条
+[返回目录](../../README_zh.md) · 全部 59 条
 
 <a id="gpt-image-dance-pose-sheet-4x4-character"></a>
 ### 动漫少女十六格舞蹈姿势表
@@ -799,6 +799,173 @@ gpt-image-2 loves to leave out the background for character work, you don't even
 Nano banana is actually better at pixel grid adherence. It keeps the grid clean at high resolutions. gpt-image-2 can make a mess at higher resoutions.
 
 prompt: "pixel art; a rogue game character facing south east. isometric view. solid background. cape and two daggars, one in each hand."
+```
+
+</details>
+
+<a id="nano-banana-toy-character-sprinting-through-design-sheets"></a>
+### 玩具角色冲破设计稿纸奔跑
+
+<a href="https://x.com/edizkan_/status/2033783098773569785"><img src="../../previews/nano-banana-toy-character-sprinting-through-design-sheets.jpg" width="360"></a>
+
+以上传的参考角色生成豆子大小的玩具,在巨型设计稿上奔跑。提示词逐个肢体拆解姿势,并对玩具和草图两处都强调身份一致。单束硬光、85mm微距镜头和浅景深营造出尺度错觉。
+
+Nano Banana 2 · 上传图改图 · 出处: [@edizkan_ on X](https://x.com/edizkan_/status/2033783098773569785) · 89 赞，统计于 2026-10-29
+
+[`toy-photography`](tags.md#tag-toy-photography) [`macro`](tags.md#tag-macro) [`character-sheet`](tags.md#tag-character-sheet) [`spotlight`](tags.md#tag-spotlight) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+The moment your character stops being designed…
+and starts existing. #AKCB
+
+Recommended generator: Nano Banana 2 (Gemini – Thinking Mode)
+
+Try it and show your results 👇
+
+A cinematic macro toy-photography scene.
+A bean-sized version of the uploaded reference character is sprinting explosively captured at the peak stride moment of a high-speed sprint with visual effect.
+
+Character Pose
+A dynamic, mid-sprint action pose with amazing visual effects captured from a three-quarter side profile.
+Torso: Leaning forward at a sharp angle to convey momentum.
+Arms: One arm is bent sharply at the elbow with the fist tucked near the chest; the other arm is extended backward, trailing behind the torso.
+Legs: In a full stride. The lead leg is bent forward with the knee high, while the trailing leg is fully extended back with the foot pointed.
+Head: Facing forward, aligned with the direction of the run.
+
+The character runs across the surface of several giant black-and-white character design pages fully covering the ground, featuring the same character.
+Likeness Preservation (CRITICAL)
+The identity of the character must remain exactly identical to the reference in both:
+• the miniature physical character
+
+• the character shown in the design sketches
+The sketch pages must show the  same character, including:
+• dynamic poses small sketches
+
+• head studies and shape explorations
+
+• proportion notes
+
+• accessory sketches
+
+• construction diagrams
+
+• small handwritten annotations
+Maintain the exact:
+• head shape
+
+• eye shape and spacing
+
+• stylization
+
+• silhouette
+
+• materials and clothing design
+If the character wears a balaclava, mask, helmet, or covered face, the sketches must not invent facial anatomy.
+No added nose.
+
+No added mouth.
+
+No visible skin where the reference does not show it.
+Do not humanize the character.
+
+Do not reinterpret anatomy.
+Subject & Action
+The miniature character sprints explosively across the design pages, tearing through the sketch sheet as it runs.
+The character is captured at the peak stride moment of a full-speed sprint.
+Running pose details:
+• the body leans sharply forward as if accelerating
+
+• one leg is fully extended forward while the other drives powerfully backward
+
+• arms pump in opposite running motion
+
+• the torso twists slightly creating a dynamic curved spine line
+
+• the pose feels like a high-speed comic-book sprint
+The character’s momentum rips through the paper, creating a jagged torn path behind it.
+A trail of torn paper curls and fragments with vfx follows behind the running character as if it burst out of its own design.
+Oversized design sheets surround the character, each page showing different stages of development of the same character.
+One small grey 3d print of the character is in the background as an exact copy of the uploaded image.
+Camera & Perspective
+Captured from a medium camera distance above the desk, allowing a wider portion of the surrounding design pages to be visible.
+Shot with an 85mm macro lens, creating natural compression while keeping the environment readable.
+The camera sits slightly elevated and angled downward toward the running character.
+The character remains the focal point but occupies roughly one third of the frame, revealing more of the design sheets and workspace around it.
+The character remains slightly off-center within the spotlight.
+Depth of Field
+Extremely shallow depth of field.
+The sprinting miniature character and the immediate section of the torn sketch page are razor sharp.
+Surrounding pages and distant elements fall into soft blur.
+Lighting (VERY DRAMATIC)
+A single narrow spotlight / flashlight beam hits the character.
+The beam comes from a side-front direction, creating a bright circular pool of light on the design page.
+Lighting characteristics:
+• extremely hard light
+
+• very high contrast
+
+• no ambient fill light
+
+• the surrounding elements fades into near-total darkness
+
+• sharp dramatic shadows stretch across the paper
+
+• edges of the light beam fall rapidly into black
+The environment outside the spotlight should feel almost completely swallowed by darkness, as if the character has been suddenly caught under a stage light.
+Dust particles float through the beam.
+Environment & Surface Detail
+Macro-level detail of the design pages:
+• ink texture
+
+• pencil strokes
+
+• paper fibers
+
+• subtle reflections on graphite lines
+The torn paper edge reveals fibrous paper layers and curled fragments along the ripped path.
+
+Subtle Heat Burn Detail
+Along parts of the torn path, the paper shows light scorching caused by extreme speed friction:
+• edges of some tears are slightly darkened and singed
+
+• faint burnt browning transitions into the white paper fibers
+
+• tiny ember-like glowing specks appear briefly along the freshest tear points
+
+• very subtle wisps of heat distortion or smoke rise from a few edges
+The burn effect must remain minimal, believable, and physically grounded, enhancing realism without turning into flames or overpowering the scene.
+
+Color Grade
+Desaturated sketch pages and environment.
+The character receives cool cinematic highlights from the spotlight.
+Moody macro photography atmosphere.
+Rendering Style
+Photorealistic macro toy photography, emphasizing scale illusion between the tiny character and the giant design pages.
+Speed Energy VFX
+A stylized high-speed energy trail follows behind the running character, emphasizing the explosive sprint.
+The trail consists of thin luminous motion streaks and glowing particles streaming backward from the character’s movement direction.
+Characteristics:
+• energy streaks originate from behind the character’s shoulders, arms, and legs
+
+• streaks extend diagonally backward, following the direction of motion
+
+• the lines are semi-transparent glowing blue light trails
+
+• small sparkling particles scatter along the trail
+
+• the effect should feel like comic-book speed energy, not smoke or fire
+
+• the VFX enhances motion but does not cover or obscure the character
+The light streaks interact subtly with the environment:
+• faint glow reflecting on the torn paper edges
+
+• slight blue rim light on the character’s silhouette
+
+• a few glowing particles floating through the spotlight beam
+The energy trail should feel fast, sharp, and directional, reinforcing the sense that the character is sprinting at extreme speed.
+ar 3:2
 ```
 
 </details>

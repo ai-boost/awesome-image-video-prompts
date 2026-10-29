@@ -77,7 +77,7 @@ def ask(c):
     text = RULES.format(thumb=c["thumb"], prefix=pre, modes=", ".join(MODES[c["kind"]]),
                         cat_line=f"- category: one of {', '.join(IMAGE_CATS)}" if c["kind"] == "image" else "",
                         cat_key=', "category": "..."' if c["kind"] == "image" else "",
-                        model=c["model"], post=c["post_text"][:1500], prompt=c["prompt"][:6000])
+                        model=c["model"], post=c["post_text"][:1500], prompt=c["prompt"])
     out = subprocess.run(["claude", "-p", "--model", "haiku", "--allowedTools", "Read", "--output-format", "text"],
                          input=text, capture_output=True, text=True, timeout=600).stdout
     m = re.search(r"\{.*\}", out, re.S)

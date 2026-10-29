@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 122 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 124 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -1891,6 +1891,136 @@ Negative Prompt: blurry details, bad anatomy, extra fingers, distorted face, low
 
 </details>
 
+<a id="gpt-image-photo-to-manga-split-panel-poster"></a>
+### 照片与漫画重绘分割海报，花瓣上的女孩
+
+<a href="https://x.com/oggii_0/status/2114943832894972403"><img src="../../previews/gpt-image-photo-to-manga-split-panel-poster.jpg" width="360"></a>
+
+提示词将画布严格分为上下各半，上方保留未经改动的照片，下方用限定的十六进制色板和按主体类型设定的规则进行漫画重绘，以保持姿态与人物特征。重绘人物几乎占满下半部分，留白比提示词要求的更少。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2114943832894972403) · 136 赞，统计于 2026-10-28
+
+[`photo-to-manga`](tags.md#tag-photo-to-manga) [`split-panel`](tags.md#tag-split-panel) [`limited-palette`](tags.md#tag-limited-palette) [`handwritten-caption`](tags.md#tag-handwritten-caption) [`print-poster`](tags.md#tag-print-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn any photo into a minimalist Japanese manga print poster with GPT Image 2.5.
+
+Prompt: Task: Create a 3:4 Split-Panel Photo-to-Japanese Illustration Poster
+
+Transform the uploaded photograph into a vertically composed 3:4 comparison poster. The upper half displays the original photograph, while the lower half features a Japanese hand-drawn manga illustration with a limited-color print-poster aesthetic, faithfully redrawn from the same photograph.
+
+Divide the canvas into two equal horizontal sections, each occupying exactly 50% of the total height. Both sections must have the same width. The horizontal division should connect seamlessly, with no gap, border, overlap, or decorative separator.
+
+1. Upper Half — Original Photograph
+
+- Preserve the original photograph exactly as it is.
+- Do not redraw, recolor, retouch, or add any text to the photograph.
+- Scale proportionally without stretching or distorting the image.
+- If necessary, crop peripheral background areas first while preserving the main subject and important visual details.
+- If the aspect ratio cannot be accommodated without compromising essential content, extend the edges with a light grayish-cream background. Never invent or reconstruct missing parts of the original photograph.
+
+2. Lower Half — Japanese Hand-Drawn Illustration
+
+Redraw the photograph as a Japanese-inspired hand-drawn manga illustration with a minimalist, limited-color screen-print poster aesthetic.
+
+The original photograph is the exclusive source of the subject's identity, appearance, pose, structure, composition, layout, and relationships between objects.
+
+For people:
+
+- Preserve recognizable facial shape, hairstyle silhouette, expression, pose, gestures, and clothing category.
+- Simplify the face into clean manga-style shapes.
+- Render hair as grouped, flowing masses rather than individual strands.
+- Express clothing through elegant, simplified fashion silhouettes.
+
+For animals:
+
+- Preserve the species, body proportions, distinctive coat-color patterns, and pose.
+- Use simplified contours and flat color blocks to retain recognizability.
+
+For objects:
+
+- Preserve the original silhouette, essential structural details, and proportions.
+
+For landscapes and scenery:
+
+- Preserve the terrain, architecture, distribution of visible elements, and spatial depth.
+- Redraw the main landscape as a cohesive illustration rather than reducing it to an isolated object.
+
+Preserve all visible contact, overlap, and occlusion relationships. Depict only what is visible in the source photograph. Do not introduce new subjects, props, gestures, or structures outside the original image.
+
+If an additional style reference is provided, use it only for drawing technique, color palette, and layout. Never copy its subjects or content.
+
+3. Linework and Color Treatment
+
+Use a consistent combination of delicate ink outlines, naturally simplified shapes, and limited-color flat fills.
+
+- Ink outline: Near-black "#02030B", with varied pressure, subtle line-weight changes, occasional pauses, and slightly irregular hand-drawn edges.
+- Keep internal lines minimal, retaining only the structural details necessary to define form.
+- Use clean, continuous, opaque color blocks.
+- Merge shadows into a small number of hard-edged color shapes.
+- Avoid individual hair strands, dense hatching, photorealistic textures, and excessive decorative detail.
+- Preserve the subject's essential natural colors and distinctive identifying color patterns.
+
+Lower-panel background: Light grayish cream "#ECEDE5".
+
+Primary accent: Warm red "#E9444B".
+
+Secondary accent: Muted blue-gray "#5296BD".
+
+Use red as the dominant accent and blue sparingly. Ensure that accent colors complement the subject without compromising its recognizability.
+
+Simplify the background to the cream paper tone, retaining only the environmental details needed to communicate the setting, explain the action, and preserve spatial relationships. For landscape photographs, translate the principal scenery into the illustration rather than omitting it.
+
+4. Lower Panel — Minimalist Poster Layout
+
+Create a refined editorial composition with a small illustration surrounded by generous negative space.
+
+- Treat the subject and essential environmental elements as one cohesive illustration.
+- Scale the complete illustration proportionally and center it within the lower panel.
+- Keep the entire illustration group within approximately 65–70% of the panel width and 60–65% of the panel height.
+- Fit the illustration within these limits without stretching or distorting it.
+- Maintain generous light grayish-cream margins on all sides.
+- Do not let the illustration touch the edges or fill the entire panel.
+- Do not use large background color blocks to fill the empty space.
+- Do not add a border around the illustration.
+
+The overall layout should resemble a thoughtfully designed Japanese art-print poster: restrained, balanced, airy, and visually sophisticated.
+
+5. Handwritten Typography
+
+Add two small handwritten text elements within the negative space of the lower panel.
+
+Top area: Place a small, delicate, near-black handwritten phrase, such as:
+
+“FROM LIFE TO LINES.”
+
+Beside the illustration: Add an even smaller, casual handwritten phrase, such as:
+
+“another way to see.”
+
+Generate both phrases automatically based on the subject, setting, and emotional atmosphere of the original photograph. The wording should feel concise, natural, poetic, and contextually relevant.
+
+The example phrases are references for tone and placement only. Do not use them automatically if a more fitting caption can be generated.
+
+Typography must remain subtle and secondary to the illustration. Use a natural handwritten style with fine, slightly imperfect strokes. Ensure all generated text is spelled correctly and legible.
+
+6. Final Output Requirements
+
+- Aspect ratio: 3:4 portrait.
+- Upper half: 50% of canvas height, displaying the untouched original photograph.
+- Lower half: 50% of canvas height, displaying the Japanese-inspired hand-drawn illustration.
+- Equal panel widths, seamless horizontal transition, no gap, no frame, and no overlap.
+- Consistent minimalist Japanese manga linework and limited-color print-poster styling.
+- Small, centered illustration with generous cream-colored negative space.
+- Subtle, context-aware handwritten typography in the lower panel.
+
+Core principle: The original photograph determines what is depicted. The illustration style determines how the lower half is redrawn. Preserve the source's identity and composition while transforming the lower panel into an elegant, minimalist Japanese illustration poster.
+```
+
+</details>
+
 <a id="gpt-image-architectural-landmark-graphite-watercolor-poster"></a>
 ### 比萨斜塔铅笔线稿与水彩建筑海报
 
@@ -1976,6 +2106,206 @@ No cartoon aesthetic.
 No generic stock-travel-poster appearance.
 
 4:5 vertical composition, premium editorial design, tactile handmade paper, sophisticated architectural illustration, precise fine-line details, subtle watercolor, elegant negative space, balanced visual hierarchy, museum-quality contemporary art poster.
+```
+
+</details>
+
+<a id="gpt-image-city-screenprint-travel-poster-paris"></a>
+### 巴黎地标丝网印刷风旅行海报配绿色老爷车
+
+<a href="https://x.com/Maercihh/status/2099757585264251102"><img src="../../previews/gpt-image-city-screenprint-travel-poster-paris.jpg" width="360"></a>
+
+这是只替换城市名的JSON模板，由模型自选4到7个地标做成粗黑剪影，底部放一辆本地交通工具，并配2到4色的克制配色。其中的禁止照搬清单、禁止多余文字，以及奶油纸与油墨颗粒的设定，让结果像手工印刷而不是干净的矢量图。
+
+GPT Image 2.5 · 文生图 · 出处: [@Maercihh on X](https://x.com/Maercihh/status/2099757585264251102) · 129 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`screenprint`](tags.md#tag-screenprint) [`city-template`](tags.md#tag-city-template) [`landmarks`](tags.md#tag-landmarks) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "input": {
+    "city_name": "{{USER_INPUT_CITY}}"
+  },
+
+  "reference_style": {
+    "use_uploaded_reference_images": true,
+    "reference_images_define": [
+      "overall composition",
+      "hand-cut screenprint aesthetic",
+      "bold black graphic silhouettes",
+      "limited color palette",
+      "vintage travel poster character",
+      "rough ink texture",
+      "slightly imperfect handmade edges",
+      "large oversized city typography",
+      "layered landmark arrangement",
+      "bottom transportation element",
+      "cream/off-white paper background",
+      "minimal editorial composition"
+    ],
+    "do_not_copy": [
+      "specific landmarks",
+      "specific city name",
+      "specific vehicle",
+      "specific color combinations",
+      "exact typography arrangement",
+      "exact landmark placement"
+    ]
+  },
+
+  "generation": {
+    "type": "vintage_city_travel_poster",
+    "aspect_ratio": "3:4",
+    "resolution": "high",
+    "orientation": "portrait",
+
+    "city_adaptation": {
+      "primary_rule": "Everything must be redesigned around the user's city_name.",
+      "identify_city": true,
+      "research_visual_identity": true,
+
+      "landmarks": {
+        "count": "4-7",
+        "selection": "Automatically select the most recognizable and visually distinctive landmarks of the specified city.",
+        "prioritize": [
+          "major landmark",
+          "historic architecture",
+          "modern architectural icon",
+          "religious or cultural landmark",
+          "bridge or monument",
+          "recognizable skyline element"
+        ],
+        "rendering": "Convert each landmark into simplified bold black screenprint silhouettes while preserving its recognizable architectural identity."
+      },
+
+      "transportation": {
+        "automatically_select": true,
+        "instruction": "Choose a transportation vehicle strongly associated with the specified city, such as a taxi, tram, bus, metro train, tuk-tuk, cable car, rickshaw, classic car, ferry, or other iconic local transport.",
+        "placement": "large foreground element along the bottom edge",
+        "style": "simplified vintage screenprint illustration"
+      },
+
+      "colors": {
+        "automatically_adapt": true,
+        "instruction": "Select a restrained 2-4 color palette inspired by the city's visual identity, local transportation, flag, architecture, or cultural colors.",
+        "black": "dominant graphic ink color",
+        "background": "warm aged cream paper",
+        "accent_colors": "city-specific and muted, never overly saturated"
+      },
+
+      "typography": {
+        "text": "{{USER_INPUT_CITY}}",
+        "case": "uppercase",
+        "style": "large bold irregular condensed display lettering",
+        "placement": "integrated prominently between or behind the landmarks",
+        "texture": "rough printed ink",
+        "alignment": "slightly imperfect and organic",
+        "rule": "The city name must be perfectly spelled and clearly readable."
+      },
+
+      "secondary_text": {
+        "enabled": false,
+        "instruction": "Do not add arbitrary slogans, dates, tourist phrases, descriptions, or extra readable text."
+      },
+
+      "local_details": {
+        "automatically_adapt": true,
+        "instruction": "Add subtle visual details that immediately reinforce the identity of the specified city without overcrowding the composition."
+      }
+    },
+
+    "composition": {
+      "layout": "editorial vintage travel poster",
+      "landmarks": "arranged dynamically around the typography",
+      "typography": "large central visual anchor",
+      "foreground": "one iconic city transportation element",
+      "depth": "flat graphic layering with minimal overlap",
+      "negative_space": "generous cream-colored negative space",
+      "balance": "asymmetrical but visually balanced",
+      "cropping": "allow selected landmarks or transportation to naturally extend toward the edges"
+    },
+
+    "art_direction": {
+      "medium": "hand-pulled screenprint / linocut-inspired travel poster",
+      "visual_language": [
+        "bold silhouettes",
+        "flat shapes",
+        "rough ink edges",
+        "visible print grain",
+        "subtle ink distress",
+        "slight registration imperfections",
+        "handmade imperfections",
+        "graphic editorial design",
+        "mid-century travel poster influence"
+      ],
+      "linework": "strong, chunky and simplified",
+      "texture": "authentic paper grain and uneven ink coverage",
+      "finish": "physical printed artwork rather than digitally perfect vector art"
+    },
+
+    "background": {
+      "color": "warm ivory / aged cream",
+      "texture": "subtle natural paper fibers",
+      "pattern": "none",
+      "gradient": false
+    },
+
+    "quality": {
+      "photorealism": false,
+      "vector_perfection": false,
+      "digital_gloss": false,
+      "clean_modern_ui": false,
+      "high_detail": true,
+      "print_ready_appearance": true
+    }
+  },
+
+  "constraints": {
+    "user_controls_only": [
+      "city_name"
+    ],
+    "model_controls": [
+      "landmark selection",
+      "landmark arrangement",
+      "transportation",
+      "color palette",
+      "local visual details",
+      "typographic composition",
+      "graphic hierarchy"
+    ],
+    "must_have": [
+      "correct city name",
+      "recognizable landmarks from that city",
+      "city-specific transportation or mobility element",
+      "warm cream paper background",
+      "bold black screenprint forms",
+      "large city typography",
+      "vintage handmade print texture",
+      "cohesive travel-poster composition"
+    ],
+    "avoid": [
+      "landmarks from other cities",
+      "generic buildings",
+      "generic tourist imagery",
+      "photorealistic rendering",
+      "3D rendering",
+      "glossy gradients",
+      "neon colors",
+      "modern corporate poster design",
+      "random text",
+      "misspelled city name",
+      "extra slogans",
+      "watermarks",
+      "logos",
+      "AI artifacts",
+      "overly clean vector edges"
+    ]
+  },
+
+  "output_instruction": "Create a single finished vintage screenprint travel poster representing {{USER_INPUT_CITY}}. Preserve the artistic language and visual restraint of the supplied references, but completely redesign the landmarks, transportation, color accents and local details so they authentically belong to the specified city."
+}
 ```
 
 </details>
@@ -4791,305 +5121,6 @@ The final composition should feel like a premium fashion editorial, contemporary
 Avoid multiple competing effects, dense text, UI elements, heavy glitches, random collage, excessive decoration, numbering, “Vol.” or “Issue” labels, sparkle symbols, logos, watermarks, distorted anatomy, plastic skin, oversaturation, and generic template aesthetics.
 
 Keep the overall treatment medium in scale, refined, adaptable, and universally applicable to different people, titles, themes, palettes, and editorial concepts.
-```
-
-</details>
-
-<a id="gpt-image-restaurant-shaped-standee-template"></a>
-### 夏日饮品餐饮异形立牌
-
-<a href="https://x.com/MrLarus/status/2059248197910827364"><img src="../../previews/gpt-image-restaurant-shaped-standee-template.jpg" width="360"></a>
-
-用方括号模板预留品牌、产品、卖点和促销字段，可套用到任何菜单。它要求不规则异形轮廓和完整底座，并规定从主标题到主推产品再到价格的阅读顺序。
-
-GPT Image 2 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2059248197910827364) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`standee`](tags.md#tag-standee) [`restaurant`](tags.md#tag-restaurant) [`food-photography`](tags.md#tag-food-photography) [`template`](tags.md#tag-template) [`pop-signage`](tags.md#tag-pop-signage)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-请生成一张高完成度的「餐饮异形展架 / 立牌」设计图，用于展示餐饮门店的新品推荐、招牌产品、套餐促销或品牌活动信息。
-
-【基础信息】
-品牌名：【品牌名】
-主标题：【主标题】
-副标题：【副标题】
-辅助短句：【短句1】｜【短句2】｜【短句3】
-主题方向：【主题方向，例如：爆辣夜市风 / 金黄浓郁风 / 清新轻食风 / 山野自然风 / 甜品下午茶风 / 快餐促销风】
-主色调：【主色调】
-辅助色：【辅助色】
-点缀色：【点缀色】
-画幅比例：【建议 3:4 竖版】
-
-【产品内容】
-主推产品：【主推产品】
-辅助产品1：【辅助产品1】
-辅助产品2：【辅助产品2】
-辅助产品3：【辅助产品3】
-辅助产品4：【辅助产品4】
-加料 / 配角产品：【加料或配角产品，例如：饮品 / 小食 / 配菜 / 酱料 / 甜品】
-
-【卖点标签】
-【卖点1】
-【卖点2】
-【卖点3】
-【卖点4】
-【卖点5】
-【卖点6】
-
-【促销信息】
-【促销信息1】
-【促销信息2】
-【促销信息3】
-
-【最重要要求】
-避免生成门店场景效果图或墙上海报展示图。请直接生成“一张完整的异形立牌成品展示图”：
-- 背景必须为纯白色
-- 画面中只保留一个完整的异形餐饮立牌主体
-- 不要餐厅环境
-- 不要商场背景
-- 不要玻璃门、桌椅、墙面、人物、地面透视场景
-- 不要任何真实空间背景
-- 立牌主体必须完整显示
-- 异形轮廓必须完整清晰
-- 底座必须完整露出
-- 整体像一张已经抠好的门店物料成品图 / 设计提案展示图 / 电商展示图
-
-【画面形式】
-这是一张“门店异形展架 / 立牌”的完整设计，避免普通矩形海报处理。
-整体应采用明显的“不规则异形裁切轮廓”，有完整外边缘，边缘可带白色或浅色描边，具有真实门店物料感。
-立牌应有明确底座，整体像可落地摆放的 KT 板 / 泡沫板 / 亚克力 / 写真喷绘展架成品。
-
-【构图结构】
-整体采用竖版、中心聚焦、信息分层清楚的结构：
-
-1. 顶部区域：
-放超大主标题，标题必须醒目、有冲击力、有餐饮 POP 招贴感。
-字体可以厚重、手写感、招贴感、潮流感，但要清晰易读。
-标题是整张图的第一视觉焦点。
-
-2. 中部核心区域：
-中间放最大主推产品，作为主视觉主体。
-主菜必须最大、最饱满、最诱人，突出食欲感。
-围绕主菜搭配 2~5 个辅助产品，形成丰富的产品组合，前后层次明确，主次分明。
-
-3. 周边信息区域：
-在主菜和辅助产品四周加入少量标签元素、推荐标、贴纸框、手写箭头、卖点说明、小标题、小气泡标签等，使其具有“餐饮门店促销物料”的视觉特征。
-但要控制层级，做到“热闹但不乱”。
-
-4. 底部促销区域：
-底部放价格信息、套餐信息、活动信息或新品尝鲜信息。
-价格数字要相对突出，易读清晰。
-如果没有特别要求，默认不要二维码。
-
-【视觉风格要求】
-整体风格应属于“餐饮转化型视觉 + 门店 POP 异形立牌”：
-- 强调食欲感
-- 强调信息可读性
-- 强调商业落地感
-- 强调门店物料感
-- 强调异形轮廓感
-
-避免极简杂志海报、电商详情页、纯平面插画海报方向。
-
-【食物表现要求】
-所有食物必须采用真实商业美食摄影质感：
-- 食物清晰真实
-- 有食材颗粒感
-- 有酱汁、汤汁、油光、热气、层次感
-- 有丰富细节，如葱花、辣椒、芝士、香草、蔬菜、水果、虾仁、肉块等
-- 主食要饱满，不能扁平
-- 看起来必须“能激发食欲”
-禁止过度插画化、卡通化、低质拼贴化。
-
-【版式与信息层级】
-整张立牌的阅读顺序应为：
-主标题 → 主推产品 → 辅助产品 → 卖点标签 → 价格 / 活动信息
-
-信息量可以较丰富，但必须有明确层级：
-- 主标题最大
-- 主菜次大
-- 辅助菜稍小
-- 卖点标签较小
-- 底部促销清晰醒目
-
-【适配范围】
-该模板需要适用于不同主题餐饮内容，例如：
-- 面 / 饭 / 粉 / 小吃
-- 火锅 / 菌汤 / 地方菜
-- 轻食 / 沙拉 / 咖啡简餐
-- 早餐 / 套餐 / 快餐
-- 茶饮 / 甜品 / 下午茶
-- 节日促销 / 新品上市 / 爆品推荐 / 双人套餐
-
-【输出要求】
-请输出一张高清、清晰、商业完成度高的异形立牌设计图，满足以下条件：
-- 白色背景
-- 完整异形轮廓
-- 完整底座
-- 只展示立牌本体
-- 不带真实场景环境
-- 不带人物
-- 不带门店背景
-- 默认不带二维码
-- 适合用于系列案例展示、设计提案、社交媒体发布、模板复用
-```
-
-</details>
-
-<a id="gpt-image-rio-ticket-pop-up-diorama-poster"></a>
-### 从旅行票据中升起的里约微缩立体场景
-
-<a href="https://x.com/john_my07/status/2091408386466214031"><img src="../../previews/gpt-image-rio-ticket-pop-up-diorama-poster.jpg" width="360"></a>
-
-前景手持做旧票据来确立比例，微缩城市从票据后方以纸、木、石膏的分层结构升起并带有投影。逐一指定每幅速写在奶油色纸面上的位置，再要求中心清晰、四周略虚，让版面保持可控。
-
-GPT Image 2 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2091408386466214031) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`travel-poster`](tags.md#tag-travel-poster) [`diorama`](tags.md#tag-diorama) [`paper-craft`](tags.md#tag-paper-craft) [`miniature`](tags.md#tag-miniature) [`vintage`](tags.md#tag-vintage)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background.
-
-In the foreground, a realistic human hand holds a vintage Brazilian travel ticket or Rio-themed transit card vertically on the left side. Give the card aged paper texture, subtle printing imperfections, elegant typography, and authentic-looking travel details. From behind the card, a miniature Rio de Janeiro landscape physically rises outward like an intricate pop-up diorama.
-
-Make Christ the Redeemer the dominant central landmark, positioned high above a miniature cityscape with lush green mountains surrounding it. Below, build a tiny realistic Rio street featuring a classic yellow taxi, colorful buildings, palm trees, pedestrians, cyclists, street lamps, tiled sidewalks, and small Brazilian urban details. Add Copacabana beach elements in the distance with tiny umbrellas, beachgoers, and a glimpse of the Atlantic Ocean. Layer the architecture and terrain so everything appears physically constructed from paper, wood, plaster, and miniature materials, with convincing depth, cast shadows, overlapping surfaces, and a slight three-quarter perspective.
-
-Around the main 3D scene, incorporate delicate black, charcoal, and muted sepia hand-drawn travel illustrations on the cream paper. Include a small Sugarloaf Mountain sketch in the upper left, an artistic Copacabana promenade illustration in the upper right, a detailed Selarón Steps sketch along the right side, and a small Ipanema beachfront skyline drawing near the bottom. Add subtle handwritten travel notes, tiny map markings, architectural outlines, compass symbols, postage-stamp details, and understated Brazilian travel annotations.
-
-Keep the composition refined rather than crowded. Blend realistic miniature photography with vintage travel-journal design, tactile paper fibers, faint ink bleed, imperfect hand-drawn lines, warm natural studio lighting, gentle shadows, subtle film grain, and a sophisticated cream, charcoal, muted green, ocean blue, and Brazilian yellow palette.
-
-The final image should feel like a premium collectible Rio de Janeiro travel postcard transformed into a physical miniature world, with the central diorama sharply detailed and the surrounding illustrations slightly softer. Highly realistic human hand and fingers, believable miniature materials, cinematic product photography, editorial travel-magazine aesthetic, shallow depth of field, ultra-fine textures, photorealistic 3D details, vertical 4:5 composition, 8K quality.
-```
-
-</details>
-
-<a id="gpt-image-santorini-family-travel-diary-print"></a>
-### 圣托里尼家庭旅行日记 照片叠印孔版版画
-
-<a href="https://x.com/frametheory058/status/2098253373237875074"><img src="../../previews/gpt-image-santorini-family-travel-diary-print.jpg" width="360"></a>
-
-撕纸过渡把同一场景分成两半，上方是自然的日落照片，下方是同一家人的藏青、赤陶与象牙色孔版印刷版本。要求上下两部分人物身份一致，让版画读起来像是照片的重新讲述。
-
-GPT Image 2.5 · 文生图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2098253373237875074) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
-
-[`travel-poster`](tags.md#tag-travel-poster) [`santorini`](tags.md#tag-santorini) [`risograph`](tags.md#tag-risograph) [`family`](tags.md#tag-family) [`torn-paper`](tags.md#tag-torn-paper)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Design a vertical 4:5 Santorini travel diary. Above, show a fictional couple kissing their smiling daughter’s cheeks at sunset, among white houses, blue domes and sea. Use natural photographic skin and hands. Below a torn-paper transition, reinterpret the same family as a navy, terracotta and ivory screen print with rough ink and risograph texture. Keep identities consistent. Add only “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS” and “A SMALL DIARY — #001.” Use sparse stamps and taped photos. No Chinese text, rigid half split, excessive stickers or distorted anatomy.
-```
-
-</details>
-
-<a id="gpt-image-sci-fi-momotaro-key-visual"></a>
-### 科幻桃太郎动画主视觉海报
-
-<a href="https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761"><img src="../../previews/gpt-image-sci-fi-momotaro-key-visual.jpg" width="360"></a>
-
-提示词点明是虚构动画的主视觉图，并要求角色、背景、标志和宣传语一并出现在同一幅插画里，模型因此会生成带标题字标和标语的完整海报版式。一个主题加一句世界观目标就足以得到连贯的构图。
-
-GPT Image 2 · 文生图 · 出处: [@SSSS_CRYPTOMAN on X](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`key-visual`](tags.md#tag-key-visual) [`sci-fi`](tags.md#tag-sci-fi) [`anime-poster`](tags.md#tag-anime-poster) [`logo-design`](tags.md#tag-logo-design) [`bilingual-prompt`](tags.md#tag-bilingual-prompt)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-[中文]
-设计虚构动画的钥匙视觉图。主题是「科幻桃太郎」。设计有魅力的角色、背景、标志和宣传语，以一幅美丽插画的形式完成，让世界观在一张图中传达出来。
-
-[English]
-Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowing the worldview to be conveyed in a single image.
-```
-
-</details>
-
-<a id="gpt-image-six-color-low-angle-fashion-campaign"></a>
-### 六色低机位时装广告大片
-
-<a href="https://x.com/ImagineArt_X/status/2097520463811608862"><img src="../../previews/gpt-image-six-color-low-angle-fashion-campaign.jpg" width="360"></a>
-
-地面机位加24mm镜头并倾斜十五度,形成强烈的仰视透视。六种明确的服装颜色配单一纯钴蓝天空,色彩可控,每个人姿势各不相同。
-
-GPT Image 2.5 · 文生图 · 出处: [@ImagineArt_X on X](https://x.com/ImagineArt_X/status/2097520463811608862) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
-
-[`fashion`](tags.md#tag-fashion) [`campaign`](tags.md#tag-campaign) [`low-angle`](tags.md#tag-low-angle) [`color-palette`](tags.md#tag-color-palette) [`group-shot`](tags.md#tag-group-shot)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-a fashion campaign for an invented label, shot from a camera on the ground with a 24mm lens tilted fifteen degrees. Six people in electric blue, tomato red, lime green, hot pink, butter yellow and lilac, all posed differently, against plain cobalt sky.
-```
-
-</details>
-
-<a id="gpt-image-streetwear-campaign-tagline"></a>
-### 街头服饰广告大片，标语只出现一次
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="../../previews/gpt-image-streetwear-campaign-tagline.jpg" width="360"></a>
-
-标语加引号，并要求只出现一次，再禁止多余文字、水印和无关标志。凡是有固定文案的广告都可以照这个写。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
-
-[`ad`](tags.md#tag-ad) [`fashion`](tags.md#tag-fashion) [`text-render`](tags.md#tag-text-render)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Give me a cool in culture ad / fashion shot for a brand called Thread.
-It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
-Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
-Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
-Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
-No extra text, no watermarks, no unrelated logos.
-```
-
-</details>
-
-<a id="gpt-image-strength-dumbbell-fitness-campaign-poster"></a>
-### 巨型哑铃红色健身品牌海报
-
-<a href="https://x.com/AIwithSynthia/status/2048601383545577614"><img src="../../previews/gpt-image-strength-dumbbell-fitness-campaign-poster.jpg" width="360"></a>
-
-用一个超大道具加背景大字建立清晰的视觉层级,并逐一写明模特的肢体姿势。极简黑色影棚、反光地面和单一红色调让画面干净而有高级感。
-
-GPT Image 2 · 文生图 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2048601383545577614) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`fitness`](tags.md#tag-fitness) [`campaign`](tags.md#tag-campaign) [`typography`](tags.md#tag-typography) [`studio`](tags.md#tag-studio) [`red-black`](tags.md#tag-red-black)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
-```
-
-</details>
-
-<a id="gpt-image-surreal-anime-uncle-posters"></a>
-### 四张带日文标题的超现实动画海报
-
-<a href="https://x.com/aiehon_aya/status/2046499177916682600"><img src="../../previews/gpt-image-surreal-anime-uncle-posters.jpg" width="360"></a>
-
-要求一次生成四种变体并拼成一张图，把设定写成认真又荒诞的动画电影。指定日文标题和播出信息，让模型补全带署名与播出日期的完整海报排版。
-
-GPT Image 2 · 文生图 · 出处: [@aiehon_aya on X](https://x.com/aiehon_aya/status/2046499177916682600) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`movie-poster`](tags.md#tag-movie-poster) [`anime`](tags.md#tag-anime) [`japanese-typography`](tags.md#tag-japanese-typography) [`surreal`](tags.md#tag-surreal) [`grid`](tags.md#tag-grid)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-[中文]
-一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。
-
-[English]
-A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.
 ```
 
 </details>

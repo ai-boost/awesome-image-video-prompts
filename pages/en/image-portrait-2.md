@@ -1,6 +1,254 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 157 entries · [1](image-portrait.md) · **2**
+[Back to the list](../../README.md) · All 160 entries · [1](image-portrait.md) · **2**
+
+<a id="gpt-image-candlelit-side-room-qipao-portrait"></a>
+### Candlelit qipao portrait in a dark side room
+
+<a href="https://x.com/ToroJushiAi/status/2056926887344042382"><img src="../../previews/gpt-image-candlelit-side-room-qipao-portrait.jpg" width="360"></a>
+
+A single off-frame candle sets the light direction, and the amber qipao is matched to the candle's colour temperature so the subject blends into the light. Skin detail cues, stray hairs and ISO 400 grain keep it photographic, while the negative list rules out illustration looks.
+
+GPT Image 2 · Text-to-image · Source: [@ToroJushiAi on X](https://x.com/ToroJushiAi/status/2056926887344042382) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`candlelight`](tags.md#tag-candlelight) [`chiaroscuro`](tags.md#tag-chiaroscuro) [`qipao`](tags.md#tag-qipao) [`85mm`](tags.md#tag-85mm) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A medium-shot authentic daily life photograph, natural candid moment, of an East Asian young woman standing in a small side room lit only by a single candle on a low stone shelf. 85mm lens, waist-up framing, shallow depth of field. The candle is off-frame to the left; the room behind her exists only as dark warm suggestion.
+
+East Asian young woman in her early 20s. Almond-shaped eyes receiving the candle's warm flicker — the irises briefly caught in light before returning to shadow. Straight refined nose, the bridge illuminated in a narrow warm stripe. Skin tone fair beige, warmed entirely by candlelight into something amber. Skin subsurface scattering visible under directional candlelight, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible.
+
+She wears an aged amber silk qipao with chrysanthemum embroidery in tones of old bronze and dusty ochre — the amber pigment identical in temperature to the candle's own light, the embroidery appearing and disappearing depending on angle. Mandarin collar, short sleeves. She stands facing the candle without looking at it, arms at her sides, very still. The room is otherwise empty. Two or three stray hairs displaced by faint air movement, natural unplanned imperfection, not geometrically symmetrical.
+
+Single candle — warm amber-orange, directional and fragile. It carves the left side of her face from darkness, leaves the right in near-black shadow. The amber qipao and the candlelight share a single temperature register: the room folds her into the light. Deep chiaroscuro with no artificial fill. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 9:16. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+</details>
+
+<a id="gpt-image-cherry-blossom-over-shoulder-portrait"></a>
+### Cherry blossom path over the shoulder portrait
+
+<a href="https://x.com/SheBuildsAI_/status/2092431090095149533"><img src="../../previews/gpt-image-cherry-blossom-over-shoulder-portrait.jpg" width="360"></a>
+
+The prompt is split into JSON fields for scene, subject, detail, lighting and composition, so each layer can be tuned on its own. An 85mm lens, shallow depth of field and backlit petals in volumetric haze give the cinematic editorial look.
+
+GPT Image 2 · Text-to-image · Source: [@SheBuildsAI_ on X](https://x.com/SheBuildsAI_/status/2092431090095149533) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`cherry-blossom`](tags.md#tag-cherry-blossom) [`portrait`](tags.md#tag-portrait) [`cinematic`](tags.md#tag-cinematic) [`85mm`](tags.md#tag-85mm) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "title": "WHISPERS OF SPRING",
+
+  "scene": "A peaceful pathway beneath blooming cherry blossom trees during a warm spring afternoon. Pink blossoms fill the canopy overhead while delicate petals drift gracefully through the air. Soft sunlight filters through the branches, creating a dreamy and enchanting atmosphere.",
+
+  "subject": "A young woman walks away from the camera before gently turning her head over her shoulder with a soft, mysterious smile. She wears a flowing natural linen dress that moves gracefully with the breeze, highlighting her delicate facial features and effortless elegance.",
+
+  "detail": "Wind carries countless pink cherry blossom petals across the frame while warm sunlight creates glowing highlights throughout the scene. Every strand of hair moves naturally in the breeze, with ultra realistic skin texture, lifelike fabric folds, soft floral surroundings, and subtle atmospheric haze enhancing the cinematic realism.",
+
+  "atmosphere": "Elegant, peaceful, romantic, dreamy, timeless, cinematic, graceful, and enchanting.",
+
+  "lighting": "Warm spring sunlight filtering through cherry blossom branches, soft natural illumination, glowing highlights, volumetric light rays, gentle ambient shadows, and subtle atmospheric haze.",
+
+  "composition": "Cinematic editorial portrait captured with an 85mm lens, featuring the subject in a three-quarter over-the-shoulder pose. Shallow depth of field, creamy bokeh, balanced framing with flowering trees, soft leading lines, and immersive visual storytelling.",
+
+  "style": "Photorealistic, masterpiece, editorial fashion photography, analog film aesthetic, dreamy pastel color palette, ultra realistic skin texture, highly detailed, shallow depth of field, creamy bokeh, atmospheric haze, HDR, cinematic realism, 8K."
+}
+```
+
+</details>
+
+<a id="gpt-image-cinematic-night-car-backseat-portrait"></a>
+### Cinematic night portrait in a car back seat
+
+<a href="https://x.com/AiwithElisia/status/2089221808436531381"><img src="../../previews/gpt-image-cinematic-night-car-backseat-portrait.jpg" width="360"></a>
+
+Warm horizontal bands of streetlight across the face give dramatic shadow, while the blurred city seen through the rear window adds bokeh depth. Full camera specs (85mm, f/1.4), explicit framing and a negative list against plastic skin keep the portrait realistic.
+
+GPT Image 2 · Text-to-image · Source: [@AiwithElisia on X](https://x.com/AiwithElisia/status/2089221808436531381) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`portrait`](tags.md#tag-portrait) [`night`](tags.md#tag-night) [`cinematic`](tags.md#tag-cinematic) [`bokeh`](tags.md#tag-bokeh) [`low-light`](tags.md#tag-low-light)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic, photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car at night. She has long, naturally straight, glossy black hair with a few loose strands falling softly across her face, delicate facial features, smooth natural skin texture, dark expressive eyes, subtle eyeliner, soft natural eyebrows, and muted rosy-red lips. She is looking directly toward the camera with a calm, neutral, slightly melancholic expression.
+
+Warm golden horizontal bands of streetlight pass naturally across her face, creating dramatic cinematic light and shadow. The lighting should softly illuminate her eyes, nose, cheeks, and lips while leaving parts of her face and hair in deep natural shadow. Preserve realistic skin pores and fine facial details without excessive retouching or plastic-looking skin.
+
+She is seated inside a dark luxury car, with black leather seats and interior surrounding her. Through the rear window, a nighttime city scene is visible with heavily blurred colorful lights, warm yellow bokeh, white headlights, subtle red traffic lights, and dark urban buildings. Strong shallow depth of field separates her from the background.
+
+Shot on a professional full-frame camera, 85mm portrait lens, f/1.4 aperture, cinematic depth of field, realistic low-light photography, soft filmic contrast, subtle warm highlights, deep blacks, natural color grading, high dynamic range, crisp eyes, detailed hair strands, realistic skin texture, soft bokeh, atmospheric nighttime mood.
+
+Composition: vertical portrait, subject centered slightly below the middle of the frame, head and shoulders visible, natural perspective, intimate close-up framing, cinematic negative space, realistic car interior framing in the foreground.
+
+Ultra-realistic photography, high detail, sharp facial focus, natural imperfections, realistic lighting, premium editorial photography, cinematic movie still, subtle film grain, professional color grading, 8K detail, no artificial beauty filter, no over-sharpening, no distorted facial features, no extra fingers, no text, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-digicam-lcd-nostalgic-portrait-comic-shelf"></a>
+### Nostalgic 2012 digicam screen portrait beside comic shelf
+
+<a href="https://x.com/Ciri_ai/status/2055876982630686956"><img src="../../previews/gpt-image-digicam-lcd-nostalgic-portrait-comic-shelf.jpg" width="360"></a>
+
+The prompt nests a photo inside a photo: a close-up of the LCD, with a candid early 2010s snapshot displayed on it. Harsh direct flash, grain and motion blur, plus UI overlays such as a timestamp, exposure data and a battery icon, make it read as a real digicam capture.
+
+GPT Image 2 · Text-to-image · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2055876982630686956) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`digicam`](tags.md#tag-digicam) [`nostalgic`](tags.md#tag-nostalgic) [`flash-photography`](tags.md#tag-flash-photography) [`candid-portrait`](tags.md#tag-candid-portrait) [`camera-ui`](tags.md#tag-camera-ui)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+
+She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+
+The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+
+Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+
+The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+
+Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+```
+
+</details>
+
+<a id="gpt-image-double-exposure-aviator-fashion-portrait"></a>
+### Double exposure fashion portrait with aviator sunglasses
+
+<a href="https://x.com/Anaya_Ai12/status/2062191518975508678"><img src="../../previews/gpt-image-double-exposure-aviator-fashion-portrait.jpg" width="360"></a>
+
+Pairs a large semi transparent profile with a full body figure to build the double exposure, and locks the identity to the uploaded face. A warm sepia and charcoal grade, a golden light leak in one corner and an 85mm lens cue keep the look cinematic.
+
+GPT Image 2 · Edit · Source: [@Anaya_Ai12 on X](https://x.com/Anaya_Ai12/status/2062191518975508678) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`double-exposure`](tags.md#tag-double-exposure) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`sepia`](tags.md#tag-sepia) [`light-leak`](tags.md#tag-light-leak)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression.
+
+The background is a minimalist neutral studio setting, allowing the double-exposure composition to remain the visual focus. The color grading features a sophisticated warm desaturated sepia and charcoal palette, enhanced by a soft golden-orange light-leak flare in the upper-right corner. Professional 85mm lens photography with high-contrast yet soft cinematic lighting accentuates the fabric textures, facial details, and layered portrait effect.
+
+Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazine-cover quality, subtle film grain, cinematic depth, elegant shadows, refined color grading, modern retro-inspired styling, masterpiece composition, ultra-sharp focus, visually striking storytelling, high-end commercial fashion campaign look.
+```
+
+</details>
+
+<a id="gpt-image-fairycore-butterfly-floral-crown-portrait"></a>
+### Fairycore portrait with butterflies and floral crown
+
+<a href="https://x.com/HaniaAi12/status/2062696495741391006"><img src="../../previews/gpt-image-fairycore-butterfly-floral-crown-portrait.jpg" width="360"></a>
+
+The prompt lists concrete hair and gown details such as roses, crystals, feathers and embroidered sheer fabric. It pairs them with a fixed pastel palette and diffused morning light, then closes with photographic terms like bokeh, volumetric lighting and soft focus highlights.
+
+GPT Image 2 · Text-to-image · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2062696495741391006) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`fairycore`](tags.md#tag-fairycore) [`fantasy-portrait`](tags.md#tag-fantasy-portrait) [`pastel`](tags.md#tag-pastel) [`butterflies`](tags.md#tag-butterflies) [`soft-light`](tags.md#tag-soft-light)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
+
+The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.
+```
+
+</details>
+
+<a id="gpt-image-fisheye-mirror-retro-cafe-portrait"></a>
+### Fisheye mirror portrait in a teal retro cafe
+
+<a href="https://x.com/harboriis/status/2049044698900361241"><img src="../../previews/gpt-image-fisheye-mirror-retro-cafe-portrait.jpg" width="360"></a>
+
+Naming the fisheye lens, the round mirror frame and a close leaning pose gives strong distortion and intimacy. Specific set details such as teal subway tiles, pendant lights and yellow tinted glasses, plus a warm moody tone cue, keep the palette cohesive.
+
+GPT Image 2 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2049044698900361241) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`fisheye`](tags.md#tag-fisheye) [`retro-cafe`](tags.md#tag-retro-cafe) [`mirror`](tags.md#tag-mirror) [`portrait`](tags.md#tag-portrait) [`warm-moody`](tags.md#tag-warm-moody)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
+```
+
+</details>
+
+<a id="gpt-image-futuristic-office-businesswoman-portrait"></a>
+### Businesswoman portrait in futuristic glass office
+
+<a href="https://x.com/NadzuAI/status/2087901626891940013"><img src="../../previews/gpt-image-futuristic-office-businesswoman-portrait.jpg" width="360"></a>
+
+The prompt stacks wardrobe, setting, lighting and lens cues (soft cinematic light, shallow depth of field, realistic skin texture) and limits the palette to blue and white tones. It also fixes a 4:5 vertical frame and adds no text and no watermark to keep the output clean.
+
+GPT Image 2 · Text-to-image · Source: [@NadzuAI on X](https://x.com/NadzuAI/status/2087901626891940013) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`corporate-portrait`](tags.md#tag-corporate-portrait) [`business`](tags.md#tag-business) [`photorealistic`](tags.md#tag-photorealistic) [`futuristic-office`](tags.md#tag-futuristic-office) [`vertical`](tags.md#tag-vertical)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyper-realistic HD portrait of a confident young professional businesswoman, elegant modern black blazer over a white blouse, standing in a premium futuristic office with glass walls, subtle AI technology screens and a city skyline in the background. Natural makeup, polished hairstyle, confident expression, professional corporate appearance, cinematic soft lighting, realistic skin texture, shallow depth of field, luxury business atmosphere, sophisticated blue-and-white tones, ultra-detailed, photorealistic, 8K quality, sharp focus, premium LinkedIn and AI startup branding aesthetic, vertical 4:5 composition, no text, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-golden-hour-couple-cinematic-closeup"></a>
+### Golden Hour Couple Close Up at Sunset
+
+<a href="https://x.com/darshal_/status/2049071963520508058"><img src="../../previews/gpt-image-golden-hour-couple-cinematic-closeup.jpg" width="360"></a>
+
+Low sun backlighting with rim light, soft lens flare and shallow depth of field creates a filmic fragrance campaign look. A 50mm lens cue and muted earth tone grading keep skin and hair textures realistic.
+
+GPT Image 2 · Text-to-image · Source: [@darshal_ on X](https://x.com/darshal_/status/2049071963520508058) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`couple`](tags.md#tag-couple) [`golden-hour`](tags.md#tag-golden-hour) [`backlight`](tags.md#tag-backlight) [`cinematic`](tags.md#tag-cinematic) [`close-up`](tags.md#tag-close-up)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic golden-hour close-up of a young couple in an intimate outdoor moment, framed from the chest up. The main focus is a handsome young man with dark brown tousled wavy hair, soft defined jawline, smooth light-tan skin, and a calm, distant expression as he gazes slightly upward and off to the left. He wears a black open-collar button-up shirt with a relaxed, elegant fit. Leaning into him is 1 young woman with long dark brown hair, her face mostly hidden against his shoulder and chest, creating a tender, protective mood; only part of her hair, shoulder, and thin black spaghetti-strap dress are visible. Use warm sunset backlighting with the sun low behind them on the left, creating glowing rim light around their hair and shoulders, soft lens flare, amber highlights, shallow depth of field, and a blurred natural landscape in the background with low hills. The composition should feel romantic, editorial, and filmic, like a luxury fragrance or fashion campaign, with soft skin detail, realistic textures, subtle wind in the hair, muted earth tones, and high-end cinematic color grading. Photorealistic, emotional, intimate, 50mm lens look, ultra-detailed, natural light, soft contrast.
+```
+
+</details>
+
+<a id="gpt-image-ice-blue-hanfu-full-body"></a>
+### Ice blue sequined hanfu full body portrait
+
+<a href="https://x.com/fdtreesky/status/2046508731090018331"><img src="../../previews/gpt-image-ice-blue-hanfu-full-body.jpg" width="360"></a>
+
+The prompt splits into clothing details, material and light, and composition, and names fabric layers and sequin embroidery explicitly. Side light through sheer tulle and an 85mm f/1.8 full body framing keep the translucency and texture readable.
+
+GPT Image 2 · Text-to-image · Source: [@fdtreesky on X](https://x.com/fdtreesky/status/2046508731090018331) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`hanfu`](tags.md#tag-hanfu) [`fashion`](tags.md#tag-fashion) [`full-body`](tags.md#tag-full-body) [`translucent-fabric`](tags.md#tag-translucent-fabric) [`85mm`](tags.md#tag-85mm)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[中文]
+服裝細節： 模特兒身穿一套精緻的淡冰藍色齊胸襦裙，採用多層輕盈的薄紗和絲綢歐根紗材質制成。其寬大的、半透明的廣袖上點綴著如繁星般微小的銀色和淺藍色亮片刺繡，在光線下閃爍（具有銀河般的夢幻感）。抹胸位置有複雜的銀色蕾絲和編織紋理細節，腰帶自然垂落。
+
+材質與光影： 畫面呈現 8k 超高分辨率和對織物微距紋理的極致渲染。光線採用柔和的自然側光（丁達爾效應 Typndall Effect），精準地透射過輕薄的紗布，營造出面料的半透明感（Translucency）和流動感。
+
+構圖與鏡頭： 採用 85mm 黄金人像鏡頭效果，f/1.8 大光圈，全身構圖，模特居中站立
+
+[English]
+Clothing details: The model wears an exquisite pale ice blue chest-high ruqun, made of multiple layers of lightweight tulle and silk organza materials. Its wide, translucent broad sleeves are adorned with tiny silver and light blue sequin embroideries like stars, shimmering under the light (with a galaxy-like dreamy feel). The tube top position has complex silver lace and woven texture details, and the belt falls naturally.
+Material and light and shadow: The image presents 8k ultra-high resolution and extreme rendering of macro textures of the fabric. The lighting uses soft natural side light (Tyndall Effect Typndall Effect), accurately transmitting through the light gauze, creating a sense of translucency (Translucency) and fluidity of the fabric.
+Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large aperture, full-body composition, model standing in the center
+```
+
+</details>
 
 <a id="gpt-image-impasto-oil-portrait-abstract-wall"></a>
 ### Impasto Oil Portrait Against Abstract Wall

@@ -1,6 +1,305 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 122 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 124 条 · [1](image-poster.md) · **2**
+
+<a id="gpt-image-restaurant-shaped-standee-template"></a>
+### 夏日饮品餐饮异形立牌
+
+<a href="https://x.com/MrLarus/status/2059248197910827364"><img src="../../previews/gpt-image-restaurant-shaped-standee-template.jpg" width="360"></a>
+
+用方括号模板预留品牌、产品、卖点和促销字段，可套用到任何菜单。它要求不规则异形轮廓和完整底座，并规定从主标题到主推产品再到价格的阅读顺序。
+
+GPT Image 2 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2059248197910827364) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`standee`](tags.md#tag-standee) [`restaurant`](tags.md#tag-restaurant) [`food-photography`](tags.md#tag-food-photography) [`template`](tags.md#tag-template) [`pop-signage`](tags.md#tag-pop-signage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+请生成一张高完成度的「餐饮异形展架 / 立牌」设计图，用于展示餐饮门店的新品推荐、招牌产品、套餐促销或品牌活动信息。
+
+【基础信息】
+品牌名：【品牌名】
+主标题：【主标题】
+副标题：【副标题】
+辅助短句：【短句1】｜【短句2】｜【短句3】
+主题方向：【主题方向，例如：爆辣夜市风 / 金黄浓郁风 / 清新轻食风 / 山野自然风 / 甜品下午茶风 / 快餐促销风】
+主色调：【主色调】
+辅助色：【辅助色】
+点缀色：【点缀色】
+画幅比例：【建议 3:4 竖版】
+
+【产品内容】
+主推产品：【主推产品】
+辅助产品1：【辅助产品1】
+辅助产品2：【辅助产品2】
+辅助产品3：【辅助产品3】
+辅助产品4：【辅助产品4】
+加料 / 配角产品：【加料或配角产品，例如：饮品 / 小食 / 配菜 / 酱料 / 甜品】
+
+【卖点标签】
+【卖点1】
+【卖点2】
+【卖点3】
+【卖点4】
+【卖点5】
+【卖点6】
+
+【促销信息】
+【促销信息1】
+【促销信息2】
+【促销信息3】
+
+【最重要要求】
+避免生成门店场景效果图或墙上海报展示图。请直接生成“一张完整的异形立牌成品展示图”：
+- 背景必须为纯白色
+- 画面中只保留一个完整的异形餐饮立牌主体
+- 不要餐厅环境
+- 不要商场背景
+- 不要玻璃门、桌椅、墙面、人物、地面透视场景
+- 不要任何真实空间背景
+- 立牌主体必须完整显示
+- 异形轮廓必须完整清晰
+- 底座必须完整露出
+- 整体像一张已经抠好的门店物料成品图 / 设计提案展示图 / 电商展示图
+
+【画面形式】
+这是一张“门店异形展架 / 立牌”的完整设计，避免普通矩形海报处理。
+整体应采用明显的“不规则异形裁切轮廓”，有完整外边缘，边缘可带白色或浅色描边，具有真实门店物料感。
+立牌应有明确底座，整体像可落地摆放的 KT 板 / 泡沫板 / 亚克力 / 写真喷绘展架成品。
+
+【构图结构】
+整体采用竖版、中心聚焦、信息分层清楚的结构：
+
+1. 顶部区域：
+放超大主标题，标题必须醒目、有冲击力、有餐饮 POP 招贴感。
+字体可以厚重、手写感、招贴感、潮流感，但要清晰易读。
+标题是整张图的第一视觉焦点。
+
+2. 中部核心区域：
+中间放最大主推产品，作为主视觉主体。
+主菜必须最大、最饱满、最诱人，突出食欲感。
+围绕主菜搭配 2~5 个辅助产品，形成丰富的产品组合，前后层次明确，主次分明。
+
+3. 周边信息区域：
+在主菜和辅助产品四周加入少量标签元素、推荐标、贴纸框、手写箭头、卖点说明、小标题、小气泡标签等，使其具有“餐饮门店促销物料”的视觉特征。
+但要控制层级，做到“热闹但不乱”。
+
+4. 底部促销区域：
+底部放价格信息、套餐信息、活动信息或新品尝鲜信息。
+价格数字要相对突出，易读清晰。
+如果没有特别要求，默认不要二维码。
+
+【视觉风格要求】
+整体风格应属于“餐饮转化型视觉 + 门店 POP 异形立牌”：
+- 强调食欲感
+- 强调信息可读性
+- 强调商业落地感
+- 强调门店物料感
+- 强调异形轮廓感
+
+避免极简杂志海报、电商详情页、纯平面插画海报方向。
+
+【食物表现要求】
+所有食物必须采用真实商业美食摄影质感：
+- 食物清晰真实
+- 有食材颗粒感
+- 有酱汁、汤汁、油光、热气、层次感
+- 有丰富细节，如葱花、辣椒、芝士、香草、蔬菜、水果、虾仁、肉块等
+- 主食要饱满，不能扁平
+- 看起来必须“能激发食欲”
+禁止过度插画化、卡通化、低质拼贴化。
+
+【版式与信息层级】
+整张立牌的阅读顺序应为：
+主标题 → 主推产品 → 辅助产品 → 卖点标签 → 价格 / 活动信息
+
+信息量可以较丰富，但必须有明确层级：
+- 主标题最大
+- 主菜次大
+- 辅助菜稍小
+- 卖点标签较小
+- 底部促销清晰醒目
+
+【适配范围】
+该模板需要适用于不同主题餐饮内容，例如：
+- 面 / 饭 / 粉 / 小吃
+- 火锅 / 菌汤 / 地方菜
+- 轻食 / 沙拉 / 咖啡简餐
+- 早餐 / 套餐 / 快餐
+- 茶饮 / 甜品 / 下午茶
+- 节日促销 / 新品上市 / 爆品推荐 / 双人套餐
+
+【输出要求】
+请输出一张高清、清晰、商业完成度高的异形立牌设计图，满足以下条件：
+- 白色背景
+- 完整异形轮廓
+- 完整底座
+- 只展示立牌本体
+- 不带真实场景环境
+- 不带人物
+- 不带门店背景
+- 默认不带二维码
+- 适合用于系列案例展示、设计提案、社交媒体发布、模板复用
+```
+
+</details>
+
+<a id="gpt-image-rio-ticket-pop-up-diorama-poster"></a>
+### 从旅行票据中升起的里约微缩立体场景
+
+<a href="https://x.com/john_my07/status/2091408386466214031"><img src="../../previews/gpt-image-rio-ticket-pop-up-diorama-poster.jpg" width="360"></a>
+
+前景手持做旧票据来确立比例，微缩城市从票据后方以纸、木、石膏的分层结构升起并带有投影。逐一指定每幅速写在奶油色纸面上的位置，再要求中心清晰、四周略虚，让版面保持可控。
+
+GPT Image 2 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2091408386466214031) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`travel-poster`](tags.md#tag-travel-poster) [`diorama`](tags.md#tag-diorama) [`paper-craft`](tags.md#tag-paper-craft) [`miniature`](tags.md#tag-miniature) [`vintage`](tags.md#tag-vintage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background.
+
+In the foreground, a realistic human hand holds a vintage Brazilian travel ticket or Rio-themed transit card vertically on the left side. Give the card aged paper texture, subtle printing imperfections, elegant typography, and authentic-looking travel details. From behind the card, a miniature Rio de Janeiro landscape physically rises outward like an intricate pop-up diorama.
+
+Make Christ the Redeemer the dominant central landmark, positioned high above a miniature cityscape with lush green mountains surrounding it. Below, build a tiny realistic Rio street featuring a classic yellow taxi, colorful buildings, palm trees, pedestrians, cyclists, street lamps, tiled sidewalks, and small Brazilian urban details. Add Copacabana beach elements in the distance with tiny umbrellas, beachgoers, and a glimpse of the Atlantic Ocean. Layer the architecture and terrain so everything appears physically constructed from paper, wood, plaster, and miniature materials, with convincing depth, cast shadows, overlapping surfaces, and a slight three-quarter perspective.
+
+Around the main 3D scene, incorporate delicate black, charcoal, and muted sepia hand-drawn travel illustrations on the cream paper. Include a small Sugarloaf Mountain sketch in the upper left, an artistic Copacabana promenade illustration in the upper right, a detailed Selarón Steps sketch along the right side, and a small Ipanema beachfront skyline drawing near the bottom. Add subtle handwritten travel notes, tiny map markings, architectural outlines, compass symbols, postage-stamp details, and understated Brazilian travel annotations.
+
+Keep the composition refined rather than crowded. Blend realistic miniature photography with vintage travel-journal design, tactile paper fibers, faint ink bleed, imperfect hand-drawn lines, warm natural studio lighting, gentle shadows, subtle film grain, and a sophisticated cream, charcoal, muted green, ocean blue, and Brazilian yellow palette.
+
+The final image should feel like a premium collectible Rio de Janeiro travel postcard transformed into a physical miniature world, with the central diorama sharply detailed and the surrounding illustrations slightly softer. Highly realistic human hand and fingers, believable miniature materials, cinematic product photography, editorial travel-magazine aesthetic, shallow depth of field, ultra-fine textures, photorealistic 3D details, vertical 4:5 composition, 8K quality.
+```
+
+</details>
+
+<a id="gpt-image-santorini-family-travel-diary-print"></a>
+### 圣托里尼家庭旅行日记 照片叠印孔版版画
+
+<a href="https://x.com/frametheory058/status/2098253373237875074"><img src="../../previews/gpt-image-santorini-family-travel-diary-print.jpg" width="360"></a>
+
+撕纸过渡把同一场景分成两半，上方是自然的日落照片，下方是同一家人的藏青、赤陶与象牙色孔版印刷版本。要求上下两部分人物身份一致，让版画读起来像是照片的重新讲述。
+
+GPT Image 2.5 · 文生图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2098253373237875074) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`travel-poster`](tags.md#tag-travel-poster) [`santorini`](tags.md#tag-santorini) [`risograph`](tags.md#tag-risograph) [`family`](tags.md#tag-family) [`torn-paper`](tags.md#tag-torn-paper)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Design a vertical 4:5 Santorini travel diary. Above, show a fictional couple kissing their smiling daughter’s cheeks at sunset, among white houses, blue domes and sea. Use natural photographic skin and hands. Below a torn-paper transition, reinterpret the same family as a navy, terracotta and ivory screen print with rough ink and risograph texture. Keep identities consistent. Add only “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS” and “A SMALL DIARY — #001.” Use sparse stamps and taped photos. No Chinese text, rigid half split, excessive stickers or distorted anatomy.
+```
+
+</details>
+
+<a id="gpt-image-sci-fi-momotaro-key-visual"></a>
+### 科幻桃太郎动画主视觉海报
+
+<a href="https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761"><img src="../../previews/gpt-image-sci-fi-momotaro-key-visual.jpg" width="360"></a>
+
+提示词点明是虚构动画的主视觉图，并要求角色、背景、标志和宣传语一并出现在同一幅插画里，模型因此会生成带标题字标和标语的完整海报版式。一个主题加一句世界观目标就足以得到连贯的构图。
+
+GPT Image 2 · 文生图 · 出处: [@SSSS_CRYPTOMAN on X](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`key-visual`](tags.md#tag-key-visual) [`sci-fi`](tags.md#tag-sci-fi) [`anime-poster`](tags.md#tag-anime-poster) [`logo-design`](tags.md#tag-logo-design) [`bilingual-prompt`](tags.md#tag-bilingual-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[中文]
+设计虚构动画的钥匙视觉图。主题是「科幻桃太郎」。设计有魅力的角色、背景、标志和宣传语，以一幅美丽插画的形式完成，让世界观在一张图中传达出来。
+
+[English]
+Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowing the worldview to be conveyed in a single image.
+```
+
+</details>
+
+<a id="gpt-image-six-color-low-angle-fashion-campaign"></a>
+### 六色低机位时装广告大片
+
+<a href="https://x.com/ImagineArt_X/status/2097520463811608862"><img src="../../previews/gpt-image-six-color-low-angle-fashion-campaign.jpg" width="360"></a>
+
+地面机位加24mm镜头并倾斜十五度,形成强烈的仰视透视。六种明确的服装颜色配单一纯钴蓝天空,色彩可控,每个人姿势各不相同。
+
+GPT Image 2.5 · 文生图 · 出处: [@ImagineArt_X on X](https://x.com/ImagineArt_X/status/2097520463811608862) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`fashion`](tags.md#tag-fashion) [`campaign`](tags.md#tag-campaign) [`low-angle`](tags.md#tag-low-angle) [`color-palette`](tags.md#tag-color-palette) [`group-shot`](tags.md#tag-group-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+a fashion campaign for an invented label, shot from a camera on the ground with a 24mm lens tilted fifteen degrees. Six people in electric blue, tomato red, lime green, hot pink, butter yellow and lilac, all posed differently, against plain cobalt sky.
+```
+
+</details>
+
+<a id="gpt-image-streetwear-campaign-tagline"></a>
+### 街头服饰广告大片，标语只出现一次
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="../../previews/gpt-image-streetwear-campaign-tagline.jpg" width="360"></a>
+
+标语加引号，并要求只出现一次，再禁止多余文字、水印和无关标志。凡是有固定文案的广告都可以照这个写。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+[`ad`](tags.md#tag-ad) [`fashion`](tags.md#tag-fashion) [`text-render`](tags.md#tag-text-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
+
+</details>
+
+<a id="gpt-image-strength-dumbbell-fitness-campaign-poster"></a>
+### 巨型哑铃红色健身品牌海报
+
+<a href="https://x.com/AIwithSynthia/status/2048601383545577614"><img src="../../previews/gpt-image-strength-dumbbell-fitness-campaign-poster.jpg" width="360"></a>
+
+用一个超大道具加背景大字建立清晰的视觉层级,并逐一写明模特的肢体姿势。极简黑色影棚、反光地面和单一红色调让画面干净而有高级感。
+
+GPT Image 2 · 文生图 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2048601383545577614) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`fitness`](tags.md#tag-fitness) [`campaign`](tags.md#tag-campaign) [`typography`](tags.md#tag-typography) [`studio`](tags.md#tag-studio) [`red-black`](tags.md#tag-red-black)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
+```
+
+</details>
+
+<a id="gpt-image-surreal-anime-uncle-posters"></a>
+### 四张带日文标题的超现实动画海报
+
+<a href="https://x.com/aiehon_aya/status/2046499177916682600"><img src="../../previews/gpt-image-surreal-anime-uncle-posters.jpg" width="360"></a>
+
+要求一次生成四种变体并拼成一张图，把设定写成认真又荒诞的动画电影。指定日文标题和播出信息，让模型补全带署名与播出日期的完整海报排版。
+
+GPT Image 2 · 文生图 · 出处: [@aiehon_aya on X](https://x.com/aiehon_aya/status/2046499177916682600) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`movie-poster`](tags.md#tag-movie-poster) [`anime`](tags.md#tag-anime) [`japanese-typography`](tags.md#tag-japanese-typography) [`surreal`](tags.md#tag-surreal) [`grid`](tags.md#tag-grid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[中文]
+一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。
+
+[English]
+A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.
+```
+
+</details>
 
 <a id="gpt-image-surreal-self-head-seat-campaign-poster"></a>
 ### 坐在自己巨大头颅上的男子海报

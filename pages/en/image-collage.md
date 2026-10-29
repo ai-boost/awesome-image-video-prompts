@@ -1,6 +1,6 @@
 # Collage
 
-[Back to the list](../../README.md) · All 47 entries
+[Back to the list](../../README.md) · All 48 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine accidental phone snapshots of any character
@@ -878,6 +878,147 @@ Arrange all eight photographs inside distressed black analog contact-sheet borde
 At the bottom, handwritten: “A thousand little moments with you ♡” with a small handwritten date.
 
 The overall result should feel like a real couple accidentally created the perfect roll of film, intimate, youthful, nostalgic, cute and highly shareable—not a polished commercial photoshoot. Premium editorial composition, believable analog photography, extremely detailed faces, clean tonal separation, excellent contrast and natural cinematic color grading, 8K-quality realism, 9:16 vertical, absolutely no obvious AI artifacts.
+```
+
+</details>
+
+<a id="gpt-image-photo-booth-couple-migrating-contact-sheet"></a>
+### Photo booth story where a couple gradually merges
+
+<a href="https://x.com/frametheory058/status/2100583390806442370"><img src="../../previews/gpt-image-photo-booth-couple-migrating-contact-sheet.jpg" width="360"></a>
+
+A row by row storyboard fixes each frame's position and emotion, so the man crosses the divider and leaves the right column empty. A strict identity lock plus explicit bans on duplicated people keep both faces consistent.
+
+GPT Image 2.5 · Text-to-image · Source: [@frametheory058 on X](https://x.com/frametheory058/status/2100583390806442370) · 64 likes on 2026-10-28
+
+[`photo-booth`](tags.md#tag-photo-booth) [`contact-sheet`](tags.md#tag-contact-sheet) [`couple`](tags.md#tag-couple) [`storyboard`](tags.md#tag-storyboard) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-photorealistic vertical romantic photo-booth contact-sheet collage, 2 columns × 5 rows, showing ONE continuous visual story involving the exact same young adult couple throughout.
+
+CORE VISUAL IDEA:
+The two columns are not ten unrelated photos. They represent two separate adjacent photo-booth spaces. The young woman begins entirely inside the LEFT column and the young man begins entirely inside the RIGHT column. As the rows move downward, the man gradually leaves his own frame and physically moves into the woman’s frame. His original RIGHT frame therefore becomes progressively emptier. This visual migration is the central concept and MUST remain logically consistent.
+
+CHARACTERS:
+A very cute young adult East Asian couple, approximately 20–23 years old, both clearly adults.
+
+GIRL:
+Naturally adorable Korean-looking young woman, soft youthful facial features, expressive dark-brown eyes, realistic fair skin with visible pores and subtle natural texture, slightly rosy cheeks, dark-brown hair in a loose messy bun with wispy strands around her face. Oversized black knitted sweater. Minimal natural makeup. Sweet, shy, playful personality.
+
+BOY:
+Cute Korean-looking young man, youthful but clearly adult, soft masculine facial features, warm dark eyes, naturally messy fluffy dark hair, realistic skin texture. Light-grey oversized hoodie over a simple white T-shirt. Gentle, slightly shy personality.
+
+STRICT IDENTITY LOCK:
+The SAME woman and SAME man must appear in every row. Identical faces, hairstyle, clothing, skin tone and proportions throughout. No face drift, no hairstyle changes, no outfit changes.
+
+STORYBOARD:
+
+ROW 1 — TWO STRANGERS
+LEFT: girl alone, chest-up portrait, casually looking toward the right edge as though she has noticed someone.
+RIGHT: boy completely visible and centered in his own frame, facing camera naturally.
+They are physically separated by the vertical black divider.
+Small handwritten text:
+LEFT: “just a girl… ♡”
+RIGHT: “just a guy…”
+
+ROW 2 — THEY NOTICE EACH OTHER
+LEFT: girl turns her eyes and face toward him with a tiny restrained smile.
+RIGHT: boy turns toward the girl, leaning slightly toward the LEFT boundary for the first time.
+He is still mostly inside his own frame.
+Text:
+LEFT: “who noticed something”
+RIGHT: “…and looked twice ♡”
+
+ROW 3 — CROSSING THE LINE
+This is the important transition.
+The boy has moved substantially LEFT and is now entering the girl’s frame across the central divider. The couple are close together, looking directly at each other and smiling naturally.
+His RIGHT frame must now contain noticeably more empty background because he has physically moved away from it.
+Do NOT duplicate him.
+Text:
+LEFT: “then we smiled ♡”
+RIGHT empty area: “and suddenly it made sense”
+
+ROW 4 — HE HAS LEFT HIS FRAME
+The boy is now almost COMPLETELY inside the LEFT frame with the girl.
+They share one soft, natural kiss, photographed candidly rather than dramatically.
+Only a tiny portion of his shoulder/body may intersect the central border.
+The RIGHT frame is approximately 85–90% EMPTY — just clean studio background.
+This empty frame is intentional and visually important.
+Text:
+LEFT: “same weird thoughts ♡”
+RIGHT empty frame: “different chaos ♡”
+
+ROW 5 — FINAL PAYOFF
+The boy has now COMPLETELY abandoned his original right-hand frame.
+Both characters are entirely together inside the LEFT frame.
+Instead of another kiss, create an irresistibly cute candid moment: he hugs her tightly from behind while giving her a small forehead/temple kiss; she scrunches her cheeks slightly, closes her eyes and smiles naturally.
+Their body language should feel spontaneous, warm and genuinely affectionate.
+RIGHT frame must be COMPLETELY EMPTY except for:
+“more stories ♡”
+
+Text in left:
+“same people…”
+
+IMPORTANT:
+Never place a second copy of either character in the right frame after the man moves left.
+Never repeat the kissing image across both columns.
+The empty space tells the story.
+
+DESIGN:
+Minimal premium analog contact-sheet aesthetic inspired by an old 35mm film proof sheet, but make the composition completely original.
+
+Warm off-white / soft beige seamless studio background.
+Deep black film borders.
+Thin slightly imperfect frame separators.
+Tiny amber film-number markings and subtle sprocket details along outer edges.
+Very subtle authentic analog grain, dust and microscopic scratches.
+Small pieces of aged masking tape.
+A few torn-paper notes.
+Tiny hand-drawn hearts.
+Small dried flowers near one bottom corner.
+Only a handful of decorations — never clutter the photographs.
+
+Margin notes:
+“Good people, good times ♡”
+“You + Me Always ♡”
+“Collect moments, not things ♡”
+
+BOTTOM HERO MESSAGE:
+Place a torn warm-ivory paper strip across the lower border with handwritten text:
+
+“you + me = a better kind of chaos ♡”
+
+PHOTOGRAPHY:
+100% believable real-human photography.
+Premium editorial photo-booth portraits shot on a full-frame camera with approximately 50–85mm portrait-lens character.
+Soft warm studio key light, subtle fill, realistic shadow falloff.
+Natural skin pores, peach fuzz, individual hair strands, realistic knitted fabric and hoodie texture.
+Slightly imperfect candid expressions.
+Warm cinematic color grade with creamy highlights, rich blacks and subtle analog grain.
+Faces remain sharp while retaining natural photographic softness.
+
+The first row should feel slightly awkward and separated.
+Every subsequent row becomes visually warmer and physically closer.
+The final row should provide the strongest emotional payoff.
+
+NO CGI.
+NO illustration.
+NO anime.
+NO plastic skin.
+NO excessive beauty retouching.
+NO duplicated people.
+NO extra fingers or limbs.
+NO random additional characters.
+NO identity changes.
+NO duplicated poses.
+NO repeated kiss.
+NO decorative overload.
+NO characters appearing inside intentionally empty right-side frames.
+
+FINAL FEEL:
+A photograph someone would instantly stop scrolling to understand — first they notice two separate people, then realize the man is literally disappearing from his own frames because he is moving into hers. Cute, clever, romantic, nostalgic, highly polished and visually understandable even before reading the handwritten text.
 ```
 
 </details>
