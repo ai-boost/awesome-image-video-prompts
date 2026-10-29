@@ -1,0 +1,24 @@
+id: nano-banana-striped-tee-blue-eyes-portrait
+title:
+  en: Smiling woman with black hair in green striped tee
+  zh: 黑长发女性身穿绿白条纹T恤微笑
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- photorealism
+- 85mm-lens
+- soft-sunlight
+source:
+  name: '@Zarlish_Shahid on X'
+  url: https://x.com/Zarlish_Shahid/status/2079734611962405293
+  credit: Zarlish
+  likes: 82
+  captured: '2026-10-29'
+  posted: '2026-07-22'
+notes:
+  en: Camera and lens cues such as DSLR, 85mm, shallow depth of field and soft sunlight lock in a realistic photo style. The itemized appearance traits give the face a specific, consistent description.
+  zh: 相机与镜头参数（DSLR、85mm、浅景深、柔和阳光）锁定写实摄影风格，逐项描述的外貌特征让人物形象具体且稳定。
+prompt: |
+  A breathtakingly beautiful young woman with long silky black hair, mesmerizing large crystal-blue eyes, flawless fair glowing skin, soft rosy pink lips, naturally defined eyebrows, and a gentle heartwarming smile. She is wearing a stylish green and white T-shirt. Ultra-realistic face, perfect symmetrical features, soft natural makeup, cinematic lighting, shallow depth of field, elegant pose, luxurious hair, photorealistic, DSLR portrait, 85mm lens, soft sunlight, highly detailed skin texture, masterpiece, 8K, ultra HD, realistic photography.

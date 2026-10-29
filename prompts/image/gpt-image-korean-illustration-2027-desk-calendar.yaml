@@ -1,0 +1,24 @@
+id: gpt-image-korean-illustration-2027-desk-calendar
+title:
+  en: 2027 desk calendar with twelve illustrated figures in outfits
+  zh: 2027年桌面日历，十二幅插画人物
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- calendar
+- korean-illustration
+- doodle
+- pastel-ink
+source:
+  name: '@FutureVibesAi on X'
+  url: https://x.com/FutureVibesAi/status/2062824885194461244
+  credit: Future Vibes AI - Testing & Educating
+  likes: 162
+  captured: '2026-10-29'
+  posted: '2026-06-05'
+notes:
+  en: A reference photo anchors each character's features, while the style stack of pastel and ink splatter, comic sketch texture and a plain white background keeps all twelve months visually consistent. Naming the month range and A4 vertical format tells the model to lay out one calendar grid per month on a single sheet.
+  zh: 参考照片锁定人物特征，粉彩与墨水飞溅、漫画速写质感和纯白背景的风格组合让十二个月的画面保持统一。明确写出月份范围与 A4 竖版格式，模型会把每月的人物与日历格放在同一张页面上。
+prompt: |
+  Please use this photo (Can put you Image in the reference) to create a desktop calendar for January-December 2027. Format: A4 vertical. Features: Korean illustration style, distinct character features, natural expressions, full-body composition, dynamic poses, exquisite clothing details, hand-drawn doodle style, splatter brushstrokes, free lines, a mix of pastels and ink, comic sketch texture, simple white background, symbolic elements around the edges, strong atmosphere, high detail, high quality.

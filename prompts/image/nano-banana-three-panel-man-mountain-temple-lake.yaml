@@ -1,0 +1,32 @@
+id: nano-banana-three-panel-man-mountain-temple-lake
+title:
+  en: Same man across mountain, temple and lakeside panels
+  zh: 同一男子出现在山脉、古庙与湖畔三幅画面中
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- collage
+- portrait
+- consistency
+- fashion
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2040639446044102992
+  credit: Mr Das
+  likes: 101
+  captured: '2026-10-29'
+  posted: '2026-04-05'
+notes:
+  en: Repeating one fixed face description and saying it comes from the same reference photo keeps identity steady across panels. Each panel then gets its own location, outfit and grade, listed top to bottom in a 9:16 frame, so the model reads one stacked collage.
+  zh: 重复同一套固定的人脸描述，并声明它们来自同一张参考照，可以让三个画面中的人物保持一致。每个画面再单独指定场景、服装和调色，并按从上到下的顺序排列在9:16画幅中，让模型把它理解为一张完整拼贴。
+prompt: |
+  Create a hyper-realistic three-panel vertical cinematic collage in 9:16 aspect ratio, editorial fashion photography style. The collage consists of three distinct vertical frames stacked seamlessly, each featuring the exact same man with consistent face, skin tone, short black hair, sharp jawline, and intense gaze directly at the viewer, as if from the same reference photo.
+
+  Top panel: The man stands confidently on a misty mountain ridge at sunrise, dramatic Himalayan peaks in the background with golden light piercing through low clouds. He wears a rugged dark olive green tactical field jacket with rolled sleeves, black cargo pants, and sturdy hiking boots. Cool blue-gray color grading with subtle film grain.
+
+  Middle panel: The man leans against an ancient stone pillar inside a grand abandoned temple in a dense tropical jungle, soft diffused sunlight filtering through overgrown vines and carved arches. He wears a lightweight white linen button-up shirt (slightly unbuttoned at the top) tucked into slim khaki trousers, with brown leather loafers. Warm earthy tones with teal shadows and cinematic haze.
+
+  Bottom panel: The man walks along a serene lakeside at golden hour, crystal-clear water reflecting snow-capped mountains in the distance, surrounded by pine trees. He wears a black merino wool turtleneck sweater layered under a tailored charcoal wool overcoat, dark jeans, and polished Chelsea boots. Moody teal-orange cinematic grading with soft bokeh and gentle film grain.
+
+  Maintain perfect facial consistency across all three panels — same man, same reference face, no variations in features. Ultra-detailed skin texture, realistic fabric details, natural lighting per environment. Cinematic color grading, subtle film grain, editorial composition, high-end fashion photography aesthetic, shot on 35mm film, 4k resolution, photorealistic, masterpiece.

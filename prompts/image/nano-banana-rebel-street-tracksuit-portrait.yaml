@@ -1,0 +1,27 @@
+id: nano-banana-rebel-street-tracksuit-portrait
+title:
+  en: Woman in teal track jacket against torn street posters
+  zh: 身穿青绿色运动夹克的女子，背后是撕裂的街头海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- streetwear
+- typography
+- collage
+- editorial
+source:
+  name: '@Maercihh on X'
+  url: https://x.com/Maercihh/status/2034530612477034796
+  credit: Maercih
+  likes: 219
+  captured: '2026-10-29'
+  posted: '2026-03-19'
+notes:
+  en: The prompt spells out the exact headline words REBEL STREET, POWER and ATTITUDE and locks the poster palette to red, white and black, so the type stays legible and on-palette. Each wardrobe piece is listed separately, which keeps the outfit details stable in the output.
+  zh: 提示词原样指定标题文字 REBEL STREET、POWER 和 ATTITUDE，并把海报配色锁定为红、白、黑，使字体清晰且配色统一。服装逐件列明（夹克、裤子、耳环、项链），输出中的主体细节因此保持稳定。
+prompt: |
+  {
+     "A cinematic editorial portrait of a young, attractive fair-skinned woman with messy, wavy black hair. She is wearing a vintage teal and gold Adidas track jacket with orange stripes, matching track pants, gold hoop earrings, and a thick gold chain necklace. She is looking at the camera with a confident, rebellious expression. The background is a grunge collage of layered, torn street posters in red, white, and black. Bold typography is visible on the posters, featuring the prominent text 'REBEL STREET' at the top, along with fragmented words like 'POWER' and 'ATTITUDE'. The overall aesthetic is urban streetwear, featuring gritty textures and warm, dramatic lighting.",
+    "caption": "Rebel Street: Unapologetic power and attitude."
+  }

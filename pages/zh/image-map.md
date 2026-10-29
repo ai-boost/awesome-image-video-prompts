@@ -1,6 +1,6 @@
 # 地图
 
-[返回目录](../../README_zh.md) · 全部 10 条
+[返回目录](../../README_zh.md) · 全部 12 条
 
 <a id="gpt-image-city-on-map"></a>
 ### 你的城市从地图上长出来
@@ -62,6 +62,34 @@ OPTIONAL DETAILS:
 [LANDMARK 3]
 [LOCAL CULTURAL ELEMENT]
 [NATURAL LANDMARK]
+```
+
+</details>
+
+<a id="nano-banana-treasure-map-parchment"></a>
+### 带发光 X 标记的立体藏宝图
+
+<a href="https://x.com/AllaAisling/status/2027140622252179959"><img src="../../previews/nano-banana-treasure-map-parchment.jpg" width="360"></a>
+
+先锁定羊皮纸底图，再写明每个地图元素的实体效果，例如撕边变悬崖、咖啡渍变湖泊，让平面地图变成具体场景。烛光、微缩探险队的构图和发光的 X 标记则把画面推向立体的场景模型感。
+
+Nano Banana 2 · 文生图 · 出处: [@AllaAisling on X](https://x.com/AllaAisling/status/2027140622252179959) · 378 赞，统计于 2026-10-29
+
+[`treasure-map`](tags.md#tag-treasure-map) [`parchment`](tags.md#tag-parchment) [`diorama`](tags.md#tag-diorama) [`firefly`](tags.md#tag-firefly)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Gemini 3.1 (Nano Banana 2) is now in Firefly.
+First image is Gemini 3.1, second image is Gemini 3, same prompt.
+Which one do you like best?
+
+Prompt Studio: Treasure Map, with Nano Banana, in Firefly
+
+A hand-drawn treasure map on aged parchment, with the adventure erupting into three-dimensional quest. {STARTING_POINT} rises at the map's edge with {DEPARTURE_SCENE}, the dotted path becomes an actual trail traversing {TERRAIN_1} with {DANGER_1}, passing {LANDMARK_1} where {OBSTACLE_1} awaits. {TERRAIN_2} features {WILDLIFE_1} and {ENVIRONMENTAL_HAZARD}. The X marking the spot glows beneath {FINAL_LOCATION}, treasure partially visible, {GUARDIAN_ELEMENT} protecting it. Miniature expedition party frozen mid-journey at various points along the route. Torn edges of the map become cliffs. Coffee stains become lakes. Burn marks become scorched earth from battles past. Candlelight flicker, adventure novel lighting, 8K, the map as the story it promises.
+
+See ALTs for ideas 👇
+@AdobeFirefly
 ```
 
 </details>
@@ -196,6 +224,25 @@ A National Park trail map unfolded on a picnic table, with the wilderness rising
 
 Check ALTs for ideas 👇
 @AdobeFirefly
+```
+
+</details>
+
+<a id="gpt-image-hand-drawn-isometric-london-map"></a>
+### 手绘等距伦敦地图标注主要地标
+
+<a href="https://x.com/TechieBySA/status/2066204461270224942"><img src="../../previews/gpt-image-hand-drawn-isometric-london-map.jpg" width="360"></a>
+
+提示词使用 [CITY] 占位符并指定鸟瞰视角，同一模板可生成任意城市的地图。笔墨编辑插画风格、暖色低饱和配色与白色背景共同定调，并要求标注地标、街道、河流和公园，使地图具有清晰的图例式结构。
+
+GPT Image 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2066204461270224942) · 168 赞，统计于 2026-10-29
+
+[`isometric`](tags.md#tag-isometric) [`hand-drawn`](tags.md#tag-hand-drawn) [`city-map`](tags.md#tag-city-map) [`pen-and-ink`](tags.md#tag-pen-and-ink)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+“A detailed hand-drawn isometric illustrated map of [CITY], pen-and-ink editorial style, bird’s eye view, featuring iconic landmarks, streets, rivers and parks labeled in clean typography, warm muted color palette, white background, 1080x1080.”
 ```
 
 </details>

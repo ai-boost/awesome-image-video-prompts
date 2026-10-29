@@ -1,0 +1,24 @@
+id: nano-banana-subway-focus-dreams-poster
+title:
+  en: Woman on subway platform with street art typography poster
+  zh: 地铁站台女性与街头艺术排版海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- poster
+- typography
+- street art
+- portrait
+source:
+  name: '@AIwithZeeshi on X'
+  url: https://x.com/AIwithZeeshi/status/2082061700438651277
+  credit: Zeeshi
+  likes: 127
+  captured: '2026-10-29'
+  posted: '2026-07-28'
+notes:
+  en: A motion blurred train behind a sharp subject sets the scene, and the prompt names each text line with its font style and colour so the type hierarchy holds. Listing the splashes, grid overlays and vertical side text as separate instructions keeps the layout balanced.
+  zh: 用动态模糊的列车衬托清晰主体，并逐条写明每行文字的字体风格和颜色，使排版层级稳定。把泼墨、网格和侧边竖排文字分开描述，有助于保持构图平衡。
+prompt: |
+  A cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing train. Her face is clear and sharp, featuring delicate freckles, soft makeup, and a calm, slightly pensive expression. Add bold red, black, and gray paint splashes with geometric circles, lines, and grid overlays for a modern urban street-art aesthetic. Include the typography: "FOCUS" in large cream uppercase letters, "on your" in red brush script, and "Dreams" in elegant black script, along with the motivational text "DISCIPLINE TODAY • STRENGTH TOMORROW • LEGACY FOREVER", vertical "STAY FOCUSED" on the right, subtle dot accents centered at the bottom. Style it as a luxury, magazine-quality, high-resolution graphic design poster with a clean, balanced composition.

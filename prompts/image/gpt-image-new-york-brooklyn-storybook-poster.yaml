@@ -1,0 +1,24 @@
+id: gpt-image-new-york-brooklyn-storybook-poster
+title:
+  en: Child on Brooklyn street under glowing NEW YORK lettering
+  zh: 布鲁克林街头仰望发光 NEW YORK 字样的孩子
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- storybook
+- glowing-outline
+- children-illustration
+- new-york
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2078485584717271512
+  credit: Zar⭕on
+  likes: 91
+  captured: '2026-10-29'
+  posted: '2026-07-18'
+notes:
+  en: Glowing contour lines and a wobbly hand-lettered title sell the childlike look without needing a specific art style name. Pinning a full-body view and a 3:4 vertical format keeps the composition ready to use as a poster.
+  zh: 发光轮廓线与歪斜的手写标题营造童趣, 无需指定具体画风名称。明确全身构图与 3:4 竖版比例, 让画面可直接用作海报。
+prompt: |
+  A cute little child in a comfy taxi-yellow hoodie, denim shorts and white sneakers standing on a Brooklyn cobblestone street, looking up at the Brooklyn Bridge, minimalist children's drawing style, thick white lines, glowing contours. At the top of the poster, the city name "NEW YORK" hand-lettered in a cute rounded playful children's font, slightly wobbly like a child's handwriting, with thick glowing white strokes. The bridge's gothic arches and the Manhattan skyline drawn as simple, naive childlike shapes with luminous white outlines. The background is softly blurred with steel-blue and warm brick-red splashes, no architectural detail, only color patches. Floating elements like tiny yellow taxis, drifting pigeons, and small glowing stars add a whimsical touch. Full-body view, warm and simple aesthetic, vertical 3:4 poster.

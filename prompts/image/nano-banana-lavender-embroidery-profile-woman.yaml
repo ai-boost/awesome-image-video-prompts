@@ -1,0 +1,53 @@
+id: nano-banana-lavender-embroidery-profile-woman
+title:
+  en: Profile woman in embroidered lavender textile landscape
+  zh: 刺绣薰衣草纺织风景中的侧影女子
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- textile
+- embroidery
+- fantasy
+- portrait
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2068663135909888388
+  credit: Mr. Tariq
+  likes: 70
+  captured: '2026-10-29'
+  posted: '2026-06-21'
+notes:
+  en: Naming the materials (embroidery, lace, felt, stitched appliqué) and asking for visible stitching pushes the model from painting toward a real textile look. A side profile with closed eyes in a vertical frame keeps the figure readable against the busy countryside.
+  zh: 明确列出刺绣、蕾丝、毛毡和贴布等材质，并要求可见针脚，使模型从绘画转向真实的织物质感。侧面、闭眼的人物姿态配合竖版构图，让人物在繁密的田园背景中依然清晰。
+prompt: |
+  Gpt Image 2 | Nano banana 2 | Grok | Gemini Prompt 👇
+
+  Create an enchanting ultra-detailed textile fantasy artwork that looks entirely handcrafted from luxurious fabrics, embroidery, lace, wool, silk, felt, and needlework. A graceful young woman in profile stands in a dreamy countryside landscape. She wears a flowing lavender dress adorned with delicate embroidered flowers and butterflies, layered with intricate ivory lace.
+
+  **Style:**
+  luxury textile art, fabric collage masterpiece, embroidery illustration, needle-felted fantasy art, handcrafted couture artwork, mixed textile media, fairy-tale elegance, romantic folk art.
+
+  **Composition:**
+  vertical portrait composition, elegant woman in side profile with eyes closed, surrounded by blooming wildflowers, rolling hills, flowering trees, tiny countryside cottages, soft clouds, and delicate birds.
+
+  **Materials & Texture:**
+  every element created from fabric, embroidery threads, lace, felt, wool, stitched appliqué, crochet details, hand-sewn textures, layered textiles, visible stitching, dimensional handcrafted appearance.
+
+  **Color Palette:**
+  lavender, lilac, blush pink, soft sage green, ivory cream, warm beige, pastel violet, muted gold accents.
+
+  **Environment:**
+  dreamlike spring countryside, flowering meadows, blooming trees, patchwork hills, whimsical village, birds resting among flowers, magical pastoral scenery.
+
+  **Lighting:**
+  soft diffused daylight, gentle glow, dreamy atmosphere, delicate highlights on fabric textures.
+
+  **Mood:**
+  peaceful, romantic, feminine, magical, nostalgic, fairytale-like, poetic and serene.
+
+  **Details:**
+  flawless delicate face, luxurious lace patterns, embroidered butterflies, textured flowers, handcrafted birds, richly detailed textile landscape, premium artisanal craftsmanship.
+
+  **Quality:**
+  masterpiece, museum-quality textile artwork, ultra-detailed embroidery illustration, luxury handcrafted design, extraordinary texture depth, highly intricate needlework, 8k resolution, no text, no watermark, no frame.

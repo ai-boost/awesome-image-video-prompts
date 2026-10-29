@@ -1,0 +1,26 @@
+id: nano-banana-gym-three-panel-collage
+title:
+  en: 'Gym collage: back, mirror flex and recovery'
+  zh: 健身房三联画：背影、镜前展示与喘息
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- fitness
+- collage
+- portrait
+- gym
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2040293909713359284
+  credit: Mr Das
+  likes: 91
+  captured: '2026-10-29'
+  posted: '2026-04-04'
+notes:
+  en: Splitting the story into three camera setups (rear shot, mirror pose, low angle recovery) gives the collage variety, while one repeated harsh light source keeps the panels visually unified.
+  zh: 将画面拆成三个机位（背影、镜前展示、低角度喘息），形成叙事变化；同一个强硬主光在各面板重复出现，让三联画保持统一。
+prompt: |
+  A cinematic three-panel vertical collage featuring a fit young man in a dark underground gym, shirtless, wearing black Gymshark athletic shorts. In the top panel, he is captured from behind, standing under a single dim overhead light, revealing a deeply defined back and shoulders with shadows cutting across his muscles. In the middle panel, he faces forward in a mirror, performing a slow controlled flex, showcasing sharp abs, chest, and arms with a powerful, intense presence. In the bottom panel, he is shown in a low-angle close-up, leaning forward with hands on his knees, breathing heavily after a set, sweat dripping onto the floor. His messy medium-length dark hair is damp and partially covering his eyes, giving a raw, focused, and slightly aggressive expression.
+
+  The environment is gritty with concrete walls, exposed pipes, and minimal lighting, enhanced by subtle fog and dust particles in the air. A single harsh light source creates deep shadows and dramatic contrast, emphasizing muscle definition. Blurred old-school gym equipment in the background, shallow depth of field, ultra-realistic skin texture, editorial underground fitness photography style. 4K resolution, hyper-realistic, cinematic film still, high-contrast dark color grading, 100% same face as reference photo, vertical 9:16 composition, slightly zoomed-in framing.

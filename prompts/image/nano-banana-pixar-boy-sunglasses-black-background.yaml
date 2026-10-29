@@ -1,0 +1,24 @@
+id: nano-banana-pixar-boy-sunglasses-black-background
+title:
+  en: Pixar style seated boy with sunglasses and coffee
+  zh: 皮克斯风格坐姿少年，戴墨镜拿咖啡
+model: Nano Banana 2
+mode: text-to-image
+category: character
+tags:
+- pixar-style
+- 3d-render
+- character
+- negative-space
+source:
+  name: '@auqibhabib on X'
+  url: https://x.com/auqibhabib/status/2045326450795094091
+  credit: auqib
+  likes: 95
+  captured: '2026-10-29'
+  posted: '2026-04-18'
+notes:
+  en: The prompt fixes the subject on a pure black field and assigns each prop to a specific hand, so the layout and colours stay locked to the brief. The explicit negative space instruction keeps the figure centred with room above.
+  zh: 提示词将主体固定在纯黑背景上，并把每件道具指定到具体的手，使构图与配色贴合要求。明确的留白指令让人物居中，上方保留充足空间。
+prompt: |
+  A detailed 3D Pixar-style digital illustration of a cool young boy with voluminous, wavy white hair and dark sunglasses. He is sitting on a small wooden chair in a relaxed, cross-legged pose against a stark black background. He is wearing a simple light gray t-shirt, dark teal or green trousers, and chunky white sneakers. His right hand holds a lit cigarette, and his left hand holds a white Starbucks coffee cup with the full green mermaid logo facing forward. The lighting is soft and stylized, casting clean highlights on his hair and clothes. The perspective is centered on the character, with ample negative space above and around him.

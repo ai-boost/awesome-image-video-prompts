@@ -1,0 +1,38 @@
+id: nano-banana-mirror-selfie-sofa-warm-light
+title:
+  en: Woman takes warm mirror selfie on sofa
+  zh: 沙发上女子暖光镜面自拍
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- selfie
+- mirror
+- portrait
+- warm-lighting
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2050418977697145019
+  credit: Jack
+  likes: 74
+  captured: '2026-10-29'
+  posted: '2026-05-02'
+notes:
+  en: A reference image anchors facial identity, then the prompt fixes framing, pose, and camera look. Cropping the lower body and asking for front-camera grain and shallow depth of field keeps the shot candid rather than studio-polished.
+  zh: 参考图锁定面部身份，提示词再用构图、姿势和前置摄像头画质来约束画面。裁掉下半身，并要求颗粒感与浅景深，让照片更像随手拍而不是棚拍。
+prompt: |
+  Ultra-realistic iPhone mirror selfie of a young woman indoors, with facial identity matching exactly the provided reference image. She is seated casually on a modern sofa in a softly lit, warm-toned room with a wooden-framed mirror behind her.
+
+  Framing: mid-body composition (waist-up focus), ensuring her legs are minimally visible or mostly cropped out of the frame. Slight natural perspective as seen in casual selfies.
+
+  Pose: She holds her phone in one hand at chest level, angled slightly outward. Her head is turned slightly to the side in a soft, flattering profile with a subtle pout or relaxed expression. The pose should feel candid and natural.
+
+  Outfit: She is wearing a fitted half-sleeved top (instead of sleeveless), paired with a soft-colored skirt or shorts, but the lower body is mostly out of frame.
+
+  Hair & styling: Hair tied back in a neat ponytail, with a few soft strands framing her face. Natural makeup with smooth skin tones and gentle highlights.
+
+  Lighting: Soft indoor ambient lighting with a slightly cinematic glow, subtle shadows, and warm color grading. Slight reflection imperfections on the mirror for realism.
+
+  Environment details: Minimal, cozy interior, sofa, mirror, wooden textures, possibly a framed picture in the background. Clean but lived-in aesthetic.
+
+  Camera style: iPhone front-camera look, ultra-realistic, shallow depth of field, slight grain, natural skin texture, no over-smoothing.

@@ -1,0 +1,24 @@
+id: nano-banana-woman-soda-can-foam-splash
+title:
+  en: Woman opening soda can with foam splash
+  zh: 女子开启汽水罐喷出泡沫
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- soda
+- splash
+- wide-angle
+- action-shot
+source:
+  name: '@oye_samia on X'
+  url: https://x.com/oye_samia/status/2053698484130447722
+  credit: Dr. Samia
+  likes: 100
+  captured: '2026-10-29'
+  posted: '2026-05-11'
+notes:
+  en: A dark seamless backdrop and harsh flash isolate the subject and freeze the droplets in the air. The 12mm lens exaggerates the splash toward the camera for depth, and the prompt names the lens and the frozen motion so the model knows the camera setup.
+  zh: 深色无缝背景配合强烈闪光灯突出主体并凝固空中的水滴，12mm 超广角镜头让飞溅物朝镜头方向延伸形成纵深感。提示词直接写明镜头与凝固动态，便于模型还原拍摄方式。
+prompt: |
+  bright advertising action shot, dark seamless background, harsh flash, high-speed liquid photography, SUPER wide-angle 12mm lens, beautiful brunette shaking and opening a soda can, powerful jet of liquid with splashes and foam bursting out in a long arc, droplets frozen in the air, large splashes and drops flying straight toward the camera, some motion blur

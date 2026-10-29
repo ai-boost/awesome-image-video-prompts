@@ -1,0 +1,31 @@
+id: gpt-image-emerald-golden-light-beauty-portrait
+title:
+  en: Woman in golden side light against emerald gradient
+  zh: 翡翠绿渐变背景下的金色侧光女性肖像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- beauty
+- portrait
+- cinematic lighting
+- fashion editorial
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2072321898973892923
+  credit: Meem
+  likes: 115
+  captured: '2026-10-29'
+  posted: '2026-07-01'
+notes:
+  en: Anchoring the face to a reference image, then specifying a diagonal key light, a split-lit shadow side and 85mm f/1.8 optics gives a controlled fashion editorial look. The skin, catchlight and hair detail instructions push the rendering toward magazine-grade realism.
+  zh: 先用参考图锁定面部特征，再指定对角金色主光、一明一暗的光影和85mm f/1.8镜头参数，能稳定得到时尚大片的质感。皮肤纹理、高光和发丝细节的描述则让成片更接近杂志级写实。
+prompt: |
+  Create an ultra-realistic luxury beauty portrait using the exact same facial identity as the reference image. Preserve the face, facial structure, eye shape, nose, lips, skin characteristics, and overall appearance with maximum accuracy and consistency. The woman has long, silky jet-black hair, naturally luminous fair skin with subtle freckles across the nose and cheeks, striking emerald-green eyes, detailed eyelashes, naturally full eyebrows, and soft matte rose-pink lips. A delicate gold hoop earring adds a refined editorial touch.
+  The composition is a sophisticated medium close-up, capturing the head, neck, and upper torso. The subject faces the camera with a confident yet enigmatic expression, maintaining strong eye contact. A few loose strands of hair drift across her face, adding movement and visual interest while keeping her features clearly recognizable.
+  Lighting is cinematic and dramatic, featuring a diagonal beam of golden sunlight crossing the face from the upper corner, creating a beautiful interplay of highlights and shadows. One side of the face is softly illuminated while the opposite side falls into rich, atmospheric shadow. The background is a deep emerald-to-black gradient with subtle depth and smooth bokeh, creating a premium fashion-editorial mood.
+  Emphasize ultra-realistic skin texture, visible pores, natural complexion details, glossy eyes with crisp catchlights, and highly detailed hair strands. Use elegant cinematic color grading with rich contrast, realistic dynamic range, and luxury magazine aesthetics. Shot on an 85mm portrait lens, f/1.8, shallow depth of field, HDR photography, professional studio quality, Vogue-inspired beauty editorial, luxurious minimalism, photorealistic rendering, premium fashion campaign quality, hyper-detailed 8K resolution.
+
+  Portrait style
+
+  Style: Hyper-realistic, cinematic luxury beauty photography, high-end fashion editorial, premium magazine cover, sophisticated and emotionally captivating.

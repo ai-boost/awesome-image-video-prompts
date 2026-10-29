@@ -1,0 +1,42 @@
+id: nano-banana-supermarket-cart-maltese
+title:
+  en: Man with groceries and Maltese dog in supermarket
+  zh: 男子推购物车与马尔济斯犬逛超市
+model: Nano Banana 2
+mode: image-edit
+category: realism
+tags:
+- identity-lock
+- supermarket
+- pet
+- lifestyle
+source:
+  name: '@AiWithTariq on X'
+  url: https://x.com/AiWithTariq/status/2071038196461212153
+  credit: Mr. Tariq
+  likes: 65
+  captured: '2026-10-29'
+  posted: '2026-06-28'
+notes:
+  en: 'An uploaded reference photo paired with an explicit identity lock keeps the face fixed while the scene is layered in order: subject, props, environment, lighting, then camera settings such as a Sony A7R V with a 35mm lens. Naming a centered full body framing with both carts visible keeps the composition balanced.'
+  zh: 先上传参考照片并明确锁定面部身份，再按主体、道具、环境、光线、相机参数的顺序描述画面，例如索尼 A7R V、35mm 镜头和 f/2.8。居中全身构图并要求两辆购物车都可见，让画面保持平衡。
+prompt: |
+  Gpt Image 2 | Nano banana 2 | Grok | Gemini Prompt 👇
+
+  Use the uploaded reference image as the face and identity reference for the man. Preserve his exact facial identity, facial structure, eyes, nose, lips, eyebrows, hairstyle, skin tone, proportions, expression style, and overall recognizable appearance. Do not alter his identity.
+
+  Create an ultra-realistic lifestyle photograph inside a bright, modern premium supermarket. The man is standing confidently between two shopping carts in the fresh produce section, smiling naturally at the camera. He wears a fitted white crew-neck T-shirt layered with a light blue casual overshirt, light-wash straight-leg jeans, clean white sneakers, and a premium stainless-steel wristwatch. A simple crossbody sling bag hangs naturally across his shoulder, giving him a stylish yet relaxed everyday look.
+
+  One shopping cart is filled with colorful groceries including fresh vegetables, fruits, bread, bottled water, snacks, flowers, and household essentials. The second shopping cart is customized for his adorable fluffy white Maltese dog, comfortably seated on a soft beige cushion while wearing a cute blue gingham bandana. The man gently pets the dog with one hand while holding the grocery cart with the other. The dog looks happily toward the camera with bright expressive eyes and a joyful open-mouth smile.
+
+  The supermarket features beautifully organized produce displays overflowing with apples, oranges, bananas, pineapples, leafy greens, and colorful flowers. Large refrigerators line the background, polished reflective floors create subtle reflections, warm pendant lighting hangs from the ceiling, and the environment feels premium, clean, lively, and inviting.
+
+  Composition: full-body portrait, centered framing, eye-level perspective, both shopping carts fully visible, balanced composition, relaxed confident posture, authentic candid lifestyle feeling.
+
+  Lighting: soft diffused commercial indoor lighting, natural skin tones, realistic highlights, subtle shadows, premium retail ambiance.
+
+  Camera: Sony A7R V, 35mm lens, f/2.8, ISO 200, ultra-sharp focus, shallow depth of field with softly blurred background.
+
+  Style: luxury lifestyle photography, magazine editorial quality, photorealistic, HDR, extremely detailed skin texture, realistic hair strands, detailed clothing fabric, natural color grading, cinematic depth, ultra-high resolution, 8K, masterpiece, professional commercial photography.
+
+  Negative Prompt: low quality, blurry, duplicate people, extra limbs, distorted anatomy, deformed hands, bad fingers, incorrect face, altered identity, cartoon, anime, CGI, painting, overprocessed skin, unrealistic lighting, watermark, logo, text, cropped body, motion blur, oversaturated colors, noise, artifacts.

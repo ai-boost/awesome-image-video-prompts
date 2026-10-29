@@ -1,0 +1,202 @@
+id: nano-banana-chrome-day-2-night-moodboard
+title:
+  en: Night luxury moodboard with chrome DAY 2 title
+  zh: 带铬银色 DAY 2 标题的夜间奢华情绪板
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- fashion
+- moodboard
+- typography
+- chrome
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2036834911848423625
+  credit: Özge Döner
+  likes: 111
+  captured: '2026-10-29'
+  posted: '2026-03-24'
+notes:
+  en: Naming a fixed palette (ivory, chrome silver, midnight black) and banning warm tones keeps the colour grade consistent across the whole board. Listing exactly one item per slot in a fixed layout stops the image from turning into a cluttered collage.
+  zh: 通过明确指定配色（象牙白、铬银、午夜黑）并禁止暖色调，让整张画面的色调保持统一。每个位置只写一件单品，并固定版式，避免画面变成杂乱的拼贴。
+prompt: |
+  {
+   "generation_request": {
+   "meta_data": {
+   "tool": "Nano Banana 2",
+   "task_type": "luxury_fashion_moodboard_editorial",
+   "version": "v2.2_DAY2_CHROME_CONFIDENT_FINAL"
+   },
+
+   "input": {
+   "mode": "image_to_image",
+   "reference_image_usage": "high",
+   "notes": "Use the reference layout. Create DAY 2 as a confident night-time luxury moodboard with a darker, more powerful aesthetic. Maintain the clean minimal editorial structure with strong hierarchy and negative space."
+   },
+
+   "layout": {
+   "background": "soft ivory or cool champagne neutral (no warm gold tones)",
+   "composition": "same minimal structure as DAY 1 with elevated contrast and sharper visual presence"
+   },
+
+   "text_element": {
+   "title": "DAY 2",
+   "title_style": "large bold modern high-fashion serif in chrome silver, mirror-like metallic finish, sharp and reflective",
+   "title_effect": "cool-toned metallic reflections, strong contrast, modern luxury feel",
+
+   "quote": "Own the night without asking.",
+   "quote_style": "minimal refined script in soft silver",
+
+   "strict_rules": [
+   "no gold tones",
+   "typography must be chrome silver",
+   "cool modern aesthetic only"
+   ]
+   },
+
+   "fashion_story": {
+   "hero_dress": "black or deep metallic satin halter-neck or sleek slip evening dress, body-hugging, modern, slightly daring cut, luxury finish",
+
+   "shoes": "one pair of black or chrome metallic heels, sharp silhouette",
+
+   "bag": "one small luxury evening bag in black, chrome, or cool metallic tone",
+
+   "jewelry": "one bold minimal silver piece, such as cuff or statement earrings"
+   },
+
+   "lifestyle_element": {
+   "photo": "luxury rooftop or city night dinner setting with skyline lights, elegant candles, cinematic night atmosphere",
+
+   "cocktail": "one espresso martini or dark-toned cocktail in a refined glass"
+   },
+
+   "style_shift": {
+   "from_day1": "soft romantic beach",
+   "to_day2": "confident night city energy",
+   "mood": "bold, sharp, magnetic, modern, high-fashion"
+   },
+
+   "style_direction": {
+   "visual_language": "modern fashion campaign, minimal, sharp, high contrast",
+   "lighting_feel": "cool-toned highlights enhancing chrome reflections"
+   },
+
+   "output_settings": {
+   "aspect_ratio": "4:5",
+   "render_style": "luxury_editorial_collage_realism",
+   "sharpness": "ultra_crisp",
+   "color_grade": "midnight_black_chrome_silver"
+   },
+
+   "must_have": [
+   "DAY 2 chrome silver title",
+   "black or metallic dress",
+   "one pair of heels",
+   "one bag",
+   "one jewelry piece",
+   "one cocktail",
+   "one city night photo",
+   "minimal layout"
+   ],
+
+   "negative_prompt": [
+   "gold typography",
+   "warm tones",
+   "yellow dress",
+   "beach vibe",
+   "extra accessories",
+   "messy layout",
+   "low contrast",
+   "cheap styling",
+   "low detail"
+   ]
+   }
+  }
+
+  Prompt(right):
+  {
+    "generation_request": {
+      "meta_data": {
+        "tool": "Nano Banana 2",
+        "task_type": "reference_matched_fashion_scene",
+        "version": "v1.0_DAY2_REALISTIC_MATCH"
+      },
+
+      "input": {
+        "mode": "image_to_image",
+        "reference_image_usage": "very_high",
+        "preserve_identity": true,
+        "preserve_facial_features": true,
+
+        "notes": "Use the uploaded reference woman as the exact subject. Keep her face, identity, and proportions consistent. Transform the scene into a DAY 2 night luxury fashion setting. Do not create a collage. Create a single realistic cinematic scene."
+      },
+
+      "scene": {
+        "environment": "luxury rooftop or elegant city night setting with soft lights, modern atmosphere",
+        "mood": "confident, modern, magnetic, night luxury"
+      },
+
+      "styling_logic": {
+        "rule": "All outfit, accessories, and styling must naturally match the reference woman’s appearance, proportions, and aesthetic. Nothing should feel random or disconnected.",
+        "cohesion": "everything must look like it belongs to the same person, same moment, same environment"
+      },
+
+      "outfit": {
+        "description": "a high-fashion evening outfit that suits the reference woman perfectly, modern, elegant, slightly bold, night-appropriate"
+      },
+
+      "accessories": {
+        "bag": "placed naturally on a table or next to her, never floating",
+        "shoes": "worn by the woman, fully integrated with the outfit",
+        "jewelry": "worn on the woman, subtle but luxury, not separate objects"
+      },
+
+      "drink": {
+        "placement": "either in her hand or placed naturally on a table",
+        "style": "luxury cocktail matching the night setting"
+      },
+
+      "placement_rules": {
+        "no_floating_objects": true,
+        "no_random_scatter": true,
+        "realistic_positions_only": true,
+        "physical_logic": "all objects must obey real-world placement and balance"
+      },
+
+      "camera": {
+        "framing": "medium or full-body fashion shot",
+        "angle": "editorial, slightly cinematic",
+        "lens": "50mm or 85mm",
+        "focus": "sharp on face and outfit"
+      },
+
+      "lighting": {
+        "type": "night luxury lighting",
+        "effect": "soft highlights with subtle reflections, clean modern contrast"
+      },
+
+      "must_have": [
+        "same reference woman",
+        "identity preserved",
+        "cohesive styling",
+        "realistic placement",
+        "no floating objects",
+        "night luxury mood",
+        "single scene (no collage)"
+      ],
+
+      "negative_prompt": [
+        "collage",
+        "floating bag",
+        "floating shoes",
+        "floating jewelry",
+        "random objects",
+        "bad placement",
+        "different face",
+        "identity change",
+        "messy composition",
+        "low realism"
+      ]
+    }
+  }

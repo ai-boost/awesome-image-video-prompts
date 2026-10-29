@@ -1,0 +1,24 @@
+id: gpt-image-motocross-backflip-storyboard-desert
+title:
+  en: Ten frame storyboard of a motocross backflip
+  zh: 十格分镜：越野摩托车后空翻
+model: GPT Image 2
+mode: text-to-image
+category: comic
+tags:
+- storyboard
+- motocross
+- sports-drama
+- cinematic
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2064313192516391127
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 196
+  captured: '2026-10-29'
+  posted: '2026-06-09'
+notes:
+  en: The prompt opens with the frame count and then lists one ordered story beat per frame, so the model lays out a readable sequence. Closing style words such as golden hour lighting, dynamic camera angles and high end action photography set one look for every panel.
+  zh: 提示词先声明十格分镜的数量，再按时间顺序逐格描述一个动作节点，使模型能排出连贯的故事线。结尾用黄金时段光线、动态镜头角度和高端动作摄影等风格词统一所有分格的画面质感。
+prompt: |
+  Storyboard sequence, 10 cinematic frames: A stylish young woman relaxes in a modern desert-view room while drinking from a glass bottle, then stands and gazes out the window with determination before casually tossing the bottle aside. She exits the building and walks toward her FMX motocross bike, gears up, and puts on her helmet. The action escalates as she races down a giant mega ramp, launches into the open sky, performs a breathtaking backflip high above the desert landscape, and lands in a dramatic cloud of dust. In the final frame, she removes her helmet, her hair falling free as smiling friends run toward her cheering, all captured in ultra-realistic cinematic storytelling, golden-hour lighting, dynamic camera angles, emotional sports-drama atmosphere, and high-end action photography.

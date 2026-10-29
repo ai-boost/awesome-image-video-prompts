@@ -1,0 +1,40 @@
+id: gpt-image-jungle-explorer-storyboard-four-shots
+title:
+  en: Jungle explorer in four labeled storyboard shots
+  zh: 丛林探险者的四格分镜镜头
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- storyboard
+- collage
+- photorealistic
+- cinematic
+source:
+  name: '@bmx_ai13 on X'
+  url: https://x.com/bmx_ai13/status/2064199055215902941
+  credit: BMX
+  likes: 72
+  captured: '2026-10-29'
+  posted: '2026-06-09'
+notes:
+  en: Naming each panel's camera shot and its label keeps four distinct framings, while a fixed character description (wet hair, orange jacket, shoulder bag strap) keeps the same explorer across them. Stating the 16:9 ratio and thin dividers sets the stacked storyboard layout.
+  zh: 在提示词中为每一格写明镜头类型和标签，使四个画面的构图各不相同；固定的角色描述（湿发、橙色外套、肩包背带）让同一人物在各格中保持一致。明确 16:9 比例和细分隔线，确定了叠放式分镜版式。
+prompt: |
+  GPT Image 2 on ChatGPT
+
+  Prompt: Create a cinematic storyboard style collage made of four horizontal stacked panels, each showing a different camera shot of the same young female jungle explorer in a dense tropical rainforest. She has wet dark hair tied back, light brown skin, and wears an orange rain jacket over a dirty beige shirt, with a shoulder bag strap visible. The environment is a lush humid jungle with thick green foliage, hanging vines, muddy ground, misty atmosphere, and strong golden sunlight beams cutting through the canopy. The overall look should be photorealistic, cinematic, dramatic, adventurous, and atmospheric, with deep green shadows and warm amber highlights.
+
+  Panel 1 Top panel: A medium wide back shot of the young woman standing in the jungle, seen from behind, looking up toward a bright sunlit opening in the trees. Her orange jacket catches the golden light. Dense vegetation surrounds her. Add bold white uppercase text on the lower left: “MEDIUM WIDE BACK SHOT”.
+
+  Panel 2 Second panel: A bird’s eye view wide shot looking down at the same woman standing alone on a narrow muddy jungle path, surrounded by dense rainforest plants and glowing shafts of sunlight. She looks upward with curiosity and fear. Add bold white uppercase text on the lower left: “BIRD’S-EYE VIEW WIDE SHOT”.
+
+  Panel 3 Third panel: An extreme close up of the woman’s eyes and upper face, sweaty and slightly dirty, with wet skin reflecting warm jungle light. Her eyes look upward with tension, awe, and fear. Add bold white uppercase text on the lower left: “EXTREME CLOSE-UP”.
+
+  Panel 4 Bottom panel: A slight low angle close up of the woman’s face and upper body, looking upward in wonder and concern. Wet hair clings to her face, the orange jacket is visible, and the blurred jungle behind her glows with warm sun rays. Add bold white uppercase text on the lower left: “SLIGHT LOW ANGLE CLOSE-UP”.
+
+  Use a clean storyboard layout with thin panel dividers, bold condensed sans-serif typography, white shot labels, realistic film still quality, dramatic lighting, shallow depth of field, and a Hollywood jungle adventure mood.
+
+  Optional Negative Prompt: low quality, blurry, cartoon, anime, extra limbs, distorted face, messy layout, wrong text, misspelled text, watermark, logo, duplicate subject, flat lighting
+
+  Make the aspect ratio 16:9

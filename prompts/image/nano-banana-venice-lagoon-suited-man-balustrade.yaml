@@ -1,0 +1,24 @@
+id: nano-banana-venice-lagoon-suited-man-balustrade
+title:
+  en: Man in suit by Venice lagoon balustrade
+  zh: 威尼斯泻湖栏杆旁穿西装的男子
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- venice
+- portrait
+- menswear
+- editorial
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2060272145377235381
+  credit: Picts by AI
+  likes: 117
+  captured: '2026-10-29'
+  posted: '2026-05-29'
+notes:
+  en: Each foreground, midground and background layer is named by material and position, which keeps the plants, boats and San Giorgio Maggiore anchored in place. Camera, lens, aperture, shutter and ISO settings plus a named teal and orange grade give the photo a realistic editorial finish.
+  zh: 为前景、中景和背景的每一层都写明材质与位置，让植物、船只和乔治教堂的位置固定。相机、镜头、光圈、快门和ISO参数，加上指定的青橙调色，共同塑造真实的编辑风格摄影效果。
+prompt: |
+  A handsome young male adult leans casually with shifted weight against a weathered stone balustrade, facing the camera with a candid, serious expression, his dark, messy, wind-swept hair catching the sunlight. His direct gaze, unsmiling neutral mouth, and relaxed neutral eyebrows convey a confident calm. He is dressed in a well-fitted dark charcoal grey suit jacket and matching trousers over a crisp white t-shirt. His relaxed left hand is tucked inside his left trouser pocket, pushing the jacket back slightly to reveal the shirt, while his right arm rests casually at his side, hanging naturally out of frame against his leg. He interacts with an intricate foreground featuring a flat-topped, off-white matte stone balustrade with classical carved pillars showing slight discoloration, patchy warm cream undertones, and weathered water stains, flanked by the stiff, dark green feather-like fronds of a thriving cycad plant extending into the frame on the bottom left and a palm on the bottom right above medium warm brown striped wooden decking. In the midground, a vibrant turquoise lagoon ripples with boat wakes as a pristine classic wooden motorboat with a white interior glides across the right, balanced by a white vaporetto to the left. The deep background opens up to the stunning historical architecture of San Giorgio Maggiore, showcasing a vintage white marble facade and brick bell tower alongside other classical buildings with warm terracotta roofs. Bright, hard, highly directional natural midday sunlight floods the scene from the front, casting deep black, harshly defined shadows under the subject's chin, beneath the balustrade railing, and from the lush plant leaves. Radiant specular highlights glimmer across the rippling water surface, the tips of the man's hair, his right cheekbone, and his bright white shirt, creating a high-contrast, energetic, and sophisticated upscale Mediterranean travel atmosphere. Shot straight-on as realistic, tack-sharp digital photography using a 35mm to 50mm lens at an aperture between f/8 and f/11 with a fast 1/1000s shutter speed and ISO 100 to freeze the boat motion and maintain a deep depth of field across the layered composition, this clean luxury menswear editorial image features contrast enhancement, highlight recovery, and a subtle teal and orange color grade to elevate the cool tones against the warm architecture, all naturally framed in a 4:5 aspect ratio.

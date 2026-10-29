@@ -1,0 +1,28 @@
+id: gpt-image-music-consumption-vinyl-to-streaming
+title:
+  en: Music consumption from vinyl to streaming
+  zh: 音乐消费方式的演变：从黑胶到流媒体
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- isometric
+- diorama
+- timeline
+- music
+source:
+  name: '@iamaiistudio on X'
+  url: https://x.com/iamaiistudio/status/2061494256087523353
+  credit: PromptLab
+  likes: 106
+  captured: '2026-10-29'
+  posted: '2026-06-01'
+notes:
+  en: Fixed slots for topic, eras and background color let one template produce any timeline. The prompt pins the camera, the stepped base split by era, and a clear text hierarchy, so every era panel and header stays consistent.
+  zh: 主题、时代和背景色的固定槽位让同一模板可以生成任何时间线。提示词固定了镜头、按时代分层的阶梯底座和清晰的文字层级，因此每个时代的版块与标题都保持一致。
+prompt: |
+  Build a polished isometric miniature 3D diorama that shows the evolution of [TOPIC] from [START ERA] through [MODERN ERA]. Use a 45-degree top-down camera angle and a horizontally stepped display base split into distinct time periods. Give the scene soft, refined materials with realistic PBR shading and neutral, evenly balanced lighting.
+
+  In every era section, include period-specific objects, tools, environments, or technologies. Add tiny stylized people interacting with each stage, with detailed facial features. Use subtle arrows or dividers to make the chronological flow clear.
+
+  Keep the background a solid [BACKGROUND COLOR]. Place bold top-center text reading [TOPIC]. Under it, add "From [START ERA] to [MODERN ERA]." Add a minimal timeline icon below. Make all text automatically adapt for contrast.

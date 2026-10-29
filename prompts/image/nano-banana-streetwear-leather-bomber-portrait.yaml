@@ -1,0 +1,32 @@
+id: nano-banana-streetwear-leather-bomber-portrait
+title:
+  en: Full-body streetwear portrait in leather bomber
+  zh: 皮质飞行夹克全身街头时尚人像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- fashion
+- portrait
+- streetwear
+- photorealistic
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2083776018763157835
+  credit: Weinberg
+  likes: 69
+  captured: '2026-10-29'
+  posted: '2026-08-02'
+notes:
+  en: Plain camera settings for lens, aperture, light and a 4:5 frame give the image a campaign look. Listing each garment layer in order, from jacket over hoodie to pants and sneakers, keeps the outfit specific and easy to check.
+  zh: 用镜头焦段、光圈、光线和 4:5 画幅等具体参数定义画面，营造大片质感。按顺序逐层列出服装（夹克、连帽衫、长裤、鞋），让造型清晰可辨。
+prompt: |
+  cartoon, anime, illustration, CGI, low quality, blurry, oversaturated, extra limbs, distorted body, deformed hands, watermark, text, logo, cropped, duplicate person, noisy background
+  Camera setting:
+  * Lens: 85mm
+  * Aperture: f/2.8
+  * Lighting: Soft overcast daylight
+  * Aspect Ratio: 4:5 (Instagram portrait)
+  * Style: Editorial, luxury streetwear, photorealistic
+  * Quality: Ultra detailed, 8K
+  If you’re replacing the person with your

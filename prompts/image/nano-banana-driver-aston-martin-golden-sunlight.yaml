@@ -1,0 +1,24 @@
+id: nano-banana-driver-aston-martin-golden-sunlight
+title:
+  en: Man in sunglasses driving Aston Martin interior
+  zh: 戴墨镜的男子驾驶阿斯顿马丁内饰
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- golden-hour
+- automotive
+- lighting
+- lifestyle
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2050852588833132762
+  credit: Picts by AI
+  likes: 124
+  captured: '2026-10-29'
+  posted: '2026-05-03'
+notes:
+  en: A single hard directional light from the front left window sets the contrast, and the prompt names which planes of the face and wheel catch it and which fall into shadow. Naming the camera body, lens, aperture, shutter and ISO gives the output a tack sharp photographic baseline.
+  zh: 单一硬质定向光从左前方车窗射入，提示词逐一指定面部与方向盘哪些部位受光、哪些落入阴影，形成强对比。写明全画幅机身、35mm 镜头、光圈、快门和 ISO，让画面具有清晰的摄影质感。
+prompt: |
+  A male in his 30s sits in profile as the primary subject, his relaxed shoulders carrying a serious, posed expression while his eyes remain hidden behind black sunglasses, focused straight ahead with a neutral, unsmiling mouth. He wears a crisp off-white long-sleeve shirt and a watch with a brown leather strap. His hair is styled in a textured quiff with moderate volume lifting off the forehead, fading down to a half-inch on the sides above the ears, displaying a natural slight wave on top enhanced by a dry-look matte paste; meticulous details reveal slightly uneven natural growth at the hairline, textural inconsistency near the crown, and visible flyaways illuminated by the sun, complemented by a short, even stubble beard of three to four days of growth with natural cheek lines. His hands naturally interact with the environment; his left hand grips the steering wheel rim near the ten o'clock position with the thumb resting seamlessly along the inner seam, while his right hand grips the top right at the two o'clock position, his fingers curled tightly over the leather rim with slightly prominent knuckles that maintain an organic tension without turning white. He is positioned within the pristine interior of an Aston Martin, observed from an isometric perspective from the passenger seat. In the foreground, a pristine gloss black center console houses glass-like gear selector buttons and climate controls featuring subtly integrated medium-weight sans-serif technical typography. The midground is dominated by the steering wheel wrapped in saddle brown leather with visible stitching, a matte black center, and a silver winged logo, situated beneath a new black alcantara suede sun visor bearing a yellow and white airbag warning label. The surrounding interior panels and seat bolsters are constructed from matte saddle brown and black leather mixed with carbon fiber, detailed with uniform diamond quilted stitching. Through the window, the medium-depth background transitions into smoothly blurred but distinct, thriving dense green evergreen bushes and trees. A bright, hard, and highly directional natural golden sunlight streams in from the front-left driver window, bathing the scene in a warm, energetic, and sophisticated atmosphere. This single-source lighting generates extreme high contrast, casting harsh, defined, deep black shadows across the right side of the driver's face and the right side of the center console, while brilliant highlights are perfectly preserved on his left cheek, nose, left forearm, and the top arc of the steering wheel. The scene leverages an earthy and analogous color palette heavily featuring saddle brown, off-white, and black, punctuated by the cool forest green contrast of the exterior. Captured as a tack-sharp piece of digital lifestyle photography using a full-frame camera with a 35mm lens set to an f/4.0 aperture, 1/1000s shutter speed, and ISO 100, freezing the motion with absolute clarity on the subject. Inspired by clean, luxury automotive influencer aesthetics, the image undergoes precise post-processing with enhanced contrast to deepen the shadows on the interior console, warm color grading to emphasize the leather and golden light, and is finally framed in a 4:5 aspect ratio.

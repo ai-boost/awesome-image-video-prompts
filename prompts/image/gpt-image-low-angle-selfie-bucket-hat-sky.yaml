@@ -1,0 +1,24 @@
+id: gpt-image-low-angle-selfie-bucket-hat-sky
+title:
+  en: Low angle selfie in frayed bucket hat against blue sky
+  zh: 仰拍自拍，破边渔夫帽配蓝天背景
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- selfie
+- portrait
+- backlight
+- outdoor
+source:
+  name: '@Zoyavelle on X'
+  url: https://x.com/Zoyavelle/status/2096105094425240028
+  credit: Zoya
+  likes: 118
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+notes:
+  en: A low camera angle, backlit sun for rim light and clouds grouped on one side give the frame a clear direction. Naming smartphone photography and no beauty filter pushes the result toward a candid phone snapshot look.
+  zh: 指定仰视机位、逆光形成发丝轮廓光，并把云层集中在画面一侧，构图方向感明确。加入智能手机摄影和不要美颜等限定词，让画面接近随手拍的真实质感。
+prompt: |
+  Ultra-realistic high-resolution outdoor selfie portrait of a young adult woman, shot from a low-angle perspective with a smartphone camera. She has long, straight, dark brown hair flowing naturally in the wind, soft natural facial features, smooth realistic skin, subtle pink lips, and a calm neutral expression. She is wearing a black distressed/frayed bucket hat with a small white Nike-style logo on the front, narrow black oval sunglasses with dark reflective lenses, and a light pastel sage-green ribbed tank top with wide straps. Bright sunlight is positioned behind her head, creating a natural glowing rim light and subtle lens flare around her hair and hat. The background is a vivid deep blue summer sky filled with large fluffy white cumulus clouds, with dramatic cloud formations mainly on the right side and scattered clouds near the lower edges. Natural outdoor daylight, realistic skin texture, detailed individual hair strands, authentic smartphone photography, sharp facial details, high dynamic range, balanced exposure, cinematic sunlight, realistic shadows, vibrant but natural colors, slight wide-angle perspective, shallow atmospheric depth, photorealistic, 8K detail, no artificial beauty filter, candid Instagram-style aesthetic. Vertical composition, subject centered and filling most of the frame, low-angle close-up selfie.

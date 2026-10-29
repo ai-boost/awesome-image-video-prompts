@@ -1,0 +1,100 @@
+id: nano-banana-seated-cap-hoodie-studio-portrait
+title:
+  en: Seated man in cap and hoodie on white block
+  zh: 戴棒球帽的男子坐在白色方块上
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- json-prompt
+- reference-image
+- studio-portrait
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2037368955548152058
+  credit: Nexora
+  likes: 138
+  captured: '2026-10-29'
+  posted: '2026-03-27'
+notes:
+  en: Identity is locked to a reference photo, and pose, lighting, lens and wardrobe are split into separate JSON fields so each part can be tuned on its own. The negative prompt targets common portrait faults such as bad hands and plastic skin.
+  zh: 通过参考图锁定人物身份，并把姿势、布光、镜头和服装拆分为独立的 JSON 字段，便于单独调整每一部分。负面提示词针对手部畸形和塑料感皮肤等常见人像问题。
+prompt: |
+  {
+    "Ultra-realistic studio portrait of the same man (strictly use provided reference image for identity consistency). Preserve exact facial structure, proportions, skin texture, hairstyle, and overall likeness with high fidelity. The subject is seated on a clean white block, legs slightly apart, leaning forward in a relaxed yet confident pose. Right elbow rests on the knee with the right hand lightly adjusting black sunglasses, left hand relaxed naturally on the thigh. Outfit includes a black cap, black sunglasses, a clean white hoodie with a subtle logo, light blue fitted jeans, crisp white sneakers, and a black wristwatch. Styling is modern, minimal, and polished with natural fabric behavior and realistic folds.",
+
+    "style": {
+      "photography_type": "studio fashion portrait",
+      "aesthetic": "clean, minimal, premium lifestyle",
+      "mood": "confident, relaxed, modern",
+      "color_palette": ["pastel blue", "white", "soft neutrals"]
+    },
+
+    "environment": {
+      "background": "clean pastel blue and white geometric studio backdrop",
+      "props": "single white block only",
+      "scene_cleanliness": "minimal, distraction-free, polished"
+    },
+
+    "lighting": {
+      "setup": "soft diffused studio lighting",
+      "quality": "even illumination with gentle falloff",
+      "shadows": "minimal, soft, natural contact shadows only",
+      "highlights": "controlled, soft highlights with no harsh glare"
+    },
+
+    "camera": {
+      "lens": "50mm prime",
+      "aperture": "f/4 for balanced depth of field",
+      "angle": "slightly low eye-level for subtle dominance",
+      "framing": "medium full-body (seated), centered composition",
+      "focus": "tack sharp on face and upper body"
+    },
+
+    "composition": {
+      "subject_position": "centered",
+      "pose_details": [
+        "legs apart seated stance",
+        "forward lean for engagement",
+        "right hand interacting with sunglasses",
+        "left hand relaxed on thigh"
+      ],
+      "balance": "symmetrical with slight dynamic tilt from pose"
+    },
+
+    "identity_lock": {
+      "priority": "very high",
+      "requirements": [
+        "accurate facial features",
+        "consistent hairstyle",
+        "natural skin texture (no plastic smoothing)",
+        "correct proportions and anatomy"
+      ]
+    },
+
+    "quality": {
+      "resolution": "8K",
+      "detail_level": "ultra high",
+      "rendering": "photorealistic",
+      "sharpness": "high micro-detail clarity"
+    },
+
+    "negative_prompt": [
+      "face distortion",
+      "identity mismatch",
+      "extra or missing fingers",
+      "bad anatomy",
+      "blurry image",
+      "low resolution",
+      "overexposed highlights",
+      "harsh shadows",
+      "cinematic lighting",
+      "messy background",
+      "noise or grain",
+      "text artifacts",
+      "watermark",
+      "logo distortion",
+      "plastic skin",
+      "unnatural fabric folds"
+    ]
+  }

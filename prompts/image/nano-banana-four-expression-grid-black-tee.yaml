@@ -1,0 +1,31 @@
+id: nano-banana-four-expression-grid-black-tee
+title:
+  en: Grid of four expressions in a black tee
+  zh: 黑色T恤女性四种表情2x2拼贴
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- grid
+- film-look
+- portrait
+- expressions
+source:
+  name: '@Ozayrr_irl on X'
+  url: https://x.com/Ozayrr_irl/status/2061012493569585467
+  credit: Ozair AI
+  likes: 94
+  captured: '2026-10-29'
+  posted: '2026-05-31'
+notes:
+  en: Giving each grid cell its own one-line pose description keeps the four frames distinct and easy to follow. Fixing the wardrobe, wall and props, plus film stock and direct flash, makes the set read as one candid 90s shoot.
+  zh: 为每个格子单独写一行姿势描述，使四个画面各不相同且清晰可辨。固定服装、墙面和道具，并加入胶片与直闪设定，让整组照片看起来像同一场90年代随拍。
+prompt: |
+  A 2x2 grid photo collage showing four different expressions of a young woman with long, messy black hair and fair skin. She is wearing a plain black t-shirt.
+
+  Top-left: smiling warmly at the camera.
+  Top-right: thoughtful pose with her hand resting on her chin.
+  Bottom-left: side profile looking away, serious expression.
+  Bottom-right: playful expression, scrunching her nose and shrugging her hands up.
+
+  The photos are shot on a 35mm film camera with a direct flash, creating subtle shadows against a plain, muted beige wall background. A few blurry polaroid photos are pinned to the wall behind her. Low-key lighting, candid, realistic, 90s aesthetic, grainy texture. --ar 1:1 --v 6.0

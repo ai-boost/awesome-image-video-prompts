@@ -1,0 +1,24 @@
+id: gpt-image-fisheye-jump-brick-street
+title:
+  en: Fisheye jump reaching toward camera over brick street
+  zh: 鱼眼镜头下跃起伸手的女子与红砖街道
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- fisheye
+- jump-pose
+- street
+- photorealistic
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2048367604574908593
+  credit: Aijaz
+  likes: 227
+  captured: '2026-10-29'
+  posted: '2026-04-26'
+notes:
+  en: Placing the camera at ground level and aiming straight up turns the surrounding buildings into a circular frame around the sky. Reaching a hand toward the lens pushes it into the foreground, so the distortion adds depth and energy.
+  zh: 将镜头贴近地面并垂直向上拍摄，周围建筑会形成围绕天空的圆形画框。手臂伸向镜头，让近处的手部产生强烈透视，增加纵深与动感。
+prompt: |
+  Make an Ultra-wide fisheye lens perspective shot from ground level looking straight up at a young women crouching mid-air between brick buildings forming a circular frame around the sky. She reaches one hand dramatically toward the camera, fingers spread wide, creating strong foreground distortion and depth. Dynamic action pose, confident expression, casual streetwear outfit: fitted white t-shirt, blue straight-leg jeans, red and white sneakers. Urban European neighborhood setting with brick houses, tiled roofs, windows visible around the edges. Bright daylight, clear blue sky, natural lighting, sharp focus, high detail, cinematic composition, exaggerated perspective, 8k resolution, photorealistic, adventure photography style.

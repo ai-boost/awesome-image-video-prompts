@@ -1,6 +1,6 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 34 条
+[返回目录](../../README_zh.md) · 全部 35 条
 
 <a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
 ### 健身房自拍周围环绕Q版迷你分身
@@ -410,6 +410,27 @@ TARGET IMAGE = everything.
 REFERENCE IMAGE = face identity only.
 Change nothing else.
 The final result must look like the original TARGET IMAGE, with only the woman's facial identity replaced by the woman from the reference photo.
+```
+
+</details>
+
+<a id="gpt-image-beach-chibi-stickers-doodles"></a>
+### 海边人像搭配Q版贴纸与涂鸦
+
+<a href="https://x.com/Zyrellix/status/2053777315596042381"><img src="../../previews/gpt-image-beach-chibi-stickers-doodles.jpg" width="360"></a>
+
+要求同一角色呈现多个Q版姿态，并加上白色贴纸描边和贴合场景情绪的手写文字，让真实人像保持视觉焦点。每句涂鸦文字都围绕海边氛围展开，使画面显得自然而不重复。
+
+GPT Image 2 · 上传图改图 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/status/2053777315596042381) · 94 赞，统计于 2026-10-29
+
+[`chibi`](tags.md#tag-chibi) [`doodles`](tags.md#tag-doodles) [`stickers`](tags.md#tag-stickers) [`beach`](tags.md#tag-beach)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Around the main figure, add multiple mini 3D chibi versions of the same character in playful poses and expressions, such as jumping cheerfully, waving, sitting relaxed, holding a drink, and other lively, cute gestures. Maintain consistent facial features between the main figure and all chibis.
+Incorporate hand-drawn white doodle elements: thin outlines around the main figure, stars, hearts, sparkles, motion lines, and small cute icons. Add aesthetic handwritten words in a casual doodle font that are contextual to the photo’s mood and environment—for example, beach photos might include “sunny vibes,” “good waves,” urban scenes might include “city energy,” “fresh ride,” or autumn forest scenes might include “cozy,” “fall feels.” Words should feel natural, playful, and adapt to each unique photo rather than repeating the same set everywhere.
+Ensure the overall composition is clean, Instagram-ready, and visually balanced, with soft pastel color tones and a cohesive, charming style. Chibis should have a high-detail 3D glossy look, inspired by cute Korean style, appearing tactile and playful. Use white sticker outlines around doodles and chibis to make them pop gently against the background. The main figure should remain the focal point, with chibis and doodles enhancing the composition without cluttering it.
 ```
 
 </details>

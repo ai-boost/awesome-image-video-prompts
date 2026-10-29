@@ -1,0 +1,110 @@
+id: gpt-image-diagonal-donut-box-poster
+title:
+  en: Diagonal donut boxes with solid and outline type
+  zh: 斜向排列的甜甜圈盒与实心空心字
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- poster
+- food-photography
+- typography
+- diagonal-layout
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2057758702812500383
+  credit: Oogie
+  likes: 316
+  captured: '2026-10-29'
+  posted: '2026-05-22'
+notes:
+  en: Two product trays sit on opposite diagonals so the eye zig-zags between them. Solid and outline oversized type layered behind the trays makes the lettering part of the composition.
+  zh: 两个餐盒分置对角线，视线在两者之间形成之字形移动。实心与描边大字层叠在餐盒后方，让文字本身成为构图的一部分。
+prompt: |
+  A premium fast-food advertising poster promoting [PRODUCT TYPE / FOOD ITEM / FMCG PRODUCT] using oversized editorial typography, clean commercial composition, and modern minimal branding aesthetics.
+
+  STYLE & ART DIRECTION:
+  Minimal commercial advertising aesthetics,
+  high-end FMCG campaign design,
+  editorial fast-food branding visuals,
+  modern social-media poster composition,
+  clean studio advertising style,
+  Pinterest-trending food campaign aesthetics,
+  premium Behance-style typography poster,
+  bold geometric branding system,
+  minimal product-focused commercial design,
+  high-contrast editorial food photography.
+
+  MAIN SUBJECT:
+  Two premium trays/containers of [PRODUCT],
+  placed diagonally across the composition,
+  crispy detailed food texture,
+  professional commercial food styling,
+  studio-shot realism,
+  dynamic asymmetrical positioning,
+  premium FMCG presentation quality,
+  high-detail texture rendering,
+  appetizing commercial appearance.
+
+  LAYOUT & COMPOSITION:
+  Maintain the SAME composition structure as the reference:
+  brand logo centered at top,
+  upper tray positioned diagonally in upper-left area,
+  lower tray positioned diagonally in lower-right area,
+  oversized typography integrated behind and between products,
+  large cropped letters extending outside frame,
+  strong negative space balance,
+  editorial asymmetrical composition,
+  clean visual rhythm,
+  dynamic zig-zag eye movement,
+  premium spacing hierarchy.
+
+  TYPOGRAPHY:
+  Extra-bold geometric sans-serif typography,
+  oversized cropped text composition,
+  mix of solid-fill and outline typography,
+  large-scale editorial lettering,
+  minimal wording with maximum visual impact,
+  modern FMCG typography hierarchy,
+  clean contemporary branding style,
+  typography functioning as compositional element.
+
+  DEPTH & LIGHTING:
+  Professional commercial studio lighting,
+  soft realistic shadows,
+  clean overhead illumination,
+  high-detail texture enhancement,
+  crispy surface highlights,
+  premium food-photography depth,
+  minimal soft-gray shadow casting,
+  luxury advertising lighting style.
+
+  EXTRA DESIGN DETAILS:
+  Minimal clean background,
+  subtle paper-tray branding graphics,
+  high-end packaging design,
+  editorial poster balance,
+  strong whitespace usage,
+  premium commercial realism,
+  modern social-media campaign aesthetics,
+  minimal graphic clutter,
+  sharp product separation,
+  clean advertising finish.
+
+  COLOR PALETTE:
+  Primary brand color dominance,
+  high-contrast warm food tones,
+  clean white/light-gray background,
+  minimal controlled palette,
+  brand-consistent typography colors,
+  bold modern color blocking.
+
+  QUALITY:
+  Ultra high-resolution commercial rendering,
+  8K premium advertising quality,
+  Behance-level campaign presentation,
+  Pinterest-trending FMCG aesthetics,
+  professional editorial composition,
+  luxury commercial poster realism,
+  high-end typography integration,
+  award-winning advertising art direction.

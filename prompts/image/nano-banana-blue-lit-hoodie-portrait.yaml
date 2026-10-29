@@ -1,0 +1,44 @@
+id: nano-banana-blue-lit-hoodie-portrait
+title:
+  en: Bearded man in amber sunglasses, blue studio light
+  zh: 蓝光棚拍中戴琥珀色墨镜的胡须男子
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- identity-reference
+- studio-lighting
+- blue-light
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2080518616131469475
+  credit: Weinberg
+  likes: 121
+  captured: '2026-10-29'
+  posted: '2026-07-24'
+notes:
+  en: An identity reference image plus an explicit feature checklist locks the subject, while the scene is pinned to a composition reference for crop, head angle and framing. Lighting is split into a blue key from the left of camera and a neutral frontal fill on the other side, which keeps skin tones realistic.
+  zh: 用参考图加明确的五官清单锁定主体身份，并以构图参考固定裁切、头部角度和取景。光线分为镜头左侧的蓝色主光和另一侧的中性正面补光，使肤色保持真实。
+prompt: |
+  Nano Banana 2 on OpenArt
+
+  Prompt: Use the uploaded character image as the sole identity reference for the person in the final photograph. Completely replace the original model with the uploaded reference character while maintaining the reference character's exact face, age range, natural skin tone, facial proportions, forehead, eyebrows, eye shape and eye color, nose, lips, cheekbones, jawline, chin, ears, facial hair pattern, beard density, hairstyle, hairline, hair texture, neck anatomy, shoulders, and recognizable body proportions
+  ne original model's identity must not remain in any form. Do not blend the two faces. The final subject must accurately and consistently resemble only the uploaded reference character.
+  Recreate the supplied blue-lit studio portrait scene with the same pose, camera angle, lighting, clothing style, background, crop, and atmosphere.
+  Create a hyper-realistic 4:5 vertical close-up editorial portrait of the uploaded reference character wearing a black hoodie against a smooth blue-grey studio background.
+  POSE AND COMPOSITION:
+  Position the character in a three-quarter portrait angle, with the torso and head turned slightly away from the camera while the eyes look directly toward the lens. Keep the head tilted very subtly, producing a calm, mysterious, confident expression.
+  Reserve the exact head angle, shoulder orientation, camera height, camera-to-subject distance, crop, facial scale, eye placement, negative space, and overall framing from the composition reference. Frame the character from approximately the upper chest to shoulders upward.
+  Place the face slightly off-center, with the visible shoulder and hoodie creating depth in the lower portion of the image. Keep the composition intimate and cinematic.
+  CLOTHING:
+  Dress the uploaded reference character in a premium plain black hoodie. Preserve the oversized hood structure around the neck, soft matte fabric, black drawstrings, thick neckline folds, relaxed fit, and minimal design. The hoodie must contain no visible logo, print, text,
+  or neon.
+  If the uploaded reference character naturally wears a small earring or has a visible ear accessory in the reference image, preserve it accurately. Do not introduce unrelated accessories.
+  Recreate the cool cinematic lighting from the reference scene.
+  Use an intense electric-blue light from the camera-left side, illuminating one side of the forehead, eyebrow, eye, cheek, nose, beard, jawline, neck, and hoodie. Use a soft neutral frontal fill light on the opposite side to retain realistic skin color and facial detail.
+  ad a subtle blue glow on the background behind the illuminated side or the face, gradually fading into a cooler grey-blue tone on the opposite side. Maintain gentle falloff, controlled contrast, soft shadows, natural catchlights, detailed skin texture, and realistic facial hair.
+  The blue lighting must feel photographic and physically accurate. Avoid excessive neon saturation or artificial plastic skin.
+  CAMERA AND QUALITY:
+  Shot with a full-frame professional camera and an 85mm portrait lens, shallow depth of field, sharp focus on the nearest eye, soft background separation, realistic lens compression, detailed pores, natural beard texture, cinematic studio photography, premium fashion editorial aesthetic, realistic color grading, high dynamic range, ultra-photorealistic, 8K resolution.
+  No text, no logo, no watermark, no identity mixing, no altered hairstyle, no inaccurate beard, no excessive retouching, no unrealistic eye color, no deformed ears, no duplicate accessories, no cartoon or CGI appearance.

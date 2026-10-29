@@ -1,0 +1,26 @@
+id: gpt-image-vivajuice-beverage-ad-poster
+title:
+  en: Juice bottle ad with crouching model in hallway
+  zh: 果汁瓶广告，涂鸦走廊里的蹲姿模特
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- beverage
+- advertisement
+- forced-perspective
+- typography
+source:
+  name: '@AIwithSarah_ on X'
+  url: https://x.com/AIwithSarah_/status/2049452842931630202
+  credit: Sarah
+  likes: 866
+  captured: '2026-10-29'
+  posted: '2026-04-29'
+notes:
+  en: Forced perspective makes the foreground bottle dominate while the crouching pose adds depth. Naming each text block and its position in the prompt keeps the headline, badges and flavor row in the requested layout.
+  zh: 前景瓶身采用强透视，让产品占据画面主导，蹲姿则带来纵深感。提示词逐一写明每段文字及其位置，使标题、卖点徽章和口味瓶都按要求落位。
+prompt: |
+  GPT Image 2 on ChatGPT.
+
+  Prompt: Create a premium modern beverage advertisement poster in a vertical 3:4 format featuring a stylish young female model crouching confidently in a bright urban indoor hallway with colorful graffiti wall art on one side and clean minimal architecture on the other, giving a trendy streetwear lifestyle vibe. The model wears casual fashionable clothes such as a red oversized jacket, white inner top, black joggers, and white sneakers, looking directly at the camera with a cool confident expression. In the foreground, a giant realistic fruit juice bottle is held toward the camera in forced perspective, dominating the composition with sharp focus and glossy reflections. The bottle should have a completely different fictional brand name such as “VIVAJUICE” in bold modern typography, with attractive fruit illustrations on the label and flavor text like “Sunrise Mango” or “Tropical Burst.” At the top left, place the brand logo and a catchy tagline like “Drink Fresh. Live Bold.” Across the top center, add huge bold overlapping typography reading “PURE AS NATURE” or “FRESH EVERY SIP” in contrasting colors like dark green and mint. Below the headline, include 4 clean icon-based feature badges in a row with text such as “NO ADDED SUGAR,” “100% NATURAL,” “NO PRESERVATIVES,” and “NOT FROM CONCENTRATE.” At the bottom right, display three smaller bottle variants in different flavors neatly arranged. Use soft natural lighting mixed with commercial studio polish, realistic shadows, shallow depth of field, glossy floor reflections, and a premium energetic eCommerce campaign aesthetic inspired by modern Instagram and billboard ads.

@@ -1,0 +1,26 @@
+id: nano-banana-avant-mode-tech-overlay-couture-cover
+title:
+  en: Avant couture man with face tracking overlay
+  zh: 前卫白色高定男士与面部追踪界面叠加
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- editorial
+- tech-overlay
+- magazine
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2052677376128196975
+  credit: Snow
+  likes: 88
+  captured: '2026-10-29'
+  posted: '2026-05-08'
+notes:
+  en: Layering a HUD overlay with tracking labels and a bold masthead over a studio fashion portrait turns it into a magazine cover. Listing the frame, grid, barcode and headline as separate items keeps each element distinct in the output.
+  zh: 在时尚肖像上叠加带追踪标签的界面层并加上醒目的刊头字，就成了杂志封面效果。把取景框、网格、条码和标题分别列为独立要素，输出时每个元素都能清楚呈现。
+prompt: |
+  .
+  Ultra-realistic fashion editorial portrait of a confident man in avant-garde white couture with dramatic structured shoulders, hands reaching toward camera (perspective distortion), intense gaze, long wind-blown messy hair, studio soft lighting, grey textured background, high contrast, Vogue-style.
+  Add overlays: face detection box centered on face, thin white frame with corner handles, subtle grid, UI markers, cursor, tracking points, experimental tech overlay, magazine layout with bold text “AVANT MODE”, barcode. Ultra-sharp, cinematic lighting, 8K, professional fashion photography, --ar 3:4 --v 6 --style raw

@@ -1,0 +1,33 @@
+id: nano-banana-treasure-map-parchment
+title:
+  en: Layered treasure map with glowing X marking spot
+  zh: 带发光 X 标记的立体藏宝图
+model: Nano Banana 2
+mode: text-to-image
+category: map
+tags:
+- treasure-map
+- parchment
+- diorama
+- firefly
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2027140622252179959
+  credit: Alexandra Aisling
+  likes: 378
+  captured: '2026-10-29'
+  posted: '2026-02-26'
+notes:
+  en: Anchoring the scene in aged parchment and naming the physical effect of each map feature, such as torn edges becoming cliffs and coffee stains becoming lakes, turns a flat map into a physical scene. Candlelight, a miniature expedition framing, and a glowing X push it toward a dimensional diorama.
+  zh: 先锁定羊皮纸底图，再写明每个地图元素的实体效果，例如撕边变悬崖、咖啡渍变湖泊，让平面地图变成具体场景。烛光、微缩探险队的构图和发光的 X 标记则把画面推向立体的场景模型感。
+prompt: |
+  Gemini 3.1 (Nano Banana 2) is now in Firefly.
+  First image is Gemini 3.1, second image is Gemini 3, same prompt.
+  Which one do you like best?
+
+  Prompt Studio: Treasure Map, with Nano Banana, in Firefly
+
+  A hand-drawn treasure map on aged parchment, with the adventure erupting into three-dimensional quest. {STARTING_POINT} rises at the map's edge with {DEPARTURE_SCENE}, the dotted path becomes an actual trail traversing {TERRAIN_1} with {DANGER_1}, passing {LANDMARK_1} where {OBSTACLE_1} awaits. {TERRAIN_2} features {WILDLIFE_1} and {ENVIRONMENTAL_HAZARD}. The X marking the spot glows beneath {FINAL_LOCATION}, treasure partially visible, {GUARDIAN_ELEMENT} protecting it. Miniature expedition party frozen mid-journey at various points along the route. Torn edges of the map become cliffs. Coffee stains become lakes. Burn marks become scorched earth from battles past. Candlelight flicker, adventure novel lighting, 8K, the map as the story it promises.
+
+  See ALTs for ideas 👇
+  @AdobeFirefly

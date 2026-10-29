@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 59 条
+[返回目录](../../README_zh.md) · 全部 63 条
 
 <a id="gpt-image-dance-pose-sheet-4x4-character"></a>
 ### 动漫少女十六格舞蹈姿势表
@@ -211,6 +211,27 @@ COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and 
 AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
 
 Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+</details>
+
+<a id="gpt-image-caricature-companion-holding-hands"></a>
+### 写实男子与自己的3D卡通版牵手
+
+<a href="https://x.com/frametheory058/status/2065384202376556927"><img src="../../previews/gpt-image-caricature-companion-holding-hands.jpg" width="360"></a>
+
+提示词保持真人写实不变，同时生成穿着相同服装、发型和神态的卡通版本，让两者看起来是同一个人。明确指定牵手等互动动作，并把卡通角色的身高设定在肩到耳之间，避免它变成旁边的吉祥物。
+
+GPT Image 2 · 上传图改图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2065384202376556927) · 372 赞，统计于 2026-10-29
+
+[`3d-caricature`](tags.md#tag-3d-caricature) [`pixar-style`](tags.md#tag-pixar-style) [`photo-composite`](tags.md#tag-photo-composite) [`companion`](tags.md#tag-companion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium high-quality 3D caricature companion of the person in the reference image while keeping the original realistic person fully present and untouched. The realistic person must remain photorealistic, highly detailed and faithful to the original photo. Create a stylized 3D caricature version of the SAME person standing beside them. Preserve the same: outfit, hairstyle, accessories, fashion styling, identity, facial resemblance, attitude and vibe.The caricature must have: large expressive eyes, slightly oversized head, smooth cinematic skin, Pixar/Disney-inspired premium 3D styling, smaller body proportions, but still look fashionable and recognizable, NOT childish, toy-like or baby-sized.IMPORTANT: The caricature height should be approximately shoulder to ear level of the real person, never tiny or child-sized. The caricature and real person must be physically and emotionally interacting naturally. Examples of interaction: holding hands, looking at each other, walking together,
+
+sharing an object, leaning, playful pose, touching shoulder, mirroring pose, reacting to each other, casual chemistry, candid companionship. The caricature should feel like a living animated version of the same person existing in the same world. Preserve original scene, lighting and perspective whenever possible. Professional photography composition,  cinematic lighting, realistic shadows, luxury editorial realism mixed with premium stylized 3D animation. No tiny companion, no side mascot, no disconnected pose, no separate standing character, no toy proportions, no plastic doll look, no replacing the original person.
 ```
 
 </details>
@@ -771,6 +792,25 @@ You can use Nano Banana 2 via
 
 </details>
 
+<a id="gpt-image-explorer-boy-mascot-compass-3d"></a>
+### 3D 探险少年吉祥物手持指南针
+
+<a href="https://x.com/ZephyraLeigh/status/2063953406797213742"><img src="../../previews/gpt-image-explorer-boy-mascot-compass-3d.jpg" width="360"></a>
+
+这是一个可复用的模板，把主体、动作和配色留作空位，同一句提示词即可批量生成风格统一的 3D 吉祥物。指定材质、影棚布光和极简背景，让画面保持干净的 CGI 渲染质感。
+
+GPT Image 2 · 文生图 · 出处: [@ZephyraLeigh on X](https://x.com/ZephyraLeigh/status/2063953406797213742) · 110 赞，统计于 2026-10-29
+
+[`mascot`](tags.md#tag-mascot) [`3d-render`](tags.md#tag-3d-render) [`explorer`](tags.md#tag-explorer) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cute stylized 3D [SUBJECT] mascot, original character design, rounded body proportions, expressive face, [DOING ACTION] pose, smooth matte material, colorful contemporary animation aesthetic, vibrant [COLOR1], [COLOR2], and [COLOR3] palette, studio lighting, high-detail CGI render, minimalist background.
+```
+
+</details>
+
 <a id="nano-banana-isometric-pixel-art-rogue-dual-daggers"></a>
 ### 手持双匕首的等距像素风盗贼
 
@@ -799,6 +839,25 @@ gpt-image-2 loves to leave out the background for character work, you don't even
 Nano banana is actually better at pixel grid adherence. It keeps the grid clean at high resolutions. gpt-image-2 can make a mess at higher resoutions.
 
 prompt: "pixel art; a rogue game character facing south east. isometric view. solid background. cape and two daggars, one in each hand."
+```
+
+</details>
+
+<a id="nano-banana-pixar-boy-sunglasses-black-background"></a>
+### 皮克斯风格坐姿少年，戴墨镜拿咖啡
+
+<a href="https://x.com/auqibhabib/status/2045326450795094091"><img src="../../previews/nano-banana-pixar-boy-sunglasses-black-background.jpg" width="360"></a>
+
+提示词将主体固定在纯黑背景上，并把每件道具指定到具体的手，使构图与配色贴合要求。明确的留白指令让人物居中，上方保留充足空间。
+
+Nano Banana 2 · 文生图 · 出处: [@auqibhabib on X](https://x.com/auqibhabib/status/2045326450795094091) · 95 赞，统计于 2026-10-29
+
+[`pixar-style`](tags.md#tag-pixar-style) [`3d-render`](tags.md#tag-3d-render) [`character`](tags.md#tag-character) [`negative-space`](tags.md#tag-negative-space)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A detailed 3D Pixar-style digital illustration of a cool young boy with voluminous, wavy white hair and dark sunglasses. He is sitting on a small wooden chair in a relaxed, cross-legged pose against a stark black background. He is wearing a simple light gray t-shirt, dark teal or green trousers, and chunky white sneakers. His right hand holds a lit cigarette, and his left hand holds a white Starbucks coffee cup with the full green mermaid logo facing forward. The lighting is soft and stylized, casting clean highlights on his hair and clothes. The perspective is centered on the character, with ample negative space above and around him.
 ```
 
 </details>
@@ -966,6 +1025,46 @@ The light streaks interact subtly with the environment:
 • a few glowing particles floating through the spotlight beam
 The energy trail should feel fast, sharp, and directional, reinforcing the sense that the character is sprinting at extreme speed.
 ar 3:2
+```
+
+</details>
+
+<a id="gpt-image-good-morning-chibi-scene"></a>
+### Q版人物坐在粉彩 GOOD MORNING 字母上
+
+<a href="https://x.com/codewithhajra/status/2083130474075918811"><img src="../../previews/gpt-image-good-morning-chibi-scene.jpg" width="360"></a>
+
+身份锁定段落重复五官、发型、服装和体型要求，使主角与八个小人物保持同一张脸。每个小人物配一个独立动作子句，巨大的立体字母则作为固定的画面中心结构。
+
+GPT Image 2 · 上传图改图 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2083130474075918811) · 83 赞，统计于 2026-10-29
+
+[`chibi`](tags.md#tag-chibi) [`pixar-style`](tags.md#tag-pixar-style) [`greeting-card`](tags.md#tag-greeting-card) [`identity-lock`](tags.md#tag-identity-lock)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform the uploaded person into a heartwarming Pixar-inspired 3D chibi scene while preserving the exact facial identity, facial structure, hairstyle, skin tone, expression, outfit, colors, and recognizable appearance from the reference image.
+
+FORMAT LOCK
+Vertical 3:4 composition. Clean white seamless studio background. Bright centered composition. Premium greeting-card aesthetic. The giant text remains the central structure of the scene.
+
+IDENTITY LOCK
+Preserve the exact facial features, hairstyle, skin tone, body proportions, outfit, shoes, and overall identity from the uploaded image. Do not redesign the face or change the clothing.
+
+MAIN CHARACTER
+Create a premium Pixar-style 3D chibi version of the uploaded person sitting comfortably on top of giant pastel 3D letters spelling "GOOD MORNING." The character should have a warm smile and relaxed pose while holding a ceramic coffee mug. The mug should remain simple with no visible text or logo.
+
+MINI CHARACTERS
+Surround the main character with multiple adorable miniature versions of the same person, each performing a different cheerful morning activity: pouring coffee, holding an encouraging sign, enjoying a coffee, reading a book, watering a small plant, hugging a pink heart, serving a cupcake, and raising a motivational chalkboard. Every mini character must preserve the same recognizable facial identity in a playful Pixar-style design.
+
+DECORATION
+Include cute coffee cups, latte art, tiny plants, tulips, a small orange kitten, wooden signs with positive messages, soft hearts, subtle doodles, and cozy decorative elements. Keep the scene balanced, clean, and uncluttered.
+
+LIGHTING & STYLE
+Soft natural studio lighting. Warm pastel color palette. Premium Pixar-inspired 3D character design. Expressive faces. High-quality textures. Cozy morning atmosphere. Minimal yet vibrant composition. Luxury animated-film aesthetic. Ultra-detailed 8K rendering.
+
+NEGATIVE PROMPT
+Avoid low quality, blurry details, distorted face, changed identity, altered outfit, extra limbs, duplicate main character, bad anatomy, plastic textures, cluttered composition, dark lighting, harsh shadows, logos, watermarks, text artifacts, or unrealistic 3D rendering.
 ```
 
 </details>

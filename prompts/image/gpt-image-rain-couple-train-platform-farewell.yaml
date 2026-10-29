@@ -1,0 +1,41 @@
+id: gpt-image-rain-couple-train-platform-farewell
+title:
+  en: Woman at barred train window, drenched man reaching out
+  zh: 雨中列车铁栏窗边的女子与伸手的湿透男子
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- cinematic
+- rain
+- train-platform
+- couple
+source:
+  name: '@Redchili105 on X'
+  url: https://x.com/Redchili105/status/2072588248963055715
+  credit: Red chili 🌶️
+  likes: 61
+  captured: '2026-10-29'
+  posted: '2026-07-02'
+notes:
+  en: The prompt fixes the camera at eye level on the platform, frames both people through the train window, and sets the emotional beat as a reach between two subjects. The negative prompt lists common face and anatomy failures to suppress.
+  zh: 提示词将镜头固定在站台的平视位置，透过车窗同时框住两人，并以两人之间的伸手动作定义情绪节拍。负面提示列出了常见的面部与肢体错误以便抑制。
+prompt: |
+  Title
+  Rain Couple: Emotional Train Platform Farewell
+  Subject
+  Ultra-realistic cinematic emotional farewell of a South Asian couple at an old Indian railway platform during a heavy monsoon rainstorm, with strict character consistency and photorealistic quality.
+  Main Scene
+  A heartbreaking yet beautiful farewell unfolds as an old train prepares to depart in a torrential monsoon. The woman is inside a vintage train compartment, leaning against the barred open window with one trembling hand pressed to the iron bars, desperately trying to reach the man outside. She wears a flowing peacock teal-blue georgette saree with the pallu loosely draped, rain-dampened dark hair clinging to her cheeks, tear-filled expressive eyes, and a sorrowful yet loving expression. Outside on the rain-soaked platform, the man stands completely drenched, reaching toward her with deep emotion, his face filled with longing and heartbreak.
+  Character Lock
+  Maintain 99–100% facial identity preservation with the reference images. Do not alter facial structure, skin tone, hairstyle, or proportions. The man has curly messy bedhead black hair, natural light beard, expressive eyes, and realistic wet skin. Both characters must remain fully recognizable.
+  Environment
+  Vintage Indian railway platform, old passenger train with weathered barred windows, heavy monsoon rain, puddles reflecting station lights, misty atmosphere, steam, dramatic clouds, realistic water splashes, cinematic depth, emotional ambiance.
+  Camera & Composition
+  Medium cinematic shot from the platform, framing both characters through the train window, eye-level perspective, shallow depth of field, natural composition, intense emotional storytelling.
+  Lighting
+  Soft overcast monsoon daylight mixed with warm train interior glow, realistic wet reflections, diffused rain light, volumetric atmosphere, subtle rim lighting.
+  Quality & Style
+  Ultra-realistic, hyper-detailed, cinematic photography, HDR, 8K, DSLR realism, natural skin texture, realistic rain physics, lifelike wet fabric, emotional storytelling, award-winning composition, masterpiece, sharp focus.
+  Negative Prompt
+  Low quality, blurry, cartoon, CGI, anime, extra fingers, extra limbs, duplicate people, distorted face, altered identity, incorrect hairstyle, oversaturated colors, unrealistic rain, bad anatomy, watermark, logo, text, frame, artifacts, cropped composition.

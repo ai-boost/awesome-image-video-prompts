@@ -1,0 +1,24 @@
+id: gpt-image-fashion-collage-monochrome-panels-cutout
+title:
+  en: Monochrome portrait panels frame a color fashion cutout
+  zh: 黑白肖像面板环绕彩色时尚人像抠图
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- collage
+- fashion
+- editorial
+- monochrome
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2062093611387551854
+  credit: Noor
+  likes: 263
+  captured: '2026-10-29'
+  posted: '2026-06-03'
+notes:
+  en: Repeating one subject in four monochrome panels beside a single full colour cutout builds a series feel, and naming exact wardrobe keeps the figure consistent across frames. The explicit NO TEXT and NO LOGOS clauses keep the poster clean enough for later typography.
+  zh: 用同一主角的四张黑白面板搭配一张彩色全身抠图营造系列感，明确写出服装细节可让各画面人物保持一致。结尾的无文字、无标志约束让海报便于后期加字。
+prompt: |
+  MODERN EDITORIAL COLLAGE POSTER DESIGN. CLEAN MINIMALIST FASHION COMPOSITION. BACKGROUND FEATURES FOUR VERTICALLY STACKED ROUNDED-RECTANGLE PANELS CONTAINING BLACK-AND-WHITE CINEMATIC PORTRAITS OF THE SAME STYLISH YOUNG WOMAN WEARING LUXURY SUNGLASSES IN DIFFERENT HIGH-FASHION POSES. IN THE FOREGROUND, A FULL-BODY HIGH-QUALITY COLOR CUTOUT OF THE SAME WOMAN STANDS CONFIDENTLY, WEARING AN OVERSIZED WHITE SHIRT, TAILORED BLACK PANTS, AND BLACK SUNGLASSES. SOFT REALISTIC SHADOWS, DEPTH LAYERING, PREMIUM MAGAZINE EDITORIAL STYLE, HIGH CONTRAST LIGHTING, CLEAN WHITE BACKGROUND, MODERN FASHION ADVERTISING AESTHETIC, ULTRA-REALISTIC SKIN TEXTURE, SHARP DETAILS, PROFESSIONAL POSTER COMPOSITION, LUXURY VOGUE-INSPIRED DESIGN, PHOTOREALISTIC, 8K, STUDIO QUALITY, NO TEXT, NO TYPOGRAPHY, NO LETTERS, NO LOGOS, NO WATERMARKS.

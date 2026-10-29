@@ -1,0 +1,28 @@
+id: gpt-image-rainy-car-window-cream-sweater-portrait
+title:
+  en: Rainy car window portrait in cream sweater
+  zh: 雨天车窗旁穿奶油毛衣的女性肖像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- soft-focus
+- film-photography
+- rainy-day
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2071516626886000850
+  credit: ÀBDŪLLÂH
+  likes: 183
+  captured: '2026-10-29'
+  posted: '2026-06-29'
+notes:
+  en: 'Pairs soft-focus optics terms (Black Pro Mist, bloom, creamy bokeh) with concrete physical setup: an 85mm lens at f/1.2, rain on the window and natural window light. The real-world cues anchor the dreamy haze so it reads as a film shot rather than a filter effect.'
+  zh: 将柔焦光学术语（黑色Pro Mist柔光滤镜、光晕、奶油般的焦外）与具体拍摄条件结合：85mm镜头 f/1.2、窗外雨滴和自然窗光。真实的物理线索让梦幻的雾感读起来像一张胶片照片，而不只是滤镜效果。
+prompt: |
+  Ultra-realistic cinematic portrait of a beautiful young woman sitting inside a car, long dark brown hair partially covering one eye, soft porcelain skin, oversized cream sweater, resting her cheek on her hand, dreamy melancholic expression, soft focus, dreamy blur, diffusion filter effect, Black Pro Mist filter, subtle glow, cinematic haze, bloom lighting, ethereal atmosphere, shallow depth of field, creamy bokeh, warm muted color grading, rainy day outside the window, natural window light, low contrast, film photography, 85mm lens, f/1.2, photorealistic, editorial fashion portrait, masterpiece, ultra detailed, 9:16.
+
+  Dreamy soft blur, gauzy atmosphere, misty lens, delicate glow, cinematic diffusion, velvety focus, soft cinematic haze, romantic film look, gentle bloom, dreamy aesthetic.
+
+  Negative Prompt: sharp focus, overly detailed pores, harsh contrast, HDR, oversaturated, crisp edges, strong sharpening, digital look, cartoon, anime, CGI

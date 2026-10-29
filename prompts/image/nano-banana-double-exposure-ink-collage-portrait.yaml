@@ -1,0 +1,24 @@
+id: nano-banana-double-exposure-ink-collage-portrait
+title:
+  en: Double exposure collage of woman with ink splashes
+  zh: 双重曝光拼贴，墨迹与花瓣背景中的女性
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- double-exposure
+- collage
+- portrait
+- ink-splash
+source:
+  name: '@AiwithKinza on X'
+  url: https://x.com/AiwithKinza/status/2064584772685344981
+  credit: Kinza/Ai
+  likes: 72
+  captured: '2026-10-29'
+  posted: '2026-06-10'
+notes:
+  en: Pairs a close up profile on the left with a full body shot on the right, so the same subject appears twice in one frame. The prompt lists wardrobe, props and background layers as separate clauses and asks to keep the face from the uploaded photo, which keeps both panels consistent.
+  zh: 左侧为侧脸特写，右侧为全身靠墙构图，同一人物在一个画面中出现两次形成拼贴效果。提示词将服饰、配饰和背景层次分条描述，并要求保持上传照片中的面部，使两个画面的人物保持一致。
+prompt: |
+  Generate a double exposure and collage-style digital art piece featuring an hourglass curvy, full huge bust, stylish woman. On the left, a close-up cinematic portrait of her face in profile, wearing round black sunglasses, elegant earrings, and a delicate necklace, with her messy dark hair blowing in the wind. On the right, a full-body shot of the same Woman leaning against a white textured wall, wearing a black graphic, extremely tight fitting t-shirt with extra  deep scoop neck, with blue under sleeves, white high-waisted pants, and white sneakers, holding her sunglasses. The background is an artistic blend of black watercolor ink splashes, golden bokeh light streaks, flying birds, and scattered red flower petals under a soft twilight sky. High resolution, 8k, photorealistic, cinematic lighting. Maintain the same face as the uploaded photo. Aspect ratio 4:5

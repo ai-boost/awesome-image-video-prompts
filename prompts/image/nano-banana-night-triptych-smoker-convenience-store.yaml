@@ -1,0 +1,30 @@
+id: nano-banana-night-triptych-smoker-convenience-store
+title:
+  en: Three night panels of a man smoking and drinking
+  zh: 夜景三联画：男子吸烟与饮用易拉罐
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- triptych
+- night
+- cinematic
+- film-look
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2033793020940980720
+  credit: Heisenberg
+  likes: 164
+  captured: '2026-10-29'
+  posted: '2026-03-17'
+notes:
+  en: Dividing the frame into three panels with set shot types, from medium shot to extreme close up, gives the model a clear sequence to follow. Naming the light sources in each panel, such as green neon, fluorescent glow and headlight streaks, anchors the night colour palette.
+  zh: 将画面拆成三个分镜并分别指定景别，从中景到大特写，让模型按顺序生成。每个画面都点明光源，如绿色霓虹、荧光灯和车灯拖影，使夜景色调保持统一。
+prompt: |
+  Google Nano Banana 2 on Gemini.
+
+  Prompt: A vertical triptych of three cinematic, night-time urban photographs featuring a young man with messy, curly reddish-brown hair and thin, round wire-frame glasses.
+  Top Panel: The man is seated in front of a 7-Eleven storefront. He wears a dark plaid flannel shirt over a black turtleneck. He is captured in a candid moment, holding a lit cigarette to his lips. To the left, there's a vibrant green neon sign. The lighting is dominated by a cool, fluorescent green glow and the warm interior light of the convenience store.
+  Middle Panel: An extreme close-up profile shot. He is drinking from a gold-and-red metallic beverage can. His glasses catch a sharp, vivid reflection of the 7-Eleven logo and orange-red street lights. A subtle lens flare streaks horizontally across his face. The background is a soft, warm bokeh of city lights and traffic signals.
+  Bottom Panel: The man stands on a pedestrian overpass overlooking a busy highway. He has his head tilted back, exhaling a thick wisp of white smoke into the night air. Below him, the blurred streaks of white headlights and red taillights create a sense of motion. The overpass structure is lit with cool-toned industrial lamps, contrasting with his warm skin tones.
+  Style: 35mm film aesthetic, cinematic grain, shallow depth of field, high contrast, urban noir mood.

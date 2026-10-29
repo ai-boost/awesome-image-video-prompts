@@ -1,0 +1,24 @@
+id: nano-banana-beach-three-panel-linen-golden-hour
+title:
+  en: Three-panel beach portrait in linen shirt
+  zh: 亚麻衬衫海滩三联人像
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- portrait
+- collage
+- golden-hour
+- beach
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2039915907162779888
+  credit: Mr Das
+  likes: 103
+  captured: '2026-10-29'
+  posted: '2026-04-03'
+notes:
+  en: Describing each stacked panel with its own pose and camera angle gives the model a clear shot list. Repeating the same wardrobe and the teal and orange grade across all three panels keeps the look consistent.
+  zh: 把画面拆成三个上下排列的画格，每格写明姿势和机位（坐姿、背对镜头、低角度），给模型一份清晰的分镜清单。三格统一服装和青橙色调，人物与风格就不会跑偏。
+prompt: |
+  A cinematic three-panel vertical collage featuring a stylish young man at a serene beach during golden hour. In the top panel, he is sitting on the sand with one knee up, resting his arm on it, gazing down thoughtfully as waves approach. In the middle panel, he stands facing the ocean with one hand running through his hair, shirt slightly flowing in the breeze, capturing a candid emotional moment. In the bottom panel, he is captured from a low-angle front shot, adjusting his dark sunglasses while looking toward the horizon with a confident, calm expression. He is wearing a crisp, earth-toned beige linen button-down shirt. The lighting is warm and moody with a soft teal-and-orange color grade, subtle film grain texture, and high-fashion editorial aesthetic. 4K resolution, hyper-realistic, emotional atmosphere, cinematic film still, 100% same face as reference photo, vertical 9:16 composition, slightly zoomed-in framing.

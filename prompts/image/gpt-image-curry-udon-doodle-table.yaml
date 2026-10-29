@@ -1,0 +1,24 @@
+id: gpt-image-curry-udon-doodle-table
+title:
+  en: Curry udon bowls with tempura and doodle notes
+  zh: 咖喱乌冬两碗配天妇罗与涂鸦便签
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- food-photography
+- overhead-shot
+- doodles
+- scrapbook
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2053700365338714193
+  credit: Johnn
+  likes: 181
+  captured: '2026-10-29'
+  posted: '2026-05-11'
+notes:
+  en: A fixed overhead camera angle and warm restaurant lighting keep the food photo realistic. The white marker doodles are described as a separate list of icons and annotations, so they read as a layer on top of the photo.
+  zh: 固定的俯拍角度与暖色餐厅灯光保证美食照的写实感，白色马克笔涂鸦以独立的图标与注释清单描述，形成叠加在照片之上的一层。
+prompt: |
+  Luxury artisan bakery flatlay photography featuring freshly baked croissants, sourdough slices, butter rolls, fruit danishes, and handcrafted coffee arranged beautifully on a textured linen table setup. Warm morning sunlight spills across the scene, creating soft golden highlights and cozy café shadows. Elegant food styling with realistic flaky pastry textures, melted butter details, and creamy coffee foam. Surround the composition with playful hand-drawn doodles and journal-style annotations — tiny stars, ribbon sketches, smiley faces, handwritten bakery notes, sparkles, and whimsical arrows in soft white ink. Chic European café atmosphere blended with modern scrapbook aesthetics, warm beige and caramel color palette, cinematic depth, comforting brunch mood, ultra detailed lifestyle food photography, soft bokeh accents, 8k resolution.

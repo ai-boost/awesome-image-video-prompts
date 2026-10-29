@@ -1,0 +1,27 @@
+id: gpt-image-crayon-profile-page-doodles
+title:
+  en: Crayon child drawing of a profile page with doodles
+  zh: 蜡笔儿童画风格的个人主页与涂鸦
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- crayon
+- child-drawing
+- doodles
+- profile
+source:
+  name: '@miratechtool on X'
+  url: https://x.com/miratechtool/status/2050621516300026056
+  credit: Mira
+  likes: 302
+  captured: '2026-10-29'
+  posted: '2026-05-02'
+notes:
+  en: Concrete visual cues like wobbly lines, visible crayon texture and colors spilling past the outlines set the handmade style, while a clean white paper background keeps the scene readable. Listing specific doodles such as clouds, stars and castles gives the whole picture one playful vocabulary.
+  zh: 用抖动线条、可见的蜡笔纹理和超出轮廓的色彩等具体视觉线索确定手绘风格，干净的白纸背景让画面保持可读。列出云朵、星星、城堡等具体涂鸦元素，使整幅画有统一而有趣的视觉语汇。
+prompt: |
+  Transform the scene into a playful crayon-style illustration, like a 10-year-old’s drawing. Use wobbly lines, imperfect shapes, and visible crayon textures on a clean white paper background.
+  Apply bright pastel and vibrant colors, letting them go slightly outside the lines for a natural handmade feel.
+  Add small, lively doodles like smiling clouds, stars, candy, and tiny castles to create a fun, imaginative world.
+  Keep it simple but expressive — warm, nostalgic, slightly messy, and full of innocent charm.

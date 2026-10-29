@@ -1,0 +1,40 @@
+id: nano-banana-pencil-sword-knight-dragon-doodle
+title:
+  en: Pencil sword knight battles ink dragon
+  zh: 铅笔剑骑士对战墨线巨龙
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- composite
+- pencil
+- doodle
+- fantasy
+source:
+  name: '@ShamsAmin56 on X'
+  url: https://x.com/ShamsAmin56/status/2061872273041276940
+  credit: Shams
+  likes: 330
+  captured: '2026-10-29'
+  posted: '2026-06-02'
+notes:
+  en: A clean white studio frame in 9:16 keeps the composite tidy, and the placeholder slots turn one visual pun into a reusable structure. Asking for a quick paper sketch with minimal shading helps the drawn figures blend with the real object.
+  zh: 固定的白色棚拍背景和 9:16 竖版比例让合成画面干净利落，方括号占位则让同一种双关结构可以替换成其他物件。要求像纸上快速速写、少量阴影，能让手绘人物与真实物体自然衔接。
+prompt: |
+  Creative composite photograph, 9:16 vertical aspect ratio, clean minimalist white background, studio lighting, high detail, sharp focus.
+
+  A real-life [EVERYDAY OBJECT] is physically placed and perfectly integrated as a key part of a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading, like a quick sketch on paper.
+
+  The [OBJECT] represents [CLEVER PART OF THE SCENE - e.g. hair, weapon, body part, clothing, etc.], cleverly completing the visual pun or concept. The cartoon character interacts dynamically with the object in a humorous, meaningful, or surprising way.
+
+  Photorealistic object + bold black line drawing style, perfect seamless blend between real object and illustration, clean negative space, artistic and witty concept, high quality product photography mixed with doodle art.
+
+  • How to edit super easy
+
+  Just replace the placeholders:
+
+  [EVERYDAY OBJECT] → what real thing you'll use (tomato,
+  onion, chips, etc.)
+
+  [CLEVER PART OF THE SCENE] → what the object becomes in the drawing
+  Then customize the character and concept

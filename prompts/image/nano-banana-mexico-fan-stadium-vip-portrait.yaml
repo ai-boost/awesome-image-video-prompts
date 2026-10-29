@@ -1,0 +1,40 @@
+id: nano-banana-mexico-fan-stadium-vip-portrait
+title:
+  en: Young Mexican fan with flag in packed stadium
+  zh: 墨西哥球迷在满座球场举国旗
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- portrait
+- stadium
+- golden-hour
+- sports
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2067601264557609050
+  credit: Anissa
+  likes: 104
+  captured: '2026-10-29'
+  posted: '2026-06-18'
+notes:
+  en: Pinning the lens (85mm f/1.8), the light (golden hour on the face) and the foreground placement keeps the crowd and scoreboard soft behind her. Naming concrete props like the jersey, flag and red bow gives the model fixed anchors to render.
+  zh: 通过固定镜头（85mm f/1.8）、光线（照在脸上的黄金时段光）和前景站位，让身后的人群与记分牌保持柔焦。明确列出球衣、国旗和红色发饰等具体道具，为模型提供可稳定呈现的锚点。
+prompt: |
+  Ultra-realistic cinematic photograph of a young Mexican female football fan posing in the VIP stands of a completely packed football stadium during a Mexico National Team match, captured in a vertical 9:16 format.
+
+  The young woman is in the foreground, looking directly at the camera with a sweet, natural smile, expressing joy and youthful energy. She has fair, radiant skin with realistic texture, delicate facial features, large warm brown eyes, naturally pink lips, soft "no-makeup makeup" style cosmetics, and slightly blushed cheeks.
+
+  She has long, thick, wavy hair reaching her waist in a rich chocolate brown color with subtle caramel highlights and balayage. Soft strands frame her face, while her silky hair flows naturally in the breeze. A small satin red bow sits on top of her hair, adding a youthful and feminine touch.
+
+  She is wearing the official black Mexico National Team jersey with emerald green details on the collar and sleeves, featuring a fitted athletic cut, paired with high-waisted black shorts.
+
+  She holds a Mexican flag in her left hand, clearly displaying its vibrant green, white, and red colors with the national emblem accurately visible.
+
+  She is leaning casually against a metal railing in the upper VIP section of the stadium.
+
+  In the background, a brightly illuminated professional football pitch is visible, surrounded by thousands of fans dressed in green, countless Mexican flags waving throughout the stands, a festive and patriotic atmosphere, a distant electronic scoreboard, and the modern stadium architecture featuring a monumental curved roof.
+
+  Natural golden-hour sunset lighting softly illuminates her face, creating delicate shadows and a warm cinematic glow. The image features a shallow depth of field with a subtly blurred background, soft crowd bokeh, vibrant yet realistic colors, and an editorial sports photography aesthetic.
+
+  Centered composition, shot with an 85mm f/1.8 lens, razor-sharp focus on the eyes, highly realistic skin, hair, and fabric textures, professional photographic quality, natural HDR, ultra-detailed, photorealistic, 8K UHD, masterpiece, realistic lighting, cinematic atmosphere, premium sports editorial photography, joyful Mexican football fan celebrating her team, authentic stadium energy, highly detailed crowd, realistic body proportions, and a natural pose.

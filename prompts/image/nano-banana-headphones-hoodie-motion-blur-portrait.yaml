@@ -1,0 +1,28 @@
+id: nano-banana-headphones-hoodie-motion-blur-portrait
+title:
+  en: Centered man in black hoodie with motion blurred figures
+  zh: 居中黑卫衣男子，周围是动态模糊人影
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- motion-blur
+- editorial
+- headphones
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2063619957573963785
+  credit: Heisenberg
+  likes: 156
+  captured: '2026-10-29'
+  posted: '2026-06-07'
+notes:
+  en: Locking the subject into a centered, symmetrical medium shot with a flat grey wall and a 50mm, f/2.8 to f/4 depth of field keeps the figure sharp. Describing the side figures as directional lateral motion blur makes the stillness of the centre the point of the image.
+  zh: 通过居中对称的中景构图、平光灰墙以及50mm镜头下f/2.8到f/4的景深，让主体清晰锐利。用定向横向运动模糊描述两侧人影，使静止的中心人物成为画面焦点。
+prompt: |
+  Calm in the middle of the chaos. 🎧
+
+  Nano Banana 2 on Gemini.
+
+  Prompt: Cinematic fashion-editorial portrait of a person with messy hair, well groomed beard and glasses, framed as a centered medium shot from waist to head, subject perfectly aligned in the middle with symmetrical composition. Pose: Standing still facing camera directly, shoulders relaxed, hands in pockets, posture upright; facial expression neutral, calm, slightly detached. Wardrobe: Minimalist oversized black hoodie with matte fabric, no visible branding. Accessories: Large over-ear headphones worn on the head with a clean, modern design. Background: Flat, softly textured light gray wall (approx hex #d9d9d9) with subtle grain. Lighting: soft, diffused frontal lighting (5000-5500k) creating even illumination with minimal shadows and smooth skin tones; no harsh highlights, clean tonal transitions. Motion effect: Strong lateral motion blur silhouettes passing on both sides of the subject, creating ghosted human forms with directional blur, emphasizing stillness of the central figure. Optics: 50mm lens simulation, moderate depth of field (f/2.8-f/4) keeping subject sharp while motion-blurred elements streak across frame; slight film grain and soft contrast. Texture: Clean, natural skin detail with subtle softness, matte fabric rendering, minimal reflections. mood: introspective, isolated, urban, quiet contrast between stillness and surrounding motion. editorial, modern, high-detail, cinematic composition, ultra-realistic textures, professional fashion photography style.

@@ -1,0 +1,24 @@
+id: nano-banana-wet-profile-close-up-green-eyes
+title:
+  en: Wet profile portrait with green hazel eyes
+  zh: 湿发侧脸特写，绿棕色眼睛
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- wet-skin
+- water-droplets
+- reference-photo
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2039209681789595747
+  credit: Jack
+  likes: 93
+  captured: '2026-10-29'
+  posted: '2026-04-01'
+notes:
+  en: Pinning identity to the uploaded reference while naming specific surface details such as droplets, sweat and clumped hair makes the wet look read as real skin. Limiting highlights to the eyes and lips and specifying a cool grey bokeh background keeps the shine under control.
+  zh: 通过上传的参考图锁定五官，同时明确指定水珠、汗珠和贴肤湿发等细节，使湿润质感更真实。限定高光只出现在眼睛和嘴唇，并指定冷灰色景深背景，让光线更可控。
+prompt: |
+  Extreme wet close-up portrait. Young woman's face in profile (use uploaded pictures for proper reference) Dark wet hair naturally glued to the skin. Fine droplets of water and thin sweat glistening realistically on her face. Focus on bright natural green/hazel eyes with realistic reflection avoid excessive shine. Moist and shiny lips, soft natural texture. Soft lighting and cool shades with a light grey/white bokeh background colour. Keep same facial features

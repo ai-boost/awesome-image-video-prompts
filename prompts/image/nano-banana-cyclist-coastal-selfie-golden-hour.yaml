@@ -1,0 +1,64 @@
+id: nano-banana-cyclist-coastal-selfie-golden-hour
+title:
+  en: Cyclist selfie on coastal road at sunset
+  zh: 黄昏海岸公路骑行者自拍
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- selfie
+- cycling
+- golden-hour
+- coastal
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2028846886564856006
+  credit: Mr Das
+  likes: 64
+  captured: '2026-10-29'
+  posted: '2026-03-03'
+notes:
+  en: A wide front facing selfie lens with shallow depth of field and motion blur on the road sells the speed of the ride. Golden hour rim light and the coral and navy palette keep the subject sharp and separated from the background.
+  zh: 广角前置自拍镜头配合浅景深和路面动态模糊，营造骑行的速度感。金色逆光勾出人物轮廓，珊瑚色与深蓝色的搭配让主体始终清晰突出。
+prompt: |
+  {
+    "image_type": "photorealistic smartphone selfie / action portrait",
+    "scene": "outdoor biking photoshoot on a scenic coastal road at golden hour",
+    "subject": {
+      "description": "fit young woman in her mid-20s, sun-kissed skin with natural glow, light freckles across nose and cheeks",
+      "hair": "long wavy blonde hair slightly tousled by wind, few loose strands blowing across face, secured partially with a loose ponytail",
+      "expression": "confident joyful smile, eyes looking directly at camera (selfie angle), subtle squint from bright sunlight",
+      "pose": "leaning slightly forward over handlebars of a sleek gravel bike, one hand gripping handlebar, other arm extended holding phone for selfie, shoulders relaxed, dynamic but natural riding posture"
+    },
+    "outfit": {
+      "top": "form-fitting lightweight cycling jersey in soft pastel coral with subtle mesh panels, short sleeves, small brand logo on chest",
+      "bottom": "high-waisted padded cycling bib shorts in deep navy, clean lines",
+      "accessories": "stylish wrap-around cycling sunglasses (mirrored rose-gold lenses), small stud earrings, thin sports watch",
+      "shoes": "white cycling shoes with subtle colorful accents"
+    },
+    "bike": "modern carbon gravel bike, matte olive green frame with cream accents, wide tires, drop bars, small saddle bag, clean minimalist look",
+    "environment": {
+      "location": "winding coastal cliffside road, ocean to the right, golden-hour sunlight raking across scene",
+      "foreground": "slightly blurred handlebars and front wheel, natural bokeh from phone lens",
+      "background": "dramatic golden ocean horizon, distant rugged cliffs, warm sky with soft pink-orange clouds, gentle motion blur on distant scenery suggesting speed",
+      "atmosphere": "breezy, adventurous, carefree summer evening ride vibe"
+    },
+    "lighting": {
+      "time_of_day": "golden hour — warm sunset light coming from slightly behind and to the side",
+      "effects": "rich golden rim light in hair and shoulders, soft warm highlights on skin and jersey, gentle lens flare from low sun, long soft shadows on road"
+    },
+    "camera_simulation": {
+      "perspective": "classic front-facing smartphone selfie angle (slight wide distortion at edges, natural close-up feel)",
+      "lens": "equivalent to 26–28mm full-frame (mild wide), f/1.8–f/2.0 look",
+      "depth_of_field": "shallow — sharp face and upper body, progressive blur toward bike and background",
+      "quality": "ultra-detailed skin texture, realistic sweat微 beads from ride, natural imperfections, high dynamic range, subtle chromatic aberration and lens vignette for authenticity"
+    },
+    "mood": "empowered, free-spirited, radiant summer energy, adventurous yet relaxed",
+    "color_palette": "warm golds, soft corals, deep ocean blues, creamy highlights, rich sunset oranges",
+    "technical": {
+      "resolution": "ultra high detail, 8K equivalent",
+      "style": "hyper-photorealistic, smartphone candid aesthetic, no artificial perfection",
+      "grain": "very light natural grain for realism",
+      "text": "none"
+    }
+  }

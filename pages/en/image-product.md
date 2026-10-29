@@ -1,6 +1,6 @@
 # Product shots and e-commerce
 
-[Back to the list](../../README.md) · All 32 entries
+[Back to the list](../../README.md) · All 36 entries
 
 <a id="gpt-image-iced-coffee-glass-studio-product-photo"></a>
 ### Iced coffee with milk swirls in frosted glass
@@ -82,6 +82,25 @@ Playful concept packaging design for [product name], box structure creatively sh
 
 </details>
 
+<a id="nano-banana-underwater-ice-pop-diver"></a>
+### Hand holding ice pop with a diver inside
+
+<a href="https://x.com/mr_farman_ai/status/2070002523919028394"><img src="../../previews/nano-banana-underwater-ice-pop-diver.jpg" width="360"></a>
+
+Eye level first person framing keeps the hand and popsicle in sharp focus against a blurred street. Naming the material, such as a transparent blue shell and melted edges, plus a product photography style makes the glass-like refraction read as real.
+
+Nano Banana 2 · Text-to-image · Source: [@mr_farman_ai on X](https://x.com/mr_farman_ai/status/2070002523919028394) · 266 likes on 2026-10-29
+
+[`surreal`](tags.md#tag-surreal) [`first-person`](tags.md#tag-first-person) [`ice-pop`](tags.md#tag-ice-pop) [`product-photography`](tags.md#tag-product-photography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+First-person perspective, one hand holding a surreal ice cream bar with a transparent blue shell revealing an underwater scene inside, featuring a small diver, a few small fish, floating bubbles, and churning waves. A green ice stick runs through the center. The ice bar is slightly melted, with a wooden stick at the bottom, which the hand is holding. The background is a blurred New York cityscape street, captured in a high-end product photography style.
+```
+
+</details>
+
 <a id="nano-banana-ramen-liquid-explosion-labeled"></a>
 ### Ramen bowl in a labeled liquid explosion
 
@@ -106,6 +125,25 @@ Check ALTs for ideas 👇
 
 </details>
 
+<a id="nano-banana-cartoon-food-packaging"></a>
+### Four cartoon food packages with window reveals
+
+<a href="https://x.com/azed_ai/status/2027806040109289487"><img src="../../previews/nano-banana-cartoon-food-packaging.jpg" width="360"></a>
+
+Swap in your product name, then ask for a cartoon face on the front panel with a window cut out as part of its expression, which ties the box shape to the product. Studio terms like soft studio lighting, pure white background and a subtle contact shadow keep the render clean and retail ready.
+
+Nano Banana 2 · Text-to-image · Source: [@azed_ai on X](https://x.com/azed_ai/status/2027806040109289487) · 187 likes on 2026-10-29
+
+[`packaging`](tags.md#tag-packaging) [`mockup`](tags.md#tag-mockup) [`cartoon`](tags.md#tag-cartoon) [`product`](tags.md#tag-product)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Playful designer packaging for [product name], creative box shaped like the product, integrated cartoon face on the front panel, oversized die-cut window revealing the real contents as part of the character’s expression, smooth matte cardboard material, bold flat graphic design, modern minimalist branding, limited pastel color palette, rounded friendly shapes, clean typography, high-end 3D packaging mockup render, soft studio lighting, pure white background, subtle realistic contact shadow beneath, ultra-detailed, retail-ready presentation, 1:1 aspect ratio.
+```
+
+</details>
+
 <a id="nano-banana-uv-unwrapped-albedo-texture-box-device"></a>
 ### UV unwrapped albedo texture map of a device
 
@@ -123,6 +161,25 @@ Nano Banana 2 · Edit · Source: [@boredmaxx on X](https://x.com/boredmaxx/statu
 or just use Nano Banana 2
 
 prompt: UV unwrapped albedo texture map of a hard surface box device, flat 2D layout only, no 3D rendering, no perspective distortion, no shadows or lighting effects, seamless unwrap filling the entire 1:1 square canvas, high-resolution PBR base color map, macro close-up texture details
+```
+
+</details>
+
+<a id="gpt-image-giant-chocolate-bar-snowy-valley"></a>
+### Giant chocolate bar towering over snowy mountain valley
+
+<a href="https://x.com/Urwa_345/status/2091899842457206792"><img src="../../previews/gpt-image-giant-chocolate-bar-snowy-valley.jpg" width="360"></a>
+
+The prompt pairs a surreal scale shift with concrete anchors such as tiny photographing people, floating chocolate pieces and golden light breaking through clouds. Stating the 9:16 vertical frame and realistic proportions keeps the oversized product from warping.
+
+GPT Image 2 · Text-to-image · Source: [@Urwa_345 on X](https://x.com/Urwa_345/status/2091899842457206792) · 172 likes on 2026-10-29
+
+[`surreal`](tags.md#tag-surreal) [`food-ad`](tags.md#tag-food-ad) [`scale`](tags.md#tag-scale) [`product-photo`](tags.md#tag-product-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic cinematic chocolate advertisement featuring a gigantic premium chocolate bar standing vertically in the middle of a beautiful snowy mountain valley. The chocolate bar is dramatically oversized, towering above the surrounding landscape. Rich glossy chocolate texture with realistic details and elegant premium packaging. Hundreds of tiny people stand nearby taking photographs while snow-covered mountains rise dramatically in the background. Pieces of chocolate appear to float around the giant product as if gravity has stopped. Warm golden sunlight breaks through the clouds, creating a magical luxurious glow. Cinematic atmosphere, realistic snow reflections, highly detailed textures, photorealistic product photography, premium food advertising aesthetic, 8K, sharp focus, vertical 9:16 composition, realistic proportions, no distortion, no watermark, no extra text
 ```
 
 </details>
@@ -334,6 +391,53 @@ Nano Banana 2 on
 
 Prompt: Ultra-realistic dreamy product photography in a surreal pastel sky environment. A transparent plastic jar filled with thick pink strawberry yogurt smoothie sits centered and slightly embedded inside fluffy cotton-candy-like pink clouds, the jar open at the top with creamy surface visible and a fresh whole strawberry resting on the rim. The jar label is a soft white scalloped shape with simple elegant pink brand text and small strawberry illustrations around the container.
 Additional ripe strawberries are placed around the jar partially resting on the clouds. The background is a soft pale blue sky filled with multiple floating pink cotton candy clouds, some clouds containing small strawberries nestled inside them. Lighting is soft diffused daylight creating gentle shadows and glossy highlights on the creamy texture and plastic surface. Clean symmetrical composition, whimsical dessert advertising aesthetic, soft pastel color palette dominated by pink and light blue, shallow depth of field but product fully sharp, highly detailed textures on clouds and fruit, photorealistic 8k quality.
+```
+
+</details>
+
+<a id="gpt-image-matcha-splash-iced-drink"></a>
+### Matcha iced drink splash with model in cafe
+
+<a href="https://x.com/codewithhajra/status/2074109215652659439"><img src="../../previews/gpt-image-matcha-splash-iced-drink.jpg" width="360"></a>
+
+The prompt puts the drink in the extreme foreground with forced perspective and places the model slightly behind, so the product dominates while the person stays readable. A frozen splash with a fixed list of floating garnishes gives the hero moment one clear focal point.
+
+GPT Image 2 · Text-to-image · Source: [@codewithhajra on X](https://x.com/codewithhajra/status/2074109215652659439) · 89 likes on 2026-10-29
+
+[`beverage`](tags.md#tag-beverage) [`advertisement`](tags.md#tag-advertisement) [`forced perspective`](tags.md#tag-forcedperspective) [`splash`](tags.md#tag-splash)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic luxury beverage advertisement, cinematic commercial photography, vertical 9:16.
+
+A stylish, elegant, fashion-forward [woman] stands confidently in the background, looking directly at the camera with a calm luxury editorial expression. Wearing a modern minimalist outfit perfectly matching the color palette and mood of the drink. One hand casually in pocket while the other arm extends naturally toward the camera, holding an oversized crystal-clear cup that dominates the foreground using dramatic forced perspective.
+
+The beverage is the undisputed hero of the image. Hyper-realistic liquid explosion frozen in time bursting upward from the cup with dynamic splash physics. Floating premium ingredients explode naturally around the splash, including [Iced Frape], realistic garnish, crystal-clear ice cubes, tiny droplets, sparkling particles, and subtle atmospheric elements matching the drink. Every ingredient appears suspended mid-air with cinematic precision.
+
+The drink features beautiful swirling layers, realistic condensation, water droplets, glossy reflections, transparent cup, premium texture, and ultra-detailed ingredients. Splash shape feels energetic yet elegant, creating a luxury advertising aesthetic.
+
+Background perfectly matches the beverage theme:
+[LOCATION OR ENVIRONMENT]
+Luxury café, modern city street, cherry blossom avenue, tropical garden, rooftop lounge, European street, luxury hotel, futuristic café, beach resort, forest retreat, neon nightlife, or premium indoor setting.
+
+Lighting:
+Soft cinematic sunlight or premium golden hour lighting, natural volumetric rays, realistic reflections, HDR dynamic range, global illumination, ray tracing, subtle rim light, realistic shadows.
+
+Composition:
+Extreme foreground drink occupying 60–70% of the frame, model positioned slightly behind for depth, shallow depth of field, creamy bokeh, perfect subject separation, centered composition, commercial framing, luxury branding aesthetic.
+
+Style:
+Luxury beverage campaign, Vogue editorial meets premium food photography, ultra-clean composition, hyper-realistic textures, frozen action, cinematic color grading, premium advertising quality.
+
+Camera:
+Full-frame mirrorless camera, 35mm lens, f/2.2, ultra-high resolution, HDR, razor-sharp focus on the drink, realistic skin texture, natural proportions, physically accurate lighting, no distortion.
+
+Quality:
+Photorealistic, 8K, masterpiece, commercial product photography, luxury lifestyle campaign, award-winning advertising, extremely detailed, vibrant yet realistic.
+
+Negative prompt:
+low quality, blurry, plastic skin, deformed hands, extra fingers, duplicate ingredients, melted ice, warped cup, incorrect reflections, oversaturated colors, flat lighting, text, watermark, logo, cropped drink, bad anatomy, CGI look, artificial textures, noise, artifacts
 ```
 
 </details>

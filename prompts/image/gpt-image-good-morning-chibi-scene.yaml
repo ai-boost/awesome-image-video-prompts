@@ -1,0 +1,45 @@
+id: gpt-image-good-morning-chibi-scene
+title:
+  en: Chibi woman sitting on pastel GOOD MORNING letters
+  zh: Q版人物坐在粉彩 GOOD MORNING 字母上
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- chibi
+- pixar-style
+- greeting-card
+- identity-lock
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2083130474075918811
+  credit: H A J R A
+  likes: 83
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+notes:
+  en: An identity lock block that repeats facial features, outfit and proportions keeps one face across the main figure and eight mini versions. Each mini character gets its own activity clause, while the giant letters act as the fixed central structure of the scene.
+  zh: 身份锁定段落重复五官、发型、服装和体型要求，使主角与八个小人物保持同一张脸。每个小人物配一个独立动作子句，巨大的立体字母则作为固定的画面中心结构。
+prompt: |
+  Transform the uploaded person into a heartwarming Pixar-inspired 3D chibi scene while preserving the exact facial identity, facial structure, hairstyle, skin tone, expression, outfit, colors, and recognizable appearance from the reference image.
+
+  FORMAT LOCK
+  Vertical 3:4 composition. Clean white seamless studio background. Bright centered composition. Premium greeting-card aesthetic. The giant text remains the central structure of the scene.
+
+  IDENTITY LOCK
+  Preserve the exact facial features, hairstyle, skin tone, body proportions, outfit, shoes, and overall identity from the uploaded image. Do not redesign the face or change the clothing.
+
+  MAIN CHARACTER
+  Create a premium Pixar-style 3D chibi version of the uploaded person sitting comfortably on top of giant pastel 3D letters spelling "GOOD MORNING." The character should have a warm smile and relaxed pose while holding a ceramic coffee mug. The mug should remain simple with no visible text or logo.
+
+  MINI CHARACTERS
+  Surround the main character with multiple adorable miniature versions of the same person, each performing a different cheerful morning activity: pouring coffee, holding an encouraging sign, enjoying a coffee, reading a book, watering a small plant, hugging a pink heart, serving a cupcake, and raising a motivational chalkboard. Every mini character must preserve the same recognizable facial identity in a playful Pixar-style design.
+
+  DECORATION
+  Include cute coffee cups, latte art, tiny plants, tulips, a small orange kitten, wooden signs with positive messages, soft hearts, subtle doodles, and cozy decorative elements. Keep the scene balanced, clean, and uncluttered.
+
+  LIGHTING & STYLE
+  Soft natural studio lighting. Warm pastel color palette. Premium Pixar-inspired 3D character design. Expressive faces. High-quality textures. Cozy morning atmosphere. Minimal yet vibrant composition. Luxury animated-film aesthetic. Ultra-detailed 8K rendering.
+
+  NEGATIVE PROMPT
+  Avoid low quality, blurry details, distorted face, changed identity, altered outfit, extra limbs, duplicate main character, bad anatomy, plastic textures, cluttered composition, dark lighting, harsh shadows, logos, watermarks, text artifacts, or unrealistic 3D rendering.

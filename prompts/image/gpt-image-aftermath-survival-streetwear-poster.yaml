@@ -1,0 +1,34 @@
+id: gpt-image-aftermath-survival-streetwear-poster
+title:
+  en: Man in survival streetwear beside wrecked car poster
+  zh: 身穿末日街头装的男子倚靠废弃汽车海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- fashion
+- editorial
+- post-apocalyptic
+- streetwear
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2071179557731008802
+  credit: Zar⭕on
+  likes: 193
+  captured: '2026-10-29'
+  posted: '2026-06-28'
+notes:
+  en: Pairing an editorial fashion frame with a ruined city lets the wardrobe stay sharp while debris, dust and signage carry the story. Naming the fabrics, weathering and display typeface gives concrete controls for each layer.
+  zh: 将时尚大片构图与废墟城市并置，服装保持清晰，碎石、尘埃和标识承担叙事。明确面料、做旧程度和展示字体，为每一层提供具体控制。
+prompt: |
+  A contemporary editorial fashion poster inspired by the Post-Apocalyptic Street aesthetic, blending futuristic survival themes with modern high-end streetwear fashion. The overall atmosphere should feel cinematic, dramatic, and visually immersive, portraying a once-thriving metropolitan city that has fallen into decay while maintaining a sophisticated editorial fashion identity. The contrast between destruction and contemporary style should become the defining visual narrative of the composition.
+
+  The environment should feature abandoned city streets, damaged buildings, cracked roads, scattered debris, broken signage, exposed concrete, drifting dust, subtle smoke, weathered metal structures, and remnants of urban civilization. Enhance the layout with carefully integrated decorative ornaments such as distressed textures, warning symbols, torn posters, industrial graphics, futuristic interface elements, survival-inspired markings, and layered design accents that reinforce the post-apocalyptic atmosphere without overwhelming the overall composition.
+
+  The subject should not replicate the pose from the reference image. Instead, present a naturally expressive pose with elegant body language commonly seen in international fashion editorials. The posture should project resilience, quiet confidence, and effortless style, incorporating subtle movement that avoids stiff, static, or lifeless appearances. Facial expression should feel determined, composed, and emotionally engaging, reflecting the spirit of survival while maintaining a refined fashion presence.
+
+  Wardrobe styling should feature contemporary streetwear reimagined through a survival-inspired aesthetic. Combine fashionable oversized jackets, hoodies, cargo pants, utility garments, layered clothing, tactical-inspired accessories, and modern sneakers or rugged boots. Clothing should appear naturally weathered with subtle dust, distressed textures, worn edges, and carefully placed tears that support the narrative without looking excessive. Incorporate a balanced mix of colors, fabrics, patterns, and materials to ensure the outfit remains stylish, dynamic, and visually interesting rather than repetitive or monotonous.
+
+  Typography should function as a prominent visual element, utilizing bold, eye-catching, and creatively selected typefaces inspired by futuristic graphics, urban culture, and premium editorial design. Avoid generic or standard fonts. The typography hierarchy, placement, spacing, and composition should enhance the storytelling while maintaining a polished and contemporary visual identity.
+
+  The final artwork should feel cinematic, atmospheric, and fashion-forward, seamlessly combining post-apocalyptic storytelling with modern streetwear aesthetics. Every design element should appear intentional, premium, and visually compelling, avoiding anything that feels generic, ordinary, mediocre, or template-based. Ultra-detailed 8K quality, professional editorial poster design, refined visual storytelling, premium composition, dystopian urban aesthetics, and high-end contemporary fashion campaign presentation.

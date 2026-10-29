@@ -1,0 +1,24 @@
+id: nano-banana-studio-three-panel-portrait-turtleneck
+title:
+  en: Three panel studio portrait in black turtleneck
+  zh: 黑色高领衫三联工作室人像
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- collage
+- portrait
+- studio-lighting
+- editorial
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2042098378923036842
+  credit: Mr Das
+  likes: 98
+  captured: '2026-10-29'
+  posted: '2026-04-09'
+notes:
+  en: A reference photo anchors the identity while each panel changes only the crop, pose and gaze, so one model reads as a coherent editorial set. Soft diffused light and a warm gradient backdrop keep the three panels visually unified.
+  zh: 参考照片锁定人物身份，每个画面只改变构图、姿态和视线，使同一人物呈现连贯的编辑风格系列。柔和漫射光与暖色渐变背景让三个画面保持统一。
+prompt: |
+  A cinematic three-panel vertical collage featuring a stylish young man in a minimalist studio aesthetic photoshoot. In the top panel, he is captured in a close-up portrait, slightly looking down with soft shadows sculpting his face. In the middle panel, he stands facing forward with one hand adjusting his collar, showcasing a calm, confident expression. In the bottom panel, he is shown in a side profile, hands in pockets, creating a relaxed editorial pose. He is wearing a clean neutral-toned fitted shirt and tailored trousers. Soft diffused studio lighting creates smooth highlights and gentle shadows, with a minimal background and subtle gradient tones. High-fashion editorial aesthetic, shallow depth of field, realistic skin texture, cinematic color grading, ultra-clean composition, 4K resolution, hyper-realistic, cinematic photoshoot style, vertical 9:16 composition, slightly zoomed-in framing. Face 100% same as reference photo.

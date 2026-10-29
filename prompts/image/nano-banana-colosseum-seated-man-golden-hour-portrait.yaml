@@ -1,0 +1,24 @@
+id: nano-banana-colosseum-seated-man-golden-hour-portrait
+title:
+  en: Seated man on Colosseum wall at golden hour
+  zh: 夕阳下坐在罗马斗兽场矮墙上的男子
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- golden-hour
+- rome
+- menswear
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2061848357283266661
+  credit: Picts by AI
+  likes: 92
+  captured: '2026-10-29'
+  posted: '2026-06-02'
+notes:
+  en: The prompt fixes the pose with specific limb placement (left hand on thigh, right hand gripping the left cuff) and sets one directional light at 45 degrees from the front left, naming the shadows it casts so the lighting stays consistent. The 85mm lens and wide aperture keep the subject sharp while the landmark stays recognizable but soft behind him.
+  zh: 提示词用具体的肢体位置（左手放在大腿上，右手抓住左袖口）固定姿势，并指定一个45度左前方的单一光源及其投下的阴影，让光线保持一致。85mm镜头配大光圈让主体清晰锐利，背景中的地标仍可辨认但略微虚化。
+prompt: |
+  A young adult male sits calmly on a highly eroded, unfinished ancient stone wall, his body angled slightly to the right while his weight is comfortably centered. He wears a textured, off-white button-down shirt and deep brown trousers. His face bears a contemplative, confident expression with a neutral mouth and eyes focused distantly off to the right. His wavy brown hair features subtle, natural flyaways catching the warm light. His left hand rests naturally on his left thigh with loosely curled fingers, revealing a silver ring on the ring finger and a square-dial watch with a black leather strap, while his relaxed right hand reaches organically across his torso to gently grip and adjust the cuff of his left sleeve. He is layered over a monumental, deep background featuring the awe-inspiring architecture of the Roman Colosseum, its massive, weathered travertine stone arcades and interior ruins stretching expansively into the center and top of the frame. To the top left, the thriving dark green needle clusters of a Mediterranean pine tree and leafy midground bushes organically frame the ancient structures against a clear blue sky. The foreground seating wall beneath him features a rough, matte masonry surface of warm grays and earth tones, rich with pitted textures, deep crevices, and organic debris. A bright, highly directional single light source of warm golden hour sunlight pours in from a 45-degree front-left angle, creating a striking, high-contrast cinematic mood. This hard light preserves brilliant golden ochre highlights on the left side of his face, hair tips, left shoulder, and arm, while casting dramatic, deep black, harsh-edged shadows across the right side of his face, neck, and torso, including a distinct nose shadow cleanly defined on his right cheek. Shot as a realistic digital photograph on an 85mm lens at a wide aperture, the image maintains tack-sharp focus on the subject and the foreground stone's rugged texture, while a medium depth of field renders the architectural background slightly soft yet distinctly recognizable without any film grain. Post-processing enhances the warm golden and orange highlights, deepens the shadowy blacks for pronounced dramatic effect, and slightly lifts clarity on the fabric and masonry, perfectly encapsulating contemporary lifestyle travel portraiture framed in a 4:5 aspect ratio.

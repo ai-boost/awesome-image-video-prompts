@@ -1,0 +1,57 @@
+id: nano-banana-denim-bob-beauty-contact-sheet
+title:
+  en: Nine pose beauty contact sheet in denim jacket
+  zh: 九宫格美妆写真 牛仔外套与黑框眼镜
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- beauty
+- contact-sheet
+- grid
+- portrait
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2066122884859207815
+  credit: Simply Ray
+  likes: 250
+  captured: '2026-10-29'
+  posted: '2026-06-14'
+notes:
+  en: Numbered pose lines give each of the nine frames its own checkable direction, while the shared styling paragraph keeps the set consistent. Repeating one woman, bob haircut and denim jacket across every frame is what makes it read as a single contact sheet.
+  zh: 编号的姿势描述为九个画面各自给出可核对的指令，共用的妆造段落保证整组一致。每格都重复同一人物、短发和牛仔外套，使其读起来像一张完整的接触表。
+prompt: |
+  Ultra-realistic 3x3 beauty contact sheet featuring the same stunning woman in nine different poses and expressions, arranged in a clean square grid with thin black borders separating each frame. Professional studio portrait photography against a seamless light gray backdrop, editorial model test shoot aesthetic, modern beauty campaign, high-fashion contact sheet.
+
+  Poses & Expressions
+  1. Looking directly at the camera while holding black rectangular glasses near her lips, seductive expression, slightly parted glossy lips.
+
+  2. Winking with mouth open and tongue slightly out, playfully holding the glasses.
+
+  3. Three-quarter profile pose with tongue slightly out and a playful smirk.
+
+  4. Head tilted back, eyes closed, soft dreamy expression.
+
+  5. Side profile with chin raised, eyes closed, elegant editorial pose.
+
+  6. Over-the-shoulder pose with hair partially covering one eye, sultry direct gaze.
+
+  7. Facing forward, hands lifting hair on both sides, confident beauty campaign pose.
+
+  8. Relaxed direct gaze with black rectangular glasses resting on top of the head, soft smile.
+
+  9. Looking over black rectangular glasses worn low on the nose, seductive expression with slightly parted lips.
+
+  Face & Makeup
+  Soft ultra-feminine glam makeup with flawless radiant fair skin and warm pink undertones, smooth pore-visible skin texture, luminous satin-dewy finish, softly sculpted oval face with subtle contour and diffused bronzer. Strong blush-focused makeup with rosy pink blush heavily applied across the cheeks and lightly across the bridge of the nose for a youthful, doll-like flushed effect. Brightened under-eyes with soft matte highlights and a softly blurred complexion.
+  Large almond-shaped eyes enhanced with soft Korean-inspired glam makeup: beige-pink eyeshadow blended seamlessly with subtle brown depth on the outer corners, bright ivory shimmer on the inner corners and aegyosal highlights for wider, innocent-looking eyes. Long, thick, wispy curled lashes with a separated manga-like lash effect, softly defined eyeliner with lifted outer corners, fluffy natural dark brows with a softly straight arch.
+  Full, plump lips with an overlined soft cupid's bow, glossy reddish-pink gradient lips, glass-like shine, and hydrated juicy texture. Overall makeup aesthetic: clean girl glam mixed with soft baddie beauty, ultra-polished yet airy and feminine, doll-like elegance, luxury influencer makeup.
+
+  Hair
+  Short, sleek, straight bob haircut with a center part, smooth and glossy finish.
+
+  Outfit & Accessories
+  White lace balconette bra with delicate floral texture and thin straps, oversized medium-wash blue denim jacket worn off the shoulders, casual Y2K-inspired styling, small gold hoop earrings, black rectangular glasses used as a prop in several frames.
+
+  Photography
+  Professional studio beauty photography, soft diffused key light with subtle beauty dish lighting, editorial campaign quality, realistic skin texture, extremely detailed eyes and lips, fashion magazine contact sheet, luxury beauty advertisement, Vogue editorial aesthetic, ultra-realistic, high detail, 8K, sharp focus, premium retouching, photorealistic.

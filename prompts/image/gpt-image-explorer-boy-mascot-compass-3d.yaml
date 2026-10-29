@@ -1,0 +1,24 @@
+id: gpt-image-explorer-boy-mascot-compass-3d
+title:
+  en: 3D explorer boy mascot holding a compass
+  zh: 3D 探险少年吉祥物手持指南针
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- mascot
+- 3d-render
+- explorer
+- template
+source:
+  name: '@ZephyraLeigh on X'
+  url: https://x.com/ZephyraLeigh/status/2063953406797213742
+  credit: Zephyra Leigh
+  likes: 110
+  captured: '2026-10-29'
+  posted: '2026-06-08'
+notes:
+  en: A reusable template with blank slots for subject, action and palette, so one brief yields a consistent family of 3D mascots. Naming material, studio lighting and a minimal background pins the look to a clean CGI render.
+  zh: 这是一个可复用的模板，把主体、动作和配色留作空位，同一句提示词即可批量生成风格统一的 3D 吉祥物。指定材质、影棚布光和极简背景，让画面保持干净的 CGI 渲染质感。
+prompt: |
+  Cute stylized 3D [SUBJECT] mascot, original character design, rounded body proportions, expressive face, [DOING ACTION] pose, smooth matte material, colorful contemporary animation aesthetic, vibrant [COLOR1], [COLOR2], and [COLOR3] palette, studio lighting, high-detail CGI render, minimalist background.

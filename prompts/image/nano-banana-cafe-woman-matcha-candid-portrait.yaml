@@ -1,0 +1,24 @@
+id: nano-banana-cafe-woman-matcha-candid-portrait
+title:
+  en: Young woman with matcha latte at a café
+  zh: 年轻女子在咖啡馆享用抹茶拿铁
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- cafe
+- lifestyle
+- natural-light
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2050817729767276713
+  credit: Sairah
+  likes: 83
+  captured: '2026-10-29'
+  posted: '2026-05-03'
+notes:
+  en: Specific props, a plain outfit and soft daylight anchor the scene, and the word candid asks for an unposed, casual look. Shallow depth of field and a lifestyle framing make the result read like a real phone photo.
+  zh: 具体道具、简单穿搭和柔和日光锁定场景，candid 一词要求随性、未摆拍的质感。浅景深与生活方式取景让画面接近真实的手机抓拍。
+prompt: |
+  A stylish young woman sitting in the driver’s seat of a luxury convertible car with a red leather interior, parked in front of an elegant modern building. She wears a black sheer blouse and slim black sunglasses, with wavy brown hair and minimal makeup. She turns back over her shoulder, giving a confident, composed look toward the camera. The setting has clean architectural lines and muted colors, enhancing a high-fashion, editorial vibe. Shot in soft daylight, cinematic composition, ultra-realistic, sharp focus, luxury aesthetic.

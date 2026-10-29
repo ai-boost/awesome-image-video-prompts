@@ -1,0 +1,42 @@
+id: nano-banana-mountain-cabin-coffee-retreat
+title:
+  en: Steaming coffee cup at mountain cabin window
+  zh: 山间小屋窗边冒着热气的咖啡杯
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- coffee
+- mountain
+- cinematic-lighting
+- lifestyle
+source:
+  name: '@kellyyjjones on X'
+  url: https://x.com/kellyyjjones/status/2078710249750769810
+  credit: Kelly Jones
+  likes: 106
+  captured: '2026-10-29'
+  posted: '2026-07-19'
+notes:
+  en: A single hero object sits in front of a layered landscape, and a named lens and sensor (85mm, ARRI Alexa 65, shallow depth of field) push the render toward photoreal commercial photography. The negative prompt removes people and text so the cup stays the only focal point.
+  zh: 用一个主体放在分层的远景前，并指定镜头和机身参数（85mm、ARRI Alexa 65、浅景深），把画面推向照片级商业摄影。负面提示词排除人物和文字，让咖啡杯保持唯一焦点。
+prompt: |
+  PHOTO 1 — Mountain Cabin Coffee Retreat
+
+  Ultra-realistic cinematic luxury coffee commercial. A cozy Scandinavian-style wooden cabin sits dramatically on a peaceful mountain cliff during golden sunrise. In the foreground, a handcrafted ceramic coffee cup filled with freshly brewed coffee rests on an aged rustic wooden table beside an expansive floor-to-ceiling panoramic window. Delicate steam curls naturally upward, illuminated by warm sunlight streaming through the glass.
+
+  Outside, endless pine forests emerge from layers of soft morning mist while majestic snow-capped mountain peaks glow beneath the first light of day. Tiny dew droplets sparkle across the wooden surface, catching golden highlights. Birds drift gracefully across the luminous sky as gentle wind moves distant treetops.
+
+  Camera performs a slow cinematic push-in toward the coffee cup, creating a feeling of warmth, comfort, and luxury. Volumetric sun rays, realistic atmospheric haze, HDR lighting, global illumination, ray-traced reflections, physically accurate materials, shallow depth of field, creamy bokeh, cinematic contrast, warm premium color grading, ARRI Alexa 65, 85mm lens, ultra-detailed textures, photorealistic commercial photography, luxury lifestyle advertising, 8K masterpiece quality.
+
+  Negative Prompt: people, human presence, text, captions, watermark, logo, low resolution, oversaturation, distortion, artifacts, duplicate objects, blur, noise, unrealistic lighting.
+
+  PHOTO 2 — Alpine Lake Coffee Escape
+
+  Ultra-realistic cinematic luxury coffee commercial. The exact same handcrafted ceramic coffee cup from Photo 1 sits on a weathered wooden deck overlooking a crystal-clear emerald alpine lake during golden sunrise, maintaining identical visual identity, color palette, and premium branding aesthetic.
+
+  Gentle steam rises naturally from the coffee while soft morning fog glides across the lake surface. Dense pine forests surround the shoreline, leading toward towering snow-covered mountains glowing in warm sunlight. A cozy wool blanket and an open book rest beside the cup, suggesting peaceful morning relaxation. Wildflowers bloom around the deck, gently swaying in a light breeze. Birds soar across the sky while sunlight creates shimmering reflections on the calm water.
+
+  Camera performs a slow cinematic orbit around the coffee cup, revealing the breathtaking landscape while keeping the cup as the hero subject. Warm volumetric sunlight, realistic atmospheric depth, HDR, global illumination, ray-traced reflections, physically accurate materials, shallow depth of field, luxury travel-commercial aesthetic, ARRI Alexa 65, 85mm lens, cinematic bokeh, ultra-photorealistic textures, premium color grading matching Photo 1, 8K masterpiece quality.
+
+  Negative Prompt: people, human presence, text, captions, watermark, logo, low resolution, distortion, blur, noise, unrealistic reflections, artifacts, duplicate objects, oversharpening.

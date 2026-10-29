@@ -1,0 +1,28 @@
+id: gpt-image-neon-designer-poster-puppy-chibi
+title:
+  en: Neon designer poster with puppy and chibi figure
+  zh: 霓虹设计师海报，含小狗与Q版手办
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- poster
+- neon-blue
+- chibi
+- 3d-render
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2063413890755817700
+  credit: Hania Ai
+  likes: 60
+  captured: '2026-10-29'
+  posted: '2026-06-07'
+notes:
+  en: A low angle camera makes the foreground sneakers loom large while a miniature chibi figure on a display base adds a second focal point. Spelling out lighting cues like glossy reflections and volumetric glow, plus the 9:16 layout, keeps the premium toy photography look steady.
+  zh: 低角度镜头让前景球鞋显得巨大，同时用展示底座上的Q版手办形成第二个视觉焦点。明确写出光泽反光、体积光晕等光影词与9:16竖版构图，让整体保持高端玩具摄影质感。
+prompt: |
+  Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
+
+  Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene.
+
+  Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.

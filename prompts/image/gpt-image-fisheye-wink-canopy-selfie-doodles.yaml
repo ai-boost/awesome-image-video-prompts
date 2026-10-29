@@ -1,0 +1,161 @@
+id: gpt-image-fisheye-wink-canopy-selfie-doodles
+title:
+  en: Winking fisheye selfie under a striped market canopy
+  zh: 鱼眼广角自拍，条纹遮阳棚下眨眼的涂鸦海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- fisheye
+- selfie
+- doodles
+- magazine-cover
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2061275461817450870
+  credit: Jack
+  likes: 95
+  captured: '2026-10-29'
+  posted: '2026-06-01'
+notes:
+  en: Pinning the lens as an arm's length ultra wide fisheye with flash, grain and a named pose makes the selfie feel real, and listing each handwritten phrase separately keeps the marker text readable.
+  zh: 将镜头设定为手臂伸直的超广角鱼眼自拍，并配合闪光、颗粒感和指定姿势，让画面更像真实快照；逐条列出的手写短语则让涂鸦文字清晰可读。
+prompt: |
+  Create a hyper-realistic internet-culture editorial poster inspired by chaotic festival selfies, scrapbook doodles, candid flash photography, and modern meme culture.
+
+  Main Concept
+
+  An absurdly close fisheye-style smartphone selfie of a stylish young woman beneath a colorful outdoor market canopy. The image should feel like a spontaneous viral moment transformed into a premium indie magazine cover—funny, expressive, energetic, and completely unfiltered.
+
+  Subject
+
+  A trend-forward young woman occupies most of the frame, photographed from arm’s length using an ultra-wide smartphone lens. Her face dominates the composition with realistic fisheye distortion, creating exaggerated perspective around the nose, cheeks, lips, and forehead while maintaining natural facial proportions and believable realism.
+
+  Wardrobe
+
+  Oversized retro windbreaker
+  Teal, cobalt blue, turquoise, and white color-block design
+  Casual everyday styling
+  Small layered necklaces
+  Simple hoop earrings
+  No luxury fashion appearance
+  Authentic youth-culture street style
+
+  Improved Pose
+
+  Instead of a purely goofy face, create a more photogenic yet playful candid pose:
+
+  One hand resting lightly beneath her chin
+  Head tilted slightly toward camera
+  Shoulder subtly raised toward face
+  Relaxed posture as if joking with friends
+  Direct engagement with the camera
+
+  Expression
+
+  Capture a playful split-second reaction:
+
+  One eye closed in an exaggerated wink
+  Slightly raised eyebrow on the opposite side
+  Soft duck-face pout mixed with a playful smirk
+  Cheeks slightly lifted
+  Expression feels teasing, funny, and confident rather than awkward
+  Natural candid energy, not influencer posing
+
+  Camera & Composition
+
+  Extreme close-up selfie
+  Smartphone held at arm’s length
+  Ultra-wide fisheye perspective
+  Face occupies approximately 70–80% of frame
+  Slight camera tilt for spontaneous energy
+  Vertical magazine-cover composition
+  Portrait remains the clear focal point
+
+  Environment
+
+  A vibrant outdoor market or festival scene beneath a striped canopy.
+
+  Include:
+
+  Teal and cream canopy fabric overhead
+  Hanging lanterns
+  String lights
+  Support poles
+  Blurred crowd activity
+  Busy but authentic atmosphere
+  Background slightly out of focus
+
+  Doodle Layer
+
+  Surround the portrait with playful marker-style illustrations:
+
+  Oversized doodled crown above head
+  White lightning bolts
+  Hand-drawn stars
+  Smiley faces
+  Sparkles
+  Squiggly energy lines
+  Comic-style impact bursts
+  Random circled details
+  Rough arrows pointing toward expression
+
+  Include handwritten notes:
+
+  “WHAT WAS THAT?”
+  “ZERO CHILL DETECTED”
+  “LEGEND IN THE MAKING”
+  “100% CHAOS”
+  “NOT NORMAL”
+  “ON MY OWN WAVE”
+
+  Also include:
+
+  Cartoon lizard riding a skateboard near one edge
+  White sticker-like outlines around doodles
+
+  Typography
+
+  Imperfect handwritten marker lettering.
+
+  Characteristics:
+
+  Uneven sizes
+  Different angles
+  Natural marker texture
+  Looks drawn directly onto a printed photograph
+  Playful, spontaneous, and readable
+
+  Lighting
+
+  Strong direct smartphone flash.
+
+  Features:
+
+  Bright flash highlights
+  Slightly overexposed hotspots
+  Natural skin texture
+  Visible pores and realistic detail
+  Authentic social-media snapshot feel
+  Mild digital grain
+  High contrast
+  Crisp focus on face
+
+  Color Palette
+
+  Teal canopy tones
+  Turquoise accents
+  Cobalt blue jacket
+  Warm natural skin tones
+  White doodle outlines
+  Red handwritten annotations
+  Yellow stars and highlights
+  Orange accent doodles
+  Sky-blue marker scribbles
+
+  Style Keywords
+
+  Hyper-realistic photography, viral selfie aesthetic, internet-core, meme-core editorial design, scrapbook collage, youth-culture zine, flash portrait photography, candid reaction image, indie magazine cover, chaotic social-media energy, authentic festival snapshot.
+
+  Aspect Ratio: 3:4
+  Quality: Ultra-detailed, photorealistic, editorial-grade, realistic smartphone flash photography.

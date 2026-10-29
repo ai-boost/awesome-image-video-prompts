@@ -1,0 +1,24 @@
+id: nano-banana-samurai-ink-wash-bamboo-forest
+title:
+  en: Samurai with topknot in ink wash bamboo forest
+  zh: 水墨竹林中的武士
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- sumi-e
+- ink-wash
+- samurai
+- bamboo
+source:
+  name: '@Ozayrr_irl on X'
+  url: https://x.com/Ozayrr_irl/status/2053170166708740330
+  credit: Ozair AI
+  likes: 94
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+notes:
+  en: Naming the traditional medium along with calligraphy and red seal stamps anchors the style, while chiaroscuro lighting and aged paper texture add drama. The side profile and bamboo framing keep the figure central against the misty mountains.
+  zh: 点明水墨媒介、书法与朱红印章即可确立传统画风，明暗对比与旧纸质感增加戏剧张力。侧面构图与竹林框景使人物在雾色山峦前保持视觉中心。
+prompt: |
+  "A cinematic, high-resolution sumi-e ink wash painting of a rugged samurai with a topknot, seen from a side profile, standing amidst a dense bamboo forest with misty mountains in the background. The style features traditional Japanese calligraphy and red seal stamps, utilizing dramatic chiaroscuro lighting and textured, aged paper aesthetics."

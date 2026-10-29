@@ -1,0 +1,50 @@
+id: nano-banana-monochrome-noir-five-frame-collage
+title:
+  en: Five frame monochrome noir portrait collage on city rooftop
+  zh: 黑白都市屋顶五格人像拼贴
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- monochrome
+- noir
+- fashion-editorial
+- collage
+source:
+  name: '@EthanAIBuilder on X'
+  url: https://x.com/EthanAIBuilder/status/2061318395220635914
+  credit: ETHAN | THE AI ARCHITECT
+  likes: 84
+  captured: '2026-10-29'
+  posted: '2026-06-01'
+notes:
+  en: Pairs an identity reference with a numbered shot list, giving the centre figure a full-body pose and four close-ups their own angle, expression and prop. Naming the fog, rim light and wet-floor layers separately keeps the monochrome city backdrop consistent across the layered frames.
+  zh: 以身份参考图锁定同一张脸，再用分镜清单为中央全身像和四个特写分别指定角度、表情与道具，让五个画面呈现同一套编辑风格。把雾气、边缘光和湿地面等光影层分开描述，使黑白都市背景在各个画面中保持一致。
+prompt: |
+  Use the uploaded reference images as the exact composition, styling, pose inspiration, facial framing, monochrome aesthetic, and cinematic atmosphere reference. Replace all original subjects completely with the face from my uploaded reference image while preserving my exact facial identity, facial structure, jawline, beard pattern, hairstyle, eye shape, eyebrows, nose shape, lips, skin texture, and realistic masculine appearance with extremely high identity fidelity. Do not stylize, beautify, or alter the recognizable facial features.
+
+  Create a high-end cinematic black-and-white multi-frame portrait collage featuring the same man in multiple stylish poses and expressions across the composition. The overall artwork should feel like a luxury fashion editorial poster mixed with a moody urban action-drama aesthetic. Use five different versions of the same subject arranged artistically in layered composition with varied camera angles, facial expressions, and poses.
+
+  Center Frame:
+  A full-body portrait of the man standing confidently in the center wearing an all-black outfit — fitted black button-up shirt with rolled sleeves, slim black trousers, luxury black wristwatch, chain necklace, and white sneakers. One hand is inside the pocket while the other adjusts the collar or touches the neck. Pose should feel confident, calm, dominant, and cinematic.
+
+  Side Portraits:
+  Include large close-up portraits on both sides showing different facial angles:
+
+  * one looking away thoughtfully with soft dramatic lighting,
+  * one wearing black sunglasses with a stylish confident attitude,
+  * one side-profile portrait with strong jawline emphasis,
+  * one contemplative pose with hand near face.
+
+  Hair should appear textured, voluminous, slightly messy, and sharply detailed. Beard and facial hair must remain realistic and natural.
+
+  Environment & Background:
+  Create a dark cinematic urban rooftop/night-city atmosphere with blurred skyscrapers, subtle moonlight, fog, smoke clouds, floating particles, dust texture, and atmospheric haze. Add soft glowing rim lights, smoky overlays, and dramatic shadows throughout the collage. Include faint city lights, moody grayscale contrast, reflective wet floor textures, and layered depth effects.
+
+  Color grading should be primarily monochrome black-and-white with deep blacks, silver highlights, matte shadows, and subtle warm-gray tones. Maintain ultra-realistic skin texture and high dynamic range lighting.
+
+  Lighting:
+  Use dramatic cinematic lighting with strong contrast, soft edge lighting, volumetric fog, shadow gradients, and luxury editorial highlights. Faces should have sharp detail with soft diffused glow around hair and shoulders.
+
+  Style:
+  ultra-realistic, cinematic monochrome portrait collage, luxury fashion editorial, dark urban aesthetic, high-end poster design, realistic male model photography, moody atmosphere, smoky cinematic composition, dramatic shadows, hyper-detailed skin texture, realistic fabric folds, shallow depth of field, premium magazine cover quality, 8K ultra detail, Unreal Engine 5 realism, DSLR photography look.i9

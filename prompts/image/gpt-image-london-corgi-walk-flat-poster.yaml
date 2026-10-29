@@ -1,0 +1,26 @@
+id: gpt-image-london-corgi-walk-flat-poster
+title:
+  en: Woman and corgi in London flat poster
+  zh: 伦敦街头女孩与柯基犬扁平海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- flat-vector
+- template
+- pastel
+- travel
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2068703552592367804
+  credit: ÀBDŪLLÂH
+  likes: 134
+  captured: '2026-10-29'
+  posted: '2026-06-21'
+notes:
+  en: Fixed style terms such as thick black outlines, flat solid fills, pastel color blocking and minimal face details lock the look, so only the slots change the scene. Sparse confetti doodles and clean negative space keep the layout crisp and poster-like.
+  zh: 粗黑轮廓、纯色平涂、粉彩色块和简约面部等固定风格词锁定画风，只需替换槽位即可更换场景。稀疏的彩色涂鸦和干净留白让版面保持清爽的海报感。
+prompt: |
+  GPT Image 2 on Chatgpt
+
+  Prompt: Playful flat-vector poster illustration of [HUMAN] posing with [ANIMAL] in [POSE], wearing [CLOTHING], set in [SCENERY]. Use clean thick black  outlines, simple rounded geometric shapes, flat solid color fills, minimal facial details, small neutral eyes, calm deadpan expression, simplified hands and body proportions, pastel color blocking, sparse confetti doodles, tiny abstract icons, clean negative space, crisp graphic poster layout, and a controlled [PALETTE]. Vertical 4:5 composition.

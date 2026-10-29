@@ -1,0 +1,56 @@
+id: gpt-image-orange-juice-campaign-poster
+title:
+  en: Orange juice campaign poster with feature cards
+  zh: 橙汁瓶主视觉海报与四个功能卡片
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- product-poster
+- campaign
+- template
+- food-drink
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2053667545371361587
+  credit: Emma
+  likes: 560
+  captured: '2026-10-29'
+  posted: '2026-05-11'
+notes:
+  en: A fill-in template with fixed slots for product, tagline, benefits and feature cards keeps the whole campaign layout consistent. Specifying 4:5 format, a rounded colour panel and a strong low angle on a held product makes the bottle the hero.
+  zh: 这个模板用固定占位槽位定义产品名、标语、卖点和功能卡片，让整套海报结构统一。指定 4:5 竖版、圆角纯色背景板，以及从低处向前伸出手持产品的构图，使瓶身成为视觉焦点。
+prompt: |
+  Create a photorealistic premium product campaign poster in a 4:5 vertical aspect ratio.
+
+  Product: [PRODUCT NAME]
+  Brand style: [BRAND / PREMIUM / LUXURY / TECH / BEAUTY / FOOD / DRINK]
+  Main subject: A confident model holding or presenting the product close to the camera, with the product in sharp focus and the model slightly behind it. Use a strong perspective angle so the product feels powerful, premium, and hero-like.
+
+  Background:
+  Use a clean studio background with a large rounded rectangle panel behind the subject. The panel color should match the product theme: [COLOR THEME]. Add subtle oversized typography or abstract product-related shapes in the background, softly blended and partially hidden behind the subject.
+
+  Lighting:
+  Cinematic softbox lighting, realistic shadows, premium commercial photography, glossy highlights on the product, clean reflections, sharp details, high-end advertising look.
+
+  Composition:
+  Top-left: small minimalist brand logo placeholder.
+  Top-right: short tagline: “[TAGLINE]”
+  Middle-left: small glassmorphism label with product name: “[PRODUCT NAME]”
+  Bottom-right: short product description:
+  “[ONE-LINE BENEFIT 1]
+  [ONE-LINE BENEFIT 2]
+  [ONE-LINE BENEFIT 3]”
+
+  Bottom section:
+  Add four clean feature cards with minimal black icons and short labels:
+  1. [FEATURE 1]
+  2. [FEATURE 2]
+  3. [FEATURE 3]
+  4. [FEATURE 4]
+
+  Style:
+  Premium campaign poster, realistic product photography, minimalistic layout, modern typography, clean negative space, luxury branding, high detail, cinematic advertising, professional commercial poster, ultra-realistic, sharp focus, elegant shadows.
+
+  Avoid:
+  messy text, extra logos, distorted product, wrong spelling, low-quality graphics, cartoon style, over-saturated colors.

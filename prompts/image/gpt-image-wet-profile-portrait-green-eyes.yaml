@@ -1,0 +1,24 @@
+id: gpt-image-wet-profile-portrait-green-eyes
+title:
+  en: Wet close-up side profile with green-hazel eyes
+  zh: 湿发近景侧脸人像，绿褐色眼睛
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- photorealistic
+- close-up
+- beauty
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2063088697495724500
+  credit: Jack
+  likes: 161
+  captured: '2026-10-29'
+  posted: '2026-06-06'
+notes:
+  en: Specific skin and eye details such as visible pores, moisture beads and natural reflections anchor the realism, while the 85mm f/1.8 lens spec and a clean light gray bokeh background isolate the subject from its surroundings.
+  zh: 可见毛孔、水珠和自然眼神光等具体皮肤与眼部细节锁定写实质感，85mm f/1.8 镜头参数配合干净的浅灰色散景背景，把主体从环境中分离出来。
+prompt: |
+  Extreme wet close-up portrait of a young woman in side profile. Dark, rain-soaked hair naturally clinging to her skin and framing her face. Fine water droplets and a delicate layer of moisture glistening realistically across her cheeks, forehead, and jawline. Striking natural green-hazel eyes as the focal point, featuring subtle authentic reflections and lifelike depth without excessive shine. Soft, hydrated lips with realistic texture and a gentle natural gloss. Smooth skin with visible pores and nuanced facial details for maximum realism. Cinematic soft lighting with cool tones, creating a fresh atmospheric mood. Clean light gray and white bokeh background with shallow depth of field. Ultra-detailed photography, high-end editorial beauty portrait, natural facial proportions, realistic skin rendering, sharp eye focus, professional DSLR quality, photorealistic, 85mm lens, f/1.8, ultra-high resolution.

@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 48 条
+[返回目录](../../README_zh.md) · 全部 70 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
@@ -309,6 +309,25 @@ The overall style is a crisp, bright, hyper-realistic, fashion-forward digital p
 
 </details>
 
+<a id="gpt-image-fashion-collage-monochrome-panels-cutout"></a>
+### 黑白肖像面板环绕彩色时尚人像抠图
+
+<a href="https://x.com/noorlewisx/status/2062093611387551854"><img src="../../previews/gpt-image-fashion-collage-monochrome-panels-cutout.jpg" width="360"></a>
+
+用同一主角的四张黑白面板搭配一张彩色全身抠图营造系列感，明确写出服装细节可让各画面人物保持一致。结尾的无文字、无标志约束让海报便于后期加字。
+
+GPT Image 2 · 文生图 · 出处: [@noorlewisx on X](https://x.com/noorlewisx/status/2062093611387551854) · 263 赞，统计于 2026-10-29
+
+[`collage`](tags.md#tag-collage) [`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`monochrome`](tags.md#tag-monochrome)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+MODERN EDITORIAL COLLAGE POSTER DESIGN. CLEAN MINIMALIST FASHION COMPOSITION. BACKGROUND FEATURES FOUR VERTICALLY STACKED ROUNDED-RECTANGLE PANELS CONTAINING BLACK-AND-WHITE CINEMATIC PORTRAITS OF THE SAME STYLISH YOUNG WOMAN WEARING LUXURY SUNGLASSES IN DIFFERENT HIGH-FASHION POSES. IN THE FOREGROUND, A FULL-BODY HIGH-QUALITY COLOR CUTOUT OF THE SAME WOMAN STANDS CONFIDENTLY, WEARING AN OVERSIZED WHITE SHIRT, TAILORED BLACK PANTS, AND BLACK SUNGLASSES. SOFT REALISTIC SHADOWS, DEPTH LAYERING, PREMIUM MAGAZINE EDITORIAL STYLE, HIGH CONTRAST LIGHTING, CLEAN WHITE BACKGROUND, MODERN FASHION ADVERTISING AESTHETIC, ULTRA-REALISTIC SKIN TEXTURE, SHARP DETAILS, PROFESSIONAL POSTER COMPOSITION, LUXURY VOGUE-INSPIRED DESIGN, PHOTOREALISTIC, 8K, STUDIO QUALITY, NO TEXT, NO TYPOGRAPHY, NO LETTERS, NO LOGOS, NO WATERMARKS.
+```
+
+</details>
+
 <a id="gpt-image-borderless-memory-grid-template-osaka-dusk"></a>
 ### 大阪黄昏街景无缝四乘三图板
 
@@ -399,6 +418,113 @@ GPT Image 2.5 · 上传图改图 · 出处: [@MissDelulu9 on X](https://x.com/Mi
 Ultra-realistic 6-photo collage (3×2 grid) of the same person using client photo for identity only (exact face, facial features, eye color, natural hair color/length/volume/texture). Plain light grey-blue wall background, black thin-strap camisole, minimal jewelry, Canon PowerShot G7X Mark III strong direct flash, hard shadows, sharp focus, natural skin texture, slight film grain.
 
 Instagram photo dump aesthetic. Six unique expressions/poses: (1) soft smile, hands on cheeks, (2) wink, big smile, hand in hair, (3) eyes closed, tongue slightly out, both hands lifting hair, (4) confident side glance, hand under chin, (5) laughing, looking away, hair flipped, (6) dreamy look, hand touching hair. Different hair positions in every frame. No AI look, no distorted hands, no extra fingers. --ar 3:4
+```
+
+</details>
+
+<a id="nano-banana-beige-studio-nine-frame-fashion-grid"></a>
+### 九宫格米色影棚时尚人像拼图
+
+<a href="https://x.com/craftian_keskin/status/2050249217512218844"><img src="../../previews/nano-banana-beige-studio-nine-frame-fashion-grid.jpg" width="360"></a>
+
+用编号的九个镜头清单明确每格的姿势和取景，使一张拼图内的构图富有变化。固定的色板和35至85毫米镜头描述让九格的色彩与景深保持统一。
+
+Nano Banana 2 · 文生图 · 出处: [@craftian_keskin on X](https://x.com/craftian_keskin/status/2050249217512218844) · 184 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`grid-collage`](tags.md#tag-grid-collage) [`portrait`](tags.md#tag-portrait) [`studio`](tags.md#tag-studio)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "objective": "Create a 3x3 editorial photo collage of a stunning adult Korean woman in a warm minimalist studio, with soft sensual movement, candid fashion poses, and a dreamy cinematic aesthetic similar to a lifestyle moodboard.",
+
+  "aspect_ratio": "4:5",
+
+  "composition": {
+    "layout": "3x3 photo grid collage",
+    "framing": "nine unevenly expressive portrait crops mixing close-ups, mid-shots, torso shots, and partial-body fashion frames",
+    "style": "editorial contact-sheet inspired collage",
+    "pose_direction": "natural movement, wind-swept hair, relaxed body language, expressive hands, soft facial angles"
+  },
+
+  "subject": {
+    "person": "adult Korean woman",
+    "appearance": {
+      "beauty": "strikingly beautiful, elegant, soft feminine features",
+      "hair": "long dark flowing hair, slightly tousled",
+      "skin": "smooth glowing skin",
+      "expression": "dreamy, confident, subtle, sensual but tasteful"
+    },
+    "wardrobe": {
+      "top": "white fitted crop tank top or off-shoulder ribbed top",
+      "bottom": "light blue relaxed low-rise jeans",
+      "accessories": "minimal delicate jewelry, very subtle bracelet or earrings"
+    }
+  },
+
+  "poses": [
+    "close-up with head slightly tilted and hair moving",
+    "side-profile torso shot with graceful arm position",
+    "cropped shoulder and neck detail shot",
+    "soft emotional close-up with eyes half-closed",
+    "hand resting near collarbone in a fashion-editorial pose",
+    "full or three-quarter body pose with both arms raised",
+    "cropped neckline and hand detail shot",
+    "back-facing pose with one arm lifted into the hair",
+    "cropped waist and torso detail shot"
+  ],
+
+  "environment": {
+    "setting": "clean indoor studio",
+    "background": "plain warm beige wall backdrop",
+    "props": "no props"
+  },
+
+  "visual_style": {
+    "genre": "fashion editorial moodboard",
+    "mood": "warm, dreamy, intimate, soft, elegant",
+    "color_palette": [
+      "warm beige",
+      "cream white",
+      "soft tan",
+      "light denim blue",
+      "deep brown hair tones"
+    ],
+    "texture": "slightly soft focus, subtle filmic warmth"
+  },
+
+  "lighting": {
+    "style": "soft warm studio light",
+    "quality": "diffused glow with gentle shadows",
+    "effect": "golden creamy highlights and flattering skin tones"
+  },
+
+  "camera": {
+    "angle": "mixed editorial angles within the collage",
+    "lens_look": "35mm to 85mm fashion photography feel",
+    "focus": "soft but detailed portrait focus",
+    "depth_of_field": "shallow to medium depth of field"
+  },
+
+  "quality_targets": {
+    "look": "premium magazine editorial",
+    "finish": "polished, aesthetic, natural, tasteful",
+    "image_character": "expressive candid fashion collage"
+  },
+
+  "negative_constraints": [
+    "no extra people",
+    "no cluttered background",
+    "no harsh flash",
+    "no exaggerated makeup",
+    "no cartoon style",
+    "no distorted anatomy",
+    "no blurry low-quality face",
+    "no overly glossy plastic skin",
+    "no text or watermark"
+  ]
+}
 ```
 
 </details>
@@ -620,6 +746,56 @@ Warm natural kitchen lighting, realistic food textures, creamy pale-yellow smoot
 
 </details>
 
+<a id="nano-banana-mauve-boucle-strawberry-fashion-collage"></a>
+### 暮紫色绒圈针织连衣裙时尚拼贴与草莓特写
+
+<a href="https://x.com/Just_sharon7/status/2065466489210036682"><img src="../../previews/nano-banana-mauve-boucle-strawberry-fashion-collage.jpg" width="360"></a>
+
+将请求拆分为编号分镜，并为每格指定机位与姿势，使每个画面都与同一套服装、背景和布光保持一致。在共享的场景段落中只写一次面料和光线，模型会把它们延续到每个分镜。
+
+Nano Banana 2 · 文生图 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2065466489210036682) · 141 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`studio`](tags.md#tag-studio) [`collage`](tags.md#tag-collage) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-photorealistic 8K studio portrait collage of a woman with long, voluminous loose waves, natural glass-skin makeup, flushed cheeks, glossy pink lips, and defined lashes. She wears a tight bodycon mini dress made of soft textured boucle knit in soft mauve or neutral taupe, with spaghetti straps and a mid-thigh length.
+Studio setting: Warm off-white seamless backdrop with professional studio lighting. Large softbox from the front-left, reflector fill from the right, creating soft shadows and natural highlights on the lips, cheekbones, shoulders, and dress texture.
+Panel 1 (Top Left): Extreme close-up macro shot from a slightly low angle. Focus on lips and nose while delicately holding and eating a fresh strawberry. Shallow depth of field. Visible strawberry moisture, glossy lips, and fine baby hairs.
+Panel 2 (Top Right): Medium thigh-up portrait at eye level. Standing and leaning slightly toward the camera with relaxed arms. Direct gaze and confident pout. Emphasis on dress texture, collarbone shadows, and waist shape.
+Panel 3 (Bottom Left): Full-body seated side-profile shot. Sitting on the floor with knees drawn toward the chest, cheek resting gently on one knee. Soft, intimate mood with natural body positioning and elegant composition.
+Style: Fashion editorial photography, luxury magazine quality, realistic skin pores, detailed fabric textures, ray-traced lighting, shallow depth of field, natural color grading, ultra-sharp focus, professional studio photography.
+```
+
+</details>
+
+<a id="gpt-image-golden-hour-park-fashion-collage"></a>
+### 黄金时刻公园五格时尚拼贴写真
+
+<a href="https://x.com/AvelyrahnAI/status/2064301990251991056"><img src="../../previews/gpt-image-golden-hour-park-fashion-collage.jpg" width="360"></a>
+
+提示词预先固定拼贴结构：一张大幅全身图、三张竖向小图和一张镜面自拍，每帧都有编号的动作描述。固定的服装清单加上逆光、调色和皮肤与面料质感等写实词汇，让五张图风格统一、接近真实摄影。
+
+GPT Image 2 · 文生图 · 出处: [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2064301990251991056) · 139 赞，统计于 2026-10-29
+
+[`collage`](tags.md#tag-collage) [`golden-hour`](tags.md#tag-golden-hour) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cinematic lifestyle fashion collage of a beautiful young Asian woman in a wide green park at golden hour sunset, captured as a premium 5-frame editorial photo series. Maintain the same collage layout: one large full-body walking frame, three vertical frames on the right, and one mirror-selfie frame on the lower left, separated by clean borders.
+The woman has a delicate natural face, soft expressive eyes, long wavy hair moving gently in the breeze, elegant earrings, and a calm, dreamy expression. She wears a muted sage-olive draped blouse with rolled sleeves, high-waisted ivory wide-leg trousers, off-white minimalist sneakers, a tan leather shoulder bag, subtle gold earrings, and a slim bracelet.
+Frame 1: walking beside a narrow canal holding a phone, relaxed candid expression.
+Frame 2: sitting cross-legged on grass, touching her hair softly.
+Frame 3: back-facing near the canal, looking at the sunset.
+Frame 4: close mirror-selfie, face partially hidden by phone, warm sunlight on hair and cheek.
+Frame 5: playful seated pose on grass, hands covering part of the face with a shy smile.
+Environment: expansive grassy field, scattered trees, reflective canal, glowing sunset sky, distant blurred people. Warm golden backlight, cinematic color grading, realistic shadows, natural depth of field, authentic skin texture, visible pores, subtle facial asymmetry, realistic hair strands, natural fabric folds, DSLR-quality photography, Pinterest-worthy editorial aesthetic, highly photorealistic 8K. No tattoos, no beauty-filter effect, no plastic skin, no AI-looking features, authentic candid fashion photography.
+```
+
+</details>
+
 <a id="gpt-image-ivory-editorial-collage-skater-breakout"></a>
 ### 滑板女孩跃出山景相框的编辑拼贴
 
@@ -765,6 +941,203 @@ Important: Use my uploaded image as the identity reference. Preserve my face exa
 
 </details>
 
+<a id="nano-banana-chrome-day-2-night-moodboard"></a>
+### 带铬银色 DAY 2 标题的夜间奢华情绪板
+
+<a href="https://x.com/astronomerozge1/status/2036834911848423625"><img src="../../previews/nano-banana-chrome-day-2-night-moodboard.jpg" width="360"></a>
+
+通过明确指定配色（象牙白、铬银、午夜黑）并禁止暖色调，让整张画面的色调保持统一。每个位置只写一件单品，并固定版式，避免画面变成杂乱的拼贴。
+
+Nano Banana 2 · 上传图改图 · 出处: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2036834911848423625) · 111 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`moodboard`](tags.md#tag-moodboard) [`typography`](tags.md#tag-typography) [`chrome`](tags.md#tag-chrome)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+ "generation_request": {
+ "meta_data": {
+ "tool": "Nano Banana 2",
+ "task_type": "luxury_fashion_moodboard_editorial",
+ "version": "v2.2_DAY2_CHROME_CONFIDENT_FINAL"
+ },
+
+ "input": {
+ "mode": "image_to_image",
+ "reference_image_usage": "high",
+ "notes": "Use the reference layout. Create DAY 2 as a confident night-time luxury moodboard with a darker, more powerful aesthetic. Maintain the clean minimal editorial structure with strong hierarchy and negative space."
+ },
+
+ "layout": {
+ "background": "soft ivory or cool champagne neutral (no warm gold tones)",
+ "composition": "same minimal structure as DAY 1 with elevated contrast and sharper visual presence"
+ },
+
+ "text_element": {
+ "title": "DAY 2",
+ "title_style": "large bold modern high-fashion serif in chrome silver, mirror-like metallic finish, sharp and reflective",
+ "title_effect": "cool-toned metallic reflections, strong contrast, modern luxury feel",
+
+ "quote": "Own the night without asking.",
+ "quote_style": "minimal refined script in soft silver",
+
+ "strict_rules": [
+ "no gold tones",
+ "typography must be chrome silver",
+ "cool modern aesthetic only"
+ ]
+ },
+
+ "fashion_story": {
+ "hero_dress": "black or deep metallic satin halter-neck or sleek slip evening dress, body-hugging, modern, slightly daring cut, luxury finish",
+
+ "shoes": "one pair of black or chrome metallic heels, sharp silhouette",
+
+ "bag": "one small luxury evening bag in black, chrome, or cool metallic tone",
+
+ "jewelry": "one bold minimal silver piece, such as cuff or statement earrings"
+ },
+
+ "lifestyle_element": {
+ "photo": "luxury rooftop or city night dinner setting with skyline lights, elegant candles, cinematic night atmosphere",
+
+ "cocktail": "one espresso martini or dark-toned cocktail in a refined glass"
+ },
+
+ "style_shift": {
+ "from_day1": "soft romantic beach",
+ "to_day2": "confident night city energy",
+ "mood": "bold, sharp, magnetic, modern, high-fashion"
+ },
+
+ "style_direction": {
+ "visual_language": "modern fashion campaign, minimal, sharp, high contrast",
+ "lighting_feel": "cool-toned highlights enhancing chrome reflections"
+ },
+
+ "output_settings": {
+ "aspect_ratio": "4:5",
+ "render_style": "luxury_editorial_collage_realism",
+ "sharpness": "ultra_crisp",
+ "color_grade": "midnight_black_chrome_silver"
+ },
+
+ "must_have": [
+ "DAY 2 chrome silver title",
+ "black or metallic dress",
+ "one pair of heels",
+ "one bag",
+ "one jewelry piece",
+ "one cocktail",
+ "one city night photo",
+ "minimal layout"
+ ],
+
+ "negative_prompt": [
+ "gold typography",
+ "warm tones",
+ "yellow dress",
+ "beach vibe",
+ "extra accessories",
+ "messy layout",
+ "low contrast",
+ "cheap styling",
+ "low detail"
+ ]
+ }
+}
+
+Prompt(right):
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "Nano Banana 2",
+      "task_type": "reference_matched_fashion_scene",
+      "version": "v1.0_DAY2_REALISTIC_MATCH"
+    },
+
+    "input": {
+      "mode": "image_to_image",
+      "reference_image_usage": "very_high",
+      "preserve_identity": true,
+      "preserve_facial_features": true,
+
+      "notes": "Use the uploaded reference woman as the exact subject. Keep her face, identity, and proportions consistent. Transform the scene into a DAY 2 night luxury fashion setting. Do not create a collage. Create a single realistic cinematic scene."
+    },
+
+    "scene": {
+      "environment": "luxury rooftop or elegant city night setting with soft lights, modern atmosphere",
+      "mood": "confident, modern, magnetic, night luxury"
+    },
+
+    "styling_logic": {
+      "rule": "All outfit, accessories, and styling must naturally match the reference woman’s appearance, proportions, and aesthetic. Nothing should feel random or disconnected.",
+      "cohesion": "everything must look like it belongs to the same person, same moment, same environment"
+    },
+
+    "outfit": {
+      "description": "a high-fashion evening outfit that suits the reference woman perfectly, modern, elegant, slightly bold, night-appropriate"
+    },
+
+    "accessories": {
+      "bag": "placed naturally on a table or next to her, never floating",
+      "shoes": "worn by the woman, fully integrated with the outfit",
+      "jewelry": "worn on the woman, subtle but luxury, not separate objects"
+    },
+
+    "drink": {
+      "placement": "either in her hand or placed naturally on a table",
+      "style": "luxury cocktail matching the night setting"
+    },
+
+    "placement_rules": {
+      "no_floating_objects": true,
+      "no_random_scatter": true,
+      "realistic_positions_only": true,
+      "physical_logic": "all objects must obey real-world placement and balance"
+    },
+
+    "camera": {
+      "framing": "medium or full-body fashion shot",
+      "angle": "editorial, slightly cinematic",
+      "lens": "50mm or 85mm",
+      "focus": "sharp on face and outfit"
+    },
+
+    "lighting": {
+      "type": "night luxury lighting",
+      "effect": "soft highlights with subtle reflections, clean modern contrast"
+    },
+
+    "must_have": [
+      "same reference woman",
+      "identity preserved",
+      "cohesive styling",
+      "realistic placement",
+      "no floating objects",
+      "night luxury mood",
+      "single scene (no collage)"
+    ],
+
+    "negative_prompt": [
+      "collage",
+      "floating bag",
+      "floating shoes",
+      "floating jewelry",
+      "random objects",
+      "bad placement",
+      "different face",
+      "identity change",
+      "messy composition",
+      "low realism"
+    ]
+  }
+}
+```
+
+</details>
+
 <a id="nano-banana-korean-four-cut-photo-booth-strip"></a>
 ### 韩式四格大头贴照片条，粉彩边框
 
@@ -780,6 +1153,49 @@ Nano Banana 2 · 上传图改图 · 出处: [@AiwithLariab on X](https://x.com/A
 
 ```text
 Transform this photo into a Korean selca zone 4-cut photo strip. Create 4 vertically stacked frames with the same person in slightly different cute poses. Apply the classic Korean photo booth filter: brightened skin, subtle aegyo-sal enhancement, soft pink blush. Add a pastel mint and pink border with small decorative icons (bears, hearts, clouds). Include a date stamp '2026.03.8' at the bottom. The aesthetic should match modern Korean 4-cut photo booths like Photoism or Haru Film. Keep facial features accurate.
+```
+
+</details>
+
+<a id="nano-banana-rooftop-disposable-camera-contact-sheet"></a>
+### 屋顶夜游两格一次性相机拼贴
+
+<a href="https://x.com/SimplyAnnisa/status/2066735760783647036"><img src="../../previews/nano-banana-rooftop-disposable-camera-contact-sheet.jpg" width="360"></a>
+
+开头先定下胶片边框、闪光灯和双格版式，再写人物细节，使构图稳定。每一格单独写姿势与动作，既能保持同一人物一致，也能让两张画面有变化。
+
+Nano Banana 2 · 文生图 · 出处: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2066735760783647036) · 105 赞，统计于 2026-10-29
+
+[`disposable-camera`](tags.md#tag-disposable-camera) [`contact-sheet`](tags.md#tag-contact-sheet) [`night-portrait`](tags.md#tag-night-portrait) [`y2k`](tags.md#tag-y2k)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic vertical disposable-camera contact sheet collage featuring 2 stacked photo panels in a tall smartphone-friendly layout with authentic black film-strip borders. The same woman appears in every frame during a glamorous night out. Authentic Y2K nightlife aesthetic, early-2000s digital camera flash photography, luxury party-girl energy, candid documentary-style storytelling, spontaneous nightlife moments, nostalgic nightlife memories.
+
+FACE & MAKEUP:
+Soft IG Baddie Meets Clean Girl beauty aesthetic. Flawless hydrated glass skin with a soft matte balance and luminous highlights on the cheeks, nose bridge, and cupid’s bow. Soft pink blush concentrated across the cheeks and nose bridge for youthful warmth. Defined fluffy brows with clean shaping. Eyes enhanced with soft brown-pink eyeshadow, subtle eyeliner, wispy doll-like lashes, and bright under-eye highlights creating large innocent eyes. Naturally overlined lips with a glossy pink tint. Feminine, modern, effortless, photogenic, subtly glamorous appearance.
+
+HAIR:
+Ultra-long voluminous chestnut-brown layered blowout hairstyle with soft feathered curtain bangs naturally framing the face. Smooth silky texture with luxurious shine, large rounded bouncy curls at the ends, face-framing layers, airy movement, salon-quality 90s supermodel blowout styling. Thick healthy hair with subtle warm brunette highlights, fluffy crown volume, softly curled inward and outward layers creating glamorous movement. Slightly tousled styling with a few loose strands framing the cheeks naturally.
+
+ACCESSORIES:
+Statement gold crystal ear cuff, floral-inspired luxury earrings, layered pearl-and-gold charm bracelet stack, delicate luxury rings, glossy black-and-ivory almond-shaped manicure, subtle reflective jewelry sparkle.
+
+OUTFIT:
+Elegant black-and-white halter dress with a deep plunging neckline, dramatic open-side silhouette, corset-inspired structure, form-fitting waist, and sleek feminine silhouette. Sophisticated luxury nightlife styling.
+
+FRAME 1:
+Inside a luxury rooftop lounge overlooking sparkling city lights at night. She smiles softly while gazing off-camera, chin slightly raised, projecting effortless confidence and elegance. Warm ambient lounge lighting mixed with harsh direct flash. Carefree happiness, glamorous nightlife energy, candid paparazzi-style snapshot.
+
+FRAME 2:
+She tilts her head back while sweeping her hair with her right hand, creating visible hair motion and dynamic movement. Natural confidence, effortless glamour, luxurious party-girl attitude. Jewelry catches the flash and sparkles subtly. Shallow depth of field with dreamy city-light bokeh in the background.
+
+PHOTOGRAPHY STYLE:
+Harsh direct flash illumination, disposable-camera aesthetic, authentic digital grain, subtle camera shake, slight overexposure, imperfect framing, imperfect cropping, natural motion blur, timestamp-free, scrapbook aesthetic, cinematic urban storytelling, warm orange and red nightclub lighting mixed with cool blue city tones, dreamy bokeh, luxury social-media influencer energy, candid nightlife photography, realistic skin texture, ultra-detailed hair strands, photorealistic, ultra-realistic, high realism, professional editorial quality, 8K masterpiece.
+
+KEYWORDS:
+Disposable camera collage, vertical contact sheet, Y2K flash photography, luxury nightlife, rooftop lounge, glamorous party girl, candid moments, cinematic nightlife memories, nostalgic digital camera aesthetic, paparazzi-style photography, luxury influencer aesthetic, film-strip composition, editorial fashion photography.
 ```
 
 </details>
@@ -835,6 +1251,227 @@ Lighting: cinematic, slightly grainy, vintage color grading. High detail, sharp 
 
 </details>
 
+<a id="nano-banana-beach-three-panel-linen-golden-hour"></a>
+### 亚麻衬衫海滩三联人像
+
+<a href="https://x.com/MrDasCreates/status/2039915907162779888"><img src="../../previews/nano-banana-beach-three-panel-linen-golden-hour.jpg" width="360"></a>
+
+把画面拆成三个上下排列的画格，每格写明姿势和机位（坐姿、背对镜头、低角度），给模型一份清晰的分镜清单。三格统一服装和青橙色调，人物与风格就不会跑偏。
+
+Nano Banana 2 · 上传图改图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2039915907162779888) · 103 赞，统计于 2026-10-29
+
+[`portrait`](tags.md#tag-portrait) [`collage`](tags.md#tag-collage) [`golden-hour`](tags.md#tag-golden-hour) [`beach`](tags.md#tag-beach)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic three-panel vertical collage featuring a stylish young man at a serene beach during golden hour. In the top panel, he is sitting on the sand with one knee up, resting his arm on it, gazing down thoughtfully as waves approach. In the middle panel, he stands facing the ocean with one hand running through his hair, shirt slightly flowing in the breeze, capturing a candid emotional moment. In the bottom panel, he is captured from a low-angle front shot, adjusting his dark sunglasses while looking toward the horizon with a confident, calm expression. He is wearing a crisp, earth-toned beige linen button-down shirt. The lighting is warm and moody with a soft teal-and-orange color grade, subtle film grain texture, and high-fashion editorial aesthetic. 4K resolution, hyper-realistic, emotional atmosphere, cinematic film still, 100% same face as reference photo, vertical 9:16 composition, slightly zoomed-in framing.
+```
+
+</details>
+
+<a id="nano-banana-three-panel-man-mountain-temple-lake"></a>
+### 同一男子出现在山脉、古庙与湖畔三幅画面中
+
+<a href="https://x.com/MrDasCreates/status/2040639446044102992"><img src="../../previews/nano-banana-three-panel-man-mountain-temple-lake.jpg" width="360"></a>
+
+重复同一套固定的人脸描述，并声明它们来自同一张参考照，可以让三个画面中的人物保持一致。每个画面再单独指定场景、服装和调色，并按从上到下的顺序排列在9:16画幅中，让模型把它理解为一张完整拼贴。
+
+Nano Banana 2 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2040639446044102992) · 101 赞，统计于 2026-10-29
+
+[`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait) [`consistency`](tags.md#tag-consistency) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-realistic three-panel vertical cinematic collage in 9:16 aspect ratio, editorial fashion photography style. The collage consists of three distinct vertical frames stacked seamlessly, each featuring the exact same man with consistent face, skin tone, short black hair, sharp jawline, and intense gaze directly at the viewer, as if from the same reference photo.
+
+Top panel: The man stands confidently on a misty mountain ridge at sunrise, dramatic Himalayan peaks in the background with golden light piercing through low clouds. He wears a rugged dark olive green tactical field jacket with rolled sleeves, black cargo pants, and sturdy hiking boots. Cool blue-gray color grading with subtle film grain.
+
+Middle panel: The man leans against an ancient stone pillar inside a grand abandoned temple in a dense tropical jungle, soft diffused sunlight filtering through overgrown vines and carved arches. He wears a lightweight white linen button-up shirt (slightly unbuttoned at the top) tucked into slim khaki trousers, with brown leather loafers. Warm earthy tones with teal shadows and cinematic haze.
+
+Bottom panel: The man walks along a serene lakeside at golden hour, crystal-clear water reflecting snow-capped mountains in the distance, surrounded by pine trees. He wears a black merino wool turtleneck sweater layered under a tailored charcoal wool overcoat, dark jeans, and polished Chelsea boots. Moody teal-orange cinematic grading with soft bokeh and gentle film grain.
+
+Maintain perfect facial consistency across all three panels — same man, same reference face, no variations in features. Ultra-detailed skin texture, realistic fabric details, natural lighting per environment. Cinematic color grading, subtle film grain, editorial composition, high-end fashion photography aesthetic, shot on 35mm film, 4k resolution, photorealistic, masterpiece.
+```
+
+</details>
+
+<a id="nano-banana-studio-three-panel-portrait-turtleneck"></a>
+### 黑色高领衫三联工作室人像
+
+<a href="https://x.com/MrDasCreates/status/2042098378923036842"><img src="../../previews/nano-banana-studio-three-panel-portrait-turtleneck.jpg" width="360"></a>
+
+参考照片锁定人物身份，每个画面只改变构图、姿态和视线，使同一人物呈现连贯的编辑风格系列。柔和漫射光与暖色渐变背景让三个画面保持统一。
+
+Nano Banana 2 · 上传图改图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2042098378923036842) · 98 赞，统计于 2026-10-29
+
+[`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait) [`studio-lighting`](tags.md#tag-studio-lighting) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic three-panel vertical collage featuring a stylish young man in a minimalist studio aesthetic photoshoot. In the top panel, he is captured in a close-up portrait, slightly looking down with soft shadows sculpting his face. In the middle panel, he stands facing forward with one hand adjusting his collar, showcasing a calm, confident expression. In the bottom panel, he is shown in a side profile, hands in pockets, creating a relaxed editorial pose. He is wearing a clean neutral-toned fitted shirt and tailored trousers. Soft diffused studio lighting creates smooth highlights and gentle shadows, with a minimal background and subtle gradient tones. High-fashion editorial aesthetic, shallow depth of field, realistic skin texture, cinematic color grading, ultra-clean composition, 4K resolution, hyper-realistic, cinematic photoshoot style, vertical 9:16 composition, slightly zoomed-in framing. Face 100% same as reference photo.
+```
+
+</details>
+
+<a id="nano-banana-four-expression-grid-black-tee"></a>
+### 黑色T恤女性四种表情2x2拼贴
+
+<a href="https://x.com/Ozayrr_irl/status/2061012493569585467"><img src="../../previews/nano-banana-four-expression-grid-black-tee.jpg" width="360"></a>
+
+为每个格子单独写一行姿势描述，使四个画面各不相同且清晰可辨。固定服装、墙面和道具，并加入胶片与直闪设定，让整组照片看起来像同一场90年代随拍。
+
+Nano Banana 2 · 文生图 · 出处: [@Ozayrr_irl on X](https://x.com/Ozayrr_irl/status/2061012493569585467) · 94 赞，统计于 2026-10-29
+
+[`grid`](tags.md#tag-grid) [`film-look`](tags.md#tag-film-look) [`portrait`](tags.md#tag-portrait) [`expressions`](tags.md#tag-expressions)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A 2x2 grid photo collage showing four different expressions of a young woman with long, messy black hair and fair skin. She is wearing a plain black t-shirt.
+
+Top-left: smiling warmly at the camera.
+Top-right: thoughtful pose with her hand resting on her chin.
+Bottom-left: side profile looking away, serious expression.
+Bottom-right: playful expression, scrunching her nose and shrugging her hands up.
+
+The photos are shot on a 35mm film camera with a direct flash, creating subtle shadows against a plain, muted beige wall background. A few blurry polaroid photos are pinned to the wall behind her. Low-key lighting, candid, realistic, 90s aesthetic, grainy texture. --ar 1:1 --v 6.0
+```
+
+</details>
+
+<a id="nano-banana-gym-journey-nine-frame-collage"></a>
+### 九宫格照片讲述骑车往返健身房的一天
+
+<a href="https://x.com/AIwithSynthia/status/2039913444636590424"><img src="../../previews/nano-banana-gym-journey-nine-frame-collage.jpg" width="360"></a>
+
+按编号逐帧描述场景，并固定人物的脸部、发型和服装，使模型在九个画面中保持同一角色。每帧的光线提示，如晨光和黄金时段，与动作描述一样推动故事走向。
+
+Nano Banana 2 · 文生图 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2039913444636590424) · 92 赞，统计于 2026-10-29
+
+[`collage`](tags.md#tag-collage) [`storytelling`](tags.md#tag-storytelling) [`fitness`](tags.md#tag-fitness) [`consistency`](tags.md#tag-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cinematic 9-photo collage collection telling a complete fitness journey story of a young athletic woman traveling from her home to the gym and returning back home, each frame showing a different scene and progression, strong visual storytelling, consistent character identity across all images (same face, same hairstyle, same gym outfit), natural body proportions, photorealistic skin texture, lifestyle editorial photography, no CGI, no illustration, ultra-detailed, 8K resolution.
+Frame 1: Inside her bedroom, she prepares for the gym, adjusting her workout clothes in front of a mirror, soft morning sunlight entering through the window, calm focused mood.
+Frame 2: At the home entrance, she picks up her gym bag and opens the door, natural indoor lighting, realistic home interior, storytelling beginning.
+Frame 3: Outside her house, she boards her bicycle, one foot on the pedal, preparing to ride, residential street background, cinematic morning light.
+Frame 4: She rides the bicycle on the street toward the gym, side-angle action shot, natural motion blur, dynamic composition, urban environment.
+Frame 5: She arrives at the gym exterior and parks her bicycle near the entrance, modern gym building with glass facade, confident expression, realistic reflections.
+Frame 6: Inside the gym, she performs an exercise such as lifting dumbbells or doing squats, focused expression, visible effort, professional gym environment, dramatic lighting.
+Frame 7: She takes a break and drinks water from a bottle, slightly sweaty, natural post-workout moment, blurred gym equipment background, candid realism.
+Frame 8: She exits the gym and walks toward her bicycle, carrying her gym bag, relaxed and satisfied expression, warm evening light, cinematic atmosphere.
+Frame 9: She rides her bicycle back toward home during golden hour sunset, peaceful and relaxed mood, cinematic street scene, storytelling conclusion.
+```
+
+</details>
+
+<a id="gpt-image-face-cream-storyboard-ten-frames"></a>
+### 面霜广告十格分镜故事板
+
+<a href="https://x.com/Soaima_Ai/status/2082331258072514792"><img src="../../previews/gpt-image-face-cream-storyboard-ten-frames.jpg" width="360"></a>
+
+提示词把网格、编号、时间码和说明文字写成统一的版式要求，让十个画面保持相同结构。统一的机位与镜头参数（ARRI Alexa 35、变形宽银幕 50mm 微距）让所有画面的影像风格保持一致。
+
+GPT Image 2 · 文生图 · 出处: [@Soaima_Ai on X](https://x.com/Soaima_Ai/status/2082331258072514792) · 90 赞，统计于 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`skincare`](tags.md#tag-skincare) [`advertising`](tags.md#tag-advertising) [`grid-layout`](tags.md#tag-grid-layout)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium Hollywood-style advertising storyboard sheet for a luxury moisturizing face cream commercial. Display 10 ultra-realistic cinematic storyboard frames arranged in a 2×5 presentation grid on a pristine white storyboard board. Each frame features a thin black border, bold scene numbers (01–10), a duration timestamp, and a concise production caption beneath it. The overall design should resemble a professional advertising agency pitch board for a world-class skincare campaign.
+Title: DEEP HYDRATION
+Subtitle: 15-Second Premium Face Cream Commercial
+Scene 01 (0.0–1.5s) — Pure Reveal
+A luxurious crystal-glass face cream jar slowly rises from perfectly clear water, surrounded by soft white light, delicate mist, and elegant ripples, creating an atmosphere of purity and luxury.
+Scene 02 (1.5–3.0s) — Premium Detail
+Extreme macro beauty shot of the premium glass jar covered in sparkling condensation. Sharp reflections emphasize the luxurious glass craftsmanship and premium packaging.
+Scene 03 (3.0–4.5s) — Hydration Ingredients
+Pure water droplets, hyaluronic acid molecules, aloe vera gel, white blossoms, botanical extracts, and moisture particles gracefully float around the product in slow motion.
+Scene 04 (4.5–6.0s) — Hydration Burst
+Crystal-clear water splashes dynamically around the cream jar while glowing hydration particles and delicate botanical petals swirl elegantly through the air.
+Scene 05 (6.0–7.5s) — Cream Texture
+A silky ribbon of rich white moisturizer flows gracefully through the air, twisting smoothly around the product to showcase its luxurious texture.
+Scene 06 (7.5–9.0s) — Skin Absorption
+Macro close-up of the cream spreading effortlessly across flawless, healthy skin. Hydration particles glow beneath the surface, revealing a radiant, moisturized finish.
+Scene 07 (9.0–10.5s) — Healthy Glow
+Beautiful hydrated skin illuminated by soft natural daylight. Tiny floating water droplets and subtle botanical elements reinforce freshness, softness, and long-lasting moisture.
+Scene 08 (10.5–12.0s) — Hydration Freeze
+Time freezes as water splashes, floating droplets, cream ribbons, botanical petals, and glowing hydration particles create a perfectly balanced premium beauty composition.
+Scene 09 (12.0–13.5s) — Hero Product
+The face cream jar stands proudly on a reflective glass surface surrounded by crystal-clear water, luminous hydration particles, and soft volumetric light in a dramatic hero shot.
+Scene 10 (13.5–15.0s) — Brand Signature
+Minimal white studio background. The brand logo fades in gracefully with the elegant tagline:
+"Hydration That Lasts."
+Caption: Brand Signature
+Visual Direction
+Inspired by world-class luxury hydration skincare campaigns emphasizing purity, deep moisture, luminous healthy skin, silky cream textures, crystal-clear water, botanical science, and clean beauty aesthetics.
+Color Palette
+Pure White
+Soft Sky Blue
+Crystal Water Blue
+Silver Highlights
+Natural Beige
+Lighting
+Soft beauty lighting, diffused daylight, volumetric glow, clean studio reflections, premium cosmetic illumination.
+Camera
+ARRI Alexa 35, Cooke Anamorphic 50mm lens, macro beauty cinematography, ultra slow motion, shallow depth of field, precision focus.
+Style
+Luxury skincare advertising, premium beauty campaign, high-end cosmetic photography, Hollywood commercial storyboard, advertising agency presentation board, ultra-photorealistic, HDR, 8K, masterpiece quality, impeccable product realism, cinematic composition, flawless visual storytelling.
+```
+
+</details>
+
+<a id="nano-banana-monochrome-noir-five-frame-collage"></a>
+### 黑白都市屋顶五格人像拼贴
+
+<a href="https://x.com/EthanAIBuilder/status/2061318395220635914"><img src="../../previews/nano-banana-monochrome-noir-five-frame-collage.jpg" width="360"></a>
+
+以身份参考图锁定同一张脸，再用分镜清单为中央全身像和四个特写分别指定角度、表情与道具，让五个画面呈现同一套编辑风格。把雾气、边缘光和湿地面等光影层分开描述，使黑白都市背景在各个画面中保持一致。
+
+Nano Banana 2 · 上传图改图 · 出处: [@EthanAIBuilder on X](https://x.com/EthanAIBuilder/status/2061318395220635914) · 84 赞，统计于 2026-10-29
+
+[`monochrome`](tags.md#tag-monochrome) [`noir`](tags.md#tag-noir) [`fashion-editorial`](tags.md#tag-fashion-editorial) [`collage`](tags.md#tag-collage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the uploaded reference images as the exact composition, styling, pose inspiration, facial framing, monochrome aesthetic, and cinematic atmosphere reference. Replace all original subjects completely with the face from my uploaded reference image while preserving my exact facial identity, facial structure, jawline, beard pattern, hairstyle, eye shape, eyebrows, nose shape, lips, skin texture, and realistic masculine appearance with extremely high identity fidelity. Do not stylize, beautify, or alter the recognizable facial features.
+
+Create a high-end cinematic black-and-white multi-frame portrait collage featuring the same man in multiple stylish poses and expressions across the composition. The overall artwork should feel like a luxury fashion editorial poster mixed with a moody urban action-drama aesthetic. Use five different versions of the same subject arranged artistically in layered composition with varied camera angles, facial expressions, and poses.
+
+Center Frame:
+A full-body portrait of the man standing confidently in the center wearing an all-black outfit — fitted black button-up shirt with rolled sleeves, slim black trousers, luxury black wristwatch, chain necklace, and white sneakers. One hand is inside the pocket while the other adjusts the collar or touches the neck. Pose should feel confident, calm, dominant, and cinematic.
+
+Side Portraits:
+Include large close-up portraits on both sides showing different facial angles:
+
+* one looking away thoughtfully with soft dramatic lighting,
+* one wearing black sunglasses with a stylish confident attitude,
+* one side-profile portrait with strong jawline emphasis,
+* one contemplative pose with hand near face.
+
+Hair should appear textured, voluminous, slightly messy, and sharply detailed. Beard and facial hair must remain realistic and natural.
+
+Environment & Background:
+Create a dark cinematic urban rooftop/night-city atmosphere with blurred skyscrapers, subtle moonlight, fog, smoke clouds, floating particles, dust texture, and atmospheric haze. Add soft glowing rim lights, smoky overlays, and dramatic shadows throughout the collage. Include faint city lights, moody grayscale contrast, reflective wet floor textures, and layered depth effects.
+
+Color grading should be primarily monochrome black-and-white with deep blacks, silver highlights, matte shadows, and subtle warm-gray tones. Maintain ultra-realistic skin texture and high dynamic range lighting.
+
+Lighting:
+Use dramatic cinematic lighting with strong contrast, soft edge lighting, volumetric fog, shadow gradients, and luxury editorial highlights. Faces should have sharp detail with soft diffused glow around hair and shoulders.
+
+Style:
+ultra-realistic, cinematic monochrome portrait collage, luxury fashion editorial, dark urban aesthetic, high-end poster design, realistic male model photography, moody atmosphere, smoky cinematic composition, dramatic shadows, hyper-detailed skin texture, realistic fabric folds, shallow depth of field, premium magazine cover quality, 8K ultra detail, Unreal Engine 5 realism, DSLR photography look.i9
+```
+
+</details>
+
 <a id="gpt-image-couple-photobooth-contact-sheet-8-frames"></a>
 ### 年轻情侣八格拍立得照相亭联系表
 
@@ -878,6 +1515,430 @@ Arrange all eight photographs inside distressed black analog contact-sheet borde
 At the bottom, handwritten: “A thousand little moments with you ♡” with a small handwritten date.
 
 The overall result should feel like a real couple accidentally created the perfect roll of film, intimate, youthful, nostalgic, cute and highly shareable—not a polished commercial photoshoot. Premium editorial composition, believable analog photography, extremely detailed faces, clean tonal separation, excellent contrast and natural cinematic color grading, 8K-quality realism, 9:16 vertical, absolutely no obvious AI artifacts.
+```
+
+</details>
+
+<a id="nano-banana-dark-bedroom-grunge-grid-portrait"></a>
+### 深色卧室中女孩四种姿态的拼贴
+
+<a href="https://x.com/kingofdairyque/status/2071185549969260844"><img src="../../previews/nano-banana-dark-bedroom-grunge-grid-portrait.jpg" width="360"></a>
+
+明确写出 2x2 网格并为每格指定一个姿势，让模型规划四个不同画面；同时反复描述相同的发型、眼镜和卫衣，使人物在各格中保持一致。负面提示排除明亮打光和精修光泽，让画面更像手机随手拍。
+
+Nano Banana 2 · 文生图 · 出处: [@kingofdairyque on X](https://x.com/kingofdairyque/status/2071185549969260844) · 78 赞，统计于 2026-10-29
+
+[`portrait`](tags.md#tag-portrait) [`grunge`](tags.md#tag-grunge) [`low-light`](tags.md#tag-low-light) [`collage`](tags.md#tag-collage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Nano banana 2 on
+@openart_ai
+
+
+Ultra-realistic dark aesthetic bedroom photo collage, 2x2 grid layout featuring the same young woman in four different candid poses. Soft grunge emo-girl vibe, messy long black hair partially covering her face, round black glasses, oversized black sweatshirt, pale skin, tired dreamy expression.
+
+Top left: lying on a white pillow in a dark room, face partially hidden behind sleeve, looking toward camera.
+Top right: sitting in darkness, hand covering mouth, messy hair, moody introspective pose.
+Bottom left: extreme close-up portrait, hair falling across face, soft lips visible, cinematic shallow depth of field.
+Bottom right: mirror selfie holding black smartphone, oversized black graphic t-shirt, one hand in hair, dim bedroom background.
+
+Lighting: very low light, bluish-grey tones, subtle phone flash illumination, soft shadows, grainy digital camera texture, slight motion blur, nostalgic 2000s webcam aesthetic.
+
+Style: dark academia, soft grunge, goth-inspired, melancholic mood, Tumblr aesthetic, indie bedroom photography, authentic candid moments, natural imperfections, muted colors, realistic skin texture, cinematic atmosphere.
+
+Camera: handheld smartphone photography, high ISO grain, flash photography, shallow depth of field, realistic lens imperfections.
+
+Color grading: desaturated blacks, cool blue-grey shadows, faded contrast, moody night-time atmosphere.
+
+Negative prompt: bright lighting, smiling, colorful clothes, perfect studio lighting, heavy makeup, CGI, anime, cartoon, unrealistic skin, extra fingers, watermark, text, overexposed image, glossy fashion magazine style.
+```
+
+</details>
+
+<a id="nano-banana-golden-hour-collage-lilies-music-player"></a>
+### 金色时刻下的人像拼贴、百合与音乐播放器
+
+<a href="https://x.com/AiwithLariab/status/2049876084850905432"><img src="../../previews/nano-banana-golden-hour-collage-lilies-music-player.jpg" width="360"></a>
+
+为每个画面指定镜头类型（眼睛、嘴唇、侧脸）并统一暖色光线，使拼贴保持一致的版式。模糊的音乐播放器叠层营造怀旧氛围，又不抢人像的焦点。
+
+Nano Banana 2 · 文生图 · 出处: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2049876084850905432) · 75 赞，统计于 2026-10-29
+
+[`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait) [`golden-hour`](tags.md#tag-golden-hour) [`warm-tones`](tags.md#tag-warm-tones)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Warm-toned cinematic portrait collage of a young woman with glowing skin, subtle freckles, and glossy nude lips. Long dark wavy hair, gold jhumkas, delicate necklace, deep maroon outfit with sheer dupatta. Golden hour lighting with soft shadows for a cozy mood. Aesthetic collage of close-ups (eyes, lips, side profile), with beige/orange lilies and a blurred music player overlay for a nostalgic vibe. Dewy skin, minimal makeup."
+```
+
+</details>
+
+<a id="nano-banana-luxury-scrapbook-suited-portrait-collage"></a>
+### 奢华拼贴手账，三张黑西装人像
+
+<a href="https://x.com/Professor_134/status/2078141463066808345"><img src="../../previews/nano-banana-luxury-scrapbook-suited-portrait-collage.jpg" width="360"></a>
+
+用参考人脸图加上明确的身份锁定指令，让三张不同照片中的面部保持一致。版面规格对撕边纸、胶带、手写字和回形针标签逐项说明，使拼贴手账的质感结构清晰可控。
+
+Nano Banana 2 · 上传图改图 · 出处: [@Professor_134 on X](https://x.com/Professor_134/status/2078141463066808345) · 74 赞，统计于 2026-10-29
+
+[`scrapbook`](tags.md#tag-scrapbook) [`collage`](tags.md#tag-collage) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`face-reference`](tags.md#tag-face-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Image generated with nano banana 2
+
+                Promt:- Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows, eyes, nose, lips, beard, skin tone, ears, facial proportions, and every unique facial feature. Do not beautify, stylize, age, de-age, feminize, or replace my identity. Maintain perfect facial consistency across every frame.
+
+Create a luxury cinematic scrapbook editorial collage with three overlapping vintage Polaroid-style photographs arranged asymmetrically on a warm beige textured paper background. The collage should feature realistic torn paper edges, masking tape in the corners, subtle folds, handwritten notes, paper grain, soft shadows, and layered depth, resembling a premium luxury fashion mood board.
+
+Frame 1 (Upper Left): A medium portrait of me standing against elegant European stone architecture. I am wearing a perfectly tailored black suit with an open-collar black shirt, matte black wayfarer sunglasses, and a luxury black metal wristwatch. Both hands are casually in my pockets while I lean slightly against a stone wall, looking confidently to the left with a calm, mysterious expression.
+
+Frame 2 (Center Right – Hero Shot): An ultra-close-up cinematic portrait focused mainly on my face. My right hand gently rests beneath my chin in a thoughtful pose. Sunglasses remain on with subtle reflections. Capture razor-sharp skin texture, beard details, lips, and facial features. Background should dissolve into luxurious creamy bokeh with warm golden-hour lighting.
+
+Frame 3 (Bottom Left): A full-body editorial portrait of me sitting casually on old stone steps outside a luxury building. My elbows rest naturally on my knees while I look sideways with a relaxed, confident expression. My black suit fits perfectly, with realistic fabric folds and premium tailoring.
+
+The overall mood should feel like an expensive luxury fashion campaign with muted warm tones, cinematic depth, and elegant storytelling.
+
+Add realistic scrapbook design elements including:
+•Torn paper borders around every photograph
+•Vintage masking tape holding the photos
+•Handwritten notes reading:
+•Discipline
+•Focus
+•Freedom
+•Small elegant quote:
+“Style is a way to say who you are without having to speak.”
+•Bottom-right editorial text:
+RULE NO.1
+Never be the same as everyone else.
+•A small black label with
+@Professor_134
+ attached using a silver paper clip.
+
+Background: Warm textured kraft paper with subtle stains, paper fibers, folds, vintage imperfections, soft lighting, and realistic shadows beneath every photograph.
+
+Color Palette: Warm beige, mocha brown, matte black, cream, muted gold, subtle sepia, cinematic bronze highlights.
+
+Lighting: Soft golden-hour sunlight, premium editorial lighting, cinematic shadows, realistic skin texture, luxurious color grading.
+
+Style: Saint Laurent campaign, Tom Ford editorial, Vogue Men, GQ magazine, luxury fashion advertising, cinematic portrait photography, premium scrapbook aesthetic, ultra-realistic, Hasselblad X2D medium format, Leica SL3, 85mm portrait lens, f/1.4, HDR, 8K, hyper-detailed, award-winning editorial photography, luxury lifestyle campaign.
+
+Negative Prompt
+
+cartoon, anime, CGI, illustration, plastic skin, inaccurate face, different identity, smiling, open mouth, exaggerated jawline, bad anatomy, extra fingers, duplicate limbs, deformed hands, poor lighting, blurry, low resolution, watermark, logo, text errors, cropped face, oversaturated colors, artificial shadows, noisy image, unrealistic hair, distorted proportions, low detail, overprocessed skin, fake sunglasses, unrealistic watch, messy composition.
+```
+
+</details>
+
+<a id="gpt-image-jungle-explorer-storyboard-four-shots"></a>
+### 丛林探险者的四格分镜镜头
+
+<a href="https://x.com/bmx_ai13/status/2064199055215902941"><img src="../../previews/gpt-image-jungle-explorer-storyboard-four-shots.jpg" width="360"></a>
+
+在提示词中为每一格写明镜头类型和标签，使四个画面的构图各不相同；固定的角色描述（湿发、橙色外套、肩包背带）让同一人物在各格中保持一致。明确 16:9 比例和细分隔线，确定了叠放式分镜版式。
+
+GPT Image 2 · 文生图 · 出处: [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2064199055215902941) · 72 赞，统计于 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`collage`](tags.md#tag-collage) [`photorealistic`](tags.md#tag-photorealistic) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GPT Image 2 on ChatGPT
+
+Prompt: Create a cinematic storyboard style collage made of four horizontal stacked panels, each showing a different camera shot of the same young female jungle explorer in a dense tropical rainforest. She has wet dark hair tied back, light brown skin, and wears an orange rain jacket over a dirty beige shirt, with a shoulder bag strap visible. The environment is a lush humid jungle with thick green foliage, hanging vines, muddy ground, misty atmosphere, and strong golden sunlight beams cutting through the canopy. The overall look should be photorealistic, cinematic, dramatic, adventurous, and atmospheric, with deep green shadows and warm amber highlights.
+
+Panel 1 Top panel: A medium wide back shot of the young woman standing in the jungle, seen from behind, looking up toward a bright sunlit opening in the trees. Her orange jacket catches the golden light. Dense vegetation surrounds her. Add bold white uppercase text on the lower left: “MEDIUM WIDE BACK SHOT”.
+
+Panel 2 Second panel: A bird’s eye view wide shot looking down at the same woman standing alone on a narrow muddy jungle path, surrounded by dense rainforest plants and glowing shafts of sunlight. She looks upward with curiosity and fear. Add bold white uppercase text on the lower left: “BIRD’S-EYE VIEW WIDE SHOT”.
+
+Panel 3 Third panel: An extreme close up of the woman’s eyes and upper face, sweaty and slightly dirty, with wet skin reflecting warm jungle light. Her eyes look upward with tension, awe, and fear. Add bold white uppercase text on the lower left: “EXTREME CLOSE-UP”.
+
+Panel 4 Bottom panel: A slight low angle close up of the woman’s face and upper body, looking upward in wonder and concern. Wet hair clings to her face, the orange jacket is visible, and the blurred jungle behind her glows with warm sun rays. Add bold white uppercase text on the lower left: “SLIGHT LOW ANGLE CLOSE-UP”.
+
+Use a clean storyboard layout with thin panel dividers, bold condensed sans-serif typography, white shot labels, realistic film still quality, dramatic lighting, shallow depth of field, and a Hollywood jungle adventure mood.
+
+Optional Negative Prompt: low quality, blurry, cartoon, anime, extra limbs, distorted face, messy layout, wrong text, misspelled text, watermark, logo, duplicate subject, flat lighting
+
+Make the aspect ratio 16:9
+```
+
+</details>
+
+<a id="gpt-image-red-beret-collage-street-portrait"></a>
+### 红色贝雷帽人像配粉蓝拼贴街景
+
+<a href="https://x.com/codewithhajra/status/2073025145703202995"><img src="../../previews/gpt-image-red-beret-collage-street-portrait.jpg" width="360"></a>
+
+用上传照片作为身份参考，并明确列出需保留的脸部、皮肤、发型和比例，使后续风格层不会改变人物。把真实人像与手工叠加层（轮廓线、撕纸、马克笔涂鸦）分开描述，拼贴效果就像叠在照片上，而不是重新绘制。
+
+GPT Image 2 · 上传图改图 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2073025145703202995) · 72 赞，统计于 2026-10-29
+
+[`mixed-media`](tags.md#tag-mixed-media) [`street-portrait`](tags.md#tag-street-portrait) [`collage`](tags.md#tag-collage) [`photo-reference`](tags.md#tag-photo-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photorealistic mixed media collage street portrait sketch [OF A PERSON WITH A PHOTO]. Use the uploaded photo as an exact reference for the personality. Fully preserve the face, facial features, skin texture, proportions, hairstyle, and recognizability. Medium close-up, slight low angle, looking straight into the camera, soft smile with closed mouth. Clothing: loose white oversize t-shirt, tucked into light blue wide-leg high-waisted jeans, minimalist gold hoop earrings, concise modern style. Background: modern sunny street of a metropolis with futuristic glass buildings, stylish coffee shops, designer boutiques, wide sidewalks, urban greenery, modern architecture, reflections in glass facades, and a rich blue sky. Atmosphere of a warm summer day, lively, airy, and inspiring mood. Strong manual processing in mixed media style: bold drawn contour lines in bright pink and aquamarine colors, emphasizing the silhouette, abstract brush strokes, free marker swirls, semi-transparent torn paper fragments, handwritten strokes, dynamic scribbles, and graphic cutouts. Composition is energetic, yet neat and balanced. Light scanning texture, poster grain, delicate chromatic aberration, slightly frayed collage edges, feeling of a premium printed art poster. The character remains maximally realistic and sharp, while mixed media elements look hand-applied. Mood: modern, stylish, youthful, premium, bright, trendy, and scroll-stopping.
+```
+
+</details>
+
+<a id="nano-banana-double-exposure-ink-collage-portrait"></a>
+### 双重曝光拼贴，墨迹与花瓣背景中的女性
+
+<a href="https://x.com/AiwithKinza/status/2064584772685344981"><img src="../../previews/nano-banana-double-exposure-ink-collage-portrait.jpg" width="360"></a>
+
+左侧为侧脸特写，右侧为全身靠墙构图，同一人物在一个画面中出现两次形成拼贴效果。提示词将服饰、配饰和背景层次分条描述，并要求保持上传照片中的面部，使两个画面的人物保持一致。
+
+Nano Banana 2 · 上传图改图 · 出处: [@AiwithKinza on X](https://x.com/AiwithKinza/status/2064584772685344981) · 72 赞，统计于 2026-10-29
+
+[`double-exposure`](tags.md#tag-double-exposure) [`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait) [`ink-splash`](tags.md#tag-ink-splash)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a double exposure and collage-style digital art piece featuring an hourglass curvy, full huge bust, stylish woman. On the left, a close-up cinematic portrait of her face in profile, wearing round black sunglasses, elegant earrings, and a delicate necklace, with her messy dark hair blowing in the wind. On the right, a full-body shot of the same Woman leaning against a white textured wall, wearing a black graphic, extremely tight fitting t-shirt with extra  deep scoop neck, with blue under sleeves, white high-waisted pants, and white sneakers, holding her sunglasses. The background is an artistic blend of black watercolor ink splashes, golden bokeh light streaks, flying birds, and scattered red flower petals under a soft twilight sky. High resolution, 8k, photorealistic, cinematic lighting. Maintain the same face as the uploaded photo. Aspect ratio 4:5
+```
+
+</details>
+
+<a id="nano-banana-mountaineer-four-panel-film-strip"></a>
+### 登山者攀登的四格电影分镜竖图
+
+<a href="https://x.com/mon010_de/status/2061623347520459259"><img src="../../previews/nano-banana-mountaineer-four-panel-film-strip.jpg" width="360"></a>
+
+编号分格依次写明每格的景别、主体细节和光线，使单条提示词即可生成连贯的分镜序列。结尾的镜头焦段与画幅比例设定电影感和竖长版式。
+
+Nano Banana 2 · 文生图 · 出处: [@mon010_de on X](https://x.com/mon010_de/status/2061623347520459259) · 70 赞，统计于 2026-10-29
+
+[`mountaineer`](tags.md#tag-mountaineer) [`storyboard`](tags.md#tag-storyboard) [`film-strip`](tags.md#tag-film-strip) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generated with Nano Banana 2 on Gemini
+Here are a few ways to structure the image generation prompt based on the cinematic sequence in **image.png**. Because it's a 4-panel narrative grid, you can either generate it as a continuous storyboard/film-strip style in a single prompt or break it down by individual shots for precise control.
+### Option 1: The Multi-Panel Film Strip Prompt
+Use this approach if your image generator supports multi-angle stitching or grid layouts in a single pass.
+```text
+A 4-panel cinematic film strip storyboard tracking a mountaineer's ascent.
+Panel 1 (Top): Wide shot, a lone male mountaineer in an orange jacket standing on a ridge, looking out at a massive, sharp snow-covered peak during a golden hour sunrise.
+Panel 2 (Second): Close-up portrait of the man with curly dark hair, a beard, and striking blue eyes. Frost on his jacket, visible breath in the cold air, rugged realism, highly detailed skin texture.
+Panel 3 (Third): Low-angle macro tracking shot focusing on his mountain boots with crampons crunching through deep snow, stepping upward, hiking pole visible.
+Panel 4 (Bottom): Wide shot from behind, the mountaineer standing triumphantly at the summit peak with arms outstretched, facing a brilliant sunset over an endless sea of mountains.
+Cinematic lighting, 8k resolution, photorealistic, sharp focus, shot on 35mm lens --ar 1:2
+
+```
+### Option 2: Individual Panel Prompts (Recommended for Best Quality)
+To get the absolute highest level of detail and identity consistency across your shots, it's usually best to generate them individually and stitch them together later.
+ * **Panel 1 (The Scale/Establishing Shot):**
+   > A wide cinematic establishing shot of a lone male mountaineer wearing a heavy backpack, standing on a rocky ledge looking towards a towering, sharp snow-capped mountain peak. Dramatic golden hour sunrise lighting, clouds below the ridge, photorealistic, 8k.
+   >
+ * **Panel 2 (The Character Close-Up):**
+   > An intimate close-up portrait of a rugged mountaineer in a winter jacket. He has curly dark hair, a short beard, and vivid blue eyes looking into the camera. Visible condensation and puff of cold breath from his mouth, frost on his collar. Blurry snowy mountain background, cinematic depth of field, photorealistic.
+   >
+ * **Panel 3 (The Action/Detail Shot):**
+   > A low-angle, extreme close-up shot of a climber's boots with orange crampons treading through thick, icy snow. A hiking pole is planted in the snow beside them. Sharp focus on the texture of the snow and gear, dynamic angle, bright alpine daylight.
+   >
+ * **Panel 4 (The Triumph/Finale):**
+   > A silhouette style, wide shot from behind a mountaineer standing at the absolute peak of a snowy mountain summit. He has his arms outstretched in a V-shape celebration. Facing a magnificent orange and gold sunset stretching across a vast mountain range. Epic scale, cinematic composition.
+   >
+Let me know if you want to tweak the style parameters or focus on a specific aspect of the scene!
+```
+
+</details>
+
+<a id="nano-banana-nine-color-satin-beauty-grid"></a>
+### 同一女子九种缎面与宝石配色造型
+
+<a href="https://x.com/astronomerozge1/status/2050990785135308805"><img src="../../previews/nano-banana-nine-color-satin-beauty-grid.jpg" width="360"></a>
+
+通过严格的参考图身份锁定，每格只改变服装、发型、背景和项链；固定的镜头参数与统一构图让九格看起来出自同一次拍摄。
+
+Nano Banana 2 · 上传图改图 · 出处: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2050990785135308805) · 67 赞，统计于 2026-10-29
+
+[`beauty`](tags.md#tag-beauty) [`identity-lock`](tags.md#tag-identity-lock) [`color-grid`](tags.md#tag-color-grid) [`jewelry`](tags.md#tag-jewelry)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "generation_request": {
+    "meta_data": {
+      "task_type": "3x3_multicolor_luxury_beauty_editorial",
+      "style": "ultra_photoreal_real_skin_high_fashion_campaign",
+      "version": "v9.0_9_DIFFERENT_COLOR_LOOKS"
+    },
+    "input": {
+      "mode": "image_to_image",
+      "reference_image_usage": "maximum",
+      "preserve_identity": "strict_lock",
+      "notes": "Keep the exact same woman in all 9 panels with strict identity consistency. Preserve the same face, bone structure, skin tone family, proportions, natural asymmetry, and editorial realism. Only change the color styling, outfit, hair look, and necklace design per panel."
+    },
+    "output_settings": {
+      "aspect_ratio": "1:1",
+      "layout": "3x3 grid",
+      "num_panels": 9,
+      "resolution": "4K+ ultra high",
+      "no_text": true
+    },
+    "global_scene": {
+      "environment": "minimal realistic luxury beauty studio, clean seamless background, soft editorial setup, no props, no distractions",
+      "lighting": "realistic softbox beauty lighting with gentle falloff, soft shadow shaping, subtle highlight on cheekbones, collarbones, and satin texture, no harsh flash, no artificial glow",
+      "mood": "luxury, elegant, realistic, minimal, high-end editorial"
+    },
+    "global_subject": {
+      "skin": "realistic skin texture with visible pores, subtle unevenness, fine facial hair, natural blush, controlled dewy glow, no plastic smoothing",
+      "makeup": "luxury beauty editorial makeup adapted to each panel color theme, always tasteful and refined",
+      "pose_language": "elegant beauty portrait poses, relaxed shoulders, calm confident expression, consistent upper-body framing"
+    },
+    "panels": {
+      "1": {
+        "theme": "deep ruby red",
+        "background": "muted ruby red",
+        "outfit": "deep ruby red satin halter top with realistic folds and soft sheen",
+        "hair": "dark hair in a slicked-back updo with one loose face-framing strand, subtle wet editorial finish",
+        "necklace": "luxury ruby-red gemstone necklace inspired by cherries and red berries, refined gold metalwork",
+        "makeup": "soft red eyeshadow, warm nude glossy lips",
+        "pose": "front-facing close portrait, calm direct gaze"
+      },
+      "2": {
+        "theme": "emerald green",
+        "background": "soft emerald green",
+        "outfit": "rich emerald satin halter top",
+        "hair": "sleek low bun with soft polished texture and loose strand",
+        "necklace": "emerald and diamond luxury necklace inspired by leaves and green olives",
+        "makeup": "soft green eyeshadow, neutral glossy lips",
+        "pose": "three-quarter portrait, hand lightly touching collarbone"
+      },
+      "3": {
+        "theme": "sapphire blue",
+        "background": "muted sapphire blue",
+        "outfit": "deep sapphire satin halter top",
+        "hair": "sleek twisted updo, elegant and clean",
+        "necklace": "sapphire and crystal statement necklace with luxury couture finish",
+        "makeup": "soft blue-toned editorial eyeshadow, glossy nude lips",
+        "pose": "slight chin lift, direct gaze"
+      },
+      "4": {
+        "theme": "amethyst purple",
+        "background": "soft muted lavender-purple",
+        "outfit": "amethyst satin halter top",
+        "hair": "soft glossy updo with a slightly romantic loose strand",
+        "necklace": "amethyst gemstone necklace with delicate violet crystal drops",
+        "makeup": "soft plum-lilac eyeshadow, neutral lips",
+        "pose": "head tilted subtly left, relaxed lips"
+      },
+      "5": {
+        "theme": "golden champagne",
+        "background": "warm champagne beige",
+        "outfit": "golden champagne satin halter top with luminous sheen",
+        "hair": "sleek sculpted bun, polished luxury finish",
+        "necklace": "gold and champagne-stone necklace, elegant and expensive",
+        "makeup": "soft golden shimmer on eyes, peachy nude glossy lips",
+        "pose": "center hero frame, front-facing Vogue beauty portrait"
+      },
+      "6": {
+        "theme": "blush pink",
+        "background": "muted blush pink",
+        "outfit": "blush pink satin halter top",
+        "hair": "sleek soft updo with feminine editorial softness",
+        "necklace": "rose quartz and pink gemstone luxury necklace with delicate sparkle",
+        "makeup": "soft rosy eyeshadow, glossy pink-nude lips",
+        "pose": "soft side gaze, shoulders angled"
+      },
+      "7": {
+        "theme": "silver ice",
+        "background": "soft cool silver-grey",
+        "outfit": "liquid silver satin halter top",
+        "hair": "clean slick-back bun with cool-toned shine",
+        "necklace": "silver and diamond necklace with icy crystal details",
+        "makeup": "cool silver-grey eyeshadow, glossy nude lips",
+        "pose": "closer crop focused on eyes and lips"
+      },
+      "8": {
+        "theme": "black onyx",
+        "background": "deep charcoal / soft black studio backdrop",
+        "outfit": "black satin halter top with rich reflective texture",
+        "hair": "sleek dramatic updo, glossy and sculptural",
+        "necklace": "black onyx and diamond statement necklace, elegant and bold",
+        "makeup": "soft smoky eyes, glossy nude lips",
+        "pose": "gentle downward chin angle, calm expression"
+      },
+      "9": {
+        "theme": "pearl white",
+        "background": "soft warm ivory",
+        "outfit": "pearl-white satin halter top with subtle sheen",
+        "hair": "clean refined updo with soft luminous texture",
+        "necklace": "pearl, diamond, and white gemstone luxury necklace with couture refinement",
+        "makeup": "soft ivory-champagne eye look, glossy nude lips",
+        "pose": "slight over-the-shoulder angle, elegant minimal finish"
+      }
+    },
+    "camera": {
+      "camera_type": "Sony A1",
+      "lens": "85mm f/1.4 portrait lens",
+      "aperture": "f/2.2",
+      "framing": "tight upper-body beauty portraits, consistent 3x3 grid composition",
+      "depth_of_field": "shallow but realistic, soft background separation",
+      "focus": "sharp on eyes, skin texture, lips, necklace details, and satin fabric"
+    },
+    "rendering": {
+      "quality": "ultra high resolution photorealistic editorial",
+      "details": "real skin pores, natural asymmetry, fine hair strands, realistic satin texture, realistic jewelry reflections, true-to-life light falloff",
+      "color_grade": "each panel follows its own luxury monochrome palette while preserving realistic skin tones",
+      "effects": "no artificial glow, no waxy skin, no CGI finish, subtle editorial sharpness"
+    },
+    "realism_rules": {
+      "identity": "same exact woman in all 9 panels",
+      "skin": "natural real skin texture preserved",
+      "hair": "different styling mood per panel allowed, but identity remains unchanged",
+      "jewelry": "all necklaces must look like real high-end luxury jewelry, not costume jewelry",
+      "fabric": "all outfits must have realistic satin folds, natural tension, and premium sheen"
+    },
+    "negative_prompt": "no identity change, no face drift, no different woman, no plastic skin, no over-smoothing, no waxy skin, no unrealistic symmetry, no doll face, no harsh shadows, no distorted hands, no extra fingers, no warped anatomy, no AI artifacts, no text, no watermark, no logo, no cheap jewelry, no cartoon look, no fabric glitches, no blurry face, no oversharpening"
+  }
+}
+```
+
+</details>
+
+<a id="nano-banana-black-gold-three-pose-fashion-collage"></a>
+### 黑金海报中同一男子的三种姿态
+
+<a href="https://x.com/DilshadAI1/status/2075045041287168048"><img src="../../previews/nano-banana-black-gold-three-pose-fashion-collage.jpg" width="360"></a>
+
+为每个画面分别指定姿态、服装和光线，同时以参考照片锁定同一张脸作为身份依据。固定的黑白金配色加上轮廓光，让三个构图看起来像同一本杂志封面。
+
+Nano Banana 2 · 上传图改图 · 出处: [@DilshadAI1 on X](https://x.com/DilshadAI1/status/2075045041287168048) · 66 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`collage`](tags.md#tag-collage) [`poster`](tags.md#tag-poster) [`reference-face`](tags.md#tag-reference-face)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GPT Image 2 | Nano Banana 2 | Grok | Gemini Prompt 👇
+
+Using uploaded face 100% realistic.
+Create a high-end cinematic fashion poster collage featuring the same young South Asian man from the reference photo, keeping his face highly accurate, natural, and consistent across all portraits. Vertical 9:16 composition, luxury black-and-gold editorial style.
+
+Create three versions of the same man:
+
+1. Left side: a large dramatic close-up side-profile portrait wearing stylish black rectangular sunglasses, looking toward the right. Neatly styled thick black hair, trimmed beard and mustache, confident expression.
+
+2. Right side: a large close-up front-facing portrait without sunglasses, looking directly at the camera with a subtle confident smile. One hand resting near the chin, showing a premium black wristwatch.
+
+3. Center foreground: full-body walking pose on a glowing wooden pathway, walking confidently toward the camera. He is wearing a luxury black tuxedo blazer with satin lapels, black turtleneck shirt, black fitted trousers, black formal shoes, black sunglasses, and a stylish wristwatch. One hand in trouser pocket and the other hand adjusting the blazer.
+
+Background: white and light gray studio backdrop with dramatic black ink splashes, paint brush strokes, smoky textures, white paint splatters, golden glowing light behind the center figure, cinematic rim light, luxury magazine cover style. Add subtle golden sparks and a glowing pathway perspective at the bottom.
+
+Ultra-realistic face, realistic skin texture, sharp hairstyle, professional DSLR photography, high contrast, black, white and gold color palette, dramatic lighting, fashion editorial poster, 8K, HDR, highly detailed, no text, no logo, no watermark.
 ```
 
 </details>

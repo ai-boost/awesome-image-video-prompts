@@ -1,0 +1,28 @@
+id: nano-banana-beach-portrait-ice-cream-cone
+title:
+  en: Smiling woman with ice cream by beach huts
+  zh: 微笑女孩手持冰淇淋站在海滩小屋旁
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- beach
+- golden-hour
+- lifestyle
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2080972261335748910
+  credit: Sarah
+  likes: 166
+  captured: '2026-10-29'
+  posted: '2026-07-25'
+notes:
+  en: The prompt is organised in fixed order (subject, clothing, background, lighting, camera), so each area is described once and stays consistent. The 85mm f/1.8 lens spec and the named golden hour light direction control the shallow depth of field and the soft warm highlights on the face and sunglasses.
+  zh: 提示词按主体、服装、背景、光线、镜头的固定顺序分段描述，每个部分只说一次，画面因此保持一致。85mm f/1.8 镜头参数和指定的黄金时段光线方向，控制了浅景深以及面部和墨镜上柔和的暖色高光。
+prompt: |
+  A photorealistic, ultra-high-resolution lifestyle portrait of a smiling young woman standing beside a white wooden railing on a colorful beach promenade lined with vibrant pastel beach huts. She has long medium-brown hair styled into a single side braid draped over her right shoulder. She is wearing round black sunglasses with a thin gold metal frame, small silver stud earrings, and several stacked silver bracelets on her left wrist.
+  She is holding a vanilla-and-strawberry ice cream cone in her left hand near her face while looking slightly to her left, smiling broadly with visible white teeth and natural dimples. Her right hand is casually tucked into the pocket of her high-waisted white tailored shorts featuring belt loops, a visible black button, and crisp structured fabric.
+  She wears a fitted short-sleeve knit T-shirt with horizontal stripes in soft cream, pale yellow, light blue, and muted gray. The shirt has a fine ribbed texture and fits naturally without wrinkles.
+  The background features a row of colorful beach cabins painted in bright blue, turquoise, yellow, and orange, receding into the distance with strong perspective. A white wooden fence runs diagonally through the foreground, creating depth. The background is softly blurred with a creamy bokeh effect while the subject remains razor-sharp.
+  Golden-hour natural sunlight illuminates her face from the front-left, producing soft shadows, realistic skin texture, vibrant colors, and gentle highlights on the sunglasses and jewelry. Shot with an 85mm portrait lens at f/1.8, shallow depth of field, eye-level composition, vertical framing (9:16), DSLR-quality photography, HDR, ultra-detailed skin, natural proportions, realistic hands with five fingers, clean fingernails, highly detailed clothing fabric, cinematic color grading, no text, no watermark, no logo.

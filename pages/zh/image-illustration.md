@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 93 条
+[返回目录](../../README_zh.md) · 全部 101 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -84,6 +84,41 @@ Nano Banana 2.1 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/Chi
 Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.
 
 Use a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.
+```
+
+</details>
+
+<a id="nano-banana-pencil-sword-knight-dragon-doodle"></a>
+### 铅笔剑骑士对战墨线巨龙
+
+<a href="https://x.com/ShamsAmin56/status/2061872273041276940"><img src="../../previews/nano-banana-pencil-sword-knight-dragon-doodle.jpg" width="360"></a>
+
+固定的白色棚拍背景和 9:16 竖版比例让合成画面干净利落，方括号占位则让同一种双关结构可以替换成其他物件。要求像纸上快速速写、少量阴影，能让手绘人物与真实物体自然衔接。
+
+Nano Banana 2 · 文生图 · 出处: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2061872273041276940) · 330 赞，统计于 2026-10-29
+
+[`composite`](tags.md#tag-composite) [`pencil`](tags.md#tag-pencil) [`doodle`](tags.md#tag-doodle) [`fantasy`](tags.md#tag-fantasy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Creative composite photograph, 9:16 vertical aspect ratio, clean minimalist white background, studio lighting, high detail, sharp focus.
+
+A real-life [EVERYDAY OBJECT] is physically placed and perfectly integrated as a key part of a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading, like a quick sketch on paper.
+
+The [OBJECT] represents [CLEVER PART OF THE SCENE - e.g. hair, weapon, body part, clothing, etc.], cleverly completing the visual pun or concept. The cartoon character interacts dynamically with the object in a humorous, meaningful, or surprising way.
+
+Photorealistic object + bold black line drawing style, perfect seamless blend between real object and illustration, clean negative space, artistic and witty concept, high quality product photography mixed with doodle art.
+
+• How to edit super easy
+
+Just replace the placeholders:
+
+[EVERYDAY OBJECT] → what real thing you'll use (tomato,
+onion, chips, etc.)
+
+[CLEVER PART OF THE SCENE] → what the object becomes in the drawing
+Then customize the character and concept
 ```
 
 </details>
@@ -526,6 +561,39 @@ Contemporary mixed-media urban painting of [HUMAN], wearing [CLOTHING], [POSE] b
 
 </details>
 
+<a id="gpt-image-mediterranean-harbor-rowboats-impasto"></a>
+### 阳光下停泊小船的地中海港湾
+
+<a href="https://x.com/churvikv/status/2086029084472009068"><img src="../../previews/gpt-image-mediterranean-harbor-rowboats-impasto.jpg" width="360"></a>
+
+用明确的对角线构图，并逐一描述每艘小船的颜色和角度，让模型清楚地安排画面。把冷色海水与暖色陆地并置，并指定厚重的堆叠笔触，使画面呈现油画质感。
+
+GPT Image 2 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2086029084472009068) · 158 赞，统计于 2026-10-29
+
+[`impasto`](tags.md#tag-impasto) [`oil-painting`](tags.md#tag-oil-painting) [`seascape`](tags.md#tag-seascape) [`mediterranean`](tags.md#tag-mediterranean)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+An exquisite impressionistic oil painting of a Mediterranean coastal harbor scene, rendered in a heavy impasto technique with thick, visible palette-knife brushstrokes creating a tactile, three-dimensional surface. The composition uses a strong diagonal: a rocky shoreline and a line of small moored wooden rowboats lead the eye from the upper right down toward the lower left.
+
+The foreground and left half of the canvas are dominated by the sea, painted in horizontal choppy strokes of deep navy, cerulean, turquoise, and pale blue, suggesting gentle movement and reflected light sparkling across the water surface. The brushwork on the water is loose and directional, with each wavelet a separate confident stroke.
+
+A line of five or six small wooden rowboats is moored diagonally from the shore into the water, angled toward the viewer. The boats are painted in varying shades of white, cream, and dark navy-blue, showing their curved hulls and interior bench seats. The brushwork on the boats is loose, capturing the play of light and shadow on their rounded forms.
+
+To the right and center rises a rocky, elevated coastline painted in warm earthy tones — ochre, burnt orange, terracotta, and warm brown — contrasting strongly with the cool blues of the water. Several trees with rounded bushy canopies are scattered along the cliffside in shades of olive and forest green. A tall, slender cypress-like tree stands prominently near the center of the shoreline.
+
+Two Mediterranean-style buildings sit on the shore: a smaller white structure nestled among the trees on the left, and a larger, more prominent building on the right with a terracotta-tiled roof and light-colored sunlit walls.
+
+The upper portion features a bright, airy sky composed of broad sweeping strokes of pale blue, white, and hints of soft warm yellow, suggesting a clear sunny Mediterranean day with light wispy clouds. The lighting is bright and consistent, with warm sunlight bathing the shoreline and buildings while the water reflects the cool sky.
+
+The color palette pairs cool blues and turquoise of the sea against warm ochre, terracotta, and olive of the land. Blending impressionism with realism, the mood is peaceful, sunlit, and atmospheric. The background sky is a soft blurred wash of light. Heavy impasto, thick paint ridges catching natural light, no text.
+
+text, watermark, logo, signature, photograph, 3d render, anime, cartoon, chibi, flat illustration, smooth blending, photorealistic, watercolor wash, neon, fluorescent, night scene, sunset, storm, large modern ship, yacht, sailboat with sails up, people, faces, cars, city skyline, snow, forest interior, mountains, river, lake, dark moody, black sky, single boat only
+```
+
+</details>
+
 <a id="gpt-image-lighthouse-halftone-screen-print-night"></a>
 ### 1970年代网点丝网印刷风格的彩色灯塔
 
@@ -635,6 +703,25 @@ GPT Image 2 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/stat
 
 ```text
 Impasto oil painting of a marsh at sunset, with tall reeds and cattails dominating the left foreground, a calm reflective pond in the lower half, a low glowing sun near the horizon, and three dark birds flying across the upper sky. Vertical composition with a scenic wide view, layered landscape depth, and strong foreground framing; the birds are silhouetted in mid-flight and the distant tree line forms a dark band across the middle ground. Warm golden-orange, peach, and pink sunset tones blend into pale blue-gray clouds, contrasted by deep green vegetation and cool blue water reflections; thick palette-knife texture, visible brushstrokes, and glossy paint ridges throughout create a vivid, expressive fine-art look.
+```
+
+</details>
+
+<a id="nano-banana-cornflower-meadow-sailboat-path"></a>
+### 矢车菊田埂通向薄雾中的帆船
+
+<a href="https://x.com/churvikv/status/2088517844535287875"><img src="../../previews/nano-banana-cornflower-meadow-sailboat-path.jpg" width="360"></a>
+
+给出植物学名并固定宽角、略俯视的视角，让画面结构更稳定。明确要求可见的彩铅笔触，使输出保持手绘质感，而不是油画感。
+
+Nano Banana 2 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2088517844535287875) · 144 赞，统计于 2026-10-29
+
+[`colored-pencil`](tags.md#tag-colored-pencil) [`landscape`](tags.md#tag-landscape) [`sailboat`](tags.md#tag-sailboat) [`sunset`](tags.md#tag-sunset)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A vibrant colored-pencil illustration in portrait orientation. A vast field of vivid blue cornflowers (Centaurea cyanus) blanketing the foreground, among tall golden-yellow grass, with stems and buds interspersed. A narrow winding dirt path meanders through the flowers toward the distance. A soft layer of morning mist and light haze drifts gently over the field and the far shore, softening the horizon. Beyond the field, a serene ocean stretches to the horizon, where a single sailboat drifts gently on the still water. The water reflects the warm glow of the sky. The sky fills the upper third and is colored from deep dusky blue at the top down to warm shades of orange, gold, and pale yellow near the low sun, with soft wispy backlit clouds. The perspective is wide and slightly elevated, showcasing the detailed cornflowers, the misty meadow, and the expansive calm seascape with the distant sailboat. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful, dreamy, and nostalgic, with warm golden tones contrasting against the cool electric blue of the flowers.
 ```
 
 </details>
@@ -872,6 +959,45 @@ GPT Image 2.5 · 文生图 · 出处: [@Just_Anika_Here on X](https://x.com/Just
 
 </details>
 
+<a id="nano-banana-dream-guardian-clock-temple"></a>
+### 头戴兜帽的守护者手持水晶球立于钟表神殿中
+
+<a href="https://x.com/kellyyjjones/status/2078341912684376573"><img src="../../previews/nano-banana-dream-guardian-clock-temple.jpg" width="360"></a>
+
+先写清主体的服饰和具体道具（水晶球），让人物居中，再用环境描述铺满画面。ARRI Alexa 65、体积雾等摄影与渲染词营造电影感，并明确规定除守护者外不出现其他人物，使画面保持空旷。
+
+Nano Banana 2 · 文生图 · 出处: [@kellyyjjones on X](https://x.com/kellyyjjones/status/2078341912684376573) · 96 赞，统计于 2026-10-29
+
+[`fantasy`](tags.md#tag-fantasy) [`cinematic`](tags.md#tag-cinematic) [`concept-art`](tags.md#tag-concept-art) [`crystal`](tags.md#tag-crystal)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cinematic fantasy concept art of a colossal hidden sanctuary floating high above an endless sea of glowing clouds at sunrise, suspended between heaven and the cosmos where time itself is born. At the center stands the mysterious Time Weaver, wearing an elegant flowing ancient robe woven with glowing golden clock constellations, peacefully holding a transparent crystal sphere containing miniature galaxies, forgotten memories, unborn civilizations, and infinite future timelines. Gigantic floating golden rings engraved with celestial runes surround him, bending light and space. Massive ancient mechanical trees with bronze and crystal branches grow from floating islands, their glowing clock-shaped leaves drifting upward. Majestic waterfalls of liquid light flow upward into the sky, transforming into sparkling nebulae. Millions of glowing hourglass particles, golden stardust, floating runes, ethereal birds of light, and colossal celestial whales glide through the clouds. The entire kingdom stretches endlessly across the heavens with breathtaking white stone temples, shimmering crystal architecture, and golden bridges. Volumetric god rays, soft cinematic fog, HDR lighting, physically accurate reflections, ultra-detailed textures, epic composition, shallow depth of field, fantasy realism, ARRI Alexa 65, Unreal Engine 5, IMAX quality, 8K masterpiece, original fantasy universe, no text, no logo, no watermark.
+Ultra-realistic cinematic fantasy concept art of a hidden underground temple where forgotten dreams are preserved forever. In the center stands the mysterious Dream Guardian wearing a long flowing obsidian cloak embroidered with glowing golden ancient symbols, holding a transparent crystal orb filled with thousands of tiny floating dreams, miniature worlds, forgotten memories, and colorful emotions. Gigantic ancient clocks are carved into the towering stone walls, glowing blue rivers of magical energy flow beneath a transparent crystal floor, hundreds of floating glass spheres preserve lost moments of humanity, and an enormous celestial clock hangs from the cavern ceiling connecting the past, present, and future. Dark mystical atmosphere mixed with warm golden volumetric light, cinematic fog, realistic stone textures, floating dust particles, breathtaking composition, shallow depth of field, HDR, Hollywood fantasy, ARRI Alexa 65, Unreal Engine 5 realism, IMAX quality, 8K masterpiece, original fantasy universe, no people except the guardian, no text, no logo, no watermark.
+```
+
+</details>
+
+<a id="nano-banana-samurai-ink-wash-bamboo-forest"></a>
+### 水墨竹林中的武士
+
+<a href="https://x.com/Ozayrr_irl/status/2053170166708740330"><img src="../../previews/nano-banana-samurai-ink-wash-bamboo-forest.jpg" width="360"></a>
+
+点明水墨媒介、书法与朱红印章即可确立传统画风，明暗对比与旧纸质感增加戏剧张力。侧面构图与竹林框景使人物在雾色山峦前保持视觉中心。
+
+Nano Banana 2 · 文生图 · 出处: [@Ozayrr_irl on X](https://x.com/Ozayrr_irl/status/2053170166708740330) · 94 赞，统计于 2026-10-29
+
+[`sumi-e`](tags.md#tag-sumi-e) [`ink-wash`](tags.md#tag-ink-wash) [`samurai`](tags.md#tag-samurai) [`bamboo`](tags.md#tag-bamboo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"A cinematic, high-resolution sumi-e ink wash painting of a rugged samurai with a topknot, seen from a side profile, standing amidst a dense bamboo forest with misty mountains in the background. The style features traditional Japanese calligraphy and red seal stamps, utilizing dramatic chiaroscuro lighting and textured, aged paper aesthetics."
+```
+
+</details>
+
 <a id="gpt-image-jacaranda-storybook-woman-looking-up"></a>
 ### 仰望蓝花楹花海的女子绘本插画
 
@@ -1023,6 +1149,92 @@ Lighting and background: Dramatic cinematic lighting, deep shadows, warm reddish
 Quality: Ultra-detailed 4K illustration, full-body composition, anatomically accurate proportions, realistic fabric textures, detailed sneaker designs, sharp focus, professional character design, sophisticated color palette, clean outlines, and visually striking composition.
 Aspect ratio: 3:4 vertical portrait.
 Negative prompt: Blurry image, low resolution, distorted anatomy, extra fingers, missing limbs, deformed hands, asymmetrical eyes, unnatural poses, poorly drawn shoes, floating objects, incorrect proportions, excessive gloss, oversaturated colors, text, watermarks, logos with distorted lettering, and duplicate body parts.
+```
+
+</details>
+
+<a id="gpt-image-seaside-woman-pomeranian-sketch-walk"></a>
+### 女子牵着博美走过粉彩海边小屋
+
+<a href="https://x.com/heyfatema/status/2068307623238336659"><img src="../../previews/gpt-image-seaside-woman-pomeranian-sketch-walk.jpg" width="360"></a>
+
+先定下速写动漫风格与粗细变化的线条，再给出四种指定颜色，画面就能保持统一。直接写出糖果粉、水蓝等颜色名，外套、海水和奶油色小狗会落在同一套配色里。
+
+GPT Image 2 · 文生图 · 出处: [@heyfatema on X](https://x.com/heyfatema/status/2068307623238336659) · 70 赞，统计于 2026-10-29
+
+[`sketch`](tags.md#tag-sketch) [`anime`](tags.md#tag-anime) [`pomeranian`](tags.md#tag-pomeranian) [`seaside`](tags.md#tag-seaside)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Lighthearted sketch-style anime aesthetic, a woman walking along the seaside with a fluffy Pomeranian, seaside background with pastel-colored beach houses and a vast blue sky, rough and dynamic freeform shapes, hand-drawn style line art with varying line weights, light and refreshing atmosphere, translucent bright color palette, using pure white, aqua blue, candy pink, and lemon cream for coloring
+```
+
+</details>
+
+<a id="nano-banana-lavender-embroidery-profile-woman"></a>
+### 刺绣薰衣草纺织风景中的侧影女子
+
+<a href="https://x.com/AiWithTariq/status/2068663135909888388"><img src="../../previews/nano-banana-lavender-embroidery-profile-woman.jpg" width="360"></a>
+
+明确列出刺绣、蕾丝、毛毡和贴布等材质，并要求可见针脚，使模型从绘画转向真实的织物质感。侧面、闭眼的人物姿态配合竖版构图，让人物在繁密的田园背景中依然清晰。
+
+Nano Banana 2 · 文生图 · 出处: [@AiWithTariq on X](https://x.com/AiWithTariq/status/2068663135909888388) · 70 赞，统计于 2026-10-29
+
+[`textile`](tags.md#tag-textile) [`embroidery`](tags.md#tag-embroidery) [`fantasy`](tags.md#tag-fantasy) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Gpt Image 2 | Nano banana 2 | Grok | Gemini Prompt 👇
+
+Create an enchanting ultra-detailed textile fantasy artwork that looks entirely handcrafted from luxurious fabrics, embroidery, lace, wool, silk, felt, and needlework. A graceful young woman in profile stands in a dreamy countryside landscape. She wears a flowing lavender dress adorned with delicate embroidered flowers and butterflies, layered with intricate ivory lace.
+
+**Style:**
+luxury textile art, fabric collage masterpiece, embroidery illustration, needle-felted fantasy art, handcrafted couture artwork, mixed textile media, fairy-tale elegance, romantic folk art.
+
+**Composition:**
+vertical portrait composition, elegant woman in side profile with eyes closed, surrounded by blooming wildflowers, rolling hills, flowering trees, tiny countryside cottages, soft clouds, and delicate birds.
+
+**Materials & Texture:**
+every element created from fabric, embroidery threads, lace, felt, wool, stitched appliqué, crochet details, hand-sewn textures, layered textiles, visible stitching, dimensional handcrafted appearance.
+
+**Color Palette:**
+lavender, lilac, blush pink, soft sage green, ivory cream, warm beige, pastel violet, muted gold accents.
+
+**Environment:**
+dreamlike spring countryside, flowering meadows, blooming trees, patchwork hills, whimsical village, birds resting among flowers, magical pastoral scenery.
+
+**Lighting:**
+soft diffused daylight, gentle glow, dreamy atmosphere, delicate highlights on fabric textures.
+
+**Mood:**
+peaceful, romantic, feminine, magical, nostalgic, fairytale-like, poetic and serene.
+
+**Details:**
+flawless delicate face, luxurious lace patterns, embroidered butterflies, textured flowers, handcrafted birds, richly detailed textile landscape, premium artisanal craftsmanship.
+
+**Quality:**
+masterpiece, museum-quality textile artwork, ultra-detailed embroidery illustration, luxury handcrafted design, extraordinary texture depth, highly intricate needlework, 8k resolution, no text, no watermark, no frame.
+```
+
+</details>
+
+<a id="gpt-image-seaside-sketchbook-daisy-pinafore-tree"></a>
+### 秋日海边树下写生的女孩
+
+<a href="https://x.com/heyfatema/status/2068586089414369391"><img src="../../previews/gpt-image-seaside-sketchbook-daisy-pinafore-tree.jpg" width="360"></a>
+
+提示词把服装清单、坐姿和背景元素逐项列明，使每个细节都固定下来。点名螺旋速写本、钢笔线条和水彩晕染，引导模型输出手绘动漫质感而非光滑渲染。
+
+GPT Image 2 · 文生图 · 出处: [@heyfatema on X](https://x.com/heyfatema/status/2068586089414369391) · 61 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`sketch`](tags.md#tag-sketch) [`seaside`](tags.md#tag-seaside) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Lighthearted sketch-style anime aesthetic, A serene, anime-inspired illustration of a young woman sitting against a tree by the seaside, full-body seated view at eye level, slightly turned three-quarter pose, looking down as she draws in a spiral sketchbook with a black pen. Soft pastel color palette with clean line art and gentle watercolor shading, warm, soft directional sunlight casting subtle, long shadows. She wears a lavender long-sleeve blouse under a green pinafore dress patterned with small white daisies, a white underskirt with larger daisy prints peeking out, white ankle socks and brown loafers. Long dark hair, natural expression, light blush on cheeks. Large tree trunk with textured bark and golden autumn leaves drifting in a light breeze; a few leaves scattered on the pavement. Background: calm blue ocean with gentle waves, pale sandy beach, distant horizon and soft fluffy clouds, a quiet two-lane coastal road beside the beach. Foreground includes a woven straw tote bag with colorful horizontal stripes placed on the curb. Emphasize peaceful, nostalgic mood, delicate details (fabric folds, leaf veins, bark texture, woven bag weave, pen and paper strokes), cinematic composition, high-resolution, soft grain, subtle rim light and natural ambient occlusion.
 ```
 
 </details>

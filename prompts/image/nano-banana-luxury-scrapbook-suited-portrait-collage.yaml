@@ -1,0 +1,65 @@
+id: nano-banana-luxury-scrapbook-suited-portrait-collage
+title:
+  en: Luxury scrapbook collage with three suited portraits
+  zh: 奢华拼贴手账，三张黑西装人像
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- scrapbook
+- collage
+- fashion
+- portrait
+- face-reference
+source:
+  name: '@Professor_134 on X'
+  url: https://x.com/Professor_134/status/2078141463066808345
+  credit: Professor
+  likes: 74
+  captured: '2026-10-29'
+  posted: '2026-07-17'
+notes:
+  en: A reference-face instruction with explicit identity locks keeps the same face across three separate photos. The layout spec for torn edges, tape, handwritten notes and a clipped label gives the scrapbook look a clear structure.
+  zh: 用参考人脸图加上明确的身份锁定指令，让三张不同照片中的面部保持一致。版面规格对撕边纸、胶带、手写字和回形针标签逐项说明，使拼贴手账的质感结构清晰可控。
+prompt: |
+  Image generated with nano banana 2
+
+                  Promt:- Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows, eyes, nose, lips, beard, skin tone, ears, facial proportions, and every unique facial feature. Do not beautify, stylize, age, de-age, feminize, or replace my identity. Maintain perfect facial consistency across every frame.
+
+  Create a luxury cinematic scrapbook editorial collage with three overlapping vintage Polaroid-style photographs arranged asymmetrically on a warm beige textured paper background. The collage should feature realistic torn paper edges, masking tape in the corners, subtle folds, handwritten notes, paper grain, soft shadows, and layered depth, resembling a premium luxury fashion mood board.
+
+  Frame 1 (Upper Left): A medium portrait of me standing against elegant European stone architecture. I am wearing a perfectly tailored black suit with an open-collar black shirt, matte black wayfarer sunglasses, and a luxury black metal wristwatch. Both hands are casually in my pockets while I lean slightly against a stone wall, looking confidently to the left with a calm, mysterious expression.
+
+  Frame 2 (Center Right – Hero Shot): An ultra-close-up cinematic portrait focused mainly on my face. My right hand gently rests beneath my chin in a thoughtful pose. Sunglasses remain on with subtle reflections. Capture razor-sharp skin texture, beard details, lips, and facial features. Background should dissolve into luxurious creamy bokeh with warm golden-hour lighting.
+
+  Frame 3 (Bottom Left): A full-body editorial portrait of me sitting casually on old stone steps outside a luxury building. My elbows rest naturally on my knees while I look sideways with a relaxed, confident expression. My black suit fits perfectly, with realistic fabric folds and premium tailoring.
+
+  The overall mood should feel like an expensive luxury fashion campaign with muted warm tones, cinematic depth, and elegant storytelling.
+
+  Add realistic scrapbook design elements including:
+  •Torn paper borders around every photograph
+  •Vintage masking tape holding the photos
+  •Handwritten notes reading:
+  •Discipline
+  •Focus
+  •Freedom
+  •Small elegant quote:
+  “Style is a way to say who you are without having to speak.”
+  •Bottom-right editorial text:
+  RULE NO.1
+  Never be the same as everyone else.
+  •A small black label with
+  @Professor_134
+   attached using a silver paper clip.
+
+  Background: Warm textured kraft paper with subtle stains, paper fibers, folds, vintage imperfections, soft lighting, and realistic shadows beneath every photograph.
+
+  Color Palette: Warm beige, mocha brown, matte black, cream, muted gold, subtle sepia, cinematic bronze highlights.
+
+  Lighting: Soft golden-hour sunlight, premium editorial lighting, cinematic shadows, realistic skin texture, luxurious color grading.
+
+  Style: Saint Laurent campaign, Tom Ford editorial, Vogue Men, GQ magazine, luxury fashion advertising, cinematic portrait photography, premium scrapbook aesthetic, ultra-realistic, Hasselblad X2D medium format, Leica SL3, 85mm portrait lens, f/1.4, HDR, 8K, hyper-detailed, award-winning editorial photography, luxury lifestyle campaign.
+
+  Negative Prompt
+
+  cartoon, anime, CGI, illustration, plastic skin, inaccurate face, different identity, smiling, open mouth, exaggerated jawline, bad anatomy, extra fingers, duplicate limbs, deformed hands, poor lighting, blurry, low resolution, watermark, logo, text errors, cropped face, oversaturated colors, artificial shadows, noisy image, unrealistic hair, distorted proportions, low detail, overprocessed skin, fake sunglasses, unrealistic watch, messy composition.

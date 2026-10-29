@@ -1,0 +1,24 @@
+id: gpt-image-sunlit-roadside-selfie-blue-sunglasses
+title:
+  en: Sunlit roadside selfie with blue sunglasses and gold earrings
+  zh: 阳光下路边自拍，蓝色墨镜与金色耳环
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- face-lock
+- street-fashion
+- selfie
+- portrait
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2063952729689735634
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 124
+  captured: '2026-10-29'
+  posted: '2026-06-08'
+notes:
+  en: Opens with a face lock instruction that names the reference photo and lists the features to keep, then pins pose, crop and lighting with plain camera specs. The negative prompt blocks anime, CGI and plastic skin drift.
+  zh: 开头用人脸锁定指令，指明参考照片并列出需要保留的五官特征，再用明确的镜头和光线参数固定姿势、构图与光线。负面提示词排除动漫、CGI 和塑料皮肤等失真风格。
+prompt: |
+  Edit the provided image using my uploaded face photo as the only facial identity reference with strict face-lock preservation (99–100% similarity). Keep the exact same eyes, eyebrows, eyelids, nose, lips, jawline, cheekbones, forehead, skin tone, ethnicity, age appearance, facial proportions, and natural skin texture with zero identity drift or beautification. Create an ultra-photorealistic DSLR luxury street-fashion portrait of a 23-year-old woman with a subtle teasing smirk, direct eye contact, glossy Korean-Douyin makeup, visible pores, realistic skin texture, messy high bun with loose wind-blown strands, oversized pastel-blue sunglasses, large textured gold earrings, gold bracelet, rings, decorative manicure, and an oversized designer silk shirt in light blue, ivory, and caramel monogram tones. Match the reference pose exactly: close-up selfie, one hand raised above the forehead blocking sunlight, head slightly tilted, centered vertical composition, tight upper-body crop. Outdoor urban roadside setting with blue sky, clouds, parked buses, distant vehicles, and bright afternoon sunlight creating natural shadows and glossy highlights. Professional DSLR 50mm RAW photography, HDR, ultra-sharp facial detail, realistic hair strands, fabric texture, jewelry reflections, modern Korean fashion editorial color grading, vibrant outdoor tones, luxury campaign quality, 8K realism. Negative prompt: anime, manga, cartoon, illustration, CGI, 3D render, plastic skin, beauty filters, face redesign, identity blending, hijab, flowers, gardens, forests, indoor studio, bob haircut, long curls, blurred face, oversmoothed skin, deformed hands, extra fingers, watermark, logo, text, low quality. --ar 3:4 --style raw --quality high

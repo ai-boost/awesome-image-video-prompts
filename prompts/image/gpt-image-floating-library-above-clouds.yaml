@@ -1,0 +1,24 @@
+id: gpt-image-floating-library-above-clouds
+title:
+  en: Floating library above clouds with drifting books
+  zh: 云海之上漂浮的图书馆与飘动的书籍
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- fantasy
+- library
+- golden-hour
+- cinematic
+source:
+  name: '@JuliaClarky on X'
+  url: https://x.com/JuliaClarky/status/2078149885413801993
+  credit: Julia Clark
+  likes: 140
+  captured: '2026-10-29'
+  posted: '2026-07-17'
+notes:
+  en: Concrete structure (floating islands joined by wooden bridges and glass walkways) and a single light source (golden hour, volumetric lighting) give the model spatial logic to follow. The negative prompt guards against duplicated books and warped perspective, the usual failure points in dense shelf scenes.
+  zh: 用具体结构（由木桥和玻璃走道相连的漂浮岛屿）和单一光源（黄金时刻、体积光）为模型提供空间逻辑。负面提示词排除重复书籍和透视变形，这是密集书架场景最常见的出错点。
+prompt: |
+  Inside the same ultra-realistic floating library above the clouds, surrounded by endless white clouds glowing in the golden evening light. Thousands of magical books drift gently through the air while people quietly browse the bookshelves in the background. In the foreground, a beautiful young woman wearing a flowing light-blue chiffon dress sits comfortably on a cozy reading sofa beside a large floor-to-ceiling library window overlooking the clouds. She is reading Pride and Prejudice aloud from an elegant hardcover edition with a soft smile. Sitting beside her is a young man, completely captivated—not by the book, but by her. He looks at her with genuine affection, admiration, and warmth, smiling softly as she reads. Their body language is natural, intimate, and peaceful, conveying quiet love without exaggeration. Nearby, a small wooden table holds tea and bookmarks, while glowing pages and golden particles drift gently around them. The library is filled with books of every genre, creating a magical yet believable atmosphere. Ultra-realistic human expressions, cinematic storytelling, HDR, 8K, masterpiece, DSLR photography, volumetric lighting, natural color grading, National Geographic realism, fantasy blended with realism, dreamy, cozy, and emotionally rich. Negative Prompt: Low quality, blurry, cartoon, anime, CGI, painting, watermark, text, logo, deformed faces, bad anatomy, extra fingers, duplicate people, unrealistic expressions, empty bookshelves, oversaturated colors, artifacts, cropped, out of frame, low resolution.

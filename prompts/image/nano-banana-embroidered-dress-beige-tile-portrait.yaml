@@ -1,0 +1,24 @@
+id: nano-banana-embroidered-dress-beige-tile-portrait
+title:
+  en: Smiling woman in embroidered dress before beige tiles
+  zh: 微笑女性身穿刺绣长裙立于米色瓷砖墙前
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- photorealistic
+- fashion
+- natural-light
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2060664884035981663
+  credit: Hania Ai
+  likes: 82
+  captured: '2026-10-29'
+  posted: '2026-05-30'
+notes:
+  en: Stacking a precise subject description with lighting, lens and grading cues such as soft daylight, shallow depth of field and warm colour grading produces a convincing photoreal portrait. Naming the outfit colours and the beige tiled wall keeps the palette and background consistent with the scene.
+  zh: 用精确的主体描述叠加光线、景深和调色提示，例如柔和日光、浅景深和暖色调，能生成可信的写实人像。明确写出服装配色与米色瓷砖墙，可以让色彩和背景与画面保持一致。
+prompt: |
+  A beautiful young woman with fair skin and long, silky dark-brown hair cascading over her shoulders, standing in front of a modern beige tiled wall. She wears a stylish black embroidered ethnic dress featuring vibrant red and orange floral patterns. Soft natural daylight illuminates her face, creating a warm, glowing complexion with subtle makeup and a gentle smile. Ultra-realistic portrait photography, shallow depth of field, soft cinematic lighting, high-detail skin texture, elegant and graceful expression, warm color grading, aesthetic social media reel style, 4K quality, DSLR photography, natural beauty, dreamy atmosphere, highly detailed, photorealistic.

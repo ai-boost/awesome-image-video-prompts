@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 59 entries
+[Back to the list](../../README.md) · All 63 entries
 
 <a id="gpt-image-dance-pose-sheet-4x4-character"></a>
 ### Sixteen panel dance pose sheet of anime girl
@@ -211,6 +211,27 @@ COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and 
 AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
 
 Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+</details>
+
+<a id="gpt-image-caricature-companion-holding-hands"></a>
+### Realistic man holding hands with his 3D caricature
+
+<a href="https://x.com/frametheory058/status/2065384202376556927"><img src="../../previews/gpt-image-caricature-companion-holding-hands.jpg" width="360"></a>
+
+The prompt keeps the real subject photorealistic and asks for a stylized copy with the same outfit, hairstyle and attitude, so the two read as one person. Naming concrete interactions like holding hands and setting the caricature at shoulder to ear height stops it from becoming a side mascot.
+
+GPT Image 2 · Edit · Source: [@frametheory058 on X](https://x.com/frametheory058/status/2065384202376556927) · 372 likes on 2026-10-29
+
+[`3d-caricature`](tags.md#tag-3d-caricature) [`pixar-style`](tags.md#tag-pixar-style) [`photo-composite`](tags.md#tag-photo-composite) [`companion`](tags.md#tag-companion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium high-quality 3D caricature companion of the person in the reference image while keeping the original realistic person fully present and untouched. The realistic person must remain photorealistic, highly detailed and faithful to the original photo. Create a stylized 3D caricature version of the SAME person standing beside them. Preserve the same: outfit, hairstyle, accessories, fashion styling, identity, facial resemblance, attitude and vibe.The caricature must have: large expressive eyes, slightly oversized head, smooth cinematic skin, Pixar/Disney-inspired premium 3D styling, smaller body proportions, but still look fashionable and recognizable, NOT childish, toy-like or baby-sized.IMPORTANT: The caricature height should be approximately shoulder to ear level of the real person, never tiny or child-sized. The caricature and real person must be physically and emotionally interacting naturally. Examples of interaction: holding hands, looking at each other, walking together,
+
+sharing an object, leaning, playful pose, touching shoulder, mirroring pose, reacting to each other, casual chemistry, candid companionship. The caricature should feel like a living animated version of the same person existing in the same world. Preserve original scene, lighting and perspective whenever possible. Professional photography composition,  cinematic lighting, realistic shadows, luxury editorial realism mixed with premium stylized 3D animation. No tiny companion, no side mascot, no disconnected pose, no separate standing character, no toy proportions, no plastic doll look, no replacing the original person.
 ```
 
 </details>
@@ -771,6 +792,25 @@ You can use Nano Banana 2 via
 
 </details>
 
+<a id="gpt-image-explorer-boy-mascot-compass-3d"></a>
+### 3D explorer boy mascot holding a compass
+
+<a href="https://x.com/ZephyraLeigh/status/2063953406797213742"><img src="../../previews/gpt-image-explorer-boy-mascot-compass-3d.jpg" width="360"></a>
+
+A reusable template with blank slots for subject, action and palette, so one brief yields a consistent family of 3D mascots. Naming material, studio lighting and a minimal background pins the look to a clean CGI render.
+
+GPT Image 2 · Text-to-image · Source: [@ZephyraLeigh on X](https://x.com/ZephyraLeigh/status/2063953406797213742) · 110 likes on 2026-10-29
+
+[`mascot`](tags.md#tag-mascot) [`3d-render`](tags.md#tag-3d-render) [`explorer`](tags.md#tag-explorer) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cute stylized 3D [SUBJECT] mascot, original character design, rounded body proportions, expressive face, [DOING ACTION] pose, smooth matte material, colorful contemporary animation aesthetic, vibrant [COLOR1], [COLOR2], and [COLOR3] palette, studio lighting, high-detail CGI render, minimalist background.
+```
+
+</details>
+
 <a id="nano-banana-isometric-pixel-art-rogue-dual-daggers"></a>
 ### Isometric Pixel Art Rogue With Two Daggers
 
@@ -799,6 +839,25 @@ gpt-image-2 loves to leave out the background for character work, you don't even
 Nano banana is actually better at pixel grid adherence. It keeps the grid clean at high resolutions. gpt-image-2 can make a mess at higher resoutions.
 
 prompt: "pixel art; a rogue game character facing south east. isometric view. solid background. cape and two daggars, one in each hand."
+```
+
+</details>
+
+<a id="nano-banana-pixar-boy-sunglasses-black-background"></a>
+### Pixar style seated boy with sunglasses and coffee
+
+<a href="https://x.com/auqibhabib/status/2045326450795094091"><img src="../../previews/nano-banana-pixar-boy-sunglasses-black-background.jpg" width="360"></a>
+
+The prompt fixes the subject on a pure black field and assigns each prop to a specific hand, so the layout and colours stay locked to the brief. The explicit negative space instruction keeps the figure centred with room above.
+
+Nano Banana 2 · Text-to-image · Source: [@auqibhabib on X](https://x.com/auqibhabib/status/2045326450795094091) · 95 likes on 2026-10-29
+
+[`pixar-style`](tags.md#tag-pixar-style) [`3d-render`](tags.md#tag-3d-render) [`character`](tags.md#tag-character) [`negative-space`](tags.md#tag-negative-space)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A detailed 3D Pixar-style digital illustration of a cool young boy with voluminous, wavy white hair and dark sunglasses. He is sitting on a small wooden chair in a relaxed, cross-legged pose against a stark black background. He is wearing a simple light gray t-shirt, dark teal or green trousers, and chunky white sneakers. His right hand holds a lit cigarette, and his left hand holds a white Starbucks coffee cup with the full green mermaid logo facing forward. The lighting is soft and stylized, casting clean highlights on his hair and clothes. The perspective is centered on the character, with ample negative space above and around him.
 ```
 
 </details>
@@ -966,6 +1025,46 @@ The light streaks interact subtly with the environment:
 • a few glowing particles floating through the spotlight beam
 The energy trail should feel fast, sharp, and directional, reinforcing the sense that the character is sprinting at extreme speed.
 ar 3:2
+```
+
+</details>
+
+<a id="gpt-image-good-morning-chibi-scene"></a>
+### Chibi woman sitting on pastel GOOD MORNING letters
+
+<a href="https://x.com/codewithhajra/status/2083130474075918811"><img src="../../previews/gpt-image-good-morning-chibi-scene.jpg" width="360"></a>
+
+An identity lock block that repeats facial features, outfit and proportions keeps one face across the main figure and eight mini versions. Each mini character gets its own activity clause, while the giant letters act as the fixed central structure of the scene.
+
+GPT Image 2 · Edit · Source: [@codewithhajra on X](https://x.com/codewithhajra/status/2083130474075918811) · 83 likes on 2026-10-29
+
+[`chibi`](tags.md#tag-chibi) [`pixar-style`](tags.md#tag-pixar-style) [`greeting-card`](tags.md#tag-greeting-card) [`identity-lock`](tags.md#tag-identity-lock)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the uploaded person into a heartwarming Pixar-inspired 3D chibi scene while preserving the exact facial identity, facial structure, hairstyle, skin tone, expression, outfit, colors, and recognizable appearance from the reference image.
+
+FORMAT LOCK
+Vertical 3:4 composition. Clean white seamless studio background. Bright centered composition. Premium greeting-card aesthetic. The giant text remains the central structure of the scene.
+
+IDENTITY LOCK
+Preserve the exact facial features, hairstyle, skin tone, body proportions, outfit, shoes, and overall identity from the uploaded image. Do not redesign the face or change the clothing.
+
+MAIN CHARACTER
+Create a premium Pixar-style 3D chibi version of the uploaded person sitting comfortably on top of giant pastel 3D letters spelling "GOOD MORNING." The character should have a warm smile and relaxed pose while holding a ceramic coffee mug. The mug should remain simple with no visible text or logo.
+
+MINI CHARACTERS
+Surround the main character with multiple adorable miniature versions of the same person, each performing a different cheerful morning activity: pouring coffee, holding an encouraging sign, enjoying a coffee, reading a book, watering a small plant, hugging a pink heart, serving a cupcake, and raising a motivational chalkboard. Every mini character must preserve the same recognizable facial identity in a playful Pixar-style design.
+
+DECORATION
+Include cute coffee cups, latte art, tiny plants, tulips, a small orange kitten, wooden signs with positive messages, soft hearts, subtle doodles, and cozy decorative elements. Keep the scene balanced, clean, and uncluttered.
+
+LIGHTING & STYLE
+Soft natural studio lighting. Warm pastel color palette. Premium Pixar-inspired 3D character design. Expressive faces. High-quality textures. Cozy morning atmosphere. Minimal yet vibrant composition. Luxury animated-film aesthetic. Ultra-detailed 8K rendering.
+
+NEGATIVE PROMPT
+Avoid low quality, blurry details, distorted face, changed identity, altered outfit, extra limbs, duplicate main character, bad anatomy, plastic textures, cluttered composition, dark lighting, harsh shadows, logos, watermarks, text artifacts, or unrealistic 3D rendering.
 ```
 
 </details>

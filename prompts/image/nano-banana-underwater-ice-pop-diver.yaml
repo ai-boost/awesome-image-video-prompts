@@ -1,0 +1,24 @@
+id: nano-banana-underwater-ice-pop-diver
+title:
+  en: Hand holding ice pop with a diver inside
+  zh: 手持内含水下潜水员的冰棒
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- surreal
+- first-person
+- ice-pop
+- product-photography
+source:
+  name: '@mr_farman_ai on X'
+  url: https://x.com/mr_farman_ai/status/2070002523919028394
+  credit: Mr Farman Ai
+  likes: 266
+  captured: '2026-10-29'
+  posted: '2026-06-25'
+notes:
+  en: Eye level first person framing keeps the hand and popsicle in sharp focus against a blurred street. Naming the material, such as a transparent blue shell and melted edges, plus a product photography style makes the glass-like refraction read as real.
+  zh: 第一人称平视构图让手和冰棒清晰对焦，街道虚化作背景。描述透明蓝色外壳、融化边缘等材质，并指定高端产品摄影风格，使冰块的折射质感更真实。
+prompt: |
+  First-person perspective, one hand holding a surreal ice cream bar with a transparent blue shell revealing an underwater scene inside, featuring a small diver, a few small fish, floating bubbles, and churning waves. A green ice stick runs through the center. The ice bar is slightly melted, with a wooden stick at the bottom, which the hand is holding. The background is a blurred New York cityscape street, captured in a high-end product photography style.

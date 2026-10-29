@@ -1,0 +1,52 @@
+id: gpt-image-matcha-splash-iced-drink
+title:
+  en: Matcha iced drink splash with model in cafe
+  zh: 抹茶冰饮飞溅特写，身后站着模特
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- beverage
+- advertisement
+- forced perspective
+- splash
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2074109215652659439
+  credit: H A J R A
+  likes: 89
+  captured: '2026-10-29'
+  posted: '2026-07-06'
+notes:
+  en: The prompt puts the drink in the extreme foreground with forced perspective and places the model slightly behind, so the product dominates while the person stays readable. A frozen splash with a fixed list of floating garnishes gives the hero moment one clear focal point.
+  zh: 提示词把饮品放在极近的前景并使用透视夸张，人物略靠后，让产品占据主视觉的同时人物依然清晰可辨。冻结的飞溅动态加上固定的悬浮配料清单，让画面形成唯一的焦点。
+prompt: |
+  Ultra-realistic luxury beverage advertisement, cinematic commercial photography, vertical 9:16.
+
+  A stylish, elegant, fashion-forward [woman] stands confidently in the background, looking directly at the camera with a calm luxury editorial expression. Wearing a modern minimalist outfit perfectly matching the color palette and mood of the drink. One hand casually in pocket while the other arm extends naturally toward the camera, holding an oversized crystal-clear cup that dominates the foreground using dramatic forced perspective.
+
+  The beverage is the undisputed hero of the image. Hyper-realistic liquid explosion frozen in time bursting upward from the cup with dynamic splash physics. Floating premium ingredients explode naturally around the splash, including [Iced Frape], realistic garnish, crystal-clear ice cubes, tiny droplets, sparkling particles, and subtle atmospheric elements matching the drink. Every ingredient appears suspended mid-air with cinematic precision.
+
+  The drink features beautiful swirling layers, realistic condensation, water droplets, glossy reflections, transparent cup, premium texture, and ultra-detailed ingredients. Splash shape feels energetic yet elegant, creating a luxury advertising aesthetic.
+
+  Background perfectly matches the beverage theme:
+  [LOCATION OR ENVIRONMENT]
+  Luxury café, modern city street, cherry blossom avenue, tropical garden, rooftop lounge, European street, luxury hotel, futuristic café, beach resort, forest retreat, neon nightlife, or premium indoor setting.
+
+  Lighting:
+  Soft cinematic sunlight or premium golden hour lighting, natural volumetric rays, realistic reflections, HDR dynamic range, global illumination, ray tracing, subtle rim light, realistic shadows.
+
+  Composition:
+  Extreme foreground drink occupying 60–70% of the frame, model positioned slightly behind for depth, shallow depth of field, creamy bokeh, perfect subject separation, centered composition, commercial framing, luxury branding aesthetic.
+
+  Style:
+  Luxury beverage campaign, Vogue editorial meets premium food photography, ultra-clean composition, hyper-realistic textures, frozen action, cinematic color grading, premium advertising quality.
+
+  Camera:
+  Full-frame mirrorless camera, 35mm lens, f/2.2, ultra-high resolution, HDR, razor-sharp focus on the drink, realistic skin texture, natural proportions, physically accurate lighting, no distortion.
+
+  Quality:
+  Photorealistic, 8K, masterpiece, commercial product photography, luxury lifestyle campaign, award-winning advertising, extremely detailed, vibrant yet realistic.
+
+  Negative prompt:
+  low quality, blurry, plastic skin, deformed hands, extra fingers, duplicate ingredients, melted ice, warped cup, incorrect reflections, oversaturated colors, flat lighting, text, watermark, logo, cropped drink, bad anatomy, CGI look, artificial textures, noise, artifacts

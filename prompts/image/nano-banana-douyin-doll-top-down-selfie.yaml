@@ -1,0 +1,24 @@
+id: nano-banana-douyin-doll-top-down-selfie
+title:
+  en: Top-down selfie of woman in doll makeup
+  zh: 俯拍自拍，娃娃妆女生躺在床上
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- douyin-makeup
+- selfie
+- top-down
+- portrait
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2078461655726592211
+  credit: Simply Ray
+  likes: 91
+  captured: '2026-10-29'
+  posted: '2026-07-18'
+notes:
+  en: Naming a style and then listing concrete details such as garment, lens colour, lash type and blush placement turns a vague beauty request into a checklist the model can follow. A direct line asking to keep the original face anchors identity in an edit.
+  zh: 先点名风格，再用具体细节把妆容和服装拆成清单，如衣服款式、美瞳颜色、假睫毛类型和腮红位置，模型更容易还原。开头和结尾都要求保持原脸，并给出俯拍、柔光等构图和光线指令。
+prompt: |
+  Don't change her face original—100% authentic with perfect facial symmetry. She should have a youthful, feminine appearance. Create a captivating, intimate top-down portrait selfie inspired by the popular Douyin makeup aesthetic, featuring a young woman lying comfortably on her back in a relaxed pose that radiates femininity and grace. The image is captured directly from above in a slightly tilted bird's-eye perspective, creating a spontaneous, alluring composition focused entirely on her captivating facial features and her direct gaze into the camera. She looks at the lens with wide, sharp eyes and a calm, relaxed expression without an open smile, giving the portrait a mysterious, dramatic, and confident mood. Her makeup follows the signature Douyin doll style with enchanting gray or light-blue colored contact lenses, long, thick, wispy manga-style false lashes, highlighted aegyo-sal to make the eyes appear larger and more alluring, and perfectly brushed, precisely defined eyebrows. Intense pink blush is generously applied beneath the eyes, across the cheeks, and over the tip of the nose to create a soft, flushed complexion, while a delicate beauty mark is clearly visible on the right side of her nose tip. Her lips are full, well-defined, and finished in a matte berry-pink shade that enhances their soft, attractive shape. She wears a fitted, short-sleeved ribbed Henley-style top in light gray with a wide open neckline and small front buttons. Her thick, dark chocolate-brown hair falls naturally in a loose, messy style across the pillow surrounding her head and forehead, emphasizing the relaxed atmosphere. She is lying on a cozy bed or sofa with a soft white or cream-colored pillow featuring an embossed textured pattern behind her head. Soft, diffused indoor lighting evenly illuminates her face, highlighting her velvety skin texture and intricate makeup details without harsh shadows, creating an intimate, cozy mood. Preserve her original facial features exactly without any alteration. Ultra-realistic, HD image quality, 9:16 aspect ratio.

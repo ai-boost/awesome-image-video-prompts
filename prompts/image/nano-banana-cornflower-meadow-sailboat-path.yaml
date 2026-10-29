@@ -1,0 +1,24 @@
+id: nano-banana-cornflower-meadow-sailboat-path
+title:
+  en: Cornflower meadow path to a misty sailboat
+  zh: 矢车菊田埂通向薄雾中的帆船
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- colored-pencil
+- landscape
+- sailboat
+- sunset
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2088517844535287875
+  credit: Viki
+  likes: 144
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+notes:
+  en: Naming the flower by its botanical name and fixing a wide, slightly elevated viewpoint gives the scene a stable structure. Calling for visible colored pencil texture keeps the output looking drawn rather than painted.
+  zh: 给出植物学名并固定宽角、略俯视的视角，让画面结构更稳定。明确要求可见的彩铅笔触，使输出保持手绘质感，而不是油画感。
+prompt: |
+  A vibrant colored-pencil illustration in portrait orientation. A vast field of vivid blue cornflowers (Centaurea cyanus) blanketing the foreground, among tall golden-yellow grass, with stems and buds interspersed. A narrow winding dirt path meanders through the flowers toward the distance. A soft layer of morning mist and light haze drifts gently over the field and the far shore, softening the horizon. Beyond the field, a serene ocean stretches to the horizon, where a single sailboat drifts gently on the still water. The water reflects the warm glow of the sky. The sky fills the upper third and is colored from deep dusky blue at the top down to warm shades of orange, gold, and pale yellow near the low sun, with soft wispy backlit clouds. The perspective is wide and slightly elevated, showcasing the detailed cornflowers, the misty meadow, and the expansive calm seascape with the distant sailboat. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful, dreamy, and nostalgic, with warm golden tones contrasting against the cool electric blue of the flowers.

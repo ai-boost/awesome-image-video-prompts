@@ -1,0 +1,24 @@
+id: gpt-image-folk-art-sage-blouse-room
+title:
+  en: Woman in sage blouse among storybook plants and rug
+  zh: 鼠尾草绿上衣女子与民俗风室内陈设
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- folk-art
+- storybook
+- doodle
+- photo-transform
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2052990299073630400
+  credit: Johnn
+  likes: 436
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+notes:
+  en: 'The prompt fixes the medium to markers and paint pens on clean white paper, then gives concrete rules: flat forms, soft irregular outlines and textured fills. Naming the physical surface and tools gives the model one handmade style to apply across the whole scene.'
+  zh: 提示词将媒介固定为白纸上的马克笔和颜料笔，并给出扁平造型、柔和不规则描边和笔触填色等具体规则。点明实物载体和工具，让模型在整个画面中保持同一种手绘风格。
+prompt: |
+  Reimagine the full image as a whimsical handcrafted folk-art illustration filled with playful doodle aesthetics. Replace the original colors with a fresh, vibrant palette featuring bold contrasting tones and cheerful accents. Convert every object and detail into simplified flat forms with soft irregular outlines, textured brush-like fills, and an intentionally imperfect handmade appearance, as if sketched and colored on clean white paper with markers and paint pens. The final artwork should feel charming, naïve, and storybook-inspired, combining decorative folk patterns, quirky shapes, and lighthearted visual energy in a cute, imaginative style.

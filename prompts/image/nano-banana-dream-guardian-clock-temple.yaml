@@ -1,0 +1,25 @@
+id: nano-banana-dream-guardian-clock-temple
+title:
+  en: Hooded guardian with crystal orb in clock temple
+  zh: 头戴兜帽的守护者手持水晶球立于钟表神殿中
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- fantasy
+- cinematic
+- concept-art
+- crystal
+source:
+  name: '@kellyyjjones on X'
+  url: https://x.com/kellyyjjones/status/2078341912684376573
+  credit: Kelly Jones
+  likes: 96
+  captured: '2026-10-29'
+  posted: '2026-07-18'
+notes:
+  en: Anchoring the subject first, with costume and a specific prop, keeps the figure central while the environment fills the rest of the frame. Camera and render cues such as ARRI Alexa 65, volumetric fog and an explicit rule of no people except the guardian keep the scene cinematic and free of extra figures.
+  zh: 先写清主体的服饰和具体道具（水晶球），让人物居中，再用环境描述铺满画面。ARRI Alexa 65、体积雾等摄影与渲染词营造电影感，并明确规定除守护者外不出现其他人物，使画面保持空旷。
+prompt: |
+  Ultra-realistic cinematic fantasy concept art of a colossal hidden sanctuary floating high above an endless sea of glowing clouds at sunrise, suspended between heaven and the cosmos where time itself is born. At the center stands the mysterious Time Weaver, wearing an elegant flowing ancient robe woven with glowing golden clock constellations, peacefully holding a transparent crystal sphere containing miniature galaxies, forgotten memories, unborn civilizations, and infinite future timelines. Gigantic floating golden rings engraved with celestial runes surround him, bending light and space. Massive ancient mechanical trees with bronze and crystal branches grow from floating islands, their glowing clock-shaped leaves drifting upward. Majestic waterfalls of liquid light flow upward into the sky, transforming into sparkling nebulae. Millions of glowing hourglass particles, golden stardust, floating runes, ethereal birds of light, and colossal celestial whales glide through the clouds. The entire kingdom stretches endlessly across the heavens with breathtaking white stone temples, shimmering crystal architecture, and golden bridges. Volumetric god rays, soft cinematic fog, HDR lighting, physically accurate reflections, ultra-detailed textures, epic composition, shallow depth of field, fantasy realism, ARRI Alexa 65, Unreal Engine 5, IMAX quality, 8K masterpiece, original fantasy universe, no text, no logo, no watermark.
+  Ultra-realistic cinematic fantasy concept art of a hidden underground temple where forgotten dreams are preserved forever. In the center stands the mysterious Dream Guardian wearing a long flowing obsidian cloak embroidered with glowing golden ancient symbols, holding a transparent crystal orb filled with thousands of tiny floating dreams, miniature worlds, forgotten memories, and colorful emotions. Gigantic ancient clocks are carved into the towering stone walls, glowing blue rivers of magical energy flow beneath a transparent crystal floor, hundreds of floating glass spheres preserve lost moments of humanity, and an enormous celestial clock hangs from the cavern ceiling connecting the past, present, and future. Dark mystical atmosphere mixed with warm golden volumetric light, cinematic fog, realistic stone textures, floating dust particles, breathtaking composition, shallow depth of field, HDR, Hollywood fantasy, ARRI Alexa 65, Unreal Engine 5 realism, IMAX quality, 8K masterpiece, original fantasy universe, no people except the guardian, no text, no logo, no watermark.

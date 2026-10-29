@@ -1,6 +1,6 @@
 # Photo to art
 
-[Back to the list](../../README.md) · All 90 entries
+[Back to the list](../../README.md) · All 96 entries
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Travel photo above, same scene as watercolor below
@@ -490,6 +490,25 @@ Ensure both subjects remain equally sharp and balanced.
 
 </details>
 
+<a id="gpt-image-folk-art-sage-blouse-room"></a>
+### Woman in sage blouse among storybook plants and rug
+
+<a href="https://x.com/john_my07/status/2052990299073630400"><img src="../../previews/gpt-image-folk-art-sage-blouse-room.jpg" width="360"></a>
+
+The prompt fixes the medium to markers and paint pens on clean white paper, then gives concrete rules: flat forms, soft irregular outlines and textured fills. Naming the physical surface and tools gives the model one handmade style to apply across the whole scene.
+
+GPT Image 2 · Edit · Source: [@john_my07 on X](https://x.com/john_my07/status/2052990299073630400) · 436 likes on 2026-10-29
+
+[`folk-art`](tags.md#tag-folk-art) [`storybook`](tags.md#tag-storybook) [`doodle`](tags.md#tag-doodle) [`photo-transform`](tags.md#tag-photo-transform)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Reimagine the full image as a whimsical handcrafted folk-art illustration filled with playful doodle aesthetics. Replace the original colors with a fresh, vibrant palette featuring bold contrasting tones and cheerful accents. Convert every object and detail into simplified flat forms with soft irregular outlines, textured brush-like fills, and an intentionally imperfect handmade appearance, as if sketched and colored on clean white paper with markers and paint pens. The final artwork should feel charming, naïve, and storybook-inspired, combining decorative folk patterns, quirky shapes, and lighthearted visual energy in a cute, imaginative style.
+```
+
+</details>
+
 <a id="gpt-image-photo-to-paper-illustration-split-poster"></a>
 ### Lakeside Photo Paired With Paper Illustration
 
@@ -758,6 +777,31 @@ Ultra-detailed Pixar/Disney-inspired 3D animation aesthetic. Professional CGI re
 
 </details>
 
+<a id="gpt-image-monochrome-red-rim-light-vector-portrait"></a>
+### Monochrome comic woman with red neon hair rim light
+
+<a href="https://x.com/noorlewisx/status/2064539506305561076"><img src="../../previews/gpt-image-monochrome-red-rim-light-vector-portrait.jpg" width="360"></a>
+
+Limiting the palette to black, white and one red neon rim light keeps the piece graphic while the red edge separates the hair and shoulders from the black background. Spelling out the garment layering and accessories fixes the wardrobe so the cel-shaded forms stay readable.
+
+GPT Image 2 · Edit · Source: [@noorlewisx on X](https://x.com/noorlewisx/status/2064539506305561076) · 344 likes on 2026-10-29
+
+[`monochrome`](tags.md#tag-monochrome) [`neon-rim-light`](tags.md#tag-neon-rim-light) [`comic-style`](tags.md#tag-comic-style) [`vector`](tags.md#tag-vector)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the subject into a striking high-contrast monochrome vector portrait, rendered in a premium black-and-white comic book illustration style with crisp cel-shading, bold geometric shapes, and ultra-clean vector linework. Preserve the subject's facial features, hairstyle, expression, and overall likeness with high accuracy.
+
+The subject is a stylish young woman with long flowing hair, wearing an open dark oversized shirt layered over a fitted white crew-neck T-shirt. She accessorizes with a minimalist square pendant necklace, elegant earrings, and a pair of fashionable sunglasses resting naturally on top of her head, seamlessly integrated into her hairstyle.
+
+Illuminate the portrait with intense red neon rim lighting that traces the contours of her hair, face, shoulders, and clothing, creating a dramatic glow against the monochrome artwork. The red highlights should add depth, separation, and a futuristic cinematic atmosphere without overpowering the black-and-white design.
+
+Set against a pure black background, emphasizing strong contrast and visual impact. Style the artwork with sharp vector edges, bold shadows, clean negative space, graphic-novel aesthetics, modern streetwear fashion energy, and premium poster-quality composition. Ultra-detailed yet minimalist, edgy, contemporary, visually powerful, and magazine-cover worthy. Strong confident female presence, cinematic attitude, luxury editorial feel, and flawless vector illustration quality.
+```
+
+</details>
+
 <a id="gpt-image-knitted-puppet-bust"></a>
 ### Photo to knitted designer art toy bust
 
@@ -862,6 +906,28 @@ Use a subtly warm-white seamless background, soft high-key studio lighting, gent
 **The source photograph determines WHAT is depicted. The style reference determines HOW it is depicted.**
 
 Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust with a distinctive oversized head, tiny facial features, sculptural yarn construction, contrasting textile textures, a deliberate color palette, and clean white studio lighting. Preserve the original subject’s identity and visible content without inventing anything beyond the photographic evidence.
+```
+
+</details>
+
+<a id="gpt-image-crayon-profile-page-doodles"></a>
+### Crayon child drawing of a profile page with doodles
+
+<a href="https://x.com/miratechtool/status/2050621516300026056"><img src="../../previews/gpt-image-crayon-profile-page-doodles.jpg" width="360"></a>
+
+Concrete visual cues like wobbly lines, visible crayon texture and colors spilling past the outlines set the handmade style, while a clean white paper background keeps the scene readable. Listing specific doodles such as clouds, stars and castles gives the whole picture one playful vocabulary.
+
+GPT Image 2 · Edit · Source: [@miratechtool on X](https://x.com/miratechtool/status/2050621516300026056) · 302 likes on 2026-10-29
+
+[`crayon`](tags.md#tag-crayon) [`child-drawing`](tags.md#tag-child-drawing) [`doodles`](tags.md#tag-doodles) [`profile`](tags.md#tag-profile)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the scene into a playful crayon-style illustration, like a 10-year-old’s drawing. Use wobbly lines, imperfect shapes, and visible crayon textures on a clean white paper background.
+Apply bright pastel and vibrant colors, letting them go slightly outside the lines for a natural handmade feel.
+Add small, lively doodles like smiling clouds, stars, candy, and tiny castles to create a fun, imaginative world.
+Keep it simple but expressive — warm, nostalgic, slightly messy, and full of innocent charm.
 ```
 
 </details>
@@ -1193,6 +1259,25 @@ Composition: Close-up portrait, eye-level camera perspective with a subtle upwar
 Aspect Ratio: 4:5
 
 Negative Prompt: distorted face, altered facial identity, different person, excessive makeup, plastic skin, cartoon face, anime style, 3D render, photorealistic photography, blurry sunglasses, distorted reflections, extra fingers, deformed hands, duplicate accessories, messy anatomy, harsh background, oversaturated colors, heavy outlines, artificial digital texture.
+```
+
+</details>
+
+<a id="nano-banana-notepad-sketch-rose-wine-view"></a>
+### Woman sketched on notepad with comic callouts
+
+<a href="https://x.com/Naiknelofar788/status/2040624671813697697"><img src="../../previews/nano-banana-notepad-sketch-rose-wine-view.jpg" width="360"></a>
+
+Anchoring the model to the uploaded photo with explicit pose, feature and proportion locks keeps the likeness while the notepad, colored pencil and cross-hatching define the sketchbook style. Naming each callout word and its placement lets the model put readable labels around the figure.
+
+Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2040624671813697697) · 194 likes on 2026-10-29
+
+[`sketch`](tags.md#tag-sketch) [`colored-pencil`](tags.md#tag-colored-pencil) [`notepad`](tags.md#tag-notepad) [`comic-annotation`](tags.md#tag-comic-annotation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded image as your main reference point. Keep the same pose, facial features, proportions, and composition of the person. Turn the image into a hand-drawn illustration on lined notepad paper. The character should look like a detailed drawing in colored pencil and ink with cross-hatching and shading of the sketch. Add comic book-style drawings and notes around the character, such as arrows, doodles, “WOW”, “COOL!”and design notes. Circle the character with the smooth red-yellow glow of the sketch. Keep the concentrated composition of the portrait and the proportions of the whole body as in the original photo.The style should be similar to a conceptual drawing from a designer sketchbook: playful doodles, rough lines, warm tones, high detail. concept art for a sketchbook, drawings of characters on sheets of paper, illustrations with colored pencils, a background made of paper for a notebook, design notes made by hand You can choose the aspect ratio depending on the artificial intelligence or design you are using.
 ```
 
 </details>
@@ -1561,6 +1646,25 @@ No detached lower-half illustration, no generic torn-paper template, no isolated
 
 </details>
 
+<a id="gpt-image-korean-illustration-2027-desk-calendar"></a>
+### 2027 desk calendar with twelve illustrated figures in outfits
+
+<a href="https://x.com/FutureVibesAi/status/2062824885194461244"><img src="../../previews/gpt-image-korean-illustration-2027-desk-calendar.jpg" width="360"></a>
+
+A reference photo anchors each character's features, while the style stack of pastel and ink splatter, comic sketch texture and a plain white background keeps all twelve months visually consistent. Naming the month range and A4 vertical format tells the model to lay out one calendar grid per month on a single sheet.
+
+GPT Image 2 · Edit · Source: [@FutureVibesAi on X](https://x.com/FutureVibesAi/status/2062824885194461244) · 162 likes on 2026-10-29
+
+[`calendar`](tags.md#tag-calendar) [`korean-illustration`](tags.md#tag-korean-illustration) [`doodle`](tags.md#tag-doodle) [`pastel-ink`](tags.md#tag-pastel-ink)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Please use this photo (Can put you Image in the reference) to create a desktop calendar for January-December 2027. Format: A4 vertical. Features: Korean illustration style, distinct character features, natural expressions, full-body composition, dynamic poses, exquisite clothing details, hand-drawn doodle style, splatter brushstrokes, free lines, a mix of pastels and ink, comic sketch texture, simple white background, symbolic elements around the edges, strong atmosphere, high detail, high quality.
+```
+
+</details>
+
 <a id="gpt-image-photo-to-watercolor-scrapbook-poster"></a>
 ### Photo paired with watercolor painting on cream scrapbook poster
 
@@ -1620,6 +1724,117 @@ Add minimal elegant typography: a handwritten-style title and a small simple sub
 Optional: add a few subtle hand-drawn decorative details like tiny petals, leaves, hearts, or sketch marks only if they naturally fit.
 
 Do not change identities or the scene, and do not make the lower section look like photorealism, 3D, anime, or cartoon.
+```
+
+</details>
+
+<a id="gpt-image-girl-photo-watercolor-storybook-pair"></a>
+### Girl photo paired with watercolor storybook illustration
+
+<a href="https://x.com/itxabdullaa/status/2096806123877835005"><img src="../../previews/gpt-image-girl-photo-watercolor-storybook-pair.jpg" width="360"></a>
+
+Splitting the canvas into a photo half and an illustration half lets the model keep one moment consistent across both. A ranked priority list for pose, face and clothing, followed by watercolor and colored-pencil texture terms, keeps the drawing faithful while giving it a storybook look.
+
+GPT Image 2 · Edit · Source: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2096806123877835005) · 149 likes on 2026-10-29
+
+[`watercolor`](tags.md#tag-watercolor) [`storybook`](tags.md#tag-storybook) [`photo-to-illustration`](tags.md#tag-photo-to-illustration) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a single vertical 3:4 PHOTO + HAND-DRAWN ILLUSTRATION artwork based ONLY on the uploaded photograph.
+
+Use the uploaded photograph as the ONLY visual reference. Analyze the photograph independently and reproduce the exact subject, pose, expression, clothing, hairstyle, accessories, objects, proportions, and overall moment in the illustration. Do not introduce elements from any previous image or reference.
+
+TOP — ORIGINAL PHOTOGRAPH
+
+Use approximately the upper 50% of the canvas for the original photograph.
+
+Preserve the photograph faithfully and naturally:
+- Keep the original subject exactly recognizable.
+- Preserve the face, expression, hairstyle, clothing, accessories, pose, body proportions, and visible objects.
+- Preserve the original environment and composition.
+- Do not retouch, beautify, replace, or redesign the subject.
+- Keep the photograph realistic with its original lighting, colors, textures, and details.
+
+BOTTOM — HAND-DRAWN ILLUSTRATION
+
+Use approximately the lower 50% for a charming handmade illustration of the SAME photograph.
+
+Transform the photographic moment into a delicate children's storybook-style hand-drawn artwork.
+
+Illustration style:
+- Soft watercolor and colored-pencil texture
+- Gentle pencil/ink outlines
+- Slightly imperfect handmade strokes
+- Warm, tactile off-white textured paper
+- Soft natural shading
+- Subtle watercolor washes
+- Cute, expressive, wholesome appearance
+- Delicate handcrafted imperfections
+- No glossy digital-rendered appearance
+- No photorealism
+- No 3D CGI
+- No anime or cartoon franchise style
+
+Most importantly, accurately preserve the subject from the photograph:
+- Same pose and body position
+- Same facial expression
+- Same hairstyle
+- Same clothing and clothing patterns
+- Same shoes/accessories
+- Same proportions
+- Same distinctive visual details
+- Same overall action or mood
+
+Simplify the background substantially. Do not recreate every background detail. Keep only a very subtle suggestion of the original environment, allowing the illustrated subject to remain the main focus.
+
+Place the illustrated subject slightly smaller than the photograph's subject, surrounded by generous negative space.
+
+MINIMAL DECORATIVE DETAILS
+
+Add a few tiny hand-drawn decorative marks around the illustration, such as:
+- small hearts
+- simple motion lines
+- tiny doodles
+- subtle stars or flowers
+
+Keep these decorations sparse and tasteful.
+
+Add a small handwritten caption near the illustration, such as:
+
+"little happy girl ♡"
+
+The caption should look naturally handwritten with a casual brown/gray pencil or ink texture.
+
+If the uploaded subject is not a girl, automatically adapt the wording appropriately or omit the caption entirely.
+
+OVERALL AESTHETIC
+
+The final artwork should feel like a precious memory transformed into a page from a handmade children's picture book.
+
+Composition:
+- Vertical 3:4
+- Clean separation between photograph and illustration
+- Soft warm editorial presentation
+- Large amount of negative space around the illustration
+- Minimal, elegant, sentimental
+- Premium handmade stationery / illustrated scrapbook aesthetic
+
+CRITICAL RULE:
+The uploaded photograph is the sole source of truth. Do not invent, substitute, merge, or carry over any person, clothing, object, background element, color, pose, or detail from another image.
+
+The bottom illustration must clearly look like a hand-drawn version of the EXACT moment shown in the top photograph.
+
+REFERENCE PRIORITY:
+1. Exact subject and pose
+2. Facial expression and hairstyle
+3. Clothing and accessories
+4. Overall composition
+5. Illustration style
+6. Minimal decorative elements
+
+Never sacrifice subject accuracy for artistic stylization.#Lovart #LovartPartner
 ```
 
 </details>

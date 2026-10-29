@@ -1,0 +1,31 @@
+id: gpt-image-golden-hour-park-fashion-collage
+title:
+  en: Golden hour park fashion collage with five frames
+  zh: 黄金时刻公园五格时尚拼贴写真
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- collage
+- golden-hour
+- fashion
+- portrait
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2064301990251991056
+  credit: Avelyrah
+  likes: 139
+  captured: '2026-10-29'
+  posted: '2026-06-09'
+notes:
+  en: 'The prompt fixes the collage structure in advance: one large full body frame, three stacked frames and one mirror selfie, each with a numbered pose. A fixed wardrobe list plus backlight, colour grading and skin and fabric realism terms keeps all five frames consistent and photographic.'
+  zh: 提示词预先固定拼贴结构：一张大幅全身图、三张竖向小图和一张镜面自拍，每帧都有编号的动作描述。固定的服装清单加上逆光、调色和皮肤与面料质感等写实词汇，让五张图风格统一、接近真实摄影。
+prompt: |
+  Ultra-realistic cinematic lifestyle fashion collage of a beautiful young Asian woman in a wide green park at golden hour sunset, captured as a premium 5-frame editorial photo series. Maintain the same collage layout: one large full-body walking frame, three vertical frames on the right, and one mirror-selfie frame on the lower left, separated by clean borders.
+  The woman has a delicate natural face, soft expressive eyes, long wavy hair moving gently in the breeze, elegant earrings, and a calm, dreamy expression. She wears a muted sage-olive draped blouse with rolled sleeves, high-waisted ivory wide-leg trousers, off-white minimalist sneakers, a tan leather shoulder bag, subtle gold earrings, and a slim bracelet.
+  Frame 1: walking beside a narrow canal holding a phone, relaxed candid expression.
+  Frame 2: sitting cross-legged on grass, touching her hair softly.
+  Frame 3: back-facing near the canal, looking at the sunset.
+  Frame 4: close mirror-selfie, face partially hidden by phone, warm sunlight on hair and cheek.
+  Frame 5: playful seated pose on grass, hands covering part of the face with a shy smile.
+  Environment: expansive grassy field, scattered trees, reflective canal, glowing sunset sky, distant blurred people. Warm golden backlight, cinematic color grading, realistic shadows, natural depth of field, authentic skin texture, visible pores, subtle facial asymmetry, realistic hair strands, natural fabric folds, DSLR-quality photography, Pinterest-worthy editorial aesthetic, highly photorealistic 8K. No tattoos, no beauty-filter effect, no plastic skin, no AI-looking features, authentic candid fashion photography.

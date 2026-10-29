@@ -1,0 +1,24 @@
+id: gpt-image-seaside-woman-pomeranian-sketch-walk
+title:
+  en: Woman walks Pomeranian along pastel seaside houses
+  zh: 女子牵着博美走过粉彩海边小屋
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- sketch
+- anime
+- pomeranian
+- seaside
+source:
+  name: '@heyfatema on X'
+  url: https://x.com/heyfatema/status/2068307623238336659
+  credit: Fatema
+  likes: 70
+  captured: '2026-10-29'
+  posted: '2026-06-20'
+notes:
+  en: Pairing a style line, sketch anime with varying line weights, with a named four-colour palette keeps the look consistent. Naming exact colours such as candy pink and aqua blue ties the pink jacket, the sea and the cream dog to one scheme.
+  zh: 先定下速写动漫风格与粗细变化的线条，再给出四种指定颜色，画面就能保持统一。直接写出糖果粉、水蓝等颜色名，外套、海水和奶油色小狗会落在同一套配色里。
+prompt: |
+  Lighthearted sketch-style anime aesthetic, a woman walking along the seaside with a fluffy Pomeranian, seaside background with pastel-colored beach houses and a vast blue sky, rough and dynamic freeform shapes, hand-drawn style line art with varying line weights, light and refreshing atmosphere, translucent bright color palette, using pure white, aqua blue, candy pink, and lemon cream for coloring

@@ -1,6 +1,6 @@
 # Architecture and interiors
 
-[Back to the list](../../README.md) · All 22 entries
+[Back to the list](../../README.md) · All 23 entries
 
 <a id="nano-banana-floor-plan-rising-miniature-diner"></a>
 ### Diner Rising Out of Architectural Floor Plan
@@ -708,6 +708,34 @@ Lighting mimics the natural atmosphere of [CITY], such as warm sunset light, bri
 Ultra detailed, cinematic macro photography, museum quality miniature model, extremely realistic materials.
 
 Aspect ratio 4:5
+```
+
+</details>
+
+<a id="gpt-image-terrain-adobe-cantilever-bench-cover"></a>
+### Adobe terrace with teal bench over desert canyon
+
+<a href="https://x.com/ShamsAmin56/status/2080678093425934764"><img src="../../previews/gpt-image-terrain-adobe-cantilever-bench-cover.jpg" width="360"></a>
+
+A single bracketed slot turns one editorial template into a series of architecture styles. Fixed camera cues, a lone accent piece on the left third and a vertical 9:16 frame give the result a magazine cover layout.
+
+GPT Image 2 · Text-to-image · Source: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2080678093425934764) · 68 likes on 2026-10-29
+
+[`architecture`](tags.md#tag-architecture) [`editorial`](tags.md#tag-editorial) [`photography`](tags.md#tag-photography) [`desert`](tags.md#tag-desert)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Editorial architecture photography of a [ARCHITECTURE STYLE] structure on a long cantilevered platform extending over a dramatic natural landscape, refined material details, elegant flooring, atmospheric light, shot in the style of a design-magazine cover, clean negative space, muted natural palette, vertical framing --ar 9:16
+Composition: one striking accent furniture piece as the sole furniture piece and focal point, positioned precisely at the left third intersection
+
+Just replace [ARCHITECTURE STYLE] with whatever you want, for example:
+
+Japanese Minimalist
+Mid-Century Modern
+Gothic Revival
+Brutalist
+Scandinavian
 ```
 
 </details>

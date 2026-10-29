@@ -1,0 +1,27 @@
+id: nano-banana-bearded-man-teal-armchair-tablet-portrait
+title:
+  en: Bearded man in teal armchair with tablet
+  zh: 蓝绿丝绒扶手椅中手持平板的胡须男士
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- studio-lighting
+- chiaroscuro
+- creative-professional
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2061464975408021993
+  credit: Heisenberg
+  likes: 177
+  captured: '2026-10-29'
+  posted: '2026-06-01'
+notes:
+  en: Splitting the pose into body angle and head direction, then naming the prop in each hand, gives the model a clear spatial layout. A 50mm lens, chiaroscuro side light and a plain charcoal backdrop keep the focus on the subject.
+  zh: 将身体角度与头部朝向分开描述，并明确每只手持有的道具，使模型能清楚理解空间布局。指定50mm镜头、明暗对比的侧光以及纯色炭灰背景，让画面聚焦于人物。
+prompt: |
+  Nano Banana 2 on Gemini.
+
+  Prompt: A professional, high-resolution portrait of a man with a neat beard and messy dark hair, sitting in a plush dark teal velvet armchair. He is seated at a slight three-quarter angle, body tilted toward the left while his head is turned to face the camera directly with a friendly expression. Details & Props: He is wearing a sophisticated tan or camel-colored blazer over a crisp white t-shirt. On his left wrist, a black smartwatch is visible. He is holding a sleek silver tablet in his right hand and a white stylus (Apple Pencil) in his left hand, resting them naturally on his lap. Lighting & Atmosphere: The scene features soft, cinematic side-lighting (Chiaroscuro style) that creates gentle shadows on one side of his face and body, adding depth. The background is a minimalist, solid dark charcoal grey, ensuring all focus remains on the subject. Technical Specifications: Ultra-realistic photography, 8K resolution, sharp focus on facial features, shallow depth of field, shot on a 50mm lens, professional studio lighting, clean composition, aspect ratio 4:5. Key Elements Noted: The Tilt: The "three-quarter" body position is crucial for that specific seated look. The Grip: I've specified the pen and tablet being held simultaneously to match the "creative professional" vibe.
+  The Backdrop: Keeping it "solid charcoal" avoids unwanted textures or distractions.

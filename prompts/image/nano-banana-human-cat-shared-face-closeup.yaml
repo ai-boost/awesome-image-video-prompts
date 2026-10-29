@@ -1,0 +1,26 @@
+id: nano-banana-human-cat-shared-face-closeup
+title:
+  en: Human and cat faces sharing one frame
+  zh: 人脸与猫脸共享同一画面
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- cat
+- reference-image
+- split-face
+source:
+  name: '@Ozayrr_irl on X'
+  url: https://x.com/Ozayrr_irl/status/2061332108967293372
+  credit: Ozair AI
+  likes: 126
+  captured: '2026-10-29'
+  posted: '2026-06-01'
+notes:
+  en: A reference upload anchors the identity while the framing spec, a vertical 9:20 extreme close up with one human eye and one cat eye centered on the same focal plane, forces an even split of the frame. Stating the framing and focus plane explicitly is what keeps both faces sharp and aligned.
+  zh: 上传参考图锁定人物身份，再用精确的构图描述（竖版9:20特写，人眼与猫眼居中且位于同一焦平面）让两张脸平分画面。明确写出构图与对焦平面，是保证两张脸都清晰对齐的关键。
+prompt: |
+  [Upload your reference image and write this]
+  Use the exact same face from the reference image and generate a  photorealistic colour photo, vertical 9:20, extreme close up.
+  Half of a human face and half of my pet's face pressed closely together, and sharing the same frame equally. Faces are very close to the camera, and intimate contact. Tight crop, one human eye + one cat eye centered, perfectly aligned and both in sharp focus with the same intimate framing. Frame tightly filled with face, background barely visible.

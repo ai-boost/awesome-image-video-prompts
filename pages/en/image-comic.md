@@ -1,6 +1,6 @@
 # Comics and storyboards
 
-[Back to the list](../../README.md) · All 13 entries
+[Back to the list](../../README.md) · All 15 entries
 
 <a id="nano-banana-fluffy-creatures-treehouse-story"></a>
 ### Three Fluffy Creatures Planning a Treehouse
@@ -107,6 +107,108 @@ High detail, High Quality, Photorealism Style, cinematic composition, cohesive i
 @ImagineArt_X
 
 @imagineart_creo
+```
+
+</details>
+
+<a id="nano-banana-miniature-ninja-sprinting-comic-page"></a>
+### Miniature ninja figure sprinting across a giant comic page
+
+<a href="https://x.com/edizkan_/status/2032705323077632283"><img src="../../previews/nano-banana-miniature-ninja-sprinting-comic-page.jpg" width="360"></a>
+
+Pairs a reference locked identity block with a macro toy photo setup: the prompt fixes the character design on both the figure and its printed panels, then uses a low page level camera, a 90 to 100mm lens and a shallow focus plane to sell the scale illusion.
+
+Nano Banana 2 · Edit · Source: [@edizkan_ on X](https://x.com/edizkan_/status/2032705323077632283) · 307 likes on 2026-10-29
+
+[`comic`](tags.md#tag-comic) [`macro`](tags.md#tag-macro) [`toy-photography`](tags.md#tag-toy-photography) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The moment your Beast escapes the comic panel. #AKCB
+
+Recommended generator: Nano Banana 2 (Gemini – Thinking Mode)
+
+Try it and show your results 👇
+
+A cinematic macro toy-photography scene.
+A bean-sized version of the uploaded reference character is sprinting dramatically across the surface of a giant open comic book featuring panels of the same character.
+
+Likeness Preservation (CRITICAL)
+The identity of the character must remain exactly the same as the reference in both:
+• the miniature physical character
+
+• the comic panels printed on the page
+Maintain the exact:
+• head shape
+
+• eye shape and spacing
+
+• stylization
+
+• silhouette
+
+• materials and clothing design
+If the character wears a balaclava, mask, helmet, or covered face, the comic panels must not invent facial anatomy.
+No added nose.
+
+No added mouth.
+
+No visible skin where the reference does not show it.
+The comic panels must depict the same exact design language of the character, only rendered as printed comic artwork.
+Do not humanize the character.
+
+Do not reinterpret anatomy.
+Subject & Action
+The miniature character runs across the page as if traversing its own story.
+Oversized comic panels surround the character, each showing dynamic action poses of the same character, rendered in bold comic-book style.
+
+Camera & Perspective
+Low-angle macro close-up shot, camera positioned almost at page level.
+Shot with a 90–100mm macro lens, giving the tiny character a heroic sense of scale.
+The character sits slightly off-center, leaning forward in motion.
+
+Depth of Field
+Extremely shallow depth of field.
+The running miniature character and the immediate section of the comic page are razor sharp.
+The surrounding panels and distant page edges fall into soft blur.
+
+Lighting
+Sharp cinematic directional light from the top left, casting dramatic shadows across the comic page and creating small glints on the glossy print surface.
+
+Environment & Surface Detail
+Macro-level detail of the printed comic page:
+ink texture
+
+paper fibers
+
+subtle gloss reflections
+Color Grade
+Rich saturated comic-book colors with warm cinematic highlights and soft ambient glow.
+Moody macro photography atmosphere.
+
+Rendering Style
+Photorealistic macro toy photography aesthetic, emphasizing scale illusion between the tiny character and the giant comic book world.
+ar 5:4
+```
+
+</details>
+
+<a id="gpt-image-motocross-backflip-storyboard-desert"></a>
+### Ten frame storyboard of a motocross backflip
+
+<a href="https://x.com/saniaspeaks_/status/2064313192516391127"><img src="../../previews/gpt-image-motocross-backflip-storyboard-desert.jpg" width="360"></a>
+
+The prompt opens with the frame count and then lists one ordered story beat per frame, so the model lays out a readable sequence. Closing style words such as golden hour lighting, dynamic camera angles and high end action photography set one look for every panel.
+
+GPT Image 2 · Text-to-image · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2064313192516391127) · 196 likes on 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`motocross`](tags.md#tag-motocross) [`sports-drama`](tags.md#tag-sports-drama) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Storyboard sequence, 10 cinematic frames: A stylish young woman relaxes in a modern desert-view room while drinking from a glass bottle, then stands and gazes out the window with determination before casually tossing the bottle aside. She exits the building and walks toward her FMX motocross bike, gears up, and puts on her helmet. The action escalates as she races down a giant mega ramp, launches into the open sky, performs a breathtaking backflip high above the desert landscape, and lands in a dramatic cloud of dust. In the final frame, she removes her helmet, her hair falling free as smiling friends run toward her cheering, all captured in ultra-realistic cinematic storytelling, golden-hour lighting, dynamic camera angles, emotional sports-drama atmosphere, and high-end action photography.
 ```
 
 </details>

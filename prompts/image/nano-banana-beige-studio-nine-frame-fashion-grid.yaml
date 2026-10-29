@@ -1,0 +1,112 @@
+id: nano-banana-beige-studio-nine-frame-fashion-grid
+title:
+  en: Nine frame beige studio fashion editorial grid
+  zh: 九宫格米色影棚时尚人像拼图
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- fashion
+- grid-collage
+- portrait
+- studio
+source:
+  name: '@craftian_keskin on X'
+  url: https://x.com/craftian_keskin/status/2050249217512218844
+  credit: Keskin
+  likes: 184
+  captured: '2026-10-29'
+  posted: '2026-04-29'
+notes:
+  en: A numbered shot list of nine specific poses and crop types forces varied framing inside one grid. Fixed palette words and a 35 to 85mm lens cue keep all nine frames consistent in colour and depth.
+  zh: 用编号的九个镜头清单明确每格的姿势和取景，使一张拼图内的构图富有变化。固定的色板和35至85毫米镜头描述让九格的色彩与景深保持统一。
+prompt: |
+  {
+    "objective": "Create a 3x3 editorial photo collage of a stunning adult Korean woman in a warm minimalist studio, with soft sensual movement, candid fashion poses, and a dreamy cinematic aesthetic similar to a lifestyle moodboard.",
+
+    "aspect_ratio": "4:5",
+
+    "composition": {
+      "layout": "3x3 photo grid collage",
+      "framing": "nine unevenly expressive portrait crops mixing close-ups, mid-shots, torso shots, and partial-body fashion frames",
+      "style": "editorial contact-sheet inspired collage",
+      "pose_direction": "natural movement, wind-swept hair, relaxed body language, expressive hands, soft facial angles"
+    },
+
+    "subject": {
+      "person": "adult Korean woman",
+      "appearance": {
+        "beauty": "strikingly beautiful, elegant, soft feminine features",
+        "hair": "long dark flowing hair, slightly tousled",
+        "skin": "smooth glowing skin",
+        "expression": "dreamy, confident, subtle, sensual but tasteful"
+      },
+      "wardrobe": {
+        "top": "white fitted crop tank top or off-shoulder ribbed top",
+        "bottom": "light blue relaxed low-rise jeans",
+        "accessories": "minimal delicate jewelry, very subtle bracelet or earrings"
+      }
+    },
+
+    "poses": [
+      "close-up with head slightly tilted and hair moving",
+      "side-profile torso shot with graceful arm position",
+      "cropped shoulder and neck detail shot",
+      "soft emotional close-up with eyes half-closed",
+      "hand resting near collarbone in a fashion-editorial pose",
+      "full or three-quarter body pose with both arms raised",
+      "cropped neckline and hand detail shot",
+      "back-facing pose with one arm lifted into the hair",
+      "cropped waist and torso detail shot"
+    ],
+
+    "environment": {
+      "setting": "clean indoor studio",
+      "background": "plain warm beige wall backdrop",
+      "props": "no props"
+    },
+
+    "visual_style": {
+      "genre": "fashion editorial moodboard",
+      "mood": "warm, dreamy, intimate, soft, elegant",
+      "color_palette": [
+        "warm beige",
+        "cream white",
+        "soft tan",
+        "light denim blue",
+        "deep brown hair tones"
+      ],
+      "texture": "slightly soft focus, subtle filmic warmth"
+    },
+
+    "lighting": {
+      "style": "soft warm studio light",
+      "quality": "diffused glow with gentle shadows",
+      "effect": "golden creamy highlights and flattering skin tones"
+    },
+
+    "camera": {
+      "angle": "mixed editorial angles within the collage",
+      "lens_look": "35mm to 85mm fashion photography feel",
+      "focus": "soft but detailed portrait focus",
+      "depth_of_field": "shallow to medium depth of field"
+    },
+
+    "quality_targets": {
+      "look": "premium magazine editorial",
+      "finish": "polished, aesthetic, natural, tasteful",
+      "image_character": "expressive candid fashion collage"
+    },
+
+    "negative_constraints": [
+      "no extra people",
+      "no cluttered background",
+      "no harsh flash",
+      "no exaggerated makeup",
+      "no cartoon style",
+      "no distorted anatomy",
+      "no blurry low-quality face",
+      "no overly glossy plastic skin",
+      "no text or watermark"
+    ]
+  }

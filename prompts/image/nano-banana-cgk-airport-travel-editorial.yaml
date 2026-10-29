@@ -1,0 +1,47 @@
+id: nano-banana-cgk-airport-travel-editorial
+title:
+  en: Woman with passport at Jakarta airport window
+  zh: 女子手持护照站在雅加达机场窗前
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- airport
+- travel
+- editorial
+- portrait
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2073276310496129363
+  credit: Simply Ray
+  likes: 145
+  captured: '2026-10-29'
+  posted: '2026-07-04'
+notes:
+  en: The prompt anchors the scene with real location details (CGK, garbarata boarding bridges, pushback tugs, Indonesian tail flag) and a named light source, so the background reads as an actual terminal. Listing outfit, makeup and hand props in separate labeled sections keeps each element distinct in the output.
+  zh: 提示词用真实地点细节（CGK、廊桥、牵引车、印尼尾旗）和明确的光源设定机场背景。按服装、妆容、手持道具等分段列出元素，让每个细节在输出中各自清晰呈现。
+prompt: |
+  Create an ultra-realistic high-fashion travel editorial photographed inside Soekarno–Hatta International Airport (CGK), Jakarta, Indonesia. The model stands beside massive floor-to-ceiling glass windows overlooking the active airport apron. The background authentically showcases the airport's modern departure terminal architecture, featuring multiple passenger boarding bridges (garbarata), airport service vehicles, baggage carts, pushback tugs, runway markings, and several commercial aircraft parked at the gates. One aircraft prominently displays a red-and-white Indonesian flag on its tail, reinforcing the unmistakable Indonesian airport atmosphere.
+
+  Warm late-afternoon golden sunlight streams through the expansive terminal windows, naturally illuminating the model's face, collarbones, shoulders, and hair with soft golden highlights. Realistic glass reflections, cinematic shadows, atmospheric depth, and a vibrant blue sky with delicate clouds create an elegant luxury travel editorial mood.
+
+  Outfit:
+  Minimalist fitted white ribbed camisole tank top with a flattering body-hugging silhouette. Thick grey sporty headband. Oversized grey jacket casually draped over one forearm. Stacks of rose gold Cartier bracelets paired with a silver smartwatch. Milky white glossy nails. Delicate fine jewelry styled with a refined airport traveler aesthetic and understated luxury.
+
+  Hair:
+  Extreme-long, sleek, pin-straight jet-black hair with exceptional thickness and mirror-like shine. Soft front-layered face-framing C-curls. Visible individual hair strands, realistic flyaway hairs, and subtle natural movement created by a gentle breeze flowing through the terminal.
+
+  Skin & Face
+  Ultra-realistic skin with visible pores, delicate natural texture, and subtle imperfections for authentic photorealism. Healthy luminous glow without excessive skin smoothing or plastic appearance. Smooth even complexion with warm undertones, balanced facial proportions, refined editorial beauty, and naturally defined collarbones.
+
+  Makeup:
+  Radiant satin-glass complexion with naturally luminous skin. Bright diffused under-eyes for a refreshed youthful appearance. High-placement soft pink Igari-inspired blush across the cheeks and lightly over the bridge of the nose for a naturally flushed effect.
+  Soft neutral pink and taupe gradient eyeshadow blended seamlessly. Thin, precise eyeliner subtly elongates the eyes while maintaining a soft feminine appearance.
+  Large mesmerizing gray-green almond-shaped eyes with crystal-clear irises, subtle limbal rings, and multiple glossy catchlights reflecting the terminal windows. Thick black spiky manga-inspired mascara with individually separated wispy upper lashes and naturally defined lower lashes. Soft feathered taupe eyebrows with realistic individual hair strokes.
+  Full overlined lips in a delicate rosy pink shade with a subtle reddish ombré gradient. Ultra-glossy glass-like finish creates hydrated, plump, reflective lips that beautifully catch the warm golden sunlight.
+
+  Expression & Pose:
+  Elegant, calm, confident, sophisticated, and effortlessly luxurious. The model wears a subtle gentle smile, tilts her head slightly, and looks directly into the camera with a serene, dreamy expression. She holds an Indonesian passport and a boarding pass in her left hand, while her oversized grey jacket remains casually draped over one forearm, conveying the feeling of an exclusive international journey.
+
+  Photography:
+  Ultra-photorealistic. DSLR quality. 85mm lens. f/2.0. Shallow depth of field. HDR. Cinematic natural lighting. Realistic airport window reflections. Premium color grading. Soft bokeh. Subtle film grain. Razor-sharp facial focus. Highly detailed skin texture. Individually rendered hair strands. Realistic fabric textures. Hyper-realistic lighting. 8K resolution.

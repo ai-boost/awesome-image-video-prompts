@@ -1,0 +1,88 @@
+id: nano-banana-miniature-ninja-sprinting-comic-page
+title:
+  en: Miniature ninja figure sprinting across a giant comic page
+  zh: 微缩忍者手办在巨大漫画页上奔跑
+model: Nano Banana 2
+mode: image-edit
+category: comic
+tags:
+- comic
+- macro
+- toy-photography
+- character-consistency
+source:
+  name: '@edizkan_ on X'
+  url: https://x.com/edizkan_/status/2032705323077632283
+  credit: Edizkan ⭕🦇
+  likes: 307
+  captured: '2026-10-29'
+  posted: '2026-03-14'
+notes:
+  en: 'Pairs a reference locked identity block with a macro toy photo setup: the prompt fixes the character design on both the figure and its printed panels, then uses a low page level camera, a 90 to 100mm lens and a shallow focus plane to sell the scale illusion.'
+  zh: 把参考图锁定身份的约束与微距玩具摄影的镜头设定结合：提示词同时约束立体手办和书页上的漫画分镜，再用贴近纸面的低机位、90到100毫米镜头和极浅景深营造巨大的比例感。
+prompt: |
+  The moment your Beast escapes the comic panel. #AKCB
+
+  Recommended generator: Nano Banana 2 (Gemini – Thinking Mode)
+
+  Try it and show your results 👇
+
+  A cinematic macro toy-photography scene.
+  A bean-sized version of the uploaded reference character is sprinting dramatically across the surface of a giant open comic book featuring panels of the same character.
+
+  Likeness Preservation (CRITICAL)
+  The identity of the character must remain exactly the same as the reference in both:
+  • the miniature physical character
+
+  • the comic panels printed on the page
+  Maintain the exact:
+  • head shape
+
+  • eye shape and spacing
+
+  • stylization
+
+  • silhouette
+
+  • materials and clothing design
+  If the character wears a balaclava, mask, helmet, or covered face, the comic panels must not invent facial anatomy.
+  No added nose.
+
+  No added mouth.
+
+  No visible skin where the reference does not show it.
+  The comic panels must depict the same exact design language of the character, only rendered as printed comic artwork.
+  Do not humanize the character.
+
+  Do not reinterpret anatomy.
+  Subject & Action
+  The miniature character runs across the page as if traversing its own story.
+  Oversized comic panels surround the character, each showing dynamic action poses of the same character, rendered in bold comic-book style.
+
+  Camera & Perspective
+  Low-angle macro close-up shot, camera positioned almost at page level.
+  Shot with a 90–100mm macro lens, giving the tiny character a heroic sense of scale.
+  The character sits slightly off-center, leaning forward in motion.
+
+  Depth of Field
+  Extremely shallow depth of field.
+  The running miniature character and the immediate section of the comic page are razor sharp.
+  The surrounding panels and distant page edges fall into soft blur.
+
+  Lighting
+  Sharp cinematic directional light from the top left, casting dramatic shadows across the comic page and creating small glints on the glossy print surface.
+
+  Environment & Surface Detail
+  Macro-level detail of the printed comic page:
+  ink texture
+
+  paper fibers
+
+  subtle gloss reflections
+  Color Grade
+  Rich saturated comic-book colors with warm cinematic highlights and soft ambient glow.
+  Moody macro photography atmosphere.
+
+  Rendering Style
+  Photorealistic macro toy photography aesthetic, emphasizing scale illusion between the tiny character and the giant comic book world.
+  ar 5:4

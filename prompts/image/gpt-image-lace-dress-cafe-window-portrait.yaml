@@ -1,0 +1,28 @@
+id: gpt-image-lace-dress-cafe-window-portrait
+title:
+  en: Woman in lace dress at café window
+  zh: 蕾丝连衣裙女子坐在咖啡馆窗边
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- cafe
+- glass-reflection
+- bokeh
+source:
+  name: '@DaniaSafvi on X'
+  url: https://x.com/DaniaSafvi/status/2071477298944164056
+  credit: Dania
+  likes: 82
+  captured: '2026-10-29'
+  posted: '2026-06-29'
+notes:
+  en: Shooting from outside through the glass layers street reflections over the warm interior, which gives depth and a candid feel. Naming a body and lens such as Sony A7R V with 85mm f/1.4 plus skin texture terms steers the render toward a real photograph.
+  zh: 从窗外隔着玻璃拍摄，让街景反光叠加在温暖的室内之上，形成层次与抓拍感。指定相机与镜头（Sony A7R V、85mm f/1.4）并加入皮肤质感描述，可以让画面更接近真实摄影。
+prompt: |
+  Ultra-realistic cinematic street portrait photography, 9:16 vertical ratio. A young Asian woman with fair, bright skin sitting alone inside a modern cafe near a large glass window facing the city street.
+  Pose: sitting sideways on a chair, body slightly turned away from the camera, head turned back to gaze directly at the camera with a calm, elegant, and mysterious expression. And one of her hands is resting on her chin. Wearing a white embroidered lace dress.
+  Long, voluminous black hair cascading naturally, minimal natural makeup.
+  The shot is taken from outside the cafe through the glass window, creating a soft reflection of vehicles, city buildings, and pedestrians on the glass surface. A small wooden table beside her with a cup of white coffee and a glass of latte. The cafe interior is warm with golden-yellow round pendant lights producing large, soft bokeh. The city background appears blurred with a shallow depth of field.
+  Natural spotlight from nighttime street lamps, soft ambient light, cinematic mood, muted colors, premium editorial photography, candid lifestyle shot, realistic skin texture, healthy skin with visible natural pores, high detail face, sharp eyes, soft shadows, creamy bokeh, glass reflection effect, shallow depth of field, Sony A7R V, 85mm f/1.4 lens, photorealistic, HDR, 8K, masterpiece, highly detailed, magazine-quality street cafe portrait.

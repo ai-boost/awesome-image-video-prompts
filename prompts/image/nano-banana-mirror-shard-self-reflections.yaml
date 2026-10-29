@@ -1,0 +1,24 @@
+id: nano-banana-mirror-shard-self-reflections
+title:
+  en: Man centered among floating broken mirror shards
+  zh: 居中男子被漂浮的破碎镜片包围
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- mirror-shards
+- reflections
+- identity-lock
+- cinematic-portrait
+source:
+  name: '@Ozayrr_irl on X'
+  url: https://x.com/Ozayrr_irl/status/2050471266843582688
+  credit: Ozair AI
+  likes: 100
+  captured: '2026-10-29'
+  posted: '2026-05-02'
+notes:
+  en: A reference face is locked in with an explicit identity instruction, then each shard is described by its own angle, outfit and emotion so the repeated figure reads as many versions. A pitch black set with one cold key light makes the shards the only bright elements.
+  zh: 先用参考人脸和明确的身份锁定指令固定主体，再为每块碎片分别描述角度、服装和情绪，让重复的人物呈现为多个版本。纯黑场景配单一冷白主光，使碎片成为画面中唯一的亮部。
+prompt: |
+  "Use the facial identity given and keep the facial features exactly same, and generate a picture standing in a pitch-black studio, surrounded by dozens of broken mirror shards floating mid-air around him at different angles — each shard reflecting a different version of him, different expressions, different outfits, different emotions. He stands perfectly still in the center, wearing a crisp black turtleneck, arms at his sides, staring forward. The only light source is cold white light hitting each shard differently, fracturing the room into infinite reflections. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading."

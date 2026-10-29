@@ -1,0 +1,160 @@
+id: nano-banana-nine-color-satin-beauty-grid
+title:
+  en: Same woman in nine satin and gemstone looks
+  zh: 同一女子九种缎面与宝石配色造型
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- beauty
+- identity-lock
+- color-grid
+- jewelry
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2050990785135308805
+  credit: Özge Döner
+  likes: 67
+  captured: '2026-10-29'
+  posted: '2026-02-14'
+notes:
+  en: A strict identity lock on the reference image lets only outfit, hair, background and necklace change per panel. Fixed camera specs (85mm, f/2.2, Sony A1) and shared framing keep the nine tiles reading as one shoot.
+  zh: 通过严格的参考图身份锁定，每格只改变服装、发型、背景和项链；固定的镜头参数与统一构图让九格看起来出自同一次拍摄。
+prompt: |
+  {
+    "generation_request": {
+      "meta_data": {
+        "task_type": "3x3_multicolor_luxury_beauty_editorial",
+        "style": "ultra_photoreal_real_skin_high_fashion_campaign",
+        "version": "v9.0_9_DIFFERENT_COLOR_LOOKS"
+      },
+      "input": {
+        "mode": "image_to_image",
+        "reference_image_usage": "maximum",
+        "preserve_identity": "strict_lock",
+        "notes": "Keep the exact same woman in all 9 panels with strict identity consistency. Preserve the same face, bone structure, skin tone family, proportions, natural asymmetry, and editorial realism. Only change the color styling, outfit, hair look, and necklace design per panel."
+      },
+      "output_settings": {
+        "aspect_ratio": "1:1",
+        "layout": "3x3 grid",
+        "num_panels": 9,
+        "resolution": "4K+ ultra high",
+        "no_text": true
+      },
+      "global_scene": {
+        "environment": "minimal realistic luxury beauty studio, clean seamless background, soft editorial setup, no props, no distractions",
+        "lighting": "realistic softbox beauty lighting with gentle falloff, soft shadow shaping, subtle highlight on cheekbones, collarbones, and satin texture, no harsh flash, no artificial glow",
+        "mood": "luxury, elegant, realistic, minimal, high-end editorial"
+      },
+      "global_subject": {
+        "skin": "realistic skin texture with visible pores, subtle unevenness, fine facial hair, natural blush, controlled dewy glow, no plastic smoothing",
+        "makeup": "luxury beauty editorial makeup adapted to each panel color theme, always tasteful and refined",
+        "pose_language": "elegant beauty portrait poses, relaxed shoulders, calm confident expression, consistent upper-body framing"
+      },
+      "panels": {
+        "1": {
+          "theme": "deep ruby red",
+          "background": "muted ruby red",
+          "outfit": "deep ruby red satin halter top with realistic folds and soft sheen",
+          "hair": "dark hair in a slicked-back updo with one loose face-framing strand, subtle wet editorial finish",
+          "necklace": "luxury ruby-red gemstone necklace inspired by cherries and red berries, refined gold metalwork",
+          "makeup": "soft red eyeshadow, warm nude glossy lips",
+          "pose": "front-facing close portrait, calm direct gaze"
+        },
+        "2": {
+          "theme": "emerald green",
+          "background": "soft emerald green",
+          "outfit": "rich emerald satin halter top",
+          "hair": "sleek low bun with soft polished texture and loose strand",
+          "necklace": "emerald and diamond luxury necklace inspired by leaves and green olives",
+          "makeup": "soft green eyeshadow, neutral glossy lips",
+          "pose": "three-quarter portrait, hand lightly touching collarbone"
+        },
+        "3": {
+          "theme": "sapphire blue",
+          "background": "muted sapphire blue",
+          "outfit": "deep sapphire satin halter top",
+          "hair": "sleek twisted updo, elegant and clean",
+          "necklace": "sapphire and crystal statement necklace with luxury couture finish",
+          "makeup": "soft blue-toned editorial eyeshadow, glossy nude lips",
+          "pose": "slight chin lift, direct gaze"
+        },
+        "4": {
+          "theme": "amethyst purple",
+          "background": "soft muted lavender-purple",
+          "outfit": "amethyst satin halter top",
+          "hair": "soft glossy updo with a slightly romantic loose strand",
+          "necklace": "amethyst gemstone necklace with delicate violet crystal drops",
+          "makeup": "soft plum-lilac eyeshadow, neutral lips",
+          "pose": "head tilted subtly left, relaxed lips"
+        },
+        "5": {
+          "theme": "golden champagne",
+          "background": "warm champagne beige",
+          "outfit": "golden champagne satin halter top with luminous sheen",
+          "hair": "sleek sculpted bun, polished luxury finish",
+          "necklace": "gold and champagne-stone necklace, elegant and expensive",
+          "makeup": "soft golden shimmer on eyes, peachy nude glossy lips",
+          "pose": "center hero frame, front-facing Vogue beauty portrait"
+        },
+        "6": {
+          "theme": "blush pink",
+          "background": "muted blush pink",
+          "outfit": "blush pink satin halter top",
+          "hair": "sleek soft updo with feminine editorial softness",
+          "necklace": "rose quartz and pink gemstone luxury necklace with delicate sparkle",
+          "makeup": "soft rosy eyeshadow, glossy pink-nude lips",
+          "pose": "soft side gaze, shoulders angled"
+        },
+        "7": {
+          "theme": "silver ice",
+          "background": "soft cool silver-grey",
+          "outfit": "liquid silver satin halter top",
+          "hair": "clean slick-back bun with cool-toned shine",
+          "necklace": "silver and diamond necklace with icy crystal details",
+          "makeup": "cool silver-grey eyeshadow, glossy nude lips",
+          "pose": "closer crop focused on eyes and lips"
+        },
+        "8": {
+          "theme": "black onyx",
+          "background": "deep charcoal / soft black studio backdrop",
+          "outfit": "black satin halter top with rich reflective texture",
+          "hair": "sleek dramatic updo, glossy and sculptural",
+          "necklace": "black onyx and diamond statement necklace, elegant and bold",
+          "makeup": "soft smoky eyes, glossy nude lips",
+          "pose": "gentle downward chin angle, calm expression"
+        },
+        "9": {
+          "theme": "pearl white",
+          "background": "soft warm ivory",
+          "outfit": "pearl-white satin halter top with subtle sheen",
+          "hair": "clean refined updo with soft luminous texture",
+          "necklace": "pearl, diamond, and white gemstone luxury necklace with couture refinement",
+          "makeup": "soft ivory-champagne eye look, glossy nude lips",
+          "pose": "slight over-the-shoulder angle, elegant minimal finish"
+        }
+      },
+      "camera": {
+        "camera_type": "Sony A1",
+        "lens": "85mm f/1.4 portrait lens",
+        "aperture": "f/2.2",
+        "framing": "tight upper-body beauty portraits, consistent 3x3 grid composition",
+        "depth_of_field": "shallow but realistic, soft background separation",
+        "focus": "sharp on eyes, skin texture, lips, necklace details, and satin fabric"
+      },
+      "rendering": {
+        "quality": "ultra high resolution photorealistic editorial",
+        "details": "real skin pores, natural asymmetry, fine hair strands, realistic satin texture, realistic jewelry reflections, true-to-life light falloff",
+        "color_grade": "each panel follows its own luxury monochrome palette while preserving realistic skin tones",
+        "effects": "no artificial glow, no waxy skin, no CGI finish, subtle editorial sharpness"
+      },
+      "realism_rules": {
+        "identity": "same exact woman in all 9 panels",
+        "skin": "natural real skin texture preserved",
+        "hair": "different styling mood per panel allowed, but identity remains unchanged",
+        "jewelry": "all necklaces must look like real high-end luxury jewelry, not costume jewelry",
+        "fabric": "all outfits must have realistic satin folds, natural tension, and premium sheen"
+      },
+      "negative_prompt": "no identity change, no face drift, no different woman, no plastic skin, no over-smoothing, no waxy skin, no unrealistic symmetry, no doll face, no harsh shadows, no distorted hands, no extra fingers, no warped anatomy, no AI artifacts, no text, no watermark, no logo, no cheap jewelry, no cartoon look, no fabric glitches, no blurry face, no oversharpening"
+    }
+  }

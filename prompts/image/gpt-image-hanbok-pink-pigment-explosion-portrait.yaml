@@ -1,0 +1,24 @@
+id: gpt-image-hanbok-pink-pigment-explosion-portrait
+title:
+  en: Pink hanbok dissolving into exploding pigment clouds
+  zh: 粉色韩服化作爆散的颜料烟云
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- hanbok
+- pigment-explosion
+- fashion-portrait
+- motion-transformation
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2091027170827116570
+  credit: Talia
+  likes: 130
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+notes:
+  en: Describing the transformation as a physical process, with fabric turning into pigment clouds and a clear direction, gives the explosion a readable motion path against a plain grey backdrop. The identity-preservation line anchors the face while the rest of the prompt stays free to be dramatic.
+  zh: 把变化描述为物理过程，即衣料化作有明确方向的颜料云，让爆散动势在纯灰背景上清晰可读。保留脸部身份的要求使人脸保持稳定，其余描述则可以放手发挥戏剧感。
+prompt: |
+  Create an ultra-photorealistic Korean high-fashion studio portrait, full body, wearing an elegant pastel pink hanbok, long black hair with delicate flower ornaments on both sides. The hanbok physically transforms into enormous dense pastel pink pigment clouds exploding dramatically toward the right side. Preserve my exact face and identity. Medium grey studio background, cinematic softbox lighting, high-speed fashion photography, extreme detail, photorealistic, vertical 9:16."

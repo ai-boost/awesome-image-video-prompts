@@ -1,0 +1,36 @@
+id: gpt-image-damp-hair-beauty-portrait
+title:
+  en: Close up beauty portrait with damp hair
+  zh: 湿发近景美妆人像
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- beauty
+- portrait
+- reference-image
+- golden-hour
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2082648912981328244
+  credit: Meem
+  likes: 112
+  captured: '2026-10-29'
+  posted: '2026-07-30'
+notes:
+  en: Pinning the face to an uploaded reference, then listing each feature as a checklist, keeps identity stable through the edit. The 85mm lens spec and eyes placed near the upper third set a tight editorial crop.
+  zh: 先用上传的参考图锁定五官，再把每个特征逐条列成清单，使编辑后的脸部保持一致。85mm 镜头和眼睛位于上三分之一处的构图要求，形成紧凑的时尚大片式取景。
+prompt: |
+  Ultra-photorealistic RAW beauty portrait using the uploaded reference image to preserve the subject's exact facial identity, proportions, and defining facial features. The woman in the final image must closely match the reference while appearing naturally more polished and editorial, without altering her recognizable face.
+
+  An extraordinary young woman with captivating soft emerald-green eyes featuring subtle golden sunburst details around the irises and crystal-clear natural catchlights. She looks directly into the camera with a calm, confident expression and a faint, elegant smile, creating an intimate luxury beauty campaign aesthetic.
+
+  Her porcelain-fair skin glows with healthy natural radiance, displaying authentic pores, delicate freckles across the bridge of the nose and cheeks, gentle peach undertones, and realistic skin texture without excessive smoothing. Naturally full dark eyebrows, long separated lashes, a refined straight nose, softly sculpted cheekbones, and hydrated satin rose lips complete her timeless beauty.
+
+  Her silky jet-black hair is slightly damp, with glossy strands framing her face naturally. Soft curtain bangs and loose textured wisps fall across one side of her forehead, creating effortless movement and cinematic elegance. Tiny highlights shimmer along the damp hair, enhancing realism.
+
+  Golden-hour sunlight filters through sheer curtains, wrapping her face in warm, diffused light while casting delicate organic shadow patterns across her skin. The lighting creates luminous highlights, rich dimensional contrast, and sparkling reflections inside her eyes without appearing overly dramatic.
+
+  The background fades into a luxurious creamy bokeh of warm ivory, champagne, and soft beige tones, keeping complete attention on her face. The composition is slightly asymmetrical for a modern editorial feel, with the eyes positioned near the upper third of the frame for a more striking visual impact.
+
+  Luxury skincare campaign, Vogue Italia beauty editorial, high-fashion cosmetic advertisement, quiet luxury aesthetic, old-money elegance, cinematic realism, premium natural beauty, ultra-detailed DSLR photography, 85mm portrait lens, f/1.2 aperture, ultra-shallow depth of field, razor-sharp focus on the eyes, HDR lighting, realistic micro skin detail, global illumination, premium cinematic color grading, hyper-realistic, 8K, award-winning beauty photography, sophisticated editorial masterpiece, visually unforgettable, trending luxury beauty campaign.

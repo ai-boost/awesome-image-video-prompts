@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 46 条
+[返回目录](../../README_zh.md) · 全部 61 条
 
 <a id="gpt-image-night-tokyo-flash-blur-candid-snapshot"></a>
 ### 东京夜晚人行道上的模糊闪光抓拍
@@ -273,6 +273,25 @@ Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and 
 
 </details>
 
+<a id="gpt-image-fisheye-jump-brick-street"></a>
+### 鱼眼镜头下跃起伸手的女子与红砖街道
+
+<a href="https://x.com/iamsofiaijaz/status/2048367604574908593"><img src="../../previews/gpt-image-fisheye-jump-brick-street.jpg" width="360"></a>
+
+将镜头贴近地面并垂直向上拍摄，周围建筑会形成围绕天空的圆形画框。手臂伸向镜头，让近处的手部产生强烈透视，增加纵深与动感。
+
+GPT Image 2 · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2048367604574908593) · 227 赞，统计于 2026-10-29
+
+[`fisheye`](tags.md#tag-fisheye) [`jump-pose`](tags.md#tag-jump-pose) [`street`](tags.md#tag-street) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Make an Ultra-wide fisheye lens perspective shot from ground level looking straight up at a young women crouching mid-air between brick buildings forming a circular frame around the sky. She reaches one hand dramatically toward the camera, fingers spread wide, creating strong foreground distortion and depth. Dynamic action pose, confident expression, casual streetwear outfit: fitted white t-shirt, blue straight-leg jeans, red and white sneakers. Urban European neighborhood setting with brick houses, tiled roofs, windows visible around the edges. Bright daylight, clear blue sky, natural lighting, sharp focus, high detail, cinematic composition, exaggerated perspective, 8k resolution, photorealistic, adventure photography style.
+```
+
+</details>
+
 <a id="gpt-image-raw-chicken-cinematic-food-commercial"></a>
 ### 暗色木板上的生鸡肉,电影感美食广告
 
@@ -436,6 +455,25 @@ A women sitting calmly at the center of a wide horizontal swirling spiral made o
 
 </details>
 
+<a id="gpt-image-curry-udon-doodle-table"></a>
+### 咖喱乌冬两碗配天妇罗与涂鸦便签
+
+<a href="https://x.com/john_my07/status/2053700365338714193"><img src="../../previews/gpt-image-curry-udon-doodle-table.jpg" width="360"></a>
+
+固定的俯拍角度与暖色餐厅灯光保证美食照的写实感，白色马克笔涂鸦以独立的图标与注释清单描述，形成叠加在照片之上的一层。
+
+GPT Image 2 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2053700365338714193) · 181 赞，统计于 2026-10-29
+
+[`food-photography`](tags.md#tag-food-photography) [`overhead-shot`](tags.md#tag-overhead-shot) [`doodles`](tags.md#tag-doodles) [`scrapbook`](tags.md#tag-scrapbook)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Luxury artisan bakery flatlay photography featuring freshly baked croissants, sourdough slices, butter rolls, fruit danishes, and handcrafted coffee arranged beautifully on a textured linen table setup. Warm morning sunlight spills across the scene, creating soft golden highlights and cozy café shadows. Elegant food styling with realistic flaky pastry textures, melted butter details, and creamy coffee foam. Surround the composition with playful hand-drawn doodles and journal-style annotations — tiny stars, ribbon sketches, smiley faces, handwritten bakery notes, sparkles, and whimsical arrows in soft white ink. Chic European café atmosphere blended with modern scrapbook aesthetics, warm beige and caramel color palette, cinematic depth, comforting brunch mood, ultra detailed lifestyle food photography, soft bokeh accents, 8k resolution.
+```
+
+</details>
+
 <a id="gpt-image-fisheye-tiny-planet-red-tracksuit-plaza"></a>
 ### 鱼眼小星球广场与跃起的红裤女孩
 
@@ -451,6 +489,31 @@ GPT Image 2 · 文生图 · 出处: [@AvelyrahnAI on X](https://x.com/AvelyrahnA
 
 ```text
 Ultra-realistic action photography, extreme fisheye lens (8mm), worm’s-eye view from ground level, dynamic urban plaza scene. A stylish young woman appears to be stepping over the camera, one sneaker sole dominating the foreground, hand reaching toward the lens. She wears oversized red track pants with white side stripes, a fitted white crop top, red-and-white high-top sneakers, and silver headphones. Wind-blown dark hair, natural beauty, confident expression. Massive circular “tiny planet” perspective with historic European architecture curving around the edges of the frame, bright blue sky filled with fluffy white clouds at the center. Cinematic composition, dramatic distortion, ultra-wide angle, vibrant colors, sharp focus, HDR, photorealistic, highly detailed skin texture, travel photography aesthetic, motion energy, depth and scale, 8K resolution, professional DSLR quality, masterpiece, Instagram viral shot.
+```
+
+</details>
+
+<a id="nano-banana-night-triptych-smoker-convenience-store"></a>
+### 夜景三联画：男子吸烟与饮用易拉罐
+
+<a href="https://x.com/rovvmut_/status/2033793020940980720"><img src="../../previews/nano-banana-night-triptych-smoker-convenience-store.jpg" width="360"></a>
+
+将画面拆成三个分镜并分别指定景别，从中景到大特写，让模型按顺序生成。每个画面都点明光源，如绿色霓虹、荧光灯和车灯拖影，使夜景色调保持统一。
+
+Nano Banana 2 · 文生图 · 出处: [@rovvmut_ on X](https://x.com/rovvmut_/status/2033793020940980720) · 164 赞，统计于 2026-10-29
+
+[`triptych`](tags.md#tag-triptych) [`night`](tags.md#tag-night) [`cinematic`](tags.md#tag-cinematic) [`film-look`](tags.md#tag-film-look)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Google Nano Banana 2 on Gemini.
+
+Prompt: A vertical triptych of three cinematic, night-time urban photographs featuring a young man with messy, curly reddish-brown hair and thin, round wire-frame glasses.
+Top Panel: The man is seated in front of a 7-Eleven storefront. He wears a dark plaid flannel shirt over a black turtleneck. He is captured in a candid moment, holding a lit cigarette to his lips. To the left, there's a vibrant green neon sign. The lighting is dominated by a cool, fluorescent green glow and the warm interior light of the convenience store.
+Middle Panel: An extreme close-up profile shot. He is drinking from a gold-and-red metallic beverage can. His glasses catch a sharp, vivid reflection of the 7-Eleven logo and orange-red street lights. A subtle lens flare streaks horizontally across his face. The background is a soft, warm bokeh of city lights and traffic signals.
+Bottom Panel: The man stands on a pedestrian overpass overlooking a busy highway. He has his head tilted back, exhaling a thick wisp of white smoke into the night air. Below him, the blurred streaks of white headlights and red taillights create a sense of motion. The overpass structure is lit with cool-toned industrial lamps, contrasting with his warm skin tones.
+Style: 35mm film aesthetic, cinematic grain, shallow depth of field, high contrast, urban noir mood.
 ```
 
 </details>
@@ -557,6 +620,25 @@ Composition:
 
 </details>
 
+<a id="gpt-image-floating-library-above-clouds"></a>
+### 云海之上漂浮的图书馆与飘动的书籍
+
+<a href="https://x.com/JuliaClarky/status/2078149885413801993"><img src="../../previews/gpt-image-floating-library-above-clouds.jpg" width="360"></a>
+
+用具体结构（由木桥和玻璃走道相连的漂浮岛屿）和单一光源（黄金时刻、体积光）为模型提供空间逻辑。负面提示词排除重复书籍和透视变形，这是密集书架场景最常见的出错点。
+
+GPT Image 2 · 文生图 · 出处: [@JuliaClarky on X](https://x.com/JuliaClarky/status/2078149885413801993) · 140 赞，统计于 2026-10-29
+
+[`fantasy`](tags.md#tag-fantasy) [`library`](tags.md#tag-library) [`golden-hour`](tags.md#tag-golden-hour) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Inside the same ultra-realistic floating library above the clouds, surrounded by endless white clouds glowing in the golden evening light. Thousands of magical books drift gently through the air while people quietly browse the bookshelves in the background. In the foreground, a beautiful young woman wearing a flowing light-blue chiffon dress sits comfortably on a cozy reading sofa beside a large floor-to-ceiling library window overlooking the clouds. She is reading Pride and Prejudice aloud from an elegant hardcover edition with a soft smile. Sitting beside her is a young man, completely captivated—not by the book, but by her. He looks at her with genuine affection, admiration, and warmth, smiling softly as she reads. Their body language is natural, intimate, and peaceful, conveying quiet love without exaggeration. Nearby, a small wooden table holds tea and bookmarks, while glowing pages and golden particles drift gently around them. The library is filled with books of every genre, creating a magical yet believable atmosphere. Ultra-realistic human expressions, cinematic storytelling, HDR, 8K, masterpiece, DSLR photography, volumetric lighting, natural color grading, National Geographic realism, fantasy blended with realism, dreamy, cozy, and emotionally rich. Negative Prompt: Low quality, blurry, cartoon, anime, CGI, painting, watermark, text, logo, deformed faces, bad anatomy, extra fingers, duplicate people, unrealistic expressions, empty bookshelves, oversaturated colors, artifacts, cropped, out of frame, low resolution.
+```
+
+</details>
+
 <a id="gpt-image-neon-yacht-moonlit-harbour-reflections"></a>
 ### 月夜港湾中的霓虹游艇
 
@@ -590,6 +672,74 @@ PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amb
 
 </details>
 
+<a id="nano-banana-woman-painting-fiance-studio"></a>
+### 女子作画，未婚夫在身后凝望
+
+<a href="https://x.com/JuliaClarky/status/2069993197015814486"><img src="../../previews/nano-banana-woman-painting-fiance-studio.jpg" width="360"></a>
+
+提示词按主体、服装、道具、同伴的顺序描述，再加入镜头和风格段落。镜头段指定中景侧角与浅景深，风格段固定光线与调色。
+
+Nano Banana 2 · 文生图 · 出处: [@JuliaClarky on X](https://x.com/JuliaClarky/status/2069993197015814486) · 111 赞，统计于 2026-10-29
+
+[`photorealism`](tags.md#tag-photorealism) [`lifestyle`](tags.md#tag-lifestyle) [`soft-lighting`](tags.md#tag-soft-lighting) [`camera-angle`](tags.md#tag-camera-angle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cinematic photography, 8K, warm natural lighting, cozy artistic atmosphere. A beautiful young woman is deeply focused on painting in her private art studio-bedroom. She wears a simple oversized white T-shirt and a flowing skirt, creating a comfortable and creative look. Large studio headphones cover her ears as she becomes completely immersed in her artwork.
+
+Her hair is stunning—long, voluminous, wavy layers with a professional layered haircut, soft strands naturally framing her face. She holds a painter's palette filled with vibrant colors in one hand while carefully painting on a large canvas with the other. Her expression shows concentration, passion, and peace.
+
+The room is clearly her personal creative space, filled with canvases, paintbrushes, sketchbooks, art supplies, books, fairy lights, indoor plants, and framed artwork on the walls. Soft sunlight streams through a nearby window, illuminating floating dust particles and creating a dreamy artistic ambiance.
+
+Standing slightly behind her is her fiancé, dressed casually and elegantly. He isn't interrupting her work; instead, he watches her with genuine admiration and affection. His eyes are full of pride, warmth, and love as he quietly observes her doing what she loves. His body language is gentle and supportive, as if he finds joy simply in seeing her happy and creating.
+
+The interaction feels natural and candid rather than posed—a quiet moment of love, respect, and admiration between two people.
+
+Camera: Medium-wide cinematic shot, slightly side angle, both subjects visible, shallow depth of field, soft bokeh background, natural composition.
+
+Style: Ultra-realistic, photorealistic, cinematic storytelling, luxury lifestyle photography, magazine-quality image, realistic skin textures, detailed fabric folds, volumetric sunlight, warm color grading, emotional atmosphere, masterpiece, 8K HDR, highly detailed, no text, no watermark.
+```
+
+</details>
+
+<a id="nano-banana-mountain-cabin-coffee-retreat"></a>
+### 山间小屋窗边冒着热气的咖啡杯
+
+<a href="https://x.com/kellyyjjones/status/2078710249750769810"><img src="../../previews/nano-banana-mountain-cabin-coffee-retreat.jpg" width="360"></a>
+
+用一个主体放在分层的远景前，并指定镜头和机身参数（85mm、ARRI Alexa 65、浅景深），把画面推向照片级商业摄影。负面提示词排除人物和文字，让咖啡杯保持唯一焦点。
+
+Nano Banana 2 · 文生图 · 出处: [@kellyyjjones on X](https://x.com/kellyyjjones/status/2078710249750769810) · 106 赞，统计于 2026-10-29
+
+[`coffee`](tags.md#tag-coffee) [`mountain`](tags.md#tag-mountain) [`cinematic-lighting`](tags.md#tag-cinematic-lighting) [`lifestyle`](tags.md#tag-lifestyle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+PHOTO 1 — Mountain Cabin Coffee Retreat
+
+Ultra-realistic cinematic luxury coffee commercial. A cozy Scandinavian-style wooden cabin sits dramatically on a peaceful mountain cliff during golden sunrise. In the foreground, a handcrafted ceramic coffee cup filled with freshly brewed coffee rests on an aged rustic wooden table beside an expansive floor-to-ceiling panoramic window. Delicate steam curls naturally upward, illuminated by warm sunlight streaming through the glass.
+
+Outside, endless pine forests emerge from layers of soft morning mist while majestic snow-capped mountain peaks glow beneath the first light of day. Tiny dew droplets sparkle across the wooden surface, catching golden highlights. Birds drift gracefully across the luminous sky as gentle wind moves distant treetops.
+
+Camera performs a slow cinematic push-in toward the coffee cup, creating a feeling of warmth, comfort, and luxury. Volumetric sun rays, realistic atmospheric haze, HDR lighting, global illumination, ray-traced reflections, physically accurate materials, shallow depth of field, creamy bokeh, cinematic contrast, warm premium color grading, ARRI Alexa 65, 85mm lens, ultra-detailed textures, photorealistic commercial photography, luxury lifestyle advertising, 8K masterpiece quality.
+
+Negative Prompt: people, human presence, text, captions, watermark, logo, low resolution, oversaturation, distortion, artifacts, duplicate objects, blur, noise, unrealistic lighting.
+
+PHOTO 2 — Alpine Lake Coffee Escape
+
+Ultra-realistic cinematic luxury coffee commercial. The exact same handcrafted ceramic coffee cup from Photo 1 sits on a weathered wooden deck overlooking a crystal-clear emerald alpine lake during golden sunrise, maintaining identical visual identity, color palette, and premium branding aesthetic.
+
+Gentle steam rises naturally from the coffee while soft morning fog glides across the lake surface. Dense pine forests surround the shoreline, leading toward towering snow-covered mountains glowing in warm sunlight. A cozy wool blanket and an open book rest beside the cup, suggesting peaceful morning relaxation. Wildflowers bloom around the deck, gently swaying in a light breeze. Birds soar across the sky while sunlight creates shimmering reflections on the calm water.
+
+Camera performs a slow cinematic orbit around the coffee cup, revealing the breathtaking landscape while keeping the cup as the hero subject. Warm volumetric sunlight, realistic atmospheric depth, HDR, global illumination, ray-traced reflections, physically accurate materials, shallow depth of field, luxury travel-commercial aesthetic, ARRI Alexa 65, 85mm lens, cinematic bokeh, ultra-photorealistic textures, premium color grading matching Photo 1, 8K masterpiece quality.
+
+Negative Prompt: people, human presence, text, captions, watermark, logo, low resolution, distortion, blur, noise, unrealistic reflections, artifacts, duplicate objects, oversharpening.
+```
+
+</details>
+
 <a id="nano-banana-paris-flag-miniature-city-diorama"></a>
 ### 巴黎旗帜幻化成的微缩地标城市
 
@@ -611,6 +761,41 @@ Prompt: Photorealistic hero product photography shot on Sony A7III with 85mm f/1
 
 </details>
 
+<a id="nano-banana-mexico-fan-stadium-vip-portrait"></a>
+### 墨西哥球迷在满座球场举国旗
+
+<a href="https://x.com/SimplyAnnisa/status/2067601264557609050"><img src="../../previews/nano-banana-mexico-fan-stadium-vip-portrait.jpg" width="360"></a>
+
+通过固定镜头（85mm f/1.8）、光线（照在脸上的黄金时段光）和前景站位，让身后的人群与记分牌保持柔焦。明确列出球衣、国旗和红色发饰等具体道具，为模型提供可稳定呈现的锚点。
+
+Nano Banana 2 · 文生图 · 出处: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2067601264557609050) · 104 赞，统计于 2026-10-29
+
+[`portrait`](tags.md#tag-portrait) [`stadium`](tags.md#tag-stadium) [`golden-hour`](tags.md#tag-golden-hour) [`sports`](tags.md#tag-sports)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cinematic photograph of a young Mexican female football fan posing in the VIP stands of a completely packed football stadium during a Mexico National Team match, captured in a vertical 9:16 format.
+
+The young woman is in the foreground, looking directly at the camera with a sweet, natural smile, expressing joy and youthful energy. She has fair, radiant skin with realistic texture, delicate facial features, large warm brown eyes, naturally pink lips, soft "no-makeup makeup" style cosmetics, and slightly blushed cheeks.
+
+She has long, thick, wavy hair reaching her waist in a rich chocolate brown color with subtle caramel highlights and balayage. Soft strands frame her face, while her silky hair flows naturally in the breeze. A small satin red bow sits on top of her hair, adding a youthful and feminine touch.
+
+She is wearing the official black Mexico National Team jersey with emerald green details on the collar and sleeves, featuring a fitted athletic cut, paired with high-waisted black shorts.
+
+She holds a Mexican flag in her left hand, clearly displaying its vibrant green, white, and red colors with the national emblem accurately visible.
+
+She is leaning casually against a metal railing in the upper VIP section of the stadium.
+
+In the background, a brightly illuminated professional football pitch is visible, surrounded by thousands of fans dressed in green, countless Mexican flags waving throughout the stands, a festive and patriotic atmosphere, a distant electronic scoreboard, and the modern stadium architecture featuring a monumental curved roof.
+
+Natural golden-hour sunset lighting softly illuminates her face, creating delicate shadows and a warm cinematic glow. The image features a shallow depth of field with a subtly blurred background, soft crowd bokeh, vibrant yet realistic colors, and an editorial sports photography aesthetic.
+
+Centered composition, shot with an 85mm f/1.8 lens, razor-sharp focus on the eyes, highly realistic skin, hair, and fabric textures, professional photographic quality, natural HDR, ultra-detailed, photorealistic, 8K UHD, masterpiece, realistic lighting, cinematic atmosphere, premium sports editorial photography, joyful Mexican football fan celebrating her team, authentic stadium energy, highly detailed crowd, realistic body proportions, and a natural pose.
+```
+
+</details>
+
 <a id="nano-banana-upside-down-woman-neon-korean-street"></a>
 ### 霓虹雨街上倒挂天空的女子
 
@@ -626,6 +811,65 @@ Nano Banana 2 · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofi
 
 ```text
 A surreal, cinematic full-body shot of a woman wearing a purple denim jacket and black jeans, appearing to hang upside down from the sky. Her feet are firmly touching a dark, wet asphalt surface that forms the "ceiling" at the top of the frame. The bottom half of the image features a glowing, rain-slicked city street with vibrant neon Korean storefront signs, reflecting her perfectly in the deep puddles. The atmosphere is moody and overcast with thick mist and high contrast lighting. 8k resolution, photorealistic, shot on a 35mm lens, 3:4 aspect ratio.
+```
+
+</details>
+
+<a id="nano-banana-woman-soda-can-foam-splash"></a>
+### 女子开启汽水罐喷出泡沫
+
+<a href="https://x.com/oye_samia/status/2053698484130447722"><img src="../../previews/nano-banana-woman-soda-can-foam-splash.jpg" width="360"></a>
+
+深色无缝背景配合强烈闪光灯突出主体并凝固空中的水滴，12mm 超广角镜头让飞溅物朝镜头方向延伸形成纵深感。提示词直接写明镜头与凝固动态，便于模型还原拍摄方式。
+
+Nano Banana 2 · 文生图 · 出处: [@oye_samia on X](https://x.com/oye_samia/status/2053698484130447722) · 100 赞，统计于 2026-10-29
+
+[`soda`](tags.md#tag-soda) [`splash`](tags.md#tag-splash) [`wide-angle`](tags.md#tag-wide-angle) [`action-shot`](tags.md#tag-action-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+bright advertising action shot, dark seamless background, harsh flash, high-speed liquid photography, SUPER wide-angle 12mm lens, beautiful brunette shaking and opening a soda can, powerful jet of liquid with splashes and foam bursting out in a long arc, droplets frozen in the air, large splashes and drops flying straight toward the camera, some motion blur
+```
+
+</details>
+
+<a id="nano-banana-gym-three-panel-collage"></a>
+### 健身房三联画：背影、镜前展示与喘息
+
+<a href="https://x.com/MrDasCreates/status/2040293909713359284"><img src="../../previews/nano-banana-gym-three-panel-collage.jpg" width="360"></a>
+
+将画面拆成三个机位（背影、镜前展示、低角度喘息），形成叙事变化；同一个强硬主光在各面板重复出现，让三联画保持统一。
+
+Nano Banana 2 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2040293909713359284) · 91 赞，统计于 2026-10-29
+
+[`fitness`](tags.md#tag-fitness) [`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait) [`gym`](tags.md#tag-gym)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic three-panel vertical collage featuring a fit young man in a dark underground gym, shirtless, wearing black Gymshark athletic shorts. In the top panel, he is captured from behind, standing under a single dim overhead light, revealing a deeply defined back and shoulders with shadows cutting across his muscles. In the middle panel, he faces forward in a mirror, performing a slow controlled flex, showcasing sharp abs, chest, and arms with a powerful, intense presence. In the bottom panel, he is shown in a low-angle close-up, leaning forward with hands on his knees, breathing heavily after a set, sweat dripping onto the floor. His messy medium-length dark hair is damp and partially covering his eyes, giving a raw, focused, and slightly aggressive expression.
+
+The environment is gritty with concrete walls, exposed pipes, and minimal lighting, enhanced by subtle fog and dust particles in the air. A single harsh light source creates deep shadows and dramatic contrast, emphasizing muscle definition. Blurred old-school gym equipment in the background, shallow depth of field, ultra-realistic skin texture, editorial underground fitness photography style. 4K resolution, hyper-realistic, cinematic film still, high-contrast dark color grading, 100% same face as reference photo, vertical 9:16 composition, slightly zoomed-in framing.
+```
+
+</details>
+
+<a id="nano-banana-floating-gyoza-ponzu-splash"></a>
+### 漂浮的煎饺与酱汁飞溅
+
+<a href="https://x.com/Ozayrr_irl/status/2054043869512184255"><img src="../../previews/nano-banana-floating-gyoza-ponzu-splash.jpg" width="360"></a>
+
+用微距摄影的细节描述（焦痕、油泡、褶皱、蒸汽轨迹）让食物看起来真实，单束低角度侧光在金棕色背景上拉出长阴影。为每个元素单独写明空中的位置和运动，模型就能清楚理解悬浮构图。
+
+Nano Banana 2 · 文生图 · 出处: [@Ozayrr_irl on X](https://x.com/Ozayrr_irl/status/2054043869512184255) · 81 赞，统计于 2026-10-29
+
+[`food-photography`](tags.md#tag-food-photography) [`floating`](tags.md#tag-floating) [`gyoza`](tags.md#tag-gyoza) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic ultra-detailed floating food photography shot — a dozen pan-fried gyoza dumplings exploding outward in zero gravity, each dumpling showing its perfectly crispy golden-brown bottom crust with visible char marks and oil bubbles still sizzling under macro lens, several gyoza cracked open mid-air revealing juicy pork and cabbage filling with steam escaping in slow wispy trails catching warm side light, the iconic pleated fold edges of each dumpling showing every individual crimp in perfect detail, ponzu dipping sauce erupting from a small bowl in dramatic curved splash arcs frozen mid-air the liquid so clear you can see light refracting through it, sesame oil droplets suspended individually glowing amber in the spotlight beam, thin-sliced green onion rounds orbiting the composition like confetti, chili flakes drifting like tiny red sparks, warm golden-brown background with dramatic low side lighting creating long shadows behind every dumpling, OzairAI subtly stamped into the dark shadow zone of the background. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.
 ```
 
 </details>
@@ -701,6 +945,178 @@ A hyper-realistic photograph captures a sequential moment across two side-by-sid
 ​In the left frame, a young man in a red hoodie and jeans is kneeling on a wooden floor, his hand outstretched with a look of pure astonishment. He is gazing at a massive, floor-standing comic book titled 'ASCENSION #1: THE RIFT' that has come to life. The pages are actively illuminated, and an electric blue energy portal is pulsing violently through the right-hand page.
 ​The right frame shows the immediate aftermath of that discovery. The same young man, maintaining the identical smile and attire, has now completely emerged from the pulsing blue portal and is standing on the bedroom floor in mid-stride, stepping confidently away from the giant book and into the reality of the room. He is smiling.
 ​The environment in both frames is a cozy bedroom filled with memorabilia, including multiple vintage superhero posters (Silver Surfer, Doctor Strange), a full bookshelf, and a glowing bedside lamp. The lighting is dominated by the magical, cyan energy of the portal, which casts long shadows across the textured floor.
+```
+
+</details>
+
+<a id="nano-banana-alley-girl-anime-graffiti-mural"></a>
+### 黑色皮衣女子站在动漫涂鸦墙前
+
+<a href="https://x.com/AiwithLariab/status/2049813446620033198"><img src="../../previews/nano-banana-alley-girl-anime-graffiti-mural.jpg" width="360"></a>
+
+把壁画写成与真人姿势呼应的第二个主体，模型会把两者当作同一画面来构图。明确点出真人三维与二维动漫的对比，并把固定文字放进壁画，让融合风格和名字都保持一致。
+
+Nano Banana 2 · 文生图 · 出处: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2049813446620033198) · 66 赞，统计于 2026-10-29
+
+[`street-fashion`](tags.md#tag-street-fashion) [`graffiti`](tags.md#tag-graffiti) [`anime-fusion`](tags.md#tag-anime-fusion) [`urban-editorial`](tags.md#tag-urban-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-high-definition full-body cinematic photograph of a confident young girl standing in a gritty, neon-accented urban alleyway, surrounded by textured concrete walls, subtle grime, layered graffiti tags, and atmospheric depth. The environment blends raw street realism with stylized cinematic polish, creating a bold, high-impact visual. She stands in a strong power pose—one leg slightly forward, arms crossed with attitude, chin slightly raised, projecting confidence and presence. Her hair is natural, voluminous, softly wind-swept, adding motion and energy to the frame. Outfit ( Street-Couture – Completely ): She is styled in a high-end street- fashion ensemble, replacing casual denim with a  editorial look: A cropped designer leather or satin bomber jacket with subtle sheen and tailored structure A fitted  inner top (silk, stretch knit, or minimalist high-end fabric) High-waisted tailored trousers or sleek leather pants with a sharp, clean silhouette Optional layering detail: belt with metallic accent or subtle branding-style buckle Color direction options (choose one for variation): Black & gold (ultra-) Deep red & black (bold cinematic) Ivory & champagne metallic (soft )  Styling Details: Eyewear: Sleek designer sunglasses with tinted lenses and  frames (adds attitude + modern vibe) Watch: A  wristwatch (metal strap, minimalist dial, polished finish—clearly ) Footwear: High-end designer sneakers or  ankle boots, clean and sharply styled (no casual/basic look) Optional jewelry: subtle (small studs or minimal chain for polish) Signature Visual Element (Anime Graffiti Fusion): Behind her is a massive, highly detailed anime-style graffiti mural that mirrors her exact pose and personality: The mural depicts her as a stylized manga/anime character, with bold linework and dynamic shading The artwork includes vibrant orange flames, glowing accents, and stylized city skyscrapers in the background The name “LARIAB” is integrated in bold graffiti typography with a street-art edge Add subtle spray paint splatter, drips, and layered textures for realism The contrast between hyper-realistic girl (3D) and vivid 2D anime mural creates a powerful visual fusion. Lighting & Cinematic Effects: Dramatic cinematic lighting setup with a mix of: Soft natural key light on the subject Neon accent lights (orange/red tones from mural reflections) Subtle rim lighting for separation Add light haze, dust particles, and glow reflections for atmosphere Shot on 35mm lens, shallow depth of field, subject in crisp focus, background slightly softened Surface & Texture Detail: Ultra-detailed textures on clothing (leather grain, fabric weave, metallic reflections) Realistic skin tones and natural highlights High contrast between gritty alley textures and clean  styling Branding Detail: Add a subtle yet  watermark text “Lariab Fatima” integrated naturally into the scene: Option 1: bottom corner in elegant typography Option 2: blended into the wall graffiti or ground reflection Ensure it feels stylish and non-intrusive Style Keywords: ultra-realistic, cinematic, 8K resolution, HDR,  street fashion, urban editorial, anime fusion, graffiti art, volumetric lighting, high contrast, depth-rich composition, viral concept, hyper-detailed textures
+```
+
+</details>
+
+<a id="nano-banana-soldier-painting-pink-flower-ruins"></a>
+### 士兵在废墟中绘制粉色花朵
+
+<a href="https://x.com/tanzeel617919/status/2064903529131876825"><img src="../../previews/nano-banana-soldier-painting-pink-flower-ruins.jpg" width="360"></a>
+
+把硬核战地场景与温柔的绘画动作放在一起形成对比，故事感由此而来。85mm、f/1.8、平视取景和逆光轮廓光让画面呈现纪实摄影质感。
+
+Nano Banana 2 · 文生图 · 出处: [@tanzeel617919 on X](https://x.com/tanzeel617919/status/2064903529131876825) · 66 赞，统计于 2026-10-29
+
+[`war-zone`](tags.md#tag-war-zone) [`portrait`](tags.md#tag-portrait) [`cinematic`](tags.md#tag-cinematic) [`contrast`](tags.md#tag-contrast)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cinematic war-zone photography, a battle-worn military soldier kneeling on one knee amidst the rubble of a destroyed city street, peacefully painting a large delicate pink flower on a canvas mounted on a weathered wooden easel. The soldier wears dusty tan combat fatigues, tactical gear, utility pouches, and a rugged field uniform stained with dirt and ash. His short blond undercut hairstyle is slightly messy, and his face shows deep concentration as he carefully applies paint with a fine brush.
+The environment contrasts destruction and beauty: shattered concrete, debris, broken bricks, scattered equipment, and smoldering fires glowing softly in the blurred background. The canvas features an expressive, highly detailed pink flower with thick painterly textures and rich brushstrokes. Warm sunset light filters through the ruined urban canyon, creating dramatic rim lighting on the soldier and easel.
+Shallow depth of field, creamy cinematic bokeh, photorealistic skin texture, realistic fabric folds, ultra-detailed military equipment, atmospheric smoke, emotional storytelling, symbolism of hope and creativity amid conflict, documentary-style composition, eye-level perspective, 85mm lens, f/1.8, HDR, volumetric lighting, muted earth-tone color grading with soft pink highlights, award-winning photojournalism, masterpiece quality, ultra-sharp focus on the soldier and painting, 8K resolution.
+```
+
+</details>
+
+<a id="nano-banana-supermarket-cart-maltese"></a>
+### 男子推购物车与马尔济斯犬逛超市
+
+<a href="https://x.com/AiWithTariq/status/2071038196461212153"><img src="../../previews/nano-banana-supermarket-cart-maltese.jpg" width="360"></a>
+
+先上传参考照片并明确锁定面部身份，再按主体、道具、环境、光线、相机参数的顺序描述画面，例如索尼 A7R V、35mm 镜头和 f/2.8。居中全身构图并要求两辆购物车都可见，让画面保持平衡。
+
+Nano Banana 2 · 上传图改图 · 出处: [@AiWithTariq on X](https://x.com/AiWithTariq/status/2071038196461212153) · 65 赞，统计于 2026-10-29
+
+[`identity-lock`](tags.md#tag-identity-lock) [`supermarket`](tags.md#tag-supermarket) [`pet`](tags.md#tag-pet) [`lifestyle`](tags.md#tag-lifestyle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Gpt Image 2 | Nano banana 2 | Grok | Gemini Prompt 👇
+
+Use the uploaded reference image as the face and identity reference for the man. Preserve his exact facial identity, facial structure, eyes, nose, lips, eyebrows, hairstyle, skin tone, proportions, expression style, and overall recognizable appearance. Do not alter his identity.
+
+Create an ultra-realistic lifestyle photograph inside a bright, modern premium supermarket. The man is standing confidently between two shopping carts in the fresh produce section, smiling naturally at the camera. He wears a fitted white crew-neck T-shirt layered with a light blue casual overshirt, light-wash straight-leg jeans, clean white sneakers, and a premium stainless-steel wristwatch. A simple crossbody sling bag hangs naturally across his shoulder, giving him a stylish yet relaxed everyday look.
+
+One shopping cart is filled with colorful groceries including fresh vegetables, fruits, bread, bottled water, snacks, flowers, and household essentials. The second shopping cart is customized for his adorable fluffy white Maltese dog, comfortably seated on a soft beige cushion while wearing a cute blue gingham bandana. The man gently pets the dog with one hand while holding the grocery cart with the other. The dog looks happily toward the camera with bright expressive eyes and a joyful open-mouth smile.
+
+The supermarket features beautifully organized produce displays overflowing with apples, oranges, bananas, pineapples, leafy greens, and colorful flowers. Large refrigerators line the background, polished reflective floors create subtle reflections, warm pendant lighting hangs from the ceiling, and the environment feels premium, clean, lively, and inviting.
+
+Composition: full-body portrait, centered framing, eye-level perspective, both shopping carts fully visible, balanced composition, relaxed confident posture, authentic candid lifestyle feeling.
+
+Lighting: soft diffused commercial indoor lighting, natural skin tones, realistic highlights, subtle shadows, premium retail ambiance.
+
+Camera: Sony A7R V, 35mm lens, f/2.8, ISO 200, ultra-sharp focus, shallow depth of field with softly blurred background.
+
+Style: luxury lifestyle photography, magazine editorial quality, photorealistic, HDR, extremely detailed skin texture, realistic hair strands, detailed clothing fabric, natural color grading, cinematic depth, ultra-high resolution, 8K, masterpiece, professional commercial photography.
+
+Negative Prompt: low quality, blurry, duplicate people, extra limbs, distorted anatomy, deformed hands, bad fingers, incorrect face, altered identity, cartoon, anime, CGI, painting, overprocessed skin, unrealistic lighting, watermark, logo, text, cropped body, motion blur, oversaturated colors, noise, artifacts.
+```
+
+</details>
+
+<a id="nano-banana-cyclist-coastal-selfie-golden-hour"></a>
+### 黄昏海岸公路骑行者自拍
+
+<a href="https://x.com/MrDasCreates/status/2028846886564856006"><img src="../../previews/nano-banana-cyclist-coastal-selfie-golden-hour.jpg" width="360"></a>
+
+广角前置自拍镜头配合浅景深和路面动态模糊，营造骑行的速度感。金色逆光勾出人物轮廓，珊瑚色与深蓝色的搭配让主体始终清晰突出。
+
+Nano Banana 2 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2028846886564856006) · 64 赞，统计于 2026-10-29
+
+[`selfie`](tags.md#tag-selfie) [`cycling`](tags.md#tag-cycling) [`golden-hour`](tags.md#tag-golden-hour) [`coastal`](tags.md#tag-coastal)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "image_type": "photorealistic smartphone selfie / action portrait",
+  "scene": "outdoor biking photoshoot on a scenic coastal road at golden hour",
+  "subject": {
+    "description": "fit young woman in her mid-20s, sun-kissed skin with natural glow, light freckles across nose and cheeks",
+    "hair": "long wavy blonde hair slightly tousled by wind, few loose strands blowing across face, secured partially with a loose ponytail",
+    "expression": "confident joyful smile, eyes looking directly at camera (selfie angle), subtle squint from bright sunlight",
+    "pose": "leaning slightly forward over handlebars of a sleek gravel bike, one hand gripping handlebar, other arm extended holding phone for selfie, shoulders relaxed, dynamic but natural riding posture"
+  },
+  "outfit": {
+    "top": "form-fitting lightweight cycling jersey in soft pastel coral with subtle mesh panels, short sleeves, small brand logo on chest",
+    "bottom": "high-waisted padded cycling bib shorts in deep navy, clean lines",
+    "accessories": "stylish wrap-around cycling sunglasses (mirrored rose-gold lenses), small stud earrings, thin sports watch",
+    "shoes": "white cycling shoes with subtle colorful accents"
+  },
+  "bike": "modern carbon gravel bike, matte olive green frame with cream accents, wide tires, drop bars, small saddle bag, clean minimalist look",
+  "environment": {
+    "location": "winding coastal cliffside road, ocean to the right, golden-hour sunlight raking across scene",
+    "foreground": "slightly blurred handlebars and front wheel, natural bokeh from phone lens",
+    "background": "dramatic golden ocean horizon, distant rugged cliffs, warm sky with soft pink-orange clouds, gentle motion blur on distant scenery suggesting speed",
+    "atmosphere": "breezy, adventurous, carefree summer evening ride vibe"
+  },
+  "lighting": {
+    "time_of_day": "golden hour — warm sunset light coming from slightly behind and to the side",
+    "effects": "rich golden rim light in hair and shoulders, soft warm highlights on skin and jersey, gentle lens flare from low sun, long soft shadows on road"
+  },
+  "camera_simulation": {
+    "perspective": "classic front-facing smartphone selfie angle (slight wide distortion at edges, natural close-up feel)",
+    "lens": "equivalent to 26–28mm full-frame (mild wide), f/1.8–f/2.0 look",
+    "depth_of_field": "shallow — sharp face and upper body, progressive blur toward bike and background",
+    "quality": "ultra-detailed skin texture, realistic sweat微 beads from ride, natural imperfections, high dynamic range, subtle chromatic aberration and lens vignette for authenticity"
+  },
+  "mood": "empowered, free-spirited, radiant summer energy, adventurous yet relaxed",
+  "color_palette": "warm golds, soft corals, deep ocean blues, creamy highlights, rich sunset oranges",
+  "technical": {
+    "resolution": "ultra high detail, 8K equivalent",
+    "style": "hyper-photorealistic, smartphone candid aesthetic, no artificial perfection",
+    "grain": "very light natural grain for realism",
+    "text": "none"
+  }
+}
+```
+
+</details>
+
+<a id="gpt-image-rain-couple-train-platform-farewell"></a>
+### 雨中列车铁栏窗边的女子与伸手的湿透男子
+
+<a href="https://x.com/Redchili105/status/2072588248963055715"><img src="../../previews/gpt-image-rain-couple-train-platform-farewell.jpg" width="360"></a>
+
+提示词将镜头固定在站台的平视位置，透过车窗同时框住两人，并以两人之间的伸手动作定义情绪节拍。负面提示列出了常见的面部与肢体错误以便抑制。
+
+GPT Image 2 · 文生图 · 出处: [@Redchili105 on X](https://x.com/Redchili105/status/2072588248963055715) · 61 赞，统计于 2026-10-29
+
+[`cinematic`](tags.md#tag-cinematic) [`rain`](tags.md#tag-rain) [`train-platform`](tags.md#tag-train-platform) [`couple`](tags.md#tag-couple)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Title
+Rain Couple: Emotional Train Platform Farewell
+Subject
+Ultra-realistic cinematic emotional farewell of a South Asian couple at an old Indian railway platform during a heavy monsoon rainstorm, with strict character consistency and photorealistic quality.
+Main Scene
+A heartbreaking yet beautiful farewell unfolds as an old train prepares to depart in a torrential monsoon. The woman is inside a vintage train compartment, leaning against the barred open window with one trembling hand pressed to the iron bars, desperately trying to reach the man outside. She wears a flowing peacock teal-blue georgette saree with the pallu loosely draped, rain-dampened dark hair clinging to her cheeks, tear-filled expressive eyes, and a sorrowful yet loving expression. Outside on the rain-soaked platform, the man stands completely drenched, reaching toward her with deep emotion, his face filled with longing and heartbreak.
+Character Lock
+Maintain 99–100% facial identity preservation with the reference images. Do not alter facial structure, skin tone, hairstyle, or proportions. The man has curly messy bedhead black hair, natural light beard, expressive eyes, and realistic wet skin. Both characters must remain fully recognizable.
+Environment
+Vintage Indian railway platform, old passenger train with weathered barred windows, heavy monsoon rain, puddles reflecting station lights, misty atmosphere, steam, dramatic clouds, realistic water splashes, cinematic depth, emotional ambiance.
+Camera & Composition
+Medium cinematic shot from the platform, framing both characters through the train window, eye-level perspective, shallow depth of field, natural composition, intense emotional storytelling.
+Lighting
+Soft overcast monsoon daylight mixed with warm train interior glow, realistic wet reflections, diffused rain light, volumetric atmosphere, subtle rim lighting.
+Quality & Style
+Ultra-realistic, hyper-detailed, cinematic photography, HDR, 8K, DSLR realism, natural skin texture, realistic rain physics, lifelike wet fabric, emotional storytelling, award-winning composition, masterpiece, sharp focus.
+Negative Prompt
+Low quality, blurry, cartoon, CGI, anime, extra fingers, extra limbs, duplicate people, distorted face, altered identity, incorrect hairstyle, oversaturated colors, unrealistic rain, bad anatomy, watermark, logo, text, frame, artifacts, cropped composition.
 ```
 
 </details>

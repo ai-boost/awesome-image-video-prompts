@@ -1,0 +1,24 @@
+id: nano-banana-floating-gyoza-ponzu-splash
+title:
+  en: Floating pan-fried gyoza with ponzu splash
+  zh: 漂浮的煎饺与酱汁飞溅
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- food-photography
+- floating
+- gyoza
+- macro
+source:
+  name: '@Ozayrr_irl on X'
+  url: https://x.com/Ozayrr_irl/status/2054043869512184255
+  credit: Ozair AI
+  likes: 81
+  captured: '2026-10-29'
+  posted: '2026-05-12'
+notes:
+  en: Macro language for each part (char marks, oil bubbles, pleat crimps, steam trails) keeps the food believable, while one warm low side light casts long shadows across the golden background. Giving every element its own position and motion in the air sets a clear floating layout.
+  zh: 用微距摄影的细节描述（焦痕、油泡、褶皱、蒸汽轨迹）让食物看起来真实，单束低角度侧光在金棕色背景上拉出长阴影。为每个元素单独写明空中的位置和运动，模型就能清楚理解悬浮构图。
+prompt: |
+  A cinematic ultra-detailed floating food photography shot — a dozen pan-fried gyoza dumplings exploding outward in zero gravity, each dumpling showing its perfectly crispy golden-brown bottom crust with visible char marks and oil bubbles still sizzling under macro lens, several gyoza cracked open mid-air revealing juicy pork and cabbage filling with steam escaping in slow wispy trails catching warm side light, the iconic pleated fold edges of each dumpling showing every individual crimp in perfect detail, ponzu dipping sauce erupting from a small bowl in dramatic curved splash arcs frozen mid-air the liquid so clear you can see light refracting through it, sesame oil droplets suspended individually glowing amber in the spotlight beam, thin-sliced green onion rounds orbiting the composition like confetti, chili flakes drifting like tiny red sparks, warm golden-brown background with dramatic low side lighting creating long shadows behind every dumpling, OzairAI subtly stamped into the dark shadow zone of the background. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.

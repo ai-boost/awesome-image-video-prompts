@@ -1,0 +1,24 @@
+id: gpt-image-hand-drawn-isometric-london-map
+title:
+  en: Hand drawn isometric London map with landmarks
+  zh: 手绘等距伦敦地图标注主要地标
+model: GPT Image 2
+mode: text-to-image
+category: map
+tags:
+- isometric
+- hand-drawn
+- city-map
+- pen-and-ink
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2066204461270224942
+  credit: TechieSA
+  likes: 168
+  captured: '2026-10-29'
+  posted: '2026-06-14'
+notes:
+  en: The prompt uses a [CITY] slot with a bird's eye viewpoint, so one template can produce a map of any city. Naming the pen and ink editorial style, a warm muted palette and a white background sets the look, while asking for labeled landmarks, streets, rivers and parks gives the map a clear legend-style structure.
+  zh: 提示词使用 [CITY] 占位符并指定鸟瞰视角，同一模板可生成任意城市的地图。笔墨编辑插画风格、暖色低饱和配色与白色背景共同定调，并要求标注地标、街道、河流和公园，使地图具有清晰的图例式结构。
+prompt: |
+  “A detailed hand-drawn isometric illustrated map of [CITY], pen-and-ink editorial style, bird’s eye view, featuring iconic landmarks, streets, rivers and parks labeled in clean typography, warm muted color palette, white background, 1080x1080.”

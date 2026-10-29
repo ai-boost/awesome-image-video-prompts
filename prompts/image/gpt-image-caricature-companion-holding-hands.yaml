@@ -1,0 +1,26 @@
+id: gpt-image-caricature-companion-holding-hands
+title:
+  en: Realistic man holding hands with his 3D caricature
+  zh: 写实男子与自己的3D卡通版牵手
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- 3d-caricature
+- pixar-style
+- photo-composite
+- companion
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2065384202376556927
+  credit: Nexora
+  likes: 372
+  captured: '2026-10-29'
+  posted: '2026-06-12'
+notes:
+  en: The prompt keeps the real subject photorealistic and asks for a stylized copy with the same outfit, hairstyle and attitude, so the two read as one person. Naming concrete interactions like holding hands and setting the caricature at shoulder to ear height stops it from becoming a side mascot.
+  zh: 提示词保持真人写实不变，同时生成穿着相同服装、发型和神态的卡通版本，让两者看起来是同一个人。明确指定牵手等互动动作，并把卡通角色的身高设定在肩到耳之间，避免它变成旁边的吉祥物。
+prompt: |
+  Create a premium high-quality 3D caricature companion of the person in the reference image while keeping the original realistic person fully present and untouched. The realistic person must remain photorealistic, highly detailed and faithful to the original photo. Create a stylized 3D caricature version of the SAME person standing beside them. Preserve the same: outfit, hairstyle, accessories, fashion styling, identity, facial resemblance, attitude and vibe.The caricature must have: large expressive eyes, slightly oversized head, smooth cinematic skin, Pixar/Disney-inspired premium 3D styling, smaller body proportions, but still look fashionable and recognizable, NOT childish, toy-like or baby-sized.IMPORTANT: The caricature height should be approximately shoulder to ear level of the real person, never tiny or child-sized. The caricature and real person must be physically and emotionally interacting naturally. Examples of interaction: holding hands, looking at each other, walking together,
+
+  sharing an object, leaning, playful pose, touching shoulder, mirroring pose, reacting to each other, casual chemistry, candid companionship. The caricature should feel like a living animated version of the same person existing in the same world. Preserve original scene, lighting and perspective whenever possible. Professional photography composition,  cinematic lighting, realistic shadows, luxury editorial realism mixed with premium stylized 3D animation. No tiny companion, no side mascot, no disconnected pose, no separate standing character, no toy proportions, no plastic doll look, no replacing the original person.

@@ -1,0 +1,34 @@
+id: gpt-image-barcelona-isometric-diorama-poster
+title:
+  en: Barcelona city tile diorama on plain studio background
+  zh: 巴塞罗那城市瓷砖微缩模型海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- isometric
+- diorama
+- tilt-shift
+- city-map
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2089361378242879538
+  credit: TechieSA
+  likes: 693
+  captured: '2026-10-29'
+  posted: '2026-08-17'
+notes:
+  en: A fill-in [CITY] slot turns the prompt into a reusable template for a whole series. The explicit tile geometry (45 to 50 degree high angle, diamond orientation, thin dark wood slab edge) makes the scene read as a physical scale model, and the reserved upper third holds a three-line type block.
+  zh: 用 [CITY] 占位符把提示词做成可复用的系列模板。明确的瓷砖几何（45至50度俯视、菱形朝向、薄深色木边）让场景读起来像实体比例模型，上三分之一留给三行排版文字。
+prompt: |
+  Simply replace [CITY]:✨
+
+  "Ultra-detailed photorealistic isometric miniature scale-model diorama of [CITY], presented as a thin flat square tile resting on a pure off-white seamless studio background. The tile is a clean, precisely cut square slab with straight vertical edges revealing a thin band of dark wood/earth material along the sides — like a professionally built architectural model mounted on a display base. The tile is rotated so it reads as a diamond in perspective, viewed from a high isometric angle of roughly 45–50° looking down, with the front corner of the slab pointing toward the lower part of the frame.
+
+  The entire top surface is filled edge to edge with a meticulously accurate miniature recreation of the city's real urban fabric: the actual street grid and road layout, real residential blocks with correct local architecture and rooftop materials, the city's most recognizable landmarks in their true relative positions and true-to-life scale (never exaggerated), plazas, parks, tree-lined boulevards, rivers or coastline if the city has them, bridges, and any major stadium or arena. Include dense micro-detail: individual parked cars, moving traffic, buses, tiny pedestrians in plazas, street lamps, awnings, rooftop AC units, construction cranes, parking lots with rows of cars, boats in water if applicable. Every tree is individually modeled. Roads show painted lane markings and crosswalks.
+
+  Rendering style: hyper-realistic tilt-shift miniature photography look — extremely sharp, high resolution, everything in focus across the whole tile, no blur. Bright, soft, even daylight studio lighting from above with gentle diffuse shadows, no harsh contrast, no dramatic side lighting. Natural saturated color: green pitches and parks, terracotta and stone rooftops, blue water, grey asphalt. Clean and premium.
+
+  Layout: the diorama occupies the lower two-thirds of the frame. The upper third is empty off-white negative space containing minimalist editorial typography, centered and small relative to the frame: a small line of wide-tracked small caps at the very top, then directly below the city name in a bold condensed sans-serif display font in dark charcoal grey (large but not full-bleed — restrained), then a line of small wide-tracked small caps below that with a short subtitle or region name. Generous white space between the typography block and the top edge of the diorama.
+
+  Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio."

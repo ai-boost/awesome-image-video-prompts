@@ -1,0 +1,33 @@
+id: nano-banana-gym-journey-nine-frame-collage
+title:
+  en: Nine frame collage of a gym commute by bike
+  zh: 九宫格照片讲述骑车往返健身房的一天
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- collage
+- storytelling
+- fitness
+- consistency
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2039913444636590424
+  credit: Synthia
+  likes: 92
+  captured: '2026-10-29'
+  posted: '2026-04-03'
+notes:
+  en: Numbered frame-by-frame beats with a fixed face, hairstyle and outfit let the model carry one character across all nine cells. Lighting cues per frame, such as morning sun and golden hour, drive the story arc as much as the actions do.
+  zh: 按编号逐帧描述场景，并固定人物的脸部、发型和服装，使模型在九个画面中保持同一角色。每帧的光线提示，如晨光和黄金时段，与动作描述一样推动故事走向。
+prompt: |
+  Ultra-realistic cinematic 9-photo collage collection telling a complete fitness journey story of a young athletic woman traveling from her home to the gym and returning back home, each frame showing a different scene and progression, strong visual storytelling, consistent character identity across all images (same face, same hairstyle, same gym outfit), natural body proportions, photorealistic skin texture, lifestyle editorial photography, no CGI, no illustration, ultra-detailed, 8K resolution.
+  Frame 1: Inside her bedroom, she prepares for the gym, adjusting her workout clothes in front of a mirror, soft morning sunlight entering through the window, calm focused mood.
+  Frame 2: At the home entrance, she picks up her gym bag and opens the door, natural indoor lighting, realistic home interior, storytelling beginning.
+  Frame 3: Outside her house, she boards her bicycle, one foot on the pedal, preparing to ride, residential street background, cinematic morning light.
+  Frame 4: She rides the bicycle on the street toward the gym, side-angle action shot, natural motion blur, dynamic composition, urban environment.
+  Frame 5: She arrives at the gym exterior and parks her bicycle near the entrance, modern gym building with glass facade, confident expression, realistic reflections.
+  Frame 6: Inside the gym, she performs an exercise such as lifting dumbbells or doing squats, focused expression, visible effort, professional gym environment, dramatic lighting.
+  Frame 7: She takes a break and drinks water from a bottle, slightly sweaty, natural post-workout moment, blurred gym equipment background, candid realism.
+  Frame 8: She exits the gym and walks toward her bicycle, carrying her gym bag, relaxed and satisfied expression, warm evening light, cinematic atmosphere.
+  Frame 9: She rides her bicycle back toward home during golden hour sunset, peaceful and relaxed mood, cinematic street scene, storytelling conclusion.

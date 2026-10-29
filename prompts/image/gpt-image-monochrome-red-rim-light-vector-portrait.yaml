@@ -1,0 +1,30 @@
+id: gpt-image-monochrome-red-rim-light-vector-portrait
+title:
+  en: Monochrome comic woman with red neon hair rim light
+  zh: 黑白漫画女性与红色霓虹发丝边缘光
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- monochrome
+- neon-rim-light
+- comic-style
+- vector
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2064539506305561076
+  credit: Noor
+  likes: 344
+  captured: '2026-10-29'
+  posted: '2026-06-10'
+notes:
+  en: Limiting the palette to black, white and one red neon rim light keeps the piece graphic while the red edge separates the hair and shoulders from the black background. Spelling out the garment layering and accessories fixes the wardrobe so the cel-shaded forms stay readable.
+  zh: 将配色限定为黑、白和一种红色霓虹边缘光，让画面保持平面图形感，同时红光把发丝和肩部从黑色背景中分离出来。明确服装叠穿顺序和配饰，使赛璐璐式的色块形态保持清晰。
+prompt: |
+  Transform the subject into a striking high-contrast monochrome vector portrait, rendered in a premium black-and-white comic book illustration style with crisp cel-shading, bold geometric shapes, and ultra-clean vector linework. Preserve the subject's facial features, hairstyle, expression, and overall likeness with high accuracy.
+
+  The subject is a stylish young woman with long flowing hair, wearing an open dark oversized shirt layered over a fitted white crew-neck T-shirt. She accessorizes with a minimalist square pendant necklace, elegant earrings, and a pair of fashionable sunglasses resting naturally on top of her head, seamlessly integrated into her hairstyle.
+
+  Illuminate the portrait with intense red neon rim lighting that traces the contours of her hair, face, shoulders, and clothing, creating a dramatic glow against the monochrome artwork. The red highlights should add depth, separation, and a futuristic cinematic atmosphere without overpowering the black-and-white design.
+
+  Set against a pure black background, emphasizing strong contrast and visual impact. Style the artwork with sharp vector edges, bold shadows, clean negative space, graphic-novel aesthetics, modern streetwear fashion energy, and premium poster-quality composition. Ultra-detailed yet minimalist, edgy, contemporary, visually powerful, and magazine-cover worthy. Strong confident female presence, cinematic attitude, luxury editorial feel, and flawless vector illustration quality.

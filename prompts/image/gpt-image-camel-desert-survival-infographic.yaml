@@ -1,0 +1,110 @@
+id: gpt-image-camel-desert-survival-infographic
+title:
+  en: Camel infographic with anatomy, water and diet panels
+  zh: 骆驼信息图，包含解剖、饮水与饮食模块
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- camel
+- wildlife
+- desert-survival
+- editorial
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2058567521398374880
+  credit: Jack
+  likes: 188
+  captured: '2026-10-29'
+  posted: '2026-05-24'
+notes:
+  en: Naming the full section list and palette up front makes the model build a modular card grid around one hero animal. Asking for thin callout lines to anatomical features keeps the high information density readable instead of cluttered.
+  zh: 先列出完整模块清单和配色，模型会围绕中央的骆驼主图搭出模块化卡片网格。要求用细标注线指向解剖特征，让高信息密度的版面仍然清晰可读。
+prompt: |
+  Create a premium square “reference-style wildlife infographic” centered around the camel, designed as a beautifully curated desert-survival handbook page rather than a basic educational poster.
+
+  The composition should feel like a modern visual encyclopedia mixed with an elite zoology field guide and high-end editorial infographic system.
+
+  Visual Direction:
+
+  • 1:1 square composition
+  • Warm desert-inspired background with subtle sand textures, faded expedition-map overlays, and natural-history sketch aesthetics
+  • Elegant earthy palette using sand beige, camel brown, warm ivory, dark mocha, bronze, and muted desert-gold accents
+  • Refined editorial typography hierarchy with natural-history aesthetics
+  • Rounded modular information cards with clean spacing
+  • Gentle realistic shadows and premium museum-style dividers
+  • Minimal scientific wildlife iconography
+  • Extremely detailed central camel render viewed in dramatic three-quarter perspective in a realistic desert environment during golden-hour lighting
+  • Thin precision annotation lines pointing toward anatomical survival adaptations
+  • Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+  Main Subject Presentation:
+
+  A stunning ultra-detailed realistic render of a camel placed at the center, featuring realistic fur textures, desert lighting, anatomical accuracy, expressive eyes, weathered skin detail, muscular legs, detailed hump structure, and premium wildlife-documentary realism.
+
+  Surround the camel with scientific callouts and magnified detail circles explaining:
+
+  • hump fat-storage system
+  • water-conservation adaptations
+  • broad desert feet structure
+  • long eyelashes and sand protection
+  • nostril-closing mechanism
+  • heat-resistance biology
+  • digestive system adaptations
+  • skeletal endurance structure
+  • desert locomotion efficiency
+  • behavioral survival traits
+
+  Include modular infographic sections such as:
+
+  • Camel Overview
+  • Scientific Classification
+  • Desert Survival Adaptations
+  • Anatomy Highlights
+  • Water Conservation System
+  • Diet & Digestion
+  • Life & Behavior
+  • Uses of Camels in Human Civilization
+  • Camel vs Horse Comparison
+  • Foot Structure & Desert Mobility
+  • Camel Milk & Nutritional Value
+  • Baby Camel Development
+  • Geographic Distribution Map
+  • “Did You Know?” Facts Section
+  • Conservation & Environmental Importance
+
+  Add small premium visualization modules like:
+
+  • anatomical skeletal diagrams
+  • desert habitat maps
+  • digestive-system illustrations
+  • camel footprint closeups
+  • water-retention workflow graphics
+  • heat-resistance visual charts
+  • survival adaptation callouts
+  • species comparison tables
+  • desert caravan silhouettes
+  • biological cross-section illustrations
+
+  Style Keywords:
+
+  “premium zoology encyclopedia”
+  “editorial desert wildlife handbook”
+  “museum-quality camel reference page”
+  “scientific animal infographic”
+  “high-end natural-history poster”
+  “modular wildlife knowledge system”
+  “ultra-detailed desert animal visualization”
+  “luxury biology editorial design”
+
+  Avoid:
+
+  • cartoon camel aesthetics
+  • overly colorful tourist-poster looks
+  • cluttered infographic layouts
+  • fantasy desert creatures
+  • unrealistic anatomy
+  • exaggerated cinematic action scenes
+
+  The final result should resemble a professionally published natural-history reference-book page created for wildlife enthusiasts, zoologists, museums, biology institutions, desert researchers, and educational archives.

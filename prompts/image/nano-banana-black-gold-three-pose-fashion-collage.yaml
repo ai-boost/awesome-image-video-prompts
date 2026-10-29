@@ -1,0 +1,39 @@
+id: nano-banana-black-gold-three-pose-fashion-collage
+title:
+  en: Man in three poses on black and gold poster
+  zh: 黑金海报中同一男子的三种姿态
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- fashion
+- collage
+- poster
+- reference-face
+source:
+  name: '@DilshadAI1 on X'
+  url: https://x.com/DilshadAI1/status/2075045041287168048
+  credit: Dilshad Hussain
+  likes: 66
+  captured: '2026-10-29'
+  posted: '2026-07-09'
+notes:
+  en: Each panel gets its own pose, wardrobe and lighting cue, while the reference face is locked as the single identity anchor. A fixed palette of black, white and gold with rim light keeps the three crops reading as one magazine cover.
+  zh: 为每个画面分别指定姿态、服装和光线，同时以参考照片锁定同一张脸作为身份依据。固定的黑白金配色加上轮廓光，让三个构图看起来像同一本杂志封面。
+prompt: |
+  GPT Image 2 | Nano Banana 2 | Grok | Gemini Prompt 👇
+
+  Using uploaded face 100% realistic.
+  Create a high-end cinematic fashion poster collage featuring the same young South Asian man from the reference photo, keeping his face highly accurate, natural, and consistent across all portraits. Vertical 9:16 composition, luxury black-and-gold editorial style.
+
+  Create three versions of the same man:
+
+  1. Left side: a large dramatic close-up side-profile portrait wearing stylish black rectangular sunglasses, looking toward the right. Neatly styled thick black hair, trimmed beard and mustache, confident expression.
+
+  2. Right side: a large close-up front-facing portrait without sunglasses, looking directly at the camera with a subtle confident smile. One hand resting near the chin, showing a premium black wristwatch.
+
+  3. Center foreground: full-body walking pose on a glowing wooden pathway, walking confidently toward the camera. He is wearing a luxury black tuxedo blazer with satin lapels, black turtleneck shirt, black fitted trousers, black formal shoes, black sunglasses, and a stylish wristwatch. One hand in trouser pocket and the other hand adjusting the blazer.
+
+  Background: white and light gray studio backdrop with dramatic black ink splashes, paint brush strokes, smoky textures, white paint splatters, golden glowing light behind the center figure, cinematic rim light, luxury magazine cover style. Add subtle golden sparks and a glowing pathway perspective at the bottom.
+
+  Ultra-realistic face, realistic skin texture, sharp hairstyle, professional DSLR photography, high contrast, black, white and gold color palette, dramatic lighting, fashion editorial poster, 8K, HDR, highly detailed, no text, no logo, no watermark.

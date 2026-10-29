@@ -1,0 +1,24 @@
+id: gpt-image-teal-duotone-say-hello-fashion-poster
+title:
+  en: Teal duotone fashion poster with SAY HELLO doodles
+  zh: 青绿底黑白时尚海报配 SAY HELLO 涂鸦
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- fashion
+- duotone
+- doodles
+- portrait
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2067194751686709567
+  credit: Zar⭕on
+  likes: 246
+  captured: '2026-10-29'
+  posted: '2026-06-17'
+notes:
+  en: Naming the uploaded portrait as the reference and fixing the palette as a black and white duotone on a solid teal ground locks both the subject and the colours. Listing each doodle, the handwritten text and a centred mid thigh crop gives the layout a clear structure.
+  zh: 以上传的人像作为参考，并把画面固定为纯色青绿底的黑白双色调，同时锁定主体与配色。逐项列出涂鸦元素、手写文字和居中的中大腿截取构图，让版面结构清晰。
+prompt: |
+  Create a trendy 3:4 vertical fashion poster using the uploaded portrait as reference. Convert the subject to high-contrast black-and-white duotone on a solid bright teal background. Keep stylish hair, beard, and a confident editorial pose. Dress him in an oversized double-breasted plaid wool overcoat over a ribbed turtleneck sweater, hands in pockets. Add playful white hand-drawn doodles (crown, stars, planets, dotted circles, motion lines, brush swooshes) around the figure. Include bold handwritten text “SAY HELLO” with a small doodle mustache underneath. Modern streetwear-meets-collage fashion magazine aesthetic, clean composition, centered mid-thigh crop.

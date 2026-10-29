@@ -1,0 +1,29 @@
+id: nano-banana-mauve-boucle-strawberry-fashion-collage
+title:
+  en: Mauve boucle dress fashion collage with strawberry macro
+  zh: 暮紫色绒圈针织连衣裙时尚拼贴与草莓特写
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- fashion
+- studio
+- collage
+- macro
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2065466489210036682
+  credit: Sharon Riley
+  likes: 141
+  captured: '2026-10-29'
+  posted: '2026-06-12'
+notes:
+  en: Splitting the request into numbered panels, each with its own camera angle and pose, keeps every shot tied to one dress, backdrop and softbox setup. Naming the fabric and lighting once in a shared setting block lets the model carry them across all panels.
+  zh: 将请求拆分为编号分镜，并为每格指定机位与姿势，使每个画面都与同一套服装、背景和布光保持一致。在共享的场景段落中只写一次面料和光线，模型会把它们延续到每个分镜。
+prompt: |
+  Ultra-photorealistic 8K studio portrait collage of a woman with long, voluminous loose waves, natural glass-skin makeup, flushed cheeks, glossy pink lips, and defined lashes. She wears a tight bodycon mini dress made of soft textured boucle knit in soft mauve or neutral taupe, with spaghetti straps and a mid-thigh length.
+  Studio setting: Warm off-white seamless backdrop with professional studio lighting. Large softbox from the front-left, reflector fill from the right, creating soft shadows and natural highlights on the lips, cheekbones, shoulders, and dress texture.
+  Panel 1 (Top Left): Extreme close-up macro shot from a slightly low angle. Focus on lips and nose while delicately holding and eating a fresh strawberry. Shallow depth of field. Visible strawberry moisture, glossy lips, and fine baby hairs.
+  Panel 2 (Top Right): Medium thigh-up portrait at eye level. Standing and leaning slightly toward the camera with relaxed arms. Direct gaze and confident pout. Emphasis on dress texture, collarbone shadows, and waist shape.
+  Panel 3 (Bottom Left): Full-body seated side-profile shot. Sitting on the floor with knees drawn toward the chest, cheek resting gently on one knee. Soft, intimate mood with natural body positioning and elegant composition.
+  Style: Fashion editorial photography, luxury magazine quality, realistic skin pores, detailed fabric textures, ray-traced lighting, shallow depth of field, natural color grading, ultra-sharp focus, professional studio photography.

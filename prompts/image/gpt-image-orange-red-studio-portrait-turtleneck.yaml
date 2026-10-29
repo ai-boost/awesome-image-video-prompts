@@ -1,0 +1,24 @@
+id: gpt-image-orange-red-studio-portrait-turtleneck
+title:
+  en: Orange and red studio portrait in black turtleneck
+  zh: 橙红渐变背景下的黑色高领毛衣棚拍人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- studio-lighting
+- fashion
+- gradient-background
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2070714200306110845
+  credit: Aijaz
+  likes: 195
+  captured: '2026-10-29'
+  posted: '2026-06-27'
+notes:
+  en: Lighting is set as a named warm key and deep red rim pair, which drives the whole palette and the glow along the hair edge. Lens, aperture and sensor details with a tight head and shoulders frame push the result toward a magazine cover portrait.
+  zh: 提示词把暖橙主光和深红轮廓光成对指定，直接决定整体配色以及发丝边缘的光晕。镜头焦段、光圈和感光参数配合紧凑的半身构图，让画面更接近杂志封面人像。
+prompt: |
+  Ultra-photorealistic editorial fashion portrait of a beautiful young woman with straight blonde hair, piercing eyes, and an intense direct gaze, wearing a premium black high-neck turtleneck sweater. Tight head-and-shoulders close-up, shot from a slightly low angle to create a bold, heroic, commanding presence. Dramatic cinematic studio lighting with a warm orange key light and deep red rim lighting sculpting the face, emphasizing natural skin texture, pores, and fine facial detail while creating rich contrast and cinematic shadows. Clean seamless studio backdrop featuring a vivid orange-to-deep-red gradient background. Razor-sharp focus on the eyes, hyperrealistic skin detail, premium editorial fashion photography, luxury magazine cover aesthetic, ultra-detailed, 8K resolution, HDR, realistic color grading, soft falloff, subtle catchlights, professional medium-format camera, 85mm portrait lens, f/4, ISO 100, studio strobe lighting, high dynamic range, crisp details, minimal makeup, symmetrical composition, ultra-realistic, masterpiece quality, vertical 3:4 composition.

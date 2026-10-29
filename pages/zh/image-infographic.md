@@ -1,6 +1,6 @@
 # 信息图与幻灯片
 
-[返回目录](../../README_zh.md) · 全部 64 条
+[返回目录](../../README_zh.md) · 全部 68 条
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### 詹姆斯韦伯望远镜百科信息图卡片
@@ -896,6 +896,110 @@ Create a high-quality “Female Beauty & Makeup Analysis Guide” infographic ba
 
 </details>
 
+<a id="gpt-image-camel-desert-survival-infographic"></a>
+### 骆驼信息图，包含解剖、饮水与饮食模块
+
+<a href="https://x.com/j_smeaton99/status/2058567521398374880"><img src="../../previews/gpt-image-camel-desert-survival-infographic.jpg" width="360"></a>
+
+先列出完整模块清单和配色，模型会围绕中央的骆驼主图搭出模块化卡片网格。要求用细标注线指向解剖特征，让高信息密度的版面仍然清晰可读。
+
+GPT Image 2 · 文生图 · 出处: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2058567521398374880) · 188 赞，统计于 2026-10-29
+
+[`infographic`](tags.md#tag-infographic) [`camel`](tags.md#tag-camel) [`wildlife`](tags.md#tag-wildlife) [`desert-survival`](tags.md#tag-desert-survival) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium square “reference-style wildlife infographic” centered around the camel, designed as a beautifully curated desert-survival handbook page rather than a basic educational poster.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite zoology field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Warm desert-inspired background with subtle sand textures, faded expedition-map overlays, and natural-history sketch aesthetics
+• Elegant earthy palette using sand beige, camel brown, warm ivory, dark mocha, bronze, and muted desert-gold accents
+• Refined editorial typography hierarchy with natural-history aesthetics
+• Rounded modular information cards with clean spacing
+• Gentle realistic shadows and premium museum-style dividers
+• Minimal scientific wildlife iconography
+• Extremely detailed central camel render viewed in dramatic three-quarter perspective in a realistic desert environment during golden-hour lighting
+• Thin precision annotation lines pointing toward anatomical survival adaptations
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of a camel placed at the center, featuring realistic fur textures, desert lighting, anatomical accuracy, expressive eyes, weathered skin detail, muscular legs, detailed hump structure, and premium wildlife-documentary realism.
+
+Surround the camel with scientific callouts and magnified detail circles explaining:
+
+• hump fat-storage system
+• water-conservation adaptations
+• broad desert feet structure
+• long eyelashes and sand protection
+• nostril-closing mechanism
+• heat-resistance biology
+• digestive system adaptations
+• skeletal endurance structure
+• desert locomotion efficiency
+• behavioral survival traits
+
+Include modular infographic sections such as:
+
+• Camel Overview
+• Scientific Classification
+• Desert Survival Adaptations
+• Anatomy Highlights
+• Water Conservation System
+• Diet & Digestion
+• Life & Behavior
+• Uses of Camels in Human Civilization
+• Camel vs Horse Comparison
+• Foot Structure & Desert Mobility
+• Camel Milk & Nutritional Value
+• Baby Camel Development
+• Geographic Distribution Map
+• “Did You Know?” Facts Section
+• Conservation & Environmental Importance
+
+Add small premium visualization modules like:
+
+• anatomical skeletal diagrams
+• desert habitat maps
+• digestive-system illustrations
+• camel footprint closeups
+• water-retention workflow graphics
+• heat-resistance visual charts
+• survival adaptation callouts
+• species comparison tables
+• desert caravan silhouettes
+• biological cross-section illustrations
+
+Style Keywords:
+
+“premium zoology encyclopedia”
+“editorial desert wildlife handbook”
+“museum-quality camel reference page”
+“scientific animal infographic”
+“high-end natural-history poster”
+“modular wildlife knowledge system”
+“ultra-detailed desert animal visualization”
+“luxury biology editorial design”
+
+Avoid:
+
+• cartoon camel aesthetics
+• overly colorful tourist-poster looks
+• cluttered infographic layouts
+• fantasy desert creatures
+• unrealistic anatomy
+• exaggerated cinematic action scenes
+
+The final result should resemble a professionally published natural-history reference-book page created for wildlife enthusiasts, zoologists, museums, biology institutions, desert researchers, and educational archives.
+```
+
+</details>
+
 <a id="nano-banana-recipe-infographic-template"></a>
 ### 带编号步骤的香蕉奶昔食谱信息图
 
@@ -952,6 +1056,145 @@ Composition Guidelines: Ice cream scoops as hero visual with ingredients and ste
 Lighting & Background: Soft dessert-style lighting with minimal background.
 
 Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-three-character-lounge-storyboard-beat-sheet"></a>
+### 故事板分镜表含俯视机位图与镜头节拍
+
+<a href="https://x.com/Iancu_ai/status/2056374939846910108"><img src="../../previews/gpt-image-three-character-lounge-storyboard-beat-sheet.jpg" width="360"></a>
+
+结构化 JSON 把版面、机位编号、镜头参数和视线方向逐项写明，一张图即可承载完整的空间信息。结尾重复的圆桌三人站位约束，有助于各分格中人物位置保持一致。
+
+GPT Image 2 · 文生图 · 出处: [@Iancu_ai on X](https://x.com/Iancu_ai/status/2056374939846910108) · 154 赞，统计于 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`multi-character`](tags.md#tag-multi-character) [`shot-list`](tags.md#tag-shot-list) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+💎 The full GPT Image 2 Beat Sheet prompt. Open-sourced.
+{
+  "type": "professional film storyboard breakdown sheet, single-page production document layout",
+  "style": "Pixar/Disney feature-film quality 3D animated storyboard. All character panels and scene thumbnails rendered in Pixar 3D animation style with subsurface skin scattering, stylized proportions, cinematic warm lighting. The document layout itself is clean and structured: dark-grey header bar, white background, thin grey cell borders, professional film production aesthetic. All text labels in English.",
+
+  "header_bar": {
+    "position": "top, full width, dark charcoal background strip",
+    "text_items_in_a_row": "Project: Office Investigation | Scene: CEO's Office (Lounge) | Shots: 19-22 | Duration: 15s | Function: Emotional Bomb & Reversal | Arc: Guilt Erupts → Shock Reversal → Tearful Confession → Suspense Hook"
+  },
+
+  "layout": {
+    "top_left_block": {
+      "label": "Main Scene Reference (red bold text header)",
+      "content": "A single wide Pixar 3D rendered image of an executive lounge interior: a round dark oak table with three seats arranged around it — one is a wheelchair. A warm amber table lamp sits at center of the table casting the key light. Cool blue-grey natural light enters from a tall window on the right wall. Polished dark wood floor, warm honey-toned oak paneled walls. Three Pixar-style characters are seated: elderly silver-haired Margaret in her wheelchair on the far side, young chestnut-haired Sarah and middle-aged David in charcoal suit on the near side sitting side by side. Intimate, tense atmosphere."
+    },
+
+    "top_center_block": {
+      "label": "Overhead Camera Map (Lounge) — bold text header centered",
+      "content": "A clean top-down 2D schematic floorplan on white background. Round brown circle represents the table at center. Three labeled character positions as small circles: 'Margaret (wheelchair)' at top of table, 'Sarah' at bottom-left, 'David' at bottom-right. Four camera position icons (small movie camera symbols) numbered 19, 20, 21, 22 with blue dashed arrows showing camera facing direction: Camera 19 faces Margaret from below the table. Camera 20 faces Sarah from David's side. Camera 21 faces Margaret from Sarah's side. Camera 22 faces Sarah's hands from across the table. Red dashed lines show character eyeline directions between the three characters. Legend box at bottom-right: 'Red dashed = Eyelines / Blue dashed = Camera direction / Circle = Character position'."
+    },
+
+    "right_column": {
+      "label": "Shooting Execution Flow — bold header",
+      "position": "right side, vertical stack of 5 numbered rounded boxes",
+      "steps": [
+        {
+          "number": "1",
+          "icon": "small camera icon",
+          "title": "Margaret confesses, drops the 'bomb'",
+          "details": "Shot: Medium Close-up | Slight High Angle\nLens: 85mm, f/1.8\nMove: Ultra-slow push in\nEmotion: Guilt erupts"
+        },
+        {
+          "number": "2",
+          "icon": "small eye icon",
+          "title": "Sarah's shock reaction, pupils dilate",
+          "details": "Shot: Close-up | Eye Level\nLens: 85mm, f/1.4\nMove: Focus snap-lock (static)\nEmotion: Shattered disbelief"
+        },
+        {
+          "number": "3",
+          "icon": "small teardrop icon",
+          "title": "Margaret breaks down, sobbing",
+          "details": "Shot: Close-up | Slight High Angle\nLens: 105mm, f/1.8\nMove: Subtle handheld drift\nEmotion: Tearful remorse"
+        },
+        {
+          "number": "4",
+          "icon": "small hand icon",
+          "title": "Sarah's hands death-grip the cup",
+          "details": "Shot: Extreme Close-up | Eye Level\nLens: 105mm, f/1.2\nMove: Ultra-slow push in\nEmotion: Heartbeat crescendo, cut to black"
+        },
+        {
+          "number": "5",
+          "icon": "small hook icon",
+          "title": "Emotional closure, suspense hook",
+          "details": "Shot: Detail insert\nMove: Static freeze\nEmotion: Maximum suspense"
+        }
+      ]
+    },
+
+    "left_middle_block": {
+      "label": "Character Reference (red bold text header)",
+      "content": "Three small Pixar 3D character portrait panels side by side, each labeled below:",
+      "portraits": [
+        {
+          "label": "Margaret",
+          "image": "Bust portrait of an elderly Pixar 3D woman, 70+, silver-white hair in a loose bun, blue-grey watery eyes, deep wrinkles, wearing a dark plum cardigan over cream blouse. Seated in a wheelchair. Warm amber lighting on face. Neutral warm background."
+        },
+        {
+          "label": "David",
+          "image": "Bust portrait of a middle-aged Pixar 3D man, late 40s, short dark hair with grey at temples, strong jaw, serious brown eyes, wearing a charcoal suit with dark tie. Warm amber lighting. Neutral warm background."
+        },
+        {
+          "label": "Sarah",
+          "image": "Bust portrait of a young Pixar 3D woman, late 20s, shoulder-length chestnut brown hair, hazel-green eyes, soft features, wearing a cream-colored knit top. Vulnerable expression. Warm amber lighting. Neutral warm background."
+        }
+      ]
+    },
+
+    "center_bottom_block": {
+      "label": "4-Shot Storyboard Preview (19-22) — bold centered header",
+      "content": "Four Pixar 3D rendered panels in a horizontal row. Each panel has a grey header strip with shot info, a cinematic image below, and a white text box at the bottom with beat description.",
+      "panels": [
+        {
+          "header_strip": "Shot 19 | Med. Close-up | 6s",
+          "image": "Medium close-up, slight high angle. Pixar 3D Margaret in her wheelchair at the round oak table, eyes red-rimmed and watering, lower lip trembling, hands gripping wheelchair armrests. Deep guilt radiates from her expression. Warm amber table lamp from left, blurred silhouettes of Sarah and David across the table. 85mm shallow depth of field.",
+          "text_box": "Beat 19\nMargaret's eyes are red and trembling. Crushed by guilt, she drops the ultimate bombshell.\nDialogue: 'In your past life... I'm the reason you lost your child. And I called you dramatic.'\nEmotion: GUILT ERUPTS"
+        },
+        {
+          "header_strip": "Shot 20 | Close-up | 3s",
+          "image": "Tight close-up, eye level. Pixar 3D Sarah's face filling the frame, eyes blown wide in shock, pupils dilated, lips parted, one tear forming at the corner of her eye. Warm creamy bokeh background from the lounge. 85mm f/1.4 razor focus on her eyes.",
+          "text_box": "Beat 20\nSarah hears 'past life' — her pupils violently shake. Pure horror replaces confusion.\nDialogue (V.O.): 'Mom... no. I don't deserve to be called that.'\nEmotion: SHATTERED DISBELIEF"
+        },
+        {
+          "header_strip": "Shot 21 | Close-up | 4s",
+          "image": "Close-up, slight high angle. Pixar 3D Margaret with eyes squeezed shut, mouth open in a wail, tears streaming down her wrinkled cheeks, a wisp of silver hair fallen loose across her forehead. Subtle motion blur on her shoulders from handheld shake. 105mm compressed perspective.",
+          "text_box": "Beat 21\nMargaret abandons all dignity. She breaks into uncontrollable sobbing.\nDialogue: 'I want to formally apologize to you.'\nEmotion: TEARFUL REMORSE"
+        },
+        {
+          "header_strip": "Shot 22 | Extreme CU | 2s",
+          "image": "Extreme close-up, eye level. Two feminine Pixar 3D hands with white knuckles gripping a simple white handleless ceramic tea cup on the dark polished oak table. Fingertips pressed so hard the nail beds are pale. A faint ripple visible in the tea from trembling. 105mm f/1.2 micro detail. Deep warm bokeh behind.",
+          "text_box": "Beat 22\nSarah's hands death-grip the cup. Knuckles white. A violent tremor.\nDialogue: —\nEmotion: HEARTBEAT CRESCENDO, CUT TO BLACK"
+        }
+      ]
+    },
+
+    "bottom_strip": {
+      "label": "Lighting & Material Reference — bold header",
+      "content": "Six small horizontal reference swatches in a row at the very bottom, each with a label below:",
+      "swatches": [
+        "Warm Practical Source (table lamp + natural) — amber glow on surfaces",
+        "Natural Sidelight (window) — cool blue-grey daylight",
+        "Raw Oak Table Texture (round table) — polished dark oak grain",
+        "Wood Floor Reflections — glossy warm floor with light pools",
+        "Leather Chair Texture — dark brown leather with subtle sheen",
+        "Skin Reference (emotional realism) — Pixar 3D skin with tear tracks, redness, visible pores"
+      ]
+    }
+  },
+
+  "footer_note": "Note: Maintain the three-character round-table spatial relationship at all times.",
+  "overall_dimensions": "landscape 16:9 aspect ratio, information-dense single-page professional film production document"
+}
 ```
 
 </details>
@@ -1022,6 +1265,25 @@ White background, black annotation lines and text only. No colors.
 
 Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
+```
+
+</details>
+
+<a id="gpt-image-skin-analysis-consultation-sheet"></a>
+### 皮肤分析咨询单含护肤流程与成分推荐
+
+<a href="https://x.com/nawalsehar/status/2053088055528210466"><img src="../../previews/gpt-image-skin-analysis-consultation-sheet.jpg" width="360"></a>
+
+每个分区都配有视觉锚点，如环形进度条、肤质色块或前后对比截图，让版面一眼可读。以皮肤科咨询单的身份定义版式，决定了标注的密度与整体语气。
+
+GPT Image 2 · 上传图改图 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2053088055528210466) · 141 赞，统计于 2026-10-29
+
+[`skincare`](tags.md#tag-skincare) [`infographic`](tags.md#tag-infographic) [`portrait`](tags.md#tag-portrait) [`beauty`](tags.md#tag-beauty)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a visual skincare analysis graphic using this portrait. Feature side-by-side comparisons to identify the subject’s likely skin type (oily, dry, combination, or sensitive), visible skin concerns, hydration levels, texture, pores, and overall skin condition. Include a clear skin undertone and skin barrier analysis. Showcase personalised skincare recommendations such as suitable cleansers, moisturisers, sunscreens, serums, and ingredients that would work best for the subject’s skin. The graphic should feel like a premium dermatology/skincare consultation sheet with visual callouts, charts, highlighted facial zones, and before/after-style comparisons. Keep it visual-first using only short labels, tags, icons, arrows, and minimal text – no long paragraphs.
 ```
 
 </details>
@@ -1197,6 +1459,29 @@ Avoid:
 • low-detail generic phone renders
 
 The final result should resemble a professionally published consumer-technology reference-book page created for tech enthusiasts, industrial designers, engineers, collectors, reviewers, and educational product-design archives.
+```
+
+</details>
+
+<a id="gpt-image-music-consumption-vinyl-to-streaming"></a>
+### 音乐消费方式的演变：从黑胶到流媒体
+
+<a href="https://x.com/iamaiistudio/status/2061494256087523353"><img src="../../previews/gpt-image-music-consumption-vinyl-to-streaming.jpg" width="360"></a>
+
+主题、时代和背景色的固定槽位让同一模板可以生成任何时间线。提示词固定了镜头、按时代分层的阶梯底座和清晰的文字层级，因此每个时代的版块与标题都保持一致。
+
+GPT Image 2 · 文生图 · 出处: [@iamaiistudio on X](https://x.com/iamaiistudio/status/2061494256087523353) · 106 赞，统计于 2026-10-29
+
+[`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`timeline`](tags.md#tag-timeline) [`music`](tags.md#tag-music)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Build a polished isometric miniature 3D diorama that shows the evolution of [TOPIC] from [START ERA] through [MODERN ERA]. Use a 45-degree top-down camera angle and a horizontally stepped display base split into distinct time periods. Give the scene soft, refined materials with realistic PBR shading and neutral, evenly balanced lighting.
+
+In every era section, include period-specific objects, tools, environments, or technologies. Add tiny stylized people interacting with each stage, with detailed facial features. Use subtle arrows or dividers to make the chronological flow clear.
+
+Keep the background a solid [BACKGROUND COLOR]. Place bold top-center text reading [TOPIC]. Under it, add "From [START ERA] to [MODERN ERA]." Add a minimal timeline icon below. Make all text automatically adapt for contrast.
 ```
 
 </details>

@@ -1,0 +1,62 @@
+id: gpt-image-face-cream-storyboard-ten-frames
+title:
+  en: Ten frame storyboard for a face cream commercial
+  zh: 面霜广告十格分镜故事板
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- storyboard
+- skincare
+- advertising
+- grid-layout
+source:
+  name: '@Soaima_Ai on X'
+  url: https://x.com/Soaima_Ai/status/2082331258072514792
+  credit: Soaima
+  likes: 90
+  captured: '2026-10-29'
+  posted: '2026-07-29'
+notes:
+  en: The prompt sets the 2x5 grid, scene numbers, timestamps and captions as one layout block, so every frame keeps the same structure. Shared camera and lens specs such as ARRI Alexa 35 and anamorphic 50mm give the ten frames one consistent look.
+  zh: 提示词把网格、编号、时间码和说明文字写成统一的版式要求，让十个画面保持相同结构。统一的机位与镜头参数（ARRI Alexa 35、变形宽银幕 50mm 微距）让所有画面的影像风格保持一致。
+prompt: |
+  Create a premium Hollywood-style advertising storyboard sheet for a luxury moisturizing face cream commercial. Display 10 ultra-realistic cinematic storyboard frames arranged in a 2×5 presentation grid on a pristine white storyboard board. Each frame features a thin black border, bold scene numbers (01–10), a duration timestamp, and a concise production caption beneath it. The overall design should resemble a professional advertising agency pitch board for a world-class skincare campaign.
+  Title: DEEP HYDRATION
+  Subtitle: 15-Second Premium Face Cream Commercial
+  Scene 01 (0.0–1.5s) — Pure Reveal
+  A luxurious crystal-glass face cream jar slowly rises from perfectly clear water, surrounded by soft white light, delicate mist, and elegant ripples, creating an atmosphere of purity and luxury.
+  Scene 02 (1.5–3.0s) — Premium Detail
+  Extreme macro beauty shot of the premium glass jar covered in sparkling condensation. Sharp reflections emphasize the luxurious glass craftsmanship and premium packaging.
+  Scene 03 (3.0–4.5s) — Hydration Ingredients
+  Pure water droplets, hyaluronic acid molecules, aloe vera gel, white blossoms, botanical extracts, and moisture particles gracefully float around the product in slow motion.
+  Scene 04 (4.5–6.0s) — Hydration Burst
+  Crystal-clear water splashes dynamically around the cream jar while glowing hydration particles and delicate botanical petals swirl elegantly through the air.
+  Scene 05 (6.0–7.5s) — Cream Texture
+  A silky ribbon of rich white moisturizer flows gracefully through the air, twisting smoothly around the product to showcase its luxurious texture.
+  Scene 06 (7.5–9.0s) — Skin Absorption
+  Macro close-up of the cream spreading effortlessly across flawless, healthy skin. Hydration particles glow beneath the surface, revealing a radiant, moisturized finish.
+  Scene 07 (9.0–10.5s) — Healthy Glow
+  Beautiful hydrated skin illuminated by soft natural daylight. Tiny floating water droplets and subtle botanical elements reinforce freshness, softness, and long-lasting moisture.
+  Scene 08 (10.5–12.0s) — Hydration Freeze
+  Time freezes as water splashes, floating droplets, cream ribbons, botanical petals, and glowing hydration particles create a perfectly balanced premium beauty composition.
+  Scene 09 (12.0–13.5s) — Hero Product
+  The face cream jar stands proudly on a reflective glass surface surrounded by crystal-clear water, luminous hydration particles, and soft volumetric light in a dramatic hero shot.
+  Scene 10 (13.5–15.0s) — Brand Signature
+  Minimal white studio background. The brand logo fades in gracefully with the elegant tagline:
+  "Hydration That Lasts."
+  Caption: Brand Signature
+  Visual Direction
+  Inspired by world-class luxury hydration skincare campaigns emphasizing purity, deep moisture, luminous healthy skin, silky cream textures, crystal-clear water, botanical science, and clean beauty aesthetics.
+  Color Palette
+  Pure White
+  Soft Sky Blue
+  Crystal Water Blue
+  Silver Highlights
+  Natural Beige
+  Lighting
+  Soft beauty lighting, diffused daylight, volumetric glow, clean studio reflections, premium cosmetic illumination.
+  Camera
+  ARRI Alexa 35, Cooke Anamorphic 50mm lens, macro beauty cinematography, ultra slow motion, shallow depth of field, precision focus.
+  Style
+  Luxury skincare advertising, premium beauty campaign, high-end cosmetic photography, Hollywood commercial storyboard, advertising agency presentation board, ultra-photorealistic, HDR, 8K, masterpiece quality, impeccable product realism, cinematic composition, flawless visual storytelling.

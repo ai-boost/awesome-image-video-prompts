@@ -1,0 +1,38 @@
+id: gpt-image-mediterranean-harbor-rowboats-impasto
+title:
+  en: Sunlit Mediterranean harbor with moored rowboats
+  zh: 阳光下停泊小船的地中海港湾
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- impasto
+- oil-painting
+- seascape
+- mediterranean
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2086029084472009068
+  credit: Viki
+  likes: 158
+  captured: '2026-10-29'
+  posted: '2026-08-08'
+notes:
+  en: Naming a strong diagonal and describing each boat's colour and angle gives the model a clear layout to follow. Setting cool sea tones against warm ochre land, with thick impasto ridges, produces the painted texture.
+  zh: 用明确的对角线构图，并逐一描述每艘小船的颜色和角度，让模型清楚地安排画面。把冷色海水与暖色陆地并置，并指定厚重的堆叠笔触，使画面呈现油画质感。
+prompt: |
+  An exquisite impressionistic oil painting of a Mediterranean coastal harbor scene, rendered in a heavy impasto technique with thick, visible palette-knife brushstrokes creating a tactile, three-dimensional surface. The composition uses a strong diagonal: a rocky shoreline and a line of small moored wooden rowboats lead the eye from the upper right down toward the lower left.
+
+  The foreground and left half of the canvas are dominated by the sea, painted in horizontal choppy strokes of deep navy, cerulean, turquoise, and pale blue, suggesting gentle movement and reflected light sparkling across the water surface. The brushwork on the water is loose and directional, with each wavelet a separate confident stroke.
+
+  A line of five or six small wooden rowboats is moored diagonally from the shore into the water, angled toward the viewer. The boats are painted in varying shades of white, cream, and dark navy-blue, showing their curved hulls and interior bench seats. The brushwork on the boats is loose, capturing the play of light and shadow on their rounded forms.
+
+  To the right and center rises a rocky, elevated coastline painted in warm earthy tones — ochre, burnt orange, terracotta, and warm brown — contrasting strongly with the cool blues of the water. Several trees with rounded bushy canopies are scattered along the cliffside in shades of olive and forest green. A tall, slender cypress-like tree stands prominently near the center of the shoreline.
+
+  Two Mediterranean-style buildings sit on the shore: a smaller white structure nestled among the trees on the left, and a larger, more prominent building on the right with a terracotta-tiled roof and light-colored sunlit walls.
+
+  The upper portion features a bright, airy sky composed of broad sweeping strokes of pale blue, white, and hints of soft warm yellow, suggesting a clear sunny Mediterranean day with light wispy clouds. The lighting is bright and consistent, with warm sunlight bathing the shoreline and buildings while the water reflects the cool sky.
+
+  The color palette pairs cool blues and turquoise of the sea against warm ochre, terracotta, and olive of the land. Blending impressionism with realism, the mood is peaceful, sunlit, and atmospheric. The background sky is a soft blurred wash of light. Heavy impasto, thick paint ridges catching natural light, no text.
+
+  text, watermark, logo, signature, photograph, 3d render, anime, cartoon, chibi, flat illustration, smooth blending, photorealistic, watercolor wash, neon, fluorescent, night scene, sunset, storm, large modern ship, yacht, sailboat with sails up, people, faces, cars, city skyline, snow, forest interior, mountains, river, lake, dark moody, black sky, single boat only

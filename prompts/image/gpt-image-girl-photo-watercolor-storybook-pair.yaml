@@ -1,0 +1,116 @@
+id: gpt-image-girl-photo-watercolor-storybook-pair
+title:
+  en: Girl photo paired with watercolor storybook illustration
+  zh: 女孩照片与水彩绘本插画对照
+model: GPT Image 2
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- storybook
+- photo-to-illustration
+- portrait
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2096806123877835005
+  credit: ÀBDŪLLÂH
+  likes: 149
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+notes:
+  en: Splitting the canvas into a photo half and an illustration half lets the model keep one moment consistent across both. A ranked priority list for pose, face and clothing, followed by watercolor and colored-pencil texture terms, keeps the drawing faithful while giving it a storybook look.
+  zh: 将画布分为上方照片和下方插画两部分，让模型在两者中保持同一瞬间的一致。用优先级清单锁定姿势、面部和服装，再以水彩与彩铅纹理词定义绘本风格，使插画忠于原照又带有故事书质感。
+prompt: |
+  Create a single vertical 3:4 PHOTO + HAND-DRAWN ILLUSTRATION artwork based ONLY on the uploaded photograph.
+
+  Use the uploaded photograph as the ONLY visual reference. Analyze the photograph independently and reproduce the exact subject, pose, expression, clothing, hairstyle, accessories, objects, proportions, and overall moment in the illustration. Do not introduce elements from any previous image or reference.
+
+  TOP — ORIGINAL PHOTOGRAPH
+
+  Use approximately the upper 50% of the canvas for the original photograph.
+
+  Preserve the photograph faithfully and naturally:
+  - Keep the original subject exactly recognizable.
+  - Preserve the face, expression, hairstyle, clothing, accessories, pose, body proportions, and visible objects.
+  - Preserve the original environment and composition.
+  - Do not retouch, beautify, replace, or redesign the subject.
+  - Keep the photograph realistic with its original lighting, colors, textures, and details.
+
+  BOTTOM — HAND-DRAWN ILLUSTRATION
+
+  Use approximately the lower 50% for a charming handmade illustration of the SAME photograph.
+
+  Transform the photographic moment into a delicate children's storybook-style hand-drawn artwork.
+
+  Illustration style:
+  - Soft watercolor and colored-pencil texture
+  - Gentle pencil/ink outlines
+  - Slightly imperfect handmade strokes
+  - Warm, tactile off-white textured paper
+  - Soft natural shading
+  - Subtle watercolor washes
+  - Cute, expressive, wholesome appearance
+  - Delicate handcrafted imperfections
+  - No glossy digital-rendered appearance
+  - No photorealism
+  - No 3D CGI
+  - No anime or cartoon franchise style
+
+  Most importantly, accurately preserve the subject from the photograph:
+  - Same pose and body position
+  - Same facial expression
+  - Same hairstyle
+  - Same clothing and clothing patterns
+  - Same shoes/accessories
+  - Same proportions
+  - Same distinctive visual details
+  - Same overall action or mood
+
+  Simplify the background substantially. Do not recreate every background detail. Keep only a very subtle suggestion of the original environment, allowing the illustrated subject to remain the main focus.
+
+  Place the illustrated subject slightly smaller than the photograph's subject, surrounded by generous negative space.
+
+  MINIMAL DECORATIVE DETAILS
+
+  Add a few tiny hand-drawn decorative marks around the illustration, such as:
+  - small hearts
+  - simple motion lines
+  - tiny doodles
+  - subtle stars or flowers
+
+  Keep these decorations sparse and tasteful.
+
+  Add a small handwritten caption near the illustration, such as:
+
+  "little happy girl ♡"
+
+  The caption should look naturally handwritten with a casual brown/gray pencil or ink texture.
+
+  If the uploaded subject is not a girl, automatically adapt the wording appropriately or omit the caption entirely.
+
+  OVERALL AESTHETIC
+
+  The final artwork should feel like a precious memory transformed into a page from a handmade children's picture book.
+
+  Composition:
+  - Vertical 3:4
+  - Clean separation between photograph and illustration
+  - Soft warm editorial presentation
+  - Large amount of negative space around the illustration
+  - Minimal, elegant, sentimental
+  - Premium handmade stationery / illustrated scrapbook aesthetic
+
+  CRITICAL RULE:
+  The uploaded photograph is the sole source of truth. Do not invent, substitute, merge, or carry over any person, clothing, object, background element, color, pose, or detail from another image.
+
+  The bottom illustration must clearly look like a hand-drawn version of the EXACT moment shown in the top photograph.
+
+  REFERENCE PRIORITY:
+  1. Exact subject and pose
+  2. Facial expression and hairstyle
+  3. Clothing and accessories
+  4. Overall composition
+  5. Illustration style
+  6. Minimal decorative elements
+
+  Never sacrifice subject accuracy for artistic stylization.#Lovart #LovartPartner

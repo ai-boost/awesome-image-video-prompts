@@ -1,0 +1,51 @@
+id: nano-banana-mountaineer-four-panel-film-strip
+title:
+  en: Mountaineer ascent in four stacked cinematic panels
+  zh: 登山者攀登的四格电影分镜竖图
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- mountaineer
+- storyboard
+- film-strip
+- photorealistic
+source:
+  name: '@mon010_de on X'
+  url: https://x.com/mon010_de/status/2061623347520459259
+  credit: Harry Potter
+  likes: 70
+  captured: '2026-10-29'
+  posted: '2026-06-02'
+notes:
+  en: Numbered panels each state framing, subject detail and lighting in order, so one prompt yields a readable storyboard sequence. The closing lens and aspect ratio line sets the cinematic look and tall format.
+  zh: 编号分格依次写明每格的景别、主体细节和光线，使单条提示词即可生成连贯的分镜序列。结尾的镜头焦段与画幅比例设定电影感和竖长版式。
+prompt: |
+  Generated with Nano Banana 2 on Gemini
+  Here are a few ways to structure the image generation prompt based on the cinematic sequence in **image.png**. Because it's a 4-panel narrative grid, you can either generate it as a continuous storyboard/film-strip style in a single prompt or break it down by individual shots for precise control.
+  ### Option 1: The Multi-Panel Film Strip Prompt
+  Use this approach if your image generator supports multi-angle stitching or grid layouts in a single pass.
+  ```text
+  A 4-panel cinematic film strip storyboard tracking a mountaineer's ascent.
+  Panel 1 (Top): Wide shot, a lone male mountaineer in an orange jacket standing on a ridge, looking out at a massive, sharp snow-covered peak during a golden hour sunrise.
+  Panel 2 (Second): Close-up portrait of the man with curly dark hair, a beard, and striking blue eyes. Frost on his jacket, visible breath in the cold air, rugged realism, highly detailed skin texture.
+  Panel 3 (Third): Low-angle macro tracking shot focusing on his mountain boots with crampons crunching through deep snow, stepping upward, hiking pole visible.
+  Panel 4 (Bottom): Wide shot from behind, the mountaineer standing triumphantly at the summit peak with arms outstretched, facing a brilliant sunset over an endless sea of mountains.
+  Cinematic lighting, 8k resolution, photorealistic, sharp focus, shot on 35mm lens --ar 1:2
+
+  ```
+  ### Option 2: Individual Panel Prompts (Recommended for Best Quality)
+  To get the absolute highest level of detail and identity consistency across your shots, it's usually best to generate them individually and stitch them together later.
+   * **Panel 1 (The Scale/Establishing Shot):**
+     > A wide cinematic establishing shot of a lone male mountaineer wearing a heavy backpack, standing on a rocky ledge looking towards a towering, sharp snow-capped mountain peak. Dramatic golden hour sunrise lighting, clouds below the ridge, photorealistic, 8k.
+     >
+   * **Panel 2 (The Character Close-Up):**
+     > An intimate close-up portrait of a rugged mountaineer in a winter jacket. He has curly dark hair, a short beard, and vivid blue eyes looking into the camera. Visible condensation and puff of cold breath from his mouth, frost on his collar. Blurry snowy mountain background, cinematic depth of field, photorealistic.
+     >
+   * **Panel 3 (The Action/Detail Shot):**
+     > A low-angle, extreme close-up shot of a climber's boots with orange crampons treading through thick, icy snow. A hiking pole is planted in the snow beside them. Sharp focus on the texture of the snow and gear, dynamic angle, bright alpine daylight.
+     >
+   * **Panel 4 (The Triumph/Finale):**
+     > A silhouette style, wide shot from behind a mountaineer standing at the absolute peak of a snowy mountain summit. He has his arms outstretched in a V-shape celebration. Facing a magnificent orange and gold sunset stretching across a vast mountain range. Epic scale, cinematic composition.
+     >
+  Let me know if you want to tweak the style parameters or focus on a specific aspect of the scene!

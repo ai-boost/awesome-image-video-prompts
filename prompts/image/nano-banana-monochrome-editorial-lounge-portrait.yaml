@@ -1,0 +1,24 @@
+id: nano-banana-monochrome-editorial-lounge-portrait
+title:
+  en: Monochrome editorial portrait in a hotel lounge
+  zh: 黑白编辑风格酒店休息室男士肖像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- monochrome
+- editorial
+- fashion
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2075259938234913038
+  credit: Picts by AI
+  likes: 67
+  captured: '2026-10-29'
+  posted: '2026-07-09'
+notes:
+  en: Naming a rich monochrome palette, a 50mm lens and shallow depth of field sets the editorial fashion look. Concrete props like the marble table, lapel grip and palm frame give the scene clear foreground and background layers.
+  zh: 明确的黑白色调、50mm 镜头和浅景深设定了编辑时尚的质感。前景大理石桌、双手拽领口的动作和中景棕榈等具体道具，形成清晰的前中后景层次。
+prompt: |
+  A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back with a natural side part, displaying subtle texture where individual strands catch the soft ambient light. He is dressed in a sharply tailored dark suit jacket accented by a dark patterned pocket square, layered over a crisp white dress shirt left casually unbuttoned at the collar. Sitting in a relaxed posture, his hands are raised to mid-chest, gently gripping the inner edges of his jacket lapels in a subtle adjustment, revealing the glint of a metallic wristwatch on his left wrist. He is seated in a plush, curved light-colored upholstered armchair pulled up to a smooth, veined white marble table in the immediate foreground, which holds a closed black leather notebook, a pen, a pair of folded dark-rimmed eyeglasses, and the partial view of a glowing ribbed glass table lamp. Behind him in the midground, the textured, arching fronds of a large indoor palm tree frame his head, while other patrons blur slightly into the ambiance, including a man seated to the left and a blonde woman relaxing at a softly lit table to the right. The background extends into a grand, high-ceilinged interior lounge featuring tall, dramatic dark vertical drapery, imposing architectural columns, and a softly illuminated arched glass display case. Rendered entirely in a rich black-and-white monochrome palette, the lighting is soft yet directional, carving out precise specular highlights on the man's cheekbones, his watch, and the polished marble surface, while deep, velvety shadows gather in the heavy folds of his suit, the curtain pleats, and the distant recesses of the room to forge a moody, luxurious atmosphere. Captured with a classic 50mm lens for an editorial fashion aesthetic, utilizing a shallow depth of field to isolate the razor-sharp subject against the softly blurred environment, processed with a high-contrast tonal range and subtle photographic film grain, framed in a 4:5 aspect ratio.

@@ -1,0 +1,24 @@
+id: gpt-image-skin-analysis-consultation-sheet
+title:
+  en: Skin analysis sheet with routine and ingredient picks
+  zh: 皮肤分析咨询单含护肤流程与成分推荐
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- skincare
+- infographic
+- portrait
+- beauty
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2053088055528210466
+  credit: Nawal
+  likes: 141
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+notes:
+  en: Each section gets a visual anchor such as a ring meter, a skin swatch, or a before and after crop, so the layout reads at a glance. Framing the piece as a premium dermatology consultation sheet sets the layout, density of callouts, and tone.
+  zh: 每个分区都配有视觉锚点，如环形进度条、肤质色块或前后对比截图，让版面一眼可读。以皮肤科咨询单的身份定义版式，决定了标注的密度与整体语气。
+prompt: |
+  Create a visual skincare analysis graphic using this portrait. Feature side-by-side comparisons to identify the subject’s likely skin type (oily, dry, combination, or sensitive), visible skin concerns, hydration levels, texture, pores, and overall skin condition. Include a clear skin undertone and skin barrier analysis. Showcase personalised skincare recommendations such as suitable cleansers, moisturisers, sunscreens, serums, and ingredients that would work best for the subject’s skin. The graphic should feel like a premium dermatology/skincare consultation sheet with visual callouts, charts, highlighted facial zones, and before/after-style comparisons. Keep it visual-first using only short labels, tags, icons, arrows, and minimal text – no long paragraphs.

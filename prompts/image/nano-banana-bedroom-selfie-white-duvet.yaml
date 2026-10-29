@@ -1,0 +1,24 @@
+id: nano-banana-bedroom-selfie-white-duvet
+title:
+  en: Bedroom selfie of woman under a white duvet
+  zh: 卧室自拍，女子躺在白色被子下
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- selfie
+- portrait
+- bedroom
+- natural-light
+source:
+  name: '@jzaib4269 on X'
+  url: https://x.com/jzaib4269/status/2068317754466451676
+  credit: Jahan Zaib
+  likes: 101
+  captured: '2026-10-29'
+  posted: '2026-06-20'
+notes:
+  en: A tilted phone selfie with the face filling the frame and a duvet cutting across one side reads as candid rather than posed. Naming the window light, soft neutral palette and camera angle together keeps the lighting and mood consistent.
+  zh: 手机自拍视角，脸部占满画面，被子遮住一侧，使画面显得随性自然而非摆拍。同时写明窗光、中性色调和拍摄角度，让光线与氛围保持统一。
+prompt: |
+  low quality, blurry, overprocessed skin, heavy makeup, exaggerated facial features, distorted eyes, extra fingers, duplicate features, cartoon, CGI, painting, illustration, harsh shadows, oversaturated colors, grainy image, watermark, text, logo, cropped face, unnatural pose, artificial lighting, bad anatomy, low resolution.

@@ -1,0 +1,30 @@
+id: nano-banana-red-neon-rim-monochrome-portrait
+title:
+  en: Black and white portrait with red neon rim
+  zh: 黑白人像配红色霓虹轮廓光
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- neon-rim-light
+- monochrome
+- studio
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2069632981120250203
+  credit: Weinberg
+  likes: 62
+  captured: '2026-10-29'
+  posted: '2026-06-24'
+notes:
+  en: The prompt fixes a monochrome base and a pure black background, then makes the red neon rim the only colored element. Lens, aperture and studio lighting terms push the result toward a realistic editorial portrait.
+  zh: 提示词先锁定黑白底色和纯黑背景，再把红色霓虹轮廓光设为唯一的彩色元素。镜头焦距、光圈和棚拍光线等术语让结果更接近写实的编辑人像。
+prompt: |
+  Transform the reference image into a dramatic cinematic black-and-white portrait. Pure black background with deep contrast. Subject wearing a tailored black suit jacket and black dress shirt with an open collar, luxury editorial styling.
+
+  Bright light-red neon rim light tracing the entire silhouette of the subject, creating a glowing outline around the head, shoulders, hair, ears, and clothing edges. Strong side lighting with high contrast shadows. Monochrome skin tones with detailed texture, while the neon glow remains the only colored element.
+
+  Premium magazine cover aesthetic, powerful masculine energy, luxury fashion campaign, dramatic studio lighting, intense mood, confident posture, looking away from camera. Ultra-sharp focus on face and upper torso, rich blacks, deep shadows, high dynamic range.
+
+  Professional portrait photography, cinematic color grading, black-and-white fine art portrait, neon edge lighting, volumetric glow, realistic skin detail, luxury editorial, studio photography, photorealistic, 85mm lens, f/2.0, shallow depth of field, masterpiece quality, ultra detailed, 8K resolution.

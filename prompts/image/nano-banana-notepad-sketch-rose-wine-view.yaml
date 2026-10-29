@@ -1,0 +1,24 @@
+id: nano-banana-notepad-sketch-rose-wine-view
+title:
+  en: Woman sketched on notepad with comic callouts
+  zh: 笔记本纸上的女子速写配漫画注释
+model: Nano Banana 2
+mode: image-edit
+category: photo-to-art
+tags:
+- sketch
+- colored-pencil
+- notepad
+- comic-annotation
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2040624671813697697
+  credit: simeon-sanai
+  likes: 194
+  captured: '2026-10-29'
+  posted: '2026-04-05'
+notes:
+  en: Anchoring the model to the uploaded photo with explicit pose, feature and proportion locks keeps the likeness while the notepad, colored pencil and cross-hatching define the sketchbook style. Naming each callout word and its placement lets the model put readable labels around the figure.
+  zh: 先用参考照片锁定姿势、五官和比例，再用横线笔记本纸、彩铅与交叉排线定义速写风格，并写明每个漫画标注的文字和位置，让模型把可读的标签放在人物周围。
+prompt: |
+  Use the uploaded image as your main reference point. Keep the same pose, facial features, proportions, and composition of the person. Turn the image into a hand-drawn illustration on lined notepad paper. The character should look like a detailed drawing in colored pencil and ink with cross-hatching and shading of the sketch. Add comic book-style drawings and notes around the character, such as arrows, doodles, “WOW”, “COOL!”and design notes. Circle the character with the smooth red-yellow glow of the sketch. Keep the concentrated composition of the portrait and the proportions of the whole body as in the original photo.The style should be similar to a conceptual drawing from a designer sketchbook: playful doodles, rough lines, warm tones, high detail. concept art for a sketchbook, drawings of characters on sheets of paper, illustrations with colored pencils, a background made of paper for a notebook, design notes made by hand You can choose the aspect ratio depending on the artificial intelligence or design you are using.

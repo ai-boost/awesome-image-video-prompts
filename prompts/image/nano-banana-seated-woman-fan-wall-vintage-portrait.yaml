@@ -1,0 +1,24 @@
+id: nano-banana-seated-woman-fan-wall-vintage-portrait
+title:
+  en: Seated woman before a wall of vintage star portraits
+  zh: 女子坐在复古明星海报墙前的肖像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- film-look
+- vintage
+- warm-tones
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2042256010040197281
+  credit: Meem
+  likes: 92
+  captured: '2026-10-29'
+  posted: '2026-04-09'
+notes:
+  en: The prompt pins the framing with a medium shot, centered composition and a named film look (35mm, film grain, shallow depth of field), so the color grade and layout hold together. Describing the background as a magazine cutout collage gives the scene a readable story without naming anyone.
+  zh: 提示词用中景、居中构图和 35mm 胶片质感锁定画面与色调。背景描述为杂志剪贴拼贴墙，既交代场景又不点名任何人。
+prompt: |
+  A cinematic portrait of a young elegant woman sitting in a softly lit room, medium shot, warm ambient lighting, vintage aesthetic. She sits calmly facing the camera with a subtle confident smile. Behind her is a wall covered with magazine cutouts and posters of famous actors and celebrities, creating a fan-wall collage. She is wearing an elegant, classy outfit — a long stylish skirt and refined top, sophisticated and graceful. Soft film grain, shallow depth of field, cozy indoor atmosphere, warm tones, cinematic color grading, realistic skin texture, 35mm film look, portrait photography, centered composition.

@@ -1,6 +1,6 @@
 # 漫画与分镜
 
-[返回目录](../../README_zh.md) · 全部 13 条
+[返回目录](../../README_zh.md) · 全部 15 条
 
 <a id="nano-banana-fluffy-creatures-treehouse-story"></a>
 ### 三只毛茸茸生物规划树屋
@@ -107,6 +107,108 @@ High detail, High Quality, Photorealism Style, cinematic composition, cohesive i
 @ImagineArt_X
 
 @imagineart_creo
+```
+
+</details>
+
+<a id="nano-banana-miniature-ninja-sprinting-comic-page"></a>
+### 微缩忍者手办在巨大漫画页上奔跑
+
+<a href="https://x.com/edizkan_/status/2032705323077632283"><img src="../../previews/nano-banana-miniature-ninja-sprinting-comic-page.jpg" width="360"></a>
+
+把参考图锁定身份的约束与微距玩具摄影的镜头设定结合：提示词同时约束立体手办和书页上的漫画分镜，再用贴近纸面的低机位、90到100毫米镜头和极浅景深营造巨大的比例感。
+
+Nano Banana 2 · 上传图改图 · 出处: [@edizkan_ on X](https://x.com/edizkan_/status/2032705323077632283) · 307 赞，统计于 2026-10-29
+
+[`comic`](tags.md#tag-comic) [`macro`](tags.md#tag-macro) [`toy-photography`](tags.md#tag-toy-photography) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+The moment your Beast escapes the comic panel. #AKCB
+
+Recommended generator: Nano Banana 2 (Gemini – Thinking Mode)
+
+Try it and show your results 👇
+
+A cinematic macro toy-photography scene.
+A bean-sized version of the uploaded reference character is sprinting dramatically across the surface of a giant open comic book featuring panels of the same character.
+
+Likeness Preservation (CRITICAL)
+The identity of the character must remain exactly the same as the reference in both:
+• the miniature physical character
+
+• the comic panels printed on the page
+Maintain the exact:
+• head shape
+
+• eye shape and spacing
+
+• stylization
+
+• silhouette
+
+• materials and clothing design
+If the character wears a balaclava, mask, helmet, or covered face, the comic panels must not invent facial anatomy.
+No added nose.
+
+No added mouth.
+
+No visible skin where the reference does not show it.
+The comic panels must depict the same exact design language of the character, only rendered as printed comic artwork.
+Do not humanize the character.
+
+Do not reinterpret anatomy.
+Subject & Action
+The miniature character runs across the page as if traversing its own story.
+Oversized comic panels surround the character, each showing dynamic action poses of the same character, rendered in bold comic-book style.
+
+Camera & Perspective
+Low-angle macro close-up shot, camera positioned almost at page level.
+Shot with a 90–100mm macro lens, giving the tiny character a heroic sense of scale.
+The character sits slightly off-center, leaning forward in motion.
+
+Depth of Field
+Extremely shallow depth of field.
+The running miniature character and the immediate section of the comic page are razor sharp.
+The surrounding panels and distant page edges fall into soft blur.
+
+Lighting
+Sharp cinematic directional light from the top left, casting dramatic shadows across the comic page and creating small glints on the glossy print surface.
+
+Environment & Surface Detail
+Macro-level detail of the printed comic page:
+ink texture
+
+paper fibers
+
+subtle gloss reflections
+Color Grade
+Rich saturated comic-book colors with warm cinematic highlights and soft ambient glow.
+Moody macro photography atmosphere.
+
+Rendering Style
+Photorealistic macro toy photography aesthetic, emphasizing scale illusion between the tiny character and the giant comic book world.
+ar 5:4
+```
+
+</details>
+
+<a id="gpt-image-motocross-backflip-storyboard-desert"></a>
+### 十格分镜：越野摩托车后空翻
+
+<a href="https://x.com/saniaspeaks_/status/2064313192516391127"><img src="../../previews/gpt-image-motocross-backflip-storyboard-desert.jpg" width="360"></a>
+
+提示词先声明十格分镜的数量，再按时间顺序逐格描述一个动作节点，使模型能排出连贯的故事线。结尾用黄金时段光线、动态镜头角度和高端动作摄影等风格词统一所有分格的画面质感。
+
+GPT Image 2 · 文生图 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2064313192516391127) · 196 赞，统计于 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`motocross`](tags.md#tag-motocross) [`sports-drama`](tags.md#tag-sports-drama) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Storyboard sequence, 10 cinematic frames: A stylish young woman relaxes in a modern desert-view room while drinking from a glass bottle, then stands and gazes out the window with determination before casually tossing the bottle aside. She exits the building and walks toward her FMX motocross bike, gears up, and puts on her helmet. The action escalates as she races down a giant mega ramp, launches into the open sky, performs a breathtaking backflip high above the desert landscape, and lands in a dramatic cloud of dust. In the final frame, she removes her helmet, her hair falling free as smiling friends run toward her cheering, all captured in ultra-realistic cinematic storytelling, golden-hour lighting, dynamic camera angles, emotional sports-drama atmosphere, and high-end action photography.
 ```
 
 </details>

@@ -1,0 +1,92 @@
+id: gpt-image-mykonos-flat-vector-travel-poster
+title:
+  en: Whitewashed Mykonos harbor with windmills travel poster
+  zh: 白色米科诺斯港口与风车旅行海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- flat-vector
+- typography
+- template
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2053347075648278737
+  credit: Saul Goodman
+  likes: 587
+  captured: '2026-10-29'
+  posted: '2026-05-10'
+notes:
+  en: A fixed style block (flat vector, no gradients, Scandinavian editorial) plus a destination slot lets one layout be reused for any place. Listing the layers in order, from foreground waterfront to midground houses to background landmark, gives the model a clear depth structure.
+  zh: 固定的风格描述（扁平矢量、无渐变、北欧编辑风）加上可替换的目的地占位符，使同一版式能套用到任何地点。按前景水岸、中景房屋到背景地标的顺序逐层描述，为模型提供清晰的景深结构。
+prompt: |
+  Create a premium editorial travel poster illustration of [DESTINATION].
+
+  Style:
+
+  flat vector illustration, ultra clean minimalism,
+
+  mid-century modern aesthetic,
+
+  editorial travel poster style (Scandinavian design inspired),
+
+  no photorealism, no textures, no noise, no gradients
+
+  Composition:
+
+  vertical 4:5 poster layout,
+
+  foreground: calm waterfront / road / natural edge
+
+  midground: colorful local houses or buildings with clean geometric shapes
+
+  background: iconic natural landscape or mountain of [DESTINATION]
+
+  add 1–2 landmark structures (church, tower, bridge, etc.) subtly
+
+  Architecture:
+
+  simplified geometric buildings,
+
+  clean edges, flat colors,
+
+  slightly varied roof colors (harmonious palette, not random)
+
+  Color palette:
+
+  soft, cohesive, location-inspired colors
+
+  pastel tones + muted contrast
+
+  bright but not saturated
+
+  (example: sky blue, coral, mustard, navy, soft green)
+
+  Lighting:
+
+  bright daylight, soft shadows,
+
+  clean and fresh atmosphere
+
+  Typography:
+
+  add text at bottom center:
+
+  "[DESTINATION]" (large, modern sans-serif, spaced letters)
+
+  "[COUNTRY]" (small subtitle below)
+
+  Mood:
+
+  calm, clean, premium, slightly dreamy travel magazine feel
+
+  Quality:
+
+  ultra clean edges,
+
+  perfect alignment,
+
+  no distortion,
+
+  high resolution, print-ready

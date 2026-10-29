@@ -1,0 +1,24 @@
+id: gpt-image-giant-chocolate-bar-snowy-valley
+title:
+  en: Giant chocolate bar towering over snowy mountain valley
+  zh: 巨型巧克力条矗立在雪山山谷中
+model: GPT Image 2
+mode: text-to-image
+category: product
+tags:
+- surreal
+- food-ad
+- scale
+- product-photo
+source:
+  name: '@Urwa_345 on X'
+  url: https://x.com/Urwa_345/status/2091899842457206792
+  credit: 𝐔𝐫𝐰𝐚 𝐀𝐈
+  likes: 172
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+notes:
+  en: The prompt pairs a surreal scale shift with concrete anchors such as tiny photographing people, floating chocolate pieces and golden light breaking through clouds. Stating the 9:16 vertical frame and realistic proportions keeps the oversized product from warping.
+  zh: 提示词用具体细节锚定超现实的尺度反差，例如拍照的小人、悬浮的巧克力块和穿透云层的金色光线。明确竖向9:16构图和真实比例，能让巨大的产品不变形。
+prompt: |
+  Ultra-realistic cinematic chocolate advertisement featuring a gigantic premium chocolate bar standing vertically in the middle of a beautiful snowy mountain valley. The chocolate bar is dramatically oversized, towering above the surrounding landscape. Rich glossy chocolate texture with realistic details and elegant premium packaging. Hundreds of tiny people stand nearby taking photographs while snow-covered mountains rise dramatically in the background. Pieces of chocolate appear to float around the giant product as if gravity has stopped. Warm golden sunlight breaks through the clouds, creating a magical luxurious glow. Cinematic atmosphere, realistic snow reflections, highly detailed textures, photorealistic product photography, premium food advertising aesthetic, 8K, sharp focus, vertical 9:16 composition, realistic proportions, no distortion, no watermark, no extra text

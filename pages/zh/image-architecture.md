@@ -1,6 +1,6 @@
 # 建筑与室内
 
-[返回目录](../../README_zh.md) · 全部 22 条
+[返回目录](../../README_zh.md) · 全部 23 条
 
 <a id="nano-banana-floor-plan-rising-miniature-diner"></a>
 ### 从建筑平面图中升起的复古餐厅微缩场景
@@ -708,6 +708,34 @@ Lighting mimics the natural atmosphere of [CITY], such as warm sunset light, bri
 Ultra detailed, cinematic macro photography, museum quality miniature model, extremely realistic materials.
 
 Aspect ratio 4:5
+```
+
+</details>
+
+<a id="gpt-image-terrain-adobe-cantilever-bench-cover"></a>
+### 土坯露台上的青绿长椅俯瞰沙漠峡谷
+
+<a href="https://x.com/ShamsAmin56/status/2080678093425934764"><img src="../../previews/gpt-image-terrain-adobe-cantilever-bench-cover.jpg" width="360"></a>
+
+一个方括号占位符就能让同一套杂志封面模板衍生出一系列建筑风格。固定的镜头语言、左三分线上唯一的点睛家具以及竖向9:16画幅，共同塑造出封面式的版式。
+
+GPT Image 2 · 文生图 · 出处: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2080678093425934764) · 68 赞，统计于 2026-10-29
+
+[`architecture`](tags.md#tag-architecture) [`editorial`](tags.md#tag-editorial) [`photography`](tags.md#tag-photography) [`desert`](tags.md#tag-desert)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Editorial architecture photography of a [ARCHITECTURE STYLE] structure on a long cantilevered platform extending over a dramatic natural landscape, refined material details, elegant flooring, atmospheric light, shot in the style of a design-magazine cover, clean negative space, muted natural palette, vertical framing --ar 9:16
+Composition: one striking accent furniture piece as the sole furniture piece and focal point, positioned precisely at the left third intersection
+
+Just replace [ARCHITECTURE STYLE] with whatever you want, for example:
+
+Japanese Minimalist
+Mid-Century Modern
+Gothic Revival
+Brutalist
+Scandinavian
 ```
 
 </details>

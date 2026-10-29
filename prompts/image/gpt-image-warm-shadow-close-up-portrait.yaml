@@ -1,0 +1,32 @@
+id: gpt-image-warm-shadow-close-up-portrait
+title:
+  en: Extreme close up of woman in warm shadow light
+  zh: 暖色阴影光下的女性极致特写
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- photorealism
+- cinematic-lighting
+- identity-reference
+source:
+  name: '@AizaAi12 on X'
+  url: https://x.com/AizaAi12/status/2097143936024228151
+  credit: Aiza
+  likes: 191
+  captured: '2026-10-29'
+  posted: '2026-09-08'
+notes:
+  en: The uploaded photo anchors facial identity, then the prompt layers skin, blush, lip and eye detail with soft dramatic light and shallow focus. The mood line steers the expression rather than specifying a pose.
+  zh: 上传照片作为面部身份锚点，提示词再分层描述肌肤、腮红、唇色和眼部细节，配合柔和戏剧光与浅景深。情绪描述引导表情，而非指定姿势。
+prompt: |
+  Use the uploaded image as the primary facial identity reference. Preserve the subject's recognizable facial structure, proportions, defining features, and natural appearance with maximum possible accuracy. Do not replace, reshape, or significantly alter her facial identity.
+
+  Create a cinematic, ultra-detailed extreme close-up portrait of the same young woman, captured with breathtaking photorealism. She has soft, natural facial features, luminous dewy glass skin with realistic fine pores and natural texture, a healthy subtle glow, and delicate peach-pink blush softly diffused across her cheeks.
+
+  Her eyebrows are naturally shaped and delicately arched. Her eyes are captivating, expressive, and detailed, with realistic reflections and individually defined eyelashes. Her lips are soft and slightly parted, finished with a subtle glossy coral-nude tint.
+
+  Create an intimate and emotionally cinematic atmosphere, as though she is silently holding back a thousand unspoken thoughts. Soft dramatic lighting, gentle shadows, shallow depth of field, cinematic color grading, realistic skin translucency, detailed eyes, natural hair strands, and subtle highlights.
+
+  Ultra-photorealistic, cinematic beauty portrait, extreme facial detail, editorial photography, premium film still aesthetic, high dynamic range, realistic lens depth, emotionally powerful composition, 8K quality.

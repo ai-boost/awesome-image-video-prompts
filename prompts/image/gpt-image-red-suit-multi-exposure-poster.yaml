@@ -1,0 +1,24 @@
+id: gpt-image-red-suit-multi-exposure-poster
+title:
+  en: Red suit woman, portrait merging into walking figure
+  zh: 红色西装女子肖像与行走全身像叠合
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- multi-exposure
+- portrait
+- fashion
+- poster
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2061280653900202437
+  credit: Avelyrah
+  likes: 165
+  captured: '2026-10-29'
+  posted: '2026-06-01'
+notes:
+  en: Showing one subject twice, a tight portrait on the left and a full length walking figure on the right with the same wardrobe, makes the poster read as a multi exposure layout. Asking for model style photography and an uploaded face reference keeps the identity consistent across both figures.
+  zh: 在提示词中把同一人物分成左侧特写和右侧全身行走两部分，服装保持一致，形成多重曝光式版面。加入模特摄影风格与上传人脸参考，让两个人物的面部保持一致。
+prompt: |
+  multi-exposure poster design featuring an Over-sized body young Indian woman portrait.  wavy shoulder hair bouncy part of the middle of hair,, wearing dark sunglasses, red formal coat pant with white shirt , and a silver chain necklace with black heels. The composition features a large, expressive close-up portrait of the woman  left, blending into a full-body shot of the same women walking confidently forward on the right, photography like model .The background is a dramatic, ethereal scene In the left bottom corner add a small triangle with a stylized "⚔️" inside it and a text "AvelyrahnAi" beneath it. Keep the face 100% same as in the uploaded picture. Over-sized body portrait.

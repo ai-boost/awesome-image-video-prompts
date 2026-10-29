@@ -1,0 +1,24 @@
+id: gpt-image-chapter-28-ivory-birthday-poster
+title:
+  en: Man seated on giant 3D number 28
+  zh: 男子坐在巨大立体数字28上的生日海报
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- birthday
+- poster
+- 3d-typography
+- floral
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2065261505713782784
+  credit: Taaruk
+  likes: 855
+  captured: '2026-10-29'
+  posted: '2026-06-12'
+notes:
+  en: Fill-in slots for name and age make the prompt reusable for any birthday. Naming the carved number, the seated pose, and the exact flowers and balloon colours pins the composition, while the lighting and lens terms set the editorial finish.
+  zh: 用占位符填写姓名和年龄，可复用于任意生日。明确写出立体数字、坐姿、花材和气球颜色来锁定构图，再用光线与镜头词汇定下杂志摄影的质感。
+prompt: |
+  Create a luxury minimalist birthday milestone poster featuring a giant 3D number “[AGE]” carved into a premium ivory-white wall. A stylish person is naturally sitting, leaning, or hanging from the number, posing confidently. Elegant floral arrangements with white roses, baby's breath, hydrangeas, and pastel blue balloons frame the composition. Soft natural sunlight, premium editorial photography, modern celebration aesthetic, clean luxury design, subtle shadows, sophisticated typography. At the top, display the name “[NAME]” in elegant serif font, followed by “CHAPTER [AGE]” and the quote “365 More Days of Miracles.” Neutral beige and white color palette, high-end event styling, dreamy atmosphere, photorealistic, magazine-quality portrait, ultra-detailed textures, luxury birthday photoshoot, Instagram-worthy, shallow depth of field, soft lighting, 8K masterpiece, professional fashion photography.

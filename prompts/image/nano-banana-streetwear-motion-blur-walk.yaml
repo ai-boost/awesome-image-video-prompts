@@ -1,0 +1,24 @@
+id: nano-banana-streetwear-motion-blur-walk
+title:
+  en: Streetwear model walking with vertical motion blur
+  zh: 街头风男模特行走配垂直动态残影
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- fashion
+- streetwear
+- portrait
+- motion-blur
+source:
+  name: '@SadiaMalik182 on X'
+  url: https://x.com/SadiaMalik182/status/2078088218462007462
+  credit: Sadia
+  likes: 73
+  captured: '2026-10-29'
+  posted: '2026-07-17'
+notes:
+  en: Listing each garment and tying the identity to the uploaded reference keeps the person and outfit consistent across the edit. The motion blur and glitch smear are described as a separate effect layer over a clean studio backdrop, which produces the ghosted trail behind the figure.
+  zh: 逐件列出服装并把人物身份锚定在上传的参考图上，能让人物和服饰在编辑后保持一致。动态模糊与故障拖影被单独描述为一层特效，叠加在干净的影棚背景上，形成身后的残影。
+prompt: |
+  A stylish young man in a premium editorial fashion photoshoot, wearing an oversized black/dark charcoal T-shirt, relaxed beige or white wide-leg trousers, premium Nike sneakers, optional black sunglasses, silver chain, and luxury wristwatch. Dynamic walking or standing pose with a confident expression, looking slightly away or toward the camera. Minimal clean white/light gray studio background, dramatic soft lighting, soft shadows, high contrast, artistic vertical motion blur and subtle glitch smear effect around the body, ultra-realistic skin texture, luxury streetwear campaign, Vogue-inspired fashion photography, cinematic color grading, 2K resolution, razor-sharp details, masterpiece quality, preserve the exact reference face and identity 100%, do not change my real face.

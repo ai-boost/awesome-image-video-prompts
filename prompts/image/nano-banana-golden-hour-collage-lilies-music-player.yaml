@@ -1,0 +1,24 @@
+id: nano-banana-golden-hour-collage-lilies-music-player
+title:
+  en: Golden hour collage of woman, lilies and music player
+  zh: 金色时刻下的人像拼贴、百合与音乐播放器
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- collage
+- portrait
+- golden-hour
+- warm-tones
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2049876084850905432
+  credit: Laraib Fatima‎
+  likes: 75
+  captured: '2026-10-29'
+  posted: '2026-04-30'
+notes:
+  en: Naming each panel as a shot type (eyes, lips, side profile) with one shared warm light gives the collage a coherent layout. The blurred music player overlay sets the nostalgic frame without competing with the portrait.
+  zh: 为每个画面指定镜头类型（眼睛、嘴唇、侧脸）并统一暖色光线，使拼贴保持一致的版式。模糊的音乐播放器叠层营造怀旧氛围，又不抢人像的焦点。
+prompt: |
+  Warm-toned cinematic portrait collage of a young woman with glowing skin, subtle freckles, and glossy nude lips. Long dark wavy hair, gold jhumkas, delicate necklace, deep maroon outfit with sheer dupatta. Golden hour lighting with soft shadows for a cozy mood. Aesthetic collage of close-ups (eyes, lips, side profile), with beige/orange lilies and a blurred music player overlay for a nostalgic vibe. Dewy skin, minimal makeup."

@@ -1,0 +1,30 @@
+id: nano-banana-hooded-bw-eye-light-portrait
+title:
+  en: Hooded black and white portrait with eye light
+  zh: 黑白兜帽人像与眼部光束
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- black-and-white
+- fashion-portrait
+- chiaroscuro
+- studio-lighting
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2073609440037597601
+  credit: K
+  likes: 92
+  captured: '2026-10-29'
+  posted: '2026-07-05'
+notes:
+  en: Stacking lighting, lens and grading terms (Rembrandt light, 85mm f/1.8, high contrast monochrome) gives the model a precise photographic brief. The hood variation confines a narrow beam to the eyes against a pure black background for strong chiaroscuro.
+  zh: 堆叠的布光、镜头和调色术语（伦勃朗光、85mm f/1.8、高对比黑白）为模型提供了精确的摄影指令。兜帽变体将窄光束只打在眼部，背景设为纯黑，形成强烈的明暗对比。
+prompt: |
+  Ultra-realistic fine art black-and-white portrait, editorial fashion photography, close-up centered composition, direct eye contact, calm yet emotionally powerful expression, flawless natural skin texture with subtle freckles and pores, cinematic high-contrast monochrome grading, dramatic Rembrandt lighting with soft directional light, deep blacks and luminous highlights, razor-sharp eyes with catchlights, premium medium-format camera quality, 85mm portrait lens, f/1.8, shallow depth of field, museum-quality fine art photography, minimalist composition, timeless elegance, luxury Vogue-style editorial, rich tonal range, ultra-detailed facial features, photorealistic, HDR, 8K resolution, award-winning portrait photography.
+
+  Variation 1 (Underwater): Half-submerged underwater portrait, crystal-clear water surface crossing the forehead, natural water caustic light patterns dancing across the face and shoulders, floating hair, tiny air bubbles, soft underwater haze, blurred fish in the distant background, tranquil atmosphere, surreal yet realistic, monochrome fine-art aesthetic.
+
+  Variation 2 (Studio Hood): Black hooded outfit against a pure black background, narrow beam of light illuminating only the eyes and upper face, soft shadow falloff, symmetrical composition, dramatic chiaroscuro, elegant fashion editorial styling, mysterious cinematic mood, luxury magazine cover aesthetic.
+
+  Negative Prompt: low resolution, blurry, overprocessed skin, waxy face, plastic texture, extra limbs, deformed eyes, asymmetrical face, duplicated features, noisy image, oversharpened, artifacts, watermark, logo, text, cropped head, bad anatomy, unrealistic lighting, cartoon, CGI, low quality, distorted proportions.

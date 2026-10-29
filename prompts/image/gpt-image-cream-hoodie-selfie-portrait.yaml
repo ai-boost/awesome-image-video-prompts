@@ -1,0 +1,34 @@
+id: gpt-image-cream-hoodie-selfie-portrait
+title:
+  en: Close up selfie of a woman in a cream hoodie
+  zh: 特写自拍，女子穿奶油色连帽衫
+model: GPT Image 2
+mode: image-edit
+category: portrait
+tags:
+- selfie
+- portrait
+- reference-identity
+- photorealistic
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2067641812165243390
+  credit: Meem
+  likes: 106
+  captured: '2026-10-29'
+  posted: '2026-06-18'
+notes:
+  en: Pinning identity to a reference image and naming makeup, hoodie and pose in concrete terms keeps the result tied to the source. The phone selfie framing, a plain warm wall and a sharp focus zone on the eye and sleeve give the shallow depth of field its authentic feel.
+  zh: 用参考图锁定人物身份，并具体描述妆容、衣物与姿态，让结果紧贴原图。手机自拍取景、素净暖色墙面，以及对眼睛和袖口的清晰对焦，共同营造浅景深的真实质感。
+prompt: |
+  Photorealistic close-up selfie portrait of the same girl from the reference image, using the reference as the only source for facial identity. Preserve her exact face shape, skin tone, eye shape, nose, lips, age, proportions, and all recognizable features with high accuracy. Do not alter her identity or make her appear as a different person.
+
+  She fills almost the entire frame, creating an intimate and authentic selfie composition. Her head is slightly tilted to one side, with her cheek gently resting against her shoulder and partially tucked inside the long cream-colored sleeve of an oversized zip-up hoodie draped casually over one shoulder. Long, straight dark hair with soft curtain bangs falls naturally along the left side of her face, partially covering one eye.
+
+  Her expression is calm and slightly pouting, with a relaxed, effortless mood. She looks directly into the camera, with visible eyelashes and subtle eye contact. Makeup is soft and natural, featuring laminated brows, elongated black winged eyeliner extending the eye shape, and matte dusty-pink lips.
+
+  The camera is positioned extremely close to her face, recreating the authentic feel of a webcam or phone selfie. The frame has a slight tilt and an unposed, spontaneous appearance. Sharp focus on the visible eye, lips, hair strands, skin texture, and the thick cream-colored hoodie sleeve, while the background softly blurs away.
+
+  Behind her is a simple warm gray-beige wall with no distracting details. Warm indoor ambient lighting mixed with subtle screen light from the front-left softly illuminates her face and hair, creating gentle highlights and natural shadows. The color palette is muted and cozy, dominated by cream, beige-gray, black, and dusty-pink tones.
+
+  Ultra-photorealistic, authentic smartphone selfie aesthetic, natural skin texture, realistic hair detail, subtle imperfections, shallow depth of field, intimate composition, candid everyday atmosphere, high detail, premium photography quality.

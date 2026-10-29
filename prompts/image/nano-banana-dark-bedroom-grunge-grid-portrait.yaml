@@ -1,0 +1,43 @@
+id: nano-banana-dark-bedroom-grunge-grid-portrait
+title:
+  en: Dark bedroom grid of woman in four poses
+  zh: 深色卧室中女孩四种姿态的拼贴
+model: Nano Banana 2
+mode: text-to-image
+category: collage
+tags:
+- portrait
+- grunge
+- low-light
+- collage
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2071185549969260844
+  credit: Simply Ray
+  likes: 78
+  captured: '2026-10-29'
+  posted: '2026-06-28'
+notes:
+  en: Spelling out a 2x2 grid with one pose per cell lets the model plan four distinct frames, and repeating the same hair, glasses and sweatshirt description keeps the subject consistent across them. The negative prompt blocks bright studio lighting and glossy retouching, which keeps the result looking like a phone snapshot.
+  zh: 明确写出 2x2 网格并为每格指定一个姿势，让模型规划四个不同画面；同时反复描述相同的发型、眼镜和卫衣，使人物在各格中保持一致。负面提示排除明亮打光和精修光泽，让画面更像手机随手拍。
+prompt: |
+  Nano banana 2 on
+  @openart_ai
+
+
+  Ultra-realistic dark aesthetic bedroom photo collage, 2x2 grid layout featuring the same young woman in four different candid poses. Soft grunge emo-girl vibe, messy long black hair partially covering her face, round black glasses, oversized black sweatshirt, pale skin, tired dreamy expression.
+
+  Top left: lying on a white pillow in a dark room, face partially hidden behind sleeve, looking toward camera.
+  Top right: sitting in darkness, hand covering mouth, messy hair, moody introspective pose.
+  Bottom left: extreme close-up portrait, hair falling across face, soft lips visible, cinematic shallow depth of field.
+  Bottom right: mirror selfie holding black smartphone, oversized black graphic t-shirt, one hand in hair, dim bedroom background.
+
+  Lighting: very low light, bluish-grey tones, subtle phone flash illumination, soft shadows, grainy digital camera texture, slight motion blur, nostalgic 2000s webcam aesthetic.
+
+  Style: dark academia, soft grunge, goth-inspired, melancholic mood, Tumblr aesthetic, indie bedroom photography, authentic candid moments, natural imperfections, muted colors, realistic skin texture, cinematic atmosphere.
+
+  Camera: handheld smartphone photography, high ISO grain, flash photography, shallow depth of field, realistic lens imperfections.
+
+  Color grading: desaturated blacks, cool blue-grey shadows, faded contrast, moody night-time atmosphere.
+
+  Negative prompt: bright lighting, smiling, colorful clothes, perfect studio lighting, heavy makeup, CGI, anime, cartoon, unrealistic skin, extra fingers, watermark, text, overexposed image, glossy fashion magazine style.

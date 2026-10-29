@@ -1,0 +1,24 @@
+id: gpt-image-seaside-sketchbook-daisy-pinafore-tree
+title:
+  en: Woman sketching in a notebook beneath an autumn tree
+  zh: 秋日海边树下写生的女孩
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- sketch
+- seaside
+- fashion
+source:
+  name: '@heyfatema on X'
+  url: https://x.com/heyfatema/status/2068586089414369391
+  credit: Fatema
+  likes: 61
+  captured: '2026-10-29'
+  posted: '2026-06-21'
+notes:
+  en: The prompt locks each element in place with a clear outfit list, a seated pose and a labeled background. Naming a spiral sketchbook, pen strokes and watercolor shading steers the model toward a hand-drawn anime finish rather than a glossy render.
+  zh: 提示词把服装清单、坐姿和背景元素逐项列明，使每个细节都固定下来。点名螺旋速写本、钢笔线条和水彩晕染，引导模型输出手绘动漫质感而非光滑渲染。
+prompt: |
+  Lighthearted sketch-style anime aesthetic, A serene, anime-inspired illustration of a young woman sitting against a tree by the seaside, full-body seated view at eye level, slightly turned three-quarter pose, looking down as she draws in a spiral sketchbook with a black pen. Soft pastel color palette with clean line art and gentle watercolor shading, warm, soft directional sunlight casting subtle, long shadows. She wears a lavender long-sleeve blouse under a green pinafore dress patterned with small white daisies, a white underskirt with larger daisy prints peeking out, white ankle socks and brown loafers. Long dark hair, natural expression, light blush on cheeks. Large tree trunk with textured bark and golden autumn leaves drifting in a light breeze; a few leaves scattered on the pavement. Background: calm blue ocean with gentle waves, pale sandy beach, distant horizon and soft fluffy clouds, a quiet two-lane coastal road beside the beach. Foreground includes a woven straw tote bag with colorful horizontal stripes placed on the curb. Emphasize peaceful, nostalgic mood, delicate details (fabric folds, leaf veins, bark texture, woven bag weave, pen and paper strokes), cinematic composition, high-resolution, soft grain, subtle rim light and natural ambient occlusion.

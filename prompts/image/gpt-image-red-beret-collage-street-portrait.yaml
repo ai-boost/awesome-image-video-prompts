@@ -1,0 +1,24 @@
+id: gpt-image-red-beret-collage-street-portrait
+title:
+  en: Red beret portrait with pink and aqua collage
+  zh: 红色贝雷帽人像配粉蓝拼贴街景
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- mixed-media
+- street-portrait
+- collage
+- photo-reference
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2073025145703202995
+  credit: H A J R A
+  likes: 72
+  captured: '2026-10-29'
+  posted: '2026-07-03'
+notes:
+  en: Naming the uploaded photo as the identity reference and listing the face, skin, hairstyle and proportions to keep keeps the stylized layers from drifting the person. Describing the realistic subject separately from the hand applied overlays such as contour lines, torn paper and marker swirls makes the collage read as added on top of the photo rather than a redraw.
+  zh: 用上传照片作为身份参考，并明确列出需保留的脸部、皮肤、发型和比例，使后续风格层不会改变人物。把真实人像与手工叠加层（轮廓线、撕纸、马克笔涂鸦）分开描述，拼贴效果就像叠在照片上，而不是重新绘制。
+prompt: |
+  Photorealistic mixed media collage street portrait sketch [OF A PERSON WITH A PHOTO]. Use the uploaded photo as an exact reference for the personality. Fully preserve the face, facial features, skin texture, proportions, hairstyle, and recognizability. Medium close-up, slight low angle, looking straight into the camera, soft smile with closed mouth. Clothing: loose white oversize t-shirt, tucked into light blue wide-leg high-waisted jeans, minimalist gold hoop earrings, concise modern style. Background: modern sunny street of a metropolis with futuristic glass buildings, stylish coffee shops, designer boutiques, wide sidewalks, urban greenery, modern architecture, reflections in glass facades, and a rich blue sky. Atmosphere of a warm summer day, lively, airy, and inspiring mood. Strong manual processing in mixed media style: bold drawn contour lines in bright pink and aquamarine colors, emphasizing the silhouette, abstract brush strokes, free marker swirls, semi-transparent torn paper fragments, handwritten strokes, dynamic scribbles, and graphic cutouts. Composition is energetic, yet neat and balanced. Light scanning texture, poster grain, delicate chromatic aberration, slightly frayed collage edges, feeling of a premium printed art poster. The character remains maximally realistic and sharp, while mixed media elements look hand-applied. Mood: modern, stylish, youthful, premium, bright, trendy, and scroll-stopping.

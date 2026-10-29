@@ -1,0 +1,36 @@
+id: nano-banana-woman-painting-fiance-studio
+title:
+  en: Woman painting as fiancé watches from behind
+  zh: 女子作画，未婚夫在身后凝望
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- photorealism
+- lifestyle
+- soft-lighting
+- camera-angle
+source:
+  name: '@JuliaClarky on X'
+  url: https://x.com/JuliaClarky/status/2069993197015814486
+  credit: Julia Clark
+  likes: 111
+  captured: '2026-10-29'
+  posted: '2026-06-25'
+notes:
+  en: The prompt lists subject, wardrobe, props and companion in a fixed order, then adds a camera line and a style stack. The camera line sets a medium-wide side angle with shallow depth of field, and the style stack pins the light and colour grade.
+  zh: 提示词按主体、服装、道具、同伴的顺序描述，再加入镜头和风格段落。镜头段指定中景侧角与浅景深，风格段固定光线与调色。
+prompt: |
+  Ultra-realistic cinematic photography, 8K, warm natural lighting, cozy artistic atmosphere. A beautiful young woman is deeply focused on painting in her private art studio-bedroom. She wears a simple oversized white T-shirt and a flowing skirt, creating a comfortable and creative look. Large studio headphones cover her ears as she becomes completely immersed in her artwork.
+
+  Her hair is stunning—long, voluminous, wavy layers with a professional layered haircut, soft strands naturally framing her face. She holds a painter's palette filled with vibrant colors in one hand while carefully painting on a large canvas with the other. Her expression shows concentration, passion, and peace.
+
+  The room is clearly her personal creative space, filled with canvases, paintbrushes, sketchbooks, art supplies, books, fairy lights, indoor plants, and framed artwork on the walls. Soft sunlight streams through a nearby window, illuminating floating dust particles and creating a dreamy artistic ambiance.
+
+  Standing slightly behind her is her fiancé, dressed casually and elegantly. He isn't interrupting her work; instead, he watches her with genuine admiration and affection. His eyes are full of pride, warmth, and love as he quietly observes her doing what she loves. His body language is gentle and supportive, as if he finds joy simply in seeing her happy and creating.
+
+  The interaction feels natural and candid rather than posed—a quiet moment of love, respect, and admiration between two people.
+
+  Camera: Medium-wide cinematic shot, slightly side angle, both subjects visible, shallow depth of field, soft bokeh background, natural composition.
+
+  Style: Ultra-realistic, photorealistic, cinematic storytelling, luxury lifestyle photography, magazine-quality image, realistic skin textures, detailed fabric folds, volumetric sunlight, warm color grading, emotional atmosphere, masterpiece, 8K HDR, highly detailed, no text, no watermark.

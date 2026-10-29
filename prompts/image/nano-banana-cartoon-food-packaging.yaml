@@ -1,0 +1,24 @@
+id: nano-banana-cartoon-food-packaging
+title:
+  en: Four cartoon food packages with window reveals
+  zh: 四款带卡通脸和开窗设计的食品包装
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- packaging
+- mockup
+- cartoon
+- product
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2027806040109289487
+  credit: Amira Zairi
+  likes: 187
+  captured: '2026-10-29'
+  posted: '2026-02-28'
+notes:
+  en: Swap in your product name, then ask for a cartoon face on the front panel with a window cut out as part of its expression, which ties the box shape to the product. Studio terms like soft studio lighting, pure white background and a subtle contact shadow keep the render clean and retail ready.
+  zh: 替换成你的产品名，然后要求正面印有卡通脸，并把开窗做成表情的一部分，让包装造型与产品融为一体。柔和棚拍光、纯白背景和细微接触阴影，让渲染干净、可直接用于零售展示。
+prompt: |
+  Playful designer packaging for [product name], creative box shaped like the product, integrated cartoon face on the front panel, oversized die-cut window revealing the real contents as part of the character’s expression, smooth matte cardboard material, bold flat graphic design, modern minimalist branding, limited pastel color palette, rounded friendly shapes, clean typography, high-end 3D packaging mockup render, soft studio lighting, pure white background, subtle realistic contact shadow beneath, ultra-detailed, retail-ready presentation, 1:1 aspect ratio.

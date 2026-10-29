@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 34 entries
+[Back to the list](../../README.md) · All 35 entries
 
 <a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
 ### Gym selfie surrounded by chibi mini selves
@@ -410,6 +410,27 @@ TARGET IMAGE = everything.
 REFERENCE IMAGE = face identity only.
 Change nothing else.
 The final result must look like the original TARGET IMAGE, with only the woman's facial identity replaced by the woman from the reference photo.
+```
+
+</details>
+
+<a id="gpt-image-beach-chibi-stickers-doodles"></a>
+### Beach portrait with chibi stickers and doodles
+
+<a href="https://x.com/Zyrellix/status/2053777315596042381"><img src="../../previews/gpt-image-beach-chibi-stickers-doodles.jpg" width="360"></a>
+
+Asking for the same character in several chibi poses, plus white sticker outlines and handwritten words matched to the scene mood, keeps the real portrait as the focal point. Each caption is tied to the beach setting, so the doodles feel native rather than repeated.
+
+GPT Image 2 · Edit · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2053777315596042381) · 94 likes on 2026-10-29
+
+[`chibi`](tags.md#tag-chibi) [`doodles`](tags.md#tag-doodles) [`stickers`](tags.md#tag-stickers) [`beach`](tags.md#tag-beach)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Around the main figure, add multiple mini 3D chibi versions of the same character in playful poses and expressions, such as jumping cheerfully, waving, sitting relaxed, holding a drink, and other lively, cute gestures. Maintain consistent facial features between the main figure and all chibis.
+Incorporate hand-drawn white doodle elements: thin outlines around the main figure, stars, hearts, sparkles, motion lines, and small cute icons. Add aesthetic handwritten words in a casual doodle font that are contextual to the photo’s mood and environment—for example, beach photos might include “sunny vibes,” “good waves,” urban scenes might include “city energy,” “fresh ride,” or autumn forest scenes might include “cozy,” “fall feels.” Words should feel natural, playful, and adapt to each unique photo rather than repeating the same set everywhere.
+Ensure the overall composition is clean, Instagram-ready, and visually balanced, with soft pastel color tones and a cohesive, charming style. Chibis should have a high-detail 3D glossy look, inspired by cute Korean style, appearing tactile and playful. Use white sticker outlines around doodles and chibis to make them pop gently against the background. The main figure should remain the focal point, with chibis and doodles enhancing the composition without cluttering it.
 ```
 
 </details>
