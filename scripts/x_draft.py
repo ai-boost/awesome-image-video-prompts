@@ -41,7 +41,7 @@ Reject the candidate when any of these hold:
 - the output contradicts the prompt: its subject, text, colours or style differ from what the prompt asks for, or the prompt is for a video. This means the image did not come from this prompt, so reject it; never treat it as a notes problem
 - quality: the output is clearly broken (garbled text, broken anatomy, muddy); a simple prompt is fine when the output is good
 Not violations: a brand worn or held as an accessory, a small detail that differs while the subject and layout match,
-and a template written with fill-in slots such as [TOPIC] or {NAME}.
+and a template written with fill-in slots such as [TOPIC] or {{NAME}}.
 
 Otherwise accept and write, in the house style:
 - id: short kebab-case slug starting with "{prefix}-"
