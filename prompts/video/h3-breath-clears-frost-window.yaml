@@ -1,0 +1,27 @@
+id: h3-breath-clears-frost-window
+title:
+  en: Breath clears a round patch in frost
+  zh: 呼气在霜花窗上融出一圈透明圆
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- frost
+- macro
+- window
+- breath
+- locked-camera
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/2102162002210648203
+  credit: Glenn Williams
+  likes: 22
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/GlennHasABeard/status/2102162002210648203
+notes:
+  en: 'A single cause and one visible end state give the model a clear path: an off-screen breath melts frost into a hand-sized circle. The locked macro framing and a timed sound script (crackle, exhale, drip) fix both the shot and its timing.'
+  zh: 只给一个起因和一个可见的结果：画外一口热气让霜花融化成手掌大小的圆。固定的微距机位加上按时间写明的声音脚本（噼啪声、呼气、水滴），把镜头和节奏都锁住。
+prompt: |
+  a warm breath from just off-screen fogs the center of the pane and the frost there melts back into a clear circle the size of a hand

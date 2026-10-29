@@ -1,6 +1,6 @@
 # 科幻与奇幻
 
-[返回目录](../../README_zh.md) · 全部 35 条
+[返回目录](../../README_zh.md) · 全部 62 条
 
 <a id="seedance-lab-containment-breach"></a>
 ### 实验室收容失效，科幻恐怖
@@ -516,6 +516,82 @@ Style: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atm
 
 </details>
 
+<a id="h3-schoolgirl-runs-golden-grass-phoenix"></a>
+### 女学生在夕阳下的金色草丛中奔跑
+
+<a href="https://x.com/Cardoso/status/2108599749179781551"><img src="../../previews/h3-schoolgirl-runs-golden-grass-phoenix.jpg" width="360"></a>
+
+四个带时间码的镜头，每个镜头都写明运镜，并用身份锁定段重复发型、发带和制服，使角色在切换中保持一致。音效和配乐单独成段，不与画面描述混在一起。
+
+MiniMax H3 · 文生视频 · 出处: [@Cardoso on X](https://x.com/Cardoso/status/2108599749179781551) · 24 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`multi-shot`](tags.md#tag-multi-shot) [`identity-lock`](tags.md#tag-identity-lock) [`camera-move`](tags.md#tag-camera-move) [`phoenix-transformation`](tags.md#tag-phoenix-transformation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, anamorphic 35mm, golden hour, fine film grain, warm sun flare. A low tracking shot through a wide open meadow of tall gold grass, low sun ahead on the horizon, no buildings, no road. A Japanese schoolgirl runs screen-left to screen-right, feet-first, toward the open field and the sun, not back toward the camera. Identity lock: late teens, fair skin, black shoulder-length hair with a small red ribbon, navy sailor uniform with a white collar and red neckerchief, pleated navy skirt, white socks, brown loafers. Determined face, eyes on the field ahead, not on the camera, mouth closed. Grass whips through the foreground, out of focus. Her hair and skirt stream behind her. The camera trucks right at fast speed at knee height, matching her pace, with large amplitude, sun flare raking the lens. No second person. No bird yet. No speech. No narrator.
+[Shot 2] At 00:03.800, the camera cuts to an extreme low angle from the grass, looking up. Same girl, same lock: late teens, black shoulder-length hair, red ribbon, navy sailor uniform, white collar, red neckerchief, pleated skirt, white socks, brown loafers. She plants her right foot and leaps straight up, arms opening, skirt and hair lifting, loafers leaving the grass. The sun sits behind her so she is a rim-lit silhouette against a clear gold sky. She does not fall back. She does not look at the camera. Mouth stays closed. The camera tilts up at fast speed with large amplitude, following her rise, grass blades sharp in the near foreground. No speech. No narrator.
+[Shot 3] At 00:07.200, the camera cuts to a medium shot of her at the top of the leap, same body, same face, same navy uniform and red ribbon, against the gold sky. One continuous morph, no second figure, no costume left behind, no small bird hatching out of her. Gold fire kindles at her outstretched fingertips and at the hem of the skirt, climbs the arms, and becomes long primary feathers. The sailor collar and skirt burn away into plumage on the same body. Her face lengthens into a raptor beak in that same head; the eyes stay in place and turn coal-bright. Her legs tuck and become talons. What finishes the morph is a phoenix the size of a large crane, wingspan wider than she was tall: gold breast, crimson flight feathers with white-hot edges, a long trailing tail of fire, not a cartoon flame blob, not a sparrow, not a chicken. The camera arcs around her with large amplitude at slow speed as the wings open. No human girl remains in frame. No speech. No narrator.
+[Shot 4] At 00:11.000, the camera cuts to a wide low crane over the same meadow. The phoenix only: crane-sized, gold breast, crimson flight feathers, white-hot edges, long fire tail, coal-bright eyes, talons tucked. It banks once, then flies away from the camera toward the low sun, wings beating forward, hood-first, not reversing, not circling back to the girl, because the girl is gone. Embers drift down into the grass and go dark; the field does not catch. She shrinks toward the sun. The camera tilts up and pulls out with large amplitude at slow speed until the bird is a bright streak on the horizon. No speech. No narrator.
+
+overall_soundscape: Wind in tall grass, loafers on dry stems, a short breath on the plant, fabric snap as she leaves the ground. A rising whoosh as fire takes the uniform, then heavy wing beats and a single wild phoenix cry, beak open once, not words. Embers tick into the grass. After the cry, only wind and wings fading. No voices. No narrator.
+
+non_diegetic_music: Low strings and a solo shakuhachi in a slow pulse, a single taiko hit on the plant, then fast rising brass and a high string ostinato under the wing beats. No lyrics. No sung theme.
+```
+
+</details>
+
+<a id="h3-ruby-queen-gown-to-armor"></a>
+### 红宝石女王在哥特大厅中即将化身战甲
+
+<a href="https://x.com/TaliaAariz/status/2090330350668947525"><img src="../../previews/h3-ruby-queen-gown-to-armor.jpg" width="360"></a>
+
+提示词按顺序分段：先确立造型，再拉远镜头展示完整服饰，随后用魔法光爆把长裙和权杖变为战甲、长剑与盾牌。结尾指定战斗姿势和红色魔法阵，为模型提供明确的最终画面。
+
+MiniMax H3 · 文生视频 · 出处: [@TaliaAariz on X](https://x.com/TaliaAariz/status/2090330350668947525) · 19 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`costume-transformation`](tags.md#tag-costume-transformation) [`magic-burst`](tags.md#tag-magic-burst) [`camera-zoom-out`](tags.md#tag-camera-zoom-out) [`gothic-interior`](tags.md#tag-gothic-interior)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic fantasy transformation beginning with a majestic queen wearing an intricate ruby-embroidered corset gown, matching crown, and holding a glowing heart-topped scepter inside a gothic cathedral throne room. The camera zooms out to show her full attire as she turns and walks toward a grand staircase, where a burst of glowing red magical light erupts around her. Enveloped in the crimson energy, her gown transforms into sleek, ornate metallic warrior armor, while her scepter morphs into a longsword and an embossed shield. She turns back toward the camera in a powerful battle stance, positioned before a glowing red arcane circle on the cathedral steps.
+```
+
+</details>
+
+<a id="h3-houyi-nine-suns-archer-battle"></a>
+### 孤身射手立于焦土，九日悬天
+
+<a href="https://x.com/LufzzLiz/status/2085152634949030212"><img src="../../previews/h3-houyi-nine-suns-archer-battle.jpg" width="360"></a>
+
+按时间段写分镜，每段都给出明确运镜（低机位推近、高速环绕、慢动作），让模型有清晰的镜头顺序。锁定参考图人物身份，并禁止设定板、分格、文字和界面，使结果保持为一段连续的电影场景。
+
+MiniMax H3 · 图生视频 · 出处: [@LufzzLiz on X](https://x.com/LufzzLiz/status/2085152634949030212) · 16 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`chinese-mythology`](tags.md#tag-chinese-mythology) [`epic-battle`](tags.md#tag-epic-battle) [`slow-motion`](tags.md#tag-slow-motion) [`timed-shots`](tags.md#tag-timed-shots)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+电影级东方神话史诗，保持参考图中后羿的身份与造型统一：年轻坚毅的东方男性，凌乱黑色长发，带灼痕的黑铜战甲、朱红腰带、玉石饰物，手持雕纹神圣青铜弓。画面转换成完整连续的真实电影场景，禁止出现设定板、分格、文字和界面。
+
+0至3秒，乌云翻涌的焦土战场，天空悬挂九轮燃烧烈日。低机位掠过碎石与灰烬，快速推近后羿背影，披风和长发在热浪中狂舞。
+
+3至7秒，群鸦骤然冲出云层，镜头高速环绕至后羿侧面。他抬弓搭箭，青铜弓纹逐层亮起金红色神光，弓弦绷紧，眼神从克制转为决绝，火星贴近镜头飞过，强烈压迫感。
+
+7至11秒，后羿猛然释放神箭。瞬间进入极致慢动作，发光箭矢撕裂空气，随后镜头迅猛追随箭矢穿越云海。神箭分化为九道金色流光，烈日接连崩裂，形成震撼的连锁爆炸，冲击波推开乌云，天地剧烈震动。
+
+11至15秒，爆炸声势骤然沉寂，灰烬像雪一样缓慢飘落。天空只剩最后一轮温暖太阳，后羿立于山巅成为逆光剪影，缓缓放下神弓。镜头升高并大幅拉远，露出重获生机的辽阔山河，庄严、悲壮、余韵悠长。
+
+真实电影摄影，史诗级规模，强烈明暗对比，体积光，热浪折射，飞灰与火星，真实布料和金属质感，动态运镜，速度变化自然，24帧电影质感，人物面部稳定，手指与弓箭结构正确，无字幕，无水印，无现代物品。 
+
+根据这个提示词，你觉得哪个模型做的最好？客观多方位真实评价
+```
+
+</details>
+
 <a id="h3-starship-hyperspace-jump"></a>
 ### 星舰舰桥，舰队跃迁
 
@@ -622,6 +698,88 @@ Background Music: elegant, classical Chinese instrumental music evoking a celest
 
 输入素材: [1](https://static-41.klingai-cdn-aws.com/kling-blog/file_by_url/42f358302f2d6b57eab3c152bcd280c568591ec04a2c955501b7ae6db7e436aa.png) · [2](https://static-99.klingai-cdn-aws.com/kling-blog/file_by_url/2a100339cabc4ef41bc6545716796046247e2c7ca1a35dec672ff7444e70972e.png)
 
+<a id="seedance-2100-mystery-message-dubai"></a>
+### 黑暗中的手机屏幕，俯拍桌面
+
+<a href="https://x.com/iam_nafisahmed/status/2087921744166420808"><img src="../../previews/seedance-2100-mystery-message-dubai.jpg" width="360"></a>
+
+提示词按时间顺序分段写出剧情节拍，从手机收到消息一直推进到渺小人影站在巨大物体下方。空城画面和结尾远景确定比例感，风格段落统一了写实光影、雾气与胶片颗粒。
+
+Seedance 2.5 · 文生视频 · 出处: [@iam_nafisahmed on X](https://x.com/iam_nafisahmed/status/2087921744166420808)
+
+[`sci-fi`](tags.md#tag-sci-fi) [`dubai`](tags.md#tag-dubai) [`mystery`](tags.md#tag-mystery) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second photorealistic cinematic sci-fi mystery short film.
+
+A young man in his late 20s is alone in a modern apartment in Dubai at night. His smartphone suddenly receives a mysterious video message labeled "MESSAGE FROM 2100." He opens it and sees an older version of himself, around 70 years old, sitting in a futuristic room. The older man looks terrified and urgently says: "Whatever you do... don't go outside tomorrow."
+
+The video suddenly glitches and cuts to black.
+
+The next morning, the young man cautiously walks toward his apartment window and looks outside. Reveal a breathtaking futuristic Dubai in the year 2100: enormous advanced skyscrapers, futuristic transportation, flying vehicles, glowing architecture and a transformed Burj Khalifa.
+
+But the entire city is completely empty. No people. No cars. No activity.
+
+The man slowly looks up toward the sky.
+
+The clouds suddenly separate, revealing an enormous mysterious unidentified object hovering above the futuristic city, so massive that it dominates the entire skyline.
+
+End on a dramatic wide shot of the tiny man standing beneath the gigantic object.
+
+Style: ultra-photorealistic, cinematic sci-fi thriller, realistic human expressions, believable futuristic technology, realistic Dubai architecture, dramatic lighting, atmospheric haze, volumetric clouds, subtle film grain, shallow depth of field, smooth cinematic camera movement, realistic scale, suspenseful pacing, premium Hollywood VFX, highly immersive.
+
+No cartoon style, no subtitles, no logos, no watermark.
+```
+
+</details>
+
+<a id="seedance-armored-queen-storm-dive"></a>
+### 身披银黑铠甲的金发女战士穿越风暴云层
+
+<a href="https://x.com/Noor_ul_ain43/status/2097879315912552864"><img src="../../previews/seedance-armored-queen-storm-dive.jpg" width="360"></a>
+
+将 11 秒按时间段拆分，每段写明各自的机位运动（俯拍下坠、正面跟拍、特写），再用独立的风格、镜头和动作段落补充约束。结尾列出负面约束，防止镜头切换时脸部、肢体和鸟的数量出错。
+
+Seedance 2.5 · 文生视频 · 出处: [@Noor_ul_ain43 on X](https://x.com/Noor_ul_ain43/status/2097879315912552864) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dark-fantasy`](tags.md#tag-dark-fantasy) [`multi-shot`](tags.md#tag-multi-shot) [`timed-segments`](tags.md#tag-timed-segments) [`armor-warrior`](tags.md#tag-armor-warrior)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an 11-second cinematic dark-fantasy scene featuring a beautiful blonde female warrior queen wearing intricate medieval silver-and-black metallic armor and a delicate dark crown.
+
+SCENE 1 — 0–3 seconds:
+Begin with a dramatic top-down aerial shot. The warrior is flying/falling through thick stormy clouds with her arms stretched outward like she is diving through the sky. Her long blonde hair and pieces of her clothing move naturally in the powerful wind. Far below, a vast fantasy landscape is barely visible through the mist. The camera rapidly moves downward toward her while maintaining a powerful cinematic perspective.
+
+SCENE 2 — 3–5 seconds:
+Transition smoothly into a frontal tracking shot as she moves through the clouds. Her armored shoulders and arms remain extended. Her expression is serious, fearless and emotionally intense. Soft sunlight breaks through the clouds behind her, creating a dramatic halo around her silhouette. Tiny particles and mist pass rapidly across the camera lens.
+
+SCENE 3 — 5–9 seconds:
+Cut into an extreme cinematic close-up of her face. A huge majestic black raven/eagle suddenly flies beside her face, its dark feathers contrasting against her pale skin and blonde hair. The bird moves extremely close to her, almost touching her cheek. Feathers are released into the air and float dramatically around them. She looks directly ahead with an intense, mysterious expression.
+
+SCENE 4 — 9–11 seconds:
+The bird slowly moves away while she turns her head toward it. Her expression changes subtly from determination to curiosity and emotion. Wind continues moving her hair and armor naturally. The background remains filled with bright clouds and atmospheric mist.
+
+VISUAL STYLE:
+Epic high-budget fantasy film, photorealistic CGI, dark medieval fantasy, dramatic natural lighting, realistic metallic armor, highly detailed skin and hair, volumetric clouds, atmospheric fog, floating feathers, realistic bird movement, cinematic depth of field, subtle film grain, anamorphic lens characteristics, rich shadows, dramatic contrast, sophisticated color grading.
+
+CAMERA:
+Smooth aerial tracking, fast cinematic push-in, gradual transition to extreme close-up, shallow depth of field, realistic handheld micro-movement during the close-up, carefully controlled focus pulls, cinematic composition.
+
+MOTION:
+Natural wind physics, realistic hair movement, physically accurate feathers, believable bird flight, flowing fabric, subtle facial expressions and eye movement. No exaggerated or cartoonish motion.
+
+MOOD:
+Mysterious, powerful, emotional, majestic, supernatural and epic — like a scene from a premium dark-fantasy feature film.
+
+Maintain consistent facial identity, anatomy and armor throughout the entire video. No face distortion, no extra limbs, no duplicated bird, no unnatural body movement, no text, no subtitles, no watermark.
+```
+
+</details>
+
 <a id="seedance-baby-dragon-afro-cottage-comedy"></a>
 ### 小龙用魔法火焰把少女变成爆炸头
 
@@ -704,6 +862,98 @@ Smooth cinematic camera movement, realistic facial expressions, detailed hair ph
 
 </details>
 
+<a id="seedance-black-sphere-rooftop-time-reversal"></a>
+### 雨中未来城市上方的巨大黑色球体
+
+<a href="https://x.com/codewithhajra/status/2094758907885355381"><img src="../../previews/seedance-black-sphere-rooftop-time-reversal.jpg" width="360"></a>
+
+提示词把10秒拆分为有先后顺序的节拍，并按顺序列出声音提示，让模型有清晰的时间线可依。固定的人物描述加上一致性要求，使特写镜头中的女主角保持稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2094758907885355381)
+
+[`sci-fi`](tags.md#tag-sci-fi) [`cinematic`](tags.md#tag-cinematic) [`rain`](tags.md#tag-rain) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+10 seconds, cinematic, ultra-realistic, photorealistic, colossal scale, no text, no logos. The black sphere pulses. The frozen city suddenly moves again. On a rooftop far below, a young woman in a dark futuristic raincoat stands completely still, drenched by the rain. She looks upward as the sphere begins opening like a gigantic black eye. Her hair and coat whip violently in the gravitational wind. She slowly raises one hand toward the sphere. Inside it, the tiny city begins moving backward through time—cars reverse, rain rises, broken buildings reconstruct themselves. The woman watches in disbelief as her own reflection appears inside the sphere. The reflection moves independently. The real woman lowers her hand. The reflection doesn't. It suddenly turns toward her and points behind her. She turns around. Every skyscraper in the city is now facing her, windows illuminating one by one in a massive wave.  The gravitational force suddenly intensifies. She is pulled across the rooftop toward the sphere, sliding through the rain. She grabs a massive steel structure, barely holding on as buildings around her stretch toward the black sphere.  Extreme close-up of her eyes. Inside her pupil, the entire futuristic city is reflected. Then the reflection reveals something impossible: another version of the woman standing directly behind her. A deep pulse. 
+
+HARD CUT TO BLACK. Sound: violent rain → deep gravitational rumble → metallic tearing → sudden silence → one sharp breath → enormous sub-bass pulse. Character: realistic young woman, dark futuristic raincoat, wet hair, natural facial features, cinematic lighting, determined but frightened expression. Keep her visually consistent throughout the sequence
+```
+
+</details>
+
+<a id="seedance-businessman-portal-dinosaur"></a>
+### 商务人士被蓝色传送门拉入恐龙丛林
+
+<a href="https://x.com/Elvorya/status/2105171530703413334"><img src="../../previews/seedance-businessman-portal-dinosaur.jpg" width="360"></a>
+
+用编号分镜并为每次转场写明镜头指令，让30秒剧情保持顺序。固定角色细节（西装、领带、咖啡杯、皮鞋）并重复身份约束，使同一人物贯穿每个切镜。
+
+Seedance 2.5 · 文生视频 · 出处: [@Elvorya on X](https://x.com/Elvorya/status/2105171530703413334) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fantasy`](tags.md#tag-fantasy) [`portal`](tags.md#tag-portal) [`dinosaur`](tags.md#tag-dinosaur) [`character-continuity`](tags.md#tag-character-continuity)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second photorealistic cinematic fantasy adventure sequence following a sharply dressed businessman through an ordinary morning in a busy modern city. Begin with a warm golden-hour tracking shot moving through a downtown street surrounded by towering glass skyscrapers, yellow taxis, pedestrians, and long cinematic shadows → reveal the businessman wearing a dark navy suit, white shirt, and tie, calmly walking through the crowd while holding a takeaway coffee and papers → transition to a dynamic street-level shot as a woman accidentally bumps into him, causing papers, coffee, sunglasses, and pigeons to scatter dramatically through the air → cut to a cinematic close-up as he reaches toward the floating coffee cup while strange golden magical particles begin appearing around him → suddenly reveal the coffee cup surrounded by glowing blue magical energy as the entire city begins filling with swirling particles → transition into a dramatic low-angle shot looking upward between enormous skyscrapers as the atmosphere transforms into a powerful vortex of golden dust and blue energy → cut to a spectacular portal sequence as a huge glowing blue circular gateway opens and pulls the businessman through the air, his suit and tie reacting naturally to the force while he desperately holds onto his coffee → transition through the blue portal into a mysterious ancient rainforest filled with enormous trees, dense ferns, mist, moss-covered ground, and shafts of soft sunlight → reveal the businessman crashing onto the forest floor, still holding his coffee, then slowly standing up in confusion → suddenly cut to an intense close-up of a gigantic realistic T-Rex-like dinosaur emerging from the dense jungle and roaring directly toward him → transition into a fast dynamic tracking shot as the businessman runs across a massive fallen tree while the dinosaur charges aggressively behind him → cut to a spectacular wide shot of him sprinting across a rope suspension bridge above a raging jungle river as the enormous dinosaur follows him → transition into an action close-up as he grabs a hanging jungle vine and swings dramatically beside a massive waterfall while the dinosaur leaps across the gap behind him → final shot becomes a heroic cinematic wide-angle view of the businessman standing on a moss-covered rock in the prehistoric forest, calmly drinking his coffee while a brilliant glowing blue portal opens behind him, surrounded by mist, waterfalls, enormous trees, floating magical particles, and dramatic sunlight breaking through the canopy.
+
+Visual style: ultra-photorealistic live-action fantasy adventure, premium Hollywood cinematography, realistic human character, realistic dinosaur creature, natural skin texture, physically accurate motion, cinematic depth of field, anamorphic lens, volumetric lighting, atmospheric fog, realistic water and particle effects, dramatic scale, smooth camera movement, high-detail environments, immersive cinematic realism, 4K quality.
+
+Character continuity: keep the exact same businessman throughout the entire sequence, identical face, hairstyle, age, body proportions, navy suit, white shirt, tie, black shoes, and coffee cup; no identity drift, no wardrobe changes, no character redesign.
+
+Negative prompt: cartoon, animation, stylized CGI, plastic skin, fake-looking human, identity drift, changing face, changing clothes, duplicate character, extra people appearing suddenly, deformed hands, extra fingers, extra limbs, distorted body, unrealistic dinosaur anatomy, floating objects, broken physics, jittery motion, excessive motion blur, warped buildings, artificial environment, low detail, oversaturated colors, text, subtitles, logos, watermark, UI elements.
+```
+
+</details>
+
+<a id="seedance-clockmaker-freezes-workshop-time"></a>
+### 钟表匠冻结工坊时间
+
+<a href="https://x.com/AIwithZeeshi/status/2108412888415400315"><img src="../../previews/seedance-clockmaker-freezes-workshop-time.jpg" width="360"></a>
+
+提示词先完整列出真实世界的物理规则，再只设定一个超自然例外，因此重力、阴影和物体轨迹保持一致，只有时间效果打破规则。按向前、倒转、冻结、最后特写的顺序安排剧情节拍，让片段结构清晰。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2108412888415400315) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`time-freeze`](tags.md#tag-time-freeze) [`workshop`](tags.md#tag-workshop) [`physics-exception`](tags.md#tag-physics-exception) [`camera-tracking`](tags.md#tag-camera-tracking)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A middle-aged clockmaker is repairing an antique pocket watch in his old-fashioned workshop at night when he discovers a mysterious clock that controls time.
+
+He carefully turns its brass winding crown backward, causing a nearby pendulum to slow down, falling dust to become suspended in the air, and the second hands of surrounding clocks to stop moving.
+
+He turns the crown forward, and everything resumes its natural motion. Fascinated, he turns it backward again, gradually freezing time throughout the workshop while he remains able to move.
+
+The video ends with a cinematic close-up of the mysterious clock as its second hand continues ticking in an otherwise motionless room.
+
+Photorealistic cinematic fantasy, realistic mechanical gear interactions, believable pendulum physics, natural gravity and inertia, consistent character appearance, realistic brass reflections, warm workshop lighting, physically accurate shadows, natural human movement, smooth camera tracking, realistic depth of field, and continuous object trajectories throughout. The supernatural time-control effect is the only exception to real-world physics.
+```
+
+</details>
+
+<a id="seedance-cyberpunk-phoenix-tea-transformation"></a>
+### 身着藏青旗袍的女子在日落茶室品茶
+
+<a href="https://x.com/laviniavelle/status/2107709472944906671"><img src="../../previews/seedance-cyberpunk-phoenix-tea-transformation.jpg" width="360"></a>
+
+提示词按镜头顺序逐句描述，从茶杯特写开始，让蓝色能量凤凰从日常物件中升起，再过渡到服装变化。每个镜头都写明场景、动作以及结尾转身面向镜头，为模型提供清晰的分镜锚点。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2107709472944906671)
+
+[`cyberpunk`](tags.md#tag-cyberpunk) [`transformation`](tags.md#tag-transformation) [`energy-phoenix`](tags.md#tag-energy-phoenix) [`rooftop-leap`](tags.md#tag-rooftop-leap)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic 8K video sequence, 30 seconds An elegant East Asian woman in a dark navy cheongsam sits in a luxury high rise tea room at golden hour sunset overlooking a city Close up of her teacup as steam forms a glowing blue spectral energy phoenix that emerges from the tea. The light phoenix enters her chest, swirling blue energy transforming her dress into sleek black cyberpunk tactical armor She stands on a skyscraper rooftop at night surrounded by neon billboards, flying vehicles and floating particles She sprints and leaps off the rooftop edge stepping onto a glowing blue energy platform mid air to leap across the city Lands gracefully on another high rooftop as a massive blue energy phoenix spreads its wings behind her before she turns to face the camera.
+```
+
+</details>
+
 <a id="seedance-cyberpunk-skyscraper-freefall-neon-dive"></a>
 ### 赛博朋克摩天楼坠落穿越霓虹都市
 
@@ -719,6 +969,59 @@ Seedance 2.5 · 文生视频 · 出处: [@itsshara_ai on X](https://x.com/itssha
 
 ```text
 A dark figure leaps from a skyscraper ledge and free-falls through a neon-drenched cyberpunk cityscape at night. Massive holographic billboards and glowing purple and pink signage streak past as the camera plunges downward in a vertigo-inducing POV dive. Rain-slicked surfaces reflect neon light below. High-speed freefall, cyberpunk noir atmosphere, vertiginous depth.
+```
+
+</details>
+
+<a id="seedance-dark-fantasy-sword-ritual-cathedral"></a>
+### 受伤女子在哥特大教堂石地上撑起身体
+
+<a href="https://x.com/itsSaira_1/status/2110223060066521421"><img src="../../previews/seedance-dark-fantasy-sword-ritual-cathedral.jpg" width="360"></a>
+
+采用分镜编号结构，每个镜头单独给出景别、光线和氛围，让模型在一次生成中按顺序切换场景。负面提示词用于压制卡通、低模和现代服装等偏差。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2110223060066521421)
+
+[`dark-fantasy`](tags.md#tag-dark-fantasy) [`shot-sequence`](tags.md#tag-shot-sequence) [`gothic`](tags.md#tag-gothic) [`sword-ritual`](tags.md#tag-sword-ritual)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Sequence of shots for a dark fantasy cinematic video:
+
+[Shot 1] 
+Close-up cinematic shot of a wounded woman with long dark hair, wearing a blood-stained white medieval gown, struggling and pushing herself up on the stone floor of a dark gothic cathedral, moody atmosphere, dramatic lighting, 8k resolution.
+
+[Shot 2] 
+Cinematic shot of a woman plunging a glowing magical sword into the stone floor, creating a bright red glowing fiery magical sigil circle expanding rapidly across the ground, dark fantasy style, smoke, epic visual effects.
+
+[Shot 3] 
+Cinematic wide shot inside a gothic cathedral, revealing a towering mystical entity in a dark hooded cloak framed by massive rotating concentric golden rings filled with glowing eyes, epic fantasy atmosphere, dramatic lighting, 8k.
+
+[Shot 4]
+Action-packed cinematic shot of terrifying demonic monsters roaring and moving aggressively in a dark gothic cathedral, surrounded by smoke, debris, and bursts of magical fire, dark fantasy film style.
+
+Negative prompt: 
+blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.
+```
+
+</details>
+
+<a id="seedance-dragon-bedside-three-reference-roles"></a>
+### 龙低头靠近烛光床上的女子
+
+<a href="https://x.com/ZentrixHQ/status/2109579827565015394"><img src="../../previews/seedance-dragon-bedside-three-reference-roles.jpg" width="360"></a>
+
+每张参考图只指定一个用途：图 1 提供女子的脸、发型和服装，图 2 提供成年龙，图 3 提供幼龙。结尾一句把幼龙的珍珠白与粉色配色、琥珀色竖瞳和粉色冠羽与成年龙绑定，让两条龙看起来是同一种生物的不同体型。
+
+Seedance 2.5 · 参考生视频 · 出处: [@ZentrixHQ on X](https://x.com/ZentrixHQ/status/2109579827565015394)
+
+[`character-consistency`](tags.md#tag-character-consistency) [`reference-images`](tags.md#tag-reference-images) [`dragon`](tags.md#tag-dragon) [`multi-reference`](tags.md#tag-multi-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use image 1 for the young woman's face, hair and outfit. Use image 2 for the adult dragon. Use image 3 for the baby dragon. The baby dragon has exactly the same pearl-white and pink color, amber slit-pupil eyes and pink-tipped crest as the adult dragon.
 ```
 
 </details>
@@ -760,6 +1063,33 @@ Camera: Smooth tracking shots, wide establishing shots, extreme close-ups, slow 
 Audio: Natural kitchen ambience, crackling fire, subtle dragon breathing and growls, sizzling meat, and cinematic fantasy background music.
 
 Format: 16:9 widescreen, 30 seconds, 24 FPS, consistent character design, consistent dragon appearance, no text, no subtitles, no logos, no watermarks.
+```
+
+</details>
+
+<a id="seedance-dragon-rider-pov-ocean-dive"></a>
+### 第一人称视角骑乘巨龙俯瞰海崖
+
+<a href="https://x.com/frametheory058/status/2087007818721423855"><img src="../../previews/seedance-dragon-rider-pov-ocean-dive.jpg" width="360"></a>
+
+镜头以骑手身上的第一人称视角书写，并列出手套、护腕、链条缰绳和钉饰马鞍等装备，让摄像机贴合身体运动。按时间段拆分动作，每个阶段都配有对应的配乐和音效，使画面从平静、起飞到水下寂静再到浮出水面，节奏清晰连贯。
+
+Seedance 2.5 · 文生视频 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2087007818721423855)
+
+[`dragon`](tags.md#tag-dragon) [`pov`](tags.md#tag-pov) [`ocean`](tags.md#tag-ocean) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second vertical 9:16, 24fps, 8K-quality photorealistic live-action fantasy sequence from a first-person rider POV. A massive original obsidian-crimson dragon with individually detailed scales, subtle dark mottling, molten-gold eyes, volcanic-black swept-back horns, blade-like dorsal fins, burgundy-red translucent wings and faint ember-like fissures across its body. Rider wears black leather gloves, dark-green sleeves and weathered leather bracers, holding heavy chain reins from a worn brown studded saddle.
+
+Begin with the dragon calmly breathing on a wet emerald coastal cliff; it slowly turns toward camera and the rider gently pets its neck. Suddenly it lowers its body, launches across the grass and leaps from the cliff. Dive steeply toward the grey-green ocean, deploy huge wings with realistic membrane movement, then skim just above the water with spray hitting the lens. Perform a dramatic high-speed bank around a sea stack, then plunge directly underwater. Brief dark-teal underwater silence with bubbles and faint crimson glow, followed by a powerful eruption through the ocean. Finish with a calm glide above foggy water as the dragon slowly turns and looks toward the rider.
+
+Use physically accurate anatomy, weight, gravity, wing aerodynamics, water physics, scale deformation, wind and environmental interaction. Natural rider-mounted camera movement, realistic motion blur, lens droplets, focus breathing, subtle handheld vibration, cinematic depth of field, soft overcast lighting, HDR, restrained film grain and natural cinematic color grading.
+
+Audio: atmospheric drone → intimate cello → rising orchestral tension → massive launch/flight score → intense percussion during the bank → muffled underwater audio → epic orchestral return during emergence → soft cello/piano ending. Layer detailed ASMR/SFX: dragon breathing, scales, leather, reins, claws scraping soil, wind, wingbeats, water spray, bubbles, ocean impact and a deep natural dragon roar.
+
+Make it indistinguishable from expensive real live-action cinema. No AI look, cartoon, anime, game CGI, plastic textures, fake physics, neon glow, oversaturation, distorted anatomy, extra limbs, text or watermark.
 ```
 
 </details>
@@ -889,6 +1219,80 @@ Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, pu
 
 </details>
 
+<a id="seedance-hell-maglev-commute-descent"></a>
+### 拥挤通勤列车从城市一路驶向地狱
+
+<a href="https://x.com/Ciri_ai/status/2089939087201558754"><img src="../../previews/seedance-hell-maglev-commute-descent.jpg" width="360"></a>
+
+按秒数划分的节拍，配合固定车厢内景和左侧车窗视角，使旅程在物理上连贯，每个新场景都是上一段行程的自然结果。远处人声先于火光出现、结尾广播收束等声音线索推动情绪递进。
+
+Seedance 2.5 · 文生视频 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2089939087201558754) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`first-person`](tags.md#tag-first-person) [`smartphone-footage`](tags.md#tag-smartphone-footage) [`sound-design`](tags.md#tag-sound-design) [`timed-beats`](tags.md#tag-timed-beats)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+One continuous 30-second chaotic amateur first-person smartphone video filmed by a standing passenger inside a completely packed magnetic-levitation commuter train. Single unbroken take with no cuts, jump cuts, dissolves, crossfades, double exposures, portals, morphing or artificial scene transitions. The train begins as an ordinary weekday commute on Earth and then physically travels downward on an impossible journey — through subway tunnels into bedrock, into a colossal void beneath the crust, past a soot-blackened waiting platform, through an immense eroded gate, out above a burning plain, down the terraced wall of a vast pit, and into the inhabited depths of Hell. Everything must feel physically connected, as though the same train is genuinely travelling down through each environment.
+The tone is bureaucratic dread, not horror-movie shock. This is a scheduled service. The route is old, the infrastructure is worn, and the train runs it the way it runs any other line. The horror comes from how ordinary the journey is and how enormous the destination turns out to be.
+The interior is a completely packed standing-room-only maglev commuter car. Passengers are pressed shoulder-to-shoulder, gripping overhead straps and vertical poles. Backpacks are squeezed between bodies, coats and loose clothing shift with acceleration, straps swing on their inertia, and the entire carriage constantly vibrates and rattles. The camera is a cheap smartphone held at chest height by one standing passenger who grips a pole with the other hand. The phone itself is NEVER visible because the phone is the camera. The framing is crooked, slightly off-centre, partially blocked by shoulders and arms, and imperfect like genuine accidental footage. The camera constantly shakes, rolls, yaws and gets thrown around by acceleration. Use realistic rolling-shutter distortion, autofocus hunting, exposure pumping, blown highlights, crushed noisy shadows, low-bitrate compression, macroblocking and smeared motion blur. It must look like genuine spontaneous smartphone footage, not professional cinematic footage.
+The camera always looks through the LEFT-SIDE WINDOWS at approximately 90 degrees to the train's direction of travel. The train always travels forward and the outside world always streams past the windows from front-to-back. Never switch to a forward-facing train-nose view. Never show the front of the train. The same carriage, same passengers, same poles, same straps and same windows remain visually consistent throughout the entire journey. The interior is the constant realistic anchor while the outside world becomes increasingly impossible.
+0 to 3 seconds. Begin with an ordinary overcast weekday commute on an elevated urban line. Grey apartment blocks, rooftop water tanks, a scrapyard, overhead wires, a canal and traffic on a road below streak past the left windows at different distances with realistic parallax. The passengers are tired and mostly uninterested — some on phones, some staring out, some talking quietly. A calm public-address chime sounds and an announcer quietly says, "Next stop: Hell." Nobody reacts. One passenger glances up briefly and goes back to their phone. The train accelerates and everyone instinctively tightens their grip as the carriage gives a hard lateral jolt.
+3 to 6 seconds. The line drops into a cutting and then into a tunnel. Tiled subway walls, cable runs, service lights and a passing platform strobe across the windows in hard bands of light and dark, throwing the carriage into stuttering illumination. The tunnel ages as the train descends: modern concrete becomes older brickwork, then rough-cut stone. The fittings become scorched and soot-caked — blackened signal lights, corroded brackets, cabling burnt down to bare metal. This route has been running a long time. The gradient steepens noticeably; passengers lean back against the pitch and the straps hang visibly off-vertical.
+6 to 9 seconds. The tunnel wall becomes raw geology and the train is now clearly descending through the crust at impossible speed. Through the left windows the rock face streaks past in visible strata — pale limestone, dark shale, red iron-stained bands, seams catching the carriage light. The air begins to heat and passengers loosen collars. Then, under the mechanical roar, a sound arrives before anything is visible: a vast, distant, continuous mass of human voices, far away and heavily reverberant, never resolving into individual words. It is not loud. It is simply there, and it does not stop. Two passengers look at each other. Nobody says anything.
+9 to 11.5 seconds. The rock wall falls away entirely and the train emerges into a void larger than a city, with no visible far side. It runs along a ledge on the wall; below the windows the space drops away into darkness. Stone columns kilometres tall stand in the void with strong parallax — near ones sweeping past, distant ones barely shifting. Far below and far ahead, a faint orange glow is already visible. It must already exist in the frame from this moment and grow continuously from here forward without ever popping or suddenly enlarging. The voices are louder here, spread across an enormous space. One passenger near the glass leans forward slightly. Another quietly says, "Ohh."
+11.5 to 14 seconds. The train passes a station. A soot-blackened platform is cut into the rock wall — worn edge, dead lamps, faded markings unreadable under the grime — and figures are standing on it in an orderly queue, waiting, facing the track, completely motionless. They are seen for less than a second at speed, as dark shapes against the platform light, never close enough to read faces. The train does not slow. Nobody boards. The platform is gone behind the carriage. This is the moment the passengers understand. Several stop looking at their phones. Embers begin drifting upward past the windows from below.
+14 to 16 seconds. Ahead, a wall crosses the entire void — a single continuous barrier extending beyond sight in both directions and upward past the ceiling. The train passes through an immense gateway cut into it, an arch hundreds of metres tall, its stone eroded smooth by an unimaginable volume of traffic, its carved markings worn past legibility. For half a second the carriage is in the shadow of the arch and everything goes dark. Then it is through, and the light on the far side is completely different: warm, hard, and coming from below.
+16 to 19 seconds. The train races above a burning plain. Outside the left windows: a vast crusted expanse of dark solidified ground cracked into slow-moving plates with brilliant orange fissures running between them, distant fountains of molten material rising and falling in slow motion because of their true scale, and smoke columns standing kilometres high. Running across it are raised stone causeways, and on the causeways are crowds — dense, continuous, moving slowly, all in the same direction, extending to the limit of visibility. They are seen only as masses at distance, never in detail. The light entering the carriage is now dominant and hard, throwing sharp orange edges on faces, poles and straps with deep black shadows behind them. The interior air is visibly hazy. The voices are constant.
+19 to 21 seconds. The plain ends at the rim of a colossal pit — a shaft so wide the far wall is only a suggestion in the haze. The train races over the edge and begins descending along the interior wall. The wall is terraced: enormous concentric ledges receding downward, each deeper and darker than the last, disappearing into smoke layers. The descent acceleration pushes the passengers down and forward against the poles. Ash begins striking the windows and streaking backward.
+21 to 23 seconds. The terraces are populated. Endless slow processions move along every ledge, strings of figures following the curve of the wall down into the smoke and out of sight, lit from below by the fires beneath them. There is no chaos in it — it is orderly, patient and entirely without end, which is worse. Furnace mouths open in the rock face, glowing white at their throats, and long queues stand before them. Everything is at distance. Nothing is close enough to resolve. The light entering the carriage takes on a deeper red and the fluorescents are overwhelmed. Passengers nearest the window press slightly closer to the glass.
+23 to 25 seconds. Enormous shapes move among the terraces — figures many times the height of the crowds around them, walking slowly along the ledges, their scale established only by comparison. They do not look at the train. Distant winged forms cross beneath the carriage at low altitude with slow heavy wingbeats appropriate to their size and vanish into the smoke. Stone pens and barred openings are cut into the wall in their thousands, receding into the haze like housing. Ash accumulates in the corners of the windows. The carriage is hot enough that the glass fogs and clears in waves.
+25 to 27 seconds. The train reaches the deep layer and the full extent of Hell reveals itself. It is not a city on a human plan and it is not a cavern. It is a continuous inhabited geology extending in every direction — towers of black stone fused into cliff faces, vaults hollowed out of the rock at cathedral scale, rivers of molten material running in cut channels between districts and falling in slow luminous cataracts to levels further down, bridges spanning gaps kilometres across, and everywhere on all of it, crowds. Smoke columns rise for kilometres and flatten against unseen ceilings. Every level is lit by its own fires. The train races along a ridge line through the middle of it; arches and aqueduct spans pass overhead and terraces stream past below the window with violent parallax. It is impossible to see where any of it ends.
+27 to 29 seconds. The depths continue past the windows. The camera struggles badly with the contrast, blowing out the fires and crushing everything else into noise. Ash cakes the corners of the glass. Passengers are pressed against the windows in total silence, faces lit from below in hard orange, expressions stunned and completely still. One person quietly whispers, "What is that?" Nobody answers. Autofocus hunts between the ash on the glass and the world beyond it.
+29 to 30 seconds. The fires end. The train passes out of the smoke and the lowest region opens — and it is not burning. It is a vast frozen plain stretching beyond the visible horizon, an impossibly wide sheet of dark grey ice, absolutely still, lit by nothing but a faint pale glow from within itself. Shapes are visible held motionless within it, spaced far apart, receding to the horizon, never shown in detail. Every exterior sound stops at once — the voices, the fires, everything — leaving only the carriage. The heat drops out and frost blooms instantly across the outside of the windows. The scale feels planetary. The passengers stare in complete silence. At approximately 29.7 seconds the calm PA voice says quietly, "Welcome to Hell." The train continues moving. The camera keeps shaking naturally as the frozen expanse extends endlessly beyond the left window.
+Lighting
+The lighting must evolve naturally throughout the journey. Begin with flat overcast daylight around 6500K. In the tunnels use harsh strobing bands from passing service lights against near-total dark, then let the sources become sparse until the carriage's own weak fluorescent tubes are the only illumination. In the void the interior lights fall off into nothing. Then introduce a growing warm orange from below — first a faint wash on the lower half of faces, then mixing with the cold interior white, then completely dominating it: hard, high-contrast, sharp-edged, with deep black shadows. Above the burning plain it should be strong enough to blow out the phone's sensor at the window. In the deep layer it becomes red-orange and omnidirectional from countless fires at every distance. In the final second all warm light vanishes and is replaced by a faint pale luminance from the ice, cold and almost sourceless. All exterior light must enter naturally through the LEFT-SIDE WINDOWS and fall across passengers' faces and clothing at every stage. Do not add artificial interior lighting to create the colours.
+Passengers
+Keep all passengers completely ordinary throughout the journey. Realistic skin texture, subtle capillary variation, natural blinking, breathing, eye movement and imperfect facial symmetry. Clothing has realistic folds and responds to acceleration. Passengers must continuously perform small independent movements: shifting weight, adjusting grip, loosening a collar in the heat, wiping fog from the glass, turning their heads, tightening their hands around poles. Do not make them freeze. Do not make everyone react at the same moment. Do not let them perform dramatic acting.
+Their emotional progression is subtle: indifference at the announcement → mild confusion in the tunnels → unease when the voices arrive → the exact moment of understanding as the waiting platform passes → dread on the descent → complete stunned silence in the depths. No screaming. Only one soft "Ohh" at the first glow and one whispered "What is that?" near the end. The most powerful reaction is no reaction — just faces pressed against the glass, lit from below by something that should not exist.
+Physics
+The train always travels forward and always downward after the tunnel. Passengers sway according to acceleration and lean against the gradient; straps hang off-vertical on the descents. Loose clothing reacts to movement. Exterior objects have different velocities and distances with strong realistic parallax at every stage — near stone columns sweep past, mid-distance terraces move steadily, distant districts barely shift. Ash and embers must move independently of the train, drifting upward on thermal currents rather than streaming with the carriage. Heat must be expressed physically: window fogging and clearing, haze inside the carriage, frost at the very end. Enormous figures and flying forms must move slowly, because they are enormous. Nothing teleports, nothing freezes, nothing suddenly appears, and nothing changes position without physical cause.
+No transitions
+There are absolutely no visual transitions. No dissolves, crossfades, portals, morphing or ghosted overlays. Every environment change happens because the train physically travels into the next environment. The city becomes a cutting, the cutting becomes a tunnel, the tunnel becomes bedrock, the bedrock opens into the void, the void contains the waiting platform, the void ends at the wall, the gateway gives onto the burning plain, the plain ends at the pit rim, the rim becomes a terraced descent, the terraces fill with processions, the processions become the full inhabited depths, and the depths open onto the frozen plain. It must feel like one physically continuous impossible journey where every step is the inevitable consequence of the step before it.
+Audio
+Audio must be entirely diegetic with no music. Use cheap compressed smartphone microphone quality. The train produces a constant deep maglev roar, mechanical clatter, rattling poles, vibrating windows, swinging straps and low-frequency carriage rumble, plus passenger breathing and clothing movement. In the tunnels add hard reverberant slap-back and pressure changes as the train passes openings.
+The defining sound of this video is the voices. They must arrive at 6 to 9 seconds, before anything is visible, as a distant continuous mass of human voices with enormous reverberation, never resolving into words and never rising to screaming. From that point they never stop. They grow with depth and spread across a wider stereo field as the spaces open up. Beneath them, a very low frequency resonance builds steadily, felt more than heard. Above the burning plain add a broad distant roar and irregular deep concussions at long intervals. Ash strikes the hull as fine irregular ticking. In the depths the voices are vast, layered at many distances, and mixed with immense indistinct industrial-scale sound that never resolves into detail.
+In the final second every exterior sound stops at once — total silence outside, leaving only the carriage, the passengers' breathing, and ice creaking against the hull. At approximately 29.7 seconds the calm PA voice says quietly, "Welcome to Hell."
+Style and content limits
+The overall style must remain dirty photorealistic amateur smartphone footage despite the spectacular environments. Vertical 9:16, real-time speed, no slow motion, no stabilisation, no cinematic camera, no perfect composition, no clean VFX presentation. Use heavy shadow noise, blown highlights, low-bitrate compression, rolling-shutter skew, autofocus hunting, auto-exposure pumping, smeared motion blur and crooked framing. The camera should occasionally be partially blocked by a shoulder, arm or nearby passenger, and should struggle badly with the extreme contrast between fire and darkness.
+Hell is conveyed through scale, architecture, crowds at distance, fire, ash and sound. Do not show suffering, injury, bodies, blood, restraints or any graphic content. Every figure outside the train stays a distant silhouette or part of a mass — none is ever close enough for its face or condition to be read. Do not use recognisable religious iconography or legible text of any kind; all markings are eroded past legibility. Do not make it look like a game cinematic or a clean VFX render. The world outside should be overwhelming and physically impossible, but the recording itself must look raw, accidental and believable.
+The most important rule
+ONE SINGLE CONTINUOUS TAKE. No cuts, no jump cuts, no dissolves, no crossfades, no scene resets and no artificial transitions. The same train, same passengers and same camera remain present from beginning to end. The orange glow must be visible as a faint distant smudge from the first cavern and grow continuously and inevitably until it fills the window. The voices must arrive before the fire and never stop until the final second. The heat must build physically across the whole descent so that its total disappearance at the end lands as a shock. The population must emerge gradually — the waiting platform, then crowds on the causeways, then processions on the terraces, then the full inhabited depths — never appearing all at once. End while the train is still moving, the frozen plain extending endlessly beyond the left window, passengers silent, carriage still shaking, the PA announcement fading into the sound of ice.
+```
+
+</details>
+
+<a id="seedance-hijab-girl-duckling-moonlit-village"></a>
+### 头巾女孩与小鸭在月夜村庄漫步
+
+<a href="https://x.com/Zyrellix/status/2106604455151980846"><img src="../../previews/seedance-hijab-girl-duckling-moonlit-village.jpg" width="360"></a>
+
+角色锚点先行（黑色头巾、玫瑰粉连衣裙、黄色小鸭、棕色小兔），随后按卧室、村庄、大树的顺序推进场景，每个镜头的地点都很清楚。结尾的风格词列出光影与渲染术语（柔和月光、暖色灯笼光、皮克斯风格3D动画），无需参考图即可定下画风。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/status/2106604455151980846) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`character-consistency`](tags.md#tag-character-consistency) [`moonlight`](tags.md#tag-moonlight) [`3d-animation`](tags.md#tag-3d-animation) [`fairy-tale`](tags.md#tag-fairy-tale)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A magical 3D animated fairy-tale scene featuring a young girl wearing a black hijab and a beautiful vintage rose-pink dress, accompanied by a cute fluffy yellow duckling and a tiny brown rabbit. Inside a cozy cottage bedroom, moonlight shines through a round window filled with pink roses. The duckling and rabbit join the girl as she picks up a glowing lantern and opens the wooden cottage door. They walk together through a charming village under a bright full moon, surrounded by thatched-roof cottages, blooming roses, glowing fireflies, and a beautiful starry sky. The girl gently kneels beside the adorable animals near a giant magical tree with a tiny round wooden door glowing warmly from within. Cinematic camera movements, expressive characters, detailed textures, soft moonlight, warm lantern lighting, vibrant colors, whimsical fantasy atmosphere, smooth character animation, consistent character designs, high-quality Pixar-style 3D animation, enchanting storytelling, 16:9 widescreen, 4K quality.
+
+#FlovaAI #CPP
+```
+
+</details>
+
 <a id="seedance-lightning-warrior-ruined-battlefield-30s"></a>
 ### 闪电战士在废墟战场劈开现实
 
@@ -922,6 +1326,270 @@ A dark-fantasy warrior with long disheveled black hair, cold expression, tattere
 Cut back to the ruined battlefield. He stands alone, dust falling, scarf moving in the residual wind. One final spark crosses his cheek.
 
 STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent lightning, black smoke/shattered-shadow afterimages, air distortion, debris interaction and violent wind pressure. No anime, no superhero CGI, no modern tech, no guns, no armor, no dialogue, no text, no subtitles, no logos, no face/hairstyle/costume changes. Continuous escalation from mystery → pursuit → impossible movement → environmental destruction → spatial rupture → silence.
+```
+
+</details>
+
+<a id="seedance-maglev-time-travel-history-pov"></a>
+### 智能手机视角：磁悬浮列车窗外的现代城市
+
+<a href="https://x.com/noorlewisx/status/2093928767152701852"><img src="../../previews/seedance-maglev-time-travel-history-pov.jpg" width="360"></a>
+
+提示词固定了第一人称手持手机的镜头、同一节车厢和左侧车窗，每次时代切换只靠广播、雾状隧道和光线变化完成。按秒划分的节拍加上列车始终向前的约束，让整段一镜到底的画面保持连贯。
+
+Seedance 2.5 · 文生视频 · 出处: [@noorlewisx on X](https://x.com/noorlewisx/status/2093928767152701852)
+
+[`pov`](tags.md#tag-pov) [`time-travel`](tags.md#tag-time-travel) [`maglev-train`](tags.md#tag-maglev-train) [`mist-transition`](tags.md#tag-mist-transition)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+30s vertical 9:16 first-person smartphone video. One continuous take, no cuts. Cheap phone held chest-height inside a packed maglev train, looking out the left window. Shaky, crooked, blocked by shoulders, rolling shutter, noisy, unstabilized.
+
+Train always moves forward. Same carriage and passengers throughout.
+
+0–2s Present day city. Announcement: “Next stop: 1944.” Train jolts.
+
+2–4s Real silver-gray time-mist tunnel swallows the city. Papers and static fragments fly past.
+
+4–8s Emerges at Normandy, June 1944: gray dawn, ships, landing craft, smoke, distant soldiers. No graphic violence.
+
+8–9s Mist again. “Next stop: 1789.”
+
+9–13s Versailles: golden morning, gates, carriages, 1789 crowds.
+
+13–14s Mist. “Next stop: 1776.”
+
+14–18s Philadelphia: Independence Hall, crowd, proclamation. A passenger says “Look.”
+
+18–19s Dark mist. “Next stop: 1184 BC.”
+
+19–23s Troy at night: burning walls, wooden horse, ships. Silhouettes only.
+
+23–24s Sand mist. “Next stop: 2500 BC.”
+
+24–28s Giza: unfinished pyramid, thousands of workers hauling stones. Passenger whispers “Ohh.”
+
+28–30s Train keeps moving past the pyramid. Soft announcement: “Welcome to 2500 BC.” Ends naturally.
+
+Diegetic sound only. Light changes with each era through the left window. Every jump is a real 3D mist tunnel, not an edit.
+```
+
+</details>
+
+<a id="seedance-man-werewolf-transformation-forest"></a>
+### 雾林中男子变身狼人
+
+<a href="https://x.com/AIwithWania/status/2101908482073252349"><img src="../../previews/seedance-man-werewolf-transformation-forest.jpg" width="360"></a>
+
+用带秒数的分段节拍表把变身拆成连续的几个阶段，并要求保持同一张脸和同一身份。禁止切镜、突变和血腥保证变身过程连贯，结尾的数量约束要求恰好一人变身为一只狼人，防止出现重复主体。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithWania on X](https://x.com/AIwithWania/status/2101908482073252349) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`werewolf`](tags.md#tag-werewolf) [`transformation`](tags.md#tag-transformation) [`night-forest`](tags.md#tag-night-forest) [`identity-lock`](tags.md#tag-identity-lock)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+-
+
+Create a  cinematic dark-fantasy transformation in 16:9. A realistic adult man with short dark hair, light stubble and black clothes stands alone in a cold, foggy pine forest at night. Keep the SAME face, body, hairstyle and identity throughout.
+
+0–3s: Medium frontal shot. He bends forward slightly, holding both sides of his head, breathing heavily. Slow push-in. Blue-grey moonlight and drifting fog.
+
+3–6s: Tight close-up. His jaw clenches, expression intensifies and eyes gradually glow amber-orange. Fur appears around temples, cheeks and neck; ears slowly become pointed.
+
+6–10s: Continuous realistic transformation: face turns wolf-like, jaw extends, teeth sharpen, dark brown-grey fur spreads across head, shoulders, arms and torso. Body grows taller and more muscular. No instant morph, cuts, blood or gore.
+
+10–12s: Camera pulls back to reveal one fully transformed realistic werewolf with glowing amber eyes, thick fur, muscular body, clawed hands, wolf-like legs and a natural tail. Full moon behind the trees.
+
+12–15s: Dramatic full-body wide shot. The werewolf stands in fog, breathing heavily, fur moving in the wind, then slowly raises its head toward the moon.
+
+Style: ultra-realistic live-action, cinematic VFX, volumetric moonlight, deep shadows, realistic fur, natural anatomy, depth of field, subtle motion blur and film grain. Sound: forest wind, heavy breathing, low bass rumble, transformation sounds and deep growl. Exactly ONE man transforms into ONE werewolf. No duplicates, extra creatures, extra limbs, cartoon look or deformed anatomy.
+```
+
+</details>
+
+<a id="seedance-meteor-crash-armored-warrior"></a>
+### 装甲战士从燃烧的陨石坑中走出
+
+<a href="https://x.com/NoOneIsHere2603/status/2106981270085656888"><img src="../../previews/seedance-meteor-crash-armored-warrior.jpg" width="360"></a>
+
+重复出现的角色锁定描述固定了脸、发型、装甲、配色和武器，让全片人物保持一致。把 30 秒动作拆成每 5 秒一段的时间节拍，每段单独写明镜头运动，长段打斗因此更清晰。
+
+Seedance 2.5 · 文生视频 · 出处: [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2106981270085656888) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`meteor`](tags.md#tag-meteor) [`robots`](tags.md#tag-robots) [`character-lock`](tags.md#tag-character-lock) [`timed-beats`](tags.md#tag-timed-beats)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+VISUAL STYLE: Ultra-cinematic science fiction, photorealistic CGI, dark futuristic city at night, dramatic blue-orange lighting, realistic smoke, fire, sparks, debris, atmospheric rain, powerful camera movement, high-detail environments, blockbuster action-film quality.
+
+MAIN CHARACTER: One mysterious adult male warrior, athletic build, short dark hair, black futuristic armored suit with subtle glowing blue energy lines, metallic boots and gloves. His face, hairstyle, armor design, colors, body proportions, and weapon configuration must remain 100% identical throughout the entire video.
+
+0–5 SECONDS
+
+A gigantic burning meteor crashes into an abandoned futuristic city street at night. The camera follows the meteor from the sky as it impacts the exact center of the street, creating a powerful shockwave. Cars are pushed aside, windows shatter, smoke and sparks fill the air.
+
+5–10 SECONDS
+
+Without changing location, the camera moves closer to the smoking meteor. The cracked surface begins glowing blue from within and slowly splits apart. The same mysterious armored man steps out from inside the meteor and stands in the crater as smoke moves around him.
+
+10–15 SECONDS
+
+Before he can move, several hostile futuristic combat robots emerge from the surrounding smoke and buildings, forming a circle around him. He slowly looks around, raises his right hand, and blue energy begins traveling through the glowing lines of his armor.
+
+15–20 SECONDS
+
+His armor activates with mechanical components unfolding naturally over his arms and shoulders. He suddenly charges forward from the exact position where he was standing. He strikes the nearest robot, spins into another, and sends it crashing into a parked vehicle. The other robots immediately attack him.
+
+20–25 SECONDS
+
+The largest robot charges from directly behind him. The man turns at the last moment, catches its massive fist with both hands, and releases a concentrated blue energy shockwave. The robot is thrown backward through the same street, destroying several already-damaged vehicles and walls.
+
+25–30 SECONDS
+
+The dust slowly clears. The man remains standing in the crater, breathing heavily, with the same damaged-but-intact armor. He looks upward toward the sky. The camera follows his gaze and reveals a second gigantic meteor entering the atmosphere, far larger than the first.
+
+End on his face as blue light from the approaching meteor reflects across his armor.
+```
+
+</details>
+
+<a id="seedance-miniature-witch-halloween-pumpkin-chase"></a>
+### 小女巫抱着发光南瓜坐在落叶船上
+
+<a href="https://x.com/ImaStudio_ai/status/2104881979485463035"><img src="../../previews/seedance-miniature-witch-halloween-pumpkin-chase.jpg" width="360"></a>
+
+按时间节拍分段（开场、追逐、落叶船、幽灵、结尾特写），并锁定角色外观描述，让帽子、雨衣和雨靴在整段视频中保持一致。低角度微距镜头加上明确的比例反差，让小人物看起来像真实雨夜街道中的微缩场景。
+
+Seedance 2.5 · 文生视频 · 出处: [@ImaStudio_ai on X](https://x.com/ImaStudio_ai/status/2104881979485463035)
+
+[`miniature`](tags.md#tag-miniature) [`stop-motion`](tags.md#tag-stop-motion) [`halloween`](tags.md#tag-halloween) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second, 16:9, 24fps high-quality miniature fantasy animation.
+Overall style: miniature stop-motion animation × photorealistic macro environment × cute Halloween fantasy.
+The world should feel like a handcrafted animated character placed inside a highly realistic macro environment: wet pavement, shallow depth of field, giant raindrops, oversized fallen leaves, and strong scale contrast between the tiny character and the real-world surroundings.
+The overall mood should be warm, cute, mysterious, and cinematic, never scary, bloody, or childish.
+Character Consistency
+Keep the exact same miniature witch girl throughout the entire video.
+She is palm-sized, with:
+short black hair
+a slightly crooked black pointed witch hat
+orange raincoat
+black tights
+small red rain boots
+Strictly preserve her:
+face
+hairstyle
+outfit
+body proportions
+scale
+overall identity
+She should have a refined handcrafted stop-motion look, while the environment remains highly photorealistic.
+0–2.5s | Hook
+Halloween night after the rain.
+Use an extremely low-angle macro shot close to the wet cobblestone street. Warm orange streetlights create large, soft bokeh in the distance.
+The tiny witch stands beside a puddle holding a miniature black umbrella.
+Suddenly, a small glowing jack-o’-lantern floats past her in the rainwater, emitting a warm orange glow.
+She pauses in surprise, looks up, and immediately starts chasing it.
+Use a subtle cinematic push-in.
+2.5–5.5s | Chase
+Low-angle lateral tracking shot.
+The tiny witch runs quickly along the wet street, chasing the drifting glowing pumpkin.
+Huge maple leaves, giant raindrops, and thin twigs pass around her like oversized obstacles.
+She jumps across a narrow stream of water.
+Her raincoat and short hair move naturally in the strong breeze.
+Keep the glowing pumpkin visible ahead of her, drifting continuously with the current.
+5.5–9s | Leaf Boat
+The pumpkin drifts into a deeper puddle.
+The witch jumps onto a giant orange-red maple leaf and uses it as a tiny boat.
+She holds a thin twig like a pole and gently pushes herself forward.
+The camera moves close to the water surface and follows the leaf boat.
+Show warm orange reflections, realistic water surface tension, ripples from raindrops, and the leaf softly rocking with the water.
+9–12s | Friendly Ghosts
+Two or three tiny translucent ghosts with warm white glow gently rise above the water.
+They must look cute and friendly, never frightening.
+They resemble soft floating light spirits.
+The ghosts circle around the witch once, then fly toward the glowing pumpkin as if guiding her.
+The witch smiles with surprise and reaches forward.
+12–15s | Final Hero
+The witch finally catches and hugs the glowing jack-o’-lantern.
+Its warm orange light illuminates her face, clothes, nearby raindrops, and the wet leaf.
+Slowly pull the camera back.
+She sits i
+```
+
+</details>
+
+<a id="seedance-orc-warlord-rallying-speech"></a>
+### 兽人首领在电影感特写中激励军队
+
+<a href="https://x.com/Uncanny_Harry/status/2087589869354672222"><img src="../../previews/seedance-orc-warlord-rallying-speech.jpg" width="360"></a>
+
+参考图锁定角色外形，参考视频提供表演、动作和台词，因此演技来自视频而不是文字。明确的不加音乐指令让音频只保留语音和环境声。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Uncanny_Harry on X](https://x.com/Uncanny_Harry/status/2087589869354672222)
+
+[`orc`](tags.md#tag-orc) [`performance-transfer`](tags.md#tag-performance-transfer) [`reference-video`](tags.md#tag-reference-video) [`fantasy`](tags.md#tag-fantasy) [`speech`](tags.md#tag-speech)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic close up of an orc warlord giving a rallying speech to his army of orcs. Transfer the performance, movement and audio from Video 1 onto the the character Image 1. Do not add any music
+```
+
+</details>
+
+<a id="seedance-runner-fog-sleeping-dinosaur"></a>
+### 雾中女子发现沉睡的巨型恐龙
+
+<a href="https://x.com/KrishnaBio1/status/2113420145800450388"><img src="../../previews/seedance-runner-fog-sleeping-dinosaur.jpg" width="360"></a>
+
+在固定的角色和生物描述之后，按每 5 秒一段的分镜表逐段写明镜头，因此跨镜头的人物一致性更稳，每段都有独立机位。声音被写成明确的提示（风声、呼吸、低沉的鼻息、弦乐），让音效成为请求的一部分，而不是交给模型自由发挥。
+
+Seedance 2.5 · 文生视频 · 出处: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2113420145800450388) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dinosaur`](tags.md#tag-dinosaur) [`fantasy`](tags.md#tag-fantasy) [`misty-forest`](tags.md#tag-misty-forest) [`timed-shots`](tags.md#tag-timed-shots)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic ultra-realistic fantasy-adventure short film, 16:9, 30 seconds, 24fps, shot like a high-budget movie trailer, cold misty dawn, heavy fog drifting through tall pine forest and rolling grassland, muted green-grey color grade, shallow depth of field, soft diffused light, subtle film grain, quiet and mysterious atmosphere.
+Character: A young woman in her mid-20s, shoulder-length dark brown hair, wearing a plain dark baseball cap with no logo, a black windbreaker jacket, baggy black track pants, white ankle socks and chunky white-and-grey sneakers, white fitted arm sleeves under her jacket. Brave, focused and breathing hard from running. Keep face, hair and outfit identical in every shot.
+Creature: A gigantic, ancient long-necked herbivorous dinosaur, so huge and still that its back looks like a moss-covered grassy hill. Rough grey-brown textured skin, deep wrinkles, a slow-blinking amber eye, a long gentle neck. Calm and peaceful, not aggressive.
+Setting: A silent pine forest at dawn that opens into a wide foggy meadow with distant tree lines and low clouds.
+🌲 0–5s: Wide shot of the woman running between tall pine trees through thick fog, boots crunching on damp earth. Low-angle close-up of her sneakers stepping over a fallen branch, then a medium shot of her glancing back over her shoulder, breathing in white clouds, then running on.
+🌫️ 5–10s: The forest ends and she bursts out into an open foggy meadow. Close-ups of her sneakers on wet grass, her hands pressing on her knees as she stops, catching her breath. She looks around at the endless silent mist.
+⛰️ 10–15s: She notices a strange, large, moss-covered mound ahead. She walks toward it slowly, curious, and climbs to the top, standing tall on it. Wide shot showing her tiny against the foggy horizon. The mound very slightly rises and falls like breathing.
+😳 15–20s: Extreme close-up of her face under the cap, eyes widening. She feels the ground move under her feet. Close-up of her sneakers as the "grass" ripples. The camera pushes toward a huge, wrinkled, closed eye emerging from the mound beside her.
+🦕 20–25s: She drops to her hands and knees, gripping the moss. Wide shot as the mound slowly shifts, revealing it is the enormous head and body of a sleeping giant dinosaur. A great amber eye opens slowly and looks at her.
+🌅 25–30s: The dinosaur gently lifts its long neck high into the fog with her still balanced on its head, as thin sunlight breaks through the clouds. She stands up in awe, smiling in disbelief. Epic slow pull-back crane shot revealing the immense creature and the tiny girl on its head against the misty horizon, then fade out.
+🎧 Audio: Soft wind, distant birds, heavy breathing and footsteps on damp grass, a deep low rumbling breath from the creature, a slow rising orchestral score with soft strings and low brass, no dialogue.
+🎬 Style: Realistic cinematic adventure, smooth natural movement, believable giant-creature scale, emotional wonder, non-graphic, no text, no subtitles, no logos, no watermark.
+```
+
+</details>
+
+<a id="seedance-sci-fi-megacity-evacuation-trailer"></a>
+### 夜间大都市撤离，外星巨构降临地球
+
+<a href="https://x.com/ZaraIrahh/status/2095400351142682842"><img src="../../previews/seedance-sci-fi-megacity-evacuation-trailer.jpg" width="360"></a>
+
+用带时间码的分镜表，加上锁定角色、服装、武器和扫描仪的连续性说明，使人物在各镜头间保持一致。每个镜头运动都有叙事动机，并以月球作为尺度参照来表现外星结构的巨大体量。
+
+Seedance 2.5 · 文生视频 · 出处: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2095400351142682842)
+
+[`sci-fi`](tags.md#tag-sci-fi) [`alien`](tags.md#tag-alien) [`megacity`](tags.md#tag-megacity) [`trailer`](tags.md#tag-trailer)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 45-second ultra-photorealistic cinematic sci-fi thriller/action sequence with the visual quality of a high-budget Hollywood blockbuster. CONCEPT In a futuristic megacity at night, a mysterious global emergency signal orders humanity to evacuate Earth immediately. A lone 25-year-old female survivor races toward an orbital evacuation station while millions flee the city. Everyone believes a catastrophic disaster is approaching, but the truth is far more terrifying: something enormous has entered Earth's orbit, and humanity was never the one being evacuated. MAIN CHARACTER A beautiful young adult female survivor, approximately 25 years old, with a natural oval face, expressive brown eyes, realistic skin texture, subtle facial imperfections and long slightly messy dark-brown hair. She wears dark charcoal futuristic tactical clothing, lightweight armor, gloves, utility belt, dark pants and rugged combat boots. She carries a compact futuristic rifle and blue-white handheld scanner. Maintain perfect facial identity, hairstyle, body proportions, clothing, weapon and scanner throughout the video. ENVIRONMENT A massive futuristic megacity during a violent nighttime storm, filled with towering skyscrapers, holographic emergency warnings, wet streets, abandoned vehicles, evacuation towers, military aircraft, orbital elevators, smoke, steam, rain and flashing red emergency lights. The atmosphere should feel chaotic, enormous and realistic. 0–5 SECONDS — THE WARNING Begin with a huge aerial shot of the futuristic city. Every screen suddenly displays: "GLOBAL EVACUATION — LEAVE EARTH IMMEDIATELY." Sirens erupt as crowds panic and spacecraft launch. The female survivor stands in the rain, looking at her scanner as it detects an enormous unidentified object approaching Earth. 5–10 SECONDS — THE EVACUATION She runs toward a massive orbital evacuation station through terrified crowds. Military spacecraft launch overhead. Emergency countdowns flash across buildings. Her scanner begins malfunctioning as a strange blue glow spreads across the clouds. 10–15 SECONDS — SOMETHING ARRIVES She reaches an elevated platform and looks upward. The clouds slowly open, revealing an impossibly enormous alien structure emerging from orbit. It is far larger than any human spacecraft, with gigantic geometric surfaces and thousands of blue-white lights. The Moon appears tiny beside it. 15–20 SECONDS — THE REVELATION The entire city falls silent. The colossal structure moves closer without visible propulsion. Every aircraft stops. Her scanner suddenly receives a transmission from the object. Every screen on Earth turns black. 20–25 SECONDS — THE MESSAGE Every screen simultaneously displays the same mysterious alien symbol. A calm distorted voice comes through her scanner: "Earth evacuation confirmed." She looks around in confusion as humanity realizes the message did not come from human authorities. 25–30 SECONDS — THE SKY OPENS The enormous structure positions itself around Earth instead of attacking. Thousands of blue-white lights activate across its surface. Massive beams descend toward the planet, scanning cities, oceans and continents. No explosions. No weapons fire. 30–35 SECONDS — THE HIDDEN SIGNALS Her scanner suddenly reveals thousands of mysterious signals beneath Earth's surface. The signals exist beneath oceans, mountains and cities, forming a gigantic planetary network. She realizes the structure is searching for something that has been hidden on Earth for thousands of years. 35–40 SECONDS — THE TRUTH A powerful blue-white pulse surrounds the planet. She experiences a brief vision of ancient Earth, where enormous alien structures already existed beneath the surface. The vision disappears. Her scanner displays: "SUBJECT LOCATED." 40–45 SECONDS — FINAL CLIFFHANGER The camera rapidly pulls away from the city and rises into orbit. Reveal Earth surrounded by the enormous alien structure. Hundreds of additional unidentified spacecraft suddenly appear behind it, silently filling the sky. Cut back to the survivor staring upward in terror. Her scanner activates one final time. The voice whispers: "You were never the ones being evacuated." CUT TO BLACK. CINEMATOGRAPHY Professional Hollywood science-fiction cinematography using massive aerial shots, atmospheric tracking, handheld evacuation footage, extreme close-ups, macro technology shots, low-angle perspectives, dynamic tracking and dramatic orbital-scale pull-outs. Camera movement must feel physically motivated and cinematic. VISUAL STYLE Ultra-photorealistic live-action, 4K HDR, realistic human skin, detailed futuristic architecture, realistic spacecraft, wet reflective surfaces, rain, fog, smoke, steam, dust, natural motion blur, cinematic depth of field, subtle film grain and anamorphic lens characteristics. LIGHTING Dark nighttime atmosphere with cold blue ambient light, red emergency lighting, lightning, blue-white alien illumination, volumetric beams, wet reflections, deep shadows and realistic light falloff. REALISM Realistic human movement, crowds, aircraft, spacecraft, rain and environmental physics. The alien structure must feel unimaginably massive, physically believable and extremely slow-moving. No weightless objects or artificial-looking CGI. CONTINUITY Maintain identical female character identity, face, hair, clothing, weapon, scanner, city, spacecraft and alien structure throughout the sequence. No morphing, redesigns, outfit changes or inconsistent scale. NEGATIVE PROMPT No cartoon, anime, video-game graphics, plastic CGI, unrealistic physics, gore, blood, distorted faces, extra fingers, extra limbs, character morphing, outfit changes, creature redesigns, random explosions, excessive lens effects, flickering objects, teleportation, floating debris or unrealistic lighting.
 ```
 
 </details>
@@ -1038,6 +1706,25 @@ No subtitles, no logos, no watermark, no cartoon style."
 
 </details>
 
+<a id="seedance-traveler-unicorn-misty-forest"></a>
+### 旅者在晨雾森林遇见独角兽
+
+<a href="https://x.com/juliaevee/status/2105150663047135672"><img src="../../previews/seedance-traveler-unicorn-misty-forest.jpg" width="360"></a>
+
+提示词按顺序铺设场景：先写旅者与服装，再写独角兽的发光特征，最后用蹄子踩踏苔藓这一物理动作触发金光沿小径蔓延并驱散浓雾。结尾指向日出山谷，为视频提供明确的收束画面。
+
+Seedance 2.5 · 文生视频 · 出处: [@juliaevee on X](https://x.com/juliaevee/status/2105150663047135672) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`unicorn`](tags.md#tag-unicorn) [`misty-forest`](tags.md#tag-misty-forest) [`fantasy`](tags.md#tag-fantasy) [`volumetric-light`](tags.md#tag-volumetric-light)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A young East Asian female traveler wearing an earth-toned, brown wrap tunic robe with a backpack hiking through a misty, dense ancient forest. She encounters a majestic white unicorn with a glowing golden horn, glowing eyes, and golden light woven through its flowing mane. The unicorn steps on the mossy ground, causing veins of golden magical light to spread along the forest trail, clearing the thick fog and opening into a breathtaking view of a lush mountain valley at sunrise. Cinematic 4k, hyper-realistic, volumetric lighting, epic fantasy atmosphere, soft morning sunbeams.
+```
+
+</details>
+
 <a id="seedance-tree-guardian-dark-fantasy-battle"></a>
 ### 女子唤醒熔岩树灵对抗恶魔
 
@@ -1091,6 +1778,44 @@ Style: Realistic grounded sci-fi action-drama, smooth physics, natural human mov
 
 </details>
 
+<a id="seedance-vehicles-transform-into-robots"></a>
+### 银色跑车在城市高速公路上疾驰
+
+<a href="https://x.com/laviniavelle/status/2108404878590857384"><img src="../../previews/seedance-vehicles-transform-into-robots.jpg" width="360"></a>
+
+一个提示词串联了四组载具变形为机器人的场景，每组配有不同环境（城市高速、海岸公路、沙漠、航母甲板），便于模型在环境之间切换。结尾的动态追踪镜头和写实8K渲染风格词，让整段画面保持统一的质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2108404878590857384)
+
+[`transformation`](tags.md#tag-transformation) [`robots`](tags.md#tag-robots) [`vehicles`](tags.md#tag-vehicles) [`tracking-shot`](tags.md#tag-tracking-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A silver sports car driving down a city highway smoothly transforms into a giant silver running robot a futuristic neon lit motorcycle on a coastal highway morphs into a running blue cybernetic robot; a camouflage military tank driving across a sandy desert transforms into a walking heavy combat mecha a fighter jet on an aircraft carrier deck unfolds and transforms into a standing robot warrior, sci-fi action style high tech mechanical transformation, dynamic camera tracking shot, cinematic photorealistic 8k render.
+```
+
+</details>
+
+<a id="seedance-water-dragon-rooftop-brush-vortex"></a>
+### 屋顶白衣女子云端召唤水晶水龙
+
+<a href="https://x.com/juliaevee/status/2110191663666639097"><img src="../../previews/seedance-water-dragon-rooftop-brush-vortex.jpg" width="360"></a>
+
+提示词按时间顺序写成分镜：先定暴风雨屋顶，再过渡到阳光下的云上世界，最后以画圈引出漩涡。这条清晰的因果链让模型有明确的先后顺序，而服饰与半透明龙身的具体描述使主体在镜头切换中保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@juliaevee on X](https://x.com/juliaevee/status/2110191663666639097) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`water-dragon`](tags.md#tag-water-dragon) [`fantasy`](tags.md#tag-fantasy) [`vfx`](tags.md#tag-vfx) [`storm`](tags.md#tag-storm)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic vertical video starting on a dark, stormy rooftop overlooking a sprawling urban city. A woman in a white and beige traditional robe with long dark hair stands watching a majestic, translucent blue water-dragon coiled in the stormy clouds. The dragon lunges towards her, transitioning into a bright, ethereal realm above the clouds where she floats under a brilliant sun. She draws a glowing circle with a brush on parchment, creating a vortex in the clouds, then summons water spirals that shape into a massive crystalline dragon that dives down toward the city below, creating a giant splash through the cloud layer. Photorealistic, high-end VFX, epic fantasy atmosphere, dynamic camera angles, 8k resolution.
+```
+
+</details>
+
 <a id="seedance-wizard-duck-monster-storyboard"></a>
 ### 女巫变成鸭子逃离怪物
 
@@ -1133,6 +1858,105 @@ The duck suddenly starts chasing him.
 SFX: Quack! Quack! Quack!
 End text:
 ✨ Never rush a spell. 🦆
+```
+
+</details>
+
+<a id="seedance-wizard-workshop-transformation"></a>
+### 第一人称巫师工坊与发光药剂
+
+<a href="https://x.com/KICHOCHEZI/status/2098432693222715716"><img src="../../previews/seedance-wizard-workshop-transformation.jpg" width="360"></a>
+
+先用 Blender 白模生成参考视频，锁定运镜、动作时序与空间布局，再用参考图定义材质与光线。要求单镜头连续拍摄并且只拿一瓶药剂，可以保持动作与道具稳定。
+
+Seedance 2.5 · 参考生视频 · 出处: [@KICHOCHEZI on X](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+[`blender`](tags.md#tag-blender) [`white-model`](tags.md#tag-white-model) [`first-person`](tags.md#tag-first-person) [`reference-video`](tags.md#tag-reference-video)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.
+```
+
+</details>
+
+<a id="seedance-woman-castle-doors-floating-islands"></a>
+### 女子推开城堡大门飞入浮岛天空
+
+<a href="https://x.com/laviniavelle/status/2105889515948921057"><img src="../../previews/seedance-woman-castle-doors-floating-islands.jpg" width="360"></a>
+
+提示词按时间顺序写出镜头：昏暗室内、推门露出风景、奔跑、跃起，镜头全程跟随，让模型有清晰的动作节拍可循。结尾的光影与画质词定下电影感的效果。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2105889515948921057)
+
+[`fantasy`](tags.md#tag-fantasy) [`castle`](tags.md#tag-castle) [`floating-islands`](tags.md#tag-floating-islands) [`camera-follow`](tags.md#tag-camera-follow)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic video of a young woman in an elegant white medieval dress opening large wooden doors from a dark castle interior to reveal a breathtaking sunny landscape with lush green fields a lake and distant mountains She runs out across the grassy field towards a large grand castle The camera follows her as she leaps into the air, gracefully floating into a magical fantasy sky filled with floating islands cascading waterfalls above clouds, and a large glowing pink moon in the surreal sky, 8k resolution, ultra detailed, cinematic lighting.
+```
+
+</details>
+
+<a id="seedance-woodland-guardian-lantern-door"></a>
+### 林间守护者触碰发光的刻纹石柱
+
+<a href="https://x.com/itxabdullaa/status/2107792780395458733"><img src="../../previews/seedance-woodland-guardian-lantern-door.jpg" width="360"></a>
+
+提示词把人物、服装和色调写进一个可复用的固定段落，再用带时间码的分镜逐段推进，并加入连续性约束，让脸部、披风和道具在各镜头中保持一致。35mm 颗粒、实景灯笼和微缩布景等胶片与实拍质感的描述，让画面远离光滑的 CGI 风格。
+
+Seedance 2.5 · 文生视频 · 出处: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2107792780395458733) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fantasy`](tags.md#tag-fantasy) [`practical-effects`](tags.md#tag-practical-effects) [`continuity`](tags.md#tag-continuity) [`film-grain`](tags.md#tag-film-grain) [`timed-shots`](tags.md#tag-timed-shots)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an original young adult female woodland guardian in the handcrafted style of a forgotten early-1990s live-action fantasy film. Fully original character and world, practical-effects aesthetic, not modern CGI.
+
+CHARACTER: Young adult woman, natural expressive face, amber-brown eyes, softly angular features, subtly elongated fantasy ears, thick dark auburn wavy hair with small braids. Intelligent, brave, curious and quietly playful.
+
+COSTUME: Fully modest sage-green high-neck linen blouse, brown leather vest, ankle-length olive wool skirt, opaque dark leggings, worn brown boots, leather wrist guards and long burnt-orange hooded cloak. Leather belt with small pouches, brass compass, herbs, wooden whistle and bronze leaf pendant. Real fibers, worn leather, tarnished metal and natural mud. Practical prosthetic fantasy ears.
+
+SETTING: Ancient woodland at dusk, twisted trees, moss, ferns, mushrooms, streams, wooden bridges, carved stones and handmade lanterns. Hidden shelters and distant lights suggest a secret woodland settlement.
+
+STYLE: Practical foliage, physical props, theatrical mist, practical lanterns, miniature sets, restrained optical effects, 35mm film softness, subtle grain, lantern halation, earthy greens, browns and amber, warm theatrical lighting. No glossy CGI or modern fantasy aesthetic.
+
+[00:00-00:04] THE PATH
+Low shot of her boots walking through damp leaves. Camera rises to her face. A distant metallic chime makes her stop.
+
+[00:04-00:08] THE LANTERN
+She finds a glowing antique lantern with no visible flame. It goes dark as she reaches for it. Another lantern lights deeper in the forest, then another. She realizes she is being guided.
+
+[00:08-00:12] THE TRAIL
+She follows the lanterns and discovers carved symbols on trees. One rotates when touched. Another moves behind her. Nobody is there. She smiles, realizing someone is watching.
+
+[00:12-00:16] THE FOX
+A woodland fox leads her to a fallen tree. Beneath its roots she finds a box containing a brass compass. Its spinning needle suddenly points upward. A shadow moves through the canopy.
+
+[00:16-00:20] SOMEONE ABOVE
+Leaves rustle. Acorns drop beside her boots. She looks upward and says softly, "You could simply come down." A hidden wooden platform creaks above. She smiles suspiciously.
+
+[00:20-00:24] THE DOOR
+She follows the sound to an enormous tree and discovers a hidden seam. She touches it. Carved symbols glow and the bark opens into a secret doorway filled with warm golden light. She enters.
+
+[00:24-00:27] THE HIDDEN WORLD
+Inside is a vast woodland settlement built around the tree: lanterns, wooden platforms, rope bridges, workshops, herbs and glowing windows. Hundreds of lanterns illuminate as she looks around in wonder.
+
+[00:27-00:30] THE INVITATION
+A wooden bridge leads to a folded parchment reading "YOU FOUND US." Several silhouettes appear among the lanterns. She smiles, places the parchment in her satchel and walks deeper into the settlement.
+
+Camera pulls backward through the ancient tree doorway into the dark forest. Cut to black.
+
+STRICT CONTINUITY: Same face, hair, ears, proportions, costume, cloak, boots, belt, pendant and satchel in every shot. Fully modest clothing with no wardrobe changes or exposure. Continuous geography and logical progression.
+
+CAMERA: Atmospheric low angles, slow tracking, facial close-ups, wide environmental shots and restrained handheld movement.
+
+FINAL LOOK: Authentic early-1990s 35mm fantasy film, practical prosthetics, real costumes, physical sets, theatrical mist, practical lanterns, subtle optical effects, natural performances and beautiful film grain.
+
+Original character and world only. No recognizable existing characters, franchises, logos, branded costumes, copied designs, blood or gore.
 ```
 
 </details>

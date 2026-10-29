@@ -1,0 +1,34 @@
+id: h3-engineered-sneaker-landing-page
+title:
+  en: Sneaker landing page with speed light streaks
+  zh: 运动鞋落地页与速度光效
+model: MiniMax H3
+mode: image-to-video
+category: commercial
+tags:
+- ecommerce-ui
+- landing-page
+- product-launch
+- motion-graphics
+source:
+  name: '@ImaStudio_ai on X'
+  url: https://x.com/ImaStudio_ai/status/2085211946815758841
+  credit: Ima Studio
+  likes: 30
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ImaStudio_ai/status/2085211946815758841
+notes:
+  en: Naming the product as Image 1 anchors the hero shot, and listing concrete UI modules (feature cards, gallery, spec area, CTA zones) with interaction words like scale up, color inversion and card expansion makes the clip read as a real website rather than abstract motion.
+  zh: 将产品图标注为 Image 1 以锁定主视觉，再列出具体的界面模块（特性卡片、画廊、参数区、按钮区）并使用放大、反色、卡片展开等交互词，让画面更像真实网站而不是抽象动效。
+prompt: |
+  Create a 16:9 premium ecommerce landing page UI/UX demo built around the product in Image 1. Use a luxurious, futuristic sports-performance aesthetic with oversized bold italic sans-serif typography, dark glossy backgrounds, carbon fiber and performance-mesh textures, metallic highlights, and speed-driven light streaks. Show a smooth high-speed page scroll, premium product sections, sleek feature cards, gallery modules, tech-spec areas, and strong CTA zones. Include high-impact hover interactions like scale-up, color inversion, glow effects, card expansion, and animated typography. Make the motion cinematic, expensive, and ultra-polished, like a world-class product launch website demo.
+
+  💰 Generation cost: under $3
+  🖼 Input: one product image
+  🧩 Output: a polished website concept video
+
+  Try MiniMax H3 → https://bit.ly/4fES5pl
+
+  #MiniMaxH3 #EcommerceDesign #UIDesign #ProductMarketing #ImaStudio

@@ -1,0 +1,24 @@
+id: seedance-luxury-perfume-dark-reveal-macro-mist
+title:
+  en: Dark perfume bottle revealed with mist and macro splashes
+  zh: 黑暗中揭示的香水瓶，搭配薄雾与微距水花
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- perfume
+- product-ad
+- macro
+- slow-motion
+source:
+  name: '@juliaevee on X'
+  url: https://x.com/juliaevee/status/2095745759027028252
+  credit: Julia
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+video: https://x.com/juliaevee/status/2095745759027028252
+notes:
+  en: 'Opens in pitch darkness, then reveals the product under rim lights and cycles through named shots: a tilt on the label, a macro water splash, and a slow motion finger press on the nozzle. Writing the exact label text in the prompt pins the on-bottle wording.'
+  zh: 从全黑开场，用边缘光逐步显出产品，再依次切换标签倾斜镜头、微距水花和慢动作手指按压喷嘴等镜头。在提示词中写明瓶身标签的完整文字，有助于锁定标签内容。
+prompt: |
+  Cinematic 19-second commercial ad for a luxury perfume. The video starts in pitch darkness, slowly revealing a dark blue glass perfume bottle with a round silver metallic cap resting on dark folded leather, labeled "BLUE BY ISHQ EAU DE PARFUM 50 ML". Dynamic lighting shifts with sharp rim highlights outlining the bottle. A fine mist spray fills the air with delicate water particles illuminated by a spotlight behind the bottle. The camera transitions through dramatic angles: a close-up tilt shot of the label, macro water drops splashing dynamically around the glass base, a close-up of a finger pressing the metallic nozzle spraying a fine fragrance mist in slow motion, and a smooth rotating camera motion. High-end moody aesthetic, dramatic music beat sync, 8k resolution, ultra-realistic product commercial photography.

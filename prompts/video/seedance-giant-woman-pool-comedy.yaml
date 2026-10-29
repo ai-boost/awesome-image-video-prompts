@@ -1,0 +1,45 @@
+id: seedance-giant-woman-pool-comedy
+title:
+  en: Giant woman in pool, tiny man climbs ladder
+  zh: 巨人女子泳池中，小个子男人爬上梯子
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- comedy
+- surreal
+- scale-gag
+- handheld
+source:
+  name: '@YourAlphaMom on X'
+  url: https://x.com/YourAlphaMom/status/2088749172543410403
+  credit: Alpha Mom
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/YourAlphaMom/status/2088749172543410403
+notes:
+  en: The scale gag works because real-world cues like lane markers, background swimmers and a vending machine anchor the size of the giant woman. A handheld phone framing with a timed beat sheet keeps the impossible action readable.
+  zh: 泳道编号、背景泳客和自动售货机等真实细节，为巨大女子提供尺度参照。手持手机取景加上按秒划分的分镜节奏，让荒诞动作清晰可读。
+prompt: |
+  Photorealistic absurd surreal comedy scene in a small indoor hotel pool. Low-budget real-world environment: tiled pool, metal ladders, fluorescent lighting, depth markers on the wall, white plastic chairs, a vending machine in the background, and a few casually dressed people in swimwear watching.
+
+  A giant beautiful young woman is submerged in the pool up to her neck and upper chest, as if her body is enormous and fills most of the pool. She has wet slicked-back dark hair, expressive eyes, realistic wet skin, and a slightly amused then surprised expression. Her face and shoulders are huge compared to the rest of the environment.
+
+  A normal-sized adult man in swim trunks carefully walks down the pool ladder as if he is just entering the water. He holds a white cup in one hand. As he steps down, it becomes clear that because of the bizarre scale mismatch, he is stepping directly onto the giant woman’s face. He awkwardly steps on her nose and cheek while trying to keep balance.
+
+  The woman looks confused and cross-eyed toward him. The man slips, grabs at her nose for balance, and then slides toward her open mouth. By the end of the shot, he accidentally tumbles into her mouth in a ridiculous surreal way. She looks shocked. The people in the background react with surprise and laughter.
+
+  Camera style:
+  Recorded like a viral smartphone clip. Slight handheld movement, but mostly stable from the poolside. Realistic phone-video look, mild compression, indoor echo, natural pool reflections, believable lighting, not cinematic. The scene should feel like a bizarre real video someone captured by accident.
+
+  Tone:
+  Absurd, funny, surreal, and visually shocking — not gory, not violent, not horror. The humor comes from the impossible scale and the dead-serious realism.
+
+  Action timing:
+  0–3s: Show the indoor pool and the giant woman occupying most of it. The man starts climbing down the ladder.
+  3–7s: He continues stepping down and accidentally plants a foot on her face/nose.
+  7–11s: He loses balance, grabs at her nose, and slips toward her mouth.
+  11–15s: Her mouth opens in surprise, he tumbles into it, and the bystanders react.
+
+  Important details:
+  Keep the scale relationship very clear: giant woman, tiny man, normal-size background people. Keep the environment realistic and grounded. Preserve believable water interaction and reflections. No gore, no body horror, no extra limbs, no broken anatomy, no glitchy transitions.

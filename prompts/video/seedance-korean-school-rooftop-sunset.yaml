@@ -1,0 +1,24 @@
+id: seedance-korean-school-rooftop-sunset
+title:
+  en: Two students chase papers on a sunset rooftop
+  zh: 两名学生在日落屋顶追逐纸张
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- handheld-camera
+- reference-faces
+- school-life
+- sunset
+source:
+  name: '@Aqsahere_ on X'
+  url: https://x.com/Aqsahere_/status/2091001743035564070
+  credit: Aqsa
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+video: https://x.com/Aqsahere_/status/2091001743035564070
+notes:
+  en: Reference images lock both students' faces, hair and uniforms, and the prompt numbers seven camera setups so the sequence stays coherent. Specific cues for wind, imperfect autofocus, subtle handheld shake and a list of banned looks keep it reading as real school footage rather than a commercial.
+  zh: 参考图锁定两名学生的脸部、发型和校服，提示词列出七个编号镜头，保证片段连贯。风力、不完美对焦、轻微手持抖动等具体细节，加上明确排除的广告感画面，让它更像真实的校园素材。
+prompt: |
+  photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairstyles, body proportions, school uniforms, and the real rooftop environment. Exactly two students are present. A strong sudden gust of wind hits the rooftop and scatters their loose homework papers across the concrete. Seolran and Mujin react naturally and immediately run in different directions trying to catch the flying pages. Papers blow realistically around their legs and across the rooftop, some sliding along the ground while others briefly lift into the air. They chase the pages with natural hurried movements, occasionally almost catching one before the wind pulls it away. Mujin manages to grab several pages and tries to hand them back to Seolran, but another gust sends one page directly toward her face. The paper gently lands against her face for a moment. She freezes in surprise, pulls it away, looks at Mujin, and they both burst into natural laughter. End with them standing together collecting the remaining papers while the warm sunset and distant mountains remain in the background. Use 7 distinct handheld camera shots: wide rooftop establishing shot, low angle following the papers, side tracking shot while they run, close-up of their hands grabbing papers, medium shot of them chasing in opposite directions, close-up when the paper hits Seolran’s face, and a final wide sunset shot of both laughing and gathering the homework. Make it feel like authentic Korean school-life footage rather than a commercial: realistic smartphone/cinema-camera texture, natural sunset lighting, believable wind physics, realistic paper movement, natural hair and uniform movement, subtle handheld camera shake, imperfect autofocus, natural facial expressions, realistic skin texture and breathing, spontaneous body movement and genuine laughter. No exaggerated comedy, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no fantasy, no extra people, no distorted hands or anatomy.

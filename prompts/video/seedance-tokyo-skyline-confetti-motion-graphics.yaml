@@ -1,0 +1,24 @@
+id: seedance-tokyo-skyline-confetti-motion-graphics
+title:
+  en: Tokyo skyline assembling from raining geometric shapes
+  zh: 雨落几何图形拼成东京天际线
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- motion-graphics
+- 3d-animation
+- tokyo
+- abstract
+source:
+  name: '@noorwithwifi on X'
+  url: https://x.com/noorwithwifi/status/2091194579689394463
+  credit: NoorAI
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+video: https://x.com/noorwithwifi/status/2091194579689394463
+notes:
+  en: 'The prompt sets out the scene in time order: shapes rain in, assemble into the skyline, scatter, reform around Skytree, then settle into a row of circles. Naming five exact colour groups and a final flat-circle row gives the model a defined ending frame.'
+  zh: 提示词按时间顺序写出场景：先下雨，再拼成天际线，散开后围绕晴空塔重组，最后落成一排圆点。明确指定五种颜色和结束画面，让动效有可预期的收尾。
+prompt: |
+  Create a vibrant 3D motion graphics animation where colorful spheres, bars, and cylinders rain onto a neutral background and assemble into a stylized Tokyo skyline with Tokyo Tower, pagodas, and floating orbs. The cityscape scatters into geometric confetti, then rapidly reforms around Tokyo Skytree before dissolving again into five color groups red, dark blue, pink, teal, and yellow that settle into a clean row of flat circles. Smooth transitions, dynamic motion, polished 3D lighting, and a modern minimalist aesthetic.

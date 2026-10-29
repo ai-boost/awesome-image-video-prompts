@@ -1,0 +1,31 @@
+id: seedance-night-rain-loading-door-escape
+title:
+  en: Woman runs down dark industrial corridor
+  zh: 女子在昏暗工业走廊中奔跑
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- action-thriller
+- handheld
+- night-rain
+- diegetic-sound
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2100082784018821414
+  credit: nawalsehar
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2100082784018821414
+notes:
+  en: The prompt spells out physical cause and effect (friction, backpack inertia, center of mass) and gives a fixed shot list of handheld, floor level, door close-up and static wide, so the model has a clear beat sheet. Limiting sound to diegetic sources keeps the audio grounded in the scene.
+  zh: 提示词写明了物理因果（摩擦、背包惯性、重心转移），并给出固定镜头清单（手持、低机位、门特写、静态全景），让模型有清晰的节拍表。声音只限现场声源，让音频与画面保持一致。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action action-thriller at night during heavy rain. A young woman trapped inside an old industrial building discovers a partially open mechanical loading door and times her escape as two pursuers close in. She slides beneath the heavy door, struggles with realistic friction and backpack movement, rolls onto the rain-soaked pavement, and escapes into a dark service lane.
+
+  Show realistic human biomechanics, inertia, momentum, gravity, friction, center-of-mass shifts, realistic loading-door mechanics, backpack physics, rain and water dynamics, wet-surface traction, vehicle spray, and physically accurate material interactions. Use handheld chase cinematography, low floor-level shots during the escape, close-ups of the mechanical door, exterior tracking shots, and a final static wide shot. Camera movement should have natural operator inertia and subtle handheld shake.
+
+  Use only diegetic sound: heavy rain, breathing, footsteps, metal mechanisms, water splashes, distant traffic, echoes, and thunder. Natural nighttime lighting with realistic wet reflections, shadows, depth of field, and motion blur. End with the woman hidden behind a concrete wall as the pursuers run past, followed by an empty rain-soaked street and a cut to black.
+
+  No CGI, animation, superhero abilities, impossible parkour, teleportation, weightless objects, exaggerated slow motion, unrealistic physics, distorted anatomy, duplicate characters, text, logos, or watermark.

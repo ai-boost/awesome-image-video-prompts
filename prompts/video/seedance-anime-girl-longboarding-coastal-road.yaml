@@ -1,0 +1,24 @@
+id: seedance-anime-girl-longboarding-coastal-road
+title:
+  en: Anime girl longboarding down coastal mountain road
+  zh: 动漫少女在海岸山路上滑板下坡
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- anime
+- skateboarding
+- camera-tracking
+- vertical-video
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2111049256140230768
+  credit: Talia
+  captured: '2026-10-29'
+  posted: '2026-10-16'
+video: https://x.com/TaliaAariz/status/2111049256140230768
+notes:
+  en: Pins the outfit, hair and wrist guards in concrete detail so the character stays consistent across cuts, then lists a run of camera setups (follow shot, low tracking, wide aerial, side close-up) so the clip reads as one edited chase. Stating vertical 9:16 up front sets the framing for the whole shot list.
+  zh: 用具体的服装、发型和护具细节固定角色外观，使多个镜头之间人物保持一致；随后按顺序写明跟拍、低角度追踪、高空广角和侧面特写等机位，让片段读起来像一段连贯的追逐剪辑。开头就写明竖版 9:16，为整组镜头定下画幅。
+prompt: |
+  A cinematic 3D anime-style scene of a young woman skateboarding down a winding mountain road overlooking a breathtaking turquoise ocean, surrounded by lush green hills, coastal villages, and towering white clouds in a brilliant blue sky. She wears a white cropped T-shirt, ripped blue jeans, blue sneakers, and protective wrist guards, with her long black ponytail flowing dramatically in the wind. She crouches low on her skateboard, confidently carving through sharp road bends as the camera follows her from behind, then transitions into dynamic side-tracking close-ups highlighting her focused expression, fast-moving wheels, and realistic body movements. The camera alternates between low-angle tracking shots, wide aerial-style views of the spectacular coastline, and smooth cinematic chase shots, creating a thrilling sense of speed and freedom. Sunlight glistens across the ocean, natural lens flares illuminate the scene, and motion blur emphasizes the skateboard's speed while maintaining crisp character details. Ultra-detailed 3D animation, vibrant colors, realistic shadows, fluid motion, cinematic lighting, high-quality rendering, immersive depth, smooth camera transitions, vertical 9:16 composition, 4K quality.

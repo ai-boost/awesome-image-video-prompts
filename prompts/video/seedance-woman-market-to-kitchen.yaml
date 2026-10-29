@@ -1,0 +1,26 @@
+id: seedance-woman-market-to-kitchen
+title:
+  en: Woman shops for vegetables and cooks at home
+  zh: 女子购买蔬菜并回家备餐
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- multi-shot
+- identity-lock
+- daily-life
+- photorealistic
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2100087681283924449
+  credit: CaliraVal
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/CaliraVal/status/2100087681283924449
+notes:
+  en: Timed segments with a single identity lock keep the same woman, face, hairstyle and glasses across cuts. Naming each action per second gives the model a shot list to follow, and the closing camera and realism words set the look.
+  zh: 按秒分段的分镜加上统一的人物锁定句，让同一人物的脸、发型和眼镜在多个镜头中保持一致。逐秒写明每个动作相当于给模型一份镜头清单，结尾的镜头与写实词决定画面质感。
+prompt: |
+  Keep the same young South Asian woman, same face, hairstyle and clear stylish glasses throughout. 0–2 sec: She leaves her home wearing clear glasses and walks toward the local vegetable market. 2–5 sec: Quick cinematic shots of her entering the busy market, selecting fresh tomatoes, potatoes, onions, green chilies and coriander, then paying the vendor. 5–7 sec: She walks back home carrying a small vegetable bag. 7–9 sec: She enters her kitchen, places the vegetables on the counter and removes them from the bag. 9–11 sec: She washes the vegetables under running water. 11–15 sec: She puts the vegetables on a wooden cutting board and naturally cuts them with a kitchen knife. Fast but smooth transitions, realistic hand movements, authentic Pakistani environment, natural daylight, detailed vegetables, realistic physics, cinematic camera movement, photorealistic, 4K quality.
+  #Flovaai #Flovacpp @Flovaai_Japan

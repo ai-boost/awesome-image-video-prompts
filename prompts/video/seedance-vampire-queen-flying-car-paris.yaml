@@ -1,0 +1,146 @@
+id: seedance-vampire-queen-flying-car-paris
+title:
+  en: Rainy Paris street with Eiffel Tower in fog
+  zh: 雨夜巴黎街道与雾中埃菲尔铁塔
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- car-commercial
+- paris-night
+- dark-fantasy
+- multi-shot
+source:
+  name: '@AIwithNatalia on X'
+  url: https://x.com/AIwithNatalia/status/2112412816070381937
+  credit: Natalia
+  captured: '2026-10-29'
+  posted: '2026-10-20'
+video: https://x.com/AIwithNatalia/status/2112412816070381937
+notes:
+  en: Splits the 25 to 30 second spot into six timed shots, each with its own camera move and speaker-tagged dialogue, so the model gets pacing and lip sync cues. A consistency block fixes the same car, wardrobe and lighting in every shot, and the negative prompt suppresses drift in faces and vehicle geometry.
+  zh: 将25至30秒的广告拆成六个带时间码的镜头，每个镜头都写明运镜，并用说话人标签给出台词，便于控制节奏与口型。开头的一致性段落让所有镜头中的车辆、服装与光线保持统一，负面提示词则抑制人脸和车身几何的漂移。
+prompt: |
+  Duration: 25–30 seconds
+
+  Visual style: Ultra-photorealistic, dark fantasy, futuristic luxury car commercial, gothic Halloween cinema.
+
+  CHARACTER & WORLD CONSISTENCY
+  A glamorous adult vampire queen with long red wavy hair, pale porcelain makeup, smoky eyes, deep burgundy lipstick, a black velvet corset dress.
+
+  She drives the same sleek metallic-silver futuristic flying sports car throughout the film. The car has sculpted aerodynamic bodywork, violet neon underglow, glowing propulsion systems, a panoramic glass canopy, and elegant gullwing doors.
+  Paris at midnight on Halloween. Gothic architecture, fog-covered rooftops, wet streets, floating mist, glowing pumpkins, and a gigantic luminous blood-red moon dominate the atmosphere.
+
+  Maintain consistent character appearance, car design, lighting, and wardrobe across all shots.
+
+  SHOT 1 — THE HALLOWEEN NIGHTMARE (0–4 seconds)
+
+  Camera: Cinematic street-level tracking shot transitioning into an intimate interior close-up.
+
+  A massive traffic jam fills a rain-soaked Paris boulevard. Red brake lights stretch into the distance. The Eiffel Tower glows through atmospheric fog.
+  Inside the silver car, the vampire queen taps her fingers impatiently against the steering wheel. Violet dashboard light reflects in her eyes.
+
+  Her phone rings.
+
+  Friend, on the phone: “Babe! Where are you?! The Halloween party is starting!”
+
+  Vampire queen: “Relax, darling. I'll find another way.”
+
+  She smirks, revealing her tiny vampire fangs.
+
+  SHOT 2 — THE SUPERNATURAL TAKEOFF (4–8 seconds)
+
+  Camera: Extreme macro close-up, followed by a dramatic low-angle exterior shot.
+
+  Her black-gloved finger presses the glowing violet flight-mode control.
+  The dashboard pulses with futuristic holographic light. Mechanical propulsion fins unfold beneath the car. Violet energy illuminates the wet asphalt.
+
+  The suspension rises. The wheels rotate inward as concealed thrusters activate.
+
+  The car lifts smoothly, then suddenly accelerates vertically between the surrounding buildings, leaving a swirling vortex of mist and crimson-violet light.
+
+  Vampire queen: “Traffic is so… mortal.”
+
+  The camera races upward beneath the vehicle, revealing its glowing undercarriage as the car climbs into the night sky.
+
+  SHOT 3 — THE EIFFEL TOWER SPIRAL (8–13 seconds)
+
+  Camera: Fast aerial chase shot with a sweeping 360-degree orbit around the vehicle.
+
+  The silver flying car bursts through a layer of clouds and approaches the illuminated Eiffel Tower.
+  It banks sharply, then performs a spectacular corkscrew spiral around the tower, weaving through the open night sky without touching the structure.
+
+  The camera circles the car while the Eiffel Tower rotates dramatically in the background. Its golden lights streak across the car's reflective silver body.
+
+  The vehicle dives past the tower's upper section, rolls gracefully onto its side, and pulls upward into a steep climb.
+
+  A trail of violet light curls around the tower like magical ribbons.
+
+  The camera pulls far back to reveal the Eiffel Tower, the Seine, illuminated bridges, and the sprawling city below.
+
+  SHOT 4 — THE BLOOD MOON REVEAL (13–19 seconds)
+
+  Camera: Extreme wide shot transitioning into a dramatic side profile and a 360-degree aerial orbit.
+
+  A gigantic blood-red Halloween moon emerges from behind dark, rolling clouds, appearing enormous above the Paris skyline.
+  The car accelerates toward the moon, climbing through swirling silver mist. The camera follows from behind as the city shrinks beneath the vehicle.
+
+  At the peak of the ascent, the car performs a graceful aerial barrel roll directly in front of the enormous crimson moon.
+
+  For a breathtaking moment, the car becomes a sharp black-and-silver silhouette against the glowing red lunar surface.
+
+  The camera rotates a full 360 degrees around the flying car, revealing the moon, drifting clouds, the Eiffel Tower far below, and the entire illuminated Paris skyline.
+
+  The moonlight catches the vampire queen's face through the panoramic glass canopy. Her cape flows behind her like crimson smoke.
+
+  She smiles confidently.
+
+  Vampire queen: “Now this is my kind of nightlife.”
+
+  SHOT 5 — THE EPIC 360° PARIS PANORAMA (19–24 seconds)
+
+  Camera: Seamless cinematic aerial orbit, then a rapid descending chase shot.
+
+  The car levels out and glides above Paris in a wide, sweeping arc.
+  The camera completes a breathtaking 360-degree panoramic orbit around the vehicle, showcasing gothic rooftops, the winding Seine, glittering bridges, the Eiffel Tower, the Louvre courtyard, and the blood-red moon dominating the horizon.
+
+  Clouds drift beneath the car. Violet propulsion trails illuminate the mist.
+
+  The car suddenly tilts forward and dives toward the city in a controlled cinematic descent.
+
+  The camera chases closely behind as it races between elegant Parisian rooftops, then banks sharply into the illuminated street leading to the Halloween club.
+
+  SHOT 6 — THE VAMPIRE QUEEN ARRIVES (24–30 seconds)
+
+  Camera: Low-angle tracking shot, dramatic slow motion, final hero shot.
+
+  The car descends through swirling fog and lands perfectly outside an extravagant gothic Halloween nightclub.
+  Its violet lights pulse once. The gullwing doors open slowly.
+
+  The vampire queen steps out in slow motion. Her crimson-lined cape sweeps dramatically across the pavement as purple spotlights cut through the fog.
+
+  Her friends, dressed as glamorous witches and vampires, stare at her in disbelief.
+
+  Friend: “BABE! HOW DID YOU GET HERE SO FAST?!”
+
+  Vampire queen, smirking: “I don't wait in traffic. I fly.”
+
+  She flashes her fangs and walks confidently toward the club entrance.
+
+  The camera cranes upward to reveal the silver flying car, the gothic nightclub, the illuminated Eiffel Tower, and the enormous blood-red moon above Paris.
+
+  END FRAME: The vampire queen's silhouette against the glowing club entrance as violet light and crimson moonlight fill the screen.
+
+  CINEMATIC CAMERA & VFX REQUIREMENTS
+
+  Spectacular aerial tracking shots and dramatic low-angle vehicle reveals.
+
+  A complete 360-degree camera orbit around the flying car against the blood-red moon.
+  A dramatic corkscrew flight maneuver around the Eiffel Tower.
+  Volumetric fog, swirling clouds, moonlit mist, realistic reflections, and violet energy trails.
+  Strong contrast between silver metallic surfaces, violet neon, crimson moonlight, and golden Parisian architecture.
+  Physically coherent vehicle movement, realistic acceleration, smooth banking, and elegant aerial rolls.
+  Sophisticated gothic fashion-film aesthetics with blockbuster-scale visual effects.
+  Seamless transitions, cinematic motion blur, carefully controlled slow motion, and epic orchestral-electronic music.
+  Natural English dialogue with accurate lip-sync and consistent character identity.
+  NEGATIVE PROMPT: Cartoon rendering, cheap CGI, flat lighting, low-resolution textures, inconsistent vehicle geometry, changing faces, changing outfits, duplicated cars, distorted Eiffel Tower, broken architecture, random text, unwanted logos, excessive motion blur, jerky camera movement, gore, or horror imagery that overwhelms the luxury-fashion aesthetic.

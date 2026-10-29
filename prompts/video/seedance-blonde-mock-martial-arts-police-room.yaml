@@ -1,0 +1,25 @@
+id: seedance-blonde-mock-martial-arts-police-room
+title:
+  en: Blonde woman mock fights officers in training room
+  zh: 金发女子在警察训练室搞笑武打
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- comedy
+- martial-arts
+- police
+- static-camera
+source:
+  name: '@sipteaandcoffee on X'
+  url: https://x.com/sipteaandcoffee/status/2107512973292138801
+  credit: sipteaandcoffee
+  captured: '2026-10-29'
+  posted: '2026-10-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/sipteaandcoffee/status/2107512973292138801
+notes:
+  en: A fixed wide shot and a set 17-second length keep the comedy readable, while the crowd and officers' reactions give each beat a payoff. Asking for physically believable motion keeps the slapstick from turning into floaty choreography.
+  zh: 固定的广角镜头和明确的17秒时长让喜剧节奏清晰，群众与警员的反应为每个动作提供回应。要求动作符合物理规律，避免滑稽打斗变成飘浮的编排。
+prompt: |
+  Create a realistic 17-second funny action video inside a police training room. A young blonde woman in a pink fitted top, green plaid mini skirt, and white sneakers confidently faces several police officers in black tactical uniforms while a group of young people watches in the background. She suddenly performs exaggerated martial-arts moves, playful punches, dodges, spins, and dramatic defensive gestures as the officers react and attempt to restrain her. Keep the action fast, comedic, energetic, and physically believable. Static wide camera, realistic indoor lighting, natural crowd reactions, consistent characters, smooth motion, photorealistic live-action style.

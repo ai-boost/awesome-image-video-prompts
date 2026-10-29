@@ -1,0 +1,33 @@
+id: seedance-clockmaker-freezes-workshop-time
+title:
+  en: Clockmaker freezes time in his workshop
+  zh: 钟表匠冻结工坊时间
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- time-freeze
+- workshop
+- physics-exception
+- camera-tracking
+source:
+  name: '@AIwithZeeshi on X'
+  url: https://x.com/AIwithZeeshi/status/2108412888415400315
+  credit: AIwithZeeshi
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithZeeshi/status/2108412888415400315
+notes:
+  en: The prompt lists real world physics rules and then names one supernatural exception, so gravity, shadows and object paths stay consistent while only the time effect breaks them. Ordering the beats as forward, backward, freeze, then a single ticking close-up gives the clip a clear arc.
+  zh: 提示词先完整列出真实世界的物理规则，再只设定一个超自然例外，因此重力、阴影和物体轨迹保持一致，只有时间效果打破规则。按向前、倒转、冻结、最后特写的顺序安排剧情节拍，让片段结构清晰。
+prompt: |
+  A middle-aged clockmaker is repairing an antique pocket watch in his old-fashioned workshop at night when he discovers a mysterious clock that controls time.
+
+  He carefully turns its brass winding crown backward, causing a nearby pendulum to slow down, falling dust to become suspended in the air, and the second hands of surrounding clocks to stop moving.
+
+  He turns the crown forward, and everything resumes its natural motion. Fascinated, he turns it backward again, gradually freezing time throughout the workshop while he remains able to move.
+
+  The video ends with a cinematic close-up of the mysterious clock as its second hand continues ticking in an otherwise motionless room.
+
+  Photorealistic cinematic fantasy, realistic mechanical gear interactions, believable pendulum physics, natural gravity and inertia, consistent character appearance, realistic brass reflections, warm workshop lighting, physically accurate shadows, natural human movement, smooth camera tracking, realistic depth of field, and continuous object trajectories throughout. The supernatural time-control effect is the only exception to real-world physics.

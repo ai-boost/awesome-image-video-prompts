@@ -1,0 +1,34 @@
+id: seedance-rainy-market-flood-escape
+title:
+  en: Woman escapes flood in rainy market
+  zh: 女子在雨中菜市场逃离洪水
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- flood
+- rescue
+- handheld
+- wet-market
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2091744726273916945
+  credit: Noor
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+video: https://x.com/noorlewisx/status/2091744726273916945
+notes:
+  en: The prompt stacks camera passes (handheld tracking, low angle water shots, side tracking, wide) in one beat, so the chase reads as one continuous sequence. A locked identity line for face, hairstyle and pink outfit keeps the lead consistent, and the single spoken line gives the cow rescue a timed voice cue.
+  zh: 提示词在同一段中叠加手持跟拍、低角度水面镜头、侧向跟拍和远景，让追逐段落读起来是一个连续的长镜头。开头锁定脸部、发型和粉色雨衣的描述保持主角一致，结尾的一句台词则为救牛的节奏点提供清晰的声音提示。
+prompt: |
+  Create a photorealistic, high-budget cinematic action scene in a crowded traditional Asian wet market during heavy rain and severe flooding. A young Asian woman with long wet dark hair, wearing a pink waterproof rain suit and black rubber boots, runs through flooded market aisles while a massive wave of water rushes behind her.
+
+  Show seafood and vegetable stalls, floating crates, overturned objects, panicked crowds, rushing dirty water, reflections, splashes and realistic wet details. Use fast handheld tracking, close-ups, low-angle water shots, side tracking and wide shots, with realistic physics, motion blur and dynamic camera shake.
+
+  She jumps over obstacles and runs across raised market surfaces. Near the end, she reaches a raised area where a frightened cow is trapped by the flood. She looks at it and urgently says: “Come on, girl! Move!” She guides the cow toward safety.
+
+  Keep her face, hairstyle and pink outfit consistent. Dark rainy atmosphere, cool blue-gray tones mixed with warm fluorescent lights, cinematic depth of field, volumetric lighting, realistic skin, water and reflections, subtle film grain, 4K anamorphic Hollywood action style.
+
+  Add large white brush-stroke typography “RUN” briefly across the center.
+
+  No cartoon look, CGI appearance, distorted anatomy, extra fingers, duplicated people or face changes.

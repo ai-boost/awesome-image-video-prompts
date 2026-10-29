@@ -1,0 +1,26 @@
+id: h3-titanium-impact-title-sequence
+title:
+  en: Titanium plate bends under impact, cracks glowing
+  zh: 钛金属板受冲击弯曲，裂纹发出橙光
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- titanium
+- impact
+- title-sequence
+- speed-ramp
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2095527374444003437
+  credit: Pierrick Chevallier | IA
+  likes: 29
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/CharaspowerAI/status/2095527374444003437
+notes:
+  en: The prompt is built as a sequence of physical beats (impact, ripple, debris, reversal, title formation, final shockwave), each with its own camera move or speed change. Naming the material, lighting and lens style (anamorphic) fixes the look across the clip.
+  zh: 提示词按物理节拍分段描写：冲击、波纹、碎片、倒转、标题成形、最后的冲击波，每段都有明确的镜头运动或速度变化。点明材质、光线和宽银幕变形镜头，使整段画面风格保持一致。
+prompt: |
+  Ultra-cinematic Hollywood title sequence, opening on an extreme macro shot of a perfectly smooth monolithic titanium surface suspended in darkness. A microscopic dent suddenly appears at its center, followed by an invisible supersonic impact that violently propagates across the metal, bending the entire surface in a spectacular pressure ripple. The camera rapidly pulls backward as the titanium plate explodes into thousands of heavy fragments, glowing sparks and molten particles. Time dramatically slows while the debris hangs in the air, then a powerful magnetic force reverses every fragment at once. Pieces accelerate back toward the center, colliding with brutal precision and forging the monumental word "IMPACT" from dense battle-scarred titanium. The camera sweeps inches above the newly formed letters as glowing energy races through their cracks, then whips into a perfectly centered frontal hero shot. A final invisible shockwave slams into the title, creating a spectacular ripple through the metal before blasting sparks, dust and fragments toward the lens. Photorealistic metal deformation, sophisticated destruction physics, aggressive speed ramps, anamorphic cinematography, premium AAA theatrical title design.

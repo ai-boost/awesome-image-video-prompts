@@ -1,0 +1,46 @@
+id: h3-first-person-magnetic-orb-quarry
+title:
+  en: Hands hold a magnetic orb as armored guards charge
+  zh: 双手握住磁力球，披甲守卫冲来
+model: MiniMax H3
+mode: text-to-video
+category: action
+tags:
+- first-person
+- dark-fantasy
+- magic-orb
+- combat
+source:
+  name: '@KrevixAi on X'
+  url: https://x.com/KrevixAi/status/2085759071047565341
+  credit: KreviX
+  likes: 19
+  captured: '2026-10-29'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/KrevixAi/status/2085759071047565341
+notes:
+  en: Locking the camera to first-person with the face never visible keeps the hands and forearms as the only character anchor. Stating that the orb already exists before it is crushed gives the model a clear starting state for the magnetic pulse.
+  zh: 将镜头锁定为第一人称且不出现面部，让手和前臂成为唯一的角色锚点。明确磁力球在被捏碎前已经存在，为之后的磁力脉冲提供清晰的起始状态。
+prompt: |
+  Strict first-person POV, male hero, face never visible. Visible only the hero’s hands, fingers, and forearms when needed for casting, dodging balance, and the final magnetic strike. Broad male hands, pronounced knuckles, short nails, pale or cool-toned skin, dark gray or black sleeves, thin geometric magic lines glowing cold white with a faint blue tint across the skin and wrists. The hands move with force, precision, and short controlled gestures, never soft or decorative. One continuous shot, no cuts, vertical cinematic dark fantasy, realistic body-driven camera motion, professional action cinematography with physical momentum and readable combat beats.
+
+  In a vast abandoned stone quarry under a gray overcast sky, high rock walls, two dark mine tunnel arches in the background, old metal rails cutting through wet red-brown mud, overturned mine carts, scattered stones, chains, broken timber, iron scrap, discarded armor, and bodies of fallen guards. The space feels cold, damp, heavy, and dusty, with a steel-gray, dirty brown, graphite, and cold white palette. A squad of dark armored quarry guards charges first across the rails and muddy ground, helmets closed, carrying short spears, shields, and hammers. Behind them, emerging from the shadow of the mine arch, comes the boss: a giant one-eyed heavy warrior, 4 to 5 meters tall, rough gray-pink skin, one large round eye in the center of the face, partial metal armor and leather straps across the chest, a massive shoulder plate on one side, thick legs, immense weight, and a huge heavy battle axe carried with brutal momentum.
+
+  The hero briefly raises one hand holding a smooth semi-transparent magnetic orb, tennis-ball sized, silver-white with a pale blue core, a dense metallic vortex inside, thin rings of light rotating around it. The orb already exists when first shown and does not appear from nowhere. As the smaller guards rush in, the hero crushes the orb. A cold magnetic pulse flashes through both forearms and into the ground. Weapons rip out of the charging soldiers’ hands, shields twist sideways, bolts, chains, rail spikes, loose armor plates, and metal fragments shudder and begin lifting from the quarry floor. Some smaller enemies are violently disarmed and thrown off balance immediately.
+
+  The boss accelerates forward through the chaos and swings the giant axe in a heavy horizontal attack. The hero performs a fast professional sidestep and body lean at the last instant; the blade tears across the foreground with dangerous proximity, kicking mud and dust past the camera. The boss recovers with heavy inertia, plants a foot, and launches a second brutal overhead strike. The hero ducks and slips under it in a sharp Hollywood-style evasive motion, the axe crashing into the ground and rails with a shower of dirt, sparks, and metal shock. The camera reacts like a real head-and-torso dodge: fast lateral movement, recoil, breath, then immediate refocus on the boss.
+
+  Now the magnetic field fully takes hold. The hero spreads both hands outward. Metal rises from every direction in a controlled field, not chaotic: torn rails, chains, bolts, iron rings, armor plates, mine cart fragments, shield metal. The pieces lift, align, and begin orbiting the giant in three clear rotating bands: a lower ring around the knees, a middle ring around the waist and abdomen, and a top ring around the chest and shoulders. The boss tries to wrench the axe free and charge again, but the orbit tightens around him. Tight center framing, with strong tracking drift and a low-angle hold to emphasize mass and danger.
+
+  The hero then sharply pulls both hands inward. All three magnetic rings slam tighter at once. Chains snap taut, rails bend into crushing arcs, armor plates collide and lock, metal fragments hammer into the boss’s torso and arms. The giant loses balance, staggers, and is forced down, the axe slipping and dropping into the mud. The metal cocoon constricts harder with brutal industrial weight and magnetic pressure, locking his body in place. Dust rises in waves, small rocks skitter, chains strain, and the one eye flares with panic and rage.
+
+  The hero thrusts both hands forward for the finisher. A narrow concentrated magnetic impulse forms between the palms, not fire, but a dense electromagnetic strike with a bright white core and pale blue edges. Brief micro push-in to the center of the boss’s chest. The pulse hits. Every piece of metal bound around the giant clamps inward simultaneously with one final crushing lock. The boss drops fully to his knees, torso compressed under chained rails and armored fragments, while a deep metallic shock ripples through the quarry and a wave of dust spreads across the ground.
+
+  End on the giant kneeling and trapped in a brutal iron cocoon, chains stretched tight, rails embedded across the torso, the fallen axe half-buried in mud, drifting dust, and a few small metal fragments still hovering and spinning before they finally drop.
+
+  Lighting: cold gray cloud light, faint wet reflections on stone, mud, and rails, cold silver-white illumination from the orb and the hero’s magic lines, sharp cold highlights on airborne metal during orbit, and a final white-blue flash from the magnetic impulse. Cinematic dark fantasy, anamorphic look, subtle film grain, shallow depth of field on hands and nearby metal, strong physical inertia, realistic heavy enemy movement, rails resisting as they tear from the ground, chains tightening with believable tension, mud displacement, rolling debris, and controlled magnetic motion that feels like a field, not random telekinesis. Sound design: low wind in the quarry, distant metal groans, armor rattle from the charging guards, tight compression sound as the orb is crushed, deep low-frequency magnetic hum, metal shrieking free from the ground, heavy boss footsteps, axe whooshes with real mass, impact crashes into mud and rails, chain strain, rail collisions, a sharp electromagnetic finisher, then a massive iron-lock resonance and fading dust-heavy rumble.
+
+  No third-person view, no visible hero face, no constant hands in frame, no random floating metal chaos, no weak enemy scale, no weightless boss, no fire magic look, no glowing fantasy laser beam, no cartoon physics, no soft combat, no low-detail quarry, no tiny axe, no silly enemy behavior, no zombie movement.
+
+  #AIVideoComparison #seedance2 #MiniMax #MiniMaxH3 #Hailuo

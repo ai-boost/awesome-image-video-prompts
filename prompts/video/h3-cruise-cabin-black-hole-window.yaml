@@ -1,0 +1,26 @@
+id: h3-cruise-cabin-black-hole-window
+title:
+  en: Tourist films black hole from cruise cabin
+  zh: 游客在游轮客房拍摄黑洞
+model: MiniMax H3
+mode: text-to-video
+category: vlog
+tags:
+- black-hole
+- space-cruise
+- handheld-pov
+- reflection
+source:
+  name: '@ivanfioravanti on X'
+  url: https://x.com/ivanfioravanti/status/2086553101029290296
+  credit: Ivan Fioravanti ᯅ
+  likes: 43
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ivanfioravanti/status/2086553101029290296
+notes:
+  en: Handheld amateur POV framing and a visible reflection in the glass make the window read as a real surface. Switching the light off mid-shot gives the view a practical motive, and the short spoken line adds an on-camera voice.
+  zh: 手持业余视角的取景，加上玻璃窗上清晰的倒影，让窗户看起来像真实的表面。中途关灯给了观看窗外的理由，简短台词则为画面加入了出镜人物的声音。
+prompt: |
+  amateur handheld pov footage of a tourist in their plush and comfortable room of a space cruise, carpeted floor and comfy bed, large window shows a view of Gargantua blackhole, you can see their reflection in the window, they turn off the light half way through so we can see outside better and say: "Wow look at that!", then they show back the room

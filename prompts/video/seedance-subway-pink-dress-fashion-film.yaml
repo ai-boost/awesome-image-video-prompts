@@ -1,0 +1,26 @@
+id: seedance-subway-pink-dress-fashion-film
+title:
+  en: Woman in pink dress beside blurred passing subway train
+  zh: 粉色连衣裙女子与疾驰而过的地铁
+model: Seedance 2.5
+mode: reference-to-video
+category: commercial
+tags:
+- fashion
+- subway
+- motion-blur
+- character-lock
+- music-video
+source:
+  name: '@Harry_thingss on X'
+  url: https://x.com/Harry_thingss/status/2103494748132770038
+  credit: Harry_thingss
+  captured: '2026-10-29'
+  posted: '2026-09-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Harry_thingss/status/2103494748132770038
+notes:
+  en: A reference still plus a repeated character lock block keeps the same woman across every shot, and the prompt lists the shot sequence beat by beat so the motion reads as one continuous take. Practical station light and a passing train create the motion-blur backdrop, with an explicit instruction that no other people sit in focus.
+  zh: 参考图加上每个镜头都重复的人物锁定描述，保证全片是同一位女子，并按顺序写出每个镜头的动作节拍，让动作像一个连续镜头。站台的实拍灯光和经过的列车营造出动态模糊背景，并明确要求焦点内不出现其他人。
+prompt: |
+  Photoreal cinematic ~9 seconds, high-end fashion-film look. A young German woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a pink spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same German woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, pink black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot.

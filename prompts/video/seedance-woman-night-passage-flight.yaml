@@ -1,0 +1,26 @@
+id: seedance-woman-night-passage-flight
+title:
+  en: Woman walks alone across a dim lit hall
+  zh: 女子独自走过昏暗灯光的大厅
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- thriller
+- night
+- tracking-shot
+- camera-moves
+- lighting
+source:
+  name: '@Lianaalane on X'
+  url: https://x.com/Lianaalane/status/2100886741972640200
+  credit: Lianaalane
+  captured: '2026-10-29'
+  posted: '2026-09-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Lianaalane/status/2100886741972640200
+notes:
+  en: Splits the 30 second clip into beats, each with a named camera move (wide establishing shot, close-up, tracking from behind, low angle), which gives the model a clear shot order. The red emergency light is written as a gradual change, so the tension builds instead of switching on at once.
+  zh: 将30秒片段拆分为多个镜头节拍，每个节拍写明镜头运动（远景建立、特写、背后跟拍、低机位），让模型按顺序执行。红色应急灯被写成逐渐出现的变化，使紧张感层层递进，而不是突然亮起。
+prompt: |
+  Created a video, 30 seconds, in a dark cinematic thriller style, featuring a young woman walking alone toward a large modern building at night. She slowly looks around with a worried and alert expression as the camera moves from a wide establishing shot into a close-up angle of her face. Suddenly, she turns and starts running toward a narrow underground concrete passage, carrying a shoulder bag while her footsteps echo through the empty corridor. Use smooth tracking shots, handheld movement, realistic body motion, overhead industrial lights, deep shadows, and subtle blue-green cinematic tones. As she runs deeper inside, red emergency lighting gradually appears and creates a tense atmosphere. The camera follows closely from behind and shifts between wide, side, and low-angle shots to increase suspense. Near the end, she reaches a heavy door, pushes it open, and rushes outside into the dark night. Keep the visuals photorealistic, cinematic, atmospheric, and emotionally intense, with natural lighting, realistic textures, smooth motion, and no on-screen text or watermark.

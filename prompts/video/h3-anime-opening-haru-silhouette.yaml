@@ -1,0 +1,77 @@
+id: h3-anime-opening-haru-silhouette
+title:
+  en: Black silhouette hero amid falling leaves
+  zh: 黑色剪影少年与飘落的树叶
+model: MiniMax H3
+mode: reference-to-video
+category: anime
+tags:
+- anime-opening
+- character-lock
+- beat-sync
+- multi-shot
+source:
+  name: '@keneth_ai on X'
+  url: https://x.com/keneth_ai/status/2087039444146933942
+  credit: Keneth Tran | AI Animation
+  likes: 17
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/keneth_ai/status/2087039444146933942
+notes:
+  en: A locked character block and a reference sheet fix the face and outfit, while a timestamped shot list sets the pacing, color flash and cut rhythm for each beat. The negative prompt rules out 3D and live action drift so the cel look holds.
+  zh: 用固定的角色设定和参考图锁住脸与服装，再用带时间码的分镜表规定每一拍的节奏、配色闪白和切换，负面提示排除 3D 与真人质感，保持赛璐璐画风。
+prompt: |
+  [CHARACTER LOCK — use attached reference sheet]
+  Haru: teen boy, short messy dark-brown hair with warm amber rim-light on the
+  edges, tired amber eyes, single silver earring on left ear, thin dark cord
+  choker, oversized grey-blue windbreaker open over a longline blue hoodie, black
+  joggers with dangling straps, scuffed black high-top sneakers. Face, hair
+  silhouette, and outfit identical in every shot.
+
+  [FORMAT]
+  Anime television opening, 2D cel-shaded, crisp linework, 16:9, high contrast,
+  film grain. Total runtime 15 seconds, 12 shots, beat-synced hard cuts.
+
+  [SHOT LIST — 15s]
+  00.0–01.2  Black. Hard white flash. Haru's silhouette snaps in, back to camera,
+             jacket billowing. Background floods CYAN.
+  01.2–02.4  Whip-pan to profile close-up. Downcast eyes flick up, sharp.
+             Flash. Background MAGENTA.
+  02.4–03.2  Low-angle wide: he sprints along a rooftop ledge, coat trailing,
+             paper and leaves scattering. ORANGE-RED, speed lines.
+  03.2–03.9  Freeze-frame mid-leap between rooftops. Pure black silhouette
+             against strobing YELLOW-to-LIME.
+  03.9–04.7  Top-down spin: lands, one hand on concrete, dust ring bursts out.
+             Snap to DEEP PURPLE.
+  04.7–05.3  Extreme close-up: silver earring swings, catches a lens flare.
+             White flash frame.
+  05.3–06.2  Split-screen triptych — three duotone copies of his face
+             (blue / red / green) rotating, one per beat.
+  06.2–07.4  Back view, walking into wind, hood snapping, hair whipping.
+             Background ELECTRIC BLUE with horizontal scan lines.
+  07.4–08.2  Hands-in-pockets front shot, camera orbits fast around him.
+             Colors cycle GREEN → PINK → WHITE across the orbit.
+  08.2–09.4  Seated on the ledge, knees up, head down, city lights blooming
+             behind. Muted TEAL. Brief calm — no flash on this cut.
+  09.4–10.6  He stands, turns to camera, hair lifting, single amber rim-light
+             igniting along his edge. Background goes pure WHITE.
+  10.6–15.0  Pull-back wide: Haru walks away toward the sunset skyline, hands in
+             pockets, clothes drifting. Color settles into the warm painted
+             palette of the reference sheet. Camera dollies out, holds on
+             centered title-card space.
+
+  [MOTION]
+  Simple punchy character animation on twos. Hair and fabric always drifting.
+  Camera: whip pans, snap zooms, one fast orbit, one final dolly-out.
+
+  [COLOR & FX]
+  Full-frame color swaps on every cut, synced to an implied beat. White
+  flash-frames between shots 1–9. Chromatic aberration on impacts, halftone dot
+  bursts, quick duotone inversions, floating leaf and paper debris throughout.
+  Warm amber rim-light preserved on the character in every shot.
+
+  [NEGATIVE]
+  photorealistic, 3D render, live action, extra characters, text or logos,
+  changing outfit, changing hair color, distorted face, extra fingers, watermark

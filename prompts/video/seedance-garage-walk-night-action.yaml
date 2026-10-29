@@ -1,0 +1,37 @@
+id: seedance-garage-walk-night-action
+title:
+  en: Woman walks through night underground parking garage
+  zh: 女子走过夜间地下停车场
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- night
+- parking-garage
+- cinematic
+source:
+  name: '@AiwithElisia on X'
+  url: https://x.com/AiwithElisia/status/2089580979560337437
+  credit: AiwithElisia
+  captured: '2026-10-29'
+  posted: '2026-08-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AiwithElisia/status/2089580979560337437
+notes:
+  en: The prompt opens with a clear wardrobe list and a location with lighting cues, then gives each camera move its own clause so the model can sequence them. It states outright that face, hair and outfit must stay consistent, and a closing negative list blocks common artifacts.
+  zh: 开头先用明确的服装清单和带灯光描述的地点设定画面，再把每种运镜写成独立分句，便于模型安排镜头顺序。文末直接要求人物面部、发型与服装保持一致，并用否定清单排除常见瑕疵。
+prompt: |
+  Create a cinematic, ultra-realistic action movie scene inside a large underground parking garage at night. A beautiful young woman with long dark brown hair, wearing a black leather jacket, fitted white crop top, black mini skirt, black tights and black ankle boots, walks confidently through the parking area. Several aggressive male attackers suddenly approach her from different directions.
+
+  She immediately fights them with fast, powerful martial-arts movements. Show realistic hand-to-hand combat, punches, blocks, dodges, kicks and throws. Include a close-up of her punching a male attacker in the face, his head reacting naturally to the impact, followed by dynamic wide shots of her fighting multiple attackers simultaneously.
+
+  Use parked black and silver cars, concrete pillars, underground parking signs, wet reflective floor and cinematic practical lighting in the background. Add dramatic blue and warm orange lighting, realistic shadows, subtle atmospheric haze and reflections on the cars.
+
+  Camera style: cinematic Hollywood action film, dynamic handheld camera, smooth tracking shots, low-angle shots, wide establishing shots, medium shots and dramatic close-ups. Add realistic motion blur during fast movements, natural hair movement, realistic clothing physics and convincing fight choreography.
+
+  The woman should remain visually consistent throughout the entire video, with the same face, hairstyle, outfit and body proportions. The attackers should also remain realistic and consistent.
+
+  Ultra-realistic human skin, detailed facial expressions, physically accurate movement, realistic anatomy, high-detail environment, cinematic depth of field, professional color grading, dramatic atmosphere, 4K, photorealistic, 24fps, anamorphic cinematic look.
+
+  No text, no subtitles, no watermark, no distorted faces, no extra fingers, no duplicated people, no unnatural body movements.

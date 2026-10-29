@@ -1,0 +1,52 @@
+id: seedance-indonesian-dog-chase-comedy
+title:
+  en: Girl walks residential street with dog behind
+  zh: 女孩在住宅街上散步，狗跟在身后
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- comedy
+- handheld-phone
+- dialogue
+- street-scene
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2092578120591446348
+  credit: MissDelulu9
+  captured: '2026-10-29'
+  posted: '2026-08-26'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/MissDelulu9/status/2092578120591446348
+notes:
+  en: A timed shot list with the exact dialogue lines sets pacing and comedic beats, and the camera realism block (one handed phone, autofocus drift, auto exposure, motion blur, light compression) keeps it reading as a phone home video rather than a film.
+  zh: 按时间码分镜并写明精确台词来控制节奏和笑点，再加上单手手机拍摄、自动对焦漂移、自动曝光、运动模糊和轻微压缩的真实感段落，让画面更像手机家庭录像而不是电影。
+prompt: |
+  Create a 15-second realistic smartphone video in 16:9 aspect ratio.
+
+  Style: authentic Gen-Z Indonesian comedy, spontaneous iPhone home-video footage, natural daylight.
+
+  SHOT 1- 0:00–0:02
+  A girl casually walks along a small Indonesian residential street. She suddenly notices a medium-sized pet dog ahead and stops. Her relaxed expression instantly turns nervous.
+
+  SHOT 2-0:02–0:04
+  Quick handheld pan from the girl to the dog and back. She slowly steps backward and says: “Uh... don't come closer, okay...” The dog looks curious and harmless.
+
+  SHOT 3-0:04–0:06
+  The dog playfully runs a few steps toward her. She panics: “AAAAA RUN!” The camera operator reacts and moves backward.
+
+  SHOT 4-0:06–0:08
+  She suddenly runs away, looking back over her shoulder. The iPhone camera follows while running, creating natural shaky footage. Her white fitted T-shirt, light-blue short denim shorts, and white low-profile slippers move naturally.
+
+  SHOT 5-0:08–0:10
+  Side close-up while she runs. She looks back and screams: “BRO, IT'S FOLLOWING ME!” The camera shakes as the friend behind the camera laughs.
+
+  SHOT 6-0:10–0:13
+  The camera widens as she runs toward her friend, waving her hands: “DON'T LAUGH! HELP ME, BRO!” The dog follows playfully without attacking, biting, or touching her.
+
+  SHOT 7- 0:13–0:15
+  She reaches a safe spot, bends over briefly to catch her breath, then looks at the camera with an annoyed and embarrassed expression: “I was literally just passing by, why did that turn into cardio?!” The friend bursts out laughing. Abrupt cut.
+
+  CAMERA & REALISM
+
+  Amateur one-handed iPhone recording. Natural handheld shake, imperfect framing, slight tilt, occasional autofocus shifts, automatic exposure changes, realistic motion blur, natural smartphone colors, subtle digital sharpening and compression. Environmental details remain visible. No cinematic look.

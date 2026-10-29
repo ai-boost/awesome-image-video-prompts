@@ -1,0 +1,26 @@
+id: h3-metal-fragments-streak-dark-void
+title:
+  en: Metal fragments streak past in a dark void
+  zh: 金属碎片在黑暗中高速掠过
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- title-sequence
+- typography
+- camera-choreography
+- motion-blur
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2093715484910731416
+  credit: Pierrick Chevallier | IA
+  likes: 18
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/CharaspowerAI/status/2093715484910731416
+notes:
+  en: The prompt is written as ordered beats, from a fast close up through deceleration and letter assembly to a pullback reveal, so the model has a clear camera path. Concrete physical cues such as sonic shockwaves, sparks and motion blur carry the speed instead of vague adjectives alone.
+  zh: 提示词按顺序写出几个节拍：高速特写、减速咬合拼出字母、最后拉远揭示整个标题，给模型清晰的运镜路径。音爆、火花和运动模糊等具体物理线索承载速度感，而不只是堆砌形容词。
+prompt: |
+  High-octane cinematic title sequence built entirely around speed: begin with an extreme close-up of polished metal traveling through darkness so quickly that only reflections and sparks are visible. The camera accelerates alongside it as enormous metallic components streak past like projectiles, generating sonic shockwaves and pressure distortion. Each component violently decelerates at the center of frame, rotating and locking into place with precise mechanical impacts while additional fragments arrive from every direction. The camera threads between assembling letterforms at extreme speed, passing through showers of sparks and glowing friction trails until a final impossible pullback reveals that every moving component has constructed the enormous word "VELOCITY". A supersonic pressure wave travels from the first letter to the last, bending the surrounding atmosphere and stripping glowing particles from the metal surfaces. The camera instantly launches backward as the entire title accelerates forward through the frame like a massive projectile, leaving only turbulent smoke and incandescent trails behind. Hyper-dynamic cinematography, physically convincing motion blur, metallic micro-detail, sonic-boom distortion, premium theatrical title VFX.

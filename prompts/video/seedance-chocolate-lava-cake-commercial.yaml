@@ -1,0 +1,24 @@
+id: seedance-chocolate-lava-cake-commercial
+title:
+  en: Chocolate lava cake commercial from egg to spoon
+  zh: 巧克力熔岩蛋糕广告，从打蛋到勺子切开
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- food
+- commercial
+- storyboard
+- timecode
+source:
+  name: '@AI_with_Antonio on X'
+  url: https://x.com/AI_with_Antonio/status/2088237953772638270
+  credit: AntonioAI
+  captured: '2026-10-29'
+  posted: '2026-08-14'
+video: https://x.com/AI_with_Antonio/status/2088237953772638270
+notes:
+  en: Each shot gets a timecode, shot size, camera angle and single action, so the model cuts cleanly between five short beats. The same prompt also asks for a captioned storyboard layout, which gives a shot-by-shot preview to check against.
+  zh: 每个镜头都给出时间码、景别、机位和单一动作，模型能在五个短镜头之间干净切换。同一提示词还要求输出带字幕的分镜板，可以逐镜头对照检查。
+prompt: |
+  A photorealistic 10-second culinary commercial for a chocolate lava cake. Shot 1 (0:00–0:01): Close-up 45-degree angle of a fresh egg falling into a mound of cocoa powder and flour in a glass bowl on a wooden countertop. Shot 2 (0:01–0:03): Top-down overhead view of a metal wire whisk actively stirring velvety, glossy chocolate batter into silky concentric swirl patterns. Shot 3 (0:03–0:05): Medium close-up eye-level shot of thick chocolate batter pouring in a smooth ribbon fold into a grey ceramic ramekin dusted with cocoa. Shot 4 (0:05–0:07): Straight-on medium shot inside a modern oven, warm amber interior glow, showing the chocolate lava cake fully risen and domed on the wire rack. Shot 5 (0:07–0:10): Hero macro shot of the baked lava cake on a matte dark plate; a silver spoon breaks into the crust, releasing a flowing cascade of warm molten chocolate lava with delicate rising steam. Style: High-end commercial cinematography, natural studio lighting, ultra-realistic textures, shallow depth of field, 8k resolution, smooth transitions. A professional 5-panel commercial storyboard layout on a clean, light-grey textured background with crisp black frame borders and typography: Top Row (Left to Right): Panel 1: 00:00 - 00:01 | CU, Angle 45-degree angle — Raw egg yolk cracking into cocoa powder and flour in a glass bowl. Text: "Combine your rich ingredients." Panel 2: 00:01 - 00:03 | Angle: High-Angle / Top-Down (CU) — Whisk swirling glossy chocolate batter into concentric rings. Text: "Whisk until perfectly smooth." Panel 3: 00:03 - 00:05 | MCU, Eye-Level — Thick ribbon of chocolate batter pouring vertically into a grey ramekin. Text: "Bake until the edges are set." Bottom Row (Centered): Panel 4: 00:05 - 00:07 | MS, Straight-On Centered — Puffed cake resting on the wire rack inside a warm illuminated oven. Text: "Baking in Oven" Panel 5: 00:07 - 00:10 | Hero Angle — Silver dessert spoon breaking the cake crust, warm molten chocolate oozing outward with steam. Text: "Enjoy your perfect lava cake." Style: Clean storyboard graphic design, photorealistic culinary frame stills, sharp cinematic typography, balanced layout.

@@ -1,0 +1,61 @@
+id: seedance-neon-breach-cyberpunk-rooftop-chase
+title:
+  en: Rooftop chase through a neon megacity skyline
+  zh: 霓虹都市天际线上的屋顶追逐
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- cyberpunk
+- action
+- parkour
+- drones
+- reference-lock
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2112430298973503726
+  credit: Zar⭕on
+  captured: '2026-10-29'
+  posted: '2026-10-20'
+video: https://x.com/Xaroon_x/status/2112430298973503726
+notes:
+  en: The 30 second action is split into five timed beats, each with its own camera move, and @image1 is locked as the only hero so his face and outfit stay fixed. The audio cue for the music cut at 00:27 and the spatial continuity line keep the sound and the skybridge layout consistent across the whole sequence.
+  zh: 将 30 秒动作拆成五段带时间码的节拍，每段配有独立的镜头运动，并用 @image1 锁定唯一主角，使其面部和服装在各镜头中保持一致。00:27 的音乐切点提示与空间连续性说明，让声音和天桥布局在整段中保持统一。
+prompt: |
+  NEON BREACH
+
+  [ENGINE DIRECTIVE]
+  Genre: Cyberpunk action thriller. Duration: exactly 30 seconds. Aspect ratio: 16:9. Target: 60fps where supported. Style: photorealistic Hollywood cinema, heavy rain, neon reflections, volumetric lighting, realistic motion blur and skin texture.
+
+  HERO LOCK: @image1 is the only hero. Preserve his exact face, hairstyle, facial hair, skin tone, age, body proportions, outfit and accessories in every shot. No clones, costume changes, new weapons or invented powers.
+
+  LOCATION: Halcyon Stack, a rain-soaked futuristic megacity with two 40-story towers connected by a glass skybridge, rooftop machinery, steel gantries and abstract neon signs. Maintain spatial continuity.
+
+  ENEMIES: Three red-scanner hunter drones using ramming and taser darts, plus a 3-meter armored enforcer with matte-black plating, hydraulic limbs and a dim blue visor.
+
+  CAMERA: Motivated low tracking, lateral pursuit, tactical high angles, over-the-shoulder shots, controlled slow-motion orbit and vertical descending tracking. Natural motion blur. Hero generally travels left to right.
+
+  [AUDIO]
+  Original pulsing synth bass, industrial percussion, rising tense strings, heavy rain, distant sirens, drone rotors, hydraulic servos, glass shattering, steel groans and cable snaps. Music cuts at 00:27, leaving rain and a soft sustained synth pad.
+
+  [TIMELINE]
+
+  00:00–00:05 | THE HUNT
+  Wide aerial view of neon towers in heavy rain. Camera drops behind @image1 sprinting across a rooftop. Three drones rise and lock on at 00:03. He vaults a ventilation unit.
+
+  00:05–00:10 | DRONE ALLEY
+  He slides beneath a diving drone, sending it crashing into a wall. He leaps, grabs a second drone and swings it into the third. Both crash through a billboard frame in sparks. He keeps running.
+
+  00:10–00:15 | THE ENFORCER
+  A massive armored enforcer smashes through a rooftop door. The hero pivots and races onto a transparent glass skybridge, with the city far below. The machine charges after him.
+
+  00:15–00:20 | GLASS FLOOR
+  The hero ducks a hydraulic punch, shattering the glass floor. Cracks spread beneath the enforcer. In a controlled slow-motion 180-degree orbit, the hero leaps across a 6-meter gap and grabs a swaying steel gantry.
+
+  00:20–00:25 | CABLE DROP
+  The enforcer lands heavily on the gantry. The hero grabs a maintenance cable and swings down the tower. Bolts shear, metal bends and the gantry collapses. He kicks off the glass facade and lands on a lower rooftop.
+
+  00:25–00:30 | FINAL IMAGE
+  The enforcer falls through neon-lit rain and impacts the street at 00:27. Silence follows. The hero rises at the rooftop edge and looks back at the shattered skybridge. Camera slowly pulls away, revealing the immense glowing city.
+
+  END: Quiet, powerful cinematic composition. No text or logos.

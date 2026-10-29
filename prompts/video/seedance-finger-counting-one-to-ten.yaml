@@ -1,0 +1,24 @@
+id: seedance-finger-counting-one-to-ten
+title:
+  en: Woman counts one to ten on fingers
+  zh: 女子用手指从一数到十
+model: Seedance 2.5
+mode: text-to-video
+category: dialogue
+tags:
+- benchmark
+- hand-motion
+- static-shot
+- comparison
+source:
+  name: '@patrickassale on X'
+  url: https://x.com/patrickassale/status/2083212122977108109
+  credit: Patrick
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/patrickassale/status/2083212122977108109
+notes:
+  en: 'A single locked shot with one sequenced action gives the model one thing to track: the number of fingers held up in step with each spoken count. Keeping the camera static and the subject facing the lens isolates hand precision as the test.'
+  zh: 单一固定镜头加上按顺序进行的动作，让模型只需跟踪一件事：每数一个数字时伸出的手指数量。镜头锁定、主体正对镜头，使手部精度成为唯一考察点。
+prompt: |
+  One continuous static shot, no cuts. A person looks directly at the camera and counts from one to ten, holding up the corresponding number of fingers as they say each number.

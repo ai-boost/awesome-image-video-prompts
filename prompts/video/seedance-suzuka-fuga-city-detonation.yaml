@@ -1,0 +1,85 @@
+id: seedance-suzuka-fuga-city-detonation
+title:
+  en: Woman with fire in hands on ruined street
+  zh: 废墟街道上双手燃火的红发女子
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- dark-fantasy
+- fire-vfx
+- reference-images
+- city-destruction
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2103698890516308313
+  credit: itxabdullaa
+  captured: '2026-10-29'
+  posted: '2026-09-26'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxabdullaa/status/2103698890516308313
+notes:
+  en: Two reference images with identity-lock lines pin the executor and target, and a timestamped beat sheet with shot types (push-in, hard cut, aerial ultra-wide) sets the escalation order. Explicit visual rules keep the two characters out of the same shot, and an ambience-only audio line stops the model from adding music.
+  zh: 使用两张参考图并附上身份锁定句，固定施法者与目标的形象；按秒划分的分镜表配合镜头类型（推进、硬切、航拍超广角）规定情绪递进顺序。视觉规则要求两个角色不同框，音频只写环境声并注明无音乐，避免模型自行加配乐。
+prompt: |
+  SUZUKA — FUGA
+  DURATION: exactly 10 seconds
+  FORMAT: 16:9
+  STYLE: ultra-photorealistic live-action dark fantasy, grounded supernatural fire VFX, realistic flame physics, cinematic destruction, natural lens behavior, practical lighting, realistic human actors, no digital-art appearance.
+  PACE: continuous tension and escalation, zero pauses, maximum buildup into catastrophic release.
+
+  REFERENCES
+
+  IMAGE 1 — EXECUTOR
+  Preserve facial identity, hairstyle, costume, body proportions, and appearance exactly.
+
+  IMAGE 2 — TARGET
+  Preserve facial identity, hairstyle, costume, body proportions, and appearance exactly.
+
+  ACTION
+
+  0.0–3.5 SECONDS — INVOCATION
+  Executor stands alone on a destroyed city street. Faint fire flickers around both hands. He calmly looks toward the off-screen target and says, “Fuga.” Fire intensifies as he naturally transitions into a firing stance. Camera slowly pushes closer.
+
+  3.5–6.5 SECONDS — FUGA RITUAL
+  Extreme front three-quarter hand-dominant perspective. Flame wraps tightly around the extended fingers and forms a sharp arrowhead-like tip while remaining physically attached to the hand. A continuous flame line stretches from the rear hand to the forward fingers. The rear hand performs a subtle pinch, draw, and hold motion. The flame compresses and becomes intensely concentrated and white-hot.
+
+  6.5–7.2 SECONDS — RELEASE
+  Maximum tension. The rear fingers release. The finger-wrapped flame tears free and launches forward as a single concentrated fire projectile along the exact attack axis. Forward hand remains in the aiming position. Hard cut.
+
+  7.2–7.7 SECONDS — TARGET REACTION
+  Target only. Medium close-up three-quarter view. The incoming attack reflects in the eyes. Firelight rapidly intensifies across the face. Brief realization, tension, and alarm.
+
+  7.7–8.3 SECONDS — IMPACT
+  Target-side rear three-quarter view. The concentrated flame projectile races down the street, rapidly expands in perspective, and impacts the target position. Brief hit-stop. Instant white-hot flash. Hard cut.
+
+  8.3–10.0 SECONDS — CITY-SCALE DETONATION
+  Extreme aerial ultra-wide. The impact expands into an enormous white-hot fireball, rolling black smoke, and a massive spherical shockwave. Destruction propagates realistically across city blocks. Buildings rupture, debris launches, dust swallows the streets, and the delayed pressure wave violently shakes the camera.
+
+  SMASH CUT TO BLACK. END.
+
+  VISUAL RULES
+
+  - Executor and Target never appear in the same shot.
+  - During Executor shots, Target remains completely off-screen.
+  - During Target shots, Executor remains completely off-screen.
+  - Fire behaves with realistic heat, smoke, embers, illumination, and pressure.
+  - Projectile is concentrated flame, not a physical arrow.
+  - No bow, bowstring, energy beam, detached arrowhead, or glowing anime effects.
+  - Grounded VFX integrated into live-action photography.
+  - Every action directly causes the next event.
+  - Continuous escalation, zero dead frames.
+
+  CAMERA
+
+  Cinematic live-action camera. Medium shots, aggressive push-ins, target close-ups, and aerial disaster coverage. Natural motion blur, realistic shake, and physical camera reactions. No floating virtual camera.
+
+  ENVIRONMENT
+
+  Destroyed urban city street with realistic debris, smoke, dust, damaged structures, and large-scale destruction. Photorealistic live-action environment.
+
+  AUDIO
+
+  Raw cinematic ambience only. Fire, wind pressure, debris, structural collapse, shockwave, impact, and destruction sounds.
+
+  NO MUSIC. #higgsfield

@@ -1,0 +1,26 @@
+id: h3-sunrise-clouds-spell-morning
+title:
+  en: Sunrise over clouds and snowy mountain peaks
+  zh: 日出时云海中的雪山峰顶
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- aerial
+- sunrise
+- clouds
+- title-reveal
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2086754531698725200
+  credit: Pierrick Chevallier | IA
+  likes: 33
+  captured: '2026-10-29'
+  posted: '2026-08-10'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/CharaspowerAI/status/2086754531698725200
+notes:
+  en: 'The prompt narrates the shot in time order: clouds flow, air currents shape them into a word, and the rising sun dissolves it, so the 15 seconds have a clear arc. Naming Interstellar and National Geographic sets the grade and mood in one phrase.'
+  zh: 提示词按时间顺序描述镜头：云层流动，气流把云塑造成文字，太阳升高后文字消散，让15秒有清晰的起承转合。用《星际穿越》和国家地理两个参照词，一次性定下色调与情绪。
+prompt: |
+  Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain peaks during sunrise. The golden light transforms the clouds into rivers of glowing vapor. Air currents gradually sculpt the cloud formations into the gigantic word "MORNING", stretching naturally across the sky. As the sun rises higher, the cloud letters slowly dissolve into the atmosphere while brilliant light floods the frame. Interstellar meets National Geographic, majestic, emotionally powerful.

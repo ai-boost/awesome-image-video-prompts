@@ -1,0 +1,50 @@
+id: seedance-chinese-spicy-sour-fish-cooking
+title:
+  en: Chef cuts a whole fish on wooden board
+  zh: 厨师在木板上切整条鱼
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- chinese-cuisine
+- food-commercial
+- timed-shots
+- macro
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2105297994736394705
+  credit: simeon-sanai
+  captured: '2026-10-29'
+  posted: '2026-09-30'
+video: https://x.com/Naiknelofar788/status/2105297994736394705
+notes:
+  en: Timed beats such as 0 to 4s and 4 to 8s act as a shot by shot script, and each beat names concrete motion, sound and ingredients. The opening block fixes lighting, camera style and a ban on text, which keeps the look consistent across cuts.
+  zh: 按 0 到 4 秒、4 到 8 秒等时间段写成逐镜头脚本，每段都写清具体动作、声音和食材，模型能逐段执行。开头统一设定厨房光线、镜头风格和禁止字幕的要求，让各镜头画面保持一致。
+prompt: |
+  Create a 30-second ultra-realistic cinematic cooking video of a skilled Chinese chef preparing spicy-and-sour fish in a professional kitchen. The chef wears a clean white chef uniform. Fast, precise cooking movements, realistic food textures, authentic fire, steam and oil physics, natural human motion, cinematic food photography. No text, logos, subtitles, or watermarks.
+
+  [0–4s] — FISH PREPARATION
+  The chef firmly holds a fresh whole fish on a wooden cutting board. With fast, controlled knife movements, the chef removes the head and smoothly follows the spine, separating the fish into clean fillets. Realistic knife sounds and subtle moisture details.
+
+  [4–8s] — THIN SLICING
+  The fillet is placed flat on the board. The chef rapidly slices it into extremely thin, delicate pieces with precise wrist movements. The translucent slices fall naturally one after another, revealing detailed fish texture and moisture.
+
+  [8–11s] — SEASONING
+  The fish slices are transferred into a bowl and coated with spices and a light marinade. The chef quickly tosses and mixes them until every piece is evenly coated with a smooth, glossy layer.
+
+  [11–15s] — WOK AND AROMATICS
+  A heavy iron wok heats over a strong blue-orange flame. Oil begins to shimmer. Pickled mustard greens, pickled chilies, garlic, and spices are thrown into the wok. They immediately sizzle as the chef rapidly tosses the ingredients, filling the scene with realistic steam and aromatic heat.
+
+  [15–20s] — COOKING THE FISH
+  Rich stock is poured into the wok and reaches a vigorous boil. The chef carefully adds the delicate fish slices and controls the wok with quick, precise movements, keeping the fish intact. A light starch slurry is added while the wok is rotated in smooth arcs, creating a silky, glossy sauce that coats every slice.
+
+  [20–24s] — PLATING
+  The cooked fish is carefully transferred into a deep serving dish. White fish slices settle among golden pickled vegetables and red chilies. The glossy sauce flows naturally around the fish while steam rises from the hot dish.
+
+  [24–27s] — HOT OIL FINISH
+  Fresh minced garlic and dried red chilies are arranged on top. The chef pours scorching hot oil over them. A powerful, realistic sizzling reaction erupts, sending fragrant steam upward as the toppings bloom in the hot oil.
+
+  [27–30s] — FINAL HERO SHOT
+  The camera slowly pushes toward the finished dish. Tender white fish, golden pickled vegetables, bright red chilies, glossy sauce, fresh garlic, and swirling steam fill the frame. End on an irresistible macro close-up of the bubbling, freshly cooked spicy-and-sour fish.
+
+  Ultra-realistic food cinematography, photorealistic chef, authentic Chinese cooking technique, realistic knife handling, detailed fish texture, natural steam and fire, physically accurate oil movement, cinematic depth of field, subtle handheld camera movement, warm professional kitchen lighting, macro food details, high dynamic range, 4K, premium food commercial quality.

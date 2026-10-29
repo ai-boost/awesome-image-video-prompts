@@ -1,0 +1,27 @@
+id: h3-lucy-night-walk-home
+title:
+  en: Woman walks home alone at night
+  zh: 女子深夜独自走回家
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- story-prompt
+- reference-image
+- night-street
+- realism-lora
+source:
+  name: '@EndFolding79421 on X'
+  url: https://x.com/EndFolding79421/status/2109791105671700721
+  credit: FoldingEnd A.I.
+  likes: 18
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/EndFolding79421/status/2109791105671700721
+notes:
+  en: The prompt is a plain story with no camera directions, so the model infers shot, pacing and motion from the events alone. A reference picture locks Lucy's look, while the r34l1sm trigger with a realism LoRA at 0.6 keeps the skin and night light photoreal.
+  zh: 提示词只写一段连贯的故事而不加镜头指令，让模型从事件本身推断景别、节奏和动作。参考图锁定露西的外貌，触发词 r34l1sm 配合 0.6 强度的写实 LoRA 让皮肤和夜间光线更接近真实。
+prompt: "r34l1sm \n\nuse the woman in  <Picture 1> is lucy. \n\nLucy stepped out of the small diner where she worked, the doorbell jingling softly behind her. The night air was cool and crisp, a welcome change from the stuffy warmth inside. She took a deep breath, feeling the slight chill of the evening settle on her skin. The street was quiet, only the distant hum of traffic breaking the silence.\n\nHer shift had been long and exhausting, filled with the clatter of dishes and the constant chatter of customers. Now, the quiet seemed almost surreal, a stark contrast to the noise and chaos she had just left behind. Lucy adjusted her bag on her shoulder, glancing around as she began her walk home.\n\nThe dim streetlights cast long shadows across the pavement, their flickering bulbs adding an eerie quality to the otherwise peaceful night. Lucy's footsteps echoed softly, a rhythmic accompaniment to her thoughts. She felt a strange mix of relief and unease; relief that her shift was over, and\
+  \ unease that she had to walk home alone at this hour.\n\nShe tried to shake off the feeling, telling herself it was just her imagination. But as she walked, the sensation of being watched grew stronger. Lucy's eyes darted to the darkened alleyways and the shadowy corners of the street, half-expecting to see someone lurking there. Each time, there was nothing but the oppressive darkness.\n\nHer thoughts wandered to the events of the day, the usual frustrations of work blending with snippets of conversations she'd had with her coworkers. She thought of Megan, her closest friend at the diner, and their plans to go out together on the weekend. The thought brought a small smile to her lips, momentarily easing her tension.\n\nBut the feeling of being watched persisted. Lucy quickened her pace, her heartbeat matching the rapid rhythm of her footsteps. She turned down a quieter street, the buildings looming tall and silent on either side. The oppressive silence pressed in on her, amplifying every\
+  \ sound, every rustle of leaves, every distant car horn.\n\nA sudden noise behind her made Lucy stop in her tracks. She spun around, eyes wide, searching the shadows for the source. The street was empty, the only movement the gentle sway of a tree branch in the breeze. She stood there for a moment, heart pounding, before forcing herself to turn back and keep walking.\n\n\"It's just your imagination,\" she muttered under her breath, trying to steady her nerves. But the cold knot of fear in her stomach told her otherwise.\n\n Link to Workflow : \nhttps://\nyoutube.com/watch?v=DOFpyB\nWg--8&t=51s\n…\n"

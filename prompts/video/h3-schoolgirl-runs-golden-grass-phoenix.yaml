@@ -1,0 +1,33 @@
+id: h3-schoolgirl-runs-golden-grass-phoenix
+title:
+  en: Schoolgirl sprints through golden grass at sunset
+  zh: 女学生在夕阳下的金色草丛中奔跑
+model: MiniMax H3
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- multi-shot
+- identity-lock
+- camera-move
+- phoenix-transformation
+source:
+  name: '@Cardoso on X'
+  url: https://x.com/Cardoso/status/2108599749179781551
+  credit: cardoso
+  likes: 24
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Cardoso/status/2108599749179781551
+notes:
+  en: Four timed shots with explicit camera moves, and an identity lock that repeats the hair, ribbon and uniform in every shot so the character holds across cuts. Soundscape and music sit in their own fields, so audio cues do not compete with the visual description.
+  zh: 四个带时间码的镜头，每个镜头都写明运镜，并用身份锁定段重复发型、发带和制服，使角色在切换中保持一致。音效和配乐单独成段，不与画面描述混在一起。
+prompt: |
+  integrated_multimodal_description: [Shot 1] Live-action, cinematic, anamorphic 35mm, golden hour, fine film grain, warm sun flare. A low tracking shot through a wide open meadow of tall gold grass, low sun ahead on the horizon, no buildings, no road. A Japanese schoolgirl runs screen-left to screen-right, feet-first, toward the open field and the sun, not back toward the camera. Identity lock: late teens, fair skin, black shoulder-length hair with a small red ribbon, navy sailor uniform with a white collar and red neckerchief, pleated navy skirt, white socks, brown loafers. Determined face, eyes on the field ahead, not on the camera, mouth closed. Grass whips through the foreground, out of focus. Her hair and skirt stream behind her. The camera trucks right at fast speed at knee height, matching her pace, with large amplitude, sun flare raking the lens. No second person. No bird yet. No speech. No narrator.
+  [Shot 2] At 00:03.800, the camera cuts to an extreme low angle from the grass, looking up. Same girl, same lock: late teens, black shoulder-length hair, red ribbon, navy sailor uniform, white collar, red neckerchief, pleated skirt, white socks, brown loafers. She plants her right foot and leaps straight up, arms opening, skirt and hair lifting, loafers leaving the grass. The sun sits behind her so she is a rim-lit silhouette against a clear gold sky. She does not fall back. She does not look at the camera. Mouth stays closed. The camera tilts up at fast speed with large amplitude, following her rise, grass blades sharp in the near foreground. No speech. No narrator.
+  [Shot 3] At 00:07.200, the camera cuts to a medium shot of her at the top of the leap, same body, same face, same navy uniform and red ribbon, against the gold sky. One continuous morph, no second figure, no costume left behind, no small bird hatching out of her. Gold fire kindles at her outstretched fingertips and at the hem of the skirt, climbs the arms, and becomes long primary feathers. The sailor collar and skirt burn away into plumage on the same body. Her face lengthens into a raptor beak in that same head; the eyes stay in place and turn coal-bright. Her legs tuck and become talons. What finishes the morph is a phoenix the size of a large crane, wingspan wider than she was tall: gold breast, crimson flight feathers with white-hot edges, a long trailing tail of fire, not a cartoon flame blob, not a sparrow, not a chicken. The camera arcs around her with large amplitude at slow speed as the wings open. No human girl remains in frame. No speech. No narrator.
+  [Shot 4] At 00:11.000, the camera cuts to a wide low crane over the same meadow. The phoenix only: crane-sized, gold breast, crimson flight feathers, white-hot edges, long fire tail, coal-bright eyes, talons tucked. It banks once, then flies away from the camera toward the low sun, wings beating forward, hood-first, not reversing, not circling back to the girl, because the girl is gone. Embers drift down into the grass and go dark; the field does not catch. She shrinks toward the sun. The camera tilts up and pulls out with large amplitude at slow speed until the bird is a bright streak on the horizon. No speech. No narrator.
+
+  overall_soundscape: Wind in tall grass, loafers on dry stems, a short breath on the plant, fabric snap as she leaves the ground. A rising whoosh as fire takes the uniform, then heavy wing beats and a single wild phoenix cry, beak open once, not words. Embers tick into the grass. After the cry, only wind and wings fading. No voices. No narrator.
+
+  non_diegetic_music: Low strings and a solo shakuhachi in a slow pulse, a single taiko hit on the plant, then fast rising brass and a high string ostinato under the wing beats. No lyrics. No sung theme.

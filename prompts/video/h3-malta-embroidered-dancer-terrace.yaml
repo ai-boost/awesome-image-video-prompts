@@ -1,0 +1,61 @@
+id: h3-malta-embroidered-dancer-terrace
+title:
+  en: Dancer in embroidered skirt on Maltese terrace
+  zh: 身穿刺绣长裙的舞者站在马耳他露台上
+model: MiniMax H3
+mode: text-to-video
+category: music-dance
+tags:
+- dance
+- slow motion
+- fabric physics
+- malta
+source:
+  name: '@abulu8 on X'
+  url: https://x.com/abulu8/status/2085793101600428386
+  credit: Syed Abuthahir ∞
+  likes: 16
+  captured: '2026-10-29'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/abulu8/status/2085793101600428386
+notes:
+  en: Each of the ten shots is built around one quality of motion, with a mandatory slow motion leap so the embroidery and skirt bloom stay legible. The music is scripted shot by shot, so the arrangement and the dance build together.
+  zh: 十个镜头各自围绕一种动作质感展开，并安排了一次慢动作跃起，让刺绣和裙摆的展开清晰可见。音乐按镜头逐段编排，编曲与舞蹈同步推进。
+prompt: |
+  {
+    "format": { "duration": "15s", "bpm": 92, "total_shots": 10, "sync_type": "Dance to Playback Song — No Lip-Sync" },
+    "style_reference": "Warm Mediterranean daylight, 35mm, fine organic grain, gentle bloom. Honey-gold limestone against deep cobalt sea and white sky. Saturated embroidery popping against neutral stone. Shallow depth on close work, crisp wides, natural sun flare. Never cold or desaturated.",
+    "subject": {
+      "description": "A young Mexican woman, mid-twenties, long dark wavy hair loose and moving, warm brown skin, serene expressive face, small gold earrings. Traditional Chiapaneco dress — deep-toned fabric densely embroidered with large multicolored floral bursts in magenta, gold, turquoise and crimson, wide flowing skirt, sheer embroidered overlay that catches air. Bare feet.",
+      "consistency_note": "The dress is the co-star — keep embroidery pattern, colors and skirt volume consistent. Fabric behavior matters as much as her body. Keep her face large in close work to avoid drift."
+    },
+    "environment": {
+      "setting": "Malta in bright daylight — honey limestone architecture, a sunlit stone terrace above the sea, narrow old-town steps.",
+      "background": "Limestone walls and arches, traditional Maltese wooden balconies, worn steps, bougainvillea, the deep blue Mediterranean to the horizon.",
+      "lighting": "Hard Mediterranean afternoon sun, crisp shadows across stone, warm limestone bounce filling her face, occasional flare, glittering sea behind."
+    },
+    "mood": "graceful, elegant, joyful, free, radiant, flowing",
+    "music": {
+      "genre": "Warm Latin folk-pop ballad, 92 BPM, acoustic and organic.",
+      "instrumentation": "Nylon-string guitar arpeggios, soft cajón and hand percussion, warm upright bass, distant accordion, light strings on the big moments, rich female vocal on top.",
+      "arrangement": "Shots 1-2: guitar and voice alone, sparse. Shots 3-5: percussion enters, groove opens. Shot 6: strips to a single held guitar note. Shot 7: full arrangement blooms with strings. Shots 8-9: percussion punches back, then softens. Shot 10: resolves warm on guitar and a sustained vocal note.",
+      "language": "Spanish",
+      "lyrics": "Que baile el sol sobre la piedra dorada / que el viento me lleve donde nadie me llama / Mi falda florece, la mar me responde / Aquí soy de nadie, aquí soy del aire / Vuelo, vuelo, vuelo — y nunca me caigo",
+      "mix": "Warm, natural, acoustic-forward. Vocal present but not overpowering. Round percussion. Sun-soaked."
+    },
+    "style": "Ultra-Realistic",
+    "logic_rule": "The song plays audibly IN the clip while she dances to it. She does NOT sing and does NOT lip-sync — mouth relaxed and natural, expression serene and absorbed, occasionally a soft smile. THE BODY LEADS: each shot built around one quality of motion — stretch, spin, suspended pause, weightlessness, impact, inner rhythm. Movement is GRACEFUL and ELEGANT: long extended lines, controlled turns, soft shaped arms, fluid transitions, classical poise with folkloric footwork — never frantic. Vary camera to serve movement: low angles for elevation, tracking for travel, macro for fabric and feet, wide for full body against architecture. Mandatory SPEED CHANGE: extreme slow motion at the leap's apex so skirt bloom, hair suspension and embroidery are fully legible, then snap back on landing. Fabric physics essential — the skirt must swing, flare, ripple and settle with real weight. Effects: dust off stone, hair whipping, shadow raking walls, sun flare. ENDING: hold on a still breathing frame, then slow fade.",
+    "storyboard": [
+      { "shot": 1, "camera": "Low wide, sun behind her, limestone wall behind.", "action": "THE STRETCH — she rises onto the balls of her bare feet, extending both arms overhead in a long elegant line, spine lengthening, sleeve falling back. Eyes closed, serene.", "sfx": "Wind, gulls, fabric settling; guitar and voice alone." },
+      { "shot": 2, "camera": "Macro on her bare feet on warm stone, shallow focus.", "action": "THE RHYTHM UNDER THE SKIN — heel and toe begin a soft precise pattern, dust lifting with each strike, ankles articulate and controlled.", "sfx": "Delicate foot taps, dust scuff; guitar continuing." },
+      { "shot": 3, "camera": "Tracking alongside her down a narrow sunlit alley.", "action": "She travels in flowing rhythmic steps, skirt swinging gracefully side to side, one hand trailing the warm stone wall.", "sfx": "Footfalls, fabric swish, alley echo; percussion entering." },
+      { "shot": 4, "camera": "Medium, camera orbiting with her turn.", "action": "THE SPIN — one controlled elegant rotation, the embroidered skirt opening into a wide circle of color, hair fanning, arms soft and shaped.", "sfx": "Fabric whoosh, foot pivot; groove opening." },
+      { "shot": 5, "camera": "Close-up on her face, sun raking across it.", "action": "Eyes closed, head tilted back, absorbed with the faintest smile — lost in the music. Mouth relaxed and closed, NOT singing.", "sfx": "Breath, wind; vocal carrying over." },
+      { "shot": 6, "camera": "Wide low angle on the terrace, sea behind.", "action": "THE PAUSE — everything stills. She sinks into a deep controlled coil, weight low, skirt pooling, held one suspended beat.", "sfx": "Music strips to one held guitar note; a deep breath." },
+      { "shot": 7, "camera": "EXTREME SLOW MOTION, low angle, sky and sea behind.", "action": "THE WEIGHTLESSNESS — she launches upward, body arced in an extended line, arms open, skirt blooming outward like a flower, hair suspended, every stitch legible against the blue.", "sfx": "Stretched fabric bloom, deep swell; full arrangement with strings." },
+      { "shot": 8, "camera": "Snap to full speed. Low, close on her landing.", "action": "THE LANDING — she meets the stone softly, knees absorbing, skirt collapsing around her legs, dust puffing, hair falling forward.", "sfx": "Foot impact, fabric slap, exhale; percussion punching back." },
+      { "shot": 9, "camera": "Macro on the embroidery settling, rack up to her chest.", "action": "The floral stitching ripples and stills; her chest rises and falls, a bead of sweat at her collarbone. The body after force.", "sfx": "Breathing, fabric settling, sea; arrangement softening." },
+      { "shot": 10, "camera": "Slow pull-back to a wide — small against limestone and sea. Held.", "action": "She lifts her head, sweeps her hair back and settles into a final open-armed shape against the Mediterranean light, breathing, a slow warm smile. Hold, then slow fade.", "sfx": "Wind, gulls, sea; guitar and sustained vocal resolving." }
+    ]
+  }

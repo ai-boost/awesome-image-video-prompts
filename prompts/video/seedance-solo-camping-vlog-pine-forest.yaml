@@ -1,0 +1,42 @@
+id: seedance-solo-camping-vlog-pine-forest
+title:
+  en: Solo camper selfie vlog in pine forest
+  zh: 松林中单人露营自拍 vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- camping
+- vlog
+- selfie
+- campfire
+- timed-scenes
+source:
+  name: '@ZorviaLux on X'
+  url: https://x.com/ZorviaLux/status/2105892094032404502
+  credit: ZorviaLux
+  captured: '2026-10-29'
+  posted: '2026-10-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZorviaLux/status/2105892094032404502
+notes:
+  en: Splitting the clip into timed scenes, each with its own camera and lighting cue, gives the model a shot list to follow. A consistency line that locks the woman, outfit and tent, plus a separate audio block that bans music and text, keeps the look steady across all five cuts.
+  zh: 把片子按时间拆成五个场景，每段都有自己的镜头和光线提示，模型就有了分镜可循。结尾的一致性说明锁定人物、服装和帐篷，单独的音频段落则排除音乐和字幕，让五个镜头始终保持统一。
+prompt: |
+  Create a 20-second ultra-realistic cinematic camping vlog featuring a young Japanese woman with straight black hair and bangs, wearing a dusty pink outdoor jacket.
+
+  Scene 1 (0–4 sec): Selfie-style vlog in a beautiful pine forest during golden hour. She smiles at the camera while holding a beige tent bag and excitedly introduces her solo camping adventure. Natural handheld camera movement, realistic facial expressions.
+
+  Scene 2 (4–7 sec): Wide cinematic shot of her setting up a beige camping tent among tall pine trees. She happily raises both hands to celebrate after pitching the tent. Warm sunlight filters through the forest.
+
+  Scene 3 (7–12 sec): Nighttime campfire scene. She sits on a folding camping chair, roasting a marshmallow on a stick. Close-up of her gently blowing on the toasted marshmallow, with realistic firelight illuminating her face.
+
+  Scene 4 (12–16 sec): She sits beside the campfire holding a glowing marshmallow, enjoying the peaceful night in the forest. Natural expressions, cozy atmosphere, realistic shadows and warm orange lighting.
+
+  Scene 5 (16–20 sec): Inside her illuminated tent at night, she smiles at the camera while holding a camping lantern. Suddenly, she hears a mysterious noise outside, opens her eyes wide, and pulls her sleeping bag up to her nose with a cute, surprised expression.
+
+  Visual style: Photorealistic live-action, 4K, cinematic depth of field, natural skin texture, realistic lighting, smooth camera transitions, authentic outdoor atmosphere, detailed facial expressions, cozy solo camping aesthetic.
+
+  Audio: Natural forest ambience, birds chirping, gentle wind, crackling campfire, subtle fabric sounds, and soft nighttime forest ambience. No background music, no subtitles, no text, no watermark.
+
+  Consistency: Maintain exactly the same woman, hairstyle, outfit, facial features, and tent throughout all scenes.

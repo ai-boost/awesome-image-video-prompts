@@ -1,0 +1,40 @@
+id: seedance-gym-locker-room-mirror-routine
+title:
+  en: Gym locker room mirror check before workout
+  zh: 健身房更衣室镜前整理后出门
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- timestamped-timeline
+- handheld-realism
+- reference-identity
+- gym
+source:
+  name: '@QAiStudio on X'
+  url: https://x.com/QAiStudio/status/2093565477192917480
+  credit: QAiStudio
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/QAiStudio/status/2093565477192917480
+notes:
+  en: A timed beat sheet with short segments and a fixed propped phone angle makes the clip read as ordinary handheld footage. Naming the old iPhone 1x look, noise and compression, plus a no beauty filter clause, keeps skin texture natural, while Image1 is used only to lock face and hair identity.
+  zh: 用短时段的时间线配合固定的手机支架机位，让片段看起来像普通手持拍摄。明确指定老款 iPhone 1x 画质、噪点与压缩痕迹，并加入不要美颜的要求以保留真实皮肤质感，参考图只用于锁定脸部与发型。
+prompt: |
+  Subject: Person from Image1. Face and hairstyle must match Image1 completely; do not transform into a different person. Ignore Image1’s outfit, background, pose, and bottom text. Casual black gym outfit: fitted tank + leggings/shorts, hair tied back. Keep facial features sharp even with low image quality. 16:9 horizontal.
+
+  Setting: Gym locker room with full-length mirror, lockers, and gym bag on bench. No legible text, signage, locker numbers, or branding.
+
+  Timeline:
+
+  - 0–4s: Walks to mirror, props phone against locker/bag, checks reflection, adjusts tank straps.
+  - 4–8s: Sits, ties and double-knots shoelaces, stands and lightly bounces to test shoes.
+  - 8–11s: Takes earbuds from bag, inserts and adjusts them.
+  - 11–14s: Faces mirror, rolls shoulders, nods at reflection and quietly says, “okay... let’s get it.”
+  - 14–17s: Arm swings/stretching, briefly glances at camera.
+  - 17–19s: Picks up phone, turns toward door and walks off confidently; freeze mid-stride.
+
+  Camera/Style: Old iPhone everyday-video look, standard 1x lens, static/propped angle, loose 1–1.5s cuts. Harsh fluorescent locker-room lighting, slightly cool/green tint, faint mirror glare. Heavy noise and compression artifacts throughout. Natural skin texture, pores, flyaways, and oil sheen. No grading, cinematic/film look, beauty filter, CG texture, fisheye, 0.5x, barrel distortion, vignette, or lens edges. No scene skipping or consolidated cuts.
+
+  Sound: No BGM. Locker-room echo, distant locker clanks, shoelace tightening, earbud-case click, faint gym noise outside, and close/muffled natural voice.

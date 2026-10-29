@@ -1,0 +1,44 @@
+id: seedance-anime-ink-martial-arts-sequence
+title:
+  en: Woman performs ink martial arts across grey ruins
+  zh: 女子在灰白废墟中施展水墨武术
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- ink-painting
+- martial-arts
+- fpv-camera
+- multi-shot
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2107164974078722307
+  credit: Saul Goodman
+  captured: '2026-10-29'
+  posted: '2026-10-05'
+video: https://x.com/Goodmanprotocol/status/2107164974078722307
+notes:
+  en: The 30 seconds are split into timed beats, each with one camera move and one effect, and the same character description and monochrome palette repeat in every beat so the look holds across cuts. Limiting the accents to restrained dark gold keeps the ink effects reading as one style.
+  zh: 将30秒拆成带时间码的分段，每段只写一个镜头运动和一个特效，并在每段重复固定的人物描述与黑白灰配色，使各镜头风格保持一致。限定克制的深金色点缀，让墨迹特效始终统一为同一种风格。
+prompt: |
+  30-second ultra-realistic cinematic anime action sequence. One consistent female protagonist: messy black-gray short hair, gray/off-white technical jacket, dark layered long skirt, chunky platform shoes, slender slightly androgynous build, calm and emotionless. Vast empty gray-white stone landscape, pale mist, broken pillars and debris.
+
+  0–5s — INK STEP
+  Ultra-low rear tracking shot. She calmly walks forward. As her foot touches the ground, black ink spreads across the stone with thin dark-gold cracks. She suddenly accelerates, transforming into a fast flying black-and-white brushstroke as the camera races behind her.
+
+  5–10s — WATER MIRROR
+  She stops instantly. Her hair and clothes continue moving from inertia. She raises one hand and thin transparent water layers appear around her like floating glass. She closes her fingers; the layers collapse inward and crush a distant stone pillar into fragments.
+
+  10–15s — INK PALM
+  She makes one small forward palm movement. Black ink and dark-gold energy compress into a tiny core, then explode into a huge pressure wave of ink, mist, water and debris. The camera flies backward through the impact.
+
+  15–20s — INK LOTUS
+  She rises into the air. Black ink and water droplets orbit around her as a giant Chinese ink lotus forms around her body. The petals open with powerful spatial shockwaves, lifting stones and dust into the air.
+
+  20–25s — FIVE ELEMENTS
+  She suddenly disappears. Extreme FPV pursuit through the landscape: water becomes flowing ink streams, wood becomes white brushstrokes, fire becomes golden ink, metal becomes geometric dark-gold fractures, and earth becomes floating stone fragments. Everything remains in one elegant Chinese ink-painting style.
+
+  25–30s — FINAL IMPACT
+  She dives toward the ground and stops just above it. Everything freezes. She calmly points downward. A massive black, white and dark-gold circular shockwave erupts, transforming the entire landscape into a living Chinese ink painting. The energy reverses and disappears. She lands and simply continues walking forward, leaving one thin black ink trail behind her.
+
+  STYLE: ultra-realistic cinematic anime, realistic human proportions, physically believable movement, aggressive FPV camera, dynamic motion blur, Chinese ink brushwork integrated into reality, monochrome gray-white palette with black ink and restrained dark-gold accents, dramatic lighting, 4K, no weapons, no text, no subtitles, no logos, no watermark.

@@ -1,0 +1,110 @@
+id: seedance-okinawa-medic-smoke-battlefield
+title:
+  en: Lone medic scans smoky Okinawa battlefield at dawn
+  zh: 晨雾中的战地医护兵扫视冲绳战场
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- war-film
+- historical
+- documentary
+- multishot
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2100458083831234699
+  credit: Diplomeme
+  captured: '2026-10-29'
+  posted: '2026-09-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Diplomeme/status/2100458083831234699
+notes:
+  en: Timed beats give each segment its own lens and action, so the 30 second clip reads as one story rather than a single shot. Explicit camera rules (handheld, natural shake, no drone moves) plus a physics and audio section keep the look grounded in documentary realism.
+  zh: 按时间段逐段写明镜头焦段和动作，让30秒片段像一个完整故事，而不是单个镜头。明确的手持摄影规则（禁用无人机式运镜）加上物理与声音说明，使画面保持纪实质感。
+prompt: |
+  30 seconds | 16:9 | hyper-realistic historical war-film recreation | documentary realism | MULTISHOT
+
+  HISTORICAL DRAMATIZATION — An original cinematic reconstruction inspired by the Battle of Okinawa in 1945. The story follows a fictional U.S. Army combat medic attempting to evacuate wounded soldiers from an exposed battlefield. Do not recreate any specific scene, character, dialogue, costume design, camera composition, or sequence from any existing film.
+
+  CORE CONCEPT
+  A young combat medic remains behind after his unit moves forward. Instead of becoming part of the fighting, he moves through smoke, mud and artillery fire searching for wounded soldiers and bringing them toward safety. The sequence emphasizes courage, exhaustion, confusion and the physical reality of a battlefield rather than glorifying combat.
+
+  SETTING
+  Okinawa, Japan — spring 1945. Rugged limestone escarpment, muddy defensive positions, damaged vegetation, smoke-filled battlefield, earthworks, abandoned equipment, scattered ammunition crates, military stretchers and distant artillery. Overcast tropical sky gradually brightening toward morning.
+
+  CHARACTERS
+  MAIN MEDIC — Fictional American Army combat medic, mid-20s, exhausted face, short regulation haircut, olive-drab 1940s combat uniform, steel helmet, canvas medical bag, field dressings and worn boots.
+
+  WOUNDED SOLDIER 1 — Young American infantryman, exhausted and injured, period-correct uniform and equipment.
+
+  WOUNDED SOLDIER 2 — Another fictional infantryman trapped farther across the exposed ground.
+
+  BACKGROUND SOLDIERS — Period-accurate American and Japanese forces visible only as distant silhouettes through smoke. No identifiable real individuals.
+
+  STORY — MULTISHOT VISUALS
+
+  00:00–02.5 — DAWN
+  24mm wide establishing shot of an Okinawa battlefield covered in smoke and mist. Exhausted American soldiers move between muddy defensive positions while distant artillery flashes across the horizon. MAIN MEDIC stands alone near a damaged defensive position, scanning the battlefield.
+
+  02.5–05 — DISCOVERY
+  50mm handheld tracking shot as the medic hears a faint voice. He moves through smoke and discovers WOUNDED SOLDIER 1 lying behind a collapsed section of earthwork. The medic immediately kneels and checks him.
+
+  05–07.5 — FIRST AID
+  85mm intimate close-up of the medic applying a field dressing. His hands shake slightly from exhaustion. Mud and sweat cover his face. Distant artillery causes the ground to tremble.
+
+  07.5–10 — CARRY
+  35mm handheld shot. The medic pulls the wounded soldier onto his shoulders and begins moving through the mud. His boots sink into the wet ground. He struggles under the weight but continues.
+
+  10–12.5 — INCOMING FIRE
+  A distant artillery impact throws dirt into the air nearby. The medic instinctively drops low, shielding the wounded soldier with his body. Smoke rolls across the frame.
+
+  12.5–15 — HEAR ANOTHER VOICE
+  The medic looks toward a distant voice coming through the smoke. He realizes another wounded soldier is still behind him. After a brief moment of hesitation, he turns around and moves back.
+
+  15–17.5 — SECOND CASUALTY
+  50mm handheld movement through dense smoke. The medic reaches WOUNDED SOLDIER 2, who is trapped beside damaged equipment. The medic pulls debris away and checks his condition.
+
+  17.5–20 — IMPROVISED STRETCHER
+  35mm close tracking shot. The medic uses a canvas sheet and available wooden poles to construct a crude field stretcher. His movements are rushed but practical and believable.
+
+  20–22.5 — EXTRACTION
+  Wide 24mm shot. The medic drags the improvised stretcher across exposed muddy ground. Smoke obscures the battlefield behind him while artillery flashes intermittently in the distance.
+
+  22.5–25 — THE ESCARPMENT
+  The medic reaches the edge of the rocky escarpment. He lowers himself carefully and begins moving the wounded soldier toward a safer lower position.
+
+  25–27.5 — HUMAN MOMENT
+  85mm close-up. The wounded soldier looks up at the medic. The medic briefly reassures him with a calm expression before continuing. No heroic speech, no exaggerated emotion.
+
+  27.5–30 — FINAL REVEAL
+  24mm wide shot from behind the medic. He helps both wounded soldiers toward a sheltered position while the enormous Okinawa battlefield stretches behind them through smoke and morning light. The camera holds on the scale of the battlefield as the three figures become small against the landscape.
+
+  CAMERA
+  Large-format historical cinema camera language combined with embedded war-correspondent realism. 24mm for battlefield scale, 35mm for movement and action, 50mm for human interaction, 85mm for intimate details. Handheld shoulder-mounted movement, natural camera shake, imperfect framing, realistic focus changes, atmospheric obstruction from smoke and dust. No modern drone aesthetic, no impossible camera movement.
+
+  LIGHTING
+  Soft overcast Okinawa morning light, cold gray atmosphere, muted sunlight through smoke, warm distant artillery flashes, natural skin highlights and subtle atmospheric haze. No theatrical spotlighting.
+
+  PHYSICS
+  Realistic body weight, fatigue, mud resistance, stretcher weight, smoke movement, artillery shockwaves, falling debris, clothing movement and ground interaction. The medic struggles physically under the wounded soldier’s weight. No superhuman strength or impossible movement.
+
+  HUMAN PERFORMANCE
+  Exhaustion is visible in posture, breathing and movement. The medic behaves professionally but is visibly frightened and tired. Wounded soldiers respond naturally to pain and shock. Background soldiers move independently and react to distant impacts without synchronized choreography.
+
+  AUDIO
+  Authentic battlefield soundscape: distant artillery, rifle fire far across the battlefield, shouting, heavy breathing, boots in mud, equipment rattling, stretcher fabric stretching, wind through vegetation and debris impacts. Music is extremely restrained and secondary to environmental sound.
+
+  VISUAL CHARACTER
+  Photorealistic live-action historical war cinematography. Natural skin texture, authentic 1945 uniforms, weathered equipment, mud, sweat, smoke, atmospheric depth, realistic film grain and subtle highlight halation. No plastic skin, no videogame appearance, no exaggerated color grading.
+
+  COLOR GRADE
+  Muted olive greens, dirty browns, gray-blue atmospheric shadows, warm skin tones and restrained highlights. Slightly desaturated period-war-film palette while maintaining natural colors.
+
+  HISTORICAL REALISM
+  Period-correct American military equipment, clothing, medical supplies, terrain and battlefield environment. No modern weapons, vehicles, helmets, medical equipment, tactical gear or technology.
+
+  CONTINUITY
+  MAIN MEDIC, both wounded soldiers, uniforms, equipment, medical bag, weather and battlefield geography remain consistent across all shots. Wounds remain visually consistent without graphic gore. The sequence progresses logically from discovery → treatment → evacuation → second rescue → extraction.
+
+  FINAL QUALITY TARGET
+  The footage should feel like an extraordinarily realistic 1945 battlefield documentary captured by a professional war cinematographer, with the emotional intensity of a major historical film but without reproducing any existing movie scene. The realism comes from human performance, physical exhaustion, practical battlefield detail, smoke, mud, sound and environmental scale.

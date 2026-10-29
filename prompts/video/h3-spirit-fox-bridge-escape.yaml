@@ -1,0 +1,34 @@
+id: h3-spirit-fox-bridge-escape
+title:
+  en: Girl escapes collapsing bridge with spirit fox
+  zh: 少女抱着灵狐逃离坍塌石桥
+model: MiniMax H3
+mode: reference-to-video
+category: action
+tags:
+- fantasy
+- spirit-fox
+- camera-tracking
+- character-reference
+source:
+  name: '@HBCoop_ on X'
+  url: https://x.com/HBCoop_/status/2083553619413209379
+  credit: Heather Cooper
+  likes: 28
+  captured: '2026-10-29'
+  posted: '2026-08-01'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/HBCoop_/status/2083553619413209379
+notes:
+  en: Timed beats split the 15 second clip into setup, chase and landing, each with a clear physical cause. The reference image locks the character design, and an explicit ban on teleporting or costume changes keeps the route continuous.
+  zh: 按时间段把15秒视频拆成起因、追逐和落地三段，每个动作都有明确的物理因果。参考图锁定角色造型，并明确禁止瞬移和换装，保证路线连贯。
+prompt: |
+  Use the reference @ image for the exact character design, clothing, proportions, blue hair, pointed ears and glowing cyan spirit fox. Preserve the cinematic stylized 3D look, saturated teal jungle palette, soft volumetric light and detailed natural textures. No dialogue; environmental sound only.
+
+  0–4 seconds: Begin close to the reference composition on the ancient stone bridge. The girl kneels beside the small glowing spirit fox as ripples begin moving backward across the stream below. She notices the unnatural movement and looks over her shoulder. A massive moss-covered stone serpent suddenly erupts from beneath the bridge, lifting one side of the platform. The stone tilts physically under her weight. She loses balance, catches herself with one hand and quickly pulls the spirit fox against her chest as cracks spread beneath her knees.
+
+  4–10 seconds: The bridge collapses progressively behind her. She rises naturally from the crouch and sprints barefoot across the tilting stone slabs, carrying the fox securely with one arm. Each footfall dislodges moss and small fragments; broken slabs fall with believable weight and strike the water below, producing delayed splashes. The camera tracks closely beside her at waist height. The serpent sweeps its heavy stone tail across her path. She drops into a fast knee slide beneath it; her torn cloak and blue hair trail behind with clear inertia. Still moving forward, she catches a hanging vine with her free hand. Her momentum pulls the vine taut and swings her outward across the widening gap while the camera arcs alongside her.
+
+  10–15 seconds: At the highest point of the swing, the vine begins tearing from the temple ceiling. She releases before it snaps, travels forward in a natural gravity-driven arc and lands hard on the opposite platform. She absorbs the impact through her feet and one hand, then rolls once across her shoulder while protecting the fox against her chest. The camera drops and rolls partially with her, then stabilizes behind her as she rises into a defensive crouch. The spirit fox leaps from her arms and lands in front of her, its cyan light intensifying as the serpent crashes into the broken bridge behind them, sending water, dust and stone fragments through the backlight.
+
+  Maintain one continuous route and clear cause-and-effect motion. No teleporting, floating, sudden directional changes, extra characters, costume changes or transformation of the girl. Keep the fox small throughout; only its light becomes brighter in the final moment.

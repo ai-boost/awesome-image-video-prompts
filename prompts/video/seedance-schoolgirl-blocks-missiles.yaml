@@ -1,0 +1,25 @@
+id: seedance-schoolgirl-blocks-missiles
+title:
+  en: Schoolgirl sprints down empty avenue past helicopters
+  zh: 女学生在空旷大道上奔跑 直升机掠过
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- action
+- shot-list
+- slow-motion
+- urban
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2106235620771451322
+  credit: AvelyrahnAI
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AvelyrahnAI/status/2106235620771451322
+notes:
+  en: The prompt is a numbered shot list that names the camera for each beat, such as close up, slow motion and tracking shot, and repeats the same character details in every scene so the look holds across cuts. The glowing green eyes and the energy shield are single visual cues the model can track from shot to shot.
+  zh: 提示词采用编号分镜，每一段都明确写出镜头类型，如特写、慢动作和跟拍，并在每个场景重复同一角色的外貌细节，使画面在切换时保持一致。发光的绿色眼睛和能量护盾是模型能跨镜头追踪的单一视觉线索。
+prompt: "Cinematic action video sequence, Seedance 2.5 style,\nScene 1: A young Asian schoolgirl with black hair and a backpack sprints down the middle of a wide empty city avenue flanked by skyscrapers while two military attack helicopters fly low overhead. \n\nScene 2: Close-up of a helicopter rocket pod firing smoke-trail missiles, cutting to the schoolgirl spinning around sharply as wind whips her hair.\n\nScene 3: Slow-motion shot, her loafers glow with blue magical energy as she leaps high into the air over the street, avoiding missiles that trigger massive fiery explosions behind her.\n\nScene 4: Tracking shot of the girl running forward as a barrage of guided missiles flies straight down the highway toward her.\n\nScene 5: Close-up of her face with glowing green eyes; she thrusts her hand forward, projecting a powerful translucent green energy shield that halts the incoming missiles mid-air.\n\nScene 6: She sends a shockwave of green energy forward, causing both attack helicopters\
+  \ to explode mid-air in massive balls of fire and crash onto the street.\n\nScene 7: Medium shot of the girl standing confidently with glowing green eyes, making a finger-gun gesture saying \"Boom\", then turning around and walking calmly away down the empty street between skyscrapers.\n\n#Flovaai #Flovacpp\n"

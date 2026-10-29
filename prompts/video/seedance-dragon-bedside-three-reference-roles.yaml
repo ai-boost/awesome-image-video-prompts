@@ -1,0 +1,24 @@
+id: seedance-dragon-bedside-three-reference-roles
+title:
+  en: Dragon leans over woman in candlelit bed
+  zh: 龙低头靠近烛光床上的女子
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- character-consistency
+- reference-images
+- dragon
+- multi-reference
+source:
+  name: '@ZentrixHQ on X'
+  url: https://x.com/ZentrixHQ/status/2109579827565015394
+  credit: Zentrix⌚️
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+video: https://x.com/ZentrixHQ/status/2109579827565015394
+notes:
+  en: 'Each reference image gets one role: image 1 for the woman''s face, hair and outfit, image 2 for the adult dragon, image 3 for the baby dragon. The closing sentence ties the baby''s pearl-white and pink colouring, amber slit-pupil eyes and pink-tipped crest to the adult, so both dragons read as one creature at different sizes.'
+  zh: 每张参考图只指定一个用途：图 1 提供女子的脸、发型和服装，图 2 提供成年龙，图 3 提供幼龙。结尾一句把幼龙的珍珠白与粉色配色、琥珀色竖瞳和粉色冠羽与成年龙绑定，让两条龙看起来是同一种生物的不同体型。
+prompt: |
+  Use image 1 for the young woman's face, hair and outfit. Use image 2 for the adult dragon. Use image 3 for the baby dragon. The baby dragon has exactly the same pearl-white and pink color, amber slit-pupil eyes and pink-tipped crest as the adult dragon.

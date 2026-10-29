@@ -1,0 +1,25 @@
+id: seedance-woman-morning-routine-balcony-sunset
+title:
+  en: Morning routine at home ends on sunset balcony
+  zh: 居家晨间日常，结束于日落阳台
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- morning-routine
+- day-in-the-life
+- sunlight
+- multi-shot
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2105899978396987489
+  credit: Zyrellix
+  captured: '2026-10-29'
+  posted: '2026-10-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2105899978396987489
+notes:
+  en: The prompt is written as a sequence of beats, each with one action and one framing, and every location change is marked as a cut. Naming the wardrobe for each scene and the light source in each setting keeps the character and mood consistent across the cuts.
+  zh: 提示词按顺序写成多个镜头节拍，每个节拍只有一个动作和一种取景，并在每次场景切换处明确写出切镜。每个场景都写明服装和光源（卧室晨光、日落阳台），让角色和光线在切镜之间保持一致。
+prompt: |
+  A young woman with long dark brown hair and a beauty mark on her cheek wakes in white bedding, eyes closed, then opens them and smiles. She sits up in cream silk pajamas and stretches both arms overhead, eyes closed, sun cutting across the room and casting her shadow on the wall. She walks away from camera through a bright bedroom toward floor-to-ceiling glass doors, sheer curtains, ocean and palms outside, now in a white crop tank and beige wide-leg trousers. She slides the door open, profile in the light, hair lifting. Cut to a kitchen: she pours steaming coffee from a steel kettle into a speckled ceramic cup on marble, then cups the mug with both hands and sips, eyes lowered. She waters lush houseplants barefoot in a soft yellow midi dress, sunlight through big windows. Close-up of water droplets on a green leaf. She leans in and smells a small white flower, smiling. She steps onto a balcony at sunset, back to camera, city and palms below, then turns in profile holding the steaming cup on the rail, eyes closed, content. Wide shot: she stands at the railing in the yellow dress, garden and skyline (including a tall spire) glowing behind her.

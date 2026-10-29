@@ -1,0 +1,30 @@
+id: seedance-pakistani-train-compartment-fight
+title:
+  en: Woman fights men in old train compartment
+  zh: 女子在老旧火车车厢中与男子打斗
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- action
+- martial-arts
+- handheld
+- photorealistic
+source:
+  name: '@Zoyavelle on X'
+  url: https://x.com/Zoyavelle/status/2104802751435911223
+  credit: Zoyavelle
+  captured: '2026-10-29'
+  posted: '2026-09-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zoyavelle/status/2104802751435911223
+notes:
+  en: Names the camera rig (handheld, dynamic tracking, low angle) and places the fight in a narrow aisle so the choreography has clear spatial logic. The negative prompt guards against the usual CGI look, anatomy errors and duplicate people.
+  zh: 提示词指定了摄影机运动（手持、动态跟拍、低角度），并把打斗安排在狭窄过道中，让动作有清晰的空间逻辑。反向提示词用于防止常见的 CGI 质感、肢体错误和重复人物。
+prompt: |
+  “cartoon, anime, CGI look, unrealistic anatomy, extra fingers, extra limbs, distorted face, duplicate people, floating objects, unnatural movement, excessive blood, gore, blurry faces, low quality, oversaturated colors, text, subtitles, watermark, logo.”
+  Aspect Ratio: 16:9
+  Style: Photorealistic cinematic action
+  Duration: 20 seconds
+  Camera: Handheld + dynamic tracking + low-angle shots
+  Quality: 4K cinematic realism

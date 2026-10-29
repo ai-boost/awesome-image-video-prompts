@@ -1,0 +1,24 @@
+id: seedance-magical-pencil-live-action-animation
+title:
+  en: Couple walking hand in hand in a sunlit park
+  zh: 阳光公园中手牵手散步的情侣
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- style-transition
+- live-action-to-animation
+- magical-pencil
+- watercolor
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2090661426079952935
+  credit: Eesha
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+video: https://x.com/MissDelulu9/status/2090661426079952935
+notes:
+  en: Each subject gets its own named target style (soft pastel 2D, watercolor, black and white line art, illustrated) so the model has four distinct transitions to follow in one clip. The live action setting is stated up front and the magical pencil trails serve as the cue for each transformation.
+  zh: 每个主体对应一种明确的目标风格（柔和粉彩 2D、水彩、黑白线稿、插画），让模型在同一段视频里跟随四次清晰的转换。开头先锁定真实实拍的场景，并以魔法铅笔的轨迹作为每次转换的提示。
+prompt: |
+  A hand holding a light-blue magical pencil points at real moving subjects, seamlessly transforming them into beautiful 2D hand-drawn animation while preserving their natural movement. A cute couple walking hand-in-hand transforms into soft pastel 2D animation, a flying butterfly turns into colorful watercolor art, a teal-and-white train becomes black-and-white line art, and realistic trees transform into dreamy illustrated artwork. Smooth camera movement, magical pencil trails, bright realistic environments, seamless live-action-to-animation transitions, cinematic and satisfying.

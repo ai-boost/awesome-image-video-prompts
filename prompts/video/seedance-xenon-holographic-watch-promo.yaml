@@ -1,0 +1,24 @@
+id: seedance-xenon-holographic-watch-promo
+title:
+  en: Rotating smartwatch promo with holographic HUD reveal
+  zh: 旋转智能手表宣传片，全息HUD揭示
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- smartwatch
+- product-promo
+- holographic-hud
+- energy-pulse
+source:
+  name: '@noorwithwifi on X'
+  url: https://x.com/noorwithwifi/status/2089705270608056651
+  credit: NoorAI
+  captured: '2026-10-29'
+  posted: '2026-08-18'
+video: https://x.com/noorwithwifi/status/2089705270608056651
+notes:
+  en: The prompt chains every shot through a radial energy pulse that becomes the rotating watch, then cuts between a product close up, a wearer and a smart glasses scene before ending on a glowing ring that lands the logo. Each beat names a concrete visual element, which helps the model keep the product and branding consistent across cuts.
+  zh: 这段提示用径向能量脉冲串联各个镜头，脉冲变成旋转手表，随后在产品特写、佩戴者和智能眼镜场景之间切换，最后以发光能量环收束到品牌标识。每个镜头都写明具体视觉元素，有助于模型在切换中保持产品和品牌一致。
+prompt: |
+  Create a sleek futuristic smartwatch promo video for “XENON.” Begin with a radial energy pulse transitioning into a rotating dark metallic watch with floating particles, then reveal a close-up face with glowing blue holographic numbers and futuristic gauges. Show a person wearing the watch as circuit-like patterns illuminate their hand and holographic HUD panels project around their wrist. Cut to a silver-haired person in smart glasses surrounded by floating interfaces in a dark digital grid environment, and finish with a glowing energy ring around the watch revealing the “XENON – REACH BEYOND” branding.

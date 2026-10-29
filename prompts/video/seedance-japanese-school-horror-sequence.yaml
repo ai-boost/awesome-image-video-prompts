@@ -1,0 +1,47 @@
+id: seedance-japanese-school-horror-sequence
+title:
+  en: Teacher writes on blackboard in quiet classroom
+  zh: 老师在安静的教室里板书
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- horror
+- japanese-school
+- handheld camera
+- diegetic-sound
+source:
+  name: '@SadiaMalik182 on X'
+  url: https://x.com/SadiaMalik182/status/2102278921161208273
+  credit: SadiaMalik182
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/SadiaMalik182/status/2102278921161208273
+notes:
+  en: The prompt walks through the story beat by beat in the order the camera sees it, then closes with one style block that fixes the look, handheld camera and diegetic-only sound. Explicit bans on gore, anime, subtitles and music keep a horror sequence grounded and clean.
+  zh: 提示词按镜头所见的顺序逐段写出剧情，最后用一段统一的风格说明固定画面质感、手持摄影和仅有环境音的声音设计。明确禁止血腥、动画风、字幕和配乐，让恐怖段落保持写实、干净。
+prompt: |
+  Create an ultra-realistic Japanese high-school horror-action sequence following a female teacher during an ordinary afternoon class. The classroom is calm when the lights suddenly flicker and every student's phone receives the same emergency alert at exactly the same moment. The teacher looks outside and notices the school courtyard completely empty.
+
+  A loud crash comes from the science laboratory next door. The teacher tells everyone to stay inside and carefully opens the classroom door. The hallway appears empty, but a trail of spilled chemical liquid leads toward the staircase. Suddenly, a student who had been quietly sitting at the back of the classroom collapses and begins behaving strangely, revealing that something has already happened inside the school.
+
+  The emergency alarm starts ringing. Several infected students suddenly rush from the staircase toward the classroom. The teacher quickly pushes the desks against the doorway while students work together to block the entrance with chairs and cabinets. One student notices an emergency exit sign and leads the group toward a second corridor.
+
+  They move through the dark school hallway while hearing footsteps approaching from behind. The teacher turns off the hallway lights, and everyone hides silently inside an empty classroom as the infected pass by outside.
+
+  They finally reach the rooftop and push the door open, expecting to find help. Instead, they see dozens of infected figures standing motionless across the school courtyard below.
+
+  The teacher slowly closes the rooftop door and turns toward her students.
+
+  Then a quiet voice whispers from behind them:
+
+  “Sensei... someone is already here.”
+
+  She slowly turns around.
+
+  Cut to black.
+
+  Photorealistic live-action Japanese horror-thriller, realistic Japanese high-school environment, authentic student uniforms, natural facial expressions, practical-effects horror, realistic physics, handheld cinematic camera, dynamic tracking shots, dramatic close-ups, realistic lighting, emergency lights, atmospheric dust, natural character movement, authentic reactions, escalating tension, diegetic sound only, no music, no narration, suspense-focused horror, no excessive gore, no graphic injuries, no animation, no anime, no cartoon, no artificial CGI look, no distorted anatomy, no subtitles, no random text, no watermark
+
+  #WaveSpeedAI #AIVideo #Horror #AIStory

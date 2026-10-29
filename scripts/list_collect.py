@@ -160,6 +160,8 @@ def main():
     ap.add_argument("--since", default="2026-07-01", help="earliest post date")
     ap.add_argument("--max", type=int, default=200, help="most candidates per source, highest score first")
     ap.add_argument("--only", help="run only the source whose repo contains this text")
+    ap.add_argument("--min-score", type=int, help="override each source's min_score")
+    ap.add_argument("--per-author", type=int, default=PER_AUTHOR, help="most candidates per author and model")
     a = ap.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
     have = known_posts()
@@ -173,7 +175,7 @@ def main():
             if not (m and r["poster"]) or m.group(2) in have or (r["posted"] or "") < a.since:
                 continue
             model = r.get("model", src.get("model"))
-            if not model or (r["score"] or 0) < src["min_score"] or not re.search(src.get("model_re", ""), r["text"], re.I):
+            if not model or (r["score"] or 0) < (src["min_score"] if a.min_score is None else a.min_score) or not re.search(src.get("model_re", ""), r["text"], re.I):
                 continue
             have.add(m.group(2))  # the same post often sits in several collections
             pick.append((r, m, model))
@@ -183,7 +185,7 @@ def main():
             if saved >= a.max:
                 break
             author = (m.group(1) + model).lower()
-            if per_author.get(author, 0) >= PER_AUTHOR:  # a few accounts post the same template over and over
+            if per_author.get(author, 0) >= a.per_author:  # a few accounts post the same template over and over
                 continue
             per_author[author] = per_author.get(author, 0) + 1
             prompt = clean(r["prompt"])

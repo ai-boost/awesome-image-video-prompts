@@ -1,0 +1,26 @@
+id: h3-bakso-vendor-javanese-market
+title:
+  en: Bakso vendor carries bowl through Javanese market
+  zh: 肉丸小贩端着汤碗穿过爪哇市场
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- street-market
+- handheld
+- one-take
+- documentary-realism
+source:
+  name: '@junwatu on X'
+  url: https://x.com/junwatu/status/2084840152715911311
+  credit: DΞV
+  likes: 25
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/junwatu/status/2084840152715911311
+notes:
+  en: A single handheld one-take with a clear route through named obstacles gives the model a plausible path to follow. Concrete market details, a power flicker as a beat, and an explicit documentary realism constraint keep the scene grounded.
+  zh: 手持长镜头一镜到底，并按顺序列出沿途障碍，让模型有清晰的运动路线。加入真实的市场细节和停电瞬间作为节奏点，并明确要求纪实质感，使场景保持真实。
+prompt: |
+  Traditional Javanese market in Yogyakarta, early morning, present day, ultra-realistic handheld one-take. A bakso vendor hurries through impossibly narrow, crowded market aisles carrying a large steaming bowl of freshly prepared bakso. Shoppers and vendors step aside to let him pass. He weaves between vegetable stalls overflowing with chilies, shallots, and leafy greens, ducks beneath low-hanging tarps, squeezes past batik merchants and baskets of traditional snacks, and carefully avoids children running through the market. The market feels dense, humid, noisy, and full of life. He passes porters carrying heavy sacks on their shoulders, women bargaining in Javanese, and motorcycles slowly pushing through the narrow lane. He finally reaches a tiny food stall at the back of the market and serves the steaming bowl just as the power briefly flickers, leaving the market dim for a moment before the bustle continues. Oppressive realism, natural morning light mixed with fluorescent bulbs, worn concrete floors, damp walls, wooden stalls, hanging plastic signs, Javanese conversations, vendors calling out prices, clattering bowls, footsteps echoing through the covered market, immersive cinematic pacing. No cyberpunk, no stylization, documentary-like realism.

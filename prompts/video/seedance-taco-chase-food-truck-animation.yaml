@@ -1,0 +1,34 @@
+id: seedance-taco-chase-food-truck-animation
+title:
+  en: Woman at a neon food truck at night
+  zh: 霓虹夜色中的美食车女主厨
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- comedy
+- food-truck
+- neon
+source:
+  name: '@ai_anelia on X'
+  url: https://x.com/ai_anelia/status/2107655230628548720
+  credit: Anelia Ai
+  captured: '2026-10-29'
+  posted: '2026-10-07'
+video: https://x.com/ai_anelia/status/2107655230628548720
+notes:
+  en: The prompt is split into labeled sections for style, camera, story beats and audio, which gives the model a clear shot plan. Naming handheld tracking, low angles and a chain of comic escalations keeps the clip moving and easy to follow.
+  zh: 提示词按风格、镜头、剧情节拍和音频分段书写，给模型一份清晰的分镜计划。明确指定手持跟拍、低角度和层层升级的喜剧情节，让画面保持节奏并且容易读懂。
+prompt: |
+  A stylish young woman with short wavy brown hair, a red bomber jacket, black cargo pants, and white sneakers works alone at a colorful late-night food truck.
+
+  Style: Stylized cinematic 3D animation, expressive character acting, vibrant neon lighting, exaggerated physics, detailed environments, playful comedy, quirky animated-film aesthetic.
+
+  Camera: Handheld-style tracking, dramatic low angles, overhead city views, quick push-ins, wide shots, and energetic close-ups.
+
+  Story: While preparing a giant taco, a strong gust of wind sends the tortilla flying across the street. She chases it through the busy neon-lit city, dodging pedestrians and scooters, until it lands on a moving delivery van. She jumps onto the van, grabs it, and triumphantly holds it up—only for her hat to fly away.
+
+  She chases the hat through a neon alley, somehow keeping the tortilla balanced on her head. She finally returns to the food truck, places the tortilla down proudly, and looks at the camera. A tiny pigeon immediately steals it.
+
+  Audio: Lively city ambience, footsteps, traffic, comedic whooshes, playful music, food-truck sounds, and exaggerated impact effects. No dialogue.

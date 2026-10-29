@@ -1,0 +1,64 @@
+id: seedance-16mm-analog-morning-vlog
+title:
+  en: Woman walks golden retriever in analog vlog
+  zh: 女子带金毛犬的胶片质感晨间vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- handheld
+- film-grain
+- dialogue
+source:
+  name: '@maxxmalist on X'
+  url: https://x.com/maxxmalist/status/2085422370362110168
+  credit: MAX
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+video: https://x.com/maxxmalist/status/2085422370362110168
+notes:
+  en: Opens in selfie mode with each line of dialogue placed in order, so the camera stays a handheld POV for the whole walk. Film texture and handheld imperfections are written as separate camera and look blocks, and the camera is set on a bench for the wider shots.
+  zh: 提示词先写定自拍视角，再按顺序排列每句台词，让全程保持手持第一人称感。胶片质感与手持瑕疵分开成独立的镜头和画面段落，并在长椅上切换到远景。
+prompt: |
+  CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping outside her apartment building with her dog. The first 20–30 seconds are entirely handheld. Later she occasionally places the camera on a park bench, low stone wall, picnic table, or the ground for wider shots. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing, uneven zooms, exposure breathing, brief accidental face cropping, and imperfect framing throughout. The camera itself is never visible.
+
+  LOOK: Warm analog tape texture with gentle film grain, slightly softened sharpness, subtle halation around sunlight, realistic skin tones, low contrast, tiny exposure shifts, and natural motion blur. It should feel like authentic footage from someone's everyday life rather than a polished commercial.
+
+  STYLE: A relaxed morning lifestyle vlog. Quiet, cozy, and spontaneous. She occasionally laughs at her dog, pauses to look around, adjusts the leash, brushes hair away from her face, and speaks naturally in short sentences with comfortable pauses.
+
+  CHARACTER: EMMA — a beautiful white woman in her mid-20s. Long light brown hair in a messy ponytail, green eyes, minimal makeup, oversized gray hoodie, black biker shorts, white sneakers, and a small crossbody bag. She is walking a happy golden retriever.
+
+  SETTING: A peaceful suburban neighborhood on a sunny morning. Tree-lined sidewalks, quiet residential streets, birds singing, a small park with benches, green grass, and soft golden morning light. Very few people are around.
+
+  SCENES:
+
+  The vlog opens in selfie mode. Emma holds the camera while leaving her apartment building with the golden retriever excitedly pulling on the leash.
+  "Good morning."
+  She smiles.
+  "Someone couldn't wait."
+  The dog eagerly sniffs everything as they walk down the sidewalk.
+  She laughs quietly.
+  "He has to inspect every single tree."
+  Still holding the camera, she walks into a small neighborhood park.
+  The dog suddenly stops and stares at a squirrel.
+  "Oh... there we go."
+  She smiles and gently shakes her head.
+  She places the camera on a nearby bench for a wider angle while throwing a tennis ball.
+  The dog happily chases after it.
+  "Worth waking up early."
+  She picks the camera back up.
+  Walking slowly through the park, she looks up at the trees for a moment.
+  "It's actually really peaceful out here."
+  The dog returns with the ball but drops it halfway.
+  She laughs.
+  "Close enough."
+  She sits on the bench while the dog lies beside her.
+  She scratches behind his ears.
+  "I think he's happier than I am."
+  She stands up and continues walking.
+  The camera stays in selfie mode as they head toward home.
+  "Coffee is definitely next."
+  She smiles into the lens.
+  "See you later."
+  She gives a small wave and ends the recording.

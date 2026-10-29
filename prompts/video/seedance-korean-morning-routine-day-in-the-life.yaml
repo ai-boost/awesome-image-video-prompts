@@ -1,0 +1,28 @@
+id: seedance-korean-morning-routine-day-in-the-life
+title:
+  en: Woman wakes up and starts a quiet morning
+  zh: 女子醒来，开始安静的早晨
+model: Seedance 2.5
+mode: image-to-video
+category: vlog
+tags:
+- korean
+- morning-routine
+- day-in-the-life
+- handheld
+- ambient-audio
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2095812367527616536
+  credit: ChillaiKalan__
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ChillaiKalan__/status/2095812367527616536
+notes:
+  en: The reference image is locked as the exact first frame, and identity, outfit and lighting rules are repeated for every beat so the model keeps one person and one light source across cuts. Handheld documentary framing with ambient audio only and no music keeps the clip grounded in everyday life rather than ad polish.
+  zh: 参考图被锁定为精确首帧，并在每个时间段重复身份、服装和光线约束，使模型在整段视频中保持同一人物和同一光源。纪实手持取景加上仅有环境声、无配乐的音频设定，让画面贴近日常生活而不是广告质感。
+prompt: "30 seconds | 16:9 | Ultra-photorealistic live-action\n\nCreate a natural Korean morning-routine day-in-the-life video featuring one young Korean woman waking up \nand easing into her quiet morning at home.\n\nUse the reference image as the EXACT starting frame — she is lying in bed, just waking up. Use the \nreference image for her exact facial identity, hairstyle, skin tone, and body proportions. Keep her \nappearance consistent throughout the entire video. The video begins from this reference pose and moves \nforward naturally.\n\nOUTFIT: Soft cream/white cotton loungewear or a light pajama set to start; she stays in comfortable \nloungewear throughout (no wardrobe change). Minimal or no jewelry. Hair natural and slightly tousled \nfrom sleep at the start, settling as the morning goes on.\n\nTIME & LIGHTING: Soft early-morning summer sunlight, gradually warming as the morning progresses. Gentle, \nconsistent natural light, shadows, color temperature, and time of day across every\
+  \ scene.\n\n00–05s — Waking up (starts from reference image)\nThe video opens on the exact reference pose — she is lying in bed, eyes just opening, waking up slowly. \nSoft morning light filters through sheer curtains onto the bed. She stirs gently, blinks, and slowly \nsits up, stretching her arms with a soft, sleepy motion. Her hair is naturally tousled.\nShe rubs her eyes, looks softly toward the window, and quietly says:\n\"Morning already…\"\n\n05–11s — Out of bed\nShe swings her legs off the bed and stands, stretching gently. She pads across the room and opens the \ncurtains — bright morning light floods in. She looks out the window for a moment at the quiet neighborhood \noutside (rooftops, trees, soft sky). Natural, unhurried movement.\n\n11–17s — Washing up\nShe walks to the bathroom sink. She turns on the faucet and splashes cool water on her face, then pats \nit dry with a soft towel. Water droplets fall naturally. She looks at herself briefly in the mirror, \ntucks her hair\
+  \ behind her ear, and takes a slow breath. Fresh and calm.\n\n17–23s — Making breakfast / morning drink\nShe moves to the kitchen. She fills a kettle and sets it to boil, then takes a mug and a tea bag (or \npour-over coffee) from the counter. Steam rises as she pours the hot water — the liquid swirls naturally \nin the mug. She sets a simple breakfast on a small plate (toast, fruit, or a pastry). Gentle, homey \nmorning movements.\n\n23–30s — Quiet morning moment\nShe sits by the window with her warm mug and breakfast, both hands wrapped around the cup. She takes a \nslow first sip, pauses, and smiles softly.\nShe looks out at the morning light and quietly says:\n\"Perfect start.\"\nThe camera slowly drifts backward, capturing the cozy bedroom/kitchen, the open window, gentle curtain \nmovement, soft morning light, and the calm start-of-day atmosphere.\nCut naturally at the end.\n\nCAMERA STYLE: Documentary lifestyle footage with smooth handheld movement. Natural tracking shots, \noccasional\
+  \ subtle camera sway, realistic focus transitions, restrained depth of field, natural lens \nbehavior, and authentic perspective. Avoid overly cinematic shots or commercial advertising aesthetics.\n\nAUDIO: Real environmental audio only — soft morning ambience, birdsong outside, sheets rustling, a gentle \nyawn, curtains sliding open, water running, towel patting, kettle boiling, water pouring into a mug, a \nspoon clinking, breathing, and natural sipping sounds. No background music.\n\nPHYSICAL REALISM: The bedsheets shift and drape naturally as she wakes and rises. Her stretching, standing, \nand walking feel spontaneous and physically accurate. Water flows and droplets fall naturally. The kettle \nsteams and the liquid pours with realistic fluid dynamics. Hands maintain believable grip and pressure. \nAll body movements — waking, stretching, walking, washing, pouring, sitting, sipping — should feel natural \nand unforced.\n"

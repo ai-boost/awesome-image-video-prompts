@@ -1,0 +1,26 @@
+id: h3-ruby-queen-gown-to-armor
+title:
+  en: Ruby queen in gothic hall before her armor transformation
+  zh: 红宝石女王在哥特大厅中即将化身战甲
+model: MiniMax H3
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- costume-transformation
+- magic-burst
+- camera-zoom-out
+- gothic-interior
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2090330350668947525
+  credit: Talia
+  likes: 19
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/TaliaAariz/status/2090330350668947525
+notes:
+  en: 'The prompt runs in timed beats: establish the look, pull the camera out to reveal the full costume, then trigger a magic burst that swaps the gown and scepter for armor, sword and shield. Naming the end pose and the arcane circle gives the model a fixed final frame to aim for.'
+  zh: 提示词按顺序分段：先确立造型，再拉远镜头展示完整服饰，随后用魔法光爆把长裙和权杖变为战甲、长剑与盾牌。结尾指定战斗姿势和红色魔法阵，为模型提供明确的最终画面。
+prompt: |
+  A cinematic fantasy transformation beginning with a majestic queen wearing an intricate ruby-embroidered corset gown, matching crown, and holding a glowing heart-topped scepter inside a gothic cathedral throne room. The camera zooms out to show her full attire as she turns and walks toward a grand staircase, where a burst of glowing red magical light erupts around her. Enveloped in the crimson energy, her gown transforms into sleek, ornate metallic warrior armor, while her scepter morphs into a longsword and an embossed shield. She turns back toward the camera in a powerful battle stance, positioned before a glowing red arcane circle on the cathedral steps.

@@ -1,0 +1,27 @@
+id: h3-garage-coffee-ai-replace-question
+title:
+  en: Two men share coffee on a muscle car
+  zh: 两人坐在肌肉车引擎盖上喝咖啡
+model: MiniMax H3
+mode: text-to-video
+category: dialogue
+tags:
+- deadpan-comedy
+- dialogue
+- two-shot
+- garage
+- street-racing
+source:
+  name: '@underwoodxie96 on X'
+  url: https://x.com/underwoodxie96/status/2084873926141006285
+  credit: underwood
+  likes: 19
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/underwoodxie96/status/2084873926141006285
+notes:
+  en: The prompt gives each line of dialogue its own beat and sets the timing with explicit pauses, so the deadpan humour comes from silence and eye movement rather than editing. A locked chest-height two-shot plus a list of performance rules, such as no smirks, no camera glances and no cuts, keeps the acting steady across the clip.
+  zh: 提示词为每句台词安排独立的节拍，并用明确的停顿规定节奏，让冷幽默来自沉默和眼神而不是剪辑。固定的胸高双人镜头，加上不可微笑、不看镜头、不切镜等表演规则，使整段表演保持稳定。
+prompt: |
+  Create an approximately 15-second, 16:9 grounded street-racing action-film scene. All dialogue is spoken naturally in English.  Late at night inside a private custom garage in an industrial area of Los Angeles, Roman and Tej sit shoulder to shoulder on the front bumper of a black high-performance muscle car. Each holds an ordinary paper coffee cup.  Several heavily modified street-racing cars surround them. Their bodywork reflects cool blue work lights and warm tungsten fixtures. A hydraulic vehicle lift slowly descends in the background. Tools occasionally clink in the distance while an engine produces a steady, low idling rumble.  The scene has the grounded texture of a street-racing action movie: dark metallic tones, a faint layer of garage haze, an oil-stained concrete floor, realistic automotive reflections, and restrained shoulder-mounted camerawork. The image should feel physical and substantial, not like a polished car commercial.  Keep the camera at chest height and begin with a steady medium two-shot. Use only subtle human-operated movement and natural breathing in the frame. There are no chases, explosions, or exaggerated actions. The humor comes entirely from the serious performances, eye contact, and pauses.  Roman turns toward Tej with a completely sincere and genuinely concerned expression. There is no irony in his performance, and he does not realize that the question might be funny. He treats it as a serious concern about the future of the entire team.  ROMAN, speaking with complete sincerity: “Do you think AI is gonna replace us?”  Tej slowly raises his eyes from his coffee cup. The camera makes an almost imperceptible push toward him. He pauses and looks directly into Roman’s eyes. Tej appears tired but composed, answering with extremely restrained deadpan delivery.  TEJ: “Roman, AI can’t replace you. Nothing can replace you.”  Roman slowly nods. His shoulders relax, and he is visibly relieved. He looks down and seriously processes the statement. He then looks back at Tej and carefully asks for confirmation.  ROMAN: “Because I’m that good?”  Tej stares at Roman without moving.  Hold a long, quiet, uncomfortable pause. Do not use music or editing to emphasize the joke. During the silence, the idling engine in the background gives a small mechanical cough before returning to its steady rumble.  Tej slowly looks down at his coffee as though searching for an escape from the conversation. He takes a small breath, then raises his eyes back to Roman.  TEJ, with an extremely flat and exhausted delivery: “...Sure. Let’s go with that.”  Roman nods with satisfaction, fully accepting the answer. Looking reassured, he takes a sip of coffee.  The camera does not follow Roman. Instead, it slowly pushes closer to Tej’s face. After his final line, hold on Tej’s expressionless face for one full beat. He looks straight ahead, his eyes communicating exhaustion, resignation, and a brief reconsideration of every life choice that brought him here.  Cut directly to black.  Performance requirements: Roman remains completely earnest and serious throughout. He never smirks, winks, looks into the camera, or recognizes the joke. Tej’s humor comes only from restrained eye movement, flat vocal delivery, and precisely timed pauses. He never rolls his eyes, makes an exaggerated expression, or visibly performs the comedy.  Audio requirements: All dialogue is delivered in natural, clear American English with accurate lip synchronization. Preserve the subtle rustle of the paper cups, the garage’s spatial reverb, distant tool sounds, and the low engine rumble. Maintain the specified pauses between lines. No background music, laugh track, narration, or subtitles.  Continuity requirements: Roman and Tej remain seated in the same positions throughout. Each coffee cup stays in its owner’s hand, with realistic wrist movement, weight, inertia, and liquid behavior. Preserve the characters’ faces, body types, clothing, hairstyles, background vehicles, lighting direction, and camera axis.  Negative prompt: exaggerated comedy acting, changing identities or faces, distorted fingers or coffee cups, rapid action editing, explosions or car chases, subtitles, text, logos, watermarks.

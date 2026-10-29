@@ -1,0 +1,45 @@
+id: seedance-korean-cafe-vlog-six-scenes
+title:
+  en: Woman sips iced coffee outside a cafe
+  zh: 女子在咖啡馆外喝冰咖啡
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- character-consistency
+- multi-scene
+- korean
+source:
+  name: '@ZorviaLux on X'
+  url: https://x.com/ZorviaLux/status/2106230270282313997
+  credit: ZorviaLux
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZorviaLux/status/2106230270282313997
+notes:
+  en: Each of the six scenes is numbered and repeats the same wardrobe, hair and bag description, which keeps the character identical across cuts. Every beat names its camera move (wide, close up, tracking, slow motion) and its light source, so the golden hour, blue hour and fairy light shifts read clearly on the timeline.
+  zh: 每个场景都编号并重复相同的服装、发型和手提包描述，使角色在各镜头之间保持一致。每个段落都写明镜头运动（远景、特写、跟拍、慢动作）和光源，让黄金时段、蓝调时刻和串灯夜景的变化在时间线上清晰可辨。
+prompt: |
+  Create a 60-second ultra-realistic cinematic lifestyle vlog featuring a beautiful young Korean woman with long dark brown hair, soft natural makeup, and a gentle smile. She wears a delicate white floral dress with a light cream cardigan and carries a small white handbag.
+
+  **Scene 1:** She stands outside a modern aesthetic café surrounded by lush green plants and glass windows. She holds an iced coffee, takes a sip, gently adjusts her hair, and smiles naturally at the camera.
+
+  **Scene 2:** Close-up cinematic shots of her face as she enjoys her coffee. Soft sunlight illuminates her face. She looks relaxed and happy, with subtle natural movements.
+
+  **Scene 3:** She walks along a beautiful city street during golden hour, wearing the same outfit. The camera follows her from behind and captures elegant side-profile shots.
+
+  **Scene 4:** She arrives at a rooftop viewpoint overlooking a beautiful city skyline during sunset. The golden sun slowly sets behind the buildings. She sits on a bench, gazes at the sunset, and enjoys the peaceful atmosphere.
+
+  **Scene 5:** At blue hour, she walks along a modern urban street with glowing streetlights and passing cars. The camera captures her beautiful side profile and flowing hair in a cinematic tracking shot.
+
+  **Scene 6:** Nighttime outdoor café with warm fairy lights hanging overhead. She sits at a cozy wooden table with her iced coffee and handbag. She smiles at the camera, raises her drink, takes a sip, and waves goodbye with a cheerful expression.
+
+  **Visual style:** Ultra-realistic 4K, photorealistic skin texture, natural facial expressions, cinematic depth of field, soft lighting, warm golden-hour tones, beautiful bokeh, smooth camera movements, professional color grading, realistic hair physics, natural body movements, aesthetic Korean lifestyle vlog, dreamy peaceful atmosphere.
+
+  **Camera:** Mix of wide shots, medium shots, close-ups, slow-motion details, smooth tracking shots, and gentle cinematic transitions.
+
+  **Mood:** Peaceful, romantic, cozy, elegant, dreamy everyday life.
+
+  Maintain perfect character consistency, identical facial features, hairstyle, clothing, and accessories across all scenes. No distorted hands, no flickering, no face changes, no unnatural movements, no text, no watermark.

@@ -1,0 +1,37 @@
+id: seedance-city-woman-day-waking-to-sleep
+title:
+  en: Woman wakes in warm sunlight under white linens
+  zh: 女性在暖阳中醒来，躺在白色床品上
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- character-reference
+- lifestyle-vlog
+- multi-scene
+- daily-routine
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2102628377463275651
+  credit: noorlewisx
+  captured: '2026-10-29'
+  posted: '2026-09-23'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2102628377463275651
+notes:
+  en: A character reference image (@image1) locks the same face across seven timed scene beats, while one style line sets the lens, lighting and vlog look for every shot. The negative line names identity drift and CGI looks to suppress.
+  zh: '@image1 角色参考图在七个按顺序列出的场景中锁定同一张脸，统一的风格段落为每个镜头设定镜头、光线与日常vlog质感。负面提示则排除身份漂移和CGI感。'
+prompt: |
+  CHARACTER REFERENCE: @image1 = main character identity. Preserve exact face, eyes, nose, lips, skin tone, hairstyle, and body proportions across all scenes. Cinematic 4K, 35mm lens, soft natural lighting, realistic skin texture, subtle film grain.
+
+  SCENES SEQUENCE:
+  1. MORNING: @image1 opens eyes under soft white bed linens in warm sunlight.
+  2. COFFEE: @image1 walks outside sipping coffee, blurred street background.
+  3. GETTING READY: @image1 splashes water on face and applies mascara in bathroom mirror.
+  4. LEAVING HOME: @image1 steps out of classic building in oversized brown blazer, walks down tree-lined street.
+  5. CITY WALK: @image1 walks busy street in a leather jacket while checking smartphone.
+  6. CAFE: @image1 reads a book beside a latte, then eats a fresh salad in a brick-walled cafe.
+  7. EVENING: @image1 returns home, takes off jacket, washes face, dries with towel, gets into bed, and falls asleep.
+
+  STYLE: photorealistic, shallow depth of field, gentle tracking camera, lifestyle vlog aesthetic.
+  NEGATIVE: character identity drift, different woman, generic face, 3D, CGI, anime, beauty filter. --ar 9:16

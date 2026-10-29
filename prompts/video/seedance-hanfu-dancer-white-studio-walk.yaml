@@ -1,0 +1,24 @@
+id: seedance-hanfu-dancer-white-studio-walk
+title:
+  en: Hanfu dancer walks into a white studio
+  zh: 身着汉服的舞者从右侧走入白色影棚
+model: Seedance 2.5
+mode: reference-to-video
+category: music-dance
+tags:
+- hanfu
+- ootd
+- character-consistency
+- dance
+source:
+  name: '@acupofai on X'
+  url: https://x.com/acupofai/status/2083820282461184354
+  credit: Lc玩AI
+  captured: '2026-10-29'
+  posted: '2026-08-02'
+video: https://x.com/acupofai/status/2083820282461184354
+notes:
+  en: 'Separates identity from motion: the face comes from a close-up reference, the costume from front and back views, and only the movement and framing come from the source video. A timed beat sheet for each second with a fixed, nearly static camera keeps the seven second clip continuous.'
+  zh: 将人物长相、服装与动作拆分为不同参考：脸部来自特写图，服装来自正背面图，仅借用源视频的动作与景别。逐秒的节拍说明加上固定、近乎静止的镜头，使七秒画面保持连贯。
+prompt: |
+  7秒，9:16，一镜到底，甜美古风OOTD短视频。7秒音频完整播放，配合人物舞蹈。 严格以@人物参考图人物设定图中的成年女性为唯一人物：以右侧脸部特写作为人物长相参考，以左侧正面图 and 中间背面图作为服装、发型及背部结构参考。完整保持她的小巧鹅蛋脸、清秀五官、红色眉心花钿、深棕黑色高盘古典发髻、浅金色花叶发簪、珍珠流苏和两侧垂落珠链；完整保持浅香槟白与淡桃粉古风舞衣、刺绣抹胸内搭、浅杏色透明长袖纱衣、浅金色腰封、金属链饰、多层垂坠长裙。全程禁止换脸、换装、改变发型或增减饰品。 仅参考@视频人物的动作轨迹、姿态、节奏、景别变化和构图，不继承原视频人物的脸、发型、服装、颜色或材质。纯白无影棚，高机位轻微俯拍，超广角轻微透视，镜头基本固定，人物始终保持全身或大半身清晰入镜。 0–1秒，人物从画面右侧提着少量裙摆轻快走入，长裙和薄纱袖自然摆动； 1–2秒，人物靠近镜头，上身轻微前倾，抬眼注视镜头，神情清甜克制； 2–3秒，双手轻扶腰间，形成自然收腰姿态，俏皮微微歪头； 3–4秒，优雅侧身转过半圈，展示服装背面、盘发和腰封结构，再回眸看向镜头； 4–5秒，转回正面浅浅微笑，双臂向身体两侧自然舒展，轻纱袖缓慢垂落； 5–6秒，双手轻放身后，先低头整理姿态，再微微歪头看向镜头； 6–7秒，再次轻扶腰间，人物先扭头看向与镜头呈90°角的侧前方，视线先聚焦在镜头外某个远方，然后再转向镜头，以甜美、自信、端庄的古风姿态定格结束。 动作自然连贯、轻盈克制，不做大幅度舞蹈动作。裙摆、薄纱衣袖、珠链流苏和耳侧发丝随动作产生轻微真实惯性，避免夸张飞舞。明亮柔光，清透高亮，柔和浅香槟色调，古装影视广告与韩系时尚短片结合的高级质感，节奏轻快，无对白，搭配轻盈空灵的国风流行音乐。人物身份、五官、发型、服装纹样和饰品位置全程稳定，面部清晰稳定，真实皮肤纹理，4K质感，细节清晰。 不要使用左侧正面图中的空白遮脸作为人物面部，人物长相必须来自右侧脸部特写；不要继承视频中原人物的脸、发型或服装；不要新增人物，不要换装，不要跳切，不要镜头大幅移动或抖动，不要快速旋转，不要剧烈甩袖，不要裙摆遮脸，不要肢体变形、重复手臂、多余手指、手部粘连、穿模、服装突变、饰品消失、发型变化或背景变化。

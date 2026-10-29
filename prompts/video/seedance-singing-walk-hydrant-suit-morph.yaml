@@ -1,0 +1,57 @@
+id: seedance-singing-walk-hydrant-suit-morph
+title:
+  en: Singing man struts, hydrant blasts, suit morphs
+  zh: 唱歌的男人走过消防栓，西装连续变换
+model: Seedance 2.5
+mode: image-to-video
+category: cinematic
+tags:
+- tracking-shot
+- reference-lock
+- comedy
+- diegetic-audio
+source:
+  name: '@techhalla on X'
+  url: https://x.com/techhalla/status/2094570657929363710
+  credit: techhalla
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/techhalla/status/2094570657929363710
+notes:
+  en: The reference image is locked as the opening frame with explicit identity rules, and the camera is one continuous tracking take with no cuts. Timed beats and a diegetic audio block set each gag, and the outfit change is written as a single morph so the look holds without a cut.
+  zh: 参考图被锁定为首帧并写明身份保持规则，镜头全程为一条连续跟拍且不切换。分段时间节点和现场声音描述决定了各个桥段，服装变化写成一次连续变形，因此无需剪切。
+prompt: |
+  A 2000s studio-comedy film shot, 16:9, 35mm, moderate film grain, bright American daylight, tracking camera at chest height following a man along a city sidewalk. Smooth dolly/track with him, no handheld phone, no gimbal whip, no drone, no cuts. The camera stays with him the whole 30 seconds, medium-wide, the street readable behind him.
+
+  IMAGE REFERENCES
+
+  [image_ref] is the opening frame AND the identity lock: the bald man with the thick dark beard, open grey plaid flannel over a white t-shirt, mid-stride on this exact sunlit sidewalk. Keep his exact face, bald scalp, beard, body. Keep this street: Sherman Brothers shop, cafe table, stone steps and arched doorway, red fire hydrant, American flag, storefronts. Start on this composition, then the camera travels with him down the block. Do not redesign his face.
+
+  He sings out loud, diegetic, the lyrics "I've got the power" in a loud off-key enthusiastic voice, the whole walk. No extra score under it. Street air, footsteps, then the gags.
+
+  TIMELINE
+
+  0-4s: [Tracking medium-wide, opening on image_1] He is already walking, already singing, mouth wide, chest out, a little strut. The camera slides with him. Daylight, grain. He is having the time of his life.
+
+  4-8s: [Tracking, he twists his torso toward the hydrant without stopping] He points two fingers at the red fire hydrant on the sidewalk. The hydrant cap blows and three hard jets of water blast out in different directions, high, violent, real water physics, mist in the sun. He keeps walking and singing, does not look back for long. Camera stays on him, hydrant geysers in the background.
+
+  8-13s: [Tracking, still singing] He keeps the strut. Water still arcing behind him. Pedestrians flinch at the spray. He grins, points at the sky on a lyric, never breaks stride.
+
+  13-18s: [Tracking as he passes a woman coming the other way] A woman in a knee-length dress walks toward him. As they cross, a sudden gust hits only her: the hem lifts a little, Marilyn sidewalk-vent style but modest, a brief flip then it drops. She grabs the fabric, startled. He keeps walking, still singing, a tiny glance, no contact. Camera never leaves him.
+
+  18-23s: [Tracking slows as he reaches a shop window] He stops in front of a big storefront glass, still humming. Leans in. We see him and his reflection clearly: bald head, beard, plaid, white tee. He studies himself, tilts his chin.
+
+  23-28s: [Held on him and the reflection] In the glass and on his body at the same time, the clothes change in one continuous morph: the flannel and tee become a sharp white open-collar suit, jacket, tailored trousers, a gold chain. No cut, no flash, the fabric rewrites itself. He checks the new look in the window, pleased, shoulders back.
+
+  28-30s: [Medium, still on him] He licks the tip of his index finger, taps it to his hip, and a little puff of white steam hisses off the fabric like a hot iron being quenched. He mouths the last "power," smug. Clip ends on that beat. Camera never cut.
+
+  AUDIO
+
+  His live singing of "I've got the power" the whole way, a bit pitchy, full of himself. Hydrant blast and falling water. Dress flutter. A soft whoosh on the clothes change. A tiny sizzle and steam hiss on the hip. City air, footsteps, one woman gasp. No extra music bed. No commentator. 2000s film production sound, not a phone video.
+
+  STYLE & QUALITY
+
+  Looks like a real early-2000s movie production still that started moving: 35mm grain, anamorphic-adjacent daylight, stable faces, real water, real wind on fabric, real cloth morph, real steam. Continuous take. No morphing of the face, no extra people popping in, no text, no logos, no watermark, no phone look, no CGI sheen.
+
+  The ref image is exactly the first frame. Enjoy! 😎

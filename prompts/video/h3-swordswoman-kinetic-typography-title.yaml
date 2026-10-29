@@ -1,0 +1,43 @@
+id: h3-swordswoman-kinetic-typography-title
+title:
+  en: Anime swordswoman in kinetic typography title sequence
+  zh: 动漫女剑客与动态字体片头
+model: MiniMax H3
+mode: reference-to-video
+category: action
+tags:
+- anime
+- martial-arts
+- kinetic-typography
+- identity-reference
+source:
+  name: '@opener_ai on X'
+  url: https://x.com/opener_ai/status/2085159317578330229
+  credit: Jin.B
+  likes: 36
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/opener_ai/status/2085159317578330229
+notes:
+  en: A numbered shot list with timed beats, paired with an identity reference image, keeps the character consistent while 3D title words move through the action. Telling the model to ignore the reference sheet's layout and labels keeps those artifacts out of the video.
+  zh: 用编号分镜和时间段描述每个镜头，并配合角色参考图锁定外观，使3D字样穿插在动作中时人物依然一致。明确要求忽略参考图的版式和标签，避免这些元素出现在视频里。
+prompt: |
+  [1] FORMAT
+  15-second 16:9 stylized anime action title sequence — martial-arts choreography fused with 3D kinetic typography. Painterly 2D anime illustration look with cel-shaded volumes and subtle paper grain, matching the source artwork's rendering.
+
+  [2] ASSETS
+  Use Image 1 as a strict identity reference for the female duelist KAELAN — read only the character artwork itself for her face, hair, wardrobe, weapon, and color palette. Ignore the sheet's layout, panels, printed labels, handwriting, silhouette thumbnails, and background parchment; none of them may appear in the video.
+
+  [3] IDENTITY
+  Preserve exactly: deep brown skin with warm highlights; luminous crimson-red eyes with a sharp black liner shape; jet-black hair pulled into a tight scalp-wrapped part that splits into two very long thick braids falling past the hips, moving like weighted whips; large white crescent hoop earrings on both ears; black high-neck sleeveless crop top exposing a toned midriff; a sheer white long-sleeved kimono robe worn open, translucent and lightly billowing; cream wide-leg hakama trousers with a single black diamond patch on the left thigh; black wrapped fingerless gloves with lattice cord across the back of the hand; white cloth-wrapped platform sandals; a well-worn katana with a dark blue-grey blade and a black diamond-wrapped hilt. Her expression stays calm and unblinking, never comic.
+
+  [4] BEATS
+  Shot 1 — [0–3 seconds] Kaelan stands centered in a void of warm off-white light, katana point-down, braids settling. She exhales; a slow iai draw begins. → Hard cut.
+  Shot 2 — [3–6 seconds] Mid-draw. The blade clears the saya and a clean arc of light follows the edge. The 3D extruded word "HAILUO" flies in from screen left along the blade's arc, its letter faces catching the same light, passing BEHIND her shoulder and IN FRONT of her trailing braid before exiting right. → Whip-pan cut.
+  Shot 3 — [6–9 seconds] Full-body kata combination: descending cut, pivot, rising horizontal sweep. Her sheer robe and both braids trail one frame behind her body. The word "MINIMAX" rotates up from the floor plane in thick extruded 3D, standing taller than her, and she cuts through the gap between its letters — the letterforms hold solid, do not shatter. → Hard cut.
+  Shot 4 — [9–12.5 seconds] Low-angle crouch landing, sword arm extended back, dust ring pushing outward. "H3" slams in from depth as a massive chromed 3D glyph directly behind her, scaling down to lock, with her silhouette reading cleanly against it. → Flash cut on the impact frame.
+  Shot 5 — [12.5–15 seconds] She rises into the neutral standing pose, katana returning to point-down. The full lockup "HAILUO MiniMax H3" assembles from the three pieces on a single horizontal baseline at lower third, settles, and holds perfectly still through the final frame.
+
+  [5] CAMERA
+  Anamorphic-feel 35mm for wides, 50mm for the mid shots.

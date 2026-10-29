@@ -1,0 +1,24 @@
+id: seedance-golden-foil-gondola-sunset-to-night
+title:
+  en: Golden foil gondola sunset fading to night
+  zh: 金箔质感的贡多拉黄昏渐入夜色
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- gold-foil
+- sunset-transition
+- gondola
+- style-lock
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2112230364508827925
+  credit: Viki
+  captured: '2026-10-29'
+  posted: '2026-10-19'
+video: https://x.com/churvikv/status/2112230364508827925
+notes:
+  en: 'Opens with a fixed style phrase (textured golden art style, gold foil texture preserved) that locks the material for the whole clip, then lists timed beats in order: sky shift, windows lighting one by one, gondolier receding into the dark. A stated 10 second length and a steady rowing pace keep the motion slow and readable.'
+  zh: 开头用固定的风格短语（金箔纹理质感，保留金箔纹理）锁定材质，使整段画面保持一致，之后按时间顺序列出各个节拍：天色转换、窗灯逐一亮起、船夫渐渐远去消失在夜色中。注明 10 秒时长，并规定划桨节奏平稳，让运动缓慢清晰。
+prompt: |
+  Textured golden art style, gold foil texture preserved. The golden sky gradually transitions from bright morning gold to deep sunset bronze. Shadows lengthen across the water. Windows light up one by one as evening approaches. Gondolier rows at a normal steady pace, moving from the center toward the distant horizon, gradually becoming smaller and eventually disappearing into the darkening background as night falls. Seagulls return to roost. The clock tower silhouette becomes more pronounced against the darkening sky. Water reflections shift from bright to warm amber. Peaceful time progression, 10 seconds.

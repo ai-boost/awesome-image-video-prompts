@@ -1,0 +1,24 @@
+id: seedance-watercolor-chinese-girl-timelapse
+title:
+  en: Hand paints a Chinese style watercolor girl timelapse
+  zh: 手绘延时中国风水彩少女插画
+model: Seedance 2.5
+mode: reference-to-video
+category: vfx
+tags:
+- watercolor
+- timelapse
+- hand-drawn
+- illustration
+source:
+  name: '@leo_xiaolei on X'
+  url: https://x.com/leo_xiaolei/status/2100043047857729721
+  credit: XiaoLei Liu
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+video: https://x.com/leo_xiaolei/status/2100043047857729721
+notes:
+  en: Timed beats split the clip into outline, ink lines, scattered colour fills and a final gold highlight, so the model follows a clear sequence. An overhead camera on hands only, with no face, and a reference image for the final layout keeps the composition steady.
+  zh: 按秒分段，依次完成轮廓、黑线分格、散点上色和最后金色点亮，让模型有清晰的时序。俯视镜头只拍双手，并以参考图锁定最终构图，画面更稳定。
+prompt: |
+  俯视镜头对准桌面上的一本白色水彩画册，纸张起初完全空白，侧上方照射着柔和自然光，桌面摆放铅笔、黑色代针笔、细水彩笔与调色盘。画面中仅出现一双女性纤细的手，无人脸出现。 前 2 秒，女性右手拿起铅笔以高节奏缩时画出轮廓：中央是粉红长发的国风少女，右手比出 V 字手势，左手持一把小团扇，身穿白色交领上衣搭配粉红马面裙，发间佩戴花簪，头顶有带缠枝莲纹的圆形彩窗光环；左侧描出中式牌楼轮廓，右侧勾出青瓦水榭与锦鲤池塘，远方浮现云雾缭绕的连绵青山，左右上角同步画出两朵如意形祥云，外围以中式圆拱花窗边框与海棠枝条环绕。 第 3 秒，手持黑色代针笔快速描绘，将所有轮廓收整成如彩色玻璃镶嵌般粗黑利落的分格线条，线条分割出头发、交领上衣、马面裙、团扇、光环、牌楼、水榭、池塘、远山、祥云与外框花朵等独立色块区域。 第 4 至 7 秒进入上色阶段，女性右手握着水彩笔进行跳跃式、不连续、多区域同时推进的分散上色：笔尖先落在中央少女的粉红头发涂抹渐层色块，随即跳至右上角祥云点上淡黄色；接着笔尖跳转到左侧牌楼刷上朱红，再跳至右下角池塘涂上湛蓝水色与橘白锦鲤；随后又跳回腰间系带染上金黄，跳至左上角祥云补色，再分散跳去外框海棠点上粉白，最后随机补上远山的灰蓝与天空的紫粉色洗色。整体上色过程刻意呈现东一块、西一块、无固定顺序的散点推进节奏，色彩在黑色分格线内自然晕染重叠。 最后 1 秒，女性的手在光环与花簪细节处点上金色亮部收尾，水彩笔放下并移出画面，镜头缓慢拉远，完整展示画册上精致完成、色彩斑斓、带有浓烈手绘温度的国风少女花窗玻璃水彩插画。人物位置、景物分布与画面层次参照参考图片，服饰、建筑、山景和装饰均以以上中国元素描述为准。

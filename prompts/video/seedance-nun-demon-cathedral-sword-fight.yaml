@@ -1,0 +1,26 @@
+id: seedance-nun-demon-cathedral-sword-fight
+title:
+  en: Kneeling nun with bloodied sword surrounded by demons
+  zh: 跪地修女手持染血长剑 被恶魔包围
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- transformation
+- fight-sequence
+- gothic-fantasy
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2108765927194198397
+  credit: Sᴀɪʀᴀ
+  captured: '2026-10-29'
+  posted: '2026-10-10'
+video: https://x.com/itsSaira_1/status/2108765927194198397
+notes:
+  en: The prompt is written as a timed beat sheet, moving from a kneeling start through a transformation, a fight and a closing wide shot, so each stage has a clear visual action. Fixed scene anchors such as the full moon, the rune circle and the cathedral ruins keep the setting consistent across the cuts.
+  zh: 提示词写成一份带时间顺序的分镜表，从下跪开场，依次写变身、战斗到结尾远景，每个阶段都有明确的画面动作。满月、符文圈和教堂废墟等固定场景元素贯穿全片，帮助模型在切换镜头时保持环境一致。
+prompt: |
+  A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
+
+  Negative Prompt:
+  blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation

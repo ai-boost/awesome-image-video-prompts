@@ -1,0 +1,126 @@
+id: seedance-five-more-minutes-mismatched-sneakers
+title:
+  en: Sleepy teen in bed beside 7:00 alarm clock
+  zh: 睡懒觉的少年与7:00闹钟
+model: Seedance 2.5
+mode: text-to-video
+category: dialogue
+tags:
+- family-comedy
+- dialogue
+- morning-routine
+- mismatched-shoes
+source:
+  name: '@SeharShinwari on X'
+  url: https://x.com/SeharShinwari/status/2091810238836220283
+  credit: SeharShinwari
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/SeharShinwari/status/2091810238836220283
+notes:
+  en: The prompt is split into labeled blocks for character lock, location, timed beats with quoted dialogue, cinematography, and audio, so each beat stays readable. A fixed visual payoff, two mismatched sneakers shown in a close shot, gives the model a clear end point to build toward.
+  zh: 提示词按角色锁定、场景、带引号台词的分段时间线、镜头和音频分块编写，每个节拍都清晰可读。结尾设定了固定的视觉笑点，即一只黑鞋和一只灰鞋的特写，让模型有明确的收束目标。
+prompt: |
+  Create a 30-second cinematic live-action family comedy titled “FIVE MORE MINUTES.”
+
+  FORMAT & STYLE:
+  Hyper-realistic photorealistic live action, 4K, vertical 16:9, 24fps cinematic film look, natural early-morning lighting, realistic skin, hair, fabric and physics, subtle handheld camera movement, smooth tracking shots, shallow depth of field, natural color grading and professional filmmaking. The scene should feel like a genuine family moment filmed in a real home, with natural acting and believable expressions.
+
+  CHARACTER CONSISTENCY:
+  MOTHER — South Asian woman around 40, medium complexion, dark hair tied in a simple low bun, wearing a comfortable light-grey long-sleeve home outfit. Warm but slightly frustrated personality.
+
+  SON — South Asian teenage boy, 16–17 years old, medium complexion, messy dark-brown hair, wearing a navy-blue T-shirt and grey sweatpants. Sleepy, slightly lazy teenage personality.
+
+  Keep both characters exactly consistent throughout the entire video: same faces, age, hairstyle, clothing, body proportions and skin tone.
+
+  LOCATION:
+  A realistic, comfortable family home in the morning. The son's bedroom contains a single bed with a grey-and-white striped blanket, wooden bedside table, digital alarm clock, school backpack, books and everyday personal items. The hallway, stairs and kitchen must clearly belong to the same house. Warm sunlight enters through the bedroom window.
+
+  0–4 SEC — FIRST WAKE-UP:
+  Wide cinematic shot of the bedroom. The alarm clock reads 7:00 AM. The son is deeply asleep under the blanket. The mother quietly opens the door, enters and looks at him.
+
+  She says naturally:
+  “Wake up, it's time for school.”
+
+  The son barely reacts.
+
+  4–7 SEC — FIVE MORE MINUTES:
+  Close-up of the sleepy son. He slowly opens one eye, pulls the blanket closer and quietly mumbles:
+  “Five more minutes…”
+
+  He immediately turns away and falls asleep again.
+
+  The mother looks at him with a tired, slightly frustrated expression.
+
+  7–10 SEC — AGAIN:
+  The mother returns and gently shakes his shoulder.
+
+  “Come on, get up now.”
+
+  The son pulls the blanket over his head.
+
+  “Five more minutes…”
+
+  The mother pauses, takes a breath and looks toward the ceiling in disbelief. Keep the humor subtle and realistic.
+
+  10–17 SEC — MORNING CHAOS:
+  Create a quick, coherent montage showing the mother's attempts to get him ready:
+  • She opens the curtains.
+  • She prepares breakfast in the kitchen.
+  • She calls him from the hallway.
+  • She picks up his school backpack.
+  • She searches around the bedroom for a missing shoe.
+  • She returns to find him still lying in bed.
+
+  The son remains sleepy but gradually wakes up. Keep the same house, wardrobe and props throughout.
+
+  17–21 SEC — TOO LATE:
+  The son suddenly notices the time and realizes he is late.
+
+  His expression changes instantly.
+
+  He jumps out of bed, quickly gets dressed, grabs his backpack and rushes downstairs. The mother follows behind him, amused and frustrated.
+
+  21–24 SEC — FINALLY READY:
+  At the front door, the son stands ready to leave with his backpack.
+
+  The mother looks relieved.
+
+  Finally.
+
+  He opens the door.
+
+  She suddenly notices something and stops him.
+
+  24–27 SEC — THE REVEAL:
+  Close-up of the son's feet.
+
+  He is wearing two completely different sneakers:
+  one black sneaker and one grey sneaker.
+
+  He slowly looks down at them.
+
+  His expression changes from confidence to complete disbelief.
+
+  27–30 SEC — FUNNY ENDING:
+  Two-shot of mother and son.
+
+  They look at each other for one silent second.
+
+  Both suddenly start laughing.
+
+  The son shakes his head and runs back upstairs to change his shoes while the mother remains at the door laughing.
+
+  End naturally on the mother's amused expression.
+
+  CINEMATOGRAPHY:
+  Use realistic 35mm and 50mm cinematic lens aesthetics, natural rack focus, smooth camera pushes, subtle handheld movement, realistic motion blur and shallow depth of field. Use wider shots to establish the home and close-ups for the comedy beats. Avoid excessive camera movement.
+
+  AUDIO:
+  Natural morning ambience, birds outside, distant traffic, footsteps, fabric movement, alarm clock and household sounds. Use natural-sounding dialogue with realistic pauses. Add very subtle playful background music during the montage and ending.
+
+  STRICT CONSISTENCY & QUALITY:
+  Keep the same two characters, bedroom, hallway, kitchen, backpack, alarm clock and clothing throughout. The two mismatched shoes must remain visually consistent in the final reveal. No changing faces, hairstyles, ages or outfits. No duplicate characters, extra fingers, extra limbs, distorted hands, warped faces, floating objects, sudden environment changes, unrealistic physics, random props, logos or watermarks. No supernatural effects or exaggerated VFX.
+
+  The final result should look like a professionally filmed, relatable family comedy with natural performances, clear storytelling and a satisfying visual punchline.

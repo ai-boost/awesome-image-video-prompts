@@ -1,0 +1,147 @@
+id: seedance-90s-pixel-word-game-ad
+title:
+  en: Pixel 90s word game ad with CRT boot
+  zh: 90年代像素单词游戏广告，CRT开机
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- pixel-art
+- retro-game
+- word-game
+- sound-effects
+source:
+  name: '@bmx_ai13 on X'
+  url: https://x.com/bmx_ai13/status/2101593507232387096
+  credit: BMX
+  captured: '2026-10-29'
+  posted: '2026-09-20'
+video: https://x.com/bmx_ai13/status/2101593507232387096
+notes:
+  en: The prompt is split into timed beats (hook, gameplay, payoff, replay hook), and each beat names its sound effect and on-screen UI text. The closing list of banned looks (no photorealism, no 3D, no anime) keeps the output in low-resolution pixel territory.
+  zh: 提示词按时间段拆成钩子、玩法、高光和回放钩子，每段都写明音效和界面文字。结尾列出禁止的画风（无写实、无3D、无动漫），把输出锁定在低分辨率像素风格。
+prompt: |
+  30 Second Pixel 90s Retro Word Game Concept
+
+  0–3 sec — Hook
+  Black CRT screen. Static flicker. Suddenly neon pink/purple pixel graphics boot up.
+  Big chunky pixel text:
+
+  “CAN YOU GUESS THE 90s?”
+
+  A 5-letter puzzle appears.
+
+  First guess: MUSIC
+  Tiles rapidly flip — ⬛ 🟨 🟩 ⬛ 🟩
+
+  Retro arcade beep-beep-boom sound.
+  3–8 sec — Fast Gameplay
+  Player quickly types another word using a chunky pixel keyboard.
+
+  Each letter tile flips with satisfying arcade sounds.
+
+  Correct letters explode into bright green pixels.
+  Wrong letters shake and glitch.
+
+  Top UI:
+
+  STREAK ×7
+   LEVEL 12
+   XP +50
+
+  Background feels like a 1990s arcade bedroom: CRT glow, cassette tapes, floppy disks, checkerboard patterns and neon geometric shapes.
+
+  8–13 sec — 90s Word Challenge
+  Screen glitches into:
+
+  “90s WORD PILE”
+  Words flash quickly:
+  VHS
+   DISCO
+   RADIO
+   PIXEL
+   ARCADE
+
+  Then a new mystery word appears:
+
+  _ _ _ _ _
+  Countdown:
+
+  10… 9… 8…
+
+  Player starts typing fast.
+
+  13–18 sec — Almost Fail
+  Guess:
+  GAMES
+  Only two letters turn green.
+  Timer:
+  3… 2…
+
+  Screen begins flashing red.
+
+  The player changes one letter at the last second.
+
+  GAME?
+
+  Final letter drops in.
+
+  18–22 sec — BIG PAYOFF
+  All five tiles flip GREEN one after another.
+
+  P — I — X — E — L
+  Huge pixel explosion.
+
+  CRT screen shakes.
+
+  Retro confetti fills the screen.
+
+  Text:
+
+  PERFECT!
+
+  STREAK ×8
+
+  +250 XP
+
+  22–27 sec — Progression Hook
+  Rapid gameplay montage:
+
+  Unlock a new neon theme.
+
+  Badge pops:
+  “90s KID”
+
+  Career map advances:
+
+  LEVEL 12 → LEVEL 13
+
+  Another theme unlocks:
+
+  MALL NIGHT
+
+  Everything changes to cyan, magenta and purple neon.
+
+  27–30 sec — Replay Hook
+  A brand-new puzzle instantly appears.
+
+  _ _ _ _ _
+
+  Small text:
+
+  “ONE MORE WORD?”
+  Cursor starts blinking.
+
+  Then:
+  PRESS START
+  Cut to CRT static.
+  Visual direction
+
+  Make it true retro pixel-game footage, not realistic 3D and not Pixar. Use low-resolution pixel graphics, chunky 8/16-bit-inspired typography, neon cyan/magenta/purple/green palettes, CRT scanlines, VHS-style glitches, checkerboard patterns, arcade UI, pixel particles, tile-flip animations and old-school sound effects.
+
+  The video should feel like a lost 1990s arcade word game rebuilt for modern mobile gameplay—fast, satisfying and addictive.
+
+  No photorealism, no 3D adventure character, no cinematic environments, no anime, no modern glossy UI, no realistic Unreal Engine visuals.
+
+  Best opening hook:
+   “CAN YOU GUESS THE 90s?”

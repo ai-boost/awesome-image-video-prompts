@@ -1,0 +1,30 @@
+id: seedance-toddler-traffic-light-city-adventure
+title:
+  en: Toddler in overalls beside a traffic light
+  zh: 穿背带裤的幼儿站在红绿灯旁
+model: Seedance 2.5
+mode: text-to-video
+category: dialogue
+tags:
+- toddler
+- traffic-light
+- educational
+- 3d-animation
+source:
+  name: '@abs_uiux on X'
+  url: https://x.com/abs_uiux/status/2108832872433893567
+  credit: Abkr Sadiq | AI
+  captured: '2026-10-29'
+  posted: '2026-10-10'
+video: https://x.com/abs_uiux/status/2108832872433893567
+notes:
+  en: A three second beat sheet fixes the character look and gives each vehicle one visible event with its exact on-screen word, so the timing and labels line up. Each segment describes one shot, which keeps a short educational clip easy to follow.
+  zh: 按三秒一段写分镜，固定角色外观，并为每种车辆安排一个可见事件和对应的屏幕文字，让时间与标签对应清楚。每段只描述一个镜头，适合短时长的启蒙视频。
+prompt: |
+  Create a fast, colorful 15-second 3D educational city adventure.
+  Main character: Cute toddler boy wearing blue overalls.
+  0–3 sec: A magical traffic light activates.
+  3–6 sec: Red car drives past. Display and said: “CAR 🚗”
+  6–9 sec: Big friendly bus stops beside him. Display and said: “BUS 🚌”
+  9–12 sec: Airplane flies overhead. Display and said: “AIRPLANE ✈️”
+  12–15 sec: Toddler waves while all three vehicles appear safely in the background. Display and said: “Let’s Go!”

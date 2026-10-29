@@ -1,0 +1,56 @@
+id: seedance-pirate-chef-parrot-galley-asmr
+title:
+  en: Pirate chef and parrot thief in galley
+  zh: 海盗厨师与偷食鹦鹉的船厨闹剧
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- asmr
+- slapstick
+- pixar-style
+- timed-beats
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2099186117769822462
+  credit: Saul Goodman
+  captured: '2026-10-29'
+  posted: '2026-09-13'
+video: https://x.com/Goodmanprotocol/status/2099186117769822462
+notes:
+  en: Six timed beats each pair a visual gag with a named sound cue such as sizzle, clang and record scratch, which sets the timing of the ASMR layer. A closing wide shot with ship creaks, ocean sounds and one accordion note gives the clip a clear ending.
+  zh: 六个带时间码的段落，每段都把一个视觉笑点和明确的声音提示（如滋滋声、叮当声、唱片刮擦声）配在一起，让 ASMR 的节奏清楚可控。结尾用船舱全景配上海浪、木船吱嘎声和一声手风琴，干净收尾。
+prompt: |
+  Create a 30-second Pixar-quality 3D animated ASMR comedy short aboard a warm, lantern-lit pirate ship galley.
+
+  STYLE: Premium cinematic 3D animation, expressive characters, polished feature-film quality, warm amber lighting, realistic food textures, cinematic depth of field, playful slapstick humor, gentle ship movement and crisp immersive food ASMR.
+
+  Characters: A large, burly, bearded pirate chef wearing a worn apron, and a mischievous bright-green parrot constantly trying to steal ingredients. Keep both characters visually consistent throughout.
+
+  0–4s
+
+  Extreme close-up of the parrot stealing a garlic bulb. The pirate's hand suddenly slams beside it. They freeze and stare at each other. Brief record-scratch silence. The pirate flicks the parrot away; it spins through the air and lands on a pot rack pretending nothing happened.
+
+  4–8s
+
+  The pirate rapidly chops garlic with crisp ASMR. The parrot tiptoes toward a tomato. Garlic hits hot oil with a huge sizzle, startling the parrot and sending it tumbling off the rack. Metal cups clang.
+
+  8–14s
+
+  Fast cinematic cooking montage: tomatoes sizzling, herbs being torn, olive oil pouring in golden slow motion, sauce bubbling and the pirate confidently stirring the skillet. Layer detailed chopping, sizzling, pouring and bubbling ASMR.
+
+  14–19s
+
+  The parrot spots the food and secretly tries to drag the skillet away. Its tiny body strains comically across the wooden floor. The pirate slowly turns around and stares. The parrot freezes while still holding the handle, then innocently whistles and lets go.
+
+  19–24s
+
+  The pirate finishes cooking with a dramatic skillet toss. Steam rises as the glossy dish is plated. The parrot watches hungrily, trying to look innocent.
+
+  24–30s
+
+  Instead of scolding the parrot, the pirate prepares a tiny plate of sauce and bread and slides it across the table. The parrot happily bounces and eats beside him. They exchange a satisfied look as the ship gently sways.
+
+  End with a wide cinematic shot of the cozy galley glowing under amber lanterns, subtle ocean sounds and wooden ship creaks, with one soft playful accordion note fading out.
+
+  No dialogue, no subtitles, no text. Maintain strong character consistency, natural physics, smooth animation, cinematic framing and detailed food ASMR throughout.

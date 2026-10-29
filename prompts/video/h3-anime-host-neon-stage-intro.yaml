@@ -1,0 +1,26 @@
+id: h3-anime-host-neon-stage-intro
+title:
+  en: Pink haired anime host on neon stage
+  zh: 粉发动漫主持人站在霓虹舞台
+model: MiniMax H3
+mode: text-to-video
+category: anime
+tags:
+- anime
+- japanese-dialogue
+- motion-graphics
+- neon
+source:
+  name: '@SSSS_CRYPTOMAN on X'
+  url: https://x.com/SSSS_CRYPTOMAN/status/2093821064631771446
+  credit: SSSS.CRYPTOMAN⚡️AI
+  likes: 40
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/SSSS_CRYPTOMAN/status/2093821064631771446
+notes:
+  en: Putting the character, the on screen headline and the spoken Japanese line in one prompt gives the model a single clear scene to animate. Asking for exaggerated gestures sets the energy of the performance.
+  zh: 把角色、画面大字标题和日语台词写进同一段提示，给模型一个清晰的画面目标。要求夸张的手势，设定了表演的能量感。
+prompt: |
+  日本の可愛い美少女アニメキャラクターがMiniMax H3 Maxの紹介をするショート映像。「MiniMax H3 Maxが無料で使える！」という文字をインパクトのあるモーショングラフィックで表現。女の子は大げさなモーションで、日本語で短い台詞を喋る

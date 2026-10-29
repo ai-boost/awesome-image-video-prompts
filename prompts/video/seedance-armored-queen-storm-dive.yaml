@@ -1,0 +1,51 @@
+id: seedance-armored-queen-storm-dive
+title:
+  en: Armored blonde warrior dives through storm clouds
+  zh: 身披银黑铠甲的金发女战士穿越风暴云层
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- dark-fantasy
+- multi-shot
+- timed-segments
+- armor-warrior
+source:
+  name: '@Noor_ul_ain43 on X'
+  url: https://x.com/Noor_ul_ain43/status/2097879315912552864
+  credit: Noor_ul_ain43
+  captured: '2026-10-29'
+  posted: '2026-09-10'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Noor_ul_ain43/status/2097879315912552864
+notes:
+  en: The 11 seconds are split into timed segments, each with its own camera move (aerial dive, frontal track, close-up), and style, camera and motion are then set out in separate labeled blocks. The closing list of negative constraints guards face, anatomy and bird count across cuts.
+  zh: 将 11 秒按时间段拆分，每段写明各自的机位运动（俯拍下坠、正面跟拍、特写），再用独立的风格、镜头和动作段落补充约束。结尾列出负面约束，防止镜头切换时脸部、肢体和鸟的数量出错。
+prompt: |
+  Create an 11-second cinematic dark-fantasy scene featuring a beautiful blonde female warrior queen wearing intricate medieval silver-and-black metallic armor and a delicate dark crown.
+
+  SCENE 1 — 0–3 seconds:
+  Begin with a dramatic top-down aerial shot. The warrior is flying/falling through thick stormy clouds with her arms stretched outward like she is diving through the sky. Her long blonde hair and pieces of her clothing move naturally in the powerful wind. Far below, a vast fantasy landscape is barely visible through the mist. The camera rapidly moves downward toward her while maintaining a powerful cinematic perspective.
+
+  SCENE 2 — 3–5 seconds:
+  Transition smoothly into a frontal tracking shot as she moves through the clouds. Her armored shoulders and arms remain extended. Her expression is serious, fearless and emotionally intense. Soft sunlight breaks through the clouds behind her, creating a dramatic halo around her silhouette. Tiny particles and mist pass rapidly across the camera lens.
+
+  SCENE 3 — 5–9 seconds:
+  Cut into an extreme cinematic close-up of her face. A huge majestic black raven/eagle suddenly flies beside her face, its dark feathers contrasting against her pale skin and blonde hair. The bird moves extremely close to her, almost touching her cheek. Feathers are released into the air and float dramatically around them. She looks directly ahead with an intense, mysterious expression.
+
+  SCENE 4 — 9–11 seconds:
+  The bird slowly moves away while she turns her head toward it. Her expression changes subtly from determination to curiosity and emotion. Wind continues moving her hair and armor naturally. The background remains filled with bright clouds and atmospheric mist.
+
+  VISUAL STYLE:
+  Epic high-budget fantasy film, photorealistic CGI, dark medieval fantasy, dramatic natural lighting, realistic metallic armor, highly detailed skin and hair, volumetric clouds, atmospheric fog, floating feathers, realistic bird movement, cinematic depth of field, subtle film grain, anamorphic lens characteristics, rich shadows, dramatic contrast, sophisticated color grading.
+
+  CAMERA:
+  Smooth aerial tracking, fast cinematic push-in, gradual transition to extreme close-up, shallow depth of field, realistic handheld micro-movement during the close-up, carefully controlled focus pulls, cinematic composition.
+
+  MOTION:
+  Natural wind physics, realistic hair movement, physically accurate feathers, believable bird flight, flowing fabric, subtle facial expressions and eye movement. No exaggerated or cartoonish motion.
+
+  MOOD:
+  Mysterious, powerful, emotional, majestic, supernatural and epic — like a scene from a premium dark-fantasy feature film.
+
+  Maintain consistent facial identity, anatomy and armor throughout the entire video. No face distortion, no extra limbs, no duplicated bird, no unnatural body movement, no text, no subtitles, no watermark.

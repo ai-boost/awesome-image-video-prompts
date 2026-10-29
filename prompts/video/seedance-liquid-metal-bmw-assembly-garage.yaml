@@ -1,0 +1,24 @@
+id: seedance-liquid-metal-bmw-assembly-garage
+title:
+  en: Liquid metal assembles into a matte black BMW
+  zh: 液态金属在车库中组装成哑光黑宝马
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- liquid-metal
+- transformation
+- bmw
+- car-showcase
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2109495654607446267
+  credit: Sᴀɪʀᴀ
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+video: https://x.com/itsSaira_1/status/2109495654607446267
+notes:
+  en: The prompt sequences the build from chassis and engine to body panels and then headlights, so the transformation reads as clear steps. The closing camera orbit reveals finished details like the calipers and wheels, and the 4k photorealistic wording sets the render style.
+  zh: 提示词按底盘和引擎、车身覆盖件、车灯的顺序描述组装过程，让变形步骤清晰可读。结尾的环绕运镜展示成品细节如卡钳和轮毂，4k 与写实等词设定画面风格。
+prompt: |
+  A hyper-realistic cinematic shot in a dimly lit underground concrete parking garage. A glossy, black liquid-metal blob pools on the ground, suddenly shooting out tendrils that rapidly assemble to build a high-performance matte black BMW sports car from the chassis and engine up. Body panels fold seamlessly into place, the LED headlights flash on, and the camera pans around the finished vehicle revealing blue brake calipers and custom black wheels. 4k resolution, photorealistic, smooth fluid motion.

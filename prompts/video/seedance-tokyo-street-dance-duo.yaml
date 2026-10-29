@@ -1,0 +1,83 @@
+id: seedance-tokyo-street-dance-duo
+title:
+  en: Two dancers in golden-hour Tokyo dance studio
+  zh: 黄金时刻东京舞蹈工作室双人舞
+model: Seedance 2.5
+mode: reference-to-video
+category: music-dance
+tags:
+- dance
+- tokyo
+- beat-sync
+- reference-images
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2107691578605322348
+  credit: Mira Sterling
+  captured: '2026-10-29'
+  posted: '2026-10-07'
+video: https://x.com/Chaemate_/status/2107691578605322348
+notes:
+  en: The prompt drives the choreography from a second by second timeline locked to a 120 BPM beat grid, so each move lands on a beat. Reference images lock both dancers' faces and outfits, and each scene has its own written camera plan.
+  zh: 提示词把每一秒的动作写成时间轴并对齐120 BPM的节拍，让每个动作都落在拍点上。参考图锁定两位舞者的脸和服装，每个场景还单独写明镜头运动。
+prompt: |
+  15-second cinematic 16:9 ultra-realistic live-action Tokyo street-style dance video.
+
+  TWO JAPANESE FEMALE DANCERS ONLY.
+
+  IDENTITY LOCK:
+  Preserve @image1 exact face, facial structure, eyes, nose, lips, eyebrows, hairstyle and identity.
+  Preserve @image2 exact face, facial structure, eyes, nose, lips, eyebrows, hairstyle and identity.
+  Keep their exact reference outfits and accessories in every scene. Natural human proportions. Do not alter either face at any moment.
+
+  MUSIC (drives all the action):
+  Upbeat Japanese city-pop x dance-pop track, 120 BPM (one beat every 0.5s). Funky slap bass, bright synth stabs, snappy claps, light female vocal hook. Structure: intro groove (0–5s), bass-heavy main drop (5–10s), breakdown with a final hit (10–15s). Every movement lands exactly on the beat, and the energy of the choreography follows the music.
+
+  DANCE STYLE:
+  Playful, cool and confident, a mix of commercial hip-hop, city-pop groove and K-pop performance energy. Teasing eye contact, small smirks, shoulder accents. Stylish and controlled, never exaggerated. Sync moments where both dance together, and mirror moments where they play off each other.
+
+  SCENE 1 (0–5s): Minimalist dance studio at golden hour
+  Grey concrete wall, polished floor with soft reflections, a large window showing the Tokyo skyline at sunset. Warm light spilling across the floor.
+  0.0–1.0s: Both walk into frame side by side, snap to a stop on the first bass note, quick shoulder hit.
+  1.0–2.0s: Sharp right-arm sweep across the chest, step sideways, then left arm snaps outward with a hip accent.
+  2.0–3.0s: Chest isolation into shoulder roll, and one dancer playfully touches her hair while the other points at the camera.
+  3.0–4.0s: Two-step footwork with alternating arm punches, then arms cross and rapidly open on the synth stab.
+  4.0–5.0s: Synchronized body lean right then left, with one arm sweeping over the head. On the final beat they spin and whip-pan toward the window.
+
+  TRANSITION: Fast whip-pan with natural motion blur, matched to the beat. No glitch or CGI effects.
+
+  SCENE 2 (5–10s): Neon alley in Shibuya at night
+  Wet pavement reflecting pink and blue neon signs, paper lanterns, light drizzle mist, a few blurred pedestrians far in the background.
+  5.0–6.0s: The bass drops. Both step toward the camera with a confident synchronized arm gesture.
+  6.0–7.0s: Low hip-hop bounce with bent knees, two shoulder hits, then a controlled body roll and a sharp hand flick.
+  7.0–8.0s: Dancers split: one slides left, the other right, mirrored arm waves from low to shoulder height, then they swap places.
+  8.0–9.0s: Quick foot switch, strong downward arm hit, a playful look back over the shoulder at the camera.
+  9.0–10.0s: Rise sweeping both arms diagonally up, a sharp head turn with hair movement, and neon light flares across their faces.
+
+  TRANSITION: Hard cut on the beat to a rooftop, with a small camera push-through for continuity.
+
+  SCENE 3 (10–15s): Rooftop at blue hour, city lights glowing behind
+  Soft blue twilight sky, glittering skyline, gentle breeze moving hair and clothing.
+  10.0–11.0s: The music breaks down. Slow confident walk toward the camera, hips swaying lightly on each beat.
+  11.0–12.0s: Smooth finger-snap isolations and a gentle hair flip, with shared eye contact between the two.
+  12.0–13.0s: Music snaps back. Fast synchronized combo: arm cross, open, shoulder hit, jump-step.
+  13.0–14.0s: Both step into a symmetrical formation: one hand on the waist, the other extended outward.
+  14.0–15.0s: Final confident pose toward camera, playful smile and strong eye contact, a brief freeze on the last beat.
+
+  CAMERA:
+  Scene 1: low-to-medium full-body framing, subtle forward tracking, then a small lateral slide.
+  Scene 2: handheld micro-movement, tracking alongside the dancers, subtle push-in on the drop.
+  Scene 3: slow arc around the dancers, ending with a short cinematic hold.
+  Smooth and physically realistic. No excessive shaking, no random zoom. Both dancers always clearly visible. Natural depth of field, tiny lens parallax, realistic motion blur only on fast moves.
+
+  PERFORMANCE:
+  Clean, fast choreography with natural weight transfer, realistic foot contact, natural knee and hip articulation, believable arm momentum. Hair and clothing react naturally to movement.
+
+  LIGHTING & COLOR:
+  Scene 1: warm golden-hour light with soft shadows. Scene 2: neon pink and blue rim light on wet surfaces. Scene 3: cool blue-hour ambience with warm city-light highlights. Cinematic color grading, clean natural skin tones, controlled contrast, soft filmic dynamic range, premium Japanese fashion-film look.
+
+  REALISM:
+  Ultra-realistic live-action humans, visible skin texture and pores, individual hair strands, realistic eye reflections, physically accurate fabric and shadows.
+
+  STRICT NEGATIVE:
+  No plastic skin, no CGI, no anime, no 3D render, no beauty filter, no stiff or robotic movement, no facial morphing, no face replacement, no identity change, no hairstyle or outfit change, no glowing eyes, no extra fingers or limbs, no duplicated dancers, no body distortion, no text or watermarks, no teleportation.

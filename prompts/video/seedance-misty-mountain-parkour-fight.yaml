@@ -1,0 +1,52 @@
+id: seedance-misty-mountain-parkour-fight
+title:
+  en: Mossy terrace stairs and bamboo poles in mist
+  zh: 苔藓石阶与竹竿，置身薄雾之中
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- parkour
+- martial-arts
+- multi-shot
+- reference-lock
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2113558308514922850
+  credit: Mira Sterling
+  captured: '2026-10-29'
+  posted: '2026-10-23'
+video: https://x.com/Chaemate_/status/2113558308514922850
+notes:
+  en: Anchors the protagonist to an @image reference and gives each of six timed shots its own camera move and field of view, with hard cuts that keep direction matched. Every hit names the enemy's reaction, which keeps a long chain of opponents readable on screen.
+  zh: 用 @image 参考图锁定主角外观，并为六段定时镜头各自指定运镜和视场角，硬切时保持运动方向一致。每次击中都写明敌人的反应，让长串对手的动作在画面中清晰可读。
+prompt: |
+  16:9 widescreen, cinematic live-action, 15 seconds, high-momentum parkour fight in a continuous-feeling sequence. Hard cuts only between shots, no dissolves, morphs or transitions; motion and direction match across every cut. No dialogue; only natural footsteps, fabric, splashes and impact sounds.
+
+  PROTAGONIST: @image 1 (facial identity, hair, rose-pink streaks, long side braid, plum shirt and cream cargo trousers locked to the reference throughout). Her movement is sharp, decisive and fluid. She dominates the entire fight and takes down ten masked attackers in a rapid chain.
+
+  OPPONENTS: Ten masked "Ashen Guard" fighters in charcoal hooded rain coats and slate face wraps, armed with bamboo staffs and short batons. They close in from above, from the sides and from behind. Every one is hit cleanly and reacts visibly: knocked back, off-balance, or thrown into a wall, rack or railing before leaving frame. The next attacker steps in immediately.
+
+  SETTING: An abandoned terraced tea plantation on a steep misty mountainside just after rain. Mossy stone terrace walls, narrow wet stone staircases, a shallow water-filled irrigation channel running down the slope, a collapsed wooden footbridge with a gap, rusted tea-drying racks, leaning bamboo scaffolding and a thin waterfall at the cliff edge. Low golden sun cuts in from the side through light haze. Palette: moss green, wet slate grey, warm amber, deep plum. Kicked-up water spray, mud flecks, torn tea leaves and mist react to every impact. Realistic natural lighting only.
+
+  SHOT 1 (0-2.5s) Low-angle, ground level, FOV 35 degrees. She bursts up from the bottom of the stone terrace, launches off a step and drives a flying front kick into attacker 1's chest, throwing him back into a stone wall. She lands and slides sideways under attacker 2's staff swing, then snaps a rising elbow to his chin; he drops flat into the wet tea bushes.
+
+  SHOT 2 (2.5-5s) Tracking from the side, FOV 40 degrees. She plants her foot on the mossy terrace wall, runs three steps up it and delivers a diagonal kick to attacker 3, who loses balance and tumbles down the staircase. Without pause she uses a leaning bamboo pole to spring into the air and drives a knee into attacker 4, who collapses onto the stones.
+
+  SHOT 3 (5-7.5s) Camera glides close to the ground and sweeps upward, FOV 30 degrees. She sprints downhill in a low crouch under hanging bamboo and ropes, spins into a sweeping kick that sends attacker 5 crashing into a rusted tea rack. Hand-plant roll, then a flying kick into attacker 6, who skids backward into the edge of the terrace wall.
+
+  SHOT 4 (7.5-10s) Camera orbits her, FOV 32 degrees. She slides on her knees through the shallow irrigation channel, throwing up a wide sheet of water, and pops up at the collapsed footbridge. She vaults the gap and twists mid-air to ram her shoulder into attacker 7, sending him to the terrace below. She lands, catches a bamboo pole thrown by attacker 8, plants it and pole-vaults, driving both feet into attackers 8 and 9, who fly in opposite directions.
+
+  SHOT 5 (10-12.5s) Camera pushes forward as if chasing, then pulls back fast, FOV 38 degrees. She runs along the leaning bamboo scaffolding, then back-flips over attacker 10's sneak attack from behind. Mid-air she twists and lands a back kick between his shoulder blades, sending him rolling forward down the slope.
+
+  SHOT 6 (12.5-15s) Camera drops to a low wide angle, FOV 30 degrees, then locks front-on at eye level. She lands and slides through a puddle in a low crouch, water spraying around her, then rises into a sharp ready stance. Her braid and the hem of her shirt are still swinging from the speed. The sequence ends sharply on this strong, still pose, final frame in crisp focus.
+
+  CAMERA: Momentum-driven tracking that follows her center of gravity (jumps, wall-runs, pole vault, kicks) rather than sitting static. Reactive impact cinematography: a sharp small shake on every hit, the camera briefly following a thrown opponent, then snapping back to her. Natural motion blur on fast moves.
+
+  PACING: Speed builds through the explosive moments. Her actions are clear and decisive; enemy reactions are fast and heavy. No slow motion, no pauses, no posed moments, no wasted movement.
+
+  VISUAL QUALITY: Ultra-high definition, cinema grade, realistic skin, fabric and water physics, live-action photographic look.
+
+  POSITIVE LOCKS: Pink streaks stay a soft rose tone, braid stays on her right shoulder, plum shirt and cream cargo trousers unchanged, boots and gloves unchanged, exactly ten attackers in charcoal coats and slate face wraps.
+
+  CONSTRAINTS: At least ten enemies, all hit. No empty kicks; every strike connects. No repeated moves. No fantasy light effects, no neon colors, no neon glow, no cartoon or CGI-style look, no distorted limbs, no clipping or objects passing through each other, no stuttering motion, no extra people, no text or watermarks.

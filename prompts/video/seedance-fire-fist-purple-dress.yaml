@@ -1,0 +1,25 @@
+id: seedance-fire-fist-purple-dress
+title:
+  en: Woman launches flaming fist toward camera
+  zh: 紫裙女子拳握火焰直冲镜头
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- fire
+- fantasy
+- fight
+- anamorphic
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2108498562199753052
+  credit: Zyrellix
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2108498562199753052
+notes:
+  en: The prompt lays out the shots in order, a low tracking shot, then close shots, then a wide shot, so the model can follow a clear sequence. Specific costume and hair details, plus a warm key light against a cool gray sky with volumetric smoke and anamorphic flares, lock in the cinematic look.
+  zh: 提示词按顺序写出各个镜头：低角度追踪、特写、全景，模型就能依次跟随。服饰和发型细节写得具体，再加上暖橙主光、冷灰天空、体积烟雾和变形宽银幕光斑，统一了电影质感。
+prompt: |
+  Cinematic fantasy fight, East Asian woman, long black hair with blunt bangs, gold chandelier earrings, deep-purple off-shoulder ruffled velvet dress. She thrusts a clenched fist straight at the camera, the fist wrapped in a roaring orange fireball with sparks and heat distortion. Fast low tracking shot as a streak of flame tears across scorched ground past broken wooden tank traps and barbed wire under a smoke-filled sky. She spins into a combat stance, both fists glowing, a ring of fire whipping around her as her hair lashes sideways. She launches into the air above a burning soldier, then floats at the center of radial beams of fire exploding outward like a sunburst. A massive firestorm wall rises behind her as she hovers, fists lit. Close-ups of her intense, calm face against swirling flames, then a wide shot of her standing alone in a ruined field of debris, small fires, and drifting ash, one hand still burning. Volumetric smoke, ember particles, warm orange key light against a cool gray sky, shallow depth of field on close-ups, anamorphic flares, 24fps, photoreal, high detail.

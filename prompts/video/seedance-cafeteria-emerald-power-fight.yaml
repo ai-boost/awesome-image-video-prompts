@@ -1,0 +1,45 @@
+id: seedance-cafeteria-emerald-power-fight
+title:
+  en: Girl summons green energy in school cafeteria
+  zh: 女孩在学校食堂召唤绿色能量
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- superhero
+- school-cafeteria
+- energy-powers
+- handheld-camera
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2096147092188311749
+  credit: Strength04_X
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Strength04_X/status/2096147092188311749
+notes:
+  en: The prompt reads as a shot list, with a handheld walk, a beat-by-beat power-up and a fight where each beat gets its own camera move. Fixed wardrobe and setting details keep the character consistent across cuts.
+  zh: 提示词写成分镜清单，依次是手持跟拍走过餐厅、逐个节拍的能量觉醒，以及每个节拍都配有独立镜头运动的打斗。固定的服装与场景细节让人物在多个镜头之间保持一致。
+prompt: |
+  Create a cinematic, photorealistic 30-second live-action video set inside a modern American high school cafeteria during lunch. A beautiful young female student with shoulder-length blonde hair, wearing a loose gray hoodie, dark jeans, white sneakers and a black backpack, walks between crowded tables while students eat, talk and interact around her.
+
+  Start with a natural medium shot of the girl walking through the busy cafeteria. Use realistic handheld camera movement, shallow depth of field, warm cinematic lighting, natural skin texture, realistic facial expressions and authentic high-school atmosphere.
+
+  As she reaches the center of the cafeteria, a male student suddenly knocks a tray from her hands. She looks down for a moment before slowly raising her palms. A mysterious emerald-green energy begins glowing around her fingers. Tiny particles and sparks rise from the floor as a supernatural aura develops around her body.
+
+  Transition smoothly into an intense superhero-style action sequence. The male student charges toward her, but she quickly sidesteps and moves behind him with extraordinary speed. She performs a series of precise martial-arts-inspired strikes, powerful kicks and rapid defensive movements while green energy follows her hands and feet.
+
+  Use cinematic slow motion during the strongest impact, followed by rapid handheld cuts. Students quickly leave their tables and move toward the cafeteria walls. Chairs slide across the floor while trays and cups fall naturally. Emerald light reflects realistically across tables, windows and characters, with subtle volumetric lighting, dust, sparks and motion blur.
+
+  Include a dramatic moment where the girl performs a powerful flying kick surrounded by bright emerald energy, sending the opponent backward into an empty row of tables.
+
+  Near the end, silence returns to the cafeteria. The glowing energy fades away and she calmly picks up her backpack and walks toward the doors. End with a medium close-up of her face with a calm, confident expression.
+
+  Visual style: photorealistic Hollywood superhero movie, cinematic color grading, realistic teenage/high-school environment, detailed faces, natural skin, realistic clothing and hair physics, realistic lighting, subtle film grain, shallow depth of field, professional cinematography, dynamic camera movement, high-detail VFX, realistic particle effects, 4K cinematic quality.
+
+  Camera: handheld tracking shots, medium shots, close-ups, low-angle action shots, smooth whip-pans, controlled motion blur, occasional slow motion during attacks.
+
+  Aspect ratio: 16:9.
+  Duration: approximately 30 seconds.
+  No text, no subtitles, no logos, no watermark, no distorted faces, no extra fingers, no unnatural anatomy.

@@ -1,6 +1,6 @@
 # VFX and transformations
 
-[Back to the list](../../README.md) · All 35 entries
+[Back to the list](../../README.md) · All 69 entries
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### Giant girl kneeling over a Tokyo crossing
@@ -946,6 +946,47 @@ Strict prohibitions: no on screen text, no titles, no logos, no watermarks, no b
 
 </details>
 
+<a id="h3-shapes-mascot-learning-animation"></a>
+### Animated mascot teaches four basic shapes
+
+<a href="https://x.com/Strength04_X/status/2084586713205317678"><img src="../../previews/h3-shapes-mascot-learning-animation.jpg" width="360"></a>
+
+A timed beat sheet gives each shape the same fixed sequence of shape, narration, object, action and on-screen word, so the model repeats one structure four times. Writing the narrator lines word for word and tying each word to its own highlight colour keeps the sound cues and visuals in sync.
+
+MiniMax H3 · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2084586713205317678) · 61 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`educational`](tags.md#tag-educational) [`kids`](tags.md#tag-kids) [`shapes`](tags.md#tag-shapes) [`mascot`](tags.md#tag-mascot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second animated educational video that teaches young children the shapes Circle, Square, Triangle, and Star.
+
+Learning pattern for every shape:
+SHAPE → NAME SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME
+Target audience: children ages 3 to 6
+
+Visual style: Same premium-cute aesthetic pastel colors, rounded 3D forms, soft lighting, minimalist off-white background, unique glow color per shape, crisp bold typography, polished smooth morphing transitions.
+
+0:00–0:01 Intro: Mascot bounces in, shapes float briefly, text "Let's learn shapes!", tap reveals first shape with a ripple.
+
+0:01–0:04 | Circle is for Orange: A perfect circle appears. Narrator: "Circle. Round and round. Circle is for Orange." Circle gains texture and a tiny stem, becomes a smiling orange, bounces once. Word "ORANGE," highlight shape outline in orange.
+
+0:04–0:07 | Square is for Gift Box: The orange rolls and reshapes into a square. Narrator: "Square. Four equal sides. Square is for Gift Box." Square gains a ribbon and bow, wiggles playfully. Word "GIFT BOX," highlight in purple.
+
+0:07–0:10 | Triangle is for Mountain: The ribbon folds into a triangle. Narrator: "Triangle. Three sides. Triangle is for Mountain." Triangle grows a snowy peak and a small smiling sun beside it. Word "MOUNTAIN," highlight in brown/teal.
+
+0:10–0:13 | Star is for Sky: The mountain peak stretches into a star. Narrator: "Star. Star is for Sky." Star twinkles softly with tiny sparkles floating around it, gentle glow pulse. Word "STAR," highlight in golden yellow.
+
+0:13–0:15 Recap: Orange, gift box, mountain, star line up in four tiles with shape outlines above. Mascot points to each in sequence.
+
+Narrator: "Circle, Square, Triangle, Star. Great job!" Sparkle + warm chime.
+
+Requirements: Each shape fully visible before morph, uppercase-clarity level precision on shape edges, no warped or duplicated forms, gentle motion only, synced sound cues, calm and beautifully polished finish.
+```
+
+</details>
+
 <a id="h3-one-man-through-history-future-war-time-journey"></a>
 ### One man transforms across history into a future war
 
@@ -1048,6 +1089,384 @@ MiniMax H3 · Reference-to-video · Source: [@TechieBySA on X](https://x.com/Tec
 
 ```text
 A cinematic creation film follows one maker reconstructing the main subject shown in the referenced image completely from scratch. The referenced image defines the finished subject’s complete visible appearance, proportions, structure, materials, colors, clothing or surface details, and distinctive features; ignore its background, framing, lighting, and unrelated elements.  Begin directly on an empty, clean virtual workbench. Use a stable front three-quarter overhead view that keeps the developing subject readable. There is one maker throughout, represented by the same consistent left and right hands and forearms. Show no more than two hands at once.  From 0 to 14 seconds, the entire creation unfolds as a clearly accelerated timelapse with rapid, purposeful hand movement and restrained motion blur. Short jump cuts compress repetitive manual work only after each action has visibly completed. Every cut inherits the exact form and progress left by the previous action.  0-2 seconds: One hand enters already holding the first foundation material, armature, or base element appropriate to the referenced subject and places it at the center. The second hand steadies it as the maker establishes the initial supporting form.  2-8 seconds: The maker rapidly develops the subject’s major structure and volumes using one coherent creation method appropriate to what the referenced image depicts. A living subject is sculpted as one continuous, non-gory digital form from armature to anatomy; a vehicle or machine is built from chassis to functional structure; an object is formed or assembled from its supporting body outward. Each additional material or component enters from outside the frame while firmly held by one of the maker’s hands, is carried to its destination, and remains under hand control until attached or shaped.  8-12 seconds: The same hands develop the recognizable outer form and reference-specific features. The maker sculpts, fits, wraps, stitches, fastens, carves, or polishes only where appropriate to the subject. Facial features, hair, clothing, body panels, wheels, glass, surfaces, accessories, or equivalent defining elements emerge through visible hand and tool contact, never through spontaneous transformation.  12-14 seconds: The maker refines proportions, edges, joints, surface transitions, textures, colors, and distinctive details until the developing subject closely matches the referenced image. One hand stabilizes the form while the other performs each final adjustment with a hand-held tool.  14-15 seconds: The maker removes the last tool by hand and withdraws both hands. The timelapse returns to normal speed as the camera makes a restrained push toward the completed subject and holds on a clean final view.  Materials and components do not need to be visible before use, but anything newly introduced must enter the frame already held by one of the maker’s hands. Nothing moves, assembles, appears, disappears, or changes material independently. Maintain one maker, one continuous subject, one creation position, and one category-appropriate construction method. No assistants, extra hands, detached anatomy, duplicated elements, magical morphing, drawing phase, software interface, cursor, menus, annotations, or text overlays.
+```
+
+</details>
+
+<a id="h3-found-footage-fisherman-doppelganger"></a>
+### Fisherman reels in on a quiet lake
+
+<a href="https://x.com/cocktailpeanut/status/2084842607411335284"><img src="../../previews/h3-found-footage-fisherman-doppelganger.jpg" width="360"></a>
+
+Tying the whole clip to a cheap action camera mounted in the boat, with imperfect autofocus and clipped audio, makes the found footage realism hold. Ordering the story as concrete beats and closing on a hard cut to black gives the model a clear arc to follow.
+
+MiniMax H3 · Text-to-video · Source: [@cocktailpeanut on X](https://x.com/cocktailpeanut/status/2084842607411335284) · 43 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`horror`](tags.md#tag-horror) [`found footage`](tags.md#tag-foundfootage) [`fishing`](tags.md#tag-fishing) [`handheld`](tags.md#tag-handheld)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"Hyper-realistic found-footage horror video, filmed by a cheap action camera mounted inside a small fishing boat on a quiet lake. A lone fisherman violently reels in something heavy. He pulls up a muddy smartphone tangled in weeds. He answers, breathing hard. A distorted voice says, "Finally. I’ve been trying to switch places with you." The phone flashes blinding white and the footage glitches. When the image returns, the phone shows the terrified fisherman trapped inside its screen, silently pounding on the glass. Behind him, an identical soaking-wet fisherman slowly climbs out of the lake into the boat, notices the camera, and reaches toward the lens. Abrupt cut to black. Raw handheld realism, imperfect autofocus, clipped audio, no music, no stylization."
+```
+
+</details>
+
+<a id="h3-kintsugi-sword-loop"></a>
+### Sword cracks and re-forms in gold kintsugi loop
+
+<a href="https://x.com/Cia0_exe/status/2083525563491524882"><img src="../../previews/h3-kintsugi-sword-loop.jpg" width="360"></a>
+
+A reference image is locked to the character and the sword, and the prompt lists every feature that must not change. A timed beat sheet with lens and sound cues for each segment, plus a rule that the last frame matches the first, keeps the loop closed.
+
+MiniMax H3 · Reference-to-video · Source: [@Cia0_exe on X](https://x.com/Cia0_exe/status/2083525563491524882) · 40 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`kintsugi`](tags.md#tag-kintsugi) [`seamless-loop`](tags.md#tag-seamless-loop) [`reference-lock`](tags.md#tag-reference-lock) [`ink-wash`](tags.md#tag-ink-wash)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+#MiniMaxH3 in Chinese:
+
+15秒 | 16:9 | 1440p | 24fps | 无缝循环
+
+[角色锁定] 完全按照 @image1 呈现，不进行任何重新设计。蓬松的蓝灰色波浪短发，刘海垂落遮住上半张脸；面容清秀，唇色偏暖；珊瑚朱红色宽袖长袍，腰间层层缠绕的宽腰带，深色内衬；持剑手戴深色手套。长剑：华丽的银金巴洛克护手与柄头，镜面剑身映出真实的天空与云。全片不得改动发量与卷曲走向、刘海遮眼的方式、袍身轮廓、腰带缠法、手套、护手纹样与剑身比例。
+
+[循环 · 核心设定] 剑身自第一帧起就已布满一张固定的旧金脉之网——那是它此前碎裂并被金继修补留下的痕迹。本片是这一循环中的又一次：它沿着既有金脉再次裂开，碎片散去，熔金重新灌回同样的裂缝，恢复成完全相同的样子。不增添任何新金脉、不改变其走向与数量。最后一帧须与第一帧完全一致。
+
+[剑的恒定 · 最高优先级] 重铸后的剑必须与开场完全相同：长度、宽度、弧度、剑尖、护手雕花、柄头、缠柄、镜面质感、金脉走向数量粗细、刻痕位置，逐一对应。严禁任何形态变化——不得变长变大、不得生出新纹饰或棱刺、不得产生光晕或能量外溢、不得改变颜色材质、不得出现任何“进化”“觉醒”“强化形态”式转变。金只填回原有裂缝，绝不溢出剑身之外、绝不覆盖镜面。
+
+[解剖锁定 · 最高优先级] 全片有且仅有一名人物：两条手臂、两只手、每只手五指、一把剑。严禁多余的手臂、手掌、手指或第二把武器。高速转身与运动模糊中，残影绝不可被渲染成额外肢体。手部每帧结构完整、指节分明；戴手套的手握柄，空出的手须清晰可见且有明确朝向。
+
+[沉浸 · 观众入画] 画面本身是一张真实存在的和纸，镜头是观众伸进这个世界的一只眼睛，世界会反过来影响它。
+一、画面裂纹：0.9 秒剑开裂的同一帧，一道极细的裂纹自画面中心向四角蔓延，如同观看的这块玻璃也被划开；裂纹全片存在并缓慢加深，10.8 秒起被金继之金一并填补，13.8 秒前完全消失。
+二、纸的边界：画面四边的和纸纤维始终微微起伏，重击时被掀起并向内卷曲，露出纸的毛边。
+三、墨上镜头：3.2 秒的长弧甩出的墨点直接溅在镜头上，附着后沿纸纤维缓慢晕开，随后逐渐变淡，13.8 秒前完全干透消失。
+四、倒影中的观众：2.2 秒与 13.4 秒各有一片碎片旋转至极近处，其镜面中短暂映出镜头本身与其外的一片天光，仿佛观众看见了自己所在的位置——只出现一瞬即转开。
+五、沉入：7.0 至 8.8 秒，墨云直扑镜头并将其吞没，镜头沉入墨中——四周被浓墨包裹，仅上方透出天光与她的剪影，纸纤维如絮状物在“水中”缓缓漂过，画面轻微起伏如同随液体晃动；8.8 秒墨向下退去，镜头破“水面”而出。
+所有以上效果必须在 13.8 秒前彻底清除，最后一帧的画面须与第一帧一样干净。
+
+[场景 · 明亮] 高空之上，正午。头顶通透饱和的湛蓝天空，向地平线渐变为明亮浅色薄雾；脚下极远处是被阳光照亮的洁白积云海。她悬浮其中——无地面、无建筑、无道具。金箔长带随上升气流飘过。全片阳光充沛、明亮通透，绝不转阴、绝不去饱和。
+
+[色彩] 天空 #2E6FA8 渐变至 #CFE3EF。长袍珊瑚朱红 #D9563F，褶皱 #A63A2A。头发蓝灰 #8CA3B8，边缘接暖色轮廓光。手套与内衬 #14161C。护手做旧银金。碎片映出真实蓝天白云。墨为纯黑 #0A0A0C。金脉为哑光金箔 #C9962E，熔金前沿炽白金 #FFEBB0，冷却后回到完全相同的 #C9962E。
+
+[风格与质感] 水墨画与照相级玻璃的融合。整个画面覆盖极淡的和纸纤维质感；天空与云以水墨渲染，边缘晕开带枯笔飞白；人物与剑为完全清晰的实体渲染，如实体嵌在画中。金为真实金箔——极薄、有褶皱、氧化磨损、受光不均。碎片有真实厚度与内部裂纹，每片映出不同的云。发丝逐根渲染，逆光半透明；袍料厚重，褶皱有真实重量与回弹；护手雕花凹处压暗。胶片高光滚降，金上柔和光晕，细腻颗粒。
+
+[特效] 逐级升级：剑锋所过之处墨如入水般翻卷晕开；金箔自长带剥落飘散；墨与金彼此排斥绝不相融，如大理石纹互相推挤；高速动作拖出枯笔飞白擦痕；每次重击有一帧纯墨黑剪影；熔金沿裂缝奔流，前沿炽白，其后冷却为哑光金箔。
+
+[动画法则] 每个动作遵循预备—爆发—收势：出手前明确反向蓄势，爆发只占少数帧，收势有减速与轻微过冲后回位，绝不匀速。发丝、宽袖、袍摆、腰带末端各以不同延迟跟随身体，绝不同步启停。所有轨迹为弧线。高空中一切略带浮力感。杜绝任何僵硬、停顿或不自然的关节角度。
+
+[逐拍动作]
+0.0-1.4 她双手垂落，右手握剑于身侧偏后，剑斜指下方，头微低、刘海遮眼；仅呼吸使胸口微起伏。剑沿一道既有金脉裂开，手指本能收紧一下。
+1.4-3.2 剑沿所有金脉同时裂开脱手，碎片向外散开，断口边缘皆为原有的金。右手仍维持握持姿势停在半空，指节微张；左手抬至胸前，掌心向上；头始终微低。
+3.2-5.2 右手将空柄自身侧向斜上方划出完整长弧，腰胯先行带动肩背，宽袖甩开翻卷；收势时手腕轻微过冲后回位，左手向后平展保持平衡。
+5.2-7.0 侧身转体半周，重心自右脚移至左脚，袍摆螺旋展开；转身中右手将空柄换至身前反握，左手抬至面侧。
+7.0-8.8 虚空中一蹬，身体略下沉蓄势，双臂猛地向两侧张开召回碎片；随后双臂收拢至胸前，掌心相对，碎片锁定成环。
+8.8-10.8 一次真实的挥臂与转身，被不同渲染风格切分呈现。
+10.8-13.0 右手缓缓翻转、掌心向上再合拢，碎片沿手臂旋绕归位；剑成形时五指依次收紧扣柄，手臂承力下沉半寸，肩线压低。
+13.0-13.8 第一次抬起头，刘海被气流分开露出双眼，平视镜头；手腕转动一周使金脉迎光。
+13.8-15.0 缓缓垂下手腕，剑回到身侧偏后斜指下方；头重新低下，刘海落回遮眼，左手垂落身侧——完全回到第一帧姿势。
+
+[表演] 全片沉静克制。碎裂时无惊慌，只有指节一次收紧；召回时下颌微抬、呼吸加深；金脉合拢时嘴角极细微的松动；抬头对视时眼神平静笃定；垂下头时回归最初的静默。
+
+[署名] 剑身护手上方刃根处刻有 CIA0（大写 C、大写 I、大写 A、数字零；末位是数字零而非字母 O），小号宽字距镌刻大写，是剑本身的一部分，绝非叠加图层。刻痕内自第一帧起已嵌金，重铸后完全相同，绝不变亮变大或增添装饰。
+
+[文字 · 墨落纸上] 所有文字为湿润毛笔书法渗入画面本身的和纸纤维：落笔带刷毛痕迹与枯笔断白，墨沿纤维晕开一拍后随纸干淡去。拉丁文为厚重镌刻衬线，日文为浓墨重笔竖排于侧三分之一。文字位于她身后并被遮挡，绝不覆盖面部。以下须原样逐字呈现：
+0.8秒「墨」竖排右三分之一
+2.4秒 "IT HAS BROKEN BEFORE" 单行靠左
+5.0秒 "EVERY CRACK" / "REMEMBERS THE SKY" 两行堆叠靠左
+7.6秒「金継」竖排左三分之一，墨将干时自笔画渗出金色
+10.6秒 "AND WILL AGAIN" 先落墨再被金箔灌满
+13.2秒 居中标题组：「天墨」上方，"INKFALL" 下方，须在 14.4 秒前完全淡去，最后一帧不得残留任何文字
+
+[摄影] 变形宽银幕，椭圆焦外，暖色条状光斑，180 度快门，轻微桶形畸变。摇臂有质量、起停缓入缓出；甩镜末端轻微过冲后回稳；移焦有极短过冲再回拉。前景始终有金箔长带、碎片或袍袖掠过制造视差。
+0.0-1.4 100mm 微距沿镜面剑身向护手行进，云影流过钢面，金脉与刻痕掠过。
+1.4-3.2 35mm 环绕碎片场 180 度，穿行于碎片之间。
+3.2-5.2 24mm 广角随长弧上升，天空大面积入画。
+5.2-7.0 18mm 一镜到底，推入一片碎片的倒影穿过，自另一侧高处回望她。
+7.0-8.8 沉入墨中，镜头略微上仰仰望她的剪影，随液体轻微起伏。
+8.8-10.8 焦段随拍点跳切，85mm 特写与 24mm 广角交替。
+10.8-13.0 50mm 缓慢推入，荷兰角自五度回正。
+13.0-13.8 85mm 面部特写。
+13.8-15.0 自面部缓缓下降推近，沿剑身回到 100mm 微距，与第一帧完全对位。
+
+[分镜]
+0.0-1.4 循环点。微距沿镜面剑身疾行，云影流过钢面。剑沿一道既有金脉缓慢裂开如薄冰崩解；同一帧，一道细裂纹自画面中心向四角蔓延。墨自裂口涌出黑色羽状云。
+1.4-3.2 悬停。镜头环绕漂浮的碎片场，每片缓缓自转，各自捧着一角天空，断口的金边闪烁；2.2 秒一片碎片旋至极近，镜面中一瞬映出镜头本身。她悬于中心，刘海遮眼。
+3.2-5.2 墨绽。她以空柄划出长弧，在整片天空拖出巨大水墨笔触，湿黑弧带枯笔飞白；甩出的墨点溅上镜头并沿纸纤维晕开。落入墨中的碎片转为剪影。
+5.2-7.0 穿镜。一镜到底：镜头推入一片碎片的倒影并穿过，自另一侧高处回望她；金箔长带掠过镜头，她的转身拖出枯笔擦痕。
+7.0-8.8 沉入。墨云直扑镜头并将其吞没——四周被浓墨包裹，仅上方透出天光与她张开双臂的剪影，纸纤维如絮状物缓缓漂过，画面随液体轻微起伏，画面裂纹在墨中被压出细密支线。8.8 秒墨向下退去，镜头破出水面，碎片同帧翻转锁成绕她缓转的环。
+8.8-10.8 水墨蒙太奇，一帧一姿态交替渲染：纸白底纯墨线稿、朱红与青蓝二色木版画帧、黑底金箔剪影、枯笔拖影帧、一帧全画面墨色反转、完整渲染。墨点与金屑持续累积绝不重置。
+10.8-13.0 金继。碎片沿手臂旋绕归位，断口一一对上；熔金沿原有裂缝灌回，前沿炽白，其后冷却为哑光金箔，最终与开场金脉完全一致，不多一道不少一道。同时画面上那道裂纹也被金一并填补、随后金色渐渐淡去。全画面光线转暖。
+13.0-13.8 对视。她第一次抬头，刘海分开露出双眼，平视镜头；13.4 秒一片余留的碎片旋过，镜面中再度一瞬映出镜头。手腕转动一周使金脉迎光。
+13.8-15.0 归位。她垂下手腕与视线，剑回到身侧，刘海落回遮眼；镜头上的墨点干透消失，画面裂纹与金色痕迹尽数退去，文字淡尽；镜头沿剑身回到开场微距。最后一帧与第一帧完全一致。
+
+[音频] 每个音效卡在准确帧上，混音首尾相接可循环。底层：高空稀薄空气感，远处持续的风，一层极淡的纸张摩挲声。
+0.0-1.4 上行金属长鸣，玻璃缓慢开裂的绵长脆响，接墨入水的低沉涌动，画面裂开时一记极细的近场脆响仿佛就在耳边。
+1.4-3.2 近乎静默——碎片自转的细微水晶轻响，墨翻卷的低频液流，一次屏住的呼吸。
+3.2-5.2 宽阔湿笔拖过纸面的摩擦，墨沿纤维扩散的细密嘶声，墨点溅上镜头的一记极近的湿响，其下尺八吐息升起。
+5.2-7.0 进入碎片时气压骤降，内部闷响的封闭音，穿出一记清亮释放，金箔长带掠过的猎猎。
+7.0-8.8 沉入——全频瞬间被厚重低通滤波吞没，只余低沉的液体涌动、遥远变形的风声与一次缓慢的心跳；8.8 秒破水而出，高频与空气感轰然回归。
+8.8-10.8 八记毛笔击打卡在每次剪辑上，墨点飞溅，风格间以短滤波门分隔，反转帧一记太鼓。
+10.8-13.0 温暖低鸣升起，熔金奔流的柔和噼啪，每道裂缝闭合一声清亮短鸣，古筝音阶逐级上行。
+13.0-13.8 延长的尺八长音，剑身转动的清亮金属鸣响。
+13.8-15.0 一切收束——袖摆落定的柔响，一次平缓呼气，解析为与开场完全相同的高空风声与纸声，无缝接回起点。
+配乐：极简温暖，仅古筝与尺八。3.2 秒进入，7.0 至 8.8 秒随沉入被一同滤掉，8.8 秒回归，10.8 秒起弦乐加入，13.8 秒退出仅余风声，与开场首音无缝相接。无对白。
+
+[限制] 只有一名人物，两条手臂，两只手，一把剑。剑自第一帧即带金脉，重铸后与第一帧完全相同，严禁任何形态、尺寸、纹饰、颜色或光效变化。墨保持纯黑、金保持金箔，绝不混合成褐色。所有文字须为湿墨渗入纸面，绝非平贴叠加。镜头上的墨、画面裂纹与金痕须在 13.8 秒前彻底清除。刻痕须准确拼写为 CIA0。除上述文字外无任何标识、水印或字幕。无地面、无建筑、无道具。全片明亮饱和。首尾帧完全一致，两帧中都不得残留任何文字或镜头污迹。
+```
+
+</details>
+
+<a id="h3-tidal-ocean-walls-title"></a>
+### Ocean walls collide and form the word TIDAL
+
+<a href="https://x.com/CharaspowerAI/status/2102352395439120566"><img src="../../previews/h3-tidal-ocean-walls-title.jpg" width="360"></a>
+
+Ordering the shot as a timeline of beats, from ocean split to collision to title hold to detonation, gives the model a clear sequence to follow. Naming the material and the exit effect, transparent seawater with foam edges and a pressure pulse moving from left to right, keeps the fluid simulation consistent through the hold.
+
+MiniMax H3 · Text-to-video · Source: [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2102352395439120566) · 39 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`fluid`](tags.md#tag-fluid) [`title-sequence`](tags.md#tag-title-sequence) [`ocean`](tags.md#tag-ocean) [`vfx`](tags.md#tag-vfx)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Epic fluid-action title sequence beginning with an enormous black ocean suddenly splitting down the center as two mountain-sized walls of water rise on opposite sides of frame. The camera sweeps between them while billions of droplets rain downward and sunlight refracts through transparent liquid structures. Both walls violently collapse toward each other, creating a spectacular collision of water, foam and pressure that launches a liquid shockwave into the sky. The camera rapidly orbits the explosion as the suspended water is pulled into gigantic rotating streams. These streams twist, collide and sculpt themselves into the monumental word "TIDAL", every letter composed of violently circulating transparent seawater with white foam wrapped around its edges. The title holds for one massive hero moment before an invisible pressure pulse tears through it from left to right, detonating each letter sequentially into enormous explosions of water and mist. Photorealistic fluid simulation, colossal natural power, IMAX-scale cinematic VFX.
+```
+
+</details>
+
+<a id="h3-wallpaper-peel-reveals-sky"></a>
+### Wallpaper strip peels to reveal sky
+
+<a href="https://x.com/GlennHasABeard/status/2102041528654876810"><img src="../../previews/h3-wallpaper-peel-reveals-sky.jpg" width="360"></a>
+
+Naming a sound that lasts the whole motion, the crackling paper, works as a speed instruction, so the peel unrolls as one continuous curl. A locked, straight-on camera keeps the wall still so only the paper moves.
+
+MiniMax H3 · Text-to-video · Source: [@GlennHasABeard on X](https://x.com/GlennHasABeard/status/2102041528654876810) · 38 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`wallpaper`](tags.md#tag-wallpaper) [`peel-reveal`](tags.md#tag-peel-reveal) [`sound-cue`](tags.md#tag-sound-cue) [`locked-camera`](tags.md#tag-locked-camera)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+the strip peels downward in one continuous curl, the paper crackling and flaking at the edge
+```
+
+</details>
+
+<a id="h3-burn-pyro-title-rupture"></a>
+### Molten BURN title ruptures into radial fire explosion
+
+<a href="https://x.com/CharaspowerAI/status/2106398901267812627"><img src="../../previews/h3-burn-pyro-title-rupture.jpg" width="360"></a>
+
+The prompt lays out a timed sequence of ignition, forging, slam and rupture, each with its own camera move and physical cause, so the model has a clear order to follow. Naming the final radial burst directly into the lens ties the climax to a specific camera direction.
+
+MiniMax H3 · Text-to-video · Source: [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2106398901267812627) · 34 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`pyro`](tags.md#tag-pyro) [`vfx`](tags.md#tag-vfx) [`title-sequence`](tags.md#tag-title-sequence) [`motion-design`](tags.md#tag-motion-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fuel suspended in darkness as a spark suddenly ignites its surface. Fire spreads explosively outward and the camera rockets backward through a chain reaction of enormous fuel explosions. Liquid fire whips across the frame like glowing ribbons while burning debris and sparks spiral into a rapidly expanding fire tornado. The camera enters the vortex and rotates around a white-hot molten core where streams of liquid metal begin violently forging the gigantic word "BURN". Every letter emerges incandescent from the inferno before cooling into cracked black steel while magma remains visible beneath the surface. The completed title slams into frame with enormous weight as flames blast through the gaps between the letters. Pressure suddenly builds inside the typography until "BURN" violently ruptures from within, unleashing a radial explosion of molten metal, sparks and fire directly into the lens. Extreme heat distortion, realistic pyro physics, aggressive camera movement, AAA theatrical VFX.
+```
+
+</details>
+
+<a id="h3-sunrise-clouds-spell-morning"></a>
+### Sunrise over clouds and snowy mountain peaks
+
+<a href="https://x.com/CharaspowerAI/status/2086754531698725200"><img src="../../previews/h3-sunrise-clouds-spell-morning.jpg" width="360"></a>
+
+The prompt narrates the shot in time order: clouds flow, air currents shape them into a word, and the rising sun dissolves it, so the 15 seconds have a clear arc. Naming Interstellar and National Geographic sets the grade and mood in one phrase.
+
+MiniMax H3 · Text-to-video · Source: [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2086754531698725200) · 33 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`aerial`](tags.md#tag-aerial) [`sunrise`](tags.md#tag-sunrise) [`clouds`](tags.md#tag-clouds) [`title-reveal`](tags.md#tag-title-reveal)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain peaks during sunrise. The golden light transforms the clouds into rivers of glowing vapor. Air currents gradually sculpt the cloud formations into the gigantic word "MORNING", stretching naturally across the sky. As the sun rises higher, the cloud letters slowly dissolve into the atmosphere while brilliant light floods the frame. Interstellar meets National Geographic, majestic, emotionally powerful.
+```
+
+</details>
+
+<a id="h3-titanium-impact-title-sequence"></a>
+### Titanium plate bends under impact, cracks glowing
+
+<a href="https://x.com/CharaspowerAI/status/2095527374444003437"><img src="../../previews/h3-titanium-impact-title-sequence.jpg" width="360"></a>
+
+The prompt is built as a sequence of physical beats (impact, ripple, debris, reversal, title formation, final shockwave), each with its own camera move or speed change. Naming the material, lighting and lens style (anamorphic) fixes the look across the clip.
+
+MiniMax H3 · Text-to-video · Source: [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2095527374444003437) · 29 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`titanium`](tags.md#tag-titanium) [`impact`](tags.md#tag-impact) [`title-sequence`](tags.md#tag-title-sequence) [`speed-ramp`](tags.md#tag-speed-ramp)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-cinematic Hollywood title sequence, opening on an extreme macro shot of a perfectly smooth monolithic titanium surface suspended in darkness. A microscopic dent suddenly appears at its center, followed by an invisible supersonic impact that violently propagates across the metal, bending the entire surface in a spectacular pressure ripple. The camera rapidly pulls backward as the titanium plate explodes into thousands of heavy fragments, glowing sparks and molten particles. Time dramatically slows while the debris hangs in the air, then a powerful magnetic force reverses every fragment at once. Pieces accelerate back toward the center, colliding with brutal precision and forging the monumental word "IMPACT" from dense battle-scarred titanium. The camera sweeps inches above the newly formed letters as glowing energy races through their cracks, then whips into a perfectly centered frontal hero shot. A final invisible shockwave slams into the title, creating a spectacular ripple through the metal before blasting sparks, dust and fragments toward the lens. Photorealistic metal deformation, sophisticated destruction physics, aggressive speed ramps, anamorphic cinematography, premium AAA theatrical title design.
+```
+
+</details>
+
+<a id="h3-dawn-lake-morning-water-title"></a>
+### Dawn lake with mist and sun reflection
+
+<a href="https://x.com/CharaspowerAI/status/2085622021812039920"><img src="../../previews/h3-dawn-lake-morning-water-title.jpg" width="360"></a>
+
+The prompt runs in timed beats: a still lake and rising mist first, then droplets forming the word, then a burst, so the model has a clear timeline to follow. Calling the look a Hollywood title sequence with volumetric light and IMAX quality sets the grade without naming a camera rig.
+
+MiniMax H3 · Text-to-video · Source: [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2085622021812039920) · 22 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`macro`](tags.md#tag-macro) [`fluid-simulation`](tags.md#tag-fluid-simulation) [`sunrise`](tags.md#tag-sunrise) [`title-sequence`](tags.md#tag-title-sequence)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra cinematic macro shot: A calm mountain lake at dawn reflects the first golden rays of sunlight. Tiny ripples spread across the mirror-like surface as morning mist drifts gracefully above the water. Billions of sparkling droplets slowly rise into the air, suspended as if gravity has stopped. They spiral together with incredible fluid realism, naturally sculpting the word "MORNING" entirely from crystal-clear water. The liquid letters shimmer with golden reflections before gently collapsing into a spectacular explosion of droplets illuminated by the sunrise. Hollywood title sequence, ultra-realistic fluid simulation, volumetric lighting, IMAX quality.
+
+#MiniMaxH3
+```
+
+</details>
+
+<a id="h3-laundromat-washer-miniature-storm"></a>
+### Laundromat washer drum holds a miniature storm
+
+<a href="https://x.com/opener_ai/status/2084075915706052621"><img src="../../previews/h3-laundromat-washer-miniature-storm.jpg" width="360"></a>
+
+One continuous handheld push toward the washer keeps the shot unbroken while timed beats build the reveal. The negative prompt confines the surreal element to the drum so the laundromat stays photorealistic, and the sound cues track the twist.
+
+MiniMax H3 · Text-to-video · Source: [@opener_ai on X](https://x.com/opener_ai/status/2084075915706052621) · 20 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`surreal`](tags.md#tag-surreal) [`laundromat`](tags.md#tag-laundromat) [`timed-beats`](tags.md#tag-timed-beats) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[1] FORMAT
+Create a 15-second, 16:9 surreal live-action scene inside a quiet laundromat at night.
+
+[4] BEATS
+[0–3s] Slow handheld push toward a running front-loading washing machine.
+[3–6s] Inside the drum, the water becomes a miniature stormy ocean with waves, lightning, and a tiny lighthouse.
+[6–11s]The lighthouse beam shines through the glass as the storm grows stronger.
+[11-15s]The door suddenly opens. Only ordinary wet laundry falls onto the floor.
+
+[5] CAMERA
+One continuous handheld push-in, ending on the falling laundry.
+
+[6] LIGHT
+Cold flickering fluorescent lights, wet glass reflections, deep blue storm light inside the washer, realistic phone-camera texture.
+
+[8] AUDIO
+Audio: washing-machine rumble, water splashes, distant thunder, one door click, and wet laundry hitting the floor.
+BGM: a subtle 15-second mystery drone, building from 4 seconds and stopping abruptly when the door opens.
+
+[9] NEGATIVE
+Keep the laundromat fully photorealistic. The miniature ocean exists only inside the washing machine.
+No people, text, subtitles, logos, watermarks, monsters, or cartoon styling.
+
+#minimaxh3 #hailuoai
+```
+
+</details>
+
+<a id="h3-white-drop-ghost-dark-glass"></a>
+### White drop stretches into a small ghost
+
+<a href="https://x.com/GlennHasABeard/status/2112325403582832865"><img src="../../previews/h3-white-drop-ghost-dark-glass.jpg" width="360"></a>
+
+One sentence names both the transformation and its end state, so the model commits to a morph instead of a generic splash. The locked glass-height camera keeps the dark liquid as a stable backdrop that makes the white shape read clearly.
+
+MiniMax H3 · Text-to-video · Source: [@GlennHasABeard on X](https://x.com/GlennHasABeard/status/2112325403582832865) · 20 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`liquid`](tags.md#tag-liquid) [`ink`](tags.md#tag-ink) [`morph`](tags.md#tag-morph) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+as it sinks it stretches into the clear shape of a small white ghost
+```
+
+</details>
+
+<a id="h3-metal-fragments-streak-dark-void"></a>
+### Metal fragments streak past in a dark void
+
+<a href="https://x.com/CharaspowerAI/status/2093715484910731416"><img src="../../previews/h3-metal-fragments-streak-dark-void.jpg" width="360"></a>
+
+The prompt is written as ordered beats, from a fast close up through deceleration and letter assembly to a pullback reveal, so the model has a clear camera path. Concrete physical cues such as sonic shockwaves, sparks and motion blur carry the speed instead of vague adjectives alone.
+
+MiniMax H3 · Text-to-video · Source: [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2093715484910731416) · 18 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`title-sequence`](tags.md#tag-title-sequence) [`typography`](tags.md#tag-typography) [`camera-choreography`](tags.md#tag-camera-choreography) [`motion-blur`](tags.md#tag-motion-blur)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+High-octane cinematic title sequence built entirely around speed: begin with an extreme close-up of polished metal traveling through darkness so quickly that only reflections and sparks are visible. The camera accelerates alongside it as enormous metallic components streak past like projectiles, generating sonic shockwaves and pressure distortion. Each component violently decelerates at the center of frame, rotating and locking into place with precise mechanical impacts while additional fragments arrive from every direction. The camera threads between assembling letterforms at extreme speed, passing through showers of sparks and glowing friction trails until a final impossible pullback reveals that every moving component has constructed the enormous word "VELOCITY". A supersonic pressure wave travels from the first letter to the last, bending the surrounding atmosphere and stripping glowing particles from the metal surfaces. The camera instantly launches backward as the entire title accelerates forward through the frame like a massive projectile, leaving only turbulent smoke and incandescent trails behind. Hyper-dynamic cinematography, physically convincing motion blur, metallic micro-detail, sonic-boom distortion, premium theatrical title VFX.
+```
+
+</details>
+
+<a id="h3-stealth-jet-optical-cloak-flyby"></a>
+### Stealth jet vanishes into refracting sky flyby
+
+<a href="https://x.com/opener_ai/status/2084441225667735905"><img src="../../previews/h3-stealth-jet-optical-cloak-flyby.jpg" width="360"></a>
+
+The prompt locks the aircraft identity with fixed geometry and material traits, then splits the 10 seconds into timed beats so the cloaking lands on schedule. The invisible body shows only as the sky and clouds bending inside its volume, and the negative block bans glow, bubbles and teleport tells.
+
+MiniMax H3 · Text-to-video · Source: [@opener_ai on X](https://x.com/opener_ai/status/2084441225667735905) · 16 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`stealth-aircraft`](tags.md#tag-stealth-aircraft) [`optical-camouflage`](tags.md#tag-optical-camouflage) [`tracking-shot`](tags.md#tag-tracking-shot) [`flyby`](tags.md#tag-flyby)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+)
+
+[FORMAT]
+Create a 10-second, 16:9 photoreal cinematic wide-shot flyby of a stealth aircraft activating optical camouflage at extreme speed.
+
+[IDENTITY]
+Preserve a wide tailless delta wing, sharp faceted edges, flat wedge-shaped nose, recessed dark cockpit, matte charcoal surface, twin buried exhausts, no insignia, and rigid non-morphing geometry.
+
+[BEATS]
+[0–2 seconds] A vast open sky above distant clouds. The stealth aircraft suddenly enters from the far left and races laterally across the wide frame at extreme speed.
+
+[2–4 seconds] The camera performs a fast, controlled pan to track the aircraft. Strong background parallax and slight motion blur emphasize its velocity while its shape remains readable.
+
+[4–6 seconds] Optical camouflage sweeps from the nose across both wings. The solid aircraft rapidly vanishes without slowing down or changing direction.
+
+[6–8 seconds] The camera continues tracking the same trajectory. The invisible delta-wing shape remains clearly perceptible because the sky and clouds inside its exact volume ripple and bend like concentrated heat haze.
+
+[8–10 seconds] The refractive aircraft streaks toward the distant horizon, leaving a narrow turbulent distortion wake before exiting the frame.
+
+[CAMERA]
+One continuous very wide lateral tracking shot. The aircraft stays relatively small within the expansive frame. Fast pan tracking, broad environmental scale, strong lateral movement, subtle handheld vibration, and realistic motion blur. No close-up and no chase-camera angle.
+
+[LIGHT]
+Bright high-altitude daylight, cool blue sky, white cloud field, natural atmospheric haze, restrained contrast, and realistic cinematic texture.
+
+[EDIT]
+One uninterrupted shot. No cuts, transitions, slow motion, or camera repositioning.
+
+[AUDIO]
+Audio: violent high-altitude wind rush, rapidly approaching jet roar, a powerful Doppler flyby, and a brief vacuum-like sound as the camouflage activates.
+BGM: an original 10-second cue, 80% tension and 20% awe. Low sub-bass pulse and metallic air textures, building sharply during the flyby and fading into a low tone over the final 2 seconds. Do not imitate an existing melody.
+
+[NEGATIVE]
+Do not show an empty sky after cloaking. Maintain a coherent, fast-moving delta-wing refraction that bends the background inside the aircraft’s exact volume.
+No glowing outline, glass aircraft, force-field bubble, pixel dissolve, smoke camouflage, teleportation, morphing, or reappearance.
+No extra aircraft, weapons, explosions, contrails, subtitles, on-screen text, watermarks, platform logos, or stickers.
+Do not introduce Chinese text, garbled characters, or misspellings.
+
+#kreaai #minimaxh3 #kreacpp
 ```
 
 </details>
@@ -1292,6 +1711,96 @@ OUTPUT:
 
 </details>
 
+<a id="seedance-bamboo-toy-car-robot-vlog"></a>
+### Woman with bamboo toy walks past purple R7
+
+<a href="https://x.com/john87445528/status/2084644638724395138"><img src="../../previews/seedance-bamboo-toy-car-robot-vlog.jpg" width="360"></a>
+
+A handheld POV opening at shoulder height behind the subject, with rolling shutter and autofocus hesitation, makes the scene read as found phone footage. The transformation is listed part by part from the same car with body color and proportions locked, so the reference keeps the vehicle consistent through the morph.
+
+Seedance 2.5 · Reference-to-video · Source: [@john87445528 on X](https://x.com/john87445528/status/2084644638724395138)
+
+[`handheld`](tags.md#tag-handheld) [`pov`](tags.md#tag-pov) [`transformation`](tags.md#tag-transformation) [`bamboo-toy`](tags.md#tag-bamboo-toy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+纯属虚构的荒诞动作短片。100%真实手机实拍质感，iPhone纪录片风格，30秒手持一镜到底，无剪辑、无转场。自然日光，轻微呼吸式镜头运动，偶发自动对焦迟疑，轻微滚动快门，真实动态模糊，镜头边缘带少量指纹和灰尘。所有变形、机械运动、撞击和碎片效果都必须具有沉重的现实物理反馈，呈现为全尺寸机械装置与实景特效，绝不能出现电子游戏、动画或廉价CG质感。保留现场原始声音和路人的真实反应。 环境 午后，一家繁忙的鸿蒙智行·智界授权汽车门店停车场。 巨大的落地玻璃展厅内停着数辆新车，销售人员正陪顾客看车。停车场车辆进出不断，工作人员拿着平板在车位间穿梭，几名顾客围着一辆停在室外展示区的紫色智界R7拍照。 现场充满城市车流声、轮胎碾过沥青的声音、门店广播、远处交谈声、鸟鸣和偶尔响起的车辆提示音。一切都像路人偶然拍下、即将病毒式传播的手机视频。 门店原有标识可以自然出现在环境中，但不添加字幕、广告标题或浮动文字。 主角 一位二十五岁左右的成年年轻美女
+，身材和穿着严格参考
+HO2iXF9a4AAZsco
+。 她神态放松，右手拿着一个传统竹制发声玩具“竹知了”。竹知了由短竹筒、细绳和小竹片组成。她一边经过停车场，一边漫不经心地转动竹知了。 竹知了发出连续、滑稽而响亮的“呜哇、呜哇”鸣叫声。 她并不是超级英雄，没有盔甲，不发生身体变形，始终保持普通成年女性的真实外貌。 关键车辆 停车场中央只有一辆紫色智界R7发生变形。 必须准确保持紫色车漆、轿跑SUV车身比例、贯穿式前灯、车轮、车门、玻璃和车身覆盖件的视觉连续性。车辆内部无人，没有驾驶员和乘客。 变形过程必须清晰可读：车轮折叠成为肩部结构，车门展开成为前臂护甲，底盘向下延伸形成双腿，车头与贯穿式灯带上升成为胸部，紫色车顶折叠成机器人头部。所有零件均来自同一辆车，不凭空增加零件，不突然更换车型或颜色。 30秒连续镜头 镜头开始于美女右后方约一米半、与肩膀同高的位置。摄影者跟随她缓缓进入停车场，让她的上半身、手里的竹知了以及前方紫色智界R7同时处于画面中。 镜头不能突然飞起，不能切换机位，也不能拉远成为俯瞰全景。 美女一边走，一边悠闲地转动竹知了。连续的“呜哇、呜哇”声在停车场里格外明显。 几名销售人员和顾客好奇地回头看她，但没有人太在意。 突然，紫色智界R7的贯穿式灯带自行亮起。 竹知了每响一声，R7的车灯便同步闪烁一次。 美女逐渐放慢脚步。 智界R7的车身内部传出低沉的金属震动声。悬架猛然下沉，四条轮胎同时摩擦地面，附近车辆的警报器接连响起。 整辆紫色R7突然开始变形。 引擎盖向两侧裂开，车门旋转展开，车轮离开地面并锁入肩部；底盘向下伸展，两条沉重的机械腿砸落在沥青路面上，震出蜘蛛网状裂纹。 紫色智界R7在停车场中央站立起来，变成一台数层楼高的巨型机器人。 停车场瞬间陷入恐慌。 顾客丢下宣传册和咖啡四散奔逃。销售人员钻到展车后面躲避。购物袋、宣传单和遮阳帽被机器人起身产生的气流卷上半空。两辆正在倒车的汽车发生轻微碰撞，喇叭持续鸣响。 机器人发出沉重的机械咆哮，挥动由车门组成的巨大手臂，将停车场的一根灯杆打弯。它随后抬起机械脚掌，踩扁旁边的空置展示台，水泥碎片和灰尘向四周飞散。 摄影者慌张地向后退并侧身躲避，镜头剧烈摇晃。飞来的小块碎片撞在镜头附近，自动对焦短暂失准，然后重新锁定机器人。 镜头迅速回到美女身上。 所有人都在逃跑。 她却几乎没有反应。 她平静地抬头看了看巨型机器人…… ……然后低头看向手里的竹知了。 机器人转过身体，紫色金属脚掌刮过地面，向她迈出沉重的一步。每一步都令停车场地面震动，玻璃展厅随之颤抖。 美女只是轻轻扬起一侧眉毛。 她握紧细绳，突然加快手腕旋转速度。 竹知了的鸣叫声变得越来越急促。 “呜哇——呜哇——呜哇——” 竹筒内部开始透出淡淡的金色光芒。 光芒越来越强。 十个、数百个、成千上万个发光的竹知了在她身体周围凭空出现，像一群完美同步的金色蜂群，在她头顶和肩膀周围高速盘旋。 旋转产生的强风吹动她的长发和衣角，将停车场里的宣传单、树叶、灰尘和塑料袋全部卷入空中。金色光芒映在周围汽车的玻璃与金属车漆上。 巨型机器人挥动紫色机械手臂，试图拍散竹知了群。机械拳头擦过地面，掀起碎石和尘土。 美女侧身迈开一步避过冲击，双脚重新站稳，身体重心压低，右手仍然牢牢控制细绳。 她突然将竹知了高高举起…… ……然后打了一个清脆的响指。 所有发光的竹知了瞬间向前发射。 天空被无数道金色轨迹划破。 第一批竹知了像精准制导的蜂群，猛烈撞击机器人的膝关节和脚踝；第二批绕着机器人高速盘旋，钻入肩部车轮、车门手臂和胸口灯带之间的机械缝隙。 机器人踉跄后退，机械脚掌在沥青上拖出两道深深的沟槽。它挥拳反击，却不断打空，每一次挥动都带起真实而沉重的气流。 最后一批竹知了在机器人胸前汇聚成高速旋转的金色圆环。 美女猛然向下一拉细绳。 所有竹知了同时发出一声震耳欲聋的巨大鸣叫。 一道肉眼可见的环形空气冲击波正面撞上机器人胸口。 在这一瞬间进入短暂慢动作：紫色机器人全身的机械锁扣依次弹开，车门护甲、车轮、玻璃、底盘和车身覆盖件在空中分离；金色竹知了从零件之间高速穿过，飞散的螺栓、灰尘和细小玻璃颗粒悬浮在阳光中。 这不是爆炸，也不是车辆被彻底摧毁。所有零件仍然属于同一辆紫色智界R7，没有火焰，没有人员受伤。 慢动作结束。 巨型机器人完全失去平衡，重重跪在停车场中央。它的机械结构迅速反向折叠：双腿收回底盘，车轮回到轮拱，车门重新闭合，车头、车顶和灯带准确复位。 伴随最后一声沉重的金属锁定声，机器人重新变回完整的紫色智界R7。 一片寂静。 车辆警报器逐渐停止。 顾客和销售人员小心翼翼地从展车后面探出头。一个销售人员迟疑地走向紫色R7，伸手摸了摸仍然发烫的引擎盖，又立刻把手缩了回来。 一个发光的竹知了缓缓落在美女肩膀上，光芒随即灭，重新变成普通竹制玩具。 她漫不经心地拍掉肩上的灰尘，收起细绳，经过已经恢复原状的紫色智界R7。 走出画面前，她回头看了一眼汽车，平静地小声说： “一千万以内最好玩的，还是这个。” 她再次转动竹知了，伴随着“呜哇、呜哇”的声音若无其事地继续向前走。 镜头没有切断，摄影者缓慢停下。画面最后同时保留她渐渐远去的背影、恢复原状的紫色智界R7，以及停车场后方鸿蒙智行·智界门店原有的门头标识。 严格限制 全片只有一个连续手持镜头；不航拍、不突然切换机位、不瞬移、不使用蒙太奇。美女、竹知了和紫色智界R7始终保持外观一致。只能有一辆R7变形，机器人所有零件均来自这辆车。 机器人必须具有真实重量、关节阻力、惯性和落地冲击，不能漂浮、瞬移或像橡胶玩具一样弯曲。竹知了群的运动必须有明确方向、空气阻力和碰撞反馈。 不出现驾驶员受伤、血液、人体撞击或真实人员死亡；不出现火灾与电池爆炸。不生成错误车型、乱码车标、额外手指、人物复制、车辆复制、卡通机器人、动漫光效、电子游戏HUD、字幕、贴纸、旁白、背景音乐或水印。现有门店标识自然入镜即可，不额外生成品牌宣传画面。
+```
+
+</details>
+
+<a id="seedance-bedroom-gamer-game-world-transition"></a>
+### Bedroom gamer beside TV rooftop runner
+
+<a href="https://x.com/techhalla/status/2107229541940748357"><img src="../../previews/seedance-bedroom-gamer-game-world-transition.jpg" width="360"></a>
+
+A timed shot list pairs each segment with a named camera move, and locked character sheets and stills are passed as references so the man keeps his face while only his style changes inside the game.
+
+Seedance 2.5 · Reference-to-video · Source: [@techhalla on X](https://x.com/techhalla/status/2107229541940748357)
+
+[`transition`](tags.md#tag-transition) [`multi-reference`](tags.md#tag-multi-reference) [`cartoon`](tags.md#tag-cartoon) [`timeline`](tags.md#tag-timeline)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Gritty lived-in bedroom verité that hard-cuts into a hand-inked chase cartoon, then snaps back to reality. 35mm handheld in the room, warm lamp against cold TV glow. Inside the game: paper-grain comic, bold ink, motion streaks. One continuous 30s story.
+
+[IMAGE REFERENCES]
+
+[char_sheet_1] : cartoon runner turnaround, lock the design.
+
+[char_sheet_2] : real man identity — face, beard, skull cap, Pulp Fiction tee, jeans, Vans, forearm tattoo.
+
+Images [still_1] and [still_2] : bedroom, couch, TV, rage pose. Images [still_3] [still_4] [still_5] : in-game rooftop and mine-cart look, cartoon man plus runner.
+
+[still_6] : wake-up, bloodhound, paused screen. Identities stay locked. Only the man restyles when the game pulls him in.
+
+[TIMELINE]
+
+0-4s: [Medium handheld] Man sunk in the gray couch, locked in, thumbs working a white controller. TV shows the cartoon runner sprinting rooftops. Lamp warm, room messy, pizza box and Monster cans on the table. Focused, a little smug.
+
+4-8s: [Push-in] TV slams to red GAME OVER. He jolts up, face twisting, shouting "No, no, no—come on!" He hurls the controller. It cracks the screen. Glass spiders, a blue spark jumps. Pure rage.
+
+8-12s: [Whip to the TV] A white-blue energy vortex tears out of the crack and yanks his cap, shirt, arms. He grabs the stand, feet slide on the carpet, then gets sucked in. Body stretches, colors flatten. Hard smash-cut into ink.
+
+12-18s: [Dynamic low tracking on the tiles] He lands cartoonified — same beard, tee, jeans, now inked, eyes huge — mid-stride beside the black-headed runner, pencil behind the ear. A giant pink eraser crashes through chimneys behind them. Both sprint. Cap flies off. He yells "What the hell is this?!"
+
+18-24s: [Action tracking] They dive into a rust mine cart on a wooden trestle. Sparks kick off the rails. Eraser debris explodes behind. He clutches the rim, runner steers. Panic, wind, lanterns whipping past.
+
+24-28s: [Smash cut, static wide] Back in the bedroom. He is asleep on the couch, controller still on his chest, mouth open. TV shows the runner on a PAUSED menu. A bloodhound stands on the cushion and licks his face, long slow laps.
+
+28-30s: [Close] Eyes crack open, confused, still half-asleep. The dog keeps licking. He mutters "...the hell?" The controller never left his stomach. Dream logic lands.
+
+[STYLE & QUALITY BOOSTERS]
+
+Photoreal room, illustrated game world, coherent physics, perfect motion blur, stable identities, readable TV text, cinematic lighting, no extra limbs, no morphing faces, movie-level cut stability.
+```
+
+</details>
+
+<a id="seedance-blender-blockout-desert-city-transformation"></a>
+### Gray clay blockout of a futuristic desert city
+
+<a href="https://x.com/Itswsm105f/status/2097225058439840092"><img src="../../previews/seedance-blender-blockout-desert-city-transformation.jpg" width="360"></a>
+
+A second-by-second storyboard locks the untextured clay stage first, then a push-in and a transition keep the geometry fixed while materials and light appear. The negative list (warped architecture, duplicated vehicles, unrealistic physics) keeps the structure stable.
+
+Seedance 2.5 · Reference-to-video · Source: [@Itswsm105f on X](https://x.com/Itswsm105f/status/2097225058439840092)
+
+[`blender`](tags.md#tag-blender) [`blockout`](tags.md#tag-blockout) [`transformation`](tags.md#tag-transformation) [`desert-city`](tags.md#tag-desert-city)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second vertical 9:16 cinematic comparison video demonstrating how a simple Blender 3D blockout can be transformed into a highly detailed cinematic AI-generated scene. CONCEPT: A futuristic desert city built around a massive ancient-looking circular observatory. 0–5 seconds — Blender Blockout: Show a basic gray Blender clay render from an elevated cinematic camera angle. The scene contains simple geometric buildings, large cylindrical towers, rectangular platforms, a huge circular observatory structure in the center, basic roads and small placeholder vehicles. Everything is untextured gray clay with simple lighting, clearly looking like a 3D Blender blockout. 5–10 seconds — Camera Push-In: Slowly move the camera toward the central observatory while maintaining the exact composition and geometry. Subtle Blender viewport/clay-render feeling. No textures, no realistic materials. 10–15 seconds — Transformation: Begin a smooth visual transition from the gray Blender blockout into the finished cinematic environment. Geometry remains structurally consistent while realistic materials, textures, lighting, atmosphere and environmental details gradually appear. 15–25 seconds — Final AI Cinematic Scene: Reveal a spectacular futuristic desert metropolis at golden hour. Massive sandstone-and-metal towers rise from golden dunes, connected by elevated bridges. The central circular observatory has intricate futuristic architecture, glowing windows and mechanical details. Small flying vehicles move naturally between buildings. Dust particles float through warm sunlight. Long shadows, volumetric lighting, realistic reflections, detailed surfaces, atmospheric depth and subtle heat haze. Make the environment feel enormous, believable and cinematic. 25–30 seconds — Final Reveal: Pull the camera backward and upward to reveal the full city surrounded by endless desert dunes. The final frame should create a strong visual contrast between the simple Blender concept and the stunning finished AI-generated world. STYLE: photorealistic cinematic sci-fi, AAA game environment quality, realistic materials, natural atmospheric perspective, volumetric sunlight, detailed architecture, physically realistic lighting, subtle camera movement, premium VFX, highly detailed environment. IMPORTANT: The final scene must be completely original and must NOT reproduce the reference video's architecture, composition, Japanese temples, floating islands, army formations, or cloud setting. Preserve only the general Blender blockout → AI cinematic transformation concept. NO: cartoon style, anime, distorted buildings, random geometry changes, excessive camera shake, text artifacts, duplicated vehicles, warped architecture, unrealistic physics.
+```
+
+</details>
+
 <a id="seedance-blue-pencil-draws-city-into-line-art"></a>
 ### POV blue pencil turns city into sketches
 
@@ -1325,6 +1834,143 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 
 </details>
 
+<a id="seedance-character-swap-on-trigger"></a>
+### Woman with navy plush swaps characters on cues
+
+<a href="https://x.com/imtheboboo/status/2108131744008519943"><img src="../../previews/seedance-character-swap-on-trigger.jpg" width="360"></a>
+
+Each swap is pinned to a trigger, such as a timestamp or a gesture, so the model knows exactly when the subject changes. The core rules keep the original motion, lip sync, camera and background fixed, so only the character changes.
+
+Seedance 2.5 · Video edit · Source: [@imtheboboo on X](https://x.com/imtheboboo/status/2108131744008519943) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`character-swap`](tags.md#tag-character-swap) [`video-edit`](tags.md#tag-video-edit) [`reference-images`](tags.md#tag-reference-images) [`lip sync`](tags.md#tag-lipsync)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"Transform the original video by seamlessly replacing the main subject with new characters [@New Character], transitioning exactly at [Specific Triggers or Timestamps].
+
+Transformations:
+[Trigger 1, e.g., First finger snap / 0:05]: 
+Replace the subject with [Character 1 Description: gender, body type, hairstyle, clothing, accessories, specific style] [@Character1].
+
+[Trigger 2, e.g., Camera pan / 0:12]: Replace the subject with [Character 2 Description: gender, body type, hairstyle, clothing, accessories, specific style] [@Character 2].
+
+[Add additional triggers and characters as needed]
+
+Core Execution Rules:
+
+Performance: The new characters must perfectly mimic the original subject's exact body movements, physical proportions, hand gestures, facial expressions, and head tracking.
+
+Audio & Lip-Sync: Preserve original audio. Characters must accurately lip-sync all spoken dialogue in real-time.
+
+Technical Alignment: Maintain the original video's camera movement, focal length, framing, perspective, pacing, and the original background ([Optional: Insert brief 3-word description of original background])."
+
+- Klik generate.
+```
+
+</details>
+
+<a id="seedance-clay-pirate-ship-stop-motion"></a>
+### Clay transforms into a miniature pirate ship
+
+<a href="https://x.com/aynellex/status/2109504237852139774"><img src="../../previews/seedance-clay-pirate-ship-stop-motion.jpg" width="360"></a>
+
+The prompt lays out the build in ordered stages (hull, masts, sails, details, reveal) and names the camera move for each, so the model has a clear sequence to follow. The closing list of consistency and anatomy constraints keeps the ship design and the hands stable.
+
+Seedance 2.5 · Text-to-video · Source: [@aynellex on X](https://x.com/aynellex/status/2109504237852139774)
+
+[`stop-motion`](tags.md#tag-stop-motion) [`clay`](tags.md#tag-clay) [`miniature`](tags.md#tag-miniature) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a cinematic, ultra-realistic 15-second stop-motion-style miniature crafting video showing the complete transformation of brown clay into a detailed pirate sailing ship. Begin with an overhead close-up of colorful modeling clay, sculpting tools, and a blue cutting mat on a wooden worktable. In the background, show a miniature tropical beach scene with a bright blue sky, fluffy white clouds, and palm trees.
+
+Start with realistic human hands kneading and shaping brown clay into the curved hull of a small wooden-style sailing ship. Use close-up shots to show the hands carefully sculpting the bow, stern, deck, and layered wooden planks. Transition to the construction of the ship's masts, adding thin wooden poles, crossbars, tiny ropes, and intricate rigging.
+
+Next, show delicate cream-colored fabric sails being attached to the masts one by one. Gradually add miniature windows, decorative railings, cabin details, and a white ornamental figurehead at the front of the ship. Use macro shots to emphasize the tiny handcrafted details and realistic material textures.
+
+End with the completed miniature pirate ship mounted on a sculpted blue ocean base with detailed white waves. Slowly pull the camera back to reveal the finished ship against the tropical beach backdrop, creating a magical miniature world.
+
+Ultra-detailed miniature craftsmanship, realistic human hands, tactile modeling clay, handcrafted wooden textures, tiny rope rigging, cream fabric sails, intricate ship details, miniature ocean waves, vibrant blue sky, soft natural lighting, shallow depth of field, macro photography, smooth camera movements, satisfying step-by-step transformation, charming stop-motion aesthetic, consistent ship design throughout, physically plausible hand movements, vertical 9:16 composition, 15 seconds, no text, no logos, no watermark, no distorted hands, no floating objects, no inconsistent ship details, no plastic CGI appearance.
+```
+
+</details>
+
+<a id="seedance-frozen-time-diner-sequence"></a>
+### Bald man in sunglasses at a 90s diner
+
+<a href="https://x.com/techhalla/status/2085200942060691807"><img src="../../previews/seedance-frozen-time-diner-sequence.jpg" width="360"></a>
+
+A reference image locks the character while the prompt splits the clip into timed beats, each with its own camera move, so the freeze and the snap back read clearly. Object physics are described element by element (liquid ribbons, suspended droplets, falling tray), giving the model concrete targets for the frozen moment.
+
+Seedance 2.5 · Reference-to-video · Source: [@techhalla on X](https://x.com/techhalla/status/2085200942060691807)
+
+[`time-freeze`](tags.md#tag-time-freeze) [`storyboard`](tags.md#tag-storyboard) [`character-lock`](tags.md#tag-character-lock)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic cinematic 1990s American diner, red vinyl booths, neon signs, chrome details, checkerboard floor, soft natural window light mixed with warm practicals, subtle handheld texture, rich lived-in period detail, heavy film grain. Shot with modern realism and precise temporal control.
+
+Use the provided reference image as the exact character lock for the bald bearded man in black sunglasses and dark hoodie. Maintain perfect facial structure, beard, head shape, skin texture and clothing consistency at all times.
+
+0-5s: [Medium Wide] The bald man sits in a red vinyl booth. He stands up, turns, and collides hard into a waitress carrying a full breakfast tray (eggs, bacon, toast, coffee pot). Impact is sudden and physical.
+
+5-12s: [Dynamic Tracking into Super Slow-Motion] Collision detonates. Tray, plate, eggs, bacon strips and coffee pot explode upward. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera orbits smoothly around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the bald man remains free to move. He freezes for one beat with a clear “I fucked up” expression, then quickly grabs two bacon strips and a fried egg from the floating debris.
+
+12-22s: [Tracking Shot] Still inside the frozen diner, he walks toward the exit door while taking deliberate bites of bacon then egg. All patrons, waitress and flying food stay perfectly suspended in mid-air.
+
+22-27s: [Medium Shot] Just as he reaches the door and is about to push it open, time snaps back to normal speed. Everything that was floating crashes down at once — plates, eggs, bacon, tray and coffee slam onto the floor with a loud chaotic impact. The waitress and patrons react in sudden real-time shock.
+
+27-30s: [Medium Close-Up] He pauses, turns slightly, raises his eyebrows and gives a small casual “it is what it is” shrug with a quiet half-smile of acceptance, still holding the remaining food.
+
+Photorealistic, ultra-detailed fluid and object physics, perfect volume and surface tension on liquids, sharp motion blur only on moving elements, stable character, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+```
+
+</details>
+
+<a id="seedance-giant-woman-pool-comedy"></a>
+### Giant woman in pool, tiny man climbs ladder
+
+<a href="https://x.com/YourAlphaMom/status/2088749172543410403"><img src="../../previews/seedance-giant-woman-pool-comedy.jpg" width="360"></a>
+
+The scale gag works because real-world cues like lane markers, background swimmers and a vending machine anchor the size of the giant woman. A handheld phone framing with a timed beat sheet keeps the impossible action readable.
+
+Seedance 2.5 · Text-to-video · Source: [@YourAlphaMom on X](https://x.com/YourAlphaMom/status/2088749172543410403)
+
+[`comedy`](tags.md#tag-comedy) [`surreal`](tags.md#tag-surreal) [`scale-gag`](tags.md#tag-scale-gag) [`handheld`](tags.md#tag-handheld)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic absurd surreal comedy scene in a small indoor hotel pool. Low-budget real-world environment: tiled pool, metal ladders, fluorescent lighting, depth markers on the wall, white plastic chairs, a vending machine in the background, and a few casually dressed people in swimwear watching.
+
+A giant beautiful young woman is submerged in the pool up to her neck and upper chest, as if her body is enormous and fills most of the pool. She has wet slicked-back dark hair, expressive eyes, realistic wet skin, and a slightly amused then surprised expression. Her face and shoulders are huge compared to the rest of the environment.
+
+A normal-sized adult man in swim trunks carefully walks down the pool ladder as if he is just entering the water. He holds a white cup in one hand. As he steps down, it becomes clear that because of the bizarre scale mismatch, he is stepping directly onto the giant woman’s face. He awkwardly steps on her nose and cheek while trying to keep balance.
+
+The woman looks confused and cross-eyed toward him. The man slips, grabs at her nose for balance, and then slides toward her open mouth. By the end of the shot, he accidentally tumbles into her mouth in a ridiculous surreal way. She looks shocked. The people in the background react with surprise and laughter.
+
+Camera style:
+Recorded like a viral smartphone clip. Slight handheld movement, but mostly stable from the poolside. Realistic phone-video look, mild compression, indoor echo, natural pool reflections, believable lighting, not cinematic. The scene should feel like a bizarre real video someone captured by accident.
+
+Tone:
+Absurd, funny, surreal, and visually shocking — not gory, not violent, not horror. The humor comes from the impossible scale and the dead-serious realism.
+
+Action timing:
+0–3s: Show the indoor pool and the giant woman occupying most of it. The man starts climbing down the ladder.
+3–7s: He continues stepping down and accidentally plants a foot on her face/nose.
+7–11s: He loses balance, grabs at her nose, and slips toward her mouth.
+11–15s: Her mouth opens in surprise, he tumbles into it, and the bystanders react.
+
+Important details:
+Keep the scale relationship very clear: giant woman, tiny man, normal-size background people. Keep the environment realistic and grounded. Preserve believable water interaction and reflections. No gore, no body horror, no extra limbs, no broken anatomy, no glitchy transitions.
+```
+
+</details>
+
 <a id="seedance-giant-woman-skateboarder-golden-hour"></a>
 ### Giant woman sunset with skateboarder riding her leg
 
@@ -1344,6 +1990,37 @@ A cinematic 10-second tracking shot at golden hour. A giant young East Asian wom
 A tiny man (normal human scale relative to her) skateboards along her body. He has short dark hair, a dark gray t-shirt, beige trousers, black sneakers, and a small olive-green crossbody bag. He starts on her pale, sunlit thigh and rides up the curve of her hip and the black fabric of her robe toward her midriff and chest.
 
 Camera is extremely low and close, starting at her legs and tracking forward and slightly upward with the skateboarder. Strong motion blur on the nearest skin and fabric in the foreground. Shallow depth of field, warm rim light on her face and hair, slight wind in her hair and the robe. Photorealistic, high-end commercial look, 9:16 vertical, smooth continuous camera move, no cuts.
+```
+
+</details>
+
+<a id="seedance-granny-steel-coil-dashcam"></a>
+### Grandma in bathrobe stops and reloads a steel coil
+
+<a href="https://x.com/Ciri_ai/status/2096959231434063990"><img src="../../previews/seedance-granny-steel-coil-dashcam.jpg" width="360"></a>
+
+A fixed wide angle shot from a following car, with washed colors and compression texture, runs as one continuous take with no cuts. The prompt specifies the real physics of the falling coil (cracked asphalt, small bounce, trailer rebound) and makes only her strength impossible, so the comedy reads as real footage.
+
+Seedance 2.5 · Text-to-video · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2096959231434063990) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dashcam`](tags.md#tag-dashcam) [`absurd-comedy`](tags.md#tag-absurd-comedy) [`real-physics`](tags.md#tag-real-physics) [`single-take`](tags.md#tag-single-take)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate a continuous 30-second sequence in the style of a real dashcam video, filmed from a car driving behind on an ordinary tree-lined city road in daylight — the dashcam's fixed wide-angle view with the filming car's hood and wiper edge at the bottom of frame, slightly washed-out colors, mild lens distortion, small vibrations from the road, compression artifacts, autofocus staying fixed — exactly the look of viral traffic-camera footage. Ahead: a red semi truck with a long flatbed trailer carrying massive steel coils. Core subject is the same overweight elderly woman in a pale pink floral bathrobe, with tight silver-gray permed curls, walking on the roadside — who, when a giant steel coil breaks loose and rolls off the trailer, calmly stops it with her hands, picks it up, and heaves it back onto the flatbed like it weighs nothing. Tone: absurd but played completely straight, like real footage of something impossible — no reactions from her, pure viral-video energy. Style: raw dashcam realism only — no cinematic grading, no camera movement beyond the car's own driving, no slow motion, zero cuts. Grounded physics on EVERYTHING except her strength: the coil has true massive weight in how it falls, rolls, and lands. The road ahead is otherwise empty of pedestrians; the filming car and the truck both slow safely; nobody is ever in the coil's path; nobody is injured on screen.
+
+阶段一 (0–7s, the drop): Fixed dashcam view following the red flatbed truck at normal traffic distance. A strap visibly snaps on the trailer — one enormous steel coil (taller than a person) tips, slides off the flatbed's edge, and CRASHES onto the asphalt with real catastrophic mass: the road surface cracking under the impact, a bounce of only centimeters despite the drop, dust and grit jumping in a ring, the trailer visibly rocking upward from the released weight. The coil begins rolling toward the roadside on its own momentum, slow and unstoppable, wobbling slightly on its axis. The truck's brake lights flare; it pulls over ahead. The filming car brakes gently, keeping distance, the dashcam view dipping slightly with the deceleration.
+
+阶段二 (7–14s, the stop): Same fixed dashcam view. From the tree-lined sidewalk, the grandma in the floral bathrobe walks into frame at a completely normal unhurried pace, angling to meet the rolling coil — and simply puts both palms flat against its face. The coil stops dead against her hands: her slippers slide backward a few centimeters on the grit as she absorbs its rolling momentum, her body leaning into it at a realistic bracing angle, bathrobe swaying forward from the deceleration — then stillness. She straightens up and looks at the coil the way someone looks at a fallen bag of rice. The truck driver climbs down from the cab far ahead, jogging back, then slowing to a stunned stop mid-road.
+
+阶段三 (14–22s, the lift): Continuous dashcam view. She squats beside the coil with an ordinary, practical motion — hands finding the coil's inner bore and bottom edge — and stands up WITH IT: the coil rising off the ground in her arms, its colossal mass now readable only in the physics around her — her slippers pressing visible marks into the softened asphalt, small stones cracking under her feet, her steps short and flat-footed under the load, the coil's wrapped steel bands creaking. She carries it toward the pulled-over trailer at a normal walking pace, body tilted back to counterbalance, the truck driver backing away with both hands on his head. The dashcam car rolls slowly closer, the view growing, heat shimmer off the road.
+
+阶段四 (22–30s, the throw + walk-off): Same continuous view. At the trailer's side she rocks the coil back once — a real preparatory counter-swing — and HEAVES it up onto the flatbed: the coil arcs a short, heavy, believable trajectory, lands on the trailer bed with a colossal BANG, the entire trailer slamming down on its suspension, tires bulging, the tractor unit bouncing, dust jumping off every surface, and the coil settling into place with one slow half-rotation before going still. The trailer rocks twice more on its springs, settling. She wipes her palms against each other twice — the universal "done" gesture — turns, and walks back toward the sidewalk at the same unhurried pace, exiting frame as the truck driver stands frozen beside his trailer. Ends with the dashcam car slowly driving past the scene: the trailer still faintly swaying, the driver staring, the cracked dent in the asphalt where the coil landed sliding past the bottom of frame.
+
+保持一致: Same elderly woman, same pale pink floral bathrobe, same tight silver-gray permed curls (never bald), slippers throughout; the red semi with flatbed trailer and giant steel coils; ONE continuous fixed dashcam shot from the following car — hood and wiper edge at bottom of frame, wide-angle distortion, washed dashcam colors, road vibration, compression-artifact texture, the view moving only with the car's own braking and slow rolling; daylight, tree-lined road; zero cuts. Her demeanor is completely ordinary and unhurried — normal walking pace, practical squat-and-lift, the palm-wipe — played dead straight, no showing off; the comedy IS the contrast between the impossible feat and her total nonchalance. All physics real EXCEPT her strength: the coil falls with catastrophic mass (cracked asphalt, centimeter bounce, trailer rocking upward on release), rolls with slow unstoppable momentum, stops against her hands with her slippers sliding and body bracing, presses her footprints into asphalt during the carry, and lands back on the trailer with full suspension slam, tire bulge, double rebound and a settling half-rotation; secondary motion on dust, grit, bathrobe and the trailer's springs throughout. Road otherwise empty of pedestrians; the driver and filming car always at a safe distance; nobody in the coil's path; nobody injured. No on-screen text, no subtitles, no slow motion, no cuts.
+
+Audio: cabin interior of the filming car — engine idle, faint radio murmur, a soft "ồ" from the unseen driver — under the outside sounds carried muffled through the windshield: the strap snapping, the coil's earth-shaking impact and cracking asphalt, its heavy grinding roll, the scrape of her slippers as she stops it, steel bands creaking during the carry, her flat footsteps, the trailer's colossal BANG and suspension slam with double rebound, dust settling, the truck driver's distant exclamation, traffic idling, the filming car slowly accelerating past. No voice-over. No music.
 ```
 
 </details>
@@ -1575,6 +2252,83 @@ No cuts, crash zooms, dissolves, flat canvas flyovers, wall-relief effects, scen
 
 </details>
 
+<a id="seedance-liquid-metal-bmw-assembly-garage"></a>
+### Liquid metal assembles into a matte black BMW
+
+<a href="https://x.com/itsSaira_1/status/2109495654607446267"><img src="../../previews/seedance-liquid-metal-bmw-assembly-garage.jpg" width="360"></a>
+
+The prompt sequences the build from chassis and engine to body panels and then headlights, so the transformation reads as clear steps. The closing camera orbit reveals finished details like the calipers and wheels, and the 4k photorealistic wording sets the render style.
+
+Seedance 2.5 · Text-to-video · Source: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2109495654607446267)
+
+[`liquid-metal`](tags.md#tag-liquid-metal) [`transformation`](tags.md#tag-transformation) [`bmw`](tags.md#tag-bmw) [`car-showcase`](tags.md#tag-car-showcase)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hyper-realistic cinematic shot in a dimly lit underground concrete parking garage. A glossy, black liquid-metal blob pools on the ground, suddenly shooting out tendrils that rapidly assemble to build a high-performance matte black BMW sports car from the chassis and engine up. Body panels fold seamlessly into place, the LED headlights flash on, and the camera pans around the finished vehicle revealing blue brake calipers and custom black wheels. 4k resolution, photorealistic, smooth fluid motion.
+```
+
+</details>
+
+<a id="seedance-magical-pencil-live-action-animation"></a>
+### Couple walking hand in hand in a sunlit park
+
+<a href="https://x.com/MissDelulu9/status/2090661426079952935"><img src="../../previews/seedance-magical-pencil-live-action-animation.jpg" width="360"></a>
+
+Each subject gets its own named target style (soft pastel 2D, watercolor, black and white line art, illustrated) so the model has four distinct transitions to follow in one clip. The live action setting is stated up front and the magical pencil trails serve as the cue for each transformation.
+
+Seedance 2.5 · Text-to-video · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2090661426079952935)
+
+[`style-transition`](tags.md#tag-style-transition) [`live-action-to-animation`](tags.md#tag-live-action-to-animation) [`magical-pencil`](tags.md#tag-magical-pencil) [`watercolor`](tags.md#tag-watercolor)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hand holding a light-blue magical pencil points at real moving subjects, seamlessly transforming them into beautiful 2D hand-drawn animation while preserving their natural movement. A cute couple walking hand-in-hand transforms into soft pastel 2D animation, a flying butterfly turns into colorful watercolor art, a teal-and-white train becomes black-and-white line art, and realistic trees transform into dreamy illustrated artwork. Smooth camera movement, magical pencil trails, bright realistic environments, seamless live-action-to-animation transitions, cinematic and satisfying.
+```
+
+</details>
+
+<a id="seedance-miniature-skateboarder-desk-adventure"></a>
+### Tiny 2D skateboarder rides across a real desk
+
+<a href="https://x.com/harboriis/status/2104106520808157221"><img src="../../previews/seedance-miniature-skateboarder-desk-adventure.jpg" width="360"></a>
+
+A hand drawn 2D character is composited into live macro footage of desk items, and timestamped beats stage each trick on a different object so the scale shifts stay readable. Macro and tilt shift framing sell the size gap, and the sound design is named explicitly.
+
+Seedance 2.5 · Text-to-video · Source: [@harboriis on X](https://x.com/harboriis/status/2104106520808157221)
+
+[`mixed-reality`](tags.md#tag-mixed-reality) [`stop-motion`](tags.md#tag-stop-motion) [`macro`](tags.md#tag-macro) [`skateboard`](tags.md#tag-skateboard)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Subject
+A miniature hand-drawn 2D animated girl with messy black hair, an orange shirt, teal shorts, striped socks, and a yellow backpack, riding a tiny orange skateboard across real-world office desk items.
+Style
+Mixed-reality hybrid animation combining 2D hand-drawn doodle character art with a realistic live-action desk environment. Features playful stop-motion physics, smooth line animations, and lighthearted background music layered with miniature skateboard rolling and grinding sound effects.
+Camera & Framing
+Close-up macro shots, dynamic low-angle tracking perspectives, and tilt-shift shallow depth-of-field focusing on the tiny skateboarder as she navigates large household objects.
+Audio & Scene Breakdown
+00:00 - 00:02
+Visual: Macro shot of the tiny 2D skateboarder balancing between two giant human fingertips on her miniature orange board before pushing off.
+00:03 - 00:05
+Visual: Low-angle tracking shot as she performs a kickflip off the edge and lands smoothly onto a wooden desk surface.
+00:06 - 00:08
+Visual: Side-profile shot grinding across the edge of an orange wooden ruler and launching up a curved piece of white paper like a halfpipe.
+00:09 - 00:14
+Visual: Dynamic camera angle as she drops into the rim of a ceramic mug filled with dark coffee, riding around the inner wall before launching back out.
+00:15 - 00:20
+Visual: Tracking shot following her as a human hand draws a green crayon path on notebook paper, grinding over a white eraser and hopping over spiral notebook rings.
+00:21 - 00:24
+Visual: Air shot as she jumps off an open notebook, performing a trick mid-air over a computer keyboard and desk surface.
+00:25 - 00:30
+Visual: Close-up as she launches into the air, does a 360 spin with her board, and lands precisely back onto the gap between the two giant human fingertips where she started.
+```
+
+</details>
+
 <a id="seedance-miniature-woman-convenience-store-adventure"></a>
 ### Miniature woman races through giant convenience store
 
@@ -1602,6 +2356,48 @@ End with the cinematic title: “SMALL SCALE. BIG ADVENTURE.” followed by “E
 SFX: Footsteps, packaging crinkles, candy rattles, plastic flexing, cart wheels, scanner beeps, conveyor hum, freezer sounds, rushing air, and cinematic impact.
 
 NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated character, face or outfit changes, distorted anatomy, floating, scale changes, narration, or subtitles.
+```
+
+</details>
+
+<a id="seedance-miniature-woman-tablecloth-climb"></a>
+### Tiny woman climbs tablecloth over giant dessert table
+
+<a href="https://x.com/oggii_0/status/2100474286599500015"><img src="../../previews/seedance-miniature-woman-tablecloth-climb.jpg" width="360"></a>
+
+A style lock names the 1968 TV look and the camera rules, and a character lock ties the woman to one reference image so her dress and face hold across cuts. Timed beats with a camera move for each segment give the model a clear shot plan, and the final static hold lets the result read as a finished frame.
+
+Seedance 2.5 · Reference-to-video · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2100474286599500015) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`1960s-tv`](tags.md#tag-1960s-tv) [`miniature`](tags.md#tag-miniature) [`scale-shift`](tags.md#tag-scale-shift) [`character-lock`](tags.md#tag-character-lock)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+16:9 widescreen, 30 seconds, Dola Continuous Engine.
+STYLE LOCK: Inspired by classic late-1960s Irwin Allen television production "Land of the Giants". Authentic 1968 television aesthetic. Practical miniature sets. Optical compositing. Slight matte-line separation between actress and background. Rear-projection feel. Eastmancolor television colors: warm skin, saturated red and yellow, slightly cyan shadows. Soft image sharpness. Mild film grain. Analog broadcast texture. Vintage studio lighting: one hard key from upper left, warm fill from the right, no rim light. Camera: static wide shots and slow television zoom lens only. No handheld. No modern lens flare.
+CHARACTER LOCK: @[Image 1](image_1)  is the only person. She remains identical in every frame:  1960s Korean mini dress  with [sleeve and neckline  classic 1960s makeup with winged liner and pale pink lips, white heels. Dress, hair, makeup and shoes never change .
+SETTING LOCK: an enormous 1960s dining table seen from her scale; she is the size of a salt shaker. White tablecloth hanging from the edge to the floor in long vertical folds. On the tabletop from left to right: a tall glass of milk with condensation beads, a giant slice of chocolate layer cake with thick frosting and a single lit birthday candle, a large silver spoon and fork crossed beside it, a bowl of vanilla ice cream with one huge cherry on top, a folded white napkin. Warm wooden tabletop. Pale yellow wall in the background. Props are practical scale with slightly soft edges.
+0–4 seconds:
+Static wide from floor level. The tiny woman climbs the hanging tablecloth, gripping the folds with both hands, one heel finding a fold below her. The cloth sways slightly under her weight. She looks up toward the table edge.
+4–7 seconds:
+Slow zoom in as she pulls herself over the edge, kneels, then stands upright on the tabletop. Her eyes widen and her mouth opens, gaze drawn toward the flickering candle flame on the cake. Her hands stay half raised.
+7–11 seconds:
+Static wide from behind her at her eye level. The dessert spread stretches across the table like a city skyline: the cake slice looms like a frosted mountain, the candle flame taller than she is, the milk glass glowing like a white tower, the spoon lying across the foreground like a bridge.
+11–15 seconds:
+She walks toward the cake, heels tapping the tabletop. Thick ridges of frosting drip down its side. The lit candle flickers above, casting warm moving light across her face. She touches the frosting edge with one hand and looks up along the flame.
+15–19 seconds:
+She climbs onto the cake's bottom layer, sits, scoops a bit of frosting with both hands, smiles, tastes it, licks her fingers, and looks left and right. Medium shot, slow zoom in to her face, candlelight flickering warmly on her skin.
+19–23 seconds:
+She stands and walks farther across the tabletop, stepping around the giant cherry from the ice cream bowl, passing between the spoon and the napkin. Static wide, then a slow pan following her.
+23–26 seconds:
+She stops beside the milk glass, looks up along the tall glass, and laughs with one hand resting on it. Condensation beads glisten and catch the light on her face.
+26–28 seconds:
+A massive shadow sweeps across the tabletop from the right and covers the milk glass and the cake. Her laugh stops. She lowers her hand and turns to face the right side of frame.
+28–30 seconds:
+HOLD. Camera fully static medium-wide shot. She stands facing screen right, feet together, right hand half raised at chest height, left hand at her side. The milk glass directly at her left, the cake slice behind her, the shadow across the whole tabletop. Her face is turned to the right, not yet tilted upward. Nothing moves for two full seconds.
+Audio
+Cheerful 1960s adventure television music, playful brass and strings. At 26 seconds the music thins to one held string note that continues to the end, with a faint fading birthday-music-box
 ```
 
 </details>
@@ -1790,6 +2586,534 @@ cartoon, anime, CGI-looking bird, fake feathers, deformed bird, malformed wings,
 ✨ FINAL QUALITY
 
 Photorealistic cinematic fantasy, highly detailed wet mud, realistic glass, physically accurate lighting, natural bird anatomy, extremely detailed feathers, believable mud-to-bird transformation, smooth 10-second animation, consistent objects and environment, premium cinematic quality, realistic depth of field, 4K-quality detail.
+```
+
+</details>
+
+<a id="seedance-pixel-portal-closet-dress-up"></a>
+### Empty vintage bedroom with amber lamp and clothing rack
+
+<a href="https://x.com/MissDelulu9/status/2094272120289415188"><img src="../../previews/seedance-pixel-portal-closet-dress-up.jpg" width="360"></a>
+
+Locks the camera and the subject's identity to a reference image, and spells out the timed beats with a rule that every outfit change is an instant hard cut. Keeping the realistic human separate from the flat pixel UI and portal effects keeps both layers crisp.
+
+Seedance 2.5 · Image-to-video · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2094272120289415188) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pixel-art`](tags.md#tag-pixel-art) [`dress-up`](tags.md#tag-dress-up) [`fashion`](tags.md#tag-fashion) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Style: Retro Y2K pixel dress-up game + photorealistic fashion video, cozy early-autumn forest-girl aesthetic, caramel/cream palette, 4K, 30fps, 16:9 vertical, 15 seconds. Realistic human + crisp 2D pixel UI.
+
+Character: Adult female. Her face, identity, skin tone, facial features, hair and body proportions must exactly match the reference image throughout. No identity or body changes.
+
+Setting: Cozy vintage bedroom/fashion studio with warm taupe walls, cream rug, wooden vanity, amber lamp, dark-green chair, magazines, dried autumn flowers, clothing rack, coffee table and soft afternoon sunlight.
+
+Camera: Locked full-body vertical shot, front-facing, slightly elevated, 24–28mm. She stays fully visible from head to shoes. No zoom, pan, tilt, shake or camera movement.
+
+Audio: Upbeat retro electronic music + clear 8-bit portal, click, equip, loading and victory sounds. No dialogue or subtitles.
+
+00:00–02.70 - PIXEL PORTAL
+
+Empty room. A tiny glowing 8-bit portal opens on the floor and expands. A giant brown-and-cream pixel hand pulls her into the room like a game character.
+
+She wears glossy cream satin pajamas with tiny brown dots, dark piping and white slippers. Copper-orange curly hair with wispy bangs. Eyes closed, relaxed sleepy pose.
+
+Portal disappears and a tiny pixel message appears: “PLAYER LOADED.”
+
+02.70–05.20 -CLOSET MENU
+
+She wakes, opens her eyes and looks at the camera.
+
+Pixel UI appears around the screen: “MIA’S CLOSET”, three pink hearts, pixel star, and five right-side buttons:
+
+TOP / SKIRT / KNIT / SHOES / BONUS
+
+A white pixel cursor appears. Loading meter reads “STYLE ENERGY: 00%” and fills to 100%.
+
+She stretches with both arms overhead. 8-bit “READY!” sound.
+
+05.20–10.80 -RAPID OUTFIT CHANGES
+
+Every change follows: cursor → highlight → click → short pause → instant hard cut.
+
+TOP: Satin pajama top → fitted cream-white lace camisole with brown ribbon and woodland embroidery.
+
+SKIRT: Satin pajama pants → brown-and-cream plaid layered mini skirt with lace trim. Vintage star + key necklaces appear.
+
+KNIT: Cocoa-brown fuzzy cropped cardigan appears, worn open. White patterned tights appear.
+
+SHOES: White slippers → cream slouch leg warmers + brown fluffy platform shoes.
+
+BONUS: Button becomes “LUCKY ITEM!” A cream-white beret appears, plus a structured dark-brown vintage handbag in her right hand.
+
+All changes are instant hard cuts. No morphing, particles, smoke or gradual transformations.
+
+10.80–13.00- STYLE SCORE
+
+UI changes to:
+
+AUTUMN STYLE
+98/100
+ COZY . Y2K  . VINTAGE  . FOREST
+
+She checks her outfit, adjusts her cardigan, looks at the camera, places her left hand on her waist and holds the handbag with her right hand. Relaxed S-shaped fashion pose, subtle smile.
+
+13.00–15.00- FINAL SCREEN
+
+Large pixel text:
+
+LEVEL COMPLETE!
+AUTUMN LOOK UNLOCKED
+
+Three hearts flash once. Small pixel leaves and NEW LOOK appear.
+
+She holds the final pose with natural breathing and tiny head movement. Freeze at exactly 15 seconds. No fade-out or black screen.
+
+FINAL OUTFIT: Cream beret, copper-orange curls, cocoa fuzzy cardigan, cream lace camisole, brown plaid layered mini skirt, vintage necklaces, white patterned tights, cream leg warmers, brown fluffy platform shoes, dark-brown vintage handbag.
+
+NEGATIVE: No face/identity/age/skin/body changes, no camera movement, no anatomy errors, no extra fingers/limbs, no clothing transparency or exposure, no missing outfit pieces, no UI over face, no corrupted text, no watermark/logos, no mirror, no background people, no plastic skin, no CGI/anime look. Human and clothing remain photorealistic; only UI, cursor, portal and effects are 2D pixel art.
+```
+
+</details>
+
+<a id="seedance-popcorn-volcano-crater-drop"></a>
+### Woman drops giant popcorn bag into volcanic crater
+
+<a href="https://x.com/ElsaSofia__AI/status/2104753404627268008"><img src="../../previews/seedance-popcorn-volcano-crater-drop.jpg" width="360"></a>
+
+The prompt gives a timed shot list from 0:00 to 0:17 and keeps the identity reference separate from the storyboard, so the face stays fixed while the action follows the timing. It also states physics rules and a full audio mix with no dialogue or text overlays, which keeps the eruption and popcorn spill readable.
+
+Seedance 2.5 · Reference-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2104753404627268008) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`popcorn`](tags.md#tag-popcorn) [`volcano`](tags.md#tag-volcano) [`character-reference`](tags.md#tag-character-reference) [`storyboard`](tags.md#tag-storyboard)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 17-second ultra-realistic cinematic vertical video featuring the woman from the provided character reference.
+
+Use the newly provided female character reference as the ONLY identity reference for the main character. Do NOT use the face or identity of the woman visible in the storyboard.
+
+Use the provided 13-panel Master Storyboard as the exact visual, chronological and action guide for the entire video.
+
+CHARACTER CONSISTENCY:
+Preserve the exact facial identity of the provided woman throughout the entire video, including her facial structure, eyes, nose, lips, skin tone, long dark hair, body proportions and recognizable appearance.
+
+Her identity must remain unchanged in every shot.
+
+Keep the character visually consistent from beginning to end. No face drift, no identity change, no hairstyle transformation and no replacement character.
+
+The wardrobe should be adapted naturally for the volcanic adventure while maintaining a believable, consistent outfit throughout the sequence.
+
+IMPORTANT:
+The Master Storyboard controls the scenes, actions, camera progression, timing and visual composition.
+The provided character reference controls ONLY the identity and appearance of the main woman.
+
+Do not copy the storyboard woman's face.
+
+STORY AND ACTION:
+
+SHOT 1 — 0:00–0:02
+Begin with the woman holding an enormous transparent bag completely filled with unpopped popcorn kernels near the edge of a massive volcanic crater.
+
+Use a close-to-medium cinematic perspective showing her, the giant popcorn bag and the glowing crater in the background.
+
+She looks toward the crater with curious anticipation.
+
+SHOT 2 — 0:02–0:03
+Move closer as she looks down toward the crater.
+
+Her expression changes slightly as she watches the glowing lava below.
+
+The giant popcorn bag remains firmly in her hands.
+
+SHOT 3 — 0:03–0:04
+She releases the giant popcorn bag.
+
+The transparent bag begins falling downward into the crater.
+
+Use a dynamic camera movement following the falling bag.
+
+Keep the bag physically consistent and clearly visible.
+
+SHOT 4 — 0:04–0:05
+The bag hangs above the glowing lava crater.
+
+Use a dramatic overhead perspective looking down into the circular volcanic formation.
+
+The bag continues descending naturally under gravity.
+
+The glowing lava illuminates the transparent plastic and popcorn kernels.
+
+SHOT 5 — 0:05–0:06
+The bag falls closer toward the lava.
+
+Increase the sense of speed while maintaining realistic gravity and physical motion.
+
+The camera follows the bag toward the center of the crater.
+
+SHOT 6 — 0:06–0:08
+The crater suddenly erupts.
+
+A powerful vertical volcanic burst rises from the center.
+
+The popcorn bag is caught in the eruption.
+
+Use a dramatic wide overhead shot showing the full scale of the crater.
+
+SHOT 7 — 0:08–0:09
+The eruption transforms into an enormous explosion of freshly popped popcorn.
+
+Thousands of realistic popcorn pieces burst upward and outward.
+
+Use a fast cinematic camera push into the popcorn cloud.
+
+Each popcorn piece should have believable individual motion.
+
+SHOT 8 — 0:09–0:10
+The popcorn explosion fills the frame and transitions into the interior of a small vehicle or cabin.
+
+Popcorn rushes through the space and begins accumulating everywhere.
+
+Use strong forward motion as the popcorn wave moves toward the camera.
+
+SHOT 9 — 0:10–0:12
+The cabin rapidly fills with popcorn.
+
+Popcorn rises from the floor and piles naturally around the seats and interior surfaces.
+
+The volume increases continuously until the woman is surrounded.
+
+Do not make the popcorn appear instantaneously.
+
+SHOT 10 — 0:12–0:14
+The camera pushes through the popcorn toward the woman.
+
+She is partially buried in the enormous pile, with her upper body and face clearly visible.
+
+She looks toward the camera and begins laughing.
+
+Popcorn moves naturally around her shoulders and arms.
+
+SHOT 11 — 0:14–0:15
+Close-up of the woman emerging from the popcorn.
+
+She smiles directly toward the camera.
+
+A few popcorn pieces rest naturally in her hair and on her shoulders.
+
+Warm orange volcanic light illuminates her face.
+
+SHOT 12 — 0:15–0:16
+She gathers a large handful of popcorn with both hands.
+
+She brings it toward her mouth with a playful, delighted expression.
+
+Keep the popcorn pieces physically consistent and naturally positioned.
+
+SHOT 13 — 0:16–0:17
+Extreme close-up final moment.
+
+She happily eats the popcorn while looking toward the camera.
+
+She smiles playfully with popcorn around her.
+
+End on her satisfied expression.
+
+CAMERA:
+Use motivated cinematic camera movement throughout:
+handheld close-ups, overhead crater shots, dynamic tracking, dramatic push-ins, macro popcorn details and an intimate final close-up.
+
+Use subtle speed changes only where they enhance the eruption and popcorn explosion.
+
+PHYSICS:
+Realistic gravity.
+Realistic falling motion.
+Realistic volcanic eruption dynamics.
+Realistic popcorn expansion and flight.
+Realistic popcorn accumulation and weight.
+Realistic interaction between the woman and the popcorn.
+
+No teleportation.
+No duplicated character.
+No duplicate popcorn bags.
+No changing clothing.
+No face drift.
+No distorted hands.
+No floating objects without physical cause.
+
+AUDIO:
+Natural environmental sound combined with cinematic action sound design.
+
+Include wind around the crater, deep volcanic rumble, falling-object sounds, eruption impact, rushing air, popcorn impacts, cabin movement and the woman's natural laughter.
+
+No dialogue.
+No narration.
+No subtitles.
+No text overlays.
+No logos.
+No watermark.
+
+FINAL LOOK:
+Ultra-realistic live-action cinematic footage with a surreal comedy-adventure feeling.
+
+The sequence must follow the 13-panel Master Storyboard exactly in chronological order.
+
+The newly provided woman must remain the same recognizable person from the first frame to the last frame.
+
+Only the character identity is changed. Everything else from the storyboard remains unchanged.
+```
+
+</details>
+
+<a id="seedance-rainy-neon-girl-style-transition"></a>
+### Rainy neon street girl shifts through anime to blockbuster
+
+<a href="https://x.com/Inshrah_ali_/status/2086452771029647477"><img src="../../previews/seedance-rainy-neon-girl-style-transition.jpg" width="360"></a>
+
+Timecoded beats tie each style change to one continuous motion, with the raised hand as the trigger. Repeating that the same girl, outfit, pose and camera move carry through every shift keeps the identity locked across the three looks.
+
+Seedance 2.5 · Text-to-video · Source: [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2086452771029647477)
+
+[`style-transition`](tags.md#tag-style-transition) [`anime`](tags.md#tag-anime) [`timecoded-beats`](tags.md#tag-timecoded-beats) [`hollywood-trailer`](tags.md#tag-hollywood-trailer)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium cinematic 15-second transformation story following the SAME young female protagonist continuously through three visual styles: realistic live-action → high-end anime/3D animation → Hollywood blockbuster.
+
+0–5s — REALISTIC WORLD
+A stylish young woman walks alone through a modern city at night.
+
+Rain falls lightly. Neon signs reflect across the wet street. She wears a sophisticated black streetwear outfit with subtle red accents.
+
+She hears a powerful hip-hop beat.
+
+She stops.
+
+Close-up of her eyes.
+
+She looks toward camera and begins a confident dance-inspired movement.
+
+Typography appears:
+“WHO ARE YOU?”
+
+Camera rapidly pushes toward her hand as she raises it toward the lens.
+
+5–10s — ANIMATED WORLD
+The exact hand movement triggers the transformation.
+
+The live-action city smoothly becomes a breathtaking high-end animated world.
+
+The SAME girl, SAME outfit, SAME pose and SAME movement continue without interruption.
+
+Stylized energy particles surround her. Buildings stretch upward. Neon colors pulse with the beat.
+
+She performs a powerful choreographed movement through the animated city.
+
+Typography dynamically forms around her:
+
+“WHO YOU CHOOSE TO BE.”
+
+Use fluid premium animation, detailed facial expressions, realistic cloth movement and cinematic camera choreography.
+
+10–15s — HOLLYWOOD BLOCKBUSTER
+During her final animated movement, the environment suddenly transforms into an epic Hollywood-style cinematic cityscape.
+
+The SAME girl lands on a rooftop overlooking a massive glowing metropolis.
+
+Realistic wind moves her hair and clothes. Dramatic clouds, atmospheric haze, anamorphic lens flare and powerful backlighting create blockbuster scale.
+
+Camera circles her as she turns toward the lens.
+
+Final beat.
+
+She confidently smiles.
+
+Huge cinematic typography appears:
+
+“BECOME UNSTOPPABLE.”
+
+Final hero frame with dramatic music impact and premium movie-trailer finish.
+
+VISUAL RULE: The transformation should feel like ONE continuous shot/story—not three separate clips. Preserve the girl's identity, clothing, movement, camera direction and emotional expression through every style transition.
+```
+
+</details>
+
+<a id="seedance-roller-coaster-wig-time-freeze"></a>
+### Coaster wig flies off, frozen in time
+
+<a href="https://x.com/techhalla/status/2083585132917579834"><img src="../../previews/seedance-roller-coaster-wig-time-freeze.jpg" width="360"></a>
+
+Timed segments, each with an explicit shot type such as medium, orbital or close-up, tell the model what each moment looks like. Stating the exact rewind endpoint and that only the young woman keeps moving lets the freeze and reverse hold together.
+
+Seedance 2.5 · Text-to-video · Source: [@techhalla on X](https://x.com/techhalla/status/2083585132917579834)
+
+[`time-freeze`](tags.md#tag-time-freeze) [`rewind`](tags.md#tag-rewind) [`comedy`](tags.md#tag-comedy) [`roller-coaster`](tags.md#tag-roller-coaster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic cinematic daytime amusement park roller coaster, bright hard sunlight, strong wind, realistic motion blur on tracks and background, subtle handheld camera energy, rich skin detail, heavy natural film grain.
+
+0-5s: [Medium Shot] A young woman in her early 20s sits in the front seat of a moving roller coaster car, calm and slightly bored, hair whipping in the wind. Beside her sits a middle-aged man wearing what looks like a normal full head of hair. Behind them, another car with a woman is visible. The coaster drops and banks hard.
+
+5-9s: [Dynamic Tracking] The force of the turn rips the man’s wig free. It peels off his bald head in a chaotic upward arc, spinning and flying backward through the air. The wig lands messily on the head of the woman in the car behind. Everyone’s faces freeze in pure shock and confusion at the peak of the chaos. Time locks completely. Only the young woman in the front keeps moving.
+
+9-15s: [Slow Orbital + Detail] Camera slowly orbits the frozen cars. The wig hangs mid-air in a twisted shape with individual hairs suspended. The bald man’s scalp is fully exposed, mouth open. The woman behind is frozen mid-scream with the wig draped over her face. The young woman looks sideways, rolls her eyes and mouths “joder, otra vez”. She reaches into her pocket, pulls out a stick of chewing gum, unwraps it and calmly puts it in her mouth, starting to chew while the entire frozen scene (except her) begins a precise reverse.
+
+15-20s: [Medium Close-up] The rewind is controlled and elegant: the wig lifts off the woman behind, flies backward through the air in reverse, and returns exactly to the moment it is only beginning to peel off the bald man’s head. Time freezes again at that precise instant — the front edge of the wig just lifting, a few strands already loose.
+
+20-26s: [Tight Medium] Still frozen for everyone else, the young woman takes the chewed gum out of her mouth, reaches over and firmly presses it onto the center of the bald man’s scalp, right under the lifting wig. With the same hand she smooths and presses the wig back down into perfect place, locking it with the gum. She sits back, looks straight ahead with a tiny private smile, completely unbothered.
+
+26-30s: [Medium Shot] Time suddenly resumes at full real-time speed. The coaster continues its drop. The man touches his head, feels the wig still firmly in place, looks confused for a second, then breaks into a relieved, happy smile. The young woman stares forward, already chewing a new piece of gum, expression of quiet satisfaction.
+
+Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+```
+
+</details>
+
+<a id="seedance-tiny-chef-giant-kitchen"></a>
+### Tiny hand-drawn chef beside giant wooden spoon
+
+<a href="https://x.com/AIwithSynthia/status/2105129836750786993"><img src="../../previews/seedance-tiny-chef-giant-kitchen.jpg" width="360"></a>
+
+A mixed-reality structure pairs a 2D hand-drawn character with a photorealistic kitchen, and macro and low-angle shots sell the scale gap. Numbered visual beats in time order plus a separate audio list keep the multi-step sequence readable.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2105129836750786993)
+
+[`mixed-reality`](tags.md#tag-mixed-reality) [`2d-animation`](tags.md#tag-2d-animation) [`kitchen`](tags.md#tag-kitchen) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Subject
+A miniature hand-drawn 2D animated girl with curly black hair, a yellow apron, red sneakers, and a tiny wooden spoon, cooking inside a realistic full-sized kitchen.
+
+Style
+Mixed-reality hybrid animation combining playful 2D hand-drawn doodle character art with a photorealistic live-action kitchen. Whimsical stop-motion physics, expressive line animation, exaggerated scale, warm cinematic lighting, and playful cooking sound effects.
+
+Camera & Framing
+Macro close-ups, low-angle tracking shots, overhead kitchen perspectives, dramatic push-ins, and shallow depth of field emphasizing the tiny chef against oversized kitchen objects.
+
+Audio & Scene Breakdown
+
+Visual: The tiny chef stands beside a giant mixing bowl, struggling to climb onto a wooden spoon before using it as a makeshift ladder.
+
+Visual: She jumps into the bowl and rapidly mixes pancake batter while the whisk spins around her like a giant amusement-park ride.
+
+Visual: She slides down a stream of pancake batter onto a massive frying pan, narrowly avoiding a falling blueberry.
+
+Visual: The pancake suddenly flips into the air. She jumps onto it and rides it like a surfboard as it spins above the pan.
+
+Visual: She lands on a giant plate, then uses a strawberry as a trampoline to bounce onto a stack of pancakes.
+
+Visual: She proudly places a tiny strawberry on top, but the strawberry rolls away. She chases it across the enormous plate.
+
+Visual: The camera pulls back to reveal the finished pancake breakfast. The tiny chef sits on the edge holding her spoon proudly—then a giant fork suddenly enters frame and lifts the entire pancake stack away. She freezes in disbelief.
+
+Audio: Playful kitchen ambience, whisking, batter splashes, pancake flip, tiny footsteps, comedic impact sounds, subtle upbeat music, no dialogue.
+```
+
+</details>
+
+<a id="seedance-tokyo-skyline-confetti-motion-graphics"></a>
+### Tokyo skyline assembling from raining geometric shapes
+
+<a href="https://x.com/noorwithwifi/status/2091194579689394463"><img src="../../previews/seedance-tokyo-skyline-confetti-motion-graphics.jpg" width="360"></a>
+
+The prompt sets out the scene in time order: shapes rain in, assemble into the skyline, scatter, reform around Skytree, then settle into a row of circles. Naming five exact colour groups and a final flat-circle row gives the model a defined ending frame.
+
+Seedance 2.5 · Text-to-video · Source: [@noorwithwifi on X](https://x.com/noorwithwifi/status/2091194579689394463)
+
+[`motion-graphics`](tags.md#tag-motion-graphics) [`3d-animation`](tags.md#tag-3d-animation) [`tokyo`](tags.md#tag-tokyo) [`abstract`](tags.md#tag-abstract)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a vibrant 3D motion graphics animation where colorful spheres, bars, and cylinders rain onto a neutral background and assemble into a stylized Tokyo skyline with Tokyo Tower, pagodas, and floating orbs. The cityscape scatters into geometric confetti, then rapidly reforms around Tokyo Skytree before dissolving again into five color groups red, dark blue, pink, teal, and yellow that settle into a clean row of flat circles. Smooth transitions, dynamic motion, polished 3D lighting, and a modern minimalist aesthetic.
+```
+
+</details>
+
+<a id="seedance-watercolor-chinese-girl-timelapse"></a>
+### Hand paints a Chinese style watercolor girl timelapse
+
+<a href="https://x.com/leo_xiaolei/status/2100043047857729721"><img src="../../previews/seedance-watercolor-chinese-girl-timelapse.jpg" width="360"></a>
+
+Timed beats split the clip into outline, ink lines, scattered colour fills and a final gold highlight, so the model follows a clear sequence. An overhead camera on hands only, with no face, and a reference image for the final layout keeps the composition steady.
+
+Seedance 2.5 · Reference-to-video · Source: [@leo_xiaolei on X](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+[`watercolor`](tags.md#tag-watercolor) [`timelapse`](tags.md#tag-timelapse) [`hand-drawn`](tags.md#tag-hand-drawn) [`illustration`](tags.md#tag-illustration)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+俯视镜头对准桌面上的一本白色水彩画册，纸张起初完全空白，侧上方照射着柔和自然光，桌面摆放铅笔、黑色代针笔、细水彩笔与调色盘。画面中仅出现一双女性纤细的手，无人脸出现。 前 2 秒，女性右手拿起铅笔以高节奏缩时画出轮廓：中央是粉红长发的国风少女，右手比出 V 字手势，左手持一把小团扇，身穿白色交领上衣搭配粉红马面裙，发间佩戴花簪，头顶有带缠枝莲纹的圆形彩窗光环；左侧描出中式牌楼轮廓，右侧勾出青瓦水榭与锦鲤池塘，远方浮现云雾缭绕的连绵青山，左右上角同步画出两朵如意形祥云，外围以中式圆拱花窗边框与海棠枝条环绕。 第 3 秒，手持黑色代针笔快速描绘，将所有轮廓收整成如彩色玻璃镶嵌般粗黑利落的分格线条，线条分割出头发、交领上衣、马面裙、团扇、光环、牌楼、水榭、池塘、远山、祥云与外框花朵等独立色块区域。 第 4 至 7 秒进入上色阶段，女性右手握着水彩笔进行跳跃式、不连续、多区域同时推进的分散上色：笔尖先落在中央少女的粉红头发涂抹渐层色块，随即跳至右上角祥云点上淡黄色；接着笔尖跳转到左侧牌楼刷上朱红，再跳至右下角池塘涂上湛蓝水色与橘白锦鲤；随后又跳回腰间系带染上金黄，跳至左上角祥云补色，再分散跳去外框海棠点上粉白，最后随机补上远山的灰蓝与天空的紫粉色洗色。整体上色过程刻意呈现东一块、西一块、无固定顺序的散点推进节奏，色彩在黑色分格线内自然晕染重叠。 最后 1 秒，女性的手在光环与花簪细节处点上金色亮部收尾，水彩笔放下并移出画面，镜头缓慢拉远，完整展示画册上精致完成、色彩斑斓、带有浓烈手绘温度的国风少女花窗玻璃水彩插画。人物位置、景物分布与画面层次参照参考图片，服饰、建筑、山景和装饰均以以上中国元素描述为准。
+```
+
+</details>
+
+<a id="seedance-witch-tea-spell-spat-back"></a>
+### Magic tea overheats and gets spat back
+
+<a href="https://x.com/MahiraEhan/status/2112552026651668836"><img src="../../previews/seedance-witch-tea-spell-spat-back.jpg" width="360"></a>
+
+A single identity reference image locks the character while the beats run in strict causal order, from filament contact to tea rotation to the sip. Naming the same mouthful spat back into the same cup and listing the priority locks keeps the comedy readable without cartoon physics.
+
+Seedance 2.5 · Reference-to-video · Source: [@MahiraEhan on X](https://x.com/MahiraEhan/status/2112552026651668836) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fantasy-comedy`](tags.md#tag-fantasy-comedy) [`magic-effects`](tags.md#tag-magic-effects) [`identity-lock`](tags.md#tag-identity-lock) [`macro-shot`](tags.md#tag-macro-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Duration: 10s | Strict 16:9 Landscape | Native 4K UHD | 24fps. Genre: Cinematic Slice-of-Life Fantasy Comedy / Elemental Magic. Target: Ultra-realistic premium live-action fantasy cinema. Use @ image1 as the sole identity reference; preserve exactly as shown, ignoring only background, pose, framing, and text. Exactly one Character A, with no redesign, duplication, morphing, identity drift, outfit change, or hairstyle change. In an old witch’s kitchen, Character A attempts to make one cup of tea using elemental magic, but the spell becomes unexpectedly powerful. The scene begins with a table-level macro shot of a still ceramic cup of tea while Character A’s tired, unimpressed face remains softly blurred behind it. Character A reaches for the wand and raises it in profile. A thin orange-blue magical filament travels continuously from the wand tip through open space into the center of the tea, visibly making contact with the liquid and creating a subtle glowing ripple and warm reflection inside the cup; only after contact does the tea begin rotating. The stirring starts gently, then accelerates unnaturally fast, creating a small controlled whirlpool and a few droplets rising from the surface without splashing wildly. Character A watches with slightly widened eyes, then makes one quick reverse wand gesture to cancel the spell. The tea immediately becomes still. Character A lowers the wand onto the table, lifts the cup carefully, and takes one small sip. There is absolutely no disgust before tasting. After a brief beat, the excessive heat registers: Character A’s eyes narrow, brows pinch, nose wrinkles slightly, and the lips tighten into a restrained, exhausted grimace. Character A leans forward and spits the same mouthful of tea back into the same ceramic cup, keeping the lower face and cup visible together; show one small restrained spray of liquid leaving the mouth and landing back inside the cup, with no vomiting or excessive saliva. Character A then stares at the cup with quiet offended disbelief while lowering it toward the table, ending during the movement with no smile, camera look, victory pose, freeze frame, or fade. Camera language is cinematic macro depth with rack focus, tight profile, wand insert, readable over-the-shoulder magical contact, overhead tea-whirlpool detail, extreme eye close-up, and tight three-quarter reaction, maintaining consistent screen direction and avoiding chaotic camera shake or teleportation. Audio consists of quiet witch-kitchen ambience, wand ignition, a subtle magical hum, liquid swirling, cancellation sound, a small sip, restrained “ptuh,” soft liquid landing, and a disappointed exhale. Music is cozy, mischievous slice-of-life comedy using acoustic guitar, pizzicato strings, muted piano, playful clarinet, and brushed percussion, with no vocals; build gently during the magical stirring, briefly thin the score as the heat registers, then add one understated plucked accent when the tea lands back in the cup. Keep music below the sound effects and avoid boing sounds, circus music, meme sounds, or laugh tracks. Maintain strict causality: FILAMENT CONTACT → TEA STIRS → SPELL ESCALATES → SPELL CANCELLED → TEA STILL → SIP → HEAT REGISTERS → SAME MOUTHFUL SPAT BACK INTO SAME CUP → DEADPAN REGRET. Priority locks are identity, visible magical contact, continuous tea-state consistency, sip before reaction, the same mouthful visibly returning to the same cup, stable facial anatomy, restrained acting, realistic liquid physics, cinematic close-ups, and readable comedic timing. Negative prompt: duplicate character, duplicate cup, duplicate wand, duplicate tea, missing magical contact, magic hitting table or hand, reaction before sipping, new liquid appearing, whole cup spat out, vomiting, excessive saliva, broken mouth anatomy, premature stirring, instant violent whirlpool, large magical explosion, injury, identity drift, exaggerated acting, cartoon physics, anime, cheap CGI, plastic skin, discontinuity, frozen frames, subtitles, text, logo, watermark.
+```
+
+</details>
+
+<a id="seedance-woman-dragon-jacket-neon-night-market"></a>
+### Heroine with dragon jacket calmly drinks in neon market
+
+<a href="https://x.com/Viniai_/status/2101202565321101780"><img src="../../previews/seedance-woman-dragon-jacket-neon-night-market.jpg" width="360"></a>
+
+The 15 second run is split into timestamped beats, each with its own camera and lighting direction, and the character and location lock is repeated so identity and neon light stay consistent across shots. Calm framing against a chaotic crowd is set up by naming the emotional contrast directly in the prompt.
+
+Seedance 2.5 · Text-to-video · Source: [@Viniai_ on X](https://x.com/Viniai_/status/2101202565321101780) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`night-market`](tags.md#tag-night-market) [`neon`](tags.md#tag-neon) [`creature-vfx`](tags.md#tag-creature-vfx) [`timed-beats`](tags.md#tag-timed-beats)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyperrealistic cinematic short video, 15 seconds long at 24fps, 1280x720 widescreen, in the visual style of a high-end supernatural-powers commercial/ad — grounded photoreal live-action look with heavy VFX, night-time neon lighting, and a deliberately understated, unbothered performance from the main character throughout.
+
+CHARACTER: A young woman in her mid-twenties with sleek jet-black hair pulled into a high ponytail with a few loose strands framing her face, sharp defined features, and warm olive skin. She wears a fitted crimson-red silk bomber jacket with gold embroidered dragon detailing over a black fitted turtleneck, slim black trousers, and delicate gold hoop earrings with a thin gold chain necklace. Her expression is calm, composed, and faintly amused even amid chaos. Render her with photoreal skin detail, natural proportions, and keep her exact face, hairstyle, and outfit fully consistent across every single shot and camera angle for the entire 15 seconds — no identity drift, no design changes between cuts.
+
+LOCATION: A rain-slicked night market street in a dense, towering Asian megacity — narrow lane packed with glowing neon signage in red, pink, and cyan, hanging paper lanterns, steam rising from food stalls, puddles reflecting the neon glow underfoot, and tightly packed multi-story buildings with illuminated windows rising into a hazy, overcast night sky. Keep this lighting, architecture, and atmosphere fully consistent across every shot.
+
+CREATURE: A massive bioluminescent alien insectoid monster with an iridescent green-teal-purple segmented carapace, multiple armored clawed legs, and wing-like appendages, crashing through a large market structure/scaffolding in the background and causing the surrounding crowd to flee in panic. Keep its design, color, and proportions consistent in every shot it appears in.
+
+ACTION SEQUENCE (chronological, 0:00-0:15, render the complete sequence in this order without skipping or shortening any beat):
+0:00-0:04 — Opens with the main character seen from behind and then in side profile, standing calmly amid a moving, bustling night-market crowd, casually sipping from a beverage can, while neon signage flickers and reflects in the wet street around her and the crowd moves past, establishing a normal, lively night-market atmosphere.
+0:04-0:07 — The giant creature crashes into the background market structure, sending sparks, steam, and debris flying; the surrounding crowd screams and flees in both foreground and background, but the main character remains still and unfazed, continuing to drink calmly even as the creature's massive leg looms close behind her.
+0:07-0:09 — Glowing electric-blue lightning veins begin spreading across her exposed skin (neck, hands, and jacket seams), her ponytail whips upward as if caught in a rising magical energy field, her eyes ignite into glowing electric blue-white with twin light-trails streaming down like glowing tears, and a faint translucent blue force-dome begins forming around her silhouette, reflecting in the wet pavement below.
+0:09-0:11 — She raises one arm and extends her open hand toward the creature, fingers illuminated with crackling light; a searing horizontal beam of white-blue energy erupts from her palm in an extreme close-up, then a wide shot shows the beam connecting directly down the narrow street into the creature in a blinding flash of white light that briefly washes out the neon signage, striking it down amid rising steam and smoke.
+0:11-0:13 — Aftermath beat: she lowers her arm and the lightning fades from her skin as the camera holds on her calm profile, neon reflections flickering back across the wet street; smoke and small ground fires smolder in the background where the creature was struck down, with radial scorch and burn marks fanning out across the wet pavement.
+0:13-0:15 (ending) — She turns and walks calmly away from the destruction with a neutral, unbothered expression, checking her phone casually mid-stride, and approaches a nearby night-market food stall in the foreground (steam rising, hanging lanterns, bottles on display) as smoke continues to rise behind her — the sequence ends on this casual walk-away shot, power fully deactivated, as if nothing happened.
+
+CAMERA WORK: A mix of close medium shots from behind and in profile during the calm opening beats, a wider reactive shot as the creature crashes in, tight close-ups on the skin/eye transformation during the power-activation beat, an extreme close-up on the glowing hand during the beam release, a wide shot for the beam impact, and a following medium shot for the final calm walk-away. Camera movement is subtle and handheld-cinematic, never rushed, contrasting calm framing on the character against chaotic framing of the crowd and creature.
+
+LIGHTING AND COLOR: Cool night ambient lighting throughout, with vivid red, pink, and cyan neon signage reflecting off wet pavement and glass, warm lantern light and food-stall steam in the background, contrasted against the electric blue-white glow of the character's powers and lightning veins, and warm orange fire/ember tones during the aftermath smoke and scorch marks. High dynamic range with strong rim lighting separating the character from the busy neon-lit background in every shot.
+
+STYLE AND QUALITY: Photoreal hyperrealistic rendering with cinematic film grain, physically-based materials, detailed skin and fabric texture, realistic hair and cloth physics, wet-street reflections, atmospheric steam and smoke particle simulation, sharp foreground focus with natural depth-of-field falloff on the crowd and background chaos, color-graded like a premium commercial, fine 4K-equivalent detail, a tonal contrast between calm character performance and chaotic surrounding energy sustained across the full 15 seconds.
+
+CONSISTENCY AND NEGATIVE CONSTRAINTS: Maintain strong frame-to-frame and shot-to-shot consistency in the main character's facial identity, hairstyle, outfit, and proportions, and in the creature's design, across every camera angle described above. Avoid identity drift, face morphing, warping, flickering, duplicated limbs, extra fingers, distorted anatomy, inconsistent clothing or color between cuts, mismatched lighting direction, unwanted text, logos, watermarks, subtitles, low-resolution artifacts, plastic or waxy skin texture, and unnatural or robotic motion. Preserve natural physics for hair, cloth, smoke, lightning, and light-beam effects throughout. Render the complete 15-second sequence exactly as timed above, from the opening calm shot through the final walk-away shot, without skipping, shortening, or rushing any beat.
 ```
 
 </details>

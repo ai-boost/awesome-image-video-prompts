@@ -1,0 +1,48 @@
+id: h3-ramen-selfie-vlog-kitchen
+title:
+  en: Selfie vlog of a ramen bowl in kitchen
+  zh: 厨房自拍视频展示拉面碗
+model: MiniMax H3
+mode: reference-to-video
+category: vlog
+tags:
+- ugc
+- selfie-vlog
+- food
+- product-reference
+- dialogue
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2083461207919612348
+  credit: Taaruk
+  likes: 35
+  captured: '2026-10-29'
+  posted: '2026-08-01'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Taaruk_/status/2083461207919612348
+notes:
+  en: Naming a specific phone and its autofocus hunting and handheld drift makes the clip read as authentic UGC rather than a polished ad. A reference image locks the bowl across all eight shots, and timed shot breakdowns with inline dialogue keep the pacing tight.
+  zh: 用具体的手机机型、自动对焦抖动和手持晃动来描述镜头，让画面更像真实的 UGC 而非广告大片。上传参考碗图锁定八个镜头中的碗型与配料，按秒标注分镜并写入台词，节奏更紧凑。
+prompt: |
+  Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energy — NOT cinematic.
+  Product Reference: Use the uploaded ramen bowl image as the only product reference. Keep the broth color, noodle thickness, toppings, egg placement, chashu slices, and bowl appearance identical throughout every shot.
+  Camera: iPhone 15 Pro handheld with front/back camera switching, realistic autofocus hunting, natural handheld movement, slight exposure shifts, warm apartment lighting.
+  Character Description
+  Name: Yuna
+  A young Japanese woman in her early 20s with soft natural beauty, shoulder-length dark hair tied loosely, subtle makeup, oversized gray hoodie, cheerful personality, filming casually inside a cozy apartment kitchen.
+  Shot Breakdown
+  SHOT 1 (0–2s) — Selfie holding the ramen bowl.
+  Dialogue: "Late-night ramen again."
+  SHOT 2 (2–4s) — Overhead reveal with steam rising.
+  SHOT 3 (4–6s) — Close-up autofocus on noodles and broth.
+  SHOT 4 (6–8s) — Chopsticks lifting noodles with a natural noodle stretch.
+  SHOT 5 (8–10s) — Selfie bite reaction.
+  Dialogue: "That's insanely good."
+  SHOT 6 (10–12s) — Casual b-roll of the bowl while she reaches for another bite.
+  SHOT 7 (12–14s) — Selfie holding noodles toward camera.
+  Dialogue: "Worth every bite."
+  SHOT 8 (14–15s) — Freeze frame with handwritten overlay: "ramen fix 🍜"
+  Look & Feel
+  Warm lighting, natural phone quality, authentic UGC pacing, jump cuts, realistic handheld movement.
+  Negative Prompt
+  cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic steam, plastic food, distorted chopsticks, extra fingers, warped hands, overprocessed HDR, text artifacts.

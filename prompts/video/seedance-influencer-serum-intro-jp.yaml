@@ -1,0 +1,43 @@
+id: seedance-influencer-serum-intro-jp
+title:
+  en: Influencer shows pink serum bottle to camera
+  zh: 网红对镜头展示粉色美容液瓶
+model: Seedance 2.5
+mode: image-to-video
+category: commercial
+tags:
+- beauty
+- skincare
+- product-demo
+- japanese-dialogue
+source:
+  name: '@tanabe_fragm on X'
+  url: https://x.com/tanabe_fragm/status/2097515319309013359
+  credit: タナベ | AI動画 × マーケティング
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+video: https://x.com/tanabe_fragm/status/2097515319309013359
+notes:
+  en: It anchors the opening frame to a reference image and locks face, hair, outfit and bottle, then times the Japanese line to the clip length with one bottle lift and a smile deepening in the second half. Room sound only, plus an explicit ban on cuts, zoom, captions and logos, keeps it a clean single shot talking demo.
+  zh: 用参考图锁定起始画面，并固定人物面容、发型、服装和瓶身，再把日语台词按7秒节奏切分，前半抬瓶一次、后半加深微笑。只保留室内环境音，并明确禁止切镜、变焦、字幕和logo，使其成为干净的单镜头口播演示。
+prompt: |
+  7秒、縦型9:16、ワンカット。インフルエンサーが普段の投稿で、お気に入りの美容液を紹介する自然なオープニング。
+
+  【人物・商品】
+  参照画像を開始フレームに使用。女性の顔立ち、ブラウンのショートヘア、アイボリーのニットを維持。ピンク色の美容液ボトルを頬の横で持ち、反対の手を底に添える。ラベルはカメラに向けたまま。
+
+  【セリフ・演技】
+  開始直後から話し始め、約7秒かけて次のセリフを話す。
+
+  「今日は、私のお気に入りの美容液を紹介します。これ、みんなにも見てほしかったんです！」
+
+  友人に話しかけるような、明るく親しみのある声。少し軽快な会話のテンポで、長い間は入れず、短い息継ぎだけで続ける。最後の「です」が映像の終わり近くに自然に収まる。語尾を引き伸ばしたり、最後だけ早口にしたりしない。
+
+  前半の「私のお気に入りの美容液」で、両手で支えたボトルを2〜3センチだけ持ち上げる。後半の「これ、みんなにも」で微笑みを少し深める。最後までレンズに視線を向け、自然なまばたきと小さな表情の変化を添える。商品を動かす仕草は1回だけ。話し終わった後の無言のポーズは設けない。
+
+  【環境・カメラ】
+  参照画像と同じ明るい室内。画面左の窓から柔らかな自然光。スマートフォンを目線の高さに固定して撮影したような安定した構図。顔と商品を明瞭に見せ、肌のきめと自然なツヤを残す。
+
+  【音声・制約】
+  日本語のセリフと口の動きを正確に同期。本人の声を明瞭にし、静かな室内音のみ、BGMなし。
+  人物の顔、髪型、衣装、ボトルの形状・色・ラベルを維持。指と持ち方を自然に保つ。キャップを開けない。大げさな身振り、カット切り替え、ズーム、過剰な美肌加工、字幕、追加ロゴなし。

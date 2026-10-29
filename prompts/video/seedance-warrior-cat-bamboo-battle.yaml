@@ -1,0 +1,29 @@
+id: seedance-warrior-cat-bamboo-battle
+title:
+  en: Warrior cat in samurai armor on bamboo arch
+  zh: 武士猫立于月下竹拱桥上
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- cat
+- samurai
+- bamboo-forest
+- multi-shot
+source:
+  name: '@Elvorya on X'
+  url: https://x.com/Elvorya/status/2106237323046486362
+  credit: Elvorya
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Elvorya/status/2106237323046486362
+notes:
+  en: A numbered beat list with arrows and a named camera move for each shot gives the model a clear shot order. Locking the character design in the prompt and listing identity drift and deformed faces in the negative prompt helps the cat stay consistent across cuts.
+  zh: 用带编号的分镜节拍和箭头分隔，并为每个镜头指定明确的运镜，让模型按顺序生成。固定角色外观的描述，并在负面提示词中列出身份漂移和面部变形，有助于角色在各个镜头间保持一致。
+prompt: |
+  Create a 15-second photorealistic cinematic fantasy action sequence featuring a small anthropomorphic warrior cat battling masked ninjas in a mysterious moonlit bamboo forest. Begin with a wide low-angle establishing shot moving slowly through tall dark bamboo stalks, mist-covered ground, glowing warm Japanese lanterns hanging between the trees, and a huge full moon illuminating the fog → reveal the small warrior cat standing confidently on a curved bamboo arch, wearing detailed dark-blue samurai armor, a flowing dark cape, leather accessories, and a wide traditional straw hat, with a katana at his side → transition into a dynamic tracking shot as multiple masked black-clad ninjas emerge from the surrounding mist, forming a threatening circle around the tiny warrior → cut to a dramatic close-up of the cat as his eyes become intensely focused and he draws his sword, a brilliant electric-blue magical energy beginning to glow along the blade → suddenly transition into a fast cinematic action shot as the warrior cat leaps high into the air above the ninjas, cape and clothing reacting naturally to the movement, swinging his glowing blue sword in a powerful arc → follow with a low-angle tracking shot through the bamboo as the cat rapidly moves between attacking ninjas, leaving elegant blue energy trails through the mist → cut to a wide shot showing multiple ninjas being knocked backward while the warrior remains centered and controlled → transition into a slow-motion heroic landing as the cat lands on a moss-covered rock, glowing sword held low at his side while the surrounding enemies stagger behind him → final shot becomes a heroic low-angle wide shot of the tiny warrior standing proudly beneath the enormous full moon, bamboo trees towering around him, mist drifting across the forest floor, cape gently moving in the wind, and the brilliant blue sword glowing against the dark night.
+
+  Visual style: ultra-photorealistic fantasy film, realistic fur and facial details, detailed samurai armor, believable fabric and fur movement, realistic sword physics, atmospheric volumetric moonlight, natural fog, cinematic depth of field, dramatic composition, high-detail bamboo forest, realistic shadows, premium VFX, smooth character animation, dynamic camera movement, epic fantasy adventure atmosphere, 4K detail.
+
+  Negative prompt: cartoon, anime, low resolution, plastic fur, deformed face, extra limbs, extra weapons, duplicate characters, distorted hands or paws, inconsistent armor, changing character design, identity drift, floating objects, unrealistic sword movement, excessive motion blur, oversaturated colors, text, subtitles, watermark, logo, frame glitches, unnatural physics.

@@ -1,0 +1,27 @@
+id: seedance-toon-noir-rabbit-brawl
+title:
+  en: Rabbit bouncer brawls bulldog boss in toon alley
+  zh: 兔子打手在卡通小巷大战斗牛犬老大
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- 2d-animation
+- cartoon
+- timeline-prompt
+- action-comedy
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2113995327183138938
+  credit: yourPlugAI
+  captured: '2026-10-29'
+  posted: '2026-10-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/yourPlugAI/status/2113995327183138938
+notes:
+  en: Each beat lists its visual, action and sound separately, with fixed costumes and props for every character (red bandana, iron crowbar, pinstripes, trench coat, spring glove gun), so identity holds across cuts. Rapid 2 to 3 second beats and named sound effects keep a 15 second cartoon brawl readable.
+  zh: 每个时间段分别写明画面、动作和音效，每个角色都固定了服装和道具（红色头巾、铁撬棍、条纹西装、风衣、弹簧拳击手套枪），让形象在切换镜头时保持一致。每2到3秒一个节拍，并点名音效，让15秒的卡通打斗节奏清晰可控。
+prompt: "Brawn & Brawl: Toon-Noir.\U0001F430\U0001F527\n@PixVerse \n\n1 street-smart Rabbit Bouncer vs. a Bulldog Mob Boss & Weasel Gunner in a 1990s Toon-Noir metropolis! \n\n✨Generated with Seedance 2.5 on PixVerse with 60fps hand-drawn 2D retro action animation and non-stop 2-to-3 second beats.\n\n✨Grab the FULL prompt framework and character sheets from the PixVerse Canvas link attached below\U0001F447\U0001F3FE\n\n#PixVerseCPP #PixVerseAI \n\nPhase 1: 00:00 to 00:15 (Seedance 2.5) \n\n[ENGINE DIRECTIVE]\nGenerate a continuous 15-second hand-drawn 2D retro action-cartoon sequence at 60fps in 16:9 widescreen format using Seedance 2.5. Style: 1990s Toon-Noir animation (Who Framed Roger Rabbit meets Samurai Jack), thick bold ink line art, dynamic squash-and-stretch cartoon physics, elastic brawling, rapid 2-to-3 second beats. Maintain 100% strict visual consistency with provided asset sheets: \"Buster Brawn\" (Grey rabbit with red bandana and iron crowbar), \"Tony the Toof\" (Bulldog mob\
+  \ boss in pinstripes), and \"Chippy\" (Weasel in oversized trench coat). Setting strictly follows \"Neo-Toon Metropolis Alleyway\". Zero idle downtime.\n\n[AUDIO DIRECTIVE]\n• MUSIC: High-tempo jazzy big-band brass score mixed with fast slapstick percussion and explosive orchestral risers.\n• SOUND DESIGN: Spring BOING sounds, cartoon boxing glove BOOM, metallic crowbar CLANGS, comic starburst CHIMES, and soot explosion POOFS.\n\n[TIMELINE BREAKDOWN]\n\n00:00 - 00:03 | ALLEY DUMPSTER PERCH & SYNDICATE STEP-OUT\n• VISUAL: Dynamic low-angle tracking shot panning up from rain-slicked asphalt to Buster adjusting his bandana atop a metal dumpster.\n• ACTION: Buster sits adjusting his red bandana as Tony the bulldog and Chippy the weasel step out from a neon \"DINER\" shadow, brass knuckles and spring-gun glinting.\n• SOUND: Neon sign buzz, dumpster lid CREAK, ominous brass knuckles CLICK, fast jazz trumpet intro.\n\n00:03 - 00:06 | SPRING-GUN LAUNCH & ELASTIC DUMPSTER PUNCH\n• VISUAL: Speed-ramped\
+  \ lateral tracking camera following the stretched trajectory.\n• ACTION: Chippy fires his spring-loaded boxing glove gun. Buster stretches and leaps high into the air as the massive glove punches straight through the dumpster, leaving a comically fist-shaped hole.\n• SOUND: High-pitch spring BOING, metal dumpster punch IMPACT, cartoon stretch WHOOSH.\n\n00:06 - 00:09 | GROUND-SLAM SPLAT & CLOTHESLINE CROWBAR BAT\n• VISUAL: Low-angle tracking shot capturing the elastic rebound.\n• ACTION: Tony throws a brass-knuckle ground slam. Buster \"splats\" flat on the ground, rebounds off an elastic clothesline, and swings his heavy iron crowbar like a baseball bat in mid-air.\n• SOUND: Heavy ground slam THUD, elastic clothesline TWANG, crowbar swing WHOOSH.\n\n00:09 - 00:12 | JAW CLANG IMPACT & STARBURST VIBRATION\n• VISUAL: Extreme close-up impact frame with cartoon starburst effects and vibration lines.\n• ACTION: The crowbar strikes Tony’s steel jaws, creating a vibrant burst of cartoon starbursts\
+  \ and a \"DANG!\" impact effect that visibly vibrates the bulldog’s entire frame.\n• SOUND: Metallic jaw strike CLANG, comic bell DONG, ringing vibration chimes.\n\n00:12 - 00:15 | MARBLE SPIN & TRENCH COAT SOOT SHIELD\n• VISUAL: Medium wide shot tracking the explosion and smoke cloud.\n• ACTION: Chippy throws explosive bouncing marbles. Buster spins, grabs Chippy's oversized trench coat, and uses him as a shield to intercept the explosion, sending a cloud of dark soot and stars across the alley, setting up Phase 2.\n• SOUND: Bouncing marble BOINGS, soot explosion POOF, coughing weasel squeaks, swelling action riser.\n"

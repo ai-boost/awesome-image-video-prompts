@@ -1,0 +1,66 @@
+id: h3-ink-after-dark-eyes-emerge
+title:
+  en: Cream eyes emerge from total darkness
+  zh: 黑暗中浮现一双米色眼睛
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- title-sequence
+- noir
+- paper-wipe
+- retro-print
+source:
+  name: '@opener_ai on X'
+  url: https://x.com/opener_ai/status/2087042643369099381
+  credit: Jin.B
+  likes: 28
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/opener_ai/status/2087042643369099381
+notes:
+  en: Timed beats with second markers and a fixed three-colour palette give the model a clear shot order. The reveal is held back behind a narrow strip of light across the eyes until the torn-paper wipe turns the dark frame into a graphic transition.
+  zh: 用秒数标注的分段节拍和固定的三色限制，让模型有明确的镜头顺序。开场先用一条光带扫过眼睛，把揭示留到纸张撕裂的转场，让黑暗画面变成图形化的过渡。
+prompt: |
+  [FORMAT]
+  Create a 15-second, 16:9 retro graphic opening-title sequence titled "INK AFTER DARK".
+  A stylish 1960s pulp-noir animation about a mysterious night writer. Bold, minimal, elegant, slightly dangerous, with dry visual wit.
+
+  [IDENTITY]
+  Keep one female writer visually consistent throughout: sharp angular bob haircut, narrow almond-shaped eyes, long black turtleneck, high-waisted trousers, slim silhouette, black leather gloves, calm expression, upright self-assured posture, and hard graphic highlights along one side of her face.
+  Use flat hand-inked 2D illustration with rough screen-print texture, imperfect paper grain, and slightly uneven ink edges.
+
+  [BEATS]
+  [0–3 seconds] Extreme close-up of the writer's face emerging from near-total black. A narrow cream-colored strip of light slides across her eyes. The frame abruptly opens sideways like torn paper, revealing her full silhouette walking across a burnt-red background while loose sheets of paper trail behind her like a long ribbon.
+
+  [3–6 seconds] The paper ribbon sweeps across frame and becomes a graphic wipe. Reveal her in profile at a desk. She strikes one typewriter key. On impact, the screen fractures into three bold rectangular panels: her gloved fingers, the metal typebar snapping forward, and a giant black ink letter striking paper.
+
+  [6–9 seconds] Rapid rhythmic close-ups: spinning typewriter ribbon spool, carriage return lever snapping sideways, black ink spreading through rough paper fibers. Thin cream lines cut diagonally across the screen and reorganize the images into an asymmetric editorial collage.
+
+  [9–12 seconds] Pull wide. The writer stands alone beside an enormous abstract typewriter rendered as a black geometric silhouette. She pulls one endless page upward. The rising page becomes a full-frame cream vertical wipe while scattered black letters tumble downward like physical debris.
+
+  [12–15 seconds] The letters rapidly assemble into the exact title "INK AFTER DARK" centered large on a burnt-red paper field. The writer's small black silhouette crosses beneath the title and exits frame. The title appears through sharp letter-by-letter mechanical impacts over 0.5 seconds, holds completely still through the ending. No bouncing, spinning, stretching, or fly-in typography.
+
+  [CAMERA]
+  Use aggressive graphic changes in scale: extreme facial close-up → full-body silhouette → macro mechanical inserts → monumental wide composition.
+  Camera movement should feel designed rather than realistic: fast lateral pushes, sudden graphic crops, one rapid pull-out, and precise locked compositions. Avoid conventional cinematic orbit shots.
+
+  [LIGHT]
+  Limited palette only: burnt red, aged cream, deep black, with tiny muted silver highlights on typewriter metal.
+  Hard noir side-lighting translated into flat graphic shapes. Rough vintage print stock, subtle paper scratches, coarse ink grain, slight registration offsets, and occasional frame jitter.
+
+  [EDIT]
+  Fast editorial rhythm with hard cuts, paper wipes, diagonal panel slices, oversized object masks, and split-screen recompositions.
+  Transitions must be motivated by paper, ink, typewriter mechanisms, or moving silhouettes. No soft dissolves.
+  Make every shot feel newly composed rather than simply zooming into the previous image.
+
+  [AUDIO]
+  Audio: dry typewriter key strikes, paper slides, ribbon-spool clicks, carriage-return snaps, faint room hum, and one heavy mechanical impact when the final title locks.
+  BGM: an original 15-second cue, 65% noir suspense and 35% cool jazz. Upright bass, brushed snare, muted vibraphone, sparse low piano, and short clipped brass accents. Begin almost empty, introduce bass at 3 seconds, rhythmic percussion at 6 seconds, a brief brass accent at 10 seconds, then freeze the final 2 seconds on one bass note and the mechanical title hit. Do not imitate an existing melody.
+
+  [NEGATIVE]
+  No subtitles, extra on-screen text, watermarks, platform logos, or stickers.
+  Do not introduce Chinese text, garbled characters, misspellings, or additional title variations. Render "INK AFTER DARK" once only.
+  No 3D CGI, photorealism, anime styling, glossy modern motion graphics, neon cyberpunk aesthetics, or smooth vector-clean surfaces.
+  Never a slideshow. Maintain active graphic motion, physical visual transitions, and continuously evolving compositions.

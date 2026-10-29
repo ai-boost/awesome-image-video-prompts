@@ -1,0 +1,33 @@
+id: seedance-bare-faced-makeover-swipe
+title:
+  en: Bare faced woman swipes into glamorous makeover
+  zh: 素颜女子挥手变身华丽妆容
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- makeup
+- transformation
+- beauty
+- hard-cut
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2108101531426083045
+  credit: MissDelulu9
+  captured: '2026-10-29'
+  posted: '2026-10-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/MissDelulu9/status/2108101531426083045
+notes:
+  en: A timed beat sheet with hard cuts, white flashes and snap zooms locks the pacing for each second. The palm swipe covers the lens as the hidden cut, so the transformation reads as one gesture instead of a morph.
+  zh: 用逐秒的时间轴规定镜头，硬切、白闪和快速推拉连接各段节奏。手掌划过镜头作为遮挡切点，让变身看起来像一个连续动作，而不是形变过渡。
+prompt: |
+  Creare 10-second ultra-realistic Douyin-style makeup transformation of the same attractive young adult woman, cinematic 16:9, luxury beauty-commercial aesthetic.
+
+  0–2.5s: Bare face, messy hair, oversized T-shirt, sleepy expression in a casual room. Slow push-in. She suddenly becomes confident and makes a FAST sideways palm swipe across the lens. Camera whip-pans with her hand; palm covers frame.
+
+  2.5s: HARD CUT + WHITE FLASH + WHOOSH + SHAKE. Instant hidden transformation, no morphing. SNAP ZOOM OUT → IN.
+
+  2.5–4s: Black studio. Full glamorous Douyin makeup, styled voluminous hair, elegant fashion outfit. Strong wind blows her hair. Fast head turn + intense eye contact.
+
+  4–10s: Rapid editorial sequence: FLASH → HARD CUT → NEW POSE → CAMERA MOVE. Hair sweep, 3/4 turn, hand near jaw, low-angle pose, final hero shot. Multiple flashes and snap zooms, ending with a huge white photography flash + brief freeze.

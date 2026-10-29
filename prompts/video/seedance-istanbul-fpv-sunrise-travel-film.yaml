@@ -1,0 +1,43 @@
+id: seedance-istanbul-fpv-sunrise-travel-film
+title:
+  en: Istanbul mosque rooftops rising above sunrise fog
+  zh: 伊斯坦布尔清真寺穹顶升起于晨雾之上
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- fpv-drone
+- istanbul
+- travel
+- timed-shots
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2106439652278411435
+  credit: simeon-sanai
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+video: https://x.com/Naiknelofar788/status/2106439652278411435
+notes:
+  en: The prompt splits the film into timed beats, each with one camera move and one transition type, such as an FPV dive, hyperlapse or match cut. That gives the model a shot order instead of only a mood, and the named opening cues (sunrise mist, aerial dive over Istanbul) anchor the first beat.
+  zh: 提示词按时间段拆分为多个镜头，每段只指定一种运镜和一种转场（如 FPV 俯冲、延时摄影或匹配剪辑），让模型按顺序执行分镜，而不只是营造氛围。开场的日出薄雾和伊斯坦布尔上空的俯冲等明确描述为首段提供了视觉锚点。
+prompt: |
+  Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TURKEY. Blend cyberpunk technology with Istanbul’s historic architecture, vibrant streets, Mediterranean and Aegean coastlines, and spectacular night imagery. Use extreme-speed FPV drone movement, hyperlapse, seamless spatial transitions, and dense but controlled flash-cut editing. 8K cinematic realism, photorealistic environments, realistic crowds and vehicles, dramatic lighting, smooth motion blur only during rapid transitions, premium commercial cinematography. No text, logos, subtitles, or watermarks.
+
+  [0–6s] — CITY FROM THE SKY
+  Begin above Istanbul at sunrise, surrounded by mist and clouds. An FPV drone dives rapidly between modern skyscrapers before sweeping toward the Bosphorus. The scene transitions from warm daylight into blue-hour neon as the city below comes alive. Cars create flowing light trails while the camera races through vibrant streets, revealing Istanbul’s futuristic energy beside historic architecture.
+
+  [6–12s] — TECHNOLOGY & HISTORY
+  Use rapid cinematic match cuts: a modern tram glides through the city, instantly transitioning into a close-up of a traditional Turkish coffee being prepared; a speeding ferry cuts across the Bosphorus, followed by a dramatic aerial reveal of the Hagia Sophia and Blue Mosque. Turkish street life, glowing shopfronts, crowded avenues, and modern architecture flash together in rhythmic visual transitions.
+
+  [12–18s] — SPATIAL FOLD TO THE COAST
+  A moving object passes directly across the lens and becomes a seamless transition into the Turkish coastline. The camera bursts over crystal-clear turquoise water near Antalya and races along dramatic Mediterranean cliffs. Speedboats cut through the sea, white spray exploding behind them. Transition toward Cappadocia as hot-air balloons suddenly fill the sky above the surreal rock formations.
+
+  [18–24s] — TURKEY IN MOTION
+  The camera dives between Cappadocia’s towering rock formations and rapidly transitions to a bustling Istanbul street at golden hour. Match-cut between a Turkish flag waving in the wind, a crowded bazaar, traditional architecture, modern city traffic, and people enjoying the coastline. Use fast but visually coherent transitions that emphasize Turkey’s contrast between ancient heritage and modern life.
+
+  [24–30s] — THE GRAND FINALE
+  Night falls instantly. The camera rises above Istanbul and reveals the Bosphorus illuminated by thousands of city lights. A massive coordinated drone light show forms elegant abstract shapes above the skyline while boats move across the glowing water below. The camera pulls rapidly backward and upward into an enormous aerial panorama, revealing Istanbul stretching across both sides of the Bosphorus.
+
+  End with a powerful wide cinematic shot of the illuminated city, water, bridges, historic landmarks, and night sky.
+
+  STYLE: ultra-realistic 8K cinematic travel film,

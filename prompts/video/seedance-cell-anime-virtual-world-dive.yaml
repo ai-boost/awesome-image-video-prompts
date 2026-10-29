@@ -1,0 +1,24 @@
+id: seedance-cell-anime-virtual-world-dive
+title:
+  en: Glasses girl dissolves from grey town into colourful world
+  zh: 戴眼镜少女从灰色街道融入彩色虚拟世界
+model: Seedance 2.5
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- cel-animation
+- virtual-world
+- sound-design
+source:
+  name: '@Kohaku_NFT on X'
+  url: https://x.com/Kohaku_NFT/status/2086771803662549245
+  credit: こはく
+  captured: '2026-10-29'
+  posted: '2026-08-10'
+video: https://x.com/Kohaku_NFT/status/2086771803662549245
+notes:
+  en: Opens on a tight eye close up with the glasses rim lighting up, then turns the town into light shards rather than collapse, with each second of the transition timed. Sound and music are cued to exact timestamps, and a style lock bans photoreal and 3DCG output so the cel look holds.
+  zh: 开头用眼部超近景和镜框亮光建立角色，再把街道写成光的碎片而非崩塌，转场每一秒都有时间点。音效和配乐按时间点列出，并用风格锁定禁止写实与3DCG，保持手绘赛璐璐质感。
+prompt: "ミオは前半グラス装着差分→後半は仮想形態（髪先が桜色に発光・グラスなし）、ヨルは発光形態を使用。\n\n登場キャラクターは添付の設定資料と完全に同一の姿・配色で描く。 \n\n10秒のジブリ/サマーウォーズ風・手描き2Dセルアニメ劇場映画のワンシーン。\n\n柔らかい輪郭線、淡い水彩の背景美術、セル調の2段陰影、豊かな体積光。\n\n前シーンでグラスの縁が点灯した続きから始まる。\n \n【最重要】\n\n0秒からグラスの淡青光で始め、2秒以内に青灰色の現実が光のガラス片へほどけて、極彩色の仮想世界への落下を開始する。\n\nこの画変わりが本作最大の見せ場。 \n\n0.0〜1.0秒: 少女の目元の超クローズアップ。\n少女ミオ、14歳。黒髪の短いボブ、眉の上で切り揃えた前髪、右こめかみに星形の銀のヘアピン。大きな琥珀色の瞳、頬に薄いそばかす。\n\n白い半袖セーラーワンピース、襟に群青のライン、胸元に群青のリボン、膝丈スカート、赤いスニーカー。\n\nスマートグラスのレンズに光の輪が走り、瞳に極彩色が映り込む。 \n\n1.0〜2.0秒: 世界が水面のように波打ち、青灰色の商店街が無数の光のガラス片へ静かにほどけていく。\n\n破壊ではなく変換として描く。ミオの体がふわりと空へ吸い上げられる。 \n\n2.0〜4.0秒: 純白の無限空間をミオが落下する。周囲を極彩色の光の川が螺旋状に流れる。前方に光の尾が現れて先導する。仮想世界のヨルは輪郭が琥珀色の光の粒で縁取られ、尾が流星のような光の帯を引き、鈴が琥珀色に灯る。 \n\n4.0〜6.0秒: 落下が飛行に変わる。眼下に仮想世界の全景: 白い浮遊島の群れ、極彩色の光の川、無数のカラフルなアバターの群れ。カメラはミオの背後から超高速で追う。仮想世界のミオは同じ姿のまま髪の先が淡い桜色に発光し、スマートグラスは消えている。 \n\n6.0〜8.0秒: ヨルと並んで光の川を突き抜ける。両側を極彩色の光の帯が高速で通過し、ミオの髪とスカートが風にはためく。 \n\n8.0〜10.0秒: 中央にそびえる巨大な白い塔へ向かって急上昇し、頂上を越えた瞬間、仮想世界全体が眼下に開ける超広角。ミオが声を上げて笑う。開放感で終わる。 \n\n音響: 0秒の起動音、1秒でガラス片の澄んだ音、落下中は風と光の粒の音を立体的に。音楽はハープの上昇グリッサンドから2秒でストリングスが急上昇、6秒でフルオーケストラ、9秒で開放的な和音を鳴らす。\
+  \ 現実世界の破壊・崩落表現にしない（光へほどける変換として描く）。文字・字幕なし。\n\n実写・photorealistic・3DCG禁止。\n"

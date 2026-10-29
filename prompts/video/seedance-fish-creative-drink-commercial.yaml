@@ -1,0 +1,40 @@
+id: seedance-fish-creative-drink-commercial
+title:
+  en: Girl with milkshake in turquoise tiled booth
+  zh: 青绿瓷砖卡座里的女孩与奶昔
+model: Seedance 2.5
+mode: image-to-video
+category: commercial
+tags:
+- fast-cuts
+- whip-pan
+- product-commercial
+- image-reference
+source:
+  name: '@soulful__ai on X'
+  url: https://x.com/soulful__ai/status/2103844376120340877
+  credit: Soulful Ai
+  captured: '2026-10-29'
+  posted: '2026-09-26'
+video: https://x.com/soulful__ai/status/2103844376120340877
+notes:
+  en: Pins the subject to one reference image, then gives a timed 15 second beat sheet where each segment names its camera move, such as push in, whip pan or pull back. Banning slow motion and static shots keeps the pacing tight from start to finish.
+  zh: 先用一张参考图锁定人物、服装、店铺和品牌元素，再按 15 秒分段写清每段的运镜（推近、甩镜、拉远）和剪切节奏。明确禁止慢动作和静止镜头，让节奏从头到尾保持紧凑。
+prompt: |
+  Create a high-energy 15-second commercial using the provided image as the exact visual reference. Keep the same girl, outfit, sunglasses, turquoise tiled booth, Fish Creative branding, and drink.
+
+  The video should feel very fast, playful, trendy, and energetic, with constant movement and quick cuts.
+
+  0–3 sec: Start with a rapid camera push-in toward the girl. She grabs the Fish Creative drink and immediately brings it toward the camera.
+
+  3–6 sec: Quick close-up of the drink → whip-pan to her face → she gives a confident playful look and takes a quick sip.
+
+  6–9 sec: Fast camera movement around her as she presents the drink with energetic hand gestures. She moves naturally and confidently, keeping the product visible.
+
+  9–12 sec: Rapid product shots: drink close-up → Fish Creative logo → whipped cream → her smiling face. Use quick snap transitions between each shot.
+
+  12–15 sec: Camera quickly pulls back. She raises the drink toward the camera in a bold advertising pose, ending with the drink prominently in the foreground.
+
+  Visual direction: extremely fast-paced, energetic commercial, dynamic handheld camera, rapid push-ins, whip pans, quick zooms, snap transitions, lively body movement, punchy timing, vibrant retro aesthetic, cinematic lighting, subtle film grain.
+
+  Important: No slow movements, no slow motion, no static shots, no long pauses. Keep the girl actively moving and interacting with the drink throughout the entire 15 seconds.

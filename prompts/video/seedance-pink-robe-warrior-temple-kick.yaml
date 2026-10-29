@@ -1,0 +1,35 @@
+id: seedance-pink-robe-warrior-temple-kick
+title:
+  en: Warrior in pink robes kicks in wet temple hall
+  zh: 粉衣武者在湿润古殿中踢腿
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- wuxia
+- martial-arts
+- temple
+- magic-energy
+source:
+  name: '@aynellex on X'
+  url: https://x.com/aynellex/status/2108422475730309602
+  credit: aynellex
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aynellex/status/2108422475730309602
+notes:
+  en: The prompt splits the 15 seconds into timed scenes, each with its own camera move, then closes with a consistency block that locks face, outfit, body proportions and architecture across cuts. Naming the wet floor, volumetric light and haze gives the reflections and atmosphere that carry the shot.
+  zh: 提示词把15秒按时间拆成几段，每段写明镜头运动，结尾用一段一致性约束锁定人物面容、服装、身形和建筑。湿地面、体积光和薄雾的描写带来倒影与氛围。
+prompt: |
+  Create a cinematic 15-second photorealistic fantasy martial arts short film set inside a vast ancient temple hall with towering dark stone pillars, wet reflective floors, dramatic overhead light beams, and a mysterious atmospheric haze. The scene features a young female warrior with dark hair tied back, wearing an elegant flowing pink traditional martial arts outfit with layered fabric, long sleeves, a sash around her waist, and matching pink footwear.
+
+  SCENE 1 — 0–3 seconds: Begin with a dramatic low-angle wide shot of the warrior moving gracefully across the wet stone floor. She extends her arms and performs a fluid martial arts turn, her pink robes and long fabric ribbons flowing naturally through the air. Use smooth tracking camera movement, cinematic motion blur, and reflections beneath her feet.
+
+  SCENE 2 — 3–6 seconds: The camera circles around her as she leaps into the air, performing an elegant spinning kick and an acrobatic martial arts movement. Capture her flowing clothing, precise body movements, and controlled landing with dynamic low-angle shots and brief close-ups of her feet touching the reflective floor.
+
+  SCENE 3 — 6–10 seconds: As she lands in a low martial arts stance, glowing golden-orange energy begins swirling around her hands and feet. She sweeps one arm across the floor, releasing a luminous magical energy trail that races across the wet stone surface. Add realistic sparks, glowing particles, golden reflections, subtle smoke, and dramatic lighting. The magical effects should feel integrated into the environment rather than cartoonish.
+
+  SCENE 4 — 10–15 seconds: She launches into a powerful final aerial spin, rising toward a brilliant shaft of light in the center of the ancient temple. The camera pulls back into an epic symmetrical wide shot as golden energy spirals around her body and illuminates the towering pillars. End with the warrior suspended gracefully in the air, her pink robes flowing dramatically as the golden particles slowly fade.
+
+  Maintain consistent facial identity, hairstyle, outfit, body proportions, and temple architecture throughout the entire sequence. Use realistic human anatomy, fluid martial arts choreography, believable aerial movement, natural fabric physics, cinematic camera tracking, dramatic volumetric lighting, wet-floor reflections, subtle film grain, premium wuxia fantasy cinematography, highly detailed textures, photorealistic quality, 16:9 widescreen, smooth transitions, no text, no subtitles, no logos, no watermark.

@@ -1,0 +1,26 @@
+id: seedance-korean-woman-first-train-selfie-vlog
+title:
+  en: Korean woman selfie vlog on first train ride
+  zh: 韩国女生首次乘火车的手机自拍 vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- smartphone-vlog
+- selfie
+- train-travel
+- lip-sync
+- dialogue
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2094635608849166589
+  credit: saniaspeaks_
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/saniaspeaks_/status/2094635608849166589
+notes:
+  en: The prompt frames the whole clip as handheld phone footage, with arm length selfies, rear camera switches, walking jolts, autofocus hunting and train vibration, so it reads as a personal vlog instead of a produced film. Each line of dialogue is tied to a specific action, and the explicit same woman instruction keeps one identity across the cuts.
+  zh: 提示词把整段视频设定为手持手机拍摄，包括自拍视角、偶尔切换后置镜头、走路颠簸、自动对焦跳变和列车震动，因此更像个人 vlog 而非专业影片。每句台词都绑定一个具体动作，并明确要求同一人物全程保持一致，从而让各镜头之间的人物形象稳定。
+prompt: |
+  Ultra-realistic casual smartphone travel vlog of one consistent young Korean woman in her early 20s taking a train journey for the first time, speaking natural fluent English with accurate lip synchronization. Everything is filmed by her own hand on a real smartphone and must feel like an authentic personal social-media vlog, never cinematic or professionally filmed. Use mostly arm-length selfie footage with occasional natural switches to the rear camera, including slight hand shakes, awkward framing, walking jolts, autofocus hunting, exposure changes, motion blur, fingers near the lens, realistic train vibrations, window reflections, and authentic phone-camera quality. She starts at a busy station platform and excitedly says, “Okay guys, I’m taking the train today! Let’s go!” while showing the arriving train, then boards saying, “I made it!” She finds her window seat and says, “And I got a window seat!” As the train starts moving, she films outside and says, “We’re moving!” She casually shows a snack and drink, takes a bite, and says, “Everything tastes better on a train.” She then films beautiful passing scenery of trees, small towns, and distant mountains, quietly saying, “This view is so beautiful.” Finally, back in selfie mode with the moving scenery behind her, she smiles and says, “I think train journeys might be my new favorite thing. See you guys next time. Bye!” before waving and lowering the phone. Include realistic station announcements, train sounds, footsteps, passenger conversations, blinking, breathing, and spontaneous reactions. The same woman must remain perfectly consistent throughout, with no identity changes or duplicate people.

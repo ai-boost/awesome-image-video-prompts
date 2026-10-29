@@ -1,0 +1,25 @@
+id: seedance-character-swap-on-trigger
+title:
+  en: Woman with navy plush swaps characters on cues
+  zh: 女生抱着蓝色毛绒玩偶，随提示切换角色
+model: Seedance 2.5
+mode: video-edit
+category: vfx
+tags:
+- character-swap
+- video-edit
+- reference-images
+- lip sync
+source:
+  name: '@imtheboboo on X'
+  url: https://x.com/imtheboboo/status/2108131744008519943
+  credit: imtheboboo
+  captured: '2026-10-29'
+  posted: '2026-10-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/imtheboboo/status/2108131744008519943
+notes:
+  en: Each swap is pinned to a trigger, such as a timestamp or a gesture, so the model knows exactly when the subject changes. The core rules keep the original motion, lip sync, camera and background fixed, so only the character changes.
+  zh: 每次切换都绑定到一个时间点或动作触发器，让模型精确知道何时换人。核心规则固定原视频的动作、口型、镜头与背景，只改变角色。
+prompt: "\"Transform the original video by seamlessly replacing the main subject with new characters [@New Character], transitioning exactly at [Specific Triggers or Timestamps].\n\nTransformations:\n[Trigger 1, e.g., First finger snap / 0:05]: \nReplace the subject with [Character 1 Description: gender, body type, hairstyle, clothing, accessories, specific style] [@Character1].\n\n[Trigger 2, e.g., Camera pan / 0:12]: Replace the subject with [Character 2 Description: gender, body type, hairstyle, clothing, accessories, specific style] [@Character 2].\n\n[Add additional triggers and characters as needed]\n\nCore Execution Rules:\n\nPerformance: The new characters must perfectly mimic the original subject's exact body movements, physical proportions, hand gestures, facial expressions, and head tracking.\n\nAudio & Lip-Sync: Preserve original audio. Characters must accurately lip-sync all spoken dialogue in real-time.\n\nTechnical Alignment: Maintain the original video's camera movement,\
+  \ focal length, framing, perspective, pacing, and the original background ([Optional: Insert brief 3-word description of original background]).\"\n\n- Klik generate.\n"

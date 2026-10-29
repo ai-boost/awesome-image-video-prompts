@@ -1,0 +1,50 @@
+id: seedance-minidv-gym-day-vlog-2003
+title:
+  en: Young woman packs gym bag in bedroom
+  zh: 年轻女子在卧室收拾健身包
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- minidv
+- character-reference
+- timed-storyboard
+- vlog
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2106247874296062303
+  credit: saniaspeaks_
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/saniaspeaks_/status/2106247874296062303
+notes:
+  en: A timed beat sheet with exact second ranges and a continuity lock fixes the order of every action. MiniDV camera language (handheld shake, autofocus hunting, soft detail) and an explicit ban on modern devices keep the era look.
+  zh: 带精确秒数的分镜表和连贯性锁定条款固定每个动作的先后顺序。MiniDV 镜头语言（手持抖动、自动对焦波动、柔和细节）加上明确禁止现代设备，保持年代质感。
+prompt: |
+  Create a highly photorealistic 30-second early-2000s Japanese gym day vlog featuring ONE consistent young Japanese woman from the provided character reference. Preserve her exact face, hairstyle, hair length, body proportions, outfit, shoes and accessories throughout. No identity drift, outfit/hairstyle changes.
+
+  ERA LOCK — JAPAN 2003–2004: Authentic Tokyo neighborhood, period-accurate gym, old equipment, lockers, paper notices, vending machines, older cars, early-2000s sportswear and interiors. No smartphones, smartwatches, wireless earbuds, modern machines, LED screens or modern branding.
+
+  CAMERA / REALISM: Genuine friend-recorded MiniDV camcorder footage. Handheld, imperfect framing, slight shake, autofocus hunting, exposure shifts, soft DV detail, digital noise and natural motion blur. Use varied front, side, three-quarter, medium, occasional close-up, mirror and brief OTS shots. Camera sometimes walks beside her or films from in front. Not cinematic, DSLR, 4K, VHS or a retro filter.
+
+  EXACT STORY — KEEP THIS ORDER
+
+  0–4s: In her Japanese bedroom, she picks up gym bag, packs towel + water bottle, puts on sneakers and leaves apartment.
+  4–7s: Walks through a normal Tokyo neighborhood toward the gym, mostly front/side angles.
+  7–9s: Arrives at small period-accurate gym, pauses, opens door, enters.
+  9–11s: Reception desk → greets staff → checks in → enters gym area.
+  11–13s: Puts gym bag in locker, closes it and keeps the key.
+  13–16s: Warm-up on old treadmill, natural front/side shots.
+  16–19s: Simple weight machine → close-up of hands adjusting it → light controlled set.
+  19–21s: Open area → simple stretches, arms overhead and leg stretches.
+  21–23s: Water fountain → drinks from bottle → wipes face with towel.
+  23–26s: Returns to locker → opens it → retrieves gym bag/towel → closes locker.
+  26–28s: Walks to reception and exits gym. Outside, takes a refreshing breath and adjusts shoulder bag.
+  28–30s: Walks home through early-evening Tokyo, filmed naturally from front/side. Camera drifts slightly to reveal the surrounding street.
+
+  CONTINUITY LOCK: Every action must physically happen before the next. No teleportation, skipped transitions, repeated scenes, reversed actions, location jumps or duplicated objects/people. Same gym bag, towel, bottle and shoes throughout.
+
+  Natural moderate workout, believable effort and movement. She should not constantly smile or pose; only occasional natural glances toward camera.
+
+  FINAL STYLE: A spontaneous, intimate early-2000s Japanese everyday memory captured by a friend on a consumer MiniDV camcorder — authentic, imperfect and genuinely recorded.

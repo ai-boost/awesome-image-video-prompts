@@ -1,0 +1,67 @@
+id: h3-night-street-two-faces-sharp
+title:
+  en: Night street close-up with both faces sharp
+  zh: 夜街近景中两张脸同时清晰
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- reference-images
+- facial-close-up
+- japanese-dialogue
+- night-street
+source:
+  name: '@Tomw852 on X'
+  url: https://x.com/Tomw852/status/2107679859422195837
+  credit: Tom𝕎
+  likes: 16
+  captured: '2026-10-29'
+  posted: '2026-10-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Tomw852/status/2107679859422195837
+notes:
+  en: Three reference images lock both faces and the piggyback pose, and the prompt demands equal focus on both faces for the whole take with no rack focus. The Japanese line is written as ambient speech with street sound kept under it, so it sounds recorded in place.
+  zh: 三张参考图分别锁定两人的脸、背负姿势和夜间色调，提示词要求整段镜头两张脸始终同样清晰，不做焦点切换。日语台词被写成环境中的自然收录，街道声音始终保留在台词下方，使对白听起来像在现场录下。
+prompt: |
+  r34l1sm
+  subject_definitions:
+  <Subject 1> is the adult man from ​@Image1​, preserving his facial identity, tousled short black hair, natural skin texture, white shirt, dark plaid waistcoat, and suspenders.
+  <Subject 2> is the adult elf woman from ​@Image2​, preserving her facial identity, short dark bob with bangs, pointed ears, and oversized gray hoodie. Her expression is relaxed, affectionate, and quietly happy.
+  ​@Image3​ provides the intimate piggyback pose and teal-and-amber nighttime lighting. Use it for pose and atmosphere, giving the woman a warmer, more contented expression.
+
+  summary:
+  [reference generation] A fifteen-second affectionate love story in one continuous 16:9 two-person facial close-up. <Subject 1> slowly carries <Subject 2> through a quiet nighttime street. She softly asks to stay like this a little longer. He responds silently with a small smile and slower footsteps. Both faces remain simultaneously sharp. Her Japanese dialogue sounds naturally recorded within the street, with audible distance and environmental space.
+
+  retention_analysis:
+  <Subject 1> (appears in [Shot 1]): fully_preserved — retain his facial identity, hairstyle, and clothing.
+  <Subject 2> (appears in [Shot 1]): fully_preserved — retain her facial identity, hairstyle, pointed ears, and hoodie. Her performance conveys comfort and affection.
+  ​@Image3​ ([Shot 1] pose and atmosphere): partially_preserved — retain the piggyback relationship and nighttime palette; adapt the framing into a horizontal facial close-up with greater depth of field and a quietly happy female expression.
+
+  detailed_description:
+  Live-action cinematic realism, 16:9 landscape, fifteen seconds. A 35mm cinema lens, fine film grain, soft highlight halation, warm natural skin tones, and cool teal nighttime surroundings. Use moderately deep depth of field with enough soft, motivated street lighting to render both faces clearly.
+
+  [Shot 1] One uninterrupted take. A tight two-person facial close-up from slightly ahead and to the couple's left. <Subject 1>'s complete face occupies the lower-left center; <Subject 2>'s complete face appears above his right shoulder in the upper-right center. Include small portions of his collar and her gray sleeves. Her pointed ear remains visible through her short hair. Maintain a comfortable camera distance and natural facial proportions.
+
+  Both faces remain simultaneously in sharp focus throughout the entire shot. Clearly resolve both characters' eyes, eyelashes, lips, and skin texture. Use sufficient depth of field to cover the distance between their faces and their gentle walking movements. The woman is as sharply focused as the man, including when she rests against his shoulder. Prioritize equal facial clarity over strong background blur. The street is gently softened, with recognizable shapes. No selective focus on the man, rack focus, or focus hunting.
+
+  He carries her slowly along the street. The camera retreats at their pace, maintaining a nearly constant distance and the same facial framing. Its movement has a small, smooth breathing sway and gentle vertical drift motivated by careful footsteps. Fixed focal length, continuous perspective, no cuts, orbit, zoom, or abrupt reframing.
+
+  During the opening seconds, he watches the path ahead with a relaxed expression. She rests comfortably against him, her brow smooth and her lips carrying a faint, natural smile. She briefly looks toward his cheek, then lowers her gaze toward his collar. Her expression conveys affection and ease, with no sorrow, tearful eyes, trembling lips, or worried brows. Neither looks into the camera.
+
+  Near the middle, <Subject 2> (S1) turns her mouth slightly toward his ear and speaks naturally in a warm, gently smiling Japanese voice: <d>[Japanese] もう少し、このままで。</d>
+
+  Hear her sentence from the camera's position, approximately one to two meters away. Her voice is modest in volume, slightly softened by distance, and blended with the surrounding street. Turning toward his ear makes it subtly less direct to the listener. Keep the words intelligible without making the voice unnaturally prominent. Avoid exaggerated whispering, amplified mouth sounds, and studio-isolated vocal clarity.
+
+  He remains silent. After a brief listening pause, his cheek lifts into a small smile and he slows his next steps. She notices, her smile warms slightly, and she gently rests her cheek against his shoulder. Her lips remain closed after the line. Keep both faces sharp as a warm streetlight passes softly across them.
+
+  Hold their comfortable closeness through the remaining seconds, with natural blinking and gentle walking motion. End while they are still moving together. No subtitles, narration, or additional dialogue.
+
+  overall_soundscape:
+  A continuous, spatially coherent nighttime street recording heard from the camera's perspective. Footsteps and subtle clothing rustles occupy the nearby space. A low storefront ventilation hum comes from one side. Distant traffic sits farther away; a passing car gradually approaches, moves across the stereo field, and recedes without obscuring the dialogue.
+
+  The woman's voice belongs within this same acoustic environment. Keep street ambience continuously audible beneath her sentence, without muting it or dramatically lowering it when she speaks. Include faint, short reflections from nearby shopfront glass and building surfaces while retaining an open-air sound. No long reverberation, obvious echo, or indoor acoustic character.
+
+  Breathing remains subtle at the camera's distance. Preserve one consistent listening perspective for dialogue, footsteps, clothing, and environmental sounds. Use natural vocal dynamics without heavy compression or artificial vocal enhancement. Maintain uninterrupted ambience before, during, and after the sentence. The man remains silent.
+
+  non_diegetic_music:
+  N/A. Let the location sound, pauses, and quiet footsteps carry the tenderness.

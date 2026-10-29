@@ -1,0 +1,40 @@
+id: h3-rider-night-city-motorcycle-chase
+title:
+  en: Rider on motorcycle speeding through night city traffic
+  zh: 夜间城市车流中骑摩托车疾驰的骑手
+model: MiniMax H3
+mode: image-to-video
+category: action
+tags:
+- motorcycle
+- night-city
+- audio-sync
+- camera-tracking
+source:
+  name: '@HBCoop_ on X'
+  url: https://x.com/HBCoop_/status/2083282581450375367
+  credit: Heather Cooper
+  likes: 16
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/HBCoop_/status/2083282581450375367
+notes:
+  en: A reference opening frame and named identity details lock the rider, while a timed beat sheet with a music sync instruction sets each camera change. Rules for one direction of travel and an explicit negative list keep the chase readable.
+  zh: 用参考首帧和具体外形细节锁定骑手，再用按秒分段的镜头表和音乐节奏指令控制每次机位变化。同一行进方向的约束和明确的负面列表让追逐画面保持清晰可读。
+prompt: |
+  Use @ image1 as the opening frame and exact visual reference. Preserve the rider’s face, short curly hair, round glasses, black leather jacket, gloves, motorcycle, and realistic nighttime city environment throughout.
+
+  Use @ audio1 as the soundtrack. Synchronize the motorcycle’s acceleration, camera movement, passing lights, and edits precisely to the music’s rhythm and rising intensity. No dialogue or additional music.
+
+  0–3s: Begin in the frontal composition of @ image1. A stabilized tracking camera moves backward directly ahead of the motorcycle as the rider speeds through traffic. Her expression is alert and focused; wind moves her curls and jacket naturally.
+
+  3–6s: On a strong musical beat, shift smoothly into a low front three-quarter tracking angle beside the front wheel. The motorcycle leans gently around a moving car without changing direction abruptly. Streetlights streak across the wet pavement.
+
+  6–10s: Transition into a fast side-tracking shot. The rider accelerates through a narrow opening between two lanes while maintaining believable balance, speed, and forward momentum. Background traffic and illuminated buildings create controlled motion blur.
+
+  10–13s: The camera arcs from her side toward the rear as she clears the traffic. Red emergency lights begin flashing across the surrounding buildings and reflect naturally in her glasses and leather jacket.
+
+  13–15s: A fire truck crosses the intersection behind her as she races into an open stretch of road. Finish with the camera pulling wider and rising slightly, revealing the motorcycle speeding deeper into the city on the final musical accent.
+
+  Cinematic live-action realism, physically accurate motorcycle movement, energetic but readable action, natural motion blur, shallow depth of field, cool blue-black city palette with warm streetlights and red emergency-light accents. Maintain one continuous direction of travel. No collisions, teleporting, sudden direction reversals, distorted hands, changing wardrobe, altered motorcycle design, facial drift, extra limbs, text, logos, or slow motion.

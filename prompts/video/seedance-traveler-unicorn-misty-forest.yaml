@@ -1,0 +1,25 @@
+id: seedance-traveler-unicorn-misty-forest
+title:
+  en: Traveler meets a unicorn in misty forest
+  zh: 旅者在晨雾森林遇见独角兽
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- unicorn
+- misty-forest
+- fantasy
+- volumetric-light
+source:
+  name: '@juliaevee on X'
+  url: https://x.com/juliaevee/status/2105150663047135672
+  credit: juliaevee
+  captured: '2026-10-29'
+  posted: '2026-09-30'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/juliaevee/status/2105150663047135672
+notes:
+  en: The prompt runs in a clear order, from the traveler and her robe to the unicorn's glowing features, then gives a physical trigger in the hoof on moss that spreads golden light along the trail and clears the fog. Ending on the sunrise valley gives the clip a defined final shot to build toward.
+  zh: 提示词按顺序铺设场景：先写旅者与服装，再写独角兽的发光特征，最后用蹄子踩踏苔藓这一物理动作触发金光沿小径蔓延并驱散浓雾。结尾指向日出山谷，为视频提供明确的收束画面。
+prompt: |
+  A young East Asian female traveler wearing an earth-toned, brown wrap tunic robe with a backpack hiking through a misty, dense ancient forest. She encounters a majestic white unicorn with a glowing golden horn, glowing eyes, and golden light woven through its flowing mane. The unicorn steps on the mossy ground, causing veins of golden magical light to spread along the forest trail, clearing the thick fog and opening into a breathtaking view of a lush mountain valley at sunrise. Cinematic 4k, hyper-realistic, volumetric lighting, epic fantasy atmosphere, soft morning sunbeams.

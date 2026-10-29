@@ -1,0 +1,24 @@
+id: seedance-dragon-girl-red-shield-hall
+title:
+  en: Dragon girl advances toward a figure behind red shield
+  zh: 龙娘走向红盾后的人影
+model: Seedance 2.5
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- 3d-toon
+- character-reference
+- action
+source:
+  name: '@haruuraeadss on X'
+  url: https://x.com/haruuraeadss/status/2085654478829810018
+  credit: mayv@簡単プロ級プロンプト公開中！
+  captured: '2026-10-29'
+  posted: '2026-08-07'
+video: https://x.com/haruuraeadss/status/2085654478829810018
+notes:
+  en: Three reference images with explicit priority rules (face, costume and weapon, tail) keep the character consistent across the clip. The prompt bans static holds and requires visible footwork and real floor travel, so the speed comes from body movement rather than camera moves.
+  zh: 用三张参考图并明确优先级（脸、服装与武器、尾巴）锁定角色一致性。提示词禁止静止与长蓄力，要求人物自身脚步和地面实际位移来表现速度，而不是只靠镜头运动。
+prompt: |
+  高品質アニメ映像。近未来ゴシック幻想。映画的な劇場アニメ戦闘映像。高密度3Dトゥーン／セルルックのみ。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、高密度背景美術、重心と接地が読める連続動作を維持する。【アニメーション方向】爆発的で鋭いアクション。キレのあるタイミング。予備動作は最小限。即時加速。大きく明確な全身運動。強い接触反動。接触後の慣性を明瞭に残す。待機、長い構え、長いタメ、スローモーション、静止した見せカットを作らない。速さをカメラ移動だけで表現せず、人物自身の脚運びと床上の実移動を必ず見せる。【参照の役割と優先順位】<<<Image1>>> は顔と人物同一性の最優先参照。顔立ち、年齢感、目、虹彩、まつ毛、頬、細い顎、前髪、角、顔周辺の描画テイストを参照する。<<<Image2>>> は衣装・全身デザイン・武器参照。<<<Image1>>> と同じ人物の衣装、装飾、体型、全身シルエット、靴、一本だけの長槍、固有配色を参照する。<<<Image3>>> は尻尾参照。<<<Image1>>> ・<<<Image2>>> と同じ人物の、腰後方への接続位置、黒曜石紫の鱗、根元から細い先端へ自然に絞られる一本だけの尻尾、尾先の紫光を参照する。参照間に差異がある場合の優先順位は、顔・目・虹彩・顎・年齢感・前髪・角は<<<Image1>>> 、衣装・装飾・体型・全身シルエット・長槍は<<<Image2>>> 、尻尾の接続位置・鱗・太さ・細い先端は<<<Image3>>> 。参照画像内の背景、文字、枠、複数パネル、説明図、UIは映像へコピーしない。

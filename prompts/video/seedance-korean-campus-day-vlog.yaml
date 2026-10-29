@@ -1,0 +1,29 @@
+id: seedance-korean-campus-day-vlog
+title:
+  en: Korean student selfie on a city bus
+  zh: 韩国女大学生在城市公交上的自拍镜头
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- korean-campus
+- day-in-life
+- pov-selfie
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2096818423846334683
+  credit: aiwithaly
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2096818423846334683
+notes:
+  en: The prompt splits one day into ordered scene beats with named locations, then fixes the camera language (handheld selfie, POV, autofocus) and a sound list so the look stays consistent across cuts. It also sets English dialogue only and no background music, which keeps the clip grounded in location audio.
+  zh: 提示词把一天拆成按顺序排列的场景段落并写明地点，再统一手持自拍、POV 和自动对焦的镜头语言，以及环境音清单，使各个镜头保持同一质感。同时限定英文对白且不加背景音乐，让声音贴合真实场景。
+prompt: |
+  Create a 30-second photorealistic live-action 2026 Korean university lifestyle vlog following a young Korean female student through one beautiful ordinary day. Start with a morning city-bus ride and ocean-like city reflections through the window, then move naturally through a busy campus lecture, iced coffee break, quiet library study, cafeteria lunch with a friend, energetic dance-club practice, golden-hour campus walk, and peaceful blue-hour night stroll.
+
+  Use authentic modern Korean university surroundings, natural student clothing, realistic Korean facial features, subtle expressions and spontaneous interactions. High-end smartphone vlog aesthetic with handheld movement, selfie shots, POV footage, natural autofocus, exposure changes and realistic motion blur. Hair, cardigan, backpack and objects react naturally to movement, wind and gravity. Include realistic bus movement, walking, dancing, coffee condensation, food steam and believable human biomechanics.
+
+  English dialogue only, with natural location sounds such as bus noise, classroom ambience, café chatter, footsteps, cafeteria sounds, dance-room audio and nighttime campus ambience. No narrator, no background music, no CGI, animation, subtitles, logos or watermark.

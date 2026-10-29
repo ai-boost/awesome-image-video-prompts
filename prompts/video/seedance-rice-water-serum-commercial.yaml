@@ -1,0 +1,23 @@
+id: seedance-rice-water-serum-commercial
+title:
+  en: Rice water serum bottle on bright white surface
+  zh: 白色反光台面上的米水烟酰胺精华瓶
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- skincare
+- product-shot
+- macro
+- studio-lighting
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2095373906815115469
+  credit: Avelyrah
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+video: https://x.com/AvelyrahnAI/status/2095373906815115469
+notes:
+  en: Numbered scenes, each with its own shot type, give the model a clear sequence to follow. Quoting the exact label text and closing with lighting and camera direction keeps the bottle text and studio look steady across cuts.
+  zh: 将视频拆成编号分镜，每个分镜指定一种镜头类型，为模型提供清晰的顺序。用引号写出确切的标签文字，并以布光和运镜收尾，使瓶身文字和棚拍质感在各镜头间保持稳定。
+prompt: "A high-end cinematic commercial for a skincare facial serum. \n\nScene 1: A clean white pump bottle labeled \"Rice Water & Niacinamide Serum\" standing on a reflective white surface with crystal-clear water droplets floating around it against a bright, minimalist background.\n\nScene 2: Macro shot of a glass dropper releasing a pure drop of serum into a liquid pool with gentle ripples.\n\nScene 3: A close-up of a model with glowing, flawless skin applying the serum to her cheek. \n\nScene 4: Flat-lay shot of the bottle surrounded by raw rice grains and water splashes, panning smoothly to show the product beside its packaging box. Ultra-realistic, 4K resolution, commercial studio lighting, smooth professional camera movement, clean and luxurious aesthetic.\n"

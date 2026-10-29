@@ -1,0 +1,24 @@
+id: seedance-haunted-castle-halloween-pumpkins
+title:
+  en: Haunted castle with glowing pumpkins and bats
+  zh: 万圣节南瓜环绕的鬼屋城堡夜景
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- halloween
+- haunted-castle
+- pumpkins
+- night-scene
+source:
+  name: '@juliaevee on X'
+  url: https://x.com/juliaevee/status/2113134380759523628
+  credit: Julia
+  captured: '2026-10-29'
+  posted: '2026-10-22'
+video: https://x.com/juliaevee/status/2113134380759523628
+notes:
+  en: A single camera push toward the castle and a closing wide shot give the clip a clear arc. Named lighting, fog and scenery details, plus a no people and consistent scenery constraint, keep the frame stable across the full 30 seconds.
+  zh: 单一的推镜头朝向城堡，结尾加一个全景收尾，形成清晰的镜头走向。提示词明确写出灯光、雾气和场景细节，并加上无人物、场景一致的约束，使整段30秒画面保持稳定。
+prompt: |
+  Create a 30-second ultra-realistic cinematic Halloween video of a majestic haunted castle glowing with warm orange lights, surrounded by jack-o’-lanterns, twisted trees, blue fog, and wet reflective cobblestones. The camera slowly moves toward the castle as autumn leaves drift, candles flicker, and bats fly across the moonlit sky. Elegant glowing text appears: “Happy Halloween.” End with a dramatic wide shot of the illuminated castle. Photorealistic details, smooth camera movement, volumetric fog, spooky magical atmosphere, 4K, no people, no distortion, consistent scenery, vertical 9:16, exactly 30 seconds.

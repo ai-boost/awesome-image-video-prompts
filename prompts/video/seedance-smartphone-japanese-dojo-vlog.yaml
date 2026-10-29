@@ -1,0 +1,53 @@
+id: seedance-smartphone-japanese-dojo-vlog
+title:
+  en: Selfie vlog of a beginner at a Japanese dojo
+  zh: 日式道场里初学者的自拍vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- smartphone-vlog
+- martial-arts
+- japan
+- selfie
+- korean-dialogue
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2093978574692679983
+  credit: Anissa
+  captured: '2026-10-29'
+  posted: '2026-08-30'
+video: https://x.com/SimplyAnnisa/status/2093978574692679983
+notes:
+  en: The prompt locks identity, outfits and handheld phone style with explicit negatives (no gimbal, no filters, no cinematic shots), then splits the 20 seconds into timestamped beats with the Korean lines written out verbatim so speech and lip sync are specified. The audio section names only ambient sounds, which keeps the soundtrack realistic.
+  zh: 提示词用明确的负面约束锁定人物身份、服装和手持手机的拍摄风格（不要云台、不要滤镜、不要电影感镜头），并把20秒拆成带时间码的段落，韩语台词原文写出，便于控制口型同步。音频部分只指定环境声，保证声音真实。
+prompt: |
+  Create a 20-second ultra-realistic casual smartphone travel vlog featuring the same Korean woman in her early 20s throughout. She has a petite oval face, brown eyes, natural coral lips, fair realistic skin and long straight black hair. Maintain identical facial identity, hairstyle, body proportions and appearance with no morphing or identity drift.
+
+  TRAVEL OUTFIT: Cream oversized knit sweater, dark blue straight-leg jeans, white low-top sneakers and small crossbody bag. Hair in a loose low ponytail with natural strands.
+
+  TRAINING OUTFIT: Off-white cotton keikogi-style jacket, matching white training pants and plain dark navy beginner belt. No logos, text or patterns. Keep this outfit identical throughout training.
+
+  STYLE: Genuine handheld smartphone footage, imperfect framing, subtle camera shake, autofocus shifts, natural exposure, slight motion blur, realistic skin, blinking and body movement. No cinematic shots, drones, gimbals, beauty filters or commercial look.
+
+  LOCATION: Quiet Japanese countryside neighborhood and a small authentic wooden dojo with traditional architecture, wooden floors and natural daylight. No famous landmarks.
+
+  0:00–0:04: She walks toward the dojo while filming herself, excited and curious. She says naturally in Korean:
+  “오늘은 일본 무술을 직접 배워볼게요!”
+  She briefly shows the dojo entrance, then returns to selfie mode.
+
+  0:04–0:07: Inside the dojo, she is now wearing the training uniform. She adjusts her sleeves. A friendly instructor bows respectfully; she bows back slightly awkwardly and smiles.
+
+  0:07–0:11: Instructor demonstrates a simple beginner stance and controlled hand movement. She copies it awkwardly, places one foot incorrectly, then tries again after the instructor calmly corrects her posture.
+
+  0:11–0:15: She attempts a slow beginner stance transition with controlled defensive arm movement, briefly loses balance, regains footing and laughs naturally. Instructor smiles encouragingly. Keep movements safe and beginner-friendly.
+
+  0:15–0:18: Natural jump cut. Same woman and identical outfit/appearance. She repeats the sequence with noticeably better balance but still looks like a beginner. She smiles proudly.
+
+  0:18–0:20: Outside the dojo in soft late-afternoon light, she films herself, slightly out of breath and smiling. She says:
+  “생각보다 어렵지만 정말 재미있어요!”
+  She gives a small wave and lowers the phone.
+
+  AUDIO: Natural Korean female voice with accurate lip-sync. Footsteps, fabric movement, dojo ambience, distant neighborhood sounds and light wind. No music or dramatic effects.
+
+  FINAL RULES: Photorealistic, authentic smartphone vlog, believable physics and beginner-level martial arts. No fighting, exaggerated movements, action choreography, famous landmarks, logos, brands, subtitles, text, watermarks or visual effects.

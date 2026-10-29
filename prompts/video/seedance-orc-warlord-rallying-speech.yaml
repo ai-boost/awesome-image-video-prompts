@@ -1,0 +1,25 @@
+id: seedance-orc-warlord-rallying-speech
+title:
+  en: Orc warlord rallies army in cinematic close-up
+  zh: 兽人首领在电影感特写中激励军队
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- orc
+- performance-transfer
+- reference-video
+- fantasy
+- speech
+source:
+  name: '@Uncanny_Harry on X'
+  url: https://x.com/Uncanny_Harry/status/2087589869354672222
+  credit: Uncanny Harry AI
+  captured: '2026-10-29'
+  posted: '2026-08-12'
+video: https://x.com/Uncanny_Harry/status/2087589869354672222
+notes:
+  en: A reference image fixes the character's look while a reference video supplies the performance, movement and speech, so the acting comes from the clip rather than the text. The explicit no music instruction keeps the audio to speech and ambient sound.
+  zh: 参考图锁定角色外形，参考视频提供表演、动作和台词，因此演技来自视频而不是文字。明确的不加音乐指令让音频只保留语音和环境声。
+prompt: |
+  A cinematic close up of an orc warlord giving a rallying speech to his army of orcs. Transfer the performance, movement and audio from Video 1 onto the the character Image 1. Do not add any music

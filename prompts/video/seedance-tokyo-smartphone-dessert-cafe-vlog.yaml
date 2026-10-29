@@ -1,0 +1,24 @@
+id: seedance-tokyo-smartphone-dessert-cafe-vlog
+title:
+  en: Tokyo street vlog finding a hidden dessert cafe
+  zh: 东京小巷发现隐秘甜品店的手机vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- food-vlog
+- smartphone-footage
+- handheld
+- tokyo
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2088605003112235033
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/saniaspeaks_/status/2088605003112235033
+notes:
+  en: The prompt anchors the clip to a first person smartphone recording with a named persona and timed beats across 30 seconds. It then lists realism cues such as autofocus hunting, exposure shifts and handheld shake, while banning cinematic moves, drones and slow motion so the output stays in documentary style.
+  zh: 提示词用第一人称手机拍摄的设定加上30秒内的分段时间节点来锚定画面，并列出自动对焦跳动、曝光变化和手持抖动等真实感细节。同时明确禁止推拉摇移、无人机和慢动作等电影化手法，使画面保持纪实风格。
+prompt: |
+  Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Japan. The entire video must look like it was genuinely recorded on a modern flagship smartphone by a real female creator, not like a cinematic production or AI-generated video. 0–5 seconds: A young Japanese woman walks through a narrow Tokyo side street in the early evening, holding her smartphone at arm’s length and casually talking to the camera. Traditional Japanese shopfronts, vending machines, bicycles, small signs, utility wires, pedestrians and warm storefront lights create an authentic neighborhood atmosphere. Natural handheld movement and slight framing imperfections. 5–10 seconds: She notices a tiny hidden dessert café and turns the camera toward its entrance with an excited reaction. She walks inside while continuing the vlog. The camera naturally adjusts exposure from the bright street to the warmer interior. 10–16 seconds: Show the staff preparing a fresh strawberry cream dessert. Realistic strawberries, whipped cream, soft cake layers and small details of the preparation. The creator moves the phone closer for a natural food close-up while autofocus subtly shifts between the dessert and her hand. 16–22 seconds: She receives the dessert, holds it directly toward the phone camera, then takes a spoonful and tastes it. Her reaction should be spontaneous and believable, with subtle facial expressions rather than exaggerated acting. 22–27 seconds: She smiles, takes another small bite and turns the camera slightly to show the cozy café interior, Japanese customers naturally sitting in the background and warm practical lighting. 27–30 seconds: She walks back outside onto the Japanese street, looks directly into the phone camera and naturally says, “Okay, this place was actually so good!” She smiles and ends the recording casually. Authentic Japanese environment, realistic human behavior, natural walking physics, real-looking food textures, accurate skin texture, natural hair movement, realistic reflections, imperfect smartphone framing, subtle autofocus hunting, automatic exposure adjustments, slight handheld shake, natural motion blur, realistic low-light smartphone noise, true-to-life colors, detailed background activity, genuine vlog energy, high-resolution smartphone footage, photorealistic, documentary realism, no cinematic camera moves, no drone shots, no artificial slow motion, no CGI appearance, no text, no subtitles.

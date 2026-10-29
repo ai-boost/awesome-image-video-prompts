@@ -1,0 +1,39 @@
+id: seedance-tokyo-helicopter-night-selfie-tour
+title:
+  en: Selfie helicopter night tour over Tokyo
+  zh: 东京夜间直升机游览自拍
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- helicopter
+- tokyo
+- selfie
+- night-city
+- multi-scene
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2093567063357088065
+  credit: noorlewisx
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2093567063357088065
+notes:
+  en: Numbered scenes each name a camera angle (selfie, cockpit, aerial, POV) and a landmark, so the model gets a shot list rather than one vague mood. Spoken lines are written out per scene, and the style line ends with a no text and no logo rule to keep the frame clean.
+  zh: 每个场景编号并写明机位（自拍、驾驶舱、航拍、第一人称）和地标，模型拿到的是分镜表而不是笼统的氛围描述。每段台词按场景写出，结尾的风格说明再加一条无字幕无标志的限制，让画面保持干净。
+prompt: |
+  A cinematic first-person and selfie-style night video of a beautiful young East Asian woman with long dark hair in a ponytail, wearing a maroon ribbed halter top, cream wide-leg pants, and black slide sandals. She is taking a helicopter night tour over Tokyo. No watermark, no logo, no text overlay, no brand names.
+  Scene 1: On a green-lit rooftop helipad at night. She smiles at the camera holding it selfie-style. A white Robinson-style helicopter is behind her with spinning blades. Tokyo city lights and water in the background. She says she is getting on a helicopter in Tokyo.
+  Scene 2: Inside the helicopter cockpit. She wears a green aviation headset with boom mic and a black 4-point harness. A small fuzzy lavalier mic is clipped to her top. She looks at the camera, slightly nervous then smiling, adjusting her seatbelt. Night city lights visible through the open side.
+  Scene 3: Helicopter lifts off from the helipad. Wide view of Tokyo Bay at night, Tokyo Tower glowing orange on the left, Rainbow Bridge lit up on the right, dark water below.
+  Scene 4: Open-door helicopter flight. Strong wind blows her hair. She laughs excitedly, eyes squinting, mouth open in joy, saying there is no door at all. Below: a cargo ship on the water and glittering city skyline.
+  Scene 5: POV looking down between her legs — cream pants and black sandals dangling over a dense sea of Tokyo skyscrapers and streets glowing at night.
+  Scene 6: Close selfie next to the brightly lit orange Tokyo Tower. She looks at camera and says “That’s Tokyo Tower.”
+  Scene 7: Aerial shot flying over Tokyo Skytree glowing purple and white, her feet visible at the bottom of frame, highways and dense city lights below.
+  Scene 8: Flying low along Rainbow Bridge at night — white cables, cars with headlights, city skyline behind.
+  Scene 9: After landing, she steps off the white helicopter onto the green helipad, walking toward camera holding the headset in one hand, wearing the same outfit.
+  Scene 10: She is now standing in crowded Shibuya Crossing at night, neon signs everywhere, yellow taxi and people crossing behind her. She smiles at the camera, waves, and says “Alright everyone, bye!” then “Bye!”
+  Style: realistic handheld selfie + aerial footage, night city lights, slight wind, natural skin, warm street lighting mixed with cool night sky. Smooth cuts, 30-second duration, vertical or 16:9 cinematic look. Photorealistic, no text, no watermark, no logo anywhere.
+
+  #polloai

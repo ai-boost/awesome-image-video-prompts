@@ -1,0 +1,211 @@
+id: seedance-bearded-warrior-frozen-temple-boss
+title:
+  en: Bearded warrior kneels in frozen temple
+  zh: 严寒古庙中跪地的胡须战士
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- dark-fantasy
+- soulslike
+- reference-images
+- boss-fight
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2098778827283394729
+  credit: Xaroon_x
+  captured: '2026-10-29'
+  posted: '2026-09-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2098778827283394729
+notes:
+  en: 'Each reference image gets one job: image 1 locks the main character''s face and costume, image 2 locks the second character, and image 3 supplies only camera angles, framing and choreography. Repeating the identity lock as a list of NO rules keeps the face and armour from drifting across shots.'
+  zh: 每张参考图只负责一件事：图1锁定主角的面容与服装，图2锁定第二个角色，图3只提供镜头角度、构图和动作编排。把身份锁定写成一组禁止项的清单，能防止各镜头之间脸部与盔甲逐渐漂移。
+prompt: |
+  AAA PRE-RENDERED GAME CINEMATIC | DARK FANTASY WUXIA | SOULSLIKE BOSS FIGHT | ULTRA-PHOTOREALISTIC CGI | SEEDANCE OPTIMIZED
+
+  REFERENCE PRIORITY — STRICT:
+
+  REFERENCE IMAGE 1 = MAIN CHARACTER: MALE TIDE REAVER
+
+  Use Reference Image 1 as the absolute and permanent identity reference for the main character, Male Tide Reaver.
+
+  Preserve his exact same face throughout the entire video with NO FACE CHANGE.
+
+  Maintain:
+
+  exact facial identity,
+
+  exact facial structure,
+
+  same eyes,
+
+  same eyebrows,
+
+  same nose,
+
+  same beard,
+
+  same hairstyle,
+
+  same hair length and shape,
+
+  same masculine features,
+
+  same skin tone,
+
+  same body proportions.
+
+  His identity must remain perfectly consistent in every shot, camera angle, action pose, slow-motion shot and close-up.
+
+  NO identity drift.
+
+  NO face replacement.
+
+  NO face morphing.
+
+  NO gender change.
+
+  NO hairstyle change.
+
+  REFERENCE IMAGE 2 = GATOTKACA CYBER-RONIN ASSASSIN
+
+  Use Reference Image 2 as the absolute and permanent identity reference for Gatotkaca Cyber-Ronin Assassin.
+
+  Preserve his exact same:
+
+  armor,
+
+  helmet,
+
+  flaming horns,
+
+  mask,
+
+  facial structure,
+
+  body proportions,
+
+  silhouette,
+
+  accessories,
+
+  materials,
+
+  colors,
+
+  robes,
+
+  weapon design,
+
+  giant ancient sword.
+
+  No armor change.
+
+  No weapon change.
+
+  No horn change.
+
+  No identity drift.
+
+  REFERENCE IMAGE 3 = CINEMATIC STORYBOARD REFERENCE
+
+  Use Reference Image 3 exclusively as the storyboard, cinematic composition, shot design, camera angle, framing, pacing, action staging and visual sequence reference.
+
+  Follow the cinematic structure and shot progression of Reference Image 3.
+
+  IMPORTANT:
+
+  Reference Image 3 controls ONLY:
+
+  camera angles,
+
+  cinematic composition,
+
+  shot framing,
+
+  character positioning,
+
+  action choreography,
+
+  movement direction,
+
+  scene progression,
+
+  pacing,
+
+  slow-motion moments,
+
+  environmental destruction continuity.
+
+  Do NOT copy the character identities from Reference Image 3.
+
+  The characters must always remain:
+
+  Reference Image 1 = Male Tide Reaver.
+
+  Reference Image 2 = Gatotkaca Cyber-Ronin Assassin.
+
+  CHARACTER COSTUME RULE — STRICT:
+
+  Male Tide Reaver must wear the exact same armor, clothing, outfit layers, cloak, accessories, materials, colors and overall silhouette shown in Reference Image 1.
+
+  Gatotkaca must wear the exact same armor, clothing, robes, helmet, horns, accessories, materials, colors and overall silhouette shown in Reference Image 2.
+
+  DO NOT change their clothing to match different characters from the storyboard.
+
+  Instead:
+
+  Keep Reference Image 1 and Reference Image 2 character identities and costumes exactly the same while recreating the cinematic poses, camera shots and action choreography from Reference Image 3.
+
+  STYLE:
+
+  AAA dark fantasy cinematic realism.
+
+  Sekiro × Ghost of Tsushima × Black Myth Wukong × Final Fantasy XVI CGI cinematic.
+
+  Ultra-photorealistic pre-rendered game cinematic.
+
+  No anime.
+
+  No cel shading.
+
+  No gameplay.
+
+  No HUD.
+
+  No UI.
+
+  No subtitles.
+
+  No text.
+
+  No logos.
+
+  ENVIRONMENT:
+
+  A colossal ancient Japanese mountain temple interior during winter.
+
+  The entire battle takes place indoors.
+
+  Massive wooden pillars.
+
+  Ancient stone flooring.
+
+  Weathered beams.
+
+  Large ceremonial lanterns.
+
+  Colossal guardian statues.
+
+  Tattered banners.
+
+  Open temple architecture revealing a raging snowstorm outside.
+
+  Cold moonlight pours through openings.
+
+  Snow continuously drifts into the temple.
+
+  Floor contains snow accumulation, ice patches, water puddles, cracked stone and battle debris.
+
+  Every footprint remains visible.

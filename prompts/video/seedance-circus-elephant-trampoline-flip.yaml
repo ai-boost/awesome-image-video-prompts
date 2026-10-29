@@ -1,0 +1,27 @@
+id: seedance-circus-elephant-trampoline-flip
+title:
+  en: Acrobat launched by elephant onto horse
+  zh: 杂技演员被大象抛起后落在马背上
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- circus
+- elephant
+- stunt
+- handheld
+source:
+  name: '@sipteaandcoffee on X'
+  url: https://x.com/sipteaandcoffee/status/2107060987157524524
+  credit: sipteaandcoffee
+  captured: '2026-10-29'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/sipteaandcoffee/status/2107060987157524524
+notes:
+  en: The prompt is written as one audience phone recording with handheld shake and a timed beat sheet for each stage, so the stunt reads as a single continuous shot. The explicit no cuts rule and physical cues such as tucked knees and a soft landing keep the momentum and body weight believable.
+  zh: 提示词以观众手机单机拍摄的口吻设定画面，并按时间段写清每一阶段的动作与镜头运动，使特技看起来像一个连续镜头。明确要求不剪切，并描述屈膝缓冲等身体细节，让动作的重量感更可信。
+prompt: "Create a 15-second ultra-realistic vertical 9:16 circus performance video, filmed casually by an audience member from the seating area of a large traditional indoor circus arena.\n\nThe video should feel like a **real viral phone recording of an unbelievable live stunt**, not a polished commercial or cinematic production.\n\n### SETTING\n\nInside a huge traditional circus tent with a circular **light-tan sand performance ring**, dark audience seating packed with spectators, red barriers around the arena, tall structural poles, and a dark striped circus canopy overhead.\n\nWarm practical circus lights illuminate the center of the ring while the audience remains comparatively dark.\n\nThe bottom foreground occasionally contains **dark silhouettes of spectators’ heads and raised phones**, making it obvious that the footage is being recorded from the audience.\n\nIn the center of the arena is a **small circular trampoline with a bright blue padded rim and silver metal legs**.\n\n###\
+  \ CHARACTERS\n\n**Female Acrobat:**  \nA young blonde female circus performer with an athletic build. She wears a fitted **light-pink short-sleeve top, short green plaid performance skirt, white socks and white athletic shoes**. Her blonde hair moves naturally during the flips.\n\n**Elephant:**  \nA large realistic adult gray elephant with natural wrinkled skin, heavy body movement, large ears and a long expressive trunk.\n\n**Horse:**  \nA realistic dark-brown circus horse with a black mane and tail, walking calmly around the ring.\n\n### 0:00–0:03 — ELEPHANT LAUNCH\n\nBegin from the audience viewpoint.\n\nThe elephant stands beside the small blue trampoline.\n\nThe blonde acrobat runs toward the elephant and trampoline.\n\nThe elephant lowers and then powerfully raises its trunk, **launching the acrobat upward into the air**.\n\nShe immediately begins rotating backward.\n\nThe action must look spectacular but physically coherent, with believable momentum and body weight.\n\n### 0:03–0:07\
+  \ — MASSIVE AERIAL FLIPS\n\nThe camera operator quickly tilts the phone upward to follow her.\n\nThe woman flies extraordinarily high above the circus ring while performing **multiple tight backward somersaults**.\n\nHer knees tuck toward her chest, arms control her rotation, skirt and hair react naturally to the movement, and her body maintains realistic anatomy.\n\nThe elephant remains visible far below beside the trampoline, emphasizing the incredible height.\n\nAllow slight handheld camera shake as the person filming struggles to keep her centered.\n\n### 0:07–0:10 — HORSE ENTERS\n\nWhile she continues flipping through the air, a **dark-brown horse calmly enters beneath her** and walks across the circus ring.\n\nThe acrobat gradually opens her body from the tucked rotation and prepares for landing.\n\nThe camera pans and tilts downward with her trajectory.\n\n### 0:10–0:12 — PERFECT LANDING\n\nShe completes the final rotation and lands **upright with both feet directly on the horse’s\
+  \ back** while the horse continues moving forward.\n\nThe landing is surprisingly smooth.\n\nHer knees bend naturally to absorb the impact before she straightens her body and regains perfect balance.\n\nNo cuts during the stunt.\n\n### 0:12–0:15 — TRIUMPHANT FINISH\n\nStanding confidently on the moving horse, she raises **both arms wide in a victorious circus pose**.\n\nThe horse continues calmly walking around the arena.\n\nThe elephant can still be seen moving in the background.\n\nAudience members react enthusiastically, with silhouettes and phones appearing along the bottom of the frame.\n\nNear the final moment, the performer gives a small respectful bow while remaining balanced on the horse.\n\n### CAMERA STYLE\n\nSingle continuous audience phone recording.\n\nVertical **9:16 framing**.\n\nCamera position stays within the spectator seating rather than entering the circus ring.\n"

@@ -1,0 +1,32 @@
+id: h3-cat-eared-chef-fried-rice-serve
+title:
+  en: Cat eared chef cooks fried rice and serves
+  zh: 猫耳厨师炒饭并端给顾客
+model: MiniMax H3
+mode: reference-to-video
+category: anime
+tags:
+- cooking
+- character-consistency
+- multi-shot
+- sound-design
+source:
+  name: '@IsekaiBardGuild on X'
+  url: https://x.com/IsekaiBardGuild/status/2096577196915900712
+  credit: AI Bard Guild
+  likes: 26
+  captured: '2026-10-29'
+  posted: '2026-09-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/IsekaiBardGuild/status/2096577196915900712
+notes:
+  en: Each shot is timestamped, and the reference image locks the character's appearance and outfit across cuts. The plate transfer is written as a required uninterrupted action so the model cannot skip it.
+  zh: 每个分镜都标注时间码，并用参考图锁定角色在各镜头间的外观与服装。盛饭动作被写成必须连续完成的步骤，避免模型跳过。
+prompt: |
+  For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+  integrated_multimodal_description: [Shot 1] High-quality Japanese anime style, 2D illustration with cel-shading. (S1) is a character showen in the <Picture 1>. The camera cuts to a medium shot of the same character (S1), maintaining (S1)'s  exact appearance and outfit from <Picture 1>, now standing in a vibrant Chinese restaurant kitchen. (S1) is positioned before a large wok on a powerful burner, surrounded by rising steam, hanging menu boards with illegible characters, and warm red and gold lighting. S1 begins to cook fried rice with focused, energetic movements. [Shot 2] At 00:04.500, the camera cuts to a series of rapid, cinematic close-ups. First, a tight shot of S1's determined eyes, then a shot of (S1)'s  hands skillfully tossing the wok. The camera pushes in with small amplitude at fast speed as (S1) exerts force to flip the rice, causing a few grains to dance in the air. A sudden burst of orange flame from the burner illuminates (S1)'s  face. Tiny beads of sweat form on (S1)'s  cheeks; (S1) briefly wipes (S1)'s  brow with (S1)'s  forearm without stopping (S1)'s  rhythmic stirring. [Shot 3] From 00:10.500 to 00:13.000, show the complete transfer of fried rice FROM THE WOK INTO AN EMPTY CERAMIC PLATE in one uninterrupted close medium shot. Both the wok and the empty plate must be clearly visible together. S1 holds the wok above the plate, visibly tilts its rim down toward the plate, and uses the spatula to slide and scrape the cooked fried rice out of the wok. Show the rice physically falling from the rim of the wok and accumulating into a mound on the plate. The plate starts empty and becomes filled on camera. Do not cut away, skip this action, or show an already-filled plate in its place. Only AFTER the rice has been transferred completely, from 00:13.000 to 00:15.000, S1 sets the wok down, lifts the filled plate, moves to the counter, and extends it toward a customer. The camera pans right with small amplitude at slow speed to follow the serving action. S1's expression shifts from intense concentration to a sincere, tired but happy smile, (S1)'s  chest heaving slightly from the effort. The customer's hand enters the frame to accept the plate. S1 gives a small, proud nod of satisfaction, (S1)'s  eyes shimmering with relief and accomplishment under the warm glow of the kitchen lights.
+
+  overall_soundscape: The environment is filled with the rhythmic, metallic clanking of a spatula against a wok. Constant sizzling of rice and oil blends with the sudden, low-frequency "whoosh" of the burner's flames. The soft hiss of rising steam and the final, clean "clink" of a ceramic plate being placed on a wooden counter complete the atmosphere.
+
+  non_diegetic_music: An upbeat, heartwarming orchestral track with a fast tempo, featuring playful pizzicato strings and a bright flute melody that swells emotionally toward the end to emphasize a sense of accomplishment.

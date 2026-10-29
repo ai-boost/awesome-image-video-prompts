@@ -1,0 +1,101 @@
+id: seedance-giant-snake-fantasy-western-chase
+title:
+  en: Giant snake rushes past camera in ruined town
+  zh: 巨蛇从镜头前掠过废墟小镇
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- giant-snake
+- low-angle
+- character-lock
+- timed-shots
+- dialogue-audio
+source:
+  name: '@itxsarmadd on X'
+  url: https://x.com/itxsarmadd/status/2100432617912893711
+  credit: itxsarmadd
+  captured: '2026-10-29'
+  posted: '2026-09-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxsarmadd/status/2100432617912893711
+notes:
+  en: A reusable character block is repeated verbatim in the prompt so faces, costumes and scale stay locked across shots. A timed shot list with low angles, tracking and gimbal moves sets the pacing, while quoted dialogue and sound cues define the audio.
+  zh: 提示词中原样重复一段可复用的角色设定，使人物面部、服装和体型在各镜头间保持一致。按秒划分的分镜配合低机位、跟拍和云台运镜控制节奏，台词与声音提示则定义音频。
+prompt: |
+  PAET 1- Create a 30-second ultra-photorealistic cinematic live-action fantasy-western sequence.
+
+  DO NOT USE AN UPLOADED REFERENCE VIDEO.
+
+  ==================================================
+  CHARACTERS — IDENTICAL THROUGHOUT
+  ==================================================
+
+  GIANT SNAKE:
+  Enormous prehistoric snake, massive muscular body and broad head, rough brown/tan/dark-olive scales, pale beige face, amber eyes with vertical pupils, realistic teeth, wet gums/saliva. Worn dark-brown/black cowboy hat.
+
+  GREEN REPTILIAN GUNSLINGER:
+  Small green frog/reptile humanoid, textured green skin, large bulging eyes, brown cowboy hat, rugged brown western clothing, dark-metal revolver.
+
+  DRAGON RIDER:
+  Rugged brown/tan clothing and protective headgear.
+
+  DRAGON:
+  Large dark-scaled dragon, horns/spikes, muscular body, reddish-brown/orange leathery wings. Additional dragons may appear.
+
+  Keep all characters, costumes, colors, faces, proportions and textures consistent.
+
+  ==================================================
+  ENVIRONMENT
+  ==================================================
+
+  Gritty western/medieval fantasy town: aged stone, dark timber, towers, rooftops, dust, smoke and debris. Bright cloudy daylight, cinematic sunlight, volumetric haze, realistic shadows and depth of field.
+
+  ==================================================
+  SHOT SEQUENCE
+  ==================================================
+
+  0–3s: Low-angle close-up of giant snake body rushing past camera.
+
+  3–6s: Green reptilian gunslinger on snake's back; huge snake head enters frame.
+
+  6–9s: Snake approaches the character. Tense close composition.
+
+  9–12s: Snake coils through town, pushing dust and debris.
+
+  12–15s: Snake moves through dark wooden/stone interior.
+
+  15–18s: Camera tilts toward old buildings and a swinging glass lantern.
+
+  18–22s: Bright hazy exterior with strong sunlight, dust and smoke.
+
+  22–26s: Extreme close-up of snake beneath cowboy hat; amber eye and slightly open mouth visible.
+
+  26–28s: Snake lunges toward camera; revolver becomes prominent.
+
+  28–30s: Extreme close-up of snake face with revolver in foreground.
+
+  END with snake face close to camera and revolver visible. No fade, title or black screen.
+
+  ==================================================
+  CAMERA / AUDIO
+  ==================================================
+
+  Energetic cinematic pacing. Low angles, tracking shots, close-ups, controlled handheld/gimbal movement, realistic optics, depth of field and motion blur.
+
+  English dialogue:
+  “What the hell is that?”
+  “Stay on him.”
+  “Keep moving!”
+  “Don’t let it see us.”
+  “Get ready.”
+
+  Add realistic snake movement, growls, breathing, wind, dust, wood creaks and weapon sounds. Add synchronized English subtitles.
+
+  ==================================================
+  QUALITY
+  ==================================================
+
+  Maximum Seedance 2.5 quality. Ultra-photorealistic live action, realistic materials, lighting and physics.
+
+  NO cartoon, anime, game graphics, plastic CGI, morphing, flickering, character changes, costume/hat changes, eye-color changes, scale changes, duplicates, extra limbs, distorted faces or unnatural physics.

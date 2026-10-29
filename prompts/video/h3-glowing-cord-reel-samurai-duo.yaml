@@ -1,0 +1,56 @@
+id: h3-glowing-cord-reel-samurai-duo
+title:
+  en: Glowing cord binds one samurai, reel snaps back
+  zh: 发光绳索缠住武士少女，卷线器回收
+model: MiniMax H3
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- multi-shot
+- audio-reference
+- character-consistency
+source:
+  name: '@tokyo_Valentine on X'
+  url: https://x.com/tokyo_Valentine/status/2102267666694341084
+  credit: とすくん
+  likes: 33
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/tokyo_Valentine/status/2102267666694341084
+notes:
+  en: Subject definitions bind each reference picture to a named role, and a voice timbre reference supplies vocal identity without copying words. Timestamped shots with explicit hand, scale and sound cues keep the cord, reel and equal height consistent across cuts.
+  zh: subject_definitions 将每张参考图绑定到固定角色，音色参考只提供声线而不复述台词。按时间戳分镜并写明左右手、等身高与音效等细节，使绳索、线轴和身高在切镜间保持一致。
+prompt: |
+  subject_definitions:
+  <Subject 1> is A from <Picture 1>, the boastful caster.
+  <Subject 2> is B from <Picture 2>, who calmly releases the binding.
+  Preserve both identities, faces, hair, costumes, accessories and art styles. Scale their complete designs to equal standing height, maintaining each character's internal proportions.
+  <Audio 1> is the voice-timbre reference for <Subject 1> (S1). Reference its vocal identity and pitch range, not its recorded words.
+  summary:
+  [reference generation + audio reference] A 15-second Japanese 2D anime comedy. A binds B with a glowing cord connected to a retractable reel in A's hand. B presses its button. The cord rewinds, and its end tab lightly taps A's finger. End on A's silent, stunned face. Use the selected aspect ratio.
+  retention_analysis:
+  <Subject 1> (Shots 1-4): fully_preserved - retain identity and design at the established equal-height scale, with new actions.
+  <Subject 2> (Shots 1-3): fully_preserved - retain identity and design at the same standing height as A.
+  <Audio 1>: reference - voice timbre for A's opening line only.
+  Reference images provide character identity and style only, not poses, backgrounds or relative size.
+  detailed_description:
+  Hand-drawn 2D anime, clean lines, cel shading, fluid animation. Exactly two characters in a level stone courtyard in warm daylight.
+  A and B have equal standing height, measured from soles to skull tops, excluding ornaments. Neither grows or shrinks between shots. Establish both full bodies at the same distance from a level camera, feet on the same ground line and skull tops aligned. Preserve this scale during movement and close-ups. B must not appear taller or larger overall.
+
+  One palm-sized black-and-yellow retractable measuring reel has one large top button, one outlet and a golden cord ending in a small rounded tab. A holds it in her LEFT hand for the entire video. B touches only the button with her RIGHT index finger. The reel is never transferred or duplicated. No readable markings.
+  [Shot 1] A full-body two-shot shows <Subject 1> screen-left and <Subject 2> screen-right, facing each other about one meter apart. Both stand upright at equal depth, visibly the same height. A holds the reel at waist level in her left hand and gestures with her right. The glowing cord winds three separate turns around B's lower torso. B's arms, hands, neck and legs remain free. Show the strand connecting the loops to A's reel.
+
+  From 0.3 to 2.8 seconds, <Subject 1> (S1) proudly declares using the voice timbre of <Audio 1>, [Japanese] このいとからは、にげられない! Synchronize A's lips, then close them. A magical whoosh accompanies the binding. By four seconds, the glow fades enough to reveal the physical cord. A smiles smugly. B follows the cord with her eyes toward the reel.
+  [Shot 2] At 00:04.500, cut to a level medium two-shot showing both faces, B's right hand and A's left hand holding the reel. Keep their equal body scale. B takes one small sideways step toward A, not toward the filming camera. The connecting strand slackens. A keeps holding the reel with its button facing up. At about six seconds, B presses the button once with her right index finger. A dry click sounds. B withdraws her hand immediately. A's left index finger rests beside the outlet. Music stops at the click.
+  [Shot 3] At 00:06.500, cut to a steady medium shot including B's torso and A's reel. The spring pulls the cord into the outlet with a mechanical whirr. Show all three turns unwinding around B's costume in sequence. The strand stays continuous; it does not dissolve, break or pass through her body. B stands still with hands clear. The reel stays in A's left hand.
+  After the last loop clears B, the remaining length retracts. Keep A's reel and the returning tab visible. At about ten seconds, the rounded tab lightly clips A's left index finger beside the outlet with one plastic tick, then rests against the reel. The cord is fully retracted. A flinches silently. No wound, violent whipping or collision between characters.
+  [Shot 4] At 00:11.500, cut to a medium close-up of <Subject 1>'s face and hands. Her left palm still holds the reel; her right hand gently holds the tapped left index finger. Her smile vanishes. Eyes widen, pupils become small, eyebrows rise. Her lips part once and remain still. She looks toward B with her familiar stunned, uncomprehending expression. No blush, crying or exaggerated pain. Slowly push in, keeping the held finger near the frame's bottom. Hold the final full second. End directly on A.
+
+  overall_soundscape:
+  Faint courtyard wind, one magical whoosh, one footstep, one button click, a rewind whirr and one plastic tick. A speaks only the sentence in Shot 1. B is completely silent. After three seconds, no speech, gasps, grunts, screams, laughter or vocal breaths. If B's voice reference is attached, leave it unused. No narration or additional voices.
+  non_diegetic_music:
+  Solemn low strings and restrained percussion during the opening. Stop at the button click. Keep the rewind and tap clearly audible, then only faint ambience. No choir, comedy sting or canned laughter.
+
+  No text, subtitles, logos, watermarks, HUD, photorealism, 3D look, chibi, extra people, extra limbs, fused hands, costume changes or changing character scale.

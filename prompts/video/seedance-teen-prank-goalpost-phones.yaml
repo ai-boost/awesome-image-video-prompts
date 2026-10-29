@@ -1,0 +1,27 @@
+id: seedance-teen-prank-goalpost-phones
+title:
+  en: Teen prank backfires as phones get stuck on goalpost
+  zh: 恶作剧反噬，手机卡在球门横梁上
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- teen-drama
+- shot-list
+- golden-hour
+- comedy
+source:
+  name: '@ZoyaAi_ on X'
+  url: https://x.com/ZoyaAi_/status/2113486934781595986
+  credit: ZoyaAi_
+  captured: '2026-10-29'
+  posted: '2026-10-23'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZoyaAi_/status/2113486934781595986
+notes:
+  en: A timed shot list with a single style line up front keeps the structure clear across four shots. The jump cut into red smoke sets the chaos, and the low angle shot up the goalpost gives the comedic reversal a clear visual payoff.
+  zh: 开头先给出统一的光线与调色风格，再用带时间码的分镜逐段描述，结构清楚。跳切进入红烟混乱，再以仰拍球门的低角度镜头收尾，让喜剧反转有明确的画面落点。
+prompt: "Prompt \n\nA cinematic teen drama short film, shot in warm golden-hour autumn light on the aluminum bleachers of a high school football stadium. The overall tone is naturalistic and emotionally intimate with a sudden comedic-revenge twist. Shallow depth of field, soft bokeh from sunlight hitting metal bleacher rails, handheld documentary-style camera with gentle drift, 24fps film grain, warm orange-and-teal color grade, lens flares from low sun.\n\n**Shot 1 (0–5s):** Close-mid shot of a teenage girl with soft blonde hair pulled into a messy bun, wearing an off-shoulder cream sweater over a black tank top. She sits on metal bleachers scrolling intently on her phone. Beside her, a teenage boy in a light blue oversized hoodie with shaggy brown hair leans in close over her shoulder, peering at the screen with mild curiosity. Soft rim lighting from the setting sun behind them, blurred silver bleacher rows in the background, a few autumn leaves scattered on the seats.\n\n**Shot 2 (5–9s):**\
+  \ Sudden jump cut — a burst of red smoke or colored powder explodes into frame, enveloping a small group of three teens sitting further down the bleachers. They flinch back in surprise, hands raised defensively to shield their faces, hair and loose strands whipped by the gust of the blast. Golden sunlight scatters through the red haze creating a hazy, dreamlike, slightly chaotic visual. Quick, reactive camera shake sells the surprise.\n\n**Shot 3 (9–14s):** Intimate close-up portrait of a different girl — wavy, sunlit flyaway hair, delicate gold hoop earrings and a thin gold necklace, wearing a white knitted top. She looks down at her phone with a quiet, pensive, slightly worried expression, warm backlight haloing her hair, skin tones glowing in the low sun. The mood shifts from chaos to a quieter, tense beat.\n\n**Shot 4 (14–20s):** Low-angle wide shot looking straight up at a bright yellow steel goalpost crossbar cutting diagonally across a clear, deep-blue late-afternoon sky. Below\
+  \ it, three teenagers stand on the field looking upward with concern and frustration — one boy in a grey hoodie with a black backpack reaches up and starts climbing the vertical post, straining to reach something lodged at the top. Two girls stand nearby, one with long brown hair looking up anxiously, the other in a navy striped sweater raising both hands toward the sky in a pleading/frustrated gesture. Their phones are visibly stuck on top of the crossbar. Blurred autumn-orange treeline and stadium floodlight tower visible at the edges of frame.\n\n**Overall mood/theme:** \"Messing with Amelia\" backfires — a lighthearted teen revenge-prank narrative where the antagonist group's phones end up stranded on the stadium goalpost, and they're now desperately trying to climb up and fetch them. Comedic-ironic, youthful, slightly cinematic-trailer energy. Aspect ratio 1080x608, widescreen cinematic crop, subtle ambient wind/rustle sound design implied, no dialogue — purely visual storytelling\
+  \ with expressive reactions.\n"

@@ -1,0 +1,72 @@
+id: seedance-korean-cafe-vlog-chaos
+title:
+  en: Woman filming café vlog as everything goes wrong
+  zh: 韩国女生拍咖啡馆vlog，处处翻车
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- handheld
+- comedy
+- cafe
+- found-footage
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2094706780114952303
+  credit: Ciri_ai
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Ciri_ai/status/2094706780114952303
+notes:
+  en: Each beat of about five seconds pairs a deliberately aesthetic shot with a sudden handheld jolt, so the comedy comes from the gap between the planned look and the raw execution. Camera faults such as autofocus hunting, blown highlights and the friend's laughter are written as motion and sound, which keeps the footage believable.
+  zh: 每个约五秒的段落都先做刻意的唯美构图，再接一个突然的手持抖动，喜剧感来自计划好的画面与实际拍摄的落差。自动对焦来回跳、过曝和朋友的笑声等相机瑕疵被明确写进动作与声音，让画面更像真实手机素材。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic personal home-video showing a young Korean woman attempting to film an "aesthetic" café vlog for her social media and everything comically not going to plan. No reference image.
+  MAIN SUBJECT
+  Young Korean woman in her early 20s, trendy and put-together look, dewy makeup, confident expression that keeps cracking into laughter.
+  Straight black hair with curtain bangs, small gold hoop earrings, soft pink lip tint.
+  Wearing an oversized cream sweater, a plaid mini skirt, chunky white sneakers, and a small quilted shoulder bag she keeps adjusting for the "shot."
+  Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
+  SETTING
+  A charming autumn café street in Seoul on a crisp, sunny afternoon.
+  A cozy corner café with outdoor seating, string lights, a chalkboard menu, falling ginkgo leaves, a latte art station visible through the window, a bicycle propped against a brick wall, pedestrians occasionally walking through frame, and a small tree dropping leaves onto the sidewalk table. Warm, golden, Pinterest-looking — until it isn't.
+  CAMERA / VISUAL AESTHETIC
+  Raw personal footage, filmed by her friend who keeps trying (and failing) to make it look cinematic, strong handheld vlog shake throughout.
+  The video oscillates between deliberately "aesthetic" attempted shots — slow pans, artful angles, soft focus — and sudden chaotic handheld jolts when things go wrong. Autofocus hunts comically between her face and the latte. Camera tilts and overcorrects. Exposure blows out when it swings toward the sun. Mild motion blur during quick recoveries. Slightly warm, oversaturated color grade like a try-hard Instagram filter that keeps slipping back to raw reality.
+  No stabilization, no real cinematic polish — the "aesthetic" is aspirational, the execution is not.
+  00:00–00:05 — THE PERFECT LATTE SHOT (ATTEMPT)
+  She sits at the outdoor table, carefully positioning a latte with foam art, trying to casually "candid" sip it for the camera.
+  The camera does a slow artful pan down toward the cup — then a leaf falls directly into it with a soft plop.
+  She freezes, staring at the ruined latte art, deadpan.
+  00:05–00:10 — REACTION
+  She looks up at the camera, unimpressed, leaf still floating in the foam.
+  "...Are you kidding me right now."
+  The friend behind the camera bursts out laughing, shaking the frame violently.
+  00:10–00:15 — THE "CANDID" WALK
+  She gets up to attempt a slow-motion aesthetic walk past the café window, hair flowing, sunglasses going on in one smooth motion — sunglasses immediately get caught in her hair.
+  She stops mid-stride, wincing, trying to untangle them one-handed while still smiling for the camera.
+  The camera zooms in awkwardly close on the tangled sunglasses, then yanks back out.
+  00:15–00:20 — BICYCLE MISHAP
+  She leans against the parked bicycle for a "casual candid lean" pose, one hand in her pocket.
+  The bicycle kickstand gives way and it slowly tips sideways, taking her balance with it.
+  She stumbles but catches herself, laughing hard, one hand up defensively toward the lens.
+  "Okay, delete that, delete that!"
+  00:20–00:25 — GINKGO LEAF CHAOS
+  She tries to recreate a "leaves falling around me" cinematic moment by tossing a handful of gathered ginkgo leaves into the air above her head.
+  A gust of wind blows them straight back into her face instead.
+  She spits out a leaf, blinking, completely unbothered and giggling.
+  The camera shakes as the operator nearly drops it laughing.
+  00:25–00:30 — FINAL MOMENT
+  She gives up on the aesthetic altogether, plops back down at the café table, and grabs the leaf-ruined latte anyway, taking a defiant sip through the foam.
+  She looks dead into the camera, deadpan, leaf still stuck to her sweater.
+  "This is the content. This is it. Post this one."
+  She gives an exaggerated thumbs up as the frame shakes with the friend's laughter, and the footage cuts abruptly to black.
+  AUDIO
+  Natural location sound only:
+  Café ambience, cup clinking, leaves rustling, wind gusts, bicycle clattering, footsteps, her friend's audible laughter throughout, fabric rustling, and handheld camera noise.
+  No music. No narration. No artificial sound effects.
+  Spoken lines: "...Are you kidding me right now." / "Okay, delete that, delete that!" / "This is the content. This is it. Post this one."
+  FINAL FEEL
+  A self-aware, comedic behind-the-scenes of someone trying to film an aesthetic vlog and getting completely humbled by reality at every turn — warm, golden autumn light paired with genuine, unscripted chaos and laughter.
+  No posed perfection sustained for more than a few seconds before something goes wrong. No exaggerated slapstick acting — the comedy comes from real reactions, real mishaps, and the gap between the "vision" and what actually happens on camera.

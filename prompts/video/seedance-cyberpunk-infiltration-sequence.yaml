@@ -1,0 +1,49 @@
+id: seedance-cyberpunk-infiltration-sequence
+title:
+  en: Hooded operative overlooks rain-soaked neon metropolis
+  zh: 兜帽特工俯瞰雨中霓虹都市
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- cyberpunk
+- neon
+- rain
+- multi-shot
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2104539047213576643
+  credit: AIwithWania
+  captured: '2026-10-29'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithWania/status/2104539047213576643
+notes:
+  en: The 28 second sequence is split into timecoded beats, each with one clear action and one camera move, so the model gets a shot list instead of a vague scene. A continuity line plus separate STYLE, CAMERA and QUALITY blocks repeat the look and the no subtitles or watermark rule across every segment.
+  zh: 将 28 秒画面拆成带时间码的分镜，每段只有一个动作和一个运镜，模型得到的是分镜表而不是模糊的整体场景。开头的连贯性要求加上独立的风格、镜头和质量段落，让角色、服装和环境在各段中保持一致，并统一禁止字幕和水印。
+prompt: |
+  -
+
+  Create  ultra-cinematic cyberpunk tactical infiltration sequence, shot like a high-budget futuristic action film. Photorealistic humans, realistic anatomy and movement, detailed tactical gear, neon cyan/crimson lighting, volumetric rain, wet reflections, atmospheric fog, realistic physics, anamorphic cinematography, shallow depth of field, dynamic camera movement, seamless transitions. Maintain identical characters, costumes and environment throughout.
+
+  00:00–00:03 — A vast futuristic metropolis at night, heavy rain and neon skyscrapers disappearing into mist. A female operative in a sleek wet black tactical suit and hood surveys the city. Extreme close-up of her eyes reflecting neon lights. Her male teammate checks a rugged holographic tactical tablet.
+
+  00:03–00:07 — The team attaches to a futuristic drone-deployed rappelling cable and descends a massive glass skyscraper. Dynamic aerial and low-angle tracking shots, rain streaking across reflective glass. They land silently on a balcony.
+
+  00:07–00:11 — The squad moves through an exterior glass corridor protected by horizontal red laser grids. One operative hacks a futuristic glass door using a compact electronic device. Blue electrical pulses travel through the lock; security shuts down. They enter silently.
+
+  00:11–00:16 — A massive research chamber reveals a glowing blue-white spherical energy core suspended inside a red laser lattice. The female lead scans it with her holographic tablet. Technical data and energy readings appear. Slow cinematic orbit around the core and team.
+
+  00:16–00:20 — A futuristic elevator descends into the secure facility. Red emergency lighting pulses. Doors open to reveal the three-person squad in black tactical gear. Low-angle hero shot as they step out in synchronized formation.
+
+  00:20–00:24 — The female operative extracts the brilliant blue energy core from its holographic containment field. Blue light illuminates her face and armor. She locks it inside a sophisticated metallic energy case with a mechanical click.
+
+  00:24–00:28 — Alarms erupt. Red lights flash as the squad sprints through a glass corridor and leaps from the skyscraper. Mechanical bat-like glider wings deploy from their tactical suits with realistic articulated movement. They transition from freefall into controlled flight above the neon metropolis. Camera pulls far back as the squad disappears into the storm carrying the glowing energy core.
+
+  STYLE: Photorealistic cyberpunk noir, Hollywood sci-fi action, practical-looking tactical equipment, realistic rain and water physics, wet metallic surfaces, volumetric fog, cinematic lens flares, subtle film grain, HDR, dramatic contrast, physically accurate shadows, realistic faces, hands and fabric.
+
+  CAMERA: Anamorphic lenses, wide establishing shots, extreme close-ups, low-angle hero shots, aerial tracking, handheld pursuit, smooth crane movements, dramatic push-ins, natural motion blur.
+
+  QUALITY: Ultra-detailed 4K, coherent character continuity, seamless transitions, realistic physics and anatomy. No glitches, subtitles, logos, text or watermark.
+
+  Created with Seedance 2.5.

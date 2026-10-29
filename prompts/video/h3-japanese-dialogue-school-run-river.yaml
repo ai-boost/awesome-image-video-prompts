@@ -1,0 +1,31 @@
+id: h3-japanese-dialogue-school-run-river
+title:
+  en: Two students run to school by river
+  zh: 两名学生沿河边跑去学校
+model: MiniMax H3
+mode: reference-to-video
+category: dialogue
+tags:
+- japanese-dialogue
+- reference-image
+- school-run
+- side-tracking
+source:
+  name: '@MireilleDartois on X'
+  url: https://x.com/MireilleDartois/status/2085168181648445763
+  credit: ダルトワ★TV
+  likes: 27
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/MireilleDartois/status/2085168181648445763
+notes:
+  en: A reference image pins both characters' faces and outfits, while the shot is fixed as a side tracking view with upper bodies framed and the running direction spelled out. Each line is labelled with its voice number and gender, which lets the model assign the Japanese dialogue to the right speaker.
+  zh: 参考图锁定两人的外形与服装，镜头固定为侧面跟拍并框取上半身，同时写明跑动方向。每句台词都标注了声音编号和性别，让模型把日语对白分配给正确的说话人。
+prompt: |
+  A scene showing a male student wearing a green tracksuit and a female student in a sailor uniform running together on the school path along s small river.
+  A shot of the two people viewed from directly the side. They are running from the right side of the frame toward the left. The frame captures their upper bodies.
+  Several classmates on the way, walking to school.
+  Refer to <Picture 1> for the characters.
+  Voice 1(male):またワイら遅刻ちゃうか
+  Voice 2(female):あと30秒！あたしらの勝ちやな！

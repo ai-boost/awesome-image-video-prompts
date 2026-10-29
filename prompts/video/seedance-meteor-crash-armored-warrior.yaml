@@ -1,0 +1,53 @@
+id: seedance-meteor-crash-armored-warrior
+title:
+  en: Armored warrior emerges from burning meteor crater
+  zh: 装甲战士从燃烧的陨石坑中走出
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- meteor
+- robots
+- character-lock
+- timed-beats
+source:
+  name: '@NoOneIsHere2603 on X'
+  url: https://x.com/NoOneIsHere2603/status/2106981270085656888
+  credit: NoOneIsHere2603
+  captured: '2026-10-29'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/NoOneIsHere2603/status/2106981270085656888
+notes:
+  en: A repeated character lock clause fixes the face, hair, armor, colours and weapon, so the same man holds across all cuts. The 30 second action is split into timed 5 second beats, each with its own camera direction, which keeps a long fight readable.
+  zh: 重复出现的角色锁定描述固定了脸、发型、装甲、配色和武器，让全片人物保持一致。把 30 秒动作拆成每 5 秒一段的时间节拍，每段单独写明镜头运动，长段打斗因此更清晰。
+prompt: |
+  VISUAL STYLE: Ultra-cinematic science fiction, photorealistic CGI, dark futuristic city at night, dramatic blue-orange lighting, realistic smoke, fire, sparks, debris, atmospheric rain, powerful camera movement, high-detail environments, blockbuster action-film quality.
+
+  MAIN CHARACTER: One mysterious adult male warrior, athletic build, short dark hair, black futuristic armored suit with subtle glowing blue energy lines, metallic boots and gloves. His face, hairstyle, armor design, colors, body proportions, and weapon configuration must remain 100% identical throughout the entire video.
+
+  0–5 SECONDS
+
+  A gigantic burning meteor crashes into an abandoned futuristic city street at night. The camera follows the meteor from the sky as it impacts the exact center of the street, creating a powerful shockwave. Cars are pushed aside, windows shatter, smoke and sparks fill the air.
+
+  5–10 SECONDS
+
+  Without changing location, the camera moves closer to the smoking meteor. The cracked surface begins glowing blue from within and slowly splits apart. The same mysterious armored man steps out from inside the meteor and stands in the crater as smoke moves around him.
+
+  10–15 SECONDS
+
+  Before he can move, several hostile futuristic combat robots emerge from the surrounding smoke and buildings, forming a circle around him. He slowly looks around, raises his right hand, and blue energy begins traveling through the glowing lines of his armor.
+
+  15–20 SECONDS
+
+  His armor activates with mechanical components unfolding naturally over his arms and shoulders. He suddenly charges forward from the exact position where he was standing. He strikes the nearest robot, spins into another, and sends it crashing into a parked vehicle. The other robots immediately attack him.
+
+  20–25 SECONDS
+
+  The largest robot charges from directly behind him. The man turns at the last moment, catches its massive fist with both hands, and releases a concentrated blue energy shockwave. The robot is thrown backward through the same street, destroying several already-damaged vehicles and walls.
+
+  25–30 SECONDS
+
+  The dust slowly clears. The man remains standing in the crater, breathing heavily, with the same damaged-but-intact armor. He looks upward toward the sky. The camera follows his gaze and reveals a second gigantic meteor entering the atmosphere, far larger than the first.
+
+  End on his face as blue light from the approaching meteor reflects across his armor.

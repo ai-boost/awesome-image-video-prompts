@@ -1,0 +1,56 @@
+id: seedance-elderly-cyclist-clears-road-game-hud
+title:
+  en: Elderly man on bicycle clears a road in game
+  zh: 老年男子骑车清理道路的游戏画面
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- open-world
+- game-hud
+- gameplay
+- bicycle
+source:
+  name: '@RizwanAly07 on X'
+  url: https://x.com/RizwanAly07/status/2099432042509606931
+  credit: Maverick | AI
+  captured: '2026-10-29'
+  posted: '2026-09-14'
+video: https://x.com/RizwanAly07/status/2099432042509606931
+notes:
+  en: Locks the character, bicycle, tree and barrier as fixed objects, then times each controller prompt and HUD message to a 3 second beat so every action reads as player input. The explicit camera rig and the ban on cinematic framing keep it reading as live gameplay rather than a movie shot.
+  zh: 将角色、自行车、倒树和路障锁定为固定对象，并把每个手柄提示和HUD文字按每3秒一个节拍排列，让每个动作都像玩家操作。明确的第三人称镜头和禁止电影化构图，使画面更接近实时游戏而非电影镜头。
+prompt: |
+  Create a 30-second vertical 9:16 video that looks like authentic gameplay from a modern ultra-realistic AAA open-world game — NOT a cinematic movie.
+
+  CHARACTER LOCK: One realistic 70-year-old Japanese man with grey hair, aged face, slightly bent posture, faded blue railway/work jacket, dark trousers and black shoes. Keep identical face, body, clothing and age throughout.
+
+  ENVIRONMENT: Beautiful rural Japanese mountain village with a narrow asphalt road, traditional houses, rice fields, dense greenery, utility poles, mountains and a distant railway. Late-afternoon natural lighting. One continuous environment.
+
+  CAMERA/HUD: Third-person gameplay camera behind the character, consistent distance, responsive to player movement. Original realistic game HUD with minimap, health/stamina and contextual controller prompts. No GTA branding/UI.
+
+  0–3s: Man rides a bicycle toward a yellow waypoint. HUD: “REACH THE VILLAGE” + L3 STEER.
+
+  3–6s: Fallen tree blocks the road. Player brakes. L2 BRAKE. Objective changes: “CLEAR THE ROAD”.
+
+  6–9s: △ DISMOUNT. He gets off and looks toward the obstacle. R3 LOOK.
+
+  9–12s: L3 MOVE + R2 SPRINT. He approaches the fallen tree with believable elderly movement.
+
+  12–15s: □ INTERACT → ← → PUSH. He physically pushes the heavy tree aside. Realistic friction and weight; no disappearing objects.
+
+  15–18s: A metal road barrier is revealed. □ INTERACT. Message: “PATH STILL BLOCKED”.
+
+  18–21s: Player opens the barrier. It swings naturally and a waiting vehicle becomes visible.
+
+  21–24s: R3 LOOK. He returns to the bicycle. △ MOUNT.
+
+  24–27s: R2 PEDAL. He cycles through the cleared road. Waypoint turns green. Objective: “ROAD CLEARED”.
+
+  27–30s: Continue riding toward the village. HUD notification: “MISSION COMPLETE — ROAD CLEARED”. End during active gameplay, no cinematic ending.
+
+  GAMEPLAY FEEL: Every action must feel player-controlled. Fast pacing with an interactive moment every 2–3 seconds. Prompts appear only when usable. Realistic bicycle physics, braking, wheel rotation, elderly movement, tree weight, barrier movement, shadows and ground contact.
+
+  STRICT CONSISTENCY: One man, one bicycle, one tree, one barrier. No duplicates, morphing, teleportation, object popping, floating/sliding, face deformation, outfit changes, environment changes, lighting/weather changes or camera teleportation.
+
+  Ultra-realistic game-engine rendering, 24fps, high detail, realistic NPC/environment behavior, no anime, no cartoon, no fantasy, no movie cinematography.

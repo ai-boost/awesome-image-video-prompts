@@ -1,0 +1,26 @@
+id: h3-glass-mushrooms-rising-notes
+title:
+  en: Seven glass mushrooms ring in rising notes
+  zh: 七朵玻璃蘑菇依次奏出渐高音符
+model: MiniMax H3
+mode: text-to-video
+category: nature
+tags:
+- macro
+- sound-sync
+- glass
+- locked-camera
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/2102026855180046499
+  credit: Glenn Williams
+  likes: 32
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/GlennHasABeard/status/2102026855180046499
+notes:
+  en: The prompt sets a fixed beat of one mushroom every one and a half seconds and pairs each beat with a pitch step and a single drop, so sound, action and detail share one count. A locked macro camera keeps all seven mushrooms in frame for the whole sequence.
+  zh: 提示词设定了每秒半一朵的固定节拍，并把每一拍同时对应到一个音高台阶和一滴水，使声音、动作与细节共用同一套计数。锁定的微距镜头让七朵蘑菇在整个序列中始终留在画面内。
+prompt: |
+  one mushroom every one and a half seconds, each a slightly higher note, each shedding one drop

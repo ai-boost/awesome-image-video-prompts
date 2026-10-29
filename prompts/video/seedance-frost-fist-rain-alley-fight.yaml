@@ -1,0 +1,26 @@
+id: seedance-frost-fist-rain-alley-fight
+title:
+  en: Woman's frost-covered fist strikes in rainy alley
+  zh: 雨夜小巷中女战士挥出覆霜拳头
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- night-rain
+- frost-fire
+- fight-choreography
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2104427974955053532
+  credit: AvelyrahnAI
+  captured: '2026-10-29'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AvelyrahnAI/status/2104427974955053532
+notes:
+  en: The prompt is built as comma-separated clauses for location, character, combat effects, lighting and style, which keeps one clear scene for the model to hold. Setting fire explosions against frost punches gives the fight a strong contrast that reads on screen.
+  zh: 提示词依次用逗号分段描述地点、角色、战斗特效、灯光和风格，让模型只需守住一个清晰的场景。火焰爆炸与冰霜拳头形成对比，打斗的视觉反差在画面中很突出。
+prompt: |
+  Epic action movie sequence, dark rainy night in a narrow alleyway lined with stacked cargo containers, a fierce female fighter in a sleek black suit battling waves of aggressive opponents, high-impact combat with fiery explosions and freezing frost punches, cinematic lighting, dramatic smoke, fast-paced choreography, hyper-realistic, 4k
+
+  #Flovaai #Flovacpp

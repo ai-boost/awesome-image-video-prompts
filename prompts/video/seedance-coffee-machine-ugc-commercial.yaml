@@ -1,0 +1,47 @@
+id: seedance-coffee-machine-ugc-commercial
+title:
+  en: Woman in cream sweater walks through warm kitchen
+  zh: 穿米色毛衣的女性在温暖的厨房里走动
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- ugc
+- product-ad
+- coffee-machine
+- vertical
+source:
+  name: '@SadiaMalik182 on X'
+  url: https://x.com/SadiaMalik182/status/2085947010293883115
+  credit: Sadia
+  captured: '2026-10-29'
+  posted: '2026-08-08'
+video: https://x.com/SadiaMalik182/status/2085947010293883115
+notes:
+  en: The prompt splits the 30 second spec into timed scenes, each with its own camera move and action, so the model gets a shot list rather than a vague mood. The style line (handheld camera, natural light, realistic hands) carries the UGC realism.
+  zh: 提示词把 30 秒拆成带时间段的分镜，每段写明镜头运动和动作，模型得到的是分镜表而不是模糊的氛围描述。风格段落中的手持镜头、自然光和真实手部动作决定了 UGC 的真实感。
+prompt: |
+  Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
+
+  Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
+
+  Scene 1 (0–5s)
+  A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
+
+  Scene 2 (5–10s)
+  Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
+
+  Scene 3 (10–17s)
+  Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
+
+  Scene 4 (17–23s)
+  The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
+
+  Scene 5 (23–27s)
+  Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
+
+  Scene 6 (27–30s)
+  Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
+
+  Requirements:
+  Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.

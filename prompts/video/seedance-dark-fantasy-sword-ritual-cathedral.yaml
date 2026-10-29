@@ -1,0 +1,24 @@
+id: seedance-dark-fantasy-sword-ritual-cathedral
+title:
+  en: Wounded woman pushes up on cathedral floor
+  zh: 受伤女子在哥特大教堂石地上撑起身体
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- dark-fantasy
+- shot-sequence
+- gothic
+- sword-ritual
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2110223060066521421
+  credit: Sᴀɪʀᴀ
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+video: https://x.com/itsSaira_1/status/2110223060066521421
+notes:
+  en: A numbered shot list gives each shot its own framing, lighting and mood, so one generation cuts between scenes in sequence. The negative prompt blocks cartoon, low poly and modern clothing drift.
+  zh: 采用分镜编号结构，每个镜头单独给出景别、光线和氛围，让模型在一次生成中按顺序切换场景。负面提示词用于压制卡通、低模和现代服装等偏差。
+prompt: "Sequence of shots for a dark fantasy cinematic video:\n\n[Shot 1] \nClose-up cinematic shot of a wounded woman with long dark hair, wearing a blood-stained white medieval gown, struggling and pushing herself up on the stone floor of a dark gothic cathedral, moody atmosphere, dramatic lighting, 8k resolution.\n\n[Shot 2] \nCinematic shot of a woman plunging a glowing magical sword into the stone floor, creating a bright red glowing fiery magical sigil circle expanding rapidly across the ground, dark fantasy style, smoke, epic visual effects.\n\n[Shot 3] \nCinematic wide shot inside a gothic cathedral, revealing a towering mystical entity in a dark hooded cloak framed by massive rotating concentric golden rings filled with glowing eyes, epic fantasy atmosphere, dramatic lighting, 8k.\n\n[Shot 4]\nAction-packed cinematic shot of terrifying demonic monsters roaring and moving aggressively in a dark gothic cathedral, surrounded by smoke, debris, and bursts of magical fire, dark fantasy\
+  \ film style.\n\nNegative prompt: \nblurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.\n"

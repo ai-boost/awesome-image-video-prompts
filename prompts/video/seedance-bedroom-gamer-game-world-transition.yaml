@@ -1,0 +1,54 @@
+id: seedance-bedroom-gamer-game-world-transition
+title:
+  en: Bedroom gamer beside TV rooftop runner
+  zh: 卧室玩家与电视里屋顶奔跑的角色
+model: Seedance 2.5
+mode: reference-to-video
+category: vfx
+tags:
+- transition
+- multi-reference
+- cartoon
+- timeline
+source:
+  name: '@techhalla on X'
+  url: https://x.com/techhalla/status/2107229541940748357
+  credit: TechHalla
+  captured: '2026-10-29'
+  posted: '2026-10-05'
+video: https://x.com/techhalla/status/2107229541940748357
+notes:
+  en: A timed shot list pairs each segment with a named camera move, and locked character sheets and stills are passed as references so the man keeps his face while only his style changes inside the game.
+  zh: 按时间段分镜，每段指定镜头运动，并附上锁定的角色设定图和分镜静帧作为参考，让人物面部保持不变，只在进入游戏时改变画风。
+prompt: |
+  Gritty lived-in bedroom verité that hard-cuts into a hand-inked chase cartoon, then snaps back to reality. 35mm handheld in the room, warm lamp against cold TV glow. Inside the game: paper-grain comic, bold ink, motion streaks. One continuous 30s story.
+
+  [IMAGE REFERENCES]
+
+  [char_sheet_1] : cartoon runner turnaround, lock the design.
+
+  [char_sheet_2] : real man identity — face, beard, skull cap, Pulp Fiction tee, jeans, Vans, forearm tattoo.
+
+  Images [still_1] and [still_2] : bedroom, couch, TV, rage pose. Images [still_3] [still_4] [still_5] : in-game rooftop and mine-cart look, cartoon man plus runner.
+
+  [still_6] : wake-up, bloodhound, paused screen. Identities stay locked. Only the man restyles when the game pulls him in.
+
+  [TIMELINE]
+
+  0-4s: [Medium handheld] Man sunk in the gray couch, locked in, thumbs working a white controller. TV shows the cartoon runner sprinting rooftops. Lamp warm, room messy, pizza box and Monster cans on the table. Focused, a little smug.
+
+  4-8s: [Push-in] TV slams to red GAME OVER. He jolts up, face twisting, shouting "No, no, no—come on!" He hurls the controller. It cracks the screen. Glass spiders, a blue spark jumps. Pure rage.
+
+  8-12s: [Whip to the TV] A white-blue energy vortex tears out of the crack and yanks his cap, shirt, arms. He grabs the stand, feet slide on the carpet, then gets sucked in. Body stretches, colors flatten. Hard smash-cut into ink.
+
+  12-18s: [Dynamic low tracking on the tiles] He lands cartoonified — same beard, tee, jeans, now inked, eyes huge — mid-stride beside the black-headed runner, pencil behind the ear. A giant pink eraser crashes through chimneys behind them. Both sprint. Cap flies off. He yells "What the hell is this?!"
+
+  18-24s: [Action tracking] They dive into a rust mine cart on a wooden trestle. Sparks kick off the rails. Eraser debris explodes behind. He clutches the rim, runner steers. Panic, wind, lanterns whipping past.
+
+  24-28s: [Smash cut, static wide] Back in the bedroom. He is asleep on the couch, controller still on his chest, mouth open. TV shows the runner on a PAUSED menu. A bloodhound stands on the cushion and licks his face, long slow laps.
+
+  28-30s: [Close] Eyes crack open, confused, still half-asleep. The dog keeps licking. He mutters "...the hell?" The controller never left his stomach. Dream logic lands.
+
+  [STYLE & QUALITY BOOSTERS]
+
+  Photoreal room, illustrated game world, coherent physics, perfect motion blur, stable identities, readable TV text, cinematic lighting, no extra limbs, no morphing faces, movie-level cut stability.

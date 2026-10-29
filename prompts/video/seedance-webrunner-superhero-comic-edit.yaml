@@ -1,0 +1,45 @@
+id: seedance-webrunner-superhero-comic-edit
+title:
+  en: Woman films selfie while running through city plaza
+  zh: 女孩边跑边自拍穿过城市广场
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- superhero
+- comic-book
+- multi-shot
+- hybrid-animation
+source:
+  name: '@Rosey_watson on X'
+  url: https://x.com/Rosey_watson/status/2087024849839587451
+  credit: Rosey Watson
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+video: https://x.com/Rosey_watson/status/2087024849839587451
+notes:
+  en: Timed beats with a shot and transition cue in each block give the model a clear pacing plan for the 15 second multi-shot edit. The style stack names linework, halftone and speed lines, and a separate AVOID list blocks franchise costumes and copied animation styles.
+  zh: 按时间段分拍，每段写明镜头与转场，让模型按节奏生成15秒多镜头剪辑。风格段点明线稿、网点和速度线，AVOID 段排除现有超级英雄服装与照搬的动画风格。
+prompt: |
+  Create a fast-paced cinematic 15-second vertical 9:16 superhero edit blending photorealistic live action with an original comic-book animation aesthetic.
+
+  0–4 SEC — CITY RUN
+  A young woman with long brown hair, oversized light-pink shirt, white tank top, light-blue jeans, and white sneakers runs through a modern European-inspired city. She films herself with a pink smartphone, smiling at the camera. Smooth tracking shot suddenly transitions into bold comic-book linework, halftone textures, vibrant colors, and speed lines.
+
+  4–8 SEC — HERO ACTION
+  She jumps between rooftops as two completely original masked web-slinging heroes appear. One wears a white, charcoal, and teal suit; the other wears crimson and midnight blue. No recognizable existing superhero designs. Energy webs shoot from their gloves as they swing between skyscrapers.
+
+  8–12 SEC — COMIC CHAOS
+  First-person web-swinging POV through a futuristic city at golden hour. Neon signs, floating debris, graphic panels, motion blur, and an original “WHOOSH!” graphic create explosive comic energy. She lands dramatically on a rooftop.
+
+  12–15 SEC — FINAL HERO SHOT
+  She crouches on a rooftop with her hair blowing in the wind as the camera pulls back to reveal a vast fictional city skyline glowing pink and orange.
+
+  Final text:
+
+  WEBRUNNER
+  RISE. SWING. RUN.
+
+  STYLE: Premium cinematic live action, original graphic-novel animation, bold outlines, halftone textures, vibrant colors, realistic hair and fabric physics, dynamic camera movement, dramatic lighting, seamless transitions, photorealistic detail, 4K, vertical 9:16.
+
+  AVOID: Existing superhero characters, recognizable costumes, logos, franchise imagery, real-world landmarks, copied animation styles, distorted faces, warped hands, inconsistent characters, random text, cheap CGI.

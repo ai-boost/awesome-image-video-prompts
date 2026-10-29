@@ -1,0 +1,24 @@
+id: seedance-anime-morning-commute-japan-town
+title:
+  en: Anime schoolgirl morning commute through Japanese town
+  zh: 动漫女学生清晨穿过日本小镇上学
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- anime
+- slice-of-life
+- japan
+- school
+source:
+  name: '@AynahhX on X'
+  url: https://x.com/AynahhX/status/2104425655387742474
+  credit: Aynah
+  captured: '2026-10-29'
+  posted: '2026-09-28'
+video: https://x.com/AynahhX/status/2104425655387742474
+notes:
+  en: The prompt is a numbered sequence of shots with one clear beat each (wide street, bedroom, kitchen close-up, bus, meeting the cyclist, classroom), which gives the model a timed story to follow. Repeating a fixed character look and lighting terms keeps the girl and the golden-hour mood consistent across cuts.
+  zh: 提示词按顺序写出多个镜头，每个镜头只有一个清晰的节拍（远景街道、卧室、厨房特写、校车、与骑车男生会合、教室），模型因此有明确的时间线可循。反复写明固定的角色外观和光线描述，让女主角和金色晨光氛围在多次切换中保持一致。
+prompt: |
+  Create a 10-second cinematic anime-style sequence set in a peaceful Japanese town on a bright summer morning. Start with a wide shot of a quiet residential street with Japanese houses, greenery, utility poles and soft blue skies → show a schoolgirl waking up in a sunlit bedroom, stretching beside the window → close-up of breakfast cooking in a warm kitchen with gentle steam → she grabs her school bag and runs outside to catch the school bus → show her walking along a sunny street before meeting a schoolboy riding a bicycle → they travel together toward school, with natural wind moving their hair and clothes → end with the girl entering a bright classroom and sitting beside the window as sunlight fills the room. Beautiful anime visuals, detailed backgrounds, expressive characters, soft golden lighting, smooth camera movement, natural animation, subtle motion blur, nostalgic coming-of-age atmosphere, consistent character appearance, no text, subtitles or watermark.

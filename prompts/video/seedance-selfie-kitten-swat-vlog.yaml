@@ -1,0 +1,339 @@
+id: seedance-selfie-kitten-swat-vlog
+title:
+  en: Selfie vlog woman laughs as kitten swats
+  zh: 自拍视频中女生被小猫扒脸后大笑
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- selfie
+- kitten
+- handheld
+- reference-consistency
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2096540586866270337
+  credit: Strength04_X
+  captured: '2026-10-29'
+  posted: '2026-09-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Strength04_X/status/2096540586866270337
+notes:
+  en: Locks the woman's look with an @image1 reference and a single-kitten continuity rule, then sets a handheld front camera spec and timed beats. The dialogue is cut off by laughter so the speech sounds unscripted.
+  zh: 用 @image1 锁定人物外观，再加上只有一只小猫的连续性约束，并按秒划分剧情节拍。台词被笑声打断，声音听起来不像照着念的。
+prompt: |
+  REFERENCE & SUBJECT CONSISTENCY
+
+  Use "@image1" as the exact visual reference for the woman. Preserve her identity, facial features, hairstyle, body proportions, clothing, skin texture, and overall appearance consistently throughout the entire clip. Do not redesign, beautify, age, de-age, or alter her appearance.
+
+  Use exactly ONE small tabby kitten throughout the entire video. The same kitten must remain physically continuous from beginning to end, with consistent fur pattern, eye color, size, whiskers, ears, paws, and body proportions. No second kitten, no other animal, no duplicate subject.
+
+  ---
+
+  FORMAT & CAMERA
+
+  30-second single continuous handheld selfie video, vertical 9:16, realistic smartphone front-camera footage.
+
+  The woman is holding the phone herself with one outstretched arm. The phone is the camera. Tight chest-up framing keeps both her face and the kitten visible most of the time.
+
+  Plain indoor environment with soft natural daylight coming through a nearby window. No cinematic lighting, no studio look, no color grading. Natural smartphone white balance and exposure.
+
+  The camera should have subtle human arm drift, tiny wrist movements, occasional handheld jitter, imperfect framing, and natural re-centering. Do not stabilize the footage excessively.
+
+  No cuts, no transitions, no camera operator, no third-person angle, no zoom.
+
+  ---
+
+  0–5 SEC — QUIET START
+
+  The video begins already in progress.
+
+  The woman is holding the small tabby kitten gently against her chest with one hand while her other arm holds the phone at selfie distance.
+
+  Her face is close to the lens and the kitten's head rests beside her chin.
+
+  She looks down toward the kitten rather than directly performing for the camera. Her expression is relaxed and affectionate.
+
+  She quietly murmurs to the kitten in a casual everyday voice. The kitten remains slightly restless in her hand, blinking and moving its ears.
+
+  Her thumb slowly rubs the fur behind one of the kitten's ears.
+
+  The camera drifts slightly downward and then naturally re-centers on both faces.
+
+  Keep the movement casual and unpolished, like a genuine phone recording rather than a staged performance.
+
+  ---
+
+  5–9 SEC — FIRST REACTION
+
+  The kitten suddenly shifts its body inside her grip.
+
+  She notices the movement and gives a small nose-laugh while looking at it.
+
+  The kitten twists its upper body and raises one front paw.
+
+  It suddenly swats directly toward her chin.
+
+  She reacts immediately and naturally — a sharp intake of breath, head pulling backward, eyes squeezing shut for a moment.
+
+  The unexpected movement makes her burst into genuine laughter.
+
+  Her shoulders shake and the phone in her outstretched hand briefly becomes slightly shaky.
+
+  A few loose strands of her tied-back hair swing across her cheek.
+
+  She looks back at the kitten while laughing.
+
+  ---
+
+  9–13 SEC — FIRST DIALOGUE
+
+  Still laughing and catching her breath, she looks toward the kitten and then briefly toward the phone.
+
+  Her laughter interrupts her breathing and makes her words slightly broken and imperfect.
+
+  She says frontally, with her mouth clearly visible:
+
+  "Ow— okay, okay, I get it—"
+
+  The delivery should not sound rehearsed.
+
+  The line is spoken through genuine laughter, with a small breath between words.
+
+  The kitten gives one thin, quiet mewl while remaining against her chest.
+
+  Her thumb instinctively continues rubbing the kitten's fur as if trying to calm it down.
+
+  ---
+
+  13–18 SEC — KITTEN SCRAMBLES UP
+
+  The kitten suddenly tries to climb upward from her chest toward her shoulder.
+
+  Its front paws grip the ribbed edge of her top.
+
+  The fabric visibly wrinkles and shifts under its paws.
+
+  She reacts with a surprised little yelp followed immediately by another burst of laughter.
+
+  Her body leans slightly away from the kitten while her supporting hand adjusts underneath it.
+
+  The camera moves with her arm and briefly loses perfect centering before naturally coming back to both of them.
+
+  She catches the kitten's hind legs with her palm before it can climb completely onto her shoulder.
+
+  Her expression remains amused and unguarded.
+
+  ---
+
+  18–22 SEC — PULLING KITTEN BACK
+
+  She gently slides the kitten back down onto the center of her chest.
+
+  The kitten squirms in her hand but does not escape.
+
+  She laughs under her breath while trying to keep hold of it.
+
+  Once the kitten is secure again, she presses her cheek gently against the top of its head.
+
+  She closes her eyes for a brief moment and gives a soft affectionate laugh.
+
+  Then she puffs a small breath into the kitten's fur.
+
+  Her laughter continues as tiny hiccupping giggles between uneven breaths.
+
+  Keep the interaction physically believable — the kitten's fur compresses naturally against her cheek and springs back slightly.
+
+  ---
+
+  22–26 SEC — SECOND PAW
+
+  The kitten's ears flick backward.
+
+  Its head turns slightly.
+
+  One front paw slowly rises again.
+
+  She notices it and immediately pulls her face back with a half-amused, half-defensive expression.
+
+  Before she can fully react, the kitten lifts its paw toward her face again.
+
+  She laughs harder, shoulders bouncing.
+
+  The phone shakes slightly from her laughter.
+
+  The camera briefly turns a little toward the nearby window as her arm shifts, producing one subtle natural auto-exposure hunt.
+
+  Exposure settles again without any cinematic correction.
+
+  Her face, skin texture, kitten fur strands, and whiskers remain sharply detailed despite the movement.
+
+  ---
+
+  26–30 SEC — FINAL LENS REACH
+
+  The kitten suddenly reaches its paw forward toward the phone.
+
+  The paw moves directly toward the front camera.
+
+  The woman pulls her head backward while laughing.
+
+  Her arm holding the phone instinctively moves away from the kitten.
+
+  The framing drifts and dips naturally.
+
+  The kitten's paw becomes large in the near foreground, partially entering the corner of the frame.
+
+  Allow one brief natural focus-breathing moment as the paw approaches the lens, while the woman's face and kitten remain visually coherent.
+
+  She laughs through the reaction and starts to say:
+
+  "You little—"
+
+  But the sentence is cut off naturally by her laughter.
+
+  Her laugh cracks and swallows the rest of the words.
+
+  The kitten remains supported securely against her chest.
+
+  The final image is imperfectly framed, with the woman's shoulders still bouncing from laughter and the kitten squirming in her hand as the clip ends naturally.
+
+  Do not create a posed ending.
+
+  ---
+
+  PERFORMANCE & PHYSICAL REALISM
+
+  The woman's laughter must be physical and unpolished rather than performed.
+
+  Her eyes naturally crease and close during stronger laughs. Her shoulders and chest move with her breathing. Her breathing becomes uneven after laughing. Small pauses, inhalations, nose-laughs, interrupted syllables, and imperfect timing are encouraged.
+
+  The kitten should behave like a real young kitten: unpredictable small movements, ear flicks, paw movements, slight squirming, subtle body weight shifts, and natural attempts to climb.
+
+  Her hands must maintain believable support of the kitten throughout. Never let the kitten float, teleport, duplicate, or change position without physical movement.
+
+  ---
+
+  CAMERA & IMAGE QUALITY
+
+  Natural smartphone front-camera optics.
+
+  Subtle handheld jitter.
+
+  Natural arm drift.
+
+  Small framing errors.
+
+  Natural re-centering.
+
+  One brief auto-exposure adjustment when she turns slightly toward the window.
+
+  One brief focus-breathing moment when the kitten's paw approaches the lens.
+
+  No artificial camera shake.
+
+  No cinematic depth of field.
+
+  No dramatic lighting.
+
+  No beauty filter.
+
+  No skin smoothing.
+
+  Keep individual kitten fur strands, whiskers, her natural skin texture, and fine hairs around her temple sharply visible during movement.
+
+  ---
+
+  AUDIO
+
+  Diegetic audio only.
+
+  No background music.
+
+  No soundtrack.
+
+  No voice-over.
+
+  No added cinematic sound effects.
+
+  Capture natural fabric rustling as the kitten climbs, subtle clothing movement, one thin kitten mewl, the woman's quiet murmuring at the beginning, nose-laugh, sharp intake of breath, surprised yelp, unguarded laughter, small hiccupping giggles, uneven breathing, and the two spoken lines.
+
+  Dialogue must be spoken by the woman naturally and frontally with her mouth visible.
+
+  Dialogue:
+
+  "Ow— okay, okay, I get it—"
+
+  "You little—"
+
+  The second line must remain incomplete and be swallowed by laughter.
+
+  ---
+
+  STRICT NEGATIVE CONSTRAINTS
+
+  Exactly ONE woman.
+
+  Exactly ONE kitten.
+
+  No other animals at any point.
+
+  No duplicate kitten.
+
+  No duplicate woman.
+
+  No extra limbs.
+
+  No extra fingers.
+
+  No changing clothing.
+
+  No changing hairstyle.
+
+  No identity drift.
+
+  No face morphing.
+
+  No kitten transformation.
+
+  No teleportation.
+
+  No cuts.
+
+  No transitions.
+
+  No zoom.
+
+  No third-person camera.
+
+  No external camera.
+
+  No reference sheet.
+
+  No character sheet.
+
+  No split screen.
+
+  No subtitles.
+
+  No captions.
+
+  No on-screen text.
+
+  No logo.
+
+  No watermark.
+
+  No background music.
+
+  No voice-over.
+
+  No cinematic color grading.
+
+  No artificial beauty retouching.
+
+  No staged acting.
+
+  Maintain one continuous uninterrupted 30-second handheld selfie recording from beginning to end.
+
+  #pixverse #pixversecpp

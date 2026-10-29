@@ -1,0 +1,300 @@
+id: seedance-pyona-water-gym-fight
+title:
+  en: Girl with pale blue hair ringed by five schoolgirls
+  zh: 浅蓝发少女被五名女生包围于体育馆
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- fight-choreography
+- water-vfx
+- school-gym
+- character-reference
+source:
+  name: '@pyona_ai on X'
+  url: https://x.com/pyona_ai/status/2091862645720879213
+  credit: pyona_ai
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/pyona_ai/status/2091862645720879213
+notes:
+  en: 'One reference image locks identity, hair and uniform while the text fixes the shot order: a front facing opening, then an in place low sweep with a fixed support hand and no forward travel. Explicit bans on slow motion, sliding and static water shields keep the fight readable and aggressive.'
+  zh: 用一张参考图锁定人物身份、发色和校服，正文按镜头顺序写死动作：正面开场，之后是原地低位扫腿，支撑手固定、身体重心不前移。明确禁止慢动作、滑行和静态水罩，让打斗既激烈又可读。
+prompt: |
+  SEEDANCE 2.5 — PYONA 水系战斗 / 学校体育馆最终版
+
+  Use exactly 1 uploaded image asset.
+  image1 = PYONA唯一且最高优先级人物身份与外观参考。严格保持她可辨识的脸部身份、五官比例、肤色、体型，以及image1中实际存在的服装造型与所有可见配件一致。PYONA的服装、服装颜色、款式、层次、鞋子及所有可见配件必须完全以image1为准，不得额外指定、替换或重新设计成其他服装。PYONA必须始终保持浅粉蓝色短发、自然刘海、白色云朵发夹、蓝色小鱼发夹。浅粉蓝发色绝对固定，禁止黑发、棕发、纯蓝发或其他颜色。人物必须像同一个真实韩国女性自然重新拍摄，禁止换脸感、贴图感、AI塑料皮肤、3D、游戏CG。
+  生成严格30秒、16:9横屏、原生4K、24fps、超写实真人韩国超自然校园动作短片。REAL LIVE-ACTION + real Korean school gymnasium + premium transparent-water VFX。无BGM、无字幕、无旁白。
+
+  【核心设定】
+  PYONA早已完成水系觉醒并熟练掌握能力。本片不是再次觉醒。禁止研究手掌、惊讶自己会控水、停下来欣赏水。
+  敌人共5名，全部为成年年轻韩国女性，全部不同脸、不同发型、不同气质。穿同一学校体系女校制服，但领带松散、衬衫略乱、部分加深色开衫或短外套，呈现危险、嚣张、压迫感很强的不良女生气质。禁止甜美偶像感。
+  敌人必须真正主动进攻，不排队、不等待、不围着PYONA看她表演。
+
+  【场景】
+  夜间韩国学校体育馆。中央篮球场、真实木地板、篮球架、边线、墙边折叠垫、球车、器材架、舞台前开阔区域。冷白顶灯，木地板有真实反光。晚间清洁后局部存在薄水痕，饮水区有少量残水，PYONA也可快速凝聚空气湿气。
+  空间连续：中央球场 → 边线附近 → 舞台前开阔区域。禁止突然换位置。
+  【台词】
+  领头者：“어디 가려고?”
+  另一名女生：“잡아!”
+  PYONA全程无台词。
+  【最高优先级动作原则】
+  FIGHT AGGRESSIVELY. ZERO CAUTIOUS CHOREOGRAPHY.
+  所有动作必须快速、突然、强硬、毫不犹豫。绝对不要温柔推人、轻轻挡开、慢慢滑行、等待对方配合。
+  Every major attack uses committed full-body momentum, visible acceleration, hard physical contact, body compression, immediate loss of balance and believable recovery delay.
+  PYONA可以被拳头擦到、被撞到、被抓住，绝不是完美无伤闪避。
+  敌人也持续攻击，即使PYONA正在打另一个人，其他人仍然寻找角度冲上来。
+  动作必须像真实电影危险打斗，而不是谨慎武术教学。
+  【00:00–00:07 — 正面重击 / 完整倒地 / 嘲笑】
+  第一镜头必须直接看见PYONA正脸或3/4正面脸，绝对禁止从PYONA背后开始。
+  中央篮球场，5名不良女生近距离包围PYONA。PYONA明显紧张、警戒，但没有提前摆英雄战斗姿势。
+
+  领头者从正面走近，看着她说：“어디 가려고?”
+  下一瞬间没有缓慢蓄力，领头者突然朝PYONA腹部打出一记短、重、直接的拳击。
+  必须清楚看见：
+  FIST → REAL ABDOMEN CONTACT → CLOTHING COMPRESSION → BODY FOLD.
+
+  PYONA眼神瞬间失焦，眉头紧皱，嘴唇微张，呼吸被硬生生打断。上身猛地折起，踉跄后退1–2步，鞋底摩擦木地板，然后真正失去平衡。
+  侧臀先落地，一只手随后重重撑住木地板。
+  必须完整表现：
+  HIT → BODY FOLD → STUMBLE → LOSS OF BALANCE → HARD FALL.
+  禁止被打后马上恢复。
+  周围女生立刻爆发真实嘲笑。有人捂嘴笑，有人和同伴交换眼神后大笑，有人低头指着她笑，领头者站着轻蔑看她。不要5人机械同步笑。
+
+  低机位清楚拍到PYONA的脸。她一手按住腹部，一手撑地，急促喘息。
+  表情自然变化：
+  疼痛 → 狼狈 → 屈辱 → 压住愤怒 → 眼神逐渐变冷。
+  她没有挥手施法。
+  她撑地的手掌突然压紧，一条腿收回，肩、腰、髋同时准备低位旋转。
+  周围薄水痕快速贴向她的支撑手、腿和鞋底。
+  【00:07–00:11 — LOW WATER SPIN SWEEP / 超高速原地圆形扫腿】
+  这是第一反击，也是本片最重要动作之一。
+  两名仍在嘲笑PYONA的不良女生已经站到她近距离，一名位于正前偏左，一名位于正前偏右。第三名正在稍后位置靠近。两名近身敌人的脚踝与小腿必须明确处于PYONA真实扫腿范围内。
+  镜头必须先清楚建立：
+  倒在地上的PYONA正脸或3/4正面脸 + 她撑地的一只手 + 准备伸直的扫腿 + 两名敌人的腿部位置。
+  PYONA仍处于刚刚摔倒的低位姿势。
+  她绝对不要向前移动、不要扑向敌人、不要滑行。
+  她一只手猛地、牢牢撑住木地板，支撑手的位置基本固定。
+  身体重心压得极低，髋部接近木地板。
+  一条腿收紧辅助身体形成转轴，另一条腿迅速完全伸直，保持在脚踝至小腿高度。
+
+  下一瞬间：
+  EXPLOSIVE LOW CIRCULAR LEG SWEEP.
+  PYONA以固定的撑地手和低位髋部为旋转中心，肩、腰、髋同时猛烈爆发发力，在原来的倒地位置突然完成一次极快、极凶狠的低位圆形扫腿。
+
+  NO FORWARD TRAVEL.
+  NO SLIDING FORWARD.
+  NO TACKLE.
+  NO CHARGING INTO THE ENEMY.
+  BODY CENTER REMAINS ALMOST IN PLACE.
+
+  她伸直的腿像一根高速旋转的横杆一样，紧贴木地板上方，以极快圆弧扫过周围敌人的脚踝和小腿。
+
+  透明水流紧紧贴着PYONA的扫腿、鞋底与腿部圆形运动轨迹同步高速旋转，只用于增强她的旋转速度、横向冲击力和扫腿力量。
+  真正让敌人倒下的必须首先是PYONA自己的腿部直接接触。
+
+  第一名敌人：
+  PYONA伸直的腿高速、结实地撞中她的脚踝与小腿。
+  支撑腿立即被强行横向扫走。
+  敌人没有时间慢慢反应，身体轴线瞬间崩溃，整个人立刻重重向侧面摔到木地板。
+  PYONA完全不停顿。
+
+  利用同一次高速原地旋转，她伸直的腿继续横扫第二名敌人的小腿下段。
+  扫腿真实命中，同时紧贴PYONA腿部旋转的透明水流猛烈掠过第二名敌人的另一只支撑脚。
+  她的双脚迅速失去稳定，身体被强力掀离原来的直立轴线，紧接着重重摔倒。
+  第三名靠后的敌人正在逼近，但没有处于PYONA腿部直接攻击距离。
+  她受到高速扩散的低位水流、前方两名同伴突然摔倒以及空间变化影响，被迫急退并踉跄，但禁止无缘无故自动摔倒。
+
+  核心扫腿动作必须极快。
+
+  从PYONA髋部开始爆发旋转，到连续扫中两名敌人，真正的圆形扫腿核心动作必须在约0.8–1.0秒内完成。
+
+  剩余时间只用于：
+  敌人靠近 → PYONA建立低位支撑姿势 → 两次真实命中后的快速摔地反应。
+  必须明确表现：
+  FALLEN LOW POSITION
+  → ONE HAND HARD PLANT
+  → ONE LEG FULLY EXTENDED
+  → EXPLOSIVE HIP ROTATION
+  → FAST IN-PLACE CIRCULAR SWEEP
+  → FIRST REAL LEG CONTACT
+  → IMMEDIATE HARD FALL
+  → CONTINUOUS ROTATION
+  → SECOND REAL LEG CONTACT
+  → SECOND HARD FALL.
+  The sweep is sudden, violent, explosive and fully committed.
+  The enemies are not gently pushed.
+  Their support legs are forcefully swept out from under them.
+  They fall immediately because their physical base is removed.
+
+  绝对禁止：
+  slow sliding,
+  slide tackle,
+  forward crawling,
+  forward body travel,
+  slow spinning,
+  breakdance performance,
+  dance-like rotation,
+  careful sweep,
+  soft contact,
+  enemies falling before leg contact,
+  enemies gently sitting down,
+  PYONA traveling across the floor during the sweep.
+  周围笑声瞬间全部停止。
+  【00:11–00:15 — HYDRO STEP / 强攻第三人】
+  另一名敌人惊怒大喊：“잡아!” 并直接冲上来挥拳。
+
+  PYONA没有慢慢起身。她支撑手和脚底水分瞬间向后爆开，HYDRO STEP把她从低位快速推起并直接向敌人切入。
+  对方拳头擦过PYONA脸侧，PYONA头部有真实小幅偏转，但不后退。
+
+  她把水压推进产生的速度直接转化为强力 SHOULDER CRASH，肩部结实撞中对方上身，使其明显后退。
+
+  紧跟一记短而重的BODY KNEE准确击中腹部。
+  HYDRO STEP → SHOULDER CRASH → KNEE.
+  动作连续、快速、凶狠，无等待。
+
+  【00:15–00:18 — WATER GUARD / 硬接反击】
+  另一名敌人立刻从正面打出重拳，同时旁边还有人逼近。
+  PYONA抬起前臂，WATER GUARD瞬间形成高速旋转的透明厚水膜。
+
+  拳头必须真实撞入水膜。
+  SPLASH.
+  水猛烈炸开，PYONA的前臂也因冲击向后震动半拍，但水膜把拳路强行推偏。
+  PYONA马上贴入空档，一记短而重的肘击准确撞中敌人上身。
+  不要漂亮停顿。
+  不要摆Pose。
+  马上进入下一威胁。
+
+  【00:18–00:23 — FACE WATER CANNON】
+  一名敌人从正面高速逼近，准备再次攻击。
+
+  不要让PYONA站着慢慢聚水。
+  不要长时间蓄力。
+
+  PYONA快速抬掌。地板水痕、散落水滴和空气湿气几乎瞬间汇聚到掌前。
+
+  FACE WATER CANNON.
+  一股短促、猛烈、集中的透明高压水柱直接正面轰向敌人脸部与上胸。
+  必须看清：
+  INSTANT WATER GATHER → VIOLENT FORWARD WATER JET → DIRECT FACE / HEAD / UPPER-CHEST IMPACT.
+  水炮强力撞中脸部，对方头部猛然后仰，眼睛本能闭紧，头发与校服瞬间被冲向后方，身体连续后退并短暂失去方向感。
+  不是漂亮喷泉。
+  不是轻轻泼水。
+  必须像强力高压水流突然正面轰中。
+
+  PYONA立即向前压迫，不站着看结果。
+
+  【00:23–00:26 — RING WATER SHOCKWAVE / 环形水波震退】
+  剩余几名女生从不同方向同时重新逼近PYONA。
+
+  禁止生成静态水结界。
+  禁止透明球形护盾。
+
+  敌人真正快速进入近距离时，PYONA猛地压低重心并将力量向地面释放。
+  周围水分瞬间被拉向她脚下，随后：
+  RING WATER SHOCKWAVE.
+  以PYONA为中心，一圈强烈、透明、具有重量的环形水压波突然沿木地板和低位空间向四周爆炸式扩散。
+
+  不是防护罩。
+  这是向外猛烈释放的水压冲击。
+
+  正在逼近的敌人必须发生强烈物理反应：
+  一人上身被水压正面推退数步；
+  一人重心被掀向后方；
+  一人与侧面的同伴猛烈撞在一起；
+  另一人脚下打滑、膝盖几乎着地。
+  所有反应必须发生在水波真正接触身体之后。
+  领头者没有完全倒下。她强行顶住第一波冲击，调整脚步后继续正面扑向PYONA。
+
+  这自然建立最终1对1攻击线。
+  【00:26–00:30 — HYDRAULIC PALM / 最终高潮】
+  领头者强行冲过残余水流，正面高速接近并挥出强力拳击。
+
+  PYONA不从远距离发射魔法。
+
+  她主动向前踏入真正攻击距离，身体偏转，让领头者拳头从脸侧擦过。
+
+  同时右手周围水分高速压缩。
+  PYONA右掌必须先真实、重重地撞入领头者上身中央。
+
+  先看见：
+  PALM PHYSICAL CONTACT → CLOTHING / BODY COMPRESSION.
+  0.1–0.2秒 micro slow motion：
+  WATER COMPRESSION
+  → dense cavitation bubbles
+  → HYDRAULIC COLLAPSE.
+  TIME SNAP.
+  HYDRAULIC PALM爆发。
+  强烈透明水压从实际掌部接触点瞬间向前爆开。领头者整个上身被猛烈震退，双脚失去稳定，在体育馆木地板上高速向后滑出，大片水雾和碎裂水滴向外爆散，沉重冲击声在体育馆内形成强烈回音。
+  最后一名敌人立刻从侧后方扑向PYONA，不给她休息。
+  PYONA利用地面水流瞬间干扰她的前脚，使冲刺节奏短暂断裂。紧接极短HYDRO STEP转身贴入。
+  另一只手掌重重按中对方肩胸线。
+  SHORT HYDRAULIC PRESSURE PALM.
+  短距离水压再次从接触点爆开，对方立即被推倒并沿木地板滑出。
+  PYONA不庆祝、不欣赏水、不摆英雄Pose。
+  她仍然急促喘息，浅粉蓝短发明显因战斗变得稍微凌乱，脸侧和image1中的服装表面残留真实水滴。
+  她立即转身保持战斗姿态，快速扫描体育馆。
+
+  CUT WHILE TENSION IS STILL ACTIVE.
+  【TARGET LOCK】
+  所有攻击必须先存在明确目标和正确距离：
+  VISIBLE ENEMY → CORRECT RANGE → ATTACK → PHYSICAL CONTACT / WATER CONTACT → IMMEDIATE REACTION.
+  LOW WATER SPIN SWEEP必须看见PYONA的真实腿扫中敌人下盘。
+  敌人绝不能在没有受力原因时自己跌倒。
+  SHOULDER CRASH、KNEE、ELBOW必须真实接触。
+  FACE WATER CANNON必须清楚正面击中敌人脸部/上胸。
+  RING WATER SHOCKWAVE必须先接触靠近的敌人，再把她们强力震退。
+  HYDRAULIC PALM必须先真实掌部接触，之后才发生水压爆发。
+  【摄影】
+  第一镜头必须正面或3/4正面看清PYONA的脸和5人包围关系，禁止背影开场。
+  PYONA倒地后摄影机立刻降低到接近木地板的高度，同时捕捉她的疼痛表情、周围女生嘲笑和敌人的腿部位置。
+
+  LOW WATER SPIN SWEEP这一个动作的摄影机不要高速绕着PYONA旋转，也不要跟着她向前移动。使用低机位、稍宽的侧前方视角，在PYONA扫腿核心动作的0.8–1.0秒内保持稳定清晰，让同一画面能够读到：
+  PYONA固定撑地手 + 低位髋部旋转 + 伸直扫腿 + 第一名敌人腿部被命中 + 第二名敌人随后被扫中。
+  不要用慢动作表现这次扫腿。
+  HYDRO STEP使用快速跟拍。
+  WATER GUARD中近景拍清拳头撞入水膜。
+  FACE WATER CANNON必须看见水从PYONA掌前直接轰中敌人脸部。
+  RING WATER SHOCKWAVE使用稍宽镜头，同时看见PYONA、围攻者和环形水压向外爆开。
+  最后HYDRAULIC PALM进入强烈中近景，优先展示身体接触、衣料压缩、水压爆发和敌人反应。
+  ACTION READABILITY > PHYSICAL IMPACT > WATER POWER > CAMERA CHAOS.
+  【绝对禁止】
+  禁止第一镜头只拍PYONA背影。
+  禁止重新觉醒。
+  禁止PYONA研究自己的水能力。
+  禁止开场未完整摔倒就反击。
+  禁止LOW WATER SPIN SWEEP变成：
+  slow slide、
+  slide tackle、
+  forward crawl、
+  forward travel、
+  slow spin、
+  breakdance、
+  dance move、
+  slow-motion spinning attack。
+  禁止PYONA在扫腿时向敌人方向滑过去。
+  禁止PYONA身体中心在扫腿过程中明显向前移动。
+  禁止轻轻碰腿后敌人才慢慢倒下。
+  禁止敌人在没有明确腿部接触的情况下自动摔倒。
+  禁止PYONA轻轻挥手后敌人自动摔倒。
+  禁止任何谨慎、轻柔、慢吞吞的格斗。
+  禁止敌人排队。
+  禁止敌人受击后没有明显身体反应。
+  禁止18秒站着长时间聚水。
+  禁止FACE WATER CANNON像轻柔喷水。
+  禁止23秒生成静态水结界或保护罩。
+  禁止巨大海啸、水龙、魔法阵、激光、能量球、瞬移。
+  禁止攻击篮球架、器材或空气。
+  禁止游戏CG人物、廉价动漫特效、AI塑料皮肤。
+  禁止英雄Pose收尾。
+  核心目标：
+  开场必须清楚看见PYONA的脸。她被正面重拳击中腹部后真实、完整地摔倒，并被周围女生大声嘲笑。
+  第一反击必须严格表现为原地低位圆形扫腿，而不是任何形式的滑行或冲刺。
+  PYONA仍然倒在原来的位置，一只手牢牢撑地，以该支撑点和低位髋部为轴，一条腿完全伸直，在约0.8–1.0秒内完成爆发式高速圆形横扫。她的身体中心基本保持原位，真正移动的是高速旋转的腿。腿先真实扫中第一名敌人的脚踝/小腿，使其支撑腿瞬间失效并重重摔倒；同一次旋转立即继续扫中第二名敌人，使其同样失去下盘并重摔。
+  水只能贴着PYONA真实扫腿轨迹增强速度、冲击和横向力量，绝不能代替腿部接触自动把人打倒。
+  除此之外，后续动作保持原有结构不变：
+  Hydro Step高速突进 → Water Guard硬接攻击 → Face Water Cannon正面强力轰击 → Ring Water Shockwave把多人向外猛烈震退 → Hydraulic Palm以真实掌部接触结合极高水压完成高潮。
+
+  整场动作必须强硬、快速、危险、毫不克制，绝不能呈现谨慎、温柔或慢吞吞的动作感觉。

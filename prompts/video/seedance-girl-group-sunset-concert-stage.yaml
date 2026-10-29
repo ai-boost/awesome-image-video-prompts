@@ -1,0 +1,24 @@
+id: seedance-girl-group-sunset-concert-stage
+title:
+  en: Girl group dancing on futuristic sunset concert stage
+  zh: 女团在未来感日落演唱会舞台上热舞
+model: Seedance 2.5
+mode: text-to-video
+category: music-dance
+tags:
+- k-pop
+- concert
+- stage
+- sunset
+source:
+  name: '@Sharjeelai_786 on X'
+  url: https://x.com/Sharjeelai_786/status/2096103574376009968
+  credit: SharjeelAi
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+video: https://x.com/Sharjeelai_786/status/2096103574376009968
+notes:
+  en: The prompt sets venue, time of day, LED colour, crowd and lighting in one line, then names cinematic camera moves and a realism target. The wide sunset framing gives the model a stable stage layout to hold while the dancers move.
+  zh: 一句话铺好场景：场地、时段、粉色LED屏、人群和灯光，再点明电影化运镜和超写实画质。日落时的宽景构图给模型一个稳定的舞台布局，让舞者动作时画面保持一致。
+prompt: |
+  A high-energy  girl group delivers a synchronized dance performance on a futuristic concert stage at sunset — stylish black-and-pink outfits, vibrant pink LED screens, cheering crowd, dramatic stage lights and pyrotechnics, captured with cinematic camera movements in ultra-realistic quality.

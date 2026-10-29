@@ -1,0 +1,32 @@
+id: h3-anime-girl-waters-fern-porch
+title:
+  en: Anime girl waters a fern on porch
+  zh: 动漫少女在门廊给蕨类浇水
+model: MiniMax H3
+mode: image-to-video
+category: anime
+tags:
+- timelapse
+- line-art
+- digital-painting
+- anime
+source:
+  name: '@PhotogenicWeekE on X'
+  url: https://x.com/PhotogenicWeekE/status/2093133440359317751
+  credit: Photogenic Weekend
+  likes: 20
+  captured: '2026-10-29'
+  posted: '2026-08-28'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/PhotogenicWeekE/status/2093133440359317751
+notes:
+  en: The prompt lays out the drawing as ordered stages, from rough pose to lineart to flat color to shading, so the video has a clear build-up. Tying the finished frame to a reference picture locks the final look, and the soft stylus scratch with desk ambience sets a quiet studio mood.
+  zh: 提示词按顺序描述草稿、线稿、平涂、阴影的绘制阶段，让视频有清晰的成型过程。用参考图锁定最终画面，并以触控笔声和桌面环境音营造安静的创作氛围。
+prompt: |
+  How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video.
+
+  integrated_multimodal_description: [Shot 1] 2D anime digital illustration, a high-quality digital drawing recorded as a timelapse, with the artist's hand holding a stylus pen visibly drawing on the canvas. The video starts from a white digital canvas and draws the basic forms and shapes first, starting from the general (big) outline sketch of the pose, then adding line after line to add new details on the face, hair, and clothes until a complete lineart sketch for the character is done. Then the coloring phase begins: flat base colors are filled evenly within the lineart, soft shading and highlights are layered on the face, hair, and clothes, and final finishing touches are added until the completed artwork matches <Picture 1> exactly.
+
+  overall_soundscape: The soft scratch of the stylus on the tablet screen, light desk ambience.
+
+  non_diegetic_music: N/A

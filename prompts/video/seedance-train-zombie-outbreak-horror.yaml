@@ -1,0 +1,52 @@
+id: seedance-train-zombie-outbreak-horror
+title:
+  en: Woman coughing on train as passengers watch
+  zh: 女子在火车上咳嗽，乘客担忧注视
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- zombie
+- horror
+- train
+- reference-image
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2093550743945105687
+  credit: WasifAI
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+video: https://x.com/doctorwasif/status/2093550743945105687
+notes:
+  en: A timestamped beat sheet with a camera or lighting cue in each segment controls the pacing of the 30 second sequence. One @ (Image) reference locks the face and outfit across every shot.
+  zh: 带时间码的分镜表，每个时段都写明镜头或光线，控制30秒内的节奏。一张 @ 参考图锁定所有镜头中的人脸和服装。
+prompt: |
+  0–1.2s: @ (Image) matching reference face/outfit, sits on a train, pale, sweating, coughing weakly. Passengers glance over, concerned. Cinematic outbreak-horror realism.
+
+  1.2–2.4s: Her breathing turns ragged; dark veins appear on her neck, eyes become glassy. Close-up, tense lighting.
+
+  2.4–3.6s: She collapses and convulses as passengers rush to help. Handheld camera.
+
+  3.6–4.8s: She suddenly snaps upright, bloodshot feral eyes, guttural snarl. Extreme close-up horror reveal.
+
+  4.8–6s: She violently bites a helper’s forearm. Shock and panic. Slow-motion impact.
+
+  6–7.2s: He stumbles back clutching the bloody bite. Passengers panic.
+
+  7.2–8.5s: Dark veins rapidly spread from the wound up his arm and neck. Visceral transformation close-up.
+
+  8.5–10s: He collapses, convulses, then rises as a zombie, eyes bloodshot and empty.
+
+  10–12.5s: He lunges at another passenger. Screams erupt; the carriage descends into chaos.
+
+  12.5–15.5s: Multiple passengers turn rapidly, spreading the infection through the car. Survivors flee toward the connecting door.
+
+  15.5–18.5s: Survivors barricade the door with luggage and seat cushions as infected passengers claw and pound against it.
+
+  18.5–21.5s: The door violently shudders; infected faces press against the glass. Cracks spread as panic intensifies.
+
+  21.5–24.5s: Families retreat as the glass shatters and infected arms break through, grabbing at survivors.
+
+  24.5–27.5s: Survivors race toward the front, dragging luggage behind them as a zombie horde crashes through the barricade.
+
+  27.5–30s: Survivors slam the next door shut and stare in horror as the infected horde pounds against the glass. Dim flickering lights, heavy breathing, cinematic outbreak ending.

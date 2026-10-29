@@ -1,0 +1,43 @@
+id: h3-monochrome-dancer-red-glass-grid
+title:
+  en: Monochrome dancer walks through red glass grid
+  zh: 黑白舞者穿过红色玻璃网格
+model: MiniMax H3
+mode: text-to-video
+category: music-dance
+tags:
+- hyperpop
+- glass-grid
+- dance
+- music-video
+source:
+  name: '@ivanfioravanti on X'
+  url: https://x.com/ivanfioravanti/status/2093820333614571731
+  credit: Ivan Fioravanti ᯅ
+  likes: 18
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ivanfioravanti/status/2093820333614571731
+notes:
+  en: 'The prompt maps each beat sound to a visual event: the kick compresses space, the snare duplicates the movement, the hi hats break the frame into fragments and the bass bends time. Separating character identity, world logic, visual language and motion rules into labelled blocks keeps the single dancer consistent across the shot.'
+  zh: 提示词把每种节拍声音对应到一个画面事件：底鼓压缩空间，军鼓复制动作，踩镲把画面切成碎片，低音让时间弯曲。把角色、世界规则、视觉语言和运动规则分成带标签的段落，使同一位舞者在镜头中保持一致。
+prompt: |
+  [Core Concept]
+  15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based reality where rhythm controls space and motion.
+
+  [Character Identity]
+  Single woman dancer, Maintain identical face, body, hairstyle and outfit. Multiple figures are only past-frame projections.
+
+  [World Logic]
+  Each kick compresses the timeline toward the dancer. Each snare duplicates previous movements into adjacent frames. Moving against the timeline transforms the 2D interface into a foldable 3D structure. The dancer escapes the repetition loop.
+
+  [Visual Language]
+  Black, cold white, warning red. Glass timelines, metal rails, glowing frame lines, scanning grids. Extreme wide-angle, low
+  angles, top-down shots, Dutch angles, dolly moves, impossible perspective. 3D word MINIMAX exists as physical architecture, not subtitles.
+
+  [Motion Rules]
+  Use anticipation → attack → overshoot → settle. Kick drives spatial compression, snare breaks frames, hi-hats animate cursors and fragments, bass bends time. Build with glitch cuts, then explode into an impossible continuous long take during the drop.
+
+  [Restrictions]
+  No character changes, extra people, random text, subtitles, logos, outfit changes, bad anatomy, flat camera angles, or meaningless flashes.

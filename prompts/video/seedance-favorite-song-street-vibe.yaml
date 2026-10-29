@@ -1,0 +1,25 @@
+id: seedance-favorite-song-street-vibe
+title:
+  en: Man hears favorite song on city street
+  zh: 城市街头男子听到最爱歌曲
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- pov
+- street-scene
+- realistic-motion
+- tracking-shot
+source:
+  name: '@AIwithZeeshi on X'
+  url: https://x.com/AIwithZeeshi/status/2095374122674991259
+  credit: AIwithZeeshi
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithZeeshi/status/2095374122674991259
+notes:
+  en: 'The prompt gives a time-ordered beat sequence (hears the song, slows, smiles, vibes while walking), which sets a clear action arc for the model. The camera direction is concrete: stabilized tracking from behind with light handheld drift.'
+  zh: 提示词按时间顺序写出动作节奏（听到歌曲、放慢脚步、微笑、边走边轻摇），为模型提供清晰的动作走向。镜头指令也很具体：从背后稳定跟拍，并带轻微手持晃动。
+prompt: "POV — Your Favorite Song Starts Playing in Public\n\nA young man walks through a busy city sidewalk when he suddenly hears his favorite song playing from a nearby café. He recognizes it instantly, slows down, smiles, and starts subtly vibing to the rhythm while pretending to keep walking normally.\n\nThe entire sequence follows realistic human behavior and accurate physics, including natural walking biomechanics, weight distribution, gravity, inertia, momentum, friction, foot-to-ground contact, realistic pedestrian movement, clothing dynamics, hair movement, and natural interactions between people and the environment.\n\nUltra-realistic visuals, cinematic documentary style, natural late-afternoon lighting, realistic skin and clothing textures, smooth stabilized tracking, subtle handheld camera motion, realistic depth of field, natural focus pulls, physically accurate shadows and reflections, consistent character identity, authentic urban environment, natural colors, subtle film\
+  \ grain, and 4K cinematic quality.\n\nWould you be able to resist vibing to your favorite song in public? \n\n#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #DailyLife #POV #Relatable #MusicLovers #GenerativeAI\n"

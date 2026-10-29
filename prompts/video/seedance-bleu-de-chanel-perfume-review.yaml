@@ -1,0 +1,36 @@
+id: seedance-bleu-de-chanel-perfume-review
+title:
+  en: Woman reviews Bleu de Chanel bottle in living room
+  zh: 女子在客厅展示 Bleu de Chanel 香水
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- fragrance
+- product-review
+- lip-sync
+- influencer
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2097904148360630318
+  credit: Calira
+  captured: '2026-10-29'
+  posted: '2026-09-10'
+video: https://x.com/CaliraVal/status/2097904148360630318
+notes:
+  en: The prompt runs the clip as ordered beats (show the bottle, spray wrist and neck, smell, speak) and gives the full script word for word so lip sync has a fixed line. Naming the exact product and repeating that the bottle must stay consistent anchors the brand, while camera, lighting and realism terms set the premium look.
+  zh: 提示词把画面拆成有先后顺序的动作段落（展示瓶身、喷洒手腕和颈部、闻香、开口说话），并逐字给出完整台词，口型同步因此有固定依据。明确产品名称并反复强调瓶身需保持一致，锁定品牌外观；镜头、光线和写实质感的描述则塑造高级感。
+prompt: |
+  Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.
+
+  She holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.
+
+  She looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:
+
+  “I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+  Use natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.
+
+  Use soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.
+
+  Photorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text.

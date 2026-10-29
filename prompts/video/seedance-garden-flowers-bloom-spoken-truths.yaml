@@ -1,0 +1,30 @@
+id: seedance-garden-flowers-bloom-spoken-truths
+title:
+  en: Kneeling woman talks to blooming garden flowers
+  zh: 跪在花圃边的女子对花说话，花朵随之绽放
+model: Seedance 2.5
+mode: text-to-video
+category: dialogue
+tags:
+- garden
+- dialogue
+- lip sync
+- photorealistic
+source:
+  name: '@AIwithZeeshi on X'
+  url: https://x.com/AIwithZeeshi/status/2106967008650969278
+  credit: Zeeshi
+  captured: '2026-10-29'
+  posted: '2026-10-05'
+video: https://x.com/AIwithZeeshi/status/2106967008650969278
+notes:
+  en: Each spoken line is tied to one visible change in the flowers, so the dialogue beats drive the growth and the timing stays readable. The explicit realism terms, the camera pull back and the lip sync request set the look and keep the character consistent.
+  zh: 每句台词都对应一次花朵的可见变化，让对白节奏带动花开，时间线清楚。明确写出的写实词、镜头拉远和唇形同步要求，统一了画面质感并保持人物一致。
+prompt: |
+  A peaceful countryside garden on a warm sunny morning. A young Western woman with long dark-brown hair, wearing a cream oversized T-shirt and beige pants, kneels beside a small flowerbed. She looks at a closed flower and softly says, “I was wrong.” The flower slowly begins to bloom, its petals unfolding naturally one by one.
+
+  She looks surprised and admits, “I was afraid to tell you the truth.” The flower opens further as a gentle breeze moves the surrounding leaves. She smiles and says, “And I still care.” A second small flower bud slowly begins to bloom beside the first.
+
+  The woman gently touches one of the flowers as the camera pulls back to reveal several newly opened flowers glowing in the warm morning sunlight.
+
+  Photorealistic cinematic style, realistic human movement, natural flower growth, consistent character appearance, realistic skin and plant textures, natural gravity, physically believable wind, accurate shadows, smooth camera movement, natural facial expressions, realistic lip synchronization, soft morning sunlight, and an authentic countryside atmosphere.

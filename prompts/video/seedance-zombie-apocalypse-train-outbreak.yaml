@@ -1,0 +1,66 @@
+id: seedance-zombie-apocalypse-train-outbreak
+title:
+  en: Infected woman on train turns passengers into zombies
+  zh: 被感染的女子在列车上将乘客变成丧尸
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- zombie
+- horror
+- train
+- multi-shot
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2094285140247896553
+  credit: WasifAI
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+video: https://x.com/doctorwasif/status/2094285140247896553
+notes:
+  en: Timed beats from 0s to 30s give the model a sequence with one visual change per shot, and the reference face and outfit line keeps the lead consistent through the transformation. Framing words such as close-up, wide and handheld steer each cut so the escalation reads clearly.
+  zh: 按时间拆成二十二个镜头，每个镜头只描述一个视觉变化，便于模型逐段推进剧情。开头的参考脸部和服装保证主角在变化过程中外观一致，特写、广角、手持等镜头词则控制每次切换的景别。
+prompt: |
+  Shot 1 (0–1.2s): Character A, matching reference face/outfit, sits beside a passenger on a dim train, feverish, sweating, staring strangely at him.
+
+  Shot 2 (1.2–2.4s): Close-up: her trembling hand, faint dark veins appearing, shallow unnatural breathing.
+
+  Shot 3 (2.4–3.6s): Her head tilts unnaturally toward him, glassy unfocused eyes, tense profile close-up.
+
+  Shot 4 (3.6–4.8s): She suddenly lunges and bites his forearm, teeth breaking skin, his face frozen in shock.
+
+  Shot 5 (4.8–6s): Close-up of the wound as dark veins rapidly branch outward, skin blackening.
+
+  Shot 6 (6–7.2s): Veins race toward his elbow; skin pales, sweat beads on his forehead.
+
+  Shot 7 (7.2–8.5s): His eyes cloud milky white, pupils dilate, breathing becomes wet and ragged.
+
+  Shot 8 (8.5–9.7s): His body stiffens and twitches; black veins spread across his neck and jaw.
+
+  Shot 9 (9.7–11s): He throws his head back and screams inhumanly, face covered in black veins, slow motion.
+
+  Shot 10 (11–12.2s): His head snaps forward; bloodshot empty eyes and slightly unhinged jaw reveal the completed transformation.
+
+  Shot 11 (12.2–13.5s): He instantly lunges at another passenger and bites them, sudden violent impact.
+
+  Shot 12 (13.5–14.8s): Wider shot: nearby passengers turn, confusion becoming horror.
+
+  Shot 13 (14.8–16s): The bitten passenger stumbles back, clutching the wound as dark veins spread up the arm.
+
+  Shot 14 (16–17.3s): Passengers rise in panic, grabbing bags and backing away, wide cinematic shot.
+
+  Shot 15 (17.3–18.5s): The new victim convulses violently in the aisle as passengers recoil; overhead lights flicker.
+
+  Shot 16 (18.5–19.7s): Eyes roll back, then open bloodshot and empty; jaw twitches—the second transformation complete.
+
+  Shot 17 (19.7–21s): He lunges at the nearest passenger; screams erupt as the car descends into chaos, handheld camera.
+
+  Shot 18 (21–22.5s): Passengers scramble over seats and luggage toward the exit, bags spilling everywhere.
+
+  Shot 19 (22.5–24s): A group rushes toward the connecting door, looking back as infection spreads behind them.
+
+  Shot 20 (24–25.5s): Door slams shut; survivors barricade it with luggage and cushions as infected hands pound from behind.
+
+  Shot 21 (25.5–27.5s): Close-up through the glass: infected faces press against it as cracks spread, emergency lights pulsing.
+
+  Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and staring at the shaking door as train lights streak outside, cinematic outbreak ending.

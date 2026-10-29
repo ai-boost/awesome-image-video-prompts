@@ -1,0 +1,24 @@
+id: seedance-karakoram-motorcycle-commercial
+title:
+  en: Motorcycle rider tracking shot on Karakoram Highway
+  zh: 摩托车手在喀喇昆仑公路上的跟拍镜头
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- motorcycle
+- tracking-shot
+- mountain-road
+- photorealistic
+source:
+  name: '@AI_with_Antonio on X'
+  url: https://x.com/AI_with_Antonio/status/2088599346908365227
+  credit: AntonioAI
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/AI_with_Antonio/status/2088599346908365227
+notes:
+  en: The prompt lays out a four shot sequence with a named camera move for each shot, so the clip reads as an edit rather than one static tracking shot. It locks the rider's outfit and bike proportions up front and repeats the constraints in a closing list of things to avoid, which keeps the rider and motorcycle consistent across cuts.
+  zh: 提示词按顺序写出四个镜头，每个镜头都有明确的机位，让成片像剪辑而不是单一跟拍。开头锁定车手服装和车辆比例，结尾用避免事项清单再次约束，帮助车手和摩托车在切换镜头后保持一致。
+prompt: |
+  Create a 10-second photorealistic cinematic motorcycle commercial featuring a young 24-year-old male rider with an athletic, muscular physique, riding a Suzuki GS150SE along the Karakoram Highway in northern Pakistan at approximately 100+ km/h. The rider looks confident and energetic, wearing a premium black riding jacket with the sleeves fitted around his muscular arms, dark riding pants, gloves, riding boots, and a full-face helmet. Keep his appearance, clothing, helmet, and body proportions identical throughout the entire clip. The Suzuki GS150SE should remain accurately proportioned and visually consistent, with realistic suspension movement, wheel rotation, chain movement, engine vibration, brake components, exhaust, mirrors, and authentic motorcycle details. The highway winds dramatically through enormous snow-covered Karakoram mountains, with towering icy peaks visible in the distance. Cold mountain atmosphere, patches of snow beside the road, crisp blue sky, thin clouds, distant glaciers, and realistic high-altitude lighting. Cinematic Direction: Begin with a low front three-quarter tracking shot of the GS150SE approaching at speed. Transition into a side tracking shot showing the rider enjoying the mountain scenery while maintaining control of the motorcycle. Briefly show a helmet-level POV looking down the sweeping Karakoram Highway toward massive snow-covered peaks. Use realistic aerodynamic effects: subtle airflow flowing around the rider and motorcycle, jacket fabric reacting naturally to wind, slight suspension compression over road imperfections, realistic tire contact, and controlled motion blur. Finish with a dramatic rear three-quarter tracking shot as the motorcycle disappears along the winding highway, surrounded by enormous icy mountains. Visual style: photorealistic, premium motorcycle commercial, cinematic 4K, natural mountain lighting, realistic physics, detailed motorcycle textures, dynamic tracking camera, shallow depth of field where appropriate, subtle lens flare, realistic motion blur, immersive scale, epic Himalayan/Karakoram atmosphere. Important: No distorted motorcycle parts, no extra limbs or fingers, no changing rider appearance, no duplicated motorcycle components, no unrealistic wheel geometry, no floating motorcycle, no excessive CGI effects, and no text overlays unless specifically requested. Overall feeling: freedom, adventure, power, solitude, mountain exploration, and the thrill of riding through the Karakoram.

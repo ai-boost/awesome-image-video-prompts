@@ -1,0 +1,24 @@
+id: seedance-sci-fi-police-chase-desert-canyon
+title:
+  en: Police officer leaps onto flying sports car
+  zh: 警察跃上飞行跑车
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- sci-fi
+- police-chase
+- fpv-drone
+- desert-canyon
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2112391782164287977
+  credit: Ali
+  captured: '2026-10-29'
+  posted: '2026-10-20'
+video: https://x.com/aiwithaly/status/2112391782164287977
+notes:
+  en: The scene is split into a clear escalation of an FPV drone opening, a mid-air leap, a dialogue beat and a crash, which gives the 30 second clip a strong hook and a readable arc. Named camera moves, physics cues and a closing list of sound design details steer the model toward one continuous action take.
+  zh: 场景被拆成清晰的递进结构：先是第一人称无人机开场，接着是空中跃起、一段对白和坠毁，让这段30秒的视频有强力开场且节奏清楚。明确的运镜、物理描述和结尾的音效清单，引导模型生成一镜到底的连续动作画面。
+prompt: |
+  A 30-second ultra-realistic Hollywood-style sci-fi action sequence set above a vast desert highway at golden hour. A futuristic silver flying sports car races through towering red-rock canyons, pursued by a heavily armored black police interceptor with glowing blue emergency lights and powerful jet thrusters. A fearless female police officer in a fitted black tactical uniform leaps from the interceptor onto the moving sports car, performing a breathtaking aerial rotation before landing hard on its roof. She uses a magnetic anchor to stabilize herself, breaks through the reinforced sunroof, and confronts a mysterious blond male driver inside the cockpit. He shouts, “You should've stayed on the ground!” She responds coldly, “Pull over. Now!” A violent aerial maneuver triggers an energy-core malfunction, sending the sports car spiraling toward the highway below. The vehicle crashes in a shower of sparks and erupts into a massive fireball. Through the smoke and glowing embers, the officer emerges with the subdued suspect in magnetic restraints. Dynamic FPV drone shots, sweeping camera movements, realistic vehicle physics, high-speed aerial choreography, detailed metallic reflections, authentic facial expressions, synchronized dialogue, dramatic explosions, volumetric golden-hour lighting, anamorphic lens flares, cinematic motion blur, HDR, 4K, rich teal-and-orange color grading, powerful orchestral soundtrack, realistic engine roars, and immersive action sound effects. Exactly 30 seconds, landscape 16:9, continuous high-energy action, strong opening hook, consistent character identity, realistic gravity, no black-screen opening, no subtitles, no on-screen text, no logos, no watermark.

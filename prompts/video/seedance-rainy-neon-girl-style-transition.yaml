@@ -1,0 +1,80 @@
+id: seedance-rainy-neon-girl-style-transition
+title:
+  en: Rainy neon street girl shifts through anime to blockbuster
+  zh: 雨夜霓虹街头女孩变换为动画再到好莱坞大片
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- style-transition
+- anime
+- timecoded-beats
+- hollywood-trailer
+source:
+  name: '@Inshrah_ali_ on X'
+  url: https://x.com/Inshrah_ali_/status/2086452771029647477
+  credit: Ai Girllie
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+video: https://x.com/Inshrah_ali_/status/2086452771029647477
+notes:
+  en: Timecoded beats tie each style change to one continuous motion, with the raised hand as the trigger. Repeating that the same girl, outfit, pose and camera move carry through every shift keeps the identity locked across the three looks.
+  zh: 按时间段分段描述，把每次风格切换绑定到同一个连续动作上，抬手即为触发点。提示词反复强调同一人物、服装、姿势和运镜贯穿每次切换，从而保持身份一致。
+prompt: |
+  Create a premium cinematic 15-second transformation story following the SAME young female protagonist continuously through three visual styles: realistic live-action → high-end anime/3D animation → Hollywood blockbuster.
+
+  0–5s — REALISTIC WORLD
+  A stylish young woman walks alone through a modern city at night.
+
+  Rain falls lightly. Neon signs reflect across the wet street. She wears a sophisticated black streetwear outfit with subtle red accents.
+
+  She hears a powerful hip-hop beat.
+
+  She stops.
+
+  Close-up of her eyes.
+
+  She looks toward camera and begins a confident dance-inspired movement.
+
+  Typography appears:
+  “WHO ARE YOU?”
+
+  Camera rapidly pushes toward her hand as she raises it toward the lens.
+
+  5–10s — ANIMATED WORLD
+  The exact hand movement triggers the transformation.
+
+  The live-action city smoothly becomes a breathtaking high-end animated world.
+
+  The SAME girl, SAME outfit, SAME pose and SAME movement continue without interruption.
+
+  Stylized energy particles surround her. Buildings stretch upward. Neon colors pulse with the beat.
+
+  She performs a powerful choreographed movement through the animated city.
+
+  Typography dynamically forms around her:
+
+  “WHO YOU CHOOSE TO BE.”
+
+  Use fluid premium animation, detailed facial expressions, realistic cloth movement and cinematic camera choreography.
+
+  10–15s — HOLLYWOOD BLOCKBUSTER
+  During her final animated movement, the environment suddenly transforms into an epic Hollywood-style cinematic cityscape.
+
+  The SAME girl lands on a rooftop overlooking a massive glowing metropolis.
+
+  Realistic wind moves her hair and clothes. Dramatic clouds, atmospheric haze, anamorphic lens flare and powerful backlighting create blockbuster scale.
+
+  Camera circles her as she turns toward the lens.
+
+  Final beat.
+
+  She confidently smiles.
+
+  Huge cinematic typography appears:
+
+  “BECOME UNSTOPPABLE.”
+
+  Final hero frame with dramatic music impact and premium movie-trailer finish.
+
+  VISUAL RULE: The transformation should feel like ONE continuous shot/story—not three separate clips. Preserve the girl's identity, clothing, movement, camera direction and emotional expression through every style transition.

@@ -1,0 +1,24 @@
+id: seedance-sun-wukong-painted-scroll-war
+title:
+  en: Sun Wukong in golden armor on painted scroll
+  zh: 金甲孙悟空立于水墨卷轴画面中
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- sun-wukong
+- ink-brush
+- mythology
+- silk-scroll
+source:
+  name: '@Dheepanratnam on X'
+  url: https://x.com/Dheepanratnam/status/2101176822838775843
+  credit: Dheepan Ratnam
+  captured: '2026-10-29'
+  posted: '2026-09-19'
+video: https://x.com/Dheepanratnam/status/2101176822838775843
+notes:
+  en: Setting the medium first, as an animated silk scroll, gives the whole clip one consistent look. The story then runs as a short sequence of actions (stealing peaches, breaking the gate, returning with an army), so each beat has a clear visual to cut to.
+  zh: 提示词先定下媒介，即像会动的绢本卷轴，让整段视频风格统一。随后把故事写成一串动作（偷蟠桃、闯天门、率大军归来），每一拍都有明确画面可切换。
+prompt: |
+  Classic ink-brush Sun Wukong casually declaring war on heaven just for the aesthetic. painted like an animated silk scroll he stole the peaches, wrecked heaven's gate, and fell home with a hundred thousand soldiers behind him

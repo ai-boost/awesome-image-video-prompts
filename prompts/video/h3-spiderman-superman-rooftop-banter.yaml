@@ -1,0 +1,26 @@
+id: h3-spiderman-superman-rooftop-banter
+title:
+  en: Spiderman and Superman trade jokes on rooftop
+  zh: 蜘蛛侠与超人在屋顶互相调侃
+model: MiniMax H3
+mode: text-to-video
+category: dialogue
+tags:
+- dialogue
+- superheroes
+- comedy
+- rooftop
+source:
+  name: '@ivanfioravanti on X'
+  url: https://x.com/ivanfioravanti/status/2095770682797760857
+  credit: Ivan Fioravanti ᯅ
+  likes: 44
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ivanfioravanti/status/2095770682797760857
+notes:
+  en: Each speaker and his exact line are spelled out in one scene, so the model has clear turn-taking and a reversal ending to play out within a single rooftop shot.
+  zh: 提示词逐一写明两个角色各自的台词，形成清楚的轮流对话，并以反转式结尾收束。两人同处一个屋顶场景，设定简单，便于模型在一段视频内完成对白。
+prompt: |
+  Generate a scene of “Spiderman vs Superman” that says, “Hey", Spiderman says to Superman, ‘Hey, we keep waiting for GPT‑6 to come out,’ and Superman says, ‘Are you? I started using it one week ago.

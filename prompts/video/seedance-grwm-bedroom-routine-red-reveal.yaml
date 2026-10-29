@@ -1,0 +1,67 @@
+id: seedance-grwm-bedroom-routine-red-reveal
+title:
+  en: Woman films a bedroom get ready routine
+  zh: 女子在卧室录制准备出门的妆容视频
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- get-ready-with-me
+- beauty
+- consistent-character
+- vlog-style
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2105534258932781142
+  credit: CaliraVal
+  captured: '2026-10-29'
+  posted: '2026-10-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/CaliraVal/status/2105534258932781142
+notes:
+  en: A reference image locks the character identity, and the same consistency rule is repeated for every shot. A numbered shot list with a casual opening look and a red outfit reveal gives the model a clear sequence to follow.
+  zh: 用参考图锁定人物身份，并在每个镜头中重复同样的一致性要求。编号分镜加上开场休闲造型与红色穿搭结尾，让模型按清晰的顺序生成多镜头画面。
+prompt: |
+  A young woman matching the exact facial features, hairstyle, and identity of the reference image (consistent character throughout all shots) is filming a "Get Ready With Me" style video in a softly lit, modern bedroom with a vanity mirror and warm ambient lighting.
+
+  Opening scene (casual look):
+
+  She is wearing comfortable knee-length fitted shorts (extending just over the knees) and a simple sleeveless crop top. Natural look, no makeup. She smiles at the camera and casually greets, creating a relaxed, vlog-style tone.
+
+  Sequence of shots (fast-paced, smooth cuts, ~10–15 shots total):
+
+  Close-up of her tying her hair into a loose bun
+
+  Applying face wash at the sink, soft water splashes, natural lighting
+
+  Gently patting her face dry with a towel
+
+  Skincare routine (serum, moisturizer) in front of mirror
+
+  Sitting at vanity applying makeup step-by-step (foundation, eyeliner, lipstick)
+
+  She occasionally looks into the camera and subtly explains each step (natural lip movement, expressive gestures)
+
+  Insert aesthetic close-ups: makeup brushes, mirror reflections, soft bokeh lighting
+
+  Tone & style:
+
+  Cinematic but vlog-inspired, smooth camera motion, shallow depth of field, soft highlights, natural skin texture, realistic lighting. Maintain facial consistency across all shots.
+
+  Transition:
+
+  Quick montage with rhythmic cuts as she completes her look.
+
+  Final reveal scene:
+
+  She steps back into frame fully dressed in an attractive yet modest red outfit (elegant, tasteful, non-revealing, flattering silhouette). Hair styled neatly, confident posture.
+
+  She does a subtle twirl or pose, smiles warmly at the camera, and gives a final confident look.
+
+  Ending shot:
+
+  Soft close-up with warm lighting, slight camera push-in, she looks directly into the lens with a satisfied expression.
+
+  Technical tags:
+
+  1080p, cinematic lighting, consistent character identity, smooth transitions, natural motion, realistic skin tones, high detail, depth of field, vlog + cinematic hybrid style.

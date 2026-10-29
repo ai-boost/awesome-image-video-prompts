@@ -1,0 +1,48 @@
+id: seedance-taipei-alley-door-keys-dv
+title:
+  en: Woman unlocks door in Taipei alley
+  zh: 女子在台北巷弄开门
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- taipei
+- home-video
+- handheld
+- vlog
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2097564633242779830
+  credit: harboriis
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/harboriis/status/2097564633242779830
+notes:
+  en: Five-second timeline beats and an explicit continuity lock on face, outfit and accessories keep the character stable across cuts. Consumer DV cues such as hand shake, autofocus hunting and faded colour sell the 2000s look, and the sound list rules out music.
+  zh: 按五秒一段的时间线分镜，并明确锁定脸部、服装和配饰的一致性，让角色在各镜头间保持稳定。手持抖动、自动对焦摇摆和褪色色调等消费级DV特征营造2000年代的怀旧感，声音清单也排除了配乐。
+prompt: |
+  Create a 30-second, 1080p, 16:9 ultra-realistic 2000s-style home video recording style video, featuring an ordinary Taiwanese summer evening.
+
+  Main subject: The entire video is shot from the perspective of a young Taiwanese woman in her early 20s, with natural, realistic skin tone, light makeup, dark brown long hair styled in a low bun, with a few strands of hair. She is wearing a soft black long-sleeved knitted top, wide-leg light gray shorts, white vintage sneakers, carrying a dark black backpack, and wearing a silver bracelet. Please ensure that the face, hairstyle, clothing, proportions, and accessories remain completely consistent.
+
+  Setting: A quiet old residential alley in Taipei, with small apartments, potted plants, bicycles, old walls, power poles, and a small snack shop, a water dispenser, and potted plants. Full of life, peaceful, and real; no brands, advertisements, tourist attractions, or elaborate commercial activities.
+
+  Photography: The original consumer DV shooting style from the early 2000s, intense hand-held shaking, imperfect composition, search for autofocus, exposure changes, dynamic blur, faded colors, soft digital details, slight noise, and unexpected zoom. Stabilizer, sky lanterns, drones, cinematic lenses.
+
+  Timeline:
+  00:00-00:05: Take out an eco-friendly shopping bag, lock the door, check the keys, tidy up hair, smile at the camera, and walk down the alley.
+
+  00:05-00:10: Buy a small bag of green grapes from a small grocery store. Take a bite, react to the sour taste, make a funny face, laugh, and hand the fruit to the camera.
+
+  00:10-00:15: Walk and eat the fruit. A little dog notices her and wags its tail, she crouches down to let it smell her hand. The dog follows her for a short distance before leaving.
+
+  00:15-00:20: The dry leaves on the tree fall on her shoulders and hair. She looks up, shakes off the leaves, and the camera zooms in and gets close to her face. She says: Here it comes again?
+
+  00:20-00:25: Sit briefly on the low wall, finish eating the fruit, and a taxi passes by. The neighbor is watering the flowers. The wind blows her hair and clothes; she wipes her hands and adjusts her bag.
+
+  00:25-00:30: Walk to the end of the alley, turn around with a playful smile, say: Let's go. Turn the corner; the camera follows; suddenly switches to black screen.
+
+  Sound: Only natural ambient sounds, bird songs, insect sounds, footsteps, bicycle bells, distant motorcycle sounds, tree leaves, store sounds, dog movements, neighborhood sounds, and the noise of operating a camera. No music, voiceover, subtitles, titles, logos, watermarks, or special effects.
+
+  Continuity: Real dogs and environmental actions. No repeated characters, distorted faces, deformed hands, extra fingers, instant movements, or clothing changes. Warm, leisurely, feminine, playful, intimate, with a nostalgic feeling of forgotten summer memories.

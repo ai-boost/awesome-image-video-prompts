@@ -1,0 +1,38 @@
+id: seedance-roller-coaster-wig-time-freeze
+title:
+  en: Coaster wig flies off, frozen in time
+  zh: 过山车假发飞走，时间定格
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- time-freeze
+- rewind
+- comedy
+- roller-coaster
+source:
+  name: '@techhalla on X'
+  url: https://x.com/techhalla/status/2083585132917579834
+  credit: TechHalla
+  captured: '2026-10-29'
+  posted: '2026-08-01'
+video: https://x.com/techhalla/status/2083585132917579834
+notes:
+  en: Timed segments, each with an explicit shot type such as medium, orbital or close-up, tell the model what each moment looks like. Stating the exact rewind endpoint and that only the young woman keeps moving lets the freeze and reverse hold together.
+  zh: 按秒分段，并为每段写明镜头类型，如中景、环绕或特写，让模型清楚每个时刻的画面。明确写出倒放的终点，以及冻结时只有女主角继续动作，使静止与恢复之间衔接自然。
+prompt: |
+  Photorealistic cinematic daytime amusement park roller coaster, bright hard sunlight, strong wind, realistic motion blur on tracks and background, subtle handheld camera energy, rich skin detail, heavy natural film grain.
+
+  0-5s: [Medium Shot] A young woman in her early 20s sits in the front seat of a moving roller coaster car, calm and slightly bored, hair whipping in the wind. Beside her sits a middle-aged man wearing what looks like a normal full head of hair. Behind them, another car with a woman is visible. The coaster drops and banks hard.
+
+  5-9s: [Dynamic Tracking] The force of the turn rips the man’s wig free. It peels off his bald head in a chaotic upward arc, spinning and flying backward through the air. The wig lands messily on the head of the woman in the car behind. Everyone’s faces freeze in pure shock and confusion at the peak of the chaos. Time locks completely. Only the young woman in the front keeps moving.
+
+  9-15s: [Slow Orbital + Detail] Camera slowly orbits the frozen cars. The wig hangs mid-air in a twisted shape with individual hairs suspended. The bald man’s scalp is fully exposed, mouth open. The woman behind is frozen mid-scream with the wig draped over her face. The young woman looks sideways, rolls her eyes and mouths “joder, otra vez”. She reaches into her pocket, pulls out a stick of chewing gum, unwraps it and calmly puts it in her mouth, starting to chew while the entire frozen scene (except her) begins a precise reverse.
+
+  15-20s: [Medium Close-up] The rewind is controlled and elegant: the wig lifts off the woman behind, flies backward through the air in reverse, and returns exactly to the moment it is only beginning to peel off the bald man’s head. Time freezes again at that precise instant — the front edge of the wig just lifting, a few strands already loose.
+
+  20-26s: [Tight Medium] Still frozen for everyone else, the young woman takes the chewed gum out of her mouth, reaches over and firmly presses it onto the center of the bald man’s scalp, right under the lifting wig. With the same hand she smooths and presses the wig back down into perfect place, locking it with the gum. She sits back, looks straight ahead with a tiny private smile, completely unbothered.
+
+  26-30s: [Medium Shot] Time suddenly resumes at full real-time speed. The coaster continues its drop. The man touches his head, feels the wig still firmly in place, looks confused for a second, then breaks into a relieved, happy smile. The young woman stares forward, already chewing a new piece of gum, expression of quiet satisfaction.
+
+  Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.

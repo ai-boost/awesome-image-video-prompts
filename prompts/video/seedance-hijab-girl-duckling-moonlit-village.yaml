@@ -1,0 +1,27 @@
+id: seedance-hijab-girl-duckling-moonlit-village
+title:
+  en: Hijab girl and duckling walk moonlit village
+  zh: 头巾女孩与小鸭在月夜村庄漫步
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- character-consistency
+- moonlight
+- 3d-animation
+- fairy-tale
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2106604455151980846
+  credit: Zyrellix
+  captured: '2026-10-29'
+  posted: '2026-10-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2106604455151980846
+notes:
+  en: Character anchors come first (black hijab, rose-pink dress, yellow duckling, brown rabbit), then the scene moves in order from bedroom to village to giant tree, so each shot has a clear location. The closing style list names lighting and render terms (soft moonlight, warm lantern light, Pixar style 3D animation) that set the look without a reference image.
+  zh: 角色锚点先行（黑色头巾、玫瑰粉连衣裙、黄色小鸭、棕色小兔），随后按卧室、村庄、大树的顺序推进场景，每个镜头的地点都很清楚。结尾的风格词列出光影与渲染术语（柔和月光、暖色灯笼光、皮克斯风格3D动画），无需参考图即可定下画风。
+prompt: |
+  A magical 3D animated fairy-tale scene featuring a young girl wearing a black hijab and a beautiful vintage rose-pink dress, accompanied by a cute fluffy yellow duckling and a tiny brown rabbit. Inside a cozy cottage bedroom, moonlight shines through a round window filled with pink roses. The duckling and rabbit join the girl as she picks up a glowing lantern and opens the wooden cottage door. They walk together through a charming village under a bright full moon, surrounded by thatched-roof cottages, blooming roses, glowing fireflies, and a beautiful starry sky. The girl gently kneels beside the adorable animals near a giant magical tree with a tiny round wooden door glowing warmly from within. Cinematic camera movements, expressive characters, detailed textures, soft moonlight, warm lantern lighting, vibrant colors, whimsical fantasy atmosphere, smooth character animation, consistent character designs, high-quality Pixar-style 3D animation, enchanting storytelling, 16:9 widescreen, 4K quality.
+
+  #FlovaAI #CPP

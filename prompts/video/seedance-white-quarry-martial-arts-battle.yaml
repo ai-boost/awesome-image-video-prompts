@@ -1,0 +1,45 @@
+id: seedance-white-quarry-martial-arts-battle
+title:
+  en: Woman fights red-clad warriors in white quarry
+  zh: 女战士在白色采石场与红衣武者搏斗
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- wuxia
+- timed-shots
+- consistency
+source:
+  name: '@Zoyavelle on X'
+  url: https://x.com/Zoyavelle/status/2111690502412390875
+  credit: Zoyavelle
+  captured: '2026-10-29'
+  posted: '2026-10-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zoyavelle/status/2111690502412390875
+notes:
+  en: The prompt splits the clip into timed scenes with a fixed shot list, then repeats the character, outfit and set in a consistency block so the fighter and quarry stay the same across cuts. Camera moves and sound design are spelled out so the choreography reads as continuous action.
+  zh: 提示词把片段拆成带时间段的分镜，并用一致性段落重复人物、服装和场景，让女主角和采石场在各镜头间保持不变。镜头运动与声音设计写得很具体，使打斗动作看起来连贯。
+prompt: |
+  Create an ultra-realistic, cinematic martial arts battle scene set inside a massive abandoned white stone quarry. A fierce young Asian woman with long black hair tied in a high ponytail, wearing a fitted black martial arts outfit, fights against a large group of muscular male warriors dressed in dark red traditional combat uniforms.
+
+  Scene 1 (0–3 seconds): Wide-angle establishing shot of multiple warriors surrounding the female fighter across a vast white stone arena. The fighters rush toward her as dust rises from the cracked ground. The camera moves low and dynamically through the battlefield.
+
+  Scene 2 (3–6 seconds): Medium close-up of the female warrior blocking a powerful punch, twisting her body, and delivering a fast counterattack. Her long black ponytail swings naturally through the air. Use realistic martial arts choreography, precise body movements, and intense facial expressions.
+
+  Scene 3 (6–9 seconds): The female fighter performs a spectacular spinning kick, sending several opponents flying backward. One warrior leaps into the air while another crashes onto the dusty stone floor. Add dramatic slow motion, realistic physics, flying dust, and subtle debris.
+
+  Scene 4 (9–12 seconds): Fast tracking shots follow the woman as she dodges punches, sweeps an opponent's legs, and executes a powerful spinning attack. Show dynamic camera movement, low-angle shots, and brief close-ups of her determined expression.
+
+  Scene 5 (12–15 seconds): A high aerial crane shot reveals the entire white quarry battlefield, with numerous defeated warriors scattered across the cracked ground and the female fighter standing confidently in the center. Finish with a dramatic cinematic pullback.
+
+  Visual Style: Photorealistic live-action martial arts movie, Hollywood action cinematography, epic wuxia-inspired combat, natural overcast daylight, desaturated colors, realistic skin textures, detailed black and dark-red costumes, volumetric dust, subtle motion blur, high dynamic range, 4K detail, professional anamorphic lens look.
+
+  Camera: Dynamic tracking shots, low-angle perspectives, wide establishing shots, fast pans, smooth crane movements, controlled slow motion during major impacts.
+
+  Sound Design: Heavy footsteps, realistic punch and kick impacts, rushing wind, stone debris, clothing movement, deep cinematic impacts, subtle epic orchestral background music.
+
+  Consistency Requirements: Maintain the same female character, facial features, hairstyle, black outfit, male opponents, red uniforms, and white quarry environment throughout the entire video. Natural anatomy, realistic balance, continuous motion, coherent fight choreography, no duplicated limbs, no distorted faces, no sudden scene changes, no text, no subtitles, no logos.
+
+  Duration: 15 seconds. Aspect ratio: 16:9. Quality: Ultra-realistic cinematic 4K.

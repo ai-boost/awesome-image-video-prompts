@@ -1,0 +1,43 @@
+id: seedance-kpop-couple-dance-studio
+title:
+  en: Couple dances in a Korean dance studio
+  zh: 情侣在韩国舞室中同步跳舞
+model: Seedance 2.5
+mode: text-to-video
+category: music-dance
+tags:
+- dance
+- k-pop
+- couple
+- choreography
+- studio
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2109896989475516789
+  credit: Eesha
+  captured: '2026-10-29'
+  posted: '2026-10-13'
+video: https://x.com/MissDelulu9/status/2109896989475516789
+notes:
+  en: Timed beat segments with a stated BPM and a continuous music cue lock the choreography to the rhythm. Full body framing plus a negative prompt aimed at face morphing and outfit changes keeps both dancers consistent through the clip.
+  zh: 按秒分段写明动作，并给出 125到135 BPM 的持续音乐，让编舞紧扣节拍。全身镜头加上针对脸部变形和服装变化的负面提示，使两人在整段视频中保持一致。
+prompt: |
+  Create an ultra-realistic video of an adult K-pop couple dancing in a professional Korean dance studio.
+
+  Characters: A beautiful woman with long, wavy ginger-copper hair and two small braids, wearing a cropped jacket, fitted top, cargo pants, and sneakers. A handsome man wearing modern K-pop streetwear, a black jacket, cargo pants, and sporty sneakers.
+
+  0–3 seconds: Both perform synchronized shoulder bounces, quick side steps, and sharp hand movements while smiling.
+
+  3–6 seconds: They perform energetic footwork, body grooves, coordinated arm movements, and a synchronized turn. The woman's hair moves naturally.
+
+  6–8 seconds: They move closer, mirror each other's dance moves, exchange romantic glances, and smile playfully.
+
+  8–10 seconds: They perform a synchronized final move and finish in a stylish couple pose, smiling at each other.
+
+  Music: Upbeat K-pop instrumental with strong electronic beats, energetic bass, and catchy synths at 125–135 BPM. Music plays continuously from 0–10 seconds. No dialogue.
+
+  Camera: Full-body shots, smooth tracking, cinematic lighting, realistic mirrors and reflections.
+
+  Quality: Photorealistic 4K, natural movements, consistent faces and outfits, realistic hair physics.
+
+  Negative Prompt: No cartoon, CGI faces, distorted anatomy, extra limbs, robotic dancing, face morphing, outfit changes, flickering, blur, camera shake, or sudden transitions.

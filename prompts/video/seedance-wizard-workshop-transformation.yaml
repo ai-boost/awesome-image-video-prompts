@@ -1,0 +1,24 @@
+id: seedance-wizard-workshop-transformation
+title:
+  en: First person wizard workshop with glowing potion
+  zh: 第一人称巫师工坊与发光药剂
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- blender
+- white-model
+- first-person
+- reference-video
+source:
+  name: '@KICHOCHEZI on X'
+  url: https://x.com/KICHOCHEZI/status/2098432693222715716
+  credit: KICHOCHEZI
+  captured: '2026-10-29'
+  posted: '2026-09-11'
+video: https://x.com/KICHOCHEZI/status/2098432693222715716
+notes:
+  en: A Blender white model fixes the camera path, timing and spatial layout through a reference video, while the supplied images set materials and light. Asking for one continuous take with a single held potion keeps the motion and props stable.
+  zh: 先用 Blender 白模生成参考视频，锁定运镜、动作时序与空间布局，再用参考图定义材质与光线。要求单镜头连续拍摄并且只拿一瓶药剂，可以保持动作与道具稳定。
+prompt: |
+  Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.

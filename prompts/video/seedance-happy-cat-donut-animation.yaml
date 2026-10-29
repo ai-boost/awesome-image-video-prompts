@@ -1,0 +1,48 @@
+id: seedance-happy-cat-donut-animation
+title:
+  en: Hand drawn cat eats donut, gets a fresh one
+  zh: 手绘猫咪吃甜甜圈，再换一个新的
+model: Seedance 2.5
+mode: text-to-video
+category: animal
+tags:
+- cat
+- donut
+- hand-drawn
+- mixed-media
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2092465805611212978
+  credit: Eesha
+  captured: '2026-10-29'
+  posted: '2026-08-26'
+video: https://x.com/MissDelulu9/status/2092465805611212978
+notes:
+  en: Timed beats with explicit bite stages and a locked camera on a plain white background keep a photoreal donut and a flat black line art cat in one frame. Requiring each missing piece to leave through a visible bite stops the donut from dissolving.
+  zh: 用带时间点的分段节拍，逐步写明每一口咬掉的阶段，并锁定机位与纯白背景，让写实甜甜圈和黑色线条猫共存于同一画面。要求每一块都通过可见的咬痕消失，避免甜甜圈溶解不见。
+prompt: |
+  Create a 15-second 16:9 video on a pure white background with a locked front camera and centered framing. No camera movement, cuts, transitions, text, captions, or extra elements.
+
+  Feature a photorealistic golden powdered-sugar donut with a simple black 2D hand-drawn chubby cat wearing a snorkel, mask and flippers. Keep the donut realistic and the cat/waves as minimal black line-art. Never make the cat 3D.
+
+  0–2s: The donut stays still while the happy cat floats inside it, gently paddling and kicking. Small black wave lines animate around the donut.
+
+  2–3s: The cat paddles faster, notices the donut, looks hungry, licks its lips and gives a mischievous smile.
+
+  3–6.5s: The cat bites the donut repeatedly. Show clear progressive eating: whole donut → big bite → half donut → tiny piece. Add small crumbs and funny chewing expressions. Every missing section must disappear through a visible bite—never dissolve or vanish.
+
+  6.5–7.5s: The cat eats the last piece. The donut is completely gone. It looks around, realizing it ate everything.
+
+  7.5–8.5s: The cat becomes adorably sad, with lowered ears, drooping paws and a pout, staring at the empty space.
+
+  8.5–10s: A fresh complete powdered-sugar donut drops from above and lands perfectly around the cat. The cat instantly becomes excited and the wave lines return.
+
+  10–11.5s: The cat hugs the new donut with closed eyes and a huge happy smile.
+
+  11.5–13s: It happily wiggles its paws and flippers, floating in the donut.
+
+  13–14s: The cat looks at the camera and gives a cute little wink.
+
+  14–15s: A tiny bubble pops from the snorkel. The cat kicks its flippers twice and smiles brightly as it floats happily inside the untouched donut.
+
+  Keep the same visual continuity from beginning to end: realistic donut + black hand-drawn cat, snorkel, flippers and waves only.

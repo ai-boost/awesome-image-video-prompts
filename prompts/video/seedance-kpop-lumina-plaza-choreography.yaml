@@ -1,0 +1,290 @@
+id: seedance-kpop-lumina-plaza-choreography
+title:
+  en: Five K-pop girls pose before a yellow bus
+  zh: 五名女团成员在黄色巴士前列队
+model: Seedance 2.5
+mode: image-to-video
+category: music-dance
+tags:
+- k-pop
+- choreography
+- first-frame
+- multi-location
+source:
+  name: '@im_shahid7 on X'
+  url: https://x.com/im_shahid7/status/2102273080685121659
+  credit: Al-Shamus
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+video: https://x.com/im_shahid7/status/2102273080685121659
+notes:
+  en: The prompt fixes the opening to a supplied first frame and gives a timed beat sheet with the same wardrobe, head count and camera moves in every section. Foreground wipes and matched screen direction connect the three locations so the cuts read as one continuous walk.
+  zh: 提示词以提供的首帧作为精确起始画面，并按秒给出编排表，每段都固定服装、人数和镜头运动。前景遮挡的擦拭转场与一致的画面运动方向把三个地点连成一段连续的行走。
+prompt: |
+  Using the supplied first frame as the exact opening image, generate a 30-second horizontal 4:3 photorealistic summer K-pop music video.
+
+  CONCEPT
+
+  The five-member fictional K-pop girl group LUMINA performs with twelve international supporting dancers across three connected public locations in the same European neighborhood:
+
+  1. Sunny city plaza
+  2. Bright covered food market
+  3. Outdoor community basketball court
+
+  The visual tone is joyful, energetic and communal. Camera transitions must make the three locations feel physically connected rather than unrelated scenes.
+
+  CHARACTER COUNT LOCK
+
+  Use exactly:
+  - Five LUMINA members
+  - Twelve supporting dancers
+
+  No additional dancers may appear.
+
+  Background pedestrians, market vendors and customers are civilians only. They remain clearly separated from the choreography and never copy the dance.
+
+  Keep every LUMINA member consistent:
+  - Same face
+  - Same hairstyle
+  - Same outfit
+  - Same body proportions
+  - Same accessories
+  - Same role in the group
+
+  Do not duplicate, merge, replace or transform any performer.
+
+  CAMERA STYLE
+
+  Horizontal 4:3.
+  Polished live-action K-pop cinematography.
+  Use a stabilized gimbal, short dolly movements and one gentle crane reveal.
+
+  Camera movement should be energetic but readable:
+  - Smooth forward pushes
+  - Short lateral tracks
+  - Motivated close-ups
+  - Whip-pan transitions hidden by foreground objects
+  - Continuous screen direction
+
+  Do not use random camera teleportation, spinning camera, extreme shake or excessive cutting.
+
+  0.0–4.0 SECONDS — OPENING GROUP CHOREOGRAPHY
+
+  Continue directly from the first frame.
+
+  Nari drops her raised arm across her chest and initiates the first synchronized sequence.
+
+  All seventeen dancers perform:
+  - Two grounded side steps
+  - Alternating shoulder hits
+  - One upward diagonal arm sweep
+  - A clean hip-level hand cross
+  - One synchronized head turn toward camera-right
+
+  The camera slowly pushes forward while preserving all five main members in frame.
+
+  The yellow bus remains parked behind them. Background pedestrians continue normal movement.
+
+  4.0–7.0 SECONDS — NARI CENTER MOMENT
+
+  The other members step outward by half a meter, opening a clear center lane.
+
+  Nari advances two short steps toward the camera and performs:
+  - Right-hand face frame
+  - Quick wrist rotation
+  - Chest accent
+  - Half-turn
+  - Immediate return to face the camera
+
+  Her pleated skirt, hair and socks move naturally.
+
+  Transition into a chest-up shot without cutting off her hands. She smiles directly into the lens for one beat.
+
+  No slow motion.
+
+  7.0–10.0 SECONDS — FORMATION EXPANSION
+
+  The camera pulls back smoothly.
+
+  Mina and Jiyu move to Nari’s sides while Hana and Seoa close the rear line. The twelve supporting dancers expand outward into a wide semicircle.
+
+  The full group performs:
+  - Two bouncing steps
+  - Right-arm wave
+  - Left-arm wave
+  - Fast double hand point
+  - One small synchronized jump
+  - Clean wide-stance landing
+
+  Feet maintain accurate contact with the stone pavement.
+
+  The city bus begins moving slowly out of the background in the correct traffic direction.
+
+  10.0–12.0 SECONDS — MARKET TRANSITION
+
+  A supporting dancer in a cobalt overshirt crosses close to the camera from left to right.
+
+  His shirt briefly fills the frame and creates a natural wipe transition.
+
+  As the blue fabric clears, reveal the same forward camera movement continuing inside a bright covered municipal food market.
+
+  The transition must preserve movement direction and rhythm.
+
+  12.0–16.0 SECONDS — MOVING THROUGH THE MARKET
+
+  The five LUMINA members dance forward through a wide central market aisle.
+
+  Formation:
+  - Jiyu leads at center
+  - Nari and Mina follow behind
+  - Hana and Seoa occupy the outer positions
+  - Supporting dancers trail in two organized lines
+
+  Environment:
+  - White and pale-blue market counters
+  - Fresh fruit and vegetable stalls
+  - Flower buckets
+  - Closed glass seafood displays
+  - Hanging international festival flags
+  - Elderly vendors and ordinary shoppers standing safely outside the aisle
+  - Bright skylight illumination
+  - Clean, dry floor
+
+  The group performs walking choreography:
+  - Rhythmic forward steps
+  - Alternating elbow pulls
+  - Shoulder rolls
+  - Overhead hand waves
+  - One synchronized direction change around a market column
+
+  The camera tracks backward at matching speed.
+
+  16.0–19.0 SECONDS — MINA CLOSE-UP
+
+  Mina moves toward the front-left side of the formation.
+
+  The camera transitions into a smooth waist-up close-up as she performs:
+  - Hand sweep beside her cheek
+  - Elbow raised above shoulder level
+  - Playful head tilt
+  - Quick body roll
+  - Direct smile into the lens
+
+  Nari and Jiyu remain visible behind her in softer focus, continuing simpler choreography.
+
+  A row of colorful market flags passes above the frame.
+
+  19.0–21.0 SECONDS — SECOND MATCH TRANSITION
+
+  Mina spins once to her left.
+
+  Her pale blue-grey skirt creates a brief circular foreground blur.
+
+  Match the end of the spin with Seoa completing the same turn at an outdoor basketball court.
+
+  The rotation direction, body scale and camera height must remain consistent across the cut.
+
+  21.0–25.0 SECONDS — BASKETBALL COURT CHORUS
+
+  Reveal a sunny outdoor community basketball court approximately one block from the market.
+
+  Environment:
+  - Blue and coral painted court
+  - White boundary lines
+  - Blue basketball backboard
+  - Chain-link perimeter fence
+  - Colorful city buildings in the distance
+  - Green trees
+  - Clear afternoon sky
+  - No active basketball players inside the dance zone
+
+  All five LUMINA members return to the front row.
+  The twelve supporting dancers form two staggered rows behind them.
+
+  They perform a high-energy chorus:
+  - Wide side step
+  - Double forearm hit
+  - Alternating knee lifts
+  - Cross-body point
+  - Fast shoulder bounce
+  - Quarter-turn
+  - Return to front
+
+  The camera tracks laterally from left to right while maintaining a stable horizon.
+
+  25.0–28.0 SECONDS — ROTATING CENTER POSITIONS
+
+  Each member receives a brief movement highlight without stopping the group choreography:
+
+  - Hana performs a grounded two-count footwork accent
+  - Seoa performs a bright arm circle
+  - Jiyu performs a strong chest-and-shoulder hit
+  - Mina performs a face-framing gesture
+  - Nari returns to center with one clean pivot
+
+  The other performers stay in their assigned positions and use simplified supporting movements.
+
+  No member passes directly through another dancer’s path.
+
+  28.0–30.0 SECONDS — FINAL GROUP POSE
+
+  The camera rises gently by approximately one meter while moving slightly backward, revealing the full court formation.
+
+  All seventeen dancers complete:
+  - One synchronized upward arm throw
+  - Small controlled jump
+  - Stable landing
+  - Final asymmetrical pose
+
+  Final positions:
+  - Nari center front
+  - Mina and Jiyu one step behind her
+  - Hana and Seoa on the outer front diagonals
+  - Twelve supporting dancers in a broad semicircle
+
+  Nari looks directly into the camera and gives a bright confident smile.
+
+  Hold the final pose for the last half-second.
+
+  CHOREOGRAPHY QUALITY
+
+  - Professional K-pop synchronization
+  - Energetic but anatomically realistic movement
+  - Clear preparation before every turn and jump
+  - Accurate foot placement
+  - Natural knee compression on landings
+  - Realistic hair and fabric movement
+  - No repeated movement loops
+  - No performer colliding with another
+  - No bodies passing through one another
+  - No floating feet
+  - No excessive motion blur
+
+  SCENE CONTINUITY
+
+  All three locations exist in the same neighborhood and share the same afternoon weather.
+
+  Maintain:
+  - Consistent sunlight direction
+  - Consistent performer identities
+  - Consistent clothing
+  - Consistent hair
+  - Continuous movement direction during transitions
+  - Realistic travel logic between scenes
+
+  AUDIO
+
+  Create an original upbeat summer K-pop track:
+  - Bright percussion
+  - Clean bass line
+  - Rhythmic handclaps
+  - Light synth melody
+  - Energetic chorus
+  - Original non-lyrical vocal ad-libs
+
+  Mix in subtle location ambience:
+  - Distant city traffic
+  - Footsteps
+  - Market room tone
+  - Shoe contact on the basketball court
+  - Light

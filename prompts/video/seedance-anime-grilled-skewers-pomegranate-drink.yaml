@@ -1,0 +1,25 @@
+id: seedance-anime-grilled-skewers-pomegranate-drink
+title:
+  en: Anime chef slicing raw meat into cubes
+  zh: 动漫厨师将生牛肉切成方块
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- anime
+- food
+- cooking
+- step-by-step
+source:
+  name: '@aiwithlumi on X'
+  url: https://x.com/aiwithlumi/status/2095496077764100446
+  credit: aiwithlumi
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithlumi/status/2095496077764100446
+notes:
+  en: The full recipe is written as one ordered sequence from slicing and seasoning to grilling and plating, so the model moves through each step in turn. Naming the anime style up front and listing every ingredient keeps the knife, board and colours consistent from shot to shot.
+  zh: 整段做法按顺序写成一条步骤链，从切肉、调味到烤制和摆盘，模型会依次呈现每个动作。开头点明动漫风格并列出所有食材，让刀具、砧板和配色在各个镜头里保持一致。
+prompt: |
+  Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef slices raw red meat into uniform cubes, seasons them with spices, then opens a ripe pomegranate and squeezes its juice and seeds into a bowl. Pour the juice into a tall glass with ice and sparkling mixer, then garnish with mint. Grill the seasoned meat cubes on skewers with peppers and onions, plate the juicy kebabs with fresh parsley, and present them beautifully beside the chilled pomegranate drink.

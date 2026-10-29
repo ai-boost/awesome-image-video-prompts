@@ -1,0 +1,24 @@
+id: seedance-luxury-hair-dryer-case-macro-pan
+title:
+  en: Closed violet leather case on reflective studio surface
+  zh: 蓝紫色反光台面上的闭合皮革收纳盒
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- product-shot
+- macro-pan
+- studio-lighting
+- hair-dryer
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2093932080497594740
+  credit: Avelyrah
+  captured: '2026-10-29'
+  posted: '2026-08-30'
+video: https://x.com/AvelyrahnAI/status/2093932080497594740
+notes:
+  en: Breaking the shot into timed beats (closed case, lid lifts, macro pan across the attachments) gives the model a clear sequence to follow. Naming the lighting, reflections and depth of field keeps the product look consistent through the cut.
+  zh: 将镜头拆成按时间顺序的几个节拍（合上的收纳盒、盖子打开、微距推进展示配件），让模型有清晰的时间线可循。同时写明光线、反射和景深，使整段画面的质感保持统一。
+prompt: |
+  A sleek, high-end 3D cinematic commercial shot of a luxury blue and copper styling tool set. The sequence begins with a closed violet leather storage case resting on a glossy reflective surface under moody studio lighting. The case lid automatically lifts open to reveal a premium blue hair dryer with glowing copper accents. Smooth macro camera pan moves to showcase individual attachments—smoothing nozzles, diffuser, and styling barrels—arranging themselves neatly on the reflective surface next to the main device. Clean, minimalist luxury product presentation, hyper-realistic textures, studio soft-box reflections, cinematic depth of field, 4k resolution, smooth 60fps motion.

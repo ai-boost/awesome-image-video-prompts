@@ -1,0 +1,34 @@
+id: seedance-white-handbag-golden-waterfront
+title:
+  en: Woman in white suit by golden waterfront
+  zh: 金色水岸边身穿白色西装的女子
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- fashion
+- luxury
+- golden
+- commercial
+source:
+  name: '@aiwithaayat on X'
+  url: https://x.com/aiwithaayat/status/2100863394878525602
+  credit: aiwithaayat
+  captured: '2026-10-29'
+  posted: '2026-09-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaayat/status/2100863394878525602
+notes:
+  en: A shot by shot sequence running from a wide establishing shot to bag close ups to a silhouette finale gives the clip a clear ad structure. Naming golden hour light, shallow depth of field and fabric textures pins the look to photoreal fashion footage.
+  zh: 按镜头顺序写明从远景建立、手袋特写到剪影收尾的分镜，使广告结构清晰。明确金色时段光线、浅景深与面料质感等描述，让画面保持写实的时尚大片质感。
+prompt: |
+  Prompt: Created a 10-second video featuring an elegant woman in a sophisticated white tailored suit walking beside a calm waterfront during golden hour.
+  She carries a luxurious quilted white handbag with refined gold hardware, creating a premium fashion-advertising aesthetic.
+  Begin with a wide cinematic shot of the woman standing beside the wooden waterfront railing with the glowing city skyline in the distance.
+  Slowly move into detailed close-ups of the handbag, highlighting its quilted texture, structured shape, handle, and polished gold clasp.
+  Show the handbag resting beautifully on the wooden railing with warm sunlight reflecting across the water behind it.
+  Transition to a medium fashion shot capturing the woman’s elegant white suit, confident posture, and graceful movement.
+  She gently adjusts her stylish sunglasses while looking toward the horizon, creating a calm and sophisticated luxury mood.
+  Use smooth cinematic camera movements, shallow depth of field, realistic fabric and leather textures, natural skin tones, and soft golden-hour lighting.
+  End with a wider silhouette shot of the woman walking along the waterfront as the sunlight fades into a warm evening atmosphere.
+  Photorealistic luxury fashion commercial, cinematic composition, premium visual quality, realistic lighting, subtle film grain, and elegant storytelling.

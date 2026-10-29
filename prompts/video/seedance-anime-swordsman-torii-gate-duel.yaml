@@ -1,0 +1,38 @@
+id: seedance-anime-swordsman-torii-gate-duel
+title:
+  en: Swordsman and shadow demon clash at torii gate sunset
+  zh: 剑士与暗影恶魔在鸟居前交锋
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- anime
+- sword-fight
+- sunset
+- demon
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2103355707487600728
+  credit: Wania
+  captured: '2026-10-29'
+  posted: '2026-09-25'
+video: https://x.com/AIwithWania/status/2103355707487600728
+notes:
+  en: Timestamped beats (0 to 2 seconds, 2 to 4 seconds and so on) give the clip a clear shot order, and the closing visual lock line fixes palette, linework and character design across the whole sequence.
+  zh: 按秒划分的时间段（0 到 2 秒、2 到 4 秒等）让镜头顺序清晰，结尾的视觉锁定段统一了整段的色调、线稿和角色设计。
+prompt: |
+  Create a cinematic anime battle sequence, 16:9, with premium hand-drawn cel animation and ultra-fluid sakuga-style movement.
+
+  At a ruined ancient Japanese torii gate during a blazing crimson sunset, a white-haired swordsman in a torn white haori stands facing a towering shadow-black demonic warrior with glowing red eyes and smoky tendrils.
+
+  0–2s: Wide dramatic shot. Both warriors face each other beneath the giant torii gate, dust and debris floating through the air, huge orange sun directly behind them.
+
+  2–4s: Fast cinematic push-in to the white-haired swordsman’s face. His eyes glow intense red as he tightly grips his black katana. Wind moves his hair and clothing.
+
+  4–7s: He suddenly launches forward at extreme speed and clashes swords with the demon. Explosive white-blue lightning, sparks, shockwaves and a brilliant curved energy slash tear across the frame. Dynamic anime camera movement and strong motion lines.
+
+  7–8s: The swordsman completes one clean finishing slash. The demon breaks apart into swirling black smoke, glowing red embers and particles.
+
+  8–10s: Final wide rear shot: the swordsman stands completely still with his katana lowered, facing the enormous setting sun beneath the torii gate while the remaining dark particles disappear into the sky.
+
+  Visual lock: dramatic red-orange sunset palette, deep black shadows, sharp anime linework, cinematic contrast, fluid 2D animation, consistent character design throughout, realistic cloth and hair motion, powerful impact frames, no extra characters, no character duplication, no text, no subtitles, no watermark.

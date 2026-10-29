@@ -1,0 +1,79 @@
+id: h3-neon-hacker-boots-audio-intro
+title:
+  en: Red accented combat boots step through dark neon
+  zh: 红色点缀战靴走过暗色霓虹空间
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- cyberpunk
+- character-intro
+- audio-reference
+- neon
+source:
+  name: '@Nokosu_kansoku on X'
+  url: https://x.com/Nokosu_kansoku/status/2086700416654594554
+  credit: Nokosu
+  likes: 22
+  captured: '2026-10-29'
+  posted: '2026-08-10'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Nokosu_kansoku/status/2086700416654594554
+notes:
+  en: Separate face, body and audio references lock the character's identity and tie the cut timing to the music. Each 3 second block gets its own camera move and lighting, and the prompt forbids duplicates, text and split screens so the same character holds across all 15 seconds.
+  zh: 分别提供脸部、体型和音频三个参考，锁定角色形象并让剪辑节奏跟随音乐。提示词按每3秒分段指定镜头运动与光线，并禁止分身、文字和分屏，使角色在15秒内保持一致。
+prompt: |
+  @[face ref] をNEONの顔、ピンクのボブヘア、黒い丸眼鏡の厳密な参照として使用します。
+  @[body ref] をNEONの体格、黒と赤のサイバーパンク衣装、装備、ブーツの厳密な参照として使用します。
+  @[audio ref] は映像のリズム、カットの強弱、主要な音楽アクセントの参照として使用します。
+
+  15秒のハイエンドなサイバーパンク・キャラクター紹介映像。
+  主役はNEONただ一人。
+  クールで知的、危険な雰囲気。動作は自信に満ち、抑制されている。
+
+  構成：
+
+  0–3秒：IDENTITY REVEAL
+  暗いネオン照明の空間。
+  ブーツ、赤いジャケットのディテール、眼鏡越しの目元を短いバーストカットで見せる。
+  最後に顔のクローズアップ。
+  カットを@[audio ref] の最初の強いアクセントに合わせる。
+
+  3–6秒：NEON ALLEY
+  雨に濡れた未来都市の路地。
+  NEONがゆっくりカメラ方向へ歩く。
+  ローアングル、横方向のトラッキング、濡れた路面に映る赤いネオン。
+  人物の動きよりもカメラワークを強調。
+
+  6–9秒：TECH UNDERGROUND
+  赤い警告灯が点滅する地下施設。
+  肩越しのショット、手袋と装備のクローズアップ、短いオービットショット。
+  NEONは静かに周囲を観察する。
+
+  9–12秒：MEGACITY ROOFTOP
+  巨大な未来都市を見下ろす夜の屋上。
+  風でピンクの髪とジャケットがわずかに揺れる。
+  ワイドショットからローアングルのヒーローフレームへ切り替える。
+
+  12–15秒：FINAL HERO REVEAL
+  赤とマゼンタの逆光。
+  カメラがNEONの周囲を短く回り込み、正面のミディアムクローズアップで止まる。
+  NEONが眼鏡越しにカメラを見る。
+  最後の音楽アクセントで力強い静止ヒーローフレーム。
+
+  編集：
+  合計12〜15ショット。
+  主要カットを@[audio ref] の強拍に合わせる。
+  環境変更は音楽フレーズの変化に合わせる。
+  細かい半拍すべてにカットを入れず、強いアクセントを優先する。
+
+  一貫性：
+  同じ顔、同じ髪型、同じ眼鏡、同じ体格、同じ衣装を全編で維持。
+  衣装の黒・赤・ゴールドの配色と装備位置を維持。
+  キャラクターは常に一人だけ。
+
+  禁止：
+  複数のNEON、分身、衣装変更、髪型変更、眼鏡の消失、
+  顔や身体のモーフィング、過剰なアクション、文字、ロゴ、字幕、UI、
+  キャラクターシート風レイアウト、分割画面、白背景。
+  -------------------------------------------------------

@@ -1,0 +1,25 @@
+id: seedance-macaque-copies-hiker-head-tilt
+title:
+  en: Macaque copies hiker's head tilt on forest platform
+  zh: 猕猴在森林平台上模仿徒步者歪头
+model: Seedance 2.5
+mode: text-to-video
+category: animal
+tags:
+- wildlife
+- comedy
+- timed-beats
+- photorealistic
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2092181568534282494
+  credit: SyntheSarah
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/SyntheSarah/status/2092181568534282494
+notes:
+  en: Timed beats (0 to 4 seconds, 4 to 8 seconds and so on) give the mirrored head tilt a clear setup and payoff. Explicit bans on talking, human clothing and CGI keep the monkey grounded as a real wild animal.
+  zh: 用时间段分镜（0到4秒、4到8秒等）让镜像歪头有清晰的铺垫和收尾。明确禁止说话、人类服饰和CGI外观，让猴子保持真实野生动物的表现。
+prompt: |
+  Create a completely original 15-second photorealistic comedy video set in a peaceful tropical forest. A young adult male hiker stands on a wooden observation platform, safely observing a realistic macaque monkey sitting on a nearby tree branch. 0–4 seconds: The hiker quietly notices the monkey and raises his camera to take a photograph. The monkey looks directly toward the camera with natural curiosity. 4–8 seconds: The hiker slowly lowers the camera. The monkey tilts its head to one side. The hiker tilts his own head slightly in the opposite direction. The monkey pauses, then tilts its head again in the same direction as the hiker. 8–12 seconds: The hiker changes his head position once more. The monkey watches carefully and repeats the movement. The hiker begins smiling, amused by the coincidence. 12–15 seconds: The monkey suddenly loses interest, turns around casually, and starts grooming itself. The hiker looks at the camera with a confused, amused expression, as if thinking, “Okay… never mind.” VISUAL STYLE 100% original visual presentation, photorealistic live-action appearance, natural wildlife photography, realistic macaque anatomy and fur, authentic tropical vegetation, soft natural daylight, realistic shadows, subtle camera movement, realistic depth of field, natural colors, detailed environmental textures. ANIMAL BEHAVIOR The monkey must behave like a genuine wild animal. No talking, no human clothing, no human-like walking, no exaggerated expressions, no physical contact with the person. The humor comes from the natural coincidence of the monkey copying the hiker's head movement. AUDIO Natural forest ambience, birds, insects and gentle leaves moving in the breeze. Very subtle original playful background music. No recognizable music or audio from existing media. RESTRICTIONS Do not reference or recreate any existing movie, television show, advertisement, viral video, fictional character, celebrity, copyrighted character, recognizable filmmaker's style, branded product, or existing media scene. No logos, no text, no subtitles, no watermark. No cartoon, no animation, no CGI appearance, no fantasy elements, no violence, no dangerous interaction. Create an entirely original, harmless, photorealistic wildlife comedy scene.

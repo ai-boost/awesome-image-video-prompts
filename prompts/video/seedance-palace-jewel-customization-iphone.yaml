@@ -1,0 +1,29 @@
+id: seedance-palace-jewel-customization-iphone
+title:
+  en: Woman jeweling an iPhone in a royal palace
+  zh: 女子在王宫里用珍珠和钻石装饰手机
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- fantasy
+- jewelry
+- palace
+- multi-shot
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2095741799402758204
+  credit: Noor
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+video: https://x.com/noorlewisx/status/2095741799402758204
+notes:
+  en: The prompt walks through the shots in order and opens on a close up of the hands with exact props such as silver tweezers and rhinestones, so each beat is easy to render. Fixed lighting and lens cues like soft golden light and shallow depth of field keep the palace look consistent across cuts.
+  zh: 提示词按镜头顺序逐段描写，开场先给手部特写，并点名银色镊子、水钻等具体道具，让每个镜头的画面内容都很明确。结尾统一的金色柔光与浅景深描述，帮助各镜头的宫殿质感保持一致。
+prompt: |
+  A cinematic 20-second luxury fantasy video in an opulent gold-and-crimson palace chamber with crystal chandeliers, ornate gold furniture, red velvet chairs and warm candlelight. A stunning young woman with platinum blonde hair in elaborate jeweled braids, wearing a sparkling ice-blue beaded gown, diamond tiara, pearl drop earrings and soft pink makeup, green eyes. She customizes objects with precision tweezers, pearls and crystals.
+  Opening close-up: her hands placing tiny rhinestones around the camera module of a light-blue iPhone using silver tweezers. She then holds the decorated phone and smiles softly while looking at it.
+  She decorates a rose-gold crystal compact, holds an ornate jeweled perfume bottle toward the camera, and gazes at a small diamond-encrusted photo frame on a gold table scattered with loose pearls.
+  Quick shot of organized trays filled with white pearls, clear crystals, gold beads and rhinestones.
+  She picks up a black fountain pen, leans over a large official parchment document with a royal coat of arms, wax seal and the heading “I Victores D’Ulvenwind”, then uses a fine tool to attach pearls and diamonds along the edges and corners of the document. She signs it and proudly holds up the finished jeweled letter.
+  A tall, handsome man with sharp features and dark hair, wearing an elaborate dark navy velvet jacket heavily embroidered with silver thread, pearls and jewels, stands beside her, takes the document and reads it. She looks up at him from her seat. He smiles. Soft golden lighting, shallow depth of field, highly detailed, photorealistic, elegant and dreamy atmosphere.

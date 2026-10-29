@@ -1,0 +1,48 @@
+id: h3-shapes-mascot-learning-animation
+title:
+  en: Animated mascot teaches four basic shapes
+  zh: 吉祥物讲解四种基础形状动画
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- educational
+- kids
+- shapes
+- mascot
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2084586713205317678
+  credit: 𝐌
+  likes: 61
+  captured: '2026-10-29'
+  posted: '2026-08-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Strength04_X/status/2084586713205317678
+notes:
+  en: A timed beat sheet gives each shape the same fixed sequence of shape, narration, object, action and on-screen word, so the model repeats one structure four times. Writing the narrator lines word for word and tying each word to its own highlight colour keeps the sound cues and visuals in sync.
+  zh: 用定时分镜表为每个形状固定同一套顺序：形状、旁白、物品、动作、屏幕文字，模型会按同一结构重复四次。把旁白原文写进提示词，并让每个词对应自己的高亮颜色，声音提示和画面才能同步。
+prompt: |
+  Create a 15-second animated educational video that teaches young children the shapes Circle, Square, Triangle, and Star.
+
+  Learning pattern for every shape:
+  SHAPE → NAME SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME
+  Target audience: children ages 3 to 6
+
+  Visual style: Same premium-cute aesthetic pastel colors, rounded 3D forms, soft lighting, minimalist off-white background, unique glow color per shape, crisp bold typography, polished smooth morphing transitions.
+
+  0:00–0:01 Intro: Mascot bounces in, shapes float briefly, text "Let's learn shapes!", tap reveals first shape with a ripple.
+
+  0:01–0:04 | Circle is for Orange: A perfect circle appears. Narrator: "Circle. Round and round. Circle is for Orange." Circle gains texture and a tiny stem, becomes a smiling orange, bounces once. Word "ORANGE," highlight shape outline in orange.
+
+  0:04–0:07 | Square is for Gift Box: The orange rolls and reshapes into a square. Narrator: "Square. Four equal sides. Square is for Gift Box." Square gains a ribbon and bow, wiggles playfully. Word "GIFT BOX," highlight in purple.
+
+  0:07–0:10 | Triangle is for Mountain: The ribbon folds into a triangle. Narrator: "Triangle. Three sides. Triangle is for Mountain." Triangle grows a snowy peak and a small smiling sun beside it. Word "MOUNTAIN," highlight in brown/teal.
+
+  0:10–0:13 | Star is for Sky: The mountain peak stretches into a star. Narrator: "Star. Star is for Sky." Star twinkles softly with tiny sparkles floating around it, gentle glow pulse. Word "STAR," highlight in golden yellow.
+
+  0:13–0:15 Recap: Orange, gift box, mountain, star line up in four tiles with shape outlines above. Mascot points to each in sequence.
+
+  Narrator: "Circle, Square, Triangle, Star. Great job!" Sparkle + warm chime.
+
+  Requirements: Each shape fully visible before morph, uppercase-clarity level precision on shape edges, no warped or duplicated forms, gentle motion only, synced sound cues, calm and beautifully polished finish.

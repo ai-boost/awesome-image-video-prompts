@@ -1,0 +1,24 @@
+id: seedance-disaster-comedy-restaurant-feast
+title:
+  en: Two women eat after city explosion shakes restaurant
+  zh: 城市爆炸后两名女子在餐厅大快朵颐
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- disaster-comedy
+- restaurant
+- food
+- korean
+source:
+  name: '@Aqsahere_ on X'
+  url: https://x.com/Aqsahere_/status/2096077108808470604
+  credit: Aqsa
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+video: https://x.com/Aqsahere_/status/2096077108808470604
+notes:
+  en: Each character is locked to a fixed screen side and given contrasting props (salad against pizza, burger and tteokbokki), so the diet joke reads at a glance. The explosion is staged as a pressure wave that rattles the plates, which gives the model a clear physical cue for the shift from envy to panic eating.
+  zh: 两人分别固定在画面左右两侧，并配上对比鲜明的道具（沙拉对比披萨、汉堡和辣炒年糕），让节食的笑点一眼可见。爆炸被设定为会震动餐盘的冲击波，为模型提供了从羡慕转向慌乱进食的明确物理线索。
+prompt: |
+  Create a premium photorealistic live-action cinematic disaster comedy featuring two beautiful young Korean women with clearly different faces, hairstyles, body proportions, and fashion styles. WOMAN 1 sits screen left, wearing a stylish elegant outfit, with only a small green salad in front of her. WOMAN 2 sits screen right, with a completely different beautiful face and different fashionable outfit, enjoying a hamburger, pizza, and red tteokbokki. They sit in a luxurious modern restaurant beside a huge floor-to-ceiling window overlooking a dense city skyline. WOMAN 1 sadly stares at her salad and envies WOMAN 2's feast until a colossal distant explosion suddenly erupts across the city, sending orange-white light and a powerful pressure wave that shakes the window and rattles the plates. Realizing the world might be ending, WOMAN 1 immediately abandons her diet, slides her salad aside, and urgently starts eating the pizza and hamburger. WOMAN 2 watches in disbelief, but another shockwave hits and she instantly joins the frantic feast. Finish with both women seriously panic-eating while repeatedly glancing at the enormous apocalyptic cloud outside. Premium large-format cinematic realism, Cooke anamorphic look, realistic physics, natural acting, cinematic orange disaster lighting, subtle handheld urgency after the explosion, no dialogue, no subtitles, no extra characters, no face duplication, and consistent screen positions throughout.

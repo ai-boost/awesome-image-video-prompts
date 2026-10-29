@@ -1,0 +1,42 @@
+id: seedance-travel-vlog-old-town-woman
+title:
+  en: Stylish woman narrates travel vlog through European old town
+  zh: 时尚女子在欧洲老城边走边讲解旅行vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- lip-sync
+- voiceover
+- golden-hour
+- travel
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2097184908250845406
+  credit: CaliraVal
+  captured: '2026-10-29'
+  posted: '2026-09-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/CaliraVal/status/2097184908250845406
+notes:
+  en: The prompt splits the clip into timed shots, each with its own spoken line, so the lip-sync and voiceover have fixed beats to follow. The handheld vlog camera, golden hour lighting and a specific wardrobe list keep the look consistent across cuts.
+  zh: 提示词把视频拆成带时间顺序的分镜，每个分镜配一句台词，让口型和配音有固定的节拍可以对齐。手持 vlog 镜头、黄金时段光线和具体的服装描述，保证各个镜头中的人物形象一致。
+prompt: |
+  A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
+
+  She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
+
+  Voiceover dialogue:
+  “Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
+
+  Cut to her buying a local pastry from a small street bakery. She smiles and says:
+  “This looks absolutely delicious. I had to try it!”
+
+  Then she sits at an outdoor café enjoying coffee while watching people pass by:
+  “Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
+
+  Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
+  “Okay, this view is definitely the highlight of my day. Would you come here?”
+
+  Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.

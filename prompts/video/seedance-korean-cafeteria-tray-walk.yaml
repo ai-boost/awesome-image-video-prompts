@@ -1,0 +1,45 @@
+id: seedance-korean-cafeteria-tray-walk
+title:
+  en: Student carries lunch tray through busy Korean cafeteria
+  zh: 学生端着午餐托盘穿过热闹的韩国食堂
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- korean-drama
+- school-cafeteria
+- multi-shot
+- photorealistic
+source:
+  name: '@Zoyavelle on X'
+  url: https://x.com/Zoyavelle/status/2100810895052165195
+  credit: Zoyavelle
+  captured: '2026-10-29'
+  posted: '2026-09-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zoyavelle/status/2100810895052165195
+notes:
+  en: The prompt is a numbered multi shot sequence with a fixed wardrobe description and clear cut cues, which keeps the lead consistent across shots. Lens and grading terms (35mm and 85mm, soft bokeh, subtle handheld drift) steer the look toward a Korean school drama frame.
+  zh: 提示词按顺序写成多镜头分镜，并固定了人物服装描述和明确的切镜指令，让主角在各镜头中保持一致。镜头焦段、柔和虚化和轻微手持晃动等摄影语言，引导画面接近韩剧的质感。
+prompt: |
+  Create a cinematic, photorealistic Korean high-school cafeteria scene during lunchtime. A beautiful young Korean female student, around 18–20 years old, with long straight black hair, fair natural skin, delicate facial features, and a calm expressive face, walks through a large busy school cafeteria carrying a stainless-steel lunch tray.
+
+  She wears a neat white short-sleeve school uniform shirt with a dark navy ribbon bow/tie, a navy pleated skirt, and a small school name tag. The cafeteria is filled with many Korean high-school students wearing matching white uniforms, sitting at long wooden tables and eating lunch.
+
+  Opening shot: wide cinematic shot following the girl as she walks between crowded cafeteria tables carrying her tray. Bright fluorescent ceiling lights, large windows, realistic school cafeteria architecture, natural background activity, shallow depth of field.
+
+  Cut to a medium close-up of the girl walking toward the camera, looking slightly surprised and opening her mouth as if speaking. Her black hair moves naturally while walking.
+
+  Cut to a detailed close-up of the stainless-steel cafeteria tray being carried, containing Korean-style school lunch: white rice, fried chicken pieces, sausages, vegetables, side dishes, and red sauce. Another hand holding a spoon appears in the foreground.
+
+  Top-down shot of the complete lunch tray placed on the table, showing separate metal compartments filled with rice, fried food, vegetables, and red soup/sauce.
+
+  Show the busy cafeteria reaction: several male students suddenly look toward the girl with surprised and curious expressions while eating. Capture natural facial expressions and realistic reactions.
+
+  A dramatic close-up of the girl looking directly toward the camera with a confident, slightly serious expression. Her long black hair frames her face, with realistic skin texture, detailed eyes, subtle makeup, and cinematic soft lighting. Background students and cafeteria lights are heavily blurred with natural bokeh.
+
+  Show the girl approaching a seated male student and placing/serving the lunch tray near him. The students react naturally, looking surprised and confused. Finish with a wide rear shot of the girl walking away through the crowded cafeteria while carrying the tray, with rows of students visible on both sides.
+
+  Visual style: ultra-realistic Korean school drama / K-drama cinematography, photorealistic human faces, realistic skin texture, natural body proportions, authentic Korean school cafeteria, cinematic composition, soft depth of field, realistic fluorescent lighting, subtle handheld camera movement, smooth cinematic transitions, detailed food textures, natural facial expressions, realistic motion, 4K, high detail, professional cinema camera, 35mm and 85mm lens look, natural color grading, atmospheric background blur.
+
+  No text, no subtitles, no watermark, no logos, no distorted faces, no extra fingers, no unnatural body proportions, no cartoon or anime appearance.

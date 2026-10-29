@@ -1,0 +1,40 @@
+id: seedance-flower-field-flashback-memory
+title:
+  en: Woman in flower field fades into childhood memory
+  zh: 花田中的女子沉入童年回忆
+model: Seedance 2.5
+mode: image-to-video
+category: cinematic
+tags:
+- flashback
+- golden-hour
+- reference-image
+- memory
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2102283267957506141
+  credit: AIwithWania
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithWania/status/2102283267957506141
+notes:
+  en: The reference image fixes the character, wardrobe and grade, and every timed beat repeats those locks so the look holds across cuts. The flashback uses matched framing in the same flower field with the same crown, which keeps the memory transition readable.
+  zh: 参考图锁定人物、服装和色调，每个时间段都重复这些约束，保证切换前后画面一致。回忆段落在相同花田中用相同花冠做匹配切换，让时间跳转清晰可读。
+prompt: |
+  -
+
+  Use the uploaded reference image as the visual base. Maintain the same characters, same golden-hour flower field setting, same wardrobe, same color grading (warm gold, soft pink, dreamy sunset light) throughout. Do not change the characters' appearance, clothing, or the location.
+
+  - **0:00–0:01** — A woman with long curly brown hair, wearing a white flowing dress and a flower crown, runs through a dreamy field of yellow, white, and pink flowers, trying to catch up to someone ahead of her. A distant fairytale castle is visible on the horizon.
+  - **0:01–0:03** — She reaches out and gently places her hand on the shoulder of a man ahead of her, who is dressed in medieval knight armor with a dark red cloak.
+  - **0:03–0:04** — Close-up on her face looking up, windswept hair, flowers in her crown catching the light — in this moment, the world around her begins to fade into a memory.
+  - **0:04–0:06** — The scene transitions into a flashback: a little girl with the same curly brown hair and flower crown reaches out and gently touches the shoulder of a little boy in front of her, both standing in the same flower field.
+  - **0:06–0:07** — Close-up of the little boy turning to look at her with a soft, curious expression.
+  - **0:07–0:09** — The little boy quietly turns away and starts walking forward, away from her, through the flowers.
+  - **0:09–0:10** — The little girl is left behind, her small hand still reaching out toward him.
+  - **0:10–0:13** — Cut back to the present: the woman feels the same pain, holding her hand to her heart as the memory fades away.
+  - **0:13–0:14** — The knight continues walking forward, emotionally distant, leaving her behind once again.
+  - **0:14–0:15** — She kneels down in the flower field, overwhelmed with heartbreak, face in her hands — some moments stay with us forever.
+
+  **End title card:** "Some moments take you back forever..." with theme tags: Love | Memory | Time | Always

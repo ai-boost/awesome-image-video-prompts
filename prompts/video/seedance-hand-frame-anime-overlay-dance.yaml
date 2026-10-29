@@ -1,0 +1,39 @@
+id: seedance-hand-frame-anime-overlay-dance
+title:
+  en: Woman dances with anime overlays in hand frames
+  zh: 女孩用手势框起动漫叠层跳舞
+model: Seedance 2.5
+mode: text-to-video
+category: music-dance
+tags:
+- dance
+- anime
+- hand-gestures
+- overlay
+- spider-verse
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2087136847734734939
+  credit: Sairah
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+video: https://x.com/Sairah_0/status/2087136847734734939
+notes:
+  en: Fixing the room, outfit and hair up front keeps the live footage stable, and making frames with the hands cues each overlay. Ordering the styles from anime avatar to Spider Gwen comic gives the clip a clear progression.
+  zh: 开头先固定房间、服装和头发等真实画面，保证实拍部分稳定；双手比出画框的动作作为每次切换叠层的触发点。按动漫头像到蜘蛛女漫画风格的顺序排列，使片段有清晰的先后变化。
+prompt: |
+  Setting: A cozy indoor room with warm, ambient lighting, featuring posters on the wall, a hanging lamp, and modern furniture.
+
+  Subject: A young woman with long dark hair, wearing a gray hooded jacket, performing a rhythmic, choreographed hand and body motion dance in front of the camera.
+
+  Key Visual Effects:
+
+  Animated Framing & Transitions: As she moves her hands to form frames and geometric shapes (triangles, rectangles) in front of her face and upper body, colorful animated overlays appear inside the framed spaces.
+
+  Anime & Superhero Styles:
+
+  The initial overlays display an anime-style digital avatar matching her expressions.
+
+  Midway through, the overlay switches to a Spider-Gwen / Spider-Verse comic style, complete with a hooded mask and neon cityscape backgrounds.
+
+  The animation dynamically shifts and transforms along with her hand movements, smoothly blending back into real life by the end of the clip.

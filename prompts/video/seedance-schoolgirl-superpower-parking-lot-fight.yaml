@@ -1,0 +1,25 @@
+id: seedance-schoolgirl-superpower-parking-lot-fight
+title:
+  en: Schoolgirl unleashes cyan energy against three bullies
+  zh: 女学生觉醒超能力反击三名霸凌者
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- superpower
+- martial-arts
+- school-setting
+- shockwave
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2094749308587540483
+  credit: Zyrellix
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2094749308587540483
+notes:
+  en: The prompt runs as a timeline of beats (setup, knockdown, awakening, ground pound finish), which gives the model a clear order of action. Lighting and camera terms such as fast camera tracking and motion blur set the look.
+  zh: 提示词按时间顺序写成几个节拍（开场、被击倒、觉醒、跳车砸地收尾），让模型清楚动作顺序。快速跟拍、动态模糊等光线和镜头用语决定画面质感。
+prompt: |
+  High-octane action sequence set in a sunny school parking lot between modern parked cars. A female high school student in a blue blazer uniform gets gang-punched and thrown to the ground by three bullies. She slowly rises from the pavement, her eyes igniting with bright cyan glowing energy while a subtle pink energy aura radiates around her body. Cinematic fast-paced hand-to-hand combat, supernatural speed, dynamic acrobatics, and martial arts kicks as she fights off her attackers. She leaps onto a car, performs an explosive superhero ground-pound landing that creates a shockwave sending attackers flying, and ends in a dramatic close-up combat stance. Ultra-realistic cinematic lighting, motion blur, fast camera tracking, 8k resolution, superhero action movie style.

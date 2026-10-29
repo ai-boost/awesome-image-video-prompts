@@ -1,0 +1,24 @@
+id: seedance-chinese-ink-wash-ocean-to-moon
+title:
+  en: Painted deep blue ocean waves in ink wash style
+  zh: 深蓝色水墨水彩风格的海浪
+model: Seedance 2.5
+mode: text-to-video
+category: nature
+tags:
+- ink-wash
+- scene-transition
+- watercolor
+- chinese-painting
+source:
+  name: '@noorwithwifi on X'
+  url: https://x.com/noorwithwifi/status/2101683541629354348
+  credit: NoorAI
+  captured: '2026-10-29'
+  posted: '2026-09-20'
+video: https://x.com/noorwithwifi/status/2101683541629354348
+notes:
+  en: The prompt lists the scene changes in order, from waves to mountains, river, cherry blossoms and moon, so the model treats it as one continuous shot. Style cues such as Chinese ink wash, soft watercolor textures and fluid transitions sit together at the end to set one consistent painting look.
+  zh: 提示词按时间顺序列出每个场景的变化，从海浪、山水、河流、樱花到满月，让模型把它当作一个连续镜头来生成。风格词（水墨、水彩质感、流动转场）集中放在结尾，统一整体画风。
+prompt: |
+  A seamless traditional Chinese ink-wash watercolor animation begins with deep blue ocean waves transforming into misty mountains with a pagoda and stone stairs. Crimson ink clouds sweep across the scene, transitioning to a calm river with a small boat and an autumn-red tree. The red foliage transforms into delicate pink cherry blossoms, with petals drifting around a lone bonsai-like tree on a tiny island. Finally, a glowing full moon rises behind distant mountains, casting a golden reflection across the tranquil water as the scene fades into a peaceful night. Atmospheric, poetic, fluid transitions, elegant Chinese painting aesthetic, soft watercolor textures.

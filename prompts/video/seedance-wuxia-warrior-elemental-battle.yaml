@@ -1,0 +1,24 @@
+id: seedance-wuxia-warrior-elemental-battle
+title:
+  en: Warrior woman spins petal vortex in cherry blossoms
+  zh: 武侠女战士在樱花中旋转花瓣漩涡
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- wuxia
+- martial-arts
+- elemental
+- 3d-animation
+source:
+  name: '@juliaevee on X'
+  url: https://x.com/juliaevee/status/2109460837043708104
+  credit: Julia
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+video: https://x.com/juliaevee/status/2109460837043708104
+notes:
+  en: The prompt lists four named elemental realms in order, each with its own setting and effect, so the model follows it as a shot list rather than one scene. A fixed costume and a single camera direction (smooth tracking, motion blur) keep the character consistent across the cuts.
+  zh: 提示词按顺序列出四个元素场景，每个场景有独立的环境和特效，模型会把它当作分镜表来执行。固定服装和统一的镜头运动（平滑跟拍、动态模糊）使角色在切换中保持一致。
+prompt: |
+  Cinematic 3D animation, Wuxia martial arts epic style. A skilled warrior woman with long dark hair in a high ponytail, wearing an elegant white and teal traditional Chinese robe, wields a glowing energy sword. The video features high-energy combat choreography across dramatic elemental realms: starting in a serene valley of pink cherry blossom trees with swirling petal vortexes; transitioning into a stormy, dark night battle against armored soldiers on water with a massive majestic water dragon surge; shifting to a fiery battlefield under a crimson sunset where a giant blazing phoenix bursts into flames; and moving into a frozen, icy cavern where combatants battle around a colossal glowing crystal lotus flower. Smooth camera tracking, dynamic motion blur, dramatic cinematic lighting, photorealistic textures, 4k resolution, fluent and high-fps movement.

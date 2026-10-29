@@ -1,0 +1,28 @@
+id: seedance-duckling-forest-river-friends
+title:
+  en: Duckling journey down a forest river with animal friends
+  zh: 小鸭子与动物伙伴的森林河流之旅
+model: Seedance 2.5
+mode: text-to-video
+category: animal
+tags:
+- 3d-animation
+- animals
+- multi-shot
+- golden-hour
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2108047742425600244
+  credit: Zyrellix
+  captured: '2026-10-29'
+  posted: '2026-10-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2108047742425600244
+notes:
+  en: The prompt walks through the story as ordered beats, and each beat ends in a clear handoff (the otter catches it, the buck carries it, the fox takes it), which keeps a multi-character sequence readable. The style, lighting and score are set once at the end so every beat shares one look.
+  zh: 提示词把故事写成按顺序排列的多个镜头节拍，每段都以明确的交接动作收尾（水獭接住、公鹿驮着、狐狸接力），让多角色连续剧情保持清晰。风格、光线与配乐只在结尾统一描述一次，使所有镜头共享同一视觉与声音基调。
+prompt: |
+  A sunny forest stream, Pixar-style 3D animation. A small yellow duckling with a brown tuft, big eyes, and orange feet paddles alone through clear water over pebbles, ferns and mossy rocks around it, golden light through the trees.
+  The current picks up. The duckling looks worried as white water rushes past, then an otter bursts up on its back, catches the duckling, and floats downstream with it perched on its belly, both smiling.
+  They reach the bank. A young buck with antlers leans in; the duckling hops onto its antlers, then rides its back as it trots through a sunlit clearing. A red fox with a white-tipped tail runs alongside, and the duckling transfers onto the fox’s head. A gray rabbit joins them on a pebble path and hugs the duckling.
+  The duckling stands alone at a calm pond, then jumps in with a splash, wings out, laughing. On the bank sit the otter, fox, and rabbit, watching. More identical ducklings appear in the water until a whole flock floats together. The three friends smile down at them. Sunset rays flare through the trees, lily pads on the water, warm golden-hour light, soft depth of field, cheerful score.

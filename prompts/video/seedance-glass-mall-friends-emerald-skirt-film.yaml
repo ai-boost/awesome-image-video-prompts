@@ -1,0 +1,26 @@
+id: seedance-glass-mall-friends-emerald-skirt-film
+title:
+  en: Three friends in a glass-roofed luxury mall
+  zh: 三位朋友在玻璃顶奢华购物中心
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- fashion
+- handheld-camera
+- slow-motion
+- shopping
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2108420649467457557
+  credit: AIwithWania
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithWania/status/2108420649467457557
+notes:
+  en: A timed beat sheet gives each segment its own camera direction, from a handheld walk to macro fabric shots and a mirror turn, and a single lock on identity, hairstyle and wardrobe carries through every segment to keep the three women consistent. The closing negative list covering faces, hands and walking helps avoid common distortion.
+  zh: 按时间段拆分的分镜表让每一段都有独立的镜头指令，从手持行走、面料微距到镜前转身，并用统一的人物、发型和服装锁定句贯穿全片，保持三人前后一致。末尾的负面清单针对面部、手部和走路姿态，减少常见变形。
+prompt: "-\n\nThe overall mood should feel editorial, feminine, playful, polished and effortlessly chic — not motivational, not overly commercial, and not artificial.\n\nOpening — 0–5 seconds:\nThree fashionable female friends stroll through an upscale contemporary shopping destination, surrounded by luminous glass architecture, refined boutiques and warm ambient lighting. They exchange amused glances and effortless smiles, moving naturally together. Use an elegant handheld camera with subtle cinematic movement.\n\n5–10 seconds:\nCut into a sophisticated designer-style boutique. One woman slowly browses a rack of luxurious garments while her friends watch, tease her playfully and react with genuine excitement. Include beautiful macro shots of textured fabrics, delicate embellishments, satin, sequins and refined tailoring.\n\n10–17 seconds:\nShow the main woman trying on an elegant fashion ensemble: a sophisticated cream embellished fitted top with a flowing emerald-green floor-length skirt.\
+  \ She emerges from the fitting area, pauses before a large mirror and turns naturally, allowing the skirt to move beautifully. Capture fabric movement, reflections and subtle expressions.\n\n17–23 seconds:\nShow intimate shopping details between the three women: one adjusting an accessory, another holding up a handbag, playful reactions, soft laughter and spontaneous friendship moments. Make the chemistry feel candid rather than staged.\n\n23–30 seconds:\nEnd with the three women leaving the boutique together with elegant shopping bags. The woman wearing the emerald-green skirt walks between her friends. Use a graceful tracking shot followed by a subtle slow-motion moment as the fabric moves while they walk away.\n\nVisual direction: luxury fashion editorial, sophisticated color grading, warm cinematic lighting, realistic skin texture, natural facial expressions, realistic hands, physically accurate fabric movement, shallow depth of field, refined highlights, premium commercial cinematography,\
+  \ subtle lens flare, smooth camera transitions, photorealistic details.\n\nMaintain exact character identity, facial features, hairstyles, body proportions and wardrobe continuity throughout the entire sequence. Keep all three women visually consistent from beginning to end.\n\nAvoid distorted faces, extra fingers, malformed hands, duplicated people, unnatural walking, warped clothing, flickering details, inconsistent hairstyles, floating objects, text, captions, watermarks or logos.\n\nAspect ratio: 16:9 \nDuration: 30 seconds.\nStyle: cinematic luxury fashion film.\n"

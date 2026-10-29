@@ -1,0 +1,24 @@
+id: seedance-apocalyptic-warrior-sphynx-cat-transformation
+title:
+  en: Warrior and Sphynx cat fall onto ruined rooftop
+  zh: 战士与斯芬克斯猫坠落至废墟屋顶
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- apocalyptic
+- armor-transformation
+- sphynx-cat
+- action-scene
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2104086835081416893
+  credit: Avelyrah
+  captured: '2026-10-29'
+  posted: '2026-09-27'
+video: https://x.com/AvelyrahnAI/status/2104086835081416893
+notes:
+  en: The prompt is split into timed beats (fall, landing, armour snap, transformation, charge) so the model follows one action at a time. Concrete cues such as orange energy lines, a hairless Sphynx cat and a tornado backdrop lock in the look.
+  zh: 提示词把动作拆成按顺序的节拍（坠落、落地、护甲合拢、变身、冲锋），让模型一次只跟随一个动作。橙色能量线、无毛斯芬克斯猫和龙卷风背景等具体画面元素，固定了整体风格。
+prompt: |
+  Cinematic 4K shot, a fierce female warrior with long hair and tactical leather gear falling from the sky alongside a hairless Sphynx cat onto a cracked, ruined concrete rooftop in an apocalyptic city with a massive tornado spinning in the background. The warrior lands on one knee, summons glowing golden energy in her palm, and strikes the ground. Intricate sci-fi nano-armor plates instantly snap and wrap around her arms and body, glowing with bright orange energy lines. The small Sphynx cat suddenly transforms into a massive, terrifying horned cybernetic beast. The armored female warrior and the monstrous beast charge forward together, unleashing power against the chaos.

@@ -1,0 +1,32 @@
+id: seedance-ink-wash-swordsman-seal-montage
+title:
+  en: Ink wash swordsman with seal stamp
+  zh: 水墨剑客与角落印章
+model: Seedance 2.5
+mode: reference-to-video
+category: anime
+tags:
+- reference-images
+- multi-cut
+- ink-wash
+- montage
+source:
+  name: '@EZheng66099 on X'
+  url: https://x.com/EZheng66099/status/2090180685902369163
+  credit: EZ
+  captured: '2026-10-29'
+  posted: '2026-08-19'
+video: https://x.com/EZheng66099/status/2090180685902369163
+notes:
+  en: Each reference image gets its own cut, and explicit preserve rules plus a DO NOT list keep faces and outfits from merging. Timed hard cuts, a separate ink color field per cut, and taiko hit sound effects give the montage its rhythm.
+  zh: 每张参考图分配独立镜头，并用逐条保留规则和禁止清单锁定人脸与服装，防止角色融合。按时间码硬切镜头，每镜配独立墨色底与太鼓音效，形成节奏。
+prompt: |
+  Create a fast-paced 5-second 2D Chinese anime (guoman) character introduction montage using the three supplied reference images.
+  IMPORTANT: @Image1, @Image2, @Image3 are three completely different characters. Preserve each character's exact face, hairstyle, skin tone, outfit, body type, and accessories from their corresponding reference image. Never merge, morph, blend, or exchange their identities. Show only one character at a time.
+  Background device: each character gets a distinct ink-wash color field (indigo / vermilion / pine green) with flying brush-stroke particles, and a name-seal stamping into the corner.
+  CUT 01 | 0.0-1.6s - @Image1 snaps in from a whip-pan blur, hero pose, face 40% of frame height, indigo ink field, seal stamps top-right.
+  CUT 02 | 1.6-3.2s - Hard cut. @Image2 slides in on diagonal speed-lines, vermilion field, seal stamps on the left.
+  CUT 03 | 3.2-5.0s - Hard cut. @Image3 lands from above with an impact frame and screen shake, pine-green field; all three seals align along the bottom; hold the end frame.
+  Camera: fast push-ins only. No wide full-body distant shots; faces stay 35-50% of frame height.
+  Audio: three taiko-style percussion hits + ink-splash SFX on each cut.
+  DO NOT: identity morph, two characters in one frame, redesigned outfits, western comic style, any readable text other than the seals.

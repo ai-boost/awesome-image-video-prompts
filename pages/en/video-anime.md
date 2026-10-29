@@ -1,6 +1,6 @@
 # Anime and animation
 
-[Back to the list](../../README.md) · All 32 entries
+[Back to the list](../../README.md) · All 56 entries
 
 <a id="seedance-katsudon-anime-cooking"></a>
 ### Katsudon cooked in fast-cut anime style
@@ -497,6 +497,66 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and vibrant, st
 
 </details>
 
+<a id="h3-anime-opening-three-swordswomen"></a>
+### Three swordswomen in a crimson anime title sequence
+
+<a href="https://x.com/aimikoda/status/2083611951003734471"><img src="../../previews/h3-anime-opening-three-swordswomen.jpg" width="360"></a>
+
+Each character gets her own reference image so faces, hair and outfits stay locked, and one audio track sets the timing of every cut. A timed shot list with a rule against repeating a character in the same frame keeps the ensemble shot clean and readable.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2083611951003734471) · 224 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`anime`](tags.md#tag-anime) [`opening-title`](tags.md#tag-opening-title) [`multi-reference`](tags.md#tag-multi-reference) [`audio-sync`](tags.md#tag-audio-sync) [`swordswomen`](tags.md#tag-swordswomen)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a fast-paced 15-second, 16:9 anime opening-title sequence for an original series titled “MINIMAX.” Use Image1, Image2, Image3 as the overall visual, ensemble and color-style references. Use Image4 for the pink-haired swordswoman, Image5 for the red-haired swordswoman and Image6 for the black-haired swordswoman. Preserve each character’s face, hairstyle, outfit, proportions, colors and weapon design.
+
+Use the supplied audio Audio1 as the exact timing reference. Synchronize every cut, character action, camera movement, graphic transition and title reveal to its beats, accents, fills, rises and final hit. Do not create a separate soundtrack. Add only subtle sword swishes, cloth movement and transition impacts under the reference audio.
+
+VISUAL STYLE
+
+A real high-energy anime opening combined with premium motion graphics. Use black, crimson, wine red, dusty pink, pale ivory and cool gray-blue. Combine angular split screens, diagonal masks, torn-paper shapes, manga-style framing, ink textures, petals, crimson moon forms, torii silhouettes, temple rooftops and sharp graphic lines.
+
+Keep the sequence kinetic and animated, not a slideshow. Characters must run, turn, pivot, slide, draw their swords, change stance and react to momentum. Hair and clothing must remain in motion. Use tracking shots, whip pans, rapid push-ins, low angles and short camera orbits.
+
+Never show multiple copies of the same character in one shot. A shot may feature one character alone or all three together naturally. No clone effects, repeated character fragments or layered duplicates.
+
+SEQUENCE FLOW
+
+[0.0–1.5s]
+Open instantly on the first beat. A crimson line cuts through black as petals and white fragments burst outward. Pink, red and black graphic panels snap into place while a crimson moon quickly assembles in the background.
+
+[1.5–4.3s]
+Feature the pink-haired swordswoman alone. She runs into frame, plants one foot, turns and draws her katana in one continuous agile motion. Track beside her, then push toward her face. Cut between her eye, hand, blade and full-body movement on the audio accents. Use pink petals, red lines and diagonal panel cuts.
+
+[4.3–7.2s]
+Switch to the red-haired swordswoman on a strong musical hit. Use a low-angle tracking shot as she moves forward, pivots and performs one powerful controlled sword motion. Her long hair and garments sweep with momentum. Place a large crimson sun disc behind her while black-red panels strike into frame on the heavier beats.
+
+[7.2–10.2s]
+Feature the black-haired swordswoman alone. Begin with a moving close-up of her crescent earring and eyes, then orbit around her as she turns, changes stance and redirects her blade. Keep her hair and sleeves flowing. Use dark negative space, moon-shaped masks and precise cuts synchronized to smaller rhythmic details.
+
+[10.2–12.7s]
+At the main musical peak, reveal all three characters together in one shared scene. They enter through real movement and form a strong triangular composition. Use a fast camera push or short orbit as the crimson moon, torii silhouette, petals and graphic debris align behind them. Show each character only once.
+
+[12.7–15.0s]
+During the final phrase, alternate between very short moving close-ups of the three characters, one character per shot. Show an eye turn, hand gripping a sword, flowing hair or a blade catching light. On the final major hit, reveal the title “MINIMAX” through sharp diagonal masks, sword-line wipes and fractured graphic panels.
+
+End on a clean ensemble composition with all three characters together. Keep subtle motion in their hair, clothing, petals and light reflections.
+
+TRANSITIONS
+Use beat-synchronized slash cuts, angular panel snaps, moon-mask wipes, petal streaks, torn-paper shutters, ink-impact cuts, foreground wipes and oversized title masks. No soft dissolves, slow fades, liquid morphing or random transitions.
+
+TYPOGRAPHY
+Use only the title “MINIMAX.” Keep it sharp, elegant, premium and fully readable. No credits, extra text, random symbols or broken lettering.
+
+FINAL RESULT
+A fast, polished and rhythmically precise anime opening with expressive character motion, strong graphic editing, strict visual consistency and no duplicated characters within the same shot.
+```
+
+</details>
+
 <a id="h3-kids-counting-morphing-numbers-educational"></a>
 ### Kids Counting Video With Morphing Numbers
 
@@ -945,6 +1005,607 @@ At 13 seconds, one Eurasian wren song — sudden, intricate and far louder than 
 
 </details>
 
+<a id="h3-purple-anime-poster-assembles-layers"></a>
+### Purple anime poster assembles layer by layer
+
+<a href="https://x.com/LudovicCreator/status/2084519725405483220"><img src="../../previews/h3-purple-anime-poster-assembles-layers.jpg" width="360"></a>
+
+The prompt builds the scene in a fixed order, border first, then labels, then the world layers, then the hero, and pairs each reveal with a named sound cue. A preservation clause (exact layout, same text, no redesign) keeps the source poster intact while the motion is added.
+
+MiniMax H3 · Image-to-video · Source: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2084519725405483220) · 45 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`poster-animation`](tags.md#tag-poster-animation) [`chibi-anime`](tags.md#tag-chibi-anime) [`sound-design`](tags.md#tag-sound-design) [`parallax`](tags.md#tag-parallax)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Animate the source artwork as a **10-second energetic chibi anime poster assembly**, preserving the deep indigo-purple background, neon pink, cyan and yellow palette, glossy anime illustration, characters, typography, decorative border and exact original layout. Begin on the empty purple background, then draw the outer border and corner markers with quick glowing strokes; introduce the small labels, Japanese text, numbering and interface graphics through playful pop-ins, slides and type-on animation, each paired with light arcade clicks, bubbly typing sounds and soft digital chimes.
+
+Build the central world in layers: floating islands rise into position, clouds expand outward, the moon fades in, towers and airships drift into place, and sparkles scatter across the scene. Assemble the chibi robot and flying cat with quick bouncy entrances, then launch the main hero from deep inside the poster toward the camera with strong 3D parallax, allowing his shoe, hand and hair to briefly extend beyond the inner frame before settling into the original composition.
+
+Reveal the Japanese title with a bold elastic impact, followed by the English labels, release date, IMAX line and footer icons appearing sequentially. Add subtle looping life after assembly: blinking eyes, gently moving hair and clothing, small robot antenna motion, the cat’s tail bouncing, airships floating, clouds drifting and stars twinkling. Finish with a soft camera push-in, one bright starburst behind the title and a clean hold on the completed poster, keeping every element sharp and readable. No redesign, no distorted faces, no changing text, no full scene transformation, no aggressive camera rotation.
+2/2
+```
+
+</details>
+
+<a id="h3-anime-host-neon-stage-intro"></a>
+### Pink haired anime host on neon stage
+
+<a href="https://x.com/SSSS_CRYPTOMAN/status/2093821064631771446"><img src="../../previews/h3-anime-host-neon-stage-intro.jpg" width="360"></a>
+
+Putting the character, the on screen headline and the spoken Japanese line in one prompt gives the model a single clear scene to animate. Asking for exaggerated gestures sets the energy of the performance.
+
+MiniMax H3 · Text-to-video · Source: [@SSSS_CRYPTOMAN on X](https://x.com/SSSS_CRYPTOMAN/status/2093821064631771446) · 40 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`anime`](tags.md#tag-anime) [`japanese-dialogue`](tags.md#tag-japanese-dialogue) [`motion-graphics`](tags.md#tag-motion-graphics) [`neon`](tags.md#tag-neon)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+日本の可愛い美少女アニメキャラクターがMiniMax H3 Maxの紹介をするショート映像。「MiniMax H3 Maxが無料で使える！」という文字をインパクトのあるモーショングラフィックで表現。女の子は大げさなモーションで、日本語で短い台詞を喋る
+```
+
+</details>
+
+<a id="h3-anime-pair-scare-popcorn-blush"></a>
+### Anime pair jumps at scare, then blushes
+
+<a href="https://x.com/MayorKingAI/status/2107531471103938945"><img src="../../previews/h3-anime-pair-scare-popcorn-blush.jpg" width="360"></a>
+
+The prompt fixes the shot count, timestamps and hard cuts up front, and states that subtitles are burned in as on-screen text only and never spoken. It defines the exaggerated gag faces as a temporary state that returns to the normal face, and repeats the same hair, wardrobe and single TV light in every shot so the characters stay consistent across cuts.
+
+MiniMax H3 · Text-to-video · Source: [@MayorKingAI on X](https://x.com/MayorKingAI/status/2107531471103938945) · 40 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`anime`](tags.md#tag-anime) [`multi-shot`](tags.md#tag-multi-shot) [`sound-design`](tags.md#tag-sound-design) [`subtitles`](tags.md#tag-subtitles)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+2D anime | romantic comedy | cel-shaded, clean line art, dark blue night palette.
+Multishot, 6 shots. Cuts only at the specified points.
+
+CHARACTERS
+HANA: wavy shoulder-length dark red hair, oversized gray cardigan with one button missing, a bandage on her index finger. 160 cm.
+YUTO: neat black hair with a small bed-head tuft at the back, navy hoodie with a pilled sleeve, glasses pushed up on his forehead. 178 cm.
+
+LOCATION
+Dark living room at night. They share one sofa under a single fleece blanket. A TV off-frame in front of them is the only light source, flickering blue on their faces. A bowl of popcorn between them.
+
+SUBTITLES
+Spoken dialogue is in Japanese. English subtitles are burned into the image as on-screen text only — they are never spoken aloud. Style: white sans-serif, thin black outline, one single line, bottom center of frame, 8% from the bottom edge. Each subtitle appears with its line and disappears at the cut. Subtitle text is shown inside 【】 brackets below; the brackets themselves are not displayed.
+
+Shot 1 (0–2.5s) — Medium front shot of both, FOV 47, static.
+Hana sits upright, arms crossed, smug smile, chin raised. Yuto beside her grips a cushion with both hands, already tense.
+Hana (spoken, Japanese): 「全然怖くないし。」
+On-screen subtitle: 【I'm not scared at all.】
+HARD CUT
+
+Shot 2 (2.5–5s) — Close-up on Yuto, FOV 29, slow push-in ending on his eyes.
+His pupils shrink to tiny dots, a vertical column of blue shade lines drops over his upper face, sweat drop on his temple. He swallows, the cushion squeezed flat. No subtitle in this shot.
+HARD CUT
+
+Shot 3 (5–8s) — Medium front shot, FOV 47, static.
+A violent white flash from the TV and a loud sting. Both jump. Clear gag faces: mouths huge and wavy, eyes white, hair standing in spikes. The popcorn bowl flips and popcorn bursts upward like confetti. Two small white ghost-shaped souls slip out of their open mouths.
+Hana and Yuto (spoken, Japanese): 「ぎゃああああっ！」
+On-screen subtitle: 【AAAAAAH!】
+HARD CUT
+
+Shot 4 (8–10.5s) — Wide shot, FOV 63, static.
+They are clutching each other tightly, trembling, their outlines drawn with shaky wobbling lines. Popcorn rains down on them. The souls drift back into their mouths. No subtitle in this shot.
+HARD CUT
+
+Shot 5 (10.5–13s) — Two-shot close-up, profile, FOV 29, static.
+Silence. They slowly realize how close they are, faces a hand apart. Both blush deep red at the same time. A tiny comic sparkle pops between them. They let go and shuffle apart in short jerky movements. No subtitle in this shot.
+HARD CUT
+
+Shot 6 (13–15s) — Close-up on Hana, three-quarter front, FOV 29, static.
+Normal detailed anime face: cheeks red, eyes sliding sideways, lips pouting. One popcorn kernel stuck in her hair.
+Hana (spoken, Japanese): 「…今のはノーカン。」
+On-screen subtitle: 【...That one doesn't count.】
+She pulls the blanket up over her nose. End on her eyes peeking above the blanket.
+
+LIGHTING
+Only light source is the off-frame TV: flickering cool blue 8500K, with a single white flash in shot 3. Deep shadows in the room.
+
+Sound: No score. Production audio only — faint TV dialogue murmur, a sharp horror sting, popcorn scattering, fabric rustle, double scream, then near silence and a soft blanket rustle. All voices in Japanese only.
+
+Characters keep the same face, hair and wardrobe in every shot. Gag faces are clear, exaggerated super-deformed expressions, then return to the normal detailed anime face. Clean consistent line art, consistent lighting between shots. Subtitles stay in the same position, size and style in every shot, spelled exactly as written. The room contains only the sofa, the blanket and the popcorn bowl.
+```
+
+</details>
+
+<a id="h3-glowing-cord-reel-samurai-duo"></a>
+### Glowing cord binds one samurai, reel snaps back
+
+<a href="https://x.com/tokyo_Valentine/status/2102267666694341084"><img src="../../previews/h3-glowing-cord-reel-samurai-duo.jpg" width="360"></a>
+
+Subject definitions bind each reference picture to a named role, and a voice timbre reference supplies vocal identity without copying words. Timestamped shots with explicit hand, scale and sound cues keep the cord, reel and equal height consistent across cuts.
+
+MiniMax H3 · Reference-to-video · Source: [@tokyo_Valentine on X](https://x.com/tokyo_Valentine/status/2102267666694341084) · 33 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`anime`](tags.md#tag-anime) [`multi-shot`](tags.md#tag-multi-shot) [`audio-reference`](tags.md#tag-audio-reference) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+subject_definitions:
+<Subject 1> is A from <Picture 1>, the boastful caster.
+<Subject 2> is B from <Picture 2>, who calmly releases the binding.
+Preserve both identities, faces, hair, costumes, accessories and art styles. Scale their complete designs to equal standing height, maintaining each character's internal proportions.
+<Audio 1> is the voice-timbre reference for <Subject 1> (S1). Reference its vocal identity and pitch range, not its recorded words.
+summary:
+[reference generation + audio reference] A 15-second Japanese 2D anime comedy. A binds B with a glowing cord connected to a retractable reel in A's hand. B presses its button. The cord rewinds, and its end tab lightly taps A's finger. End on A's silent, stunned face. Use the selected aspect ratio.
+retention_analysis:
+<Subject 1> (Shots 1-4): fully_preserved - retain identity and design at the established equal-height scale, with new actions.
+<Subject 2> (Shots 1-3): fully_preserved - retain identity and design at the same standing height as A.
+<Audio 1>: reference - voice timbre for A's opening line only.
+Reference images provide character identity and style only, not poses, backgrounds or relative size.
+detailed_description:
+Hand-drawn 2D anime, clean lines, cel shading, fluid animation. Exactly two characters in a level stone courtyard in warm daylight.
+A and B have equal standing height, measured from soles to skull tops, excluding ornaments. Neither grows or shrinks between shots. Establish both full bodies at the same distance from a level camera, feet on the same ground line and skull tops aligned. Preserve this scale during movement and close-ups. B must not appear taller or larger overall.
+
+One palm-sized black-and-yellow retractable measuring reel has one large top button, one outlet and a golden cord ending in a small rounded tab. A holds it in her LEFT hand for the entire video. B touches only the button with her RIGHT index finger. The reel is never transferred or duplicated. No readable markings.
+[Shot 1] A full-body two-shot shows <Subject 1> screen-left and <Subject 2> screen-right, facing each other about one meter apart. Both stand upright at equal depth, visibly the same height. A holds the reel at waist level in her left hand and gestures with her right. The glowing cord winds three separate turns around B's lower torso. B's arms, hands, neck and legs remain free. Show the strand connecting the loops to A's reel.
+
+From 0.3 to 2.8 seconds, <Subject 1> (S1) proudly declares using the voice timbre of <Audio 1>, [Japanese] このいとからは、にげられない! Synchronize A's lips, then close them. A magical whoosh accompanies the binding. By four seconds, the glow fades enough to reveal the physical cord. A smiles smugly. B follows the cord with her eyes toward the reel.
+[Shot 2] At 00:04.500, cut to a level medium two-shot showing both faces, B's right hand and A's left hand holding the reel. Keep their equal body scale. B takes one small sideways step toward A, not toward the filming camera. The connecting strand slackens. A keeps holding the reel with its button facing up. At about six seconds, B presses the button once with her right index finger. A dry click sounds. B withdraws her hand immediately. A's left index finger rests beside the outlet. Music stops at the click.
+[Shot 3] At 00:06.500, cut to a steady medium shot including B's torso and A's reel. The spring pulls the cord into the outlet with a mechanical whirr. Show all three turns unwinding around B's costume in sequence. The strand stays continuous; it does not dissolve, break or pass through her body. B stands still with hands clear. The reel stays in A's left hand.
+After the last loop clears B, the remaining length retracts. Keep A's reel and the returning tab visible. At about ten seconds, the rounded tab lightly clips A's left index finger beside the outlet with one plastic tick, then rests against the reel. The cord is fully retracted. A flinches silently. No wound, violent whipping or collision between characters.
+[Shot 4] At 00:11.500, cut to a medium close-up of <Subject 1>'s face and hands. Her left palm still holds the reel; her right hand gently holds the tapped left index finger. Her smile vanishes. Eyes widen, pupils become small, eyebrows rise. Her lips part once and remain still. She looks toward B with her familiar stunned, uncomprehending expression. No blush, crying or exaggerated pain. Slowly push in, keeping the held finger near the frame's bottom. Hold the final full second. End directly on A.
+
+overall_soundscape:
+Faint courtyard wind, one magical whoosh, one footstep, one button click, a rewind whirr and one plastic tick. A speaks only the sentence in Shot 1. B is completely silent. After three seconds, no speech, gasps, grunts, screams, laughter or vocal breaths. If B's voice reference is attached, leave it unused. No narration or additional voices.
+non_diegetic_music:
+Solemn low strings and restrained percussion during the opening. Stop at the button click. Keep the rewind and tap clearly audible, then only faint ambience. No choir, comedy sting or canned laughter.
+
+No text, subtitles, logos, watermarks, HUD, photorealism, 3D look, chibi, extra people, extra limbs, fused hands, costume changes or changing character scale.
+```
+
+</details>
+
+<a id="h3-cat-eared-chef-fried-rice-serve"></a>
+### Cat eared chef cooks fried rice and serves
+
+<a href="https://x.com/IsekaiBardGuild/status/2096577196915900712"><img src="../../previews/h3-cat-eared-chef-fried-rice-serve.jpg" width="360"></a>
+
+Each shot is timestamped, and the reference image locks the character's appearance and outfit across cuts. The plate transfer is written as a required uninterrupted action so the model cannot skip it.
+
+MiniMax H3 · Reference-to-video · Source: [@IsekaiBardGuild on X](https://x.com/IsekaiBardGuild/status/2096577196915900712) · 26 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`cooking`](tags.md#tag-cooking) [`character-consistency`](tags.md#tag-character-consistency) [`multi-shot`](tags.md#tag-multi-shot) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] High-quality Japanese anime style, 2D illustration with cel-shading. (S1) is a character showen in the <Picture 1>. The camera cuts to a medium shot of the same character (S1), maintaining (S1)'s  exact appearance and outfit from <Picture 1>, now standing in a vibrant Chinese restaurant kitchen. (S1) is positioned before a large wok on a powerful burner, surrounded by rising steam, hanging menu boards with illegible characters, and warm red and gold lighting. S1 begins to cook fried rice with focused, energetic movements. [Shot 2] At 00:04.500, the camera cuts to a series of rapid, cinematic close-ups. First, a tight shot of S1's determined eyes, then a shot of (S1)'s  hands skillfully tossing the wok. The camera pushes in with small amplitude at fast speed as (S1) exerts force to flip the rice, causing a few grains to dance in the air. A sudden burst of orange flame from the burner illuminates (S1)'s  face. Tiny beads of sweat form on (S1)'s  cheeks; (S1) briefly wipes (S1)'s  brow with (S1)'s  forearm without stopping (S1)'s  rhythmic stirring. [Shot 3] From 00:10.500 to 00:13.000, show the complete transfer of fried rice FROM THE WOK INTO AN EMPTY CERAMIC PLATE in one uninterrupted close medium shot. Both the wok and the empty plate must be clearly visible together. S1 holds the wok above the plate, visibly tilts its rim down toward the plate, and uses the spatula to slide and scrape the cooked fried rice out of the wok. Show the rice physically falling from the rim of the wok and accumulating into a mound on the plate. The plate starts empty and becomes filled on camera. Do not cut away, skip this action, or show an already-filled plate in its place. Only AFTER the rice has been transferred completely, from 00:13.000 to 00:15.000, S1 sets the wok down, lifts the filled plate, moves to the counter, and extends it toward a customer. The camera pans right with small amplitude at slow speed to follow the serving action. S1's expression shifts from intense concentration to a sincere, tired but happy smile, (S1)'s  chest heaving slightly from the effort. The customer's hand enters the frame to accept the plate. S1 gives a small, proud nod of satisfaction, (S1)'s  eyes shimmering with relief and accomplishment under the warm glow of the kitchen lights.
+
+overall_soundscape: The environment is filled with the rhythmic, metallic clanking of a spatula against a wok. Constant sizzling of rice and oil blends with the sudden, low-frequency "whoosh" of the burner's flames. The soft hiss of rising steam and the final, clean "clink" of a ceramic plate being placed on a wooden counter complete the atmosphere.
+
+non_diegetic_music: An upbeat, heartwarming orchestral track with a fast tempo, featuring playful pizzicato strings and a bright flute melody that swells emotionally toward the end to emphasize a sense of accomplishment.
+```
+
+</details>
+
+<a id="h3-gothic-library-mirror-door-reveal"></a>
+### Girl in gothic library sees reflected door open
+
+<a href="https://x.com/haruuraeadss/status/2084910486362247434"><img src="../../previews/h3-gothic-library-mirror-door-reveal.jpg" width="360"></a>
+
+Face and costume reference images with a fixed priority order keep the character identical across every shot. A hard cut to a split frame and a camera that moves from extreme close-up to corridor wide shot make the reflected door anomaly easy to read.
+
+MiniMax H3 · Reference-to-video · Source: [@haruuraeadss on X](https://x.com/haruuraeadss/status/2084910486362247434) · 24 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`title-sequence`](tags.md#tag-title-sequence) [`reference-images`](tags.md#tag-reference-images) [`character-consistency`](tags.md#tag-character-consistency) [`toon-render`](tags.md#tag-toon-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+高品質アニメ映像。
+
+作品ジャンルは、プレミアム3Dトゥーン／セルルックで描くダークファンタジー探索ゲームの魔法ミステリー・タイトルシークエンス。黒いネガティブスペース、非対称分割、細い銀青フレーム、硬い幾何学マスクで構成する。恐怖や悲劇ではなく、冷静で上品な緊張感。主人公は全編で一人だけ。顔演技は、目、眉、まぶた、口元、視線の順に小さく変化させる。
+
+参照役割を厳密に分離する。Image1は顔参照であり、顔とキャラクター同一性の最優先参照。Image2は衣装参照であり、衣装・装飾・全身デザイン・体格・刀と装備の参照。優先順位は、顔立ち、目、虹彩色、眉、口元、髪型、髪色、前髪、顔まわりの色はImage1、衣装構造、身体シルエット、装飾、装備はImage2。参照内容が食い違う場合もこの優先順位を守る。Image2内の文字、レイアウト、背景、ポーズ見本、表情一覧、小さな顔バリエーションは参照しない。
+
+キャラクター固定：全カットで同一人物。小さく繊細な卵形の顔、柔らかな顎線、淡い肌、透明感のある大きなサファイアブルーの瞳、奥行きのある多層虹彩、左右それぞれの小さな複数キャッチライト、細い上まつ毛、自然な下まつ毛を維持する。白銀にごく淡い青紫を含む長い髪、柔らかな薄い前髪、顔沿いの細い横髪、腰まで流れる豊かなウェーブを維持する。頭の左側には、青い薔薇と黒青の蝶翅、青い雫飾りが一体になった髪飾り一組だけを固定し、飛び去らせず、実在の蝶へ変えず、複製しない。
+
+Image2の黒紺を基調にした高密度ゴシック衣装を維持する。繊細な黒レースのハイネックと透け袖、青い胸元宝石、銀の細鎖、青いサテンリボン、非対称の多層スカート、黒いブーツ、細身で小柄な約7.5頭身のシルエットを固定する。全カットで顔、目、髪、衣装、体格、装飾、固有配色を変えない。変化してよいのは、表情、視線、呼吸、歩行姿勢、髪・レース・リボンの自然な遅れだけ。特徴混合、顔の平均化、衣装交換、別人化、分身、クローン、余計な人物を生じさせない。
+
+能動装備として主人公が所有する刀は全編で刀一本だけ。開始時から左腰の鞘へ完全に納まり、黒紺の鞘、鍔、柄、銀の鎖飾り、青い房を一続きの同じ構造で保つ。開始時、右手は柄のすぐ横で開いている。途中で黒い手袋の右手が柄だけへ静かに触れ、鍔が手と鞘側を明確に分離したまま指を締める。刀身は一度も抜かず、最終画でも刀一本のまま完全に納刀され、右手は柄に静止する。二刀流、刀の複製、柄・鍔・鞘の分離、刃を握る手を出さない。
+
+レンダリング固定：全編で3Dトゥーン／セルルックの一系統だけ。細く制御された濃紺とチャコールの色線、二段から三段の明快なトゥーン影と透明な中間グラデーション、白銀・深紺・ロイヤルブルー・銀を主役にした澄んだ高彩度パレットを維持する。瞳と髪には多層ハイライト、金属と青い結晶には局所的で鋭い反射を置く。肌は柔らかなマット、髪は絹、レースは繊細な半透明、サテンは抑えた光沢、革は低光沢、銀金属は硬質、結晶は多面反射、濡れた石床は深い鏡面として描き分ける。顔、髪飾り、衣装、刀、建築まで高密度。キーライトと影色はキャラクター固有色を優先し、青い環境光は補助に限定し、背景は主役より抑えた低彩度の青黒にする。太い輪郭、平坦な単層セル影、汎用3D美少女顔、滑らかなプラスチックCG、低密度背景、半写実、写実、くすんだ人物色、画風混合にしない。
+
+舞台は月光の差す青黒いゴシック書庫回廊。奥に閉じた一枚の高いアーチ扉、床に磨かれた黒い石、側面に青いステンドグラス光、石のリブと書架の細部が続く。建築は石、木、ガラスだけで成立させ、キャラクター固有の薔薇、宝石、鎖、蝶飾りを柱や壁へ複製しない。唯一の異常は、現実の扉が閉じたままなのに、床の鏡面反射の中だけ同じ扉が青い奥行きへ開いていること。カメラは狭い顔極近景から回廊の広い中景へスケールを変え、胸上近景へ戻る。各移動の目的は、扉と反射の食い違い、右手と刀の状態、回廊の奥行き、表情の理解、タイトル余白を順に読ませること。終端空間は同じ回廊の閉じた扉前で、別の場所へ移らない。
+
+黒から一度だけ硬く切り替える。大きな主パネルでは、カメラは少女の左斜め前、目線の高さ、顔の極近景。両目、鼻筋、口元、輪郭、髪飾りを一続きに見せ、顔へ枠線を重ねない。画面右下の細い副パネルでは、正面の閉じたアーチ扉と、その真下で既に開いている床反射を同時に見せ、異常を一目で比較できる。少女の瞳が静かに下へ動き、反射の異常を捉える。反射内のアーチ輪郭が硬い円弧マスクへ拡大し、次の画へ切り替える。
+
+高い斜め上から濡れた黒石床へ寄り、上側に現実の閉じた扉、下側に開いた反射扉を同じ奥行き軸で保つ。反射の青い縁から一本の細い光線が床を走り、胸元の青い宝石の輪郭へ連続する。その円弧を境に細いタイルが非対称に組み替わり、宝石の近景、右手と柄の近景、鞘の青い象嵌を順に見せる。各タイルの縁は顔を横切らない。右手が柄へ触れた瞬間だけ黒革の小さな擦れ、銀鎖の短い硬質な触れ音、レースの微かな衣擦れを同期させる。刀は完全に鞘の中へ残す。
+
+鞘の長い直線を硬いラインスライスとして、回廊の中景へ切り替える。カメラは少女の後方左、胸の高さから斜め前へ追従し、少女を中景以上に保ちながら、書架と石柱の背景消失軸を奥の閉じた扉へ集める。少女が閉じた扉へ一歩ずつ進むたび、濡れた石床へ乾いた靴音が一回ずつ響き、開いた反射扉だけが視線の先を滑る。足元につながった一つの長い影が床を横切り、その影の端を硬いワイプとして次へ渡す。影を別人や分身にしない。
+
+影ワイプの後、扉の縦辺を硬いマスクにして、少女の右斜め前、目線よりわずかに低い胸上近景へ戻る。カメラは短く静かに寄り、表情を、目が異常を認識する、眉がごくわずかに締まる、まぶたが静かに細くなる、口元が冷静な決意へ整う、視線が現実の閉じた扉へ上がる、の順で読ませる。無表情の人形顔、恐怖、パニックにせず、瞳の層と小さなキャッチライトを保つ。右手は柄を握るが抜刀せず、青い鞘の縁が一度だけ画面を横切る硬いラインマスクになる。
+
+重要な禁止：顔を分断する太い格子、顔中央の光点や光線、巨大な蝶の接写、実在昆虫のマクロ、軟らかいディゾルブ、流体モーフ、ホラー、流血、重複タイトル、誤字、擬似文字、字幕、透かし。
+
+音楽は既存曲を模倣しない完全オリジナル。低いドローンと張り詰めた細いハイハットから始め、低いキック、断片的なウォーキングベース、短いバリトンサックスと切ったブラスへ冷静に展開する。終盤は緊張和音とドラム一打だけに絞り、その低い残響をタイトル保持へ残す。反射扉が開いて見える瞬間には透明な結晶エネルギーの短い共鳴、歩行には濡れた石床へ接するブーツの乾いた靴音、右手を柄に置く瞬間には黒革の軋み、銀鎖が一度だけ小さく鳴る音、布擦れをそれぞれ同期する。現実の木扉は動かないので開閉音を出さない。台詞、ナレーション、歌唱なし。
+
+最終画は静かな余韻とモチーフ回帰。カメラは正面より少し左、目線の高さの胸上構図。少女を画面左へ置き、反対側の余白をタイトル専用にする。右手は柄に静止し、刀一本は左腰で完全に納刀、現実の扉は閉じたまま、床反射の扉だけが開いた青い奥行きで停止する。少女は閉じた扉の方向へ視線を固定し、呼吸と毛先とレースだけがごく小さく動く。右側へ正確に「MOONLIT BLUE BUTTERFLY」を一度だけ表示し、その下へ「COMING SOON」を一度だけ表示する。完成したタイトルプレートを固定して保持し、新しい人物、蝶、小物、文字を入れない。緊張和音とドラム一打の低い残響が完全に消える正確なフレームで黒へハードカットする。
+```
+
+</details>
+
+<a id="h3-manga-man-city-street-camera"></a>
+### Manga man with phone on city street
+
+<a href="https://x.com/ThannosSnaps/status/2101645036001657226"><img src="../../previews/h3-manga-man-city-street-camera.jpg" width="360"></a>
+
+The one-line instruction works because the source manga image already fixes the character, art style and setting, so the model only has to choose motion and camera moves. The reference image anchors the look while the model handles the shot design.
+
+MiniMax H3 · Image-to-video · Source: [@ThannosSnaps on X](https://x.com/ThannosSnaps/status/2101645036001657226) · 23 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`manga`](tags.md#tag-manga) [`minimal-prompt`](tags.md#tag-minimal-prompt) [`camera-moves`](tags.md#tag-camera-moves) [`city`](tags.md#tag-city)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Bring it to life in a hooking manner with the camera angles.
+```
+
+</details>
+
+<a id="h3-man-eagle-head-park-bench"></a>
+### Hand drawn man startled by tiny flag eagle
+
+<a href="https://x.com/1littlecoder/status/2102106915635601452"><img src="../../previews/h3-man-eagle-head-park-bench.jpg" width="360"></a>
+
+The reference portrait is locked as the first frame through the #Image1 token, and a locked medium shot keeps the framing still so the expression and motion carry the comedy. The hand drawn motion cue sets the style, and the beat by beat action from surprise to screaming and running gives the 5 second clip a clear arc.
+
+MiniMax H3 · Image-to-video · Source: [@1littlecoder on X](https://x.com/1littlecoder/status/2102106915635601452) · 21 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`hand-drawn`](tags.md#tag-hand-drawn) [`reference-image`](tags.md#tag-reference-image) [`locked-shot`](tags.md#tag-locked-shot) [`comedy`](tags.md#tag-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A man #Image1  sits on a park bench. His neck stretches upward in surprise as a tiny eagle with USA Flag on its body lands on his head. Medium locked shot, expressive hand-drawn motion. He starts screaming and running!
+```
+
+</details>
+
+<a id="h3-rpg-grimoire-customization-intro"></a>
+### Anime heroine customizes grimoire in RPG menu
+
+<a href="https://x.com/haruuraeadss/status/2083768289612947872"><img src="../../previews/h3-rpg-grimoire-customization-intro.jpg" width="360"></a>
+
+The prompt opens with a reference-image rule that keeps identity traits such as face, hair, outfit and weapon while excluding the reference background and framing, then locks the single grimoire to prevent duplicates. Each beat lists UI elements in the order they appear, so the menu flow stays readable and sequenced.
+
+MiniMax H3 · Reference-to-video · Source: [@haruuraeadss on X](https://x.com/haruuraeadss/status/2083768289612947872) · 21 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`rpg`](tags.md#tag-rpg) [`game-ui`](tags.md#tag-game-ui) [`anime`](tags.md#tag-anime) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+高品質アニメ映像。
+
+星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シーン。装備設定から街への出発までを、一切途切れないゲーム内カメラで描く。表情が変わる場面は、最初に目、次に眉、続けてまぶた、口元、最後に視線の順で変化する。
+
+【キャラクター参照】
+
+画像1のキャラクターを全編の唯一の主人公として参照し、同一人物として維持する。
+
+画像1は人物設計専用の参照画像とし、顔、目の形、虹彩色、瞳の特徴、髪型、髪色、前髪、衣装、装飾、武器装飾、小物、体格、シルエット、年齢感、雰囲気、キャラクターカラーのみを参照する。
+
+画像1そのものの背景、部屋、家具、ポーズ、画角、フレーミング、文字、レイアウトは再現しない。
+
+表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れのみ変化してよい。
+
+特徴の混合、顔の平均化、衣装交換、別人化、クローン化、余分な主人公の追加は禁止。
+
+【キャラクター固定】
+
+主人公は全編で一人のみ。
+
+顔、髪型、衣装、装飾、小物、武器、体格、シルエット、キャラクターカラーを維持する。
+
+武器は全編で一冊だけ存在する魔導書とし、画像1に合わせた材質・色・装飾・デザインを維持する。
+
+開始時は左腰へ装備され、カスタマイズ時のみ左手上へ浮遊し、終了後は左腰へ戻る。
+
+画像1に存在するアクセサリーや装飾品も維持し、不要な複製や消失は発生しない。
+
+【画風】
+
+劇場版品質。
+
+高密度3Dトゥーンセルルック。
+
+二〜三段セルシェーディング。
+
+透明感のあるライティング。
+
+髪、瞳、布、革、金属、宝石、紙を高密度に描き分ける。
+
+色彩は画像1のキャラクターカラーを最優先とし、背景は人物より一段落ち着いた色調で統一する。
+
+画風混在、リアル調、プラスチックCG、低密度背景は禁止。
+
+【ゲームUI】
+
+高級ファンタジーRPG風UI。
+
+半透明クリスタルパネル。
+
+細い金装飾。
+
+魔法陣と星座モチーフ。
+
+文字は読み取れる品質で安定表示。
+
+UIは顔を覆わず画面の空き領域へ配置する。
+
+操作に合わせて光と効果音が同期する。
+
+【シーン】
+
+高い俯瞰から開始。
+
+主人公は魔法陣中央へ座り、カメラを見る。
+
+右側へ
+
+START NEW GAME
+
+CONTINUE
+
+ARCANE SETTINGS
+
+EXIT
+
+左上へプロフィールを表示。
+
+CONTINUEのみ選択状態。
+
+カーソルが一度移動して決定する。
+
+カメラは右手へ降下。
+
+RIGHT-HAND CATALYSTパネルが表示される。
+
+掌の上へ六枚花弁の魔法術式が形成される。
+
+手の形は変化せず、術式のみ再構成される。
+
+花弁、宝石核、二重金環が完成して停止する。
+
+続いてカメラは左手へ回り込む。
+
+GRIMOIRE CUSTOMIZATIONを表示。
+
+COVER
+
+CLASP
+
+CORE
+
+PAGES
+
+四項目を表示。
+
+主人公が左手を開くと左腰から魔導書が浮遊する。
+
+閉じた一冊の状態から、表紙、金具、中心核、ページが順番に分解される。
+
+全パーツはルーンで接続されたまま維持される。
+
+カーソルが四項目を巡るたび各パーツが更新され、最後に一冊へ戻る。
+
+革、紙、金属、宝石の質感を高密度に描写する。
+
+カメラは正面へ戻る。
+
+CONFIRM CONFIGを表示。
+
+主人公が一度押す。
+
+全UIが魔導書へ吸収される。
+
+魔導書は左腰へ戻る。
+
+主人公は自然に座り直す。
+
+掌の術式がゆっくり回転して完成する。
+
+表情は目→眉→まぶた→口元→視線の順で自然に変化する。
+
+その後カメラを少し引く。
+
+画面下へLOADINGバー。
+
+0%から100%まで進行する。
+
+紫色の開始空間から石畳、建物、屋台、灯り、街路が順番に実体化する。
+
+線画→素材→完成世界の三段階で生成される。
+
+舞台は雨上がりの星花魔法都市。
+
+濡れた石畳。
+
+魔法露店。
+
+魔法灯。
+
+ルーン看板。
+
+ローブ姿の群衆。
+
+飛行する箒便。
+
+浮遊馬車。
+
+石造と木造建築。
+
+遠景には巨大な魔法学院。
+
+背景人物は全員別人であり、主人公は複製しない。
+
+最後に三人称追従カメラになる。
+
+主人公は中景サイズを維持する。
+
+右上へ円形ミニマップ。
+
+左下へ
+
+VITALITY
+
+MANA
+
+SPELL SLOT
+
+街の奥へ
+
+RETURN TO ASTRA ACADEMY
+
+任務マーカーを表示。
+
+主人公は左腰へ魔導書を装備したまま街へ歩き出す。
+
+最後は左足が石畳へ着地し、右足が次の一歩へ移る瞬間で終了する。
+
+都市は完全に実体化し続け、群衆、箒便、浮遊馬車は動き続ける。
+
+HUDと任務マーカーは安定表示する。
+
+【音】
+
+BGMなし。
+
+音楽なし。
+
+環境音のみ。
+
+雨上がりの街の空気。
+
+石畳の足音。
+
+衣装の布擦れ。
+
+遠い市場の声。
+
+箒の風切り。
+
+浮遊馬車の魔力音。
+
+主人公は自然な呼吸のみ。
+
+台詞、ナレーション、長い発声は禁止。
+
+【禁止事項】
+
+画像1の背景や構図の再現、特徴の混合、顔の平均化、衣装交換、武器変更、別人化、クローン化、余分な主人公、余分な武器、余分な装飾、手指崩れ、顔へUIが重なる構図、読めないUI文字、急激な背景転換、白飛び、画風変化は禁止。
+```
+
+</details>
+
+<a id="h3-anime-girl-waters-fern-porch"></a>
+### Anime girl waters a fern on porch
+
+<a href="https://x.com/PhotogenicWeekE/status/2093133440359317751"><img src="../../previews/h3-anime-girl-waters-fern-porch.jpg" width="360"></a>
+
+The prompt lays out the drawing as ordered stages, from rough pose to lineart to flat color to shading, so the video has a clear build-up. Tying the finished frame to a reference picture locks the final look, and the soft stylus scratch with desk ambience sets a quiet studio mood.
+
+MiniMax H3 · Image-to-video · Source: [@PhotogenicWeekE on X](https://x.com/PhotogenicWeekE/status/2093133440359317751) · 20 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`timelapse`](tags.md#tag-timelapse) [`line-art`](tags.md#tag-line-art) [`digital-painting`](tags.md#tag-digital-painting) [`anime`](tags.md#tag-anime)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] 2D anime digital illustration, a high-quality digital drawing recorded as a timelapse, with the artist's hand holding a stylus pen visibly drawing on the canvas. The video starts from a white digital canvas and draws the basic forms and shapes first, starting from the general (big) outline sketch of the pose, then adding line after line to add new details on the face, hair, and clothes until a complete lineart sketch for the character is done. Then the coloring phase begins: flat base colors are filled evenly within the lineart, soft shading and highlights are layered on the face, hair, and clothes, and final finishing touches are added until the completed artwork matches <Picture 1> exactly.
+
+overall_soundscape: The soft scratch of the stylus on the tablet screen, light desk ambience.
+
+non_diegetic_music: N/A
+```
+
+</details>
+
+<a id="h3-anime-opening-haru-silhouette"></a>
+### Black silhouette hero amid falling leaves
+
+<a href="https://x.com/keneth_ai/status/2087039444146933942"><img src="../../previews/h3-anime-opening-haru-silhouette.jpg" width="360"></a>
+
+A locked character block and a reference sheet fix the face and outfit, while a timestamped shot list sets the pacing, color flash and cut rhythm for each beat. The negative prompt rules out 3D and live action drift so the cel look holds.
+
+MiniMax H3 · Reference-to-video · Source: [@keneth_ai on X](https://x.com/keneth_ai/status/2087039444146933942) · 17 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`anime-opening`](tags.md#tag-anime-opening) [`character-lock`](tags.md#tag-character-lock) [`beat-sync`](tags.md#tag-beat-sync) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[CHARACTER LOCK — use attached reference sheet]
+Haru: teen boy, short messy dark-brown hair with warm amber rim-light on the
+edges, tired amber eyes, single silver earring on left ear, thin dark cord
+choker, oversized grey-blue windbreaker open over a longline blue hoodie, black
+joggers with dangling straps, scuffed black high-top sneakers. Face, hair
+silhouette, and outfit identical in every shot.
+
+[FORMAT]
+Anime television opening, 2D cel-shaded, crisp linework, 16:9, high contrast,
+film grain. Total runtime 15 seconds, 12 shots, beat-synced hard cuts.
+
+[SHOT LIST — 15s]
+00.0–01.2  Black. Hard white flash. Haru's silhouette snaps in, back to camera,
+           jacket billowing. Background floods CYAN.
+01.2–02.4  Whip-pan to profile close-up. Downcast eyes flick up, sharp.
+           Flash. Background MAGENTA.
+02.4–03.2  Low-angle wide: he sprints along a rooftop ledge, coat trailing,
+           paper and leaves scattering. ORANGE-RED, speed lines.
+03.2–03.9  Freeze-frame mid-leap between rooftops. Pure black silhouette
+           against strobing YELLOW-to-LIME.
+03.9–04.7  Top-down spin: lands, one hand on concrete, dust ring bursts out.
+           Snap to DEEP PURPLE.
+04.7–05.3  Extreme close-up: silver earring swings, catches a lens flare.
+           White flash frame.
+05.3–06.2  Split-screen triptych — three duotone copies of his face
+           (blue / red / green) rotating, one per beat.
+06.2–07.4  Back view, walking into wind, hood snapping, hair whipping.
+           Background ELECTRIC BLUE with horizontal scan lines.
+07.4–08.2  Hands-in-pockets front shot, camera orbits fast around him.
+           Colors cycle GREEN → PINK → WHITE across the orbit.
+08.2–09.4  Seated on the ledge, knees up, head down, city lights blooming
+           behind. Muted TEAL. Brief calm — no flash on this cut.
+09.4–10.6  He stands, turns to camera, hair lifting, single amber rim-light
+           igniting along his edge. Background goes pure WHITE.
+10.6–15.0  Pull-back wide: Haru walks away toward the sunset skyline, hands in
+           pockets, clothes drifting. Color settles into the warm painted
+           palette of the reference sheet. Camera dollies out, holds on
+           centered title-card space.
+
+[MOTION]
+Simple punchy character animation on twos. Hair and fabric always drifting.
+Camera: whip pans, snap zooms, one fast orbit, one final dolly-out.
+
+[COLOR & FX]
+Full-frame color swaps on every cut, synced to an implied beat. White
+flash-frames between shots 1–9. Chromatic aberration on impacts, halftone dot
+bursts, quick duotone inversions, floating leaf and paper debris throughout.
+Warm amber rim-light preserved on the character in every shot.
+
+[NEGATIVE]
+photorealistic, 3D render, live action, extra characters, text or logos,
+changing outfit, changing hair color, distorted face, extra fingers, watermark
+```
+
+</details>
+
 <a id="kling4-clay-cloud-teacher-counting"></a>
 ### Felt and clay forest class: a cloud teacher counts to four
 
@@ -1096,6 +1757,123 @@ Keep the characters' identities, clothing, hairstyle, proportions, and facial fe
 
 </details>
 
+<a id="seedance-anime-boy-river-slide-ocean-dive"></a>
+### Boy and pet slide river into ocean dive
+
+<a href="https://x.com/mrdejie/status/2089612021130235910"><img src="../../previews/seedance-anime-boy-river-slide-ocean-dive.jpg" width="360"></a>
+
+A timed shot list with a fixed style block up front keeps one anime look across every cut. Each shot names its camera move (wide push in, river POV, underwater POV, upward tilt) so the transitions stay readable.
+
+Seedance 2.5 · Text-to-video · Source: [@mrdejie on X](https://x.com/mrdejie/status/2089612021130235910)
+
+[`anime`](tags.md#tag-anime) [`pov-camera`](tags.md#tag-pov-camera) [`underwater`](tags.md#tag-underwater) [`no-dialogue`](tags.md#tag-no-dialogue)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a highly dynamic 30-second 2D anime scene in a bright, cheerful modern anime illustration style. Style requirements: bold clean black outlines, flat colors with very minimal shading, soft rounded character designs, bright vibrant colors, simple but highly expressive poses, clean modern anime look.
+Dynamic camera movements throughout. Smooth transitions between shots. No dialogue. Bright and joyful atmosphere.
+0–7s (Shot 1 – Wide to Close):Wide angle shot of a bright sunny river valley with lush green surroundings. A soft-rounded anime boy happily lifts his pet (same size as him) into his arms. He runs and jumps into the river with his pet. They both slide down the flowing river with big joyful expressions. Camera starts wide showing the full environment, then smoothly pushes in to focus on their happy faces as they slide.
+7–12s (Shot 2 – River POV):Camera switches to first-person point of view as if from their eyes. Fast, dynamic movement through the river. Water splashing, bright sunlight reflecting, the river rushing forward. Exciting and energetic camera motion.
+12–16s (Shot 3 – Mid-air):They reach the end of the river and are launched mid-air into the open ocean, still looking extremely happy. Camera quickly focuses on an extreme close-up of the boy’s eyes only.
+16–24s (Shot 4 – Underwater POV):Camera switches to first-person point of view (the boy’s eyes act as the camera). Bright, colorful underwater scene is revealed. A friendly dolphin, an octopus, a seahorse, and a stingray swim around him playfully in the clear ocean water. The camera looks around at each creature with wonder and joy.
+24–30s (Shot 5 – Surface & Sky):The boy and his pet surface from the water. The pet is happily piggybacking on the boy’s back. Half of their bodies are still submerged. They laugh with pure joy. Cute underwater creatures also surface around them, looking just as happy. Camera slowly tilts upward and moves toward the bright blue sky, ending on a wide, cheerful sky shot.
+Style notes:Clean bold black line art, flat bright colors, soft rounded designs, minimal shading, highly expressive happy faces, dynamic and fluid camera movement throughout. Keep the energy fun, light, and full of joy.
+```
+
+</details>
+
+<a id="seedance-anime-burger-cooking-journey"></a>
+### Anime kitchen cooks a cheese-filled burger
+
+<a href="https://x.com/ayzalnooor24521/status/2096892990371565650"><img src="../../previews/seedance-anime-burger-cooking-journey.jpg" width="360"></a>
+
+The prompt lists each cooking step as a short ordered beat with one action per shot, which keeps the anime look consistent across the sequence. Concrete props such as the cast-iron pan, gas stove and sesame buns give the model fixed visual anchors, and the plated finish with iced cola closes the clip.
+
+Seedance 2.5 · Text-to-video · Source: [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2096892990371565650)
+
+[`anime`](tags.md#tag-anime) [`cooking`](tags.md#tag-cooking) [`food`](tags.md#tag-food) [`kitchen`](tags.md#tag-kitchen)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Created, anime style video of this kind, about 15 seconds long.  
+A warm cozy kitchen scene begins with a hand slicing a fresh onion on a wooden cutting board next to diced bacon pieces, then shifts to mixing raw ground meat with sliced onions and a cracked egg inside a clear glass bowl. Next a thick triangular slice of yellow Swiss cheese is carefully placed in the center of a large raw meat patty and the meat is folded and sealed tightly around the cheese to form a stuffed burger. The sealed meat is placed into a hot black cast-iron pan with sizzling oil on a gas stove, searing until the surface turns golden brown with bubbling juices. A wooden spoon then pours thick glossy dark brown sauce over the cooked patty. Finally the juicy sauced patty is stacked between sesame seed buns with melting yellow cheese, tomato and onion slices, a hand gently presses the top bun, and the finished oversized cheese-stuffed burger is shown plated on a white dish beside a tall glass of iced cola on a sunlit wooden table in a bright kitchen.
+```
+
+</details>
+
+<a id="seedance-anime-grilled-skewers-pomegranate-drink"></a>
+### Anime chef slicing raw meat into cubes
+
+<a href="https://x.com/aiwithlumi/status/2095496077764100446"><img src="../../previews/seedance-anime-grilled-skewers-pomegranate-drink.jpg" width="360"></a>
+
+The full recipe is written as one ordered sequence from slicing and seasoning to grilling and plating, so the model moves through each step in turn. Naming the anime style up front and listing every ingredient keeps the knife, board and colours consistent from shot to shot.
+
+Seedance 2.5 · Text-to-video · Source: [@aiwithlumi on X](https://x.com/aiwithlumi/status/2095496077764100446) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`anime`](tags.md#tag-anime) [`food`](tags.md#tag-food) [`cooking`](tags.md#tag-cooking) [`step-by-step`](tags.md#tag-step-by-step)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef slices raw red meat into uniform cubes, seasons them with spices, then opens a ripe pomegranate and squeezes its juice and seeds into a bowl. Pour the juice into a tall glass with ice and sparkling mixer, then garnish with mint. Grill the seasoned meat cubes on skewers with peppers and onions, plate the juicy kebabs with fresh parsley, and present them beautifully beside the chilled pomegranate drink.
+```
+
+</details>
+
+<a id="seedance-anime-morning-commute-japan-town"></a>
+### Anime schoolgirl morning commute through Japanese town
+
+<a href="https://x.com/AynahhX/status/2104425655387742474"><img src="../../previews/seedance-anime-morning-commute-japan-town.jpg" width="360"></a>
+
+The prompt is a numbered sequence of shots with one clear beat each (wide street, bedroom, kitchen close-up, bus, meeting the cyclist, classroom), which gives the model a timed story to follow. Repeating a fixed character look and lighting terms keeps the girl and the golden-hour mood consistent across cuts.
+
+Seedance 2.5 · Text-to-video · Source: [@AynahhX on X](https://x.com/AynahhX/status/2104425655387742474)
+
+[`anime`](tags.md#tag-anime) [`slice-of-life`](tags.md#tag-slice-of-life) [`japan`](tags.md#tag-japan) [`school`](tags.md#tag-school)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 10-second cinematic anime-style sequence set in a peaceful Japanese town on a bright summer morning. Start with a wide shot of a quiet residential street with Japanese houses, greenery, utility poles and soft blue skies → show a schoolgirl waking up in a sunlit bedroom, stretching beside the window → close-up of breakfast cooking in a warm kitchen with gentle steam → she grabs her school bag and runs outside to catch the school bus → show her walking along a sunny street before meeting a schoolboy riding a bicycle → they travel together toward school, with natural wind moving their hair and clothes → end with the girl entering a bright classroom and sitting beside the window as sunlight fills the room. Beautiful anime visuals, detailed backgrounds, expressive characters, soft golden lighting, smooth camera movement, natural animation, subtle motion blur, nostalgic coming-of-age atmosphere, consistent character appearance, no text, subtitles or watermark.
+```
+
+</details>
+
+<a id="seedance-anime-swordsman-torii-gate-duel"></a>
+### Swordsman and shadow demon clash at torii gate sunset
+
+<a href="https://x.com/AIwithWania/status/2103355707487600728"><img src="../../previews/seedance-anime-swordsman-torii-gate-duel.jpg" width="360"></a>
+
+Timestamped beats (0 to 2 seconds, 2 to 4 seconds and so on) give the clip a clear shot order, and the closing visual lock line fixes palette, linework and character design across the whole sequence.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithWania on X](https://x.com/AIwithWania/status/2103355707487600728)
+
+[`anime`](tags.md#tag-anime) [`sword-fight`](tags.md#tag-sword-fight) [`sunset`](tags.md#tag-sunset) [`demon`](tags.md#tag-demon)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a cinematic anime battle sequence, 16:9, with premium hand-drawn cel animation and ultra-fluid sakuga-style movement.
+
+At a ruined ancient Japanese torii gate during a blazing crimson sunset, a white-haired swordsman in a torn white haori stands facing a towering shadow-black demonic warrior with glowing red eyes and smoky tendrils.
+
+0–2s: Wide dramatic shot. Both warriors face each other beneath the giant torii gate, dust and debris floating through the air, huge orange sun directly behind them.
+
+2–4s: Fast cinematic push-in to the white-haired swordsman’s face. His eyes glow intense red as he tightly grips his black katana. Wind moves his hair and clothing.
+
+4–7s: He suddenly launches forward at extreme speed and clashes swords with the demon. Explosive white-blue lightning, sparks, shockwaves and a brilliant curved energy slash tear across the frame. Dynamic anime camera movement and strong motion lines.
+
+7–8s: The swordsman completes one clean finishing slash. The demon breaks apart into swirling black smoke, glowing red embers and particles.
+
+8–10s: Final wide rear shot: the swordsman stands completely still with his katana lowered, facing the enormous setting sun beneath the torii gate while the remaining dark particles disappear into the sky.
+
+Visual lock: dramatic red-orange sunset palette, deep black shadows, sharp anime linework, cinematic contrast, fluid 2D animation, consistent character design throughout, realistic cloth and hair motion, powerful impact frames, no extra characters, no character duplication, no text, no subtitles, no watermark.
+```
+
+</details>
+
 <a id="seedance-baby-banana-peel-family-comedy"></a>
 ### Mother sips tea as baby sulks in high chair
 
@@ -1134,6 +1912,124 @@ Create a 30-second cinematic, ultra-detailed 3D animated fantasy adventure set i
 
 </details>
 
+<a id="seedance-cell-anime-virtual-world-dive"></a>
+### Glasses girl dissolves from grey town into colourful world
+
+<a href="https://x.com/Kohaku_NFT/status/2086771803662549245"><img src="../../previews/seedance-cell-anime-virtual-world-dive.jpg" width="360"></a>
+
+Opens on a tight eye close up with the glasses rim lighting up, then turns the town into light shards rather than collapse, with each second of the transition timed. Sound and music are cued to exact timestamps, and a style lock bans photoreal and 3DCG output so the cel look holds.
+
+Seedance 2.5 · Reference-to-video · Source: [@Kohaku_NFT on X](https://x.com/Kohaku_NFT/status/2086771803662549245)
+
+[`anime`](tags.md#tag-anime) [`cel-animation`](tags.md#tag-cel-animation) [`virtual-world`](tags.md#tag-virtual-world) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+ミオは前半グラス装着差分→後半は仮想形態（髪先が桜色に発光・グラスなし）、ヨルは発光形態を使用。
+
+登場キャラクターは添付の設定資料と完全に同一の姿・配色で描く。 
+
+10秒のジブリ/サマーウォーズ風・手描き2Dセルアニメ劇場映画のワンシーン。
+
+柔らかい輪郭線、淡い水彩の背景美術、セル調の2段陰影、豊かな体積光。
+
+前シーンでグラスの縁が点灯した続きから始まる。
+ 
+【最重要】
+
+0秒からグラスの淡青光で始め、2秒以内に青灰色の現実が光のガラス片へほどけて、極彩色の仮想世界への落下を開始する。
+
+この画変わりが本作最大の見せ場。 
+
+0.0〜1.0秒: 少女の目元の超クローズアップ。
+少女ミオ、14歳。黒髪の短いボブ、眉の上で切り揃えた前髪、右こめかみに星形の銀のヘアピン。大きな琥珀色の瞳、頬に薄いそばかす。
+
+白い半袖セーラーワンピース、襟に群青のライン、胸元に群青のリボン、膝丈スカート、赤いスニーカー。
+
+スマートグラスのレンズに光の輪が走り、瞳に極彩色が映り込む。 
+
+1.0〜2.0秒: 世界が水面のように波打ち、青灰色の商店街が無数の光のガラス片へ静かにほどけていく。
+
+破壊ではなく変換として描く。ミオの体がふわりと空へ吸い上げられる。 
+
+2.0〜4.0秒: 純白の無限空間をミオが落下する。周囲を極彩色の光の川が螺旋状に流れる。前方に光の尾が現れて先導する。仮想世界のヨルは輪郭が琥珀色の光の粒で縁取られ、尾が流星のような光の帯を引き、鈴が琥珀色に灯る。 
+
+4.0〜6.0秒: 落下が飛行に変わる。眼下に仮想世界の全景: 白い浮遊島の群れ、極彩色の光の川、無数のカラフルなアバターの群れ。カメラはミオの背後から超高速で追う。仮想世界のミオは同じ姿のまま髪の先が淡い桜色に発光し、スマートグラスは消えている。 
+
+6.0〜8.0秒: ヨルと並んで光の川を突き抜ける。両側を極彩色の光の帯が高速で通過し、ミオの髪とスカートが風にはためく。 
+
+8.0〜10.0秒: 中央にそびえる巨大な白い塔へ向かって急上昇し、頂上を越えた瞬間、仮想世界全体が眼下に開ける超広角。ミオが声を上げて笑う。開放感で終わる。 
+
+音響: 0秒の起動音、1秒でガラス片の澄んだ音、落下中は風と光の粒の音を立体的に。音楽はハープの上昇グリッサンドから2秒でストリングスが急上昇、6秒でフルオーケストラ、9秒で開放的な和音を鳴らす。 現実世界の破壊・崩落表現にしない（光へほどける変換として描く）。文字・字幕なし。
+
+実写・photorealistic・3DCG禁止。
+```
+
+</details>
+
+<a id="seedance-dragon-girl-red-shield-hall"></a>
+### Dragon girl advances toward a figure behind red shield
+
+<a href="https://x.com/haruuraeadss/status/2085654478829810018"><img src="../../previews/seedance-dragon-girl-red-shield-hall.jpg" width="360"></a>
+
+Three reference images with explicit priority rules (face, costume and weapon, tail) keep the character consistent across the clip. The prompt bans static holds and requires visible footwork and real floor travel, so the speed comes from body movement rather than camera moves.
+
+Seedance 2.5 · Reference-to-video · Source: [@haruuraeadss on X](https://x.com/haruuraeadss/status/2085654478829810018)
+
+[`anime`](tags.md#tag-anime) [`3d-toon`](tags.md#tag-3d-toon) [`character-reference`](tags.md#tag-character-reference) [`action`](tags.md#tag-action)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+高品質アニメ映像。近未来ゴシック幻想。映画的な劇場アニメ戦闘映像。高密度3Dトゥーン／セルルックのみ。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、高密度背景美術、重心と接地が読める連続動作を維持する。【アニメーション方向】爆発的で鋭いアクション。キレのあるタイミング。予備動作は最小限。即時加速。大きく明確な全身運動。強い接触反動。接触後の慣性を明瞭に残す。待機、長い構え、長いタメ、スローモーション、静止した見せカットを作らない。速さをカメラ移動だけで表現せず、人物自身の脚運びと床上の実移動を必ず見せる。【参照の役割と優先順位】<<<Image1>>> は顔と人物同一性の最優先参照。顔立ち、年齢感、目、虹彩、まつ毛、頬、細い顎、前髪、角、顔周辺の描画テイストを参照する。<<<Image2>>> は衣装・全身デザイン・武器参照。<<<Image1>>> と同じ人物の衣装、装飾、体型、全身シルエット、靴、一本だけの長槍、固有配色を参照する。<<<Image3>>> は尻尾参照。<<<Image1>>> ・<<<Image2>>> と同じ人物の、腰後方への接続位置、黒曜石紫の鱗、根元から細い先端へ自然に絞られる一本だけの尻尾、尾先の紫光を参照する。参照間に差異がある場合の優先順位は、顔・目・虹彩・顎・年齢感・前髪・角は<<<Image1>>> 、衣装・装飾・体型・全身シルエット・長槍は<<<Image2>>> 、尻尾の接続位置・鱗・太さ・細い先端は<<<Image3>>> 。参照画像内の背景、文字、枠、複数パネル、説明図、UIは映像へコピーしない。
+```
+
+</details>
+
+<a id="seedance-forest-fishing-anime-adventure"></a>
+### Boy catches a fish beside a forest river
+
+<a href="https://x.com/Lianaalane/status/2087781003754602664"><img src="../../previews/seedance-forest-fishing-anime-adventure.jpg" width="360"></a>
+
+The prompt is split into three beats, each restating the setting, and it fixes the same boy, outfit and art style up front so the character holds across cuts. It ends on a wide shot that names every character, giving the model one clear final frame to aim for.
+
+Seedance 2.5 · Text-to-video · Source: [@Lianaalane on X](https://x.com/Lianaalane/status/2087781003754602664)
+
+[`anime`](tags.md#tag-anime) [`fishing`](tags.md#tag-fishing) [`forest`](tags.md#tag-forest) [`animals`](tags.md#tag-animals) [`campfire`](tags.md#tag-campfire)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 14-second cinematic anime/cartoon video in a lush green forest beside a wide, crystal-clear river filled with many colorful fish swimming naturally underwater. Keep the same boy, outfit, face, and cartoon style throughout.
+
+A cute boy fishes from the riverbank and catches a big fish. Show the beautiful forest and wide river with many colorful fish swimming underwater. The boy happily pulls the fish out of the water and looks excited.
+At another spot beside the same river, the boy makes a small campfire and roasts the big fish on a wooden stick. The fish slowly becomes golden and delicious while smoke rises gently. The river and green forest remain visible in the background.
+The boy sits beside the campfire with a cute chubby panda, bear, fox, rabbit, and squirrel. They all sit together and happily share the cooked fish. The animals smile, laugh, and talk to each other in English while enjoying the meal. End with a wide cinematic shot showing the boy, all his animal friends, the campfire, beautiful river, and lush forest.
+Style: Cute high-quality anime/cartoon, expressive characters, vibrant colors, cinematic lighting, smooth animation, detailed forest and river, warm friendship atmosphere, consistent characters throughout. No cows, no logos, no watermark, no text.
+```
+
+</details>
+
+<a id="seedance-ghibli-moroccan-tajine-cooking"></a>
+### Anime style tajine cooking over coals in mountains
+
+<a href="https://x.com/aiwithlumi/status/2095089534916874708"><img src="../../previews/seedance-ghibli-moroccan-tajine-cooking.jpg" width="360"></a>
+
+The prompt walks through the cooking steps in order and ends on one clear reveal, so the model has a beginning, middle and end to follow. Naming the style, along with gentle animation and warm natural colors, sets the look for the whole clip.
+
+Seedance 2.5 · Text-to-video · Source: [@aiwithlumi on X](https://x.com/aiwithlumi/status/2095089534916874708)
+
+[`anime`](tags.md#tag-anime) [`ghibli-style`](tags.md#tag-ghibli-style) [`cooking`](tags.md#tag-cooking) [`morocco`](tags.md#tag-morocco)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a whimsical Studio Ghibli-inspired animated scene showing a traditional Moroccan lamb tajine being prepared outdoors in a breathtaking mountainous landscape. Begin with wild mountain goats on rocky cliffs, then show the cook preparing fresh lamb, picking dark olives, salting preserved lemons, and slicing herbs and meat. Pour olive oil into a rustic clay tajine, layer in lamb, olives, lemons, and herbs, seal it with the conical lid, and place it over glowing coals in a stone fire pit. End with the lid lifting to reveal a steaming, golden lamb tajine as olive oil and herbs glisten in the warm sunlight, with cinematic detail, cozy natural colors, gentle animation, and a magical handcrafted atmosphere.
+```
+
+</details>
+
 <a id="seedance-grumpy-toddler-doctor-comedy"></a>
 ### Grumpy toddler doctor examines patient in 3D comedy
 
@@ -1165,6 +2061,33 @@ Visual Style: Ultra-detailed 3D animated family-movie aesthetic, Pixar-inspired 
 Camera and Motion: Use smooth cinematic tracking shots, medium shots, facial close-ups, and reaction shots. Keep the toddler doctor's face, hairstyle, outfit, and body proportions consistent throughout every scene. Natural body movement, accurate hand gestures, expressive facial animation, and seamless scene transitions.
 
 Format: Vertical 9:16, 24 FPS, approximately 30 seconds, high-quality cinematic 3D animation, family-friendly comedy, no subtitles, no text overlays, no logos.
+```
+
+</details>
+
+<a id="seedance-ink-wash-swordsman-seal-montage"></a>
+### Ink wash swordsman with seal stamp
+
+<a href="https://x.com/EZheng66099/status/2090180685902369163"><img src="../../previews/seedance-ink-wash-swordsman-seal-montage.jpg" width="360"></a>
+
+Each reference image gets its own cut, and explicit preserve rules plus a DO NOT list keep faces and outfits from merging. Timed hard cuts, a separate ink color field per cut, and taiko hit sound effects give the montage its rhythm.
+
+Seedance 2.5 · Reference-to-video · Source: [@EZheng66099 on X](https://x.com/EZheng66099/status/2090180685902369163)
+
+[`reference-images`](tags.md#tag-reference-images) [`multi-cut`](tags.md#tag-multi-cut) [`ink-wash`](tags.md#tag-ink-wash) [`montage`](tags.md#tag-montage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a fast-paced 5-second 2D Chinese anime (guoman) character introduction montage using the three supplied reference images.
+IMPORTANT: @Image1, @Image2, @Image3 are three completely different characters. Preserve each character's exact face, hairstyle, skin tone, outfit, body type, and accessories from their corresponding reference image. Never merge, morph, blend, or exchange their identities. Show only one character at a time.
+Background device: each character gets a distinct ink-wash color field (indigo / vermilion / pine green) with flying brush-stroke particles, and a name-seal stamping into the corner.
+CUT 01 | 0.0-1.6s - @Image1 snaps in from a whip-pan blur, hero pose, face 40% of frame height, indigo ink field, seal stamps top-right.
+CUT 02 | 1.6-3.2s - Hard cut. @Image2 slides in on diagonal speed-lines, vermilion field, seal stamps on the left.
+CUT 03 | 3.2-5.0s - Hard cut. @Image3 lands from above with an impact frame and screen shake, pine-green field; all three seals align along the bottom; hold the end frame.
+Camera: fast push-ins only. No wide full-body distant shots; faces stay 35-50% of frame height.
+Audio: three taiko-style percussion hits + ink-splash SFX on each cut.
+DO NOT: identity morph, two characters in one frame, redesigned outfits, western comic style, any readable text other than the seals.
 ```
 
 </details>
@@ -1429,6 +2352,25 @@ Flat 2D animation, childish cartoon style, exaggerated anime eyes, chibi charact
 FINAL OUTPUT
 
 20-second cinematic 3D animated short film, 16:9 aspect ratio, 24 fps, high-quality rendering, beautiful original Korean character designs, detailed environments, smooth character animation, realistic cloth simulation, warm autumn lighting, seamless flashback transitions, expressive storytelling, and a deeply nostalgic yet happy romantic atmosphere.
+```
+
+</details>
+
+<a id="seedance-sun-wukong-painted-scroll-war"></a>
+### Sun Wukong in golden armor on painted scroll
+
+<a href="https://x.com/Dheepanratnam/status/2101176822838775843"><img src="../../previews/seedance-sun-wukong-painted-scroll-war.jpg" width="360"></a>
+
+Setting the medium first, as an animated silk scroll, gives the whole clip one consistent look. The story then runs as a short sequence of actions (stealing peaches, breaking the gate, returning with an army), so each beat has a clear visual to cut to.
+
+Seedance 2.5 · Text-to-video · Source: [@Dheepanratnam on X](https://x.com/Dheepanratnam/status/2101176822838775843)
+
+[`sun-wukong`](tags.md#tag-sun-wukong) [`ink-brush`](tags.md#tag-ink-brush) [`mythology`](tags.md#tag-mythology) [`silk-scroll`](tags.md#tag-silk-scroll)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Classic ink-brush Sun Wukong casually declaring war on heaven just for the aesthetic. painted like an animated silk scroll he stole the peaches, wrecked heaven's gate, and fell home with a hundred thousand soldiers behind him
 ```
 
 </details>
@@ -1868,6 +2810,25 @@ Add a friendly female voice pronouncing each fruit's English name clearly.
 Vertical 9:16 format, high resolution, suitable for YouTube Shorts and children's educational content.
 
 No scary elements, no distorted faces, no extra fingers, and no character changes.
+```
+
+</details>
+
+<a id="seedance-ukiyo-e-tokyo-city-scroll"></a>
+### Woodblock picture scroll unfolds over Edo bridge
+
+<a href="https://x.com/tanabe_fragm/status/2088446104287477944"><img src="../../previews/seedance-ukiyo-e-tokyo-city-scroll.jpg" width="360"></a>
+
+Each time slice gets a single slow camera move and a named transition. A global block fixes the palette, paper texture and forbidden items, and per slice sound cues with no-text rules keep the title for the final beat only.
+
+Seedance 2.5 · Text-to-video · Source: [@tanabe_fragm on X](https://x.com/tanabe_fragm/status/2088446104287477944)
+
+[`ukiyo-e`](tags.md#tag-ukiyo-e) [`scroll`](tags.md#tag-scroll) [`woodblock`](tags.md#tag-woodblock) [`transition`](tags.md#tag-transition)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[SUMMARY] 15 seconds, 16:9, 24fps. A Japanese emakimono picture scroll unrolls from right to left, the ukiyo-e woodblock city painted on it comes alive, and the film lands on Mount Fuji with a title on the blank paper. Animated woodblock-print style. One single slow leftward drift carries the entire film. [GLOBAL SETUP] Look and texture: 2D animated Japanese ukiyo-e woodblock print. Flat hand-printed color, visible woodgrain, washi paper fibre showing through every surface, thin sumi-ink outlines, gold-leaf cloud bands, Rinpa-school decorative flatness. Keep the ink lines slightly uneven, the way a hand-cut block prints. Palette: washi ivory, indigo ai-iro, vermilion shu-iro, gold kin-iro, golden-yellow yamabuki-iro, pine-green matsu-midori, sumi black. No other colors. The scroll as an object: the ivory washi paper of the scroll, with its dark wooden roller, stays visible at the top and bottom of the frame from 0 to 2.5s and again from 11.5 to 15.0s. Between 2.5 and 11.5s the camera is inside the painting and the paper edges are out of frame. Camera language: exactly one camera move per time slice, always small amplitude at slow speed. The overall direction of travel is leftward for the whole film. Never combine two camera moves in one slice. No handheld shake. Transitions: use zoom-in transition at 2.5s, ink-wash transition at 5.0s, matching-shape transition at 7.5s, and zoom-out transition at 12.5s. No hard cuts anywhere. Nothing appears out of empty space. Keep the camera's breathing in harmony with the length of each slice and leave enough time for each transition to complete. Forbidden throughout: no subtitles, no background music, no photorealism, no 3D rendering, no CG lighting, no video-game look, no modern buildings, no trains, no cars, no power lines, no neon, no Japanese kanji or kana characters anywhere in the frame, no watermark, no logo, no on-screen text at all before 12.5s, no mosaic, no tiling, no puzzle-piece assembly, no rapid cutting. [TIMELINE] 0-2.5s — The scroll opens Scene: A closed emakimono scroll with a dark wooden roller sits at the right edge of an ivory frame. Action: The scroll unrolls leftward and reveals a painted Nihonbashi Bridge. The painted crowd on the bridge starts to move and walks across it. A painted boat slides out from under the bridge and its flat ink outlines ripple into moving water. Camera: slow leftward drift, small amplitude, following the unrolling paper. Sound: paper rustling, a wooden roller turning, then a low market crowd fading in. Not in this slice: no text, no music, no camera shake. 2.5-5.0s — Into the painting: the food street Transition: zoom-in transition. The camera pushes into the painted surface until the paper edges leave the frame and the painting fills the whole screen. Scene: An open-air Edo food street under fluttering vermilion nobori banners. Action: A chef presses a piece of nigiri sushi between his hands and sets it down on a bare wooden board. Steam lifts from a soba pot as a cook draws noodles out of the water. A customer pulls a noren curtain aside and steps in under it. Camera: slow push in, small amplitude, stopping on the sushi board. Sound: a knife tapping wood, oil sizzling, a pot bubbling, cloth brushing. Not in this slice: no text, no music, no modern kitchen equipment. 5.0-7.5s — The river Transition: ink-wash transition. Sumi ink bleeds across the frame like ink dropped in water, and the river scene emerges out of the bleed. Scene: The Sumida River, an arched wooden bridge, rows of low wooden townhouses on the far bank under gold cloud bands. Action: A boatman pushes his pole and the boat glides forward past the bridge. Cherry blossom petals blow across the water from the right. A woman in a patterned kimono standing on the bridge turns her head and looks toward the camera. Camera: slow leftward tracking shot, small amplitude, keeping pace with the boat. Sound: an oar dipping, wood creaking, water lapping, wind through cherry branches. Not in this slice: no text, no music, no motorboats. 7.5-9.5s — Night, lanterns, kabuki Transition: matching-shape transition. A round pink cherry petal drifting in the previous slice matches into a round red paper lantern in this one. Scene: A night street of two-story wooden machiya townhouses under a deep indigo sky. Action: Red paper lanterns light up one after another down both sides of the street. A kabuki theater curtain sways open at the far end and an actor in bold red kumadori face paint strikes a still mie pose. Camera: slow tilt up, small amplitude, from the lanterns to the sky above the rooftops. Sound: wooden kabuki clappers striking twice, geta sandals on plank streets, a low crowd. Not in this slice: no text, no music, no electric light. 9.5-12.5s — Fireworks and the whole city Continuous from the previous slice, the tilt up carries straight into this one. Scene: Golden fireworks open in the indigo sky above the river. Action: Two fireworks bloom and fall in gold and vermilion. The view widens into one grand bird's-eye folding-screen painting of the whole city of Edo across the full width of the frame: dense wooden rooftops, winding canals, arched bridges, boat traffic, a vermilion torii gate, a temple complex, and the tiered white keep of Edo Castle, with gold-leaf cloud bands drifting between the districts. At 11.5s the ivory washi paper edges of the scroll slide back in at the top and bottom, revealing the whole city to be one continuous painting on one scroll. Camera: slow pull out, large amplitude, one single continuous move. Sound: fireworks booming and crackling far away, the crowd noise widening and thinning into open air. Not in this slice: no text, no music, no shattering or reassembling of the image. 12.5-15.0s — Mount Fuji and the title Transition: zoom-out transition completing into the far end of the scroll. Scene: Snow-capped Mount Fuji stands alone on the right against a gold sky. Wide empty ivory washi paper fills the left half of the frame. Action: Cherry blossom petals drift down across the empty paper. The single large word "EDO" fades in on that empty paper in clean pale sumi-black geometric sans-serif capitals. One beat later the smaller line "NOW CALLED TOKYO" fades in directly beneath it. Both lines are English Latin capitals, spelled exactly as written here, centered on the empty paper, sharp and perfectly legible, with no Japanese characters, no extra words and no misspellings. The two lines are static once they appear and are not re-rendered. Camera: the drift comes to rest and holds perfectly still for the last 1.5 seconds. Sound: a single distant temple bell ringing once, then quiet wind. Not in this slice: no music, no additional text, no camera movement after the title appears. [CLOSING CONSTRAINTS] Throughout the whole film: keep the flat ukiyo-e woodblock look, the washi paper fibre, the seven-color palette and the uneven hand-cut ink lines identical from the first frame to the last. Keep every camera move small in amplitude and slow in speed, and keep the overall direction of travel leftward. Keep all transitions soft, with no hard cuts and nothing appearing out of empty space. Throughout the whole film: no subtitles, no background music, no photorealism, no 3D rendering, no modern objects of any kind, no Japanese kanji or kana characters, no watermark and no logo. On-screen text appears only after 12.5s, only the two English lines specified above.
 ```
 
 </details>

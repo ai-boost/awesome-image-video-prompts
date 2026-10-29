@@ -1,0 +1,127 @@
+id: seedance-korean-market-handheld-vlog
+title:
+  en: Handheld vlog of woman at rural Sunday market
+  zh: 手持拍摄乡村周日市集里的年轻女性
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- handheld-vlog
+- korean-market
+- found-footage
+- rural-life
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2092839994499174581
+  credit: Ciri_ai
+  captured: '2026-10-29'
+  posted: '2026-08-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Ciri_ai/status/2092839994499174581
+notes:
+  en: Each five second beat names one concrete action, and the handheld jitter, autofocus hunting and jogging operator are tied to those actions so the footage reads as real phone capture. Audio is locked to location sound plus two quoted lines, with music and narration explicitly banned so the model does not add them.
+  zh: 每个五秒分段都写明一个具体动作，并把手持抖动、对焦跟随和慢跑的拍摄者绑定到这些动作上，画面才像真实的随手拍。音频只保留现场声和两句台词，并明确禁止配乐与旁白，避免模型自行添加。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary Sunday morning in the life of a young Korean woman. No reference image.
+
+  MAIN SUBJECT
+
+  Young Korean woman in her early 20s, natural and approachable look, realistic skin texture with visible pores, bare-faced or barely-there makeup, warm and slightly playful expression.
+
+  Shoulder-length wavy black hair left down, side-swept bangs, small mole near her left eye.
+
+  Wearing an oversized pastel-yellow hoodie, loose gray jogger pants, fuzzy slide sandals, and a small crossbody pouch bag.
+
+  Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
+
+  SETTING
+
+  A small countryside town on a bright, breezy Sunday morning.
+
+  A traditional outdoor market with striped awnings, crates of vegetables, a fishmonger's stall, an old bus stop with a rusted bench, a narrow road running alongside rice paddies, a local bakery with a hand-painted sign, a grandmother's front yard with drying red peppers on a mat, chickens wandering nearby, and mountains faintly visible in the background. Everything sun-bleached, dusty, and authentically rural.
+
+  CAMERA / VISUAL AESTHETIC
+
+  Raw personal footage casually recorded by a friend, strong handheld vlog feel throughout.
+
+  Constant natural hand shake and micro-jitters, footsteps visibly bouncing the frame, imperfect and often off-center framing, occasional partial crops of her face or shoulder, autofocus visibly hunting between her and the background, exposure flaring when the camera swings toward the sun, mild motion blur on quick turns, soft image detail, subtle digital noise, slightly warm and faded color grading like an old phone camera.
+
+  The camera operator walks and jogs to keep up with her, breathing audible at times, camera dipping and swaying with each step.
+
+  No stabilization, no gimbal smoothness, no cinematic camera movements, no dramatic lighting, no slow motion, no polished commercial appearance.
+
+  The footage should feel like a real, unplanned phone recording — accidentally beautiful rather than deliberately cinematic.
+
+  ---
+
+  00:00–00:05 — MARKET ENTRANCE
+
+  She weaves through the outdoor market stalls, the camera bouncing behind her as it struggles to keep pace.
+
+  She stops briefly to pick up a small bag of cherry tomatoes, holding them up toward the camera with a grin.
+
+  The frame jolts as the operator steps over a crate in the path.
+
+  **00:05–00:10 — FISH STALL DETOUR**
+
+  She wanders to the fishmonger's stall, wrinkling her nose playfully at the smell and laughing.
+
+  The camera whip-pans slightly too fast trying to follow her hand gesture, briefly blurring before catching focus again.
+
+  She waves the camera away, still laughing: *"Ugh, don't film that, film me!"*
+
+  **00:10–00:15 — BUS STOP WAIT**
+
+  She jogs to catch the local bus stop bench just as an old bus pulls away without her, the camera shaking hard from the sudden running motion.
+
+  She throws her hands up in mock frustration, plops down on the rusted bench, and sighs dramatically, laughing at herself.
+
+  The frame settles slightly off-center as she rests her chin on her palm.
+
+  **00:15–00:20 — RICE PADDY ROAD**
+
+  She walks along the narrow road beside the rice paddies, wind blowing loose strands across her face.
+
+  The camera drifts low near her feet as she kicks a small pebble, then swings back up to her face, slightly overexposed from the open sky.
+
+  She spins around once with her arms out, the frame swaying and overshooting past her before correcting.
+
+  **00:20–00:25 — GRANDMOTHER'S YARD**
+
+  She ducks into a yard where red peppers dry on a mat, crouching to gently shoo away a curious chicken pecking near her sandals.
+
+  The camera jerks back suddenly as the chicken flaps its wings, both of them startled and laughing.
+
+  She picks up a dried pepper, sniffs it, makes a face, and tosses it back down.
+
+  **00:25–00:30 — FINAL MOMENT**
+
+  She grabs a warm bag of fresh bread from the nearby bakery counter, takes a big bite, and turns straight to the camera mid-chew.
+
+  The frame shakes as she leans in too close, filling half the screen with her grinning face.
+
+  She says, muffled and amused:
+
+  *"Okay, stop filming me eating!"*
+
+  She swats the camera lens with her hand, and the footage cuts abruptly to black, mid-laugh.
+
+  ---
+
+  **AUDIO**
+
+  Natural location sound only:
+
+  Market chatter, footsteps crunching on gravel, a bus engine pulling away, wind, chickens clucking, rustling plastic bags, distant rooster crow, bread bag crinkling, the operator's breathing and quiet laughter, and audible handheld camera noise.
+
+  No music. No narration. No artificial sound effects.
+
+  Only the spoken lines: *"Ugh, don't film that, film me!"* and *"Okay, stop filming me eating!"*
+
+  **FINAL FEEL**
+
+  The entire video should feel like a chaotic, cheerful, completely unplanned Sunday morning caught on a friend's phone — bright, breezy, playful, and warmly nostalgic.
+
+  No dramatic events. No exaggerated acting. No model poses. No cinematic hero shots.
+
+  The realism should come from constant handheld imperfection, sun glare, dust, uneven pacing, real laughter, and moments that feel genuinely caught rather than staged.

@@ -1,0 +1,24 @@
+id: seedance-seoul-sunday-dv-home-video
+title:
+  en: Woman with shopping bag in Seoul alley
+  zh: 首尔小巷里提着购物袋的女子
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- dv-look
+- handheld
+- continuity
+- ambient-audio
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2096424933366931946
+  credit: Smiling Khan
+  captured: '2026-10-29'
+  posted: '2026-09-06'
+video: https://x.com/AIwithkhan/status/2096424933366931946
+notes:
+  en: A camcorder block (autofocus hunting, exposure shifts, accidental zooms) carries the DV look, while a continuity block names which object stays with whom so the handed-over balloon and shopping bag don't drift. Audio is layered ambience with no music, so the clip reads as raw home footage.
+  zh: 摄像机风格段落（自动对焦反复、曝光跳动、意外变焦）营造DV质感，连续性段落则明确每个物品归谁，防止交接的气球和购物袋出现漂移。音频只写分层环境声且不加音乐，让片段读起来像原始家庭录像。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic early-2000s DV home video of a young Korean woman spending a quiet Sunday afternoon in an older Seoul neighborhood. Young Korean woman, early 20s, natural beauty, realistic skin, minimal makeup, black wavy hair in a messy side ponytail, fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and simple silver necklace. Keep her identity, outfit, hairstyle and proportions perfectly consistent. She walks through a quiet residential lane carrying a small reusable shopping bag. She passes a neighborhood playground where a little girl's balloon is stuck in a low tree branch. She notices the girl struggling, walks over and gently frees the balloon from the branch. The balloon visibly comes into her hand, then she clearly hands it to the girl. The girl keeps holding it afterward. The girl smiles and says, “Thank you!” She replies, “You're welcome.” She continues walking home, smiling as a light breeze moves her hair and leaves around the street. She reaches her house, turns toward the camera and says: “Pretty nice Sunday.” She walks inside and the camera cuts to black. Camera: Raw handheld early-2000s DV camcorder, shaky footage, autofocus hunting, faded colors, exposure shifts, motion blur, soft digital detail, accidental zooms. No polished cinematography. Audio: Natural neighborhood ambience, birds, children, bicycles, footsteps, wind and distant traffic. No music. Continuity: No disappearing or duplicated objects. Balloon stays with the girl after being handed over. Shopping bag remains with the woman. Smooth realistic movements and transitions. Negative: CGI look, plastic skin, identity drift, outfit changes, teleporting objects, distorted hands, extra fingers, subtitles, watermark.

@@ -1,0 +1,35 @@
+id: seedance-japanese-rural-chicken-chase
+title:
+  en: Chicken escapes during a rural Japanese afternoon walk
+  zh: 日本乡村午后散步时母鸡突然逃脱
+model: Seedance 2.5
+mode: text-to-video
+category: animal
+tags:
+- handheld
+- slice-of-life
+- natural-audio
+- japan
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2104438109949628826
+  credit: nawalsehar
+  captured: '2026-10-29'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2104438109949628826
+notes:
+  en: Handheld consumer-camera realism is spelled out with imperfect framing, autofocus hunting and natural motion blur, plus concrete chicken behavior and a natural-audio-only list that keeps the clip grounded. The negative prompt blocks CGI, plastic skin and commercial look so the footage reads as a home video.
+  zh: 提示词明确指定手持消费级相机的质感，包括取景不完美、自动对焦跳动和自然运动模糊，并写出鸡的具体动作与只限自然音效的清单，让画面保持真实。负面提示排除了 CGI、塑料皮肤和广告感，使成片更像家庭录像。
+prompt: |
+  Create a 30-second ultra-photorealistic Japanese rural slice-of-life home video following a young Japanese woman on a peaceful afternoon walk. A chicken suddenly escapes through a wooden gate, turning her quiet stroll into an unexpected chase with a local farmer.
+
+  Use authentic handheld consumer-camera footage with imperfect framing, subtle shake, autofocus hunting, natural motion blur, warm afternoon light and realistic village details.
+
+  Show believable chicken behavior—quick steps, head bobbing, sudden direction changes and natural wing movement. The girl and farmer react spontaneously with realistic balance, momentum, friction and human biomechanics as they work together to safely catch it.
+
+  After finally catching the chicken, they laugh, exchange a few words, and she continues her walk while the farmer returns it to the garden.
+
+  Natural audio only: chicken clucks, footsteps, laughter, wing flaps, wind, birds, gate creaks, distant bicycle bells and casual dialogue. No music or narration.
+
+  Negative prompt: No anime, CGI, plastic skin, robotic movement, impossible physics, floating objects, teleportation, distorted hands, extra fingers, duplicated people or chickens, chicken morphing, changing faces or outfits, exaggerated camera movement, commercial look, subtitles, logos or watermark.

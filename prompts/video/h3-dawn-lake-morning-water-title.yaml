@@ -1,0 +1,28 @@
+id: h3-dawn-lake-morning-water-title
+title:
+  en: Dawn lake with mist and sun reflection
+  zh: 黎明湖面薄雾与日出倒影
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- macro
+- fluid-simulation
+- sunrise
+- title-sequence
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2085622021812039920
+  credit: Pierrick Chevallier | IA
+  likes: 22
+  captured: '2026-10-29'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/CharaspowerAI/status/2085622021812039920
+notes:
+  en: 'The prompt runs in timed beats: a still lake and rising mist first, then droplets forming the word, then a burst, so the model has a clear timeline to follow. Calling the look a Hollywood title sequence with volumetric light and IMAX quality sets the grade without naming a camera rig.'
+  zh: 提示词按时间顺序分成几段：先是静止的湖面和升起的薄雾，再是水滴聚成文字，最后迸散，模型因此有明确的时间线可循。用好莱坞片头、体积光和 IMAX 画质定下画面质感，不必指定镜头设备。
+prompt: |
+  Ultra cinematic macro shot: A calm mountain lake at dawn reflects the first golden rays of sunlight. Tiny ripples spread across the mirror-like surface as morning mist drifts gracefully above the water. Billions of sparkling droplets slowly rise into the air, suspended as if gravity has stopped. They spiral together with incredible fluid realism, naturally sculpting the word "MORNING" entirely from crystal-clear water. The liquid letters shimmer with golden reflections before gently collapsing into a spectacular explosion of droplets illuminated by the sunrise. Hollywood title sequence, ultra-realistic fluid simulation, volumetric lighting, IMAX quality.
+
+  #MiniMaxH3

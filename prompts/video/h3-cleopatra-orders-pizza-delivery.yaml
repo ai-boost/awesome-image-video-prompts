@@ -1,0 +1,30 @@
+id: h3-cleopatra-orders-pizza-delivery
+title:
+  en: Cleopatra on throne meets pizza delivery guy
+  zh: 克利奥帕特拉在王座上迎接披萨外卖员
+model: MiniMax H3
+mode: text-to-video
+category: dialogue
+tags:
+- comedy
+- dialogue
+- lip-sync
+- historical
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2085193166437892346
+  credit: 𝐌
+  likes: 52
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Strength04_X/status/2085193166437892346
+notes:
+  en: Timestamped beats lock the timing of each reaction, and the spoken lines are quoted so lip sync has exact words to follow. Setting a regal pyramid interior against a modern delivery driver builds the joke before any dialogue lands.
+  zh: 按时间戳分段规定每个反应的时机，台词用引号单独标出，让口型同步有明确的对白可依。把皇家殿堂与现代外卖员放在一起，在台词出现前就建立了笑点。
+prompt: |
+  0:00–0:04 — Medium shot inside a golden pyramid chamber. CLEOPATRA sits on her throne looking majestic. A modern pizza delivery guy in helmet and red jacket suddenly walks in holding a large pizza box.
+  0:04–0:07 — Cleopatra stands up, points at the box and starts singing in a dramatic royal voice: “Pizza man, pizza man… bring the cheese across the sand!” while doing slow Egyptian hand waves.
+  0:07–0:10 — The delivery guy tries hard to stay professional and say “That’ll be 12 dollars,” but his lips start trembling.
+  0:10–0:13 — He can’t hold it and bursts out laughing, almost dropping the pizza.
+  0:13–0:15 — Cleopatra freezes mid-hand-wave, looks at him, and completely cracks up too. Both are laughing while the pizza box tilts dangerously.

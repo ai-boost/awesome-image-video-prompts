@@ -1,0 +1,25 @@
+id: seedance-flaming-wok-chef-performance
+title:
+  en: Chef flips flaming wok with vegetables
+  zh: 厨师翻动烈焰炒锅与蔬菜
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- cooking
+- restaurant
+- camera-movement
+source:
+  name: '@AynahhX on X'
+  url: https://x.com/AynahhX/status/2102946546035945875
+  credit: AynahhX
+  captured: '2026-10-29'
+  posted: '2026-09-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AynahhX/status/2102946546035945875
+notes:
+  en: The prompt lays out the 15-second clip as a beat-by-beat shot list joined by arrows, with a specified cut to a close-up and a camera orbit that gives the action a clear order. It closes with an explicit no text, subtitles, logos or watermark line to keep the frame clean.
+  zh: 提示词把15秒片段写成用箭头连接的逐拍分镜，明确指定切到特写和环绕运镜，让动作有清晰的先后顺序。结尾加上无字幕、无标志、无水印的说明，保证画面干净。
+prompt: |
+  Create a 15-second cinematic 3D animated cooking sequence inside a professional modern restaurant kitchen. Show a young male chef wearing a white chef jacket and red apron confidently cooking with a large black wok. Start with a medium shot of the chef tossing the wok with a serious, focused expression → cut to a dramatic close-up as flames burst from the pan while he continues cooking → show colorful vegetables including carrots, red bell peppers and bok choy flying dynamically through the air as he flips the wok → camera moves around the chef as he skillfully catches the ingredients back into the pan → finish with a close-up of the chef plating the freshly cooked colorful vegetables onto a clean white plate with glossy sauce. Warm cinematic restaurant lighting, realistic fire and smoke, detailed food textures, smooth character animation, natural hand and body movement, dynamic camera angles, cinematic depth of field, vibrant colors, polished high-end 3D animation, expressive facial animation, satisfying cooking-action atmosphere. No text, subtitles, logos or watermark.

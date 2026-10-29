@@ -1,0 +1,111 @@
+id: seedance-paper-city-first-fold
+title:
+  en: Paper sheet folds into a handcrafted miniature city
+  zh: 纸张折叠成手工微型纸城市
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- paper-art
+- miniature
+- macro-shot
+- continuity
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2088866007918268515
+  credit: ChillaiKalan__
+  captured: '2026-10-29'
+  posted: '2026-08-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ChillaiKalan__/status/2088866007918268515
+notes:
+  en: Timecoded shots each name a lens and camera move, and a separate continuity block locks building positions and paper behavior so the miniature world stays identical across cuts. Material and lighting rules are written as plain physical descriptions rather than stacked style tags.
+  zh: 按时间码逐镜头写明镜头焦段与运动，并用单独的连续性段落锁定建筑位置和纸张质感，使微缩城市在切换间保持一致。材质与光线规则用直白的物理描述写出，而不是堆叠风格标签。
+prompt: |
+  30-SECOND CINEMATIC SHORT
+  Create a 30-second cinematic sequence with the visual discipline of a major feature film. The world is entirely made from paper, cardboard, ink, and delicate handcrafted materials.
+  00:00–00:05 — THE FIRST FOLD
+  Begin with an extreme macro shot of a blank sheet of textured paper.
+  A single fold slowly forms across its surface.
+  Lens: 100mm macro
+  Camera: Completely static
+  Soft daylight moves across the paper as the fold continues.
+  Cut precisely as the paper reaches its final shape.
+  00:05–00:11 — THE CITY EMERGES
+  Transition into a 50mm shot.
+  The folded paper begins forming miniature streets and architectural structures.
+  Buildings rise naturally from the surface through carefully constructed paper folds.
+  The camera slowly tracks sideways.
+  Tiny windows catch the light.
+  Nothing feels computer-generated; every surface should have believable paper fibers, folds, shadows, and imperfections.
+  00:11–00:17 — THE REVEAL
+  Move into a 35mm shot.
+  The camera pulls backward.
+  The small arrangement is revealed as an enormous handcrafted paper city stretching across a large table.
+  Roads connect different districts.
+  Bridges cross miniature rivers.
+  Paper trees move gently from an unseen breeze.
+  00:17–00:23 — MORNING
+  Transition into a slow overhead crane shot.
+  Warm sunlight gradually spreads across the paper city.
+  Shadows from the buildings become longer and more defined.
+  Tiny paper windows begin reflecting the sunlight.
+  The camera continues rising, revealing the geometric relationship between the streets and buildings.
+  00:23–00:27 — THE DETAIL
+  Cut to an 85mm close-up.
+  Focus on a tiny paper clock mounted on one building.
+  The clock moves forward by one minute.
+  Rack focus from the clock to the miniature skyline behind it.
+  00:27–00:30 — FINAL IMAGE
+  Return to an extreme wide shot.
+  The entire paper city sits beneath a large studio window.
+  The morning light completely fills the miniature world.
+  Camera slowly pulls backward until the city becomes a small object within the larger room.
+  Fade to black.
+  CINEMATOGRAPHY
+  Large-format feature-film aesthetic.
+  100mm macro for texture.
+  85mm for detail.
+  50mm for natural perspective.
+  35mm for environmental shots.
+  Controlled dolly and crane movements.
+  Realistic depth of field.
+  Natural focus transitions.
+  Soft motion blur.
+  Subtle lens imperfections.
+  No artificial camera shake.
+  MATERIAL DIRECTION
+  Every surface must visibly behave like physical paper.
+  Visible paper fibers.
+  Natural folds.
+  Tiny imperfections.
+  Soft cardboard edges.
+  Realistic contact shadows.
+  Believable paper thickness.
+  Natural material deformation.
+  LIGHTING
+  Soft morning daylight.
+  Large window as the primary source.
+  Natural bounce light.
+  Gentle shadows.
+  Subtle warm highlights.
+  No artificial neon effects.
+  No excessive visual effects.
+  CONTINUITY
+  The same paper city throughout the entire sequence.
+  Buildings maintain identical shapes and positions.
+  Roads remain connected.
+  Paper materials remain consistent.
+  No random transformations.
+  No flickering.
+  No duplicated structures.
+  No sudden environmental changes.
+  DIRECTOR’S NOTE
+  Treat this as a miniature feature film, not a visual-effects demonstration.
+  The camera should discover the world gradually.
+  Start intimate.
+  Reveal scale.
+  Return to detail.
+  Finish wide.
+  The audience should feel that they are watching a real handcrafted world photographed with a cinema camera.
+  Photorealistic 4K • tactile materials • feature-film cinematography • sophisticated lighting • realistic miniature photography • cinematic depth • precise camera movement • seamless visual continuity.

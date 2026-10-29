@@ -1,0 +1,31 @@
+id: seedance-anime-boy-river-slide-ocean-dive
+title:
+  en: Boy and pet slide river into ocean dive
+  zh: 少年与宠物滑下河流跃入大海
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- anime
+- pov-camera
+- underwater
+- no-dialogue
+source:
+  name: '@mrdejie on X'
+  url: https://x.com/mrdejie/status/2089612021130235910
+  credit: MrDejie
+  captured: '2026-10-29'
+  posted: '2026-08-18'
+video: https://x.com/mrdejie/status/2089612021130235910
+notes:
+  en: A timed shot list with a fixed style block up front keeps one anime look across every cut. Each shot names its camera move (wide push in, river POV, underwater POV, upward tilt) so the transitions stay readable.
+  zh: 开头固定的风格描述加上按秒划分的分镜表，让所有镜头保持同一种动漫画风。每个镜头都写明运镜（推近的全景、河面视角、水下视角、向上摇镜），使切换清晰可控。
+prompt: |
+  Create a highly dynamic 30-second 2D anime scene in a bright, cheerful modern anime illustration style. Style requirements: bold clean black outlines, flat colors with very minimal shading, soft rounded character designs, bright vibrant colors, simple but highly expressive poses, clean modern anime look.
+  Dynamic camera movements throughout. Smooth transitions between shots. No dialogue. Bright and joyful atmosphere.
+  0–7s (Shot 1 – Wide to Close):Wide angle shot of a bright sunny river valley with lush green surroundings. A soft-rounded anime boy happily lifts his pet (same size as him) into his arms. He runs and jumps into the river with his pet. They both slide down the flowing river with big joyful expressions. Camera starts wide showing the full environment, then smoothly pushes in to focus on their happy faces as they slide.
+  7–12s (Shot 2 – River POV):Camera switches to first-person point of view as if from their eyes. Fast, dynamic movement through the river. Water splashing, bright sunlight reflecting, the river rushing forward. Exciting and energetic camera motion.
+  12–16s (Shot 3 – Mid-air):They reach the end of the river and are launched mid-air into the open ocean, still looking extremely happy. Camera quickly focuses on an extreme close-up of the boy’s eyes only.
+  16–24s (Shot 4 – Underwater POV):Camera switches to first-person point of view (the boy’s eyes act as the camera). Bright, colorful underwater scene is revealed. A friendly dolphin, an octopus, a seahorse, and a stingray swim around him playfully in the clear ocean water. The camera looks around at each creature with wonder and joy.
+  24–30s (Shot 5 – Surface & Sky):The boy and his pet surface from the water. The pet is happily piggybacking on the boy’s back. Half of their bodies are still submerged. They laugh with pure joy. Cute underwater creatures also surface around them, looking just as happy. Camera slowly tilts upward and moves toward the bright blue sky, ending on a wide, cheerful sky shot.
+  Style notes:Clean bold black line art, flat bright colors, soft rounded designs, minimal shading, highly expressive happy faces, dynamic and fluid camera movement throughout. Keep the energy fun, light, and full of joy.

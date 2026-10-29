@@ -1,0 +1,45 @@
+id: seedance-europe-old-town-selfie-vlog
+title:
+  en: Selfie travel vlog through a European old town
+  zh: 欧洲老城街头自拍旅行 vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- selfie
+- handheld
+- travel
+- timeline
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2087737206459044262
+  credit: Sarah
+  captured: '2026-10-29'
+  posted: '2026-08-13'
+video: https://x.com/SyntheSarah/status/2087737206459044262
+notes:
+  en: The prompt lays out a timed shot list with camera work for each cut, then fixes one face and outfit across selfie, pan, POV and café shots. Asking for skin texture, handheld shake and natural exposure changes while banning beauty filters and CGI pushes the result toward real phone footage.
+  zh: 提示词按时间轴逐镜头写明运镜，并固定同一人物的面部与服装，让自拍、摇镜、第一人称和咖啡馆镜头保持一致。要求保留皮肤纹理、手持抖动和自然曝光变化，同时排除美颜滤镜与 CGI 质感，使画面接近真实手机实拍。
+prompt: |
+  Create a 15-second ultra-photorealistic travel vlog featuring the SAME young European woman throughout the entire video. She has natural skin texture, subtle facial imperfections, realistic hair movement, authentic body proportions, and completely natural expressions. The video must look like genuine footage recorded by a real travel creator, NOT AI-generated or cinematic CGI.
+
+  SHOT 1 — 0–3 seconds:
+  Selfie-style handheld footage. The woman walks naturally down a beautiful European old-town street in the morning. She holds a small vlog camera at arm's length, looks directly into the lens and gives a subtle genuine smile. Natural walking bounce, slight handheld shake, realistic breathing and hair movement. Background includes pedestrians casually walking, parked bicycles, small cafés, textured historic buildings and soft morning sunlight.
+
+  SHOT 2 — 3–6 seconds:
+  She turns the camera away from herself toward the street. A natural handheld pan reveals detailed European architecture, outdoor café tables, people having coffee, bicycles passing and a small bakery. The camera movement is imperfect and human, with slight exposure adjustment as it moves from shadow into sunlight.
+
+  SHOT 3 — 6–9 seconds:
+  Cut naturally back to selfie footage. She continues walking and briefly says something casually to the camera with natural lip movement and relaxed facial expressions. A light breeze moves a few strands of her hair. People pass behind her naturally without looking at the camera. Realistic depth, authentic street ambience and subtle camera shake.
+
+  SHOT 4 — 9–12 seconds:
+  POV-style footage from her camera as she enters a small local café. The camera moves naturally through the doorway toward a wooden table with a freshly prepared coffee and a small pastry. Realistic reflections on glass, steam rising subtly from the coffee, natural indoor lighting, background conversations and realistic movement.
+
+  SHOT 5 — 12–15 seconds:
+  She sits outside the café and turns the camera back toward herself. She takes a small sip of coffee, looks into the lens and smiles naturally. The camera remains handheld and slightly imperfect. Background pedestrians, bicycles and café activity continue moving naturally. End with a subtle realistic focus shift from her face toward the street behind her.
+
+  VISUAL REQUIREMENTS:
+  Absolute photorealism, real-world physics, realistic human motion, authentic handheld smartphone/vlog camera behavior, natural skin pores and texture, realistic eyes and hair, physically accurate lighting and shadows, natural exposure changes, realistic reflections, detailed European environment, believable background pedestrians, consistent face and clothing across every shot.
+
+  Avoid overly smooth camera movements, artificial beauty filters, plastic skin, exaggerated expressions, perfect symmetry, CGI appearance, dramatic movie-style transitions, unrealistic background motion

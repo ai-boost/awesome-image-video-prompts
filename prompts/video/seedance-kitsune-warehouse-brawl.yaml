@@ -1,0 +1,25 @@
+id: seedance-kitsune-warehouse-brawl
+title:
+  en: Fox-eared schoolgirl fights mercenaries in warehouse
+  zh: 狐耳女学生在仓库中对战佣兵
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- kitsune
+- martial-arts
+- warehouse
+- live-action-anime
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2094609588142379101
+  credit: laviniavelle
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2094609588142379101
+notes:
+  en: The prompt fixes the character design first (hair, ears, tails, uniform) and then gives the setting, action beats and camera language. Naming low angles, cuts and motion blur plus an Unreal Engine 5 render target steers the look toward a photoreal CGI action scene.
+  zh: 提示词先固定角色外形（发型、耳朵、尾巴、校服），再描述场景、动作节拍和镜头语言；写明低角度、切镜、动态模糊以及 Unreal Engine 5 渲染目标，使画面更接近写实的 CGI 动作场面。
+prompt: |
+  Live-action anime-style hybrid fox girl Kitsune Gumiho warrior with long blonde pigtails realistic fox ears, claws, and nine large, bushy, light orange and white fluffy tails She is wearing a modern Japanese school uniform with a white short sleeved collared shirt, dark green pleated skirt, red tie tactical shoulder straps, fingerless gloves, and high top sneakers Dynamic fast-paced martial arts fight sequence inside a gritty, dimly lit industrial warehouse filled with concrete pillars, wooden pallets, and volumetric skylight beams. She dodges strikes and spin kicks against heavily armored mercenary thugs and a giant muscular brute boss, using her tails for balance and sweeping attacks Cinematic camera angles dynamic action cuts low-angle shots, motion blur during combat, realistic textures, photorealistic CGI action scene Unreal Engine 5 render 8k resolution.

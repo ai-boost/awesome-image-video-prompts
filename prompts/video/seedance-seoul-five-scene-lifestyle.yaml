@@ -1,0 +1,25 @@
+id: seedance-seoul-five-scene-lifestyle
+title:
+  en: Five Seoul scenes from apartment to hanok alley
+  zh: 从公寓到韩屋小巷的五段首尔场景
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- seoul
+- lifestyle
+- multi-scene
+- photorealistic
+source:
+  name: '@Zoyavelle on X'
+  url: https://x.com/Zoyavelle/status/2101893707897381209
+  credit: Zoyavelle
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zoyavelle/status/2101893707897381209
+notes:
+  en: Numbered scene beats repeat the same detailed description of the woman in every shot, which keeps her looking like one person across cuts. The 35mm lens, shallow depth of field and backlit golden hour light set the film look.
+  zh: 编号的场景段落在每个镜头中重复同一位女主角的详细外貌描述，让她在切换中保持同一个人的样子。35mm 镜头、浅景深和逆光的黄金时段光线设定了电影质感。
+prompt: |
+  Cinematic photorealistic lifestyle video of a beautiful young Korean woman with long dark brown hair, natural makeup and delicate facial features, living an elegant everyday life in Seoul. Scene 1: she is inside a cozy modern apartment with warm beige tones, large floor-to-ceiling windows with soft white curtains, gray sofa, wooden coffee table and indoor plants. She wears a cream cardigan over a white camisole and casually walks through the room while holding a coffee mug. Scene 2: she walks alone through a quiet narrow Seoul residential street surrounded by traditional Korean and modern brick buildings, utility poles and parked cars, natural daylight, realistic urban atmosphere. Scene 3: she enters an underground subway entrance through a glass-covered stairway. Scene 4: she sits at an office desk wearing an elegant beige blazer and white blouse, working naturally on a computer beside a takeaway coffee, bright modern office with large windows. Scene 5: she walks through a beautiful traditional Korean hanok alley at golden hour, wearing a light beige/cream dress, holding a cup, warm sunlight shining directly behind her, traditional wooden houses and hanging lanterns, soft lens flare. Natural human movements, subtle expressions, realistic hair and clothing motion, cinematic composition, shallow depth of field, soft natural lighting, realistic skin texture, professional DSLR cinematography, 35mm lens, smooth camera movement, atmospheric, high detail, photorealistic, film look, 4K.

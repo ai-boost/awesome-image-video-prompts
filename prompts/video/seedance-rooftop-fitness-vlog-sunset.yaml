@@ -1,0 +1,75 @@
+id: seedance-rooftop-fitness-vlog-sunset
+title:
+  en: Woman enters rooftop studio at sunset with gym bag
+  zh: 女子带着健身包走进日落时分的天台训练室
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- fitness
+- vlog
+- handheld
+- rooftop
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2089951161789092255
+  credit: kingofdairyque
+  captured: '2026-10-29'
+  posted: '2026-08-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/kingofdairyque/status/2089951161789092255
+notes:
+  en: The prompt splits the clip into timed 5 second blocks, each with one action and one camera instruction, which keeps the sequence readable. Image1 is limited to face and hairstyle while the outfit is described in text, and the audio line allows only live sound so no music gets added.
+  zh: 提示词按 5 秒分段，每段只写一个动作和一个镜头指令，让整段动作顺序清晰。参考图只用于锁定脸部和发型，服装用文字描述，音频限定为现场声音，避免出现配乐。
+prompt: |
+  30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+  Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+  00–05s:
+  She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+  05–10s:
+  She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+  10–15s:
+  She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+  15–20s:
+  She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+  20–25s:
+  She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+  25–30s:
+  She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+
+  Audio:
+  Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
+
+  Negative:
+  No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.Made with Seedance 2.5
+
+  Prompt:
+
+  30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+  Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+  00–05s:
+  She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+  05–10s:
+  She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+  10–15s:
+  She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+  15–20s:
+  She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+  20–25s:
+  She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+  25–30s:
+  She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.

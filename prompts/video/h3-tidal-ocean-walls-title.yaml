@@ -1,0 +1,26 @@
+id: h3-tidal-ocean-walls-title
+title:
+  en: Ocean walls collide and form the word TIDAL
+  zh: 两面海墙相撞并聚成 TIDAL 字样
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- fluid
+- title-sequence
+- ocean
+- vfx
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2102352395439120566
+  credit: Pierrick Chevallier | IA
+  likes: 39
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/CharaspowerAI/status/2102352395439120566
+notes:
+  en: Ordering the shot as a timeline of beats, from ocean split to collision to title hold to detonation, gives the model a clear sequence to follow. Naming the material and the exit effect, transparent seawater with foam edges and a pressure pulse moving from left to right, keeps the fluid simulation consistent through the hold.
+  zh: 按时间顺序写出节拍，依次是海面分开、海墙相撞、水流拼出字样、冲击波引爆标题，让模型有清晰的时间线可循。点明材质和退场方式（透明海水带白色泡沫边缘，压力波从左向右推进），能让整段流体模拟在标题停留期间保持一致。
+prompt: |
+  Epic fluid-action title sequence beginning with an enormous black ocean suddenly splitting down the center as two mountain-sized walls of water rise on opposite sides of frame. The camera sweeps between them while billions of droplets rain downward and sunlight refracts through transparent liquid structures. Both walls violently collapse toward each other, creating a spectacular collision of water, foam and pressure that launches a liquid shockwave into the sky. The camera rapidly orbits the explosion as the suspended water is pulled into gigantic rotating streams. These streams twist, collide and sculpt themselves into the monumental word "TIDAL", every letter composed of violently circulating transparent seawater with white foam wrapped around its edges. The title holds for one massive hero moment before an invisible pressure pulse tears through it from left to right, detonating each letter sequentially into enormous explosions of water and mist. Photorealistic fluid simulation, colossal natural power, IMAX-scale cinematic VFX.

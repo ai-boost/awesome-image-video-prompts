@@ -1,0 +1,175 @@
+id: seedance-korean-man-errand-home-video
+title:
+  en: Young man's errand day in a handheld home video
+  zh: 年轻男子的日常跑腿，手持家庭录像风格
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- home-video
+- slice-of-life
+- handheld
+- ambient-audio
+source:
+  name: '@Aqib__786Ai on X'
+  url: https://x.com/Aqib__786Ai/status/2092122339463090626
+  credit: Aqib__786Ai
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Aqib__786Ai/status/2092122339463090626
+notes:
+  en: The prompt locks identity and wardrobe in one block, then gives timestamped beats with an imperfect handheld camera spec so the clip reads as casual footage rather than a polished shot. Natural location sound is listed explicitly and music and narration are banned, which keeps the audio grounded.
+  zh: 提示词先用一段固定的人物与服装描述锁定一致性，再按时间码列出分段动作，并设定手持、对焦漂移、曝光变化等不完美镜头，让画面像朋友随手拍。音频只写现场环境声并禁止音乐和旁白，让成片保留生活质感。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary day in the life of a young Korean man. No reference image.
+
+  MAIN SUBJECT
+
+  Young Korean man in his early 20s, naturally attractive, realistic skin texture, minimal grooming, relaxed and slightly sleepy expression.
+
+  Medium-length naturally messy black hair, subtle stubble, a few loose strands falling across his forehead.
+
+  Wearing an oversized faded charcoal T-shirt, loose olive trousers, worn sneakers, and a simple silver watch.
+
+  Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
+
+  SETTING
+
+  A quiet older residential neighborhood during a warm summer afternoon.
+
+  Small apartment buildings, narrow concrete alleys, rooftop terraces, neighborhood laundries, corner shops, parked bicycles, potted plants, utility wires, concrete staircases, trees providing patches of shade, and ordinary people going about their day.
+
+  Everything should feel lived-in and authentic.
+
+  CAMERA / VISUAL AESTHETIC
+
+  Raw personal footage casually recorded by a friend.
+
+  Handheld camera with natural shake, imperfect framing, occasional partial crops, autofocus hunting, exposure shifts between sunlight and shade, mild motion blur, soft image detail, subtle digital noise, slightly faded colors, and natural camera imperfections.
+
+  The camera operator walks with him and reacts naturally.
+
+  No stabilization, no cinematic camera movements, no dramatic lighting, no slow motion, no polished commercial appearance.
+
+  The footage should feel accidentally beautiful rather than deliberately cinematic.
+
+  ⸻
+
+  00:00–00:05 — LEAVING HOME
+
+  He steps out of his apartment carrying a small reusable shopping bag.
+
+  He locks the door, checks his pockets for his keys and phone, then starts walking downstairs.
+
+  The camera follows behind him.
+
+  He briefly looks back at the camera and gives a sleepy half-smile.
+
+  ⸻
+
+  00:05–00:10 — MORNING ERRAND
+
+  He walks through a quiet neighborhood alley toward a small local grocery shop.
+
+  He passes parked bicycles and people watering plants outside their homes.
+
+  He stops at a roadside fruit stand and picks up a couple of oranges, inspecting them casually before placing them into his bag.
+
+  The camera briefly focuses on the fruit before returning to his face.
+
+  ⸻
+
+  00:10–00:15 — SMALL BREAK
+
+  He sits on a low concrete wall outside the shop.
+
+  He opens a cold bottled drink and takes a few sips.
+
+  A breeze moves his hair.
+
+  He watches people passing by without saying anything.
+
+  The camera stays slightly shaky and imperfectly framed, as if his friend is simply sitting nearby filming him.
+
+  ⸻
+
+  00:15–00:20 — WALKING HOME
+
+  He gets up and continues walking.
+
+  A bicycle passes behind him.
+
+  He notices a stray cat sitting beside a wall, crouches down and gently pets it.
+
+  The cat walks away.
+
+  He laughs quietly and stands back up.
+
+  The camera operator accidentally cuts off part of his head while moving closer, then quickly reframes him.
+
+  ⸻
+
+  00:20–00:25 — ROOFTOP
+
+  He returns home and walks onto a small rooftop.
+
+  He places the shopping bag beside an old chair.
+
+  He leans against the railing and looks across the neighborhood.
+
+  The afternoon sunlight falls naturally across his face.
+
+  He runs his hand through his messy hair and quietly watches the distant buildings.
+
+  ⸻
+
+  00:25–00:30 — FINAL MOMENT
+
+  He notices the camera still recording.
+
+  He looks directly into the lens and gives a tiny amused smile.
+
+  He casually says:
+
+  “You’re still recording?”
+
+  He shakes his head and walks toward the camera.
+
+  The camera moves backward slightly as he approaches.
+
+  The recording abruptly cuts to black before he reaches the camera.
+
+  ⸻
+
+  AUDIO
+
+  Natural location sound only:
+
+  Footsteps, distant traffic, bicycles, birds, wind, neighborhood conversations, shop sounds, bottle opening, fabric movement, doors closing, and subtle handheld camera noise.
+
+  No music.
+
+  No narration.
+
+  No artificial sound effects.
+
+  Only the single spoken line: “You’re still recording?”
+
+  ⸻
+
+  FINAL FEEL
+
+  The entire video should feel like a completely ordinary day that somehow became a beautiful memory.
+
+  Quiet, masculine, youthful, intimate, warm, slightly nostalgic, and spontaneous.
+
+  No dramatic events.
+
+  No exaggerated acting.
+
+  No model poses.
+
+  No cinematic hero shots.
+
+  The realism should come from tiny imperfections, casual body language, natural expressions, ordinary surroundings, imperfect camera operation, and moments that feel completely unplanned.

@@ -1,0 +1,25 @@
+id: seedance-seoul-alley-kdrama-moment
+title:
+  en: Woman with shopping bag in Seoul alley
+  zh: 身穿黑色背心的女子提着购物袋走过首尔小巷
+model: Seedance 2.5
+mode: text-to-video
+category: dialogue
+tags:
+- k-drama
+- seoul
+- handheld-camera
+- character-consistency
+source:
+  name: '@ayzalnooor24521 on X'
+  url: https://x.com/ayzalnooor24521/status/2106974434234138683
+  credit: ayzalnooor24521
+  captured: '2026-10-29'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ayzalnooor24521/status/2106974434234138683
+notes:
+  en: A detailed scene brief with named shot types (close-up, medium walking, over the shoulder) and an explicit instruction to keep both faces, hairstyles and clothing consistent across cuts. Ambient details like air conditioning units and passing students ground the street setting.
+  zh: 详细的场景描述加上明确的镜头类型（特写、中景行走、过肩构图），并要求各镜头中两位角色的面容、发型和服装保持一致。空调外机、路过的学生等环境细节让首尔街景更真实。
+prompt: "A quiet moment, a kind heart, and a story that speaks without words. \nSometimes, the simplest moments leave the biggest impact.\n\nCreated on seedance 2.5\n\nA beautiful Korean girl with long natural black hair, wearing a fitted black sleeveless top, light beige wide-leg pants, and carrying a small white shopping bag, walking naturally through a quiet Seoul neighborhood during a bright daytime afternoon. Create a cinematic Korean K-drama style scene with realistic Korean architecture, narrow urban alleyways, tiled buildings, air-conditioning units, parked cars, and pedestrians in the background. She notices a young Korean schoolgirl wearing a white school uniform shirt, blue striped tie, and blue plaid skirt, then approaches her with a concerned and caring expression. Show natural body language, subtle facial expressions, realistic eye movement, and emotionally believable interaction between the two characters. Include a group of Korean high-school students walking through the\
+  \ alley in the background, creating an authentic everyday Seoul atmosphere. Use soft natural daylight, realistic skin texture, shallow depth of field, cinematic framing, gentle handheld camera movement, and smooth focus transitions. Build the scene like a premium Korean drama with close-up emotional shots, medium walking shots, and over-the-shoulder compositions while keeping both characters’ faces, hairstyles, clothing, and identities consistent throughout. Make the final video photorealistic, emotionally engaging, cinematic, and completely natural with realistic Korean street ambience and subtle background movement.\n"

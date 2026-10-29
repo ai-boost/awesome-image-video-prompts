@@ -1,0 +1,26 @@
+id: h3-found-footage-fisherman-doppelganger
+title:
+  en: Fisherman reels in on a quiet lake
+  zh: 渔夫在平静湖面上收线
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- horror
+- found footage
+- fishing
+- handheld
+source:
+  name: '@cocktailpeanut on X'
+  url: https://x.com/cocktailpeanut/status/2084842607411335284
+  credit: cocktail peanut
+  likes: 43
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/cocktailpeanut/status/2084842607411335284
+notes:
+  en: Tying the whole clip to a cheap action camera mounted in the boat, with imperfect autofocus and clipped audio, makes the found footage realism hold. Ordering the story as concrete beats and closing on a hard cut to black gives the model a clear arc to follow.
+  zh: 将整段视频锁定在船上廉价运动相机的视角，加入自动对焦不稳和音频削波，让纪实感立得住。按顺序列出具体事件，并以突然切黑收尾，给模型清晰的叙事走向。
+prompt: |
+  "Hyper-realistic found-footage horror video, filmed by a cheap action camera mounted inside a small fishing boat on a quiet lake. A lone fisherman violently reels in something heavy. He pulls up a muddy smartphone tangled in weeds. He answers, breathing hard. A distorted voice says, "Finally. I’ve been trying to switch places with you." The phone flashes blinding white and the footage glitches. When the image returns, the phone shows the terrified fisherman trapped inside its screen, silently pounding on the glass. Behind him, an identical soaking-wet fisherman slowly climbs out of the lake into the boat, notices the camera, and reaches toward the lens. Abrupt cut to black. Raw handheld realism, imperfect autofocus, clipped audio, no music, no stylization."

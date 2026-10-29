@@ -1,0 +1,40 @@
+id: h3-days-of-week-calendar-lesson
+title:
+  en: Mascot bounces onto a blank calendar page
+  zh: 吉祥物跳上空白的日历页
+model: MiniMax H3
+mode: text-to-video
+category: dialogue
+tags:
+- kids-education
+- calendar
+- narration
+- 3d-icons
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2084874623825723522
+  credit: 𝐌
+  likes: 71
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Strength04_X/status/2084874623825723522
+notes:
+  en: Each day runs the same fixed beat order of name, narration, icon, action and repeat, which gives the model a reusable template. Timestamps pin every beat to a window, and a named colour per day plus a calendar-flip transition keeps the scenes consistent.
+  zh: 每一天都按照日期名、旁白、图标、动作、重复的固定顺序展开，形成可复用的模板。时间戳把每个节拍锁定在具体时段，每天指定专属颜色并命名翻页转场，使各场景风格统一。
+prompt: |
+  Create a 15-second animated educational video that introduces young children to the first four days of the week: Monday, Tuesday, Wednesday, Thursday.
+  Learning pattern: DAY NAME → SOUND → FUN ACTIVITY ICON → PLAYFUL ACTION → DAY NAME REPEAT
+  Target audience: children ages 3 to 6.
+  Visual style: Same premium-cute aesthetic — pastel tones, rounded 3D icons, soft lighting, off-white background, unique glow per day, clean bold typography, gentle calendar-page-flip style transitions.
+  0:00–0:01 Intro: Mascot bounces onto a soft floating calendar page, text "Let's learn the days!", tap flips to reveal Monday.
+
+  ▪️0:01–0:04 | Monday — School Day: Calendar page shows "Monday" in big rounded text. Narrator: "Monday. Time for school!" A tiny backpack icon bounces onto the page and wiggles happily. Word "MONDAY" highlighted in soft blue.
+
+  ▪️0:04–0:07 | Tuesday — Park Day: Page flips gently to Tuesday. Narrator: "Tuesday. Time to play!" A small swing icon appears and swings back and forth once. Word "TUESDAY" highlighted in soft orange.
+
+  ▪️0:07–0:10 | Wednesday — Art Day: Page flips to Wednesday. Narrator: "Wednesday. Time to paint!" A tiny paintbrush icon appears and draws one curved rainbow line. Word "WEDNESDAY" highlighted in soft purple.
+
+  ▪️0:10–0:13 | Thursday — Story Day: Page flips to Thursday. Narrator: "Thursday. Time for stories!" A small open book icon appears, pages gently flutter. Word "THURSDAY" highlighted in soft green.
+
+  ▪️0:13–0:15 Recap: Backpack, swing, paintbrush, book appear in four tiles with day names above. Mascot points to each; Narrator: "Monday, Tuesday, Wednesday, Thursday. Great job!" Sparkle + chime.

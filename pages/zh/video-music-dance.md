@@ -1,6 +1,6 @@
 # 音乐与舞蹈
 
-[返回目录](../../README_zh.md) · 全部 19 条
+[返回目录](../../README_zh.md) · 全部 37 条
 
 <a id="seedance-kpop-two-idol-mv"></a>
 ### 双人 K-pop MV，逐镜头
@@ -524,6 +524,459 @@ MiniMax H3 · 文生视频 · 出处: [@Strength04_X on X](https://x.com/Strengt
 
 </details>
 
+<a id="h3-op-art-spy-title-opening-disc"></a>
+### 波普艺术间谍片头以纹路圆盘开场
+
+<a href="https://x.com/doctorwasif/status/2085947083463295024"><img src="../../previews/h3-op-art-spy-title-opening-disc.jpg" width="360"></a>
+
+提示词把节奏写成结构：从稀疏慢镜头逐步加速到鼓点密集的快速蒙太奇，只用硬切，并固定配色轮换顺序，让每一拍都有明确画面。附上音频作为节拍依据、参考图锁定角色剪影，使多次切换中的人物保持一致。
+
+MiniMax H3 · 参考生视频 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2085947083463295024) · 43 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`title-sequence`](tags.md#tag-title-sequence) [`op-art`](tags.md#tag-op-art) [`silhouette`](tags.md#tag-silhouette) [`beat-sync`](tags.md#tag-beat-sync)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using Image as the character reference and the attached modern retro-western electro track for timing, create a 60s Bond-style spy-thriller op-art anime title sequence. Every cut must land exactly on the beat. Start with slow, sparse shots and progressively accelerate into rapid-fire montage as the drum pulse intensifies.
+
+STYLE: Flat, high-contrast pure black/white silhouette against psychedelic 1960s op-art backgrounds: concentric circles, starbursts, spirals, stripes, chevrons and kaleidoscopic patterns. Rotate through hot pink/orange, electric teal/violet, and acid yellow/magenta palettes. No realistic shading.
+
+Use classic Bond-title compositions: walking/spinning silhouettes, gun-barrel-style irises, mirrored/kaleidoscopic duplicates, and extreme close-ups of eyes, hands and weapons. Backgrounds may swirl and morph, but all shot transitions are hard cuts only.
+
+Use frequent half-to-one-beat freeze-frames on dramatic poses, with the character and pattern completely frozen before snapping to the next beat and palette. Alternate kinetic movement with sudden dead-stop freezes.
+
+Add bold 1960s Bond-style geometric italic typography, spinning/tiling/zooming in sync with the music. Apply subtle analog film grain and warm, saturated vintage print grading.
+
+ENDING: On the final hit, freeze the character in full black silhouette at center of a fully bloomed hot-pink-and-gold radiating starburst, while the title card spins/zooms into frame beside them.
+```
+
+</details>
+
+<a id="h3-umbrella-crosswalk-laughing-performance"></a>
+### 撑伞女孩在人行横道上笑着摇摆
+
+<a href="https://x.com/MireilleDartois/status/2085254169259311602"><img src="../../previews/h3-umbrella-crosswalk-laughing-performance.jpg" width="360"></a>
+
+把表演拆成按时间顺序的动作节拍（凑近镜头大笑、眯眼唱歌、移开视线再回看、随节奏摇头），让表情在整段里持续变化，而不是只对口型。参考图到视频锁定人物形象，提示词负责表演。
+
+MiniMax H3 · 参考生视频 · 出处: [@MireilleDartois on X](https://x.com/MireilleDartois/status/2085254169259311602) · 31 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`lip-sync`](tags.md#tag-lip-sync) [`facial-performance`](tags.md#tag-facial-performance) [`reference-to-video`](tags.md#tag-reference-to-video) [`close-up`](tags.md#tag-close-up)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+She jokingly brings her face close to the camera and laughs.
+She sings cheerfully, full of excitement. She laughs with her eyes crinkled, smiles with the corners of her mouth turned up, and looks away briefly before looking back at the camera and laughing again. She sways her head to the rhythm, and her hair bounces up and down.
+```
+
+</details>
+
+<a id="h3-monochrome-dancer-red-glass-grid"></a>
+### 黑白舞者穿过红色玻璃网格
+
+<a href="https://x.com/ivanfioravanti/status/2093820333614571731"><img src="../../previews/h3-monochrome-dancer-red-glass-grid.jpg" width="360"></a>
+
+提示词把每种节拍声音对应到一个画面事件：底鼓压缩空间，军鼓复制动作，踩镲把画面切成碎片，低音让时间弯曲。把角色、世界规则、视觉语言和运动规则分成带标签的段落，使同一位舞者在镜头中保持一致。
+
+MiniMax H3 · 文生视频 · 出处: [@ivanfioravanti on X](https://x.com/ivanfioravanti/status/2093820333614571731) · 18 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`hyperpop`](tags.md#tag-hyperpop) [`glass-grid`](tags.md#tag-glass-grid) [`dance`](tags.md#tag-dance) [`music-video`](tags.md#tag-music-video)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[Core Concept]
+15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based reality where rhythm controls space and motion.
+
+[Character Identity]
+Single woman dancer, Maintain identical face, body, hairstyle and outfit. Multiple figures are only past-frame projections.
+
+[World Logic]
+Each kick compresses the timeline toward the dancer. Each snare duplicates previous movements into adjacent frames. Moving against the timeline transforms the 2D interface into a foldable 3D structure. The dancer escapes the repetition loop.
+
+[Visual Language]
+Black, cold white, warning red. Glass timelines, metal rails, glowing frame lines, scanning grids. Extreme wide-angle, low
+angles, top-down shots, Dutch angles, dolly moves, impossible perspective. 3D word MINIMAX exists as physical architecture, not subtitles.
+
+[Motion Rules]
+Use anticipation → attack → overshoot → settle. Kick drives spatial compression, snare breaks frames, hi-hats animate cursors and fragments, bass bends time. Build with glitch cuts, then explode into an impossible continuous long take during the drop.
+
+[Restrictions]
+No character changes, extra people, random text, subtitles, logos, outfit changes, bad anatomy, flat camera angles, or meaningless flashes.
+```
+
+</details>
+
+<a id="h3-crystal-pillar-kpop-lyric-mv"></a>
+### 韩国偶像站在发光水晶柱舞台上
+
+<a href="https://x.com/MrLarus/status/2085272318649987242"><img src="../../previews/h3-crystal-pillar-kpop-lyric-mv.jpg" width="360"></a>
+
+提示词按镜头编号，每句歌词一个镜头，每个镜头都重复同一套人物身份描述并指定一张参考图作为面部锚点，保证多镜头间脸部一致。每句歌词配有独立的文字动效（闪光揭示、冲击缩放、运动模糊），让字幕节奏与音乐同步。
+
+MiniMax H3 · 参考生视频 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2085272318649987242) · 17 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`k-pop`](tags.md#tag-k-pop) [`lyric-mv`](tags.md#tag-lyric-mv) [`lip-sync`](tags.md#tag-lip-sync) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a photoreal 15-second K-pop lyric MV using Audio 1 and the eight reference images in upload order.
+
+Keep the same Korean idol recognizable across every shot. Use Image 3 as the main facial anchor. She sings throughout with clear lip-sync and performs confident K-pop movement with turns, footwork, hip motion, arm lines, and camera-aware expressions.
+
+The on-screen lyric text must animate in every shot, with clear motion design synced to the beat and the meaning of each line.
+
+Cut once per lyric line:
+
+1. Glitter on my waist — waist movement, sparkling type reveal
+2. Give you just a taste — move toward camera, sliding type
+3. Never be replaced — sharp hit pose, punch-scale type
+4. Running through the space — run through the chrome corridor, motion-blur type
+5. I’m feeling so gold — full spin in gold light, pulsing type
+6. Stories to be told — walk-dance beside the rain window, drifting type
+7. Baby watch the glow — moving beauty close-up, luminous type bloom
+8. Welcome to the show — open-arm stage finale, billboard type zoom
+
+Only display the lyric text shown in the reference images. Keep every line readable and correctly spelled.
+
+1 · Glitter on my waist  
+Keep the SAME Korean woman about 22 as the reference image: same facial identity, same eyes nose lips. Honey-ash brown soft waves, middle part. Cream champagne satin crop bustier fully covered stylish, ice-blue sparkle mini skirt, crystal jewelry, nude heels. Fashion-sexy premium K-pop, dewy K-beauty. Medium shot emphasizing waist sparkle and glitter body shimmer, hand near hip, crystal studio set with floating glitter particles and chrome reflections, magenta cyan rim. Large bold white readable typography in frame exactly: Glitter on my waist. High-impact K-pop lyric MV still, photoreal cinematic 16:9. Avoid different face, older look, explicit vulgar, extra fingers, gibberish unreadable letters, wrong lyrics, DONT BLINK, MIDNIGHT RUN, MAKE IT LOUD, ONE MORE TIME text, watermark, low-res, corporate black suit, childish loli
+
+2 · Give you just a taste  
+Keep the SAME Korean woman about 22 as the reference image: same facial identity, same eyes nose lips. Honey-ash brown soft waves, middle part. Cream champagne satin crop bustier fully covered stylish, ice-blue sparkle mini skirt, crystal jewelry, nude heels. Fashion-sexy premium K-pop, dewy K-beauty. Intimate medium waist-up, soft teasing girl-crush eye contact, one hand near collarbone, velvet lounge corner with warm pink practical lights, shallow depth. Large bold white readable typography exactly: Give you just a taste. Photoreal K-pop MV still 16:9. Avoid different face, older look, explicit vulgar, extra fingers, gibberish unreadable letters, wrong lyrics, DONT BLINK, MIDNIGHT RUN, MAKE IT LOUD, ONE MORE TIME text, watermark, low-res, corporate black suit, childish loli
+
+3 · Never be replaced  
+Keep the SAME Korean woman about 22 as the reference image: same facial identity, same eyes nose lips. Honey-ash brown soft waves, middle part. Cream champagne satin crop bustier fully covered stylish, ice-blue sparkle mini skirt, crystal jewelry, nude heels. Fashion-sexy premium K-pop, dewy K-beauty. Confident full or three-quarter plant stance, strong eye contact, fashion power. Mirror black stage with vertical glass panels, not empty void only. Giant typography wall behind her reading exactly: Never be replaced. Photoreal cinematic 16:9. Avoid different face, older look, explicit vulgar, extra fingers, gibberish unreadable letters, wrong lyrics, DONT BLINK, MIDNIGHT RUN, MAKE IT LOUD, ONE MORE TIME text, watermark, low-res, corporate black suit, childish loli
+
+4 · Running through the space  
+Keep the SAME Korean woman about 22 as the reference image: same facial identity. Black hair with vivid pink peekaboo underlights, high ponytail. Metallic silver tube crop top fully covered, black mini skirt, chunky silver belt, black platform boots. Y2K flashy K-pop fashion-sexy not vulgar. Mid-run motion inside endless chrome mirror corridor, pink hair tips flying, reflections. Semi-transparent or wall typography readable exactly: Running through the space. Kinetic K-pop MV still, photoreal 16:9. Avoid different face, older look, explicit vulgar, extra fingers, gibberish unreadable letters, wrong lyrics, DONT BLINK, MIDNIGHT RUN, MAKE IT LOUD, ONE MORE TIME text, watermark, low-res, corporate black suit, childish loli
+
+5 · I'm feeling so gold  
+Keep the SAME Korean woman about 22 as the reference image: same facial identity, same eyes nose lips. Honey-ash brown soft waves, middle part. Cream champagne satin crop bustier fully covered stylish, ice-blue sparkle mini skirt, crystal jewelry, nude heels. Fashion-sexy premium K-pop, dewy K-beauty. Power medium pose, warm golden gel lighting shift, gold glitter dust in air, gold-chrome corridor or gold-lit stage (not cold cyan only). Large bold typography readable exactly: I'm feeling so gold. Photoreal cinematic 16:9. Avoid different face, older look, explicit vulgar, extra fingers, gibberish unreadable letters, wrong lyrics, DONT BLINK, MIDNIGHT RUN, MAKE IT LOUD, ONE MORE TIME text, watermark, low-res, corporate black suit, childish loli
+
+6 · Stories to be told  
+Keep the SAME Korean woman about 22 as the reference image: same facial identity, same eyes nose lips. Honey-ash brown soft waves, middle part. Cream champagne satin crop bustier fully covered stylish, ice-blue sparkle mini skirt, crystal jewelry, nude heels. Fashion-sexy premium K-pop, dewy K-beauty. Profile or three-quarter storytelling pose near rain-streaked night glass window, soft city bokeh, cooler blue mood bridge scene, elegant modest fashion. Readable typography in frame exactly: Stories to be told. Photoreal 16:9. Avoid different face, older look, explicit vulgar, extra fingers, gibberish unreadable letters, wrong lyrics, DONT BLINK, MIDNIGHT RUN, MAKE IT LOUD, ONE MORE TIME text, watermark, low-res, corporate black suit, childish loli
+
+7 · Baby watch the glow  
+Keep the SAME Korean woman about 22 as the reference image: same facial identity, same eyes nose lips. Honey-ash brown soft waves, middle part. Cream champagne satin crop bustier fully covered stylish, ice-blue sparkle mini skirt, crystal jewelry, nude heels. Fashion-sexy premium K-pop, dewy K-beauty. Beauty close-up face and shoulders, strong glow rim light and lens flare, catchlights, dewy skin, dark stage with single luminous glow behind. Readable typography exactly: Baby watch the glow. Photoreal 16:9. Avoid different face, older look, explicit vulgar, extra fingers, gibberish unreadable letters, wrong lyrics, DONT BLINK, MIDNIGHT RUN, MAKE IT LOUD, ONE MORE TIME text, watermark, low-res, corporate black suit, childish loli
+
+8 · Welcome to the show  
+Keep the SAME Korean woman about 22 as the reference image: same facial identity, same eyes nose lips jaw. Ultra sharp photoreal face, tack-sharp eyes and eyelashes, clear skin micro-detail, no soft blur, no motion blur, no low-res mush. High sleek ponytail with balayage tips. White cropped bomber open over black crop top, black mini skirt, power street idol look. MEDIUM shot waist-up to mid-thigh, subject fills frame, confident show-entrance pose facing camera, open energy. Concert stage entrance with LED pillars and soft haze BEHIND her, shallow depth of field with face in perfect focus, background slightly softer. Huge billboard typography readable exactly: Welcome to the show. Cinematic 16:9, premium K-pop MV still, high detail. Avoid different face, soft focus on face, blurry face, plastic skin, extra fingers, gibberish text, wrong lyrics, DONT BLINK, MIDNIGHT RUN, MAKE IT LOUD text, watermark, low-res, explicit vulgar.
+```
+
+</details>
+
+<a id="h3-dancer-night-stage-japanese-type"></a>
+### 夜间舞台舞者被日文文字环绕
+
+<a href="https://x.com/minmin_4410/status/2094551473531326626"><img src="../../previews/h3-dancer-night-stage-japanese-type.jpg" width="360"></a>
+
+填空模板先锁定参考人物和唯一的渲染风格，再设定文字分组按顺序出现，最后在高潮处同时出现。文字跟随身体动作运动并避开面部，让舞者始终是画面焦点，文字则随节拍环绕并重新组合。
+
+MiniMax H3 · 参考生视频 · 出处: [@minmin_4410 on X](https://x.com/minmin_4410/status/2094551473531326626) · 16 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`typography`](tags.md#tag-typography) [`dance`](tags.md#tag-dance) [`reference-character`](tags.md#tag-reference-character) [`beat-sync`](tags.md#tag-beat-sync)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+## INPUT【基本設定】
+A: 主人公：提供された参照画像
+B: 表示テキスト：【例：①「START」②「GO」③「FINAL」】
+C: 演出の雰囲気：【例：疾走感のあるクールなMV】
+D: 表現スタイル：【例：アニメ（セルアニメ）】
+E: 表現スタイル詳細：【例：線画を強調したセルアニメ】
+F: テーマ色：【例：白＋赤】
+G: 尺：【例：15秒】
+
+Dを全編の唯一の表現基準とし、人物・背景・小物・文字すべてに統一適用。選択した表現スタイル以外の描画・質感・レンダリング表現を混在させない。EはDの範囲内で反映。Aの主人公の顔、髪型、衣装、体型、シルエットを忠実に維持。追加人物なし。
+
+---
+
+## 任意指定タイポグラフィ演出
+
+※使用したい演出は【使用】と記載。空欄はAIが尺・構成に応じてランダム採用・不採用を判断。
+※複数指定時は異なるタイミングで使用。具体的な指示を入力した場合はその内容を優先。
+
+- ボディライン・ラッピング【】：身体の輪郭に沿って文字を湾曲。
+- フェイス・セーフティスプリット【】：顔直前で文字を左右へ分裂。
+- タイポグラフィ・トンネル【】：人物を避けて前景・中景・背景に文字を配置。
+- シルエット・ネガティブスペース【】：人物シルエット部分だけ文字を避ける。
+- 文字の残像リング【】：人物外周を文字がリング状に旋回。
+- 文字回避カメラ【】：俯瞰・超ローアングル等で文字との重なりを回避。
+- 文字分裂・再集合【】：文字が分裂→人物を回避→正しい文字列へ再集合。
+- その他タイポグラフィ演出【】：指定内容を使用。
+
+## テキスト表示
+
+Bの順番を厳守。カンマ「,」でグループ化。
+同一グループは「順番表示→全て同時表示」。
+例：①→②→③→①②③同時。
+例：①→②→①②同時→③→④→③④同時。
+指定文字以外、字幕、ロゴ、意味不明な文字は禁止。最終グループの同時表示をクライマックスへ配置。
+
+## 基本演出
+
+主人公の身体動作→カメラ→文字の順に反応。主人公を常に主役とする。
+ドリー、ウィップパン、スナップズーム、オービット、高速トラッキング、俯瞰、超ローアングル等を組み合わせ、同一構図を連続使用しない。
+高速運動と完全静止を強く対比し、動作・カメラ・文字・カットをビート同期。
+
+## タイポグラフィ
+
+Bの文字のみ使用。主人公の動作に連動：
+横払い→横飛翔／引き寄せ→集合／回転→旋回／手を前へ→急接近／停止→完全停止。
+文字単独のランダム移動は禁止。字間拡大、分解→再整列、文字ごとの遅延追従を短いアクセントとして使用。
+
+## 人物視認性・空間
+
+顔、目、口、頭部、主要シルエットを文字で隠さない。顔周辺はクリアゾーン。
+人物へ接近した文字は、湾曲・分裂・回避・点滅・瞬間消失等で人物を避ける。
+背景文字は人物を囲み、前景文字は顔・身体を避ける。
+文字をカメラ直前・人物手前・人物背後へ配置し、距離差とパララックスで奥行きを表現。
+
+## 尺別自動構成
+
+Gに応じてカット数・表示時間・カメラ速度・演出密度を最適化。
+短尺：フック→順番表示→同時表示→フィニッシュ。
+中尺：フック→展開→特殊演出→バレットタイム→再加速→クライマックス。
+長尺：導入→展開→バレットタイム→再加速→展開→クライマックス→ヒーローショット。
+短いほど凝縮、長いほど演出バリエーションを増加。
+最終0.3～0.5秒は主人公＋最終文字列を安定表示。
+
+## バレットタイム
+
+尺に応じて0～2回。
+主人公・髪・衣装・文字を完全静止し、カメラだけ高速オービット。
+時間再開と同時に全要素を一気に再始動。
+
+## Audio
+
+Cに合うインストゥルメンタル。ボーカル・セリフなし。
+動作・文字・カメラ・カットをビート同期。バレットタイム直前に音を絞り、再開時に強いビートを復帰。
+
+## 最重要
+
+Dの表現スタイルを全編統一し、それ以外を混在させない。
+主人公のデザインを変更しない。追加人物なし。
+指定文字以外を表示しない。表示順・グループ順を厳守。
+主人公の顔・主要シルエットを文字で隠さない。
+主人公の身体動作とカメラワークを最優先。
+タイポグラフィは主人公を隠すためではなく、主人公を強調するために動かす。
+```
+
+</details>
+
+<a id="h3-malta-embroidered-dancer-terrace"></a>
+### 身穿刺绣长裙的舞者站在马耳他露台上
+
+<a href="https://x.com/abulu8/status/2085793101600428386"><img src="../../previews/h3-malta-embroidered-dancer-terrace.jpg" width="360"></a>
+
+十个镜头各自围绕一种动作质感展开，并安排了一次慢动作跃起，让刺绣和裙摆的展开清晰可见。音乐按镜头逐段编排，编曲与舞蹈同步推进。
+
+MiniMax H3 · 文生视频 · 出处: [@abulu8 on X](https://x.com/abulu8/status/2085793101600428386) · 16 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`dance`](tags.md#tag-dance) [`slow motion`](tags.md#tag-slowmotion) [`fabric physics`](tags.md#tag-fabricphysics) [`malta`](tags.md#tag-malta)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "format": { "duration": "15s", "bpm": 92, "total_shots": 10, "sync_type": "Dance to Playback Song — No Lip-Sync" },
+  "style_reference": "Warm Mediterranean daylight, 35mm, fine organic grain, gentle bloom. Honey-gold limestone against deep cobalt sea and white sky. Saturated embroidery popping against neutral stone. Shallow depth on close work, crisp wides, natural sun flare. Never cold or desaturated.",
+  "subject": {
+    "description": "A young Mexican woman, mid-twenties, long dark wavy hair loose and moving, warm brown skin, serene expressive face, small gold earrings. Traditional Chiapaneco dress — deep-toned fabric densely embroidered with large multicolored floral bursts in magenta, gold, turquoise and crimson, wide flowing skirt, sheer embroidered overlay that catches air. Bare feet.",
+    "consistency_note": "The dress is the co-star — keep embroidery pattern, colors and skirt volume consistent. Fabric behavior matters as much as her body. Keep her face large in close work to avoid drift."
+  },
+  "environment": {
+    "setting": "Malta in bright daylight — honey limestone architecture, a sunlit stone terrace above the sea, narrow old-town steps.",
+    "background": "Limestone walls and arches, traditional Maltese wooden balconies, worn steps, bougainvillea, the deep blue Mediterranean to the horizon.",
+    "lighting": "Hard Mediterranean afternoon sun, crisp shadows across stone, warm limestone bounce filling her face, occasional flare, glittering sea behind."
+  },
+  "mood": "graceful, elegant, joyful, free, radiant, flowing",
+  "music": {
+    "genre": "Warm Latin folk-pop ballad, 92 BPM, acoustic and organic.",
+    "instrumentation": "Nylon-string guitar arpeggios, soft cajón and hand percussion, warm upright bass, distant accordion, light strings on the big moments, rich female vocal on top.",
+    "arrangement": "Shots 1-2: guitar and voice alone, sparse. Shots 3-5: percussion enters, groove opens. Shot 6: strips to a single held guitar note. Shot 7: full arrangement blooms with strings. Shots 8-9: percussion punches back, then softens. Shot 10: resolves warm on guitar and a sustained vocal note.",
+    "language": "Spanish",
+    "lyrics": "Que baile el sol sobre la piedra dorada / que el viento me lleve donde nadie me llama / Mi falda florece, la mar me responde / Aquí soy de nadie, aquí soy del aire / Vuelo, vuelo, vuelo — y nunca me caigo",
+    "mix": "Warm, natural, acoustic-forward. Vocal present but not overpowering. Round percussion. Sun-soaked."
+  },
+  "style": "Ultra-Realistic",
+  "logic_rule": "The song plays audibly IN the clip while she dances to it. She does NOT sing and does NOT lip-sync — mouth relaxed and natural, expression serene and absorbed, occasionally a soft smile. THE BODY LEADS: each shot built around one quality of motion — stretch, spin, suspended pause, weightlessness, impact, inner rhythm. Movement is GRACEFUL and ELEGANT: long extended lines, controlled turns, soft shaped arms, fluid transitions, classical poise with folkloric footwork — never frantic. Vary camera to serve movement: low angles for elevation, tracking for travel, macro for fabric and feet, wide for full body against architecture. Mandatory SPEED CHANGE: extreme slow motion at the leap's apex so skirt bloom, hair suspension and embroidery are fully legible, then snap back on landing. Fabric physics essential — the skirt must swing, flare, ripple and settle with real weight. Effects: dust off stone, hair whipping, shadow raking walls, sun flare. ENDING: hold on a still breathing frame, then slow fade.",
+  "storyboard": [
+    { "shot": 1, "camera": "Low wide, sun behind her, limestone wall behind.", "action": "THE STRETCH — she rises onto the balls of her bare feet, extending both arms overhead in a long elegant line, spine lengthening, sleeve falling back. Eyes closed, serene.", "sfx": "Wind, gulls, fabric settling; guitar and voice alone." },
+    { "shot": 2, "camera": "Macro on her bare feet on warm stone, shallow focus.", "action": "THE RHYTHM UNDER THE SKIN — heel and toe begin a soft precise pattern, dust lifting with each strike, ankles articulate and controlled.", "sfx": "Delicate foot taps, dust scuff; guitar continuing." },
+    { "shot": 3, "camera": "Tracking alongside her down a narrow sunlit alley.", "action": "She travels in flowing rhythmic steps, skirt swinging gracefully side to side, one hand trailing the warm stone wall.", "sfx": "Footfalls, fabric swish, alley echo; percussion entering." },
+    { "shot": 4, "camera": "Medium, camera orbiting with her turn.", "action": "THE SPIN — one controlled elegant rotation, the embroidered skirt opening into a wide circle of color, hair fanning, arms soft and shaped.", "sfx": "Fabric whoosh, foot pivot; groove opening." },
+    { "shot": 5, "camera": "Close-up on her face, sun raking across it.", "action": "Eyes closed, head tilted back, absorbed with the faintest smile — lost in the music. Mouth relaxed and closed, NOT singing.", "sfx": "Breath, wind; vocal carrying over." },
+    { "shot": 6, "camera": "Wide low angle on the terrace, sea behind.", "action": "THE PAUSE — everything stills. She sinks into a deep controlled coil, weight low, skirt pooling, held one suspended beat.", "sfx": "Music strips to one held guitar note; a deep breath." },
+    { "shot": 7, "camera": "EXTREME SLOW MOTION, low angle, sky and sea behind.", "action": "THE WEIGHTLESSNESS — she launches upward, body arced in an extended line, arms open, skirt blooming outward like a flower, hair suspended, every stitch legible against the blue.", "sfx": "Stretched fabric bloom, deep swell; full arrangement with strings." },
+    { "shot": 8, "camera": "Snap to full speed. Low, close on her landing.", "action": "THE LANDING — she meets the stone softly, knees absorbing, skirt collapsing around her legs, dust puffing, hair falling forward.", "sfx": "Foot impact, fabric slap, exhale; percussion punching back." },
+    { "shot": 9, "camera": "Macro on the embroidery settling, rack up to her chest.", "action": "The floral stitching ripples and stills; her chest rises and falls, a bead of sweat at her collarbone. The body after force.", "sfx": "Breathing, fabric settling, sea; arrangement softening." },
+    { "shot": 10, "camera": "Slow pull-back to a wide — small against limestone and sea. Held.", "action": "She lifts her head, sweeps her hair back and settles into a final open-armed shape against the Mediterranean light, breathing, a slow warm smile. Hold, then slow fade.", "sfx": "Wind, gulls, sea; guitar and sustained vocal resolving." }
+  ]
+}
+```
+
+</details>
+
+<a id="h3-gymnast-hoop-payout-silhouette"></a>
+### 黑色剪影体操选手在收款通知前转动粉金圈
+
+<a href="https://x.com/Naonekozamurai/status/2093474780683149442"><img src="../../previews/h3-gymnast-hoop-payout-silhouette.jpg" width="360"></a>
+
+参考图被固定为整个背景，并禁止重绘其中的文字和图标，因此只允许缓慢推拉、横移和轻微模糊。人物保持无细节的纯黑剪影，靠细白、洋红、紫色的边缘光从暗背景中分离出来。
+
+MiniMax H3 · 参考生视频 · 出处: [@Naonekozamurai on X](https://x.com/Naonekozamurai/status/2093474780683149442) · 15 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`silhouette`](tags.md#tag-silhouette) [`rhythmic-gymnastics`](tags.md#tag-rhythmic-gymnastics) [`kinetic-typography`](tags.md#tag-kinetic-typography) [`reference-background`](tags.md#tag-reference-background)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+「添付した参照画像を、映像全体の背景として使用する。参照画像を別の競技場や抽象背景へ置き換えず、画面全体を覆う大きな背景グラフィックとして維持する。元画像の黒い背景、白とグレーの通知表示、左側のカラフルなクラッカーのアイコンを活かす。
+
+背景画像に含まれる文字やアイコンを描き直したり、別の内容へ変更したりしない。背景には、わずかなズーム、横方向への移動、明るさの変化、軽いぼかし、奥行き表現のみを加える。主人公と新しいタイポグラフィーを目立たせるため、背景画像を少し暗くするが、参照画像であることが認識できる状態を保つ。
+
+MiniMax H3を使用して、15秒・2Kのスタイリッシュなモーショングラフィック＆キネティック・タイポグラフィーによる、新体操のフープ演技動画を制作する。
+
+主人公は、全身が黒一色で描かれた一人の女性のシルエット。顔、髪、肌、衣装などの細部は描かず、プロの新体操選手らしい、しなやかで洗練された身体のラインを持つ美しいシルエットとして表現する。
+
+黒い人物が背景に埋もれないよう、身体の輪郭に細い白、マゼンタ、バイオレットのリムライトを加える。ただし、身体の内部は黒一色を維持し、顔や衣装のディテールは描かない。
+
+主人公は一本の鮮やかなメタリック・ピンクゴールドのフープを使用する。フープは細く軽量な新体操用フープで、映像全体を通して完全な円形、一定の太さと大きさを維持する。
+
+フープの色は、淡いローズピンクを基調として、銅色とシャンパンカラーの反射、明るいピンクホワイトのハイライトを持つ、高級感のあるピンクゴールドとする。単純なピンク色やプラスチック素材にはせず、照明や角度によってローズ、カッパー、淡い金属光沢が美しく変化する質感として表現する。
+
+【0.0～3.5秒：X収益】
+映像は、ピンクゴールドのフープを画面手前に極端に大きく配置した、大胆な構図から始まる。カメラはフープの円の内側を通して、その奥に立つ黒い女性シルエットと参照画像の背景を捉える。
+
+主人公はフープの中心に身体を収めた状態から、腕を大きく伸ばしてフープを回転させる。フープを片手で垂直に回しながら身体の周囲へ滑らかに移動させ、そのままフープの中を片脚ずつ優雅に通り抜ける。
+
+最初の強いビートに合わせて、フープの内側に「X収益」の文字を正確に表示する。「X収益」はフープの回転に呼応して画面奥から拡大しながら現れ、最後は正面を向いて明確に読める状態になる。
+
+フープが床へ軽く触れると、接地点からピンクゴールドの円形波紋が広がる。参照画像左側のクラッカーを連想させる、小さな三角形、円、曲線のシェイプがビートに合わせて飛び出す。
+
+【3.5～8.5秒：$96】
+主人公はフープを手首の周囲で高速回転させ、その回転を止めずに腕から肩、背中、反対側の腕へ転がす。フープの自然な慣性と遠心力を維持し、身体の表面に沿って滑らかに移動させる。
+
+続いて、主人公はフープを垂直に転がしながら前方へ送り、その軌道に合わせて大きく脚を伸ばしたスプリットリープを行う。空中で身体と脚の美しいラインを見せ、着地と同時に転がってきたフープを片手で正確に受け止める。
+
+フープの中心に「$96」の文字を正確に表示する。ドル記号を数字の前に置き、スペースを入れず、必ず「$96」と表示する。フープが回転している間も文字自体は正面を向き、明確に読み取れる瞬間を作る。
+
+「$96」は音楽のビートに合わせて拡大、縮小、前後方向への移動を繰り返す。数字がフープの外へ飛び出したり、別の数字へ変化したり、桁が増減したりしない。
+
+カメラは正面からの全身ショットに加え、斜め上から見下ろす俯瞰ショットへ切り替える。俯瞰ショットでは、床面を転がるピンクゴールドのフープの円形、主人公の足運び、背景上を流れる円やラインを印象的に見せる。
+
+【8.5～12.5秒：Thank You】
+主人公はピンクゴールドのフープを頭上へ高く投げ上げる。フープは空中で正しい軸を中心に回転し、完全な円形を維持する。
+
+フープが空中へ上昇する間、主人公は美しいピボットターンを連続して行う。ターンから大きなリープへ移行し、空中を通過するフープの内側へ身体を合わせる。着地後にもう一度身体を回転させ、落下してくる同じフープを片手で正確にキャッチする。
+
+フープが最も高い位置へ到達した瞬間、「Thank You」の文字がその内側から現れる。「Thank」と「You」の間に正しいスペースを入れ、大文字と小文字の組み合わせを正確に維持する。
+
+「Thank You」は、感謝と祝福を感じさせる優雅な動きで画面奥から手前へ近づく。文字の周囲では、参照画像のクラッカーと調和するマゼンタ、イエロー、オレンジ、バイオレット、ピンクゴールドの紙吹雪と小さなシェイプが広がる。
+
+カメラは斜め下から見上げるローアングルへ移動し、空中のピンクゴールドのフープ、主人公の伸びやかな身体、背景に浮かぶ「Thank You」を同時に捉える。カメラアングルが変わっても、主人公とフープの位置関係、回転方向、動作の連続性を維持する。
+
+【12.5～15.0秒：フィナーレ】
+主人公はキャッチしたフープを大きく一回転させ、最後にフープを垂直に立てた状態で片手に保持する。もう片方の腕と片脚を美しく伸ばし、フープと身体の曲線が調和する、上品で自然なフィニッシュを見せる。
+
+最後の画面では、ピンクゴールドのフープを中央へ大きく配置する。フープの内側に「$96」、フープの上方に「X収益」、下方に「Thank You」を読みやすく整列させる。
+
+3つのタイポグラフィーと主人公が、参照画像の重要な部分を完全に覆わないよう、奥行きと配置を調整する。参照画像は少しぼかした状態で背景に残し、その前に黒い主人公、ピンクゴールドのフープ、3つの文字を鮮明に表示する。
+
+最後の約0.8秒は、主人公、フープ、文字の大きな動きを止める。ピンクゴールドを含むカラフルな紙吹雪だけがゆっくりと落下し、収益への感謝と祝福が明確に伝わる画面として保持する。
+
+【モーショングラフィックと音楽】
+背景には、円、長方形、三角形、曲線、太いライン、グリッド、紙吹雪などのシェイプを登場させる。配色は、参照画像のクラッカーに使われているマゼンタ、イエロー、オレンジ、バイオレットに、メタリックなピンクゴールドを組み合わせる。
+
+シェイプは主人公の演技と連動して動かす。フープが円を描くとピンクゴールドの円形波紋が広がり、フープを転がすとピンクゴールドのラインが進行方向へ伸びる。主人公がリープすると三角形や紙吹雪が上方へ飛び、フープをキャッチすると背景のシェイプが一瞬静止してから外側へ広がる。
+
+フープの回転によって発生する光の軌跡、円形波紋、反射光、細いラインは、すべてフープと同じピンクゴールドを基調とする。光の軌跡はフープの動きを短時間だけ強調し、フープ本体が複数に分裂しているようには見せない。
+
+足の踏み込み、ターン、リープの踏み切りと着地、フープの回転、投げ上げ、キャッチを、華やかで力強いエレクトロニック・ミュージックのキック、スネア、ベース、アクセント音へ正確に同期させる。
+
+カメラは正面、俯瞰、ローアングル、人物の周囲を回る滑らかな移動を組み合わせる。可能な限り主人公の全身とフープ全体を同時に画面内へ収め、フープの一部が画面外へ不自然に切れないようにする。
+
+【文字と一貫性】
+新たに表示するキネティック・タイポグラフィーは「X収益」「$96」「Thank You」の3種類だけに限定する。
+
+「X収益」の文字の欠落や別の漢字への変化を起こさない。「$96」はドル記号を省略せず、必ず数字の前へ配置する。「Thank You」は正しい大文字と小文字、2単語の間のスペースを維持する。文字の重複、誤字、変形、別の文字や数字への変化を起こさない。
+
+参照画像に元から含まれている表示は背景画像の一部として扱い、内容を再生成、改変、翻訳、アニメーションさせない。新しく企業名、ロゴ、ユーザー名、ウォーターマーク、字幕を追加しない。
+
+フープは映像全体を通して必ず1本だけにする。フープを複製、分裂、消失、変形させず、完全な円形と一定の大きさを維持する。フープが主人公の身体を不自然に貫通したり、手から瞬間移動したりしない。
+
+フープの色は、映像全体を通して同じメタリック・ピンクゴールドを維持する。通常の黄色い金色、単色のピンク、赤、オレンジなどへ変化させない。照明や角度による自然なローズ、カッパー、シャンパンカラーの反射だけを許可する。
+
+主人公の形状、体格、手足の本数を15秒間一貫させる。手足の変形、身体の分裂、不自然な残像を発生させない。アングルが変わっても、同じ女性、同じ一本のフープ、同じ背景画像を維持する。
+
+黒い女性シルエット、鮮やかなメタリック・ピンクゴールドのフープ、参照画像の通知画面、華やかな紙吹雪、正確なタイポグラフィーを組み合わせ、Xで得られた収益への感謝と喜びが伝わる、スタイリッシュで祝祭感のある高品質な15秒動画に仕上げる。」
+```
+
+</details>
+
+<a id="h3-rooftop-rapper-beat-cut-verse"></a>
+### 女说唱歌手在日落屋顶的节拍剪辑表演
+
+<a href="https://x.com/abulu8/status/2085253978166808615"><img src="../../previews/h3-rooftop-rapper-beat-cut-verse.jpg" width="360"></a>
+
+JSON 结构的提示词在每个镜头中重复风格约束，使颗粒感和逆光在所有切换中保持一致。12 个编号分镜各自配有镜头运动、准确歌词和节拍提示，为口型同步和硬切提供了清晰的时间安排。
+
+MiniMax H3 · 文生视频 · 出处: [@abulu8 on X](https://x.com/abulu8/status/2085253978166808615) · 15 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`rap`](tags.md#tag-rap) [`lip-sync`](tags.md#tag-lip-sync) [`beat-cut`](tags.md#tag-beat-cut) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "format": {
+    "duration": "15s",
+    "bpm": 96,
+    "total_shots": 12,
+    "sync_type": "Beat-Cut Rap Performance — Double-Time Delivery"
+  },
+  "style_reference": {
+    "look": "Gritty cinematic 35mm — shot on RED Komodo 6K, 24fps, heavy Kodak 5219 500T grain overlay. Muted steel-blue and rust-orange palette with glowing sunset rim highlights and urban grays. Strong backlit lens flare, crushed but detailed shadows, slight halation on the sun. Handheld energy with natural sway. Anamorphic-flavored flare streaks, atmospheric haze catching low sun.",
+    "enforcement": "Maintain the heavy grain, muted steel/rust palette and golden backlight in EVERY shot. Never clean, never over-saturated, never flat-lit."
+  },
+  "subject": {
+    "description": "A bold female rapper, mid-twenties, with shaved sides and long platinum-blonde braids. Confident, commanding presence, sharp direct eye contact. Wardrobe: oversized camo jacket worn open, black sports bra, cargo pants, chunky boots, heavy silver chain. UNIFY ACROSS ALL SHOTS: identical face, braids, wardrobe and chain; same rooftop; same golden-hour light."
+  },
+  "environment": {
+    "setting": "The rooftop of an old industrial building at golden hour, overlooking a city skyline.",
+    "background": "Graffiti-covered concrete walls, rusted AC vents and ducting, faint mist rising off the units, a flickering neon sign at the edge of frame, the skyline sprawling below in haze.",
+    "lighting": "Low sunset sun directly behind her creating a hard rim-light and heavy lens flare; her front filled softly by bounce off the concrete. Rust-orange highlights against steel-blue shadow. Neon adding a small competing color source at dusk."
+  },
+  "mood": "gritty, commanding, defiant, powerful, cinematic, grounded",
+  "music": "Hard-hitting trap at 96 BPM — heavy 808 sub, crisp rolling hi-hats, sparse ominous synth line. Beat drops on shot 3 and hits hardest at the final bar.",
+  "style": "Ultra-Realistic",
+  "logic_rule": "BEAT-CUT PERFORMANCE VIDEO — 12 hard cuts synced to the rhythm, NOT one continuous take. Vary the camera relentlessly: low hero wide, extreme close-up on mouth and eyes, over-shoulder skyline, whip-pan, handheld orbit, macro on the chain, silhouette against the sun. ACCURATE LIP-SYNC is mandatory — her mouth must match the written bars precisely, delivered double-time with sharp aggressive articulation. Performance energy: hand gestures punctuating bars, chest-forward power stance, head bobbing on the beat, braids swinging. Mandatory SPEED CHANGE: one brief slow-motion beat where her braids swing through the sun flare, then snap back on the beat. Physical effects: mist drifting from vents, dust in the flare, jacket moving in the wind. Keep the gritty grain and golden backlight throughout. ENDING: hard cut on the final bar, not a fade.",
+  "lyrics": "Came up off concrete, no ladder, no lane / Turned every locked door into fuel for the flame / They told me stay quiet — I turned the sound up / Skyline my witness, I ain't waiting on luck / No hand-out, no co-sign, I carried the weight / Laid brick over brick while they slept on the wait / Sun on my back and the whole city low / I don't chase the moment — the moment I own.",
+  "storyboard": [
+    { "shot": 1, "camera": "Low-angle wide, 24mm, heroic framing, handheld sway, sun flaring behind her.", "action": "She stands in a power stance on the rooftop edge, jacket moving in the wind, silhouetted by the sunset. Beat intro — she doesn't speak yet.", "sfx": "City rumble below, distant sirens, wind, beat intro." },
+    { "shot": 2, "camera": "Extreme close-up on her eyes, hard rim-light.", "action": "Her eyes lift and lock dead into the lens. A single beat of held silence before the drop.", "sfx": "Hi-hats rolling in, a tense sub swell." },
+    { "shot": 3, "camera": "Fast push-in to medium close, handheld.", "action": "BEAT DROPS. She launches into the first bar, hand cutting the air on the downbeat: 'Came up off concrete, no ladder, no lane.'", "sfx": "808 hitting hard, hats snapping, vocal cutting in." },
+    { "shot": 4, "camera": "Whip-pan to a low side angle, graffiti wall behind.", "action": "'Turned every locked door into fuel for the flame' — she jabs a finger toward the lens, chest forward, braids swinging.", "sfx": "Trap beat driving, vocal aggressive." },
+    { "shot": 5, "camera": "Extreme macro on her mouth, razor focus.", "action": "'They told me stay quiet — I turned the sound up' — tight lip-sync, sharp double-time articulation.", "sfx": "Vocal front and center, hat rolls." },
+    { "shot": 6, "camera": "Over-shoulder, skyline hazy below her.", "action": "'Skyline my witness, I ain't waiting on luck' — she throws an arm out toward the city, claiming it.", "sfx": "Sub-bass hit, wind, city rumble." },
+    { "shot": 7, "camera": "SLOW MOTION, tight profile, sun flaring through.", "action": "Her braids swing through the golden flare, jacket lifting, face set — the one held breath in the whole piece.", "sfx": "Beat filtering down, a stretched vocal tail." },
+    { "shot": 8, "camera": "Snap back to speed. Handheld orbit, low.", "action": "'No hand-out, no co-sign, I carried the weight' — she pivots with the camera, hand pounding her chest on 'weight'.", "sfx": "Beat slamming back in, snare crack." },
+    { "shot": 9, "camera": "Macro on the silver chain against her collarbone.", "action": "The chain swings hard and catches the low sun as she moves. Detail beat on the rhythm.", "sfx": "Metal chink layered into the beat." },
+    { "shot": 10, "camera": "Wide from behind, she faces the skyline, mist off the vents.", "action": "'Laid brick over brick while they slept on the wait' — she gestures out at the city, small against it, undefeated.", "sfx": "Full beat, mist hiss, distant traffic." },
+    { "shot": 11, "camera": "Fast cut to a tight low-angle close-up, neon flickering at frame edge.", "action": "'Sun on my back and the whole city low' — head bobbing hard on the beat, eyes never leaving the lens.", "sfx": "Hat roll building, sub pressure." },
+    { "shot": 12, "camera": "Push-in to a locked hero frame — then hard cut to black.", "action": "'I don't chase the moment — the moment I own.' She holds the final word, arms spread wide, sun blazing behind her. HARD CUT on the last syllable.", "sfx": "Final 808 hit, everything cutting to dead silence." }
+  ]
+}
+```
+
+</details>
+
 <a id="kling4-girl-recorder-six-keyframes"></a>
 ### 女孩在房间里吹竖笛，六张关键帧
 
@@ -591,6 +1044,25 @@ Change the camera angle to be over the violinist’s shoulder.
 
 输入素材: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/3cYlYfozIFs5_Ngj/gemini-omni__edit-over-multiple-turns-with-consistency__invisible.webm)
 
+<a id="seedance-girl-group-sunset-concert-stage"></a>
+### 女团在未来感日落演唱会舞台上热舞
+
+<a href="https://x.com/Sharjeelai_786/status/2096103574376009968"><img src="../../previews/seedance-girl-group-sunset-concert-stage.jpg" width="360"></a>
+
+一句话铺好场景：场地、时段、粉色LED屏、人群和灯光，再点明电影化运镜和超写实画质。日落时的宽景构图给模型一个稳定的舞台布局，让舞者动作时画面保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@Sharjeelai_786 on X](https://x.com/Sharjeelai_786/status/2096103574376009968)
+
+[`k-pop`](tags.md#tag-k-pop) [`concert`](tags.md#tag-concert) [`stage`](tags.md#tag-stage) [`sunset`](tags.md#tag-sunset)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A high-energy  girl group delivers a synchronized dance performance on a futuristic concert stage at sunset — stylish black-and-pink outfits, vibrant pink LED screens, cheering crowd, dramatic stage lights and pyrotechnics, captured with cinematic camera movements in ultra-realistic quality.
+```
+
+</details>
+
 <a id="seedance-greenhouse-pop-dance-performance"></a>
 ### 阳光玻璃温室里的流行舞蹈表演
 
@@ -640,6 +1112,432 @@ NEGATIVE PROMPT: No neon lights, no outfit changes, no hairstyle changes, no fac
 AUDIO: Original bright pop K-pop dance track, about 125 BPM, with a punchy kick, glossy synth chords, funky bass, finger-snap percussion, and an energetic build-up before the hook, ending with a clean bass drop at the last pose. No vocals, no dialogue.
 
 #KPop #AIVideo #Dance
+```
+
+</details>
+
+<a id="seedance-hand-frame-anime-overlay-dance"></a>
+### 女孩用手势框起动漫叠层跳舞
+
+<a href="https://x.com/Sairah_0/status/2087136847734734939"><img src="../../previews/seedance-hand-frame-anime-overlay-dance.jpg" width="360"></a>
+
+开头先固定房间、服装和头发等真实画面，保证实拍部分稳定；双手比出画框的动作作为每次切换叠层的触发点。按动漫头像到蜘蛛女漫画风格的顺序排列，使片段有清晰的先后变化。
+
+Seedance 2.5 · 文生视频 · 出处: [@Sairah_0 on X](https://x.com/Sairah_0/status/2087136847734734939)
+
+[`dance`](tags.md#tag-dance) [`anime`](tags.md#tag-anime) [`hand-gestures`](tags.md#tag-hand-gestures) [`overlay`](tags.md#tag-overlay) [`spider-verse`](tags.md#tag-spider-verse)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Setting: A cozy indoor room with warm, ambient lighting, featuring posters on the wall, a hanging lamp, and modern furniture.
+
+Subject: A young woman with long dark hair, wearing a gray hooded jacket, performing a rhythmic, choreographed hand and body motion dance in front of the camera.
+
+Key Visual Effects:
+
+Animated Framing & Transitions: As she moves her hands to form frames and geometric shapes (triangles, rectangles) in front of her face and upper body, colorful animated overlays appear inside the framed spaces.
+
+Anime & Superhero Styles:
+
+The initial overlays display an anime-style digital avatar matching her expressions.
+
+Midway through, the overlay switches to a Spider-Gwen / Spider-Verse comic style, complete with a hooded mask and neon cityscape backgrounds.
+
+The animation dynamically shifts and transforms along with her hand movements, smoothly blending back into real life by the end of the clip.
+```
+
+</details>
+
+<a id="seedance-hanfu-dancer-white-studio-walk"></a>
+### 身着汉服的舞者从右侧走入白色影棚
+
+<a href="https://x.com/acupofai/status/2083820282461184354"><img src="../../previews/seedance-hanfu-dancer-white-studio-walk.jpg" width="360"></a>
+
+将人物长相、服装与动作拆分为不同参考：脸部来自特写图，服装来自正背面图，仅借用源视频的动作与景别。逐秒的节拍说明加上固定、近乎静止的镜头，使七秒画面保持连贯。
+
+Seedance 2.5 · 参考生视频 · 出处: [@acupofai on X](https://x.com/acupofai/status/2083820282461184354)
+
+[`hanfu`](tags.md#tag-hanfu) [`ootd`](tags.md#tag-ootd) [`character-consistency`](tags.md#tag-character-consistency) [`dance`](tags.md#tag-dance)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+7秒，9:16，一镜到底，甜美古风OOTD短视频。7秒音频完整播放，配合人物舞蹈。 严格以@人物参考图人物设定图中的成年女性为唯一人物：以右侧脸部特写作为人物长相参考，以左侧正面图 and 中间背面图作为服装、发型及背部结构参考。完整保持她的小巧鹅蛋脸、清秀五官、红色眉心花钿、深棕黑色高盘古典发髻、浅金色花叶发簪、珍珠流苏和两侧垂落珠链；完整保持浅香槟白与淡桃粉古风舞衣、刺绣抹胸内搭、浅杏色透明长袖纱衣、浅金色腰封、金属链饰、多层垂坠长裙。全程禁止换脸、换装、改变发型或增减饰品。 仅参考@视频人物的动作轨迹、姿态、节奏、景别变化和构图，不继承原视频人物的脸、发型、服装、颜色或材质。纯白无影棚，高机位轻微俯拍，超广角轻微透视，镜头基本固定，人物始终保持全身或大半身清晰入镜。 0–1秒，人物从画面右侧提着少量裙摆轻快走入，长裙和薄纱袖自然摆动； 1–2秒，人物靠近镜头，上身轻微前倾，抬眼注视镜头，神情清甜克制； 2–3秒，双手轻扶腰间，形成自然收腰姿态，俏皮微微歪头； 3–4秒，优雅侧身转过半圈，展示服装背面、盘发和腰封结构，再回眸看向镜头； 4–5秒，转回正面浅浅微笑，双臂向身体两侧自然舒展，轻纱袖缓慢垂落； 5–6秒，双手轻放身后，先低头整理姿态，再微微歪头看向镜头； 6–7秒，再次轻扶腰间，人物先扭头看向与镜头呈90°角的侧前方，视线先聚焦在镜头外某个远方，然后再转向镜头，以甜美、自信、端庄的古风姿态定格结束。 动作自然连贯、轻盈克制，不做大幅度舞蹈动作。裙摆、薄纱衣袖、珠链流苏和耳侧发丝随动作产生轻微真实惯性，避免夸张飞舞。明亮柔光，清透高亮，柔和浅香槟色调，古装影视广告与韩系时尚短片结合的高级质感，节奏轻快，无对白，搭配轻盈空灵的国风流行音乐。人物身份、五官、发型、服装纹样和饰品位置全程稳定，面部清晰稳定，真实皮肤纹理，4K质感，细节清晰。 不要使用左侧正面图中的空白遮脸作为人物面部，人物长相必须来自右侧脸部特写；不要继承视频中原人物的脸、发型或服装；不要新增人物，不要换装，不要跳切，不要镜头大幅移动或抖动，不要快速旋转，不要剧烈甩袖，不要裙摆遮脸，不要肢体变形、重复手臂、多余手指、手部粘连、穿模、服装突变、饰品消失、发型变化或背景变化。
+```
+
+</details>
+
+<a id="seedance-idol-dance-crayon-effects-classroom"></a>
+### 教室里的偶像女孩与蜡笔风2D特效舞蹈
+
+<a href="https://x.com/Naonekozamurai/status/2087121611333980450"><img src="../../previews/seedance-idol-dance-crayon-effects-classroom.jpg" width="360"></a>
+
+参考视频锁定主角的脸、发型和服装，每两秒切换一次的五机位时间线决定剪辑节奏。蜡笔风2D特效与舞蹈动作逐拍同步，让贴纸式图形像设计好的动态图形层，而不是杂乱的噪点。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Naonekozamurai on X](https://x.com/Naonekozamurai/status/2087121611333980450)
+
+[`idol-dance`](tags.md#tag-idol-dance) [`multi-camera`](tags.md#tag-multi-camera) [`crayon-effects`](tags.md#tag-crayon-effects) [`classroom`](tags.md#tag-classroom)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+ゴール
+参照動画の主人公本人による、バズりそうな可愛さ全開のショートダンス動画を生成する。中心被写体は参照動画の女の子ひとり。メインイベントは、正面・上・左・右・背後の5台のカメラを2秒ごとに切り替えながら、常にカメラ目線で踊りきる可愛いダンスパフォーマンス。
+
+参照
+ダンス動画 
+ — ここから引き継ぐもの：主人公の顔立ち・髪型・髪色・瞳・体格・年齢感・衣装・アクセサリー、明るく整理された教室風の背景空間、クレヨン画タッチの2Dエフェクトの質感と配色、楽曲の明るく可愛いアイドルポップの空気感。引き継がないもの：元の15秒のカット割りとタイミング（本プロンプトのタイムラインを優先する）。
+
+スタイルと音楽
+24fpsの高品質な作画、作画枚数多め。背景はシンプルだがポップで爽やかな教室風空間で、人物が常に主役に見える。AfterEffectsで作ったような2Dフラットアニメーションのエフェクトがダンスの動きに同期して出現し、質感はクレヨンやオイルパステルで描いたような手描き感。モチーフは丸、星、ハート、花、音符、矢印、リボン、王冠、キラキラ、波線、ぐるぐる線、吹き出し風の囲み、チェック模様、斜線、ハーフトーンドット。配色はピンク、水色、黄色、白、ラベンダー、ミントグリーンを中心に主人公と調和させる。
+(明るく可愛い日本語のオリジナルアイドルポップソング。アップテンポで、2秒ごとのカット切り替えに気持ちよくハマるビート。実在する楽曲は使用しない)
+主人公は楽曲に合わせて口ずさむように歌いながら踊る。
+
+カメラ構成
+5台のカメラ（正面・上・左・右・背後）を2秒ごとに切り替える。どのカメラでも主人公は顔の向きや首のひねり、視線の返しで必ずレンズを見る。背後カメラでは肩越しに振り返ってカメラ目線。各カメラは完全静止ではなく、ビートに合わせた上下の小さなバウンス、短いパンチイン、わずかな左右揺れなど、意図的で見やすい可愛いカメラシェイクを行う。
+
+タイムライン（2秒ごとにカメラ切り替え）
+[0-2s] 正面カメラ。主人公が教室の中央でリズムを取り、胸の前で両手ハートを作りながら左右に小さくステップ。手元と顔まわりにクレヨンのハート、星、丸、短いキラキラ線がポンポンと出現。カメラは軽く上下にバウンス。
+[2-4s] 上からのカメラ。少し俯瞰の可愛いアングル。見上げてカメラ目線を保ちながら、ほっぺ横ピース、片手ハート、指差しをテンポよく決める。顔の周囲に王冠、花、ハート、吹き出し風の囲みが出現。
+[4-6s] 左からのカメラ。身体をやや左に向けつつ顔と視線はレンズへ。腰を左右に軽く振り、片手を頬に添え、もう片手で小さく手を振る。手の軌跡にリボン状ライン、音符、波線、星が流れる。カメラはビートで小さく横揺れ。
+[6-8s] 右からのカメラ。肩をリズミカルに弾ませ、両手を上げて下ろし、片足を軽く出して戻す。足元と肩まわりに花、丸、チェック模様、ハーフトーンドット、キラキラが弾ける。短い音ハメのパンチイン。
+[8-10s] 背後からのカメラ。背中側から始まり、肩越しにくるっと振り返ってしっかりカメラ目線。小さなターンとともに指差し→片手ハート。髪と衣装の動きに合わせてぐるぐる線、星、リボン、ハートがふわっと出現。
+[10-12s] 正面カメラ。1回目のサビ。両手を大きく開いてから胸元へ戻し、左右へ弾むように跳ねる。画面の縁に大きめのハート、星、花、王冠、斜線が増えて可愛さが加速。決めのたびに短いカメラシェイク。
+[12-14s] 上からのカメラ。見上げながら顔の前で両手をふわっと開き、片手ハート、もう片手を頬の横に添える。クレヨンの囲み、ハート、チェック模様、ラフな円形ラインが背景に広がる。
+[14-16s] 右からのカメラ。ここから新パート。両手の指ハートをレンズへぐっと突き出し、小首をかしげていたずらっぽく笑う。ハーフトーンドットとミニハートが波紋のように広がる。可愛い音ハメのパンチイン。
+[16-18s] 左からのカメラ。膝で弾む屈伸リズムに乗せ、胸の前で両手を猫の手にして左右へメトロノームのようにスウィング。音符と波線が動きに合わせて跳ねる。
+[18-20s] 背後からのカメラ。くるりと一回転して背中側から正面へ向き直り、肩越しに投げキッス。手のひらからクレヨンのハートが放射線と一緒に飛び出し、ぐるぐる線とリボンが舞う。
+[20-22s] 上からのカメラ。上目遣いでレンズを見つめ、両腕で頭の上に大きなハートを作って左右にゆらゆら。花がぽんぽんと咲き、キラキラが紙吹雪のように降る。
+[22-24s] 右からのカメラ。ビートに合わせてクラップを2回→レンズへ指差し、ステップタッチで左右へ。クラップのたびに矢印、吹き出し風の囲み、星がポップに弾ける。
+[24-26s] 正面カメラ。大サビ。小さなジャンプで弾みながら両腕を大きく広げ、両手ハートへ。画面の縁が最大サイズのハート, 星, 花, 王冠, 斜線で埋まり、可愛さが最高潮に。ひときわ強いが見やすいカメラシェイク。
+[26-28s] 左からのカメラ。素早い小さなターンから、両手で頬の横にハートを作って膝でリズムを取る。リボン状ラインが主人公をフレームのようにくるりと囲む。
+[28-30s] 正面寄りのヒーローショット。バストアップで一歩前へ出て、にっこり笑ってからウィンク。瞬間、目元からクレヨンの四芒星、ハート、放射線、リボンが可愛く弾ける。ごく短いパンチインで止まり、決めポーズのままフィニッシュ。
+
+継続性・制約
+主人公以外の人物を出さない。全カットで参照動画の主人公の顔立ち・髪型・髪色・瞳・体格・年齢感・衣装を維持し、別キャラクター化や衣装変更をしない。エフェクトはすべて平面的な2Dクレヨンタッチで、実写的な爆発・炎・煙・過剰なグリッチは使わない。主人公の顔をエフェクトで隠しすぎない。文字、字幕、ロゴ、透かしを表示しない。
+```
+
+</details>
+
+<a id="seedance-kpop-couple-dance-studio"></a>
+### 情侣在韩国舞室中同步跳舞
+
+<a href="https://x.com/MissDelulu9/status/2109896989475516789"><img src="../../previews/seedance-kpop-couple-dance-studio.jpg" width="360"></a>
+
+按秒分段写明动作，并给出 125到135 BPM 的持续音乐，让编舞紧扣节拍。全身镜头加上针对脸部变形和服装变化的负面提示，使两人在整段视频中保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2109896989475516789)
+
+[`dance`](tags.md#tag-dance) [`k-pop`](tags.md#tag-k-pop) [`couple`](tags.md#tag-couple) [`choreography`](tags.md#tag-choreography) [`studio`](tags.md#tag-studio)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic video of an adult K-pop couple dancing in a professional Korean dance studio.
+
+Characters: A beautiful woman with long, wavy ginger-copper hair and two small braids, wearing a cropped jacket, fitted top, cargo pants, and sneakers. A handsome man wearing modern K-pop streetwear, a black jacket, cargo pants, and sporty sneakers.
+
+0–3 seconds: Both perform synchronized shoulder bounces, quick side steps, and sharp hand movements while smiling.
+
+3–6 seconds: They perform energetic footwork, body grooves, coordinated arm movements, and a synchronized turn. The woman's hair moves naturally.
+
+6–8 seconds: They move closer, mirror each other's dance moves, exchange romantic glances, and smile playfully.
+
+8–10 seconds: They perform a synchronized final move and finish in a stylish couple pose, smiling at each other.
+
+Music: Upbeat K-pop instrumental with strong electronic beats, energetic bass, and catchy synths at 125–135 BPM. Music plays continuously from 0–10 seconds. No dialogue.
+
+Camera: Full-body shots, smooth tracking, cinematic lighting, realistic mirrors and reflections.
+
+Quality: Photorealistic 4K, natural movements, consistent faces and outfits, realistic hair physics.
+
+Negative Prompt: No cartoon, CGI faces, distorted anatomy, extra limbs, robotic dancing, face morphing, outfit changes, flickering, blur, camera shake, or sudden transitions.
+```
+
+</details>
+
+<a id="seedance-kpop-lumina-plaza-choreography"></a>
+### 五名女团成员在黄色巴士前列队
+
+<a href="https://x.com/im_shahid7/status/2102273080685121659"><img src="../../previews/seedance-kpop-lumina-plaza-choreography.jpg" width="360"></a>
+
+提示词以提供的首帧作为精确起始画面，并按秒给出编排表，每段都固定服装、人数和镜头运动。前景遮挡的擦拭转场与一致的画面运动方向把三个地点连成一段连续的行走。
+
+Seedance 2.5 · 图生视频 · 出处: [@im_shahid7 on X](https://x.com/im_shahid7/status/2102273080685121659)
+
+[`k-pop`](tags.md#tag-k-pop) [`choreography`](tags.md#tag-choreography) [`first-frame`](tags.md#tag-first-frame) [`multi-location`](tags.md#tag-multi-location)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using the supplied first frame as the exact opening image, generate a 30-second horizontal 4:3 photorealistic summer K-pop music video.
+
+CONCEPT
+
+The five-member fictional K-pop girl group LUMINA performs with twelve international supporting dancers across three connected public locations in the same European neighborhood:
+
+1. Sunny city plaza
+2. Bright covered food market
+3. Outdoor community basketball court
+
+The visual tone is joyful, energetic and communal. Camera transitions must make the three locations feel physically connected rather than unrelated scenes.
+
+CHARACTER COUNT LOCK
+
+Use exactly:
+- Five LUMINA members
+- Twelve supporting dancers
+
+No additional dancers may appear.
+
+Background pedestrians, market vendors and customers are civilians only. They remain clearly separated from the choreography and never copy the dance.
+
+Keep every LUMINA member consistent:
+- Same face
+- Same hairstyle
+- Same outfit
+- Same body proportions
+- Same accessories
+- Same role in the group
+
+Do not duplicate, merge, replace or transform any performer.
+
+CAMERA STYLE
+
+Horizontal 4:3.
+Polished live-action K-pop cinematography.
+Use a stabilized gimbal, short dolly movements and one gentle crane reveal.
+
+Camera movement should be energetic but readable:
+- Smooth forward pushes
+- Short lateral tracks
+- Motivated close-ups
+- Whip-pan transitions hidden by foreground objects
+- Continuous screen direction
+
+Do not use random camera teleportation, spinning camera, extreme shake or excessive cutting.
+
+0.0–4.0 SECONDS — OPENING GROUP CHOREOGRAPHY
+
+Continue directly from the first frame.
+
+Nari drops her raised arm across her chest and initiates the first synchronized sequence.
+
+All seventeen dancers perform:
+- Two grounded side steps
+- Alternating shoulder hits
+- One upward diagonal arm sweep
+- A clean hip-level hand cross
+- One synchronized head turn toward camera-right
+
+The camera slowly pushes forward while preserving all five main members in frame.
+
+The yellow bus remains parked behind them. Background pedestrians continue normal movement.
+
+4.0–7.0 SECONDS — NARI CENTER MOMENT
+
+The other members step outward by half a meter, opening a clear center lane.
+
+Nari advances two short steps toward the camera and performs:
+- Right-hand face frame
+- Quick wrist rotation
+- Chest accent
+- Half-turn
+- Immediate return to face the camera
+
+Her pleated skirt, hair and socks move naturally.
+
+Transition into a chest-up shot without cutting off her hands. She smiles directly into the lens for one beat.
+
+No slow motion.
+
+7.0–10.0 SECONDS — FORMATION EXPANSION
+
+The camera pulls back smoothly.
+
+Mina and Jiyu move to Nari’s sides while Hana and Seoa close the rear line. The twelve supporting dancers expand outward into a wide semicircle.
+
+The full group performs:
+- Two bouncing steps
+- Right-arm wave
+- Left-arm wave
+- Fast double hand point
+- One small synchronized jump
+- Clean wide-stance landing
+
+Feet maintain accurate contact with the stone pavement.
+
+The city bus begins moving slowly out of the background in the correct traffic direction.
+
+10.0–12.0 SECONDS — MARKET TRANSITION
+
+A supporting dancer in a cobalt overshirt crosses close to the camera from left to right.
+
+His shirt briefly fills the frame and creates a natural wipe transition.
+
+As the blue fabric clears, reveal the same forward camera movement continuing inside a bright covered municipal food market.
+
+The transition must preserve movement direction and rhythm.
+
+12.0–16.0 SECONDS — MOVING THROUGH THE MARKET
+
+The five LUMINA members dance forward through a wide central market aisle.
+
+Formation:
+- Jiyu leads at center
+- Nari and Mina follow behind
+- Hana and Seoa occupy the outer positions
+- Supporting dancers trail in two organized lines
+
+Environment:
+- White and pale-blue market counters
+- Fresh fruit and vegetable stalls
+- Flower buckets
+- Closed glass seafood displays
+- Hanging international festival flags
+- Elderly vendors and ordinary shoppers standing safely outside the aisle
+- Bright skylight illumination
+- Clean, dry floor
+
+The group performs walking choreography:
+- Rhythmic forward steps
+- Alternating elbow pulls
+- Shoulder rolls
+- Overhead hand waves
+- One synchronized direction change around a market column
+
+The camera tracks backward at matching speed.
+
+16.0–19.0 SECONDS — MINA CLOSE-UP
+
+Mina moves toward the front-left side of the formation.
+
+The camera transitions into a smooth waist-up close-up as she performs:
+- Hand sweep beside her cheek
+- Elbow raised above shoulder level
+- Playful head tilt
+- Quick body roll
+- Direct smile into the lens
+
+Nari and Jiyu remain visible behind her in softer focus, continuing simpler choreography.
+
+A row of colorful market flags passes above the frame.
+
+19.0–21.0 SECONDS — SECOND MATCH TRANSITION
+
+Mina spins once to her left.
+
+Her pale blue-grey skirt creates a brief circular foreground blur.
+
+Match the end of the spin with Seoa completing the same turn at an outdoor basketball court.
+
+The rotation direction, body scale and camera height must remain consistent across the cut.
+
+21.0–25.0 SECONDS — BASKETBALL COURT CHORUS
+
+Reveal a sunny outdoor community basketball court approximately one block from the market.
+
+Environment:
+- Blue and coral painted court
+- White boundary lines
+- Blue basketball backboard
+- Chain-link perimeter fence
+- Colorful city buildings in the distance
+- Green trees
+- Clear afternoon sky
+- No active basketball players inside the dance zone
+
+All five LUMINA members return to the front row.
+The twelve supporting dancers form two staggered rows behind them.
+
+They perform a high-energy chorus:
+- Wide side step
+- Double forearm hit
+- Alternating knee lifts
+- Cross-body point
+- Fast shoulder bounce
+- Quarter-turn
+- Return to front
+
+The camera tracks laterally from left to right while maintaining a stable horizon.
+
+25.0–28.0 SECONDS — ROTATING CENTER POSITIONS
+
+Each member receives a brief movement highlight without stopping the group choreography:
+
+- Hana performs a grounded two-count footwork accent
+- Seoa performs a bright arm circle
+- Jiyu performs a strong chest-and-shoulder hit
+- Mina performs a face-framing gesture
+- Nari returns to center with one clean pivot
+
+The other performers stay in their assigned positions and use simplified supporting movements.
+
+No member passes directly through another dancer’s path.
+
+28.0–30.0 SECONDS — FINAL GROUP POSE
+
+The camera rises gently by approximately one meter while moving slightly backward, revealing the full court formation.
+
+All seventeen dancers complete:
+- One synchronized upward arm throw
+- Small controlled jump
+- Stable landing
+- Final asymmetrical pose
+
+Final positions:
+- Nari center front
+- Mina and Jiyu one step behind her
+- Hana and Seoa on the outer front diagonals
+- Twelve supporting dancers in a broad semicircle
+
+Nari looks directly into the camera and gives a bright confident smile.
+
+Hold the final pose for the last half-second.
+
+CHOREOGRAPHY QUALITY
+
+- Professional K-pop synchronization
+- Energetic but anatomically realistic movement
+- Clear preparation before every turn and jump
+- Accurate foot placement
+- Natural knee compression on landings
+- Realistic hair and fabric movement
+- No repeated movement loops
+- No performer colliding with another
+- No bodies passing through one another
+- No floating feet
+- No excessive motion blur
+
+SCENE CONTINUITY
+
+All three locations exist in the same neighborhood and share the same afternoon weather.
+
+Maintain:
+- Consistent sunlight direction
+- Consistent performer identities
+- Consistent clothing
+- Consistent hair
+- Continuous movement direction during transitions
+- Realistic travel logic between scenes
+
+AUDIO
+
+Create an original upbeat summer K-pop track:
+- Bright percussion
+- Clean bass line
+- Rhythmic handclaps
+- Light synth melody
+- Energetic chorus
+- Original non-lyrical vocal ad-libs
+
+Mix in subtle location ambience:
+- Distant city traffic
+- Footsteps
+- Market room tone
+- Shoe contact on the basketball court
+- Light
 ```
 
 </details>
@@ -938,6 +1836,247 @@ NO EXTRA VERSION OF <image_1>.
 
 </details>
 
+<a id="seedance-neon-sneakers-beat-drop-commercial"></a>
+### 运动鞋踩在湿滑霓虹街道的第一拍
+
+<a href="https://x.com/Inshrah_ali_/status/2087746267250327636"><img src="../../previews/seedance-neon-sneakers-beat-drop-commercial.jpg" width="360"></a>
+
+按时间戳分段，把每次镜头运动和字幕出现都绑定到节拍上，让剪辑看起来由音乐驱动。引号内的精确屏幕文字和固定的人物描述，使字幕与舞者在各镜头间保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2087746267250327636)
+
+[`neon`](tags.md#tag-neon) [`sneakers`](tags.md#tag-sneakers) [`beat-sync`](tags.md#tag-beat-sync) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Style: Ultra-premium Gen-Z music commercial, hyper-realistic, cinematic 8K, high-end fashion campaign, energetic hip-hop track, fast beat-synced editing, viral social-media aesthetic, realistic skin and fabric textures, natural lighting, polished professional choreography, dynamic handheld + gimbal camera movement, crisp motion blur, bold kinetic typography, premium color grading, no CGI look, no cartoon style, no watermark.
+
+Main Character: A confident young female dancer with a stylish Gen-Z fashion look, natural makeup, expressive face, realistic hair movement, fashionable oversized streetwear mixed with luxury accessories. Keep her appearance, outfit, hairstyle, and identity consistent throughout.
+
+Scene 1 — 0–3s | Beat Drop
+
+Nighttime premium urban location with neon architecture and wet reflective pavement.
+
+Extreme close-up of her sneakers hitting the ground exactly on the first beat. Cut rapidly to her eyes, jewelry, hands, and confident expression.
+
+She looks directly into the camera.
+
+Typography hits the screen:
+“FEEL THE BEAT.”
+
+Letters appear with aggressive kinetic motion, slight zoom, shake, and rhythmic distortion synchronized perfectly to the music.
+
+Scene 2 — 3–7s | Dance Explosion
+
+Beat drops harder.
+
+She launches into a fast, highly polished Gen-Z hip-hop choreography: sharp footwork, body isolations, confident hand movements, quick turns and attitude-driven poses.
+
+Camera constantly changes:
+low-angle tracking → 360° orbit → close-up → wide shot → fast push-in.
+
+Use seamless match cuts between movements. Every camera transition lands precisely on the beat.
+
+Typography flashes between movements:
+
+“MOVE.”
+“ENERGY.”
+“NO LIMITS.”
+
+Large bold typography briefly fills the frame without hiding the dancer.
+
+Scene 3 — 7–11s | Viral Moment
+
+Music reaches its fastest section.
+
+The dancer performs the signature highlight move directly toward the camera.
+
+Camera pushes forward while she moves backward, creating a powerful perspective effect. Quick speed ramp into slow motion for one key movement, then instantly snap back to full speed.
+
+Add subtle realistic light streaks, reflections, lens flares, and environmental movement.
+
+Typography rapidly assembles around her:
+
+“THIS IS YOUR MOMENT.”
+
+Each word appears individually on beat with modern kinetic animation.
+
+Scene 4 — 11–15s | Hero Finish
+
+Final beat.
+
+She executes one final sharp move, spins, then stops confidently facing the camera.
+
+Music hits a clean final bass impact.
+
+Camera performs a dramatic cinematic push-in as the environment briefly falls into shallow depth of field.
+
+She gives a confident smile.
+
+Final typography appears huge and centered:
+
+“OWN THE MOMENT.”
+
+Small premium subtitle underneath:
+
+“MOVE DIFFERENT.”
+
+End on a clean freeze-frame hero shot with subtle camera movement, luxury fashion-commercial finish, realistic lighting, crisp details
+```
+
+</details>
+
+<a id="seedance-soho-breakdance-battle-multi-cut"></a>
+### 舞者在SoHo街头舞池中斗舞
+
+<a href="https://x.com/ZetoGroovin/status/2086292115122991194"><img src="../../previews/seedance-soho-breakdance-battle-multi-cut.jpg" width="360"></a>
+
+参考图锁定舞者的外观，编号的分镜列表逐镜头规定从远景建立到定格特写的画面。每个镜头都写明运镜，并以节拍作为节奏依据，让剪辑有节奏且连贯。
+
+Seedance 2.5 · 参考生视频 · 出处: [@ZetoGroovin on X](https://x.com/ZetoGroovin/status/2086292115122991194)
+
+[`breakdance`](tags.md#tag-breakdance) [`street-dance`](tags.md#tag-street-dance) [`reference-image`](tags.md#tag-reference-image) [`multi-cut`](tags.md#tag-multi-cut)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+The exact same girl from the reference image — 100% identical face, hairstyle, outfit, body proportions, no changes whatsoever, clean idol skin with subtle glow.
+
+She performs explosive breaking choreography synchronized to hard-hitting breakbeats: powerful top rock, intricate six-step footwork, fast CCs, dynamic windmills, baby freeze transitions, backspin combinations, sudden freezes, aggressive battle attitude, intense eye contact.
+
+Location: the streets of SoHo, New York City, early evening, cast-iron buildings, graffiti-covered shutters, steam rising from subway vents, yellow taxis passing in the background, energetic street battle atmosphere.
+
+Multi-cut music video structure optimized for Seedance 2.5:
+
+CUT 01:
+Ultra-wide establishing shot.
+The dancer walks into a dance circle formed by spectators.
+Handheld camera movement.
+Natural city ambience.
+
+CUT 02:
+Low-angle tracking shot.
+Aggressive top rock sequence synchronized to the beat.
+Fast push-in movement.
+
+CUT 03:
+Dynamic 360-degree camera orbit.
+Complex six-step combinations and rapid footwork.
+Subtle speed ramping.
+
+CUT 04:
+Extremely low ground-level shot.
+Explosive windmill sequence.
+Hair movement, jacket motion, realistic body momentum.
+
+CUT 05:
+Rapid cinematic cut.
+Freeze pose facing the camera.
+Crowd reaction shots.
+
+CUT 06:
+Slow-motion sequence.
+Continuous windmills transitioning into a baby freeze.
+Camera circles around the dancer.
+
+CUT 07:
+Extreme close-up of the dancer's eyes.
+Heavy breathing.
+The beat intensifies.
+
+CUT 08:
+Final battle-ending freeze pose.
+Wide shot of SoHo street scenery.
+
+Camera style:
+Smooth 360° tracking shots mixed with extreme close-ups, dynamic dolly zooms, handheld battle footage aesthetics, dramatic low-angle perspectives.
+
+Cinematic color grading: cool blue cinematic tones mixed with warm skin highlights, subtle film grain, realistic street lighting, high-end music video style.
+
+4K, photorealistic, ultra-sharp skin and fabric details, rhythmic speed ramps synchronized to the beat, fashion editorial energy, authentic street dance documentary atmosphere, "fashion magazine commercial mixed with underground street battle video", 24fps.
+```
+
+</details>
+
+<a id="seedance-tokyo-street-dance-duo"></a>
+### 黄金时刻东京舞蹈工作室双人舞
+
+<a href="https://x.com/Chaemate_/status/2107691578605322348"><img src="../../previews/seedance-tokyo-street-dance-duo.jpg" width="360"></a>
+
+提示词把每一秒的动作写成时间轴并对齐120 BPM的节拍，让每个动作都落在拍点上。参考图锁定两位舞者的脸和服装，每个场景还单独写明镜头运动。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Chaemate_ on X](https://x.com/Chaemate_/status/2107691578605322348)
+
+[`dance`](tags.md#tag-dance) [`tokyo`](tags.md#tag-tokyo) [`beat-sync`](tags.md#tag-beat-sync) [`reference-images`](tags.md#tag-reference-images)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+15-second cinematic 16:9 ultra-realistic live-action Tokyo street-style dance video.
+
+TWO JAPANESE FEMALE DANCERS ONLY.
+
+IDENTITY LOCK:
+Preserve @image1 exact face, facial structure, eyes, nose, lips, eyebrows, hairstyle and identity.
+Preserve @image2 exact face, facial structure, eyes, nose, lips, eyebrows, hairstyle and identity.
+Keep their exact reference outfits and accessories in every scene. Natural human proportions. Do not alter either face at any moment.
+
+MUSIC (drives all the action):
+Upbeat Japanese city-pop x dance-pop track, 120 BPM (one beat every 0.5s). Funky slap bass, bright synth stabs, snappy claps, light female vocal hook. Structure: intro groove (0–5s), bass-heavy main drop (5–10s), breakdown with a final hit (10–15s). Every movement lands exactly on the beat, and the energy of the choreography follows the music.
+
+DANCE STYLE:
+Playful, cool and confident, a mix of commercial hip-hop, city-pop groove and K-pop performance energy. Teasing eye contact, small smirks, shoulder accents. Stylish and controlled, never exaggerated. Sync moments where both dance together, and mirror moments where they play off each other.
+
+SCENE 1 (0–5s): Minimalist dance studio at golden hour
+Grey concrete wall, polished floor with soft reflections, a large window showing the Tokyo skyline at sunset. Warm light spilling across the floor.
+0.0–1.0s: Both walk into frame side by side, snap to a stop on the first bass note, quick shoulder hit.
+1.0–2.0s: Sharp right-arm sweep across the chest, step sideways, then left arm snaps outward with a hip accent.
+2.0–3.0s: Chest isolation into shoulder roll, and one dancer playfully touches her hair while the other points at the camera.
+3.0–4.0s: Two-step footwork with alternating arm punches, then arms cross and rapidly open on the synth stab.
+4.0–5.0s: Synchronized body lean right then left, with one arm sweeping over the head. On the final beat they spin and whip-pan toward the window.
+
+TRANSITION: Fast whip-pan with natural motion blur, matched to the beat. No glitch or CGI effects.
+
+SCENE 2 (5–10s): Neon alley in Shibuya at night
+Wet pavement reflecting pink and blue neon signs, paper lanterns, light drizzle mist, a few blurred pedestrians far in the background.
+5.0–6.0s: The bass drops. Both step toward the camera with a confident synchronized arm gesture.
+6.0–7.0s: Low hip-hop bounce with bent knees, two shoulder hits, then a controlled body roll and a sharp hand flick.
+7.0–8.0s: Dancers split: one slides left, the other right, mirrored arm waves from low to shoulder height, then they swap places.
+8.0–9.0s: Quick foot switch, strong downward arm hit, a playful look back over the shoulder at the camera.
+9.0–10.0s: Rise sweeping both arms diagonally up, a sharp head turn with hair movement, and neon light flares across their faces.
+
+TRANSITION: Hard cut on the beat to a rooftop, with a small camera push-through for continuity.
+
+SCENE 3 (10–15s): Rooftop at blue hour, city lights glowing behind
+Soft blue twilight sky, glittering skyline, gentle breeze moving hair and clothing.
+10.0–11.0s: The music breaks down. Slow confident walk toward the camera, hips swaying lightly on each beat.
+11.0–12.0s: Smooth finger-snap isolations and a gentle hair flip, with shared eye contact between the two.
+12.0–13.0s: Music snaps back. Fast synchronized combo: arm cross, open, shoulder hit, jump-step.
+13.0–14.0s: Both step into a symmetrical formation: one hand on the waist, the other extended outward.
+14.0–15.0s: Final confident pose toward camera, playful smile and strong eye contact, a brief freeze on the last beat.
+
+CAMERA:
+Scene 1: low-to-medium full-body framing, subtle forward tracking, then a small lateral slide.
+Scene 2: handheld micro-movement, tracking alongside the dancers, subtle push-in on the drop.
+Scene 3: slow arc around the dancers, ending with a short cinematic hold.
+Smooth and physically realistic. No excessive shaking, no random zoom. Both dancers always clearly visible. Natural depth of field, tiny lens parallax, realistic motion blur only on fast moves.
+
+PERFORMANCE:
+Clean, fast choreography with natural weight transfer, realistic foot contact, natural knee and hip articulation, believable arm momentum. Hair and clothing react naturally to movement.
+
+LIGHTING & COLOR:
+Scene 1: warm golden-hour light with soft shadows. Scene 2: neon pink and blue rim light on wet surfaces. Scene 3: cool blue-hour ambience with warm city-light highlights. Cinematic color grading, clean natural skin tones, controlled contrast, soft filmic dynamic range, premium Japanese fashion-film look.
+
+REALISM:
+Ultra-realistic live-action humans, visible skin texture and pores, individual hair strands, realistic eye reflections, physically accurate fabric and shadows.
+
+STRICT NEGATIVE:
+No plastic skin, no CGI, no anime, no 3D render, no beauty filter, no stiff or robotic movement, no facial morphing, no face replacement, no identity change, no hairstyle or outfit change, no glowing eyes, no extra fingers or limbs, no duplicated dancers, no body distortion, no text or watermarks, no teleportation.
+```
+
+</details>
+
 <a id="seedance-woman-crowd-synchronized-turn"></a>
 ### 黑色外套女子站在白衣人群中央
 
@@ -971,6 +2110,25 @@ The camera slowly pushes closer while the crowd stays turned toward her, creatin
 Dark, mysterious, photorealistic live-action aesthetic, soft cinematic lighting, deep shadows, realistic skin, hair and clothing physics, shallow depth of field, natural human movement.
 
 No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphing, random crowd movement, text, subtitles, logos, watermark, excessive camera movement, artificial fog, glow, or exaggerated effects.
+```
+
+</details>
+
+<a id="seedance-y2k-pop-duo-multi-shot-mv"></a>
+### 两位歌手的复古Y2K音乐视频舞蹈
+
+<a href="https://x.com/higgsfield_ai/status/2083130063382597778"><img src="../../previews/seedance-y2k-pop-duo-multi-shot-mv.jpg" width="360"></a>
+
+每个片段都有独立的布景、镜头和时间码，每次硬切都卡在节拍上，使剪辑结构清晰。两张参考图固定在画面左右位置，双人镜头中人物身份更稳定。
+
+Seedance 2.5 · 参考生视频 · 出处: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2083130063382597778)
+
+[`music-video`](tags.md#tag-music-video) [`multi-shot`](tags.md#tag-multi-shot) [`choreography`](tags.md#tag-choreography) [`y2k`](tags.md#tag-y2k)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+**[SCENE]** A two-member female pop duo shoots a retro Y2K-style music video: candy-colored studio sets, tightly synchronized hand choreography, beat-locked hard cuts and fast punch zooms — the texture of 1999 music television, rendered at modern production quality. **[ACTIVE REFERENCES]** <<<image_1>>>: Female singer in her twenties, long straight pink hair with gold hair clips, small nose ring, beauty mark on cheek, white printed crop top, silver chain necklace, chain belt, light-blue washed baggy jeans, off-white platform sneakers. Playful and confident. 100% match to reference image. <<<image_2>>>: Female singer in her twenties, long straight black hair with silver hair clips, light blue eyes with silver glitter eyeshadow, red cord necklace with ruby pendant, gray raglan short-sleeve tee with a gray jacket draped over the shoulders, dark gray pleated skirt with bow, gray knee socks, black platform shoes. Cool and commanding. 100% match to reference image. **[SET MAP]** Three practical studio sets, each roughly 4 meters deep, facing camera: Set A — bubblegum-pink seamless cyclorama, glossy reflective floor, two rows of round studio light bulbs on the back wall. Set B — cobalt-blue seamless cyclorama, a single hard white spotlight circle on the floor. Set C — floor-to-ceiling silver rain-strand curtain wall, mirrored floor. **[FIRST FRAME & SPATIAL LAYOUT]** The first visible frame already contains both girls, on Set A: <<<image_1>>> at frame-left x40%, <<<image_2>>> at right x60%, medium-shot depth, 0.5 m apart, bodies squared to camera, eyes locked on lens, frozen in a mirrored opening pose — inner hand on hip, outer arm raised. No empty establishing shot, no delayed entrance. **[FORMAT]** Controlled multi-shot sequence, seven segments across 15 seconds, every hard cut landing precisely on a musical downbeat. Real-time motion. **[LENS NOTES]** Fisheye = true fisheye wide-angle, 1.5 m from subject, visible barrel distortion at frame edges, deliberate 1999 MV lens language; 47° = standard view, natural proportions; 29° = medium-tele portrait, background lightly compressed; 18° = long-lens close-up, melted bokeh. Locked within each segment, no drift. **[ACTION TIMELINE]** 0.0–2.0s Set A, fisheye low angle: both hit the frozen mirrored pose on beat one, then bounce-groove in sync with every beat, camera slowly pushes in 10%. Hard cut at 2.0s. 2.0–4.0s Set B, 29°: <<<image_2>>> solo dance inside the spotlight circle at x50%, pointed-at-camera precision hand choreography, one fast punch zoom landing exactly on the downbeat. Hard cut at 4.0s. 4.0–6.0s Set C, 47°: <<<image_1>>> whips her pink hair through a full arc, then strides toward camera as the camera pulls back at matched speed, rain-strand curtain shimmering, chain belt swinging. Hard cut at 6.0s. 6.0–8.0s Set B, 18° two-shot close-up: both faces cheek-to-cheek filling the frame, <<<image_1>>> left / <<<image_2>>> right, soft wind lifting pink and black strands, glossy makeup, confident smiles, heads tilting toward each other in sync with the beat. Hard cut at 8.0s. 8.0–11.0s Set A, 47° full body: the chorus dance core — three counts of fully synchronized choreography: wave arms, fast spin, full-body groove into a sharp freeze; positions cross and return, <<<image_1>>> left / <<<image_2>>> right re-locked. Hard cut at 11.0s. 11.0–13.0s Set C, 47°: the two walk toward camera side by side with synchronized arm swings, black and pink hair swinging with each step, reflections in the mirrored floor. Hard cut at 13.0s. 13.0–15.0s Set A, 47°: back-to-back frozen final pose, camera zooms out fast to full body, landing exactly on the last downbeat, one bright camera-flash white sweep over the final frame. **[PHYSICS]** Choreography carries real weight: heel strikes, weight shifts, shoulder isolations with follow-through. Hair whips show visible lag and settle naturally. Chain belt and necklaces swing on the beat points. Rain-strand curtain ripples from body movement. Glossy floor returns soft, believable reflections. **[LIGHTING]** High-key, even studio lighting on every set: large soft frontal key, bright clean exposure, high skin sheen; Set A's bulb rows create back rim light and soft bloom into the lens; Set B's spotlight casts a crisp circular pool; Set C sparkles with hundreds of rain-strand specular highlights. Bright, candy-like, camera-ready — a deliberate flat 1999 broadcast-TV look. **[AUDIO]** Original Y2K bubblegum dance-pop instrumental, 120 BPM, four-on-the-floor kick, bright syncopated synths, faint tape hiss underneath. Every hard cut lands exactly on a downbeat. Instrumental only throughout, no vocals; both girls perform with closed lips, delivering energy purely through expression and choreography. **[POSITIVE LOCKS]** Both faces and identities 100% locked to reference images across all segments including close-ups. Wardrobe stays exactly as referenced across all three sets. Only these two girls appear in the entire video. In every two-person segment <<<image_1>>> is fixed frame-left, <<<image_2>>> fixed frame-right. Within each segment, set geography, spacing, and screen direction stay consistent. **[STYLE]** Shot at modern production quality but graded to 1999 broadcast texture: broadcast-grade videotape master grain layered over high-detail imagery — soft highlight bloom, slight chroma bleed on hard color edges, fine analog tape grain, faint interlace flicker on fast motion; a high-saturation candy palette of bubblegum pink, electric cobalt and chrome silver; Y2K music-television punch-zoom editing energy, with contemporary sharpness preserved underneath.
 ```
 
 </details>

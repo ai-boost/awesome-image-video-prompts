@@ -1,0 +1,26 @@
+id: h3-man-eagle-head-park-bench
+title:
+  en: Hand drawn man startled by tiny flag eagle
+  zh: 手绘男子被小鹰惊吓奔跑
+model: MiniMax H3
+mode: image-to-video
+category: anime
+tags:
+- hand-drawn
+- reference-image
+- locked-shot
+- comedy
+source:
+  name: '@1littlecoder on X'
+  url: https://x.com/1littlecoder/status/2102106915635601452
+  credit: 1LittleCoder💻
+  likes: 21
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/1littlecoder/status/2102106915635601452
+notes:
+  en: 'The reference portrait is locked as the first frame through the #Image1 token, and a locked medium shot keeps the framing still so the expression and motion carry the comedy. The hand drawn motion cue sets the style, and the beat by beat action from surprise to screaming and running gives the 5 second clip a clear arc.'
+  zh: '通过 #Image1 将参考人像锁定为首帧，固定中景镜头让画面稳定，表情和动作承担喜剧效果。提示中的手绘动作描述设定了风格，并按时间顺序写出惊讶、伸脖、尖叫、奔跑的动作节拍，使5秒片段有清晰的变化过程。'
+prompt: |
+  A man #Image1  sits on a park bench. His neck stretches upward in surprise as a tiny eagle with USA Flag on its body lands on his head. Medium locked shot, expressive hand-drawn motion. He starts screaming and running!

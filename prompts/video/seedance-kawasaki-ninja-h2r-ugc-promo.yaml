@@ -1,0 +1,35 @@
+id: seedance-kawasaki-ninja-h2r-ugc-promo
+title:
+  en: Creator walks toward Kawasaki Ninja H2R in garage
+  zh: 创作者走向停在地下车库的 Ninja H2R
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- ugc
+- motorcycle
+- product-promo
+- dialogue
+source:
+  name: '@KevinVailAI on X'
+  url: https://x.com/KevinVailAI/status/2104811263381721348
+  credit: Kevin
+  captured: '2026-10-29'
+  posted: '2026-09-29'
+video: https://x.com/KevinVailAI/status/2104811263381721348
+notes:
+  en: A timed shot list with one beat per scene and the spoken lines written into each beat gives the model a clear structure for dialogue and cuts. The handheld smartphone framing, plus an explicit avoid list for CGI look, plastic textures and riding physics, keeps the result reading as real creator footage.
+  zh: 按时间划分的分镜表，每段写明画面和台词，为模型提供清晰的节奏与切换结构。手持智能手机的拍摄方式，加上对 CGI 质感、塑料材质和错误骑行物理的明确排除，让成片更像真实的达人素材。
+prompt: |
+  Create a 30-second ultra-realistic UGC-style promotional video featuring a Kawasaki Ninja H2R. The video should feel like authentic footage filmed by a confident motorcycle creator, while maintaining premium cinematic quality.
+  Scene 1, 0–5 seconds: Start with a handheld smartphone-style shot of the creator walking toward the Kawasaki Ninja H2R parked in a modern underground garage. The creator looks into the camera and says naturally, “Okay, this might be one of the wildest bikes I’ve ever seen.” Quick close-ups reveal the sharp front fairing, aerodynamic bodywork, carbon-fiber details, exposed mechanical elements, and aggressive styling.
+
+  Scene 2, 5–12 seconds: Cut to the creator sitting on the motorcycle and starting the engine. Capture the realistic engine sound, subtle vibration, dashboard lighting, and exhaust note. The creator says, “The Ninja H2R just looks absolutely insane in person.” Use natural handheld camera movement mixed with cinematic close-up shots.
+
+  Scene 3, 12–22 seconds: Show the motorcycle riding on a closed professional track. Use dynamic tracking shots from multiple realistic camera positions, including low side angles, rear follow shots, and wide track shots. Show controlled acceleration, cornering, and aerodynamic movement without reckless public-road behavior. Add realistic tire movement, suspension response, wind interaction, and natural motion blur.
+
+  Scene 4, 22–27 seconds: Return to the creator standing beside the parked bike. He looks at the camera and says, “The design, the sound, the presence… everything feels next level.”
+
+  Scene 5, 27–30 seconds: Finish with a slow cinematic reveal of the Ninja H2R from front three-quarter angle as the creator walks away. End with clean on-screen text: “Ninja H2R. Built to stand apart.”
+
+  Visual style: authentic UGC meets premium motorcycle commercial. Photorealistic live-action appearance, natural skin texture, realistic motorcycle materials, accurate proportions, physically believable movement, natural lighting, subtle handheld imperfections, realistic audio synchronization, cinematic depth of field, smooth transitions, detailed reflections, 4K quality. Avoid CGI appearance, plastic textures, distorted motorcycle geometry, unrealistic riding physics, duplicated bikes, fake-looking environments, excessive camera shake, or exaggerated effects.

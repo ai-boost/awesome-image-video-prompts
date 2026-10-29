@@ -1,0 +1,25 @@
+id: seedance-blonde-model-pink-ball-gown-palace
+title:
+  en: Blonde model poses in pink gown under chandelier
+  zh: 金发模特身着粉色礼服在水晶吊灯下
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- fashion
+- ball-gown
+- palace
+- runway
+source:
+  name: '@Zoyavelle on X'
+  url: https://x.com/Zoyavelle/status/2108783755460853994
+  credit: Zoyavelle
+  captured: '2026-10-29'
+  posted: '2026-10-10'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zoyavelle/status/2108783755460853994
+notes:
+  en: The prompt names each gown colour in order and fixes the palace setting and chandelier lighting, so every transition has a stable scene to land in. The skirt is held and turned with a fabric-flow instruction, which keeps the motion grounded.
+  zh: 提示词按顺序写明每件礼服的颜色，并固定宫殿场景与水晶吊灯照明，使每次切换都有稳定的画面落点。描述裙摆被手提起并转动，同时要求面料自然流动，使动作更真实。
+prompt: |
+  A stunning blonde fashion model gracefully walks and poses in a luxurious palace ballroom, wearing an enormous elegant princess ball gown. She gently holds both sides of her voluminous skirt and slowly turns, allowing the delicate embroidered fabric to flow naturally. The camera smoothly moves forward and captures her full body and the intricate details of the dress. Transition seamlessly between different luxurious gowns in pastel pink, icy blue, lavender, champagne gold, and black, with each dress appearing in a grand palace interior with elegant chandeliers and cinematic lighting. Realistic walking motion, natural fabric movement, graceful posing, smooth cinematic transitions, high-end couture fashion runway aesthetic, photorealistic details, stable camera, vertical 9:16 video.

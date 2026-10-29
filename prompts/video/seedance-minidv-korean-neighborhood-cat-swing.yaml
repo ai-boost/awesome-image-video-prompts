@@ -1,0 +1,93 @@
+id: seedance-minidv-korean-neighborhood-cat-swing
+title:
+  en: Faded MiniDV walk with a stray cat and swing
+  zh: 褪色 MiniDV 录像：流浪猫与秋千
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- minidv
+- found-footage
+- handheld
+- korean
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2088923820744917355
+  credit: itxabdullaa
+  captured: '2026-10-29'
+  posted: '2026-08-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxabdullaa/status/2088923820744917355
+notes:
+  en: Gives a timed beat sheet and names the MiniDV defects (handheld shake, autofocus hunting, exposure pumping, compression) so the look comes from the camera rather than the set. Audio is limited to location sound with no music, so footsteps, laughter and the swing squeak carry the realism.
+  zh: 用逐秒时间轴列出动作，并明确写出 MiniDV 的缺陷（手持抖动、对焦漂移、曝光起伏、压缩痕迹），让质感来自摄像机而不是布景。音频只保留现场环境声，不加音乐，靠脚步、笑声和秋千吱呀声增加真实感。
+prompt: |
+  Create a 30-second ultra-realistic video that feels like a genuine forgotten early-2000s Korean home-video recording. NOT cinematic, staged, polished, or AI-generated.
+
+  MAIN SUBJECT:
+
+  Young Korean woman, early 20s, natural everyday appearance. Oversized faded navy hoodie, white T-shirt, loose beige cargo pants, worn white canvas sneakers, thin silver necklace. Shoulder-length wavy black hair loosely clipped back with wispy strands. Minimal makeup, realistic skin texture and imperfections. Warm, playful personality.
+
+  Maintain EXACTLY the same identity, face, hair, clothing, proportions, and appearance throughout.
+
+  LOCATION:
+
+  Quiet Korean residential neighborhood on a warm late afternoon. Narrow concrete lanes, older low-rise houses, potted plants, bicycles, utility poles, tangled wires, laundry, trees, faded walls, small playground. No shops, advertisements, crowds, or landmarks.
+
+  CAMERA:
+
+  Early-2000s consumer MiniDV camcorder filmed casually by her friend. Heavy handheld shake, awkward framing, accidental cropping, autofocus hunting, lens breathing, exposure pumping, motion blur, slight rolling shutter, mild compression, soft faded colors, subtle sensor noise.
+
+  No stabilization, gimbal, cinematic movement, HDR, film look, or modern smartphone aesthetics.
+
+  ---
+
+  00:00–00:04
+
+  Recording begins pointed at the pavement before quickly rising to her. She carries a small food container and laughs, saying, “Wait, don't film yet.” Her head is briefly cropped.
+
+  00:04–00:08
+
+  They walk uphill. She notices an orange-and-white stray cat beside an old bicycle and crouches to pet it. The camera moves too close and autofocus locks onto the bicycle instead of her.
+
+  00:08–00:12
+
+  The cat brushes against her leg. She laughs and tries to pet it, but it walks away. She looks at the camera with an amused expression while her friend laughs behind the camera.
+
+  00:12–00:16
+
+  They pass a faded neighborhood notice board. She points at something, then nearly drops the lid of her food container. She catches it and laughs naturally.
+
+  00:16–00:21
+
+  They reach a small playground under large trees. She sits on an old swing and gently rocks once or twice. The swing squeaks. Sunlight flickers through leaves while the camera exposure changes entering the shade.
+
+  00:21–00:25
+
+  She notices someone off-camera waving and waves back. Her friend says something indistinctly. She laughs, notices her shoelace is loose, and bends down to fix it. The camera awkwardly zooms in and briefly loses focus.
+
+  00:25–00:28
+
+  She stands, looks directly into the lens and laughs: “Are you seriously recording all of this?” She walks toward the camera as her friend backs away shakily.
+
+  00:28–00:30
+
+  She reaches toward the lens to stop the recording. Her fingers cover the image, the exposure darkens, and the footage abruptly cuts to black.
+
+  ---
+
+  AUDIO:
+
+  ONLY authentic location sound. No music or cinematic sound design.
+
+  Footsteps, fabric rustling, plastic container movement, birds, leaves, distant voices, bicycle sounds, swing squeaks, faint traffic, natural laughter, breathing, camera handling noise, and imperfect compressed dialogue from the built-in MiniDV microphone.
+
+  REALISM REQUIREMENTS:
+
+  Make it feel like an accidentally recorded personal MiniDV tape.
+
+  Include awkward framing, missed focus, exposure fluctuations, motion blur, compression artifacts, clipped highlights, natural pauses, micro-expressions, imperfect timing, and ordinary environmental details.
+
+  Avoid cinematic composition, dramatic lighting, perfect skin, artificial bokeh, smooth movement, slow motion, polished acting, modern color grading, or CGI-looking environments.
+
+  Key feeling: an authentic 30-second fragment discovered years later on an old Korean family MiniDV tape.

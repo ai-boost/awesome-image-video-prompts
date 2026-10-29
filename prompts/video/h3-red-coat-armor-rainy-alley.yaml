@@ -1,0 +1,43 @@
+id: h3-red-coat-armor-rainy-alley
+title:
+  en: Red coat and armored hero in rainy alley
+  zh: 雨夜小巷中的红大衣与铠甲英雄
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- dark-fantasy
+- fashion-editorial
+- rain-night
+- shot-list
+source:
+  name: '@underwoodxie96 on X'
+  url: https://x.com/underwoodxie96/status/2101994498515734813
+  credit: underwood
+  likes: 17
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/underwoodxie96/status/2101994498515734813
+notes:
+  en: A reference image locks both characters' looks, and a timed shot list gives each beat its own lens, angle and camera move. Sound and edit rhythm are spelled out so the motion lands on a drum beat and the final freeze holds clean.
+  zh: 参考图锁定两个角色的外观，分段镜头表为每个时间段指定景别、机位和运镜。音效和剪辑节奏写进提示词，让动作跟随鼓点，结尾定格时留出标题空间。
+prompt: |
+  @ Image 1: Lock the two characters’ facial features, hairstyles, outfits, armor, props, height proportions, and overall dark-fantasy appearance. The character in the long red coat and the fully armored character must remain visually consistent throughout the entire sequence. Do not alter their armor structure, braids, facial features, costume details, or clothing colors.
+
+  Use the rainy nighttime urban alley from the reference image as the primary setting. Create a stylish multi-pose fashion editorial sequence with the energy of a cinematic dark-fantasy trailer — cool, dynamic, highly polished, and grounded in realistic live-action photography.
+
+  0–3s | Wide Shot | Low-Angle Eye-Level | 24mm | Slow Push-In
+  Both characters stand in the middle of a wet alley at night. Neon signs and streetlights reflect across the rain-soaked pavement. The red-coated character stands slightly turned to the side, while the armored character stands tall behind him. His cape moves naturally in the wind. Establish a powerful, imposing presence from the opening shot.
+  3–6s | Medium Close-Up | Eye-Level, Front-Side Angle | 50mm | Lateral Tracking Shot
+  The red-coated character performs the first solo fashion pose. He turns his body slightly toward the camera, placing one hand inside his trouser pocket while allowing the mechanical arm to hang naturally at his side. He raises his gaze directly toward the camera with a cold, composed expression. Keep his face sharp and clearly visible throughout the camera movement.
+  6–9s | Medium Shot | Low-Angle | 35mm | Orbiting Camera
+  The armored character takes one step forward and raises one hand to adjust the cape over his shoulder. He then slightly lowers his head while looking directly into the camera. The metal armor reflects cool white light, while the chains and cape respond naturally to his movement with convincing weight and physical realism.
+  9–12s | Two-Shot, Medium Framing | Slightly Low Front Angle | 50mm | Pull Back
+  The two characters stand back-to-back in a coordinated combat-inspired pose. The red-coated character turns sideways and clenches one fist, while the armored character extends one arm toward the opposite side. Rainwater runs naturally across the armor and coat hems. Strong backlighting creates dramatic rim light around both silhouettes.
+  12–15s | Two-Shot, Wide to Medium | Low Angle | 35mm | Slow Push-In + Final Freeze
+  Both characters turn toward the camera at the same time. The red-coated character slightly raises his chin, while the armored character tightens his gauntleted fist. Their cape and long coat move naturally in the wind. End on a powerful, poster-like hero composition and hold the final frame clean, leaving enough negative space for a title or logo to be added in post-production.
+  The overall visual style combines professional high-fashion photography with a dark-fantasy cinematic trailer aesthetic. Use cool blue ambient lighting accented by subtle red reflections, wet rain-soaked pavement, physically realistic metallic reflections, natural fabric movement, slight lens breathing, crisp skin and material details, and cinematic 24fps motion blur.
+
+  The editing rhythm should follow a strong, driving drum beat. Transitions between poses should be connected through short, sharp, intentional character movements rather than abrupt jump cuts.
+  Sound design: deep electronic percussion, distant nighttime city ambience, steady rainfall, subtle metallic chain sounds, and heavy armored footsteps. At the final hero freeze-frame, briefly pause or drop the music to emphasize the characters’ final pose.

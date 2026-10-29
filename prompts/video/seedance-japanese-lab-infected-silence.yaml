@@ -1,0 +1,40 @@
+id: seedance-japanese-lab-infected-silence
+title:
+  en: Lab teacher silences class as infected close in
+  zh: 实验室老师让学生安静，感染者逼近
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- horror
+- japanese-school
+- sound-cues
+- camera-push
+- photorealistic
+source:
+  name: '@ElsaSofia__AI on X'
+  url: https://x.com/ElsaSofia__AI/status/2100903709492613245
+  credit: ElsaSofia__AI
+  captured: '2026-10-29'
+  posted: '2026-09-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ElsaSofia__AI/status/2100903709492613245
+notes:
+  en: The prompt is written as a timed sequence of beats, each with a concrete sound or visual cue such as the scratching cabinet and the dropped beaker, giving the model clear moments to pace. The diegetic-only audio line and the explicit list of exclusions keep the look realistic and free of score.
+  zh: 提示词按时间顺序写成一连串动作节点，每个节点都有具体的声音或画面线索，例如柜子里的刮擦声和掉落的烧杯，让模型有明确的节奏可依。只保留环境声的音频要求，以及明确列出的排除项，使画面保持真实，没有配乐。
+prompt: |
+  Create a short, ultra-realistic cinematic horror-action sequence set inside a quiet Japanese high-school science laboratory during an afternoon class. A female science teacher is demonstrating an experiment when the lights suddenly flicker and every digital display in the room turns off at the same time. A strange scratching sound comes from inside a locked storage cabinet.
+
+  The teacher cautiously approaches the cabinet, but before she can open it, the glass windows violently shake. One student notices dark handprints appearing on the outside of the glass even though there is nobody there. The classroom door suddenly slams shut and locks itself.
+
+  The teacher tells everyone to stay calm and uses a metal laboratory stand to force the door open. Just as the students begin escaping into the hallway, one of the emergency lights reveals several infected figures standing motionless at the far end of the corridor.
+
+  The students rush back into the laboratory and quickly push tables against the entrance. The teacher discovers that the infected are reacting to sound, so everyone becomes completely silent. A student accidentally drops a glass beaker.
+
+  The sound echoes through the hallway.
+
+  All the infected figures slowly turn toward the laboratory.
+
+  The teacher raises one finger, silently telling everyone not to move. The camera slowly pushes toward the barricaded door as dozens of footsteps begin approaching from outside. The screen cuts to black just before the door starts shaking violently.
+
+  Photorealistic live-action horror, authentic Japanese high-school science laboratory, realistic teenage students and teacher, natural handheld cinematography, subtle practical effects, believable physical movement, atmospheric fluorescent lighting, realistic shadows, tense pacing, authentic facial reactions, cinematic depth of field, muted horror color grading, diegetic environmental sound only. No music, narration, excessive gore, graphic injuries, animation, anime, cartoon style, artificial CGI appearance, distorted anatomy, subtitles, text, logos, or watermark.

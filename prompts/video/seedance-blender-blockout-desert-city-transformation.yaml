@@ -1,0 +1,24 @@
+id: seedance-blender-blockout-desert-city-transformation
+title:
+  en: Gray clay blockout of a futuristic desert city
+  zh: 灰色粘土白模呈现未来沙漠城市
+model: Seedance 2.5
+mode: reference-to-video
+category: vfx
+tags:
+- blender
+- blockout
+- transformation
+- desert-city
+source:
+  name: '@Itswsm105f on X'
+  url: https://x.com/Itswsm105f/status/2097225058439840092
+  credit: Zyro AI
+  captured: '2026-10-29'
+  posted: '2026-09-08'
+video: https://x.com/Itswsm105f/status/2097225058439840092
+notes:
+  en: A second-by-second storyboard locks the untextured clay stage first, then a push-in and a transition keep the geometry fixed while materials and light appear. The negative list (warped architecture, duplicated vehicles, unrealistic physics) keeps the structure stable.
+  zh: 用逐秒分镜先锁定无纹理的灰色白模，再以推镜和过渡让几何结构保持不变，同时逐步加入材质与光照。负面清单（扭曲建筑、重复载具、违背物理）帮助保持结构稳定。
+prompt: |
+  Create a 30-second vertical 9:16 cinematic comparison video demonstrating how a simple Blender 3D blockout can be transformed into a highly detailed cinematic AI-generated scene. CONCEPT: A futuristic desert city built around a massive ancient-looking circular observatory. 0–5 seconds — Blender Blockout: Show a basic gray Blender clay render from an elevated cinematic camera angle. The scene contains simple geometric buildings, large cylindrical towers, rectangular platforms, a huge circular observatory structure in the center, basic roads and small placeholder vehicles. Everything is untextured gray clay with simple lighting, clearly looking like a 3D Blender blockout. 5–10 seconds — Camera Push-In: Slowly move the camera toward the central observatory while maintaining the exact composition and geometry. Subtle Blender viewport/clay-render feeling. No textures, no realistic materials. 10–15 seconds — Transformation: Begin a smooth visual transition from the gray Blender blockout into the finished cinematic environment. Geometry remains structurally consistent while realistic materials, textures, lighting, atmosphere and environmental details gradually appear. 15–25 seconds — Final AI Cinematic Scene: Reveal a spectacular futuristic desert metropolis at golden hour. Massive sandstone-and-metal towers rise from golden dunes, connected by elevated bridges. The central circular observatory has intricate futuristic architecture, glowing windows and mechanical details. Small flying vehicles move naturally between buildings. Dust particles float through warm sunlight. Long shadows, volumetric lighting, realistic reflections, detailed surfaces, atmospheric depth and subtle heat haze. Make the environment feel enormous, believable and cinematic. 25–30 seconds — Final Reveal: Pull the camera backward and upward to reveal the full city surrounded by endless desert dunes. The final frame should create a strong visual contrast between the simple Blender concept and the stunning finished AI-generated world. STYLE: photorealistic cinematic sci-fi, AAA game environment quality, realistic materials, natural atmospheric perspective, volumetric sunlight, detailed architecture, physically realistic lighting, subtle camera movement, premium VFX, highly detailed environment. IMPORTANT: The final scene must be completely original and must NOT reproduce the reference video's architecture, composition, Japanese temples, floating islands, army formations, or cloud setting. Preserve only the general Blender blockout → AI cinematic transformation concept. NO: cartoon style, anime, distorted buildings, random geometry changes, excessive camera shake, text artifacts, duplicated vehicles, warped architecture, unrealistic physics.

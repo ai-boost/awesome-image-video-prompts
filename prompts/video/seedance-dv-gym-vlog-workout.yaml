@@ -1,0 +1,79 @@
+id: seedance-dv-gym-vlog-workout
+title:
+  en: DV tape gym vlog with stretches and curls
+  zh: DV 磁带质感的健身 vlog，拉伸与弯举
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- dv-look
+- gym-vlog
+- character-consistency
+- handheld-pov
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2105198136905933154
+  credit: AIwithWania
+  captured: '2026-10-29'
+  posted: '2026-09-30'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithWania/status/2105198136905933154
+notes:
+  en: The camera is framed as the subject's own camcorder, propped or handheld, so tape noise, bloom and exposure flicker read as part of the shot rather than a filter. A reference image with a locked block for face, hair, outfit and setting keeps one character across eight timed cuts, and each cut pairs one action with one line of dialogue to drive lip-sync and pacing.
+  zh: 提示词把镜头设定为主角自己拿着或架在地上的摄像机，磁带噪点、高光泛白和曝光闪烁因此成为画面的一部分，而非后期滤镜。参考图加上锁定脸部、发型、服装和场景的固定段落，让同一角色贯穿八个定时镜头；每个镜头配一个动作和一句台词，用来带动口型与节奏。
+prompt: |
+  -
+  CAMERA:
+  DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the gym floor or mat for hands-free workout shots. Natural hand shake, imperfect framing, delayed focus pulls, clumsy little zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+  LOOK:
+  Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, subtle flickering auto-exposure, muted contrast, realistic skin tones, natural sweat sheen, authentic nostalgic DV texture.
+
+  STYLE:
+  Confident, playful, slightly cheeky gym-vlog energy. Genuine workout effort mixed with humor and personality. The movements must clearly look like real gym stretching and exercises, never sexualized or suggestive. Quick handheld cuts, natural breathing, realistic body movement, expressive facial reactions, casual spontaneous dialogue.
+
+  REFERENCE IMAGE / CHARACTER:
+  Use the provided reference image as the exact visual reference for CHASE. Preserve her exact face, identity, facial features, skin tone, body proportions, and recognizable appearance throughout the entire video. Do not change or redesign her face. The same girl must appear consistently in every shot. Keep her long black hair in a high ponytail throughout the video. Slim athletic build, expressive eyes, natural glowing skin with a light sweat sheen.
+
+  OUTFIT:
+  Stylish fitted gym outfit with a slightly bold but appropriately covered look: a fitted athletic crop-style training top with secure chest coverage and visible shoulders and arms, paired with high-waisted opaque fitted leggings. Use a striking color combination such as a deep burgundy/wine top with dark charcoal leggings. Premium athletic fabric, realistic fit, fashionable but practical for working out. No jacket, no long sleeves, no jewelry, no distracting accessories. Keep the exact same outfit throughout.
+
+  SETTING:
+  Modern gym in the evening, gym mat area near a mirror wall, soft overhead lighting, water bottle beside the mat, dumbbells and other gym equipment naturally visible in the background, realistic gym atmosphere.
+
+  STORYBOARD — 30 SECONDS, 8 CUTS:
+
+  1. (~4s, propped camera, medium shot)
+  CHASE stands on the mat and immediately starts a proper warm-up. She raises both arms overhead for a controlled stretch, reaches through her sides, then brings one arm across her chest for a shoulder stretch. She rolls her shoulders back and looks at the camera with a confident playful expression.
+  CHASE: "Alright… let's wake these muscles up."
+
+  2. (~3s, handheld medium shot)
+  She performs controlled side stretches, one arm reaching overhead while leaning gently to the opposite side, then switches sides. Natural athletic movement and relaxed breathing.
+  CHASE: "We're warming up… but we're not playing today."
+
+  3. (~4s, low propped camera, seated stretch)
+  CHASE sits on the mat, extends one leg straight while keeping the other comfortably bent, and reaches toward her extended foot. She switches sides naturally, keeping proper stretching form.
+  CHASE: "Okay, legs… don't betray me now."
+
+  4. (~3s, medium shot)
+  She moves into a comfortable seated wide-leg stretch, leaning forward slightly and then sitting upright. She looks directly at the camera with a playful smirk.
+  CHASE: "Okay… we're getting serious now."
+
+  5. (~3s, handheld transition)
+  CHASE stands up, walks toward a pair of moderate dumbbells, picks them up, adjusts her grip, checks herself briefly in the mirror, then looks toward the camera confidently.
+  CHASE: "Enough stretching. Let's make it burn."
+
+  6. (~4s, medium handheld shot)
+  She performs controlled dumbbell curls with proper gym form. Her arms show natural workout tension as she completes several repetitions. She glances at the camera while continuing the exercise.
+  CHASE: "Okay… now we're talking."
+
+  7. (~6s, propped camera, core workout)
+  CHASE puts the dumbbells down and transitions onto the mat. She starts controlled crunches, then moves into slow leg raises. Close-up insert of her hands gripping the mat while her core works. Her breathing becomes heavier and her expression shows genuine effort. She finishes the final leg raise and drops back onto the mat with a laugh.
+  CHASE: "Yeah… that burn is getting dangerously good."
+
+  8. (~3s, arm's-length selfie finish)
+  Still lying on the mat, slightly sweaty and breathing naturally, CHASE lifts the camera above her face. Her long black high ponytail rests naturally around her head. She gives the camera a tired but confident smile.
+  CHASE: "Cute warm-up. Serious workout."
+
+  IMPORTANT:
+  Keep every movement realistic and clearly recognizable as gym training. No repetitive shaking, hip thrusting, pelvic movements, suggestive bouncing, or sexualized posing. Maintain consistent face, identity, hairstyle, outfit, body proportions, lighting, and visual style throughout all eight cuts. Natural lip-sync, realistic breathing, authentic gym ambience, playful facial expressions, and imperfect DV camcorder footage throughout.

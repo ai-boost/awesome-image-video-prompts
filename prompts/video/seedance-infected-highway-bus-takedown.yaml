@@ -1,0 +1,27 @@
+id: seedance-infected-highway-bus-takedown
+title:
+  en: Infected passengers attacked on Japanese highway bus
+  zh: 日本高速巴士上的感染者袭击
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- horror
+- action
+- timed-shots
+- sound-design
+source:
+  name: '@auqibhabib on X'
+  url: https://x.com/auqibhabib/status/2102265619416768799
+  credit: auqibhabib
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/auqibhabib/status/2102265619416768799
+notes:
+  en: Each second is labeled with a timestamp and a camera instruction such as hard cut, close-up or slow motion, which gives the model a clear shot list. The setting, costumes and sound design are repeated in the header and footer, which keeps the bus, uniforms and score consistent across the whole clip.
+  zh: 每个时间段都标注了时间码和镜头指令，如硬切、特写或慢动作，给模型一份清晰的分镜表。车厢、服装和声音设计在开头与结尾重复描述，使整段视频中的巴士、制服和配乐保持一致。
+prompt: "Cinematic horror-action short film set aboard a Japanese highway bus during the day, opens with an immediate strong hook, maximum dynamic camera work, grounded practical-effects style. Bus interior filled with passengers in every seat, a conductor in a gray uniform with a money pouch at his waist, a driver focused on the road ahead. Muted authentic color grading, natural diegetic sound throughout, tension score entering immediately.\n>\n> **[0-1s]** Hard cut: a woman mid-row suddenly jolts violently in her seat, gasping sharply.\n>\n> **[1-2s]** Close-up: her veins turn a deep red, spreading rapidly up her neck and across her face.\n>\n> **[2-3s]** Her eyes snap open, now fully red — she lunges instantly, biting into her seatmate's shoulder.\n>\n> **[3-4s]** He cries out, nearby passengers recoiling in shock, seats creaking as people scramble back.\n>\n> **[4-5s]** The bitten man convulses hard, veins spreading fast across his own neck and arms.\n>\n> **[5-6s]** He rises seconds\
+  \ later, eyes red, joining her, both turning toward the passengers around them.\n>\n> **[6-7s]** Panic spreads through the bus, passengers screaming, climbing over seats to get away.\n>\n> **[7-8s]** The conductor spots the chaos from the front, shouting urgently in Japanese: \"バスを止めて!\" (\"Stop the bus!\")\n>\n> **[8-9s]** The driver slams the brakes hard, the bus lurching to a stop on the highway shoulder.\n>\n> **[9-10s]** The conductor grabs a metal tire iron from beneath his seat, moving fast down the aisle.\n>\n> **[10-11s]** The driver grabs a heavy steel wheel wrench, following close behind him.\n>\n> **[11-12s]** They reach the folding door, wrenching it open, ushering panicked passengers out fast.\n>\n> **[12-13s]** Passengers pour out onto the highway shoulder, some stumbling, others sprinting clear.\n>\n> **[13-14s]** The two infected push through the fleeing crowd, lunging toward the nearest passenger outside.\n>\n> **[14-15s]** The conductor swings the tire iron hard, striking\
+  \ the first infected across the shoulder, sending it stumbling.\n>\n> **[15-16s]** The driver swings the wrench into the second infected, knocking it back against the bus.\n>\n> **[16-17s]** SLOW MOTION insert: the first infected lunges again, conductor sidestepping and striking it down with a solid blow.\n>\n> **[17-18s]** It collapses onto the gravel shoulder, motionless.\n>\n> **[18-19s]** The second infected recovers, charging the driver; he braces and swings the wrench in a wide arc.\n>\n> **[19-20s]** The impact connects hard, sending it sprawling against the guardrail.\n>\n> **[20-21s]** It tries to rise again; the conductor rushes over, delivering one final strike alongside the driver.\n>\n> **[21-22s]** It goes still, both men breathing hard, weapons still raised.\n>\n> **[22-24s]** Wide shot: passengers huddled together on the highway shoulder, shaken but safe, cars slowing on the opposite lane.\n>\n> **[24-26s]** The conductor lowers the tire iron, scanning the group to confirm\
+  \ everyone's accounted for.\n>\n> **[26-28s]** The driver checks the two motionless infected on the ground, cautious but confirming they're down.\n>\n> **[28-30s]** Final shot: the conductor and driver exchange an exhausted nod, passengers slowly regrouping behind them under the open sky. Cut to black.\n\nNatural diegetic sound throughout — gasping, screaming, bus brakes screeching, metal impacts, heavy breathing, distant highway traffic — layered with a tense instrumental score building through the chaos and easing into relief at the end. No text overlay, no watermark. Maximum dynamic camera variety — close-ups, wide shots, tracking shots, slow motion reserved only for the final takedown blows. Realistic shake only during physical impacts, natural daylight highway color grading. \n\nMade with seedance 2.5 on @SocialSight\n"

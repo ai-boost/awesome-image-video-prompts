@@ -1,0 +1,24 @@
+id: seedance-ugc-burger-selfie-vlog
+title:
+  en: Smiling woman shows burger box in selfie
+  zh: 举着汉堡盒自拍的开心女生
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- ugc
+- selfie-vlog
+- product-reference
+- food
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2088500493308084326
+  credit: Oogie
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/oggii_0/status/2088500493308084326
+notes:
+  en: The prompt pins the uploaded burger photo as the only product reference and repeats its exact bun, patty, cheese and sauce details in every shot, which keeps the food stable across cuts. A named character reference, handheld phone cues such as autofocus breathing and jump cuts, and a negative prompt against studio lighting and CGI food drive the authentic UGC look.
+  zh: 提示词把上传的汉堡照片设为唯一产品参考，并在每个镜头中重复面包、肉饼、芝士和酱汁的细节，使食物在切换镜头后保持稳定。角色参考图锁定人物外观，自动对焦呼吸、手持抖动和快速跳切等手机拍摄线索，加上排除棚拍光和 CGI 食物的负面提示，共同营造真实 UGC 的质感。
+prompt: |
+  Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic. Product Reference: Use the uploaded gourmet burger image as the only product reference. Preserve the bun shape, patty thickness, cheese melt, lettuce, tomato, sauces, and proportions exactly in every shot. Character Description Name: Hana A young Japanese woman @ Image 1 in her early 20s with natural beauty, long dark hair in a loose ponytail, oversized cream sweatshirt, minimal makeup, bright smile, friendly lifestyle-vlogger personality. Shot Breakdown SHOT 1 (0–2s) — Selfie showing the burger box. Dialogue: "Burger night!" SHOT 2 (2–4s) — Opens the box. SHOT 3 (2–4s) — Quick zoom on the burger. SHOT 4 (6–8s) — Hands lifting the burger with cheese stretching naturally. SHOT 5 (8–10s) — Bite reaction. Dialogue: "Okay... that's incredible." SHOT 6 (10–12s) — Casual close-up b-roll while reaching for fries. SHOT 7 (12–14s) — Toasting the burger toward the camera. Dialogue: "You need this." SHOT 8 (14–15s) — Freeze frame with overlay: "burger cravings = solved 🍔" Look & Feel Warm apartment lighting, genuine phone footage, slight grain, natural autofocus breathing, handheld imperfections, fast jump cuts. Negative Prompt cinematic grading, commercial production, CGI burger, fake cheese, distorted hands, warped food, perfect stabilization, studio lighting, text glitches, logo distortion.

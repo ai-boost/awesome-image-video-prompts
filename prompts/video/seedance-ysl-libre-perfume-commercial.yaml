@@ -1,0 +1,29 @@
+id: seedance-ysl-libre-perfume-commercial
+title:
+  en: Woman sprays YSL Libre perfume on wrist
+  zh: 女模特在手腕上喷洒YSL Libre香水
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- perfume
+- luxury
+- product-ad
+- fashion
+source:
+  name: '@AIwithZeeshi on X'
+  url: https://x.com/AIwithZeeshi/status/2110579418271818208
+  credit: AIwithZeeshi
+  captured: '2026-10-29'
+  posted: '2026-10-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithZeeshi/status/2110579418271818208
+notes:
+  en: The prompt breaks the 15-second spot into ordered beats (pick up, spray, walk to the window, closing close-up), giving the model a clear shot sequence. The closing block of physics and camera terms such as smooth tracking, glass reflections and consistent character sets the realism.
+  zh: 提示词把15秒广告拆成有先后顺序的动作段落（拿起、喷香、走向窗边、结尾特写），让模型有清晰的镜头顺序。结尾集中列出物理真实感与镜头运动的术语（平滑跟拍、玻璃反光、角色一致），以此设定画面的真实质感。
+prompt: |
+  Create a 15-second ultra-photorealistic luxury perfume commercial featuring YSL Libre Eau de Parfum.
+
+  A stunning Western fashion model in an elegant black satin evening dress stands inside a luxurious Manhattan penthouse at golden hour. She picks up the iconic black-and-gold perfume bottle, sprays the fragrance on her wrist, and gently appreciates its scent. She then walks gracefully toward the floor-to-ceiling windows as her hair and dress move naturally. The video ends with a cinematic close-up of the perfume bottle against the glowing New York skyline.
+
+  Luxury fashion aesthetics, realistic skin texture, natural human movement, physically accurate perfume mist, realistic glass reflections, natural fabric physics, consistent character appearance, cinematic lighting, smooth camera tracking, believable gravity and airflow, and premium commercial cinematography throughout.

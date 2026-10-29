@@ -1,6 +1,6 @@
 # Animals and pets
 
-[Back to the list](../../README.md) · All 14 entries
+[Back to the list](../../README.md) · All 21 entries
 
 <a id="kling-eagle-pov-steppe-flight"></a>
 ### Golden eagle POV flight over mountain valleys
@@ -151,6 +151,52 @@ A cinematic video inside the back seat of a moving car with beige leather interi
 
 </details>
 
+<a id="h3-oggy-cockroaches-desktop-chaos"></a>
+### Oggy swats desktop icons while cockroaches scatter
+
+<a href="https://x.com/SimplyAnnisa/status/2102261324860293180"><img src="../../previews/h3-oggy-cockroaches-desktop-chaos.jpg" width="360"></a>
+
+Pins the provided desktop screenshot as the exact first frame and fixes a static camera so the layout stays put. Timed beats with a strict order for each icon restore keep the motion readable and the icon count fixed.
+
+MiniMax H3 · Image-to-video · Source: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2102261324860293180) · 180 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`cartoon`](tags.md#tag-cartoon) [`desktop-reference`](tags.md#tag-desktop-reference) [`slapstick`](tags.md#tag-slapstick) [`static-camera`](tags.md#tag-static-camera)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 12-second horizontal 16:9 video at 1280×720 using the provided cartoon macOS desktop image as the EXACT first frame and visual reference.
+
+EXACTLY 4 characters only: ONE large friendly Big Blue Dog with a fly swatter + THREE clearly different mischievous cockroaches. No other characters. All remain 2D cartoon style.
+
+Static front-facing camera, one continuous shot, no cuts, zoom, pan, or camera movement.
+
+0–2.5s: Big Blue Dog playfully chases the three cockroaches across the living-room floor toward the RIGHT side. Harmless slapstick comedy.
+
+2.5–4s: Dog swings the fly swatter. ONLY these three desktop icons are physically dislodged: Gmail, Discord, Microsoft Teams. They gently rotate, fall, and land separately on the open desktop above the Dock. NO OTHER ICON moves.
+
+4–5s: Dog notices the fallen icons, looking surprised. Cockroaches look mischievous.
+
+5–10s: Dog physically restores the icons ONE AT A TIME in this exact order:
+Gmail → exact original position → click.
+Discord → exact original position → click.
+Microsoft Teams → exact original position → click.
+
+No teleporting, snapping, automatic restoration, or simultaneous movement.
+
+10–12s: Cockroaches run toward the RIGHT. Dog follows briefly, then stops and looks at the viewer innocently while the three cockroaches look back mischievously.
+
+DESKTOP MUST REMAIN IDENTICAL: all 18 original applications, labels, logos, menu bar, Dock, wallpaper, sofa, window, books, furniture, popcorn, floor, and background stay unchanged. ONLY Gmail, Discord, and Microsoft Teams may move. No duplicates, missing icons, altered logos, or extra characters.
+
+AUDIO: playful cartoon piano/pizzicato, footsteps, swatter whoosh, icon movement/landing sounds, and three distinct soft computer clicks. No dialogue, subtitles, captions, text overlays, or watermark.
+
+Premium smooth 2D cartoon animation, clean outlines, consistent proportions, squash-and-stretch, natural shadows, warm cinematic lighting.
+
+FINAL FRAME: Gmail, Discord, and Microsoft Teams are EXACTLY back in their original positions; all other 15 icons remain stationary; exactly four characters visible on the RIGHT side.
+```
+
+</details>
+
 <a id="h3-cat-shelters-abandoned-puppy-rainy-night"></a>
 ### Cat shelters abandoned puppy in rainy cardboard box
 
@@ -237,6 +283,80 @@ Edit @Video1. When the box is opened again at the end of the video, @Element1 is
 </details>
 
 Inputs: [1](https://static-69.klingai-cdn-aws.com/kling-blog/file_by_url/05e5537073a5b777a556a6ca1d7674084e5062c074bc7a7a2b9ee5c1b291d55c.png) · [2](https://static-96.klingai-cdn-aws.com/kling-blog/file_by_url/d75de72f10aa9c6378f0837551a337fb0e60ebe0f3b7532d0eacb10f8496eebc.png) · [3](https://static-88.klingai-cdn-aws.com/kling-blog/file_by_url/5a5caf66b2695099249e7bd573ca117d2ceec8168c1d044818f66bb97c3f8ef8.png) · [4](https://static--78.klingai-cdn-aws.com/kling-blog/presigned_url/84cd82e3-8d57-4e41-bb95-b2cf8e035a9e_1-1-1.mp4)
+
+<a id="seedance-3d-animal-meadow-intro-children"></a>
+### Cute 3D animals introduced one by one in meadow
+
+<a href="https://x.com/Zarnab_with_Ai/status/2107293811714191628"><img src="../../previews/seedance-3d-animal-meadow-intro-children.jpg" width="360"></a>
+
+A numbered sequence with one repeated beat per animal (enter, look at camera, small movement, hold) gives the model a clear structure across eight subjects. The meadow is described once and the prompt asks for it to stay constant, so the setting holds between cuts while the on screen label and confetti mark each arrival.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2107293811714191628)
+
+[`education`](tags.md#tag-education) [`children`](tags.md#tag-children) [`animals`](tags.md#tag-animals) [`3d-animation`](tags.md#tag-3d-animation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 50-second vertical 9:16 educational children's animal video in a bright, colorful, high-quality 3D cartoon animation style.
+
+SCENE & BACKGROUND:
+A beautiful cheerful meadow in a magical children's storybook world. Lush green grass, colorful wildflowers in the foreground, rounded green trees, a few pink and orange trees, distant rolling hills and mountains, bright blue sky with fluffy white clouds. Warm sunny daylight, soft shadows, vibrant colors, clean polished 3D rendering.
+
+STYLE:
+Cute premium 3D animated children's content, friendly and adorable animal designs, large expressive eyes, soft rounded shapes, colorful cinematic lighting, playful educational atmosphere, high detail but simple enough for young children.
+
+CAMERA:
+Vertical composition, mostly static front-facing camera at children's eye level. Medium/full-body framing of each animal. Smooth subtle camera movement only. Keep the environment consistent throughout the video.
+
+SEQUENCE:
+Start with an empty beautiful meadow for a moment.
+
+Then introduce animals one by one, each appearing clearly in the center of the frame:
+
+1. TIGER — a cute orange tiger with black stripes, big expressive eyes and a friendly smile.
+Display the word "TIGER" above the animal in large colorful playful children's typography.
+
+2. ELEPHANT — a cute friendly gray elephant with large ears, short trunk and adorable expressive eyes.
+Display "ELEPHANT" above it.
+
+3. RHINOCEROS — a cute gray baby rhinoceros with a small horn, big eyes and friendly expression.
+Display "RHINOCEROS" above it.
+
+4. HIPPOPOTAMUS — a cute chubby purple-gray hippopotamus with a big smile and playful expression.
+Display "HIPPOPOTAMUS" above it.
+
+5. LEOPARD — an adorable golden-yellow leopard covered with dark spots, big expressive eyes and a friendly smile.
+Display "LEOPARD" above it.
+
+6. WOLF — a cute fluffy gray-and-white wolf with large expressive eyes and a friendly appearance.
+Display "WOLF" above it.
+
+7. GIRAFFE — a cute tall giraffe with a warm orange-yellow coat and brown patches, smiling gently.
+Display "GIRAFFE" above it.
+
+8. CROCODILE — a cute green crocodile with a rounded friendly body, big eyes and a playful smile.
+Display "CROCODILE" above it.
+
+For every animal:
+The animal should enter or appear naturally, look toward the camera, make a small cute movement such as blinking, smiling, waving, walking a few steps or moving its head, then remain clearly visible for children to recognize.
+
+TEXT:
+Use large bold rounded children's lettering above each animal.
+Letters should be colorful, playful, highly readable and visually exciting.
+Add small colorful celebratory shapes such as stars or confetti when an animal appears.
+
+TRANSITIONS:
+Smooth playful transitions between animals while keeping the same meadow environment.
+No scary movements, no aggressive behavior, no dark scenes.
+
+FINAL SHOT:
+Return to the empty colorful meadow for a short moment.
+
+Overall feeling: cheerful, wholesome, education
+```
+
+</details>
 
 <a id="seedance-cat-day-in-the-life-selfie-vlog"></a>
 ### Orange cat films its whole day selfie vlog
@@ -391,6 +511,114 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 </details>
 
+<a id="seedance-duckling-forest-river-friends"></a>
+### Duckling journey down a forest river with animal friends
+
+<a href="https://x.com/Zyrellix/status/2108047742425600244"><img src="../../previews/seedance-duckling-forest-river-friends.jpg" width="360"></a>
+
+The prompt walks through the story as ordered beats, and each beat ends in a clear handoff (the otter catches it, the buck carries it, the fox takes it), which keeps a multi-character sequence readable. The style, lighting and score are set once at the end so every beat shares one look.
+
+Seedance 2.5 · Text-to-video · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2108047742425600244) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`animals`](tags.md#tag-animals) [`multi-shot`](tags.md#tag-multi-shot) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A sunny forest stream, Pixar-style 3D animation. A small yellow duckling with a brown tuft, big eyes, and orange feet paddles alone through clear water over pebbles, ferns and mossy rocks around it, golden light through the trees.
+The current picks up. The duckling looks worried as white water rushes past, then an otter bursts up on its back, catches the duckling, and floats downstream with it perched on its belly, both smiling.
+They reach the bank. A young buck with antlers leans in; the duckling hops onto its antlers, then rides its back as it trots through a sunlit clearing. A red fox with a white-tipped tail runs alongside, and the duckling transfers onto the fox’s head. A gray rabbit joins them on a pebble path and hugs the duckling.
+The duckling stands alone at a calm pond, then jumps in with a splash, wings out, laughing. On the bank sit the otter, fox, and rabbit, watching. More identical ducklings appear in the water until a whole flock floats together. The three friends smile down at them. Sunset rays flare through the trees, lily pads on the water, warm golden-hour light, soft depth of field, cheerful score.
+```
+
+</details>
+
+<a id="seedance-five-animals-tiger-dance"></a>
+### Five cats and a tiger dance in unison
+
+<a href="https://x.com/RizwanAly07/status/2113513297190511082"><img src="../../previews/seedance-five-animals-tiger-dance.jpg" width="360"></a>
+
+The prompt splits the 30 seconds into timed beats with one camera move per segment, giving the model a clear order of moves. A separate STRICT RULES block fixes the animal count, fur colours and the no-morphing constraint across the whole clip.
+
+Seedance 2.5 · Text-to-video · Source: [@RizwanAly07 on X](https://x.com/RizwanAly07/status/2113513297190511082) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`cats`](tags.md#tag-cats) [`tiger`](tags.md#tag-tiger) [`viral-dance`](tags.md#tag-viral-dance) [`led-room`](tags.md#tag-led-room)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+DURATION: 30 seconds
+FORMAT: 4:3
+STYLE: Ultra-realistic animals, funny viral dance, cinematic lighting, smooth motion, 4K, 24fps.
+
+Create a 30-second ultra-realistic viral dance video featuring five adorable animals: a fluffy orange cat, a white cat, a black-and-white cat, a calico cat, and an orange Bengal tiger. All animals have realistic fur, natural feline faces, and upright dancing poses. They perform together inside a futuristic minimalist white room with a glossy gray floor and bright geometric LED strips covering the walls and ceiling.
+
+0–4 seconds: All five animals stand close together facing the camera. They look curiously into the lens, move their heads to the beat, and begin preparing for the dance. The camera slowly pulls backward to reveal the futuristic room.
+
+4–8 seconds: The animals turn around together, briefly showing their backs. The fluffy orange cat turns back toward the camera, raises one front paw, and begins a playful dance gesture.
+
+8–12 seconds: The white cat and calico cat sway their bodies from side to side. The orange cat waves its front paws rhythmically while the tiger begins moving in sync with the group.
+
+12–16 seconds: All five animals perform coordinated side steps, swinging their front paws and shifting their bodies rhythmically. The camera smoothly tracks their movements.
+
+16–20 seconds: The tiger steps forward for a funny solo dance, raising its front paws and moving its shoulders. The other cats dance behind it, maintaining their natural animal appearance.
+
+20–24 seconds: The fluffy orange cat takes the spotlight, performing playful paw movements and a short body turn. The tiger and other cats continue dancing in the background.
+
+24–27 seconds: All five animals turn and perform synchronized arm-like paw gestures, side steps, and playful body sways. Their movements become faster and more energetic.
+
+27–30 seconds: The camera moves closer as all five animals gather together in a final synchronized dance pose, facing the camera. They finish with playful expressions and a slight head tilt.
+
+VISUAL QUALITY: Photorealistic fur detail, realistic feline anatomy, consistent animal identities, smooth coordinated movements, stable environment, cinematic wide-angle camera, reflective floor, bright futuristic LED lighting.
+
+STRICT RULES: Keep exactly five animals throughout the video. Do not change their fur colors or identities. No humans, no clothing, no extra animals, no deformed paws, no duplicated bodies, no morphing, no sudden teleportation, no cartoon or CGI appearance, no text, no logos, and no watermark. All movements must flow naturally from one dance sequence to the next.
+```
+
+</details>
+
+<a id="seedance-happy-cat-donut-animation"></a>
+### Hand drawn cat eats donut, gets a fresh one
+
+<a href="https://x.com/MissDelulu9/status/2092465805611212978"><img src="../../previews/seedance-happy-cat-donut-animation.jpg" width="360"></a>
+
+Timed beats with explicit bite stages and a locked camera on a plain white background keep a photoreal donut and a flat black line art cat in one frame. Requiring each missing piece to leave through a visible bite stops the donut from dissolving.
+
+Seedance 2.5 · Text-to-video · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2092465805611212978)
+
+[`cat`](tags.md#tag-cat) [`donut`](tags.md#tag-donut) [`hand-drawn`](tags.md#tag-hand-drawn) [`mixed-media`](tags.md#tag-mixed-media)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second 16:9 video on a pure white background with a locked front camera and centered framing. No camera movement, cuts, transitions, text, captions, or extra elements.
+
+Feature a photorealistic golden powdered-sugar donut with a simple black 2D hand-drawn chubby cat wearing a snorkel, mask and flippers. Keep the donut realistic and the cat/waves as minimal black line-art. Never make the cat 3D.
+
+0–2s: The donut stays still while the happy cat floats inside it, gently paddling and kicking. Small black wave lines animate around the donut.
+
+2–3s: The cat paddles faster, notices the donut, looks hungry, licks its lips and gives a mischievous smile.
+
+3–6.5s: The cat bites the donut repeatedly. Show clear progressive eating: whole donut → big bite → half donut → tiny piece. Add small crumbs and funny chewing expressions. Every missing section must disappear through a visible bite—never dissolve or vanish.
+
+6.5–7.5s: The cat eats the last piece. The donut is completely gone. It looks around, realizing it ate everything.
+
+7.5–8.5s: The cat becomes adorably sad, with lowered ears, drooping paws and a pout, staring at the empty space.
+
+8.5–10s: A fresh complete powdered-sugar donut drops from above and lands perfectly around the cat. The cat instantly becomes excited and the wave lines return.
+
+10–11.5s: The cat hugs the new donut with closed eyes and a huge happy smile.
+
+11.5–13s: It happily wiggles its paws and flippers, floating in the donut.
+
+13–14s: The cat looks at the camera and gives a cute little wink.
+
+14–15s: A tiny bubble pops from the snorkel. The cat kicks its flippers twice and smiles brightly as it floats happily inside the untouched donut.
+
+Keep the same visual continuity from beginning to end: realistic donut + black hand-drawn cat, snorkel, flippers and waves only.
+```
+
+</details>
+
 <a id="seedance-husky-bunnies-snow-sunset-friendship"></a>
 ### Husky Meets Two Bunnies in Sunset Snow
 
@@ -441,6 +669,54 @@ No dialogue, text, subtitles, logos, or watermarks.
 No cartoon appearance, artificial CGI look, distorted anatomy, duplicated animals, or sudden scene transitions.
 
 Maintain consistent animal appearances throughout the entire video.
+```
+
+</details>
+
+<a id="seedance-japanese-rural-chicken-chase"></a>
+### Chicken escapes during a rural Japanese afternoon walk
+
+<a href="https://x.com/nawalsehar/status/2104438109949628826"><img src="../../previews/seedance-japanese-rural-chicken-chase.jpg" width="360"></a>
+
+Handheld consumer-camera realism is spelled out with imperfect framing, autofocus hunting and natural motion blur, plus concrete chicken behavior and a natural-audio-only list that keeps the clip grounded. The negative prompt blocks CGI, plastic skin and commercial look so the footage reads as a home video.
+
+Seedance 2.5 · Text-to-video · Source: [@nawalsehar on X](https://x.com/nawalsehar/status/2104438109949628826) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`handheld`](tags.md#tag-handheld) [`slice-of-life`](tags.md#tag-slice-of-life) [`natural-audio`](tags.md#tag-natural-audio) [`japan`](tags.md#tag-japan)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic Japanese rural slice-of-life home video following a young Japanese woman on a peaceful afternoon walk. A chicken suddenly escapes through a wooden gate, turning her quiet stroll into an unexpected chase with a local farmer.
+
+Use authentic handheld consumer-camera footage with imperfect framing, subtle shake, autofocus hunting, natural motion blur, warm afternoon light and realistic village details.
+
+Show believable chicken behavior—quick steps, head bobbing, sudden direction changes and natural wing movement. The girl and farmer react spontaneously with realistic balance, momentum, friction and human biomechanics as they work together to safely catch it.
+
+After finally catching the chicken, they laugh, exchange a few words, and she continues her walk while the farmer returns it to the garden.
+
+Natural audio only: chicken clucks, footsteps, laughter, wing flaps, wind, birds, gate creaks, distant bicycle bells and casual dialogue. No music or narration.
+
+Negative prompt: No anime, CGI, plastic skin, robotic movement, impossible physics, floating objects, teleportation, distorted hands, extra fingers, duplicated people or chickens, chicken morphing, changing faces or outfits, exaggerated camera movement, commercial look, subtitles, logos or watermark.
+```
+
+</details>
+
+<a id="seedance-macaque-copies-hiker-head-tilt"></a>
+### Macaque copies hiker's head tilt on forest platform
+
+<a href="https://x.com/SyntheSarah/status/2092181568534282494"><img src="../../previews/seedance-macaque-copies-hiker-head-tilt.jpg" width="360"></a>
+
+Timed beats (0 to 4 seconds, 4 to 8 seconds and so on) give the mirrored head tilt a clear setup and payoff. Explicit bans on talking, human clothing and CGI keep the monkey grounded as a real wild animal.
+
+Seedance 2.5 · Text-to-video · Source: [@SyntheSarah on X](https://x.com/SyntheSarah/status/2092181568534282494) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`wildlife`](tags.md#tag-wildlife) [`comedy`](tags.md#tag-comedy) [`timed-beats`](tags.md#tag-timed-beats) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a completely original 15-second photorealistic comedy video set in a peaceful tropical forest. A young adult male hiker stands on a wooden observation platform, safely observing a realistic macaque monkey sitting on a nearby tree branch. 0–4 seconds: The hiker quietly notices the monkey and raises his camera to take a photograph. The monkey looks directly toward the camera with natural curiosity. 4–8 seconds: The hiker slowly lowers the camera. The monkey tilts its head to one side. The hiker tilts his own head slightly in the opposite direction. The monkey pauses, then tilts its head again in the same direction as the hiker. 8–12 seconds: The hiker changes his head position once more. The monkey watches carefully and repeats the movement. The hiker begins smiling, amused by the coincidence. 12–15 seconds: The monkey suddenly loses interest, turns around casually, and starts grooming itself. The hiker looks at the camera with a confused, amused expression, as if thinking, “Okay… never mind.” VISUAL STYLE 100% original visual presentation, photorealistic live-action appearance, natural wildlife photography, realistic macaque anatomy and fur, authentic tropical vegetation, soft natural daylight, realistic shadows, subtle camera movement, realistic depth of field, natural colors, detailed environmental textures. ANIMAL BEHAVIOR The monkey must behave like a genuine wild animal. No talking, no human clothing, no human-like walking, no exaggerated expressions, no physical contact with the person. The humor comes from the natural coincidence of the monkey copying the hiker's head movement. AUDIO Natural forest ambience, birds, insects and gentle leaves moving in the breeze. Very subtle original playful background music. No recognizable music or audio from existing media. RESTRICTIONS Do not reference or recreate any existing movie, television show, advertisement, viral video, fictional character, celebrity, copyrighted character, recognizable filmmaker's style, branded product, or existing media scene. No logos, no text, no subtitles, no watermark. No cartoon, no animation, no CGI appearance, no fantasy elements, no violence, no dangerous interaction. Create an entirely original, harmless, photorealistic wildlife comedy scene.
 ```
 
 </details>

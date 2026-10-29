@@ -1,0 +1,97 @@
+id: seedance-korean-travel-vlog-volcanic-hilltop
+title:
+  en: Korean travel vlogger on volcanic hilltop lookout
+  zh: 韩国旅行博主站在火山山顶瞭望台
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- korean-speech
+- character-lock
+- lip-sync
+- travel-vlog
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2115390545426034836
+  credit: Mira Sterling
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+video: https://x.com/Chaemate_/status/2115390545426034836
+notes:
+  en: Three reference images lock her face, outfit and location, and the 30 seconds are split into timecoded beats, each with the exact Korean line and facial emotion cues. Part 2 takes Part 1's last frame as @image 4, so the second clip continues with no cut.
+  zh: 用三张参考图锁定人物面部、服装和场景，并把 30 秒拆成带时间码的分镜，每句韩语台词都写明表情和情绪变化。第二段以第一段的末帧作为 @image 4 接续，无剪切地衔接。
+prompt: |
+  PART 1 (30 seconds)
+
+  CHARACTER
+  Use @image 1 and @image 2 as the Master Identity Lock. Keep her face, hair, skin tone, outfit (cream knit cardigan, sage-olive cargo pants, white sneakers, beige bucket hat, tan backpack) and body proportions exactly the same throughout. No identity drift.
+
+  LOCATION
+  Use @image 3 as the environment reference: a windy volcanic hilltop on a Korean island with golden silver-grass, low black stone walls, and a wooden lookout over the sea. Soft late-morning sunlight, light sea breeze, gentle clouds. Keep the same light and weather for the whole video.
+
+  STYLE
+  A spontaneous travel vlog filmed by a friend following just behind and beside her, with slight natural shake, smooth reframing, and candid expressions. Realistic live action, not stylized.
+
+  VOICE AND PERFORMANCE
+  Native Korean speech, natural conversational tone, accurate lip-sync. Every line is performed with visible emotion: the eyebrows, eyes, mouth, and breathing all react to what she feels. Her expression should change before, during, and after each line, with no flat or robotic delivery.
+
+  TIMECODE AND SCENES
+
+  00:00–00:04 | The Trailhead
+  She walks along a stone-wall path through tall silver-grass. She glances at the lens, eyes lighting up, eyebrows lifting, and says with bright, bubbly excitement and a rising pitch: "정상이 나를 부르고 있어!" (The summit is calling me!) She ends with a proud, wide grin and a small fist pump. Camera follows from the front at a medium shot.
+
+  00:04–00:08 | The Wobble
+  She tries a slow, cool model walk. Her sneaker catches a small pebble and she wobbles slightly. Her eyes go wide for a split second, then she freezes in a proud “ta-da” pose, holding a stiff, tight smile with flushed cheeks. She says in a deadpan whisper through the smile, eyes darting sideways: “…의도한 거야.” (…I meant to do that.) Camera drifts closer to catch her face.
+
+  00:08–00:12 | The Pony
+  A brown Jeju pony grazes beside the path. She crouches to take a selfie with it, but the pony calmly turns its back to her. Her jaw drops in mock offense, her lower lip pushes into a pout, and she says in a wounded, dramatic tone: "진짜? 얼굴도 안 보여 주는 거야?" (Seriously? You won’t even show me your face?) Then she bursts into helpless laughter, shoulders shaking. Camera: low angle, then a quick pan to her reaction.
+
+  00:12–00:17 | Grass Tunnel
+  The path narrows into tall silver-grass. She pushes through, disappears behind it, then pops out making hand-binoculars and scanning the horizon with a squinted, ultra-serious explorer face. She gasps softly, thrilled, as if she has spotted something. Camera follows from behind, then swings around to the front.
+
+  00:17–00:22 | The Wind Hits
+  She climbs a few stone steps to the crater rim and spreads her arms, eyes closed, face lifted in blissful relief. A gust throws her hair across her face. She pulls a strand from her mouth, scrunches her nose, and laughs. Wide shot, then a medium close-up.
+
+  00:22–00:27 | The Seagull
+  She flaps her elbows like a seagull with a goofy, beaming face. She stops, points at the lens with a playful, challenging look, chin lifted and eyebrows raised, and says in a teasing sing-song voice: "너도 해 봐!" (You try!) Camera circles in a gentle quarter turn, with the sea visible behind her.
+
+  00:27–00:30 | Final Frame (hold exactly)
+  She steps onto the small wooden lookout. A sudden gust blows her hat off and she catches it in mid-air with a surprised gasp and wide eyes. She crouches beside the rope railing, holding the hat against her knee, looking into the lens, laugh fading to a breathless, happy smile. Medium shot, slightly low angle, ocean and soft clouds behind her, camera steady for the last second.
+
+  AUDIO
+  Wind across the grass, soft footsteps on gravel, fabric rustle, pony snort, distant waves, spontaneous laughter. No background music.
+
+  NEGATIVE
+  No face or outfit changes, no real falls, no dangerous actions, no teleporting, no location jumps, no body distortion, no glitches, no CGI look, no stiff movement, no flat or emotionless dialogue, no lip-sync mismatch, no neon or glowing colors.
+
+  FORMAT: 16:9 | 30s | 4K | 24 FPS | Ultra-realistic live action | Natural handheld
+
+  PART 2 (15 seconds)
+
+  Use the very last frame of Part 1 as the first frame / @image 4.
+
+  CONTINUITY LOCK
+  Start from exactly the frame in @image 4: she is crouched beside the rope railing on the wooden lookout, holding her hat, looking into the lens with a fading smile. Same pose, same camera angle, same light, same wind, same background. No cut, no reset. Keep the identity from @image 1 and @image 2 and the outfit identical.
+
+  VOICE AND PERFORMANCE
+  Native Korean speech, natural tone, accurate lip-sync, with emotion visible on her face and in her breath for every line.
+
+  TIMECODE AND SCENES
+
+  00:00–00:03 | Picking Up
+  Without a cut, she stands up, puts the hat back on, and tilts her head toward the steps with a cheerful, bouncy energy. She says in a light, breathless voice: "내려가면 간식이다, 가자!" (Snacks are waiting downhill, let’s go!) Camera stays at her medium shot and follows.
+
+  00:03–00:07 | The Balance Beam
+  Back on the trail, she steps onto a low black stone wall and walks along it with arms out like a gymnast, tongue slightly between her teeth in concentration. She keeps it low and safe, then hops off with a small, proud landing and a triumphant “yes!” face. Camera follows from the side, then moves behind her.
+
+  00:07–00:11 | Snack Review
+  She sits on the wall, takes a triangle kimbap from her backpack, and bites in. She closes her eyes, chews slowly, savoring it, and nods with solemn drama like a food critic. Her eyes open wide and she turns to the lens, saying in a hushed, awestruck voice: "별 다섯 개." (Five stars.) Wind ruffles her hair. Close-up, then medium shot.
+
+  00:11–00:15 | The Quiet Ending
+  She stands, walks toward the camera with a mischievous half-smile, leans in, puts a finger to her lips, and whispers with sparkling, conspiratorial eyes: "비밀이야." (It’s a secret.) She gently tilts the lens up toward the open sky and soft clouds, and the shot slowly settles as the wind fades into silence.
+
+  AUDIO
+  Wind, footsteps on gravel, kimbap wrapper crinkle, distant waves, soft laughter, ending in quiet ambience. No background music.
+
+  NEGATIVE
+  No cut or reset at the start, no face or outfit changes, no location or lighting change, no dangerous balancing, no glitches, no CGI look, no flat or emotionless dialogue, no lip-sync mismatch, no neon or glowing colors.

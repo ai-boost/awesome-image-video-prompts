@@ -1,0 +1,26 @@
+id: h3-velvet-nap-golden-seam-stroke
+title:
+  en: Fingers brush green velvet revealing golden light
+  zh: 手指拂过绿色天鹅绒，露出金色光缝
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- velvet
+- texture
+- macro
+- locked-camera
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/2103613782467457079
+  credit: Glenn Williams
+  likes: 19
+  captured: '2026-10-29'
+  posted: '2026-09-25'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/GlennHasABeard/status/2103613782467457079
+notes:
+  en: Describing the nap flipping direction in a dark band behind the fingers makes the brushed stroke readable, and the golden seam is tied to that band so the light reads as revealed rather than added. A locked camera at chest height keeps only the hand and fabric moving.
+  zh: 描述绒毛在手指后方翻转形成深色带，让划过的痕迹清晰可见，金色细缝沿着这条暗带出现，光看起来是被揭开而不是后期叠加。固定机位放在胸部高度，画面里只有手和织物在动。
+prompt: |
+  the nap flipping dark in a band behind the fingers with a soft brushed hush, and along that dark band a fine seam of warm golden light opens

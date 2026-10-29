@@ -1,0 +1,58 @@
+id: seedance-morning-routine-character-lock
+title:
+  en: Woman wakes in golden morning bedroom light
+  zh: 女子在金色晨光的卧室中醒来
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- morning-routine
+- character-consistency
+- lifestyle
+- multi-shot
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2104433592751587494
+  credit: noorlewisx
+  captured: '2026-10-29'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2104433592751587494
+notes:
+  en: Seven timed scenes run in order, and the CHARACTER LOCK and OUTFIT LOCK blocks are restated in full so the same face, hair and clothing hold across cuts. Each shot names its camera move, such as a tracking follow from behind, which keeps the motion readable for the model.
+  zh: 提示词按时间顺序列出七个定时场景，并在开头完整重复角色锁定与服装锁定段落，使切镜后的面部、发型和衣着保持一致。每个镜头都写明镜头运动，例如从身后跟随拍摄，让模型更容易执行动作。
+prompt: |
+  Create a 30-second cinematic photorealistic morning routine video featuring the SAME young adult woman throughout the entire video.
+
+  CHARACTER LOCK:
+  Same woman in every shot, consistent facial identity, same face shape, same eyes, same nose, same hairstyle, same hair color, same skin tone, same body proportions. Natural attractive appearance, realistic skin texture, soft morning expression.
+
+  OUTFIT LOCK:
+  She wears the EXACT SAME outfit in every scene: oversized cream knit sweater, light blue straight-leg jeans, clean white sneakers, small beige shoulder bag. Do not change clothes, colors, hairstyle, accessories, or shoes at any point.
+
+  SCENE 1 — WAKE UP (0–5 sec):
+  Soft golden morning sunlight enters a cozy modern bedroom through the window. She slowly wakes up in bed, sits up naturally and looks toward the window. Calm peaceful morning atmosphere, cinematic camera movement, realistic lighting.
+
+  SCENE 2 — WINDOW VIEW (5–9 sec):
+  She walks toward the window and gently looks outside. Show a beautiful morning street view through the window: warm sunlight, quiet residential street, trees moving slightly in the breeze, peaceful atmosphere. Camera briefly shows the outside view and then returns to her face.
+
+  SCENE 3 — PUTTING ON SHOES (9–14 sec):
+  She sits near the entrance and puts on her SAME clean white sneakers. Close-up of her hands and shoes, then a medium shot of her standing up. Keep the outfit and character identical.
+
+  SCENE 4 — BRUSHING (14–18 sec):
+  She stands in the bathroom and brushes her hair naturally in front of the mirror. Keep the exact same hairstyle, face, outfit and accessories. Clean modern bathroom, soft natural morning light.
+
+  SCENE 5 — COFFEE (18–23 sec):
+  She prepares a warm cup of coffee and takes a relaxed sip near the kitchen window. Visible steam from the coffee, warm sunlight, cozy cinematic atmosphere. Keep her appearance and clothing perfectly consistent.
+
+  SCENE 6 — GOING OUT (23–27 sec):
+  She picks up her beige shoulder bag, opens the front door and walks outside into the peaceful morning street. Smooth tracking camera following her from behind and then moving beside her.
+
+  SCENE 7 — FINAL WALKING VIEW (27–30 sec):
+  Wide cinematic shot of the SAME woman walking down the beautiful morning street. Show her full outfit clearly as she walks away naturally. Warm golden sunlight, trees, soft shadows, peaceful city atmosphere. End with a beautiful wide establishing shot.
+
+  STYLE:
+  Photorealistic cinematic quality, natural human movement, realistic facial expressions, realistic hands, realistic hair physics, consistent lighting, smooth transitions, shallow depth of field, subtle camera motion, premium lifestyle commercial aesthetic, 4K, highly detailed.
+
+  IMPORTANT CONSISTENCY:
+  The character's face, facial features, hairstyle, hair color, skin tone, outfit, shoes, accessories and body proportions must remain IDENTICAL from the first frame to the final frame. No face morphing, no identity change, no clothing change, no hairstyle change, no extra fingers, no distorted hands, no random accessories, no sudden age change.

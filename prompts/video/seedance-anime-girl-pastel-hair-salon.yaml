@@ -1,0 +1,60 @@
+id: seedance-anime-girl-pastel-hair-salon
+title:
+  en: Anime girl gets pastel rainbow hair dye in salon
+  zh: 霓虹理发店里染粉彩虹色头发的动漫女孩
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- retro-anime
+- 3d-cel
+- hair-salon
+- neon
+source:
+  name: '@AIwithJessica on X'
+  url: https://x.com/AIwithJessica/status/2093127123687108856
+  credit: Jessica Collins
+  captured: '2026-10-29'
+  posted: '2026-08-28'
+video: https://x.com/AIwithJessica/status/2093127123687108856
+notes:
+  en: Timestamped beats with one salon action each, plus an explicit ban on fast cuts and speed ramps, keep the process readable across 30 seconds. Repeating fixed character descriptions for the stylist and customer, with a rule to keep both the same throughout, holds identity between shots.
+  zh: 按时间码划分的分镜，每段只有一个沙龙动作，并明确禁止快切和变速，让 30 秒内的过程清晰可读。两位角色的外形描述在提示中固定重复，并要求全片保持同一人物，有助于镜头之间的人物一致。
+prompt: |
+  Create a 30-second modern retro-anime style 3D-cel hybrid commercial in 16:9.
+
+  A cozy neon-lit retro salon with warm cinematic lighting, soft VHS grain, and gentle synthwave color glow. Keep the same stylist and the same customer throughout the entire video.
+
+  The customer is always the main focus.
+
+  Customer:
+  Slim, smart, fashionable young girl with straight shoulder-length dark hair, sharp stylish bangs, small nose piercing and two ear piercings, sparkly round glasses, oversized beige turtleneck, gold chain necklace, confident yet slightly nervous expression.
+
+  Stylist:
+  Beautiful young woman with long wavy silver-lavender hair tied in a loose ponytail, elegant almond-shaped violet eyes, retro apron over a fitted black top, small gold hoop earrings. She is warm, graceful and quietly confident.
+
+  Story (cut scenes):
+
+  [0:00–0:04] The customer walks in confidently, adjusting her glasses, and sits in the salon chair.
+  Customer: "I want something bold today."
+
+  [0:04–0:07] She shows her phone with a vibrant pastel-color hair reference. The stylist smiles.
+  Stylist: "Oh, this suits you."
+
+  [0:07–0:11] Slow shot: stylist carefully sections her hair, combing it smooth.
+
+  [0:11–0:15] Stylist gently paints soft pastel-rainbow color into her hair, brush strokes slow and precise.
+
+  [0:15–0:19] Hair is slowly rinsed under water, color flowing softly.
+
+  [0:19–0:22] Hair is blow-dried with gentle, flowing motion.
+
+  [0:22–0:25] Final light styling — soft waves shaped, one small clip added.
+
+  Show only one salon action at a time. Each action lasts long enough to clearly see the process. No fast cuts. No time-lapse. No jump cuts.
+
+  [0:25–0:30] Wide cinematic reveal — she looks into the mirror, eyes widening, then breaks into a bright happy smile, touching her colorful hair.
+  Customer: "I love it!"
+  Stylist: (smiles) "Told you."
+
+  Premium modern retro-anime animation, expressive close-up facial animation, realistic soft hair physics, gentle hand animation, cinematic slow camera movement, shallow depth of field, warm neon-retro lighting, consistent character design, no glitches, no subtitles, no watermark.

@@ -1,0 +1,45 @@
+id: seedance-woman-earphones-car-lift-rescue
+title:
+  en: Woman with earphones walking a city street
+  zh: 戴耳机的女子走在城市街道上
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- action-romance
+- korean-drama
+- timed-beats
+- reference-storyboard
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2102042146392129849
+  credit: AIwithWania
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithWania/status/2102042146392129849
+notes:
+  en: Timed beats in four second blocks, plus a reference storyboard, lock the two characters and the same car across cuts. The closing STRICT LOCK line lists the failure modes to avoid, which keeps faces and the car model stable through the lift and impact.
+  zh: 按四秒一段写时间轴，并配合参考分镜锁定两个角色和同一辆车，切镜时形象与车型不会漂移。结尾的 STRICT LOCK 列出需要避免的失真，让举车和撞击的物理过程保持真实。
+prompt: |
+  Create an ultra-realistic live-action Korean action-romance scene using the reference storyboard. Keep the SAME two Korean characters, exact faces, hairstyles, outfits, body proportions, and the SAME black car throughout. No identity, wardrobe, hairstyle, or vehicle changes.
+
+  0–4s: Woman walks through a modern Korean street wearing earphones. A black car suddenly loses control and flies toward her.
+
+  4–8s: Close-up as she notices the car in shock. Cut to the hooded man seeing the danger and reacting instantly.
+
+  8–12s: He runs toward her at extreme speed and pulls her away just before impact.
+
+  12–16s: They fall safely. She looks up and sees the damaged car falling directly above them.
+
+  16–20s: He raises one hand and stops the falling car overhead. She moves closer to him in fear while he holds it.
+
+  20–24s: Close-up of his calm, focused face. He pushes the car away and it lands heavily several meters away.
+
+  24–28s: They stand up and quietly look at each other with shock, relief, and gratitude as warm sunset light fills the street.
+
+  28–30s: Wide rear shot of both against the glowing city skyline. Slow crane backward/upward, then fade to black.
+
+  STYLE: Premium Korean live-action cinema, photorealistic skin, natural expressions, realistic hair/clothing movement, believable gravity and car physics, cinematic depth of field, realistic motion blur, HDR lighting, subtle handheld action shots, smooth emotional shots.
+
+  STRICT LOCK: No AI-looking faces, face changes, body morphing, duplicated people, wardrobe changes, broken hands, unnatural movement, teleporting, or changing car model. Keep all motion realistic and professionally acted.

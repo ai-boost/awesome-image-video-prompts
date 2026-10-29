@@ -1,0 +1,36 @@
+id: seedance-korean-woman-sunny-pool
+title:
+  en: Woman dangles feet at sunny pool, then swims
+  zh: 女生在阳光泳池边晃脚后下水游泳
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- timeline
+- camcorder
+- dialogue
+- documentary
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2091737661061095648
+  credit: 𝐌
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+video: https://x.com/Strength04_X/status/2091737661061095648
+notes:
+  en: A five-slot timeline with a beat for each action and a line of dialogue gives the model a clear shot-by-shot structure. The 2000s camcorder spec (handheld, blown highlights, soft grain, no stabilization) sets the look, and each Korean line is paired with its meaning so the lip movement and action line up.
+  zh: 用五段时间轴，每段对应一个动作或一句台词，让模型逐镜头执行。2000 年代 DV 摄像机的设定（手持、高光过曝、柔和颗粒、无防抖）定下画面质感，每句韩语台词都附上含义，台词与动作对得上。
+prompt: |
+  Young Korean woman, early 20s, navy one-piece swimsuit with a loose oversized shirt worn open over it, hair tied up in a high bun, swim goggles around her neck, playful cheerful energy.
+  Location: Quiet outdoor community pool, sunny midday. Blue tiled edges, pool floats scattered nearby, lounge chairs, a few potted palms. No crowds, no commercial branding.
+  Visual Style: Ultra-realistic documentary realism, playful candid feeling, bright natural sunlight.
+  Camera Style: Early 2000s DV camcorder, handheld with water-splash blur on lens occasionally, exposure blown out in bright sun, soft grain. No stabilization.
+  Timeline (15 sec, each slot = 2 compressed beats):
+  00:00–00:03 → She sits at the pool edge, feet dangling in the water, kicking gently.
+  00:03–00:06 → She says to camera "물이 시원해서 좋다" ("The water feels nice and cool"), smiling.
+  00:06–00:09 → She slides into the pool, then pushes off, swimming a short stretch.
+  00:09–00:12 → She surfaces laughing, wiping water from her face.
+  00:12–00:15 → She waves at camera saying "너도 들어와!" ("Come in too!"), splashing playfully as it fades.
+  Audio:
+  Water splashing, faint distant chatter, wind, birds. Her dialogue as noted above. No music.
+  Goal: A playful, refreshing pool afternoon cheerful, light, authentic.

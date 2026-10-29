@@ -1,0 +1,133 @@
+id: seedance-kamakura-rental-house-dv-afternoon
+title:
+  en: Woman in yellow top leaves a Japanese house
+  zh: 黄色上衣女子走出日式老屋
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- dv-camcorder
+- slice-of-life
+- kamakura
+- dialogue
+source:
+  name: '@AIwithAliya on X'
+  url: https://x.com/AIwithAliya/status/2097192902829171098
+  credit: AIwithAliya
+  captured: '2026-10-29'
+  posted: '2026-09-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithAliya/status/2097192902829171098
+notes:
+  en: The prompt locks identity, outfit and hairstyle with one explicit consistency line, then describes the camcorder look through concrete artifacts such as autofocus hunting, focus breathing and exposure shifts. Each scene is a short beat with its own spoken line and an object transfer rule, so props stay continuous across cuts.
+  zh: 提示词用一句明确的一致性要求锁定人物身份、服装和发型，并用自动对焦拉扯、焦点呼吸、曝光跳变等具体痕迹描述摄像机质感。每个场景都是一个短节拍，配有自己的台词，并规定道具的转移路径，使道具在镜头切换中保持连贯。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic early-2000s DV home video of a 20-year-old Japanese woman spending a quiet late-summer afternoon in an old seaside neighborhood in Kamakura, Japan.
+
+  **MAIN SUBJECT**
+
+  A 20-year-old Japanese woman, naturally beautiful, realistic skin texture, minimal makeup, long dark-brown wavy hair loosely tied with a simple fabric hair tie, wearing a fitted pale-yellow short-sleeve top, loose light-blue wide-leg trousers, white canvas sneakers, and a delicate silver necklace. Keep her identity, facial features, outfit, hairstyle, body proportions, and age perfectly consistent throughout the entire video.
+
+  She leaves a small traditional Japanese rental house carrying a woven shoulder tote bag and walks through a narrow residential lane toward a tiny local bakery near the coast.
+
+  **SCENE 1 — LEAVING HOME**
+
+  She steps outside, slides the wooden door closed behind her, adjusts her tote bag and walks down a quiet narrow street lined with old Japanese houses, bicycles, potted plants, utility poles and overhead wires.
+
+  She looks toward the camera and casually says:
+
+  **“I finally have a slow afternoon.”**
+
+  The camera follows her from behind with imperfect handheld movement.
+
+  **SCENE 2 — LOCAL BAKERY**
+
+  She enters a tiny old-fashioned neighborhood bakery with a wooden entrance and glass display case.
+
+  She chooses a melon pan, a small red-bean pastry and a bottled ramune. She places everything carefully inside her woven tote bag.
+
+  While looking through the small refrigerator, she notices several colorful popsicles.
+
+  She picks up two peach-flavored popsicles, smiles and adds them to her bag.
+
+  The bakery owner places the items into a small paper package and hands it to her.
+
+  She politely says:
+
+  **“Thank you, I’ll come again.”**
+
+  **SCENE 3 — SEASIDE STREET**
+
+  Outside, she walks toward the coast.
+
+  She notices two neighborhood children sitting near a low stone wall, watching bicycles pass by.
+
+  She takes the two peach popsicles from her bag and gives one to each child.
+
+  Each child clearly receives one and happily holds it.
+
+  One child says:
+
+  **“Really? Thank you!”**
+
+  She smiles and replies:
+
+  **“Enjoy it before it melts.”**
+
+  The children happily begin eating their popsicles.
+
+  The popsicles visibly transfer from the bakery refrigerator → woman's tote bag → children's hands. No disappearing or duplicated objects.
+
+  **SCENE 4 — BICYCLE**
+
+  As she continues walking, she notices one child's bicycle has fallen over beside the sidewalk.
+
+  She stops, picks it up and holds the handlebars while the child checks the bicycle.
+
+  The child smiles and says:
+
+  **“You helped me!”**
+
+  She laughs softly and replies:
+
+  **“No problem. Ride carefully.”**
+
+  The child rides away with the other child.
+
+  **SCENE 5 — WATER FOUNTAIN**
+
+  She continues toward the seaside and discovers an old public water fountain beside a small park.
+
+  She turns the metal tap.
+
+  Water begins flowing naturally.
+
+  She cups her hands under the water and splashes cool water onto her face.
+
+  She laughs naturally, shakes the water from her hands and wipes her face.
+
+  She looks refreshed and says:
+
+  **“That feels so good.”**
+
+  **SCENE 6 — WALKING HOME**
+
+  The late-afternoon sunlight falls across the quiet Japanese street.
+
+  She walks back toward her house carrying the same woven tote bag.
+
+  A bicycle bell rings somewhere in the distance.
+
+  She briefly looks directly into the DV camera and says:
+
+  **“Best kind of afternoon.”**
+
+  She smiles, turns toward her house and walks through the wooden entrance.
+
+  The camera remains outside for a moment as the door closes.
+
+  **CUT TO BLACK.**
+
+  **CAMERA / VISUAL STYLE**
+
+  Raw handheld early-2000s Japanese DV camcorder footage. Authentic consumer camcorder aesthetic, shaky handheld movement, imperfect framing, autofocus hunting, occasional focus breathing, faded slightly washed-out colors, soft digital detail, mild compression artifacts, exposure shifts

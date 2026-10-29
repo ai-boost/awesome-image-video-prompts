@@ -1,0 +1,75 @@
+id: h3-vintage-car-desert-highway-dusk-2
+title:
+  en: Vintage muscle car kicks up desert dust
+  zh: 复古肌肉车扬起沙漠尘土
+model: MiniMax H3
+mode: image-to-video
+category: commercial
+tags:
+- muscle-car
+- desert
+- motion-graphics
+- typography
+source:
+  name: '@opener_ai on X'
+  url: https://x.com/opener_ai/status/2085241788340797558
+  credit: Jin.B
+  likes: 26
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/opener_ai/status/2085241788340797558
+notes:
+  en: The prompt anchors the first frame to one still image and lists what must stay fixed, then times each beat to a second mark with its own camera move and text reveal. Text is quoted word for word and locked against warping, and the negative prompt blocks logos, extra cars and cheap VFX clutter.
+  zh: 提示词以单张静态图作为首帧，并列出必须保持不变的元素，再按秒数为每个段落设定运镜和文字出现时机。文字内容逐字锁定以防变形，负面提示词则排除标志、多余车辆和廉价特效。
+prompt: |
+  [1] FORMAT
+  10-second 16:9 cinematic motion-graphics promo built from a single desert muscle-car image. Premium, fast, dimensional, elegant, and tactile.
+
+  [2] ASSETS
+  Use Image 1 as the exact first-frame source and core visual reference for the vintage white muscle car, dusty desert road, rock formations, muted sand palette, and gritty film texture.
+
+  [3] IDENTITY
+  Preserve:
+  - the old white Dodge Charger–style muscle car as the hero subject
+  - weathered paint, rust marks, dust buildup, and worn wheels
+  - low front three-quarter angle and dominant car scale
+  - barren desert highway with cracked asphalt and rocky outcrops
+  - beige, sepia, and charcoal color family
+  - airborne dust and dry wind atmosphere
+  - gritty, premium editorial mood rather than cheerful commercial energy
+  - realistic hard sunlight and soft dust diffusion
+  - grounded reflections and believable shadow direction
+
+  [4] BEATS
+  [0–2 seconds] Start from the original composition. Create subtle stillness for half a second, then introduce layered parallax: foreground dust, midground car, and background rocks separate in depth. Camera begins a slow push-in with a slight rightward arc. Fine sand drifts across frame.
+  [2–4 seconds] Speed ramps in. Add dimensional motion-graphic accents: thin metallic lines, soft grid fragments, and subtle contour-tracing highlights briefly wrap around the car body, emphasizing shape and speed. Main title appears: "BORN FROM DUST".
+  [4–6 seconds] Camera performs a faster sweep past the front quarter panel toward the side, with strong depth, dust streaks, and passing light sweeps. Secondary text appears: "SPEED HAS A SHAPE". Keep the car stable and heroic while the environment feels fast.
+  [6–8 seconds] Push the most dynamic moment: dust bursts, perspective stretch, and elegant 3D typography planes moving in space around the car without blocking it. Add one short accent line: "RAW / FAST / ICONIC".
+  [8–10 seconds] Motion resolves into a premium final frame. Camera eases back into a clean hero composition. Final end card text appears and holds: "CHASE THE HORIZON". Keep the last 1.5 seconds readable and polished.
+
+  [5] CAMERA
+  Cinematic virtual camera from a single still image. Use layered 2.5D depth separation, push-ins, slight orbit motion, and one speed-ramped sweep for dimensionality. Start as a low wide hero shot, move into a medium close pass on the car, then settle into a clean final hero frame. Motion should feel expensive and controlled, not chaotic.
+
+  [6] LIGHT
+  Harsh desert sunlight with dusty diffusion. Palette: sand beige, sun-faded ivory, smoky gray, and soft metallic charcoal. Add tasteful specular sweeps on the car edges and grille. Film texture should feel editorial and refined, with fine grain and suspended dust particles for depth.
+
+  [7] EDIT
+  Use seamless motion-graphics transitions only, no hard scene changes. Typography and graphic elements should feel integrated with the car and dust flow. Text behavior:
+  - "BORN FROM DUST" enters with a fast horizontal build and slight depth extrusion
+  - it remains readable for around 1 second
+  - it exits by dissolving into dust particles
+  - do not warp, misspell, mirror, or replace the text
+  - "SPEED HAS A SHAPE" enters on a perspective plane aligned to the car motion
+  - "RAW / FAST / ICONIC" appears as small premium kinetic type
+  - final text "CHASE THE HORIZON" enters cleanly, stays stable, and fades softly at the end
+
+  [8] AUDIO
+  Audio: dry desert wind, fine sand skimming across metal, distant low engine rumble, and one sharp whoosh accent at 4 seconds during the speed ramp.
+  BGM: 10-second cue, 65% cinematic tension and 35% luxury fashion energy. Deep pulse, restrained synth bass, tight percussion, airy reverse textures, and metallic hits. Build gradually from 0–4 seconds, intensify from 4–8 seconds, then resolve into a confident sustained ending. Freeze the final 2 seconds on a clean, premium sonic tail. Do not imitate an existing melody.
+
+  [9] NEGATIVE
+  No subtitles, on-screen text beyond the specified titles, watermarks, platform logos, or stickers.
+  Do not introduce Chinese text, garbled characters, or misspellings.
+  No slideshow feeling — use natural dimensional camera motion and seamless transitions.
+  No cartoon styling, no cheap VFX clutter, no excessive lens distortion, no unrealistic car deformation, and no extra vehicles or people.

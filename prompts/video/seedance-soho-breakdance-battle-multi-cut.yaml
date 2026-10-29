@@ -1,0 +1,77 @@
+id: seedance-soho-breakdance-battle-multi-cut
+title:
+  en: Breakdancer battles in a SoHo street circle
+  zh: 舞者在SoHo街头舞池中斗舞
+model: Seedance 2.5
+mode: reference-to-video
+category: music-dance
+tags:
+- breakdance
+- street-dance
+- reference-image
+- multi-cut
+source:
+  name: '@ZetoGroovin on X'
+  url: https://x.com/ZetoGroovin/status/2086292115122991194
+  credit: Zeto
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+video: https://x.com/ZetoGroovin/status/2086292115122991194
+notes:
+  en: A reference image pins the dancer's look while a numbered cut list scripts each shot from wide establishing to freeze close-up. Naming a camera move for every cut, with the beat as the timing anchor, gives the edit its rhythm and keeps the sequence readable.
+  zh: 参考图锁定舞者的外观，编号的分镜列表逐镜头规定从远景建立到定格特写的画面。每个镜头都写明运镜，并以节拍作为节奏依据，让剪辑有节奏且连贯。
+prompt: |
+  The exact same girl from the reference image — 100% identical face, hairstyle, outfit, body proportions, no changes whatsoever, clean idol skin with subtle glow.
+
+  She performs explosive breaking choreography synchronized to hard-hitting breakbeats: powerful top rock, intricate six-step footwork, fast CCs, dynamic windmills, baby freeze transitions, backspin combinations, sudden freezes, aggressive battle attitude, intense eye contact.
+
+  Location: the streets of SoHo, New York City, early evening, cast-iron buildings, graffiti-covered shutters, steam rising from subway vents, yellow taxis passing in the background, energetic street battle atmosphere.
+
+  Multi-cut music video structure optimized for Seedance 2.5:
+
+  CUT 01:
+  Ultra-wide establishing shot.
+  The dancer walks into a dance circle formed by spectators.
+  Handheld camera movement.
+  Natural city ambience.
+
+  CUT 02:
+  Low-angle tracking shot.
+  Aggressive top rock sequence synchronized to the beat.
+  Fast push-in movement.
+
+  CUT 03:
+  Dynamic 360-degree camera orbit.
+  Complex six-step combinations and rapid footwork.
+  Subtle speed ramping.
+
+  CUT 04:
+  Extremely low ground-level shot.
+  Explosive windmill sequence.
+  Hair movement, jacket motion, realistic body momentum.
+
+  CUT 05:
+  Rapid cinematic cut.
+  Freeze pose facing the camera.
+  Crowd reaction shots.
+
+  CUT 06:
+  Slow-motion sequence.
+  Continuous windmills transitioning into a baby freeze.
+  Camera circles around the dancer.
+
+  CUT 07:
+  Extreme close-up of the dancer's eyes.
+  Heavy breathing.
+  The beat intensifies.
+
+  CUT 08:
+  Final battle-ending freeze pose.
+  Wide shot of SoHo street scenery.
+
+  Camera style:
+  Smooth 360° tracking shots mixed with extreme close-ups, dynamic dolly zooms, handheld battle footage aesthetics, dramatic low-angle perspectives.
+
+  Cinematic color grading: cool blue cinematic tones mixed with warm skin highlights, subtle film grain, realistic street lighting, high-end music video style.
+
+  4K, photorealistic, ultra-sharp skin and fabric details, rhythmic speed ramps synchronized to the beat, fashion editorial energy, authentic street dance documentary atmosphere, "fashion magazine commercial mixed with underground street battle video", 24fps.

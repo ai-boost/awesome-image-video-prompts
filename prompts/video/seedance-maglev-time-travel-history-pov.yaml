@@ -1,0 +1,52 @@
+id: seedance-maglev-time-travel-history-pov
+title:
+  en: Smartphone view from maglev train over modern city
+  zh: 智能手机视角：磁悬浮列车窗外的现代城市
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- pov
+- time-travel
+- maglev-train
+- mist-transition
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2093928767152701852
+  credit: Noor
+  captured: '2026-10-29'
+  posted: '2026-08-30'
+video: https://x.com/noorlewisx/status/2093928767152701852
+notes:
+  en: The prompt fixes one first person handheld phone camera, one carriage and one left window, so every era change comes only from announcements, mist tunnels and light shifts. Timed beats with exact dialogue and a rule that the train always moves forward keep the one take continuous.
+  zh: 提示词固定了第一人称手持手机的镜头、同一节车厢和左侧车窗，每次时代切换只靠广播、雾状隧道和光线变化完成。按秒划分的节拍加上列车始终向前的约束，让整段一镜到底的画面保持连贯。
+prompt: |
+  30s vertical 9:16 first-person smartphone video. One continuous take, no cuts. Cheap phone held chest-height inside a packed maglev train, looking out the left window. Shaky, crooked, blocked by shoulders, rolling shutter, noisy, unstabilized.
+
+  Train always moves forward. Same carriage and passengers throughout.
+
+  0–2s Present day city. Announcement: “Next stop: 1944.” Train jolts.
+
+  2–4s Real silver-gray time-mist tunnel swallows the city. Papers and static fragments fly past.
+
+  4–8s Emerges at Normandy, June 1944: gray dawn, ships, landing craft, smoke, distant soldiers. No graphic violence.
+
+  8–9s Mist again. “Next stop: 1789.”
+
+  9–13s Versailles: golden morning, gates, carriages, 1789 crowds.
+
+  13–14s Mist. “Next stop: 1776.”
+
+  14–18s Philadelphia: Independence Hall, crowd, proclamation. A passenger says “Look.”
+
+  18–19s Dark mist. “Next stop: 1184 BC.”
+
+  19–23s Troy at night: burning walls, wooden horse, ships. Silhouettes only.
+
+  23–24s Sand mist. “Next stop: 2500 BC.”
+
+  24–28s Giza: unfinished pyramid, thousands of workers hauling stones. Passenger whispers “Ohh.”
+
+  28–30s Train keeps moving past the pyramid. Soft announcement: “Welcome to 2500 BC.” Ends naturally.
+
+  Diegetic sound only. Light changes with each era through the left window. Every jump is a real 3D mist tunnel, not an edit.

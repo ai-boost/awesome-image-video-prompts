@@ -1,0 +1,64 @@
+id: h3-stealth-jet-optical-cloak-flyby
+title:
+  en: Stealth jet vanishes into refracting sky flyby
+  zh: 隐形战机高空掠过时光学隐身
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- stealth-aircraft
+- optical-camouflage
+- tracking-shot
+- flyby
+source:
+  name: '@opener_ai on X'
+  url: https://x.com/opener_ai/status/2084441225667735905
+  credit: Jin.B
+  likes: 16
+  captured: '2026-10-29'
+  posted: '2026-08-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/opener_ai/status/2084441225667735905
+notes:
+  en: The prompt locks the aircraft identity with fixed geometry and material traits, then splits the 10 seconds into timed beats so the cloaking lands on schedule. The invisible body shows only as the sky and clouds bending inside its volume, and the negative block bans glow, bubbles and teleport tells.
+  zh: 提示词先用固定几何与材质锁定机身身份，再把 10 秒切成带时间点的分镜，让隐身动作准时落在第 4 到 6 秒。隐形机体只通过内部天空与云层的扭曲显现，负面词块则禁止发光轮廓、气泡和瞬移。
+prompt: |
+  )
+
+  [FORMAT]
+  Create a 10-second, 16:9 photoreal cinematic wide-shot flyby of a stealth aircraft activating optical camouflage at extreme speed.
+
+  [IDENTITY]
+  Preserve a wide tailless delta wing, sharp faceted edges, flat wedge-shaped nose, recessed dark cockpit, matte charcoal surface, twin buried exhausts, no insignia, and rigid non-morphing geometry.
+
+  [BEATS]
+  [0–2 seconds] A vast open sky above distant clouds. The stealth aircraft suddenly enters from the far left and races laterally across the wide frame at extreme speed.
+
+  [2–4 seconds] The camera performs a fast, controlled pan to track the aircraft. Strong background parallax and slight motion blur emphasize its velocity while its shape remains readable.
+
+  [4–6 seconds] Optical camouflage sweeps from the nose across both wings. The solid aircraft rapidly vanishes without slowing down or changing direction.
+
+  [6–8 seconds] The camera continues tracking the same trajectory. The invisible delta-wing shape remains clearly perceptible because the sky and clouds inside its exact volume ripple and bend like concentrated heat haze.
+
+  [8–10 seconds] The refractive aircraft streaks toward the distant horizon, leaving a narrow turbulent distortion wake before exiting the frame.
+
+  [CAMERA]
+  One continuous very wide lateral tracking shot. The aircraft stays relatively small within the expansive frame. Fast pan tracking, broad environmental scale, strong lateral movement, subtle handheld vibration, and realistic motion blur. No close-up and no chase-camera angle.
+
+  [LIGHT]
+  Bright high-altitude daylight, cool blue sky, white cloud field, natural atmospheric haze, restrained contrast, and realistic cinematic texture.
+
+  [EDIT]
+  One uninterrupted shot. No cuts, transitions, slow motion, or camera repositioning.
+
+  [AUDIO]
+  Audio: violent high-altitude wind rush, rapidly approaching jet roar, a powerful Doppler flyby, and a brief vacuum-like sound as the camouflage activates.
+  BGM: an original 10-second cue, 80% tension and 20% awe. Low sub-bass pulse and metallic air textures, building sharply during the flyby and fading into a low tone over the final 2 seconds. Do not imitate an existing melody.
+
+  [NEGATIVE]
+  Do not show an empty sky after cloaking. Maintain a coherent, fast-moving delta-wing refraction that bends the background inside the aircraft’s exact volume.
+  No glowing outline, glass aircraft, force-field bubble, pixel dissolve, smoke camouflage, teleportation, morphing, or reappearance.
+  No extra aircraft, weapons, explosions, contrails, subtitles, on-screen text, watermarks, platform logos, or stickers.
+  Do not introduce Chinese text, garbled characters, or misspellings.
+
+  #kreaai #minimaxh3 #kreacpp

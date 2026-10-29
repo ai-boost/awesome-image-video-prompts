@@ -1,0 +1,25 @@
+id: seedance-new-york-coffee-spill-slow-motion
+title:
+  en: Woman with dog on sunlit New York sidewalk
+  zh: 阳光下纽约人行道上的女子与金毛犬
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- slow motion
+- golden-hour
+- new-york
+- pet
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2094420859960045616
+  credit: AvelyrahnAI
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AvelyrahnAI/status/2094420859960045616
+notes:
+  en: 'Written as a timed beat sequence: a calm walking setup, a trip that starts a slow motion suspension, then a macro insert of the branded cup and the BOSS call screen before everything drops. Quoted text for the cup, flyer and call screen fixes the wording, and the golden hour light and dog are named so the setting holds.'
+  zh: 按时间节拍写成：先是平稳行走的铺垫，接着绊倒触发慢动作悬浮，然后插入品牌杯子和显示 BOSS 来电的手机宏观特写，最后物体落地。杯子、传单和来电界面的文字用引号固定，金色时光与狗的画面也写明，保证场景稳定。
+prompt: |
+  A stylish young woman walking confidently down a busy New York city sidewalk during golden hour, wearing a dark fitted t-shirt, relaxed dark jeans, and sneakers, talking on her smartphone and holding an iced coffee and a cafe menu, with a golden retriever dog walking on a leash beside her; suddenly, she trips and drops her phone, iced coffee cup, and a "YA HALA COFFEE - FALL MENU" flyer mid-stride, causing the items to suspend mid-air in slow motion with magical liquid splashes and floating autumn leaves, transitioning to a macro close-up of the branded coffee cup and a smartphone displaying an incoming call from "BOSS" before everything drops back to the pavement in a dynamic, high-octane commercial cinematic style.

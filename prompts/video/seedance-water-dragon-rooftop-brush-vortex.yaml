@@ -1,0 +1,25 @@
+id: seedance-water-dragon-rooftop-brush-vortex
+title:
+  en: Woman on rooftop summons crystalline water dragon
+  zh: 屋顶白衣女子云端召唤水晶水龙
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- water-dragon
+- fantasy
+- vfx
+- storm
+source:
+  name: '@juliaevee on X'
+  url: https://x.com/juliaevee/status/2110191663666639097
+  credit: juliaevee
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/juliaevee/status/2110191663666639097
+notes:
+  en: 'The prompt reads as a shot list in time order: storm rooftop, a jump into a sunlit cloud realm, then a brush-drawn circle that becomes the vortex. That gives the model a clear chain of cause and effect, and the specific costume and translucent dragon material keep the subject consistent across cuts.'
+  zh: 提示词按时间顺序写成分镜：先定暴风雨屋顶，再过渡到阳光下的云上世界，最后以画圈引出漩涡。这条清晰的因果链让模型有明确的先后顺序，而服饰与半透明龙身的具体描述使主体在镜头切换中保持一致。
+prompt: |
+  A cinematic vertical video starting on a dark, stormy rooftop overlooking a sprawling urban city. A woman in a white and beige traditional robe with long dark hair stands watching a majestic, translucent blue water-dragon coiled in the stormy clouds. The dragon lunges towards her, transitioning into a bright, ethereal realm above the clouds where she floats under a brilliant sun. She draws a glowing circle with a brush on parchment, creating a vortex in the clouds, then summons water spirals that shape into a massive crystalline dragon that dives down toward the city below, creating a giant splash through the cloud layer. Photorealistic, high-end VFX, epic fantasy atmosphere, dynamic camera angles, 8k resolution.

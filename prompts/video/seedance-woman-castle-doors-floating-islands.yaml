@@ -1,0 +1,24 @@
+id: seedance-woman-castle-doors-floating-islands
+title:
+  en: Woman opens castle doors to a floating sky
+  zh: 女子推开城堡大门飞入浮岛天空
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- fantasy
+- castle
+- floating-islands
+- camera-follow
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2105889515948921057
+  credit: Lavinia
+  captured: '2026-10-29'
+  posted: '2026-10-02'
+video: https://x.com/laviniavelle/status/2105889515948921057
+notes:
+  en: 'The prompt lays out the shot in time order: dark interior, door reveal, run across the field, then a leap with the camera following, which gives the model a clear beat sequence to follow. The closing lighting and resolution terms set the cinematic finish.'
+  zh: 提示词按时间顺序写出镜头：昏暗室内、推门露出风景、奔跑、跃起，镜头全程跟随，让模型有清晰的动作节拍可循。结尾的光影与画质词定下电影感的效果。
+prompt: |
+  Cinematic video of a young woman in an elegant white medieval dress opening large wooden doors from a dark castle interior to reveal a breathtaking sunny landscape with lush green fields a lake and distant mountains She runs out across the grassy field towards a large grand castle The camera follows her as she leaps into the air, gracefully floating into a magical fantasy sky filled with floating islands cascading waterfalls above clouds, and a large glowing pink moon in the surreal sky, 8k resolution, ultra detailed, cinematic lighting.

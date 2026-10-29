@@ -1,0 +1,36 @@
+id: seedance-lighthouse-keeper-sea-orbs
+title:
+  en: Lighthouse keeper with lantern on glowing cliff
+  zh: 灯塔守望者提灯立于发光海岸
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- lighthouse
+- bioluminescence
+- fog
+- camera-push-in
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2097182529564365135
+  credit: SyntheSarah
+  captured: '2026-10-29'
+  posted: '2026-09-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/SyntheSarah/status/2097182529564365135
+notes:
+  en: The prompt sets a wide establishing shot first and then asks for a slow push in to the face, which gives the clip a clear camera arc. Lighting is stated in concrete terms (volumetric moonlight, teal and amber grade, shallow depth of field), so the model has specific targets instead of a vague mood.
+  zh: 提示词先给出广角建立镜头，再要求缓慢推近到人物面部，镜头路线清晰。光线与调色写成具体条件（体积月光、青橙调色、浅景深），让模型有明确目标，而不是泛泛的氛围。
+prompt: |
+  A weathered old lighthouse keeper stands on a foggy cliff at night,
+  wearing a thick wool coat, holding an old brass lantern. Below him,
+  the ocean waves glow with soft bioluminescent blue light with each
+  crash against the rocks. As he raises the lantern, dozens of floating
+  glowing orbs (like fireflies) rise up from the water and drift past
+  him into the misty air, swirling gently around his figure. Volumetric
+  moonlight beams cut through the fog. Camera starts wide on the cliff,
+  then does a slow cinematic push-in toward the keeper's face as the
+  orbs surround him, ending on a close-up with orbs reflecting in his
+  eyes. Teal and warm-amber color grade, hyper-realistic textures,
+  shallow depth of field, film grain, atmospheric fog, 15 seconds,
+  smooth continuous camera motion, no cuts.

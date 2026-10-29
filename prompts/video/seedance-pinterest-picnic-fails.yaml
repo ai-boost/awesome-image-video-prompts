@@ -1,0 +1,119 @@
+id: seedance-pinterest-picnic-fails
+title:
+  en: Woman arranges fruit plate on a windy picnic blanket
+  zh: 女子在多风的野餐毯上摆放水果盘
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- comedy
+- handheld
+- phone-footage
+- picnic
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2093569691830899091
+  credit: Ciri_ai
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Ciri_ai/status/2093569691830899091
+notes:
+  en: Timed beats with a clear setup and payoff in each segment give the model a readable structure for a run of small failures. The phone-footage brief names autofocus hunting, overcorrecting wobble and blown-out sun flare, and the audio list limits sound to natural location noise with the spoken lines quoted.
+  zh: 按时间段写清每段的铺垫与收尾，让模型有清晰的结构去完成一连串小失误的喜剧。手机拍摄的说明写明对焦跳动、过度修正的晃动和过曝的阳光光晕，音频只保留现场环境声并给出台词，画面质感更接近真实的生活记录。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman trying to recreate a dreamy Pinterest photo, with reality ruining every single attempt. No reference image.
+
+  MAIN SUBJECT
+
+  Young Korean woman in her early 20s, effortlessly trendy look, soft dewy makeup, expression that shifts between aspirational-serene and increasingly done-with-it.
+
+  Long black hair styled in soft waves, a flower clip pinning one side back, delicate gold necklace.
+
+  Wearing a flowy white sundress, a cream cardigan draped over her shoulders, strappy sandals, carrying a small woven picnic basket as a prop.
+
+  Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
+
+  **SETTING**
+
+  A grassy riverside park on a windy, bright afternoon — the kind of spot that looks perfect in a photo and chaotic in person.
+
+  A picnic blanket laid out unevenly on slightly bumpy grass, a thermos and a plate of fruit balanced precariously, wildflowers scattered nearby, ducks on the water in the background, other picnicking families and joggers occasionally passing through frame, a tree with low branches, and intermittent gusts of wind rolling across the open field.
+
+  **CAMERA / VISUAL AESTHETIC**
+
+  Raw personal footage filmed by her friend on a phone, oscillating between attempted "aesthetic" cinematic framing (slow pans, soft golden-hour-style angles) and sudden handheld chaos when things go wrong.
+
+  Autofocus hunts between her and the fluttering blanket. Camera overcorrects and wobbles when she moves suddenly. Mild motion blur during wind gusts and quick recoveries. Slightly warm, oversaturated "Pinterest filter" color grade that keeps slipping back to flat reality mid-shot. Visible digital noise, natural sun flare that occasionally blows out the frame.
+
+  No stabilization, no real cinematic polish — the aspiration is aesthetic, the execution is not.
+
+  ---
+
+  **00:00–00:05 — THE SETUP SHOT (ATTEMPT)**
+
+  She kneels gracefully by the picnic blanket, arranging the fruit plate just so, trying to look candidly absorbed in it.
+
+  The camera does a slow artful pan across the "perfect" spread — then a gust of wind flips the paper plate clean off the blanket.
+
+  She freezes, hand still hovering mid-air, watching it tumble away.
+
+  **00:05–00:10 — REACTION**
+
+  She stares after the plate, deadpan, not even chasing it.
+
+  *"...Okay, we'll pretend that didn't happen."*
+
+  Her friend behind the camera laughs, frame jolting as they try to film both her and the runaway plate at once.
+
+  **00:10–00:15 — THE FLOWER CROWN MOMENT**
+
+  She sits back down and tries to casually place a small wildflower behind her ear for a "candid nature" shot, tilting her head serenely toward the light.
+
+  A bee, clearly interested in the flower, buzzes directly at her face.
+
+  She yelps, swatting wildly, completely abandoning the serene pose.
+
+  The camera whip-pans trying to follow the chaos, briefly blurring.
+
+  **00:15–00:20 — THE WINDBLOWN HAIR SHOT**
+
+  She stands up to attempt a slow-motion "hair flowing in the wind" walk toward the water, cardigan billowing dramatically behind her.
+
+  The wind gusts too hard — her hair whips completely across her face, and the cardigan blows up over her head, blinding her mid-step.
+
+  She stumbles slightly, laughing from underneath the fabric, arms flailing to find the opening.
+
+  **00:20–00:25 — THE THERMOS DISASTER**
+
+  She sits back down and tries a "pouring tea thoughtfully" shot, tilting the thermos elegantly — the lid isn't fully on, and it spills straight down the front of her white dress.
+
+  She looks down at the spreading stain in silence for a beat, completely unbothered by this point.
+
+  Her friend, off-camera, losing it: *"That's — that's going to stain—"*
+
+  **00:25–00:30 — FINAL MOMENT**
+
+  She gives up entirely, flops backward onto the picnic blanket, stained dress, wind-wrecked hair, flower crooked, staring straight up into the camera as her friend leans over her.
+
+  *"This is the photo. This is the one we're posting."*
+
+  She gives a flat, exhausted thumbs up from the ground as the frame shakes with her friend's laughter, and the footage cuts abruptly to black.
+
+  ---
+
+  **AUDIO**
+
+  Natural location sound only:
+
+  Wind gusting, fabric flapping, birds and distant duck sounds, grass rustling, thermos lid clattering, tea splashing, her friend's genuine off-camera laughter throughout, footsteps on grass, and handheld camera noise.
+
+  No music. No narration. No artificial sound effects.
+
+  Spoken lines: *"...Okay, we'll pretend that didn't happen."* / *"That's — that's going to stain—"* (friend) / *"This is the photo. This is the one we're posting."*
+
+  **FINAL FEEL**
+
+  Bright, breezy, self-aware comedy built on the universal gap between a curated Pinterest fantasy and messy outdoor reality — golden light, real wind, real mishaps, real laughter.
+
+  No posed perfection sustained for more than a few seconds before nature ruins it. No exaggerated slapstick — the comedy comes from genuine reactions to genuinely uncooperative wind, bees, and gravity.

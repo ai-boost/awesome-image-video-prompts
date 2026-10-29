@@ -1,0 +1,53 @@
+id: h3-oggy-cockroaches-desktop-chaos
+title:
+  en: Oggy swats desktop icons while cockroaches scatter
+  zh: Oggy用苍蝇拍打落桌面图标，蟑螂四散
+model: MiniMax H3
+mode: image-to-video
+category: animal
+tags:
+- cartoon
+- desktop-reference
+- slapstick
+- static-camera
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2102261324860293180
+  credit: Anissa
+  likes: 180
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/SimplyAnnisa/status/2102261324860293180
+notes:
+  en: Pins the provided desktop screenshot as the exact first frame and fixes a static camera so the layout stays put. Timed beats with a strict order for each icon restore keep the motion readable and the icon count fixed.
+  zh: 以提供的桌面截图作为精确首帧，并固定静态镜头，让布局保持不变。按时间节拍安排动作，并严格规定每个图标的复位顺序，使运动清晰、图标数量不变。
+prompt: |
+  Create a 12-second horizontal 16:9 video at 1280×720 using the provided cartoon macOS desktop image as the EXACT first frame and visual reference.
+
+  EXACTLY 4 characters only: ONE large friendly Big Blue Dog with a fly swatter + THREE clearly different mischievous cockroaches. No other characters. All remain 2D cartoon style.
+
+  Static front-facing camera, one continuous shot, no cuts, zoom, pan, or camera movement.
+
+  0–2.5s: Big Blue Dog playfully chases the three cockroaches across the living-room floor toward the RIGHT side. Harmless slapstick comedy.
+
+  2.5–4s: Dog swings the fly swatter. ONLY these three desktop icons are physically dislodged: Gmail, Discord, Microsoft Teams. They gently rotate, fall, and land separately on the open desktop above the Dock. NO OTHER ICON moves.
+
+  4–5s: Dog notices the fallen icons, looking surprised. Cockroaches look mischievous.
+
+  5–10s: Dog physically restores the icons ONE AT A TIME in this exact order:
+  Gmail → exact original position → click.
+  Discord → exact original position → click.
+  Microsoft Teams → exact original position → click.
+
+  No teleporting, snapping, automatic restoration, or simultaneous movement.
+
+  10–12s: Cockroaches run toward the RIGHT. Dog follows briefly, then stops and looks at the viewer innocently while the three cockroaches look back mischievously.
+
+  DESKTOP MUST REMAIN IDENTICAL: all 18 original applications, labels, logos, menu bar, Dock, wallpaper, sofa, window, books, furniture, popcorn, floor, and background stay unchanged. ONLY Gmail, Discord, and Microsoft Teams may move. No duplicates, missing icons, altered logos, or extra characters.
+
+  AUDIO: playful cartoon piano/pizzicato, footsteps, swatter whoosh, icon movement/landing sounds, and three distinct soft computer clicks. No dialogue, subtitles, captions, text overlays, or watermark.
+
+  Premium smooth 2D cartoon animation, clean outlines, consistent proportions, squash-and-stretch, natural shadows, warm cinematic lighting.
+
+  FINAL FRAME: Gmail, Discord, and Microsoft Teams are EXACTLY back in their original positions; all other 15 icons remain stationary; exactly four characters visible on the RIGHT side.

@@ -1,0 +1,33 @@
+id: seedance-cherry-blossom-campus-confession
+title:
+  en: Two friends walk under cherry blossoms, one confesses
+  zh: 两位朋友在樱花树下散步，女生告白
+model: Seedance 2.5
+mode: text-to-video
+category: dialogue
+tags:
+- romance
+- cherry-blossom
+- korean-drama
+- campus
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2095372757890687162
+  credit: nawalsehar
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2095372757890687162
+notes:
+  en: Splits the scene into ordered beats (walk, stop, confess, pause, reassure) so the emotion builds in sequence. Naming what to avoid, such as exaggerated acting and changing faces or clothing, keeps the performance restrained and the actors consistent across the clip.
+  zh: 将场景拆成依次推进的节拍（走路、停下、告白、停顿、安慰），让情绪层层递进。通过列明要避免的内容（夸张表演、人脸或服装变化），约束演员的表现，使人物在整段视频中保持一致。
+prompt: |
+  Photorealistic cinematic Korean romance film set on a university campus during peak cherry-blossom season. Two longtime friends walk together beneath blooming cherry trees in the warm late-afternoon light. They talk casually before the woman gradually becomes nervous and slows down.
+
+  She finally stops, takes a breath, and softly confesses that she has liked him for a long time. The man is genuinely surprised, pausing to process her words rather than reacting dramatically. She admits she was afraid he might stop being her friend.
+
+  After a quiet emotional pause, he smiles warmly and reassures her. He gently takes her hand, and they continue walking together beneath the cherry trees as petals drift naturally around them.
+
+  Natural Korean actors, subtle facial expressions, realistic walking and body language, soft spring breeze, authentic university atmosphere, cinematic depth of field, realistic skin and clothing, natural lighting, gentle handheld camera movement, emotional Korean-drama aesthetic, soft piano soundtrack, realistic environmental sound.
+
+  No exaggerated acting, no forced romance, no robotic movement, no CGI appearance, no distorted anatomy, no changing faces or clothing, no floating petals, no unrealistic wind, no text, subtitles, logos, or watermark.

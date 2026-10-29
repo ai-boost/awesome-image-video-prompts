@@ -1,0 +1,26 @@
+id: h3-wallpaper-peel-reveals-sky
+title:
+  en: Wallpaper strip peels to reveal sky
+  zh: 墙纸条卷起露出天空
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- wallpaper
+- peel-reveal
+- sound-cue
+- locked-camera
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/2102041528654876810
+  credit: Glenn Williams
+  likes: 38
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/GlennHasABeard/status/2102041528654876810
+notes:
+  en: Naming a sound that lasts the whole motion, the crackling paper, works as a speed instruction, so the peel unrolls as one continuous curl. A locked, straight-on camera keeps the wall still so only the paper moves.
+  zh: 把贯穿全程的爆裂声写进提示词，相当于规定了揭开的速度，纸条因此一气呵成地卷落。固定的正对机位让墙面保持不动，只有墙纸在动。
+prompt: |
+  the strip peels downward in one continuous curl, the paper crackling and flaking at the edge

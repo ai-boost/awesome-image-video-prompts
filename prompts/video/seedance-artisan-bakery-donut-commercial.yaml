@@ -1,0 +1,25 @@
+id: seedance-artisan-bakery-donut-commercial
+title:
+  en: Pastry chef cracks egg into flour bowl
+  zh: 糕点师将鸡蛋打入面粉碗中
+model: Seedance 2.5
+mode: reference-to-video
+category: commercial
+tags:
+- commercial
+- food
+- timed-storyboard
+- product-reveal
+source:
+  name: '@AIwithAliya on X'
+  url: https://x.com/AIwithAliya/status/2090780603872624826
+  credit: Aaliya
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+video: https://x.com/AIwithAliya/status/2090780603872624826
+notes:
+  en: A timed storyboard in five-second ranges, with a shared lighting and colour grade block, and an @material reference that anchors the storyboard and the closing box shot. Sound is limited to implied kitchen ambience and a restrained score, which keeps the commercial tone consistent.
+  zh: 按秒分段的分镜加上统一的光线与调色描述，并用素材引用锁定分镜和结尾的包装镜头。声音只写厨房环境音与克制的配乐，使广告语调保持一致。
+prompt: "follow the storyboard @material:149015 A 30-second cinematic spec commercial / film-style advertisement for a premium artisan bakery brand. High-end food-commercial aesthetic, luxurious and sensory, shot like a short film.\n\nSoft, warm, high-key kitchen lighting with gentle highlights on stainless steel and glossy glaze. Shallow depth of field, slow elegant camera moves, occasional slow-motion, rich color grading (soft pinks, golden dough, deep raspberry red). Ultra-clean, appetizing, almost tactile.\n\n0–6s  \nMedium shot of a striking young female pastry chef in a pale-pink chef’s jacket, matching pink toque, and pink gloves. She stands in a sleek, modern commercial kitchen. She looks down with quiet concentration and cracks a fresh egg into a stainless-steel bowl of flour. Subtle steam and flour dust in the air.\n\n6–11s  \nTight close-up of the vivid yolk and white pouring into the flour well. Cut to the KitchenAid mixer head descending and beginning to knead. Macro of pale,\
+  \ elastic dough stretching, folding, and becoming silky and glossy.\n\n11–16s  \nOverhead shot of twelve perfectly formed raw ring donuts on a parchment-lined tray. Gloved hands lift the tray with precision. The camera follows as they are carried toward the fryer.\n\n16–22s  \nDonuts lowered into bubbling golden oil. Slow-motion close-up of four donuts frying, edges turning amber. A single donut is lifted on a metal skewer, oil dripping in slow motion. The full basket rises, steam rising, donuts now perfectly golden.\n\n22–26s  \nA warm donut is dipped halfway into a bowl of thick, vibrant raspberry-red glaze. Extreme close-up of the glossy glaze slowly cascading down the sides. Fine white sugar crystals rain onto the wet glaze, catching the light.\n\n26–30s  \nProduct reveal. Gloved hands place the last donut into an open kraft bakery box. The camera slowly pulls back and tilts up as the lid is closed, revealing the brand name **MAISON ROSE** in elegant, minimal serif lettering on the\
+  \ lid, with a small rose emblem. The box sits perfectly centered, six glazed donuts visible through a brief moment before the lid settles. Soft light catches the logo. Hold on the branded box as the hero product shot.\n\nElegant, silent except for implied kitchen sounds and a refined, understated score. Premium, filmic, commercial-grade finish.\n"

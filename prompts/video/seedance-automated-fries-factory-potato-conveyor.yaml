@@ -1,0 +1,24 @@
+id: seedance-automated-fries-factory-potato-conveyor
+title:
+  en: Workers tip potatoes onto a factory conveyor
+  zh: 工人将土豆倾倒到工厂传送带上
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- food-factory
+- industrial
+- documentary
+- conveyor
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2091031033986634183
+  credit: Ali
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+video: https://x.com/aiwithaly/status/2091031033986634183
+notes:
+  en: The prompt walks through the process in strict stage order from intake to packing, so the clip follows a clear production sequence. Named sounds such as conveyor motors and fryer bubbling, plus a list of negatives for distortion, floating objects and watermarks, keep the factory look realistic and clean.
+  zh: 提示词按从进料到装箱的工序顺序逐段描述，让画面沿着生产流程展开。明确列出传送带电机、油炸气泡等声音细节，并用反向约束排除变形、漂浮物和水印，让工厂画面真实干净。
+prompt: |
+  A modern automated French fries factory processes fresh potatoes from start to finish. Potatoes arrive on stainless-steel conveyors, pass through industrial washing and peeling machines, then enter precision cutting equipment that produces evenly sized fries. The fresh-cut fries move through blanching, hot-oil frying, draining, and cooling systems before reaching automated weighing and packaging machines. Portions are measured, sealed into food-grade bags, checked by quality-control scanners, and transferred into cartons by robotic arms. Ultra-photorealistic industrial food production documentary, realistic potato and fry physics, physically accurate machinery, continuous conveyor movement, authentic water flow, realistic frying bubbles, natural steam, accurate robotic movements, hygienic factory environment, bright industrial LED lighting, realistic stainless-steel reflections, trained workers wearing proper protective equipment, smooth documentary cinematography, authentic factory sounds including conveyor motors, flowing water, cutting machines, fryer bubbling, cooling fans, and packaging mechanisms, no narration, no music, seamless visual continuity, no CGI appearance, no floating objects, no distorted food, no machine clipping, no excessive steam, no flickering lights, no text overlays, logos, or watermarks.

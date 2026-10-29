@@ -1,0 +1,56 @@
+id: seedance-dark-fantasy-colossus-bell-tower
+title:
+  en: Ruined gothic monastery on cliff with rope bridge
+  zh: 雨中悬崖上的哥特废墟修道院与绳桥
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- dark-fantasy
+- monster
+- timeline
+- reference-lock
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2111403509333602431
+  credit: Zar⭕on
+  captured: '2026-10-29'
+  posted: '2026-10-17'
+video: https://x.com/Xaroon_x/status/2111403509333602431
+notes:
+  en: A timestamped shot list gives the model a clear beat-by-beat structure, and the @image1 hero lock with explicit preserve rules keeps the character consistent across cuts. Named audio cues such as the bronze gong at 00:22 tie the sound to a specific action.
+  zh: 按时间码逐段列出镜头，给模型清晰的分镜结构；用 @image1 锁定主角并明确要求保持面部与服装一致，减少跨镜头漂移。00:22 的青铜钟声等具体音效节点把声音与动作对齐。
+prompt: |
+  THE BELL OF ASHFALL
+
+  ENGINE DIRECTIVE: Create an exactly 30-second, 16:9 photorealistic live-action dark-fantasy film, targeting 60fps where supported. Hollywood-level VFX, realistic textures, storm lighting, volumetric rain, natural motion blur, and cinematic camera movement.
+
+  HERO LOCK: @image1 is the only hero. Preserve his exact face, hairstyle, facial hair, skin tone, age, body, outfit, accessories, and weapon in every shot. No identity drift, clones, or costume changes. Keep his face recognizable.
+
+  ANTAGONIST: A 15-meter horned Cinder Colossus with black basalt skin, glowing ember-orange cracks, amber eyes, and a damaged left shoulder.
+
+  LOCATION: Ruined gothic Ashfall Monastery above a bottomless gorge, with a collapsing rope bridge, flooded courtyard, broken statues, and a timber bell tower containing a massive bronze bell.
+
+  TIMELINE:
+
+  00:00–00:05 | STORM BRIDGE
+  Aerial 24mm shot reveals the storm-lashed monastery. Ground-level tracking follows the hero sprinting across a swaying rope bridge. Planks snap behind him as lightning illuminates the gorge.
+
+  00:05–00:10 | THE COLOSSUS
+  The bridge collapses. The hero leaps, catches a hanging rope, and climbs to the cliff. The Colossus rises from the abyss, roars, and slams its enormous hand beside him.
+
+  00:10–00:15 | COURTYARD CHASE
+  The hero races through shin-deep water as the giant destroys statues and arches. He slides beneath a crushing fist, and a stone column shatters. He reaches the bell tower.
+
+  00:15–00:20 | THE BELL TOWER
+  The hero climbs unstable timber scaffolding. The Colossus punches through the tower wall, cracking beams. The hero cuts the bell's restraining rope, sending the massive bronze bell swinging outward.
+
+  00:20–00:25 | THE STRIKE
+  The hero jumps onto a beam as the bell swings through the breach and slams into the Colossus's chest at 00:22. Slow-motion impact, expanding shockwave, airborne rain, and glowing cracks spreading across its body.
+
+  00:25–00:30 | DAWN OF ASH
+  At 00:26, the Colossus explodes into stone fragments and ash, falling into the gorge. Storm clouds part as golden dawn illuminates the victorious hero. End with a cinematic close-up, drifting ash, and the humming bell.
+
+  AUDIO: Dark orchestral strings, distant choir, pounding war drums, thunder, rain, creaking wood, crushing stone, and monstrous roars. At 00:22, a powerful bronze gong triggers near-silence and a lingering resonance. Finish with hopeful choir, warm strings, and fading wind.
+
+  CONTINUITY: Grounded, readable action; progressive destruction; consistent screen direction; no extra characters, text, or logos.

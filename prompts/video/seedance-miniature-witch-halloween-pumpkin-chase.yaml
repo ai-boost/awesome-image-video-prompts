@@ -1,0 +1,74 @@
+id: seedance-miniature-witch-halloween-pumpkin-chase
+title:
+  en: Tiny witch hugs glowing pumpkin on leaf boat
+  zh: 小女巫抱着发光南瓜坐在落叶船上
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- miniature
+- stop-motion
+- halloween
+- character-consistency
+source:
+  name: '@ImaStudio_ai on X'
+  url: https://x.com/ImaStudio_ai/status/2104881979485463035
+  credit: Ima Studio
+  captured: '2026-10-29'
+  posted: '2026-09-29'
+video: https://x.com/ImaStudio_ai/status/2104881979485463035
+notes:
+  en: Beat by beat timing (hook, chase, leaf boat, ghosts, hero shot) with a locked character block keeps the hat, raincoat and boots consistent across the clip. The low macro camera and explicit scale contrast make the tiny character read as a miniature set in a real rainy street.
+  zh: 按时间节拍分段（开场、追逐、落叶船、幽灵、结尾特写），并锁定角色外观描述，让帽子、雨衣和雨靴在整段视频中保持一致。低角度微距镜头加上明确的比例反差，让小人物看起来像真实雨夜街道中的微缩场景。
+prompt: |
+  Create a 15-second, 16:9, 24fps high-quality miniature fantasy animation.
+  Overall style: miniature stop-motion animation × photorealistic macro environment × cute Halloween fantasy.
+  The world should feel like a handcrafted animated character placed inside a highly realistic macro environment: wet pavement, shallow depth of field, giant raindrops, oversized fallen leaves, and strong scale contrast between the tiny character and the real-world surroundings.
+  The overall mood should be warm, cute, mysterious, and cinematic, never scary, bloody, or childish.
+  Character Consistency
+  Keep the exact same miniature witch girl throughout the entire video.
+  She is palm-sized, with:
+  short black hair
+  a slightly crooked black pointed witch hat
+  orange raincoat
+  black tights
+  small red rain boots
+  Strictly preserve her:
+  face
+  hairstyle
+  outfit
+  body proportions
+  scale
+  overall identity
+  She should have a refined handcrafted stop-motion look, while the environment remains highly photorealistic.
+  0–2.5s | Hook
+  Halloween night after the rain.
+  Use an extremely low-angle macro shot close to the wet cobblestone street. Warm orange streetlights create large, soft bokeh in the distance.
+  The tiny witch stands beside a puddle holding a miniature black umbrella.
+  Suddenly, a small glowing jack-o’-lantern floats past her in the rainwater, emitting a warm orange glow.
+  She pauses in surprise, looks up, and immediately starts chasing it.
+  Use a subtle cinematic push-in.
+  2.5–5.5s | Chase
+  Low-angle lateral tracking shot.
+  The tiny witch runs quickly along the wet street, chasing the drifting glowing pumpkin.
+  Huge maple leaves, giant raindrops, and thin twigs pass around her like oversized obstacles.
+  She jumps across a narrow stream of water.
+  Her raincoat and short hair move naturally in the strong breeze.
+  Keep the glowing pumpkin visible ahead of her, drifting continuously with the current.
+  5.5–9s | Leaf Boat
+  The pumpkin drifts into a deeper puddle.
+  The witch jumps onto a giant orange-red maple leaf and uses it as a tiny boat.
+  She holds a thin twig like a pole and gently pushes herself forward.
+  The camera moves close to the water surface and follows the leaf boat.
+  Show warm orange reflections, realistic water surface tension, ripples from raindrops, and the leaf softly rocking with the water.
+  9–12s | Friendly Ghosts
+  Two or three tiny translucent ghosts with warm white glow gently rise above the water.
+  They must look cute and friendly, never frightening.
+  They resemble soft floating light spirits.
+  The ghosts circle around the witch once, then fly toward the glowing pumpkin as if guiding her.
+  The witch smiles with surprise and reaches forward.
+  12–15s | Final Hero
+  The witch finally catches and hugs the glowing jack-o’-lantern.
+  Its warm orange light illuminates her face, clothes, nearby raindrops, and the wet leaf.
+  Slowly pull the camera back.
+  She sits i

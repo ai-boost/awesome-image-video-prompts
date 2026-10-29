@@ -1,0 +1,32 @@
+id: seedance-young-woman-countryside-bike-ride-summer
+title:
+  en: Woman bikes through daisy fields in summer
+  zh: 少女骑车穿过雏菊田野
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- multi-shot
+- golden-hour
+- slow-living
+- japanese-countryside
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2104061053898228130
+  credit: Zyrellix
+  captured: '2026-10-29'
+  posted: '2026-09-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2104061053898228130
+notes:
+  en: The opening sentence fixes one character, wardrobe and setting, then each shot is listed as its own cut with its own camera move and light, so the same subject carries across the sequence. The closing mood block sets the lighting and colour grade for every shot.
+  zh: 开头固定人物、服装和场景，之后按镜头逐段描述各自的运镜与光线，使同一人物贯穿整段序列。结尾的情绪段统一了所有镜头的光线与调色。
+prompt: |
+  Cinematic 30-second video, photorealistic, 4K, shallow depth of field. A beautiful young East Asian woman with long flowing black hair, wearing a cream off-shoulder knitted sweater, denim shorts, and white sneakers. She rides a silver city bicycle with a wicker basket full of yellow, purple and white wildflowers along a dirt path through a vast field of white daisies and rolling green hills under a bright blue sky with fluffy clouds. Hair blowing in the wind, gentle smile.
+  Cut to her lying on her back in the grass under a tree with dappled sunlight, holding an open book, peaceful expression, eyes half-closed.
+  Then close-up of her hands gently dipping into a clear pebble-bottomed stream.
+  She walks away from camera pushing the bicycle along the path beside the stream.
+  Golden hour: she sits on the grass by the river with the bicycle parked behind her, looking toward the sunset reflecting on the water.
+  Drone shot pulls back revealing her small figure sitting beside a winding river through lush green fields and rice paddies, village houses in the distance, warm sunset light.
+  Final shot: silhouette of the woman sitting by a calm lake watching a vivid orange sunset, sky glowing with warm colors.
+  Mood: peaceful, nostalgic, slow-living Japanese countryside summer, dreamy and serene. Soft natural lighting, gentle camera movements, filmic color grading.

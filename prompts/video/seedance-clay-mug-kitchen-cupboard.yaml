@@ -1,0 +1,24 @@
+id: seedance-clay-mug-kitchen-cupboard
+title:
+  en: Clay mug waits at back of cupboard
+  zh: 陶杯在橱柜深处等待被选中
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- clay
+- storytelling
+- kitchen
+source:
+  name: '@Dheepanratnam on X'
+  url: https://x.com/Dheepanratnam/status/2083869167791305173
+  credit: Dheepan Ratnam
+  captured: '2026-10-29'
+  posted: '2026-08-02'
+video: https://x.com/Dheepanratnam/status/2083869167791305173
+notes:
+  en: The prompt gives the scene a clear story contrast (the handmade mug at the back versus the porcelain cups used every day) and a tone cue (warm, funny, quietly moving), so the model has an emotional arc to animate without dialogue. The explicit 2.35:1 ratio and 30-second length fix the framing and pacing for one continuous shot.
+  zh: 提示词给场景设定了清晰的故事对比（橱柜深处的手工陶杯与每天被用的瓷杯）和情绪基调（温暖、有趣、安静动人），让模型在没有对白的情况下也有明确的情绪走向。明确的 2.35:1 画幅与 30 秒时长固定了单镜头的构图和节奏。
+prompt: |
+  [SCENE] A 30-second stylised 3D animated short. A handmade clay mug at the back of a kitchen cupboard waits to be chosen, while the perfect porcelain cups at the front are used every day. Warm, funny, quietly moving. 2.35:1.

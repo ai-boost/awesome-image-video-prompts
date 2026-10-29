@@ -1,0 +1,24 @@
+id: seedance-anime-burger-cooking-journey
+title:
+  en: Anime kitchen cooks a cheese-filled burger
+  zh: 动漫厨房制作芝士馅汉堡
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- anime
+- cooking
+- food
+- kitchen
+source:
+  name: '@ayzalnooor24521 on X'
+  url: https://x.com/ayzalnooor24521/status/2096892990371565650
+  credit: ayzalnoor
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+video: https://x.com/ayzalnooor24521/status/2096892990371565650
+notes:
+  en: The prompt lists each cooking step as a short ordered beat with one action per shot, which keeps the anime look consistent across the sequence. Concrete props such as the cast-iron pan, gas stove and sesame buns give the model fixed visual anchors, and the plated finish with iced cola closes the clip.
+  zh: 提示词把每个烹饪步骤写成按顺序排列的短句，每个镜头只有一个动作，有助于动漫画风在整段视频中保持一致。铸铁锅、燃气灶和芝麻面包等具体道具为模型提供固定的视觉锚点，结尾的摆盘和冰可乐作为收束画面。
+prompt: "Created, anime style video of this kind, about 15 seconds long.  \nA warm cozy kitchen scene begins with a hand slicing a fresh onion on a wooden cutting board next to diced bacon pieces, then shifts to mixing raw ground meat with sliced onions and a cracked egg inside a clear glass bowl. Next a thick triangular slice of yellow Swiss cheese is carefully placed in the center of a large raw meat patty and the meat is folded and sealed tightly around the cheese to form a stuffed burger. The sealed meat is placed into a hot black cast-iron pan with sizzling oil on a gas stove, searing until the surface turns golden brown with bubbling juices. A wooden spoon then pours thick glossy dark brown sauce over the cooked patty. Finally the juicy sauced patty is stacked between sesame seed buns with melting yellow cheese, tomato and onion slices, a hand gently presses the top bun, and the finished oversized cheese-stuffed burger is shown plated on a white dish beside a tall glass of iced cola\
+  \ on a sunlit wooden table in a bright kitchen.\n"

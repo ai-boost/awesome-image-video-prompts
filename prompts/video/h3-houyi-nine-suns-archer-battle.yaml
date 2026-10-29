@@ -1,0 +1,25 @@
+id: h3-houyi-nine-suns-archer-battle
+title:
+  en: Lone archer under nine suns on scorched battlefield
+  zh: 孤身射手立于焦土，九日悬天
+model: MiniMax H3
+mode: image-to-video
+category: scifi-fantasy
+tags:
+- chinese-mythology
+- epic-battle
+- slow-motion
+- timed-shots
+source:
+  name: '@LufzzLiz on X'
+  url: https://x.com/LufzzLiz/status/2085152634949030212
+  credit: 岚叔
+  likes: 16
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/LufzzLiz/status/2085152634949030212
+notes:
+  en: Timestamped beats with explicit camera moves (low angle push in, fast orbit, slow motion) give the model a clear shot order. Locking identity to the reference image and banning character sheets, panels and text keeps the output one continuous film scene.
+  zh: 按时间段写分镜，每段都给出明确运镜（低机位推近、高速环绕、慢动作），让模型有清晰的镜头顺序。锁定参考图人物身份，并禁止设定板、分格、文字和界面，使结果保持为一段连续的电影场景。
+prompt: "电影级东方神话史诗，保持参考图中后羿的身份与造型统一：年轻坚毅的东方男性，凌乱黑色长发，带灼痕的黑铜战甲、朱红腰带、玉石饰物，手持雕纹神圣青铜弓。画面转换成完整连续的真实电影场景，禁止出现设定板、分格、文字和界面。\n\n0至3秒，乌云翻涌的焦土战场，天空悬挂九轮燃烧烈日。低机位掠过碎石与灰烬，快速推近后羿背影，披风和长发在热浪中狂舞。\n\n3至7秒，群鸦骤然冲出云层，镜头高速环绕至后羿侧面。他抬弓搭箭，青铜弓纹逐层亮起金红色神光，弓弦绷紧，眼神从克制转为决绝，火星贴近镜头飞过，强烈压迫感。\n\n7至11秒，后羿猛然释放神箭。瞬间进入极致慢动作，发光箭矢撕裂空气，随后镜头迅猛追随箭矢穿越云海。神箭分化为九道金色流光，烈日接连崩裂，形成震撼的连锁爆炸，冲击波推开乌云，天地剧烈震动。\n\n11至15秒，爆炸声势骤然沉寂，灰烬像雪一样缓慢飘落。天空只剩最后一轮温暖太阳，后羿立于山巅成为逆光剪影，缓缓放下神弓。镜头升高并大幅拉远，露出重获生机的辽阔山河，庄严、悲壮、余韵悠长。\n\n真实电影摄影，史诗级规模，强烈明暗对比，体积光，热浪折射，飞灰与火星，真实布料和金属质感，动态运镜，速度变化自然，24帧电影质感，人物面部稳定，手指与弓箭结构正确，无字幕，无水印，无现代物品。 \n\n根据这个提示词，你觉得哪个模型做的最好？客观多方位真实评价\n"

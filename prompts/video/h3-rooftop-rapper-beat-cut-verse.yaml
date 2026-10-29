@@ -1,0 +1,64 @@
+id: h3-rooftop-rapper-beat-cut-verse
+title:
+  en: Rapper performs beat-cut verse on rooftop at sunset
+  zh: 女说唱歌手在日落屋顶的节拍剪辑表演
+model: MiniMax H3
+mode: text-to-video
+category: music-dance
+tags:
+- rap
+- lip-sync
+- beat-cut
+- golden-hour
+source:
+  name: '@abulu8 on X'
+  url: https://x.com/abulu8/status/2085253978166808615
+  credit: Syed Abuthahir ∞
+  likes: 15
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/abulu8/status/2085253978166808615
+notes:
+  en: A JSON spec repeats a style enforcement rule for grain and golden backlight, so the look holds across every cut. Each of the 12 numbered storyboard shots pairs a camera move with an exact lyric line and a beat cue, giving the model a timed plan for lip-sync and hard cuts.
+  zh: JSON 结构的提示词在每个镜头中重复风格约束，使颗粒感和逆光在所有切换中保持一致。12 个编号分镜各自配有镜头运动、准确歌词和节拍提示，为口型同步和硬切提供了清晰的时间安排。
+prompt: |
+  {
+    "format": {
+      "duration": "15s",
+      "bpm": 96,
+      "total_shots": 12,
+      "sync_type": "Beat-Cut Rap Performance — Double-Time Delivery"
+    },
+    "style_reference": {
+      "look": "Gritty cinematic 35mm — shot on RED Komodo 6K, 24fps, heavy Kodak 5219 500T grain overlay. Muted steel-blue and rust-orange palette with glowing sunset rim highlights and urban grays. Strong backlit lens flare, crushed but detailed shadows, slight halation on the sun. Handheld energy with natural sway. Anamorphic-flavored flare streaks, atmospheric haze catching low sun.",
+      "enforcement": "Maintain the heavy grain, muted steel/rust palette and golden backlight in EVERY shot. Never clean, never over-saturated, never flat-lit."
+    },
+    "subject": {
+      "description": "A bold female rapper, mid-twenties, with shaved sides and long platinum-blonde braids. Confident, commanding presence, sharp direct eye contact. Wardrobe: oversized camo jacket worn open, black sports bra, cargo pants, chunky boots, heavy silver chain. UNIFY ACROSS ALL SHOTS: identical face, braids, wardrobe and chain; same rooftop; same golden-hour light."
+    },
+    "environment": {
+      "setting": "The rooftop of an old industrial building at golden hour, overlooking a city skyline.",
+      "background": "Graffiti-covered concrete walls, rusted AC vents and ducting, faint mist rising off the units, a flickering neon sign at the edge of frame, the skyline sprawling below in haze.",
+      "lighting": "Low sunset sun directly behind her creating a hard rim-light and heavy lens flare; her front filled softly by bounce off the concrete. Rust-orange highlights against steel-blue shadow. Neon adding a small competing color source at dusk."
+    },
+    "mood": "gritty, commanding, defiant, powerful, cinematic, grounded",
+    "music": "Hard-hitting trap at 96 BPM — heavy 808 sub, crisp rolling hi-hats, sparse ominous synth line. Beat drops on shot 3 and hits hardest at the final bar.",
+    "style": "Ultra-Realistic",
+    "logic_rule": "BEAT-CUT PERFORMANCE VIDEO — 12 hard cuts synced to the rhythm, NOT one continuous take. Vary the camera relentlessly: low hero wide, extreme close-up on mouth and eyes, over-shoulder skyline, whip-pan, handheld orbit, macro on the chain, silhouette against the sun. ACCURATE LIP-SYNC is mandatory — her mouth must match the written bars precisely, delivered double-time with sharp aggressive articulation. Performance energy: hand gestures punctuating bars, chest-forward power stance, head bobbing on the beat, braids swinging. Mandatory SPEED CHANGE: one brief slow-motion beat where her braids swing through the sun flare, then snap back on the beat. Physical effects: mist drifting from vents, dust in the flare, jacket moving in the wind. Keep the gritty grain and golden backlight throughout. ENDING: hard cut on the final bar, not a fade.",
+    "lyrics": "Came up off concrete, no ladder, no lane / Turned every locked door into fuel for the flame / They told me stay quiet — I turned the sound up / Skyline my witness, I ain't waiting on luck / No hand-out, no co-sign, I carried the weight / Laid brick over brick while they slept on the wait / Sun on my back and the whole city low / I don't chase the moment — the moment I own.",
+    "storyboard": [
+      { "shot": 1, "camera": "Low-angle wide, 24mm, heroic framing, handheld sway, sun flaring behind her.", "action": "She stands in a power stance on the rooftop edge, jacket moving in the wind, silhouetted by the sunset. Beat intro — she doesn't speak yet.", "sfx": "City rumble below, distant sirens, wind, beat intro." },
+      { "shot": 2, "camera": "Extreme close-up on her eyes, hard rim-light.", "action": "Her eyes lift and lock dead into the lens. A single beat of held silence before the drop.", "sfx": "Hi-hats rolling in, a tense sub swell." },
+      { "shot": 3, "camera": "Fast push-in to medium close, handheld.", "action": "BEAT DROPS. She launches into the first bar, hand cutting the air on the downbeat: 'Came up off concrete, no ladder, no lane.'", "sfx": "808 hitting hard, hats snapping, vocal cutting in." },
+      { "shot": 4, "camera": "Whip-pan to a low side angle, graffiti wall behind.", "action": "'Turned every locked door into fuel for the flame' — she jabs a finger toward the lens, chest forward, braids swinging.", "sfx": "Trap beat driving, vocal aggressive." },
+      { "shot": 5, "camera": "Extreme macro on her mouth, razor focus.", "action": "'They told me stay quiet — I turned the sound up' — tight lip-sync, sharp double-time articulation.", "sfx": "Vocal front and center, hat rolls." },
+      { "shot": 6, "camera": "Over-shoulder, skyline hazy below her.", "action": "'Skyline my witness, I ain't waiting on luck' — she throws an arm out toward the city, claiming it.", "sfx": "Sub-bass hit, wind, city rumble." },
+      { "shot": 7, "camera": "SLOW MOTION, tight profile, sun flaring through.", "action": "Her braids swing through the golden flare, jacket lifting, face set — the one held breath in the whole piece.", "sfx": "Beat filtering down, a stretched vocal tail." },
+      { "shot": 8, "camera": "Snap back to speed. Handheld orbit, low.", "action": "'No hand-out, no co-sign, I carried the weight' — she pivots with the camera, hand pounding her chest on 'weight'.", "sfx": "Beat slamming back in, snare crack." },
+      { "shot": 9, "camera": "Macro on the silver chain against her collarbone.", "action": "The chain swings hard and catches the low sun as she moves. Detail beat on the rhythm.", "sfx": "Metal chink layered into the beat." },
+      { "shot": 10, "camera": "Wide from behind, she faces the skyline, mist off the vents.", "action": "'Laid brick over brick while they slept on the wait' — she gestures out at the city, small against it, undefeated.", "sfx": "Full beat, mist hiss, distant traffic." },
+      { "shot": 11, "camera": "Fast cut to a tight low-angle close-up, neon flickering at frame edge.", "action": "'Sun on my back and the whole city low' — head bobbing hard on the beat, eyes never leaving the lens.", "sfx": "Hat roll building, sub pressure." },
+      { "shot": 12, "camera": "Push-in to a locked hero frame — then hard cut to black.", "action": "'I don't chase the moment — the moment I own.' She holds the final word, arms spread wide, sun blazing behind her. HARD CUT on the last syllable.", "sfx": "Final 808 hit, everything cutting to dead silence." }
+    ]
+  }

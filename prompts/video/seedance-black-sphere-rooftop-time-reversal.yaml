@@ -1,0 +1,24 @@
+id: seedance-black-sphere-rooftop-time-reversal
+title:
+  en: Black sphere over rain-soaked futuristic city
+  zh: 雨中未来城市上方的巨大黑色球体
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- sci-fi
+- cinematic
+- rain
+- sound-design
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2094758907885355381
+  credit: H A J R A
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+video: https://x.com/codewithhajra/status/2094758907885355381
+notes:
+  en: The prompt splits the 10 seconds into ordered beats and lists the sound cues in sequence, giving the model a clear timeline for the pulse, the reverse-time city and the hard cut. Repeating a fixed character description and asking for visual consistency keeps the woman recognizable through the close-ups.
+  zh: 提示词把10秒拆分为有先后顺序的节拍，并按顺序列出声音提示，让模型有清晰的时间线可依。固定的人物描述加上一致性要求，使特写镜头中的女主角保持稳定。
+prompt: "10 seconds, cinematic, ultra-realistic, photorealistic, colossal scale, no text, no logos. The black sphere pulses. The frozen city suddenly moves again. On a rooftop far below, a young woman in a dark futuristic raincoat stands completely still, drenched by the rain. She looks upward as the sphere begins opening like a gigantic black eye. Her hair and coat whip violently in the gravitational wind. She slowly raises one hand toward the sphere. Inside it, the tiny city begins moving backward through time—cars reverse, rain rises, broken buildings reconstruct themselves. The woman watches in disbelief as her own reflection appears inside the sphere. The reflection moves independently. The real woman lowers her hand. The reflection doesn't. It suddenly turns toward her and points behind her. She turns around. Every skyscraper in the city is now facing her, windows illuminating one by one in a massive wave.  The gravitational force suddenly intensifies. She is pulled across the rooftop\
+  \ toward the sphere, sliding through the rain. She grabs a massive steel structure, barely holding on as buildings around her stretch toward the black sphere.  Extreme close-up of her eyes. Inside her pupil, the entire futuristic city is reflected. Then the reflection reveals something impossible: another version of the woman standing directly behind her. A deep pulse. \n\nHARD CUT TO BLACK. Sound: violent rain → deep gravitational rumble → metallic tearing → sudden silence → one sharp breath → enormous sub-bass pulse. Character: realistic young woman, dark futuristic raincoat, wet hair, natural facial features, cinematic lighting, determined but frightened expression. Keep her visually consistent throughout the sequence\n"

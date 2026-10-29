@@ -1,0 +1,26 @@
+id: seedance-pan-fried-bao-juice-burst
+title:
+  en: Pan fried bao bursting with golden broth
+  zh: 生煎包煎制出锅，汤汁爆出
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- food
+- asmr
+- close-up
+- steam
+- street-food
+source:
+  name: '@Lianaalane on X'
+  url: https://x.com/Lianaalane/status/2096903888813330826
+  credit: Lianaalane
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Lianaalane/status/2096903888813330826
+notes:
+  en: Written as an ordered shot list, each shot naming a camera distance and one physical action such as a chopstick lift, a tear or a spatula flip, which gives the model a clear sequence to follow. Texture cues like steam, drips and crust are stated as visible events rather than adjectives, which keeps the look consistent across cuts.
+  zh: 按镜头顺序分镜书写，每个镜头写明景别和一个具体动作，如夹起、撕开、翻面，让模型有清晰的时间顺序。蒸汽、汤汁和焦壳等质感以可见事件描述，而不是形容词，使各镜头外观保持一致。
+prompt: "Create a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups.  \nWooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like\
+  \ crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights.\n"

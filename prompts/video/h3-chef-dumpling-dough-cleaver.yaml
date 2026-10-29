@@ -1,0 +1,30 @@
+id: h3-chef-dumpling-dough-cleaver
+title:
+  en: Chef presses dumpling dough with cleaver in flour
+  zh: 厨师在面粉中用刀压饺子面团
+model: MiniMax H3
+mode: text-to-video
+category: vlog
+tags:
+- food
+- cooking
+- dumplings
+- sound-design
+source:
+  name: '@cocktailpeanut on X'
+  url: https://x.com/cocktailpeanut/status/2092363865619317172
+  credit: cocktail peanut
+  likes: 16
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/cocktailpeanut/status/2092363865619317172
+notes:
+  en: The prompt is a numbered beat sheet with one physical action per beat and a clear ending, which keeps a long sequence of windows coherent. Naming specific sound cues and banning speech and music keeps the audio to kitchen ambience.
+  zh: 提示词采用编号分段的分镜写法，每段只写一个动作并给出明确结尾，使多段连续生成保持连贯。明确列出声音细节并禁止人声和音乐，让音轨只保留厨房环境声。
+prompt: |
+  The chef prepares a supple dumpling dough, rolls it into a very large thin circular wrapper on a lightly floured wooden board, then mixes seasoned pork filling with cubes of chilled gelatinized stock, showing convincing close-ups of the ingredients, hands, textures, flour, moisture, and utensils.
+  A generous mound of filling is placed in the center, then the chef slowly lifts and pleats the enormous wrapper around it, creating dozens of small folds while rotating the dumpling by hand until the top closes into a neat twisted knot and the whole dumpling visibly sags with realistic weight.
+  The giant dumpling is transferred carefully into a wide bamboo steamer lined with cabbage leaves, the lid closes, steam escapes naturally around the rim, then after cooking the lid is lifted and dense steam reveals the now-translucent, glossy dumpling sitting intact inside.
+  The chef slides it into a shallow serving bowl, places ginger and black vinegar beside it, then punctures the top gently with chopsticks so a large amount of hot golden broth visibly pours from inside the dumpling into the bowl while the delicate skin remains mostly intact.
+  Finish with a close-up of the chef opening the dumpling further and spooning up the broth, pork filling, and thin wrapper together, emphasizing realistic steam, liquid movement, chopstick sounds, bamboo creaks, ceramic clinks, and kitchen ambience, with absolutely no spoken language or music.

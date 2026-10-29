@@ -1,0 +1,28 @@
+id: h3-runner-grey-street-cyan-shoe-glow
+title:
+  en: Lone runner in grey street with cyan glow
+  zh: 灰色街道中的跑者，鞋底泛着青色光
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- motivational
+- vertical-ad
+- sprint
+- neon-contrast
+source:
+  name: '@sebatheepan on X'
+  url: https://x.com/sebatheepan/status/2084311486277599712
+  credit: Pan
+  likes: 34
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/sebatheepan/status/2084311486277599712
+notes:
+  en: A timed timeline with a text cue for each beat gives the model a shot by shot structure for this 15 second ad. The style line pairs monochrome with neon contrast, and the negative prompt blocks photorealism so the grey opening stays graphic.
+  zh: 带时间码的分段时间线，并为每个节拍配上文字提示，让模型按镜头逐段生成这条15秒广告。风格描述设定了黑白与霓虹的对比，负面提示排除写实感，使开场保持图形小说般的质感。
+prompt: |
+  ️
+
+  {   "title": "Outrun the Static",   "duration": "15 seconds",   "aspect_ratio": "9:16",   "style": "high-quality stylised 3D animation blended with graphic-novel visuals, vibrant neon and daylight contrast, expressive motion blur, bold geometric lighting, fluid animation, dynamic social-media advertising, polished but not photorealistic",   "prompt": "Create an explosive, fast-paced 15-second vertical animated advertisement about shattering mental noise and building instant momentum. Open immediately inside a monochrome, static-filled city street. A slouched, hesitant urban runner stands frozen as grey glitching words reading SOMEDAY, TOO TIRED, and NOT TODAY orbit them like heavy fog. Rapid visual storytelling with zero delay: the runner stomps their foot on the pavement, pulling their laces tight as vibrant electric-cyan energy flares from their shoes. They raise their gaze with sharp focus and burst into an all-out sprint. As they stride through the grey street, each powerful footstrike shatters a floating word into glowing neon shards and transforms the dreary alley into a vibrant, high-contrast world of motion light-trails. The camera dynamically tracks alongside them in rapid close-ups and side angles. On their final leap through a giant wall of static, the fog completely shatters into brilliant golden light, revealing the transformed runner reaching a sunlit city summit. Finish with the runner standing empowered in peak condition as bold text snaps onto screen: BREAK THE STATIC. RUN YOUR DAY. Maintain relentless energy, satisfying impact beats, fluid motion, crisp transitions, and a motivational narrative that makes the viewer want to move immediately.",   "timeline": [     {       "time": "0.0-3.0 seconds",       "visual": "Immediate hook: monochrome grey street filled with glitch static. The runner stands frozen in heavy posture as floating grey words (SOMEDAY, TOO TIRED, NOT TODAY) orbit around them. Fast camera push-in.",       "text": "STUCK IN THE STATIC?"     },     {       "time": "3.0-6.5 seconds",       "visual": "Rapid close-ups of laces snapping tight and shoe sole hitting the ground. Cyan energy sparks out. The runner's posture transforms instantly from sluggish to razor-sharp focus.",       "text": ""     },     {       "time": "6.5-11.5 seconds",       "visual": "High-speed sprinting sequence with dynamic side tracking camera. Every footstrike explodes with impact fx, shattering the floating negative words into neon sparks and painting the gray environment in bright colors.",       "text": ""     },     {       "time": "11.5-15.0 seconds",       "visual": "The runner leaps through the final static wall into warm, golden sunlight over an elevated city skyline. Fast pullback as they land confidently under bright skies.",       "text": "BREAK THE STATIC\nRUN YOUR DAY"     }   ],   "voiceover": {     "enabled": true,     "delivery": "direct, energetic, crisp, and motivating, like a high-performance coach speaking directly to the viewer",     "script": "Stuck in the static? The hardest part is standing still. Lock in. Outrun yesterday."   },   "audio": {     "music": "fast-paced modern electronic-hiphop training beat with driving bass drop at second 3.0",     "sound_design": "glitch hum, sharp lace snap, heavy footfall impacts, glass shatter FX for words, wind rush, crisp final bass thump",     "mix": "Punchy and clear voiceover balanced over a driving beat; footsteps and word shatters synced precisely to the musical beat."   },   "camera": {     "movement": "rapid whip push-in, low-angle boot macro shots, dynamic parallel tracking run, and high-speed final camera pullback",     "editing": "high temporal frequency, new camera angle every 0.6 to 1.0 seconds, motion-matched cuts"   },   "negative_prompt": [     "photorealistic characters",     "slow opening",     "dramatic movie trailer tone",     "long pauses",     "cluttered camera motion",     "anatomy glitches",     "unreadable text"   ] }

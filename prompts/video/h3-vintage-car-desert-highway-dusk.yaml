@@ -1,0 +1,30 @@
+id: h3-vintage-car-desert-highway-dusk
+title:
+  en: Vintage car on desert highway at dusk
+  zh: 黄昏沙漠公路上的复古轿车
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- reference-images
+- fashion
+- desert
+- vintage-car
+source:
+  name: '@influencer_seo on X'
+  url: https://x.com/influencer_seo/status/2084355335222108362
+  credit: Bennett | Generative Media | AI SEO @ fal
+  likes: 22
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/influencer_seo/status/2084355335222108362
+notes:
+  en: Four reference images are each given one job (mood and location, talent, bag, closing brand mark), so the model knows which input controls which element. A simple three beat blocking sequence in plain verbs keeps the 15 second clip readable while the clothing and bag stay part of the performance.
+  zh: 四张参考图各自负责一个元素（氛围与场景、人物、包袋、结尾品牌标识），让模型清楚每个输入控制什么。用简单的三步动作描述走位，使十五秒片段保持清晰，同时让服装和包袋成为人物表演的一部分。
+prompt: |
+  Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for the overall mood, location, and film texture; Image 2 for the talent; Image 3 for the bag; and Image 4 for the closing brand mark. This is a fashion campaign for the clothing and bag. The tone is elevated, cool, and restrained, but the edit should still feel lively and fashion-forward—not like a conventional narrative film or an e-commerce ad.
+
+  Keep the story simple: beside a vintage car on a desert highway, a woman walks to the rear of the car, opens the trunk, takes out a black bag, shares a quiet beat with the man standing nearby, then leaves carrying the bag. Integrate the clothing and bag naturally into the performance so they feel like part of the characters’ identity.
+
+  I added the final video in and the reference images for you to learn from!

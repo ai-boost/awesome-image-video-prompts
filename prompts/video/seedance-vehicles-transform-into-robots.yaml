@@ -1,0 +1,24 @@
+id: seedance-vehicles-transform-into-robots
+title:
+  en: Silver sports car driving down city highway
+  zh: 银色跑车在城市高速公路上疾驰
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- transformation
+- robots
+- vehicles
+- tracking-shot
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2108404878590857384
+  credit: Lavinia
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+video: https://x.com/laviniavelle/status/2108404878590857384
+notes:
+  en: One prompt chains four vehicle-to-robot transformations, each with its own setting (city highway, coastal road, desert, carrier deck), so the model can move between environments. The tracking camera direction and the photorealistic 8k style tag set one consistent look across the whole sequence.
+  zh: 一个提示词串联了四组载具变形为机器人的场景，每组配有不同环境（城市高速、海岸公路、沙漠、航母甲板），便于模型在环境之间切换。结尾的动态追踪镜头和写实8K渲染风格词，让整段画面保持统一的质感。
+prompt: |
+  A silver sports car driving down a city highway smoothly transforms into a giant silver running robot a futuristic neon lit motorcycle on a coastal highway morphs into a running blue cybernetic robot; a camouflage military tank driving across a sandy desert transforms into a walking heavy combat mecha a fighter jet on an aircraft carrier deck unfolds and transforms into a standing robot warrior, sci-fi action style high tech mechanical transformation, dynamic camera tracking shot, cinematic photorealistic 8k render.

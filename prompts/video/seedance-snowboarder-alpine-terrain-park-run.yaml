@@ -1,0 +1,24 @@
+id: seedance-snowboarder-alpine-terrain-park-run
+title:
+  en: Snowboarder stands on sunlit alpine slope
+  zh: 单板滑雪者站在阳光照耀的高山雪坡上
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- snowboarding
+- winter-sports
+- documentary
+- terrain-park
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2088854230626865490
+  credit: Nawal
+  captured: '2026-10-29'
+  posted: '2026-08-16'
+video: https://x.com/nawalsehar/status/2088854230626865490
+notes:
+  en: Lists the action beats in time order (drop, carve, 180 jump, butter, clean stop), then sets the style as documentary realism with physics and continuity cues. Lighting and ambience close the prompt as a separate block.
+  zh: 按时间顺序列出动作节拍（下坡、压弯、180度跳、黄油滑、干净停止），再以纪录片写实风格加入物理与连贯性要求。结尾用独立段落补充光线与环境氛围。
+prompt: |
+  A young snowboarder drops into an alpine terrain park, carves smoothly down the slope, performs a controlled 180° jump and freestyle butter, then finishes with a clean stop. Ultra-realistic winter sports documentary, physically accurate snowboard physics, authentic human movement, natural English lip-sync, bright winter daylight, immersive mountain ambience, and seamless story continuity throughout.

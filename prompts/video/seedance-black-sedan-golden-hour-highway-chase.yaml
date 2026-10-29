@@ -1,0 +1,52 @@
+id: seedance-black-sedan-golden-hour-highway-chase
+title:
+  en: Black sedan chase on golden hour highway
+  zh: 金色时刻高速公路上的黑色轿车追逐
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- car-chase
+- shot-list
+- reference-image
+- slow-motion
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2107838928992489968
+  credit: Zar⭕on
+  captured: '2026-10-29'
+  posted: '2026-10-07'
+video: https://x.com/Xaroon_x/status/2107838928992489968
+notes:
+  en: A timed shot list gives each beat its own lens, camera move and slow-motion cue, so the model cuts through the sequence in order. An @image1 reference locks the hero's face and clothing across every shot, and the shared style block keeps the look consistent.
+  zh: 按时间段列出每个节拍的镜头、焦段、运镜和慢动作指令，让模型按顺序逐段执行。@image1 参考图锁定主角的脸和服装，统一的风格段保证所有镜头的画面一致。
+prompt: |
+  30 seconds | 16:9 | image1 = Main Character
+
+  STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic ARRI ALEXA LF look, real stunt photography, natural motion blur, light film grain. Golden-hour sun from camera-left throughout. Slow motion only at the two crashes.
+
+  **CHARACTERS:** Hero = exact character from @image1 (same face, hair, build, clothing in every shot). His car: black modern Mercedes sports sedan. Chasers: red sports coupe and matte-grey SUV. Black rifle on the passenger seat.
+
+  **LOCATION:** Packed city road with buses, trucks and overpasses, opening onto a long highway at golden hour.
+
+  **00:00–00:03** Low rear-quarter chase shot, 28mm, fast tracking. The Mercedes weaves at high speed through dense traffic, overtaking cars, buses and trucks. The red coupe and grey SUV are both clearly visible behind it, also overtaking through traffic. Hero faintly visible through the rear windshield.
+
+  **00:03–00:05** Close-up, 85mm, handheld push-in. @image1 hero grips the wheel, jaw tense, eyes flick to the mirror.
+
+  **00:05–00:08** Low front-quarter tracking, 28mm. The Mercedes slips through a gap between a bus and a box truck by inches, then whip pan.
+
+  **00:08–00:11** Side-profile tracking, 35mm. The Mercedes launches off a raised ramp, goes airborne and lands in a shower of sparks, cones scattering.
+
+  **00:11–00:14** SLOW MOTION, low rear three-quarter, 35mm, slow orbit. The hero swerves clear and the red coupe clips a truck, spins and rolls once. The whole crash stays fully in frame, clear and sharp, with glass and debris glittering in the sun. Rack focus from the Mercedes to the wreck.
+
+  **00:14–00:16** Extreme close-up, 100mm macro. His eyes in the mirror, the grey SUV small in the reflection. Smash cut.
+
+  **00:16–00:18** Wide crane-style rise, 24mm. The Mercedes bursts onto an open highway, the SUV closing in.
+
+  **00:18–00:20** Interior insert, 35mm. He steers with his left hand and grabs the rifle from the passenger seat with his right.
+
+  **00:20–00:23** Over-the-shoulder, 50mm Steadicam. He leans out of the window and aims at the SUV's front tire, with a single muzzle flash.
+
+  **00:23–00:26** SLOW MOTION, low side angle, 35mm. The tire bursts and the SUV flips and rolls across the highway in sparks and dust, fully visible. Mercedes sharp in the foreground.
+
+  **00:26–00:28** Close-up, 85mm, slow push-in. @image1 hero gives a slow, confident victory smile and a small nod.

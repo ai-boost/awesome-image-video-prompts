@@ -1,0 +1,31 @@
+id: h3-purple-anime-poster-assembles-layers
+title:
+  en: Purple anime poster assembles layer by layer
+  zh: 紫色动漫海报逐层拼装成动画
+model: MiniMax H3
+mode: image-to-video
+category: anime
+tags:
+- poster-animation
+- chibi-anime
+- sound-design
+- parallax
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2084519725405483220
+  credit: LudovicCreator
+  likes: 45
+  captured: '2026-10-29'
+  posted: '2026-08-04'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/LudovicCreator/status/2084519725405483220
+notes:
+  en: The prompt builds the scene in a fixed order, border first, then labels, then the world layers, then the hero, and pairs each reveal with a named sound cue. A preservation clause (exact layout, same text, no redesign) keeps the source poster intact while the motion is added.
+  zh: 提示词按固定顺序搭建画面：先边框，再文字标签，接着是场景层次，最后是主角入场，并为每一步出现配上指定的音效。结尾的保持约束（版式不变、文字不变、不重绘）让原海报在加入动效时保持完整。
+prompt: |
+  Animate the source artwork as a **10-second energetic chibi anime poster assembly**, preserving the deep indigo-purple background, neon pink, cyan and yellow palette, glossy anime illustration, characters, typography, decorative border and exact original layout. Begin on the empty purple background, then draw the outer border and corner markers with quick glowing strokes; introduce the small labels, Japanese text, numbering and interface graphics through playful pop-ins, slides and type-on animation, each paired with light arcade clicks, bubbly typing sounds and soft digital chimes.
+
+  Build the central world in layers: floating islands rise into position, clouds expand outward, the moon fades in, towers and airships drift into place, and sparkles scatter across the scene. Assemble the chibi robot and flying cat with quick bouncy entrances, then launch the main hero from deep inside the poster toward the camera with strong 3D parallax, allowing his shoe, hand and hair to briefly extend beyond the inner frame before settling into the original composition.
+
+  Reveal the Japanese title with a bold elastic impact, followed by the English labels, release date, IMAX line and footer icons appearing sequentially. Add subtle looping life after assembly: blinking eyes, gently moving hair and clothing, small robot antenna motion, the cat’s tail bouncing, airships floating, clouds drifting and stars twinkling. Finish with a soft camera push-in, one bright starburst behind the title and a clean hold on the completed poster, keeping every element sharp and readable. No redesign, no distorted faces, no changing text, no full scene transformation, no aggressive camera rotation.
+  2/2

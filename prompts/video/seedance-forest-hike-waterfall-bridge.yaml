@@ -1,0 +1,25 @@
+id: seedance-forest-hike-waterfall-bridge
+title:
+  en: Hiker crosses forest bridge toward hidden waterfall
+  zh: 徒步者穿过山林木桥走向隐秘瀑布
+model: Seedance 2.5
+mode: text-to-video
+category: nature
+tags:
+- hiking
+- forest
+- waterfall
+- documentary
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2089219802598658291
+  credit: nawalsehar
+  captured: '2026-10-29'
+  posted: '2026-08-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2089219802598658291
+notes:
+  en: A named follow cam move and an ordered sequence of beats (trail, bridge, waterfall) give the model one continuous shot with a clear destination. Explicit daylight, ambience and English lip sync cues set the documentary tone.
+  zh: 明确的跟拍镜头和按顺序排列的动作节点（小径、木桥、瀑布）让模型生成一个有明确目的地的连续长镜头。光线、环境音和英语口型同步等描述设定了纪实风格。
+prompt: |
+  A young traveler hikes through a lush mountain forest, crosses a wooden bridge over a flowing stream, and reaches a stunning waterfall hidden among moss-covered rocks. Ultra-realistic travel documentary, authentic hiking movement, realistic environmental physics, natural English lip-sync, bright daytime lighting, immersive forest ambience, and seamless story continuity throughout.

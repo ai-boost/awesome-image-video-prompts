@@ -1,0 +1,38 @@
+id: seedance-luxury-ugc-sunglasses-review
+title:
+  en: UGC creator reviews luxury sunglasses on a sunlit bed
+  zh: UGC 创作者在阳光卧室里点评奢侈品太阳镜
+model: Seedance 2.5
+mode: reference-to-video
+category: commercial
+tags:
+- ugc
+- product-review
+- reference-images
+- lip-sync
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2086286356201066501
+  credit: Synthia
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+video: https://x.com/AIwithSynthia/status/2086286356201066501
+notes:
+  en: Reference images lock the character and the three products, then each spoken line is tied to a named camera action so the handheld feel, macro shots and lip sync stay in order. Sequencing the beats from box to mirror to close-up keeps the product consistent across the cuts.
+  zh: 用参考图锁定人物与三件商品的外观，再把每句台词与一个明确的镜头动作对应，让手持手机的真实感、微距特写和口型同步在整段视频里保持有序。按开箱、镜前试戴、特写的顺序排列节拍，能保证商品在各个镜头中前后一致。
+prompt: |
+  Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded sunglasses, retail box, and leather carrying case as locked product references. Maintain perfect product consistency, including the frame shape, lenses, hinges, colors, materials, and proportions.
+
+  Create an ultra-realistic UGC luxury creator review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.
+
+  The video begins with the woman sitting on the bed beside the retail box and leather case. Smiling at the camera, she says, "I genuinely wasn't expecting to love these this much." She picks up the box, opens it naturally, reveals the leather case, then slowly removes the sunglasses while continuing, "The packaging already feels incredibly premium."
+
+  She rotates the sunglasses slowly in front of the camera, showing the frame, hinges, and lenses as natural reflections glide across the surface. She smiles and says, "The finish feels amazing, and they're incredibly lightweight."
+
+  She puts on the sunglasses, stands up, and walks toward a large full-length mirror. Looking at her reflection, she adjusts the frame naturally and says, "Honestly... they look so good, and they're really comfortable on the eyes, even in bright sunlight."
+
+  She turns slightly left and right so the sunglasses catch the sunlight from different angles before removing them with a smile. Walking back to the bed, she places the sunglasses beside the leather case and retail box, then picks them up one last time and holds them beside her face.
+
+  Looking directly into the camera, she smiles warmly and says, "Definitely one of my favorite accessories this year." The camera slowly pushes in on the sunglasses before fading out.
+
+  Ultra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro product cinematography, realistic reflections, detailed frame textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no logos, no watermarks, no on-screen text on it

@@ -1,0 +1,175 @@
+id: h3-rome-paper-map-route-reel
+title:
+  en: Paper map route opens Rome travel reel
+  zh: 纸质地图路线开场的罗马旅行短片
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- travel
+- editorial
+- timed-shots
+- paper-transition
+source:
+  name: '@FutureVibesAi on X'
+  url: https://x.com/FutureVibesAi/status/2096549119234085017
+  credit: Future Vibes AI - Educator
+  likes: 38
+  captured: '2026-10-29'
+  posted: '2026-09-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/FutureVibesAi/status/2096549119234085017
+notes:
+  en: Timestamped beats (0 to 2.5s, 2.5 to 7s) split the reel into shots, and a separate STYLE block fixes palette, film texture and lens behaviour across every cut. Opening on a physical object, a paper map with a drawn route line, gives the model a concrete starting frame to transition from into aerial footage.
+  zh: 带时间戳的分段节拍（0 到 2.5 秒、2.5 到 7 秒）把短片拆成镜头，单独的 STYLE 段落统一每个镜头的配色、胶片质感和镜头特性。开场用一张带手绘路线的纸质地图作为具体的起始画面，便于之后从实物过渡到航拍画面。
+prompt: |
+  Create a 15-second, 4K, 16:9 ultra-fast luxury cinematic reel of ROME, ITALY. Blend ancient Roman grandeur, modern Italian street culture, premium fashion-editorial filmmaking and experimental motion graphics.
+
+  The entire reel should feel like pages of an expensive Italian travel magazine suddenly coming alive.
+
+  0–2.5s — HISTORY COMES ALIVE
+
+  Start extremely close on an old cream-colored paper map of Rome lying on a table.
+
+  A thin hand-drawn black route line rapidly travels across the map.
+
+  Camera follows the line at high speed.
+
+  The map suddenly transforms into a REAL aerial view of Rome using a seamless paper-to-reality transition.
+
+  Camera dives toward the Colosseum.
+
+  Massive elegant typography appears INSIDE the architecture using realistic depth masking:
+
+  “ROMA”
+
+  Behind it, enormous translucent Roman numerals:
+
+  “MMXXVI”
+
+  Tiny editorial text animates around the frame:
+
+  “41.9028° N / 12.4964° E”
+  “ROMA / ITALIA”
+  “LA CITTÀ ETERNA”
+
+  VFX: architectural blueprint lines briefly reconstruct the Colosseum's missing sections, showing it complete for half a second before dissolving back into the present-day ruins.
+
+  2.5–7s — ITALIAN LIFE
+
+  Beat accelerates.
+
+  Camera races beside a classic Vespa through a narrow Roman street.
+
+  WHIP PAN →
+
+  Espresso pouring into a tiny ceramic cup in extreme macro.
+
+  MATCH CUT →
+
+  Trevi Fountain water splashes directly toward camera and becomes the transition.
+
+  FLASH →
+
+  Italian fashion model walks confidently past historic architecture.
+
+  FAST PUSH-IN →
+
+  Fresh pasta twists around a fork.
+
+  SNAP ZOOM →
+
+  Pantheon ceiling.
+
+  Camera suddenly shoots upward through the opening.
+
+  Elegant floating typography locks onto objects:
+
+  “ESPRESSO”
+  “STORIA”
+  “MODA”
+  “ROMA”
+
+  Thin arrows, handwritten Italian annotations, postage stamps and tiny coordinates appear like an animated luxury travel journal.
+
+  7–12s — ROMAN CHAOS
+
+  Music DROPS.
+
+  Editing becomes extremely aggressive.
+
+  COLOSSEUM → VESPA → PASTA → STATUE → ESPRESSO → TREVI → FASHION → STREET → PANTHEON.
+
+  Each clip lasts only 0.2–0.35 seconds.
+
+  Then FREEZE FRAME.
+
+  A Roman statue becomes isolated from the background like a magazine cutout.
+
+  Huge typography slides BEHIND the statue:
+
+  “2000 YEARS.”
+
+  Another frame violently stacks over it:
+
+  “STILL ALIVE.”
+
+  The screen tears horizontally like ripped magazine paper.
+
+  Three moving vertical panels appear simultaneously:
+
+  ANCIENT ROME | STREET LIFE | ITALIAN STYLE
+
+  Panels slam together on the beat.
+
+  Typography rapidly flashes:
+
+  “STORIA.”
+  “PASSIONE.”
+  “BELLEZZA.”
+  “ROMA.”
+
+  VFX: analog film burns, photographic flash frames, paper textures, subtle dust, handwritten marks, frame numbers, red editorial circles and fast speed ramps.
+
+  12–15s — THE ETERNAL CITY
+
+  Suddenly everything becomes quiet.
+
+  Golden-hour aerial rises slowly above the Colosseum.
+
+  Modern Rome stretches endlessly into the background.
+
+  For one second, a subtle transparent reconstruction of ancient Rome overlays the modern city — ancient temples and structures briefly appearing where they once stood.
+
+  Then the reconstruction disappears.
+
+  Huge elegant serif typography emerges behind the Colosseum:
+
+  “ROME WASN’T BUILT
+  IN A DAY.”
+
+  Tiny handwritten text underneath:
+
+  “Some cities are visited.
+  Rome is remembered.”
+
+  Camera continues rising.
+
+  A flock of birds crosses frame.
+
+  Sunlight catches the lens.
+
+  Hard cut to cream paper.
+
+  Small final stamp:
+
+  “ROMA / ITALIA”
+
+  STYLE:
+  Premium Italian fashion editorial meets historical documentary and modern travel commercial. Cream, terracotta, deep red, warm gold and rich Mediterranean shadows. 35mm film texture, subtle halation, realistic motion blur, natural lens flares, tactile paper graphics and sophisticated typography.
+
+  CAMERA:
+  Drone dives, FPV sweeps, whip pans, snap zooms, macro photography, orbit shots, low-angle tracking and aggressive speed ramps. No static shots.
+
+  VFX:
+  Depth-masked typography, Roman architectural reconstruction

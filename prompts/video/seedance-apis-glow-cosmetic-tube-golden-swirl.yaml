@@ -1,0 +1,24 @@
+id: seedance-apis-glow-cosmetic-tube-golden-swirl
+title:
+  en: Golden swirl wraps white APIS GLOW tube
+  zh: 金色漩涡环绕白色 APIS GLOW 软管
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- cosmetics
+- product-ad
+- macro
+- liquid-swirl
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2095713859000729956
+  credit: Lavinia
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+video: https://x.com/laviniavelle/status/2095713859000729956
+notes:
+  en: Splits the commercial into an ordered shot list (pump macro, cheek application, model holding the tube, closing hero shot) so each cut has one job. Naming the exact label text and the closing liquid swirl keeps the product name readable in the final frame.
+  zh: 将广告拆成有顺序的镜头清单（按压泵头微距、脸颊涂抹、模特手持产品、结尾主视觉），每个镜头只承担一个任务。明确写出标签文字和结尾的金色液体漩涡，让成品画面中的产品名保持清晰可读。
+prompt: |
+  High-end cosmetic product commercial, 8K resolution, cinematic lighting, studio setup with neutral beige tones. A blonde model wearing a strapless white top extends a white tube with gold accents labeled "APIS GLOW" directly toward the camera. Extreme close-up shot of a thumb pressing down on the pump dispenser, squeezing out a drop of smooth white cream. Macro shot of the white cream being smoothly applied and gently spread onto a woman's glowing cheek, highlighting realistic skin texture and moisture. Cut to the model holding the tube next to her face, smiling gracefully. Conclude with a dynamic product shot of the white and gold cosmetic tube standing centered against a warm, radiant background, wrapped in a shimmering, golden liquid swirl with flying droplets Professional commercial cinematography, soft focus depth of field, sleek aesthetic.

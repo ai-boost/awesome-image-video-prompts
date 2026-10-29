@@ -1,0 +1,24 @@
+id: seedance-riverside-boat-physics-demo
+title:
+  en: Woman steps onto wooden boat at golden hour
+  zh: 女子在金色时刻踏上木船
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- physics
+- timed-beats
+- golden-hour
+- river
+source:
+  name: '@Lianaalane on X'
+  url: https://x.com/Lianaalane/status/2090372863631225290
+  credit: liana
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+video: https://x.com/Lianaalane/status/2090372863631225290
+notes:
+  en: The prompt splits the 15 seconds into timed beats, each naming one physical event (walk, push off, drop, throw, splash) with its cause and effect. It also fixes mass, scale and position across frames, which keeps objects from drifting or clipping.
+  zh: 提示词把15秒拆成按秒计时的分段，每段写明一个物理事件（行走、推船、落球、抛球、溅水）及其因果。同时要求质量、尺度和位置在整段视频中保持一致，避免物体漂移或穿模。
+prompt: |
+  Create an ultra-realistic cinematic 15-second vertical 9:16 video demonstrating real-world physics through one continuous, believable sequence. Scene: a young woman walks along a riverside carrying a small ball and approaches a wooden boat floating near the shore during golden hour. From 0–3 seconds, she walks naturally toward the boat; her footsteps demonstrate gravity, weight, friction, balance, inertia, and realistic acceleration and deceleration. Loose hair and clothing react naturally to wind and air resistance. From 3–6 seconds, she gently pushes the boat into the water and steps inside. The boat moves backward as a realistic reaction to her push, demonstrating Newton’s third law and conservation of momentum. Her body shifts slightly because of inertia as the boat accelerates, while friction and water drag gradually reduce the boat’s motion. From 6–9 seconds, she drops the ball inside the boat; gravity causes it to fall with realistic acceleration, bounce once according to its elasticity and collision physics, and settle because of friction. From 9–12 seconds, she throws the ball forward; the ball follows a realistic curved trajectory under gravity and air resistance while the moving boat continues forward because of momentum. The ball lands on the water, creating a realistic splash, ripples, displacement, surface tension, buoyancy, and fluid-dynamic interaction. From 12–15 seconds, the boat continues gliding naturally, creating a realistic wake behind it as water resistance and drag gradually reduce its speed. Throughout the entire video, accurately simulate Newton’s three laws, gravity, inertia, momentum, conservation of momentum, conservation of energy, friction, acceleration, deceleration, collision forces, elasticity, mass, weight, air resistance, drag, buoyancy, pressure, surface tension, fluid dynamics, displacement, and realistic cause-and-effect interactions. Every movement must have believable physical consequences and correct timing. Objects must maintain consistent mass, scale, position, texture, and physical properties from frame to frame. Use realistic water reflections, shadows, wind movement, natural motion blur, physically accurate lighting, photorealistic materials, cinematic depth of field, smooth camera movement, and professional film quality. No impossible movement, no floating objects, no teleportation, no sudden unexplained acceleration, no object clipping, no distorted anatomy, no duplicated objects, and no violation of realistic physics. Total duration exactly 15 seconds.

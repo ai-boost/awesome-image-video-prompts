@@ -1,0 +1,49 @@
+id: h3-laundromat-washer-miniature-storm
+title:
+  en: Laundromat washer drum holds a miniature storm
+  zh: 洗衣机滚筒里藏着一座微型风暴海洋
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- surreal
+- laundromat
+- timed-beats
+- sound-design
+source:
+  name: '@opener_ai on X'
+  url: https://x.com/opener_ai/status/2084075915706052621
+  credit: Jin.B
+  likes: 20
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/opener_ai/status/2084075915706052621
+notes:
+  en: One continuous handheld push toward the washer keeps the shot unbroken while timed beats build the reveal. The negative prompt confines the surreal element to the drum so the laundromat stays photorealistic, and the sound cues track the twist.
+  zh: 一个连续的手持推进镜头贯穿全程，并用分段时间节点安排揭示节奏。负面提示把超现实元素限定在滚筒内，使洗衣店保持写实，音效提示也与画面反转同步。
+prompt: |
+  [1] FORMAT
+  Create a 15-second, 16:9 surreal live-action scene inside a quiet laundromat at night.
+
+  [4] BEATS
+  [0–3s] Slow handheld push toward a running front-loading washing machine.
+  [3–6s] Inside the drum, the water becomes a miniature stormy ocean with waves, lightning, and a tiny lighthouse.
+  [6–11s]The lighthouse beam shines through the glass as the storm grows stronger.
+  [11-15s]The door suddenly opens. Only ordinary wet laundry falls onto the floor.
+
+  [5] CAMERA
+  One continuous handheld push-in, ending on the falling laundry.
+
+  [6] LIGHT
+  Cold flickering fluorescent lights, wet glass reflections, deep blue storm light inside the washer, realistic phone-camera texture.
+
+  [8] AUDIO
+  Audio: washing-machine rumble, water splashes, distant thunder, one door click, and wet laundry hitting the floor.
+  BGM: a subtle 15-second mystery drone, building from 4 seconds and stopping abruptly when the door opens.
+
+  [9] NEGATIVE
+  Keep the laundromat fully photorealistic. The miniature ocean exists only inside the washing machine.
+  No people, text, subtitles, logos, watermarks, monsters, or cartoon styling.
+
+  #minimaxh3 #hailuoai

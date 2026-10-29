@@ -1,0 +1,140 @@
+id: seedance-coronation-modern-man-fixes-crown
+title:
+  en: Kneeling prince before king in throne room
+  zh: 王座厅中跪拜的王子与站立的国王
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- comedy
+- medieval
+- character-lock
+- dialogue
+source:
+  name: '@Caden_Flux on X'
+  url: https://x.com/Caden_Flux/status/2109652904864829898
+  credit: Caden_Flux
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Caden_Flux/status/2109652904864829898
+notes:
+  en: Three uploaded character sheets are locked as references, and the prompt lists the traits each character must keep. A timed beat sheet with exact dialogue and audio cues, plus a strict negative list, keeps the comedy understated.
+  zh: 提示词锁定三张上传的角色设定图作为参考，并逐条写明每个角色需保留的特征。分段时间轴配合明确的台词与音效提示，以及严格的负面约束，让喜剧效果保持克制。
+prompt: |
+  THE CORONATION — 20-SECOND CINEMATIC COMEDY
+
+  MODEL: Seedance 2.5
+  DURATION: 20 seconds
+  ASPECT RATIO: 16:9
+  STYLE: Photorealistic live-action medieval fantasy film with subtle absurdist comedy.
+  REFERENCE IMAGES AND CHARACTER LOCK
+  Use the uploaded King character sheet, Prince character sheet, and Random Man character sheet as the definitive visual references.
+  King: Preserve his exact face, gray-streaked hair, beard, crown, and burgundy royal outfit.
+
+  Prince: Preserve his exact face, hairstyle, navy-and-gold coronation outfit, blue cloak, and crown once placed.
+
+  Random Man: Preserve his exact face, hairstyle, modern casual outfit, and body proportions.
+
+  Maintain consistent character identities, costumes, lighting, and the layout of the throne room throughout the entire video.
+  LOCATION AND ATMOSPHERE
+  An enormous medieval royal throne room with towering stone pillars, golden chandeliers, tall stained-glass windows, red velvet banners, and a magnificent golden throne. The royal court stands silently on either side of a red carpet.
+
+  The atmosphere is extremely serious and emotionally grand, like the climax of an epic fantasy film. Warm golden sunlight streams through the windows. The music is majestic, with a full orchestral score.
+
+  The modern man must look completely out of place in this medieval setting.
+
+  SHOT 1 — THE MOMENT OF CORONATION
+
+  0–5 seconds
+
+  Wide cinematic establishing shot of the royal throne room. The prince kneels on a cushion before the king. The king stands solemnly in front of him, holding an ornate golden crown with both hands.
+
+  The court watches in absolute silence.
+  Cut to a medium close-up of the king slowly raising the crown above the prince's head.
+
+  The king speaks in a deep, solemn voice:
+
+  KING: "Today, you become king."
+
+  The orchestral music swells dramatically. The prince bows his head with complete seriousness.
+
+  SHOT 2 — THE WRONG MAN ENTERS
+
+  5–9 seconds
+
+  Just as the king is about to lower the crown, a casually dressed modern man in a dark hoodie, jeans, and sneakers walks into the royal ceremony from the side of the hall.
+
+  He walks directly between the king and prince as though he belongs there.
+  The king freezes with the crown suspended in midair. The prince remains kneeling, looking slightly confused. The courtiers stare in silent disbelief.
+
+  The modern man barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
+
+  The orchestral music abruptly softens into an awkward, sustained note.
+
+  SHOT 3 — THE UNEXPECTED FIX
+
+  9–14 seconds
+
+  In one continuous, clearly visible action, the modern man casually takes the crown from the king's hands.
+
+  He notices a small paper price tag hanging from the crown, removes it, and slips it into his pocket. He then gently straightens the prince's crooked collar and nudges the royal throne a few inches into better alignment with the carpet.
+  His movements are practical, quick, and completely unbothered.
+
+  The king stands frozen, visibly bewildered but trying to preserve his royal dignity. The prince looks from the man to his father, unsure whether he is allowed to move.
+
+  The man steps back, examines his work, and gives one satisfied nod.
+
+  RANDOM MAN: "Much better."
+
+  Deliver the line casually, in a natural conversational voice, without a dramatic pause or exaggerated comic delivery.
+
+  SHOT 4 — BACK TO BUSINESS
+
+  14–17 seconds
+
+  The modern man turns around and casually walks out of the throne room the same way he entered.
+
+  No one stops him. Nobody speaks.
+  The king slowly follows him with his eyes, then looks down at the crown in his hands as if trying to understand what just happened.
+
+  The prince remains kneeling in the exact same position.
+
+  The man exits the frame completely.
+
+  SHOT 5 — THE CORONATION CONTINUES
+
+  17–20 seconds
+
+  Cut to a cinematic medium close-up of the king taking a slow breath, regaining his composure, and carefully positioning himself to continue the ceremony.
+
+  He raises the crown again.
+  The prince bows his head.
+
+  The orchestral music resumes its original majestic intensity, as if the interruption never happened.
+
+  KING: "Today… you become king."
+
+  End immediately on the king's perfectly serious face.
+
+  Cut to black.
+
+  CAMERA AND EDITING
+
+  Use professional cinematic framing, smooth controlled camera movements, realistic depth of field, natural facial micro-expressions, and clean film-style cuts. Establish the room before moving into medium shots and close-ups. Make the modern man's entrance and practical actions easy to see.
+
+  Keep the comedy understated and driven by timing, awkward silence, and the contrast between the epic ceremony and the man's mundane behavior.
+
+  AUDIO DESIGN
+
+  Majestic orchestral music during the coronation, subtle footsteps and clothing movement, a slight musical interruption when the man enters, a soft paper rustle as he removes the price tag, and a return to full orchestral grandeur for the final line.
+
+  All dialogue must be clearly audible, naturally delivered, and spoken in English. No narration, no subtitles, no extra dialogue, and no random background voices.
+
+  STRICT NEGATIVE CONSTRAINTS
+
+  No cartoon effects, no slapstick falls, no exaggerated facial expressions, no character morphing, no identity changes, no costume changes, no duplicated characters, no extra limbs, no floating objects, no random camera transitions, no modern objects apart from the man's clothing and the tiny price tag, and no characters looking directly into the camera.
+
+  The king, prince, and courtiers must treat the event as a real interruption to a serious royal ceremony. The modern man must remain completely calm and behave as though fixing the coronation is an ordinary task.
+
+  FINAL CREATIVE DIRECTION: Make it look like a genuine, high-budget medieval fantasy movie that has been interrupted by a man who thinks he is responsible for fixing continuity errors. The audience should find the situation funny without the characters turning it into a comedy performance.

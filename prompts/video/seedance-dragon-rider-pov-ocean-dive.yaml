@@ -1,0 +1,32 @@
+id: seedance-dragon-rider-pov-ocean-dive
+title:
+  en: First person view of a dragon above sea cliffs
+  zh: 第一人称视角骑乘巨龙俯瞰海崖
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- dragon
+- pov
+- ocean
+- sound-design
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2087007818721423855
+  credit: Nexora
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+video: https://x.com/frametheory058/status/2087007818721423855
+notes:
+  en: The shot is written as a rider-mounted POV, with named gear (gloves, bracers, chain reins, studded saddle) that anchors the camera to a body. A timed beat sheet pairs each stage of the dive with its own score cue and SFX, so the sequence moves from calm to launch to underwater silence and back with a clear rhythm.
+  zh: 镜头以骑手身上的第一人称视角书写，并列出手套、护腕、链条缰绳和钉饰马鞍等装备，让摄像机贴合身体运动。按时间段拆分动作，每个阶段都配有对应的配乐和音效，使画面从平静、起飞到水下寂静再到浮出水面，节奏清晰连贯。
+prompt: |
+  Create a 30-second vertical 9:16, 24fps, 8K-quality photorealistic live-action fantasy sequence from a first-person rider POV. A massive original obsidian-crimson dragon with individually detailed scales, subtle dark mottling, molten-gold eyes, volcanic-black swept-back horns, blade-like dorsal fins, burgundy-red translucent wings and faint ember-like fissures across its body. Rider wears black leather gloves, dark-green sleeves and weathered leather bracers, holding heavy chain reins from a worn brown studded saddle.
+
+  Begin with the dragon calmly breathing on a wet emerald coastal cliff; it slowly turns toward camera and the rider gently pets its neck. Suddenly it lowers its body, launches across the grass and leaps from the cliff. Dive steeply toward the grey-green ocean, deploy huge wings with realistic membrane movement, then skim just above the water with spray hitting the lens. Perform a dramatic high-speed bank around a sea stack, then plunge directly underwater. Brief dark-teal underwater silence with bubbles and faint crimson glow, followed by a powerful eruption through the ocean. Finish with a calm glide above foggy water as the dragon slowly turns and looks toward the rider.
+
+  Use physically accurate anatomy, weight, gravity, wing aerodynamics, water physics, scale deformation, wind and environmental interaction. Natural rider-mounted camera movement, realistic motion blur, lens droplets, focus breathing, subtle handheld vibration, cinematic depth of field, soft overcast lighting, HDR, restrained film grain and natural cinematic color grading.
+
+  Audio: atmospheric drone → intimate cello → rising orchestral tension → massive launch/flight score → intense percussion during the bank → muffled underwater audio → epic orchestral return during emergence → soft cello/piano ending. Layer detailed ASMR/SFX: dragon breathing, scales, leather, reins, claws scraping soil, wind, wingbeats, water spray, bubbles, ocean impact and a deep natural dragon roar.
+
+  Make it indistinguishable from expensive real live-action cinema. No AI look, cartoon, anime, game CGI, plastic textures, fake physics, neon glow, oversaturation, distorted anatomy, extra limbs, text or watermark.

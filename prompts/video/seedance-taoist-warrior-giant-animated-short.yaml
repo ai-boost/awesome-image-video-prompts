@@ -1,0 +1,62 @@
+id: seedance-taoist-warrior-giant-animated-short
+title:
+  en: Taoist warrior and giant in misty mountains
+  zh: 道士女战士与巨人在云雾山中
+model: Seedance 2.5
+mode: reference-to-video
+category: dialogue
+tags:
+- taoist-warrior
+- giant
+- animated-short
+- comedy-dialogue
+source:
+  name: '@usamaworld1 on X'
+  url: https://x.com/usamaworld1/status/2088146871713689825
+  credit: Xavier Collins
+  captured: '2026-10-29'
+  posted: '2026-08-14'
+video: https://x.com/usamaworld1/status/2088146871713689825
+notes:
+  en: Timed scenes with spoken lines and a reference image for each character keep the designs consistent across cuts. Camera moves and ambient sound cues are written separately, so the model gets clear shot and audio instructions.
+  zh: 按时间分段写场景，每段写明台词并附上角色参考图，让角色在各个镜头中外观保持一致。镜头运动和环境音效分开描述，模型能清楚地获得画面与声音的要求。
+prompt: |
+  Create a 30-second cinematic animated short featuring two original fantasy characters: a young female Taoist warrior and her gigantic reluctant giant partner.
+  Visual style:high-end Western animated feature film,stylized,realism,expressive characters,cinematic,lighting,detailed environments,polished 3D animation,natural physics,expressive facial animation,comedic timing,dynamic cinematic camera movement.
+  Keep the character designs completely consistent throughout entire video.
+  Scene 1,0-5s:The New Target
+  Begin with a quiet atmospheric mountain landscape.
+  A gentle mountain breeze passes through the frame.The camera slowly tilts downward, revealing top of a large woven bamboo conical hat [from reference image]
+  The girl's long dark hair moves naturally in the wind beneath the hat.The camera continues slowly downward until her face [from reference image] is revealed.
+  She looks completely calm and slightly annoyed.
+  She picks up the phone and says in a casual,matter-of-fact voice:He's the new target? Got it.
+  She rolls her eyes.
+  Subtle wind,distant birds,soft mountain ambience,cinematic silence before the dialogue.
+  Scene 2,5-11s:The Reluctant Partner
+  Cut to a dramatic wide shot.
+  The female Taoist stands on  edge of a huge mountain cliff [from reference image].Vast mountains,mist and clouds stretch into distance.
+  Behind her,the gigantic blue-gray stone-skinned giant [from reference image] is crouching on ground,taking a rest.His enormous body towers over landscape.
+  She casually turns toward him and says:
+  Time to work.
+  The giant slowly raises his head with an exhausted expression.
+  He looks deeply annoyed.
+  I haven't rested enough yet!
+  His voice is deep and powerful, but his expression should feel more like an exhausted coworker complaining about overtime than an angry monster.
+  The Taoist remains completely unfazed.
+  Scene 3,11-23s:The Car Argument
+  Cut to Taoist walking confidently toward a rugged vintage open-top convertible parked nearby.
+  She gets into driver's seat,starts the engine and casually says:
+  Come on,come on.Let's go.
+  The giant stands behind the vehicle,looking at tiny car with disbelief.
+  He complains:
+  Why do YOU get to drive while I have to run again?
+  The Taoist looks back at him without sympathy.
+  Then build a car big enough for you.
+  She immediately turns forward and drives away.
+  The giant stands frozen for a beat.
+  The vehicle disappears down the mountain road,leaving a small cloud of exhaust and dust drifting directly into his face.
+  He slowly wipes dust from his face with an irritated expression.
+  Comedic timing,exaggerated facial animation,but grounded physical movement.
+  Scene 4,23-30s:The Road Trip
+  Cut to a beautiful cinematic mountain highway.
+  The Taoist drives tiny open-top convertible through the winding road.

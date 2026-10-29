@@ -1,0 +1,32 @@
+id: seedance-clay-pirate-ship-stop-motion
+title:
+  en: Clay transforms into a miniature pirate ship
+  zh: 黏土逐步变成微型海盗船
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- stop-motion
+- clay
+- miniature
+- macro
+source:
+  name: '@aynellex on X'
+  url: https://x.com/aynellex/status/2109504237852139774
+  credit: Aynelle
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+video: https://x.com/aynellex/status/2109504237852139774
+notes:
+  en: The prompt lays out the build in ordered stages (hull, masts, sails, details, reveal) and names the camera move for each, so the model has a clear sequence to follow. The closing list of consistency and anatomy constraints keeps the ship design and the hands stable.
+  zh: 提示词按顺序分阶段描述船体、桅杆、船帆、细节到最后的拉远镜头，每个阶段都指定镜头，让模型有清晰的步骤可循。结尾的一致性和手部约束用来稳住船的造型与手部动作。
+prompt: |
+  Create a cinematic, ultra-realistic 15-second stop-motion-style miniature crafting video showing the complete transformation of brown clay into a detailed pirate sailing ship. Begin with an overhead close-up of colorful modeling clay, sculpting tools, and a blue cutting mat on a wooden worktable. In the background, show a miniature tropical beach scene with a bright blue sky, fluffy white clouds, and palm trees.
+
+  Start with realistic human hands kneading and shaping brown clay into the curved hull of a small wooden-style sailing ship. Use close-up shots to show the hands carefully sculpting the bow, stern, deck, and layered wooden planks. Transition to the construction of the ship's masts, adding thin wooden poles, crossbars, tiny ropes, and intricate rigging.
+
+  Next, show delicate cream-colored fabric sails being attached to the masts one by one. Gradually add miniature windows, decorative railings, cabin details, and a white ornamental figurehead at the front of the ship. Use macro shots to emphasize the tiny handcrafted details and realistic material textures.
+
+  End with the completed miniature pirate ship mounted on a sculpted blue ocean base with detailed white waves. Slowly pull the camera back to reveal the finished ship against the tropical beach backdrop, creating a magical miniature world.
+
+  Ultra-detailed miniature craftsmanship, realistic human hands, tactile modeling clay, handcrafted wooden textures, tiny rope rigging, cream fabric sails, intricate ship details, miniature ocean waves, vibrant blue sky, soft natural lighting, shallow depth of field, macro photography, smooth camera movements, satisfying step-by-step transformation, charming stop-motion aesthetic, consistent ship design throughout, physically plausible hand movements, vertical 9:16 composition, 15 seconds, no text, no logos, no watermark, no distorted hands, no floating objects, no inconsistent ship details, no plastic CGI appearance.

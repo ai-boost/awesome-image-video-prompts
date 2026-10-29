@@ -1,0 +1,25 @@
+id: seedance-korean-convenience-store-friends-vlog
+title:
+  en: Two friends pick snacks at a convenience store fridge
+  zh: 两位女生在便利店冰柜前挑选食物
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korean
+- street-vlog
+- convenience-store
+- documentary
+source:
+  name: '@ayzalnooor24521 on X'
+  url: https://x.com/ayzalnooor24521/status/2109850322286076180
+  credit: ayzalnooor24521
+  captured: '2026-10-29'
+  posted: '2026-10-13'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ayzalnooor24521/status/2109850322286076180
+notes:
+  en: The prompt splits the clip into ordered beats (store, night street, walking away) so each scene change is explicit. Fixed wardrobe for each girl plus handheld camera, ambient sound and documentary cues keep the look consistent and natural.
+  zh: 提示词把片段按顺序拆成便利店、夜晚街头、离开三段，每次场景切换都写得很明确。两人的服装逐一固定，再加上手持镜头、环境声和纪实风格的描述，让人物前后一致、画面自然。
+prompt: |
+  Created a 30-second ultra-realistic cinematic Korean street vlog, vertical 9:16 format. Beautiful Korean girl with natural Korean beauty, fair clear skin, delicate facial features, dark eyes, and black hair tied in a casual ponytail, wearing a simple black oversized sweatshirt, loose dark track pants, and black-and-white sneakers. Her female friend wears a burgundy zip-up jacket and dark pants. The video begins inside a Korean convenience store, where the girl casually selects food from a refrigerated display while her friend stands nearby. She then pays at the checkout counter, holding a bottle of water and snacks. The scene transitions to a nighttime Korean street, where both girls sit at a small blue outdoor plastic table and chairs under cool streetlights, enjoying their snacks, checking their phones, drinking water, and chatting naturally with relaxed expressions. One girl smiles while looking at her phone, and the other takes a bite of her food and drinks from her water bottle. Near the end, one girl stands up, gathers her belongings, and walks away, leaving the empty blue chairs and table behind as her friend moves into the distance. Authentic Korean everyday lifestyle, candid moments, natural body movements, realistic facial expressions, subtle handheld camera movement, soft focus, shallow depth of field, convenience-store fluorescent lighting, cinematic blue nighttime tones, realistic skin texture, natural ambient street sounds, documentary-style storytelling, high-quality details, consistent character appearance throughout, no exaggerated acting, no artificial beauty filters, no text, no subtitles, no watermark.

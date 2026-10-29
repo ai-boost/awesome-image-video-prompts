@@ -1,0 +1,61 @@
+id: seedance-korean-explorer-ruins-gameplay
+title:
+  en: Explorer walks through ivy-covered ruin archway
+  zh: 探险者穿过爬满常春藤的废墟拱门
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- gameplay
+- ue5
+- character-consistency
+- boss-fight
+- hud
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2101180666205577408
+  credit: SimplyAnnisa
+  captured: '2026-10-29'
+  posted: '2026-09-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/SimplyAnnisa/status/2101180666205577408
+notes:
+  en: A locked character block (face, outfit, props) is repeated as a consistency anchor, and the sequence is written as numbered beats with exact HUD text in quotes so each gameplay step reads clearly. The closing negative list bans camera sweeps, slow motion and lens flare so the footage looks like a real player capture.
+  zh: 用固定的角色设定段（脸、服装、道具）作为一致性锚点，并把流程写成带编号的段落，HUD 文字用引号给出原文，让每一步玩法清晰可读。结尾的负面约束禁止运镜扫动、慢动作和镜头光晕，使画面像真实玩家录制的游戏画面。
+prompt: |
+  Create a 30-second photorealistic AAA third-person action-adventure gameplay video, 16:9, resembling real playable Unreal Engine 5 footage, not a cinematic trailer.
+
+  PROTAGONIST — STRICT CONSISTENCY:
+  Young Korean female explorer, mid-20s, natural oval Korean face, dark almond eyes, long dark hair in a low ponytail, athletic realistic build. Same face and body throughout. She wears a burgundy-red sleeveless utility jacket, charcoal long-sleeve shirt, olive cargo pants, rugged boots, climbing gloves, tactical backpack, rope/carbiners, silver magnetic bracelet on right wrist, and curved blade at right hip. Realistic dirt, cloth, hair, and physics.
+
+  CAMERA & STYLE:
+  Normal third-person player-controlled camera behind/slightly above her. Natural movement, realistic animation, shadows, materials, physics, lighting, and environmental interaction. No cinematic camera sweeps, slow motion, excessive DOF, lens flare, title cards, logos, subtitles, or watermark.
+
+  GAMEPLAY SEQUENCE
+
+  1. Abandoned Settlement
+  She enters a ruined island settlement with overgrown stone buildings, broken walkways, boats, cliffs, and a distant watchtower. HUD: “Investigate the Abandoned Settlement.”
+
+  2. Traversal
+  She climbs platforms and ledges, runs across a beam, jumps a gap, and reaches the watchtower route. Show stamina usage. HUD: “Reach the Abandoned Watchtower.”
+
+  3. Hidden Mechanism
+  She discovers a cracked stone wall, activates an ancient mechanism, and opens a hidden underground entrance. Interaction prompt: “Investigate.”
+
+  4. Ancient Lift Puzzle
+  In a huge underground chamber, she uses her magnetic bracelet to move metal counterweights onto the correct tracks. Ancient conduits activate and the stone lift starts moving. HUD: “Restore the Ancient Lift.”
+
+  5. Boss Fight
+  The lift reaches a temple chamber where a massive stone-and-bronze guardian awakens. She draws her curved blade and fights. HUD: “Defeat the Ruin Sentinel.” Enemy health bar and lock-on indicator appear.
+
+  6. Weak Point Mechanic
+  Guardian attacks → she dodges → uses the magnetic bracelet to pull off damaged armor → glowing weak point exposed → she strikes it with her blade → boss health decreases. Clearly show DODGE → MAGNET → WEAK POINT → ATTACK gameplay.
+
+  7. Flood Escape
+  Ancient pipes rupture and water floods the chamber. HUD: “Escape the Flooded Chamber.” She runs, jumps broken floors, avoids falling debris, climbs a wall, and reaches the surface.
+
+  8. New Mission
+  She reaches a rocky overlook above the ruined island. A mysterious ancient sky temple is visible beyond the mountains. HUD: “Mission Complete: Reach the Surface.” Then: “Investigate the Sky Temple.” She walks toward the new objective, clearly transitioning into the next playable mission.
+
+  FINAL REQUIREMENTS:
+  Same woman, outfit, face, hairstyle, equipment, environment, and visual quality throughout. Prioritize playable gameplay readability over cinematic beauty. Photorealistic UE5 quality, realistic physics and animation, functional minimal HUD, no gore, no dialogue captions, no logos, no watermark.

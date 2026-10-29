@@ -1,0 +1,24 @@
+id: seedance-japan-pov-morning-commute
+title:
+  en: Walking POV down station steps onto a seaside train
+  zh: 第一人称视角走下车站台阶登上海边列车
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- pov
+- japan
+- one-take
+- train
+source:
+  name: '@higgsfield_ai on X'
+  url: https://x.com/higgsfield_ai/status/2083155162475217058
+  credit: Higgsfield AI 🧩
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/higgsfield_ai/status/2083155162475217058
+notes:
+  en: Timed beats with a fixed camera spec, handheld micro motion and a listed ambient audio bed keep the whole thing one continuous shot. Banning color grading and neon keeps the look grounded in real morning light.
+  zh: 按时间分段的节拍，加上固定的镜头设定、手持微晃动和列明的环境音，使整段保持为一个连续镜头。禁止调色和霓虹等风格化效果，让画面贴近真实的清晨光线。
+prompt: |
+  POV — Morning Commute in Coastal Japan | Ultra-Realistic, One Continuous Take  First-person POV, no cuts, one unbroken handheld-feeling shot from our own eyes on the way through a small seaside town. Ultra-photorealistic, phone-in-hand realism — natural camera micro-shake, subtle head bob with each step, occasional glance down at our own hands and shoes. 4K, shallow but natural depth of field, real morning light, no color-grading fantasy, no neon.  Beat 1 — Descending into the station (0–4s): We walk down worn concrete station stairs into a small coastal-town metro entrance, one hand loosely gripping a canvas bag strap that swings into the lower frame. Fluorescent tint mixes with daylight bleeding from the entrance behind us. Commuters pass in soft focus; we hear muffled announcements and the shuffle of footsteps.  Beat 2 — The orange cat (4–9s): We slow and crouch — the horizon dips as our POV lowers toward the ground. An orange tabby sits by a ticket-gate pillar, tail curled. Our hand (natural skin texture, slightly bitten nails, cuff of a sleeve) reaches into frame and gently strokes its head. The cat leans into the touch, eyes half-closing, ears flicking. We hold there a beat, warm and quiet.  Beat 3 — Boarding, settling by the window (9–14s): We rise, the horizon lifts, and we step through the train doors just as the chime sounds. POV turns and moves toward a window seat; we sit, and the frame settles against the glass. A faint silhouette of us ghosts over the view. The train pulls away with a gentle lurch.  Beat 4 — The shimmering sea (14–20s): Through the window, the town gives way to open coastline. Sunlight scatters across the water in thousands of moving sparkles — real specular glitter, not CGI bloom. Utility poles and wires strobe past in the foreground. We rest our chin lightly (subtle downward frame tilt), just watching.  Beat 5 — Rails into the sea (20–25s): The track curves and runs so close to the shore that the rails seem to vanish straight into the water — the sea fills nearly the whole frame, waves lapping right up to the ballast. Foam catches the light. We're gliding along the edge of the ocean, the horizon line steady, gulls crossing in the distance. Hold on this until the shot ends.  Technical spec: continuous POV, first-person, no cuts or transitions, natural handheld micro-motion, realistic morning ambient audio (station hum, cat, train chime, rail clatter, distant surf), authentic Japanese coastal-railway setting (Shimonada / Enoden-style seaside line), overcast-to-clear soft daylight, photoreal skin and fabric texture, 2.39:1 or 16:9, ultra-realistic.

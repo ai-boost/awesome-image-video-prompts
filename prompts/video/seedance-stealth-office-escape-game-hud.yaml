@@ -1,0 +1,58 @@
+id: seedance-stealth-office-escape-game-hud
+title:
+  en: Woman sprints through office with stealth game HUD
+  zh: 女子在带游戏HUD的办公室里潜行逃脱
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- stealth
+- game-hud
+- tracking-shot
+- office
+source:
+  name: '@AIwithJessica on X'
+  url: https://x.com/AIwithJessica/status/2104392249400594823
+  credit: AIwithJessica
+  captured: '2026-10-29'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithJessica/status/2104392249400594823
+notes:
+  en: Timed beats (0 to 7s, 7 to 13s and so on) work as a shot list, and the HUD is pinned to fixed screen positions so it stays stable. The PTZ camera turn is written as a physical motor action, so the CCTV twist shows on screen instead of relying only on overlay text.
+  zh: 按时间段（0到7s、7到13s等）写成分镜，并把HUD固定在屏幕的固定位置，使界面保持稳定。明确要求监控摄像头实际转动，而不是只靠界面文字表现反转，让反转在画面中真实可见。
+prompt: |
+  SETTING & CAMERA
+  One continuous modern American office: entrance → security desk → badge gate → glass corridor → open office → whiteboard aisle → Jessica’s desk. Morning light, hard floors, realistic office furniture. A white PTZ security camera is already mounted above/right of her desk and must remain there throughout.
+
+  0–25.5s: continuous third-person tracking, usually 1.5m behind Jessica’s right shoulder. Realistic follow-lag, whip-pans to threats, no hidden cuts or teleportation.
+  25.5s: hard cut to fixed frontal medium close-up showing Jessica, her desk, and the PTZ camera.
+
+  HUD: Minimap bottom-left; STAMINA/COMPOSURE top-left; DETECTION top-center; SPRINT/CROUCH/INTERACT/SLIDE bottom-right. Opening: “LATE — 12 MIN” / “OBJECTIVE: REACH YOUR DESK UNDETECTED.”
+
+  0–7s — SECURITY GUARD
+
+  Jessica sprints through the entrance with her bag. The guard notices her. She hides behind a large planter instead of confronting him, dropping low as he approaches with his radio. Detection rises 58% → 91%. When he looks away, she quietly slips out, badges through the gate, and continues. The guard notices the closing gate but does not chase. Detection falls to 34%.
+
+  7–13s — HR CART
+
+  HR pushes a tall cart loaded with folders toward Jessica. She accidentally brushes the glass, then quickly crouches behind the cart and moves with it, staying hidden as HR checks both sides. She circles behind the cart when HR looks away, then breaks cover and runs once the corridor is clear. HR never clearly sees her. Detection peaks at 96%, then drops to 40%.
+
+  13–18s — DEPARTMENT HEAD DISCOVERY
+
+  The department head appears at a T-junction and notices Jessica's reflection through the glass. He turns toward her. A large solid-red “!” flashes exactly twice above him. Only afterward, DETECTION turns red: “ALERT.” He calls, “Hey! Hold on!” Jessica turns and says, “Oh, crap!” He follows her route.
+
+  18–23.5s — WHITEBOARD ESCAPE
+
+  Jessica races through the open-office aisle, grabs a wheeled whiteboard, and pulls it diagonally across his path. He brakes before hitting it and immediately circles around. Jessica squeezes through the remaining gap between the whiteboard and desk using a low side-slide, keeping her bag tight to her body, then immediately gets up and runs. He remains behind her.
+
+  23.5–25.5s — FALSE SUCCESS
+
+  Jessica reaches her desk, drops into the chair, puts the bag underneath, and starts typing while catching her breath. The department head searches the rear aisle but cannot see her. DETECTION falls to 0%. Green “MISSION COMPLETE” appears. Jessica smiles with relief.
+
+  25.5–30s — CCTV TWIST
+
+  At 26.2s, the pre-installed PTZ camera physically whirs, pans and tilts toward Jessica, then its red indicator illuminates. She slowly looks up toward it and freezes. Remove “MISSION COMPLETE.” Show “CCTV DETECTED”, followed by red “MISSION FAILED.” She mutters, “You've got to be kidding me.” Hold her defeated expression, the red-lit camera, and failure HUD until the end.
+
+  PHYSICS & RESTRICTIONS
+  Real footsteps, shoe friction, breathing, bag movement, glass reflections, radio, badge gate, cart/whiteboard/chair wheels, keyboard sounds, and PTZ motor. No teleportation, clipping, frictionless movement, clones, identity changes, distorted hands, plastic skin, impossible reflections, or furniture hitting people. Only the department head pursues Jessica. The guard and HR associate never chase her. The CCTV camera must physically turn; the HUD must not replace the physical camera action.

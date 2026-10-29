@@ -1,0 +1,26 @@
+id: h3-plaster-studio-teal-gown-voiceover
+title:
+  en: Woman in teal gown among plaster statues
+  zh: 身着青绿长裙的女子坐在石膏雕像间
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- fashion
+- sculpture-studio
+- voiceover
+- portrait
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2111479729819652111
+  credit: Talia
+  likes: 39
+  captured: '2026-10-29'
+  posted: '2026-10-17'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/TaliaAariz/status/2111479729819652111
+notes:
+  en: The prompt fixes the set with a dense list of props, then gives an ordered shot sequence (profile, turn to camera, face and hand close-ups) so the model has clear beats to follow. The Italian voiceover is specified as audio, which sets the tone without adding on-screen speech.
+  zh: 先用大量道具细节固定场景，再按顺序给出侧脸、转向镜头、面部和手部特写等镜头节拍，让模型有清晰的动作顺序。旁白指定为意大利语画外音，用来定调，而不是画面中的台词。
+prompt: |
+  A cinematic fashion video set in a dusty sculpture studio filled with white plaster classical busts and statues: a beautiful young woman with long dark wet-look wavy hair sits on a white pedestal in a sheer teal off-shoulder draped dress with midriff cutouts, wearing a large silver pendant and chunky dark red jewelry, slowly shifting between elegant poses—looking down in profile, turning toward the camera with a soft gaze, close-ups of her face and manicured hands touching her shoulder and cheek—while Italian voiceover gently admires her beauty and presence.

@@ -1,0 +1,184 @@
+id: seedance-paper-miniature-moonlight-world
+title:
+  en: Paper miniature landscape transforms under rising moonlight
+  zh: 纸质微缩风景在升起的月光下变化
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- paper-craft
+- miniature
+- macro
+- moonlight
+source:
+  name: '@Emmma__0 on X'
+  url: https://x.com/Emmma__0/status/2090659771749912711
+  credit: Emma
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+video: https://x.com/Emmma__0/status/2090659771749912711
+notes:
+  en: A timed shot list pins each segment to a lens (85mm macro, 50mm tracking, 35mm upward) so the camera grammar stays clear. The visual language block asks for visible fibres, folds and natural imperfections, which keeps the motion reading as handmade craft rather than digital effects.
+  zh: 按时间段逐镜指定镜头焦段（85mm 微距、50mm 跟拍、35mm 仰拍），让镜头语法清晰可控。视觉语言段要求可见纸纤维、折痕与自然瑕疵，使运动读起来像手工定格，而非数字特效。
+prompt: |
+  DURATION: 30 seconds
+  ASPECT RATIO: 16:9
+  STYLE: Premium handcrafted fantasy / cinematic miniature film
+  CAMERA: Macro cinema photography, 35mm / 50mm / 85mm
+  FRAME RATE: 60 fps with gentle slow motion
+
+  CONCEPT
+
+  Inside a quiet artist's studio sits a completely handmade paper landscape.
+
+  A tiny paper town rests beneath a folded paper moon.
+
+  When the moon rises, the miniature world begins changing.
+
+  The entire story is told through paper, light, shadows, and miniature movement.
+
+  ---
+
+  00:00–00:05 — THE STUDIO
+
+  Begin with a wide cinematic shot of a dark artist's studio at night.
+
+  A large wooden table occupies the center.
+
+  On it sits an elaborate miniature paper landscape.
+
+  Paper mountains.
+
+  Tiny houses.
+
+  Small trees.
+
+  A winding paper river.
+
+  The room is illuminated only by soft moonlight from a nearby window.
+
+  Camera slowly pushes toward the miniature world.
+
+  ---
+
+  00:05–00:09 — THE MOON
+
+  Cut to an 85mm macro shot.
+
+  A small folded paper moon rests behind the miniature mountains.
+
+  Its surface contains delicate hand-drawn patterns.
+
+  A soft light gradually appears behind it.
+
+  The moon begins rising slowly.
+
+  Its light spreads across the paper landscape.
+
+  ---
+
+  00:09–00:14 — THE TOWN
+
+  Move into a 50mm tracking shot.
+
+  As moonlight reaches the miniature town, tiny paper windows begin glowing one after another.
+
+  The paper river catches the light.
+
+  Small paper trees cast long shadows.
+
+  Everything remains physically handcrafted.
+
+  Visible paper fibers.
+
+  Tiny folds.
+
+  Natural imperfections.
+
+  ---
+
+  00:14–00:19 — THE TRANSFORMATION
+
+  The camera moves slowly overhead.
+
+  The paper mountains gently unfold.
+
+  They become taller.
+
+  The river extends through newly revealed valleys.
+
+  Paper bridges unfold across the landscape.
+
+  The transformation should feel like stop-motion craftsmanship rather than digital magic.
+
+  Keep every movement delicate and believable.
+
+  ---
+
+  00:19–00:24 — THE SKY
+
+  Transition into a 35mm upward-looking composition.
+
+  The paper moon continues rising.
+
+  Behind it, the studio ceiling gradually disappears into a miniature paper sky.
+
+  Tiny folded stars unfold one by one.
+
+  The miniature world now appears enormous.
+
+  The boundaries between the table and the sky become impossible to distinguish.
+
+  ---
+
+  00:24–00:27 — THE REVEAL
+
+  Camera slowly pulls backward.
+
+  The entire miniature landscape is now visible.
+
+  The paper moon hangs above the completed world.
+
+  A gentle paper cloud moves across the scene.
+
+  Everything is calm.
+
+  ---
+
+  00:27–00:30 — FINAL IMAGE
+
+  Extreme wide shot.
+
+  Reveal that the entire miniature landscape has folded itself into a single beautiful paper artwork.
+
+  The paper moon becomes the center of the composition.
+
+  The studio is visible around it.
+
+  The moonlight slowly fades.
+
+  One tiny paper star remains illuminated.
+
+  CUT TO BLACK.
+
+  No text.
+
+  No logo.
+
+  No characters.
+
+  ---
+
+  VISUAL LANGUAGE
+
+  Handcrafted miniature cinematography.
+
+  Real paper fibers.
+
+  Visible folds.
+
+  Natural cardboard edges.
+
+  Subtle imperfections.
+
+  Physical shadows.

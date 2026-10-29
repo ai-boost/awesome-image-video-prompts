@@ -1,0 +1,40 @@
+id: seedance-overhead-follow-cluttered-apartment
+title:
+  en: Overhead camera follows woman through cluttered apartment
+  zh: 俯拍跟随女子穿过杂乱公寓
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- overhead-shot
+- long-take
+- neon-lighting
+- apartment-interior
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2103675623030108474
+  credit: mehvishs25
+  captured: '2026-10-29'
+  posted: '2026-09-26'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/mehvishs25/status/2103675623030108474
+notes:
+  en: A locked overhead camera described as one uninterrupted take keeps the framing fixed as she moves through rooms. Each beat restates the camera state (still centered, still pinned overhead), which stops the view from drifting between actions.
+  zh: 俯拍镜头被描述为一个不间断的长镜头，在她穿过各个房间时始终保持画面固定。每个动作段落都重申镜头状态（仍然居中、仍然俯视），避免视角在动作切换中漂移。
+prompt: |
+  A tired woman in  <image1> in a loose tank top and sleep shorts, slow habitual movement. Slightly smeared eyeliner, bare feet, heavy posture, detached face.
+  ENVIRONMENT: A cramped cluttered apartment with an unmade mattress, scattered clothes, a narrow hallway, a damp bathroom with dim tile reflections, and a tiny kitchen crowded with dirty dishes and empty bottles. Warm practical lamps mix with sickly green neon leaking through blinds and door glass, turning the rooms into a humid late-night maze.
+  MOOD: Detached routine turns quietly uncanny, as if an unseen presence is floating above her and waiting for her to notice.
+  COLOR LOGIC: Matrix Green Look
+  CAMERA: POV overhead follow in a strict bird's eye view, locked directly above the top of her head at all times, perfectly centered over her body from start to finish, floating smoothly with no shake, tilt, angle drift, or side offset, passing through ceilings and door frames as one uninterrupted camera event. 24mm wide, digital clean look, locked overhead tracking package throughout.
+  SCENE:
+  She wakes on the mattress. Sits up under the lens.
+  Still centered under the lens, reaches to the floor. Picks up the cigarette and lighter. Places the cigarette between her lips. Lights it. Drops the lighter on the mattress. Stands up with the cigarette still with her.
+  Under the same overhead lock, crosses the cluttered room.
+  The lens tracks directly above her into the narrow hallway. Enters the bathroom.
+  Still pinned overhead, keeps the cigarette in her right hand. Extends that arm away from the running water. Leans on the sink. Turns on the tap with her left hand. Splashes water onto her face with her left hand.
+  The overhead follow carries her back out of the bathroom into the hallway. Moves along the hallway past the bathroom door. Turns into the tiny kitchen.
+  Still centered under the camera, keeps the cigarette with her. Reaches across the dirty dishes with her free hand. Picks up a glass from the counter.
+  Stops exactly under the lens. Holds the cigarette in her right hand and the glass in her left hand.
+  The lens stays fixed above her. Freezes. Looks right. Looks left. Takes a drag from the cigarette. Snaps her head straight up into the lens. Blows smoke toward the camera. Locks eye contact.
+  SFX: lighter flick, inhale, faint city hum, refrigerator buzz, soft bare footsteps, water run. Sodium amber particles, toxic green neon reflect off tile, smoke, bottles, and damp surface.

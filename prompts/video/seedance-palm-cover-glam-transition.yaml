@@ -1,0 +1,70 @@
+id: seedance-palm-cover-glam-transition
+title:
+  en: Palm cover hides cut to glam reveal
+  zh: 手掌遮挡转场后的妆造揭晓
+model: Seedance 2.5
+mode: image-to-video
+category: vlog
+tags:
+- beauty-transformation
+- selfie-pov
+- palm-transition
+- bedroom
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2110646664872579102
+  credit: Chaemate_
+  captured: '2026-10-29'
+  posted: '2026-10-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Chaemate_/status/2110646664872579102
+notes:
+  en: A palm filling the lens hides the cut from handheld selfie POV to a steady propped shot, so the look change reads as one snap. Locking character, outfit and setting in every shot and marking exact timestamps keeps identity and room layout stable across the transition.
+  zh: 手掌贴满镜头作为遮挡，把手持自拍视角切换到稳定的固定机位，让妆造变化像一次瞬间完成。每个镜头都锁定人物、服装和场景，并标注精确时间点，使转场前后的身份与房间保持一致。
+prompt: |
+  TITLE: "Blush Switch": Heart Knit Makeup Transition
+  FORMAT: 16:9 horizontal, 15 seconds, ultra-realistic live-action, photorealistic beauty transformation, cozy bedroom selfie-POV cinematography. NO AUDIO, no music, no voice, no sound design. Rhythm comes purely from visual timing so music can be added in editing.
+
+  REFERENCES
+  Image A (bare-face start frame) is the first frame. Image B (glam look) is the reference for everything after the transition. Both show the same woman: keep her face, eye color, features, skin tone and hair exactly as shown. No identity drift.
+
+  CHARACTER LOCK
+  Young adult woman with long copper-ginger hair and soft rose-pink streaks (two face-framing strands on each side of the curtain bangs, plus streaks through the lengths). The pink streaks stay visible in EVERY shot, before and after the transition. The pink is a muted rose-pink, matte, never glowing, never neon.
+
+  OUTFIT LOCK
+  Before: oversized cream cotton loungewear top. After: loose, soft, modest high-neck knit sweater in pastel pink and cream with many small scattered heart motifs, long sleeves, fully opaque, not tight, no cutouts.
+
+  SETTING
+  Cozy aesthetic bedroom, morning light: cream bedding on a bed, floral pillow, a cream plush toy on the pillow, polaroids on the wall, a trailing plant, a round gold-framed mirror, dried flowers in a glass vase, a warm-white table lamp, soft golden window light. Palette: cream, blush pink, pearl, warm beige. The setting is identical in every shot.
+
+  HAND AND BODY RULES (strict)
+  Exactly two arms and two hands in frame at all times. Only one hand is active at a time while the other rests still in her lap or on the bedding. No object is held except the plush toy in one shot. Every hand has five natural fingers. Hands never overlap her face in a way that hides it for longer than a moment, except during the lens cover.
+
+  TIMELINE
+
+  0:00–3:00 | Bare Face (matches Image A)
+  Close selfie POV, shot from a low angle as she lies propped on the bed. Her left arm holds the camera, showing only the sleeve and forearm at the lower-left edge of the frame, with no extra hand. Bare face, natural skin with faint freckles, bare lips, a messy cream claw-clip bun with loose strands and pink streaks around her face. She blinks slowly with sleepy eyes, wrinkles her nose in a tiny sniff, and nudges a loose pink strand off her cheek with the back of her right hand. Her eyes find the camera and she gives a soft, shy half-smile. She slowly raises her right palm toward the lens.
+
+  3:00–4:00 | Transition: Palm Cover
+  Her palm fills the whole lens (a clean dark-skin-tone frame). On a sharp snap the hand pulls away and the look has changed instantly: Image B's glam Douyin makeup, hair half-up in soft waves with a small side braid and pearl pins, the pastel heart knit sweater. She is now sitting upright on the bed and the camera is steady as if propped on a stand, with no selfie arm in view. A soft warm-white light flicker covers the cut, with no sparkles. The face and pink streaks stay identical.
+
+  4:00–7:00 | Beauty Reveal (matches Image B)
+  She rests her cheek on her right hand, fingers softly open, as in Image B. She does a slow blink to show the champagne eyelid shimmer and curled lashes, then gives a gentle closed-lip smile. With her left fingertips she lifts the side braid slightly to show the pearl pins and pink streaks, then lets it fall. A slow push-in shows the glass skin, peach-pink blush and glossy rose lips.
+
+  7:00–10:00 | Playful Gestures
+  Camera eases back to half-body. Her left index finger draws a small heart in the air toward the camera while her right hand rests in her lap. She then presses both index fingers lightly into her cheeks in a dimple pose with a bright smile, then lowers them and places one finger to her lips in a playful "shh" gesture with a sparkling look. Soft, natural, unhurried movement.
+
+  10:00–13:00 | Plush Peek-a-Boo
+  She reaches with her right hand, picks up the cream plush toy from the pillow, and hugs it against the heart sweater. She hides half her face behind the plush, peeks over its top with just her eyes and pink bangs visible, giggles silently, then lowers it to reveal a full smile. Her left hand stays relaxed on the bedding.
+
+  13:00–15:00 | Final Beat
+  She sets the plush down beside her, tucks a pink strand behind her ear with her right hand, leans slightly toward the camera and softly taps the lens with one fingertip with a laugh. She pulls back into a calm, warm smile and holds. The last frame holds on her face and the heart sweater for a clean ending.
+
+  CAMERA
+  0:00–3:00 handheld selfie POV with a gentle natural shake. After the transition, a steady propped camera with only slow push-ins and pull-backs. Close-up to half-body, shallow depth of field, soft focus pulls. A single continuous angle in the same room, no mirror shots, no cutaways.
+
+  COLOR GRADE
+  Soft cream, blush pink, pearl white and warm beige. Natural, airy, warm golden light, no harsh saturation.
+
+  NEGATIVE PROMPT
+  No audio, no music, no subtitles, no text overlays, no watermark, no extra hands, no third hand, no extra arms, no duplicated limbs, no extra fingers, no deformed hands, no merged fingers, no identity change, no face distortion, no missing pink streaks, no hair color change, no neon colors, no neon lights, no glowing hair, no oversaturated glow, no revealing clothing, no transparent fabric, no tight clothing, no flickering, no morphing background, no changing room layout, no unnatural movement, no slow transition, 16:9 only.

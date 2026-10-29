@@ -1,0 +1,24 @@
+id: seedance-chef-levitating-food-kitchen
+title:
+  en: Chef holding steak plate in busy kitchen
+  zh: 厨师端着牛排餐盘穿过忙碌厨房
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- kitchen
+- slow-motion
+- food
+- dialogue
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2088108029522911384
+  credit: Noor
+  captured: '2026-10-29'
+  posted: '2026-08-14'
+video: https://x.com/noorlewisx/status/2088108029522911384
+notes:
+  en: 'The prompt works as a beat sheet: a fixed character and plate, one explicit slow-motion effect beat, then a return to the plate and a spoken line from a second character. Naming the slow motion and the gentle landing keeps the physics readable, and the closing style list sets the look.'
+  zh: 提示词按节拍编排：先固定人物和餐盘，再给出一个明确的慢动作效果，最后回到餐盘并由另一角色说一句台词。点明慢动作和轻柔落回让运动更易读，结尾的风格词统一画面质感。
+prompt: |
+  A young female chef in a white double-breasted chef’s coat stands in the middle of a busy professional kitchen, holding a large white plate with medium-rare steak, roasted potatoes, yellow sauce, and microgreens. Suddenly the food slowly levitates and floats in mid-air above the plate in dramatic slow motion while she looks shocked. The pieces gently land back perfectly on the plate. She then presents the dish to a stern older male head chef behind the pass who inspects it and says “It’s a go.” Cinematic lighting, steam, open flames, copper pans, highly detailed, realistic, film still style.

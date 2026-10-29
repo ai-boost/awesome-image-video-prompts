@@ -1,0 +1,24 @@
+id: seedance-pixel-bounty-hunter-sand-worm-chase
+title:
+  en: Pixel bounty hunter rides motorcycle past sand worms
+  zh: 像素风赏金猎人骑摩托车躲避沙虫
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- pixel-art
+- motorcycle
+- desert
+- giant-creature
+source:
+  name: '@arsalannazir07 on X'
+  url: https://x.com/arsalannazir07/status/2108570010637476194
+  credit: Marcos
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+video: https://x.com/arsalannazir07/status/2108570010637476194
+notes:
+  en: The prompt fixes the pixel art style and palette first, then lists the action beats in order (swerve, jump, harpoon, drag, slingshot, charge, explosion) so the motion has a clear sequence. Camera terms like sprite scaling and screen shake keep the action readable in motion.
+  zh: 提示词先固定像素画风和色调，再按顺序列出每个动作节拍（转向、跳跃、鱼叉、拖拽、弹射、埋炸药、爆炸），让运动有清晰的先后。精灵缩放和屏幕震动等镜头词，有助于动作在运动中保持可读。
+prompt: |
+  A lone pixel-art bounty hunter rides a skeletal motorcycle across a toxic desert while giant sand worms burst from beneath the highway, she swerves through collapsing asphalt, jumps over a burning tanker, fires an energy harpoon into the largest creature and lets it drag her across the dunes before using the chain to slingshot herself onto its head; cinematic high-detail pixel art, rich 32-bit aesthetic, multilayer parallax desert, fluid sprite animation, dramatic sprite scaling, heavy screen shake, heat distortion made from pixel dithering, orange sunset, toxic green storms, cyan weapon trails and flying debris, brutal retro-futuristic atmosphere, ending with the hunter planting a charge between the worm’s armored plates and jumping back onto the motorcycle as the creature erupts into a gigantic pixel explosion behind her.

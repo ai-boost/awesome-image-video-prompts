@@ -1,0 +1,44 @@
+id: seedance-water-game-show-platform-fall
+title:
+  en: Live water game show contestant falls into pool
+  zh: 直播水上闯关节目选手坠入泳池
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- live-show
+- water
+- game-show
+- obstacle-course
+source:
+  name: '@Inshrah_ali_ on X'
+  url: https://x.com/Inshrah_ali_/status/2098621065039647016
+  credit: Inshrah_ali_
+  captured: '2026-10-29'
+  posted: '2026-09-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Inshrah_ali_/status/2098621065039647016
+notes:
+  en: The prompt splits the 15 seconds into timed beats, each with one clear action, so the model paces the run from race to fall to reaction. Named broadcast camera language (handheld, crane, quick TV cuts) and crowd and contestant reactions make it read as a real live show instead of a single flat clip.
+  zh: 提示词把 15 秒拆成带时间码的几个节拍，每段只写一个明确动作，让模型按照奔跑、失衡、落水、反应的顺序推进。同时指定手持、摇臂和快速切换等直播镜头语言，并写明观众与选手的反应，使画面更像真实电视节目而不是单一平镜头。
+prompt: |
+  15-Second Ultra-Realistic Live Water Game Show Scene
+
+  Create a high-energy live television water game show, filmed like a premium international sports-entertainment broadcast. A confident young female contestant competes on a huge outdoor obstacle course above a massive swimming pool. Large audience stands, other contestants, cheering, dramatic stadium lighting, multiple broadcast cameras, realistic water physics, and authentic live-TV atmosphere.
+
+  0–3 sec — Game 1:
+  She races across floating platforms, jumping quickly from one platform to another while the audience and contestants cheer. She nearly slips but regains balance and reaches the checkpoint.
+
+  3–6 sec — Game 2:
+  She immediately faces a rotating obstacle and carefully times her movement, ducking under the spinning bar and climbing over a wet ramp. She lands safely, visibly determined.
+
+  6–9 sec — Game 3:
+  She tackles a narrow balance beam above the pool while moving toward the final platform. The camera cuts between her focused face, nervous contestants watching, and the cheering crowd.
+
+  9–12 sec — Game 4 / Near Victory:
+  She is only one step away from the finish platform, reaching toward the victory marker. At the last moment, the final obstacle suddenly moves, causing her to lose balance and fall dramatically into the pool. Capture a realistic splash in slow motion as the crowd reacts.
+
+  12–15 sec — Emotional Ending:
+  She resurfaces in the pool, clearly frustrated and disappointed. The other contestants look genuinely sad and shocked for her, some shaking their heads sympathetically. She angrily slaps the surface of the water several times, creating dramatic splashes, then looks toward the finish platform with determination. End on a close-up of her frustrated expression as the live-TV camera pulls back.
+
+  Visual style: photorealistic, authentic live game-show broadcast, realistic human movements, natural facial expressions, physically accurate water and obstacle reactions, dynamic handheld and crane-camera shots, quick professional TV editing, crowd reactions, dramatic but realistic lighting, 4K HDR, no CGI-looking characters, no artificial/fake appearance, no text or subtitles, no watermark.

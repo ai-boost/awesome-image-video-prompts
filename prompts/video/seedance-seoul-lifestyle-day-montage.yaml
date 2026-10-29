@@ -1,0 +1,44 @@
+id: seedance-seoul-lifestyle-day-montage
+title:
+  en: Seoul lifestyle day from door to skyline
+  zh: 首尔生活一日，从门口到天际线
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korean-lifestyle
+- seoul
+- timed-shots
+- character-consistency
+- camera-moves
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2102254554398228983
+  credit: MissDelulu9
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/MissDelulu9/status/2102254554398228983
+notes:
+  en: A timed beat-by-beat script repeats the same character description in every segment to keep her looks consistent across cuts. Each segment names its camera move (push-in, whip transition, tracking, side tracking, backward and upward pull) and the light shifts from daytime to night for a clear arc.
+  zh: 按时间段逐段写分镜，每段都重复同一角色描述来保持形象一致。每段明确指定镜头运动（推近、甩镜转场、跟拍、侧向跟拍、向后上拉），光线从白天过渡到夜晚，形成清晰的段落推进。
+prompt: |
+  Create a 30-second photorealistic, highly entertaining Korean Seoul lifestyle video featuring the SAME adult Korean woman throughout. Keep her face, hairstyle, outfit, accessories and overall appearance perfectly consistent in every shot.
+
+  Character: Adult woman with long soft dark hair, natural realistic skin, fresh minimal makeup, expressive eyes and genuinely playful facial expressions.
+
+  0–3 sec: She opens her Seoul apartment door confidently, takes one step outside, suddenly realizes she forgot something, freezes with a funny expression, turns around and runs back inside. Fast comedic camera push-in + whip transition.
+
+  3–7 sec: She comes running back outside and catches the Seoul bus at the last second. She looks at the camera with a tiny proud smile. Dynamic tracking shot.
+
+  7–11 sec: Seoul convenience store  she grabs iced coffee, a cute dessert and snacks. The dessert nearly slips from her hand, but she catches it perfectly and smiles.
+
+  11–15 sec: Subway ride through Seoul. She enjoys her dessert by the window, watches the city passing by and makes a playful expression at her reflection.
+
+  15–20 sec: Lively Korean street-food market. She tries spicy tteokbokki, reacts dramatically to the heat, laughs and grabs water while her friends tease her.
+
+  20–25 sec: Golden-hour Han River. She and her friends ride bicycles together, playfully racing and laughing. Smooth side-tracking camera.
+
+  25–30 sec: Nighttime rooftop convenience-store seating. They share snacks and dessert while Seoul glows behind them. Camera smoothly pulls backward and upward, revealing the beautiful Seoul skyline.
+
+  Style: Premium Korean lifestyle commercial × cinematic vlog, cute, playful, energetic, natural expressions, smooth camera movement, realistic Seoul locations, beautiful lighting, cinematic daylight-to-night transition, photorealistic 16:9 landscape.

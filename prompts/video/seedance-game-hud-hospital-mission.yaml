@@ -1,0 +1,66 @@
+id: seedance-game-hud-hospital-mission
+title:
+  en: Surgeon runs through hospital with game HUD
+  zh: 外科医生穿过医院，画面带游戏HUD
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- game-hud
+- hospital
+- third person
+- character-reference
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2100429151719075851
+  credit: saniaspeaks_
+  captured: '2026-10-29'
+  posted: '2026-09-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/saniaspeaks_/status/2100429151719075851
+notes:
+  en: The whole mission is written as timed beats, each with its own HUD text, and a single hard cut at 27 seconds, which gives the clip the structure of a game capture. Restating the outfit and hair (blue scrubs, cap, long straight black hair) next to the character reference keeps the same person across every beat.
+  zh: 整段任务按时间码拆成多个分段，每段配有对应的HUD文字，并且只在27秒处设一次硬切，使片子呈现游戏实录的结构。在角色参考图之外重复服装和发型描述（蓝色手术服、帽子、长直黑发），让每个分段中的人物保持一致。
+prompt: |
+  Create a 30-second ultra-realistic AAA third-person medical action game mission set inside a modern Japanese hospital, with the feel of premium GTA-style gameplay.
+  NAGI: Use the exact same NAGI identity and face from @ Image1 throughout. Young Japanese female surgeon with long straight black hair, blunt bangs, blue surgical scrubs, cap, mask, gloves, and hospital shoes. Perfect character consistency.
+
+  GAMEPLAY: One continuous playable third-person over-the-shoulder take from 0–27 seconds. Natural running, turning, grabbing equipment, opening doors, interacting with machines, and performing procedures. No montage or random cuts. One hard cut only at 27 seconds.
+
+  HUD throughout:
+  TOP LEFT: NAGI / DOCTOR LV. 12
+  TOP CENTER: MISSION: SAVE THE PATIENT
+  BOTTOM RIGHT: HEALTH: 100% / TIME: 03:42
+
+  0–4s — CHECK VITALS
+  NAGI rushes into the emergency room, checks the unconscious patient's unstable monitor, and connects the monitoring equipment.
+  HUD: OBJECTIVE 1/5 — CHECK PATIENT VITALS → OBJECTIVE COMPLETE
+
+  4–8s — STABILIZE
+  She connects an IV and adjusts the patient's oxygen support. The monitor becomes slightly more stable.
+  HUD: OBJECTIVE 2/5 — STABILIZE PATIENT → OBJECTIVE COMPLETE
+
+  8–12s — COLLECT TOOLS
+  NAGI runs to the preparation area, opens a medical cabinet, grabs a sterile surgical tray, receives another instrument from a nurse, and rushes back.
+  HUD: OBJECTIVE 3/5 — COLLECT SURGICAL TOOLS → OBJECTIVE COMPLETE
+
+  12–17s — SURGERY
+  She enters the operating room, positions herself beside the patient, surgical lights activate, and she performs the critical procedure with controlled, non-graphic movements.
+  HUD: OBJECTIVE 4/5 — COMPLETE CRITICAL PROCEDURE
+
+  17–22s — COMPLICATION
+  The monitor suddenly alarms and vital signs drop. NAGI immediately checks the monitor, adjusts support equipment, signals the team, and continues the procedure.
+  HUD: WARNING — PATIENT UNSTABLE → STABILIZE PATIENT
+
+  22–27s — SAVE PATIENT
+  NAGI completes the final step. The monitor becomes steady, the alarm stops, and the team relaxes.
+  HUD: OBJECTIVE 5/5 COMPLETE → PATIENT STABLE → SURGERY SUCCESSFUL → MISSION COMPLETE
+
+  27–30s — FINAL SHOT
+  One hard cut to a locked frontal gameplay-style shot outside the operating room. NAGI walks out exhausted but relieved and removes her mask while a nurse follows. Through the glass, the team monitors the patient.
+
+  Final HUD: MISSION COMPLETE / PATIENT SAVED / RANK: S
+
+  VISUAL STYLE: Photorealistic AAA game-engine graphics, realistic Japanese hospital, detailed medical equipment, natural character physics, realistic lighting, reflections, shadows, cloth and glove movement, subtle camera shake. No anime, cartoon, fantasy, superhero effects, or gore.
+
+  AUDIO: Hospital ambience, footsteps, monitor beeps, equipment sounds, emergency alarm, Japanese nurse/NAGI dialogue, and tense AAA game music building toward the mission completion.

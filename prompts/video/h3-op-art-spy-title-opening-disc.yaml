@@ -1,0 +1,36 @@
+id: h3-op-art-spy-title-opening-disc
+title:
+  en: Op art spy title opens on grooved disc
+  zh: 波普艺术间谍片头以纹路圆盘开场
+model: MiniMax H3
+mode: reference-to-video
+category: music-dance
+tags:
+- title-sequence
+- op-art
+- silhouette
+- beat-sync
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2085947083463295024
+  credit: WasifAI
+  likes: 43
+  captured: '2026-10-29'
+  posted: '2026-08-08'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/doctorwasif/status/2085947083463295024
+notes:
+  en: 'The prompt writes the tempo as structure: slow sparse shots that accelerate with the drum pulse, hard cuts only, and a fixed palette rotation, so every beat has a defined look. Attaching the audio as the timing source and a reference image for the character keeps the silhouette consistent across cuts.'
+  zh: 提示词把节奏写成结构：从稀疏慢镜头逐步加速到鼓点密集的快速蒙太奇，只用硬切，并固定配色轮换顺序，让每一拍都有明确画面。附上音频作为节拍依据、参考图锁定角色剪影，使多次切换中的人物保持一致。
+prompt: |
+  Using Image as the character reference and the attached modern retro-western electro track for timing, create a 60s Bond-style spy-thriller op-art anime title sequence. Every cut must land exactly on the beat. Start with slow, sparse shots and progressively accelerate into rapid-fire montage as the drum pulse intensifies.
+
+  STYLE: Flat, high-contrast pure black/white silhouette against psychedelic 1960s op-art backgrounds: concentric circles, starbursts, spirals, stripes, chevrons and kaleidoscopic patterns. Rotate through hot pink/orange, electric teal/violet, and acid yellow/magenta palettes. No realistic shading.
+
+  Use classic Bond-title compositions: walking/spinning silhouettes, gun-barrel-style irises, mirrored/kaleidoscopic duplicates, and extreme close-ups of eyes, hands and weapons. Backgrounds may swirl and morph, but all shot transitions are hard cuts only.
+
+  Use frequent half-to-one-beat freeze-frames on dramatic poses, with the character and pattern completely frozen before snapping to the next beat and palette. Alternate kinetic movement with sudden dead-stop freezes.
+
+  Add bold 1960s Bond-style geometric italic typography, spinning/tiling/zooming in sync with the music. Apply subtle analog film grain and warm, saturated vintage print grading.
+
+  ENDING: On the final hit, freeze the character in full black silhouette at center of a fully bloomed hot-pink-and-gold radiating starburst, while the title card spins/zooms into frame beside them.

@@ -1,0 +1,24 @@
+id: seedance-cyberpunk-phoenix-tea-transformation
+title:
+  en: Woman in navy cheongsam sips tea at sunset
+  zh: 身着藏青旗袍的女子在日落茶室品茶
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- cyberpunk
+- transformation
+- energy-phoenix
+- rooftop-leap
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2107709472944906671
+  credit: Lavinia
+  captured: '2026-10-29'
+  posted: '2026-10-07'
+video: https://x.com/laviniavelle/status/2107709472944906671
+notes:
+  en: The prompt reads as a shot list with one beat per sentence, opening on a close shot of the teacup so the energy phoenix emerges from a familiar object before the costume change. Naming the setting, the energy platform and the final turn to camera gives the model clear anchors for each cut.
+  zh: 提示词按镜头顺序逐句描述，从茶杯特写开始，让蓝色能量凤凰从日常物件中升起，再过渡到服装变化。每个镜头都写明场景、动作以及结尾转身面向镜头，为模型提供清晰的分镜锚点。
+prompt: |
+  Cinematic 8K video sequence, 30 seconds An elegant East Asian woman in a dark navy cheongsam sits in a luxury high rise tea room at golden hour sunset overlooking a city Close up of her teacup as steam forms a glowing blue spectral energy phoenix that emerges from the tea. The light phoenix enters her chest, swirling blue energy transforming her dress into sleek black cyberpunk tactical armor She stands on a skyscraper rooftop at night surrounded by neon billboards, flying vehicles and floating particles She sprints and leaps off the rooftop edge stepping onto a glowing blue energy platform mid air to leap across the city Lands gracefully on another high rooftop as a massive blue energy phoenix spreads its wings behind her before she turns to face the camera.

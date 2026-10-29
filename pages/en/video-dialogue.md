@@ -1,6 +1,6 @@
 # Dialogue and talking heads
 
-[Back to the list](../../README.md) · All 27 entries
+[Back to the list](../../README.md) · All 43 entries
 
 <a id="seedance-cafe-table-multi-angle-reshoot"></a>
 ### Cafe table talk reshot from thirteen new angles
@@ -859,6 +859,39 @@ MiniMax H3 · Text-to-video · Source: [@tangpanqing on X](https://x.com/tangpan
 
 </details>
 
+<a id="h3-days-of-week-calendar-lesson"></a>
+### Mascot bounces onto a blank calendar page
+
+<a href="https://x.com/Strength04_X/status/2084874623825723522"><img src="../../previews/h3-days-of-week-calendar-lesson.jpg" width="360"></a>
+
+Each day runs the same fixed beat order of name, narration, icon, action and repeat, which gives the model a reusable template. Timestamps pin every beat to a window, and a named colour per day plus a calendar-flip transition keeps the scenes consistent.
+
+MiniMax H3 · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2084874623825723522) · 71 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`kids-education`](tags.md#tag-kids-education) [`calendar`](tags.md#tag-calendar) [`narration`](tags.md#tag-narration) [`3d-icons`](tags.md#tag-3d-icons)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second animated educational video that introduces young children to the first four days of the week: Monday, Tuesday, Wednesday, Thursday.
+Learning pattern: DAY NAME → SOUND → FUN ACTIVITY ICON → PLAYFUL ACTION → DAY NAME REPEAT
+Target audience: children ages 3 to 6.
+Visual style: Same premium-cute aesthetic — pastel tones, rounded 3D icons, soft lighting, off-white background, unique glow per day, clean bold typography, gentle calendar-page-flip style transitions.
+0:00–0:01 Intro: Mascot bounces onto a soft floating calendar page, text "Let's learn the days!", tap flips to reveal Monday.
+
+▪️0:01–0:04 | Monday — School Day: Calendar page shows "Monday" in big rounded text. Narrator: "Monday. Time for school!" A tiny backpack icon bounces onto the page and wiggles happily. Word "MONDAY" highlighted in soft blue.
+
+▪️0:04–0:07 | Tuesday — Park Day: Page flips gently to Tuesday. Narrator: "Tuesday. Time to play!" A small swing icon appears and swings back and forth once. Word "TUESDAY" highlighted in soft orange.
+
+▪️0:07–0:10 | Wednesday — Art Day: Page flips to Wednesday. Narrator: "Wednesday. Time to paint!" A tiny paintbrush icon appears and draws one curved rainbow line. Word "WEDNESDAY" highlighted in soft purple.
+
+▪️0:10–0:13 | Thursday — Story Day: Page flips to Thursday. Narrator: "Thursday. Time for stories!" A small open book icon appears, pages gently flutter. Word "THURSDAY" highlighted in soft green.
+
+▪️0:13–0:15 Recap: Backpack, swing, paintbrush, book appear in four tiles with day names above. Mascot points to each; Narrator: "Monday, Tuesday, Wednesday, Thursday. Great job!" Sparkle + chime.
+```
+
+</details>
+
 <a id="h3-chun-li-seated-interview-smoky-arena"></a>
 ### Seated Chun-Li answers an interviewer about her father
 
@@ -880,6 +913,285 @@ integrated_multimodal_description: [Shot 1] Live-action, cinematic realism, post
 overall_soundscape: Faint smoke movement, subtle room tone, soft distant arena hush, light fabric rustle, subtle boot shift, and quiet breath.
 
 non_diegetic_music: Very restrained low strings and sparse piano at a slow tempo, mixed gently under the natural ambience.
+```
+
+</details>
+
+<a id="h3-cleopatra-orders-pizza-delivery"></a>
+### Cleopatra on throne meets pizza delivery guy
+
+<a href="https://x.com/Strength04_X/status/2085193166437892346"><img src="../../previews/h3-cleopatra-orders-pizza-delivery.jpg" width="360"></a>
+
+Timestamped beats lock the timing of each reaction, and the spoken lines are quoted so lip sync has exact words to follow. Setting a regal pyramid interior against a modern delivery driver builds the joke before any dialogue lands.
+
+MiniMax H3 · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2085193166437892346) · 52 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`comedy`](tags.md#tag-comedy) [`dialogue`](tags.md#tag-dialogue) [`lip-sync`](tags.md#tag-lip-sync) [`historical`](tags.md#tag-historical)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+0:00–0:04 — Medium shot inside a golden pyramid chamber. CLEOPATRA sits on her throne looking majestic. A modern pizza delivery guy in helmet and red jacket suddenly walks in holding a large pizza box.
+0:04–0:07 — Cleopatra stands up, points at the box and starts singing in a dramatic royal voice: “Pizza man, pizza man… bring the cheese across the sand!” while doing slow Egyptian hand waves.
+0:07–0:10 — The delivery guy tries hard to stay professional and say “That’ll be 12 dollars,” but his lips start trembling.
+0:10–0:13 — He can’t hold it and bursts out laughing, almost dropping the pizza.
+0:13–0:15 — Cleopatra freezes mid-hand-wave, looks at him, and completely cracks up too. Both are laughing while the pizza box tilts dangerously.
+```
+
+</details>
+
+<a id="h3-spiderman-superman-rooftop-banter"></a>
+### Spiderman and Superman trade jokes on rooftop
+
+<a href="https://x.com/ivanfioravanti/status/2095770682797760857"><img src="../../previews/h3-spiderman-superman-rooftop-banter.jpg" width="360"></a>
+
+Each speaker and his exact line are spelled out in one scene, so the model has clear turn-taking and a reversal ending to play out within a single rooftop shot.
+
+MiniMax H3 · Text-to-video · Source: [@ivanfioravanti on X](https://x.com/ivanfioravanti/status/2095770682797760857) · 44 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`dialogue`](tags.md#tag-dialogue) [`superheroes`](tags.md#tag-superheroes) [`comedy`](tags.md#tag-comedy) [`rooftop`](tags.md#tag-rooftop)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate a scene of “Spiderman vs Superman” that says, “Hey", Spiderman says to Superman, ‘Hey, we keep waiting for GPT‑6 to come out,’ and Superman says, ‘Are you? I started using it one week ago.
+```
+
+</details>
+
+<a id="h3-japanese-dialogue-school-run-river"></a>
+### Two students run to school by river
+
+<a href="https://x.com/MireilleDartois/status/2085168181648445763"><img src="../../previews/h3-japanese-dialogue-school-run-river.jpg" width="360"></a>
+
+A reference image pins both characters' faces and outfits, while the shot is fixed as a side tracking view with upper bodies framed and the running direction spelled out. Each line is labelled with its voice number and gender, which lets the model assign the Japanese dialogue to the right speaker.
+
+MiniMax H3 · Reference-to-video · Source: [@MireilleDartois on X](https://x.com/MireilleDartois/status/2085168181648445763) · 27 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`japanese-dialogue`](tags.md#tag-japanese-dialogue) [`reference-image`](tags.md#tag-reference-image) [`school-run`](tags.md#tag-school-run) [`side-tracking`](tags.md#tag-side-tracking)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A scene showing a male student wearing a green tracksuit and a female student in a sailor uniform running together on the school path along s small river.
+A shot of the two people viewed from directly the side. They are running from the right side of the frame toward the left. The frame captures their upper bodies.
+Several classmates on the way, walking to school.
+Refer to <Picture 1> for the characters.
+Voice 1(male):またワイら遅刻ちゃうか
+Voice 2(female):あと30秒！あたしらの勝ちやな！
+```
+
+</details>
+
+<a id="h3-banquet-brawl-freezes-game-master"></a>
+### Banquet brawl freezes as game master speaks
+
+<a href="https://x.com/varts_works/status/2107369186121101788"><img src="../../previews/h3-banquet-brawl-freezes-game-master.jpg" width="360"></a>
+
+The prompt builds the 15 second clip as timed beats, each tied to one dialogue line and a named lens (32mm wide, 85mm portrait, 75mm tight), so the camera moves from the frozen crowd to KAI. Each speaker gets a fixed voice block with timbre, pace and pitch kept for the whole clip, and the audio is listed cue by cue, ending on silence and a dropped napkin.
+
+MiniMax H3 · Reference-to-video · Source: [@varts_works on X](https://x.com/varts_works/status/2107369186121101788) · 21 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`dialogue`](tags.md#tag-dialogue) [`character-reference`](tags.md#tag-character-reference) [`voice-lock`](tags.md#tag-voice-lock) [`shot-timing`](tags.md#tag-shot-timing)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+添付された人物リファレンスの顔立ち、髪色、髪型、体格、衣装を正確に維持する。
+
+劇場公開用超大作実写映画、Netflix最上位オリジナル映画級、制作費50億円規模。
+
+GAME 05専用の巨大高級宴会場。
+
+乱闘によって椅子が倒れ、テーブルがずれ、料理、皿、ナプキンが床へ散乱している。
+
+15秒のシネマティックシークエンス。
+
+前シーンの直後。
+
+焦茶色センター分け、ブラウン系カーディガン、ストライプシャツ、ワイドスラックス姿のKAIがSPの動きを回避し、巨大モニターを強く見上げる。
+
+呼吸が少し乱れている。
+
+KAI：
+
+「こんなのゲームじゃないだろ！」
+
+VOICE — KAI：
+
+20代前半男性。
+
+柔らかく透明感のある中低音。
+
+緊迫時には声に強い芯が出る。
+
+明瞭な日本語。
+
+全編で同じ声質とピッチを維持。
+
+巨大モニターへ切り替わる。
+
+金髪ロングウェーブ、黒スーツ、黒インナー、シルバークロスアクセサリー姿の女性ゲームマスター。
+
+ゲームマスター：
+
+「戦闘は必要ありません。」
+
+VOICE — ゲームマスター：
+
+20代後半〜30代前半女性。
+
+低めのアルト。
+
+冷たく滑らかで落ち着いた声。
+
+ゆっくり明瞭。
+
+感情の起伏が非常に小さい。
+
+全編で同じ声質、ピッチ、話速を維持。
+
+その言葉と同時に、宴会場の動きが一斉に止まる。
+
+32mm相当のワイドショット。
+
+黒髪ロングヘア、白黒ストライプ衣装のヤクザ系女性参加者とSPが近距離で停止。
+
+MAELは低い姿勢で呼吸を整えている。
+
+LUCAS、NERO、RION、角がありピンク系衣装姿の愉快犯も動きを止める。
+
+空中を舞っていた白いナプキンだけがゆっくり床へ落ちる。
+
+約1秒の静寂。
+
+ゲームマスター：
+
+「SPの前を通る。それだけです。」
+
+全員の視線がSPと、その横にある広い通過スペースへ向く。
+
+KAIへ切り替わる。
+
+KAIは荒れ果てた宴会場を見る。
+
+倒れた椅子。
+
+割れた皿。
+
+散乱した料理。
+
+SPを見る。
+
+もう一度荒れた会場を見る。
+
+KAI：
+
+「……じゃあ俺たち、何で戦ってんの？」
+
+声は怒鳴らず、完全な脱力と素の疑問。
+
+最後はKAIが無言で立っている表情を約1秒残す。
+
+CAMERA:
+
+冒頭KAIは50mm cinema prime相当のmedium close-up。
+
+ゲームマスターは85mm相当のportrait close-up。
+
+乱闘停止は32mm相当のwide ensemble shot。
+
+最後は75mm相当でKAIのtight medium close-up。
+
+アクション後からカメラの動きを急激に静かにする。
+
+24fpsの自然な映画モーション。
+
+LIGHTING:
+
+暖かなシャンデリア光。
+
+冷たい白色トップライト。
+
+弱い赤色警告灯が徐々に消えていく。
+
+KAIの焦茶色ヘアには暖かなブラウンの階調。
+
+ゲームマスターは冷たいニュートラル光。
+
+AUDIO:
+
+BGMなし。
+
+冒頭はKAIの荒い呼吸、靴音、椅子やグラスが動く音、衣服の擦れ。
+
+ゲームマスター：
+
+「戦闘は必要ありません。」
+
+その瞬間に激しい音が一斉に止まる。
+
+その後は低い空調音。
+
+揺れているシャンデリアの微かな金属音。
+
+ナプキンが床へ落ちる小さな音。
+
+ゲームマスター：
+
+「SPの前を通る。それだけです。」
+
+KAIの最後の台詞には宴会場の自然な残響。
+
+「……じゃあ俺たち、何で戦ってんの？」
+
+台詞後、約1秒の静寂と空調音だけを残して終了。
+
+16:9 cinematic widescreen。
+```
+
+</details>
+
+<a id="h3-garage-coffee-ai-replace-question"></a>
+### Two men share coffee on a muscle car
+
+<a href="https://x.com/underwoodxie96/status/2084873926141006285"><img src="../../previews/h3-garage-coffee-ai-replace-question.jpg" width="360"></a>
+
+The prompt gives each line of dialogue its own beat and sets the timing with explicit pauses, so the deadpan humour comes from silence and eye movement rather than editing. A locked chest-height two-shot plus a list of performance rules, such as no smirks, no camera glances and no cuts, keeps the acting steady across the clip.
+
+MiniMax H3 · Text-to-video · Source: [@underwoodxie96 on X](https://x.com/underwoodxie96/status/2084873926141006285) · 19 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`deadpan-comedy`](tags.md#tag-deadpan-comedy) [`dialogue`](tags.md#tag-dialogue) [`two-shot`](tags.md#tag-two-shot) [`garage`](tags.md#tag-garage) [`street-racing`](tags.md#tag-street-racing)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an approximately 15-second, 16:9 grounded street-racing action-film scene. All dialogue is spoken naturally in English.  Late at night inside a private custom garage in an industrial area of Los Angeles, Roman and Tej sit shoulder to shoulder on the front bumper of a black high-performance muscle car. Each holds an ordinary paper coffee cup.  Several heavily modified street-racing cars surround them. Their bodywork reflects cool blue work lights and warm tungsten fixtures. A hydraulic vehicle lift slowly descends in the background. Tools occasionally clink in the distance while an engine produces a steady, low idling rumble.  The scene has the grounded texture of a street-racing action movie: dark metallic tones, a faint layer of garage haze, an oil-stained concrete floor, realistic automotive reflections, and restrained shoulder-mounted camerawork. The image should feel physical and substantial, not like a polished car commercial.  Keep the camera at chest height and begin with a steady medium two-shot. Use only subtle human-operated movement and natural breathing in the frame. There are no chases, explosions, or exaggerated actions. The humor comes entirely from the serious performances, eye contact, and pauses.  Roman turns toward Tej with a completely sincere and genuinely concerned expression. There is no irony in his performance, and he does not realize that the question might be funny. He treats it as a serious concern about the future of the entire team.  ROMAN, speaking with complete sincerity: “Do you think AI is gonna replace us?”  Tej slowly raises his eyes from his coffee cup. The camera makes an almost imperceptible push toward him. He pauses and looks directly into Roman’s eyes. Tej appears tired but composed, answering with extremely restrained deadpan delivery.  TEJ: “Roman, AI can’t replace you. Nothing can replace you.”  Roman slowly nods. His shoulders relax, and he is visibly relieved. He looks down and seriously processes the statement. He then looks back at Tej and carefully asks for confirmation.  ROMAN: “Because I’m that good?”  Tej stares at Roman without moving.  Hold a long, quiet, uncomfortable pause. Do not use music or editing to emphasize the joke. During the silence, the idling engine in the background gives a small mechanical cough before returning to its steady rumble.  Tej slowly looks down at his coffee as though searching for an escape from the conversation. He takes a small breath, then raises his eyes back to Roman.  TEJ, with an extremely flat and exhausted delivery: “...Sure. Let’s go with that.”  Roman nods with satisfaction, fully accepting the answer. Looking reassured, he takes a sip of coffee.  The camera does not follow Roman. Instead, it slowly pushes closer to Tej’s face. After his final line, hold on Tej’s expressionless face for one full beat. He looks straight ahead, his eyes communicating exhaustion, resignation, and a brief reconsideration of every life choice that brought him here.  Cut directly to black.  Performance requirements: Roman remains completely earnest and serious throughout. He never smirks, winks, looks into the camera, or recognizes the joke. Tej’s humor comes only from restrained eye movement, flat vocal delivery, and precisely timed pauses. He never rolls his eyes, makes an exaggerated expression, or visibly performs the comedy.  Audio requirements: All dialogue is delivered in natural, clear American English with accurate lip synchronization. Preserve the subtle rustle of the paper cups, the garage’s spatial reverb, distant tool sounds, and the low engine rumble. Maintain the specified pauses between lines. No background music, laugh track, narration, or subtitles.  Continuity requirements: Roman and Tej remain seated in the same positions throughout. Each coffee cup stays in its owner’s hand, with realistic wrist movement, weight, inertia, and liquid behavior. Preserve the characters’ faces, body types, clothing, hairstyles, background vehicles, lighting direction, and camera axis.  Negative prompt: exaggerated comedy acting, changing identities or faces, distorted fingers or coffee cups, rapid action editing, explosions or car chases, subtitles, text, logos, watermarks.
+```
+
+</details>
+
+<a id="h3-girl-hose-yellow-car-street"></a>
+### Tattooed girl with hose on yellow car
+
+<a href="https://x.com/ou_zhen599/status/2094423490845921745"><img src="../../previews/h3-girl-hose-yellow-car-street.jpg" width="360"></a>
+
+A reference picture locks the face, outfit and pose, and the first frame starts from that pose with no reset. Timed shot blocks with spoken lines and a closing sound list keep the cut sequence and audio clear.
+
+MiniMax H3 · Reference-to-video · Source: [@ou_zhen599 on X](https://x.com/ou_zhen599/status/2094423490845921745) · 15 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`reference-image`](tags.md#tag-reference-image) [`multi-shot`](tags.md#tag-multi-shot) [`dialogue`](tags.md#tag-dialogue) [`street-style`](tags.md#tag-street-style)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic realism, modern western attitude, small-town cowboy entrance energy, not a car wash video and not a glamour ad. The girl fully matches <Picture 1>: same face, short hair, wet skin, black semi-sheer top, denim shorts, tattoos, sneakers, yellow vintage car, hose, summer street, storefronts, warm streetlights, blue sky, and clouds. The first frame begins exactly from the pose in <Picture 1>, with her seated on the yellow hood, one hand supporting herself, the other holding the hose, and the water already swinging to one side, with no pose reset. IMAX 70mm film grain, Nolan-inspired cinematic realism, photorealistic natural palette with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. Low-angle medium shot with a slow slight push-in and faint living sway. From the first second she is already moving: casually swinging the water stream, shifting her shoulders with relaxed swagger, smiling like she already owns the whole street. All water already on her legs must keep moving naturally at all times, flowing, splitting, merging, and dripping with changing paths as she moves. Her chest and upper torso must show subtle real secondary motion from breath, small body sway, landing, and walking, visible but restrained. The nearby off-screen man (S1), mature, relaxed, amused, says in an off-screen voiceover: <d>[English] You making trouble again?</d> while remaining unseen. She does not stop moving, only smiles more and lifts her eyes near the lens. [Shot 2] At 00:02.600, the camera cuts tighter and sinks with her movement. She shuts off the water, flicks the hose aside like tossing a rein, and slides off the hood cleanly, right leg first, landing light and confident like a cowboy dismount. The girl (S2), young but mature, open, sharp, says: <d>[English] Only when the town’s too quiet.</d> [Shot 3] At 00:04.800, the camera tracks backward as she walks toward it, the yellow car falling behind her like a mount she has left behind. She casually wipes a wet hand or brushes her shorts, shoulders loose, stride steady, while the off-screen man (S1) says in an off-screen voiceover: <d>[English] You always come in this loud?</d> She keeps a small smile and brings easy pressure as she closes the distance. [Shot 4] At 00:08.600, the camera tightens to a medium close-up and nearly stops as she reaches a dangerous conversational distance. She leans in slightly, one hand near her waist, and says with playful threat and total control: <d>[English] You gonna stare... or buy me a drink?</d> [Shot 5] At 00:11.800, the camera widens slightly and drifts as she laughs softly, turns away, walks down the street, gives one brief side glance back, and keeps going. She is the only visible person on screen. No car wash commercial energy, no influencer posing, no slow motion, no frozen water, no plastic body motion.
+
+overall_soundscape: Water spray, hose movement, soft summer street ambience, distant storefront sound, fabric friction, sneaker steps, small metal contact, and natural breathing.
+
+non_diegetic_music: N/A
 ```
 
 </details>
@@ -1146,6 +1458,566 @@ Seedance 2.5 · Text-to-video · Source: [@aiwithaayat on X](https://x.com/aiwit
 
 ```text
 Create a 20-second vertical 9:16 ultra-realistic funny baby doctor video, filmed in a casual smartphone recording style inside a real military tent at an outdoor army camp. A cute chubby baby with round cheeks, light-colored eyes, and a serious facial expression wears a tiny white doctor’s coat and a blue stethoscope while being held close to a male soldier wearing a real camouflage military uniform. The baby presses the stethoscope against the soldier’s chest and listens carefully like a professional doctor, looking intensely focused and adorably confused. The soldier looks at the baby with a warm smile, trying not to laugh during the examination. Show natural close-up shots of the baby gripping the stethoscope with tiny hands, looking into the soldier’s eyes, and moving his lips with innocent, funny expressions. Include humorous English dialogue with matching subtitles: “You have a serious case of too much phone and not enough exercise.” The soldier reacts with an amused smile while the baby continues the examination with a completely serious face. Keep another soldier naturally visible in the background, sitting inside the tent and enjoying the funny moment. The camera should feel like a real person casually recording this adorable interaction on a phone, with slight natural hand movements, imperfect framing, authentic outdoor daylight, realistic skin textures, and the ordinary background sounds of a military camp. Use spontaneous reactions, natural facial movements, and believable human interaction instead of dramatic acting or exaggerated effects. Maintain the same baby and soldier throughout the entire video, with accurate clothing, realistic proportions, and consistent faces. No cinematic lighting, no dramatic camera movements, no slow motion, no movie-style color grading, no artificial transitions, no animation, and no polished commercial look. The final result should look like an authentic, funny, heartwarming viral video captured in real life.
+```
+
+</details>
+
+<a id="seedance-cherry-blossom-campus-confession"></a>
+### Two friends walk under cherry blossoms, one confesses
+
+<a href="https://x.com/nawalsehar/status/2095372757890687162"><img src="../../previews/seedance-cherry-blossom-campus-confession.jpg" width="360"></a>
+
+Splits the scene into ordered beats (walk, stop, confess, pause, reassure) so the emotion builds in sequence. Naming what to avoid, such as exaggerated acting and changing faces or clothing, keeps the performance restrained and the actors consistent across the clip.
+
+Seedance 2.5 · Text-to-video · Source: [@nawalsehar on X](https://x.com/nawalsehar/status/2095372757890687162) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`romance`](tags.md#tag-romance) [`cherry-blossom`](tags.md#tag-cherry-blossom) [`korean-drama`](tags.md#tag-korean-drama) [`campus`](tags.md#tag-campus)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic cinematic Korean romance film set on a university campus during peak cherry-blossom season. Two longtime friends walk together beneath blooming cherry trees in the warm late-afternoon light. They talk casually before the woman gradually becomes nervous and slows down.
+
+She finally stops, takes a breath, and softly confesses that she has liked him for a long time. The man is genuinely surprised, pausing to process her words rather than reacting dramatically. She admits she was afraid he might stop being her friend.
+
+After a quiet emotional pause, he smiles warmly and reassures her. He gently takes her hand, and they continue walking together beneath the cherry trees as petals drift naturally around them.
+
+Natural Korean actors, subtle facial expressions, realistic walking and body language, soft spring breeze, authentic university atmosphere, cinematic depth of field, realistic skin and clothing, natural lighting, gentle handheld camera movement, emotional Korean-drama aesthetic, soft piano soundtrack, realistic environmental sound.
+
+No exaggerated acting, no forced romance, no robotic movement, no CGI appearance, no distorted anatomy, no changing faces or clothing, no floating petals, no unrealistic wind, no text, subtitles, logos, or watermark.
+```
+
+</details>
+
+<a id="seedance-crab-squat-wall-challenge"></a>
+### Woman smiles on platform before blue wall
+
+<a href="https://x.com/johnAGI168/status/2092536240436363328"><img src="../../previews/seedance-crab-squat-wall-challenge.jpg" width="360"></a>
+
+A character card binds the uploaded photo as @图片1 and locks face, hair and outfit, then ties every expression change to a physical event such as wall contact or the fall. Timed beats each carry a matching voiceover line, so the comedy timing lands on the action.
+
+Seedance 2.5 · Reference-to-video · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2092536240436363328) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`reference-image`](tags.md#tag-reference-image) [`shot-list`](tags.md#tag-shot-list) [`voiceover`](tags.md#tag-voiceover) [`physical-comedy`](tags.md#tag-physical-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Seedance 2.5 prompt  👇
+
+SEEDANCE 2.5｜水上人形墙挑战
+
+【风格】真人水上综艺闯关节目（Live-Action Water Game Show），明快饱和色彩，盛夏正午自然光，真实广播级摄影，快速剪辑，轻喜剧节奏，真实重力与水体物理，4K高清
+【时长】15秒
+【画幅】16:9横屏
+【语言】中文男声画外解说，主角没有正式台词，仅保留呼吸、用力声和落水前的短促惊叫；无字幕
+【场景】大型户外水上综艺竞技场，碧蓝泳池中央架设橙色狭长挑战平台，平台尽头是一块沿隐藏轨道匀速前进的浅蓝色厚实人形墙板；墙板中央开着“头部居中、双肘横向打开、双手抱头、双腿大幅分开下蹲”的螃蟹深蹲人形孔洞。泳池对面是坐满观众的半圆形看台，上方覆盖大型白色遮阳棚。
+
+【人物角色卡】
+@图片1 命名“夏妍”，水上综艺闯关者。人物脸部、身形、发型、妆容、服装及配饰完全继承参考图，不增加或修改任何外观元素。
+角色目标：在移动人形墙到达前，快速看懂孔洞姿势并让身体穿过。
+表演轨迹：自信亮相 → 看清题目后短暂震惊 → 急忙调整姿势 → 以为已经成功 → 察觉尺寸不合 → 被墙体推落水 → 浮出水面后不服气地瞪向镜头。
+表演方式：偏真实综艺反应，不故意卖萌，不从第一秒就夸张；所有表情变化必须由墙体移动、身体接触和落水结果依次触发。
+
+[00:00-00:02.00] 镜头1：第二关开始（Close-up Hook）
+正面近景：夏妍站在橙色平台中央，泳池和浅蓝色人形墙板位于她身后。镜头使用中长焦压缩背景，观众席轻微虚化。
+
+[00:00-00:00.80]
+夏妍直视镜头，保持自信从容的笑容，肩膀自然放松。背景传来机械装置启动的“咔嗒”声和低沉电机声。
+
+【中文男声画外解说】“第二关，开始！”
+
+解说声音明亮有力，像现场综艺主持人，不能使用新闻播音腔。
+
+[00:00-00:00.80-00:02.00]
+机械运转声逐渐接近。夏妍的笑容停住，眼睛突然睁大，嘴唇自然张成小圆形；她先看镜头，再迅速转动眼睛观察身后的挑战墙。
+
+反应不能提前出现，必须在机械声响起之后才从自信变为意外。
+
+【中文男声画外解说】“这次是——超级螃蟹蹲！”
+
+“超级螃蟹蹲”提高音量并拉长尾音，配短促综艺铜管音效。
+
+[00:02.00-00:05.00] 镜头2：看懂姿势，马上就位（Wide Shot → Rear Three-quarter）
+硬切全景：完整展示橙色平台、泳池、浅蓝色人形墙板和观众席。人形墙从平台远端沿直线轨道缓慢向夏妍移动，全程保持垂直，速度稳定。
+
+[00:02.00-00:03.00]
+夏妍迅速转身面向人形孔洞，先上下扫视孔洞轮廓，确认头、双肘、躯干和双腿的位置。
+
+她小跑两步靠近墙板前方的定位区域，脚底与平台接触真实，不打滑、不瞬移。
+
+[00:03.00-00:05.00]
+后侧三分之二机位：夏妍双手抬到脑后，手指交叠，双肘向左右打开；双脚快速向两侧分开，膝盖向外，身体重心逐渐下沉。
+
+【中文男声画外解说】“双腿打开，重心压低，双手抱头！”
+
+解说节奏与动作同步：
+
+“双腿打开”对应双脚向两侧移动；
+“重心压低”对应身体进入深蹲；
+“双手抱头”对应双手在脑后交叠。
+
+身体动作必须依次完成，禁止三种动作同一帧突然出现。
+
+[00:05.00-00:09.00] 镜头3：姿势对了，尺寸不对（Symmetrical Front Shot）
+切到墙板正面的对称全景。摄影机隔着人形孔洞拍摄夏妍，她的头、手臂、躯干和双腿分别对准对应开口。
+
+[00:05.00-00:06.20]
+夏妍保持双手抱头和宽距深蹲，左右调整脚步，再把身体向孔洞中心移动几厘米。
+
+她先低头检查双脚位置，再抬眼看向正在接近的墙板。嘴唇轻轻抿住，呼吸加快。
+
+[00:06.20-00:07.50]
+墙板继续沿轨道匀速前进。夏妍把重心压得更低，让双肘和双腿尽量贴合孔洞边缘。
+
+她短暂闭眼用力，肩膀轻微抬高；重新睁眼时，瞳孔扩大，嘴唇张开，发现孔洞比预想中更紧。
+
+【中文男声画外解说】“姿势很标准——”
+
+前半句语气兴奋，像在宣布她即将成功。
+
+[00:07.50-00:09.00]
+墙板距离她越来越近。她保持姿势不敢乱动，只能轻微转动眼睛观察两侧孔洞边缘。
+
+孔洞边缘逐渐靠近她的双肘和腿部，但尚未发生接触。她脸上的自信一点点消失，嘴巴微张，呼吸停顿半拍。
+
+【中文男声画外解说】“可这个洞……好像小了点！”
+
+“可这个洞”后停顿约0.3秒；“小了点”降低音量，带明显不妙的预感。
+
+背景音乐在此处暂停一个重拍，只留下墙体机械声和观众吸气声。
+
+[00:09.00-00:10.50] 镜头4：没穿过去（Side Shot / Physical Comedy）
+切到平台侧面中全景，同时看见人形墙、夏妍和她身后的泳池边缘。
+
+[00:09.00-00:09.50]
+墙板到达夏妍的位置。孔洞边缘先轻轻接触她身体外侧，她立即意识到无法完全穿过，双眼睁大，手从脑后松开，掌心向前寻找支撑。
+
+反应必须由接触触发，禁止提前站起或提前后仰。
+
+【中文男声画外解说】“糟了，没卡进去！”
+
+[00:09.50-00:10.50]
+墙板继续保持原有速度向前，无法通过孔洞的夏妍被平稳推向平台边缘。
+
+她的重心逐渐越过脚后跟，脚掌先在平台上向后滑动小段距离；随后膝盖伸展、身体向后倾斜、双臂在身体两侧快速摆动维持平衡。
+
+到达平台边缘时，她先半坐到边缘，双腿因惯性向上抬起，然后整个身体向后落入泳池。
+
+禁止墙板突然加速，禁止夏妍主动起跳；落水必须来自墙板持续推动和身体重心后移。
+
+夏妍在离开平台瞬间发出短促自然的“啊！”声。
+
+[00:10.50-00:12.50] 镜头5：巨大落水水花（Water Impact / Real Fluid Physics）
+[00:10.50-00:11.20]
+侧面宽景：夏妍背部和身体后侧首先接触水面，双腿随后落水。
+
+入水点瞬间炸开大片白色水花，水柱向上和向两侧扩散；细小水滴形成真实抛物线，较重水团迅速回落。
+
+【中文男声画外解说】“还是被推下水了！”
+
+“下水了”与最大水花同时出现。
+
+【音效】低沉落水声、大片水花声、观众惊呼。
+
+[00:11.20-00:12.50]
+镜头继续停留在落水区域。夏妍完全没入水中，只剩白色泡沫、扩散涟漪和逐渐回落的水滴。
+
+泡沫由密到疏，水面波纹向泳池四周传播。人形墙停在平台边缘，不能倒下、弯曲或落入水中。
+
+背景音乐短暂停顿，随后以轻快鼓点重新进入。
+
+[00:12.50-00:15.00] 镜头6：不服气的回马枪（Water-level Push-in）
+切到接近水面的正面中景。
+
+[00:12.50-00:13.20]
+夏妍从水下浮出，先露出头部，再露出肩膀。她闭着眼睛呼出一口气，水从脸部和下巴连续滴落。
+
+她张开双臂划水保持身体稳定。湿水只能改变表面状态，不得改变人物脸部、发型结构、服装结构或身份特征。
+
+[00:13.20-00:14.00]
+夏妍睁开眼睛，确认镜头就在前方。她没有立刻生气，而是先抿紧嘴唇，把两边脸颊缓慢鼓起来。
+
+摄影机在水面高度轻轻向前推进，景别由中景变为近景。背景观众和平台逐渐虚化。
+
+【中文男声画外解说】“挑战失败——”
+
+在“失败”后停顿，让观众看清她逐渐变化的表情。
+
+[00:14.00-00:15.00]
+近景：夏妍鼓着脸颊，微微压低眉毛，直勾勾盯住镜头，像是在责怪节目组把洞做小了。
+
+她保持这个表情到最后一帧，不能提前松气、微笑或移开视线。下巴滴下一条连续水线，水面围绕肩膀产生细小波纹。
+
+【中文男声画外解说】“但是气势满分！”
+
+“满分”与观众欢呼和掌声同步。最后0.3秒定格在她鼓脸瞪镜头的表情上，形成明确喜剧收束。
+
+【完整中文旁白】
+“第二关，开始！”
+“这次是——超级螃蟹蹲！”
+“双腿打开，重心压低，双手抱头！”
+“姿势很标准——可这个洞……好像小了点！”
+“糟了，没卡进去！”
+“还是被推下水了！”
+“挑战失败——但是气势满分！”
+
+【声音设计】
+全程使用活泼、节奏明确的中文水上综艺男声解说，语气自然、有现场感，不使用机械播音腔。
+背景音乐为轻快综艺铜管、鼓点和短促悬念停顿；不能遮盖解说和关键音效。
+保留墙板机械运转声、脚步声、用力呼吸、观众惊呼、巨大落水声、水下气泡声、结尾欢呼与掌声。
+夏妍没有正式对白，只在用力时短促呼气、落水前自然惊叫；禁止无台词时持续张嘴对口型。
+
+【物理与连续性要求】
+夏妍全片严格继承人物参考图，不能改变脸部、体型、发型、服装或配饰。
+人形墙始终为同一块厚实墙板，孔洞形状、大小和方向保持不变；墙板沿隐藏轨道直线匀速移动。
+夏妍必须先看孔洞、再摆姿势、再被墙体接触、再失去平衡、最后落水，动作顺序不能颠倒。
+身体不能穿过实体墙板；墙板也不能穿透身体。接触后由持续推力改变她的重心，使她自然向后跌入泳池。
+落水后人物必须先完全没入水中，再从同一落水位置附近浮出；禁止从水下瞬移到镜头前。
+水面、水花、泡沫、水滴和涟漪遵循真实流体运动；湿水状态持续到结尾。
+群众只作为虚化背景观众，不生成单独人物特写，不抢夺主角焦点。
+```
+
+</details>
+
+<a id="seedance-finger-counting-one-to-ten"></a>
+### Woman counts one to ten on fingers
+
+<a href="https://x.com/patrickassale/status/2083212122977108109"><img src="../../previews/seedance-finger-counting-one-to-ten.jpg" width="360"></a>
+
+A single locked shot with one sequenced action gives the model one thing to track: the number of fingers held up in step with each spoken count. Keeping the camera static and the subject facing the lens isolates hand precision as the test.
+
+Seedance 2.5 · Text-to-video · Source: [@patrickassale on X](https://x.com/patrickassale/status/2083212122977108109)
+
+[`benchmark`](tags.md#tag-benchmark) [`hand-motion`](tags.md#tag-hand-motion) [`static-shot`](tags.md#tag-static-shot) [`comparison`](tags.md#tag-comparison)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+One continuous static shot, no cuts. A person looks directly at the camera and counts from one to ten, holding up the corresponding number of fingers as they say each number.
+```
+
+</details>
+
+<a id="seedance-five-more-minutes-mismatched-sneakers"></a>
+### Sleepy teen in bed beside 7:00 alarm clock
+
+<a href="https://x.com/SeharShinwari/status/2091810238836220283"><img src="../../previews/seedance-five-more-minutes-mismatched-sneakers.jpg" width="360"></a>
+
+The prompt is split into labeled blocks for character lock, location, timed beats with quoted dialogue, cinematography, and audio, so each beat stays readable. A fixed visual payoff, two mismatched sneakers shown in a close shot, gives the model a clear end point to build toward.
+
+Seedance 2.5 · Text-to-video · Source: [@SeharShinwari on X](https://x.com/SeharShinwari/status/2091810238836220283) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`family-comedy`](tags.md#tag-family-comedy) [`dialogue`](tags.md#tag-dialogue) [`morning-routine`](tags.md#tag-morning-routine) [`mismatched-shoes`](tags.md#tag-mismatched-shoes)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second cinematic live-action family comedy titled “FIVE MORE MINUTES.”
+
+FORMAT & STYLE:
+Hyper-realistic photorealistic live action, 4K, vertical 16:9, 24fps cinematic film look, natural early-morning lighting, realistic skin, hair, fabric and physics, subtle handheld camera movement, smooth tracking shots, shallow depth of field, natural color grading and professional filmmaking. The scene should feel like a genuine family moment filmed in a real home, with natural acting and believable expressions.
+
+CHARACTER CONSISTENCY:
+MOTHER — South Asian woman around 40, medium complexion, dark hair tied in a simple low bun, wearing a comfortable light-grey long-sleeve home outfit. Warm but slightly frustrated personality.
+
+SON — South Asian teenage boy, 16–17 years old, medium complexion, messy dark-brown hair, wearing a navy-blue T-shirt and grey sweatpants. Sleepy, slightly lazy teenage personality.
+
+Keep both characters exactly consistent throughout the entire video: same faces, age, hairstyle, clothing, body proportions and skin tone.
+
+LOCATION:
+A realistic, comfortable family home in the morning. The son's bedroom contains a single bed with a grey-and-white striped blanket, wooden bedside table, digital alarm clock, school backpack, books and everyday personal items. The hallway, stairs and kitchen must clearly belong to the same house. Warm sunlight enters through the bedroom window.
+
+0–4 SEC — FIRST WAKE-UP:
+Wide cinematic shot of the bedroom. The alarm clock reads 7:00 AM. The son is deeply asleep under the blanket. The mother quietly opens the door, enters and looks at him.
+
+She says naturally:
+“Wake up, it's time for school.”
+
+The son barely reacts.
+
+4–7 SEC — FIVE MORE MINUTES:
+Close-up of the sleepy son. He slowly opens one eye, pulls the blanket closer and quietly mumbles:
+“Five more minutes…”
+
+He immediately turns away and falls asleep again.
+
+The mother looks at him with a tired, slightly frustrated expression.
+
+7–10 SEC — AGAIN:
+The mother returns and gently shakes his shoulder.
+
+“Come on, get up now.”
+
+The son pulls the blanket over his head.
+
+“Five more minutes…”
+
+The mother pauses, takes a breath and looks toward the ceiling in disbelief. Keep the humor subtle and realistic.
+
+10–17 SEC — MORNING CHAOS:
+Create a quick, coherent montage showing the mother's attempts to get him ready:
+• She opens the curtains.
+• She prepares breakfast in the kitchen.
+• She calls him from the hallway.
+• She picks up his school backpack.
+• She searches around the bedroom for a missing shoe.
+• She returns to find him still lying in bed.
+
+The son remains sleepy but gradually wakes up. Keep the same house, wardrobe and props throughout.
+
+17–21 SEC — TOO LATE:
+The son suddenly notices the time and realizes he is late.
+
+His expression changes instantly.
+
+He jumps out of bed, quickly gets dressed, grabs his backpack and rushes downstairs. The mother follows behind him, amused and frustrated.
+
+21–24 SEC — FINALLY READY:
+At the front door, the son stands ready to leave with his backpack.
+
+The mother looks relieved.
+
+Finally.
+
+He opens the door.
+
+She suddenly notices something and stops him.
+
+24–27 SEC — THE REVEAL:
+Close-up of the son's feet.
+
+He is wearing two completely different sneakers:
+one black sneaker and one grey sneaker.
+
+He slowly looks down at them.
+
+His expression changes from confidence to complete disbelief.
+
+27–30 SEC — FUNNY ENDING:
+Two-shot of mother and son.
+
+They look at each other for one silent second.
+
+Both suddenly start laughing.
+
+The son shakes his head and runs back upstairs to change his shoes while the mother remains at the door laughing.
+
+End naturally on the mother's amused expression.
+
+CINEMATOGRAPHY:
+Use realistic 35mm and 50mm cinematic lens aesthetics, natural rack focus, smooth camera pushes, subtle handheld movement, realistic motion blur and shallow depth of field. Use wider shots to establish the home and close-ups for the comedy beats. Avoid excessive camera movement.
+
+AUDIO:
+Natural morning ambience, birds outside, distant traffic, footsteps, fabric movement, alarm clock and household sounds. Use natural-sounding dialogue with realistic pauses. Add very subtle playful background music during the montage and ending.
+
+STRICT CONSISTENCY & QUALITY:
+Keep the same two characters, bedroom, hallway, kitchen, backpack, alarm clock and clothing throughout. The two mismatched shoes must remain visually consistent in the final reveal. No changing faces, hairstyles, ages or outfits. No duplicate characters, extra fingers, extra limbs, distorted hands, warped faces, floating objects, sudden environment changes, unrealistic physics, random props, logos or watermarks. No supernatural effects or exaggerated VFX.
+
+The final result should look like a professionally filmed, relatable family comedy with natural performances, clear storytelling and a satisfying visual punchline.
+```
+
+</details>
+
+<a id="seedance-garden-flowers-bloom-spoken-truths"></a>
+### Kneeling woman talks to blooming garden flowers
+
+<a href="https://x.com/AIwithZeeshi/status/2106967008650969278"><img src="../../previews/seedance-garden-flowers-bloom-spoken-truths.jpg" width="360"></a>
+
+Each spoken line is tied to one visible change in the flowers, so the dialogue beats drive the growth and the timing stays readable. The explicit realism terms, the camera pull back and the lip sync request set the look and keep the character consistent.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2106967008650969278)
+
+[`garden`](tags.md#tag-garden) [`dialogue`](tags.md#tag-dialogue) [`lip sync`](tags.md#tag-lipsync) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A peaceful countryside garden on a warm sunny morning. A young Western woman with long dark-brown hair, wearing a cream oversized T-shirt and beige pants, kneels beside a small flowerbed. She looks at a closed flower and softly says, “I was wrong.” The flower slowly begins to bloom, its petals unfolding naturally one by one.
+
+She looks surprised and admits, “I was afraid to tell you the truth.” The flower opens further as a gentle breeze moves the surrounding leaves. She smiles and says, “And I still care.” A second small flower bud slowly begins to bloom beside the first.
+
+The woman gently touches one of the flowers as the camera pulls back to reveal several newly opened flowers glowing in the warm morning sunlight.
+
+Photorealistic cinematic style, realistic human movement, natural flower growth, consistent character appearance, realistic skin and plant textures, natural gravity, physically believable wind, accurate shadows, smooth camera movement, natural facial expressions, realistic lip synchronization, soft morning sunlight, and an authentic countryside atmosphere.
+```
+
+</details>
+
+<a id="seedance-pov-phone-outfit-swap-qipao"></a>
+### Woman in gold qipao swipes phone to change outfits
+
+<a href="https://x.com/johnAGI168/status/2097320255139795072"><img src="../../previews/seedance-pov-phone-outfit-swap-qipao.jpg" width="360"></a>
+
+Each outfit change lands on the same frame as a tap, and the swipe stays visible on the phone screen, so the swap reads as a hard cut. A fixed shot order with a POV handheld camera keeps the subject continuous while her reactions escalate.
+
+Seedance 2.5 · Reference-to-video · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2097320255139795072) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pov`](tags.md#tag-pov) [`outfit-change`](tags.md#tag-outfit-change) [`phone-ui`](tags.md#tag-phone-ui) [`sweet-romance`](tags.md#tag-sweet-romance)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Duration: 20秒
+Aspect ratio: 9:16
+Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏
+
+【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物
+【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手
+【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈
+
+SHOT 1（00:00-00:03.5）开场展示
+画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。
+台词：女主："老公，看我今天穿得怎么样？"
+音效：室内底噪，衣料轻响。
+Constraints: 女主全身入画，开场服装=角色原本服装。
+
+SHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动
+画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。
+台词：男主（画外音，慵懒）："还行。换这套看看。"
+音效：屏幕滑动轻摩擦声。
+Constraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。
+
+SHOT 3（00:06.5-00:09.5）第一次点击瞬变
+画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。
+台词：女主（惊讶）："诶？！"
+音效：清脆"滴"+换装"叮"，衣料展开微响。
+Constraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。
+
+SHOT 4（00:09.5-00:13）第二次滑动+点击瞬变
+画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。
+台词：男主（画外音）："这套也行。"
+女主（小声）："你……乱点。"
+音效：滑动声+"滴"+"叮"，轻快音乐渐起。
+Constraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。
+
+SHOT 5（00:13-00:16.5）第三次滑动+点击瞬变
+画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。
+台词：女主："这套……还挺好看的嘛。"
+音效："滴"+"叮"，音乐节奏加快半拍。
+Constraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。
+
+SHOT 6（00:16.5-00:20）第四次滑动+点击+收尾
+画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。
+台词：男主（画外音，满意）："这套定了。"
+女主（笑着凑近，嗔怪）："你好坏啊——我好喜欢！"
+音效："滴"+"叮"，音乐在女主台词落点收在甜甜重拍。
+Constraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。
+
+【导演铁律】
+1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。
+2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露脸。
+3. 手机铁律：每次必须先滑动再点击，滑动跟手、卡片切换清楚；禁止凭空换装、禁止不看屏幕直接变。
+4. 服装引用：开场=@图片1原本衣服；第1次=@衣服1；第2次=@衣服2；第3次=@衣服3；第4次=@衣服4。
+5. 台词口型清晰，与点击节拍对齐。
+
+Negative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移，姿势断裂，脸型变化，发型变化，鞋子乱变（除非衣服图自带），露男主脸，横屏，字幕，水印，Logo，背景突然更换，多人入画，宽松居家服除非衣服图就是，镜头剧烈抖动，手机屏幕模糊不可读。
+```
+
+</details>
+
+<a id="seedance-seoul-alley-kdrama-moment"></a>
+### Woman with shopping bag in Seoul alley
+
+<a href="https://x.com/ayzalnooor24521/status/2106974434234138683"><img src="../../previews/seedance-seoul-alley-kdrama-moment.jpg" width="360"></a>
+
+A detailed scene brief with named shot types (close-up, medium walking, over the shoulder) and an explicit instruction to keep both faces, hairstyles and clothing consistent across cuts. Ambient details like air conditioning units and passing students ground the street setting.
+
+Seedance 2.5 · Text-to-video · Source: [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2106974434234138683) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`k-drama`](tags.md#tag-k-drama) [`seoul`](tags.md#tag-seoul) [`handheld-camera`](tags.md#tag-handheld-camera) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A quiet moment, a kind heart, and a story that speaks without words. 
+Sometimes, the simplest moments leave the biggest impact.
+
+Created on seedance 2.5
+
+A beautiful Korean girl with long natural black hair, wearing a fitted black sleeveless top, light beige wide-leg pants, and carrying a small white shopping bag, walking naturally through a quiet Seoul neighborhood during a bright daytime afternoon. Create a cinematic Korean K-drama style scene with realistic Korean architecture, narrow urban alleyways, tiled buildings, air-conditioning units, parked cars, and pedestrians in the background. She notices a young Korean schoolgirl wearing a white school uniform shirt, blue striped tie, and blue plaid skirt, then approaches her with a concerned and caring expression. Show natural body language, subtle facial expressions, realistic eye movement, and emotionally believable interaction between the two characters. Include a group of Korean high-school students walking through the alley in the background, creating an authentic everyday Seoul atmosphere. Use soft natural daylight, realistic skin texture, shallow depth of field, cinematic framing, gentle handheld camera movement, and smooth focus transitions. Build the scene like a premium Korean drama with close-up emotional shots, medium walking shots, and over-the-shoulder compositions while keeping both characters’ faces, hairstyles, clothing, and identities consistent throughout. Make the final video photorealistic, emotionally engaging, cinematic, and completely natural with realistic Korean street ambience and subtle background movement.
+```
+
+</details>
+
+<a id="seedance-taoist-warrior-giant-animated-short"></a>
+### Taoist warrior and giant in misty mountains
+
+<a href="https://x.com/usamaworld1/status/2088146871713689825"><img src="../../previews/seedance-taoist-warrior-giant-animated-short.jpg" width="360"></a>
+
+Timed scenes with spoken lines and a reference image for each character keep the designs consistent across cuts. Camera moves and ambient sound cues are written separately, so the model gets clear shot and audio instructions.
+
+Seedance 2.5 · Reference-to-video · Source: [@usamaworld1 on X](https://x.com/usamaworld1/status/2088146871713689825)
+
+[`taoist-warrior`](tags.md#tag-taoist-warrior) [`giant`](tags.md#tag-giant) [`animated-short`](tags.md#tag-animated-short) [`comedy-dialogue`](tags.md#tag-comedy-dialogue)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second cinematic animated short featuring two original fantasy characters: a young female Taoist warrior and her gigantic reluctant giant partner.
+Visual style:high-end Western animated feature film,stylized,realism,expressive characters,cinematic,lighting,detailed environments,polished 3D animation,natural physics,expressive facial animation,comedic timing,dynamic cinematic camera movement.
+Keep the character designs completely consistent throughout entire video.
+Scene 1,0-5s:The New Target
+Begin with a quiet atmospheric mountain landscape.
+A gentle mountain breeze passes through the frame.The camera slowly tilts downward, revealing top of a large woven bamboo conical hat [from reference image]
+The girl's long dark hair moves naturally in the wind beneath the hat.The camera continues slowly downward until her face [from reference image] is revealed.
+She looks completely calm and slightly annoyed.
+She picks up the phone and says in a casual,matter-of-fact voice:He's the new target? Got it.
+She rolls her eyes.
+Subtle wind,distant birds,soft mountain ambience,cinematic silence before the dialogue.
+Scene 2,5-11s:The Reluctant Partner
+Cut to a dramatic wide shot.
+The female Taoist stands on  edge of a huge mountain cliff [from reference image].Vast mountains,mist and clouds stretch into distance.
+Behind her,the gigantic blue-gray stone-skinned giant [from reference image] is crouching on ground,taking a rest.His enormous body towers over landscape.
+She casually turns toward him and says:
+Time to work.
+The giant slowly raises his head with an exhausted expression.
+He looks deeply annoyed.
+I haven't rested enough yet!
+His voice is deep and powerful, but his expression should feel more like an exhausted coworker complaining about overtime than an angry monster.
+The Taoist remains completely unfazed.
+Scene 3,11-23s:The Car Argument
+Cut to Taoist walking confidently toward a rugged vintage open-top convertible parked nearby.
+She gets into driver's seat,starts the engine and casually says:
+Come on,come on.Let's go.
+The giant stands behind the vehicle,looking at tiny car with disbelief.
+He complains:
+Why do YOU get to drive while I have to run again?
+The Taoist looks back at him without sympathy.
+Then build a car big enough for you.
+She immediately turns forward and drives away.
+The giant stands frozen for a beat.
+The vehicle disappears down the mountain road,leaving a small cloud of exhaust and dust drifting directly into his face.
+He slowly wipes dust from his face with an irritated expression.
+Comedic timing,exaggerated facial animation,but grounded physical movement.
+Scene 4,23-30s:The Road Trip
+Cut to a beautiful cinematic mountain highway.
+The Taoist drives tiny open-top convertible through the winding road.
+```
+
+</details>
+
+<a id="seedance-toddler-traffic-light-city-adventure"></a>
+### Toddler in overalls beside a traffic light
+
+<a href="https://x.com/abs_uiux/status/2108832872433893567"><img src="../../previews/seedance-toddler-traffic-light-city-adventure.jpg" width="360"></a>
+
+A three second beat sheet fixes the character look and gives each vehicle one visible event with its exact on-screen word, so the timing and labels line up. Each segment describes one shot, which keeps a short educational clip easy to follow.
+
+Seedance 2.5 · Text-to-video · Source: [@abs_uiux on X](https://x.com/abs_uiux/status/2108832872433893567)
+
+[`toddler`](tags.md#tag-toddler) [`traffic-light`](tags.md#tag-traffic-light) [`educational`](tags.md#tag-educational) [`3d-animation`](tags.md#tag-3d-animation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a fast, colorful 15-second 3D educational city adventure.
+Main character: Cute toddler boy wearing blue overalls.
+0–3 sec: A magical traffic light activates.
+3–6 sec: Red car drives past. Display and said: “CAR 🚗”
+6–9 sec: Big friendly bus stops beside him. Display and said: “BUS 🚌”
+9–12 sec: Airplane flies overhead. Display and said: “AIRPLANE ✈️”
+12–15 sec: Toddler waves while all three vehicles appear safely in the background. Display and said: “Let’s Go!”
 ```
 
 </details>

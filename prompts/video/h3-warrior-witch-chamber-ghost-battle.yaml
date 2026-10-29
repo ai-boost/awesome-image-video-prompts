@@ -1,0 +1,46 @@
+id: h3-warrior-witch-chamber-ghost-battle
+title:
+  en: Warrior enters witch chamber full of corpses
+  zh: 战士走进布满尸体的女巫密室
+model: MiniMax H3
+mode: text-to-video
+category: action
+tags:
+- dark-fantasy
+- sword-fight
+- tracking-shot
+- creature
+source:
+  name: '@HeyZoyaKhan on X'
+  url: https://x.com/HeyZoyaKhan/status/2085575259533783077
+  credit: ZOYA ✪
+  likes: 22
+  captured: '2026-10-29'
+  posted: '2026-08-07'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/HeyZoyaKhan/status/2085575259533783077
+notes:
+  en: The prompt is split into beats (entry, ghost reveal, close combat, climax, aftermath), which gives the model a clear shot order. A camera that follows from behind and a closing style block set the lighting and realism.
+  zh: 提示词按节拍拆分为入场、鬼影出现、近身战斗、高潮和收尾，让模型有清晰的镜头顺序。跟随镜头从背后拍摄，末尾的风格段统一了光线和写实质感。
+prompt: |
+  A young heroic warrior wearing beautifully crafted silver armor, a dark blue cape, and carrying an ancient enchanted longsword slowly enters an abandoned underground witch chamber. The room is filled with broken ritual circles, ancient books, shattered altars, skulls, scattered candles, and dozens of lifeless witch bodies lying across the cold stone floor. The atmosphere is eerily silent.
+
+  The camera slowly follows behind him as he carefully scans every corner, gripping his sword tightly and remaining fully alert.
+
+  Suddenly, the ancient stone walls begin to tremble.
+
+  A horrifying ghost emerges from the darkness. It has a grotesque deformed face, glowing crimson eyes, an unnaturally long body, and dozens of skeletal arms extending in every direction. Instead of wielding weapons, the ghost attacks using its razor-sharp claws and multiple arms, striking from impossible angles with incredible speed.
+
+  An intense close-quarters battle begins.
+
+  The warrior skillfully dodges the ghost's relentless claw attacks, parries with his enchanted sword, and cuts through several skeletal arms as they lunge toward him. The ghost continuously regenerates new arms, making the fight increasingly desperate.
+
+  The battle reaches its climax as the ghost charges forward with all of its arms at once. The warrior times the attack perfectly, leaps into the air, and delivers a single breathtaking spinning sword strike that cleanly severs the ghost's head.
+
+  The head falls to the stone floor as the ghost's body freezes in place, cracks with glowing purple energy, and disintegrates into countless glowing magical particles that fade into the air. The chamber becomes completely silent once again.
+
+  Style
+
+  Ultra-cinematic dark fantasy, realistic sword choreography, terrifying creature animation, expressive facial reactions, dramatic lighting, highly detailed gothic environment, dynamic camera movement, AAA fantasy film quality, Unreal Engine realism, IMAX composition, ultra-detailed textures
+
+  #MiniMaxH3

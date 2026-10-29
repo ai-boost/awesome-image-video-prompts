@@ -1,0 +1,77 @@
+id: seedance-concert-outbreak-short-film
+title:
+  en: Concert crowd facing stage under magenta stage light
+  zh: 夜间演唱会人群面向舞台，洋红色灯光下
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- horror
+- multi-shot
+- concert
+- sound-design
+source:
+  name: '@auqibhabib on X'
+  url: https://x.com/auqibhabib/status/2108459477649543194
+  credit: auqibhabib
+  captured: '2026-10-29'
+  posted: '2026-10-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/auqibhabib/status/2108459477649543194
+notes:
+  en: Each second is a timestamped beat with its own action, and a CHARACTER LOCK line keeps the guitarist identical across shots. Camera, grading and sound rules are stated once in a global block so the model gets pacing and audio cues without repeating them per shot.
+  zh: 每秒是一个带时间码的镜头节拍，并用 CHARACTER LOCK 锁定吉他手的形象。镜头、调色和声音规则集中写在开头，不必逐镜重复，模型就能同时拿到节奏和音效提示。
+prompt: |
+  Cinematic horror-action short film set at an outdoor music concert at night, opens with an instant hook, grounded realistic style, maximum dynamic camera work. Setting: a concert stage with lights and speakers, a large crowd of attendees facing the stage, a live band performing. CHARACTER LOCK: the main character is a guitarist on stage, mid-20s, leather jacket, consistent in every shot. Muted concert-lighting color grading with colorful stage lights cutting through darkness, natural diegetic sound throughout, tension score entering immediately.
+  >
+  > **[0-1s]** Hard cut: a man in the crowd suddenly collapses, convulsing hard near the front barrier.
+  >
+  > **[1-2s]** Nearby fans back away in confusion as his skin pales and veins darken rapidly.
+  >
+  > **[2-3s]** He rises fast, lunging at the person beside him, pulling her down into the crowd.
+  >
+  > **[3-4s]** Screaming erupts near the stage, the crowd pushing back in a wave of panic.
+  >
+  > **[4-5s]** She convulses hard, rising seconds later alongside him, both turning toward the crowd.
+  >
+  > **[5-6s]** The guitarist on stage stops playing, staring down in alarm as the chaos spreads below.
+  >
+  > **[6-7s]** More people fall and rise infected, the front section of the crowd dissolving into chaos.
+  >
+  > **[7-8s]** Security guards rush in, trying to hold a line, but the infected break through fast.
+  >
+  > **[8-9s]** One infected climbs onto the stage, lunging toward the drummer.
+  >
+  > **[9-10s]** The guitarist grabs a stage prop knife used in their performance, gripping it tightly.
+  >
+  > **[10-11s]** He steps in, driving the infected back with a firm strike, giving the drummer room to escape.
+  >
+  > **[11-12s]** A second infected climbs up from the side, lunging toward the guitarist.
+  >
+  > **[12-13s]** He pivots fast, deflecting its grab and countering with a sharp strike.
+  >
+  > **[13-14s]** It staggers back off the stage edge, falling into the crowd below.
+  >
+  > **[14-15s]** SLOW MOTION insert: a third infected lunges at him from the opposite side.
+  >
+  > **[15-16s]** He spins, striking it down with a decisive motion, clearing the stage.
+  >
+  > **[16-17s]** Wide shot: security finally regains ground, pushing the remaining infected back from the stage area.
+  >
+  > **[17-18s]** The guitarist helps the rest of the band off the stage through a side exit.
+  >
+  > **[18-19s]** Fans stream out through the venue's main gates, security guiding them to safety.
+  >
+  > **[19-21s]** Wide shot: the stage now empty except for scattered equipment, lights still flashing colorfully overhead.
+  >
+  > **[21-23s]** The guitarist checks on his bandmates backstage, all accounted for and safe.
+  >
+  > **[23-25s]** He sets the prop knife down, hands trembling slightly, catching his breath.
+  >
+  > **[25-27s]** Security personnel secure the venue perimeter, confirming the area is clear.
+  >
+  > **[27-29s]** The band stands together backstage, exchanging exhausted but relieved glances.
+  >
+  > **[29-30s]** Final shot: the guitarist looks out at the now-empty stage through a gap in the curtain, stage lights still glowing. Cut to black.
+  >
+  > Natural diegetic sound throughout — convulsing, screaming, music cutting out, crowd noise, heavy breathing — layered with a tense instrumental score building through the chaos and easing into relief at the end. No text overlay, no watermark. Maximum dynamic camera variety — close-ups, wide shots, tracking shots, slow motion reserved for the final stage encounter. Realistic shake only during physical impacts, colorful concert stage lighting against darkness. @SocialSight

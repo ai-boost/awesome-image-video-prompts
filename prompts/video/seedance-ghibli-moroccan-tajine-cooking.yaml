@@ -1,0 +1,24 @@
+id: seedance-ghibli-moroccan-tajine-cooking
+title:
+  en: Anime style tajine cooking over coals in mountains
+  zh: 山间炭火上炖煮摩洛哥塔吉锅的动画场景
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- anime
+- ghibli-style
+- cooking
+- morocco
+source:
+  name: '@aiwithlumi on X'
+  url: https://x.com/aiwithlumi/status/2095089534916874708
+  credit: lumiAI
+  captured: '2026-10-29'
+  posted: '2026-09-02'
+video: https://x.com/aiwithlumi/status/2095089534916874708
+notes:
+  en: The prompt walks through the cooking steps in order and ends on one clear reveal, so the model has a beginning, middle and end to follow. Naming the style, along with gentle animation and warm natural colors, sets the look for the whole clip.
+  zh: 提示词按烹饪步骤的先后顺序描述，并以揭盖的画面收尾，模型有清楚的开头、过程和结尾可循。点明吉卜力风格、柔和动画和温暖自然的色调，为整段视频定下画面基调。
+prompt: |
+  Create a whimsical Studio Ghibli-inspired animated scene showing a traditional Moroccan lamb tajine being prepared outdoors in a breathtaking mountainous landscape. Begin with wild mountain goats on rocky cliffs, then show the cook preparing fresh lamb, picking dark olives, salting preserved lemons, and slicing herbs and meat. Pour olive oil into a rustic clay tajine, layer in lamb, olives, lemons, and herbs, seal it with the conical lid, and place it over glowing coals in a stone fire pit. End with the lid lifting to reveal a steaming, golden lamb tajine as olive oil and herbs glisten in the warm sunlight, with cinematic detail, cozy natural colors, gentle animation, and a magical handcrafted atmosphere.

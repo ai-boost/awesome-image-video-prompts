@@ -1,0 +1,35 @@
+id: seedance-zombie-train-pomeranian-window
+title:
+  en: Woman with Pomeranian on train during zombie chaos
+  zh: 女子抱着博美犬坐在列车上，窗外丧尸混乱
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- zombie
+- horror
+- train
+- pet-dog
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2110365712560902198
+  credit: john_my07
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/john_my07/status/2110365712560902198
+notes:
+  en: A single locked side view of a moving train and a fixed subject pair keeps the framing continuous, while a timed sequence of emotional beats builds the threat through performance rather than cuts. Handheld motion, overcast daylight and live-action grading keep the look grounded instead of glossy.
+  zh: 固定一个侧面取景和连续的列车视角，人物与小狗的位置不变，再用按时间排列的情绪节拍逐步推进危险，让恐惧来自表演而不是镜头切换。明确手持晃动、阴天日光和真人电影调色，画面更接近实拍，而不是光滑的 CGI。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic live-action zombie apocalypse video, filmed like a scene from a real horror movie.
+
+  Camera and composition: Use the same side-angle framing throughout: a wide panoramic train window fills the left two-thirds of the frame, while a young adult East Asian woman sits on a luxurious cream-colored bed on the right, holding a tiny, fluffy cream-colored Pomeranian puppy. Her face must remain clearly visible in a natural three-quarter profile. Warm cabin lights contrast with the cold, grey city outside.
+
+  Action: The train moves through a city descending into zombie chaos. The girl initially relaxes with her puppy, then notices terrified crowds running outside. She gradually sits up, turns toward the window, widens her eyes in genuine fear, and instinctively hugs her puppy closer. Her expression and posture change naturally as the danger approaches. The puppy moves naturally in her arms, looks toward the window, shifts its paws, turns its head, and briefly nestles against her.
+
+  Outside, show realistic infected people chasing commuters through a railway station, crowds fleeing between cars, a bloodied zombie stumbling past the window, and an infected person briefly running alongside the moving train. In the final moments, the train crosses an urban bridge as a huge crowd of zombies floods the streets below. The girl watches in alarm while protecting her puppy.
+
+  Realism: Photorealistic human skin, natural facial expressions, believable dog anatomy and behavior, realistic zombie makeup, authentic city details, accurate window reflections, natural train movement, overcast daylight, subtle handheld camera motion, and cinematic live-action color grading.
+
+  Keep both the girl and puppy visible while giving the outside chaos equal visual importance. One continuous moving-train perspective, with no random camera changes. No static posing, frozen expressions, cartoonish zombies, glossy CGI, exaggerated acting, or artificial-looking AI visuals.

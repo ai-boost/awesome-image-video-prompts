@@ -1,0 +1,26 @@
+id: h3-manga-man-city-street-camera
+title:
+  en: Manga man with phone on city street
+  zh: 漫画男子在城市街头拿着手机
+model: MiniMax H3
+mode: image-to-video
+category: anime
+tags:
+- manga
+- minimal-prompt
+- camera-moves
+- city
+source:
+  name: '@ThannosSnaps on X'
+  url: https://x.com/ThannosSnaps/status/2101645036001657226
+  credit: 𝕋ℍ𝔸ℕℕ𝕆𝕊🫰
+  likes: 23
+  captured: '2026-10-29'
+  posted: '2026-09-20'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ThannosSnaps/status/2101645036001657226
+notes:
+  en: The one-line instruction works because the source manga image already fixes the character, art style and setting, so the model only has to choose motion and camera moves. The reference image anchors the look while the model handles the shot design.
+  zh: 这句简短指令之所以有效，是因为参考漫画图已经固定了人物、画风和场景，模型只需决定动作和运镜。参考图锁定画面风格，镜头设计交给模型完成。
+prompt: |
+  Bring it to life in a hooking manner with the camera angles.

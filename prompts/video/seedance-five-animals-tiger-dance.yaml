@@ -1,0 +1,49 @@
+id: seedance-five-animals-tiger-dance
+title:
+  en: Five cats and a tiger dance in unison
+  zh: 五只猫和一只老虎同步跳舞
+model: Seedance 2.5
+mode: text-to-video
+category: animal
+tags:
+- cats
+- tiger
+- viral-dance
+- led-room
+source:
+  name: '@RizwanAly07 on X'
+  url: https://x.com/RizwanAly07/status/2113513297190511082
+  credit: RizwanAly07
+  captured: '2026-10-29'
+  posted: '2026-10-23'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/RizwanAly07/status/2113513297190511082
+notes:
+  en: The prompt splits the 30 seconds into timed beats with one camera move per segment, giving the model a clear order of moves. A separate STRICT RULES block fixes the animal count, fur colours and the no-morphing constraint across the whole clip.
+  zh: 提示词把30秒拆成带时间段的动作节拍，每段配一个镜头运动，让模型有清晰的动作顺序。单独的严格规则段落锁定动物数量、毛色并禁止变形，贯穿整段视频。
+prompt: |
+  DURATION: 30 seconds
+  FORMAT: 4:3
+  STYLE: Ultra-realistic animals, funny viral dance, cinematic lighting, smooth motion, 4K, 24fps.
+
+  Create a 30-second ultra-realistic viral dance video featuring five adorable animals: a fluffy orange cat, a white cat, a black-and-white cat, a calico cat, and an orange Bengal tiger. All animals have realistic fur, natural feline faces, and upright dancing poses. They perform together inside a futuristic minimalist white room with a glossy gray floor and bright geometric LED strips covering the walls and ceiling.
+
+  0–4 seconds: All five animals stand close together facing the camera. They look curiously into the lens, move their heads to the beat, and begin preparing for the dance. The camera slowly pulls backward to reveal the futuristic room.
+
+  4–8 seconds: The animals turn around together, briefly showing their backs. The fluffy orange cat turns back toward the camera, raises one front paw, and begins a playful dance gesture.
+
+  8–12 seconds: The white cat and calico cat sway their bodies from side to side. The orange cat waves its front paws rhythmically while the tiger begins moving in sync with the group.
+
+  12–16 seconds: All five animals perform coordinated side steps, swinging their front paws and shifting their bodies rhythmically. The camera smoothly tracks their movements.
+
+  16–20 seconds: The tiger steps forward for a funny solo dance, raising its front paws and moving its shoulders. The other cats dance behind it, maintaining their natural animal appearance.
+
+  20–24 seconds: The fluffy orange cat takes the spotlight, performing playful paw movements and a short body turn. The tiger and other cats continue dancing in the background.
+
+  24–27 seconds: All five animals turn and perform synchronized arm-like paw gestures, side steps, and playful body sways. Their movements become faster and more energetic.
+
+  27–30 seconds: The camera moves closer as all five animals gather together in a final synchronized dance pose, facing the camera. They finish with playful expressions and a slight head tilt.
+
+  VISUAL QUALITY: Photorealistic fur detail, realistic feline anatomy, consistent animal identities, smooth coordinated movements, stable environment, cinematic wide-angle camera, reflective floor, bright futuristic LED lighting.
+
+  STRICT RULES: Keep exactly five animals throughout the video. Do not change their fur colors or identities. No humans, no clothing, no extra animals, no deformed paws, no duplicated bodies, no morphing, no sudden teleportation, no cartoon or CGI appearance, no text, no logos, and no watermark. All movements must flow naturally from one dance sequence to the next.

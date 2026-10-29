@@ -1,0 +1,44 @@
+id: seedance-fashion-editorial-lying-newspaper-montage
+title:
+  en: Woman lying on newspapers in rapid beauty montage
+  zh: 女子躺在报纸上的快节奏美妆剪辑
+model: Seedance 2.5
+mode: reference-to-video
+category: commercial
+tags:
+- fashion
+- editorial
+- speed-ramp
+- beat-sync
+source:
+  name: '@AIwithNatalia on X'
+  url: https://x.com/AIwithNatalia/status/2103481825096278257
+  credit: Natalia
+  captured: '2026-10-29'
+  posted: '2026-09-25'
+video: https://x.com/AIwithNatalia/status/2103481825096278257
+notes:
+  en: A reference image locks identity, and an explicit no-movement rule holds the lying pose while the timed shot list drives cuts every 0.3 to 1 second. Each segment is tied to a named action, so the edit reads as a montage synced to a fashion beat.
+  zh: 参考图锁定人物身份，明确禁止移动的指令让躺姿保持不变，按时间段列出的镜头清单则驱动每0.3到1秒一次的切换。每段都绑定具体动作，剪辑读起来就是跟随时尚节拍的蒙太奇。
+prompt: |
+  Create a 15-second extremely fast-paced luxury fashion editorial video using the reference image. The woman must remain lying in the exact same pose throughout the entire video — no standing, walking, sitting up, or pose changes. Keep her exact facial features, burgundy hair, identity, and styling consistent.
+
+  The video should feel like a rapid fashion campaign, with constant visual movement and very quick cuts every 0.3–1 second, synced tightly to a punchy fashion beat.
+
+  0–2s: Start with the overhead shot of her lying among newspapers. Rapid push-in → immediate cut to her applying red lipstick.
+
+  2–4s: Ultra-fast beauty cuts:
+  lips → lipstick swipe → sunglasses → red nails → pearl earrings → eyes.
+  Each shot lasts only a fraction of a second, with quick snap zooms and whip transitions.
+
+  4–6s: Back to the full overhead composition. She adjusts her sunglasses while newspapers rapidly fly across the frame. Camera makes a quick circular move around her.
+
+  6–9s: Faster macro montage:
+  lipstick closing → glossy lips → sunglasses catching light → nails gripping newspaper → earrings swinging → burgundy hair moving.
+  Use aggressive editorial cuts, speed ramps, and flash-like transitions.
+
+  9–12s: Return to her lying pose. She casually applies lipstick again as newspapers swirl rapidly around her and red rose petals fall from above, creating layered motion around the completely still fashion pose.
+
+  12–15s: Rapid sequence of eyes → lips → sunglasses → nails → earrings, then a sudden overhead pullback revealing the entire newspaper-covered composition. Newspapers fly directly across the lens and create the final transition.
+
+  Visual style: high-fashion magazine campaign, cinematic overhead photography, dramatic hard sunlight, deep shadows, glossy beauty lighting, realistic skin and hair, rich burgundy/red accents, luxury editorial aesthetic, energetic camera movement, very fast cutting, speed ramps, whip transitions, snap zooms, motion blur, beat-synced editing.

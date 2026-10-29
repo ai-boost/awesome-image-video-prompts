@@ -1,0 +1,33 @@
+id: seedance-universe-to-humanity-documentary
+title:
+  en: Glowing cosmic burst with streaking particles expanding outward
+  zh: 发光的宇宙爆发，粒子向外放射拖出光痕
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- documentary
+- cosmos
+- evolution
+- long-take
+source:
+  name: '@RuzainaMeer on X'
+  url: https://x.com/RuzainaMeer/status/2096837494000308685
+  credit: RuzainaMeer
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/RuzainaMeer/status/2096837494000308685
+notes:
+  en: The prompt chains the whole story into one continuous shot, with named transitions through time and scale and a closing camera pullback from Earth to the Milky Way. Lighting, HDR and realistic physics act as style constraints, and the exclusion list (no text, narration or neon) keeps the frames clean.
+  zh: 提示词把整段从宇宙到人类的历程写成一个连续镜头，用时间和尺度之间的转场串起各个阶段，结尾是从地球拉远到银河的镜头回拉。光照、HDR 和真实物理作为风格约束，排除项（无文字、无旁白、无霓虹）保持画面干净。
+prompt: |
+  Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
+
+  Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
+
+  End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
+
+  Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
+
+  16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.

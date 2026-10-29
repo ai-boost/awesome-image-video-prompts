@@ -1,0 +1,26 @@
+id: h3-white-drop-ghost-dark-glass
+title:
+  en: White drop stretches into a small ghost
+  zh: 白色墨滴拉伸成小幽灵
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- liquid
+- ink
+- morph
+- macro
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/2112325403582832865
+  credit: Glenn Williams
+  likes: 20
+  captured: '2026-10-29'
+  posted: '2026-10-19'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/GlennHasABeard/status/2112325403582832865
+notes:
+  en: One sentence names both the transformation and its end state, so the model commits to a morph instead of a generic splash. The locked glass-height camera keeps the dark liquid as a stable backdrop that makes the white shape read clearly.
+  zh: 一句话同时写出变化过程和终点，让模型执行形态转变，而不是普通的水花。固定的玻璃高度机位让深色液体成为稳定背景，白色形状因此清晰可辨。
+prompt: |
+  as it sinks it stretches into the clear shape of a small white ghost

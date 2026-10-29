@@ -1,0 +1,67 @@
+id: seedance-velvet-kiss-lip-oil-commercial
+title:
+  en: Lip oil bottle macro reveal with falling droplet
+  zh: 唇油瓶微距展示与下落液滴
+model: Seedance 2.5
+mode: reference-to-video
+category: commercial
+tags:
+- beauty
+- product-reveal
+- reference-lock
+- timeline
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2103084704979394875
+  credit: itxabdullaa
+  captured: '2026-10-29'
+  posted: '2026-09-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxabdullaa/status/2103084704979394875
+notes:
+  en: Separate character and product lock blocks are repeated in every shot, and a timestamped shot timeline lets the model follow a fixed 30-second edit. Lens focal lengths, audio cues and a ban on text overlays and morphing are written into the prompt.
+  zh: 在每个镜头中重复角色锁定和产品锁定两段约束，并用带秒数的镜头时间线让模型按固定节奏完成30秒剪辑。焦段、音效要求以及禁止字幕和变形的说明也都写进了提示词。
+prompt: |
+  Part-1 30-SEC VERTICAL 9:16 | PHOTOREALISTIC LUXURY BEAUTY COMMERCIAL
+
+  Create a premium European luxury beauty commercial using the provided CHARACTER REFERENCE and PRODUCT REFERENCE.
+
+  ABSOLUTE REALISM:
+  Live-action cinema quality. Real human model, practical cosmetics, real glass, real liquids, real fruit and physical studio sets. Natural skin pores, realistic eyes, hair strands, hands, reflections, liquid physics and camera optics. No CGI look, wax skin, uncanny eyes, plastic face or AI aesthetic.
+
+  CHARACTER LOCK:
+  Use the exact same blonde female model throughout. Preserve her face, blue-green eyes, high bun, makeup, body proportions and dusty-rose pink suit.
+
+  PRODUCT LOCK:
+  Use the exact VELVET KISS raspberry-red lip oil in every product shot. Preserve bottle shape, color, lettering, glass and rose-gold cap.
+
+  SHOT TIMELINE:
+  0–1.7s — Extreme macro product reveal inside glossy raspberry-red liquid, droplets, rose-gold highlight, slow push-in and subtle rotation.
+
+  1.7–4.1s — Model walks through a pristine white luxury studio, then approaches camera holding VELVET KISS close to lens. Natural focus shift from product to eyes.
+
+  4.1–7.3s — Realistic hands open the lip oil. Macro applicator movement and close-up lip application with natural glossy texture.
+
+  7.3–10.6s — Product hero surrounded by raspberry-red liquid, followed by glossy lips and a chrome-surface product shot.
+
+  10.6–13.5s — Product inside soft blush-pink liquid folds. Realistic fluid physics, macro details and slow camera push toward VELVET KISS branding.
+
+  13.5–18.8s — Model in dusty-rose suit holds product beside her cheek, applies it again, then looks into camera with subtle natural expressions and blinking.
+
+  18.8–22.4s — Editorial upside-down portrait, followed by floating cosmetic droplets and a transition into realistic fresh raspberries and strawberries.
+
+  22.4–26.6s — Product among fresh berries, then model returns to the white studio. She walks toward camera, leans in and holds the product near her lips. Final clean product hero on dusty-rose background.
+
+  26.6–30s — Brief realistic blue-toned editorial beauty contrast, then immediately return to the model in white studio holding VELVET KISS beside her face. Subtle final camera push-in.
+
+  AUDIO:
+  Sophisticated minimal electronic-pop luxury soundtrack with deep bass pulse, glossy synth textures, subtle sparkle and restrained percussion. No vocals or dialogue. Add faint realistic cap-twist, applicator and liquid sounds.
+
+  EDITING:
+  Premium fashion-commercial pacing. Precise music-synced cuts, elegant slow motion, fast editorial transitions and realistic focus pulls. No AI morphing, text, subtitles, promotional graphics or watermarks.
+
+  CAMERA:
+  Full-frame cinema look with 35mm, 50mm, 85mm and 100mm macro lenses. Realistic depth of field, motion blur, exposure, reflections and controlled studio lighting.
+
+  FINAL QUALITY:
+  Photorealistic live-action luxury beauty campaign. Maintain perfect character and product continuity in every frame. Same face, hair, makeup, outfit, body, product design, color, proportions, lettering and cap throughout. Every shot must feel like it was filmed during one professional production.

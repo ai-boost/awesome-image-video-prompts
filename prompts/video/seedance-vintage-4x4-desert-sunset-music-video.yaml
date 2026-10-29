@@ -1,0 +1,44 @@
+id: seedance-vintage-4x4-desert-sunset-music-video
+title:
+  en: Vintage 4x4 kicking up dust at golden hour
+  zh: 黄昏时分扬起沙尘的老式越野车
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- desert
+- golden-hour
+- music-video
+- identity-lock
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2095736444245479557
+  credit: Zara
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+video: https://x.com/ZaraIrahh/status/2095736444245479557
+notes:
+  en: The prompt splits the video into labelled shots with hard cuts, and keeps style, audio and negative prompt in separate blocks. One sentence tying the character to the uploaded image holds identity across the cuts.
+  zh: 提示词把视频拆分为带硬切的分镜，并将风格、音频与负面提示分别列出。开头一句将人物身份锁定到上传图片，使其在多次切镜中保持一致。
+prompt: |
+  Create a photorealistic cinematic adventure music video following a young traveler on an unforgettable journey through the desert at night and sunrise. Use the uploaded image as the exact identity reference and maintain the same face, hair, skin tone and proportions throughout. Keep the character visually consistent in every shot.
+
+  The video begins at golden hour with the traveler driving an old vintage 4x4 across a vast desert highway, wearing a black oversized jacket, white T-shirt and dark jeans. Show close-ups of hands on the steering wheel, sunlight passing across the windshield, dust rising behind the vehicle and wide cinematic shots of endless sand dunes.
+
+  Hard cut to night. The traveler sets up a small campsite beneath a massive star-filled sky. Show a glowing campfire, boots walking across the sand, sparks floating upward and the traveler sitting beside the fire while looking toward the stars.
+
+  Cut to a dramatic desert canyon at first light. The traveler hikes through towering red-rock formations, climbs over rocky terrain and pauses at a high viewpoint overlooking the landscape.
+
+  Hard cut to a sand-dune sequence. The traveler runs down a steep dune, laughs naturally, spins in the wind and watches a distant 4x4 drive across the horizon. Capture realistic wind movement in the clothing and hair.
+
+  Cut to a remote desert road during sunrise. The traveler stands beside the vehicle as the first sunlight illuminates the mountains. Include quick atmospheric shots of tire tracks, desert plants, dust particles, distant birds, rock formations and sunlight moving across the landscape.
+
+  The final sequence shows the traveler driving toward the sunrise on an empty road. The camera slowly pulls back into an enormous aerial-style landscape shot as the vehicle becomes tiny against the desert.
+
+  End with a bold cinematic white title reading “WANDER” over the final sunrise shot.
+
+  Style: Premium cinematic adventure music video, photorealistic live-action, 35mm/50mm cinematic lens look, subtle film grain, natural skin texture, realistic hair and fabric movement, handheld camera mixed with smooth tracking shots, dramatic golden-hour lighting, deep blue night tones, realistic firelight, atmospheric dust, natural motion blur, realistic depth of field, 24fps, hard cuts only.
+
+  Audio: Energetic cinematic electronic music with atmospheric percussion, deep bass and subtle acoustic textures. Mix naturally with engine sounds, desert wind, footsteps, fire crackling and environmental ambience. No dialogue.
+
+  Negative: No CGI look, plastic skin, identity drift, face changes, distorted anatomy, extra limbs, warped vehicles, impossible landscapes, artificial-looking fire, random text, subtitles, logos or watermark.

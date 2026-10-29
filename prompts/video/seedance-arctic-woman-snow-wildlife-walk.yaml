@@ -1,0 +1,26 @@
+id: seedance-arctic-woman-snow-wildlife-walk
+title:
+  en: Woman walks across snowy Arctic plain
+  zh: 女子在北极雪原上行走
+model: Seedance 2.5
+mode: text-to-video
+category: nature
+tags:
+- arctic
+- travel-documentary
+- winter
+- wildlife
+source:
+  name: '@ayzalnooor24521 on X'
+  url: https://x.com/ayzalnooor24521/status/2090654913927983477
+  credit: ayzalnoor
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+video: https://x.com/ayzalnooor24521/status/2090654913927983477
+notes:
+  en: The outfit is listed piece by piece and a same-woman lock is repeated, which keeps the character consistent across the clip. The shot ends on a slow pull-back that reveals the full snowfield, giving the sequence a clear closing frame.
+  zh: 逐件列出服装并重复保持同一人物的指令，使人物在整段视频中保持一致。结尾以缓慢拉远的镜头展示整片雪原，形成清晰的收束画面。
+prompt: |
+  A cheerful young woman explores a vast snow-covered Arctic landscape wearing a warm padded coat, knitted cap, gloves, winter pants, and closed snow boots. She walks through deep snow, amazed by the breathtaking mountains and falling snow. She discovers a polar bear cub and penguins nearby and happily watches them. She takes beautiful photos of the animals with her camera. She laughs and plays gently in the fresh snow while the animals move naturally around her. She sits in the snow, smiling joyfully as the polar bear cub and penguins remain nearby; camera slowly pulls back to reveal the vast snowy landscape.
+  Duration: 14s | 16:9 Landscape | Style: Ultra-realistic cinematic travel documentary, photorealistic 4K HDR, natural winter daylight
+  Maintain the same woman, face, outfit, and appearance throughout. Realistic animal behavior, natural movement, detailed snow and fur, smooth cinematic transitions, immersive winter ambience, no text, no subtitles, no logos, no watermark, no animation.

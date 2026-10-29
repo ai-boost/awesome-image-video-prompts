@@ -1,0 +1,32 @@
+id: h3-girl-hose-yellow-car-street
+title:
+  en: Tattooed girl with hose on yellow car
+  zh: 纹身女孩坐在黄色汽车上拿着水管
+model: MiniMax H3
+mode: reference-to-video
+category: dialogue
+tags:
+- reference-image
+- multi-shot
+- dialogue
+- street-style
+source:
+  name: '@ou_zhen599 on X'
+  url: https://x.com/ou_zhen599/status/2094423490845921745
+  credit: Loriel.AI
+  likes: 15
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/ou_zhen599/status/2094423490845921745
+notes:
+  en: A reference picture locks the face, outfit and pose, and the first frame starts from that pose with no reset. Timed shot blocks with spoken lines and a closing sound list keep the cut sequence and audio clear.
+  zh: 参考图锁定人物外观、服装和姿势，首帧直接从该姿势开始且不重置。按时间码划分的分镜加上台词和音效清单，使镜头顺序和声音都清楚。
+prompt: |
+  For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+  integrated_multimodal_description: [Shot 1] Live-action, cinematic realism, modern western attitude, small-town cowboy entrance energy, not a car wash video and not a glamour ad. The girl fully matches <Picture 1>: same face, short hair, wet skin, black semi-sheer top, denim shorts, tattoos, sneakers, yellow vintage car, hose, summer street, storefronts, warm streetlights, blue sky, and clouds. The first frame begins exactly from the pose in <Picture 1>, with her seated on the yellow hood, one hand supporting herself, the other holding the hose, and the water already swinging to one side, with no pose reset. IMAX 70mm film grain, Nolan-inspired cinematic realism, photorealistic natural palette with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. Low-angle medium shot with a slow slight push-in and faint living sway. From the first second she is already moving: casually swinging the water stream, shifting her shoulders with relaxed swagger, smiling like she already owns the whole street. All water already on her legs must keep moving naturally at all times, flowing, splitting, merging, and dripping with changing paths as she moves. Her chest and upper torso must show subtle real secondary motion from breath, small body sway, landing, and walking, visible but restrained. The nearby off-screen man (S1), mature, relaxed, amused, says in an off-screen voiceover: <d>[English] You making trouble again?</d> while remaining unseen. She does not stop moving, only smiles more and lifts her eyes near the lens. [Shot 2] At 00:02.600, the camera cuts tighter and sinks with her movement. She shuts off the water, flicks the hose aside like tossing a rein, and slides off the hood cleanly, right leg first, landing light and confident like a cowboy dismount. The girl (S2), young but mature, open, sharp, says: <d>[English] Only when the town’s too quiet.</d> [Shot 3] At 00:04.800, the camera tracks backward as she walks toward it, the yellow car falling behind her like a mount she has left behind. She casually wipes a wet hand or brushes her shorts, shoulders loose, stride steady, while the off-screen man (S1) says in an off-screen voiceover: <d>[English] You always come in this loud?</d> She keeps a small smile and brings easy pressure as she closes the distance. [Shot 4] At 00:08.600, the camera tightens to a medium close-up and nearly stops as she reaches a dangerous conversational distance. She leans in slightly, one hand near her waist, and says with playful threat and total control: <d>[English] You gonna stare... or buy me a drink?</d> [Shot 5] At 00:11.800, the camera widens slightly and drifts as she laughs softly, turns away, walks down the street, gives one brief side glance back, and keeps going. She is the only visible person on screen. No car wash commercial energy, no influencer posing, no slow motion, no frozen water, no plastic body motion.
+
+  overall_soundscape: Water spray, hose movement, soft summer street ambience, distant storefront sound, fabric friction, sneaker steps, small metal contact, and natural breathing.
+
+  non_diegetic_music: N/A

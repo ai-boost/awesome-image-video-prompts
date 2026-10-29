@@ -1,0 +1,25 @@
+id: seedance-airport-boarding-travel-vlog
+title:
+  en: Stylish woman walks through airport with boarding pass
+  zh: 时尚女子手持登机牌穿过机场航站楼
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- travel-vlog
+- airport
+- photorealistic
+- vertical
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2097601187734561047
+  credit: CaliraVal
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/CaliraVal/status/2097601187734561047
+notes:
+  en: The prompt lists the story beats in order with explicit cuts and camera moves, so the model keeps one subject consistent from terminal to jet bridge to cabin. Naming soft daylight, shallow depth of field and a vertical 4K frame anchors the photorealistic travel-vlog look.
+  zh: 提示词按顺序列出镜头节点并写明切换方式，使人物从航站楼、登机桥到机舱始终保持同一主体。明确写出柔和日光、浅景深和竖屏 4K 画幅，有助于稳定写实的旅拍质感。
+prompt: |
+  Create a cinematic photorealistic travel video of a stylish young woman arriving at an international airport and boarding her flight. She walks through the modern airport terminal while pulling a cream-colored rolling suitcase and carrying a brown leather handbag. Show her checking her boarding pass, walking toward the departure gate, then entering the jet bridge and boarding a commercial airplane. Cut to her finding her window seat inside the aircraft, placing her handbag in the overhead compartment, sitting comfortably, and looking out the window as the plane prepares for takeoff. Realistic airport and airplane details, natural human movement, smooth cinematic camera transitions, soft daylight, shallow depth of field, premium travel-vlog aesthetic, photorealistic, 4K, vertical .

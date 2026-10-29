@@ -1,0 +1,73 @@
+id: h3-white-calla-lily-morph-trails
+title:
+  en: White calla lily unfurls in silk light trails
+  zh: 白色马蹄莲展开丝绸般的光轨
+model: MiniMax H3
+mode: reference-to-video
+category: nature
+tags:
+- macro
+- flowers
+- reference-images
+- long-exposure
+source:
+  name: '@Shinebynous on X'
+  url: https://x.com/Shinebynous/status/2085505725149622337
+  credit: Shine by Nous ✨
+  likes: 28
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Shinebynous/status/2085505725149622337
+notes:
+  en: Seven reference flowers are paired with a timed shot list, so each segment names one transformation and its trail colour. A locked forward macro push on pure black and an explicit ban on cuts and crossfades force the morph to stay continuous.
+  zh: 七张花卉参考图配合逐段时间表，每个时间段指定一次形态变换和对应的光轨颜色。镜头固定为纯黑背景下的前推微距，并明确禁止切换和叠化，使变形保持连续。
+prompt: |
+  Create a breathtaking 15-second cinematic flower-morph sequence using the seven uploaded flower images as consecutive visual references:
+
+  Image 1: white calla lily
+  Image 2: coral hibiscus
+  Image 3: burgundy dahlia
+  Image 4: orange and cobalt-blue bird of paradise
+  Image 5: neon-yellow orchid
+  Image 6: deep-purple iris
+  Image 7: electric-blue Himalayan poppy
+
+  MOTION:
+  One continuous cinematic macro shot. The camera performs a slow, controlled push toward the center of the flower while every transformation happens clearly in full view. The flower remains centered against a deep, pure black background. Petals rotate, flutter, stretch, divide, multiply, fold, and physically reorganize into each new botanical form. Translucent long-exposure trails follow the movement like illuminated silk ribbons. The single stem remains visually anchored throughout the sequence.
+
+  ACTION AND TIMING:
+
+  0–2 seconds:
+  A white calla lily rotates gracefully. Its sculptural trumpet petal unfurls, creating sweeping trails of pearl white, silver, and champagne.
+
+  2–4 seconds:
+  The calla lily’s curved petal organically divides into five broad petals, becoming a coral hibiscus. The golden spadix elongates into the hibiscus stamen while coral, peach, and white trails spiral outward.
+
+  4–6 seconds:
+  The hibiscus petals rapidly multiply from the center and fold into hundreds of geometric burgundy and raspberry petals. The flower becomes a richly layered dahlia, forming a hypnotic rotating vortex.
+
+  6–8 seconds:
+  The dahlia petals sharpen, extend, and reorganize into the architectural form of a bird of paradise. Burgundy and magenta ignite into fiery orange while cobalt-blue and turquoise structures burst outward like exotic wings.
+
+  8–10 seconds:
+  The bird of paradise curls inward. Its orange structures soften and divide into the broad neon-yellow petals of an orchid. The cobalt-blue structures transform into the intricate orchid center, accented with crimson and gold. Yellow, chartreuse, and luminous-white trails pulse outward.
+
+  10–12 seconds:
+  The orchid petals stretch and twist, transitioning from neon yellow through electric violet into deep royal purple. Golden markings expand into the textured beard of a majestic iris. The iris opens dramatically as violet, lavender, and golden trails circle around it.
+
+  12–15 seconds:
+  At the visual climax, the deep-purple iris spins faster. Its sculptural petals soften into delicate translucent fabric while the violet color shifts through indigo into intense electric blue. The iris beard separates into hundreds of tiny golden particles that spiral around the flower’s center.
+
+  The flowing petals broaden and physically transform into the delicate, paper-thin petals of an electric-blue Himalayan poppy. Its intricate golden-yellow stamens and pale-green pistil assemble from the swirling particles and snap into razor-sharp focus.
+
+  The poppy opens fully as a final wave of cobalt-blue, turquoise, icy-white, and silvery long-exposure trails expands outward like luminous wings. The trails gently return into the petals, leaving the electric-blue Himalayan poppy completely still, perfectly formed, and razor-sharp in the final frame.
+
+  RHYTHM:
+  Begin elegant and controlled, then progressively increase the speed, scale, and complexity of each transformation. Build through strong color contrasts and reach maximum energy during the purple-iris-to-electric-blue-poppy transformation. End with a brief moment of complete stillness so the final flower can be clearly admired.
+
+  STYLE:
+  Photo-realistic premium macro cinematography, extreme botanical detail, physically believable organic morphing, dramatic side-lighting, deep cinematic contrast, translucent petals, luminous long-exposure trails, controlled volumetric particles, elegant motion blur, luxurious fine-art photography, pure black background, clean centered composition, rich natural colors, high-end commercial quality, 4K.
+
+  IMPORTANT:
+  Create genuine continuous anatomical flower transformations. No cuts, crossfades, dissolves, overlays, double exposure, image blending, or separate flower shots. Every flower must physically grow from the petals, center, and botanical structures of the previous flower. Preserve one continuous stem, stable central positioning, consistent scale, coherent lighting, and uninterrupted forward camera movement. Every flower must remain clearly recognizable before transforming. No additional flowers, bouquet, vase, hands, insects, text, borders, or background objects.

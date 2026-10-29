@@ -1,0 +1,39 @@
+id: seedance-rainy-day-bookshop-vlog
+title:
+  en: Vlogger narrates rainy walk into cozy bookshop
+  zh: 女生边走边说旁白，雨天走进温暖书店
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- dialogue
+- rain
+- multi-shot
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2101901362850353176
+  credit: Zyrellix
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2101901362850353176
+notes:
+  en: Each line of dialogue is tied to a specific beat and location, so speech, camera moves and rain sounds stay in sync across the cuts. Repeating her hair, earrings and clothing at the top keeps the look consistent through every scene change.
+  zh: 每句台词都绑定到具体场景和动作，台词、镜头运动与雨声按段落对齐。开头固定发型、耳环和服装，保证换场后人物形象前后一致。
+prompt: |
+  A pretty young woman with dark hair in a loose ponytail, gold hoop earrings, burgundy long-sleeve top and beige trench coat. Soft, natural young female voice speaking casually to camera in a warm, slightly British/neutral accent, like a personal vlog.
+  She starts by a rain-streaked window looking out at wet cobblestone streets and says:
+  “Yeah, I definitely wasn't planning on going anywhere today, but staying home sounded boring.”
+  She puts on her trench coat, steps out the black front door into light rain, walks on shiny cobbles, smiles and says:
+  “Okay, maybe this was a bad idea.”
+  She notices a warm glowing independent bookshop, stops surprised:
+  “Wait, I've never been in here.”
+  She goes inside, browses wooden shelves, picks up a book and says:
+  “Okay, this was worth leaving the house for.”
+  Cut to her sitting by a rainy cafe window sipping coffee from a brown paper cup:
+  “This is exactly what I needed.”
+  She walks down a long empty cobblestone street at golden hour with coffee and a paper bag, sunlight flaring through her hair, then turns to camera smiling:
+  “Okay, I'm really glad I went out.”
+  “Random plans are usually the best ones.”
+  Soft natural lighting, wet reflections, cozy cinematic color grade, handheld but smooth camera, quiet rain and footsteps under her voice. Warm, slightly melancholic then happy mood. No text on screen.

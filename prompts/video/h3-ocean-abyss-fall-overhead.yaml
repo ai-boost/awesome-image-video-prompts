@@ -1,0 +1,41 @@
+id: h3-ocean-abyss-fall-overhead
+title:
+  en: Man falls through coral reef toward shipwreck
+  zh: 男子仰面下坠穿过珊瑚礁与沉船
+model: MiniMax H3
+mode: reference-to-video
+category: action
+tags:
+- underwater
+- character-reference
+- overhead-camera
+- anamorphic
+source:
+  name: '@I_Muhammadali44 on X'
+  url: https://x.com/I_Muhammadali44/status/2085234595784773704
+  credit: Muhammad Ali
+  likes: 44
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/I_Muhammadali44/status/2085234595784773704
+notes:
+  en: A fixed overhead camera and a character sheet as the only identity reference keep the fall vertical and the face consistent. Listing each underwater level in order gives the fall a clear sequence of locations.
+  zh: 固定的俯视镜头加上角色设定图作为唯一身份参考，使下坠保持垂直且面部一致。按顺序列出每个水下场景，让下坠有清晰的空间推进。
+prompt: |
+  "Use the uploaded character sheet the ONLY identity reference. Preserve the exact face, hairstyle, body proportions, skin tone, and appearance throughout the video.
+
+  The camera remains directly above him looking straight downward during the entire sequence. He falls vertically beneath the camera through an impossible underwater abyss without changing direction.
+  He stays on his back facing the lens, both arms reaching upward while bubbles, hair, clothing, and loose fabric stream upward through the water.
+
+  He continuously falls through:
+  vibrant coral reef, abandoned pirate ship, underwater research station, giant kelp forest
+  submerged ancient city, whale migration corridor, volcanic hydrothermal vent field, endless dark ocean trench.
+
+  Every level is entered by crashing through ceilings, glass domes, ship decks, coral arches, ruined temples, and collapsing structures. Schools of fish, jellyfish, manta rays, bubbles, seaweed, bioluminescent creatures, and debris flow upward past the camera naturally.
+
+  His expressions progress from surprise and panic to determination, breath-holding, fear, exhaustion, and final acceptance while continuously reaching upward for anything that might stop his fall.
+
+  24mm anamorphic lens, underwater cinematic lighting, volumetric light rays, realistic water distortion, gentle bloom, film grain, radial motion blur, handheld floating movement.
+
+  Audio: Epic orchestral score mixed with deep underwater ambience, whale calls, distant metallic creaks, volcanic rumbles, rushing currents, and a powerful cinematic finale."

@@ -1,0 +1,39 @@
+id: seedance-man-werewolf-transformation-forest
+title:
+  en: Man transforms into werewolf in foggy forest
+  zh: 雾林中男子变身狼人
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- werewolf
+- transformation
+- night-forest
+- identity-lock
+source:
+  name: '@AIwithWania on X'
+  url: https://x.com/AIwithWania/status/2101908482073252349
+  credit: AIwithWania
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithWania/status/2101908482073252349
+notes:
+  en: A timed beat sheet with second ranges pins each stage of the change, and the instruction to keep the same face and identity holds the man constant. Explicit bans on cuts, morphing and gore keep the transformation continuous, and the closing count of exactly one man and one werewolf blocks duplicates.
+  zh: 用带秒数的分段节拍表把变身拆成连续的几个阶段，并要求保持同一张脸和同一身份。禁止切镜、突变和血腥保证变身过程连贯，结尾的数量约束要求恰好一人变身为一只狼人，防止出现重复主体。
+prompt: |
+  -
+
+  Create a  cinematic dark-fantasy transformation in 16:9. A realistic adult man with short dark hair, light stubble and black clothes stands alone in a cold, foggy pine forest at night. Keep the SAME face, body, hairstyle and identity throughout.
+
+  0–3s: Medium frontal shot. He bends forward slightly, holding both sides of his head, breathing heavily. Slow push-in. Blue-grey moonlight and drifting fog.
+
+  3–6s: Tight close-up. His jaw clenches, expression intensifies and eyes gradually glow amber-orange. Fur appears around temples, cheeks and neck; ears slowly become pointed.
+
+  6–10s: Continuous realistic transformation: face turns wolf-like, jaw extends, teeth sharpen, dark brown-grey fur spreads across head, shoulders, arms and torso. Body grows taller and more muscular. No instant morph, cuts, blood or gore.
+
+  10–12s: Camera pulls back to reveal one fully transformed realistic werewolf with glowing amber eyes, thick fur, muscular body, clawed hands, wolf-like legs and a natural tail. Full moon behind the trees.
+
+  12–15s: Dramatic full-body wide shot. The werewolf stands in fog, breathing heavily, fur moving in the wind, then slowly raises its head toward the moon.
+
+  Style: ultra-realistic live-action, cinematic VFX, volumetric moonlight, deep shadows, realistic fur, natural anatomy, depth of field, subtle motion blur and film grain. Sound: forest wind, heavy breathing, low bass rumble, transformation sounds and deep growl. Exactly ONE man transforms into ONE werewolf. No duplicates, extra creatures, extra limbs, cartoon look or deformed anatomy.

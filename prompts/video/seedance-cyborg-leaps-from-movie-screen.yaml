@@ -1,0 +1,24 @@
+id: seedance-cyborg-leaps-from-movie-screen
+title:
+  en: Woman watches cyborg in ruins on cinema screen
+  zh: 女子在影院观看屏幕中的废墟赛博格
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- scene-transition
+- cyborg
+- dynamic-camera
+- theater
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2105158267437548020
+  credit: Avelyrah
+  captured: '2026-10-29'
+  posted: '2026-09-30'
+video: https://x.com/AvelyrahnAI/status/2105158267437548020
+notes:
+  en: Three clear beats (a theater shot, the villain leaping off the screen, then a shatter cut into a ruin) give the model an ordered sequence to follow. Specific camera direction, named effects and a concrete look for the woman keep the subject and style steady across the cut.
+  zh: 用三个明确的节拍组织提示：影院中的固定镜头、反派从屏幕跃出、画面碎裂切换到古迹废墟，让模型有清晰的先后顺序可循。具体的镜头运动、特效描述和人物外观，有助于在切换前后保持主体与风格稳定。
+prompt: |
+  Cinematic 4K action sequence in a dark movie theater. A young Asian woman with long black hair and a green long-sleeve top is eating popcorn, watching a sci-fi blockbuster on screen. Suddenly, a robotic cyborg villain with glowing red eyes leaps out of the movie screen into the theater. The environment instantly shatters and transitions into an epic ancient ruin courtyard with stone columns under a stormy sky. Dynamic camera movement tracking intense hand-to-hand combat between the woman wielding swirling green magical energy and the metallic cyborg casting purple spell circles. High-budget Hollywood blockbuster aesthetics, dramatic lighting, particle effects, slow-motion impacts, and hyper-realistic textures.

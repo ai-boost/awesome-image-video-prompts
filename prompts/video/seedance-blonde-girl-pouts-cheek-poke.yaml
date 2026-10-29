@@ -1,0 +1,65 @@
+id: seedance-blonde-girl-pouts-cheek-poke
+title:
+  en: Blonde girl pouts after finger pokes her cheek
+  zh: 金发女孩被戳脸后撒娇委屈
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- portrait
+- character-consistency
+- timed-beats
+- micro-expression
+source:
+  name: '@Chengzilhy on X'
+  url: https://x.com/Chengzilhy/status/2091477403239596328
+  credit: Chengzilhy
+  captured: '2026-10-29'
+  posted: '2026-08-23'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Chengzilhy/status/2091477403239596328
+notes:
+  en: A timed beat sheet splits the 8 second clip into segments, letting the eyes lead and the head follow late for a sneaky glance. A reference image plus an explicit list of features to keep (face, bangs, hairclip, makeup) holds the same character across every beat.
+  zh: 按秒切分的分镜表让眼神先动、头部稍后跟随，形成偷看的小动作。参考图加上需要保持的特征清单（脸型、空气刘海、发夹、妆容）让同一角色贯穿每个镜头节拍。
+prompt: |
+  参考上传图片中的同一位成年女性角色，保持脸型、五官、浅金色长发、空气刘海、深蓝色花朵发夹、妆容与整体造型一致。
+
+  生成一段 8 秒、9:16 竖屏、固定机位、一镜到底的正面超近景人物视频。
+
+  整体表演：软萌、调皮、可爱、娇俏，带一点自然撒娇和假装委屈感。
+  重点表现眼神、嘴唇、眉毛、脸颊和轻微头部跟随产生的真实微表情。
+  0–1.5 秒
+
+  女主正视镜头，神态柔和可爱，嘴唇自然微张后轻轻合拢。
+  伴随呼吸，头部和下巴产生极小幅自然移动。
+
+  1.5–3.7 秒
+  眼睛先慢慢向画面左侧移动，偷偷侧瞄旁边。
+  头部稍晚才向同方向轻微跟随，移动幅度明显小于眼神，形成调皮、偷偷观察的感觉。
+
+  3.7–4.6 秒
+
+  自然完成一次双眼眨眼。
+  视线重新回到镜头，头部同时轻轻回正，恢复软萌自然的表情。
+  4.6–5.2 秒
+
+  眼睛先向下看，下巴随后轻微降低。
+  一只手从画面右下方自然进入，食指缓慢靠近画面右侧脸颊。
+  女主观察手指，嘴唇开始轻轻向前收拢。
+
+  5.2–6.6 秒
+  食指轻轻按压脸颊，脸颊产生真实柔软的轻微凹陷。
+  接触瞬间女主双眼短暂眯起，头部顺着触碰产生极轻微的受力让位和侧倾。
+
+  随后重新睁眼看向镜头：
+
+  眉头轻轻收拢 + 下唇微微鼓起 + 嘴角轻微向下
+  形成调皮可爱、撒娇式的假装委屈表情。
+  6.6–8 秒
+
+  食指离开脸颊，脸颊自然回弹，头部轻轻回正。
+
+  委屈表情连续释放：
+  嘴唇放松 → 眉头舒展 → 自然快速眨一次双眼。
+
+  最后重新正视镜头，嘴唇轻轻微张，恢复甜甜、软萌、略带调皮感的自然表情。

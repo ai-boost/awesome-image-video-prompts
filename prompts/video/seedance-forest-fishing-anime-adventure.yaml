@@ -1,0 +1,30 @@
+id: seedance-forest-fishing-anime-adventure
+title:
+  en: Boy catches a fish beside a forest river
+  zh: 男孩在森林河边钓到一条大鱼
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- anime
+- fishing
+- forest
+- animals
+- campfire
+source:
+  name: '@Lianaalane on X'
+  url: https://x.com/Lianaalane/status/2087781003754602664
+  credit: liana
+  captured: '2026-10-29'
+  posted: '2026-08-13'
+video: https://x.com/Lianaalane/status/2087781003754602664
+notes:
+  en: The prompt is split into three beats, each restating the setting, and it fixes the same boy, outfit and art style up front so the character holds across cuts. It ends on a wide shot that names every character, giving the model one clear final frame to aim for.
+  zh: 提示词分为三个段落，每段都重述场景，并在开头固定同一个男孩、服装和画风的要求，让角色在切镜后保持一致。结尾用全景镜头点名所有角色，给模型一个明确的最终画面目标。
+prompt: |
+  Create a 14-second cinematic anime/cartoon video in a lush green forest beside a wide, crystal-clear river filled with many colorful fish swimming naturally underwater. Keep the same boy, outfit, face, and cartoon style throughout.
+
+  A cute boy fishes from the riverbank and catches a big fish. Show the beautiful forest and wide river with many colorful fish swimming underwater. The boy happily pulls the fish out of the water and looks excited.
+  At another spot beside the same river, the boy makes a small campfire and roasts the big fish on a wooden stick. The fish slowly becomes golden and delicious while smoke rises gently. The river and green forest remain visible in the background.
+  The boy sits beside the campfire with a cute chubby panda, bear, fox, rabbit, and squirrel. They all sit together and happily share the cooked fish. The animals smile, laugh, and talk to each other in English while enjoying the meal. End with a wide cinematic shot showing the boy, all his animal friends, the campfire, beautiful river, and lush forest.
+  Style: Cute high-quality anime/cartoon, expressive characters, vibrant colors, cinematic lighting, smooth animation, detailed forest and river, warm friendship atmosphere, consistent characters throughout. No cows, no logos, no watermark, no text.

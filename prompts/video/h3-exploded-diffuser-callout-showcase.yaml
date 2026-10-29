@@ -1,0 +1,39 @@
+id: h3-exploded-diffuser-callout-showcase
+title:
+  en: Exploded view diffuser with callout overlay
+  zh: 带标注浮层的爆炸视图香薰机
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- product-showcase
+- exploded-view
+- callout-overlay
+- macro-shot
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2085425839236096175
+  credit: LudovicCreator
+  likes: 31
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/LudovicCreator/status/2085425839236096175
+notes:
+  en: Timestamped beats divide the 15 second clip into camera moves, and the overlay text is given word for word with its exact second and pointer target. The closing negative list (no hands, no logos, no duplicated parts) keeps the product geometry stable through the exploded reveal.
+  zh: 带时间码的分段结构把 15 秒拆成镜头动作，并逐字给出浮层文字、出现秒数和指向的部件。结尾的否定约束列表（无手、无标志、无重复部件）让爆炸视图中的产品形态保持稳定。
+prompt: |
+  Create a 15-second luxury cinematic product showcase for a premium compact fragrance diffuser with a sculpted ceramic body and brushed-metal top. The product has no visible branding, labels, logos or printed text.
+
+  0–4s: Begin with an extreme macro tracking shot gliding across the fine matte ceramic texture, seamless curved body, precision-machined metal rim and recessed control surface. A narrow band of warm light travels across the materials against a deep black studio background, revealing delicate surface detail and controlled highlights.
+
+  4–8s: Pull back into a three-quarter hero view. The diffuser rotates slowly above a glossy dark-stone pedestal. A subtle ambient light ring gradually illuminates beneath the metal top. A fine stream of mist rises naturally and disperses softly into the air. Maintain stable geometry, consistent proportions and elegant symmetry.
+
+  8–12s: Transition into an exploded-view reveal. The ceramic shell, fragrance reservoir, ultrasonic plate, airflow chamber and brushed-metal top separate smoothly in perfect vertical alignment. Delicate illuminated mist particles flow upward through the internal airflow channel while the camera performs a restrained side orbit.
+
+  At 9.2s, display a clean, partially transparent callout beside the ultrasonic plate. Connect it to the component with a fine pointer line. Use a thin champagne-gold border and minimal glass-like transparency. The callout title reads: “Silent Ultrasonic Diffusion”. Beneath it, in smaller text, display: “A refined mist without heat”. Keep the overlay sharp, readable, modern and premium without obscuring the internal construction.
+
+  12–15s: Every component reconnects seamlessly. The diffuser settles into a centered front-facing hero composition as warm rim lighting defines its silhouette. The callout fades away before the final lockup. Complete a gentle dolly-in while a controlled plume of mist rises from the top and the ambient light ring softly pulses once.
+
+  Premium wellness-commercial finish, photorealistic ceramic and metal, realistic mist simulation, controlled reflections, soft shadows, shallow depth of field, crisp surface detail, stable product shape, no liquid spills, no people, no hands, no logos, no writing on the product, no distortion, no duplicated components and no illegible overlay text.
+  2/2

@@ -1,0 +1,49 @@
+id: seedance-tiny-chef-giant-kitchen
+title:
+  en: Tiny hand-drawn chef beside giant wooden spoon
+  zh: 小手绘厨师站在巨大木勺旁
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- mixed-reality
+- 2d-animation
+- kitchen
+- macro
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2105129836750786993
+  credit: Synthia
+  captured: '2026-10-29'
+  posted: '2026-09-30'
+video: https://x.com/AIwithSynthia/status/2105129836750786993
+notes:
+  en: A mixed-reality structure pairs a 2D hand-drawn character with a photorealistic kitchen, and macro and low-angle shots sell the scale gap. Numbered visual beats in time order plus a separate audio list keep the multi-step sequence readable.
+  zh: 混合现实结构把手绘2D角色放进真实厨房，靠微距与低角度镜头体现比例差。按时间顺序编号的画面节拍加上独立的音效清单，让多步骤动作保持清晰。
+prompt: |
+  Subject
+  A miniature hand-drawn 2D animated girl with curly black hair, a yellow apron, red sneakers, and a tiny wooden spoon, cooking inside a realistic full-sized kitchen.
+
+  Style
+  Mixed-reality hybrid animation combining playful 2D hand-drawn doodle character art with a photorealistic live-action kitchen. Whimsical stop-motion physics, expressive line animation, exaggerated scale, warm cinematic lighting, and playful cooking sound effects.
+
+  Camera & Framing
+  Macro close-ups, low-angle tracking shots, overhead kitchen perspectives, dramatic push-ins, and shallow depth of field emphasizing the tiny chef against oversized kitchen objects.
+
+  Audio & Scene Breakdown
+
+  Visual: The tiny chef stands beside a giant mixing bowl, struggling to climb onto a wooden spoon before using it as a makeshift ladder.
+
+  Visual: She jumps into the bowl and rapidly mixes pancake batter while the whisk spins around her like a giant amusement-park ride.
+
+  Visual: She slides down a stream of pancake batter onto a massive frying pan, narrowly avoiding a falling blueberry.
+
+  Visual: The pancake suddenly flips into the air. She jumps onto it and rides it like a surfboard as it spins above the pan.
+
+  Visual: She lands on a giant plate, then uses a strawberry as a trampoline to bounce onto a stack of pancakes.
+
+  Visual: She proudly places a tiny strawberry on top, but the strawberry rolls away. She chases it across the enormous plate.
+
+  Visual: The camera pulls back to reveal the finished pancake breakfast. The tiny chef sits on the edge holding her spoon proudly—then a giant fork suddenly enters frame and lifts the entire pancake stack away. She freezes in disbelief.
+
+  Audio: Playful kitchen ambience, whisking, batter splashes, pancake flip, tiny footsteps, comedic impact sounds, subtle upbeat music, no dialogue.

@@ -1,0 +1,59 @@
+id: seedance-bankai-ice-freeze-god-speed
+title:
+  en: Swordswoman faces colossal robed figure in industrial yard
+  zh: 剑士直面工业场地中的巨大黑袍身影
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- ice-effects
+- samurai
+- continuity-lock
+- giant-creature
+source:
+  name: '@itxsarmadd on X'
+  url: https://x.com/itxsarmadd/status/2104896303625105834
+  credit: itxsarmadd
+  captured: '2026-10-29'
+  posted: '2026-09-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxsarmadd/status/2104896303625105834
+notes:
+  en: A continuity lock and a bankai lock fix the character, the location and the giant's scale across both scenes, and limit the effects to physical ice behaviour with no beams or magic. Each scene is written as an ordered beat list that ends on a stated final frame, which gives the model a clear handoff between the two clips.
+  zh: 连续性锁定和 Bankai 锁定条款固定了角色、场景和巨人的体型，并把特效限制为真实的冰晶物理过程，不出现光束或魔法。每个场景都按顺序写成动作节拍并给出末帧状态，使两段之间的衔接有明确依据。
+prompt: |
+  Duration: 20s (2×10s)
+  Format: 16:9 | 24fps
+  Style: Ultra-photorealistic live-action Japanese supernatural action, premium Hollywood cinematography, grounded realism, physically believable ice effects, cinematic blue-hour atmosphere.
+
+  CONTINUITY LOCK
+
+  - Fusia = exact same identity throughout.
+  - Fully manifested Bankai from Scene 1 onward.
+  - Same abandoned hydroelectric maintenance station.
+  - Same Fusia–Boncoz spatial axis.
+  - Direct continuity between both scenes.
+  - Boncoz remains colossal (3–4× human height).
+
+  BANKAI LOCK
+
+  - Hakka no Togame = environmental temperature collapse.
+  - No beams, projectiles, energy waves, teleportation, or magical auras.
+  - Ice spreads physically through water, concrete, metal, moss, and machinery.
+  - Real crystalline material behavior only.
+
+  SCENE 1 — ENVIRONMENTAL FREEZE
+
+  Fusia faces Boncoz across the abandoned maintenance yard and calmly declares, "Bankai... Hakka no Togame." Temperature rapidly collapses. Water crystallizes, puddles freeze, pipes and machinery gather frost, and ice spreads naturally through connected surfaces. A ground-level freezing front races across the yard toward Boncoz. The colossal creature struggles as thick crystalline ice climbs over his feet, legs, torso, shoulders, and arms. Final frame: Boncoz remains standing, fully encased in ice except for his exposed head, while Fusia stands composed in fully manifested Bankai.
+
+  SCENE 2 — GOD SPEED FINISHING SLASH
+
+  Continue directly from Scene 1. Fusia locks eyes on Boncoz, tightens her grip on the crystalline katana, and drops into a launch stance. God Speed activates through one explosive acceleration burst, carrying her instantly across the battlefield. Upon reaching Boncoz, time shifts into cinematic slow motion as she delivers a full-body finishing slash through the frozen giant. Massive fractures erupt through the existing ice shell and spread across his colossal body. Fusia finishes in a low stance as cracks multiply. The fracture network reaches Boncoz's exposed head, freezing it completely. A final catastrophic fracture tears through the entire frozen structure and Boncoz explodes into countless crystalline ice shards while Fusia remains motionless amid the falling debris.
+
+  AUDIO
+
+  No music. Cold wind, dripping water, ice crystallization, cracking frost, Boncoz's struggle, God Speed acceleration, impact shockwave, ice fracture, and shattering debris.
+
+  NEGATIVE
+
+  anime, cartoon, game graphics, glossy CGI, plastic skin, AI faces, energy beams, magical projectiles, teleportation, shrinking scale, repeated freezing, frozen poses, daylight, dead frames, unnecessary pauses.

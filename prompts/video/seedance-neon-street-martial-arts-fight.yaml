@@ -1,0 +1,35 @@
+id: seedance-neon-street-martial-arts-fight
+title:
+  en: Woman sweeps and kicks man in neon street fight
+  zh: 霓虹街头女子击倒男子的格斗场面
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- fight-scene
+- martial-arts
+- neon-street
+- timed-beats
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2110290053670814031
+  credit: codewithhajra
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/codewithhajra/status/2110290053670814031
+notes:
+  en: Timed beats (0 to 2 seconds, 2 to 5 seconds and so on) split the choreography into ordered steps the model can follow move by move. A detailed look for each character plus a closing spec line for framing, length and consistency keeps both faces and outfits stable across cuts.
+  zh: 按时间段（0到2秒、2到5秒等）拆分动作，把打斗编排成有先后顺序的步骤，模型可以逐步执行。前文写明两位角色的外貌细节，结尾再统一规定画幅、时长和一致性要求，让人物面容与服装在镜头切换中保持稳定。
+prompt: |
+  Create an ultra-realistic, live-action cinematic fight scene featuring two 20-year-old adults. The girl is exceptionally pretty, with long, glossy dark-brown hair, beautiful expressive eyes, delicate facial features, a charming smile, and a confident, fearless attitude. She wears a stylish black fitted jacket, a cute top, blue jeans, and black boots. The boy is a handsome 20-year-old man with an athletic build, messy dark hair, and a cocky expression.
+
+  0–2 seconds: On a neon-lit city street at night, the boy arrogantly blocks her path and suddenly tries to grab her arm. She pulls away instantly, giving him a deadly serious look.
+
+  2–5 seconds: He throws a punch. She smoothly dodges, grabs his arm, spins around, and delivers a powerful kick to his stomach, making him stumble backward in shock.
+
+  5–8 seconds: Furious, he charges at her again. She ducks his attack, sweeps his legs, and delivers a perfectly timed spinning kick that sends him crashing onto the pavement.
+
+  8–10 seconds: She casually fixes her beautiful hair, looks down at him with a cheeky smirk, and says, “Big mistake, buddy.” She turns and walks away confidently while he lies stunned on the ground.
+
+  Visual style: Photorealistic live-action, beautiful natural facial details, realistic skin texture, expressive eyes, detailed hair movement, professional martial arts choreography, fast dynamic camera tracking, dramatic cinematic lighting, realistic physics, authentic impact sounds, consistent character appearances, no gore, no supernatural effects, no cartoon visuals. Vertical 9:16 format, exactly 10 seconds.

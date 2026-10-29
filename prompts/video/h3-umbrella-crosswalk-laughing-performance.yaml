@@ -1,0 +1,27 @@
+id: h3-umbrella-crosswalk-laughing-performance
+title:
+  en: Umbrella girl laughs and sways at crosswalk
+  zh: 撑伞女孩在人行横道上笑着摇摆
+model: MiniMax H3
+mode: reference-to-video
+category: music-dance
+tags:
+- lip-sync
+- facial-performance
+- reference-to-video
+- close-up
+source:
+  name: '@MireilleDartois on X'
+  url: https://x.com/MireilleDartois/status/2085254169259311602
+  credit: ダルトワ★TV
+  likes: 31
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/MireilleDartois/status/2085254169259311602
+notes:
+  en: Stacking the performance as timed beats (lean in and laugh, sing with crinkled eyes, glance away and back, sway to the rhythm) keeps the expression changing across the clip instead of a static lip sync. Reference-to-video anchors her look while the prompt carries the acting.
+  zh: 把表演拆成按时间顺序的动作节拍（凑近镜头大笑、眯眼唱歌、移开视线再回看、随节奏摇头），让表情在整段里持续变化，而不是只对口型。参考图到视频锁定人物形象，提示词负责表演。
+prompt: |
+  She jokingly brings her face close to the camera and laughs.
+  She sings cheerfully, full of excitement. She laughs with her eyes crinkled, smiles with the corners of her mouth turned up, and looks away briefly before looking back at the camera and laughing again. She sways her head to the rhythm, and her hair bounces up and down.

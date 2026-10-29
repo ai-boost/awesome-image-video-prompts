@@ -1,0 +1,84 @@
+id: seedance-batman-batmobile-anime-sequence
+title:
+  en: Hooded hacker eats pizza over rainy city
+  zh: 戴兜帽的黑客边吃披萨边看雨中城市
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- anime
+- batman
+- batmobile
+- timeline
+source:
+  name: '@Kashberg_0 on X'
+  url: https://x.com/Kashberg_0/status/2087734863311081770
+  credit: Kashberg
+  captured: '2026-10-29'
+  posted: '2026-08-13'
+video: https://x.com/Kashberg_0/status/2087734863311081770
+notes:
+  en: A JSON timeline with a frame stamp every 48 frames at 24 fps gives each beat its own moment, so the model moves in order from the hacker's room to the Batmobile chase. Short single-subject beats with one action each keep the sequence readable.
+  zh: 每 48 帧一个时间戳、24 fps 的 JSON 时间线让每个镜头有明确的时刻，模型会按顺序从黑客房间过渡到蝙蝠车追逐。每个节拍只写一个主体和一个动作，画面更易读。
+prompt: |
+  {
+    "video_generation_payload": {
+      "resolution": "4K",
+      "fps": 24,
+      "base_style": "Cinematic anime, masterpiece",
+      "sequence": [
+        {
+          "frame": 0,
+          "prompt": "Hacker in black hoodie eating pizza at desk in dark room."
+        },
+        {
+          "frame": 48,
+          "prompt": "Boots on desk, monitor displaying red anime face."
+        },
+        {
+          "frame": 96,
+          "prompt": "Hands typing on keyboard, surveillance monitors behind."
+        },
+        {
+          "frame": 144,
+          "prompt": "Yellow roses on desk, armored suit in illuminated closet."
+        },
+        {
+          "frame": 192,
+          "prompt": "Close-up tactical black armor, armored fist clenching."
+        },
+        {
+          "frame": 240,
+          "prompt": "Batman cowl with glowing white eyes."
+        },
+        {
+          "frame": 288,
+          "prompt": "Batman approaches jet-powered Batmobile in wet bunker."
+        },
+        {
+          "frame": 336,
+          "prompt": "Cockpit interior, hands on throttle, boot on gas pedal."
+        },
+        {
+          "frame": 384,
+          "prompt": "Batmobile jet engines ignite, launching from tunnel."
+        },
+        {
+          "frame": 432,
+          "prompt": "Batmobile drifting through rain-slicked neon city."
+        },
+        {
+          "frame": 480,
+          "prompt": "Batman diving straight down a towering skyscraper."
+        },
+        {
+          "frame": 528,
+          "prompt": "Batman leaping across rainy city rooftops."
+        },
+        {
+          "frame": 576,
+          "prompt": "Batman standing on gargoyle overlooking glowing city."
+        }
+      ]
+    }
+  }

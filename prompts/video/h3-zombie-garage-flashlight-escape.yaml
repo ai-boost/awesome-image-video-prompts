@@ -1,0 +1,26 @@
+id: h3-zombie-garage-flashlight-escape
+title:
+  en: Woman with flashlight flees dark parking garage
+  zh: 女子手持手电在昏暗车库中奔逃
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- zombie-horror
+- multi-shot
+- handheld-camera
+- sound-design
+source:
+  name: '@Just_Anika_Here on X'
+  url: https://x.com/Just_Anika_Here/status/2107342788178407680
+  credit: Anika
+  likes: 49
+  captured: '2026-10-29'
+  posted: '2026-10-06'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/Just_Anika_Here/status/2107342788178407680
+notes:
+  en: Each shot gets a timed beat with one visual purpose, so the model has a clear sequence to follow. A separate consistency block keeps the same woman, clothing and garage across cuts, and sound cues tied to each beat keep the score in step with the picture.
+  zh: 每个镜头都写明时间段和单一的视觉目的，让模型有清晰的节奏可循。单独的一致性段落保证各镜头里女主角、服装和车库不变，每个节拍对应的声音提示（低音冲击、突然寂静）让配乐与画面同步。
+prompt: |
+  Create a 15-second ultra-photorealistic live-action zombie horror movie sequence in 16:9 widescreen. Make it feel like a professionally shot theatrical horror film, with 5 connected shots, escalating tension, strong cinematic sound design and music. Realistic human movement, realistic environments, grounded physics, no comedy, no text, no subtitles, no dialogue. SHOT 1 — 0–3 sec: Night. A deserted underground parking garage. A frightened young woman walks quickly between parked cars, holding a small flashlight. The camera tracks backward in front of her. Suddenly, the flashlight beam catches a motionless person standing far behind her. Deep bass hit. SHOT 2 — 3–6 sec: Close-up of the woman's face as she stops breathing for a moment and looks behind her. The parking space is empty. The music drops almost completely silent. She slowly turns back toward the camera. SHOT 3 — 6–9 sec: A zombie suddenly appears extremely close behind her in the background — pale dirty skin, torn everyday clothing, blood around the mouth, unnatural posture. It moves toward her with a sudden violent burst. Hard music impact. SHOT 4 — 9–12 sec: She runs through the parking garage. Camera follows handheld from behind. Multiple distant zombie silhouettes suddenly emerge between the cars, blocking the exit. Emergency lights begin flashing red. SHOT 5 — 12–15 sec: She reaches the exit door and desperately pulls it open. Bright daylight floods into the dark garage. She looks relieved for half a second — then the camera moves slightly past her shoulder and reveals dozens of zombies already standing silently outside, completely blocking the exit. On the final bass hit, one zombie suddenly looks directly into the camera. CUT TO BLACK. VISUAL STYLE: ultra-photorealistic live-action theatrical zombie horror, cinematic 16:9 composition, realistic human anatomy, realistic zombie makeup and skin texture, physically believable movement, dark atmospheric lighting, practical-looking effects, subtle film grain, dramatic contrast, natural handheld camera movement, high-end horror cinematography. CONSISTENCY & QUALITY: keep the same woman, same clothing, same hairstyle and same underground parking garage throughout the sequence. Zombies must have consistent realistic anatomy. No extra limbs, extra fingers, duplicated people, warped faces, melting bodies, floating objects, cartoon appearance, video-game look, excessive gore, text, subtitles, logos or watermark. EDITING: each shot must have a clear visual purpose and connect naturally to the next. Fast pacing, no dead time. The first shot must immediately create curiosity. Build tension from mystery → realization → zombie reveal → chase → final shocking reveal.

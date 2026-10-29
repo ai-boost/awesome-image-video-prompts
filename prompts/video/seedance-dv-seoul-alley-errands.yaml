@@ -1,0 +1,35 @@
+id: seedance-dv-seoul-alley-errands
+title:
+  en: Young Korean woman walks Seoul alley on DV camcorder
+  zh: 年轻韩国女子在首尔老巷步行，DV 摄像机画面
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- dv-camcorder
+- seoul
+- handheld
+- day-in-the-life
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2106238790666989717
+  credit: aiwithaly
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2106238790666989717
+notes:
+  en: The prompt pins the camcorder look with concrete artifacts such as handheld shake, autofocus hunting and interlacing, and asks for diegetic audio only. A consistency clause plus a beat-by-beat list of errands keeps the same face and outfit across the whole walk.
+  zh: 提示词用具体的录像瑕疵（手持抖动、自动对焦摇摆、隔行扫描）锁定 DV 质感，并只保留现场声音。一致性要求加上逐段列出的购物动作，让同一人物的脸和服装在整段行程中保持不变。
+prompt: |
+  Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Korean woman spending a quiet afternoon exploring an older Seoul residential neighborhood. Keep her face, hairstyle, body proportions, outfit, and overall appearance perfectly consistent throughout.
+
+  She leaves home, locks the door, and walks through narrow lived-in streets with old apartments, small houses, bicycles, utility poles and potted plants. She greets an elderly neighbor, browses a tiny stationery shop and buys a cute notebook. She notices a stray cat beside a scooter, crouches and softly says “Hello,” then visits a neighborhood bakery, buys a red-bean bun and eats it while walking.
+
+  She pauses beside an old public phone booth, then reaches a quiet crossroads. She looks at the camera and says, “It was a nice day,” gives a small wave, and walks home.
+
+  Authentic early-2000s consumer DV footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, subtle interlacing, awkward zooms and genuine low-resolution camcorder character. Realistic physics, natural blinking, walking and subtle expressions.
+
+  Natural diegetic audio only. No music, narration, subtitles, CGI, beauty filters, cinematic grading, slow motion or polished camera movement.
+
+  Negative prompt: inconsistent face, changing outfit, morphing, distorted hands, extra fingers, duplicated people, unnatural movement, plastic skin, CGI look, modern cinematic camera, excessive stabilization, teleportation, floating objects, logos, watermark.

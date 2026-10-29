@@ -1,0 +1,26 @@
+id: h3-burn-pyro-title-rupture
+title:
+  en: Molten BURN title ruptures into radial fire explosion
+  zh: 熔融 BURN 字母从内部炸裂成放射状火焰
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- pyro
+- vfx
+- title-sequence
+- motion-design
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2106398901267812627
+  credit: Pierrick Chevallier | IA
+  likes: 34
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/CharaspowerAI/status/2106398901267812627
+notes:
+  en: The prompt lays out a timed sequence of ignition, forging, slam and rupture, each with its own camera move and physical cause, so the model has a clear order to follow. Naming the final radial burst directly into the lens ties the climax to a specific camera direction.
+  zh: 提示词按时间顺序写出点火、锻造、重击和爆裂四个阶段，每段都有对应的镜头运动和物理原因，让模型有清晰的先后顺序。结尾明确指定朝向镜头的放射状爆发，把高潮与镜头方向绑定在一起。
+prompt: |
+  Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fuel suspended in darkness as a spark suddenly ignites its surface. Fire spreads explosively outward and the camera rockets backward through a chain reaction of enormous fuel explosions. Liquid fire whips across the frame like glowing ribbons while burning debris and sparks spiral into a rapidly expanding fire tornado. The camera enters the vortex and rotates around a white-hot molten core where streams of liquid metal begin violently forging the gigantic word "BURN". Every letter emerges incandescent from the inferno before cooling into cracked black steel while magma remains visible beneath the surface. The completed title slams into frame with enormous weight as flames blast through the gaps between the letters. Pressure suddenly builds inside the typography until "BURN" violently ruptures from within, unleashing a radial explosion of molten metal, sparks and fire directly into the lens. Extreme heat distortion, realistic pyro physics, aggressive camera movement, AAA theatrical VFX.
