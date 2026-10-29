@@ -78,7 +78,7 @@ def ask(c):
                         cat_line=f"- category: one of {', '.join(IMAGE_CATS)}" if c["kind"] == "image" else "",
                         cat_key=', "category": "..."' if c["kind"] == "image" else "",
                         model=c["model"], post=c["post_text"][:1500], prompt=c["prompt"][:6000])
-    out = subprocess.run(["claude", "-p", "--model", "opus", "--allowedTools", "Read", "--output-format", "text"],
+    out = subprocess.run(["claude", "-p", "--model", "haiku", "--allowedTools", "Read", "--output-format", "text"],
                          input=text, capture_output=True, text=True, timeout=600).stdout
     m = re.search(r"\{.*\}", out, re.S)
     return json.loads(m.group(0)) if m else {"accept": False, "reason": "no answer"}
