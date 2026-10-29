@@ -2,6 +2,7 @@
 # Keep the total small; the searches run on a real signed-in account.
 - {model: Seedance 2.5, kind: video, max: 8, query: '"Seedance 2.5" prompt min_faves:400 filter:videos'}
 - {model: Wan 3.0, kind: video, max: 8, query: '("Wan 3.0" OR wan3.0) prompt min_faves:150 filter:videos'}
+- {model: Kling 4.0, kind: video, max: 8, query: '"Kling 4.0" prompt min_faves:150 filter:videos'}
 - {model: Kling 3.0, kind: video, max: 6, query: '"Kling 3.0" prompt min_faves:200 filter:videos'}
 - {model: Veo 3.1, kind: video, max: 5, query: '"Veo 3.1" prompt min_faves:300 filter:videos'}
 - {model: MiniMax H3, kind: video, max: 5, query: '("MiniMax H3" OR "Hailuo H3") prompt min_faves:150 filter:videos'}

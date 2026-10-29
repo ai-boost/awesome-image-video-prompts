@@ -1,0 +1,35 @@
+id: kling4-girl-recorder-six-keyframes
+title:
+  en: A girl plays a recorder in her room, six keyframes
+  zh: 女孩在房间里吹竖笛，六张关键帧
+model: Kling 4.0
+mode: keyframes-to-video
+tags:
+- keyframes
+- match-cut
+- music
+- lifestyle
+- timed-shots
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--52.klingai-cdn-aws.com/kling-blog/presigned_url/e99d0231-be47-4aaf-a43c-a444f03a831a_1-5.mp4
+inputs:
+- https://static-22.klingai-cdn-aws.com/kling-blog/file_by_url/33ac900bf82c6cf3cc9b3864d141ee5bf5d539ba7127aed56bf57cfd8546ed02.png
+- https://static--73.klingai-cdn-aws.com/kling-blog/file_by_url/52e28427e82f94e0767609eb5c518f1c8148e911794376dc2f3b8945aca53ecb.png
+- https://static-4.klingai-cdn-aws.com/kling-blog/file_by_url/02b21e458445a696737255b384a943723b95e36d81baa5d8211bd316802c630b.png
+- https://static-82.klingai-cdn-aws.com/kling-blog/file_by_url/3399431d9eeb7c8c0d2eb26d481b05aa57e30c53526cf546e21d7aca9dfbda2f.png
+- https://static--53.klingai-cdn-aws.com/kling-blog/file_by_url/54747de90e26fc4939f7782ab0bd93ab9f3c13c6683a77df2ea9f1a2cf21e800.png
+- https://static-64.klingai-cdn-aws.com/kling-blog/file_by_url/773db4a2dfe2f7fde291d00072beed8fd3071968782e9abc71797f93b68954ba.png
+notes:
+  en: Six keyframes on a 15s timeline. Each cut is matched to something, a note of music or the swing of a shoe, so the hard cuts feel motivated.
+  zh: 六张关键帧排在 15 秒时间线上。每次切换都对上一个点，一个音符或鞋尖的摆动，硬切也显得有理由。
+prompt: |
+  SCENE CONTEXT EXACT 1 CHARACTER — NO DUPLICATES. 0.0–2.1s | Keyframe 1: Looking Up from the Floor. Strictly match Image Node_23. Wide, static composition: The girl sits on mint-green tiled flooring, leaning against a cabinet and the corner of a wall, with her legs naturally extended apart and both hands resting lightly between her knees. Soft light filters through the plaid curtains and falls across the tiles. She initially keeps her gaze lowered, then slowly lifts her head toward the window light, lips slightly parted, as if hearing a melody from far away. The curtains sway only slightly, while the lace hem of her skirt and the tips of her hair show the faintest hint of movement with her breathing. The camera slowly pushes in by approximately 3% without changing the composition.
+  2.1–4.3s | Keyframe 2: Close-Up of the Recorder, Sound-Matched Cut. At the peak of the girl's head-lifting motion, a clear, brief recorder note enters 0.1 seconds early. Hard cut to the medium close-up from Image Node_29 (2). The girl closes her eyes and gently plays a white recorder, completing one full but brief exhalation. Only two or three fingers make subtle adjustments over the holes. Her cheeks puff out slightly, then relax. Do not distort the recorder, exaggerate her puffed cheeks, or add extra fingers. Keep the camera steady and the plaid curtains softly out of focus in the background.
+  4.3–6.5s | Keyframe 3: Hands and Gaze, Action-Matched Cut. The instant the recorder note ends, hard cut to Image Node_18. The girl stands by the window in front of mint-green wall paneling, with both hands held beside the right side of her face, as if gathering the melody into her palms. She keeps her gaze lowered for approximately 0.4 seconds, then gently raises her eyes to look directly into the camera. Her fingers make one extremely subtle closing motion, and her beaded bracelet catches a glint of window light. The camera pushes in extremely slowly from a medium shot, keeping her centered and the interior clean and uncluttered.
+  6.5–8.5s | Keyframe 4: Detail of Dangling Legs, Skirt-Matched Cut. As her hands slowly move away from the sides of her face, use the moment they drop out of the bottom edge of the frame as the cut point. Hard cut to Image Node_21. Low-angle close-up: The girl sits on the edge of a tall mint-green cabinet. Only her mint-green lace skirt, white stockings, pale green Mary Jane shoes, and one hand lightly touching the cabinet edge are visible. Her legs remain together and dangle freely. Her toes gently swing forward once, pause, then naturally return to a vertical resting position. The lace hem sways slightly with the movement. Do not exaggerate the swinging motion, let her legs touch the floor, or change the positions of the cabinet and bathtub.
+  8.5–10.8s | Keyframe 5: Still Gaze on the Bed, Shoe-Tip-Matched Cut. As both shoes swing back downward, hard cut to Image Node_22. The girl lies on her stomach on a mint-green bed, resting her face in both hands with her feet raised behind her. The composition is gentle, with ample negative space. She looks at the camera first, then softly shifts her gaze toward the window light on the left before returning it to the camera. Her feet perform only one small, synchronized crossing motion at the shoe tips, then relax. The bedsheet develops only the faintest soft folds. Do not turn her into a side-lying pose or change the positions of the pillows, bedsheet, table lamp, plants, or framed pictures.
+  10.8–13.5s | Keyframe 6: Paper in the Foreground, Final Gaze. Use a corner of the pale bedsheet passing across the frame as an occlusion transition, then hard cut to Image Node_20. The girl sits on a white chair, with her transparent glasses strictly matching the keyframe. A sheet of white paper slowly drifts across the frame from the lower left and upper edge, briefly obscuring part of her forehead and shoulder, but must never cover her entire face for more than 0.3 seconds. She gazes quietly at the camera through the moving sheet of paper. After blinking once, she tilts her head slightly to the right by approximately 3 degrees and holds the position. The paper drifts out of frame. Keep the camera steady, and do not create a storm-like flurry of paper.
+  13.5–15.0s | Gentle Fade to Black. Maintain the final composition of Keyframe 6. After the paper leaves the frame, the girl remains still, maintaining a calm, direct gaze. The daylight by the window gradually dims like a soft light being slowly turned down. The mint-green walls, curtains, girl, and chair all fade evenly into shadow. Do not abruptly switch off the lights, change the color temperature, or add any text.

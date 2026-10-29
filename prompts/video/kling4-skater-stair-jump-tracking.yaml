@@ -1,0 +1,24 @@
+id: kling4-skater-stair-jump-tracking
+title:
+  en: Skater clears a stair set in one low tracking shot
+  zh: 低机位一镜跟拍滑手跳台阶
+model: Kling 4.0
+mode: text-to-video
+tags:
+- sports
+- tracking-shot
+- long-take
+- physics
+- timed-beats
+source:
+  name: '@minchoi on X'
+  url: https://x.com/minchoi/status/2111471588256207357
+  credit: Min Choi
+  captured: '2026-10-28'
+  posted: '2026-10-17'
+video: https://x.com/minchoi/status/2111471588256207357
+notes:
+  en: Text only, 30 seconds in six-second beats. A test of big motion and landing physics with the face and outfit held steady.
+  zh: 纯文字，30 秒按 6 秒一拍写。测大动作和落地物理，同时保持脸和衣服不变。
+prompt: |
+  30-second continuous low tracking shot of a skateboarder in a concrete park at golden hour. Large dynamic motion, realistic weight and physics.[Skater]: young man, early 20s, faded red T-shirt, black shorts, short hair. Consistent face and outfit.0–6s: He rides toward camera, pushes once, centers his weight. Camera tracks low beside the board.6–12s: He approaches a set of stairs. Knees bend, weight shifts back. Board rises on the tail.12–18s: He clears the stairs. Wheels leave the ground. Cloth and hair react to the motion. He lands with knees absorbing impact.18–24s: He rolls out, slight speed check, then carves hard left. Camera stays locked low and follows.24–30s: Final wide as he rides away into the warm light, board still under him.Natural late-afternoon sun, long shadows, realistic dust and board sound. No slow motion unless specified. Preserve exact clothing and face.

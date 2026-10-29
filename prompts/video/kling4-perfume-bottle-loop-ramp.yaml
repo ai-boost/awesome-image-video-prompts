@@ -1,0 +1,25 @@
+id: kling4-perfume-bottle-loop-ramp
+title:
+  en: A perfume bottle drives a loop ramp and blasts off
+  zh: 香水瓶冲上环形坡道再喷射升空
+model: Kling 4.0
+mode: text-to-video
+tags:
+- product-commercial
+- surreal
+- timed-beats
+- vfx
+- luxury
+source:
+  name: '@AIWithRay on X'
+  url: https://x.com/AIWithRay/status/2114672427964010805
+  credit: Ray
+  likes: 142
+  captured: '2026-10-28'
+  posted: '2026-10-26'
+video: https://x.com/AIWithRay/status/2114672427964010805
+notes:
+  en: A product spot played as a stunt show, timed in two-second beats, with an unlabeled bottle so no brand gets in the way.
+  zh: 把产品广告拍成特技表演，两秒一拍，瓶子不带标签和品牌。
+prompt: |
+  Cinematic, photoreal night scene on a black stage inside a giant hangar. A towering concrete loop ramp/road with glowing red edge lights and a white center stripe dominates the background. In front of it stands a premium transparent glass perfume bottle, unlabeled, no logo, filled with pale golden fragrance, featuring elegant beveled edges, a polished metallic cap, realistic glass refraction, crisp reflections, and subtle condensation droplets. The bottle engages four small rocket nozzles under its base; soft white exhaust with bright orange cores appears. The bottle glides forward, then blasts up the glowing ramp, hugging the curve, leaving faint light trails and red neon reflections across its glass surface. At the apex it shoots off the ramp and transitions to a sleek electric-thruster flight, like a futuristic luxury flying car, then ends in a close hero shot of the perfume bottle hovering and roaring upward vertically with four bright jets, volumetric spotlights and fog below, sparks and vapor interaction, dramatic rim light, golden highlights, crisp reflections, shallow depth of field, 4K, high-end luxury perfume and car commercial look. No text, no brand, no label. Duration 9–10 seconds. Aspect ratio 9:16. Negative cues: no logos, no text, no labels, no hands, no spillage, no deformation, no duplicate bottles, no cartoon look, no melting glass, no detached cap, no liquid leakage, no extreme motion-blur smears. Beat sheet (timing guide) 0–2s: Low-angle push-in on the massive loop ramp; perfume bottle centered, engines arming beneath the base with subtle heat shimmer and glowing orange cores. 2–6s: Dynamic follow-cam as the bottle rockets up the ramp; speed ramping, neon edge lights streaking, dramatic red reflections sliding across the glass. 6–8s: Bottle leaves the ramp, switches to electric thrusters; quick cinematic orbit as it hovers midair, revealing the golden fragrance and metallic cap. 8–10s: Tight hero shot of the perfume bottle ascending vertically with four bright jets, swirling fog, volumetric spotlights, realistic vapor, and luxurious golden reflections. End with the bottle sharply focused and centered against the dark hangar.

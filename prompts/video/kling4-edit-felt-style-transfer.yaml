@@ -1,0 +1,23 @@
+id: kling4-edit-felt-style-transfer
+title:
+  en: 'Edit a clip: turn the whole video into felt'
+  zh: 改视频：整段转成毛毡风格
+model: Kling 4.0
+mode: video-edit
+tags:
+- video-edit
+- felt
+- style-transfer
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--4.klingai-cdn-aws.com/kling-blog/presigned_url/04e6bce0-f983-482a-b9e1-10f816d9321b_1-1.mp4
+inputs:
+- https://static-12.klingai-cdn-aws.com/kling-blog/file_by_url/df26de15d0723c4dc3063da47dea63cdffa4310fbfe00165f12034dca85e358d.png
+- https://static-53.klingai-cdn-aws.com/kling-blog/presigned_url/243e4698-e9f5-4192-bdf5-c3aa01bbd121_1-1-1.mov
+notes:
+  en: 'Style transfer from one image. Most of the prompt lists what must not change: shots, moves, timing, identities.'
+  zh: 用一张图做风格迁移。大半篇幅在列不许变的东西：镜头、运镜、时间、人物。
+prompt: |
+  Edit @Video 1 by transforming the entire video into the felt style shown in @Image 1. Preserve the original video's composition, camera shots, camera movements, character actions, timing, and sequence exactly. Change only the visual style to match the felt aesthetic of @Image 1. All characters, objects, and environments should have consistent felt textures and a handcrafted felt appearance. Do not alter the original scene content, character identities, or movements. Everything else must remain unchanged.

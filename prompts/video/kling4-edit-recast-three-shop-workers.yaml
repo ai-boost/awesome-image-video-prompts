@@ -1,0 +1,26 @@
+id: kling4-edit-recast-three-shop-workers
+title:
+  en: 'Edit a clip: recast three people walking out of a shop'
+  zh: 改视频：给走出便利店的三个人换演员
+model: Kling 4.0
+mode: video-edit
+tags:
+- video-edit
+- character-swap
+- multi-reference
+- character-consistency
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--59.klingai-cdn-aws.com/kling-blog/presigned_url/9c6d3aaf-422d-46ed-be7d-aff4e26957e1_1-3.mp4
+inputs:
+- https://static--29.klingai-cdn-aws.com/kling-blog/file_by_url/b543db1d109219975a68d1221b2c2527ee57423b5e310d2d3c6c0777f0e6cee1.png
+- https://static--21.klingai-cdn-aws.com/kling-blog/file_by_url/1a46d27b44af66db489c3493198babfbd51d8cfee16801fdff9f631f199c779a.png
+- https://static-45.klingai-cdn-aws.com/kling-blog/file_by_url/215c8a0540de5d336ff1c4d56794041bb2fca70f2a03afc7940473ea7a42d0bf.png
+- https://static-2.klingai-cdn-aws.com/kling-blog/presigned_url/2a3d6487-b5c8-409a-9030-11f7ebcd8d57_1-3-1.mp4
+notes:
+  en: Recasts three people from three photos, listing each one's clothes so nothing gets mixed up, then lists everything that must stay the same.
+  zh: 用三张照片给三个人换演员，每人的衣着逐条列出防止串人，最后列出所有必须保持不变的东西。
+prompt: |
+  Edit @Video1. Replace the three people who walk out of the convenience store one after another with the following characters: First character: use the identity, face, dark curly hair, white sun hat, white short-sleeved shirt with a black-and-white striped inner top, green apron, loose light gray jeans, and dark sneakers of the man in @Image1. Second character: use the identity, short light blonde hair, red sweatshirt, green apron, white knee-high socks, and red shoes of the woman in @Image2. Third character: use the identity, short light blonde hair, white chef hat, black-framed glasses, blue-green-and-black patterned knit outfit, green apron, white shoes, and the same off-white plush sheep held in his arms as the man in @Image3. The order in which the three characters appear, their movements from inside the store to the doorway, their pauses to pose, and their approach toward the camera and exit through the foreground should follow the actions and camera timing of @Video1: the first character slightly lifts the brim of his sun hat before approaching the camera; the second character naturally adjusts her apron and gives a slight wave at the doorway before approaching the camera; the third character holds the plush sheep, adjusts his glasses, then approaches the camera and slightly raises the plush sheep as he gets closer. Fix a clear, stable, readable sign with the exact uppercase text `KLING AI OPEN 24 hours` in the middle of the convenience store's right-side glass window. The text must remain correctly spelled, undistorted, and free of flickering throughout the video. Keep the sign fixed to the inside of the glass window without obstructing any characters. Keep everything else unchanged: preserve the green convenience store doorframe, doorway composition, interior shelves, fluorescent lights, glass reflections, daylight, camera position, walking direction, duration, pacing, and aspect ratio of @Video1. Do not add any characters, change the store structure or camera movement, or introduce subtitles, logos, watermarks, or extra text.

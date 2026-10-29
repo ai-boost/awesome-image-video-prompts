@@ -12,6 +12,10 @@ official:
     url: https://deepmind.google/models/gemini-omni/prompt-guide/
     en: Conversational editing, camera changes, multi-input references, extend, first and last frame.
     zh: 对话式编辑、换机位、多路参考、续写、首尾帧。
+  - name: Kling 4.0 user guide
+    url: https://kling.ai/quickstart/kling-4-model-user-guide
+    en: 30-second takes, up to 15 references, 10 keyframes, video editing by prompt, 8,000-token prompts.
+    zh: 30 秒单条、最多 15 份参考素材、10 张关键帧、用提示词改视频、8000 token 长提示词。
   - name: Kling VIDEO 3.0 user guide
     url: https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide
     en: Multi-shot, element binding, multilingual dialogue, accents, text rendering, 15-second takes.

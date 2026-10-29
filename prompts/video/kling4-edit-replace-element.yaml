@@ -1,0 +1,23 @@
+id: kling4-edit-replace-element
+title:
+  en: 'Edit a clip: replace the subject with one from an image'
+  zh: 改视频：把主体换成图里的
+model: Kling 4.0
+mode: video-edit
+tags:
+- video-edit
+- object-swap
+- template
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--73.klingai-cdn-aws.com/kling-blog/presigned_url/a69b8de9-efb4-45a5-8da2-68e7ce0fcd74_1-1.mp4
+inputs:
+- https://static-15.klingai-cdn-aws.com/kling-blog/file_by_url/d534117094084549b75edb5744e1c97527daf3f56ecc79696eb17e6adf64684b.png
+- https://static--88.klingai-cdn-aws.com/kling-blog/presigned_url/8ed131ae-de43-402f-a70c-8a8cb57ff635_1-1-1.mov
+notes:
+  en: 'A reusable swap template: replace the element, keep everything else, match its position, scale and path.'
+  zh: 可复用的替换模板：换掉主体，其余不动，位置、大小和运动轨迹跟原来一致。
+prompt: |
+  Replace the Element in @Video 1 with the Element from @Image 1. Keep everything else unchanged, including the background composition, camera movements, lighting, shadows, audio, and video duration. Ensure the replacement Element integrates naturally into the original footage, matching the original Element's position, scale, movements, and trajectory.

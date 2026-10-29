@@ -1,0 +1,26 @@
+id: kling4-edit-pig-in-the-box-new-line
+title:
+  en: 'Edit a clip: put a sleeping pig in the box and change the last line'
+  zh: 改视频：箱子里加一只睡着的猪，顺便改最后一句台词
+model: Kling 4.0
+mode: video-edit
+tags:
+- video-edit
+- add-object
+- dialogue
+- comedy
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--86.klingai-cdn-aws.com/kling-blog/presigned_url/d0d3136c-1bf1-4940-b24e-4d056c5e9af6_1-1.mp4
+inputs:
+- https://static-69.klingai-cdn-aws.com/kling-blog/file_by_url/05e5537073a5b777a556a6ca1d7674084e5062c074bc7a7a2b9ee5c1b291d55c.png
+- https://static-96.klingai-cdn-aws.com/kling-blog/file_by_url/d75de72f10aa9c6378f0837551a337fb0e60ebe0f3b7532d0eacb10f8496eebc.png
+- https://static-88.klingai-cdn-aws.com/kling-blog/file_by_url/5a5caf66b2695099249e7bd573ca117d2ceec8168c1d044818f66bb97c3f8ef8.png
+- https://static--78.klingai-cdn-aws.com/kling-blog/presigned_url/84cd82e3-8d57-4e41-bb95-b2cf8e035a9e_1-1-1.mp4
+notes:
+  en: One edit adds an element and rewrites dialogue at the same time. The prompt opens with Edit @Video1, which Kling says is required for edits.
+  zh: 一次编辑同时加元素和改台词。开头写 Edit @Video1，可灵说编辑必须这样起头。
+prompt: |
+  Edit @Video1. When the box is opened again at the end of the video, @Element1 is lying inside, asleep. Replace the final line, “Ah, it's all old stuff,” with “Why is there a pig here?”

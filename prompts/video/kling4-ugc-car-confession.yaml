@@ -1,0 +1,25 @@
+id: kling4-ugc-car-confession
+title:
+  en: Embarrassed vlog from the car after waving at a stranger
+  zh: 在车里录视频吐槽：朝陌生人挥手认错了人
+model: Kling 4.0
+mode: text-to-video
+tags:
+- ugc
+- vlog
+- vertical
+- comedy
+- dialogue
+- rain
+source:
+  name: '@minchoi on X'
+  url: https://x.com/minchoi/status/2111471592601534511
+  credit: Min Choi
+  captured: '2026-10-28'
+  posted: '2026-10-17'
+video: https://x.com/minchoi/status/2111471592601534511
+notes:
+  en: A comic monologue in one 30s phone take, with rain on the roof and muffled car-park sounds through the glass.
+  zh: 30 秒手机一镜到底的搞笑独白，车顶有雨声，窗外停车场的声音隔着玻璃传进来。
+prompt: |
+  Raw vertical 9:16 video recorded on a phone's front camera, one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, digital noise and compression, flat grey daylight through rain-streaked windows, no colour grading. the picture wobbles whenever she moves and jolts when she pulls the door shut. Sadie, a young woman in her early 20s with long honey-blonde hair in a messy bun with loose strands, no makeup, small gold hoop earrings and an oversized sage-green hoodie with no print, sits in the driver's seat of a small, slightly messy hatchback parked in a supermarket car park on a rainy afternoon. Rain streaks every window; through the rear window, blurred parked cars and a trolley bay. At the start she drops into the seat and pulls the door shut. She tells the story with her hands. Around 18 s she covers her face with both hands. Around 26 s a trolley rattles past her window and she slides down low in the seat as if hiding, laughing. [Sadie: casual young woman's voice, a bit breathless and mortified, recorded on the phone's built-in mic in a small car]: "Okay. I need to tell someone this immediately. ... So I'm in the cereal aisle, and this guy waves at me. Like, a big wave. So I wave back. Big wave. ... He was waving at his wife. Who was right behind me. ... And then I saw them again at the checkout. ... I'm never going back in there. I live in the car now. This is my home." Audio as captured by the phone mic inside a closed car, not studio clean: rain drumming on the roof and windscreen, her voice close and boxy in the small space, the door's heavy thud, fabric rustling against the seat, and outside, muffled through the glass, a trolley rattling past, a car door slamming and an engine starting. No subtitles, no captions, no on-screen text.

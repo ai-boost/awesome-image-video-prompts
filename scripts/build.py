@@ -9,7 +9,7 @@ import re
 import yaml
 
 # Model sections, ordered by the Artificial Analysis video arena (October 2026).
-MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 3.0", "Veo 3.1", "Veo 3", "Sora 2"]
+MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 4.0", "Kling 3.0", "Veo 3.1", "Veo 3", "Sora 2"]
 # Image sections by use case, in display order.
 CATEGORIES = {
     "poster": {"en": "Posters and editorial layouts", "zh": "海报与编辑排版"},

@@ -1,0 +1,105 @@
+id: kling4-spy-chase-tearaway-suit-to-banquet
+title:
+  en: Spy car chase, tear-away suit, straight into a banquet
+  zh: 飞车追逐后撕掉外衣，直接走进晚宴
+model: Kling 4.0
+mode: reference-to-video
+tags:
+- action
+- chase
+- handheld
+- outfit-change
+- timed-shots
+- reference-images
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--59.klingai-cdn-aws.com/kling-blog/presigned_url/f671c2ce-6245-44f4-851a-ed927d4949da_1-1-1.mp4
+inputs:
+- https://static-50.klingai-cdn-aws.com/kling-blog/file_by_url/718638a1415f12a8a259928d829f6b96678acf35f7ed493643ddd9acd835b832.png
+notes:
+  en: 'Fifteen seconds timed to the second, with a costume note most prompts skip: the tactical outfit has tear-away seams over a tuxedo, so the quick change happens on camera.'
+  zh: 十五秒精确到秒，还写了多数提示词不会写的服装细节：战术外衣带撕裂缝，里面已经穿好礼服，所以换装在镜头里完成。
+prompt: |
+  【Overall Style】
+  15 seconds, realistic live-action cinematic quality. A coastal city street at dusk connects to a staged banquet scene.
+  Natural handheld cinematography with noticeable vertical movement from footsteps, subtle irregular shake, and framing corrections. Whip pans follow vehicle and character movements, producing brief motion blur before settling back on the target. Movement is intense during the car chase and running sequences, then gradually slows during the banquet sequence.
+  Characters have slight perspiration, loose strands of hair, and natural clothing wrinkles. Road surfaces, clothing, and equipment show realistic signs of use. Natural colors create visual contrast between the red sports car, flames, and the warm tones of the banquet.
+  【Characters and Vehicles】
+  Male Actor:
+  Around 30 years old, with short dark hair, light stubble, and a lean, athletic build.
+  While driving and rolling on the ground, he wears a complete spy-action outfit:
+  A fitted dark charcoal-gray tactical top with a closed neckline;
+  Matching tactical trousers;
+  Black leather ankle boots.
+  The outer costume has tear-away seams designed for quick changes on set. The top opens along the center front and both sides, while the trousers open along the outer seams of both legs.
+  A white shirt, black bow tie, and dark navy dress trousers are already worn underneath the outer costume.
+  When the outer costume remains intact, he clearly appears in the dark tactical outfit.
+  Two additional crew members help him put on the suit jacket later.
+  The hems of the navy dress trousers cover the shafts of the black ankle boots.
+  The actor's face, hairstyle, and physique must remain consistent throughout.
+  Sports Car:
+  An original red concept sports car with a low, rounded wedge-shaped body, a short front end, a curved cockpit, and wide rear wheel arches.
+  The front features a continuous horizontal white light bar. The rear has three small circular taillights on each side.
+  The center of the hood is uninterrupted, smooth red paint. The dark gray wheels have plain metal center caps.
+  The center of the steering wheel has a solid black leather surface.
+  The driver's side window is open. The car's overall shape and lighting design must remain consistent across all shots.
+  Motorcycle Camera Operator:
+  Wearing dark workwear and a protective helmet, he stands alone on both stunt footpegs of a dark blue sport motorcycle, with his hips higher than the seat. He holds a camera on his shoulder with both hands, leaving the handlebars unoccupied.
+  He controls the motorcycle using his legs and center of gravity, compensating for bumps with his upper body. The camera is aimed at the sports car's driver.
+  During the reveal, his full standing posture, both feet, the motorcycle, and the camera must all be clearly visible.
+  Director:
+  In his forties, with some gray hair and naturally textured facial features.
+  He wears a worn-in, short dark brown jacket over a beige crew-neck T-shirt, paired with dark straight-leg trousers.
+  He holds a digital stopwatch, actively turning his body and gaze to follow the filming action.
+  A script supervisor, camera assistants, and lighting crew stand nearby. People and equipment in the foreground, beside him, and in the distance create layered depth.
+  Wardrobe Crew:
+  Six crew members in ordinary on-set workwear.
+  The first four, two on the left and two on the right, pull open and remove the outer tactical costume.
+  The remaining two unfold and help him put on the dark navy suit jacket.
+  Each person performs a clearly defined action. After removing a garment, the corresponding crew member holds it in their hands.
+  Female Companion:
+  Wearing a champagne-gold evening gown and holding her own champagne flute. She stands a few steps inside the banquet entrance.
+  Waiter:
+  Standing to one side of the entrance, holding a tray of champagne flutes for the male actor to pick one up as he passes.
+  【Shots and Actions】
+  00:00–00:03 | Five Rapid Cuts During the Car Chase
+  Tire close-up: The rear tire grips the road as the red sports car accelerates.
+  Foot close-up: The actor's black leather boot presses down on the accelerator.
+  Eye close-up: The actor quickly assesses the traffic ahead, his face vibrating with the movement of the car.
+  Hand close-up: Both hands turn the steering wheel decisively.
+  Slightly wider side shot: The sports car squeezes past an adjacent vehicle, rapidly closing the gap before pulling away again.
+  The first four shots are brief and punchy. Let the final shot run slightly longer to clearly establish the car weaving through traffic.
+  00:03–00:09 | Pull Out of the Car, Reveal the Camera Operator, Whip Pan to the Director
+  Film the driver from near the passenger seat.
+  The camera moves through the open driver's side window, fully exits the car, and continues pulling outward.
+  Establish a wide exterior side view:
+  The red sports car and dark blue motorcycle travel side by side. The camera operator is fully visible from head to toe, standing alone with the camera on his shoulder, aimed directly at the driver.
+  The sports car steers around a vehicle ahead. The motorcycle leans into the turn in sync, then returns to parallel alignment.
+  The camera naturally bobs with the speed and road bumps.
+  As the vehicles pass the director's working area, the camera whips toward the roadside.
+  A camera assistant's shoulder briefly sweeps through the foreground before the camera settles into an oblique medium close-up of the director.
+  The director leans forward, his gaze tracking the sports car.
+  A script supervisor takes notes beside him, while lighting crew and equipment in the distance create a deep, layered production-set background.
+  He gestures forward and shouts:
+  “Stay with it! Keep going!”
+  The entire line must be delivered while the director is on screen.
+  00:09–00:12 | Sports Car Explosion
+  Cut to a wider tracking shot alongside the sports car.
+  A missile with a visible flaming trail enters from the rear left and clearly strikes the rear of the car.
+  A flash erupts at the point of impact, followed immediately by an explosion at the rear of the vehicle. Flames, black smoke, and debris expand outward.
+  The car body is thrown upward while continuing its momentum toward the right.
+  The handheld camera jolts briefly from the impact.
+  00:12–00:14 | The Actor Rolls into Frame from the Left
+  Cut to the ground near the adjacent film set.
+  Wearing the complete dark tactical outfit, the actor rolls close to the ground into frame from the left, moving toward the center.
+  Burning flames and rising smoke remain visible in the rear left.
+  Orange light sweeps across his left shoulder, the side of his face, and the ground.
+  He finishes in a heroic kneeling pose, with one knee on the ground and one hand braced against the ground. His entire body remains visible, and his clothes are covered in dust.
+  The camera briefly dips with his landing, then readjusts to find the actor.
+  00:14–00:15 | Facial Close-Up Leading into the Run
+  Cut to the actor's face.
+  He exhales, with sweat and dust visible on his face and flickering firelight on his left side.
+  He raises his eyes and locks his gaze on something ahead. His shoulders lift, and his body begins to launch into a run.
+  The handheld camera makes small natural movements and quickly rises with him as he gets up, transitioning into the running sequence.

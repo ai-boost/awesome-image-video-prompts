@@ -1,0 +1,40 @@
+id: kling4-militia-march-into-painting
+title:
+  en: A 17th-century militia marches out and freezes into the painting
+  zh: 十七世纪民兵列队出发，最后定格成名画
+model: Kling 4.0
+mode: keyframes-to-video
+tags:
+- historical
+- painting
+- transformation
+- long-take
+- keyframes
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static-77.klingai-cdn-aws.com/kling-blog/presigned_url/4205f3d5-fbac-4bfa-9ae3-2826fe780925_1-4.mp4
+inputs:
+- https://static-90.klingai-cdn-aws.com/kling-blog/file_by_url/4b16c7bb953ef321eeaff771e559b35cecd573838d2e1f42a55a4e8e0c4e0278.jpg
+notes:
+  en: The last frame is the painting. The first half has to look like live action and only the end turns into oil paint, all in one shot.
+  zh: 尾帧就是那幅画。前半段必须像实拍，到结尾才在同一个镜头里变成油画。
+prompt: |
+  SCENE CONTEXT — EXACTLY ONE HISTORICAL SCENE, NO ADDITIONAL CHARACTERS. Use @Image1 as the exact final-frame reference for character costumes, positioning, lighting, composition, and painterly color palette. Create a 15-second cinematic short film depicting a 17th-century civic militia gathering to march out from a dimly lit archway. The first half must look entirely like live-action footage, with a high degree of photorealism. Only toward the end should the scene gradually transform into the original painting within the same continuous shot. Characters must not emerge from the painting, and no oil-paint textures may appear at the beginning.
+  LOCATION AND ATMOSPHERE: A dark urban archway opens onto stone pavement where a civic militia gathers to march. Urban dust hangs in the air, and a warm shaft of sunlight enters from the side. Use dramatic Rembrandt-style chiaroscuro while keeping the space shrouded in nighttime darkness. Do not create a moonlit-night appearance.
+  CAMERA AND OPTICS: Use cinematic photorealism, finely rendered textures, realistic lens depth of field, subtle handheld breathing, and smooth tracking and pullback movements. The camera begins low to the ground, tracks naturally through the marching crowd, then gradually pulls back and rises slightly. The entire sequence remains one continuous shot, maintaining spatial continuity between the live-action scene, the transforming painting, and the surrounding dark environment.
+  FORMAT MODE: 15 seconds total, one continuous shot. No hard cuts, white flashes, page-turn effects, or transitions that interrupt spatial continuity. The transformation from live action to painting occurs gradually within the same shot, progressing from the edges toward the center.
+  ACTION TIMING:
+  0.0–3.0s — THE MILITIA MARCHES. Track low to the ground as boots march across stone pavement. Drumsticks strike, and a red sleeve sweeps past the camera. The camera naturally tilts upward, following a musket as it passes beneath a flag. All movements feel realistic and weighty, with natural walking speed and no slow motion. The scene remains entirely photorealistic, with no visible oil-paint textures.
+  3.0–8.0s — MOVE THROUGH THE CROWD. The camera moves steadily through the crowd, finding the captain dressed in black with a red sash. He turns to check the formation and extends his hand forward to give a command. Beside him, a lieutenant dressed in pale gold steps forward. In the background, guards raise their pikes and adjust their formation. A blonde little girl briefly looks back at the group. Expressions and movements remain natural and restrained, as if spontaneously captured by a camera in a historical film. Maintain fully realistic skin, fabric, metal, and architectural details.
+  8.0–12.0s — REVEAL THE COMPOSITION. The camera continuously pulls back and rises slightly. As the group continues moving, the characters gradually settle into their precise positions in the original painting. The captain's outstretched hand, the lieutenant's pose, the red-clad guard in the doorway, the Afghan girl, the weapons, and the drummer on the right all come into view simultaneously. At this moment, the drumbeat abruptly stops, and everyone freezes for half a second. Preserve realistic live-action appearance as the composition becomes fully readable.
+  12.0–15.0s — TRANSFORM INTO THE PAINTING. Continue the same slow pullback without cutting. The realistic skin, fabric, metal, and architectural details gradually transform from the edges toward the center into rich oil paint and visible brushstrokes. The surrounding scene progressively resolves into the original painting,
+  The Night Watch
+  , fully revealing @Image1. Preserve the exact positions, character costumes, proportions, lighting, color palette, and composition of the original painting. By the end, the transformation is complete, and the image remains motionless.
+  FINAL FRAME AND COMPOSITION: The final painting must retain its complete original aspect ratio and be displayed centered in the frame, with seamless spatial continuity between the painting and the surrounding dark environment. Do not crop the original painting, alter its composition, or introduce any additional characters. Hold the completed image motionless until the end.
+  LIGHTING AND COLOR: Begin with nighttime darkness, dramatic Rembrandt-style chiaroscuro, warm side lighting, and dust suspended in the air. Do not introduce moonlight. During the live-action portion, maintain realistic cinematic lighting and natural material textures. As the painting transformation progresses, preserve the original painting's distinctive lighting, rich oil-paint colors, and visible brushwork.
+  PHYSICS AND MOTION: Boots maintain convincing contact with the stone pavement. Weapons, clothing, and equipment move with realistic weight and inertia. The captain's gestures, the lieutenant's forward movement, the guards' formation adjustments, and the girl's brief backward glance remain physically natural. The transition into the painting changes the visual rendering of the existing scene rather than causing characters to emerge from or move out of the painting.
+  AUDIO: Environmental audio consists of boots on stone, rustling fabric, subtle metallic clinks, and live drums. Add low strings and gradually intensifying orchestral music, building to a climax as the camera pulls back. At the moment the scene freezes, the drums stop, leaving only a brief musical resonance. The sound design must support the cinematic progression from a living historical scene to a motionless painted composition.
+  STYLE: Cinematic historical realism transitioning into the original oil painting. The opening and middle sections must look entirely like live-action footage, with realistic skin, fabric, metal, architectural surfaces, lens depth of field, and natural motion. Rich oil-paint textures and visible brushstrokes appear only toward the end, gradually replacing the photorealistic rendering.
+  POSITIVE CONSTRAINTS: Maintain consistent character identities, costumes, positions, weapons, and spatial relationships throughout the continuous shot. Preserve the exact final composition of @Image1. The first half remains fully photorealistic. The transformation progresses from the edges toward the center and completes by 15.0 seconds. No characters emerge from the painting. No additional characters, cropped painting, hard cuts, white flashes, page-turn effects, or premature oil-paint textures. The final frame matches the original painting's full aspect ratio and composition, centered within the surrounding dark environment.

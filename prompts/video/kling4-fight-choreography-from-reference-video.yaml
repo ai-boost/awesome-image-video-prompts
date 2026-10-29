@@ -1,0 +1,25 @@
+id: kling4-fight-choreography-from-reference-video
+title:
+  en: Borrow a fight's choreography, swap in your own fighters
+  zh: 借一段打斗的动作编排，换成自己的角色
+model: Kling 4.0
+mode: reference-to-video
+tags:
+- fight-scene
+- motion-reference
+- multi-reference
+- character-reference
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static-17.klingai-cdn-aws.com/kling-blog/presigned_url/ed604ee7-c243-4375-9dc7-38c5964d81e2_1-2.mp4
+inputs:
+- https://static--45.klingai-cdn-aws.com/kling-blog/file_by_url/9603ebbdfda76122fdbef0275af4dbad96108fcbb7e46bad56e621feba73c892.png
+- https://static-10.klingai-cdn-aws.com/kling-blog/file_by_url/ef4f3b49db4eab2d135518404005e67da24472f824e27b2ddf1c86c2699d9217.png
+- https://static--34.klingai-cdn-aws.com/kling-blog/presigned_url/bd79f738-8bdf-4cf8-b02a-be0fad27c733_1-2-1.mp4
+notes:
+  en: 'Two sentences. Each asset gets one job: the video gives timing and moves, the two images give the characters.'
+  zh: 两句话，每份素材一个任务：视频管招式和节奏，两张图管角色长相。
+prompt: |
+  Use @Video 1 as the reference for the fight choreography and attack timing. Use @Image 1 and @Image 2 as the references for the character designs.

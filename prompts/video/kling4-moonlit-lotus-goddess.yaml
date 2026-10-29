@@ -1,0 +1,32 @@
+id: kling4-moonlit-lotus-goddess
+title:
+  en: A lotus as big as the moon, and a woman in white watching it
+  zh: 月亮那么大的莲花，白衣女子遥望
+model: Kling 4.0
+mode: reference-to-video
+tags:
+- fantasy
+- multi-shot
+- reference-images
+- xianxia
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--43.klingai-cdn-aws.com/kling-blog/presigned_url/95805563-46fa-438e-9a45-4a86a1ebaf2b_1-4.mp4
+inputs:
+- https://static-41.klingai-cdn-aws.com/kling-blog/file_by_url/42f358302f2d6b57eab3c152bcd280c568591ec04a2c955501b7ae6db7e436aa.png
+- https://static-99.klingai-cdn-aws.com/kling-blog/file_by_url/2a100339cabc4ef41bc6545716796046247e2c7ca1a35dec672ff7444e70972e.png
+notes:
+  en: 'Two five-second shots, each pinned to its own composition image. The prose spends most of its words on scale: the flower is huge and far, the woman small and near.'
+  zh: 两个五秒镜头，各自对应一张构图参考。文字大半在交代尺度：花巨大而远，人小而近。
+prompt: |
+  Shot 1 (5s): Use Reference Image 1 for composition. A moonlit night with sparse stars. A colossal white lotus glowing with moonlight blooms in the sky, radiating tiny white sparkles and golden flecks of light. The lotus dominates most of the frame, appearing like an enormous luminous moon, yet remains visibly distant from the character.
+  In the foreground, a breathtakingly beautiful woman in white traditional Chinese attire with a flowing golden gauze outer robe gazes toward the distant lotus with one hand gently raised. Her figure is much smaller than the lotus but closer to the camera, creating a pronounced sense of depth and spatial separation. Her long, waterfall-like black hair, two slender white hair ribbons, and flowing garments sway naturally in the breeze. Moonlight illuminates her silhouette, tracing her body with a delicate silver-white rim light, giving her an ethereal, celestial presence.
+  The enormous lotus gently pulses with light as if breathing. Each petal subtly rises and falls, while delicate streams of water carrying tiny starlike glimmers trickle continuously from the petals. Golden particles drift slowly back and forth around the flower.
+  The camera slowly pans to the right. The woman remains stationary in her position, while her hair, ribbons, and clothing move organically in the wind. Subtle parallax and perspective shifts reveal the lotus's changing appearance as the camera moves. Motion is fluid, natural, and physically believable, with cinematic depth and an enchanting celestial atmosphere.
+  Shot 2 (5s): Use Reference Image 2 for the lotus design and the character's pose and composition. Under a starry, moonlit sky, an enormous ink-black lotus blooms on the surface of a flowing river. Its magnificent dark petals fill almost the entire frame, forming the dominant visual subject. The lotus emits a soft, otherworldly glow that illuminates the surrounding scene. Its hollow center is large enough to cradle a beautiful woman dressed in pale, muted celadon-blue traditional Chinese clothing.
+  She reclines comfortably in the center of the lotus, legs crossed, both hands interlaced behind her head, as if peacefully dozing. Her pose is relaxed and carefree. The lotus's center has an almost translucent luminous quality, delicately edged in white and touched with subtle golden radiance. The woman occupies a relatively small portion of the frame.
+  Use a strictly vertical top-down overhead shot. Tiny fireflies sparkle throughout the composition. The woman gently shifts and moves her hands in a relaxed, unhurried manner. A soft breeze causes her hair and flowing skirt to sway naturally, with subtle, lifelike movements.
+  The massive black lotus slowly pulses between brighter and dimmer states, like a calm, steady breath. Golden fireflies drift gradually in the same direction. Water flows continuously beneath the flower, carrying the lotus slowly toward the left side of the frame. The camera gradually pulls back, revealing more of the flowing water and the surrounding field of fireflies while preserving the lotus as the central visual focus. All motion remains smooth, graceful, and dreamlike.
+  Background Music: elegant, classical Chinese instrumental music evoking a celestial fairyland. A delicate guzheng and Chinese flute duet, with graceful melodies, spacious ambience, and a serene, otherworldly atmosphere. Preserve the beauty and refinement of traditional Chinese aesthetics.

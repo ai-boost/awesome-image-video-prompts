@@ -1,0 +1,28 @@
+id: kling4-edit-corgi-to-voxel-corgi
+title:
+  en: 'Edit a clip: the corgi in the snow becomes a blocky voxel corgi'
+  zh: 改视频：雪地里的柯基变成方块像素柯基
+model: Kling 4.0
+mode: video-edit
+tags:
+- video-edit
+- voxel
+- animals
+- restyle
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static-9.klingai-cdn-aws.com/kling-blog/presigned_url/e195bd1a-13ae-4d52-a67b-00b14f3972b6_1-5.mp4
+inputs:
+- https://static-81.klingai-cdn-aws.com/kling-blog/presigned_url/458f58fa-6934-4de1-a967-73e50bfbde62_1-5-1.mp4
+notes:
+  en: Describes the new look part by part, from cube torso to 16x16 textures, and keeps the original coat pattern so it still reads as the same dog.
+  zh: 逐个部位写新造型，从方块身体到 16x16 贴图，并保留原来的毛色分布，看起来仍是同一只狗。
+prompt: |
+  Edit @Video 1 by replacing the tricolor Corgi puppy hopping in the snow with a 3D blocky pixel-art Corgi. The entire body must be constructed from cubes: a rectangular torso, a cubic head, two upright square triangular ears, four short cuboid legs, and a small block-shaped tail. All edges must have sharp, hard right angles, with no rounded curves.
+  The surface uses low-resolution 16×16 pixel textures, preserving the original Corgi's tricolor distribution: a tan body, a black saddle-shaped patch across the back, a white facial blaze, a white collar, a white chest, and white paws. The eyes are two black square pixels, the nose is a single black cube, and the tongue is a small pink pixel block. Lit surfaces are bright and side surfaces are dark, with flat-shaded, block-based lighting. There must be no fur texture or soft tonal transitions.
+  Keep the Corgi exactly the same size as the original, without scaling it up or down. The blocky Corgi must follow the original Corgi's position, actions, and movement trajectory frame by frame: standing beside the porch, jumping into deep snow and disappearing, leaving a hole in the snow, peeking out with its blocky head, repeatedly leaping forward into the snow, and finally sitting in the snow pit. During jumps, its body and legs should move as rigid blocks, like a creature animation in a video game, without bending.
+  The depth to which it sinks into the snow, the snow kicked up by its paws, the snow settling on its body, and its shadow cast onto the snow must all follow the blocky body accurately. Whenever it reappears after being covered by snow, it must remain the exact same blocky Corgi with consistent textures.
+  Important: Only the Corgi should be transformed into a blocky style. The wooden porch, snowy ground, wooden fence, trees, and gray-white sky must remain completely realistic, as in the original live-action footage. Do not apply any blocky or pixelated effects to the environment. Only one animal should appear in the footage, and no realistic, fur-covered Corgi may appear in any frame.
+  Keep the audio exactly identical to the original video. Do not add any new sounds. Preserve the handheld camera perspective and all camera movements. Everything else must remain unchanged.

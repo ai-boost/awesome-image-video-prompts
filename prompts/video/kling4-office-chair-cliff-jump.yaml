@@ -1,0 +1,25 @@
+id: kling4-office-chair-cliff-jump
+title:
+  en: Recreate a cliff jump stunt, but on an office chair
+  zh: 照拍一段悬崖跳伞特技，坐骑换成办公椅
+model: Kling 4.0
+mode: reference-to-video
+tags:
+- motion-reference
+- pov
+- comedy
+- object-swap
+- action
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--89.klingai-cdn-aws.com/kling-blog/presigned_url/6277f31b-5c85-4c24-9974-d5254c0fa23c_1-1.mp4
+inputs:
+- https://static--11.klingai-cdn-aws.com/kling-blog/file_by_url/a587a7581557e29314065a81c742d18edb842696f595a220c4bd757d9c7a8c83.png
+- https://static-96.klingai-cdn-aws.com/kling-blog/presigned_url/bdac1b40-c32d-4f3a-b565-40d258f1d78b_1-1-1.mp4
+notes:
+  en: First frame from an image, camera and cuts from a video. Every moment the bike appears is listed so the chair replaces it everywhere.
+  zh: 首帧来自图，镜头和剪辑来自视频。逐个列出自行车出现的时刻，保证每一处都换成椅子。
+prompt: |
+  @Image1 is the first frame.  @Video1 is the reference for camera, motion, timing and cuts. Recreate @Video1 shot-for-shot and cut-for-cut, but starting from @Image1: the rider is SITTING in a black office swivel chair instead of standing on a bike. Same chest-mounted GoPro fisheye POV, same ramp, canyon, river, orange parachute with white ring, airboat and cheering crew; same three jump-cuts and audio as video. Wherever the video shows the bike — under the rider on the ramp, shoved away at the cliff, tumbling below in free-fall, and the tiny silhouette during the parachute opening — show the office chair (mesh backrest, padded seat, chrome column, five-spoke base, casters). Before the launch, the rider stays seated exactly as in @Image1: thighs and knees at the bottom of frame, sneakers on the star base, hands on the armrests. No bicycle, handlebar, tyres or pedals anywhere.

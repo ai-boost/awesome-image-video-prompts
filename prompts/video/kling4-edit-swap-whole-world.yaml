@@ -1,0 +1,23 @@
+id: kling4-edit-swap-whole-world
+title:
+  en: 'Edit a clip: swap the whole world for an image'
+  zh: 改视频：整个场景和角色换成一张图里的
+model: Kling 4.0
+mode: video-edit
+tags:
+- video-edit
+- restyle
+- reference-image
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--76.klingai-cdn-aws.com/kling-blog/presigned_url/c7048822-9f71-49e4-b9d7-b5a254893ffe_1-2.mp4
+inputs:
+- https://static--63.klingai-cdn-aws.com/kling-blog/file_by_url/a755279b2ec2b77e49b1de97efb9f838564c2e3ca37d4f00d956e1f4ea522600.png
+- https://static-90.klingai-cdn-aws.com/kling-blog/presigned_url/42801baf-9a37-471f-ae55-68cd75001eb4_1-2-1.mp4
+notes:
+  en: The shortest edit in the guide. One image replaces both setting and characters while the motion stays.
+  zh: 指南里最短的编辑提示词，一张图同时换掉场景和人物，动作不变。
+prompt: |
+  Edit @Video1. Replace the environment and characters throughout the video with the content from @Image1.

@@ -1,0 +1,41 @@
+id: kling4-interpreter-spanish-chinese
+title:
+  en: An interpreter between a Spanish tourist and a Chinese clerk
+  zh: 西班牙游客和中国店员之间的翻译
+model: Kling 4.0
+mode: reference-to-video
+tags:
+- dialogue
+- multilingual
+- lip-sync
+- timed-shots
+- travel
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--47.klingai-cdn-aws.com/kling-blog/presigned_url/ffc66c6b-2566-4ab4-b556-6305b928cad6_1-1.mp4
+inputs:
+- https://static--70.klingai-cdn-aws.com/kling-blog/file_by_url/ec20a9573046207984f3c03dbea8d63a9e979ee34029d070ac4ae13132cb2e4a.png
+notes:
+  en: Bilingual dialogue written out word for word with half-second pauses between turns, plus a cut plan that follows whoever is speaking.
+  zh: 两种语言的台词逐字写出，每轮之间停半秒，镜头跟着说话的人切。
+prompt: |
+  SCENE CONTEXT EXACT 3 UNIQUE HUMAN CHARACTERS ACROSS THE VIDEO: Three people are in a bright, clean, fictional city tourist information center. Maintain consistent color tones throughout. The tourist stands on the left, the interpreter stands in the middle, and the tourism staff member stands on the right. A city map and route diagram are placed on the information desk. Background text and map labels must be blurred and unreadable. No real brands, organization names, logos, or watermarks may appear.
+  ACTION TIMING:
+  0–3 seconds: Medium shot of all three people. The Spanish female tourist looks at the interpreter in the middle, raises the map in her hand, and speaks in natural, clear, slightly slow Spanish: “¿Dónde está la estación de metro más cercana?” After she finishes speaking, pause for approximately 0.5 seconds. The interpreter turns to the tourism staff member and translates into Chinese: “她想知道最近的地铁站在哪里。”
+  3–7 seconds: Cut to the interpreter and the tourism staff member. The tourism staff member looks at the map (do not use a close-up of the map) and answers in natural, clear Chinese: “沿这条路直走，步行大约五分钟就能到。” After the staff member finishes speaking, pause for approximately 0.5 seconds. The interpreter confirms understanding and turns toward the tourist.
+  7–11 seconds: The interpreter translates the staff member's answer into natural, clear, slightly slow Spanish: “La estación de metro está a unos cinco minutos a pie. Siga recto por esta calle.” While speaking, the interpreter points to the route on the map, and the tourist studies it attentively.
+  11–15 seconds: Return to a medium shot of all three people. After understanding the directions, the Spanish tourist smiles, nods, and says in Spanish: “Muchas gracias.” All three maintain a natural service interaction as the scene ends.
+  AUDIO:
+  - The Spanish tourist speaks only Spanish.
+  - The Chinese tourism staff member speaks only Chinese.
+  - The Chinese interpreter speaks Chinese first, then Spanish.
+  - Each person has a distinct voice.
+  - When one person is speaking, the others remain silent. No interruptions or overlapping dialogue.
+  - All dialogue must have clear vocals, with lip movements synchronized to the corresponding language.
+  - Spanish pronunciation must be natural and standard, without English-accented pronunciation.
+  - Speech should be slightly slow, with natural pauses between sentences.
+  - Retain subtle ambient sounds from a tourist information center. Do not add background music. Ambient sounds must not overpower the dialogue.
+  CAMERA: Begin with a medium shot of all three people to establish their relationships. When the tourist speaks, cut to a two-shot of the tourist and interpreter. When the interpreter relays the question, cut to the interpreter and staff member. During the staff member's response, include a close-up of the map route. When the interpreter translates into Spanish, return to a two-shot of the interpreter and tourist. End with a medium shot of all three people. Maintain consistent character positions, eyelines, and clothing throughout. Do not abruptly replace characters or change their spatial relationships.
+  STYLE: Realistic, natural, professional travel-service documentary style. Bright, clean lighting, natural facial expressions, and restrained movements. The scene should resemble an authentic interaction at an airport or city tourist information center.

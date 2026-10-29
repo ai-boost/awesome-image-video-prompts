@@ -1,0 +1,25 @@
+id: kling4-car-ad-from-reference-video
+title:
+  en: Remake a car spot with your car and your backdrop
+  zh: 照一支汽车短片的运镜，换成自己的车和背景
+model: Kling 4.0
+mode: reference-to-video
+tags:
+- product-commercial
+- camera-reference
+- multi-reference
+- object-swap
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static--94.klingai-cdn-aws.com/kling-blog/presigned_url/2a2039c8-2a39-48cb-83b6-a3a4f95b4446_1-3.mp4
+inputs:
+- https://static--54.klingai-cdn-aws.com/kling-blog/file_by_url/5a2591442bc22e9f30c9c01a908746abf2ee781a2f2791f024f9ff727b240966.png
+- https://static-58.klingai-cdn-aws.com/kling-blog/file_by_url/515ab05993934539ab58c7ab75862b3282d18fd063246deb918114a6dda943af.png
+- https://static--68.klingai-cdn-aws.com/kling-blog/presigned_url/d948f107-f702-4591-842f-c502eaf4e446_1-3-1.mp4
+notes:
+  en: Keeps the camera moves and cut rhythm of a reference clip and replaces the car and the scenery from two images.
+  zh: 保留参考视频的运镜和剪辑节奏，车和背景分别换成两张图里的。
+prompt: |
+  Use @Video 1 as the reference for camera movements and shot pacing. Replace the Element with the car from @Image 1 and the background with @Image 2.

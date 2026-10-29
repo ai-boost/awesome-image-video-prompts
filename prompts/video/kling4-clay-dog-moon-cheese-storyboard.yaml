@@ -1,0 +1,40 @@
+id: kling4-clay-dog-moon-cheese-storyboard
+title:
+  en: Clay astronaut dog chases a bus-sized cheese mouse, from a storyboard
+  zh: 黏土宇航狗追巴士大的奶酪老鼠，照分镜稿拍
+model: Kling 4.0
+mode: reference-to-video
+tags:
+- stop-motion
+- claymation
+- storyboard
+- character-sheet
+- long-take
+- comedy
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static-24.klingai-cdn-aws.com/kling-blog/presigned_url/1b9b38b5-2381-4f54-a5e2-c6510075ea1f_1-5.mp4
+inputs:
+- https://static-6.klingai-cdn-aws.com/kling-blog/file_by_url/982c5566ed9dc356c626105c4777b31163f3de2537b0a12de2e7583d49b39918.png
+- https://static--57.klingai-cdn-aws.com/kling-blog/file_by_url/961d42867186eca64dd753536ed8a3646dc475680b377e629066fef22b5c7b94.png
+notes:
+  en: Feeds a pencil storyboard and a character sheet, and tells the model to film what the panels describe, not the panels themselves. One continuous master shot.
+  zh: 喂一张铅笔分镜和一张角色设定图，并说明要拍分镜描述的画面，别把分镜纸拍出来。全片一个连续长镜头。
+prompt: |
+  Strictly follow the attached storyboard (Image 1) as the basis, adhering to the director-approved shot order, composition, camera movement paths, screen movement directions, and emotional progression. Present the final stop-motion animation frames described by the storyboard panels; do not film or recreate the storyboard itself. The footage must not contain pencil-sketch textures, storyboard grids, titles, Chinese labels, or director's notes.
+  The attached character design sheet (Image 2) is the sole authoritative reference for BISCUIT (C1): a small, round, plump clay terrier with tousled brown fur, one floppy ear and one upright ear, a large black clay nose, wide-open, expectant eyes, and a short tail. He wears a tiny white clay spacesuit with orange collars and cuffs; his round glass helmet is open at the front, allowing his nose to stick out. He carries a small backpack with a curved antenna, wears oversized moon boots, and holds a clay fork larger than himself. The same dog, spacesuit, and fork must remain visually consistent in every frame. C2 is a friendly clay cheese mouse as large as a bus.
+  Duration: 15 seconds, aspect ratio 16:9. The entire sequence must be one continuous master shot with no visible cuts. A single virtual camera first bobs alongside him as he jumps, then dives into the hole with him, tilts upward from the bottom of the tunnel, follows him as he bursts out of the hole, and finally rises to an extreme long shot. All changes in shot scale must be achieved through this continuous camera movement.
+  Visual style: Handcrafted clay stop-motion animation in the style of Aardman Animations. Preserve clearly visible fingerprints, clay textures, and slightly uneven surfaces, with the characteristic stepped motion of 12 fps stop-motion animation. Use lighting that resembles a real miniature set and macro-photography-style shallow depth of field. The cheese moon wobbles like jelly. The sky is made of black felt, decorated with tin-foil stars and a clay Earth. The overall atmosphere is warm, cozy, and whimsical.
+  Visual concept: Hunger and courage. A little dog, an enormous fork, a wobbling cheese moon, and a new friend.
+  Environment: A yellow cheese moon riddled with holes, underground cheese tunnels, a small crooked clay rocket, and Earth in the sky.
+  Audio: No music for the first 12 seconds. During the final three seconds, a cheerful tuba and ukulele duet plays. Sound effects include squeaky clay footsteps, springy “boing-whoing” sounds during slow, low-gravity jumps, deep jelly-like rumbles as the moon shakes, a rubbery “pop” as the hole opens, a rushing whoosh during tumbling, loud chewing from the giant mouse and a startled squeal, frantic paw-scratching sounds, a satisfying bite as Biscuit finally gets his cheese, contented chewing, and the sound of his tail thumping against the ground.
+  Emotional progression: L1 Curiosity → L3 Surprise → L4 Panic → L5 Chase at its peak → L5 Ecstatic bliss at the first bite of cheese → L1 Warmth and contentment.
+  Storyboard beats (continuous throughout, no cuts):
+  0–2 seconds (P01): The camera stays close to the cheese surface at a low angle. Biscuit steps out of the crooked little rocket and plants one paw on the cheese. He sniffs it, and his eyes grow wider with anticipation. He carries the fork over his shoulder, and Earth is visible in the sky.
+  2–4.5 seconds (P02): The camera bobs alongside him with each jump. He makes slow, exaggerated low-gravity leaps across the cheese landscape, his ears bouncing and flapping upward. He plunges his fork into a large wedge of cheese, and the entire surface immediately wobbles like jelly as a gigantic hole opens beneath his feet.
+  4.5–7 seconds (P03): The camera dives into the hole alongside him. Still gripping his fork, Biscuit tumbles slowly through a hole-riddled cheese tunnel, passing a gigantic clay cheese mouse as large as a bus that is busy nibbling on the tunnel wall. Biscuit's appearance startles the mouse.
+  7–9.5 seconds (P04): The camera reaches the bottom of the tunnel and tilts upward. The giant mouse turns around, its whiskers trembling, and chases Biscuit up the tunnel. Panicking, Biscuit ricochets between the tunnel walls, with curly ribbons of cheese trailing behind his fork.
+  9.5–12 seconds (P05): The camera follows them as they burst out of the hole. Biscuit launches upward in a slow, high arc, and the giant mouse's head emerges from the opening immediately behind him. Suspended upside down in midair, Biscuit scoops up a huge curl of cheese with his fork and puts it into his mouth, instantly experiencing overwhelming bliss.
+  12–15 seconds (P06): The camera rises and pulls back into an extreme long shot. Biscuit and the giant mouse sit side by side on the edge of the hole, happily sharing cheese. The rocket rests behind them, Earth slowly rises in the distance, and tin-foil stars dot the sky. Biscuit exhales contentedly, fogging up his helmet glass, while his tail wags happily. The tuba and ukulele duet begins. Hold on this final composition.

@@ -1,0 +1,22 @@
+id: kling4-edit-remove-foreground-person
+title:
+  en: 'Edit a clip: remove the person in front'
+  zh: 改视频：去掉前景里的人
+model: Kling 4.0
+mode: video-edit
+tags:
+- video-edit
+- object-removal
+- inpainting
+source:
+  name: Kling 4.0 user guide
+  url: https://kling.ai/quickstart/kling-4-model-user-guide
+  credit: Kling AI
+video: https://static-60.klingai-cdn-aws.com/kling-blog/presigned_url/13c66fc3-b663-4e6e-b50c-208bbd080a5c_1-4.mp4
+inputs:
+- https://static--19.klingai-cdn-aws.com/kling-blog/presigned_url/968b27e4-43a2-4757-b744-074878d87095_1-4-1.mp4
+notes:
+  en: 'Object removal in one paragraph: what to remove, what to keep, and a request to rebuild what was hidden behind them.'
+  zh: 一段话做物体移除：删什么、留什么，再要求把被挡住的部分补出来。
+prompt: |
+  Edit @Video 1 to remove the foreground person. Keep everything else unchanged, including the background, other subjects, camera movement, lighting, composition, and video duration. Seamlessly reconstruct the areas previously obscured by the person, ensuring natural, consistent details with no visible artifacts.
