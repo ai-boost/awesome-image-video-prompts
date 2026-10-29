@@ -1,7 +1,7 @@
 id: gpt-image-translate-infographic-spanish
 title:
   en: Translate an infographic into Spanish without touching the layout
-  zh: 把信息图翻译成西班牙语，版式不动
+  zh: 将信息图翻译成西班牙语且不改动版式
 model: GPT Image 2.5
 mode: image-edit
 category: edit
@@ -17,7 +17,7 @@ source:
 inputs:
 - https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-sunburst.webp
 notes:
-  en: 'A one-line edit on the coffee machine infographic. Check the output for words left in the original language. Preview: the Sunburst variant.'
-  zh: 在咖啡机信息图上做的一句话编辑。出图后检查有没有漏翻的词。预览图为 Sunburst 版本。
+  en: One instruction names the target language and a second locks every other aspect of the image, so the model rewrites only the text and keeps the layout, icons and numbering in place.
+  zh: 一句指令指定目标语言，另一句锁定图像的其他所有部分，模型因此只改写文字，版式、图标和编号保持原样。
 prompt: |
   Translate the text in the infographic to Spanish. Do not change any other aspect of the image.

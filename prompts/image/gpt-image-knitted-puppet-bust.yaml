@@ -1,10 +1,10 @@
 id: gpt-image-knitted-puppet-bust
 title:
-  en: Photo to knitted stop-motion puppet bust
-  zh: 照片变针织定格动画玩偶半身像
+  en: Photo to knitted designer art toy bust
+  zh: 照片转针织设计师潮玩半身像
 model: GPT Image 2.5
 mode: image-edit
-category: character
+category: photo-to-art
 tags:
 - 3d
 - textile
@@ -17,8 +17,8 @@ source:
   captured: '2026-10-27'
   posted: '2026-10-26'
 notes:
-  en: Very long material spec (yarn, stitches, felt) with a final rule not to invent anything the photo does not show.
-  zh: 超长材质规格（毛线、针脚、毛毡），最后一条：照片里没有的不许编。
+  en: 'The prompt gives the photo and the style reference separate jobs: the photo decides what appears and the reference decides how it looks. It then sets fine felt on the face against chunky knit on hair and clothes, and forbids adding anything the photo does not show.'
+  zh: 提示词给照片和风格参考图分配了不同任务：照片决定画面内容，参考图决定呈现方式。再让面部的细绒毡与头发衣物的粗针织形成对比，并禁止添加照片中没有的任何内容。
 prompt: |
   Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph
 

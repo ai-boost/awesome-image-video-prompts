@@ -1,7 +1,7 @@
 id: nano-banana-night-flash-hair-tying-stone-steps
 title:
   en: Candid night flash photo tying hair on stone steps
-  zh: 石阶上夜晚闪光灯抓拍扎头发瞬间
+  zh: 石阶上扎头发的夜间闪光抓拍
 model: Nano Banana 2.1
 mode: image-edit
 category: portrait
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-10-07'
 notes:
-  en: Freezes a mid action moment with directional motion blur on hands and hair while locking the face sharp. Detailed sections for pose, hair, makeup, clothing and flash falloff, plus a closing list of things to avoid, keep the phone snapshot look instead of a studio finish.
-  zh: 用手部和发丝的方向性动态模糊定格动作中间的一瞬，同时要求面部保持清晰。姿势、头发、妆容、服装和闪光灯衰减分段写清，结尾再列出禁用项，保住手机随手拍的质感而不是棚拍感。
+  en: Direct phone flash that falls off fast into dark stone steps, plus a caught mid action pose, gives the image a real snapshot feel. Separate sections for pose, hair, makeup, clothing and camera, followed by a list of looks to avoid, keep the skin and lighting from turning into a polished studio finish.
+  zh: 手机直闪在深色石阶上迅速衰减，加上扎发瞬间的抓拍姿势，让画面像真实的随手快照。提示词把姿势、头发、妆容、服装和相机分段写清，最后列出要避免的效果，让肤质和光线不会变成精修的影棚感。
 prompt: |
   A spontaneous evening shot, a candid moment caught in motion. Taken on an iPhone 17 Pro with flash. The frame should look like a real photo from a personal gallery, not a staged fashion shoot.
 

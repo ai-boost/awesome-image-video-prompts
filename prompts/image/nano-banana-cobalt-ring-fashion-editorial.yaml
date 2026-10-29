@@ -1,7 +1,7 @@
 id: nano-banana-cobalt-ring-fashion-editorial
 title:
-  en: Platinum bob model in cobalt circular opening
-  zh: 钴蓝圆环中的铂金短发模特
+  en: Platinum bob model seated in sky blue circular opening
+  zh: 铂金短发模特坐在天蓝色圆形拱洞中
 model: Nano Banana 2.1
 mode: text-to-image
 category: portrait
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-27'
   posted: '2026-10-11'
 notes:
-  en: The prompt is split into labeled blocks for scene, outfit, pose, lighting, palette and photography style. Naming a lens, a medium-format look and a cool-versus-warm light split keeps the high-end editorial feel consistent.
-  zh: 提示词按场景、服装、姿势、光线、色板和摄影风格分块标注。写明镜头焦段、中画幅质感以及冷暖光对比，让高级编辑感保持统一。
+  en: The prompt is split into labeled blocks for scene, outfit, pose, lighting, palette and photography style. Naming an 85mm lens, a medium format look and a cool versus warm light split keeps the high end editorial feel consistent.
+  zh: 提示词按场景、服装、姿势、光线、配色和摄影风格分成带标签的段落。指定85mm镜头、中画幅质感以及冷暖光对比，让高端时尚大片的质感保持统一。
 prompt: |
   Create an ultra-realistic, high-end fashion editorial photoshoot featuring a beautiful young adult woman with short, tousled platinum-blonde bob hair, delicate facial features, fair skin, natural rosy lips, light-colored eyes, and a calm, confident expression.
 

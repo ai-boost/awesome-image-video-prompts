@@ -1,7 +1,7 @@
 id: gpt-image-1969-festival-crowd
 title:
   en: Festival crowd in Bethel, New York, August 1969
-  zh: 1969 年 8 月纽约贝塞尔的音乐节人群
+  zh: 1969年8月纽约贝瑟尔音乐节人群
 model: GPT Image 2.5
 mode: text-to-image
 category: realism
@@ -15,8 +15,8 @@ source:
   credit: OpenAI
   captured: '2026-10-28'
 notes:
-  en: 'A place and a date are enough for the model to infer clothing, staging and setting. Inspect the result for period accuracy. Preview: the Sunburst variant.'
-  zh: 只给地点和日期，模型就能推出服装、场面和环境。出图后检查年代细节是否准确。预览图为 Sunburst 版本。
+  en: Naming only a precise place and date lets the model infer era clothing, hairstyles, stage scaffolding and film colour without listing them. Asking for period accuracy pushes it toward documentary realism rather than costume pastiche.
+  zh: 只给出精确的地点和日期，模型就能自行推断当时的服饰、发型、舞台脚手架和胶片色调，无需逐项列出。要求符合时代细节，能让画面更像纪实摄影，而不是戏服式的模仿。
 prompt: |
   Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
   Photorealistic, period-accurate clothing, staging, and environment.

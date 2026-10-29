@@ -1,7 +1,7 @@
 id: gpt-image-zodiac-chibi-cells-sticker-poster
 title:
-  en: Zodiac poster with 3D chibi self cells
-  zh: 星座海报：真人周围环绕3D Q版细胞小人
+  en: Zodiac sign poster with 3D chibi mini selves
+  zh: 星座主题海报配3D Q版迷你分身
 model: GPT Image 2
 mode: image-edit
 category: character
@@ -19,7 +19,7 @@ source:
   posted: '2026-05-09'
   via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
 notes:
-  en: Locks the subject's face as unchanged, then surrounds it with a list of distinct mini 3D chibi actions, each tied to a zodiac trait. Hand drawn doodles, white sticker outlines and a fixed pastel palette keep the 9:16 layout cohesive.
-  zh: 先锁定人物面部不变，再逐条列出与星座性格对应的3D Q版小人动作。手绘涂鸦、白色贴纸描边和固定的柔和配色让9:16画面保持统一。
+  en: Keeps the subject's face unchanged and surrounds it with mini 3D chibi copies, each acting out one trait of the chosen sign. Swap the sign name and its traits to reuse the layout, with doodles and white sticker outlines tying the 9:16 poster together.
+  zh: 保持人物面部不变，周围环绕多个3D Q版迷你分身，每个分身演绎所选星座的一种性格特质。替换星座名称和特质即可复用版式，手绘涂鸦和白色贴纸描边让9:16海报保持统一。
 prompt: |
   I am “TAURUS.” Create a poster inspired by Yumi’s Cells with the same soft, aesthetic, slice-of-life vibe and background style, while fully reflecting the Taurus zodiac theme in the design. The subject’s face must remain completely unchanged and untouched. Surround the subject with multiple small, raw yet realistic cute chibi-style mini 3D versions of the subject, designed like expressive “cells” with oversized heads, glossy high-detail finishes, and playful emotions. Each mini character should reflect Taurus traits such as calmness, loyalty, comfort-loving energy, stubbornness, sensuality, patience, and love for luxury and food. Show them in different actions: one clinging onto the subject’s arm, one relaxing with a cozy blanket, one reading a book peacefully, one drinking coffee or tea, one holding snacks or dessert, one lying down using a phone, one refusing to move with a stubborn expression, one looking sleepy and unbothered, and one with soft messy “just woke up” energy. Add playful hand-drawn doodles interacting directly with the subject and chibi characters—outlining poses, sketching comfy cushions, steam from drinks, tiny flowers, sparkle details, and calm motion accents to enhance storytelling. Use a clean aesthetic composition, white sticker outlines, soft pastel sage green, cream, beige, dusty pink, and warm earthy tones, high-detail glossy 3D chibi look, cute Korean-inspired design, with a raw natural poster feel in a 9:16 vertical aspect ratio, and the Taurus identity clearly integrated into the overall concept.

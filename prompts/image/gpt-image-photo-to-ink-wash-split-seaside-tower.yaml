@@ -1,10 +1,10 @@
 id: gpt-image-photo-to-ink-wash-split-seaside-tower
 title:
-  en: Seaside tower photo above ink wash twin
-  zh: 海边高楼写实照与水墨重构对照
+  en: Seaside tower photo above watercolor splash version
+  zh: 海边塔楼照片与下方水彩晕染版
 model: GPT Image 2.5
 mode: text-to-image
-category: poster
+category: photo-to-art
 tags:
 - ink-wash
 - split-layout
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-10-11'
 notes:
-  en: The prompt splits the canvas into two equal halves, with a faithful photo on top and a minimalist ink wash rebuild below. It controls the lower half with paper texture, limited colour spots, negative space ratios and sparse text.
-  zh: 提示词把画面等分为上下两区，上方保留写实照片，下方重构为极简水墨。通过纸张肌理、少量点染色彩、留白比例和稀疏文字来控制下半部分。
+  en: The prompt locks a 3:4 canvas into two equal halves, keeping the photo faithful on top and redrawing the same scene below on textured paper. Rules on paper tone, a few accent colors and wide negative space make the lower half fade into soft pigment blooms.
+  zh: 提示词把3:4画面严格分成上下两半，上半保留原照片，下半在纸纹底上重绘同一场景。纸色、少量点染色和大面积留白的要求让下半部分化作柔和的颜料晕染。
 prompt: |
   The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.
 

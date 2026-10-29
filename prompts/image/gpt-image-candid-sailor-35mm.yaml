@@ -1,7 +1,7 @@
 id: gpt-image-candid-sailor-35mm
 title:
   en: Candid 35mm portrait of an old sailor mending a net
-  zh: 老水手补网的 35mm 抓拍人像
+  zh: 老水手补渔网的35毫米抓拍肖像
 model: GPT Image 2.5
 mode: text-to-image
 category: portrait
@@ -15,8 +15,8 @@ source:
   credit: OpenAI
   captured: '2026-10-28'
 notes:
-  en: 'Skin texture, lens, light and grain are each named, and the last line rules out glamour and retouching, so the result reads as an unposed photo. Preview: the Sunburst variant.'
-  zh: 皮肤纹理、镜头、光线和颗粒逐项写明，最后一句排除美化和精修，成片才像没摆拍的照片。预览图为 Sunburst 版本。
+  en: The prompt names skin texture, lens, light and film grain one by one, and its last line rules out glamour and retouching, so the result reads as an unposed documentary photo.
+  zh: 提示词逐一写明皮肤质感、镜头、光线和胶片颗粒，最后一句排除美化和重度修图，因此成片像一张未经摆拍的纪实照片。
 prompt: |
   Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
   He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.

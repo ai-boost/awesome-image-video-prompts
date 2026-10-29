@@ -1,6 +1,6 @@
 # Illustration
 
-[Back to the list](../../README.md) · All 112 entries
+[Back to the list](../../README.md) · All 92 entries
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### Anime style panorama of Shibuya Crossing from map screenshot
@@ -67,42 +67,6 @@ Korean-style illustration, with a distinct and memorable character design, natur
 
 </details>
 
-<a id="gpt-image-architectural-specimen-card-survey-landmark"></a>
-### Great Wall Architectural Survey Specimen Card
-
-<a href="https://x.com/Naiknelofar788/status/2094626691234816034"><img src="../../previews/gpt-image-architectural-specimen-card-survey-landmark.jpg" width="360"></a>
-
-Starts from an uploaded photo and sets a clear hierarchy: a large monochrome ink drawing of the landmark, one small color photo fragment, and a contour map behind it. A restricted palette with a single accent color, a short list of small archival text items, and an explicit list of styles to avoid keep the card clean and museum like.
-
-GPT Image 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2094626691234816034) · 512 likes on 2026-10-28
-
-[`architecture`](tags.md#tag-architecture) [`specimen-card`](tags.md#tag-specimen-card) [`archival`](tags.md#tag-archival) [`topographic-map`](tags.md#tag-topographic-map) [`ink-drawing`](tags.md#tag-ink-drawing)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the uploaded photo as the primary reference. Create a sophisticated 4:3 landscape architectural specimen card inspired by museum archives, architectural surveys, and vintage scientific documentation.
-
-Keep the original location recognizable, but transform the presentation into a curated architectural study rather than a normal travel poster.
-
-* Place the main landmark as a large monochrome architectural cutout or finely detailed ink drawing.
-* Add a smaller original-color photographic fragment showing one distinctive detail of the location.
-* Include a simplified topographic contour map behind the architecture.
-* Add tiny numbered reference points, measurement marks, arrows, elevation lines, and architectural annotation symbols.
-* Use an aged cream paper background with subtle grain and imperfections.
-* Palette: black, warm beige, muted olive, and one restrained accent color extracted from the landmark.
-* Typography should be small, elegant, and archival: location name, country, year, No. 019, and 3 descriptive keywords.
-* Create subtle imperfections resembling screen printing, drafting ink, pencil marks, and old paper.
-* Keep generous negative space and a sophisticated museum-catalog aesthetic.
-
-Important: Avoid postcard layouts, circular stamps, tourist graphics, excessive text, cartoon styling, glossy effects, 3D rendering, and overly detailed illustrations.
-
-Overall mood:
-architectural archive × museum specimen × old survey document × contemporary editorial design.
-```
-
-</details>
-
 <a id="nano-banana-geometric-fashion-illustration"></a>
 ### Full-body fashion illustration in textured geometric style
 
@@ -139,41 +103,6 @@ GPT Image 2 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/Chi
 
 ```text
 Generate an illustration of what you imagine “me” to look like: in a Japanese-style illustration, with distinctive character traits, a natural and expressive emotional look, and a half-body composition. The pose should be dynamic, with finely detailed clothing. Use a hand-drawn doodle style with splashed ink brushstrokes, loose and spontaneous lines, and a mix of pastel colors and ink tones. Aim for a comic sketch texture, set against a simple white background, with symbolic elements scattered around to enhance the atmosphere. The overall feel should be strong in mood, highly detailed, and high quality.
-```
-
-</details>
-
-<a id="nano-banana-real-rock-ink-cartoon-boy-composite"></a>
-### Ink Cartoon Boy Carrying a Real Rock
-
-<a href="https://x.com/ShamsAmin56/status/2061689192661307402"><img src="../../previews/nano-banana-real-rock-ink-cartoon-boy-composite.jpg" width="360"></a>
-
-A template with placeholders for a real object and the part of the drawing it replaces, so the photo and the line art complete one visual pun. Pairing a photorealistic object with bold black line art on a white background keeps the blend clean.
-
-Nano Banana 2 · Text-to-image · Source: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2061689192661307402) · 321 likes on 2026-10-28
-
-[`composite`](tags.md#tag-composite) [`line-art`](tags.md#tag-line-art) [`visual-pun`](tags.md#tag-visual-pun) [`template`](tags.md#tag-template) [`white-background`](tags.md#tag-white-background)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Creative composite photograph, 9:16 vertical aspect ratio, clean minimalist white background, studio lighting, high detail, sharp focus.
-
-A real-life [EVERYDAY OBJECT] is physically placed and perfectly integrated as a key part of a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading, like a quick sketch on paper.
-
-The [OBJECT] represents [CLEVER PART OF THE SCENE - e.g. hair, weapon, body part, clothing, etc.], cleverly completing the visual pun or concept. The cartoon character interacts dynamically with the object in a humorous, meaningful, or surprising way.
-
-Photorealistic object + bold black line drawing style, perfect seamless blend between real object and illustration, clean negative space, artistic and witty concept, high quality product photography mixed with doodle art.
-
-• How to edit super easy
-
-Just replace the placeholders:
-
-[EVERYDAY OBJECT] → what real thing you'll use (tomato,
-onion, chips, etc.)
-
-[CLEVER PART OF THE SCENE] → what the object becomes in the drawing
-Then customize the character and concept
 ```
 
 </details>
@@ -287,6 +216,70 @@ A giant ethereal woman with glowing skin, glossy lips, dark eyes, and large gold
 
 </details>
 
+<a id="gpt-image-oil-painted-european-cafe-woman-coral-blouse"></a>
+### Oil painted woman at European café table
+
+<a href="https://x.com/hey_am_cherry/status/2106245541508382774"><img src="../../previews/gpt-image-oil-painted-european-cafe-woman-coral-blouse.jpg" width="360"></a>
+
+A structured JSON prompt splits subject, outfit, composition, background, palette, texture and lighting into separate fields, so each element stays controllable. A named four color palette and thick brushstroke texture keep the oil painting look, and the negative prompt blocks copying the reference pose and photorealism.
+
+GPT Image 2.5 · Edit · Source: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2106245541508382774) · 197 likes on 2026-10-28
+
+[`oil-painting`](tags.md#tag-oil-painting) [`cafe`](tags.md#tag-cafe) [`json-prompt`](tags.md#tag-json-prompt) [`mid-century`](tags.md#tag-mid-century) [`variation`](tags.md#tag-variation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"aspect_ratio": "9:16",
+    "style": "vintage European café oil painting, expressive brushwork, mid-century editorial artwork",
+
+    "subject": {
+      "character": "stylish young European woman with shoulder-length wavy auburn hair",
+      "expression": "calm, confident, slightly playful gaze toward the viewer",
+      "pose": "seated sideways at a small café table, one arm resting on the chair back while the other lightly holds a coffee cup",
+      "details": "subtle makeup, berry-red lipstick, small gold earrings"
+    },
+
+    "outfit": {
+      "top": "deep coral-red short-sleeve blouse with a relaxed neckline",
+      "style": "chic 1960s-inspired European fashion"
+    },
+
+    "composition": {
+      "framing": "medium-wide portrait",
+      "camera_angle": "slightly elevated three-quarter angle",
+      "subject_position": "slightly left of center",
+      "foreground": "round café table with coffee, small glass and scattered objects"
+    },
+
+    "background": {
+      "setting": "charming old European café interior",
+      "design": "large abstract geometric wall shapes mixed with subtle architectural details",
+      "colors": ["teal", "coral", "cream", "burnt orange"]
+    },
+
+    "props": [
+      "ceramic espresso cup",
+      "small glass bottle",
+      "vintage café chair",
+      "folded napkin"
+    ],
+
+    "color_palette": "teal, coral red, cream, burnt orange and warm brown",
+
+    "texture": "thick imperfect oil brushstrokes, visible canvas grain, slightly weathered painted surface",
+
+    "lighting": "warm afternoon window light with soft natural shadows",
+
+    "mood": "stylish, relaxed, nostalgic European café atmosphere",
+
+    "negative_prompt": "exact recreation of reference, same pose, same character, same outfit, same composition, photorealistic, 3D render, CGI, text, logo, watermark"
+  }
+}
+```
+
+</details>
+
 <a id="gpt-image-golden-moonlit-pagoda-lotus-river"></a>
 ### Golden Pagoda and Lotus River Under Moon
 
@@ -340,11 +333,11 @@ A serene Japanese landscape bathed in the warm glow of a large, luminous full mo
 </details>
 
 <a id="nano-banana-paper-cut-fashion"></a>
-### Fashion illustration in layered 3D paper-cut
+### Pastel editorial fashion illustration with polka dot outfit
 
 <a href="https://x.com/ChillaiKalan__/status/2109534297367724221"><img src="../../previews/nano-banana-paper-cut-fashion.jpg" width="360"></a>
 
-Same structure as the geometric one, with the medium swapped. Good pair for comparing styles.
+A named pastel palette, contrasting patterns and a listed set of accessories steer the outfit, while the ivory background with soft shadows keeps it looking like a clean fashion campaign. Asking for natural proportions and a full-body pose keeps the anatomy believable.
 
 Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2109534297367724221) · 188 likes on 2026-10-27
 
@@ -455,47 +448,6 @@ A surreal landscape featuring a lone figure standing beneath a large tree with g
 
 </details>
 
-<a id="gpt-image-architectural-sketchbook-study"></a>
-### Colosseum architectural sketchbook study in pencil and watercolor
-
-<a href="https://x.com/Naiknelofar788/status/2099096963316957187"><img src="../../previews/gpt-image-architectural-sketchbook-study.jpg" width="360"></a>
-
-The prompt makes the drawing move from loose construction lines in the foreground to a finished inked and watercolor structure, so the image reads as a sketch in progress. Listed side studies (elevation, ornament detail, map outline, scale silhouette) and minimal handwritten labels fill the page, and the negative terms rule out photorealism and infographic boxes.
-
-GPT Image 2.5 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2099096963316957187) · 169 likes on 2026-10-28
-
-[`architecture`](tags.md#tag-architecture) [`sketchbook`](tags.md#tag-sketchbook) [`watercolor`](tags.md#tag-watercolor) [`pencil-drawing`](tags.md#tag-pencil-drawing) [`template`](tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a stunning 4:5 vertical fine-art sketch illustration of [STRUCTURE NAME] as if it is being drawn by a master architectural artist inside a luxury travel sketchbook.
-
-Show the famous structure transitioning from loose preliminary pencil lines into a fully detailed finished architectural drawing.
-
-The foreground should contain delicate construction lines, perspective guides, measurement marks, small handwritten architectural notes, compass marks, arrows, erased pencil strokes, and unfinished portions.
-
-As the eye moves toward the main structure, the sketch gradually becomes more refined — combining graphite pencil, fine black ink, subtle watercolor washes, cross-hatching, and delicate hand-drawn textures.
-
-Include small artistic studies around the main drawing: a tiny side elevation, architectural detail, window or ornament study, simplified map outline, and a small silhouette showing the scale of the structure.
-
-Use an elegant warm ivory sketchbook-paper background with natural paper fibers and subtle imperfections.
-
-Keep the composition sophisticated and spacious. The structure should remain the unmistakable hero.
-
-Add minimal handwritten-style labeling:
-
-[STRUCTURE NAME]
-[CITY, COUNTRY]
-ARCHITECTURAL STUDY
-
-The artwork should feel like an original museum-quality architectural sketch discovered inside an explorer’s personal sketchbook — artistic, intellectual, nostalgic, detailed, and highly collectible.
-
-No photorealistic rendering, no 3D CGI, no modern infographic boxes, no excessive text, no watermark.
-```
-
-</details>
-
 <a id="gpt-image-paper-craft-travel-postcard-diorama"></a>
 ### Paper Craft Travel Postcard Diorama of Tokyo
 
@@ -574,41 +526,6 @@ Contemporary mixed-media urban painting of [HUMAN], wearing [CLOTHING], [POSE] b
 
 </details>
 
-<a id="gpt-image-tree-sun-skyline-frozen-lake"></a>
-### Tree silhouette against huge sun over frozen lake
-
-<a href="https://x.com/churvikv/status/2110114825082945740"><img src="../../previews/gpt-image-tree-sun-skyline-frozen-lake.jpg" width="360"></a>
-
-The prompt is split into labeled blocks for sky, sun, tree, city, water, reflection and palette, so each element gets its own placement rules. A long negative list and explicit rules such as buildings never overlapping the tree or sun keep the symmetrical composition intact.
-
-GPT Image 2.5 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2110114825082945740) · 150 likes on 2026-10-28
-
-[`silhouette`](tags.md#tag-silhouette) [`sunset`](tags.md#tag-sunset) [`skyline`](tags.md#tag-skyline) [`reflection`](tags.md#tag-reflection) [`panoramic`](tags.md#tag-panoramic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Photorealistic silhouette sunset composite, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
-
-SKY: the upper half is a furnace of amber, apricot and burnt gold, deepest at the horizon, cooling to smoky blue-grey at the very top. Long streaky cirrus clouds sweep diagonally across it, undersides lit gold, edges trailing thin warm wisps.
-
-SUN: one huge perfectly round pale white-hot sun disc sits exactly at the centre of the frame just above the treeline, its rim glowing and bleeding a soft warm halo into the surrounding orange.
-
-TREE: dead centre, in front of the sun, a single massive spreading broadleaf tree in pure black silhouette — a thick trunk flaring at the base into a rounded knoll, and a vast dense canopy of fine branch tracery and leaf clusters spreading wide and symmetrical, its edges softly dissolving into the glow.
-
-CITY: flanking the tree, a dense skyline of black skyscraper silhouettes stands along a low ridge of rooftops. Left, a tall stepped tower with twin thin antennae, ringed by shorter blocks. Right, three dark high-rises of graduated height, one carrying a slender spire. The buildings never overlap the tree and never cross the sun.
-
-WATER: the entire lower third is a frozen lake surface, not smooth water — a turbulent marbled expanse of glacial ice and flowed stone, banded in chalky white, sea-green, slate grey and warm tan in long swirling veins.
-
-REFLECTION: sky, sun, tree and skyline all mirror downward into that marbled surface, broken and stretched by the ice grain. The reflected sun lies as a broad soft gold field beneath the trunk, the reflected tree spreads as a dark root-mass of branching veins below it, and the reflected towers hang as vertical dark bars, all smeared by the swirling white and green stone.
-
-PALETTE: pure black, apricot, amber gold, burnt orange, smoky grey, chalk white, glacier green, tan. Sharp silhouette edges against soft glow, high dynamic range, clean and unmarked.
-
-text, watermark, logo, signature, artist signature, handwritten signature, initials, monogram, date, stamp, seal, lettering of any kind, any words, digits, frame, border, picture frame, mat, bevel, molding, plaque, rectangular outline, painting, illustration, oil painting, impasto, watercolor, colored pencil, airbrush, digital art, cartoon, anime, chibi, flat 2d vector, blurry, soft focus, noisy grain, neon, fluorescent, oversaturated greens, blue midday sky, sunrise pink, purple sky, night, moon, stars, clouds covering the sun, rain, storm, lightning, snow falling, second tree, forest, multiple trees, leaves visible on tree with colour, lit windows on buildings, people, faces, birds, animals, deer, boat, ship, dock, bridge, road, cars, traffic, streetlamps, palm trees, mountains, desert, ocean waves, beach, sun cut off, tree cut off, off-centre tree, asymmetric composition
-```
-
-</details>
-
 <a id="gpt-image-lighthouse-halftone-screen-print-night"></a>
 ### Colorful lighthouse in 1970s halftone screen print
 
@@ -678,50 +595,12 @@ Nano Banana 2 · Text-to-image · Source: [@Just_sharon7 on X](https://x.com/Jus
 
 </details>
 
-<a id="gpt-image-tree-branch-framed-lake-cottage-nebula"></a>
-### Tree Branch Framing Lake Cottage at Sunset
-
-<a href="https://x.com/churvikv/status/2094483613085581472"><img src="../../previews/gpt-image-tree-branch-framed-lake-cottage-nebula.jpg" width="360"></a>
-
-A sweeping branch is named as the frame and dissolves into a glowing particle nebula, which gives the scene a strong focal composition. Layered depth from misty mountains, sunburst flares and a warm to cool palette adds the dreamlike light.
-
-GPT Image 2 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2094483613085581472) · 147 likes on 2026-10-29
-
-[`fantasy-landscape`](tags.md#tag-fantasy-landscape) [`digital-painting`](tags.md#tag-digital-painting) [`lens-flare`](tags.md#tag-lens-flare) [`dreamlike`](tags.md#tag-dreamlike) [`framing`](tags.md#tag-framing)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A surreal, dreamlike landscape featuring a serene river flowing through a mist-covered forest, seamlessly transitioning from a lush, terrestrial meadow into an ethereal underwater perspective. The upper portion depicts a misty morning woodland with vibrant, fiery red-leafed trees standing in contrast against dark, skeletal pines and soft, golden-yellow grassy banks. Delicate pink wildflowers dot the landscape, leading the eye toward the center. The foreground merges into a liquid, glass-like fluid surface, rippling with dark, translucent waves of mossy olive and deep emerald hues. Numerous perfectly round, glistening water droplets of varying sizes float within this aqueous environment, refracting soft light. The composition is split by a flowing, liquid curve that frames the tranquil river, creating a magical, hybrid nature scene. The atmosphere is quiet, contemplative, and mystical, bathed in a soft, diffused glow. The artistic style blends hyper-realistic textures with fantasy, characterized by smooth transitions, subtle gradients, and a serene, harmonious color palette of amber, forest green, fiery red, and muted, foggy grays.
-```
-
-</details>
-
-<a id="nano-banana-colored-pencil-poppy-field-couple"></a>
-### Colored Pencil Couple in Poppy Field
-
-<a href="https://x.com/churvikv/status/2083905097944215773"><img src="../../previews/nano-banana-colored-pencil-poppy-field-couple.jpg" width="360"></a>
-
-The prompt layers the scene from foreground poppies to a winding path, farmhouse, cypress trees, misty hills, sea and sailboat, which gives depth. It names colored pencil texture and a pastel sunrise palette to set the soft mood.
-
-Nano Banana 2 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2083905097944215773) · 147 likes on 2026-10-28
-
-[`colored-pencil`](tags.md#tag-colored-pencil) [`landscape`](tags.md#tag-landscape) [`poppy-field`](tags.md#tag-poppy-field) [`couple`](tags.md#tag-couple) [`pastel`](tags.md#tag-pastel)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A vibrant illustration featuring a field of vivid red poppies in the foreground, with stems and buds interspersed. The background reveals a serene ocean scene at sunset, with soft pastel hues of pink, orange, and purple filling the sky, complemented by scattered clouds. A single sailboat drifts gently on the horizon, capturing a sense of tranquility. The perspective is wide, showcasing both the detailed flowers and the expansive, calm sea. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful and picturesque, with warm tones dominating the palette.
-```
-
-</details>
-
 <a id="nano-banana-colossal-guardian-statue-fantasy-template"></a>
-### Colossal Winged Guardian Statue Over Futuristic City
+### Winged Marble Guardian Statue Above City Under Ringed Planet
 
 <a href="https://x.com/yourPlugAI/status/2068350429243523152"><img src="../../previews/nano-banana-colossal-guardian-statue-fantasy-template.jpg" width="360"></a>
 
-A bracketed template fixes the subject, material, pedestal text, landscape and lighting as separate slots, so each part can be swapped without breaking the scene. Engraved base text, rim lighting and a distant background layer give the sense of scale.
+A bracketed template splits subject, material, pedestal text, landscape and lighting into separate slots, so each part can be swapped without breaking the scene. Engraved base text, rim lighting and a layered backdrop of city, mountains and sky build depth and scale.
 
 Nano Banana 2 · Text-to-image · Source: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2068350429243523152) · 145 likes on 2026-10-28
 
@@ -775,25 +654,6 @@ Nano Banana 2 · Text-to-image · Source: [@churvikv on X](https://x.com/churvik
 
 ```text
 A vibrant colored-pencil illustration in portrait orientation. A lush field of white daisies with bright sunny-yellow centers fills the foreground and mid-ground, with delicate white petals covered in glistening water droplets, some petals slightly drooping under the weight of the rain. Large, clear, teardrop-shaped water droplets hang suspended in the air throughout the scene, refracting the light like tiny lenses and adding a sense of motion and atmosphere. A soft summer rain falls in visible diagonal streaks of water. The background is a deep, vibrant green of grass and foliage. At the top center, a bright, glowing light source breaks through the soft clouds and casts luminous golden "god rays" that filter down through the rain, giving the entire scene a warm, golden-green glow. The palette is dominated by rich greens (from deep forest green to bright lime), crisp white, and sunny yellow, accented by cool, transparent reflective droplets. The composition is dense and immersive, with larger detailed daisies in the foreground and smaller, softer ones receding into the distance. The style is reminiscent of colored pencil art, with visible textures creating a soft, fresh, rejuvenating mood. The overall atmosphere is bright, refreshing, and slightly surreal, capturing a fleeting moment where sunlight and rain coexist.
-```
-
-</details>
-
-<a id="gpt-image-watercolor-ink-sailboat-moonlit-skyline"></a>
-### Watercolor ink sailboat before a moonlit skyline
-
-<a href="https://x.com/churvikv/status/2109054962667864073"><img src="../../previews/gpt-image-watercolor-ink-sailboat-moonlit-skyline.jpg" width="360"></a>
-
-The prompt is split into labelled blocks (MOON, SKYLINE, CENTRE, WATER, TEXTURE) that fix each zone of the 9:16 canvas. A cool teal versus warm amber split and a grey paper ground keep the mixed-media look consistent.
-
-GPT Image 2.5 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2109054962667864073) · 131 likes on 2026-10-28
-
-[`watercolor`](tags.md#tag-watercolor) [`ink-wash`](tags.md#tag-ink-wash) [`sailboat`](tags.md#tag-sailboat) [`skyline`](tags.md#tag-skyline) [`mixed-media`](tags.md#tag-mixed-media)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Semi-abstract mixed-media digital artwork, watercolor and ink wash with painterly digital treatment, tall 9:16 vertical composition, matte mid-grey paper background filling the whole canvas. A lone sailboat with white sails and a dark hull sits on the horizon line at the exact centre, framed by a mirrored split cityscape. LEFT HALF: a dense futuristic skyline glowing electric teal, cyan and blue, towers of many heights with fine lit window grids; above it a large brilliant white four-point starburst star with radiating glow, a wide dark ink cloud behind it, and scattered white star specks. The skyline base dissolves downward into black-blue ink spatter. RIGHT HALF: a mirrored skyline in deep crimson and black, a bright glowing red-white sun disc low between the towers casting a warm red haze, fine red dots and ink splatter along the rooflines, one thin bare tree at the far right edge. CENTRE: the sailboat, small and precise, two pale cream sails catching cool light on one side and warm light on the other, a slender mast, a dark hull with a sharp vertical reflection beneath it. WATER: below the boat the surface becomes sculpted concentric ripple rings spreading outward in widening circles from the hull, built from glossy liquid-ink ribbons with bright white specular highlights, teal and ink-black on the left, crimson and ink-black on the right. The rings stack down through the lower two-thirds and thin out, the lowest breaking into drips and splatter that fade into the grey background. TEXTURE: ink wash bleeding, granulated pigment, stipple dots, splatter, distressed melting edges where the scene dissolves into the neutral grey. High contrast, glossy wet highlights against matte paper, no frame, no border, no text, no signature.
 ```
 
 </details>
@@ -975,74 +835,6 @@ IMPORTANT STYLE: semi-realistic human illustration, NOT cartoon, NOT anime, NOT 
 
 </details>
 
-<a id="gpt-image-landmark-architectural-master-sketch-poster"></a>
-### Statue of Liberty as an unfinished architectural ink sketch
-
-<a href="https://x.com/Goodmanprotocol/status/2106688617682788602"><img src="../../previews/gpt-image-landmark-architectural-master-sketch-poster.jpg" width="360"></a>
-
-The prompt sets one landmark against pure white negative space. It mixes precise ink linework with loose construction guides and allows only one accent color taken from the landmark's real materials. Bracketed placeholders for the location and landmark make it reusable for any building.
-
-GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2106688617682788602) · 98 likes on 2026-10-28
-
-[`architecture`](tags.md#tag-architecture) [`ink-sketch`](tags.md#tag-ink-sketch) [`landmark`](tags.md#tag-landmark) [`white-background`](tags.md#tag-white-background) [`template`](tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a premium 2:3 vertical architectural poster for [COUNTRY / CITY / LOCATION / LANDMARK].
-
-TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / LANDMARK]. No reference image required.
-
-CORE CONCEPT
-Present [LANDMARK] as an expressive unfinished architectural master sketch, as if drawn by an architect exploring the building’s form, structure, and character. Keep the real architecture accurate — preserve its recognizable silhouette, proportions, façade rhythm, materials, and signature details. Do not redesign the landmark.
-
-COMPOSITION
-Show approximately 80–95% of the landmark from the most elegant and architecturally informative viewpoint for that specific building. Use a natural eye-level or gently elevated three-quarter perspective with realistic depth and restrained distortion.
-
-ONE LANDMARK ONLY. Let it dominate the composition while surrounding it with generous PURE WHITE negative space. No skyline or secondary landmarks.
-
-SKETCH STYLE
-Combine precise architectural ink drawing with loose unfinished concept-sketch elements:
-
-crisp black structural lines
-
-fine façade detailing
-
-varied line weights
-
-construction and perspective guides
-
-subtle drafting marks
-
-selective ink washes
-
-partially unfinished contours
-
-Some areas should be highly detailed while others naturally dissolve into loose exploratory lines and white space. It must feel genuinely hand-drawn, not like a 3D render with a sketch filter.
-
-DETAIL & COLOR
-Reveal authentic architectural elements such as structural connections, façade layers, openings, ornamentation, joints, and material textures. Never invent features that do not belong to the landmark.
-
-Use a PURE WHITE background with black and charcoal linework, plus ONE subtle accent color naturally derived from the landmark’s real materials.
-
-TYPOGRAPHY
-Optional small refined text in one corner:
-[DESTINATION]
-[LANDMARK]
-
-Keep typography minimal and secondary to the architecture.
-
-FINAL AESTHETIC
-Architectural master sketch × technical drawing × expressive ink work × restrained hand-painted wash × contemporary collectible art poster.
-
-Avoid fictional architecture, incorrect proportions, extreme perspectives, close-ups, surrounding cityscapes, multiple landmarks, beige/aged paper, gradients, excessive colors, glossy 3D rendering, oversized typography, logos, and watermarks.
-
-FORMAT
-2:3 vertical, single landmark, full architectural form clearly visible, generous white space, intricate linework, natural perspective, premium gallery-quality finish.
-```
-
-</details>
-
 <a id="gpt-image-vintage-ink-polka-dot-fashion-portrait"></a>
 ### Vintage ink fashion portrait with polka dot scarf
 
@@ -1081,11 +873,11 @@ GPT Image 2.5 · Text-to-image · Source: [@Just_Anika_Here on X](https://x.com/
 </details>
 
 <a id="gpt-image-jacaranda-storybook-woman-looking-up"></a>
-### Woman Under Blooming Jacaranda Storybook Painting
+### Woman Gazing Up at Jacaranda Blossoms, Storybook Painting
 
 <a href="https://x.com/hey_am_cherry/status/2110952509217140779"><img src="../../previews/gpt-image-jacaranda-storybook-woman-looking-up.jpg" width="360"></a>
 
-The prompt fixes the composition with explicit placement, with the woman lower right, branches sweeping diagonally and the canopy filling the upper third. It also names a complementary palette of violet, turquoise and coral, and adds a negative prompt to keep the image painterly rather than photoreal.
+The prompt names a complementary palette of violet blossoms, a turquoise scarf and sky, and a coral coat, which gives the image its saturated contrast. The negative prompt rules out photoreal and 3D looks, so the brushwork, ink outlines and paper texture stay visible.
 
 GPT Image 2.5 · Text-to-image · Source: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2110952509217140779) · 92 likes on 2026-10-28
 
@@ -1124,6 +916,28 @@ Made with Nano Banana 2.1 on
 
 
 Prompt: Extreme close-up mixed-media storybook illustration of [HUMAN] with [ANIMAL] beside them in [SETTING]. Oversized tilted head, gigantic uneven blue-green eyes, thick eyebrows, tiny nose, coral-pink freckled cheeks, thin neck, and miniature hands. Irregular color planes, translucent watercolor, cut-paper layers, ink washes, chalk-pastel grain, and delicate pencil outlines. Sweeping graphic hair with white scribbles. Wearing [CLOTHING], in [COLORS]. Abstract organic background, smaller wide-eyed matching animal, playful asymmetry, intimate composition, and tactile painterly texture.
+```
+
+</details>
+
+<a id="nano-banana-miniature-toy-kingdom-macro-sunrise"></a>
+### Miniature toy kingdom with trains, waterfalls and airship
+
+<a href="https://x.com/kellyyjjones/status/2076163025464348955"><img src="../../previews/nano-banana-miniature-toy-kingdom-macro-sunrise.jpg" width="360"></a>
+
+The prompt lists concrete scene elements like market streets, trains, bridges and waterfalls, and names plastic, wood, fabric and metal textures. A macro lens, very shallow depth of field and golden sunrise light then make the tiny world look like a real tabletop diorama.
+
+Nano Banana 2 · Text-to-image · Source: [@kellyyjjones on X](https://x.com/kellyyjjones/status/2076163025464348955) · 82 likes on 2026-10-29
+
+[`miniature`](tags.md#tag-miniature) [`toy-world`](tags.md#tag-toy-world) [`macro`](tags.md#tag-macro) [`golden-light`](tags.md#tag-golden-light) [`fantasy`](tags.md#tag-fantasy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A breathtaking ultra-realistic miniature toy universe where every living toy has its own thriving civilization. Tiny colorful cities filled with beautifully crafted toy houses, bustling streets, miniature trains, toy cars, bicycles, and tiny marketplaces full of life. Little toy people laugh, work, and explore while mechanical birds fly overhead and tiny airships drift across the sky. Enormous toy trees tower above the landscape, surrounded by crystal-clear rivers, glowing waterfalls, magical bridges, miniature mountains, and lush forests. Every surface reveals realistic plastic, wood, fabric, and metal textures with intricate craftsmanship. Warm golden sunrise light bathes the world in soft cinematic rays, creating volumetric lighting, gentle lens flares, and dreamy atmospheric fog. Captured in macro photography with an extreme shallow depth of field, making the tiny world feel astonishingly real. Pixar-inspired wonder blended with Hollywood fantasy, ultra-photorealistic, hyper-detailed, Unreal Engine 5 quality, global illumination, ray tracing, HDR, 8K, masterpiece, award-winning cinematic concept art.
+
+A breathtaking ultra-realistic cinematic scene of a giant human standing above a magical toy universe, carefully observing the tiny toy world below. The man looks amazed and curious as he watches miniature toy cities, toy people, tiny vehicles, colorful houses, and a fantasy toy kingdom built like a living world. Massive scale difference between the human and the miniature world, macro photography perspective, cinematic lighting, warm golden sunlight, realistic textures, shallow depth of field, fantasy atmosphere, ultra detailed, 8K, masterpiece quality.
+Is koo b improve karoo
 ```
 
 </details>
@@ -1186,39 +1000,6 @@ Prompt : Surreal minimalist digital art, extreme close-up side profile of porcel
 
 </details>
 
-<a id="nano-banana-geometric-fashion-illustration-shopping-friends"></a>
-### Geometric fashion illustration of two shopping friends
-
-<a href="https://x.com/saniaspeaks_/status/2110940513209549117"><img src="../../previews/nano-banana-geometric-fashion-illustration-shopping-friends.jpg" width="360"></a>
-
-Each figure gets its own clothing, bag and hand instructions, and a closed palette keeps the faceted shading harmonious. Explicit negatives about hands and props, plus a full body 3:4 frame with ivory negative space, guard against the usual anatomy and cropping errors.
-
-Nano Banana 2.1 · Text-to-image · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2110940513209549117) · 75 likes on 2026-10-28
-
-[`fashion-illustration`](tags.md#tag-fashion-illustration) [`geometric`](tags.md#tag-geometric) [`editorial`](tags.md#tag-editorial) [`minimalist`](tags.md#tag-minimalist) [`color-palette`](tags.md#tag-color-palette)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a full-body minimalist geometric editorial fashion illustration of two stylish young female friends standing close together, facing the camera and playfully pointing their index fingers directly toward the viewer.
-
-Left girl: dark hair tied in a messy low bun, dusty-pink oversized sweatshirt, cream wide-leg cargo trousers, chunky white sneakers with subtle pink accents, small black shoulder bag. She carries cream shopping bags with soft pink tissue paper and a kraft-paper bouquet of pink and white flowers. Her other hand is completely free and naturally relaxed — NO coffee cup and NO raised hand holding anything.
-
-Right girl: long dark wavy hair, beige baseball cap, oversized deep forest-green sweatshirt, wide-leg blue denim jeans with folded cuffs, chunky brown-and-cream sneakers, cream canvas shoulder tote. She carries cream shopping bags with pink tissue paper.
-
-Both girls have soft elegant proportions, natural relaxed body language, cheerful subtle smiles, and clearly visible hands with natural anatomy.
-
-Style: minimalist geometric fashion illustration, hand-painted digital artwork, angular polygonal shading, faceted clothing folds, subtle brush textures, visible paper grain, refined edges, simplified facial details, soft diffused lighting and gentle ground shadows.
-
-Color palette: exactly soft dusty pink, warm ivory, cream, beige, deep forest green, denim blue, muted brown and soft black. Keep the palette muted, warm and harmonious.
-
-Composition: full bodies completely visible from head to toe, both girls standing upright and balanced, centered together with generous negative space, warm ivory textured background, contemporary lifestyle fashion magazine aesthetic, vertical 3:4 composition.
-
-No coffee cup, no drink, no object in the left girl's free hand, no extra people, no distorted hands, no extra fingers, no cropped feet, no photorealism, no 3D rendering, no text, no watermark.
-```
-
-</details>
-
 <a id="nano-banana-anime-streetwear-couple-low-angle"></a>
 ### Anime streetwear couple in polos and retro sneakers
 
@@ -1246,94 +1027,21 @@ Negative prompt: Blurry image, low resolution, distorted anatomy, extra fingers,
 
 </details>
 
-<a id="nano-banana-anime-heroine-golden-hour-fantasy-city"></a>
-### Anime heroine on balcony above golden hour fantasy city
+<a id="gpt-image-naive-art-designer-poster-girl-cat"></a>
+### Naive art poster of girl with cat
 
-<a href="https://x.com/kellyyjjones/status/2069959218447483101"><img src="../../previews/nano-banana-anime-heroine-golden-hour-fantasy-city.jpg" width="360"></a>
+<a href="https://x.com/j_smeaton99/status/2114352687366156785"><img src="../../previews/gpt-image-naive-art-designer-poster-girl-cat.jpg" width="360"></a>
 
-Stacks subject details (eyes, hair in wind, embroidered outfit) with lighting cues like volumetric sun rays and glowing particles, then sets depth of field and background architecture. A separate negative prompt list guards against anatomy and hand errors.
+The prompt names a style (modern naive art) and lists its hand-made traits: imperfect pencil outlines, visible sketch marks, doodles, flat colors and paper texture. It also bans shadows, gradients and 3D, which keeps the result flat and print-like.
 
-Nano Banana 2 · Text-to-image · Source: [@kellyyjjones on X](https://x.com/kellyyjjones/status/2069959218447483101) · 71 likes on 2026-10-29
+GPT Image 2.5 · Text-to-image · Source: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2114352687366156785) · 44 likes on 2026-10-29
 
-[`anime`](tags.md#tag-anime) [`fantasy-city`](tags.md#tag-fantasy-city) [`golden-hour`](tags.md#tag-golden-hour) [`negative-prompt`](tags.md#tag-negative-prompt) [`digital-painting`](tags.md#tag-digital-painting)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-blurry, low quality, low resolution, bad anatomy, extra fingers, missing fingers, deformed hands, distorted face, crossed eyes, duplicate elements, watermark, text, logo, cropped, out of frame, oversaturated colors, noise, artifacts, poorly drawn features, unrealistic proportions, messy background, motion blur.
-```
-
-</details>
-
-<a id="nano-banana-ukiyo-cat-human-diorama-food-can"></a>
-### Edo cat people diorama rising from opened tin can
-
-<a href="https://x.com/KanaWorks_AI/status/2072146043551281217"><img src="../../previews/nano-banana-ukiyo-cat-human-diorama-food-can.jpg" width="360"></a>
-
-The prompt sets up a plain industrial can first, then reveals a miniature diorama rising from it once the lid opens. That before and after framing, together with a named ukiyo-e artist as the style reference, gives a clear object and a coherent scene.
-
-Nano Banana 2 · Text-to-image · Source: [@KanaWorks_AI on X](https://x.com/KanaWorks_AI/status/2072146043551281217) · 62 likes on 2026-10-29
-
-[`ukiyo-e`](tags.md#tag-ukiyo-e) [`diorama`](tags.md#tag-diorama) [`miniature`](tags.md#tag-miniature) [`cat`](tags.md#tag-cat) [`tin-can`](tags.md#tag-tin-can)
+[`naive-art`](tags.md#tag-naive-art) [`hand-drawn`](tags.md#tag-hand-drawn) [`paper-texture`](tags.md#tag-paper-texture) [`flat-color`](tags.md#tag-flat-color) [`designer-poster`](tags.md#tag-designer-poster)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Based on Utagawa Kuniyoshi’s famous ukiyo-e cat-human imagery,
-this is a creatively designed art food can.
-At first glance, it appears to be an ordinary, restrained, and industrial food can.
-But the moment the lid is opened—
-the whimsical half-cat, half-human figures from Kuniyoshi’s ukiyo-e world
-slowly rise from inside the can
-in the form of a miniature diorama landscape.
-```
-
-</details>
-
-<a id="gpt-image-watercolor-seated-portrait-monochrome-face-backdrop"></a>
-### Seated woman over giant graphite watercolor face
-
-<a href="https://x.com/Enaya_ai/status/2103719141849117036"><img src="../../previews/gpt-image-watercolor-seated-portrait-monochrome-face-backdrop.jpg" width="360"></a>
-
-The prompt is split into labelled blocks for subject, pose, background portrait, style, palette, lighting and composition. It ties the large monochrome face to the foreground woman by asking for the same identity, and a negative prompt guards against face drift and hand errors.
-
-GPT Image 2.5 · Text-to-image · Source: [@Enaya_ai on X](https://x.com/Enaya_ai/status/2103719141849117036) · 56 likes on 2026-10-28
-
-[`watercolor`](tags.md#tag-watercolor) [`fashion-illustration`](tags.md#tag-fashion-illustration) [`portrait`](tags.md#tag-portrait) [`monochrome`](tags.md#tag-monochrome) [`double-exposure`](tags.md#tag-double-exposure)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a highly detailed elegant watercolor portrait composition of a beautiful South Asian woman, combining a realistic full-body seated portrait with a large monochrome artistic facial portrait in the background.
-
-Main Subject:
-A graceful young South Asian woman sitting elegantly on the floor with her legs gently crossed. She has long, thick, naturally wavy dark-black hair styled loosely with soft strands framing her face. Preserve a realistic, delicate facial structure with expressive almond-shaped eyes, naturally defined eyebrows, a refined nose, soft lips, smooth warm skin tone, and a calm gentle expression while looking toward the right side.
-
-She is wearing an elegant lavender-gray fitted long-sleeve blouse paired with a flowing ivory-white ankle-length skirt made from soft lightweight fabric. The skirt has natural folds and realistic fabric draping. She wears delicate pearl jewelry: a fine pearl necklace, small dangling pearl earrings, and elegant pearl bracelets. Nude-beige high-heeled shoes complete the outfit.
-
-Pose:
-She is seated gracefully with both hands resting naturally over one knee, relaxed posture, shoulders slightly turned toward the right, looking peacefully into the distance. Full body visible, including shoes.
-
-Background Portrait:
-Behind her, create a large artistic black-and-white close-up portrait of the same woman’s face, occupying most of the upper-right background. The facial identity, hairstyle, eyes, nose, lips, jawline, and overall appearance should remain consistent with the foreground woman. The background portrait should look like a soft graphite-and-watercolor painting, slightly faded and atmospheric, blending naturally into the watercolor background.
-
-Art Style:
-Luxury editorial watercolor portrait, sophisticated fashion illustration, realistic watercolor painting combined with delicate pencil/ink details, soft brush strokes, subtle paint bleeding, transparent watercolor washes, cold-pressed textured paper, fine facial details, elegant artistic imperfections, gentle ink splashes and watercolor stains.
-
-Color Palette:
-Soft monochrome gray, charcoal, ivory, muted lavender, subtle beige and warm skin tones. Low saturation, sophisticated and timeless.
-
-Lighting:
-Soft diffused studio lighting, gentle highlights on the face and clothing, subtle shadows, luminous watercolor atmosphere, no harsh contrast.
-
-Composition:
-Vertical portrait composition, foreground woman positioned slightly left of center, large monochrome face extending across the upper-right background, balanced negative space, artistic watercolor splashes around the edges, premium fashion magazine aesthetic.
-
-Quality:
-Ultra-detailed, photorealistic facial rendering blended with authentic watercolor texture, realistic anatomy, natural hands and fingers, realistic fabric folds, intricate jewelry details, cinematic composition, premium fine-art portrait, high resolution.
-
-Negative Prompt:
-blurry face, distorted anatomy, extra fingers, malformed hands, duplicate person, inconsistent face, different facial identity, deformed eyes, asymmetrical eyes, bad jewelry, plastic skin, oversaturated colors, cartoon, anime, 3D render, CGI, low resolution, harsh lighting, text, watermark, logo.
+Create an original modern naïve art illustration as a premium designer poster. Feature a charming, whimsical character in a simple everyday setting, with playful proportions, expressive minimal facial features, and an imaginative composition. Use a minimalist hand-drawn aesthetic with imperfect pencil outlines, visible sketch marks, decorative doodles, and soft yet contrasting flat colors. Incorporate subtle paper texture and an authentic handmade feel, like an illustration drawn by an independent contemporary artist. Keep shapes organic, details intentionally imperfect, and the overall design artistic, warm, and visually distinctive. No shadows, gradients, photorealism, or 3D effects. Clean composition, balanced negative space, sophisticated color palette, gallery-worthy editorial design, high-quality print poster aesthetic. Generate the complete artwork from scratch without using or requiring any reference image.
 ```
 
 </details>
@@ -1353,218 +1061,6 @@ Nano Banana 2.1 · Text-to-image · Source: [@wilzap on X](https://x.com/wilzap/
 
 ```text
 A stylized 3D cartoon fantasy scene of a giant ancient sea turtle swimming through a starry night sky, carrying an entire floating island on its shell. The island is a magical film studio: tiny glowing mushroom houses, a waterfall made of flowing film strips, and a crooked wizard tower with a giant projector lens for an eye. At the base of the waterfall, the film strips look rough, blocky, and pixelated, like broken stained glass. As they spill over a glowing crystal ledge, a swarm of tiny lantern fairies hammers and polishes them, and they transform mid-fall into crisp, shimmering, ultra-detailed film that glows like liquid gold. At the very top, the wizard tower beams the finished movie across the sky like an aurora, showing a vivid dragon soaring through clouds. Chunky rounded shapes, soft clay-like 3D textures, exaggerated cartoon proportions, glowing bioluminescent accents, deep indigo sky with magenta and electric teal highlights, cinematic rim lighting, volumetric light rays, tilt-shift depth of field, ultra detailed, 16:9.
-```
-
-</details>
-
-<a id="nano-banana-anime-new-year-dinner-confrontation"></a>
-### Anime Japanese New Year dinner family confrontation
-
-<a href="https://x.com/ViralOps_/status/2114709909178810799"><img src="../../previews/nano-banana-anime-new-year-dinner-confrontation.jpg" width="360"></a>
-
-Each character gets a fixed block for age, face, hair and clothing, so the cast stays consistent. The scene then assigns every person a specific gesture and expression, so the conflict reads without any dialogue.
-
-Nano Banana 2.1 · Text-to-image · Source: [@ViralOps_ on X](https://x.com/ViralOps_/status/2114709909178810799) · 27 likes on 2026-10-28
-
-[`anime`](tags.md#tag-anime) [`japanese`](tags.md#tag-japanese) [`family-dinner`](tags.md#tag-family-dinner) [`character-consistency`](tags.md#tag-character-consistency) [`storytelling`](tags.md#tag-storytelling)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-**STYLE AND VISUAL QUALITY**
-
-Premium modern Japanese anime film style, cinematic 2D animation quality, beautifully detailed Japanese character designs, expressive faces, soft cel shading, delicate linework, painterly backgrounds, realistic fabric folds, natural skin tones, rich atmospheric lighting, and emotional visual storytelling.
-
-The image should resemble a beautifully animated Japanese drama film, with warm cinematic lighting, rich colors, subtle depth of field, and emotionally powerful facial expressions. Avoid generic cartoon aesthetics, 3D rendering, or photorealism.
-
-**CHARACTER DESCRIPTIONS — MAINTAIN THESE EXACT APPEARANCES**
-
-**WIFE (Late 20s):**
-
-A beautiful young Japanese woman, approximately 27 years old, with fair warm-toned skin, a delicate oval face, large expressive dark-brown eyes, straight dark eyebrows, a small natural nose, and soft feminine facial features.
-
-She has long, silky, dark-brown hair reaching the middle of her back, styled with soft face-framing strands and a simple half-up hairstyle.
-
-She wears an elegant, modest, dusty-rose pink knitted cardigan over a cream-colored blouse, paired with a flowing sage-green midi skirt.
-
-Her appearance is graceful, gentle, and slightly delicate. Her large expressive eyes should communicate intense emotional pain, vulnerability, and quiet dignity.
-
-**HUSBAND (Early 30s):**
-
-A handsome Japanese man, approximately 32 years old, with fair-to-medium warm skin, short neatly styled black hair, dark-brown eyes, straight eyebrows, a clean-shaven face, and a defined but natural jawline.
-
-He wears a slate-blue button-up shirt with a cream-colored undershirt, dark tailored trousers, and a simple silver wristwatch on his left wrist.
-
-Average-to-tall height, lean-to-medium build, attractive but realistic anime facial proportions.
-
-His personality should be reflected through subtle, emotionally expressive reactions.
-
-**MOTHER-IN-LAW (Late 50s):**
-
-A Japanese woman, approximately 58 years old, with fair-to-medium warm skin, a slightly rounded face, visible fine wrinkles around her eyes and mouth, sharp eyebrows, narrow expressive dark-brown eyes, and a stern, authoritative appearance.
-
-Her dark hair, lightly streaked with gray, is neatly arranged in an elegant low bun.
-
-She wears a sophisticated deep-maroon Japanese kimono with subtle gold floral embroidery, a cream-colored obi belt, and a traditional decorative hairpin.
-
-Her posture and facial expressions communicate pride, authority, harsh judgment, and a controlling personality.
-
-**SETTING — JAPANESE NEW YEAR FAMILY DINNER**
-
-Inside a beautiful, cozy, traditional-modern Japanese family home during an Oshōgatsu (Japanese New Year) celebration in the evening.
-
-A long, low polished wooden dining table dominates the tatami-mat room.
-
-The table is covered with a generous Japanese New Year feast, including:
-
-- Beautifully arranged osechi ryōri in traditional lacquered jubako boxes.
-- Grilled fish served on ceramic plates.
-- Ozōni soup in traditional bowls.
-- Sushi and neatly arranged sashimi.
-- Decorative mochi and traditional Japanese sweets.
-- Elegant ceramic teacups and wooden chopsticks.
-
-The room features authentic Japanese interior design: warm wooden beams, shoji paper sliding doors, tatami flooring, a decorative tokonoma alcove, a traditional flower arrangement, and soft hanging lanterns.
-
-Through a partially open shoji door, a peaceful Japanese garden is faintly visible beneath the evening sky.
-
-Warm golden interior lighting creates a beautiful festive atmosphere.
-
-The peaceful New Year celebration contrasts sharply with the painful family confrontation unfolding around the table.
-
-**MAIN SCENE — PUBLIC HUMILIATION AT THE FAMILY DINNER**
-
-Capture a deeply emotional and dramatic moment at the exact instant a family celebration turns into a humiliating confrontation.
-
-The mother-in-law sits at the head of the low Japanese dining table, leaning forward aggressively.
-
-She points her index finger directly toward her daughter-in-law.
-
-Her expression is harsh, mocking, and judgmental. Her mouth is slightly open as if she has just delivered a cruel, insulting remark in front of everyone.
-
-The young wife stands beside the dining table, holding a beautiful ceramic serving platter with both hands.
-
-She looks completely shocked and humiliated.
-
-Her shoulders are tense, her lips slightly parted, and her large brown eyes are filled with tears she is desperately trying to hold back.
-
-Her cheeks are faintly flushed with embarrassment.
-
-Her expression communicates heartbreak, helplessness, and the unbearable pain of being publicly disrespected in front of her husband's entire family.
-
-The husband sits on a floor cushion beside his mother.
-
-He suddenly looks up with a frozen, stunned expression.
-
-His body is tense, his eyes widened in disbelief, as though he cannot believe what his mother has just said to his wife.
-
-Capture the precise moment before he decides whether to speak.
-
-**SIX ADDITIONAL FAMILY MEMBERS**
-
-Six adult Japanese relatives sit on floor cushions around the table.
-
-The men wear a mixture of elegant casual shirts, sweaters, and traditional Japanese clothing.
-
-The women wear tasteful modern outfits or subtle traditional kimono.
-
-All six relatives have turned their attention toward the young wife.
-
-Some look visibly shocked.
-
-Others exchange uncomfortable glances.
-
-One elderly relative lowers their eyes in embarrassment.
-
-Another relative watches the confrontation with a judgmental expression.
-
-Their reactions should amplify the wife's painful realization that everyone has witnessed her humiliation.
-
-**EMOTIONAL VISUAL STORYTELLING**
-
-The mother's aggressive pointing gesture, the wife's devastated expression, the husband's stunned reaction, and the relatives' uncomfortable stares must immediately communicate the entire conflict without any written dialogue.
-
-The viewer should instantly understand:
-
-A young Japanese wife has just been publicly insulted by her mother-in-law during an important family celebration, and everyone is waiting to see whether her husband will defend her.
-
-**CAMERA AND COMPOSITION**
-
-Portrait 4:5 aspect ratio.
-
-Final resolution: 1080 × 1350 pixels.
-
-Cinematic medium-wide shot at a natural eye-level camera angle, carefully framed to emphasize the emotional tension between the three main characters.
-
-The composition should resemble a dramatic freeze-frame from a premium Japanese animated feature film.
-
-**CRITICAL COMPOSITION RULE — TEXT OVERLAY SPACE**
-
-The entire dramatic scene must occupy only the UPPER 55% of the image.
-
-This includes:
-
-- All important character faces.
-- The mother-in-law's pointing gesture.
-- The wife's shocked expression.
-- The husband's frozen reaction.
-- The relatives' uncomfortable stares.
-
-The LOWER 45% of the image must remain a clean, darker, visually calm, uncluttered foreground.
-
-Use the near section of the low wooden dining table, softly shadowed tatami flooring, and subtle atmospheric shadows to create this negative space.
-
-Do not place important faces, hands, food plates, or distracting decorations in the lower 45%.
-
-Create a natural transition from the detailed dramatic scene above into the quieter, darker foreground below.
-
-The bottom area must be suitable for adding large, highly readable text overlays later.
-
-**LIGHTING AND MOOD**
-
-Warm golden Japanese lantern lighting.
-
-Soft cinematic interior illumination.
-
-Subtle shadows and atmospheric depth.
-
-Beautiful highlights on expressive anime eyes.
-
-Detailed painterly Japanese interiors.
-
-Rich but natural color grading.
-
-The emotional atmosphere should feel:
-
-Heartbreaking, tense, humiliating, uncomfortable, dramatic, and deeply human.
-
-The beautiful peaceful Japanese New Year setting should contrast strongly with the cruelty of the family confrontation.
-
-**STRICT REQUIREMENTS**
-
-- Generate ONE single cinematic anime illustration.
-- Portrait 4:5 aspect ratio, 1080 × 1350 pixels.
-- Premium Japanese animated film quality.
-- Consistent character anatomy and natural body proportions.
-- Beautiful expressive faces with accurate hands and fingers.
-- All characters must have Japanese facial features and styling.
-- The wife must wear her dusty-rose cardigan and sage-green skirt.
-- The husband must wear his slate-blue shirt and silver wristwatch.
-- The mother-in-law must wear her deep-maroon kimono with cream obi.
-- Preserve the emotional intensity of the confrontation.
-- Concentrate all important storytelling in the upper 55%.
-- Reserve the lower 45% for future text overlays.
-- No text.
-- No letters.
-- No speech bubbles.
-- No subtitles.
-- No captions.
-- No logos.
-- No borders.
-- No watermarks.
-- No 3D rendering.
-- No CGI.
-- No photorealism.
 ```
 
 </details>
@@ -1637,79 +1133,6 @@ SEMANTIC_VARIABLES (AI infers from {{SUBJECT}}):
 
 </details>
 
-<a id="gpt-image-100-elements-scene-inventory"></a>
-### Town scene with numbered 100 element list
-
-<a href="https://x.com/umesh_ai/status/2046569229189849228"><img src="../../previews/gpt-image-100-elements-scene-inventory.jpg" width="360"></a>
-
-A fixed element count plus a request to list every item makes the model plan the scene as an inventory. The result is a dense illustrated town under a numbered text list.
-
-GPT Image 2 · Text-to-image · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2046569229189849228) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-[`inventory`](tags.md#tag-inventory) [`dense-scene`](tags.md#tag-dense-scene) [`text-list`](tags.md#tag-text-list) [`counting`](tags.md#tag-counting) [`illustration`](tags.md#tag-illustration)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a scene with 100 elements, and list the 100 elements within the image.
-```
-
-</details>
-
-<a id="gpt-image-1942-arcade-city-pilot-walk"></a>
-### Pilot walking through a wartime city under arcade dogfights
-
-<a href="https://x.com/Xaroon_x/status/2056940561148363010"><img src="../../previews/gpt-image-1942-arcade-city-pilot-walk.jpg" width="360"></a>
-
-Sections for worldbuilding, comedic details, lighting and camera give the model a clear checklist, so the scene fills with layered background gags. A reference face is locked with the phrase exact face while the outfit is spelled out piece by piece.
-
-GPT Image 2 · Edit · Source: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2056940561148363010) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`wwii`](tags.md#tag-wwii) [`arcade`](tags.md#tag-arcade) [`cinematic`](tags.md#tag-cinematic) [`worldbuilding`](tags.md#tag-worldbuilding) [`face-reference`](tags.md#tag-face-reference)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition
-
-Male, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead
-
-✈️ 1942 CITY WORLDBUILDING
-
-entire city functions like a living 1942 arcade shooter universe
-• massive WWII fighter planes dogfighting above skyscrapers
-• giant anti-aircraft cannons mounted across rooftops
-• endless bullet patterns streaking through cloudy skies
-• retro military airfields integrated into urban districts
-• giant “MISSION START” alerts projected into the clouds
-• dramatic explosion trails lighting the skyline at night
-• aircraft carriers docked beside futuristic city ports
-• glowing power-up icons floating through aerial battle zones
-• giant radar systems rotating above downtown towers
-• endless enemy squadrons emerging from storm clouds
-• cinematic ocean-and-warzone environments surrounding the metropolis
-
-😂 COMEDIC DETAILS
-
-• random civilians casually dodging fighter planes on the way to work 😭
-• one pilot barrel-rolling dramatically for absolutely no reason
-• giant billboard flashing: “PLAYER 1 READY.”
-• pedestrians treating near-miss explosions like normal traffic
-• somebody still trying to collect every floating power-up midair
-• random mechanic repairing planes using pure confidence
-• one legendary pilot surviving impossible situations through arcade logic alone
-
-💡 LIGHTING & STYLE
-
-retro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality
-
-🎥 CAMERA
-
-cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere
-```
-
-</details>
-
 <a id="gpt-image-anime-angel-girl-close-up-portrait"></a>
 ### Anime Angel Girl Close-up Portrait
 
@@ -1725,118 +1148,6 @@ GPT Image 2.5 · Text-to-image · Source: [@magu_ai_h on X](https://x.com/magu_a
 
 ```text
 A high-resolution anime-style close-up portrait of a young girl with long, flowing white hair. The art style is soft and ethereal, emphasizing the texture of individual hair strands to create a silky, smooth appearance rather than blocky clumps. She has large, expressive eyes that are a gradient of teal and light blue, filled with intricate highlights and reflections. Her expression is gentle and slightly surprised, with her mouth parted in a small 'o' shape. A faint blush colors her cheeks. Above her head floats a thin, glowing golden halo ring. On the right side of the frame, a fluffy white feathered wing is visible, suggesting she is an angel or celestial being. She wears a simple white garment with delicate lace detailing at the collar. The background is a bright, out-of-focus bokeh effect of green foliage and sunlight, creating a dreamy, airy atmosphere with strong backlighting.
-```
-
-</details>
-
-<a id="gpt-image-anime-character-rooftop-livestream-screenshot"></a>
-### Anime Elf Maid in Rooftop Livestream Screenshot
-
-<a href="https://x.com/Eris_Create_Lab/status/2057294055911116941"><img src="../../previews/gpt-image-anime-character-rooftop-livestream-screenshot.jpg" width="360"></a>
-
-A reference image locks the character design while a photoreal hand enters the foreground with shallow depth of field. Smartphone artifacts such as sensor noise, JPEG compression and handheld shake, plus bans on cinematic polish, make it read as an accidental live capture.
-
-GPT Image 2 · Edit · Source: [@Eris_Create_Lab on X](https://x.com/Eris_Create_Lab/status/2057294055911116941) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`anime`](tags.md#tag-anime) [`livestream`](tags.md#tag-livestream) [`smartphone-ui`](tags.md#tag-smartphone-ui) [`mixed-reality`](tags.md#tag-mixed-reality) [`reference-image`](tags.md#tag-reference-image)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-参照画像をキャラクターデザインのベースとして使用し、「アニメキャラクターが現実世界のライブ配信に現れてしまった瞬間」を描く。
-
-キャラクターのアニメイラストとしての空気感を正確に維持する。
-
-キャラクターのアイデンティティを絶対に崩さない。
-実写人間化しない。
-キャラクター部分はアニメイラスト表現を維持する。
-
-縦型スマートフォン配信画面。
-TikTok LIVE、
-YouTube Live、
-Instagram Live、
-一般的な縦型ライブ配信風UI。
-
-背景は固定しない。
-
-現実的な都市空間、
-または生活感のある現実空間をランダムに生成する。
-
-例:
-ビル屋上、
-コンビニ前、
-ゲームセンター、
-駅前、
-住宅街、
-雑居ビルの階段、
-深夜の路地、
-河川敷、
-カラオケ前、
-深夜の自販機周辺、
-配信部屋、
-オタク部屋、
-地方都市の駅前、
-雨の歩道、
-商店街など。
-
-背景は綺麗すぎない。
-生活感、
-雑多感、
-現実のノイズ感を重視する。
-
-画面手前に実写級の人間の手や腕を自然にフレームインさせる。
-
-人間側は、
-少女へ触れようとしている、
-指を差している、
-距離を測っている、
-驚いて反応している、
-食べ物や飲み物を差し出している、
-配信中に思わず干渉してしまったような動き。
-
-手前の手は浅い被写界深度で少しだけボケる。
-
-「誰かがライブ配信中に偶然撮影してしまった映像」のようなリアリティを重視する。
-
-映画ポスター風にしない。
-過剰なシネマティック演出禁止。
-綺麗すぎる構図禁止。
-過剰な発光エフェクト禁止。
-AI特有の glossy rendering を避ける。
-情報量を盛りすぎない。
-
-ライブ配信UIには、
-コメント欄、
-同接数、
-LIVE表示、
-いいね、
-ギフト通知などを含める。
-
-コメント欄は、半信半疑でざわつくリアルな反応にする。
-
-ライティングは自然に統一する。
-
-自然光、
-街灯、
-コンビニ照明、
-モニター光など、
-背景とキャラクターの環境光を一致させる。
-
-スマートフォン撮影風の質感を追加する。
-
-軽いHDR処理、
-微細なセンサーノイズ、
-わずかなJPEG圧縮感、
-自然な露出、
-微弱な色収差、
-軽いレンズブルーム、
-オートフォーカス的な空気感、
-わずかな手ブレ、
-手持ち撮影らしい不安定感。
-
-完璧な作品ではなく、
-「SNSに投稿された謎の目撃配信スクショ」
-のような偶然感を重視する。
 ```
 
 </details>
@@ -2014,11 +1325,11 @@ Create a monumental Baroque oil painting with Romantic-era grandeur depicting a 
 </details>
 
 <a id="gpt-image-courtroom-sketch-rabbit-witness"></a>
-### Courtroom sketch of a rabbit mascot witness
+### Pastel courtroom sketch of a plush rabbit witness
 
 <a href="https://x.com/miya_SUEMYST/status/2057972980681208263"><img src="../../previews/gpt-image-courtroom-sketch-rabbit-witness.jpg" width="360"></a>
 
-Names the courtroom artist medium, pastel and charcoal, and places every figure by position in the scene. It fixes the number and location of blurred faces, and specifies the lower third banner colors and exact Japanese text for a news broadcast look.
+Names the courtroom artist medium, pastel and charcoal, and places the judge, witness and lawyers by position, so the scene reads as real trial coverage. Muted browns against the rabbit's vivid accessories, plus a navy and red news banner with exact Japanese text, give it the satirical broadcast look.
 
 GPT Image 2 · Text-to-image · Source: [@miya_SUEMYST on X](https://x.com/miya_SUEMYST/status/2057972980681208263) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
@@ -2028,6 +1339,46 @@ GPT Image 2 · Text-to-image · Source: [@miya_SUEMYST on X](https://x.com/miya_
 
 ```text
 Create a satirical courtroom news sketch in the style of a hand-drawn pastel and charcoal courtroom artist illustration. The scene shows a wooden courtroom with a judge on the raised bench at the back left, a U.S. flag behind the judge, warm beige walls, rough pencil shading, and a documentary news feel. In the witness stand at center-right sits a cute white plush rabbit mascot: it has tall rabbit ears with one inner ear rainbow-striped and the other black, large round purple lenses in mismatched turquoise and pink frames, colorful over-ear headphones, stitched seams down the face and body, a green butterfly bow tie, and small bright decorative patches on its arms. A black gooseneck microphone points toward the witness from the wooden stand. In the foreground, show two dark, sketchy human figures from behind: one lawyer on the left holding a yellow legal pad, and one person with long brown hair on the right facing the witness. Include exactly 10 anonymized human face blocks in the courtroom: 1 blurred rectangular face on the judge, 1 large blurred rectangle on the left foreground lawyer, 4 small blurred faces among the central background spectators, and 4 small blurred faces among the right-side background spectators. Keep the human faces featureless, covered by soft brown-gray rectangular blur blocks. Add a glossy TV-news lower-third banner across the entire bottom: a deep navy blue gradient rectangle with a bright red top strip, thin metallic gold edges, and large bold white Japanese text reading 脅されてやりました。. Use a 16:9 horizontal composition, slightly chaotic courtroom sketch lines, muted browns and grays contrasted with the vivid colorful rabbit accessories, no photorealism, no watermark, no extra captions.
+```
+
+</details>
+
+<a id="gpt-image-cozy-farming-village-pixel-asset-sheet"></a>
+### Cozy Farming Village Pixel Asset Sheet
+
+<a href="https://x.com/givros/status/2055671614763651572"><img src="../../previews/gpt-image-cozy-farming-village-pixel-asset-sheet.jpg" width="360"></a>
+
+The prompt lists each section with an exact item count, a fixed color for every sprite, and a plain white background with labeled rows. It also fixes one outline style, upper left lighting and a no overlap rule, so the sheet can be cut into game assets.
+
+GPT Image 2 · Text-to-image · Source: [@givros on X](https://x.com/givros/status/2055671614763651572) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`pixel-art`](tags.md#tag-pixel-art) [`asset-sheet`](tags.md#tag-asset-sheet) [`tileset`](tags.md#tag-tileset) [`game-art`](tags.md#tag-game-art) [`farming`](tags.md#tag-farming)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Goal: Create a clean reusable 2D pixel-art game asset sheet for a cozy farming village tileset, labeled and organized on a plain white background. Use crisp 32-bit style pixel art, orthographic/front-facing RPG perspective, consistent scale, soft outlines, warm saturated colors, and no shadows outside the sprites. Theme: cozy farming village.
+
+Canvas: Landscape asset sheet, 4:3 ratio, white background, neatly spaced rows and columns. Add small green sprout icons before each section label. Use dark pixel-font labels in English.
+
+Layout and required sections:
+- HOUSES: exactly 5 small cottage buildings, each front-facing with different roof colors and details: 1 blue-roof cottage, 1 golden-yellow roof cottage, 1 green roof cottage with planter boxes, 1 orange-red roof cottage with flowers, 1 purple roof cottage with flowers.
+- SHOP: exactly 1 shop building with a purple roof, striped purple awning, hanging sign reading “SHOP”, flower pots, and a small sidewalk sign.
+- BARN: exactly 1 red barn with orange roof, large double doors, side hardware, and one hay pile.
+- FARM PLOTS: exactly 3 fenced rectangular farm plots: 1 planted vegetable plot with greens, wheat, and root crops; 1 tilled plot with small sprouts; 1 empty tilled soil plot.
+- SOIL TILES: exactly 8 square terrain tiles in a 2-row grid: 4 plain tiles on the top row, showing dark soil, medium dirt, light sand, and grass; 4 planted or transition tiles on the bottom row, showing seeded soil variations and a dirt-to-grass transition.
+- TREES: exactly 4 leafy fruit/deciduous trees: 1 round dark green tree, 1 larger bright green tree, 1 smaller yellow-green tree, and 1 apple tree with red fruit.
+- BUSHES: exactly 3 round bushes: 1 plain green bush, 1 flowering bush with pale blossoms, 1 berry bush with red berries.
+- SPECIAL TREE: exactly 1 palm tree with a curved brown trunk and green fronds.
+- LOGS & STUMPS: exactly 5 items: 1 long log, 1 cut log, 1 hollow log, 1 large stump, 1 small sprouting stump.
+- BEACH PROPS: exactly 5 items: 1 red-and-white beach umbrella, 1 blue striped lounge chair, 1 pink starfish, 1 pink shell, 1 beige shell.
+- FLOWERS: exactly 6 small flower sprites: white daisies, yellow flowers, pink flowers, orange-red flowers, purple lavender, and a pink tulip.
+- VILLAGE PROPS: exactly 18 village objects in two rows: wooden signpost, lantern post, mailbox, chalkboard sign, wooden crate, barrel, burlap sack, flower pot, wooden bench, stone well, bucket, produce cart, clay pot, flower planter box, round flower planter, market stall, blue-checkered table with flowers, and another lantern post.
+- FARM PROPS: exactly 9 farm objects: hay bale, blue water trough, hay cart, short wooden fence segment, milk can, pitchfork, shovel, blue watering can, and long wooden planter box.
+- SMALL DETAILS: exactly 12 ground-detail sprites: 4 rocks, 1 tiny sprout, 1 tall reed clump, 1 grass tuft, 1 red mushroom cluster, 1 yellow flower patch, 1 white flower patch, 1 lily pad, and 1 lily pad with pink water lily.
+- FENCES: exactly 4 fence sprites: rail fence, vertical plank fence, rope-post fence, and short gate/fence section.
+
+Visual style: cute high-quality pixel art game tileset. Keep every asset isolated, centered in its own space, and ready to cut out for game use. Use consistent outlines, consistent lighting from upper left, and no overlapping sprites. Text labels should use a pixel font with the section names exactly as listed. Avoid extra decorative background elements, watermarks, mockup UI, or perspective distortions.
 ```
 
 </details>
@@ -2140,6 +1491,25 @@ GPT Image 2 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/st
 
 </details>
 
+<a id="gpt-image-fake-pixel-art-grid-zoom-analysis"></a>
+### Zoomed Fake Pixel Art With Blue Grid
+
+<a href="https://x.com/RealAstropulse/status/2047289982394495477"><img src="../../previews/gpt-image-fake-pixel-art-grid-zoom-analysis.jpg" width="360"></a>
+
+Names the exact palette and where each color sits, then describes the flaw to show: staircase edges whose colors blur inside the squares. A grid overlay, a crosshair cursor and a no text rule make it read as an editor screenshot.
+
+GPT Image 2 · Text-to-image · Source: [@RealAstropulse on X](https://x.com/RealAstropulse/status/2047289982394495477) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`pixel-art`](tags.md#tag-pixel-art) [`grid-overlay`](tags.md#tag-grid-overlay) [`close-up`](tags.md#tag-close-up) [`analysis`](tags.md#tag-analysis) [`screenshot`](tags.md#tag-screenshot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A tightly zoomed-in comparison image demonstrating fake pixel-art rendering, showing a low-resolution-looking scene enlarged on screen with a thin bright blue square grid overlay across the entire frame. The composition is an abstract close crop of a pixel-art-style environment: sandy tan and ochre blocky forms on the left and center, a dark navy and black stepped diagonal mass on the right, muted olive-green and slate-blue shapes along the upper background, and a few lighter golden highlights. Every edge looks staircase-like and blocky at first glance, but the colors softly blur and blend within the apparent squares instead of aligning perfectly to the grid, creating the impression of pixel art that breaks down under inspection. Include a small white crosshair cursor near the upper left quadrant to suggest image analysis in an editor. The overall look should feel like a screenshot from a graphics program or social media demonstration about how AI can imitate retro game art aesthetics without producing true grid-perfect pixel art, with no text labels visible.
+```
+
+</details>
+
 <a id="gpt-image-fauvist-persimmon-still-life-oil-painting"></a>
 ### Fauvist oil painting of three persimmons
 
@@ -2220,50 +1590,12 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 
 </details>
 
-<a id="gpt-image-fictional-itasha-meadow-car"></a>
-### Fictional Itasha Car in Flower Meadow
-
-<a href="https://x.com/ashiwata100/status/2054848942345486704"><img src="../../previews/gpt-image-fictional-itasha-meadow-car.jpg" width="360"></a>
-
-The prompt maps illustration themes to matching car styling, so body shape, materials and decals follow the source art. It also requires fully original logos and places the character beside the vehicle under a cinematic automotive photo look.
-
-GPT Image 2 · Edit · Source: [@ashiwata100 on X](https://x.com/ashiwata100/status/2054848942345486704) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`itasha`](tags.md#tag-itasha) [`fictional-car`](tags.md#tag-fictional-car) [`anime-photorealism`](tags.md#tag-anime-photorealism) [`automotive`](tags.md#tag-automotive) [`character-vehicle`](tags.md#tag-character-vehicle)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an original Japanese itasha vehicle based entirely on the uploaded illustration. Design a fully fictional car and manufacturer naturally born from the artwork’s universe, never resembling real vehicles or brands. The design must adapt to the illustration itself: cute rounded styling for soft fantasy or shrine themes, elegant luxury styling for regal worlds, aggressive mechanical styling for cyberpunk or military themes, sporty styling for energetic characters, mystical styling for magical worlds, or retro-futuristic styling for nostalgic sci-fi. Body shape, proportions, cockpit, wheels, headlights, aero parts, glowing elements, materials, and interior must visually match the illustration’s atmosphere, colors, fashion, architecture, magic, and technology. All decals, logos, symbols, typography, crests, and sponsor-style graphics must be fully original fictional designs inspired only by the illustration. If a character exists, place them naturally beside the vehicle. Cinematic automotive photography, anime-inspired photorealism, masterpiece quality.
-```
-
-</details>
-
-<a id="gpt-image-first-person-tropical-island-warzone"></a>
-### First-Person Tropical Island Warzone Key Art
-
-<a href="https://x.com/lipeng0820/status/2047231302118858815"><img src="../../previews/gpt-image-first-person-tropical-island-warzone.jpg" width="360"></a>
-
-A first-person viewpoint anchored by a gloved rifle in the lower right foreground. Exact counts and left-to-right placement for bunkers, battleships, helicopters and missile trails keep the crowded scene organized.
-
-GPT Image 2 · Text-to-image · Source: [@lipeng0820 on X](https://x.com/lipeng0820/status/2047231302118858815) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`fps`](tags.md#tag-fps) [`game-key-art`](tags.md#tag-game-key-art) [`military`](tags.md#tag-military) [`first-person`](tags.md#tag-first-person) [`cinematic`](tags.md#tag-cinematic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic first-person modern military battle on a tropical island coastline, viewed from the perspective of a soldier holding a black assault rifle in both hands at the lower right foreground, with dark tactical gloves visible. The scene shows a fortified coastal base under attack in bright midday sunlight beneath a vivid blue sky with scattered white clouds. In the foreground and midground, depict a rugged dirt path with dry grass, scattered debris, crates, and metal barrels leading into a compact military installation made of futuristic-industrial bunkers and machinery painted olive green and gray. Include 5 prominent base structures: a rounded bunker with a small dome on the far left, a cylindrical tower just right of it, a large central arched hangar-like bunker with a dark entrance, 1 squat turreted structure on the right midground, and 1 stone-and-metal defensive wall section at the far right front. In the center midground, show 1 major ground explosion with orange fire and black smoke, plus 1 tall vertical smoke plume rising behind the base near the cliffs. The background features rocky cliffs lined with many palm trees and a small waterfall descending near the center-left, with the ocean and horizon visible to the right. Over the water, show 4 large gray battleships grouped near the coast on the right side. In the sky, include 3 helicopters, 4 smaller aircraft or drones in the distance, and 5 visible missile or rocket trails streaking diagonally across the sky from right to left, emphasizing an active large-scale assault. Ultra-detailed photorealistic AAA video game key art, realistic lighting, sharp textures, cinematic action composition, wide-angle first-person shooter viewpoint, high contrast, dynamic war atmosphere, epic scale.
-```
-
-</details>
-
 <a id="gpt-image-floral-kimono-anime-portrait"></a>
 ### Anime girl in floral kimono with blooming hair flowers
 
 <a href="https://x.com/Mind_Boticni/status/2059133066694779343"><img src="../../previews/gpt-image-floral-kimono-anime-portrait.jpg" width="360"></a>
 
-The prompt stacks concrete visual anchors in order: face details, patterned kimono, oversized hair flowers, then a gradient backdrop. Closing with lighting and mood words such as soft cinematic and dreamy keeps the finish consistent.
+The prompt stacks concrete anchors in order: expressive eyes and blush, a densely patterned kimono, then oversized flowers worn as hair accessories. Closing with soft cinematic lighting and a dreamy mood gives a glowing painterly finish, though the model may swap the requested gradient for a blossom filled scene.
 
 GPT Image 2 · Text-to-image · Source: [@Mind_Boticni on X](https://x.com/Mind_Boticni/status/2059133066694779343) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
@@ -2276,47 +1608,6 @@ Ultra-detailed anime-style portrait of a young girl with large expressive eyes, 
 ```
 
 </details>
-
-<a id="gpt-image-forest-hero-squirrel-rescue"></a>
-### Same hero rescues a squirrel in the snow
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="../../previews/gpt-image-forest-hero-squirrel-rescue.jpg" width="360"></a>
-
-Feeds the character image back in and repeats its defining details under Character Consistency, so the outfit and face stay the same in a new scene. Preview: the Sunburst variant.
-
-GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
-
-[`character`](tags.md#tag-character) [`consistency`](tags.md#tag-consistency) [`childrens-book`](tags.md#tag-childrens-book)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Continue the children’s book story using the same character.
-
-Scene:
-The same young forest hero is gently helping a frightened squirrel
-out of a fallen tree after a winter storm.
-The character kneels beside the squirrel, offering reassurance.
-
-Character Consistency:
-- Same green hooded tunic
-- Same facial features, proportions, and color palette
-- Same gentle, heroic personality
-
-Style:
-Children’s book watercolor illustration,
-soft lighting, snowy forest environment,
-warm and comforting mood.
-
-Constraints:
-- Do not redesign the character
-- No text
-- No watermarks
-```
-
-</details>
-
-Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-sunburst.webp)
 
 <a id="gpt-image-golden-bay-city-romantic-landscape"></a>
 ### Golden Bay City Romantic Landscape Painting
@@ -2439,7 +1730,7 @@ dutch angle, stray cat tail --ar 9:16
 
 <a href="https://x.com/giffmana/status/2073444893951697196"><img src="../../previews/gpt-image-impasto-cookie-milk-splash.jpg" width="360"></a>
 
-Fixes the exact count and position of flying chocolate chunks to control the composition. A palette knife impasto style and a limited warm palette with muted purple keep the splash dramatic and cohesive.
+Freezing the moment of impact and naming the splash shapes as arcs, beads and ribbons gives the scene its motion. Heavy palette knife impasto and a limited warm palette with muted purple keep the busy composition cohesive.
 
 GPT Image 2 · Text-to-image · Source: [@giffmana on X](https://x.com/giffmana/status/2073444893951697196) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
@@ -2468,29 +1759,6 @@ GPT Image 2 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Nai
 
 ```text
 Create a sophisticated fine-art architectural painting of [STRUCTURE / LANDMARK], presented as a highly tactile, three-dimensional impasto oil painting on textured archival paper. Make [STRUCTURE / LANDMARK] the unmistakable central focal point, shown from a slightly low, frontal perspective so its architecture feels grand, monumental, elegant, and sculptural. Preserve the recognizable architectural features, proportions, silhouette, windows, columns, arches, roofline, ornamentation, materials, and distinctive details of the structure, but reinterpret the entire scene as a handcrafted contemporary oil painting. Use extremely thick palette-knife impasto with visible raised strokes, layered paint, broken edges, scraped textures, ridges, and expressive overlapping marks. The architecture should appear almost sculpted entirely from paint, with heavy cream, warm stone, soft gray, muted blue, dusty green, subtle charcoal, and delicate antique-gold accents. Behind the structure, create a simplified atmospheric sky made entirely from thick textured brushstrokes in soft powder blue, ivory, pale gray, and warm white. Keep the background understated, elegant, and painterly so the architectural form remains dominant. Add subtle environmental details at the bottom — a few bicycles, elegant vintage street lamps, plants, steps, pavement, tiny distant figures, or other small location-specific details — but keep them secondary, miniature, and painterly. The artwork should sit like a physical painted panel mounted on a warm off-white handmade paper background. Give the painted panel an irregular, naturally torn and rough painted edge, with subtle dimensional shadows around it, suggesting that a thick original artwork has been physically placed onto textured archival paper. At the bottom of the artwork, incorporate the name of the landmark in beautiful refined italic typography: “[STRUCTURE / LANDMARK]” Use sophisticated high-contrast editorial serif lettering, elegant flowing italics, slightly vintage European book-cover styling, subtle antique-gold or muted charcoal ink, perfectly centered and carefully integrated into the artwork. The typography should feel printed/painted onto the textured surface rather than digitally overlaid. Keep the lettering delicate, tasteful, and legible without competing with the architecture. If appropriate, add a smaller understated italic subtitle beneath it: “[CITY, COUNTRY]” Use generous spacing, refined typography, and a museum-quality art-print composition. Lighting should be soft and natural, emphasizing the raised impasto texture and creating tiny shadows between layers of paint. Elegant European art-book aesthetic, museum-quality architectural painting, sophisticated vintage travel-art feeling, tactile handmade surface, restrained luxury color palette, painterly realism, highly detailed, atmospheric, timeless, no photorealistic appearance. Vertical composition, centered architecture, generous off-white negative space around the artwork, premium editorial art print, collectible gallery poster, 8k detail. --ar 4:5 --style raw
-```
-
-</details>
-
-<a id="gpt-image-impasto-oil-portrait-abstract-wall"></a>
-### Impasto Oil Portrait Against Abstract Wall
-
-<a href="https://x.com/mon010_de/status/2058033940305469461"><img src="../../previews/gpt-image-impasto-oil-portrait-abstract-wall.jpg" width="360"></a>
-
-Names the medium cues directly (impasto, palette knife, visible brush strokes) and sets a warm color scheme of orange, beige and deep blue for the wall. Adds a relaxed pose, a sideways gaze and layered clothing details to keep the figure grounded in the painted texture.
-
-GPT Image 2 · Text-to-image · Source: [@mon010_de on X](https://x.com/mon010_de/status/2058033940305469461) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`oil-painting`](tags.md#tag-oil-painting) [`impasto`](tags.md#tag-impasto) [`portrait`](tags.md#tag-portrait) [`palette-knife`](tags.md#tag-palette-knife) [`editorial`](tags.md#tag-editorial)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic expressive oil painting portrait of a handsome young man with medium-length messy blonde hair and sun-kissed skin, sitting casually against a textured abstract wall with orange, beige, and deep blue paint strokes. He is looking sideways with a calm, thoughtful expression. He wears an oversized olive-green satin shirt over a white t-shirt, layered silver necklaces, rings, bracelets, and a luxury wristwatch.
-
-The artwork features dramatic warm lighting, cinematic shadows, highly detailed brush strokes, painterly texture, rich impasto oil paint style, modern contemporary art aesthetic, realistic facial anatomy, rugged masculine features, soft glowing skin tones, relaxed pose with one arm resting on his knee.
-
-Background is abstract and artistic with rough palette knife textures and mixed earthy colors. Moody luxury vibe, editorial fashion portrait, museum-quality oil painting, ultra-detailed, high contrast, 8k resolution, masterpiece composition.
 ```
 
 </details>
@@ -2533,25 +1801,6 @@ Create a modern isometric illustration sheet on a clean light gray background, s
 
 </details>
 
-<a id="gpt-image-isometric-glass-cube-spheres-cylinder"></a>
-### Glass cube with colored spheres and cylinder
-
-<a href="https://x.com/Hyperouters/status/2097654503692443744"><img src="../../previews/gpt-image-isometric-glass-cube-spheres-cylinder.jpg" width="360"></a>
-
-Each object gets an explicit position (inside or outside, upper back left, lower front right, directly above), so the layout works as a spatial-relation test. Naming the isometric view fixes the camera and makes the placements easy to check.
-
-GPT Image 2.5 · Text-to-image · Source: [@Hyperouters on X](https://x.com/Hyperouters/status/2097654503692443744) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
-
-[`isometric`](tags.md#tag-isometric) [`spatial-relation`](tags.md#tag-spatial-relation) [`glass`](tags.md#tag-glass) [`3d-shapes`](tags.md#tag-3d-shapes) [`test`](tags.md#tag-test)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A transparent glass cube: place a red sphere inside at the upper back left, a blue sphere inside at the lower front right, a green sphere outside directly above it, and a yellow cylinder crossing from the lower left to the upper right. Use an isometric view.
-```
-
-</details>
-
 <a id="gpt-image-japanese-ink-graffiti-half-body-portrait"></a>
 ### Japanese ink graffiti half body portrait with symbols
 
@@ -2571,12 +1820,31 @@ Generate an illustration of "me" as you imagine it. Features include a Japanese 
 
 </details>
 
+<a id="gpt-image-kawaii-cactus-die-cut-sticker"></a>
+### Kawaii Cactus Die-Cut Sticker
+
+<a href="https://x.com/thsottiaux/status/2090631723302469995"><img src="../../previews/gpt-image-kawaii-cactus-die-cut-sticker.jpg" width="360"></a>
+
+Exact counts for arms, eyes, cheeks and petals keep the character anatomy stable. Style cues such as thick outlines, a white die-cut border and a transparent background make the result print-ready.
+
+GPT Image 2 · Text-to-image · Source: [@thsottiaux on X](https://x.com/thsottiaux/status/2090631723302469995) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`sticker`](tags.md#tag-sticker) [`kawaii`](tags.md#tag-kawaii) [`cactus`](tags.md#tag-cactus) [`transparent-background`](tags.md#tag-transparent-background) [`cartoon`](tags.md#tag-cartoon)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a cute printable sticker illustration on a transparent background: a kawaii green cactus in a terracotta flower pot, centered and filling most of a square canvas. The cactus has one large oval ribbed central body and exactly 2 curved side arms, one on the left and one on the right, both raised upward. Give it a happy face with exactly 2 glossy black oval eyes, 2 pink circular blush cheeks, and 1 open smiling mouth with a dark interior and pink tongue. Add a red-pink flower on top-left of the cactus with exactly 6 rounded petals and a cluster of small yellow dots in the center. Cover the cactus with many small star-shaped cream spines with orange bases, distributed across the main body and both arms. Place the cactus in an orange terracotta pot with a thick rim, darker orange shading, small speckles, and glossy highlights; show brown soil and several rounded pebbles at the top. Use a polished digital cartoon style with thick dark green outlines, soft gradients, shiny highlights, saturated colors, and a clean die-cut sticker look with a thick white border around the entire cactus and pot. Background should be transparent, optionally previewed by a light gray checkerboard only to indicate transparency. No text, no watermark, no extra objects.
+```
+
+</details>
+
 <a id="gpt-image-kawaii-paper-cut-family-travel-collage"></a>
-### Kawaii Paper Cut Family Travel Station Scene
+### Kawaii Paper Cut Family at a Transit Station
 
 <a href="https://x.com/Taaruk_/status/2058400056722731079"><img src="../../previews/gpt-image-kawaii-paper-cut-family-travel-collage.jpg" width="360"></a>
 
-Stacks material cues (layered cardboard, felt, sticker-like white outlines) on a scene list of four locations, so the result reads as one scrapbook diorama. Tilt-shift, soft depth of field and a vertical composition keep the miniature world feel.
+Material cues such as layered cardboard, felt textures and white sticker outlines around the characters turn an ordinary transit platform into a handmade paper diorama. Tilt-shift, soft depth of field and a vertical frame keep the miniature world look, though the model renders one station scene rather than the four listed.
 
 GPT Image 2 · Text-to-image · Source: [@Taaruk_ on X](https://x.com/Taaruk_/status/2058400056722731079) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
@@ -2609,82 +1877,6 @@ Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argu
 
 </details>
 
-<a id="gpt-image-layered-paper-cut-couple-illustration"></a>
-### Layered paper cut couple in warm tones
-
-<a href="https://x.com/Just_sharon7/status/2055368240885641323"><img src="../../previews/gpt-image-layered-paper-cut-couple-illustration.jpg" width="360"></a>
-
-The JSON prompt separates style, layering technique, character design, palette and lighting into named fields. Specifying 5 to 7 depth planes, beveled edges and soft inner shadows makes the paper layers read as physical depth.
-
-GPT Image 2 · Text-to-image · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2055368240885641323) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`paper-cut`](tags.md#tag-paper-cut) [`papercraft`](tags.md#tag-papercraft) [`couple`](tags.md#tag-couple) [`json-prompt`](tags.md#tag-json-prompt) [`pastel`](tags.md#tag-pastel)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{
-  "style": "layered paper-cut illustration, papercraft diorama, handcrafted aesthetic",
-  "technique": {
-    "layering": "multiple stacked paper layers with soft drop shadows between each layer",
-    "depth": "5–7 visible depth planes from foreground to background",
-    "edges": "smooth, rounded, slightly beveled paper-cut edges",
-    "texture": "subtle paper grain and fibrous texture on all surfaces",
-    "shadows": "soft, diffused inner shadows beneath each layer suggesting physical depth"
-  },
-  "character_design": {
-    "proportions": "chibi / cute simplified — large round head, small body (1:1.5 ratio)",
-    "face": {
-      "eyes": "small dot eyes, glossy highlight",
-      "cheeks": "soft circular rosy blush patches",
-      "nose": "absent or minimal dot",
-      "mouth": "simple small curve smile"
-    },
-    "limbs": "short, rounded, stubby limbs",
-    "outline": "clean smooth silhouette, no sharp corners"
-  },
-  "color_palette": {
-    "mood": "warm, cozy, pastel",
-    "tones": ["soft cream", "dusty rose", "sage green", "warm peach", "sky blue", "honey yellow"],
-    "saturation": "low-to-medium, muted and gentle",
-    "background": "warm off-white or soft gradient"
-  },
-  "lighting": {
-    "type": "soft ambient light from top-front",
-    "highlights": "gentle white edge highlights on top layers",
-    "shadows": "warm light tan/beige shadow tones beneath cut layers"
-  },
-  "environment": {
-    "foliage": "simplified rounded leaf and floral shapes as separate paper layers",
-    "ground": "curved horizon layers suggesting rolling hills",
-    "details": "tiny decorative elements — stars, small hearts, dots — cut from paper"
-  },
-  "overall_mood": "warm, whimsical, cozy, handmade, storybook",
-  "render_quality": "ultra-detailed papercraft art, studio photography lighting, sharp focus on layer edges"
-}
-```
-
-</details>
-
-<a id="gpt-image-low-poly-papercraft-man-portrait"></a>
-### Low poly origami paper sculpture portrait of a man
-
-<a href="https://x.com/iamsofiaijaz/status/2056953102755115162"><img src="../../previews/gpt-image-low-poly-papercraft-man-portrait.jpg" width="360"></a>
-
-The prompt names the material and the shape language together, with faceted angular planes, layered paper depth and realistic paper texture. It also fixes colors for hair, shirt and glasses and uses a clean white studio background with soft light.
-
-GPT Image 2 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2056953102755115162) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`papercraft`](tags.md#tag-papercraft) [`low-poly`](tags.md#tag-low-poly) [`origami`](tags.md#tag-origami) [`portrait`](tags.md#tag-portrait) [`studio`](tags.md#tag-studio)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.
-```
-
-</details>
-
 <a id="gpt-image-manhattan-park-watercolor-travel-illustration"></a>
 ### Watercolor Manhattan Park Picnic Travel Illustration
 
@@ -2700,25 +1892,6 @@ GPT Image 2 · Text-to-image · Source: [@Taaruk_ on X](https://x.com/Taaruk_/st
 
 ```text
 Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.
-```
-
-</details>
-
-<a id="gpt-image-mediterranean-alien-world-settlement"></a>
-### Mediterranean Style Settlement on a Ringed Planet
-
-<a href="https://x.com/wonder_villas/status/2097869977890017784"><img src="../../previews/gpt-image-mediterranean-alien-world-settlement.jpg" width="360"></a>
-
-One sentence sets a time frame, a setting and a blend of two named styles, Mediterranean architecture and subtle retro futurism. The model fills in the sunset light, the sea, the family and the robot on its own.
-
-GPT Image 2.5 · Text-to-image · Source: [@wonder_villas on X](https://x.com/wonder_villas/status/2097869977890017784) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
-
-[`sci-fi`](tags.md#tag-sci-fi) [`retro-futurism`](tags.md#tag-retro-futurism) [`mediterranean`](tags.md#tag-mediterranean) [`worldbuilding`](tags.md#tag-worldbuilding) [`sunset`](tags.md#tag-sunset)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
 ```
 
 </details>
@@ -2890,25 +2063,6 @@ GPT Image 2 · Text-to-image · Source: [@MissDelulu9 on X](https://x.com/MissDe
 
 ```text
 Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
-```
-
-</details>
-
-<a id="gpt-image-pastel-anime-perplexed-doodle-portrait"></a>
-### Perplexed Blue Haired Anime Girl Pastel Doodle
-
-<a href="https://x.com/fofrAI/status/2046636804648927446"><img src="../../previews/gpt-image-pastel-anime-perplexed-doodle-portrait.jpg" width="360"></a>
-
-A short prompt names the medium (digital color doodle), the expression (perplexed) and key features (long hair, big blue eyes). Exclusions like no text and no embellishments plus flat pastel coloring keep the result clean.
-
-GPT Image 2 · Text-to-image · Source: [@fofrAI on X](https://x.com/fofrAI/status/2046636804648927446) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`anime`](tags.md#tag-anime) [`doodle`](tags.md#tag-doodle) [`pastel`](tags.md#tag-pastel) [`flat-color`](tags.md#tag-flat-color) [`character-sketch`](tags.md#tag-character-sketch)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-a digitally sketched color doodle of a perplexed an anime character with long hair and big blue eyes character, no text, no embellishments, flat pastel coloring
 ```
 
 </details>
@@ -3186,45 +2340,6 @@ extremely detailed, high contrast between dark mass and glowing accents,
 masterpiece, ultra detailed
 
 主体：巨龙
-```
-
-</details>
-
-<a id="gpt-image-teddy-bear-holiday-card"></a>
-### Nostalgic Christmas card with an old teddy bear
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="../../previews/gpt-image-teddy-bear-holiday-card.jpg" width="360"></a>
-
-Scene, mood, style and constraints are labeled blocks, and the card text is given verbatim as the only text allowed. Preview: the Sunburst variant.
-
-GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
-
-[`holiday`](tags.md#tag-holiday) [`card`](tags.md#tag-card) [`text-render`](tags.md#tag-text-render)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a Christmas holiday card illustration.
-
-Scene:
-a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
-
-Mood:
-Warm, nostalgic, gentle, emotional.
-
-Style:
-Premium holiday card photography, soft cinematic lighting,
-realistic textures, shallow depth of field,
-tasteful bokeh lights, high print-quality composition.
-
-Constraints:
-- Original artwork only
-- No trademarks
-- No watermarks
-- No logos
-
-Include ONLY this card text (verbatim):
-"Merry Christmas — some memories never fade."
 ```
 
 </details>

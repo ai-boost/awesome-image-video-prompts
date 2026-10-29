@@ -1,7 +1,7 @@
 id: gpt-image-face-locked-cafe-scrapbook-poster
 title:
-  en: Woman at Paris cafe in scrapbook editorial poster
-  zh: 巴黎咖啡馆女子的手账风编辑海报
+  en: Face locked cafe portrait as vintage scrapbook poster
+  zh: 锁定面部身份的咖啡馆复古剪贴簿海报
 model: GPT Image 2.5
 mode: image-edit
 category: poster
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-09-23'
 notes:
-  en: A strict identity lock limits the face reference to identity only, and a separate block lists what the inspiration images may control. Labeled sections for subject, hair, outfit, scene, scrapbook layout and lighting give the model clear targets, and exact poster text plus a negative prompt keep the layout clean.
-  zh: 用严格的身份锁定把人脸参考限定为只控制长相，并单独说明灵感图只控制构图与风格。主体、发型、服装、场景、手账版式和光线分段描述，再给出确切的海报文字和负面提示词，版面更干净。
+  en: A strict identity lock keeps the uploaded face for the woman only, and a separate block limits the inspiration images to composition, styling and layout. Labeled sections for hair, outfit, scene, scrapbook design and lighting build the painted edge cutout, paper texture and postal stamp details, though the model may paraphrase the requested headline.
+  zh: 严格的身份锁定只让上传的面部参考决定人物长相，另一段则把灵感图的作用限定在构图、造型和版式上。头发、服装、场景、剪贴簿设计和光线分段描述，生成了手绘边缘剪裁、纸张质感和邮戳细节，但模型可能会改写指定的标题文字。
 prompt: |
   Use the uploaded face reference image ONLY as the identity reference for the woman.
   STRICT FACE IDENTITY LOCK:

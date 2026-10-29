@@ -1,7 +1,7 @@
 id: gpt-image-photo-to-watercolor-travel
 title:
-  en: Upper half photo, lower half watercolour travel sketch
-  zh: 上半照片，下半水彩旅行速写
+  en: Travel photo above, same scene as watercolor below
+  zh: 上半旅行照片，下半同一场景水彩画
 model: GPT Image 2.5
 mode: image-edit
 category: photo-to-art
@@ -17,8 +17,8 @@ source:
   captured: '2026-10-27'
   posted: '2026-09-23'
 notes:
-  en: A vertical split where the photo dissolves into watercolour. Works in Gemini, Grok and ChatGPT, per the author.
-  zh: 上下分割，照片渐变成水彩。作者说 Gemini、Grok、ChatGPT 都能用。
+  en: Asking for the exact same scene in both halves keeps the composition, figures and poses aligned across photo and painting. Generous ivory paper space and a small handwritten caption give it the look of a travel journal page.
+  zh: 要求上下两半描绘完全相同的场景，让照片与水彩的构图、人物和姿态保持一致。大面积象牙白纸面留白加上小字手写标题，营造旅行手账的质感。
 prompt: |
   Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration.
   Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography.

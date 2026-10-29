@@ -1,7 +1,7 @@
 id: gpt-image-camera-roll-day
 title:
-  en: Camera roll of anyone's day, from one image
-  zh: 一张图生成任何人一天的相册
+  en: iPhone camera roll of one subject's full day
+  zh: 用一张图生成主角一整天的 iPhone 相册截图
 model: GPT Image 2.5
 mode: image-edit
 category: ui-mockup
@@ -18,8 +18,8 @@ source:
   captured: '2026-10-27'
   posted: '2026-09-14'
 notes:
-  en: 'Same idea with stricter rules: the upload is the only subject, and only minimal iOS chrome may appear.'
-  zh: 同一思路，规则更严：上传图是唯一主体，只允许出现最少的 iOS 界面元素。
+  en: Strict rules keep the subject identical and fix the layout at four thumbnail columns with real iOS chrome. A list of shot types and deliberate flaws like blur, odd crops and handheld framing makes the grid read as a real camera roll.
+  zh: 严格规则锁定主角外观，并把版式定为带真实 iOS 界面的四列缩略图。提示词列出多种景别，并要求模糊、裁切和手持感等瑕疵，让整屏看起来像真实相册。
 prompt: |
   Use the uploaded image as the ONLY subject reference.
 

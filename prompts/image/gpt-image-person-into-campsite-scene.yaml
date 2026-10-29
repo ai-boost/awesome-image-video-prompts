@@ -1,7 +1,7 @@
 id: gpt-image-person-into-campsite-scene
 title:
-  en: Put a person into a dusk campsite chase scene
-  zh: 把人物放进黄昏营地逃跑的场景
+  en: Place a person fleeing a bear at a dusk campsite
+  zh: 让人物在黄昏营地逃离棕熊
 model: GPT Image 2.5
 mode: image-edit
 category: edit
@@ -17,8 +17,8 @@ source:
 inputs:
 - https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp
 notes:
-  en: 'Describes pose, gaze, clothing, place and time of day, and keeps asking for an unstyled real photo instead of a movie poster look. Preview: the Sunburst variant.'
-  zh: 写清姿态、视线、服装、地点和时间，并反复要求像真实照片，不要电影海报感。预览图为 Sunburst 版本。
+  en: Spells out pose, gaze, torn clothing, place and dusk light, then asks again and again for an unstyled real photo with no cinematic grading. That keeps the action scene looking like a real snapshot instead of a movie poster.
+  zh: 逐项写明姿势、视线、破损衣着、地点和黄昏光线，并反复要求不加修饰的真实照片、不要电影感调色。这样动作场面看起来像真实抓拍，而不是电影海报。
 prompt: |
   Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
   She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.

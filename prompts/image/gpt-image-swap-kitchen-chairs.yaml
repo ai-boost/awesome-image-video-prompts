@@ -1,7 +1,7 @@
 id: gpt-image-swap-kitchen-chairs
 title:
   en: Swap only the chairs in a kitchen photo
-  zh: 厨房照片里只换椅子
+  zh: 只替换厨房照片中的椅子
 model: GPT Image 2.5
 mode: image-edit
 category: edit
@@ -17,8 +17,8 @@ source:
 inputs:
 - https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp
 notes:
-  en: 'Writes ONLY in capitals for the one object to replace and lists what to preserve: camera angle, lighting, floor shadows and surrounding objects. Preview: the Sunburst variant.'
-  zh: 用大写的 ONLY 限定唯一要换的东西，并列出要保留的机位、光线、地面阴影和周围物品。预览图为 Sunburst 版本。
+  en: Writing ONLY in capitals locks the edit to the chairs, and listing what to preserve, from camera angle and lighting to floor shadows and surrounding objects, keeps the rest of the room untouched.
+  zh: 用大写的ONLY把修改限定在椅子上，并列出需要保留的机位、光线、地面阴影和周围物品，让房间其余部分保持原样。
 prompt: |
   In this room photo, replace ONLY the white chairs with chairs made of wood.
   Preserve camera angle, room lighting, floor shadows, and surrounding objects.

@@ -1,7 +1,7 @@
 id: nano-banana-real-person-pixar-twin-pastel-sweater
 title:
-  en: Real man beside giant Pixar twin
-  zh: 真人与巨型皮克斯风格分身并肩合影
+  en: Real man beside his matching Pixar style twin
+  zh: 真人与同款装扮的皮克斯风格分身并肩站立
 model: Nano Banana 2
 mode: image-edit
 category: character
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-29'
   posted: '2026-03-05'
 notes:
-  en: Anchors both figures to one uploaded reference by locking face, clothing, height and pose, then sets a contrast only in the Pixar twin's stance and smirk. A plain studio backdrop plus a long negative prompt keeps the pose and proportions from drifting.
-  zh: 用同一张参考图同时锁定两个形象的脸、服装、身高和姿势，只让皮克斯分身在站姿和坏笑上有差异。纯色影棚背景加上较长的负面提示词，避免姿势和比例跑偏。
+  en: Locks the face, the gradient sweater outfit and the proportions of both figures to one uploaded reference, and lets only the Pixar twin differ through a smirk, a raised eyebrow and big eyes. A plain studio backdrop and a long negative prompt keep the clothing and pose consistent.
+  zh: 以同一张参考图锁定两人的脸、渐变毛衣穿搭和身材比例，只让皮克斯分身在坏笑、挑眉和大眼睛上有所不同。简洁的影棚背景加上较长的负面提示词，让服装和姿势保持一致。
 prompt: |
   Generated with Nano Banana 2 on Yapper
 

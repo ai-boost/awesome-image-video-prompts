@@ -1,7 +1,7 @@
 id: gpt-image-courtroom-sketch-rabbit-witness
 title:
-  en: Courtroom sketch of a rabbit mascot witness
-  zh: 法庭素描风格的兔子吉祥物证人
+  en: Pastel courtroom sketch of a plush rabbit witness
+  zh: 粉彩法庭速写中的毛绒兔子证人
 model: GPT Image 2
 mode: text-to-image
 category: illustration
@@ -19,7 +19,7 @@ source:
   posted: '2026-05-22'
   via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
 notes:
-  en: Names the courtroom artist medium, pastel and charcoal, and places every figure by position in the scene. It fixes the number and location of blurred faces, and specifies the lower third banner colors and exact Japanese text for a news broadcast look.
-  zh: 指定粉彩与炭笔的法庭画师媒介，并按位置逐一安排画面人物。明确模糊人脸的数量与分布，再写清下方字幕条的配色和日文原文，营造新闻播报质感。
+  en: Names the courtroom artist medium, pastel and charcoal, and places the judge, witness and lawyers by position, so the scene reads as real trial coverage. Muted browns against the rabbit's vivid accessories, plus a navy and red news banner with exact Japanese text, give it the satirical broadcast look.
+  zh: 提示词点明法庭画师常用的粉彩与炭笔，并按位置安排法官、证人和律师，让画面像真实的庭审报道。低饱和的棕色衬托兔子鲜艳的配饰，再加上写有指定日文的藏蓝红色新闻横幅，营造出讽刺新闻播报的效果。
 prompt: |
   Create a satirical courtroom news sketch in the style of a hand-drawn pastel and charcoal courtroom artist illustration. The scene shows a wooden courtroom with a judge on the raised bench at the back left, a U.S. flag behind the judge, warm beige walls, rough pencil shading, and a documentary news feel. In the witness stand at center-right sits a cute white plush rabbit mascot: it has tall rabbit ears with one inner ear rainbow-striped and the other black, large round purple lenses in mismatched turquoise and pink frames, colorful over-ear headphones, stitched seams down the face and body, a green butterfly bow tie, and small bright decorative patches on its arms. A black gooseneck microphone points toward the witness from the wooden stand. In the foreground, show two dark, sketchy human figures from behind: one lawyer on the left holding a yellow legal pad, and one person with long brown hair on the right facing the witness. Include exactly 10 anonymized human face blocks in the courtroom: 1 blurred rectangular face on the judge, 1 large blurred rectangle on the left foreground lawyer, 4 small blurred faces among the central background spectators, and 4 small blurred faces among the right-side background spectators. Keep the human faces featureless, covered by soft brown-gray rectangular blur blocks. Add a glossy TV-news lower-third banner across the entire bottom: a deep navy blue gradient rectangle with a bright red top strip, thin metallic gold edges, and large bold white Japanese text reading 脅されてやりました。. Use a 16:9 horizontal composition, slightly chaotic courtroom sketch lines, muted browns and grays contrasted with the vivid colorful rabbit accessories, no photorealism, no watermark, no extra captions.

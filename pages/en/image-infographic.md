@@ -1,6 +1,6 @@
 # Infographics and slides
 
-[Back to the list](../../README.md) · All 61 entries
+[Back to the list](../../README.md) · All 64 entries
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### Encyclopedia infographic card of the James Webb Telescope
@@ -95,125 +95,6 @@ The final result should feel like a real publishable encyclopedia knowledge card
 The image must strongly emphasize:
 
 “knowledge integration + modular information design + handbook/reference-style presentation.”
-```
-
-</details>
-
-<a id="gpt-image-museum-encyclopedia-cat-breeds-infographic"></a>
-### Natural history encyclopedia infographic of cat breeds
-
-<a href="https://x.com/GeekCatX/status/2047354608717332691"><img src="../../previews/gpt-image-museum-encyclopedia-cat-breeds-infographic.jpg" width="360"></a>
-
-Bracketed sections fix the parchment canvas, a single vermillion accent colour, a dense overlapping collage layout and a typography hierarchy with bilingual labels. The swappable SUBJECT slot lets one template cover cats, dogs or professions.
-
-GPT Image 2 · Text-to-image · Source: [@GeekCatX on X](https://x.com/GeekCatX/status/2047354608717332691) · 1,166 likes on 2026-10-28
-
-[`encyclopedia`](tags.md#tag-encyclopedia) [`parchment`](tags.md#tag-parchment) [`cat-breeds`](tags.md#tag-cat-breeds) [`bilingual-labels`](tags.md#tag-bilingual-labels) [`template`](tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-首页封面：
-A breathtakingly intricate masterpiece conceptual infographic of [SUBJECT: 11 species of Canidae cubs / various cat breeds / professional characters], strictly designed based on a natural history museum encyclopedia aesthetic.
-
-[CANVAS & COLOR DICTATORSHIP]
-BASE CANVAS (L0): Aged vintage parchment texture, warm hex #E8DFD1, featuring subtle water stains, distressed paper edges, and organic fiber grain.
-SYSTEMIC COLOR (L1): Highly realistic and naturalistic rendering of [SUBJECT], capturing every fine detail of fur, skin, and eyes.
-ACCENT COLOR (L3): Vermillion red (#A3262A) strictly reserved for traditional Chinese seals, title brackets, and critical tier markers (S, A, B, C).
-
-[SPATIAL GRAVITY & TOPOLOGY]
-COMPOSITION: A dense, layered collage of multiple [SUBJECT] subjects. Larger, more significant subjects are placed slightly centrally, while smaller ones fill the periphery with subtle overlapping to create 3D depth.
-BOUNDARIES: No hard frames for individual subjects; they breathe naturally on the parchment. A thin, 1pt technical border defines the entire composition's outer limits.
-MODULE TOPOLOGY: Approximately 9-15 distinct subjects arranged in a multi-node grid. Each subject acts as an independent information module.
-
-[DIMENSIONALITY & GRAPHIC PHYSICS]
-STYLE: Digital scientific illustration. A fusion of 19th-century zoological sketches and modern high-fidelity 3D rendering. Ultra-fine detail on textures (fur, feathers, or clothing).
-LINE LANGUAGE: 0.5pt micro-technical lines for labels and taxonomy guides.
-
-[TYPOGRAPHY ECOSYSTEM — ADAPTIVE DENSITY]
-TYPOGRAPHY DENSITY: Visual-heavy (70% subjects / 30% text).
-T1 MACRO HEADER: Massive, ultra-bold Traditional Chinese "Kaiti" or "Songti" characters enclosed in large black or red brackets 「 」. Estimated ~96px. Must be strictly pure Chinese (Hanzi).
-T2/T3 LABELS: Each subject is accompanied by its name in bilingual format: small-caps English (Sans-serif) and medium-weight Chinese (Heiti).
-T4 ANNOTATIONS: Micro-text placeholders for scientific descriptions, arranged in crisp technical blocks near each subject.
-TEXT PHYSICAL BEHAVIOR: Text is "floating" beside subjects with precise spatial alignment. High contrast (dark ink on light parchment).
-
-[NARRATIVE FLOW]
-NARRATIVE MODE: Comparison and Classification.
-VISUAL ENTRY POINT: The central T1 Header at the top, then the eye moves to the largest central subject.
-COGNITIVE LOAD: Information is chunked by individual subject modules, each with its own ID and label.
-
-[ICONOGRAPHY & METAPHOR]
-ICON STYLE: Scientific pictograms and vintage wax seals.
-CORE METAPHOR: The "Natural History Encyclopedia" page.
-SPECIAL ELEMENTS: Include "S/A/B/C Tier" medals in red/gold gradients for hierarchy, and a traditional red ink artist seal at the bottom right.
-
-[FINAL EXECUTION LOCK]
-Render as a single unified composition. All visual systems must be internally consistent. High-density detail, museum-quality print aesthetic, scientific clarity.
-
-主体：布偶猫、缅因猫、英国短毛猫、波斯猫、苏格兰折耳猫、孟加拉猫、西伯利亚猫、阿比西尼亚猫、暹罗猫、挪威森林猫。比例3:4， 文字清晰可读。
-
-单体图：
-Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.
-
-Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style.
-
-Subject Matter: Choose one from [People, Plants, or Animals].
-
-Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].
-
-Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional.
-
-Key Visual Requirements:
-
-1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism).
-
-2.  Layout & Strategic White Space:
-    * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point.
-    * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content.
-
-3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.
-
-4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):
-    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"].
-    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.
-    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
-    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
-
-Subject-Specific Module Structure (Example for general reference):
-
-A. For Humans [People]:
-   - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections)
-   - Module 2: Physiological Processes (e.g., Circulatory/Nervous System)
-   - Module 3: Historical Context & Timeline (Key Achievements)
-   - Module 4: Major Contribution Diagram (Detailed breakdown)
-   - Module 5: Cognitive Process / Psychological Insight
-   - Module 6: Genetic Profile / Evolution
-   - Module 7: Global Influence & Cultural Impact
-   - Module 8: Cultural Representations / Legacy
-
-B. For Animals:
-   - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows)
-   - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style)
-   - Module 3: Digestive & Skeletal System
-   - Module 4: Habitats & Distribution Map (with environmental details)
-   - Module 5: Unique Adaptations (e.g., camouflage, hunting tools)
-   - Module 6: Evolutionary History & Relatives
-   - Module 7: Symbiotic Relationships / Ecosystem Role
-   - Module 8: Conservation Status & Human Interaction
-
-C. For Plants:
-   - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details)
-   - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment)
-   - Module 3: Cellular Structure (Magnified circular views)
-   - Module 4: Medicinal Properties / Practical Applications (as in original original prompt)
-   - Module 5: Environmental Adaptations / Unique Features
-   - Module 6: Distribution Map & Environmental Context
-   - Module 7: Genetic Variations & Cultivation
-   - Module 8: Historical Usage & Folklore
-
-Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.
-
-[主题内容]
 ```
 
 </details>
@@ -325,6 +206,30 @@ Avoid:
 • unrealistic futuristic sci-fi architecture
 • advertisement-heavy compositions
 The final result should resemble a professionally published architectural reference-book page created for architects, interior designers, collectors, luxury home enthusiasts, and educational design archives.
+```
+
+</details>
+
+<a id="nano-banana-levitating-outfit-fashion-editorial-labels"></a>
+### Levitating Outfit Editorial With Callout Labels
+
+<a href="https://x.com/AllaAisling/status/2034382842084708533"><img src="../../previews/nano-banana-levitating-outfit-fashion-editorial-labels.jpg" width="360"></a>
+
+The prompt lists garments in order from footwear up to headwear and gives each fabric its own physics. A fixed label format of uppercase name, italic fabric and one defining detail, plus a three-part light setup of key, warm fill and cool rim, keeps the invisible-body look consistent.
+
+Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2034382842084708533) · 503 likes on 2026-10-28
+
+[`fashion`](tags.md#tag-fashion) [`levitation`](tags.md#tag-levitation) [`editorial`](tags.md#tag-editorial) [`template`](tags.md#tag-template) [`callout-labels`](tags.md#tag-callout-labels)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Prompt Studio: Gravity Fashion Editorial, with Nano Banana 2 in Firefly
+
+Complete [STYLE] outfit floating in its exact worn position around  an invisible body with every piece suspended mid-breath, mid-billow.  LOOK (bottom to top): [FOOTWEAR] → [BOTTOMS] → [TOP] → [LAYER] →  [ACCESSORIES] → [JEWELLERY] → [HEADWEAR]  FABRIC PHYSICS: each material true to its weight, wool hangs,  silk drapes, denim holds its crease, leather keeps its shape.  Every edge lifting slightly as if caught in one silent gust.  LABELS: hairline leader to floating label box. "[GARMENT]" uppercase / "[FABRIC]" italic / "[ONE DEFINING DETAIL]"  LIGHTING: soft directional from upper left + warm fill from below  catching linings and sole edges + cool rim outlining the silhouette. BACKGROUND: [COLOR] seamless, fashion-forward. TITLE: "[LOOK NAME]" elegant serif type, top right. SUBTITLE: "[MOOD / OCCASION]" italic.  Mood: high-concept levitation editorial, the outfit exists,  the person is imagination. 4K, extraordinary fabric fidelity, tack sharp.
+
+Check ALTs for ideas 👇
+@AdobeFirefly
 ```
 
 </details>
@@ -745,59 +650,6 @@ The image must strongly emphasize:
 
 </details>
 
-<a id="nano-banana-strawberry-ice-cream-ingredient-infographic"></a>
-### Strawberry ice cream ingredient and step infographic
-
-<a href="https://x.com/Strength04_X/status/2048303530902265949"><img src="../../previews/nano-banana-strawberry-ice-cream-ingredient-infographic.jpg" width="360"></a>
-
-A centered hero product is ringed by flat icons with curved arrows, and rounded step cards sit on one side. Badges for serving details, a light grey gradient background and a fixed square format keep the layout clean.
-
-Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2048303530902265949) · 319 likes on 2026-10-29
-
-[`infographic`](tags.md#tag-infographic) [`food`](tags.md#tag-food) [`ice-cream`](tags.md#tag-ice-cream) [`product-story`](tags.md#tag-product-story) [`instagram`](tags.md#tag-instagram)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-I built this full ad Using Nano Banana 2 + Kling 3.0 4K on
-@Kling_ai
-
-
-From product shot to ingredient story to final serve
-Everything flows like a real commercial 🍨
-
-No studio ~ no team
-Just vision and execution
-
-Prompt: A modern, clean product infographic featuring a delicious strawberry ice cream at the center of the composition. The ice cream is presented as a beautifully swirled scoop in a glass cup (or wafile cone), showcasing a rich. creamy texture with soft pink tones and visible strawberry bits. Glossy highlights and slight melting edges enhance the fresh, indulgent feel. Fresh strawberries and subtle syrup drizzles add a vibrant, appetizing touch. Background is light grey with soft gradients and gentle shadows for a premium, clean commercial aesthetic.
-
-Surrounding the central ice cream are neatly arranged ingredient and element icons in a minimal flat illustration style: fresh strawberries, sliced strawberries, milk splash, sugar crystals, ice cubes, and a dessert cup icon. Thin curved arrows point from each element toward the ice cream, creating a clean, balanced infographic flow.
-
-On the right side, rounded white step cards with soft shadows display the
-
-process:
-
-1. Select Fresh Strawberries
-
-2. Blend with Cream & Sugar
-
-3. Freeze & Churn
-
-4. Serve Chilled
-
-Each step includes simple illustrations (cutting strawberries, blending mixture, churning ice cream, serving in cup cone) with short, clean text.
-
-At the bottom corner, minimal infographic badges show: serving temperature, freshness level, sweetness level, calories per serving, and serving size.
-
-Minimal Ul design, modern typography, balanced spacing, premium dessert advertising style, creamy texture details, glossy highlights, ultra high resolution, editorial ice cream infographic. Instagram-ready composition.
-
-Aspect Ratio: 1:1
-
-Image Size: 1080 1080 pixels
-```
-
-</details>
-
 <a id="gpt-image-reference-style-educational-infographic-template"></a>
 ### Reference Style Educational Infographic Handbook Page
 
@@ -1044,68 +896,6 @@ Create a high-quality “Female Beauty & Makeup Analysis Guide” infographic ba
 
 </details>
 
-<a id="gpt-image-ai-memory-anime-self-infographic"></a>
-### Anime cartoon infographic about the user, from memory
-
-<a href="https://x.com/icreatelife/status/2047042187683066100"><img src="../../previews/gpt-image-ai-memory-anime-self-infographic.jpg" width="360"></a>
-
-The prompt hands the content to ChatGPT memory, so the model fills in a personal bio, values and hobbies without any details typed in. Naming two formats, infographic and cartoon anime, gets a layout of labeled panels around a character portrait.
-
-GPT Image 2 · Text-to-image · Source: [@icreatelife on X](https://x.com/icreatelife/status/2047042187683066100) · 209 likes on 2026-10-28
-
-[`infographic`](tags.md#tag-infographic) [`anime`](tags.md#tag-anime) [`self-portrait`](tags.md#tag-self-portrait) [`chatgpt-memory`](tags.md#tag-chatgpt-memory) [`personalized`](tags.md#tag-personalized)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ask ChatGPT knowing everything it knows about you to generate an image of yourself with GPT Image 2
-
-prompt: Knowing everything you know about me,  make an infographic of me. Make a cartoon anime style image.
-
-I'd love to see what you got.
-```
-
-</details>
-
-<a id="nano-banana-french-fries-recipe-infographic"></a>
-### French Fries Recipe Infographic with Steps
-
-<a href="https://x.com/Strength04_X/status/2032503970099503191"><img src="../../previews/nano-banana-french-fries-recipe-infographic.jpg" width="360"></a>
-
-The prompt names each section (ingredients, steps, info badges) and gives a hero object with a layout rule for the rest. Style, lighting and output size are stated explicitly.
-
-Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2032503970099503191) · 203 likes on 2026-10-28
-
-[`infographic`](tags.md#tag-infographic) [`recipe`](tags.md#tag-recipe) [`food`](tags.md#tag-food) [`editorial`](tags.md#tag-editorial) [`social-feed`](tags.md#tag-social-feed)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Created with Kling 2.6 AI + Nano Banana 2 on
-@SocialSight
-
-
-And the clarity looks like a real editorial design🍟
-
-Prompt: Ultra-clean modern recipe infographic. Showcase Crispy French Fries in a basket with dipping sauce in angled perspective.
-
-Ingredients Section: Icons for potatoes, oil, salt, spices.
-
-Steps Section: Potato cutting, frying, seasoning shown with numbered panels.
-
-Additional Info: Calories, cook time, servings displayed as badges.
-
-Visual Style: Editorial fast-food infographic with vibrant textures and modern typography.
-
-Composition Guidelines: Fries basket as hero visual with ingredients and steps around it.
-
-Lighting & Background: Warm studio lighting with minimal gradient background.
-
-Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.
-```
-
-</details>
-
 <a id="nano-banana-recipe-infographic-template"></a>
 ### Banana smoothie recipe infographic with numbered steps
 
@@ -1123,36 +913,6 @@ Nano Banana 2 · Text-to-image · Source: [@TechieBySA on X](https://x.com/Techi
 Simply replace [FOOD]:✨
 
 “Ultra-clean modern recipe infographic. Showcase [FOOD] in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1350, ultra-crisp, social-feed optimized”
-```
-
-</details>
-
-<a id="nano-banana-product-assembly-sequence-timeline"></a>
-### Five stage product assembly timeline on black
-
-<a href="https://x.com/AllaAisling/status/2033218108433809587"><img src="../../previews/nano-banana-product-assembly-sequence-timeline.jpg" width="360"></a>
-
-The prompt defines each stage S1 to S5 by assembly state, from scattered parts to a finished product with a ghost wireframe. A fixed 3/4 camera angle, color coded components, dotted trajectory arcs and exact title and footer text keep the sequence readable as one infographic.
-
-Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2033218108433809587) · 161 likes on 2026-10-29
-
-[`assembly-sequence`](tags.md#tag-assembly-sequence) [`exploded-view`](tags.md#tag-exploded-view) [`timeline`](tags.md#tag-timeline) [`industrial`](tags.md#tag-industrial) [`dark-background`](tags.md#tag-dark-background)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Prompt Studio: Product Assembly Sequence with Nano Banana 2 in Firefly
-
-5-stage horizontal manufacturing timeline, frozen mid-assembly. deep matte black background. dramatic industrial spotlights, deep shadow falloff.
-S1: Components scattered, floating, zero assembly.
-S2: Converging with speed lines, skeleton emerging.
-S3: Half-built, peak tension, fasteners mid-tighten.
-S4: Chassis open, full internals exposed.
-S5: Finished product + ghost wireframe overlay.
-Same 3/4 camera angle across all stages. Dotted trajectory arcs connect each component across stages. Each component color-coded consistently.  Title: "PRODUCT NAME - ASSEMBLY SEQUENCE" Footer: "N parts parts · X hrs · KEY SPEC"  Helvetica Neue Light labels. 4K, tack sharp. Dieter Rams precision.
-
-Check ALTs for ideas 👇
-@AdobeFirefly
 ```
 
 </details>
@@ -1192,6 +952,30 @@ Composition Guidelines: Ice cream scoops as hero visual with ingredients and ste
 Lighting & Background: Soft dessert-style lighting with minimal background.
 
 Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+</details>
+
+<a id="nano-banana-glass-vitrine-food-cross-section"></a>
+### Eggs Benedict Cross Section in Glass Vitrine
+
+<a href="https://x.com/AllaAisling/status/2032846968154657147"><img src="../../previews/nano-banana-glass-vitrine-food-cross-section.jpg" width="360"></a>
+
+A fill in the blank template that fixes eye level camera, a plain colour backdrop and engraved glass labels with depth, temperature and method. Naming a reference mood and demanding optically real glass keeps the render from looking like fake 3D.
+
+Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2032846968154657147) · 154 likes on 2026-10-29
+
+[`food`](tags.md#tag-food) [`cross-section`](tags.md#tag-cross-section) [`glass`](tags.md#tag-glass) [`template`](tags.md#tag-template) [`labels`](tags.md#tag-labels)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Prompt Studio: Glass Box Cross Section, with Nano Banana 2 in Firefly
+
+[DISH] sealed inside a flawless glass vitrine, cross-sectioned dead center,  camera locked at exact eye level, pure [COLOR] studio background.  Every internal layer exposed with surgical precision, ingredients stacked  perfectly, sauces at exact depths, condensation fogging the upper glass.  Labels engraved directly on the glass in fine sans-serif: "[INGREDIENT]  [depth]  [temp]  [prep method]" Thin measurement lines. Architectural layer callouts. No floating text.  Dish name engraved on glass base: "[DISH NAME]" Tagline below in italics: "[TAGLINE]"  Mood: Apple product launch meets Michelin kitchen dissection.  Appetizing, precise, craveable. Glass must look optically real, thickness, refraction, edge glow. No fake 3D render look. 4K, tack sharp.
+
+Check ALTs for ideas 👇
+@AdobeFirefly
 ```
 
 </details>
@@ -1509,6 +1293,44 @@ o be visually striking and scroll stopping",
 
 </details>
 
+<a id="gpt-image-100-elements-scene-inventory"></a>
+### Town scene with numbered 100 element list
+
+<a href="https://x.com/umesh_ai/status/2046569229189849228"><img src="../../previews/gpt-image-100-elements-scene-inventory.jpg" width="360"></a>
+
+A fixed element count plus a request to list every item makes the model plan the scene as an inventory. The result is a dense illustrated town under a numbered text list.
+
+GPT Image 2 · Text-to-image · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2046569229189849228) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+
+[`inventory`](tags.md#tag-inventory) [`dense-scene`](tags.md#tag-dense-scene) [`text-list`](tags.md#tag-text-list) [`counting`](tags.md#tag-counting) [`illustration`](tags.md#tag-illustration)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a scene with 100 elements, and list the 100 elements within the image.
+```
+
+</details>
+
+<a id="gpt-image-alphabet-object-grid-a"></a>
+### Ten by ten grid of objects starting with A
+
+<a href="https://x.com/umesh_ai/status/2046510988367945983"><img src="../../previews/gpt-image-alphabet-object-grid-a.jpg" width="360"></a>
+
+A fixed grid size plus a single naming rule gives the model a clear layout and a checkable constraint. Short and open ended, it tests how well the model keeps labels and objects aligned across 100 cells.
+
+GPT Image 2 · Text-to-image · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2046510988367945983) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+
+[`grid`](tags.md#tag-grid) [`alphabet`](tags.md#tag-alphabet) [`objects`](tags.md#tag-objects) [`layout`](tags.md#tag-layout) [`text-rendering`](tags.md#tag-text-rendering)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an image with a 10x10 grid of objects whose names all start with the letter A
+```
+
+</details>
+
 <a id="gpt-image-beard-style-analysis-grooming-poster"></a>
 ### Beard style analysis grooming poster on dark blue
 
@@ -1524,6 +1346,25 @@ GPT Image 2 · Edit · Source: [@RizwanAly07 on X](https://x.com/RizwanAly07/sta
 
 ```text
 Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
+```
+
+</details>
+
+<a id="gpt-image-blue-porcelain-fashion-inspiration-board"></a>
+### Blue Porcelain Bilingual Fashion Inspiration Board
+
+<a href="https://x.com/MrLarus/status/2051943360521228321"><img src="../../previews/gpt-image-blue-porcelain-fashion-inspiration-board.jpg" width="360"></a>
+
+A JSON spec fixes the layout as three columns with exact item counts, exact label text and a locked palette. Each look is described piece by piece, so the board holds together as a single catalog sheet.
+
+GPT Image 2 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/status/2051943360521228321) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`fashion-board`](tags.md#tag-fashion-board) [`bilingual`](tags.md#tag-bilingual) [`porcelain`](tags.md#tag-porcelain) [`layout-spec`](tags.md#tag-layout-spec) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{"type":"bilingual AI fashion inspiration board / museum-artifact-to-outfit styling plan","overall_style":"elegant editorial fashion board on warm ivory paper, deep cobalt blue accents, thin navy divider lines, refined serif typography mixed with Chinese headings, symmetrical decorative blue floral corner ornaments, luxury museum catalog aesthetic, photorealistic outfit models with softly blurred faces, clean product-grid layout","title_text":"{argument name=\"headline text\" default=\"AI服装灵感方案\"}","subtitle_text":"AI Fashion Inspiration Board","inspiration_line":"Inspired by {argument name=\"artifact name\" default=\"元青花・缠枝莲纹梅瓶\"}","top_note":"从色彩、纹样、廓形与材质中提取灵感，转译为3套可穿的服装方案。","color_palette":"{argument name=\"primary palette\" default=\"porcelain white, deep cobalt blue, pale mist blue, warm ivory, silver gray, natural rattan tan\"}","layout":{"canvas":"wide 16:9 landscape board, cream background, thin blue borders, three main columns: inspiration and visual extraction on the left, three full outfit looks in the center, key pieces and notes on the right","sections":[{"title":"灵感来源 / Inspiration Source","position":"upper left","count":6,"contents":["large blue-and-white porcelain meiping vase with scrolling lotus pattern","round swatch labeled 钴蓝发色","round swatch labeled 胎白色","round motif icon labeled 缠枝莲纹","round glossy material swatch labeled 釉面温润","vase silhouette icon labeled 梅瓶廓形"]},{"title":"视觉提取 / Visual Extraction","position":"lower left","count":5,"subsections":[{"name":"色彩规范","count":6,"labels":["深海蓝","浅蓝","靛青","米白","暖白","珐琅蓝"]},{"name":"风格关键词","count":6,"labels":["东方瓷韵","克制浪漫","清雅","都市","温润光泽","可穿高级"]},{"name":"廓形语言","count":6,"labels":["微A字","小廓线","上窄下宽","收腰","长线条","长裙摆"]},{"name":"材质提取","count":5,"labels":["缎面","天丝","陶瓷哑光","丝绸垂坠","轻结构"]},{"name":"细节元素","count":5,"labels":["缠枝莲刺绣","蓝白滚边","釉面光泽","珐琅耳饰","藤编肌理"]}]},{"title":"3-Look Styling Plan","position":"center","count":3,"looks":[{"number":"01","label":"Hero Look / 主视觉","model":"full-body female fashion model, standing in a flowing porcelain-blue-and-white floral wrap maxi dress with V neckline and waist tie, cropped white jacket with cobalt piping, white strappy heels, blue enamel earrings, elegant editorial pose","bullets":["瓷蓝印花裹身长裙","白色小外套","蓝色珐琅耳饰"],"analysis_box":"Look 01 分析：强化瓷器美感，视觉记忆点。"},{"number":"02","label":"Work Look / 上班","model":"full-body female fashion model, standing in navy structured silk blouse tucked into high-waisted warm white straight trousers, slim belt, navy-and-white loafers, dark blue structured handbag, polished office styling","bullets":["深蓝结构感衬衫","米白直筒西裤","蓝白拼色乐福鞋"],"analysis_box":"Look 02 分析：降低花哨感，保留蓝白瓷器结构感。"},{"number":"03","label":"Date Look / 约会","model":"full-body female fashion model, standing in short-sleeve blue-and-white porcelain floral midi tea dress, soft V neckline, fitted waist, white ankle-strap sandals, rattan mini handbag, romantic casual pose","bullets":["蓝白印花茶歇连衣裙","藤编小包","白色细带凉鞋"],"analysis_box":"Look 03 分析：以柔和印花与轻盈廓形营造温柔感。"}]},{"title":"Key Pieces","position":"upper right","count":6,"items":["印花长裙","白色短外套","结构衬衫","米白西裤","藤编小包","珐琅耳饰"]},{"title":"Best For","position":"mid right","count":5,"labels":["通勤","约会","展览","轻社交","城市漫步"]},{"title":"Styling Notes","position":"lower right","count":4,"notes":["高腰线优化比例","蓝白配色统一系列感","材质光泽呼应釉面","配饰完成风格闭环"]}]},"artifact_rendering":"large isolated museum-object illustration of a blue-and-white porcelain meiping vase with dense cobalt scrolling lotus vines, glossy ceramic highlights, placed in a bordered card","models":"three photorealistic adult female models, faces intentionally softly blurred or anonymized, fashion catalog lighting, full-body studio cutouts on pale neutral background","right_product_grid":"two-column grid of six isolated clothing and accessory illustrations matching the three looks: floral dress, white cropped jacket with blue trim, navy blouse, ivory trousers, rattan top-handle mini bag, cobalt blue enamel drop earrings","footer_text":"这套方案并非复制文物图像，而是提取其色彩、纹样、廓形与材质语言，转译为兼具审美表达与场景实穿性的服装提案。","customization_focus":"Generate the board as a complete polished fashion concept sheet inspired by {argument name=\"inspiration object\" default=\"a Yuan dynasty blue-and-white porcelain lotus meiping vase\"}, with exactly three outfit looks and exactly six key pieces, keeping the premium Chinese museum fashion editorial style."}
 ```
 
 </details>
@@ -1552,7 +1393,7 @@ GPT Image 2 · Text-to-image · Source: [@Russell3402 on X](https://x.com/Russel
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="../../previews/gpt-image-cellular-respiration-diagram.jpg" width="360"></a>
 
-Written like a lesson brief: audience, title, required stages and every molecule to label, plus what to avoid. Use high quality for dense labels. Preview: the Sunburst variant.
+Written like a lesson brief that names the audience, the title, the three stages and every molecule to label, then lists what to avoid. The handout framing with a white background and simple icons keeps dense labels legible.
 
 GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
 
@@ -1680,11 +1521,11 @@ GPT Image 2 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/st
 </details>
 
 <a id="gpt-image-coffee-machine-flow-infographic"></a>
-### How an automatic coffee machine works, as an infographic
+### Automatic coffee machine cutaway infographic with color coded flows
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"><img src="../../previews/gpt-image-coffee-machine-flow-infographic.jpg" width="360"></a>
 
-Three plain sentences name the machine, the parts in order and the goal of understanding the flow. The model fills in layout and labels; check the labels for accuracy. Preview: the Sunburst variant.
+Three plain sentences name the machine, list the parts in order and state the goal of understanding the flow, so the model builds a numbered cutaway with color coded paths for beans, water, steam and milk. Check the technical figures in the labels for accuracy.
 
 GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
 
@@ -1734,6 +1575,51 @@ GPT Image 2 · Text-to-image · Source: [@hx831126 on X](https://x.com/hx831126/
 
 ```text
 {"type":"fashion design infographic poster","style":"editorial couture process board, minimalist luxury branding, soft beige monochrome palette, clean white background, fine technical linework, delicate paper texture, elegant serif and small caps typography, bilingual Chinese and English fashion presentation","subject":{"theme":"the full decision chain behind a women's garment from material research to final dress","centerpiece":"a tall front-facing female model wearing an avant-garde deconstructed gown in layered ivory, sand, taupe, and warm beige fabric panels, with semi-transparent pattern pieces, drape fragments, and construction lines floating around the body like an exploded view","model":{"face":"intentionally blurred or obscured","pose":"standing upright, arms relaxed, couture presentation stance"},"garment":{"type":"floor-length sleeveless couture dress","silhouette":"column base with dramatic asymmetrical layered draping, sculptural folds, flared lower panels, and fragmented pattern-like extensions","materials":"matte woven fabric, sheer organza-like overlays, muslin toile textures, paper-pattern aesthetics"}},"layout":{"orientation":"vertical poster","density":"information-dense","sections":[{"title":"一件女装诞生的因果链","position":"top header","count":1,"labels":["THE CAUSAL CHAIN OF A WOMEN'S GARMENT"]},{"title":"面料与材料","position":"upper left","count":6,"labels":["Fiber","Yarn Structure","Fabric Construction","Weight","Drape","Surface Texture"]},{"title":"灵感与企划","position":"left upper-middle","count":6,"labels":["Inspiration Source","Color Direction","Woman Image","Occasion Positioning","Silhouette Intention","Design Sketch"]},{"title":"设计与轮廓","position":"left lower-middle","count":7,"labels":["Drape Sketch","Construction Line","Form Sketch Relationship","Volume Line","Wear Line","Movement Line","Proportion"]},{"title":"中央信息链","position":"center left and center","count":13,"labels":["RAW MATERIAL AND FABRIC","MATERIAL DENSITY FORCE","INSPIRATION BECOMES DIRECTION","SKETCH DECIDES SHAPE","DRAPE PRACTICE SHAPES THE SILHOUETTE","DRAPING & PATTERNMAKING","THE PATTERN SYSTEM","SAMPLE SEWING","FITTING REVEALS TRUTH","REVISED MAKES IT RIGHT","TEAM COLLABORATION","FINAL CONSTRUCTION","COLLABORATION MADE VISIBLE"]},{"title":"打版与立裁","position":"upper right","count":6,"labels":["Pattern Drafting","Panel Line","Balance","Grain Direction","Patternmaking","Draping"]},{"title":"裁剪与样衣","position":"right middle","count":5,"labels":["Cutting","Layout","Sample Sewing","Combination Sequence","Technology Test"]},{"title":"试穿与修正","position":"right lower-middle","count":4,"labels":["Fit test","Before","After","Revision"]},{"title":"团队协作","position":"bottom left","count":8,"labels":["Design Team","Patternmaker","Fabric Table","Fit Model","Design Review","Technical Meeting","Merchandising","QC"]},{"title":"成衣呈现","position":"bottom center","count":5,"labels":["Look","Finished Front & Back","Label & Cm","Packaging","Detail"]},{"title":"最终上身","position":"bottom center-right","count":4,"labels":["Drape","Proportion","Movement in Motion","Close-up"]},{"title":"因果总结","position":"bottom right","count":6,"labels":["Material Base","Aesthetic Judgment","Structural Engineering","Craft Precision","Body Negotiation","All these shape one result"]}],"additional_elements":{"technical_drawings":12,"fabric_swatches":8,"process_photos":23,"mini figure sketches":10,"diagram_arrows":"many thin annotation arrows and numbered callouts connecting process steps to the central garment"}},"text":{"headline_cn":"一件女装诞生的因果链","headline_en":"THE CAUSAL CHAIN OF A WOMEN'S GARMENT","top_right_quote":"A finished garment is visible, collaboration made visible. Every seam preserves a decision.","footer":"A garment exists because of countless decisions."},"color_palette":{"primary":"{argument name=\"primary palette\" default=\"ivory, cream, sand, beige, taupe\"}","background":"warm white","accent":"light gray linework and muted brown text"},"rendering":{"lighting":"soft studio lighting, diffuse and shadow-light","detail_level":"very high","composition":"magazine-quality infographic with the model centered and narrow modular side panels","mood":"intellectual, refined, process-driven, couture atelier"}}
+```
+
+</details>
+
+<a id="gpt-image-croissant-baker-storyboard-infographic"></a>
+### Eight Panel Croissant Baker Storyboard Infographic Poster
+
+<a href="https://x.com/TechieBySA/status/2053523784481554759"><img src="../../previews/gpt-image-croissant-baker-storyboard-infographic.jpg" width="360"></a>
+
+Fixes the layout first with header, legend icons, eight numbered panels and a footer. Each panel names a shot type and action, and the footer lists camera tips and light so the baker and warm palette stay consistent.
+
+GPT Image 2 · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2053523784481554759) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`storyboard`](tags.md#tag-storyboard) [`infographic`](tags.md#tag-infographic) [`pixar-style`](tags.md#tag-pixar-style) [`bakery`](tags.md#tag-bakery) [`16-9`](tags.md#tag-16-9)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a crisp, clean infographic storyboard poster for THE CROISSANT BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — warm golden yellows, rich buttery creams, flaky browns, soft pastry whites, warm French bakery morning light.
+Top header:
+
+THE CROISSANT BAKER
+TOTAL VIDEO TIME: 12 SECONDS
+8 SHOTS · WARM · FLAKY · IRRESISTIBLE
+Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+Thin warm golden accent line running full width beneath header
+
+Same Pixar-style young French male baker throughout: white baker's jacket, flour-dusted hands, warm authentic French boulangerie setting, marble countertop, warm morning light streaming through windows, bread racks in background. Bright, warm, delicious. Every panel a completely different composition and color.
+8 panels:
+
+THE OPENER — Wide shot of baker arriving at the boulangerie before dawn, tying apron, switching on the warm kitchen lights, marble counter visible, bread racks behind, flour dusting the air, full world established, bright and cinematic
+THE BUTTER BLOCK — Baker slams a massive cold block of European butter onto the marble counter with both hands, dramatic impact, flour cloud puffing up, close-up on hands, this is the bones moment — the start of everything
+THE LAMINATION — Baker folding the dough over the butter block precisely, rolling pin pressing down hard, layers building, side angle shot showing the beautiful layering beginning, confident and skilled
+THE ROLL — Dough rolled out into a large thin sheet, baker leaning into the rolling pin with full body weight, marble counter, flour dusting everywhere, wide shot showing the scale of the dough
+THE SHAPE — Triangles cut from the dough, baker rolling each one from the wide end into a tight crescent, hands moving fast and confident, close-up on the shaping, beautiful and precise
+THE EGG WASH — Baker brushing golden egg wash over each shaped croissant with a pastry brush, each one glistening beautifully, close-up overhead angle, warm golden color, stunning composition
+THE OVEN — Croissants slid into the blazing hot oven on a tray, oven door closed, through the oven glass croissants visibly puffing and turning deep golden, layers separating dramatically, warm orange glow
+THE TEAR — Baker pulls a perfect golden croissant from the rack, holds it up, tears it open slowly revealing hundreds of impossibly flaky buttery layers inside, steam escaping, butter glistening — this is the cheese pull moment, the hero shot of the entire video
+
+Footer:
+
+VIDEO FLOW: 8 shots × 1.5s = 12 seconds. Butter block to the tear.
+CAMERA TIPS: wide on opener, close-up on butter slam and shaping, side angle on lamination, overhead on egg wash, oven glass for panel 7, extreme close-up on the tear reveal
+LIGHT & STYLE: warm golden French bakery morning light, buttery cream tones, flour dust in the air, bright vivid Pixar colors, shallow depth of field on close-ups
+BAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamination layers and the final tear are everything — make them stunning.
 ```
 
 </details>
@@ -2328,11 +2214,11 @@ RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm n
 </details>
 
 <a id="gpt-image-market-opportunity-slide"></a>
-### Market opportunity pitch deck slide with real numbers
+### Market opportunity pitch deck slide with TAM SAM SOM
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="../../previews/gpt-image-market-opportunity-slide.jpg" width="360"></a>
 
-Written as a slide spec with the actual numbers, chart type, footnotes and logo slot, plus a list of things to avoid. The figures are sample data; replace them before use. Preview: the Sunburst variant.
+The prompt reads like a slide spec, listing the exact figures, chart types, footnotes and logo slot along with things to avoid, so the model lays out a clean data slide. The numbers are sample data, so replace them before use.
 
 GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
 
@@ -2712,6 +2598,48 @@ Add clean infographic text labels with thin pointer lines using these exact labe
 “Meat”
 “Shell”
 Ultra-detailed food textures, premium commercial aesthetic, 8K.
+```
+
+</details>
+
+<a id="gpt-image-tech-topics-grid-100"></a>
+### Ten by ten grid of technology topics
+
+<a href="https://x.com/chetaslua/status/2046489044243403029"><img src="../../previews/gpt-image-tech-topics-grid-100.jpg" width="360"></a>
+
+Each row gets its own theme, so the grid has a clear structure and the model fills ten distinct tiles per row. Fixed rules for a white background, a short label under every tile and correct spelling keep the dense layout readable.
+
+GPT Image 2 · Text-to-image · Source: [@chetaslua on X](https://x.com/chetaslua/status/2046489044243403029) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+
+[`grid`](tags.md#tag-grid) [`technology`](tags.md#tag-technology) [`editorial-illustration`](tags.md#tag-editorial-illustration) [`labels`](tags.md#tag-labels) [`white-background`](tags.md#tag-white-background)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 10 × 10 grid of 100 different topics representing recent technological progress. Use a realistic, polished editorial illustration style. Each topic should appear in its own square with a short clear label underneath. Keep the grid neat on a white background. Make every topic visually different and every label correctly spelled. Use these row themes: Row 1: AI models and agents Row 2: robotics Row 3: semiconductors and compute Row 4: networks and smart devices Row 5: biotech and health technology Row 6: energy and power systems Row 7: transport and autonomy Row 8: space and aerospace Row 9: manufacturing and materials Row 10: climate and environmental technology. Show each tile as a realistic mini-scene, product-class object, lab instrument, robot, chip, vehicle, or device that clearly conveys the topic. Keep the overall style consistent, modern, realistic, and visually impressive.
+```
+
+</details>
+
+<a id="gpt-image-temple-of-heaven-exploded-view"></a>
+### Temple of Heaven Exploded Architecture Diagram
+
+<a href="https://x.com/TanShilong/status/2046524996013662380"><img src="../../previews/gpt-image-temple-of-heaven-exploded-view.jpg" width="360"></a>
+
+Asking for an exploded view with detailed annotations makes the model separate the building into labeled layers, from base to roof, with side panels for details. Naming a cultural style such as Chinese aesthetic sets the paper tone, ink illustration and calligraphy headings.
+
+GPT Image 2 · Text-to-image · Source: [@TanShilong on X](https://x.com/TanShilong/status/2046524996013662380) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`exploded-view`](tags.md#tag-exploded-view) [`architecture`](tags.md#tag-architecture) [`chinese-style`](tags.md#tag-chinese-style) [`annotated`](tags.md#tag-annotated) [`landmark`](tags.md#tag-landmark)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[中文]
+生成一个天坛的建筑拆解图，有详细的说明，中式美学风格
+
+[English]
+Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
 ```
 
 </details>

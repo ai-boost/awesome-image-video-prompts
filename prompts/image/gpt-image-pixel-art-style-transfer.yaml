@@ -1,7 +1,7 @@
 id: gpt-image-pixel-art-style-transfer
 title:
-  en: Pixel art rider in the style of a reference image
-  zh: 照参考图画风生成像素风摩托骑手
+  en: Pixel art motorcycle rider in a reference style
+  zh: 参考图风格的像素风摩托车骑手
 model: GPT Image 2.5
 mode: image-edit
 category: photo-to-art
@@ -17,7 +17,7 @@ source:
 inputs:
 - https://developers.openai.com/images/platform/guides/image-prompting/pixels.webp
 notes:
-  en: 'The reference image is used for style only, and the new subject is described separately, so the palette and pixel grid carry over without copying the scene. Preview: the Sunburst variant.'
-  zh: 参考图只用来提供画风，新主体另外描述，这样配色和像素颗粒能迁移过来，场景不会被照抄。预览图为 Sunburst 版本。
+  en: The input image sets only the style and the new subject is described separately, so the palette and pixel grid carry over without copying the scene. A plain white background keeps the result usable as a clean sprite.
+  zh: 输入图只提供风格，新主体单独描述，因此配色和像素网格得以沿用而不会照搬原场景。纯白背景让结果可以直接当作干净的精灵图使用。
 prompt: |
   Use the same style from the input image and generate a man riding a motorcycle on a white background.

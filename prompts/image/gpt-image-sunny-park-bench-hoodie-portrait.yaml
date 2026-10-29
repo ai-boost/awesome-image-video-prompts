@@ -1,7 +1,7 @@
 id: gpt-image-sunny-park-bench-hoodie-portrait
 title:
   en: Woman in Gray Hoodie on Park Bench
-  zh: 公园长椅上的灰色卫衣女孩
+  zh: 公园长椅上穿灰色卫衣的女子
 model: GPT Image 2
 mode: image-edit
 category: portrait
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-29'
   posted: '2026-08-02'
 notes:
-  en: Stacks a clear subject, outfit and pose with lens details (85mm, f/1.8) and backlit sunlight through leaves for creamy bokeh. A reference image locks the face and a camera angle line sets the viewpoint.
-  zh: 先写清人物、穿搭和姿势，再叠加85mm、f/1.8镜头参数与透过树叶的逆光来营造奶油虚化。参考图锁定面部，再用一行机位指令控制视角。
+  en: Stacks a clear subject, outfit and pose with lens details such as 85mm and f/1.8, plus sunlight filtering through leaves for creamy bokeh. A reference image line keeps the face consistent.
+  zh: 依次写清人物、穿搭和姿势，再加上85mm与f/1.8等镜头参数，以及透过树叶的阳光，营造柔和的焦外虚化。参考图一行用来保持面部一致。
 prompt: |
   A stunning young woman sitting casually on a wooden park bench in a lush green city park during a bright sunny afternoon, wearing a light gray oversized hoodie and matching sweatpants, clean white sneakers, messy high bun hairstyle with soft face-framing strands, natural makeup, warm gentle smile, looking directly at the camera, one hand touching her hair, relaxed and confident pose with one leg folded on the bench, cinematic lifestyle photography, vibrant flowers, tall green trees, soft sunlight filtering through leaves, shallow depth of field, creamy bokeh, ultra realistic skin texture, high-end fashion editorial, DSLR photography, 85mm lens, f/1.8, natural lighting, HDR, ultra-detailed, photorealistic, 8K, premium quality.
   Same Face as reference image.

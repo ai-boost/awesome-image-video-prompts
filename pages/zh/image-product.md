@@ -1,13 +1,13 @@
 # 产品图与电商
 
-[返回目录](../../README_zh.md) · 全部 27 条
+[返回目录](../../README_zh.md) · 全部 32 条
 
 <a id="gpt-image-iced-coffee-glass-studio-product-photo"></a>
-### 柔和米色影棚背景中的冰咖啡玻璃杯
+### 挂满水珠的玻璃杯中奶咖交融的冰咖啡
 
 <a href="https://x.com/Strength04_X/status/2049082049995362785"><img src="../../previews/gpt-image-iced-coffee-glass-studio-product-photo.jpg" width="360"></a>
 
-提示词逐层写明饮品的视觉要素，包括深色咖啡底、奶泡漩涡、透明冰块和冷凝水珠。再配合柔和影棚光与单反微距质感，把画面推向高级饮品广告风格。
+提示词逐层描述饮品：深色咖啡底、渐变交融的奶纹、折射光线的透明冰块和杯壁水珠。柔和棚拍光线加上单反微距用语，让画面呈现干净的饮品广告质感。
 
 GPT Image 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2049082049995362785) · 617 赞，统计于 2026-10-28
 
@@ -63,26 +63,21 @@ A photorealistic, highly detailed commercial product photograph of a standard al
 
 </details>
 
-<a id="nano-banana-radial-exploded-view-smartphone"></a>
-### 智能手机部件的放射状爆炸分解图
+<a id="nano-banana-playful-character-face-food-packaging"></a>
+### 笑脸角色造型的趣味食品包装设计
 
-<a href="https://x.com/AllaAisling/status/2032126653309030481"><img src="../../previews/nano-banana-radial-exploded-view-smartphone.jpg" width="360"></a>
+<a href="https://x.com/azed_ai/status/2044053391832486350"><img src="../../previews/nano-banana-playful-character-face-food-packaging.jpg" width="360"></a>
 
-提示词按由内向外列出部件，并分别描述玻璃、金属、电路板和橡胶的材质。同时固定了标签字体、三种光源以及标题和参数块的位置，替换占位符即可用于其他产品。
+提示词让包装结构本身构成脸部，开口翻盖或镂空窗成为嘴巴，真实产品填满其中。用产品名占位符、扁平矢量风格、纯白背景和 1:1 比例，让整套结果保持一致。
 
-Nano Banana 2 · 文生图 · 出处: [@AllaAisling on X](https://x.com/AllaAisling/status/2032126653309030481) · 468 赞，统计于 2026-10-28
+Nano Banana 2 · 文生图 · 出处: [@azed_ai on X](https://x.com/azed_ai/status/2044053391832486350) · 280 赞，统计于 2026-10-28
 
-[`exploded-view`](tags.md#tag-exploded-view) [`product-teardown`](tags.md#tag-product-teardown) [`3d-render`](tags.md#tag-3d-render) [`infographic-labels`](tags.md#tag-infographic-labels) [`dark-background`](tags.md#tag-dark-background)
+[`packaging`](tags.md#tag-packaging) [`character-face`](tags.md#tag-character-face) [`flat-vector`](tags.md#tag-flat-vector) [`product-mockup`](tags.md#tag-product-mockup) [`die-cut`](tags.md#tag-die-cut)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Prompt Studio: 3D Radial Explosion with Nano Banana 2 in Firefly
-
-Hyperrealistic 3D radial exploded view of [PRODUCT]  [NUMBER] components  bursting outward from a central axis in every direction, frozen in mid-air.  True spatial explosion, not a vertical stack, depth and parallax visible.  COMPONENTS (core outward): [SHELL] → [DISPLAY] → [FRAME] → [MAINBOARD] →  [BATTERY] → [MICRO PARTS shown in 3x floating callout circles]  MATERIALS: glass refracts and catches specular highlights, aluminium shows  brushed grain and machined edges, PCB traces glow faintly amber,   rubber gaskets matte with micro-texture, cables with soft bend physics.  LABELS: hairline leader to floating box. "[COMPONENT]" uppercase /  "[FUNCTION]" italic / "[KEY SPEC]" monospace. Radiate outward, no overlaps.  LIGHTING: cool diffused overhead + warm amber underlighting on internals +  thin blue rim on outer shell. Displays emit soft UI glow. Circuits self-illuminate.  BACKGROUND: [COLOR], deep, non-reflective. Midnight black recommended. TITLE: "[PRODUCT NAME]" top right. SUBTITLE: "[TAGLINE]".  SPEC BLOCK: "[SPEC 1] / [SPEC 2] / [SPEC 3]" bottom left in monospace.  Mood: iFixit teardown meets NASA manual meets WIRED cover. 4K, tack sharp, extraordinary material fidelity.
-
-Check ALTs for ideas 👇
-@AdobeFirefly
+Playful concept packaging design for [product name], box structure creatively shaped to reflect the product theme, bold illustrated character face integrated across the front panels, the opening flap or die-cut window forms the character’s mouth, teeth or expression, real product visible inside completing the face illusion, clever interaction between packaging mechanics and facial expression, flat vector illustration style, bold graphic lines, high-contrast colors, minimal modern branding, smooth matte cardboard texture, clean structural details, studio product photography, centered composition, pure white background, soft realistic shadow beneath, ultra-detailed, high-end creative packaging mockup, 1:1 aspect ratio.
 ```
 
 </details>
@@ -178,25 +173,6 @@ Background: luxurious [ENVIRONMENT TYPE] with [COLOR TONES], cinematic golden bo
 Lighting: cinematic studio lighting with [LIGHT TEMPERATURE], soft front key light, dramatic rim lighting, subtle backlighting, high-contrast shadows, and rich specular highlights emphasizing the ingredients and coatings.
 
 Composition: centered hero shot, macro food photography, shallow depth of field, premium confectionery advertising campaign, ultra photorealistic textures, luxury magazine quality, hyper detailed, HDR, 8K, masterpiece, aspect ratio 1:1.
-```
-
-</details>
-
-<a id="nano-banana-strawberry-milkshake-product-photo"></a>
-### 粉色影棚背景下的草莓奶昔产品照
-
-<a href="https://x.com/Strength04_X/status/2090665058980462697"><img src="../../previews/nano-banana-strawberry-milkshake-product-photo.jpg" width="360"></a>
-
-提示词逐一写明各层质感（糖浆流痕、奶油、冷凝水珠），并配上单反微距和柔和影棚光的描述。第二条提示词用自上而下的分层清单把同一杯奶昔做成爆炸图信息图，生成的图再作为视频提示词的输入。
-
-Nano Banana 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2090665058980462697) · 140 赞，统计于 2026-10-29
-
-[`food-photography`](tags.md#tag-food-photography) [`beverage`](tags.md#tag-beverage) [`studio-lighting`](tags.md#tag-studio-lighting) [`macro`](tags.md#tag-macro) [`pastel`](tags.md#tag-pastel)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-The milkshake starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, creamy, and controlled with no extra effects.
 ```
 
 </details>
@@ -362,21 +338,27 @@ Additional ripe strawberries are placed around the jar partially resting on the 
 
 </details>
 
-<a id="gpt-image-blue-perfume-corrugated-glass-ad"></a>
-### 波纹玻璃后的天空蓝香水瓶广告
+<a id="nano-banana-ukiyo-cat-human-diorama-food-can"></a>
+### 开罐后升起的江户猫人立体微缩景观
 
-<a href="https://x.com/ShamiWeb3/status/2078074982337515555"><img src="../../previews/gpt-image-blue-perfume-corrugated-glass-ad.jpg" width="360"></a>
+<a href="https://x.com/KanaWorks_AI/status/2072146043551281217"><img src="../../previews/nano-banana-ukiyo-cat-human-diorama-food-can.jpg" width="360"></a>
 
-低角度仰拍让瓶身显得高大，竖纹波纹玻璃为虚化的花卉包装盒带来纵向扭曲。收紧的配色、银色轮廓光，以及绣球花瓣与水珠，用画面传达香调。
+提示词先写出朴素的工业罐头外观，再描述开盖后微缩景观升起的反差，并用具体的浮世绘画家作风格参照，使物体结构清晰、场景统一。
 
-GPT Image 2 · 文生图 · 出处: [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2078074982337515555) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+Nano Banana 2 · 文生图 · 出处: [@KanaWorks_AI on X](https://x.com/KanaWorks_AI/status/2072146043551281217) · 62 赞，统计于 2026-10-29
 
-[`perfume`](tags.md#tag-perfume) [`product-ad`](tags.md#tag-product-ad) [`minimalist`](tags.md#tag-minimalist) [`glass-distortion`](tags.md#tag-glass-distortion) [`blue-palette`](tags.md#tag-blue-palette)
+[`ukiyo-e`](tags.md#tag-ukiyo-e) [`diorama`](tags.md#tag-diorama) [`miniature`](tags.md#tag-miniature) [`cat`](tags.md#tag-cat) [`tin-can`](tags.md#tag-tin-can)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Minimalist product advertisement featuring [{argument name="product" default="the Vanilla & Blues Eau de Parfum 100ml — a round frosted sky-blue glass bottle filled with pale blue liquid, topped with a twisted seashell-shaped cap in matching light blue and a slim silver collar band, "Vanilla & Blues Eau De Parfum" printed on the rounded face"}] shot from a low upward angle so the bottle looms large and slightly tilted, with its matching blue-and-white floral watercolor box positioned softly out of focus behind it, seen through a vertical corrugated glass panel, with [a pale icy-white studio backdrop with a faint cool blue gradient wash] visible behind the object. Use [a palette of powder blue, frosted ice-white, silver, and soft hydrangea lavender-blue], soft directional lighting with a gentle silver rim-light along the cap and glass edge, semi-obscured contours through the corrugated distortion, elongated vertical distortion lines, elegant editorial mood, asymmetrical off-center composition, subtle depth, smooth gradients, polished commercial styling, delicate blue hydrangea petals and fine water droplets suspended mid-air beside the bottle to evoke its [sweet vanilla, soft floral bouquet, and clean powdery musk] notes, and the title "[VANILLA & BLUES]" in refined serif typography arched gently above the bottle's shoulder, vertical 4:5.
+Based on Utagawa Kuniyoshi’s famous ukiyo-e cat-human imagery,
+this is a creatively designed art food can.
+At first glance, it appears to be an ordinary, restrained, and industrial food can.
+But the moment the lid is opened—
+the whimsical half-cat, half-human figures from Kuniyoshi’s ukiyo-e world
+slowly rise from inside the can
+in the form of a miniature diorama landscape.
 ```
 
 </details>
@@ -467,21 +449,45 @@ Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on 
 
 </details>
 
-<a id="gpt-image-geometry-locked-orange-spiral-render"></a>
-### 依据几何参考图渲染的橙色螺旋雕塑棚拍图
+<a id="gpt-image-fictional-itasha-meadow-car"></a>
+### 花草地中的原创痛车与少女
 
-<a href="https://x.com/higgsfield/status/2097514650518831462"><img src="../../previews/gpt-image-geometry-locked-orange-spiral-render.jpg" width="360"></a>
+<a href="https://x.com/ashiwata100/status/2054848942345486704"><img src="../../previews/gpt-image-fictional-itasha-meadow-car.jpg" width="360"></a>
 
-提示词逐项列出要保持不变的几何属性（轮廓、圈数、旋向、螺距、姿态、机位），只允许修改表面和光照。再配合十六进制色值、明确的光源方向和结尾的禁止项清单，让渲染结果干净可控。
+提示词把插画主题对应到不同的车身风格，让造型、材质和贴纸都贴合原图。同时要求所有标志原创，并把角色放在车旁，采用电影感汽车摄影风格。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@higgsfield on X](https://x.com/higgsfield/status/2097514650518831462) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+GPT Image 2 · 上传图改图 · 出处: [@ashiwata100 on X](https://x.com/ashiwata100/status/2054848942345486704) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-[`product-render`](tags.md#tag-product-render) [`geometry-guide`](tags.md#tag-geometry-guide) [`studio-lighting`](tags.md#tag-studio-lighting) [`3d-sculpture`](tags.md#tag-3d-sculpture) [`constraint-list`](tags.md#tag-constraint-list)
+[`itasha`](tags.md#tag-itasha) [`fictional-car`](tags.md#tag-fictional-car) [`anime-photorealism`](tags.md#tag-anime-photorealism) [`automotive`](tags.md#tag-automotive) [`character-vehicle`](tags.md#tag-character-vehicle)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.
+Create an original Japanese itasha vehicle based entirely on the uploaded illustration. Design a fully fictional car and manufacturer naturally born from the artwork’s universe, never resembling real vehicles or brands. The design must adapt to the illustration itself: cute rounded styling for soft fantasy or shrine themes, elegant luxury styling for regal worlds, aggressive mechanical styling for cyberpunk or military themes, sporty styling for energetic characters, mystical styling for magical worlds, or retro-futuristic styling for nostalgic sci-fi. Body shape, proportions, cockpit, wheels, headlights, aero parts, glowing elements, materials, and interior must visually match the illustration’s atmosphere, colors, fashion, architecture, magic, and technology. All decals, logos, symbols, typography, crests, and sponsor-style graphics must be fully original fictional designs inspired only by the illustration. If a character exists, place them naturally beside the vehicle. Cinematic automotive photography, anime-inspired photorealism, masterpiece quality.
+```
+
+</details>
+
+<a id="gpt-image-four-seasons-packaging-campaign-grid"></a>
+### 四季包装宣传图 2x2 宫格
+
+<a href="https://x.com/SRKDAN/status/2048582939504431195"><img src="../../previews/gpt-image-four-seasons-packaging-campaign-grid.jpg" width="360"></a>
+
+提示词按产品、宫格、构图、一致性四个编号阶段拆分。锁定同一产品轮廓，只让每格的色调和道具变化，整组画面保持统一，方括号占位符便于替换复用。
+
+GPT Image 2 · 文生图 · 出处: [@SRKDAN on X](https://x.com/SRKDAN/status/2048582939504431195) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`packaging`](tags.md#tag-packaging) [`seasonal`](tags.md#tag-seasonal) [`grid`](tags.md#tag-grid) [`campaign`](tags.md#tag-campaign) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design
+PHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds
+PHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and environment
+PHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes
+
+Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
 ```
 
 </details>
@@ -501,6 +507,77 @@ GPT Image 2 · 文生图 · 出处: [@Urwa_345 on X](https://x.com/Urwa_345/stat
 
 ```text
 Ultra-realistic professional commercial product photography of a premium glass perfume bottle placed on a polished black marble table inside a luxurious modern hotel lobby. The perfume bottle has a sophisticated transparent glass design, elegant metallic cap, realistic liquid visible inside, subtle condensation droplets, and clean premium packaging. In the background, a large floor-to-ceiling window overlooks a beautiful modern city skyline during golden hour, with warm sunlight naturally entering the room. The bottle is positioned perfectly in the center of the composition with realistic studio-quality reflections on the glass and marble surface. A few delicate white flowers and minimal luxury accessories are arranged naturally around the product without distracting from it. Soft warm sunlight creates realistic highlights along the edges of the bottle while subtle professional fill lighting keeps the product perfectly exposed. Natural shadows, realistic glass refraction, accurate reflections, physically accurate materials, authentic photography imperfections, shallow depth of field, realistic background bokeh, premium beauty campaign aesthetic, high-end commercial photography, shot on a professional full-frame camera with an 85mm lens, natural cinematic color grading, extremely detailed, photorealistic, 8K resolution, sharp product focus, realistic proportions, vertical 9:16 composition, no fantasy elements, no surreal effects, no floating objects, no distorted packaging, no extra text, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-moonlit-anime-chocolate-gift-box-2"></a>
+### 月夜动漫风巧克力礼盒与十颗巧克力
+
+<a href="https://x.com/ArtistaNozomu/status/2055605251525513216"><img src="../../previews/gpt-image-moonlit-anime-chocolate-gift-box-2.jpg" width="360"></a>
+
+提示词按 2 乘 5 网格给十颗巧克力逐一编号并描述,锁定了数量和排布。盒盖文字、配套展示卡和金色加粉彩的配色统一了包装风格,末尾的排除项避免多余巧克力和杂乱字体。
+
+GPT Image 2 · 文生图 · 出处: [@ArtistaNozomu on X](https://x.com/ArtistaNozomu/status/2055605251525513216) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`chocolate-box`](tags.md#tag-chocolate-box) [`packaging`](tags.md#tag-packaging) [`anime`](tags.md#tag-anime) [`luxury`](tags.md#tag-luxury) [`product-photo`](tags.md#tag-product-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium luxury patisserie product photograph of a limited-edition chocolate box inspired by an original anime-style girl character named Nozomu. The box is open on an elegant dark satin tabletop with crystal glassware, soft flowers, scattered sparkles, and a pale satin ribbon, photographed like a real high-end department-store confectionery gift set. The inside lid features a large illustrated package design: a dreamy moonlit night sky with teal-to-navy gradient, crescent moon, hanging gold stars, city skyline silhouettes, ornate gold corner filigree, pale pink and blue flowers, and an anime girl with long dark bluish-black hair with pink highlights, floral hair accessories, and an off-shoulder white ruffled dress; leave the face unobstructed in the generated image unless a privacy-safe blank face placeholder is desired. Add elegant gold Japanese-style branding text on the lid: のぞむ, small romanized text NOZOMU, script subtitle Moonlit Dream, and small uppercase text "CHOCOLATE COLLECTION". In the lower tray, show exactly 10 luxury chocolates in a 2-by-5 grid with gold dividers and black paper cups: 1 glossy sky-blue dome with gold leaf, 2 cream rose-shaped chocolate, 3 faceted pale blue crystal chocolate, 4 dark round chocolate with gold crescent moon and starry night surface, 5 white daisy flower chocolate with gold center, 6 pale blue-white speckled dome, 7 pink flower chocolate with gold center, 8 glossy purple-blue heart chocolate with tiny star speckles, 9 faceted pale blush crystal chocolate with gold flecks, and 10 sky-blue marbled dome with gold constellation lines. Include a matching small display card in front of the box with the same branding text and moon motif. Use soft cinematic lighting, shallow depth of field, realistic reflections, delicate gold foil details, pastel celestial palette, ultra-detailed premium packaging, and a romantic fantasy luxury chocolate aesthetic. Avoid extra chocolates, avoid modern logos, avoid cluttered typography, and keep the box and all 10 chocolates sharply visible.
+```
+
+</details>
+
+<a id="gpt-image-moonlit-anime-chocolate-gift-box"></a>
+### 月夜动漫风巧克力礼盒与十枚手工巧克力
+
+<a href="https://x.com/ArtistaNozomu/status/2055605249147351470"><img src="../../previews/gpt-image-moonlit-anime-chocolate-gift-box.jpg" width="360"></a>
+
+提示词用确切数量和二乘五网格固定布局,再逐枚写明巧克力的形状、颜色和金色点缀,避免模型自由发挥。同时原样给出盒盖与卡片文字,并把产品摄影与动漫插画混合在一起。
+
+GPT Image 2 · 文生图 · 出处: [@ArtistaNozomu on X](https://x.com/ArtistaNozomu/status/2055605249147351470) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`chocolate-box`](tags.md#tag-chocolate-box) [`anime-packaging`](tags.md#tag-anime-packaging) [`product-photography`](tags.md#tag-product-photography) [`celestial`](tags.md#tag-celestial) [`pastel`](tags.md#tag-pastel)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a luxurious square product photo of an open premium chocolate gift box themed around an original anime girl character named Nozomu. The box lid is a custom limited-edition package illustration: a soft, dreamy anime girl with long dark navy-black hair with pale pink highlights, large sparkling eyes, blush cheeks, and small pastel blue and pink flowers tucked in her hair, wearing a white ruffled off-shoulder dress. Behind her is a moonlit night city skyline in teal and navy, a large crescent moon, tiny stars, hanging celestial ornaments, delicate gold filigree corner borders, and scattered cherry blossoms. Include elegant package typography on the lid: Japanese-style title “のぞむ”, small romanization “NOZOMU”, script subtitle “Moonlit Dream”, and “CHOCOLATE COLLECTION”. Inside the box, show exactly 10 artisan chocolates arranged in a 2-by-5 grid in black paper cups with thin gold dividers: 1 glossy blue sphere with gold flakes, 1 cream rose-shaped chocolate, 1 faceted pale blue gem chocolate, 1 dark round chocolate with a gold crescent moon and starry top, 1 white flower chocolate with gold center, 1 pale blue-white sphere with gold speckles, 1 pink flower chocolate with gold center, 1 glossy purple heart chocolate with tiny stars, 1 faceted white crystal chocolate with gold accents, and 1 blue marbled sphere with gold swirls. In front of the box, place a small matching dark navy product card with the same “のぞむ / NOZOMU / Moonlit Dream / CHOCOLATE COLLECTION” branding and crescent motif. Surround the scene with satin fabric, a pale silver ribbon bow, crystal glassware, small flowers, warm fairy lights, and sparkling highlights. Use a high-end romantic confectionery advertisement style, shallow depth of field, soft cinematic lighting, pastel blue pink gold palette, glossy textures, intricate packaging details, elegant and magical atmosphere, ultra-detailed photorealistic product photography mixed with polished anime illustration. Keep all text legible and avoid extra logos or watermarks.
+```
+
+</details>
+
+<a id="gpt-image-noxen-four-dimensions-chronograph-watch-ad"></a>
+### 四种元素世界中的奢华计时腕表广告
+
+<a href="https://x.com/Riya333S/status/2054744217239597125"><img src="../../previews/gpt-image-noxen-four-dimensions-chronograph-watch-ad.jpg" width="360"></a>
+
+固定的 2x2 四宫格加上对同一款腕表的细致描述，让产品在各格保持一致，只替换材质与环境。每格都写明品牌名、字母标志和标语原文，并严格禁止多余文字。
+
+GPT Image 2 · 文生图 · 出处: [@Riya333S on X](https://x.com/Riya333S/status/2054744217239597125) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`watch`](tags.md#tag-watch) [`advertising`](tags.md#tag-advertising) [`four-panel`](tags.md#tag-four-panel) [`luxury`](tags.md#tag-luxury) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Goal: Create a luxury square advertising collage for a futuristic wristwatch brand, showing one premium chronograph watch across four elemental dimensions. Use the brand name NOXEN and the monogram N.
+
+Canvas: Square 1:1 image divided into exactly 4 equal panels in a clean 2x2 grid, separated by thin white divider lines. Each panel is a cinematic product poster with dramatic lighting, high contrast, sharp watch detail, and premium commercial photography realism.
+
+Overall subject: A masculine luxury stainless-steel chronograph wristwatch with integrated metal bracelet, octagonal/rounded bezel with small screws, black dial, three subdials, baton hour markers, central hands, crown and pushers on the right side, and subtle brand text on the dial. The watch should remain recognizable as the same model in all 4 panels while material color and environment change.
+
+Panel count and details: Exactly 4 distinct watch posters:
+1. Top-left panel: matte black watch in a dark smoky void, surrounded by black dust, volcanic ash, floating debris, and mist. Monochrome black-and-charcoal palette with silver highlights. Place the monogram above the brand name near the top center. Add the small tagline ENGINEERED IN DARKNESS near the bottom center.
+2. Top-right panel: polished gold watch surrounded by a dramatic splash of liquid gold, bubbles, and warm amber reflections. Black background with intense golden highlights. Place the monogram above the brand name near the top center. Add the small tagline CRAFTED IN GOLD near the bottom center.
+3. Bottom-left panel: silver steel watch frozen inside a translucent block of cracked blue ice, with frosty mist, icy rock texture, and cold blue lighting. Place a large monogram above the brand name near the bottom center, with the small tagline BUILT BEYOND TIME beneath it.
+4. Bottom-right panel: black and dark steel watch with neon green accents in a cyberpunk futuristic city at night, glowing skyscrapers, circuit-like lines, holographic HUD rings, and emerald light beams. Place a large glowing monogram above the brand name near the top center. Add the small tagline FUTURE. ENGINEERED. near the bottom center.
+
+Typography: Elegant luxury serif or widely spaced uppercase lettering for the brand name, thin uppercase tracking for taglines, centered and minimal. Text must be crisp and legible: brand name appears in all 4 panels, the monogram appears in all 4 panels, and each panel has exactly one tagline as listed.
+
+Visual style: Ultra-realistic high-end watch advertising, macro product photography, cinematic lighting, glossy reflections, deep blacks, premium contrast, sharp metal textures, atmospheric particles, no people, no extra logos, no watermark, no additional text beyond the specified brand, monogram, and four taglines.
 ```
 
 </details>
@@ -534,25 +611,6 @@ Right collection board: Add a large rectangular collection lineup board on the r
 Visual style: Cute Japanese collectible toy aesthetic, realistic miniature figure material, glossy plastic capsules, pastel teal branding, clean merchandising layout, bokeh highlights, soft shadows, premium catalog photography, detailed anime face and hair sculpt, realistic acrylic reflections.
 
 Constraints: Use exactly one main figure on the central base, exactly one lineup board with five variant entries, exactly one left price/collection sign, exactly one brochure, exactly one accessory bag, exactly two open capsule halves, and exactly nine filled capsules in the machine. Keep all text crisp and integrated into the product design. Do not add extra characters, logos, watermarks, or unrelated objects.
-```
-
-</details>
-
-<a id="gpt-image-penguin-figure-packaging-design-sheet"></a>
-### 企鹅造型手办包装结构设计板
-
-<a href="https://x.com/iamaiistudio/status/2059305097897914664"><img src="../../previews/gpt-image-penguin-figure-packaging-design-sheet.jpg" width="360"></a>
-
-以附带图片为基础,要求中央一张主视觉3D渲染,四周环绕多视图、结构草图、毫米尺寸箭头和手写材质标注。写实渲染加铅笔草图的混合风格与速写本背景,让整张图像作品集页面。
-
-GPT Image 2 · 上传图改图 · 出处: [@iamaiistudio on X](https://x.com/iamaiistudio/status/2059305097897914664) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`packaging`](tags.md#tag-packaging) [`industrial-design`](tags.md#tag-industrial-design) [`technical-views`](tags.md#tag-technical-views) [`sketchbook`](tags.md#tag-sketchbook) [`chibi`](tags.md#tag-chibi)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Using the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.
 ```
 
 </details>
@@ -592,11 +650,11 @@ GPT Image 2 · 文生图 · 出处: [@xpg0970 on X](https://x.com/xpg0970/status
 </details>
 
 <a id="gpt-image-product-cutout-transparent"></a>
-### 产品抠图，透明背景
+### 透明背景产品抠图
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"><img src="../../previews/gpt-image-product-cutout-transparent.jpg" width="360"></a>
 
-要求轮廓干净无白边、形状和标签原样保留，并禁止背景和画出来的棋盘格。输出用 PNG 或 WebP，并设 background=transparent。预览图为 Sunburst 版本。
+要求轮廓清晰无光晕，几何形状与标签文字完全保留，并禁止背景、画出来的棋盘格和阴影，保证透明通道干净。导出时选择 PNG 或 WebP 并将背景设为透明。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
 
@@ -610,6 +668,78 @@ Output: centered product, crisp silhouette, no halos/fringing.
 Preserve product geometry and label legibility exactly.
 Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
 Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-saint-baroque-black-gold-potato-chips-bag"></a>
+### 黑金巴洛克圣人薯片包装袋
+
+<a href="https://x.com/ashiwata100/status/2054486550550061072"><img src="../../previews/gpt-image-saint-baroque-black-gold-potato-chips-bag.jpg" width="360"></a>
+
+提示词把每个元素对应到包装袋上的具体区域(丝带、肖像、徽章、横幅),并给出每处的日文原文。芯片、碗、辣椒的精确数量加上约束行,让版面保持稳定。
+
+GPT Image 2 · 文生图 · 出处: [@ashiwata100 on X](https://x.com/ashiwata100/status/2054486550550061072) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`packaging`](tags.md#tag-packaging) [`mockup`](tags.md#tag-mockup) [`baroque`](tags.md#tag-baroque) [`black-and-gold`](tags.md#tag-black-and-gold) [`japanese-text`](tags.md#tag-japanese-text)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Goal: Create a premium Japanese potato chips package mockup inspired by a dark Catholic/European saint painting, using a black glossy snack bag with ornate gold typography and luxury limited-edition branding.
+
+Canvas: Front-facing vertical product package, centered on a clean white background, realistic crinkled plastic potato chip bag with serrated sealed edges at top and bottom. Use a tall 3:4 composition, slightly rounded pillow-pack shape, glossy black material with strong highlights and folds.
+
+Layout: At the very top center place a refined gold brand mark with a small crown and decorative flourishes reading San Ignacio, with small katakana beneath it. Under that, add a short Japanese tagline in small white-gold text. Across the upper middle, place a very large embossed metallic-gold Japanese product title reading ポテトチップス. In the upper-left corner, add one vertical gold ribbon label reading 期間限定. The central-left area contains a framed religious oil-painting style portrait of Saint Ignatius in a black robe, halo, smoky clouds, and glowing sacred heart; place a neutral blurred rectangular mask over the face. The right middle contains a circular gold ornamental flavor badge with Japanese text reading 聖イグナチオの スパイシー 黒胡椒味. The lower-left has one circular laurel badge reading "国産じゃがいも 100% 使用". The lower center foreground contains exactly 3 large golden ridged potato chips overlapping each other. The lower-right foreground contains exactly 1 small bowl filled with black peppercorns, plus exactly 2 red chili peppers and sprigs of green herbs. Along the bottom-left background, add a dark silhouette of a European church or cathedral at sunset. At the very bottom center, add one gold ribbon banner reading イエズス会の精神を、味わいに込めて。, and add tiny disclaimer-style Japanese text at bottom right.
+
+Visual style: Ultra-realistic commercial packaging design, luxury black-and-gold palette, embossed foil lettering, Baroque religious ornament, fine gold filigree borders, dramatic chiaroscuro lighting, realistic chip texture with black pepper speckles, premium limited-edition snack branding. Keep all text integrated onto the bag surface with perspective and plastic wrinkles.
+
+Constraints: Show exactly 1 product bag, 1 left ribbon label, 1 central saint portrait, 1 right circular flavor badge, 1 lower-left 100% badge, 3 visible potato chips, 1 peppercorn bowl, 2 red chili peppers, and 1 bottom banner. Do not add hands, people outside the illustration, extra packages, watermarks, or English replacement text for the Japanese package copy.
+```
+
+</details>
+
+<a id="gpt-image-satirical-ai-hater-action-figure-packaging"></a>
+### 讽刺风AI黑粉手办玩具包装
+
+<a href="https://x.com/Artedeingenio/status/2046550068140937575"><img src="../../previews/gpt-image-satirical-ai-hater-action-figure-packaging.jpg" width="360"></a>
+
+用JSON结构写明每个标签的文字、各区块位置和物品数量，让包装上的文字清晰可读。再配合指定配色、吸塑包装材质描述和正面棚拍构图，让整个零售包装样机保持统一。
+
+GPT Image 2 · 文生图 · 出处: [@Artedeingenio on X](https://x.com/Artedeingenio/status/2046550068140937575) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`action-figure`](tags.md#tag-action-figure) [`packaging-mockup`](tags.md#tag-packaging-mockup) [`parody`](tags.md#tag-parody) [`toy-box`](tags.md#tag-toy-box) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{"type":"satirical collectible action figure packaging illustration","style":"retro toy blister pack mockup with gritty streetwear design, distressed cardboard backing, bold comic-style typography, highly legible packaging text, humorous anti-AI culture parody","subject":{"product_name":"AI HATER","product_type":"action figure","theme":"skeptical anti-hype tech critic parody toy","age_label":"AGES 14+","warning_label":{"title":"WARNING:","text":"MAY CAUSE PRODUCTIVITY AND ORIGINAL THOUGHT."},"burst_badge":"100% ORGANIC SKEPTICISM"},"figure":{"count":1,"appearance":"stylized male action figure with intentionally obscured face, standing with arms crossed inside blister packaging","outfit_count":5,"outfit_pieces":["black cap with white text 'THINK FOR YOURSELF'","black hoodie with white text 'CTRL+ COMMON SENSE'","blue distressed jeans with ripped knees and a side chain","black-and-white low-top sneakers","dark undershirt peeking from the hoodie"]},"layout":{"packaging_style":"vertical retail toy box with clear plastic blister window","sections":[{"title":"includes","position":"left-middle pink badge","count":1,"labels":["0 FAITH IN HYPE"]},{"title":"ACCESSORIES","position":"upper-right","count":5,"labels":["black mug reading 'HUMAN TEARS (FUEL)'","spiral notepad reading 'THINGS AI STILL CAN'T DO:' with 4 checklist items: 'BE FUNNY', 'HAVE SOUL', 'LOVE DOGS', 'GET SARCASM'","device reading 'TOUCH GRASS MODE' with a green 'ON' button","grumpy gray-and-white cat figure","sign on wooden stake reading 'PROMPT BETTER. BRO.'"]},{"title":"EXTRA HEADS","position":"mid-right lower than accessories","count":3,"labels":["extra head 1 with obscured face","extra head 2 with obscured face","extra head 3 with obscured face"]},{"title":"BONUS ITEMS","position":"bottom-right","count":3,"labels":["spray can reading 'BULLSHIT DETECTOR SPRAY' with small text 'APPLY DIRECTLY TO PROJECT'","pink brain labeled 'LAST WORKING BRAIN CELL'","metal trash can labeled 'AI SLOP'"]},{"title":"COLLECT THEM ALL!","position":"bottom center strip","count":5,"labels":["DOOMSCROLLER","CRYPTO BRO","INFLUENCER","CORPORATE NPC","YOU?"]},{"title":"mission","position":"bottom-right pink note","count":1,"labels":["KEEP HUMANITY FROM BECOMING BORING."]}]} ,"extra_graphics":{"count":2,"labels":["small illustrated portrait of the character in lower-left corner holding a speech bubble that says 'CRITICAL THINKING IS MY SUPERPOWER.'","black banner under title reading 'NOT ANTI-TECH. ANTI-BS.'"]},"color_palette":{"cardboard":"aged beige with grime and scuffs","accent_colors_count":3,"accent_colors":["hot pink","black","warning yellow"]},"composition":"front-facing product shot, centered figure on left half, accessories arranged in molded compartments on right half, bottom strip of collectible silhouettes, realistic toy packaging reflections and shadows, clean studio lighting"}
+```
+
+</details>
+
+<a id="gpt-image-shampoo-highway-billboard"></a>
+### 日落高速公路上的洗发水广告牌样机
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="../../previews/gpt-image-shampoo-highway-billboard.jpg" width="360"></a>
+
+把产品放到路边广告牌上，并把文案锁定为逐字原文，同时指定字体排版，要求文字只出现一次。禁止水印和标志，让广告画面干净且不带品牌。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
+
+[`billboard`](tags.md#tag-billboard) [`product`](tags.md#tag-product) [`text-render`](tags.md#tag-text-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
 ```
 
 </details>
@@ -637,11 +767,11 @@ Do not add copy, placeholder text, English text, garbled characters, QR codes, w
 </details>
 
 <a id="gpt-image-toy-airplane-collectible-box"></a>
-### 节日限定玩具飞机收藏版包装
+### 圣诞吸塑包装中的复古玩具飞机
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="../../previews/gpt-image-toy-airplane-collectible-box.jpg" width="360"></a>
 
-用产品摄影的说法写材质、灯光和标签印刷，要求原创设计，包装文字逐字固定。预览图为 Sunburst 版本。
+高端玩具摄影的提示词控制塑料与旧漆质感、棚拍光线和标签印刷效果。将包装文字锁定为一句原文，使字体清晰且设计保持原创。
 
 GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
 

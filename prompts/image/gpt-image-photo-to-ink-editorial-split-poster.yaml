@@ -4,7 +4,7 @@ title:
   zh: 照片与黑色墨线插画上下分割海报
 model: GPT Image 2.5
 mode: image-edit
-category: poster
+category: photo-to-art
 tags:
 - editorial
 - split-layout

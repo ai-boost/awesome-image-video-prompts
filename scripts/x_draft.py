@@ -32,12 +32,14 @@ RULES = """You are the editor of awesome-image-video-prompts, a curated list of 
 Look at the thumbnail with the Read tool first: {thumb}
 
 Reject the candidate when any of these hold:
-- the image shows a real, recognisable public figure or celebrity
+- the prompt names, or the image clearly is, a real public figure or celebrity (a passing resemblance is fine)
 - a brand logo, product or trademark is the subject (incidental background signage is fine)
 - a copyrighted character, film still, anime or game character is the subject
-- sexual or fetish content, lingerie or swimwear focus, minors in any suggestive context
-- the prompt is not a usable prompt (an ad, a teaser without the prompt, a comparison without the text)
+- explicit nudity or sex acts, or minors in any suggestive context (sexy, suggestive, lingerie or swimwear looks are fine)
+- the prompt is not a usable prompt (an ad, a teaser, truncated, a half filled template, only a negative prompt)
 - the prompt tells the user to bypass a safety or face-detection system
+- the output contradicts the prompt (different text, subject or style than the prompt asks for)
+- quality: the output is clearly broken (garbled text, broken anatomy, muddy); a simple prompt is fine when the output is good
 
 Otherwise accept and write, in the house style:
 - id: short kebab-case slug starting with "{prefix}-"
@@ -76,7 +78,7 @@ def ask(c):
                         cat_line=f"- category: one of {', '.join(IMAGE_CATS)}" if c["kind"] == "image" else "",
                         cat_key=', "category": "..."' if c["kind"] == "image" else "",
                         model=c["model"], post=c["post_text"][:1500], prompt=c["prompt"][:6000])
-    out = subprocess.run(["claude", "-p", "--model", "sonnet", "--allowedTools", "Read", "--output-format", "text"],
+    out = subprocess.run(["claude", "-p", "--model", "opus", "--allowedTools", "Read", "--output-format", "text"],
                          input=text, capture_output=True, text=True, timeout=600).stdout
     m = re.search(r"\{.*\}", out, re.S)
     return json.loads(m.group(0)) if m else {"accept": False, "reason": "no answer"}

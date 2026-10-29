@@ -19,8 +19,8 @@ source:
   captured: '2026-10-29'
   posted: '2026-05-09'
 notes:
-  en: The prompt splits the sheet into named zones (elevation, axonometric, plans, material callouts) and sets a separate render quality, atmosphere and paper texture block for each. Naming style references and a restrained charcoal palette keeps the drafting lines and the photoreal render in one consistent board.
-  zh: 提示词把图板拆成命名分区（立面、轴测、平面、材料标注），并为渲染质感、氛围和纸张底纹分别设块。写明风格参照并限定炭灰配色，让制图线条和写实渲染统一在同一张展板里。
+  en: The prompt maps every zone of the sheet, from elevations and axonometrics to plans and material callouts, then adds shared blocks for render quality, stormy atmosphere and charcoal paper texture. Named architect references and a restrained palette with amber highlights hold the drafting lines and photoreal renders together as one board.
+  zh: 提示词先逐一安排展板各区域，包括立面、轴测、平面和材料标注，再用统一的段落设定渲染质量、风暴氛围和炭灰纸张质感。点名建筑师风格参考，加上克制的配色和琥珀色点缀，让线稿与写实渲染融为一体。
 prompt: |
   Ultra-realistic architectural competition presentation board, portrait A1 layout, 4K resolution, mixed media visualization
 

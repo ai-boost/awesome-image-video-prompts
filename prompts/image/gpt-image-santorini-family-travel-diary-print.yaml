@@ -1,7 +1,7 @@
 id: gpt-image-santorini-family-travel-diary-print
 title:
-  en: Santorini family travel diary, photo above print
-  zh: 圣托里尼家庭旅行日记，上照片下版画
+  en: Santorini family travel diary with photo over risograph print
+  zh: 圣托里尼家庭旅行日记 照片叠印孔版版画
 model: GPT Image 2.5
 mode: text-to-image
 category: poster
@@ -19,7 +19,7 @@ source:
   posted: '2026-09-11'
   via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
 notes:
-  en: A torn paper transition splits one scene into a natural photo and a navy, terracotta and ivory risograph reinterpretation of the same family. Quoting the exact text lines and listing negatives like rigid half split and excessive stickers keeps the layout controlled.
-  zh: 撕纸边缘把同一场景分成写实照片和藏青、赤陶、象牙白的孔版印刷重绘，并要求保持人物一致。逐条列出要添加的文字，再用否定项限制死板对半分和过多贴纸，版面更可控。
+  en: A torn paper transition splits one scene into a natural sunset photo above and a navy, terracotta and ivory risograph version of the same family below. Asking for consistent identities across both halves makes the print read as a retelling of the photo.
+  zh: 撕纸过渡把同一场景分成两半，上方是自然的日落照片，下方是同一家人的藏青、赤陶与象牙色孔版印刷版本。要求上下两部分人物身份一致，让版画读起来像是照片的重新讲述。
 prompt: |
   Design a vertical 4:5 Santorini travel diary. Above, show a fictional couple kissing their smiling daughter’s cheeks at sunset, among white houses, blue domes and sea. Use natural photographic skin and hands. Below a torn-paper transition, reinterpret the same family as a navy, terracotta and ivory screen print with rough ink and risograph texture. Keep identities consistent. Add only “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS” and “A SMALL DIARY — #001.” Use sparse stamps and taped photos. No Chinese text, rigid half split, excessive stickers or distorted anatomy.

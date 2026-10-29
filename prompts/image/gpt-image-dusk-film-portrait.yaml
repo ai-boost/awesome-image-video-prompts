@@ -1,7 +1,7 @@
 id: gpt-image-dusk-film-portrait
 title:
-  en: Low-angle dusk portrait with film grain
-  zh: 黄昏低角度人像，胶片颗粒
+  en: Low angle dusk portrait with front flash and film grain
+  zh: 黄昏低角度闪光灯胶片颗粒人像
 model: GPT Image 2.5
 mode: text-to-image
 category: portrait
@@ -17,7 +17,7 @@ source:
   captured: '2026-10-27'
   posted: '2026-09-30'
 notes:
-  en: Under 600 characters. Camera angle, clothing detail, one light source, one film look.
-  zh: 不到 600 字：一个机位、一处服装细节、一个光源、一种胶片感。
+  en: A direct front flash against a deep blue dusk sky lifts the subject off a dark background, and the low camera angle with silhouetted branches gives the frame its candid snapshot feel. Spelling out the exact shirt text lets the model render the graphic cleanly.
+  zh: 正面直闪配合深蓝色黄昏天空，把人物从暗背景中提亮，低机位加上剪影树枝带来随手抓拍的感觉。明确写出衣服上的文字，模型就能把图案字样清晰渲染出来。
 prompt: |
   A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.

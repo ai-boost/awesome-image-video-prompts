@@ -1,7 +1,7 @@
 id: gpt-image-golden-thread-travel-poster-template
 title:
-  en: Realistic city skyline becoming ink sketch on ivory paper
-  zh: 写实城市天际线经金线化为象牙纸水墨小景
+  en: Golden thread links city photo to ink sketch poster
+  zh: 金线串联城市实景与水墨速写的旅行海报
 model: GPT Image 2.5
 mode: text-to-image
 category: poster
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-09-30'
 notes:
-  en: A single golden thread links a cinematic upper photo to a small ink illustration on ivory paper, which holds the two halves together. Bracketed placeholders let one template cover any destination, and the avoid list blocks split screen rigidity and clutter.
-  zh: 一根金线把上半部电影感实景与下方象牙纸上的小幅水墨插画连成一体，避免画面割裂。方括号占位符让同一模板适用于任何目的地，并用避免清单排除拼贴感与杂乱。
+  en: One golden thread grows from a landmark in the cinematic upper photo down into a small ink drawing on ivory paper, so the two styles read as one picture instead of a split screen. Change the destination in the placeholders or the final line; the sample shown was made for Shanghai.
+  zh: 一根金线从上方电影感实景中的地标延伸到下方象牙纸上的小幅水墨插画，让两种风格连成一幅画面，而不是生硬的分屏。替换占位符或最后一行的目的地即可，示例图生成的是上海。
 prompt: |
   Create a premium 4:5 vertical conceptual travel-art poster for [COUNTRY / CITY / LOCATION / SUBJECT].
 

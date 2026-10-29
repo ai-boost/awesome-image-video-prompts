@@ -1,7 +1,7 @@
 id: gpt-image-landmark-sketch-travel-poster
 title:
-  en: Istanbul landmark sketch travel poster in red ink
-  zh: 红色墨线风格的伊斯坦布尔地标旅行海报
+  en: Hagia Sophia ink sketch travel poster with red sun
+  zh: 圣索菲亚大教堂墨线素描旅行海报配红日
 model: GPT Image 2.5
 mode: text-to-image
 category: poster
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-09-19'
 notes:
-  en: A fill in the blank template swaps in the landmark, city and coordinates while fixed style terms keep the look consistent. Ivory paper, hatching, halftone, geometric shapes and a 4:5 ratio give the print feel.
-  zh: 填空式模板只需替换地标、城市和坐标，固定的风格词保证画面统一。象牙色纸面、排线、网点、几何形状和 4:5 比例共同造出版画质感。
+  en: A fill in the blank template swaps in the landmark, city and coordinates, while fixed style terms like ivory paper, hatching, halftone and geometric circles keep every print consistent. Side typography and wide negative space make it read as a premium travel art print.
+  zh: 填空式模板只需替换地标、城市和坐标，象牙色纸张、排线、网点和几何圆形等固定风格词让每张海报保持统一。侧边小字排版和大面积留白让画面像一张高级旅行艺术版画。
 prompt: |
   A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.
 

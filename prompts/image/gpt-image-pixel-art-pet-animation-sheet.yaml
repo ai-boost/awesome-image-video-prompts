@@ -1,7 +1,7 @@
 id: gpt-image-pixel-art-pet-animation-sheet
 title:
-  en: Pixel art border collie idle animation sprite sheet
-  zh: 像素风边牧待机动画精灵图
+  en: Pixel art pet idle animation from a reference photo
+  zh: 基于参考照片的像素风宠物待机动画
 model: GPT Image 2.5
 mode: image-edit
 category: character
@@ -19,8 +19,8 @@ source:
   posted: '2026-09-09'
   via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
 notes:
-  en: Locks the pet's species, markings and anatomy from a reference image. It then fixes the sheet at a 4 by 4 grid of 256 pixel cells with a set anchor, padding and transparency, so the 16 frames loop cleanly. It also limits motion to species-appropriate breathing, one secondary movement and an optional blink.
-  zh: 以参考图锁定宠物的物种、花色与身体结构，再规定 4 乘 4 的 256 像素网格、固定锚点、留白与透明背景，让 16 帧循环自然。动作限定为符合物种的呼吸、一个次要动作和可选眨眼。
+  en: Locks the pet's species, markings and anatomy from the reference, then fixes a 4 by 4 grid of 256 pixel cells with a set anchor and transparent padding so the 16 frames loop without jitter. Motion is limited to breathing, one secondary movement and an optional blink suited to the species.
+  zh: 先从参考图锁定宠物的物种、花色和身体结构，再规定4乘4网格、每格256像素、固定锚点和透明留白，让16帧循环播放不抖动。动作只限呼吸、一个次要动作和按物种决定的眨眼。
 prompt: |
   Turn the pet in my uploaded reference image into an adorable pixel-art sprite with a subtle, seamless looping animation.
 

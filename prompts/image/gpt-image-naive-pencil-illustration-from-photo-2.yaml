@@ -1,7 +1,7 @@
 id: gpt-image-naive-pencil-illustration-from-photo-2
 title:
   en: Classroom girl in headphones as colored pencil illustration
-  zh: 戴耳机的课堂少女彩铅插画
+  zh: 戴耳机的教室女孩彩铅插画
 model: GPT Image 2.5
 mode: image-edit
 category: photo-to-art
@@ -19,7 +19,7 @@ source:
   captured: '2026-10-28'
   posted: '2026-10-27'
 notes:
-  en: Names the target style (naive, minimalist, uneven outlines, flat colors, decorative pencil strokes) and bans shadows, gradients and 3D effects. The designer poster and colored pencil references set the finish.
-  zh: 先点明朴拙极简的风格（不规则轮廓、平涂色块、装饰性铅笔线条），再明确禁用阴影、渐变和3D效果，最后用设计师海报与彩铅的参照定下质感。
+  en: The colored pencil and designer poster references do most of the work, giving visible hatched strokes and warm paper texture across the whole scene. The model keeps the sunlight and shadows from the photo even though the prompt asks for flat color.
+  zh: 彩色铅笔和设计师海报这两个参考决定了效果，让整个画面呈现清晰的排线笔触和温暖的纸张质感。尽管提示词要求平涂，模型仍保留了原照片的阳光和阴影。
 prompt: |
   Turn this photo into a contemporary, artist-made naïve illustration: minimalist and hand-drawn, with playful proportions, uneven outlines, flat colors that are soft yet contrasting, and decorative pencil strokes. No shadows, gradients, or 3D effects. Give it the feel of a high-end designer poster drawn with colored pencils. Keep it cute and cartoon-like.

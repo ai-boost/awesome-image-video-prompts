@@ -1,66 +1,13 @@
 # Collage
 
-[Back to the list](../../README.md) · All 59 entries
-
-<a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
-### Gym selfie surrounded by chibi mini selves
-
-<a href="https://x.com/Ciri_ai/status/2050094437821513896"><img src="../../previews/gpt-image-gym-selfie-chibi-minis-doodles.jpg" width="360"></a>
-
-The prompt first locks the original photo as unchanged, then lists each mini self with its own gym action so every figure stays distinct. A scrapbook doodle style in white and pink ink with a quoted list of handwritten phrases ties the overlay together.
-
-GPT Image 2 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2050094437821513896) · 3,471 likes on 2026-10-29
-
-[`chibi`](tags.md#tag-chibi) [`scrapbook`](tags.md#tag-scrapbook) [`doodle`](tags.md#tag-doodle) [`gym`](tags.md#tag-gym) [`selfie`](tags.md#tag-selfie)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-GPT Image 2 on Chatgpt
-
-Prompt: Edit the image while keeping the original photo completely unchanged — including the person, face, body, pose, lighting, and gym background.
-
-Add multiple small, cute chibi-style “mini versions” of her around the image. Each mini character should have a big head, expressive facial features, and match her hairstyle and outfit.
-
-Depict each mini version doing different gym-related activities:
-
-one cheering with arms raised
-
-one running in running shoes
-
-one drinking from a shaker bottle
-
-one wearing sporty running glasses
-
-one climbing near her leg
-
-Enhance the image with playful, hand-drawn doodles and handwritten notes in white and pink ink, in a scrapbook style. Include elements like arrows, stars, hearts, sparkles, and sketchy lines.
-
-Add cute, handwritten gym-themed motivational phrases:
-
-“lift strong”
-
-“stronger every rep”
-
-“no pain no gain”
-
-“sweat now, shine later”
-
-“progress over perfection”
-
-“train hard, stay soft”
-
-The overall vibe should feel fun, energetic, and feminine.
-```
-
-</details>
+[Back to the list](../../README.md) · All 47 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
-### Nine failed photos of any character
+### Nine accidental phone snapshots of any character
 
 <a href="https://x.com/DeepBlueX0/status/2099481521983995971"><img src="../../previews/gpt-image-failed-photos-grid.jpg" width="360"></a>
 
-Seven words. The author's point: fewer restrictions give more authentic-looking mistakes.
+Asking for failed photos in a 3x3 grid makes the model invent motion blur, finger occlusion, awkward crops and mid blink faces, so the set reads like a real camera roll. Swap the character placeholder to reuse the template.
 
 GPT Image 2.5 · Text-to-image · Source: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2099481521983995971) · 2,646 likes on 2026-10-27
 
@@ -152,31 +99,6 @@ GPT Image 2 · Edit · Source: [@im_shahid7 on X](https://x.com/im_shahid7/statu
 
 ```text
 Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features. Chibi characters have various poses and expressions:￼jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
-```
-
-</details>
-
-<a id="gpt-image-doodle-sticker-portrait-chibi-minis"></a>
-### Photo portrait with white doodles and chibi minis
-
-<a href="https://x.com/oggii_0/status/2051542057211310356"><img src="../../previews/gpt-image-doodle-sticker-portrait-chibi-minis.jpg" width="360"></a>
-
-Lists the doodle elements one by one (sparkles, hearts, arrows, swirls) and caps the caption count to avoid clutter. It locks the original face and background, then adds 3D chibi copies in varied poses with a sticker outline and a pastel palette.
-
-GPT Image 2 · Edit · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2051542057211310356) · 395 likes on 2026-10-29
-
-[`doodle`](tags.md#tag-doodle) [`chibi`](tags.md#tag-chibi) [`sticker-outline`](tags.md#tag-sticker-outline) [`handwriting`](tags.md#tag-handwriting) [`pastel`](tags.md#tag-pastel)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-GPT Image 2 on Chatgpt
-
-Prompt: Add hand-drawn doodle elements around the main objects: * white outline strokes * sketchy sparkles * stars * hearts * arrows * tiny flowers * playful swirls * mini handwritten notes Add small cute mascot-style doodles that match the vibe of the photo (tiny bear, smiling drink, cute food character, sleepy cloud, etc.) but keep them subtle and balanced. Use handwritten white text with short relatable captions only.
-
-Do NOT add too many words or overcrowd the image.Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features.Chibi characters have various poses and expressions: jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions.
-
-Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," "gym time," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.
 ```
 
 </details>
@@ -302,6 +224,41 @@ Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofa
 
 </details>
 
+<a id="nano-banana-real-rock-ink-cartoon-boy-composite"></a>
+### Ink Cartoon Boy Carrying a Real Rock
+
+<a href="https://x.com/ShamsAmin56/status/2061689192661307402"><img src="../../previews/nano-banana-real-rock-ink-cartoon-boy-composite.jpg" width="360"></a>
+
+A template with placeholders for a real object and the part of the drawing it replaces, so the photo and the line art complete one visual pun. Pairing a photorealistic object with bold black line art on a white background keeps the blend clean.
+
+Nano Banana 2 · Text-to-image · Source: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2061689192661307402) · 321 likes on 2026-10-28
+
+[`composite`](tags.md#tag-composite) [`line-art`](tags.md#tag-line-art) [`visual-pun`](tags.md#tag-visual-pun) [`template`](tags.md#tag-template) [`white-background`](tags.md#tag-white-background)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Creative composite photograph, 9:16 vertical aspect ratio, clean minimalist white background, studio lighting, high detail, sharp focus.
+
+A real-life [EVERYDAY OBJECT] is physically placed and perfectly integrated as a key part of a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading, like a quick sketch on paper.
+
+The [OBJECT] represents [CLEVER PART OF THE SCENE - e.g. hair, weapon, body part, clothing, etc.], cleverly completing the visual pun or concept. The cartoon character interacts dynamically with the object in a humorous, meaningful, or surprising way.
+
+Photorealistic object + bold black line drawing style, perfect seamless blend between real object and illustration, clean negative space, artistic and witty concept, high quality product photography mixed with doodle art.
+
+• How to edit super easy
+
+Just replace the placeholders:
+
+[EVERYDAY OBJECT] → what real thing you'll use (tomato,
+onion, chips, etc.)
+
+[CLEVER PART OF THE SCENE] → what the object becomes in the drawing
+Then customize the character and concept
+```
+
+</details>
+
 <a id="gpt-image-nine-panel-doodle-kitchen-diary-collage"></a>
 ### Nine panel kitchen diary collage with doodles
 
@@ -348,57 +305,6 @@ Middle Row: Left photo is a close-up where she leans forward and holds out her w
 Bottom Row: Left photo captures her in a joyful jumping pose with arms out; middle photo shows her mid-air in a floating star-jump pose; right photo is a seated close-up looking down at the camera while making a peace sign close to the lens.
 
 The overall style is a crisp, bright, hyper-realistic, fashion-forward digital photograph with vibrant color saturation and clean, sharp lighting.
-```
-
-</details>
-
-<a id="gpt-image-cafe-photo-watercolor-scrapbook-layout"></a>
-### Cafe Photo Turned Into Watercolor Scrapbook Layout
-
-<a href="https://x.com/MahnoorAi12/status/2102368459388801390"><img src="../../previews/gpt-image-cafe-photo-watercolor-scrapbook-layout.jpg" width="360"></a>
-
-A strict identity lock on the face reference keeps the person consistent, while separate reference images carry only the outfit, pose and mood. The layout is specified as a list of paper, watercolor edge, cutout and caption area details, which gives the scrapbook finish with plenty of negative space.
-
-GPT Image 2.5 · Edit · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2102368459388801390) · 240 likes on 2026-10-28
-
-[`scrapbook`](tags.md#tag-scrapbook) [`watercolor`](tags.md#tag-watercolor) [`cafe`](tags.md#tag-cafe) [`editorial`](tags.md#tag-editorial) [`face-reference`](tags.md#tag-face-reference)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the uploaded face reference image ONLY as the identity reference for the woman.
-
-STRICT FACE IDENTITY LOCK:
-Preserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person.
-
-Use the provided reference images as visual inspiration for the overall composition, photography style, outfit, pose, environment, color palette, and aesthetic, but do NOT copy their facial identity.
-
-Create a photorealistic lifestyle editorial photograph with a soft Japanese/Korean-inspired café and everyday-luxury aesthetic.
-
-The woman is naturally enjoying a quiet café moment with coffee and dessert. Elegant understated styling, soft neutral tones, natural daylight, subtle film grain, warm muted colors, realistic skin texture, delicate details, candid editorial photography.
-
-Outfit should be feminine and sophisticated with a minimalist vintage-inspired feel. Add tasteful accessories such as a small structured handbag, delicate jewelry, and elegant shoes where appropriate.
-
-Composition should feel like a genuine lifestyle photograph rather than an AI-generated portrait. Natural body proportions, realistic hands and fingers, authentic fabric texture, realistic lighting and shadows.
-
-Create the final image as a refined editorial scrapbook-style photograph:
-- warm ivory/beige paper-inspired background
-- softly isolated central subject
-- subtle hand-painted/watercolor edges around the photograph
-- slightly imperfect organic cutout effect
-- delicate vintage paper texture
-- minimal elegant typography area underneath
-- calm nostalgic mood
-- sophisticated feminine aesthetic
-- lots of clean negative space
-
-IMPORTANT:
-The face reference controls ONLY the woman's identity.
-The scene/reference images control the visual concept.
-Do not merge or copy another person's face.
-Keep the woman's identity consistent and recognizable throughout the entire image.
-
-High-resolution photography, natural lighting, realistic skin texture, detailed clothing, realistic hands, authentic shadows, premium editorial composition, subtle analog film texture, soft focus falloff, photorealistic.
 ```
 
 </details>
@@ -493,34 +399,6 @@ GPT Image 2.5 · Edit · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/s
 Ultra-realistic 6-photo collage (3×2 grid) of the same person using client photo for identity only (exact face, facial features, eye color, natural hair color/length/volume/texture). Plain light grey-blue wall background, black thin-strap camisole, minimal jewelry, Canon PowerShot G7X Mark III strong direct flash, hard shadows, sharp focus, natural skin texture, slight film grain.
 
 Instagram photo dump aesthetic. Six unique expressions/poses: (1) soft smile, hands on cheeks, (2) wink, big smile, hand in hair, (3) eyes closed, tongue slightly out, both hands lifting hair, (4) confident side glance, hand under chin, (5) laughing, looking away, hair flipped, (6) dreamy look, hand touching hair. Different hair positions in every frame. No AI look, no distorted hands, no extra fingers. --ar 3:4
-```
-
-</details>
-
-<a id="gpt-image-snowy-mountain-suv-roof-dance-shot-grid"></a>
-### Woman dancing on SUV roof in snowy mountains
-
-<a href="https://x.com/itxabdullaa/status/2067464091476853121"><img src="../../previews/gpt-image-snowy-mountain-suv-roof-dance-shot-grid.jpg" width="360"></a>
-
-One prompt fixes the subject, outfit, action, setting and mood, then a labeled breakdown lists subject, action, setting, object and cinematography. The result reads as a nine shot coverage sheet from wide establishing to close-up, with the same cool grade and overcast light throughout.
-
-GPT Image 2 · Text-to-image · Source: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2067464091476853121) · 188 likes on 2026-10-28
-
-[`cinematic`](tags.md#tag-cinematic) [`shot-grid`](tags.md#tag-shot-grid) [`snow-mountain`](tags.md#tag-snow-mountain) [`dance`](tags.md#tag-dance) [`lifestyle`](tags.md#tag-lifestyle)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-To get the best result if you are tweaking this for a specific tool, consider these key elements captured in the video:
-
-Subject: Woman, long dark hair, wearing a New York Yankees cap, grey cropped knit sweater, matching grey sweatpants.
-
-Action: Rhythmic, slow, fluid dancing.
-Setting: High-altitude, snowy mountain landscape, epic scenery.
-
-Object: Standing on the roof of a dark grey modern SUV.
-
-Cinematography: Wide-angle, cinematic lifestyle photography, cool color grading, moody daylight.
 ```
 
 </details>
@@ -1004,203 +882,6 @@ The overall result should feel like a real couple accidentally created the perfe
 
 </details>
 
-<a id="gpt-image-food-photo-ingredient-sketchbook-poster"></a>
-### Pizza photo above hand-drawn ingredient sketchbook
-
-<a href="https://x.com/Goodmanprotocol/status/2108555814604812483"><img src="../../previews/gpt-image-food-photo-ingredient-sketchbook-poster.jpg" width="360"></a>
-
-The prompt splits the canvas into a realistic food photo on top and a gouache ingredient sheet below, with a hard horizontal divider and a fixed height ratio. A small dish illustration in the center, arrows and numbered specimens give the lower half a field-note structure, and a long avoid list keeps it uncluttered.
-
-GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2108555814604812483) · 67 likes on 2026-10-28
-
-[`food`](tags.md#tag-food) [`poster`](tags.md#tag-poster) [`editorial`](tags.md#tag-editorial) [`sketchbook`](tags.md#tag-sketchbook) [`split-layout`](tags.md#tag-split-layout)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].
-
-TEXT-TO-IMAGE ONLY.
-Generate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any reference image or existing photograph. Automatically identify the dish’s authentic appearance, ingredients, textures, and cultural identity.
-
-CORE CONCEPT:
-Create one elegant travel-food editorial poster combining realistic food photography in the upper section with a handmade ingredient-observation sketchbook in the lower section. Feature ONE recognizable plate or bowl containing a single dish, with at least three visually distinct ingredients.
-
-UPPER SECTION — REALISTIC FOOD PHOTOGRAPHY:
-Occupy approximately 48% of the canvas height. Create a beautifully composed, authentic photographic view of the specified local dish, preserving believable ingredient textures, natural lighting, realistic proportions, and culturally accurate presentation. Use subtle food-magazine color grading and extremely light film grain. Keep the entire plate or bowl visible.
-
-SECTION DIVIDER:
-Separate both sections with a straight, clean horizontal boundary. A very thin warm-ivory paper strip is optional. No gradients, blending, or elements crossing the divider.
-
-LOWER SECTION — INGREDIENT OBSERVATION SHEET:
-Use warm ivory drawing paper with visible fibers, fine grain, faint smudges, and subtle handmade irregularities. Create a sparse, asymmetrical food-field-note composition rather than repeating the full photographic dish.
-
-Place ONE small, simplified but recognizable illustration of the complete dish near the center. Keep it secondary and compact, occupying approximately one-third of the lower section’s width.
-
-Around it, illustrate 3–6 individually selected ingredients inferred from the dish. Use small watercolor specimens, cut-surface studies, herb sketches, grain clusters, sauce swatches, or distinctive ingredient shapes. Arrange them at varied sizes and angles with generous breathing room.
-
-DRAWING STYLE:
-Matte gouache, delicate black-ink outlines, slightly hesitant hand-drawn strokes, dry-brush gaps, uneven pigment coverage, soft watercolor edges, visible paper texture, and restrained natural colors. Keep ingredients recognizable without excessive detail. Add a few fine arrows and small handwritten numbers connecting specimens to the miniature dish.
-
-TYPOGRAPHY:
-Use minimal, understated editorial annotations only when helpful. Short ingredient names or tiny handwritten notes are acceptable. Keep all text small and secondary; avoid unnecessary titles or decorative lettering.
-
-COLOR PALETTE:
-Derive the colors naturally from the dish, balanced by warm cream, muted earth tones, and subtle ink details.
-
-FINAL AESTHETIC:
-Authentic local food photography × handmade ingredient studies × refined travel-food editorial × collectible culinary field notebook.
-
-AVOID:
-Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessive garnish, crowded layouts, gradients, bleeding transitions, glossy digital painting, flat vector infographics, 3D rendering, commercial menu styling, excessive text, logos, watermarks, and interface elements.
-
-FORMAT:
-3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
-```
-
-</details>
-
-<a id="gpt-image-photo-booth-couple-migrating-contact-sheet"></a>
-### Photo booth story where a couple gradually merges
-
-<a href="https://x.com/frametheory058/status/2100583390806442370"><img src="../../previews/gpt-image-photo-booth-couple-migrating-contact-sheet.jpg" width="360"></a>
-
-A row by row storyboard fixes each frame's position and emotion, so the man crosses the divider and leaves the right column empty. A strict identity lock plus explicit bans on duplicated people keep both faces consistent.
-
-GPT Image 2.5 · Text-to-image · Source: [@frametheory058 on X](https://x.com/frametheory058/status/2100583390806442370) · 64 likes on 2026-10-28
-
-[`photo-booth`](tags.md#tag-photo-booth) [`contact-sheet`](tags.md#tag-contact-sheet) [`couple`](tags.md#tag-couple) [`storyboard`](tags.md#tag-storyboard) [`film-grain`](tags.md#tag-film-grain)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an ultra-photorealistic vertical romantic photo-booth contact-sheet collage, 2 columns × 5 rows, showing ONE continuous visual story involving the exact same young adult couple throughout.
-
-CORE VISUAL IDEA:
-The two columns are not ten unrelated photos. They represent two separate adjacent photo-booth spaces. The young woman begins entirely inside the LEFT column and the young man begins entirely inside the RIGHT column. As the rows move downward, the man gradually leaves his own frame and physically moves into the woman’s frame. His original RIGHT frame therefore becomes progressively emptier. This visual migration is the central concept and MUST remain logically consistent.
-
-CHARACTERS:
-A very cute young adult East Asian couple, approximately 20–23 years old, both clearly adults.
-
-GIRL:
-Naturally adorable Korean-looking young woman, soft youthful facial features, expressive dark-brown eyes, realistic fair skin with visible pores and subtle natural texture, slightly rosy cheeks, dark-brown hair in a loose messy bun with wispy strands around her face. Oversized black knitted sweater. Minimal natural makeup. Sweet, shy, playful personality.
-
-BOY:
-Cute Korean-looking young man, youthful but clearly adult, soft masculine facial features, warm dark eyes, naturally messy fluffy dark hair, realistic skin texture. Light-grey oversized hoodie over a simple white T-shirt. Gentle, slightly shy personality.
-
-STRICT IDENTITY LOCK:
-The SAME woman and SAME man must appear in every row. Identical faces, hairstyle, clothing, skin tone and proportions throughout. No face drift, no hairstyle changes, no outfit changes.
-
-STORYBOARD:
-
-ROW 1 — TWO STRANGERS
-LEFT: girl alone, chest-up portrait, casually looking toward the right edge as though she has noticed someone.
-RIGHT: boy completely visible and centered in his own frame, facing camera naturally.
-They are physically separated by the vertical black divider.
-Small handwritten text:
-LEFT: “just a girl… ♡”
-RIGHT: “just a guy…”
-
-ROW 2 — THEY NOTICE EACH OTHER
-LEFT: girl turns her eyes and face toward him with a tiny restrained smile.
-RIGHT: boy turns toward the girl, leaning slightly toward the LEFT boundary for the first time.
-He is still mostly inside his own frame.
-Text:
-LEFT: “who noticed something”
-RIGHT: “…and looked twice ♡”
-
-ROW 3 — CROSSING THE LINE
-This is the important transition.
-The boy has moved substantially LEFT and is now entering the girl’s frame across the central divider. The couple are close together, looking directly at each other and smiling naturally.
-His RIGHT frame must now contain noticeably more empty background because he has physically moved away from it.
-Do NOT duplicate him.
-Text:
-LEFT: “then we smiled ♡”
-RIGHT empty area: “and suddenly it made sense”
-
-ROW 4 — HE HAS LEFT HIS FRAME
-The boy is now almost COMPLETELY inside the LEFT frame with the girl.
-They share one soft, natural kiss, photographed candidly rather than dramatically.
-Only a tiny portion of his shoulder/body may intersect the central border.
-The RIGHT frame is approximately 85–90% EMPTY — just clean studio background.
-This empty frame is intentional and visually important.
-Text:
-LEFT: “same weird thoughts ♡”
-RIGHT empty frame: “different chaos ♡”
-
-ROW 5 — FINAL PAYOFF
-The boy has now COMPLETELY abandoned his original right-hand frame.
-Both characters are entirely together inside the LEFT frame.
-Instead of another kiss, create an irresistibly cute candid moment: he hugs her tightly from behind while giving her a small forehead/temple kiss; she scrunches her cheeks slightly, closes her eyes and smiles naturally.
-Their body language should feel spontaneous, warm and genuinely affectionate.
-RIGHT frame must be COMPLETELY EMPTY except for:
-“more stories ♡”
-
-Text in left:
-“same people…”
-
-IMPORTANT:
-Never place a second copy of either character in the right frame after the man moves left.
-Never repeat the kissing image across both columns.
-The empty space tells the story.
-
-DESIGN:
-Minimal premium analog contact-sheet aesthetic inspired by an old 35mm film proof sheet, but make the composition completely original.
-
-Warm off-white / soft beige seamless studio background.
-Deep black film borders.
-Thin slightly imperfect frame separators.
-Tiny amber film-number markings and subtle sprocket details along outer edges.
-Very subtle authentic analog grain, dust and microscopic scratches.
-Small pieces of aged masking tape.
-A few torn-paper notes.
-Tiny hand-drawn hearts.
-Small dried flowers near one bottom corner.
-Only a handful of decorations — never clutter the photographs.
-
-Margin notes:
-“Good people, good times ♡”
-“You + Me Always ♡”
-“Collect moments, not things ♡”
-
-BOTTOM HERO MESSAGE:
-Place a torn warm-ivory paper strip across the lower border with handwritten text:
-
-“you + me = a better kind of chaos ♡”
-
-PHOTOGRAPHY:
-100% believable real-human photography.
-Premium editorial photo-booth portraits shot on a full-frame camera with approximately 50–85mm portrait-lens character.
-Soft warm studio key light, subtle fill, realistic shadow falloff.
-Natural skin pores, peach fuzz, individual hair strands, realistic knitted fabric and hoodie texture.
-Slightly imperfect candid expressions.
-Warm cinematic color grade with creamy highlights, rich blacks and subtle analog grain.
-Faces remain sharp while retaining natural photographic softness.
-
-The first row should feel slightly awkward and separated.
-Every subsequent row becomes visually warmer and physically closer.
-The final row should provide the strongest emotional payoff.
-
-NO CGI.
-NO illustration.
-NO anime.
-NO plastic skin.
-NO excessive beauty retouching.
-NO duplicated people.
-NO extra fingers or limbs.
-NO random additional characters.
-NO identity changes.
-NO duplicated poses.
-NO repeated kiss.
-NO decorative overload.
-NO characters appearing inside intentionally empty right-side frames.
-
-FINAL FEEL:
-A photograph someone would instantly stop scrolling to understand — first they notice two separate people, then realize the man is literally disappearing from his own frames because he is moving into hers. Cute, clever, romantic, nostalgic, highly polished and visually understandable even before reading the handwritten text.
-```
-
-</details>
-
 <a id="gpt-image-morning-diaries-travel-scrapbook-poster"></a>
 ### Morning Diaries travel scrapbook poster from photo
 
@@ -1216,68 +897,6 @@ GPT Image 2.5 · Edit · Source: [@Aqsahere_ on X](https://x.com/Aqsahere_/statu
 
 ```text
 Create a high-end morning editorial scrapbook poster from the uploaded photo. Transform the sunset scene into a fresh early-morning atmosphere with soft golden morning sunlight, clear blue sky, fluffy white clouds, crisp green mountains, and bright wildflowers. Keep the woman’s appearance, outfit, pose, facial features, hair, pink bucket hat, pink T-shirt, dark jacket tied around her waist, and overall identity consistent. Design it as a sophisticated travel-journal collage with torn cream paper, Polaroid frames, subtle washi tape, film-strip details, pressed daisies, delicate botanical sketches, handwritten notes, and vintage paper textures. Use the main photo prominently in the center with several smaller snapshots showing different natural angles from the same scene. Add elegant editorial typography reading “MORNING Diaries”, with small phrases such as “clear skies · brighter days”, “same places, different mornings”, and “good views, good mood”. Keep the palette soft and refined: sky blue, fresh green, warm cream, pale pink, and subtle beige. Make it feel like a premium independent travel magazine mixed with a personal morning diary—artistic, airy, nostalgic, natural, and beautifully composed, not like an advertisement. Strict 3:4 vertical composition, realistic photography blended seamlessly with refined scrapbook elements.
-```
-
-</details>
-
-<a id="gpt-image-cartoon-mural-portrait-yellow-streetwear"></a>
-### Cartoon mural portrait behind yellow streetwear photo
-
-<a href="https://x.com/Techbyhani/status/2102715195454074956"><img src="../../previews/gpt-image-cartoon-mural-portrait-yellow-streetwear.jpg" width="360"></a>
-
-Labelled EXACT sections for concept, subject, outfit, background, lighting, color grade and camera keep the layered composite under control. An identity lock paragraph tied to a reference photo keeps the real face stable while the background copy stays stylized.
-
-GPT Image 2.5 · Edit · Source: [@Techbyhani on X](https://x.com/Techbyhani/status/2102715195454074956) · 59 likes on 2026-10-28
-
-[`graffiti-wall`](tags.md#tag-graffiti-wall) [`streetwear`](tags.md#tag-streetwear) [`cartoon-overlay`](tags.md#tag-cartoon-overlay) [`identity-lock`](tags.md#tag-identity-lock) [`yellow`](tags.md#tag-yellow)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Cartoon Ghost Portrait + Sharp Streetwear Photo (Graffiti Wall)
-
-CONCEPT — EXACT: A layered composite — a massive stylized cartoon/anime-style illustrated portrait fills the background against a vibrant graffiti-covered concrete wall, and a smaller sharp full-color photorealistic full-body portrait of the same woman stands in the foreground.
-
-BACKGROUND CARTOON PORTRAIT — EXACT: Large flat-shaded anime/webtoon-style illustrated portrait, head tilted slightly, long straight dark hair falling past the waist, white rectangular sunglasses, glossy red lips, wearing an oversized yellow graphic t-shirt with a small "NY" logo patch and white sleeve stripes, rendered in clean cel-shaded illustration style with bold outlines, blended into the graffiti wall so it reads as a mural-style painting.
-
-MAIN SUBJECT — FOREGROUND — EXACT: Full-body standing pose, hands tucked into the pockets of oversized cargo pants, head tilted slightly, calm confident expression, white rectangular sunglasses, long dark wavy hair with subtle highlights, thin silver necklace, small stud earrings, silver bracelet.
-
-MAIN SUBJECT IDENTITY LOCK: Foreground photorealistic face must match the reference photo exactly — same jaw width, cheek fullness, eyebrow shape, eye shape/color, nose bridge, and lip shape. The background cartoon portrait may be stylized as illustrated art but should echo the same facial features and hairstyle.
-
-BODY: Fair skin tone, slim build, relaxed confident standing posture.
-
-OUTFIT: Oversized yellow crew-neck t-shirt with a small "NY" logo patch on the chest and white sleeve-cuff stripes, matching yellow cargo pants with multiple pockets and a drawstring waist, white sneakers, thin silver necklace, silver bracelet.
-
-BACKGROUND/ENVIRONMENT — EXACT: A concrete wall densely covered in colorful graffiti street art — bold red, blue, orange, and yellow spray-paint shapes, splatter marks, and abstract tag lettering, a white vertical drainpipe running along the right edge, a strip of bright blue sky visible in the upper-right corner, plain grey concrete pavement beneath the subject's feet.
-
-LIGHTING — EXACT: Bright natural daylight throughout, strong directional sunlight casting a defined shadow on the pavement, vivid clear outdoor lighting on the foreground figure.
-
-COLOR GRADE — EXACT: Vivid saturated yellow dominant throughout both the outfit and the illustrated background portrait, bold multicolor graffiti tones providing contrast, natural warm skin tone on the photorealistic figure, clean vibrant streetwear-editorial color grading.
-
-CAMERA: Shot on 35mm lens, natural street-level framing, sharp photorealistic focus on the foreground figure, background cartoon portrait cleanly illustrated with flat shading and bold linework.
-
-Ultra photorealistic — zero AI artifacts, no watermark.
-
-IMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity of the photorealistic foreground figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture, and feminine proportions exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, or replace my face with a random celebrity or model face in the foreground portrait. Identity preservation is the highest priority for the photorealistic figure.
-```
-
-</details>
-
-<a id="gpt-image-scrapbook-collage-identity-reference"></a>
-### Warm scrapbook collage of one person in frames
-
-<a href="https://x.com/Adnan_Ai2/status/2103431738349502591"><img src="../../previews/gpt-image-scrapbook-collage-identity-reference.jpg" width="360"></a>
-
-Names the reference identity and fixed clothing so they hold across every frame. A large central portrait is surrounded by six frames, each with its own action. The prompt then lists the handwritten doodle phrases, a warm beige wall and lighting, and closes with anatomy negatives.
-
-GPT Image 2.5 · Edit · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/status/2103431738349502591) · 57 likes on 2026-10-28
-
-[`scrapbook`](tags.md#tag-scrapbook) [`collage`](tags.md#tag-collage) [`identity-consistency`](tags.md#tag-identity-consistency) [`doodle`](tags.md#tag-doodle) [`lifestyle`](tags.md#tag-lifestyle)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create the same warm scrapbook-style collage, but featuring the exact same boy from the reference image. Keep his facial identity, short brown hair, light beard, dark navy jacket, white T-shirt, light blue jeans and white sneakers consistent in every frame. Place a large central portrait of him sitting casually and smiling on a cozy sofa, surrounded by six rustic wooden picture frames showing different actions: waving hello, drinking coffee from a “Good Vibes” mug, giving a thumbs-up, thinking with one hand on his chin, smiling confidently, and looking back over his shoulder. Use the same warm beige textured wall, cozy indoor background, plants, soft lamps and natural lifestyle atmosphere. Add hand-drawn black doodles, hearts and stars with handwritten phrases such as “Smile More,” “Just Being Me,” “Coffee Time,” “Work Hard Dream Big,” “Spread Love,” “Good Vibes Only,” “You Got This,” and “Same Boy Bigger Dreams.” Maintain consistent identity across every frame, realistic hands, natural expressions, detailed hair and clothing, warm cinematic lighting, professional photography, clean composition, ultra-realistic 4K, no distorted anatomy, no extra fingers or duplicated body parts.
 ```
 
 </details>
@@ -1346,25 +965,6 @@ Photorealistic, crystal-clear, beautifully composed, irresistibly cute, premium 
 
 </details>
 
-<a id="gpt-image-alphabet-object-grid-a"></a>
-### Ten by ten grid of objects starting with A
-
-<a href="https://x.com/umesh_ai/status/2046510988367945983"><img src="../../previews/gpt-image-alphabet-object-grid-a.jpg" width="360"></a>
-
-A fixed grid size plus a single naming rule gives the model a clear layout and a checkable constraint. Short and open ended, it tests how well the model keeps labels and objects aligned across 100 cells.
-
-GPT Image 2 · Text-to-image · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2046510988367945983) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-[`grid`](tags.md#tag-grid) [`alphabet`](tags.md#tag-alphabet) [`objects`](tags.md#tag-objects) [`layout`](tags.md#tag-layout) [`text-rendering`](tags.md#tag-text-rendering)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an image with a 10x10 grid of objects whose names all start with the letter A
-```
-
-</details>
-
 <a id="gpt-image-anime-candid-snapshot-grid-nine-panels"></a>
 ### Nine candid anime snapshots of one character
 
@@ -1397,25 +997,6 @@ Panel Content Instructions:
 9. Bottom Right: Rear view of character walking along a sidewalk next to a fence.
 
 Constraints: Maintain consistent character design (hair color, outfit details like the oversized dark hoodie/sweater and shorts) across all panels. Ensure high variety in composition and mood.
-```
-
-</details>
-
-<a id="gpt-image-blue-porcelain-fashion-inspiration-board"></a>
-### Blue Porcelain Bilingual Fashion Inspiration Board
-
-<a href="https://x.com/MrLarus/status/2051943360521228321"><img src="../../previews/gpt-image-blue-porcelain-fashion-inspiration-board.jpg" width="360"></a>
-
-A JSON spec fixes the layout as three columns with exact item counts, exact label text and a locked palette. Each look is described piece by piece, so the board holds together as a single catalog sheet.
-
-GPT Image 2 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/status/2051943360521228321) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`fashion-board`](tags.md#tag-fashion-board) [`bilingual`](tags.md#tag-bilingual) [`porcelain`](tags.md#tag-porcelain) [`layout-spec`](tags.md#tag-layout-spec) [`json-prompt`](tags.md#tag-json-prompt)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{"type":"bilingual AI fashion inspiration board / museum-artifact-to-outfit styling plan","overall_style":"elegant editorial fashion board on warm ivory paper, deep cobalt blue accents, thin navy divider lines, refined serif typography mixed with Chinese headings, symmetrical decorative blue floral corner ornaments, luxury museum catalog aesthetic, photorealistic outfit models with softly blurred faces, clean product-grid layout","title_text":"{argument name=\"headline text\" default=\"AI服装灵感方案\"}","subtitle_text":"AI Fashion Inspiration Board","inspiration_line":"Inspired by {argument name=\"artifact name\" default=\"元青花・缠枝莲纹梅瓶\"}","top_note":"从色彩、纹样、廓形与材质中提取灵感，转译为3套可穿的服装方案。","color_palette":"{argument name=\"primary palette\" default=\"porcelain white, deep cobalt blue, pale mist blue, warm ivory, silver gray, natural rattan tan\"}","layout":{"canvas":"wide 16:9 landscape board, cream background, thin blue borders, three main columns: inspiration and visual extraction on the left, three full outfit looks in the center, key pieces and notes on the right","sections":[{"title":"灵感来源 / Inspiration Source","position":"upper left","count":6,"contents":["large blue-and-white porcelain meiping vase with scrolling lotus pattern","round swatch labeled 钴蓝发色","round swatch labeled 胎白色","round motif icon labeled 缠枝莲纹","round glossy material swatch labeled 釉面温润","vase silhouette icon labeled 梅瓶廓形"]},{"title":"视觉提取 / Visual Extraction","position":"lower left","count":5,"subsections":[{"name":"色彩规范","count":6,"labels":["深海蓝","浅蓝","靛青","米白","暖白","珐琅蓝"]},{"name":"风格关键词","count":6,"labels":["东方瓷韵","克制浪漫","清雅","都市","温润光泽","可穿高级"]},{"name":"廓形语言","count":6,"labels":["微A字","小廓线","上窄下宽","收腰","长线条","长裙摆"]},{"name":"材质提取","count":5,"labels":["缎面","天丝","陶瓷哑光","丝绸垂坠","轻结构"]},{"name":"细节元素","count":5,"labels":["缠枝莲刺绣","蓝白滚边","釉面光泽","珐琅耳饰","藤编肌理"]}]},{"title":"3-Look Styling Plan","position":"center","count":3,"looks":[{"number":"01","label":"Hero Look / 主视觉","model":"full-body female fashion model, standing in a flowing porcelain-blue-and-white floral wrap maxi dress with V neckline and waist tie, cropped white jacket with cobalt piping, white strappy heels, blue enamel earrings, elegant editorial pose","bullets":["瓷蓝印花裹身长裙","白色小外套","蓝色珐琅耳饰"],"analysis_box":"Look 01 分析：强化瓷器美感，视觉记忆点。"},{"number":"02","label":"Work Look / 上班","model":"full-body female fashion model, standing in navy structured silk blouse tucked into high-waisted warm white straight trousers, slim belt, navy-and-white loafers, dark blue structured handbag, polished office styling","bullets":["深蓝结构感衬衫","米白直筒西裤","蓝白拼色乐福鞋"],"analysis_box":"Look 02 分析：降低花哨感，保留蓝白瓷器结构感。"},{"number":"03","label":"Date Look / 约会","model":"full-body female fashion model, standing in short-sleeve blue-and-white porcelain floral midi tea dress, soft V neckline, fitted waist, white ankle-strap sandals, rattan mini handbag, romantic casual pose","bullets":["蓝白印花茶歇连衣裙","藤编小包","白色细带凉鞋"],"analysis_box":"Look 03 分析：以柔和印花与轻盈廓形营造温柔感。"}]},{"title":"Key Pieces","position":"upper right","count":6,"items":["印花长裙","白色短外套","结构衬衫","米白西裤","藤编小包","珐琅耳饰"]},{"title":"Best For","position":"mid right","count":5,"labels":["通勤","约会","展览","轻社交","城市漫步"]},{"title":"Styling Notes","position":"lower right","count":4,"notes":["高腰线优化比例","蓝白配色统一系列感","材质光泽呼应釉面","配饰完成风格闭环"]}]},"artifact_rendering":"large isolated museum-object illustration of a blue-and-white porcelain meiping vase with dense cobalt scrolling lotus vines, glossy ceramic highlights, placed in a bordered card","models":"three photorealistic adult female models, faces intentionally softly blurred or anonymized, fashion catalog lighting, full-body studio cutouts on pale neutral background","right_product_grid":"two-column grid of six isolated clothing and accessory illustrations matching the three looks: floral dress, white cropped jacket with blue trim, navy blouse, ivory trousers, rattan top-handle mini bag, cobalt blue enamel drop earrings","footer_text":"这套方案并非复制文物图像，而是提取其色彩、纹样、廓形与材质语言，转译为兼具审美表达与场景实穿性的服装提案。","customization_focus":"Generate the board as a complete polished fashion concept sheet inspired by {argument name=\"inspiration object\" default=\"a Yuan dynasty blue-and-white porcelain lotus meiping vase\"}, with exactly three outfit looks and exactly six key pieces, keeping the premium Chinese museum fashion editorial style."}
 ```
 
 </details>
@@ -1563,25 +1144,6 @@ remove the people around the main character, Add multiple small, cute chibi-styl
 
 </details>
 
-<a id="gpt-image-departure-diary-photo-to-ink-journal-page"></a>
-### Travel journal page pairing photo with ink sketch
-
-<a href="https://x.com/MahnoorAi12/status/2094267684968140993"><img src="../../previews/gpt-image-departure-diary-photo-to-ink-journal-page.jpg" width="360"></a>
-
-A reference photo is split into a realistic cinematic upper half and a loose ink drawing of the same scene below, so identity, pose and composition carry over. Detailed typography cues such as a numbered entry, handwritten caption, timestamp and gate notation, plus cream negative space, give the page its journal layout.
-
-GPT Image 2 · Edit · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2094267684968140993) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`travel-journal`](tags.md#tag-travel-journal) [`ink-sketch`](tags.md#tag-ink-sketch) [`split-layout`](tags.md#tag-split-layout) [`reference-photo`](tags.md#tag-reference-photo) [`typography`](tags.md#tag-typography)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-a nostalgic contemporary travel-journal artbook page based on the reference image. Preserve the exact same person, facial identity, facial features, hairstyle, pose, expression, clothing, luggage, proportions, camera angle, composition, and emotional atmosphere from the reference image. Divide the page vertically into two seamlessly connected sections. The upper section is an ultra-realistic cinematic airport photograph: the same person standing quietly in a modern airport terminal with a carry-on suitcase beside them, soft natural window light, subtle reflections on polished floors, realistic skin texture, authentic colors, shallow depth of field, delicate film grain, natural candid body language, and a quiet pre-departure atmosphere. The lower section transforms the exact same scene, person, luggage, and composition into a loose black-and-white hand-drawn ink illustration on warm off-white textured paper. Preserve the same pose and perspective while using expressive imperfect lines, rough cross-hatching, minimal shading, subtle architectural details, small directional arrows, luggage outlines, terminal signage shapes, and handmade sketchbook imperfections. Add tasteful editorial typography around the illustration: a small numbered diary entry, handwritten-style caption, tiny documentary notes, subtle timestamp, gate-style notation, and minimal travel-journal annotations. Keep generous cream-colored negative space, slightly imperfect ink printing, understated vintage layout, sophisticated minimalist Japanese-inspired graphic design, emotionally warm and cinematic, premium contemporary photography journal aesthetic, cohesive transition between photograph and drawing, highly detailed, natural human anatomy, authentic proportions, no watermark, no logos.
-```
-
-</details>
-
 <a id="gpt-image-earth-signs-chibi-scrapbook-portrait"></a>
 ### Earth Signs scrapbook portrait with three chibi selves
 
@@ -1672,11 +1234,11 @@ Create a freeform fashion-editorial collage of me in 8 distinct full-body casual
 </details>
 
 <a id="gpt-image-fashion-lookbook-burgundy-top-collage"></a>
-### Fashion lookbook collage of one model in burgundy
+### Fashion lookbook web page with one model in burgundy
 
 <a href="https://x.com/Mind_Boticni/status/2061310969192870028"><img src="../../previews/gpt-image-fashion-lookbook-burgundy-top-collage.jpg" width="360"></a>
 
-Names the garment colors and asks for the same pose repeated across duplicated frames, which gives the collage its catalog rhythm. Terms like perspective tilt, minimal UI composition and shopping website aesthetic push the layout toward an e-commerce page.
+Locking the garment colors keeps one model consistent across duplicated frames in varied relaxed poses. Perspective tilt, minimal UI composition and shopping website aesthetic turn the collage into an e-commerce lookbook page with its own type and color palette.
 
 GPT Image 2 · Text-to-image · Source: [@Mind_Boticni on X](https://x.com/Mind_Boticni/status/2061310969192870028) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
@@ -1751,31 +1313,6 @@ GPT Image 2 · Text-to-image · Source: [@Taaruk_ on X](https://x.com/Taaruk_/st
 
 ```text
 Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece
-```
-
-</details>
-
-<a id="gpt-image-mixed-media-memory-card-5050"></a>
-### Photo and crayon sketch memory card split
-
-<a href="https://x.com/Sairah_0/status/2093212900160868430"><img src="../../previews/gpt-image-mixed-media-memory-card-5050.jpg" width="360"></a>
-
-A strict 50/50 split keeps the original photo intact on top and redraws the subjects below as loose wax crayon lines. A muted color patch sampled from the photo, handmade paper texture and Risograph grain give the Morandi feel.
-
-GPT Image 2 · Edit · Source: [@Sairah_0 on X](https://x.com/Sairah_0/status/2093212900160868430) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`memory-card`](tags.md#tag-memory-card) [`mixed-media`](tags.md#tag-mixed-media) [`wax-crayon`](tags.md#tag-wax-crayon) [`risograph`](tags.md#tag-risograph) [`morandi`](tags.md#tag-morandi)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Transform the uploaded photo into a vertical mixed-media memory card with a strict 50/50 split.
-
-Keep the original photo unchanged in the top half. In the bottom half, use textured off-white handmade paper and add a muted, irregular color patch matching the photo’s tones.
-
-Redraw the main subjects as a simple dark wax-crayon sketch with loose, imperfect lines and minimal details. Add a short handwritten English phrase and subtle Risograph grain.
-
-Create a quiet, nostalgic Morandi-style aesthetic with generous negative space. Do not add extra elements or copy the reference composition exactly.
 ```
 
 </details>
@@ -1936,25 +1473,6 @@ GPT Image 2 · Text-to-image · Source: [@TanLuAI on X](https://x.com/TanLuAI/st
 
 ```text
 Create a travel-journal style night cityscape poster of Shanghai Pudong skyline along the Huangpu River. Use a wide 4:3 canvas showing a realistic nighttime waterfront photo look: dark cloudy sky filling the top two thirds, illuminated skyscrapers along the horizon, the Oriental Pearl Tower on the left glowing pink-red, Shanghai Tower and other high-rises on the right with blue, purple, gold, and white lights, and reflective river water across the bottom with a small sightseeing boat. Add playful white hand-drawn diary doodles and handwritten Chinese annotations directly over the scene, like a social media travel note. Include exactly 6 handwritten text notes: “云也来散步啦” near the upper left with a dotted wandering path and small cloud, “慢慢走 慢慢看♡” near the upper right beside a crescent moon and star, “东方明珠 亮晶晶♡” pointing with an arrow to the Oriental Pearl Tower, “夜风 刚刚好♪” on the left above the river, “今晚的楼 都很会发光♡” on the right above the skyline with a curved underline, and “灯光掉进黄浦江” centered near the bottom over the water. Include exactly 15 white doodle elements: a dotted flight path across the upper left, one small outlined cloud near the top, one crescent moon at the upper right, one scalloped cloud outline near the upper center-right, one arrow pointing to the Oriental Pearl Tower, one dashed outline tracing around the Oriental Pearl Tower, three small sparkle/star icons, two music-note icons, one map-pin icon at the bottom left, two flowing wave lines across the bottom water, and one small flower doodle at the bottom right. Keep all doodles thin, casual, hand-drawn, slightly imperfect, and bright white, with no borders or watermark. The mood should be dreamy, cozy, romantic, and spontaneous, like a handwritten travel memory shared on social media.
-```
-
-</details>
-
-<a id="gpt-image-tech-topics-grid-100"></a>
-### Ten by ten grid of technology topics
-
-<a href="https://x.com/chetaslua/status/2046489044243403029"><img src="../../previews/gpt-image-tech-topics-grid-100.jpg" width="360"></a>
-
-Each row gets its own theme, so the grid has a clear structure and the model fills ten distinct tiles per row. Fixed rules for a white background, a short label under every tile and correct spelling keep the dense layout readable.
-
-GPT Image 2 · Text-to-image · Source: [@chetaslua on X](https://x.com/chetaslua/status/2046489044243403029) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-[`grid`](tags.md#tag-grid) [`technology`](tags.md#tag-technology) [`editorial-illustration`](tags.md#tag-editorial-illustration) [`labels`](tags.md#tag-labels) [`white-background`](tags.md#tag-white-background)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 10 × 10 grid of 100 different topics representing recent technological progress. Use a realistic, polished editorial illustration style. Each topic should appear in its own square with a short clear label underneath. Keep the grid neat on a white background. Make every topic visually different and every label correctly spelled. Use these row themes: Row 1: AI models and agents Row 2: robotics Row 3: semiconductors and compute Row 4: networks and smart devices Row 5: biotech and health technology Row 6: energy and power systems Row 7: transport and autonomy Row 8: space and aerospace Row 9: manufacturing and materials Row 10: climate and environmental technology. Show each tile as a realistic mini-scene, product-class object, lab instrument, robot, chip, vehicle, or device that clearly conveys the topic. Keep the overall style consistent, modern, realistic, and visually impressive.
 ```
 
 </details>

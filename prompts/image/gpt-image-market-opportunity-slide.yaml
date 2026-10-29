@@ -1,7 +1,7 @@
 id: gpt-image-market-opportunity-slide
 title:
-  en: Market opportunity pitch deck slide with real numbers
-  zh: 带具体数字的融资路演市场规模页
+  en: Market opportunity pitch deck slide with TAM SAM SOM
+  zh: 包含 TAM SAM SOM 的市场机会融资演示页
 model: GPT Image 2.5
 mode: text-to-image
 category: infographic
@@ -15,8 +15,8 @@ source:
   credit: OpenAI
   captured: '2026-10-28'
 notes:
-  en: 'Written as a slide spec with the actual numbers, chart type, footnotes and logo slot, plus a list of things to avoid. The figures are sample data; replace them before use. Preview: the Sunburst variant.'
-  zh: 按幻灯片规格来写，直接给出数字、图表类型、脚注和标志位置，再列出要避免的东西。示例数字是虚构的，使用前要换成真实数据。预览图为 Sunburst 版本。
+  en: The prompt reads like a slide spec, listing the exact figures, chart types, footnotes and logo slot along with things to avoid, so the model lays out a clean data slide. The numbers are sample data, so replace them before use.
+  zh: 提示词按幻灯片规格书来写，列出具体数字、图表类型、脚注和标志位置，并说明要避免的元素，模型因此能排出整洁的数据页。图中数字是示例数据，使用前请替换。
 prompt: |
   Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
 

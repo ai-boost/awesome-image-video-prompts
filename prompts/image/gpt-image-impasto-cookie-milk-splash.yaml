@@ -1,7 +1,7 @@
 id: gpt-image-impasto-cookie-milk-splash
 title:
   en: Impasto oil painting of cookie splashing into milk
-  zh: 油画厚涂风格的饼干砸入牛奶飞溅
+  zh: 厚涂油画风格的曲奇落入牛奶飞溅
 model: GPT Image 2
 mode: text-to-image
 category: illustration
@@ -19,7 +19,7 @@ source:
   posted: '2026-07-04'
   via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
 notes:
-  en: Fixes the exact count and position of flying chocolate chunks to control the composition. A palette knife impasto style and a limited warm palette with muted purple keep the splash dramatic and cohesive.
-  zh: 明确指定飞溅巧克力块的数量和位置来控制构图。刮刀厚涂风格加上受限的暖色调与柔和紫色,让飞溅画面既有张力又统一。
+  en: Freezing the moment of impact and naming the splash shapes as arcs, beads and ribbons gives the scene its motion. Heavy palette knife impasto and a limited warm palette with muted purple keep the busy composition cohesive.
+  zh: 定格撞击瞬间，并把飞溅写成弧线、水珠和液带，让画面充满动感。厚重的刮刀厚涂笔触加上带一点灰紫的有限暖色调，让繁复的构图保持统一。
 prompt: |
   Create a dynamic close-up food illustration of a giant chocolate chip cookie crashing into a clear glass of whole milk, frozen at the instant of impact. The cookie is large, golden brown, round, rough and crumbly, packed with many glossy dark chocolate chips, with visible baked texture and small cracks. Milk erupts upward in dramatic thick splashes and droplets around the cookie, with white arcs, beads, and ribbons of liquid partially obscuring the glass rim. Include exactly 5 prominent flying chocolate chunks or chips outside the cookie: one near the upper left, one near the upper center, one near the upper right, one at the right edge, and one near the lower left foreground; also include numerous tiny cookie crumbs and milk droplets scattered through the air. The glass is transparent with a slightly elliptical rim, thick reflective sides, and creamy milk visible inside. Use an expressive impasto oil-painting style with heavy palette-knife texture, visible brush strokes, warm caramel, cream, chocolate brown, amber, and muted purple tones. The background should be abstract and energetic, swirling like a dessert explosion, with warm studio lighting, high contrast highlights on the milk and chocolate, shallow depth of field, no text, no watermark, no hands, no broken glass.

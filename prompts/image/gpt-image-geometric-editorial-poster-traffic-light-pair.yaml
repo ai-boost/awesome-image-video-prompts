@@ -1,7 +1,7 @@
 id: gpt-image-geometric-editorial-poster-traffic-light-pair
 title:
-  en: Couple leaning on traffic light in flat geometric illustration
-  zh: 靠在红绿灯旁的情侣扁平几何插画
+  en: Couple at traffic light as grainy editorial illustration
+  zh: 红绿灯旁情侣的颗粒质感编辑插画
 model: GPT Image 2.5
 mode: image-edit
 category: photo-to-art
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-29'
   posted: '2026-10-09'
 notes:
-  en: A format lock, character spec, style, face, palette and negative prompt sections turn an uploaded photo into a grainy flat poster. Hex colour codes and a rule that gradients appear only where shapes overlap keep the palette controlled while the reference preserves pose and clothing.
-  zh: 用格式锁定、角色、风格、面部、色板和负面提示分段，把上传的照片转成带颗粒感的扁平海报。给出十六进制色值并规定渐变只出现在形体重叠处，色彩因此可控，姿势与服装由参考图保留。
+  en: The uploaded photo locks pose, clothing and accessories, while hex palette codes, spray gradients only where shapes overlap and fine print grain give a textured editorial finish. The model kept faces and proportions closer to the photo than the geometric character spec asks for.
+  zh: 上传的照片锁定姿势、服装和配饰，十六进制色值、仅在形状重叠处出现的喷枪渐变和细腻印刷颗粒带来有质感的编辑插画效果。模型保留的面部和比例比几何角色设定更接近原照片。
 prompt: |
   Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a sophisticated flat geometric illustration.
 

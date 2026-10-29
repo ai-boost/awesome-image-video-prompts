@@ -1,7 +1,7 @@
 id: gpt-image-bougainvillea-archway-courtyard-portrait
 title:
-  en: Two women under a bougainvillea archway courtyard
-  zh: 九重葛拱门下地中海庭院里的两位女性
+  en: Woman glancing back under a seaside bougainvillea archway
+  zh: 海边九重葛拱门下回眸的女子
 model: GPT Image 2.5
 mode: text-to-image
 category: portrait
@@ -19,7 +19,7 @@ source:
   captured: '2026-10-28'
   posted: '2026-09-09'
 notes:
-  en: The prompt places a detailed near subject against a barely specified second figure, then layers the setting from foreground arch to courtyard to sea. It names a camera era, direct fill flash and CCD color so the lighting and grain come out consistent.
-  zh: 提示词先详细描写近景人物，再只简单带过远处的第二个人，场景按拱门、庭院、大海由近到远分层。同时指定相机年代、直闪和 CCD 色调，让光线与颗粒质感保持统一。
+  en: The prompt describes the near subject in close detail, gives the second figure only clothing and a pose, and builds depth from the flowering arch through the courtyard to the hazy sea. The model kept that layered composition and warm palette but rendered soft natural light instead of the requested direct flash.
+  zh: 提示词细致描写近处人物，第二个人物只交代服装和姿态，并从花拱门、庭院到朦胧海面逐层铺开景深。模型保留了这种分层构图和暖色调，但画出的是柔和自然光，而非提示词要求的直闪效果。
 prompt: |
   Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.

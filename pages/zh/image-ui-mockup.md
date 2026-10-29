@@ -1,6 +1,6 @@
 # 手机与界面截图
 
-[返回目录](../../README_zh.md) · 全部 20 条
+[返回目录](../../README_zh.md) · 全部 17 条
 
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### 一名学生一整天的iPhone相册截图
@@ -22,11 +22,11 @@ Turn one full day's worth of camera roll for the person in the reference image i
 </details>
 
 <a id="gpt-image-camera-roll-day"></a>
-### 一张图生成任何人一天的相册
+### 用一张图生成主角一整天的 iPhone 相册截图
 
 <a href="https://x.com/Mayz1169/status/2099479395283214473"><img src="../../previews/gpt-image-camera-roll-day.jpg" width="360"></a>
 
-同一思路，规则更严：上传图是唯一主体，只允许出现最少的 iOS 界面元素。
+严格规则锁定主角外观，并把版式定为带真实 iOS 界面的四列缩略图。提示词列出多种景别，并要求模糊、裁切和手持感等瑕疵，让整屏看起来像真实相册。
 
 GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099479395283214473) · 762 赞，统计于 2026-10-27
 
@@ -147,33 +147,6 @@ Outfits change continuously through the day. Morning: milky-white camisole loung
 Photo mix is fixed at 60% selfies and mirror selfies, 40% solo portraits taken by someone else. Every frame has her as the subject. Every thumbnail keeps real iPhone native-camera texture. Pose, camera distance, angle, expression, lighting, and clothing keep changing.
 The sequence runs from morning to late night. Morning feels loose and just-woken. Late morning has clear natural light. Afternoon feels like ordinary going-out. Evening has soft city light. Night has low indoor light. Late night feels quiet and private after coming home.
 The whole set is quiet, private, relaxed, and real. The album forms a dense, continuous solo-portrait look, like a full day of private portrait camera roll saved on her own phone.
-```
-
-</details>
-
-<a id="gpt-image-ios-share-sheet-pop-out-portrait"></a>
-### iOS分享面板中的3D破框人像照片
-
-<a href="https://x.com/TheVirtualMuse/status/2109582485147517056"><img src="../../previews/gpt-image-ios-share-sheet-pop-out-portrait.jpg" width="360"></a>
-
-提示词逐项列出分享面板的界面元素，再明确指出人物哪些部位突破缩略图边框。加入人脸参考指令，并让两侧缩略图是同一人物，保证轮播中身份一致。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@TheVirtualMuse on X](https://x.com/TheVirtualMuse/status/2109582485147517056) · 51 赞，统计于 2026-10-28
-
-[`ios-share-sheet`](tags.md#tag-ios-share-sheet) [`3d-popout`](tags.md#tag-3d-popout) [`face-reference`](tags.md#tag-face-reference) [`ui-composite`](tags.md#tag-ui-composite) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use my uploaded photo as the face reference. 3:4 vertical. An iOS share sheet on a light grey background: top left reads "1 Photo
-Selected" with an "Options >" pill below it, a round X close button top right, then a horizontal carousel of three photo thumbnails, and a
-bottom row of app icons labeled "AirDrop", "Messages", "Mail", "WhatsApp". Center thumbnail: the man in reference, keeping his exact
-face, hairstyle and identity, sitting cross-legged on a grey couch with a blue gingham blanket, holding an iced matcha latte with a green
-straw, looking at the camera. He wears a black baseball cap with a white NY logo, thin round gold wire glasses, an oversized cream shirt
-with a grey knit sweater draped over his shoulders, wide black trousers, white socks and black leather penny loafers, with a red crochet
-drawstring bag at his feet. 3D pop-out effect: his cap breaks out above the thumbnail's top edge, and his loafers and the red bag spill out
-over the app icons below. Side thumbnails, partially cropped: the same man sipping a takeaway coffee on the left, and resting his chin on
-his hand beside a monstera plant on the right. Soft indoor daylight, realistic skin texture.
 ```
 
 </details>
@@ -469,31 +442,12 @@ A cinematic anime-style futuristic surveillance status screen showing a full-bod
 
 </details>
 
-<a id="gpt-image-fake-pixel-art-grid-zoom-analysis"></a>
-### 带蓝色网格的放大伪像素画分析图
-
-<a href="https://x.com/RealAstropulse/status/2047289982394495477"><img src="../../previews/gpt-image-fake-pixel-art-grid-zoom-analysis.jpg" width="360"></a>
-
-明确写出各色块的配色与位置,再点明要呈现的缺陷:边缘呈阶梯状,但色彩在方格内部柔和混合。网格叠层、十字光标和无文字要求让画面像图像编辑器截图。
-
-GPT Image 2 · 文生图 · 出处: [@RealAstropulse on X](https://x.com/RealAstropulse/status/2047289982394495477) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`pixel-art`](tags.md#tag-pixel-art) [`grid-overlay`](tags.md#tag-grid-overlay) [`close-up`](tags.md#tag-close-up) [`analysis`](tags.md#tag-analysis) [`screenshot`](tags.md#tag-screenshot)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A tightly zoomed-in comparison image demonstrating fake pixel-art rendering, showing a low-resolution-looking scene enlarged on screen with a thin bright blue square grid overlay across the entire frame. The composition is an abstract close crop of a pixel-art-style environment: sandy tan and ochre blocky forms on the left and center, a dark navy and black stepped diagonal mass on the right, muted olive-green and slate-blue shapes along the upper background, and a few lighter golden highlights. Every edge looks staircase-like and blocky at first glance, but the colors softly blur and blend within the apparent squares instead of aligning perfectly to the grid, creating the impression of pixel art that breaks down under inspection. Include a small white crosshair cursor near the upper left quadrant to suggest image analysis in an editor. The overall look should feel like a screenshot from a graphics program or social media demonstration about how AI can imitate retro game art aesthetics without producing true grid-perfect pixel art, with no text labels visible.
-```
-
-</details>
-
 <a id="gpt-image-farmers-market-app-ui"></a>
-### 放在 iPhone 机身里的农夫市集 App 界面
+### iPhone 边框中的农夫市集应用界面
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"><img src="../../previews/gpt-image-farmers-market-app-ui.jpg" width="360"></a>
 
-把 App 当成已经上线的产品来描述：真实的模块、层级和间距，不用概念图的词，出来的界面才像能用的。预览图为 Sunburst 版本。
+提示词像描述已上线的应用一样列出真实板块，包括顶栏、摊主列表、今日特价、地点和营业时间，让模型生成可信的界面布局而不是概念图。白色背景、自然点缀色和极简装饰这些克制的风格要求让画面保持干净实用。
 
 GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
 
@@ -526,25 +480,6 @@ GPT Image 2 · 文生图 · 出处: [@F2aldi on X](https://x.com/F2aldi/status/2
 
 ```text
 Create a modern government program landing page UI mockup for Indonesia in a clean, professional web design style, desktop widescreen aspect ratio. The page uses a white background with bold red accents, soft rounded corners, subtle gray dividers, and a polished frontend-dribbble presentation look. At the very top, build a horizontal navigation bar with 6 visible elements: the Indonesian Garuda emblem and the text "PEMERINTAH REPUBLIK INDONESIA" on the left, then 4 centered menu items labeled "Program", "Dampak", "Menu", and "Pemantauan", and on the far right a large red rounded button labeled "Program MBG" with a small people icon. Below it, design a hero section split into two columns. On the left, show a small program label line with a red bowl icon, the text "MBG", a vertical divider, and "Makan Bergizi Gratis". Under that, place a large bold headline reading "Makan Bergizi, Anak Indonesia Kuat" in dark navy, spanning 3 lines. Add a short paragraph in Indonesian below: "Program MBG mendukung gizi harian siswa SD dan SMP melalui menu seimbang, pemantauan sekolah, dan laporan dampak yang transparan." Then place 2 call-to-action buttons side by side: a solid red button labeled "Lihat Dampak" with a right arrow, and an outlined white button with red border labeled "Panduan Sekolah" with a right arrow. On the right side of the hero, place a rounded large photo-style image framed by a sweeping white curved divider and red corner background. The image shows an Indonesian elementary classroom with 5 visible schoolchildren in white uniforms with red ties, seated at desks, warm daylight from windows, shallow depth of field, documentary-photo realism. In the foreground, on a wooden desk, show a stainless steel compartment tray meal with exactly 5 food items: white rice, mixed vegetables, a piece of fried chicken, a banana, and watermelon cubes. Beside the tray, place 1 milk carton labeled "SUSU SEGAR". Under the hero, add a full-width red statistics band with 4 equally spaced metric cards separated by thin vertical dividers. Each card has a white circular icon and bold white text. The 4 metrics are: "245.000+" with label "Sekolah Terlayani", "8,7 Juta+" with label "Siswa Penerima Manfaat", "1,2 Miliar+" with label "Porsi Disalurkan", and "98,6%" with label "Kepuasan Siswa". At the bottom center, add a 3-dot carousel indicator with the left dot active in red and the other 2 dots gray. Include a faint Indonesia map texture in the lower-left background. Use crisp typography, generous whitespace, high-end fintech/government website aesthetics, realistic UI proportions, and a production-ready landing page mockup appearance.
-```
-
-</details>
-
-<a id="gpt-image-japanese-legal-services-lp-banner"></a>
-### 日本律师税理士事务所落地页横幅
-
-<a href="https://x.com/takeshibengo/status/2047061602315460747"><img src="../../previews/gpt-image-japanese-legal-services-lp-banner.jpg" width="360"></a>
-
-明确规定四个等宽的彩色分栏，每栏包含标题条、图片主体和底部文字条，再单独描述页脚版面。每句日文都用直角引号写出并指定位置和颜色，便于锁定文字排布。
-
-GPT Image 2 · 文生图 · 出处: [@takeshibengo on X](https://x.com/takeshibengo/status/2047061602315460747) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`landing-page`](tags.md#tag-landing-page) [`japanese-text`](tags.md#tag-japanese-text) [`legal-services`](tags.md#tag-legal-services) [`banner`](tags.md#tag-banner) [`advertising`](tags.md#tag-advertising)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A Japanese listing-ad style landing page hero banner for a fictional law office and tax accountant office, designed like a bold web advertisement with four equal vertical panels across the top and a strong call-to-action area across the bottom. The top row contains exactly 4 service panels, each with a colored header bar, a photo-realistic stock-photo image, and a colored caption bar at the bottom. Panel 1 is red and labeled 「刑事事件」 at the top, showing a close-up of two hands gripping dark prison bars against a black background; the bottom red caption reads 「逮捕・訴訟に即対応！」 in large bold white Japanese text. Panel 2 is blue and labeled 「交通事故」 at the top, showing a realistic rear-end car crash with two damaged dark-colored sedans on a city street in daylight; the bottom blue caption reads 「慰謝料・示談もお任せ！」 in large bold white Japanese text. Panel 3 is green and labeled 「相続税」 at the top, showing an elderly couple seated at a table consulting with a suited professional, with papers and a small house model visible; the bottom green caption reads 「税相続対策をしっかりサポート！」 in large bold white Japanese text. Panel 4 is orange and labeled 「離婚問題」 at the top, showing a distressed woman sitting indoors with her head resting on one hand; the bottom orange caption reads 「慰謝料・親権の悩みを解決！」 in large bold white Japanese text. Make the four panels touch edge-to-edge with clean white dividers, each panel occupying the same width, and use highly saturated primary colors with glossy ad-design styling. Beneath the four panels, create a cream or light beige background footer area. On the left side, place a smaller black subheadline in Japanese: 「法律相談・税務相談なら」. Centered below it, place the large main office name in metallic gold gradient bold Japanese lettering with a slight bevel effect: 「〇〇法律事務所・税理士事務所」. Add thin black horizontal divider lines above and below the main office name. On the lower right, place a large glossy red rounded rectangular button with a bright gradient and white bold Japanese text reading 「無料相談受付中！」. The overall style should feel like a Japanese legal and tax services LP main visual from a listing ad: corporate, urgent, trustworthy, commercial, photo-based, clean grid layout, bold typography, high contrast, and realistic brochure-quality compositing.
 ```
 
 </details>

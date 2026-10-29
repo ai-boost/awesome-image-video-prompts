@@ -1,7 +1,7 @@
 id: gpt-image-jacaranda-storybook-woman-looking-up
 title:
-  en: Woman Under Blooming Jacaranda Storybook Painting
-  zh: 盛开蓝花楹下的绘本风女子插画
+  en: Woman Gazing Up at Jacaranda Blossoms, Storybook Painting
+  zh: 仰望蓝花楹花海的女子绘本插画
 model: GPT Image 2.5
 mode: text-to-image
 category: illustration
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-10-16'
 notes:
-  en: The prompt fixes the composition with explicit placement, with the woman lower right, branches sweeping diagonally and the canopy filling the upper third. It also names a complementary palette of violet, turquoise and coral, and adds a negative prompt to keep the image painterly rather than photoreal.
-  zh: 提示词明确指定构图位置，人物在右下、枝干斜向展开、树冠占上三分之一，并点明紫、青绿、珊瑚红的互补配色。再用负面提示词排除照片感和3D渲染，保持手绘质感。
+  en: The prompt names a complementary palette of violet blossoms, a turquoise scarf and sky, and a coral coat, which gives the image its saturated contrast. The negative prompt rules out photoreal and 3D looks, so the brushwork, ink outlines and paper texture stay visible.
+  zh: 提示词指定了互补配色，紫色花簇、青绿围巾与天空、珊瑚红外套，画面因此色彩饱和、对比鲜明。负面提示词排除了写实与三维渲染效果，让笔触、墨线和纸张纹理得以保留。
 prompt: |
   {
     "prompt": "Create a beautiful vertical 9:16 digital painting in a vibrant, expressive storybook illustration style. A young woman with a short dark bob haircut stands in the lower-right portion of the composition, peacefully looking upward at a magnificent flowering jacaranda tree. The enormous dark branches sweep diagonally across the upper half of the image, covered in clusters of vivid violet, electric purple, and magenta blossoms. Tiny purple petals float gently through the air. The woman wears a flowing coral-red coat, a bright turquoise scarf, dark plum leggings, and elegant black ankle boots. A small mustard-yellow shoulder bag adds a warm accent. The background features a rich turquoise-blue sky blending into soft lavender mountains, with subtle painterly textures and a few delicate wildflowers along the ground. Use a bold, highly saturated color palette with striking contrasts between violet flowers, turquoise surroundings, coral clothing, and golden highlights. Artistic hand-painted brushstrokes, delicate ink outlines, textured paper finish, atmospheric depth, beautiful natural lighting, poetic and peaceful mood. The tree canopy fills the upper third and spreads across the frame, while generous open space in the middle emphasizes the woman and creates a balanced composition. Full-body character visible, elegant natural pose, visually rich details, polished high-quality illustration, beautiful color harmony, 9:16 portrait composition.",

@@ -1,76 +1,6 @@
 # 地图
 
-[返回目录](../../README_zh.md) · 全部 12 条
-
-<a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
-### 等距视角动漫世界地图微缩模型海报
-
-<a href="https://x.com/TechieBySA/status/2091529289283866634"><img src="../../previews/gpt-image-isometric-anime-world-map-diorama-poster.jpg" width="360"></a>
-
-用分支条件分别处理虚构世界和真实地点，让同一模板能切出正确的地图轮廓。版面留白、标题层级和移轴摄影质感都有明确规则，成图风格统一，另可上传参考地图提高准确度。
-
-GPT Image 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2091529289283866634) · 6,709 赞，统计于 2026-10-28
-
-[`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`anime-world`](tags.md#tag-anime-world) [`miniature`](tags.md#tag-miniature) [`editorial-poster`](tags.md#tag-editorial-poster)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Simply replace [ANIME]:✨
-
-(Upload a reference image of the map for enhanced accuracy)
-
-“Ultra-detailed photorealistic isometric miniature scale-model diorama of the world from [ANIME], floating on a pure off-white studio background with a soft drop shadow beneath.
-
-If [ANIME] has a fictional world map: the diorama takes the exact silhouette shape of that fictional continent, island or region, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like the world physically cut out and lifted. The shape matches the canonical map boundary precisely.
-
-If [ANIME] is set in a real or semi-real world: the diorama takes the exact geographic silhouette shape of the primary city, region or country where the story is set, extruded into a thick rock slab with rough cliff edges.
-
-The entire top surface faithfully recreates the complete world of [ANIME] with full anime accuracy: every region, city, landmark, building, terrain feature, road and environment in its exact canonical position as established in the show. Every iconic location is instantly recognizable to any fan — labeled with small readable location markers. The architecture, environment design, building styles, color palette and atmosphere must be completely faithful to the visual world of [ANIME] — not Western or generic realistic, but distinctly true to how this anime world looks and feels. Every location a fan would recognize is present and accurately placed.
-
-Dense micro-detail throughout: tiny figures in show-accurate character designs and clothing, vehicles or creatures authentic to the world, individual trees and foliage, roads and paths between locations, flags and faction symbols, any distinctive environmental features unique to this anime world.
-
-Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Soft warm lighting from above, gentle diffuse shadows. Colors match the anime's authentic visual palette faithfully — rich, saturated and true to the show's identity.
-
-Layout: the shaped diorama floats centered in the lower two-thirds of the frame, clear margins on all sides, never touching the frame edges. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the world or region name at the very top, then [ANIME] directly below in a bold condensed sans-serif in medium charcoal grey — large and dominant, the biggest text element, then small wide-tracked caps below with the studio name and year.
-
-Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
-```
-
-</details>
-
-<a id="gpt-image-tv-show-world-isometric-map-diorama"></a>
-### 电视剧世界等距地图微缩景观海报
-
-<a href="https://x.com/TechieBySA/status/2091167214195847433"><img src="../../previews/gpt-image-tv-show-world-isometric-map-diorama.jpg" width="360"></a>
-
-用一个可替换的剧名占位符，并按虚构或真实场景分支，让微缩景观贴合地图轮廓并挤出成岩石厚板。固定的版面把上方三分之一留白给宽字距小字和粗窄标题，海报更干净。
-
-GPT Image 2 · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2091167214195847433) · 2,678 赞，统计于 2026-10-28
-
-[`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`tilt-shift`](tags.md#tag-tilt-shift) [`tv-show`](tags.md#tag-tv-show) [`template`](tags.md#tag-template)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Simply replace [TV SHOW]:✨
-
-“Ultra-detailed photorealistic isometric miniature scale-model diorama of the world from [TV SHOW], floating on a pure off-white studio background with a soft drop shadow beneath.
-
-If [TV SHOW] has a fictional world map: the diorama takes the exact silhouette shape of that fictional continent or world, extruded downward into a thick slab of raw rock and earth with rough cliff-like edges. The top surface recreates the complete world geography exactly as established in the show — every region, kingdom, city, landmark, mountain range, forest and river in its correct canonical position.
-
-If [TV SHOW] is set in the real world: the diorama takes the exact geographic silhouette shape of the real city, state or region where the show is primarily set, extruded into a thick rock slab. The top surface is filled entirely with locations, landmarks, routes and environments from the show rendered in the show's authentic color palette and visual atmosphere — not generic realistic geography but the world as it feels in the show.
-
-In both cases: dense micro-detail throughout — tiny figures in show-accurate clothing, vehicles, buildings, roads, trees, all authentic to the show's world. Every iconic location a fan would recognize is present and accurately placed.
-
-Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Lighting and color palette match the show's visual identity exactly.
-
-Layout: diorama floats centered in the lower two-thirds, clear margins all sides. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the location or world name at the very top, then [TV SHOW] in a bold condensed sans-serif in medium charcoal grey — large and dominant, then small wide-tracked caps below with network and year.
-
-Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
-```
-
-</details>
+[返回目录](../../README_zh.md) · 全部 10 条
 
 <a id="gpt-image-city-on-map"></a>
 ### 你的城市从地图上长出来
@@ -137,11 +67,11 @@ OPTIONAL DETAILS:
 </details>
 
 <a id="gpt-image-isometric-terrain-slab-world-diorama-poster"></a>
-### 悬浮地块上的伊斯坦布尔城市微缩景观海报
+### 动漫世界模板生成的悬浮地形切块微缩沙盘
 
 <a href="https://x.com/MahnoorAi12/status/2091858610255261949"><img src="../../previews/gpt-image-isometric-terrain-slab-world-diorama-poster.jpg" width="360"></a>
 
-提示词让真实地图轮廓成为实体地块底座，带断裂岩壁和土层，再按设定摆放地标与博物馆式小标签。固定 4:5 构图并留出上方三分之一放宽字距大写标题，配合柔和暖色影棚光营造收藏级微缩质感。
+填入 [ANIME] 占位后，提示词把该作品的官方地图轮廓切成一整块带断裂岩壁和土层的地形；现实背景的作品则改用真实城市轮廓。固定的 4:5 构图把上方三分之一留给疏排的大写标题，柔和的暖色棚灯让画面像一件收藏级微缩模型。
 
 GPT Image 2 · 文生图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2091858610255261949) · 354 赞，统计于 2026-10-28
 

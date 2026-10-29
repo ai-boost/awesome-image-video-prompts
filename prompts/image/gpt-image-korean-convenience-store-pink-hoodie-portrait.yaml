@@ -1,7 +1,7 @@
 id: gpt-image-korean-convenience-store-pink-hoodie-portrait
 title:
   en: Korean convenience store portrait in pink fleece hoodie
-  zh: 韩国便利店粉色毛绒连帽衫人像
+  zh: 韩国便利店粉色绒毛连帽衫人像
 model: GPT Image 2
 mode: text-to-image
 category: portrait
@@ -19,7 +19,7 @@ source:
   posted: '2026-05-13'
   via: https://github.com/freestylefly/awesome-gpt-image-2
 notes:
-  en: Mixing warm fluorescent store light with iPhone flash realism gives a candid snapshot look. Specific props, reflections on glass doors and a pastel pink and cream palette keep the scene cohesive.
-  zh: 暖色荧光灯与 iPhone 闪光灯的真实质感叠加，营造随手抓拍的感觉。具体的道具、玻璃冷柜反光和粉奶油色调让画面统一。
+  en: Mixing warm fluorescent store light with iPhone flash realism gives a candid late night snapshot look. Glowing refrigerator aisles behind the subject and a soft pink and cream palette keep the scene cozy and cohesive.
+  zh: 暖色便利店荧光灯与 iPhone 闪光灯的写实感结合，营造出随手抓拍的深夜快照效果。身后发光的冷柜货架和柔和的粉色奶油色调让画面温馨统一。
 prompt: |
   Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean woman standing in front of glowing refrigerator aisles at night, wearing an oversized fluffy pastel pink hoodie with the hood up. She holds a bottle of strawberry milk in one hand and a tiny strawberry cake in the other while shyly looking toward the camera. Long soft black hair, glossy eyes, natural skin texture, subtle blushy makeup, gentle expression, youthful Korean beauty aesthetic. Warm fluorescent convenience store lighting mixed with realistic iPhone flash photography. Tiny reflections on drink bottles and glass refrigerator doors, dreamy romantic atmosphere, soft pink and cream color palette, slice-of-life anime realism blended with cinematic photography, highly detailed, cozy late-night Seoul convenience store vibe, shallow depth of field, realistic Korean snack packaging, candid aesthetic, soft glow, ultra photorealistic.

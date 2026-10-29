@@ -1,7 +1,7 @@
 id: gpt-image-floral-kimono-anime-portrait
 title:
   en: Anime girl in floral kimono with blooming hair flowers
-  zh: 花簪和服少女动漫肖像
+  zh: 身穿花卉和服、头戴盛放花饰的动漫少女
 model: GPT Image 2
 mode: text-to-image
 category: illustration
@@ -19,7 +19,7 @@ source:
   posted: '2026-05-26'
   via: https://github.com/freestylefly/awesome-gpt-image-2
 notes:
-  en: 'The prompt stacks concrete visual anchors in order: face details, patterned kimono, oversized hair flowers, then a gradient backdrop. Closing with lighting and mood words such as soft cinematic and dreamy keeps the finish consistent.'
-  zh: 提示词按顺序叠加具体视觉锚点：五官细节、花纹和服、夸张的头饰花朵，再到渐变背景。结尾用柔和电影光和梦幻氛围收束，让整体质感统一。
+  en: 'The prompt stacks concrete anchors in order: expressive eyes and blush, a densely patterned kimono, then oversized flowers worn as hair accessories. Closing with soft cinematic lighting and a dreamy mood gives a glowing painterly finish, though the model may swap the requested gradient for a blossom filled scene.'
+  zh: 提示词按顺序叠加具体视觉锚点：灵动大眼与腮红、繁密花纹和服，再到作为发饰的大朵鲜花。结尾用柔和电影光与梦幻氛围收束，画面呈现通透的绘画质感，但模型可能用繁花场景替代要求的渐变背景。
 prompt: |
   Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration

@@ -29,22 +29,22 @@
   - [Veo 3.1](#veo31) (10)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [Image prompts](#image) (922 entries)
-  - [Posters and editorial layouts](#img-poster) (146)
-  - [Infographics and slides](#img-infographic) (61)
-  - [Phone and UI mockups](#img-ui-mockup) (20)
-  - [Product shots and e-commerce](#img-product) (27)
-  - [Logos, ads and packaging](#img-brand) (22)
-  - [Photo realism](#img-realism) (44)
-  - [Portraits](#img-portrait) (179)
-  - [Characters and figures](#img-character) (72)
-  - [Illustration](#img-illustration) (112)
-  - [Comics and storyboards](#img-comic) (31)
-  - [Photo to art](#img-photo-to-art) (75)
+- [Image prompts](#image) (811 entries)
+  - [Posters and editorial layouts](#img-poster) (122)
+  - [Infographics and slides](#img-infographic) (64)
+  - [Phone and UI mockups](#img-ui-mockup) (17)
+  - [Product shots and e-commerce](#img-product) (32)
+  - [Logos, ads and packaging](#img-brand) (9)
+  - [Photo realism](#img-realism) (45)
+  - [Portraits](#img-portrait) (157)
+  - [Characters and figures](#img-character) (58)
+  - [Illustration](#img-illustration) (92)
+  - [Comics and storyboards](#img-comic) (13)
+  - [Photo to art](#img-photo-to-art) (89)
   - [Architecture and interiors](#img-architecture) (22)
-  - [Maps](#img-map) (12)
-  - [Collage](#img-collage) (59)
-  - [Photo editing](#img-edit) (40)
+  - [Maps](#img-map) (10)
+  - [Collage](#img-collage) (47)
+  - [Photo editing](#img-edit) (34)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
 - [3D with agents](#threed)
@@ -59,13 +59,13 @@
 - 2026-10-29 · [Cozy selfie in a cream oversized hoodie](pages/en/image-portrait.md#gpt-image-cozy-hoodie-sleeve-selfie) · GPT Image 2
 - 2026-10-29 · [Blurry portrait restored to sharp detail, before and after](#gpt-image-old-photo-restoration-colorize-sharpen) · GPT Image 2
 - 2026-10-29 · [Candid photo above matching ink sketch artbook page](#gpt-image-photo-to-ink-sketch-artbook-page) · GPT Image 2
-- 2026-10-29 · [Cubist kawaii vector portrait on matte black](pages/en/image-photo-to-art.md#gpt-image-cubist-kawaii-vector-portrait-black-poster) · GPT Image 2
-- 2026-10-29 · [Harbour promenade photo turned into travel journal poster](pages/en/image-poster.md#gpt-image-harbour-promenade-travel-journal-poster) · GPT Image 2
 - 2026-10-29 · [Mother and toddler beside camper van storybook illustration](pages/en/image-photo-to-art.md#gpt-image-storybook-mother-toddler-camper-van) · GPT Image 2
 - 2026-10-29 · [Spotlit woman before Japanese mural in dark museum](pages/en/image-portrait.md#gpt-image-spotlight-museum-mural-portrait) · GPT Image 2
 - 2026-10-29 · [Korean style ink doodle self portrait with selfie](#gpt-image-korean-doodle-self-portrait-selfie) · GPT Image 2
 - 2026-10-29 · [Editorial typography poster with woman and bicycle](pages/en/image-poster.md#gpt-image-human-fragments-typography-poster-template) · GPT Image 2
-- 2026-10-29 · [Flat childlike doodle redraw of a sunset portrait](pages/en/image-photo-to-art.md#gpt-image-flat-doodle-redraw-rooftop-sunset-portrait) · GPT Image 2
+- 2026-10-29 · [Crystal glass number birthday poster with child](pages/en/image-poster.md#gpt-image-crystal-number-birthday-poster-child) · GPT Image 2
+- 2026-10-29 · [Endangered red panda annotated wildlife infographic](pages/en/image-infographic.md#gpt-image-endangered-animal-annotated-infographic) · GPT Image 2
+- 2026-10-29 · [Watercolor Los Angeles Cafe Travel Poster](pages/en/image-poster.md#gpt-image-watercolor-city-travel-poster-cafe) · GPT Image 2
 
 <a id="video"></a>
 ## Video prompts
@@ -1932,7 +1932,7 @@ No unnecessary decorative elements.
 
 </details>
 
-**[All 146 entries](pages/en/image-poster.md)**
+**[All 122 entries](pages/en/image-poster.md)**
 
 <a id="img-infographic"></a>
 ## Infographics and slides
@@ -2030,125 +2030,6 @@ The final result should feel like a real publishable encyclopedia knowledge card
 The image must strongly emphasize:
 
 “knowledge integration + modular information design + handbook/reference-style presentation.”
-```
-
-</details>
-
-<a id="gpt-image-museum-encyclopedia-cat-breeds-infographic"></a>
-### Natural history encyclopedia infographic of cat breeds
-
-<a href="https://x.com/GeekCatX/status/2047354608717332691"><img src="previews/gpt-image-museum-encyclopedia-cat-breeds-infographic.jpg" width="360"></a>
-
-Bracketed sections fix the parchment canvas, a single vermillion accent colour, a dense overlapping collage layout and a typography hierarchy with bilingual labels. The swappable SUBJECT slot lets one template cover cats, dogs or professions.
-
-GPT Image 2 · Text-to-image · Source: [@GeekCatX on X](https://x.com/GeekCatX/status/2047354608717332691) · 1,166 likes on 2026-10-28
-
-[`encyclopedia`](pages/en/tags.md#tag-encyclopedia) [`parchment`](pages/en/tags.md#tag-parchment) [`cat-breeds`](pages/en/tags.md#tag-cat-breeds) [`bilingual-labels`](pages/en/tags.md#tag-bilingual-labels) [`template`](pages/en/tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-首页封面：
-A breathtakingly intricate masterpiece conceptual infographic of [SUBJECT: 11 species of Canidae cubs / various cat breeds / professional characters], strictly designed based on a natural history museum encyclopedia aesthetic.
-
-[CANVAS & COLOR DICTATORSHIP]
-BASE CANVAS (L0): Aged vintage parchment texture, warm hex #E8DFD1, featuring subtle water stains, distressed paper edges, and organic fiber grain.
-SYSTEMIC COLOR (L1): Highly realistic and naturalistic rendering of [SUBJECT], capturing every fine detail of fur, skin, and eyes.
-ACCENT COLOR (L3): Vermillion red (#A3262A) strictly reserved for traditional Chinese seals, title brackets, and critical tier markers (S, A, B, C).
-
-[SPATIAL GRAVITY & TOPOLOGY]
-COMPOSITION: A dense, layered collage of multiple [SUBJECT] subjects. Larger, more significant subjects are placed slightly centrally, while smaller ones fill the periphery with subtle overlapping to create 3D depth.
-BOUNDARIES: No hard frames for individual subjects; they breathe naturally on the parchment. A thin, 1pt technical border defines the entire composition's outer limits.
-MODULE TOPOLOGY: Approximately 9-15 distinct subjects arranged in a multi-node grid. Each subject acts as an independent information module.
-
-[DIMENSIONALITY & GRAPHIC PHYSICS]
-STYLE: Digital scientific illustration. A fusion of 19th-century zoological sketches and modern high-fidelity 3D rendering. Ultra-fine detail on textures (fur, feathers, or clothing).
-LINE LANGUAGE: 0.5pt micro-technical lines for labels and taxonomy guides.
-
-[TYPOGRAPHY ECOSYSTEM — ADAPTIVE DENSITY]
-TYPOGRAPHY DENSITY: Visual-heavy (70% subjects / 30% text).
-T1 MACRO HEADER: Massive, ultra-bold Traditional Chinese "Kaiti" or "Songti" characters enclosed in large black or red brackets 「 」. Estimated ~96px. Must be strictly pure Chinese (Hanzi).
-T2/T3 LABELS: Each subject is accompanied by its name in bilingual format: small-caps English (Sans-serif) and medium-weight Chinese (Heiti).
-T4 ANNOTATIONS: Micro-text placeholders for scientific descriptions, arranged in crisp technical blocks near each subject.
-TEXT PHYSICAL BEHAVIOR: Text is "floating" beside subjects with precise spatial alignment. High contrast (dark ink on light parchment).
-
-[NARRATIVE FLOW]
-NARRATIVE MODE: Comparison and Classification.
-VISUAL ENTRY POINT: The central T1 Header at the top, then the eye moves to the largest central subject.
-COGNITIVE LOAD: Information is chunked by individual subject modules, each with its own ID and label.
-
-[ICONOGRAPHY & METAPHOR]
-ICON STYLE: Scientific pictograms and vintage wax seals.
-CORE METAPHOR: The "Natural History Encyclopedia" page.
-SPECIAL ELEMENTS: Include "S/A/B/C Tier" medals in red/gold gradients for hierarchy, and a traditional red ink artist seal at the bottom right.
-
-[FINAL EXECUTION LOCK]
-Render as a single unified composition. All visual systems must be internally consistent. High-density detail, museum-quality print aesthetic, scientific clarity.
-
-主体：布偶猫、缅因猫、英国短毛猫、波斯猫、苏格兰折耳猫、孟加拉猫、西伯利亚猫、阿比西尼亚猫、暹罗猫、挪威森林猫。比例3:4， 文字清晰可读。
-
-单体图：
-Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.
-
-Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style.
-
-Subject Matter: Choose one from [People, Plants, or Animals].
-
-Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].
-
-Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional.
-
-Key Visual Requirements:
-
-1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism).
-
-2.  Layout & Strategic White Space:
-    * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point.
-    * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content.
-
-3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.
-
-4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):
-    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"].
-    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.
-    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
-    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
-
-Subject-Specific Module Structure (Example for general reference):
-
-A. For Humans [People]:
-   - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections)
-   - Module 2: Physiological Processes (e.g., Circulatory/Nervous System)
-   - Module 3: Historical Context & Timeline (Key Achievements)
-   - Module 4: Major Contribution Diagram (Detailed breakdown)
-   - Module 5: Cognitive Process / Psychological Insight
-   - Module 6: Genetic Profile / Evolution
-   - Module 7: Global Influence & Cultural Impact
-   - Module 8: Cultural Representations / Legacy
-
-B. For Animals:
-   - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows)
-   - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style)
-   - Module 3: Digestive & Skeletal System
-   - Module 4: Habitats & Distribution Map (with environmental details)
-   - Module 5: Unique Adaptations (e.g., camouflage, hunting tools)
-   - Module 6: Evolutionary History & Relatives
-   - Module 7: Symbiotic Relationships / Ecosystem Role
-   - Module 8: Conservation Status & Human Interaction
-
-C. For Plants:
-   - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details)
-   - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment)
-   - Module 3: Cellular Structure (Magnified circular views)
-   - Module 4: Medicinal Properties / Practical Applications (as in original original prompt)
-   - Module 5: Environmental Adaptations / Unique Features
-   - Module 6: Distribution Map & Environmental Context
-   - Module 7: Genetic Variations & Cultivation
-   - Module 8: Historical Usage & Folklore
-
-Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.
-
-[主题内容]
 ```
 
 </details>
@@ -2264,7 +2145,31 @@ The final result should resemble a professionally published architectural refere
 
 </details>
 
-**[All 61 entries](pages/en/image-infographic.md)**
+<a id="nano-banana-levitating-outfit-fashion-editorial-labels"></a>
+### Levitating Outfit Editorial With Callout Labels
+
+<a href="https://x.com/AllaAisling/status/2034382842084708533"><img src="previews/nano-banana-levitating-outfit-fashion-editorial-labels.jpg" width="360"></a>
+
+The prompt lists garments in order from footwear up to headwear and gives each fabric its own physics. A fixed label format of uppercase name, italic fabric and one defining detail, plus a three-part light setup of key, warm fill and cool rim, keeps the invisible-body look consistent.
+
+Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2034382842084708533) · 503 likes on 2026-10-28
+
+[`fashion`](pages/en/tags.md#tag-fashion) [`levitation`](pages/en/tags.md#tag-levitation) [`editorial`](pages/en/tags.md#tag-editorial) [`template`](pages/en/tags.md#tag-template) [`callout-labels`](pages/en/tags.md#tag-callout-labels)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Prompt Studio: Gravity Fashion Editorial, with Nano Banana 2 in Firefly
+
+Complete [STYLE] outfit floating in its exact worn position around  an invisible body with every piece suspended mid-breath, mid-billow.  LOOK (bottom to top): [FOOTWEAR] → [BOTTOMS] → [TOP] → [LAYER] →  [ACCESSORIES] → [JEWELLERY] → [HEADWEAR]  FABRIC PHYSICS: each material true to its weight, wool hangs,  silk drapes, denim holds its crease, leather keeps its shape.  Every edge lifting slightly as if caught in one silent gust.  LABELS: hairline leader to floating label box. "[GARMENT]" uppercase / "[FABRIC]" italic / "[ONE DEFINING DETAIL]"  LIGHTING: soft directional from upper left + warm fill from below  catching linings and sole edges + cool rim outlining the silhouette. BACKGROUND: [COLOR] seamless, fashion-forward. TITLE: "[LOOK NAME]" elegant serif type, top right. SUBTITLE: "[MOOD / OCCASION]" italic.  Mood: high-concept levitation editorial, the outfit exists,  the person is imagination. 4K, extraordinary fabric fidelity, tack sharp.
+
+Check ALTs for ideas 👇
+@AdobeFirefly
+```
+
+</details>
+
+**[All 64 entries](pages/en/image-infographic.md)**
 
 <a id="img-ui-mockup"></a>
 ## Phone and UI mockups
@@ -2289,11 +2194,11 @@ Turn one full day's worth of camera roll for the person in the reference image i
 </details>
 
 <a id="gpt-image-camera-roll-day"></a>
-### Camera roll of anyone's day, from one image
+### iPhone camera roll of one subject's full day
 
 <a href="https://x.com/Mayz1169/status/2099479395283214473"><img src="previews/gpt-image-camera-roll-day.jpg" width="360"></a>
 
-Same idea with stricter rules: the upload is the only subject, and only minimal iOS chrome may appear.
+Strict rules keep the subject identical and fix the layout at four thumbnail columns with real iOS chrome. A list of shot types and deliberate flaws like blur, odd crops and handheld framing makes the grid read as a real camera roll.
 
 GPT Image 2.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099479395283214473) · 762 likes on 2026-10-27
 
@@ -2418,44 +2323,46 @@ The whole set is quiet, private, relaxed, and real. The album forms a dense, con
 
 </details>
 
-<a id="gpt-image-ios-share-sheet-pop-out-portrait"></a>
-### iOS share sheet with 3D popout photo portrait
+<a id="gpt-image-arcade-versus-hud-theme-park-crowd-battle"></a>
+### Arcade versus game HUD over crowd scrum
 
-<a href="https://x.com/TheVirtualMuse/status/2109582485147517056"><img src="previews/gpt-image-ios-share-sheet-pop-out-portrait.jpg" width="360"></a>
+<a href="https://x.com/mikko_20100518/status/2047514897404354598"><img src="previews/gpt-image-arcade-versus-hud-theme-park-crowd-battle.jpg" width="360"></a>
 
-The prompt lists the share sheet interface element by element, then names exactly which parts of the subject break out of the thumbnail frame. A face reference line plus two side thumbnails of the same person keeps identity consistent across the carousel.
+A real photo scene is overlaid with a full fighting game HUD, and every panel, label, skill and item is spelled out with exact counts and quoted Japanese text. Fixing 10 fighters in two teams of 5 with matching side panels and nameplates keeps the layout tightly controlled.
 
-GPT Image 2.5 · Edit · Source: [@TheVirtualMuse on X](https://x.com/TheVirtualMuse/status/2109582485147517056) · 51 likes on 2026-10-28
+GPT Image 2 · Text-to-image · Source: [@mikko_20100518 on X](https://x.com/mikko_20100518/status/2047514897404354598) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-[`ios-share-sheet`](pages/en/tags.md#tag-ios-share-sheet) [`3d-popout`](pages/en/tags.md#tag-3d-popout) [`face-reference`](pages/en/tags.md#tag-face-reference) [`ui-composite`](pages/en/tags.md#tag-ui-composite) [`portrait`](pages/en/tags.md#tag-portrait)
+[`game-ui`](pages/en/tags.md#tag-game-ui) [`hud`](pages/en/tags.md#tag-hud) [`parody`](pages/en/tags.md#tag-parody) [`versus-screen`](pages/en/tags.md#tag-versus-screen) [`japanese-text`](pages/en/tags.md#tag-japanese-text)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Use my uploaded photo as the face reference. 3:4 vertical. An iOS share sheet on a light grey background: top left reads "1 Photo
-Selected" with an "Options >" pill below it, a round X close button top right, then a horizontal carousel of three photo thumbnails, and a
-bottom row of app icons labeled "AirDrop", "Messages", "Mail", "WhatsApp". Center thumbnail: the man in reference, keeping his exact
-face, hairstyle and identity, sitting cross-legged on a grey couch with a blue gingham blanket, holding an iced matcha latte with a green
-straw, looking at the camera. He wears a black baseball cap with a white NY logo, thin round gold wire glasses, an oversized cream shirt
-with a grey knit sweater draped over his shoulders, wide black trousers, white socks and black leather penny loafers, with a red crochet
-drawstring bag at his feet. 3D pop-out effect: his cap breaks out above the thumbnail's top edge, and his loafers and the red bag spill out
-over the app icons below. Side thumbnails, partially cropped: the same man sipping a takeaway coffee on the left, and resting his chin on
-his hand beside a monstera plant on the right. Soft indoor daylight, realistic skin texture.
+Create a hyper-detailed comedic Japanese arcade fighting game screenshot styled like a versus battle scene, using a real-world photo aesthetic with game UI overlaid on top. The scene shows an intense mock battle between two groups of theme-park fans competing for the front row at an outdoor show plaza in Tokyo DisneySea. Use a wide 16:9 composition. In the background, clearly show Mediterranean Harbor and Mount Prometheus under bright daytime skies, with the waterfront and DisneySea architecture visible. In the foreground, show exactly 10 young adult people in winter casual clothing, split into 2 opposing teams of 5, physically leaning, grabbing, reaching, and shoving in a tug-of-war-like scrum over position, with exaggerated competitive body language and frozen action as if in a fighting game. Faces should be anonymized with soft blurred blocks. Add floating character labels above each person with levels and names in Japanese. The overall tone is absurdly realistic, like a real candid photo transformed into a polished arcade game battle screen.
+
+Add a full Japanese fighting-game HUD with glossy blue-versus-red interface styling. At the very top, place a center stage title bar reading "東京ディズニーシー　ミッキー広場　ショー最前列バトル" and a large timer in the middle reading "TIME 89". In the top left, add a blue team header "PLAYER1" and team name "最前列ガチ勢A". In the top right, add a red team header "RIVAL" and team name "ライバルグループB". On the left side, stack exactly 5 blue player status panels with portraits, level, Japanese class-like nicknames, HP, SP, and BURST meters. The 5 left-side labels are: "Lv.25 ガチ勢リーダー ユウキ", "Lv.24 筋肉マン タケシ", "Lv.23 眼鏡オタク シンジ", "Lv.23 開角心MAX ケント", "Lv.22 サポート要員 リョウ". On the right side, stack exactly 5 red rival status panels with the labels: "Lv.27 ライバルリーダー ダイキ", "Lv.26 パワフル代表 マサル", "Lv.24 戦略家 コウジ", "Lv.23 熱血漢 リク", "Lv.22 サポート女子 サキ". Each panel should include numeric HP and SP values and segmented BURST gauges, styled like a Japanese arcade RPG-fighter interface.
+
+Place exactly 10 in-battle nameplates above the fighters in the center scene, color-coded blue for the left team and red for the right team. The 10 labels are: "Lv.24 タケシ", "Lv.25 ユウキ", "Lv.23 シンジ", "Lv.23 ケント", "Lv.22 リョウ", "Lv.27 ダイキ", "Lv.26 マサル", "Lv.23 リク", "Lv.22 サキ", "Lv.22 ミサキ".
+
+At the lower left, add a skill menu titled "スキル" listing exactly 5 skills with SP costs: "ダッシュ突撃 SP 20", "肩押し強奪 SP 25", "荷物で場所確保 SP 15", "ロープくぐり SP 10", "本気の根性 SP 50". Beneath that, add a dark description box explaining the highlighted skill "本気の根性" with the Japanese text: "気合で相手を威圧し、どかす！ 一定時間、相手が怯みやすくなる！ （バーストゲージを大きく消費する） 効果時間：10秒".
+
+At the bottom center, add an item menu titled "アイテム" with exactly 5 item slots showing icons and counts: a water bottle "x3", a folded purple towel "x2", a blue drawstring bag "x1", a gray backpack "x1", and a boxed meal "x2". At the lower right, add a quest panel titled "クエスト" with the mission text "ショー開始までに最前列を死守しろ！" and condition text "条件：ライバルグループを全員後ろに押し戻せ！" and countdown text "ショー開始まで：02:30". Beside it, add a mini-map titled "ミッキー広場MAP" showing red and blue dots for both teams in the plaza. Along the very bottom edge, include small controller prompts in Japanese for actions such as skill use, item use, grab/push, and dash.
+
+Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authentic plaza stone pavement, and a high-end Japanese game screenshot look. The image should feel like a ridiculous but believable crossover between a real Tokyo DisneySea crowd photo and a competitive arcade battle game interface.
 ```
 
 </details>
 
-**[All 20 entries](pages/en/image-ui-mockup.md)**
+**[All 17 entries](pages/en/image-ui-mockup.md)**
 
 <a id="img-product"></a>
 ## Product shots and e-commerce
 
 <a id="gpt-image-iced-coffee-glass-studio-product-photo"></a>
-### Iced coffee glass on soft beige studio backdrop
+### Iced coffee with milk swirls in frosted glass
 
 <a href="https://x.com/Strength04_X/status/2049082049995362785"><img src="previews/gpt-image-iced-coffee-glass-studio-product-photo.jpg" width="360"></a>
 
-The prompt names each visual layer of the drink, such as the dark coffee base, milk swirls, clear ice and condensation droplets. It adds soft studio lighting and a DSLR macro look to push the result toward premium beverage advertising.
+The prompt describes each layer of the drink in turn: the dark coffee base, milk swirls blending into a gradient, clear refracting ice and condensation droplets. Soft studio lighting and DSLR macro terms give it the clean look of a beverage advertisement.
 
 GPT Image 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2049082049995362785) · 617 likes on 2026-10-28
 
@@ -2511,26 +2418,21 @@ A photorealistic, highly detailed commercial product photograph of a standard al
 
 </details>
 
-<a id="nano-banana-radial-exploded-view-smartphone"></a>
-### Radial exploded view of a smartphone's components
+<a id="nano-banana-playful-character-face-food-packaging"></a>
+### Playful food packaging shaped as smiling character faces
 
-<a href="https://x.com/AllaAisling/status/2032126653309030481"><img src="previews/nano-banana-radial-exploded-view-smartphone.jpg" width="360"></a>
+<a href="https://x.com/azed_ai/status/2044053391832486350"><img src="previews/nano-banana-playful-character-face-food-packaging.jpg" width="360"></a>
 
-The prompt lists components from the core outward and gives separate material cues for glass, metal, circuit board and rubber. It also fixes the label typography, the three light sources and the title and spec block positions, so the template swaps cleanly to other products.
+The prompt makes the box mechanics form the face, so the flap or die cut becomes the mouth and the real product fills it. A product name placeholder, flat vector styling, a pure white background and a 1:1 ratio keep the set consistent.
 
-Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2032126653309030481) · 468 likes on 2026-10-28
+Nano Banana 2 · Text-to-image · Source: [@azed_ai on X](https://x.com/azed_ai/status/2044053391832486350) · 280 likes on 2026-10-28
 
-[`exploded-view`](pages/en/tags.md#tag-exploded-view) [`product-teardown`](pages/en/tags.md#tag-product-teardown) [`3d-render`](pages/en/tags.md#tag-3d-render) [`infographic-labels`](pages/en/tags.md#tag-infographic-labels) [`dark-background`](pages/en/tags.md#tag-dark-background)
+[`packaging`](pages/en/tags.md#tag-packaging) [`character-face`](pages/en/tags.md#tag-character-face) [`flat-vector`](pages/en/tags.md#tag-flat-vector) [`product-mockup`](pages/en/tags.md#tag-product-mockup) [`die-cut`](pages/en/tags.md#tag-die-cut)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Prompt Studio: 3D Radial Explosion with Nano Banana 2 in Firefly
-
-Hyperrealistic 3D radial exploded view of [PRODUCT]  [NUMBER] components  bursting outward from a central axis in every direction, frozen in mid-air.  True spatial explosion, not a vertical stack, depth and parallax visible.  COMPONENTS (core outward): [SHELL] → [DISPLAY] → [FRAME] → [MAINBOARD] →  [BATTERY] → [MICRO PARTS shown in 3x floating callout circles]  MATERIALS: glass refracts and catches specular highlights, aluminium shows  brushed grain and machined edges, PCB traces glow faintly amber,   rubber gaskets matte with micro-texture, cables with soft bend physics.  LABELS: hairline leader to floating box. "[COMPONENT]" uppercase /  "[FUNCTION]" italic / "[KEY SPEC]" monospace. Radiate outward, no overlaps.  LIGHTING: cool diffused overhead + warm amber underlighting on internals +  thin blue rim on outer shell. Displays emit soft UI glow. Circuits self-illuminate.  BACKGROUND: [COLOR], deep, non-reflective. Midnight black recommended. TITLE: "[PRODUCT NAME]" top right. SUBTITLE: "[TAGLINE]".  SPEC BLOCK: "[SPEC 1] / [SPEC 2] / [SPEC 3]" bottom left in monospace.  Mood: iFixit teardown meets NASA manual meets WIRED cover. 4K, tack sharp, extraordinary material fidelity.
-
-Check ALTs for ideas 👇
-@AdobeFirefly
+Playful concept packaging design for [product name], box structure creatively shaped to reflect the product theme, bold illustrated character face integrated across the front panels, the opening flap or die-cut window forms the character’s mouth, teeth or expression, real product visible inside completing the face illusion, clever interaction between packaging mechanics and facial expression, flat vector illustration style, bold graphic lines, high-contrast colors, minimal modern branding, smooth matte cardboard texture, clean structural details, studio product photography, centered composition, pure white background, soft realistic shadow beneath, ultra-detailed, high-end creative packaging mockup, 1:1 aspect ratio.
 ```
 
 </details>
@@ -2559,134 +2461,313 @@ Check ALTs for ideas 👇
 
 </details>
 
-**[All 27 entries](pages/en/image-product.md)**
+**[All 32 entries](pages/en/image-product.md)**
 
 <a id="img-brand"></a>
 ## Logos, ads and packaging
 
-<a id="gpt-image-vinco-fictional-brand-lookbook-grid"></a>
-### Six image lookbook for fictional streetwear brand
+<a id="nano-banana-concept-word-typography-2x2-grid"></a>
+### Four concept words shaped into typographic symbols
 
-<a href="https://x.com/jayrizpop/status/2046725951640441151"><img src="previews/gpt-image-vinco-fictional-brand-lookbook-grid.jpg" width="360"></a>
+<a href="https://x.com/Gdgtify/status/2109259469557563658"><img src="previews/nano-banana-concept-word-typography-2x2-grid.jpg" width="360"></a>
 
-Names a fictional brand, a series count and an aspect ratio, then blends two reference worlds, Italian archival graphics and Californian skate streetwear. Typography is requested as physical objects such as cards, bibs and labels, and each frame gets a different context so the set stays coherent.
+A single template with a bracketed word slot and AI_INFER placeholders lets the model pick the symbol, texture and palette for each word. Numeric weights after each clause (::5 for the main idea, a negative weight for 3D and illegible text) steer the layout, and a 2x2 grid request gives four concepts in one render.
 
-GPT Image 2 · Text-to-image · Source: [@jayrizpop on X](https://x.com/jayrizpop/status/2046725951640441151) · 607 likes on 2026-10-28
+Nano Banana 2.1 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2109259469557563658) · 22 likes on 2026-10-29
 
-[`lookbook`](pages/en/tags.md#tag-lookbook) [`fictional-brand`](pages/en/tags.md#tag-fictional-brand) [`streetwear`](pages/en/tags.md#tag-streetwear) [`series`](pages/en/tags.md#tag-series) [`typography`](pages/en/tags.md#tag-typography)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-above the prompt. Just a quick screenshot of an arena board of mine
-```
-
-</details>
-
-<a id="nano-banana-playful-character-face-food-packaging"></a>
-### Playful food packaging shaped as smiling character faces
-
-<a href="https://x.com/azed_ai/status/2044053391832486350"><img src="previews/nano-banana-playful-character-face-food-packaging.jpg" width="360"></a>
-
-The prompt makes the box mechanics form the face, so the flap or die cut becomes the mouth and the real product fills it. A product name placeholder, flat vector styling, a pure white background and a 1:1 ratio keep the set consistent.
-
-Nano Banana 2 · Text-to-image · Source: [@azed_ai on X](https://x.com/azed_ai/status/2044053391832486350) · 280 likes on 2026-10-28
-
-[`packaging`](pages/en/tags.md#tag-packaging) [`character-face`](pages/en/tags.md#tag-character-face) [`flat-vector`](pages/en/tags.md#tag-flat-vector) [`product-mockup`](pages/en/tags.md#tag-product-mockup) [`die-cut`](pages/en/tags.md#tag-die-cut)
+[`typography`](pages/en/tags.md#tag-typography) [`logo-design`](pages/en/tags.md#tag-logo-design) [`gestalt`](pages/en/tags.md#tag-gestalt) [`vector-style`](pages/en/tags.md#tag-vector-style) [`grid`](pages/en/tags.md#tag-grid)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Playful concept packaging design for [product name], box structure creatively shaped to reflect the product theme, bold illustrated character face integrated across the front panels, the opening flap or die-cut window forms the character’s mouth, teeth or expression, real product visible inside completing the face illusion, clever interaction between packaging mechanics and facial expression, flat vector illustration style, bold graphic lines, high-contrast colors, minimal modern branding, smooth matte cardboard texture, clean structural details, studio product photography, centered composition, pure white background, soft realistic shadow beneath, ultra-detailed, high-end creative packaging mockup, 1:1 aspect ratio.
+Nano Banana 2.1's timing couldn't be any better. I have TONS of logo prompts to test.
+
+Prompt: 2x2 grid, do this for truth, conflict, creativity, and humanity:      A clever, striking typographic illustration on a pure white background::5  The Typography: The word "[WORD/CONCEPT]" written in massive, bold font. The letters stretch, bend, and warp to perfectly form the physical shape of AI_INFER(a symbol representing the word)::5  The Details: AI_INFER(Highly stylized textures, flowing ribbons, ink splatters, or mechanical parts seamlessly blending into the letters)::4  The Palette: AI_INFER(A bold, thematic color scheme fitting the concept), high contrast, graphic design, vector art style::4  Style: Award-winning typography, Dribbble shot, logo design, gestalt illusion::3  3D render, messy, illegible, text overlay, unreadable, photography::-4
 ```
 
 </details>
 
-<a id="gpt-image-logo-to-brand-kit-3x3-grid"></a>
-### Brand kit grid generated from one logo
+<a id="nano-banana-scientist-typographic-wordmarks-grid"></a>
+### Four scientist surnames as experimental typographic wordmarks
 
-<a href="https://x.com/erenalkis/status/2047305079737205066"><img src="previews/gpt-image-logo-to-brand-kit-3x3-grid.jpg" width="360"></a>
+<a href="https://x.com/Gdgtify/status/2113000873714442552"><img src="previews/nano-banana-scientist-typographic-wordmarks-grid.jpg" width="360"></a>
 
-The prompt gives one attached logo and a fixed 3x3 grid of 4x3 panels with no outlines. It then lists the required components: logo, typeface, color palette, website, packaging and social templates.
+Four concept anchors (geometric wordmark, semantic symbol type, technical lettering, Swiss minimalism) are fused into one visual DNA, then a subject analysis step maps each name to its own symbols. Strict rules for pure black on white and at least two transformed letters keep the result readable and consistent across the grid.
 
-GPT Image 2 · Edit · Source: [@erenalkis on X](https://x.com/erenalkis/status/2047305079737205066) · 190 likes on 2026-10-29
+Nano Banana 2.1 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2113000873714442552) · 15 likes on 2026-10-29
 
-[`brand-kit`](pages/en/tags.md#tag-brand-kit) [`logo`](pages/en/tags.md#tag-logo) [`grid-layout`](pages/en/tags.md#tag-grid-layout) [`packaging`](pages/en/tags.md#tag-packaging) [`social-templates`](pages/en/tags.md#tag-social-templates)
+[`typography`](pages/en/tags.md#tag-typography) [`wordmark`](pages/en/tags.md#tag-wordmark) [`swiss-minimalism`](pages/en/tags.md#tag-swiss-minimalism) [`black-and-white`](pages/en/tags.md#tag-black-and-white) [`grid`](pages/en/tags.md#tag-grid)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Hayır kendim derleme yaptım. Prompt: Ekteki logoyu kullanarak, marka için dış çizgileri olmayan, her biri 4x3 boyutunda olan, 3x3 çok görüntülü bir marka kiti oluştur. Marka logosu, yazı tipi ve renk paleti gibi ana marka bileşenlerinin yanı sıra web sitesi, ambalaj tasarımı ve sosyal medya şablon örneklerini de eklediğinden emin ol.
+Another fun experiment for scientists. This one was done with Nano Banana 2.1
+
+Prompt: 2x2 grid, 16:9, do this for 4 famous scientists: CONCEPT ANCHOR 1:
+"Experimental geometric wordmark — custom-built uppercase
+letterforms, monoline geometry, alternating thick and thin
+strokes, deliberately interrupted character segments,
+mechanically precise shapes, optical alignment,
+architectural negative space."
+
+::
+
+CONCEPT ANCHOR 2:
+"Semantic symbol typography — recognizable visual symbols
+integrated directly into the anatomy of letters, including
+modified counters, transformed stems, symbolic crossbars,
+illustrative terminals, and conceptual ligatures."
+
+::
+
+CONCEPT ANCHOR 3:
+"Vintage scientific and engineering lettering — parallel
+technical lines, concentric rings, rotational diagrams,
+rhythmic stroke repetition, exploded mechanical shapes,
+technical-drawing precision, scientific schematic clarity."
+
+::
+
+CONCEPT ANCHOR 4:
+"Swiss modernist minimalist identity — immaculate white
+background, pure black graphic elements, striking negative
+space, precisely controlled typography, asymmetrical visual
+balance, intellectually playful reduction."
+
+INSTRUCTION:
+
+Find the precise visual intersection of these four concepts.
+
+Ignore the literal technological terminology
+and subject matter in the references.
+
+Extract only their visual design DNA.
+
+Create an extraordinary experimental typographic
+wordmark for $ SUBJECT.
+
+The letters must become an intelligent visual
+expression of the subject's defining meaning.
+
+This is not ordinary text decorated with icons.
+
+The word itself must transform into a symbolic
+piece of visual engineering.
+
+SUBJECT ANALYSIS:
+
+First determine:
+
+1. The most recognizable word or short phrase
+   representing $ SUBJECT.
+
+2. Its strongest defining visual characteristic.
+
+3. Its dominant conceptual properties.
+
+4. Three to five relevant visual symbols.
+
+5. The geometric behaviors that best communicate
+   the subject.
+
+6. Which letters offer the most promising
+   opportunities for transformation.
+
+SEMANTIC TRANSFORMATION:
+
+If the subject represents:
+
+MOTION:
+Use directional strokes, displacement, repeated
+contours, kinetic breaks, and rhythmic geometry.
+
+NATURE:
+Translate growth, branching, organic repetition,
+and environmental forms into letter anatomy.
+
+SCIENCE:
+Use scientific geometry, orbital paths, schematic
+forms, diagrams, and precision linework.
+
+MUSIC:
+Incorporate visual rhythm, wave structures,
+oscillations, and musical relationships.
+
+ARCHITECTURE:
+Transform stems and counters into arches,
+structural supports, beams, and architectural voids.
+
+TECHNOLOGY:
+Use mechanical precision, circuitry, modular
+systems, communication patterns, or interface geometry.
+
+EMOTION:
+Use spatial tension, expansion, compression,
+contrast, distortion, or expressive continuity.
+
+HISTORY:
+Use carefully selected era-specific geometric
+or typographic influences.
+
+ABSTRACT CONCEPTS:
+Invent a meaningful visual metaphor and
+translate it into letter construction.
+
+OTHER SUBJECTS:
+Infer a unique transformation appropriate
+to the subject's actual meaning.
+
+LETTERFORM CONSTRUCTION:
+
+Start with a custom geometric uppercase wordmark.
+
+Transform selected characters through:
+
+- parallel stroke multiplication
+- interrupted or fragmented stems
+- negative-space symbols
+- custom ligatures
+- extended horizontal bars
+- geometric letter substitutions
+- contour-line repetition
+- directional stroke bending
+- optical illusion effects
+- embedded subject-specific pictograms
+- carefully controlled line thickness
+- mathematical relationships between shapes
+
+Preserve character recognition.
+
+At least two characters should exhibit
+meaningful custom transformations.
+
+Every transformation must serve the
+concept rather than exist as decoration.
+
+COMPOSITION:
+
+Present ONE unified wordmark centered within
+a generous white canvas.
+
+Use a horizontal composition for longer names.
+
+Use a compact stacked lockup when the text
+naturally benefits from multiple lines.
+
+Allow selected characters to extend beyond
+the standard letter height when necessary.
+
+Maintain carefully balanced optical spacing.
+
+Let negative space contribute as much
+as the black geometry.
+
+VISUAL STYLE:
+
+- pure black lettering
+- clean white background
+- high-contrast vector-like precision
+- crisp geometric contours
+- controlled thin parallel lines
+- variable stroke density
+- subject-driven symbolic elements
+- elegant modular structure
+- visually clever typographic surprises
+
+STRICT RULES:
+
+No unnecessary illustrations.
+No photographic objects.
+No gradients.
+No 3D extrusion.
+No decorative backgrounds.
+No mockups.
+No unrelated symbols.
+No default electrical motifs.
+
+Do not sacrifice readability for cleverness.
+
+OUTPUT:
+
+A visually ingenious minimalist typographic
+identity for $ SUBJECT where the wordmark itself
+becomes a symbolic machine, diagram, sculpture,
+or optical expression of the subject.
+
+Elegant from far away.
+Surprisingly intelligent up close.
+Immediately recognizable.
+Distinctly original.
 ```
 
 </details>
 
-<a id="nano-banana-math-typography-gestalt-2x2-grid"></a>
-### Math Concept Words Shaped Into Symbols
+<a id="gpt-image-bakery-logo-transparent"></a>
+### Bakery logo on a transparent background
 
-<a href="https://x.com/Gdgtify/status/2114728003737391525"><img src="previews/nano-banana-math-typography-gestalt-2x2-grid.jpg" width="360"></a>
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="previews/gpt-image-bakery-logo-transparent.jpg" width="360"></a>
 
-A 2x2 grid template swaps in a word slot and lets the model infer a symbol, texture and palette for each topic. Weighted segments with a negative weight on 3D, messy and photographic looks keep the result flat, vector and legible.
+Asks for an original flat mark that reads at small and large sizes, then spells out the transparent background with clean alpha edges and no backdrop, checkerboard or watermark. Pair it with background=transparent in the API.
 
-Nano Banana 2.1 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2114728003737391525) · 23 likes on 2026-10-29
+GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
 
-[`typography`](pages/en/tags.md#tag-typography) [`logo-design`](pages/en/tags.md#tag-logo-design) [`math`](pages/en/tags.md#tag-math) [`vector-art`](pages/en/tags.md#tag-vector-art) [`grid`](pages/en/tags.md#tag-grid)
+[`logo`](pages/en/tags.md#tag-logo) [`transparent`](pages/en/tags.md#tag-transparent) [`vector`](pages/en/tags.md#tag-vector)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Tested one of my logo prompts with Nano Banana 2.1 & GPT 2.5 for math.
-
-Prompt: 2x2 grid, 16:9, do this 4 math topics,   A clever, striking typographic illustration on a pure white background::5  The Typography: The word "[WORD/CONCEPT]" written in massive, bold font. The letters stretch, bend, and warp to perfectly form the physical shape of AI_INFER(a symbol representing the word)::5  The Details: AI_INFER(Highly stylized textures, flowing ribbons, ink splatters, or mechanical parts seamlessly blending into the letters)::4  The Palette: AI_INFER(A bold, thematic color scheme fitting the concept), high contrast, graphic design, vector art style::4  Style: Award-winning typography, Dribbble shot, logo design, gestalt illusion::3  3D render, messy, illegible, text overlay, unreadable, photography::-4
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
 ```
 
 </details>
 
-**[All 22 entries](pages/en/image-brand.md)**
+<a id="gpt-image-bichon-shop-skeuomorphic-app-icon"></a>
+### Bichon puppy in pink shopping bag app icon
+
+<a href="https://x.com/iamaiistudio/status/2071923809788285125"><img src="previews/gpt-image-bichon-shop-skeuomorphic-app-icon.jpg" width="360"></a>
+
+The prompt fixes the format with a single squircle, an 80 percent canvas fill and a white background, then names the macOS App Store skeuomorphic style. The short app name drives the subject and lettering while the model fills in the details.
+
+GPT Image 2 · Text-to-image · Source: [@iamaiistudio on X](https://x.com/iamaiistudio/status/2071923809788285125) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`app-icon`](pages/en/tags.md#tag-app-icon) [`skeuomorphic`](pages/en/tags.md#tag-skeuomorphic) [`macos`](pages/en/tags.md#tag-macos) [`squircle`](pages/en/tags.md#tag-squircle) [`cute`](pages/en/tags.md#tag-cute)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.
+```
+
+</details>
+
+**[All 9 entries](pages/en/image-brand.md)**
 
 <a id="img-realism"></a>
 ## Photo realism
 
-<a id="gpt-image-pencil-essay-coffee-stain"></a>
-### Pencil handwritten essay on lined paper with coffee stain
+<a id="gpt-image-night-tokyo-flash-blur-candid-snapshot"></a>
+### Blurred Flash Snapshot on Night Tokyo Sidewalk
 
-<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
+<a href="https://x.com/doctorwasif/status/2070011415662842000"><img src="previews/gpt-image-night-tokyo-flash-blur-candid-snapshot.jpg" width="360"></a>
 
-The prompt fixes the medium (pencil on 8.5x11 lined paper) and the capture method (phone photo). It asks for stroke variance and one small flaw, a coffee stain in a named corner, which gives the realism.
+Stacks accidental phone camera cues such as flash during motion, handheld shake, directional blur, blown highlights and heavy noise to fake a raw snapshot. The negative prompt blocks studio lighting, sharp focus and identity matching.
 
-GPT Image 2.5 · Text-to-image · Source: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 likes on 2026-10-27
+GPT Image 2 · Text-to-image · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2070011415662842000) · 713 likes on 2026-10-28
 
-[`handwriting`](pages/en/tags.md#tag-handwriting) [`paper`](pages/en/tags.md#tag-paper) [`phone-photo`](pages/en/tags.md#tag-phone-photo) [`texture`](pages/en/tags.md#tag-texture) [`coffee-stain`](pages/en/tags.md#tag-coffee-stain)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-🚨 GPT-Image-2.5 Output
-
-I said it to write like einstein it did it without reference < i did not give image or anything   >
-
-left side is AI and right side is real photo from reddit to compare
-
-Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
-```
-
-</details>
-
-<a id="nano-banana-monstera-leaf-hidden-words"></a>
-### Monstera leaf gaps forming hidden words
-
-<a href="https://x.com/fofrAI/status/2107509669514113058"><img src="previews/nano-banana-monstera-leaf-hidden-words.jpg" width="360"></a>
-
-The prompt names one real object and asks for the text to emerge organically from its natural features, so the lettering follows the leaf's own cut-outs instead of sitting on top. A simple backdrop keeps the gaps readable as letterforms.
-
-Nano Banana 2.1 · Text-to-image · Source: [@fofrAI on X](https://x.com/fofrAI/status/2107509669514113058) · 549 likes on 2026-10-28
-
-[`text-in-image`](pages/en/tags.md#tag-text-in-image) [`monstera`](pages/en/tags.md#tag-monstera) [`nature`](pages/en/tags.md#tag-nature) [`typography`](pages/en/tags.md#tag-typography) [`photo`](pages/en/tags.md#tag-photo)
+[`candid`](pages/en/tags.md#tag-candid) [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) [`motion-blur`](pages/en/tags.md#tag-motion-blur) [`night`](pages/en/tags.md#tag-night) [`flash`](pages/en/tags.md#tag-flash)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-A photo of a monstera leaf against a simple backdrop, cleverly and organically appearing within the natural gaps of the leaf are the words Nano Banana
+GPT Image 2
+
+{
+  "prompt": "Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman inspired only by general proportions/vibe. Night Tokyo sidewalk beside white ceramic tile wall. Mid-walk, half-profile, turning back in surprise, hand raised toward lens, shy restrained smile, continuing forward, imperfect framing, nearly exiting frame. Flash fired during motion. Strong handheld shake, heavy directional blur, smeared facial details, blurred hand and hair, ghosting, streaked tile wall, deep darkness around. Harsh flash highlights, blown exposure, hard shadows. Raw accidental snapshot, intrusive, playful, fleeting memory. Extremely noisy, heavily blurred, authentic phone-camera look.",
+  "negative_prompt": "identity match, face copy, real person replication, anime, illustration, painting, stylized, studio lighting, beauty lighting, sharp focus, clean face, smooth skin, posed portrait, fashion editorial, cinematic, film still, tripod, professional photography"
+}
 ```
 
 </details>
@@ -2739,36 +2820,38 @@ Ultra-realistic action photography, extreme fisheye lens, 8mm, worm’s-eye view
 
 </details>
 
-**[All 44 entries](pages/en/image-realism.md)**
+<a id="gpt-image-tokyo-night-flash-blur-snapshot"></a>
+### Blurry flash snapshot of woman waving on Tokyo street
 
-<a id="img-portrait"></a>
-## Portraits
+<a href="https://x.com/MissDelulu9/status/2070345476189336033"><img src="previews/gpt-image-tokyo-night-flash-blur-snapshot.jpg" width="360"></a>
 
-<a id="gpt-image-macbook-screen-photo-booth-selfie"></a>
-### Dim bedroom selfie in Photo Booth on laptop
+Describes a flawed phone photo on purpose: flash fired mid motion, handheld shake, ghosting, blown highlights and imperfect framing. The negative prompt rules out studio lighting, sharp focus and polished portrait looks, so the result reads as an accidental snapshot.
 
-<a href="https://x.com/tadasgedgaudas/status/2046877643929166330"><img src="previews/gpt-image-macbook-screen-photo-booth-selfie.jpg" width="360"></a>
+GPT Image 2 · Text-to-image · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2070345476189336033) · 344 likes on 2026-10-29
 
-The prompt is structured JSON with an identity lock block that preserves the face from the input photo. It frames the result as a photo of a screen, not a screenshot, and lists physical flaws such as pixel grid, moire, dust and fingerprints, with a negative list against flat UI and polish.
-
-GPT Image 2 · Edit · Source: [@tadasgedgaudas on X](https://x.com/tadasgedgaudas/status/2046877643929166330) · 4,434 likes on 2026-10-28
-
-[`screen-photo`](pages/en/tags.md#tag-screen-photo) [`json-prompt`](pages/en/tags.md#tag-json-prompt) [`identity-lock`](pages/en/tags.md#tag-identity-lock) [`low-light`](pages/en/tags.md#tag-low-light) [`candid`](pages/en/tags.md#tag-candid)
+[`candid`](pages/en/tags.md#tag-candid) [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) [`motion-blur`](pages/en/tags.md#tag-motion-blur) [`flash`](pages/en/tags.md#tag-flash) [`night`](pages/en/tags.md#tag-night)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-{"image_settings": {"aspect_ratio": "3:4", "resolution": {"width": 1152, "height": 1536}}, "prompt": {"identity_lock": {"reference": "input_photo", "preserve": ["face", "facial proportions", "eye shape", "nose", "lips", "skin tone", "skin texture", "hairline", "overall identity"], "rules": ["no face swap", "no beautify", "no smoothing", "no reshaping", "no AI look"]}, "scene": {"camera_angle": "high-angle downward shot, POV", "composition": "MacBook screen fills most of the frame, thin strip of physical keyboard visible at the bottom", "screen_surface": ["visible RGB pixel grid", "subtle moire effect", "micro dust on glass", "faint fingerprints", "soft ambient reflections"]}, "digital_interface": {"os": "macOS dark mode", "background_app": {"name": "Spotify", "view": "Liked Songs", "visible_tracks": ["Blank Space \u2013 Taylor Swift", "Shake It Off \u2013 Taylor Swift", "Cruel Summer \u2013 Taylor Swift", "Love Story \u2013 Taylor Swift"]}, "foreground_app": {"name": "Photo Booth", "state": "live preview window", "position": "floating, center-right"}}, "photo_booth_content": {"environment": {"room": "dim bedroom", "background": "off-white wall, rumpled bedding", "lighting": "low-light, nocturnal, cool screen glow mixed with warm skin tones"}, "subject": {"pose": "lying down, relaxed, candid", "expression": "natural, slightly relaxed", "outfit": "light-colored tank top", "prop": {"item": "iPhone 15 Pro", "hand": "right hand"}}}, "realism_rules": ["this is a photo of a screen, not a screenshot", "raw smartphone photo look", "natural noise", "imperfect glass", "no studio lighting", "no HD polish"]}, "negative_prompt": ["screenshot", "flat UI", "perfect screen", "clean glass", "studio lighting", "beauty filter", "cartoon", "3d render", "painting", "watermark", "blurred face"]}
+Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman on a Tokyo sidewalk at night beside a white tiled wall. Mid-walk, half-profile, turning back with a shy smile, hand raised toward the camera. Flash fired during motion, strong handheld shake, heavy motion blur, ghosting, streaked tiles, deep shadows, blown highlights, imperfect framing, raw accidental snapshot, authentic noisy phone-camera aesthetic.
+
+Negative Prompt: identity match, face copy, real person replication, anime, illustration, painting, CGI, stylized, studio lighting, beauty lighting, sharp focus, smooth skin, posed portrait, fashion editorial, cinematic, DSLR, tripod, professional photography
 ```
 
 </details>
 
+**[All 45 entries](pages/en/image-realism.md)**
+
+<a id="img-portrait"></a>
+## Portraits
+
 <a id="gpt-image-bougainvillea-archway-courtyard-portrait"></a>
-### Two women under a bougainvillea archway courtyard
+### Woman glancing back under a seaside bougainvillea archway
 
 <a href="https://x.com/abxxai/status/2097698712978087966"><img src="previews/gpt-image-bougainvillea-archway-courtyard-portrait.jpg" width="360"></a>
 
-The prompt places a detailed near subject against a barely specified second figure, then layers the setting from foreground arch to courtyard to sea. It names a camera era, direct fill flash and CCD color so the lighting and grain come out consistent.
+The prompt describes the near subject in close detail, gives the second figure only clothing and a pose, and builds depth from the flowering arch through the courtyard to the hazy sea. The model kept that layered composition and warm palette but rendered soft natural light instead of the requested direct flash.
 
 GPT Image 2.5 · Text-to-image · Source: [@abxxai on X](https://x.com/abxxai/status/2097698712978087966) · 2,645 likes on 2026-10-28
 
@@ -2840,7 +2923,46 @@ Aspect ratio 4:3. No text, no watermark, no logos.
 
 </details>
 
-**[All 179 entries](pages/en/image-portrait.md)**
+<a id="gpt-image-car-door-coastal-film-snapshot"></a>
+### Candid early 2000s film snapshot from inside car
+
+<a href="https://x.com/abxxai/status/2102775755646337530"><img src="previews/gpt-image-car-door-coastal-film-snapshot.jpg" width="360"></a>
+
+An uploaded character sheet locks identity, then the scene is framed from inside the car so the door frame, headliner and seat belt create a natural foreground. The film look is written into the prompt as camera and grade details like 28mm barrel distortion, lifted blacks, halation and grain, not applied as a filter.
+
+GPT Image 2.5 · Edit · Source: [@abxxai on X](https://x.com/abxxai/status/2102775755646337530) · 1,687 likes on 2026-10-28
+
+[`film-look`](pages/en/tags.md#tag-film-look) [`candid-snapshot`](pages/en/tags.md#tag-candid-snapshot) [`character-reference`](pages/en/tags.md#tag-character-reference) [`travel`](pages/en/tags.md#tag-travel) [`y2k`](pages/en/tags.md#tag-y2k)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+4/ the start frame, GPT Image 2.5 made
+
+the old footage look is NOT a filter.. Opus wrote it into the prompt:
+
+Promtp:
+
+Use the uploaded character sheet as the strict identity reference. Keep her exact face, bone structure, brown eyes, light freckles across nose and cheeks, natural full lips, and long straight light-brown hair with sun-kissed caramel highlights parted in the middle. Keep the thin gold chain necklace with the small cross pendant.
+
+SCENE: A candid photo taken from inside a parked silver sedan, looking out through the open rear passenger door. The door frame, the grey fabric headliner, the black door panel with its chrome handle, and part of the seat belt frame the shot on both sides. She stands just outside the open door on a rocky clifftop road above the ocean, both arms raised, one hand gripping the top of the door frame and the other resting on the roof edge, leaning slightly toward the camera. Relaxed, unposed, calm expression, looking straight into the lens.
+
+WARDROBE: Fitted cropped white cotton baby tee with a faded, sun-washed vintage graphic print in pale blue and coral red, slightly worn and soft. Light-wash low-rise denim cutoff shorts with frayed hems. Thin brown leather cord bracelets on one wrist. Hair slightly messy and windblown, a few strands across her face.
+
+BACKGROUND: Deep blue Mediterranean sea filling the frame behind her, sparkling sun glints on the water, a flat horizon line at chest height, pale hazy sky, dark rocks and sandy stones at the cliff edge below.
+
+LIGHT: Harsh direct midday summer sun, bright and slightly overexposed. Sun-warmed skin with a natural sheen and slight glow on the cheeks and nose, soft shadows under the chin, a faint reflection of light off the white car interior.
+
+CAMERA AND LOOK: Early 2000s point-and-shoot film photo, 35mm film, 28mm wide lens with slight barrel distortion at the edges, shot from chest height inside the car. Warm, faded, sun-bleached color grade, lifted blacks, low contrast, creamy highlights that gently blow out in the sky, slightly yellowed whites, soft halation around bright edges, fine visible film grain, a touch of softness and imperfect focus. Looks like a real candid snapshot from a summer road trip, not a studio shot.
+
+REALISM: Real skin texture with visible pores and freckles, no retouching, no plastic skin, natural flyaway hairs, real fabric wrinkles on the tee, real dust and wear on the car interior.
+
+Aspect ratio 4:3. No text, no watermark, no logos.
+```
+
+</details>
+
+**[All 157 entries](pages/en/image-portrait.md)**
 
 <a id="img-character"></a>
 ## Characters and figures
@@ -2902,188 +3024,114 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
-<a id="gpt-image-grayscale-3d-household-chores-step-grid"></a>
-### Grayscale 3D household chores instruction grid
+<a id="nano-banana-ball-shaped-cute-animal"></a>
+### Ball-shaped baby sea otter floating in kelp
 
-<a href="https://x.com/john_my07/status/2048803726312571335"><img src="previews/gpt-image-grayscale-3d-household-chores-step-grid.jpg" width="360"></a>
+<a href="https://x.com/NanoBanana/status/2027298143134478451"><img src="previews/nano-banana-ball-shaped-cute-animal.jpg" width="360"></a>
 
-Labeled blocks fix style, grid, character, wardrobe and scene, then a per panel template sets step title, pose, instruction lines and motion arrows. A reference image locks the face across all 16 panels, and a restrictions block keeps the sheet clean enough to use as an animation reference.
+A single [animal] placeholder makes the prompt reusable across species. Fusing head and body into one near sphere, adding oversized eyes with an upward glance, and placing the animal in its usual habitat keeps the result cute and coherent.
 
-GPT Image 2 · Edit · Source: [@john_my07 on X](https://x.com/john_my07/status/2048803726312571335) · 1,187 likes on 2026-10-28
+Nano Banana 2 · Text-to-image · Source: [@NanoBanana on X](https://x.com/NanoBanana/status/2027298143134478451) · 851 likes on 2026-10-28
 
-[`instructional-grid`](pages/en/tags.md#tag-instructional-grid) [`grayscale`](pages/en/tags.md#tag-grayscale) [`3d-render`](pages/en/tags.md#tag-3d-render) [`motion-arrows`](pages/en/tags.md#tag-motion-arrows) [`reference-image`](pages/en/tags.md#tag-reference-image)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-[VISUAL STYLE]
-Monochrome grayscale composition featuring a highly detailed 3D-rendered female character. Designed like a professional instructional guide with a technical, diagram-inspired layout. Clean white background, soft studio lighting, and strong contrast to highlight posture, actions, and object interaction.
-[GRID LAYOUT]
-Structured 4×4 panel grid (16 frames total), evenly spaced with thin black divider lines. Each panel is identical in size and clearly numbered from 1 to 16, showing a continuous sequence of household activities.
-[CHARACTER]
-Use the provided reference image for the face and overall likeness.
-Same facial features, skin tone, and proportions
-Natural makeup, soft expression
-Consistent identity across all 16 panels
-Realistic proportions and clean hairstyle (loose or tied back)
-[WARDROBE]
-Modern, modest casual outfit:
-Fitted crop top (not revealing, clean neckline, practical for movement)
-High-waisted straight or slightly wide-leg jeans (full length, neat fit)
-Optional minimal sneakers or barefoot indoor styling
-Fabric should react naturally to movement (subtle folds and tension)
-[SCENE APPROACH]
-Minimal, clean environment per panel — only essential props related to the chore.
-No clutter, no complex backgrounds — focus stays on the subject and action.
-[PANEL STRUCTURE – EACH FRAME]
-Top-left: Step number + task title (e.g., “Step 4 – Vacuum Floor”)
-Center: Full-body pose performing the chore
-Bottom-left: 3–4 concise instruction lines
-Overlay: Motion arrows and directional guides showing action flow
-[CHORE SEQUENCE EXAMPLES]
-Make the Bed
-Tidy Up Room
-Dust Surfaces
-Vacuum Floor
-Sweep Floor
-Mop Floor
-Do Laundry
-Hang Clothes
-Fold Clothes
-Clean Kitchen Counter
-Wash Dishes
-Take Out Trash
-Water Plants
-Clean Bathroom
-Organize Shelves
-Final Room Reset
-[MOTION INDICATORS]
-Curved arrows → fluid actions (wiping, folding)
-Straight arrows → directional movement
-Circular arrows → repetitive motions (scrubbing, mopping)
-[RENDER QUALITY]
-High-detail sculpted 3D style with smooth grayscale shading, soft shadows, and clean linework. Polished, concept-art level finish with clarity in every pose and object interaction.
-[RESTRICTIONS]
-No color, no unnecessary background detail, no extra characters, no revealing clothing, no clutter — only the subject, props, and instructional elements.
-```
-
-</details>
-
-<a id="gpt-image-pet-papercraft-cube-template"></a>
-### Highland cow papercraft cube toy template
-
-<a href="https://x.com/icreatelife/status/2101353488408006830"><img src="previews/gpt-image-pet-papercraft-cube-template.jpg" width="360"></a>
-
-The prompt fixes the source photo as the only reference for the animal and lists each flat piece with folds, tabs and cut edges. A closing list of things not to change keeps the animal's identity and fur texture intact.
-
-GPT Image 2.5 · Edit · Source: [@icreatelife on X](https://x.com/icreatelife/status/2101353488408006830) · 1,178 likes on 2026-10-27
-
-[`papercraft`](pages/en/tags.md#tag-papercraft) [`cube-toy`](pages/en/tags.md#tag-cube-toy) [`pet`](pages/en/tags.md#tag-pet) [`template`](pages/en/tags.md#tag-template) [`fur-texture`](pages/en/tags.md#tag-fur-texture)
+[`cute`](pages/en/tags.md#tag-cute) [`animal`](pages/en/tags.md#tag-animal) [`ball-shaped`](pages/en/tags.md#tag-ball-shaped) [`template`](pages/en/tags.md#tag-template) [`habitat`](pages/en/tags.md#tag-habitat)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression.
+This prompt works best with Nano Banana 2:
 
-Transform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible.
-
-The printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet.
-
-Include:
-
-cube-shaped head with my pet’s real face on it
-
-cube-shaped body with realistic fur texture
-
-four legs matching my pet’s appearance
-
-ears with correct shape and inner ear details
-
-tail matching my pet’s size and color pattern
-
-Style: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper.
-
-Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model
+Prompt: Make a photo of a cute ball-shaped version of a [animal], with big adorable over-sized eyes, it has no head, instead its face is part of the ball, its head and body are one. They are in their usual habitat. Must be almost spherical and cartoonishly cute. Its eyes are looking up in the most adorable cheeky fashion.
 ```
 
 </details>
 
-<a id="gpt-image-character-identity-board-from-reference"></a>
-### Artbook character identity board from a reference image
+<a id="gpt-image-kawaii-character-profile-sheet-from-photo"></a>
+### Kawaii character profile sheet from a portrait photo
 
-<a href="https://x.com/aimikoda/status/2068989070332543027"><img src="previews/gpt-image-character-identity-board-from-reference.jpg" width="360"></a>
+<a href="https://x.com/ZaraIrahh/status/2048251738604613725"><img src="previews/gpt-image-kawaii-character-profile-sheet-from-photo.jpg" width="360"></a>
 
-An image reference locks the subject and medium, and an identity lock list keeps face, hair, outfit and proportions consistent across every view. An asymmetrical layout with one large hero figure, a no overlap rule and small silhouette, expression and detail studies makes a useful production reference.
+The prompt lists every panel the poster needs: a large portrait, four named expressions, action poses, object icons, a color palette and a profile block. The style line sets a cozy Japanese kawaii look, and the uploaded photo keeps the character consistent across all panels.
 
-GPT Image 2 · Edit · Source: [@aimikoda on X](https://x.com/aimikoda/status/2068989070332543027) · 1,149 likes on 2026-10-28
+GPT Image 2 · Edit · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2048251738604613725) · 569 likes on 2026-10-28
 
-[`character-sheet`](pages/en/tags.md#tag-character-sheet) [`identity-board`](pages/en/tags.md#tag-identity-board) [`reference-image`](pages/en/tags.md#tag-reference-image) [`artbook`](pages/en/tags.md#tag-artbook) [`consistency`](pages/en/tags.md#tag-consistency)
+[`character-sheet`](pages/en/tags.md#tag-character-sheet) [`kawaii`](pages/en/tags.md#tag-kawaii) [`expressions`](pages/en/tags.md#tag-expressions) [`color-palette`](pages/en/tags.md#tag-color-palette) [`profile-poster`](pages/en/tags.md#tag-profile-poster)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create an artistic 16:9 CHARACTER IDENTITY BOARD.
-
-Use Image A as the subject and the visual medium. Name: Clara. Fix headphones. (just change this line as your needs.)
-
-Soft off-white background. No environment, no logo, no watermark.
-
-DESIGN DIRECTION:
-Do not create a standard character reference sheet.
-Create a cinematic identity board that feels like a high-end animation studio character study mixed with an artbook layout.
-
-The layout should be asymmetrical, elegant and visually memorable.
-Use large empty space, varied image scale and intentional imbalance.
-Avoid grids, blueprint design, catalog layout and repetitive turnaround presentation.
-
-IMPORTANT LAYOUT RULE:
-Do not overlap any character images.
-Every view must have clear separation and breathing room.
-Keep all bodies, portraits, silhouettes and detail studies visually distinct.
-No cropped faces, no hidden limbs, no stacked figures, no merged poses.
-
-MAIN COMPOSITION:
-Place one large hero full-body view slightly off-center as the visual anchor.
-
-Around it, arrange smaller supporting studies with clean spacing:
-neutral full-body view, back view, profile view, seated pose, leaning pose, crouching pose, top-down body angle, low-angle body angle, expressive portrait studies.
-
-Each view should feel like a separate clean character study, not a frame from one scene.
-
-IDENTITY LOCK:
-Preserve strict identity consistency across all views:
-same face, same facial proportions, same hairstyle, same outfit, same body proportions, same posture language, same visual personality.
-
-USEFUL REFERENCE DETAILS:
-Make the character readable for future image and video generation:
-clear face shape, clear hair silhouette, clear outfit silhouette, clear body shape, clear hands, clear posture, clear expression range.
-
-ARTISTIC SECTIONS:
-Include a small silhouette study area with 2-3 simplified black character silhouettes.
-Include a small expression study area with subtle emotional variations.
-Include a small detail study area showing key visual features of the face, hair and outfit.
-
-TEXT DESIGN:
-Add one stylish CHARACTER ID block.
-Keep it minimal, bold and art-directed.
-Use only:
-NAME
-ROLE
-CORE MOOD
-VISUAL SIGNATURE
-
-Use small handwritten-style labels only where helpful.
-Subtle editorial arrows and annotation marks are allowed, but keep them minimal and elegant.
-
-STYLE:
-minimal, cinematic, premium, artbook-like, clean, expressive, useful for production.
-
-The final image should feel like an artistic character identity board designed to help an AI model understand the character’s face, silhouette, outfit, posture and emotional range.
+Create an adorable character design sheet based on the uploaded image.
+Style: Warm, soft, and semi-realistic cartoon illustration with a cozy Japanese/kawaii style.
+Design: Character profile poster including:
+Large main portrait
+Various facial expressions (happy, annoyed, sleepy, surprised)
+Action poses (running, playing) (based on personality)
+Small object icons
+Color palette section
+Profile section with name and personality.
 ```
 
 </details>
 
-**[All 72 entries](pages/en/image-character.md)**
+<a id="gpt-image-cute-crazy-scale-expression-grid"></a>
+### Sixteen panel expression grid from cute to crazy
+
+<a href="https://x.com/aimikoda/status/2055036470583263712"><img src="previews/gpt-image-cute-crazy-scale-expression-grid.jpg" width="360"></a>
+
+The prompt numbers every panel in a fixed emotional order and forbids random intensity, so the expressions escalate steadily from top left to bottom right. A reference character locks the identity, while header text, label style and framing are specified once for the whole grid.
+
+GPT Image 2 · Edit · Source: [@aimikoda on X](https://x.com/aimikoda/status/2055036470583263712) · 476 likes on 2026-10-28
+
+[`expression-grid`](pages/en/tags.md#tag-expression-grid) [`character-consistency`](pages/en/tags.md#tag-character-consistency) [`4x4-grid`](pages/en/tags.md#tag-4x4-grid) [`emotion-scale`](pages/en/tags.md#tag-emotion-scale) [`typography`](pages/en/tags.md#tag-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a clean 4x4 emotional performance grid using the provided character as the fixed identity reference.
+
+Visual style:
+Clean modern graphic design layout. Elegant serif header at the top, soft off-white background, even spacing, small readable handwritten-style labels centered below each panel.
+
+Header text:
+“MY CUTE ↔ CRAZY SCALE”
+
+Preserve strict facial identity consistency across all 16 panels.
+
+Follow the exact emotional progression from top-left to bottom-right.
+Do not randomize expressions or intensity.
+
+GRID ORDER:
+
+Row 1:
+1. soft innocent cute
+2. shy cute
+3. playful cute
+4. teasing cute
+
+Row 2:
+5. energetic cute
+6. chaotic playful
+7. emotionally intense
+8. unstable smile
+
+Row 3:
+9. overly excited
+10. wild eyes
+11. manic happiness
+12. emotionally unhinged
+
+Row 4:
+13. chaotic stare
+14. dangerous excitement
+15. beautiful insanity
+16. fully crazy
+
+Format:
+4x4 grid, cinematic portrait photography style, neutral background, tight close-up framing, shallow depth of field, no watermark.
+```
+
+</details>
+
+**[All 58 entries](pages/en/image-character.md)**
 
 <a id="img-illustration"></a>
 ## Illustration
@@ -3153,43 +3201,28 @@ Korean-style illustration, with a distinct and memorable character design, natur
 
 </details>
 
-<a id="gpt-image-architectural-specimen-card-survey-landmark"></a>
-### Great Wall Architectural Survey Specimen Card
+<a id="nano-banana-geometric-fashion-illustration"></a>
+### Full-body fashion illustration in textured geometric style
 
-<a href="https://x.com/Naiknelofar788/status/2094626691234816034"><img src="previews/gpt-image-architectural-specimen-card-survey-landmark.jpg" width="360"></a>
+<a href="https://x.com/ChillaiKalan__/status/2109123213351632977"><img src="previews/nano-banana-geometric-fashion-illustration.jpg" width="360"></a>
 
-Starts from an uploaded photo and sets a clear hierarchy: a large monochrome ink drawing of the landmark, one small color photo fragment, and a contour map behind it. A restricted palette with a single accent color, a short list of small archival text items, and an explicit list of styles to avoid keep the card clean and museum like.
+Outfit described item by item, then a short ban list that rules out photorealism and 3D.
 
-GPT Image 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2094626691234816034) · 512 likes on 2026-10-28
+Nano Banana 2.1 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2109123213351632977) · 494 likes on 2026-10-27
 
-[`architecture`](pages/en/tags.md#tag-architecture) [`specimen-card`](pages/en/tags.md#tag-specimen-card) [`archival`](pages/en/tags.md#tag-archival) [`topographic-map`](pages/en/tags.md#tag-topographic-map) [`ink-drawing`](pages/en/tags.md#tag-ink-drawing)
+[`fashion`](pages/en/tags.md#tag-fashion) [`geometric`](pages/en/tags.md#tag-geometric) [`editorial`](pages/en/tags.md#tag-editorial)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Use the uploaded photo as the primary reference. Create a sophisticated 4:3 landscape architectural specimen card inspired by museum archives, architectural surveys, and vintage scientific documentation.
+Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.
 
-Keep the original location recognizable, but transform the presentation into a curated architectural study rather than a normal travel poster.
-
-* Place the main landmark as a large monochrome architectural cutout or finely detailed ink drawing.
-* Add a smaller original-color photographic fragment showing one distinctive detail of the location.
-* Include a simplified topographic contour map behind the architecture.
-* Add tiny numbered reference points, measurement marks, arrows, elevation lines, and architectural annotation symbols.
-* Use an aged cream paper background with subtle grain and imperfections.
-* Palette: black, warm beige, muted olive, and one restrained accent color extracted from the landmark.
-* Typography should be small, elegant, and archival: location name, country, year, No. 019, and 3 descriptive keywords.
-* Create subtle imperfections resembling screen printing, drafting ink, pencil marks, and old paper.
-* Keep generous negative space and a sophisticated museum-catalog aesthetic.
-
-Important: Avoid postcard layouts, circular stamps, tourist graphics, excessive text, cartoon styling, glossy effects, 3D rendering, and overly detailed illustrations.
-
-Overall mood:
-architectural archive × museum specimen × old survey document × contemporary editorial design.
+Use a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.
 ```
 
 </details>
 
-**[All 112 entries](pages/en/image-illustration.md)**
+**[All 92 entries](pages/en/image-illustration.md)**
 
 <a id="img-comic"></a>
 ## Comics and storyboards
@@ -3213,207 +3246,6 @@ Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. T
 
 </details>
 
-<a id="gpt-image-corporate-noir-teaser-storyboard-six-panels"></a>
-### Corporate noir revenge thriller six panel storyboard
-
-<a href="https://x.com/IamEmily2050/status/2048147198869946855"><img src="previews/gpt-image-corporate-noir-teaser-storyboard-six-panels.jpg" width="360"></a>
-
-A system prompt casts the model as a storyboard director and fixes a three shot, 15 second structure with one action and one camera move per shot. Identity, wardrobe and palette locks plus clean keyframes keep the panels consistent.
-
-GPT Image 2 · Text-to-image · Source: [@IamEmily2050 on X](https://x.com/IamEmily2050/status/2048147198869946855) · 1,025 likes on 2026-10-28
-
-[`storyboard`](pages/en/tags.md#tag-storyboard) [`seedance`](pages/en/tags.md#tag-seedance) [`cinematic`](pages/en/tags.md#tag-cinematic) [`thriller`](pages/en/tags.md#tag-thriller) [`system-prompt`](pages/en/tags.md#tag-system-prompt)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-This is the Storyboard system prompt for GPT Image Gen V2, for Seedance V2 (15-second video). I will publish a very comprehensive skill on GitHub for it very soon, and I will also update the Seedance V2 skill.
-So much potential. Also, for people who use agents, there might be untapped potential to use MDJ V8.1 + Nano Banana Pro + Image Gen V2 in one workflow.
-
-You are a senior AI-video storyboard director and prompt engineer specializing in GPT Image 2 keyframe generation and Seedance 2.0 / Seedance V2 15-second video prompting.
-
-Your task is to convert any user idea into a practical, model-followable storyboard package for a 15-second AI video.
-
-Core principle:
-Do not create bloated text-heavy storyboard boards as the primary Seedance reference. Use clean cinematic keyframes for visual reference, then use a short Seedance motion prompt for timing, camera, and action. If a storyboard sheet is requested, make it a planning artifact only, not the main video reference.
-
-Default target:
-Length: exactly 15 seconds.
-Structure: 3 shots of 5 seconds each unless the user specifically requests a single continuous shot or a faster montage.
-Aspect ratio: use the user’s requested ratio; default to 16:9 cinematic. Use 9:16 only for short-form vertical content.
-Style: infer from the user’s concept, but make the style coherent and repeatable.
-Output language: English unless the user asks otherwise.
-
-Your output must contain these sections in this exact order:
-
-1. CREATIVE INTERPRETATION
-Write 2–4 concise sentences explaining the intended video: subject, mood, conflict or transformation, visual style, and final emotional beat. Do not over-explain.
-
-2. 15-SECOND SHOT PLAN
-Create exactly 3 shot beats by default:
-Shot 1: 0–5s
-Shot 2: 5–10s
-Shot 3: 10–15s
-
-For each shot, include:
-- Shot purpose
-- Framing
-- Subject action
-- Camera movement
-- Lighting / atmosphere
-- Transition into next shot
-
-Rules:
-Each shot gets only one main action.
-Each shot gets only one camera move.
-Each shot gets one dominant lighting/mood cue.
-Avoid micro-choreography.
-Avoid too many props, creatures, characters, or environment changes.
-Keep the same subject identity, costume, palette, and world logic across all shots.
-
-3. GPT IMAGE 2 — RECOMMENDED KEYFRAME PROMPTS
-Create three separate GPT Image 2 prompts, one for each Seedance reference frame.
-
-Each keyframe prompt must be a standalone cinematic image prompt.
-Each prompt must include:
-- Same character identity lock
-- Same wardrobe / object lock
-- Same world / environment lock unless the scene intentionally changes
-- Framing and lens language
-- Lighting and color palette
-- Mood
-- Clean background logic
-- “No text, no captions, no UI, no collage, no panels, no watermark”
-
-Do not ask GPT Image 2 to create long paragraphs inside the image.
-Do not ask for a storyboard table inside the image.
-Do not include motion instructions that cannot be seen in a still image, except for visual cues like motion blur, wind, splash, sparks, dust, or pose direction.
-
-Use this format:
-
-KEYFRAME 1 / @ Image1:
-[Prompt]
-
-KEYFRAME 2 / @ Image2:
-[Prompt]
-
-KEYFRAME 3 / @ Image3:
-[Prompt]
-
-4. GPT IMAGE 2 — OPTIONAL STORYBOARD SHEET PROMPT
-Create one optional storyboard-sheet prompt for human planning only.
-
-The sheet must be clean and minimal:
-- 3 wide cinematic panels in a horizontal strip or vertical stack, depending on aspect ratio
-- Small labels only: “0–5s”, “5–10s”, “10–15s”
-- No long text columns
-- No dense director notes
-- No voice-design paragraphs
-- No UI-like table clutter
-- Each panel should match the separate keyframes
-
-Clearly label this as: “Planning only — do not use as the main Seedance visual reference unless you want a storyboard-looking video.”
-
-5. SEEDANCE 2.0 — FINAL 15-SECOND VIDEO PROMPT
-Write one compact Seedance prompt designed for the actual generation.
-
-Target length: 60–100 words.
-Maximum length: 130 words only when asset binding is necessary.
-Lead with the subject.
-Reference assets if available:
-Use @ Image1 for the opening look.
-Use @ Image2 for the midpoint composition.
-Use @ Image3 for the ending composition.
-If the user provides video or audio references, bind them explicitly with @ Video1 or @ Audio1.
-
-The Seedance prompt must include:
-- 15-second duration
-- Shot timing
-- Main subject action
-- Camera movement
-- Lighting / atmosphere
-- Continuity lock
-- Final beat
-- Sound only if needed
-
-Do not include excessive prose.
-Do not include more than 3 major actions.
-Do not include contradictory camera instructions.
-Do not use vague phrases like “make it cinematic” without specifying lens, framing, lighting, or motion.
-
-6. CONSISTENCY LOCK
-Write a short lock statement Seedance can understand:
-“Maintain the same [subject], [face/body/shape], [wardrobe/product details], [color palette], [environment logic], and [lighting style] across the full 15 seconds.”
-
-7. POSITIVE CONSTRAINTS
-Write 3–6 short constraints as positive production rules.
-Use phrases like:
-- stable face and body proportions
-- clean readable silhouette
-- natural physical motion
-- continuous lighting direction
-- coherent spatial layout
-- no on-screen text or UI elements
-
-Prefer positive constraints over long negative-prompt lists.
-
-8. ITERATION ADVICE
-Give one concise note on what to change first if the output fails.
-Examples:
-- If identity drifts, simplify movement and use @ Image1 more strongly.
-- If timing fails, reduce to one continuous shot.
-- If the scene becomes chaotic, remove background actors or secondary objects.
-- If the camera ignores direction, use only one camera move.
-
-Decision rules:
-If the user gives a complex story, compress it into 3 clear beats instead of trying to include every detail.
-If the user asks for a chase, battle, dance, transformation, product reveal, horror reveal, or commercial, still use 3 beats unless they specifically ask for a montage.
-If the idea needs more than 15 seconds, create a strong 15-second teaser with setup, escalation, and final hook.
-If the user gives no style, choose a style that supports the concept.
-If the user gives no character details, invent simple but memorable identity anchors.
-If the user gives copyrighted characters, celebrities, or living-artist style requests, transform them into original, rights-safe archetypes and describe the new visual language instead.
-If the user requests realism, prioritize physical plausibility, natural body mechanics, lens realism, and coherent lighting.
-If the user requests horror, suspense, fantasy, sci-fi, beauty, fashion, product, anime, documentary, or comedy, adapt the same structure but keep the Seedance prompt concise.
-
-Never output:
-- a 10-shot storyboard for a 15-second video
-- a dense table of director notes as the main generation prompt
-- long voice-design blocks unless the user explicitly asks for audio
-- contradictory camera moves in the same shot
-- tiny visual details that will not survive video generation
-- text-heavy reference images for Seedance
-- a prompt that asks Seedance to read a full storyboard sheet
-
-Always optimize for followability over completeness.
-```
-
-</details>
-
-<a id="nano-banana-video-to-comic-alien-hairy-ball-theorem"></a>
-### Alien math teacher comic explaining the hairy ball theorem
-
-<a href="https://x.com/fofrAI/status/2060039009636606073"><img src="previews/nano-banana-video-to-comic-alien-hairy-ball-theorem.jpg" width="360"></a>
-
-A short instruction paired with a video or YouTube URL lets the model read the source as context and turn its narration into sequenced panels. The same character and kitchen setting stay consistent across panels, and a diagram panel is added to explain the idea.
-
-Nano Banana 2 · Edit · Source: [@fofrAI on X](https://x.com/fofrAI/status/2060039009636606073) · 579 likes on 2026-10-28
-
-[`video-to-image`](pages/en/tags.md#tag-video-to-image) [`comic-strip`](pages/en/tags.md#tag-comic-strip) [`video-context`](pages/en/tags.md#tag-video-context) [`educational`](pages/en/tags.md#tag-educational) [`character-consistency`](pages/en/tags.md#tag-character-consistency)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Fun new feature landing in Nano Banana 2 today:
-
-video-to-image
-
-Pass a video or YouTube URL to Nano Banana 2 along with your prompt, and it'll use the video as context to make the image.
-
-> create a comic strip from this video
-```
-
-</details>
-
 <a id="gpt-image-shampoo-commercial-storyboard-sheet"></a>
 ### Ten frame anti dandruff shampoo commercial storyboard
 
@@ -3433,17 +3265,88 @@ Create a professional Hollywood advertising storyboard sheet for a premium anti-
 
 </details>
 
-**[All 31 entries](pages/en/image-comic.md)**
+<a id="gpt-image-luxury-fragrance-candle-storyboard-grid"></a>
+### Luxury fragrance candle storyboard in twelve frames
+
+<a href="https://x.com/insmind_com/status/2049481439285223785"><img src="previews/gpt-image-luxury-fragrance-candle-storyboard-grid.jpg" width="360"></a>
+
+The prompt fixes a 3x4 grid with a cinematic image above and storyboard notes below each frame, then names a narrative arc from intro to brand closure. A style reference, a two colour palette and one recurring emotional object keep all twelve frames consistent for animating later.
+
+GPT Image 2 · Text-to-image · Source: [@insmind_com on X](https://x.com/insmind_com/status/2049481439285223785) · 410 likes on 2026-10-28
+
+[`storyboard`](pages/en/tags.md#tag-storyboard) [`fragrance`](pages/en/tags.md#tag-fragrance) [`luxury`](pages/en/tags.md#tag-luxury) [`editorial`](pages/en/tags.md#tag-editorial) [`candle`](pages/en/tags.md#tag-candle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Step 1:  Generate storyboard with GPT Image 2.
+“Create a high-end 9:16 luxury fragrance pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Aesop/Byredo style, beige + lavender palette. Structured flow: intro → ritual → transformation → resolution → brand closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Luxury minimal European aesthetic, calm femininity, slow living mood. Candle is the emotional center throughout.”
+
+Step 2: Take each frame into Seedance 2.0. Set to 1080p to preserve text clarity.
+“Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow push-in, gentle pan, subtle orbit, and rack focus. Lighting transitions from soft morning glow to warm golden ambient light. Fragrance brand editorial aesthetic, minimal luxury, soft film grain. No new shots, no reordering, candle remains emotional focus in all scenes.”
+
+Step 3: Hard-cut into final ad. Add soft ambient music and subtle cinematic SFX.
+```
+
+</details>
+
+<a id="nano-banana-noir-boxer-four-panel-fight"></a>
+### Four panel film noir boxer fight sequence
+
+<a href="https://x.com/kaanakz/status/2027814444437307602"><img src="previews/nano-banana-noir-boxer-four-panel-fight.jpg" width="360"></a>
+
+One shared style block fixes the lighting, grain and setting, then each stacked panel gets its own camera angle: bird's eye, side profile, extreme close up and rear medium wide. Naming a lighting type per panel (split, rim) and a fight round keeps the same boxer consistent while the story escalates.
+
+Nano Banana 2 · Text-to-image · Source: [@kaanakz on X](https://x.com/kaanakz/status/2027814444437307602) · 312 likes on 2026-10-28
+
+[`film-noir`](pages/en/tags.md#tag-film-noir) [`multi-panel`](pages/en/tags.md#tag-multi-panel) [`camera-angles`](pages/en/tags.md#tag-camera-angles) [`black-and-white`](pages/en/tags.md#tag-black-and-white) [`boxing`](pages/en/tags.md#tag-boxing)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a single film noir–style cinematic image divided into four horizontal panels, all depicting the same boxer and the same boxing ring environment, unified by lighting, atmosphere, and narrative progression across four stages of a fight.
+
+Overall style:
+
+Vintage Film Noir Lighting, Low Key Lighting, Hard Shadows Lighting, Split Lighting, moody and tense atmosphere, minimal fill light, deep blacks, sharp contrast, visible film grain, slight vignetting, subtle haze in the air from sweat and dust. Industrial warehouse boxing gym setting, night atmosphere, light beams cutting through darkness, damp canvas reflecting highlights. Clean horizontal separation between panels, cinematic split-screen composition, consistent character identity across all panels.
+
+Top panel – ROUND 1, BIRD’S-EYE SHOT:
+
+Bird’s Eye View of the boxing ring. Stark top-down composition, ropes forming geometric frames. Two boxers circling each other. Our main subject slightly forward in stance, gloves raised. Overhead spotlight creating strong geometric shadows across the canvas. Sweat barely visible. Light slicing through darkness, corners of the ring fading into black.
+
+Second panel – ROUND 2, SIDE CLOSE-UP SHOT:
+
+Side-profile close-up of the main boxer mid-fight. From Side, intense expression, jaw clenched. One side of the face sharply lit by a hard key light, the other completely swallowed in shadow. Sweat and minor bruising beginning to appear. Split Lighting carving the facial structure in classic noir sculpting. Background dissolves into darkness, only faint ring ropes visible.
+
+Third panel – ROUND 3, EXTREME CLOSE-UP:
+
+Extreme Close-Up on a critical detail, eye behind a battered glove or sweat dripping from brow to canvas. Heavy shadow dominance. Light catching only the iris and the texture of the glove leather. Micro cuts, swelling, fine skin texture visible. Film grain pronounced. The rest of the frame nearly pure black.
+
+Bottom panel – FINAL ROUND, MEDIUM WIDE BACK SHOT:
+
+Medium Wide Shot from behind the boxer. From Behind perspective. The subject standing alone in the ring after a decisive moment, shoulders rising with breath. Opponent down or barely visible in shadow. Rim Lighting outlining the silhouette. Wet canvas reflecting fragmented light. Light haze in the air enhancing depth. The ring fading into darkness beyond the ropes.
+
+High detail, High Quality, Photorealism Style, cinematic composition, cohesive identity across all four panels, dramatic storytelling progression within a single unified noir frame.
+
+
+@ImagineArt_X
+
+@imagineart_creo
+```
+
+</details>
+
+**[All 13 entries](pages/en/image-comic.md)**
 
 <a id="img-photo-to-art"></a>
 ## Photo to art
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
-### Upper half photo, lower half watercolour travel sketch
+### Travel photo above, same scene as watercolor below
 
 <a href="https://x.com/MahnoorAi12/status/2102724961408626735"><img src="previews/gpt-image-photo-to-watercolor-travel.jpg" width="360"></a>
 
-A vertical split where the photo dissolves into watercolour. Works in Gemini, Grok and ChatGPT, per the author.
+Asking for the exact same scene in both halves keeps the composition, figures and poses aligned across photo and painting. Generous ivory paper space and a small handwritten caption give it the look of a travel journal page.
 
 GPT Image 2.5 · Edit · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2102724961408626735) · 2,264 likes on 2026-10-27
 
@@ -3462,39 +3365,51 @@ Portrait orientation, clean composition, premium art direction, no clutter, no b
 
 </details>
 
-<a id="gpt-image-minimal-lifestyle-poster"></a>
-### Minimal lifestyle art poster from a real photo
+<a id="gpt-image-pet-papercraft-cube-template"></a>
+### Highland cow papercraft cube toy template
 
-<a href="https://x.com/Naiknelofar788/status/2101161664892829838"><img src="previews/gpt-image-minimal-lifestyle-poster.jpg" width="360"></a>
+<a href="https://x.com/icreatelife/status/2101353488408006830"><img src="previews/gpt-image-pet-papercraft-cube-template.jpg" width="360"></a>
 
-A fill-in template: swap `[PERSON / SUBJECT / MOMENT]`. Keeps the subject recognisable while dropping the photographic background.
+The prompt fixes the source photo as the only reference for the animal and lists each flat piece with folds, tabs and cut edges. A closing list of things not to change keeps the animal's identity and fur texture intact.
 
-GPT Image 2.5 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2101161664892829838) · 1,698 likes on 2026-10-27
+GPT Image 2.5 · Edit · Source: [@icreatelife on X](https://x.com/icreatelife/status/2101353488408006830) · 1,178 likes on 2026-10-27
 
-[`editorial`](pages/en/tags.md#tag-editorial) [`illustration`](pages/en/tags.md#tag-illustration) [`template`](pages/en/tags.md#tag-template) [`photo-to-art`](pages/en/tags.md#tag-photo-to-art)
+[`papercraft`](pages/en/tags.md#tag-papercraft) [`cube-toy`](pages/en/tags.md#tag-cube-toy) [`pet`](pages/en/tags.md#tag-pet) [`template`](pages/en/tags.md#tag-template) [`fur-texture`](pages/en/tags.md#tag-fur-texture)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-A sophisticated minimalist lifestyle art poster featuring [PERSON / SUBJECT / MOMENT] as the central focus, transformed from a real-life photograph into a refined hand-drawn editorial illustration. Preserve the subject’s recognizable pose, silhouette, clothing, hairstyle, and key visual details while simplifying the scene into an elegant artistic composition.
+Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression.
 
-Use a limited vintage color palette inspired by the original environment, with warm muted tones printed on an ivory/off-white paper background. Combine delicate ink outlines, loose sketchwork, fine hatching, subtle halftone texture, faded print imperfections, and soft watercolor-like washes.
+Transform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible.
 
-Reduce the surrounding environment into a few recognizable contextual elements—[CAFÉ / BAR / STREET / LANDMARK / OBJECTS]—using simplified linework and layered shapes rather than detailed realism. Add subtle abstract circles, geometric forms, atmospheric marks, tiny decorative elements, or silhouettes to create visual depth.
+The printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet.
 
-Include small minimalist typography on one side: [CITY / LOCATION], [SUBJECT / MOMENT], and optional coordinates, date, or short descriptor, designed like a premium collectible travel/lifestyle print.
+Include:
 
-Generous negative space, elegant editorial composition, vintage screen-print aesthetic, hand-crafted illustration, sophisticated travel-magazine design, muted heritage colors, subtle paper grain, artistic but recognizable, no photorealistic background, no excessive details, 4:5 vertical composition.
+cube-shaped head with my pet’s real face on it
+
+cube-shaped body with realistic fur texture
+
+four legs matching my pet’s appearance
+
+ears with correct shape and inner ear details
+
+tail matching my pet’s size and color pattern
+
+Style: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper.
+
+Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model
 ```
 
 </details>
 
 <a id="gpt-image-editorial-illustration-poster"></a>
-### Turn each photo into a quiet editorial illustration poster
+### Split poster pairing a photo with its tiny paper sketch
 
 <a href="https://x.com/icreatelife/status/2099343607492702258"><img src="previews/gpt-image-editorial-illustration-poster.jpg" width="360"></a>
 
-Opens by forbidding collages, one poster per photo, and closes with a row of mood words the result should feel like.
+Locks a strict half and half split, keeping the photo faithful on top and redrawing its key subject below as a small sketch on rough paper. The sketch takes up only 10 to 20 percent of the space, uses at most four colors pulled from the photo, and sits in wide negative space.
 
 GPT Image 2.5 · Edit · Source: [@icreatelife on X](https://x.com/icreatelife/status/2099343607492702258) · 1,165 likes on 2026-10-27
 
@@ -3661,7 +3576,7 @@ Create a nostalgic editorial photo-to-sketch artbook page based on the reference
 
 </details>
 
-**[All 75 entries](pages/en/image-photo-to-art.md)**
+**[All 89 entries](pages/en/image-photo-to-art.md)**
 
 <a id="img-architecture"></a>
 ## Architecture and interiors
@@ -3686,6 +3601,42 @@ An architectural floor plan of {BUILDING_TYPE} spread across a drafting table, w
 
 Check ALTs for ideas 👇
 @AdobeFirefly
+```
+
+</details>
+
+<a id="gpt-image-architectural-specimen-card-survey-landmark"></a>
+### Great Wall Architectural Survey Specimen Card
+
+<a href="https://x.com/Naiknelofar788/status/2094626691234816034"><img src="previews/gpt-image-architectural-specimen-card-survey-landmark.jpg" width="360"></a>
+
+Starts from an uploaded photo and sets a clear hierarchy: a large monochrome ink drawing of the landmark, one small color photo fragment, and a contour map behind it. A restricted palette with a single accent color, a short list of small archival text items, and an explicit list of styles to avoid keep the card clean and museum like.
+
+GPT Image 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2094626691234816034) · 512 likes on 2026-10-28
+
+[`architecture`](pages/en/tags.md#tag-architecture) [`specimen-card`](pages/en/tags.md#tag-specimen-card) [`archival`](pages/en/tags.md#tag-archival) [`topographic-map`](pages/en/tags.md#tag-topographic-map) [`ink-drawing`](pages/en/tags.md#tag-ink-drawing)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded photo as the primary reference. Create a sophisticated 4:3 landscape architectural specimen card inspired by museum archives, architectural surveys, and vintage scientific documentation.
+
+Keep the original location recognizable, but transform the presentation into a curated architectural study rather than a normal travel poster.
+
+* Place the main landmark as a large monochrome architectural cutout or finely detailed ink drawing.
+* Add a smaller original-color photographic fragment showing one distinctive detail of the location.
+* Include a simplified topographic contour map behind the architecture.
+* Add tiny numbered reference points, measurement marks, arrows, elevation lines, and architectural annotation symbols.
+* Use an aged cream paper background with subtle grain and imperfections.
+* Palette: black, warm beige, muted olive, and one restrained accent color extracted from the landmark.
+* Typography should be small, elegant, and archival: location name, country, year, No. 019, and 3 descriptive keywords.
+* Create subtle imperfections resembling screen printing, drafting ink, pencil marks, and old paper.
+* Keep generous negative space and a sophisticated museum-catalog aesthetic.
+
+Important: Avoid postcard layouts, circular stamps, tourist graphics, excessive text, cartoon styling, glossy effects, 3D rendering, and overly detailed illustrations.
+
+Overall mood:
+architectural archive × museum specimen × old survey document × contemporary editorial design.
 ```
 
 </details>
@@ -3733,101 +3684,10 @@ Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as
 
 </details>
 
-<a id="gpt-image-ancient-pyramid-construction-blueprint-diorama"></a>
-### Pyramid construction diorama on architectural blueprints
-
-<a href="https://x.com/Naiknelofar788/status/2054221110372405534"><img src="previews/gpt-image-ancient-pyramid-construction-blueprint-diorama.jpg" width="360"></a>
-
-A bracketed civilization slot makes the template reusable, while the miniature terrain is told to blend into the printed plans beneath it. Window sunlight, shallow depth of field and a listed set of drafting props give a tactile scale model look.
-
-GPT Image 2 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2054221110372405534) · 426 likes on 2026-10-29
-
-[`miniature`](pages/en/tags.md#tag-miniature) [`diorama`](pages/en/tags.md#tag-diorama) [`blueprint`](pages/en/tags.md#tag-blueprint) [`ancient-architecture`](pages/en/tags.md#tag-ancient-architecture) [`template`](pages/en/tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A highly detailed miniature diorama of an ancient civilization under construction, displayed directly on top of large rolled-out architectural blueprints spread across a realistic wooden drafting table. The scene features iconic historical architecture from [CIVILIZATION OR LOCATION], including partially completed monuments, temples, towers, walls, palaces, streets, or ceremonial structures at different stages of construction. Tiny craftsmen, builders, engineers, and workers interact naturally throughout the scene using historically accurate tools, scaffolding, ramps, cranes, carts, stone blocks, timber frameworks, and construction platforms.
-The miniature terrain blends seamlessly into the printed engineering drawings beneath, combining realistic sand, stone, earth, marble, vegetation, or desert textures with visible architectural floor plans, elevation sketches, measurements, annotations, and cross-sections. Surrounding the workspace are drafting instruments, compasses, rolled parchment plans, books, rulers, brass weights, candles, maps, carving tools, and historical reference materials that enhance the workshop atmosphere.
-Soft cinematic lighting with warm natural sunlight from a nearby window, shallow depth of field, ultra realistic textures, handcrafted museum-quality scale model aesthetic, intricate miniature detailing, photoreal materials, atmospheric realism, editorial architectural photography style, clean composition, immersive world-building, vertical composition, extremely high detail, realistic shadows, authentic historical mood.
-```
-
-</details>
-
 **[All 22 entries](pages/en/image-architecture.md)**
 
 <a id="img-map"></a>
 ## Maps
-
-<a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
-### Isometric Anime World Map Diorama Poster
-
-<a href="https://x.com/TechieBySA/status/2091529289283866634"><img src="previews/gpt-image-isometric-anime-world-map-diorama-poster.jpg" width="360"></a>
-
-Branching conditions handle both fictional and real settings, so one template cuts the diorama to the correct map silhouette. Fixed layout rules for the margins, the title hierarchy and the tilt shift look keep the poster consistent, and an optional reference map image improves accuracy.
-
-GPT Image 2 · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2091529289283866634) · 6,709 likes on 2026-10-28
-
-[`isometric`](pages/en/tags.md#tag-isometric) [`diorama`](pages/en/tags.md#tag-diorama) [`anime-world`](pages/en/tags.md#tag-anime-world) [`miniature`](pages/en/tags.md#tag-miniature) [`editorial-poster`](pages/en/tags.md#tag-editorial-poster)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Simply replace [ANIME]:✨
-
-(Upload a reference image of the map for enhanced accuracy)
-
-“Ultra-detailed photorealistic isometric miniature scale-model diorama of the world from [ANIME], floating on a pure off-white studio background with a soft drop shadow beneath.
-
-If [ANIME] has a fictional world map: the diorama takes the exact silhouette shape of that fictional continent, island or region, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like the world physically cut out and lifted. The shape matches the canonical map boundary precisely.
-
-If [ANIME] is set in a real or semi-real world: the diorama takes the exact geographic silhouette shape of the primary city, region or country where the story is set, extruded into a thick rock slab with rough cliff edges.
-
-The entire top surface faithfully recreates the complete world of [ANIME] with full anime accuracy: every region, city, landmark, building, terrain feature, road and environment in its exact canonical position as established in the show. Every iconic location is instantly recognizable to any fan — labeled with small readable location markers. The architecture, environment design, building styles, color palette and atmosphere must be completely faithful to the visual world of [ANIME] — not Western or generic realistic, but distinctly true to how this anime world looks and feels. Every location a fan would recognize is present and accurately placed.
-
-Dense micro-detail throughout: tiny figures in show-accurate character designs and clothing, vehicles or creatures authentic to the world, individual trees and foliage, roads and paths between locations, flags and faction symbols, any distinctive environmental features unique to this anime world.
-
-Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Soft warm lighting from above, gentle diffuse shadows. Colors match the anime's authentic visual palette faithfully — rich, saturated and true to the show's identity.
-
-Layout: the shaped diorama floats centered in the lower two-thirds of the frame, clear margins on all sides, never touching the frame edges. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the world or region name at the very top, then [ANIME] directly below in a bold condensed sans-serif in medium charcoal grey — large and dominant, the biggest text element, then small wide-tracked caps below with the studio name and year.
-
-Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
-```
-
-</details>
-
-<a id="gpt-image-tv-show-world-isometric-map-diorama"></a>
-### Isometric TV Show World Map Diorama Poster
-
-<a href="https://x.com/TechieBySA/status/2091167214195847433"><img src="previews/gpt-image-tv-show-world-isometric-map-diorama.jpg" width="360"></a>
-
-One swappable show placeholder with branching rules for fictional or real settings makes the diorama take the exact silhouette of the world, extruded as a rock slab. A fixed layout with an empty top third for tracked caps and a bold condensed title keeps the poster clean.
-
-GPT Image 2 · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2091167214195847433) · 2,678 likes on 2026-10-28
-
-[`isometric`](pages/en/tags.md#tag-isometric) [`diorama`](pages/en/tags.md#tag-diorama) [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) [`tv-show`](pages/en/tags.md#tag-tv-show) [`template`](pages/en/tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Simply replace [TV SHOW]:✨
-
-“Ultra-detailed photorealistic isometric miniature scale-model diorama of the world from [TV SHOW], floating on a pure off-white studio background with a soft drop shadow beneath.
-
-If [TV SHOW] has a fictional world map: the diorama takes the exact silhouette shape of that fictional continent or world, extruded downward into a thick slab of raw rock and earth with rough cliff-like edges. The top surface recreates the complete world geography exactly as established in the show — every region, kingdom, city, landmark, mountain range, forest and river in its correct canonical position.
-
-If [TV SHOW] is set in the real world: the diorama takes the exact geographic silhouette shape of the real city, state or region where the show is primarily set, extruded into a thick rock slab. The top surface is filled entirely with locations, landmarks, routes and environments from the show rendered in the show's authentic color palette and visual atmosphere — not generic realistic geography but the world as it feels in the show.
-
-In both cases: dense micro-detail throughout — tiny figures in show-accurate clothing, vehicles, buildings, roads, trees, all authentic to the show's world. Every iconic location a fan would recognize is present and accurately placed.
-
-Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Lighting and color palette match the show's visual identity exactly.
-
-Layout: diorama floats centered in the lower two-thirds, clear margins all sides. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the location or world name at the very top, then [TV SHOW] in a bold condensed sans-serif in medium charcoal grey — large and dominant, then small wide-tracked caps below with network and year.
-
-Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
-```
-
-</details>
 
 <a id="gpt-image-city-on-map"></a>
 ### Your city as a tiny world growing out of a map
@@ -3894,11 +3754,11 @@ OPTIONAL DETAILS:
 </details>
 
 <a id="gpt-image-isometric-terrain-slab-world-diorama-poster"></a>
-### Istanbul city diorama carved as floating terrain slab
+### Anime world template carved as floating terrain slab diorama
 
 <a href="https://x.com/MahnoorAi12/status/2091858610255261949"><img src="previews/gpt-image-isometric-terrain-slab-world-diorama-poster.jpg" width="360"></a>
 
-The prompt makes the real map outline the physical base, a terrain slab with broken rock sides and soil layers, then adds lore accurate landmarks and tiny museum style labels. A fixed 4:5 layout keeps the upper third empty for tracked uppercase title typography, and soft warm studio light gives a collectible miniature look.
+Fill in the [ANIME] slot and the prompt cuts that world's canonical map outline, or a real city's outline for real settings, out of the earth as one slab with broken rock sides and soil layers. A fixed 4:5 layout leaves the upper third empty for tracked uppercase typography, and soft warm studio light makes it look like a collectible miniature.
 
 GPT Image 2 · Text-to-image · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2091858610255261949) · 354 likes on 2026-10-28
 
@@ -4003,70 +3863,64 @@ No generic fantasy map, no flat illustration, no random landmarks, no duplicated
 
 </details>
 
-**[All 12 entries](pages/en/image-map.md)**
+<a id="nano-banana-national-park-trail-map-diorama"></a>
+### National Park Trail Map Rising Into Miniature Diorama
 
-<a id="img-collage"></a>
-## Collage
+<a href="https://x.com/AllaAisling/status/2029605103632580792"><img src="previews/nano-banana-national-park-trail-map-diorama.jpg" width="360"></a>
 
-<a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
-### Gym selfie surrounded by chibi mini selves
+The template uses curly brace slots for trailhead, terrain, wildlife, water and weather, so one scene structure can be reused for any park. Concrete scale cues such as frozen hikers, tiny tent smoke and legible trail signs keep the diorama believable.
 
-<a href="https://x.com/Ciri_ai/status/2050094437821513896"><img src="previews/gpt-image-gym-selfie-chibi-minis-doodles.jpg" width="360"></a>
+Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2029605103632580792) · 201 likes on 2026-10-29
 
-The prompt first locks the original photo as unchanged, then lists each mini self with its own gym action so every figure stays distinct. A scrapbook doodle style in white and pink ink with a quoted list of handwritten phrases ties the overlay together.
-
-GPT Image 2 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2050094437821513896) · 3,471 likes on 2026-10-29
-
-[`chibi`](pages/en/tags.md#tag-chibi) [`scrapbook`](pages/en/tags.md#tag-scrapbook) [`doodle`](pages/en/tags.md#tag-doodle) [`gym`](pages/en/tags.md#tag-gym) [`selfie`](pages/en/tags.md#tag-selfie)
+[`map`](pages/en/tags.md#tag-map) [`diorama`](pages/en/tags.md#tag-diorama) [`miniature`](pages/en/tags.md#tag-miniature) [`national-park`](pages/en/tags.md#tag-national-park) [`template`](pages/en/tags.md#tag-template)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-GPT Image 2 on Chatgpt
+Prompt Studio: National Park Trail Map with Nano Banana 2 in Firefly
 
-Prompt: Edit the image while keeping the original photo completely unchanged — including the person, face, body, pose, lighting, and gym background.
+A National Park trail map unfolded on a picnic table, with the wilderness rising into explorable miniature ecosystem. {TRAILHEAD} emerges with {VISITOR_ELEMENT}, the marked paths wind upward through {TERRAIN_1} featuring {WILDLIFE_1}, past {VIEWPOINT_1} with {SCENIC_ELEMENT}, toward {SUMMIT/DESTINATION} with {PAYOFF_VIEW}. {WATER_FEATURE} flows actual water down the topography. {FOREST_TYPE} trees stand at proper scale, {BIRD_SPECIES} perch in branches. Trail markers and signs are legible. Elevation changes create dramatic miniature mountains. {WEATHER_ELEMENT} affects one region while another stays clear. Camping symbols mark actual tiny tent sites with smoke rising. Day hikers frozen mid-stride, wildlife pausing mid-graze. Golden hour backcountry light, wilderness diorama perfection, 8K, the park as you imagined it from the map.
 
-Add multiple small, cute chibi-style “mini versions” of her around the image. Each mini character should have a big head, expressive facial features, and match her hairstyle and outfit.
-
-Depict each mini version doing different gym-related activities:
-
-one cheering with arms raised
-
-one running in running shoes
-
-one drinking from a shaker bottle
-
-one wearing sporty running glasses
-
-one climbing near her leg
-
-Enhance the image with playful, hand-drawn doodles and handwritten notes in white and pink ink, in a scrapbook style. Include elements like arrows, stars, hearts, sparkles, and sketchy lines.
-
-Add cute, handwritten gym-themed motivational phrases:
-
-“lift strong”
-
-“stronger every rep”
-
-“no pain no gain”
-
-“sweat now, shine later”
-
-“progress over perfection”
-
-“train hard, stay soft”
-
-The overall vibe should feel fun, energetic, and feminine.
+Check ALTs for ideas 👇
+@AdobeFirefly
 ```
 
 </details>
 
+<a id="nano-banana-isometric-country-floating-diorama"></a>
+### Isometric Floating Country Map Dioramas
+
+<a href="https://x.com/TechieBySA/status/2031336245972922862"><img src="previews/nano-banana-isometric-country-floating-diorama.jpg" width="360"></a>
+
+A single [COUNTRY] placeholder makes the prompt reusable, while per-region biome and architecture cues give each area its own look. Isometric miniature framing, cinematic soft light and explicit no people, no text, no labels constraints keep the floating landmass clean.
+
+Nano Banana 2 · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2031336245972922862) · 121 likes on 2026-10-29
+
+[`isometric`](pages/en/tags.md#tag-isometric) [`diorama`](pages/en/tags.md#tag-diorama) [`miniature`](pages/en/tags.md#tag-miniature) [`floating-map`](pages/en/tags.md#tag-floating-map) [`template`](pages/en/tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+“Ultra-detailed isometric miniature diorama of [COUNTRY] as a single floating map, divided into culturally and geographically distinct regions, connected by elegant winding roads.
+Each region naturally reflects its real-world biome, climate and architecture — coastal areas with harbors and seaside promenades, mountainous regions with dense forests and misty cliffs, arid plains with ancient stone structures, snowy eastern landscapes with dramatic winter light, and fertile valleys with traditional rural settlements.
+Iconic landmarks, local architectural styles and natural textures emerge organically from each region without labels or annotations.
+Each region features unique textures, climate, colors and cultural patterns inspired by local motifs.
+Isometric perspective, miniature scale, floating landmass style. Cinematic lighting, soft shadows, ultra-realistic textures. High-end architectural visualization, storytelling composition. No people, no text, no labels. 8K quality, hyper-detailed, premium aesthetic.​​​​​​​​​​​​​​​​“
+```
+
+</details>
+
+**[All 10 entries](pages/en/image-map.md)**
+
+<a id="img-collage"></a>
+## Collage
+
 <a id="gpt-image-failed-photos-grid"></a>
-### Nine failed photos of any character
+### Nine accidental phone snapshots of any character
 
 <a href="https://x.com/DeepBlueX0/status/2099481521983995971"><img src="previews/gpt-image-failed-photos-grid.jpg" width="360"></a>
 
-Seven words. The author's point: fewer restrictions give more authentic-looking mistakes.
+Asking for failed photos in a 3x3 grid makes the model invent motion blur, finger occlusion, awkward crops and mid blink faces, so the set reads like a real camera roll. Swap the character placeholder to reuse the template.
 
 GPT Image 2.5 · Text-to-image · Source: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2099481521983995971) · 2,646 likes on 2026-10-27
 
@@ -4143,10 +3997,82 @@ Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-colum
 
 </details>
 
-**[All 59 entries](pages/en/image-collage.md)**
+<a id="gpt-image-chibi-sticker-street-photo-doodles"></a>
+### Street Portrait Surrounded by 3D Chibi Selves
+
+<a href="https://x.com/im_shahid7/status/2050201037144002786"><img src="previews/gpt-image-chibi-sticker-street-photo-doodles.jpg" width="360"></a>
+
+The prompt keeps the original photo and background, then adds mini 3D chibi copies in a list of distinct poses and expressions. A white sticker outline, doodle icons and casual handwriting words tie the cutouts into one pastel collage.
+
+GPT Image 2 · Edit · Source: [@im_shahid7 on X](https://x.com/im_shahid7/status/2050201037144002786) · 414 likes on 2026-10-28
+
+[`chibi`](pages/en/tags.md#tag-chibi) [`sticker-outline`](pages/en/tags.md#tag-sticker-outline) [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) [`reference-photo`](pages/en/tags.md#tag-reference-photo) [`3d-cute`](pages/en/tags.md#tag-3d-cute)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features. Chibi characters have various poses and expressions:￼jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
+```
+
+</details>
+
+**[All 47 entries](pages/en/image-collage.md)**
 
 <a id="img-edit"></a>
 ## Photo editing
+
+<a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
+### Gym selfie surrounded by chibi mini selves
+
+<a href="https://x.com/Ciri_ai/status/2050094437821513896"><img src="previews/gpt-image-gym-selfie-chibi-minis-doodles.jpg" width="360"></a>
+
+The prompt first locks the original photo as unchanged, then lists each mini self with its own gym action so every figure stays distinct. A scrapbook doodle style in white and pink ink with a quoted list of handwritten phrases ties the overlay together.
+
+GPT Image 2 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2050094437821513896) · 3,471 likes on 2026-10-29
+
+[`chibi`](pages/en/tags.md#tag-chibi) [`scrapbook`](pages/en/tags.md#tag-scrapbook) [`doodle`](pages/en/tags.md#tag-doodle) [`gym`](pages/en/tags.md#tag-gym) [`selfie`](pages/en/tags.md#tag-selfie)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GPT Image 2 on Chatgpt
+
+Prompt: Edit the image while keeping the original photo completely unchanged — including the person, face, body, pose, lighting, and gym background.
+
+Add multiple small, cute chibi-style “mini versions” of her around the image. Each mini character should have a big head, expressive facial features, and match her hairstyle and outfit.
+
+Depict each mini version doing different gym-related activities:
+
+one cheering with arms raised
+
+one running in running shoes
+
+one drinking from a shaker bottle
+
+one wearing sporty running glasses
+
+one climbing near her leg
+
+Enhance the image with playful, hand-drawn doodles and handwritten notes in white and pink ink, in a scrapbook style. Include elements like arrows, stars, hearts, sparkles, and sketchy lines.
+
+Add cute, handwritten gym-themed motivational phrases:
+
+“lift strong”
+
+“stronger every rep”
+
+“no pain no gain”
+
+“sweat now, shine later”
+
+“progress over perfection”
+
+“train hard, stay soft”
+
+The overall vibe should feel fun, energetic, and feminine.
+```
+
+</details>
 
 <a id="gpt-image-selfie-chibi-sticker-doodle-edit"></a>
 ### Mirror selfie with chibi sticker doodle edit
@@ -4163,25 +4089,6 @@ GPT Image 2 · Edit · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan
 
 ```text
 Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit while keeping the original composition and colors natural. Do NOT heavily change the original lighting or color grading. Keep the tones soft, airy, warm, and realistic. Avoid oversaturated colors, HDR effects, strong orange filters, or excessive contrast.￼ Add hand-drawn doodle elements around the main objects: * white outline strokes * sketchy sparkles * stars * hearts * arrows * tiny flowers * playful swirls * mini handwritten notes Add small cute mascot-style doodles that match the vibe of the photo (tiny bear, smiling drink, cute food character, sleepy cloud, etc.) but keep them subtle and balanced. Use handwritten white text with short relatable captions only. Do NOT add too many words or overcrowd the image.Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features.Chibi characters have various poses and expressions: jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions.￼ ￼ Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
-```
-
-</details>
-
-<a id="nano-banana-old-photo-dslr-restoration"></a>
-### Blurry old toddler photo restored to DSLR quality
-
-<a href="https://x.com/Naiknelofar788/status/2030574333853069387"><img src="previews/nano-banana-old-photo-dslr-restoration.jpg" width="360"></a>
-
-Names a specific camera body, the Canon EOS R6 II, as the quality target, so the model has a concrete reference for color, detail and upscaling. It also asks to keep the exact facial features and a natural look, which stops the restoration from changing the person.
-
-Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2030574333853069387) · 987 likes on 2026-10-28
-
-[`photo-restoration`](pages/en/tags.md#tag-photo-restoration) [`upscale`](pages/en/tags.md#tag-upscale) [`old-photo`](pages/en/tags.md#tag-old-photo) [`portrait`](pages/en/tags.md#tag-portrait) [`camera-reference`](pages/en/tags.md#tag-camera-reference)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Restore this old photo into portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity"
 ```
 
 </details>
@@ -4228,7 +4135,7 @@ Nano Banana 2 · Edit · Source: [@doctorwasif on X](https://x.com/doctorwasif/s
 
 </details>
 
-**[All 40 entries](pages/en/image-edit.md)**
+**[All 34 entries](pages/en/image-edit.md)**
 
 <a id="recipes"></a>
 ## Agent recipes: editing video
@@ -4400,9 +4307,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
-[`template`](pages/en/tags.md#tag-template) 110 · [`cinematic`](pages/en/tags.md#tag-cinematic) 87 · [`portrait`](pages/en/tags.md#tag-portrait) 80 · [`editorial`](pages/en/tags.md#tag-editorial) 74 · [`fashion`](pages/en/tags.md#tag-fashion) 68 · [`typography`](pages/en/tags.md#tag-typography) 68 · [`anime`](pages/en/tags.md#tag-anime) 65 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 58 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 56 · [`infographic`](pages/en/tags.md#tag-infographic) 50 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 50 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 47 · [`dialogue`](pages/en/tags.md#tag-dialogue) 44 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 44 · [`action`](pages/en/tags.md#tag-action) 43 · [`handheld`](pages/en/tags.md#tag-handheld) 41 · [`macro`](pages/en/tags.md#tag-macro) 41 · [`storyboard`](pages/en/tags.md#tag-storyboard) 40 · [`fantasy`](pages/en/tags.md#tag-fantasy) 40 · [`miniature`](pages/en/tags.md#tag-miniature) 40 · [`pastel`](pages/en/tags.md#tag-pastel) 38 · [`reference-image`](pages/en/tags.md#tag-reference-image) 36 · [`diorama`](pages/en/tags.md#tag-diorama) 34 · [`watercolor`](pages/en/tags.md#tag-watercolor) 34 · [`food`](pages/en/tags.md#tag-food) 33 · [`vertical`](pages/en/tags.md#tag-vertical) 33 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 32 · [`chibi`](pages/en/tags.md#tag-chibi) 31 · [`selfie`](pages/en/tags.md#tag-selfie) 30 · [`split-layout`](pages/en/tags.md#tag-split-layout) 30 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 29 · [`grid`](pages/en/tags.md#tag-grid) 28 · [`film-grain`](pages/en/tags.md#tag-film-grain) 26 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 26 · [`candid`](pages/en/tags.md#tag-candid) 25 · [`identity-lock`](pages/en/tags.md#tag-identity-lock) 24 · [`architecture`](pages/en/tags.md#tag-architecture) 24 · [`landscape`](pages/en/tags.md#tag-landscape) 23 · [`minimalist`](pages/en/tags.md#tag-minimalist) 23 · [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) 23 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 23 · [`reference-photo`](pages/en/tags.md#tag-reference-photo) 22 · [`vlog`](pages/en/tags.md#tag-vlog) 21 · [`surreal`](pages/en/tags.md#tag-surreal) 21 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 21 · [`monochrome`](pages/en/tags.md#tag-monochrome) 21 · [`comedy`](pages/en/tags.md#tag-comedy) 20 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 20 · [`travel`](pages/en/tags.md#tag-travel) 20 · [`face-reference`](pages/en/tags.md#tag-face-reference) 20 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 20 · [`low-angle`](pages/en/tags.md#tag-low-angle) 19 · [`collage`](pages/en/tags.md#tag-collage) 19 · [`long-take`](pages/en/tags.md#tag-long-take) 19 · [`fashion-editorial`](pages/en/tags.md#tag-fashion-editorial) 19 · [`doodle`](pages/en/tags.md#tag-doodle) 19 · [`isometric`](pages/en/tags.md#tag-isometric) 18 · [`negative-space`](pages/en/tags.md#tag-negative-space) 18 · [`commercial`](pages/en/tags.md#tag-commercial) 17 · [`night`](pages/en/tags.md#tag-night) 17 · [`3d-render`](pages/en/tags.md#tag-3d-render) 17 · [`cafe`](pages/en/tags.md#tag-cafe) 16 · [`landmark`](pages/en/tags.md#tag-landmark) 16 · [`pixel-art`](pages/en/tags.md#tag-pixel-art) 16 · [`black-and-white`](pages/en/tags.md#tag-black-and-white) 15 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 14 · [`luxury`](pages/en/tags.md#tag-luxury) 14 · [`character-reference`](pages/en/tags.md#tag-character-reference) 14 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 14 · [`reference-images`](pages/en/tags.md#tag-reference-images) 14 · [`city`](pages/en/tags.md#tag-city) 14 · [`vintage`](pages/en/tags.md#tag-vintage) 14 · [`poster`](pages/en/tags.md#tag-poster) 14 · [`streetwear`](pages/en/tags.md#tag-streetwear) 14 · [`studio-portrait`](pages/en/tags.md#tag-studio-portrait) 14 · [`oil-painting`](pages/en/tags.md#tag-oil-painting) 14 · [`dance`](pages/en/tags.md#tag-dance) 13 · [`dragon`](pages/en/tags.md#tag-dragon) 13 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 13 · [`pov`](pages/en/tags.md#tag-pov) 13 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 13 · [`couple`](pages/en/tags.md#tag-couple) 13 · [`sketchbook`](pages/en/tags.md#tag-sketchbook) 13 · [`packaging`](pages/en/tags.md#tag-packaging) 13 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 13 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 12 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 12 · [`rain`](pages/en/tags.md#tag-rain) 12 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 12 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 12 · [`flat-vector`](pages/en/tags.md#tag-flat-vector) 12 · [`japanese-text`](pages/en/tags.md#tag-japanese-text) 12 · [`negative-prompt`](pages/en/tags.md#tag-negative-prompt) 12 · [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) 12 · [`storybook`](pages/en/tags.md#tag-storybook) 12 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 11 · [`ugc`](pages/en/tags.md#tag-ugc) 11 · [`sound-design`](pages/en/tags.md#tag-sound-design) 11 · [`japanese`](pages/en/tags.md#tag-japanese) 11 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 11 · [`korean`](pages/en/tags.md#tag-korean) 11 · [`neon`](pages/en/tags.md#tag-neon) 11 · [`film-look`](pages/en/tags.md#tag-film-look) 11 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 11 · [`layout`](pages/en/tags.md#tag-layout) 11 · [`double-exposure`](pages/en/tags.md#tag-double-exposure) 11 · [`screen-print`](pages/en/tags.md#tag-screen-print) 11 · [`motion-blur`](pages/en/tags.md#tag-motion-blur) 11 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 10 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 10 · [`animals`](pages/en/tags.md#tag-animals) 10 · [`product-ad`](pages/en/tags.md#tag-product-ad) 10 · [`street-photography`](pages/en/tags.md#tag-street-photography) 10 · [`hand-drawn`](pages/en/tags.md#tag-hand-drawn) 10 · [`line-art`](pages/en/tags.md#tag-line-art) 10 · [`cat`](pages/en/tags.md#tag-cat) 10 · [`character`](pages/en/tags.md#tag-character) 10 · [`bokeh`](pages/en/tags.md#tag-bokeh) 10 · [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) 10 · [`flash-photography`](pages/en/tags.md#tag-flash-photography) 10 · [`85mm`](pages/en/tags.md#tag-85mm) 10 · [`kawaii`](pages/en/tags.md#tag-kawaii) 10 · [`grid-layout`](pages/en/tags.md#tag-grid-layout) 10 · [`sunset`](pages/en/tags.md#tag-sunset) 10 · [`documentary`](pages/en/tags.md#tag-documentary) 9 · [`sports`](pages/en/tags.md#tag-sports) 9 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 9 · [`creature`](pages/en/tags.md#tag-creature) 9 · [`pencil-sketch`](pages/en/tags.md#tag-pencil-sketch) 9 · [`close-up`](pages/en/tags.md#tag-close-up) 9 · [`food-photography`](pages/en/tags.md#tag-food-photography) 9 · [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) 9 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 9 · [`photo-restoration`](pages/en/tags.md#tag-photo-restoration) 9 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 8 · [`transformation`](pages/en/tags.md#tag-transformation) 8 · [`silhouette`](pages/en/tags.md#tag-silhouette) 8 · [`y2k`](pages/en/tags.md#tag-y2k) 8 · [`studio`](pages/en/tags.md#tag-studio) 8 · [`consistency`](pages/en/tags.md#tag-consistency) 8 · [`home-video`](pages/en/tags.md#tag-home-video) 8 · [`nature`](pages/en/tags.md#tag-nature) 8 · [`sticker`](pages/en/tags.md#tag-sticker) 8 · [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) 8 · [`full-body`](pages/en/tags.md#tag-full-body) 8 · [`turnaround`](pages/en/tags.md#tag-turnaround) 8 · [`pose-sheet`](pages/en/tags.md#tag-pose-sheet) 8 · [`chinese-text`](pages/en/tags.md#tag-chinese-text) 8 · [`identity-reference`](pages/en/tags.md#tag-identity-reference) 8 · [`impasto`](pages/en/tags.md#tag-impasto) 8 · [`music-video`](pages/en/tags.md#tag-music-video) 7 · [`storytelling`](pages/en/tags.md#tag-storytelling) 7 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 7 · [`halftone`](pages/en/tags.md#tag-halftone) 7 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 7 · [`text-rendering`](pages/en/tags.md#tag-text-rendering) 7 · [`vfx`](pages/en/tags.md#tag-vfx) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) 7 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 7 · [`video-edit`](pages/en/tags.md#tag-video-edit) 7 · [`beverage`](pages/en/tags.md#tag-beverage) 7 · [`animal`](pages/en/tags.md#tag-animal) 7 · [`street`](pages/en/tags.md#tag-street) 7 · [`horror`](pages/en/tags.md#tag-horror) 7 · [`cute`](pages/en/tags.md#tag-cute) 7 · [`pixar-style`](pages/en/tags.md#tag-pixar-style) 7 · [`cityscape`](pages/en/tags.md#tag-cityscape) 7 · [`blueprint`](pages/en/tags.md#tag-blueprint) 7 · [`paper-craft`](pages/en/tags.md#tag-paper-craft) 7 · [`recipe`](pages/en/tags.md#tag-recipe) 7 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 7 · [`fisheye`](pages/en/tags.md#tag-fisheye) 7 · [`campaign`](pages/en/tags.md#tag-campaign) 7 · [`golden-light`](pages/en/tags.md#tag-golden-light) 7 · [`limited-palette`](pages/en/tags.md#tag-limited-palette) 7 · [`papercraft`](pages/en/tags.md#tag-papercraft) 7 · [`upscale`](pages/en/tags.md#tag-upscale) 7 · [`exploded-view`](pages/en/tags.md#tag-exploded-view) 7 · [`timeline`](pages/en/tags.md#tag-timeline) 6 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 6 · [`educational`](pages/en/tags.md#tag-educational) 6 · [`one-take`](pages/en/tags.md#tag-one-take) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 6 · [`realistic`](pages/en/tags.md#tag-realistic) 6 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 6 · [`object-swap`](pages/en/tags.md#tag-object-swap) 6 · [`hud`](pages/en/tags.md#tag-hud) 6 · [`realism`](pages/en/tags.md#tag-realism) 6 · [`illustration`](pages/en/tags.md#tag-illustration) 6 · [`japanese-typography`](pages/en/tags.md#tag-japanese-typography) 6 · [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) 6 · [`street-style`](pages/en/tags.md#tag-street-style) 6 · [`chinese-typography`](pages/en/tags.md#tag-chinese-typography) 6 · [`menswear`](pages/en/tags.md#tag-menswear) 6 · [`reference-face`](pages/en/tags.md#tag-reference-face) 6 · [`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) 6 · [`reflection`](pages/en/tags.md#tag-reflection) 6 · [`travel-journal`](pages/en/tags.md#tag-travel-journal) 6 · [`natural-light`](pages/en/tags.md#tag-natural-light) 6 · [`product-photography`](pages/en/tags.md#tag-product-photography) 6 · [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) 6 · [`flat-color`](pages/en/tags.md#tag-flat-color) 6 · [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) 6 · [`geometric`](pages/en/tags.md#tag-geometric) 6 · [`labels`](pages/en/tags.md#tag-labels) 6 · [`historical`](pages/en/tags.md#tag-historical) 5 · [`education`](pages/en/tags.md#tag-education) 5 · [`game-ui`](pages/en/tags.md#tag-game-ui) 5 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 5 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 5 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`nostalgic`](pages/en/tags.md#tag-nostalgic) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`multilingual`](pages/en/tags.md#tag-multilingual) 5 · [`camera-move`](pages/en/tags.md#tag-camera-move) 5 · [`wide-angle`](pages/en/tags.md#tag-wide-angle) 5 · [`product-shot`](pages/en/tags.md#tag-product-shot) 5 · [`stop-motion`](pages/en/tags.md#tag-stop-motion) 5 · [`music`](pages/en/tags.md#tag-music) 5 · [`chase`](pages/en/tags.md#tag-chase) 5 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 5 · [`animation`](pages/en/tags.md#tag-animation) 5 · [`snow`](pages/en/tags.md#tag-snow) 5 · [`photoreal`](pages/en/tags.md#tag-photoreal) 5 · [`restaurant`](pages/en/tags.md#tag-restaurant) 5 · [`painterly`](pages/en/tags.md#tag-painterly) 5 · [`pet`](pages/en/tags.md#tag-pet) 5 · [`product`](pages/en/tags.md#tag-product) 5 · [`photorealism`](pages/en/tags.md#tag-photorealism) 5 · [`backlight`](pages/en/tags.md#tag-backlight) 5 · [`fashion-illustration`](pages/en/tags.md#tag-fashion-illustration) 5 · [`before-after`](pages/en/tags.md#tag-before-after) 5 · [`street-art`](pages/en/tags.md#tag-street-art) 5 · [`lookbook`](pages/en/tags.md#tag-lookbook) 5 · [`minimal`](pages/en/tags.md#tag-minimal) 5 · [`colored-pencil`](pages/en/tags.md#tag-colored-pencil) 5 · [`concept-art`](pages/en/tags.md#tag-concept-art) 5 · [`screenshot`](pages/en/tags.md#tag-screenshot) 5 · [`expressions`](pages/en/tags.md#tag-expressions) 5 · [`map`](pages/en/tags.md#tag-map) 5 · [`identity-preserve`](pages/en/tags.md#tag-identity-preserve) 5 · [`ink-sketch`](pages/en/tags.md#tag-ink-sketch) 5 · [`encyclopedia`](pages/en/tags.md#tag-encyclopedia) 5 · [`summer`](pages/en/tags.md#tag-summer) 5 · [`street-fashion`](pages/en/tags.md#tag-street-fashion) 5 · [`social-media`](pages/en/tags.md#tag-social-media) 5 · [`mid-century`](pages/en/tags.md#tag-mid-century) 5 · [`advertising`](pages/en/tags.md#tag-advertising) 5 · [`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) 5 · [`white-background`](pages/en/tags.md#tag-white-background) 5 · [`risograph`](pages/en/tags.md#tag-risograph) 5 · [`old-photo`](pages/en/tags.md#tag-old-photo) 5 · [`cinematic-lighting`](pages/en/tags.md#tag-cinematic-lighting) 5 · [`sunglasses`](pages/en/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`montage`](pages/en/tags.md#tag-montage) 4 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 4 · [`perfume`](pages/en/tags.md#tag-perfume) 4 · [`wildlife`](pages/en/tags.md#tag-wildlife) 4 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`physics`](pages/en/tags.md#tag-physics) 4 · [`voiceover`](pages/en/tags.md#tag-voiceover) 4 · [`keyframes`](pages/en/tags.md#tag-keyframes) 4 · [`kids-education`](pages/en/tags.md#tag-kids-education) 4 · [`claymation`](pages/en/tags.md#tag-claymation) 4 · [`asmr`](pages/en/tags.md#tag-asmr) 4 · [`autumn`](pages/en/tags.md#tag-autumn) 4 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 4 · [`urban`](pages/en/tags.md#tag-urban) 4 · [`romance`](pages/en/tags.md#tag-romance) 4 · [`slice-of-life`](pages/en/tags.md#tag-slice-of-life) 4 · [`coastal`](pages/en/tags.md#tag-coastal) 4 · [`thriller`](pages/en/tags.md#tag-thriller) 4 · [`whimsical`](pages/en/tags.md#tag-whimsical) 4 · [`world-building`](pages/en/tags.md#tag-world-building) 4 · [`reference-sheet`](pages/en/tags.md#tag-reference-sheet) 4 · [`worldbuilding`](pages/en/tags.md#tag-worldbuilding) 4 · [`interior`](pages/en/tags.md#tag-interior) 4 · [`fitness`](pages/en/tags.md#tag-fitness) 4 · [`glassmorphism`](pages/en/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/en/tags.md#tag-self-portrait) 4 · [`pop-art`](pages/en/tags.md#tag-pop-art) 4 · [`japan`](pages/en/tags.md#tag-japan) 4 · [`parody`](pages/en/tags.md#tag-parody) 4 · [`logo`](pages/en/tags.md#tag-logo) 4 · [`birthday`](pages/en/tags.md#tag-birthday) 4 · [`side-profile`](pages/en/tags.md#tag-side-profile) 4 · [`bilingual`](pages/en/tags.md#tag-bilingual) 4 · [`botanical`](pages/en/tags.md#tag-botanical) 4 · [`brand-identity`](pages/en/tags.md#tag-brand-identity) 4 · [`butterfly`](pages/en/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/en/tags.md#tag-candid-portrait) 4 · [`chiaroscuro`](pages/en/tags.md#tag-chiaroscuro) 4 · [`mascot`](pages/en/tags.md#tag-mascot) 4 · [`cherry-blossom`](pages/en/tags.md#tag-cherry-blossom) 4 · [`diagram`](pages/en/tags.md#tag-diagram) 4 · [`game-asset`](pages/en/tags.md#tag-game-asset) 4 · [`landmarks`](pages/en/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/en/tags.md#tag-direct-flash) 4 · [`photobooth`](pages/en/tags.md#tag-photobooth) 4 · [`satire`](pages/en/tags.md#tag-satire) 4 · [`cozy`](pages/en/tags.md#tag-cozy) 4 · [`floral`](pages/en/tags.md#tag-floral) 4 · [`sepia`](pages/en/tags.md#tag-sepia) 4 · [`photo-dump`](pages/en/tags.md#tag-photo-dump) 4 · [`mockup`](pages/en/tags.md#tag-mockup) 4 · [`miniature-world`](pages/en/tags.md#tag-miniature-world) 4 · [`bedroom`](pages/en/tags.md#tag-bedroom) 4 · [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) 4 · [`sketch`](pages/en/tags.md#tag-sketch) 4 · [`movie-poster`](pages/en/tags.md#tag-movie-poster) 4 · [`color-palette`](pages/en/tags.md#tag-color-palette) 4 · [`paper-cut`](pages/en/tags.md#tag-paper-cut) 4 · [`retro`](pages/en/tags.md#tag-retro) 4 · [`ink-wash`](pages/en/tags.md#tag-ink-wash) 4 · [`graffiti`](pages/en/tags.md#tag-graffiti) 4 · [`tokyo`](pages/en/tags.md#tag-tokyo) 4 · [`paris`](pages/en/tags.md#tag-paris) 4 · [`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) 4 · [`dark-background`](pages/en/tags.md#tag-dark-background) 4 · [`kids`](pages/en/tags.md#tag-kids) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`fps`](pages/en/tags.md#tag-fps) 3 · [`first-person`](pages/en/tags.md#tag-first-person) 3 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 3 · [`car-interior`](pages/en/tags.md#tag-car-interior) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 3 · [`samurai`](pages/en/tags.md#tag-samurai) 3 · [`forest`](pages/en/tags.md#tag-forest) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 3 · [`livestream`](pages/en/tags.md#tag-livestream) 3 · [`skincare`](pages/en/tags.md#tag-skincare) 3 · [`single-take`](pages/en/tags.md#tag-single-take) 3 · [`single-shot`](pages/en/tags.md#tag-single-shot) 3 · [`camcorder`](pages/en/tags.md#tag-camcorder) 3 · [`seaside`](pages/en/tags.md#tag-seaside) 3 · [`aerial`](pages/en/tags.md#tag-aerial) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`image-to-video`](pages/en/tags.md#tag-image-to-video) 3 · [`push-in`](pages/en/tags.md#tag-push-in) 3 · [`felt`](pages/en/tags.md#tag-felt) 3 · [`painting`](pages/en/tags.md#tag-painting) 3 · [`kitchen`](pages/en/tags.md#tag-kitchen) 3 · [`embroidery`](pages/en/tags.md#tag-embroidery) 3 · [`pop-out`](pages/en/tags.md#tag-pop-out) 3 · [`cel-shading`](pages/en/tags.md#tag-cel-shading) 3 · [`beach`](pages/en/tags.md#tag-beach) 3 · [`multi-angle`](pages/en/tags.md#tag-multi-angle) 3 · [`choreography`](pages/en/tags.md#tag-choreography) 3 · [`short-film`](pages/en/tags.md#tag-short-film) 3 · [`underwater`](pages/en/tags.md#tag-underwater) 3 · [`subtitles`](pages/en/tags.md#tag-subtitles) 3 · [`subway`](pages/en/tags.md#tag-subway) 3 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 3 · [`crowd`](pages/en/tags.md#tag-crowd) 3 · [`top-down`](pages/en/tags.md#tag-top-down) 3 · [`family`](pages/en/tags.md#tag-family) 3 · [`food-commercial`](pages/en/tags.md#tag-food-commercial) 3 · [`skin-texture`](pages/en/tags.md#tag-skin-texture) 3 · [`newspaper`](pages/en/tags.md#tag-newspaper) 3 · [`film-photography`](pages/en/tags.md#tag-film-photography) 3 · [`magazine-cover`](pages/en/tags.md#tag-magazine-cover) 3 · [`reference-character`](pages/en/tags.md#tag-reference-character) 3 · [`style-conversion`](pages/en/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/en/tags.md#tag-e-commerce) 3 · [`graphite`](pages/en/tags.md#tag-graphite) 3 · [`landing-page`](pages/en/tags.md#tag-landing-page) 3 · [`window-light`](pages/en/tags.md#tag-window-light) 3 · [`ms-paint`](pages/en/tags.md#tag-ms-paint) 3 · [`vector`](pages/en/tags.md#tag-vector) 3 · [`face-consistency`](pages/en/tags.md#tag-face-consistency) 3 · [`cutout`](pages/en/tags.md#tag-cutout) 3 · [`design-system`](pages/en/tags.md#tag-design-system) 3 · [`light-mode`](pages/en/tags.md#tag-light-mode) 3 · [`product-poster`](pages/en/tags.md#tag-product-poster) 3 · [`beauty-portrait`](pages/en/tags.md#tag-beauty-portrait) 3 · [`night-street`](pages/en/tags.md#tag-night-street) 3 · [`mediterranean`](pages/en/tags.md#tag-mediterranean) 3 · [`brutalist`](pages/en/tags.md#tag-brutalist) 3 · [`camera-roll`](pages/en/tags.md#tag-camera-roll) 3 · [`humor`](pages/en/tags.md#tag-humor) 3 · [`dappled-light`](pages/en/tags.md#tag-dappled-light) 3 · [`candlelight`](pages/en/tags.md#tag-candlelight) 3 · [`sticker-outline`](pages/en/tags.md#tag-sticker-outline) 3 · [`calligraphy`](pages/en/tags.md#tag-calligraphy) 3 · [`low-light`](pages/en/tags.md#tag-low-light) 3 · [`clay`](pages/en/tags.md#tag-clay) 3 · [`crayon`](pages/en/tags.md#tag-crayon) 3 · [`16-9`](pages/en/tags.md#tag-16-9) 3 · [`product-design`](pages/en/tags.md#tag-product-design) 3 · [`low-key`](pages/en/tags.md#tag-low-key) 3 · [`grayscale`](pages/en/tags.md#tag-grayscale) 3 · [`3d-caricature`](pages/en/tags.md#tag-3d-caricature) 3 · [`product-render`](pages/en/tags.md#tag-product-render) 3 · [`digicam`](pages/en/tags.md#tag-digicam) 3 · [`mural`](pages/en/tags.md#tag-mural) 3 · [`zodiac`](pages/en/tags.md#tag-zodiac) 3 · [`photo-reconstruction`](pages/en/tags.md#tag-photo-reconstruction) 3 · [`photo-collage`](pages/en/tags.md#tag-photo-collage) 3 · [`engineering`](pages/en/tags.md#tag-engineering) 3 · [`9-16`](pages/en/tags.md#tag-9-16) 3 · [`portrait-collage`](pages/en/tags.md#tag-portrait-collage) 3 · [`futuristic`](pages/en/tags.md#tag-futuristic) 3 · [`panoramic`](pages/en/tags.md#tag-panoramic) 3 · [`triptych`](pages/en/tags.md#tag-triptych) 3 · [`ad-poster`](pages/en/tags.md#tag-ad-poster) 3 · [`children-illustration`](pages/en/tags.md#tag-children-illustration) 3 · [`disintegration`](pages/en/tags.md#tag-disintegration) 3 · [`polaroid`](pages/en/tags.md#tag-polaroid) 3 · [`dessert`](pages/en/tags.md#tag-dessert) 3 · [`palette-knife`](pages/en/tags.md#tag-palette-knife) 3 · [`3d`](pages/en/tags.md#tag-3d) 3 · [`ink-doodle`](pages/en/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/en/tags.md#tag-local-edit) 3 · [`color-analysis`](pages/en/tags.md#tag-color-analysis) 3 · [`paper-collage`](pages/en/tags.md#tag-paper-collage) 3 · [`skyline`](pages/en/tags.md#tag-skyline) 3 · [`math`](pages/en/tags.md#tag-math) 3 · [`paper-cutout`](pages/en/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/en/tags.md#tag-memory-card) 3 · [`industrial`](pages/en/tags.md#tag-industrial) 3 · [`hard-light`](pages/en/tags.md#tag-hard-light) 3 · [`parchment`](pages/en/tags.md#tag-parchment) 3 · [`naive-art`](pages/en/tags.md#tag-naive-art) 3 · [`chinese-style`](pages/en/tags.md#tag-chinese-style) 3 · [`macro-photography`](pages/en/tags.md#tag-macro-photography) 3 · [`colorize`](pages/en/tags.md#tag-colorize) 3 · [`phone-photo`](pages/en/tags.md#tag-phone-photo) 3 · [`photo-reference`](pages/en/tags.md#tag-photo-reference) 3 · [`split-composition`](pages/en/tags.md#tag-split-composition) 3 · [`character-design`](pages/en/tags.md#tag-character-design) 3 · [`rooftop`](pages/en/tags.md#tag-rooftop) 3 · [`logo-design`](pages/en/tags.md#tag-logo-design) 3 · [`winter`](pages/en/tags.md#tag-winter) 3 · [`liquid-splash`](pages/en/tags.md#tag-liquid-splash) 3 · [`cinematic-portrait`](pages/en/tags.md#tag-cinematic-portrait) 3 · [`street-portrait`](pages/en/tags.md#tag-street-portrait) 3
+[`template`](pages/en/tags.md#tag-template) 105 · [`cinematic`](pages/en/tags.md#tag-cinematic) 81 · [`portrait`](pages/en/tags.md#tag-portrait) 70 · [`editorial`](pages/en/tags.md#tag-editorial) 67 · [`fashion`](pages/en/tags.md#tag-fashion) 65 · [`typography`](pages/en/tags.md#tag-typography) 65 · [`anime`](pages/en/tags.md#tag-anime) 60 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 56 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 48 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 47 · [`infographic`](pages/en/tags.md#tag-infographic) 47 · [`dialogue`](pages/en/tags.md#tag-dialogue) 44 · [`action`](pages/en/tags.md#tag-action) 42 · [`handheld`](pages/en/tags.md#tag-handheld) 41 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 41 · [`fantasy`](pages/en/tags.md#tag-fantasy) 40 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 38 · [`miniature`](pages/en/tags.md#tag-miniature) 37 · [`macro`](pages/en/tags.md#tag-macro) 34 · [`pastel`](pages/en/tags.md#tag-pastel) 33 · [`vertical`](pages/en/tags.md#tag-vertical) 32 · [`reference-image`](pages/en/tags.md#tag-reference-image) 31 · [`diorama`](pages/en/tags.md#tag-diorama) 31 · [`storyboard`](pages/en/tags.md#tag-storyboard) 30 · [`food`](pages/en/tags.md#tag-food) 30 · [`watercolor`](pages/en/tags.md#tag-watercolor) 29 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 28 · [`chibi`](pages/en/tags.md#tag-chibi) 28 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 27 · [`selfie`](pages/en/tags.md#tag-selfie) 26 · [`grid`](pages/en/tags.md#tag-grid) 26 · [`film-grain`](pages/en/tags.md#tag-film-grain) 24 · [`architecture`](pages/en/tags.md#tag-architecture) 23 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 23 · [`split-layout`](pages/en/tags.md#tag-split-layout) 23 · [`identity-lock`](pages/en/tags.md#tag-identity-lock) 22 · [`candid`](pages/en/tags.md#tag-candid) 22 · [`vlog`](pages/en/tags.md#tag-vlog) 21 · [`landscape`](pages/en/tags.md#tag-landscape) 21 · [`surreal`](pages/en/tags.md#tag-surreal) 20 · [`comedy`](pages/en/tags.md#tag-comedy) 20 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 20 · [`monochrome`](pages/en/tags.md#tag-monochrome) 20 · [`travel`](pages/en/tags.md#tag-travel) 19 · [`long-take`](pages/en/tags.md#tag-long-take) 19 · [`face-reference`](pages/en/tags.md#tag-face-reference) 19 · [`reference-photo`](pages/en/tags.md#tag-reference-photo) 19 · [`minimalist`](pages/en/tags.md#tag-minimalist) 19 · [`fashion-editorial`](pages/en/tags.md#tag-fashion-editorial) 18 · [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) 18 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 17 · [`low-angle`](pages/en/tags.md#tag-low-angle) 17 · [`collage`](pages/en/tags.md#tag-collage) 17 · [`night`](pages/en/tags.md#tag-night) 17 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 17 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 17 · [`cafe`](pages/en/tags.md#tag-cafe) 16 · [`landmark`](pages/en/tags.md#tag-landmark) 16 · [`doodle`](pages/en/tags.md#tag-doodle) 16 · [`isometric`](pages/en/tags.md#tag-isometric) 16 · [`black-and-white`](pages/en/tags.md#tag-black-and-white) 15 · [`pixel-art`](pages/en/tags.md#tag-pixel-art) 15 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 14 · [`luxury`](pages/en/tags.md#tag-luxury) 14 · [`commercial`](pages/en/tags.md#tag-commercial) 14 · [`character-reference`](pages/en/tags.md#tag-character-reference) 14 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 14 · [`reference-images`](pages/en/tags.md#tag-reference-images) 14 · [`city`](pages/en/tags.md#tag-city) 14 · [`oil-painting`](pages/en/tags.md#tag-oil-painting) 14 · [`3d-render`](pages/en/tags.md#tag-3d-render) 14 · [`negative-space`](pages/en/tags.md#tag-negative-space) 14 · [`dragon`](pages/en/tags.md#tag-dragon) 13 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 13 · [`pov`](pages/en/tags.md#tag-pov) 13 · [`vintage`](pages/en/tags.md#tag-vintage) 13 · [`studio-portrait`](pages/en/tags.md#tag-studio-portrait) 13 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 12 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 12 · [`rain`](pages/en/tags.md#tag-rain) 12 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 12 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 12 · [`flat-vector`](pages/en/tags.md#tag-flat-vector) 12 · [`poster`](pages/en/tags.md#tag-poster) 12 · [`streetwear`](pages/en/tags.md#tag-streetwear) 12 · [`sketchbook`](pages/en/tags.md#tag-sketchbook) 12 · [`storybook`](pages/en/tags.md#tag-storybook) 12 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 11 · [`sound-design`](pages/en/tags.md#tag-sound-design) 11 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 11 · [`korean`](pages/en/tags.md#tag-korean) 11 · [`film-look`](pages/en/tags.md#tag-film-look) 11 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 11 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 11 · [`layout`](pages/en/tags.md#tag-layout) 11 · [`double-exposure`](pages/en/tags.md#tag-double-exposure) 11 · [`packaging`](pages/en/tags.md#tag-packaging) 11 · [`motion-blur`](pages/en/tags.md#tag-motion-blur) 11 · [`dance`](pages/en/tags.md#tag-dance) 10 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 10 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 10 · [`ugc`](pages/en/tags.md#tag-ugc) 10 · [`animals`](pages/en/tags.md#tag-animals) 10 · [`japanese-text`](pages/en/tags.md#tag-japanese-text) 10 · [`japanese`](pages/en/tags.md#tag-japanese) 10 · [`neon`](pages/en/tags.md#tag-neon) 10 · [`line-art`](pages/en/tags.md#tag-line-art) 10 · [`cat`](pages/en/tags.md#tag-cat) 10 · [`couple`](pages/en/tags.md#tag-couple) 10 · [`character`](pages/en/tags.md#tag-character) 10 · [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) 10 · [`flash-photography`](pages/en/tags.md#tag-flash-photography) 10 · [`85mm`](pages/en/tags.md#tag-85mm) 10 · [`screen-print`](pages/en/tags.md#tag-screen-print) 10 · [`sunset`](pages/en/tags.md#tag-sunset) 10 · [`documentary`](pages/en/tags.md#tag-documentary) 9 · [`sports`](pages/en/tags.md#tag-sports) 9 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 9 · [`creature`](pages/en/tags.md#tag-creature) 9 · [`street-photography`](pages/en/tags.md#tag-street-photography) 9 · [`hand-drawn`](pages/en/tags.md#tag-hand-drawn) 9 · [`close-up`](pages/en/tags.md#tag-close-up) 9 · [`bokeh`](pages/en/tags.md#tag-bokeh) 9 · [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) 9 · [`kawaii`](pages/en/tags.md#tag-kawaii) 9 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 9 · [`product-ad`](pages/en/tags.md#tag-product-ad) 8 · [`transformation`](pages/en/tags.md#tag-transformation) 8 · [`silhouette`](pages/en/tags.md#tag-silhouette) 8 · [`y2k`](pages/en/tags.md#tag-y2k) 8 · [`home-video`](pages/en/tags.md#tag-home-video) 8 · [`sticker`](pages/en/tags.md#tag-sticker) 8 · [`full-body`](pages/en/tags.md#tag-full-body) 8 · [`turnaround`](pages/en/tags.md#tag-turnaround) 8 · [`chinese-text`](pages/en/tags.md#tag-chinese-text) 8 · [`grid-layout`](pages/en/tags.md#tag-grid-layout) 8 · [`identity-reference`](pages/en/tags.md#tag-identity-reference) 8 · [`impasto`](pages/en/tags.md#tag-impasto) 8 · [`music-video`](pages/en/tags.md#tag-music-video) 7 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 7 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 7 · [`halftone`](pages/en/tags.md#tag-halftone) 7 · [`pencil-sketch`](pages/en/tags.md#tag-pencil-sketch) 7 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 7 · [`vfx`](pages/en/tags.md#tag-vfx) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`studio`](pages/en/tags.md#tag-studio) 7 · [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) 7 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 7 · [`video-edit`](pages/en/tags.md#tag-video-edit) 7 · [`consistency`](pages/en/tags.md#tag-consistency) 7 · [`animal`](pages/en/tags.md#tag-animal) 7 · [`horror`](pages/en/tags.md#tag-horror) 7 · [`nature`](pages/en/tags.md#tag-nature) 7 · [`cute`](pages/en/tags.md#tag-cute) 7 · [`pixar-style`](pages/en/tags.md#tag-pixar-style) 7 · [`cityscape`](pages/en/tags.md#tag-cityscape) 7 · [`blueprint`](pages/en/tags.md#tag-blueprint) 7 · [`paper-craft`](pages/en/tags.md#tag-paper-craft) 7 · [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) 7 · [`fisheye`](pages/en/tags.md#tag-fisheye) 7 · [`campaign`](pages/en/tags.md#tag-campaign) 7 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 6 · [`one-take`](pages/en/tags.md#tag-one-take) 6 · [`text-rendering`](pages/en/tags.md#tag-text-rendering) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 6 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 6 · [`object-swap`](pages/en/tags.md#tag-object-swap) 6 · [`hud`](pages/en/tags.md#tag-hud) 6 · [`street`](pages/en/tags.md#tag-street) 6 · [`realism`](pages/en/tags.md#tag-realism) 6 · [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) 6 · [`pose-sheet`](pages/en/tags.md#tag-pose-sheet) 6 · [`street-style`](pages/en/tags.md#tag-street-style) 6 · [`recipe`](pages/en/tags.md#tag-recipe) 6 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 6 · [`chinese-typography`](pages/en/tags.md#tag-chinese-typography) 6 · [`menswear`](pages/en/tags.md#tag-menswear) 6 · [`product-photography`](pages/en/tags.md#tag-product-photography) 6 · [`golden-light`](pages/en/tags.md#tag-golden-light) 6 · [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) 6 · [`limited-palette`](pages/en/tags.md#tag-limited-palette) 6 · [`papercraft`](pages/en/tags.md#tag-papercraft) 6 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 6 · [`labels`](pages/en/tags.md#tag-labels) 6 · [`historical`](pages/en/tags.md#tag-historical) 5 · [`education`](pages/en/tags.md#tag-education) 5 · [`game-ui`](pages/en/tags.md#tag-game-ui) 5 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 5 · [`timeline`](pages/en/tags.md#tag-timeline) 5 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 5 · [`storytelling`](pages/en/tags.md#tag-storytelling) 5 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 5 · [`educational`](pages/en/tags.md#tag-educational) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`nostalgic`](pages/en/tags.md#tag-nostalgic) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`realistic`](pages/en/tags.md#tag-realistic) 5 · [`multilingual`](pages/en/tags.md#tag-multilingual) 5 · [`camera-move`](pages/en/tags.md#tag-camera-move) 5 · [`wide-angle`](pages/en/tags.md#tag-wide-angle) 5 · [`stop-motion`](pages/en/tags.md#tag-stop-motion) 5 · [`music`](pages/en/tags.md#tag-music) 5 · [`chase`](pages/en/tags.md#tag-chase) 5 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 5 · [`beverage`](pages/en/tags.md#tag-beverage) 5 · [`snow`](pages/en/tags.md#tag-snow) 5 · [`photoreal`](pages/en/tags.md#tag-photoreal) 5 · [`painterly`](pages/en/tags.md#tag-painterly) 5 · [`pet`](pages/en/tags.md#tag-pet) 5 · [`product`](pages/en/tags.md#tag-product) 5 · [`illustration`](pages/en/tags.md#tag-illustration) 5 · [`photorealism`](pages/en/tags.md#tag-photorealism) 5 · [`backlight`](pages/en/tags.md#tag-backlight) 5 · [`before-after`](pages/en/tags.md#tag-before-after) 5 · [`japanese-typography`](pages/en/tags.md#tag-japanese-typography) 5 · [`street-art`](pages/en/tags.md#tag-street-art) 5 · [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) 5 · [`food-photography`](pages/en/tags.md#tag-food-photography) 5 · [`concept-art`](pages/en/tags.md#tag-concept-art) 5 · [`screenshot`](pages/en/tags.md#tag-screenshot) 5 · [`reference-face`](pages/en/tags.md#tag-reference-face) 5 · [`expressions`](pages/en/tags.md#tag-expressions) 5 · [`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) 5 · [`map`](pages/en/tags.md#tag-map) 5 · [`identity-preserve`](pages/en/tags.md#tag-identity-preserve) 5 · [`reflection`](pages/en/tags.md#tag-reflection) 5 · [`travel-journal`](pages/en/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/en/tags.md#tag-ink-sketch) 5 · [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) 5 · [`social-media`](pages/en/tags.md#tag-social-media) 5 · [`mid-century`](pages/en/tags.md#tag-mid-century) 5 · [`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) 5 · [`white-background`](pages/en/tags.md#tag-white-background) 5 · [`risograph`](pages/en/tags.md#tag-risograph) 5 · [`exploded-view`](pages/en/tags.md#tag-exploded-view) 5 · [`cinematic-lighting`](pages/en/tags.md#tag-cinematic-lighting) 5 · [`sunglasses`](pages/en/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`montage`](pages/en/tags.md#tag-montage) 4 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 4 · [`wildlife`](pages/en/tags.md#tag-wildlife) 4 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`physics`](pages/en/tags.md#tag-physics) 4 · [`voiceover`](pages/en/tags.md#tag-voiceover) 4 · [`product-shot`](pages/en/tags.md#tag-product-shot) 4 · [`keyframes`](pages/en/tags.md#tag-keyframes) 4 · [`kids-education`](pages/en/tags.md#tag-kids-education) 4 · [`claymation`](pages/en/tags.md#tag-claymation) 4 · [`asmr`](pages/en/tags.md#tag-asmr) 4 · [`animation`](pages/en/tags.md#tag-animation) 4 · [`autumn`](pages/en/tags.md#tag-autumn) 4 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 4 · [`urban`](pages/en/tags.md#tag-urban) 4 · [`romance`](pages/en/tags.md#tag-romance) 4 · [`negative-prompt`](pages/en/tags.md#tag-negative-prompt) 4 · [`slice-of-life`](pages/en/tags.md#tag-slice-of-life) 4 · [`restaurant`](pages/en/tags.md#tag-restaurant) 4 · [`coastal`](pages/en/tags.md#tag-coastal) 4 · [`worldbuilding`](pages/en/tags.md#tag-worldbuilding) 4 · [`interior`](pages/en/tags.md#tag-interior) 4 · [`fitness`](pages/en/tags.md#tag-fitness) 4 · [`glassmorphism`](pages/en/tags.md#tag-glassmorphism) 4 · [`pop-art`](pages/en/tags.md#tag-pop-art) 4 · [`japan`](pages/en/tags.md#tag-japan) 4 · [`lookbook`](pages/en/tags.md#tag-lookbook) 4 · [`minimal`](pages/en/tags.md#tag-minimal) 4 · [`colored-pencil`](pages/en/tags.md#tag-colored-pencil) 4 · [`birthday`](pages/en/tags.md#tag-birthday) 4 · [`side-profile`](pages/en/tags.md#tag-side-profile) 4 · [`bilingual`](pages/en/tags.md#tag-bilingual) 4 · [`botanical`](pages/en/tags.md#tag-botanical) 4 · [`butterfly`](pages/en/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/en/tags.md#tag-candid-portrait) 4 · [`chiaroscuro`](pages/en/tags.md#tag-chiaroscuro) 4 · [`mascot`](pages/en/tags.md#tag-mascot) 4 · [`cherry-blossom`](pages/en/tags.md#tag-cherry-blossom) 4 · [`diagram`](pages/en/tags.md#tag-diagram) 4 · [`game-asset`](pages/en/tags.md#tag-game-asset) 4 · [`direct-flash`](pages/en/tags.md#tag-direct-flash) 4 · [`photobooth`](pages/en/tags.md#tag-photobooth) 4 · [`cozy`](pages/en/tags.md#tag-cozy) 4 · [`floral`](pages/en/tags.md#tag-floral) 4 · [`sepia`](pages/en/tags.md#tag-sepia) 4 · [`encyclopedia`](pages/en/tags.md#tag-encyclopedia) 4 · [`photo-dump`](pages/en/tags.md#tag-photo-dump) 4 · [`summer`](pages/en/tags.md#tag-summer) 4 · [`street-fashion`](pages/en/tags.md#tag-street-fashion) 4 · [`flat-color`](pages/en/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/en/tags.md#tag-miniature-world) 4 · [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) 4 · [`sketch`](pages/en/tags.md#tag-sketch) 4 · [`geometric`](pages/en/tags.md#tag-geometric) 4 · [`retro`](pages/en/tags.md#tag-retro) 4 · [`graffiti`](pages/en/tags.md#tag-graffiti) 4 · [`photo-restoration`](pages/en/tags.md#tag-photo-restoration) 4 · [`tokyo`](pages/en/tags.md#tag-tokyo) 4 · [`paris`](pages/en/tags.md#tag-paris) 4 · [`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) 4 · [`kids`](pages/en/tags.md#tag-kids) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`fps`](pages/en/tags.md#tag-fps) 3 · [`first-person`](pages/en/tags.md#tag-first-person) 3 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 3 · [`samurai`](pages/en/tags.md#tag-samurai) 3 · [`forest`](pages/en/tags.md#tag-forest) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 3 · [`livestream`](pages/en/tags.md#tag-livestream) 3 · [`perfume`](pages/en/tags.md#tag-perfume) 3 · [`skincare`](pages/en/tags.md#tag-skincare) 3 · [`single-take`](pages/en/tags.md#tag-single-take) 3 · [`single-shot`](pages/en/tags.md#tag-single-shot) 3 · [`camcorder`](pages/en/tags.md#tag-camcorder) 3 · [`seaside`](pages/en/tags.md#tag-seaside) 3 · [`aerial`](pages/en/tags.md#tag-aerial) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`image-to-video`](pages/en/tags.md#tag-image-to-video) 3 · [`push-in`](pages/en/tags.md#tag-push-in) 3 · [`felt`](pages/en/tags.md#tag-felt) 3 · [`painting`](pages/en/tags.md#tag-painting) 3 · [`embroidery`](pages/en/tags.md#tag-embroidery) 3 · [`pop-out`](pages/en/tags.md#tag-pop-out) 3 · [`beach`](pages/en/tags.md#tag-beach) 3 · [`multi-angle`](pages/en/tags.md#tag-multi-angle) 3 · [`short-film`](pages/en/tags.md#tag-short-film) 3 · [`underwater`](pages/en/tags.md#tag-underwater) 3 · [`subtitles`](pages/en/tags.md#tag-subtitles) 3 · [`subway`](pages/en/tags.md#tag-subway) 3 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 3 · [`thriller`](pages/en/tags.md#tag-thriller) 3 · [`crowd`](pages/en/tags.md#tag-crowd) 3 · [`top-down`](pages/en/tags.md#tag-top-down) 3 · [`family`](pages/en/tags.md#tag-family) 3 · [`whimsical`](pages/en/tags.md#tag-whimsical) 3 · [`world-building`](pages/en/tags.md#tag-world-building) 3 · [`skin-texture`](pages/en/tags.md#tag-skin-texture) 3 · [`film-photography`](pages/en/tags.md#tag-film-photography) 3 · [`fashion-illustration`](pages/en/tags.md#tag-fashion-illustration) 3 · [`style-conversion`](pages/en/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/en/tags.md#tag-e-commerce) 3 · [`parody`](pages/en/tags.md#tag-parody) 3 · [`graphite`](pages/en/tags.md#tag-graphite) 3 · [`ms-paint`](pages/en/tags.md#tag-ms-paint) 3 · [`vector`](pages/en/tags.md#tag-vector) 3 · [`cutout`](pages/en/tags.md#tag-cutout) 3 · [`design-system`](pages/en/tags.md#tag-design-system) 3 · [`light-mode`](pages/en/tags.md#tag-light-mode) 3 · [`product-poster`](pages/en/tags.md#tag-product-poster) 3 · [`beauty-portrait`](pages/en/tags.md#tag-beauty-portrait) 3 · [`night-street`](pages/en/tags.md#tag-night-street) 3 · [`mediterranean`](pages/en/tags.md#tag-mediterranean) 3 · [`brand-identity`](pages/en/tags.md#tag-brand-identity) 3 · [`brutalist`](pages/en/tags.md#tag-brutalist) 3 · [`camera-roll`](pages/en/tags.md#tag-camera-roll) 3 · [`humor`](pages/en/tags.md#tag-humor) 3 · [`calligraphy`](pages/en/tags.md#tag-calligraphy) 3 · [`landmarks`](pages/en/tags.md#tag-landmarks) 3 · [`clay`](pages/en/tags.md#tag-clay) 3 · [`satire`](pages/en/tags.md#tag-satire) 3 · [`crayon`](pages/en/tags.md#tag-crayon) 3 · [`16-9`](pages/en/tags.md#tag-16-9) 3 · [`product-design`](pages/en/tags.md#tag-product-design) 3 · [`low-key`](pages/en/tags.md#tag-low-key) 3 · [`product-render`](pages/en/tags.md#tag-product-render) 3 · [`digicam`](pages/en/tags.md#tag-digicam) 3 · [`mural`](pages/en/tags.md#tag-mural) 3 · [`zodiac`](pages/en/tags.md#tag-zodiac) 3 · [`photo-collage`](pages/en/tags.md#tag-photo-collage) 3 · [`engineering`](pages/en/tags.md#tag-engineering) 3 · [`mockup`](pages/en/tags.md#tag-mockup) 3 · [`9-16`](pages/en/tags.md#tag-9-16) 3 · [`portrait-collage`](pages/en/tags.md#tag-portrait-collage) 3 · [`panoramic`](pages/en/tags.md#tag-panoramic) 3 · [`triptych`](pages/en/tags.md#tag-triptych) 3 · [`ad-poster`](pages/en/tags.md#tag-ad-poster) 3 · [`children-illustration`](pages/en/tags.md#tag-children-illustration) 3 · [`disintegration`](pages/en/tags.md#tag-disintegration) 3 · [`polaroid`](pages/en/tags.md#tag-polaroid) 3 · [`dessert`](pages/en/tags.md#tag-dessert) 3 · [`palette-knife`](pages/en/tags.md#tag-palette-knife) 3 · [`natural-light`](pages/en/tags.md#tag-natural-light) 3 · [`3d`](pages/en/tags.md#tag-3d) 3 · [`color-palette`](pages/en/tags.md#tag-color-palette) 3 · [`paper-cut`](pages/en/tags.md#tag-paper-cut) 3 · [`ink-doodle`](pages/en/tags.md#tag-ink-doodle) 3 · [`self-portrait`](pages/en/tags.md#tag-self-portrait) 3 · [`local-edit`](pages/en/tags.md#tag-local-edit) 3 · [`upscale`](pages/en/tags.md#tag-upscale) 3 · [`color-analysis`](pages/en/tags.md#tag-color-analysis) 3 · [`paper-collage`](pages/en/tags.md#tag-paper-collage) 3 · [`paper-cutout`](pages/en/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/en/tags.md#tag-memory-card) 3 · [`hard-light`](pages/en/tags.md#tag-hard-light) 3 · [`ink-wash`](pages/en/tags.md#tag-ink-wash) 3 · [`bedroom`](pages/en/tags.md#tag-bedroom) 3 · [`naive-art`](pages/en/tags.md#tag-naive-art) 3 · [`chinese-style`](pages/en/tags.md#tag-chinese-style) 3 · [`advertising`](pages/en/tags.md#tag-advertising) 3 · [`macro-photography`](pages/en/tags.md#tag-macro-photography) 3 · [`split-composition`](pages/en/tags.md#tag-split-composition) 3 · [`movie-poster`](pages/en/tags.md#tag-movie-poster) 3 · [`rooftop`](pages/en/tags.md#tag-rooftop) 3 · [`winter`](pages/en/tags.md#tag-winter) 3 · [`street-portrait`](pages/en/tags.md#tag-street-portrait) 3
 
-**[All 1929 tags](pages/en/tags.md)**
+**[All 1799 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

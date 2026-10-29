@@ -1,7 +1,7 @@
 id: gpt-image-realistic-woman-3d-girl-night-park
 title:
-  en: Realistic woman beside 3D animated girl at night
-  zh: 夜晚公园里真人女子与3D动画小女孩同框
+  en: Realistic woman on park bench with 3D animated girl
+  zh: 公园长椅上的真人女子与3D动画女孩
 model: GPT Image 2.5
 mode: image-edit
 category: portrait
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-09-24'
 notes:
-  en: Uses an uploaded photo as the identity reference for the realistic woman, then fixes the 3D girl's outfit, hair and proportions so the two styles blend. A short list of hard constraints on pose, gaze and height difference, plus warm streetlight rim lighting, keeps the mixed realism and animation consistent.
-  zh: 以上传照片作为真人女子的身份参考，并锁定3D小女孩的服装、发型和比例，让两种画风自然融合。用一组硬性约束固定姿势、视线和身高差，再配合暖色路灯轮廓光，保证真人与动画风格统一。
+  en: An uploaded photo sets the woman's identity, and a separate detailed description keeps the girl in a cute 3D animated style with a matching streetwear outfit. Warm streetlight rim lighting and soft city bokeh blend the two styles into one night scene, though the model loosely interpreted the requested pose.
+  zh: 上传的照片锁定女子的身份，另一段详细描述让女孩保持可爱的3D动画风格并穿着同款街头服装。暖色路灯轮廓光和柔和的城市散景把两种风格融进同一个夜景，不过模型对指定姿势的执行比较宽松。
 prompt: |
   Create a single cinematic vertical 9:16 image based closely on the uploaded reference.
 

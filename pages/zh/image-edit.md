@@ -1,6 +1,59 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 40 条
+[返回目录](../../README_zh.md) · 全部 34 条
+
+<a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
+### 健身房自拍周围环绕Q版迷你分身
+
+<a href="https://x.com/Ciri_ai/status/2050094437821513896"><img src="../../previews/gpt-image-gym-selfie-chibi-minis-doodles.jpg" width="360"></a>
+
+提示词先锁定原图不变，再逐条列出每个迷你分身的健身动作，让每个角色各不相同。白色与粉色手绘涂鸦的手账风格，加上逐条给出的手写短语，把叠加元素统一起来。
+
+GPT Image 2 · 上传图改图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2050094437821513896) · 3,471 赞，统计于 2026-10-29
+
+[`chibi`](tags.md#tag-chibi) [`scrapbook`](tags.md#tag-scrapbook) [`doodle`](tags.md#tag-doodle) [`gym`](tags.md#tag-gym) [`selfie`](tags.md#tag-selfie)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GPT Image 2 on Chatgpt
+
+Prompt: Edit the image while keeping the original photo completely unchanged — including the person, face, body, pose, lighting, and gym background.
+
+Add multiple small, cute chibi-style “mini versions” of her around the image. Each mini character should have a big head, expressive facial features, and match her hairstyle and outfit.
+
+Depict each mini version doing different gym-related activities:
+
+one cheering with arms raised
+
+one running in running shoes
+
+one drinking from a shaker bottle
+
+one wearing sporty running glasses
+
+one climbing near her leg
+
+Enhance the image with playful, hand-drawn doodles and handwritten notes in white and pink ink, in a scrapbook style. Include elements like arrows, stars, hearts, sparkles, and sketchy lines.
+
+Add cute, handwritten gym-themed motivational phrases:
+
+“lift strong”
+
+“stronger every rep”
+
+“no pain no gain”
+
+“sweat now, shine later”
+
+“progress over perfection”
+
+“train hard, stay soft”
+
+The overall vibe should feel fun, energetic, and feminine.
+```
+
+</details>
 
 <a id="gpt-image-selfie-chibi-sticker-doodle-edit"></a>
 ### 电梯镜面自拍加Q版贴纸涂鸦
@@ -17,25 +70,6 @@ GPT Image 2 · 上传图改图 · 出处: [@ChillaiKalan__ on X](https://x.com/C
 
 ```text
 Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit while keeping the original composition and colors natural. Do NOT heavily change the original lighting or color grading. Keep the tones soft, airy, warm, and realistic. Avoid oversaturated colors, HDR effects, strong orange filters, or excessive contrast.￼ Add hand-drawn doodle elements around the main objects: * white outline strokes * sketchy sparkles * stars * hearts * arrows * tiny flowers * playful swirls * mini handwritten notes Add small cute mascot-style doodles that match the vibe of the photo (tiny bear, smiling drink, cute food character, sleepy cloud, etc.) but keep them subtle and balanced. Use handwritten white text with short relatable captions only. Do NOT add too many words or overcrowd the image.Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features.Chibi characters have various poses and expressions: jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions.￼ ￼ Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
-```
-
-</details>
-
-<a id="nano-banana-old-photo-dslr-restoration"></a>
-### 模糊的老照片幼儿像修复成单反画质
-
-<a href="https://x.com/Naiknelofar788/status/2030574333853069387"><img src="../../previews/nano-banana-old-photo-dslr-restoration.jpg" width="360"></a>
-
-用具体的相机型号佳能 EOS R6 II 作为画质目标，给模型明确的色彩、细节与放大参照。同时要求保留准确的面部特征并保持自然，避免修复时改变人物。
-
-Nano Banana 2 · 上传图改图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2030574333853069387) · 987 赞，统计于 2026-10-28
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`upscale`](tags.md#tag-upscale) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`camera-reference`](tags.md#tag-camera-reference)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Restore this old photo into portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity"
 ```
 
 </details>
@@ -82,29 +116,6 @@ Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/do
 
 </details>
 
-<a id="nano-banana-damaged-vintage-photo-restoration-upscale"></a>
-### 开裂的老照片修复为清晰4K人像
-
-<a href="https://x.com/doctorwasif/status/2048998423471481059"><img src="../../previews/nano-banana-damaged-vintage-photo-restoration-upscale.jpg" width="360"></a>
-
-用JSON把任务、正向提示、负向提示和参数分开，正向提示开头先锁定身份、比例和构图。负向词禁止改风格、塑料皮肤和过度锐化，较低的降噪强度让结果忠实于原图。
-
-Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2048998423471481059) · 297 赞，统计于 2026-10-28
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`upscale`](tags.md#tag-upscale) [`json-prompt`](tags.md#tag-json-prompt) [`vintage-photo`](tags.md#tag-vintage-photo) [`negative-prompt`](tags.md#tag-negative-prompt)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{ "task": "image_restoration_upscale", "positive_prompt":
-"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
-"negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
-{ "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
-"upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }
-```
-
-</details>
-
 <a id="gpt-image-claymation-social-profile-screen"></a>
 ### 粘土定格动画风格的社交主页界面
 
@@ -120,95 +131,6 @@ GPT Image 2 · 上传图改图 · 出处: [@miratechtool on X](https://x.com/mir
 
 ```text
 Recreate the scene as a cozy claymation-style world made from soft modeling clay. Every object should have handmade textures, rounded shapes, fingerprints, and soft lighting like a stop-motion movie. Use warm pastel colors and a cute cinematic atmosphere.
-```
-
-</details>
-
-<a id="nano-banana-cozy-portrait-cartoon-cat-overlay"></a>
-### 叠加卡通猫涂鸦的温馨人像
-
-<a href="https://x.com/Just_sharon7/status/2029006238101680432"><img src="../../previews/nano-banana-cozy-portrait-cartoon-cat-overlay.jpg" width="360"></a>
-
-用结构化 JSON 把人物、道具、环境、插画效果和渲染分开描述。真实质感与光滑矢量卡通叠加、白色涂鸦轮廓形成对比。
-
-Nano Banana 2 · 上传图改图 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2029006238101680432) · 246 赞，统计于 2026-10-28
-
-[`cartoon-overlay`](tags.md#tag-cartoon-overlay) [`mixed-media`](tags.md#tag-mixed-media) [`cozy`](tags.md#tag-cozy) [`json-prompt`](tags.md#tag-json-prompt) [`cat`](tags.md#tag-cat)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-  "title": "Whimsical Cozy Portrait",
-  "input_image": "[UPLOAD YOUR IMAGE]",
-  "description": "Transform the uploaded image into a 64K DSLR-quality ultra-hyperrealistic cozy, whimsical mixed-media portrait combining realistic photography with playful cartoon illustrations.",
-  "subject": {
-    "person": {
-      "appearance": {
-        "hair": "blonde, loosely tied with soft strands framing the face",
-        "eyes": "light green",
-        "makeup": "natural",
-        "top": "dark grey layered over black long-sleeve shirt",
-        "expression": "resting cheek gently on one hand, dreamy and slightly tired",
-        "accessories": [
-          "black-and-pink cat ears",
-          "small cute hair clip"
-        ]
-      },
-      "pose": "sitting at a wooden table, holding a white ceramic mug in one hand"
-    },
-    "animated_elements": [
-      {
-        "type": "cartoon_cat",
-        "color": "bright orange",
-        "expression": "excited, curious",
-        "action": "climbing up her arm",
-        "features": "exaggerated big eyes, expressive paws"
-      },
-      {
-        "type": "cartoon_tail",
-        "color": "grey",
-        "position": "right side, partially out of frame"
-      }
-    ]
-  },
-  "props": {
-    "mug": {
-      "color": "white",
-      "illustration": "cute cartoon face with big expressive eyes and small mustache",
-      "drink": "pink foam bubbles rising from the top"
-    },
-    "dessert": {
-      "type": "chocolate cake",
-      "toppings": ["whipped cream", "sliced strawberries", "peach slice"]
-    }
-  },
-  "environment": {
-    "room": {
-      "walls": "beige textured",
-      "lighting": "soft daylight streaming through window with sheer white curtains",
-      "decor": "vintage framed photographs in casual gallery arrangement",
-      "atmosphere": "warm, cozy, intimate"
-    }
-  },
-  "illustration_effects": {
-    "style": [
-      "hand-drawn cartoon overlays",
-      "white doodle-style accents: bubbles, playful lines, sparkles, hand-drawn crown",
-      "soft white illustrated outlines around woman and objects"
-    ]
-  },
-  "composition": {
-    "aspect_ratio": ["1:1", "4:5 vertical"],
-    "depth_of_field": "shallow",
-    "mood": ["cozy", "cute", "whimsical", "soft", "playful", "warm"]
-  },
-  "rendering": {
-    "technique": ["Octane render", "Ultra-hyperrealistic", "Unreal Engine 5"],
-    "details": "ultra-detailed, high-resolution, soft natural lighting, warm tones, Instagram-worthy",
-    "texture_contrast": "realistic textures (skin, fabric, wood, wall) vs smooth vector-style illustrations"
-  }
-}
 ```
 
 </details>
@@ -244,21 +166,21 @@ two people making heart shape, one real one painted, fingertip connection point,
 
 </details>
 
-<a id="nano-banana-old-photo-restore-dslr-portrait"></a>
-### 开裂老照片修复为彩色人像
+<a id="gpt-image-minimi-tiny-figures-photo-world"></a>
+### 人像照片周围的迷你3D小人互动
 
-<a href="https://x.com/doctorwasif/status/2030803471041954150"><img src="../../previews/nano-banana-old-photo-restore-dslr-portrait.jpg" width="360"></a>
+<a href="https://x.com/Zyrellix/status/2055486410749309438"><img src="../../previews/gpt-image-minimi-tiny-figures-photo-world.jpg" width="360"></a>
 
-以佳能 EOS R6 II 作为画质基准并要求高级放大效果，同时明确要求保留原有面部特征，让修复结果忠于原照片。
+提示词列出小人的具体互动，如坐在肩上和包上、挥手、模仿姿势，每个小人都有明确动作。同时要求保留原照片并带真实阴影和景深，让小人自然融入而不是重绘照片。
 
-Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2030803471041954150) · 206 赞，统计于 2026-10-28
+GPT Image 2 · 上传图改图 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/status/2055486410749309438) · 212 赞，统计于 2026-10-28
 
-[`photo-restoration`](tags.md#tag-photo-restoration) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`upscale`](tags.md#tag-upscale) [`colorize`](tags.md#tag-colorize)
+[`minimi`](tags.md#tag-minimi) [`miniature`](tags.md#tag-miniature) [`photo-to-3d`](tags.md#tag-photo-to-3d) [`portrait`](tags.md#tag-portrait) [`chibi`](tags.md#tag-chibi)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......"
+Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”
 ```
 
 </details>
@@ -381,52 +303,6 @@ soft pastel accents with realistic base tones
 high-detail, polished 3D chibi look
 cute, modern Korean-inspired aesthetic
 Ensure the final result feels cohesive, light, and aesthetically pleasing without overwhelming the original image.
-```
-
-</details>
-
-<a id="nano-banana-old-photo-restoration-dslr-portrait"></a>
-### 破损老照片修复为单反质感人像
-
-<a href="https://x.com/doctorwasif/status/2039935624799760434"><img src="../../previews/nano-banana-old-photo-restoration-dslr-portrait.jpg" width="360"></a>
-
-指定具体相机档次（Canon EOS R6 II）来锁定目标影像质感，并明确要求保留准确的面部特征以保证修复忠实原图。简短的 JSON 结构带有质量和风格字段，方便重复使用。
-
-Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2039935624799760434) · 157 赞，统计于 2026-10-29
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`old-photo`](tags.md#tag-old-photo) [`dslr`](tags.md#tag-dslr) [`portrait`](tags.md#tag-portrait) [`json-prompt`](tags.md#tag-json-prompt)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-  "prompt": "Restore old photo into natural DSLR-quality portrait (Canon EOS R6 II level), high detail, accurate colors, sharp clarity, preserve exact facial features",
-  "quality": "high",
-  "style": "photorealistic"
-}
-```
-
-</details>
-
-<a id="nano-banana-damaged-photo-restoration-upscale"></a>
-### 受损的老旧合影修复为清晰的单反画质
-
-<a href="https://x.com/doctorwasif/status/2034638781857288239"><img src="../../previews/nano-banana-damaged-photo-restoration-upscale.jpg" width="360"></a>
-
-用 JSON 结构的提示词，开头明确要求保留人物身份、五官结构和构图，再加入 Arri Alexa、HDR 等摄影画质描述。较长的负面提示词阻止风格改变、塑料皮肤和面部变形，较低的重绘强度则保住原有的面孔。
-
-Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2034638781857288239) · 152 赞，统计于 2026-10-29
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`upscale`](tags.md#tag-upscale) [`json-prompt`](tags.md#tag-json-prompt) [`negative-prompt`](tags.md#tag-negative-prompt) [`identity-preservation`](tags.md#tag-identity-preservation)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{ "task": "image_restoration_upscale", "positive_prompt":
-"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
-"negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
-{ "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
-"upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }
 ```
 
 </details>
@@ -563,35 +439,6 @@ Negative Prompt: helmet, sitting on bike, low quality, blurry face, cartoon, CGI
 
 </details>
 
-<a id="gpt-image-storyboard-panels-to-photographic-frames"></a>
-### 屋顶追逐分镜稿转为写实摄影画面
-
-<a href="https://x.com/umesh_ai/status/2110761775067230600"><img src="../../previews/gpt-image-storyboard-panels-to-photographic-frames.jpg" width="360"></a>
-
-一句简短指令把六格铅笔分镜转成写实摄影，同时锁定构图、主体位置和机位，镜头设计在风格转换后依然保留。把两张分镜板并排放置，前后对比一目了然。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@umesh_ai on X](https://x.com/umesh_ai/status/2110761775067230600) · 68 赞，统计于 2026-10-28
-
-[`storyboard`](tags.md#tag-storyboard) [`pencil-sketch`](tags.md#tag-pencil-sketch) [`photorealistic`](tags.md#tag-photorealistic) [`film-previs`](tags.md#tag-film-previs) [`layout-preservation`](tags.md#tag-layout-preservation)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Big news!
-
-Krea 3 is promising Nano Banana Pro/GPT Image 2.5  quality, 5x faster.
-
-Imagine turning storyboard images into photographic frames you could put in front of a director.
-
-The prompt I’d use: “Make every panel photographic. Preserve the composition, subject placement and camera angle.”
-
-Then put the two boards side by side.
-
-Some ideas become much harder to leave in a folder once you can see what they could look like.
-```
-
-</details>
-
 <a id="gpt-image-comic-book-walk-red-hoodie-portrait"></a>
 ### 女子走过巨大摊开的漫画书
 
@@ -617,11 +464,11 @@ Negative prompt: changed identity, distorted face, deformed hands or feet, bad a
 </details>
 
 <a id="gpt-image-istanbul-alpine-castle-sunset-loop"></a>
-### 伊斯坦布尔清真寺与阿尔卑斯城堡日落循环
+### 伊斯坦布尔清真寺海滨日落旅行海报
 
 <a href="https://x.com/KrishnaBio1/status/2097716825668702388"><img src="../../previews/gpt-image-istanbul-alpine-castle-sunset-loop.jpg" width="360"></a>
 
-提示词按场景、光线、动画、风格、镜头分段,再配一长串负面词,让两张参考图融合成一个可信的地点。动画只允许环境微动,镜头锁定,并要求第16帧接回第1帧,形成无缝循环。
+提示词把场景、光线、风格和镜头分段写清，再配一长串负面词，把参考图变成一幅写实的黄金时刻海滨景色，前景是开满鲜花的咖啡露台。这张输出只保留了参考图里伊斯坦布尔的部分，只生成了一张静帧，而且提示词禁止文字，画面上却加了海报标题。
 
 GPT Image 2.5 · 上传图改图 · 出处: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2097716825668702388) · 43 赞，统计于 2026-10-29
 
@@ -737,11 +584,11 @@ Use the original face from the reference photo. Background same as the photo. Wa
 </details>
 
 <a id="gpt-image-billboard-winter-evening"></a>
-### 同一块广告牌改成下雪的冬夜
+### 把洗发水广告牌改成下雪的冬夜
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="../../previews/gpt-image-billboard-winter-evening.jpg" width="360"></a>
 
-把上一步的成品作为输入，只提一个改动。每次只改一处，才看得出是哪一步起了作用。预览图为 Sunburst 版本。
+在上一张图上只追加一句短指令，只改季节和时间，模型会把积雪和灯光一起加到广告画面和街景里。每次追问只改一处，就能看出是哪一步起了作用。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
 
@@ -846,6 +693,25 @@ Using the provided reference image, transform the ordinary phone snapshot into a
 
 </details>
 
+<a id="gpt-image-geometry-locked-orange-spiral-render"></a>
+### 依据几何参考图渲染的橙色螺旋雕塑棚拍图
+
+<a href="https://x.com/higgsfield/status/2097514650518831462"><img src="../../previews/gpt-image-geometry-locked-orange-spiral-render.jpg" width="360"></a>
+
+提示词逐项列出要保持不变的几何属性（轮廓、圈数、旋向、螺距、姿态、机位），只允许修改表面和光照。再配合十六进制色值、明确的光源方向和结尾的禁止项清单，让渲染结果干净可控。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@higgsfield on X](https://x.com/higgsfield/status/2097514650518831462) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`product-render`](tags.md#tag-product-render) [`geometry-guide`](tags.md#tag-geometry-guide) [`studio-lighting`](tags.md#tag-studio-lighting) [`3d-sculpture`](tags.md#tag-3d-sculpture) [`constraint-list`](tags.md#tag-constraint-list)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.
+```
+
+</details>
+
 <a id="gpt-image-japanese-film-garden-color-grade"></a>
 ### 春日庭园的日系胶片调色
 
@@ -884,31 +750,6 @@ Replace the spreadsheet with an automation workflow diagram. Do not change the d
 
 </details>
 
-<a id="gpt-image-lock-screen-wallpaper-ui-hijack"></a>
-### 人物玩转时钟与图标的锁屏壁纸
-
-<a href="https://x.com/sakisuta_/status/2099786676751225192"><img src="../../previews/gpt-image-lock-screen-wallpaper-ui-hijack.jpg" width="360"></a>
-
-提示词以参考照片的人物为主体，让人物与时间、日期、手电筒和相机图标、通知所在的留白区域互动。同时明确禁止画面中出现文字和界面元素，设为真实锁屏后效果才完整。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@sakisuta_ on X](https://x.com/sakisuta_/status/2099786676751225192)
-
-[`iphone`](tags.md#tag-iphone) [`lock-screen`](tags.md#tag-lock-screen) [`wallpaper`](tags.md#tag-wallpaper) [`reference-photo`](tags.md#tag-reference-photo) [`ui-interaction`](tags.md#tag-ui-interaction)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-参照画像の人物を主題に、iPhoneのロック画面用壁紙を作成してください。
-
-人物がロック画面を乗っ取って、好き勝手に遊んでいるようにしてください。
-iPhoneのロック画面のUI（時刻、日付、ライト・写真アイコン、通知）を大胆に活かした演出を加えること。
-
-ロック画面に設定すると演出が完成するようにしてください。
-文字やiPhoneのUI要素そのものは画像内に入れないでください。
-```
-
-</details>
-
 <a id="gpt-image-longjing-tea-infographic-upscale"></a>
 ### 龙井茶信息图清晰化重绘
 
@@ -939,11 +780,11 @@ Style: Elegant Chinese tea brochure design, cream-and-sage palette, refined mini
 </details>
 
 <a id="gpt-image-outfit-swap-keep-identity"></a>
-### 用三件参考服装换装，人物不变
+### 用参考服装为人物换装并保持身份不变
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"><img src="../../previews/gpt-image-outfit-swap-keep-identity.jpg" width="360"></a>
 
-先列出人物身上所有必须不变的东西，只放开服装，再要求光影匹配原图。要让产品保持可辨认也可以照这个写。预览图为 Sunburst 版本。
+先列出人物必须保持不变的全部特征，再只允许更换服装。要求光线、阴影和色温与原图一致，新衣服就不会像贴上去的。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
 
@@ -960,11 +801,11 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
 
 <a id="gpt-image-person-into-campsite-scene"></a>
-### 把人物放进黄昏营地逃跑的场景
+### 让人物在黄昏营地逃离棕熊
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"><img src="../../previews/gpt-image-person-into-campsite-scene.jpg" width="360"></a>
 
-写清姿态、视线、服装、地点和时间，并反复要求像真实照片，不要电影海报感。预览图为 Sunburst 版本。
+逐项写明姿势、视线、破损衣着、地点和黄昏光线，并反复要求不加修饰的真实照片、不要电影感调色。这样动作场面看起来像真实抓拍，而不是电影海报。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
 
@@ -1084,11 +925,11 @@ Using the provided reference image, enhance and restore it into an ultra-premium
 </details>
 
 <a id="gpt-image-place-dog-into-scene"></a>
-### 把一张照片里的狗放进另一张照片
+### 把一张照片里的狗移到另一张照片中
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#combine-references"><img src="../../previews/gpt-image-place-dog-into-scene.jpg" width="360"></a>
 
-按编号指明图片，写清移动什么、放到哪里、什么不变。预览图为 Sunburst 版本。
+提示词按编号指代图片，说明移动什么、放到哪里，并要求其余内容保持不变。要求光线和构图一致，能让加入的狗自然融入场景。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
 
@@ -1104,31 +945,12 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp)
 
-<a id="gpt-image-pro-instagram-pasta-photo-enhance"></a>
-### 手机拍摄的意面照片优化成 Instagram 水准
-
-<a href="https://x.com/dezainaz_ceo/status/2047172512551977162"><img src="../../previews/gpt-image-pro-instagram-pasta-photo-enhance.jpg" width="360"></a>
-
-一句话同时设定摄影师和设计师两个角色，让模型一并处理光线调色和版面润色。适用于随手拍的手机照片，具体风格交给模型自行决定。
-
-GPT Image 2 · 上传图改图 · 出处: [@dezainaz_ceo on X](https://x.com/dezainaz_ceo/status/2047172512551977162) · 发现于 [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-[`photo-enhance`](tags.md#tag-photo-enhance) [`food`](tags.md#tag-food) [`instagram`](tags.md#tag-instagram) [`iphone-photo`](tags.md#tag-iphone-photo) [`retouch`](tags.md#tag-retouch)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Enhance this iPhone photo with ChatGPT so it looks like a professional photographer and designer worked on it.
-```
-
-</details>
-
 <a id="gpt-image-remove-object-from-hand"></a>
-### 去掉男人手里的花
+### 移除男子手中的花
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"><img src="../../previews/gpt-image-remove-object-from-hand.jpg" width="360"></a>
 
-只点名要去掉的那一个物体，并要求其他都不变，不用蒙版也能把改动限制在局部。预览图为 Sunburst 版本。
+只点名要移除的一个物体，并禁止改动其他内容，模型无需蒙版就能抹去花朵，同时保留面部、衣着和涂鸦墙不变。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
 
@@ -1188,11 +1010,11 @@ Do not add new elements or text.
 输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp)
 
 <a id="gpt-image-swap-kitchen-chairs"></a>
-### 厨房照片里只换椅子
+### 只替换厨房照片中的椅子
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"><img src="../../previews/gpt-image-swap-kitchen-chairs.jpg" width="360"></a>
 
-用大写的 ONLY 限定唯一要换的东西，并列出要保留的机位、光线、地面阴影和周围物品。预览图为 Sunburst 版本。
+用大写的ONLY把修改限定在椅子上，并列出需要保留的机位、光线、地面阴影和周围物品，让房间其余部分保持原样。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
 
@@ -1212,11 +1034,11 @@ Photorealistic contact shadows and fabric texture.
 输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp)
 
 <a id="gpt-image-translate-infographic-spanish"></a>
-### 把信息图翻译成西班牙语，版式不动
+### 将信息图翻译成西班牙语且不改动版式
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"><img src="../../previews/gpt-image-translate-infographic-spanish.jpg" width="360"></a>
 
-在咖啡机信息图上做的一句话编辑。出图后检查有没有漏翻的词。预览图为 Sunburst 版本。
+一句指令指定目标语言，另一句锁定图像的其他所有部分，模型因此只改写文字，版式、图标和编号保持原样。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
 

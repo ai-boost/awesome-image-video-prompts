@@ -1,7 +1,7 @@
 id: gpt-image-remove-object-from-hand
 title:
   en: Remove a flower from a man's hand
-  zh: 去掉男人手里的花
+  zh: 移除男子手中的花
 model: GPT Image 2.5
 mode: image-edit
 category: edit
@@ -17,7 +17,7 @@ source:
 inputs:
 - https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp
 notes:
-  en: 'Names the one object to remove and says nothing else may change, which keeps the edit local without a mask. Preview: the Sunburst variant.'
-  zh: 只点名要去掉的那一个物体，并要求其他都不变，不用蒙版也能把改动限制在局部。预览图为 Sunburst 版本。
+  en: Names the single object to remove and forbids any other change, so the model erases the flower and leaves the face, clothing and graffiti wall untouched without a mask.
+  zh: 只点名要移除的一个物体，并禁止改动其他内容，模型无需蒙版就能抹去花朵，同时保留面部、衣着和涂鸦墙不变。
 prompt: |
   Remove the flower from man's hand. Do not change anything else.

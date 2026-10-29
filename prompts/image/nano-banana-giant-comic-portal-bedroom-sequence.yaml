@@ -1,10 +1,10 @@
 id: nano-banana-giant-comic-portal-bedroom-sequence
 title:
-  en: Man Kneeling Before Giant Comic Portal
-  zh: 男子跪看巨型漫画书中的能量传送门
+  en: Man Kneeling Before Glowing Giant Comic Book Portal
+  zh: 男子跪看发光巨型漫画书传送门
 model: Nano Banana 2
 mode: text-to-image
-category: comic
+category: realism
 tags:
 - sequential-frames
 - portal
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-29'
   posted: '2026-03-18'
 notes:
-  en: The prompt describes a two frame before and after sequence, then repeats the same outfit and smile so the character stays consistent. Naming the book title, the cyan portal light and the cast shadows ties the fantasy event to a believable room.
-  zh: 提示词把前后两帧的因果顺序写清楚，并重复同一套服装和笑容来稳住人物一致性。书名、青色传送门光源和投下的长影子，让奇幻事件落在可信的房间里。
+  en: A titled floor standing comic book with a cyan portal through its right page grounds the fantasy in a real bedroom. The portal light acts as the main light source and casts long shadows across the wooden floor.
+  zh: 一本有标题的落地巨型漫画书，右页透出青色传送门，让奇幻场景落在真实卧室里。传送门的光是画面主光源，在木地板上投下长长的影子。
 prompt: |
   A hyper-realistic photograph captures a sequential moment across two side-by-side frames within a vintage-decorated bedroom.
   ​In the left frame, a young man in a red hoodie and jeans is kneeling on a wooden floor, his hand outstretched with a look of pure astonishment. He is gazing at a massive, floor-standing comic book titled 'ASCENSION #1: THE RIFT' that has come to life. The pages are actively illuminated, and an electric blue energy portal is pulsing violently through the right-hand page.

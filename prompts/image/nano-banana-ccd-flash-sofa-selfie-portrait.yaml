@@ -1,7 +1,7 @@
 id: nano-banana-ccd-flash-sofa-selfie-portrait
 title:
-  en: Over the shoulder flash selfie on boucle sofa
-  zh: 米色毛圈沙发上的肩后闪光灯自拍
+  en: Over the shoulder CCD flash selfie on boucle sofa
+  zh: 米色圈圈绒沙发上的回眸CCD闪光自拍
 model: Nano Banana 2.1
 mode: image-edit
 category: portrait
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-27'
   posted: '2026-10-07'
 notes:
-  en: The prompt splits the brief into labeled blocks for pose, hair, expression, outfit, background and camera, and a tight crop that cuts off half the face keeps the framing intimate. A long negative list plus identity preservation from the attached photo keeps the face, neck and hands believable.
-  zh: 提示词用姿势、发型、表情、服装、背景、相机等分段标签组织，并用极紧的裁切只保留半张脸，画面更私密。末尾的长负面清单加上对参考图人物身份的保持，让脸、脖子和手更自然可信。
+  en: The prompt splits the brief into labeled blocks for pose, hair, expression, outfit, background and camera, and an old CCD digicam with direct flash gives the candid snapshot look. A long negative list against polished hair, plastic skin and twisted necks keeps the messy strands, skin texture and pose believable.
+  zh: 提示词把要求拆成姿势、发型、表情、服装、背景和相机等标注段落，并指定老式CCD相机直闪，营造随手抓拍的质感。长长的负面词列表排除了过于整齐的头发、塑料感皮肤和扭曲的脖子，让凌乱发丝、皮肤纹理和姿态都显得真实可信。
 prompt: |
   Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed pores, rosy dewy skin, Douyin glass-skin, pink gloss lips, aegyosal, blush, grey contacts, wispy lashes, brushed brows, thin liner. Preserve her recognizable facial identity and natural proportions with a playful yet sophisticated Chryzleen-inspired indoor fashion aesthetic.
 

@@ -1,7 +1,7 @@
 id: gpt-image-iced-coffee-glass-studio-product-photo
 title:
-  en: Iced coffee glass on soft beige studio backdrop
-  zh: 柔和米色影棚背景中的冰咖啡玻璃杯
+  en: Iced coffee with milk swirls in frosted glass
+  zh: 挂满水珠的玻璃杯中奶咖交融的冰咖啡
 model: GPT Image 2
 mode: text-to-image
 category: product
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-04-28'
 notes:
-  en: The prompt names each visual layer of the drink, such as the dark coffee base, milk swirls, clear ice and condensation droplets. It adds soft studio lighting and a DSLR macro look to push the result toward premium beverage advertising.
-  zh: 提示词逐层写明饮品的视觉要素，包括深色咖啡底、奶泡漩涡、透明冰块和冷凝水珠。再配合柔和影棚光与单反微距质感，把画面推向高级饮品广告风格。
+  en: 'The prompt describes each layer of the drink in turn: the dark coffee base, milk swirls blending into a gradient, clear refracting ice and condensation droplets. Soft studio lighting and DSLR macro terms give it the clean look of a beverage advertisement.'
+  zh: 提示词逐层描述饮品：深色咖啡底、渐变交融的奶纹、折射光线的透明冰块和杯壁水珠。柔和棚拍光线加上单反微距用语，让画面呈现干净的饮品广告质感。
 prompt: |
   Made with GPT image 2 + Hailuo 2.3 on
   @Hailuo_AI

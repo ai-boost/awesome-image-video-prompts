@@ -1,7 +1,7 @@
 id: gpt-image-forest-hero-character-sheet
 title:
-  en: Watercolor hero for a children's book
-  zh: 儿童绘本水彩小英雄定妆图
+  en: Watercolor forest hero for a children's book
+  zh: 儿童绘本水彩森林小英雄
 model: GPT Image 2.5
 mode: text-to-image
 category: character
@@ -15,8 +15,8 @@ source:
   credit: OpenAI
   captured: '2026-10-28'
 notes:
-  en: 'Character, theme, style and constraints are separate labeled blocks, and the plain background shows the character clearly for reuse in later pages. Preview: the Sunburst variant.'
-  zh: 人物、主题、画风和限制分块标注，纯色背景把角色展示清楚，方便后面每页复用。预览图为 Sunburst 版本。
+  en: Character, theme, style and constraints sit in separate labeled blocks, so the outfit, the animal companions and the picture book proportions all come through. The constraints block asks for an original character and no text, which keeps the result clean enough to reuse across pages.
+  zh: 提示词把角色、主题、风格和约束分成带标签的段落，服装、小动物伙伴和绘本比例因此都能准确呈现。约束段要求原创角色且不含文字，画面干净，便于在后续页面中重复使用。
 prompt: |
   Create a children’s book illustration introducing a main character.
 

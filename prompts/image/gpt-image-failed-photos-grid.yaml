@@ -1,7 +1,7 @@
 id: gpt-image-failed-photos-grid
 title:
-  en: Nine failed photos of any character
-  zh: 任意角色的九张失败照片
+  en: Nine accidental phone snapshots of any character
+  zh: 任意角色的九宫格失败抓拍照
 model: GPT Image 2.5
 mode: text-to-image
 category: collage
@@ -17,7 +17,7 @@ source:
   captured: '2026-10-27'
   posted: '2026-09-13'
 notes:
-  en: 'Seven words. The author''s point: fewer restrictions give more authentic-looking mistakes.'
-  zh: 只有七个词。作者的心得：限制越少，失败照越像真的。
+  en: Asking for failed photos in a 3x3 grid makes the model invent motion blur, finger occlusion, awkward crops and mid blink faces, so the set reads like a real camera roll. Swap the character placeholder to reuse the template.
+  zh: 要求生成九宫格失败照片，模型会主动加入运动模糊、手指遮挡、歪斜构图和抓拍瞬间的表情，整组看起来像真实相册。替换角色占位符即可复用模板。
 prompt: |
   Vertical 3×3 failed photos × {Character}

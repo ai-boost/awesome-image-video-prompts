@@ -1,7 +1,7 @@
 id: gpt-image-isometric-terrain-slab-world-diorama-poster
 title:
-  en: Istanbul city diorama carved as floating terrain slab
-  zh: 悬浮地块上的伊斯坦布尔城市微缩景观海报
+  en: Anime world template carved as floating terrain slab diorama
+  zh: 动漫世界模板生成的悬浮地形切块微缩沙盘
 model: GPT Image 2
 mode: text-to-image
 category: map
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-08-24'
 notes:
-  en: The prompt makes the real map outline the physical base, a terrain slab with broken rock sides and soil layers, then adds lore accurate landmarks and tiny museum style labels. A fixed 4:5 layout keeps the upper third empty for tracked uppercase title typography, and soft warm studio light gives a collectible miniature look.
-  zh: 提示词让真实地图轮廓成为实体地块底座，带断裂岩壁和土层，再按设定摆放地标与博物馆式小标签。固定 4:5 构图并留出上方三分之一放宽字距大写标题，配合柔和暖色影棚光营造收藏级微缩质感。
+  en: Fill in the [ANIME] slot and the prompt cuts that world's canonical map outline, or a real city's outline for real settings, out of the earth as one slab with broken rock sides and soil layers. A fixed 4:5 layout leaves the upper third empty for tracked uppercase typography, and soft warm studio light makes it look like a collectible miniature.
+  zh: 填入 [ANIME] 占位后，提示词把该作品的官方地图轮廓切成一整块带断裂岩壁和土层的地形；现实背景的作品则改用真实城市轮廓。固定的 4:5 构图把上方三分之一留给疏排的大写标题，柔和的暖色棚灯让画面像一件收藏级微缩模型。
 prompt: |
   Ultra-detailed photorealistic isometric miniature diorama of the world from [ANIME], presented as a premium collectible-scale landscape sculpture floating above a clean warm off-white studio background with a subtle natural shadow underneath.
 

@@ -1,10 +1,10 @@
 id: nano-banana-iphone-closeup-beanie-sunglasses-puffer
 title:
-  en: Smartphone closeup of woman in beanie and sunglasses
-  zh: 戴毛线帽和墨镜的女生手机近景照
+  en: iPhone closeup in black beanie, sunglasses and white puffer
+  zh: 黑色毛线帽墨镜白色羽绒服的手机近拍
 model: Nano Banana 2.1
 mode: text-to-image
-category: portrait
+category: realism
 tags:
 - smartphone-photo
 - close-up
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-10-07'
 notes:
-  en: The prompt names a real phone camera spec (24 mm equivalent, f/1.8) and a mild smartphone blur to lock the look. Explicit placement rules for the beanie, collar and earphone cable keep the face visible, and the lighting is described as diffused overhead LED with natural skin texture.
-  zh: 提示词写明真实手机镜头参数（24 毫米等效焦距、f/1.8）和轻微的手机式虚化，锁定手机直出的质感。对毛线帽、领口和耳机线的位置逐一限定，确保脸部不被遮挡，光线则描述为柔和的顶部 LED 漫射光，并保留自然肤质。
+  en: Naming the real phone lens spec of 24 mm and f/1.8, plus a mild smartphone blur, makes the shot read as a believable phone photo. Diffused overhead LED light with specular highlights on the lenses and nylon shell gives realistic material texture.
+  zh: 写明真实手机镜头参数24毫米和f/1.8，再加上轻微的手机虚化，让画面像一张可信的手机照片。顶部柔和的LED漫射光加上镜片和尼龙面料上的高光，让材质质感真实。
 prompt: |
   straight-on eye-level close-up photograph of a young woman, face clearly visible, captured on a recent iPhone main camera at its native 24 mm equivalent, f/1.8, with natural perspective and no wide-angle distortion. Focus is locked on her face and accessories; the background falls into a mild, realistic smartphone blur.
   She wears a black ribbed knit beanie sitting normally on her head, not covering her eyes or face, large reflective black sunglasses, and white wired Apple earphones with the cable running down in front of her jacket. Her white puffer jacket is worn open at the collar, not pulled up, so her jaw, mouth, and lower face remain fully visible beneath the sunglasses. A small black embroidered Nike swoosh sits on the left shoulder. The quilted synthetic fabric shows soft volume and fine texture.

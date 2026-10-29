@@ -1,47 +1,27 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 44 entries
+[Back to the list](../../README.md) · All 45 entries
 
-<a id="gpt-image-pencil-essay-coffee-stain"></a>
-### Pencil handwritten essay on lined paper with coffee stain
+<a id="gpt-image-night-tokyo-flash-blur-candid-snapshot"></a>
+### Blurred Flash Snapshot on Night Tokyo Sidewalk
 
-<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="../../previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
+<a href="https://x.com/doctorwasif/status/2070011415662842000"><img src="../../previews/gpt-image-night-tokyo-flash-blur-candid-snapshot.jpg" width="360"></a>
 
-The prompt fixes the medium (pencil on 8.5x11 lined paper) and the capture method (phone photo). It asks for stroke variance and one small flaw, a coffee stain in a named corner, which gives the realism.
+Stacks accidental phone camera cues such as flash during motion, handheld shake, directional blur, blown highlights and heavy noise to fake a raw snapshot. The negative prompt blocks studio lighting, sharp focus and identity matching.
 
-GPT Image 2.5 · Text-to-image · Source: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 likes on 2026-10-27
+GPT Image 2 · Text-to-image · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2070011415662842000) · 713 likes on 2026-10-28
 
-[`handwriting`](tags.md#tag-handwriting) [`paper`](tags.md#tag-paper) [`phone-photo`](tags.md#tag-phone-photo) [`texture`](tags.md#tag-texture) [`coffee-stain`](tags.md#tag-coffee-stain)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-🚨 GPT-Image-2.5 Output
-
-I said it to write like einstein it did it without reference < i did not give image or anything   >
-
-left side is AI and right side is real photo from reddit to compare
-
-Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
-```
-
-</details>
-
-<a id="nano-banana-monstera-leaf-hidden-words"></a>
-### Monstera leaf gaps forming hidden words
-
-<a href="https://x.com/fofrAI/status/2107509669514113058"><img src="../../previews/nano-banana-monstera-leaf-hidden-words.jpg" width="360"></a>
-
-The prompt names one real object and asks for the text to emerge organically from its natural features, so the lettering follows the leaf's own cut-outs instead of sitting on top. A simple backdrop keeps the gaps readable as letterforms.
-
-Nano Banana 2.1 · Text-to-image · Source: [@fofrAI on X](https://x.com/fofrAI/status/2107509669514113058) · 549 likes on 2026-10-28
-
-[`text-in-image`](tags.md#tag-text-in-image) [`monstera`](tags.md#tag-monstera) [`nature`](tags.md#tag-nature) [`typography`](tags.md#tag-typography) [`photo`](tags.md#tag-photo)
+[`candid`](tags.md#tag-candid) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`motion-blur`](tags.md#tag-motion-blur) [`night`](tags.md#tag-night) [`flash`](tags.md#tag-flash)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-A photo of a monstera leaf against a simple backdrop, cleverly and organically appearing within the natural gaps of the leaf are the words Nano Banana
+GPT Image 2
+
+{
+  "prompt": "Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman inspired only by general proportions/vibe. Night Tokyo sidewalk beside white ceramic tile wall. Mid-walk, half-profile, turning back in surprise, hand raised toward lens, shy restrained smile, continuing forward, imperfect framing, nearly exiting frame. Flash fired during motion. Strong handheld shake, heavy directional blur, smeared facial details, blurred hand and hair, ghosting, streaked tile wall, deep darkness around. Harsh flash highlights, blown exposure, hard shadows. Raw accidental snapshot, intrusive, playful, fleeting memory. Extremely noisy, heavily blurred, authentic phone-camera look.",
+  "negative_prompt": "identity match, face copy, real person replication, anime, illustration, painting, stylized, studio lighting, beauty lighting, sharp focus, clean face, smooth skin, posed portrait, fashion editorial, cinematic, film still, tripod, professional photography"
+}
 ```
 
 </details>
@@ -94,157 +74,23 @@ Ultra-realistic action photography, extreme fisheye lens, 8mm, worm’s-eye view
 
 </details>
 
-<a id="nano-banana-json-reconstruction"></a>
-### JSON prompt that reconstructs a photo shot for shot
+<a id="gpt-image-tokyo-night-flash-blur-snapshot"></a>
+### Blurry flash snapshot of woman waving on Tokyo street
 
-<a href="https://x.com/ViralOps_/status/2107538470818484305"><img src="../../previews/nano-banana-json-reconstruction.jpg" width="360"></a>
+<a href="https://x.com/MissDelulu9/status/2070345476189336033"><img src="../../previews/gpt-image-tokyo-night-flash-blur-snapshot.jpg" width="360"></a>
 
-Structured as JSON fields (framing, light, colour, negatives). The post compares the same JSON on Nano Banana 2.1 and GPT Image 2.5.
+Describes a flawed phone photo on purpose: flash fired mid motion, handheld shake, ghosting, blown highlights and imperfect framing. The negative prompt rules out studio lighting, sharp focus and polished portrait looks, so the result reads as an accidental snapshot.
 
-Nano Banana 2.1 · Edit · Source: [@ViralOps_ on X](https://x.com/ViralOps_/status/2107538470818484305) · 326 likes on 2026-10-27
+GPT Image 2 · Text-to-image · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2070345476189336033) · 344 likes on 2026-10-29
 
-[`json`](tags.md#tag-json) [`reconstruction`](tags.md#tag-reconstruction) [`comparison`](tags.md#tag-comparison)
+[`candid`](tags.md#tag-candid) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`motion-blur`](tags.md#tag-motion-blur) [`flash`](tags.md#tag-flash) [`night`](tags.md#tag-night)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-{
-  "prompt_type": "detailed_image_reconstruction",
-  "aspect_ratio": "4:5 vertical portrait",
-  "overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
+Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman on a Tokyo sidewalk at night beside a white tiled wall. Mid-walk, half-profile, turning back with a shy smile, hand raised toward the camera. Flash fired during motion, strong handheld shake, heavy motion blur, ghosting, streaked tiles, deep shadows, blown highlights, imperfect framing, raw accidental snapshot, authentic noisy phone-camera aesthetic.
 
-  "subject": {
-    "type": "young adult woman",
-    "age_range": "early to mid 20s",
-    "pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
-    "body_position": "relaxed casual posture with shoulders slightly angled",
-    "expression": "soft neutral expression with a subtle pout, calm and confident",
-    "gaze": "looking directly toward the camera",
-    "styling": "minimal everyday styling, clean and natural"
-  },
-
-  "face": {
-    "shape": "soft oval face with a gently tapered jawline",
-    "forehead": "medium-height forehead partly framed by center-parted hair",
-    "eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
-    "eyes": {
-      "shape": "almond-shaped",
-      "color": "light brown to hazel",
-      "appearance": "bright eyes with visible catchlights",
-      "lashes": "long defined eyelashes with subtle mascara"
-    },
-    "nose": "small straight nose with a softly rounded tip",
-    "lips": {
-      "shape": "full lips with a defined cupid's bow",
-      "color": "natural rosy pink",
-      "finish": "soft satin finish, not glossy"
-    },
-    "skin": {
-      "tone": "light warm-neutral skin tone",
-      "texture": "smooth natural skin with subtle pores and realistic tonal variation",
-      "cheeks": "soft natural pink flush",
-      "finish": "fresh luminous skin without heavy retouching"
-    },
-    "makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
-  },
-
-  "hair": {
-    "color": "rich medium-to-dark chocolate brown",
-    "length": "very long, extending well below the chest",
-    "parting": "clean center part",
-    "texture": "mostly straight with very soft natural bends through the lower lengths",
-    "density": "thick and healthy-looking",
-    "finish": "smooth and glossy but still realistic",
-    "front_sections": "two thin face-framing strands falling naturally along both sides of the face",
-    "details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
-    "movement": "hair hanging naturally over both shoulders and down the front of the shirt"
-  },
-
-  "clothing": {
-    "top": "oversized plain white crew-neck T-shirt",
-    "fit": "loose casual fit",
-    "fabric": "soft slightly wrinkled cotton",
-    "logos": "none",
-    "accessories": "no visible jewelry or prominent accessories"
-  },
-
-  "composition": {
-    "shot_type": "close upper-body portrait",
-    "camera_angle": "slightly above chest level, close to eye level",
-    "camera_distance": "approximately arm's-length smartphone distance",
-    "subject_position": "face slightly right of center with long hair occupying much of the lower frame",
-    "crop": "top of head fully visible, image extending down to around lower torso",
-    "orientation": "vertical",
-    "perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
-  },
-
-  "lighting": {
-    "primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
-    "direction": "sunlight striking the subject from camera-left/front",
-    "face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
-    "hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
-    "shadow_quality": "strong but soft-edged natural indoor shadows",
-    "exposure": "face slightly brightly exposed while the room behind remains much darker",
-    "color_temperature": "warm daylight"
-  },
-
-  "environment": {
-    "location": "casual indoor residential room",
-    "background": "dark gray walls with a white ceiling cornice",
-    "left_background": "open doorway or darker hallway area",
-    "right_background": "dark wall and partially visible household objects",
-    "lower_right": "part of a black tripod or light stand visible",
-    "overall_feel": "ordinary lived-in room rather than a studio",
-    "depth": "background moderately out of focus but still recognizable"
-  },
-
-  "camera": {
-    "capture_device": "modern smartphone camera",
-    "lens_equivalent": "approximately 24-28mm full-frame equivalent",
-    "focus": "sharp focus on face and front hair",
-    "depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
-    "dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
-    "image_character": "casual social-media selfie/photo, not professionally staged"
-  },
-
-  "photorealism_details": [
-    "real individual hair strands",
-    "natural skin pores and micro-texture",
-    "subtle peach fuzz",
-    "realistic eyelash separation",
-    "tiny variations in lip texture",
-    "slight fabric creases in the T-shirt",
-    "small flyaway hairs around the crown",
-    "natural sunlight falloff across the face",
-    "slightly imperfect casual framing",
-    "realistic indoor shadow noise"
-  ],
-
-  "style": {
-    "visual_style": "highly photorealistic casual smartphone portrait",
-    "mood": "soft, youthful, relaxed, sunlit",
-    "processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
-    "avoid": [
-      "cinematic movie lighting",
-      "studio portrait lighting",
-      "overly smooth plastic skin",
-      "CGI appearance",
-      "anime or illustration",
-      "heavy beauty filter",
-      "extreme facial symmetry",
-      "over-sharpened hair",
-      "artificial jet-black hair",
-      "dramatic makeup",
-      "excessive background blur",
-      "professional studio backdrop",
-      "text",
-      "watermarks",
-      "logos"
-    ]
-  },
-
-  "negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
-}
+Negative Prompt: identity match, face copy, real person replication, anime, illustration, painting, CGI, stylized, studio lighting, beauty lighting, sharp focus, smooth skin, posed portrait, fashion editorial, cinematic, DSLR, tripod, professional photography
 ```
 
 </details>
@@ -454,26 +300,58 @@ Ultra-realistic action photography, extreme fisheye lens (8mm), worm’s-eye vie
 
 </details>
 
-<a id="nano-banana-glass-vitrine-food-cross-section"></a>
-### Eggs Benedict Cross Section in Glass Vitrine
+<a id="nano-banana-novel-cover-woman-reading-candlelit-room"></a>
+### Woman Reading Black Velvet Novel by Candlelight
 
-<a href="https://x.com/AllaAisling/status/2032846968154657147"><img src="../../previews/nano-banana-glass-vitrine-food-cross-section.jpg" width="360"></a>
+<a href="https://x.com/JuliaClarky/status/2079417419114942568"><img src="../../previews/nano-banana-novel-cover-woman-reading-candlelit-room.jpg" width="360"></a>
 
-A fill in the blank template that fixes eye level camera, a plain colour backdrop and engraved glass labels with depth, temperature and method. Naming a reference mood and demanding optically real glass keeps the render from looking like fake 3D.
+The exact title and author text are quoted with a font style and placement for each, so the book cover renders legibly. Candlelight, antique furniture and dark flowers set the mood, and a second prompt reuses the same title for a matching scene.
 
-Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2032846968154657147) · 154 likes on 2026-10-29
+Nano Banana 2 · Text-to-image · Source: [@JuliaClarky on X](https://x.com/JuliaClarky/status/2079417419114942568) · 159 likes on 2026-10-28
 
-[`food`](tags.md#tag-food) [`cross-section`](tags.md#tag-cross-section) [`glass`](tags.md#tag-glass) [`template`](tags.md#tag-template) [`labels`](tags.md#tag-labels)
+[`book-cover`](tags.md#tag-book-cover) [`candlelight`](tags.md#tag-candlelight) [`vintage-room`](tags.md#tag-vintage-room) [`typography`](tags.md#tag-typography) [`cinematic`](tags.md#tag-cinematic)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Prompt Studio: Glass Box Cross Section, with Nano Banana 2 in Firefly
+A luxurious cinematic novel cover poster featuring a beautiful young woman sitting in an elegant dimly lit vintage room, holding a premium black hardcover book in her hands while reading it. She has a captivating expression, a shy mysterious smile, and emotional eyes as she gets lost in the story. The book cover in her hands is clearly visible and features a seductive luxury design with black velvet texture, golden embossed details, deep red roses, and elegant typography. The main title on the book cover reads “HIS TEMPTATION” in a bold sophisticated serif font, and directly underneath the title it says “by Elena Voss” in a smaller elegant font. Add candlelight, antique furniture, dark flowers, dramatic shadows, cinematic lighting, high-fashion editorial style, realistic photography, ultra detailed, 8K, professional bestselling novel cover design, mysterious and intense atmosphere.
 
-[DISH] sealed inside a flawless glass vitrine, cross-sectioned dead center,  camera locked at exact eye level, pure [COLOR] studio background.  Every internal layer exposed with surgical precision, ingredients stacked  perfectly, sauces at exact depths, condensation fogging the upper glass.  Labels engraved directly on the glass in fine sans-serif: "[INGREDIENT]  [depth]  [temp]  [prep method]" Thin measurement lines. Architectural layer callouts. No floating text.  Dish name engraved on glass base: "[DISH NAME]" Tagline below in italics: "[TAGLINE]"  Mood: Apple product launch meets Michelin kitchen dissection.  Appetizing, precise, craveable. Glass must look optically real, thickness, refraction, edge glow. No fake 3D render look. 4K, tack sharp.
+Prompt 2 — “His Temptation” Movie Scene at Home A cinematic back-view shot of a young woman sitting comfortably on a luxurious velvet sofa in her elegant living room at night. She is watching the movie adaptation of the novel “His Temptation” on a large LED screen. The camera is positioned behind her, showing her silhouette, long hair, and relaxed posture as she becomes completely absorbed in the story. The LED screen displays a dramatic romantic scene featuring the mysterious male lead and female lead from the novel. The room has warm golden lamps, candles, a large bookshelf, soft cushions, dark flowers, and a cozy luxury interior. A copy of the book “His Temptation” by Elena Voss rests on the coffee table beside her. Emotional cinematic atmosphere, realistic home setting, professional film camera shot, shallow depth of field, ultra realistic, 8K movie still quality. 🖤
+```
 
-Check ALTs for ideas 👇
-@AdobeFirefly
+</details>
+
+<a id="gpt-image-tree-sun-skyline-frozen-lake"></a>
+### Tree silhouette against huge sun over frozen lake
+
+<a href="https://x.com/churvikv/status/2110114825082945740"><img src="../../previews/gpt-image-tree-sun-skyline-frozen-lake.jpg" width="360"></a>
+
+The prompt is split into labeled blocks for sky, sun, tree, city, water, reflection and palette, so each element gets its own placement rules. A long negative list and explicit rules such as buildings never overlapping the tree or sun keep the symmetrical composition intact.
+
+GPT Image 2.5 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2110114825082945740) · 150 likes on 2026-10-28
+
+[`silhouette`](tags.md#tag-silhouette) [`sunset`](tags.md#tag-sunset) [`skyline`](tags.md#tag-skyline) [`reflection`](tags.md#tag-reflection) [`panoramic`](tags.md#tag-panoramic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic silhouette sunset composite, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
+
+SKY: the upper half is a furnace of amber, apricot and burnt gold, deepest at the horizon, cooling to smoky blue-grey at the very top. Long streaky cirrus clouds sweep diagonally across it, undersides lit gold, edges trailing thin warm wisps.
+
+SUN: one huge perfectly round pale white-hot sun disc sits exactly at the centre of the frame just above the treeline, its rim glowing and bleeding a soft warm halo into the surrounding orange.
+
+TREE: dead centre, in front of the sun, a single massive spreading broadleaf tree in pure black silhouette — a thick trunk flaring at the base into a rounded knoll, and a vast dense canopy of fine branch tracery and leaf clusters spreading wide and symmetrical, its edges softly dissolving into the glow.
+
+CITY: flanking the tree, a dense skyline of black skyscraper silhouettes stands along a low ridge of rooftops. Left, a tall stepped tower with twin thin antennae, ringed by shorter blocks. Right, three dark high-rises of graduated height, one carrying a slender spire. The buildings never overlap the tree and never cross the sun.
+
+WATER: the entire lower third is a frozen lake surface, not smooth water — a turbulent marbled expanse of glacial ice and flowed stone, banded in chalky white, sea-green, slate grey and warm tan in long swirling veins.
+
+REFLECTION: sky, sun, tree and skyline all mirror downward into that marbled surface, broken and stretched by the ice grain. The reflected sun lies as a broad soft gold field beneath the trunk, the reflected tree spreads as a dark root-mass of branching veins below it, and the reflected towers hang as vertical dark bars, all smeared by the swirling white and green stone.
+
+PALETTE: pure black, apricot, amber gold, burnt orange, smoky grey, chalk white, glacier green, tan. Sharp silhouette edges against soft glow, high dynamic range, clean and unmarked.
+
+text, watermark, logo, signature, artist signature, handwritten signature, initials, monogram, date, stamp, seal, lettering of any kind, any words, digits, frame, border, picture frame, mat, bevel, molding, plaque, rectangular outline, painting, illustration, oil painting, impasto, watercolor, colored pencil, airbrush, digital art, cartoon, anime, chibi, flat 2d vector, blurry, soft focus, noisy grain, neon, fluorescent, oversaturated greens, blue midday sky, sunrise pink, purple sky, night, moon, stars, clouds covering the sun, rain, storm, lightning, snow falling, second tree, forest, multiple trees, leaves visible on tree with colour, lit windows on buildings, people, faces, birds, animals, deer, boat, ship, dock, bridge, road, cars, traffic, streetlamps, palm trees, mountains, desert, ocean waves, beach, sun cut off, tree cut off, off-centre tree, asymmetric composition
 ```
 
 </details>
@@ -520,47 +398,6 @@ Composition:
 • River forms a strong S-curve leading from foreground to mid-ground
 • Cloud reflection occupies the lower center, echoing the cloud mass above
 • Church and village serve as secondary focal
-```
-
-</details>
-
-<a id="gpt-image-sailing-ship-glassy-mountain-lake-god-rays"></a>
-### Sailing ship on glassy mountain lake with sun rays
-
-<a href="https://x.com/churvikv/status/2076263875389903041"><img src="../../previews/gpt-image-sailing-ship-glassy-mountain-lake-god-rays.jpg" width="360"></a>
-
-The prompt sets a centered subject, then layers sky, sun behind clouds, flanking peaks and a mirror lake so the reflection repeats every element. Closing style keywords for lighting and resolution keep the render clean and sharp.
-
-GPT Image 2 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2076263875389903041) · 141 likes on 2026-10-29
-
-[`landscape`](tags.md#tag-landscape) [`sailing-ship`](tags.md#tag-sailing-ship) [`mountains`](tags.md#tag-mountains) [`reflection`](tags.md#tag-reflection) [`god-rays`](tags.md#tag-god-rays)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A majestic three-masted sailing ship floats on a perfectly still, glassy lake, centered in a dramatic mountain landscape under a bright, clear sky. The brilliant sun is partially hidden behind voluminous, fluffy white clouds, creating a soft, diffused glow with majestic crepuscular rays (God rays) beaming down. The sky is a vibrant, crystal-clear azure blue. Sharp, snow-capped jagged mountain peaks rise on both sides, adding grandeur to the scene. The water acts as a flawless mirror, perfectly reflecting the white sails of the ship, the bright clouds, and the vivid blue tones of the sky. The atmosphere is serene and uplifting, characterized by smooth gradients, clean lines, and high-definition clarity. Style: Digital fantasy illustration, photorealistic lighting, 8k resolution
-```
-
-</details>
-
-<a id="gpt-image-giant-cat-living-room-chase"></a>
-### Woman running from a giant house cat
-
-<a href="https://x.com/Adnan_Ai2/status/2104888724727468359"><img src="../../previews/gpt-image-giant-cat-living-room-chase.jpg" width="360"></a>
-
-The prompt locks the subject's face, glasses, outfit and proportions across the whole clip. It then states the scale contrast and gives each shot a job: low angle for the cat, reaction close shots for the woman, wide establishing shots. Warm lamp light against cool moonlight adds depth.
-
-GPT Image 2.5 · Edit · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/status/2104888724727468359) · 127 likes on 2026-10-28
-
-[`giant-cat`](tags.md#tag-giant-cat) [`cinematic`](tags.md#tag-cinematic) [`photorealistic`](tags.md#tag-photorealistic) [`face-consistency`](tags.md#tag-face-consistency) [`vertical-9-16`](tags.md#tag-vertical-9-16)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Prompt 2 — Funny Monster Cat Adventure
-Create a long, cinematic, photorealistic video showing a funny but dramatic adventure between a woman and a gigantic house cat. Start with the woman peacefully inside her cozy living room, then reveal an enormous fluffy cat entering the background. The woman notices the giant cat, freezes for a moment in disbelief, and then suddenly runs toward the camera while looking over her shoulder. The giant cat follows behind her with exaggerated but realistic movements, creating a playful giant-monster effect.
-Keep the woman’s face, hairstyle, glasses, outfit, body proportions, and overall appearance consistent from beginning to end. Give her natural frightened and surprised expressions without making them exaggerated or cartoonish. The giant cat should look extremely realistic, with individual strands of fur, detailed ears, long whiskers, realistic paws, natural blinking, subtle breathing, and believable body movement. Make the size difference between the woman and the cat visually impressive.
-Set the entire scene inside a warm, stylish apartment at night. Include a sofa, patterned cushions, a soft blanket, plants, bookshelves, lamps, coffee table, pet accessories, and realistic small decorations. As the chase develops, show cushions moving slightly, the woman running around furniture, and the giant cat carefully following her through the room. Use dynamic tracking shots, a low-angle perspective for the cat, close-up reaction shots of the woman, wide establishing shots, and smooth cinematic camera transitions. Add realistic motion blur, natural hair and clothing movement, soft shadows, warm practical lighting, cool moonlight through the window, atmospheric depth, shallow depth of field, realistic reflections, and premium movie-style cinematography. The final result should feel like a humorous cinematic fantasy scene with realistic visual effects, not an animated cartoon. Ultra-photorealistic, highly detailed, cinematic lighting, professional color grading, realistic physics and movement, 8K quality, vertical 9:16 composition.
 ```
 
 </details>
@@ -619,74 +456,21 @@ Prompt: Photorealistic hero product photography shot on Sony A7III with 85mm f/1
 
 </details>
 
-<a id="gpt-image-giant-fruit-miniature-workers-watercolor-pair"></a>
-### Giant fruit with tiny workers, photo and watercolor
+<a id="nano-banana-upside-down-woman-neon-korean-street"></a>
+### Upside Down Woman Over Neon Rainy Street
 
-<a href="https://x.com/mehwishkiran07/status/2107803591281168600"><img src="../../previews/gpt-image-giant-fruit-miniature-workers-watercolor-pair.jpg" width="360"></a>
+<a href="https://x.com/iamsofiaijaz/status/2041558867897938137"><img src="../../previews/nano-banana-upside-down-woman-neon-korean-street.jpg" width="360"></a>
 
-The prompt fixes the scene by listing worker count, outfits and ladder positions, then adds macro photography and golden hour light terms for realism. A second version in watercolor scrapbook style reuses the same composition and adds serif text at the bottom, giving a matched pair in one image.
+The prompt describes the inverted layout directly: feet on an asphalt ceiling at the top, the street below. It then adds a puddle reflection, mist and neon signs for depth, and closes with lens and aspect ratio cues.
 
-GPT Image 2.5 · Text-to-image · Source: [@mehwishkiran07 on X](https://x.com/mehwishkiran07/status/2107803591281168600) · 91 likes on 2026-10-28
+Nano Banana 2 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2041558867897938137) · 102 likes on 2026-10-28
 
-[`miniature`](tags.md#tag-miniature) [`diorama`](tags.md#tag-diorama) [`macro`](tags.md#tag-macro) [`watercolor`](tags.md#tag-watercolor) [`dual-style`](tags.md#tag-dual-style)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A whimsical miniature fantasy scene featuring a gigantic ripe red strawberry growing in a lush green strawberry field. The strawberry is enormous, perfectly centered, with highly detailed glossy red skin covered in hundreds of tiny yellow seeds and fresh green leaves on top. A short brown stem rises from the center.
-Surrounding the giant strawberry are five tiny miniature farm workers wearing dark navy work clothes, orange safety helmets, and work boots. They are working around the strawberry as if maintaining and harvesting it. Two workers are climbing tall wooden ladders on both sides of the strawberry, carefully working near its surface. Another worker stands halfway up the right ladder, while another works near the bottom using a small gardening tool. The tiny human scale compared with the enormous strawberry creates a magical miniature-world effect.
-The strawberry sits directly on rich dark soil surrounded by tiny green strawberry plants, grass, leaves, and natural ground details. The background is a beautiful softly blurred green agricultural field with warm golden sunlight streaming from above, creating glowing rays, atmospheric haze, creamy bokeh, and a dreamy cinematic mood.
-Ultra-realistic macro photography, photorealistic miniature diorama, highly detailed strawberry texture, realistic tiny workers, intricate wooden ladders, natural soil and vegetation, cinematic depth of field, soft background blur, warm golden-hour lighting, volumetric sun rays, realistic shadows, vibrant natural colors, magical scale contrast, whimsical fantasy realism, premium AI art.
-Then create a second version in a vintage watercolor scrapbook illustration style using the exact same composition and characters. Place the scene on textured warm cream watercolor paper, surrounded by loose watercolor splashes of orange, yellow, green, and earthy tones. Add soft painted foliage and an artistic sunset circle behind the strawberry, with visible watercolor brush strokes, subtle paper grain, handmade imperfections, and an elegant nostalgic storybook aesthetic.
-At the bottom of the watercolor version, add elegant minimalist serif typography:
-“SWEET MOMENTS”
-“LIFE”
-Vertical composition, centered subject, premium editorial scrapbook poster, charming miniature fantasy, highly detailed, cinematic realism blended with delicate watercolor art.
-```
-
-</details>
-
-<a id="nano-banana-supper-club-lobster-roll-tray"></a>
-### Waitress Holding Silver Tray of Lobster Rolls
-
-<a href="https://x.com/oye_samia/status/2054101412976738575"><img src="../../previews/nano-banana-supper-club-lobster-roll-tray.jpg" width="360"></a>
-
-The prompt fixes one focal object, the silver tray, and builds a frontal low angle medium shot around it. A one directional candlelight setup, a named camera and lens, and a ban on plastic or CGI looks push it toward photographic realism.
-
-Nano Banana 2 · Text-to-image · Source: [@oye_samia on X](https://x.com/oye_samia/status/2054101412976738575) · 89 likes on 2026-10-29
-
-[`supper-club`](tags.md#tag-supper-club) [`candlelight`](tags.md#tag-candlelight) [`food-photography`](tags.md#tag-food-photography) [`low-angle`](tags.md#tag-low-angle) [`photorealistic`](tags.md#tag-photorealistic)
+[`surreal`](tags.md#tag-surreal) [`neon`](tags.md#tag-neon) [`rainy-street`](tags.md#tag-rainy-street) [`reflection`](tags.md#tag-reflection) [`cinematic`](tags.md#tag-cinematic)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Hyper-realistic vertical photograph 4:5. Private dining area of an exclusive supper club with dark wooden panels, burgundy velvet curtains, golden candlelight, and a deep anthracite background.
-A stunning woman stands frontally, medium shot from the chest up, slight low angle. She holds with both hands an ornate oval silver tray extended toward the camera. On the tray is a perfect ring of 12 miniature lobster rolls on brioche buns with pink lobster meat. The silver tray is the main focal point of the scene.
-Clothing: Elegant black Adidas Originals Firebird-inspired zip-up cropped jacket with three white stripes and Trefoil logo, worn over a starched white fitted dress shirt with a black silk bow tie, paired with a sleek high-waisted black mini skirt or tailored black trousers, statement AP Royal Oak watch in steel, delicate silver rings and earrings.
-Lighting: Warm, low golden-amber candlelight coming from the right, sculpting her face and creating beautiful highlights on the silver tray. Deep dramatic shadows on the left. Monochrome black with luxurious gold accents.
-Camera: Sony A7R V, 50mm f/1.4 lens, 8K resolution, natural skin texture, natural depth of field with soft organic candle bokeh. No plasticity, no CGI, no AI artifacts.
-```
-
-</details>
-
-<a id="nano-banana-miniature-toy-kingdom-macro-sunrise"></a>
-### Miniature toy kingdom with trains, waterfalls and airship
-
-<a href="https://x.com/kellyyjjones/status/2076163025464348955"><img src="../../previews/nano-banana-miniature-toy-kingdom-macro-sunrise.jpg" width="360"></a>
-
-The prompt lists concrete scene elements (market streets, trains, bridges, waterfalls) and material textures such as plastic, wood, fabric and metal. It then fixes a macro lens, extreme shallow depth of field and golden sunrise volumetric light so the toys read as real. A second paragraph adds a giant human observer for scale.
-
-Nano Banana 2 · Text-to-image · Source: [@kellyyjjones on X](https://x.com/kellyyjjones/status/2076163025464348955) · 82 likes on 2026-10-29
-
-[`miniature`](tags.md#tag-miniature) [`toy-world`](tags.md#tag-toy-world) [`macro`](tags.md#tag-macro) [`golden-light`](tags.md#tag-golden-light) [`fantasy`](tags.md#tag-fantasy)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A breathtaking ultra-realistic miniature toy universe where every living toy has its own thriving civilization. Tiny colorful cities filled with beautifully crafted toy houses, bustling streets, miniature trains, toy cars, bicycles, and tiny marketplaces full of life. Little toy people laugh, work, and explore while mechanical birds fly overhead and tiny airships drift across the sky. Enormous toy trees tower above the landscape, surrounded by crystal-clear rivers, glowing waterfalls, magical bridges, miniature mountains, and lush forests. Every surface reveals realistic plastic, wood, fabric, and metal textures with intricate craftsmanship. Warm golden sunrise light bathes the world in soft cinematic rays, creating volumetric lighting, gentle lens flares, and dreamy atmospheric fog. Captured in macro photography with an extreme shallow depth of field, making the tiny world feel astonishingly real. Pixar-inspired wonder blended with Hollywood fantasy, ultra-photorealistic, hyper-detailed, Unreal Engine 5 quality, global illumination, ray tracing, HDR, 8K, masterpiece, award-winning cinematic concept art.
-
-A breathtaking ultra-realistic cinematic scene of a giant human standing above a magical toy universe, carefully observing the tiny toy world below. The man looks amazed and curious as he watches miniature toy cities, toy people, tiny vehicles, colorful houses, and a fantasy toy kingdom built like a living world. Massive scale difference between the human and the miniature world, macro photography perspective, cinematic lighting, warm golden sunlight, realistic textures, shallow depth of field, fantasy atmosphere, ultra detailed, 8K, masterpiece quality.
-Is koo b improve karoo
+A surreal, cinematic full-body shot of a woman wearing a purple denim jacket and black jeans, appearing to hang upside down from the sky. Her feet are firmly touching a dark, wet asphalt surface that forms the "ceiling" at the top of the frame. The bottom half of the image features a glowing, rain-slicked city street with vibrant neon Korean storefront signs, reflecting her perfectly in the deep puddles. The atmosphere is moody and overcast with thick mist and high contrast lighting. 8k resolution, photorealistic, shot on a 35mm lens, 3:4 aspect ratio.
 ```
 
 </details>
@@ -744,36 +528,45 @@ Vertical landscape photography, vast grassland horizon, a cowboy with black wide
 
 </details>
 
-<a id="gpt-image-toddler-dream-bedroom-wooden-toys-loop"></a>
-### Toddler girl playing with wooden toys in cozy bedroom
+<a id="nano-banana-giant-comic-portal-bedroom-sequence"></a>
+### Man Kneeling Before Glowing Giant Comic Book Portal
 
-<a href="https://x.com/KrishnaBio1/status/2097980339490574356"><img src="../../previews/gpt-image-toddler-dream-bedroom-wooden-toys-loop.jpg" width="360"></a>
+<a href="https://x.com/Minahil42298354/status/2034230423014740304"><img src="../../previews/nano-banana-giant-comic-portal-bedroom-sequence.jpg" width="360"></a>
 
-Merges two reference images into one scene with labeled CHARACTER, SCENE and ANIMATION blocks, so outfit, hairstyle and room props are specified separately. The prompt also asks for 16 consecutive frames of a seamless loop and tells the model to keep the character the same in every frame.
+A titled floor standing comic book with a cyan portal through its right page grounds the fantasy in a real bedroom. The portal light acts as the main light source and casts long shadows across the wooden floor.
 
-GPT Image 2.5 · Edit · Source: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2097980339490574356) · 53 likes on 2026-10-29
+Nano Banana 2 · Text-to-image · Source: [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2034230423014740304) · 72 likes on 2026-10-29
 
-[`cozy-nursery`](tags.md#tag-cozy-nursery) [`toddler`](tags.md#tag-toddler) [`reference-merge`](tags.md#tag-reference-merge) [`loop-animation`](tags.md#tag-loop-animation) [`pastel`](tags.md#tag-pastel)
+[`sequential-frames`](tags.md#tag-sequential-frames) [`portal`](tags.md#tag-portal) [`comic-book`](tags.md#tag-comic-book) [`bedroom`](tags.md#tag-bedroom) [`cinematic-lighting`](tags.md#tag-cinematic-lighting)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom.
+A hyper-realistic photograph captures a sequential moment across two side-by-side frames within a vintage-decorated bedroom.
+​In the left frame, a young man in a red hoodie and jeans is kneeling on a wooden floor, his hand outstretched with a look of pure astonishment. He is gazing at a massive, floor-standing comic book titled 'ASCENSION #1: THE RIFT' that has come to life. The pages are actively illuminated, and an electric blue energy portal is pulsing violently through the right-hand page.
+​The right frame shows the immediate aftermath of that discovery. The same young man, maintaining the identical smile and attire, has now completely emerged from the pulsing blue portal and is standing on the bedroom floor in mid-stride, stepping confidently away from the giant book and into the reality of the room. He is smiling.
+​The environment in both frames is a cozy bedroom filled with memorabilia, including multiple vintage superhero posters (Silver Surfer, Doctor Strange), a full bookshelf, and a glowing bedside lamp. The lighting is dominated by the magical, cyan energy of the portal, which casts long shadows across the textured floor.
+```
 
-CHARACTER
-A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive eyes, and long dark brown hair styled in a messy high bun with loose wispy strands around her face. Add a delicate pastel flower hair clip with a small ribbon. She wears a cozy cream-colored knitted sweater featuring a cute bunny illustration with a pink bow, soft pink floral-patterned pants, and warm white socks. Preserve the same cute hairstyle, outfit details, proportions, and gentle innocent appearance throughout all frames.
+</details>
 
-SCENE
-Combine both reference images into one beautiful cozy children's bedroom. Place the girl sitting cross-legged on a thick fluffy cream rug while playing with colorful wooden stacking rings and small wooden toys.
+<a id="nano-banana-iphone-closeup-beanie-sunglasses-puffer"></a>
+### iPhone closeup in black beanie, sunglasses and white puffer
 
-Surround her with pastel pink, cream, sage-green and natural wooden toys, tiny bunny figures, wooden blocks, toy cars, soft teddy bears and children's storybooks.
+<a href="https://x.com/weiinberg/status/2107694579764113701"><img src="../../previews/nano-banana-iphone-closeup-beanie-sunglasses-puffer.jpg" width="360"></a>
 
-In the background, include a large bright window with soft morning sunlight, green hanging plants, potted flowers, a warm decorative lantern, framed children's pictures, a cute “Little Girl Big Dreams” style wall decoration, and a small cream-colored teepee decorated with glowing star-shaped fairy lights and soft cushions.
+Naming the real phone lens spec of 24 mm and f/1.8, plus a mild smartphone blur, makes the shot read as a believable phone photo. Diffused overhead LED light with specular highlights on the lenses and nylon shell gives realistic material texture.
 
-Add warm knitted blankets, pastel pillows and plush toys to create a magical, safe and cozy nursery atmosphere.
+Nano Banana 2.1 · Text-to-image · Source: [@weiinberg on X](https://x.com/weiinberg/status/2107694579764113701) · 61 likes on 2026-10-28
 
-ANIMATION
-Create 16 consecutive frames of a seamless gentle loop. The little girl slowly moves her hand while placing and adjusting a wooden stacking ring, then gently looks down at her toy with a tiny smile. Her loose hair strands move subtly. Fairy lights
+[`smartphone-photo`](tags.md#tag-smartphone-photo) [`close-up`](tags.md#tag-close-up) [`beanie`](tags.md#tag-beanie) [`sunglasses`](tags.md#tag-sunglasses) [`soft-lighting`](tags.md#tag-soft-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+straight-on eye-level close-up photograph of a young woman, face clearly visible, captured on a recent iPhone main camera at its native 24 mm equivalent, f/1.8, with natural perspective and no wide-angle distortion. Focus is locked on her face and accessories; the background falls into a mild, realistic smartphone blur.
+She wears a black ribbed knit beanie sitting normally on her head, not covering her eyes or face, large reflective black sunglasses, and white wired Apple earphones with the cable running down in front of her jacket. Her white puffer jacket is worn open at the collar, not pulled up, so her jaw, mouth, and lower face remain fully visible beneath the sunglasses. A small black embroidered Nike swoosh sits on the left shoulder. The quilted synthetic fabric shows soft volume and fine texture.
+The setting is a brightly lit industrial interior with a high cream-colored ceiling and out-of-focus glossy metallic panels or photographic posters behind her. Lighting is large soft overhead ambient, even and slightly cool, like diffused LED panels: gentle fill from above and the front, soft shadows under the chin and beanie brim, and faint specular highlights on the sunglasses and the jacket’s nylon shell. Exposure is clean and slightly bright, true-to-life color, moderate computational sharpening, natural skin texture, no heavy noise or plastic skin. Mood is urban, practical, and quietly anonymous. Photorealistic smartphone photograph.
 ```
 
 </details>
@@ -811,12 +604,185 @@ QUALITY CONTROL: No distorted faces, duplicate body parts, extra limbs, malforme
 
 </details>
 
+<a id="nano-banana-candid-izakaya-smartphone-snapshot"></a>
+### Candid smartphone snapshot at a night izakaya
+
+<a href="https://x.com/ViralOps_/status/2108572050864644571"><img src="../../previews/nano-banana-candid-izakaya-smartphone-snapshot.jpg" width="360"></a>
+
+Names the photo source as a friend's smartphone frame from a reel, and describes a moment of noticing the camera instead of a pose. Real imperfections such as uneven exposure, motion blur and skin pores, plus a negative list against polish, keep it from looking like AI.
+
+Nano Banana 2.1 · Text-to-image · Source: [@ViralOps_ on X](https://x.com/ViralOps_/status/2108572050864644571) · 38 likes on 2026-10-28
+
+[`candid`](tags.md#tag-candid) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`restaurant`](tags.md#tag-restaurant) [`night`](tags.md#tag-night) [`realism`](tags.md#tag-realism)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+STOP asking AI to make your images look more realistic.
+
+you're literally making the same mistake again and again.
+
+AI images look fake because everything is TOO PERFECT.
+
+→ perfect skin.
+→ perfect lighting.
+→ perfect poses.
+→ perfect backgrounds.
+
+that's not how normal people take photos.
+
+and if you're creating images for tiktok, reels, or youtube shorts, this one mistake can make your entire video look like AI slop.
+
+here's a ridiculously SIMPLE trick i use to make AI images look like real smartphone photos.
+
+you only need 4 things.
+
+1. choose the kind of photo.
+
+don't just say "photorealistic image."
+
+tell AI where the photo came from.
+
+for example:
+
+→ a random tiktok video frame
+→ an instagram story screenshot
+→ a casual photo taken by a friend
+→ a blurry late-night restaurant photo
+→ an everyday street snapshot
+
+2. describe a normal person,
+
+not a supermodel.
+
+not someone with flawless skin.
+
+just an ordinary woman in her 20s with natural features, everyday clothes, and a relaxed expression.
+
+3. create a moment, NOT a pose.
+
+this is the BIG SECRET.
+
+instead of making your subject pose for the camera, give them something natural to do.
+
+for example:
+
+a woman is enjoying dinner with her friends at a small restaurant.
+
+someone suddenly points a phone at her.
+
+she turns around, slightly surprised, without fixing her hair or preparing for the photo.
+
+that's the kind of moment we want.
+
+4. add real-life imperfections.
+
+tell AI to keep the lighting uneven, the framing casual, and the skin natural.
+
+even a little camera blur can make the image feel less staged.
+
+now copy this prompt:
+
+image prompt:
+
+"generate a highly realistic candid photo that looks like it was taken by a friend using a normal smartphone.
+
+the subject is a woman in her 20s sitting at a small restaurant at night with her friends.
+
+the photo captures the exact moment she notices the camera and casually turns her head toward it.
+
+she has a natural expression with a slight look of surprise. her face is clearly visible.
+
+the restaurant has warm yellow lights, wooden furniture, food plates, drinks, and menu boards in the background.
+
+the image should look like a real frame taken from someone's instagram reel or tiktok video.
+
+include natural skin pores, tiny facial imperfections, realistic hair, slightly uneven exposure, subtle motion blur, and imperfect camera framing.
+
+make it feel spontaneous, ordinary, and completely unstaged.
+
+avoid the look of a professional photoshoot or a polished commercial.
+
+negative: artificial skin, plastic face, 3d, cgi, illustration, cartoon, anime, beauty retouching, excessive glow, perfect lighting, unnatural eyes, strange hands, forced smile, overly symmetrical face, cinematic lighting, heavy background blur, over-sharpening, studio portrait, unrealistic environment."
+
+and here's one more thing.
+
+stop adding words like "masterpiece," "perfect lighting," and "flawless beauty" to every prompt.
+
+those words can push your images toward that polished AI look you're trying to AVOID.
+
+you're not trying to make a perfect image.
+
+you're trying to make a BELIEVABLE image.
+
+that's a MASSIVE difference.
+
+left: OpenAI gpt images 2.5
+right: google's nano banana 2.1
+```
+
+</details>
+
+<a id="gpt-image-1942-arcade-city-pilot-walk"></a>
+### Pilot walking through a wartime city under arcade dogfights
+
+<a href="https://x.com/Xaroon_x/status/2056940561148363010"><img src="../../previews/gpt-image-1942-arcade-city-pilot-walk.jpg" width="360"></a>
+
+Sections for worldbuilding, comedic details, lighting and camera give the model a clear checklist, so the scene fills with layered background gags. A reference face is locked with the phrase exact face while the outfit is spelled out piece by piece.
+
+GPT Image 2 · Edit · Source: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2056940561148363010) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`wwii`](tags.md#tag-wwii) [`arcade`](tags.md#tag-arcade) [`cinematic`](tags.md#tag-cinematic) [`worldbuilding`](tags.md#tag-worldbuilding) [`face-reference`](tags.md#tag-face-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition
+
+Male, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead
+
+✈️ 1942 CITY WORLDBUILDING
+
+entire city functions like a living 1942 arcade shooter universe
+• massive WWII fighter planes dogfighting above skyscrapers
+• giant anti-aircraft cannons mounted across rooftops
+• endless bullet patterns streaking through cloudy skies
+• retro military airfields integrated into urban districts
+• giant “MISSION START” alerts projected into the clouds
+• dramatic explosion trails lighting the skyline at night
+• aircraft carriers docked beside futuristic city ports
+• glowing power-up icons floating through aerial battle zones
+• giant radar systems rotating above downtown towers
+• endless enemy squadrons emerging from storm clouds
+• cinematic ocean-and-warzone environments surrounding the metropolis
+
+😂 COMEDIC DETAILS
+
+• random civilians casually dodging fighter planes on the way to work 😭
+• one pilot barrel-rolling dramatically for absolutely no reason
+• giant billboard flashing: “PLAYER 1 READY.”
+• pedestrians treating near-miss explosions like normal traffic
+• somebody still trying to collect every floating power-up midair
+• random mechanic repairing planes using pure confidence
+• one legendary pilot surviving impossible situations through arcade logic alone
+
+💡 LIGHTING & STYLE
+
+retro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality
+
+🎥 CAMERA
+
+cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere
+```
+
+</details>
+
 <a id="gpt-image-1969-festival-crowd"></a>
 ### Festival crowd in Bethel, New York, August 1969
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"><img src="../../previews/gpt-image-1969-festival-crowd.jpg" width="360"></a>
 
-A place and a date are enough for the model to infer clothing, staging and setting. Inspect the result for period accuracy. Preview: the Sunburst variant.
+Naming only a precise place and date lets the model infer era clothing, hairstyles, stage scaffolding and film colour without listing them. Asking for period accuracy pushes it toward documentary realism rather than costume pastiche.
 
 GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
 
@@ -827,6 +793,25 @@ GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https:/
 ```text
 Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
 Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+</details>
+
+<a id="gpt-image-2003-digital-camera-family-snapshot"></a>
+### 2003 Digital Camera Family Snapshot in Courtyard
+
+<a href="https://x.com/pangyusio/status/2046991223395950810"><img src="../../previews/gpt-image-2003-digital-camera-family-snapshot.jpg" width="360"></a>
+
+Naming the year and the capture device makes the model reproduce period traits such as soft focus, flat colour and an orange date stamp. A concrete setting, a residential courtyard in China, with a simple family grouping keeps the scene believable.
+
+GPT Image 2 · Text-to-image · Source: [@pangyusio on X](https://x.com/pangyusio/status/2046991223395950810) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+
+[`family-photo`](tags.md#tag-family-photo) [`nostalgia`](tags.md#tag-nostalgia) [`digital-camera`](tags.md#tag-digital-camera) [`vintage`](tags.md#tag-vintage) [`snapshot`](tags.md#tag-snapshot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate a photo from 2003, shot with a digital camera, of five-year-old me with my mom and dad in the courtyard of our residential compound in China.
 ```
 
 </details>
@@ -865,6 +850,25 @@ GPT Image 2 · Text-to-image · Source: [@saniaspeaks_ on X](https://x.com/sania
 
 ```text
 Young Japanese girl with long silky black hair and soft wispy bangs, sitting casually in the front passenger seat of a luxury car with beige leather interior, wearing an oversized gray off-shoulder sweatshirt. Natural soft smile, making a peace sign with one hand, long red manicure, relaxed and playful expression. A curious deer stands outside the open car window looking directly inside, with a green park and other deer visible in the background. Captured as a casual smartphone photo, natural daylight, handheld iPhone camera shot, everyday travel snapshot, realistic skin texture, authentic mobile HDR processing, slightly imperfect framing, natural colors, candid social media aesthetic, spontaneous moment, no professional posing, no studio lighting, no cinematic color grading, realistic reflections on car windows and interior, ordinary phone-camera perspective, photorealistic, high-quality mobile photography, lifestyle travel vibe.
+```
+
+</details>
+
+<a id="gpt-image-first-person-tropical-island-warzone"></a>
+### First-Person Tropical Island Warzone Key Art
+
+<a href="https://x.com/lipeng0820/status/2047231302118858815"><img src="../../previews/gpt-image-first-person-tropical-island-warzone.jpg" width="360"></a>
+
+A first-person viewpoint anchored by a gloved rifle in the lower right foreground. Exact counts and left-to-right placement for bunkers, battleships, helicopters and missile trails keep the crowded scene organized.
+
+GPT Image 2 · Text-to-image · Source: [@lipeng0820 on X](https://x.com/lipeng0820/status/2047231302118858815) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`fps`](tags.md#tag-fps) [`game-key-art`](tags.md#tag-game-key-art) [`military`](tags.md#tag-military) [`first-person`](tags.md#tag-first-person) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic first-person modern military battle on a tropical island coastline, viewed from the perspective of a soldier holding a black assault rifle in both hands at the lower right foreground, with dark tactical gloves visible. The scene shows a fortified coastal base under attack in bright midday sunlight beneath a vivid blue sky with scattered white clouds. In the foreground and midground, depict a rugged dirt path with dry grass, scattered debris, crates, and metal barrels leading into a compact military installation made of futuristic-industrial bunkers and machinery painted olive green and gray. Include 5 prominent base structures: a rounded bunker with a small dome on the far left, a cylindrical tower just right of it, a large central arched hangar-like bunker with a dark entrance, 1 squat turreted structure on the right midground, and 1 stone-and-metal defensive wall section at the far right front. In the center midground, show 1 major ground explosion with orange fire and black smoke, plus 1 tall vertical smoke plume rising behind the base near the cliffs. The background features rocky cliffs lined with many palm trees and a small waterfall descending near the center-left, with the ocean and horizon visible to the right. Over the water, show 4 large gray battleships grouped near the coast on the right side. In the sky, include 3 helicopters, 4 smaller aircraft or drones in the distance, and 5 visible missile or rocket trails streaking diagonally across the sky from right to left, emphasizing an active large-scale assault. Ultra-detailed photorealistic AAA video game key art, realistic lighting, sharp textures, cinematic action composition, wide-angle first-person shooter viewpoint, high contrast, dynamic war atmosphere, epic scale.
 ```
 
 </details>
@@ -1001,6 +1005,25 @@ Generate an ancient imperial palace × express delivery station
 
 </details>
 
+<a id="gpt-image-isometric-glass-cube-spheres-cylinder"></a>
+### Glass cube with colored spheres and cylinder
+
+<a href="https://x.com/Hyperouters/status/2097654503692443744"><img src="../../previews/gpt-image-isometric-glass-cube-spheres-cylinder.jpg" width="360"></a>
+
+Each object gets an explicit position (inside or outside, upper back left, lower front right, directly above), so the layout works as a spatial-relation test. Naming the isometric view fixes the camera and makes the placements easy to check.
+
+GPT Image 2.5 · Text-to-image · Source: [@Hyperouters on X](https://x.com/Hyperouters/status/2097654503692443744) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`isometric`](tags.md#tag-isometric) [`spatial-relation`](tags.md#tag-spatial-relation) [`glass`](tags.md#tag-glass) [`3d-shapes`](tags.md#tag-3d-shapes) [`test`](tags.md#tag-test)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A transparent glass cube: place a red sphere inside at the upper back left, a blue sphere inside at the lower front right, a green sphere outside directly above it, and a yellow cylinder crossing from the lower left to the upper right. Use an isometric view.
+```
+
+</details>
+
 <a id="gpt-image-kawaii-katsu-curry-doodle-food-photo"></a>
 ### Katsu curry set with kawaii doodle overlays
 
@@ -1124,12 +1147,31 @@ Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio
 
 </details>
 
+<a id="gpt-image-mediterranean-alien-world-settlement"></a>
+### Mediterranean Style Settlement on a Ringed Planet
+
+<a href="https://x.com/wonder_villas/status/2097869977890017784"><img src="../../previews/gpt-image-mediterranean-alien-world-settlement.jpg" width="360"></a>
+
+One sentence sets a time frame, a setting and a blend of two named styles, Mediterranean architecture and subtle retro futurism. The model fills in the sunset light, the sea, the family and the robot on its own.
+
+GPT Image 2.5 · Text-to-image · Source: [@wonder_villas on X](https://x.com/wonder_villas/status/2097869977890017784) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`sci-fi`](tags.md#tag-sci-fi) [`retro-futurism`](tags.md#tag-retro-futurism) [`mediterranean`](tags.md#tag-mediterranean) [`worldbuilding`](tags.md#tag-worldbuilding) [`sunset`](tags.md#tag-sunset)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+</details>
+
 <a id="gpt-image-miniature-city-in-hair-macro"></a>
 ### Miniature city hidden in curly hair
 
 <a href="https://x.com/krafterlab/status/2051399740986740986"><img src="../../previews/gpt-image-miniature-city-in-hair-macro.jpg" width="360"></a>
 
-Names the scale trick up front (a city inside real hair on a visible forehead) and anchors it with an 85mm macro lens and shallow depth of field. A long list of imperfections and negatives (dirty buildings, no CGI, no glow) pushes the result toward a real photo.
+Puts a city inside real hair and keeps part of the forehead in frame, so the scale reads at once. An 85mm macro lens with shallow depth of field and a list of small imperfections make it look like a real photo.
 
 GPT Image 2 · Text-to-image · Source: [@krafterlab on X](https://x.com/krafterlab/status/2051399740986740986) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
@@ -1139,25 +1181,6 @@ GPT Image 2 · Text-to-image · Source: [@krafterlab on X](https://x.com/krafter
 
 ```text
 Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow
-```
-
-</details>
-
-<a id="gpt-image-otter-scientist-benchmark-slide-conference"></a>
-### Otter Scientist Presenting an AI Benchmark Slide
-
-<a href="https://x.com/emollick/status/2046665274535854146"><img src="../../previews/gpt-image-otter-scientist-benchmark-slide-conference.jpg" width="360"></a>
-
-The prompt dictates every line of slide text in quotes with exact counts for images, score boxes and bullets, so the dense typography stays readable. A named lab coat tag, whiteboard doodles and blurred audience foreground add believable conference depth.
-
-GPT Image 2 · Text-to-image · Source: [@emollick on X](https://x.com/emollick/status/2046665274535854146) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`satire`](tags.md#tag-satire) [`presentation-slide`](tags.md#tag-presentation-slide) [`anthropomorphic-animal`](tags.md#tag-anthropomorphic-animal) [`text-rendering`](tags.md#tag-text-rendering) [`editorial-photo`](tags.md#tag-editorial-photo)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A photorealistic humorous academic presentation in a conference room: an anthropomorphic otter scientist stands at the left side of the frame wearing a crisp white lab coat and holding a thin pointing stick toward a large presentation board on an easel. The otter is upright like a human, with realistic brown fur, dark paws, and a professional posture. The lab coat has a stitched name tag reading "Dr. Otter" and a smaller line reading "Aquatic Systems Lab," plus two pens in the chest pocket. The otter’s face is partially censored by a square blur block. Behind the otter is a whiteboard with faint handwritten notes and doodles, including "WiFi > Fish," "H2O," "Hydration," a fish sketch, and a wifi symbol. The main focus is a large clean presentation slide with sharp readable text and polished corporate-academic layout. At the top, a bold title reads "Ethan Mollick’s Otter Test" and beneath it a subtitle reads "Prompt: \"An otter sitting on an airplane seat using in-flight wifi on a laptop\"". Below that is a boxed section titled "Sample AI-Generated Images" containing exactly 4 side-by-side sample images of a realistic otter seated in an airplane seat using a laptop or tablet, each framed like model outputs, with one showing a large wifi symbol above the seat. Beneath the images is a section labeled "Performance Results (Pass = otter, airplane seat, in-flight wifi, laptop/tablet)" with exactly 5 score boxes: "DALL·E 3" with no visible numeric score, "GPT-4o" with "4/4" and "100%", "Midjourney v6" with "3/4" and "75%", "Stable Diffusion XL" with "2/4" and "50%", and "SD 1.5" with "0/4" and "0%". On the right side is a large highlighted box reading "Average Score" and "70%" in large blue type. At the bottom of the slide is a "Key Findings" box with exactly 3 bullet points: "Modern models understand complex, specific prompts surprisingly well.", "Otters + airplanes + wifi = a reliable benchmark.", and "Further research is otter-ly necessary." A small simple cartoon otter doodle appears in the lower-right corner of the slide. The room is warmly lit with wood-paneled walls, shallow depth of field, and a few blurred audience members in the foreground, including a laptop at the bottom edge showing an otter image on its screen and a glass pitcher on a table. Style: ultra-realistic editorial photography, deadpan scientific satire, believable conference presentation, high detail, natural indoor lighting, professional lens compression, readable slide typography, polished yet absurd.
 ```
 
 </details>
@@ -1253,25 +1276,6 @@ GPT Image 2 · Text-to-image · Source: [@Gorden_Sun on X](https://x.com/Gorden_
 
 ```text
 Generate an image, aspect ratio 3:4. A real-life smartphone photo, with the phone screen displaying a WeChat chat interface in Chinese dialogue, featuring chat bubbles and a Word document attachment. The interface has green and gray bubbles. The screen shows obvious fingerprints, smudges, and scratches. The glass has strong reflections and a direct light source creating glare. The frame is slightly tilted, handheld shot, natural ambient light, imperfect composition, strong sense of realism, casual everyday snapshot, high detail, 4K. The dialogue is between a boss and an employee: the employee sends a file to the boss, and the boss replies that they will take a look first.
-```
-
-</details>
-
-<a id="gpt-image-spilled-matcha-pavement-phone-photo"></a>
-### Spilled matcha drink on sunlit pavement
-
-<a href="https://x.com/Shinning1010/status/2050693240253214894"><img src="../../previews/gpt-image-spilled-matcha-pavement-phone-photo.jpg" width="360"></a>
-
-Lists every physical detail of the spill, including the cup, lid, ice and foam, and sets a handheld phone view from a slightly overhead angle. A long negative prompt against CGI, clean floors and fake liquid keeps the result looking like a raw documentary snapshot.
-
-GPT Image 2 · Text-to-image · Source: [@Shinning1010 on X](https://x.com/Shinning1010/status/2050693240253214894) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`smartphone-photo`](tags.md#tag-smartphone-photo) [`street`](tags.md#tag-street) [`spill`](tags.md#tag-spill) [`harsh-sunlight`](tags.md#tag-harsh-sunlight) [`negative-prompt`](tags.md#tag-negative-prompt)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-cartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, overly perfect composition, overly clean floor, fake liquid, unrealistic reflections, plastic-looking liquid, oversaturated green, blurry, low resolution, distorted cup, melted plastic, extra cups, duplicated objects, readable brand logo, messy text, watermark, poster design, dramatic artificial lighting, excessive sharpening, over-processed, unrealistic shadow, floating ice, deformed perspective
 ```
 
 </details>

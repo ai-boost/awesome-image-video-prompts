@@ -1,10 +1,10 @@
 id: gpt-image-teddy-bear-holiday-card
 title:
-  en: Nostalgic Christmas card with an old teddy bear
-  zh: 旧泰迪熊的怀旧圣诞贺卡
+  en: Nostalgic Christmas card with a worn teddy bear
+  zh: 旧泰迪熊怀旧圣诞贺卡
 model: GPT Image 2.5
 mode: text-to-image
-category: illustration
+category: poster
 tags:
 - holiday
 - card
@@ -15,8 +15,8 @@ source:
   credit: OpenAI
   captured: '2026-10-28'
 notes:
-  en: 'Scene, mood, style and constraints are labeled blocks, and the card text is given verbatim as the only text allowed. Preview: the Sunburst variant.'
-  zh: 场景、情绪、画风和限制分块写，贺卡文字逐字给出，并规定只能有这一句。预览图为 Sunburst 版本。
+  en: Labeled blocks for scene, mood, style and constraints keep each instruction separate, and giving the card text verbatim as the only text allowed gets clean typography. The line about a grown child adds story details such as old photos and a handwritten note.
+  zh: 场景、情绪、风格和限制分成带标签的段落，各项指令互不干扰；贺卡文字逐字给出并限定为唯一文字，排版因此干净。孩子已长大这句设定让画面多了旧照片和手写便签等叙事细节。
 prompt: |
   Create a Christmas holiday card illustration.
 

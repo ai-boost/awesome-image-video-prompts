@@ -1,7 +1,7 @@
 id: gpt-image-facs-expression-reference-grid-anime-girl
 title:
-  en: FACS expression reference grid of anime girl
-  zh: 戴眼镜动漫少女的FACS表情参考图表
+  en: Labelled FACS expression grid of one anime girl
+  zh: 同一动漫少女的FACS表情标注网格
 model: GPT Image 2
 mode: image-edit
 category: character
@@ -19,7 +19,7 @@ source:
   posted: '2026-05-09'
   via: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
 notes:
-  en: The prompt names a FACS action unit code and lists every AU with its English label and Japanese gloss. This gives the model an unambiguous vocabulary to change one expression on a reference character while the face stays the same.
-  zh: 提示词先写明要套用的FACS动作单元编号，再逐条列出全部AU的英文名称和日文说明，用一套明确的词汇让模型只改变参考角色的表情，角色本身保持不变。
+  en: The prompt numbers all 49 FACS action units with English labels and Japanese glosses. The model then renders one labelled cell per unit in a single sheet and keeps the same face across every expression and head pose.
+  zh: 提示词为全部49个FACS动作单元编号，并附英文名称和日文释义。模型据此为每个单元生成一个带标注的格子，汇成一张表，所有表情和头部姿态中人物面容保持一致。
 prompt: |
   表情変更 FACS AU46\n\n顔面動作符号化システム（FACS）一覧表\nFemale Character Reference Grid\n\n1. AU1 - Inner Brow Raiser（内眉を上げる）\n2. AU2 - Outer Brow Raiser（外眉を上げる）\n3. AU4 - Brow Lowerer（眉を下げる）\n4. AU5 - Upper Lid Raiser（上まぶたを上げる）\n5. AU6 - Cheek Raiser（頬を上げる）\n6. AU7 - Lid Tightener（まぶたを引き締める）\n7. AU9 - Nose Wrinkler（鼻にしわを寄せる）\n8. AU10 - Upper Lip Raiser（上唇を上げる）\n9. AU11 - Nasolabial Deepener（鼻唇溝を深める）\n10. AU12 - Lip Corner Puller（口角を引き上げる）\n11. AU13 - Sharp Lip Puller（口角を鋭く引く）\n12. AU14 - Dimpler（えくぼを作る）\n13. AU15 - Lip Corner Depressor（口角を下げる）\n14. AU16 - Lower Lip Depressor（下唇を下げる）\n15. AU17 - Chin Raiser（あごを上げる）\n16. AU18 - Lip Pucker（唇をすぼめる）\n17. AU20 - Lip Stretcher（唇を横に引き伸ばす）\n18. AU22 - Lip Funneler（唇を漏斗状にすぼめる）\n19. AU23 - Lip Tightener（唇を引き締める）\n20. AU24 - Lip Pressor（唇を押しつける）\n21. AU25 - Lips Part（唇を開く）\n22. AU26 - Jaw Drop（あごを下げる）\n23. AU27 - Mouth Stretch（口を大きく開く）\n24. AU28 - Lip Suck（唇を吸い込む）\n25. AU41 - Lid Droop（まぶたを垂らす）\n26. AU42 - Slit Eyes（目を細める）\n27. AU43 - Eyes Closed（目を閉じる）\n28. AU44 - Squint（しかめ目・目をすぼめる）\n29. AU45 - Blink（まばたき）\n30. AU46 - Wink（ウインク）\n31. AU51 - Head Turn Left（頭を左に向ける）\n32. AU52 - Head Turn Right（頭を右に向ける）\n33. AU53 - Head Up（頭を上げる）\n34. AU54 - Head Down（頭を下げる）\n35. AU55 - Head Tilt Left（頭を左に傾ける）\n36. AU56 - Head Tilt Right（頭を右に傾ける）\n37. AU57 - Head Forward（頭を前に出す）\n38. AU58 - Head Back（頭を後ろに引く）\n39. AU61 - Eyes Turn Left（目線を左に向ける）\n40. AU62 - Eyes Turn Right（目線を右に向ける）\n41. AU63 - Eyes Up（目線を上に向ける）\n42. AU64 - Eyes Down（目線を下に向ける）\n43. AU71 - Brow Furrow（眉間にしわを寄せる）\n44. AU72 - Brow Bulge（眉を盛り上げる）\n45. AU81 - Chewing（噛む動作）\n46. AU82 - Nostril Dilator（鼻孔を広げる）\n47. AU83 - Nostril Compressor（鼻孔を狭める）\n48. AU84 - Tongue Up（舌を上げる）\n49. AU85 - Tongue Out（舌を出す）

@@ -1,6 +1,6 @@
 # Phone and UI mockups
 
-[Back to the list](../../README.md) · All 20 entries
+[Back to the list](../../README.md) · All 17 entries
 
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### iPhone Photos camera roll of a student's day
@@ -22,11 +22,11 @@ Turn one full day's worth of camera roll for the person in the reference image i
 </details>
 
 <a id="gpt-image-camera-roll-day"></a>
-### Camera roll of anyone's day, from one image
+### iPhone camera roll of one subject's full day
 
 <a href="https://x.com/Mayz1169/status/2099479395283214473"><img src="../../previews/gpt-image-camera-roll-day.jpg" width="360"></a>
 
-Same idea with stricter rules: the upload is the only subject, and only minimal iOS chrome may appear.
+Strict rules keep the subject identical and fix the layout at four thumbnail columns with real iOS chrome. A list of shot types and deliberate flaws like blur, odd crops and handheld framing makes the grid read as a real camera roll.
 
 GPT Image 2.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099479395283214473) · 762 likes on 2026-10-27
 
@@ -147,33 +147,6 @@ Outfits change continuously through the day. Morning: milky-white camisole loung
 Photo mix is fixed at 60% selfies and mirror selfies, 40% solo portraits taken by someone else. Every frame has her as the subject. Every thumbnail keeps real iPhone native-camera texture. Pose, camera distance, angle, expression, lighting, and clothing keep changing.
 The sequence runs from morning to late night. Morning feels loose and just-woken. Late morning has clear natural light. Afternoon feels like ordinary going-out. Evening has soft city light. Night has low indoor light. Late night feels quiet and private after coming home.
 The whole set is quiet, private, relaxed, and real. The album forms a dense, continuous solo-portrait look, like a full day of private portrait camera roll saved on her own phone.
-```
-
-</details>
-
-<a id="gpt-image-ios-share-sheet-pop-out-portrait"></a>
-### iOS share sheet with 3D popout photo portrait
-
-<a href="https://x.com/TheVirtualMuse/status/2109582485147517056"><img src="../../previews/gpt-image-ios-share-sheet-pop-out-portrait.jpg" width="360"></a>
-
-The prompt lists the share sheet interface element by element, then names exactly which parts of the subject break out of the thumbnail frame. A face reference line plus two side thumbnails of the same person keeps identity consistent across the carousel.
-
-GPT Image 2.5 · Edit · Source: [@TheVirtualMuse on X](https://x.com/TheVirtualMuse/status/2109582485147517056) · 51 likes on 2026-10-28
-
-[`ios-share-sheet`](tags.md#tag-ios-share-sheet) [`3d-popout`](tags.md#tag-3d-popout) [`face-reference`](tags.md#tag-face-reference) [`ui-composite`](tags.md#tag-ui-composite) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use my uploaded photo as the face reference. 3:4 vertical. An iOS share sheet on a light grey background: top left reads "1 Photo
-Selected" with an "Options >" pill below it, a round X close button top right, then a horizontal carousel of three photo thumbnails, and a
-bottom row of app icons labeled "AirDrop", "Messages", "Mail", "WhatsApp". Center thumbnail: the man in reference, keeping his exact
-face, hairstyle and identity, sitting cross-legged on a grey couch with a blue gingham blanket, holding an iced matcha latte with a green
-straw, looking at the camera. He wears a black baseball cap with a white NY logo, thin round gold wire glasses, an oversized cream shirt
-with a grey knit sweater draped over his shoulders, wide black trousers, white socks and black leather penny loafers, with a red crochet
-drawstring bag at his feet. 3D pop-out effect: his cap breaks out above the thumbnail's top edge, and his loafers and the red bag spill out
-over the app icons below. Side thumbnails, partially cropped: the same man sipping a takeaway coffee on the left, and resting his chin on
-his hand beside a monstera plant on the right. Soft indoor daylight, realistic skin texture.
 ```
 
 </details>
@@ -469,31 +442,12 @@ A cinematic anime-style futuristic surveillance status screen showing a full-bod
 
 </details>
 
-<a id="gpt-image-fake-pixel-art-grid-zoom-analysis"></a>
-### Zoomed Fake Pixel Art With Blue Grid
-
-<a href="https://x.com/RealAstropulse/status/2047289982394495477"><img src="../../previews/gpt-image-fake-pixel-art-grid-zoom-analysis.jpg" width="360"></a>
-
-Names the exact palette and where each color sits, then describes the flaw to show: staircase edges whose colors blur inside the squares. A grid overlay, a crosshair cursor and a no text rule make it read as an editor screenshot.
-
-GPT Image 2 · Text-to-image · Source: [@RealAstropulse on X](https://x.com/RealAstropulse/status/2047289982394495477) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`pixel-art`](tags.md#tag-pixel-art) [`grid-overlay`](tags.md#tag-grid-overlay) [`close-up`](tags.md#tag-close-up) [`analysis`](tags.md#tag-analysis) [`screenshot`](tags.md#tag-screenshot)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A tightly zoomed-in comparison image demonstrating fake pixel-art rendering, showing a low-resolution-looking scene enlarged on screen with a thin bright blue square grid overlay across the entire frame. The composition is an abstract close crop of a pixel-art-style environment: sandy tan and ochre blocky forms on the left and center, a dark navy and black stepped diagonal mass on the right, muted olive-green and slate-blue shapes along the upper background, and a few lighter golden highlights. Every edge looks staircase-like and blocky at first glance, but the colors softly blur and blend within the apparent squares instead of aligning perfectly to the grid, creating the impression of pixel art that breaks down under inspection. Include a small white crosshair cursor near the upper left quadrant to suggest image analysis in an editor. The overall look should feel like a screenshot from a graphics program or social media demonstration about how AI can imitate retro game art aesthetics without producing true grid-perfect pixel art, with no text labels visible.
-```
-
-</details>
-
 <a id="gpt-image-farmers-market-app-ui"></a>
 ### Farmers market app screen in an iPhone frame
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"><img src="../../previews/gpt-image-farmers-market-app-ui.jpg" width="360"></a>
 
-Describes the app as if it already ships: real sections, hierarchy and spacing, no concept-art words. That keeps the result looking like a usable interface. Preview: the Sunburst variant.
+The prompt lists the real sections of a shipping app, such as header, vendor list, specials, location and hours, so the model builds a believable layout instead of concept art. Restrained style cues like a white background, natural accents and minimal decoration keep the screen clean and usable.
 
 GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
 
@@ -526,25 +480,6 @@ GPT Image 2 · Text-to-image · Source: [@F2aldi on X](https://x.com/F2aldi/stat
 
 ```text
 Create a modern government program landing page UI mockup for Indonesia in a clean, professional web design style, desktop widescreen aspect ratio. The page uses a white background with bold red accents, soft rounded corners, subtle gray dividers, and a polished frontend-dribbble presentation look. At the very top, build a horizontal navigation bar with 6 visible elements: the Indonesian Garuda emblem and the text "PEMERINTAH REPUBLIK INDONESIA" on the left, then 4 centered menu items labeled "Program", "Dampak", "Menu", and "Pemantauan", and on the far right a large red rounded button labeled "Program MBG" with a small people icon. Below it, design a hero section split into two columns. On the left, show a small program label line with a red bowl icon, the text "MBG", a vertical divider, and "Makan Bergizi Gratis". Under that, place a large bold headline reading "Makan Bergizi, Anak Indonesia Kuat" in dark navy, spanning 3 lines. Add a short paragraph in Indonesian below: "Program MBG mendukung gizi harian siswa SD dan SMP melalui menu seimbang, pemantauan sekolah, dan laporan dampak yang transparan." Then place 2 call-to-action buttons side by side: a solid red button labeled "Lihat Dampak" with a right arrow, and an outlined white button with red border labeled "Panduan Sekolah" with a right arrow. On the right side of the hero, place a rounded large photo-style image framed by a sweeping white curved divider and red corner background. The image shows an Indonesian elementary classroom with 5 visible schoolchildren in white uniforms with red ties, seated at desks, warm daylight from windows, shallow depth of field, documentary-photo realism. In the foreground, on a wooden desk, show a stainless steel compartment tray meal with exactly 5 food items: white rice, mixed vegetables, a piece of fried chicken, a banana, and watermelon cubes. Beside the tray, place 1 milk carton labeled "SUSU SEGAR". Under the hero, add a full-width red statistics band with 4 equally spaced metric cards separated by thin vertical dividers. Each card has a white circular icon and bold white text. The 4 metrics are: "245.000+" with label "Sekolah Terlayani", "8,7 Juta+" with label "Siswa Penerima Manfaat", "1,2 Miliar+" with label "Porsi Disalurkan", and "98,6%" with label "Kepuasan Siswa". At the bottom center, add a 3-dot carousel indicator with the left dot active in red and the other 2 dots gray. Include a faint Indonesia map texture in the lower-left background. Use crisp typography, generous whitespace, high-end fintech/government website aesthetics, realistic UI proportions, and a production-ready landing page mockup appearance.
-```
-
-</details>
-
-<a id="gpt-image-japanese-legal-services-lp-banner"></a>
-### Japanese Law and Tax Office Landing Page Banner
-
-<a href="https://x.com/takeshibengo/status/2047061602315460747"><img src="../../previews/gpt-image-japanese-legal-services-lp-banner.jpg" width="360"></a>
-
-Spells out exactly four equal color coded panels, each with a header bar, a stock photo subject and a caption bar, then a separate footer layout. Every Japanese string is given in corner brackets with its position and color, which anchors the text placement.
-
-GPT Image 2 · Text-to-image · Source: [@takeshibengo on X](https://x.com/takeshibengo/status/2047061602315460747) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`landing-page`](tags.md#tag-landing-page) [`japanese-text`](tags.md#tag-japanese-text) [`legal-services`](tags.md#tag-legal-services) [`banner`](tags.md#tag-banner) [`advertising`](tags.md#tag-advertising)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A Japanese listing-ad style landing page hero banner for a fictional law office and tax accountant office, designed like a bold web advertisement with four equal vertical panels across the top and a strong call-to-action area across the bottom. The top row contains exactly 4 service panels, each with a colored header bar, a photo-realistic stock-photo image, and a colored caption bar at the bottom. Panel 1 is red and labeled 「刑事事件」 at the top, showing a close-up of two hands gripping dark prison bars against a black background; the bottom red caption reads 「逮捕・訴訟に即対応！」 in large bold white Japanese text. Panel 2 is blue and labeled 「交通事故」 at the top, showing a realistic rear-end car crash with two damaged dark-colored sedans on a city street in daylight; the bottom blue caption reads 「慰謝料・示談もお任せ！」 in large bold white Japanese text. Panel 3 is green and labeled 「相続税」 at the top, showing an elderly couple seated at a table consulting with a suited professional, with papers and a small house model visible; the bottom green caption reads 「税相続対策をしっかりサポート！」 in large bold white Japanese text. Panel 4 is orange and labeled 「離婚問題」 at the top, showing a distressed woman sitting indoors with her head resting on one hand; the bottom orange caption reads 「慰謝料・親権の悩みを解決！」 in large bold white Japanese text. Make the four panels touch edge-to-edge with clean white dividers, each panel occupying the same width, and use highly saturated primary colors with glossy ad-design styling. Beneath the four panels, create a cream or light beige background footer area. On the left side, place a smaller black subheadline in Japanese: 「法律相談・税務相談なら」. Centered below it, place the large main office name in metallic gold gradient bold Japanese lettering with a slight bevel effect: 「〇〇法律事務所・税理士事務所」. Add thin black horizontal divider lines above and below the main office name. On the lower right, place a large glossy red rounded rectangular button with a bright gradient and white bold Japanese text reading 「無料相談受付中！」. The overall style should feel like a Japanese legal and tax services LP main visual from a listing ad: corporate, urgent, trustworthy, commercial, photo-based, clean grid layout, bold typography, high contrast, and realistic brochure-quality compositing.
 ```
 
 </details>

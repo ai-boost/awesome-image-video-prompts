@@ -15,8 +15,8 @@ source:
   credit: OpenAI
   captured: '2026-10-28'
 notes:
-  en: 'One concrete visual beat per panel, written as action and framing, gives a readable comic with a clear setup and punchline. Preview: the Sunburst variant.'
-  zh: 每格只写一个具体的画面节拍，用动作和构图来写，四格的铺垫和反转就清楚了。预览图为 Sunburst 版本。
+  en: Each panel gets one concrete visual beat written as action and framing, which gives a readable comic with a clear setup and punchline. The light cues, like sunlight cutting across the room, set a warm mood that carries through every panel.
+  zh: 每格只写一个具体的画面节点，用动作和构图来描述，漫画因此好读，铺垫和笑点都很清楚。阳光斜照进房间这类光线描写定下温暖的基调，贯穿每一格。
 prompt: |
   Create a short vertical comic-style reel with 4 panels.
   Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.

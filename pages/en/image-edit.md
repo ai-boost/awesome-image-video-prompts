@@ -1,6 +1,59 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 40 entries
+[Back to the list](../../README.md) · All 34 entries
+
+<a id="gpt-image-gym-selfie-chibi-minis-doodles"></a>
+### Gym selfie surrounded by chibi mini selves
+
+<a href="https://x.com/Ciri_ai/status/2050094437821513896"><img src="../../previews/gpt-image-gym-selfie-chibi-minis-doodles.jpg" width="360"></a>
+
+The prompt first locks the original photo as unchanged, then lists each mini self with its own gym action so every figure stays distinct. A scrapbook doodle style in white and pink ink with a quoted list of handwritten phrases ties the overlay together.
+
+GPT Image 2 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2050094437821513896) · 3,471 likes on 2026-10-29
+
+[`chibi`](tags.md#tag-chibi) [`scrapbook`](tags.md#tag-scrapbook) [`doodle`](tags.md#tag-doodle) [`gym`](tags.md#tag-gym) [`selfie`](tags.md#tag-selfie)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GPT Image 2 on Chatgpt
+
+Prompt: Edit the image while keeping the original photo completely unchanged — including the person, face, body, pose, lighting, and gym background.
+
+Add multiple small, cute chibi-style “mini versions” of her around the image. Each mini character should have a big head, expressive facial features, and match her hairstyle and outfit.
+
+Depict each mini version doing different gym-related activities:
+
+one cheering with arms raised
+
+one running in running shoes
+
+one drinking from a shaker bottle
+
+one wearing sporty running glasses
+
+one climbing near her leg
+
+Enhance the image with playful, hand-drawn doodles and handwritten notes in white and pink ink, in a scrapbook style. Include elements like arrows, stars, hearts, sparkles, and sketchy lines.
+
+Add cute, handwritten gym-themed motivational phrases:
+
+“lift strong”
+
+“stronger every rep”
+
+“no pain no gain”
+
+“sweat now, shine later”
+
+“progress over perfection”
+
+“train hard, stay soft”
+
+The overall vibe should feel fun, energetic, and feminine.
+```
+
+</details>
 
 <a id="gpt-image-selfie-chibi-sticker-doodle-edit"></a>
 ### Mirror selfie with chibi sticker doodle edit
@@ -17,25 +70,6 @@ GPT Image 2 · Edit · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan
 
 ```text
 Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit while keeping the original composition and colors natural. Do NOT heavily change the original lighting or color grading. Keep the tones soft, airy, warm, and realistic. Avoid oversaturated colors, HDR effects, strong orange filters, or excessive contrast.￼ Add hand-drawn doodle elements around the main objects: * white outline strokes * sketchy sparkles * stars * hearts * arrows * tiny flowers * playful swirls * mini handwritten notes Add small cute mascot-style doodles that match the vibe of the photo (tiny bear, smiling drink, cute food character, sleepy cloud, etc.) but keep them subtle and balanced. Use handwritten white text with short relatable captions only. Do NOT add too many words or overcrowd the image.Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features.Chibi characters have various poses and expressions: jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions.￼ ￼ Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
-```
-
-</details>
-
-<a id="nano-banana-old-photo-dslr-restoration"></a>
-### Blurry old toddler photo restored to DSLR quality
-
-<a href="https://x.com/Naiknelofar788/status/2030574333853069387"><img src="../../previews/nano-banana-old-photo-dslr-restoration.jpg" width="360"></a>
-
-Names a specific camera body, the Canon EOS R6 II, as the quality target, so the model has a concrete reference for color, detail and upscaling. It also asks to keep the exact facial features and a natural look, which stops the restoration from changing the person.
-
-Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2030574333853069387) · 987 likes on 2026-10-28
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`upscale`](tags.md#tag-upscale) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`camera-reference`](tags.md#tag-camera-reference)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Restore this old photo into portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity"
 ```
 
 </details>
@@ -82,29 +116,6 @@ Nano Banana 2 · Edit · Source: [@doctorwasif on X](https://x.com/doctorwasif/s
 
 </details>
 
-<a id="nano-banana-damaged-vintage-photo-restoration-upscale"></a>
-### Cracked vintage portrait restored to sharp 4K
-
-<a href="https://x.com/doctorwasif/status/2048998423471481059"><img src="../../previews/nano-banana-damaged-vintage-photo-restoration-upscale.jpg" width="360"></a>
-
-A JSON structure splits the task, positive prompt, negative prompt and parameters, and the positive text opens by locking identity, proportions and composition. The negative list blocks restyling, plastic skin and over sharpening, and a low denoising strength keeps the result faithful to the source.
-
-Nano Banana 2 · Edit · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2048998423471481059) · 297 likes on 2026-10-28
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`upscale`](tags.md#tag-upscale) [`json-prompt`](tags.md#tag-json-prompt) [`vintage-photo`](tags.md#tag-vintage-photo) [`negative-prompt`](tags.md#tag-negative-prompt)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{ "task": "image_restoration_upscale", "positive_prompt":
-"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
-"negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
-{ "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
-"upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }
-```
-
-</details>
-
 <a id="gpt-image-claymation-social-profile-screen"></a>
 ### Claymation social profile screen with pastel clay decorations
 
@@ -120,95 +131,6 @@ GPT Image 2 · Edit · Source: [@miratechtool on X](https://x.com/miratechtool/s
 
 ```text
 Recreate the scene as a cozy claymation-style world made from soft modeling clay. Every object should have handmade textures, rounded shapes, fingerprints, and soft lighting like a stop-motion movie. Use warm pastel colors and a cute cinematic atmosphere.
-```
-
-</details>
-
-<a id="nano-banana-cozy-portrait-cartoon-cat-overlay"></a>
-### Cozy Portrait with Cartoon Cat Doodles
-
-<a href="https://x.com/Just_sharon7/status/2029006238101680432"><img src="../../previews/nano-banana-cozy-portrait-cartoon-cat-overlay.jpg" width="360"></a>
-
-A structured JSON prompt splits subject, props, environment, illustration effects and rendering. It pairs realistic textures with smooth vector style cartoon overlays and white doodle outlines.
-
-Nano Banana 2 · Edit · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2029006238101680432) · 246 likes on 2026-10-28
-
-[`cartoon-overlay`](tags.md#tag-cartoon-overlay) [`mixed-media`](tags.md#tag-mixed-media) [`cozy`](tags.md#tag-cozy) [`json-prompt`](tags.md#tag-json-prompt) [`cat`](tags.md#tag-cat)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{
-  "title": "Whimsical Cozy Portrait",
-  "input_image": "[UPLOAD YOUR IMAGE]",
-  "description": "Transform the uploaded image into a 64K DSLR-quality ultra-hyperrealistic cozy, whimsical mixed-media portrait combining realistic photography with playful cartoon illustrations.",
-  "subject": {
-    "person": {
-      "appearance": {
-        "hair": "blonde, loosely tied with soft strands framing the face",
-        "eyes": "light green",
-        "makeup": "natural",
-        "top": "dark grey layered over black long-sleeve shirt",
-        "expression": "resting cheek gently on one hand, dreamy and slightly tired",
-        "accessories": [
-          "black-and-pink cat ears",
-          "small cute hair clip"
-        ]
-      },
-      "pose": "sitting at a wooden table, holding a white ceramic mug in one hand"
-    },
-    "animated_elements": [
-      {
-        "type": "cartoon_cat",
-        "color": "bright orange",
-        "expression": "excited, curious",
-        "action": "climbing up her arm",
-        "features": "exaggerated big eyes, expressive paws"
-      },
-      {
-        "type": "cartoon_tail",
-        "color": "grey",
-        "position": "right side, partially out of frame"
-      }
-    ]
-  },
-  "props": {
-    "mug": {
-      "color": "white",
-      "illustration": "cute cartoon face with big expressive eyes and small mustache",
-      "drink": "pink foam bubbles rising from the top"
-    },
-    "dessert": {
-      "type": "chocolate cake",
-      "toppings": ["whipped cream", "sliced strawberries", "peach slice"]
-    }
-  },
-  "environment": {
-    "room": {
-      "walls": "beige textured",
-      "lighting": "soft daylight streaming through window with sheer white curtains",
-      "decor": "vintage framed photographs in casual gallery arrangement",
-      "atmosphere": "warm, cozy, intimate"
-    }
-  },
-  "illustration_effects": {
-    "style": [
-      "hand-drawn cartoon overlays",
-      "white doodle-style accents: bubbles, playful lines, sparkles, hand-drawn crown",
-      "soft white illustrated outlines around woman and objects"
-    ]
-  },
-  "composition": {
-    "aspect_ratio": ["1:1", "4:5 vertical"],
-    "depth_of_field": "shallow",
-    "mood": ["cozy", "cute", "whimsical", "soft", "playful", "warm"]
-  },
-  "rendering": {
-    "technique": ["Octane render", "Ultra-hyperrealistic", "Unreal Engine 5"],
-    "details": "ultra-detailed, high-resolution, soft natural lighting, warm tones, Instagram-worthy",
-    "texture_contrast": "realistic textures (skin, fabric, wood, wall) vs smooth vector-style illustrations"
-  }
-}
 ```
 
 </details>
@@ -244,21 +166,21 @@ two people making heart shape, one real one painted, fingertip connection point,
 
 </details>
 
-<a id="nano-banana-old-photo-restore-dslr-portrait"></a>
-### Cracked Old Photo Restored to Color Portrait
+<a id="gpt-image-minimi-tiny-figures-photo-world"></a>
+### Miniature 3D figures playing around a portrait
 
-<a href="https://x.com/doctorwasif/status/2030803471041954150"><img src="../../previews/nano-banana-old-photo-restore-dslr-portrait.jpg" width="360"></a>
+<a href="https://x.com/Zyrellix/status/2055486410749309438"><img src="../../previews/gpt-image-minimi-tiny-figures-photo-world.jpg" width="360"></a>
 
-Names a camera body (Canon EOS R6 II) as the quality target and asks for an upscaling look. It also tells the model to keep the exact facial features, so the restoration stays faithful to the original face.
+Lists concrete interactions for the tiny figures (sitting on the shoulder and bag, waving, copying the pose), which gives each one a role in the scene. It also says to keep the original photo intact with realistic shadows and depth, so the figures blend in and the photo does not get redrawn.
 
-Nano Banana 2 · Edit · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2030803471041954150) · 206 likes on 2026-10-28
+GPT Image 2 · Edit · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2055486410749309438) · 212 likes on 2026-10-28
 
-[`photo-restoration`](tags.md#tag-photo-restoration) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`upscale`](tags.md#tag-upscale) [`colorize`](tags.md#tag-colorize)
+[`minimi`](tags.md#tag-minimi) [`miniature`](tags.md#tag-miniature) [`photo-to-3d`](tags.md#tag-photo-to-3d) [`portrait`](tags.md#tag-portrait) [`chibi`](tags.md#tag-chibi)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......"
+Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”
 ```
 
 </details>
@@ -381,52 +303,6 @@ soft pastel accents with realistic base tones
 high-detail, polished 3D chibi look
 cute, modern Korean-inspired aesthetic
 Ensure the final result feels cohesive, light, and aesthetically pleasing without overwhelming the original image.
-```
-
-</details>
-
-<a id="nano-banana-old-photo-restoration-dslr-portrait"></a>
-### Damaged Old Photo Restored Into DSLR Portrait
-
-<a href="https://x.com/doctorwasif/status/2039935624799760434"><img src="../../previews/nano-banana-old-photo-restoration-dslr-portrait.jpg" width="360"></a>
-
-Naming a specific camera class (Canon EOS R6 II) sets the target photographic look, and the explicit instruction to preserve exact facial features keeps the restoration faithful. A short JSON wrapper with quality and style fields keeps the request easy to reuse.
-
-Nano Banana 2 · Edit · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2039935624799760434) · 157 likes on 2026-10-29
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`old-photo`](tags.md#tag-old-photo) [`dslr`](tags.md#tag-dslr) [`portrait`](tags.md#tag-portrait) [`json-prompt`](tags.md#tag-json-prompt)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{
-  "prompt": "Restore old photo into natural DSLR-quality portrait (Canon EOS R6 II level), high detail, accurate colors, sharp clarity, preserve exact facial features",
-  "quality": "high",
-  "style": "photorealistic"
-}
-```
-
-</details>
-
-<a id="nano-banana-damaged-photo-restoration-upscale"></a>
-### Damaged vintage family photo restored to sharp DSLR quality
-
-<a href="https://x.com/doctorwasif/status/2034638781857288239"><img src="../../previews/nano-banana-damaged-photo-restoration-upscale.jpg" width="360"></a>
-
-A JSON prompt that opens with an explicit preserve identity, facial structure and composition instruction, then adds photographic quality cues like Arri Alexa and HDR. A long negative prompt blocks style change, plastic skin and face reshaping, and low denoising strength keeps the original faces intact.
-
-Nano Banana 2 · Edit · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2034638781857288239) · 152 likes on 2026-10-29
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`upscale`](tags.md#tag-upscale) [`json-prompt`](tags.md#tag-json-prompt) [`negative-prompt`](tags.md#tag-negative-prompt) [`identity-preservation`](tags.md#tag-identity-preservation)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{ "task": "image_restoration_upscale", "positive_prompt":
-"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
-"negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
-{ "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
-"upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }
 ```
 
 </details>
@@ -563,35 +439,6 @@ Negative Prompt: helmet, sitting on bike, low quality, blurry face, cartoon, CGI
 
 </details>
 
-<a id="gpt-image-storyboard-panels-to-photographic-frames"></a>
-### Rooftop chase storyboard turned into photographic frames
-
-<a href="https://x.com/umesh_ai/status/2110761775067230600"><img src="../../previews/gpt-image-storyboard-panels-to-photographic-frames.jpg" width="360"></a>
-
-A single short instruction converts a six panel pencil storyboard to photography while locking composition, subject placement and camera angle, so the shot design survives the style change. Putting the two boards side by side makes the before and after easy to judge.
-
-GPT Image 2.5 · Edit · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2110761775067230600) · 68 likes on 2026-10-28
-
-[`storyboard`](tags.md#tag-storyboard) [`pencil-sketch`](tags.md#tag-pencil-sketch) [`photorealistic`](tags.md#tag-photorealistic) [`film-previs`](tags.md#tag-film-previs) [`layout-preservation`](tags.md#tag-layout-preservation)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Big news!
-
-Krea 3 is promising Nano Banana Pro/GPT Image 2.5  quality, 5x faster.
-
-Imagine turning storyboard images into photographic frames you could put in front of a director.
-
-The prompt I’d use: “Make every panel photographic. Preserve the composition, subject placement and camera angle.”
-
-Then put the two boards side by side.
-
-Some ideas become much harder to leave in a folder once you can see what they could look like.
-```
-
-</details>
-
 <a id="gpt-image-comic-book-walk-red-hoodie-portrait"></a>
 ### Woman Walking Across a Giant Open Comic
 
@@ -617,11 +464,11 @@ Negative prompt: changed identity, distorted face, deformed hands or feet, bad a
 </details>
 
 <a id="gpt-image-istanbul-alpine-castle-sunset-loop"></a>
-### Istanbul Mosque and Alpine Castle Sunset Loop
+### Istanbul Mosque Waterfront Sunset Travel Poster
 
 <a href="https://x.com/KrishnaBio1/status/2097716825668702388"><img src="../../previews/gpt-image-istanbul-alpine-castle-sunset-loop.jpg" width="360"></a>
 
-Sections for scene, lighting, animation, style and camera, plus a long negative list, keep two reference images blended into one believable place. Animation rules limit motion to the environment, lock the camera and require frame 16 to return to frame 1 for a seamless loop.
+Labeled sections for scene, lighting, style and camera, plus a long negative list, turn the reference images into a photoreal golden hour waterfront framed by a flowered café terrace. In this output the model kept only the Istanbul half of the references, rendered a single still frame and added a poster title despite the text ban.
 
 GPT Image 2.5 · Edit · Source: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2097716825668702388) · 43 likes on 2026-10-29
 
@@ -737,11 +584,11 @@ Use the original face from the reference photo. Background same as the photo. Wa
 </details>
 
 <a id="gpt-image-billboard-winter-evening"></a>
-### Same billboard, now on a snowy winter evening
+### Shampoo billboard edited into a snowy winter evening
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="../../previews/gpt-image-billboard-winter-evening.jpg" width="360"></a>
 
-The previous output goes back in with one short change. Narrow follow-ups show which change helped. Preview: the Sunburst variant.
+One short follow-up on the previous output changes only the season and time of day, and the model adds snow and lamplight to the ad itself and the street. Keeping each follow-up to a single change shows which edit did the work.
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
 
@@ -846,6 +693,25 @@ Using the provided reference image, transform the ordinary phone snapshot into a
 
 </details>
 
+<a id="gpt-image-geometry-locked-orange-spiral-render"></a>
+### Orange spiral sculpture studio render from geometry guide
+
+<a href="https://x.com/higgsfield/status/2097514650518831462"><img src="../../previews/gpt-image-geometry-locked-orange-spiral-render.jpg" width="360"></a>
+
+The prompt lists every geometric attribute to preserve (silhouette, coil count, handedness, pitch, pose, camera angle) and limits the edit to surface and lighting. A hex colour, a named light direction and a closing list of things to leave out keep the render clean.
+
+GPT Image 2.5 · Edit · Source: [@higgsfield on X](https://x.com/higgsfield/status/2097514650518831462) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`product-render`](tags.md#tag-product-render) [`geometry-guide`](tags.md#tag-geometry-guide) [`studio-lighting`](tags.md#tag-studio-lighting) [`3d-sculpture`](tags.md#tag-3d-sculpture) [`constraint-list`](tags.md#tag-constraint-list)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.
+```
+
+</details>
+
 <a id="gpt-image-japanese-film-garden-color-grade"></a>
 ### Japanese film color grade of a spring garden
 
@@ -884,31 +750,6 @@ Replace the spreadsheet with an automation workflow diagram. Do not change the d
 
 </details>
 
-<a id="gpt-image-lock-screen-wallpaper-ui-hijack"></a>
-### Lock screen wallpaper with person hijacking the clock
-
-<a href="https://x.com/sakisuta_/status/2099786676751225192"><img src="../../previews/gpt-image-lock-screen-wallpaper-ui-hijack.jpg" width="360"></a>
-
-The prompt takes a reference photo as the subject and asks the person to play with the empty zones where the clock, date, flashlight and camera icons and notifications will sit. It also bans rendered text and UI, so the effect only completes once the image is set as a real lock screen.
-
-GPT Image 2.5 · Edit · Source: [@sakisuta_ on X](https://x.com/sakisuta_/status/2099786676751225192)
-
-[`iphone`](tags.md#tag-iphone) [`lock-screen`](tags.md#tag-lock-screen) [`wallpaper`](tags.md#tag-wallpaper) [`reference-photo`](tags.md#tag-reference-photo) [`ui-interaction`](tags.md#tag-ui-interaction)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-参照画像の人物を主題に、iPhoneのロック画面用壁紙を作成してください。
-
-人物がロック画面を乗っ取って、好き勝手に遊んでいるようにしてください。
-iPhoneのロック画面のUI（時刻、日付、ライト・写真アイコン、通知）を大胆に活かした演出を加えること。
-
-ロック画面に設定すると演出が完成するようにしてください。
-文字やiPhoneのUI要素そのものは画像内に入れないでください。
-```
-
-</details>
-
 <a id="gpt-image-longjing-tea-infographic-upscale"></a>
 ### Longjing Tea Infographic Cleaned Upscale
 
@@ -939,11 +780,11 @@ Style: Elegant Chinese tea brochure design, cream-and-sage palette, refined mini
 </details>
 
 <a id="gpt-image-outfit-swap-keep-identity"></a>
-### Dress a person in three reference garments, identity unchanged
+### Dress a person in reference garments, identity unchanged
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"><img src="../../previews/gpt-image-outfit-swap-keep-identity.jpg" width="360"></a>
 
-Lists everything about the person that must stay fixed, then allows only the clothing to change and asks the lighting to match. The same pattern keeps a product recognizable. Preview: the Sunburst variant.
+Lists every trait of the person that must stay fixed, then lets only the clothing change. Asking for matched lighting, shadows and color temperature keeps the new outfit from looking pasted on.
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
 
@@ -960,11 +801,11 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
 
 <a id="gpt-image-person-into-campsite-scene"></a>
-### Put a person into a dusk campsite chase scene
+### Place a person fleeing a bear at a dusk campsite
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"><img src="../../previews/gpt-image-person-into-campsite-scene.jpg" width="360"></a>
 
-Describes pose, gaze, clothing, place and time of day, and keeps asking for an unstyled real photo instead of a movie poster look. Preview: the Sunburst variant.
+Spells out pose, gaze, torn clothing, place and dusk light, then asks again and again for an unstyled real photo with no cinematic grading. That keeps the action scene looking like a real snapshot instead of a movie poster.
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
 
@@ -1088,7 +929,7 @@ Using the provided reference image, enhance and restore it into an ultra-premium
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#combine-references"><img src="../../previews/gpt-image-place-dog-into-scene.jpg" width="360"></a>
 
-Images are named by number, with what moves, where it goes and what stays unchanged. Preview: the Sunburst variant.
+The prompt refers to each image by number and says what moves, where it goes and that everything else stays the same. Asking for matching lighting and composition helps the added dog blend into the scene.
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
 
@@ -1104,31 +945,12 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp)
 
-<a id="gpt-image-pro-instagram-pasta-photo-enhance"></a>
-### Phone pasta photo enhanced to Instagram quality
-
-<a href="https://x.com/dezainaz_ceo/status/2047172512551977162"><img src="../../previews/gpt-image-pro-instagram-pasta-photo-enhance.jpg" width="360"></a>
-
-One sentence gives the model a dual role, professional photographer plus designer, so it handles both color and light grading and the layout polish. It works on an uploaded casual phone photo and leaves the style choices to the model.
-
-GPT Image 2 · Edit · Source: [@dezainaz_ceo on X](https://x.com/dezainaz_ceo/status/2047172512551977162) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-[`photo-enhance`](tags.md#tag-photo-enhance) [`food`](tags.md#tag-food) [`instagram`](tags.md#tag-instagram) [`iphone-photo`](tags.md#tag-iphone-photo) [`retouch`](tags.md#tag-retouch)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Enhance this iPhone photo with ChatGPT so it looks like a professional photographer and designer worked on it.
-```
-
-</details>
-
 <a id="gpt-image-remove-object-from-hand"></a>
 ### Remove a flower from a man's hand
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"><img src="../../previews/gpt-image-remove-object-from-hand.jpg" width="360"></a>
 
-Names the one object to remove and says nothing else may change, which keeps the edit local without a mask. Preview: the Sunburst variant.
+Names the single object to remove and forbids any other change, so the model erases the flower and leaves the face, clothing and graffiti wall untouched without a mask.
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
 
@@ -1192,7 +1014,7 @@ Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"><img src="../../previews/gpt-image-swap-kitchen-chairs.jpg" width="360"></a>
 
-Writes ONLY in capitals for the one object to replace and lists what to preserve: camera angle, lighting, floor shadows and surrounding objects. Preview: the Sunburst variant.
+Writing ONLY in capitals locks the edit to the chairs, and listing what to preserve, from camera angle and lighting to floor shadows and surrounding objects, keeps the rest of the room untouched.
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
 
@@ -1216,7 +1038,7 @@ Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"><img src="../../previews/gpt-image-translate-infographic-spanish.jpg" width="360"></a>
 
-A one-line edit on the coffee machine infographic. Check the output for words left in the original language. Preview: the Sunburst variant.
+One instruction names the target language and a second locks every other aspect of the image, so the model rewrites only the text and keeps the layout, icons and numbering in place.
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
 

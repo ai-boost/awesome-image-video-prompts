@@ -1,7 +1,7 @@
 id: gpt-image-istanbul-alpine-castle-sunset-loop
 title:
-  en: Istanbul Mosque and Alpine Castle Sunset Loop
-  zh: 伊斯坦布尔清真寺与阿尔卑斯城堡日落循环
+  en: Istanbul Mosque Waterfront Sunset Travel Poster
+  zh: 伊斯坦布尔清真寺海滨日落旅行海报
 model: GPT Image 2.5
 mode: image-edit
 category: edit
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-29'
   posted: '2026-09-09'
 notes:
-  en: Sections for scene, lighting, animation, style and camera, plus a long negative list, keep two reference images blended into one believable place. Animation rules limit motion to the environment, lock the camera and require frame 16 to return to frame 1 for a seamless loop.
-  zh: 提示词按场景、光线、动画、风格、镜头分段,再配一长串负面词,让两张参考图融合成一个可信的地点。动画只允许环境微动,镜头锁定,并要求第16帧接回第1帧,形成无缝循环。
+  en: Labeled sections for scene, lighting, style and camera, plus a long negative list, turn the reference images into a photoreal golden hour waterfront framed by a flowered café terrace. In this output the model kept only the Istanbul half of the references, rendered a single still frame and added a poster title despite the text ban.
+  zh: 提示词把场景、光线、风格和镜头分段写清，再配一长串负面词，把参考图变成一幅写实的黄金时刻海滨景色，前景是开满鲜花的咖啡露台。这张输出只保留了参考图里伊斯坦布尔的部分，只生成了一张静帧，而且提示词禁止文字，画面上却加了海报标题。
 prompt: |
   Turn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop.
 

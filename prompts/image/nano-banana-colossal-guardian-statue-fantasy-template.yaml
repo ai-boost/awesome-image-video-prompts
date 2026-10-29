@@ -1,7 +1,7 @@
 id: nano-banana-colossal-guardian-statue-fantasy-template
 title:
-  en: Colossal Winged Guardian Statue Over Futuristic City
-  zh: 俯瞰未来都市的巨型有翼守护神雕像
+  en: Winged Marble Guardian Statue Above City Under Ringed Planet
+  zh: 环形行星下俯瞰城市的大理石天使守护者雕像
 model: Nano Banana 2
 mode: text-to-image
 category: illustration
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-06-18'
 notes:
-  en: A bracketed template fixes the subject, material, pedestal text, landscape and lighting as separate slots, so each part can be swapped without breaking the scene. Engraved base text, rim lighting and a distant background layer give the sense of scale.
-  zh: 方括号模板把主体、材质、基座文字、地貌和光线拆成独立槽位，可以单独替换而不破坏画面。基座刻字、轮廓光和远景层次共同营造出宏大的尺度感。
+  en: A bracketed template splits subject, material, pedestal text, landscape and lighting into separate slots, so each part can be swapped without breaking the scene. Engraved base text, rim lighting and a layered backdrop of city, mountains and sky build depth and scale.
+  zh: 方括号模板把主体、材质、底座文字、景观和光线拆成独立槽位，每部分都能替换而不破坏画面。底座刻字、轮廓光以及城市、山脉与天空的层次背景营造出纵深与尺度感。
 prompt: |
   A high-detail, cinematic fantasy photograph of a colossal [MYTHICAL FIGURE/DEITY/GUARDIAN] standing majestically in [EPIC LOCATION]. The gigantic statue is sculpted from [MATERIAL AND TEXTURE], featuring [PHYSICAL FEATURES, POSE, AND ACCESSORIES].
 

@@ -4,7 +4,7 @@ title:
   zh: 十乘十网格，展示以A开头的物品
 model: GPT Image 2
 mode: text-to-image
-category: collage
+category: infographic
 tags:
 - grid
 - alphabet

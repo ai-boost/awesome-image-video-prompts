@@ -26,6 +26,42 @@ Check ALTs for ideas 👇
 
 </details>
 
+<a id="gpt-image-architectural-specimen-card-survey-landmark"></a>
+### Great Wall Architectural Survey Specimen Card
+
+<a href="https://x.com/Naiknelofar788/status/2094626691234816034"><img src="../../previews/gpt-image-architectural-specimen-card-survey-landmark.jpg" width="360"></a>
+
+Starts from an uploaded photo and sets a clear hierarchy: a large monochrome ink drawing of the landmark, one small color photo fragment, and a contour map behind it. A restricted palette with a single accent color, a short list of small archival text items, and an explicit list of styles to avoid keep the card clean and museum like.
+
+GPT Image 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2094626691234816034) · 512 likes on 2026-10-28
+
+[`architecture`](tags.md#tag-architecture) [`specimen-card`](tags.md#tag-specimen-card) [`archival`](tags.md#tag-archival) [`topographic-map`](tags.md#tag-topographic-map) [`ink-drawing`](tags.md#tag-ink-drawing)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded photo as the primary reference. Create a sophisticated 4:3 landscape architectural specimen card inspired by museum archives, architectural surveys, and vintage scientific documentation.
+
+Keep the original location recognizable, but transform the presentation into a curated architectural study rather than a normal travel poster.
+
+* Place the main landmark as a large monochrome architectural cutout or finely detailed ink drawing.
+* Add a smaller original-color photographic fragment showing one distinctive detail of the location.
+* Include a simplified topographic contour map behind the architecture.
+* Add tiny numbered reference points, measurement marks, arrows, elevation lines, and architectural annotation symbols.
+* Use an aged cream paper background with subtle grain and imperfections.
+* Palette: black, warm beige, muted olive, and one restrained accent color extracted from the landmark.
+* Typography should be small, elegant, and archival: location name, country, year, No. 019, and 3 descriptive keywords.
+* Create subtle imperfections resembling screen printing, drafting ink, pencil marks, and old paper.
+* Keep generous negative space and a sophisticated museum-catalog aesthetic.
+
+Important: Avoid postcard layouts, circular stamps, tourist graphics, excessive text, cartoon styling, glossy effects, 3D rendering, and overly detailed illustrations.
+
+Overall mood:
+architectural archive × museum specimen × old survey document × contemporary editorial design.
+```
+
+</details>
+
 <a id="nano-banana-exploded-architecture-library-room"></a>
 ### Exploded 3D library room floating in void
 
@@ -231,6 +267,47 @@ Nano Banana 2 · Text-to-image · Source: [@craftian_keskin on X](https://x.com/
 
 </details>
 
+<a id="gpt-image-architectural-sketchbook-study"></a>
+### Colosseum architectural sketchbook study in pencil and watercolor
+
+<a href="https://x.com/Naiknelofar788/status/2099096963316957187"><img src="../../previews/gpt-image-architectural-sketchbook-study.jpg" width="360"></a>
+
+The prompt makes the drawing move from loose construction lines in the foreground to a finished inked and watercolor structure, so the image reads as a sketch in progress. Listed side studies (elevation, ornament detail, map outline, scale silhouette) and minimal handwritten labels fill the page, and the negative terms rule out photorealism and infographic boxes.
+
+GPT Image 2.5 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2099096963316957187) · 169 likes on 2026-10-28
+
+[`architecture`](tags.md#tag-architecture) [`sketchbook`](tags.md#tag-sketchbook) [`watercolor`](tags.md#tag-watercolor) [`pencil-drawing`](tags.md#tag-pencil-drawing) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a stunning 4:5 vertical fine-art sketch illustration of [STRUCTURE NAME] as if it is being drawn by a master architectural artist inside a luxury travel sketchbook.
+
+Show the famous structure transitioning from loose preliminary pencil lines into a fully detailed finished architectural drawing.
+
+The foreground should contain delicate construction lines, perspective guides, measurement marks, small handwritten architectural notes, compass marks, arrows, erased pencil strokes, and unfinished portions.
+
+As the eye moves toward the main structure, the sketch gradually becomes more refined — combining graphite pencil, fine black ink, subtle watercolor washes, cross-hatching, and delicate hand-drawn textures.
+
+Include small artistic studies around the main drawing: a tiny side elevation, architectural detail, window or ornament study, simplified map outline, and a small silhouette showing the scale of the structure.
+
+Use an elegant warm ivory sketchbook-paper background with natural paper fibers and subtle imperfections.
+
+Keep the composition sophisticated and spacious. The structure should remain the unmistakable hero.
+
+Add minimal handwritten-style labeling:
+
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+ARCHITECTURAL STUDY
+
+The artwork should feel like an original museum-quality architectural sketch discovered inside an explorer’s personal sketchbook — artistic, intellectual, nostalgic, detailed, and highly collectible.
+
+No photorealistic rendering, no 3D CGI, no modern infographic boxes, no excessive text, no watermark.
+```
+
+</details>
+
 <a id="nano-banana-city-soil-diorama"></a>
 ### London landmark diorama on a soil cross section
 
@@ -420,12 +497,80 @@ Aspect Ratio 4:5
 
 </details>
 
+<a id="gpt-image-landmark-architectural-master-sketch-poster"></a>
+### Statue of Liberty as an unfinished architectural ink sketch
+
+<a href="https://x.com/Goodmanprotocol/status/2106688617682788602"><img src="../../previews/gpt-image-landmark-architectural-master-sketch-poster.jpg" width="360"></a>
+
+The prompt sets one landmark against pure white negative space. It mixes precise ink linework with loose construction guides and allows only one accent color taken from the landmark's real materials. Bracketed placeholders for the location and landmark make it reusable for any building.
+
+GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2106688617682788602) · 98 likes on 2026-10-28
+
+[`architecture`](tags.md#tag-architecture) [`ink-sketch`](tags.md#tag-ink-sketch) [`landmark`](tags.md#tag-landmark) [`white-background`](tags.md#tag-white-background) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 2:3 vertical architectural poster for [COUNTRY / CITY / LOCATION / LANDMARK].
+
+TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / LANDMARK]. No reference image required.
+
+CORE CONCEPT
+Present [LANDMARK] as an expressive unfinished architectural master sketch, as if drawn by an architect exploring the building’s form, structure, and character. Keep the real architecture accurate — preserve its recognizable silhouette, proportions, façade rhythm, materials, and signature details. Do not redesign the landmark.
+
+COMPOSITION
+Show approximately 80–95% of the landmark from the most elegant and architecturally informative viewpoint for that specific building. Use a natural eye-level or gently elevated three-quarter perspective with realistic depth and restrained distortion.
+
+ONE LANDMARK ONLY. Let it dominate the composition while surrounding it with generous PURE WHITE negative space. No skyline or secondary landmarks.
+
+SKETCH STYLE
+Combine precise architectural ink drawing with loose unfinished concept-sketch elements:
+
+crisp black structural lines
+
+fine façade detailing
+
+varied line weights
+
+construction and perspective guides
+
+subtle drafting marks
+
+selective ink washes
+
+partially unfinished contours
+
+Some areas should be highly detailed while others naturally dissolve into loose exploratory lines and white space. It must feel genuinely hand-drawn, not like a 3D render with a sketch filter.
+
+DETAIL & COLOR
+Reveal authentic architectural elements such as structural connections, façade layers, openings, ornamentation, joints, and material textures. Never invent features that do not belong to the landmark.
+
+Use a PURE WHITE background with black and charcoal linework, plus ONE subtle accent color naturally derived from the landmark’s real materials.
+
+TYPOGRAPHY
+Optional small refined text in one corner:
+[DESTINATION]
+[LANDMARK]
+
+Keep typography minimal and secondary to the architecture.
+
+FINAL AESTHETIC
+Architectural master sketch × technical drawing × expressive ink work × restrained hand-painted wash × contemporary collectible art poster.
+
+Avoid fictional architecture, incorrect proportions, extreme perspectives, close-ups, surrounding cityscapes, multiple landmarks, beige/aged paper, gradients, excessive colors, glossy 3D rendering, oversized typography, logos, and watermarks.
+
+FORMAT
+2:3 vertical, single landmark, full architectural form clearly visible, generous white space, intricate linework, natural perspective, premium gallery-quality finish.
+```
+
+</details>
+
 <a id="nano-banana-tree-inspired-house-architecture-board"></a>
 ### Tree Inspired House Architecture Competition Board
 
 <a href="https://x.com/ShamsAmin56/status/2053128293537272235"><img src="../../previews/nano-banana-tree-inspired-house-architecture-board.jpg" width="360"></a>
 
-The prompt splits the sheet into named zones (elevation, axonometric, plans, material callouts) and sets a separate render quality, atmosphere and paper texture block for each. Naming style references and a restrained charcoal palette keeps the drafting lines and the photoreal render in one consistent board.
+The prompt maps every zone of the sheet, from elevations and axonometrics to plans and material callouts, then adds shared blocks for render quality, stormy atmosphere and charcoal paper texture. Named architect references and a restrained palette with amber highlights hold the drafting lines and photoreal renders together as one board.
 
 Nano Banana 2 · Text-to-image · Source: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2053128293537272235) · 96 likes on 2026-10-29
 
@@ -523,45 +668,6 @@ Lighting is cinematic and intentional: [LIGHTING STYLE: soft studio light, warm 
 Macro, hyper-detailed photography style with tilt-shift depth of field, ultra-realistic textures, and 8K resolution, creating a handcrafted architectural diorama look.
 
 Aspect Ratio 2:3
-```
-
-</details>
-
-<a id="gpt-image-giant-bed-golden-elevator-palace-bedroom"></a>
-### Giant Tufted Bed With Golden Glass Elevator
-
-<a href="https://x.com/Arzoo12sh/status/2100900339453149339"><img src="../../previews/gpt-image-giant-bed-golden-elevator-palace-bedroom.jpg" width="360"></a>
-
-The prompt sets the scale joke with a few anchors: an oversized tufted base, a slim ladder and a tiny woman in a glass elevator. Sunlight direction, a fixed cream and gold palette and a closing exclusion list keep the scene consistent.
-
-GPT Image 2.5 · Edit · Source: [@Arzoo12sh on X](https://x.com/Arzoo12sh/status/2100900339453149339) · 87 likes on 2026-10-28
-
-[`surreal`](tags.md#tag-surreal) [`luxury-bedroom`](tags.md#tag-luxury-bedroom) [`oversized-scale`](tags.md#tag-oversized-scale) [`golden-light`](tags.md#tag-golden-light) [`reference-scene`](tags.md#tag-reference-scene)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a cinematic ultra-realistic surreal luxury bedroom video based on the reference scene. The main environment is a gigantic royal bedroom containing an enormous elevated king-size bed that is dramatically oversized compared with a normal human. The bed should have a very thick cream-white upholstered base with deep elegant tufting, luxurious soft fabric, multiple layers of fluffy white duvets, huge pillows, realistic folds, wrinkles, and premium hotel-quality bedding.
-
-Begin with a slow cinematic camera movement through the luxurious palace bedroom. The camera gently moves forward and slightly upward, revealing the incredible scale of the enormous bed. Warm golden sunlight streams through the huge arched windows on the left side, producing soft volumetric light rays across the room and beautiful reflections on the polished marble floor.
-
-On the right side, show a transparent futuristic glass elevator with highly polished golden/brass framing. A young adult woman wearing an elegant long light-blue dress is standing inside the elevator. The elevator doors open smoothly and realistically. She steps out carefully and naturally, looking toward the enormous bed with a subtle expression of curiosity and wonder.
-
-The woman slowly walks toward the giant bed. Because the bed is extremely tall, she approaches a slim golden ladder leaning against its side. She carefully climbs the ladder one step at a time. Her dress moves naturally with every step, with realistic cloth physics and gentle fabric movement.
-
-As she reaches the top of the ladder, she steps onto the enormous soft mattress. Her feet slightly sink into the plush bedding, causing realistic compression and subtle movement in the duvet. She walks slowly across the huge white bed toward the oversized pillows. The camera follows her movement smoothly from a cinematic side angle.
-
-She then gently sits down on the enormous soft duvet and relaxes against the giant pillows. The bedding softly compresses under her weight, creating realistic wrinkles and subtle fabric movement. The warm sunlight illuminates her dress and the surrounding white bedding, producing a dreamy golden atmosphere.
-
-Include subtle environmental motion throughout the scene: curtains gently moving from a soft breeze, sunlight shifting naturally, tiny dust particles visible in the light rays, realistic reflections moving across the polished marble floor, and slight movement of the fluffy bedding.
-
-Use smooth professional cinematic camera motion, slow dolly shots, gentle camera push-ins, realistic perspective changes, shallow depth of field when appropriate, natural motion blur, physically accurate lighting, realistic shadows, global illumination, detailed reflections, realistic glass and metal materials, highly detailed fabric physics, and photorealistic human movement.
-
-The overall visual style should feel like a high-budget fantasy film combined with luxury architectural photography. Make the giant bed feel enormous and believable while maintaining realistic physics and scale. Keep the same cream, ivory, champagne, and warm golden color palette throughout the video.
-
-Vertical 9:16 composition, cinematic framing, ultra-realistic 4K/8K appearance, highly detailed textures, realistic skin and hair, natural facial expressions, realistic hands and feet, smooth body movement, stable camera, premium cinematic quality.
-
-No text, no subtitles, no logos, no watermark, no extra people, no duplicate woman, no distorted body, no deformed hands, no floating objects, no sudden scene changes, no flickering, no unnatural movements.
 ```
 
 </details>
@@ -702,25 +808,6 @@ GPT Image 2 · Text-to-image · Source: [@Iancu_ai on X](https://x.com/Iancu_ai/
 
 </details>
 
-<a id="gpt-image-alice-wonderland-fantasy-downtown-aerial"></a>
-### Whimsical fantasy city aerial view with card suit towers
-
-<a href="https://x.com/insmind_com/status/2062164999817326619"><img src="../../previews/gpt-image-alice-wonderland-fantasy-downtown-aerial.jpg" width="360"></a>
-
-Fixes the 16:9 aspect ratio and a high altitude aerial viewpoint first, then lists distinctive architectural motifs such as card suit towers, checkerboard plazas and keyholes. Mood words like whimsical and cinematic keep the dense city coherent.
-
-GPT Image 2 · Text-to-image · Source: [@insmind_com on X](https://x.com/insmind_com/status/2062164999817326619) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`aerial-view`](tags.md#tag-aerial-view) [`fantasy-city`](tags.md#tag-fantasy-city) [`whimsical`](tags.md#tag-whimsical) [`architecture`](tags.md#tag-architecture) [`16x9`](tags.md#tag-16x9)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a high-detail 16:9 aerial terrain image of an Alice in Wonderland-inspired fantasy downtown. The city should feel whimsical, cinematic, and architectural: card-suit towers, checkerboard plazas, keyhole
-```
-
-</details>
-
 <a id="gpt-image-atlas-miniature-city-diorama"></a>
 ### Miniature Moscow City Rising From Aged Atlas
 
@@ -816,29 +903,6 @@ GPT Image 2.5 · Text-to-image · Source: [@listudio on X](https://x.com/listudi
 
 ```text
 Create a 2:3 photoreal industrial tower viewed from below, its top outside the frame. Stack offset cobalt, orange-red, yellow, green and silver metal modules. Separate glossy painted panels from chrome frames. Show seams, hinges, maintenance stairs and two supported roller conveyors at different heights. Add a few vertical pipes. Leave clear blue sky on the right. Use hard sunlight and crisp shadows. No text, logos, watermarks, weathering, haze or floating parts.
-```
-
-</details>
-
-<a id="gpt-image-temple-of-heaven-exploded-view"></a>
-### Temple of Heaven Exploded Architecture Diagram
-
-<a href="https://x.com/TanShilong/status/2046524996013662380"><img src="../../previews/gpt-image-temple-of-heaven-exploded-view.jpg" width="360"></a>
-
-Asking for an exploded view with detailed annotations makes the model separate the building into labeled layers, from base to roof, with side panels for details. Naming a cultural style such as Chinese aesthetic sets the paper tone, ink illustration and calligraphy headings.
-
-GPT Image 2 · Text-to-image · Source: [@TanShilong on X](https://x.com/TanShilong/status/2046524996013662380) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`exploded-view`](tags.md#tag-exploded-view) [`architecture`](tags.md#tag-architecture) [`chinese-style`](tags.md#tag-chinese-style) [`annotated`](tags.md#tag-annotated) [`landmark`](tags.md#tag-landmark)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-[中文]
-生成一个天坛的建筑拆解图，有详细的说明，中式美学风格
-
-[English]
-Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
 ```
 
 </details>

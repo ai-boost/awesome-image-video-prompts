@@ -1,7 +1,7 @@
 id: gpt-image-restaurant-shaped-standee-template
 title:
   en: Die cut restaurant standee for summer drinks
-  zh: 夏日饮品餐饮异形立牌设计图
+  zh: 夏日饮品餐饮异形立牌
 model: GPT Image 2
 mode: text-to-image
 category: poster
@@ -19,8 +19,8 @@ source:
   posted: '2026-05-26'
   via: https://github.com/freestylefly/awesome-gpt-image-2
 notes:
-  en: A bracketed template with fields for brand, products, selling points and promotions, so it can be reused for any menu. It fixes a pure white background, a full irregular outline with a visible base, and a clear reading order from headline to main product to price.
-  zh: 用方括号字段模板填写品牌、产品、卖点和促销信息，可复用于任何菜单。它限定纯白背景、完整异形轮廓和可见底座，并规定从标题到主推产品再到价格的阅读层级。
+  en: A bracketed template with fields for brand, products, selling points and promotions, so it can be reused for any menu. It asks for an irregular cut outline with a visible base and a strict reading order from headline to main product to price.
+  zh: 用方括号模板预留品牌、产品、卖点和促销字段，可套用到任何菜单。它要求不规则异形轮廓和完整底座，并规定从主标题到主推产品再到价格的阅读顺序。
 prompt: |
   请生成一张高完成度的「餐饮异形展架 / 立牌」设计图，用于展示餐饮门店的新品推荐、招牌产品、套餐促销或品牌活动信息。
 

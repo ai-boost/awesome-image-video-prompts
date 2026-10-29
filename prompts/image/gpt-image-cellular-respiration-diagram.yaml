@@ -1,7 +1,7 @@
 id: gpt-image-cellular-respiration-diagram
 title:
   en: Cellular respiration diagram for a high school class
-  zh: 高中生物课用的细胞呼吸示意图
+  zh: 面向高中课堂的细胞呼吸示意图
 model: GPT Image 2.5
 mode: text-to-image
 category: infographic
@@ -15,8 +15,8 @@ source:
   credit: OpenAI
   captured: '2026-10-28'
 notes:
-  en: 'Written like a lesson brief: audience, title, required stages and every molecule to label, plus what to avoid. Use high quality for dense labels. Preview: the Sunburst variant.'
-  zh: 按教学设计来写：受众、标题、必须出现的阶段和每个要标注的分子，再写明要避免什么。标注密集时用 high 质量。预览图为 Sunburst 版本。
+  en: Written like a lesson brief that names the audience, the title, the three stages and every molecule to label, then lists what to avoid. The handout framing with a white background and simple icons keeps dense labels legible.
+  zh: 提示词像一份教学任务说明，写明受众、标题、三个阶段和每个需要标注的分子，并列出应避免的内容。白底讲义的定位配合简洁图标，让密集的标注依然清晰易读。
 prompt: |
   Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
 

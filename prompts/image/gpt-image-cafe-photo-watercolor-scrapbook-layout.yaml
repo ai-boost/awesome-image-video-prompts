@@ -1,10 +1,10 @@
 id: gpt-image-cafe-photo-watercolor-scrapbook-layout
 title:
   en: Cafe Photo Turned Into Watercolor Scrapbook Layout
-  zh: 咖啡馆照片变成水彩手账排版
+  zh: 咖啡馆照片变成水彩剪贴簿版式
 model: GPT Image 2.5
 mode: image-edit
-category: collage
+category: photo-to-art
 tags:
 - scrapbook
 - watercolor
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-28'
   posted: '2026-09-22'
 notes:
-  en: A strict identity lock on the face reference keeps the person consistent, while separate reference images carry only the outfit, pose and mood. The layout is specified as a list of paper, watercolor edge, cutout and caption area details, which gives the scrapbook finish with plenty of negative space.
-  zh: 用严格的面部身份锁定只让人脸参考控制人物，其余参考图只提供服装、姿势和氛围。版式用清单逐条写明纸张、水彩边缘、剪裁感和文字区，得到留白充足的手账成品。
+  en: 'The prompt lists the scrapbook finish one detail at a time: ivory paper texture, watercolor edges, an imperfect cutout and a small caption area. That turns a candid cafe shot into a hand painted vignette with plenty of negative space.'
+  zh: 提示词逐项列出剪贴簿效果的细节，包括象牙色纸张纹理、水彩边缘、略带瑕疵的剪裁和小块文字区，把随手拍的咖啡馆照片变成留白充足的手绘小景。
 prompt: |
   Use the uploaded face reference image ONLY as the identity reference for the woman.
 

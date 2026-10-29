@@ -1,7 +1,7 @@
 id: gpt-image-editorial-illustration-poster
 title:
-  en: Turn each photo into a quiet editorial illustration poster
-  zh: 每张照片变成一张安静的编辑插画海报
+  en: Split poster pairing a photo with its tiny paper sketch
+  zh: 上半原照下半极简手绘纸面插画的拼版海报
 model: GPT Image 2.5
 mode: image-edit
 category: photo-to-art
@@ -17,8 +17,8 @@ source:
   captured: '2026-10-27'
   posted: '2026-09-14'
 notes:
-  en: Opens by forbidding collages, one poster per photo, and closes with a row of mood words the result should feel like.
-  zh: 开头先禁止拼贴，一张照片一张海报；结尾一排情绪词定下成品气质。
+  en: Locks a strict half and half split, keeping the photo faithful on top and redrawing its key subject below as a small sketch on rough paper. The sketch takes up only 10 to 20 percent of the space, uses at most four colors pulled from the photo, and sits in wide negative space.
+  zh: 严格上下等分，上半忠实保留原照，下半把主体重绘成粗纸上的小幅手绘。主体只占百分之十到二十，配色限定为取自原照的四种以内，周围留出大片空白。
 prompt: |
   Create one independent high-end editorial poster for each uploaded photo. Do not combine multiple photos into a collage. Each photo must be processed and output as a separate poster.
 

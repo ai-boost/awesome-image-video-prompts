@@ -1,10 +1,10 @@
 id: gpt-image-onsen-town-photo-to-watercolor-travel-poster
 title:
-  en: Onsen Town Photo to Watercolor Travel Poster
-  zh: 温泉小镇照片渐变水彩旅行海报
+  en: Onsen Town Canal at Dusk in Photo and Watercolor
+  zh: 温泉小镇黄昏运河的照片与水彩对照
 model: GPT Image 2.5
 mode: text-to-image
-category: poster
+category: photo-to-art
 tags:
 - travel-poster
 - watercolor
@@ -19,8 +19,8 @@ source:
   captured: '2026-10-29'
   posted: '2026-10-03'
 notes:
-  en: Names two real locations and blends their moods into one scene. It splits the canvas so the upper part is photoreal and the lower part dissolves into watercolor on off-white paper, with exact handwritten caption lines at the bottom.
-  zh: 点名两个真实地点并把各自氛围融合成一个场景。画面上半部是照片级写实,下半部渐变为米白纸上的水彩,底部再给出确切的手写字幕文案。
+  en: A detailed description of one lantern lit onsen street, with a photoreal upper part and a watercolor lower part, leads the model to stack the same scene in both styles. A short handwritten caption on the off white paper margin gives it a travel poster finish.
+  zh: 提示词细致描写一条灯笼映照的温泉街，并要求上部写实、下部水彩，模型因此把同一场景用两种风格上下并置。米白纸边上的一行手写标题带来旅行海报的质感。
 prompt: |
   Create a cinematic, ultra-realistic travel editorial scene inspired by the uploaded references, blending the atmosphere of Kinosaki and Hakone, Japan into one cohesive composition. Show a peaceful traditional Japanese onsen town at evening, with narrow stone streets, elegant wooden ryokan buildings, dark tiled roofs, warm glowing paper lanterns, small traditional shops, noren curtains, and a quiet flowing canal lined with graceful willow trees. Add a misty mountain landscape in the background, with subtle steam rising from hot-spring vents and a calm, authentic Japanese atmosphere.
   Include a small group of naturally dressed travelers walking through the street, with realistic proportions and candid body language. Combine the warm lantern-lit nighttime mood of Kinosaki with the tranquil misty hot-spring atmosphere of Hakone. Use soft cinematic lighting, realistic textures, gentle reflections on the water, atmospheric depth, natural colors, and highly detailed architecture.
