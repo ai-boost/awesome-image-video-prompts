@@ -1,0 +1,29 @@
+id: h3-stuart-little-snowbell-friends
+title:
+  en: Stuart Little looks up in living room
+  zh: 斯图尔特小鼠在客厅仰望雪球猫
+model: MiniMax H3
+mode: text-to-video
+category: dialogue
+tags:
+- dialogue
+- 3d-animation
+- stereo-audio
+- character
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2084551020760433134
+  credit: Mr Das
+  likes: 40
+  captured: '2026-10-29'
+  posted: '2026-08-04'
+video: https://x.com/MrDasCreates/status/2084551020760433134
+notes:
+  en: The prompt names the character, setting, and camera move in one sentence, then quotes each line with its speaker and tone so the model can assign voices. The slow push-in and the native stereo dialogue tag set both framing and audio.
+  zh: 提示词先用一句话点明角色、场景和镜头运动，再把每句台词连同说话人和语气写在引号中，便于模型分配声音。缓慢推近的镜头和原生立体声对白标注，同时定下了画面与音频。
+prompt: |
+  The storytelling is what stands out.
+
+  Expressive performances, smooth animation, and movie-like visuals make this feel surprisingly authentic.
+
+  MiniMax H3 prompt: 15-second 3D animated scene from Stuart Little. Cute little mouse Stuart Little stands on the living room floor looking up at the big fluffy white cat Snowbell. Snowbell sits on the couch with a smug expression, tail twitching. Soft warm indoor lighting, detailed fur and fabric textures, classic Stuart Little movie animation style. Stuart says cheerfully “Hey Snowbell, want to be friends?” Snowbell replies in a sarcastic voice “Friends? You’re a mouse, I’m the real pet around here!” Camera slowly pushes in as Snowbell leans down closer to Stuart. Smooth animation, expressive faces, native stereo dialogue audio, 24fps, cinematic quality.

@@ -1,0 +1,29 @@
+id: seedance-desert-boot-canyon-reveal
+title:
+  en: Boot steps on cracked rock then reveals canyon
+  zh: 靴子踩上裂石后拉升展现沙漠峡谷
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- timed-segments
+- camera-move
+- desert
+- canyon
+source:
+  name: '@aibytekat on X'
+  url: https://x.com/aibytekat/status/2088653107832197230
+  credit: Katyayani Shukla
+  likes: 70
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/aibytekat/status/2088653107832197230
+notes:
+  en: 'Timed segments define a clear shot sequence: an extreme close shot of a boot, a fast upward whip that pulls back, then a wide reveal of the canyon. The explicit camera direction at each cut keeps the transition readable as one continuous take.'
+  zh: 用分段时间轴定义清晰的镜头顺序：靴子的极近景、快速上摇并拉远的运镜，最后是峡谷的全景揭示。每个转场处都写明摄像机动作，让切换读起来像一镜到底。
+prompt: |
+  0-10s: Extreme macro close-up. The camera is focused tight on a rugged, dirt-covered boot stepping heavily onto a cracked, red-rock surface. Slow-motion, sharp lighting, highly detailed textures.
+
+  10-20s: The camera abruptly whips upward and pulls backward rapidly, transitioning into a dynamic tracking shot.
+
+  20-30s: The shot reveals a massive, ancient desert canyon under a dramatic, cloudy sunset. The person is standing at the edge of an immense cliff. Epic cinematic scale, volumetric sunlight breaking through the clouds, breathtaking atmosphere.

@@ -1,0 +1,71 @@
+id: wan-elderly-moroccan-man-golden-hour-home-video
+title:
+  en: Elderly man by a village well at sunset
+  zh: 傍晚村庄水井旁的老人
+model: Wan 3.0
+mode: text-to-video
+category: vlog
+tags:
+- home-video
+- documentary
+- golden-hour
+- handheld
+- character-consistency
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2092549618500546628
+  credit: M-studioAi
+  likes: 59
+  captured: '2026-10-29'
+  posted: '2026-08-26'
+video: https://x.com/Strength04_X/status/2092549618500546628
+notes:
+  en: A timed beat sheet of short actions keeps the clip on one subject, while the camera brief spells out the imperfections (no stabilization, autofocus hunting the backlight, warm digital noise) so the result reads as a home recording rather than a film. The subject description is repeated in full, which helps the face and clothing stay consistent across shots.
+  zh: 按时间拆分的短动作分镜让画面始终围绕同一人物，镜头描述写明不要稳定器、自动对焦在逆光中反复调整、暖色数码噪点等瑕疵，使成片像家庭录像而不是电影。主体外观在提示中完整重复，有助于各段保持面部和服装一致。
+prompt: |
+  Wan 3.0 on
+  @openart_ai
+
+
+  Prompt b- Create a 30-second, 1080p ultra-realistic documentary-style personal home video showing an ordinary golden-hour evening in the life of an elderly Moroccan man. The footage should feel spontaneous, intimate, imperfect, and genuinely observed rather than performed.
+  MAIN SUBJECT
+  The same elderly man in his early 70s throughout the entire video.
+  Deeply sun-weathered skin, kind and weary eyes, short white beard, calm dignified expression.
+  He wears a light sand-colored djellaba, worn leather sandals, and a simple woven cap.
+  Keep his face, identity, body proportions, and clothing completely consistent from beginning to end.
+  LOCATION
+  A small desert-edge village during golden hour. Mudbrick houses, narrow sandy alleys, a few palm trees, a well, tethered goats, low stone benches, and long dramatic shadows from the low sun.
+  The village should feel authentic and lived-in. No crowds, tourist attractions, advertisements, or commercial branding.
+  CAMERA / VISUAL STYLE
+  Authentic casual personal-video footage from an older consumer digital camera, handheld by a grandchild walking nearby.
+  Natural camera shake, imperfect framing, autofocus adjusting to strong backlight, soft detail, mild motion blur, warm-toned digital noise, imperfect white balance, occasional lens flare from the low sun.
+  No stabilization, gimbal movement, drone shots, cinematic lighting, slow motion, or polished color grading.
+  00:00–00:05 — SITTING BY THE WELL
+  He sits on a low stone bench near the village well, resting both hands on a wooden cane.
+  He looks toward the setting sun, eyes narrowing slightly against the light.
+  He notices the camera and gives a slow, warm nod.
+  00:05–00:10 — WALKING THROUGH THE ALLEY
+  He rises slowly and walks through a narrow sandy alley, cane tapping the ground with each step.
+  The camera follows a few steps behind, dust faintly visible in the golden light.
+  00:10–00:14 — SMALL EVERYDAY MOMENT
+  He stops to pet a tethered goat, speaking softly to it, not clearly audible.
+  The goat nudges his hand and he chuckles quietly.
+  00:14–00:19 — GREETING A NEIGHBOR
+  He passes a younger man carrying firewood and exchanges a brief warm greeting, hands touching chest in respect.
+  The camera catches only part of the exchange before drifting slightly off-frame.
+  00:19–00:23 — WIND AND SAND
+  A gentle desert wind kicks up fine sand around his feet.
+  He shields his eyes briefly with one hand and continues walking, unbothered.
+  00:23–00:27 — QUIET MOMENT
+  He reaches a low wall overlooking the open desert and stops, watching the sun sink lower.
+  He turns partway toward the camera and gives a small, genuine smile.
+  00:27–00:30 — WALKING HOME
+  He turns and walks slowly back toward the village, cane tapping steadily.
+  The camera lingers on his figure against the golden horizon.
+  At approximately 00:29, the recording abruptly cuts to black mid-motion. No fade-out.
+  PHYSICAL REALISM
+  Maintain believable physics for the cane, sand, goat, fabric of the djellaba, and his footing throughout. No distorted anatomy, floating objects, or sudden transformations.
+  AUDIO
+  Natural environmental audio only: cane tapping, wind, distant goats, faint voices, sand shifting underfoot. No music, no narration, no artificial sound effects.
+  FINAL FEEL
+  Quiet, dignified, weathered, nostalgic, warm, and deeply human a forgotten personal recording of an ordinary golden-hour evening in the desert.

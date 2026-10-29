@@ -1,0 +1,29 @@
+id: h3-woman-moving-train-roof-city
+title:
+  en: Woman on moving train roof in city
+  zh: 城市列车车顶上的女子
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- urban
+- tracking-shot
+- shot-list
+- photorealistic
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2094284844792520881
+  credit: Calira
+  likes: 165
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+video: https://x.com/CaliraVal/status/2094284844792520881
+notes:
+  en: The prompt sets out an ordered shot list (behind tracking shot, low angle front shot, close up, aerial pull back) and fixes the outfit in the first sentence so the character stays consistent across cuts. Wind, fabric, motion blur and shallow depth of field terms set the physical look without asking for a specific mood.
+  zh: 提示词给出有顺序的分镜，依次为背后跟拍、低角度正面镜头、特写和航拍拉远，并在开头固定服装，让角色在切换镜头后保持一致。风、布料、运动模糊和浅景深等描述决定画面的物理质感，而不额外指定情绪。
+prompt: |
+  Cinematic photorealistic video of a stylish young woman standing on the roof of a modern moving train in a futuristic metropolitan city. She has long dark wavy hair and wears a fitted black leather jacket over a simple white top, relaxed dark blue jeans, and white sneakers.
+
+  The video begins with a smooth cinematic tracking shot from behind as the train moves through the city, with tall modern skyscrapers, glowing windows, and elevated railway tracks surrounding her. The camera then moves to a low-angle front shot as she walks naturally across the train roof, her hair and jacket gently flowing in the wind.
+
+  Add a close-up as she looks toward the camera with a calm, confident expression, followed by a wide aerial shot showing the entire moving train and massive city skyline. Natural body movement, realistic wind and fabric physics, detailed urban environment, realistic reflections, cinematic lighting, shallow depth of field, smooth camera transitions, subtle motion blur, photorealistic textures, premium cinematic look, 4K, 16:9.

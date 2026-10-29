@@ -1,0 +1,69 @@
+id: kling-retro-anime-witches-beetle-ride
+title:
+  en: Red Beetle drives three witches through rainy night
+  zh: 红色甲壳虫载着三位女巫穿过雨夜街道
+model: Kling 4.0
+mode: reference-to-video
+category: anime
+tags:
+- retro-anime
+- multi-shot
+- reference-images
+- audio-cues
+source:
+  name: '@ShamiWeb3 on X'
+  url: https://x.com/ShamiWeb3/status/2115663136086962217
+  credit: Shami
+  likes: 150
+  captured: '2026-10-29'
+  posted: '2026-10-29'
+video: https://x.com/ShamiWeb3/status/2115663136086962217
+notes:
+  en: Eleven numbered shots each pair a visual beat with an audio cue, and three reference images lock each witch's look across cuts. The style line names cel shading, ink outlines and film grain so the whole clip stays in one retro anime look.
+  zh: 全片十一个分镜，每个镜头同时写出画面和音效提示，并用三张参考图锁定每位女巫的造型，跨镜头保持一致。风格描述写明赛璐璐上色、黑色墨线和胶片颗粒，使整段保持同一种复古动画质感。
+prompt: |
+  A 30-second, 16:9 animated short in retro 80s/90s hand-drawn cel anime style, with bold black ink outlines, flat cel shading, soft gradient skies and subtle film grain. The palette is twilight blues and purples against warm amber window glow, with red and orange accents. The setting is a rain-slick old-town street at night with glowing street lamps. The mood is dark-comic and mischievous. Camera moves are smooth and cinematic, and the cuts are fast.
+  CHARACTERS (keep consistent in every shot, using the reference images)
+
+  Blonde witch (Image 3): platinum-blonde hair with bangs, blue eyes, round tinted glasses, a cream and gold satin dress. Her voice is cool, breathy and sarcastic.
+  Redhead witch (Image 1): wavy copper hair, freckles, green eyes, a green fur-trimmed coat. Her voice is low and scheming, with a wicked laugh.
+  Black-haired witch, the driver (Image 2): long black hair with blunt bangs, violet eyes, red lips, a silver choker, a black lace outfit. Her voice is husky and playful.
+
+  AUDIO
+  Music is a jazzy, mischievous retro score with upright bass, muted trumpet and vibraphone. It turns into a tense chase with drums and strings, then a soaring magical orchestral theme in the flight, and settles into a warm acoustic guitar and music box melody at the cabin. Ambience includes light rain, tires on wet cobblestone, crackling torches, wind and crickets. Dialogue is short and natural, with no narrator.
+
+  SHOT 1: The ride. Wide side view of a red vintage Beetle gliding down a wet night street. Cut inside to the three witches: the blonde adjusts her glasses, the redhead sits in the middle, the driver grips the wheel.
+  Audio: jazz groove fades in, rain and tire hiss. The blonde sighs, “Such a dull evening.”
+
+  SHOT 2: The spell. Through the windshield, a couple kisses under a lamppost. Close-up of the redhead’s envious glare as she flicks her fingers and pink magic sparkles swirl.
+  Audio: the music drops to a low string drone, then a harp glissando. She mutters, “Hmph... how sweet.”
+
+  SHOT 3: The pig prank. The woman’s head turns into a pig’s head and she screams while the man recoils. Cut back to the car, where all three witches burst into laughter.
+  Audio: a cartoon “pop,” a squeal, then a comic trombone slide and their wicked cackling. The man gasps, “What?!”
+
+  SHOT 4: The old lady. The Beetle stops at a crosswalk as an old woman with a basket crosses. Close-up of her smiling and tipping her scarf, then the driver leans out the window and sticks her tongue out.
+  Audio: a warm clarinet phrase and a cheeky slide whistle. The old woman says, “Bless you, girls!”
+
+  SHOT 5: The queue. Wide shot of the car parked outside a glowing grocery shop with a long line of people. The three witches strut past the crowd, heads high, and stand shoulder to shoulder in a low-angle shot.
+  Audio: a swaggering bassline with heel clicks and the crowd murmuring. The redhead says smoothly, “Excuse us.”
+
+  SHOT 6: The closed shop. Through the shop window, shelves of grocery bags glow warm while the crowd stares. Close-up of the door sign reading “CLOSED.” The witches then stand smiling with arms full of overflowing grocery bags.
+  Audio: a timpani hit as the sign swings, then a smug, triumphant jingle. The blonde purrs, “Fresh. Perfect.”
+
+  SHOT 7: The mob. An angry mob with torches and pitchforks charges down the street. The witches glance sideways, then run, the redhead wrapped in a glowing green magic aura.
+  Audio: the music cuts to a fast chase with war drums and stomping boots. The mob shouts, “Get them!” The redhead calls out, “Hold on to your bags!”
+
+  SHOT 8: Lift-off. The witches leap onto straw brooms in a burst of green sparks and rise above the shouting crowd.
+  Audio: a bright “whoomph,” a powerful whoosh, and the orchestra swelling into the flight theme.
+
+  SHOT 9: The flight. Aerial wide shot of the three witches flying over the glowing town toward purple mountains at dusk, ending on tiny silhouettes against the sky.
+  Audio: full orchestra with harp and choir pads, wind rushing, and the witches laughing with joy.
+
+  SHOT 10: The cabin. They land by a stone cabin and picnic table at golden sunset. The driver pours tea from a white teapot and the blonde sips with her eyes closed. Close-up of all three clinking their teacups together, and their eyes flash golden through their glasses.
+  Audio: the acoustic guitar theme enters with crickets, a pouring sound and a porcelain clink. They say together, “Cheers.”
+
+  SHOT 11: Final shot. Wide shot of the lone cabin on a hilltop as dusk turns into a starry night, then fade to black.
+  Audio: the music box melody slows and ends on a single chime as the sound fades out with the picture.
+
+  NEGATIVE PROMPT
+  Photorealism, 3D render, extra fingers, distorted faces, inconsistent hair or outfit colors, any non-English text or speech, watermark, blur, low quality, harsh audio, lip-sync errors, narrator voice-over.

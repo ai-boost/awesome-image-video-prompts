@@ -1,0 +1,37 @@
+id: h3-rem-desktop-icons-maid-mishap
+title:
+  en: Rem scoops fallen desktop icons back into place
+  zh: 蕾姆把掉落的桌面图标捡回原位
+model: MiniMax H3
+mode: image-to-video
+category: anime
+tags:
+- anime
+- desktop-animation
+- timed-beats
+- sound-design
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2100932191316557922
+  credit: Kiki
+  likes: 1806
+  captured: '2026-10-29'
+  posted: '2026-09-18'
+video: https://x.com/Mayz1169/status/2100932191316557922
+notes:
+  en: A reference image locked as the exact first frame, plus a second-by-second beat sheet, keeps the desktop layout and character fixed while the icons react to her skirt. Naming the only objects allowed to interact and banning camera moves and cuts stops the scene from drifting.
+  zh: 用参考图锁定为精确首帧，再配上逐秒分镜，让桌面布局和角色形象保持不变，同时图标随裙摆产生互动。明确只有左侧图标可以与角色和背景互动，并禁止镜头运动与切换，避免画面漂移。
+prompt: |
+  Use the reference image as the exact first frame. 16:9, locked-off camera, one continuous take. Preserve Rem’s face, short blue hair, black-and-white maid outfit, and original anime art style consistently throughout. Keep the desktop layout and Japanese menu bar unchanged.
+
+  0–2s: Rem stands on the right, happily swaying gently from side to side while lifting the edges of her skirt slightly with both hands. As she turns, the hem accidentally catches the blue-purple desktop background. The background reacts like a soft fabric curtain, sending a horizontal ripple across the screen. The two folders and one screenshot icon on the left wobble, slide downward, fall to the bottom edge of the screen, and make a small playful bounce on impact.
+
+  2–3s: Rem immediately freezes. Her eyes widen and she quickly covers her mouth with both hands, staring in surprise at the fallen icons.
+
+  3–6s: She hurriedly leans toward the left and reaches out with both hands. She scoops up all three icons together and quickly pushes them back toward their original positions on the left. The icons behave like thin, lightweight magnetic tiles, snapping back onto the desktop surface. Two of them end up slightly crooked. Rem has no time to straighten them and quickly pulls her hands back.
+
+  6–8s: Rem returns to her original position on the right, folds her hands neatly in front of her, and tries to put on an innocent, nothing-happened smile. Her eyes secretly glance toward the two crooked icons on the left. The tips of her hair, hair ribbon, and skirt hem move gently in a light breeze. The desktop background settles completely, while the two icons remain slightly tilted for a subtle comedic ending.
+
+  The background music begins with a light, cute Japanese-style piano melody. When the icons fall, add a short descending slide sound and light impact sounds, then shift into a playful pizzicato rhythm.
+
+  Keep all movement fluid and expressions lively. Only the three desktop icons on the left may physically interact with Rem or the background. The top menu bar and bottom Dock must remain completely fixed. Preserve the original icon designs, filenames, and text exactly. No new characters. No camera movement, zoom, cuts, or transitions.

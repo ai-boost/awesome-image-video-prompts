@@ -1,0 +1,27 @@
+id: wan-ghost-carousel-focus-shift
+title:
+  en: Focus shifts from woman to carousel in fog
+  zh: 焦点从女子移向雾中旋转木马
+model: Wan 3.0
+mode: image-to-video
+category: cinematic
+tags:
+- focus-pull
+- timed-beats
+- locked-off-camera
+- fog
+source:
+  name: '@ai_artworkgen on X'
+  url: https://x.com/ai_artworkgen/status/2114100423426818378
+  credit: Marco
+  likes: 28
+  captured: '2026-10-29'
+  posted: '2026-10-24'
+video: https://x.com/ai_artworkgen/status/2114100423426818378
+notes:
+  en: Timed beats for 0 to 2s, 2 to 4s and 4 to 5s script a focus pull from the subject to the carousel and back, while the locked-off camera and shallow depth keep the frame still. Naming the fog, mist and warm bulb glow keeps the lighting consistent with the start frame.
+  zh: 按时间段（0到2秒、2到4秒、4到5秒）编排焦点从人物转到雾中木马再转回人物，固定机位和浅景深让画面保持稳定。提示词写明雾气、薄雾和暖色灯光，使光线与首帧保持一致。
+prompt: |
+  My pick of the six, the carousel waking up in the fog. Ghost Carousel Focus Shift (Kling 4.0):
+
+  0-2s: hold on her face as she stares past the lens. 2-4s: focus pulls off her and onto the carousel behind her, which shudders and slowly begins to turn in the fog, its canopy bulbs flickering on one by one. 4-5s: focus snaps back to her as she turns her head toward the sound, eyes wide. Locked-off camera, shallow depth, cool mist, faint warm bulb glow.

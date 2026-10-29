@@ -1,0 +1,33 @@
+id: h3-sequin-backstage-selfie-vlog-hallway
+title:
+  en: Woman in sequin top filming backstage selfie vlog
+  zh: 身着亮片上衣的女孩后台自拍vlog
+model: MiniMax H3
+mode: text-to-video
+category: vlog
+tags:
+- selfie-vlog
+- handheld
+- dialogue
+- shot-list
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2105132975641735258
+  credit: Zyrella
+  likes: 149
+  captured: '2026-10-29'
+  posted: '2026-09-30'
+video: https://x.com/Zyrellix/status/2105132975641735258
+notes:
+  en: A timestamped shot list with quoted dialogue for each beat gives the model a clear sequence and lines to match the mouth movement. The handheld selfie framing and the cut from the hallway to the dressing room keep the vlog feel and the same character across shots.
+  zh: 每个节拍都有带时间戳的分镜和引号内的台词，让模型有清晰的顺序并能对上口型。手持自拍取景以及从走廊切到化妆间的镜头，保持了vlog质感和人物在各镜头间的一致性。
+prompt: |
+  A glamorous young East Asian woman with long dark wavy hair, dewy glowing skin, winged eyeliner, glossy pink-red lips, and large sparkling teardrop crystal earrings. She wears a nude sheer mesh long-sleeve top densely covered in small silver rhinestones over a tight silver sequin bandeau crop top. Later she is seen in the full look: the same top plus a short black tulle tutu skirt and sparkly silver heels. Handheld selfie-style vlog, energetic, laughing, talking to camera.
+  0–2s: Tight smiling close-up in a backstage hallway. She laughs and says “Hey guys, we’re backstage right now.” Camera slightly moves, revealing wooden doors and a long corridor.
+  2–4s: She turns, showing the long institutional hallway with wooden handrails, fluorescent lights, people in the distance, and glowing red and green EXIT signs. She says “Look how long this hallway is.”
+  4–6s: Close-up of a rectangular brushed stainless-steel wall plaque engraved “ZYRELLIX”. Her manicured finger with long nude-pink nails points at the letters. She says “That’s me. That’s my name. Here.”
+  6–7s: Full-body shot of her walking confidently down the center of the long empty hallway toward camera, black tulle skirt bouncing, smiling.
+  7–9s: She stands in a brightly lit dressing-room vanity with tall vertical LED light strips and a large mirror. In front of her is a stainless chafing dish filled with colorful candy packets. She adjusts her sequin top, puts hands on hips, smiles big and says “Okay, outfit check. How do I look?”
+  9–11s: Back in the hallway, she holds a bright pink/yellow candy packet (like Skittles or similar), opens it, takes a piece, eats it, looks at camera and says “Snack table. Don’t mind if I do.”
+  11–14s: She suddenly looks to the side, points with her finger, eyes widen, and says “Wait, wait, wait. That’s my cue. See you guys after the stage.” Then she turns and runs away down the long hallway, long hair swinging.
+  Cinematic but casual concert-backstage vlog look, bright even lighting, sparkling fabrics, warm skin tones, slightly handheld camera. No extra text, no watermark, 15 seconds.

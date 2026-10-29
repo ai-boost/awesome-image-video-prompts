@@ -1,0 +1,37 @@
+id: h3-leather-jacket-ad-timed-scenes
+title:
+  en: Woman in black leather jacket urban ad
+  zh: 黑色皮夹克女子的都市时尚广告
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- fashion-ad
+- multi-shot
+- timed-scenes
+- voiceover
+source:
+  name: '@juliaevee on X'
+  url: https://x.com/juliaevee/status/2114578188139434224
+  credit: Julia
+  likes: 48
+  captured: '2026-10-29'
+  posted: '2026-10-26'
+video: https://x.com/juliaevee/status/2114578188139434224
+notes:
+  en: Timed scene beats (0 to 2 seconds, 2 to 4 seconds and so on) let the model pace a ten-second commercial in one pass. Naming the exact garment details such as the asymmetric zipper, silver buttons and stitching keeps the jacket consistent in the close-ups.
+  zh: 按时间段拆分的四个镜头加上一句旁白，让模型在一次生成中完成十秒广告的节奏。明确写出夹克细节（不对称拉链、银色纽扣、缝线），使特写镜头中的夹克保持一致。
+prompt: |
+  Cinematic Leather Jacket Ad | 10 Seconds | 16:9
+
+  Scene 1 (0–2s): A beautiful 25-year-old woman confidently enters a stylish urban setting wearing the exact black leather biker jacket. Cinematic tracking shot, dramatic lighting.
+
+  Scene 2 (2–4s): Close-up of the jacket’s leather texture, asymmetrical zipper, silver buttons, and detailed stitching. Smooth cinematic camera movement.
+
+  Scene 3 (4–7s): Medium and side-angle shots as she adjusts the collar, zips the jacket, and walks confidently. Premium fashion-commercial look.
+
+  Scene 4 (7–10s): Slow-motion hero shot as she turns toward the camera with a confident smile. Dramatic final pose, premium lighting, and subtle cinematic music.
+
+  Voiceover: “Bold style. Timeless attitude. Make every moment iconic.”
+
+  Negative Prompt: No changes to the original jacket design, color, zippers, buttons, or fit. No glitches, distorted anatomy, unrealistic motion, watermark, or cartoon/2D/3D animation. Photorealistic live-action only.

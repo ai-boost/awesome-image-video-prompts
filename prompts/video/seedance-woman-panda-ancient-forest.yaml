@@ -1,0 +1,37 @@
+id: seedance-woman-panda-ancient-forest
+title:
+  en: Woman strokes giant panda in misty ancient forest
+  zh: 女子在雾气弥漫的古老森林中抚摸大熊猫
+model: Seedance 2.5
+mode: text-to-video
+category: nature
+tags:
+- photorealism
+- timed-shots
+- animal-interaction
+- forest
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2088501362774393100
+  credit: Sarah
+  likes: 259
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/SyntheSarah/status/2088501362774393100
+notes:
+  en: Timed beats (0 to 4 seconds, 4 to 8, 8 to 12, 12 to 15) lay out the shots in order, and the closing block of realism terms sets the camera and grade. Naming the period and banning modern elements keeps the historical look consistent.
+  zh: 按时间段（0到4秒、4到8秒、8到12秒、12到15秒）依次排列镜头，结尾的写实词组（自然日光、手持、纪实风格、无CGI质感）统一画面与色调。开头点明年代并禁止现代元素，保证古风设定前后一致。
+prompt: |
+  15-second ultra-photorealistic cinematic video set in a completely untouched ancient forest inspired by the year 1200 AD or earlier. A beautiful young woman is the main character, wearing a simple historically inspired medieval linen dress in earthy natural tones, with long slightly messy hair and no modern accessories or makeup. She is peacefully playing with a large realistic giant panda deep inside the ancient forest.
+
+  The forest feels completely natural and untouched: enormous centuries-old trees, thick moss, wild ferns, hanging vines, small streams, soft mist, fallen leaves, natural rocks and subtle morning sunlight filtering through the dense canopy. No buildings, roads, modern objects or artificial elements.
+
+  0–4 sec: Wide cinematic shot as the woman walks slowly through the misty forest and notices the panda sitting near an old moss-covered tree. The panda looks at her naturally and curiously.
+
+  4–8 sec: Medium handheld shot as she gently approaches and sits beside the panda. She smiles naturally and carefully strokes its thick fur. The panda responds playfully, moving closer to her.
+
+  8–12 sec: Close-up of the woman's genuine expression and the panda's highly detailed face and fur. Natural breathing, blinking, subtle facial movements, realistic hair movement from the forest breeze.
+
+  12–15 sec: Cinematic wide shot as the woman and panda playfully walk deeper into the ancient forest together while sunlight breaks through the trees and mist floats around them.
+
+  Extremely realistic human anatomy, realistic skin texture, individual hair strands, physically accurate panda fur, natural animal behavior, realistic cloth physics, subtle environmental movement, authentic atmospheric perspective, natural daylight, soft volumetric light, realistic shadows, cinematic depth of field, slight handheld camera movement, documentary-style realism, shot on a high-end cinema camera, 4K detail, natural color grading, no fantasy look, no CGI appearance, no artificial beauty filter, no modern elements, no text, no watermark.

@@ -1,0 +1,35 @@
+id: h3-neon-pulse-anime-mv-opening
+title:
+  en: Neon Pulse title over anime silhouette and HUD
+  zh: 霓虹脉冲片名配动漫剪影与HUD界面
+model: MiniMax H3
+mode: text-to-video
+category: music-dance
+tags:
+- mv-opening
+- cyber-pop
+- hud-graphics
+- beat-synced
+- title-sequence
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2090773583668621325
+  credit: Gilbert Odera | Your AI Plug
+  likes: 127
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+video: https://x.com/yourPlugAI/status/2090773583668621325
+notes:
+  en: Beat cues are written as timestamps (heavy drop at 3 seconds, arpeggios at 7, melody at 11), and each transition type is named, so the cuts follow the music. Banning fades and dissolves keeps every change sharp.
+  zh: 提示词用时间点标注节拍（3秒重拍、7秒琶音、11秒主旋律），并逐一指定转场类型，让切换跟着音乐走。明令禁止淡入淡出和溶解，使每次切换保持干脆。
+prompt: |
+  Generate a 15-second hyper-pop cyber-anime MV opening. Refer to the visual language of these reference images: neon pastel cyberpunk, glowing holographic overlays, futuristic UI HUD elements, high-contrast Y2K digital graphic design, floating liquid-metal typography, speed lines, and bright cyan-magenta-violet gradient color schemes, set to a high-tempo J-pop synthwave rhythm.
+
+  The tone should be 80% energetic cyber-pop and 20% futuristic intrigue: colorful, fast-paced, stylish, and futuristic, without dark horror or gloomy tones. Make it feel like an ultra-modern animated music video intro: glowing laser frames expand first, digital interface grids snap open, and holographic anime character silhouettes, glowing cyber-deck props, and bold floating English credits reveal in precise sync with the upbeat tempo.
+
+  English credits and title text must be clear, crisp, and stylishly designed. No random characters or misspellings. Each credit and job title must appear only once.
+
+  Use dynamic digital transitions: chromatic aberration glitches, prism light leaks, rapid frame flashes, pixel-sorting wipes, spatial zoom-cuts, and panel-slide reveals. Keep all transitions razor-sharp and beat-driven. No slow blurs or fading dissolves.
+  BGM: original 15-second high-energy cyber-pop instrumental, 160 BPM upbeat synthwave rhythm.
+
+  Features crisp electronic clap-snares, bright arpeggiated synth leads, bouncing sub-bass line, and glowing vocal chops. Build anticipation in the first 2 seconds, drop a heavy synth-bass beat at 3 seconds, introduce bright arpeggios at 7 seconds, hit a high-octane synth melody at 11 seconds, and finish on an echoing synth stab with a shimmering reverb tail.

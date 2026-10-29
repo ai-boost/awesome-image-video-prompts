@@ -1,0 +1,31 @@
+id: h3-pepsi-desert-convertible-commercial
+title:
+  en: Boots walk past vintage convertible at desert station
+  zh: 靴子女子走过沙漠加油站的复古敞篷车
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- commercial
+- golden-hour
+- desert
+- product-shot
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2091012158280917271
+  credit: Calira
+  likes: 199
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+video: https://x.com/CaliraVal/status/2091012158280917271
+notes:
+  en: Splits the spot into ordered shot beats, each with its own camera angle, then closes with a style block of lens, lighting and grain terms. Naming the logo and the chilled bottle keeps the product readable in the hero shot.
+  zh: 将广告拆成有先后顺序的镜头段落，每段都写明机位，最后用一段风格描述统一镜头、光线和颗粒感。明确写出 Pepsi 标志和冰瓶，让产品在特写中保持清晰。
+prompt: |
+  Create a 15-second cinematic Pepsi commercial-style video set on an empty desert highway during golden hour. A stylish young woman in a western-inspired outfit and cowboy boots walks toward a classic white vintage convertible parked beside a remote gas station. Show dramatic low-angle shots of her boots, the car’s chrome wheels, and her confident walk.
+
+  Cut to an extreme close-up of her face, wind blowing through her hair, with warm sunlight and a confident expression. Show a chilled Pepsi glass bottle glowing in the sunset light, covered in realistic condensation, with the Pepsi logo clearly visible.
+
+  Then show the woman sitting in the convertible while holding the Pepsi bottle as her scarf flows dramatically in the wind. Finish with a wide cinematic aerial shot of the vintage car speeding down the long empty desert road toward the setting sun, leaving a subtle trail of dust.
+
+  Style: photorealistic, premium Pepsi commercial, cinematic storytelling, warm golden-hour lighting, anamorphic lens, shallow depth of field, realistic skin and fabric, smooth camera movements, dramatic close-ups, rich contrast, subtle film grain, 4K, high-end advertising aesthetic, 9:16 vertical.

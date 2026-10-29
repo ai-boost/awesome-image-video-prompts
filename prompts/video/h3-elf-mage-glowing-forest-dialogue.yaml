@@ -1,0 +1,42 @@
+id: h3-elf-mage-glowing-forest-dialogue
+title:
+  en: Elf mage and companion stand in glowing forest
+  zh: 精灵法师与同伴站在发光的森林中
+model: MiniMax H3
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- fantasy
+- dialogue
+- reference-image
+- character-consistency
+source:
+  name: '@I_Muhammadali44 on X'
+  url: https://x.com/I_Muhammadali44/status/2093002302135402979
+  credit: Muhammad Ali
+  likes: 46
+  captured: '2026-10-29'
+  posted: '2026-08-27'
+video: https://x.com/I_Muhammadali44/status/2093002302135402979
+notes:
+  en: A character sheet is passed as the exact reference and the prompt lists the traits that must stay fixed, which holds the design steady across the clip. Timed beats such as a stop at 8 seconds, plus a single continuous shot instruction and a push-in finish, give the scene a clear arc.
+  zh: 提示词先指定角色设定图作为精确参考，并列出必须保持不变的特征，从而稳定整段角色外观。再用第8秒的定时节拍（停步、法杖发光）以及只用一个连续镜头、结尾推近的指令，让场景有清晰的起承转合。
+prompt: |
+  “Use the uploaded character sheet as the exact character reference. Keep the elf mage’s face, lavender twin-tail hair, green eyes, pointed ears, white-and-gold robe, boots, staff, proportions, and anime style completely consistent.
+
+  Create a 15-second anime fantasy scene in one continuous unbroken shot. The elf mage walks through a glowing ancient forest while holding her red-and-gold staff. The camera smoothly tracks backward in front of her. A second young male mage walks beside her.
+
+  Dialogue with natural lip-sync:
+
+  Male Mage: “Are you sure this is the right path?”
+
+  Elf Mage: “No… but the magic is calling me.”
+
+  At 8 seconds, the elf suddenly stops. Her staff begins glowing intensely, and magical particles swirl around both characters. The male mage looks shocked while she calmly looks toward a mysterious glowing structure deeper in the forest.
+
+  Elf Mage: “We’re close.”
+
+  End with the camera slowly pushing toward her determined face as the magical light becomes brighter. Natural facial expressions, subtle body movement, flowing hair and clothing, cinematic anime lighting, detailed magical particles, atmospheric fantasy environment. One continuous shot, no cuts, no scene transitions.”
+
+  Would you watch a full episode in this style?

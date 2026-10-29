@@ -1,0 +1,28 @@
+id: wan-land-speed-car-mach-1-desert
+title:
+  en: Futuristic land speed car chasing Mach 1 at dawn
+  zh: 未来概念赛车黎明沙漠中冲击马赫1
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- land-speed
+- vehicle
+- sonic-boom
+- desert
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2093509473277006226
+  credit: Alexandra Aisling
+  likes: 40
+  captured: '2026-10-29'
+  posted: '2026-08-28'
+video: https://x.com/AllaAisling/status/2093509473277006226
+notes:
+  en: Numeric speed markers (200 mph, 400 mph, 700 mph) set the escalation beat by beat, and the prompt alternates wide aerial shots with wheel-level close-ups to sell scale. Events are listed in strict order so the model keeps one continuous shot sequence.
+  zh: 用时间点式的速度数字（200、400、700 mph）逐段推进紧张感，并在广角航拍与轮胎高度的近景之间切换来表现规模。事件按严格顺序列出，使模型保持连续的镜头序列。
+prompt: |
+  A futuristic experimental racing vehicle attempts to become the first ground vehicle to maintain Mach 1 across open terrain. Dawn. Engines ignite. The camera follows close behind as the vehicle accelerates across a vast desert. 200 mph. 400 mph. 600 mph. The landscape becomes a blur. Shockwaves begin forming around the body. Warning messages appear throughout the cockpit. The vehicle starts lifting slightly from the ground. Control surfaces struggle to stabilize it. The camera alternates between wide aerial shots and terrifyingly close wheel-level views. 700 mph. 750 mph. Small components begin tearing away from the chassis. The driver refuses to slow down. Mountains ahead approach far too quickly. The speed reaches the critical threshold. A massive sonic boom erupts across the desert. The vehicle becomes unstable. It drifts sideways at incredible speed. The driver fights for control. For several seconds disaster seems inevitable. Then the vehicle stabilizes and continues accelerating. Final shot: the machine races beyond the horizon while the sonic shockwave rolls across the desert behind it. Ultra-realistic cinematic speed record attempt, realistic aerodynamics, overwhelming speed sensation, shockwaves, intense tension, detailed cockpit, IMAX quality, dramatic scale.
+
+  Made with Wan 3.0 in
+  @openart_ai

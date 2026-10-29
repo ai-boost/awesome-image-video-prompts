@@ -1,0 +1,42 @@
+id: h3-lotus-pond-upward-pan-tree-canopy
+title:
+  en: Upward view of lotus pond beneath tree canopy
+  zh: 仰视荷花池与树冠，镜头缓缓右移
+model: MiniMax H3
+mode: image-to-video
+category: nature
+tags:
+- lotus
+- botanical
+- camera-pan
+- sunlight
+source:
+  name: '@GeekCatX on X'
+  url: https://x.com/GeekCatX/status/2096937966434459885
+  credit: 知识猫AI实验室
+  likes: 87
+  captured: '2026-10-29'
+  posted: '2026-08-19'
+video: https://x.com/GeekCatX/status/2096937966434459885
+notes:
+  en: The reference image fixes the low upward framing and palette, and the prompt holds the shot nearly still for six seconds before a slow, even pan right. Plant movement is described apart from the camera move, so leaves and flowers keep swaying while the view travels.
+  zh: 参考图锁定仰视构图与配色，提示词先写约六秒的近乎静止，再接缓慢匀速的右移镜头。植物摆动与镜头运动分开描述，让叶片和花朵持续微动，同时视角平稳移动。
+prompt: |
+  参考图片：
+  Vertical 40:71 composition, approximately 9:16, filling the frame. An extremely low, wide-angle view from among slender green lotus stems, looking upward beneath the leaves toward a branching tree canopy and clear cyan-blue sky. Large round lotus leaves have gently rippled edges, sharply visible radial veins and translucent yellow-green undersides. The closest leaf is cropped across the upper-left corner; prominent leaves occupy the middle-left and middle-right. An open pink lotus is seen from below at mid-left, with two prominent open pink blossoms at lower-right and smaller flowers among layered leaves below. The petals grade from pale pink to rose, with warm yellow-orange tones underneath. A thick, dark, rough-barked tree trunk rises from the lower-right toward the center, dividing into twisting branches and fine green foliage overhead. Bright overhead daylight backlights the leaves, with a small white sun highlight near the foliage. Deep green shadows, vivid lime and emerald foliage, pink flowers and saturated blue sky. Photographic botanical detail, with readable textures in both foreground leaves and distant branches. No lettering, overlays or borders.
+
+  图生视频提示
+
+  Use the reference image as the initial visual state.
+
+  Preserve the low upward viewpoint, lotus leaf and flower shapes, slender stems, rough tree bark, detailed foliage, vivid green-pink-blue palette and bright daylight backlighting.
+
+  For roughly the first six seconds, hold the composition almost still with only minimal smooth drift.
+
+  Then gradually pan the view to the right at a slow, even pace, so the main trunk and background branches slide toward the left edge and more lotus flowers and leaves enter from the right. Keep looking upward throughout.
+
+  The large leaves gently tilt back and forth, their rims fluttering subtly as the long stems flex. The already-open flowers sway lightly on their stems, remaining open.
+
+  Moving leaves intermittently reveal and conceal a small white sun highlight, producing brief soft glints.
+
+  By the end, the original trunk is near the left edge, pink flowers and overlapping leaves fill the lower and right areas, and blue sky remains framed by branches overhead. The rightward view change and gentle plant movement are still continuing at cutoff.

@@ -1,0 +1,77 @@
+id: h3-hoodie-girl-rainy-alley-brawl
+title:
+  en: Hoodie girl fights seven thugs in rainy alley
+  zh: 雨巷中连752女子独战七名混混
+model: MiniMax H3
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- korean-dialogue
+- handheld
+- one-take
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2101269716568564094
+  credit: ÀBDŪLLÂH
+  likes: 93
+  captured: '2026-10-29'
+  posted: '2026-09-19'
+video: https://x.com/itxabdullaa/status/2101269716568564094
+notes:
+  en: Timed beats with exact Korean dialogue lines keep the story readable, and a negative list (no glow, no shockwaves, no poses) keeps the fights grounded. Handheld documentary camera language with autofocus hunting and impact shake sells the realism.
+  zh: 按时间段写分镜并附上韩语台词，故事线清楚；用否定清单（不要光效、冲击波、摆拍）让打斗保持真实。纪实手持镜头语言，加上自动对焦摇摆和冲击震动，增强真实感。
+prompt: |
+  15s | 16:9 | One Continuous Take | Korean Dialogue Only | No BGM/Subtitles
+
+  Ultra-photorealistic live-action supernatural martial-arts thriller. So-Yeon (same actress throughout): 160cm, messy black hair covering eyes, black hoodie, gray sweatpants, Converse. Real human actors, real locations, practical VFX only.
+
+  Location: Rain-soaked Korean alley behind a night market. Food cart, scooters, crates, puddles, shutters, signs, cardboard boxes.
+
+  Combat Style: Unarmed only. Sanda + Muay Thai clinch + Silat. Fast, messy, close-quarters fighting. Multiple attackers, realistic collisions, no poses or theatrical choreography.
+
+  Fault-Line Physics: Strength remains physical and grounded. Heavy impacts create realistic cracks from exact contact points: impact → vibration → cracks → dust/water movement → debris settling. No glow, energy effects, shockwaves, teleportation, or magic visuals.
+
+  0–3s — Blocked Alley
+
+  So-Yeon walks carrying a small plastic bag. Seven thugs block the alley. A delivery rider tries to pass. The leader shoves the scooter aside:
+
+  "꺼져."
+
+  So-Yeon steps forward:
+
+  "그 사람 건드리지 마."
+
+  The leader grabs her shoulder.
+
+  3–7s — First Collision
+
+  She counters instantly: wrist control → knee → elbow → throw. He crashes into stacked crates. Her sneaker lands in a puddle; thin cracks spread through the pavement. Everyone freezes.
+
+  A thug yells:
+
+  "다 같이 가!"
+
+  All six rush her.
+
+  7–11s — Market Chaos
+
+  She ducks a punch that hits a metal shutter, redirects attackers into each other, throws one into a food cart, and sweeps another. The delivery rider pulls the elderly shop owner out of danger. Brief 0.2s micro slow-motion on a heavy impact as cracks spread through wet pavement before returning to real time.
+
+  11–15s — Human Moment
+
+  The last two attackers collide into a concrete wall, creating a deep crack. Silence.
+
+  The rider asks:
+
+  "누나... 괜찮아요?"
+
+  So-Yeon looks at her trembling hands. The elderly shop owner returns her dropped plastic bag:
+
+  "이거."
+
+  She accepts it with a small embarrassed bow. The damaged cart slowly rolls in the background.
+
+  CUT TO BLACK.
+
+  Camera: Reactive handheld documentary style, tight dialogue close-ups, sudden reframing during action, natural autofocus hunting, realistic motion blur, impact shake, authentic human reactions. No superhero poses, no exaggerated expressions, no CGI doubles. Focus equally on civilians, environment, and grounded physical combat.

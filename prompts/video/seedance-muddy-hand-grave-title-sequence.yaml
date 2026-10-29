@@ -1,0 +1,49 @@
+id: seedance-muddy-hand-grave-title-sequence
+title:
+  en: Muddy hand rises from grave in rain
+  zh: 雨夜坟前泥土中伸出一只手
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- horror
+- title-sequence
+- rain
+- timed-beats
+source:
+  name: '@mrdejie on X'
+  url: https://x.com/mrdejie/status/2088600975380738462
+  credit: MrDejie
+  likes: 138
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/mrdejie/status/2088600975380738462
+notes:
+  en: Timed beats (0 to 4s, 4 to 8s and so on) set a clear pacing structure for the 30 second sequence, and the exact credit strings are spelled out so the on-screen text stays legible. Locking the cold palette with blood red accents, a slow forward zoom and a silence-then-scream audio plan builds up to the jumpscare payoff.
+  zh: 按时间段分拍（0到4秒、4到8秒等）规定节奏，并给出精确的字幕文字，让字幕清晰可读。锁定冷蓝灰与血红的配色、缓慢推进的镜头，以及先静后尖叫的声音设计，为结尾的跳吓做铺垫。
+prompt: |
+  Create a visually rich 30-second, 16:9 opening-title sequence for a realistic horror thriller titled RUN, in highly realistic cinematic style.
+  The story follows a man seeking revenge. His disappearance was never solved, and now he returns to hunt down every person who wronged him. Dark, cold, intense, and full of quiet dread.
+  VISUAL LANGUAGEUltra-realistic live-action cinematic style. Heavy use of deep blacks, cold blue-grays, and blood red accents. Thick atmospheric rain and fog, harsh practical lighting, long shadows, wet muddy surfaces, and subtle blood textures. Extremely detailed skin, fabric, mud, and environmental textures. Strong sense of tension, isolation, and silence. No fantasy elements. Keep everything grounded and terrifyingly real.
+  Do not generate decorative glyphs or invented writing.
+  Display only the exact English credits below. Use clean, elegant serif typography in pale white or muted red so it remains readable against the dark backgrounds. Spelling must be exact: MRDEJE and TOPVIEW.
+  0–4s:Heavy rain falls on a muddy grave at night. The wet soil slowly shifts. A man’s hand, covered in thick mud and dirt, suddenly pushes up from the ground. Fingers claw outward. Soft text fades in over the scene:
+  DIRECTED BY MRDEJE
+  Hold the credit clearly as the muddy hand remains partially raised under the rain.
+  4–8s:The camera slowly moves through a dark, rainy forest. A dirty shovel lies abandoned on the muddy ground. In the background, a car trunk is open. Inside the trunk is a large human-shaped sack stained with blood. The sack moves very slightly, almost unnoticeably, as if someone inside is still weakly alive. The text appears in pale white:
+  MADE WITH SEEDANCE 2.5
+  Hold the text while the subtle movement of the sack continues under the rain.
+  8–12s:Closer shot of the open car trunk and the blood-stained sack. Soft red light reflects on the wet surfaces. The text appears:
+  CREATED ON TOPVIEW
+  Hold the reflection and text while the sack makes another extremely subtle shift.
+  12–15s:The camera drifts past the muddy shovel and deeper into the dark forest. In the lower center of the frame, the text appears clearly:
+  FOR 30s CHALLENGE
+  Hold this text firmly until the 15-second mark. Rain continues to fall heavily.
+  15–22s:A man is slowly dragging the heavy blood-stained sack across the muddy forest ground. Only his arms, hands, and upper body are visible in the frame — his face remains completely hidden. As he pulls the sack, dark red blood trails are left behind on the wet soil. The camera slowly and steadily zooms in on the sack while it is being dragged. Heavy rain continues. The text appears clearly in the frame:
+  SAVE YOURSELF
+  22–26s:The camera continues the slow zoom on the sack. More blood is smeared across the mud with every pull. The man’s muddy hands grip the sack tightly. The atmosphere becomes extremely quiet and heavy under the rain. The text appears:
+  AND
+  26–30s:The sack suddenly shifts violently. In a split second, a man in a dark hoodie lunges extremely close to the camera. His face is mostly hidden by the hoodie — only his eyes and lower face are partially visible, wide, bloodshot, and full of rage. A violent, realistic jumpscare. Immediately after the scare, the full title violently appears in the center in sharp, pale white letters:
+  RUN
+  The screen holds for a brief moment in complete stillness after the jumpscare, then ends.
+  Audio:Extremely minimal and quiet for most of the sequence. Heavy rain, wet mud sounds, fabric dragging, and soft strained breathing. At the jumpscare moment, a sudden sharp, loud, distorted impact sound mixed with a short, terrifying human scream. After the scare, absolute silence.

@@ -1,0 +1,43 @@
+id: wan-street-racing-neon-timed-beats
+title:
+  en: Purple supercar racing through neon-lit wet streets
+  zh: 紫色超跑在霓虹湿润街道上飙驰
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- street-racing
+- timed-beats
+- night-city
+- camera-moves
+source:
+  name: '@Rosey_watson on X'
+  url: https://x.com/Rosey_watson/status/2092952141677646264
+  credit: Rosey Watson
+  likes: 61
+  captured: '2026-10-29'
+  posted: '2026-08-27'
+video: https://x.com/Rosey_watson/status/2092952141677646264
+notes:
+  en: Splitting the prompt into timed beats, each with its own action and camera move, gives the model a clear shot order to follow. Audio cues sit in a separate line so the sound design does not compete with the visual description.
+  zh: 把提示词按时间段拆分，每段写明动作和运镜，让模型有清晰的镜头顺序可循。音效单独成行，不会与画面描述相互干扰。
+prompt: |
+  Create a 15-second ultra-cinematic street racing sequence with the adrenaline and intensity of a modern arcade racing game.
+
+  0–3 sec — Launch:
+  Midnight in a neon-lit city. A modified supercar sits at a red light, engine vibrating aggressively. Close-up of glowing headlights, spinning rims, driver gripping the steering wheel. The light turns green — instant launch with tire smoke and dramatic camera shake.
+
+  3–7 sec — High-Speed Chase:
+  Low-angle tracking shot beside the car as it blasts through wet streets at extreme speed. Neon signs reflect across the glossy bodywork. Rapid gear shifts, glowing dashboard, realistic motion blur, sparks from a near-miss with a barrier. Camera swings from rear chase view to a dynamic side shot.
+
+  7–11 sec — Impossible Corner:
+  The car approaches a sharp city corner at full speed, slams the brakes, then performs a perfectly controlled drift. Tires scream, smoke fills the street, headlights cut through the haze. Camera rotates around the vehicle in a fast 360° cinematic move.
+
+  11–15 sec — Final Sprint:
+  The car exits the drift and rockets toward a massive illuminated finish line. A second rival car appears beside it. Both accelerate side-by-side through a tunnel of neon lights. Final shot: extreme low-angle rear view as the winning car disappears into the night.
+
+  Visual style: photorealistic AAA racing-game graphics, cinematic night lighting, wet asphalt reflections, detailed car materials, realistic tire physics, volumetric fog, dynamic motion blur, lens flares, aggressive camera movement, high-speed perspective, dramatic depth of field, premium VFX, seamless transitions, intense racing atmosphere.
+
+  Audio: roaring engine, turbo spool, gear shifts, tire screech, bass-heavy cinematic soundtrack, Doppler effects and a powerful final acceleration hit.
+
+  Format: 9:16 vertical, 15 seconds, ultra-detailed, realistic physics, consistent car design throughout, no text, no logos, no watermarks.

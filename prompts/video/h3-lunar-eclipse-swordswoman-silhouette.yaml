@@ -1,0 +1,53 @@
+id: h3-lunar-eclipse-swordswoman-silhouette
+title:
+  en: Silhouetted swordswoman under a giant purple moon
+  zh: 紫色巨月下的持刀剪影女剑客
+model: MiniMax H3
+mode: text-to-video
+category: anime
+tags:
+- lunar-eclipse
+- silhouette
+- game-trailer
+- 2d-anime
+- storyboard
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2086427292755247409
+  credit: Kiki
+  likes: 202
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+video: https://x.com/Mayz1169/status/2086427292755247409
+notes:
+  en: A timestamped storyboard with a fixed palette and an explicit restriction list keeps the output in flat 2D motion graphics instead of drifting into 3D. Each beat names one action and one framing, so the model does not stack a fight or extra camera moves that would break the poster look.
+  zh: 带时间点的分镜、固定色板和明确的禁止项，让画面保持扁平的 2D 动态图形风格，而不滑向 3D。每个段落只写一个动作和一个景别，避免叠加打斗或额外运镜，从而保住海报式构图。
+prompt: |
+  Game promotional PV, 15s. Pure 2D Japanese cel animation combined with abstract Editorial MG composition.
+
+  [Art Style]
+  Mysterious lunar eclipse style. High-contrast palette of deep purple, black, indigo, and silver-white, with limited glowing purple accents. Minimal hard-edge cel shading, large solid-color silhouettes, 1–2 shadow layers.
+  Flat background with only architectural outlines, spires, wires, antennas, and geometric blocks. Integrate lunar phases, eclipses, orbits, star charts, astrology UI, compass, radial lines, scanlines, halftone, and geometric slices.
+
+  The entire video feels like a dynamic game poster constantly being broken apart and reconstructed. No realistic 3D space.
+
+  [Characters]
+  Female protagonist: black shoulder-length hair, black uniform, long boots, holding a massive katana, cold and restrained.
+
+  Villain: gray long hair, black wide-brim hat, black long coat, elegant and dangerous.
+  [Storyboard]
+  0–3s
+  Black background. A giant purple lunar eclipse appears. The female protagonist’s silhouette stands at the center. Her step causes the moon phase to fracture into geometric rings and star chart markings. Architectural outlines assemble from darkness.
+
+  3–6s
+  Fast camera pan. The heroine moves forward with her sword. Background switches through different lunar phases. Buildings, orbits, and star charts are sliced and reconstructed. Silver-white orbital lines cross the character as the frame flips and compresses.
+
+  6–10s
+  High-speed MG montage. Eyes, katana silhouette, lunar phases, star trails, compass, raven silhouettes, and solar eclipse rapidly overlap. Each beat triggers inversion, geometric bursts, orbital rotation, and purple flashes. No continuous combat, only key poses.
+  10–13s
+  Pure black space. The villain sits at the center of a giant lunar ring and slowly raises his head. The moon behind him becomes a complete solar eclipse. Purple halos expand. The heroine’s silhouette appears inside the moon. No direct battle.
+  13–15s
+  The solar eclipse shatters. Orbits, star charts, lunar phases, and architecture collapse inward and rebuild into an original game logo.
+
+  [Restrictions]
+  Keep a flat 2D MG style. No realistic lighting, no 3D cities, no realistic perspective, no cyberpunk streets, no continuous fighting. All elements must be graphic silhouettes. Every frame should look like a premium game poster.

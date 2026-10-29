@@ -1,0 +1,34 @@
+id: h3-korean-girl-pattern-collage-fashion-mv
+title:
+  en: Korean fashion girl points at camera over checker graphics
+  zh: 韩系时尚女孩对镜头伸手指向，背后是棋盘格图案
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- fashion
+- pattern-collage
+- character-lock
+- magazine-typography
+source:
+  name: '@ImaStudio_ai on X'
+  url: https://x.com/ImaStudio_ai/status/2104407114206904789
+  credit: Ima Studio
+  likes: 123
+  captured: '2026-10-29'
+  posted: '2026-09-28'
+video: https://x.com/ImaStudio_ai/status/2104407114206904789
+notes:
+  en: A character lock paragraph lists face, hair and proportions to keep one identity across eight looks. Flat 2D pattern layers sit behind the realistic subject while the title stays clear of the face.
+  zh: 角色锁定段落逐项列出脸部、发型和身材比例，让八套造型保持同一人物。扁平的二维图案图层置于写实人物之后，标题避开脸部。
+prompt: |
+  Create a 15-second, 16:9, 24fps high-quality fashion MV based on the attached single character reference image.
+  Character lock: Keep 1 young Korean-style woman only throughout the entire video. Strictly preserve her face, facial proportions, skin tone, age, long dark-brown hair, bangs, body proportions, limb proportions, identity, and overall Korean beauty vibe. She must always remain the same person. No face drift, no westernized features, no masculine look, no second person, no crowd.
+  Style: Pattern Collage Pop × Korean Fashion Editorial × Fashion MV. The feeling is a stylish Korean fashion girl entering a magazine world made of classic patterns, geometric graphics, collage layouts, and bold typography. Keep the girl realistic, but make the background and design elements flat, sharp, clean 2D graphic design. Avoid rough handmade collage; make it polished, chic, trendy, glossy, and editorial.
+  Visual system: Use patterns and shapes such as stripes, polka dots, checkerboard, plaid, grids, zigzags, borders, concentric circles, triangles, circles, squares, geometric lines, graphic frames, cutout color blocks, paper-edge collage shapes, overlapping color fields, whitespace, and offset layouts. Use them as backgrounds, framing devices, cross-screen bands, layered blocks behind the subject, and magazine-style title areas.
+  Color: Extract 2 main colors from the girl’s vibe, plus white or black as support. Keep the palette clean and unified. Preferred tones: cream white, light blue, icy blue, silver gray, soft pink, muted lavender.
+  Fashion: Extend the styling from the reference into sweet-cool Korean / light Y2K / chic Asian fashion. Possible items: light denim, fitted tops, cute-cool mini skirts, small bags, necklaces, earrings, platform ankle boots, Korean accessories. Slight outfit variation is allowed, but she must still feel like one continuous character.
+  Motion & camera: This is a fashion MV, not a slideshow. Each segment must have a clear pose-to-pose action: half-step forward, look back, lower gaze then look up, fix hair, touch bag strap, hand near face, seated side look, crouch with soft smile, reach toward camera, light turn, final hero pose. Expressions: soft, sweet-cool, confident, polished. Use fast but smooth lateral movement, light push-in/pull-out, alternating close/medium/full shots, detail inserts, and editorial split compositions.
+  Typography: Add large, readable fashion typography without covering the face. Use a main NAME title, plus supporting English keywords and occasional Korean text. Words can include: SEOUL POP, CUTE SIGNAL, SOFT CHIC, KOREAN GIRL, FASHION CUT, LOVELY MOOD, TRENDY LOOK. Vary placement, size, direction, and color while keeping a unified magazine design system.
+  Timeline: 8 stylish looks across 15s, ending in a strong final hero shot where previous graphics and keywords reassemble into a polished Korean magazine-cover composition. Hold the final frame for 0.5s.
+  Avoid: multiple people, identity drift, static poster feel, stiff motion, overly realistic backgrounds, unreadable text, text over face, childish tone, cheap filters, logos, watermarks, subtitles, exaggerated dance, or goofy expressions.

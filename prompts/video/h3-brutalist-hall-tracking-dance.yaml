@@ -1,0 +1,53 @@
+id: h3-brutalist-hall-tracking-dance
+title:
+  en: Dancer in brutalist hall with CV tracking overlay
+  zh: 粗野主义大厅中的舞者与动作追踪叠加画面
+model: MiniMax H3
+mode: text-to-video
+category: music-dance
+tags:
+- dance
+- brutalist
+- tracking-overlay
+- continuous-shot
+source:
+  name: '@Artedeingenio on X'
+  url: https://x.com/Artedeingenio/status/2095818230292004950
+  credit: OscarAI
+  likes: 136
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+video: https://x.com/Artedeingenio/status/2095818230292004950
+notes:
+  en: The prompt separates the choreography, the camera moves and a dedicated overlay spec with box counts, size tiers and downbeat rules, so the dancer stays readable while the graphics stay secondary. Limiting the negative effect to selected small boxes stops it from taking over the whole frame.
+  zh: 提示词把编舞、运镜和叠加层分开描述，叠加层给出框数、尺寸层级和每个节拍的变化规则，让舞者始终清晰可见，图形只作辅助。明确限定负片效果只出现在选中的小框内部，避免整个画面被覆盖。
+prompt: |
+  Experimental contemporary dance combined with TouchDesigner-style dynamic body tracking, generated as one complete uninterrupted continuous shot with no deliberate cuts.
+
+  A vast brutalist underground hall with a polished dark concrete floor, enormous vertical pillars, and one single rectangular ceiling light illuminating the center. The surrounding architecture gradually disappears into darkness. A male dancer with a shaved head, loose black trousers, and a fitted sleeveless top performs alone beneath the light. Preserve the brutalist geometry and the dancer as the sole performer.
+
+  The choreography combines slow controlled tension with sudden mechanical releases: sweeping circular arm movements, deep forward lunges, asymmetric shoulder rotations, sharp elbow extensions, backward arches, rapid half-turns, one-knee drops, and long diagonal reaches across the floor. His body repeatedly expands into wide sculptural poses and contracts tightly around the torso.
+
+  The camera constantly explores the performance geometry while remaining a single continuous move: extreme low angles close to the floor, overhead perspectives, slow circular tracking, profile close-ups, fast lateral travel, and sudden dolly pull-backs, all fluidly connected and precisely synchronized to the choreography. No shot cuts.
+
+  [Style — TouchDesigner-style real-time computer vision body-tracking visualization]
+
+  Apply sophisticated real-time body tracking densely and continuously throughout the entire clip. Glowing electric-blue and amber tracking nodes lock precisely onto the dancer's joints, hands, elbows, shoulders, knees, ankles, and torso, connected by thin geometric lines that dynamically stretch, collapse, and reorganize with every movement. Hands generate flowing vector trails. Rapid movements leave temporary wireframe echoes of previous body positions, creating layered geometric sculptures in space. During turns, circular tracking rings rotate around the torso; during floor movements, perspective grids expand outward across the concrete. As intensity rises, tracked coordinates, fragmented polygons, kinetic curves, and translucent skeletal structures accumulate around him, always responding precisely to his body. Keep the dancer visible and never obscure him with filled graphics.
+
+  Required CV overlay structure, visible continuously: 12-20 hollow axis-aligned rectangular tracking boxes at once, thin 1-2px electric-blue or amber strokes, absolutely no fill and no translucent color blocks. Maintain four clearly separated size tiers at every stable moment: 2-4 large local boxes, 3-5 medium local boxes, 3-5 small local boxes, and 4-6 visibly tiny micro boxes. Vary wide and tall rectangles. Every box tracks only a local body fragment or local motion region; never enclose the whole dancer, whole body, or whole head. The largest box covers no more than one quarter of the visible subject area. Micro-box area is at most 1/32 of the largest box. All box centers are visibly displaced; no concentric or near-concentric rectangle rings. On each audible downbeat or strong accent, replace, resize, jump, or relocate roughly 30-50% of the boxes to new local fragments while retaining the total count and all four size tiers.
+
+  Add thin straight topological connection lines linking displaced box corners and centers into a flexible star/network graph, alongside the joint-node skeleton. Add small clean monospace four-digit numeric IDs and [x, y] coordinate labels beside boxes; IDs and coordinates visibly randomize rapidly on every frame like a live CV debug console. Add optional sparse pixel samples and a subtle center crosshair only if they remain secondary.
+
+  Inside selected small and micro boxes only, show a true photographic negative of the exact underlying moving pixels, clipped precisely to each selected box's inner edge. Everything outside those selected small/micro rectangles, including large and medium box interiors, remains normal positive color. Rotate the negative windows across successive musical downbeats so different small/micro boxes take turns switching positive-to-negative and negative-to-positive. Never apply global negative, global monochrome, full-screen flashing, exposure pulsing, or strobing. Negative pixels must not bleed beyond the selected box interiors.
+
+  Audio is generated by the video model in sync with the visuals: instrumental experimental techno at 128 BPM, deep industrial kick, dry metallic percussion, pulsating distorted bass, and short bursts of synthetic noise. No vocals, no spoken voice, no lyrics. Every major beat drives the tracking-box changes, local negative-window switches, node pulses, trail persistence, and camera movement; the music and visual rhythm are tightly synchronized.
+
+  Final beat: the dancer suddenly stops in a wide asymmetric pose. All previous motion trails remain suspended around him for a brief moment, forming a large abstract three-dimensional wireframe sculpture of his movement history, then everything instantly disappears except the dancer under the ceiling light.
+
+  [Visual style — generated footage only]
+
+  Dark brutalist minimalism, high-contrast cinematic lighting, black and concrete-gray environment, electric-blue and amber tracking graphics, contemporary digital-art installation aesthetic. Apply a low-saturation desaturated underlying palette with natural teal/cyan cool shadows and warm highlights, strong 35mm film grain, high contrast with lifted blacks and preserved highlight detail, cinematic single-key or side/back lighting, shallow depth of field, subtle vignette, natural sharpness, and restrained highlight bloom. Keep film grain, grading, and optical artifacts confined to the generated footage; do not contaminate tracking lines, box outlines, nodes, IDs, or local negative masks.
+
+  HARD NEGATIVES: no solid-fill colored blocks, no filled overlays, no full-body or full-head bounding box, no silhouette-shaped or irregular boxes, no concentric rectangles, no same-size-only boxes, no fewer than 12 boxes, no missing micro boxes, no static IDs, no floating subtitles, no logo or watermark, no global black-and-white or desaturation, no global photographic negative, no full-screen black-white flash, no color strobe, no negative effect inside large or medium boxes, no negative bleed outside small/micro inner edges, no reference footage, no overlaid source footage, no extra performer, no deliberate shot cuts.
+
+  [Technical] 15 seconds, 16:9 horizontal, one continuous shot, 2K, cinematic motion, precise motion synchronization, generated instrumental audio.

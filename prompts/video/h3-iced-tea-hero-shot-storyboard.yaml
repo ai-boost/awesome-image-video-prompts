@@ -1,0 +1,47 @@
+id: h3-iced-tea-hero-shot-storyboard
+title:
+  en: Woman raises iced tea bottle under sunny sky
+  zh: 女子举起冰茶瓶站在晴空下
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- storyboard
+- product-ad
+- sound-effects
+- beverage
+source:
+  name: '@socialwithaayan on X'
+  url: https://x.com/socialwithaayan/status/2083860644911300928
+  credit: Muhammad Ayan
+  likes: 231
+  captured: '2026-10-29'
+  posted: '2026-08-02'
+video: https://x.com/socialwithaayan/status/2083860644911300928
+notes:
+  en: A numbered scene list that gives each beat its shot type, camera move and sound effect lets the model follow a clear order. Repeating the same actress, product and DSLR 85mm lens in every scene holds identity and look across cuts.
+  zh: 编号分镜列表为每个镜头写明景别、运镜和音效，让模型按顺序生成。每个场景都重复同一位演员、同一产品和 DSLR 85mm 镜头设定，保持跨镜头的形象与画面统一。
+prompt: |
+  Ultra cinematic 3x3 commercial storyboard for a refreshing Chinese iced tea drink advertisement, inspired by energetic Japanese beverage commercials, bright summer daylight, hyper realistic photography, vibrant blue sky, strong sunlight glow, refreshing water splash effects, dynamic action motion, fast cut scenes, cinematic camera angles, premium ad quality, realistic skin texture, DSLR 85mm lens look, commercial-grade lighting, emotional expressions, energetic youthful vibe, ultra detailed drink bottle focus, condensation droplets on bottle, cold refreshing atmosphere.
+
+  Scene 1. Low angle hero shot of young Asian woman holding iced tea bottle toward camera under bright blue sky, hair blowing in wind, sun flare, dramatic perspective, cinematic opening shot. SFX: wind rush, upbeat summer music starts.
+
+  Scene 2. Extreme close-up of bottle with ice cubes and liquid splash exploding around it in slow motion, detailed droplets frozen mid-air. SFX: explosive splash, bass hit.
+
+  Scene 3. Girl smiling and spinning while holding drink, camera orbit motion, sky background, energetic carefree vibe. SFX: whoosh transition, cheerful music rise.
+
+  Scene 4. Macro bottle cap twist open, carbonation fizz bursting out, ultra satisfying detail shot. SFX: crisp bottle crack, fizz sound.
+
+  Scene 5. Side profile drinking scene, liquid glow reflections, sunlight on face, refreshing emotional expression, cinematic close-up. SFX: gulp sound, soft sparkle effect.
+
+  Scene 6. Ice cubes crashing into tea splash with floating tea leaves, ultra dynamic product beauty shot. SFX: ice crack, liquid burst.
+
+  Scene 7. Fast action jumping scene with friends laughing together outdoors, handheld camera energy, motion blur, youth commercial aesthetic. SFX: laughter, energetic beat drop.
+
+  Scene 8. Premium centered product showcase with rotating bottle, floating ice particles, typography graphics around product, commercial key visual. SFX: impact boom, rising synth.
+
+  Scene 9. Final hero frame, girl smiling directly at camera while holding drink close to lens, glowing sunlight behind, cinematic ending frame with bold Chinese typography and logo. SFX: satisfying logo sound, upbeat ending music.
+
+  Style references: Japanese summer beverage commercials, Coca-Cola Japan ads, Pocari Sweat cinematic energy, fast-paced Asian commercial editing, ultra realistic, highly saturated colors, premium advertising photography, cinematic storyboard layout, realistic water physics, motion blur transitions, energetic youth lifestyle aesthetic.
+
+  Visual quality: 8k ultra detailed, commercial photography, HDR lighting, realistic reflections, natural skin texture, cinematic composition, dynamic framing, high contrast sunlight, premium beverage ad style, authentic summer atmosphere, cinematic storyboard grid layout with numbered scenes.

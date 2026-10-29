@@ -1,0 +1,25 @@
+id: h3-gothic-autumn-street-fpv-castle
+title:
+  en: FPV drone glides down gothic autumn street
+  zh: FPV无人机滑行穿过哥特式秋日街道
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- fpv-drone
+- gothic
+- autumn
+- drone-shot
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2094853665135677457
+  credit: Viki
+  likes: 136
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+video: https://x.com/churvikv/status/2094853665135677457
+notes:
+  en: The prompt names a specific camera move (FPV drone), a clear path (down the centre of the street) and a destination (the castle), so the motion has direction. The golden mandala sky and glowing lanterns are repeated as lighting anchors to hold the look steady.
+  zh: 提示词明确了镜头运动（FPV无人机）、清晰的路径（沿街道中央前进）和目标（远处的城堡），让运动有方向。金色曼陀罗天空和发光路灯作为光线锚点重复出现，帮助画面风格保持稳定。
+prompt: |
+  dynamic FPV drone shot. The camera glides smoothly down the center of the wet cobblestone street, weaving between the glowing vintage streetlamps. Red and gold autumn leaves rush past the lens. The camera flies towards the grand gothic castle in the distance, under the glowing golden mandala sky. Immersive, fluid motion, 8k.

@@ -1,0 +1,59 @@
+id: wan-korean-girl-painting-comes-to-life
+title:
+  en: Painted flower and airplane come alive in Seoul
+  zh: 首尔少女画中的花与纸飞机成真
+model: Wan 3.0
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- korean
+- painting
+- magic-realism
+- storyboard
+source:
+  name: '@NoOneIsHere2603 on X'
+  url: https://x.com/NoOneIsHere2603/status/2094658391369191894
+  credit: Sheikh Sharik 2.0
+  likes: 89
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+video: https://x.com/NoOneIsHere2603/status/2094658391369191894
+notes:
+  en: Splits the 30 second story into timed beats, each picking up from the last action, with a continuity rule that locks one girl, one studio and one canvas. This keeps the escalating magic from drifting into new locations or wardrobe changes.
+  zh: 将30秒故事拆成带时间码的分镜，每段都从上一段的动作接续，并用连续性规则锁定同一女孩、同一画室和同一块画布。这样层层升级的魔法不会漂移成新场景或换装。
+prompt: |
+  A Korean girl discovers that whatever she paints on a canvas becomes real for a few seconds. The story gradually escalates from something tiny to something amazing.
+
+  0–3 sec:
+  Rainy Seoul afternoon. A young Korean girl sits inside a small art studio, painting a single red flower on a white canvas. She finishes the final brushstroke.
+
+  4–6 sec:
+  She looks away for a second. When she looks back, the painted flower has become a real flower, slowly moving in the breeze. She touches it in disbelief.
+
+  7–9 sec:
+  Excited, she paints a tiny paper airplane beside it. The painted airplane suddenly lifts off the canvas and flies around her room.
+
+  10–12 sec:
+  She laughs and follows it with her eyes. The airplane flies toward the studio window, and she quickly opens the window.
+
+  13–15 sec:
+  The airplane flies outside. She grabs her canvas and runs onto the small balcony, continuing to paint while following it.
+
+  16–18 sec:
+  She paints a flock of white birds. One by one, they emerge from the canvas and join the paper airplane in the sky.
+
+  19–21 sec:
+  She becomes more confident and paints a huge golden sunset across the canvas. The real sky outside gradually transforms to match her painting.
+
+  22–24 sec:
+  The entire Seoul skyline becomes bathed in the same golden light. People on the street stop and look upward in amazement.
+
+  25–27 sec:
+  She smiles proudly—but suddenly notices the paintbrush beginning to fade from her hand.
+
+  28–30 sec:
+  She looks at the canvas. Everything she created slowly returns to normal… except the original red flower, which remains real. She gently smiles and whispers, “Some things are meant to stay.”
+
+  Style: premium Korean cinematic aesthetic, emotional fantasy, realistic Seoul environment, beautiful natural lighting, detailed anime-realism, smooth camera movement, expressive acting, magical but believable effects.
+
+  CONTINUITY RULE: One girl, one studio, one canvas, one paintbrush, same clothing, same hairstyle and same environment throughout. Every action must directly continue from the previous action. No jumps, teleportation, sudden location changes, character changes, wardrobe changes, or random cuts.

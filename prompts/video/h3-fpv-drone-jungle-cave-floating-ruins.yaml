@@ -1,0 +1,30 @@
+id: h3-fpv-drone-jungle-cave-floating-ruins
+title:
+  en: FPV drone flight through jungle, caves and floating ruins
+  zh: FPV无人机穿越丛林、水晶洞与浮空遗迹
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- fpv-drone
+- one-shot
+- camera-move
+- motion-blur
+- floating-ruins
+source:
+  name: '@magnific on X'
+  url: https://x.com/magnific/status/2084963311234478503
+  credit: Magnific
+  likes: 78
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+video: https://x.com/magnific/status/2084963311234478503
+notes:
+  en: The whole flight is written as one continuous forward move, with each transition (archway, cavern, crystal cave, open sky) named in order, so the model chains the scenes without cuts. Speed, motion blur and real-physics wording keep the handheld FPV feel.
+  zh: 提示词把整段飞行写成一个连续的前进镜头，并按顺序点名每个转场（拱门、洞穴、水晶洞、天空），让模型在没有剪辑的情况下串联场景。速度、运动模糊和真实物理的描述保持了手持FPV的临场感。
+prompt: |
+  "Photorealistic FPV drone shot flying forward at high speed through a dense, hyperrealistic jungle tunnel of overlapping vines and giant leaves, real volumetric golden-hour sunlight blasting through gaps in the canopy with natural lens flares and floating dust and pollen catching the light. Ahead, a glowing amber organic archway fused into the vegetation grows closer; the drone passes through it and plunges into a vast underwater-feeling cavern lit by bioluminescent coral and crystal formations, shafts of teal and cyan light piercing down through drifting particles and tiny glowing organisms, natural caustics and physically accurate light scattering.
+
+  The flight continues forward out of the coral cavern into a colossal cave of towering amethyst and quartz crystal formations, warm rim light and refracted rainbow flares cutting across the frame as the camera weaves between crystals. Finally the drone bursts out of the crystal cave into open sky, flying between colossal floating stone ruins above a real sea of clouds at golden hour, ancient weathered stone arches drifting past and sunbeams cutting through the mist.
+
+  Real-world physics, natural motion blur, hyperrealistic cinematic nature-documentary realism throughout, seamless continuous forward camera movement, 8K detail."

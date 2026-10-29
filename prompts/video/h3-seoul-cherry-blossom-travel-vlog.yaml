@@ -1,0 +1,55 @@
+id: h3-seoul-cherry-blossom-travel-vlog
+title:
+  en: Cherry blossoms, palace roofs and N Seoul Tower
+  zh: 樱花、宫殿屋顶与N首尔塔
+model: MiniMax H3
+mode: text-to-video
+category: vlog
+tags:
+- seoul
+- cherry-blossom
+- travel-vlog
+- multi-shot
+source:
+  name: '@aiwithaayat on X'
+  url: https://x.com/aiwithaayat/status/2115382877638836664
+  credit: Ayat
+  likes: 241
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+video: https://x.com/aiwithaayat/status/2115382877638836664
+notes:
+  en: The prompt is a timestamped breakdown of eight scenes, and each one names its own camera move such as a slow pan, handheld follow or upward tilt. A fixed character description with hair, cardigan and bag is repeated in every scene to keep the same person across cuts.
+  zh: 提示词按时间戳拆成八段，每段写明镜头运动（慢摇、手持跟拍、仰拍），并在每段重复同一套人物描述（发型、开衫、包），保证跨镜头的人物一致。
+prompt: |
+  Create a 15-second ultra-realistic cinematic Korean travel vlog in vertical 9:16 format. The video follows a beautiful young adult Korean woman exploring Seoul during cherry blossom season. She has natural Korean facial features, long dark brown hair, soft natural makeup, realistic skin texture, and wears a cream-colored knit cardigan, a light pastel outfit, and a small beige shoulder bag.
+
+  Scene 1 (0–2 seconds) — Beautiful Seoul Introduction:
+  Start with a wide cinematic establishing shot of Seoul, South Korea, during spring. Show beautiful pink cherry blossom trees, traditional Korean architecture, distant N Seoul Tower, and a clear blue sky. The camera slowly pans across the scenery, with delicate cherry blossom petals floating gently in the breeze. Natural daylight, realistic colors, peaceful travel atmosphere.
+
+  Scene 2 (2–4 seconds) — Walking Vlog:
+  Cut to the Korean girl walking along a beautiful cherry blossom street. She turns her head toward the camera, smiles naturally, and continues walking. Her long hair moves gently in the breeze. Use a handheld travel-vlog camera style with subtle natural camera movement and realistic walking motion.
+
+  Scene 3 (4–6 seconds) — Cute Selfie Moment:
+  Show a close-up selfie shot of the same girl. She looks directly into the camera, smiles warmly, and makes a peace sign with her fingers. Cherry blossoms fill the softly blurred background. Capture natural blinking, realistic facial expressions, subtle head movement, and authentic vlog energy.
+
+  Scene 4 (6–8 seconds) — Cherry Blossom Walk:
+  Show the girl from behind as she walks down a scenic path surrounded by blooming pink cherry blossom trees. Her cream cardigan and beige bag remain consistent. The camera smoothly follows her from behind as petals drift across the path. Soft sunlight filters through the branches, creating a dreamy but photorealistic spring atmosphere.
+
+  Scene 5 (8–10 seconds) — Korean Street Food:
+  Cut to a cozy Korean street food stall in Seoul. The girl holds a freshly prepared Korean street snack on a wooden skewer, takes a small bite, and reacts with a delighted smile. Warm market lights, authentic Korean food-stall details, shallow depth of field, realistic food textures, and natural expressions.
+
+  Scene 6 (10–12 seconds) — Scenic City View:
+  Show the girl standing at a scenic viewpoint overlooking Seoul, the Han River, and the distant city skyline with N Seoul Tower. The camera gently moves from her side toward the landscape. Warm golden-hour sunlight creates a beautiful cinematic glow. She looks at the view with a peaceful, happy expression.
+
+  Scene 7 (12–14 seconds) — Friendly Goodbye:
+  Return to a medium close-up of the same girl standing beneath cherry blossoms. She looks into the camera, waves goodbye with one hand, and smiles naturally. A few petals float past her face. The shot feels personal, warm, spontaneous, and like the ending of a real travel vlog.
+
+  Scene 8 (14–15 seconds) — Final Cinematic Shot:
+  Finish with a beautiful upward view of pink cherry blossom branches against a clear blue sky. A few petals gently drift through the frame. Leave the final frame clean and visually pleasing, with no unnecessary text or logos.
+
+  Visual Style and Quality:
+  Ultra-photorealistic live-action footage, premium Korean travel-vlog aesthetic, natural human movement, realistic skin pores, detailed hair strands, physically accurate lighting, soft cinematic color grading, gentle depth of field, smooth camera transitions, realistic environmental details, and natural spring atmosphere. Use a consistent character identity, face, hairstyle, clothing, and accessories throughout all scenes.
+
+  Camera and Motion:
+  Mix wide establishing shots, medium tracking shots, close-up selfies, and scenic detail shots. Use smooth handheld camera movement, natural motion blur, realistic perspective, and seamless cuts between scenes. Every shot must feel like genuine footage captured during a real trip to Seoul.

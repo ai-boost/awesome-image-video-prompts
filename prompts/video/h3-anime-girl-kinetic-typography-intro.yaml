@@ -1,0 +1,36 @@
+id: h3-anime-girl-kinetic-typography-intro
+title:
+  en: Anime girl kinetic intro with 3D typography
+  zh: 动漫少女动感开场与3D文字
+model: MiniMax H3
+mode: image-to-video
+category: anime
+tags:
+- anime
+- kinetic-typography
+- camera-moves
+- shot-list
+source:
+  name: '@IqrasaifiAI on X'
+  url: https://x.com/IqrasaifiAI/status/2100030154668159256
+  credit: Iqra Saifi
+  likes: 131
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+video: https://x.com/IqrasaifiAI/status/2100030154668159256
+notes:
+  en: Numbered shots each name one camera move and one subject action, so the model keeps a clear sequence across cuts. Typography is tied to physical events like drops, collisions and fractures, which gives the kinetic text motion without extra prompting.
+  zh: 每个分镜都写明一个镜头运动和一个主体动作，让模型在切镜间保持清晰的顺序。文字动作绑定到落下、撞击、碎裂等物理事件，无需额外提示就能做出动感字幕。
+prompt: |
+  High-speed, hyper-kinetic anime sequence with extreme camera acrobatics and reactive 3D typography.
+  Shot 1 (Low-Angle Shoe Tracking): Ground-level fisheye lens tracks backward at breakneck speed right beneath the heavy, lug-soled platform boots of a rebellious anime girl with wild black-and-neon-red layered hair. Massive concrete-textured 3D letters spelling 'RIOT' slam violently downward out of thin air, crashing onto the seamless red studio floor with camera-shake impact dust just inches behind her heels.
+  Shot 2 (Dynamic Lens Tilt & Word Spin): Instant whip-pan upward with a 45-degree Dutch angle tilt against an acid-lime backdrop. The camera barrels forward, diving under her outstretched arm as she throws a playful side-eye wink. The giant 3D word 'VOID' sweeps in from off-screen in a rapid rotational pivot, skimming past the lens with intense motion blur and chromatic aberration.
+  Shot 3 (Step-Through & Text Smash): Cut to a stark white void; the camera pulls back fast on a low Dutch tilt as she stomps forward directly toward the lens. The oversized sole of her boot eclipses the frame for a split-second transition. She drops into a low crouch atop a bright-red pedestal; floating jagged 3D letters spelling 'BREAK' violently fracture into floating debris behind her.
+  Shot 4 (Kinetic Combat & Ink-Brush Kanji): Smash zoom into a fractured-glass screen transition. The anime girl draws a glowing crimson-edged katana, spinning through a 360-degree rotational tracking shot. Massive black-and-blood-red brush-ink Kanji characters surge and rip across the frame, warping in three dimensions to follow the sword's curved slash path. High-contrast cel shading, aggressive speed lines, sharp snap zooms, 4k resolution, 60fps."
+  Camera & Motion Directives for Generation
+  Camera Physics: Ground-skimming fisheye, rapid snap-zooms directly into character eyes or boot soles, fast rotational 360-degree rolls, and abrupt whip-pans.
+  Typography Dynamics: Kinetic typography that physically drops, collides with the floor, spins into the camera axis, and explodes into fragments upon impact.
+  Visual Transitions: Boot-sole screen wipes, fractured glass impacts, and wide-swiping calligraphy ink ribbons that guide the cut to the next shot.
+
+  in
+  @higgsfield

@@ -1,0 +1,41 @@
+id: h3-rainy-night-tearful-woman-frozen-time
+title:
+  en: Tearful woman in rainy night street
+  zh: 雨夜街头落泪的女子
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- rain
+- night-street
+- bokeh
+- frozen-time
+source:
+  name: '@bmx_ai13 on X'
+  url: https://x.com/bmx_ai13/status/2090562269382062197
+  credit: BMX
+  likes: 28
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+video: https://x.com/bmx_ai13/status/2090562269382062197
+notes:
+  en: The prompt is split into timed beats (0 to 3 seconds, 3 to 7 seconds, 7 to 10 seconds) with separate camera and visual style blocks, so the shot order is explicit. The freeze moment is described as physical stillness (suspended rain, hair and lights) with a slow orbit, which keeps the effect grounded and readable.
+  zh: 提示词按时间段分镜（0到3秒、3到7秒、7到10秒），并单独列出镜头与视觉风格，让镜头顺序明确。时间静止被描述为雨滴、发丝和灯光的物理悬停，配合缓慢环绕运镜，使效果真实可读。
+prompt: |
+  MiniMax Hailuo H3 Prompt: Create a 10 second cinematic emotional scene centered on a young woman standing alone on a city street at night. Light rain falls around her. Soft streetlights glow through the darkness, while blurred car lights create beautiful bokeh in the background. The atmosphere feels intimate, lonely, and deeply emotional. Use natural acting, realistic facial expressions, subtle breathing, and gentle body movement.
+
+  Character : A young woman in her early twenties wearing a simple coat. She is heartbroken and struggling to hold back tears. Her pain should be clearly visible through her watery eyes, trembling lips, controlled breathing, and exhausted expression.
+
+  0–3 seconds: Begin with an intimate close up of her face. She looks forward with watery eyes, desperately trying not to cry. Her breathing is slightly unsteady. One tear slowly forms and rolls down her cheek.
+
+  3–7 seconds: Suddenly, time freezes completely. Raindrops stop in mid air. Cars and their lights freeze in the background. Loose strands of her hair, the edge of her scarf, and tiny water droplets remain suspended naturally in the air.
+
+  The woman remains almost completely still while the camera continues moving. Slowly orbit around her face in a smooth cinematic motion. During the orbit, she gently closes her eyes as if the emotional weight has become too much. Her expression reveals deep sadness, heartbreak, loneliness, and emotional exhaustion.
+
+  7–10 seconds: The camera slowly moves closer into an even tighter emotional close up. She opens her eyes. Another tear falls naturally down her cheek. Time gently begins moving again. Suspended raindrops continue falling, distant cars resume moving, and the city quietly returns to life. She gives a very faint, broken smile, as if she has finally accepted the pain even though it still hurts.
+
+  Camera: Begin with an intimate facial close up. Use a slow cinematic orbit around her during the frozen time moment. Finish with an extremely tight emotional close up focused on her eyes and expression.
+
+  Visual Style: Ultra cinematic realism with soft night lighting, shallow depth of field, beautiful background bokeh, wet street reflections, realistic rain, subtle handheld camera movement, natural skin texture, believable tear physics, detailed facial emotion, restrained acting, and strong visual storytelling.
+
+  The frozen time effect should feel elegant, realistic, and emotionally meaningful rather than supernatural or exaggerated.

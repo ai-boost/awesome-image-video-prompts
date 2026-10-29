@@ -1,0 +1,29 @@
+id: wan-automated-future-six-beat-film
+title:
+  en: Drone and sidewalk bot deliver meals to lockers
+  zh: 无人机与送餐机器人向储物柜投递餐食
+model: Wan 3.0
+mode: text-to-video
+category: cinematic
+tags:
+- automation
+- social-commentary
+- near-future
+- multi-beat
+source:
+  name: '@amynys on X'
+  url: https://x.com/amynys/status/2102744803481997372
+  credit: Amy G
+  likes: 36
+  captured: '2026-10-29'
+  posted: '2026-09-23'
+video: https://x.com/amynys/status/2102744803481997372
+notes:
+  en: Six timed beats, each with a clear visual transition, give the model a shot-by-shot structure across the full 30 seconds. One fixed palette, a restrained camera, and explicit bans on logos and captions keep the film coherent and quiet.
+  zh: 六段带时间码的镜头各有明确的视觉转场，让模型按镜头顺序完成整段30秒影片。固定的青蓝色调、克制的运镜，以及禁止logo和字幕的约束，使影片风格统一、氛围安静。
+prompt: |
+  Create a 30-second cinematic near-future social commentary film with one coherent visual language: sleek photorealistic megacity, cool cyan and steel-blue light, restrained camera movement, subtle electronic ambience, realistic human behavior, no logos, no readable brand names, no on-screen captions.
+
+  Structure the film as six connected beats with clear visual transitions and escalating unease: 0-5s, autonomous delivery drones and small sidewalk bots bring steaming meals to apartment doors while residents receive them through smart lockers; 5-10s, people summon a silent autonomous taxi from their phones, the vehicle arrives with an empty driver’s seat and smoothly carries them through neon traffic; 10-15s, anxious investors sit before transparent AI financial interfaces asking for advice, algorithmic recommendations replace human brokers, no brokers or advisors are present; 15-20s, a wide public square and office district reveal people with no jobs, automated systems operating everywhere while unemployed adults wait quietly, subdued faces and empty workplaces; 20-25s, an enormous clean factory shows robotic arms producing identical consumer products, packaging them and lining them up in immaculate rows, no human workers visible; 25-30s, pull back to a vast silent retail warehouse and storefronts filled with untouched products, no customers buying, a few people stare through glass at the abundance, the final image is still and emotionally cold. End with a slow wide shot emphasizing that automation has optimized production and convenience but removed work, human mediation, and demand.
+
+  Avoid gore, violence, comedy, or exaggerated sci-fi spectacle; make the critique feel plausible, quiet, and unsettling.

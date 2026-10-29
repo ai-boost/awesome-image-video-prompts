@@ -1,0 +1,165 @@
+id: wan-swiss-alps-music-video-montage
+title:
+  en: Red Adidas jacket woman checking phone by hotel
+  zh: 红色阿迪达斯外套女子在酒店前看手机
+model: Wan 3.0
+mode: text-to-video
+category: music-dance
+tags:
+- travel
+- music-video
+- switzerland
+- fashion
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2095366973878419801
+  credit: M-studioAi
+  likes: 151
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+video: https://x.com/Strength04_X/status/2095366973878419801
+notes:
+  en: A timeline of short shots with a hard cut on each gesture gives the model a clear beat per shot. A consistency lock repeats the face, outfit and white wired earphones in every shot so the lead keeps the same identity across cuts.
+  zh: 提示词按秒数写成分镜时间线，每个镜头以一个动作结束并硬切，让模型每段只需完成一个动作。一段一致性锁定条款在每个镜头重复人物脸部、服装和白色有线耳机，使主角在切换中保持同一形象。
+prompt: |
+  30-second cinematic travel music-video montage of one beautiful sweet slim young woman exploring Switzerland - lakeside city park to alpine chapel wishing grounds to dramatic Swiss Alps - listening to music on white wired earphones, changing Adidas tracksuits, ending in a plaza dance with a friend and bold yellow title cards. Photoreal live-action. Hard cuts only. No fades. No slow-mo except one brief hair-whip.
+
+  [GLOBAL STYLE]
+  Genre: premium travel music video / fashion travel film, 2024–2026 commercial grade.
+  Look: photoreal cinema, slight filmic grain, mild halation on highlights, teal-cyan skies, punchy crimson reds, deep forest greens, warm skin, crushed-but-not-crushed blacks.
+  Color grade: cinematic teal-and-warm, greens slightly cyan, red Adidas pops hard against foliage, golden rim on face in sun, cool mist in mountain valleys.
+  Lens language: 35mm and 50mm for portraits, 24mm for landscapes and stairs, occasional 85mm compression on face. Shallow DOF on close-ups, deep focus on mountain wides.
+  Shutter: 180-degree cinematic, natural motion blur on hair and fabric, no soap-opera 60fps look. 24fps. No CGI look, no plastic skin, no beauty-filter smoothing, no extra fingers, no warped architecture.
+  Do not invent logos other than the Adidas trefoil already on garments. Do not add watermarks or random UI.
+
+  [SCENE]
+  A beautiful sweet slim young woman in her early 20s spends a sunlit day moving through Switzerland. She has a delicate oval face, large expressive dark-brown eyes, long straight black hair, soft natural eyebrows, heavy winged black eyeliner, long lashes, glossy nude-rose lips, a tiny natural nose, smooth warm fair skin, slim athletic build, long elegant neck, long manicured white/nude nails and small silver earrings. She is naturally beautiful and youthful, with a soft closed-mouth smile that opens into a genuine laugh. No glasses. She never speaks. White wired earphones in both ears in every shot she appears, cord clearly visible.
+
+  [CHARACTERS]
+  LEAD - lock identity for the entire clip:
+  Same beautiful sweet slim young woman in every shot. Long straight black hair, large dark-brown eyes, winged black eyeliner, long lashes, glossy nude-rose lips, warm fair skin, slim athletic build, long manicured white/nude nails, small silver earrings. No glasses. White wired earphones always present.
+
+  FRIEND (appears only 21s–30s):
+  Beautiful young East-Asian woman, early 20s, long dark hair, rounder softer face, wearing a loose mint/light-teal oversized t-shirt and black wide trousers. Same joyful energy. No earphones.
+
+  BACKGROUND PEOPLE: real Swiss tourists and workers, mixed ages, natural clothing, never looking at camera, never frozen, never identical twins.
+
+  [WARDROBE - three looks, change only at the stated cuts]
+  LOOK A (0–7s): crimson-red Adidas firebird track jacket, high collar zipped, white shoulder stripes, white wired earphones, holding a peach/rose gold iPhone in a dark case.
+  LOOK B (7–16s): dark forest-green Adidas cropped jersey with white 3-stripes on sleeves + white trefoil, white crop undershirt peek, baggy mint-teal track pants with side stripe, thick silver chain with small gold star pendant, stacked gold bangles, small white structured handbag, midriff visible.
+  LOOK C (16–30s): black Adidas track jacket, white 3-stripes, white trefoil on left chest, black pants, silver studded belt, same earrings. Hair slightly wind-tossed.
+
+  [LOCATIONS - use these exact environments]
+  LOC 1 Lakeside city park: elegant European hotel tower with many balconies, blue sky with stacked white clouds, green trees, small glass greenhouse roof in lower corner.
+  LOC 2 Alpine wishing pavilion: dark wooden mountain pavilion, small signboard, dense hanging red wooden wish plaques with gold tassels, stone incense burner, carved stone pillar, red lanterns, lush green hillside behind.
+  LOC 3 Long stone stairway packed with tourists, yellow monumental type overlaid later.
+  LOC 4 Close incense: three thick red-and-gold ceremonial incense sticks planted in ash, blessing characters in gold, thin smoke.
+  LOC 5 Traditional alpine chapel complex against steep green mountain, dark tiled roofs, circular window, stone plaza.
+  LOC 6 Wooden rope-and-post bridge over turquoise water, alpine buildings behind.
+  LOC 7 Cliff viewpoint: rough log railing, sheer green valley dropping away.
+  LOC 8 Classic Swiss Alps sea-of-clouds: dramatic jagged peaks rising through white mist.
+  LOC 9 Forest path: two wooden mountain sedan chairs carried on shoulder poles by four working men, tourists walking the same paved trail under dense canopy.
+  LOC 10 Turtle release pond: wooden sign 「放生池」, stone turtles in shallow water, small fountain jet.
+  LOC 11 Forest floor: one wild macaque sitting on a mossy rock, looking at camera, still.
+  LOC 12 Mountain-gate plaza: grey stone paving, rows of red vertical banners, cable-car cabins on far green slope, single alpine peak in mist behind traditional roofs.
+
+  [CONSISTENCY LOCK]
+  Same beautiful sweet slim lead face, hairline, makeup, ear shape and nail style in every shot.
+  Earphones stay white wired earbuds, cord always present.
+  Adidas stripes stay physically correct - three stripes.
+  Architecture stays European alpine or natural Swiss mountain environments.
+  No Japanese torii, Chinese temples, tropical architecture or generic fantasy buildings.
+  Crowd density stays naturalistic.
+  No readable random text except specified sign and two English title cards.
+
+  [FIRST FRAME]
+  Medium shot, lead in LOOK A, standing in LOC 1 park. Hotel tower rises out-of-focus behind her right shoulder. She looks down at phone held in both hands. Soft overcast-blue daylight. Hair still. End state: still looking at phone.
+
+  [TIMELINE — 30 seconds, hard cuts on movement]
+
+  0.0–2.4s SHOT 1 - OPEN
+  Medium, slightly low, 35mm. Lead in red jacket, head tilted down, thumbs moving on peach iPhone. Hotel tower and clouds hold top third. Gentle handheld drift. Hard cut on thumb tap.
+
+  2.4–4.2s SHOT 2 — PHONE INSERT
+  High-angle ECU of phone in her hands, long white nails visible. Music-player UI on dark lock-screen-style player, play/pause visible, white earphone jack at bottom. Tiny finger adjustment. Hard cut.
+
+  4.2–7.0s SHOT 3 — EARPHONES IN
+  Medium close-up, 50mm, trees creamy green bokeh. She lifts right hand and seats white earbud, then drops hand. Eyes half-closed, private sweet smile starts. Very slow push-in. Both buds visible. Hard cut.
+
+  7.0–9.2s SHOT 4 — ALPINE PORTRAIT
+  Medium close-up. Instant wardrobe snap to LOOK B. Wishing wall behind her, warm late-afternoon side light. She looks into camera with a small sweet smile, then smile widens. Hard cut.
+
+  9.2–11.4s SHOT 5 — STAIRS + TITLE
+  Wide, 24mm, low on long stone stairway crowded with tourists. Lead in LOOK B, mid-stairs, one arm raised, one knee lifted playfully, white bag in down hand. Giant bold yellow type slams on: 【SWITZERLAND】 filling frame around her. Sharp condensed sans, no shadow. Hard cut.
+
+  11.4–13.2s SHOT 6 — HAIR WHIP / LAUGH
+  Medium tracking as she spins. Hair fans naturally with delayed follow-through. Big open-mouth laugh, chin up, looking toward mountains. Hard cut.
+
+  13.2–14.6s SHOT 7 — INCENSE ECU
+  Macro close of three red-and-gold ceremonial incense sticks in ash, grey burned tips, thin smoke. Shallow DOF, green bokeh. Hard cut.
+
+  14.6–16.2s SHOT 8 — WISHING PLATFORM
+  Medium walking shot. Lead approaches wooden wishing platform laughing, red plaques and warm lamps behind. Tourist crosses behind. Handheld follow. Hard cut.
+
+  16.2–18.0s SHOT 9 — BRIDGE POSE
+  Medium-wide. LOOK C begins. She leans on rope-and-wood bridge rail, torso twisted back toward camera, white bag on shoulder, mountains soft behind. Confident sweet look-to-camera. Hard cut.
+
+  18.0–19.6s SHOT 10 — CLIFF BACK
+  Over-shoulder / behind, 24mm. She stands at log railing looking into deep green alpine canyon. Back of black jacket and falling hair visible. One hand rises to rail. Hard cut.
+
+  19.6–21.4s SHOT 11 — ALPINE PORTRAIT
+  Medium, she leans on same rail facing us, LOOK C, dramatic Swiss peaks and sea of clouds behind. Open smile. Cool mountain light and mist. Hard cut.
+
+  21.4–23.2s SHOT 12 — SEDAN CHAIRS
+  Wide tracking from behind on forest road. Two wooden sedan chairs carried uphill by four men. Other hikers ahead through green misty tunnel. Walking pace. Hard cut.
+
+  23.2–24.6s SHOT 13 — SEA OF CLOUDS
+  Locked-off-feeling wide of jagged Swiss peaks punching through thick white cloud. Pine tips lower left. Almost imperceptible drift. No people. Hard cut.
+
+  24.6–26.2s SHOT 14 — TWO GIRLS WALK
+  Medium two-shot. Lead in LOOK C and friend in mint tee walk toward camera, glance at each other and laugh. Stone path, blue umbrellas and timber shops behind. No dialogue. Hard cut.
+
+  26.2–27.4s SHOT 15 — TURTLES / MONKEY INSERT
+  0.6s ECU fountain and stone turtles under wooden sign, then 0.6s single macaque sitting on moss looking into lens. Natural forest light. Hard cut.
+
+  27.4–30.0s SHOT 16 — PLAZA DANCE + TITLE
+  Wide-to-medium in LOC 12 plaza. Lead and friend dance. Lead throws both arms up, sleeves flying, friend grabs her hair and laughs. Red banners, misted alpine peak and tiny cable cars behind. At 28.2s giant yellow type hits: 【NEVER SAY】 then on next step 【NEVER】 stacking over them. Final frame: lead mid-laugh, arms high, type still on. Cut to black on last frame. No fade.
+
+  [CAMERA / OPTICS]
+  Portraits: 50mm, eye-level or slightly below.
+  Landscapes: 24mm, horizon upper third.
+  Inserts: 85–100mm compression.
+  Movement only: gentle handheld breathe, slow push-in, walking follow, one hair-spin track. No crash zooms. No Dutch angles.
+  Every cut lands on gesture, never frozen.
+
+  [PHYSICS]
+  Hair has real mass and delayed follow-through.
+  Tracksuit nylon wrinkles and catches wind.
+  Incense smoke rises in thin broken threads.
+  Cloud around peaks is volumetric and slow.
+  Sedan-chair poles flex under weight.
+  Jacket sleeves lag slightly when arms rise.
+
+  [LIGHTING]
+  Park: bright overcast-blue, soft top light.
+  Wishing pavilion: warm practical lamps mixed with late-day sun.
+  Mountains: cooler, mist-filled, soft white bounce on face.
+  Plaza: open daylight, slightly overcast, saturated colors.
+  Skin has real cheekbone highlight and tiny catchlight in both eyes.
+
+  [ON-SCREEN TEXT — only these two, exact]
+  9.2–11.4s: 【SWITZERLAND】 — huge mustard-yellow condensed sans, centered, letters occupy most of frame.
+  28.2–30.0s: 【NEVER SAY NEVER】 — same yellow condensed sans, stacked two or three lines over dancing pair. No other captions, lyrics, subtitles or location text.
+
+  [AUDIO]
+  <soft thumb taps on glass at 2.4s>
+  <earbud click at 4.6s>
+  <distant crowd murmur, wooden wind chime, thin incense crackle 7–16s>
+  <open mountain wind, far cable-car hum 16–24s>
+  <sedan-chair pole creak, footsteps on wet stone 21–23s>
+  <water jet, turtle splash 26.2s>
+  <plaza footsteps, cloth rustle, short laugh not dialogue 27.4–30s>
+  No spoken lines. No voiceover.
+
+  [MAINTAIN CONSISTENCY]
+  One beautiful sweet slim lead. One friend after 21s. Three outfits only, changing only at named cuts. White wired earphones on lead in every shot. Swiss alpine architecture + Swiss mountain geology only. Yellow typeface identical on both cards. Photoreal, no stylized 3D, no anime, no beauty-app skin.

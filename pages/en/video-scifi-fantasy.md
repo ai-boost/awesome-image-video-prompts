@@ -1,6 +1,6 @@
 # Sci-fi and fantasy
 
-[Back to the list](../../README.md) · All 62 entries
+[Back to the list](../../README.md) · All 82 entries
 
 <a id="seedance-lab-containment-breach"></a>
 ### Lab containment breach, sci-fi horror
@@ -267,6 +267,107 @@ A dark, emotionally charged medieval fantasy drama, cinematic 16:9 widescreen fo
 
 </details>
 
+<a id="h3-dragon-rider-snowy-forest-deer"></a>
+### Woman rides red dragon over snowy mountains
+
+<a href="https://x.com/Aiwithmaha/status/2115298302367568077"><img src="../../previews/h3-dragon-rider-snowy-forest-deer.jpg" width="360"></a>
+
+The clip is split into timed beats, each with its own action and camera direction, so the rider, dragon and deer appear in a clear sequence. The closing visual style block fixes character, lighting and vertical format across all beats.
+
+MiniMax H3 · Text-to-video · Source: [@Aiwithmaha on X](https://x.com/Aiwithmaha/status/2115298302367568077) · 217 likes on 2026-10-29
+
+[`dragon`](tags.md#tag-dragon) [`fantasy`](tags.md#tag-fantasy) [`winter`](tags.md#tag-winter) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Step 1 — 0 to 3 Seconds:
+A beautiful woman wearing an elegant white flowing gown with delicate lace sleeves rides on the back of a majestic red dragon. The dragon flies gracefully above a snow-covered forest surrounded by towering pine trees and majestic snowy mountains. Its enormous wings move naturally as it glides through the cold winter air. The camera captures a cinematic side view of the woman and the dragon in flight.
+
+Step 2 — 3 to 5 Seconds:
+The red dragon begins descending toward a snowy clearing in the forest. The woman remains seated on its back, holding on gently as the dragon lowers its wings. Several wild deer and other animals are visible on the snowy ground below. The camera follows the dragon's smooth descent.
+
+Step 3 — 5 to 8 Seconds:
+The dragon lands gracefully in the snowy clearing, spreading its enormous wings. The woman carefully dismounts and walks toward a beautiful brown deer with large antlers. The dragon stands behind her, watching calmly. The camera captures the magical winter environment and the realistic interaction between the characters.
+
+Step 4 — 8 to 12 Seconds:
+The woman gently embraces the deer and lovingly strokes its head. The deer calmly approaches her and rests its head near her shoulder. She smiles warmly while the majestic red dragon watches from behind. The camera moves closer to capture the emotional connection between the woman and the deer, with soft snowfall and cinematic lighting.
+
+Step 5 — 12 to 15 Seconds:
+The woman continues embracing the deer as the red dragon raises its head and opens its mouth, releasing a powerful stream of bright orange fire into the snowy clearing. The fire illuminates the surrounding snow, the dragon's red scales, and the woman's white gown. The deer remains beside her as the scene ends with a dramatic cinematic fantasy atmosphere.
+
+Visual Style:
+Ultra-realistic fantasy cinematography, detailed dragon scales, realistic deer fur, natural character movements, flowing white dress, cinematic camera motion, realistic fire simulation, snowy mountain environment, soft atmospheric lighting, high detail, vertical 9:16 format, consistent character appearance, no text, no watermark.
+```
+
+</details>
+
+<a id="seedance-floating-cloud-village-reveal"></a>
+### Floating cloud village reveal with aerial pull-up
+
+<a href="https://x.com/laviniavelle/status/2097622617968751012"><img src="../../previews/seedance-floating-cloud-village-reveal.jpg" width="360"></a>
+
+The prompt lays out the shots in order: a wide golden cloud sea, a transition into the village, then a slow upward pull that reveals the whole floating city. Naming each camera move gives the model a clear sequence instead of one static scene.
+
+Seedance 2.5 · Text-to-video · Source: [@laviniavelle on X](https://x.com/laviniavelle/status/2097622617968751012) · 216 likes on 2026-10-29
+
+[`aerial`](tags.md#tag-aerial) [`fantasy`](tags.md#tag-fantasy) [`clouds`](tags.md#tag-clouds) [`camera-move`](tags.md#tag-camera-move)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a cinematic photorealistic fantasy world built entirely above the clouds Start with a breathtaking aerial view of massive fluffy white clouds glowing in warm golden sunlight Smoothly transition into a beautiful futuristic village floating among the clouds with elegant modern white buildings cozy houses lush green gardens colorful flowers and people walking and riding bicycles on soft cloud covered streets Show people enjoying this magical sky world walking cycling gardening, and relaxing Then slowly pull the camera upward and reveal a massive breathtaking floating civilization stretching across the clouds with bridges islands homes gardens and futuristic structures surrounded by endless blue sky and dramatic volumetric clouds Bright cinematic sunlight realistic shadows natural human movement highly detailed environments dreamy but photorealistic, epic scale smooth camera movement, aerial drone shots cinematic depth of field realistic physics 8K, ultra detailed, seamless transitions, inspirational fantasy atmosphere.
+```
+
+</details>
+
+<a id="seedance-alien-council-summoning-cave"></a>
+### Hero pulled into cave of four alien council members
+
+<a href="https://x.com/aimikoda/status/2087563695849189516"><img src="../../previews/seedance-alien-council-summoning-cave.jpg" width="360"></a>
+
+Six reference images each lock one character's look, and the prompt fixes every council member to a clock position so they stay distinct across shots. Timed beats with slow motion only at each blade contact control pacing, and a separate close-up for each speaker change keeps lip sync readable.
+
+Seedance 2.5 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2087563695849189516) · 215 likes on 2026-10-29
+
+[`reference-images`](tags.md#tag-reference-images) [`multi-character`](tags.md#tag-multi-character) [`timed-beats`](tags.md#tag-timed-beats) [`alien-creatures`](tags.md#tag-alien-creatures)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+一部写实真人科幻奇幻短片从失控的异星召唤仪式切入：Shade被从高楼坠落的瞬间强行拉入地下议会洞窟，随后与一只活体武器生物联结，以超高速迎战四名外形完全不同的异星议员。
+
+@[Image 1] 定义Shade在全片中的唯一身份、完整外观、服装与身体比例；忽略设定图背景、文字和重复姿态。
+@[Image 2] 定义“垂鳍议员”的完整外观；固定其圆润无巨角头部、巨大橙眼和两条下垂肉质头鳍，忽略版式与重复视角。
+@[Image 3] 定义“珊瑚冠议员”的完整外观；固定其白蓝高挑身体、红色分叉珊瑚冠和四条弧形背部附肢，忽略版式与重复视角。
+@[Image 4] 定义“叉冠议员”的完整外观；固定其巨大U形多孔头冠、橙眼、极长颈和长尾，忽略版式与重复视角。
+@[Image 5] 定义“长耳议员”的完整外观；固定其两只笔直长耳、窄脸绿眼和肩后长带状鳍，忽略版式与重复视角。
+@[Image 6] 定义“小兽”的完整外观，并定义其活体武士刀形态的生物材质来源；保留橙色眼、珊瑚色皮板、白色花瓣状鳞片和触须的可识别延续，忽略版式与重复视角。
+最终画面是高质感真人电影，不呈现概念图或二维动画。使用实景湿岩洞窟结合无缝生物VFX，真实皮肤微纹理、半透明组织、布料惯性、重量、碰撞、空气阻力和重力。议会厅是高耸到黑暗中的巨型洞穴，天然岩壁与肋骨状外星结构融合，中央圆形召唤台被冷青环境光和珊瑚红仪式光切开，水汽、尘粒和深层体积雾形成纵深。
+四名议员是四个连续存在的独立个体。以祭坛入口为12点方向，垂鳍议员固定在10点、珊瑚冠议员在2点、叉冠议员在5点、长耳议员在8点，Shade位于中心。战斗前保持这些位置。每个全景都清楚读出四种不同的头部轮廓、身高、颈长、背部附肢与尾巴；各自的脸、耳、冠、颜色和台词始终归属原角色。全片始终只有一个Shade、一只小兽和四名议员；小兽与武士刀是同一身体，绝不同时出现。
+镜头采用清晰的多机位动力叙事：环境与动作使用有强纵深和视差的24-35mm感，台词与变形使用自然压缩的50-85mm近景；先建立圆形地理，再沿顺时针动作轴追随Shade。只在说话者变化、真实接触、运动方向改变或不可逆结果出现时切镜。战斗镜头贴近主体追踪，穿过前景附肢并始终保留下一目标的方位。
+所有对白逐句显示底部居中的英文字幕，屏幕文字仅限这些英文字幕，不生成中文字幕，不把外星语拼写显示在画面中。Shade与小兽说自然英语并准确对口型。四名议员只说同一种急促、低沉、带喉音与咔嗒辅音的外星语；四名议员的可听台词中不出现英语，其英文含义只通过字幕呈现。
+0-2秒：从召唤已进入危险峰值的第一帧开始。高位广角快速下降，四名不同议员在各自固定方位驱动同一仪式，身体附肢动作彼此不同；地面符号向中心输送四股光。能量柱撕开空间，把仍带向下动量的Shade抛到中心，Shade单膝和手掌重重触地，衣摆与头发随后落下，冲击波沿圆环扩散，传送门闭合。
+
+2-8秒：手持中近景跟随Shade起身，视线扫过陌生生物，呼吸浅促，肩膀绷紧。Shade用英语说：{Where am I? How did I get here?}，字幕【Where am I? How did I get here?】。仪式余光在Shade瞳孔中闪白，在闪光上匹配剪辑到夜间屋顶。闪回用三个因果连续镜头：低侧广角明确展示楼间距离与助跑；鞋底踩中湿滑起跳边缘后失去抓地，跃程明显不足；手指擦过对面混凝土檐口却抓空，身体被真实重力迅速拉下，城市灯光产生强烈垂直视差，头发和衣料被上升气流掀起，镜头与Shade同步俯冲。Shade英语内心旁白：{The last thing I remember is missing that jump. Is this hell?}，字幕同句。黑暗楼体从上方填满画面，在8秒以同一向下运动方向硬切回洞窟。
+
+8-14秒：Shade仍站在圆环中心。依次切四个清晰近景，每次只让当前说话者口部运动，识别锚点保持正确，边缘背景保留其原始方位。垂鳍议员发出外星语，字幕【Another scrawny one.】珊瑚冠议员愤怒反驳，字幕【Your fault!】叉冠议员尖锐插话，字幕【I told you we needed to change the summoning method.】长耳议员压下争吵，字幕【Stop arguing. We have to make do with what we've got.】所有可听台词均为外星语，不朗读字幕英文；最后一句结束时拉回中心广角，Shade与四种不同轮廓同时清楚可见。
+
+14-18秒：保持群像，Shade低声用英语说：{What are they talking about?}，字幕同句。一缕残余召唤能量在Shade肩上逐层凝成同一只小兽。小兽贴近耳边急促说英语：{No time. They'll kill you. Kill them first. Keep up.}，字幕同句，然后跃到Shade面前。
+
+18-22秒：一个不中断的近景完整展示所有变形中间态，稳定照明使轮廓和材质变化始终可读。小兽的尾巴先伸长并硬化为弧形刀背；腹面的半透明角质层沿全长展开成薄而锋利的单刃；珊瑚色皮板逐片咬合，白色花瓣鳞片压平组成刀脊和刀镡；躯干收窄为活体刀芯，四肢折叠锁成刀柄，触须编绕成握把；一只橙色眼保留在刀镡处并眨动。整个变化保持质量守恒，不凭空出现零件。最终形成约一米长、修长、窄刃、单刃、轻微弧度的活体武士刀，而非宽刃金属巨剑。Shade在空中抓住刀柄，活体肌腱缠绕手腕和前臂，与袖口贴合融合，刀镡上的眼睛转向首名攻击者。
+
+22-28秒：四名议员同时主动杀向中心：垂鳍议员以头鳍和利爪从左侧抓取；珊瑚冠议员张开四条背肢形成合拢牢笼；叉冠议员用长尾横扫退路；长耳议员用两条肩鳍交叉封锁上方。Shade沿顺时针路线爆发出近乎不可见的超高速，目标顺序固定为垂鳍、珊瑚冠、叉冠、长耳，仍活着的议员持续追击、封路和调整攻击。
+
+目标之间是带虹彩残像、空气压缩波、碎屑吸卷和强视差的速度爆发；只有四次刀刃接触颈部的瞬间恢复正常实时速度，清楚看到刀刃进入、头颅完全分离、少量暗色异星体液和身体按原有动量倒下，随后立刻重新加速。第一击从头鳍抓取下方掠过并斜向上切；第二击穿入尚未闭合的背肢牢笼，以反握横切暴露颈部；第三击越过扫来的长尾，借其旋转动量绕至长颈外侧完成水平切割；第四击以活体刀镡拨开交叉肩鳍，用残像诱导错误方向后出现在长耳议员身后完成收刀斩。
+
+镜头先短暂俯视确认圆环，再俯冲进入低位贴身追踪，以甩镜连接极速位移，在每次接触时稳定成可读侧面近景；四颗不同轮廓的头依次落地，尸体与头颅持续留在原位。
+
+28-30秒：Shade沿可见虹彩轨迹回到圆环正中心并减速显形，四具无头尸体和四颗头仍在各自倒下的位置。活体刀从前臂松开，在近景中快速反向变形：肌腱退开，刀身皮板变软分离，尾巴缩短，四肢和头部展开，同一只小兽落回Shade肩上。音乐与速度轰鸣在最后一次接触后骤停，只剩洞穴回声和Shade的呼吸。Shade看向小兽，用英语问：{Now what?}，字幕【Now what?】；在小兽回答之前立即黑切。
+```
+
+</details>
+
 <a id="h3-forgotten-kingdom-stone-bridge-traveler"></a>
 ### Traveler Crosses Stone Bridge to Hidden Kingdom
 
@@ -286,6 +387,29 @@ A cinematic 15-second fantasy adventure following a lone traveler as they cross 
 
 </details>
 
+<a id="seedance-fog-megacity-titan-takedown"></a>
+### Fog covered megacity at sunrise from above
+
+<a href="https://x.com/SyntheSarah/status/2089538609858875714"><img src="../../previews/seedance-fog-megacity-titan-takedown.jpg" width="360"></a>
+
+The prompt reads as a shot list, one paragraph per beat, and each beat names its own camera move, such as an over the shoulder track, a 360 degree orbit and a closing aerial pull up, which gives the model a clear edit order. A closing constraints block fixes lens, grain and character continuity so the face and dark suit stay the same across cuts.
+
+Seedance 2.5 · Text-to-video · Source: [@SyntheSarah on X](https://x.com/SyntheSarah/status/2089538609858875714) · 195 likes on 2026-10-29
+
+[`sci-fi`](tags.md#tag-sci-fi) [`megacity`](tags.md#tag-megacity) [`aerial`](tags.md#tag-aerial) [`continuity`](tags.md#tag-continuity)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+An ultra-photorealistic live-action sci-fi cinematic sequence set in a vast, ruined futuristic megacity at pre-dawn, framed by towering obsidian skyscrapers, rain-drenched streets, hanging fog, and a massive alien mothership hovering silently above the skyline. A 15-meter gunmetal combat robot featuring weathered armor plates, exposed mechanical hydraulics, and a pulsing blue chest core violently charges through the wreckage, sending shockwaves through puddles and scattering concrete debris. The camera rapidly drops into an over-the-shoulder tracking perspective following a 25-year-old female warrior—with long messy dark-brown hair, brown eyes, realistic skin texture, and a practical dark armored tactical suit—as she draws an energy spike weapon and sprints head-on into the titan’s path.
+As the machine executes a massive overhead downward strike, she dives into a low power-slide directly beneath its crushing fist. The fist shatters the asphalt with heavy physical impact, launching a wall of water, sparks, and pulverized stone into the air with natural motion blur. Utilizing her forward momentum, she vaults onto the robot’s lower leg armor, gripping fractured metal seams and scaling its massive torso while the camera swings in a continuous, dynamic 360-degree orbital arc around the rising combatants. She narrowly dodges a sweeping mechanical hand, maneuvers past sparking internal wiring, and reaches the glowing chest housing.
+A dramatic tight close-up captures her fierce, determined expression as she drives the high-density energy spike straight into the center of the core. Blinding blue-white electrical arcs burst violently through the titan’s internal conduit networks, illuminating its mechanical structure, causing its red eye-visors to flicker out, and shutting down its central power. The colossal machine loses balance and collapses forward with immense, realistic weight, slamming onto the roadway and kicking up a thick cloud of dust, smoke, and steam.
+She leaps clear and lands gracefully in a grounded stance beside the smoking wreck, standing tall as the dust settles. The camera smoothly pulls up into a grand high-altitude aerial view as golden sunrise beams break through the storm clouds, washing over the destroyed city street while the giant mothership slowly retreats into the upper atmosphere.
+Technical Constraints: 4K HDR live-action film quality, photorealistic 35mm grain, 85mm cinematic lens depth of field, realistic gravity and collision physics, volumetric smoke and fog lighting, precise character facial feature and dark tactical suit continuity across all frames, zero morphing, zero cartoon/CGI aesthetic, no extra limbs.
+```
+
+</details>
+
 <a id="h3-kitten-warrior-dragon-friendship-meadow"></a>
 ### Kitten warrior meets giant dragon in meadow
 
@@ -301,6 +425,217 @@ MiniMax H3 · Text-to-video · Source: [@LettyVesper on X](https://x.com/LettyVe
 
 ```text
 A cinematic, ultra-realistic fantasy scene featuring an adorable fluffy ginger-and-white kitten warrior wearing miniature silver medieval armor, a flowing cream-colored cape, and carrying a tiny sword, standing bravely in a misty green meadow facing a massive, fearsome dragon covered in dark, rugged scales, sharp horns, and powerful leathery wings. The camera captures dramatic low-angle shots, close-ups of the kitten gripping its sword, and intense shots of the dragon lowering its enormous head toward the tiny warrior. The kitten initially stands courageously, but as the dragon approaches, it becomes frightened and drops its sword, looking up with teary eyes and a trembling expression. Suddenly, the mood shifts from danger to tenderness as the dragon gently touches its snout against the kitten, revealing a surprising bond between them. The kitten embraces the dragon's enormous face affectionately, and the dragon closes its glowing amber eyes peacefully. Golden sunset light illuminates the meadow, creating a magical, emotional atmosphere with volumetric lighting, realistic fur and scales, detailed metallic armor, cinematic depth of field, smooth camera movements, dramatic wide shots, intimate close-ups, 4K photorealistic CGI, and an epic fantasy film aesthetic, transitioning from suspense and fear to warmth, friendship, and heartwarming emotional connection.
+```
+
+</details>
+
+<a id="h3-kaiju-squid-airplane-window-city"></a>
+### Kaiju squid rampages through city seen from airplane
+
+<a href="https://x.com/Spectromachina/status/2084307393081401499"><img src="../../previews/h3-kaiju-squid-airplane-window-city.jpg" width="360"></a>
+
+The shot is framed as handheld footage through an airplane window, with plexiglass warp and condensation selling the real camera. Turbulence shake, engine and wind audio cues, and a late explosion beat supply motion and escalation.
+
+MiniMax H3 · Image-to-video · Source: [@Spectromachina on X](https://x.com/Spectromachina/status/2084307393081401499) · 186 likes on 2026-10-29
+
+[`kaiju`](tags.md#tag-kaiju) [`handheld`](tags.md#tag-handheld) [`city-destruction`](tags.md#tag-city-destruction) [`explosion`](tags.md#tag-explosion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+New MiniMax H3 video model running on consumer gpu, specs:
+
+ minimax_h3_fl2va_pruned_int8_convrot.safetensors 19gb
+Sampler: Euler, Scheduler: Normal
+Steps: 8
+Sage attention, RTX 4060ti 16gb, 64gb ram, ryzen 7
+263 seconds, 10 second video
+Image to video workflow (default from comfyui)
+
+Prompt: "Handheld documentary-style footage, shot from inside a flying airplane window, slightly warped by the plexiglass and streaked with condensation. Below, a colossal squid-like kaiju monster (see reference image) rampages through a dense city skyline, its massive tentacles coiling around skyscrapers and tearing through steel and concrete — glass and debris raining down in slow cascades. Camera shakes violently with turbulence, the framing jerking and re-settling as the handheld operator struggles to keep the monster in frame, engine drone and wind noise bleeding into the audio.
+
+Suddenly a blinding explosion detonates against the creature's flank causing major shockwave and destruction"
+```
+
+</details>
+
+<a id="seedance-jade-sword-water-dragon-cave"></a>
+### Woman with jade sword summons water dragon
+
+<a href="https://x.com/AiwithElisia/status/2087051732774011038"><img src="../../previews/seedance-jade-sword-water-dragon-cave.jpg" width="360"></a>
+
+The prompt is written as a shot list: a medium close-up opens, the camera pulls back to reveal the dragon behind her, then tilts up with it toward the ceiling, so each move has a clear start and end. Material and light terms such as wet stone, volumetric fog, rim lighting and cyan and emerald glow set the mood and keep the style consistent.
+
+Seedance 2.5 · Text-to-video · Source: [@AiwithElisia on X](https://x.com/AiwithElisia/status/2087051732774011038) · 169 likes on 2026-10-29
+
+[`xianxia`](tags.md#tag-xianxia) [`dragon`](tags.md#tag-dragon) [`dark-cave`](tags.md#tag-dark-cave) [`camera-pullback`](tags.md#tag-camera-pullback)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic fantasy scene inside a dark mystical cave. A beautiful young East Asian woman wearing an elegant flowing white and pale-green ancient Chinese fantasy robe, intricate floral hair ornaments and traditional hairstyle, kneels on a wet stone floor. She looks intensely focused as she holds a glowing magical green energy sword with both hands. Bright emerald-green energy flows from the sword into the ground, creating powerful magical light, mist and ripples across the wet floor.
+
+As the magical energy intensifies, a gigantic translucent ice-blue Chinese dragon made entirely of water and crystalline energy suddenly emerges from the ground behind her. The dragon rises dramatically, its long serpentine body twisting upward, detailed scales, horns, whiskers and glowing cyan-blue aura. Thick mist and water particles surround the dragon. The woman remains small in the foreground while the enormous dragon dominates the cave.
+
+The camera begins with a medium close-up of the woman, slowly pulls backward and reveals the full dragon emerging behind her, then tilts upward following the dragon as it rises toward the cave ceiling. At the end, the dragon bursts upward toward a bright opening in the cave, with rocks and debris floating and falling through the light.
+
+Dark cinematic atmosphere, mystical Chinese xianxia fantasy aesthetic, volumetric fog, dramatic rim lighting, glowing cyan and emerald energy, realistic wet surfaces, detailed fabric movement, realistic facial features, highly detailed dragon scales, epic scale, dynamic magical particles, cinematic depth of field, smooth camera movement, photorealistic VFX, movie-quality CGI, ultra-detailed, 4K, dramatic fantasy cinematography, 16:9.
+```
+
+</details>
+
+<a id="kling-cloud-creature-bedroom-sneeze"></a>
+### Fluffy cloud creature sneezes raindrops onto woman
+
+<a href="https://x.com/Strength04_X/status/2114623188202402063"><img src="../../previews/kling-cloud-creature-bedroom-sneeze.jpg" width="360"></a>
+
+Timed scene blocks with one action per beat, plus an explicit line to keep the same creature and woman across all scenes, hold the character steady over 30 seconds. Cues like soft volumetric sunlight and realistic fluffy cloud texture anchor the look, and the no text, no logos line keeps the frame clean.
+
+Kling 4.0 · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2114623188202402063) · 168 likes on 2026-10-29
+
+[`cloud-creature`](tags.md#tag-cloud-creature) [`fantasy`](tags.md#tag-fantasy) [`bedroom`](tags.md#tag-bedroom) [`multi-scene`](tags.md#tag-multi-scene)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+How am I supposed to move on after seeing this AI creature
+
+Made with Kling 4.0
+
+Prompt : Create a 30-second ultra-realistic cinematic fantasy video featuring a completely original miniature cloud creature in a charming countryside bedroom.
+
+Scene 1 (0–7 seconds): A tiny floating cloud creature with fluffy white fur, pale blue eyes, tiny dangling feet, and miniature translucent wings drifts above a wooden bedside table. Soft morning sunlight enters through linen curtains while dust particles shimmer in the air.
+
+Scene 2 (7–14 seconds): A young woman wearing a peach-colored cardigan and a cream skirt enters the room. The little cloud follows her curiously, hovering above her head. Suddenly, it sneezes and releases a tiny shower of sparkling raindrops onto her hair.
+
+Scene 3 (14–23 seconds): The woman looks surprised before smiling and holding out her hands. The cloud becomes excited and accidentally creates a miniature rainbow inside the room. Tiny floating droplets turn into glowing bubbles that gently drift around the furniture.
+
+Scene 4 (23–30 seconds): The cloud settles onto the woman's head like a fluffy hat. It produces one final tiny raindrop that lands on its own nose. The creature crosses its eyes trying to look at the drop, then giggles silently as a miniature rainbow appears above it.
+
+Visual style: Original imaginary creature, realistic fluffy cloud texture, expressive blue eyes, physically believable water droplets, soft volumetric sunlight, realistic reflections, pastel color palette, detailed fabric textures, cinematic close-ups, natural character animation, smooth camera movements.
+
+Duration: 30 seconds. Aspect ratio: 16:9. 4K cinematic quality. Preserve the same creature and woman across all scenes. No text, subtitles, logos, or watermark. Use original designs only.
+```
+
+</details>
+
+<a id="h3-maya-candyland-chaos-storyboard"></a>
+### Heroine among giant marshmallows and lollipops in Candyland
+
+<a href="https://x.com/MonetizationDon/status/2105971557772231027"><img src="../../previews/h3-maya-candyland-chaos-storyboard.jpg" width="360"></a>
+
+Thirteen timed panels each carry a camera move and a beat, and a fixed character sheet with hair, outfit and accessories repeats in every panel to hold identity across cuts. The prompt also names the franchise to avoid and states the content limits in plain words so the world stays original and safe.
+
+MiniMax H3 · Text-to-video · Source: [@MonetizationDon on X](https://x.com/MonetizationDon/status/2105971557772231027) · 162 likes on 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`character-consistency`](tags.md#tag-character-consistency) [`camera-direction`](tags.md#tag-camera-direction) [`candyland`](tags.md#tag-candyland)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 13-panel cinematic storyboard for an original 65-second family-friendly 3D animated short titled “MAYA: CANDYLAND CHAOS.”
+
+Maya is an original adult fantasy heroine with long dark-brown wavy hair, warm brown eyes, medium-brown skin, a blue adventure outfit, white jacket, red scarf and brown adventure boots. Maintain her exact facial identity, hairstyle, outfit, proportions and accessories across every panel.
+
+Panel 1 — HERE WE GO AGAIN (0–5s): Close-up, eye-level, slow push-in. Maya talks directly to camera before discovering a mysterious glowing candy portal.
+
+Panel 2 — THE CANDY PORTAL (5–10s): Wide dynamic shot, Dutch tilt, spiral camera movement as Maya is pulled into a swirling rainbow candy portal.
+
+Panel 3 — THE SWEET KINGDOM (10–15s): Epic wide establishing shot, low-to-high crane reveal of Candyland: giant lollipops, gumdrop hills, chocolate rivers, candy trees and a spectacular candy castle.
+
+Panel 4 — THE CHASE BEGINS (15–20s): Side tracking shot as playful original gummy creatures chase Maya through the candy forest.
+
+Panel 5 — LOLLIPOP ESCAPE (20–25s): Low-angle dynamic tracking shot. Maya dodges giant lollipops and escapes the creatures.
+
+Panel 6 — MARSHMALLOW CHAOS (25–30s): Fast side-tracking shot as Maya bounces across giant marshmallows in a hilarious chain reaction.
+
+Panel 7 — THE GIANT GUMMY (30–35s): Extreme low-angle hero shot. A gigantic friendly gummy creature rises in front of Maya.
+
+Panel 8 — RAINBOW CANDY SLIDE (35–40s): POV and tracking camera as Maya races down a massive rainbow candy slide through sparkling sugar tunnels.
+
+Panel 9 — CHOCOLATE RIVER (40–45s): Low water-level tracking shot as Maya rides a candy raft across a chocolate river toward the castle.
+
+Panel 10 — THE CANDY QUEEN (45–50s): Wide shot transitioning into a dramatic close-up. Maya encounters an original Candy Queen at the castle.
+
+Panel 11 — THE CUPCAKE TRICK (50–55s): Dynamic side-tracking shot. Maya uses a giant cupcake as a springboard to leap over the Queen's candy obstacles.
+
+Panel 12 — CANDYLAND CELEBRATION (55–60s): Epic wide crane shot. Gummy creatures celebrate as candy fireworks explode across the sky.
+
+Panel 13 — SWEET ENDING (60–65s): Wide sunset shot with a slow pull-back. Maya overlooks the entire Candyland kingdom and says, “Okay… that was definitely worth it.” She winks at the camera.
+
+Use professional cinematic composition, dynamic camera movement, dramatic lighting, expressive facial animation, depth of field, motion blur and high-end animated-feature-quality 3D rendering.
+
+IMPORTANT: Maya and Candyland must be completely original. Do not reference or resemble Alice, Wonderland, Disney, or any existing copyrighted character or franchise. Family-friendly fantasy adventure. No sexual content, suggestive posing, gore, horror or injuries.
+
+#polloaiCPP
+@polloai_creator
+```
+
+</details>
+
+<a id="seedance-seoul-celestial-guardian-transformation"></a>
+### Seoul golden hour skyline into celestial guardian transformation
+
+<a href="https://x.com/john_my07/status/2085973359221973300"><img src="../../previews/seedance-seoul-celestial-guardian-transformation.jpg" width="360"></a>
+
+Timestamped beats (0:00 to 0:03, 0:08 to 0:16) give the 30-second sequence a clear structure, and explicit no-cut and single 360 degree orbit instructions keep the transformation one continuous shot. Repeating identity anchors such as the crystal pendant, hair and golden eyes across beats helps the character stay consistent.
+
+Seedance 2.5 · Text-to-video · Source: [@john_my07 on X](https://x.com/john_my07/status/2085973359221973300) · 147 likes on 2026-10-29
+
+[`one-take`](tags.md#tag-one-take) [`transformation`](tags.md#tag-transformation) [`character-consistency`](tags.md#tag-character-consistency) [`seoul`](tags.md#tag-seoul)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+30-Second Cinematic Fantasy Transformation
+
+Ultra-photorealistic, blockbuster-quality CGI, IMAX-style cinematic composition, realistic physics, premium VFX, HDR, volumetric lighting, detailed environments, smooth animation, 4K. One cohesive continuous fantasy film sequence with perfect character consistency. No text, subtitles, logos, watermarks, copyrighted characters, cuts during transformation, teleportation, anatomy errors, duplicated limbs, or abrupt camera movements.
+
+0:00–0:03 — Seoul Before the Mystery
+Aerial golden-hour shot gliding over modern Seoul. Warm sunlight reflects across skyscrapers, traffic and pedestrians move naturally, cafés and streets glow softly. Amber-orange architectural lights blend with sunset. Glowing clouds gradually form above the skyline, signaling something extraordinary.
+
+0:03–0:06 — Celestial Colossus
+Camera tilts upward to reveal an enormous original celestial creature emerging peacefully from luminous clouds. Flowing light, shimmering particles, and energy waves surround it. Its immense scale fills the sky. People stop and gaze upward in wonder as warm amber holographic lights, distant drones, and city beacons glow naturally below.
+
+0:06–0:08 — The Guardian
+Camera moves through the crowd toward an elegant young Korean woman standing completely calm. Long dark hair moves naturally in the breeze. She wears a modern outfit with subtle amber accents and a crystal pendant around her neck. The pendant begins glowing warmly as she smiles softly. Camera slowly circles her.
+
+0:08–0:16 — Seamless Transformation
+The pendant bursts into brilliant amber-orange light. Without a cut, the camera performs one smooth 360° orbit as glowing energy ribbons spiral around her. Her outfit transforms gradually into an elegant futuristic guardian suit of white, silver, and black with refined amber highlights. Armor forms naturally from boots upward across her legs, waist, torso, shoulders, and arms. Metallic gauntlets materialize piece by piece and a luminous energy cape unfolds behind her. Her hair becomes more dynamic, her eyes gain a subtle golden glow, and her expression becomes confident and graceful. Crystals, sparks, leaves, particles, and light fragments orbit naturally. Maintain perfect facial identity, realistic anatomy, natural motion, and uninterrupted transformation.
+
+0:16–0:21 — Ascension
+Energy gathers around her and expands into a glowing circular wave. She lifts smoothly from the ground and flies upward, leaving an elegant amber-orange trail through Seoul. Camera follows behind, then transitions into sweeping aerial shots as she glides between skyscrapers and illuminated clouds. The celestial giant watches calmly from above.
+
+0:21–0:27 — Dance of Light
+High above Seoul, guardian and celestial giant interact through graceful energy rather than physical combat. Amber-orange, blue, and white light streams weave through the sky. She forms radiant shields, flowing energy ribbons, and luminous geometric patterns while gliding effortlessly. Alternate epic wide shots with cinematic close-ups of her consistent face. Clouds, particles, and city reflections intensify as the energy display reaches its peak.
+
+0:27–0:30 — Guardian of Seoul
+She raises one hand toward the sky. A brilliant amber beam surrounds the celestial giant, which peacefully dissolves into countless shimmering particles that become part of the sky. She lands gracefully on a modern rooftop overlooking Seoul. Her luminous cape moves in the evening breeze as glowing embers drift around her. Camera slowly cranes backward into an epic wide shot of the guardian overlooking the glowing city and sunset horizon.
+
+STYLE & CONTINUITY
+Premium blockbuster fantasy, ultra-photorealistic Korean heroine, seamless character identity, elegant camera choreography, realistic lighting and physics, cinematic depth, volumetric clouds, detailed reflections, natural environmental movement, warm amber-orange visual motif, emotionally uplifting tone.
+```
+
+</details>
+
+<a id="h3-eclipse-sci-fi-motion-poster"></a>
+### Dark sci-fi poster emerging from orange-lit storm clouds
+
+<a href="https://x.com/LudovicCreator/status/2087116928473006428"><img src="../../previews/h3-eclipse-sci-fi-motion-poster.jpg" width="360"></a>
+
+The prompt locks what must stay fixed (black background, palette, layout, typography) and then builds the poster in ordered layers from darkness, so the motion reads as reconstruction rather than drift. Sound cues such as keystrokes, beeps, metallic clicks and impacts are written into the same timeline as the visuals.
+
+MiniMax H3 · Image-to-video · Source: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2087116928473006428) · 135 likes on 2026-10-29
+
+[`motion-poster`](tags.md#tag-motion-poster) [`sci-fi`](tags.md#tag-sci-fi) [`layered-reveal`](tags.md#tag-layered-reveal) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Animate the source artwork as a 10-second dark cinematic sci-fi motion poster while preserving the full-frame black background, orange-and-teal palette, female profile, mechanical helmet, spacecraft, skyline, portal, typography and original layout. Begin in near darkness with only a faint orange glow, then construct the poster in layered stages: thin interface marks and corner graphics appear first, the storm clouds and futuristic skyline fade upward from the shadows, the enormous circular portal expands into position, and the woman’s profile slides in from the left as the mechanical helmet assembles behind her through rotating segmented parts. Illuminate the orange ring beside her face, then bring the central spacecraft rapidly forward from the portal before it settles beneath the “ECLIPSE” title, creating a strong 3D pop-out effect without changing the composition. Reveal the title, tagline, credits and release information through sequential type-on, tracking expansion and sharp graphic pop-ins, accompanied by playful but sophisticated digital keystrokes, interface beeps, metallic clicks and soft cinematic impacts. Complete the animation with small fighters crossing the background, subtle hair movement, drifting sparks, pulsing city lights and a slow final push-in, then hold on the fully reconstructed poster with every word sharp and readable.
+
+Made in MinimaxHub
+@Hailuo_AI
 ```
 
 </details>
@@ -361,6 +696,35 @@ Continuous unified train track sounds as the audio anchor; tunnel echoes, dinosa
 
 Continuity Constraints:
 The same train, same carriage, same group of passengers, same clothing, same seating layout, same window structure, same camera position throughout 30 seconds; scenes can only transition continuously via the train's forward motion, rock wall occlusions, smoke, steam, darkness, or large creatures passing by. The carriage does not deform, passengers do not teleport, creatures outside the window never enter the carriage.
+```
+
+</details>
+
+<a id="h3-moonlit-cloud-palace-back-view"></a>
+### Robed figure gazes at moonlit cloud palace
+
+<a href="https://x.com/Stellakjbk/status/2085040940196958664"><img src="../../previews/h3-moonlit-cloud-palace-back-view.jpg" width="360"></a>
+
+The subject is fixed as a still back view, and the negative prompt bans turning and walking so the motion goes to the environment. The slow push-in with the original composition held stable, plus drifting clouds, swaying pine and lantern light, gives the scene its movement.
+
+MiniMax H3 · Image-to-video · Source: [@Stellakjbk on X](https://x.com/Stellakjbk/status/2085040940196958664) · 123 likes on 2026-10-29
+
+[`xianxia`](tags.md#tag-xianxia) [`moonlight`](tags.md#tag-moonlight) [`back-view`](tags.md#tag-back-view) [`push-in`](tags.md#tag-push-in)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The camera slowly pushes forward, maintaining the original composition's stability. The sea of clouds and thin mist flow gently, the waterfall cascades naturally, starlight flickers faintly; the woman stands still with her back to the camera, her long hair and sleeves swaying lightly in the wind; pine branches sway gently, the lantern and its reflection on the ground shimmer slightly. An ethereal xianxia aesthetic, cold blue moonlight, cinematic lighting and shadows, with delicate and natural movements.
+Negative prompt: Character turning around, walking, deformation; architectural distortion, moon displacement, camera shake, rapid zooming, flickering frame skips, screen melting.
+
+Xianxia cinematic feel, the camera slowly pans, original composition stable. The sea of clouds and thin mist flow slowly, the palace bathed in golden morning light; character's back view stands still, cloak and hem swaying lightly; reflections on the bridge surface move subtly, pine trees sway gently, light motes float. Grand and sacred, with natural and delicate dynamics, 4 seconds.
+Negative prompt: Character turning around, character walking, character deformation, architectural deformation, camera shake, rapid movement, flickering frame skips, screen breakdown.
+
+Xianxia cinematic feel, the camera slowly pushes forward, original composition stable. The sea of clouds flows slowly, morning light spills down; character's back view stands still, hem and hair strands moving lightly; pine branches sway subtly, birds glide slowly past. Ethereal and beautiful, with natural dynamics, 4 seconds.
+Negative prompt: Character turning around, character walking, character deformation, architectural deformation, camera shake, rapid movement, flickering frame skips, screen breakdown.
+
+Xianxia cinematic feel, the camera slowly pushes forward, original composition stable. The sea of clouds and thin mist flow slowly, morning light spills over the palace and steps; character's back view stands still, cloak swaying lightly; the waterfall flows naturally, the floating island hovers subtly. Grand and ethereal, with delicate dynamics, 4 seconds.
+Negative prompt: Character turning around, character walking, character deformation, architectural deformation, camera shake, rapid movement, floating island drifting chaotically, flickering frame skips, screen breakdown.
 ```
 
 </details>
@@ -464,6 +828,105 @@ cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic u
 
 </details>
 
+<a id="wan-korean-girl-painting-comes-to-life"></a>
+### Painted flower and airplane come alive in Seoul
+
+<a href="https://x.com/NoOneIsHere2603/status/2094658391369191894"><img src="../../previews/wan-korean-girl-painting-comes-to-life.jpg" width="360"></a>
+
+Splits the 30 second story into timed beats, each picking up from the last action, with a continuity rule that locks one girl, one studio and one canvas. This keeps the escalating magic from drifting into new locations or wardrobe changes.
+
+Wan 3.0 · Text-to-video · Source: [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2094658391369191894) · 89 likes on 2026-10-29
+
+[`korean`](tags.md#tag-korean) [`painting`](tags.md#tag-painting) [`magic-realism`](tags.md#tag-magic-realism) [`storyboard`](tags.md#tag-storyboard)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A Korean girl discovers that whatever she paints on a canvas becomes real for a few seconds. The story gradually escalates from something tiny to something amazing.
+
+0–3 sec:
+Rainy Seoul afternoon. A young Korean girl sits inside a small art studio, painting a single red flower on a white canvas. She finishes the final brushstroke.
+
+4–6 sec:
+She looks away for a second. When she looks back, the painted flower has become a real flower, slowly moving in the breeze. She touches it in disbelief.
+
+7–9 sec:
+Excited, she paints a tiny paper airplane beside it. The painted airplane suddenly lifts off the canvas and flies around her room.
+
+10–12 sec:
+She laughs and follows it with her eyes. The airplane flies toward the studio window, and she quickly opens the window.
+
+13–15 sec:
+The airplane flies outside. She grabs her canvas and runs onto the small balcony, continuing to paint while following it.
+
+16–18 sec:
+She paints a flock of white birds. One by one, they emerge from the canvas and join the paper airplane in the sky.
+
+19–21 sec:
+She becomes more confident and paints a huge golden sunset across the canvas. The real sky outside gradually transforms to match her painting.
+
+22–24 sec:
+The entire Seoul skyline becomes bathed in the same golden light. People on the street stop and look upward in amazement.
+
+25–27 sec:
+She smiles proudly—but suddenly notices the paintbrush beginning to fade from her hand.
+
+28–30 sec:
+She looks at the canvas. Everything she created slowly returns to normal… except the original red flower, which remains real. She gently smiles and whispers, “Some things are meant to stay.”
+
+Style: premium Korean cinematic aesthetic, emotional fantasy, realistic Seoul environment, beautiful natural lighting, detailed anime-realism, smooth camera movement, expressive acting, magical but believable effects.
+
+CONTINUITY RULE: One girl, one studio, one canvas, one paintbrush, same clothing, same hairstyle and same environment throughout. Every action must directly continue from the previous action. No jumps, teleportation, sudden location changes, character changes, wardrobe changes, or random cuts.
+```
+
+</details>
+
+<a id="seedance-golden-panda-exorcist-fox-demon"></a>
+### Exorcist girl faces a nine-tailed fox demon
+
+<a href="https://x.com/Mayz1169/status/2088249110709375460"><img src="../../previews/seedance-golden-panda-exorcist-fox-demon.jpg" width="360"></a>
+
+A character lock block fixes the hair, outfit and staff, and a timed expression track sets the face for each beat. A timed shot list with camera moves and layered sound cues builds the escalation to the final reveal.
+
+Seedance 2.5 · Reference-to-video · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2088249110709375460) · 82 likes on 2026-10-29
+
+[`character-lock`](tags.md#tag-character-lock) [`shot-sequence`](tags.md#tag-shot-sequence) [`anime`](tags.md#tag-anime) [`fox-demon`](tags.md#tag-fox-demon)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[CHARACTER LOCK]
+One girl exorcist, age ~17, slim build, composed features, highly expressive eyes.
+HAIR: long black hair with a hard asymmetric front section — a white streak on her left and an orange streak beside it, blunt straight bangs; two large round panda-ear buns high on the head, black with scattered orange dot markings; one long braid falling over the right shoulder with a white-and-orange tail; small gold chrysanthemum ornaments and orange tassel danglers at the buns.
+FACE: large amber-gold eyes with bright highlights, thin lashes, pale skin, small mouth, faint warm blush. Gold lantern light always reflected in her irises.
+OUTFIT: black-and-orange oriental exorcist robe — short black wrap top with gold cloud-scroll embroidery and a round panda emblem at the chest; wide oversized detached hanfu sleeves, black outside with orange lining and gold trim, bare shoulders between; large orange obi sash tied in a bow with long gold-tassel cords; black high collar with a small gold clasp; layered orange-and-gold wrap skirt panels over white shorts; a plush panda-head charm with a red bell hanging at the right hip alongside gold knot tassels and a paw-print talisman; MISMATCHED LEGWEAR — black thigh-high on the left leg, bright orange thigh-high on the right, both with gold bands; black platform heeled boots with gold ribbon bows and white soles.
+WEAPON: tall gold soul-quelling lantern staff, slightly taller than she is — dark gold shaft with ringed segments, topped by a large white orb wrapped in gold cloud filigree with a small gold spire, long orange-gold tassels at the joint. It burns with GOLDEN spirit fire when active and channels floating gold talisman papers and ring-shaped seal arrays.
+Night scene: black mist and deep shadow with red lanterns; her gold light is the only warm source.
+Same face, same hair streaks and panda buns, same robe, same mismatched stockings, same staff in all shots. No costume change, no other lookalike characters.
+[EXPRESSION TRACK — mandatory, must read on her face]
+0-3s calm and still, eyes half-lidded, listening to the bell → 3-5s alert: eyes sharpen, brows lower, quick scanning glances as the mist rises → 5-8s awe without fear as the giant fox demon rises — eyes widening slightly, chin lifting, mouth a firm line → 8-12s fierce concentration holding the seal array: teeth set, brows drawn, effort visible, hair blown back → 12-16s cool combat calm, small confident narrowing of the eyes, precise and unhurried → 16-18s dawning realization as she traces the spirit flow, eyes flicking upward, lips parting slightly → 18-21s resolve hardens into determination, a single decisive nod, jaw set → 21-25s driving forward through the horde, unwavering stare, faint defiant smile → 25-27s shock as the sky-eye opens: eyes flying wide, pupils shrinking, breath caught → 27-30s shock resolving into steady fearless resolve — she lowers her chin, grips the staff two-handed, gold fire lighting her face from below.
+[SHOT SEQUENCE — 30s, continuous escalation]
+0.0-3.0 Midnight. A temple bell tolls over a silent oriental old town. Slow crane down the street as every red lantern snuffs out in sequence; black mist boils up between the flagstones. She stands alone at the center of a stone bridge, staff in hand.
+3.0-5.0 The ground cracks open. Spirit wisps and small demons pour out from below; talisman papers on the eaves ignite. Low angle whip-pan.
+5.0-8.0 A 100m nine-tailed fox demon rises from the black mist, its body eclipsing the whole street and blotting out the moon. Extreme low angle for scale, her tiny silhouette in the foreground.
+8.0-11.0 She raises the lantern staff. Golden light expands into an enormous circular seal array of rotating talisman rings, blocking a wave of demon shadows that crash against it like surf. Camera pushes through the light.
+11.0-14.0 The horde swarms. Flying demons dive over the rooftops; a giant spectral claw smashes the street apart; black demon fire devours a building. She springs across the flying eaves, hurling gold talisman papers that pin demons mid-air. Handheld chase cam.
+14.0-16.5 A massive demon beast lunges head-on. She sidesteps at the last instant, reverses her grip and slams the staff into the ground — a golden barrier detonates outward and blasts the beast back. Speed ramp on the impact.
+16.5-19.0 The town warps: streets invert, buildings drift upward, illusory demons bloom from the mist. Rotating camera as she reads the flow of spirit energy and sees it all converging on an ancient shrine at the town's center.
+19.0-22.0 She runs, stepping across burning talisman papers suspended in air like stones. Tracking shot at her heels, gold sparks trailing.
+22.0-25.0 The hundred demons converge into a tidal horde from every direction. She does not slow — she spins the staff, releasing a spiral burst of golden spirit light, and drives straight through the center of the tide. Orbiting shot through the parting horde.
+25.0-27.0 She reaches the shrine. A colossal demon core pulses in the ground, the horde feeding power into it. She lifts the lantern to seal it — then the power surges far beyond her expectation, and the black mist above coalesces into a single monstrous EYE spanning the entire sky, slowly opening.
+27.0-30.0 She looks up. Camera pushes in on her face as shock hardens into resolve, then a low angle behind her: she grips the staff two-handed, golden spirit fire erupting up its length, and takes one step forward toward the sky-eye. Hard cut mid-step.
+[STYLE / TECHNICAL]
+High-end stylized 3D anime character-PV animation with painterly texture, expressive high-detail facial rig, silk cloth simulation on sleeves and sash. Aesthetic blend: Onmyoji yokai design language, Inuyasha demon-world atmosphere, Genshin Impact oriental fantasy PV polish, Final Fantasy colossal-boss scale. Night grading: deep blacks and cold blue mist versus warm gold and red lantern light, strong rim lighting, volumetric fog, floating embers and ash, gold particle motes, ink-wash smoke dissolve on demon deaths, anamorphic flares, motion blur, brief speed ramps on seal impacts, camera shake on giant hits. 24fps cinematic shutter, 2.39:1 widescreen, mixed crane / handheld / drone / orbit cameras, camera never static — but hold on her face long enough for each emotional beat to read. Combat reads as sealing and warding, not slaughter: barriers, talismans, binding arrays.
+[NEGATIVE]
+static camera, freeze frame, fade to black ending, slow-motion ending, standing idle ending, victory pose ending, blank deadpan face, unchanging expression, character inconsistency, hair color or streak change, missing panda-ear buns, eye color change, matching stockings, costume change, staff design change, second weapon, sword or gun, duplicate lookalike girls, daytime scene, desaturated grading, gore, blood, dismemberment, human corpses, body horror, realistic photo style, off-model face, warped hands, extra fingers, subtitles, text artifacts, watermark, logo overlay, blurry, low detail, dialogue close-ups, idle empty frames.
+[AUDIO]
+Oriental orchestral hybrid: single deep temple bell at 0.0s, erhu and guzheng motifs, taiko drums building throughout, low male chant under the fox demon reveal, wind chimes and paper-flutter textures. Demon shrieks and layered growls, stone cracking, whooshing talisman flames, crystalline chime on each seal array, deep gong on the barrier slam. Big riser into 25.0s, then near-silence with only a slow heartbeat as the sky-eye opens, and a single low chord as she steps forward. No dialogue.
+```
+
+</details>
+
 <a id="h3-cyberpunk-samurai-neon-rain-katana-draw"></a>
 ### Cyberpunk samurai draws katana in neon rain
 
@@ -479,6 +942,166 @@ MiniMax H3 · Text-to-video · Source: [@noorwithwifi on X](https://x.com/noorwi
 
 ```text
 Continuous 15-second cinematic shot, extreme slow-motion: a futuristic cyberpunk samurai standing in heavy neon rain, reflective wet armor. The samurai slowly draws a glowing katana, lens flare, volumetric neon fog, dynamic camera panning around the character, continuous fluid motion, photorealistic 8k
+```
+
+</details>
+
+<a id="seedance-white-ice-dragon-woman-snow-journey"></a>
+### Woman stands beside white ice dragon in snowy forest
+
+<a href="https://x.com/Aiwithkami/status/2099056876722041057"><img src="../../previews/seedance-white-ice-dragon-woman-snow-journey.jpg" width="360"></a>
+
+A reference image locks the character's face, hair and outfit across the shot, while the prompt lists the action as ordered beats: stand, ride, fly over mountains, reach the shelter. Wide-shot cinematic language and atmosphere cues such as snowfall, blue light and warm firelight set the overall look.
+
+Seedance 2.5 · Reference-to-video · Source: [@Aiwithkami on X](https://x.com/Aiwithkami/status/2099056876722041057) · 75 likes on 2026-10-29
+
+[`fantasy`](tags.md#tag-fantasy) [`dragon`](tags.md#tag-dragon) [`character-reference`](tags.md#tag-character-reference) [`snow`](tags.md#tag-snow)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded reference image as the exact character reference. Keep the same face, hair, outfit and appearance throughout. The woman stands beside the giant white ice dragon, then rides on its back as it flies over snowy mountains and a frozen river. They reach an ancient stone shelter where she explores while the dragon protects her. Cinematic camera movement, epic wide shots, realistic motion, glowing blue eyes, snowfall, blue atmosphere with warm firelight, photorealistic fantasy movie quality, 16:9, no background music.
+```
+
+</details>
+
+<a id="seedance-origami-hypercar-nine-vehicle-transformation"></a>
+### Origami hypercar morphs through nine vehicles in one shot
+
+<a href="https://x.com/umesh_ai/status/2089722918146285690"><img src="../../previews/seedance-origami-hypercar-nine-vehicle-transformation.jpg" width="360"></a>
+
+Reference images lock each vehicle's identity while a single tracking shot and step-by-step transition instructions keep every change continuous. Banning cuts, resets and driver changes keeps one location and one rider across all nine vehicles.
+
+Seedance 2.5 · Reference-to-video · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2089722918146285690) · 69 likes on 2026-10-29
+
+[`transformation`](tags.md#tag-transformation) [`tracking-shot`](tags.md#tag-tracking-shot) [`reference-images`](tags.md#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The images were first generated and used as references with the below prompt.
+
+Prompt : Create a 30-second cinematic continuous one-shot using the provided vehicle reference images as the identity source for each machine. Preserve each vehicle’s silhouette, proportions, materials, and signature design language.
+
+Core concept: one man, one uninterrupted high-speed journey, one continuous futuristic coastal megastructure, with vehicles transforming seamlessly around him. The same man must drive or pilot every vehicle throughout.
+
+Vehicle order:
+Origami hypercar → chrome futuristic motorcycle → Terra Centipede rover → champagne streamlined speed vehicle → Gravity Beetle air taxi → white organic hovercraft → Orbit Nomad shuttle → Lagoon Manta yacht → translucent bioluminescent aquatic craft.
+Environment:
+Keep the entire film inside one coherent coastal megastructure with elevated roads, service paths, platforms, reflective water channels, engineered ocean basins, sea-edge architecture, low-altitude airspace, and transparent underwater sections. Ground, air, water, and underwater zones must feel like connected layers of the same place. The world changes only through forward movement, perspective, and elevation, never through cuts, resets, teleportation, or abrupt location changes.
+
+Camera:
+One fluid tracking shot, mainly side or three-quarter side, following left to right. Keep the vehicle large and readable. The camera may arc, rise, descend, or skim the water with the vehicle, but the shot must remain continuous.
+Action:
+Begin with the Origami hypercar blasting along an elevated reflective roadway at extreme speed, the man visible through the canopy.
+
+Hypercar → motorcycle: body narrows, roof drops, panels fold inward, wheel geometry simplifies, cockpit lowers, and the driver shifts naturally into a racing posture.
+Motorcycle → Terra Centipede rover: frame thickens and lengthens, extra wheel modules unfold, armor grows, cockpit rises, and the driver becomes seated as the road flows into a rough engineered service path.
+
+Rover → champagne speed vehicle: wheels retract and merge, segmented structures smooth into a low sculptural body, and the cockpit streamlines as the surface reconnects to a sleek high-speed lane.
+Champagne vehicle → Gravity Beetle air taxi: chassis lightens, wheel structures become propulsion pods, side arms extend, cabin rises, and the craft lifts just above the corridor.
+
+Air taxi → white organic hovercraft: angular structures soften into biomorphic surfaces, pods merge into the body, and the canopy becomes a smooth bubble.
+
+Hovercraft → Orbit Nomad shuttle: body stretches into an aerospace silhouette, curves tighten, propulsion reorganizes, cockpit elongates, and the craft climbs slightly above the water and architecture.
+
+Shuttle → Lagoon Manta yacht: craft descends, broadens, flattens, thrusters retract, and the underside forms aquatic contours as it becomes a yacht skimming a water channel at extreme speed.
+
+Yacht → bioluminescent aquatic craft: white hull turns translucent and layered, blue internal light glows, fins emerge, and the craft dives smoothly into the transparent underwater level of the same megastructure.
+
+Ending:
+Finish underwater with the final bioluminescent craft racing forward, the same man visible inside, with architecture and filtered light around it. Emphasize that the world never changed, only the vehicle evolved.
+
+Transformation rules:
+Every transition must be gradual, elegant, mechanically readable, and believable. Existing panels, wheels, arms, hulls, pods, canopies, propulsors, and lighting systems visibly reconfigure in motion. No cuts, scene resets, environment swaps, teleporting, or driver changes.
+
+Visual style:
+High-end sci-fi commercial, cinematic realism, premium industrial design, polished materials, clean silhouettes, coherent worldbuilding, fluid mechanical transformations, ultra-smooth camera movement, and extreme speed. The vehicles are the spectacle; the environment remains one continuous unified landscape
+```
+
+</details>
+
+<a id="h3-red-eye-cliff-temple-trailer"></a>
+### Extreme close-up red eye reflecting cliff temple
+
+<a href="https://x.com/Cia0_exe/status/2091147848058613775"><img src="../../previews/h3-red-eye-cliff-temple-trailer.jpg" width="360"></a>
+
+Eight timed shots each lock lens, aperture, camera move and speed, and a shared rules block fixes the 2.39:1 frame, transitions and sound layers. Three @image references pin the eye, the character and the temple so the character stays consistent across cuts.
+
+MiniMax H3 · Reference-to-video · Source: [@Cia0_exe on X](https://x.com/Cia0_exe/status/2091147848058613775) · 58 likes on 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`reference-images`](tags.md#tag-reference-images) [`close-up`](tags.md#tag-close-up) [`lightning`](tags.md#tag-lightning) [`transformation`](tags.md#tag-transformation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[分镜脚本 — 变身三阶段·八镜法]
+
+镜1，0至1.5秒，极极限特写眼部。机位绝对固定，85毫米定焦电影镜头，T1.3极浅景深，完美圆形散景，焦点锁定右眼瞳孔，虹膜纹理清晰可辨，可见细微血管与纤维结构。画面背景近乎纯黑，
+@image1
+ 右眼赤红瞳孔占画面百分之九十，睫毛根根分明带晨露微光，下眼睑轻微颤动，瞳孔中清晰倒映
+@image3
+ 山崖神殿微缩轮廓，神殿倒影随瞳孔收缩微动。眼神从死寂瞬间锐利如刀，额前黑色碎发被微风拂动掠过焦平面产生瞬间模糊。摄影机微推镜前进1.5厘米，呼吸感手持幅度控制在正负2毫米，模拟人眼凝视的生理微动。色彩虹膜深红，高光古金，暗部近黑，睫毛阴影带冷青边缘。排版无文字，纯视觉，画面四角压暗暗角15百分比。音效极静中微风草动由负60分贝渐升至负30分贝，远处神殿风铃单音C6，少女沉重呼吸贴耳如ASMR。日语音声清冷低语气声近耳，「時が来た」。
+
+镜2，1.5至3秒，中景半身转身。机位轨道车环绕，35毫米镜头，T2.0，高度齐腰，微仰角12度，环绕速度每秒0.5弧度。画面
+@image1
+ 从侧身缓转正，右肩白色牡丹随动作自然颤动花瓣微张，金色云纹图腾在晨光下产生菲涅尔反光，黑色手套轻握成拳指节发白，小臂肌肉线条紧绷。背景
+@image3
+ 翠绿草坡与雾中山崖，雾气在脚边如水流过，草叶带露水反光。摄影机180度平滑环绕无抖动，背景产生动态模糊，前景牡丹短暂失焦后清晰。色彩红衣暗红，金光古金，雾冷蓝，草露银白。排版无。音效衣料摩擦高频声，金属扣轻响，心跳低频鼓点渐强40至80拍每分钟，地面草叶静电颤动。黑色闪电在画面边缘如血管般微弱脉动，深红内核，仅环绕角色周身半米范围，不扩散至环境。
+
+镜3，3至5秒，全景全身低角度上升。机位斯坦尼康低角度跟拍，24毫米广角，T2.8，仰角30度起升至平视。画面
+@image1
+ 立于
+@image3
+ 草坡，晨风吹动红衣摆与黑发，衣摆飘动幅度自然，发丝相互缠绕，镜头从靴底缓缓上升，经花卉刺绣裤腿，金色绑带，腰侧镂空，胸口图腾，最终停在面部。她抬头凝视神殿，颈部青筋微显，下颌线紧绷。背景山崖在广角畸变中更具压迫感，云层缓慢流动。摄影机垂直上升速度先慢每秒0.3米后快每秒0.8米再缓，模拟呼吸起伏。色彩草坡橄榄绿，晨雾白，肤色暖桃。排版无。音效草地踩踏声，呼吸加重带颤音，远处鸟鸣骤停，空气凝固感。天空暗云聚集，黑色闪电夹杂深红在云层无声游走，但仅聚焦于角色头顶上方三米范围内形成小型aura，压迫感渐强，红色光尘飘浮于角色肩侧。
+
+镜4，5至7秒，近景胸至面部变身爆发。机位手持肩扛，50毫米镜头，T1.8，浅景深，焦点在面部与胸口间0.8秒缓慢转移，手持呼吸感正负5毫米。画面
+@image1
+ 胸口金色图腾发出刺目红光，皮肤下脉动透光如心跳，红光从锁骨蔓延至颈部，面露痛苦却坚毅，眉毛紧锁，牙齿轻咬下唇，右肩白色牡丹瞬间枯萎花瓣卷曲化为红色光点飘散，光点轨迹呈螺旋上升。双肩开始隆起衣物撕裂，黑色手套崩裂碎片飞散。摄影机微晃后瞬间稳定制造张力释放。色彩红光正红，皮肤透光粉红，碎屑纯白。排版无。音效能量共鸣低频轰鸣30赫兹，骨骼微响如干木裂，花瓣碎裂清脆，心跳骤停一瞬1秒静音。黑色闪电夹杂深红从地面向上窜起，围绕角色周身形成旋转aura，主闪电臂般粗壮，通体漆黑透深红内核，分支细丝游走，光尘被电光点亮如星尘，能量场呼吸般一张一缩，草叶被静电牵引竖起。闪电严格限定于角色身体周围1.5米球形范围内，不触及远景环境。
+
+镜5，7至9秒，全景全身觉醒展开。机位摇臂360度环绕加上升，21毫米超广角，T4.0，低角度仰拍40度起。画面
+@image1
+ 双臂猛然展开，生物装甲破肤而出，
+@image2
+ 珊瑚血肉翼疯狂生长至三米，翼膜半透明带血管纹理，眼状图腾睁开转动瞳孔收缩，橙红微光从翼缘溢出如熔岩流动。镜头环绕中背景
+@image3
+ 山崖在闪电照耀下忽明忽暗，建筑细节在闪光中显现。摄影机环绕速度由慢每秒45度至快每秒120度再缓，摇臂上升1.5米。色彩生物翼肉粉，电光猩红，暗部纯黑。排版画面中央偏下，半透明日式竖排文字「覚醒」浮现0.5秒，字体明朝体，字色古金(#B8860B)带深红(#8B0000)微光描边1像素，字间距宽松，随闪电闪烁透明度0至100百分比，无背景块纯文字浮于画面。文字尺寸占画面高度十二分之一，位置绝对居中偏下5百分比，不遮挡角色主体。音效有机组织生长湿润撕裂声，甲壳展开爆响，能量嗡鸣震耳，黑色闪电劈啪炸响如连发鞭炮，空气电离滋滋声。日语音声痛苦转空灵，空间混响加延迟，「力を受け入れる」。
+
+镜6，9至11秒，全景全身悬浮完成。机位轨道车后退加微升，35毫米，T2.8，低角度仰拍35度。画面
+@image2
+ 悬浮离地30厘米，翠绿眼眸睁开，生物翼完全展开三米宽，翼面图腾转动，洒落红色光尘，黑色连体衣花卉纹身脉动如心跳，纹身线条发光。黑色与深红闪电在翅膀间穿梭，形成巨大旋转aura能量场，闪电从翼尖向外放射如树根蔓延，但放射范围严格控制在角色身体周围2米内，击中地面产生焦痕。背景
+@image3
+ 神殿在电光中庄严显现，草坡被照亮，雾气呈放射状退散。摄影机轨道后退每秒0.8米，微升每秒0.3米，平滑如液压稳定器。色彩翠绿瞳，电光深红，雾灰蓝。排版无。音效能量爆发后瞬间寂静负50分贝，光尘飘落细微声，沉重呼吸带回音，远处雷鸣滚动。日语音声空灵决绝清亮，「我が花開く」。
+
+镜7，11至13秒，中景侧面轨道跟拍。机位侧面轨道车平行跟拍，40毫米，T2.0，中低角度18度，速度精确匹配角色步伐每秒1.2米。画面
+@image2
+ 迈步向
+@image3
+ 神殿前行，生物翼随步伐收拢舒展如呼吸，翼膜褶皱自然，黑色高跟短靴踏草泥土微陷，泥土颗粒飞散，腿部花卉刺绣随肌肉流动，雾气被黑色闪电驱散成漩涡。身后拖出三秒残影，残影带红色电光，地面焦黑足迹冒烟。摄影机绝对稳定，背景产生方向性动态模糊。色彩焦黑足迹，靴纯黑，雾漩涡银灰。排版无。音效靴跟踏地清脆，草叶摩擦，翼膜轻颤如战旗，黑色闪电持续噼啪，能量残余嗡嗡声。闪电aura持续环绕角色周身1米范围，随步伐节奏脉动。
+
+镜8，13至15秒，终幕Typography Art。机位完全静止，50毫米，T8.0全清晰。画面从角色背影淡出至纯黑，屏幕中央浮现主标题「Cia0 X H3」。Typography Art规格：主标题采用超高对比无衬线黑体如思源黑体Heavy或苹方特粗，字号占画面高度七分之一，位置绝对居中偏上3百分比，字色金属银灰渐变(#C0C0C0至#808080)从左上方至右下方，带2像素深红(#8B0000)硬边偏移阴影向右下45度，轻微色差效果红与蓝横向错位1.5像素，字间距拉宽至正常160百分比，字重极粗。文字后方横向刷过一道血红泼墨(#8B0000)如刀刃伤痕，泼墨边缘带橙红(#FF4500)微光粒子消散，粒子呈星尘状向上飘散。主标题下方8百分比画面高度处，副标题「Coming Soon」以细体明朝体浮现，字色暗古金(#B8860B)，透明度0至90百分比淡入0.5秒，字间距正常，无阴影。整个文字层带极轻微纸张颗粒质感与0.5百分比噪点。背景保持纯黑。摄影机绝对静止无任何运动。音效最后一声沉重古钟轰鸣C2音持续1.5秒，余音回荡渐弱，所有声音归于绝对寂静负无穷分贝。日语音声最后低语渐行渐远至完全消失，「さようなら」。
+
+[摄影机宪法] 画幅比严格2.39比1变形宽银幕。所有镜头主体始终为角色，最远不超过全身full body，禁止远景大全景破坏亲密感。每镜转场使用光学溶解叠化或无缝运动匹配衔接，叠化时长0.25秒，禁止跳切。镜头运动：镜1固定微推，镜2轨道环绕，镜3斯坦尼康上升，镜4手持肩扛，镜5摇臂环绕上升，镜6轨道后退，镜7轨道平行跟拍，镜8绝对静止。景深特写T1.3至T1.8极浅，中景T2.0至T2.8，全景T4.0。运动模糊快门角度180度，自然动态模糊。镜头呼吸效应在变焦时轻微可见。任何情况下摄影机不得后退至角色全身以下比例小于画面高度的70百分比。
+
+[闪电aura圣经] 黑色闪电为主体色(#0A0A0A)，深红为内核与边缘辉光(#8B0000)，变身阶段加入橙红高光(#FF4500)。闪电形态主闪电如成人手臂粗壮，表面不光滑带有机扭曲，分支如毛细血管细丝蔓延，整体呈旋转aura能量场环绕角色身体周围1至2米球形范围，绝不扩散至环境远景。闪电运动非匀速，呈脉冲式爆发，间隔0.3秒一次强闪，伴随细微红色光尘爆散。闪电与角色交互从地面向上窜起，沿腿部攀爬，在腰部分叉，于背部汇聚后从翼尖放射，但放射长度不超过角色翼展的1.5倍。环境反应：草叶静电竖起仅限角色脚边半米，雾气被电离成漩涡仅限角色周围1米，地面留下临时性焦黑痕迹仅限足迹位置。闪电音效低频轰鸣30至60赫兹打底，中频噼啪2千赫兹，高频电离滋滋8千赫兹。
+
+[声音设计宪法] 绝对禁止背景音乐。仅使用环境音效与角色音效，分层混音：Layer1环境底噪风声草动负40分贝，Layer2角色动作衣料步伐负20分贝，Layer3能量特效闪电生长负15分贝，Layer4人声配音负10分贝。空间感使用卷积混响模拟开阔山谷，预延迟60毫秒，衰减时间3.2秒。动态范围最小负60分贝，最大负3分贝，保留电影级动态。变身爆发瞬间(镜4)加入1秒绝对静音制造张力，随后能量释放。
+
+[日语音声设计] 声线少女清冷沙哑，20岁前后，标准语带轻微疏离感。处理：近距离耳语用高通滤波加近距离混响，变身痛苦段加入失真与空间混响，觉醒段加入教堂式长混响与延迟，终幕段加入低通滤波渐弱至消失。台词共五句，每句不超过8音节，情绪递进：平静→警觉→痛苦→空灵→决绝→消散。台词顺序：「時が来た」→「力を受け入れる」→「我が花開く」→「さようなら」。
+
+[Typography设计宪法] 全片仅两处文字出现：(1)镜5「覚醒」竖排明朝体，古金带深红微光描边，尺寸占画面高度十二分之一，居中偏下5百分比，浮现0.5秒，透明度随闪电闪烁0-100百分比，无背景块；(2)镜8终幕主标题「Cia0 X H3」+副标题「Coming Soon」，主标题无衬线黑体Heavy占画面高度七分之一居中偏上3百分比，金属银灰渐变带深红硬边阴影与色差效果，字间距160百分比；副标题明朝体细体暗古金，位于主标题下方8百分比高度处，淡入0.5秒。禁止其他任何文字、水印、UI元素出现。
+
+[三阶段变身法则] 阶段一(0-5秒)：
+@image1
+ 完全形态，环境明亮晨雾青绿，闪电仅画面边缘微弱脉动，眼神从死寂转锐利，身体无变化，氛围宁静中暗藏张力。阶段二(5-10秒)：变身爆发，
+@image1
+ 向
+@image2
+ 过渡，胸口图腾发光→皮肤透光→牡丹枯萎→衣物撕裂→生物翼破肤生长，环境压暗至近黑，闪电aura从角色身体内部向外爆发，环绕周身1.5米，色彩从青绿骤变为黑红橙。阶段三(10-15秒)：
+@image2
+ 完全形态，翠绿眼眸睁开，生物翼完全展开三米，悬浮离地，闪电aura稳定环绕周身1-2米，环境雾冷灰蓝，神殿显现，角色向神殿前行，终幕淡入Typography。
+
+[渲染技术规格] 8K分辨率(7680x4320)，光线追踪全局光照，路径追踪采样2048spp，体积雾散射，皮肤次表面散射(SSS)半径3毫米，Kodak 5219胶片颗粒强度15百分比，Halation光晕强度8百分比，镜头呼吸效应在焦点转移时可见，变形宽银幕镜头椭圆散景(水平拉伸1.33倍)，水平拉丝眩光在强高光处可见，色彩空间Rec.709，电影级青橙LUT，对比度S型曲线暗部提升15百分比高光压缩10百分比，阴影偏青(#2F4F4F)高光偏金(#D4A843)，黑位纯净(000000)不浮灰。
 ```
 
 </details>
@@ -512,6 +1135,96 @@ Near the end, the dragon suddenly opens its jaws and releases a massive stream o
 End with the dragon flying directly above the fleet as the first fireball crashes into the lead ship, exploding across its wooden deck.
 
 Style: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atmosphere, strong sense of scale, warships, dragon battle, ocean storm, medieval warfare, fire, smoke, dynamic varied camera movement, no text, no logos, no cartoon style, no slow motion, no famous celebrity faces, no recognizable actors, no movie-star resemblance, no public-figure likenesses, no clear facial close-ups. Keep proportions. Keep style and features. Aspect ratio 16:9.
+```
+
+</details>
+
+<a id="wan-floating-cathedral-angel-battle"></a>
+### Warrior faces fallen angel in floating cathedral
+
+<a href="https://x.com/LudovicCreator/status/2093639918031446064"><img src="../../previews/wan-floating-cathedral-angel-battle.jpg" width="360"></a>
+
+Timed beats (a moment at 2 seconds, then a final shot) pace the clip in stages, and the camera moves are spelled out: a wide circling arc, then a low dive as the sword hits the floor. The closing style line sets the lighting and VFX language for the whole clip.
+
+Wan 3.0 · Text-to-video · Source: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2093639918031446064) · 51 likes on 2026-10-29
+
+[`dark-fantasy`](tags.md#tag-dark-fantasy) [`angel-battle`](tags.md#tag-angel-battle) [`floating-ruins`](tags.md#tag-floating-ruins) [`storm`](tags.md#tag-storm)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A ruined cathedral floats in the sky during a violent storm, broken pillars suspended in mid-air, stained glass fragments orbiting like shards of light. A lone warrior stands on the cracked marble floor facing a colossal fallen angel with black wings, glowing armor, and a burning halo split in half.
+At the 2-second mark, the angel spreads its wings, creating a shockwave that sends candles, dust, and glass spiraling outward. The warrior charges forward as lightning strikes through the broken roof. The camera circles them in a wide cinematic arc, then dives low as the angel’s sword slams into the floor, cracking the cathedral platform.
+Final moment: the warrior raises their blade as the entire floating cathedral begins falling through the clouds.
+Dark fantasy final battle, angelic VFX, storm, floating ruins, cinematic 4K.
+
+Made in
+@magnific
+```
+
+</details>
+
+<a id="wan-escape-pod-station-collapse-space"></a>
+### Massive space station above a striped gas giant
+
+<a href="https://x.com/AllaAisling/status/2095949652667298044"><img src="../../previews/wan-escape-pod-station-collapse-space.jpg" width="360"></a>
+
+Ordered beats read as a shot timeline, and the follow camera placed close behind the pod sets the scale. The closing style block sets physics, tension and a large format look.
+
+Wan 3.0 · Text-to-video · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2095949652667298044) · 37 likes on 2026-10-29
+
+[`hard-sci-fi`](tags.md#tag-hard-sci-fi) [`space-station`](tags.md#tag-space-station) [`debris-simulation`](tags.md#tag-debris-simulation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A tiny escape pod launches from a gigantic space station orbiting a gas giant. The camera follows close behind. Moments later the station begins breaking apart. Explosions ripple through kilometers of structure. Massive debris fields form around the pod. The pilot navigates through collapsing corridors of metal and fire. Giant station fragments tumble in every direction. The pod squeezes through an impossibly narrow opening. Final shot reveals the escape pod emerging into open space as the entire station disintegrates behind it.
+Ultra-realistic hard sci-fi, realistic physics, immense scale, cinematic tension, detailed debris simulation, IMAX quality.
+
+Made with Wan 3.0 in
+@openart_ai
+```
+
+</details>
+
+<a id="wan-mars-dome-collapse-colony-chase"></a>
+### Colony vehicle races toward collapsing Mars dome
+
+<a href="https://x.com/AllaAisling/status/2098153036682047774"><img src="../../previews/wan-mars-dome-collapse-colony-chase.jpg" width="360"></a>
+
+The prompt lays out the story as ordered beats, from the chase to the dome collapse to the final slide-through, so the model has a timeline to follow. Naming the overhead camera, the physics and the IMAX scale sets the framing and the sense of size.
+
+Wan 3.0 · Text-to-video · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2098153036682047774) · 34 likes on 2026-10-29
+
+[`mars`](tags.md#tag-mars) [`dome-collapse`](tags.md#tag-dome-collapse) [`chase`](tags.md#tag-chase) [`sci-fi-disaster`](tags.md#tag-sci-fi-disaster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A colony vehicle races across the surface of Mars toward the last human settlement. The camera follows from above. Behind it, a gigantic atmospheric breach spreads across a transparent habitat dome hundreds of kilometers wide. The entire dome begins collapsing. Dust storms surge inward. The vehicle accelerates across rocky terrain while sections of the colony implode in the distance. The settlement airlock begins closing. Final shot: the vehicle slides through seconds before the dome catastrophically fails behind it.
+Ultra-realistic hard sci-fi, Martian landscape, dramatic tension, realistic physics, cinematic scale, IMAX quality.
+
+Made with Wan 3.0 in
+@openart_ai
+```
+
+</details>
+
+<a id="h3-spaceship-corridor-escape-hard-cut"></a>
+### Woman sprints down spaceship corridor toward observation window
+
+<a href="https://x.com/ItsCosmicAnts/status/2087839534155211198"><img src="../../previews/h3-spaceship-corridor-escape-hard-cut.jpg" width="360"></a>
+
+A numbered beat script with a hard cut lets one prompt carry a full arc: escape, impact and waking from a nightmare. Handheld camera, urgent pacing and explicit film grain set the tone, while the final cut to a bedroom makes the reveal read clearly.
+
+MiniMax H3 · Text-to-video · Source: [@ItsCosmicAnts on X](https://x.com/ItsCosmicAnts/status/2087839534155211198) · 30 likes on 2026-10-29
+
+[`spaceship`](tags.md#tag-spaceship) [`handheld`](tags.md#tag-handheld) [`hard-cut`](tags.md#tag-hard-cut) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 15-second sequence: A young athletic woman with short dark hair in a fitted dark spacesuit sprints desperately down a glass-walled spaceship corridor under flashing red emergency lights, stars visible outside. She bursts into a circular observation room and collapses against a massive round panoramic window, pressing her face and hands to the glass in exhaustion. Through the window a beautiful planet violently explodes — a massive wave of fire and energy races toward the ship and smashes into the glass in a blinding flash. Hard cut: the same woman jolts awake in a dark ordinary bedroom, gasping, covered in sweat. Handheld camera, urgent pacing, intense red emergency lighting, cinematic sci-fi destruction, realistic, film grain.
 ```
 
 </details>

@@ -1,0 +1,25 @@
+id: h3-spaceship-corridor-escape-hard-cut
+title:
+  en: Woman sprints down spaceship corridor toward observation window
+  zh: 女子在飞船走廊奔跑，冲向观察窗
+model: MiniMax H3
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- spaceship
+- handheld
+- hard-cut
+- film-grain
+source:
+  name: '@ItsCosmicAnts on X'
+  url: https://x.com/ItsCosmicAnts/status/2087839534155211198
+  credit: Cosmic Ants
+  likes: 30
+  captured: '2026-10-29'
+  posted: '2026-08-13'
+video: https://x.com/ItsCosmicAnts/status/2087839534155211198
+notes:
+  en: 'A numbered beat script with a hard cut lets one prompt carry a full arc: escape, impact and waking from a nightmare. Handheld camera, urgent pacing and explicit film grain set the tone, while the final cut to a bedroom makes the reveal read clearly.'
+  zh: 用分段式的节拍描述加硬切，让一条提示词覆盖逃亡、冲击和梦醒的完整叙事。手持镜头、急促节奏和明确的胶片颗粒感定下基调，结尾切到卧室让梦境的反转清晰可读。
+prompt: |
+  Cinematic 15-second sequence: A young athletic woman with short dark hair in a fitted dark spacesuit sprints desperately down a glass-walled spaceship corridor under flashing red emergency lights, stars visible outside. She bursts into a circular observation room and collapses against a massive round panoramic window, pressing her face and hands to the glass in exhaustion. Through the window a beautiful planet violently explodes — a massive wave of fire and energy races toward the ship and smashes into the glass in a blinding flash. Hard cut: the same woman jolts awake in a dark ordinary bedroom, gasping, covered in sweat. Handheld camera, urgent pacing, intense red emergency lighting, cinematic sci-fi destruction, realistic, film grain.

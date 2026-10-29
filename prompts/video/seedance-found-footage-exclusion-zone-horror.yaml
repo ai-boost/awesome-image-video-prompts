@@ -1,0 +1,46 @@
+id: seedance-found-footage-exclusion-zone-horror
+title:
+  en: Empty estate road beside a rusted playground
+  zh: 空荡住宅区道路旁的生锈儿童游乐场
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- found-footage
+- horror
+- handheld
+- soviet-architecture
+source:
+  name: '@CharaspowerAI on X'
+  url: https://x.com/CharaspowerAI/status/2101370778184737053
+  credit: Pierrick Chevallier | IA
+  likes: 182
+  captured: '2026-10-29'
+  posted: '2026-09-19'
+video: https://x.com/CharaspowerAI/status/2101370778184737053
+notes:
+  en: Camcorder artifacts such as autofocus hunting, wind noise, static and blown highlights are named explicitly, and each five second beat pairs one action with one line of dialogue to pace the scare. The no polish and one visible person constraints keep the footage believable and stop the model from adding extra figures.
+  zh: 自动对焦跳动、风噪、静电干扰、高光过曝等摄像机瑕疵被明确写出，每个5秒节拍只配一个动作和一句台词，用来控制惊吓节奏。不要电影感和只允许一个可见人物的约束，让画面保持纪实感，也避免模型多画出人物。
+prompt: |
+  Ultra-realistic amateur found-footage horror trailer, 30 seconds, shot like recovered handheld video from an abandoned exclusion-zone expedition. Consumer camcorder look, unstable handheld motion, accidental zooms, autofocus hunting, digital compression, blown highlights, microphone wind noise, breathing near camera, occasional static interference. Grey daylight, overcast sky, damp concrete, empty buildings, dead silence, oppressive realism. No cinematic polish.
+
+  Main camera operator: unseen adult filming everything. Explorer: one adult man, dark jacket, backpack, flashlight, nervous but trying to stay calm. Only one visible human character to preserve realism.
+
+  Abandoned Soviet-era apartment blocks, empty school corridor, overgrown road, rusted playground, flooded basement entrance, broken windows, distant cooling-tower silhouette. Daylight only.
+
+  0-5s: Raw arrival footage Shaky camcorder walking through an empty road surrounded by decaying buildings and tall grass. Explorer turns back toward camera. EXPLORER: “Stay close. We’re not staying long.” A faint metallic sound echoes somewhere far away.
+
+  5-10s: Interior discovery Camera enters an abandoned school hallway. Peeling walls, broken desks, dust drifting through window light. Autofocus hunts as a door at the far end appears slightly open. CAMERA OPERATOR: “Was that open before?” Explorer does not answer.
+
+  10-15s: First impossible detail They move deeper inside. A child-sized chair slowly rocks by itself near a window, almost imperceptibly. Camera zooms in too far and loses focus. Explorer whispers: “Don’t touch anything.”
+
+  15-20s: Escalation Back outside. The camera pans across ruined apartment blocks. For less than a second, a tall human-shaped silhouette is visible inside a distant upper-floor window. Operator jerks the camera back. Window is empty.
+
+  20-25s: Amateur panic A handheld radiation meter begins clicking faster while the explorer walks toward a dark stairwell entrance. He stops. EXPLORER: “No. We’re leaving.” A heavy sound comes from somewhere inside the building. Camera backs away immediately.
+
+  25-30s: Final trailer scare While moving quickly down the empty road, the operator glances back. The explorer is no longer beside the camera. Far behind, the same tall silhouette now stands motionless in the middle of the road. The operator whispers: “Alex?” Digital interference suddenly fills the image. Hard cut to black.
+
+  Authentic found-footage realism, one visible explorer only, unsettling environmental storytelling, imperfect framing, believable abandoned architecture, subtle horror, no creature close-up, no gore, no attack, no injury, no readable text, no logos.
+  #DreaminaCPP
+
+  @dreamina_ai

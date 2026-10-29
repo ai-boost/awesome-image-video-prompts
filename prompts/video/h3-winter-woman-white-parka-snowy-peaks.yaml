@@ -1,0 +1,25 @@
+id: h3-winter-woman-white-parka-snowy-peaks
+title:
+  en: Woman in white parka among snowy peaks
+  zh: 白色羽绒服女子站在雪山之间
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- winter
+- train-travel
+- wildlife
+- character-consistency
+source:
+  name: '@Aiwithmaha on X'
+  url: https://x.com/Aiwithmaha/status/2115091209505132575
+  credit: Maha
+  likes: 182
+  captured: '2026-10-29'
+  posted: '2026-10-27'
+video: https://x.com/Aiwithmaha/status/2115091209505132575
+notes:
+  en: The prompt lists the scenes in order and ends with one consistency line covering outfit, face and hairstyle, which keeps the character stable across cuts. Naming the camera style, 9:16 framing and a warm brown grade sets the look.
+  zh: 提示词按顺序列出各个场景，并在结尾用一句话统一要求服装、面部和发型保持一致，使角色在多个镜头中形象稳定。明确镜头风格、9:16 竖构图和暖棕色调，定下整体画面风格。
+prompt: |
+  Create a 15-second ultra-realistic cinematic winter travel video featuring a beautiful woman with long dark brown hair, wearing an elegant white winter coat with a fur-trimmed hood, a cream knitted beanie, a matching scarf, brown gloves, and winter boots. The video begins with a wide cinematic shot of the woman standing in a breathtaking snowy landscape surrounded by towering snow-covered mountains and dense pine forests, gently looking around and enjoying the peaceful winter atmosphere. A vintage dark maroon passenger train with golden details arrives at a snowy railway station, and the woman gracefully boards the train. Transition to a beautiful close-up shot of her sitting beside the train window, admiring the magnificent snowy mountains, frozen landscapes, and tall pine trees passing outside. The camera captures her natural smile, expressive eyes, and soft reflections on the glass. She then steps into the snow-covered forest and gently holds a cute white rabbit with pink ears in her gloved hands, smiling warmly at the adorable animal. In the final scene, she sits peacefully in the snow while a beautiful wild deer with elegant antlers approaches her, creating a magical and heartwarming winter wildlife moment. Use smooth cinematic camera movements, realistic snowflakes, soft natural winter lighting, detailed facial expressions, photorealistic textures, consistent character identity, and a premium warm brown cinematic color grade. Maintain the same outfit, face, and hairstyle throughout the entire 15-second video, with seamless transitions between scenes, a dreamy winter atmosphere, and a realistic 9:16 vertical composition.

@@ -143,7 +143,7 @@ def duplicates(cands):
 
 def main():
     DONE.mkdir(parents=True, exist_ok=True)
-    cands = [json.loads(p.read_text()) for p in sorted(CAND.glob("*.json"))]
+    cands = [json.loads(p.read_text()) for p in sorted(CAND.glob("[!.]*.json"))]
     if not cands:
         print("no candidates")
         return

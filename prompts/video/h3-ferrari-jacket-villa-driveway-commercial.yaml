@@ -1,0 +1,50 @@
+id: h3-ferrari-jacket-villa-driveway-commercial
+title:
+  en: Woman in Ferrari jacket by villa driveway
+  zh: 法拉利车旁穿赛车夹克的女子
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- ferrari
+- fashion
+- golden-hour
+- multi-shot
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2115113375516524850
+  credit: Zyrella
+  likes: 27
+  captured: '2026-10-29'
+  posted: '2026-10-27'
+video: https://x.com/Zyrellix/status/2115113375516524850
+notes:
+  en: Each scene block names the shot type, lighting and fixed jacket and villa details, so the same wardrobe and location carry across cuts. The negative prompt rules out wrong car colour, extra people and logo errors.
+  zh: 每个分镜都写明镜头类型、光线以及固定的夹克和别墅细节，使同一服装与场景在各镜头间保持一致。反向提示词用于排除错误车色、多余人物和标志错误。
+prompt: |
+  SCENE 1  Wide Establishing Shot
+  Cinematic wide shot of a glossy red Ferrari sports car parked on a stone-paved driveway in front of a luxurious beige Italian villa with arched porticos and balconies, tall dark cypress trees, manicured green lawn, soft golden hour lighting, photorealistic, high detail, vertical 9:16
+
+  SCENE 2  Getting Out of the Car
+  Cinematic shot of a beautiful young woman with dark hair wearing black sunglasses and a black-red Ferrari F1 team jacket with Puma, Shell, Ferrari SF shield, red “Ferrari” bars and F-1 sleeve patch, black pants and sneakers, stepping out of the red Ferrari with the door open, holding the door, luxurious villa and cypress trees in background, soft golden hour light, photorealistic, vertical 9:16
+
+  SCENE 3  Jacket Close-up
+  Extreme close-up cinematic shot of the black and red Ferrari racing jacket, showing detailed embroidery of the yellow Ferrari prancing horse SF shield, red horizontal bar with “Ferrari” text, Puma and Shell logos, realistic fabric texture, soft natural lighting, photorealistic
+
+  SCENE 4 Collar Adjustment
+  Close-up cinematic shot of a young woman adjusting the zipper of her black and red Ferrari jacket, red “Ferrari” embroidery visible on the collar, detailed logos on the chest, soft golden hour lighting, photorealistic skin and fabric texture, vertical 9:16
+
+  SCENE 5 Sleeve Detail
+  Close-up of the jacket sleeve showing the red “F-1” patch and Ferrari shield logo, black fabric with white piping, cinematic lighting, high detail, photorealistic
+
+  SCENE 6  Back View
+  Cinematic back view of the young woman wearing the Ferrari jacket, large red “Ferrari” text across the back with white borders, Puma logo above, standing near the red Ferrari, villa and cypress trees in background, golden hour light, photorealistic, vertical 9:16
+
+  SCENE 7  Full Body Pose
+  Full body cinematic shot of the young woman in the Ferrari team jacket and sunglasses standing confidently next to the red Ferrari on the stone driveway, luxurious Italian villa with arches and tall cypress trees behind, soft golden hour lighting, photorealistic, same composition as original video, vertical 9:16
+
+  SCENE 8  Medium Hero Shot
+  Medium cinematic portrait of the young woman in black sunglasses and Ferrari jacket standing in front of the red Ferrari, luxurious villa and cypress trees softly blurred in the background, golden hour lighting, high detail, film-like look, photorealistic, vertical 9:16
+
+  NEGATIVE PROMPT
+  blurry, low quality, distorted face, deformed hands, extra fingers, extra limbs, bad anatomy, ugly, watermark, text error, cartoon, anime, painting, sketch, oversaturated, overexposed, underexposed, night time, rainy, snow, modern building, city, crowd, multiple people, wrong car color, yellow car, blue car, male, man, beard, wrong jacket colors, missing logos, wrong logos, plastic skin, ai artifacts, low resolution, grainy, motion blur, out of focus

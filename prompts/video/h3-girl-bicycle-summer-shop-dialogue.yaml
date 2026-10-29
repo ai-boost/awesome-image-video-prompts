@@ -1,0 +1,43 @@
+id: h3-girl-bicycle-summer-shop-dialogue
+title:
+  en: Girl rides red bicycle past summer shop
+  zh: 女孩骑红色自行车经过夏日小店
+model: MiniMax H3
+mode: text-to-video
+category: anime
+tags:
+- hand-drawn
+- storyboard
+- dialogue
+- bicycle
+source:
+  name: '@eternityspring on X'
+  url: https://x.com/eternityspring/status/2084606243516334180
+  credit: 烁皓
+  likes: 387
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+video: https://x.com/eternityspring/status/2084606243516334180
+notes:
+  en: The 10 second clip is split into timed beats of about 2.5 seconds, each with its own shot type and action, which gives the model a clear shot sequence. The character and clothing are described in full and repeated as a lock, and the prompt bans readable text while keeping the off camera adult out of the frame.
+  zh: 提示词把 10 秒拆成约 2.5 秒一段的时间轴分镜，每段都写明景别和动作，让模型有清晰的镜头顺序。角色和服装写得很完整并重复锁定，同时禁止画面出现文字，并让画外的成年人不入画。
+prompt: |
+  RTX 4080 MiniMax H3 Cartoon Animation Prompt:
+
+  Generate a 10-second, 16:9 landscape, nostalgic Japanese hand-drawn animation style video.
+
+  The protagonist is a clever and cute elementary school girl wearing a straw hat, with black twin pigtails, dressed in a plain white tank top with red trim, red shorts, white socks, and red canvas shoes. The character's appearance and clothing remain consistent throughout.
+
+  The background is a small neighborhood shop on a summer afternoon, featuring a wooden door, old glass soda bottles, bamboo baskets, and a quiet alleyway. The overall style is unified with the character, and no readable text, subtitles, watermarks, or logos should appear in the frame.
+
+  Smooth and natural storyboard:
+  0 to 2.5 seconds, medium shot, the girl rides a small bicycle lightly circling out from the shop entrance, as if playing around;
+  2.5 to 5 seconds, side tracking shot, the girl slowly rides past the front of the shop, sunlight falling on her straw hat and shoulders, creating a relaxed and fun atmosphere;
+  5 to 7 seconds, cut to a two-thirds side front angle, the girl turns her head to look at the off-screen adult interviewing her while riding, showing a mischievous yet thoughtfully serious expression;
+  7 to 10 seconds, slightly closer shot, the girl slows down, speaking to the off-screen adult in a straight-faced yet cleverly sly tone:
+  "As long as you can endure hardship, there will be endless hardship to endure."
+  After saying this, she gives a slightly smug little smile to herself and continues riding gently forward.
+
+  Retain natural Chinese childlike voice for the dialogue, add subtle bicycle wheel sounds, summer ambient noises, and the quiet alleyway atmosphere at the shop entrance.
+  The interviewing adult remains off-screen only and does not appear in the frame.
+  Do not add other major characters, do not deform the bicycle, do not change the character's clothing.

@@ -1,0 +1,50 @@
+id: h3-orange-slice-juice-asmr
+title:
+  en: Orange sliced in macro with juice spray
+  zh: 特写切开橙子，果汁飞溅
+model: MiniMax H3
+mode: image-to-video
+category: commercial
+tags:
+- beverage-ad
+- macro
+- asmr
+- sound-design
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2086830161719111800
+  credit: Gilbert Odera | Your AI Plug
+  likes: 114
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+video: https://x.com/yourPlugAI/status/2086830161719111800
+notes:
+  en: Each beat is timed and split into visual, action and sound lines, so the model gets a clear shot order. Named sound cues like a glass CLINK and a liquid POUR drive the ASMR rhythm, and the start frame locks the orange and blade for a consistent macro opening.
+  zh: 每个时间段都拆成画面、动作和声音三行，镜头顺序清楚。玻璃碰撞声、倒液声等具体音效标注节奏，首帧锁定橙子和刀的画面，让开场的微距镜头保持一致。
+prompt: |
+  Project: Pure Sensation (15-Second Beverage Campaign)
+  Format: Text-to-Video with Image Anchor (Start Frame)
+
+  [00:00 - 00:03] THE SENSORY HOOK (Macro Slice)
+  • Visual & Camera: Starts on the image anchor. Extremely tight macro close-up of a sharp blade slicing through a ripe, juicy orange directly toward the camera lens.
+  • Action / Movement: Droplets of fresh orange juice spray toward the lens in extreme slow motion, reflecting bright sunlight.
+  • Audio / Sound Design: A sharp, satisfying crisp slicing sound effect followed by a wet splash. No music yet.
+  • On-Camera / Voice: None. Entire focus is on tactile texture and visual warmth.
+
+  [00:03 - 00:08] RHYTHMIC ASMR POUR
+  • Visual & Camera: Close-up macro shots syncing in rhythmic flow—ice hitting the glass, orange juice pouring smoothly, and fine bubbles rising.
+  • Action / Movement: A glass fills with vibrant orange juice as clear ice cubes float upward. Light bubbles gently rise to the surface as liquid coats the inner glass wall.
+  • Audio / Sound Design: Rhythmic, isolated ASMR sounds: a resonant glass "CLINK", a smooth liquid "POUR", and a delicate, crisp "FIZZ" rising in volume.
+  • On-Camera / Voice: None. Pure focus on clean acoustic detail.
+
+  [00:08 - 00:12] THE SUNLIGHT TRANSCENDENCE
+  • Visual & Camera: Eye-level medium shot of the 24-year-old Black woman taking a slow, refreshing sip from the glass, bathed in golden sunlight.
+  • Action / Movement: She takes a sip, closes her eyes momentarily, and exhales softly with a calm, genuine expression. As she places the glass down, bright sunlight refracts through the juice, projecting glowing amber patterns onto the white table surface.
+  • Audio / Sound Design: A soft, uplifting acoustic ambient pad swells quietly beneath the natural ASMR sounds.
+  • Dialogue (Real-time on-camera): "That's pure nature."
+
+  [00:12 - 00:15] THE HERO SIGN-OFF
+  • Visual & Camera: Static hero shot of the glass bottle resting beside fresh orange slices on the bright white table.
+  • Action / Movement: Light softly glimmers off condensation droplets running down the glass bottle. The composition is balanced, clean, and still.
+  • Audio / Sound Design: Soft acoustic note fades out gently alongside a final subtle bubble-pop sound.
+  • On-Screen Text / Call to Action: "Nothing Hidden. Just Nature."

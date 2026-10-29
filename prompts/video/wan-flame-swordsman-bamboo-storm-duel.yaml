@@ -1,0 +1,55 @@
+id: wan-flame-swordsman-bamboo-storm-duel
+title:
+  en: Flame swordsman and violet demon duel in bamboo storm
+  zh: 火焰剑客与紫电恶魔在竹林暴雨中决斗
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- anime
+- sword-fight
+- bamboo-forest
+- rain
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2112051914213032430
+  credit: Zara
+  likes: 192
+  captured: '2026-10-29'
+  posted: '2026-10-19'
+video: https://x.com/ZaraIrahh/status/2112051914213032430
+notes:
+  en: Timed beats from 0:00 to 0:20 give each shot its own camera move and action, so the model paces a multi-shot sequence rather than one clip. The closing block sets the audio cues and a continuity rule, so both character designs stay consistent across cuts.
+  zh: 按 0:00 到 0:20 的时间段分镜，每个镜头单独指定机位和动作，让模型按多镜头序列安排节奏而不是生成单个片段。结尾的声音设计和连续性要求（鼓点、雷声、刀击声，角色设计保持一致）统一各个镜头。
+prompt: |
+  A high-intensity, cinematic anime duel set in a dense bamboo grove at midnight. Heavy rain pours through the forest as traditional paper lanterns sway violently in the storm. Towering bamboo silhouettes vanish into thick, rolling mist. One warrior wields blazing orange flames, while his horned, demonic rival commands wild violet electricity. Their movements are precise, brutal, and impossibly fast. No character names or dialogue.
+
+  0:00–0:02 — The Silent Forest
+  A sweeping establishing shot glides between endless bamboo trunks. Two warriors face each other in the rain, completely still. A lantern flickers overhead, then the entire forest plunges into darkness, leaving only the faint glow of their supernatural blades.
+
+  0:02–0:04 — First Contact
+  An extreme close-up reveals the fiery warrior's focused eye. In a sudden burst of motion, he lunges forward, drawing a blazing arc through the darkness. His opponent blocks at the last instant. The collision releases a violent burst of orange sparks and branching purple lightning.
+
+  0:04–0:06 — Through the Bamboo
+  The camera races alongside the fiery swordsman as he dashes through the grove, slicing through a row of bamboo with a single flowing combination. The stalks begin collapsing behind him. His opponent slips through the falling debris, leaving flickering violet silhouettes in his wake.
+
+  0:06–0:08 — Lightning From Above
+  The camera rises directly overhead as the horned warrior launches into the air. He plunges downward with an electrified strike, splitting the muddy ground into a glowing fissure. The flame-wielding swordsman narrowly evades the impact, sending water and shattered earth flying toward the lens.
+
+  0:08–0:11 — Three Exchanges
+  A rapid sequence of tightly choreographed sword clashes. First, a top-down shot captures their blades locking together. Next, a low-angle view shows sparks scattering across the flooded ground. Finally, the camera circles them in a fast 180-degree rotation as their weapons collide repeatedly. Each impact illuminates individual raindrops suspended in midair.
+
+  0:11–0:14 — Blades of the Storm
+  The demonic swordsman sweeps his weapon outward, unleashing a rotating barrage of crescent-shaped violet energy blades. The flame warrior counters with a powerful spinning technique, creating a spiraling vortex of fire. The two supernatural attacks collide, filling the clearing with swirling embers, electrical arcs, and burning fragments of bamboo.
+
+  0:14–0:17 — The Decisive Clash
+  Time slows as both fighters launch from opposite sides of the clearing. Orange flames wrap around one katana while jagged purple lightning crawls along the other. Their capes, robes, and hair whip in the storm. They meet at the center of the frame, blades crashing together in a blinding flash.
+
+  0:17–0:19 — Aftermath of Impact
+  An extreme wide shot captures a massive pressure wave spreading through the forest. Bamboo stalks bend, snap, and scatter as the ground erupts beneath their feet. Burning orange light and violet electricity tear through the rain-filled mist while shattered lanterns tumble across the clearing.
+
+  0:19–0:20 — The Final Detail
+  The camera settles into a close-up of both warriors standing back-to-back, barely moving. Rain evaporates into steam wherever it touches the flaming katana. Behind them, a hairline fracture slowly spreads across the demon's electrified blade. Cut to black.
+
+  Visual Direction & Sound Design:
+  Premium hand-drawn anime aesthetics blended with dimensional 3D environments. Bold inked contours, dramatic cel shading, expressive smear frames, fluid sword choreography, exaggerated speed lines, and intricate elemental effects. Deep blacks contrast with searing amber fire and luminous violet electricity. Dense volumetric mist, realistic rain simulation, cinematic motion blur, and highly detailed environmental destruction. The soundtrack combines intense Japanese orchestral percussion, deep taiko drums, roaring thunder, sharp metallic blade impacts, and explosive magical sound effects. No dialogue, no subtitles, no character names. Maintain consistent character designs throughout all shots.

@@ -1,0 +1,32 @@
+id: h3-silver-bikini-beach-bar-walk
+title:
+  en: Woman in silver bikini walks beach bar boardwalk
+  zh: 银色比基尼女子走过海滩酒吧木栈道
+model: MiniMax H3
+mode: image-to-video
+category: cinematic
+tags:
+- fashion
+- beach
+- multi-shot
+- reference-image
+- audio
+source:
+  name: '@ou_zhen599 on X'
+  url: https://x.com/ou_zhen599/status/2096178219733102698
+  credit: Loriel.AI
+  likes: 143
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+video: https://x.com/ou_zhen599/status/2096178219733102698
+notes:
+  en: The reference image pins face, outfit and setting, while timestamped shot beats chain six cuts with motivated camera moves. Separate soundscape and music lines add the audio cues.
+  zh: 参考图锁定人物、服装和场景，带时间戳的分镜段落用有动机的运镜串起六个镜头，单独的环境音与配乐描述提供声音线索。
+prompt: |
+  For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+  integrated_multimodal_description: [Shot 1] Cinematic, ultra-realistic 16:9 beach-fashion film. The adult woman fully matches <Picture 1>: same face, hair, body proportions, silver-gray bikini, wooden boardwalk, railings, beach bar, tropical shadows, white umbrellas, sea, lounge chairs, afternoon sunlight, and refined resort atmosphere. Preserve the original composition, spatial layout, and light direction. Low-angle camera tracks backward at slow speed with slight lateral drift as she walks forward with calm assured weight transfer. Both hands lower naturally from her hair. A few loose strands move in the sea wind. Her eyes look past the camera toward the water, then briefly pass the lens edge. Tree shadows move across her shoulders, waist, arms, and the wood underfoot. [Shot 2] At 00:02.400, the camera cuts to a close side-front pass motivated by her movement. She passes the lens without stopping to pose. The camera glides with her shoulder line, waist, back contour, and legs. Hair strands, bikini straps, skin highlights, and tropical shadows shift naturally with wind and walking. She looks ahead along the boardwalk and blinks once naturally. Beach bar, railings, umbrellas, sea, and lounge chairs move in parallax behind her. [Shot 3] At 00:05.000, the camera cuts to a front-side half-arc motivated by her shoulder turn. Shoulder turns first, then waist, then face. She lifts one hand to organize windblown hair. Her eyes pause beside the lens, then slowly meet it. The eyes brighten first, then a minimal confident non-toothed smile appears. Natural breathing is visible in the collarbone, torso, and waist. [Shot 4] At 00:08.000, the camera cuts to a side-rear tracking shot along the railing, then transitions smoothly into a side-front receiving shot as she keeps walking. One hand glides lightly over the railing. Ocean reflections, umbrellas, lounge chairs, distant resort visitors, and tropical shade flow continuously behind her. When loose hair crosses one eye, she makes one small head adjustment and one natural blink. Walking mechanics stay connected through footfalls, shoulders, hips, and torso. [Shot 5] At 00:11.800, the camera cuts to a moving close medium frame under the strongest shifting tree-shadow pattern. This is a brief cover-image beat lasting under one second, never frozen. She looks below the lens, then raises her eyes toward it. One hand rests lightly near her neck or hair. The opposite shoulder opens naturally. Her mouth keeps only a minimal non-toothed curve. Hair, thin bikini straps, breathing, sea breeze, and moving shadows stay alive. She immediately resumes walking. [Shot 6] At 00:13.600, the camera cuts to a low-angle fashion view tracking backward as she takes two steps toward the open shoreline. Shoulder turns first and face returns last. Her gaze passes sunlight and ocean before landing lightly on the lens. She gives a very subtle non-toothed smile while still moving forward. Keep bright water, white umbrellas, and tropical shade behind her. End at 15.00 seconds with her still in gentle forward motion inside the resort landscape. No dialogue, no subtitles, no watermarks, no fixed camera, no prolonged frontal lock-off, no random cuts, no selfie behavior, no vulgar posing, no exaggerated flirtation, no glassy eyes, no empty stare, no mechanical blinking, no puckered lips, no rigid hair mass, no plastic skin, no anatomy distortion, no malformed hands.
+
+  overall_soundscape: Natural surf, sea wind, soft boardwalk footsteps, distant beach guests, and quiet beach-bar ambience. Leaves shift above the boardwalk and wind moves hair and fabric subtly. No dialogue.
+
+  non_diegetic_music: Refined summer fashion score with sparse hand percussion, muted bass, clean guitar accents, and light airy synth texture at a relaxed mid-tempo pulse, fading gently into the final shot.

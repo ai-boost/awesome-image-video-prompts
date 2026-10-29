@@ -1,0 +1,43 @@
+id: h3-black-luxury-sedan-city-ad-kiss
+title:
+  en: Black luxury sedan city ad ending with a kiss
+  zh: 黑色豪华轿车城市广告，结尾飞吻
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- luxury-car
+- dusk-city
+- multi-shot
+- product-ad
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2108784100530081964
+  credit: Zyrella
+  likes: 169
+  captured: '2026-10-29'
+  posted: '2026-10-10'
+video: https://x.com/Zyrellix/status/2108784100530081964
+notes:
+  en: Four timed shots, each with a named camera move (side tracking, low angle wheel close up, rear tracking, interior close up), give the model clear cut points. The darkening exit scene and lens and light terms like shallow depth of field and reflections set the premium commercial look.
+  zh: 四个带时间码的分镜，每镜指定机位（侧面跟拍、低角度轮胎特写、后方跟拍、车内近景），让模型切镜点清晰。结尾渐暗的场景，加上景深、反光等镜头与光线用语，锁定高端广告质感。
+prompt: |
+  Create a 15-second cinematic photorealistic luxury car commercial, set in a modern city at dusk. Premium automotive advertisement, realistic lighting, natural motion, detailed reflections, shallow depth of field, smooth cinematic camera movement, 4K quality, 24fps.
+
+  SHOT 1 — 0–4s:
+  Medium close-up from outside the driver's side window of a sleek black luxury sports sedan driving through the city. A young Asian woman with long dark hair is driving, wearing a black leather jacket and seatbelt. She looks naturally toward the road, then briefly smiles toward the camera. Capture realistic reflections of city lights across the glossy black body and windows. Camera tracks smoothly alongside the moving car.
+
+  SHOT 2 — 4–7s:
+  Extreme low-angle close-up of the rear wheel and rear quarter panel. The black performance tire spins rapidly as the car accelerates. Subtle tire smoke and road dust appear behind the wheel. Detailed tire texture, realistic suspension movement, glossy reflections, dramatic automotive lighting. Fast dynamic tracking camera.
+
+  SHOT 3 — 7–11s:
+  Wide rear tracking shot of the black luxury sedan speeding through a modern city tunnel/highway surrounded by tall glass buildings. The car moves confidently through the center lane. Camera follows smoothly from behind at road level. Strong sense of speed with realistic background motion blur, reflections and cinematic depth.
+
+  SHOT 4 — 11–15s:
+  Cut back inside the car. Close-up of the female driver from the passenger side. She keeps one hand on the steering wheel, looks toward the camera with a playful confident smile, then gently raises her hand toward her lips as if blowing a kiss. City lights streak softly through the windows behind her. Natural facial expressions, realistic skin texture, subtle hair movement, premium cinematic lighting.
+
+  END:
+  The car continues driving away through the city as the scene gradually becomes darker, leaving a stylish cinematic ending.
+
+  Visual style: ultra-photorealistic, premium luxury automotive commercial, realistic physics, natural human movement, accurate car proportions, realistic wheel rotation, cinematic depth of field, detailed reflections, high-end color grading, smooth transitions, no cartoon look, no distorted hands, no facial artifacts, no warped car body.
+  Camera movement should feel dynamic and confident, matching a real professional automotive commercial rather than slow motion.

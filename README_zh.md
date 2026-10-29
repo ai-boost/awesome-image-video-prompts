@@ -10,7 +10,7 @@
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
-<a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/zh/video-scifi-fantasy.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/zh/video-scifi-fantasy.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/zh/video-vfx.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/zh/video-cinematic.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="pages/zh/video-action-2.md#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
+<a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/zh/video-scifi-fantasy.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/zh/video-scifi-fantasy.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/zh/video-vfx.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/zh/video-cinematic.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="pages/zh/video-action-3.md#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
 
 </div>
 
@@ -19,18 +19,18 @@
 ## 目录
 
 - [最近新增](#recent)
-- [视频提示词](#video) (725 条)
-  - [电影感场景与短片](#vid-cinematic) (86)
-  - [动作、追逐与运动](#vid-action) (130)
-  - [科幻与奇幻](#vid-scifi-fantasy) (62)
-  - [动漫与动画](#vid-anime) (56)
-  - [广告与产品](#vid-commercial) (87)
-  - [对白与口播](#vid-dialogue) (43)
-  - [音乐与舞蹈](#vid-music-dance) (37)
-  - [手机实拍与 Vlog](#vid-vlog) (126)
-  - [自然、旅行与航拍](#vid-nature) (8)
-  - [动物与萌宠](#vid-animal) (21)
-  - [特效与变身转场](#vid-vfx) (69)
+- [视频提示词](#video) (938 条)
+  - [电影感场景与短片](#vid-cinematic) (124)
+  - [动作、追逐与运动](#vid-action) (171)
+  - [科幻与奇幻](#vid-scifi-fantasy) (82)
+  - [动漫与动画](#vid-anime) (76)
+  - [广告与产品](#vid-commercial) (123)
+  - [对白与口播](#vid-dialogue) (55)
+  - [音乐与舞蹈](#vid-music-dance) (45)
+  - [手机实拍与 Vlog](#vid-vlog) (143)
+  - [自然、旅行与航拍](#vid-nature) (11)
+  - [动物与萌宠](#vid-animal) (26)
+  - [特效与变身转场](#vid-vfx) (82)
 - [图片提示词](#image) (1146 条)
   - [海报与编辑排版](#img-poster) (187)
   - [信息图与幻灯片](#img-infographic) (88)
@@ -56,18 +56,18 @@
 <a id="recent"></a>
 ## 最近新增
 
-- 2026-10-29 · [三位女剑士的红色动漫片头](pages/zh/video-anime.md#h3-anime-opening-three-swordswomen) · MiniMax H3
-- 2026-10-29 · [Oggy用苍蝇拍打落桌面图标，蟑螂四散](pages/zh/video-animal.md#h3-oggy-cockroaches-desktop-chaos) · MiniMax H3
-- 2026-10-29 · [吉祥物跳上空白的日历页](pages/zh/video-dialogue.md#h3-days-of-week-calendar-lesson) · MiniMax H3
-- 2026-10-29 · [吉祥物讲解四种基础形状动画](pages/zh/video-vfx.md#h3-shapes-mascot-learning-animation) · MiniMax H3
-- 2026-10-29 · [克利奥帕特拉在王座上迎接披萨外卖员](pages/zh/video-dialogue.md#h3-cleopatra-orders-pizza-delivery) · MiniMax H3
-- 2026-10-29 · [女子手持手电在昏暗车库中奔逃](pages/zh/video-cinematic.md#h3-zombie-garage-flashlight-escape) · MiniMax H3
-- 2026-10-29 · [紫色动漫海报逐层拼装成动画](pages/zh/video-anime.md#h3-purple-anime-poster-assembles-layers) · MiniMax H3
-- 2026-10-29 · [巨蟹在渔港抢走女生手机](pages/zh/video-vlog.md#h3-crab-steals-phone-harbor) · MiniMax H3
-- 2026-10-29 · [男子仰面下坠穿过珊瑚礁与沉船](pages/zh/video-action.md#h3-ocean-abyss-fall-overhead) · MiniMax H3
-- 2026-10-29 · [蜘蛛侠与超人在屋顶互相调侃](pages/zh/video-dialogue.md#h3-spiderman-superman-rooftop-banter) · MiniMax H3
-- 2026-10-29 · [游客在游轮客房拍摄黑洞](pages/zh/video-vlog.md#h3-cruise-cabin-black-hole-window) · MiniMax H3
-- 2026-10-29 · [渔夫在平静湖面上收线](pages/zh/video-vfx.md#h3-found-footage-fisherman-doppelganger) · MiniMax H3
+- 2026-10-29 · [蕾姆把掉落的桌面图标捡回原位](#h3-rem-desktop-icons-maid-mishap) · MiniMax H3
+- 2026-10-29 · [雕刻石灰岩浮雕地图揭示剧集署名](#h3-jade-sun-maya-title-sequence) · MiniMax H3
+- 2026-10-29 · [红格靴动漫少女滑入朋克MV画面](#h3-pink-panic-punk-mv) · MiniMax H3
+- 2026-10-29 · [客厅 FPV 镜头飞入电视中的祝酒场景](#h3-living-room-fpv-dives-into-tv-toast) · MiniMax H3
+- 2026-10-29 · [真人走廊画面改成70年代卡通风格](pages/zh/video-vfx.md#h3-police-officer-scooby-doo-haunted-hallway) · MiniMax H3
+- 2026-10-29 · [动漫咖啡师按分镜制作拉花拿铁](#h3-barista-latte-art-storyboard) · MiniMax H3
+- 2026-10-29 · [纸艺男孩循着红丝带找回气球](pages/zh/video-cinematic.md#seedance-papercraft-boy-red-balloon-short) · Seedance 2.5
+- 2026-10-29 · [白色泥塑猫复刻街头猫的动作](pages/zh/video-vfx.md#h3-white-model-cat-motion-transfer) · MiniMax H3
+- 2026-10-29 · [霓虹像素风动漫游戏少女角色设定图](pages/zh/video-anime.md#h3-pixel-pop-gamer-girl-character-sheet) · MiniMax H3
+- 2026-10-29 · [工业厂房中的直播风射击游戏实录](pages/zh/video-action.md#wan-livestream-snapper-precision-gun-gameplay) · Wan 3.0
+- 2026-10-29 · [自助洗衣房变成蜡笔涂鸦夜空](pages/zh/video-vfx.md#h3-laundromat-crayon-doodle-night-sky) · MiniMax H3
+- 2026-10-29 · [女孩骑红色自行车经过夏日小店](pages/zh/video-anime.md#h3-girl-bicycle-summer-shop-dialogue) · MiniMax H3
 
 <a id="video"></a>
 ## 视频提示词
@@ -132,6 +132,86 @@ No added props, scenery, text, graphic overlays or split screens.
 
 </details>
 
+<a id="h3-jade-sun-maya-title-sequence"></a>
+### 雕刻石灰岩浮雕地图揭示剧集署名
+
+<a href="https://x.com/HBCoop_/status/2087539373420228818"><img src="previews/h3-jade-sun-maya-title-sequence.jpg" width="360"></a>
+
+用3秒、6秒、9秒和11.5秒的时间节点把每条署名放进独立时段，并给出明确的停留指令，保证每个名字都清晰可读。明确禁止混入其他文明元素和伪造字符，音频部分同时列出该用与不该用的乐器，使画面和声音都围绕主题。
+
+MiniMax H3 · 文生视频 · 出处: [@HBCoop_ on X](https://x.com/HBCoop_/status/2087539373420228818) · 1,032 赞，统计于 2026-10-29
+
+[`maya`](pages/zh/tags.md#tag-maya) [`title-sequence`](pages/zh/tags.md#tag-title-sequence) [`typography`](pages/zh/tags.md#tag-typography) [`timed-beats`](pages/zh/tags.md#tag-timed-beats)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a visually rich 15-second, 16:9 opening-title sequence for a historical drama titled THE JADE SUN, set within a powerful Classic Maya city-state.
+
+The story concerns royal succession, drought, trade and political rivalry. Build the titles from historically grounded materials rather than conventional battle scenes.
+
+VISUAL LANGUAGE
+Use warm limestone, deep jungle green, polished jade, black obsidian, red mineral pigment, woven cotton and flickering firelight. Show corbelled architecture, reservoir maps, carved relief details, jade mosaics, cacao vessels and the shadow of a ceiba tree.
+
+Do not mix Maya imagery with Aztec, Incan, Egyptian or European motifs. Do not generate decorative glyphs or invented ancient writing.
+
+Display only the exact English credits below. Use monumental serif typography inspired by carved geometry without imitating Maya glyphs. Keep all letters correctly spelled, flat and readable.
+
+0–3s: Sunlight travels across a limestone relief. Shallow carved lines form a map of reservoirs, raised roads and temple platforms. Red pigment fills one route and reveals:
+
+A SERIES BY
+ELENA MAR
+
+Hold the credit clearly.
+
+3–6s: Small pieces of polished jade slide across black cloth and lock into a circular royal ornament. The empty center opens to reveal:
+
+STARRING
+TOMAS REYES
+
+The jade stops moving before the name appears.
+
+6–9s: An obsidian mirror reflects firelight and the partial silhouette of a ruler wearing an authentic feathered headdress. Condensation retreats from the mirror to reveal:
+
+CREATED BY
+ISABEL CRUZ
+
+Hold the text in the clean dark reflection.
+
+9–11.5s: No text. A stone model of the city is gradually covered by the shadow of an approaching eclipse. Reservoir channels dry and turn from blue-green to dark red. One jade bead rolls into the remaining light.
+
+11.5–15s: The bead becomes a brilliant green sun against black obsidian. Limestone letterforms rise around it to reveal:
+
+THE JADE
+SUN
+
+Gold-green light moves once across the title, then everything becomes still. Hold through the end.
+
+Audio: distant jungle atmosphere, a low wooden slit drum, clay flute breath, stone movement and one restrained conch tone during the eclipse. No generic chanting, fantasy music, orchestral trailer impacts or modern instruments.
+```
+
+</details>
+
+<a id="h3-living-room-fpv-dives-into-tv-toast"></a>
+### 客厅 FPV 镜头飞入电视中的祝酒场景
+
+<a href="https://x.com/CharaspowerAI/status/2091223949099368797"><img src="previews/h3-living-room-fpv-dives-into-tv-toast.jpg" width="360"></a>
+
+整个运镜以男子指向电视的手指为引导方向，镜头顺着手势飞向屏幕。提示词按秒分段，并把电视里的画面写成只有轻微呼吸和酒杯晃动的活画面，使穿屏进入与第二张参考图的构图衔接自然。
+
+MiniMax H3 · 首尾帧 · 出处: [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2091223949099368797) · 1,005 赞，统计于 2026-10-29
+
+[`fpv`](pages/zh/tags.md#tag-fpv) [`one-take`](pages/zh/tags.md#tag-one-take) [`tv-portal`](pages/zh/tags.md#tag-tv-portal) [`reference-images`](pages/zh/tags.md#tag-reference-images)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Here’s the prompt it created for this FPV sequence 👇
+Use Image 1 as the exact opening frame and Image 2 as the exact destination world, creating one uninterrupted 15-second ultra-smooth cinematic FPV one-take with no cuts, no glitches, no teleportation, no jumpy motion, and no visible camera, as if an invisible stabilized micro-FPV lens is drifting naturally through a warm, lived-in living room and then physically flying into a television to emerge inside the second scene. Begin by preserving Image 1 perfectly: the man stays in the same yellow knit shirt, seated deep in the leather recliner with his boots propped up, cigarette smoke rising from his right hand, beer can still present, his left index finger urgently pointing toward the television in the direction he is already gesturing, with the same casual-but-suddenly-focused expression, the same residential living room geometry, the same pleated curtains, table lamp glow on the right, worn boot soles in the foreground, leather reflections, knit texture, and nostalgic warm low-key lighting. For the first 0–3 seconds, start almost motionless and then begin a very subtle forward FPV drift with a slight sideways arc that feels physically weighted and organic, skimming past the foreground boots and the armrest edge while the camera naturally aligns itself with the line of his pointing finger; use the gesture as the guiding vector for the whole move, letting the viewer feel the television is the true target of the composition. Between 3–7 seconds, perform a smooth curved tracking arc around the man’s pointing side, maintaining his face, hand, smoke, chair, and curtains in consistent perspective while progressively revealing the television in the room; the motion should feel like a real flying camera easing around a seated subject, not a pan or zoom, with strong parallax between the foreground boots, the midground man, and the soft curtain plane behind him. As the television becomes visible, its screen should already contain Image 2 as a living cinematic scene, not a static frame: the same blonde man in a black tuxedo jacket, white shirt, and black bowtie, with slicked-back hair, a knowing confident smile, and a champagne coupe raised toward camera, but animated with subtle, elegant human micro-motion only—soft breathing and natural chest rise, a faint head-and-shoulder shift, natural blinking and tiny eye movement, minimal facial micro-expressions that preserve the original confident smile, slight hand and finger adjustment around the glass, a gentle wrist rotation or small lift of the coupe, delicate liquid movement inside the glass caused by the motion, tiny reflections sliding across the glass surface, a subtle weight shift through the body, and barely perceptible cloth movement in the tuxedo from breathing and posture. From 7–11 seconds, gradually accelerate directly toward the television in a smooth, elegant FPV approach, keeping the man in Image 1 and the TV in a single spatial relationship, with realistic lens behavior, soft screen reflections, faint glass depth, slight perspective distortion at the screen surface, and natural falloff in depth of field as the screen grows larger and larger until it dominates the frame. The television surface must feel physically real, with subtle room reflections and believable contrast between the screen image and the surrounding bezel, and the approach must remain seamless, continuous, and stable, with no abrupt zoom, no wobble, and no transition artifacts. As the camera gets closer, the motion inside the TV should continue naturally and remain alive, with the character’s breathing, blinking, tiny gaze shifts, and champagne glass micro-movements persisting uninterrupted so the screen feels like a real moving scene rather than a frozen image. From 11–15 seconds, the camera flies through the television screen in one uninterrupted motion, crossing the glass plane invisibly so that the screen image expands to full frame and becomes the actual world of Image 2 behind it; at the exact crossing moment, perfectly match the perspective, lighting, and framing of the TV image so the transition is imperceptible, as if the television were a real window into that scene. Once inside Image 2, preserve the tuxedoed blond man exactly: his slicked-back hair shape, confident direct gaze, black bow tie, white shirt collar, champagne coupe, shallow depth of field, sparkling bokeh background, glossy highlights on glass, and opulent celebratory atmosphere, while continuing the same minimal natural motion—breathing, blinking, tiny facial changes, minute hand and glass adjustments, and subtle liquid and reflection movement—so the final image feels alive and cinematic rather than frozen. Continue a gentle deceleration after entry so the final frame settles into a composition very close to Image 2: his face sharp, the raised glass elegant in the foreground, reflective highlights crisp, background bokeh glowing softly, and the overall mood polished, cinematic, and premium. The final image should feel like a flawless Hollywood-level FPV match transition from a warm domestic interior into an opulent toast scene, with realistic parallax, physically believable motion blur, subtle smoke, rich contrast, stable facial identity, correct anatomy, consistent clothing, faithful room continuity, seamless screen-entry logic, living motion inside the TV, and a perfectly composed hero ending frame.
+```
+
+</details>
+
 <a id="seedance-mall-zombie-outbreak"></a>
 ### 商场突发丧尸潮
 
@@ -179,233 +259,7 @@ The group reaches temporary safety behind the storefront. The guard slowly looks
 
 </details>
 
-<a id="wan-cafe-camel-coat-character-sheet"></a>
-### 咖啡馆柜台前身穿驼色大衣的男人
-
-<a href="https://x.com/ivanka_humeniuk/status/2113582628024566084"><img src="previews/wan-cafe-camel-coat-character-sheet.jpg" width="360"></a>
-
-先用一张参考图生成三视图角色设定板，左侧为正面和背面全身，右侧为一张细致的头像。正面全身的脸被有意虚化，让头像成为唯一的面部参考，同时写清服装、面料和胶片质感，让角色在多个场景中保持一致。
-
-Wan 3.0 · 参考生视频 · 出处: [@ivanka_humeniuk on X](https://x.com/ivanka_humeniuk/status/2113582628024566084) · 878 赞，统计于 2026-10-27
-
-[`character-consistency`](pages/zh/tags.md#tag-character-consistency) [`reference-sheet`](pages/zh/tags.md#tag-reference-sheet) [`cafe`](pages/zh/tags.md#tag-cafe) [`film-look`](pages/zh/tags.md#tag-film-look) [`romance`](pages/zh/tags.md#tag-romance)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a three-panel character reference sheet of the woman in
-@image1
- in a single wide 16:9 image.
-Preserve her exact facial identity, blue eyes, dark espresso-brown hair color, skin tone and natural facial
-proportions from
-@image1
-.
-The left half contains two full-body views side by side: front and back, identical in scale, with both figures
-completely visible from above the bun to below the shoes. The right half contains one large
-head-and-shoulders portrait, facing directly into the camera. All three views share one continuous neutral
-mid-grey studio backdrop, matching soft lighting and the same warm film color treatment.
-In the full-body front view, replace the facial features with a smooth, softly blurred skin-toned oval. Keep the
-hairstyle and head silhouette intact. The large portrait on the right is the only detailed face reference.
-Restyle her exceptionally long, thick hair into a high, generously sized, loosely sculpted bun at the crown.
-Preserve the fullness of her hair, with lifted roots and soft volume around the head. Two delicate curved
-tendrils fall beside her temples toward her jaw, framing the outer edges of her face. Her eyebrows, blue eyes
-and cheekbones remain clearly visible. The back view shows the gathered hair and the substantial rounded
-shape of the bun. The hairstyle feels elegant and practical, like a beautiful café waitress in a romantic film
-from around 2000.
-Dress her in a fitted ivory fine-knit top with short sleeves and a modest scoop neckline, tucked into a
-high-waisted black tailored pencil skirt ending at the knees. The skirt has a small functional back vent. Over it,
-she wears a short deep-burgundy cotton waist apron, extending from the waist to mid-thigh, with two discreet
-rectangular front pockets. Narrow apron ties wrap around her waist and form a neat bow at the center of her
-back, clearly visible in the rear view. Her shoes are simple black leather ballet flats with gently rounded toes
-and low flat heels. Small plain gold stud earrings complete the outfit.
-Her figure is tall and slender, with a defined narrow waist, long legs and a graceful neck. The clothing follows
-her natural proportions, with realistic knit texture, tailored seams and soft cotton folds around the apron ties.
-02
-The same outfit, fit, hem lengths and hairstyle appear in all three views.
-In the front view she stands upright, square to the camera, shoulders level, weight evenly balanced, arms
-relaxed at her sides and hands empty. The back view shows the identical stance turned fully away. In the
-portrait her head is upright, chin level and both eyes look directly into the lens. Her lips are gently closed with
-a faint, relaxed smile. Preserve the recognizable face from
-@image1
-, with natural skin texture, visible pores
-and fine facial hairs.
-Soft frontal studio lighting keeps her features and clothing clearly readable, with gentle shading under the
-chin and soft contact shadows beneath the shoes. The grey backdrop remains plain throughout the image.
-The composition consists entirely of the three views and the seamless backdrop.
-Maintain a glamorous late-1990s to early-2000s 35mm film publicity look: warm natural skin, creamy ivory
-fabric, rich burgundy cotton, deep readable blacks, fine organic grain and restrained highlight glow. Her face,
-blue eyes, hair strands and garment details remain clearly resolved. Clean presentation with uninterrupted
-backdrop between the views.
-
-📌 PROMPT 2 (Guy map):
-Create a three-panel character reference sheet of the man in
-@image1
- in one wide 16:9 image. Preserve his
-exact face, eye color, skin tone, facial proportions and hairstyle from the reference, including the natural
-swept-back waves and the loose strand near his forehead.
-The left half of the image contains two full-body figures side by side: a straight-on front view and a complete
-back view, identical in scale, both visible from above the hair to below the shoes. The right half contains one
-large head-and-shoulders portrait looking directly into the camera, with his entire hairstyle inside the frame.
-All three views share one continuous neutral mid-grey studio backdrop.
-On the full-body front figure, replace the facial features with a smooth, softly blurred skin-toned oval,
-retaining the head silhouette and hair. The large portrait on the right is the single detailed face reference.
-He is tall, approximately 188 cm, with broad shoulders, a lean athletic build, a defined waist and long legs. His
-proportions remain natural and identical across all three views.
-Dress him in an elegant camel-colored wool-and-cashmere overcoat reaching just below the knees. The coat
-has broad notched lapels, softly structured shoulders, a single-breasted three-button front, discreet welt
-pockets and a single center-back vent. He wears it fully unbuttoned, its front panels hanging naturally to
-reveal the clothing underneath. The fabric is substantial, softly brushed and richly textured, with realistic
-weight and long vertical folds.
-Under the overcoat, he wears a dark chocolate-brown tailored wool blazer with a two-button front, worn
-unbuttoned, over a pale-blue cotton shirt with a pointed collar and the top button undone. The shirt is tucked
-neatly into high-waisted charcoal-grey wool trousers with a single pleat on each side, a relaxed straight leg
-and a slight break over the shoes. A dark-brown leather belt with a small brushed-metal buckle completes the
-waist.
-His shoes are polished dark-brown leather penny loafers with matching dark socks. A slim rectangular gold
-wristwatch on a dark-brown leather strap sits on his left wrist, partly visible beneath the cuff. The styling has
-04
-the understated elegance of a wealthy young man in a romantic film set around 2000.
-In both full-body views, he stands upright with shoulders level, weight evenly balanced and arms relaxed
-slightly away from his sides so the coat silhouette remains readable. His hands are empty. The back view
-shows the coat's full length, center seam, vent and natural drape.
-In the large portrait, his face is strictly frontal, head upright, chin level and both eyes directed into the lens.
-His lips are relaxed and closed. Preserve the exact facial structure, subtle beard shadow and natural skin
-texture visible in
-@image1
-. The portrait includes the camel coat lapels, brown blazer and pale-blue shirt
-collar.
-Soft, even studio lighting keeps his face and all clothing details clearly readable, with gentle facial shading,
-broad highlights on the wool and soft contact shadows beneath both pairs of shoes. The backdrop is plain and
-continuous, with clean empty space separating the three views.
-Maintain warm late-1990s to early-2000s 35mm film color: natural warm skin, rich camel wool, deep
-chocolate tailoring, soft pale-blue cotton and readable charcoal shadows. Fine organic film grain and
-restrained highlight glow give the image a tactile cinematic finish while the face, hair and garment
-construction remain clearly resolved.
-
-📌 PROMPT 3 (Cake box map):
-
-A photorealistic pastry packaging reference sheet on a uniform medium-grey seamless studio background, horizontal 16:9 composition, divided into two equal side-by-side views. The surface beneath both boxes and the background are the same neutral grey.
-
-On the left, a closed rectangular ivory cardboard pastry box with a fitted hinged lid, viewed from a slightly elevated three-quarter angle. Matte cardboard, subtle paper texture, clean folded edges and a plain unprinted surface.
-
-On the right, exactly the same box at the same scale, with its hinged lid fully raised behind it. A higher three-quarter viewing angle clearly reveals the contents: six individual chocolate mousse pastries arranged in two rows of three, each on a small gold pastry board. Comfortable spacing makes every pastry’s complete silhouette visible.
-
-Each pastry has a playful, stylized penis shape: a smooth rounded elongated form with two rounded lobes at the base, recognisable as a humorous bachelorette-party confection. All six share the same shape and size, with glossy milk-chocolate mirror glaze and a tiny touch of edible gold leaf. Smooth moulded chocolate surfaces and appetising highlights give them the appearance of carefully crafted patisserie desserts.
-
-The box dimensions, ivory colour and construction are identical in both views. Neatly fitted ivory food-safe paper lines the interior. Both boxes are fully visible with comfortable grey space around them.
-
-Soft studio lighting, gentle contact shadows, clear high-resolution detail and natural optical sharpness with restrained sharpening. Subtle fine film grain and softly warm highlights, consistent with late-1990s cinematic photography. The entire surrounding background remains solid neutral medium grey.
-
-📌 PROMPT 4 (Cafe map):
-
-Create a cinematic location reference photograph of an intimate, elegant neighbourhood café in the year 2000, shortly before closing on an autumn evening. One wide horizontal 16:9 image showing a single coherent interior, photographed at eye level from the customer side, looking diagonally toward the service counter. A natural 28mm lens perspective with straight architectural lines and clearly readable room geography.
-
-A long service counter occupies the right half of the composition, running from the foreground toward the back wall. It has a polished dark walnut front with recessed wooden panels and a warm ivory stone countertop. The central serving section is a broad, clear, uninterrupted surface, ready for a pastry box and a conversation between a standing customer and the waitress behind the counter. This section of the counter is bare, with the stone surface fully visible.
-
-Behind the counter is a comfortable working aisle. The rear service wall contains dark wooden shelves, neatly arranged porcelain dishes, a stainless-steel espresso machine and a small period-appropriate cash register at the far end. A wooden doorway in the back wall leads to the kitchen. A small glass pastry display stands at the far end of the counter, leaving the main serving area open.
-
-On the left side of the room, three small dark wooden tables stand beside burgundy leather banquette seating along the wall. Each table has two bentwood chairs and a small glass sugar dispenser. Above the banquette hang framed botanical prints and warm brass wall sconces with ivory shades. The walls are painted creamy butter yellow above dark wooden wainscoting. The floor is laid with small cream and muted terracotta tiles.
-
-At the far left, tall street-facing windows and a glazed wooden entrance door reveal a quiet city street at dusk. Soft, cool evening light enters through the windows, balanced by warm pools of light from the wall sconces and three opal-glass pendant lamps above the counter. The entrance, seating area, service counter and kitchen doorway are all clearly visible within the same spatially consistent room.
-
-The café feels established, lovingly maintained and slightly worn: subtle patina on brass fittings, gentle wear on the leather seats, fine scratches in the wooden furniture and realistic texture in the plaster walls. The tables are neatly reset for the end of the evening. The room is unoccupied so its layout and furnishings are fully visible.
-
-The visual atmosphere is a romantic feature film from 1999–2000, captured on 35mm film: warm amber practical lighting, creamy highlights, rich walnut brown, muted burgundy and natural shadow detail. Fine film grain, subtle halation around glowing lamps and soft highlight roll-off. Maintain enough depth of field to clearly describe the counter, seating and rear service wall. Photorealistic materials, believable proportions and an inviting, lived-in atmosphere. A clean cinematic location photograph filling the entire frame.
-
-📌 PROMPT 5 (Animation prompt):
-SCENE CONTEXT A 30-second scene in a neighbourhood café in the year 2000, near closing time. A headstrong waitress packs her handmade pastries. A wealthy customer approaches to pay, interrupts her work with questions, tastes a sample and asks her to pose as his girlfriend at dinner.  Play this as a lively romantic dramedy with friction, humour and unexpected attraction. She wants to finish her work and refuses to entertain his casual charm. He wants to keep her attention and finds himself having to earn it. Their reactions evolve naturally as they listen to each other.  ACTIVE REFERENCES
-@image1
- — the waitress. Use the detailed portrait for her exact face and the full-body views for her work outfit and high loose bun.
-@image2
- — the customer. Preserve his exact face, hair and clothing, including the unbuttoned camel overcoat.
-@image3
- — the café architecture, counter, furnishings and dusk outside.
-@image4
- — one ivory pastry box and its six chocolate novelty pastries. Preserve their shapes, chocolate glaze, gold decoration and individual gold boards. The panels show two states of the same box.  SPACE AND PROPS She stands behind the counter; he approaches on the customer side. In shared shots he is screen-left, she is screen-right. Keep the camera on the same side of their dialogue axis, maintaining matching eyelines.  The box begins open with five pastries inside. She is placing the sixth into the remaining space, holding its gold board. Beside the box is a small ivory plate with an additional matching dessert cut into two portions and a dessert fork. He samples this separate dessert; the six boxed pastries remain whole.  He carries a folded banknote in his left hand, ready to pay. His right hand is free. The central serving surface contains the box and tasting plate. Cups stay on the background shelves.  CAMERA AND EDITING 16:9, 30 seconds, real-time action. Film coverage with foreground depth, deliberate camera movement, expressive changes in shot size and motivated focus pulls. Hard cuts at the listed boundaries. Stable focal length within each shot. Let performances flow inside the shots, with natural listening and gestures overlapping speech.  0.0–3.0 SECONDS 63° FOV. A short lateral tracking shot moves along the customer side of the counter with the approaching man, revealing the waitress already at work beyond him. The polished counter creates a strong diagonal into the frame. She places the final pastry into the box. He stops opposite her, notices the contents and suppresses a laugh. She remains occupied with packing.  HARD CUT — 3.0–5.5 SECONDS 47° FOV. Low oblique view across the open box: the pastries are sharp in the foreground, his face visible beyond them. Pull focus from the chocolate shapes to his amused expression as he looks up at her. MAN: “Is this the new menu?” He is teasing, expecting an easy smile in return.  HARD CUT — 5.5–10.5 SECONDS 47° FOV. Side-on medium shot of the waitress, her face and hands visible, his coat softly framing one edge. WOMAN: “Test batch for a bachelorette party. My coworkers approved.” She answers with dry impatience while straightening the paper inside the box. She gives him a pointed look on “approved,” then slides the tasting plate toward him with a brisk, controlled gesture: he can taste it and let her finish. The plate stops within his reach. Her delivery has bite and personality; her attention moves naturally between him and her work.  HARD CUT — 10.5–14.5 SECONDS 47° FOV. Counter-height three-quarter medium shot of the man, showing his face and right hand, with the box edge in the foreground. He takes a small forkful from the cut dessert. As he tastes, his teasing manner gives way to spontaneous appreciation. He finishes the bite and lowers the fork onto the plate. She is visible at the edge of frame, briefly watching to see whether he likes it before returning to her work. The banknote remains in his left hand.  HARD CUT — 14.5–20.5 SECONDS 47° FOV. A layered two-shot looking diagonally along the counter, both faces readable. The camera makes a gentle lateral move that settles as their eyes meet. MAN: “You make these yourself?” His interest is genuine now. WOMAN: “After my shifts. I'm saving for my own bakery.” She answers firmly, with pride beneath the impatience. For a moment she engages fully because her bakery matters to her. Then she returns her attention to the box. He watches her and considers his next words.  HARD CUT — 20.5–24.0 SECONDS 29° FOV. Medium close-up of the man from beside her shoulder. A slow, restrained dolly inward makes the conversation feel more personal. MAN: “Have dinner with me tonight?” He attempts an easy invitation, but there is a real question in his eyes. Allow a short listening beat after the line.  HARD CUT — 24.0–30.0 SECONDS 29° FOV. Close-up of the waitress from his eyeline, her face in three-quarter view and his blurred shoulder at the edge. Begin with a very slight forward camera move. She looks up from her work and gives him a brief, sceptical half-smile, amused by his nerve. MAN, naturally offscreen: “With my family. As my girlfriend.” His voice hesitates briefly between the two phrases.  Stay on her throughout his clarification so the audience sees it land. Her half-smile disappears; she stops what she is doing and looks directly at him with an immediate, incredulous reaction. She lets out a short disbelieving breath and settles her right palm on the counter. The camera settles with her. Hold the final moment as she silently sizes him up, ready to challenge him. End after the hand movement is complete, on her living reaction.  ACTING Give the actors room for spontaneous conversational behaviour. She is spirited, quick and proud, with dry humour and a short tolerance for being patronised. Her annoyance changes with the conversation: she dismisses his teasing, briefly cares about his response to her baking, defends her ambition and finally reacts to the audacity of his request.  He starts charming and self-assured, adjusts when she gives him little encouragement, becomes genuinely impressed by the dessert and risks the invitation. His confidence becomes less certain as he waits for her response.  Use connected reactions, natural breaths, shifts of attention and expressive vocal rhythm. Each person listens while the other speaks. Movements arise from packing, tasting and trying to hold or end the conversation. Keep their faces recognisable and their physical behaviour grounded.  LIGHTING AND COLOUR Preserve the café's amber pendant lamps, brass sconces and cool dusk windows. Soft directional side lighting shapes their faces, with darker shadow cheeks and gentle reflected fill preserving their eyes. Photograph from the shadow side. Loose hair, camel wool and chocolate glaze catch warm highlights.  Fixed 4000K white balance. Rich walnut browns, burgundy leather, creamy practical highlights and deep textured shadows. Natural skin colour beneath the warm light. Consistent lighting across all angles.  AUDIO — FIXED CHARACTER VOICES WOMAN VOICE: Adult woman in her mid-twenties; medium pitch, warm clear mezzo speaking voice with a lightly husky lower register, neutral General American accent, natural conversational rhythm, crisp intelligible consonants and restrained expressive inflection. MAN VOICE: Adult man in his early thirties; medium-low pitch, warm resonant baritone with a subtle dry rasp, neutral General American accent, measured conversational rhythm, clear articulation and understated playful inflection.  Preserve these vocal identities. Her delivery is dry, spirited and impatient, becoming firm when discussing her bakery. His delivery moves from playful confidence to sincere curiosity and slightly hesitant persuasion.  Use the written English dialogue exactly. Clear turn-taking and accurate lip synchronisation for visible speakers. His final clarification is heard offscreen while the camera stays on her reaction.  Quiet café room tone, distant traffic, paper rustle, a soft plate scrape, the fork touching porcelain and her final palm contact. Keep dialogue clear and foregrounded.  FILM LOOK Late-1990s theatrical romantic dramedy captured on visibly textured 35mm film. Organic moving grain is clearly perceptible across midtones, skin and shadows at normal playback size. Warm halation surrounds the glowing lamps; bright reflections bloom gently. Rich film-print contrast, creamy highlight roll-off and natural optical sharpness with restrained edge enhancement. Preserve readable eyes, realistic skin and fabric detail beneath the film texture. Natural motion blur and 24 fps cinematic cadence.  CONTINUITY After packing, all six boxed pastries remain whole and in place. The separate tasting dessert retains its missing bite. The box stays open on the same section of counter. After the slide, the tasting plate and fork remain on his side. His banknote stays in his left hand. Maintain exact faces, hair, clothing, screen direction, café geometry and dusk throughout. Reference sheets guide appearance; the output is full-frame cinematic footage.
-```
-
-</details>
-
-<a id="seedance-airport-immigration-makeup-wipe"></a>
-### 机场入境卸妆喜剧十二镜头短片
-
-<a href="https://x.com/ElsaSofia__AI/status/2107290801017704458"><img src="previews/seedance-airport-immigration-makeup-wipe.jpg" width="360"></a>
-
-每一部分都重复角色设定,锁定脸部、服装和场景,12个镜头都标有精确时间戳和分镜编号。每个镜头写明景别与机位运动,结尾的特效清单和情绪曲线控制30秒实时节奏。
-
-Seedance 2.5 · 文生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2107290801017704458) · 740 赞，统计于 2026-10-27
-
-[`multi-shot`](pages/zh/tags.md#tag-multi-shot) [`comedy`](pages/zh/tags.md#tag-comedy) [`close-up`](pages/zh/tags.md#tag-close-up) [`timestamped`](pages/zh/tags.md#tag-timestamped) [`character-consistency`](pages/zh/tags.md#tag-character-consistency)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-VIDEO PROMPT — 30 seconds total, 16:9, live-action cinematic realism, soft natural airport light, shallow depth of field, clean commercial look. Comedic drama, played straight. Keep the same faces, outfits and location in every shot. NO slow motion anywhere, everything runs in REAL TIME.
-
-CHARACTERS (repeat in every part)
-HEROINE: young Korean woman in her 20s, long wavy black hair, porcelain skin. FULL GLAM makeup at first: gold shimmer eyeshadow, long dramatic false lashes, pink blush, glossy rose lips. Wears a sheer dark-brown mesh long-sleeve top over a black bandeau, with a thin gold-chain crossbody bag strap. In the walking shot she also wears a denim mini skirt, black ankle boots, and pulls a pink rolling suitcase.
-OFFICER: Korean woman in her 40s, dark hair pulled back tight, strict calm face, navy uniform jacket with a red-white-navy striped scarf.
-PASSPORT: dark-blue Korean passport. The photo page shows the heroine's BARE-FACED, tired, messy-haired ID photo, with Korean text and a small blue flag icon.
-LOCATION: Korean international airport immigration hall — shiny marble floor, rows of small round ceiling lights, beige columns, blue digital signs, travelers with suitcases walking in the background.
-
-===== PART 1 (0:00-0:13) =====
-
-SHOT 1 (00:00-00:02.2) — Counter Wide [Panel 1]
-Front-facing medium-wide, eye level. The heroine stands behind the immigration counter, one hand on her hip, then takes the blue passport from her bag and places it on the counter edge. Travelers walk in the blurred background. Camera static.
-
-SHOT 2 (00:02.2-00:04.6) — Passport POV [Panel 2]
-Over-the-counter POV close-up of the officer's hands picking up the passport, turning it, then opening it to the photo page with her thumb. The bare-faced ID photo is clearly readable. Camera static, shallow depth of field.
-
-SHOT 3 (00:04.6-00:06.6) — Suspicious Finger [Panel 3]
-Medium shot over the officer's shoulder (back of her head on the right). The officer points a finger at the heroine's face and moves it up and down as if comparing. The heroine looks uneasy with a small frown. Airport counters blurred behind.
-
-SHOT 4 (00:06.6-00:10.2) — Eyelash Peel [Panel 4]
-Extreme close-up of the heroine's glam face looking straight into the camera. Her fingers pinch the false lash and she slowly peels it off, holding it between her fingertips. Camera static.
-
-SHOT 5 (00:10.2-00:12.9) — Face-Off Two-Shot [Panel 5]
-Medium close-up: the heroine's face on the left, the officer's face in sharp profile on the right, very close, staring at her. The heroine looks back with a stiff blank expression, then purses her lips.
-
-===== PART 2 (0:13-0:22) =====
-
-SHOT 6 (00:13.0-00:14.0) — Wipe Out [Panel 6]
-Close-up, airport lights blurred into soft bokeh behind her. The heroine pouts, takes out a white wet makeup wipe, and unfolds it with both hands.
-
-SHOT 7 (00:14.0-00:19.0) — Makeup Removal [Panel 7]
-Same close-up. She presses the wipe over her eyes, then wipes her cheeks and lips with both hands, eyes closed. At the end she lowers the wipe to reveal a fresh, bare, natural face and looks calmly into the camera.
-
-SHOT 8 (00:19.0-00:20.6) — Officer Verdict [Panel 8]
-Medium close-up of the officer, blurred teal-grey wall behind her. She looks down at the passport, then up at the heroine, and breaks into a satisfied small smile.
-
-SHOT 9 (00:20.6-00:22.0) — The Stamp [Panel 9]
-Close-up of the open passport on the counter. The officer's hand brings down a black-and-red rubber stamp onto the photo page and lifts it, leaving a round red stamp mark. Camera static.
-
-===== PART 3 (0:22-0:30) =====
-
-SHOT 10 (00:22.0-00:25.2) — Passport Returned [Panel 10]
-Back to the opening wide shot. The heroine now has full glam makeup again. The officer's hand slides the passport across the counter. She picks it up and holds it with both hands at chest height, looking down at it, then glances toward the camera.
-
-SHOT 11 (00:25.2-00:27.0) — Walk Away
-Rear tracking shot: the heroine walks away through the terminal in denim mini skirt and black boots, pulling the pink suitcase. Travelers cross in the background, blue digital signs glow. Camera follows at eye level.
-
-SHOT 12 (00:27.0-00:30.4) — Final Pout [Panel 11-12]
-Close-up: she looks back over her shoulder, then turns to face the camera. She pouts, scrunches her face and squints in cute annoyance, then returns to a flat pout. Blurred airport behind. Hold, then end.
-
-MASTER EFFECTS INVENTORY
-1. Eyelash peel close-up (Shot 4).
-2. Makeup wipe transformation: glam to bare face (Shots 6-7).
-3. Over-the-shoulder suspicion framing (Shots 3, 5).
-4. Passport insert close-ups and stamp (Shots 2, 9).
-5. Shallow depth-of-field bokeh throughout.
-
-ENERGY ARC
-Part 1 (0-13s): tension, suspicion.
-Part 2 (13-22s): transformation, then relief.
-Part 3 (22-30s): she walks off, final grumpy pout.
-```
-
-</details>
-
-**[全部 86 条](pages/zh/video-cinematic.md)**
+**[全部 124 条](pages/zh/video-cinematic.md)**
 
 <a id="vid-action"></a>
 ## 动作、追逐与运动
@@ -521,7 +375,7 @@ Shot 4: 高角度大全景起，倾斜成荷兰角；镜头在两人跃起时螺
 
 </details>
 
-**[全部 130 条](pages/zh/video-action.md)**
+**[全部 171 条](pages/zh/video-action.md)**
 
 <a id="vid-scifi-fantasy"></a>
 ## 科幻与奇幻
@@ -701,7 +555,7 @@ Audio: gentle fantasy folk music (soft strings and flute), crackling fire and a 
 
 </details>
 
-**[全部 62 条](pages/zh/video-scifi-fantasy.md)**
+**[全部 82 条](pages/zh/video-scifi-fantasy.md)**
 
 <a id="vid-anime"></a>
 ## 动漫与动画
@@ -775,6 +629,37 @@ End with one delicate wind-chime tone during the final reveal.
 NEGATIVE
 
 No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, or text overlays. No unrelated ingredients or dishes. Katsudon only. Keep the food, hands, utensils, lighting, and environment visually consistent throughout.
+```
+
+</details>
+
+<a id="h3-rem-desktop-icons-maid-mishap"></a>
+### 蕾姆把掉落的桌面图标捡回原位
+
+<a href="https://x.com/Mayz1169/status/2100932191316557922"><img src="previews/h3-rem-desktop-icons-maid-mishap.jpg" width="360"></a>
+
+用参考图锁定为精确首帧，再配上逐秒分镜，让桌面布局和角色形象保持不变，同时图标随裙摆产生互动。明确只有左侧图标可以与角色和背景互动，并禁止镜头运动与切换，避免画面漂移。
+
+MiniMax H3 · 图生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2100932191316557922) · 1,806 赞，统计于 2026-10-29
+
+[`anime`](pages/zh/tags.md#tag-anime) [`desktop-animation`](pages/zh/tags.md#tag-desktop-animation) [`timed-beats`](pages/zh/tags.md#tag-timed-beats) [`sound-design`](pages/zh/tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the reference image as the exact first frame. 16:9, locked-off camera, one continuous take. Preserve Rem’s face, short blue hair, black-and-white maid outfit, and original anime art style consistently throughout. Keep the desktop layout and Japanese menu bar unchanged.
+
+0–2s: Rem stands on the right, happily swaying gently from side to side while lifting the edges of her skirt slightly with both hands. As she turns, the hem accidentally catches the blue-purple desktop background. The background reacts like a soft fabric curtain, sending a horizontal ripple across the screen. The two folders and one screenshot icon on the left wobble, slide downward, fall to the bottom edge of the screen, and make a small playful bounce on impact.
+
+2–3s: Rem immediately freezes. Her eyes widen and she quickly covers her mouth with both hands, staring in surprise at the fallen icons.
+
+3–6s: She hurriedly leans toward the left and reaches out with both hands. She scoops up all three icons together and quickly pushes them back toward their original positions on the left. The icons behave like thin, lightweight magnetic tiles, snapping back onto the desktop surface. Two of them end up slightly crooked. Rem has no time to straighten them and quickly pulls her hands back.
+
+6–8s: Rem returns to her original position on the right, folds her hands neatly in front of her, and tries to put on an innocent, nothing-happened smile. Her eyes secretly glance toward the two crooked icons on the left. The tips of her hair, hair ribbon, and skirt hem move gently in a light breeze. The desktop background settles completely, while the two icons remain slightly tilted for a subtle comedic ending.
+
+The background music begins with a light, cute Japanese-style piano melody. When the icons fall, add a short descending slide sound and light impact sounds, then shift into a playful pizzicato rhythm.
+
+Keep all movement fluid and expressions lively. Only the three desktop icons on the left may physically interact with Rem or the background. The top menu bar and bottom Dock must remain completely fixed. Preserve the original icon designs, filenames, and text exactly. No new characters. No camera movement, zoom, cuts, or transitions.
 ```
 
 </details>
@@ -929,49 +814,7 @@ No multiple panels allowed, No BGM"
 
 </details>
 
-<a id="h3-character-intro-boots-to-hero-reveal"></a>
-### 从靴子特写到全身英雄亮相的动漫角色介绍
-
-<a href="https://x.com/aimikoda/status/2086412223061135392"><img src="previews/h3-character-intro-boots-to-hero-reveal.jpg" width="360"></a>
-
-用角色参考图锁定形象，再按四个时间段依次推进：细节特写、背面或侧面中景、面部肖像、全身英雄镜头。只给一个克制的标志性动作，并要求运镜平滑，让揭示过程可控。
-
-MiniMax H3 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2086412223061135392) · 1,501 赞，统计于 2026-10-28 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`character-intro`](pages/zh/tags.md#tag-character-intro) [`reveal`](pages/zh/tags.md#tag-reveal) [`camera-progression`](pages/zh/tags.md#tag-camera-progression) [`anime`](pages/zh/tags.md#tag-anime) [`reference-lock`](pages/zh/tags.md#tag-reference-lock)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use @[char ref] as the sole character reference. Preserve the exact identity, face, body proportions, hairstyle, outfit, colors, materials and overall silhouette of the character throughout the entire video. Do not redesign, simplify or replace any defining visual features.
-
-Create a cinematic character introduction focused on presence, silhouette, attitude and controlled motion.
-
-0–4s
-Begin with a close shot of a defining lower-body or detail element such as boots, shoes, feet, hands, clothing hem or an important accessory. The character enters frame or settles into position. The camera slowly tracks upward while hair, clothing and secondary elements move naturally in the wind or environment.
-
-4–8s
-Reveal more of the body with a medium or medium-wide shot from the back, side or three-quarter angle. The character stands in a calm, composed way inside the environment. The camera makes a smooth orbit, arc or lateral move to gradually reveal the character’s face and silhouette.
-
-8–12s
-Move into a tight cinematic portrait or upper-body shot. The character performs one subtle signature action that fits their personality, such as lifting the chin, turning the head, adjusting clothing, brushing hair aside, opening a hand, looking toward camera, or shifting posture. Keep the motion minimal and intentional. The expression should match the character’s vibe.
-
-12–15s
-End with a strong full-body hero shot that clearly presents the entire design and silhouette. Use a low-angle, eye-level or slightly dramatic framing depending on the character’s personality. The character settles into a natural final pose and holds it confidently for a clean final reveal.
-
-VISUAL DIRECTION
-Premium cinematic presentation. Match the visual medium and rendering style of @[char ref]. Emphasize clean silhouette, elegant staging, subtle secondary motion, believable hair and cloth movement, strong composition, atmospheric depth and polished lighting. The scene should feel like a high-end anime, game or film character introduction.
-
-CAMERA
-Use a clear progression from detail reveal to partial reveal to face reveal to full-body hero reveal. Camera movement should be smooth, controlled and intentional. Avoid chaotic motion.
-
-ENVIRONMENT
-Place the character in a fitting environment that supports their identity and mood. The background should enhance the character without distracting from them.
-```
-
-</details>
-
-**[全部 56 条](pages/zh/video-anime.md)**
+**[全部 76 条](pages/zh/video-anime.md)**
 
 <a id="vid-commercial"></a>
 ## 广告与产品
@@ -1197,7 +1040,7 @@ Cartoonish feel, CG feel, plastic skin, excessive smoothing, over-beautification
 
 </details>
 
-**[全部 87 条](pages/zh/video-commercial.md)**
+**[全部 123 条](pages/zh/video-commercial.md)**
 
 <a id="vid-dialogue"></a>
 ## 对白与口播
@@ -1398,67 +1241,53 @@ STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, ch
 
 </details>
 
-<a id="h3-office-michael-whiteboard-mockumentary"></a>
-### 迈克尔·斯科特站在白板前讲话
+<a id="h3-barista-latte-art-storyboard"></a>
+### 动漫咖啡师按分镜制作拉花拿铁
 
-<a href="https://x.com/Arminn_Ai/status/2084387316286595436"><img src="previews/h3-office-michael-whiteboard-mockumentary.jpg" width="360"></a>
+<a href="https://x.com/aimikoda/status/2090556776156742071"><img src="previews/h3-barista-latte-art-storyboard.jpg" width="360"></a>
 
-提示词先用纪录片式手持镜头和快速推拉定下画面感，再把场景分成带时间节拍的段落，每段配一句台词，让剪辑节奏清楚。结尾的STYLE段说明有纪录片剧组在场，角色偶尔看向镜头。
+提示词要求模型把分镜当作连续镜头指引，逐格执行，且不写任何场景描述。角色图锁定外观，日语旁白按行列出，使台词与每个分镜节拍对应。
 
-MiniMax H3 · 文生视频 · 出处: [@Arminn_Ai on X](https://x.com/Arminn_Ai/status/2084387316286595436) · 447 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+MiniMax H3 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2090556776156742071) · 643 赞，统计于 2026-10-29
 
-[`mockumentary`](pages/zh/tags.md#tag-mockumentary) [`sitcom`](pages/zh/tags.md#tag-sitcom) [`dialogue`](pages/zh/tags.md#tag-dialogue) [`handheld-camera`](pages/zh/tags.md#tag-handheld-camera)
+[`storyboard`](pages/zh/tags.md#tag-storyboard) [`latte-art`](pages/zh/tags.md#tag-latte-art) [`slice-of-life`](pages/zh/tags.md#tag-slice-of-life) [`character-reference`](pages/zh/tags.md#tag-character-reference)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-The Office (US) mockumentary style. Dunder Mifflin conference room,
-mid-afternoon, harsh fluorescent lighting, cheap office chairs,
-whiteboard at the front. Handheld documentary camera, slightly
-unsteady, with sudden reframes and quick zooms toward whoever is
-reacting.
-
-Michael Scott stands at the whiteboard, overly excited, marker in
-hand, badly drawn diagram behind him. The staff sit around the table
-looking exhausted. Stanley Hudson sits at the far end, glasses on,
-head down over a folded crossword puzzle, completely disengaged.
-
-DIALOGUE:
-
-MICHAEL (loud, proud): "Okay everybody, listen up. Large language
-models. L-L-Ms. This is the future of the paper industry."
-
-Beat. Nobody reacts. Camera pushes in slowly on Stanley — he does not
-look up, does not blink, keeps filling in his crossword.
-
-MICHAEL: "Which is why corporate is giving a bonus to whoever—"
-
-Instant snap zoom to Stanley. His head lifts. He takes off his
-glasses. Dead serious.
-
-STANLEY: "I'm listening."
-
-MICHAEL (waving him off): "—anyway. Moving on. Next topic. Prompt
-engineering."
-
-Snap zoom back to Stanley. He immediately puts his glasses back on,
-lowers his head, and returns to the crossword as if nothing happened.
-
-Cut to Jim, who slowly turns his head and looks directly into the
-camera lens with a flat, knowing expression. Hold for two seconds.
-
-STYLE: single-camera sitcom shot like a documentary crew is present,
-natural performances, no laugh track, muted office color palette,
-slightly soft consumer-camera look, characters occasionally glancing
-at the lens.
+Create a 16:9, 9-panel storyboard for a quiet slice-of-life anime video about making latte and latte art. The uploaded character should appear throughout the storyboard. Use a basic Japanese animation storyboard sketch style with loose pencil lines, simple shading and cinematic anime compositions. The overall tone should feel intimate, understated and slightly melancholic, with late-evening café lighting, mundane moments made beautiful, subtle expressions, negative space, off-center framing and close-ups of hands, eyes, steam and small gestures. Avoid flashy commercial shots or exaggerated anime reactions. The character should softly talk to themselves while making the latte, with restrained natural body language. The latte design should gradually form but remain unreadable until the very end.
+Narration:
+まずはエスプレッソを淹れます。
+ミルクをなめらかにスチームして、ゆっくり注ぎます。
+カップに近づけて、模様を描いていきます。
+最後にひと仕上げ。ラテアートの完成です。
 ```
 
 </details>
 
-**[全部 43 条](pages/zh/video-dialogue.md)**
+**[全部 55 条](pages/zh/video-dialogue.md)**
 
 <a id="vid-music-dance"></a>
 ## 音乐与舞蹈
+
+<a id="h3-pink-panic-punk-mv"></a>
+### 红格靴动漫少女滑入朋克MV画面
+
+<a href="https://x.com/Mayz1169/status/2092937375802609835"><img src="previews/h3-pink-panic-punk-mv.jpg" width="360"></a>
+
+先用参考图锁定角色身份，再逐项写明发色、眼色、发夹、红格靴等细节，确保整段角色不变形。每个时间段都对齐节拍，转场由靴子滑行、跺脚等动作触发，镜头连贯，没有无故切换。
+
+MiniMax H3 · 参考生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2092937375802609835) · 1,010 赞，统计于 2026-10-29
+
+[`anime`](pages/zh/tags.md#tag-anime) [`pop-punk`](pages/zh/tags.md#tag-pop-punk) [`character-lock`](pages/zh/tags.md#tag-character-lock) [`music-video`](pages/zh/tags.md#tag-music-video)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second horizontal 16:9 high-energy 2D anime pop-punk music video featuring the exact heroine from the provided character reference. The entire sequence should feel like one continuous, tightly choreographed MV passage, with each movement naturally motivating the next transition.  CHARACTER LOCK: Use the reference image as the absolute authority for identity, proportions, outfit, colors and illustration style. Preserve her short messy bubblegum-pink hair with sharp outward tufts, high side ponytail, pale cyan and mint lightning-shaped hair accents, large red cross hair clip with lavender backing, huge yellow eyes with thick dark outlines, small expressive mouth and warm blush.  Keep her black cropped school-style jacket with oversized white cuffs, white shirt, loose bright-red necktie, red plaid mini skirt with white triangular hem accents, black belt, bare legs and enormous red plaid boots with dark straps and heavy rounded soles.  Maintain her original stylized proportions: oversized head, compact torso, long simplified legs, huge boots, chunky hands, bold black outlines, flat saturated colors and minimal cel shading. Her personality is loud, cheeky, rebellious, playful and hyperactive.  0–2.5s — Start immediately with motion. She slides rapidly into frame from the left, one boot skidding across a clean white graphic floor. Her body leans forward from momentum while her ponytail, necktie and oversized cuffs trail behind. She stomps the second boot down, looks up and flashes a mischievous grin. The impact instantly transforms the white background into huge red-and-black plaid blocks as bold “PINK PANIC!” typography slams into the composition.  2.5–5.0s — Without stopping, she rebounds from the landing into a small hop and sharp half-turn. Camera swings around her from front three-quarter view into a fast side-tracking shot as she runs two exaggerated cartoon steps. Her giant boots hit the floor on alternating beats, leaving hand-drawn stars, crosses, tape strips, scribbles and comic impact marks behind each step. Her pink hair and red tie bounce wildly with the movement.  5.0–7.5s — She kicks one leg sideways on the beat and uses the momentum to spin. The red plaid pattern from her boot stretches outward into a giant rotating graphic plane, seamlessly pulling the entire frame into an abstract 2D punk world made from black brush strokes, red plaid, white paper shapes, pink lightning bolts and rough photocopy textures.  She continues directly into a bouncy dance phrase: head whip → shoulder hit → side step → small kick → fast turn. Keep every pose exaggerated and cartoonishly expressive.  7.5–10.0s — Her turn accelerates and the camera follows closely around her. The environment constantly recomposes around the choreography: checker patterns slide sideways, hand-drawn crosses rotate, torn-paper strips snap open and oversized comic typography appears briefly on drum hits.  She lands hard with both boots apart. A huge hand-drawn “BAM!” bursts underneath her feet and physically shakes the surrounding graphic elements. She immediately rebounds upward with a cocky smile rather than holding a static pose.  10.0–12.3s — Follow her continuing movement into a connected sequence of character details. As she whips her head sideways, track past her bright yellow eye → red cross hair clip → swinging pink hair → bouncing red tie → plaid skirt → massive plaid boot.  Do not present these as disconnected beauty shots. Each close-up should be motivated by the same continuous body movement and fast camera travel.  The boot hits the floor at the end of the sequence, sending a red plaid shockwave across the frame.  12.3–15.0s — Ride the plaid shockwave back into a full-body view. She takes two confident bouncing steps forward, abruptly pivots and finishes facing camera with her weight shifted onto one leg, shoulders slightly forward and a cheeky rebellious grin.  Her ponytail and necktie continue swinging from the turn while the background erupts into layered red plaid, black brush X marks, white stars, pink lightning and rough hand-drawn graphics. The elements rapidly organize themselves into a bold 2000s punk magazine-cover composition.  Large “PINK PANIC!” typography appears behind her silhouette on the final beat. End on her strong recognizable character shape without changing her design.  VISUAL STYLE: Strictly match the reference artwork: early-2000s-inspired 2D cartoon/anime aesthetic, thick clean dark outlines, flat saturated colors, minimal cel shading, simplified anatomy, exaggerated proportions and bold graphic expressions. Keep the intentionally handmade TV-animation feeling rather than modern polished anime rendering.  Use red plaid as the main graphic motif, combined with black-and-white manga shapes, pink lightning, crosses, stars, scribbles, torn paper, photocopy grain, tape graphics and rough ink marks.  MOTION: Fast, bouncy and highly rhythmic. Use strong key poses, limited-animation timing, overshoot, smear frames, exaggerated anticipation and cartoon impact frames. Her giant boots should create the strongest beat accents. Hair, ponytail, tie, skirt and cuffs should react continuously to her movement.  Transitions must grow naturally from character actions: boot skid → plaid expansion → kick → rotating graphic plane → spin → camera orbit → stomp → shockwave. Avoid random transitions or disconnected pose montages.  AUDIO: Synchronize tightly to fast Japanese pop-punk vocals mixed with punchy electronic drums and distorted guitar. Add boot skids, stomps, paper snaps, cartoon impacts, guitar hits and short graphic whooshes.  IMPORTANT: Keep the exact face, yellow eyes, pink hairstyle, cyan/mint hair accents, red cross clip, black-and-white school-punk top, red tie, plaid skirt and oversized plaid boots throughout.  No hand reaching toward camera, no palm covering the lens, no pointing into the lens, no outfit transformation, no hairstyle transformation, no extra characters, no realistic environments, no photorealism, no 3D CGI, no modern glossy anime redesign, no cyberpunk holograms, no slow fashion posing, no facial drift, no random accessories, no excessive jump cuts, no disconnected movements, no uncontrolled morphing, no unreadable typography.
+```
+
+</details>
 
 <a id="seedance-kpop-two-idol-mv"></a>
 ### 双人 K-pop MV，逐镜头
@@ -1537,36 +1366,7 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 </details>
 
-<a id="h3-anime-fashion-dance-yellow-cyclorama-afterimages"></a>
-### 动漫舞蹈短片,粉青残影划过柠檬黄背景
-
-<a href="https://x.com/aimikoda/status/2097001707683119410"><img src="previews/h3-anime-fashion-dance-yellow-cyclorama-afterimages.jpg" width="360"></a>
-
-纯平柠檬黄背景让青色和粉色残影一目了然。镜头与舞步对位编排:脚踝高度滑行、甩向特写、俯视切换,每个定格处急停。写明 170 BPM 并禁止慢动作,让剪辑保持利落。
-
-MiniMax H3 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2097001707683119410) · 271 赞，统计于 2026-10-28 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`anime`](pages/zh/tags.md#tag-anime) [`dance`](pages/zh/tags.md#tag-dance) [`fashion-film`](pages/zh/tags.md#tag-fashion-film) [`motion-graphics`](pages/zh/tags.md#tag-motion-graphics) [`music-video`](pages/zh/tags.md#tag-music-video)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-15-second experimental anime fashion film. Use @[character reference] for the character’s exact identity, outfit and rendering style. A pristine, uniform lemon-yellow cyclorama with a seamless matte floor. Flat, clean yellow throughout, free of grain, gradients and set dressing. 16:9. No text or logos.
-
-The character performs one fast, unconventional dance phrase: ankles weave while the torso stays suspended, a wrist flick ripples through both elbows into a chest pop, knees fold into a low corkscrew pivot, then a heel swivel unwinds the body into an off-balance editorial pose. Continue through asymmetric shoulder rolls, angular arm threading around the face and a sideways glide with the head counter-rotating toward the lens. Every sharp lock immediately releases into another surprising movement. Convincing weight, precise foot contact and expressive follow-through.
-
-Electric cyan and hot pink dominate the motion effects. Bold, opaque silhouette afterimages peel away from opposite sides of the body, replay the previous gesture a fraction late and slam back into alignment on each pose. Arm sweeps stretch them into broad curved ribbons; crossing steps weave pink and cyan trails around the ankles; rapid turns fan out overlapping screen-print impressions. At the strongest accents, oversized cyan and pink cutouts of the current pose slide across the foreground, briefly masking the lens. Keep the real character crisp and recognizable, with clean yellow visible between effect bursts.
-
-The camera dances in counterpoint: skim backward at ankle height through advancing footwork, whip upward around an outstretched wrist into an extreme face close-up, then use the passing forearm to cut into a rotating overhead view of the low pivot. Dive to a tilted low-angle full-body composition as the character rises. Orbit opposite the sideways glide, exaggerating hands and feet near the wide lens. Accelerate between compositions and brake hard on pose locks.
-
-Finish with a sudden forward lean toward the lens while enormous pink and cyan echoes continue leaning farther, sweeping past both sides of the camera. Snap wide: the character lands a final asymmetric pose as the colored echoes collapse precisely into the silhouette. Hard cut to black.
-
-170 BPM broken beat, syncopated accents, fluid animation and razor-fast camera transitions. No slow motion or prolonged holds.
-```
-
-</details>
-
-**[全部 37 条](pages/zh/video-music-dance.md)**
+**[全部 45 条](pages/zh/video-music-dance.md)**
 
 <a id="vid-vlog"></a>
 ## 手机实拍与 Vlog
@@ -1834,10 +1634,41 @@ Raw amateur vertical phone footage, natural night lighting, warm street lamps mi
 
 </details>
 
-**[全部 126 条](pages/zh/video-vlog.md)**
+**[全部 143 条](pages/zh/video-vlog.md)**
 
 <a id="vid-nature"></a>
 ## 自然、旅行与航拍
+
+<a id="seedance-woman-panda-ancient-forest"></a>
+### 女子在雾气弥漫的古老森林中抚摸大熊猫
+
+<a href="https://x.com/SyntheSarah/status/2088501362774393100"><img src="previews/seedance-woman-panda-ancient-forest.jpg" width="360"></a>
+
+按时间段（0到4秒、4到8秒、8到12秒、12到15秒）依次排列镜头，结尾的写实词组（自然日光、手持、纪实风格、无CGI质感）统一画面与色调。开头点明年代并禁止现代元素，保证古风设定前后一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@SyntheSarah on X](https://x.com/SyntheSarah/status/2088501362774393100) · 259 赞，统计于 2026-10-29
+
+[`photorealism`](pages/zh/tags.md#tag-photorealism) [`timed-shots`](pages/zh/tags.md#tag-timed-shots) [`animal-interaction`](pages/zh/tags.md#tag-animal-interaction) [`forest`](pages/zh/tags.md#tag-forest)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+15-second ultra-photorealistic cinematic video set in a completely untouched ancient forest inspired by the year 1200 AD or earlier. A beautiful young woman is the main character, wearing a simple historically inspired medieval linen dress in earthy natural tones, with long slightly messy hair and no modern accessories or makeup. She is peacefully playing with a large realistic giant panda deep inside the ancient forest.
+
+The forest feels completely natural and untouched: enormous centuries-old trees, thick moss, wild ferns, hanging vines, small streams, soft mist, fallen leaves, natural rocks and subtle morning sunlight filtering through the dense canopy. No buildings, roads, modern objects or artificial elements.
+
+0–4 sec: Wide cinematic shot as the woman walks slowly through the misty forest and notices the panda sitting near an old moss-covered tree. The panda looks at her naturally and curiously.
+
+4–8 sec: Medium handheld shot as she gently approaches and sits beside the panda. She smiles naturally and carefully strokes its thick fur. The panda responds playfully, moving closer to her.
+
+8–12 sec: Close-up of the woman's genuine expression and the panda's highly detailed face and fur. Natural breathing, blinking, subtle facial movements, realistic hair movement from the forest breeze.
+
+12–15 sec: Cinematic wide shot as the woman and panda playfully walk deeper into the ancient forest together while sunlight breaks through the trees and mist floats around them.
+
+Extremely realistic human anatomy, realistic skin texture, individual hair strands, physically accurate panda fur, natural animal behavior, realistic cloth physics, subtle environmental movement, authentic atmospheric perspective, natural daylight, soft volumetric light, realistic shadows, cinematic depth of field, slight handheld camera movement, documentary-style realism, shot on a high-end cinema camera, 4K detail, natural color grading, no fantasy look, no CGI appearance, no artificial beauty filter, no modern elements, no text, no watermark.
+```
+
+</details>
 
 <a id="h3-marina-boat-dolphin-encounter-travel-documentary"></a>
 ### 游客登船出海偶遇海豚
@@ -1858,113 +1689,68 @@ A young Western female traveler in her mid-20s walks naturally along a wooden ma
 
 </details>
 
-<a id="h3-glass-mushrooms-rising-notes"></a>
-### 七朵玻璃蘑菇依次奏出渐高音符
+<a id="h3-lotus-pond-upward-pan-tree-canopy"></a>
+### 仰视荷花池与树冠，镜头缓缓右移
 
-<a href="https://x.com/GlennHasABeard/status/2102026855180046499"><img src="previews/h3-glass-mushrooms-rising-notes.jpg" width="360"></a>
+<a href="https://x.com/GeekCatX/status/2096937966434459885"><img src="previews/h3-lotus-pond-upward-pan-tree-canopy.jpg" width="360"></a>
 
-提示词设定了每秒半一朵的固定节拍，并把每一拍同时对应到一个音高台阶和一滴水，使声音、动作与细节共用同一套计数。锁定的微距镜头让七朵蘑菇在整个序列中始终留在画面内。
+参考图锁定仰视构图与配色，提示词先写约六秒的近乎静止，再接缓慢匀速的右移镜头。植物摆动与镜头运动分开描述，让叶片和花朵持续微动，同时视角平稳移动。
 
-MiniMax H3 · 文生视频 · 出处: [@GlennHasABeard on X](https://x.com/GlennHasABeard/status/2102026855180046499) · 32 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+MiniMax H3 · 图生视频 · 出处: [@GeekCatX on X](https://x.com/GeekCatX/status/2096937966434459885) · 87 赞，统计于 2026-10-29
 
-[`macro`](pages/zh/tags.md#tag-macro) [`sound-sync`](pages/zh/tags.md#tag-sound-sync) [`glass`](pages/zh/tags.md#tag-glass) [`locked-camera`](pages/zh/tags.md#tag-locked-camera)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-one mushroom every one and a half seconds, each a slightly higher note, each shedding one drop
-```
-
-</details>
-
-<a id="h3-white-calla-lily-morph-trails"></a>
-### 白色马蹄莲展开丝绸般的光轨
-
-<a href="https://x.com/Shinebynous/status/2085505725149622337"><img src="previews/h3-white-calla-lily-morph-trails.jpg" width="360"></a>
-
-七张花卉参考图配合逐段时间表，每个时间段指定一次形态变换和对应的光轨颜色。镜头固定为纯黑背景下的前推微距，并明确禁止切换和叠化，使变形保持连续。
-
-MiniMax H3 · 参考生视频 · 出处: [@Shinebynous on X](https://x.com/Shinebynous/status/2085505725149622337) · 28 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`macro`](pages/zh/tags.md#tag-macro) [`flowers`](pages/zh/tags.md#tag-flowers) [`reference-images`](pages/zh/tags.md#tag-reference-images) [`long-exposure`](pages/zh/tags.md#tag-long-exposure)
+[`lotus`](pages/zh/tags.md#tag-lotus) [`botanical`](pages/zh/tags.md#tag-botanical) [`camera-pan`](pages/zh/tags.md#tag-camera-pan) [`sunlight`](pages/zh/tags.md#tag-sunlight)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Create a breathtaking 15-second cinematic flower-morph sequence using the seven uploaded flower images as consecutive visual references:
+参考图片：
+Vertical 40:71 composition, approximately 9:16, filling the frame. An extremely low, wide-angle view from among slender green lotus stems, looking upward beneath the leaves toward a branching tree canopy and clear cyan-blue sky. Large round lotus leaves have gently rippled edges, sharply visible radial veins and translucent yellow-green undersides. The closest leaf is cropped across the upper-left corner; prominent leaves occupy the middle-left and middle-right. An open pink lotus is seen from below at mid-left, with two prominent open pink blossoms at lower-right and smaller flowers among layered leaves below. The petals grade from pale pink to rose, with warm yellow-orange tones underneath. A thick, dark, rough-barked tree trunk rises from the lower-right toward the center, dividing into twisting branches and fine green foliage overhead. Bright overhead daylight backlights the leaves, with a small white sun highlight near the foliage. Deep green shadows, vivid lime and emerald foliage, pink flowers and saturated blue sky. Photographic botanical detail, with readable textures in both foreground leaves and distant branches. No lettering, overlays or borders.
 
-Image 1: white calla lily
-Image 2: coral hibiscus
-Image 3: burgundy dahlia
-Image 4: orange and cobalt-blue bird of paradise
-Image 5: neon-yellow orchid
-Image 6: deep-purple iris
-Image 7: electric-blue Himalayan poppy
+图生视频提示
 
-MOTION:
-One continuous cinematic macro shot. The camera performs a slow, controlled push toward the center of the flower while every transformation happens clearly in full view. The flower remains centered against a deep, pure black background. Petals rotate, flutter, stretch, divide, multiply, fold, and physically reorganize into each new botanical form. Translucent long-exposure trails follow the movement like illuminated silk ribbons. The single stem remains visually anchored throughout the sequence.
+Use the reference image as the initial visual state.
 
-ACTION AND TIMING:
+Preserve the low upward viewpoint, lotus leaf and flower shapes, slender stems, rough tree bark, detailed foliage, vivid green-pink-blue palette and bright daylight backlighting.
 
-0–2 seconds:
-A white calla lily rotates gracefully. Its sculptural trumpet petal unfurls, creating sweeping trails of pearl white, silver, and champagne.
+For roughly the first six seconds, hold the composition almost still with only minimal smooth drift.
 
-2–4 seconds:
-The calla lily’s curved petal organically divides into five broad petals, becoming a coral hibiscus. The golden spadix elongates into the hibiscus stamen while coral, peach, and white trails spiral outward.
+Then gradually pan the view to the right at a slow, even pace, so the main trunk and background branches slide toward the left edge and more lotus flowers and leaves enter from the right. Keep looking upward throughout.
 
-4–6 seconds:
-The hibiscus petals rapidly multiply from the center and fold into hundreds of geometric burgundy and raspberry petals. The flower becomes a richly layered dahlia, forming a hypnotic rotating vortex.
+The large leaves gently tilt back and forth, their rims fluttering subtly as the long stems flex. The already-open flowers sway lightly on their stems, remaining open.
 
-6–8 seconds:
-The dahlia petals sharpen, extend, and reorganize into the architectural form of a bird of paradise. Burgundy and magenta ignite into fiery orange while cobalt-blue and turquoise structures burst outward like exotic wings.
+Moving leaves intermittently reveal and conceal a small white sun highlight, producing brief soft glints.
 
-8–10 seconds:
-The bird of paradise curls inward. Its orange structures soften and divide into the broad neon-yellow petals of an orchid. The cobalt-blue structures transform into the intricate orchid center, accented with crimson and gold. Yellow, chartreuse, and luminous-white trails pulse outward.
-
-10–12 seconds:
-The orchid petals stretch and twist, transitioning from neon yellow through electric violet into deep royal purple. Golden markings expand into the textured beard of a majestic iris. The iris opens dramatically as violet, lavender, and golden trails circle around it.
-
-12–15 seconds:
-At the visual climax, the deep-purple iris spins faster. Its sculptural petals soften into delicate translucent fabric while the violet color shifts through indigo into intense electric blue. The iris beard separates into hundreds of tiny golden particles that spiral around the flower’s center.
-
-The flowing petals broaden and physically transform into the delicate, paper-thin petals of an electric-blue Himalayan poppy. Its intricate golden-yellow stamens and pale-green pistil assemble from the swirling particles and snap into razor-sharp focus.
-
-The poppy opens fully as a final wave of cobalt-blue, turquoise, icy-white, and silvery long-exposure trails expands outward like luminous wings. The trails gently return into the petals, leaving the electric-blue Himalayan poppy completely still, perfectly formed, and razor-sharp in the final frame.
-
-RHYTHM:
-Begin elegant and controlled, then progressively increase the speed, scale, and complexity of each transformation. Build through strong color contrasts and reach maximum energy during the purple-iris-to-electric-blue-poppy transformation. End with a brief moment of complete stillness so the final flower can be clearly admired.
-
-STYLE:
-Photo-realistic premium macro cinematography, extreme botanical detail, physically believable organic morphing, dramatic side-lighting, deep cinematic contrast, translucent petals, luminous long-exposure trails, controlled volumetric particles, elegant motion blur, luxurious fine-art photography, pure black background, clean centered composition, rich natural colors, high-end commercial quality, 4K.
-
-IMPORTANT:
-Create genuine continuous anatomical flower transformations. No cuts, crossfades, dissolves, overlays, double exposure, image blending, or separate flower shots. Every flower must physically grow from the petals, center, and botanical structures of the previous flower. Preserve one continuous stem, stable central positioning, consistent scale, coherent lighting, and uninterrupted forward camera movement. Every flower must remain clearly recognizable before transforming. No additional flowers, bouquet, vase, hands, insects, text, borders, or background objects.
+By the end, the original trunk is near the left edge, pink flowers and overlapping leaves fill the lower and right areas, and blue sky remains framed by branches overhead. The rightward view change and gentle plant movement are still continuing at cutoff.
 ```
 
 </details>
 
-<a id="omni-lights-sync-to-music"></a>
-### 公寓的灯跟着音乐节拍一盏盏亮起
+<a id="h3-greenhouse-flower-opens-outside-in"></a>
+### 温室中一朵花在灯下逐圈绽放
 
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__building-light.webm"><img src="previews/omni-lights-sync-to-music.jpg" width="360"></a>
+<a href="https://x.com/GlennHasABeard/status/2101008623555997920"><img src="previews/h3-greenhouse-flower-opens-outside-in.jpg" width="360"></a>
 
-一句话同时点名画面事件和音轨，就能让两者对拍，不用写时间点。
+只让一个主体运动，并给出明确顺序（由外向内、一次一圈），模型就只有一处可读的变化。机位锁定在花盆高度，其余温室保持静止。
 
-Gemini Omni Flash · 视频编辑 · 出处: [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
+MiniMax H3 · 文生视频 · 出处: [@GlennHasABeard on X](https://x.com/GlennHasABeard/status/2101008623555997920) · 42 赞，统计于 2026-10-29
 
-[`audio-sync`](pages/zh/tags.md#tag-audio-sync) [`music`](pages/zh/tags.md#tag-music)
+[`flower-bloom`](pages/zh/tags.md#tag-flower-bloom) [`locked-camera`](pages/zh/tags.md#tag-locked-camera) [`greenhouse`](pages/zh/tags.md#tag-greenhouse) [`rain`](pages/zh/tags.md#tag-rain)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-The lights of the apartments start turning on in sync with the music.
+Minimax H3, open weights, generated locally. One lamp, one flower, rain on the glass.
+
+Prompt: "the petals open one ring at a time from the outside in"
+
+Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Topaz to 4K.
+
+"No other plant moves" is the sentence that kept the greenhouse asleep. One thing opening is a story. Everything opening is a screensaver.
 ```
 
 </details>
 
-输入素材: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/FfbFqJ8qhY_ZWZyz/gemini-omni__prompt-guide__building-no-light.webm)
-
-**[全部 8 条](pages/zh/video-nature.md)**
+**[全部 11 条](pages/zh/video-nature.md)**
 
 <a id="vid-animal"></a>
 ## 动物与萌宠
@@ -2099,7 +1885,7 @@ NOTE: If some scenes didn't work (action was different than original video) simp
 
 </details>
 
-**[全部 21 条](pages/zh/video-animal.md)**
+**[全部 26 条](pages/zh/video-animal.md)**
 
 <a id="vid-vfx"></a>
 ## 特效与变身转场
@@ -2210,7 +1996,7 @@ Prompt for this video: Add the word “SMILE” in bold white sans-serif typogra
 
 </details>
 
-**[全部 69 条](pages/zh/video-vfx.md)**
+**[全部 82 条](pages/zh/video-vfx.md)**
 
 <a id="image"></a>
 ## 图片提示词
@@ -5189,9 +4975,9 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 <a id="tags"></a>
 ## 按标签浏览
 
-[`portrait`](pages/zh/tags.md#tag-portrait) 144 · [`template`](pages/zh/tags.md#tag-template) 119 · [`fashion`](pages/zh/tags.md#tag-fashion) 113 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 99 · [`typography`](pages/zh/tags.md#tag-typography) 98 · [`anime`](pages/zh/tags.md#tag-anime) 91 · [`multi-shot`](pages/zh/tags.md#tag-multi-shot) 91 · [`editorial`](pages/zh/tags.md#tag-editorial) 85 · [`handheld`](pages/zh/tags.md#tag-handheld) 76 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 74 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 71 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 69 · [`infographic`](pages/zh/tags.md#tag-infographic) 61 · [`macro`](pages/zh/tags.md#tag-macro) 57 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 55 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 54 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 54 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 52 · [`action`](pages/zh/tags.md#tag-action) 48 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 48 · [`selfie`](pages/zh/tags.md#tag-selfie) 47 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 46 · [`miniature`](pages/zh/tags.md#tag-miniature) 46 · [`food`](pages/zh/tags.md#tag-food) 42 · [`collage`](pages/zh/tags.md#tag-collage) 41 · [`comedy`](pages/zh/tags.md#tag-comedy) 39 · [`vlog`](pages/zh/tags.md#tag-vlog) 38 · [`poster`](pages/zh/tags.md#tag-poster) 38 · [`watercolor`](pages/zh/tags.md#tag-watercolor) 36 · [`studio-lighting`](pages/zh/tags.md#tag-studio-lighting) 36 · [`diorama`](pages/zh/tags.md#tag-diorama) 36 · [`vertical`](pages/zh/tags.md#tag-vertical) 35 · [`identity-lock`](pages/zh/tags.md#tag-identity-lock) 33 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 32 · [`chibi`](pages/zh/tags.md#tag-chibi) 32 · [`pastel`](pages/zh/tags.md#tag-pastel) 32 · [`lifestyle`](pages/zh/tags.md#tag-lifestyle) 30 · [`grid`](pages/zh/tags.md#tag-grid) 30 · [`surreal`](pages/zh/tags.md#tag-surreal) 29 · [`travel`](pages/zh/tags.md#tag-travel) 29 · [`film-grain`](pages/zh/tags.md#tag-film-grain) 29 · [`character-sheet`](pages/zh/tags.md#tag-character-sheet) 29 · [`sound-design`](pages/zh/tags.md#tag-sound-design) 28 · [`timed-shots`](pages/zh/tags.md#tag-timed-shots) 27 · [`timed-beats`](pages/zh/tags.md#tag-timed-beats) 27 · [`martial-arts`](pages/zh/tags.md#tag-martial-arts) 27 · [`monochrome`](pages/zh/tags.md#tag-monochrome) 26 · [`product-ad`](pages/zh/tags.md#tag-product-ad) 25 · [`sci-fi`](pages/zh/tags.md#tag-sci-fi) 24 · [`tracking-shot`](pages/zh/tags.md#tag-tracking-shot) 24 · [`reference-photo`](pages/zh/tags.md#tag-reference-photo) 24 · [`3d-animation`](pages/zh/tags.md#tag-3d-animation) 23 · [`low-angle`](pages/zh/tags.md#tag-low-angle) 23 · [`architecture`](pages/zh/tags.md#tag-architecture) 23 · [`scrapbook`](pages/zh/tags.md#tag-scrapbook) 23 · [`3d-render`](pages/zh/tags.md#tag-3d-render) 23 · [`character-reference`](pages/zh/tags.md#tag-character-reference) 22 · [`fashion-editorial`](pages/zh/tags.md#tag-fashion-editorial) 22 · [`doodle`](pages/zh/tags.md#tag-doodle) 22 · [`split-layout`](pages/zh/tags.md#tag-split-layout) 22 · [`candid`](pages/zh/tags.md#tag-candid) 22 · [`dark-fantasy`](pages/zh/tags.md#tag-dark-fantasy) 21 · [`long-take`](pages/zh/tags.md#tag-long-take) 21 · [`landscape`](pages/zh/tags.md#tag-landscape) 21 · [`pixel-art`](pages/zh/tags.md#tag-pixel-art) 21 · [`face-reference`](pages/zh/tags.md#tag-face-reference) 21 · [`isometric`](pages/zh/tags.md#tag-isometric) 21 · [`commercial`](pages/zh/tags.md#tag-commercial) 20 · [`slow-motion`](pages/zh/tags.md#tag-slow-motion) 20 · [`night`](pages/zh/tags.md#tag-night) 20 · [`pov`](pages/zh/tags.md#tag-pov) 20 · [`streetwear`](pages/zh/tags.md#tag-streetwear) 20 · [`lip-sync`](pages/zh/tags.md#tag-lip-sync) 19 · [`rain`](pages/zh/tags.md#tag-rain) 19 · [`minimalist`](pages/zh/tags.md#tag-minimalist) 19 · [`neon`](pages/zh/tags.md#tag-neon) 18 · [`luxury`](pages/zh/tags.md#tag-luxury) 18 · [`multi-scene`](pages/zh/tags.md#tag-multi-scene) 18 · [`cafe`](pages/zh/tags.md#tag-cafe) 18 · [`transformation`](pages/zh/tags.md#tag-transformation) 17 · [`korean`](pages/zh/tags.md#tag-korean) 17 · [`studio-portrait`](pages/zh/tags.md#tag-studio-portrait) 17 · [`editorial-poster`](pages/zh/tags.md#tag-editorial-poster) 17 · [`documentary`](pages/zh/tags.md#tag-documentary) 16 · [`dance`](pages/zh/tags.md#tag-dance) 16 · [`horror`](pages/zh/tags.md#tag-horror) 16 · [`black-and-white`](pages/zh/tags.md#tag-black-and-white) 16 · [`mixed-media`](pages/zh/tags.md#tag-mixed-media) 16 · [`double-exposure`](pages/zh/tags.md#tag-double-exposure) 16 · [`motion-graphics`](pages/zh/tags.md#tag-motion-graphics) 15 · [`ugc`](pages/zh/tags.md#tag-ugc) 15 · [`dragon`](pages/zh/tags.md#tag-dragon) 15 · [`motion-blur`](pages/zh/tags.md#tag-motion-blur) 15 · [`film-look`](pages/zh/tags.md#tag-film-look) 15 · [`landmark`](pages/zh/tags.md#tag-landmark) 15 · [`pixar-style`](pages/zh/tags.md#tag-pixar-style) 15 · [`vintage`](pages/zh/tags.md#tag-vintage) 15 · [`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration) 15 · [`sports`](pages/zh/tags.md#tag-sports) 14 · [`timeline`](pages/zh/tags.md#tag-timeline) 14 · [`studio`](pages/zh/tags.md#tag-studio) 14 · [`sunset`](pages/zh/tags.md#tag-sunset) 14 · [`food-photography`](pages/zh/tags.md#tag-food-photography) 14 · [`oil-painting`](pages/zh/tags.md#tag-oil-painting) 14 · [`storybook`](pages/zh/tags.md#tag-storybook) 14 · [`negative-space`](pages/zh/tags.md#tag-negative-space) 14 · [`music-video`](pages/zh/tags.md#tag-music-video) 13 · [`dv-camcorder`](pages/zh/tags.md#tag-dv-camcorder) 13 · [`animals`](pages/zh/tags.md#tag-animals) 13 · [`cyberpunk`](pages/zh/tags.md#tag-cyberpunk) 13 · [`flat-vector`](pages/zh/tags.md#tag-flat-vector) 13 · [`japanese`](pages/zh/tags.md#tag-japanese) 13 · [`city`](pages/zh/tags.md#tag-city) 13 · [`beauty`](pages/zh/tags.md#tag-beauty) 13 · [`cat`](pages/zh/tags.md#tag-cat) 13 · [`couple`](pages/zh/tags.md#tag-couple) 13 · [`advertising`](pages/zh/tags.md#tag-advertising) 13 · [`character`](pages/zh/tags.md#tag-character) 13 · [`packaging`](pages/zh/tags.md#tag-packaging) 13 · [`bokeh`](pages/zh/tags.md#tag-bokeh) 12 · [`hand-drawn`](pages/zh/tags.md#tag-hand-drawn) 12 · [`shot-list`](pages/zh/tags.md#tag-shot-list) 12 · [`close-up`](pages/zh/tags.md#tag-close-up) 12 · [`style-transfer`](pages/zh/tags.md#tag-style-transfer) 12 · [`layout`](pages/zh/tags.md#tag-layout) 12 · [`sketchbook`](pages/zh/tags.md#tag-sketchbook) 12 · [`chinese-text`](pages/zh/tags.md#tag-chinese-text) 12 · [`product-photography`](pages/zh/tags.md#tag-product-photography) 12 · [`game-ui`](pages/zh/tags.md#tag-game-ui) 11 · [`line-art`](pages/zh/tags.md#tag-line-art) 11 · [`multi-reference`](pages/zh/tags.md#tag-multi-reference) 11 · [`travel-vlog`](pages/zh/tags.md#tag-travel-vlog) 11 · [`kinetic-typography`](pages/zh/tags.md#tag-kinetic-typography) 11 · [`vfx`](pages/zh/tags.md#tag-vfx) 11 · [`japanese-text`](pages/zh/tags.md#tag-japanese-text) 11 · [`silhouette`](pages/zh/tags.md#tag-silhouette) 11 · [`identity-reference`](pages/zh/tags.md#tag-identity-reference) 11 · [`home-video`](pages/zh/tags.md#tag-home-video) 11 · [`smartphone-photo`](pages/zh/tags.md#tag-smartphone-photo) 11 · [`grid-layout`](pages/zh/tags.md#tag-grid-layout) 11 · [`photo-to-art`](pages/zh/tags.md#tag-photo-to-art) 11 · [`campaign`](pages/zh/tags.md#tag-campaign) 11 · [`forced-perspective`](pages/zh/tags.md#tag-forced-perspective) 11 · [`character-lock`](pages/zh/tags.md#tag-character-lock) 10 · [`first-person`](pages/zh/tags.md#tag-first-person) 10 · [`title-sequence`](pages/zh/tags.md#tag-title-sequence) 10 · [`exploded-view`](pages/zh/tags.md#tag-exploded-view) 10 · [`skincare`](pages/zh/tags.md#tag-skincare) 10 · [`handheld-camera`](pages/zh/tags.md#tag-handheld-camera) 10 · [`pencil-sketch`](pages/zh/tags.md#tag-pencil-sketch) 10 · [`street-photography`](pages/zh/tags.md#tag-street-photography) 10 · [`hud`](pages/zh/tags.md#tag-hud) 10 · [`consistency`](pages/zh/tags.md#tag-consistency) 10 · [`doodle-overlay`](pages/zh/tags.md#tag-doodle-overlay) 10 · [`flash-photography`](pages/zh/tags.md#tag-flash-photography) 10 · [`85mm`](pages/zh/tags.md#tag-85mm) 10 · [`timeline-prompt`](pages/zh/tags.md#tag-timeline-prompt) 9 · [`japan`](pages/zh/tags.md#tag-japan) 9 · [`perfume`](pages/zh/tags.md#tag-perfume) 9 · [`product-shot`](pages/zh/tags.md#tag-product-shot) 9 · [`y2k`](pages/zh/tags.md#tag-y2k) 9 · [`beverage`](pages/zh/tags.md#tag-beverage) 9 · [`logo`](pages/zh/tags.md#tag-logo) 9 · [`slice-of-life`](pages/zh/tags.md#tag-slice-of-life) 9 · [`turnaround`](pages/zh/tags.md#tag-turnaround) 9 · [`reference-face`](pages/zh/tags.md#tag-reference-face) 9 · [`product-poster`](pages/zh/tags.md#tag-product-poster) 9 · [`kawaii`](pages/zh/tags.md#tag-kawaii) 9 · [`impasto`](pages/zh/tags.md#tag-impasto) 9 · [`fisheye`](pages/zh/tags.md#tag-fisheye) 9 · [`ambient-audio`](pages/zh/tags.md#tag-ambient-audio) 8 · [`one-take`](pages/zh/tags.md#tag-one-take) 8 · [`locked-camera`](pages/zh/tags.md#tag-locked-camera) 8 · [`cooking`](pages/zh/tags.md#tag-cooking) 8 · [`animal`](pages/zh/tags.md#tag-animal) 8 · [`creature`](pages/zh/tags.md#tag-creature) 8 · [`ink-wash`](pages/zh/tags.md#tag-ink-wash) 8 · [`halftone`](pages/zh/tags.md#tag-halftone) 8 · [`structured-prompt`](pages/zh/tags.md#tag-structured-prompt) 8 · [`text-rendering`](pages/zh/tags.md#tag-text-rendering) 8 · [`desert`](pages/zh/tags.md#tag-desert) 8 · [`product-commercial`](pages/zh/tags.md#tag-product-commercial) 8 · [`stop-motion`](pages/zh/tags.md#tag-stop-motion) 8 · [`video-edit`](pages/zh/tags.md#tag-video-edit) 8 · [`street`](pages/zh/tags.md#tag-street) 8 · [`superhero`](pages/zh/tags.md#tag-superhero) 8 · [`fitness`](pages/zh/tags.md#tag-fitness) 8 · [`realism`](pages/zh/tags.md#tag-realism) 8 · [`tokyo`](pages/zh/tags.md#tag-tokyo) 8 · [`illustration`](pages/zh/tags.md#tag-illustration) 8 · [`product`](pages/zh/tags.md#tag-product) 8 · [`cityscape`](pages/zh/tags.md#tag-cityscape) 8 · [`photorealism`](pages/zh/tags.md#tag-photorealism) 8 · [`sticker`](pages/zh/tags.md#tag-sticker) 8 · [`blueprint`](pages/zh/tags.md#tag-blueprint) 8 · [`full-body`](pages/zh/tags.md#tag-full-body) 8 · [`menswear`](pages/zh/tags.md#tag-menswear) 8 · [`screen-print`](pages/zh/tags.md#tag-screen-print) 8 · [`sketch`](pages/zh/tags.md#tag-sketch) 8 · [`editorial-layout`](pages/zh/tags.md#tag-editorial-layout) 8 · [`natural-light`](pages/zh/tags.md#tag-natural-light) 8 · [`cinematic-lighting`](pages/zh/tags.md#tag-cinematic-lighting) 8 · [`historical`](pages/zh/tags.md#tag-historical) 7 · [`beat-sync`](pages/zh/tags.md#tag-beat-sync) 7 · [`outfit-change`](pages/zh/tags.md#tag-outfit-change) 7 · [`automotive`](pages/zh/tags.md#tag-automotive) 7 · [`reference-lock`](pages/zh/tags.md#tag-reference-lock) 7 · [`reflection`](pages/zh/tags.md#tag-reflection) 7 · [`samurai`](pages/zh/tags.md#tag-samurai) 7 · [`street-style`](pages/zh/tags.md#tag-street-style) 7 · [`wildlife`](pages/zh/tags.md#tag-wildlife) 7 · [`underwater`](pages/zh/tags.md#tag-underwater) 7 · [`single-take`](pages/zh/tags.md#tag-single-take) 7 · [`voiceover`](pages/zh/tags.md#tag-voiceover) 7 · [`motorcycle`](pages/zh/tags.md#tag-motorcycle) 7 · [`mascot`](pages/zh/tags.md#tag-mascot) 7 · [`rooftop`](pages/zh/tags.md#tag-rooftop) 7 · [`text-render`](pages/zh/tags.md#tag-text-render) 7 · [`fight-scene`](pages/zh/tags.md#tag-fight-scene) 7 · [`shallow-depth-of-field`](pages/zh/tags.md#tag-shallow-depth-of-field) 7 · [`day-in-the-life`](pages/zh/tags.md#tag-day-in-the-life) 7 · [`beach`](pages/zh/tags.md#tag-beach) 7 · [`seoul`](pages/zh/tags.md#tag-seoul) 7 · [`morning-routine`](pages/zh/tags.md#tag-morning-routine) 7 · [`nature`](pages/zh/tags.md#tag-nature) 7 · [`pet`](pages/zh/tags.md#tag-pet) 7 · [`paper-craft`](pages/zh/tags.md#tag-paper-craft) 7 · [`cute`](pages/zh/tags.md#tag-cute) 7 · [`identity-consistency`](pages/zh/tags.md#tag-identity-consistency) 7 · [`social-media`](pages/zh/tags.md#tag-social-media) 7 · [`tilt-shift`](pages/zh/tags.md#tag-tilt-shift) 7 · [`photo-edit`](pages/zh/tags.md#tag-photo-edit) 7 · [`chinese-typography`](pages/zh/tags.md#tag-chinese-typography) 7 · [`sprite-sheet`](pages/zh/tags.md#tag-sprite-sheet) 7 · [`street-fashion`](pages/zh/tags.md#tag-street-fashion) 7 · [`education`](pages/zh/tags.md#tag-education) 6 · [`japanese-dialogue`](pages/zh/tags.md#tag-japanese-dialogue) 6 · [`product-reference`](pages/zh/tags.md#tag-product-reference) 6 · [`storytelling`](pages/zh/tags.md#tag-storytelling) 6 · [`k-pop`](pages/zh/tags.md#tag-k-pop) 6 · [`educational`](pages/zh/tags.md#tag-educational) 6 · [`sword-fight`](pages/zh/tags.md#tag-sword-fight) 6 · [`sfx`](pages/zh/tags.md#tag-sfx) 6 · [`camcorder`](pages/zh/tags.md#tag-camcorder) 6 · [`lo-fi`](pages/zh/tags.md#tag-lo-fi) 6 · [`camera-move`](pages/zh/tags.md#tag-camera-move) 6 · [`realistic`](pages/zh/tags.md#tag-realistic) 6 · [`mirror-selfie`](pages/zh/tags.md#tag-mirror-selfie) 6 · [`wide-angle`](pages/zh/tags.md#tag-wide-angle) 6 · [`music`](pages/zh/tags.md#tag-music) 6 · [`chase`](pages/zh/tags.md#tag-chase) 6 · [`asmr`](pages/zh/tags.md#tag-asmr) 6 · [`kitchen`](pages/zh/tags.md#tag-kitchen) 6 · [`embroidery`](pages/zh/tags.md#tag-embroidery) 6 · [`animation`](pages/zh/tags.md#tag-animation) 6 · [`snow`](pages/zh/tags.md#tag-snow) 6 · [`urban`](pages/zh/tags.md#tag-urban) 6 · [`cherry-blossom`](pages/zh/tags.md#tag-cherry-blossom) 6 · [`restaurant`](pages/zh/tags.md#tag-restaurant) 6 · [`reference-identity`](pages/zh/tags.md#tag-reference-identity) 6 · [`coastal`](pages/zh/tags.md#tag-coastal) 6 · [`crowd`](pages/zh/tags.md#tag-crowd) 6 · [`wuxia`](pages/zh/tags.md#tag-wuxia) 6 · [`interior`](pages/zh/tags.md#tag-interior) 6 · [`backlight`](pages/zh/tags.md#tag-backlight) 6 · [`japanese-typography`](pages/zh/tags.md#tag-japanese-typography) 6 · [`screenshot`](pages/zh/tags.md#tag-screenshot) 6 · [`colored-pencil`](pages/zh/tags.md#tag-colored-pencil) 6 · [`recipe`](pages/zh/tags.md#tag-recipe) 6 · [`doodles`](pages/zh/tags.md#tag-doodles) 6 · [`brand-identity`](pages/zh/tags.md#tag-brand-identity) 6 · [`concept-art`](pages/zh/tags.md#tag-concept-art) 6 · [`chiaroscuro`](pages/zh/tags.md#tag-chiaroscuro) 6 · [`expressions`](pages/zh/tags.md#tag-expressions) 6 · [`map`](pages/zh/tags.md#tag-map) 6 · [`product-render`](pages/zh/tags.md#tag-product-render) 6 · [`mockup`](pages/zh/tags.md#tag-mockup) 6 · [`golden-light`](pages/zh/tags.md#tag-golden-light) 6 · [`limited-palette`](pages/zh/tags.md#tag-limited-palette) 6 · [`3d`](pages/zh/tags.md#tag-3d) 6 · [`papercraft`](pages/zh/tags.md#tag-papercraft) 6 · [`labels`](pages/zh/tags.md#tag-labels) 6 · [`timelapse`](pages/zh/tags.md#tag-timelapse) 5 · [`audio-sync`](pages/zh/tags.md#tag-audio-sync) 5 · [`noir`](pages/zh/tags.md#tag-noir) 5 · [`selfie-vlog`](pages/zh/tags.md#tag-selfie-vlog) 5 · [`montage`](pages/zh/tags.md#tag-montage) 5 · [`reference-character`](pages/zh/tags.md#tag-reference-character) 5 · [`kids-education`](pages/zh/tags.md#tag-kids-education) 5 · [`time-lapse`](pages/zh/tags.md#tag-time-lapse) 5 · [`forest`](pages/zh/tags.md#tag-forest) 5 · [`skateboard`](pages/zh/tags.md#tag-skateboard) 5 · [`timestamped-shots`](pages/zh/tags.md#tag-timestamped-shots) 5 · [`timestamped`](pages/zh/tags.md#tag-timestamped) 5 · [`night-street`](pages/zh/tags.md#tag-night-street) 5 · [`manga`](pages/zh/tags.md#tag-manga) 5 · [`nostalgic`](pages/zh/tags.md#tag-nostalgic) 5 · [`cartoon`](pages/zh/tags.md#tag-cartoon) 5 · [`seaside`](pages/zh/tags.md#tag-seaside) 5 · [`native-audio`](pages/zh/tags.md#tag-native-audio) 5 · [`physics`](pages/zh/tags.md#tag-physics) 5 · [`multilingual`](pages/zh/tags.md#tag-multilingual) 5 · [`object-swap`](pages/zh/tags.md#tag-object-swap) 5 · [`gameplay`](pages/zh/tags.md#tag-gameplay) 5 · [`retro`](pages/zh/tags.md#tag-retro) 5 · [`winter`](pages/zh/tags.md#tag-winter) 5 · [`autumn`](pages/zh/tags.md#tag-autumn) 5 · [`multishot`](pages/zh/tags.md#tag-multishot) 5 · [`romance`](pages/zh/tags.md#tag-romance) 5 · [`clay`](pages/zh/tags.md#tag-clay) 5 · [`zombie`](pages/zh/tags.md#tag-zombie) 5 · [`choreography`](pages/zh/tags.md#tag-choreography) 5 · [`photoreal`](pages/zh/tags.md#tag-photoreal) 5 · [`comparison`](pages/zh/tags.md#tag-comparison) 5 · [`negative-prompt`](pages/zh/tags.md#tag-negative-prompt) 5 · [`minidv`](pages/zh/tags.md#tag-minidv) 5 · [`thriller`](pages/zh/tags.md#tag-thriller) 5 · [`painterly`](pages/zh/tags.md#tag-painterly) 5 · [`bedroom`](pages/zh/tags.md#tag-bedroom) 5 · [`continuity`](pages/zh/tags.md#tag-continuity) 5 · [`lookbook`](pages/zh/tags.md#tag-lookbook) 5 · [`football`](pages/zh/tags.md#tag-football) 5 · [`street-portrait`](pages/zh/tags.md#tag-street-portrait) 5 · [`before-after`](pages/zh/tags.md#tag-before-after) 5 · [`pose-sheet`](pages/zh/tags.md#tag-pose-sheet) 5 · [`pop-art`](pages/zh/tags.md#tag-pop-art) 5 · [`street-art`](pages/zh/tags.md#tag-street-art) 5 · [`minimal`](pages/zh/tags.md#tag-minimal) 5 · [`birthday`](pages/zh/tags.md#tag-birthday) 5 · [`botanical`](pages/zh/tags.md#tag-botanical) 5 · [`floral`](pages/zh/tags.md#tag-floral) 5 · [`identity-preserve`](pages/zh/tags.md#tag-identity-preserve) 5 · [`crayon`](pages/zh/tags.md#tag-crayon) 5 · [`travel-journal`](pages/zh/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/zh/tags.md#tag-ink-sketch) 5 · [`identity-preservation`](pages/zh/tags.md#tag-identity-preservation) 5 · [`geometric`](pages/zh/tags.md#tag-geometric) 5 · [`fan-art`](pages/zh/tags.md#tag-fan-art) 5 · [`risograph`](pages/zh/tags.md#tag-risograph) 5 · [`graffiti`](pages/zh/tags.md#tag-graffiti) 5 · [`paris`](pages/zh/tags.md#tag-paris) 5 · [`celebrity`](pages/zh/tags.md#tag-celebrity) 5 · [`sunglasses`](pages/zh/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/zh/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/zh/tags.md#tag-ffmpeg) 5 · [`kids`](pages/zh/tags.md#tag-kids) 4 · [`halloween`](pages/zh/tags.md#tag-halloween) 4 · [`subtitles`](pages/zh/tags.md#tag-subtitles) 4 · [`korean-dialogue`](pages/zh/tags.md#tag-korean-dialogue) 4 · [`transition`](pages/zh/tags.md#tag-transition) 4 · [`camera-moves`](pages/zh/tags.md#tag-camera-moves) 4 · [`night-scene`](pages/zh/tags.md#tag-night-scene) 4 · [`landing-page`](pages/zh/tags.md#tag-landing-page) 4 · [`multi-cut`](pages/zh/tags.md#tag-multi-cut) 4 · [`sitcom`](pages/zh/tags.md#tag-sitcom) 4 · [`chinese-dialogue`](pages/zh/tags.md#tag-chinese-dialogue) 4 · [`static-camera`](pages/zh/tags.md#tag-static-camera) 4 · [`ambient-sound`](pages/zh/tags.md#tag-ambient-sound) 4 · [`single-shot`](pages/zh/tags.md#tag-single-shot) 4 · [`night-city`](pages/zh/tags.md#tag-night-city) 4 · [`camera-tracking`](pages/zh/tags.md#tag-camera-tracking) 4 · [`speed-ramp`](pages/zh/tags.md#tag-speed-ramp) 4 · [`found-footage`](pages/zh/tags.md#tag-found-footage) 4 · [`aerial`](pages/zh/tags.md#tag-aerial) 4 · [`keyframes`](pages/zh/tags.md#tag-keyframes) 4 · [`claymation`](pages/zh/tags.md#tag-claymation) 4 · [`phone-footage`](pages/zh/tags.md#tag-phone-footage) 4 · [`multi-turn-edit`](pages/zh/tags.md#tag-multi-turn-edit) 4 · [`product-reveal`](pages/zh/tags.md#tag-product-reveal) 4 · [`live-action`](pages/zh/tags.md#tag-live-action) 4 · [`classroom`](pages/zh/tags.md#tag-classroom) 4 · [`family`](pages/zh/tags.md#tag-family) 4 · [`timed-scenes`](pages/zh/tags.md#tag-timed-scenes) 4 · [`time-freeze`](pages/zh/tags.md#tag-time-freeze) 4 · [`fight-choreography`](pages/zh/tags.md#tag-fight-choreography) 4 · [`scale-contrast`](pages/zh/tags.md#tag-scale-contrast) 4 · [`diegetic-sound`](pages/zh/tags.md#tag-diegetic-sound) 4 · [`gym`](pages/zh/tags.md#tag-gym) 4 · [`train`](pages/zh/tags.md#tag-train) 4 · [`subway`](pages/zh/tags.md#tag-subway) 4 · [`action-comedy`](pages/zh/tags.md#tag-action-comedy) 4 · [`top-down`](pages/zh/tags.md#tag-top-down) 4 · [`comic-book`](pages/zh/tags.md#tag-comic-book) 4 · [`scale`](pages/zh/tags.md#tag-scale) 4 · [`world-building`](pages/zh/tags.md#tag-world-building) 4 · [`worldbuilding`](pages/zh/tags.md#tag-worldbuilding) 4 · [`character-design`](pages/zh/tags.md#tag-character-design) 4 · [`film-photography`](pages/zh/tags.md#tag-film-photography) 4 · [`glassmorphism`](pages/zh/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/zh/tags.md#tag-self-portrait) 4 · [`parody`](pages/zh/tags.md#tag-parody) 4 · [`ms-paint`](pages/zh/tags.md#tag-ms-paint) 4 · [`vector`](pages/zh/tags.md#tag-vector) 4 · [`side-profile`](pages/zh/tags.md#tag-side-profile) 4 · [`bilingual`](pages/zh/tags.md#tag-bilingual) 4 · [`mediterranean`](pages/zh/tags.md#tag-mediterranean) 4 · [`fashion-portrait`](pages/zh/tags.md#tag-fashion-portrait) 4 · [`butterfly`](pages/zh/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/zh/tags.md#tag-candid-portrait) 4 · [`diagram`](pages/zh/tags.md#tag-diagram) 4 · [`product-photo`](pages/zh/tags.md#tag-product-photo) 4 · [`game-asset`](pages/zh/tags.md#tag-game-asset) 4 · [`billboard`](pages/zh/tags.md#tag-billboard) 4 · [`low-light`](pages/zh/tags.md#tag-low-light) 4 · [`landmarks`](pages/zh/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/zh/tags.md#tag-direct-flash) 4 · [`photobooth`](pages/zh/tags.md#tag-photobooth) 4 · [`contact-sheet`](pages/zh/tags.md#tag-contact-sheet) 4 · [`satire`](pages/zh/tags.md#tag-satire) 4 · [`cozy`](pages/zh/tags.md#tag-cozy) 4 · [`caricature`](pages/zh/tags.md#tag-caricature) 4 · [`sepia`](pages/zh/tags.md#tag-sepia) 4 · [`zodiac`](pages/zh/tags.md#tag-zodiac) 4 · [`movie-poster`](pages/zh/tags.md#tag-movie-poster) 4 · [`encyclopedia`](pages/zh/tags.md#tag-encyclopedia) 4 · [`photo-dump`](pages/zh/tags.md#tag-photo-dump) 4 · [`summer`](pages/zh/tags.md#tag-summer) 4 · [`flat-color`](pages/zh/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/zh/tags.md#tag-miniature-world) 4 · [`triptych`](pages/zh/tags.md#tag-triptych) 4 · [`children-illustration`](pages/zh/tags.md#tag-children-illustration) 4 · [`splash`](pages/zh/tags.md#tag-splash) 4 · [`color-palette`](pages/zh/tags.md#tag-color-palette) 4 · [`white-background`](pages/zh/tags.md#tag-white-background) 4 · [`grid-collage`](pages/zh/tags.md#tag-grid-collage) 4 · [`paper-texture`](pages/zh/tags.md#tag-paper-texture) 4 · [`photo-restoration`](pages/zh/tags.md#tag-photo-restoration) 4 · [`street-photo`](pages/zh/tags.md#tag-street-photo) 4 · [`photo-to-sketch`](pages/zh/tags.md#tag-photo-to-sketch) 4 · [`liquid-splash`](pages/zh/tags.md#tag-liquid-splash) 4 · [`vintage-film`](pages/zh/tags.md#tag-vintage-film) 3 · [`documentary-realism`](pages/zh/tags.md#tag-documentary-realism) 3 · [`fashion-film`](pages/zh/tags.md#tag-fashion-film) 3 · [`fps`](pages/zh/tags.md#tag-fps) 3 · [`emotional`](pages/zh/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/zh/tags.md#tag-hard-cuts) 3 · [`handheld-pov`](pages/zh/tags.md#tag-handheld-pov) 3 · [`sunrise`](pages/zh/tags.md#tag-sunrise) 3 · [`macro-shot`](pages/zh/tags.md#tag-macro-shot) 3 · [`pets`](pages/zh/tags.md#tag-pets) 3 · [`glass`](pages/zh/tags.md#tag-glass) 3 · [`rap`](pages/zh/tags.md#tag-rap) 3 · [`2d-animation`](pages/zh/tags.md#tag-2d-animation) 3 · [`3d-typography`](pages/zh/tags.md#tag-3d-typography) 3 · [`morph-transition`](pages/zh/tags.md#tag-morph-transition) 3 · [`livestream`](pages/zh/tags.md#tag-livestream) 3 · [`slow motion`](pages/zh/tags.md#tag-slowmotion) 3 · [`match-cut`](pages/zh/tags.md#tag-match-cut) 3 · [`anamorphic`](pages/zh/tags.md#tag-anamorphic) 3 · [`food-commercial`](pages/zh/tags.md#tag-food-commercial) 3 · [`ocean`](pages/zh/tags.md#tag-ocean) 3 · [`split-screen`](pages/zh/tags.md#tag-split-screen) 3 · [`texture`](pages/zh/tags.md#tag-texture) 3 · [`wallpaper`](pages/zh/tags.md#tag-wallpaper) 3 · [`monster`](pages/zh/tags.md#tag-monster) 3 · [`dinosaur`](pages/zh/tags.md#tag-dinosaur) 3 · [`ink`](pages/zh/tags.md#tag-ink) 3 · [`period`](pages/zh/tags.md#tag-period) 3 · [`push-in`](pages/zh/tags.md#tag-push-in) 3 · [`felt`](pages/zh/tags.md#tag-felt) 3 · [`painting`](pages/zh/tags.md#tag-painting) 3 · [`camera-angle`](pages/zh/tags.md#tag-camera-angle) 3 · [`family-comedy`](pages/zh/tags.md#tag-family-comedy) 3 · [`toddler`](pages/zh/tags.md#tag-toddler) 3 · [`airport`](pages/zh/tags.md#tag-airport) 3 · [`pop-out`](pages/zh/tags.md#tag-pop-out) 3 · [`camera-movement`](pages/zh/tags.md#tag-camera-movement) 3 · [`industrial`](pages/zh/tags.md#tag-industrial) 3 · [`portal`](pages/zh/tags.md#tag-portal) 3 · [`multi-angle`](pages/zh/tags.md#tag-multi-angle) 3 · [`korean-drama`](pages/zh/tags.md#tag-korean-drama) 3 · [`chinese-painting`](pages/zh/tags.md#tag-chinese-painting) 3 · [`concert`](pages/zh/tags.md#tag-concert) 3 · [`short-film`](pages/zh/tags.md#tag-short-film) 3 · [`mecha`](pages/zh/tags.md#tag-mecha) 3 · [`gothic`](pages/zh/tags.md#tag-gothic) 3 · [`dv-look`](pages/zh/tags.md#tag-dv-look) 3 · [`open-world`](pages/zh/tags.md#tag-open-world) 3 · [`game-hud`](pages/zh/tags.md#tag-game-hud) 3 · [`fire`](pages/zh/tags.md#tag-fire) 3 · [`smartphone-footage`](pages/zh/tags.md#tag-smartphone-footage) 3 · [`garden`](pages/zh/tags.md#tag-garden) 3 · [`hanfu`](pages/zh/tags.md#tag-hanfu) 3 · [`moonlight`](pages/zh/tags.md#tag-moonlight) 3 · [`fairy-tale`](pages/zh/tags.md#tag-fairy-tale) 3 · [`japanese-school`](pages/zh/tags.md#tag-japanese-school) 3 · [`convenience-store`](pages/zh/tags.md#tag-convenience-store) 3 · [`fog`](pages/zh/tags.md#tag-fog) 3 · [`mixed-reality`](pages/zh/tags.md#tag-mixed-reality) 3 · [`jewelry`](pages/zh/tags.md#tag-jewelry) 3 · [`temple`](pages/zh/tags.md#tag-temple) 3 · [`giant`](pages/zh/tags.md#tag-giant) 3 · [`volumetric-light`](pages/zh/tags.md#tag-volumetric-light) 3 · [`scroll`](pages/zh/tags.md#tag-scroll) 3 · [`fashion-ad`](pages/zh/tags.md#tag-fashion-ad) 3 · [`skin-texture`](pages/zh/tags.md#tag-skin-texture) 3 · [`amigurumi`](pages/zh/tags.md#tag-amigurumi) 3 · [`fashion-illustration`](pages/zh/tags.md#tag-fashion-illustration) 3 · [`magazine-cover`](pages/zh/tags.md#tag-magazine-cover) 3 · [`key-visual`](pages/zh/tags.md#tag-key-visual) 3 · [`style-conversion`](pages/zh/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/zh/tags.md#tag-e-commerce) 3 · [`graphite`](pages/zh/tags.md#tag-graphite) 3 · [`city-map`](pages/zh/tags.md#tag-city-map) 3 · [`face-consistency`](pages/zh/tags.md#tag-face-consistency) 3 · [`cutout`](pages/zh/tags.md#tag-cutout) 3 · [`design-system`](pages/zh/tags.md#tag-design-system) 3 · [`light-mode`](pages/zh/tags.md#tag-light-mode) 3 · [`beauty-portrait`](pages/zh/tags.md#tag-beauty-portrait) 3 · [`brutalist`](pages/zh/tags.md#tag-brutalist) 3 · [`camera-roll`](pages/zh/tags.md#tag-camera-roll) 3 · [`humor`](pages/zh/tags.md#tag-humor) 3 · [`candlelight`](pages/zh/tags.md#tag-candlelight) 3 · [`3d-caricature`](pages/zh/tags.md#tag-3d-caricature) 3 · [`food-ad`](pages/zh/tags.md#tag-food-ad) 3 · [`calligraphy`](pages/zh/tags.md#tag-calligraphy) 3 · [`saas`](pages/zh/tags.md#tag-saas) 3 · [`comic`](pages/zh/tags.md#tag-comic) 3 · [`profile`](pages/zh/tags.md#tag-profile) 3 · [`16-9`](pages/zh/tags.md#tag-16-9) 3 · [`product-design`](pages/zh/tags.md#tag-product-design) 3 · [`expression-grid`](pages/zh/tags.md#tag-expression-grid) 3 · [`low-key`](pages/zh/tags.md#tag-low-key) 3 · [`chrome`](pages/zh/tags.md#tag-chrome) 3 · [`art-studio`](pages/zh/tags.md#tag-art-studio) 3 · [`mural`](pages/zh/tags.md#tag-mural) 3 · [`photo-collage`](pages/zh/tags.md#tag-photo-collage) 3 · [`engineering`](pages/zh/tags.md#tag-engineering) 3 · [`9-16`](pages/zh/tags.md#tag-9-16) 3 · [`dramatic-lighting`](pages/zh/tags.md#tag-dramatic-lighting) 3 · [`strawberry`](pages/zh/tags.md#tag-strawberry) 3 · [`portrait-collage`](pages/zh/tags.md#tag-portrait-collage) 3 · [`watch`](pages/zh/tags.md#tag-watch) 3 · [`campaign-poster`](pages/zh/tags.md#tag-campaign-poster) 3 · [`surreal-scale`](pages/zh/tags.md#tag-surreal-scale) 3 · [`panoramic`](pages/zh/tags.md#tag-panoramic) 3 · [`ad-poster`](pages/zh/tags.md#tag-ad-poster) 3 · [`ink-illustration`](pages/zh/tags.md#tag-ink-illustration) 3 · [`group-portrait`](pages/zh/tags.md#tag-group-portrait) 3 · [`mid-century`](pages/zh/tags.md#tag-mid-century) 3 · [`disintegration`](pages/zh/tags.md#tag-disintegration) 3 · [`polaroid`](pages/zh/tags.md#tag-polaroid) 3 · [`dessert`](pages/zh/tags.md#tag-dessert) 3 · [`palette-knife`](pages/zh/tags.md#tag-palette-knife) 3 · [`paper-cut`](pages/zh/tags.md#tag-paper-cut) 3 · [`text-layout`](pages/zh/tags.md#tag-text-layout) 3 · [`textile`](pages/zh/tags.md#tag-textile) 3 · [`ink-doodle`](pages/zh/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/zh/tags.md#tag-local-edit) 3 · [`brand-poster`](pages/zh/tags.md#tag-brand-poster) 3 · [`upscale`](pages/zh/tags.md#tag-upscale) 3 · [`color-analysis`](pages/zh/tags.md#tag-color-analysis) 3 · [`magazine`](pages/zh/tags.md#tag-magazine) 3 · [`paper-collage`](pages/zh/tags.md#tag-paper-collage) 3 · [`advertisement`](pages/zh/tags.md#tag-advertisement) 3 · [`paper-cutout`](pages/zh/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/zh/tags.md#tag-memory-card) 3 · [`hard-light`](pages/zh/tags.md#tag-hard-light) 3 · [`naive-art`](pages/zh/tags.md#tag-naive-art) 3 · [`ui-design`](pages/zh/tags.md#tag-ui-design) 3 · [`chinese-style`](pages/zh/tags.md#tag-chinese-style) 3 · [`product-mockup`](pages/zh/tags.md#tag-product-mockup) 3 · [`macro-photography`](pages/zh/tags.md#tag-macro-photography) 3 · [`phone-photo`](pages/zh/tags.md#tag-phone-photo) 3 · [`iphone-style`](pages/zh/tags.md#tag-iphone-style) 3 · [`photo-reference`](pages/zh/tags.md#tag-photo-reference) 3 · [`split-composition`](pages/zh/tags.md#tag-split-composition) 3 · [`warm-tones`](pages/zh/tags.md#tag-warm-tones) 3 · [`dark-background`](pages/zh/tags.md#tag-dark-background) 3 · [`logo-design`](pages/zh/tags.md#tag-logo-design) 3 · [`xiaohongshu`](pages/zh/tags.md#tag-xiaohongshu) 3 · [`brand`](pages/zh/tags.md#tag-brand) 3 · [`parchment`](pages/zh/tags.md#tag-parchment) 3 · [`cinematic-portrait`](pages/zh/tags.md#tag-cinematic-portrait) 3 · [`chocolate`](pages/zh/tags.md#tag-chocolate) 3 · [`soft-lighting`](pages/zh/tags.md#tag-soft-lighting) 3
+[`portrait`](pages/zh/tags.md#tag-portrait) 146 · [`fashion`](pages/zh/tags.md#tag-fashion) 127 · [`template`](pages/zh/tags.md#tag-template) 119 · [`multi-shot`](pages/zh/tags.md#tag-multi-shot) 113 · [`anime`](pages/zh/tags.md#tag-anime) 112 · [`typography`](pages/zh/tags.md#tag-typography) 105 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 99 · [`handheld`](pages/zh/tags.md#tag-handheld) 90 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 87 · [`editorial`](pages/zh/tags.md#tag-editorial) 85 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 82 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 77 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 68 · [`macro`](pages/zh/tags.md#tag-macro) 64 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 63 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 62 · [`infographic`](pages/zh/tags.md#tag-infographic) 61 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 60 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 55 · [`action`](pages/zh/tags.md#tag-action) 51 · [`selfie`](pages/zh/tags.md#tag-selfie) 50 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 48 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 48 · [`miniature`](pages/zh/tags.md#tag-miniature) 46 · [`vlog`](pages/zh/tags.md#tag-vlog) 43 · [`food`](pages/zh/tags.md#tag-food) 43 · [`timed-beats`](pages/zh/tags.md#tag-timed-beats) 42 · [`comedy`](pages/zh/tags.md#tag-comedy) 41 · [`collage`](pages/zh/tags.md#tag-collage) 41 · [`poster`](pages/zh/tags.md#tag-poster) 38 · [`studio-lighting`](pages/zh/tags.md#tag-studio-lighting) 37 · [`sound-design`](pages/zh/tags.md#tag-sound-design) 36 · [`watercolor`](pages/zh/tags.md#tag-watercolor) 36 · [`diorama`](pages/zh/tags.md#tag-diorama) 36 · [`product-ad`](pages/zh/tags.md#tag-product-ad) 35 · [`vertical`](pages/zh/tags.md#tag-vertical) 35 · [`martial-arts`](pages/zh/tags.md#tag-martial-arts) 34 · [`identity-lock`](pages/zh/tags.md#tag-identity-lock) 34 · [`character-sheet`](pages/zh/tags.md#tag-character-sheet) 32 · [`chibi`](pages/zh/tags.md#tag-chibi) 32 · [`pastel`](pages/zh/tags.md#tag-pastel) 32 · [`travel`](pages/zh/tags.md#tag-travel) 31 · [`lifestyle`](pages/zh/tags.md#tag-lifestyle) 31 · [`film-grain`](pages/zh/tags.md#tag-film-grain) 31 · [`surreal`](pages/zh/tags.md#tag-surreal) 30 · [`grid`](pages/zh/tags.md#tag-grid) 30 · [`timed-shots`](pages/zh/tags.md#tag-timed-shots) 29 · [`tracking-shot`](pages/zh/tags.md#tag-tracking-shot) 29 · [`rain`](pages/zh/tags.md#tag-rain) 28 · [`character-reference`](pages/zh/tags.md#tag-character-reference) 27 · [`sci-fi`](pages/zh/tags.md#tag-sci-fi) 27 · [`3d-animation`](pages/zh/tags.md#tag-3d-animation) 26 · [`lip-sync`](pages/zh/tags.md#tag-lip-sync) 26 · [`monochrome`](pages/zh/tags.md#tag-monochrome) 26 · [`architecture`](pages/zh/tags.md#tag-architecture) 24 · [`transformation`](pages/zh/tags.md#tag-transformation) 24 · [`low-angle`](pages/zh/tags.md#tag-low-angle) 24 · [`reference-photo`](pages/zh/tags.md#tag-reference-photo) 24 · [`dark-fantasy`](pages/zh/tags.md#tag-dark-fantasy) 23 · [`multi-scene`](pages/zh/tags.md#tag-multi-scene) 23 · [`scrapbook`](pages/zh/tags.md#tag-scrapbook) 23 · [`3d-render`](pages/zh/tags.md#tag-3d-render) 23 · [`ugc`](pages/zh/tags.md#tag-ugc) 22 · [`slow-motion`](pages/zh/tags.md#tag-slow-motion) 22 · [`fashion-editorial`](pages/zh/tags.md#tag-fashion-editorial) 22 · [`doodle`](pages/zh/tags.md#tag-doodle) 22 · [`split-layout`](pages/zh/tags.md#tag-split-layout) 22 · [`candid`](pages/zh/tags.md#tag-candid) 22 · [`luxury`](pages/zh/tags.md#tag-luxury) 21 · [`commercial`](pages/zh/tags.md#tag-commercial) 21 · [`night`](pages/zh/tags.md#tag-night) 21 · [`long-take`](pages/zh/tags.md#tag-long-take) 21 · [`streetwear`](pages/zh/tags.md#tag-streetwear) 21 · [`landscape`](pages/zh/tags.md#tag-landscape) 21 · [`pixel-art`](pages/zh/tags.md#tag-pixel-art) 21 · [`face-reference`](pages/zh/tags.md#tag-face-reference) 21 · [`isometric`](pages/zh/tags.md#tag-isometric) 21 · [`music-video`](pages/zh/tags.md#tag-music-video) 20 · [`neon`](pages/zh/tags.md#tag-neon) 20 · [`motion-graphics`](pages/zh/tags.md#tag-motion-graphics) 20 · [`pov`](pages/zh/tags.md#tag-pov) 20 · [`character-lock`](pages/zh/tags.md#tag-character-lock) 19 · [`horror`](pages/zh/tags.md#tag-horror) 19 · [`dragon`](pages/zh/tags.md#tag-dragon) 19 · [`cafe`](pages/zh/tags.md#tag-cafe) 19 · [`minimalist`](pages/zh/tags.md#tag-minimalist) 19 · [`documentary`](pages/zh/tags.md#tag-documentary) 18 · [`shot-list`](pages/zh/tags.md#tag-shot-list) 18 · [`korean`](pages/zh/tags.md#tag-korean) 18 · [`dance`](pages/zh/tags.md#tag-dance) 17 · [`studio-portrait`](pages/zh/tags.md#tag-studio-portrait) 17 · [`editorial-poster`](pages/zh/tags.md#tag-editorial-poster) 17 · [`motion-blur`](pages/zh/tags.md#tag-motion-blur) 16 · [`beauty`](pages/zh/tags.md#tag-beauty) 16 · [`black-and-white`](pages/zh/tags.md#tag-black-and-white) 16 · [`mixed-media`](pages/zh/tags.md#tag-mixed-media) 16 · [`pixar-style`](pages/zh/tags.md#tag-pixar-style) 16 · [`double-exposure`](pages/zh/tags.md#tag-double-exposure) 16 · [`oil-painting`](pages/zh/tags.md#tag-oil-painting) 15 · [`film-look`](pages/zh/tags.md#tag-film-look) 15 · [`landmark`](pages/zh/tags.md#tag-landmark) 15 · [`sunset`](pages/zh/tags.md#tag-sunset) 15 · [`vintage`](pages/zh/tags.md#tag-vintage) 15 · [`photo-to-illustration`](pages/zh/tags.md#tag-photo-to-illustration) 15 · [`sports`](pages/zh/tags.md#tag-sports) 14 · [`timeline`](pages/zh/tags.md#tag-timeline) 14 · [`title-sequence`](pages/zh/tags.md#tag-title-sequence) 14 · [`city`](pages/zh/tags.md#tag-city) 14 · [`character`](pages/zh/tags.md#tag-character) 14 · [`cat`](pages/zh/tags.md#tag-cat) 14 · [`studio`](pages/zh/tags.md#tag-studio) 14 · [`food-photography`](pages/zh/tags.md#tag-food-photography) 14 · [`storybook`](pages/zh/tags.md#tag-storybook) 14 · [`negative-space`](pages/zh/tags.md#tag-negative-space) 14 · [`kinetic-typography`](pages/zh/tags.md#tag-kinetic-typography) 13 · [`multi-reference`](pages/zh/tags.md#tag-multi-reference) 13 · [`first-person`](pages/zh/tags.md#tag-first-person) 13 · [`chase`](pages/zh/tags.md#tag-chase) 13 · [`bokeh`](pages/zh/tags.md#tag-bokeh) 13 · [`dv-camcorder`](pages/zh/tags.md#tag-dv-camcorder) 13 · [`animals`](pages/zh/tags.md#tag-animals) 13 · [`cyberpunk`](pages/zh/tags.md#tag-cyberpunk) 13 · [`flat-vector`](pages/zh/tags.md#tag-flat-vector) 13 · [`hand-drawn`](pages/zh/tags.md#tag-hand-drawn) 13 · [`japanese`](pages/zh/tags.md#tag-japanese) 13 · [`handheld-camera`](pages/zh/tags.md#tag-handheld-camera) 13 · [`style-transfer`](pages/zh/tags.md#tag-style-transfer) 13 · [`close-up`](pages/zh/tags.md#tag-close-up) 13 · [`couple`](pages/zh/tags.md#tag-couple) 13 · [`advertising`](pages/zh/tags.md#tag-advertising) 13 · [`packaging`](pages/zh/tags.md#tag-packaging) 13 · [`one-take`](pages/zh/tags.md#tag-one-take) 12 · [`travel-vlog`](pages/zh/tags.md#tag-travel-vlog) 12 · [`silhouette`](pages/zh/tags.md#tag-silhouette) 12 · [`identity-reference`](pages/zh/tags.md#tag-identity-reference) 12 · [`desert`](pages/zh/tags.md#tag-desert) 12 · [`home-video`](pages/zh/tags.md#tag-home-video) 12 · [`layout`](pages/zh/tags.md#tag-layout) 12 · [`sketchbook`](pages/zh/tags.md#tag-sketchbook) 12 · [`chinese-text`](pages/zh/tags.md#tag-chinese-text) 12 · [`product-photography`](pages/zh/tags.md#tag-product-photography) 12 · [`game-ui`](pages/zh/tags.md#tag-game-ui) 11 · [`line-art`](pages/zh/tags.md#tag-line-art) 11 · [`vfx`](pages/zh/tags.md#tag-vfx) 11 · [`japan`](pages/zh/tags.md#tag-japan) 11 · [`exploded-view`](pages/zh/tags.md#tag-exploded-view) 11 · [`japanese-text`](pages/zh/tags.md#tag-japanese-text) 11 · [`product-shot`](pages/zh/tags.md#tag-product-shot) 11 · [`skincare`](pages/zh/tags.md#tag-skincare) 11 · [`turnaround`](pages/zh/tags.md#tag-turnaround) 11 · [`hud`](pages/zh/tags.md#tag-hud) 11 · [`smartphone-photo`](pages/zh/tags.md#tag-smartphone-photo) 11 · [`grid-layout`](pages/zh/tags.md#tag-grid-layout) 11 · [`photo-to-art`](pages/zh/tags.md#tag-photo-to-art) 11 · [`campaign`](pages/zh/tags.md#tag-campaign) 11 · [`forced-perspective`](pages/zh/tags.md#tag-forced-perspective) 11 · [`slice-of-life`](pages/zh/tags.md#tag-slice-of-life) 10 · [`fitness`](pages/zh/tags.md#tag-fitness) 10 · [`locked-camera`](pages/zh/tags.md#tag-locked-camera) 10 · [`continuity`](pages/zh/tags.md#tag-continuity) 10 · [`beverage`](pages/zh/tags.md#tag-beverage) 10 · [`impasto`](pages/zh/tags.md#tag-impasto) 10 · [`perfume`](pages/zh/tags.md#tag-perfume) 10 · [`product-commercial`](pages/zh/tags.md#tag-product-commercial) 10 · [`pencil-sketch`](pages/zh/tags.md#tag-pencil-sketch) 10 · [`y2k`](pages/zh/tags.md#tag-y2k) 10 · [`street-photography`](pages/zh/tags.md#tag-street-photography) 10 · [`stop-motion`](pages/zh/tags.md#tag-stop-motion) 10 · [`consistency`](pages/zh/tags.md#tag-consistency) 10 · [`photorealism`](pages/zh/tags.md#tag-photorealism) 10 · [`doodle-overlay`](pages/zh/tags.md#tag-doodle-overlay) 10 · [`flash-photography`](pages/zh/tags.md#tag-flash-photography) 10 · [`85mm`](pages/zh/tags.md#tag-85mm) 10 · [`camera-moves`](pages/zh/tags.md#tag-camera-moves) 9 · [`timeline-prompt`](pages/zh/tags.md#tag-timeline-prompt) 9 · [`cooking`](pages/zh/tags.md#tag-cooking) 9 · [`aerial`](pages/zh/tags.md#tag-aerial) 9 · [`camera-move`](pages/zh/tags.md#tag-camera-move) 9 · [`realism`](pages/zh/tags.md#tag-realism) 9 · [`wildlife`](pages/zh/tags.md#tag-wildlife) 9 · [`voiceover`](pages/zh/tags.md#tag-voiceover) 9 · [`halftone`](pages/zh/tags.md#tag-halftone) 9 · [`product`](pages/zh/tags.md#tag-product) 9 · [`single-take`](pages/zh/tags.md#tag-single-take) 9 · [`seoul`](pages/zh/tags.md#tag-seoul) 9 · [`tokyo`](pages/zh/tags.md#tag-tokyo) 9 · [`logo`](pages/zh/tags.md#tag-logo) 9 · [`reference-face`](pages/zh/tags.md#tag-reference-face) 9 · [`product-poster`](pages/zh/tags.md#tag-product-poster) 9 · [`kawaii`](pages/zh/tags.md#tag-kawaii) 9 · [`fisheye`](pages/zh/tags.md#tag-fisheye) 9 · [`historical`](pages/zh/tags.md#tag-historical) 8 · [`beat-sync`](pages/zh/tags.md#tag-beat-sync) 8 · [`autumn`](pages/zh/tags.md#tag-autumn) 8 · [`ambient-audio`](pages/zh/tags.md#tag-ambient-audio) 8 · [`outfit-change`](pages/zh/tags.md#tag-outfit-change) 8 · [`underwater`](pages/zh/tags.md#tag-underwater) 8 · [`winter`](pages/zh/tags.md#tag-winter) 8 · [`automotive`](pages/zh/tags.md#tag-automotive) 8 · [`reference-lock`](pages/zh/tags.md#tag-reference-lock) 8 · [`animal`](pages/zh/tags.md#tag-animal) 8 · [`creature`](pages/zh/tags.md#tag-creature) 8 · [`street-style`](pages/zh/tags.md#tag-street-style) 8 · [`ink-wash`](pages/zh/tags.md#tag-ink-wash) 8 · [`sword-fight`](pages/zh/tags.md#tag-sword-fight) 8 · [`asmr`](pages/zh/tags.md#tag-asmr) 8 · [`structured-prompt`](pages/zh/tags.md#tag-structured-prompt) 8 · [`text-rendering`](pages/zh/tags.md#tag-text-rendering) 8 · [`motorcycle`](pages/zh/tags.md#tag-motorcycle) 8 · [`beach`](pages/zh/tags.md#tag-beach) 8 · [`pet`](pages/zh/tags.md#tag-pet) 8 · [`street-fashion`](pages/zh/tags.md#tag-street-fashion) 8 · [`wuxia`](pages/zh/tags.md#tag-wuxia) 8 · [`fight-scene`](pages/zh/tags.md#tag-fight-scene) 8 · [`video-edit`](pages/zh/tags.md#tag-video-edit) 8 · [`street`](pages/zh/tags.md#tag-street) 8 · [`superhero`](pages/zh/tags.md#tag-superhero) 8 · [`illustration`](pages/zh/tags.md#tag-illustration) 8 · [`cityscape`](pages/zh/tags.md#tag-cityscape) 8 · [`sticker`](pages/zh/tags.md#tag-sticker) 8 · [`blueprint`](pages/zh/tags.md#tag-blueprint) 8 · [`full-body`](pages/zh/tags.md#tag-full-body) 8 · [`menswear`](pages/zh/tags.md#tag-menswear) 8 · [`screen-print`](pages/zh/tags.md#tag-screen-print) 8 · [`sketch`](pages/zh/tags.md#tag-sketch) 8 · [`editorial-layout`](pages/zh/tags.md#tag-editorial-layout) 8 · [`natural-light`](pages/zh/tags.md#tag-natural-light) 8 · [`cinematic-lighting`](pages/zh/tags.md#tag-cinematic-lighting) 8 · [`education`](pages/zh/tags.md#tag-education) 7 · [`music`](pages/zh/tags.md#tag-music) 7 · [`coastal`](pages/zh/tags.md#tag-coastal) 7 · [`product-reference`](pages/zh/tags.md#tag-product-reference) 7 · [`storytelling`](pages/zh/tags.md#tag-storytelling) 7 · [`reflection`](pages/zh/tags.md#tag-reflection) 7 · [`samurai`](pages/zh/tags.md#tag-samurai) 7 · [`bedroom`](pages/zh/tags.md#tag-bedroom) 7 · [`night-street`](pages/zh/tags.md#tag-night-street) 7 · [`cartoon`](pages/zh/tags.md#tag-cartoon) 7 · [`golden-light`](pages/zh/tags.md#tag-golden-light) 7 · [`cherry-blossom`](pages/zh/tags.md#tag-cherry-blossom) 7 · [`mascot`](pages/zh/tags.md#tag-mascot) 7 · [`rooftop`](pages/zh/tags.md#tag-rooftop) 7 · [`realistic`](pages/zh/tags.md#tag-realistic) 7 · [`interior`](pages/zh/tags.md#tag-interior) 7 · [`reference-identity`](pages/zh/tags.md#tag-reference-identity) 7 · [`urban`](pages/zh/tags.md#tag-urban) 7 · [`text-render`](pages/zh/tags.md#tag-text-render) 7 · [`shallow-depth-of-field`](pages/zh/tags.md#tag-shallow-depth-of-field) 7 · [`animation`](pages/zh/tags.md#tag-animation) 7 · [`snow`](pages/zh/tags.md#tag-snow) 7 · [`day-in-the-life`](pages/zh/tags.md#tag-day-in-the-life) 7 · [`morning-routine`](pages/zh/tags.md#tag-morning-routine) 7 · [`nature`](pages/zh/tags.md#tag-nature) 7 · [`paper-craft`](pages/zh/tags.md#tag-paper-craft) 7 · [`papercraft`](pages/zh/tags.md#tag-papercraft) 7 · [`cute`](pages/zh/tags.md#tag-cute) 7 · [`identity-consistency`](pages/zh/tags.md#tag-identity-consistency) 7 · [`social-media`](pages/zh/tags.md#tag-social-media) 7 · [`tilt-shift`](pages/zh/tags.md#tag-tilt-shift) 7 · [`photo-edit`](pages/zh/tags.md#tag-photo-edit) 7 · [`chinese-typography`](pages/zh/tags.md#tag-chinese-typography) 7 · [`sprite-sheet`](pages/zh/tags.md#tag-sprite-sheet) 7 · [`timelapse`](pages/zh/tags.md#tag-timelapse) 6 · [`japanese-dialogue`](pages/zh/tags.md#tag-japanese-dialogue) 6 · [`product-reveal`](pages/zh/tags.md#tag-product-reveal) 6 · [`selfie-vlog`](pages/zh/tags.md#tag-selfie-vlog) 6 · [`montage`](pages/zh/tags.md#tag-montage) 6 · [`k-pop`](pages/zh/tags.md#tag-k-pop) 6 · [`forest`](pages/zh/tags.md#tag-forest) 6 · [`match-cut`](pages/zh/tags.md#tag-match-cut) 6 · [`camera-tracking`](pages/zh/tags.md#tag-camera-tracking) 6 · [`educational`](pages/zh/tags.md#tag-educational) 6 · [`timed-scenes`](pages/zh/tags.md#tag-timed-scenes) 6 · [`botanical`](pages/zh/tags.md#tag-botanical) 6 · [`paris`](pages/zh/tags.md#tag-paris) 6 · [`sfx`](pages/zh/tags.md#tag-sfx) 6 · [`retro`](pages/zh/tags.md#tag-retro) 6 · [`night-city`](pages/zh/tags.md#tag-night-city) 6 · [`camcorder`](pages/zh/tags.md#tag-camcorder) 6 · [`lo-fi`](pages/zh/tags.md#tag-lo-fi) 6 · [`fight-choreography`](pages/zh/tags.md#tag-fight-choreography) 6 · [`seaside`](pages/zh/tags.md#tag-seaside) 6 · [`photoreal`](pages/zh/tags.md#tag-photoreal) 6 · [`mirror-selfie`](pages/zh/tags.md#tag-mirror-selfie) 6 · [`wide-angle`](pages/zh/tags.md#tag-wide-angle) 6 · [`gameplay`](pages/zh/tags.md#tag-gameplay) 6 · [`kitchen`](pages/zh/tags.md#tag-kitchen) 6 · [`embroidery`](pages/zh/tags.md#tag-embroidery) 6 · [`restaurant`](pages/zh/tags.md#tag-restaurant) 6 · [`crowd`](pages/zh/tags.md#tag-crowd) 6 · [`backlight`](pages/zh/tags.md#tag-backlight) 6 · [`japanese-typography`](pages/zh/tags.md#tag-japanese-typography) 6 · [`screenshot`](pages/zh/tags.md#tag-screenshot) 6 · [`colored-pencil`](pages/zh/tags.md#tag-colored-pencil) 6 · [`recipe`](pages/zh/tags.md#tag-recipe) 6 · [`doodles`](pages/zh/tags.md#tag-doodles) 6 · [`brand-identity`](pages/zh/tags.md#tag-brand-identity) 6 · [`concept-art`](pages/zh/tags.md#tag-concept-art) 6 · [`chiaroscuro`](pages/zh/tags.md#tag-chiaroscuro) 6 · [`expressions`](pages/zh/tags.md#tag-expressions) 6 · [`map`](pages/zh/tags.md#tag-map) 6 · [`product-render`](pages/zh/tags.md#tag-product-render) 6 · [`mockup`](pages/zh/tags.md#tag-mockup) 6 · [`limited-palette`](pages/zh/tags.md#tag-limited-palette) 6 · [`3d`](pages/zh/tags.md#tag-3d) 6 · [`labels`](pages/zh/tags.md#tag-labels) 6 · [`kids`](pages/zh/tags.md#tag-kids) 5 · [`audio-sync`](pages/zh/tags.md#tag-audio-sync) 5 · [`fps`](pages/zh/tags.md#tag-fps) 5 · [`korean-dialogue`](pages/zh/tags.md#tag-korean-dialogue) 5 · [`noir`](pages/zh/tags.md#tag-noir) 5 · [`transition`](pages/zh/tags.md#tag-transition) 5 · [`cel-shading`](pages/zh/tags.md#tag-cel-shading) 5 · [`reference-character`](pages/zh/tags.md#tag-reference-character) 5 · [`kids-education`](pages/zh/tags.md#tag-kids-education) 5 · [`time-lapse`](pages/zh/tags.md#tag-time-lapse) 5 · [`reference-video`](pages/zh/tags.md#tag-reference-video) 5 · [`storm`](pages/zh/tags.md#tag-storm) 5 · [`skateboard`](pages/zh/tags.md#tag-skateboard) 5 · [`timestamped-shots`](pages/zh/tags.md#tag-timestamped-shots) 5 · [`diegetic-sound`](pages/zh/tags.md#tag-diegetic-sound) 5 · [`timestamped`](pages/zh/tags.md#tag-timestamped) 5 · [`manga`](pages/zh/tags.md#tag-manga) 5 · [`chinese-dialogue`](pages/zh/tags.md#tag-chinese-dialogue) 5 · [`nostalgic`](pages/zh/tags.md#tag-nostalgic) 5 · [`multi-angle`](pages/zh/tags.md#tag-multi-angle) 5 · [`speed-ramp`](pages/zh/tags.md#tag-speed-ramp) 5 · [`native-audio`](pages/zh/tags.md#tag-native-audio) 5 · [`found-footage`](pages/zh/tags.md#tag-found-footage) 5 · [`physics`](pages/zh/tags.md#tag-physics) 5 · [`multi-character`](pages/zh/tags.md#tag-multi-character) 5 · [`multilingual`](pages/zh/tags.md#tag-multilingual) 5 · [`object-swap`](pages/zh/tags.md#tag-object-swap) 5 · [`live-action`](pages/zh/tags.md#tag-live-action) 5 · [`multishot`](pages/zh/tags.md#tag-multishot) 5 · [`romance`](pages/zh/tags.md#tag-romance) 5 · [`clay`](pages/zh/tags.md#tag-clay) 5 · [`zombie`](pages/zh/tags.md#tag-zombie) 5 · [`choreography`](pages/zh/tags.md#tag-choreography) 5 · [`open-world`](pages/zh/tags.md#tag-open-world) 5 · [`comparison`](pages/zh/tags.md#tag-comparison) 5 · [`negative-prompt`](pages/zh/tags.md#tag-negative-prompt) 5 · [`gym`](pages/zh/tags.md#tag-gym) 5 · [`minidv`](pages/zh/tags.md#tag-minidv) 5 · [`thriller`](pages/zh/tags.md#tag-thriller) 5 · [`painterly`](pages/zh/tags.md#tag-painterly) 5 · [`lookbook`](pages/zh/tags.md#tag-lookbook) 5 · [`football`](pages/zh/tags.md#tag-football) 5 · [`street-portrait`](pages/zh/tags.md#tag-street-portrait) 5 · [`before-after`](pages/zh/tags.md#tag-before-after) 5 · [`pose-sheet`](pages/zh/tags.md#tag-pose-sheet) 5 · [`pop-art`](pages/zh/tags.md#tag-pop-art) 5 · [`street-art`](pages/zh/tags.md#tag-street-art) 5 · [`minimal`](pages/zh/tags.md#tag-minimal) 5 · [`birthday`](pages/zh/tags.md#tag-birthday) 5 · [`floral`](pages/zh/tags.md#tag-floral) 5 · [`identity-preserve`](pages/zh/tags.md#tag-identity-preserve) 5 · [`crayon`](pages/zh/tags.md#tag-crayon) 5 · [`travel-journal`](pages/zh/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/zh/tags.md#tag-ink-sketch) 5 · [`identity-preservation`](pages/zh/tags.md#tag-identity-preservation) 5 · [`geometric`](pages/zh/tags.md#tag-geometric) 5 · [`fan-art`](pages/zh/tags.md#tag-fan-art) 5 · [`risograph`](pages/zh/tags.md#tag-risograph) 5 · [`graffiti`](pages/zh/tags.md#tag-graffiti) 5 · [`celebrity`](pages/zh/tags.md#tag-celebrity) 5 · [`sunglasses`](pages/zh/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/zh/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/zh/tags.md#tag-ffmpeg) 5 · [`halloween`](pages/zh/tags.md#tag-halloween) 4 · [`hard-cuts`](pages/zh/tags.md#tag-hard-cuts) 4 · [`subtitles`](pages/zh/tags.md#tag-subtitles) 4 · [`paper-collage`](pages/zh/tags.md#tag-paper-collage) 4 · [`continuous-shot`](pages/zh/tags.md#tag-continuous-shot) 4 · [`construction`](pages/zh/tags.md#tag-construction) 4 · [`brutalist`](pages/zh/tags.md#tag-brutalist) 4 · [`night-scene`](pages/zh/tags.md#tag-night-scene) 4 · [`convenience-store`](pages/zh/tags.md#tag-convenience-store) 4 · [`vertical-video`](pages/zh/tags.md#tag-vertical-video) 4 · [`short-film`](pages/zh/tags.md#tag-short-film) 4 · [`landing-page`](pages/zh/tags.md#tag-landing-page) 4 · [`anime-action`](pages/zh/tags.md#tag-anime-action) 4 · [`game-hud`](pages/zh/tags.md#tag-game-hud) 4 · [`fpv-drone`](pages/zh/tags.md#tag-fpv-drone) 4 · [`multi-cut`](pages/zh/tags.md#tag-multi-cut) 4 · [`volcano`](pages/zh/tags.md#tag-volcano) 4 · [`volumetric-light`](pages/zh/tags.md#tag-volumetric-light) 4 · [`gothic`](pages/zh/tags.md#tag-gothic) 4 · [`minimax-h3`](pages/zh/tags.md#tag-minimax-h3) 4 · [`seamless-loop`](pages/zh/tags.md#tag-seamless-loop) 4 · [`sitcom`](pages/zh/tags.md#tag-sitcom) 4 · [`fashion-ad`](pages/zh/tags.md#tag-fashion-ad) 4 · [`livestream`](pages/zh/tags.md#tag-livestream) 4 · [`slow motion`](pages/zh/tags.md#tag-slowmotion) 4 · [`humor`](pages/zh/tags.md#tag-humor) 4 · [`xianxia`](pages/zh/tags.md#tag-xianxia) 4 · [`moonlight`](pages/zh/tags.md#tag-moonlight) 4 · [`push-in`](pages/zh/tags.md#tag-push-in) 4 · [`static-camera`](pages/zh/tags.md#tag-static-camera) 4 · [`ambient-sound`](pages/zh/tags.md#tag-ambient-sound) 4 · [`single-shot`](pages/zh/tags.md#tag-single-shot) 4 · [`ui-design`](pages/zh/tags.md#tag-ui-design) 4 · [`camera-angle`](pages/zh/tags.md#tag-camera-angle) 4 · [`street-scene`](pages/zh/tags.md#tag-street-scene) 4 · [`emotion`](pages/zh/tags.md#tag-emotion) 4 · [`keyframes`](pages/zh/tags.md#tag-keyframes) 4 · [`claymation`](pages/zh/tags.md#tag-claymation) 4 · [`painting`](pages/zh/tags.md#tag-painting) 4 · [`phone-footage`](pages/zh/tags.md#tag-phone-footage) 4 · [`multi-turn-edit`](pages/zh/tags.md#tag-multi-turn-edit) 4 · [`classroom`](pages/zh/tags.md#tag-classroom) 4 · [`family`](pages/zh/tags.md#tag-family) 4 · [`time-freeze`](pages/zh/tags.md#tag-time-freeze) 4 · [`mecha`](pages/zh/tags.md#tag-mecha) 4 · [`giant`](pages/zh/tags.md#tag-giant) 4 · [`scale-contrast`](pages/zh/tags.md#tag-scale-contrast) 4 · [`train`](pages/zh/tags.md#tag-train) 4 · [`subway`](pages/zh/tags.md#tag-subway) 4 · [`action-comedy`](pages/zh/tags.md#tag-action-comedy) 4 · [`fog`](pages/zh/tags.md#tag-fog) 4 · [`top-down`](pages/zh/tags.md#tag-top-down) 4 · [`comic-book`](pages/zh/tags.md#tag-comic-book) 4 · [`scale`](pages/zh/tags.md#tag-scale) 4 · [`world-building`](pages/zh/tags.md#tag-world-building) 4 · [`worldbuilding`](pages/zh/tags.md#tag-worldbuilding) 4 · [`character-design`](pages/zh/tags.md#tag-character-design) 4 · [`film-photography`](pages/zh/tags.md#tag-film-photography) 4 · [`glassmorphism`](pages/zh/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/zh/tags.md#tag-self-portrait) 4 · [`parody`](pages/zh/tags.md#tag-parody) 4 · [`ms-paint`](pages/zh/tags.md#tag-ms-paint) 4 · [`vector`](pages/zh/tags.md#tag-vector) 4 · [`side-profile`](pages/zh/tags.md#tag-side-profile) 4 · [`bilingual`](pages/zh/tags.md#tag-bilingual) 4 · [`mediterranean`](pages/zh/tags.md#tag-mediterranean) 4 · [`fashion-portrait`](pages/zh/tags.md#tag-fashion-portrait) 4 · [`butterfly`](pages/zh/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/zh/tags.md#tag-candid-portrait) 4 · [`diagram`](pages/zh/tags.md#tag-diagram) 4 · [`product-photo`](pages/zh/tags.md#tag-product-photo) 4 · [`game-asset`](pages/zh/tags.md#tag-game-asset) 4 · [`billboard`](pages/zh/tags.md#tag-billboard) 4 · [`low-light`](pages/zh/tags.md#tag-low-light) 4 · [`landmarks`](pages/zh/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/zh/tags.md#tag-direct-flash) 4 · [`photobooth`](pages/zh/tags.md#tag-photobooth) 4 · [`contact-sheet`](pages/zh/tags.md#tag-contact-sheet) 4 · [`satire`](pages/zh/tags.md#tag-satire) 4 · [`cozy`](pages/zh/tags.md#tag-cozy) 4 · [`caricature`](pages/zh/tags.md#tag-caricature) 4 · [`sepia`](pages/zh/tags.md#tag-sepia) 4 · [`zodiac`](pages/zh/tags.md#tag-zodiac) 4 · [`movie-poster`](pages/zh/tags.md#tag-movie-poster) 4 · [`encyclopedia`](pages/zh/tags.md#tag-encyclopedia) 4 · [`photo-dump`](pages/zh/tags.md#tag-photo-dump) 4 · [`summer`](pages/zh/tags.md#tag-summer) 4 · [`flat-color`](pages/zh/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/zh/tags.md#tag-miniature-world) 4 · [`triptych`](pages/zh/tags.md#tag-triptych) 4 · [`children-illustration`](pages/zh/tags.md#tag-children-illustration) 4 · [`splash`](pages/zh/tags.md#tag-splash) 4 · [`color-palette`](pages/zh/tags.md#tag-color-palette) 4 · [`white-background`](pages/zh/tags.md#tag-white-background) 4 · [`grid-collage`](pages/zh/tags.md#tag-grid-collage) 4 · [`paper-texture`](pages/zh/tags.md#tag-paper-texture) 4 · [`photo-restoration`](pages/zh/tags.md#tag-photo-restoration) 4 · [`street-photo`](pages/zh/tags.md#tag-street-photo) 4 · [`photo-to-sketch`](pages/zh/tags.md#tag-photo-to-sketch) 4 · [`liquid-splash`](pages/zh/tags.md#tag-liquid-splash) 4 · [`vintage-film`](pages/zh/tags.md#tag-vintage-film) 3 · [`documentary-realism`](pages/zh/tags.md#tag-documentary-realism) 3 · [`fashion-film`](pages/zh/tags.md#tag-fashion-film) 3 · [`orbit`](pages/zh/tags.md#tag-orbit) 3 · [`omni-reference`](pages/zh/tags.md#tag-omni-reference) 3 · [`morph`](pages/zh/tags.md#tag-morph) 3 · [`emotional`](pages/zh/tags.md#tag-emotional) 3 · [`camera-push`](pages/zh/tags.md#tag-camera-push) 3 · [`street-fighter`](pages/zh/tags.md#tag-street-fighter) 3 · [`handheld-pov`](pages/zh/tags.md#tag-handheld-pov) 3 · [`sunrise`](pages/zh/tags.md#tag-sunrise) 3 · [`audio-cues`](pages/zh/tags.md#tag-audio-cues) 3 · [`motion-poster`](pages/zh/tags.md#tag-motion-poster) 3 · [`macro-shot`](pages/zh/tags.md#tag-macro-shot) 3 · [`night-market`](pages/zh/tags.md#tag-night-market) 3 · [`pets`](pages/zh/tags.md#tag-pets) 3 · [`makeup`](pages/zh/tags.md#tag-makeup) 3 · [`glass`](pages/zh/tags.md#tag-glass) 3 · [`rap`](pages/zh/tags.md#tag-rap) 3 · [`style-lock`](pages/zh/tags.md#tag-style-lock) 3 · [`2d-animation`](pages/zh/tags.md#tag-2d-animation) 3 · [`drama`](pages/zh/tags.md#tag-drama) 3 · [`sound-effects`](pages/zh/tags.md#tag-sound-effects) 3 · [`3d-typography`](pages/zh/tags.md#tag-3d-typography) 3 · [`action-thriller`](pages/zh/tags.md#tag-action-thriller) 3 · [`morph-transition`](pages/zh/tags.md#tag-morph-transition) 3 · [`lotus`](pages/zh/tags.md#tag-lotus) 3 · [`sunlight`](pages/zh/tags.md#tag-sunlight) 3 · [`matcha`](pages/zh/tags.md#tag-matcha) 3 · [`neon-city`](pages/zh/tags.md#tag-neon-city) 3 · [`anamorphic`](pages/zh/tags.md#tag-anamorphic) 3 · [`office`](pages/zh/tags.md#tag-office) 3 · [`beverage-ad`](pages/zh/tags.md#tag-beverage-ad) 3 · [`food-commercial`](pages/zh/tags.md#tag-food-commercial) 3 · [`lightning`](pages/zh/tags.md#tag-lightning) 3 · [`dashboard`](pages/zh/tags.md#tag-dashboard) 3 · [`butterflies`](pages/zh/tags.md#tag-butterflies) 3 · [`hard-cut`](pages/zh/tags.md#tag-hard-cut) 3 · [`trailer`](pages/zh/tags.md#tag-trailer) 3 · [`clouds`](pages/zh/tags.md#tag-clouds) 3 · [`ocean`](pages/zh/tags.md#tag-ocean) 3 · [`video-reference`](pages/zh/tags.md#tag-video-reference) 3 · [`split-screen`](pages/zh/tags.md#tag-split-screen) 3 · [`texture`](pages/zh/tags.md#tag-texture) 3 · [`wallpaper`](pages/zh/tags.md#tag-wallpaper) 3 · [`warehouse`](pages/zh/tags.md#tag-warehouse) 3 · [`monster`](pages/zh/tags.md#tag-monster) 3 · [`dinosaur`](pages/zh/tags.md#tag-dinosaur) 3 · [`ink`](pages/zh/tags.md#tag-ink) 3 · [`window-light`](pages/zh/tags.md#tag-window-light) 3 · [`bamboo-forest`](pages/zh/tags.md#tag-bamboo-forest) 3 · [`period`](pages/zh/tags.md#tag-period) 3 · [`medieval`](pages/zh/tags.md#tag-medieval) 3 · [`battle`](pages/zh/tags.md#tag-battle) 3 · [`felt`](pages/zh/tags.md#tag-felt) 3 · [`family-comedy`](pages/zh/tags.md#tag-family-comedy) 3 · [`toddler`](pages/zh/tags.md#tag-toddler) 3 · [`airport`](pages/zh/tags.md#tag-airport) 3 · [`pop-out`](pages/zh/tags.md#tag-pop-out) 3 · [`camera-movement`](pages/zh/tags.md#tag-camera-movement) 3 · [`timed-segments`](pages/zh/tags.md#tag-timed-segments) 3 · [`industrial`](pages/zh/tags.md#tag-industrial) 3 · [`portal`](pages/zh/tags.md#tag-portal) 3 · [`lip sync`](pages/zh/tags.md#tag-lipsync) 3 · [`korean-drama`](pages/zh/tags.md#tag-korean-drama) 3 · [`chinese-painting`](pages/zh/tags.md#tag-chinese-painting) 3 · [`stunt`](pages/zh/tags.md#tag-stunt) 3 · [`concert`](pages/zh/tags.md#tag-concert) 3 · [`shot-sequence`](pages/zh/tags.md#tag-shot-sequence) 3 · [`dv-look`](pages/zh/tags.md#tag-dv-look) 3 · [`fire`](pages/zh/tags.md#tag-fire) 3 · [`smartphone-footage`](pages/zh/tags.md#tag-smartphone-footage) 3 · [`night-rain`](pages/zh/tags.md#tag-night-rain) 3 · [`garden`](pages/zh/tags.md#tag-garden) 3 · [`water-splash`](pages/zh/tags.md#tag-water-splash) 3 · [`hanfu`](pages/zh/tags.md#tag-hanfu) 3 · [`fairy-tale`](pages/zh/tags.md#tag-fairy-tale) 3 · [`japanese-school`](pages/zh/tags.md#tag-japanese-school) 3 · [`fantasy-action`](pages/zh/tags.md#tag-fantasy-action) 3 · [`mixed-reality`](pages/zh/tags.md#tag-mixed-reality) 3 · [`jewelry`](pages/zh/tags.md#tag-jewelry) 3 · [`temple`](pages/zh/tags.md#tag-temple) 3 · [`game-art`](pages/zh/tags.md#tag-game-art) 3 · [`scroll`](pages/zh/tags.md#tag-scroll) 3 · [`skin-texture`](pages/zh/tags.md#tag-skin-texture) 3 · [`camera`](pages/zh/tags.md#tag-camera) 3 · [`smartphone`](pages/zh/tags.md#tag-smartphone) 3 · [`amigurumi`](pages/zh/tags.md#tag-amigurumi) 3 · [`fashion-illustration`](pages/zh/tags.md#tag-fashion-illustration) 3 · [`magazine-cover`](pages/zh/tags.md#tag-magazine-cover) 3 · [`key-visual`](pages/zh/tags.md#tag-key-visual) 3 · [`style-conversion`](pages/zh/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/zh/tags.md#tag-e-commerce) 3 · [`graphite`](pages/zh/tags.md#tag-graphite) 3 · [`city-map`](pages/zh/tags.md#tag-city-map) 3 · [`face-consistency`](pages/zh/tags.md#tag-face-consistency) 3 · [`cutout`](pages/zh/tags.md#tag-cutout) 3 · [`design-system`](pages/zh/tags.md#tag-design-system) 3 · [`light-mode`](pages/zh/tags.md#tag-light-mode) 3 · [`beauty-portrait`](pages/zh/tags.md#tag-beauty-portrait) 3 · [`camera-roll`](pages/zh/tags.md#tag-camera-roll) 3 · [`candlelight`](pages/zh/tags.md#tag-candlelight) 3 · [`3d-caricature`](pages/zh/tags.md#tag-3d-caricature) 3 · [`food-ad`](pages/zh/tags.md#tag-food-ad) 3 · [`calligraphy`](pages/zh/tags.md#tag-calligraphy) 3 · [`saas`](pages/zh/tags.md#tag-saas) 3 · [`comic`](pages/zh/tags.md#tag-comic) 3 · [`profile`](pages/zh/tags.md#tag-profile) 3 · [`16-9`](pages/zh/tags.md#tag-16-9) 3 · [`product-design`](pages/zh/tags.md#tag-product-design) 3 · [`expression-grid`](pages/zh/tags.md#tag-expression-grid) 3 · [`low-key`](pages/zh/tags.md#tag-low-key) 3 · [`chrome`](pages/zh/tags.md#tag-chrome) 3 · [`art-studio`](pages/zh/tags.md#tag-art-studio) 3 · [`mural`](pages/zh/tags.md#tag-mural) 3 · [`photo-collage`](pages/zh/tags.md#tag-photo-collage) 3 · [`engineering`](pages/zh/tags.md#tag-engineering) 3 · [`9-16`](pages/zh/tags.md#tag-9-16) 3 · [`dramatic-lighting`](pages/zh/tags.md#tag-dramatic-lighting) 3 · [`strawberry`](pages/zh/tags.md#tag-strawberry) 3 · [`portrait-collage`](pages/zh/tags.md#tag-portrait-collage) 3 · [`watch`](pages/zh/tags.md#tag-watch) 3 · [`campaign-poster`](pages/zh/tags.md#tag-campaign-poster) 3 · [`surreal-scale`](pages/zh/tags.md#tag-surreal-scale) 3 · [`panoramic`](pages/zh/tags.md#tag-panoramic) 3 · [`ad-poster`](pages/zh/tags.md#tag-ad-poster) 3 · [`ink-illustration`](pages/zh/tags.md#tag-ink-illustration) 3 · [`group-portrait`](pages/zh/tags.md#tag-group-portrait) 3 · [`mid-century`](pages/zh/tags.md#tag-mid-century) 3 · [`disintegration`](pages/zh/tags.md#tag-disintegration) 3 · [`polaroid`](pages/zh/tags.md#tag-polaroid) 3 · [`dessert`](pages/zh/tags.md#tag-dessert) 3 · [`palette-knife`](pages/zh/tags.md#tag-palette-knife) 3 · [`paper-cut`](pages/zh/tags.md#tag-paper-cut) 3 · [`text-layout`](pages/zh/tags.md#tag-text-layout) 3 · [`textile`](pages/zh/tags.md#tag-textile) 3 · [`ink-doodle`](pages/zh/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/zh/tags.md#tag-local-edit) 3 · [`brand-poster`](pages/zh/tags.md#tag-brand-poster) 3 · [`upscale`](pages/zh/tags.md#tag-upscale) 3 · [`color-analysis`](pages/zh/tags.md#tag-color-analysis) 3 · [`magazine`](pages/zh/tags.md#tag-magazine) 3 · [`advertisement`](pages/zh/tags.md#tag-advertisement) 3 · [`paper-cutout`](pages/zh/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/zh/tags.md#tag-memory-card) 3 · [`hard-light`](pages/zh/tags.md#tag-hard-light) 3 · [`naive-art`](pages/zh/tags.md#tag-naive-art) 3 · [`chinese-style`](pages/zh/tags.md#tag-chinese-style) 3 · [`product-mockup`](pages/zh/tags.md#tag-product-mockup) 3 · [`macro-photography`](pages/zh/tags.md#tag-macro-photography) 3 · [`phone-photo`](pages/zh/tags.md#tag-phone-photo) 3 · [`iphone-style`](pages/zh/tags.md#tag-iphone-style) 3 · [`photo-reference`](pages/zh/tags.md#tag-photo-reference) 3 · [`split-composition`](pages/zh/tags.md#tag-split-composition) 3 · [`warm-tones`](pages/zh/tags.md#tag-warm-tones) 3 · [`dark-background`](pages/zh/tags.md#tag-dark-background) 3 · [`logo-design`](pages/zh/tags.md#tag-logo-design) 3 · [`xiaohongshu`](pages/zh/tags.md#tag-xiaohongshu) 3 · [`brand`](pages/zh/tags.md#tag-brand) 3 · [`parchment`](pages/zh/tags.md#tag-parchment) 3 · [`cinematic-portrait`](pages/zh/tags.md#tag-cinematic-portrait) 3 · [`chocolate`](pages/zh/tags.md#tag-chocolate) 3 · [`soft-lighting`](pages/zh/tags.md#tag-soft-lighting) 3
 
-**[全部 2558 个标签](pages/zh/tags.md)**
+**[全部 2733 个标签](pages/zh/tags.md)**
 
 <a id="contributing"></a>
 ## 投稿

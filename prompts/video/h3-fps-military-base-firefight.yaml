@@ -1,0 +1,33 @@
+id: h3-fps-military-base-firefight
+title:
+  en: First person firefight at a night military base
+  zh: 夜间军事基地的第一人称交火
+model: MiniMax H3
+mode: text-to-video
+category: action
+tags:
+- fps
+- first-person
+- game-hud
+- military-shooter
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2083064417798025721
+  credit: Sharon Riley
+  likes: 168
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/Just_sharon7/status/2083064417798025721
+notes:
+  en: Fixes the camera at eye level in a first person player view and lists each HUD element by name, so the model draws the interface as well as the scene. Asking for authentic handheld motion and no cinematic camera moves keeps the footage reading as live gameplay.
+  zh: 将镜头固定在第一人称玩家的齐眼视角，并逐项列出HUD元素，让模型同时生成界面叠加层和场景。要求真实手持晃动并禁止电影式运镜，使画面更像实际游戏录屏。
+prompt: |
+  MiniMax H3 on
+  @Hailuo_AI
+   feels like a major step forward for AI video creation.
+
+  From cinematic storytelling and product commercials to UI mockups, game-inspired scenes, and branded content, it handles a wide range of creative workflows with impressive consistency.
+
+  POV Modern Warfare FPS Gameplay Prompt
+
+  Camera: First-person perspective at eye level with authentic handheld player movement, as if recorded directly from a modern AAA military shooter. The player carries a highly detailed assault rifle with realistic animations, visible hands, tactical gloves, dynamic reload mechanics, and weapon sway.  **Opening Action:** The video immediately begins with the player already aiming down a roadway inside a modern military base. Multiple enemy soldiers are visible in the distance near sandbags, barricades, and military vehicles. The player carefully tracks one target, making small aim corrections while maintaining ADS (aim down sights). Fire several controlled bursts immediately at the visible enemies, producing realistic muzzle flashes, shell casings ejecting, smoke, recoil, hit reactions, and dust impacts around the targets. Continue firing in multiple short bursts while adjusting aim between enemies, simulating authentic FPS gameplay rather than scripted animation.  **Movement:** After the opening firefight, lower slightly from ADS and begin advancing cautiously along the road beside concrete barriers, Hesco walls, and parked military vehicles. Frequently check left and right corners, briefly stop to reacquire targets, then raise the weapon and fire additional controlled bursts whenever enemies appear ahead. Continue pushing forward with deliberate player-controlled movement, using cover naturally and maintaining believable tactical pacing.  **Environment:** Large modern military base with guard towers, armored vehicles, shipping containers, blast barriers, damaged buildings, smoke plumes, burning debris, scattered shell casings, dust clouds, and atmospheric battlefield haze. Cool natural daylight mixed with smoke and orange firelight creates a cinematic battlefield atmosphere.  **Camera Motion:** Authentic player-controlled movement with subtle head bob, weapon sway, natural mouse-look adjustments, small left-right corrections while aiming, realistic recoil, smooth tracking of moving targets, brief pauses before shooting, and fluid forward progression. Avoid cinematic camera moves—everything should feel like genuine live gameplay captured by a skilled player.  **Visual Quality:** Ultra-photorealistic, AAA game graphics with realistic PBR materials, detailed weapon models, physically accurate lighting, volumetric smoke, dynamic particle effects, crisp textures, realistic bullet impacts, muzzle flash illumination, motion blur only during rapid movement, and high-end military shooter presentation.  **Gameplay UI:** Display a realistic modern FPS HUD inspired by games like PUBG, Battlefield, or Call of Duty (without copying exact copyrighted assets). Include:  * Central dynamic crosshair or reticle * Ammo counter with magazine and reserve ammunition * Fire mode indicator * Compass at the top * Squad/team status panel * Mini-map in the upper corner * Health bar * Tactical equipment icons (grenades, medkit) * Hit markers when bullets connect * Directional damage indicators * Kill notification feed * Objective marker in the distance * Subtle interaction prompts and realistic HUD animations  The HUD should feel polished, modern, and fully integrated into the gameplay, enhancing the illusion of authentic recorded footage from a contemporary military FPS.

@@ -1,0 +1,41 @@
+id: h3-samurai-soul-giant-battle-desert
+title:
+  en: Samurai Soul fights a colossal energy giant
+  zh: 女武士Soul与紫光巨人作战
+model: MiniMax H3
+mode: reference-to-video
+category: action
+tags:
+- character-reference
+- timed-beats
+- fight-choreography
+- speed-ramp
+source:
+  name: '@soundofdragon on X'
+  url: https://x.com/soundofdragon/status/2091922433595056536
+  credit: Zaezae
+  likes: 345
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+video: https://x.com/soundofdragon/status/2091922433595056536
+notes:
+  en: A character sheet is attached as an exact identity reference, and the prompt is split into two-second timed beats, each with its own camera direction, which keeps a fourteen-second fight readable. Pacing words such as rapid cuts, whip-pans and speed ramps set the rhythm across the whole clip.
+  zh: 提示词附带角色设定图作为身份参考，并把内容按两秒一段拆开，每段写明镜头与动作，让14秒的打斗始终清楚可读。快切、摇镜和速度斜坡等节奏词决定了整段的动感。
+prompt: |
+  Use the provided character sheet as the exact reference for female samurai Soul. Preserve her face, hair, proportions, armor, colors, katana and identity. Hyper-realistic 3D CGI, 14s, 4K, 24fps, widescreen. Extremely fast cinematic pace, rapid cuts, whip-pans, speed ramps, aggressive camera movement, intense motion blur, dramatic golden-hour lighting, realistic dust, debris and glowing purple energy.
+
+  0–2s: The destroyed mountain EXPLODES. A colossal ancient giant emerges from the dust, towering over the desert, stone-like armored body glowing with purple energy. Camera rockets from its feet to its terrifying face.
+
+  2–4s: The giant roars and swings its massive arm. Soul sprints across collapsing rocks, dodging the attack by inches. She leaps onto its arm. Fast tracking camera, flying debris.
+
+  4–6s: Soul runs vertically across the giant’s armored body, using cracks as footholds. Rapid close-ups of her feet, katana and glowing purple eyes. The giant tries to grab her.
+
+  6–8s: Soul launches from its shoulder, flips through the air and lands on its head. She raises her glowing katana. Camera rapidly circles them, revealing the enormous battlefield below.
+
+  8–10s: The giant violently shakes and attacks. Soul dashes across its head and neck, delivering multiple lightning-fast slashes. Bright purple energy trails and explosive sparks follow every strike.
+
+  10–12s: Extreme close-up. Soul grips the katana with both hands, eyes blazing purple. She charges forward at maximum speed, blade becoming engulfed in concentrated purple energy.
+
+  12–14s: FINAL STRIKE. Soul leaps above the giant and performs one massive vertical katana slash through its body. A brilliant purple energy cut tears downward. The giant splits apart in a colossal shockwave. Camera rapidly pulls back as debris, dust and purple energy engulf the desert.
+
+  Style: relentless momentum, no dead frames, fluid sword choreography, realistic physics, epic scale, cinematic Dune × Ghost of Tsushima quality.

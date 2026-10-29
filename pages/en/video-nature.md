@@ -1,6 +1,37 @@
 # Nature, travel and aerial
 
-[Back to the list](../../README.md) · All 8 entries
+[Back to the list](../../README.md) · All 11 entries
+
+<a id="seedance-woman-panda-ancient-forest"></a>
+### Woman strokes giant panda in misty ancient forest
+
+<a href="https://x.com/SyntheSarah/status/2088501362774393100"><img src="../../previews/seedance-woman-panda-ancient-forest.jpg" width="360"></a>
+
+Timed beats (0 to 4 seconds, 4 to 8, 8 to 12, 12 to 15) lay out the shots in order, and the closing block of realism terms sets the camera and grade. Naming the period and banning modern elements keeps the historical look consistent.
+
+Seedance 2.5 · Text-to-video · Source: [@SyntheSarah on X](https://x.com/SyntheSarah/status/2088501362774393100) · 259 likes on 2026-10-29
+
+[`photorealism`](tags.md#tag-photorealism) [`timed-shots`](tags.md#tag-timed-shots) [`animal-interaction`](tags.md#tag-animal-interaction) [`forest`](tags.md#tag-forest)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+15-second ultra-photorealistic cinematic video set in a completely untouched ancient forest inspired by the year 1200 AD or earlier. A beautiful young woman is the main character, wearing a simple historically inspired medieval linen dress in earthy natural tones, with long slightly messy hair and no modern accessories or makeup. She is peacefully playing with a large realistic giant panda deep inside the ancient forest.
+
+The forest feels completely natural and untouched: enormous centuries-old trees, thick moss, wild ferns, hanging vines, small streams, soft mist, fallen leaves, natural rocks and subtle morning sunlight filtering through the dense canopy. No buildings, roads, modern objects or artificial elements.
+
+0–4 sec: Wide cinematic shot as the woman walks slowly through the misty forest and notices the panda sitting near an old moss-covered tree. The panda looks at her naturally and curiously.
+
+4–8 sec: Medium handheld shot as she gently approaches and sits beside the panda. She smiles naturally and carefully strokes its thick fur. The panda responds playfully, moving closer to her.
+
+8–12 sec: Close-up of the woman's genuine expression and the panda's highly detailed face and fur. Natural breathing, blinking, subtle facial movements, realistic hair movement from the forest breeze.
+
+12–15 sec: Cinematic wide shot as the woman and panda playfully walk deeper into the ancient forest together while sunlight breaks through the trees and mist floats around them.
+
+Extremely realistic human anatomy, realistic skin texture, individual hair strands, physically accurate panda fur, natural animal behavior, realistic cloth physics, subtle environmental movement, authentic atmospheric perspective, natural daylight, soft volumetric light, realistic shadows, cinematic depth of field, slight handheld camera movement, documentary-style realism, shot on a high-end cinema camera, 4K detail, natural color grading, no fantasy look, no CGI appearance, no artificial beauty filter, no modern elements, no text, no watermark.
+```
+
+</details>
 
 <a id="h3-marina-boat-dolphin-encounter-travel-documentary"></a>
 ### Traveler boards boat and spots dolphins
@@ -17,6 +48,67 @@ MiniMax H3 · Text-to-video · Source: [@nawalsehar on X](https://x.com/nawalseh
 
 ```text
 A young Western female traveler in her mid-20s walks naturally along a wooden marina dock toward a small white sightseeing boat. She wears a light blue windbreaker, white shirt, dark trousers, comfortable sneakers, sunglasses, a properly fitted life jacket, and a small crossbody bag. She carefully steps from the dock onto the gently rocking boat while holding the handrail, naturally shifting her weight as the boat responds to her movement. She walks toward the rear passenger bench, sits down, adjusts her position, and looks toward the open water. The boat engine starts with a realistic low rumble and gradually leaves the marina, creating a small bow wave and narrow wake. As the boat moves into open water, she notices movement nearby, looks surprised, and naturally says, "Wait... are those dolphins?" Two dolphins surface several meters beside the moving boat, swimming parallel at a safe distance with realistic tail propulsion, surfacing, diving, breathing, and water displacement. She picks up her phone with both hands and records them while smiling with genuine excitement. One dolphin briefly surfaces near the rear side of the boat, exhales through its blowhole, creates a small burst of mist and droplets, then dives beneath the water and leaves expanding ripples behind. She lowers her phone and says, "That is incredible." Ultra-photorealistic marine wildlife travel documentary, cinematic realism, natural human behavior, realistic walking and sitting biomechanics, physically accurate boat buoyancy and acceleration, authentic ocean waves and wake, realistic dolphin anatomy and swimming behavior, natural water reflections and refraction, accurate English lip synchronization, bright neutral daytime lighting, realistic coastal wind, immersive marina and ocean ambience, smooth documentary camera movement, continuous visual consistency, seamless storytelling from walking to boarding, departure, dolphin encounter, recording, and final reaction, no narration, no CGI appearance, no plastic skin, no robotic movement, no exaggerated dolphin jumps, no impossible water behavior, no sudden camera transitions, no text overlays, logos, or watermarks.
+```
+
+</details>
+
+<a id="h3-lotus-pond-upward-pan-tree-canopy"></a>
+### Upward view of lotus pond beneath tree canopy
+
+<a href="https://x.com/GeekCatX/status/2096937966434459885"><img src="../../previews/h3-lotus-pond-upward-pan-tree-canopy.jpg" width="360"></a>
+
+The reference image fixes the low upward framing and palette, and the prompt holds the shot nearly still for six seconds before a slow, even pan right. Plant movement is described apart from the camera move, so leaves and flowers keep swaying while the view travels.
+
+MiniMax H3 · Image-to-video · Source: [@GeekCatX on X](https://x.com/GeekCatX/status/2096937966434459885) · 87 likes on 2026-10-29
+
+[`lotus`](tags.md#tag-lotus) [`botanical`](tags.md#tag-botanical) [`camera-pan`](tags.md#tag-camera-pan) [`sunlight`](tags.md#tag-sunlight)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+参考图片：
+Vertical 40:71 composition, approximately 9:16, filling the frame. An extremely low, wide-angle view from among slender green lotus stems, looking upward beneath the leaves toward a branching tree canopy and clear cyan-blue sky. Large round lotus leaves have gently rippled edges, sharply visible radial veins and translucent yellow-green undersides. The closest leaf is cropped across the upper-left corner; prominent leaves occupy the middle-left and middle-right. An open pink lotus is seen from below at mid-left, with two prominent open pink blossoms at lower-right and smaller flowers among layered leaves below. The petals grade from pale pink to rose, with warm yellow-orange tones underneath. A thick, dark, rough-barked tree trunk rises from the lower-right toward the center, dividing into twisting branches and fine green foliage overhead. Bright overhead daylight backlights the leaves, with a small white sun highlight near the foliage. Deep green shadows, vivid lime and emerald foliage, pink flowers and saturated blue sky. Photographic botanical detail, with readable textures in both foreground leaves and distant branches. No lettering, overlays or borders.
+
+图生视频提示
+
+Use the reference image as the initial visual state.
+
+Preserve the low upward viewpoint, lotus leaf and flower shapes, slender stems, rough tree bark, detailed foliage, vivid green-pink-blue palette and bright daylight backlighting.
+
+For roughly the first six seconds, hold the composition almost still with only minimal smooth drift.
+
+Then gradually pan the view to the right at a slow, even pace, so the main trunk and background branches slide toward the left edge and more lotus flowers and leaves enter from the right. Keep looking upward throughout.
+
+The large leaves gently tilt back and forth, their rims fluttering subtly as the long stems flex. The already-open flowers sway lightly on their stems, remaining open.
+
+Moving leaves intermittently reveal and conceal a small white sun highlight, producing brief soft glints.
+
+By the end, the original trunk is near the left edge, pink flowers and overlapping leaves fill the lower and right areas, and blue sky remains framed by branches overhead. The rightward view change and gentle plant movement are still continuing at cutoff.
+```
+
+</details>
+
+<a id="h3-greenhouse-flower-opens-outside-in"></a>
+### Greenhouse bud opens petal by petal under lamp
+
+<a href="https://x.com/GlennHasABeard/status/2101008623555997920"><img src="../../previews/h3-greenhouse-flower-opens-outside-in.jpg" width="360"></a>
+
+Restricting motion to one subject with a clear order (outside in, one ring at a time) gives the model a single readable change. A locked camera at pot height keeps the rest of the greenhouse still.
+
+MiniMax H3 · Text-to-video · Source: [@GlennHasABeard on X](https://x.com/GlennHasABeard/status/2101008623555997920) · 42 likes on 2026-10-29
+
+[`flower-bloom`](tags.md#tag-flower-bloom) [`locked-camera`](tags.md#tag-locked-camera) [`greenhouse`](tags.md#tag-greenhouse) [`rain`](tags.md#tag-rain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Minimax H3, open weights, generated locally. One lamp, one flower, rain on the glass.
+
+Prompt: "the petals open one ring at a time from the outside in"
+
+Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Topaz to 4K.
+
+"No other plant moves" is the sentence that kept the greenhouse asleep. One thing opening is a story. Everything opening is a screensaver.
 ```
 
 </details>

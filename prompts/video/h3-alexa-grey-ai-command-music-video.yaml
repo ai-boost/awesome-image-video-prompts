@@ -1,0 +1,45 @@
+id: h3-alexa-grey-ai-command-music-video
+title:
+  en: Alexa Grey performs in neon AI command center
+  zh: Alexa Grey在霓虹AI指挥中心中演唱
+model: MiniMax H3
+mode: text-to-video
+category: music-dance
+tags:
+- music-video
+- lip-sync
+- holographic-ui
+- neon
+source:
+  name: '@MonetizationDon on X'
+  url: https://x.com/MonetizationDon/status/2085695306402840816
+  credit: LAPTOP LIFESTYLE BLOGGER
+  likes: 125
+  captured: '2026-10-29'
+  posted: '2026-08-07'
+video: https://x.com/MonetizationDon/status/2085695306402840816
+notes:
+  en: The 30 seconds are split into timed sections, each tied to a lyric beat and a set of motion graphics, so the model keeps one story across the switch from R&B to rap. A fixed visual style line and a dense camera vocabulary keep the look consistent, and the explicit performance cue drives the lip sync.
+  zh: 把30秒拆成带时间码的段落，每段对应一段歌词和一组界面动效，让模型在从R&B切换到说唱时保持同一个故事。固定的视觉风格描述和密集的镜头词保证画面统一，明确的演唱指令则驱动口型同步。
+prompt: |
+  30-second cinematic music video
+
+  0:00–0:15: Alexa Grey performs a soulful English R&B song about Higgsfield bringing together the world's most powerful AI models, empowering creators to turn ideas into reality. Smooth vocals, emotional delivery, cinematic performance, perfect lip sync.
+
+  0:15–0:30: The beat switches into an energetic rap. Alexa celebrates the creative power of Seedance 2.5, Kling AI, MiniMax H3, Higgsfield Soul 2, and the Higgsfield Super Computer, with every model introduced through premium editorial motion graphics and holographic UI.
+
+  Visual Style
+  Bright futuristic AI command center, luxury cyberpunk aesthetic, glossy white architecture with neon purple, magenta, cyan, and gold accents, massive holographic displays, floating interfaces, reflective floors, volumetric lighting, luxury fashion styling, cinematic color grading, premium commercial quality.
+
+  Camera
+  Extreme close-ups, drone establishing shots, orbit shots, handheld performance shots, dolly tracking, crane shots, 360° rotations, whip pans, slow-motion hero shots, seamless match cuts, dynamic transitions synchronized to the beat.
+
+  On-screen Editorial Pop-ups
+  • SEEDANCE 2.5 — 30-second video • Multi-reference • Interactive Editing
+  • KLING AI — Realistic Motion • Cinematic Camera • Physics
+  • MINIMAX H3 — AI Music • Vocals • Lyric Generation
+  • HIGGSFIELD SOUL 2 — Character Performance • Emotion • Cinematic Expressions
+  • HIGGSFIELD SUPER COMPUTER — Powering the Next Generation of AI Creativity
+  As each model appears, the environment transforms to demonstrate its strengths. Finish with Alexa standing inside the glowing Super Computer core while every AI model orbits around her as holograms. End with the tagline:
+
+  "One Platform. Every Creator. Infinite Possibilities."

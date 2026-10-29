@@ -1,0 +1,35 @@
+id: h3-moonlit-cloud-palace-back-view
+title:
+  en: Robed figure gazes at moonlit cloud palace
+  zh: 白衣人立于月下云宫前
+model: MiniMax H3
+mode: image-to-video
+category: scifi-fantasy
+tags:
+- xianxia
+- moonlight
+- back-view
+- push-in
+source:
+  name: '@Stellakjbk on X'
+  url: https://x.com/Stellakjbk/status/2085040940196958664
+  credit: 九尾狐-FoxFairy🦊
+  likes: 123
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+video: https://x.com/Stellakjbk/status/2085040940196958664
+notes:
+  en: The subject is fixed as a still back view, and the negative prompt bans turning and walking so the motion goes to the environment. The slow push-in with the original composition held stable, plus drifting clouds, swaying pine and lantern light, gives the scene its movement.
+  zh: 人物固定为静止的背影，负面提示同时禁止转身和行走，让动态集中在环境上。镜头缓慢推进并保持原画构图稳定，配合流动的云海、摇曳的松枝和灯笼光，形成画面动感。
+prompt: |
+  The camera slowly pushes forward, maintaining the original composition's stability. The sea of clouds and thin mist flow gently, the waterfall cascades naturally, starlight flickers faintly; the woman stands still with her back to the camera, her long hair and sleeves swaying lightly in the wind; pine branches sway gently, the lantern and its reflection on the ground shimmer slightly. An ethereal xianxia aesthetic, cold blue moonlight, cinematic lighting and shadows, with delicate and natural movements.
+  Negative prompt: Character turning around, walking, deformation; architectural distortion, moon displacement, camera shake, rapid zooming, flickering frame skips, screen melting.
+
+  Xianxia cinematic feel, the camera slowly pans, original composition stable. The sea of clouds and thin mist flow slowly, the palace bathed in golden morning light; character's back view stands still, cloak and hem swaying lightly; reflections on the bridge surface move subtly, pine trees sway gently, light motes float. Grand and sacred, with natural and delicate dynamics, 4 seconds.
+  Negative prompt: Character turning around, character walking, character deformation, architectural deformation, camera shake, rapid movement, flickering frame skips, screen breakdown.
+
+  Xianxia cinematic feel, the camera slowly pushes forward, original composition stable. The sea of clouds flows slowly, morning light spills down; character's back view stands still, hem and hair strands moving lightly; pine branches sway subtly, birds glide slowly past. Ethereal and beautiful, with natural dynamics, 4 seconds.
+  Negative prompt: Character turning around, character walking, character deformation, architectural deformation, camera shake, rapid movement, flickering frame skips, screen breakdown.
+
+  Xianxia cinematic feel, the camera slowly pushes forward, original composition stable. The sea of clouds and thin mist flow slowly, morning light spills over the palace and steps; character's back view stands still, cloak swaying lightly; the waterfall flows naturally, the floating island hovers subtly. Grand and ethereal, with delicate dynamics, 4 seconds.
+  Negative prompt: Character turning around, character walking, character deformation, architectural deformation, camera shake, rapid movement, floating island drifting chaotically, flickering frame skips, screen breakdown.

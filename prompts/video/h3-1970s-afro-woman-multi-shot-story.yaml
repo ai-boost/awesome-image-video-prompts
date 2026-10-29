@@ -1,0 +1,82 @@
+id: h3-1970s-afro-woman-multi-shot-story
+title:
+  en: Close-up of woman with afro in warm bokeh
+  zh: 暖色虚化灯光下的非裔女性特写
+model: MiniMax H3
+mode: image-to-video
+category: cinematic
+tags:
+- multi-shot
+- 1970s
+- portrait
+- voice-over
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2110604934039454000
+  credit: Calira
+  likes: 112
+  captured: '2026-10-29'
+  posted: '2026-10-15'
+video: https://x.com/CaliraVal/status/2110604934039454000
+notes:
+  en: Each shot pairs its own image prompt with a motion prompt and a timed beat, so the same 1970s look carries across cuts. Voice-over lines and a funk score are written into every shot to set pacing and mood.
+  zh: 每个镜头都分别写了画面提示词和运动提示词，并标明时间段，让同一种 1970 年代造型在各镜头间保持一致。每段都附带旁白和放克配乐描述，用来控制节奏与情绪。
+prompt: |
+  A stylish Black woman sitting in the back seat of a vintage 1970s car, wearing sophisticated retro clothing and gold accessories. She opens a small red handbag on her lap. Classic New York City streets and vintage buildings are visible through the car window. Medium shot, eye-level camera, realistic vintage car interior, soft natural daylight, subtle background motion blur, muted retro colors, Kodak-style film grain, cinematic storytelling, photorealistic.
+
+  Video Motion Prompt:
+  The camera remains fixed inside the car as the woman naturally opens the red handbag. She briefly looks down at the bag with concentration, then looks forward. The car moves gently through the city, with passing buildings visible through the window.
+
+  Voice-over:
+  “In the 1970s, New York streets were my track. I was a young woman running.”
+
+  Audio:
+  Vintage funk music continues softly beneath the female narration.
+
+  ---
+
+  Shot 3 (9–13s)
+
+  Image Prompt:
+  A confident Black woman carrying a small red handbag while walking alone through a vintage parking lot in 1970s New York. Classic vintage cars are parked in the background. Strong sunlight creates dramatic geometric shadows across the concrete ground. She wears elegant retro street fashion with an upright, determined posture. Wide shot, high-angle camera perspective, deep depth of field, warm analog film tones, high-contrast lighting, subtle film grain, authentic 1970s cinematic aesthetic, photorealistic.
+
+  Video Motion Prompt:
+  The woman walks steadily and confidently across the parking lot, carrying the red handbag at her side. The camera remains fixed at an elevated angle. Her hair and clothing move subtly in the breeze as sunlight casts strong geometric shadows across the scene.
+
+  Voice-over:
+  “Against the tide, people stared, whispered, ‘What’s she doing out here?’”
+
+  Audio:
+  Vintage funk music continues with subtle ambient city and parking-lot sounds.
+
+  ---
+
+  Shot 4 (13–16s)
+
+  Image Prompt:
+  A powerful Black woman wearing a vintage gold athletic tank top, running directly toward the camera on a busy 1970s New York City street. She has a determined expression, natural athletic movement, and a strong physical presence. The background features pedestrians, classic cars, storefronts, and vintage urban architecture, softly blurred with shallow depth of field. Medium shot, eye-level camera, warm sunlight, golden highlights, cinematic 1970s film aesthetic, analog grain, rich warm colors, photorealistic.
+
+  Video Motion Prompt:
+  The woman runs directly toward the camera with powerful, determined strides. Her hair moves naturally with each step, and her clothing responds realistically to her movement. Background pedestrians and street activity remain softly blurred. She keeps her eyes focused forward without slowing down.
+
+  Voice-over:
+  “But I kept going.”
+
+  Audio:
+  The vintage funk rhythm becomes slightly more energetic.
+
+  ---
+
+  Shot 5 (16–20s)
+
+  Image Prompt:
+  Two confident Black women standing side by side on an outdoor tennis court, wearing stylish 1970s-inspired floral athletic outfits and holding classic tennis rackets. They stand proudly, representing friendship, solidarity, and mutual support. Chain-link fences and large red-brick urban buildings characteristic of 1970s New York fill the background. Low-angle wide shot, strong upright posture, deep depth of field, bright natural sunlight, warm vintage film tones, subtle analog grain, rich earthy colors, authentic retro sports fashion, cinematic composition, photorealistic.
+
+  Video Motion Prompt:
+  Both women stand confidently side by side, subtly adjusting their posture and exchanging a brief supportive glance. A gentle breeze moves their hair and clothing naturally. They hold their tennis rackets throughout the scene as warm sunlight highlights their faces. The camera remains fixed at a low angle, emphasizing their confidence and presence.
+
+  Voice-over:
+  “For myself. For my sisters. For our future.”
+
+  Audio:
+  Vintage funk music builds toward a powerful cinematic ending.

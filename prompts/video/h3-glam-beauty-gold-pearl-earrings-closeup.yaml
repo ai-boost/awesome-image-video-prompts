@@ -1,0 +1,27 @@
+id: h3-glam-beauty-gold-pearl-earrings-closeup
+title:
+  en: Glam beauty close-up with gold pearl earrings
+  zh: 金色珍珠耳环的精致美妆特写
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- beauty
+- makeup
+- fashion
+- portrait
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2113991384512299099
+  credit: Talia
+  likes: 171
+  captured: '2026-10-29'
+  posted: '2026-10-24'
+video: https://x.com/TaliaAariz/status/2113991384512299099
+notes:
+  en: The prompt opens with a full appearance list covering skin, eyes, makeup and blazer, then gives a beat-by-beat movement sequence plus a camera and lighting spec. Restating the same appearance details keeps the face consistent through the head turns.
+  zh: 提示词先用完整的外观清单描述肤色、眼妆、妆容和西装，再按时间顺序写动作，并附上镜头和光线规格。在转头过程中重复同样的外观细节，有助于保持人脸一致。
+prompt: |
+  Vertical 9:16 beauty close-up video, 13 seconds. A young woman with olive skin, green eyes, thick brushed-up brows and a sleek dark hair bun poses against a soft light-gray studio backdrop. Glam makeup: warm peach-bronze smoky eyeshadow, defined lashes, bold pink-coral blush swept high on the cheekbones, glossy rose-pink lips, and a luminous glowing complexion. She wears ornate gold statement earrings with baroque pearl drops and a cream-white tailored blazer.
+  Movement: the shot opens on a tight face close-up, then she slowly turns her head left and right, showing off the earrings, blush and lips. She gently touches her jaw and earring, flutters her eyes, and ends in a side profile. Smooth, slow, confident glamour poses.
+  Camera: static handheld-style close-up at eye level, shallow depth of field, subtle push-in. Lighting: soft, bright beauty-dish light with gentle highlights on the cheeks and lips, clean studio look. Style: high-end makeup tutorial or fashion editorial, glossy and polished, sharp skin texture, 4K, 30 fps.

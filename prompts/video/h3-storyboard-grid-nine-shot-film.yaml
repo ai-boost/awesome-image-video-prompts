@@ -1,0 +1,28 @@
+id: h3-storyboard-grid-nine-shot-film
+title:
+  en: Two boys with a bicycle overlooking a night city
+  zh: 两个男孩与自行车俯瞰夜色中的城市
+model: MiniMax H3
+mode: reference-to-video
+category: anime
+tags:
+- storyboard
+- multi-shot
+- anime
+- trailer
+source:
+  name: '@magnific on X'
+  url: https://x.com/magnific/status/2090508187875356957
+  credit: Magnific
+  likes: 143
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+video: https://x.com/magnific/status/2090508187875356957
+notes:
+  en: The storyboard image is passed as a reference that sets shot order and approximate composition, while the prompt forbids copying its grid, panel borders or split-screen layout. Stating the shot count, the cut style and the length of each shot keeps the output a single continuous film rather than a collage.
+  zh: 分镜图作为参考输入，只用于确定镜头顺序和大致构图，同时明确禁止复刻网格、边框、拼贴或分屏。写明镜头数量、硬切方式和每个镜头的时长，让输出成为一段连续的完整影片。
+prompt: |
+  @Image
+   1 is a nine-panel storyboard grid. Read it left to right, top to bottom. It defines shot order and approximate composition only. Do not reproduce the grid itself: no panel borders, no black gutters, no split screen, no collage, no letterboxing. The output is one continuous single-frame film.
+
+  Nine shots, hard cut between each, roughly 1.5 seconds per shot, no dissolves and no fades.

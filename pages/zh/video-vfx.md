@@ -1,6 +1,6 @@
 # 特效与变身转场
 
-[返回目录](../../README_zh.md) · 全部 69 条
+[返回目录](../../README_zh.md) · 全部 82 条
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### 巨型女孩跪在东京街口俯身触碰出租车
@@ -127,6 +127,25 @@ Hyper-realistic miniature luxury farmhouse construction site at the very first s
 
 </details>
 
+<a id="h3-police-officer-scooby-doo-haunted-hallway"></a>
+### 真人走廊画面改成70年代卡通风格
+
+<a href="https://x.com/thefinnmckenty/status/2102140381001617683"><img src="../../previews/h3-police-officer-scooby-doo-haunted-hallway.jpg" width="360"></a>
+
+将源视频与 GPT Image 重绘的首帧一同作为参考，模型能锁定构图和目标画风。提示词只要求保留参考画面的布局并替换风格与道具，因此人物走位和机位都沿用真实素材。
+
+MiniMax H3 · 参考生视频 · 出处: [@thefinnmckenty on X](https://x.com/thefinnmckenty/status/2102140381001617683) · 673 赞，统计于 2026-10-29
+
+[`style-transfer`](tags.md#tag-style-transfer) [`reference-video`](tags.md#tag-reference-video) [`cartoon`](tags.md#tag-cartoon) [`haunted-house`](tags.md#tag-haunted-house)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use this image as reference for overall composition, and create a new image in the style of a vintage 1970s animated cartoon like Scooby Doo. In the new image, a police officer is walking down the hallway of a dusty haunted house with skulls, bones, spiderwebs, and other appropriate objects replacing the ones in the reference image.
+```
+
+</details>
+
 <a id="omni-embroidery-owl-logo-timelapse"></a>
 ### 微距延时拍摄刺绣缝制猫头鹰标志
 
@@ -149,6 +168,55 @@ raising into dimensional embroidered texture, until the full logo is
 complete. Camera holds steady, slow satisfying timelapse pace. Soft
 natural side light, shallow depth of field, visible fabric fibers and
 realistic thread sheen. No hands, thread moves on its own. One shot no scene change.”
+```
+
+</details>
+
+<a id="h3-white-model-cat-motion-transfer"></a>
+### 白色泥塑猫复刻街头猫的动作
+
+<a href="https://x.com/GeekCatX/status/2102984305924559272"><img src="../../previews/h3-white-model-cat-motion-transfer.jpg" width="360"></a>
+
+上传的参考视频是唯一动作来源，提示词将镜头、节奏和原始音频都锁定到它。用无缝哑光雕塑替换毛发、眼睛和颜色，背景为纯色影棚，并明确禁止关节和玩偶质感。
+
+MiniMax H3 · 视频编辑 · 出处: [@GeekCatX on X](https://x.com/GeekCatX/status/2102984305924559272) · 598 赞，统计于 2026-10-29
+
+[`white-model`](tags.md#tag-white-model) [`motion-transfer`](tags.md#tag-motion-transfer) [`reference-video`](tags.md#tag-reference-video) [`cat`](tags.md#tag-cat)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Please use the reference video <Video 1> I uploaded as the sole source of motion, converting the [Main Subject] into a 3D white model that perfectly replicates the position, actions, rhythm beats, motion trajectories, and camera compositions of every subject in the original video.
+
+[White Model Appearance]
+The white model is an untextured base sculptural model in 3D animation production, resembling a matte light gray-white (close to #E6E6E6) one-piece molded clay sculpture:
+- Organic, complete, continuous form: Surface is smooth and seamless, with natural transitions between body parts, and joint locations indicated only through natural anatomical forms, without drawing segmentation lines;
+- Remove surface details: Eyes, facial features, hair, feathers, scales, clothing, patterns, colors, textures;
+- Retain the form itself: The subject's original contours, proportions, posture, and muscle undulations, recognizable at a glance as what subject it is, which breed or body type;
+- The number, types, and sizes of subjects correspond one-to-one with the original video.
+
+[Handling Different Subjects] (Apply only to types actually present in the footage)
+- Humans: Smooth humanoid sculptures, faceless, hairless, unclothed, gender-neutral, retaining natural shoulder-neck, waist-back, and limb lines;
+- Cats, dogs, and other furry animals: Retain the outer contour volume shaped by fur, removing only fur texture, making the animal look like a rounded, soft sculpture rather than shaved bald; Shapes of ears, tails, muzzles, and paws remain natural;
+- Birds: Wings and tail feathers as a single soft sculptural form, with shapes in extended and folded states matching the original video;
+- Fish, snakes, reptiles: Body as a continuous, supple curved surface, bending naturally during movement;
+- Cartoon characters: Retain original exaggerated proportions, using the same organic sculptural texture;
+- Props: Retain outer shapes, using the same material.
+
+[Motion Requirements]
+- Pose, orientation, center of gravity in every frame, as well as positions of limbs, tails, wings, and heads, match the exact moment in the original video;
+- Preserve the flexibility and lifelike quality of motions in the original video: Spinal curvature, body extension and contraction, landing cushioning, tail whipping, muscle compression deformations all naturally fluid;
+- Rhythm beats coincide exactly with the original video, without adding motions, omitting motions, or altering amplitudes;
+- Positions, movement paths, and speeds of each subject, as well as contact, pulling, and occlusion relationships between subjects, match the original video.
+
+[Camera and Frame]
+Camera positions, shot scales, lens movements, and compositions match the original video frame by frame; Aspect ratio, duration, and frame rate identical to the original video. Background is a seamless neutral light gray studio, lit with soft, even studio photography lighting, retaining only faint contact shadows beneath the subjects.
+
+[Audio Requirements]
+Fully retain the original audio from the reference video (music, voice, animal sounds, effects, ambient noise), without replacement or regeneration, strictly synced with the visuals, and matching duration.
+
+[Prohibitions]
+No mechanical joints, ball joints, splice seams, segmented structures, screws, hinges, metallic or plastic sensations; Nor any robotic, puppet, doll, toy, or low-polygon feel; Motions must not be rigid or like independent parts rotating; No eyes, facial features, hair textures, clothing, colors, text; Do not add or remove subjects, nor alter motions, speeds, or camera movements.
 ```
 
 </details>
@@ -324,6 +392,27 @@ The final video should feel cute, educational, memorable, calming, and exception
 
 </details>
 
+<a id="h3-laundromat-crayon-doodle-night-sky"></a>
+### 自助洗衣房变成蜡笔涂鸦夜空
+
+<a href="https://x.com/ponyodong/status/2093956013338849386"><img src="../../previews/h3-laundromat-crayon-doodle-night-sky.jpg" width="360"></a>
+
+将镜头设定为 15 秒 16:9 手持手机拍摄的真实画面，蜡笔线条叠加其上，因此涂鸦会跟随镜头抖动并贴合场景。各个变形按顺序依次串联，为模型提供清晰的节拍。
+
+MiniMax H3 · 文生视频 · 出处: [@ponyodong on X](https://x.com/ponyodong/status/2093956013338849386) · 419 赞，统计于 2026-10-29
+
+[`crayon-doodle`](tags.md#tag-crayon-doodle) [`hand-drawn-overlay`](tags.md#tag-hand-drawn-overlay) [`handheld`](tags.md#tag-handheld) [`transformation`](tags.md#tag-transformation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+15-second 16:9 landscape short film, late-night self-service laundromat, real footage overlaid with hand-drawn glowing animation of crayon-textured jittery lines, shot handheld on a phone. Fingertip trailing a strand of purple thread → purple crayon jellyfish → scurrying into the laundry rack, turning into a hand-drawn sock → hand-drawn sock bouncing and colliding with a real sock, transforming into a purple-blue meteor → sliding into the washing machine, becoming a light blue little fish → turning into a light blue little train, touching the vending machine button → becoming a clothespin robot, purple and light blue hand-drawn patterns spreading everywhere. The whole laundromat turns into a night sky doodle, the washing machine's round window morphing into a twinkling constellation window. Finally, a hand-drawn sock falls into the laundry basket.
+
+Sources: MiniMax H3 release
+```
+
+</details>
+
 <a id="h3-quote-typography-darkness-to-light"></a>
 ### 从黑暗到光明的名言文字动画
 
@@ -392,6 +481,44 @@ Simply replace [LANDMARK]:✨
 
 </details>
 
+<a id="h3-golden-peacock-transformation-hall"></a>
+### 金色孔雀从光中成形于宏伟大厅
+
+<a href="https://x.com/noorlewisx/status/2110962744841408937"><img src="../../previews/h3-golden-peacock-transformation-hall.jpg" width="360"></a>
+
+提示词按时间顺序写成一连串镜头节拍：开场低机位、白光闪现、金色线框笼、身体成形、尾羽展开、头部浮现，最后是主体定格。结尾用光照与质感标签（体积光、虹彩羽毛、8K）锁定整体画面风格。
+
+MiniMax H3 · 文生视频 · 出处: [@noorlewisx on X](https://x.com/noorlewisx/status/2110962744841408937) · 202 赞，统计于 2026-10-29
+
+[`peacock`](tags.md#tag-peacock) [`transformation`](tags.md#tag-transformation) [`volumetric-light`](tags.md#tag-volumetric-light) [`beat-sequence`](tags.md#tag-beat-sequence)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic golden peacock transformation sequence, ultra detailed, photorealistic 3D animation. Opens on a low-angle shot of a polished wooden floor with converging lines, dramatic warm golden god rays piercing through thick dust and haze in a luxurious grand hall with tall columns. Floating metallic orbs, sparks, and particles drift in the air, some with greenish highlights. Suddenly a bright white flash of light erupts in the center. From the light, an intricate golden wireframe cage structure materializes atop two elegant golden peacock legs with ornate details. The structure rapidly transforms into a peacock’s body covered in shimmering golden scales and feathers. The bird bends and then dramatically fans out its massive tail feathers in a perfect semicircle, revealing intricate blue and teal eyespots. Close-up of the tail and neck rising with exploding golden particles and sparkles. The peacock’s head emerges with a beautiful crest, piercing blue eyes, and delicate golden patterning. Finally, the fully formed majestic golden peacock stands proudly in the center of the hall, tail fully displayed in a spectacular fan, illuminated by strong volumetric golden light rays, floating dust motes and particles, highly detailed iridescent feathers, cinematic lighting, warm golden color palette, 8K, hyper-realistic, magical and luxurious atmosphere.
+```
+
+</details>
+
+<a id="h3-butterfly-letter-morph-realistic-garden"></a>
+### 字母变成蝴蝶，再绽放成真实自然场景
+
+<a href="https://x.com/umesh_ai/status/2084892304582885414"><img src="../../previews/h3-butterfly-letter-morph-realistic-garden.jpg" width="360"></a>
+
+变形按部位逐个进行，每个字母依次重塑，原单词在过程中始终可辨认。第二段放慢蝴蝶的每次振翅，每一下都增加一层真实感，让卡通世界过渡为真实花园，中间没有硬切。
+
+MiniMax H3 · 文生视频 · 出处: [@umesh_ai on X](https://x.com/umesh_ai/status/2084892304582885414) · 187 赞，统计于 2026-10-29
+
+[`morph`](tags.md#tag-morph) [`kids`](tags.md#tag-kids) [`education`](tags.md#tag-education) [`stylized-to-realistic`](tags.md#tag-stylized-to-realistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second cute, funny, educational creative animation video for kids ages 3 to 7.  Concept: Teach the letter B using the word “Butterfly” with two major visual highlights:  1. a slow, satisfying, highly engaging transformation from the word “Butterfly” into a cute butterfly 2. a slow, magical transformation from the stylized animated world into a fully realistic natural scene with a realistic butterfly  The video should feel beautiful, colorful, charming, educational, and visually mesmerizing. The transformations must not feel rushed. They should be the centerpiece of the video and should unfold clearly enough for children to enjoy and understand.  Main learning message: “B is for Butterfly.”  Visual style at the beginning: Use a premium kid-friendly animated style with soft pastel skies, rounded shapes, bright happy colors, smooth motion, clean composition, playful details, expressive design, and a light sense of humor. The early part should feel like a beautiful storybook mixed with polished modern animation.  Animation priorities: The word-to-animal transformation must be gradual, elegant, readable, and creatively staged. Children should be able to see how the letters slowly become parts of the butterfly. The stylized-to-realistic transformation must also happen gradually and beautifully, as if the animated world is blooming into real life.  Timing and scene flow:  0:00–0:02 Open on a soft dreamy pastel background with floating flowers, tiny sparkles, and gentle clouds. A large uppercase “B” appears in the center with a smaller lowercase “b” beside it. Both letters bounce softly into place with a cheerful and friendly feeling. The narrator says slowly and clearly: “B is for Butterfly.”  Hold the letters long enough for recognition.  0:02–0:04 The word “BUTTERFLY” writes itself slowly across the screen in large rounded colorful letters. Each letter fills with a different beautiful pattern, such as gradients, dots, stripes, floral shapes, and soft wing-like textures. Keep the word fully readable and centered. Let the audience admire the full word before the transformation begins.  0:04–0:09 This is the main highlight. The word “BUTTERFLY” transforms slowly and satisfyingly into the butterfly.  The transformation must be gradual, staged, and visually delicious to watch: The “B” gently opens outward and unfolds into the top wings. The “U” stretches and curves into one lower wing. The first “T” and second “T” slim down and merge into the butterfly’s long body. The “E” softens and reshapes into decorative wing markings. The “R” curls upward into one antenna. The “F” reshapes into the second antenna with a playful wobble. The “L” and “Y” arc outward and become the final wing edges and tail details.  Important: Do not transform everything at once. Let each part morph one after another in a smooth chain reaction. The letters should bend, curl, unfurl, rotate, stretch, and softly glide into their new forms. The child should still sense the original word during the transformation. Use sparkling trails, flowing color transfer, and soft elastic motion to make it deeply satisfying. The morph should feel magical, clear, and creatively intelligent.  0:09–0:11 The butterfly is now a fully formed cute stylized cartoon butterfly. It has lovely colorful wings, a tiny smiling face, big friendly eyes, and soft funny charm. It flutters gently in a playful little loop, hovers above a flower, almost sneezes from pollen in a cute funny moment, then recovers and smiles. Show the word “Butterfly” below it briefly for reinforcement. The narrator repeats: “Butterfly.”  0:11–0:14 This is the second major highlight. The entire animated scene slowly transforms into a realistic world.  The butterfly flaps its wings in slow motion. With each flap, realism increases gradually: its wing textures become more detailed the colors gain natural variation the body becomes more lifelike the flowers gain realistic petals and depth the background softens into a real sunlit garden the lighting becomes natural and golden the air gains subtle movement and realistic depth of field  This transformation should feel breathtaking, seamless, and immersive. Do not cut abruptly from cartoon to realistic. Instead, let the animated world gently bloom into reality in layers. The viewer should feel they are witnessing imagination turn into nature.  0:14–0:15 End on a beautiful realistic butterfly resting on a real flower in warm sunlight. Display the text: “B is for Butterfly” The narrator says warmly: “B is for Butterfly.” The butterfly gently flutters once, then lifts off lightly.  Style and quality requirements: Keep the letter B and the word “BUTTERFLY” clearly readable before and during transformation. Make the word-to-animal morph slow, rich, and visually rewarding. Make the stylized-to-realistic transformation equally slow, smooth, and magical. Use polished motion design, soft easing, beautiful color transitions, gentle humor, and strong visual clarity. Maintain a child-friendly tone throughout. Use clean typography, stable spelling, and seamless morphing.  Audio direction: Use cheerful, soft, magical music. Add delicate sparkles, soft pops, flutter sounds, a tiny comedic sniffle or sneeze, and a gentle emotional swell during the realism transition. Voiceover should be warm, clear, slow, and easy for children to follow.  Avoid: rushed transformations, unreadable letters, clutter, hard cuts, scary expressions, excessive camera motion, chaotic effects, or anything visually confusing for children.
+```
+
+</details>
+
 <a id="wan-jeweled-creatures-to-heels"></a>
 ### 珠宝生物变成高跟鞋
 
@@ -411,6 +538,51 @@ A hyper-realistic high-fashion CGI animation set in an opulent palace with marbl
 
 </details>
 
+<a id="h3-glass-skyscraper-assembles-aerial-drone"></a>
+### 空地上的玻璃摩天楼在航拍中拔地而起
+
+<a href="https://x.com/Zyrellix/status/2101221316229558505"><img src="../../previews/h3-glass-skyscraper-assembles-aerial-drone.jpg" width="360"></a>
+
+用带时间点的分段描述写成一个连续的无人机镜头，让建筑按顺序生长，镜头同时拉远升高。明确写出起重机保持不动、青色全息叠加层，使场地稳定而结构不断变化。
+
+MiniMax H3 · 文生视频 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/status/2101221316229558505) · 168 赞，统计于 2026-10-29
+
+[`aerial`](tags.md#tag-aerial) [`drone`](tags.md#tag-drone) [`construction`](tags.md#tag-construction) [`hologram`](tags.md#tag-hologram)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photorealistic cinematic aerial video of a modern glass skyscraper assembling itself on a city construction site.
+
+Subject: a rectangular glass office tower growing from an empty lot, surrounded by three yellow tower cranes. Cyan holographic construction overlays with grid lines, vertical pillars, and orbiting energy rings.
+
+Environment: dense low-rise East Asian city block with tiled roofs, green rooftops, trees lining the streets, buses and cars on the roads, taller buildings and a sports field in the distance.
+
+Style: ultra-realistic aerial photography, golden-hour to sunset color grade, sharp glass reflections, warm interior lights versus cool cyan holograms.
+
+Camera: one continuous high-angle drone shot. Starts looking down on the lot, then slowly pulls back and lifts as the building grows, ending on a hero three-quarter view of the completed tower against the sunset.
+
+Lighting: late afternoon sun at the start; sky shifts to orange, coral, and pink clouds; finished tower glows with warm yellow office lights.
+
+[0s] Empty rectangular construction pit in the city. Three yellow cranes stand around the site. A faint cyan holographic floor grid appears on the dirt.
+
+[2s] Glowing cyan pillars rise from the grid and lock into a structural skeleton. Cranes stay in place.
+
+[4s] Concrete core and first floor slabs materialize. Cyan rings begin orbiting the structure. Camera starts a slow pull-back and rise.
+
+[7s] Mid-rise floors stack rapidly. Dark glass curtain walls wrap the lower levels. Interior lights start coming on. Sky turns warmer.
+
+[10s] Tower is now a tall glass skyscraper. Cranes lift the last rooftop mechanical sections into place. Cyan hologram fades. Sunset sky is intense orange-pink.
+
+[13s] Construction complete. Clean modern tower with lit interiors, one remaining crane at the base. Hold the final cinematic aerial frame.
+
+Audio: distant city traffic, compressed construction rumble early, then a low cinematic swell as the building finishes. No dialogue. No on-screen text. No watermark.
+
+Avoid: cuts, shaky camera, cartoon look, people close-up, logos, extra towers appearing out of nowhere, watermark, subtitles, UI overlay.
+```
+
+</details>
+
 <a id="h3-rift-dimensional-tear-metal-title-sequence"></a>
 ### 白色能量裂隙撕开空间并凝成金属标题
 
@@ -426,6 +598,90 @@ MiniMax H3 · 文生视频 · 出处: [@CharaspowerAI on X](https://x.com/Charas
 
 ```text
 High-end sci-fi title sequence beginning with a razor-thin line of white energy slicing vertically through complete darkness. Space immediately begins deforming around it as metallic particles, dust and glowing fragments are violently pulled toward the opening. The line tears wider into a gigantic dimensional fracture filled with unstable plasma and gravitational distortion. The camera accelerates directly toward the rift, violently banking between fragments being stretched into luminous trails. Suddenly the dimensional tear snaps shut with enormous force, compressing all surrounding matter into four gigantic black-metal letterforms that slam together to reveal "RIFT". Brilliant energy remains trapped inside deep cracks across the typography while space visibly bends around its edges. The camera performs a fast orbital move before the title itself splits open along its center, releasing a catastrophic dimensional shockwave that tears through the frame. Sophisticated cosmic distortion, aggressive kinetic typography, premium superhero-film VFX.
+```
+
+</details>
+
+<a id="h3-golden-palace-volcano-morph"></a>
+### 金色宫殿变身火山
+
+<a href="https://x.com/churvikv/status/2108262204424229057"><img src="../../previews/h3-golden-palace-volcano-morph.jpg" width="360"></a>
+
+提示词按顺序描述从平静开场到戏剧化结尾的全过程，让模型有清晰的时间线。每次变化都指定了具体对象，如穹顶变为石柱、水面冒泡映出岩浆，使每个形变都有可见的锚点。
+
+MiniMax H3 · 文生视频 · 出处: [@churvikv on X](https://x.com/churvikv/status/2108262204424229057) · 139 赞，统计于 2026-10-29
+
+[`morph`](tags.md#tag-morph) [`transition`](tags.md#tag-transition) [`fantasy`](tags.md#tag-fantasy) [`volcano`](tags.md#tag-volcano)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Smooth transformation from peaceful golden palace to dramatic volcanic mountain. Golden domes morph into ancient Greek columns, calm water begins to bubble and reflect lava, serene sky fills with fiery storm clouds, golden light turns into flowing lava, peaceful atmosphere transforms into epic volcanic drama. Cinematic morphing,
+```
+
+</details>
+
+<a id="h3-octopus-paris-facade-multi-angle-cuts"></a>
+### 巴黎脚手架建筑上的章鱼，六次镜头切换
+
+<a href="https://x.com/steftranquillin/status/2102318276642553907"><img src="../../previews/h3-octopus-paris-facade-multi-angle-cuts.jpg" width="360"></a>
+
+提示词将章鱼、建筑、行人和光线固定为参考，只通过带时间码的硬切改变镜头。以 Video1 作为主参考，让章鱼造型和光线在各个角度保持一致。
+
+MiniMax H3 · 视频编辑 · 出处: [@steftranquillin on X](https://x.com/steftranquillin/status/2102318276642553907) · 126 赞，统计于 2026-10-29
+
+[`multi-angle`](tags.md#tag-multi-angle) [`camera-edit`](tags.md#tag-camera-edit) [`octopus`](tags.md#tag-octopus) [`paris`](tags.md#tag-paris) [`surreal`](tags.md#tag-surreal)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Overcast light, soft light, daytime, documentary photography style, mixed tones, wide-angle. This is documentary-style multi-camera coverage of a single, unchanging surreal moment: a giant octopus draped over a scaffolded Haussmannian building facade on a Paris street, its tentacles hanging down over the netting, pedestrians walking past below completely unfazed by it.
+@Video1
+ is the master reference for the octopus's exact design, color, texture, scale, and pose, the building's architecture and scaffolding, the pedestrians' presence and unbothered behavior, and the daytime overcast lighting. None of this changes across the sequence below, only the camera does — six rapid, distinct angles cover this same frozen moment in quick succession, as if six different camera crews were filming it at once. Shot 1 [0-2s] Aerial shot. A high aerial view looking down over the street, revealing the full scaffolded building facade with the octopus draped across it, tentacles hanging over several floors, pedestrians walking past below. Shot 2 [2-4s] Hard cut transition, medium shot from street level, matching Video 1's framing and distance: the building's stone facade wrapped in scaffolding, the octopus's tentacles draped down over several floors, pedestrians crossing in the foreground. Shot 3 [4-5.5s] Hard cut transition, close-up on the octopus's head and eye, its textured reddish-brown skin catching the daylight, one tentacle curling around a section of scaffolding pipe. Shot 4 [5.5-7s] Hard cut transition, low-angle shot, camera tilted sharply upward from street level, the octopus looming directly overhead against the cloudy sky. Shot 5 [7-8.5s] Hard cut transition, lateral tracking shot at eye level along the street, the building's facade and the octopus's tentacles draped along it in profile. Shot 6 [8.5-10s] Hard cut transition, over-the-shoulder shot from just behind a pedestrian walking on the sidewalk, their head tilted up toward the octopus as they pass beneath it, unhurried and unreactive. Sound: light outdoor street ambience throughout, distant traffic hum and soft wind, consistent across every rapid cut. No dialogue. No background music.
+```
+
+</details>
+
+<a id="h3-yellow-triangle-tunnel-graphic-loop"></a>
+### 黑色虚空中发光的黄色三角隧道
+
+<a href="https://x.com/ZaraIrahh/status/2087762931777716345"><img src="../../previews/h3-yellow-triangle-tunnel-graphic-loop.jpg" width="360"></a>
+
+按秒划分的分镜配合固定配色，每段都给出一个镜头动词，结尾明确要求末帧与首帧衔接以形成循环。明确指定卡通渲染、硬边阴影并禁止写实，使画面保持平面海报感而不是真实渲染。
+
+MiniMax H3 · 文生视频 · 出处: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2087762931777716345) · 125 赞，统计于 2026-10-29
+
+[`cel-shading`](tags.md#tag-cel-shading) [`looping`](tags.md#tag-looping) [`camera-moves`](tags.md#tag-camera-moves) [`graphic-poster`](tags.md#tag-graphic-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second viral-ready stylized 3D animation with a bold graphic-poster aesthetic, combining 3D cel shading, abstract motion graphics, surreal transformations, and extremely dynamic camera movement.
+
+STYLE: Stylized 3D toon/cel-shaded animation, low-poly geometric forms, hard-edged shadows, clean surfaces, exaggerated proportions, strong silhouettes, minimal textures, high contrast. Make the world feel like a graphic poster transformed into 3D space. Avoid photorealism and generic CGI.
+
+COLOR PALETTE: Golden yellow, amber, lemon yellow, black, and white dominate the entire video. Metallic gray appears only as a small accent. Red is allowed only on the villain's sofa, liquor, and warning signals.
+
+0–3 SECONDS — INSTANT HOOK:
+Open with an extreme close-up of a mysterious 3D graphic object rushing directly toward the camera. Suddenly pull the camera backward to reveal a surreal geometric city made of pipes, grids, sliced buildings, blocks, signs, and mechanical structures. Use a dramatic perspective shift and rapid camera rotation.
+
+3–7 SECONDS — ESCALATION:
+The city begins transforming at impossible speed. Buildings split into geometric pieces, pipes twist through the streets, blocks rotate in mid-air, and graphic symbols explode outward. The camera flies through the environment with aggressive parallax, speed ramps, and seamless transitions.
+
+7–11 SECONDS — CHARACTER + SURPRISE:
+Reveal the villain sitting on a distinctive red sofa in the middle of the moving city. The villain makes one dramatic gesture. Instantly, the sofa, surrounding architecture, and entire environment transform into a massive surreal 3D geometric structure. Use a rapid push-in followed by a sudden wide shot.
+
+11–14 SECONDS — CLIMAX:
+Everything accelerates. Yellow and black geometric elements spiral around the camera. Buildings fold, rotate, compress, and reconstruct. Use extreme perspective, fast tracking, graphic match cuts, silhouettes, diagonal masks, distortion, and a powerful final camera movement.
+
+14–15 SECONDS — LOOP:
+The entire world rapidly collapses into the same graphic object from the opening shot. End on the exact visual composition needed to seamlessly connect back to the first frame, creating a perfect infinite loop.
+
+ANIMATION LANGUAGE: Constant motion, squash and stretch, geometric morphing, slicing, flipping, compression, distortion, object transformation, impossible physics, speed ramps, freeze-frame accents, and satisfying visual cause-and-effect.
+
+CAMERA: Extreme push-ins, rapid pull-outs, rotating shots, overhead views, low angles, impossible tracking shots, camera-through-object transitions, sudden perspective changes, and dramatic scale shifts.
+
+FINAL LOOK: Premium, surreal, energetic, highly stylized 3D cel animation that feels like a living graphic poster. Every second must introduce a new visual surprise. Make the first second immediately attention-grabbing and the final second perfectly loopable.
 ```
 
 </details>
@@ -946,6 +1202,33 @@ Strict prohibitions: no on screen text, no titles, no logos, no watermarks, no b
 
 </details>
 
+<a id="seedance-snake-dragon-woman-metamorphosis"></a>
+### 蛇变成龙再变成女人
+
+<a href="https://x.com/hedo_ist/status/2083989211607155054"><img src="../../previews/seedance-snake-dragon-woman-metamorphosis.jpg" width="360"></a>
+
+提示词提供三张参考图，并把变形拆成两段链式过渡：先蛇变龙，再由龙变女人，每段都有明确的起点和终点。结尾指定无音乐、ASMR 音效，写实电影感的描述决定画面质感。
+
+Seedance 2.5 · 参考生视频 · 出处: [@hedo_ist on X](https://x.com/hedo_ist/status/2083989211607155054) · 72 赞，统计于 2026-10-29
+
+[`metamorphosis`](tags.md#tag-metamorphosis) [`reference-images`](tags.md#tag-reference-images) [`asmr-sound`](tags.md#tag-asmr-sound) [`photorealistic`](tags.md#tag-photorealistic) [`transformation`](tags.md#tag-transformation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+You must add 3 reference images: a snake, a dragon and a woman.
+
+Cinematic, fluid metamorphosis of a snake ￼ into this creature .￼
+
+Cinematic metamorphosis of this creature into a woman.  ￼
+
+Photorealistic cinematic scene.
+
+not music. asmr sounds
+```
+
+</details>
+
 <a id="h3-shapes-mascot-learning-animation"></a>
 ### 吉祥物讲解四种基础形状动画
 
@@ -1054,6 +1337,146 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 
 </details>
 
+<a id="h3-storm-fire-never-back-down-motion"></a>
+### 风暴与火焰中发光的 NEVER BACK DOWN 文字
+
+<a href="https://x.com/LudovicCreator/status/2092190292254322746"><img src="../../previews/h3-storm-fire-never-back-down-motion.jpg" width="360"></a>
+
+按秒分段，把背景、文字和音效分成独立条目，模型就能依次完成蓄势、峰值和定格。背景强度与文字动画分开描述，让发光文字在混乱画面中依然清晰可读。
+
+MiniMax H3 · 文生视频 · 出处: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2092190292254322746) · 57 赞，统计于 2026-10-29
+
+[`motion-graphics`](tags.md#tag-motion-graphics) [`typography`](tags.md#tag-typography) [`storm-and-fire`](tags.md#tag-storm-and-fire) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[PROJECT TYPE] Text-to-video. EXACTLY 15 seconds. Motion graphics with dynamic
+storm + fire animated background.
+
+[Global Setting] ANIMATED BACKGROUND  STORM + FIRE COMBINED:
+Dark apocalyptic sky with MASSIVE storm clouds swirling. Lightning crackling
+violently everywhere. Rain falling in torrents. BENEATH/WITHIN: INTENSE ORANGE/RED
+FIRE and FLAMES surging upward, consuming everything. Fire and storm battling.
+Destruction and power. Survival against all odds. Cinematic and overwhelming.
+
+[Background Details]
+✓ Storm clouds dark grey/black, constantly rotating
+✓ Lightning bolts EVERYWHERE multiple simultaneous strikes
+✓ Rain pouring down in heavy sheets
+✓ MASSIVE FIRE/FLAMES rising from below
+✓ Orange/red glow illuminating darkness
+✓ Smoke billowing upward mixing with storm clouds
+✓ Fire and water in conflict steam rising
+✓ Wind-torn clouds, churning motion constant
+✓ Apocalyptic, epic, overwhelming
+✓ MOTION NEVER STOPS, escalates throughout
+
+[EXACT TIMING BREAKDOWN]
+
+[Opening/Setup, 0–2s]
+BACKGROUND EXPLODES INTO LIFE. Dark storm clouds SWIRL violently. Lightning
+STRIKES. Rain POURS. FIRE erupts orange/red from below. Apocalyptic chaos.
+First letter "N" MATERIALIZES glowing golden.
+
+[Word 1: "NEVER", 2–6s] (4 seconds)
+Letters appear sequentially with 1 second each approximately:
+— "N" (already visible from 0s, now with particles and glow)
+— "E" rotates with blue glow
+— "V" slides with motion blur
+— "E" warps into place
+— "R" extrudes with depth
+
+Particles swirl around letters. Electrical arcs connect them. BACKGROUND: storm
+intensifies, lightning increases, fire burns brighter, smoke billows. Music
+building. All elements escalating.
+
+[Word 2: "BACK DOWN", 6–10s] (4 seconds)
+Letters appear sequentially:
+— "B" explodes with energy burst
+— "A" rotates 360°
+— "C" morphs fluidly
+— "K" slides with metallic effect
+— (space)
+— "D" warps into place
+— "O" extrudes from screen
+— "W" connects to others
+— "N" final letter locks
+
+Geometric shapes (circles, lines, triangles) orbit and dance around letters.
+Electrical arcs NETWORK connecting everything. BACKGROUND: MAXIMUM INTENSITY —
+lightning CONSTANTLY striking, fire RAGING, rain TORRENTIAL, clouds VIOLENT,
+smoke BILLOWING.
+
+[Peak Moment, 10–13s] (3 seconds)
+FULL TEXT VISIBLE: "NEVER BACK DOWN"
+ALL LETTERS GLOWING MAXIMUM golden/blue intensity. Particles EXPLODING around
+them. Geometric motion graphics dancing frantically. Electrical network BLAZING
+between all letters. Color shifts: golden → blue → purple → golden.
+
+BACKGROUND AT ABSOLUTE PEAK:
+— Storm clouds VIOLENT rotation
+— Lightning CONSTANT strikes every fraction of second
+— Rain POURING in sheets
+— FIRE ENGULFING lower half completely
+— Smoke and steam swirling
+— Orange glow overwhelming darkness
+— PURE APOCALYPTIC CHAOS
+
+Text and background PERFECTLY SYNCHRONIZED. Peak together.
+
+[Final Hold, 13–15s] (2 seconds)
+Text LOCKS in place GLOWING intensely. Particles SWIRL slowly. Geometric shapes
+settle but keep subtle movement. Background slightly calms but STAYS INTENSE
+storm still raging, lightning still striking regularly, fire still burning bright.
+
+One final POWERFUL ORCHESTRAL NOTE HOLDS across full 2 seconds.
+
+Final frame freezes on:
+"NEVER BACK DOWN"
+GLOWING GOLDEN/BLUE
+Against STORM + FIRE apocalypse
+ABSOLUTE CONVICTION against OVERWHELMING ODDS
+
+[BACKGROUND SPECS — CONSTANT]
+✓ Storm: Dark swirling clouds, constant rotation, lightning frequent
+✓ Fire: Orange/red flames rising from below, intense glow
+✓ Rain: Torrential, visible falling sheets
+✓ Lightning: MULTIPLE strikes, unpredictable, bright white flashes
+✓ Smoke: Billowing upward, mixing with storm clouds
+✓ Steam: From fire meeting rain
+✓ Overall: APOCALYPTIC, POWERFUL, CINEMATIC
+✓ Motion: ESCALATES 0-10s, HOLDS 10-13s, SUSTAINS 13-15s
+
+[TEXT VFX]
+✓ Golden primary glow + blue secondary glow on all letters
+✓ Particles emanating constantly from letters
+✓ Electrical arcs connecting all letters (network effect)
+✓ Geometric shapes orbiting (circles, triangles, lines)
+✓ Individual letter effects: rotation, morphing, extrusion
+✓ Synchronized to music beat and background intensity
+
+[Audio — EXACT 15 SECONDS]
+0-2s: Thunder rumbling, wind howling BUILDING, rain starting, fire crackling emerging
+2-6s: Letter appearance sounds (swoosh/electronic pops), orchestral strings SWELLING, storm sounds INTENSIFYING
+6-10s: Electrical crackling INCREASING, orchestral crescendo BUILDING, storm RAGING, fire ROARING
+10-13s: MASSIVE orchestral climax (strings, horns, brass at PEAK), lightning thunder CONSTANT, fire ROARING LOUDLY, rain POURING LOUDLY
+13-15s: Single POWERFUL sustained orchestral note HOLDING, slight fade in background intensity but still present, storm/fire still audible underneath the note
+
+[Visual Storytelling]
+TEXT = CONVICTION (golden, glowing, perfect, unwavering)
+BACKGROUND = ADVERSITY (storm + fire = apocalypse trying to destroy everything)
+TOGETHER = Standing firm and glowing bright NEVER BACKING DOWN even when world
+is chaos and destruction
+
+[TONE] EPIC. CINEMATIC. POWERFUL. INSPIRATIONAL. ABSOLUTELY WOW.
+
+Made in
+@Hailuo_AI
+```
+
+</details>
+
 <a id="h3-origin-sci-fi-motion-poster-assembly"></a>
 ### 科幻ORIGIN海报逐层动态拼合
 
@@ -1108,6 +1531,33 @@ MiniMax H3 · 文生视频 · 出处: [@cocktailpeanut on X](https://x.com/cockt
 
 ```text
 "Hyper-realistic found-footage horror video, filmed by a cheap action camera mounted inside a small fishing boat on a quiet lake. A lone fisherman violently reels in something heavy. He pulls up a muddy smartphone tangled in weeds. He answers, breathing hard. A distorted voice says, "Finally. I’ve been trying to switch places with you." The phone flashes blinding white and the footage glitches. When the image returns, the phone shows the terrified fisherman trapped inside its screen, silently pounding on the glass. Behind him, an identical soaking-wet fisherman slowly climbs out of the lake into the boat, notices the camera, and reaches toward the lens. Abrupt cut to black. Raw handheld realism, imperfect autofocus, clipped audio, no music, no stylization."
+```
+
+</details>
+
+<a id="wan-outfit-swap-jump-reveal-stop-motion"></a>
+### 女孩犹豫后起跳完成换装
+
+<a href="https://x.com/TanLuAI/status/2096214239815823822"><img src="../../previews/wan-outfit-swap-jump-reveal-stop-motion.jpg" width="360"></a>
+
+用逐秒的节拍表固定表情与动作的先后顺序，尾帧锁定新服装，让换装恰好发生在一次起跳的最高点。结尾定格并禁止重复起跳，使转场干净利落。
+
+Wan 3.0 · 首尾帧 · 出处: [@TanLuAI on X](https://x.com/TanLuAI/status/2096214239815823822) · 42 赞，统计于 2026-10-29
+
+[`outfit-swap`](tags.md#tag-outfit-swap) [`head-tail-frames`](tags.md#tag-head-tail-frames) [`timed-beats`](tags.md#tag-timed-beats) [`stop-motion`](tags.md#tag-stop-motion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+2:3 vertical screen, pure white seamless photography studio, soft and stable side lighting with natural floor projections. Strictly maintain the facial features and body proportions of the same adult woman as in the reference images for the head and tail frames.
+0–0.3 seconds: Starting from the first frame, the character has her left hand on her hip, head slightly tilted, brows gently furrowed, eyes slightly narrowed, lips lightly pursed, with a hint of confusion and hesitation, as if thinking "What should I wear?", without speaking. The right hand naturally lifts from beside the shoulder toward the forehead.
+0.3–1.5 seconds: Maintain a restrained, natural puzzled expression, with the right fingertips lightly touching the hairline and stray hairs on the forehead, gently fiddling with them once or twice, like a small thoughtful gesture; left hand still on the hip. The gaze first looks toward the camera, then slightly shifts to the upper side.
+1.5–2.6 seconds: The right hand moves away from the forehead and naturally drops, the line of sight turns to the left side of the frame, with the head and shoulders following into a three-quarter side profile. The puzzled expression naturally resolves, and the demeanor becomes focused. The left hand leaves the hip, preparing to swing the arm.
+2.6–3.55 seconds: Both feet remain grounded, knees bend into a squat, center of gravity lowers, upper body leans slightly forward, arms swing naturally, with a brief pause in the low position to gather strength.
+3.55–4 seconds: Both legs push off the ground in a light jump, feet leaving the surface. One leg extends downward, the other knee bends and lifts backward; one forearm raises to near the shoulder, the other arm naturally extends backward and to the side. The camera follows the character's jump, pulling back. Hair, bow, and skirt hem rise slightly with the jump in accordance with inertia, skirt hem maintaining natural coverage. And at the highest point in the air, pause to complete the outfit change, with the four elements of the tail frame appearing at the top of the video, finally freezing and pausing on frame 13, and holding for 0.2 seconds.
+The entire sequence completes only one jump, with continuous actions and natural joint and gravity movements. Facial expression changes must be subtle: slight confusion → touching forehead hair while thinking → turning head to focus → squatting and jumping.
+Negative constraints:
+Do not maintain a blank expression from start to finish, do not change clothing or change outfit prematurely, do not have excess limb, finger, clothing clipping or exposure of undergarments. Do not repeat jumps, float prematurely or land early. Do not include text, watermarks, phone frames or top accessory bars. Do not include melodic background music.
 ```
 
 </details>
@@ -1309,6 +1759,25 @@ MiniMax H3 · 文生视频 · 出处: [@CharaspowerAI on X](https://x.com/Charas
 
 ```text
 Ultra-cinematic Hollywood title sequence, opening on an extreme macro shot of a perfectly smooth monolithic titanium surface suspended in darkness. A microscopic dent suddenly appears at its center, followed by an invisible supersonic impact that violently propagates across the metal, bending the entire surface in a spectacular pressure ripple. The camera rapidly pulls backward as the titanium plate explodes into thousands of heavy fragments, glowing sparks and molten particles. Time dramatically slows while the debris hangs in the air, then a powerful magnetic force reverses every fragment at once. Pieces accelerate back toward the center, colliding with brutal precision and forging the monumental word "IMPACT" from dense battle-scarred titanium. The camera sweeps inches above the newly formed letters as glowing energy races through their cracks, then whips into a perfectly centered frontal hero shot. A final invisible shockwave slams into the title, creating a spectacular ripple through the metal before blasting sparks, dust and fragments toward the lens. Photorealistic metal deformation, sophisticated destruction physics, aggressive speed ramps, anamorphic cinematography, premium AAA theatrical title design.
+```
+
+</details>
+
+<a id="h3-bioluminescent-vortex-whale-morph"></a>
+### 发光粒子在水下卷成漩涡
+
+<a href="https://x.com/MrDasCreates/status/2087462260218245401"><img src="../../previews/h3-bioluminescent-vortex-whale-morph.jpg" width="360"></a>
+
+提示词把变形写成有先后顺序的阶段（粒子、丝带、鲸鱼轮廓、实体皮肤），并给镜头规定了分段路径：先微距拉远，再环绕英雄镜头。要求身体局部短暂重新液化，让过渡更连贯。
+
+MiniMax H3 · 文生视频 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2087462260218245401) · 26 赞，统计于 2026-10-29
+
+[`underwater`](tags.md#tag-underwater) [`particles`](tags.md#tag-particles) [`transformation`](tags.md#tag-transformation) [`whale`](tags.md#tag-whale)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a 15-second ultra-realistic cinematic transformation in a mysterious moonlit ocean at night: countless glowing bioluminescent particles drift beneath the dark water, slowly swirling together into a luminous underwater vortex; the vortex stretches into flowing translucent ribbons that begin forming the silhouette of an enormous whale. The liquid mass seamlessly transforms into realistic wet skin, fins, eyes, and layered textures as the whale emerges from the swirling water, with streams of glowing liquid cascading from its body. The camera starts with an extreme macro shot of glowing particles, gradually pulls backward as the silhouette forms, then smoothly circles around the whale in a majestic underwater hero shot. At the climax, the whale rises toward the surface and bursts through the ocean, sending a massive crown of water into the moonlight before diving back into the glowing depths. Throughout the transformation, parts of its body briefly ripple back into liquid before solidifying again, creating a seamless surreal morphing effect with realistic water physics, volumetric moonlight, underwater caustics, floating particles, cinematic depth of field, and epic atmospheric scale.
 ```
 
 </details>

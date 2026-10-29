@@ -1,0 +1,41 @@
+id: h3-matte-black-car-rain-police-chase
+title:
+  en: Matte black performance car escapes rain-soaked night chase
+  zh: 哑光黑性能车雨夜曼哈顿甩开警车追逐
+model: MiniMax H3
+mode: text-to-video
+category: action
+tags:
+- car-chase
+- night
+- rain
+- timed-shot-list
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2103181604793598138
+  credit: Saul Goodman
+  likes: 50
+  captured: '2026-10-29'
+  posted: '2026-09-24'
+video: https://x.com/Goodmanprotocol/status/2103181604793598138
+notes:
+  en: A timed shot list (0 to 4 seconds, 4 to 8 seconds and so on) fixes the order of camera setups, and each segment names a physical cue such as tyre spray, weight transfer and dashboard glow. Keeping the visual realism spec and the audio spec in separate blocks lets the sound of engines, rain and Doppler sirens land without bleeding into the image.
+  zh: 按秒数划分的分镜表（0到4秒、4到8秒等）固定了镜头顺序，每段都写明一个具体的物理细节，如轮胎水花、重心转移和仪表灯光。视觉写实规格与声音规格分开成块，让引擎、雨声和多普勒警笛的音效不会干扰画面描述。
+prompt: |
+  15-SECOND ULTRA-REALISTIC NEW YORK POLICE CHASE
+
+  Create a photorealistic Hollywood action sequence set in Manhattan at night. A modified matte-black performance car races through rain-soaked New York streets while three realistic police cruisers pursue at high speed, emergency lights reflecting across wet asphalt and skyscraper windows.
+
+  0–4s: Low cinematic tracking shot beside the black car as it accelerates aggressively through traffic. Tires spray water, suspension reacts naturally, headlights cut through rain and city haze.
+
+  4–8s: Interior cockpit shot showing the driver making rapid steering corrections. Dashboard lights glow naturally while the engine revs and gear changes create subtle cabin vibration.
+
+  8–12s: Dynamic street-level shot as the car takes a sharp wet intersection turn, followed closely by police cruisers. Realistic weight transfer, tire grip, water spray, motion blur, and camera vibration emphasize speed.
+
+  12–15s: Aerial-to-low transition reveals the chase racing between illuminated Manhattan buildings before the black car disappears into traffic.
+
+  ULTRA-REALISM: physically accurate vehicle physics, realistic tire deformation, suspension movement, wet-road reflections, natural rain, authentic emergency lighting, realistic traffic, detailed vehicles, atmospheric haze, cinematic depth of field, anamorphic lens characteristics, HDR, subtle film grain, natural motion blur, 8K-level photorealism.
+
+  AUDIO: roaring engines, tire noise, gear shifts, rain, city ambience, horns, and realistic Doppler-shifting police sirens.
+
+  No CGI appearance, warped vehicles, impossible physics, distorted buildings, excessive camera shake, oversaturated neon, text, or watermark.

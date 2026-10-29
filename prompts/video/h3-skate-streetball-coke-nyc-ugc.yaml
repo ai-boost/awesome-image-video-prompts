@@ -1,0 +1,60 @@
+id: h3-skate-streetball-coke-nyc-ugc
+title:
+  en: Skater opens iced Coke, then courtside pass
+  zh: 滑板少年开冰镇可乐，再传给球场上的女孩
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- skateboarding
+- streetball
+- asmr
+- product-ad
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2114648191878471720
+  credit: Gilbert Odera | Your AI Plug
+  likes: 130
+  captured: '2026-10-29'
+  posted: '2026-10-26'
+video: https://x.com/yourPlugAI/status/2114648191878471720
+notes:
+  en: Timed beats of 0 to 5, 5 to 10 and 10 to 15 seconds each give visual, action and sound lines, which keeps the sequence in order. Named reference sheets for characters and product hold consistency, and the sound list (cap SNAP, FIZZ rush, ice crunch) drives the ASMR feel.
+  zh: 按 0到5秒、5到10秒、10到15秒分段，每段分别写画面、动作和声音，让镜头顺序稳定。命名的人物与产品参考表保持一致性，开瓶与冰块的声音描述（金属脆响、气泡嘶声、冰块碎裂）强化 ASMR 质感。
+prompt: |
+  Skate, streetball, and an ice-cold Coke. Pure NYC energy in 30 seconds.
+
+  @Hailuo_AI
+
+
+  ✨Generated with GPT Image 2.5 + Minimax H3 on Minimax Design—combining handheld street documentary edits with heavy tactile ASMR.
+
+  ✨FULL prompt breakdown and character sheets attached below👇🏾
+
+  #MinimaxH3 #MinimaxDesign
+
+  Phase 1: 00:00 to 00:15 (The Build-Up & Court-Side Pass)
+
+  [ENGINE DIRECTIVE]
+  Generate a continuous 15-second high-speed NYC Coca-Cola thirst-quencher UGC sequence at 60fps in 16:9 widescreen format using MinimaxH3. Style: Hand-held, fast-paced street documentary, 8K resolution, authentic cinematic handheld camera movement with rapid micro-pans, zooms, and seamless tracking cuts. Maintain 100% strict visual consistency with provided reference sheets: "Marcus, Maya, and NYC Street Crowd", "Coca-Cola Classic", and "NYC Streets & Chinatown Courts". Capture realistic sweat, intense outdoor daylight, massive crowd movements, rapid shutter speed, high action, zero visual artifacts, and heavy fluid dynamics.
+
+  [AUDIO DIRECTIVE]
+  - MUSIC: High-tempo, rhythmic hip-hop breakbeat with heavy street drums and ambient NYC chatter.
+  - SOUND DESIGN: Skateboards grinding, heavy panting, ice crunching, metallic cap-popper SNAP, pressurized carbonation FIZZ-RUSH, crowd cheers, basketball bouncing, and shoe squeaks.
+
+  [TIMELINE BREAKDOWN]
+
+  00:00 - 00:05 | THE SKATE GRIND & COLD REACH
+  - VISUAL: Hand-held low-angle tracking shot following Marcus as he lands a skate trick on a busy NYC plaza, then skids to a halt, panting and wiping sweat from his forehead. Camera whip-pans to a red cooler on a bench.
+  - ACTION: Marcus skates, stops, and reaches into a heavily ice-filled red cooler, grabbing a condensation-covered Coca-Cola glass bottle.
+  - SOUND: Skate wheels grinding on concrete, heavy panting, urban chatter, ice crunching, and hand rustling through deep ice.
+
+  00:05 - 00:10 | THE CAP POP & FLYING DROPLETS
+  - VISUAL: Whip-pan into an extreme macro close-up of Marcus’s hand gripping the glass bottle.
+  - ACTION: He uses a handheld bottle opener to pop the cap. High-speed (60fps) capture of pressurized mist, fizz, and water droplets spraying outward in the sunlight.
+  - SOUND: Sharp, loud metallic cap-popper SNAP, aggressive bubbling FIZZ-RUSH, background street chatter.
+
+  00:10 - 00:15 | COURT-SIDE PASS & TENSION HOLD
+  - VISUAL: Fast whip-cut tracking camera movement through a chain-link fence onto a Chinatown basketball court.
+  - ACTION: Marcus passes an ice-cold Coca-Cola can to Maya, who catches it seamlessly in motion and presses the frosty can against her sweating temple, setting up Phase 2.
+  - SOUND: Crowd cheers, basketball bounce, shoe squeaks on concrete, can sliding through air, and Maya’s quick gasp of relief.

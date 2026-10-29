@@ -1,6 +1,6 @@
 # 对白与口播
 
-[返回目录](../../README_zh.md) · 全部 43 条
+[返回目录](../../README_zh.md) · 全部 55 条
 
 <a id="seedance-cafe-table-multi-angle-reshoot"></a>
 ### 咖啡馆桌边讲话重拍成十三个新机位
@@ -194,6 +194,30 @@ Chandler stares at him. Long beat. He looks down at his coffee, then back up.
 CHANDLER: “…Sure. Let’s go with that.”
 
 STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, characters in casual clothing. Joey played completely straight — zero irony. Chandler delivers every line with exhausted deadpan sarcasm. Hold on Chandler’s face after the final line for a full beat before cut.”
+```
+
+</details>
+
+<a id="h3-barista-latte-art-storyboard"></a>
+### 动漫咖啡师按分镜制作拉花拿铁
+
+<a href="https://x.com/aimikoda/status/2090556776156742071"><img src="../../previews/h3-barista-latte-art-storyboard.jpg" width="360"></a>
+
+提示词要求模型把分镜当作连续镜头指引，逐格执行，且不写任何场景描述。角色图锁定外观，日语旁白按行列出，使台词与每个分镜节拍对应。
+
+MiniMax H3 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2090556776156742071) · 643 赞，统计于 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`latte-art`](tags.md#tag-latte-art) [`slice-of-life`](tags.md#tag-slice-of-life) [`character-reference`](tags.md#tag-character-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 16:9, 9-panel storyboard for a quiet slice-of-life anime video about making latte and latte art. The uploaded character should appear throughout the storyboard. Use a basic Japanese animation storyboard sketch style with loose pencil lines, simple shading and cinematic anime compositions. The overall tone should feel intimate, understated and slightly melancholic, with late-evening café lighting, mundane moments made beautiful, subtle expressions, negative space, off-center framing and close-ups of hands, eyes, steam and small gestures. Avoid flashy commercial shots or exaggerated anime reactions. The character should softly talk to themselves while making the latte, with restrained natural body language. The latte design should gradually form but remain unreadable until the very end.
+Narration:
+まずはエスプレッソを淹れます。
+ミルクをなめらかにスチームして、ゆっくり注ぎます。
+カップに近づけて、模様を描いていきます。
+最後にひと仕上げ。ラテアートの完成です。
 ```
 
 </details>
@@ -711,6 +735,92 @@ N/A
 
 </details>
 
+<a id="h3-office-graphics-card-handover-drama"></a>
+### 年轻人在办公室把显卡递给领导
+
+<a href="https://x.com/eternityspring/status/2112741803871097333"><img src="../../previews/h3-office-graphics-card-handover-drama.jpg" width="360"></a>
+
+剧本按方括号分成场景块，每块是一个角色加一句台词，让每个情节对应一个镜头。角色只用职业和性格描述，不写外貌，外形交给模型决定。
+
+MiniMax H3 · 文生视频 · 出处: [@eternityspring on X](https://x.com/eternityspring/status/2112741803871097333) · 145 赞，统计于 2026-10-29
+
+[`drama`](tags.md#tag-drama) [`dialogue`](tags.md#tag-dialogue) [`multi-scene`](tags.md#tag-multi-scene) [`office`](tags.md#tag-office)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+**The Art of Gift-Giving—This Card Isn't Easy to Get**
+
+**Script:**
+**Characters:** Leader (Technical Director, AI enthusiast), Little Wang (Honest guy, quotes prices for everything he gives), Little Li (Knows how to give gifts)
+**Scene:** Before the holiday, Leader's office
+
+**[Graphics Card]**
+Little Wang: Leader, for the holiday, I'm giving you a 5090 graphics card—over 20,000 yuan.
+Leader: That's too generous, but I don't really use this card much; the VRAM is too small.
+Little Li: Leader, I have a friend who does ops in a server room. He knows you like running models and gave me a few decommissioned cards—something called H100. I don't get it; can you take a look and see if it's any good?
+Leader (cradling the card, eyes lighting up): Oh man, this card isn't easy to get. I've got to run it tonight no matter what.
+
+**[Membership]**
+Little Wang: Leader, I topped up a one-year GPT membership for you—heard it's really handy.
+Leader: Alright... but don't waste money on this stuff in the future; I've got several accounts already.
+Little Li: Leader, I took a spin around San Francisco and had someone snag me an invite code for testing a new GPT model. I don't know if it's legit, but it seemed interesting—can you check it out for me?
+Leader (glancing at his phone and grinning, waving him over eagerly): Oh, this is nice. Come on, sit down—I'll run a demo for you to see.
+
+**[Computer]**
+Little Wang: Leader, for the holiday, I brought you an AI laptop—top spec, over 30,000 yuan.
+Leader: That's too generous, but I don't use one much on the daily.
+Little Li: Leader, I passed by the computer market and saw these RAM sticks—they looked pretty cool and weren't pricey. Figured you'd use them for running local models.
+Leader (picking up a RAM stick and holding it to the light): You picked a good one here. You really get AI.
+```
+
+</details>
+
+<a id="h3-woman-red-polka-dot-dress-leaves-frame"></a>
+### 红色波点连衣裙女子走出画面
+
+<a href="https://x.com/ou_zhen599/status/2106385077374722148"><img src="../../previews/h3-woman-red-polka-dot-dress-leaves-frame.jpg" width="360"></a>
+
+首帧锁定参考图的姿态，动作按时间段拆成固定路径点，摄像机始终停留在墙的同一侧。两句定时台词和环境音效写进同一时间段，让对白与动作保持同步。
+
+MiniMax H3 · 图生视频 · 出处: [@ou_zhen599 on X](https://x.com/ou_zhen599/status/2106385077374722148) · 127 赞，统计于 2026-10-29
+
+[`street-fashion`](tags.md#tag-street-fashion) [`reference-image`](tags.md#tag-reference-image) [`dialogue`](tags.md#tag-dialogue) [`camera-tracking`](tags.md#tag-camera-tracking)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+integrated_multimodal_description:
+15 seconds, 16:9, live-action cinematic realism. Use <Picture 1> as the only reference for the woman, outfit, location, lighting, and first frame. The opening frame must precisely inherit her leaning pose against the pink weathered wall, with the gray shutter on her left, the old poster on her right, the street in front, and the wall lamp, plants, hair, gold earrings, red polka-dot dress, neckline, waist structure, and facial identity all preserved. Same place, same moment, one continuous performance. Soft retro street-fashion film color: dusty pink wall, stable deep wine-red dress, warm natural skin, restrained gray-green background, medium contrast, soft highlight roll-off, subtle fine grain, real skin texture with slight moisture sheen. Keep the original daylight direction, around 5200K white balance, soft shadows, and continuous exposure. No neon shift, sunset change, rain, extra people, mirrored geography, teleporting, or filter changes.
+
+She activates immediately from the exact leaning pose. Her path is fixed: P0 at the wall -> short advance to P1 -> diagonal drift to P2 -> slow walk along the wall to P3 -> shutter tap and turn -> final move toward P4. She never leaves the same street side, and the camera never crosses the wall axis. The emotional line is playful control turning into mutual recognition: she tests whether the camera can keep up, confirms it, then rewards it with a final backward smile before leaving.
+
+[00:00-00:03.0]
+35mm ground-level tracking rises into a side-follow. Starting from the exact leaning pose in <Picture 1>, she releases her left palm from the wall, pushes shoulder and back away, and advances from P0 to P1 in two short landing steps, the second slightly quicker than the first. The camera retreats a short distance straight backward, keeping a medium framing from head to mid-thigh and bringing her from frame-right toward center. Step impact travels foot -> knee -> hip -> torso; dress waist folds redistribute as she straightens; hair leaves the shoulder a beat later. The pink wall stays clearly behind her. She catches the camera first, then lifts her chin slightly. A restrained hint of a smile appears. During the second landing she absorbs the motion with a small knee bend; the upper body stops first and the chest shows one brief natural rise-and-settle under dress support, while fabric edges and hair tips settle a fraction later. She lowers her chin slightly, checks whether the camera is still backing away, and from 2.7s to 3.4s says quietly: <d>[English] Keep up.</d> The stress lands on “up,” short and clear, lightly challenging.
+
+[00:03.0-00:07.5]
+Without resetting pose, she turns diagonally toward P2 and moves slowly along the wall toward screen-left into P3, settling into a three-quarter left-facing side walk. The camera tracks parallel from the street side, framing head, upper torso, right hand, and a slice of wall, with open space ahead on the left. Her right hand rises near shoulder height and lightly skims the wall. One focus idea only: briefly show the fingertip contact while her face stays readable, then over about half a second transfer focus to her eyes as she looks back toward the camera; after that, keep the face sharp. Eyes move first, then the head follows. She exhales slowly; breath gently lifts and lowers chest, shoulders, and neck while she keeps walking. The corner of her mouth lifts and restrains again, as if confirming that the camera really is following. When her fingertips cross a brittle paint edge, a tiny amount of dust flakes off and drops close to the wall; no large peeling or damage. Before 7.5s she reaches P3 and her right hand transitions from the pink wall onto the edge of the gray shutter.
+
+[00:07.5-00:09.0]
+At P3 she gives the shutter a light tap with her right hand, producing one short metallic tick, then releases immediately. The shutter never opens. She completes a real stop-and-support under the feet, then the hips, shoulders, and head rotate toward the camera in order. The camera performs one brief left whip of about 0.2-0.3 seconds following her turn, with directional motion blur, then settles instantly into a medium head-to-mid-thigh framing from the street side. No axis jump, no background replacement. As the frame stabilizes, her curls and skirt are still returning from the turn; earrings sway lightly then decay. The chest follows the torso turn with a short constrained lateral inertia under the dress and settles naturally, never bouncing independently.
+
+[00:09.0-00:12.0]
+From the settled medium shot at P3, the camera slowly pushes in toward a face-and-upper-body close shot while keeping the shoulder line and dress waist visible. It does not retreat anymore. She notices that the camera is finally coming toward her. She presses her lips together slightly, the smile starts in the outer corners of the eyes, then the mouth releases and she lets out one short natural laugh. Her shoulders drop subtly with the laugh; upper torso and chest move only with the connected exhale. Any remaining turn inertia is already gone. While laughing, she shifts another half-step along the wall toward screen-left, keeping eye contact instead of posing in place. From 10.6s to 11.6s she says softly: <d>[English] That's better.</d> “better” carries the smile, looser than the first line. After the line she takes a small inhale, the smile stays in her eyes, and her right hand begins to rise.
+
+[00:12.0-00:15.0]
+Her right palm briefly sweeps across the right edge of the lens area as a partial foreground wipe without touching the lens and without blacking out the frame. As the hand drops naturally with her turn, she continues from P3 toward P4 along the shutter and wall, leaving in two steps that start fast and then return to a natural pace. The camera pans left to send her out, always remaining on the street side. Around 14.0s, while still walking, she turns her head slightly back and gives the camera one last look with the real smile still present. The camera catches that glance and gradually settles; she keeps moving toward the left edge. End on her back-side profile and part of the old wall still visible, with a living-frame finish rather than a distant cut, freeze, blackout, or location change.
+
+Physical continuity is strict: every inertia must have a source, path, and end state. Step impact moves from foot to knee to hip to torso; turning is driven by planted support under the feet; hair, earrings, skirt hem, and fabric react with slight delay and then decay. The dress retains seam definition, polka-dot pattern, and believable cloth weight. Fitted areas stay constrained by body and seams; only looser skirt edges move with walking, turning, and the light breeze. Chest motion stays synchronized to walking, breathing, and rotation, with stable anatomy and no rubbery deformation or repeated bounce. Contacts happen only at real touch points: feet on ground, hand on wall, hand on shutter. The wall remains intact. The shutter never swaps sides. The poster is ordinary background only and never animates. A light intermittent breeze flows along the wall from the left street opening toward the right, stirring a few loose hairs, soft skirt edges, plant leaves, and one tiny lifted paper corner on the poster, which flutters and settles back.
+
+overall_soundscape:
+Continuous low-intensity side-street ambience runs through the full 15 seconds: distant urban air, restrained alley noise, and a light intermittent breeze moving along the wall. At 0.0-3.0s, two distinct footfalls land with slightly different weight as fabric rubs softly and hair shifts. At the landing settle, keep a brief close-range body rustle. From 2.7-3.4s the woman says once, <d>[English] Keep up.</d> in a natural adult female mid-low register, clear conversational English with a faint dry texture, fully synchronized to accurate lip movement. At 3.0-7.5s, keep subtle fingertip friction against painted wall, a quiet exhale, faint cloth motion, and very small paint dust release with no exaggerated debris sound. At 7.5-9.0s, include one short light metallic tap on the shutter with a tiny fast-decaying resonance, plus turning fabric and earring movement. At 9.0-12.0s, her breathing and one short genuine laugh sit close to the camera; from 10.6-11.6s she says once, <d>[English] That's better.</d> more relaxed and smiling than the first line. At 12.0-15.0s, keep the passing hand as a soft foreground whoosh, two departing steps, continued low street tone, and the last glance landing in a quieter tail. Dialogue and real action sounds must always stay clear. No added crowd voices, no poster voice, no exaggerated impacts, no moans, no melodramatic whooshes.
+
+non_diegetic_music:
+Use a very light, clean rhythmic bed only. A restrained low bass pulse and sparse dry percussion accents support the first quick approach and the shutter tap as timing marks. Reduce percussion during the slow side-walk and keep the music thinned out under the laugh and the second line. The score should stay minimal, modern, and controlled, never sentimental, never wall-to-wall, and always below dialogue and physical Foley.
+```
+
+</details>
+
 <a id="h3-lotr-sitcom-legolas-gimli-argument"></a>
 ### 莱戈拉斯与金力在情景喜剧客厅争吵
 
@@ -745,6 +855,146 @@ Gemini Omni Flash · 文生视频 · 出处: [u/cowardbeater1969 on Reddit](http
 
 ```text
 A professor writes out a mathematical proof for trigonometric identities on a traditional chalkboard, explaining the step he is currently on in the equation.
+```
+
+</details>
+
+<a id="seedance-pixar-dinner-table-last-pizza-slice"></a>
+### 皮克斯风格餐桌上争抢最后一块披萨
+
+<a href="https://x.com/itsshara_ai/status/2090853973930692895"><img src="../../previews/seedance-pixar-dinner-table-last-pizza-slice.jpg" width="360"></a>
+
+提示词按时间段分拍，每段写清画面、带语气标注的台词和音效，30 秒内的节奏因此清楚。定格和停顿音效的指示让模型知道笑点落在哪一拍。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsshara_ai on X](https://x.com/itsshara_ai/status/2090853973930692895) · 112 赞，统计于 2026-10-29
+
+[`pixar-style`](tags.md#tag-pixar-style) [`comedy`](tags.md#tag-comedy) [`dialogue`](tags.md#tag-dialogue) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+30 sec Script Pixar-style Animated Comedy
+
+[0:00–0:04]
+VISUAL: DAD (30s, tired, cardigan, coffee stain on shirt) sits at a cluttered dinner table across from his 6-year-old daughter MIA. Between them: one single last piece of pizza on a plate.
+DAD (mock serious): "Okay. We need to talk about this pizza."
+SFX: fork tapping plate, kitchen clock ticking.
+
+[0:04–0:08]
+VISUAL: Mia narrows her eyes, slowly sliding her hand toward the plate.
+MIA (deadly serious for a 6-year-old): "It's mine. I called it in the car."
+DAD (leaning in): "That's not a real rule."
+SFX: chair creak, dramatic sting.
+
+[0:08–0:12]
+VISUAL: Both their hands shoot toward the pizza at the same time — comedic freeze-frame, hands frozen mid-air an inch from the plate.
+DAD (strained, still frozen): "...rock paper scissors?"
+MIA (also frozen, gritted teeth): "Best of one."
+SFX: record-scratch stop, comedic freeze whoosh.
+
+[0:12–0:17]
+VISUAL: Quick rock-paper-scissors round — Dad throws rock, Mia throws paper. She gasps, delighted. He stares at his fist in betrayal.
+MIA (triumphant): "PAPER! I WIN!"
+DAD (defeated mutter): "I always throw rock. Why do I always throw rock."
+SFX: paper rustle sound effect (exaggerated), triumphant kid giggle.
+
+[0:17–0:22]
+VISUAL: Mia reaches for the pizza — but the family DOG leaps up onto the table from nowhere and swallows the whole slice in one gulp. Frozen silence. Both stare at the dog.
+MIA (quiet horror): "...Buddy."
+DOG: (satisfied chewing sound, tail wag)
+SFX: comedic gulp, table thud, silence.
+
+[0:22–0:26]
+VISUAL: Dad and Mia slowly turn to look at each other, both equally betrayed.
+DAD (flat): "Nobody wins."
+MIA (still staring at the dog, deadpan): "Buddy wins."
+SFX: dog's contented sigh, distant ticking clock resumes.
+
+[0:26–0:30]
+VISUAL: Dog hops off the table and trots away happily. Dad and Mia both slump back in their chairs, sharing a tired look, then start laughing.
+DAD (through laughter): "Next time — best of three."
+MIA (already grinning): "Deal."
+SFX: warm shared laughter, chair scrape, cut to silence on final laugh.
+```
+
+</details>
+
+<a id="kling-mexican-cantina-crime-scene"></a>
+### 黑帮头目在昏暗酒馆质问手下
+
+<a href="https://x.com/MayorKingAI/status/2111902123520930061"><img src="../../previews/kling-mexican-cantina-crime-scene.jpg" width="360"></a>
+
+用编号分镜加每镜头的视场角和画面方向，并写明精确字幕，让 Kling 在11次切镜中保持同一场景。固定人数和座位规则，再把每句台词对应到具体镜头，能让角色稳定、对白节奏清楚。
+
+Kling 4.0 · 文生视频 · 出处: [@MayorKingAI on X](https://x.com/MayorKingAI/status/2111902123520930061) · 111 赞，统计于 2026-10-29
+
+[`crime-drama`](tags.md#tag-crime-drama) [`lip-sync`](tags.md#tag-lip-sync) [`multi-shot`](tags.md#tag-multi-shot) [`spanish-dialogue`](tags.md#tag-spanish-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+SCENE CONTEXT
+EXACTLY 4 HUMAN CHARACTERS — NO DUPLICATES, NO EXTRAS: the boss, the courier and two silent bodyguards, all Mexican. Interior, the back room of a closed cantina in Guadalajara, Mexico, late at night. A courier nicknamed Flaco reports to his boss that the merchandise is gone: a rival family, the Mendozas, ambushed his team on the highway to Tepic and took the whole load. The boss starts completely calm while he eats; the tension rises with every line; he explodes, then drops to a cold, lethal whisper. Crime drama, real time. Only the boss and the courier speak.
+
+CHARACTERS
+ERNESTO (the boss): heavyset Mexican man, slicked-back grey hair, thick grey moustache, a thin old scar cutting through his left eyebrow, heavy-lidded eyes. Black button-up shirt with subtle dark embroidery on the yoke, sleeves rolled to the forearm, a small sauce stain on the cuff, a thick gold chain at the neck. A worn gold signet ring on his right hand. 178 cm.
+FLACO (the courier): very thin, wiry Mexican man, short black hair neatly cut, thin moustache, a small fresh bruise on his left cheekbone, a faded tattoo of a small cross on the back of his right hand. Clean, pressed white short-sleeved shirt, dark jeans, worn brown leather boots, a gold wristwatch with a freshly cracked face. He looks put-together, but his nerves betray him. 182 cm.
+THE BODYGUARDS: two broad, silent men in plain dark short-sleeved shirts, one with a shaved head and a thick black beard, the other with a grey buzz cut and a crooked nose. They stand against the back wall in the half-dark, arms crossed, never speaking.
+
+LOCATION MAP
+A small square table with a worn green oilcloth sits at the center under a single hanging lamp, with a slow ceiling fan above it. Ernesto sits on the right side of the table (screen-right), facing left, with a plate of carne asada, a stack of warm corn tortillas in a cloth, a small clay bowl of salsa, a fork and a full shot glass of tequila. A box of dominoes rests at the edge of the table. An empty wooden chair waits on the left side of the table (screen-left). The two bodyguards stand against the back wall behind the table, one at the left third and one at the right third of the frame, partly in shadow. In the dark background: stacked beer crates without labels, a closed swinging kitchen door, a wall of painted talavera tiles, an old calendar, closed window blinds. The eyeline axis runs left–right across the table; the camera always stays on the same side of it.
+
+FORMAT
+One scene, 11 shots joined by clean hard cuts, classic shot–reverse-shot coverage. Cuts follow the dialogue and also land on the listener's reaction. The framing gets tighter and the silences longer as the tension rises, until the explosion in Shot 9. No fades, no dissolves, no split screens.
+
+SHOTS
+Shot 1 — Wide shot, locked-off, from the far corner of the room, 63° FOV. Ernesto eats in the pool of light while the ceiling fan turns slowly above him; the two bodyguards stand motionless against the back wall. Flaco walks in from screen-left and stops beside the empty chair, standing, hands at his sides. He does not sit. Ernesto keeps eating and ignores him.
+
+Shot 2 — Medium close-up on Ernesto, 47° FOV, eye level, static. He tears a tortilla, keeps chewing, eyes on his plate. Without looking up, he points his fork at the empty chair. Relaxed, unhurried: "Siéntate, Flaco."
+
+Shot 3 — Medium shot on Flaco, 47° FOV, static. Only now does Flaco pull out the chair and sit down slowly, on the front edge of the seat, back straight, hands resting stiffly on his knees.
+
+Shot 4 — Medium close-up on Ernesto, 47° FOV, static. Still eating, still not looking at him. Casual, almost friendly, mouth half full: "¿Y? ¿Cómo salió lo de Tepic?"
+
+Shot 5 — Reverse: medium close-up on Flaco over Ernesto's out-of-focus right shoulder, 47° FOV; one bodyguard is visible out of focus in the background. Flaco rubs his palms slowly along his thighs, swallows, his eyes flick from the plate to Ernesto's face. Fast and nervous, words tumbling out: "Los Mendoza nos cayeron en la carretera, patrón. Tres camionetas. Se llevaron la mercancía. Toda."
+
+Shot 6 — Close-up on Ernesto, 29° FOV, static. His chewing slows… and stops. A long silence. For the first time he lifts his eyes to Flaco. No expression at all. Flat, quiet, slowly, as a statement: "Toda."
+
+Shot 7 — Reverse close-up on Flaco, 29° FOV, handheld with an extremely subtle breath-like float. He cannot hold Ernesto's gaze; his eyes drop, then come back. His jaw tightens, his breathing becomes shallow, his fingers grip his knees. Voice cracking, pleading: "Nos agarraron por sorpresa. No pude hacer nada, patrón. Se lo juro."
+
+Shot 8 — Extreme close-up insert on the table, 29° FOV, static. Ernesto sets his fork down beside the plate with a soft click. His hand rests flat on the oilcloth; his fingers slowly curl into a fist. Silence; only the creak of the ceiling fan.
+
+Shot 9 — Medium shot on Ernesto, 47° FOV, handheld, the camera jolting once with the impact. He slams his open palm onto the table; the shot glass jumps and spills a little tequila, the dominoes box rattles. He leans over the table toward Flaco, veins visible on his neck, face red, shouting hard: "¡La quiero de vuelta! ¡Haz lo que tengas que hacer!" Behind him, both bodyguards uncross their arms and take one step forward.
+
+Shot 10 — Close-up on Ernesto, 29° FOV, slow push-in ending on his eyes. Still leaning in, his breathing heavy, his face half in shadow under the lamp. His voice suddenly drops to a cold, quiet whisper, each word deliberate: "O no vuelves a ver salir el sol."
+
+Shot 11 — Two-shot in profile across the table, 47° FOV, slow lateral drift of less than half a meter to the right, ending with both faces and the table between them in frame, the bodyguards out of focus behind. Ernesto slowly sits back, smooths his shirt, picks up the shot glass and drinks the tequila in one swallow. Flaco stays frozen in his chair, breathing hard, staring at him. Hold in silence.
+
+CHARACTER ACTING
+Naturalistic film acting with a steady, rising tension. Ernesto: total, unhurried calm in Shots 1–4 (he ignores Flaco, eats, never looks at him); the first eye contact in Shot 6 is the turning point; quiet tension in Shot 8; a sudden, real explosion of rage in Shot 9 (jaw clenched, eyes wide, neck tendons tight); then an instant return to icy control in Shot 10, which is the most frightening moment. Flaco: tension held inside the body — stiff posture, hands on his knees, rubbing his thighs, swallowing, quick eye movements, shallow breathing; he flinches back in his chair at the slam. His skin stays dry. The bodyguards stay expressionless and silent throughout. Faces show living micro-expressions and natural irregular blinks.
+
+LIGHTING
+One warm 3000K hanging lamp over the table is the key source: hard top light, fast falloff, deep shadows filling the room, eye sockets partly in shadow; the bodyguards are mostly in shadow, lit only on their shoulders and the edges of their faces. The slowly turning ceiling fan above the lamp casts soft rhythmic shadows across the table and faces; the lamp swings slightly after the slam in Shot 9. A faint red neon glow from the cantina sign outside leaks through the slats of the closed blinds in the background. Light color stays identical after every cut.
+
+AUDIO
+All dialogue in natural, clear Mexican Spanish with an authentic Mexican accent and intonation. Ernesto: deep voice, casual and slow at first, flat and quiet, then a loud raw shout in Shot 9, then a cold whisper in Shot 10. Flaco: tense tenor voice, fast and breathy, cracking when he pleads. The bodyguards never speak. Each speaker has a distinct voice. Only one person speaks at a time, no interruptions or overlapping, natural pauses between lines. Lip movements synchronized with the Spanish dialogue. Ambience: creaking ceiling fan, distant refrigerator hum, faint street traffic and a dog barking far away outside, fork against the plate, chewing, the chair scraping on the floor tiles in Shot 3, Flaco's breathing, a heavy palm slam on the table, the shot glass knocking on the wood. Ambience stays below the dialogue. No background music.
+
+SUBTITLES
+Burned-in English subtitles, bottom-center inside the title-safe area, positioned 8% above the bottom edge of the frame. White sans-serif text with a thin black outline, maximum two lines, stable position and size in every shot. Each subtitle appears and disappears exactly in sync with its spoken line:
+Shot 2: "Sit down, Flaco."
+Shot 4: "So? How did the Tepic job go?"
+Shot 5: "The Mendozas hit us on the highway, boss. Three trucks. They took the merchandise. All of it."
+Shot 6: "All of it."
+Shot 7: "They caught us by surprise. I couldn't do anything, boss. I swear."
+Shot 9: "I want it back! Do whatever you have to do!"
+Shot 10: "Or you'll never see the sun rise again."
+Subtitle spelling must match exactly. No other text on screen.
+
+STYLE
+Gritty Mexican crime drama. 35mm film texture with organic grain, light haze in the air, shallow depth of field, crushed blacks, soft halation around the lamp, no digital sharpening. Palette: 55% deep black and shadow, 30% warm amber and worn green, 15% red neon accent.
+
+POSITIVE CONSTRAINTS
+Exactly four people for the entire scene: Ernesto, Flaco and two bodyguards. Same faces, hair, clothing, bruise, gold chain, watch and signet ring in every shot. Ernesto always screen-right looking left; Flaco always screen-left looking right; the bodyguards always against the back wall. Flaco stands in Shots 1 and 2 and sits down only in Shot 3, after Ernesto tells him to; from Shot 3 onward he stays seated. Exactly 7 spoken lines: 5 by Ernesto, 2 by Flaco. Ernesto stays seated; the bodyguards take only one step forward in Shot 9. Hands and fingers anatomically correct. Faces stable. The scene ends in silence with Ernesto drinking his tequila and Flaco frozen.
 ```
 
 </details>
@@ -824,6 +1074,68 @@ MiniMax H3 · 文生视频 · 出处: [@cocktailpeanut on X](https://x.com/cockt
 
 ```text
 A single continuous fixed wide shot in a plain, brightly lit test room, filmed like an unedited behavioral experiment. At the start, a red cube is on a table, a drawer is closed, a lamp is off, a chair sits precisely inside a taped floor outline, a hat hangs on a wall hook beside a bare mannequin, and a door is open. One person quickly performs six clearly separated actions in this exact order: places the red cube on a shelf, opens the drawer, turns on the lamp, moves the chair away from its taped outline, takes the hat from the hook and puts it on the mannequin, then closes the door. An off-screen instructor clearly says, "Undo only the last three actions." The person pauses briefly, understands the instruction, and carries it out exactly. No cuts, no time jumps, no extra actions, no additional dialogue, realistic synchronized room sounds.
+```
+
+</details>
+
+<a id="kling-husband-confesses-kitchen-dialogue"></a>
+### 丈夫在厨房餐桌前坦白被解雇
+
+<a href="https://x.com/MayorKingAI/status/2111427300533432812"><img src="../../previews/kling-husband-confesses-kitchen-dialogue.jpg" width="360"></a>
+
+提示词逐镜头标注景别与焦距，为两个角色分别设定情绪变化，并固定灯光与对白轮次，使多次切镜后画面依然连贯。对白、口型同步、停顿与环境音的详细音频规格，有助于台词的表演效果。
+
+Kling 4.0 · 文生视频 · 出处: [@MayorKingAI on X](https://x.com/MayorKingAI/status/2111427300533432812) · 79 赞，统计于 2026-10-29
+
+[`dialogue`](tags.md#tag-dialogue) [`lip-sync`](tags.md#tag-lip-sync) [`shot-coverage`](tags.md#tag-shot-coverage) [`emotion`](tags.md#tag-emotion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+SCENE CONTEXT
+EXACTLY 2 HUMAN CHARACTERS — NO DUPLICATES, NO EXTRAS. Interior, a small lived-in apartment kitchen, late at night. A husband confesses to his wife that he was fired in June and has been pretending to go to work every day. She did not know; her disbelief turns to hurt, then to unconditional support. Intimate two-person drama, real time. The emotion lives equally in their faces, their words and their voices.
+
+CHARACTERS
+DANIEL: lean man, short dark hair greying at the temples, two days of stubble, deep shadows under the eyes, a small healed nick on his chin. Pale blue cotton office shirt, top button undone, sleeves rolled to the forearm, a loosened dark navy tie, a faint coffee stain on the left cuff. Plain gold wedding ring on his left hand. 180 cm.
+LUCÍA: shoulder-length chestnut hair loosely tied, strands falling over her face, natural skin with faint freckles and slight redness around the nose, no makeup. Oversized oatmeal wool cardigan with a pulled thread at one cuff, over a grey cotton t-shirt. Plain gold wedding ring on her left hand. 165 cm.
+
+LOCATION MAP
+A small square kitchen table with a worn wooden top sits at the center. Daniel sits on the right side of the table (screen-right), facing left. The doorway to a dark hallway is screen-left. On the table: a half-full glass of water between Daniel's hands and a folded, unopened envelope. His laptop bag rests on the chair beside him. The window blind is fully closed. Behind Daniel: a kitchen counter and an old wall clock. The eyeline axis runs left–right across the table; the camera always stays on the same side of it.
+
+FORMAT
+One scene, 8 shots joined by clean hard cuts, classic shot–reverse-shot coverage. Cuts follow the dialogue and also land on the listener's reaction. No fades, no dissolves, no split screens.
+
+SHOTS
+Shot 1 — Wide shot, locked-off, from the corner behind the counter, 63° FOV. Daniel sits alone in the pool of lamplight, both hands around the glass, not drinking, staring at nothing. Lucía walks in through the dark doorway, relaxed and unaware, about to cross the kitchen.
+
+Shot 2 — Medium close-up on Daniel, 47° FOV, eye level, very slow push-in ending on his face. He lifts his eyes to her; his jaw tightens, his nostrils flare with one deep breath, his lips part twice before any sound comes out. Low, slow and hesitant, with a heavy pause before the last three words: "Lucía… I need to tell you something. I got fired. In June."
+
+Shot 3 — Reverse: medium shot of Lucía over Daniel's out-of-focus right shoulder, 47° FOV. She freezes mid-step. Her brow furrows, her mouth falls slightly open, a short incredulous breath escapes her. Quick and confused, almost a half-laugh of disbelief: "What? What do you mean, you got fired?" She walks to the table and grips the back of the chair opposite him, standing, looking down at him, knuckles whitening. Her voice rises with hurt, sharp but never shouting, stressing "hiding" and "nothing": "And you've been hiding it from me this whole time, like nothing happened?"
+
+Shot 4 — Close-up on Daniel, 29° FOV, slightly high angle matching her standing eyeline, handheld with an extremely subtle breath-like float. He looks up at her, then his eyes drop to the glass; his thumb rubs its rim; his eyes turn glassy. Quiet, ashamed, his voice thinning, with a long pause in the middle and a crack on the last word: "I wasn't trying to hide it. Every morning I pretended I was going to work… and I spent the whole day looking for a job."
+
+Shot 5 — Reverse close-up on Lucía, 29° FOV, slightly low angle. No words. Her grip on the chair loosens; her furrowed brow slowly relaxes; her lips press together and tremble; her eyes fill with water. The anger drains from her face and becomes pain. The clock ticks.
+
+Shot 6 — Medium shot of Lucía, 47° FOV. She pulls out the chair and sits down opposite him, now at his eye level, leaning slightly toward him. Softer and wounded, her voice breaking on "trust": "Why didn't you tell me? Don't you trust me?"
+
+Shot 7 — Close-up on Daniel, static, eye level. He opens his mouth to answer but no words come. His chin trembles, his eyes go red, a tear gathers on his lower lid, he swallows hard and gives one small shake of the head. Silence.
+
+Shot 8 — Two-shot in profile across the table, 47° FOV, slow lateral drift of less than half a meter to the right, ending with both faces and the table between them in frame. Lucía reaches across and places her hand over his. A single tear runs down her cheek; she does not wipe it. Quiet, warm and absolutely firm, each word deliberate, stressing "always": "I'm always going to be there for you." Daniel turns his hand over and holds hers tightly, closes his eyes, and lets out a long, shaking exhale. Hold on the two of them in silence.
+
+CHARACTER ACTING
+Restrained, naturalistic film acting; every emotion is visible on the face in close-up. Daniel: guilt and shame — avoids her eyes, then forces himself to hold them; jaw clenched, breath short through the nose, hands restless on the glass; relief only arrives in the final exhale. Lucía: disbelief (frozen, brow furrowed, mouth open) → hurt (knuckles white on the chair, voice rising) → softening (grip loosens, eyes fill) → steady support (still, firm gaze, gentle half-smile through tears in the final shot). Faces show living micro-expressions: trembling chins, glistening eyes, swallowing, natural irregular blinks.
+
+LIGHTING
+One warm 3200K pendant lamp hanging low over the table is the key source: light from above-front, fast falloff, deep shadows in the corners of the room, catchlights visible in both characters' eyes. A faint cold 5600K spill from the hallway behind Lucía outlines her hair. Light direction and color stay identical after every cut.
+
+AUDIO
+All dialogue in natural, clear English with a neutral American accent. Daniel: low, tired baritone, slow, hesitant, with long pauses and an audible tremor when emotion rises. Lucía: warm mid-range voice that moves from confused and fast, to sharp and hurt, to soft and breaking, to quiet and firm. Each has a distinct voice. Only one person speaks at a time, no interruptions or overlapping, about one second of silence between lines. Breaths, swallows and small catches in the voice are audible. Lip movements synchronized with the English dialogue. Ambience: wall clock ticking, refrigerator hum, chair legs scraping on floor tiles, glass touching wood, cardigan rustle. Ambience stays below the dialogue. No background music. No subtitles.
+
+STYLE
+Intimate auteur drama. 35mm film texture with organic grain, shallow depth of field, soft halation around the lamp, no digital sharpening. Palette: 60% warm amber and wood brown, 30% deep shadow, 10% cold blue spill from the hallway.
+
+POSITIVE CONSTRAINTS
+Exactly two people for the entire scene. Same faces, hair, clothing and wedding rings in every shot. Daniel always screen-right looking left; Lucía always screen-left looking right. Exactly 4 dialogue turns: 2 by Daniel, 2 by Lucía. Lucía stands in Shots 3–5 and sits from Shot 6 onward. Hands and fingers anatomically correct when they hold hands. Faces stable. The scene ends in silence with their hands joined on the table; they stay seated.
 ```
 
 </details>
@@ -917,6 +1229,31 @@ non_diegetic_music: Very restrained low strings and sparse piano at a slow tempo
 
 </details>
 
+<a id="kling-cafe-rain-dialogue-push-in"></a>
+### 雨天咖啡馆里两人低声交谈
+
+<a href="https://x.com/HBCoop_/status/2112635806045421843"><img src="../../previews/kling-cafe-rain-dialogue-push-in.jpg" width="360"></a>
+
+先给出台词原文和口音，再把镜头写成缓慢推近，并点名环境声（雨声、咖啡馆底噪）。动作按顺序列出，让说话的人和聆听的人反应时间对得上。
+
+Kling 4.0 · 图生视频 · 出处: [@HBCoop_ on X](https://x.com/HBCoop_/status/2112635806045421843) · 60 赞，统计于 2026-10-29
+
+[`dialogue`](tags.md#tag-dialogue) [`photoreal`](tags.md#tag-photoreal) [`cafe`](tags.md#tag-cafe) [`rain`](tags.md#tag-rain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+1. Photoreal with a spoken line.
+
+Both models spoke. Kling 3.0 added a word that was not in the prompt. Kling 4.0 kept the wording but slurred the middle of the line. Levels are matched in the cut so neither model sounds louder than the other.
+
+Kling 3.0 first, then Kling 4.0, each with its own sound.
+
+Prompt: The man on the left leans in and says, in a calm British accent, "You already know what I'm going to say." The other man lowers his cup and gives a small nod. Slow push-in on the two of them, rain running down the window, warm lamps steady. One continuous take, natural dialogue, cafe room tone.
+```
+
+</details>
+
 <a id="h3-cleopatra-orders-pizza-delivery"></a>
 ### 克利奥帕特拉在王座上迎接披萨外卖员
 
@@ -940,6 +1277,317 @@ MiniMax H3 · 文生视频 · 出处: [@Strength04_X on X](https://x.com/Strengt
 
 </details>
 
+<a id="wan-deadpan-ai-video-tells-comedy"></a>
+### 黑色冷幽默博主在院子里讲解AI视频识别
+
+<a href="https://x.com/johnAGI168/status/2092593100346519620"><img src="../../previews/wan-deadpan-ai-video-tells-comedy.jpg" width="360"></a>
+
+用 @图片1、@图片2、@图片3 分别绑定三个角色，并规定脸部、服装和体型不得改动。按时间段划分镜头，逐句写明口型对白，并规定人物反应必须晚于事件发生，让笑点按顺序出现。
+
+Wan 3.0 · 参考生视频 · 出处: [@johnAGI168 on X](https://x.com/johnAGI168/status/2092593100346519620) · 49 赞，统计于 2026-10-29
+
+[`reference-images`](tags.md#tag-reference-images) [`chinese-dialogue`](tags.md#tag-chinese-dialogue) [`lip-sync`](tags.md#tag-lip-sync) [`deadpan-comedy`](tags.md#tag-deadpan-comedy) [`multi-character`](tags.md#tag-multi-character)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+【风格】中国本土黑色冷幽默短剧（Chinese Deadpan Comedy），真实人物实拍（Photorealistic Live Action），生活化网络短片质感，轻微手持摄影，真实物理运动，4K高清
+【时长】30秒，单次直出
+【画幅】16:9横屏
+【语言】全程中文现场对白，精准中文口型同步；无旁白、无字幕
+【场景】中国北方县城老院子 → 中国小城复古甜品店 → 中国县城老式招待所走廊
+【角色】@图片1 命名“墨宁”，负责对镜讲解；@图片2 命名“阿蓝”，甜品店同桌顾客；@图片3 命名“王姨”，阿蓝的陪同者
+
+【参考图执行规则】
+三名角色的脸部、身形、发型、妆容、服装和配饰全部严格继承各自参考图，不在视频中自行增加、删除或修改任何人物外观元素。
+角色第一次出现时即完全匹配对应参考图，后续场景切换不得换脸、换装或改变体型。
+
+【核心内容】
+墨宁面对镜头讲解：判断一条视频是否由AI生成，不要只看清晰度，而要观察动物动作、物理效果、人物反应和空间关系。
+她一边讲解，一边用越来越荒唐的现场行为进行“示范”，但始终认为出现问题的是AI视频，而不是她自己。
+
+【人物表演逻辑】
+墨宁始终把自己当成认真教学的专业人士。越是发生荒唐事件，她越冷静、越理直气壮。她不是故意逗观众笑，笑点来自她一本正经的错误判断。
+阿蓝在事件发生前完全没有防备；必须等液体真正接触身体后，才出现缩颈、闭眼、抬手和躲闪反应。
+王姨必须先确认阿蓝的情况，再转头看向墨宁；禁止提前瞪人或提前预知事件。
+
+[00:00-00:05.30] 镜头1：不用看画质，先看细节（Static Medium Shot）
+中国北方县城老院子，灰砖墙、红色木门、白色塑料椅、墙根杂草、晾晒的玉米和生活杂物。午后自然光从侧面照进院子，树叶影子轻微晃动。
+
+固定正面中景：墨宁坐在白色塑料椅上，身体自然前倾，双手靠近膝盖，直视镜头。
+
+[00:00-00:02.30]
+墨宁像分享一个简单实用的小技巧，语速清楚、自然：
+
+【对白口型指导】“怎么判断一条视频是不是AI做的？”
+
+说完保持目光不动，停顿约0.2秒，确认观众注意力已经集中。
+
+[00:02.30-00:05.30]
+墨宁轻轻抬起一只手，像开始列举重点：
+
+【对白口型指导】“不用盯着画质，先看动物。AI一碰猫猫狗狗，最容易露馅。”
+
+“先看动物”略微加重；“最容易露馅”说得很笃定，像这是一条已经被反复验证的规律。
+
+说到“猫猫狗狗”时，院子外传来逐渐靠近的狗喘气声。墨宁听见声音，但暂时不回头。
+
+[00:05.30-00:10.20] 镜头2：动物动作最容易露馅（Handheld Reframing）
+[00:05.30-00:06.50]
+一只大型黑狗从画面左下方快速进入，直接把脑袋挤到墨宁两腿之间。
+
+狗进入时身体具有真实前冲惯性，先是头部靠近，随后肩膀和身体跟上，禁止整只狗突然出现在画面里。
+
+墨宁的双手被狗顶得自然抬起，身体向后回弹几厘米。摄影机因为狗突然进入而本能向下偏移，焦点短暂落在狗头上。
+
+墨宁低头看着狗说：
+
+【对白口型指导】“就拿这只来说。”
+
+她的语气不是逗狗，而是像终于找到了现成的教学案例。
+
+[00:06.50-00:07.70]
+黑狗继续向前挤，身体横在墨宁腿前，尾巴扫过塑料椅腿。
+
+墨宁用手把狗头轻轻往旁边推，随后抬眼看向镜头：
+
+【对白口型指导】“看出来了吗？”
+
+她问完后保持半秒停顿，给观众观察狗的时间。
+
+[00:07.70-00:09.60]
+黑狗从墨宁面前横向经过，又突然把鼻子凑近摄影机，导致画面前景明显虚焦。
+
+墨宁的视线跟着狗移动，眉头逐渐收紧：
+
+【对白口型指导】“动作一卡一卡的，眼神也不对。”
+
+“动作一卡一卡的”说得像在进行技术分析。狗的动作本身必须连续自然，笑点来自墨宁强行把正常动作说成AI破绽。
+
+[00:09.60-00:10.20]
+狗鼻尖几乎贴住镜头，发出一声短促狗叫。
+
+墨宁在后方看着它，干脆地下结论：
+
+【对白口型指导】“一看就假。”
+
+说完不笑。狗叫声结束的瞬间硬切下一场景。
+
+[00:10.20-00:14.60] 镜头3：物理效果测试（Extreme Close-up → Medium Shot）
+硬切到中国小城复古甜品店。木桌、玻璃食品柜、白瓷茶杯、暖水瓶、纸巾盒和中文价目牌构成生活化环境。背景顾客自然吃饭聊天。
+
+墨宁、阿蓝和王姨坐在同一张桌旁。桌上摆着一大杯粉红色草莓酸奶饮品和另一杯浅色饮品。
+
+[00:10.20-00:10.70]
+墨宁突然向摄影机靠近，脸部进入极近景。
+
+由于距离快速缩短，画面先轻微失焦，随后自动对焦准确落在墨宁的双眼和嘴唇上。
+
+[00:10.70-00:13.70]
+墨宁睁大眼睛，像准备讲第二个重点：
+
+【对白口型指导】“第二，看物理效果。画面里的液体一多，最容易穿帮。”
+
+“物理效果”四个字说得清楚、稍慢。
+
+说到“液体一多”时，她的视线短暂移向桌上的粉红色饮品；说到“最容易穿帮”时，再把目光转回镜头。
+
+阿蓝和王姨继续自然坐着，不得提前观察墨宁的手，也不得表现出警惕。
+
+[00:13.70-00:14.60]
+切换双人中景。
+
+墨宁退回座位，顺手拿起阿蓝面前的粉红色饮品，双手将杯子举到阿蓝头顶。
+
+她没有蓄力或夸张准备，直接把杯口翻转。
+
+浓稠粉红液体在重力作用下形成连续流柱，先落到阿蓝头顶，再沿头部、脸侧、肩膀和衣料向下流淌，最后飞溅到木桌上。
+
+杯内液面必须随着倾倒逐渐降低；液体具有真实重量、黏度和飞溅惯性，禁止凭空出现、悬浮、逆流或穿透容器。
+
+【音效】玻璃杯轻响、浓稠液体落下声、液体拍击桌面的飞溅声。
+
+[00:14.60-00:18.20] 镜头4：真实反应不能提前（Delayed Reaction）
+[00:14.60-00:15.20]
+液体第一次接触阿蓝后，保留约0.2秒的神经反应延迟。
+
+随后阿蓝突然缩起脖子、闭紧双眼，肩膀快速抬高，双手本能地挡在头部附近。
+
+她张嘴发出一声短促尖叫，身体带着真实惯性向侧后方躲闪，椅子被动作带动，在地面摩擦出声音。
+
+禁止阿蓝在液体落下前闭眼、尖叫、抬手或闪躲。
+
+[00:15.20-00:16.30]
+阿蓝继续向旁边躲，手臂扫过桌面，带动桌面上的液体发生第二次小范围飞溅。
+
+墨宁保持杯口向下，直到饮品基本流空才把杯子收回。杯子不能突然变空，手掌不能与杯子融合。
+
+墨宁低头看一眼空杯，确认“实验完成”，整个过程没有道歉，也没有慌乱。
+
+[00:16.30-00:17.50]
+王姨先愣住半拍，随后立刻靠近阿蓝。
+
+她一只手扶住阿蓝，另一只手帮她擦掉脸部附近的液体。她的注意力必须先集中在阿蓝身上，确认情况后才抬头。
+
+[00:17.50-00:18.20]
+近景：王姨缓慢转头看向墨宁，眉头压低，嘴唇紧闭。
+
+阿蓝靠着王姨喘气，残留液体继续自然向下滴落。两人没有清晰对白，只保留尖叫尾音、急促呼吸和衣料摩擦声。
+
+[00:18.20-00:21.30] 镜头5：人物反应也会露馅（Reverse Medium Close-up）
+正反打切到墨宁。
+
+她独自坐在桌子另一侧，面前的桌面被粉红液体和水果碎块弄得一片狼藉，空杯落在桌角。
+
+[00:18.20-00:19.00]
+墨宁看向阿蓝和王姨，轻轻抬起眉峰：
+
+【对白口型指导】“再看人物反应。”
+
+她的口吻依然是讲解知识点，没有任何内疚。
+
+[00:19.00-00:21.30]
+墨宁先观察阿蓝，再看一眼正盯着自己的王姨，最后重新看向镜头：
+
+【对白口型指导】“刚才那一下，反应太整齐，明显演过了。”
+
+“反应太整齐”说得像在分析表演问题；“演过了”短促收尾。
+
+直到整句话说完，她一侧嘴角才出现非常轻微的讥讽笑意。禁止提前微笑或从头到尾保持笑容。
+
+[00:21.30-00:25.20] 镜头6：空间关系最难处理（Backward Tracking Shot）
+硬切到中国县城老式招待所走廊。
+
+狭长走廊两侧分布多扇房门，墙面安装暖黄色吸顶灯。墙上只有一块清晰规范的绿色中文“安全出口”标识，禁止出现英文或乱码。
+
+[00:21.30-00:22.40]
+墨宁从走廊远端径直走向摄影机。
+
+摄影机以相同速度向后移动，始终保持墨宁位于画面中央。她先不说话，走廊中只保留脚步声和轻微环境声。
+
+[00:22.40-00:25.20]
+墨宁继续行走，对镜头讲出最后一个判断方法：
+
+【对白口型指导】“最后看门。空间关系一复杂，AI就特别容易出错。”
+
+“最后看门”稍微停顿；“空间关系”清晰咬字；“特别容易出错”语气笃定。
+
+经过“安全出口”标识时，标识必须固定在墙面，不能跟随人物移动、扭曲或变成其他文字。
+
+[00:25.20-00:28.50] 镜头7：门认错了（Door Physics Punchline）
+[00:25.20-00:25.80]
+墨宁停在走廊左侧的一扇房门前，侧身面对房门。
+
+手部特写：她准确握住这扇门的金属把手，将把手向下压。
+
+手指数量正确，手掌与门把手保持明确接触，禁止粘连、穿透或错位。
+
+[00:25.80-00:26.30]
+切换中景。
+
+墨宁握住的这扇门没有打开，旁边另一扇完全无人触碰的门反而同步打开一条缝。
+
+两扇门保持独立完整，门板和门框不能融合。错误动作只发生一次，因果关系必须清楚：墨宁压下左侧门把手，右侧房门却打开。
+
+[00:26.30-00:27.00]
+墨宁先低头确认自己手里的门把手，再缓慢转头看向旁边自行打开的门。
+
+她眉头轻轻收紧，停顿半秒后看向镜头：
+
+【对白口型指导】“看吧，门都认错了。”
+
+不是惊讶尖叫，而是“果然被我说中了”的平静语气。
+
+[00:27.00-00:27.80]
+旁边的门缓慢自行关闭。
+
+墨宁明显翻一次白眼，松开手中的门把手：
+
+【对白口型指导】“算了，走了。”
+
+语气疲惫、干脆，最后一个字自然落下。
+
+[00:27.80-00:28.50]
+墨宁再次推动原来的房门，这一次房门正常打开。
+
+她侧身进入房间。摄影机停留在走廊，不跟进房间。墨宁完全出画后，房门迅速关上，发出一声沉闷的“砰”。
+
+[00:28.50-00:30.00] 镜头8：黑屏收尾（Hard Cut to Black）
+关门声响起的瞬间硬切纯黑画面，黑屏保持到30秒结束。
+
+黑屏中保留关门声余韵和房间内逐渐远去的两三步脚步声。最后0.5秒完全安静。
+
+黑屏不出现字幕、标题、Logo或结束卡。
+
+【完整对白汇总】
+墨宁：“怎么判断一条视频是不是AI做的？”
+墨宁：“不用盯着画质，先看动物。AI一碰猫猫狗狗，最容易露馅。”
+墨宁：“就拿这只来说。”
+墨宁：“看出来了吗？”
+墨宁：“动作一卡一卡的，眼神也不对。”
+墨宁：“一看就假。”
+墨宁：“第二，看物理效果。画面里的液体一多，最容易穿帮。”
+墨宁：“再看人物反应。”
+墨宁：“刚才那一下，反应太整齐，明显演过了。”
+墨宁：“最后看门。空间关系一复杂，AI就特别容易出错。”
+墨宁：“看吧，门都认错了。”
+墨宁：“算了，走了。”
+
+【声音要求】
+墨宁所有对白使用同一中文声线，语速自然、清晰，像面对手机镜头分享经验，不使用翻译腔、播音腔或机械朗读。
+每句对白必须由墨宁本人开口，中文口型与声音准确同步。
+院子保留风声、鸟叫、狗喘气和狗叫；甜品店保留顾客交谈、餐具声、液体飞溅和尖叫；招待所保留脚步、门轴和关门声。
+不添加持续背景音乐，不使用罐头笑声。
+
+【全局连续性】
+三名人物始终严格继承各自参考图，不对外貌、发型、身形、妆容、服装和配饰进行任何二次设计。
+墨宁在三个场景中保持同一外观和同一声线。
+阿蓝与王姨只出现在甜品店；黑狗只出现在院子；角色离开画面后不得在同一镜头突然返回。
+甜品店正反打保持人物座位和视线方向一致。
+所有场景切换使用明确硬切，禁止人物或背景在画面中途融化变形。
+```
+
+</details>
+
+<a id="h3-rainy-diner-engagement-ring-proposal"></a>
+### 雨夜餐厅里的求婚戒指
+
+<a href="https://x.com/EndFolding79421/status/2100797634650734840"><img src="../../previews/h3-rainy-diner-engagement-ring-proposal.jpg" width="360"></a>
+
+两张角色参考图锁定人物外观，提示词明确写出两人坐在桌子两侧的座位关系。带时间码的分镜、命名的镜头切换，以及禁止复制人物的连续性规则，让10秒的场景清晰易读。
+
+MiniMax H3 · 参考生视频 · 出处: [@EndFolding79421 on X](https://x.com/EndFolding79421/status/2100797634650734840) · 46 赞，统计于 2026-10-29
+
+[`character-reference`](tags.md#tag-character-reference) [`shot-list`](tags.md#tag-shot-list) [`continuity`](tags.md#tag-continuity) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Man reference <image 0>
+Woman reference <image 1>
+Use the two supplied character references to preserve the exact identity and appearance of the red-haired woman and dark-haired man. EXACTLY TWO PEOPLE are present in this scene: ONE woman and ONE man. NEVER duplicate either character.
+
+Late at night inside an old, slightly worn roadside American diner during heavy rain. The woman is already sitting alone on ONE SIDE of a booth, beside a rain-covered window, holding a ceramic cup of coffee. The man arrives and sits DIRECTLY ACROSS THE TABLE FROM HER on the OPPOSITE bench. He NEVER sits beside her. Once seated, both characters remain on their respective opposite sides of the table for the entire scene. Maintain this exact spatial relationship through every camera cut.
+
+The visual treatment is moody, imperfect, atmospheric live-action feature-film photography, not pristine digital video. Slightly underexposed faces, deep soft shadows, low-key practical lighting, warm dim tungsten diner lamps mixed with cold blue-gray rainy window light, subdued colors, restrained saturation, gentle highlight bloom and halation around practical lights, subtle organic 35mm-style grain, slight lens softness, natural skin texture, atmospheric haze, imperfect shadow detail, soft optical depth of field and natural motion blur. Rain streaks distort distant neon and headlights outside into soft colored bokeh. Avoid clean clinical lighting, beauty lighting, glossy commercial imagery, HDR, razor-sharp edges, perfect digital clarity, plastic skin and polished AI aesthetics. It should look photographed through a real cinema lens in a dark location, with texture and imperfection.
+
+[00:00–00:02] Moody medium-wide shot from behind the man's shoulder as he approaches the booth. The woman is visible ALONE on the opposite side of the table, looking down sadly at her coffee. He slides into the empty bench directly across from her. CUT immediately once he is seated.
+
+[00:02–00:04] Tight close-up of the woman from the man's seated perspective. His shoulder may appear ONLY as a soft out-of-focus foreground edge. Do not show another man anywhere in frame. She raises her eyes toward him, disappointed, and quietly says: “You're late.”
+
+[00:04–00:06] Reverse tight close-up of the man from the woman's seated perspective. Her red hair may appear ONLY as a soft blurred foreground edge. He says quietly: “I'm sorry... but I had a good reason.”
+
+[00:06–00:08] CUT to a close tabletop insert. His hand places a small OPEN engagement-ring box beside her coffee. A beautiful engagement ring is clearly visible inside. Warm practical light catches the ring naturally. Only his hand enters the shot.
+
+[00:08–00:10] CUT directly to an extreme close-up of the woman's face. She freezes in disbelief. Her eyes widen and begin filling with tears; her lips part, then slowly form a stunned, emotional smile. Cold rainy-window bokeh glows softly behind her. She looks across the table toward him. End on her face.
+
+CRITICAL CONTINUITY: Exactly ONE woman and ONE man. Never clone, duplicate or create another version of either character. The woman remains on her original side of the booth. The man sits ONLY on the opposite side. He NEVER sits beside her. An over-the-shoulder foreground shoulder is part of the SAME person whose viewpoint the camera represents and must NEVER become another visible character.
+
+NO MUSIC. Only quiet rain, subdued diner ambience and dialogue.
+```
+
+</details>
+
 <a id="h3-spiderman-superman-rooftop-banter"></a>
 ### 蜘蛛侠与超人在屋顶互相调侃
 
@@ -955,6 +1603,48 @@ MiniMax H3 · 文生视频 · 出处: [@ivanfioravanti on X](https://x.com/ivanf
 
 ```text
 Generate a scene of “Spiderman vs Superman” that says, “Hey", Spiderman says to Superman, ‘Hey, we keep waiting for GPT‑6 to come out,’ and Superman says, ‘Are you? I started using it one week ago.
+```
+
+</details>
+
+<a id="h3-autumn-leaf-pile-pool-reveal"></a>
+### 女子跳进落叶堆露出蓝色泳池
+
+<a href="https://x.com/amynys/status/2102443755240407287"><img src="../../previews/h3-autumn-leaf-pile-pool-reveal.jpg" width="360"></a>
+
+把笑话拆成有先后顺序的节拍（台词、迈步、跳入、揭晓），并用固定广角机位拍摄，让惊喜的泳池在一个长镜头里看得清楚。把表情和竖大拇指的动作写明，给脸部和手势具体的目标。
+
+MiniMax H3 · 文生视频 · 出处: [@amynys on X](https://x.com/amynys/status/2102443755240407287) · 42 赞，统计于 2026-10-29
+
+[`physical-comedy`](tags.md#tag-physical-comedy) [`autumn`](tags.md#tag-autumn) [`wide-shot`](tags.md#tag-wide-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cheerful young adult in a cozy mustard sweater stands on a leafy suburban sidewalk beside a perfect pile of orange and red autumn leaves. They beam at the camera and announce “Happy first day of fall!” with delighted confidence, then take one proud step and leap into the pile. The leaves burst outward to reveal a tiny blue inflatable kiddie pool underneath; the person pops up from the pool wearing oversized sunglasses, gives a big thumbs-up, and grins as a few leaves drift onto their head. Warm golden afternoon light, cheerful autumn colors, playful physical comedy, expressive face, clear readable action, one continuous locked-off wide shot, crisp comic timing, natural body motion, upbeat seasonal mood, 24fps film motion with clean detail.
+```
+
+</details>
+
+<a id="h3-stuart-little-snowbell-friends"></a>
+### 斯图尔特小鼠在客厅仰望雪球猫
+
+<a href="https://x.com/MrDasCreates/status/2084551020760433134"><img src="../../previews/h3-stuart-little-snowbell-friends.jpg" width="360"></a>
+
+提示词先用一句话点明角色、场景和镜头运动，再把每句台词连同说话人和语气写在引号中，便于模型分配声音。缓慢推近的镜头和原生立体声对白标注，同时定下了画面与音频。
+
+MiniMax H3 · 文生视频 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2084551020760433134) · 40 赞，统计于 2026-10-29
+
+[`dialogue`](tags.md#tag-dialogue) [`3d-animation`](tags.md#tag-3d-animation) [`stereo-audio`](tags.md#tag-stereo-audio) [`character`](tags.md#tag-character)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+The storytelling is what stands out.
+
+Expressive performances, smooth animation, and movie-like visuals make this feel surprisingly authentic.
+
+MiniMax H3 prompt: 15-second 3D animated scene from Stuart Little. Cute little mouse Stuart Little stands on the living room floor looking up at the big fluffy white cat Snowbell. Snowbell sits on the couch with a smug expression, tail twitching. Soft warm indoor lighting, detailed fur and fabric textures, classic Stuart Little movie animation style. Stuart says cheerfully “Hey Snowbell, want to be friends?” Snowbell replies in a sarcastic voice “Friends? You’re a mouse, I’m the real pet around here!” Camera slowly pushes in as Snowbell leans down closer to Stuart. Smooth animation, expressive faces, native stereo dialogue audio, 24fps, cinematic quality.
 ```
 
 </details>
@@ -979,6 +1669,33 @@ Several classmates on the way, walking to school.
 Refer to <Picture 1> for the characters.
 Voice 1(male):またワイら遅刻ちゃうか
 Voice 2(female):あと30秒！あたしらの勝ちやな！
+```
+
+</details>
+
+<a id="wan-crying-woman-dim-room-dialogue"></a>
+### 昏暗房间里泪流满面哭泣的中年女子
+
+<a href="https://x.com/PixelAigc/status/2092106222128574802"><img src="../../previews/wan-crying-woman-dim-room-dialogue.jpg" width="360"></a>
+
+固定机位的胸部以上近景，并在整个五秒内写明持续说话和啜泣，使口型与泪水保持同步。明确禁止背景音乐、美颜和淡出，让画面保持真实质感。
+
+Wan 3.0 · 文生视频 · 出处: [@PixelAigc on X](https://x.com/PixelAigc/status/2092106222128574802) · 22 赞，统计于 2026-10-29
+
+[`emotion`](tags.md#tag-emotion) [`lip sync`](tags.md#tag-lipsync) [`closeup`](tags.md#tag-closeup) [`realistic`](tags.md#tag-realistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a 5-second realistic plot short film, 16:9, 24fps, slight film grain, dimly lit indoor room, soft side backlight, atmosphere of repression and sadness.
+Character: Middle-aged Chinese woman, long black hair, plain everyday top, close-up from chest up, fixed camera position, lens almost stationary. Continuous speaking throughout, ceaselessly sobbing and crying, tears continuously streaming down her cheeks, eyes red and swollen, nose tip flushed red, lips constantly opening and closing, accompanied by choking sobs, subtle shoulder tremors, authentic facial muscle twitching, grievance and pain, lip sync strictly matched to Chinese voice, full 5 seconds filled with dialogue, no blanks.
+
+[Timeline 0.0-5.0 seconds]
+0-5 seconds: Continuous sobbing and crying throughout, nonstop speaking, teardrops continuously sliding down, breathing intermittent with choking sobs
+Woman continues to say in a tearful, choking voice: "What on earth did I do wrong, why treat me like this......"
+
+Sound design: Native Chinese human voice, with crying and choking sobs, including gasping sobs, no background music, only extremely faint indoor ambient noise.
+Strictly prohibited: Subtitles, watermarks, logos, exaggerated roars, stage performance feel, beauty filters/skin smoothing, facial drift deformation, lip sync misalignment, black screen fade-out. End the 5 seconds with a direct abrupt cut to black.
 ```
 
 </details>

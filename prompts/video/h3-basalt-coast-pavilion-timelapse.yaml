@@ -1,0 +1,54 @@
+id: h3-basalt-coast-pavilion-timelapse
+title:
+  en: Coastal basalt pavilion built in time lapse
+  zh: 玄武岩海岸展馆延时建造
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- architecture
+- timelapse
+- coastal
+- construction
+source:
+  name: '@GeekCatX on X'
+  url: https://x.com/GeekCatX/status/2092182771813040202
+  credit: 知识猫AI实验室
+  likes: 112
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+video: https://x.com/GeekCatX/status/2092182771813040202
+notes:
+  en: Five timed shots joined by hard cuts, each with its own camera position, plus a list of building facts that must not change (roof opening, column grid, stone and glass placement) so the structure stays consistent through the build. The ending spells out a slow pull back and rise with no fade, which gives the clip a clear close.
+  zh: 五段定时分镜以硬切衔接，每段都指定机位，并列出不可变的建筑要素（屋顶开口、柱网、石墙与玻璃的位置），使施工过程中建筑形态保持一致。结尾明确写出缓慢拉远并升起的运镜且不淡出，让画面有清晰的收束。
+prompt: |
+  Generate a hyper-realistic architectural construction time-lapse short film, approximately 10 seconds long, in 9:16 vertical screen format, with compressed time-lapse footage.
+
+  The scene is set on a rugged black basalt coastline, surrounded by gray-blue seawater, with the horizon positioned near the one-third mark from the top of the frame. Use a high three-quarter overhead shot, with the building always located in the lower-middle section of the frame.
+
+  The entire film must maintain the same compact single-story rectangular coastal pavilion: fixed aspect ratio, heavy flat cantilevered roof, with only one regular square opening in the center of the roof, supported by four dark charcoal gray steel columns at the corners, featuring black thin-framed floor-to-ceiling glass on the front and right sides, a full irregular gray basalt stone wall on the left side, a light gray concrete platform, narrow encircling walkway, and thin black metal railings. During construction, do not alter the building's number of stories, orientation, roof outline, opening position, column grid, or the relationship between the stone wall and glass walls.
+
+  0.00–1.38 seconds:
+  Under a cold gray overcast sky, a yellow tracked bulldozer moves back and forth rapidly within a rectangular plot surrounded by volcanic rock, with its blade continuously contacting the ground to level the soil, kicking up brief, natural dust clouds. The high-angle shot remains mostly locked, with only very slight stabilizing drift.
+
+  Hard cut.
+
+  1.38–2.71 seconds:
+  A concrete mixer truck pours wet concrete through a chute into the square formwork and rebar mesh, with the concrete spreading from the center outward. Workers wearing hard hats and high-visibility vests use long-handled tools to quickly level the foundation. The formwork, vehicles, and coastal environment remain stable.
+
+  Hard cut.
+
+  2.71–5.25 seconds:
+  On the same foundation, perform high-speed but clearly readable steel structure construction. Components are installed in the sequence of "column bases, vertical steel columns, outer ring beams, roof grid, black-framed glass, roof panels." The crane hook descends from above the frame, with steel members positioned only at reasonable structural connection points. The thick flat roof is completed piece by piece, while always preserving the central square roof opening. The sky gradually shifts from cold gray to soft warm orange, with a subtle AI-like growth-style time compression feel, but the building geometry remains hard-edged and stable.
+
+  Hard cut.
+
+  5.25–6.21 seconds:
+  Switch to a closer side elevation medium shot. Workers install irregular gray basalt stone blocks row by row from the bottom of the wall upward, while completing the light gray ground paving, glass doors and windows, and facade finishing. Stone material can only appear in the designated solid wall area and must not cover the glass. The shot has only slight stabilizing drift.
+
+  Hard cut.
+
+  6.21–10.04 seconds:
+  Switch to an exterior view of the completed building. Construction personnel and equipment quickly clear the site, with warm yellow interior lights, stone wall sconces, and small pathway lights illuminating in sequence. The camera steadily pulls back and slowly rises, gradually revealing the complete modern pavilion, black volcanic rock, nearshore waves, distant bay, and orange-pink sunset glow. The glass subtly reflects the twilight, with rough stone walls and damp rock details sharp and clear, and seawater flowing slowly. The final camera movement remains in a gentle pull-back and rise state, ending naturally without fade-out or freeze-frame.
+
+  Overall, present a hyper-realistic architectural visualization, a healing coastal atmosphere, and a controlled AI construction time-lapse texture. Materials are authentic, lighting is restrained, and spatial relationships are stable. Transitions between the five shots use only direct hard cuts, without dissolves, flash whites, or distortion transitions. No subtitles, no logos, no UI elements, no watermarks.

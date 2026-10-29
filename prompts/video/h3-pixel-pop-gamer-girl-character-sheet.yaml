@@ -1,0 +1,59 @@
+id: h3-pixel-pop-gamer-girl-character-sheet
+title:
+  en: Anime gamer girl character sheet with turnarounds
+  zh: 霓虹像素风动漫游戏少女角色设定图
+model: MiniMax H3
+mode: text-to-video
+category: anime
+tags:
+- character-sheet
+- anime
+- y2k
+- turnaround
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2094782705577996727
+  credit: Kiki
+  likes: 468
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+video: https://x.com/Mayz1169/status/2094782705577996727
+notes:
+  en: The prompt lists every panel by name and position on the sheet, then repeats a keep-identical clause so the hair, outfit and backpack stay the same in front, side and back views. A closing negative list blocks realism, weapons and extra characters.
+  zh: 提示词按名称和版面位置逐一列出每个面板，并反复要求正面、侧面、背面的发型、服装和背包保持一致。结尾的负面清单排除写实风格、武器和多余角色。
+prompt: |
+  1️⃣character sheet:
+
+  Create a polished 16:9 anime character design sheet for an original colorful gamer girl named “PIXEL POP”, presented as a premium Japanese game character production sheet. Dark near-black navy background, thin electric-purple UI borders, tiny pixel icons, stars, hearts and retro-game symbols. The presentation feels like a futuristic Y2K arcade character-select screen mixed with professional anime concept art.
+
+  CHARACTER: A cheerful young gamer girl with fair skin, a petite energetic build, large multicolored anime eyes and a playful confident expression. She has extremely vivid neon lime-yellow hair with cyan, turquoise, pink and purple accent sections. Her hair is styled into two large compact space buns with colorful spiral sections, short messy bangs and several long loose strands curling outward. Preserve the exact hairstyle, face, proportions, outfit and colors across every view.
+
+  HAIR DETAILS: Bright acid-lime is the dominant hair color. Each bun contains visible cyan, turquoise, hot-pink and violet sections arranged like colorful candy swirls. Several thin cyan and pink strands extend from the buns. A chunky purple pixel-shaped hair clip decorates one side of her bangs.
+
+  OUTFIT: Oversized cropped gamer jacket with a chaotic but controlled neon palette of electric purple, cyan, hot pink, blue and small lime accents. The jacket has extremely oversized balloon sleeves, dropped shoulders, chunky cuffs, graphic pixel patterns, abstract spray-like color blocks and cute game-inspired patches. One sleeve carries a small pixel-creature patch.
+
+  Under the jacket she wears a short white cropped sleeveless top with a cute pixel mascot graphic across the chest and small pink-purple trim around the neckline.
+
+  BOTTOM: Dark navy high-waisted pleated mini shorts/skirt hybrid with bright purple edging. A wide purple belt wraps around the waist with a chunky neon-lime rectangular buckle. Several long decorative straps hang asymmetrically from the belt in purple, lime and cyan, using oversized plastic buckles and pixel-inspired hardware. One thigh has a small colorful adhesive bandage detail.
+
+  BACKPACK: Large boxy retro-gaming backpack in neon pink, cyan, purple, lime and orange. The front has a small screen displaying a simple cute pixel face. Multiple pockets, oversized buckles, colored straps and tiny game-controller charms decorate the bag. Preserve the backpack design and screen position in every view.
+
+  LEGS & SHOES: Asymmetrical bright socks in cyan and purple with chunky folded cuffs. Massive Y2K platform sneakers with exaggerated rounded proportions and layered panels in hot pink, violet, cyan, lime and orange. Thick sculpted soles, oversized laces, large buckles and small game-button motifs. The shoes are intentionally oversized and form a major part of her silhouette.
+
+  MAIN HERO ILLUSTRATION: Large three-quarter full-body illustration on the left. She stands casually with one hand resting on her hip and the other relaxed beside her, slightly leaning into the pose with playful gamer confidence. Surround her with only a few floating pixel hearts, stars and tiny blocky game icons. Include a small cute digital mascot creature beside her feet, designed in the same neon palette.
+
+  TURNAROUND: Center section contains clean FRONT, SIDE and BACK full-body views. FRONT clearly displays the crop top, oversized jacket, pleated bottom, hanging straps and huge sneakers. SIDE clearly shows the space-bun silhouette, jacket volume, backpack depth and platform shoe construction. BACK prominently displays the colorful boxy gaming backpack, jacket graphics, hair buns and rear shoe design. Maintain exact color placement and accessory positions throughout.
+
+  DETAILS PANEL: Right-center contains four rectangular close-up studies. HAIR CLIP shows the purple pixel-shaped clip against acid-lime hair. SLEEVE PATCH shows the colorful pixel mascot patch and jacket fabric graphics. BAG CHARM shows a miniature game-controller charm hanging from the backpack. SHOE DETAIL shows the layered neon sneaker construction, oversized laces, buckles and thick platform sole.
+
+  ACCESSORIES: Upper-right panel displays isolated personal items: a colorful retro game controller, compact handheld game device, chunky retro mobile/game communicator and the complete gaming backpack. Each object follows the same cyan, hot-pink, purple, lime and orange design language.
+
+  PARTS PANEL: Lower-right contains isolated costume components including the oversized gamer jacket, cropped mascot top, dark pleated shorts/skirt with belt and hanging straps, asymmetrical socks and multiple orthographic sneaker studies.
+
+  COLOR PALETTE: Bottom-left displays rectangular neon swatches: acid lime, electric cyan, saturated blue, vivid violet, hot pink, bright orange, golden yellow and soft off-white. The surrounding background remains extremely dark so the fluorescent colors appear luminous.
+
+  GRAPHIC DESIGN: Large graffiti-like “PIXEL POP” title in the upper-left with small subtitle “PRO EDITION”. Use playful bubble typography with cyan, pink and purple outlines. Add tiny pixel stars, hearts, game icons, arrows and minimal arcade UI graphics around the sheet. Keep these decorations restrained enough that the character remains clearly readable.
+
+  VISUAL STYLE: premium Japanese anime game concept art, Y2K arcade fashion, colorful Harajuku gamer aesthetic, retro-futuristic pop design, crisp anime linework, polished cel shading, extremely saturated fluorescent palette, subtle glow against dark background, glossy plastic accessories, detailed fabric and sneaker construction, cute pixel graphics, playful proportions, strong readable silhouette, professional character bible, production-ready model sheet, ultra detailed, masterpiece quality.
+
+  Avoid photorealism, realistic human rendering, muted colors, pastel-only palette, cyberpunk city backgrounds, heavy metallic armor, weapons, combat equipment, gothic fashion, long realistic hair, animal ears, revealing clothing, different costumes between views, inconsistent backpack, random text covering the character, excessive floating graphics, extra characters, extra limbs, malformed hands, watermark.

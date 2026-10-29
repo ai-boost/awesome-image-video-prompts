@@ -1,0 +1,25 @@
+id: h3-night-lotus-perfume-ugc-ad
+title:
+  en: Perfume bottle with glowing blue lotus flowers
+  zh: 蓝色发光莲花中的香水瓶
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- perfume
+- ugc-ad
+- product-reference
+- lotus
+source:
+  name: '@juliaevee on X'
+  url: https://x.com/juliaevee/status/2115165215738499420
+  credit: Julia
+  likes: 40
+  captured: '2026-10-29'
+  posted: '2026-10-27'
+video: https://x.com/juliaevee/status/2115165215738499420
+notes:
+  en: The reference image locks the bottle's shape so it stays consistent through the shot. Timed beats (smile, spray, sniff, reaction, closeup finish) give the 10 seconds a clear order, and the closing negatives guard against warped bottles and extra fingers.
+  zh: 参考图锁定香水瓶的外形，使其在整个镜头中保持一致。按时间节拍安排动作（微笑、喷香、轻嗅、表情反应、特写收尾），让10秒有清晰的顺序，结尾的负面约束用来防止瓶身变形和多余手指。
+prompt: |
+  Create a 10-second premium UGC perfume advertisement, 16:9 aspect ratio, ultra-realistic cinematic quality. A beautiful 25-year-old woman with glowing skin and elegant long dark hair sits in a luxurious, softly blue-lit setting. She holds the exact Night Lotus perfume bottle from the reference image, showcasing its transparent faceted glass, silver cap, and elegant lotus label. She smiles naturally at the camera, sprays the perfume on her wrist, gently smells it, and reacts with a confident, delighted expression. Close-up shots highlight the bottle, glowing blue lotus flowers, and shimmering reflections. Smooth handheld camera movements, realistic skin texture, soft cinematic lighting, premium luxury aesthetic, natural UGC presentation. End with her holding the perfume close to the camera. No distorted bottle, no extra fingers, no product redesign, no unwanted text. Perfect 10-second commercial.

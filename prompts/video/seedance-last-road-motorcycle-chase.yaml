@@ -1,0 +1,40 @@
+id: seedance-last-road-motorcycle-chase
+title:
+  en: Rider escapes creatures on ruined highway
+  zh: 骑手在废弃高架路上甩开怪物
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- post-apocalyptic
+- motorcycle
+- multi-shot
+- reference-images
+source:
+  name: '@Changfuncafe on X'
+  url: https://x.com/Changfuncafe/status/2083584902017253559
+  credit: Changfuncafe
+  likes: 78
+  captured: '2026-10-29'
+  posted: '2026-08-01'
+video: https://x.com/Changfuncafe/status/2083584902017253559
+notes:
+  en: A timed shot list with a camera move and speed change per shot, plus a sound cue list, lets one generation carry the chase, the crash and a slow-motion headshot. The @ image tags bind the rider, road, creatures and bike to reference images so they stay consistent across shots.
+  zh: 带时间码的分镜清单，每个镜头写明运镜和速度变化，并附音效清单，使一次生成就能完成追逐、坠车和慢动作爆头。@图片标签把骑手、公路、怪物和摩托车绑定到参考图，保证各镜头形象一致。
+prompt: |
+  Hi everyone! Here's the prompt I used. I started with my draft idea and asked
+  @claudeai
+   to turn it into a more detailed prompt. Then I used seedance2.5 to generate the film.
+  Feel free to adapt the prompt to fit your own film or creative style
+  ---------------
+  Use @ image1  as Rob [ main character],  @ image2 as the highway, @ image3 as the creatures. @ image4 as his motorcycle
+
+  Story / Location.
+  Helmeted Rob rides fast down the ruined highway as five creatures surge in beside and behind him, leaping to smash him one by one. He weaves, dodges, and drops them with his pistol one at a time — until his bike crashes hard. Injured, he drags himself up and pulls off his helmet just as the last creature charges; he screams and fires one bullet into its head.
+
+  Cinematic [camera, sounds, sfx] — auto-cut between shots only, each shot one continuous take, mixed speed and camera movement, 3 shots, 30s total.
+  Shot 1 (0–10s): the chase — low tracking alongside the bike lifts unbroken into a drone rise as the five creatures pour in and leap; wheels spinning forward, motion-blurred. Slow-mo on the leaps, real-time between.
+  Shot 2 (10–22s): the fight, one continuous take — coverage swings unbroken between Rob and the creatures as he draws and fires one by one, dropping them from behind and the flanks; slow-motion on the gunshots and a creature falling away, real-time on the riding. The same shot whip-pans with the wipeout as the motorcycle goes down hard and Rob is thrown, carrying through into full slow-motion on the impact and tumble, no cut.
+  Shot 3 (22–30s): the aftermath — low angle cranes up with Rob as he rises and pulls off his helmet; the last creature charges, he screams and fires a slow-mo headshot. Ease into a push-in on him breathing hard, end.
+
+  Lights & Theme: AAA cinematic realistic movie, 8K anamorphic, desaturated post-apocalyptic grade, hard overhead sun, dust glare, visceral action. No subtitles. Audio: No music, or a low tension drone. Roaring engine and wind; creature snarls and impacts; sharp pistol cracks; metal-tearing crash and skid; Rob's scream; final gunshot, then silence.

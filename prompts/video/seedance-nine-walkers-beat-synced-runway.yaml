@@ -1,0 +1,100 @@
+id: seedance-nine-walkers-beat-synced-runway
+title:
+  en: Nine walkers take the runway in sequence
+  zh: 九位角色依次走完跑道
+model: Seedance 2.5
+mode: reference-to-video
+category: music-dance
+tags:
+- fashion-show
+- beat-sync
+- reference-images
+- runway
+- multi-character
+source:
+  name: '@maxescu on X'
+  url: https://x.com/maxescu/status/2089291308653256848
+  credit: Alex Patrascu
+  likes: 290
+  captured: '2026-10-29'
+  posted: '2026-08-17'
+video: https://x.com/maxescu/status/2089291308653256848
+notes:
+  en: Nine reference images are each tied to one named part of the look, and a stage timeline has the next walker enter before the last one leaves so the runway is never empty. Hard cuts land on the kick drum and alternate between three fixed camera setups.
+  zh: 九张参考图各自只锁定一个部分（外形、发型、服装或表情），分段时间线让下一位模特在上一位离场前进场，跑道始终不空。硬切点卡在底鼓上，镜头在三种固定机位之间切换。
+prompt: |
+  Made in
+  @higgsfield
+   with Seedance 2.5 at 1080p
+
+  [Generation Goal]
+  Generate a premium fashion show video cut as a continuous beat-synced montage. Nine characters walk the runway in order in one flowing show: each walker lands a signature pose at the end mark, then turns and heads back as the next walker is already coming forward. The runway is never empty.
+
+  [Characters]
+  <Character 1> corresponds to @[Image 1](image_1). Use only the appearance, hairstyle, black leather jacket, and gold wristwatch. Do not use the street background.
+  <Character 2> corresponds to @[Image 2](image_2). Use only the appearance, hairstyle, yellow t-shirt, and beige cargo shorts. Do not use the restaurant background or the other person in the image.
+  <Character 3> corresponds to @[Image 3](image_3). Use only the appearance, hairstyle, and light blue t-shirt. Do not use the bedroom background or the photo collage on the wall.
+  <Character 4> corresponds to @[Image 4](image_4). Use only the appearance, short hair, tinted sunglasses, hoop earrings, light pink blazer, black distressed trousers, and heeled sandals. Do not use the parking lot background.
+  <Character 5> corresponds to @[Image 5](image_5). Use only the appearance, red and blue plaid shirt, and navy quilted gilet. Do not use the stadium crowd or any other people in the image.
+  <Character 6> corresponds to @[Image 6](image_6). Use only the appearance, hairstyle, and purple tie-dye hoodie with the red graphic. Do not use the room background or the radiator, and do not reproduce any watermark or logo from the image.
+  <Character 7> corresponds to @[Image 7](image_7). Use only the head, facial structure, and wide grinning expression. Dress this character in a plain black turtleneck and black trousers. Do not use the image background.
+  <Character 8> corresponds to @[Image 8](image_8). Use only the appearance, hairstyle, facial hair, and white t-shirt. Do not reproduce the question mark graphics or the background from the image.
+  <Character 9> corresponds to @[Image 9](image_9). Use only the appearance, glasses, black beanie, and navy tracksuit. Do not use the room background or the second man at the right edge of the image.
+  Do not interchange the nine characters' faces, hairstyles, clothing, walks, or poses.
+
+  [Props]
+  <White Cup> corresponds to the white paper cup held in @[Image 2](image_2) and belongs only to <Character 2>. No other character holds it.
+
+  [Scene]
+  A high-fashion industrial venue: a long runway of dark polished concrete running through a vast raw concrete hall, cold white overhead light strips running the length of the runway, light haze in the air catching the beams, guests seated in shadow on low black benches along both sides, and a photographers' pit with flashing cameras at the near end of the runway. Cold, hard key light on the runway with deep shadow beyond it. The runway entrance is a tall dark opening in the far wall, upstage center.
+
+  The visuals feature a moody, high-contrast editorial look with a cold color palette, realistic skin tones, and premium production polish.
+
+  The show flows continuously: as each walker turns at the end mark and heads back upstage, the next walker is already emerging from the entrance; they pass each other mid-runway, and the returning walker exits through the entrance during the following segment. The runway is never empty, and no walker vanishes, teleports, or reappears.
+
+  Camera coverage alternates three setups, with hard cuts landing on the kick drum: a head-on long-lens runway camera at chest height that slowly pushes in as each walker approaches; a floor-level side camera tracking laterally with the walker for a stride or two; and a static tight close-up on the walker's face for each pose at the end mark. One camera move per shot, hard cuts only, no dissolves.
+
+  [Stage 1] 0-3 seconds
+  Initial state: the first frame already shows <Character 1> mid-stride on the runway walking toward the camera. There is no empty establishing shot.
+  Primary event: <Character 1> reaches the end mark, taps his right index finger against his temple, and gives the camera a sly knowing grin.
+  End state: <Character 1> turns and walks back upstage while <Character 2> is already coming forward from the entrance.
+
+  [Stage 2] 3-6 seconds
+  Primary event: <Character 2> walks forward at a small, unhurried pace holding <White Cup> in his right hand and, at the end mark, slowly slides only his eyes toward the camera in a deadpan sideways glance.
+  End state: <Character 2> turns and heads back with <White Cup> while <Character 3> is already coming forward.
+
+  [Stage 3] 6-9 seconds
+  Primary event: <Character 3> approaches with a huge, wide-eyed, unblinking smile fixed on the lens and, at the end mark, leans slightly toward the camera, the smile widening without a blink.
+  End state: <Character 3> turns and heads back while <Character 4> is already coming forward.
+
+  [Stage 4] 9-12 seconds
+  Primary event: <Character 4> struts forward in heels with exaggerated fashion attitude and, at the end mark, bends forward laughing hard with hands braced on her knees, then straightens.
+  End state: <Character 4> turns and heads back while <Character 5> is already coming forward.
+
+  [Stage 5] 12-15 seconds
+  Primary event: <Character 5> walks forward flat-footed and visibly unimpressed and, at the end mark, plants both hands on his hips and gives the camera one slow, disappointed head shake.
+  End state: <Character 5> turns and heads back while <Character 6> is already coming forward.
+
+  [Stage 6] 15-18 seconds
+  Primary event: <Character 6> walks forward with easy, relaxed shoulders and, at the end mark, extends both hands forward with palms up in a slow, simple gesture, face flat and unbothered, with a small shrug.
+  End state: <Character 6> turns and heads back while <Character 7> is already coming forward.
+
+  [Stage 7] 18-21 seconds
+  Primary event: <Character 7> walks forward stiff and upright with an enormous frozen grin and, at the end mark, leans his whole upper body toward the camera, grin unchanged.
+  End state: <Character 7> straightens, turns, and heads back while <Character 8> is already coming forward.
+
+  [Stage 8] 21-24 seconds
+  Primary event: <Character 8> walks forward smiling and waving to the crowd and, at the end mark, his smile fades into a confused squint as he looks left, then right, palms opening in a small shrug.
+  End state: <Character 8> turns and heads back while <Character 9> is already coming forward.
+
+  [Stage 9] 24-30 seconds
+  Primary event: <Character 9> strides forward playing it cool; at the end mark a burst of photographers' flashes fires and he recoils, leaning his upper body back with both palms raised toward the cameras, then lowers his hands and gives the lens a cool nod.
+  End state: hard cut to black exactly on the final kick, with <Character 9> still at the end mark; <Character 8> has already exited upstage.
+
+  [Audio]
+  (Driving electronic techno music with a steady four-on-the-floor kick plays continuously from the first frame to the final cut)
+  <Crowd murmur and scattered cheers, rapid camera shutter bursts and flash pops, each walker's footsteps on the polished concrete>
+  No dialogue, no narration, no on-screen text, no subtitles.
+
+  [Maintain Consistency]
+  Keep each character's facial identity locked to their reference image throughout. At most two walkers are visible at any moment, and only while one is returning and the next is coming forward; walkers never duplicate, vanish, or reappear, and they exit only by walking back through the entrance. Keep every character's wardrobe unchanged for their entire time on screen. <White Cup> appears only with <Character 2>. Keep the runway layout, hall, lighting, and screen direction consistent: incoming walkers always move toward the head-on camera and returning walkers always move away upstage. Keep the techno track continuous with no changes in music. Do not introduce hosts, presenters, additional models, on-screen graphics, watermarks, or text of any kind.

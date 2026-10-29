@@ -1,0 +1,184 @@
+id: h3-sushi-counter-shrimp-nigiri-sour-reaction
+title:
+  en: Woman bites shrimp nigiri at sushi counter
+  zh: 女子在寿司吧台咬下虾握寿司
+model: MiniMax H3
+mode: image-to-video
+category: cinematic
+tags:
+- sushi
+- reaction
+- identity-lock
+- handheld
+source:
+  name: '@EndFolding79421 on X'
+  url: https://x.com/EndFolding79421/status/2101007280040784269
+  credit: FoldingEnd A.I.
+  likes: 123
+  captured: '2026-10-29'
+  posted: '2026-09-18'
+video: https://x.com/EndFolding79421/status/2101007280040784269
+notes:
+  en: The prompt starts from a fixed first frame and a timed beat sheet, so each second of expression is specified instead of left to the model. An identity lock plus explicit framing rules (right-third placement, Dutch angle, handheld sway) keeps the character and composition stable across the shot.
+  zh: 以固定首帧和分秒节拍表开场，把每一秒的表情都写明，而不是交给模型自由发挥。身份锁定加上明确的构图要求（右三分之一、荷兰角、手持晃动），让人物和画面在整段镜头中保持稳定。
+prompt: |
+  15-second cinematic single continuous handheld shot. One uninterrupted take from start to finish. No cuts, no transitions, no camera resets.
+
+  The <Picture 0> is exactly the first frame.
+
+  Scene:
+  A fictional original young woman in her early twenties sits at the counter of a cozy daytime sushi bistro. Preserve the exact facial identity and physical appearance of the supplied character reference throughout the entire shot. She has fair natural skin with visible freckles, bright blue eyes, and long, naturally curly copper-red hair worn loose around her shoulders. Her hair has realistic individual strands, natural volume, and soft movement. She wears soft natural makeup, muted rose lips, and a chunky polished silver collar necklace.
+
+  She wears a vivid green sheer mesh long-sleeve top falling slightly off one bare shoulder over a matching green inner top, exactly matching the starting image. No visible brands or logos.
+
+  The sushi bistro has a long polished dark-wood counter with a woven rattan runner, warm cream walls, blank decorative scrolls with no readable writing, softly glowing cabinets, and a blurred open kitchen with sushi chefs moving naturally in the background. A red orchid sits nearby. A large window fills the restaurant with bright midday daylight, with lush green trees visible outside.
+
+  In front of her is a ceramic plate with assorted sushi, a small soy sauce dish, pink pickled ginger, a napkin, and wooden chopsticks.
+
+  Composition:
+  Keep the woman in the RIGHT THIRD of the frame for the entire shot. Never center her.
+
+  Shoot from slightly below her eye level, across the countertop. The long counter and blurred kitchen extend through the left two-thirds of the frame.
+
+  The foreground sushi plate and woven counter runner remain slightly out of focus along the bottom edge.
+
+  Maintain a constant 10–12 degree Dutch angle throughout the entire video. Never level the horizon.
+
+  Camera movement:
+  Playful natural handheld cinematography. The camera operator appears to be resting their elbows near the counter, creating subtle breathing sway, tiny micro-jitters, and gentle imperfect movement.
+
+  Throughout the shot, slowly and slightly slide the camera closer along the counter toward her face.
+
+  Never become perfectly static.
+
+  Soft window light occasionally creates a subtle natural lens flare.
+
+  Action and emotion timeline:
+
+  0–1 seconds:
+  The action starts immediately on the very first frame.
+
+  She already has a whole shrimp nigiri held with her chopsticks: pale pink butterflied shrimp over a small rice pillow.
+
+  She quickly lifts it and puts the entire shrimp nigiri into her mouth in one bite.
+
+  No hesitation and no slow buildup.
+
+  1–4 seconds:
+  The sour flavor hits her INSTANTLY with exaggerated comic intensity.
+
+  Her eyes squeeze tightly shut.
+
+  Her lips pucker dramatically around her full cheeks.
+
+  Her entire face contracts from the sourness.
+
+  Her shoulders shudder.
+
+  She quickly shakes her head side to side, causing her long curly red hair to bounce, whip and sway naturally around her face and shoulders.
+
+  Her chopsticks slip from her hand and clatter onto the ceramic plate.
+
+  She lightly pounds one fist against the counter once or twice while continuing to chew.
+
+  The reaction must be immediate, expressive, and physically readable.
+
+  4–8 seconds:
+  The sour shock turns into genuine disgust.
+
+  Her expression suddenly becomes flatter and deeply repulsed.
+
+  She chews slower and slower.
+
+  Her nose wrinkles.
+
+  She slightly gags.
+
+  Her tongue pushes the food toward one cheek as if she cannot tolerate the taste.
+
+  She grabs the napkin and brings it toward her mouth, clearly preparing to spit the food out.
+
+  Her eyes show disappointment and betrayal.
+
+  8–11 seconds:
+  With the napkin touching or hovering directly in front of her lips, she suddenly freezes.
+
+  Her eyebrows jump upward.
+
+  Her eyes open wide.
+
+  Something about the flavor unexpectedly changes.
+
+  She slowly lowers the napkin about an inch.
+
+  She chews once.
+
+  Pause.
+
+  She chews a second time.
+
+  Her expression changes from disgust → confusion → suspicious curiosity.
+
+  Make this transformation clearly visible through her eyes, eyebrows, cheeks, and mouth.
+
+  11–15 seconds:
+  Her expression gradually explodes into pure delight.
+
+  Her eyes close softly in pleasure.
+
+  A huge genuine smile spreads across her face while she continues chewing.
+
+  Her shoulders relax completely.
+
+  She leans and melts backward slightly on the stool.
+
+  She lightly kicks her feet beneath the counter from happiness.
+
+  She makes a subtle pleased humming expression without speaking.
+
+  Still smiling, she reaches forward again with her chopsticks toward another shrimp nigiri on the plate, clearly wanting another bite.
+
+  End the shot while she happily reaches for the next piece.
+
+  Performance:
+  Prioritize expressive facial acting and physically readable emotion changes.
+
+  The emotional progression must be extremely clear:
+
+  instant sour shock → disgust → about to spit it out → sudden surprise → suspicious curiosity → intense pleasure
+
+  Natural blinking, eye movement, cheek movement, jaw chewing, breathing, shoulder movement, hand gestures, and realistic loose curly-hair physics.
+
+  IDENTITY LOCK: Preserve the woman's exact facial identity from the supplied character reference and starting frame throughout the entire video. Do not alter her facial structure, freckles, eye color, skin tone, age, or copper-red curly hair. Do not change her hairstyle into a ponytail or straight hair.
+
+  Visual style:
+  Cinematic Japanese indie slice-of-life feeling.
+  35mm film texture.
+  Shallow depth of field.
+  Soft natural skin texture with her freckles clearly retained.
+  Warm daylight mixed with a subtle teal-and-warm film color cast.
+  Fine soft grain.
+  Natural highlight rolloff.
+  Cozy intimate restaurant atmosphere.
+  Realistic human motion and realistic food interaction.
+
+  Important constraints:
+  One continuous 15-second shot.
+  No cuts.
+  No scene changes.
+  No time jumps.
+  No slow motion.
+  No freeze-frame effect.
+  Do not center the woman.
+  Maintain the Dutch angle.
+  No dialogue.
+  No captions.
+  No subtitles.
+  No readable text.
+  Blank scrolls and blank menus only.
+  No logos.
+  No brands.
+  No recognizable characters.
+  No mascot figurines.
+  No copyrighted characters.
+  No real people.

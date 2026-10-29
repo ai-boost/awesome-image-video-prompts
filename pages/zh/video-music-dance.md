@@ -1,6 +1,25 @@
 # 音乐与舞蹈
 
-[返回目录](../../README_zh.md) · 全部 37 条
+[返回目录](../../README_zh.md) · 全部 45 条
+
+<a id="h3-pink-panic-punk-mv"></a>
+### 红格靴动漫少女滑入朋克MV画面
+
+<a href="https://x.com/Mayz1169/status/2092937375802609835"><img src="../../previews/h3-pink-panic-punk-mv.jpg" width="360"></a>
+
+先用参考图锁定角色身份，再逐项写明发色、眼色、发夹、红格靴等细节，确保整段角色不变形。每个时间段都对齐节拍，转场由靴子滑行、跺脚等动作触发，镜头连贯，没有无故切换。
+
+MiniMax H3 · 参考生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2092937375802609835) · 1,010 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`pop-punk`](tags.md#tag-pop-punk) [`character-lock`](tags.md#tag-character-lock) [`music-video`](tags.md#tag-music-video)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second horizontal 16:9 high-energy 2D anime pop-punk music video featuring the exact heroine from the provided character reference. The entire sequence should feel like one continuous, tightly choreographed MV passage, with each movement naturally motivating the next transition.  CHARACTER LOCK: Use the reference image as the absolute authority for identity, proportions, outfit, colors and illustration style. Preserve her short messy bubblegum-pink hair with sharp outward tufts, high side ponytail, pale cyan and mint lightning-shaped hair accents, large red cross hair clip with lavender backing, huge yellow eyes with thick dark outlines, small expressive mouth and warm blush.  Keep her black cropped school-style jacket with oversized white cuffs, white shirt, loose bright-red necktie, red plaid mini skirt with white triangular hem accents, black belt, bare legs and enormous red plaid boots with dark straps and heavy rounded soles.  Maintain her original stylized proportions: oversized head, compact torso, long simplified legs, huge boots, chunky hands, bold black outlines, flat saturated colors and minimal cel shading. Her personality is loud, cheeky, rebellious, playful and hyperactive.  0–2.5s — Start immediately with motion. She slides rapidly into frame from the left, one boot skidding across a clean white graphic floor. Her body leans forward from momentum while her ponytail, necktie and oversized cuffs trail behind. She stomps the second boot down, looks up and flashes a mischievous grin. The impact instantly transforms the white background into huge red-and-black plaid blocks as bold “PINK PANIC!” typography slams into the composition.  2.5–5.0s — Without stopping, she rebounds from the landing into a small hop and sharp half-turn. Camera swings around her from front three-quarter view into a fast side-tracking shot as she runs two exaggerated cartoon steps. Her giant boots hit the floor on alternating beats, leaving hand-drawn stars, crosses, tape strips, scribbles and comic impact marks behind each step. Her pink hair and red tie bounce wildly with the movement.  5.0–7.5s — She kicks one leg sideways on the beat and uses the momentum to spin. The red plaid pattern from her boot stretches outward into a giant rotating graphic plane, seamlessly pulling the entire frame into an abstract 2D punk world made from black brush strokes, red plaid, white paper shapes, pink lightning bolts and rough photocopy textures.  She continues directly into a bouncy dance phrase: head whip → shoulder hit → side step → small kick → fast turn. Keep every pose exaggerated and cartoonishly expressive.  7.5–10.0s — Her turn accelerates and the camera follows closely around her. The environment constantly recomposes around the choreography: checker patterns slide sideways, hand-drawn crosses rotate, torn-paper strips snap open and oversized comic typography appears briefly on drum hits.  She lands hard with both boots apart. A huge hand-drawn “BAM!” bursts underneath her feet and physically shakes the surrounding graphic elements. She immediately rebounds upward with a cocky smile rather than holding a static pose.  10.0–12.3s — Follow her continuing movement into a connected sequence of character details. As she whips her head sideways, track past her bright yellow eye → red cross hair clip → swinging pink hair → bouncing red tie → plaid skirt → massive plaid boot.  Do not present these as disconnected beauty shots. Each close-up should be motivated by the same continuous body movement and fast camera travel.  The boot hits the floor at the end of the sequence, sending a red plaid shockwave across the frame.  12.3–15.0s — Ride the plaid shockwave back into a full-body view. She takes two confident bouncing steps forward, abruptly pivots and finishes facing camera with her weight shifted onto one leg, shoulders slightly forward and a cheeky rebellious grin.  Her ponytail and necktie continue swinging from the turn while the background erupts into layered red plaid, black brush X marks, white stars, pink lightning and rough hand-drawn graphics. The elements rapidly organize themselves into a bold 2000s punk magazine-cover composition.  Large “PINK PANIC!” typography appears behind her silhouette on the final beat. End on her strong recognizable character shape without changing her design.  VISUAL STYLE: Strictly match the reference artwork: early-2000s-inspired 2D cartoon/anime aesthetic, thick clean dark outlines, flat saturated colors, minimal cel shading, simplified anatomy, exaggerated proportions and bold graphic expressions. Keep the intentionally handmade TV-animation feeling rather than modern polished anime rendering.  Use red plaid as the main graphic motif, combined with black-and-white manga shapes, pink lightning, crosses, stars, scribbles, torn paper, photocopy grain, tape graphics and rough ink marks.  MOTION: Fast, bouncy and highly rhythmic. Use strong key poses, limited-animation timing, overshoot, smear frames, exaggerated anticipation and cartoon impact frames. Her giant boots should create the strongest beat accents. Hair, ponytail, tie, skirt and cuffs should react continuously to her movement.  Transitions must grow naturally from character actions: boot skid → plaid expansion → kick → rotating graphic plane → spin → camera orbit → stomp → shockwave. Avoid random transitions or disconnected pose montages.  AUDIO: Synchronize tightly to fast Japanese pop-punk vocals mixed with punchy electronic drums and distorted guitar. Add boot skids, stomps, paper snaps, cartoon impacts, guitar hits and short graphic whooshes.  IMPORTANT: Keep the exact face, yellow eyes, pink hairstyle, cyan/mint hair accents, red cross clip, black-and-white school-punk top, red tie, plaid skirt and oversized plaid boots throughout.  No hand reaching toward camera, no palm covering the lens, no pointing into the lens, no outfit transformation, no hairstyle transformation, no extra characters, no realistic environments, no photorealism, no 3D CGI, no modern glossy anime redesign, no cyberpunk holograms, no slow fashion posing, no facial drift, no random accessories, no excessive jump cuts, no disconnected movements, no uncontrolled morphing, no unreadable typography.
+```
+
+</details>
 
 <a id="seedance-kpop-two-idol-mv"></a>
 ### 双人 K-pop MV，逐镜头
@@ -79,6 +98,99 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 </details>
 
+<a id="seedance-nine-walkers-beat-synced-runway"></a>
+### 九位角色依次走完跑道
+
+<a href="https://x.com/maxescu/status/2089291308653256848"><img src="../../previews/seedance-nine-walkers-beat-synced-runway.jpg" width="360"></a>
+
+九张参考图各自只锁定一个部分（外形、发型、服装或表情），分段时间线让下一位模特在上一位离场前进场，跑道始终不空。硬切点卡在底鼓上，镜头在三种固定机位之间切换。
+
+Seedance 2.5 · 参考生视频 · 出处: [@maxescu on X](https://x.com/maxescu/status/2089291308653256848) · 290 赞，统计于 2026-10-29
+
+[`fashion-show`](tags.md#tag-fashion-show) [`beat-sync`](tags.md#tag-beat-sync) [`reference-images`](tags.md#tag-reference-images) [`runway`](tags.md#tag-runway) [`multi-character`](tags.md#tag-multi-character)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Made in
+@higgsfield
+ with Seedance 2.5 at 1080p
+
+[Generation Goal]
+Generate a premium fashion show video cut as a continuous beat-synced montage. Nine characters walk the runway in order in one flowing show: each walker lands a signature pose at the end mark, then turns and heads back as the next walker is already coming forward. The runway is never empty.
+
+[Characters]
+<Character 1> corresponds to @[Image 1](image_1). Use only the appearance, hairstyle, black leather jacket, and gold wristwatch. Do not use the street background.
+<Character 2> corresponds to @[Image 2](image_2). Use only the appearance, hairstyle, yellow t-shirt, and beige cargo shorts. Do not use the restaurant background or the other person in the image.
+<Character 3> corresponds to @[Image 3](image_3). Use only the appearance, hairstyle, and light blue t-shirt. Do not use the bedroom background or the photo collage on the wall.
+<Character 4> corresponds to @[Image 4](image_4). Use only the appearance, short hair, tinted sunglasses, hoop earrings, light pink blazer, black distressed trousers, and heeled sandals. Do not use the parking lot background.
+<Character 5> corresponds to @[Image 5](image_5). Use only the appearance, red and blue plaid shirt, and navy quilted gilet. Do not use the stadium crowd or any other people in the image.
+<Character 6> corresponds to @[Image 6](image_6). Use only the appearance, hairstyle, and purple tie-dye hoodie with the red graphic. Do not use the room background or the radiator, and do not reproduce any watermark or logo from the image.
+<Character 7> corresponds to @[Image 7](image_7). Use only the head, facial structure, and wide grinning expression. Dress this character in a plain black turtleneck and black trousers. Do not use the image background.
+<Character 8> corresponds to @[Image 8](image_8). Use only the appearance, hairstyle, facial hair, and white t-shirt. Do not reproduce the question mark graphics or the background from the image.
+<Character 9> corresponds to @[Image 9](image_9). Use only the appearance, glasses, black beanie, and navy tracksuit. Do not use the room background or the second man at the right edge of the image.
+Do not interchange the nine characters' faces, hairstyles, clothing, walks, or poses.
+
+[Props]
+<White Cup> corresponds to the white paper cup held in @[Image 2](image_2) and belongs only to <Character 2>. No other character holds it.
+
+[Scene]
+A high-fashion industrial venue: a long runway of dark polished concrete running through a vast raw concrete hall, cold white overhead light strips running the length of the runway, light haze in the air catching the beams, guests seated in shadow on low black benches along both sides, and a photographers' pit with flashing cameras at the near end of the runway. Cold, hard key light on the runway with deep shadow beyond it. The runway entrance is a tall dark opening in the far wall, upstage center.
+
+The visuals feature a moody, high-contrast editorial look with a cold color palette, realistic skin tones, and premium production polish.
+
+The show flows continuously: as each walker turns at the end mark and heads back upstage, the next walker is already emerging from the entrance; they pass each other mid-runway, and the returning walker exits through the entrance during the following segment. The runway is never empty, and no walker vanishes, teleports, or reappears.
+
+Camera coverage alternates three setups, with hard cuts landing on the kick drum: a head-on long-lens runway camera at chest height that slowly pushes in as each walker approaches; a floor-level side camera tracking laterally with the walker for a stride or two; and a static tight close-up on the walker's face for each pose at the end mark. One camera move per shot, hard cuts only, no dissolves.
+
+[Stage 1] 0-3 seconds
+Initial state: the first frame already shows <Character 1> mid-stride on the runway walking toward the camera. There is no empty establishing shot.
+Primary event: <Character 1> reaches the end mark, taps his right index finger against his temple, and gives the camera a sly knowing grin.
+End state: <Character 1> turns and walks back upstage while <Character 2> is already coming forward from the entrance.
+
+[Stage 2] 3-6 seconds
+Primary event: <Character 2> walks forward at a small, unhurried pace holding <White Cup> in his right hand and, at the end mark, slowly slides only his eyes toward the camera in a deadpan sideways glance.
+End state: <Character 2> turns and heads back with <White Cup> while <Character 3> is already coming forward.
+
+[Stage 3] 6-9 seconds
+Primary event: <Character 3> approaches with a huge, wide-eyed, unblinking smile fixed on the lens and, at the end mark, leans slightly toward the camera, the smile widening without a blink.
+End state: <Character 3> turns and heads back while <Character 4> is already coming forward.
+
+[Stage 4] 9-12 seconds
+Primary event: <Character 4> struts forward in heels with exaggerated fashion attitude and, at the end mark, bends forward laughing hard with hands braced on her knees, then straightens.
+End state: <Character 4> turns and heads back while <Character 5> is already coming forward.
+
+[Stage 5] 12-15 seconds
+Primary event: <Character 5> walks forward flat-footed and visibly unimpressed and, at the end mark, plants both hands on his hips and gives the camera one slow, disappointed head shake.
+End state: <Character 5> turns and heads back while <Character 6> is already coming forward.
+
+[Stage 6] 15-18 seconds
+Primary event: <Character 6> walks forward with easy, relaxed shoulders and, at the end mark, extends both hands forward with palms up in a slow, simple gesture, face flat and unbothered, with a small shrug.
+End state: <Character 6> turns and heads back while <Character 7> is already coming forward.
+
+[Stage 7] 18-21 seconds
+Primary event: <Character 7> walks forward stiff and upright with an enormous frozen grin and, at the end mark, leans his whole upper body toward the camera, grin unchanged.
+End state: <Character 7> straightens, turns, and heads back while <Character 8> is already coming forward.
+
+[Stage 8] 21-24 seconds
+Primary event: <Character 8> walks forward smiling and waving to the crowd and, at the end mark, his smile fades into a confused squint as he looks left, then right, palms opening in a small shrug.
+End state: <Character 8> turns and heads back while <Character 9> is already coming forward.
+
+[Stage 9] 24-30 seconds
+Primary event: <Character 9> strides forward playing it cool; at the end mark a burst of photographers' flashes fires and he recoils, leaning his upper body back with both palms raised toward the cameras, then lowers his hands and gives the lens a cool nod.
+End state: hard cut to black exactly on the final kick, with <Character 9> still at the end mark; <Character 8> has already exited upstage.
+
+[Audio]
+(Driving electronic techno music with a steady four-on-the-floor kick plays continuously from the first frame to the final cut)
+<Crowd murmur and scattered cheers, rapid camera shutter bursts and flash pops, each walker's footsteps on the polished concrete>
+No dialogue, no narration, no on-screen text, no subtitles.
+
+[Maintain Consistency]
+Keep each character's facial identity locked to their reference image throughout. At most two walkers are visible at any moment, and only while one is returning and the next is coming forward; walkers never duplicate, vanish, or reappear, and they exit only by walking back through the entrance. Keep every character's wardrobe unchanged for their entire time on screen. <White Cup> appears only with <Character 2>. Keep the runway layout, hall, lighting, and screen direction consistent: incoming walkers always move toward the head-on camera and returning walkers always move away upstage. Keep the techno track continuous with no changes in music. Do not introduce hosts, presenters, additional models, on-screen graphics, watermarks, or text of any kind.
+```
+
+</details>
+
 <a id="h3-anime-fashion-dance-yellow-cyclorama-afterimages"></a>
 ### 动漫舞蹈短片,粉青残影划过柠檬黄背景
 
@@ -104,6 +216,54 @@ The camera dances in counterpoint: skim backward at ankle height through advanci
 Finish with a sudden forward lean toward the lens while enormous pink and cyan echoes continue leaning farther, sweeping past both sides of the camera. Snap wide: the character lands a final asymmetric pose as the colored echoes collapse precisely into the silhouette. Hard cut to black.
 
 170 BPM broken beat, syncopated accents, fluid animation and razor-fast camera transitions. No slow motion or prolonged holds.
+```
+
+</details>
+
+<a id="h3-anime-heroine-yellow-punk-music-video"></a>
+### 动漫女主角穿越黄色朋克MV
+
+<a href="https://x.com/Just_sharon7/status/2094305294117429711"><img src="../../previews/h3-anime-heroine-yellow-punk-music-video.jpg" width="360"></a>
+
+提示词先用参考图锁定角色细节，再让每个动作带动下一个动作，镜头沿同一段身体动作连续跟拍。脚步落点作为节拍推动每次转场，图形文字则采用丝网印刷般的盖印质感。
+
+MiniMax H3 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2094305294117429711) · 241 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`music-video`](tags.md#tag-music-video) [`character-lock`](tags.md#tag-character-lock) [`pop-punk`](tags.md#tag-pop-punk)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+15s / 16:9 / high-energy 2D anime pop-punk MV — character-locked
+Create a 15-second horizontal 16:9 high-energy 2D anime pop-punk music video featuring the exact heroine from the provided character reference. The entire sequence must feel like one continuous, tightly choreographed MV passage; each movement must motivate the next transition.
+CHARACTER LOCK (absolute authority = the reference still)
+Twin high black space-buns with messy volume and warm brown inner strands. Green jade disc clusters pinned into both buns. Straight blunt bangs with a small center split. Huge sharp green eyes, thick black outlines, strong lashes. Small mouth, warm cheek blush, pale skin. Green circular dangling jade earrings. Sleeveless lime-to-jade floral qipao with black piping, black frog-button placket, high collar, and black line-art lotuses on the fabric. Bare shoulders and arms. Stylized proportions: oversized head, compact torso, long simplified limbs, chunky hands. Bold black outlines, flat saturated colors, minimal cel shading, early-2000s TV-anime / handmade cartoon finish. Personality: loud, cheeky, rebellious, playful, hyperactive — the still’s fierce stare becomes motion, not a different face.
+
+Do not change hair color, bun structure, eye color, earrings, qipao cut, floral linework, or outline weight. No pink hair, no red plaid uniform, no extra characters, no 3D, no photorealism, no glossy modern anime redesign.
+GRAPHIC LANGUAGE (from the still)
+Primary palette: lemon yellow, jade / lime green, ink black, paper white. Motifs: spinning jade discs, qipao lotus line-art, frog-button glyphs, circular earrings as motion graphics, torn yellow paper, black brush X’s, photocopy grain, tape strips, hand-drawn stars and crosses, rough ink splatters. Kinetic type must look stamped, ripped, or screen-printed — never clean corporate sans.
+0.0–2.5s
+Start in motion. She slides in from frame-left, one foot skidding across a clean yellow graphic floor. Body leans forward; both buns, earrings, and qipao hem trail behind. She stomps the second foot down, snaps her chin up, and flashes a mischievous grin over the reference’s fierce eye shape. Impact instantly tiles the yellow field into huge jade-and-black floral blocks. Bold kinetic type “JADE PANIC!” slams in, letters made from ripped yellow paper + green lotus outlines.
+
+2.5–5.0s
+No pause. Rebound into a small hop and sharp half-turn. Camera swings from front ¾ into a fast side-track as she takes two exaggerated cartoon steps. Feet hit on alternating beats, leaving jade discs, lotus scribbles, tape, crosses, and comic impact marks. Buns and earrings bounce hard; qipao hem flares.
+5.0–7.5s
+Side kick on the beat. Kick momentum spins her. The floral pattern on the qipao stretches into a giant rotating graphic plane and pulls the frame into an abstract 2D punk world: black brush strokes, green lotus line-art, yellow paper shards, jade lightning (mint/cyan accents only as small bolts, never as hair), photocopy texture. She flows straight into a bouncy phrase: head whip → shoulder hit → side step → small kick → fast turn. Poses stay cartoon-exaggerated.
+
+7.5–10.0s
+Turn accelerates; camera orbits close. Environment recomposes to the choreography: checker yellow/green slides, hand-drawn crosses rotate, torn-paper strips snap, oversized comic type hits on drums (BAM, 叩, 炸). She lands hard, feet apart. A huge hand-drawn “BAM!” bursts under her feet and shakes every graphic layer. She rebounds upward immediately with a cocky smile — no held fashion pose.
+10.0–12.3s
+Same continuous body motion, camera racing along it: whip of the head → bright green eye → jade bun ornament → swinging black bun → bouncing earring → frog-button collar → floral qipao panel → stomping foot. Not a beauty-cut montage; one traveling shot. The footfall fires a jade-floral shockwave across the frame.
+
+12.3–15.0s
+Ride the shockwave back to full body. Two confident bouncing steps, abrupt pivot, finish facing camera: weight on one leg, shoulders slightly forward, cheeky rebellious grin. Buns and earrings still swinging. Background erupts into layered yellow paper, black brush X’s, white stars, green lotus line-art, spinning jade discs, rough ink. Elements snap into a 2000s punk magazine-cover lockup. Large “JADE PANIC!” type stacks behind her silhouette on the final beat. Hold her recognizable twin-bun / qipao silhouette. No design drift.
+MOTION
+Fast, bouncy, limited-animation timing: strong keys, overshoot, smear frames, anticipation, cartoon impacts. Hair buns, earrings, and qipao hem are the secondary rhythm; feet are the downbeat. Transitions grow only from action: skid → pattern flood → kick → rotating floral plane → spin → orbit → stomp → shockwave. No random cuts, no palm-to-lens, no pointing at camera, no outfit/hair morph.
+
+AUDIO
+Tight sync to fast Japanese pop-punk vocals, punchy electronic drums, distorted guitar. SFX: boot/foot skids, stomps, paper snaps, cartoon hits, guitar chops, short graphic whooshes. Type slams on snare/crash.
+NEGATIVES
+No hand reaching toward camera, no palm covering the lens, no pointing into the lens, no outfit transformation, no hairstyle transformation, no extra characters, no realistic rooms, no photorealism, no 3D CGI, no modern glossy anime, no cyberpunk holograms, no slow fashion posing, no facial drift, no random accessories, no excessive jump cuts, no disconnected moves, no uncontrolled morphing, no unreadable type, no pink hair, no red plaid school uniform.
 ```
 
 </details>
@@ -349,6 +509,279 @@ Visual Style: Premium commercial production, Billboard music video aesthetic, lu
 
 </details>
 
+<a id="wan-swiss-alps-music-video-montage"></a>
+### 红色阿迪达斯外套女子在酒店前看手机
+
+<a href="https://x.com/Strength04_X/status/2095366973878419801"><img src="../../previews/wan-swiss-alps-music-video-montage.jpg" width="360"></a>
+
+提示词按秒数写成分镜时间线，每个镜头以一个动作结束并硬切，让模型每段只需完成一个动作。一段一致性锁定条款在每个镜头重复人物脸部、服装和白色有线耳机，使主角在切换中保持同一形象。
+
+Wan 3.0 · 文生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2095366973878419801) · 151 赞，统计于 2026-10-29
+
+[`travel`](tags.md#tag-travel) [`music-video`](tags.md#tag-music-video) [`switzerland`](tags.md#tag-switzerland) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+30-second cinematic travel music-video montage of one beautiful sweet slim young woman exploring Switzerland - lakeside city park to alpine chapel wishing grounds to dramatic Swiss Alps - listening to music on white wired earphones, changing Adidas tracksuits, ending in a plaza dance with a friend and bold yellow title cards. Photoreal live-action. Hard cuts only. No fades. No slow-mo except one brief hair-whip.
+
+[GLOBAL STYLE]
+Genre: premium travel music video / fashion travel film, 2024–2026 commercial grade.
+Look: photoreal cinema, slight filmic grain, mild halation on highlights, teal-cyan skies, punchy crimson reds, deep forest greens, warm skin, crushed-but-not-crushed blacks.
+Color grade: cinematic teal-and-warm, greens slightly cyan, red Adidas pops hard against foliage, golden rim on face in sun, cool mist in mountain valleys.
+Lens language: 35mm and 50mm for portraits, 24mm for landscapes and stairs, occasional 85mm compression on face. Shallow DOF on close-ups, deep focus on mountain wides.
+Shutter: 180-degree cinematic, natural motion blur on hair and fabric, no soap-opera 60fps look. 24fps. No CGI look, no plastic skin, no beauty-filter smoothing, no extra fingers, no warped architecture.
+Do not invent logos other than the Adidas trefoil already on garments. Do not add watermarks or random UI.
+
+[SCENE]
+A beautiful sweet slim young woman in her early 20s spends a sunlit day moving through Switzerland. She has a delicate oval face, large expressive dark-brown eyes, long straight black hair, soft natural eyebrows, heavy winged black eyeliner, long lashes, glossy nude-rose lips, a tiny natural nose, smooth warm fair skin, slim athletic build, long elegant neck, long manicured white/nude nails and small silver earrings. She is naturally beautiful and youthful, with a soft closed-mouth smile that opens into a genuine laugh. No glasses. She never speaks. White wired earphones in both ears in every shot she appears, cord clearly visible.
+
+[CHARACTERS]
+LEAD - lock identity for the entire clip:
+Same beautiful sweet slim young woman in every shot. Long straight black hair, large dark-brown eyes, winged black eyeliner, long lashes, glossy nude-rose lips, warm fair skin, slim athletic build, long manicured white/nude nails, small silver earrings. No glasses. White wired earphones always present.
+
+FRIEND (appears only 21s–30s):
+Beautiful young East-Asian woman, early 20s, long dark hair, rounder softer face, wearing a loose mint/light-teal oversized t-shirt and black wide trousers. Same joyful energy. No earphones.
+
+BACKGROUND PEOPLE: real Swiss tourists and workers, mixed ages, natural clothing, never looking at camera, never frozen, never identical twins.
+
+[WARDROBE - three looks, change only at the stated cuts]
+LOOK A (0–7s): crimson-red Adidas firebird track jacket, high collar zipped, white shoulder stripes, white wired earphones, holding a peach/rose gold iPhone in a dark case.
+LOOK B (7–16s): dark forest-green Adidas cropped jersey with white 3-stripes on sleeves + white trefoil, white crop undershirt peek, baggy mint-teal track pants with side stripe, thick silver chain with small gold star pendant, stacked gold bangles, small white structured handbag, midriff visible.
+LOOK C (16–30s): black Adidas track jacket, white 3-stripes, white trefoil on left chest, black pants, silver studded belt, same earrings. Hair slightly wind-tossed.
+
+[LOCATIONS - use these exact environments]
+LOC 1 Lakeside city park: elegant European hotel tower with many balconies, blue sky with stacked white clouds, green trees, small glass greenhouse roof in lower corner.
+LOC 2 Alpine wishing pavilion: dark wooden mountain pavilion, small signboard, dense hanging red wooden wish plaques with gold tassels, stone incense burner, carved stone pillar, red lanterns, lush green hillside behind.
+LOC 3 Long stone stairway packed with tourists, yellow monumental type overlaid later.
+LOC 4 Close incense: three thick red-and-gold ceremonial incense sticks planted in ash, blessing characters in gold, thin smoke.
+LOC 5 Traditional alpine chapel complex against steep green mountain, dark tiled roofs, circular window, stone plaza.
+LOC 6 Wooden rope-and-post bridge over turquoise water, alpine buildings behind.
+LOC 7 Cliff viewpoint: rough log railing, sheer green valley dropping away.
+LOC 8 Classic Swiss Alps sea-of-clouds: dramatic jagged peaks rising through white mist.
+LOC 9 Forest path: two wooden mountain sedan chairs carried on shoulder poles by four working men, tourists walking the same paved trail under dense canopy.
+LOC 10 Turtle release pond: wooden sign 「放生池」, stone turtles in shallow water, small fountain jet.
+LOC 11 Forest floor: one wild macaque sitting on a mossy rock, looking at camera, still.
+LOC 12 Mountain-gate plaza: grey stone paving, rows of red vertical banners, cable-car cabins on far green slope, single alpine peak in mist behind traditional roofs.
+
+[CONSISTENCY LOCK]
+Same beautiful sweet slim lead face, hairline, makeup, ear shape and nail style in every shot.
+Earphones stay white wired earbuds, cord always present.
+Adidas stripes stay physically correct - three stripes.
+Architecture stays European alpine or natural Swiss mountain environments.
+No Japanese torii, Chinese temples, tropical architecture or generic fantasy buildings.
+Crowd density stays naturalistic.
+No readable random text except specified sign and two English title cards.
+
+[FIRST FRAME]
+Medium shot, lead in LOOK A, standing in LOC 1 park. Hotel tower rises out-of-focus behind her right shoulder. She looks down at phone held in both hands. Soft overcast-blue daylight. Hair still. End state: still looking at phone.
+
+[TIMELINE — 30 seconds, hard cuts on movement]
+
+0.0–2.4s SHOT 1 - OPEN
+Medium, slightly low, 35mm. Lead in red jacket, head tilted down, thumbs moving on peach iPhone. Hotel tower and clouds hold top third. Gentle handheld drift. Hard cut on thumb tap.
+
+2.4–4.2s SHOT 2 — PHONE INSERT
+High-angle ECU of phone in her hands, long white nails visible. Music-player UI on dark lock-screen-style player, play/pause visible, white earphone jack at bottom. Tiny finger adjustment. Hard cut.
+
+4.2–7.0s SHOT 3 — EARPHONES IN
+Medium close-up, 50mm, trees creamy green bokeh. She lifts right hand and seats white earbud, then drops hand. Eyes half-closed, private sweet smile starts. Very slow push-in. Both buds visible. Hard cut.
+
+7.0–9.2s SHOT 4 — ALPINE PORTRAIT
+Medium close-up. Instant wardrobe snap to LOOK B. Wishing wall behind her, warm late-afternoon side light. She looks into camera with a small sweet smile, then smile widens. Hard cut.
+
+9.2–11.4s SHOT 5 — STAIRS + TITLE
+Wide, 24mm, low on long stone stairway crowded with tourists. Lead in LOOK B, mid-stairs, one arm raised, one knee lifted playfully, white bag in down hand. Giant bold yellow type slams on: 【SWITZERLAND】 filling frame around her. Sharp condensed sans, no shadow. Hard cut.
+
+11.4–13.2s SHOT 6 — HAIR WHIP / LAUGH
+Medium tracking as she spins. Hair fans naturally with delayed follow-through. Big open-mouth laugh, chin up, looking toward mountains. Hard cut.
+
+13.2–14.6s SHOT 7 — INCENSE ECU
+Macro close of three red-and-gold ceremonial incense sticks in ash, grey burned tips, thin smoke. Shallow DOF, green bokeh. Hard cut.
+
+14.6–16.2s SHOT 8 — WISHING PLATFORM
+Medium walking shot. Lead approaches wooden wishing platform laughing, red plaques and warm lamps behind. Tourist crosses behind. Handheld follow. Hard cut.
+
+16.2–18.0s SHOT 9 — BRIDGE POSE
+Medium-wide. LOOK C begins. She leans on rope-and-wood bridge rail, torso twisted back toward camera, white bag on shoulder, mountains soft behind. Confident sweet look-to-camera. Hard cut.
+
+18.0–19.6s SHOT 10 — CLIFF BACK
+Over-shoulder / behind, 24mm. She stands at log railing looking into deep green alpine canyon. Back of black jacket and falling hair visible. One hand rises to rail. Hard cut.
+
+19.6–21.4s SHOT 11 — ALPINE PORTRAIT
+Medium, she leans on same rail facing us, LOOK C, dramatic Swiss peaks and sea of clouds behind. Open smile. Cool mountain light and mist. Hard cut.
+
+21.4–23.2s SHOT 12 — SEDAN CHAIRS
+Wide tracking from behind on forest road. Two wooden sedan chairs carried uphill by four men. Other hikers ahead through green misty tunnel. Walking pace. Hard cut.
+
+23.2–24.6s SHOT 13 — SEA OF CLOUDS
+Locked-off-feeling wide of jagged Swiss peaks punching through thick white cloud. Pine tips lower left. Almost imperceptible drift. No people. Hard cut.
+
+24.6–26.2s SHOT 14 — TWO GIRLS WALK
+Medium two-shot. Lead in LOOK C and friend in mint tee walk toward camera, glance at each other and laugh. Stone path, blue umbrellas and timber shops behind. No dialogue. Hard cut.
+
+26.2–27.4s SHOT 15 — TURTLES / MONKEY INSERT
+0.6s ECU fountain and stone turtles under wooden sign, then 0.6s single macaque sitting on moss looking into lens. Natural forest light. Hard cut.
+
+27.4–30.0s SHOT 16 — PLAZA DANCE + TITLE
+Wide-to-medium in LOC 12 plaza. Lead and friend dance. Lead throws both arms up, sleeves flying, friend grabs her hair and laughs. Red banners, misted alpine peak and tiny cable cars behind. At 28.2s giant yellow type hits: 【NEVER SAY】 then on next step 【NEVER】 stacking over them. Final frame: lead mid-laugh, arms high, type still on. Cut to black on last frame. No fade.
+
+[CAMERA / OPTICS]
+Portraits: 50mm, eye-level or slightly below.
+Landscapes: 24mm, horizon upper third.
+Inserts: 85–100mm compression.
+Movement only: gentle handheld breathe, slow push-in, walking follow, one hair-spin track. No crash zooms. No Dutch angles.
+Every cut lands on gesture, never frozen.
+
+[PHYSICS]
+Hair has real mass and delayed follow-through.
+Tracksuit nylon wrinkles and catches wind.
+Incense smoke rises in thin broken threads.
+Cloud around peaks is volumetric and slow.
+Sedan-chair poles flex under weight.
+Jacket sleeves lag slightly when arms rise.
+
+[LIGHTING]
+Park: bright overcast-blue, soft top light.
+Wishing pavilion: warm practical lamps mixed with late-day sun.
+Mountains: cooler, mist-filled, soft white bounce on face.
+Plaza: open daylight, slightly overcast, saturated colors.
+Skin has real cheekbone highlight and tiny catchlight in both eyes.
+
+[ON-SCREEN TEXT — only these two, exact]
+9.2–11.4s: 【SWITZERLAND】 — huge mustard-yellow condensed sans, centered, letters occupy most of frame.
+28.2–30.0s: 【NEVER SAY NEVER】 — same yellow condensed sans, stacked two or three lines over dancing pair. No other captions, lyrics, subtitles or location text.
+
+[AUDIO]
+<soft thumb taps on glass at 2.4s>
+<earbud click at 4.6s>
+<distant crowd murmur, wooden wind chime, thin incense crackle 7–16s>
+<open mountain wind, far cable-car hum 16–24s>
+<sedan-chair pole creak, footsteps on wet stone 21–23s>
+<water jet, turtle splash 26.2s>
+<plaza footsteps, cloth rustle, short laugh not dialogue 27.4–30s>
+No spoken lines. No voiceover.
+
+[MAINTAIN CONSISTENCY]
+One beautiful sweet slim lead. One friend after 21s. Three outfits only, changing only at named cuts. White wired earphones on lead in every shot. Swiss alpine architecture + Swiss mountain geology only. Yellow typeface identical on both cards. Photoreal, no stylized 3D, no anime, no beauty-app skin.
+```
+
+</details>
+
+<a id="h3-brutalist-hall-tracking-dance"></a>
+### 粗野主义大厅中的舞者与动作追踪叠加画面
+
+<a href="https://x.com/Artedeingenio/status/2095818230292004950"><img src="../../previews/h3-brutalist-hall-tracking-dance.jpg" width="360"></a>
+
+提示词把编舞、运镜和叠加层分开描述，叠加层给出框数、尺寸层级和每个节拍的变化规则，让舞者始终清晰可见，图形只作辅助。明确限定负片效果只出现在选中的小框内部，避免整个画面被覆盖。
+
+MiniMax H3 · 文生视频 · 出处: [@Artedeingenio on X](https://x.com/Artedeingenio/status/2095818230292004950) · 136 赞，统计于 2026-10-29
+
+[`dance`](tags.md#tag-dance) [`brutalist`](tags.md#tag-brutalist) [`tracking-overlay`](tags.md#tag-tracking-overlay) [`continuous-shot`](tags.md#tag-continuous-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Experimental contemporary dance combined with TouchDesigner-style dynamic body tracking, generated as one complete uninterrupted continuous shot with no deliberate cuts.
+
+A vast brutalist underground hall with a polished dark concrete floor, enormous vertical pillars, and one single rectangular ceiling light illuminating the center. The surrounding architecture gradually disappears into darkness. A male dancer with a shaved head, loose black trousers, and a fitted sleeveless top performs alone beneath the light. Preserve the brutalist geometry and the dancer as the sole performer.
+
+The choreography combines slow controlled tension with sudden mechanical releases: sweeping circular arm movements, deep forward lunges, asymmetric shoulder rotations, sharp elbow extensions, backward arches, rapid half-turns, one-knee drops, and long diagonal reaches across the floor. His body repeatedly expands into wide sculptural poses and contracts tightly around the torso.
+
+The camera constantly explores the performance geometry while remaining a single continuous move: extreme low angles close to the floor, overhead perspectives, slow circular tracking, profile close-ups, fast lateral travel, and sudden dolly pull-backs, all fluidly connected and precisely synchronized to the choreography. No shot cuts.
+
+[Style — TouchDesigner-style real-time computer vision body-tracking visualization]
+
+Apply sophisticated real-time body tracking densely and continuously throughout the entire clip. Glowing electric-blue and amber tracking nodes lock precisely onto the dancer's joints, hands, elbows, shoulders, knees, ankles, and torso, connected by thin geometric lines that dynamically stretch, collapse, and reorganize with every movement. Hands generate flowing vector trails. Rapid movements leave temporary wireframe echoes of previous body positions, creating layered geometric sculptures in space. During turns, circular tracking rings rotate around the torso; during floor movements, perspective grids expand outward across the concrete. As intensity rises, tracked coordinates, fragmented polygons, kinetic curves, and translucent skeletal structures accumulate around him, always responding precisely to his body. Keep the dancer visible and never obscure him with filled graphics.
+
+Required CV overlay structure, visible continuously: 12-20 hollow axis-aligned rectangular tracking boxes at once, thin 1-2px electric-blue or amber strokes, absolutely no fill and no translucent color blocks. Maintain four clearly separated size tiers at every stable moment: 2-4 large local boxes, 3-5 medium local boxes, 3-5 small local boxes, and 4-6 visibly tiny micro boxes. Vary wide and tall rectangles. Every box tracks only a local body fragment or local motion region; never enclose the whole dancer, whole body, or whole head. The largest box covers no more than one quarter of the visible subject area. Micro-box area is at most 1/32 of the largest box. All box centers are visibly displaced; no concentric or near-concentric rectangle rings. On each audible downbeat or strong accent, replace, resize, jump, or relocate roughly 30-50% of the boxes to new local fragments while retaining the total count and all four size tiers.
+
+Add thin straight topological connection lines linking displaced box corners and centers into a flexible star/network graph, alongside the joint-node skeleton. Add small clean monospace four-digit numeric IDs and [x, y] coordinate labels beside boxes; IDs and coordinates visibly randomize rapidly on every frame like a live CV debug console. Add optional sparse pixel samples and a subtle center crosshair only if they remain secondary.
+
+Inside selected small and micro boxes only, show a true photographic negative of the exact underlying moving pixels, clipped precisely to each selected box's inner edge. Everything outside those selected small/micro rectangles, including large and medium box interiors, remains normal positive color. Rotate the negative windows across successive musical downbeats so different small/micro boxes take turns switching positive-to-negative and negative-to-positive. Never apply global negative, global monochrome, full-screen flashing, exposure pulsing, or strobing. Negative pixels must not bleed beyond the selected box interiors.
+
+Audio is generated by the video model in sync with the visuals: instrumental experimental techno at 128 BPM, deep industrial kick, dry metallic percussion, pulsating distorted bass, and short bursts of synthetic noise. No vocals, no spoken voice, no lyrics. Every major beat drives the tracking-box changes, local negative-window switches, node pulses, trail persistence, and camera movement; the music and visual rhythm are tightly synchronized.
+
+Final beat: the dancer suddenly stops in a wide asymmetric pose. All previous motion trails remain suspended around him for a brief moment, forming a large abstract three-dimensional wireframe sculpture of his movement history, then everything instantly disappears except the dancer under the ceiling light.
+
+[Visual style — generated footage only]
+
+Dark brutalist minimalism, high-contrast cinematic lighting, black and concrete-gray environment, electric-blue and amber tracking graphics, contemporary digital-art installation aesthetic. Apply a low-saturation desaturated underlying palette with natural teal/cyan cool shadows and warm highlights, strong 35mm film grain, high contrast with lifted blacks and preserved highlight detail, cinematic single-key or side/back lighting, shallow depth of field, subtle vignette, natural sharpness, and restrained highlight bloom. Keep film grain, grading, and optical artifacts confined to the generated footage; do not contaminate tracking lines, box outlines, nodes, IDs, or local negative masks.
+
+HARD NEGATIVES: no solid-fill colored blocks, no filled overlays, no full-body or full-head bounding box, no silhouette-shaped or irregular boxes, no concentric rectangles, no same-size-only boxes, no fewer than 12 boxes, no missing micro boxes, no static IDs, no floating subtitles, no logo or watermark, no global black-and-white or desaturation, no global photographic negative, no full-screen black-white flash, no color strobe, no negative effect inside large or medium boxes, no negative bleed outside small/micro inner edges, no reference footage, no overlaid source footage, no extra performer, no deliberate shot cuts.
+
+[Technical] 15 seconds, 16:9 horizontal, one continuous shot, 2K, cinematic motion, precise motion synchronization, generated instrumental audio.
+```
+
+</details>
+
+<a id="h3-neon-pulse-anime-mv-opening"></a>
+### 霓虹脉冲片名配动漫剪影与HUD界面
+
+<a href="https://x.com/yourPlugAI/status/2090773583668621325"><img src="../../previews/h3-neon-pulse-anime-mv-opening.jpg" width="360"></a>
+
+提示词用时间点标注节拍（3秒重拍、7秒琶音、11秒主旋律），并逐一指定转场类型，让切换跟着音乐走。明令禁止淡入淡出和溶解，使每次切换保持干脆。
+
+MiniMax H3 · 文生视频 · 出处: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2090773583668621325) · 127 赞，统计于 2026-10-29
+
+[`mv-opening`](tags.md#tag-mv-opening) [`cyber-pop`](tags.md#tag-cyber-pop) [`hud-graphics`](tags.md#tag-hud-graphics) [`beat-synced`](tags.md#tag-beat-synced) [`title-sequence`](tags.md#tag-title-sequence)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a 15-second hyper-pop cyber-anime MV opening. Refer to the visual language of these reference images: neon pastel cyberpunk, glowing holographic overlays, futuristic UI HUD elements, high-contrast Y2K digital graphic design, floating liquid-metal typography, speed lines, and bright cyan-magenta-violet gradient color schemes, set to a high-tempo J-pop synthwave rhythm.
+
+The tone should be 80% energetic cyber-pop and 20% futuristic intrigue: colorful, fast-paced, stylish, and futuristic, without dark horror or gloomy tones. Make it feel like an ultra-modern animated music video intro: glowing laser frames expand first, digital interface grids snap open, and holographic anime character silhouettes, glowing cyber-deck props, and bold floating English credits reveal in precise sync with the upbeat tempo.
+
+English credits and title text must be clear, crisp, and stylishly designed. No random characters or misspellings. Each credit and job title must appear only once.
+
+Use dynamic digital transitions: chromatic aberration glitches, prism light leaks, rapid frame flashes, pixel-sorting wipes, spatial zoom-cuts, and panel-slide reveals. Keep all transitions razor-sharp and beat-driven. No slow blurs or fading dissolves.
+BGM: original 15-second high-energy cyber-pop instrumental, 160 BPM upbeat synthwave rhythm.
+
+Features crisp electronic clap-snares, bright arpeggiated synth leads, bouncing sub-bass line, and glowing vocal chops. Build anticipation in the first 2 seconds, drop a heavy synth-bass beat at 3 seconds, introduce bright arpeggios at 7 seconds, hit a high-octane synth melody at 11 seconds, and finish on an echoing synth stab with a shimmering reverb tail.
+```
+
+</details>
+
+<a id="h3-alexa-grey-ai-command-music-video"></a>
+### Alexa Grey在霓虹AI指挥中心中演唱
+
+<a href="https://x.com/MonetizationDon/status/2085695306402840816"><img src="../../previews/h3-alexa-grey-ai-command-music-video.jpg" width="360"></a>
+
+把30秒拆成带时间码的段落，每段对应一段歌词和一组界面动效，让模型在从R&B切换到说唱时保持同一个故事。固定的视觉风格描述和密集的镜头词保证画面统一，明确的演唱指令则驱动口型同步。
+
+MiniMax H3 · 文生视频 · 出处: [@MonetizationDon on X](https://x.com/MonetizationDon/status/2085695306402840816) · 125 赞，统计于 2026-10-29
+
+[`music-video`](tags.md#tag-music-video) [`lip-sync`](tags.md#tag-lip-sync) [`holographic-ui`](tags.md#tag-holographic-ui) [`neon`](tags.md#tag-neon)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+30-second cinematic music video
+
+0:00–0:15: Alexa Grey performs a soulful English R&B song about Higgsfield bringing together the world's most powerful AI models, empowering creators to turn ideas into reality. Smooth vocals, emotional delivery, cinematic performance, perfect lip sync.
+
+0:15–0:30: The beat switches into an energetic rap. Alexa celebrates the creative power of Seedance 2.5, Kling AI, MiniMax H3, Higgsfield Soul 2, and the Higgsfield Super Computer, with every model introduced through premium editorial motion graphics and holographic UI.
+
+Visual Style
+Bright futuristic AI command center, luxury cyberpunk aesthetic, glossy white architecture with neon purple, magenta, cyan, and gold accents, massive holographic displays, floating interfaces, reflective floors, volumetric lighting, luxury fashion styling, cinematic color grading, premium commercial quality.
+
+Camera
+Extreme close-ups, drone establishing shots, orbit shots, handheld performance shots, dolly tracking, crane shots, 360° rotations, whip pans, slow-motion hero shots, seamless match cuts, dynamic transitions synchronized to the beat.
+
+On-screen Editorial Pop-ups
+• SEEDANCE 2.5 — 30-second video • Multi-reference • Interactive Editing
+• KLING AI — Realistic Motion • Cinematic Camera • Physics
+• MINIMAX H3 — AI Music • Vocals • Lyric Generation
+• HIGGSFIELD SOUL 2 — Character Performance • Emotion • Cinematic Expressions
+• HIGGSFIELD SUPER COMPUTER — Powering the Next Generation of AI Creativity
+As each model appears, the environment transforms to demonstrate its strengths. Finish with Alexa standing inside the glowing Super Computer core while every AI model orbits around her as holograms. End with the tagline:
+
+"One Platform. Every Creator. Infinite Possibilities."
+```
+
+</details>
+
 <a id="h3-pink-seoul-korean-fashion-collage-mv"></a>
 ### 粉色韩系时尚拼贴短片与换装
 
@@ -569,6 +1002,58 @@ MiniMax H3 · 参考生视频 · 出处: [@MireilleDartois on X](https://x.com/M
 ```text
 She jokingly brings her face close to the camera and laughs.
 She sings cheerfully, full of excitement. She laughs with her eyes crinkled, smiles with the corners of her mouth turned up, and looks away briefly before looking back at the camera and laughing again. She sways her head to the rhythm, and her hair bounces up and down.
+```
+
+</details>
+
+<a id="h3-furina-fontaine-lyric-montage"></a>
+### 芙宁娜枫丹节目单歌词蒙太奇
+
+<a href="https://x.com/nanyuan0412/status/2088552509321195997"><img src="../../previews/h3-furina-fontaine-lyric-montage.jpg" width="360"></a>
+
+提示词把参考视频的音轨、切点和节奏曲线作为时间网格，再把所有画面替换为芙宁娜与枫丹的排版元素。每个切点都锁定到指定时间戳，让歌词重音与原曲音乐保持同步。
+
+MiniMax H3 · 视频编辑 · 出处: [@nanyuan0412 on X](https://x.com/nanyuan0412/status/2088552509321195997) · 20 赞，统计于 2026-10-29
+
+[`furina`](tags.md#tag-furina) [`genshin-impact`](tags.md#tag-genshin-impact) [`lyric-montage`](tags.md#tag-lyric-montage) [`reference-video`](tags.md#tag-reference-video)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+这个是有参考的版本可以使用
+
+subject_definitions:
+<Subject 1> is Furina from Genshin Impact in her canonical default design: pale skin, long white hair with blue underlayers, bright blue eyes, a small navy top hat, and an ornate navy-and-ivory Fontaine outfit with bow, ruffles, shorts, gloves, and restrained gold details. Keep one form and costume. Her elegant, dramatic stage presence remains active, not a static poster. Printed portraits and chibi graphics are designed images, not extra physical characters.
+
+summary:
+[video editing] Adapt <Video 1> into a 15.000-second, 16:9 Furina/Fontaine editorial anime montage. Preserve its soundtrack, major cut times, motion-density curve, and dense-to-calm-to-empty pacing. Replace source content with Furina, Fontaine theatre, waterways, hydro motifs, playbills, and tickets. Use ivory, Fontaine navy, water cyan, black type, and sparse gold lines. Do not change music, tempo, lyric timing, section lengths, or ending duration.
+
+retention_analysis:
+<Video 1> embedded audio, duration, frame order, cuts, beat alignment, layout trajectories, section functions, and density rhythm: fully_preserved.
+<Video 1> original character, outfits, cherry location, city/social content, and name labels: weak_reference; replace them with <Subject 1> and Fontaine content while retaining composition and motion load.
+<Video 1> lyric content and timing: fully_preserved. Exact glyphs, small UI copy, logos, and signatures: partially_preserved; leave stable text zones for post-production and never invent gibberish.
+
+detailed_description:
+[Shot 1] From 00:00.000 to 00:00.933, ivory white resolves from overexposure into a monochrome waist-up portrait of <Subject 1>, surrounded by pale-gray letters, a thin opera-arch circle, navy ticket fragments, and two hydro diamonds. Blur rapidly locks crisp while her eyes, hair, hat ribbon, ruffles, and shoulders remain subtly alive.
+[Shot 2] At 00:00.933, the circle encloses <Subject 1> and restores her white, navy, and cyan colors. Outside snaps to Fontaine navy with huge white "FURINA" type. Portrait and background counter-slide; the circle lifts and pulls an ivory playbill from below.
+[Shot 3] At 00:01.400, cut to a centered vertical Furina playbill on navy. It drops with one short impact, slightly overshoots, and locks. Use only "FURINA" and "OPERA EPICLESE". Its lower edge stretches sideways until ivory replaces navy.
+[Shot 4] At 00:02.283, the playbill unfolds into a Fontaine collage: full-body <Subject 1>, aquabus windows, waterways, huge pale-gray "FURINA", navy "FONTAINE", gold rules, and cyan swatches. Begin on shoes and shorts, pull vertically to torso and hat, then reveal the page. A black lower bar appears and the layout whips left.
+[Shot 5] At 00:03.683, opera programs, tickets, and portrait cards of <Subject 1> sweep left on a curved conveyor between black bars. Navy, ivory, and pale-gold cards pass in depth with controlled blur as printed layers. They fall downward, leaving original lyric words at both sides.
+[Shot 6] At 00:04.567, a thin hydro-pulse line receives motion. Preserved lyric words enlarge on original vocal accents, briefly offset and shake, while diagonal lines and faint water rings cross ivory. The emphasized word contracts and releases a gold-edged cyan rectangle.
+[Shot 7] At 00:05.550, the cyan lyric card expands past target size, makes one small settle, and locks. Preserve its source word exactly; add no copy. The card shrinks upper-left and clears.
+[Shot 8] At 00:06.017, chibi <Subject 1> in the same costume appears left of center with a huge preserved black lyric word behind her. One scale impact lands, then body, hat, and ruffles keep moving. Chibi and word smear horizontally and exit together.
+[Shot 9] At 00:06.500, one large preserved Chinese lyric character remains on ivory. Horizontal echoes resolve crisp; it drifts left and compresses into a water-droplet slit. The Fontaine water garden is visible inside before opening.
+[Shot 10] At 00:06.917, the slit opens to <Subject 1> on a luminous Fontaine water terrace under a pale cyan sky, with white stone, blue water, hydro flowers, and translucent droplets. Bright blur clears, then hold a very slow push-in. Her gaze, hair, ribbons, coattails, reflections, flowers, and parallax stay gently active. Add no event or spell. At 00:10.230, push briefly and overexpose to ivory.
+[Shot 11] At 00:10.333, the preserved handwritten lyric sits in navy ink on ivory with a soft vignette and faint water ring. At OUT it forms a pale-gray echo and drags left, handing direction and speed to <Subject 1>.
+[Shot 12] At 00:11.267, <Subject 1> enters from lower right with brief blur and settles left of center before pale-gray "FURINA" type. After lock, gaze, hair, shoulders, hat ribbon, and coattails move subtly. At 00:12.067, her layer accelerates downward and exits.
+[Shot 13] At 00:12.083, centered black "Merci" remains alone on ivory. Hold almost still with a minimal breathing vignette; this is the lowest-density section.
+[Shot 14] At 00:13.500, replace "Merci" with a thin handwritten "Furina" signature and small "FONTAINE" below at the same center. Add no event through 00:15.000.
+
+overall_soundscape:
+Fully copy <Video 1> audio as timing reference. Add no dialogue, Foley, impacts, whooshes, ambience, or synthetic sound. Keep every onset, accent, silence, and mix unchanged. Visual locks remain at 00:00.933, 00:02.283, 00:03.683, 00:04.567, 00:05.550, 00:06.017, 00:06.500, 00:06.917, 00:10.333, 00:11.267, 00:12.083, and 00:13.500.
+
+non_diegetic_music:
+Fully copy <Video 1> music without recomposition, replacement, tempo/pitch/time change, fade, ducking, loudness change, or additions. Final production remuxes the untouched original AAC.
 ```
 
 </details>

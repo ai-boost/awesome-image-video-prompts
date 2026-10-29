@@ -1,6 +1,6 @@
 # Ads and product videos
 
-[Back to the list](../../README.md) · All 87 entries
+[Back to the list](../../README.md) · All 123 entries · **1** · [2](video-commercial-2.md)
 
 <a id="kling-vintage-watch-macro"></a>
 ### Macro shot of a vintage wristwatch between fingers
@@ -885,6 +885,43 @@ Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto
 
 </details>
 
+<a id="h3-woman-white-dress-mirror-perfume-ad"></a>
+### Woman in white dress getting ready at mirror
+
+<a href="https://x.com/CaliraVal/status/2105895582275657852"><img src="../../previews/h3-woman-white-dress-mirror-perfume-ad.jpg" width="360"></a>
+
+The prompt numbers seven scenes in order and gives each one its own action plus a camera or lighting cue, so the model can carry one character through a full ad. The character is described once in detail (bob haircut, white dress, gold jewelry), and the closing visual style block sets the grade, depth of field and skin texture for every shot.
+
+MiniMax H3 · Text-to-video · Source: [@CaliraVal on X](https://x.com/CaliraVal/status/2105895582275657852) · 237 likes on 2026-10-29
+
+[`perfume-commercial`](tags.md#tag-perfume-commercial) [`multi-scene`](tags.md#tag-multi-scene) [`character-consistency`](tags.md#tag-character-consistency) [`luxury-fashion`](tags.md#tag-luxury-fashion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic, cinematic luxury perfume commercial with a romantic evening atmosphere.
+
+Scene 1: A beautiful young woman with a short brunette bob haircut, elegant features, and natural makeup stands in front of a mirror, wearing a sophisticated white evening dress and delicate gold jewelry. She smiles softly while getting ready for a special evening.
+
+Scene 2: Close-up of her smartphone resting on a bedside table as she receives a message. Warm ambient lighting creates a cozy, intimate mood.
+
+Scene 3: She opens her wardrobe and chooses an elegant white dress. Capture natural movements, realistic fabric physics, and cinematic framing.
+
+Scene 4: A macro close-up of her hand holding a luxurious transparent glass perfume bottle with pink fragrance. She gently sprays the perfume on her wrist. Highlight the fine mist, glass reflections, and premium product details.
+
+Scene 5: She turns away from the mirror, her short hair moving naturally as she prepares to leave. Use a smooth cinematic camera movement.
+
+Scene 6: A beautiful European city street at night, with warm restaurant lights, passing cars, and soft reflections on the pavement. The woman walks gracefully toward a stylish restaurant.
+
+Scene 7: A romantic close-up of the woman and a handsome young man meeting outside at night. They exchange warm smiles and look into each other's eyes, creating a subtle romantic moment.
+
+Visual style: Premium luxury perfume advertisement, cinematic storytelling, warm golden lighting, realistic skin texture, shallow depth of field, elegant camera movements, soft bokeh, natural human expressions, sophisticated color grading, photorealistic details, 4K quality.
+
+Maintain consistent character identities, realistic movements, seamless transitions, and a refined romantic atmosphere. No text, no subtitles, no logos, no watermark.
+```
+
+</details>
+
 <a id="kling-ten-pose-fashion-editorial-reflective-studio"></a>
 ### Ten pose fashion editorial in a reflective studio
 
@@ -942,6 +979,66 @@ MiniMax H3 · Text-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/s
 
 ```text
 Create a high-end cinematic burger commercial in portrait format, designed like a premium restaurant campaign.  Open on an extreme macro shot of a golden toasted bun, revealing tiny bake-specks, soft flour dusting and rich surface texture under warm directional light. The camera glides smoothly across the bun, then pulls back as the burger ingredients separate into a perfectly aligned exploded stack above a matte wooden tabletop.  The full burger floats on a single vertical axis: toasted top bun, crisp ruffled lettuce, glossy tomato slices, translucent purple-red onion rings, melted cheddar, a thick char-grilled beef patty and toasted bottom bun. Each layer moves with elegant controlled motion, subtle rotation and realistic weight.  Use premium food-commercial camera movement throughout: macro tracking shots, smooth dolly pushes, slow orbital moves, shallow-focus passes between ingredients and precise rack focuses. Add occasional speed ramps into slow-motion beauty moments. Let tiny crumbs, droplets and subtle steam move through the light for additional depth.  Integrate bold hand-lettered white typography directly into the composition. Words appear between the floating burger layers, following the camera movement with kinetic typography. Letters can slide behind ingredients, reveal through depth, stretch slightly during transitions and lock cleanly into place. Add minimal white doodle strokes and graphic accent lines that animate around key ingredients.  Lighting is luxurious and appetizing: soft directional key from upper-left, controlled fill, warm highlights, deep dimensional shadows and glossy specular detail on tomato, cheese and meat. Background is a refined warm brown gradient with subtle cinematic falloff.  Build toward a final satisfying moment where all ingredients rapidly assemble into one perfect burger. The camera performs a fast controlled push-in, then settles into a polished hero shot. Steam rises gently from the patty, cheese settles over the edges and the typography resolves beside the burger.  Final frame: centered premium burger hero shot, clean composition, elegant white campaign typography and subtle animated graphic accents.  Visual style: luxury food advertising, modern restaurant campaign, cinematic macro photography, rich warm tones, high contrast, shallow depth of field, highly detailed food textures, sophisticated motion design, premium typography, smooth dynamic camera choreography, polished commercial finish.
+```
+
+</details>
+
+<a id="h3-golden-hour-hair-mist-beach-commercial"></a>
+### Woman with windblown hair on a golden hour beach
+
+<a href="https://x.com/AvelyrahnAI/status/2114955141707133421"><img src="../../previews/h3-golden-hour-hair-mist-beach-commercial.jpg" width="360"></a>
+
+The prompt works as a shot list: it sets the 9:16 frame and golden hour light, then moves in order through the portrait, the product hero, the mist, a hair toss and a final product display. Naming the lens behaviour, such as shallow depth of field and smooth stabilization, keeps the commercial look consistent across cuts.
+
+MiniMax H3 · Text-to-video · Source: [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2114955141707133421) · 231 likes on 2026-10-29
+
+[`beauty-commercial`](tags.md#tag-beauty-commercial) [`product-shot`](tags.md#tag-product-shot) [`golden-hour`](tags.md#tag-golden-hour) [`vertical-video`](tags.md#tag-vertical-video)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 9:16 vertical luxury beauty commercial video on a sun-drenched tropical beach during golden hour. Ultra-detailed photorealistic visuals, gorgeous young woman with long, lustrous, wind-swept glossy brown hair, soft natural makeup, wearing a chic blue outfit. The sequence flows seamlessly from a close-up portrait smile, to a crisp product hero shot of an orange and blue spray bottle labeled "HAIR ENERGY SCENTSATIONS" held in a clean hand, to a dynamic side-profile shot of a refreshing hair mist spray creating a fine atomized mist catching the warm sunset light, followed by an elegant hair toss and slow-motion turn. Concludes with a pristine product display of the spray bottle resting on wet coastal rocks, surrounded by splashing crystal-clear sea foam and delicate white frangipani flowers. High-end commercial production value, shallow depth of field, vibrant warm color grading, ultra-sharp textures, smooth professional camera stabilization
+```
+
+</details>
+
+<a id="h3-iced-tea-hero-shot-storyboard"></a>
+### Woman raises iced tea bottle under sunny sky
+
+<a href="https://x.com/socialwithaayan/status/2083860644911300928"><img src="../../previews/h3-iced-tea-hero-shot-storyboard.jpg" width="360"></a>
+
+A numbered scene list that gives each beat its shot type, camera move and sound effect lets the model follow a clear order. Repeating the same actress, product and DSLR 85mm lens in every scene holds identity and look across cuts.
+
+MiniMax H3 · Text-to-video · Source: [@socialwithaayan on X](https://x.com/socialwithaayan/status/2083860644911300928) · 231 likes on 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`product-ad`](tags.md#tag-product-ad) [`sound-effects`](tags.md#tag-sound-effects) [`beverage`](tags.md#tag-beverage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra cinematic 3x3 commercial storyboard for a refreshing Chinese iced tea drink advertisement, inspired by energetic Japanese beverage commercials, bright summer daylight, hyper realistic photography, vibrant blue sky, strong sunlight glow, refreshing water splash effects, dynamic action motion, fast cut scenes, cinematic camera angles, premium ad quality, realistic skin texture, DSLR 85mm lens look, commercial-grade lighting, emotional expressions, energetic youthful vibe, ultra detailed drink bottle focus, condensation droplets on bottle, cold refreshing atmosphere.
+
+Scene 1. Low angle hero shot of young Asian woman holding iced tea bottle toward camera under bright blue sky, hair blowing in wind, sun flare, dramatic perspective, cinematic opening shot. SFX: wind rush, upbeat summer music starts.
+
+Scene 2. Extreme close-up of bottle with ice cubes and liquid splash exploding around it in slow motion, detailed droplets frozen mid-air. SFX: explosive splash, bass hit.
+
+Scene 3. Girl smiling and spinning while holding drink, camera orbit motion, sky background, energetic carefree vibe. SFX: whoosh transition, cheerful music rise.
+
+Scene 4. Macro bottle cap twist open, carbonation fizz bursting out, ultra satisfying detail shot. SFX: crisp bottle crack, fizz sound.
+
+Scene 5. Side profile drinking scene, liquid glow reflections, sunlight on face, refreshing emotional expression, cinematic close-up. SFX: gulp sound, soft sparkle effect.
+
+Scene 6. Ice cubes crashing into tea splash with floating tea leaves, ultra dynamic product beauty shot. SFX: ice crack, liquid burst.
+
+Scene 7. Fast action jumping scene with friends laughing together outdoors, handheld camera energy, motion blur, youth commercial aesthetic. SFX: laughter, energetic beat drop.
+
+Scene 8. Premium centered product showcase with rotating bottle, floating ice particles, typography graphics around product, commercial key visual. SFX: impact boom, rising synth.
+
+Scene 9. Final hero frame, girl smiling directly at camera while holding drink close to lens, glowing sunlight behind, cinematic ending frame with bold Chinese typography and logo. SFX: satisfying logo sound, upbeat ending music.
+
+Style references: Japanese summer beverage commercials, Coca-Cola Japan ads, Pocari Sweat cinematic energy, fast-paced Asian commercial editing, ultra realistic, highly saturated colors, premium advertising photography, cinematic storyboard layout, realistic water physics, motion blur transitions, energetic youth lifestyle aesthetic.
+
+Visual quality: 8k ultra detailed, commercial photography, HDR lighting, realistic reflections, natural skin texture, cinematic composition, dynamic framing, high contrast sunlight, premium beverage ad style, authentic summer atmosphere, cinematic storyboard grid layout with numbered scenes.
 ```
 
 </details>
@@ -1089,6 +1186,31 @@ Photorealistic premium fashion campaign, dramatic studio lighting, deep blacks, 
 
 </details>
 
+<a id="h3-pepsi-desert-convertible-commercial"></a>
+### Boots walk past vintage convertible at desert station
+
+<a href="https://x.com/CaliraVal/status/2091012158280917271"><img src="../../previews/h3-pepsi-desert-convertible-commercial.jpg" width="360"></a>
+
+Splits the spot into ordered shot beats, each with its own camera angle, then closes with a style block of lens, lighting and grain terms. Naming the logo and the chilled bottle keeps the product readable in the hero shot.
+
+MiniMax H3 · Text-to-video · Source: [@CaliraVal on X](https://x.com/CaliraVal/status/2091012158280917271) · 199 likes on 2026-10-29
+
+[`commercial`](tags.md#tag-commercial) [`golden-hour`](tags.md#tag-golden-hour) [`desert`](tags.md#tag-desert) [`product-shot`](tags.md#tag-product-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second cinematic Pepsi commercial-style video set on an empty desert highway during golden hour. A stylish young woman in a western-inspired outfit and cowboy boots walks toward a classic white vintage convertible parked beside a remote gas station. Show dramatic low-angle shots of her boots, the car’s chrome wheels, and her confident walk.
+
+Cut to an extreme close-up of her face, wind blowing through her hair, with warm sunlight and a confident expression. Show a chilled Pepsi glass bottle glowing in the sunset light, covered in realistic condensation, with the Pepsi logo clearly visible.
+
+Then show the woman sitting in the convertible while holding the Pepsi bottle as her scarf flows dramatically in the wind. Finish with a wide cinematic aerial shot of the vintage car speeding down the long empty desert road toward the setting sun, leaving a subtle trail of dust.
+
+Style: photorealistic, premium Pepsi commercial, cinematic storytelling, warm golden-hour lighting, anamorphic lens, shallow depth of field, realistic skin and fabric, smooth camera movements, dramatic close-ups, rich contrast, subtle film grain, 4K, high-end advertising aesthetic, 9:16 vertical.
+```
+
+</details>
+
 <a id="omni-rose-perfume-storyboard-commercial"></a>
 ### Rose perfume bottle luxury commercial with petals
 
@@ -1150,6 +1272,143 @@ Luxury macro photography, smooth 360° product rotation, controlled push-ins, sh
 
 VISUAL STYLE:
 Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+</details>
+
+<a id="h3-hair-serum-ugc-bedroom-ad"></a>
+### Smiling woman shows hair serum bottle in bedroom
+
+<a href="https://x.com/SyntheSarah/status/2084567967652843620"><img src="../../previews/h3-hair-serum-ugc-bedroom-ad.jpg" width="360"></a>
+
+Four timed scenes with inline dialogue and a UGC style block keep the phone-selfie look consistent across cuts. Attaching the product photo as a reference holds the bottle label and dropper shape steady.
+
+MiniMax H3 · Reference-to-video · Source: [@SyntheSarah on X](https://x.com/SyntheSarah/status/2084567967652843620) · 177 likes on 2026-10-29
+
+[`ugc`](tags.md#tag-ugc) [`product-ad`](tags.md#tag-product-ad) [`beauty`](tags.md#tag-beauty) [`hair-care`](tags.md#tag-hair-care)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second authentic UGC-style hair growth serum ad using the provided product image as the exact product reference.
+
+SCENE 1 — 0–3s
+A young woman films herself in a bright bedroom using a smartphone front camera. Natural lighting, handheld movement, casual appearance. She looks at the camera and says:
+“I’ve been trying this hair growth serum lately…”
+
+SCENE 2 — 3–7s
+Cut to a close handheld shot of the woman holding the serum bottle. She removes the dropper, applies a few drops directly to her scalp, and gently massages it in. Keep the movement natural and slightly imperfect like real UGC content.
+
+SCENE 3 — 7–11s
+Mirror selfie shot. She runs her fingers through her hair, showing healthy-looking, fuller hair while casually talking to the camera:
+“And honestly, I love how easy it is to add to my routine.”
+
+SCENE 4 — 11–15s
+Close-up product shot on her bathroom counter. She picks up the bottle and smiles toward the camera. End with natural on-screen text:
+“Simple hair care. Every day.”
+
+Style: authentic TikTok/Reels UGC, smartphone camera, realistic skin texture, natural expressions, subtle handheld motion, imperfect framing, casual home environment, soft daylight, realistic audio, no cinematic commercial look, no excessive beauty filters. Preserve the exact product packaging, label, bottle shape, and branding from the reference image.
+```
+
+</details>
+
+<a id="h3-glam-beauty-gold-pearl-earrings-closeup"></a>
+### Glam beauty close-up with gold pearl earrings
+
+<a href="https://x.com/TaliaAariz/status/2113991384512299099"><img src="../../previews/h3-glam-beauty-gold-pearl-earrings-closeup.jpg" width="360"></a>
+
+The prompt opens with a full appearance list covering skin, eyes, makeup and blazer, then gives a beat-by-beat movement sequence plus a camera and lighting spec. Restating the same appearance details keeps the face consistent through the head turns.
+
+MiniMax H3 · Text-to-video · Source: [@TaliaAariz on X](https://x.com/TaliaAariz/status/2113991384512299099) · 171 likes on 2026-10-29
+
+[`beauty`](tags.md#tag-beauty) [`makeup`](tags.md#tag-makeup) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Vertical 9:16 beauty close-up video, 13 seconds. A young woman with olive skin, green eyes, thick brushed-up brows and a sleek dark hair bun poses against a soft light-gray studio backdrop. Glam makeup: warm peach-bronze smoky eyeshadow, defined lashes, bold pink-coral blush swept high on the cheekbones, glossy rose-pink lips, and a luminous glowing complexion. She wears ornate gold statement earrings with baroque pearl drops and a cream-white tailored blazer.
+Movement: the shot opens on a tight face close-up, then she slowly turns her head left and right, showing off the earrings, blush and lips. She gently touches her jaw and earring, flutters her eyes, and ends in a side profile. Smooth, slow, confident glamour poses.
+Camera: static handheld-style close-up at eye level, shallow depth of field, subtle push-in. Lighting: soft, bright beauty-dish light with gentle highlights on the cheeks and lips, clean studio look. Style: high-end makeup tutorial or fashion editorial, glossy and polished, sharp skin texture, 4K, 30 fps.
+```
+
+</details>
+
+<a id="h3-black-luxury-sedan-city-ad-kiss"></a>
+### Black luxury sedan city ad ending with a kiss
+
+<a href="https://x.com/Zyrellix/status/2108784100530081964"><img src="../../previews/h3-black-luxury-sedan-city-ad-kiss.jpg" width="360"></a>
+
+Four timed shots, each with a named camera move (side tracking, low angle wheel close up, rear tracking, interior close up), give the model clear cut points. The darkening exit scene and lens and light terms like shallow depth of field and reflections set the premium commercial look.
+
+MiniMax H3 · Text-to-video · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2108784100530081964) · 169 likes on 2026-10-29
+
+[`luxury-car`](tags.md#tag-luxury-car) [`dusk-city`](tags.md#tag-dusk-city) [`multi-shot`](tags.md#tag-multi-shot) [`product-ad`](tags.md#tag-product-ad)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second cinematic photorealistic luxury car commercial, set in a modern city at dusk. Premium automotive advertisement, realistic lighting, natural motion, detailed reflections, shallow depth of field, smooth cinematic camera movement, 4K quality, 24fps.
+
+SHOT 1 — 0–4s:
+Medium close-up from outside the driver's side window of a sleek black luxury sports sedan driving through the city. A young Asian woman with long dark hair is driving, wearing a black leather jacket and seatbelt. She looks naturally toward the road, then briefly smiles toward the camera. Capture realistic reflections of city lights across the glossy black body and windows. Camera tracks smoothly alongside the moving car.
+
+SHOT 2 — 4–7s:
+Extreme low-angle close-up of the rear wheel and rear quarter panel. The black performance tire spins rapidly as the car accelerates. Subtle tire smoke and road dust appear behind the wheel. Detailed tire texture, realistic suspension movement, glossy reflections, dramatic automotive lighting. Fast dynamic tracking camera.
+
+SHOT 3 — 7–11s:
+Wide rear tracking shot of the black luxury sedan speeding through a modern city tunnel/highway surrounded by tall glass buildings. The car moves confidently through the center lane. Camera follows smoothly from behind at road level. Strong sense of speed with realistic background motion blur, reflections and cinematic depth.
+
+SHOT 4 — 11–15s:
+Cut back inside the car. Close-up of the female driver from the passenger side. She keeps one hand on the steering wheel, looks toward the camera with a playful confident smile, then gently raises her hand toward her lips as if blowing a kiss. City lights streak softly through the windows behind her. Natural facial expressions, realistic skin texture, subtle hair movement, premium cinematic lighting.
+
+END:
+The car continues driving away through the city as the scene gradually becomes darker, leaving a stylish cinematic ending.
+
+Visual style: ultra-photorealistic, premium luxury automotive commercial, realistic physics, natural human movement, accurate car proportions, realistic wheel rotation, cinematic depth of field, detailed reflections, high-end color grading, smooth transitions, no cartoon look, no distorted hands, no facial artifacts, no warped car body.
+Camera movement should feel dynamic and confident, matching a real professional automotive commercial rather than slow motion.
+```
+
+</details>
+
+<a id="h3-ugc-skincare-serum-bathroom"></a>
+### Young woman showing serum bottle in bathroom
+
+<a href="https://x.com/ZaraIrahh/status/2083011066800242986"><img src="../../previews/h3-ugc-skincare-serum-bathroom.jpg" width="360"></a>
+
+The prompt frames the shot as a handheld smartphone UGC clip with one speaker facing the camera, a simple layout the model handles well. Naming soft morning light, a casual room, and skin that is not overly retouched keeps the face natural instead of glossy.
+
+MiniMax H3 · Text-to-video · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2083011066800242986) · 158 likes on 2026-10-29
+
+[`ugc`](tags.md#tag-ugc) [`skincare`](tags.md#tag-skincare) [`beauty`](tags.md#tag-beauty) [`talking-head`](tags.md#tag-talking-head)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+UGC-style skincare video featuring a realistic young woman speaking directly to the camera in front of a bathroom mirror while holding a premium facial serum bottle. She smiles naturally, talks about her skincare routine, and demonstrates applying the serum to her face. Authentic, conversational presentation with genuine facial expressions and hand gestures, natural morning light, casual home bathroom setting, clean skincare aesthetic, healthy glowing skin, minimal makeup, smartphone-shot look, candid lifestyle beauty content, soft depth of field, luxury beauty brand feel, vertical 9:16, social media ad quality, highly realistic natural skin texture, not overly retouched.
+```
+
+</details>
+
+<a id="h3-running-shoe-golden-hour-commercial"></a>
+### Hands tying white running shoes at golden hour
+
+<a href="https://x.com/Zyrellix/status/2102611185472614491"><img src="../../previews/h3-running-shoe-golden-hour-commercial.jpg" width="360"></a>
+
+The prompt is split into five timed shots, each with its own action, camera move and light, which keeps a 15 second clip readable. Naming concrete product features such as the Cloudtec pods and navy heel collar gives the model details to hold the shoe consistent across cuts.
+
+MiniMax H3 · Text-to-video · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2102611185472614491) · 157 likes on 2026-10-29
+
+[`product-commercial`](tags.md#tag-product-commercial) [`running-shoes`](tags.md#tag-running-shoes) [`golden-light`](tags.md#tag-golden-light) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 15-second luxury running-shoe commercial, golden-hour photorealism, 24fps, shallow depth of field, warm sunset color grade.
+Shot 1 (0–3s): Extreme close-up of a woman’s hands tying white On Cloud running shoes with visible Cloudtec pods on the midsole. Soft golden sunlight, wooden boardwalk texture, navy heel collar, mesh upper. Slow, tactile motion. Whispered VO: “This is how it feels.”
+Shot 2 (3–7s): Medium-wide tracking shot of an athletic woman with dark ponytail, black tank and navy tights, running left-to-right on a wooden waterfront promenade. Background: steel arch bridge and Manhattan-style skyline at sunset, river reflecting orange and pink light. Fluid, powerful stride, slight motion blur on hair and shoes.
+Shot 3 (7–10s): Front-on tracking shot as she runs toward camera through a long, repeating concrete arched underpass. Strong side lighting creates rhythmic stripes of light and shadow across the floor. Determined expression, ponytail swinging.
+Shot 4 (10–13s): Tight facial close-up, golden rim light on cheekbones and hair, focused green-brown eyes, slight sheen of sweat, black tank straps visible. Subtle camera push-in.
+Shot 5 (13–15s): Hero product shot — the same white On Cloud shoe floating and slowly rotating in mid-air against a blurred sunset city skyline. Cloudtec pods catch the light. Clean, premium, almost weightless.
 ```
 
 </details>
@@ -1428,6 +1687,171 @@ resolves at 15.000 seconds.
 
 </details>
 
+<a id="h3-skate-streetball-coke-nyc-ugc"></a>
+### Skater opens iced Coke, then courtside pass
+
+<a href="https://x.com/yourPlugAI/status/2114648191878471720"><img src="../../previews/h3-skate-streetball-coke-nyc-ugc.jpg" width="360"></a>
+
+Timed beats of 0 to 5, 5 to 10 and 10 to 15 seconds each give visual, action and sound lines, which keeps the sequence in order. Named reference sheets for characters and product hold consistency, and the sound list (cap SNAP, FIZZ rush, ice crunch) drives the ASMR feel.
+
+MiniMax H3 · Reference-to-video · Source: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2114648191878471720) · 130 likes on 2026-10-29
+
+[`skateboarding`](tags.md#tag-skateboarding) [`streetball`](tags.md#tag-streetball) [`asmr`](tags.md#tag-asmr) [`product-ad`](tags.md#tag-product-ad)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Skate, streetball, and an ice-cold Coke. Pure NYC energy in 30 seconds.
+
+@Hailuo_AI
+
+
+✨Generated with GPT Image 2.5 + Minimax H3 on Minimax Design—combining handheld street documentary edits with heavy tactile ASMR.
+
+✨FULL prompt breakdown and character sheets attached below👇🏾
+
+#MinimaxH3 #MinimaxDesign
+
+Phase 1: 00:00 to 00:15 (The Build-Up & Court-Side Pass)
+
+[ENGINE DIRECTIVE]
+Generate a continuous 15-second high-speed NYC Coca-Cola thirst-quencher UGC sequence at 60fps in 16:9 widescreen format using MinimaxH3. Style: Hand-held, fast-paced street documentary, 8K resolution, authentic cinematic handheld camera movement with rapid micro-pans, zooms, and seamless tracking cuts. Maintain 100% strict visual consistency with provided reference sheets: "Marcus, Maya, and NYC Street Crowd", "Coca-Cola Classic", and "NYC Streets & Chinatown Courts". Capture realistic sweat, intense outdoor daylight, massive crowd movements, rapid shutter speed, high action, zero visual artifacts, and heavy fluid dynamics.
+
+[AUDIO DIRECTIVE]
+- MUSIC: High-tempo, rhythmic hip-hop breakbeat with heavy street drums and ambient NYC chatter.
+- SOUND DESIGN: Skateboards grinding, heavy panting, ice crunching, metallic cap-popper SNAP, pressurized carbonation FIZZ-RUSH, crowd cheers, basketball bouncing, and shoe squeaks.
+
+[TIMELINE BREAKDOWN]
+
+00:00 - 00:05 | THE SKATE GRIND & COLD REACH
+- VISUAL: Hand-held low-angle tracking shot following Marcus as he lands a skate trick on a busy NYC plaza, then skids to a halt, panting and wiping sweat from his forehead. Camera whip-pans to a red cooler on a bench.
+- ACTION: Marcus skates, stops, and reaches into a heavily ice-filled red cooler, grabbing a condensation-covered Coca-Cola glass bottle.
+- SOUND: Skate wheels grinding on concrete, heavy panting, urban chatter, ice crunching, and hand rustling through deep ice.
+
+00:05 - 00:10 | THE CAP POP & FLYING DROPLETS
+- VISUAL: Whip-pan into an extreme macro close-up of Marcus’s hand gripping the glass bottle.
+- ACTION: He uses a handheld bottle opener to pop the cap. High-speed (60fps) capture of pressurized mist, fizz, and water droplets spraying outward in the sunlight.
+- SOUND: Sharp, loud metallic cap-popper SNAP, aggressive bubbling FIZZ-RUSH, background street chatter.
+
+00:10 - 00:15 | COURT-SIDE PASS & TENSION HOLD
+- VISUAL: Fast whip-cut tracking camera movement through a chain-link fence onto a Chinatown basketball court.
+- ACTION: Marcus passes an ice-cold Coca-Cola can to Maya, who catches it seamlessly in motion and presses the frosty can against her sweating temple, setting up Phase 2.
+- SOUND: Crowd cheers, basketball bounce, shoe squeaks on concrete, can sliding through air, and Maya’s quick gasp of relief.
+```
+
+</details>
+
+<a id="h3-nova-x1-lens-luxury-commercial"></a>
+### NOVA X1 lens on glossy pedestal with blue light
+
+<a href="https://x.com/AmControo/status/2085366255540637965"><img src="../../previews/h3-nova-x1-lens-luxury-commercial.jpg" width="360"></a>
+
+Uploading the product photo as the reference and asking for it to be used exactly as provided locks the design. A five-scene list where each beat pairs one camera move with one line of on screen text gives the model a clear shot by shot structure.
+
+MiniMax H3 · Image-to-video · Source: [@AmControo on X](https://x.com/AmControo/status/2085366255540637965) · 129 likes on 2026-10-29
+
+[`product-commercial`](tags.md#tag-product-commercial) [`reference-image`](tags.md#tag-reference-image) [`macro`](tags.md#tag-macro) [`luxury`](tags.md#tag-luxury)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded reference image exactly as provided.
+
+Create a 15-second ultra-realistic luxury technology commercial.
+
+Maintain perfect consistency for the lens body, engraved details, focus ring, aperture blades, reflections, glass elements, lighting, shadows, and metallic textures throughout the entire video.
+
+Style: premium technology advertisement, ultra-realistic product photography, cinematic lighting, realistic reflections, dramatic shadows, macro photography, luxury commercial style, photorealistic rendering.
+
+The on-screen text should appear in a clean, modern, minimalist font.
+
+────────────────────────
+
+SCENE 1
+
+The NOVA X1 lens rests on a glossy black pedestal.
+
+Blue light slowly travels across the metal body and the front glass element.
+
+The camera performs a slow orbital movement around the lens.
+
+Tiny dust particles float through the air.
+
+On-screen text:
+
+NOVA X1
+
+CRAFTED FOR CREATORS
+
+────────────────────────
+
+SCENE 2
+
+The camera moves closer.
+
+The focus ring rotates slowly.
+
+The aperture blades gradually open and close.
+
+Reflections move naturally across the glass surface.
+
+On-screen text:
+
+PRECISION ENGINEERED
+
+────────────────────────
+
+SCENE 3
+
+The lens rises into the air.
+
+Internal glass elements, metallic rings, screws, sensors, and aperture blades separate naturally into an exploded-view animation.
+
+Blue energy pulses move through the structure.
+
+The camera circles around the floating components.
+
+On-screen text:
+
+UNMATCHED CLARITY
+
+────────────────────────
+
+SCENE 4
+
+All components slowly return to their original positions.
+
+The aperture blades rotate smoothly and lock into place.
+
+Blue light radiates outward from the centre of the lens.
+
+The camera performs a close-up orbital movement around the front element.
+
+On-screen text:
+
+BUILT FOR THE EXTRAORDINARY
+
+────────────────────────
+
+SCENE 5
+
+The lens settles gently onto the pedestal.
+
+Studio lights illuminate the metal body and the glass surface.
+
+The camera slowly zooms toward the front element.
+
+End with an ultra-realistic hero shot.
+
+On-screen text:
+
+NOVA X1
+
+SEE BEYOND
+```
+
+</details>
+
 <a id="veo-alphonso-mango-gelato-churn"></a>
 ### Alphonso Mango Gelato From Slice to Scoop
 
@@ -1476,6 +1900,476 @@ Create a 10-second ultra-photorealistic premium fashion video “INVISIBLE FITTI
 
 </details>
 
+<a id="h3-black-adjustable-dumbbells-luxury-gym-ad"></a>
+### Black adjustable dumbbells in a luxury gym
+
+<a href="https://x.com/laviniavelle/status/2114952308094374334"><img src="../../previews/h3-black-adjustable-dumbbells-luxury-gym-ad.jpg" width="360"></a>
+
+Timed shots run from a low close-up on the dials to a macro pass over the selector and a pullback to a wide hero frame, so camera moves do the editing. A list of product details to preserve plus studio lighting terms keeps the design fixed while the look stays premium.
+
+MiniMax H3 · Text-to-video · Source: [@laviniavelle on X](https://x.com/laviniavelle/status/2114952308094374334) · 126 likes on 2026-10-29
+
+[`fitness`](tags.md#tag-fitness) [`product-ad`](tags.md#tag-product-ad) [`macro`](tags.md#tag-macro) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic, premium fitness product advertisement featuring black adjustable dumbbells in a modern luxury gym. Preserve the original dumbbell design, weight markings, circular adjustment dials, black textured handles, and proportions. Use elegant natural sunlight, cinematic shadows, shallow depth of field, and high-end product photography.
+
+Scene 1 (0–3s): Show black adjustable dumbbells resting on a smooth gym floor near large floor to ceiling windows Start with a low angle close up and slowly push the camera toward the weight adjustment dials, highlighting the precise markings and premium finish.
+
+Scene 2 (3–6s): Transition into an extreme macro shot of the dumbbell's circular weight selector and textured black handle. Capture the fine surface details, subtle reflections, and realistic material textures with smooth cinematic camera movement.
+
+Scene 3 (6–8s): Slowly pull the camera back to reveal the complete pair of adjustable dumbbells. Warm sunlight streams through the windows, creating long, elegant shadows across the floor.
+
+Scene 4 (8–10s): Finish with a wide, polished hero shot of the dumbbells centered in the luxurious minimalist gym. Use a smooth camera pullback, balanced composition, premium lighting, and a sophisticated fitness-commercial aesthetic.
+
+Visual Style: Photorealistic, 4K quality, vertical  aspect ratio, smooth camera movements, realistic shadows, natural lighting, crisp product details, premium commercial cinematography, professional color grading.
+```
+
+</details>
+
+<a id="h3-streetwear-character-graphic-trailer"></a>
+### Teal checker slam and pink wipes open the trailer
+
+<a href="https://x.com/sipteaandcoffee/status/2094068060059799762"><img src="../../previews/h3-streetwear-character-graphic-trailer.jpg" width="360"></a>
+
+A reference still with a CHARACTER LOCK block fixes the design, and the palette plus 13 timed cuts keep the character consistent across shots. The film is mostly graphic motion, with each cut given its own composition so the typography stays readable before the character enters the frame.
+
+MiniMax H3 · Reference-to-video · Source: [@sipteaandcoffee on X](https://x.com/sipteaandcoffee/status/2094068060059799762) · 126 likes on 2026-10-29
+
+[`motion-graphics`](tags.md#tag-motion-graphics) [`streetwear`](tags.md#tag-streetwear) [`character-lock`](tags.md#tag-character-lock) [`typography`](tags.md#tag-typography) [`trailer`](tags.md#tag-trailer)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+CHARACTER LOCK (do not redesign): Use the exact figure from the reference still. Cool, composed cartoon streetwear character with vivid blue skin, short black hair with messy bangs, orange knit beanie, oversized cream hoodie with a pink inner hood and large pink polka dots on the sleeves, small orange square chest mark, black crossbody sling bag with a white logo, holding a paper coffee cup marked CAF, teal-and-cream checkerboard baggy pants with a small black BIG tag on the lower left leg, light-blue socks, chunky orange-black-white sneakers with pink laces. Preserve exact face, proportions, hairstyle, outfit, materials, accessories, and colors in every frame. Never change gender, silhouette, palette, or branding.
+This film is 80% bold graphic design in motion and 20% character action: giant kinetic typography, hard-edged shapes, split-screens, flat color fields, checker tiles, coffee-ring stamps, city-grid overlays, UI ticks, halftone, speed lines, and shutter flashes. Palette: cream, hot pink, teal, orange, cobalt-blue skin, black, white. Style: premium AAA motion-graphics title sequence × streetwear campaign film × NYC block energy. Every graphic element moves fast and snaps hard on the beat.
+CUT 01 | 0.00–1.00s — Pure graphics: a massive teal checker square slams onto a cream field, two hot-pink bars wipe across, tiny UI ticks and a coffee-ring stamp flicker; the letters B and I and G punch in one after another with heavy impact shake.
+CUT 02 | 1.00–2.00s — The G becomes a circular stamp: extreme close-up of the character’s eye inside it, glancing sideways; RGB split flash, then the stamp shatters into flat pink and teal shards.
+CUT 03 | 2.00–3.10s — Black frame with an enormous cream BIG; the character walks in from frame left holding the CAF cup, then power-slides across the baseline of the typography, speed lines and pink-dot trails kicking letter shards like sparks. Whip-pan out.
+CUT 04 | 3.10–4.00s — Split-screen triptych of flat cream / teal / hot-pink panels; in each panel the silhouette performs a different freeze: stride, cup-raise, look-back. Huge vertical text BLOCK MODE scrolls behind the panels.
+CUT 05 | 4.00–5.10s — The character steps through a giant rotating ring of typography reading CITY WALK NO CLOCK; camera tracks a mid-stride turn in slow motion as the letters scatter, then snap-zoom on the composed face.
+CUT 06 | 5.10–6.00s — Hard cut: cream editorial card, huge black SIP with an orange slash; the character vaults the word, cup planted on the S, legs whipping across frame; the word compresses like a spring under the cup and rebounds.
+CUT 07 | 6.00–7.00s — Hot-pink field with a teal diagonal checker stripe; the character spin-turns along the stripe in three stroboscopic ghost frames, each ghost tinted cream / teal / orange; giant outlined text SPIN rotates 180 degrees in sync.
+CUT 08 | 7.00–8.00s — Kinetic type barrage: the words FRESH / LOUD / SOFT / BIG slam in one per beat with shutter flashes and camera shake, while the character slides on sneakers across the foreground, hoodie flaring, pink-dot particles bursting from the laces.
+CUT 09 | 8.00–9.00s — Black frame, giant white wireframe city grid tilting in 3D; the character walks up the grid like a crosswalk, kicks off, and hangs mid-step as everything freezes; an orange circle stamps around the frozen pose like a target lock with UI brackets and data ticks.
+CUT 10 | 9.00–10.10s — Freeze releases into a burst: the character leans toward camera through layered flat-color panes that shatter one by one like glass shutters, each pane revealing a bigger letter of B-I-G; foreground wipe with the orange sneaker and CAF cup.
+CUT 11 | 10.10–11.10s — Rapid-fire poster montage: four full-screen graphic posters of the character in different street poses (mid-stride, cup up, look-back, hands-in-pocket) snap past with hard cuts, each with a different bold layout, oversized numbers 01–04, barcodes, slashes, and checker bands.
+CUT 12 | 11.10–13.00s — Hero moment on a clean cream cyclorama: the character lands a final easy stride dead center in slow motion, straightens with the cup at the hip, and a shockwave of concentric teal-and-pink rings, wind streaks, and shattered typography blasts outward; brief iconic freeze with a faint confident smile, overexpose to white.
+CUT 13 | 13.00–15.00s — Final identity card: enormous black BIG dominates a pale cream field with translucent pink rings, technical arcs, halftone, and a rough black circular emblem containing a ghosted coffee-ring / barcode motif; the character stands relaxed overlapping the letters, wind rippling the hoodie; one last teal pulse sweeps through the typography and a checker-flash punctuates the end.
+Editing: extremely aggressive rhythm — hard cuts on every beat, graphic matches, whip pans, snap zooms, stroboscopic freezes, foreground wipes, RGB splits, shutter flashes, impact shakes, and speed ramps; every cut must feel compositionally different; typography is always fully readable before the character overlaps it. No weapons, no combat, no fire; all energy comes from motion design, wind, frost-free city air, glass, coffee steam, and easy athletic street walking. BGM: hard-hitting electronic / drum-heavy future bass with aggressive drops, risers, sub hits, and glitch fills locked to every cut; sneaker impacts, whooshes, glass shatters, cup clinks, and typography slams are rhythmic sound-design elements. Peak at CUT 12 and end with a cold electronic logo stinger. Premium AAA quality, anime-inspired cinematic rendering composited over / matching the NYC street still energy, stylish and explosive, strong graphic-design identity, consistent character design, exactly 13 cuts.
+```
+
+</details>
+
+<a id="h3-korean-girl-pattern-collage-fashion-mv"></a>
+### Korean fashion girl points at camera over checker graphics
+
+<a href="https://x.com/ImaStudio_ai/status/2104407114206904789"><img src="../../previews/h3-korean-girl-pattern-collage-fashion-mv.jpg" width="360"></a>
+
+A character lock paragraph lists face, hair and proportions to keep one identity across eight looks. Flat 2D pattern layers sit behind the realistic subject while the title stays clear of the face.
+
+MiniMax H3 · Reference-to-video · Source: [@ImaStudio_ai on X](https://x.com/ImaStudio_ai/status/2104407114206904789) · 123 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`pattern-collage`](tags.md#tag-pattern-collage) [`character-lock`](tags.md#tag-character-lock) [`magazine-typography`](tags.md#tag-magazine-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second, 16:9, 24fps high-quality fashion MV based on the attached single character reference image.
+Character lock: Keep 1 young Korean-style woman only throughout the entire video. Strictly preserve her face, facial proportions, skin tone, age, long dark-brown hair, bangs, body proportions, limb proportions, identity, and overall Korean beauty vibe. She must always remain the same person. No face drift, no westernized features, no masculine look, no second person, no crowd.
+Style: Pattern Collage Pop × Korean Fashion Editorial × Fashion MV. The feeling is a stylish Korean fashion girl entering a magazine world made of classic patterns, geometric graphics, collage layouts, and bold typography. Keep the girl realistic, but make the background and design elements flat, sharp, clean 2D graphic design. Avoid rough handmade collage; make it polished, chic, trendy, glossy, and editorial.
+Visual system: Use patterns and shapes such as stripes, polka dots, checkerboard, plaid, grids, zigzags, borders, concentric circles, triangles, circles, squares, geometric lines, graphic frames, cutout color blocks, paper-edge collage shapes, overlapping color fields, whitespace, and offset layouts. Use them as backgrounds, framing devices, cross-screen bands, layered blocks behind the subject, and magazine-style title areas.
+Color: Extract 2 main colors from the girl’s vibe, plus white or black as support. Keep the palette clean and unified. Preferred tones: cream white, light blue, icy blue, silver gray, soft pink, muted lavender.
+Fashion: Extend the styling from the reference into sweet-cool Korean / light Y2K / chic Asian fashion. Possible items: light denim, fitted tops, cute-cool mini skirts, small bags, necklaces, earrings, platform ankle boots, Korean accessories. Slight outfit variation is allowed, but she must still feel like one continuous character.
+Motion & camera: This is a fashion MV, not a slideshow. Each segment must have a clear pose-to-pose action: half-step forward, look back, lower gaze then look up, fix hair, touch bag strap, hand near face, seated side look, crouch with soft smile, reach toward camera, light turn, final hero pose. Expressions: soft, sweet-cool, confident, polished. Use fast but smooth lateral movement, light push-in/pull-out, alternating close/medium/full shots, detail inserts, and editorial split compositions.
+Typography: Add large, readable fashion typography without covering the face. Use a main NAME title, plus supporting English keywords and occasional Korean text. Words can include: SEOUL POP, CUTE SIGNAL, SOFT CHIC, KOREAN GIRL, FASHION CUT, LOVELY MOOD, TRENDY LOOK. Vary placement, size, direction, and color while keeping a unified magazine design system.
+Timeline: 8 stylish looks across 15s, ending in a strong final hero shot where previous graphics and keywords reassemble into a polished Korean magazine-cover composition. Hold the final frame for 0.5s.
+Avoid: multiple people, identity drift, static poster feel, stiff motion, overly realistic backgrounds, unreadable text, text over face, childish tone, cheap filters, logos, watermarks, subtitles, exaggerated dance, or goofy expressions.
+```
+
+</details>
+
+<a id="h3-desert-runway-fashion"></a>
+### Sand dusted runway through dunes at golden hour
+
+<a href="https://x.com/noorwithwifi/status/2082897758084907132"><img src="../../previews/h3-desert-runway-fashion.jpg" width="360"></a>
+
+Lists the camera moves in one line and names visible physics cues such as cloth motion, wind and sun flare. It closes with a continuity line and a fade to black, so the ad ends cleanly.
+
+MiniMax H3 · Text-to-video · Source: [@noorwithwifi on X](https://x.com/noorwithwifi/status/2082897758084907132) · 120 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`luxury-ad`](tags.md#tag-luxury-ad) [`golden-hour`](tags.md#tag-golden-hour) [`camera-moves`](tags.md#tag-camera-moves)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+12s cinematic luxury fashion ad, 4K, 24fps, ultra-photorealistic. A high-fashion model in a flowing iridescent metallic gown walks along a minimalist desert runway at golden hour. Cinematic aerial, tracking, orbit, close-up, and hero shots with realistic cloth physics, flowing fabric, shimmering reflections, soft wind, golden sun flare, HDR lighting, Vogue-style editorial, seamless continuity, consistent face/outfit, no flicker, no warping, no extra limbs, fade to black.
+```
+
+</details>
+
+<a id="h3-full-speed-three-panel-anime-lookbook"></a>
+### Anime heroine in three poses beside FULL SPEED type
+
+<a href="https://x.com/ImaStudio_ai/status/2090634362631168129"><img src="../../previews/h3-full-speed-three-panel-anime-lookbook.jpg" width="360"></a>
+
+The prompt locks the character with an explicit list of hair, eyes, outfit and palette, then gives each beat a timestamp and a fixed shot layout so identity holds across fast cuts. Beat 04 asks for three vertical panels with the same character in three poses, and this output follows that layout closely.
+
+MiniMax H3 · Text-to-video · Source: [@ImaStudio_ai on X](https://x.com/ImaStudio_ai/status/2090634362631168129) · 120 likes on 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`character-lock`](tags.md#tag-character-lock) [`motion-graphics`](tags.md#tag-motion-graphics) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a **15s, 16:9, 24fps anime character reveal trailer** with **13 fast visual beats**.
+Style: **Japanese anime opening × premium AAA motion graphics × fashion campaign**.
+The video should feel **explosive, sexy, stylish, bold and high-impact**, with **80% motion graphics and 20% character action**.
+
+## CHARACTER LOCK — HIGHEST PRIORITY
+AO is a **young adult East Asian anime woman** with a sexy, confident Japanese anime aesthetic.
+
+She has:
+* small refined face
+* sharp expressive crimson eyes
+* glossy lips
+* confident, teasing gaze
+* slim feminine curvy figure
+* long elegant legs
+* stylish, cool, alluring presence
+Keep her identical throughout:
+* chin-length vivid red bob with messy bangs
+* crimson-red eyes
+* black choker
+* fitted red cropped top
+* short white cropped jacket, worn open
+* black mini skirt or fitted shorts
+* red belt detail
+* black thigh strap
+* white-and-red platform sneakers
+* subtle silver accessories
+Preserve the same face, body proportions, hairstyle, outfit, materials and colors in every shot.
+**Never redesign AO. Never change her face or outfit. If a shot becomes too complex, simplify the action first.**
+## VISUAL STYLE
+Palette: **vivid red, crimson, white, black, silver**.
+Use:
+giant kinetic typography, red circles, diagonal slashes, manga speed lines, split screens, halftone dots, barcode strips, UI ticks, freeze frames, RGB flashes, impact shakes, poster layouts and graphic wipes.
+Every beat should feel:
+**fast, sharp, sexy, explosive, graphic and iconic**.
+Keep typography bold and readable.
+Editing:
+hard cuts, aggressive snap zooms, whip pans, speed ramps, freeze frames, impact shakes and foreground wipes.
+## 13 VISUAL BEATS
+**01 | 0.0–1.0s**
+White field. Massive red circle slams into frame. Black bars slash across. UI ticks flicker. Giant **A**, then **O**, hit with heavy impact shake.
+**02 | 1.0–2.0s**
+The O becomes a circular frame showing an extreme close-up of AO’s crimson eye and glossy lips. She gives a teasing side glance. RGB flash. Circle bursts into red-and-white fragments.
+**03 | 2.0–3.1s**
+Black background, huge white **AO**. AO enters fast, turns sharply and power-slides beneath the typography. Red speed streaks trail behind her. Whip-pan out.
+**04 | 3.1–4.0s**
+Three red/white/black vertical panels. AO appears in three poses: hip turn, hair touch, over-shoulder stare. Huge vertical **FULL SPEED** moves behind her.
+**05 | 4.0–5.1s**
+AO jumps through a rotating typography ring reading **NO BRAKES / ALL EYES ON ME**. One clean mid-air spin. Snap zoom into her confident face.
+**06 | 5.1–6.0s**
+White editorial frame. Huge black **HOT** with a red slash. AO crosses the frame with a runway-like step, one hand at her waist. Typography compresses and rebounds.
+**07 | 6.0–7.0s**
+Bright red field with black diagonal stripe. AO performs one smooth fast turn. Three ghosted freeze positions trace the movement. Giant outlined **TURN** rotates behind her.
+**08 | 7.0–8.0s**
+Words hit one per beat:
+**HOT / FAST / WILD / RED**
+AO changes pose with each word: direct stare, hair toss, hip shift, confident forward lean.
+**09 | 8.0–9.0s**
+Black frame with manga perspective lines and a graphic grid. AO steps forward and freezes in a strong hero pose. Red circular target graphics lock around her.
+**10 | 9.0–10.1s**
+AO moves toward camera through three red-and-white graphic panels. Each panel shatters as she passes. Large **A O** fragments appear behind her. Finish with a hair or leg foreground wipe.
+**11 | 10.1–11.1s**
+Rapid poster montage: four frames of the same AO — close-up stare, walking, side pose, hands at waist. Add **01–04**, barcodes, halftone dots and sharp Japanese poster graphics.
+**12 | 11.1–13.0s**
+Hero moment on a clean white background. AO lands in a powerful fashion pose: one leg forward, one hand at her waist, chin lifted, direct eye contact. Huge red shockwave rings explode behind her. Typography fragments and speed lines burst outward. Hold an iconic confident freeze.
+**13 | 13.0–15.0s**
+Final identity card. Huge black **AO** on a bright white field. AO stands relaxed and alluring in front of the letters. Red circles, halftone, technical arcs and sharp speed accents surround her. Final red pulse flashes through the frame and ends on a hard stinger.
+## ANIME STYLE
+Premium modern Japanese anime rendering:
+
+* clean cel shading
+* sharp linework
+* polished highlights
+* cinematic close-ups
+* dynamic perspective
+* fashion-editorial full-body framing
+* smooth hair and fabric motion
+AO must look like a **stylish adult anime heroine**, not chibi and not childish.
+## AUDIO
+
+Hard-hitting **electro / future bass / anime-opening style music**.
+Use:
+heavy drums, bass hits, risers, glitch fills, synth stabs, typography slams, whooshes and shutter impacts.
+
+Build continuously.
+Peak at Beat 12.
+End with a sharp electronic stinger.
+## PRIORITIES
+1. AO identity consistency
+2. sexy adult anime character design
+3. red-black-white outfit consistency
+4. maximum visual impact
+5. readable typography
+6. premium anime rendering
+7. fast beat-synced editing
+
+Avoid:
+childlike proportions, chibi style, blue clothing, face changes, outfit changes, extra characters, unreadable typography, weak motion, dull compositions or generic schoolgirl styling.
+Final result: **explosive, sexy, red-hot, premium, graphic-driven and visually unforgettable.**
+
+Try MiniMax H3 on Ima Studio 👉
+https://
+bit.ly/43v08Oh
+```
+
+</details>
+
+<a id="kling-kia-seltos-forest-road-commercial"></a>
+### Kia Seltos driving through a sunlit forest road
+
+<a href="https://x.com/Diplomeme/status/2110947179057811727"><img src="../../previews/kling-kia-seltos-forest-road-commercial.jpg" width="360"></a>
+
+Each shot gets a timestamp and a camera move, so the 30 second timeline reads as a rhythm of cuts rather than one long take. Reference images are paired with a constraint to keep the exact vehicle geometry, grille, and paint in every shot.
+
+Kling 4.0 · Reference-to-video · Source: [@Diplomeme on X](https://x.com/Diplomeme/status/2110947179057811727) · 120 likes on 2026-10-29
+
+[`automotive`](tags.md#tag-automotive) [`multi-shot`](tags.md#tag-multi-shot) [`reference-images`](tags.md#tag-reference-images) [`forest-road`](tags.md#tag-forest-road)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+If this is the level of AI creations, then it's over for commercial and big production houses.
+
+Generated with Kling 4.0
+ (30 seconds) 1080P on
+@Kling_ai
+
+
+#Kling4 #KlingECP
+
+Try it with prompt : High-octane, hyper-realistic automotive commercial for the Kia Seltos, shot with the visual intensity of a Christopher Nolan-style cinematic production using actual 70mm IMAX cameras. Fast-paced multi-shot editing with quick, cinematic cuts timed at exactly one shot every 2 seconds across a complete 30-second timeline. The champagne-gold Kia Seltos, matching the exact vehicle design in the provided reference images, charges through a dense forest road surrounded by towering trees and dappled sunlight. High-contrast Nolan-esque color grading with deep shadows, cold teals, warm champagne-gold reflections, and bright highlights. Sunlight pierces through the forest canopy, reflecting across the sculpted bodywork, signature vertical LED daytime running lights, black front grille, muscular wheel arches, and distinctive rear light bar. Rapid sequence of intense cuts:•Shot 1 (0-2s): Ground-level cinematic establishing shot of an empty winding forest road, towering trees casting deep shadows as sunlight breaks through the canopy. The distant engine note of the approaching Kia Seltos builds tension.•Shot 2 (2-4s): Low eye-level tracking shot of the champagne-gold Kia Seltos emerging between the trees, accelerating along the forest road and revealing its bold front grille, distinctive vertical LED lighting signature, and commanding SUV stance.•Shot 3 (4-6s): Tight, detailed close-up of the front fascia, Kia emblem, illuminated LED daytime running lights, glossy black grille elements, and champagne-gold paint reflecting the passing forest.•Shot 4 (6-8s): Dramatic low-angle tracking shot moving alongside the front wheel as the alloy spokes spin rapidly, tires maintain realistic contact with the asphalt, and the SUV’s sculpted bodywork catches streaks of sunlight.•Shot 5 (8-10s): Fast lateral tracking shot revealing the complete side profile, muscular wheel arches, black lower-body cladding, door contours, windows, roofline, and metallic champagne-gold finish as the Kia Seltos sweeps through the forest.•Shot 6 (10-12s): Low-angle handheld-style camera whip-pan from the road surface to the SUV’s front three-quarter profile as it exits a sweeping bend, with realistic suspension movement, controlled body roll, and natural background motion blur.•Shot 7 (12-14s): Extreme close-up of sunlight traveling across the sculpted hood, Kia emblem, sharp body creases, and vertical LED lights, emphasizing precise automotive design and premium paint reflections.•Shot 8 (14-16s): Rear three-quarter tracking shot following the Kia Seltos through the forest, showcasing the distinctive rear light bar, angular vertical taillights, rear spoiler, sculpted tailgate, and authentic model badging.•Shot 9 (16-18s): Dynamic wheel-height tracking shot as the SUV drives across alternating patches of sunlight and shadow, capturing realistic tire rotation, subtle road texture, reflections along the lower doors, and the movement of the suspension over natural road undulations.•Shot 10 (18-20s): High-angle wide shot of the Kia Seltos commanding a sweeping forest road, surrounded by towering trees and atmospheric shafts of sunlight, with the winding asphalt leading the eye toward the moving SUV.•Shot 11 (20-22s): Fast front-facing tracking shot of the Kia Seltos approaching the camera along a straight section of forest road, its LED lights illuminated and grille dominating the frame as the camera smoothly retreats ahead of the vehicle.•Shot 12 (22-24s): Rapid cinematic transition into a close rear tracking angle as the SUV accelerates away through the trees, the rear lighting signature glowing against the darker forest and the road markings sweeping beneath the frame.•Shot 13 (24-26s): Dramatic low-angle front three-quarter hero shot as the Kia Seltos exits the forest bend and enters a naturally illuminated clearing, revealing its full stance, champagne-gold bodywork, alloy wheels, and signature front lighting.•Shot 14 (26-28s): Controlled cinematic orbit around the stationary Kia Seltos at a scenic forest-road pull-off, transitioning from the front three-quarter view toward the side and rear profile while the surrounding trees and golden sunlight create a premium automotive campaign atmosphere.•Shot 15 (28-30s): Hard cut to black with a final sweep of light revealing the KIA emblem followed by the SELTOS model name and the campaign tagline: “OWN EVERY TURN.” End with a powerful, clean, premium automotive advertising finish.Raw automotive documentary-style camera textures, organic lens flares, lifelike vehicle physics, authentic wheel rotation and tire contact, realistic suspension movement, natural road reflections, physically accurate metallic paint reflections, cinematic motion blur, subtle engine vibration, and an immersive forest-road atmosphere. Preserve the exact Kia Seltos identity, champagne-gold exterior color, front grille design, LED lighting signatures, alloy wheels, body proportions, side profile, and rear design from the provided reference images throughout every shot. Maintain consistent vehicle geometry, wheel design, lighting signatures, paint color, and branding across all 15 shots. No vehicle redesign, no morphing, no inconsistent body panels, no incorrect logos, no artificial CGI appearance, no impossible driving maneuvers, no exaggerated visual effects, and no abrupt changes in road geography. Ultra-detailed, 4K resolution, premium global automotive advertising quality.
+```
+
+</details>
+
+<a id="wan-ugc-earbuds-reference-identity-ad"></a>
+### Bearded man promotes earbuds in golden hour apartment
+
+<a href="https://x.com/Xaroon_x/status/2093988944392175714"><img src="../../previews/wan-ugc-earbuds-reference-identity-ad.jpg" width="360"></a>
+
+A reference image locks the character's identity, and a timed beat sheet with the shot and dialogue for each segment sets the order of the ad. Repeating the same wardrobe and setting in every beat keeps the look consistent across cuts.
+
+Wan 3.0 · Reference-to-video · Source: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2093988944392175714) · 120 likes on 2026-10-29
+
+[`ugc`](tags.md#tag-ugc) [`product-ad`](tags.md#tag-product-ad) [`reference-image`](tags.md#tag-reference-image) [`golden-hour`](tags.md#tag-golden-hour) [`lip-sync`](tags.md#tag-lip-sync)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 20-second ultra-realistic cinematic UGC advertisement, vertical 9:16, featuring the EXACT SAME male character from Reference Image 1. Strictly preserve his facial identity, face structure, skin tone, hairstyle, hairline, eyes, nose, lips, jawline, beard/stubble and overall appearance. No identity drift, face morphing, aging or redesign.
+
+PRODUCT: premium modern wireless earbuds with sleek minimalist matte-black charging case, subtle metallic details, realistic luxury-tech appearance, no recognizable brand/logo.
+
+WARDROBE: fitted black premium T-shirt, minimalist dark overshirt/jacket, black watch, subtle accessories, sophisticated urban look.
+
+SETTING: modern luxury apartment/stylish urban workspace during golden hour, warm window light, realistic shadows, tasteful furniture and subtle city ambience. Premium lifestyle + authentic UGC + cinematic commercial aesthetic.
+
+0–4s: Close-up of male looking slightly tired after a busy day. He picks up the earbud case from a table, camera quickly pushes toward product. He looks at camera confidently: “These changed my daily routine.”
+
+4–8s: Cinematic macro reveal as he opens the case, removes an earbud and puts it in. Smooth product movement and shallow depth of field. Dialogue: “The sound is seriously impressive.”
+
+8–13s: Male walks through apartment and works at desk wearing earbuds. Show natural tap interaction, earbud close-up, working shots and product case. Dialogue: “Music, calls, work… everything feels better.”
+
+13–17s: Male stands by window in golden-hour light, looks directly into camera and holds case toward lens. Dialogue: “Honestly, I keep them with me everywhere.”
+
+17–20s: Hero product shot: earbuds and case sharply focused in foreground, male softly blurred behind. Slow cinematic movement and premium reflections. On-screen text: “Sound. Style. Freedom.” then “Upgrade Your Everyday.”
+
+AUDIO: original modern premium lifestyle beat with smooth electronic bass, atmospheric synth and subtle percussion; minimal at start, gradually builds, slight impact on final reveal. No copyrighted music. Dialogue remains crisp.
+
+Natural American English male UGC voice, confident, relaxed, authentic, conversational, accurate lip-sync.
+
+Photorealistic 4K/8K, realistic skin, eyes, blinking, hands, fabric, reflections, shadows, depth of field and motion blur. No distorted hands, extra fingers, text glitches, random logos, watermarks or cartoon look. Maintain exact identity and clothing consistency throughout.
+```
+
+</details>
+
+<a id="h3-matcha-kit-ugc-kitchen"></a>
+### Woman shares matcha starter kit in sunlit kitchen
+
+<a href="https://x.com/SimplyAnnisa/status/2084241879097303513"><img src="../../previews/h3-matcha-kit-ugc-kitchen.jpg" width="360"></a>
+
+A reference image pins the same character across every shot, and the prompt pairs handheld smartphone framing with over-the-shoulder and macro close-ups so the clip reads as creator content. A closing format block (vertical 9:16, 4K HDR, no text or logos) sets the finish.
+
+MiniMax H3 · Reference-to-video · Source: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2084241879097303513) · 116 likes on 2026-10-29
+
+[`ugc`](tags.md#tag-ugc) [`product-ad`](tags.md#tag-product-ad) [`matcha`](tags.md#tag-matcha) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, and facial consistency throughout every shot.
+Create a 15-second ultra-realistic UGC-style lifestyle advertisement featuring a realistic young woman sharing her favorite premium Matcha Starter Kit in a bright, minimalist Japanese-inspired kitchen with warm morning sunlight, natural wood textures, soft neutral décor, ceramic tableware, and a calm luxury aesthetic.
+She smiles naturally while holding an elegant matcha tin and says this has become her favorite way to start every morning. She opens the premium matcha container, carefully scoops vibrant green matcha powder into a handcrafted ceramic bowl, pours warm water, and whisks it smoothly using a traditional bamboo whisk until a rich, creamy foam forms. She lifts the bowl, takes a small sip, closes her eyes with a genuine smile, and enjoys the peaceful morning moment.
+Capture authentic handheld smartphone shots, over-the-shoulder angles, cinematic macro close-ups of the vivid green matcha powder, the bamboo whisk creating silky foam, the handcrafted ceramic bowl, rising steam, natural hand movements, and warm sunlight reflecting across the table. Finish with her holding the completed bowl beside her face, smiling warmly into the camera.
+Authentic creator-style content, natural facial expressions, healthy glowing skin, cozy morning atmosphere, luxury lifestyle aesthetic, subtle depth of field, premium color grading, smartphone-shot realism, vertical 9:16, 4K HDR, no text, subtitles, logos, or watermarks.
+```
+
+</details>
+
+<a id="h3-female-tennis-player-blue-court-commercial"></a>
+### Female tennis player hits on blue court
+
+<a href="https://x.com/DaniaSafvi/status/2095008773245211050"><img src="../../previews/h3-female-tennis-player-blue-court-commercial.jpg" width="360"></a>
+
+The prompt walks the camera through a fixed shot order (overhead serve, low angle tracking, close ups, golden hour silhouette) and lists the sound cues separately, so the clip reads as one edited commercial. Film look terms such as 35mm, grain and lens flare set the grade, and the negative list targets common hand and racket artifacts.
+
+MiniMax H3 · Text-to-video · Source: [@DaniaSafvi on X](https://x.com/DaniaSafvi/status/2095008773245211050) · 115 likes on 2026-10-29
+
+[`tennis`](tags.md#tag-tennis) [`sports-commercial`](tags.md#tag-sports-commercial) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a fast-paced, high-energy cinematic sports commercial featuring a professional female tennis player competing on a blue hard court.
+
+Scene & Camera:
+
+- Begin with an overhead bird’s-eye shot of her powerful serve.
+- Transition into low-angle tracking shots capturing her fast footwork and movement across the court.
+- Use intense close-ups of her focused face, hands, racket, and ball impact.
+- End with a dramatic golden-hour silhouette as she strikes the ball.
+
+Visual Style:
+Photorealistic, premium sports-commercial aesthetic, bright natural sunlight, subtle lens flares, crisp focus, realistic motion blur, dynamic camera movement, cinematic composition, 8K detail, 35mm film look, subtle film grain.
+
+Performance:
+Natural athletic movement, realistic tennis technique, accurate racket and ball physics, powerful swings, quick footwork, confident expressions, and believable body mechanics.
+
+Audio:
+Realistic tennis-court ambience, racket impacts, ball bounces, quick footsteps, and subtle cinematic sports sound design. No dialogue.
+
+Negative Prompt:
+Distorted hands, extra fingers, unnatural anatomy, incorrect tennis technique, floating racket, unrealistic ball movement, duplicated objects, face distortion, flickering, jitter, slow motion unless intentional, CGI appearance, low detail, watermark, text, or logos.
+```
+
+</details>
+
+<a id="h3-orange-slice-juice-asmr"></a>
+### Orange sliced in macro with juice spray
+
+<a href="https://x.com/yourPlugAI/status/2086830161719111800"><img src="../../previews/h3-orange-slice-juice-asmr.jpg" width="360"></a>
+
+Each beat is timed and split into visual, action and sound lines, so the model gets a clear shot order. Named sound cues like a glass CLINK and a liquid POUR drive the ASMR rhythm, and the start frame locks the orange and blade for a consistent macro opening.
+
+MiniMax H3 · Image-to-video · Source: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2086830161719111800) · 114 likes on 2026-10-29
+
+[`beverage-ad`](tags.md#tag-beverage-ad) [`macro`](tags.md#tag-macro) [`asmr`](tags.md#tag-asmr) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Project: Pure Sensation (15-Second Beverage Campaign)
+Format: Text-to-Video with Image Anchor (Start Frame)
+
+[00:00 - 00:03] THE SENSORY HOOK (Macro Slice)
+• Visual & Camera: Starts on the image anchor. Extremely tight macro close-up of a sharp blade slicing through a ripe, juicy orange directly toward the camera lens.
+• Action / Movement: Droplets of fresh orange juice spray toward the lens in extreme slow motion, reflecting bright sunlight.
+• Audio / Sound Design: A sharp, satisfying crisp slicing sound effect followed by a wet splash. No music yet.
+• On-Camera / Voice: None. Entire focus is on tactile texture and visual warmth.
+
+[00:03 - 00:08] RHYTHMIC ASMR POUR
+• Visual & Camera: Close-up macro shots syncing in rhythmic flow—ice hitting the glass, orange juice pouring smoothly, and fine bubbles rising.
+• Action / Movement: A glass fills with vibrant orange juice as clear ice cubes float upward. Light bubbles gently rise to the surface as liquid coats the inner glass wall.
+• Audio / Sound Design: Rhythmic, isolated ASMR sounds: a resonant glass "CLINK", a smooth liquid "POUR", and a delicate, crisp "FIZZ" rising in volume.
+• On-Camera / Voice: None. Pure focus on clean acoustic detail.
+
+[00:08 - 00:12] THE SUNLIGHT TRANSCENDENCE
+• Visual & Camera: Eye-level medium shot of the 24-year-old Black woman taking a slow, refreshing sip from the glass, bathed in golden sunlight.
+• Action / Movement: She takes a sip, closes her eyes momentarily, and exhales softly with a calm, genuine expression. As she places the glass down, bright sunlight refracts through the juice, projecting glowing amber patterns onto the white table surface.
+• Audio / Sound Design: A soft, uplifting acoustic ambient pad swells quietly beneath the natural ASMR sounds.
+• Dialogue (Real-time on-camera): "That's pure nature."
+
+[00:12 - 00:15] THE HERO SIGN-OFF
+• Visual & Camera: Static hero shot of the glass bottle resting beside fresh orange slices on the bright white table.
+• Action / Movement: Light softly glimmers off condensation droplets running down the glass bottle. The composition is balanced, clean, and still.
+• Audio / Sound Design: Soft acoustic note fades out gently alongside a final subtle bubble-pop sound.
+• On-Screen Text / Call to Action: "Nothing Hidden. Just Nature."
+```
+
+</details>
+
+<a id="h3-imagine-word-to-world-loop"></a>
+### Typed word morphs into a geometric world
+
+<a href="https://x.com/aziz4ai/status/2088748628571558159"><img src="../../previews/h3-imagine-word-to-world-loop.jpg" width="360"></a>
+
+The prompt fixes the exact seven-letter word and one central circle, so each stage morphs through a shared circle, arch or silhouette with a visible geometric cause. Its explicit ban on dissolves and chaotic camera moves keeps the motion clean and closes the loop on the opening frame.
+
+MiniMax H3 · Text-to-video · Source: [@aziz4ai on X](https://x.com/aziz4ai/status/2088748628571558159) · 112 likes on 2026-10-29
+
+[`typography`](tags.md#tag-typography) [`motion-graphics`](tags.md#tag-motion-graphics) [`match-cut`](tags.md#tag-match-cut) [`seamless-loop`](tags.md#tag-seamless-loop)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second vertical 9:16 premium motion-graphics film titled “FROM A WORD TO A WORLD.” Build it through seamless geometric morphing, invisible shape-based match cuts and continuous forward momentum. End on the exact opening frame for a perfect infinite loop.
+
+REFERENCE MAP:
+
+@Image
+ 1 — TYPOGRAPHY LOCK: Defines the exact lowercase word “imagine,” spelled with exactly seven letters: i-m-a-g-i-n-e, its bold geometric type, centered position, black background and typing cursor. Never add, remove, duplicate or rearrange letters.
+
+
+@Image
+ 2 — DOT-TO-SUN: Defines how the dot above the first “i” expands into the sun through concentric circles and cobalt motion trails.
+
+
+@Image
+ 3 — OPTICAL MORPH: Defines sun → optical rings → camera lens → aperture blades → stylized iris. Preserve one circular center and rotational direction.
+
+
+@Image
+ 4 — WORLD SYSTEM: Defines iris → circular tunnel → curved bridges → typographic architecture → surreal graphic city.
+
+
+@Image
+ 5 — STYLE: Defines premium broadcast motion design, Swiss editorial geometry, pure-black negative space, luminous white forms, electric cobalt accents, restrained amber light, crisp vector hierarchy and subtle 2.5D depth.
+
+REFERENCE LOCK:
+The images are design and transformation sheets, not video frames. Never show sheets, grids, stacked stages or several reference objects at once. Extract each element individually and animate every stage full-screen. The result must feel like world-class motion graphics, not photoreal CGI, concept art, cyberpunk or a technology poster.
+
+VISUAL AND MOTION LOCK:
+Maintain the black, white, cobalt and amber palette. Keep every circular object on the same central axis. Use refined elastic easing, controlled acceleration, rotational continuity, motion echoes and hidden match cuts based on shared circles, curves and silhouettes. Every morph must have a visible geometric cause. No dissolves, teleportation, broken morphs, frame skipping or chaotic camera moves.
+
+TIMELINE:
+
+0.00–1.40 — TYPE HOOK
+Pure black. A thin cobalt cursor blinks once at center. Rapidly type the exact lowercase word “imagine,” one correct letter per keystroke: i-m-a-g-i-n-e. Bold luminous-white geometric typography. Each keystroke sends a subtle cobalt pulse through the letters. Hold briefly.
+
+1.40–3.10 — DOT TO SUN
+Push rapidly toward the dot above the first “i.” It detaches while the remaining letters stretch into horizontal speed lines and leave frame. The centered dot expands through concentric graphic rings and morphs into a restrained amber sun disc.
+
+3.10–5.20 — SUN TO LENS
+The corona reorganizes into rotating optical rings. Circular match cut into a camera-lens front element. Cobalt reflections sweep across the glass as rings assemble into aperture blades. The aperture closes, then snaps open.
+
+5.20–6.70 — LENS TO IRIS
+Without changing size or center, aperture blades soften into a stylized cobalt iris. Metallic edges become clean radial lines and the central lens becomes a black pupil. Never show a face or photoreal eye.
+
+6.70–10.70 — IRIS TO WORLD
+Accelerate through the pupil. Iris lines extend into a graphic tunnel. Rapid hidden match cuts: tunnel rings become arches, arches stretch into bridges, bridges rise into bold typographic architecture. Reveal a surreal city made from luminous-white geometry, cobalt routes and one amber sun. Fly smoothly through it as circular windows become tunnels and curved roads become letter-like strokes.
+
+10.70–13.30 — WORLD TO WORD
+Rise above the city. Buildings flatten into letter stems, bridges bend into curves and roads align into a baseline. The world compresses into the exact lowercase word “imagine.” The amber sun shrinks into the dot above the first “i.” Keep all seven letters perfectly readable.
+```
+
+</details>
+
 <a id="veo-strawberry-gelato-churn-macro"></a>
 ### Strawberry Gelato Churn in Macro Close-Up
 
@@ -1501,6 +2395,65 @@ Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto
   "lighting": "Crisp morning natural rim lighting transitioning into cool cryogenic frosty blues, balanced by warm culinary studio highlights on glossy fruit surfaces",
   "negative_prompt": "text, watermark, logo, subtitles, cartoon, artificial neon pink, icy melting mush, plastic texture, dry powder, low resolution, flat lighting, jump cuts, jerky camera movement, grainy footage"
 }
+```
+
+</details>
+
+<a id="h3-scent-diffuser-butterfly-mist"></a>
+### Diffuser mist turns into glowing butterflies
+
+<a href="https://x.com/yourPlugAI/status/2083043306422837477"><img src="../../previews/h3-scent-diffuser-butterfly-mist.jpg" width="360"></a>
+
+Splits the 15 second clip into four timed segments, each with camera, action, sound and voiceover, so the model follows a shot-by-shot timeline. Opening on a still frame locks the presenter, bottle and diffuser before the mist effect is added.
+
+MiniMax H3 · Image-to-video · Source: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2083043306422837477) · 107 likes on 2026-10-29
+
+[`home-fragrance`](tags.md#tag-home-fragrance) [`product-ad`](tags.md#tag-product-ad) [`voiceover`](tags.md#tag-voiceover) [`butterflies`](tags.md#tag-butterflies)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Video Prompt (15 Seconds, MiniMax H3 Timeline Sequence)
+
+0 to 4 seconds: The Sensory Add & Ignition Hook
+
+Visual & Camera: Starts on the image frame. The camera quickly moves into a macro close-up focused on the top of the matte ceramic diffuser and the hand holding the amber bottle.
+
+Action/Movement: Her gloved fingers gently squeeze the gold dropper cap. A single, rich, golden-colored essential oil droplet falls slowly from the dropper and disappears into the diffuser's water reservoir.
+
+Audio/Sound Cues: A faint, pleasant ambient bell chime sound as the droplet hits. A slow, meditative deep bass synth track fades in.
+
+Voiceover (Off-camera female voice, spoken at a slow, steady, and moderate pace with clear articulation): "My apartment used to smell like a generic living space... but I found a way to completely rewrite the mood."
+
+4 to 9 seconds: The Magical Mist Transformation (The Key Visual Hook)
+
+Visual & Camera: A clean cut to an eye-level medium close-up of the diffuser, highlighting the nozzle.
+
+Action/Movement: The lighting transitions. The amber ring base blinks once and then glows with a vibrant gold light. A crisp, illuminated stream of mist begins rising vertically from the nozzle. The camera quickly tracks up, following the mist. Within the mist stream, a dense cloud of small, vibrant, multi-colored butterflies (glowing blues, warm golds, deep purples) begins swirling, blossoming, and flowing upward with a mesmerizing, fluid motion.
+
+Audio/Sound Cues: A gentle mechanical hum layers over the synth track. A soft, magical, twinkling 'whoosh' sound effect as the butterflies appear.
+
+Voiceover (Off-camera female voice, spoken slowly and deliberately): "Now, I don't just 'scent' my home. I 'scent-scape' it, turning a simple ritual into an experience."
+
+9 to 12 seconds: The Aesthetic Drift
+
+Visual & Camera: Quick transition to a slow-motion, low-angle shot, looking up through the cloud of butterflies as they drift lazily toward the ceiling light.
+
+Action/Movement: The butterflies continue their colorful, slow ascent. They interact gently with the warm, ambient apartment lighting, casting colorful, dancing light reflections onto the surrounding surfaces and walls. The visual flow is purely aesthetic and calming.
+
+Audio/Sound Cues: Meditative synth music deepens. The twinkles soften into a gentle hum.
+
+Voiceover (Off-camera female voice, spoken slowly with a calm, impressive cadence): "Cold-air diffusion keeps the scent pure, powerful, and utterly captivating, enveloping you in comfort."
+
+12 to 15 seconds: The Peaceful Sign-Off
+
+Visual & Camera: The camera pulls back smoothly into a wider, cinematic medium shot. The host is leaning casually back against her curated bookshelf.
+
+Action/Movement: Her mouth remains closed. She looks directly into the lens with a calm, serene expression, holding the now glowing-amber essential oil vial gently near her cheek. She gives a very subtle, slow nod of appreciation. The video ends on a steady, hyper-focused shot of her relaxed expression and the product branding.
+
+Audio/Sound Cues: Music track hits a clean, comforting final piano chord and fades out softly.
+
+Voiceover (Off-camera female voice, spoken slowly, clearly, and steadily up to the final second): "Stop settling for ordinary. Elevate your everyday space today."
 ```
 
 </details>
@@ -1570,6 +2523,135 @@ Overall style:
 Ultra photorealistic luxury skincare commercial, Apple-style cinematography, ARRI Alexa 65, 50mm and 85mm lenses, soft natural daylight, realistic skin texture, premium color grading, physically accurate lighting, smooth cinematic camera movement, seamless match cuts, invisible transitions, no jump cuts, no frame skipping, no character changes, no outfit changes, no background changes, premium beauty ad quality.
 
 #MiniMaxH3 @Hailuo_AI
+```
+
+</details>
+
+<a id="h3-luxury-apartment-three-looks-fashion-film"></a>
+### Woman tries three outfits in luxury apartment
+
+<a href="https://x.com/itxsarmadd/status/2101244508767666438"><img src="../../previews/h3-luxury-apartment-three-looks-fashion-film.jpg" width="360"></a>
+
+Each time range holds one beat with its own dialogue line and a named transition, so the cuts read as planned edits. Repeating an identity lock line across the prompt keeps the face, hair and body consistent across all three looks.
+
+MiniMax H3 · Reference-to-video · Source: [@itxsarmadd on X](https://x.com/itxsarmadd/status/2101244508767666438) · 94 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`dialogue`](tags.md#tag-dialogue) [`transitions`](tags.md#tag-transitions) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+15s | 16:9 | 4K HDR | 24fps | Photorealistic Fashion Film
+
+Use the uploaded girl as the exact character throughout. Maintain identical face, skin tone, hair, body proportions, and identity in every shot.
+
+0–3s: Luxury apartment overlooking a glowing city skyline. She opens a vintage suitcase, looks at camera and says: "Three outfits… and absolutely no time to decide!"
+
+3–6s: She places sunglasses over the lens. Seamless transition to Look 1: emerald satin blouse, cream trousers, heels. By the window. "Okay… this one means business."
+
+6–9s: Finger snap transition to a rooftop party. Look 2: metallic mini dress, ankle boots, statement earrings. Wind in hair. "Now THIS is a little dangerous."
+
+9–12s: She walks past the lens, creating a body-wipe transition to Look 3: midnight-blue evening gown, elegant rooftop dinner setting. "Or should I go full glam?"
+
+12–15s: Wide rooftop shot. Holding sunglasses, shoulder bag, and clutch. Smiles and points at camera: "You decide. One, two, or three?"
+
+Style: Ultra-realistic luxury fashion commercial, cinematic lighting, realistic fabrics, natural expressions, shallow depth of field, smooth camera movement, premium editorial quality.
+
+Negative: No face changes, identity drift, duplicate character, extra people, distorted hands, bad anatomy, flicker, jump cuts, subtitles, logos, watermarks, or text overlays.
+```
+
+</details>
+
+<a id="h3-saas-analytics-dashboard-cursor-export-demo"></a>
+### SaaS analytics dashboard with cursor clicks and export popup
+
+<a href="https://x.com/yourPlugAI/status/2095848832294601039"><img src="../../previews/h3-saas-analytics-dashboard-cursor-export-demo.jpg" width="360"></a>
+
+Timed beats each give the visual, the action and the sound, and the start frame locks the layout so the interface stays consistent across segments. Exact button labels and colour states are spelled out so the model can reproduce on-screen text and hover or click changes.
+
+MiniMax H3 · Image-to-video · Source: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2095848832294601039) · 91 likes on 2026-10-29
+
+[`ui-design`](tags.md#tag-ui-design) [`dashboard`](tags.md#tag-dashboard) [`product-demo`](tags.md#tag-product-demo) [`micro-interaction`](tags.md#tag-micro-interaction)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Flat, direct front-facing view of the modern SaaS web dashboard interface based on the start frame.
+
+UI LAYOUT & ASSETS: Left sidebar features navigation icons with an active cyan glow on "Analytics". Top header displays "NEXUS AI // ANALYTICS DASHBOARD" in crisp white typography. Central area shows real-time line charts, data cards, and a main video preview box. Overall sleek dark-mode glassmorphism aesthetic.
+
+00:00-00:03:
+- Visual: The camera holds flat on the web dashboard. A sharp white digital mouse cursor enters from the top-left and glides smoothly across the screen toward a primary button labeled "GENERATE REPORT".
+- Action: The cursor hovers over the button. The button smoothly transitions from dark gray to a vibrant neon cyan hover state with a soft glowing border.
+- Sound FX: Soft digital cursor swoosh, subtle glass hover click, and ambient low-fi tech hum.
+
+00:03-00:06:
+- Visual: The cursor clicks the "GENERATE REPORT" button. The page smoothly scrolls down, revealing secondary data visualization modules and performance bar charts below the fold.
+- Action: The line graphs dynamically draw themselves from left to right, with glowing cyan dots lighting up at data peaks.
+- Sound FX: Crisp mechanical mouse click, ultra-smooth page scroll swoosh, and rising digital beep cues.
+
+00:06-00:09:
+- Visual: The cursor glides over to a data card displaying "TOTAL ENGAGEMENT: 84.2%" and clicks the top-right options icon.
+- Action: A clean glassmorphism pop-up window titled "EXPORT DATA" smoothly scales up and fades in over the center of the dashboard.
+- Sound FX: Soft window pop-up chime, gentle air-suction UI effect, and continuous ambient synth pad music.
+
+00:09-00:12:
+- Visual: Inside the pop-up window, the cursor hovers over a dropdown menu labeled "Format: PDF" and selects "Format: CSV".
+- Action: The dropdown menu expands with fluid micro-interactions, the option highlights in neon violet, and the selection updates immediately.
+- Sound FX: Snappy dropdown click, digital tick sound, and light interface feedback tone.
+
+00:12-00:15:
+- Visual: The cursor clicks "DOWNLOAD NOW". The pop-up closes with a swift fade-out, and a green success notification toast reads "Report Downloaded!" in the top-right corner.
+- Action: The metric charts pulse once in bright green, and the dashboard resets into its active real-time monitoring state.
+- Sound FX: Satisfying task-complete chime, quick UI slide-out sound, and a smooth resolving synth chord.
+```
+
+</details>
+
+<a id="h3-luxury-watch-commercial"></a>
+### Luxury watch reveal inside a presentation box
+
+<a href="https://x.com/I_amShiti/status/2083051609953903017"><img src="../../previews/h3-luxury-watch-commercial.jpg" width="360"></a>
+
+Omni Reference locks the watch design across every shot while the storyboard line sets shot order and pacing. Listing the case, dial, strap and light sources in the prompt keeps the product consistent from the box reveal to the hero shot.
+
+MiniMax H3 · Reference-to-video · Source: [@I_amShiti on X](https://x.com/I_amShiti/status/2083051609953903017) · 89 likes on 2026-10-29
+
+[`luxury`](tags.md#tag-luxury) [`product`](tags.md#tag-product) [`omni-reference`](tags.md#tag-omni-reference) [`minimax-h3`](tags.md#tag-minimax-h3)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use storyboard as the complete creative direction, shot list, composition, pacing, and cinematic sequence.
+
+Use LuxuryWatch as the exact product reference. Preserve the watch's design, dial, case, leather strap, proportions, materials, and fine details consistently throughout every scene.
+
+Create a world-class luxury watch commercial.
+
+Follow the storyboard exactly while transforming each frame into a seamless cinematic sequence.
+
+Begin with a dramatic reveal of the luxury watch inside its presentation box. Slowly unveil the timepiece as warm golden light reflects across the polished platinum case and sapphire crystal. Transition into breathtaking macro shots showcasing the intricate dial, sweeping second hand, open-heart mechanical movement, and handcrafted finishing.
+
+Introduce an impeccably dressed gentleman preparing for an exclusive black-tie gala. He carefully lifts the watch, fastens it to his wrist, and confidently adjusts his tailored suit. Every movement should feel refined, natural, and premium.
+
+Finish with a powerful hero product reveal on a glossy black marble pedestal surrounded by floating metallic particles, subtle golden dust, and dramatic rim lighting. End with an unforgettable luxury advertising composition worthy of an international Swiss watch campaign.
+
+Style:
+Luxury Swiss watch commercial.
+Ultra-photorealistic.
+Award-winning commercial cinematography.
+IMAX-quality visuals.
+Luxury editorial aesthetic.
+Hyper-realistic metal reflections.
+Flawless sapphire crystal.
+Precision mechanical details.
+Shallow depth of field.
+Elegant macro cinematography.
+Physically accurate lighting.
+Rich contrast.
+Premium black, silver, and champagne gold color palette.
+Commercial-grade production quality.
+8K masterpiece.
 ```
 
 </details>
@@ -1865,6 +2947,87 @@ Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto
 
 </details>
 
+<a id="wan-lens-one-camera-commercial"></a>
+### Fictional LENS ONE camera on dark studio surface
+
+<a href="https://x.com/AIwithSynthia/status/2102976373606510839"><img src="../../previews/wan-lens-one-camera-commercial.jpg" width="360"></a>
+
+The prompt splits the 30 second spot into timed beats, each with its own shot and camera move, so the model gets a clear shot order. Repeating the same character and camera design lines in every beat keeps the person and product consistent across shots.
+
+Wan 3.0 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2102976373606510839) · 67 likes on 2026-10-29
+
+[`product-ad`](tags.md#tag-product-ad) [`camera`](tags.md#tag-camera) [`macro`](tags.md#tag-macro) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second, ultra-realistic cinematic product commercial for a fictional premium mirrorless digital camera called LENS ONE. Make it feel like a high-end global camera campaign with cinematic storytelling, beautiful photography, premium product cinematography and emotional everyday moments.
+Feature a stylish young woman in her early 20s with long dark hair, natural makeup and a sophisticated outfit: cream fitted blazer, white top, high-waisted tailored trousers, minimal gold jewelry and elegant sneakers. Keep her face, hairstyle, body proportions and outfit consistent throughout.
+0–4s: Open with a dramatic macro close-up of the LENS ONE resting on a premium dark surface. Slowly glide around the camera, revealing the textured grip, metallic body, lens barrel, control dial, shutter button and detailed lens glass. Show the aperture opening, then the woman naturally picking up the camera.
+4–10s: She walks through a beautiful city street during golden-hour light and notices a child chasing soap bubbles. She raises the camera, looks through the viewfinder and presses the shutter. The exact moment briefly freezes into a beautiful cinematic photograph. Show the captured image clearly on the camera's rear display.
+10–17s: She continues walking and photographs an elderly couple holding hands, a street musician and a dog running through sunlight. Include cinematic close-ups of her eye against the viewfinder, her finger pressing the shutter, the focus ring turning and the camera lens locking focus.
+17–23s: Create a fast premium montage of the camera capturing different moments: a cyclist passing through golden light, rain droplets falling, friends laughing at a café and sunlight reflecting on wet pavement. Between shots, show detailed macro product shots of the lens, controls, shutter mechanism and rear display.
+23–27s: She sits at an outdoor café and reviews the photographs on the camera screen. The images appear as a beautiful visual story of her day. She pauses on one photograph, smiles and looks back toward the street.
+27–30s: She places the camera carefully on the table. The background becomes beautifully blurred as the camera becomes the sole focus. Slowly push toward the product, showing the lens glass catching warm sunset light and revealing the premium body details. End on a clean hero shot of the entire camera against the glowing city skyline.
+Voiceover:
+“Some moments happen once. Make them unforgettable.”
+Ultra-realistic luxury camera advertising, cinematic bokeh, realistic metal and rubber textures, detailed lens reflections, natural skin and fabric textures, smooth camera movement, subtle film grain, realistic motion blur and authentic shutter sounds.
+Keep the camera design, lens, buttons, dials, proportions and materials identical in every shot. No camera morphing, changing lens design, distorted hands, extra fingers, identity drift, duplicated people, unrealistic reflections, floating camera, excessive VFX, CGI appearance, subtitles, captions, random text, logos or watermark.
+```
+
+</details>
+
+<a id="wan-red-satin-slip-dress-fashion-film"></a>
+### Red satin slip dress in a luxury fashion film
+
+<a href="https://x.com/johnAGI168/status/2091876549985288529"><img src="../../previews/wan-red-satin-slip-dress-fashion-film.jpg" width="360"></a>
+
+The @Fig1 and @Fig2 reference images lock the model face and the dress details, and each beat gets a timestamp, a named camera move and a sound cue. A dark, low saturation room leaves the red dress as the only strong color in the frame.
+
+Wan 3.0 · Reference-to-video · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2091876549985288529) · 64 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`luxury`](tags.md#tag-luxury) [`multi-shot`](tags.md#tag-multi-shot) [`reference-images`](tags.md#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[Style] Luxury Fashion Film / High-End Commercial, photorealistic texture, ARRI Alexa shooting feel, shallow depth of field, 8K ultra-HD, DaVinci advanced color grading, dark low-saturation background to accentuate pure true red, no plastic feel, no AI sheen
+[Aspect Ratio] 16:9 landscape
+[Duration] 20 seconds
+[Scene] Penthouse hotel suite, floor-to-ceiling windows overlooking a twilight city skyline, white sheer curtains billowing in a through-breeze, interior with beige wood-paneled walls and black marble countertops, the only high-saturation color in the entire frame is that red dress
+[Character] Female model
+@Fig1
+ (maintain consistent facial features, hairstyle, skin texture, temperament calm and restrained, no smiling or at most the faintest hint of a smile)
+[Outfit] She wears the red silk satin slip dress from @Fig2 (wing-shaped 3D weave at the chest, hand-braided rope cutouts at the waist sides, irregular handkerchief hem), keeping the style, color, and craftsmanship details completely consistent
+
+[00:00-00:04] Shot 1: Fabric Tease (Macro / Slider)
+Macro lateral slide: Red silk satin slowly glides across a dark background, light flowing along the fabric's folds, revealing the yarn weave and satin sheen highlights.
+The shot slowly pushes toward the wing-shaped 3D weave at the chest, with the braided rope structure clearly visible.
+Sound: Subtle rustle of fabric friction, low-frequency string note enters.
+
+[00:04-00:09] Shot 2: Figure Enters Frame (Backlit Tracking)
+Medium-long side backlit shot: She walks past the sheer curtains in the red dress, twilight side backlight piercing through the curtains, casting a long shadow on the floor.
+The hem lifts and falls with her steps, the irregular handkerchief hem's pointed edges tracing arcs in the air, the through-breeze making the curtains and hem flutter together.
+Low-angle horizontal tracking shot, figure always positioned in the right third of the frame.
+
+[00:09-00:14] Shot 3: Craft Close-Up (Detail Insert)
+Close-up: Her fingers lightly pinch the end of the satin bow tie at the chest, the ribbon dangling.
+Cut to close-up: The hand-braided rope cutouts at the waist side form a row of fine dense shadows in the light.
+Cut to close-up: The hem edge whips through the air in slow motion (slow-mo), the satin flipping from deep burgundy to bright true red.
+
+[00:14-00:18] Shot 4: Glance Back Medium Shot (Medium Shot / Push-in)
+Medium shot: She stands with her back to the camera by the window, her shoulder and back lines forming a clean composition with the red ribbon straps, slowly turning her head to look at the camera.
+Facial pores and skin texture rendered realistically, gaze calm and direct into the lens, chin slightly raised, long hair subtly swaying in the breeze.
+Very slow push-in (slow push-in), focus locked on her eyes throughout.
+
+[00:18-00:20] Shot 5: Freeze Frame Close (Freeze / Title Card)
+Full shot freeze: She stands before the floor-to-ceiling window, the red dress the only bright color in the frame, background city skyline blurred into bokeh light points.
+The frame gradually fades to black, white thin sans-serif English subtitles fade in at the center: "IN RED."
+Sound: Strings resolve on a sustained note, with 0.5 seconds of silence at the tail.
+```
+
+</details>
+
 <a id="h3-riviera-quilted-bag-commercial"></a>
 ### Grey quilted bag and two chain straps by pool
 
@@ -1905,6 +3068,127 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 
 </details>
 
+<a id="h3-montreal-red-knit-bridge-walk"></a>
+### Woman in red knit top walks under Montreal bridge
+
+<a href="https://x.com/PrometheanAIX/status/2091512921482227817"><img src="../../previews/h3-montreal-red-knit-bridge-walk.jpg" width="360"></a>
+
+Locks identity with an explicit character reference and a fixed wardrobe list, then sets an eight scene timing map borrowed from a reference video so the cuts keep rhythm. Each scene pairs a camera move with a motivated pedestrian pass or foreground occlusion, which keeps the tracking shots busy without staging the model.
+
+MiniMax H3 · Reference-to-video · Source: [@PrometheanAIX on X](https://x.com/PrometheanAIX/status/2091512921482227817) · 60 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`montreal`](tags.md#tag-montreal) [`tracking-shot`](tags.md#tag-tracking-shot) [`character-reference`](tags.md#tag-character-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A model walking toward a camera on a blank runway shows you the clothes. A woman moving through a city shows you the life those clothes belong to.
+
+I created this video using Hailuo MiniMax H3.
+
+Hailuo is great at keeping a character visually consistent while pushing them through fast-moving scenes, changing locations and different camera angles.
+
+It really shines when you want the camera to feel active, with tracking shots, changing perspectives and movement.
+
+Creative direction:
+Keep the character moving through changing environments so each new location gives the clothing a different attitude, context and sense of momentum.
+
+Treat every location as another chapter of the same fashion story, using forward movement and environmental changes to keep the viewer discovering something new
+
+Art direction:
+Elevated city fashion, strong architectural lines, street-level tracking shots, passing pedestrians, transit movement and wider environmental frames balanced against clean full-body looks.
+
+Modern metropolitan styling, natural city light, cinematic tracking, full-body compositions, active backgrounds and architectural scale that makes the fashion feel aspirational without feeling staged.
+
+Video prompt:
+Hailuo MiniMax H3, 15-second cinematic urban fashion video, vertical 9:16. Use the attached woman as the exact character reference. Preserve her face, hair, body proportions, facial structure, and identity throughout. Keep her wardrobe consistent: tomato-red sleeveless knit top, loose white tailored trousers, woven belt, sculptural gold earrings, and flat leather sandals. Contemporary summer streetwear with a confident, polished Montreal attitude.
+
+Recreate the exact visual rhythm and shot grammar of the Chicago Streetwear 1 reference video. The video should feel like a fast, stylish day-in-the-city portrait with active urban life, not a posed fashion advertisement. Use grounded walking, natural gestures, confident posture, realistic pedestrian movement, motivated camera motion, and quick cinematic cuts. No dialogue, no narration, no text, no logos, no morphing, no plastic skin, no exaggerated choreography.
+
+Use eight scenes with the same relative timing as the Chicago reference, expanded to 15 seconds: approximately 3.2 seconds, 1.7 seconds, 1.9 seconds, 1.6 seconds, 1.6 seconds, 1.6 seconds, 1.4 seconds, and 2 seconds.
+
+Scene 1, 0:00–0:03.2:
+Begin beneath the Bonaventure Expressway in Griffintown, using the massive industrial beams and repeating overhead structure as strong leading lines. Front-facing gimbal tracking moves backward as she walks toward the camera with relaxed confidence. She lightly adjusts the edge of her red knit top or touches the woven belt as she walks. Keep her movement natural and purposeful, with pedestrians and cyclists moving through the background.
+
+Scene 2, 0:03.2–0:04.9:
+Hard cut to a colorful mural-lined lane near Saint-Laurent Boulevard in the Plateau. Use a side and slightly rear tracking angle as she walks forward along the brick wall. She briefly touches her collar and glances toward the mural, then continues without stopping. The camera moves with her smoothly while the background slides past.
+
+Scene 3, 0:04.9–0:06.8:
+Three-quarter front tracking shot as she crosses Saint-Catherine Street near Place des Arts. Downtown towers, traffic, traffic lights, and pedestrians create depth behind her. She steps confidently through the crosswalk, looks toward something off to the side, and keeps moving. Show her from the waist up and full body in alternating moments. She should look intelligent, stylish, radiant, and completely comfortable in the city.
+
+Scene 4, 0:06.8–0:08.4:
+Outside a fashionable boutique in Mile End, she pauses with two stylish local friends. They exchange a quick natural laugh and a few expressive hand gestures, with no audible dialogue. She reacts warmly and intelligently, listening for a moment before smiling and moving on. This should feel like a genuine social encounter, not a staged pose.
+
+Scene 5, 0:08.4–0:10:
+At the Jean-Drapeau Montreal Metro platform, she stands near the platform edge as a train rushes past, creating a strong burst of motion and wind through her hair and clothing. She remains composed, then turns and begins walking along the platform as the train disappears. Use a dynamic lateral camera move with realistic motion blur.
+
+Scene 6, 0:10–0:11.6:
+Cut to Rue Saint-Paul in Old Montreal. Side-tracking shot as she passes reflective glass storefronts and historic stone buildings. Pedestrians cross close to the lens in the foreground, briefly obscuring her and revealing her again. She maintains a confident, effortless stride and never stops for the camera.
+
+Scene 7, 0:11.6–0:13:
+Rear-follow shot along the Old Port waterfront. The camera follows her from behind as she walks beside the river with cyclists, railings, historic architecture, and the Montreal skyline in the distance. She looks slightly toward the water and adjusts her pace naturally. Do not make this a static scenic shot. Keep the camera moving with her.
+
+Scene 8, 0:13–0:15:
+Finish with the same type of front-facing hero movement as the Chicago reference, but beneath the dramatic steel structure of the Jacques-Cartier Bridge. The camera tracks backward as she walks directly toward it, framed by powerful architectural lines. Her posture is relaxed, self-assured, and magnetic. She gives a subtle almost-smile while remaining in motion. End mid-stride with the city moving around her, not with a skyline, sunset, turn-away, or stationary fashion pose.
+
+Overall treatment: energetic urban streetwear film, cinematic realism, crisp architectural composition, realistic Montreal street life, confident feminine movement, natural facial expressions, clean editorial color, subtle film grain, smooth gimbal tracking, lateral movement, rear-follow shots, foreground occlusion, and fast motivated cuts. Preserve her identity and outfit in every scene.
+
+Paid promotion for Hailuo.
+```
+
+</details>
+
+<a id="h3-milan-fashion-week-street-style-film"></a>
+### Woman leaves Milan hotel in street-style film
+
+<a href="https://x.com/PrometheanAIX/status/2089355155829325876"><img src="../../previews/h3-milan-fashion-week-street-style-film.jpg" width="360"></a>
+
+The reference image locks her identity across a run of very short cuts with a longer hero shot at the end, and the prompt names each camera move (gimbal, lateral tracking, rear follow, push-in) so the edit rhythm stays deliberate. Explicit no morphing and no wardrobe change clauses keep her face and outfit stable from cut to cut.
+
+MiniMax H3 · Image-to-video · Source: [@PrometheanAIX on X](https://x.com/PrometheanAIX/status/2089355155829325876) · 55 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`milan`](tags.md#tag-milan) [`street-style`](tags.md#tag-street-style) [`identity-reference`](tags.md#tag-identity-reference) [`hailuo`](tags.md#tag-hailuo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyper-realistic cinematic fashion-lifestyle video, approximately 15 seconds total, using the reference image as the identity reference for the same woman throughout.
+
+She is a striking young woman with sun-kissed skin, voluminous blonde hair, and a confident, elevated editorial presence.
+
+Dress her in a polished contemporary Milan Fashion Week street-style look: a strong, fashion-forward outfit with a clean silhouette, such as tailored trousers, a fitted top, a structured oversized coat, refined boots or heels, and a sleek designer-style bag. Keep the styling sophisticated, modern, and expensive-looking. No wardrobe changes.
+
+No morphing. Keep her face, hair, body, and overall identity consistent in every shot.
+
+Make it fast, stylish, highly realistic storytelling with mostly 0.8 to 1.8 second scenes, plus one slightly longer 2 to 3 second hero moment at the end. Camera work should feel premium and dynamic, with smooth gimbal movement, lateral tracking, rear-follow, subtle orbiting, and elegant push-ins.
+
+The tone is elevated, fashion-insider, and candid, like she is moving through Milan Fashion Week between moments rather than posing for a campaign.
+
+She should feel self-possessed, magnetic, and naturally cool. No stiff posing, no plastic skin, no uncanny behavior, no scene instability, and no sudden changes in lighting, location logic, or outfit.
+
+Sequence: Open with her leaving a beautiful Milan hotel or fashion apartment building and stepping onto the street with purpose, the camera moving with her as if catching her in motion.
+
+Cut to her crossing a stylish Milan street while photographers and fashion people move in the background.
+
+For the third scene, cut to a very intimate close-up of her face, neck, and the top of her shoulders only. She looks directly into the camera with calm intensity, creating an immediate personal and emotional connection with the viewer. Keep this moment extremely beautiful, confident, and natural, with subtle movement in her hair and a shallow depth of field.
+
+Then cut to her walking past a cluster of photographers or guests outside a fashion venue, not stopping to pose, just moving through the energy.
+
+Cut to a quick espresso moment at a standing café bar or outside a polished café, where she glances sideways and then back into motion.
+
+Cut to a candid social beat where she greets two stylish friends outside a venue or on a narrow Milan street, with a quick cheek kiss, smile, or touch on the arm, making it feel like she belongs in this world.
+
+End with a dramatic hero shot, slightly longer than the other scenes, showing her from the waist up. She stands or slowly walks in a striking Milan setting, such as outside a fashion venue, beneath elegant architecture, or in a softly glowing evening street scene. The camera performs a subtle, graceful move while she looks directly into the lens again, creating a second intimate emotional connection with the viewer.
+
+She should look powerful, beautiful, and unforgettable.Make Milan feel specific through elegant streets, fashion-week crowds, refined architecture, luxury vehicles, soft European daylight or golden-hour light, and the understated chaos of the fashion world.
+
+The result should feel like an insider Milan Fashion Week street-style film, not a runway video, not a tourist video, and not a posed ad. It should feel spontaneous, cinematic, fashion-forward, and emotionally engaging.
+
+Paid partnership with Hailuo.
+```
+
+</details>
+
 <a id="h3-cairn-munro-silent-electric-overlander-typography"></a>
 ### Silent Electric Overland Vehicle in Highlands Rain
 
@@ -1920,6 +3204,56 @@ MiniMax H3 · Reference-to-video · Source: [@Dheepanratnam on X](https://x.com/
 
 ```text
 CAIRN MUNRO — "ARRIVE UNHEARD" — 14 CUTS · 15s · 2K · 24fps  REFERENCES: the attached PRODUCT SHEET@Image1 is the exact vehicle — match its proportion, stance, glasshouse angle, cladding, rack and light signature exactly, invent nothing. The attached TYPE SHEET@Image2 is the exact typeface, weight, tracking and scale for every overlay. Match it.  AUDIO LAW — HIGHEST PRIORITY. NO MUSIC ANYWHERE. Do not generate score, soundtrack, background music, beat, drums, percussion, bassline, synth pad, drone, melody, chord, ambient bed, riser, braam, trailer hit, stinger, swell, or any tonal instrument. Where music would normally be scored, render SILENCE. NO VOICE — no narration, dialogue, vocals, breath. ONLY PERMITTED AUDIO, all of it environmental: rain striking wet granite; rain drumming on metal and glass; wind over ridge grass; a burn running hard over rock; gravel shifting; distant thunder; and true silence. All of it recorded-real, close, dry, no reverb wash. Nothing sustains musically.  SILENCE LAW — the engine of the film. The landscape is loud. The vehicle adds nothing to it. No engine, no exhaust, no motor whine, no transmission, no tyre roar, no wind noise off the body, no door, no suspension. Rain striking its panels is permitted — that is the world touching the car, not the car making sound. Whenever the vehicle fills frame and nothing is striking it, the mix drops to near-silence. If an engine or tyre sound would normally be added to a moving vehicle, render silence instead. An engine sound anywhere in this film is a failure.  EDIT METRONOME — SILENT: cuts locked to 96 BPM, 1 beat = 0.625s, 24 beats. A timing grid for cutting ONLY. Do not generate audio to this tempo.  BRAND: CAIRN. PRODUCT: CAIRN MUNRO, a fully electric expedition overlander. It is silent because it is electric — the claim is literal.  SUBJECT: per the sheet — boxy full-size SUV, upright glasshouse, flat vertical sides, squared arches, short overhangs, high clearance. Matte peat green-black body, charcoal composite cladding and sliders, raw anodised aluminium rack and skid plate, bone-white roof, signal-orange recovery hooks, full-width thin white LED signature front and rear, no grille, all-terrain tyres on flat-faced aluminium wheels. No badging.  WORLD: the Scottish Highlands in heavy weather. Wet granite, peat, ridge grass and heather. Low cloud moving fast across the tops. Constant rain. A single unmade stone track. No road markings, no buildings, no fences.  PALETTE: peat #1B2320, granite #4A4E4B, mist #D9DDDB, aluminium #8E9490, heather #6B5470. Signal orange #E24E1B on the recovery hooks only, never more than a few pixels. Cold northern light, overcast, no sun, no warmth anywhere. Desaturated but never graded grey — these are true wet colours.  MIST LAW: mist is real volume. It moves, thins, and parts to reveal. It never becomes a soft filter — everything outside the mist stays razor sharp. It never glows, never catches a god ray, never becomes smoke.  TYPE LAW: every overlay uses the TYPE SHEET face, CAIRN EXTENDED — wide uppercase, medium weight, wide tracking, pure white, with the hairline contour rule beneath each line. Two positions only: body lines lower-left on the safe-area grid, the lockup dead centre. Type is revealed by a hard-edged horizontal wipe travelling left to right. It never fades, scales, rotates, skews, glows or casts a shadow. It cuts on with the cut and holds absolutely still until the next cut takes it. Always pure white.  TEXT ACCURACY: every overlay word is spelled exactly as written and appears exactly once. No extra letters, no duplicated lines, no garbled glyphs, no invented words. No text of any kind on the vehicle.  CAMERA: motion-control smooth and heavy, no handheld, no drift. Long-lens tracking and slow cranes. Clean digital, no grain. Directional blur in transit; everything arrives sharp and holds still.  RHYTHM: cuts 01–02 hold two beats. Cuts 03–10 are one beat apart, the spec run. Cuts 11–12 hold two beats. Cuts 13 and 14 hold four beats each.  01 · 0.000 · Wide. A granite ridge under fast-moving low cloud, rain falling hard across frame. No vehicle. SOUND: rain on stone and wind, loud.  02 · 1.250 · Macro. Rain hammering a wet granite face, water sheeting down the fractures. TYPE: EVERYTHING HERE  03 · 2.500 · A burn crashing white over black rock. TYPE: MAKES A SOUND  04 · 3.125 · Wind flattening ridge grass and heather in one long gust.  05 · 3.750 · The vehicle enters, low and wide, emerging from mist on the stone track. The mix drops away to rain only. TYPE: ONE THING DOESN'T  06 · 4.375 · Macro. A tyre rolling through standing water, the water throwing up hard. SOUND: water only, no tyre noise. TYPE: 800 VOLT  07 · 5.000 · Macro. Rain drumming on the bone-white roof panel. TYPE: 710 KM  08 · 5.625 · Macro. Water running off the anodised aluminium rack. TYPE: 900 NM  09 · 6.250 · Low long-lens track alongside the flat body side, mist parting off the panel. TYPE: 1050MM WADING  10 · 6.875 · Macro. The thin white LED signature cutting through mist. TYPE: 3.5T TOWING  11 · 7.500 · High wide. The vehicle small on a vast stone plateau, cloud dragging over it. SOUND: wind, distant thunder.  12 · 8.750 · Front three-quarter, wading a burn, water pushing up over the sills and breaking white. SOUND: water only.  13 · 10.000 · THE SHOT. A single mature red deer stag stands side-on on the ridge above the track, wet coat, broad antlers, head turned to camera. The vehicle passes below him in the same frame. The stag does not flinch, does not run, does not move at all. Hold on him. SOUND: rain and wind only — no vehicle sound whatsoever.  14 · 12.500 · The vehicle static on the ridge in moving mist, dead frontal. TYPE: CAIRN, dead centre. Two beats later MUNRO wipes on beneath it, then ARRIVE UNHEARD. beneath that. Hold, cut to black. SOUND: rain and wind, then hard silence on the cut. No end cue, no final hit.  NEGATIVE: no music, score, beat, instruments, narration, voice, engine noise, tyre noise. No people, hands, faces, drivers, passengers. No other vehicles, no roads, no road markings, no signage, no buildings, no fences, no power lines. No text other than the specified overlays — no captions, subtitles, watermarks, UI, timecode. No badging or lettering on the vehicle. No sun, no warm light, no golden hour, no lens flare, no god rays, no smoke, no snow. No glitch, scanlines, film burn, light leaks. The stag never runs. No colour outside the palette. No invented body parts.
+```
+
+</details>
+
+<a id="h3-leather-jacket-ad-timed-scenes"></a>
+### Woman in black leather jacket urban ad
+
+<a href="https://x.com/juliaevee/status/2114578188139434224"><img src="../../previews/h3-leather-jacket-ad-timed-scenes.jpg" width="360"></a>
+
+Timed scene beats (0 to 2 seconds, 2 to 4 seconds and so on) let the model pace a ten-second commercial in one pass. Naming the exact garment details such as the asymmetric zipper, silver buttons and stitching keeps the jacket consistent in the close-ups.
+
+MiniMax H3 · Text-to-video · Source: [@juliaevee on X](https://x.com/juliaevee/status/2114578188139434224) · 48 likes on 2026-10-29
+
+[`fashion-ad`](tags.md#tag-fashion-ad) [`multi-shot`](tags.md#tag-multi-shot) [`timed-scenes`](tags.md#tag-timed-scenes) [`voiceover`](tags.md#tag-voiceover)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic Leather Jacket Ad | 10 Seconds | 16:9
+
+Scene 1 (0–2s): A beautiful 25-year-old woman confidently enters a stylish urban setting wearing the exact black leather biker jacket. Cinematic tracking shot, dramatic lighting.
+
+Scene 2 (2–4s): Close-up of the jacket’s leather texture, asymmetrical zipper, silver buttons, and detailed stitching. Smooth cinematic camera movement.
+
+Scene 3 (4–7s): Medium and side-angle shots as she adjusts the collar, zips the jacket, and walks confidently. Premium fashion-commercial look.
+
+Scene 4 (7–10s): Slow-motion hero shot as she turns toward the camera with a confident smile. Dramatic final pose, premium lighting, and subtle cinematic music.
+
+Voiceover: “Bold style. Timeless attitude. Make every moment iconic.”
+
+Negative Prompt: No changes to the original jacket design, color, zippers, buttons, or fit. No glitches, distorted anatomy, unrealistic motion, watermark, or cartoon/2D/3D animation. Photorealistic live-action only.
+```
+
+</details>
+
+<a id="h3-night-lotus-perfume-ugc-ad"></a>
+### Perfume bottle with glowing blue lotus flowers
+
+<a href="https://x.com/juliaevee/status/2115165215738499420"><img src="../../previews/h3-night-lotus-perfume-ugc-ad.jpg" width="360"></a>
+
+The reference image locks the bottle's shape so it stays consistent through the shot. Timed beats (smile, spray, sniff, reaction, closeup finish) give the 10 seconds a clear order, and the closing negatives guard against warped bottles and extra fingers.
+
+MiniMax H3 · Reference-to-video · Source: [@juliaevee on X](https://x.com/juliaevee/status/2115165215738499420) · 40 likes on 2026-10-29
+
+[`perfume`](tags.md#tag-perfume) [`ugc-ad`](tags.md#tag-ugc-ad) [`product-reference`](tags.md#tag-product-reference) [`lotus`](tags.md#tag-lotus)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 10-second premium UGC perfume advertisement, 16:9 aspect ratio, ultra-realistic cinematic quality. A beautiful 25-year-old woman with glowing skin and elegant long dark hair sits in a luxurious, softly blue-lit setting. She holds the exact Night Lotus perfume bottle from the reference image, showcasing its transparent faceted glass, silver cap, and elegant lotus label. She smiles naturally at the camera, sprays the perfume on her wrist, gently smells it, and reacts with a confident, delighted expression. Close-up shots highlight the bottle, glowing blue lotus flowers, and shimmering reflections. Smooth handheld camera movements, realistic skin texture, soft cinematic lighting, premium luxury aesthetic, natural UGC presentation. End with her holding the perfume close to the camera. No distorted bottle, no extra fingers, no product redesign, no unwanted text. Perfect 10-second commercial.
 ```
 
 </details>
@@ -2172,6 +3506,89 @@ Try MiniMax H3 → https://bit.ly/4fES5pl
 
 </details>
 
+<a id="h3-matte-earbud-case-exploded-view-hero-ad"></a>
+### Matte earbud case on dark stone, brushed aluminum
+
+<a href="https://x.com/Artedeingenio/status/2097262898368114973"><img src="../../previews/h3-matte-earbud-case-exploded-view-hero-ad.jpg" width="360"></a>
+
+A timed shot list with a camera move for each beat gives the model a clear structure to follow. Sound is tied to each visible action, and the slogan is locked to exact quoted text in the final shot so it stays readable.
+
+MiniMax H3 · Text-to-video · Source: [@Artedeingenio on X](https://x.com/Artedeingenio/status/2097262898368114973) · 30 likes on 2026-10-29
+
+[`product-ad`](tags.md#tag-product-ad) [`macro`](tags.md#tag-macro) [`exploded-view`](tags.md#tag-exploded-view) [`sound-design`](tags.md#tag-sound-design) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create one coherent 15-second 16:9 product-hero commercial. The earbuds and charging case are the absolute protagonists. Sophisticated industrial-design advertising, premium consumer-electronics macro photography, dark architectural minimalism, dark stone and brushed aluminum, soft narrow morning beam, realistic matte and metallic materials, controlled reflections, precise exploded-view animation, restrained transparent technical visualization, elegant motion design. Camera grammar: slow axial macro push-in, precise mechanical reveal, smooth travel through aligned layers, brief reconstruction acceleration, then calm deceleration into a stable final key visual. Primary motion mechanism is structural unfolding; use rounded-earbud shape matching for the sound-wave transition. No generic horizontal light sweep, scanline reveal, lens-flare wipe, or light-band writing. Product highlights are surface-only and never reveal or write typography.
+
+Sound is H3-native only, with no separate BGM and no narration: restrained low-frequency pulse, precise magnetic clicks, quiet hinge, crisp component ticks, subtle air movement during the wave visualization, and a clean resolving tonal lock. Sync sound to visible actions; do not duplicate tracks.
+
+Typography Lock: exact user-confirmed English text “SMALLER. CLEARER. EVERYWHERE.” Render only this phrase, exactly, in H3. Compact uppercase geometric sans, medium-bold, restrained tracking, clean white-to-soft-silver material on a transparent architectural plane. It appears only in the final shot in protected upper-left/upper-center negative space beside, never over, the product. Structural plane reveal brings in the complete phrase after the earbuds settle; hold it fully readable and stable through the final pull-back. No extra words, translation, scrambling, omission, subtitle box, or random text.
+
+0.0–2.2s: Closed case on dark stone beside brushed aluminum. Macro three-quarter close-up, case large and unmistakable. Slow axial push-in with gentle controlled rotation. Morning beam reveals matte graphite shell, subtle indicator light, and USB-C edge. End centered with hinge axis aligned. Quiet pulse and restrained mechanism sound. No typography.
+
+2.2–4.2s: Same case and light. Tight macro on hinge and open interior. Lid opens with precise mechanical movement; both earbuds rise slightly from magnetic slots and stop in a controlled hover. Camera tilts upward and advances through the hinge axis. Magnetic interior catches a soft reflection. Hinge click and two magnetic release clicks. The opening gap becomes the portal to the exploded view. No typography.
+
+4.2–7.6s: Dark architectural void using the same stone/aluminum language. Medium macro with enough depth to read every layer. Camera travels smoothly forward and slightly upward through the aligned product axis. Separate into floating, perfectly aligned layers: outer shell, miniature drivers, battery cells, microphones, circuit boards, magnets, and acoustic chambers. Keep realistic scale and material continuity. Add sparse transparent dimensional lines and abstract non-readable engineering marks. Brief hold at maximum separation. Layered precise ticks and restrained electromagnetic hum. No typography.
+
+7.6–9.2s: Hold the aligned component field, then accelerate smoothly through the centerline. Components rapidly converge and reconstruct both earbuds in mid-air; magnets seat precisely, with no missing or extra parts. Reflections resolve into continuous matte-and-metal surfaces. Accelerating clicks resolve into two clean seating sounds. The rounded earbud silhouette match-cuts to portability. No typography.
+
+9.2–11.2s: On dark stone, the compact case slides beside a smartphone, keys, and slim wallet as neutral scale references. Track laterally, then pivot and push toward one earbud as it lifts from the case toward camera. Case remains dominant and readable. Smartphone has only a subtle generic charging indicator, no readable UI. Soft slide, magnetic lift click, close-pass air movement. No typography.
+
+11.2–13.0s: Foreground earbud remains the anchor while the desk environment fades into abstract architectural planes. Controlled micro push-in, then hold. A soft restrained sound-wave visualization expands outward in layered translucent arcs, suggesting immersive audio and active noise isolation without text or performance claims; waves never obscure the earbud. Airy expansion and tonal resonance contract into the oval contour of the open case. No typography.
+
+13.0–15.0s: Both earbuds settle beside the open matte graphite case on the original dark stone; smartphone nearby with a subtle generic charging indicator and no readable UI. Premium three-quarter packshot, product cluster dominant, clean negative space upper-left/upper-center. Slow cinematic pull-back with slight rise, then lock. Morning beam and controlled reflections return; magnetic interior and USB-C port remain naturally visible. Two soft settling clicks and tonal lock. As the product settles, a transparent architectural plane structurally unfolds in the negative space and reveals exactly “SMALLER. CLEARER. EVERYWHERE.” in stable native H3 typography; fully readable before the pull-back ends and held through the final frame.
+
+Final requirements: exactly 15 seconds, 16:9, one coherent concept advertisement, strict product consistency, aligned exploded layers, no altered proportions or materials, no extra readable text, no invented logo or claim, no scanline/light-sweep typography, exact slogan stable and legible, product absolute protagonist, native sound only, final two seconds a calm complete hero lock-up.
+```
+
+</details>
+
+<a id="h3-ferrari-jacket-villa-driveway-commercial"></a>
+### Woman in Ferrari jacket by villa driveway
+
+<a href="https://x.com/Zyrellix/status/2115113375516524850"><img src="../../previews/h3-ferrari-jacket-villa-driveway-commercial.jpg" width="360"></a>
+
+Each scene block names the shot type, lighting and fixed jacket and villa details, so the same wardrobe and location carry across cuts. The negative prompt rules out wrong car colour, extra people and logo errors.
+
+MiniMax H3 · Text-to-video · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2115113375516524850) · 27 likes on 2026-10-29
+
+[`ferrari`](tags.md#tag-ferrari) [`fashion`](tags.md#tag-fashion) [`golden-hour`](tags.md#tag-golden-hour) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+SCENE 1  Wide Establishing Shot
+Cinematic wide shot of a glossy red Ferrari sports car parked on a stone-paved driveway in front of a luxurious beige Italian villa with arched porticos and balconies, tall dark cypress trees, manicured green lawn, soft golden hour lighting, photorealistic, high detail, vertical 9:16
+
+SCENE 2  Getting Out of the Car
+Cinematic shot of a beautiful young woman with dark hair wearing black sunglasses and a black-red Ferrari F1 team jacket with Puma, Shell, Ferrari SF shield, red “Ferrari” bars and F-1 sleeve patch, black pants and sneakers, stepping out of the red Ferrari with the door open, holding the door, luxurious villa and cypress trees in background, soft golden hour light, photorealistic, vertical 9:16
+
+SCENE 3  Jacket Close-up
+Extreme close-up cinematic shot of the black and red Ferrari racing jacket, showing detailed embroidery of the yellow Ferrari prancing horse SF shield, red horizontal bar with “Ferrari” text, Puma and Shell logos, realistic fabric texture, soft natural lighting, photorealistic
+
+SCENE 4 Collar Adjustment
+Close-up cinematic shot of a young woman adjusting the zipper of her black and red Ferrari jacket, red “Ferrari” embroidery visible on the collar, detailed logos on the chest, soft golden hour lighting, photorealistic skin and fabric texture, vertical 9:16
+
+SCENE 5 Sleeve Detail
+Close-up of the jacket sleeve showing the red “F-1” patch and Ferrari shield logo, black fabric with white piping, cinematic lighting, high detail, photorealistic
+
+SCENE 6  Back View
+Cinematic back view of the young woman wearing the Ferrari jacket, large red “Ferrari” text across the back with white borders, Puma logo above, standing near the red Ferrari, villa and cypress trees in background, golden hour light, photorealistic, vertical 9:16
+
+SCENE 7  Full Body Pose
+Full body cinematic shot of the young woman in the Ferrari team jacket and sunglasses standing confidently next to the red Ferrari on the stone driveway, luxurious Italian villa with arches and tall cypress trees behind, soft golden hour lighting, photorealistic, same composition as original video, vertical 9:16
+
+SCENE 8  Medium Hero Shot
+Medium cinematic portrait of the young woman in black sunglasses and Ferrari jacket standing in front of the red Ferrari, luxurious villa and cypress trees softly blurred in the background, golden hour lighting, high detail, film-like look, photorealistic, vertical 9:16
+
+NEGATIVE PROMPT
+blurry, low quality, distorted face, deformed hands, extra fingers, extra limbs, bad anatomy, ugly, watermark, text error, cartoon, anime, painting, sketch, oversaturated, overexposed, underexposed, night time, rainy, snow, modern building, city, crowd, multiple people, wrong car color, yellow car, blue car, male, man, beard, wrong jacket colors, missing logos, wrong logos, plastic skin, ai artifacts, low resolution, grainy, motion blur, out of focus
+```
+
+</details>
+
 <a id="h3-vintage-car-desert-highway-dusk-2"></a>
 ### Vintage muscle car kicks up desert dust
 
@@ -2240,6 +3657,25 @@ No cartoon styling, no cheap VFX clutter, no excessive lens distortion, no unrea
 
 </details>
 
+<a id="h3-dew-covered-dragon-fruit-farm-to-table"></a>
+### Dew covered dragon fruit ripening in golden light
+
+<a href="https://x.com/Zyrellix/status/2115436669205885329"><img src="../../previews/h3-dew-covered-dragon-fruit-farm-to-table.jpg" width="360"></a>
+
+The prompt lays out a farm-to-table shot list in running order, from aerial orchard views to harvesting, slicing and a served table, then ends on a closing product shot. Naming golden hour light, shallow depth of field and smooth camera moves sets a commercial food look and keeps the fruit as the hero.
+
+MiniMax H3 · Text-to-video · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2115436669205885329) · 25 likes on 2026-10-29
+
+[`dragon-fruit`](tags.md#tag-dragon-fruit) [`golden-hour`](tags.md#tag-golden-hour) [`food-cinematography`](tags.md#tag-food-cinematography) [`vertical-video`](tags.md#tag-vertical-video)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic vertical 9:16 video of dragon fruit from farm to table golden hour lighting ultra realistic 8K quality Show aerial views of dragon fruit farms dew covered ripe pink fruits farmers harvesting with pruning shears a knife slicing open vibrant magenta flesh with tiny black seeds a beautiful young East Asian woman enjoying the fruit outdoors fresh fruits in wooden crates, and an elegant table with sliced dragon fruit and pink juice End with two halved dragon fruits on a wooden board in the orchard Smooth camera movements shallow depth of field vibrant colors soft natural light, high end commercial food cinematography.
+```
+
+</details>
+
 <a id="h3-vintage-car-desert-highway-dusk"></a>
 ### Vintage car on desert highway at dusk
 
@@ -2259,6 +3695,35 @@ Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for 
 Keep the story simple: beside a vintage car on a desert highway, a woman walks to the rear of the car, opens the trunk, takes out a black bag, shares a quiet beat with the man standing nearby, then leaves carrying the bag. Integrate the clothing and bag naturally into the performance so they feel like part of the characters’ identity.
 
 I added the final video in and the reference images for you to learn from!
+```
+
+</details>
+
+<a id="wan-echo-groove-wordmark-ident"></a>
+### Silver ECHO wordmark built from concentric grooves
+
+<a href="https://x.com/HBCoop_/status/2114024432666873954"><img src="../../previews/wan-echo-groove-wordmark-ident.jpg" width="360"></a>
+
+A timed five-beat shot list plus a constraint line that bans other text and glitching keeps the four letters stable. Describing the O as a speaker diaphragm and the letters as solid machined objects keeps the motion physical.
+
+Wan 3.0 · Text-to-video · Source: [@HBCoop_ on X](https://x.com/HBCoop_/status/2114024432666873954) · 21 likes on 2026-10-29
+
+[`title-sequence`](tags.md#tag-title-sequence) [`typography`](tags.md#tag-typography) [`macro`](tags.md#tag-macro) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A sophisticated 15-second motion identity for an experimental audio company named ECHO. The custom wordmark is built from concentric grooves and controlled acoustic vibration. Black, warm silver, signal orange, microscopic texture, high-speed macro photography, tactile sound-design aesthetic.
+Shot progression
+00:00–00:03: Extreme macro view of a matte-black surface. A single orange pulse strikes the center, sending four perfectly circular pressure rings outward. Dust particles jump briefly from the vibration.
+00:03–00:06: As the rings expand, portions lock into place and form the letters ECHO. Each character appears cut from the same system of concentric grooves, like a fusion of a vinyl record and precision-machined metal.
+00:06–00:09: A low-frequency beat pushes through the wordmark. The letters flex once as solid physical objects without melting. The O becomes a speaker diaphragm that moves forward, creating a visible pressure wave through suspended silver particles.
+00:09–00:12: The camera follows the pressure wave sideways. It compresses into a thin orange line, then wraps around a brushed-aluminum audio device. The engraved ECHO wordmark resolves sharply on its control dial.
+00:12–00:15: Match cut to a black background. The orange line travels beneath the centered silver wordmark and stops. One final pulse passes through the O, then complete stillness.
+Audio: Deep sub-bass pulse, granular vibration, precise mechanical clicks, clean decay into silence.
+Constraints: The only readable text is ECHO. Keep all four letters stable and correctly spelled. No generic equalizer bars, neon nightclub imagery, liquid metal, glass logo, UI overlays, blueprints, random text, excessive glitching, or warped letterforms.
+
+Swap in your own word and drop your results below 👇
 ```
 
 </details>
@@ -3033,1237 +4498,4 @@ Ultra-realistic food cinematography, photorealistic chef, authentic Chinese cook
 
 </details>
 
-<a id="seedance-chocolate-lava-cake-commercial"></a>
-### Chocolate lava cake commercial from egg to spoon
-
-<a href="https://x.com/AI_with_Antonio/status/2088237953772638270"><img src="../../previews/seedance-chocolate-lava-cake-commercial.jpg" width="360"></a>
-
-Each shot gets a timecode, shot size, camera angle and single action, so the model cuts cleanly between five short beats. The same prompt also asks for a captioned storyboard layout, which gives a shot-by-shot preview to check against.
-
-Seedance 2.5 · Text-to-video · Source: [@AI_with_Antonio on X](https://x.com/AI_with_Antonio/status/2088237953772638270)
-
-[`food`](tags.md#tag-food) [`commercial`](tags.md#tag-commercial) [`storyboard`](tags.md#tag-storyboard) [`timecode`](tags.md#tag-timecode)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A photorealistic 10-second culinary commercial for a chocolate lava cake. Shot 1 (0:00–0:01): Close-up 45-degree angle of a fresh egg falling into a mound of cocoa powder and flour in a glass bowl on a wooden countertop. Shot 2 (0:01–0:03): Top-down overhead view of a metal wire whisk actively stirring velvety, glossy chocolate batter into silky concentric swirl patterns. Shot 3 (0:03–0:05): Medium close-up eye-level shot of thick chocolate batter pouring in a smooth ribbon fold into a grey ceramic ramekin dusted with cocoa. Shot 4 (0:05–0:07): Straight-on medium shot inside a modern oven, warm amber interior glow, showing the chocolate lava cake fully risen and domed on the wire rack. Shot 5 (0:07–0:10): Hero macro shot of the baked lava cake on a matte dark plate; a silver spoon breaks into the crust, releasing a flowing cascade of warm molten chocolate lava with delicate rising steam. Style: High-end commercial cinematography, natural studio lighting, ultra-realistic textures, shallow depth of field, 8k resolution, smooth transitions. A professional 5-panel commercial storyboard layout on a clean, light-grey textured background with crisp black frame borders and typography: Top Row (Left to Right): Panel 1: 00:00 - 00:01 | CU, Angle 45-degree angle — Raw egg yolk cracking into cocoa powder and flour in a glass bowl. Text: "Combine your rich ingredients." Panel 2: 00:01 - 00:03 | Angle: High-Angle / Top-Down (CU) — Whisk swirling glossy chocolate batter into concentric rings. Text: "Whisk until perfectly smooth." Panel 3: 00:03 - 00:05 | MCU, Eye-Level — Thick ribbon of chocolate batter pouring vertically into a grey ramekin. Text: "Bake until the edges are set." Bottom Row (Centered): Panel 4: 00:05 - 00:07 | MS, Straight-On Centered — Puffed cake resting on the wire rack inside a warm illuminated oven. Text: "Baking in Oven" Panel 5: 00:07 - 00:10 | Hero Angle — Silver dessert spoon breaking the cake crust, warm molten chocolate oozing outward with steam. Text: "Enjoy your perfect lava cake." Style: Clean storyboard graphic design, photorealistic culinary frame stills, sharp cinematic typography, balanced layout.
-```
-
-</details>
-
-<a id="seedance-coffee-machine-ugc-commercial"></a>
-### Woman in cream sweater walks through warm kitchen
-
-<a href="https://x.com/SadiaMalik182/status/2085947010293883115"><img src="../../previews/seedance-coffee-machine-ugc-commercial.jpg" width="360"></a>
-
-The prompt splits the 30 second spec into timed scenes, each with its own camera move and action, so the model gets a shot list rather than a vague mood. The style line (handheld camera, natural light, realistic hands) carries the UGC realism.
-
-Seedance 2.5 · Text-to-video · Source: [@SadiaMalik182 on X](https://x.com/SadiaMalik182/status/2085947010293883115)
-
-[`ugc`](tags.md#tag-ugc) [`product-ad`](tags.md#tag-product-ad) [`coffee-machine`](tags.md#tag-coffee-machine) [`vertical`](tags.md#tag-vertical)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
-
-Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
-
-Scene 1 (0–5s)
-A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
-
-Scene 2 (5–10s)
-Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
-
-Scene 3 (10–17s)
-Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
-
-Scene 4 (17–23s)
-The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
-
-Scene 5 (23–27s)
-Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
-
-Scene 6 (27–30s)
-Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
-
-Requirements:
-Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
-```
-
-</details>
-
-<a id="seedance-fashion-editorial-lying-newspaper-montage"></a>
-### Woman lying on newspapers in rapid beauty montage
-
-<a href="https://x.com/AIwithNatalia/status/2103481825096278257"><img src="../../previews/seedance-fashion-editorial-lying-newspaper-montage.jpg" width="360"></a>
-
-A reference image locks identity, and an explicit no-movement rule holds the lying pose while the timed shot list drives cuts every 0.3 to 1 second. Each segment is tied to a named action, so the edit reads as a montage synced to a fashion beat.
-
-Seedance 2.5 · Reference-to-video · Source: [@AIwithNatalia on X](https://x.com/AIwithNatalia/status/2103481825096278257)
-
-[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`speed-ramp`](tags.md#tag-speed-ramp) [`beat-sync`](tags.md#tag-beat-sync)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 15-second extremely fast-paced luxury fashion editorial video using the reference image. The woman must remain lying in the exact same pose throughout the entire video — no standing, walking, sitting up, or pose changes. Keep her exact facial features, burgundy hair, identity, and styling consistent.
-
-The video should feel like a rapid fashion campaign, with constant visual movement and very quick cuts every 0.3–1 second, synced tightly to a punchy fashion beat.
-
-0–2s: Start with the overhead shot of her lying among newspapers. Rapid push-in → immediate cut to her applying red lipstick.
-
-2–4s: Ultra-fast beauty cuts:
-lips → lipstick swipe → sunglasses → red nails → pearl earrings → eyes.
-Each shot lasts only a fraction of a second, with quick snap zooms and whip transitions.
-
-4–6s: Back to the full overhead composition. She adjusts her sunglasses while newspapers rapidly fly across the frame. Camera makes a quick circular move around her.
-
-6–9s: Faster macro montage:
-lipstick closing → glossy lips → sunglasses catching light → nails gripping newspaper → earrings swinging → burgundy hair moving.
-Use aggressive editorial cuts, speed ramps, and flash-like transitions.
-
-9–12s: Return to her lying pose. She casually applies lipstick again as newspapers swirl rapidly around her and red rose petals fall from above, creating layered motion around the completely still fashion pose.
-
-12–15s: Rapid sequence of eyes → lips → sunglasses → nails → earrings, then a sudden overhead pullback revealing the entire newspaper-covered composition. Newspapers fly directly across the lens and create the final transition.
-
-Visual style: high-fashion magazine campaign, cinematic overhead photography, dramatic hard sunlight, deep shadows, glossy beauty lighting, realistic skin and hair, rich burgundy/red accents, luxury editorial aesthetic, energetic camera movement, very fast cutting, speed ramps, whip transitions, snap zooms, motion blur, beat-synced editing.
-```
-
-</details>
-
-<a id="seedance-fish-creative-drink-commercial"></a>
-### Girl with milkshake in turquoise tiled booth
-
-<a href="https://x.com/soulful__ai/status/2103844376120340877"><img src="../../previews/seedance-fish-creative-drink-commercial.jpg" width="360"></a>
-
-Pins the subject to one reference image, then gives a timed 15 second beat sheet where each segment names its camera move, such as push in, whip pan or pull back. Banning slow motion and static shots keeps the pacing tight from start to finish.
-
-Seedance 2.5 · Image-to-video · Source: [@soulful__ai on X](https://x.com/soulful__ai/status/2103844376120340877)
-
-[`fast-cuts`](tags.md#tag-fast-cuts) [`whip-pan`](tags.md#tag-whip-pan) [`product-commercial`](tags.md#tag-product-commercial) [`image-reference`](tags.md#tag-image-reference)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a high-energy 15-second commercial using the provided image as the exact visual reference. Keep the same girl, outfit, sunglasses, turquoise tiled booth, Fish Creative branding, and drink.
-
-The video should feel very fast, playful, trendy, and energetic, with constant movement and quick cuts.
-
-0–3 sec: Start with a rapid camera push-in toward the girl. She grabs the Fish Creative drink and immediately brings it toward the camera.
-
-3–6 sec: Quick close-up of the drink → whip-pan to her face → she gives a confident playful look and takes a quick sip.
-
-6–9 sec: Fast camera movement around her as she presents the drink with energetic hand gestures. She moves naturally and confidently, keeping the product visible.
-
-9–12 sec: Rapid product shots: drink close-up → Fish Creative logo → whipped cream → her smiling face. Use quick snap transitions between each shot.
-
-12–15 sec: Camera quickly pulls back. She raises the drink toward the camera in a bold advertising pose, ending with the drink prominently in the foreground.
-
-Visual direction: extremely fast-paced, energetic commercial, dynamic handheld camera, rapid push-ins, whip pans, quick zooms, snap transitions, lively body movement, punchy timing, vibrant retro aesthetic, cinematic lighting, subtle film grain.
-
-Important: No slow movements, no slow motion, no static shots, no long pauses. Keep the girl actively moving and interacting with the drink throughout the entire 15 seconds.
-```
-
-</details>
-
-<a id="seedance-golden-light-to-planet-concept-ad"></a>
-### Golden light orb and glass droplets in darkness
-
-<a href="https://x.com/hxhxhx0916/status/2106536299356381507"><img src="../../previews/seedance-golden-light-to-planet-concept-ad.jpg" width="360"></a>
-
-The prompt is written as timed beats, each naming a camera move, a transition effect and a sound cue, so it reads as a shot list rather than a mood description. Brand text is left out of generation and added in post, so the model never has to render a legible title.
-
-Seedance 2.5 · Text-to-video · Source: [@hxhxhx0916 on X](https://x.com/hxhxhx0916/status/2106536299356381507)
-
-[`concept-ad`](tags.md#tag-concept-ad) [`timed-shots`](tags.md#tag-timed-shots) [`transitions`](tags.md#tag-transitions) [`sound-design`](tags.md#tag-sound-design)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Seedance 2.5｜15s 概念宣传片
-
-基础设定：16:9 横屏，15 秒，电影质感，深黑底色，冷蓝 + 暖金配色，概念视觉，无 UI 界面、无性能参数、无功能承诺，纯艺术概念短片；音频：电子配乐，从单音缓缓铺开，结尾干净柔和低音收束，无旁白。
-
-00:00-00:01.5 灵感点亮，焦点转移特效，黑暗空间里悬浮一颗细密玻璃质感金色光点，微距固定机位，焦点从远处散景切换到光点，光点轻轻脉动，一声清晰电子音响起 00:01.5-00:03 穿过灵感，快速推进 + 径向运动模糊 + 变速减速特效，镜头冲入金色光点，四周拉扯出蓝金色光线，前方出现明亮矩形光门，镜头沿中心轴高速前进，临近光门平滑减速，门框填满画面 00:03-00:04.5 世界展开，连续空间展开特效，穿过光门，空白大地向远方延伸，建筑沿着街道依次生长成型，雨后未来都市，广角低机位向前滑行，湿滑路面反射冷蓝光，远方天空透出暖金色光晕，建筑立面贴近画面遮挡镜头 00:04.5-00:06 看见细节，25% 慢动作特效，微距侧拍，金属蝴蝶停留在湿润绿叶上，翅膀缓缓舒展，水珠沿着叶缘缓慢坠落，清晰展现金属纹理、叶脉、水珠折射光影，水珠落在画面中心 00:06-00:08 从水滴到宇宙，连续形态变换 + 环绕运镜特效，同一画面位置，水滴平滑演变为蓝色行星，液体纹理慢慢转化为云层与海洋，镜头环绕行星缓慢转动 30 度，后方金色恒星勾勒行星轮廓，画面连续无跳切，镜头沿着行星边缘向右加速 00:08-00:09 创意加速，加速变速 + 右向甩镜 + 方向运动模糊 + 金色光轨特效，行星边缘融化为金色光轨，镜头顺着光轨向右飞驰，光轨串联三个转瞬即逝场景：沙漠、深海、云端，运动方向统一，光轨横贯画面 00:09-00:12 世界成为画面，缓慢拉远特效，镜头向后缓缓拉远，前面出现的未来城市、金属蝴蝶、蓝色行星，变成三块悬浮动态画幅，画幅内部画面持续微动，三块画幅错落悬浮在深邃黑空间，纤细金色线条串联成流畅路径，镜头慢慢静止，音乐转为宽阔长音，画幅缓缓淡出 00:12-00:15 品牌落版，淡出转场特效，纯深黑背景，居中白色主标题 Seedance 2.5，下方浅金色小字：让想象，成为画面。文字稳定不动，保持至片段结束，音乐柔和低音收尾，品牌文字后期叠加保证清晰准确
-负面提示词： UI 界面，按钮，电脑屏幕，数字参数，文字水印，人物，手部操作，粗糙材质，卡通 CG，塑料质感，画面跳变，镜头抖动，过曝，杂乱色彩，字幕乱码，多余文字，变形扭曲
-```
-
-</details>
-
-<a id="seedance-influencer-serum-intro-jp"></a>
-### Influencer shows pink serum bottle to camera
-
-<a href="https://x.com/tanabe_fragm/status/2097515319309013359"><img src="../../previews/seedance-influencer-serum-intro-jp.jpg" width="360"></a>
-
-It anchors the opening frame to a reference image and locks face, hair, outfit and bottle, then times the Japanese line to the clip length with one bottle lift and a smile deepening in the second half. Room sound only, plus an explicit ban on cuts, zoom, captions and logos, keeps it a clean single shot talking demo.
-
-Seedance 2.5 · Image-to-video · Source: [@tanabe_fragm on X](https://x.com/tanabe_fragm/status/2097515319309013359)
-
-[`beauty`](tags.md#tag-beauty) [`skincare`](tags.md#tag-skincare) [`product-demo`](tags.md#tag-product-demo) [`japanese-dialogue`](tags.md#tag-japanese-dialogue)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-7秒、縦型9:16、ワンカット。インフルエンサーが普段の投稿で、お気に入りの美容液を紹介する自然なオープニング。
-
-【人物・商品】
-参照画像を開始フレームに使用。女性の顔立ち、ブラウンのショートヘア、アイボリーのニットを維持。ピンク色の美容液ボトルを頬の横で持ち、反対の手を底に添える。ラベルはカメラに向けたまま。
-
-【セリフ・演技】
-開始直後から話し始め、約7秒かけて次のセリフを話す。
-
-「今日は、私のお気に入りの美容液を紹介します。これ、みんなにも見てほしかったんです！」
-
-友人に話しかけるような、明るく親しみのある声。少し軽快な会話のテンポで、長い間は入れず、短い息継ぎだけで続ける。最後の「です」が映像の終わり近くに自然に収まる。語尾を引き伸ばしたり、最後だけ早口にしたりしない。
-
-前半の「私のお気に入りの美容液」で、両手で支えたボトルを2〜3センチだけ持ち上げる。後半の「これ、みんなにも」で微笑みを少し深める。最後までレンズに視線を向け、自然なまばたきと小さな表情の変化を添える。商品を動かす仕草は1回だけ。話し終わった後の無言のポーズは設けない。
-
-【環境・カメラ】
-参照画像と同じ明るい室内。画面左の窓から柔らかな自然光。スマートフォンを目線の高さに固定して撮影したような安定した構図。顔と商品を明瞭に見せ、肌のきめと自然なツヤを残す。
-
-【音声・制約】
-日本語のセリフと口の動きを正確に同期。本人の声を明瞭にし、静かな室内音のみ、BGMなし。
-人物の顔、髪型、衣装、ボトルの形状・色・ラベルを維持。指と持ち方を自然に保つ。キャップを開けない。大げさな身振り、カット切り替え、ズーム、過剰な美肌加工、字幕、追加ロゴなし。
-```
-
-</details>
-
-<a id="seedance-japanese-guide-bungalow-entrance-tour"></a>
-### Japanese guide welcomes viewers at bungalow entrance
-
-<a href="https://x.com/tanabe_fragm/status/2096091586002399331"><img src="../../previews/seedance-japanese-guide-bungalow-entrance-tour.jpg" width="360"></a>
-
-Numbered reference images lock the presenter's face and outfit and each room's layout, while a timestamped shot list sets one camera move, one line of dialogue and one caption per cut. Limiting moves to slow pushes and short lateral slides, with scene changes made by edit cuts rather than camera passes through walls, keeps the architecture straight and the face stable.
-
-Seedance 2.5 · Reference-to-video · Source: [@tanabe_fragm on X](https://x.com/tanabe_fragm/status/2096091586002399331)
-
-[`real-estate`](tags.md#tag-real-estate) [`japanese-dialogue`](tags.md#tag-japanese-dialogue) [`reference-images`](tags.md#tag-reference-images) [`property-tour`](tags.md#tag-property-tour)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-30秒、16:9横長。日本の大手不動産会社の物件紹介を思わせる、上質で落ち着いた架空の平屋住宅案内動画を制作する。実写の建築映像と自然な日本語の女性案内、控えめなBGM、読みやすい日本語テロップを組み合わせる。
-
-【参照画像】
-画像1：案内役の顔・髪型・衣装の基準。同一人物の複数ビューであり、画面に複数人を出さない。この人物資料自体は動画に映さない。
-画像2：玄関前でのお迎え。
-画像3：玄関収納と廊下。
-画像4：LDK。
-画像5：キッチンから庭への眺め。
-画像6：主寝室とウォークインクローゼット。
-画像7：庭側の外観。
-
-【人物と住宅の一貫性】
-案内役は画像1と同じ27歳の日本人女性。ネイビーのパンツスーツ、アイボリーのブラウス、パールのピアス、低い位置でまとめた髪。知的で親しみのある笑顔、丁寧で控えめな所作。屋外は黒いパンプス、室内はベージュのスリッパ。全編で顔、体格、衣装、声を統一する。
-
-住宅は参照画像と同じ平屋。白い壁、明るいオーク材、落ち着いた家具、黒い窓枠。各カットの背景は対応する画像を優先し、窓、扉、家具、間取りを勝手に変更しない。
-
-【映像の演出】
-高級住宅紹介のように、自然な明るさ、柔らかな窓光、繊細な素材感、抑制された色調で仕上げる。直線が歪まない建築撮影。カメラはゆっくり前進、または短い横移動に限定する。
-
-場所の移動は編集のカットで表現する。壁や扉を通り抜けるカメラ移動、部屋同士の変形による場面転換はしない。女性はその場で小さく身振りをする程度とし、複雑な歩行や扉の開閉は行わない。
-
-【30秒の構成】
-
-0.0〜4.5秒｜玄関前のお迎え
-画像2を基準に、家と女性が一緒に見えるワイドショットから緩やかに近づく。
-女性はカメラに微笑み、玄関へそっと手を向ける。
-女性の台詞：
-「木のぬくもりを感じる平屋へ、ようこそ。」
-テロップ：
-「木のぬくもりと暮らす平屋」
-
-4.5〜8.5秒｜玄関収納
-画像3へカット。玄関収納と廊下が分かる構図を保つ。
-女性が収納へ自然に手のひらを向ける。カメラはわずかに横移動。
-女性の台詞：
-「玄関には、すっきり収まる収納を。」
-テロップ：
-「玄関収納」
-
-8.5〜14.5秒｜LDK
-画像4へカット。ダイニング、キッチン、リビングを広く見せる。
-女性はカメラから室内へ視線を移し、小さな身振りで紹介する。
-ゆっくりした引きの動きで空間の広がりを伝える。
-女性の台詞：
-「家族が集まるリビングは、明るく、開放的です。」
-テロップ：
-「光が広がるリビング」
-
-14.5〜19.5秒｜キッチンと庭
-画像5へカット。手前のキッチンから窓越しのウッドデッキまで見せる。
-女性は庭へ手を向ける。カメラは少しだけ前進し、庭への見通しを強調する。
-女性の台詞：
-「キッチンからは、庭まで見渡せます。」
-テロップ：
-「庭へつながる開放感」
-
-19.5〜25.0秒｜主寝室と収納
-画像6へカット。女性、ベッド、開いたウォークインクローゼットを一緒に見せる。
-女性が収納を紹介し、最後にカメラへ視線を戻す。
-女性の台詞：
-「寝室には、ウォークインクローゼットも備えています。」
-テロップ：
-「主寝室・ウォークインクローゼット」
-
-25.0〜30.0秒｜庭側外観・エンディング
-画像7へカット。家全体とウッドデッキを見せる、穏やかな引きのショット。
-このカットは人物を追加せず、同じ女性の声をナレーションとして重ねる。
-ナレーション：
-「心地よい毎日を、この住まいから。」
-中央下寄りのテロップ：
-「心地よい毎日を、この住まいから。」
-最下部に小さく：
-「架空の物件紹介イメージ」
-最後の約1秒は構図を落ち着かせ、音楽とともに自然に終える。
-
-【声・BGM】
-女性の声は、落ち着いた明瞭な標準日本語。自然な接客口調で、急がず、台詞間に短い余韻を残す。
-女性が映る場面は台詞と口の動きを合わせる。最後のみ画面外のナレーション。
-台詞は指定どおりとし、追加の説明や英語を入れない。
-
-BGMは、柔らかなピアノと薄い弦楽器によるオリジナルのインストゥルメンタル。穏やかなテンポ、上品で温かい雰囲気。全編を通して同じ曲を流し、場面転換で曲をリセットしない。声が常に明瞭に聞こえる音量に抑え、最後に自然にフェードアウトする。歌声、強いビート、派手な効果音は不要。
-
-【テロップ】
-指定した短い日本語のみを正確に表示する。通常は画面左下の余白に、読みやすい白のゴシック体と薄い影で配置。画面端から十分な余白を取り、顔、手、紹介する設備を隠さない。
-各カットにつき1つ、静かなフェードで出し入れする。台詞全文の字幕は追加しない。
-最後のコピーのみ上品な明朝体を使用する。
-
-【制約】
-全体を正確に30秒に収める。
-人物の入れ替わり、複製、顔の変化、不自然な指、家具との接触や貫通を避ける。
-住宅の階数、窓、扉、収納、家具を増減しない。
-実在企業の名称・ロゴ、価格、所在地、販売実績、検証されていない面積や性能は表示しない。
-```
-
-</details>
-
-<a id="seedance-karakoram-motorcycle-commercial"></a>
-### Motorcycle rider tracking shot on Karakoram Highway
-
-<a href="https://x.com/AI_with_Antonio/status/2088599346908365227"><img src="../../previews/seedance-karakoram-motorcycle-commercial.jpg" width="360"></a>
-
-The prompt lays out a four shot sequence with a named camera move for each shot, so the clip reads as an edit rather than one static tracking shot. It locks the rider's outfit and bike proportions up front and repeats the constraints in a closing list of things to avoid, which keeps the rider and motorcycle consistent across cuts.
-
-Seedance 2.5 · Text-to-video · Source: [@AI_with_Antonio on X](https://x.com/AI_with_Antonio/status/2088599346908365227)
-
-[`motorcycle`](tags.md#tag-motorcycle) [`tracking-shot`](tags.md#tag-tracking-shot) [`mountain-road`](tags.md#tag-mountain-road) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 10-second photorealistic cinematic motorcycle commercial featuring a young 24-year-old male rider with an athletic, muscular physique, riding a Suzuki GS150SE along the Karakoram Highway in northern Pakistan at approximately 100+ km/h. The rider looks confident and energetic, wearing a premium black riding jacket with the sleeves fitted around his muscular arms, dark riding pants, gloves, riding boots, and a full-face helmet. Keep his appearance, clothing, helmet, and body proportions identical throughout the entire clip. The Suzuki GS150SE should remain accurately proportioned and visually consistent, with realistic suspension movement, wheel rotation, chain movement, engine vibration, brake components, exhaust, mirrors, and authentic motorcycle details. The highway winds dramatically through enormous snow-covered Karakoram mountains, with towering icy peaks visible in the distance. Cold mountain atmosphere, patches of snow beside the road, crisp blue sky, thin clouds, distant glaciers, and realistic high-altitude lighting. Cinematic Direction: Begin with a low front three-quarter tracking shot of the GS150SE approaching at speed. Transition into a side tracking shot showing the rider enjoying the mountain scenery while maintaining control of the motorcycle. Briefly show a helmet-level POV looking down the sweeping Karakoram Highway toward massive snow-covered peaks. Use realistic aerodynamic effects: subtle airflow flowing around the rider and motorcycle, jacket fabric reacting naturally to wind, slight suspension compression over road imperfections, realistic tire contact, and controlled motion blur. Finish with a dramatic rear three-quarter tracking shot as the motorcycle disappears along the winding highway, surrounded by enormous icy mountains. Visual style: photorealistic, premium motorcycle commercial, cinematic 4K, natural mountain lighting, realistic physics, detailed motorcycle textures, dynamic tracking camera, shallow depth of field where appropriate, subtle lens flare, realistic motion blur, immersive scale, epic Himalayan/Karakoram atmosphere. Important: No distorted motorcycle parts, no extra limbs or fingers, no changing rider appearance, no duplicated motorcycle components, no unrealistic wheel geometry, no floating motorcycle, no excessive CGI effects, and no text overlays unless specifically requested. Overall feeling: freedom, adventure, power, solitude, mountain exploration, and the thrill of riding through the Karakoram.
-```
-
-</details>
-
-<a id="seedance-kawasaki-ninja-h2r-ugc-promo"></a>
-### Creator walks toward Kawasaki Ninja H2R in garage
-
-<a href="https://x.com/KevinVailAI/status/2104811263381721348"><img src="../../previews/seedance-kawasaki-ninja-h2r-ugc-promo.jpg" width="360"></a>
-
-A timed shot list with one beat per scene and the spoken lines written into each beat gives the model a clear structure for dialogue and cuts. The handheld smartphone framing, plus an explicit avoid list for CGI look, plastic textures and riding physics, keeps the result reading as real creator footage.
-
-Seedance 2.5 · Text-to-video · Source: [@KevinVailAI on X](https://x.com/KevinVailAI/status/2104811263381721348)
-
-[`ugc`](tags.md#tag-ugc) [`motorcycle`](tags.md#tag-motorcycle) [`product-promo`](tags.md#tag-product-promo) [`dialogue`](tags.md#tag-dialogue)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second ultra-realistic UGC-style promotional video featuring a Kawasaki Ninja H2R. The video should feel like authentic footage filmed by a confident motorcycle creator, while maintaining premium cinematic quality.
-Scene 1, 0–5 seconds: Start with a handheld smartphone-style shot of the creator walking toward the Kawasaki Ninja H2R parked in a modern underground garage. The creator looks into the camera and says naturally, “Okay, this might be one of the wildest bikes I’ve ever seen.” Quick close-ups reveal the sharp front fairing, aerodynamic bodywork, carbon-fiber details, exposed mechanical elements, and aggressive styling.
-
-Scene 2, 5–12 seconds: Cut to the creator sitting on the motorcycle and starting the engine. Capture the realistic engine sound, subtle vibration, dashboard lighting, and exhaust note. The creator says, “The Ninja H2R just looks absolutely insane in person.” Use natural handheld camera movement mixed with cinematic close-up shots.
-
-Scene 3, 12–22 seconds: Show the motorcycle riding on a closed professional track. Use dynamic tracking shots from multiple realistic camera positions, including low side angles, rear follow shots, and wide track shots. Show controlled acceleration, cornering, and aerodynamic movement without reckless public-road behavior. Add realistic tire movement, suspension response, wind interaction, and natural motion blur.
-
-Scene 4, 22–27 seconds: Return to the creator standing beside the parked bike. He looks at the camera and says, “The design, the sound, the presence… everything feels next level.”
-
-Scene 5, 27–30 seconds: Finish with a slow cinematic reveal of the Ninja H2R from front three-quarter angle as the creator walks away. End with clean on-screen text: “Ninja H2R. Built to stand apart.”
-
-Visual style: authentic UGC meets premium motorcycle commercial. Photorealistic live-action appearance, natural skin texture, realistic motorcycle materials, accurate proportions, physically believable movement, natural lighting, subtle handheld imperfections, realistic audio synchronization, cinematic depth of field, smooth transitions, detailed reflections, 4K quality. Avoid CGI appearance, plastic textures, distorted motorcycle geometry, unrealistic riding physics, duplicated bikes, fake-looking environments, excessive camera shake, or exaggerated effects.
-```
-
-</details>
-
-<a id="seedance-laundry-day-voiceover-commercial"></a>
-### Laundry day commercial with warm voiceover
-
-<a href="https://x.com/CaliraVal/status/2091386310837862772"><img src="../../previews/seedance-laundry-day-voiceover-commercial.jpg" width="360"></a>
-
-The 30 second timeline is split into timed beats, each paired with a spoken voiceover line, so action and narration stay in sync. A closing style block lists lighting, camera, sound and no text or logo constraints.
-
-Seedance 2.5 · Text-to-video · Source: [@CaliraVal on X](https://x.com/CaliraVal/status/2091386310837862772) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`commercial`](tags.md#tag-commercial) [`voiceover`](tags.md#tag-voiceover) [`timed-beats`](tags.md#tag-timed-beats) [`lifestyle`](tags.md#tag-lifestyle) [`vertical`](tags.md#tag-vertical)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
-
-0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
-Voiceover: “Laundry day starts with one simple step.”
-
-5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
-Voiceover: “I just load all my clothes into the washing machine…”
-
-10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
-Voiceover: “…add my detergent…”
-
-13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
-Voiceover: “…and let the machine do the work.”
-
-17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
-Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
-
-22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
-Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
-
-28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
-Voiceover: “Clean, fresh, and ready to wear.”
-
-Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.
-```
-
-</details>
-
-<a id="seedance-luxury-hair-dryer-case-macro-pan"></a>
-### Closed violet leather case on reflective studio surface
-
-<a href="https://x.com/AvelyrahnAI/status/2093932080497594740"><img src="../../previews/seedance-luxury-hair-dryer-case-macro-pan.jpg" width="360"></a>
-
-Breaking the shot into timed beats (closed case, lid lifts, macro pan across the attachments) gives the model a clear sequence to follow. Naming the lighting, reflections and depth of field keeps the product look consistent through the cut.
-
-Seedance 2.5 · Text-to-video · Source: [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2093932080497594740)
-
-[`product-shot`](tags.md#tag-product-shot) [`macro-pan`](tags.md#tag-macro-pan) [`studio-lighting`](tags.md#tag-studio-lighting) [`hair-dryer`](tags.md#tag-hair-dryer)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A sleek, high-end 3D cinematic commercial shot of a luxury blue and copper styling tool set. The sequence begins with a closed violet leather storage case resting on a glossy reflective surface under moody studio lighting. The case lid automatically lifts open to reveal a premium blue hair dryer with glowing copper accents. Smooth macro camera pan moves to showcase individual attachments—smoothing nozzles, diffuser, and styling barrels—arranging themselves neatly on the reflective surface next to the main device. Clean, minimalist luxury product presentation, hyper-realistic textures, studio soft-box reflections, cinematic depth of field, 4k resolution, smooth 60fps motion.
-```
-
-</details>
-
-<a id="seedance-luxury-perfume-dark-reveal-macro-mist"></a>
-### Dark perfume bottle revealed with mist and macro splashes
-
-<a href="https://x.com/juliaevee/status/2095745759027028252"><img src="../../previews/seedance-luxury-perfume-dark-reveal-macro-mist.jpg" width="360"></a>
-
-Opens in pitch darkness, then reveals the product under rim lights and cycles through named shots: a tilt on the label, a macro water splash, and a slow motion finger press on the nozzle. Writing the exact label text in the prompt pins the on-bottle wording.
-
-Seedance 2.5 · Text-to-video · Source: [@juliaevee on X](https://x.com/juliaevee/status/2095745759027028252)
-
-[`perfume`](tags.md#tag-perfume) [`product-ad`](tags.md#tag-product-ad) [`macro`](tags.md#tag-macro) [`slow-motion`](tags.md#tag-slow-motion)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Cinematic 19-second commercial ad for a luxury perfume. The video starts in pitch darkness, slowly revealing a dark blue glass perfume bottle with a round silver metallic cap resting on dark folded leather, labeled "BLUE BY ISHQ EAU DE PARFUM 50 ML". Dynamic lighting shifts with sharp rim highlights outlining the bottle. A fine mist spray fills the air with delicate water particles illuminated by a spotlight behind the bottle. The camera transitions through dramatic angles: a close-up tilt shot of the label, macro water drops splashing dynamically around the glass base, a close-up of a finger pressing the metallic nozzle spraying a fine fragrance mist in slow motion, and a smooth rotating camera motion. High-end moody aesthetic, dramatic music beat sync, 8k resolution, ultra-realistic product commercial photography.
-```
-
-</details>
-
-<a id="seedance-luxury-ugc-sunglasses-review"></a>
-### UGC creator reviews luxury sunglasses on a sunlit bed
-
-<a href="https://x.com/AIwithSynthia/status/2086286356201066501"><img src="../../previews/seedance-luxury-ugc-sunglasses-review.jpg" width="360"></a>
-
-Reference images lock the character and the three products, then each spoken line is tied to a named camera action so the handheld feel, macro shots and lip sync stay in order. Sequencing the beats from box to mirror to close-up keeps the product consistent across the cuts.
-
-Seedance 2.5 · Reference-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2086286356201066501)
-
-[`ugc`](tags.md#tag-ugc) [`product-review`](tags.md#tag-product-review) [`reference-images`](tags.md#tag-reference-images) [`lip-sync`](tags.md#tag-lip-sync)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded sunglasses, retail box, and leather carrying case as locked product references. Maintain perfect product consistency, including the frame shape, lenses, hinges, colors, materials, and proportions.
-
-Create an ultra-realistic UGC luxury creator review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.
-
-The video begins with the woman sitting on the bed beside the retail box and leather case. Smiling at the camera, she says, "I genuinely wasn't expecting to love these this much." She picks up the box, opens it naturally, reveals the leather case, then slowly removes the sunglasses while continuing, "The packaging already feels incredibly premium."
-
-She rotates the sunglasses slowly in front of the camera, showing the frame, hinges, and lenses as natural reflections glide across the surface. She smiles and says, "The finish feels amazing, and they're incredibly lightweight."
-
-She puts on the sunglasses, stands up, and walks toward a large full-length mirror. Looking at her reflection, she adjusts the frame naturally and says, "Honestly... they look so good, and they're really comfortable on the eyes, even in bright sunlight."
-
-She turns slightly left and right so the sunglasses catch the sunlight from different angles before removing them with a smile. Walking back to the bed, she places the sunglasses beside the leather case and retail box, then picks them up one last time and holds them beside her face.
-
-Looking directly into the camera, she smiles warmly and says, "Definitely one of my favorite accessories this year." The camera slowly pushes in on the sunglasses before fading out.
-
-Ultra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro product cinematography, realistic reflections, detailed frame textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no logos, no watermarks, no on-screen text on it
-```
-
-</details>
-
-<a id="seedance-new-york-coffee-spill-slow-motion"></a>
-### Woman with dog on sunlit New York sidewalk
-
-<a href="https://x.com/AvelyrahnAI/status/2094420859960045616"><img src="../../previews/seedance-new-york-coffee-spill-slow-motion.jpg" width="360"></a>
-
-Written as a timed beat sequence: a calm walking setup, a trip that starts a slow motion suspension, then a macro insert of the branded cup and the BOSS call screen before everything drops. Quoted text for the cup, flyer and call screen fixes the wording, and the golden hour light and dog are named so the setting holds.
-
-Seedance 2.5 · Text-to-video · Source: [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2094420859960045616) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`slow motion`](tags.md#tag-slowmotion) [`golden-hour`](tags.md#tag-golden-hour) [`new-york`](tags.md#tag-new-york) [`pet`](tags.md#tag-pet)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A stylish young woman walking confidently down a busy New York city sidewalk during golden hour, wearing a dark fitted t-shirt, relaxed dark jeans, and sneakers, talking on her smartphone and holding an iced coffee and a cafe menu, with a golden retriever dog walking on a leash beside her; suddenly, she trips and drops her phone, iced coffee cup, and a "YA HALA COFFEE - FALL MENU" flyer mid-stride, causing the items to suspend mid-air in slow motion with magical liquid splashes and floating autumn leaves, transitioning to a macro close-up of the branded coffee cup and a smartphone displaying an incoming call from "BOSS" before everything drops back to the pavement in a dynamic, high-octane commercial cinematic style.
-```
-
-</details>
-
-<a id="seedance-nike-air-max-deadline-twist-ad"></a>
-### Creative director at night beside Nike Air Max
-
-<a href="https://x.com/SyntheSarah/status/2096099021152498159"><img src="../../previews/seedance-nike-air-max-deadline-twist-ad.jpg" width="360"></a>
-
-Timed beats with a time code for each segment and the dialogue written inline keep the 30 second spot in order. A fixed rule for the character's face, hair and outfit, plus per beat audio cues for keyboard, footsteps and the music drop, controls continuity and comedy timing.
-
-Seedance 2.5 · Text-to-video · Source: [@SyntheSarah on X](https://x.com/SyntheSarah/status/2096099021152498159) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`advertising`](tags.md#tag-advertising) [`sneakers`](tags.md#tag-sneakers) [`character-consistency`](tags.md#tag-character-consistency) [`timed-beats`](tags.md#tag-timed-beats) [`sound-design`](tags.md#tag-sound-design)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second ultra-photorealistic cinematic commercial for Nike Air Max, combining premium sports advertising, creativity, subtle comedy, and a surprising twist.
-
-Keep the female creative director’s face, hairstyle, clothing, body proportions, and appearance perfectly consistent throughout.
-
-0–4s — THE DEADLINE
-Late-night creative studio. A stylish young female creative director sits surrounded by monitors and unfinished projects. Nike Air Max sneakers sit on her desk. Notifications appear rapidly. She says:
-“Five projects. One deadline.”
-
-4–8s — THE IDEA
-She looks at the Nike Air Max, gets an idea, rapidly creates a campaign on her computer, and hits ENTER. The screen flashes.
-
-8–16s — THE CAMPAIGN
-A powerful athlete wearing the same Nike Air Max runs through multiple cinematic environments: a futuristic city at sunrise, rain-soaked streets, and mountains. Show extreme close-ups of the sneakers, realistic Air Max cushioning compression, pavement impacts, water splashes, and seamless match cuts between locations.
-
-16–21s — DONE
-Back in the studio, her monitors display polished Nike Air Max campaign visuals. Only seconds have passed. Shocked, she says:
-“Wait… that's it?”
-
-21–26s — THE TWIST
-She relaxes with coffee. A notification appears: CAMPAIGN APPROVED. She smiles. Another appears:
-CLIENT: “Can we make 10 more?”
-Her smile disappears. She looks at the camera and says:
-“Never mind.”
-
-26–30s — HERO REVEAL
-Extreme cinematic product shot of Nike Air Max on a dark reflective surface. Dramatic lighting, floating particles, slow camera rotation. Final frame:
-NIKE — JUST DO IT.
-
-STYLE: Ultra-photorealistic, premium global sports commercial, cinematic lighting, realistic skin, fabric, reflections, shadows, natural motion, dynamic camera movement, shallow depth of field, subtle slow motion. No cartoon style, distorted anatomy, fake logos, fake text, watermarks, or altered shoe design.
-
-AUDIO: Keyboard and notification sounds at the start, building into energetic cinematic music during the running sequence. Powerful footsteps, sneaker impacts, water splashes, and bass hits. Music drops for the comedy moment and ends with a strong cinematic hit.
-```
-
-</details>
-
-<a id="seedance-nz-rain-street-nike-sony"></a>
-### Woman in Nike jacket on rainy Auckland street
-
-<a href="https://x.com/Strength04_X/status/2097303258171949530"><img src="../../previews/seedance-nz-rain-street-nike-sony.jpg" width="360"></a>
-
-A fixed look block locks the lead's face, outfit and earphones, and a timed shot list with hard cuts keeps her consistent across locations. Naming physical details such as rain beads on fabric and the visible earphone cable makes the footage read as real live-action rather than CGI.
-
-Seedance 2.5 · Text-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2097303258171949530) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fashion`](tags.md#tag-fashion) [`travel`](tags.md#tag-travel) [`rain`](tags.md#tag-rain) [`shot-list`](tags.md#tag-shot-list)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-[GENERATION GOAL]
-30-second cinematic fashion-travel music video following one beautiful sweet slim young woman across New Zealand — starting on a rainy Auckland street, moving through a coastal train journey, green countryside and finally a dramatic black-sand beach where she dances with a friend. She listens to music through white wired earphones and carries a Sony compact camera. Photoreal live-action, energetic editorial pacing, hard cuts only.
-
-[CORE LOOK]
-Premium outdoor fashion commercial meets cinematic road-trip film.
-Cool blue rain, emerald greens, volcanic black sand, warm sunset skin tones.
-Natural film grain, subtle lens bloom, realistic moisture and atmospheric perspective.
-24fps, 180-degree shutter.
-No artificial CGI look, no beauty smoothing, no warped faces, no duplicated people, no random text, no watermarks.
-
-[LEAD]
-Generate a new original beautiful sweet slim woman in her early 20s.
-Heart-shaped face, bright hazel-brown eyes, long dark wavy hair, soft straight brows, subtle brown eyeliner, naturally glossy peach lips, fair warm skin with realistic freckles across nose and cheeks, slim athletic figure, delicate hands, short glossy pale-pink nails.
-She has an innocent sweet smile and playful personality.
-No glasses.
-She never speaks.
-
-White wired earphones in both ears whenever she appears. Cable remains visible.
-
-[FRIEND]
-Appears from 22s onward.
-Young East-Asian woman, early 20s, short dark bob haircut, oversized pale-yellow sweatshirt, loose denim trousers, white sneakers.
-No earphones.
-
-[FASHION / PRODUCT]
-LOOK A 0–6.5s:
-Royal-blue Nike windbreaker, black straight-leg pants, white sneakers, small black shoulder bag. Sony RX100-style compact camera in hand.
-
-LOOK B 6.5–15.5s:
-Cream Nike cropped fleece jacket, forest-green cargo skirt over black leggings, silver watch, cream mini backpack.
-
-LOOK C 15.5–30s:
-Graphite Nike lightweight track jacket, loose black trousers, white sneakers, small silver hoop earrings.
-
-No Adidas. No Puma. Nike branding stays physically correct and understated.
-
-[LOCATIONS]
-LOC 1 — Auckland rainy street:
-Glass towers, wet pavement, neon reflections, green trees, moving pedestrians and buses.
-
-LOC 2 — Historic railway platform:
-Dark green station canopy, old benches, rain droplets, passengers waiting naturally.
-
-LOC 3 — Coastal train:
-Large window, ocean cliffs outside, woman seated beside window.
-
-LOC 4 — Train reflection:
-Close-up of her face reflected in rain-covered glass, city disappearing behind.
-
-LOC 5 — Countryside station:
-Wooden platform, green hills, sheep pasture in distance.
-
-LOC 6 — Mountain road:
-Long winding road through emerald hills.
-
-LOC 7 — Waterfall trail:
-Wet wooden walkway, huge waterfall behind mist.
-
-LOC 8 — Black-sand beach:
-Wide volcanic beach, dark rocks, crashing turquoise-grey ocean.
-
-LOC 9 — Cliff path:
-Grass-covered cliff edge, strong ocean wind.
-
-LOC 10 — Beach café:
-Small wooden café, surfboards, warm interior lights.
-
-LOC 11 — Coastal overlook:
-Two wooden benches facing ocean.
-
-LOC 12 — Final beach plaza:
-Open black-sand area with distant cliffs and sea.
-
-[30-SECOND TIMELINE]
-
-0.0–2.2s
-SHOT 1 — RAIN OPEN
-50mm handheld close-up. Woman walks beneath light rain in LOOK A. Drops collect on blue jacket. She smiles while listening to music.
-
-2.2–3.8s
-SHOT 2 — CAMERA DETAIL
-85mm ECU. Her fingers switch Sony camera mode. White earphone cable crosses jacket naturally.
-
-3.8–6.5s
-SHOT 3 — STREET CROSS
-35mm tracking shot. She crosses wet street, turns toward camera with a small smile. Bus passes behind, creating natural foreground wipe.
-
-6.5–8.6s
-SHOT 4 — PLATFORM CUT
-Hard cut on bus wipe. LOOK B. She walks onto railway platform holding camera and cream backpack.
-
-8.6–10.4s
-SHOT 5 — TRAIN ARRIVAL
-24mm. Train enters frame, wind moves her hair and fleece. She looks toward it.
-
-10.4–12.6s
-SHOT 6 — WINDOW
-50mm inside train. She sits beside window, earphones visible, cheek against glass, watching countryside.
-
-12.6–14.2s
-SHOT 7 — REFLECTION
-85mm close. Her face reflected in rain-streaked window. She closes eyes for a second and smiles.
-
-14.2–16.0s
-SHOT 8 — TITLE
-Hard cut to countryside station.
-She steps down from train.
-Huge yellow condensed text:
-【NEW ZEALAND】
-appears vertically beside her as she walks forward.
-
-16.0–18.0s
-SHOT 9 — GREEN HILLS
-24mm wide. LOOK C begins. She walks through a grassy mountain road, camera tracking sideways. Clouds move across distant hills.
-
-18.0–19.8s
-SHOT 10 — WATERFALL
-Wide 24mm. She stands near wet wooden trail, turns toward massive waterfall and laughs.
-
-19.8–21.6s
-SHOT 11 — OCEAN REVEAL
-Hard cut. She walks over grassy cliff path. Camera starts behind her and gently moves beside her, revealing black-sand beach below.
-
-21.6–23.2s
-SHOT 12 — FRIEND ARRIVAL
-Friend enters from frame right holding two takeaway drinks. Lead turns and laughs.
-
-23.2–25.0s
-SHOT 13 — BEACH WALK
-35mm two-shot. Both walk barefoot along black sand, shoes in hands, laughing naturally. Wind moves their clothes.
-
-25.0–26.4s
-SHOT 14 — CAMERA SNAP
-85mm. Friend takes Sony camera from lead and quickly photographs her. Lead laughs and covers face playfully.
-
-26.4–28.0s
-SHOT 15 — RUN TO WATER
-Wide 24mm. Both run toward shallow waves, jackets and hair moving naturally.
-
-28.0–30.0s
-SHOT 16 — DANCE + TITLE
-Wide-to-medium. They stop near beach café and dance freely to music, no choreography.
-At 28.6s bold yellow condensed text hits:
-【KEEP MOVING】
-Then at 29.3s:
-【KEEP DREAMING】
-Both stacked over the dancing pair.
-Lead throws one arm upward and laughs.
-Hard cut to black.
-
-[CAMERA / MOVEMENT]
-Rain shots: handheld 50mm.
-Train: locked and intimate 50–85mm.
-Landscape: 24mm with natural atmospheric depth.
-Beach: low 24mm and gentle lateral tracking.
-No drone orbit.
-No crash zoom.
-No artificial slow motion.
-Hard cuts motivated by movement.
-
-[PHYSICS]
-Rain beads remain physically attached to fabric.
-Wet pavement reflects real light.
-Hair reacts to wind and moisture.
-Earphone cable never vanishes.
-Camera has realistic weight.
-Fleece and nylon wrinkle naturally.
-Ocean spray moves independently.
-Footsteps disturb wet sand realistically.
-
-[LIGHTING]
-Auckland: cool cloudy daylight and practical city reflections.
-Train: soft window light.
-Countryside: diffused cloud light.
-Waterfall: cool mist bounce.
-Beach: overcast coastal light transitioning into warm late-day glow.
-Faces retain realistic skin texture and eye catchlights.
-
-[AUDIO]
-Rain hitting jacket.
-Street traffic.
-Train brakes and rail vibration.
-Camera shutter.
-Distant waterfall.
-Ocean wind.
-Footsteps on wet sand.
-Small natural laughs.
-No dialogue.
-No voiceover.
-No lyrics.
-Only two specified English title cards.
-
-[FINAL CONSISTENCY]
-One original lead throughout.
-Friend only from 21.6s.
-White wired earphones remain visible.
-Nike is the only fashion-sports brand.
-Sony compact camera remains consistent.
-Photoreal premium live-action.
-No anime, no 3D, no plastic skin.
-```
-
-</details>
-
-<a id="seedance-overhead-rug-outfit-transitions-ceiling-fan"></a>
-### Overhead Outfit Changes on Persian Rug
-
-<a href="https://x.com/Zoyavelle/status/2108060187840180394"><img src="../../previews/seedance-overhead-rug-outfit-transitions-ceiling-fan.jpg" width="360"></a>
-
-Fixing the pose, camera angle, room and face in one sentence lets only the outfits change, and a named list of outfits in order gives the transitions a clear sequence. The rotating ceiling fan blades in the foreground add depth and natural motion blur to a static top-down shot.
-
-Seedance 2.5 · Text-to-video · Source: [@Zoyavelle on X](https://x.com/Zoyavelle/status/2108060187840180394) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fashion`](tags.md#tag-fashion) [`outfit-transition`](tags.md#tag-outfit-transition) [`top-down`](tags.md#tag-top-down) [`photorealistic`](tags.md#tag-photorealistic) [`cozy-interior`](tags.md#tag-cozy-interior)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living room, viewed through the wooden blades of a slowly rotating ceiling fan in the foreground. She has natural black hair and a calm relaxed expression. The scene uses warm golden indoor lighting, realistic wooden flooring, detailed traditional carpet patterns, soft shadows, and a cozy aesthetic interior. The woman appears in a simple black dress at first, then smoothly transitions through several different fashionable outfits while maintaining the exact same pose, position, camera angle, environment, and facial identity. Outfit transitions include a soft pink cardigan with a white dress, a red cardigan over a white top, and finally a brown textured dress. Highly photorealistic, natural skin texture, realistic fabric details, cinematic lighting, shallow depth of field, subtle motion blur from the rotating ceiling fan, smooth seamless outfit transformation, professional fashion video, DSLR quality, ultra-detailed, 4K, realistic proportions, stable overhead camera, no text, no watermark.
-
-Camera: fixed top-down perspective, ceiling fan blades passing naturally across the frame, slow smooth motion.
-Aspect ratio: 16:9.
-Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless transitions.
-```
-
-</details>
-
-<a id="seedance-pan-fried-bao-juice-burst"></a>
-### Pan fried bao bursting with golden broth
-
-<a href="https://x.com/Lianaalane/status/2096903888813330826"><img src="../../previews/seedance-pan-fried-bao-juice-burst.jpg" width="360"></a>
-
-Written as an ordered shot list, each shot naming a camera distance and one physical action such as a chopstick lift, a tear or a spatula flip, which gives the model a clear sequence to follow. Texture cues like steam, drips and crust are stated as visible events rather than adjectives, which keeps the look consistent across cuts.
-
-Seedance 2.5 · Text-to-video · Source: [@Lianaalane on X](https://x.com/Lianaalane/status/2096903888813330826) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`food`](tags.md#tag-food) [`asmr`](tags.md#tag-asmr) [`close-up`](tags.md#tag-close-up) [`steam`](tags.md#tag-steam) [`street-food`](tags.md#tag-street-food)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups.  
-Wooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights.
-```
-
-</details>
-
-<a id="seedance-red-bull-wings-highway-takeoff"></a>
-### Red Bull can rolls across stopped highway traffic
-
-<a href="https://x.com/azed_ai/status/2100947530431520915"><img src="../../previews/seedance-red-bull-wings-highway-takeoff.jpg" width="360"></a>
-
-Timed beats chain each action to the next, so the spilled cans stop traffic, the grab and first sip trigger the wings, and the crowd follows. A low road-level camera races beside the rolling can, and whip pans and speed ramps are motivated by physical action rather than cuts for their own sake.
-
-Seedance 2.5 · Text-to-video · Source: [@azed_ai on X](https://x.com/azed_ai/status/2100947530431520915) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`red-bull`](tags.md#tag-red-bull) [`commercial`](tags.md#tag-commercial) [`transformation`](tags.md#tag-transformation) [`crowd`](tags.md#tag-crowd)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an explosive, energetic, photorealistic Red Bull commercial that transforms an ordinary highway accident into a rapidly escalating spectacle built around the literal realization of “Red Bull gives you wings.” A Red Bull delivery truck has experienced a minor non-injury accident on a mountain highway, causing hundreds of intact cans to spill across the road and bring traffic to a complete stop, but the frustration of the stranded drivers quickly turns into excitement when one person grabs a can, drinks it, suddenly grows enormous wings, and launches into the sky, triggering a contagious wave of people rushing from their cars, grabbing cans, drinking, transforming, and taking flight until the entire highway erupts into a massive airborne celebration.
-
-The commercial should build energy continuously rather than repeatedly stopping for reactions, with faster camera movement, aggressive transitions motivated by physical action, dynamic crowd behavior, cans rolling beneath vehicles, doors opening simultaneously, people sprinting between cars, rapid transformations, powerful wing movements, wind blasting across the road, loose clothing whipping through the air, papers flying from vehicles, and increasingly dramatic takeoffs that culminate in dozens of people racing through the sky above the abandoned traffic.
-
-Set the commercial on a spectacular mountain highway during brilliant late-afternoon sunlight, where a Red Bull delivery truck has stopped diagonally across several lanes after a minor accident and its rear cargo section has opened, releasing hundreds of shiny Red Bull cans that scatter across the asphalt between a long line of stopped cars. Nobody is injured and there is no fire, blood, panic, or graphic destruction, while the accident functions purely as the energetic setup that releases the product and interrupts the traffic.
-
-Use premium high-energy sports-commercial cinematography with fast tracking shots, low road-level cameras racing beside rolling cans, aggressive push-ins, sweeping crane movements, vehicle-mounted perspectives, whip pans motivated by action, energetic handheld moments inside the crowd, dramatic aerial tracking, speed ramps around transformations, and powerful upward camera movements during takeoffs, while preserving enough visual continuity that every action clearly causes the next.
-
-[00:00-00:04] RED BULL EVERYWHERE
-
-Open at maximum energy with a low camera racing inches above the highway behind several Red Bull cans as they roll rapidly across the asphalt, bouncing between stopped tires while car brakes squeal and doors begin opening around them, before whipping upward to reveal the Red Bull delivery truck positioned diagonally farther ahead with hundreds of additional cans scattered across the road. Drivers lean from windows, passengers point toward the cans, horns echo through the mountain pass, and one can spins away from the larger pile before rolling directly toward a person stepping from a sports car.
-
-[00:04-00:08] CRACK IT OPEN
-
-Follow the same can without breaking continuity as the person catches it with one hand, looks toward the enormous spill, grins, snaps the tab open with a sharp CRACK, and drinks while the camera circles rapidly around them and nearby drivers begin grabbing cans for themselves. As the first person lowers the can, their jacket suddenly pulls backward as if caught by a powerful gust, enormous feathered wings burst outward and unfold behind them with enough force to send loose papers and dust sweeping across the road, while the surrounding crowd erupts in astonished shouts.
-
-The transformed person looks at the wings, looks at the can, smiles, and says, “Okay... that works.”
-
-[00:08-00:13] EVERYONE WANTS ONE
-
-The first transformation immediately triggers chaos as dozens of people rush from their stationary cars toward the scattered cans, while the camera charges alongside them at road level and follows hands grabbing cans directly from the asphalt before rapidly cutting between tabs snapping open, cans tilting upward, people drinking, eyes widening, clothing beginning to move, and enormous wings unfolding one after another across the highway. Each transformation sends another blast of air through the crowd, causing hair, jackets, newspapers, shopping receipts, and lightweight objects to whip through the frame as the previously ordinary traffic jam becomes increasingly surreal.
-
-A person sees wings explode open beside them, looks excitedly at the Red Bull can in their hand, and shouts, “I’m definitely drinking this!”, before opening it immediately.
-
-[00:13-00:18] TAKEOFF
-
-The original transformed driver takes several running steps between the stationary cars, spreads their wings completely, and launches powerfully upward as the camera races behind them before tilting vertically toward the sky, while several newly transformed people immediately follow from different parts of the same highway. One person runs across the roof line between two stationary vehicles before lifting safely into the air, another rises directly from the road with several enormous wing beats, while a group farther behind launches almost simultaneously and creates a huge blast of wind that sends abandoned newspapers swirling through the traffic.
-
-Keep accelerating the editing rhythm as every new takeoff motivates the next camera movement, making the road feel increasingly empty while the sky becomes increasingly crowded.
-
-[00:18-00:23] THE HIGHWAY TAKES FLIGHT
-
-Transition into a breathtaking aerial chase as dozens of winged people race above the highway, diving between mountain ridges, banking around one another, climbing through sunlight, and laughing as they discover how naturally they can fly, while the camera moves with the speed and aggression of an extreme-sports commercial rather than observing them passively from a distance. Several flyers race alongside one another above the valley before one dives toward the highway, skims above the abandoned cars, then pulls upward at the last moment as the camera follows into a dramatic vertical climb.
-
-Far below, more people continue drinking and launching from the road, creating a constant stream of new flyers joining the enormous formation overhead.
-
-[00:23-00:27] EVERYONE IS GONE
-
-Dive rapidly from the flying crowd back toward the highway and race through the traffic at road level, revealing car after car sitting completely abandoned with doors still open while Red Bull cans roll slowly between the tires and the enormous traffic jam that seemed impossible to escape only seconds earlier has become strangely empty. The camera continues accelerating toward the delivery truck until the driver steps from behind it, looks around at the deserted vehicles, then slowly looks upward and sees hundreds of wings crossing the golden sky above him.
-
-He looks toward one remaining Red Bull can beside his shoe.
-
-He smiles.
-
-[00:27-00:30] ONE LAST TAKEOFF
-
-The driver grabs the can, snaps it open, drinks immediately, and enormous wings unfold behind him as the camera pulls backward from the force of the movement, before he launches straight upward and the camera follows him into the sky where he joins the enormous airborne crowd racing toward the horizon. As everyone sweeps past the camera in one final surge of wings and rushing air, transition cleanly into the Red Bull product hero shot with a chilled can covered in condensation against the open sky.
-
-Finish with:
-
-RED BULL
-
-GIVES YOU WINGS
-
-Maintain relentless forward momentum while preserving strict cause-and-effect continuity, because the truck accident releases the cans, the rolling cans attract the stranded drivers, the first person demonstrates the transformation, witnessing that transformation motivates everyone else to grab cans, simultaneous drinking creates the rapidly expanding wave of wings, the growing number of transformed people triggers the mass takeoff, and the increasingly empty highway naturally reveals that the traffic jam has effectively moved into the sky.
-
-Every person must physically acquire a Red Bull can before drinking it, every transformation must happen only after drinking, and every person must visibly possess fully developed wings before leaving the ground, while the transformations should feel powerful and instantaneous without becoming grotesque or anatomical. Keep the same truck, vehicles, people, cans, road geography, sunlight direction, scattered objects, and crowd positions consistent throughout, while using speed ramps, energetic tracking, whip pans, low-angle movement, dramatic aerial pursuit, strong wing-generated wind, punchy sound design, rapidly intensifying music, crisp can-opening sounds, rushing air, crowd excitement, and explosive takeoffs to make the commercial feel increasingly energetic until the final brand payoff.
-```
-
-</details>
-
-<a id="seedance-rice-water-serum-commercial"></a>
-### Rice water serum bottle on bright white surface
-
-<a href="https://x.com/AvelyrahnAI/status/2095373906815115469"><img src="../../previews/seedance-rice-water-serum-commercial.jpg" width="360"></a>
-
-Numbered scenes, each with its own shot type, give the model a clear sequence to follow. Quoting the exact label text and closing with lighting and camera direction keeps the bottle text and studio look steady across cuts.
-
-Seedance 2.5 · Text-to-video · Source: [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2095373906815115469)
-
-[`skincare`](tags.md#tag-skincare) [`product-shot`](tags.md#tag-product-shot) [`macro`](tags.md#tag-macro) [`studio-lighting`](tags.md#tag-studio-lighting)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A high-end cinematic commercial for a skincare facial serum. 
-
-Scene 1: A clean white pump bottle labeled "Rice Water & Niacinamide Serum" standing on a reflective white surface with crystal-clear water droplets floating around it against a bright, minimalist background.
-
-Scene 2: Macro shot of a glass dropper releasing a pure drop of serum into a liquid pool with gentle ripples.
-
-Scene 3: A close-up of a model with glowing, flawless skin applying the serum to her cheek. 
-
-Scene 4: Flat-lay shot of the bottle surrounded by raw rice grains and water splashes, panning smoothly to show the product beside its packaging box. Ultra-realistic, 4K resolution, commercial studio lighting, smooth professional camera movement, clean and luxurious aesthetic.
-```
-
-</details>
-
-<a id="seedance-school-uniform-lookbook-turntable"></a>
-### School uniform lookbook model turns as products rotate
-
-<a href="https://x.com/AI__TSUBAKI/status/2102459655700287648"><img src="../../previews/seedance-school-uniform-lookbook-turntable.jpg" width="360"></a>
-
-Starts from the first frame so the board layout stays locked, and only the model and product cutouts move. The model's full turn and each item's single spin end on the same beat, which keeps the sync readable.
-
-Seedance 2.5 · Image-to-video · Source: [@AI__TSUBAKI on X](https://x.com/AI__TSUBAKI/status/2102459655700287648) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fashion`](tags.md#tag-fashion) [`lookbook`](tags.md#tag-lookbook) [`turnaround`](tags.md#tag-turnaround) [`product-rotation`](tags.md#tag-product-rotation)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A clean, premium 4-second fashion lookbook animation starting from the first frame. The entire layout stays exactly as shown: same background, same cream item panel, same captions, same crown icons, same wordmark, same framing.
-
-The model on the right turns a full 360° on the spot the way a real fashion model does on set: she steps her feet around naturally, shifting her weight from one leg to the other as she turns, her arms moving freely and her shoulders relaxed. As she comes around to the back she glances over her shoulder, and as she returns to face the camera she settles into a new, different confident model pose. Natural posture, realistic cloth physics; hair, hems and accessories swing and settle with the motion. She stays in the same spot and at the same size in frame throughout.
-
-At the same time, every product cutout inside the item panel rotates in place on its own vertical axis, like a luxury product display render, revealing front, side and back. Each item stays centered in its own slot, keeps its size, and completes exactly one full rotation in sync with the model's turn, ending in its original orientation.
-
-The panel, divider lines, captions, crown icons and wordmark stay perfectly fixed; only the model moves and the products rotate. Camera locked off, no zoom, no pan. Soft studio lighting with realistic shadows under the model and the products. Smooth, natural motion, clean commercial fashion-ad aesthetic, ultra-sharp details, luxury catalog presentation.
-```
-
-</details>
-
-<a id="seedance-subway-pink-dress-fashion-film"></a>
-### Woman in pink dress beside blurred passing subway train
-
-<a href="https://x.com/Harry_thingss/status/2103494748132770038"><img src="../../previews/seedance-subway-pink-dress-fashion-film.jpg" width="360"></a>
-
-A reference still plus a repeated character lock block keeps the same woman across every shot, and the prompt lists the shot sequence beat by beat so the motion reads as one continuous take. Practical station light and a passing train create the motion-blur backdrop, with an explicit instruction that no other people sit in focus.
-
-Seedance 2.5 · Reference-to-video · Source: [@Harry_thingss on X](https://x.com/Harry_thingss/status/2103494748132770038) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fashion`](tags.md#tag-fashion) [`subway`](tags.md#tag-subway) [`motion-blur`](tags.md#tag-motion-blur) [`character-lock`](tags.md#tag-character-lock) [`music-video`](tags.md#tag-music-video)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Photoreal cinematic ~9 seconds, high-end fashion-film look. A young German woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a pink spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same German woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, pink black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot.
-```
-
-</details>
-
-<a id="seedance-vampire-queen-flying-car-paris"></a>
-### Rainy Paris street with Eiffel Tower in fog
-
-<a href="https://x.com/AIwithNatalia/status/2112412816070381937"><img src="../../previews/seedance-vampire-queen-flying-car-paris.jpg" width="360"></a>
-
-Splits the 25 to 30 second spot into six timed shots, each with its own camera move and speaker-tagged dialogue, so the model gets pacing and lip sync cues. A consistency block fixes the same car, wardrobe and lighting in every shot, and the negative prompt suppresses drift in faces and vehicle geometry.
-
-Seedance 2.5 · Text-to-video · Source: [@AIwithNatalia on X](https://x.com/AIwithNatalia/status/2112412816070381937)
-
-[`car-commercial`](tags.md#tag-car-commercial) [`paris-night`](tags.md#tag-paris-night) [`dark-fantasy`](tags.md#tag-dark-fantasy) [`multi-shot`](tags.md#tag-multi-shot)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Duration: 25–30 seconds
-
-Visual style: Ultra-photorealistic, dark fantasy, futuristic luxury car commercial, gothic Halloween cinema.
-
-CHARACTER & WORLD CONSISTENCY
-A glamorous adult vampire queen with long red wavy hair, pale porcelain makeup, smoky eyes, deep burgundy lipstick, a black velvet corset dress.
-
-She drives the same sleek metallic-silver futuristic flying sports car throughout the film. The car has sculpted aerodynamic bodywork, violet neon underglow, glowing propulsion systems, a panoramic glass canopy, and elegant gullwing doors.
-Paris at midnight on Halloween. Gothic architecture, fog-covered rooftops, wet streets, floating mist, glowing pumpkins, and a gigantic luminous blood-red moon dominate the atmosphere.
-
-Maintain consistent character appearance, car design, lighting, and wardrobe across all shots.
-
-SHOT 1 — THE HALLOWEEN NIGHTMARE (0–4 seconds)
-
-Camera: Cinematic street-level tracking shot transitioning into an intimate interior close-up.
-
-A massive traffic jam fills a rain-soaked Paris boulevard. Red brake lights stretch into the distance. The Eiffel Tower glows through atmospheric fog.
-Inside the silver car, the vampire queen taps her fingers impatiently against the steering wheel. Violet dashboard light reflects in her eyes.
-
-Her phone rings.
-
-Friend, on the phone: “Babe! Where are you?! The Halloween party is starting!”
-
-Vampire queen: “Relax, darling. I'll find another way.”
-
-She smirks, revealing her tiny vampire fangs.
-
-SHOT 2 — THE SUPERNATURAL TAKEOFF (4–8 seconds)
-
-Camera: Extreme macro close-up, followed by a dramatic low-angle exterior shot.
-
-Her black-gloved finger presses the glowing violet flight-mode control.
-The dashboard pulses with futuristic holographic light. Mechanical propulsion fins unfold beneath the car. Violet energy illuminates the wet asphalt.
-
-The suspension rises. The wheels rotate inward as concealed thrusters activate.
-
-The car lifts smoothly, then suddenly accelerates vertically between the surrounding buildings, leaving a swirling vortex of mist and crimson-violet light.
-
-Vampire queen: “Traffic is so… mortal.”
-
-The camera races upward beneath the vehicle, revealing its glowing undercarriage as the car climbs into the night sky.
-
-SHOT 3 — THE EIFFEL TOWER SPIRAL (8–13 seconds)
-
-Camera: Fast aerial chase shot with a sweeping 360-degree orbit around the vehicle.
-
-The silver flying car bursts through a layer of clouds and approaches the illuminated Eiffel Tower.
-It banks sharply, then performs a spectacular corkscrew spiral around the tower, weaving through the open night sky without touching the structure.
-
-The camera circles the car while the Eiffel Tower rotates dramatically in the background. Its golden lights streak across the car's reflective silver body.
-
-The vehicle dives past the tower's upper section, rolls gracefully onto its side, and pulls upward into a steep climb.
-
-A trail of violet light curls around the tower like magical ribbons.
-
-The camera pulls far back to reveal the Eiffel Tower, the Seine, illuminated bridges, and the sprawling city below.
-
-SHOT 4 — THE BLOOD MOON REVEAL (13–19 seconds)
-
-Camera: Extreme wide shot transitioning into a dramatic side profile and a 360-degree aerial orbit.
-
-A gigantic blood-red Halloween moon emerges from behind dark, rolling clouds, appearing enormous above the Paris skyline.
-The car accelerates toward the moon, climbing through swirling silver mist. The camera follows from behind as the city shrinks beneath the vehicle.
-
-At the peak of the ascent, the car performs a graceful aerial barrel roll directly in front of the enormous crimson moon.
-
-For a breathtaking moment, the car becomes a sharp black-and-silver silhouette against the glowing red lunar surface.
-
-The camera rotates a full 360 degrees around the flying car, revealing the moon, drifting clouds, the Eiffel Tower far below, and the entire illuminated Paris skyline.
-
-The moonlight catches the vampire queen's face through the panoramic glass canopy. Her cape flows behind her like crimson smoke.
-
-She smiles confidently.
-
-Vampire queen: “Now this is my kind of nightlife.”
-
-SHOT 5 — THE EPIC 360° PARIS PANORAMA (19–24 seconds)
-
-Camera: Seamless cinematic aerial orbit, then a rapid descending chase shot.
-
-The car levels out and glides above Paris in a wide, sweeping arc.
-The camera completes a breathtaking 360-degree panoramic orbit around the vehicle, showcasing gothic rooftops, the winding Seine, glittering bridges, the Eiffel Tower, the Louvre courtyard, and the blood-red moon dominating the horizon.
-
-Clouds drift beneath the car. Violet propulsion trails illuminate the mist.
-
-The car suddenly tilts forward and dives toward the city in a controlled cinematic descent.
-
-The camera chases closely behind as it races between elegant Parisian rooftops, then banks sharply into the illuminated street leading to the Halloween club.
-
-SHOT 6 — THE VAMPIRE QUEEN ARRIVES (24–30 seconds)
-
-Camera: Low-angle tracking shot, dramatic slow motion, final hero shot.
-
-The car descends through swirling fog and lands perfectly outside an extravagant gothic Halloween nightclub.
-Its violet lights pulse once. The gullwing doors open slowly.
-
-The vampire queen steps out in slow motion. Her crimson-lined cape sweeps dramatically across the pavement as purple spotlights cut through the fog.
-
-Her friends, dressed as glamorous witches and vampires, stare at her in disbelief.
-
-Friend: “BABE! HOW DID YOU GET HERE SO FAST?!”
-
-Vampire queen, smirking: “I don't wait in traffic. I fly.”
-
-She flashes her fangs and walks confidently toward the club entrance.
-
-The camera cranes upward to reveal the silver flying car, the gothic nightclub, the illuminated Eiffel Tower, and the enormous blood-red moon above Paris.
-
-END FRAME: The vampire queen's silhouette against the glowing club entrance as violet light and crimson moonlight fill the screen.
-
-CINEMATIC CAMERA & VFX REQUIREMENTS
-
-Spectacular aerial tracking shots and dramatic low-angle vehicle reveals.
-
-A complete 360-degree camera orbit around the flying car against the blood-red moon.
-A dramatic corkscrew flight maneuver around the Eiffel Tower.
-Volumetric fog, swirling clouds, moonlit mist, realistic reflections, and violet energy trails.
-Strong contrast between silver metallic surfaces, violet neon, crimson moonlight, and golden Parisian architecture.
-Physically coherent vehicle movement, realistic acceleration, smooth banking, and elegant aerial rolls.
-Sophisticated gothic fashion-film aesthetics with blockbuster-scale visual effects.
-Seamless transitions, cinematic motion blur, carefully controlled slow motion, and epic orchestral-electronic music.
-Natural English dialogue with accurate lip-sync and consistent character identity.
-NEGATIVE PROMPT: Cartoon rendering, cheap CGI, flat lighting, low-resolution textures, inconsistent vehicle geometry, changing faces, changing outfits, duplicated cars, distorted Eiffel Tower, broken architecture, random text, unwanted logos, excessive motion blur, jerky camera movement, gore, or horror imagery that overwhelms the luxury-fashion aesthetic.
-```
-
-</details>
-
-<a id="seedance-velvet-kiss-lip-oil-commercial"></a>
-### Lip oil bottle macro reveal with falling droplet
-
-<a href="https://x.com/itxabdullaa/status/2103084704979394875"><img src="../../previews/seedance-velvet-kiss-lip-oil-commercial.jpg" width="360"></a>
-
-Separate character and product lock blocks are repeated in every shot, and a timestamped shot timeline lets the model follow a fixed 30-second edit. Lens focal lengths, audio cues and a ban on text overlays and morphing are written into the prompt.
-
-Seedance 2.5 · Reference-to-video · Source: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2103084704979394875) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`beauty`](tags.md#tag-beauty) [`product-reveal`](tags.md#tag-product-reveal) [`reference-lock`](tags.md#tag-reference-lock) [`timeline`](tags.md#tag-timeline)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Part-1 30-SEC VERTICAL 9:16 | PHOTOREALISTIC LUXURY BEAUTY COMMERCIAL
-
-Create a premium European luxury beauty commercial using the provided CHARACTER REFERENCE and PRODUCT REFERENCE.
-
-ABSOLUTE REALISM:
-Live-action cinema quality. Real human model, practical cosmetics, real glass, real liquids, real fruit and physical studio sets. Natural skin pores, realistic eyes, hair strands, hands, reflections, liquid physics and camera optics. No CGI look, wax skin, uncanny eyes, plastic face or AI aesthetic.
-
-CHARACTER LOCK:
-Use the exact same blonde female model throughout. Preserve her face, blue-green eyes, high bun, makeup, body proportions and dusty-rose pink suit.
-
-PRODUCT LOCK:
-Use the exact VELVET KISS raspberry-red lip oil in every product shot. Preserve bottle shape, color, lettering, glass and rose-gold cap.
-
-SHOT TIMELINE:
-0–1.7s — Extreme macro product reveal inside glossy raspberry-red liquid, droplets, rose-gold highlight, slow push-in and subtle rotation.
-
-1.7–4.1s — Model walks through a pristine white luxury studio, then approaches camera holding VELVET KISS close to lens. Natural focus shift from product to eyes.
-
-4.1–7.3s — Realistic hands open the lip oil. Macro applicator movement and close-up lip application with natural glossy texture.
-
-7.3–10.6s — Product hero surrounded by raspberry-red liquid, followed by glossy lips and a chrome-surface product shot.
-
-10.6–13.5s — Product inside soft blush-pink liquid folds. Realistic fluid physics, macro details and slow camera push toward VELVET KISS branding.
-
-13.5–18.8s — Model in dusty-rose suit holds product beside her cheek, applies it again, then looks into camera with subtle natural expressions and blinking.
-
-18.8–22.4s — Editorial upside-down portrait, followed by floating cosmetic droplets and a transition into realistic fresh raspberries and strawberries.
-
-22.4–26.6s — Product among fresh berries, then model returns to the white studio. She walks toward camera, leans in and holds the product near her lips. Final clean product hero on dusty-rose background.
-
-26.6–30s — Brief realistic blue-toned editorial beauty contrast, then immediately return to the model in white studio holding VELVET KISS beside her face. Subtle final camera push-in.
-
-AUDIO:
-Sophisticated minimal electronic-pop luxury soundtrack with deep bass pulse, glossy synth textures, subtle sparkle and restrained percussion. No vocals or dialogue. Add faint realistic cap-twist, applicator and liquid sounds.
-
-EDITING:
-Premium fashion-commercial pacing. Precise music-synced cuts, elegant slow motion, fast editorial transitions and realistic focus pulls. No AI morphing, text, subtitles, promotional graphics or watermarks.
-
-CAMERA:
-Full-frame cinema look with 35mm, 50mm, 85mm and 100mm macro lenses. Realistic depth of field, motion blur, exposure, reflections and controlled studio lighting.
-
-FINAL QUALITY:
-Photorealistic live-action luxury beauty campaign. Maintain perfect character and product continuity in every frame. Same face, hair, makeup, outfit, body, product design, color, proportions, lettering and cap throughout. Every shot must feel like it was filmed during one professional production.
-```
-
-</details>
-
-<a id="seedance-white-handbag-golden-waterfront"></a>
-### Woman in white suit by golden waterfront
-
-<a href="https://x.com/aiwithaayat/status/2100863394878525602"><img src="../../previews/seedance-white-handbag-golden-waterfront.jpg" width="360"></a>
-
-A shot by shot sequence running from a wide establishing shot to bag close ups to a silhouette finale gives the clip a clear ad structure. Naming golden hour light, shallow depth of field and fabric textures pins the look to photoreal fashion footage.
-
-Seedance 2.5 · Text-to-video · Source: [@aiwithaayat on X](https://x.com/aiwithaayat/status/2100863394878525602) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fashion`](tags.md#tag-fashion) [`luxury`](tags.md#tag-luxury) [`golden`](tags.md#tag-golden) [`commercial`](tags.md#tag-commercial)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Prompt: Created a 10-second video featuring an elegant woman in a sophisticated white tailored suit walking beside a calm waterfront during golden hour.
-She carries a luxurious quilted white handbag with refined gold hardware, creating a premium fashion-advertising aesthetic.
-Begin with a wide cinematic shot of the woman standing beside the wooden waterfront railing with the glowing city skyline in the distance.
-Slowly move into detailed close-ups of the handbag, highlighting its quilted texture, structured shape, handle, and polished gold clasp.
-Show the handbag resting beautifully on the wooden railing with warm sunlight reflecting across the water behind it.
-Transition to a medium fashion shot capturing the woman’s elegant white suit, confident posture, and graceful movement.
-She gently adjusts her stylish sunglasses while looking toward the horizon, creating a calm and sophisticated luxury mood.
-Use smooth cinematic camera movements, shallow depth of field, realistic fabric and leather textures, natural skin tones, and soft golden-hour lighting.
-End with a wider silhouette shot of the woman walking along the waterfront as the sunlight fades into a warm evening atmosphere.
-Photorealistic luxury fashion commercial, cinematic composition, premium visual quality, realistic lighting, subtle film grain, and elegant storytelling.
-```
-
-</details>
-
-<a id="seedance-xenon-holographic-watch-promo"></a>
-### Rotating smartwatch promo with holographic HUD reveal
-
-<a href="https://x.com/noorwithwifi/status/2089705270608056651"><img src="../../previews/seedance-xenon-holographic-watch-promo.jpg" width="360"></a>
-
-The prompt chains every shot through a radial energy pulse that becomes the rotating watch, then cuts between a product close up, a wearer and a smart glasses scene before ending on a glowing ring that lands the logo. Each beat names a concrete visual element, which helps the model keep the product and branding consistent across cuts.
-
-Seedance 2.5 · Text-to-video · Source: [@noorwithwifi on X](https://x.com/noorwithwifi/status/2089705270608056651)
-
-[`smartwatch`](tags.md#tag-smartwatch) [`product-promo`](tags.md#tag-product-promo) [`holographic-hud`](tags.md#tag-holographic-hud) [`energy-pulse`](tags.md#tag-energy-pulse)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a sleek futuristic smartwatch promo video for “XENON.” Begin with a radial energy pulse transitioning into a rotating dark metallic watch with floating particles, then reveal a close-up face with glowing blue holographic numbers and futuristic gauges. Show a person wearing the watch as circuit-like patterns illuminate their hand and holographic HUD panels project around their wrist. Cut to a silver-haired person in smart glasses surrounded by floating interfaces in a dark digital grid environment, and finish with a glowing energy ring around the watch revealing the “XENON – REACH BEYOND” branding.
-```
-
-</details>
-
-<a id="seedance-ysl-libre-perfume-commercial"></a>
-### Woman sprays YSL Libre perfume on wrist
-
-<a href="https://x.com/AIwithZeeshi/status/2110579418271818208"><img src="../../previews/seedance-ysl-libre-perfume-commercial.jpg" width="360"></a>
-
-The prompt breaks the 15-second spot into ordered beats (pick up, spray, walk to the window, closing close-up), giving the model a clear shot sequence. The closing block of physics and camera terms such as smooth tracking, glass reflections and consistent character sets the realism.
-
-Seedance 2.5 · Text-to-video · Source: [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2110579418271818208) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`perfume`](tags.md#tag-perfume) [`luxury`](tags.md#tag-luxury) [`product-ad`](tags.md#tag-product-ad) [`fashion`](tags.md#tag-fashion)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 15-second ultra-photorealistic luxury perfume commercial featuring YSL Libre Eau de Parfum.
-
-A stunning Western fashion model in an elegant black satin evening dress stands inside a luxurious Manhattan penthouse at golden hour. She picks up the iconic black-and-gold perfume bottle, sprays the fragrance on her wrist, and gently appreciates its scent. She then walks gracefully toward the floor-to-ceiling windows as her hair and dress move naturally. The video ends with a cinematic close-up of the perfume bottle against the glowing New York skyline.
-
-Luxury fashion aesthetics, realistic skin texture, natural human movement, physically accurate perfume mist, realistic glass reflections, natural fabric physics, consistent character appearance, cinematic lighting, smooth camera tracking, believable gravity and airflow, and premium commercial cinematography throughout.
-```
-
-</details>
-
-<a id="veo-candy-keyboard"></a>
-### Keyboard made of candy
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__keyboard.webm"><img src="../../previews/veo-candy-keyboard.jpg" width="360"></a>
-
-A separate `Audio:` line tells the model what the scene should sound like.
-
-Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`sfx`](tags.md#tag-sfx) [`product`](tags.md#tag-product) [`whimsical`](tags.md#tag-whimsical)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.
-```
-
-</details>
+**1** · [2](video-commercial-2.md)

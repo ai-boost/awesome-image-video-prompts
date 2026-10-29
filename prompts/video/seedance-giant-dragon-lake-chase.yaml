@@ -1,0 +1,29 @@
+id: seedance-giant-dragon-lake-chase
+title:
+  en: Giant stomps through lake as dragon dodges
+  zh: 巨人踏过湖面 巨龙灵活闪避踩踏
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- giant
+- dragon
+- water-splash
+- beat-sequence
+source:
+  name: '@hedo_ist on X'
+  url: https://x.com/hedo_ist/status/2083219828471382503
+  credit: hedoήist
+  likes: 101
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/hedo_ist/status/2083219828471382503
+notes:
+  en: 'The action is written as ordered beats, each with a cause and effect: the step sends water flying, then the dragon dodges the stomp. A closing style line sets the pacing and realism.'
+  zh: 动作按先后顺序分成几段，每段都写清因果：脚步溅起水花，随后巨龙闪避踩踏。结尾用一句风格描述统一节奏与写实质感。
+prompt: |
+  A colossal giant appears, striding through a lake; the ground shakes with every step, sending massive amounts of water splashing.
+
+  A flying dragon appears, performing aerial acrobatics; the giant tries to catch it with his arms, but the dragon manages to dodge the giant's attempts to stomp on it.
+
+  A fast-paced action scene with realistic cinematography.

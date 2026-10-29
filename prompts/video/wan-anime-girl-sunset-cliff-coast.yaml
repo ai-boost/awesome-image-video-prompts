@@ -1,0 +1,39 @@
+id: wan-anime-girl-sunset-cliff-coast
+title:
+  en: Anime girl on sunset cliff above the ocean
+  zh: 夕阳悬崖上的动漫少女俯瞰海岸
+model: Wan 3.0
+mode: text-to-video
+category: anime
+tags:
+- anime
+- sunset
+- seaside
+- camera-moves
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2102339127123550354
+  credit: Mr Das
+  likes: 43
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+video: https://x.com/MrDasCreates/status/2102339127123550354
+notes:
+  en: 'The prompt is written as a shot list in camera order: establishing wide, push-in, orbit, chase, then pull-back, so each move has one job. The closing style block and the plain list of artifacts to avoid keep the character design consistent through the moves.'
+  zh: 提示词按镜头顺序写成分镜：远景建立、推近、环绕、跟拍、拉远，每个运镜都有明确任务。结尾的风格段和负面清单用于保持角色设计一致，避免跳切与变形。
+prompt: |
+  Create a stunning cinematic anime sequence set in a magical Japanese-inspired coastal town at sunset.
+
+  A young anime girl with long flowing dark hair, expressive eyes, and a beautiful white dress stands on a quiet seaside cliff overlooking the ocean. Her hair and dress move naturally in the warm evening breeze.
+
+  The video begins with a wide establishing shot of the glowing coastline, colorful clouds, distant mountains, and sparkling ocean. The camera slowly pushes toward the girl as she looks toward the horizon.
+
+  She gently closes her eyes, then opens them and smiles softly. Small glowing particles begin floating around her, carried by the wind. The camera smoothly circles around her while her hair and dress flow dynamically.
+
+  She starts running along the cliffside path toward the sunset. The camera follows her from behind, then smoothly moves beside her, capturing her joyful expression and flowing hair.
+
+  As she reaches the edge of the coastal path, she stops and looks toward the enormous glowing sunset. Hundreds of tiny luminous particles rise into the sky around her. The camera slowly pulls backward and upward, revealing the beautiful ocean, coastline, mountains, and glowing sky.
+
+  High-quality cinematic Japanese anime aesthetic, detailed hand-drawn anime characters, expressive eyes, beautiful facial animation, fluid character movement, dynamic hair physics, flowing clothing, detailed backgrounds, atmospheric perspective, dramatic sunset lighting, vibrant colors, soft cinematic glow, subtle depth of field, smooth camera movement, consistent character design throughout, polished feature-film anime quality.
+
+  No cuts, no flickering, no character morphing, no distorted anatomy, no extra limbs, no deformed hands, no inconsistent face, no text, no subtitles, no watermark.

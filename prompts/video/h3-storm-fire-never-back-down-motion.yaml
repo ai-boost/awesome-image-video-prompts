@@ -1,0 +1,146 @@
+id: h3-storm-fire-never-back-down-motion
+title:
+  en: Golden NEVER BACK DOWN text over storm and fire
+  zh: 风暴与火焰中发光的 NEVER BACK DOWN 文字
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- motion-graphics
+- typography
+- storm-and-fire
+- sound-design
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2092190292254322746
+  credit: LudovicCreator
+  likes: 57
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+video: https://x.com/LudovicCreator/status/2092190292254322746
+notes:
+  en: A timed breakdown with separate lines for background, letters and audio stages a build to a peak and a hold. Tracking the background escalation apart from the text keeps the glowing type readable against the chaos.
+  zh: 按秒分段，把背景、文字和音效分成独立条目，模型就能依次完成蓄势、峰值和定格。背景强度与文字动画分开描述，让发光文字在混乱画面中依然清晰可读。
+prompt: |
+  [PROJECT TYPE] Text-to-video. EXACTLY 15 seconds. Motion graphics with dynamic
+  storm + fire animated background.
+
+  [Global Setting] ANIMATED BACKGROUND  STORM + FIRE COMBINED:
+  Dark apocalyptic sky with MASSIVE storm clouds swirling. Lightning crackling
+  violently everywhere. Rain falling in torrents. BENEATH/WITHIN: INTENSE ORANGE/RED
+  FIRE and FLAMES surging upward, consuming everything. Fire and storm battling.
+  Destruction and power. Survival against all odds. Cinematic and overwhelming.
+
+  [Background Details]
+  ✓ Storm clouds dark grey/black, constantly rotating
+  ✓ Lightning bolts EVERYWHERE multiple simultaneous strikes
+  ✓ Rain pouring down in heavy sheets
+  ✓ MASSIVE FIRE/FLAMES rising from below
+  ✓ Orange/red glow illuminating darkness
+  ✓ Smoke billowing upward mixing with storm clouds
+  ✓ Fire and water in conflict steam rising
+  ✓ Wind-torn clouds, churning motion constant
+  ✓ Apocalyptic, epic, overwhelming
+  ✓ MOTION NEVER STOPS, escalates throughout
+
+  [EXACT TIMING BREAKDOWN]
+
+  [Opening/Setup, 0–2s]
+  BACKGROUND EXPLODES INTO LIFE. Dark storm clouds SWIRL violently. Lightning
+  STRIKES. Rain POURS. FIRE erupts orange/red from below. Apocalyptic chaos.
+  First letter "N" MATERIALIZES glowing golden.
+
+  [Word 1: "NEVER", 2–6s] (4 seconds)
+  Letters appear sequentially with 1 second each approximately:
+  — "N" (already visible from 0s, now with particles and glow)
+  — "E" rotates with blue glow
+  — "V" slides with motion blur
+  — "E" warps into place
+  — "R" extrudes with depth
+
+  Particles swirl around letters. Electrical arcs connect them. BACKGROUND: storm
+  intensifies, lightning increases, fire burns brighter, smoke billows. Music
+  building. All elements escalating.
+
+  [Word 2: "BACK DOWN", 6–10s] (4 seconds)
+  Letters appear sequentially:
+  — "B" explodes with energy burst
+  — "A" rotates 360°
+  — "C" morphs fluidly
+  — "K" slides with metallic effect
+  — (space)
+  — "D" warps into place
+  — "O" extrudes from screen
+  — "W" connects to others
+  — "N" final letter locks
+
+  Geometric shapes (circles, lines, triangles) orbit and dance around letters.
+  Electrical arcs NETWORK connecting everything. BACKGROUND: MAXIMUM INTENSITY —
+  lightning CONSTANTLY striking, fire RAGING, rain TORRENTIAL, clouds VIOLENT,
+  smoke BILLOWING.
+
+  [Peak Moment, 10–13s] (3 seconds)
+  FULL TEXT VISIBLE: "NEVER BACK DOWN"
+  ALL LETTERS GLOWING MAXIMUM golden/blue intensity. Particles EXPLODING around
+  them. Geometric motion graphics dancing frantically. Electrical network BLAZING
+  between all letters. Color shifts: golden → blue → purple → golden.
+
+  BACKGROUND AT ABSOLUTE PEAK:
+  — Storm clouds VIOLENT rotation
+  — Lightning CONSTANT strikes every fraction of second
+  — Rain POURING in sheets
+  — FIRE ENGULFING lower half completely
+  — Smoke and steam swirling
+  — Orange glow overwhelming darkness
+  — PURE APOCALYPTIC CHAOS
+
+  Text and background PERFECTLY SYNCHRONIZED. Peak together.
+
+  [Final Hold, 13–15s] (2 seconds)
+  Text LOCKS in place GLOWING intensely. Particles SWIRL slowly. Geometric shapes
+  settle but keep subtle movement. Background slightly calms but STAYS INTENSE
+  storm still raging, lightning still striking regularly, fire still burning bright.
+
+  One final POWERFUL ORCHESTRAL NOTE HOLDS across full 2 seconds.
+
+  Final frame freezes on:
+  "NEVER BACK DOWN"
+  GLOWING GOLDEN/BLUE
+  Against STORM + FIRE apocalypse
+  ABSOLUTE CONVICTION against OVERWHELMING ODDS
+
+  [BACKGROUND SPECS — CONSTANT]
+  ✓ Storm: Dark swirling clouds, constant rotation, lightning frequent
+  ✓ Fire: Orange/red flames rising from below, intense glow
+  ✓ Rain: Torrential, visible falling sheets
+  ✓ Lightning: MULTIPLE strikes, unpredictable, bright white flashes
+  ✓ Smoke: Billowing upward, mixing with storm clouds
+  ✓ Steam: From fire meeting rain
+  ✓ Overall: APOCALYPTIC, POWERFUL, CINEMATIC
+  ✓ Motion: ESCALATES 0-10s, HOLDS 10-13s, SUSTAINS 13-15s
+
+  [TEXT VFX]
+  ✓ Golden primary glow + blue secondary glow on all letters
+  ✓ Particles emanating constantly from letters
+  ✓ Electrical arcs connecting all letters (network effect)
+  ✓ Geometric shapes orbiting (circles, triangles, lines)
+  ✓ Individual letter effects: rotation, morphing, extrusion
+  ✓ Synchronized to music beat and background intensity
+
+  [Audio — EXACT 15 SECONDS]
+  0-2s: Thunder rumbling, wind howling BUILDING, rain starting, fire crackling emerging
+  2-6s: Letter appearance sounds (swoosh/electronic pops), orchestral strings SWELLING, storm sounds INTENSIFYING
+  6-10s: Electrical crackling INCREASING, orchestral crescendo BUILDING, storm RAGING, fire ROARING
+  10-13s: MASSIVE orchestral climax (strings, horns, brass at PEAK), lightning thunder CONSTANT, fire ROARING LOUDLY, rain POURING LOUDLY
+  13-15s: Single POWERFUL sustained orchestral note HOLDING, slight fade in background intensity but still present, storm/fire still audible underneath the note
+
+  [Visual Storytelling]
+  TEXT = CONVICTION (golden, glowing, perfect, unwavering)
+  BACKGROUND = ADVERSITY (storm + fire = apocalypse trying to destroy everything)
+  TOGETHER = Standing firm and glowing bright NEVER BACKING DOWN even when world
+  is chaos and destruction
+
+  [TONE] EPIC. CINEMATIC. POWERFUL. INSPIRATIONAL. ABSOLUTELY WOW.
+
+  Made in
+  @Hailuo_AI

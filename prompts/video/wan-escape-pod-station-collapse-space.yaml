@@ -1,0 +1,28 @@
+id: wan-escape-pod-station-collapse-space
+title:
+  en: Massive space station above a striped gas giant
+  zh: 巨型空间站悬于条纹气态巨行星之上
+model: Wan 3.0
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- hard-sci-fi
+- space-station
+- debris-simulation
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2095949652667298044
+  credit: Alexandra Aisling
+  likes: 37
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+video: https://x.com/AllaAisling/status/2095949652667298044
+notes:
+  en: Ordered beats read as a shot timeline, and the follow camera placed close behind the pod sets the scale. The closing style block sets physics, tension and a large format look.
+  zh: 按时间顺序排列的镜头节拍让模型理解完整叙事，紧贴吊舱后方的跟随镜头建立尺度感。结尾的风格段落指定真实物理、紧张氛围和大画幅质感。
+prompt: |
+  A tiny escape pod launches from a gigantic space station orbiting a gas giant. The camera follows close behind. Moments later the station begins breaking apart. Explosions ripple through kilometers of structure. Massive debris fields form around the pod. The pilot navigates through collapsing corridors of metal and fire. Giant station fragments tumble in every direction. The pod squeezes through an impossibly narrow opening. Final shot reveals the escape pod emerging into open space as the entire station disintegrates behind it.
+  Ultra-realistic hard sci-fi, realistic physics, immense scale, cinematic tension, detailed debris simulation, IMAX quality.
+
+  Made with Wan 3.0 in
+  @openart_ai

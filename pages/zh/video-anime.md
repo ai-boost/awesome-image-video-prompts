@@ -1,6 +1,6 @@
 # 动漫与动画
 
-[返回目录](../../README_zh.md) · 全部 56 条
+[返回目录](../../README_zh.md) · 全部 76 条
 
 <a id="seedance-katsudon-anime-cooking"></a>
 ### 快剪动画风格做猪排饭
@@ -71,6 +71,37 @@ End with one delicate wind-chime tone during the final reveal.
 NEGATIVE
 
 No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, or text overlays. No unrelated ingredients or dishes. Katsudon only. Keep the food, hands, utensils, lighting, and environment visually consistent throughout.
+```
+
+</details>
+
+<a id="h3-rem-desktop-icons-maid-mishap"></a>
+### 蕾姆把掉落的桌面图标捡回原位
+
+<a href="https://x.com/Mayz1169/status/2100932191316557922"><img src="../../previews/h3-rem-desktop-icons-maid-mishap.jpg" width="360"></a>
+
+用参考图锁定为精确首帧，再配上逐秒分镜，让桌面布局和角色形象保持不变，同时图标随裙摆产生互动。明确只有左侧图标可以与角色和背景互动，并禁止镜头运动与切换，避免画面漂移。
+
+MiniMax H3 · 图生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2100932191316557922) · 1,806 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`desktop-animation`](tags.md#tag-desktop-animation) [`timed-beats`](tags.md#tag-timed-beats) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the reference image as the exact first frame. 16:9, locked-off camera, one continuous take. Preserve Rem’s face, short blue hair, black-and-white maid outfit, and original anime art style consistently throughout. Keep the desktop layout and Japanese menu bar unchanged.
+
+0–2s: Rem stands on the right, happily swaying gently from side to side while lifting the edges of her skirt slightly with both hands. As she turns, the hem accidentally catches the blue-purple desktop background. The background reacts like a soft fabric curtain, sending a horizontal ripple across the screen. The two folders and one screenshot icon on the left wobble, slide downward, fall to the bottom edge of the screen, and make a small playful bounce on impact.
+
+2–3s: Rem immediately freezes. Her eyes widen and she quickly covers her mouth with both hands, staring in surprise at the fallen icons.
+
+3–6s: She hurriedly leans toward the left and reaches out with both hands. She scoops up all three icons together and quickly pushes them back toward their original positions on the left. The icons behave like thin, lightweight magnetic tiles, snapping back onto the desktop surface. Two of them end up slightly crooked. Rem has no time to straighten them and quickly pulls her hands back.
+
+6–8s: Rem returns to her original position on the right, folds her hands neatly in front of her, and tries to put on an innocent, nothing-happened smile. Her eyes secretly glance toward the two crooked icons on the left. The tips of her hair, hair ribbon, and skirt hem move gently in a light breeze. The desktop background settles completely, while the two icons remain slightly tilted for a subtle comedic ending.
+
+The background music begins with a light, cute Japanese-style piano melody. When the icons fall, add a short descending slide sound and light impact sounds, then shift into a playful pizzicato rhythm.
+
+Keep all movement fluid and expressions lively. Only the three desktop icons on the left may physically interact with Rem or the background. The top menu bar and bottom Dock must remain completely fixed. Preserve the original icon designs, filenames, and text exactly. No new characters. No camera movement, zoom, cuts, or transitions.
 ```
 
 </details>
@@ -393,6 +424,152 @@ One instantaneous fingertip discharge, one impact, one permanent through-hole ca
 
 </details>
 
+<a id="h3-pixel-pop-gamer-girl-character-sheet"></a>
+### 霓虹像素风动漫游戏少女角色设定图
+
+<a href="https://x.com/Mayz1169/status/2094782705577996727"><img src="../../previews/h3-pixel-pop-gamer-girl-character-sheet.jpg" width="360"></a>
+
+提示词按名称和版面位置逐一列出每个面板，并反复要求正面、侧面、背面的发型、服装和背包保持一致。结尾的负面清单排除写实风格、武器和多余角色。
+
+MiniMax H3 · 文生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2094782705577996727) · 468 赞，统计于 2026-10-29
+
+[`character-sheet`](tags.md#tag-character-sheet) [`anime`](tags.md#tag-anime) [`y2k`](tags.md#tag-y2k) [`turnaround`](tags.md#tag-turnaround)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+1️⃣character sheet:
+
+Create a polished 16:9 anime character design sheet for an original colorful gamer girl named “PIXEL POP”, presented as a premium Japanese game character production sheet. Dark near-black navy background, thin electric-purple UI borders, tiny pixel icons, stars, hearts and retro-game symbols. The presentation feels like a futuristic Y2K arcade character-select screen mixed with professional anime concept art.
+
+CHARACTER: A cheerful young gamer girl with fair skin, a petite energetic build, large multicolored anime eyes and a playful confident expression. She has extremely vivid neon lime-yellow hair with cyan, turquoise, pink and purple accent sections. Her hair is styled into two large compact space buns with colorful spiral sections, short messy bangs and several long loose strands curling outward. Preserve the exact hairstyle, face, proportions, outfit and colors across every view.
+
+HAIR DETAILS: Bright acid-lime is the dominant hair color. Each bun contains visible cyan, turquoise, hot-pink and violet sections arranged like colorful candy swirls. Several thin cyan and pink strands extend from the buns. A chunky purple pixel-shaped hair clip decorates one side of her bangs.
+
+OUTFIT: Oversized cropped gamer jacket with a chaotic but controlled neon palette of electric purple, cyan, hot pink, blue and small lime accents. The jacket has extremely oversized balloon sleeves, dropped shoulders, chunky cuffs, graphic pixel patterns, abstract spray-like color blocks and cute game-inspired patches. One sleeve carries a small pixel-creature patch.
+
+Under the jacket she wears a short white cropped sleeveless top with a cute pixel mascot graphic across the chest and small pink-purple trim around the neckline.
+
+BOTTOM: Dark navy high-waisted pleated mini shorts/skirt hybrid with bright purple edging. A wide purple belt wraps around the waist with a chunky neon-lime rectangular buckle. Several long decorative straps hang asymmetrically from the belt in purple, lime and cyan, using oversized plastic buckles and pixel-inspired hardware. One thigh has a small colorful adhesive bandage detail.
+
+BACKPACK: Large boxy retro-gaming backpack in neon pink, cyan, purple, lime and orange. The front has a small screen displaying a simple cute pixel face. Multiple pockets, oversized buckles, colored straps and tiny game-controller charms decorate the bag. Preserve the backpack design and screen position in every view.
+
+LEGS & SHOES: Asymmetrical bright socks in cyan and purple with chunky folded cuffs. Massive Y2K platform sneakers with exaggerated rounded proportions and layered panels in hot pink, violet, cyan, lime and orange. Thick sculpted soles, oversized laces, large buckles and small game-button motifs. The shoes are intentionally oversized and form a major part of her silhouette.
+
+MAIN HERO ILLUSTRATION: Large three-quarter full-body illustration on the left. She stands casually with one hand resting on her hip and the other relaxed beside her, slightly leaning into the pose with playful gamer confidence. Surround her with only a few floating pixel hearts, stars and tiny blocky game icons. Include a small cute digital mascot creature beside her feet, designed in the same neon palette.
+
+TURNAROUND: Center section contains clean FRONT, SIDE and BACK full-body views. FRONT clearly displays the crop top, oversized jacket, pleated bottom, hanging straps and huge sneakers. SIDE clearly shows the space-bun silhouette, jacket volume, backpack depth and platform shoe construction. BACK prominently displays the colorful boxy gaming backpack, jacket graphics, hair buns and rear shoe design. Maintain exact color placement and accessory positions throughout.
+
+DETAILS PANEL: Right-center contains four rectangular close-up studies. HAIR CLIP shows the purple pixel-shaped clip against acid-lime hair. SLEEVE PATCH shows the colorful pixel mascot patch and jacket fabric graphics. BAG CHARM shows a miniature game-controller charm hanging from the backpack. SHOE DETAIL shows the layered neon sneaker construction, oversized laces, buckles and thick platform sole.
+
+ACCESSORIES: Upper-right panel displays isolated personal items: a colorful retro game controller, compact handheld game device, chunky retro mobile/game communicator and the complete gaming backpack. Each object follows the same cyan, hot-pink, purple, lime and orange design language.
+
+PARTS PANEL: Lower-right contains isolated costume components including the oversized gamer jacket, cropped mascot top, dark pleated shorts/skirt with belt and hanging straps, asymmetrical socks and multiple orthographic sneaker studies.
+
+COLOR PALETTE: Bottom-left displays rectangular neon swatches: acid lime, electric cyan, saturated blue, vivid violet, hot pink, bright orange, golden yellow and soft off-white. The surrounding background remains extremely dark so the fluorescent colors appear luminous.
+
+GRAPHIC DESIGN: Large graffiti-like “PIXEL POP” title in the upper-left with small subtitle “PRO EDITION”. Use playful bubble typography with cyan, pink and purple outlines. Add tiny pixel stars, hearts, game icons, arrows and minimal arcade UI graphics around the sheet. Keep these decorations restrained enough that the character remains clearly readable.
+
+VISUAL STYLE: premium Japanese anime game concept art, Y2K arcade fashion, colorful Harajuku gamer aesthetic, retro-futuristic pop design, crisp anime linework, polished cel shading, extremely saturated fluorescent palette, subtle glow against dark background, glossy plastic accessories, detailed fabric and sneaker construction, cute pixel graphics, playful proportions, strong readable silhouette, professional character bible, production-ready model sheet, ultra detailed, masterpiece quality.
+
+Avoid photorealism, realistic human rendering, muted colors, pastel-only palette, cyberpunk city backgrounds, heavy metallic armor, weapons, combat equipment, gothic fashion, long realistic hair, animal ears, revealing clothing, different costumes between views, inconsistent backpack, random text covering the character, excessive floating graphics, extra characters, extra limbs, malformed hands, watermark.
+```
+
+</details>
+
+<a id="h3-girl-bicycle-summer-shop-dialogue"></a>
+### 女孩骑红色自行车经过夏日小店
+
+<a href="https://x.com/eternityspring/status/2084606243516334180"><img src="../../previews/h3-girl-bicycle-summer-shop-dialogue.jpg" width="360"></a>
+
+提示词把 10 秒拆成约 2.5 秒一段的时间轴分镜，每段都写明景别和动作，让模型有清晰的镜头顺序。角色和服装写得很完整并重复锁定，同时禁止画面出现文字，并让画外的成年人不入画。
+
+MiniMax H3 · 文生视频 · 出处: [@eternityspring on X](https://x.com/eternityspring/status/2084606243516334180) · 387 赞，统计于 2026-10-29
+
+[`hand-drawn`](tags.md#tag-hand-drawn) [`storyboard`](tags.md#tag-storyboard) [`dialogue`](tags.md#tag-dialogue) [`bicycle`](tags.md#tag-bicycle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+RTX 4080 MiniMax H3 Cartoon Animation Prompt:
+
+Generate a 10-second, 16:9 landscape, nostalgic Japanese hand-drawn animation style video.
+
+The protagonist is a clever and cute elementary school girl wearing a straw hat, with black twin pigtails, dressed in a plain white tank top with red trim, red shorts, white socks, and red canvas shoes. The character's appearance and clothing remain consistent throughout.
+
+The background is a small neighborhood shop on a summer afternoon, featuring a wooden door, old glass soda bottles, bamboo baskets, and a quiet alleyway. The overall style is unified with the character, and no readable text, subtitles, watermarks, or logos should appear in the frame.
+
+Smooth and natural storyboard:
+0 to 2.5 seconds, medium shot, the girl rides a small bicycle lightly circling out from the shop entrance, as if playing around;
+2.5 to 5 seconds, side tracking shot, the girl slowly rides past the front of the shop, sunlight falling on her straw hat and shoulders, creating a relaxed and fun atmosphere;
+5 to 7 seconds, cut to a two-thirds side front angle, the girl turns her head to look at the off-screen adult interviewing her while riding, showing a mischievous yet thoughtfully serious expression;
+7 to 10 seconds, slightly closer shot, the girl slows down, speaking to the off-screen adult in a straight-faced yet cleverly sly tone:
+"As long as you can endure hardship, there will be endless hardship to endure."
+After saying this, she gives a slightly smug little smile to herself and continues riding gently forward.
+
+Retain natural Chinese childlike voice for the dialogue, add subtle bicycle wheel sounds, summer ambient noises, and the quiet alleyway atmosphere at the shop entrance.
+The interviewing adult remains off-screen only and does not appear in the frame.
+Do not add other major characters, do not deform the bicycle, do not change the character's clothing.
+```
+
+</details>
+
+<a id="h3-anime-girl-retro-player-reveal-trailer"></a>
+### 橙色耳机动漫少女，琥珀色眼睛特写
+
+<a href="https://x.com/Just_sharon7/status/2094085208027103678"><img src="../../previews/h3-anime-girl-retro-player-reveal-trailer.jpg" width="360"></a>
+
+详细的角色设定加上每一帧都保持脸部、发型和服装不变的要求，让角色在所有镜头中保持一致。按时间码排列的分镜表，加上复古播放器界面元素（窗口标题栏、均衡器条等），决定了节奏和图形风格。
+
+MiniMax H3 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2094085208027103678) · 293 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`character-consistency`](tags.md#tag-character-consistency) [`motion-graphics`](tags.md#tag-motion-graphics) [`retro-ui`](tags.md#tag-retro-ui)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13 distinct cuts, 24fps, total 15.00s.
+
+CHARACTER (lock this design; never redesign):
+Anime streetwear girl from the reference still. Twin high buns of vivid mint-teal hair with long flowing tails and warm orange/gold streaks. Messy side-swept bangs. Large orange over-ear headphones with mint accents and a small logo plate. Sharp amber-orange eyes, one eye winking. Playful open-mouth grin. Oversized color-block windbreaker: navy body, vivid orange sleeves, white ribbed cuffs, silver zippers, circular teal tech buttons, a teal utility pocket on the sleeve. Orange cropped turtleneck under the open jacket. Light-wash ripped denim shorts, thick orange belt with a silver buckle. Navy thigh-high socks with orange ribbed cuffs and an orange X stitch on the left shin. Chunky white sneakers with orange details. Preserve exact face, proportions, hairstyle, outfit, materials, accessories and colors in every frame.
+
+This film is 80% bold graphic design in motion and 20% character action. Graphic language is **retro OS chrome + music-player UI**, not ice/frost/barcode-lock. Use slamming window frames, title bars, close/minimize widgets, equalizer bars, waveforms, progress ticks, folder tiles, cursor arrows, CRT scanlines, pixel shatter, vinyl-ring stamps, music-note particles, media-player transport icons. Palette: mint teal, vivid orange, navy, cream-white, silver. Style: premium AAA motion-graphics title sequence × streetwear campaign film × Windows-era media player. Every graphic element moves fast and snaps hard on the beat.
+
+CUT 01 | 0.00–1.00s — Pure graphics: a mint title-bar slams onto a cream field, an orange CLOSE widget punches the corner, two navy window borders wipe in. Tiny equalizer ticks and a progress strip flicker. The letters **P** then **LAY** punch in one after another with heavy impact shake.
+
+CUT 02 | 1.00–2.00s — The **A** becomes a headphone cup: extreme close-up of her amber eye inside the orange earcup, glancing up; RGB split flash, then the cup shatters into flat mint/orange tiles.
+
+CUT 03 | 2.00–3.10s — Navy frame with enormous cream **PLAY**. She sprints in from frame left and power-slides across the baseline of the type, speed lines and orange streaks trailing, shards of the letters kicked up like sparks. Whip-pan out.
+
+CUT 04 | 3.10–4.00s — A giant retro media-player waveform explodes across the frame as a thick mint-and-orange audio spectrum bends into a tunnel. She bursts through the center of the waveform at full speed, briefly breaking into three stroboscopic motion trails behind her. Each trail leaves behind chunky navy equalizer blocks that rise and collapse to the beat. The camera rapidly pushes through the waveform tunnel with her, while huge vertical text **TRACK 01** scrolls continuously in the background. The waveform suddenly compresses into a single horizontal line and snaps shut behind her on the final beat.
+
+CUT 05 | 4.00–5.10s — She leaps through a giant rotating ring of typography reading **MAX VOLUME**. Camera tracks her mid-air spin in slow motion as the letters scatter, then snap-zoom on her wink.
+
+CUT 06 | 5.10–6.00s — Hard cut: cream editorial card, huge navy **DROP** with an orange slash. She vaults over the word itself, palm planted on the D, legs whipping across frame; the word compresses like a spring under her hand and rebounds.
+
+CUT 07 | 6.00–7.00s — Mint field with a navy diagonal window-bar. She back-flips along the bar in three stroboscopic ghost frames, each ghost tinted mint, orange, or navy. Giant outlined text **LOOP** rotates 180 degrees in sync with her rotation.
+
+CUT 08 | 7.00–8.00s — Kinetic type barrage: the words **LOUD / WILD / TEAL / HEAT** slam in one per beat with shutter flashes and camera shake, while she slides on her knees across the foreground, jacket flaring, music-note particles bursting from her sneakers.
+
+CUT 09 | 8.00–9.00s — Navy frame, giant cream wireframe window-grid tilting in 3D. She runs up the grid like a wall, kicks off, and hangs in the air as everything freezes. An orange circular stamp locks around her pose like a media-player target, with transport icons and EQ ticks.
+
+CUT 10 | 9.00–10.10s — Freeze releases into a burst: she dives toward camera through layered flat-color window panes that shatter one by one like glass shutters, each pane revealing a bigger letter of **P-L-A-Y**. Foreground wipe with her sneaker.
+
+CUT 11 | 10.10–11.10s — Rapid-fire poster montage: four full-screen graphic posters of her in different action poses (mid-flip, sliding, landing, headphones-up wink) snap past with hard cuts. Each has a different bold layout, oversized numbers **01–04**, equalizer strips and slashes.
+
+CUT 12 | 11.10–13.00s — Hero moment on a clean cream cyclorama: she lands a final backflip dead center in slow motion, straightens with one hand on her headphones, and a shockwave of concentric mint rings, wind streaks and shattered typography blasts outward from her landing. Brief iconic freeze on her wink, overexpose to white.
+
+CUT 13 | 13.00–15.00s — Final identity card: enormous navy **PLAY** dominates a pale cream field with translucent mint rings, technical arcs, scanlines, and a rough orange circular emblem containing a ghosted headphone / waveform motif. She stands relaxed overlapping the letters, wind rippling her jacket. One last orange pulse sweeps through the typography and a window-chrome flash punctuates the end.
+
+Editing: extremely aggressive rhythm — hard cuts on every beat, graphic matches, whip pans, snap zooms, stroboscopic freezes, foreground wipes, RGB splits, shutter flashes, impact shakes and speed ramps. Every cut must feel compositionally different. Typography is always fully readable before the character overlaps it. No weapons, no combat, no fire. All energy comes from motion design, wind, glass, UI chrome and her parkour-style athleticism.
+
+BGM: hard-hitting electronic / drum-heavy future bass with aggressive drops, risers, sub hits and glitch fills locked to every cut. Sneaker impacts, whooshes, glass shatters, window-slam hits and typography slams are rhythmic sound-design elements. Peak at CUT 12 and end with a cold electronic logo stinger.
+
+Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive, strong graphic-design identity, consistent character design, exactly 13 cuts.
+```
+
+</details>
+
 <a id="wan-anime-staff-ritual-portal-spaceship"></a>
 ### 动漫法师召唤飞船穿越云端传送门
 
@@ -416,6 +593,93 @@ I usually use a skill to turn my ideas into prompts but that approach hadn't wor
 *Used a character reference.
 
 Prompt was: Start with the character from Image 1 performing a ritual-like dance on top of a tower. She raises her staff and sends a wave of energy into the clouds, not as a thin laser line but as something more fluid and undulating. In the clouds, a magic circle appears and expands. The surrounding clouds are pulled toward it and begin swirling around it. A portal opens at the center, and a giant spaceship emerges from it and descends to Earth.
+```
+
+</details>
+
+<a id="h3-gothic-doll-turquoise-eyes-closeup"></a>
+### 深蓝刘海下的绿松石色眼睛特写
+
+<a href="https://x.com/Mayz1169/status/2091464848848846983"><img src="../../previews/h3-gothic-doll-turquoise-eyes-closeup.jpg" width="360"></a>
+
+通过角色设定图作为身份参考，并用风格锁定条款禁止写实渲染与3D效果，让平涂赛璐璐风格保持稳定。每段都标注时间码，漫画分格划像、丝带转场和发丝帘幕扫过承担切镜。
+
+MiniMax H3 · 参考生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2091464848848846983) · 263 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`style-lock`](tags.md#tag-style-lock) [`timecode-shots`](tags.md#tag-timecode-shots) [`manga-transitions`](tags.md#tag-manga-transitions)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second horizontal 16:9 stylish 2D anime fashion animation featuring the exact same girl character from the provided reference image.
+
+CHARACTER & STYLE LOCK:Use the provided character sheet as the absolute identity and art-style reference.
+
+Maintain the exact original visual style:clean thick black outlines, simple 2D cartoon anime design, flat cel colors, minimal shading, cute gothic aesthetic, simplified facial features, oversized expressive eyes, graphic shapes and smooth hand-drawn animation.
+
+Do NOT transform the character into realistic anime, 3D, semi-realistic illustration, or highly detailed rendering.
+
+Character design must remain consistent:A small gothic girl with extremely long dark navy-blue straight hair covering most of her body, blunt bangs with small pink highlights, a large blue bow on top of her head, pale skin, turquoise eyes with sharp black lashes, tiny expressionless mouth, small pointed decorative details near the eyes, black gothic dress with white collar details, blue ribbon accents, pink inner hair sections, striped blue-and-black stockings, black rounded shoes, and a small purple cat-like plush companion held in her arms.
+
+Her personality:quiet, mysterious, cute, slightly emotionless, elegant and doll-like.She feels like a character from a dark fantasy fashion animation.
+
+0–1.5s — Begin with an extreme close-up of her turquoise eyes beneath her dark bangs. She slowly looks toward the camera with a calm mysterious expression. A soft blue glow reflects in her eyes. Large simple typography “MIDNIGHT DOLL” appears behind her while dark navy, pastel pink and purple graphic shapes float around the frame.
+
+1.5–3.0s — Camera pulls back from her face into a full-body character reveal. Her enormous navy hair moves like a flowing curtain around her silhouette. She gently hugs her small purple cat companion while the camera slowly rotates around her like a collectible character showcase.
+
+3.0–4.5s — She slightly tilts her head and raises one hand. Her blue ribbon creates a smooth animated wipe transition across the screen. The ribbon expands into a series of comic panels showing close-ups of her eye, bow, striped stockings and plush companion.
+
+A vertical title “SILENT HEART” appears in clean white lettering over a black graphic panel.
+
+4.5–6.5s — Create a fashion animation montage:front portrait → side profile → back view showing the giant hair silhouette → close-up of hands holding the plush → shoes stepping forward.
+
+Use simple manga-style frames with alternating backgrounds:deep navy, soft pink, lavender and pale cyan.
+
+Add subtle gothic symbols:small stars, moons, hearts, ribbons, floating dots and hand-drawn decorative marks.
+
+6.5–7.5s — Her long hair sweeps across the entire screen like a dark blue curtain transition. Pink highlights inside the hair create flowing graphic streaks that reveal the next scene.
+
+7.5–9.5s — Show a dramatic full-body hero pose. She stands in a dark fantasy fashion space made only from abstract shapes, not a realistic environment. Her giant hair spreads outward like a shadow silhouette while small purple and blue particles float around her.
+
+The camera slowly pushes closer as she looks directly at the viewer with a calm doll-like expression.
+
+9.5–11.0s — She reaches one hand toward the camera using exaggerated cute anime perspective. Her small hand fills the foreground while her face remains visible behind it. The movement creates a soft pastel blue and pink ink transition.
+
+11.0–12.5s — Rapid detail shots:turquoise eye blink → blue bow moving slightly → pink hair highlight → purple plush companion → striped stockings → black shoes.
+
+Each shot appears like a collectible character card animation.
+
+12.5–13.8s — Full upper-body portrait against a clean graphic background made of navy, pink and cyan geometric shapes.
+
+Her long hair forms a large elegant silhouette behind her.
+
+Text “MIDNIGHT DOLL” appears around her like a fashion magazine cover title.
+
+13.8–15.0s — Final sequence:eye close-up → ribbon movement → plush companion → confident front portrait.
+
+Freeze on her quiet direct gaze toward the camera.
+
+The final frame should look like a premium gothic anime character poster.
+
+VISUAL DIRECTION:2D hand-drawn anime animation, dark kawaii fashion aesthetic, gothic lolita influence, thick clean outlines, flat colors, limited animation style, cute but mysterious atmosphere, soft graphic shadows, simple shapes, elegant character posing.
+
+Use:
+
+manga panel transitions
+
+hand-drawn motion lines
+
+ribbon wipes
+
+hair silhouette transitions
+
+simple sparkle effects
+
+paper texture
+
+subtle comic effects
+
+Avoid:realistic lighting,3D rendering,photorealism,complex environments,cyberpunk style,neon overload,heavy particle effects,realistic hair strands,character redesign,outfit changes,facial changes,different hairstyle,extra accessories,identity drift,smooth cinematic dissolves,unreadable text.
 ```
 
 </details>
@@ -497,6 +761,25 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and vibrant, st
 
 </details>
 
+<a id="h3-cyber-ice-rebel-neon-splash-fashion"></a>
+### 银发冰蓝赛博叛逆少女与霓虹泼墨
+
+<a href="https://x.com/Mayz1169/status/2090701318625333455"><img src="../../previews/h3-cyber-ice-rebel-neon-splash-fashion.jpg" width="360"></a>
+
+提示词按时间轴写出三套造型，每套的发色、配色和气质各不相同，同时锁定同一张脸的特征。漫画网点、套色错位和色差故障被写进画面的图形层，让动漫风格偏向时尚杂志而不是写实。
+
+MiniMax H3 · 文生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2090701318625333455) · 228 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`fashion`](tags.md#tag-fashion) [`neon`](tags.md#tag-neon) [`cel-shading`](tags.md#tag-cel-shading) [`music-video`](tags.md#tag-music-video)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-impact anime fashion film featuring a rebellious neon-pop heroine who transforms through three completely different fashion identities.  The heroine must maintain the same core facial identity throughout the entire film: consistent face shape, eye design, facial proportions, and anime style. However, every transformation must feel like a completely new fashion persona with different hairstyle, hair color, outfit silhouette, accessories, makeup, and attitude.  The transformations should never look like simple recoloring. Each identity must feel like a different anime fashion character connected by the same spirit.  Visual style: Premium cel-shaded anime fashion illustration, razor-clean line art, luminous oversized eyes, graphic shadow shapes, exaggerated editorial poses, extreme perspective distortion, kinetic camera punches, manga panel fragmentation, halftone printing textures, registration offsets, chromatic glitches, sticker-like graphic accents, physical wet ink transitions, futuristic fashion magazine aesthetic.  Color direction: Use an ultra-saturated neon palette throughout: electric cyan, fluorescent pink, acid yellow, radioactive lime, scarlet red, deep cobalt, ultraviolet purple, metallic silver, and holographic gold.  Every frame should feel like a luxury anime fashion campaign exploding into motion.  0–1.5s — Identity One: Cyber Ice Rebel  Start with a bold centered close-up.  The heroine tilts her chin toward the camera while one futuristic glove cuts diagonally across her face, revealing glowing icy-blue eyes between her fingers.  Her first fashion identity:  Extremely long silver-white hair flowing dramatically behind her, icy blue highlights reflecting neon light, sharp futuristic bangs, pale luminous eyes, metallic black-and-silver cyber armor jacket, transparent tech layers, chrome accessories, fingerless mechanical gloves, and sharp geometric nails.  Her expression is cold, fearless, and rebellious.  Oversized condensed white typography: “CHROMA FEVER”  slams into frame.  Behind her: electric cyan scribbles, fluorescent pink ink explosions, acid yellow graphic shards, manga speed lines, and distorted comic textures collide violently.  1.5–3.0s — Hyper editorial camera attack  Whip rapidly into an extreme close-up of her reflective eye.  Inside the iris: abstract neon symbols, manga patterns, and futuristic graphic shapes spin.  The camera crash-pulls backward into a powerful half-body fashion pose.  Use aggressive camera rotation, sharp zooms, and magazine-style framing.  3.0–4.5s — First transformation: Identity Two reveal  The heroine swings her arm directly across the camera.  Her glove fills the entire screen.  The frame breaks apart into: torn manga panels, halftone textures, ink splashes, comic borders, layered paper fragments, and explosive graphic elements.  Do not morph the character.  Instead create a hard editorial transition: black ink explosion → manga page flip → new silhouette reveal.  New title: “VOLT MODE”  drops vertically in narrow white typography over a deep black graphic strip.  4.5–6.5s — Identity Two: Neon Pop Superstar  A completely different fashion persona appears.  She now has:  A short fiery orange bob haircut with a vivid hot-pink gradient at the tips, playful sharp bangs, glowing colorful eye makeup, oversized fluorescent streetwear jacket, exaggerated shoulder shapes, neon accessories, candy-colored futuristic jewelry, and bold statement nails.  Her personality changes: from cold cyber rebel into a chaotic neon performance icon.  She feels energetic, unpredictable, and fearless.  Rapid editorial sequence:  symmetrical face crop → three-quarter profile → hair spinning across her eyes → crossed wrists → fingers creating geometric shapes around her face.  Background colors rapidly switch between: electric aqua, fluorescent rose, acid lemon, ultraviolet purple.  Add: offset print textures, comic marks, micro chromatic glitches, sticker graphics, and manga impact symbols.  6.5–7.5s — Violent graphic transition  A diagonal scarlet ink slash tears through the entire frame.  The image becomes abstract painted chaos.  The screen is covered by: wet paint textures, ink droplets, layered brush strokes, and fragmented comic imagery.  Then the image snaps into the final identity.  7.5–9.5s — Identity Three: Neon Royal Warrior  Reveal her third fashion identity.  She now has:  Long emerald-green flowing hair with ultraviolet purple streaks, dramatic waves, glowing golden eye accents, oversized angular golden earrings, futuristic couture makeup, a structured acid-lime jacket with an exaggerated raised collar, sculptural shoulders, and luxury battle-fashion details.  Her attitude: powerful, elegant, dominant, royal.  Begin with a silhouette profile.  She slowly rotates toward camera.  Behind her: radial manga lines, oversized graphic symbols, neon geometric patterns, and explosive fashion-editorial shapes burst outward.  9.5–11.0s — Extreme anime action fashion shot  She launches one hand toward the viewer with extreme anime foreshortening.  The camera aggressively pushes toward her palm.  Her fingertips release a saturated cobalt-blue brush explosion.  The blue paint texture expands rapidly and completely repaints the entire frame.  11.0–12.5s — Beauty impact montage  Ultra-fast beauty details:  golden glowing eye → metallic lips → gold earrings swinging → emerald and purple hair moving like painted ribbons → neon makeup reflections.  Every cut matches the electronic beat.  Hair movement creates colorful motion trails across the screen.  12.5–13.8s — Final fashion magazine composition  Pull back into a commanding upper-body stance.  The heroine stands surrounded by asymmetric blocks of:  scarlet red, cobalt blue, neon yellow, electric pink, and acid green.  “CHROMA FEVER”  appears oversized behind and partially in front of her.  Wet ink droplets, rough screen-print textures, manga symbols, and graphic stickers scatter around the composition.  She creates a sharp one-handed frame around one eye.  13.8–15.0s — Final impact sequence  Three synchronized impact cuts:  glowing iris → powerful profile → hand silhouette.  Each cut becomes closer, faster, and more intense.  Final freeze frame:  The heroine looks directly into the camera with unstoppable confidence.  Huge:  “VOLT MODE”  typography expands behind her until it nearly fills the entire screen.  Music and editing:  Fast Japanese electro-pop vocals over a hard electronic club beat.  Synchronize: camera punches, pose changes, typography impacts, fashion reveals, and graphic transitions  with every major beat.  Add: sharp whooshes, camera shutter snaps, bass impacts, digital glitches, and wet paint swipe sounds.  Avoid:  photorealism, realistic environments, dialogue, slow camera movement, soft fades, dreamy transitions, character drift, same hairstyle across transformations, same color palette for every identity, simple recoloring
+```
+
+</details>
+
 <a id="h3-anime-opening-three-swordswomen"></a>
 ### 三位女剑士的红色动漫片头
 
@@ -557,6 +840,232 @@ A fast, polished and rhythmically precise anime opening with expressive characte
 
 </details>
 
+<a id="seedance-cannon-hammer-girl-vs-giant-snake"></a>
+### 少女扛加农锤迎战巨蛇
+
+<a href="https://x.com/whorange__/status/2091061100574060981"><img src="../../previews/seedance-cannon-hammer-girl-vs-giant-snake.jpg" width="360"></a>
+
+以三张参考图分别锁定角色、巨蛇与商店街，保证全片形象一致。按秒列出的分镜包含硬切、机位运动与音效提示，并专门写明惊恐转狂喜的停顿节拍，让动作有节奏。
+
+Seedance 2.5 · 参考生视频 · 出处: [@whorange__ on X](https://x.com/whorange__/status/2091061100574060981) · 219 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`cel-shading`](tags.md#tag-cel-shading) [`reference-images`](tags.md#tag-reference-images) [`storyboard`](tags.md#tag-storyboard)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+风格：现代2D日式动作动画，平涂赛璐璐角色配纤细干净的线条与极简的渐变阴影，合成于高度精细的手绘背景之上，背景保留可见的铅笔线稿质感与柔和的水彩晕染。明亮的粉彩霓虹配色——薄荷绿、天空青、珊瑚粉、柠檬黄与长春花紫——笼罩在明亮到过曝的日光下，将巷子尽头彻底照成一片纯白。凌厉的冲击定格帧，放射状速度线，手绘的火焰与火花特效，动作段落以24帧每秒逐帧作画。禁止3D渲染，禁止照片写实，禁止西方卡通语汇。
+
+主体：@girl（与输入图2完全一致100%）——一名身材娇小的年轻女子，齐刘海金发，一双巨大的圆眼配粉黄同心圆虹膜，鼻梁上贴着粉色鼻贴，露出小虎牙，身穿宽大的浅粉色连帽外套，缀满圆形金扣，内搭黄色荷叶边衬裙与黑色骑行短裤，一只粉袜一只黄袜，脚踩厚底白色马丁靴。六颗红黄薄荷条纹的巨型糖果球环绕漂浮在她的头部与肩膀周围。她扛着一门巨大的多管加农锤，红金配色，黑色炮口成簇排列。她的表情能在惊恐与狂喜之间瞬间翻转。
+@snake
+（与输入图3完全一致100%）——一条体型巨大的蛇，鳞片层叠交错，呈薄荷绿、海蓝与长春花紫，腹部为淡奶油色，钝圆的吻部，一双巨大的金色眼睛配竖直黑色瞳孔，颌下垂着长长的淡色须状触须。
+@alley
+（与输入图1完全一致100%）——一条狭窄的日式有顶商店街，卷帘门紧闭的店铺，珊瑚色与绿色的褪色布篷，堆叠的蓝色塑料筐与纸箱，头顶横拉着数十盏淡色圆形纸灯笼；巷子尽头被强光冲成一片纯白。
+
+场景：有顶商店街，以贴地视角沿着长巷望去，灯笼在头顶轻轻摇曳。
+
+动作：
+镜头1（0:00–0:03）——低角度近景对准少女的厚底靴，她漫不经心地走过商店街，加农锤拖在身后，前方是巷子尽头的白光。硬切。
+镜头2（0:03–0:07）——反打宽幅：巨蛇填满了她身后的整条街道，头颅低垂在店铺之间，触须垂落，灯笼擦过它的鳞片。硬切。
+镜头3（0:07–0:10）——她面部的极特写：双眼骤然睁大，张口发出真切的惊恐。停留一拍——随即她的表情裂开，绽出一个露着虎牙的狂喜大笑。硬切。
+镜头4（0:10–0:14）——巨蛇的巨口张到不可思议的幅度，顺着长巷直扑向她，蛇口占满整个画面。硬切。
+镜头5（0:14–0:19）——她侧身扑倒，抡起加农锤开火；一团巨大的橙色火球在蛇吻上炸开，筐子与纸箱四散飞溅。硬切。
+镜头6（0:19–0:23）——巨蛇金色眼睛的极特写，竖直瞳孔猛地收缩。硬切。
+镜头7（0:23–0:27）——宽幅侧视：巨蛇盘绕的身躯横扫整条街道，狠狠撞上她；她被掀飞出画面上方，糖果球四散飞出。硬切。
+镜头8（0:27–0:30）——自地面向上的仰角：她高高翻滚着，映在挂满灯笼的顶棚与白色天空前，化作剪影，加农锤在她身旁旋转。定格保持。切黑场。
+
+摄影：行走用低角度跟拍；揭示巨蛇用固定机位反打宽幅；两处特写均用强力推进；扑咬与火球用剧烈手持晃动；眼睛用缓慢静止定格；她被击飞用向上摇镜跟随。惊恐转狂喜的瞬间必须停满一整拍——那一拍就是包袱。
+
+音效：开场是安静的商店街环境音与脚步声，身后逐渐响起低沉的摩擦滑行声，灯笼纸张沙沙作响。随后是巨大的蛇嘶，沉重的炮击轰鸣伴随深沉低频，木箱与塑料筐碎裂，火花噼啪，少女发出愉悦的高声大笑。富有节奏感的打击乐动作配乐自第一个镜头起便强势切入。无对白，无字幕。
+
+限制条件：16:9画幅。少女必须与输入图2完全一致100%，巨蛇必须与输入图3完全一致100%，商店街必须与输入图1完全一致100%——不得出现形象漂移；务必保持粉色金扣外套、漂浮的条纹糖果球、厚底靴，以及巨蛇的薄荷绿-蓝-紫鳞片、金色竖瞳与垂落的触须，还有商店街的灯笼、卷帘门与货筐。每一帧都必须是平涂赛璐璐角色叠加于手绘背景之上；禁止3D渲染，禁止照片写实。仅限风格化的动作表现——无血液，无血腥，双方均不得出现可见伤口。画面中任何位置都不得出现文字、字母、标识、店铺招牌或字幕。
+
+Prompt 2:
+风格：现代2D日式动作动画，平涂赛璐璐角色配纤细干净的线条与极简的渐变阴影，合成于高度精细的手绘背景之上，背景保留可见的铅笔线稿质感与柔和的水彩晕染。明亮的粉彩霓虹配色——薄荷绿、天空青、珊瑚粉、柠檬黄与长春花紫——笼罩在明亮到过曝的日光下，将巷子尽头彻底照成一片纯白。凌厉的冲击定格帧，放射状速度线，手绘的火焰与火花特效，动作段落以24帧每秒逐帧作画。禁止3D渲染，禁止照片写实，禁止西方卡通语汇。
+
+参考：
+@scene1
+ 是上一段已生成的视频片段——请将其作为风格、配色、线条、角色设计、体量比例与光线的连续性参考。本段直接承接该片段的最后一帧，即少女腾空翻滚于挂满灯笼的顶棚之下、加农锤在身旁旋转之时。必须与
+@scene1
+ 完全一致；不得重新调整风格，不得改变角色比例或巨蛇的体量。
+
+主体：@girl（与
+@scene1
+ 及输入图2完全一致100%）——那名娇小的金发女子，粉黄同心圆眼眸，小虎牙，宽大的粉色金扣外套，黄色荷叶边裙，一粉一黄的不对称长袜，白色厚底靴，环绕漂浮的条纹糖果球，以及那门巨大的红金多管加农锤。
+@snake
+（与
+@scene1
+ 及输入图3完全一致100%）——那条薄荷绿-蓝-紫鳞片的巨蛇，金色竖瞳，垂落的淡色触须。
+@alley
+（与
+@scene1
+ 及输入图1完全一致100%）——同一条有顶商店街，卷帘门店铺、货筐与悬挂的纸灯笼。
+
+场景：延续同一条商店街，巨蛇盘绕的身躯此刻已填满整条长巷。
+
+动作：
+镜头1（0:00–0:04）——她重重落地成蹲姿，向后滑出一段距离，随即将一个新弹鼓拍进加农锤的膛口。近景对准装填动作。硬切。
+镜头2（0:04–0:09）——侧向跟拍：她全速冲刺，沿着巨蛇拱起的躯干侧面奔跑，靴底喷溅出火花，加农锤拖在身后。硬切。
+镜头3（0:09–0:13）——她自蛇身一跃扑向蛇头；放射状速度线填满整个画面，她的剪影向上飞窜。硬切。
+镜头4（0:13–0:17）——她零距离朝蛇吻开火；一团巨大的橙色爆焰在它脸上炸开，蛇头猛地被打得侧甩。硬切。
+镜头5（0:17–0:21）——低角度奔跑镜头：她沿着巨蛇宽阔的鳞背朝蛇头狂奔，靴子重重砸在鳞片上。硬切。
+镜头6（0:21–0:24）——她单只眼睛的极特写，粉黄虹膜环骤然收缩——随即硬切至加农锤黑色炮口簇点火的极特写。硬切。
+镜头7（0:24–0:27）——最后一击贯穿巨蛇的躯体，它整个碎裂成千万片漂浮的粉彩水晶碎片——薄荷绿、紫色与奶油色——如玻璃般向上飘散。硬切。
+镜头8（0:27–0:30）——终幕宽幅：商店街重归寂静，巨蛇空荡的长长盘躯静静横陈于地，灯笼轻轻摇曳。娇小的少女立于正中，加农锤搁在肩上，被巷尾那片过曝的白光勾出逆光轮廓。定格保持。切黑场。
+
+摄影：落地用强力震动；沿蛇身奔跑用快速横向跟随；起跳用放射状速度线构图；两次开火均用剧烈晃动；鳞背奔跑用贴近靴后的低角度跟拍；两个极特写之间用硬性急切；终幕用缓慢后拉宽幅。终幕镜头须停留两拍再切。
+
+音效：打击乐动作配乐全程高强度推进，金属弹鼓装填的咔哒声，靴子重踏鳞片，火花嘶鸣，两记巨大的炮击轰鸣伴随深沉次低频，一声悠长的蛇嘶戛然而止，随后是躯体碎裂时清脆的水晶鸣响。终幕宽幅处一切归于寂静——只余灯笼纸张的轻微沙沙声与远处的风声。无对白，无字幕。
+
+限制条件：16:9画幅。必须与
+@scene1
+ 及三张输入图完全一致100%——相同的角色设计、相同的巨蛇鳞片纹样、相同的商店街、相同的配色，两段之间不得出现形象漂移或风格跳变。每一帧都必须是平涂赛璐璐角色叠加于手绘背景之上；禁止3D渲染，禁止照片写实。仅限风格化的动作表现——无血液，无血腥，无内脏；巨蛇以干净的水晶碎片形式消散，绝不表现伤口。画面中任何位置都不得出现文字、字母、标识、店铺招牌或字幕。
+```
+
+</details>
+
+<a id="h3-lunar-eclipse-swordswoman-silhouette"></a>
+### 紫色巨月下的持刀剪影女剑客
+
+<a href="https://x.com/Mayz1169/status/2086427292755247409"><img src="../../previews/h3-lunar-eclipse-swordswoman-silhouette.jpg" width="360"></a>
+
+带时间点的分镜、固定色板和明确的禁止项，让画面保持扁平的 2D 动态图形风格，而不滑向 3D。每个段落只写一个动作和一个景别，避免叠加打斗或额外运镜，从而保住海报式构图。
+
+MiniMax H3 · 文生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2086427292755247409) · 202 赞，统计于 2026-10-29
+
+[`lunar-eclipse`](tags.md#tag-lunar-eclipse) [`silhouette`](tags.md#tag-silhouette) [`game-trailer`](tags.md#tag-game-trailer) [`2d-anime`](tags.md#tag-2d-anime) [`storyboard`](tags.md#tag-storyboard)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Game promotional PV, 15s. Pure 2D Japanese cel animation combined with abstract Editorial MG composition.
+
+[Art Style]
+Mysterious lunar eclipse style. High-contrast palette of deep purple, black, indigo, and silver-white, with limited glowing purple accents. Minimal hard-edge cel shading, large solid-color silhouettes, 1–2 shadow layers.
+Flat background with only architectural outlines, spires, wires, antennas, and geometric blocks. Integrate lunar phases, eclipses, orbits, star charts, astrology UI, compass, radial lines, scanlines, halftone, and geometric slices.
+
+The entire video feels like a dynamic game poster constantly being broken apart and reconstructed. No realistic 3D space.
+
+[Characters]
+Female protagonist: black shoulder-length hair, black uniform, long boots, holding a massive katana, cold and restrained.
+
+Villain: gray long hair, black wide-brim hat, black long coat, elegant and dangerous.
+[Storyboard]
+0–3s
+Black background. A giant purple lunar eclipse appears. The female protagonist’s silhouette stands at the center. Her step causes the moon phase to fracture into geometric rings and star chart markings. Architectural outlines assemble from darkness.
+
+3–6s
+Fast camera pan. The heroine moves forward with her sword. Background switches through different lunar phases. Buildings, orbits, and star charts are sliced and reconstructed. Silver-white orbital lines cross the character as the frame flips and compresses.
+
+6–10s
+High-speed MG montage. Eyes, katana silhouette, lunar phases, star trails, compass, raven silhouettes, and solar eclipse rapidly overlap. Each beat triggers inversion, geometric bursts, orbital rotation, and purple flashes. No continuous combat, only key poses.
+10–13s
+Pure black space. The villain sits at the center of a giant lunar ring and slowly raises his head. The moon behind him becomes a complete solar eclipse. Purple halos expand. The heroine’s silhouette appears inside the moon. No direct battle.
+13–15s
+The solar eclipse shatters. Orbits, star charts, lunar phases, and architecture collapse inward and rebuild into an original game logo.
+
+[Restrictions]
+Keep a flat 2D MG style. No realistic lighting, no 3D cities, no realistic perspective, no cyberpunk streets, no continuous fighting. All elements must be graphic silhouettes. Every frame should look like a premium game poster.
+```
+
+</details>
+
+<a id="seedance-sugar-pop-candy-defender-sheet"></a>
+### 糖果风动漫英雄角色设定图，含三视图
+
+<a href="https://x.com/Mayz1169/status/2084943718042448060"><img src="../../previews/seedance-sugar-pop-candy-defender-sheet.jpg" width="360"></a>
+
+提示词按版面分区逐段描述（主视图、三视图、装备拆解、配色），使比例与细节在各视图间保持一致。指定16:9画幅、白底和明确的风格参考，让结果接近可用于制作的设定稿。
+
+Seedance 2.5 · 文生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2084943718042448060) · 156 赞，统计于 2026-10-29
+
+[`character-sheet`](tags.md#tag-character-sheet) [`anime`](tags.md#tag-anime) [`game-art`](tags.md#tag-game-art) [`turnaround`](tags.md#tag-turnaround)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+1️⃣character sheet:
+
+Ultra-detailed 16:9 sci-fi anime character design sheet, official hero shooter game character bible, clean premium editorial layout, minimalist white background.
+
+Character name "SUGAR POP", title "Candy Defender", subtitle "A hyper-energetic defender armed with oversized dessert-powered weaponry."
+
+Left section features a full-body hero illustration of a petite anime girl with short bubblegum-pink hair in candy-bun twin tails, bright cyan eyes, oversized colorful candy headphones with antennae, wearing futuristic white powered armor covered in glossy candy buttons, sprinkles, frosting textures, donut-like armor joints, cropped black inner suit, chunky mechanical boots, oversized gauntlets and playful candy-themed mechanical details. She holds a gigantic candy cannon resembling a frosted dessert blaster with striped barrel, dripping neon syrup, colorful plastic components and toy-like sci-fi engineering.
+
+Center section includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, armor proportions and equipment, neutral pose for production reference.
+
+Right section contains large equipment breakdown panels including the oversized candy cannon, circular candy-powered backpack energy core (front and side), close-up head profile, shoulder armor detail, torso armor detail and leg armor detail.
+
+Top left includes a vibrant color palette featuring bubblegum pink, orange, cyan, lime green, cream, lavender and chocolate brown.
+
+Style: official stylized hero shooter concept art, Overwatch 2, VALORANT skin design, Zenless Zone Zero, NIKKE, colorful sci-fi anime, premium AAA game artbook, glossy hard-surface mechanical design, candycore aesthetic, toy-inspired industrial design, highly detailed production-ready character sheet, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no deformed anatomy, no extra limbs.
+```
+
+</details>
+
+<a id="kling-retro-anime-witches-beetle-ride"></a>
+### 红色甲壳虫载着三位女巫穿过雨夜街道
+
+<a href="https://x.com/ShamiWeb3/status/2115663136086962217"><img src="../../previews/kling-retro-anime-witches-beetle-ride.jpg" width="360"></a>
+
+全片十一个分镜，每个镜头同时写出画面和音效提示，并用三张参考图锁定每位女巫的造型，跨镜头保持一致。风格描述写明赛璐璐上色、黑色墨线和胶片颗粒，使整段保持同一种复古动画质感。
+
+Kling 4.0 · 参考生视频 · 出处: [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2115663136086962217) · 150 赞，统计于 2026-10-29
+
+[`retro-anime`](tags.md#tag-retro-anime) [`multi-shot`](tags.md#tag-multi-shot) [`reference-images`](tags.md#tag-reference-images) [`audio-cues`](tags.md#tag-audio-cues)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A 30-second, 16:9 animated short in retro 80s/90s hand-drawn cel anime style, with bold black ink outlines, flat cel shading, soft gradient skies and subtle film grain. The palette is twilight blues and purples against warm amber window glow, with red and orange accents. The setting is a rain-slick old-town street at night with glowing street lamps. The mood is dark-comic and mischievous. Camera moves are smooth and cinematic, and the cuts are fast.
+CHARACTERS (keep consistent in every shot, using the reference images)
+
+Blonde witch (Image 3): platinum-blonde hair with bangs, blue eyes, round tinted glasses, a cream and gold satin dress. Her voice is cool, breathy and sarcastic.
+Redhead witch (Image 1): wavy copper hair, freckles, green eyes, a green fur-trimmed coat. Her voice is low and scheming, with a wicked laugh.
+Black-haired witch, the driver (Image 2): long black hair with blunt bangs, violet eyes, red lips, a silver choker, a black lace outfit. Her voice is husky and playful.
+
+AUDIO
+Music is a jazzy, mischievous retro score with upright bass, muted trumpet and vibraphone. It turns into a tense chase with drums and strings, then a soaring magical orchestral theme in the flight, and settles into a warm acoustic guitar and music box melody at the cabin. Ambience includes light rain, tires on wet cobblestone, crackling torches, wind and crickets. Dialogue is short and natural, with no narrator.
+
+SHOT 1: The ride. Wide side view of a red vintage Beetle gliding down a wet night street. Cut inside to the three witches: the blonde adjusts her glasses, the redhead sits in the middle, the driver grips the wheel.
+Audio: jazz groove fades in, rain and tire hiss. The blonde sighs, “Such a dull evening.”
+
+SHOT 2: The spell. Through the windshield, a couple kisses under a lamppost. Close-up of the redhead’s envious glare as she flicks her fingers and pink magic sparkles swirl.
+Audio: the music drops to a low string drone, then a harp glissando. She mutters, “Hmph... how sweet.”
+
+SHOT 3: The pig prank. The woman’s head turns into a pig’s head and she screams while the man recoils. Cut back to the car, where all three witches burst into laughter.
+Audio: a cartoon “pop,” a squeal, then a comic trombone slide and their wicked cackling. The man gasps, “What?!”
+
+SHOT 4: The old lady. The Beetle stops at a crosswalk as an old woman with a basket crosses. Close-up of her smiling and tipping her scarf, then the driver leans out the window and sticks her tongue out.
+Audio: a warm clarinet phrase and a cheeky slide whistle. The old woman says, “Bless you, girls!”
+
+SHOT 5: The queue. Wide shot of the car parked outside a glowing grocery shop with a long line of people. The three witches strut past the crowd, heads high, and stand shoulder to shoulder in a low-angle shot.
+Audio: a swaggering bassline with heel clicks and the crowd murmuring. The redhead says smoothly, “Excuse us.”
+
+SHOT 6: The closed shop. Through the shop window, shelves of grocery bags glow warm while the crowd stares. Close-up of the door sign reading “CLOSED.” The witches then stand smiling with arms full of overflowing grocery bags.
+Audio: a timpani hit as the sign swings, then a smug, triumphant jingle. The blonde purrs, “Fresh. Perfect.”
+
+SHOT 7: The mob. An angry mob with torches and pitchforks charges down the street. The witches glance sideways, then run, the redhead wrapped in a glowing green magic aura.
+Audio: the music cuts to a fast chase with war drums and stomping boots. The mob shouts, “Get them!” The redhead calls out, “Hold on to your bags!”
+
+SHOT 8: Lift-off. The witches leap onto straw brooms in a burst of green sparks and rise above the shouting crowd.
+Audio: a bright “whoomph,” a powerful whoosh, and the orchestra swelling into the flight theme.
+
+SHOT 9: The flight. Aerial wide shot of the three witches flying over the glowing town toward purple mountains at dusk, ending on tiny silhouettes against the sky.
+Audio: full orchestra with harp and choir pads, wind rushing, and the witches laughing with joy.
+
+SHOT 10: The cabin. They land by a stone cabin and picnic table at golden sunset. The driver pours tea from a white teapot and the blonde sips with her eyes closed. Close-up of all three clinking their teacups together, and their eyes flash golden through their glasses.
+Audio: the acoustic guitar theme enters with crickets, a pouring sound and a porcelain clink. They say together, “Cheers.”
+
+SHOT 11: Final shot. Wide shot of the lone cabin on a hilltop as dusk turns into a starry night, then fade to black.
+Audio: the music box melody slows and ends on a single chime as the sound fades out with the picture.
+
+NEGATIVE PROMPT
+Photorealism, 3D render, extra fingers, distorted faces, inconsistent hair or outfit colors, any non-English text or speech, watermark, blur, low quality, harsh audio, lip-sync errors, narrator voice-over.
+```
+
+</details>
+
 <a id="h3-kids-counting-morphing-numbers-educational"></a>
 ### 数字变形的儿童数数动画
 
@@ -585,6 +1094,79 @@ Visual style: Adorable rounded 3D characters, soft pastel colors, gentle express
 Requirements: Keep each number visible before morphing, smooth shape transitions, no clutter, no scary faces, gentle squash-and-stretch, synced sound effects, calm and polished finish.
 
 Prompt idea - @umesh_ai #MiniMaxH3
+```
+
+</details>
+
+<a id="h3-storyboard-grid-nine-shot-film"></a>
+### 两个男孩与自行车俯瞰夜色中的城市
+
+<a href="https://x.com/magnific/status/2090508187875356957"><img src="../../previews/h3-storyboard-grid-nine-shot-film.jpg" width="360"></a>
+
+分镜图作为参考输入，只用于确定镜头顺序和大致构图，同时明确禁止复刻网格、边框、拼贴或分屏。写明镜头数量、硬切方式和每个镜头的时长，让输出成为一段连续的完整影片。
+
+MiniMax H3 · 参考生视频 · 出处: [@magnific on X](https://x.com/magnific/status/2090508187875356957) · 143 赞，统计于 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`multi-shot`](tags.md#tag-multi-shot) [`anime`](tags.md#tag-anime) [`trailer`](tags.md#tag-trailer)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+@Image
+ 1 is a nine-panel storyboard grid. Read it left to right, top to bottom. It defines shot order and approximate composition only. Do not reproduce the grid itself: no panel borders, no black gutters, no split screen, no collage, no letterboxing. The output is one continuous single-frame film.
+
+Nine shots, hard cut between each, roughly 1.5 seconds per shot, no dissolves and no fades.
+```
+
+</details>
+
+<a id="h3-anime-tomato-egg-noodle-storyboard"></a>
+### 动漫女子黄昏厨房制作番茄鸡蛋面
+
+<a href="https://x.com/eternityspring/status/2091187818639114535"><img src="../../previews/h3-anime-tomato-egg-noodle-storyboard.jpg" width="360"></a>
+
+提示词一次性要求生成 16:9 的十二格分镜，每一格角色保持一致，统一日系动画风格、傍晚厨房光线，并包含手部和眼睛的特写。角色轻声自语、动作克制，让分镜带有对白节奏，便于延续到视频生成。
+
+MiniMax H3 · 图生视频 · 出处: [@eternityspring on X](https://x.com/eternityspring/status/2091187818639114535) · 137 赞，统计于 2026-10-29
+
+[`storyboard`](tags.md#tag-storyboard) [`anime`](tags.md#tag-anime) [`multi-shot`](tags.md#tag-multi-shot) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Step 2: Create Storyboard Images
+Feed the character role images from Step 1 into GPT, then use the following prompt:
+Please create a 16:9 12-panel animated script about the process of making tomato and egg noodles. In the animation, the character should always be present in the frame. Use a simple Japanese animation style to create a cinematic animated effect. The overall atmosphere should feel warm, understated, and slightly melancholic, with scenes simulating the lighting ambiance of an evening family kitchen, where ordinary moments are depicted as beautiful and richly layered, the character's expressions are delicate and subtle, with clever use of negative space, the frame composition biased toward the center and lower part, along with close-up shots of details like hands and eyes. Avoid overly exaggerated animated expressions or commercialized shots. While making the tomato and egg noodles, the character should mutter to themselves in a gentle manner, with natural and moderate body language.
+```
+
+</details>
+
+<a id="h3-anime-girl-kinetic-typography-intro"></a>
+### 动漫少女动感开场与3D文字
+
+<a href="https://x.com/IqrasaifiAI/status/2100030154668159256"><img src="../../previews/h3-anime-girl-kinetic-typography-intro.jpg" width="360"></a>
+
+每个分镜都写明一个镜头运动和一个主体动作，让模型在切镜间保持清晰的顺序。文字动作绑定到落下、撞击、碎裂等物理事件，无需额外提示就能做出动感字幕。
+
+MiniMax H3 · 图生视频 · 出处: [@IqrasaifiAI on X](https://x.com/IqrasaifiAI/status/2100030154668159256) · 131 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`kinetic-typography`](tags.md#tag-kinetic-typography) [`camera-moves`](tags.md#tag-camera-moves) [`shot-list`](tags.md#tag-shot-list)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+High-speed, hyper-kinetic anime sequence with extreme camera acrobatics and reactive 3D typography.
+Shot 1 (Low-Angle Shoe Tracking): Ground-level fisheye lens tracks backward at breakneck speed right beneath the heavy, lug-soled platform boots of a rebellious anime girl with wild black-and-neon-red layered hair. Massive concrete-textured 3D letters spelling 'RIOT' slam violently downward out of thin air, crashing onto the seamless red studio floor with camera-shake impact dust just inches behind her heels.
+Shot 2 (Dynamic Lens Tilt & Word Spin): Instant whip-pan upward with a 45-degree Dutch angle tilt against an acid-lime backdrop. The camera barrels forward, diving under her outstretched arm as she throws a playful side-eye wink. The giant 3D word 'VOID' sweeps in from off-screen in a rapid rotational pivot, skimming past the lens with intense motion blur and chromatic aberration.
+Shot 3 (Step-Through & Text Smash): Cut to a stark white void; the camera pulls back fast on a low Dutch tilt as she stomps forward directly toward the lens. The oversized sole of her boot eclipses the frame for a split-second transition. She drops into a low crouch atop a bright-red pedestal; floating jagged 3D letters spelling 'BREAK' violently fracture into floating debris behind her.
+Shot 4 (Kinetic Combat & Ink-Brush Kanji): Smash zoom into a fractured-glass screen transition. The anime girl draws a glowing crimson-edged katana, spinning through a 360-degree rotational tracking shot. Massive black-and-blood-red brush-ink Kanji characters surge and rip across the frame, warping in three dimensions to follow the sword's curved slash path. High-contrast cel shading, aggressive speed lines, sharp snap zooms, 4k resolution, 60fps."
+Camera & Motion Directives for Generation
+Camera Physics: Ground-skimming fisheye, rapid snap-zooms directly into character eyes or boot soles, fast rotational 360-degree rolls, and abrupt whip-pans.
+Typography Dynamics: Kinetic typography that physically drops, collides with the floor, spins into the camera axis, and explodes into fragments upon impact.
+Visual Transitions: Boot-sole screen wipes, fractured glass impacts, and wide-swiping calligraphy ink ribbons that guide the cut to the next shot.
+
+in
+@higgsfield
 ```
 
 </details>
@@ -815,6 +1397,39 @@ BPMを変えた場合もカット時刻を優先し、細かなリズムや短�
 
 </details>
 
+<a id="wan-cyber-samurai-spider-android-rooftop-duel"></a>
+### 赛博武士在雨夜屋顶与蜘蛛臂机器人对决
+
+<a href="https://x.com/yourPlugAI/status/2092589909450060170"><img src="../../previews/wan-cyber-samurai-spider-android-rooftop-duel.jpg" width="360"></a>
+
+把打斗拆成四个定时段落，让模型从单张首帧中得到清晰的动作顺序。明确写出造型锁定、雨水物理和霓虹光照，使角色与场景在火花特效中保持稳定。
+
+Wan 3.0 · 图生视频 · 出处: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2092589909450060170) · 102 赞，统计于 2026-10-29
+
+[`anime-action`](tags.md#tag-anime-action) [`mecha`](tags.md#tag-mecha) [`rain`](tags.md#tag-rain) [`neon-city`](tags.md#tag-neon-city)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a 15-second 16:9 horizontal hyper-aggressive cybernetic action anime video from the provided first frame.
+
+Characters: Ryujin (cyber-Oni samurai, plasma katana, red overdrive state) and Valkyrie-X (spider-blade combat android). Maintain 100% costume and mecha design consistency.
+
+Style & Quality: High-budget sci-fi anime combat, fast-paced mecha-blade choreography, high-voltage spark effects, rain physics, dramatic execution framing.
+
+Time-Coded Action:
+
+0.0s – 4.0s: Valkyrie-X attacks with a 4-blade flurry; Ryujin parries with his plasma katana but takes shoulder damage.
+
+4.0s – 8.0s: Ryujin activates Overdrive Mode (red lightning from mask), snaps Valkyrie-X’s spider arm, and slashes off her secondary blades in a plasma explosion.
+
+8.0s – 12.0s: Ryujin thrusts his superheated blade straight through her central power core, short-circuiting her entire chassis.
+
+12.0s – 15.0s: Ryujin kicks her dead body off his blade onto the rain-soaked rooftop, posing under glowing Tokyo neon lights.
+```
+
+</details>
+
 <a id="h3-anime-idol-japanese-greeting-stage"></a>
 ### 动漫偶像在舞台上用日语向粉丝问好
 
@@ -876,6 +1491,44 @@ Use objective third-person observational cinematography with restrained shoulder
 Keep the piece grounded, lived-in and atmospheric. Favor environmental storytelling, social texture, routine behavior and cultural detail over exposition.
 
 Use only clean diegetic location sound. No dialogue, narration, BGM, subtitles or title cards.
+```
+
+</details>
+
+<a id="h3-retro-anime-girl-halftone-opening"></a>
+### 复古动漫城市少女网点蒙太奇
+
+<a href="https://x.com/PixVerse/status/2092945419978547387"><img src="../../previews/h3-retro-anime-girl-halftone-opening.jpg" width="360"></a>
+
+两张参考图分别锁定角色外貌和画面风格，提示词再单独规定剪辑节奏、三色配色和印刷质感。明确写出网点、套色错位和平面色块，画面才会像电视动画，而不是三维渲染。
+
+MiniMax H3 · 参考生视频 · 出处: [@PixVerse on X](https://x.com/PixVerse/status/2092945419978547387) · 73 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`retro`](tags.md#tag-retro) [`halftone`](tags.md#tag-halftone) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+subject_definitions:
+
+Character-feature reference:
+
+<image 1>：Character appearance reference
+<image2>: Environmental visual-style reference.
+
+Generate a 15-second, 16:9 landscape Japanese anime opening sequence. Use the visual language of a modern Japanese anime opening with a retro printed urban atmosphere. Combine 2D hand-drawn animation, cel shading, dynamic key animation, and graphic-design aesthetics. Preserve a tactile paper-grain surface, halftone dots, and retro manga print-registration misalignment caused by layered color printing.
+
+This should not be a character showcase PV. It should be a strongly rhythmic character montage. Center the sequence around one cool, retro urban girl, maintaining the exact same face throughout the entire video: jet-black bobbed hair with straight bangs and sharply layered ends, cool dark almond-shaped eyes, matte red lips, a signature beauty mark beneath the lower lip, a black tank top with heart-shaped patches, layered beaded necklaces, and a padlock pendant. Keep her facial structure and overall presence consistent in every shot.
+
+Use a three-color visual system dominated by black, lake blue, and scarlet red, with milk-white accents. Build her personality through large areas of solid color, abstract urban silhouettes, geometric color blocks, shadows, manga-style compositions, and graphic visual symbols.
+
+Use the rapid editing language commonly found in Japanese anime openings, including extreme close-ups of the eyes, red lips, padlock pendant, fingertips, and hair ends; tilted compositions; low-angle perspectives; sudden push-ins; frame slicing; and dynamic visual recombination. The editing rhythm may be freely arranged by the model according to the electronic beat.
+
+Add halftone patterns, ink lines, drifting heart-shaped stickers, halos and light spots, film grain, color-registration offsets, floating flat graphic text, and geometric symbols as part of the visual language.
+
+Emphasize a cool, distant, retro-urban loneliness with a mysterious, alluring quality, combined with a touch of City-pop nostalgia and a sense of fate. The result should feel like the official opening sequence of a Japanese television anime, not a game promotional CG trailer.
+
+Avoid complex fantasy environments, realistic locations, battle demonstrations, 3D rendering, and any drift in the character’s facial features.
 ```
 
 </details>
@@ -963,6 +1616,651 @@ Image4の深い青緑の花園へ完全に切り替える。最初は高い位�
 
 </details>
 
+<a id="h3-anime-hero-ruined-city-battle-mv"></a>
+### 动漫英雄黄昏中穿越废墟城市
+
+<a href="https://x.com/whorange__/status/2090671364281884983"><img src="../../previews/h3-anime-hero-ruined-city-battle-mv.jpg" width="360"></a>
+
+每个镜头按秒数和节拍设定，全程只用硬切，歌词字幕融入场景且不遮挡眼睛和嘴。明确写出赛璐璐上色、速度线和燃烧地平线等风格词，使六个镜头的画风保持一致。
+
+MiniMax H3 · 文生视频 · 出处: [@whorange__ on X](https://x.com/whorange__/status/2090671364281884983) · 63 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`music-video`](tags.md#tag-music-video) [`action`](tags.md#tag-action) [`lyric-typography`](tags.md#tag-lyric-typography) [`hard-cuts`](tags.md#tag-hard-cuts)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second 16:9 anime action battle music video with original lyrics.
+
+Style: sharp cel-shaded anime, neon energy aura, speed lines, glowing particles, cinematic contrast, dramatic impact frames, hard cuts only, no fades, intense motion, heroic and triumphant mood.
+
+Scene: a lone anime hero in a ruined futuristic city at dusk. The hero stands on a rooftop, then sprints across shattered buildings, faces an enemy silhouette in a smoke-filled street, clashes mid-air, powers up, unleashes a final energy attack, and ends in a victorious silhouette against a burning horizon.
+
+Typography: bold glitch-neon lyric text, smash-in on beats, floating in 3D space, integrated into the scene, never covering the eyes or mouth, synced to snare hits, bass hits, and vocal accents. Original lyrics: Run through the fire / Break through the night / Hearts like thunder / We ignite / No more fear / No turning back / Every spark becomes attack.
+
+Shot structure:
+Shot 1 (0.0s–2.5s): rooftop hero reveal, wind, smoke, glowing aura begins.
+Shot 2 (2.5s–5.0s): hero dashes across broken rooftops, energy trails, fast tracking motion.
+Shot 3 (5.0s–7.5s): enemy reveal, aerial clash, impact flash, debris burst.
+Shot 4 (7.5s–10.0s): close-up power-up, intense resolve, energy spiral around the body.
+Shot 5 (10.0s–12.5s): final attack, explosive light slash, sky tears open.
+Shot 6 (12.5s–15.0s): aftermath, glowing crater, hero silhouette, burning skyline, final heroic pose.
+
+Editing rules: hard cuts only, beat-synced transitions, no soft dissolves, no static subtitle bar, dynamic lyric typography as part of the scene, strong motion continuity, cinematic anime energy throughout.
+```
+
+</details>
+
+<a id="wan-fallen-sun-swordswoman-eclipse-battle"></a>
+### 剑士在漂浮城市上空与巨型骑士交战
+
+<a href="https://x.com/Artedeingenio/status/2092563535901372877"><img src="../../previews/wan-fallen-sun-swordswoman-eclipse-battle.jpg" width="360"></a>
+
+提示词用固定的角色设定块（发型、红围巾、长剑、服装）保持人物一致，并把每个5秒段落拆成一个物理动作、镜头运动和声音提示，使整段有连续递进的结构。动漫风格靠原画动作、铅笔稿帧、冲击帧等作画术语来设定，而不是笼统的画质词。
+
+Wan 3.0 · 文生视频 · 出处: [@Artedeingenio on X](https://x.com/Artedeingenio/status/2092563535901372877) · 61 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`swordswoman`](tags.md#tag-swordswoman) [`sky-battle`](tags.md#tag-sky-battle) [`multi-beat`](tags.md#tag-multi-beat)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+30-SECOND EPIC ANIME ACTION SEQUENCE - "THE FALLEN SUN"
+
+Original high-energy anime battle sequence.
+
+A lone swordswoman faces a colossal celestial warrior above a city being destroyed by an impossible solar eclipse.
+
+The entire 30 seconds must feel like ONE continuous escalating battle.
+
+No reference images.
+
+CHARACTER CONTINUITY - CRITICAL:
+
+MAIN HERO:
+
+Young female warrior.
+Long wild black hair.
+Sharp determined eyes.
+Black sleeveless combat outfit.
+Long torn crimson scarf.
+Black armored boots.
+One elegant slightly curved silver katana.
+
+Keep exactly the same face, hairstyle, costume, body proportions, scarf and sword throughout.
+
+Her CRIMSON SCARF is the main visual identifier.
+
+ENEMY:
+
+A gigantic humanoid celestial knight approximately 40 meters tall.
+
+Black cracked armor.
+Glowing golden fractures across the body.
+Featureless black helmet.
+Enormous burning golden sword.
+
+Keep its design consistent throughout.
+
+VISUAL STYLE:
+
+Premium hand-drawn 2D anime.
+Explosive sakuga animation.
+Detailed painted backgrounds.
+Sharp expressive linework.
+Extreme perspective.
+Dynamic smears.
+Hand-drawn debris.
+Stylized impact frames.
+Intense speed lines.
+Beautiful cinematic lighting.
+
+Visual inspiration from ambitious theatrical anime action sequences.
+
+No photorealism.
+No 3D appearance.
+No dialogue.
+No subtitles.
+No text.
+No logos.
+
+0–5 SECONDS - THE FALL
+
+BLACK SCREEN.
+
+A heartbeat.
+
+Suddenly-
+
+the heroine FALLS THROUGH THE CLOUDS at enormous speed.
+
+Extreme close-up on her face.
+
+Hair and crimson scarf violently whipping upward.
+
+Camera rotates around her.
+
+Below her:
+
+AN ENTIRE CITY IS FLOATING UPSIDE DOWN IN THE SKY.
+
+Buildings, bridges and enormous pieces of earth drift around a black solar eclipse.
+
+Then-
+
+something gigantic emerges through the clouds behind her.
+
+The CELESTIAL KNIGHT.
+
+It swings its enormous burning sword.
+
+She twists in midair.
+
+The blade misses her by centimeters.
+
+The shockwave CUTS THE CLOUDS IN HALF.
+
+She draws her katana.
+
+CLANG.
+
+One tiny sword blocks the colossal blade.
+
+WHITE IMPACT FRAME.
+
+5–10 SECONDS - SKY BATTLE
+
+The impact launches her backward across the sky.
+
+She crashes through the wall of a floating skyscraper-
+
+but NEVER stops moving.
+
+Camera follows her THROUGH the building.
+
+Desks, glass, papers and concrete explode around her.
+
+She plants one foot against an interior wall-
+
+SPRINTS horizontally across it-
+
+then launches herself through another window.
+
+The celestial knight attacks again.
+
+She lands ON ITS SWORD.
+
+Extreme low-angle shot.
+
+She RUNS ALONG THE GIANT BLADE toward the enemy.
+
+Golden fire explodes beneath every footstep.
+
+The giant rotates the weapon.
+
+She jumps.
+
+Three enormous chunks of floating city pass beneath her.
+
+She uses them like stepping stones.
+
+STEP.
+
+STEP.
+
+STEP.
+
+Then launches directly toward the giant's face.
+
+10–15 SECONDS - COUNTERATTACK
+
+Extreme close-up.
+
+Her eye.
+
+Golden light reflected inside it.
+
+She swings.
+
+The katana leaves a razor-thin RED ARC across the frame.
+
+The giant blocks with its armored forearm.
+
+BOOM.
+
+A circular shockwave expands for kilometers.
+
+Every cloud around them instantly disappears.
+
+Complete blue sky.
+
+For half a second—
+
+TOTAL SILENCE.
+
+Then the armor cracks.
+
+Golden energy erupts outward.
+
+The explosion throws her downward.
+
+She falls toward the inverted city.
+
+Camera dives after her.
+
+She rotates-
+
+lands FEET-FIRST against the vertical side of a skyscraper-
+
+and begins RUNNING DOWN THE BUILDING.
+
+The celestial knight falls after her.
+
+Both accelerate toward the city.
+
+15–20 SECONDS - THE CITY CHASE
+
+Insane high-speed vertical chase.
+
+Camera races beside the heroine.
+
+She runs down the skyscraper while gravity appears completely broken.
+
+The giant destroys buildings behind her with every strike.
+
+One enormous blade swing approaches.
+
+She jumps sideways.
+
+The sword slices through THREE SKYSCRAPERS.
+
+Buildings begin collapsing upward toward the eclipse.
+
+She leaps across the falling debris.
+
+Wall run.
+
+Slide.
+
+Jump.
+
+Sword deflection.
+
+MID-AIR SPIN.
+
+Every movement connects naturally into the next.
+
+Suddenly the giant punches toward her.
+
+She runs DIRECTLY TOWARD THE FIST.
+
+At the final instant-
+
+she plants one foot on its knuckle.
+
+Everything enters EXTREME SLOW MOTION.
+
+Her body compresses.
+
+Her eyes lock onto the eclipse.
+
+Then-
+
+she pushes off.
+
+20–25 SECONDS - BREAKING THE SKY
+
+She launches upward like a missile.
+
+SONIC BOOM.
+
+The crimson scarf becomes an enormous red streak through the sky.
+
+Camera follows directly behind her.
+
+The celestial knight turns upward.
+
+It raises its burning sword with both hands.
+
+The eclipse begins feeding energy into the blade.
+
+The sword becomes impossibly bright.
+
+The heroine raises her tiny katana.
+
+Two attacks charge simultaneously.
+
+One enormous GOLDEN.
+
+One razor-thin RED.
+
+They attack.
+
+COLLISION.
+
+For one instant-
+
+the entire animation becomes a rough black-and-white pencil drawing.
+
+Then-
+
+RED IMPACT FRAME.
+
+GOLD IMPACT FRAME.
+
+BLACK.
+
+WHITE.
+
+The shockwave bends the horizon.
+
+The inverted city begins rotating around them.
+
+Clouds form a gigantic circular vortex.
+
+She screams silently with effort.
+
+Her katana begins pushing through the enormous golden blade.
+
+A crack appears.
+
+Then another.
+
+Then hundreds.
+
+The giant sword SHATTERS.
+
+25–30 SECONDS - THE SUN CUT
+
+She flies directly through the explosion.
+
+Burning fragments pass inches from camera.
+
+The giant remains motionless.
+
+She passes beside its head.
+
+One elegant sword movement.
+
+Nothing happens.
+
+She continues upward.
+
+Toward the eclipse.
+
+Everything becomes silent.
+
+She slowly sheathes the katana.
+
+CLICK.
+
+A thin RED LINE appears across the celestial knight.
+
+The line continues
+
+through the clouds
+
+through the floating city
+
+and finally
+
+ACROSS THE BLACK ECLIPSE ITSELF.
+
+One second of complete stillness.
+
+Then
+
+THE ECLIPSE SPLITS OPEN.
+
+Brilliant sunlight explodes across the entire world.
+
+The celestial knight fractures into thousands of glowing golden fragments.
+
+The floating city slowly begins returning to normal gravity.
+
+The heroine falls peacefully through the golden sky.
+
+Her crimson scarf floats above her.
+
+Camera dives toward her.
+
+She opens her eyes.
+
+Tiny confident smile.
+
+Suddenly
+
+one gigantic surviving piece of the enemy's armor falls toward her from behind.
+
+Her eyes widen.
+
+CUT TO BLACK.
+
+End.
+
+ACTION LANGUAGE - CRITICAL:
+
+Extremely ambitious sakuga-style anime choreography.
+
+The heroine should NEVER feel weightless or randomly animated.
+
+Every movement must have:
+
+anticipation,
+acceleration,
+impact,
+momentum,
+follow-through.
+
+Use environmental geometry as part of the choreography.
+
+She should:
+
+run across walls,
+use falling debris as platforms,
+land on giant weapons,
+redirect momentum,
+fight while falling,
+fight while gravity changes,
+use enemy attacks to reposition herself.
+
+The battle should constantly move through space.
+
+Avoid characters simply floating and exchanging attacks.
+
+Avoid repetitive sword clashes.
+
+Every 5-second section must introduce a new physical idea.
+
+SCALE CONTRAST - IMPORTANT:
+
+Constantly emphasize the absurd difference in scale.
+
+Tiny human warrior
+versus
+40-meter celestial knight.
+
+Show this through:
+
+extreme wide shots,
+tiny heroine silhouettes,
+gigantic hands entering frame,
+sword blades larger than buildings,
+close-ups immediately followed by kilometer-wide shots.
+
+The heroine wins through SPEED and PRECISION rather than strength.
+
+ANIME IMPACT LANGUAGE:
+
+Use aggressively:
+
+extreme foreshortening,
+perspective distortion,
+speed lines,
+animation smears,
+single-frame color flashes,
+black-and-white impact frames,
+rough pencil frames,
+camera shake only during massive impacts,
+whip pans,
+snap zooms,
+360-degree rotations,
+rapid dolly shots,
+POV shots,
+extreme close-ups,
+massive aerial pullbacks,
+brief complete freezes before impacts.
+
+Alternate:
+
+FAST → FAST → SILENCE → IMPACT.
+
+Do not make every second equally chaotic.
+
+Contrast makes the major attacks feel enormous.
+
+CAMERA:
+
+The camera behaves like another participant in the battle.
+
+Dive beside falling characters.
+
+Pass through destroyed buildings.
+
+Orbit around sword clashes.
+
+Race inches above surfaces.
+
+Follow weapons through the air.
+
+Transition naturally from extreme close-ups into enormous wide shots.
+
+Whenever possible, connect shots through movement rather than conventional cuts.
+
+The viewer should constantly understand:
+
+where the heroine is,
+where the enemy is,
+what direction they are moving,
+and what they are trying to do.
+
+AUDIO:
+
+No dialogue.
+No voice-over.
+
+Aggressive cinematic anime score.
+
+Taiko drums.
+Fast orchestral percussion.
+Distorted electronic bass.
+Massive brass.
+Urgent strings.
+Distant female choir.
+
+Sword impacts:
+sharp metallic cracks.
+
+Giant attacks:
+deep sub-bass shockwaves.
+
+Destroyed buildings:
+concrete rupture and rushing debris.
+
+High-speed movement:
+violent air displacement.
+
+20–25 seconds:
+music reaches maximum intensity.
+
+Immediately before the final sword movement—
+
+COMPLETE SILENCE.
+
+Katana sheath:
+
+CLICK.
+
+One heartbeat.
+
+The eclipse splits.
+
+Enormous orchestral and choral explosion.
+
+Final unexpected falling armor—
+
+WHOOSH.
+
+CUT TO BLACK.
+
+End.
+```
+
+</details>
+
+<a id="h3-anime-swordfighter-elevator-cut-the-line-mv"></a>
+### 电梯里的动漫剑客与 CUT THE LINE 字样
+
+<a href="https://x.com/Artedeingenio/status/2099492332944900560"><img src="../../previews/h3-anime-swordfighter-elevator-cut-the-line-mv.jpg" width="360"></a>
+
+将配色锁定为墨黑、警示红和纸白，并加入撕纸拼贴、网点与复印颗粒质感，形成印刷品般的画面。逐镜头时间线配合固定的文字、主角、武器和服装描述，并以硬切节奏保持人物与字幕前后一致。
+
+MiniMax H3 · 文生视频 · 出处: [@Artedeingenio on X](https://x.com/Artedeingenio/status/2099492332944900560) · 56 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`music-video`](tags.md#tag-music-video) [`kinetic-typography`](tags.md#tag-kinetic-typography) [`paper-collage`](tags.md#tag-paper-collage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create one complete 15-second, 16:9 high-energy anime music video with synchronized original music, vocals, combat sounds, visuals, and kinetic typography.
+
+STYLE: pure 2D cel animation fused with tactile torn-paper collage. Use only ink black, warning red, and dirty paper white. Strong line art, flat shadows, halftone printing, photocopy grain, fibrous torn edges, dry ink, and brief print misregistration. Hard rhythmic cuts only—no fades or soft transitions.
+
+CHARACTER: one consistent androgynous anime swordfighter with angular hair, narrow eyes, wrapped forearms, heavy boots, a long asymmetrical coat, and one chipped half-length broken sword. Keep the same face, body, costume, sword, and voice throughout. Enemies appear only as abstract ink-and-paper shadows.
+
+MUSIC: original K-pop hip-hop × cyber-grunge micro-song, 128 BPM, minor key. Dry kick, metallic half-time snare, rapid controlled hi-hats, distorted metal pluck, photocopier percussion, descending 808, and sword impacts. Close neutral rap vocal expands into a melodic chant Hook. End with a sword ring, bass strike, short vocal tail, and clean stop.
+
+LYRICS:
+
+“Cracked steel, black seal, I carve through the night”
+
+“Red tear, no fear, every scar turns bright”
+
+“Hear the fault line sing”
+
+“Break again — I rise”
+
+“Last edge — still alive”
+
+“Cut the line”
+
+“Still standing”
+
+TIMELINE:
+
+Shot 1, 0.0–1.5s: Inside a freight elevator, the fighter walks from layered darkness, broken sword held low. A boot lands on a red paper seam as the camera pushes in. Readable paper-white text: “CUT THE LINE.” The sword tears through the letters and opens the next shot.
+
+Shot 2, 1.5–3.2s: Low lateral tracking through concrete pillars. The fighter plants one foot, pivots from the shoulder, and sweeps the broken blade through an abstract red paper shadow. Readable black text across red posters: “NO CROWN.” The letters split with the sword arc.
+
+Shot 3, 3.2–5.1s: The fighter runs diagonally, absorbs momentum against a wall with the forearm and shoulder, then rebounds in the opposite direction. Coat opens from the force. Text: “CUT THE LINE.” Wall contact tears the phrase; landing snaps it back together.
+
+Shot 4, 5.1–6.7s: Extreme close-up and first still point. The fighter freezes; only pupils, breathing, and one coat edge move. The broken sword fills the foreground. On black, readable white text: “BREAK AGAIN.” A red duplicate shifts behind it during the rising Pre-hook, followed by a half-beat black frame.
+
+Shot 5, 6.7–8.6s: Overhead view of an iron stair platform. The fighter drops from a safe low ledge, absorbs the landing through knees and hips, then rises into a diagonal guard. Red paper cracks radiate from the boot. “BREAK AGAIN” divides into three panels that fold back into one frame.
+
+Shot 6, 8.6–10.7s: The fighter grips a railing, rotates ninety degrees, releases, and advances. The long coat sweeps across the foreground while the broken sword cuts a red paper silhouette. Readable wall text: “LAST EDGE.” The coat hides and then reveals the intact phrase.
+
+Shot 7, 10.7–12.6s: Static rooftop shot and second still point. The fighter stands beneath a steel sign frame, blade angled down. Only breath, hair, coat hem, and wrist move. Large red text on black: “STILL STANDING.” Three torn panels briefly show the same eye, sword hand, and full silhouette without cloning the character.
+
+Shot 8, 12.6–15.0s: The fighter surges forward and swings the broken blade upward. The sword splits the entire frame into two paper halves and cleaves a towering ink shadow, exposing dirty-white sky. The fighter completes a pivot and freezes facing camera. Huge readable text: “STILL STANDING.” Red and white print layers align on the final bass strike, then hard cut to black.
+
+TYPOGRAPHY: ultra-bold condensed English capitals behaving like physical paper and wall print. Use only “CUT THE LINE,” “NO CROWN,” “BREAK AGAIN,” “LAST EDGE,” and “STILL STANDING.” Show each phrase clearly before tearing or shifting it. No subtitles, random letters, logos, brands, watermarks, or gibberish.
+
+LOCKS: exactly one protagonist, one broken sword, one costume, and one voice. Preserve anatomy, hands, grip, mouth shapes, cloth physics, and spatial continuity. No repaired sword, extra people, extra weapons, glossy 3D, live action, pastel colors, excessive camera shake, or hand touching the lens. Finish decisively on the final beat and hard cut to black.
+```
+
+</details>
+
 <a id="h3-field-guide-wren-plate-draws-itself"></a>
 ### 古旧鸟类图版自行绘成，鹪鹩苏醒
 
@@ -1005,6 +2303,41 @@ At 13 seconds, one Eurasian wren song — sudden, intricate and far louder than 
 
 </details>
 
+<a id="h3-elf-mage-glowing-forest-dialogue"></a>
+### 精灵法师与同伴站在发光的森林中
+
+<a href="https://x.com/I_Muhammadali44/status/2093002302135402979"><img src="../../previews/h3-elf-mage-glowing-forest-dialogue.jpg" width="360"></a>
+
+提示词先指定角色设定图作为精确参考，并列出必须保持不变的特征，从而稳定整段角色外观。再用第8秒的定时节拍（停步、法杖发光）以及只用一个连续镜头、结尾推近的指令，让场景有清晰的起承转合。
+
+MiniMax H3 · 参考生视频 · 出处: [@I_Muhammadali44 on X](https://x.com/I_Muhammadali44/status/2093002302135402979) · 46 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`fantasy`](tags.md#tag-fantasy) [`dialogue`](tags.md#tag-dialogue) [`reference-image`](tags.md#tag-reference-image) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+“Use the uploaded character sheet as the exact character reference. Keep the elf mage’s face, lavender twin-tail hair, green eyes, pointed ears, white-and-gold robe, boots, staff, proportions, and anime style completely consistent.
+
+Create a 15-second anime fantasy scene in one continuous unbroken shot. The elf mage walks through a glowing ancient forest while holding her red-and-gold staff. The camera smoothly tracks backward in front of her. A second young male mage walks beside her.
+
+Dialogue with natural lip-sync:
+
+Male Mage: “Are you sure this is the right path?”
+
+Elf Mage: “No… but the magic is calling me.”
+
+At 8 seconds, the elf suddenly stops. Her staff begins glowing intensely, and magical particles swirl around both characters. The male mage looks shocked while she calmly looks toward a mysterious glowing structure deeper in the forest.
+
+Elf Mage: “We’re close.”
+
+End with the camera slowly pushing toward her determined face as the magical light becomes brighter. Natural facial expressions, subtle body movement, flowing hair and clothing, cinematic anime lighting, detailed magical particles, atmospheric fantasy environment. One continuous shot, no cuts, no scene transitions.”
+
+Would you watch a full episode in this style?
+```
+
+</details>
+
 <a id="h3-purple-anime-poster-assembles-layers"></a>
 ### 紫色动漫海报逐层拼装成动画
 
@@ -1025,6 +2358,39 @@ Build the central world in layers: floating islands rise into position, clouds e
 
 Reveal the Japanese title with a bold elastic impact, followed by the English labels, release date, IMAX line and footer icons appearing sequentially. Add subtle looping life after assembly: blinking eyes, gently moving hair and clothing, small robot antenna motion, the cat’s tail bouncing, airships floating, clouds drifting and stars twinkling. Finish with a soft camera push-in, one bright starburst behind the title and a clean hold on the completed poster, keeping every element sharp and readable. No redesign, no distorted faces, no changing text, no full scene transformation, no aggressive camera rotation.
 2/2
+```
+
+</details>
+
+<a id="wan-anime-girl-sunset-cliff-coast"></a>
+### 夕阳悬崖上的动漫少女俯瞰海岸
+
+<a href="https://x.com/MrDasCreates/status/2102339127123550354"><img src="../../previews/wan-anime-girl-sunset-cliff-coast.jpg" width="360"></a>
+
+提示词按镜头顺序写成分镜：远景建立、推近、环绕、跟拍、拉远，每个运镜都有明确任务。结尾的风格段和负面清单用于保持角色设计一致，避免跳切与变形。
+
+Wan 3.0 · 文生视频 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2102339127123550354) · 43 赞，统计于 2026-10-29
+
+[`anime`](tags.md#tag-anime) [`sunset`](tags.md#tag-sunset) [`seaside`](tags.md#tag-seaside) [`camera-moves`](tags.md#tag-camera-moves)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a stunning cinematic anime sequence set in a magical Japanese-inspired coastal town at sunset.
+
+A young anime girl with long flowing dark hair, expressive eyes, and a beautiful white dress stands on a quiet seaside cliff overlooking the ocean. Her hair and dress move naturally in the warm evening breeze.
+
+The video begins with a wide establishing shot of the glowing coastline, colorful clouds, distant mountains, and sparkling ocean. The camera slowly pushes toward the girl as she looks toward the horizon.
+
+She gently closes her eyes, then opens them and smiles softly. Small glowing particles begin floating around her, carried by the wind. The camera smoothly circles around her while her hair and dress flow dynamically.
+
+She starts running along the cliffside path toward the sunset. The camera follows her from behind, then smoothly moves beside her, capturing her joyful expression and flowing hair.
+
+As she reaches the edge of the coastal path, she stops and looks toward the enormous glowing sunset. Hundreds of tiny luminous particles rise into the sky around her. The camera slowly pulls backward and upward, revealing the beautiful ocean, coastline, mountains, and glowing sky.
+
+High-quality cinematic Japanese anime aesthetic, detailed hand-drawn anime characters, expressive eyes, beautiful facial animation, fluid character movement, dynamic hair physics, flowing clothing, detailed backgrounds, atmospheric perspective, dramatic sunset lighting, vibrant colors, soft cinematic glow, subtle depth of field, smooth camera movement, consistent character design throughout, polished feature-film anime quality.
+
+No cuts, no flickering, no character morphing, no distorted anatomy, no extra limbs, no deformed hands, no inconsistent face, no text, no subtitles, no watermark.
 ```
 
 </details>

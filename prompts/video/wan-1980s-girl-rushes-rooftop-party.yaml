@@ -1,0 +1,79 @@
+id: wan-1980s-girl-rushes-rooftop-party
+title:
+  en: Woman in cream blazer reads urgent party note
+  zh: 身穿奶油色西装的女子阅读紧急派对便条
+model: Wan 3.0
+mode: text-to-video
+category: cinematic
+tags:
+- character-continuity
+- timed-scenes
+- retro-80s
+- story-arc
+source:
+  name: '@Inshrah_ali_ on X'
+  url: https://x.com/Inshrah_ali_/status/2099352294940709075
+  credit: Ai Girllie
+  likes: 271
+  captured: '2026-10-29'
+  posted: '2026-09-14'
+video: https://x.com/Inshrah_ali_/status/2099352294940709075
+notes:
+  en: Locks the character once at the top with an exact outfit and feature list, then splits the 30 seconds into timed scenes that run goal, obstacle, payoff. The closing backward camera pull gives the model a clear final shot to land on.
+  zh: 开头一次性写死人物外观与服装清单，再把30秒按时间段拆成目标、阻碍、高潮三段，让模型按顺序推进剧情。结尾的后拉镜头为模型提供明确的收尾画面。
+prompt: |
+  Create a cinematic, ultra-realistic 1980s lifestyle story about a stylish young woman who has one goal: make it to a legendary rooftop dance party before the final song begins. The entire 30-second video follows her race through the city, building anticipation until she finally reaches the party.
+
+  CHARACTER CONTINUITY
+
+  The same young woman in every scene, identical face, hairstyle, body, makeup, and clothing.
+
+  She has voluminous wavy dark-brown hair, subtle 1980s makeup, gold hoop earrings, and a confident but expressive personality.
+
+  Exact same outfit throughout: oversized cream blazer with rolled sleeves, fitted black top, high-waisted light-wash jeans, white sneakers, black shoulder bag, and sunglasses.
+
+  SCENE 1 — THE GOAL | 0–7 SEC
+
+  Morning in a vibrant 1980s city. She receives an urgent handwritten note from her best friend: “ROOFTOP PARTY — 8 PM. DON’T BE LATE!”
+
+  She looks at the clock, realizes she is running out of time, grabs her shoulder bag, puts on her sunglasses, and rushes outside.
+
+  Quick cinematic close-up of the handwritten invitation, clock, her determined expression, and her sneakers hitting the pavement.
+
+  SCENE 2 — THE RACE | 7–14 SEC
+
+  She jumps into a classic 1980s car and races through the colorful city streets.
+
+  She checks the clock on the dashboard and realizes the party is getting closer to starting. She looks worried but determined.
+
+  Fast cuts: vintage traffic, neon signs, passing storefronts, her hands on the steering wheel, wind blowing through her hair, and the city rushing past the windows.
+
+  SCENE 3 — LAST CHANCE | 14–22 SEC
+
+  She arrives near the party but discovers the elevator is broken.
+
+  She grabs her bag and runs up a long staircase, climbing several flights toward the rooftop. Her friends are already waiting above, looking toward the door.
+
+  She reaches the final staircase, exhausted, then hears the distant sound of music starting.
+
+  She smiles and pushes herself harder.
+
+  SCENE 4 — THE PAYOFF | 22–30 SEC
+
+  The rooftop doors suddenly swing open.
+
+  She arrives just as the first beat of the final song begins. Her friends cheer excitedly and pull her into the party.
+
+  City skyline glowing behind them, colorful 1980s lights, dancing crowd, balloons, vintage speakers and neon decorations.
+
+  She laughs, removes her sunglasses, and joins the dance.
+
+  FINAL SHOT: The camera pulls backward as she dances confidently with her friends against the glowing city skyline. She looks directly into the camera with a triumphant smile.
+
+  VISUAL STYLE
+
+  Authentic 1980s cinematic lifestyle aesthetic, nostalgic 35mm film texture, subtle VHS imperfections, soft halation, practical neon lighting, realistic skin and hair, period-correct cars, architecture and props, energetic music-video editing, smooth tracking shots mixed with handheld movement, dramatic close-ups, natural expressions, premium fashion-commercial quality.
+
+  CRITICAL CONTINUITY: Same woman, identical face, identical hairstyle, identical outfit and accessories in all four scenes. The story must clearly communicate goal → urgency → obstacle → achievement.
+
+  No smartphones, modern vehicles, modern clothing, modern buildings, text overlays, subtitles, logos, watermarks, or futuristic objects.

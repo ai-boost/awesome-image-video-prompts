@@ -1,0 +1,28 @@
+id: h3-eclipse-sci-fi-motion-poster
+title:
+  en: Dark sci-fi poster emerging from orange-lit storm clouds
+  zh: 橙色暗云中浮现的暗黑科幻动态海报
+model: MiniMax H3
+mode: image-to-video
+category: scifi-fantasy
+tags:
+- motion-poster
+- sci-fi
+- layered-reveal
+- sound-design
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2087116928473006428
+  credit: LudovicCreator
+  likes: 135
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+video: https://x.com/LudovicCreator/status/2087116928473006428
+notes:
+  en: The prompt locks what must stay fixed (black background, palette, layout, typography) and then builds the poster in ordered layers from darkness, so the motion reads as reconstruction rather than drift. Sound cues such as keystrokes, beeps, metallic clicks and impacts are written into the same timeline as the visuals.
+  zh: 提示词先锁定不变的元素（黑色背景、配色、版式、字体），再按顺序从黑暗中逐层构建画面，使动态呈现为重建而非漂移。键盘声、提示音、金属咔哒声和冲击声等音效提示与画面写在同一时间线上。
+prompt: |
+  Animate the source artwork as a 10-second dark cinematic sci-fi motion poster while preserving the full-frame black background, orange-and-teal palette, female profile, mechanical helmet, spacecraft, skyline, portal, typography and original layout. Begin in near darkness with only a faint orange glow, then construct the poster in layered stages: thin interface marks and corner graphics appear first, the storm clouds and futuristic skyline fade upward from the shadows, the enormous circular portal expands into position, and the woman’s profile slides in from the left as the mechanical helmet assembles behind her through rotating segmented parts. Illuminate the orange ring beside her face, then bring the central spacecraft rapidly forward from the portal before it settles beneath the “ECLIPSE” title, creating a strong 3D pop-out effect without changing the composition. Reveal the title, tagline, credits and release information through sequential type-on, tracking expansion and sharp graphic pop-ins, accompanied by playful but sophisticated digital keystrokes, interface beeps, metallic clicks and soft cinematic impacts. Complete the animation with small fighters crossing the background, subtle hair movement, drifting sparks, pulsing city lights and a slow final push-in, then hold on the fully reconstructed poster with every word sharp and readable.
+
+  Made in MinimaxHub
+  @Hailuo_AI

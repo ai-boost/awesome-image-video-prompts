@@ -1,0 +1,33 @@
+id: wan-crying-woman-dim-room-dialogue
+title:
+  en: Crying woman in dim room, tears streaming
+  zh: 昏暗房间里泪流满面哭泣的中年女子
+model: Wan 3.0
+mode: text-to-video
+category: dialogue
+tags:
+- emotion
+- lip sync
+- closeup
+- realistic
+source:
+  name: '@PixelAigc on X'
+  url: https://x.com/PixelAigc/status/2092106222128574802
+  credit: PixelAIGC
+  likes: 22
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+video: https://x.com/PixelAigc/status/2092106222128574802
+notes:
+  en: A fixed chest-up closeup with the speech and sobbing spelled out for the full five seconds keeps the lip sync and tears on beat. The explicit bans on music, beauty filters and fade-outs keep the clip raw and realistic.
+  zh: 固定机位的胸部以上近景，并在整个五秒内写明持续说话和啜泣，使口型与泪水保持同步。明确禁止背景音乐、美颜和淡出，让画面保持真实质感。
+prompt: |
+  Generate a 5-second realistic plot short film, 16:9, 24fps, slight film grain, dimly lit indoor room, soft side backlight, atmosphere of repression and sadness.
+  Character: Middle-aged Chinese woman, long black hair, plain everyday top, close-up from chest up, fixed camera position, lens almost stationary. Continuous speaking throughout, ceaselessly sobbing and crying, tears continuously streaming down her cheeks, eyes red and swollen, nose tip flushed red, lips constantly opening and closing, accompanied by choking sobs, subtle shoulder tremors, authentic facial muscle twitching, grievance and pain, lip sync strictly matched to Chinese voice, full 5 seconds filled with dialogue, no blanks.
+
+  [Timeline 0.0-5.0 seconds]
+  0-5 seconds: Continuous sobbing and crying throughout, nonstop speaking, teardrops continuously sliding down, breathing intermittent with choking sobs
+  Woman continues to say in a tearful, choking voice: "What on earth did I do wrong, why treat me like this......"
+
+  Sound design: Native Chinese human voice, with crying and choking sobs, including gasping sobs, no background music, only extremely faint indoor ambient noise.
+  Strictly prohibited: Subtitles, watermarks, logos, exaggerated roars, stage performance feel, beauty filters/skin smoothing, facial drift deformation, lip sync misalignment, black screen fade-out. End the 5 seconds with a direct abrupt cut to black.

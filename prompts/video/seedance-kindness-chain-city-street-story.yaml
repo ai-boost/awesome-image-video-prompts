@@ -1,0 +1,25 @@
+id: seedance-kindness-chain-city-street-story
+title:
+  en: Busker and elderly man share a warm moment
+  zh: 街头卖唱青年与老人的温暖互动
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- multi-shot
+- match-cut
+- golden-hour
+- story
+source:
+  name: '@mimu_ai1 on X'
+  url: https://x.com/mimu_ai1/status/2092302901842682213
+  credit: Mimu | AI Tools & News
+  likes: 96
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+video: https://x.com/mimu_ai1/status/2092302901842682213
+notes:
+  en: Each time range is a timed beat with one clear action, and the chain ends on a match cut on hands and a push-in on the reveal. Asking for consistent facial features and wardrobe keeps the same people recognizable across cuts.
+  zh: 每个时间段都写明一个清晰动作，结尾用手部的匹配剪辑和推近镜头把整段串起来。要求人物面部和服装保持一致，让同一人物在多个镜头中都能被认出。
+prompt: |
+  "Photorealistic, cinematic, high production value, 4K, warm golden-hour light, film grain, teal-and-amber color grade, gentle handheld motion. A wordless story of a kindness passed along a city street. 0–3s: She buys a warm pastry from a street cart, then hands it to a shivering old man on a bench; she smiles and walks on. 3–6s: Tracking shot — the old man gives his scarf to a young busker with cold hands; the busker nods gratefully. 6–9s: The busker helps a lost tourist with directions and a coin; match-cut on a passed object between hands. 9–12s: The tourist steadies a mother's stroller wheel on a curb; soft slow motion on the grateful glance. 12–15s: The mother offers her umbrella to a woman caught in sudden light rain — and it is her, from the first shot; she looks up, surprised and moved, as the camera pushes into her warm smile. Camera: intimate handheld → lateral tracking → match cuts on hands → slow push-in on final reveal. Ambient city sound, soft piano score rising to the loop-back moment. Maintain narrative continuity; keep her facial features and wardrobe fully consistent. Detailed hands, natural human motion."

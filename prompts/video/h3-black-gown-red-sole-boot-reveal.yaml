@@ -1,0 +1,25 @@
+id: h3-black-gown-red-sole-boot-reveal
+title:
+  en: Woman in black gown lifts red sole boot
+  zh: 黑裙女子走过镜面地面并抬腿展示红底靴
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- fashion
+- reflective-floor
+- studio-lighting
+- product-reveal
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2114425711381364940
+  credit: Talia
+  likes: 87
+  captured: '2026-10-29'
+  posted: '2026-10-25'
+video: https://x.com/TaliaAariz/status/2114425711381364940
+notes:
+  en: Tight framing on the legs and footwear, then a slow walk into one high leg lift, gives a clear reveal of the sole. The glossy black floor mirrors the boots and gown, which carries the shine without extra description.
+  zh: 镜头紧贴腿部和鞋履，先慢走再抬起一条腿，清楚展示鞋底。黑色反光地面倒映出靴子和长裙，无需额外描述就能体现光泽。
+prompt: |
+  Cinematic high-fashion studio shot of a woman’s lower body walking and posing on a glossy black reflective floor. She wears a long, flowing black satin dress with a high side slit that reveals her leg. Focus tightly on her legs and footwear. She wears black thigh-high pointed-toe stiletto boots with extremely high heels, bright red textured soles (crocodile/snakeskin pattern), and ornate gold metallic hardware accents around the heel area. Dramatic spotlight beams cut through the dark background. She walks slowly, then lifts one leg high in an elegant pose to fully display the red sole and gold details. Strong mirror-like reflections of the dress, legs, and lights on the floor. High contrast, luxurious, sensual, sleek aesthetic, shallow depth of field, cinematic lighting, 4K, photorealistic.

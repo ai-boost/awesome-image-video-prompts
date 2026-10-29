@@ -1,0 +1,25 @@
+id: seedance-papercraft-boy-red-balloon-short
+title:
+  en: Papercraft boy follows ribbons to a lost balloon
+  zh: 纸艺男孩循着红丝带找回气球
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- papercraft
+- stop-motion
+- reference-image
+- storyboard
+source:
+  name: '@umesh_ai on X'
+  url: https://x.com/umesh_ai/status/2086049974241104085
+  credit: Umesh
+  likes: 631
+  captured: '2026-10-29'
+  posted: '2026-08-08'
+video: https://x.com/umesh_ai/status/2086049974241104085
+notes:
+  en: A reference image locks the folded-paper look, and the prompt gives a numbered 15 shot beat sheet with sound cues. Piano and glockenspiel are reserved for discoveries and emotional moments while natural ambience carries the rest, so sparse dialogue keeps the 30 second runtime calm.
+  zh: 参考图锁定折纸质感，提示词用编号的 15 个镜头列出节拍并指定音效。钢琴与钟琴只在发现和情感时刻出现，其余镜头以环境音为主，稀少的对白让 30 秒的片子保持平静。
+prompt: |
+  Create a 30-second short film in the same handcrafted miniature papercraft style as the reference image: folded-paper characters, visible fibers, tiny imperfections, soft natural light, shallow depth of field, gentle stop-motion movement, and cozy miniature environments. Keep the pace calm, curious, and magical. Use dialogue sparingly. Let natural ambience carry most scenes, with a soft piano and glockenspiel theme appearing only during discoveries and emotional moments.  15 shots:  Morning. The boy ties his shoes beside the front door while rain taps the window.  His mother hands him a tiny paper umbrella. “Looks like rain.”  Outside, he notices a little red balloon caught in a tree.  A handwritten tag hangs from it: “Please bring me home.”  Curious piano notes begin as he frees the balloon.  He walks through a misty vegetable market, balloon floating behind him.  An old fruit seller points uphill. “I saw one like that yesterday.”  The boy cycles toward a quiet hill, following tiny red ribbons tied to fences.  He stops at a railway crossing as a miniature train slowly passes.  On the other side, a curious dog begins following him.  Rain suddenly pours. The boy and dog shelter inside an abandoned bus stop.  He notices a child’s drawing taped beneath the roof: the same red balloon.  Following the final ribbon, they reach a tiny house beside a sunflower field.  A little girl opens the gate and gasps, “You found Ruby!” The music gently returns as she hugs the balloon.  The boy rides home at sunset with the dog now sitting proudly in his bicycle basket. He laughs, “I guess you’re coming too.”

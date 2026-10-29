@@ -1,0 +1,44 @@
+id: h3-retro-anime-girl-halftone-opening
+title:
+  en: Retro anime city girl montage with halftone
+  zh: 复古动漫城市少女网点蒙太奇
+model: MiniMax H3
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- retro
+- halftone
+- character-consistency
+source:
+  name: '@PixVerse on X'
+  url: https://x.com/PixVerse/status/2092945419978547387
+  credit: PixVerse
+  likes: 73
+  captured: '2026-10-29'
+  posted: '2026-08-27'
+video: https://x.com/PixVerse/status/2092945419978547387
+notes:
+  en: Two reference images lock the character's face and the graphic style, while the prompt separately sets the edit rhythm, the three colour palette and the print texture. Naming halftone, misregistration and flat colour blocks keeps the frame reading as TV anime rather than 3D rendering.
+  zh: 两张参考图分别锁定角色外貌和画面风格，提示词再单独规定剪辑节奏、三色配色和印刷质感。明确写出网点、套色错位和平面色块，画面才会像电视动画，而不是三维渲染。
+prompt: |
+  subject_definitions:
+
+  Character-feature reference:
+
+  <image 1>：Character appearance reference
+  <image2>: Environmental visual-style reference.
+
+  Generate a 15-second, 16:9 landscape Japanese anime opening sequence. Use the visual language of a modern Japanese anime opening with a retro printed urban atmosphere. Combine 2D hand-drawn animation, cel shading, dynamic key animation, and graphic-design aesthetics. Preserve a tactile paper-grain surface, halftone dots, and retro manga print-registration misalignment caused by layered color printing.
+
+  This should not be a character showcase PV. It should be a strongly rhythmic character montage. Center the sequence around one cool, retro urban girl, maintaining the exact same face throughout the entire video: jet-black bobbed hair with straight bangs and sharply layered ends, cool dark almond-shaped eyes, matte red lips, a signature beauty mark beneath the lower lip, a black tank top with heart-shaped patches, layered beaded necklaces, and a padlock pendant. Keep her facial structure and overall presence consistent in every shot.
+
+  Use a three-color visual system dominated by black, lake blue, and scarlet red, with milk-white accents. Build her personality through large areas of solid color, abstract urban silhouettes, geometric color blocks, shadows, manga-style compositions, and graphic visual symbols.
+
+  Use the rapid editing language commonly found in Japanese anime openings, including extreme close-ups of the eyes, red lips, padlock pendant, fingertips, and hair ends; tilted compositions; low-angle perspectives; sudden push-ins; frame slicing; and dynamic visual recombination. The editing rhythm may be freely arranged by the model according to the electronic beat.
+
+  Add halftone patterns, ink lines, drifting heart-shaped stickers, halos and light spots, film grain, color-registration offsets, floating flat graphic text, and geometric symbols as part of the visual language.
+
+  Emphasize a cool, distant, retro-urban loneliness with a mysterious, alluring quality, combined with a touch of City-pop nostalgia and a sense of fate. The result should feel like the official opening sequence of a Japanese television anime, not a game promotional CG trailer.
+
+  Avoid complex fantasy environments, realistic locations, battle demonstrations, 3D rendering, and any drift in the character’s facial features.

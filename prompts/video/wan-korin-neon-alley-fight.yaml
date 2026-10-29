@@ -1,0 +1,37 @@
+id: wan-korin-neon-alley-fight
+title:
+  en: Korin face in wind and neon light
+  zh: 风中霓虹灯下的 Korin 面部特写
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- timed-beats
+- neon-noir
+- slow-motion
+source:
+  name: '@navi_Ai2 on X'
+  url: https://x.com/navi_Ai2/status/2100089508385403367
+  credit: 𝐍𝐚𝐯𝐞𝐞 𝐀𝐢
+  likes: 212
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+video: https://x.com/navi_Ai2/status/2100089508385403367
+notes:
+  en: The prompt splits the 15 second fight into timed beats, each with its own camera direction, and fixes the character look once so it stays consistent across cuts. Named choreography beats and a closing style block with explicit no text and no gore lines keep the output clean.
+  zh: 提示词将 15 秒打斗拆成带时间段的分镜，每段写明镜头运动，并在开头固定角色外观以保证各镜头一致。结尾的风格段明确写出无文字、无血腥，使画面更干净。
+prompt: |
+  Create a 15-second cinematic action fight video featuring a fierce adult female warrior named Korin in a dark futuristic city alley at night. She wears a stylish black combat outfit with subtle metallic details, long flowing hair, and a confident, determined expression.
+
+  0–3 seconds: Start with a dramatic close-up of Korin’s face. Wind moves her hair as she slowly raises her eyes toward an approaching opponent. Neon lights reflect on her face, cinematic atmosphere, subtle handheld camera movement.
+
+  3–6 seconds: The opponent rushes toward Korin. She quickly dodges the first punch, spins around, and delivers a powerful kick to the opponent’s chest. Use realistic body movement, dynamic camera tracking, and natural motion blur.
+
+  6–10 seconds: Korin immediately attacks with a fast combination of punches and kicks. The opponent blocks some attacks and counterattacks. Show quick footwork, realistic impacts, believable martial-arts choreography, and dramatic camera angles.
+
+  10–13 seconds: The opponent attempts a final powerful strike. Korin ducks underneath it, grabs the opponent’s arm, performs a fast throw, and sends them crashing onto the ground.
+
+  13–15 seconds: Korin stands calmly over the defeated opponent, breathing heavily. She turns toward the camera with a confident expression while neon lights flicker behind her. End with a dramatic slow-motion shot and cinematic push-in.
+
+  Style: high-budget action movie, photorealistic, cinematic lighting, realistic physics, detailed facial expressions, smooth character animation, dynamic camera movement, dramatic atmosphere, professional fight choreography, sharp details, natural motion blur, consistent character appearance throughout, no blood, no gore, no text, no watermark.

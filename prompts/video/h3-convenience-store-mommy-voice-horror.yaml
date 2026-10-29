@@ -1,0 +1,118 @@
+id: h3-convenience-store-mommy-voice-horror
+title:
+  en: Girl in convenience store as stranger enters
+  zh: 深夜便利店里女孩购物，陌生男人走入
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- horror
+- photorealistic
+- shot-list
+- continuity
+- convenience-store
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2100626405214298544
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 70
+  captured: '2026-10-29'
+  posted: '2026-09-17'
+video: https://x.com/Diplomeme/status/2100626405214298544
+notes:
+  en: Each shot is timestamped with one clear story beat, and a continuity block fixes the girl, the man and the store layout across cuts. Explicit lighting and camera limits, such as no neon and no slow motion, keep the look grounded and the cuts consistent.
+  zh: 每个镜头都标注时间段并只承载一个情节节拍，角色与店内布局的连续性说明让各镜头保持一致。明确限定冷白荧光灯、禁止霓虹和慢动作等光线与运镜，使画面保持写实。
+prompt: |
+  15 seconds of zombie scene with H3 Minimax.
+
+  The MiniMax H3 x Picsart Challenge is live  no theme, just your best idea. $50,000 prize pool. Closes Sep 23.
+  @Hailuo_AI
+
+  @Picsart
+
+
+  Enter:
+  https://
+  tinyurl.com/bdfp4a6p
+
+  Try it Prompt : MINIMAX H3 — “COME TO MOMMY”
+
+  15-second photorealistic live-action horror sequence, 16:9, 7 distinct shots, new shot every ~2 seconds, premium theatrical cinematography, realistic human performances, practical lighting, grounded horror, no CGI appearance.
+
+  CHARACTER CONTINUITY:
+  Girl: 10–12 years old, natural appearance, shoulder-length dark hair, casual clothes, small backpack.
+  Infected man: late 30s, messy dark hair, gray worn jacket, dark trousers, tired face.
+  Shopkeeper: middle-aged man, simple store uniform.
+  Keep identical faces, wardrobe, proportions and appearance across all shots.
+
+  SHOT 1 — NORMAL | 0–2s
+  Wide establishing shot inside a small neighborhood convenience store at night. The girl casually walks through a grocery aisle with a basket, choosing snacks. Shopkeeper works behind the checkout counter. Automatic glass doors visible in the background. Everything feels ordinary and safe.
+  35mm cinema lens, subtle lateral camera movement.
+  Audio: refrigerator hum, fluorescent buzz, quiet store ambience.
+
+  SHOT 2 — THE STRANGER | 2–4s
+  Medium shot facing the entrance. Automatic doors open and a strange man enters. He appears heavily drunk, stumbling slightly and touching the door frame for balance. He slowly looks around. Shopkeeper notices him. Girl remains visible in foreground.
+  Natural handheld push toward the man.
+  His behavior initially looks completely believable.
+
+  SHOT 3 — SOMETHING IS WRONG | 4–6s
+  Close-up of the man. His stumbling suddenly stops. He becomes completely motionless. His eyes slowly focus. His head makes a subtle unnatural twitch. His breathing changes. His fingers tighten. He slowly turns toward the shopkeeper.
+  Locked close-up with tiny natural camera movement.
+  The store ambience becomes unnaturally quiet.
+
+  SHOT 4 — ATTACK | 6–8s
+  Fast medium-wide shot. Without warning, the man violently lunges toward the checkout. The shopkeeper recoils as the attacker grabs and slams him against the counter. Products fall onto the floor. The girl sees everything, drops her basket and runs.
+  Handheld camera reacts naturally to the sudden violence.
+  Fast realistic motion blur. No gore focus.
+
+  SHOT 5 — HIDE | 8–10s
+  Low camera inside a grocery aisle. The girl drops behind a shelf and covers her mouth, trying not to breathe loudly. Through a narrow gap between products, she watches the store. The infected slowly walks away from the counter. A dropped snack rolls across the floor.
+  Camera at the girl's eye level, partially obstructed by products.
+  Her frightened eye remains sharply focused.
+
+  SHOT 6 — THE SEARCH | 10–12.5s
+  Medium shot from behind the shelf. The infected slowly enters the aisle. His footsteps approach. He looks left, then right. The girl remains completely still. He suddenly turns toward her hiding place and stops.
+  Very slow camera push toward the gap between products.
+  Keep the infected partially obscured and human-looking.
+
+  SHOT 7 — MOMMY | 12.5–15s
+  Extreme close-up of the girl's face. She trembles silently, covering her mouth. From the other side of the shelf, the infected speaks using her mother's voice.
+
+  INFECTED, IN HER MOTHER'S VOICE:
+  “Sweetheart... come out. Mommy's here.”
+
+  The girl's eyes widen. She recognizes the voice. A tear forms. She slowly presses her hand over her mouth.
+
+  VOICE:
+  “Come to Mommy.”
+
+  Slow push toward her terrified expression. The infected remains a blurred silhouette through the shelf.
+
+  CUT TO BLACK.
+
+  VISUAL REALISM:
+  Photorealistic live-action. Natural skin texture, individual hair strands, realistic child movement, believable body mechanics, natural facial expressions, accurate clothing physics, realistic product interaction, physically correct shadows and reflections, natural motion blur, realistic depth of field.
+
+  ENVIRONMENT:
+  Real convenience-store materials: plastic packaging, glass refrigerators, metal shelving, paper labels, cardboard boxes and polished flooring. Maintain identical store layout across every shot.
+
+  LIGHTING:
+  Practical cool-white fluorescent lighting. Realistic falloff, darker spaces between aisles, natural reflections on refrigerator glass and floor. No neon lighting, colored fog, fantasy glow or excessive bloom.
+
+  CAMERA:
+  Professional cinema camera, primarily 35mm perspective. Each shot has a clearly different composition. Natural handheld movement during action, controlled movement during tension. No random camera movement, excessive shake, artificial zoom or slow motion.
+
+  EDITING:
+  Hard cinematic cuts. New visual information every ~2 seconds. Every shot advances the story. Maintain perfect character and environment continuity.
+
+  AUDIO:
+  Automatic door chime, refrigerator hum, fluorescent buzz, footsteps, products falling, girl's breathing and distant traffic. After the attack, reduce ambience. The mother's voice must sound warm, familiar and completely believable, making the imitation disturbing.
+
+  NON-DIEGETIC MUSIC:
+  Minimal low-frequency horror atmosphere after the attack. No loud jump scare or trailer-style impact.
+
+  FINAL TARGET:
+  A premium photorealistic horror-film scene with clear storytelling:
+  NORMAL STORE → STRANGER ENTERS → BEHAVIOR CHANGES → ATTACK → GIRL HIDES → INFECTED SEARCHES → MOTHER'S VOICE TRAP.
+
+  No generic AI faces, plastic skin, warped hands, duplicated people, changing wardrobe, inconsistent store layout, meaningless cuts or exaggerated monster design.

@@ -1,0 +1,25 @@
+id: h3-police-officer-scooby-doo-haunted-hallway
+title:
+  en: Live hallway footage restyled as 1970s cartoon
+  zh: 真人走廊画面改成70年代卡通风格
+model: MiniMax H3
+mode: reference-to-video
+category: vfx
+tags:
+- style-transfer
+- reference-video
+- cartoon
+- haunted-house
+source:
+  name: '@thefinnmckenty on X'
+  url: https://x.com/thefinnmckenty/status/2102140381001617683
+  credit: Finn McKenty
+  likes: 673
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+video: https://x.com/thefinnmckenty/status/2102140381001617683
+notes:
+  en: Pairing the source video with a GPT Image restyled first frame gives the model a locked composition and a target look. The prompt keeps the reference layout and only swaps the style and props, so the officer's walk and camera angle carry over from the real footage.
+  zh: 将源视频与 GPT Image 重绘的首帧一同作为参考，模型能锁定构图和目标画风。提示词只要求保留参考画面的布局并替换风格与道具，因此人物走位和机位都沿用真实素材。
+prompt: |
+  Use this image as reference for overall composition, and create a new image in the style of a vintage 1970s animated cartoon like Scooby Doo. In the new image, a police officer is walking down the hallway of a dusty haunted house with skulls, bones, spiderwebs, and other appropriate objects replacing the ones in the reference image.

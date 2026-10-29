@@ -1,0 +1,125 @@
+id: wan-mumbai-pav-bhaji-vlog
+title:
+  en: British tourist eats pav bhaji on Mumbai street
+  zh: 英国游客在孟买街头吃 pav bhaji
+model: Wan 3.0
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- food
+- dialogue
+- street-scene
+- mumbai
+source:
+  name: '@AITalesNBH on X'
+  url: https://x.com/AITalesNBH/status/2092352446676845016
+  credit: AI Tales - Not by Humans
+  likes: 163
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+video: https://x.com/AITalesNBH/status/2092352446676845016
+notes:
+  en: Fixed character sheets for both speakers keep faces and clothes consistent across cuts, and each timestamped beat pairs its camera setup with the exact dialogue and sound cues. A separate audio section and avoid list lock in lip sync, ambient sound and no subtitles.
+  zh: 为两位人物分别写固定的外形设定，保证各镜头中脸和服装一致；每个时间段都把机位、对白和声音提示写在一起。单独的音频部分与避免清单约束口型同步、环境声并禁止字幕。
+prompt: |
+  Create a 30-second cinematic travel-food vlog set in Mumbai, India, filmed documentary-style with a handheld camera. Warm, crowded, lively and spontaneous atmosphere. Natural daylight, humid Mumbai air, subtle handheld movement, occasional autofocus shifts, realistic traffic, pedestrians, vendors and cooking sounds. No background music during conversations.
+
+  This prompt is designed as a reusable universal template. The tourist, language, location and food can be changed independently while preserving the same structure, pacing and cinematic style.
+
+  Maintain strict character consistency:
+
+  The vlogger is a friendly British man in his early thirties, wearing a light linen shirt, dark trousers and a small backpack.
+
+  The vendor is a friendly Mumbai street-food cook in his fifties, with a moustache, simple shirt and apron.
+
+  Dialogue is in English. The vendor speaks clear English with a natural Indian accent—authentic and never exaggerated.
+
+  00:00–00:04 — MUMBAI STREET
+
+  Handheld selfie shot as the British tourist walks through a bustling Mumbai street with small shops, food stalls, pedestrians, taxis and auto-rickshaws.
+
+  He notices a street stall where pav bhaji is being prepared on a large iron griddle, steam rising into the humid air.
+
+  BRITISH MAN:
+  “I’ve just found this street-food stall in Mumbai. That smells incredible!”
+
+  He approaches the vendor.
+
+  00:04–00:09 — THE VENDOR
+
+  Medium handheld shot beside the sizzling tawa. The vendor rapidly mixes vegetables, tomatoes, spices and butter with a metal spatula.
+
+  BRITISH MAN:
+  “What are you making?”
+
+  VENDOR:
+  “Pav bhaji! Very famous Mumbai food.”
+
+  BRITISH MAN:
+  “Can I try it?”
+
+  VENDOR:
+  “Of course! Welcome to Mumbai!”
+
+  00:09–00:16 — PREPARATION
+
+  Fast cinematic food-vlog montage.
+
+  Extreme close-up: butter melts across the hot tawa. The vendor adds tomatoes, onions, peppers, potatoes, vegetables and aromatic spices, vigorously crushing and mixing everything with two metal spatulas.
+
+  CLACK—CLACK—CLACK.
+
+  Steam rises toward the lens. Close-up of rich red-orange bhaji bubbling as fresh coriander is scattered over it.
+
+  Soft pav bread rolls are sliced, buttered and toasted until golden.
+
+  Capture melting butter, sizzling vegetables, toasted bread, steam and skilled hand movements.
+
+  00:16–00:21 — SERVING
+
+  The British man sits on a simple stool beside the stall.
+
+  The vendor serves steaming pav bhaji topped with butter and coriander, with toasted pav, chopped onion and lime.
+
+  VENDOR:
+  “Try it with the pav—and squeeze some lime.”
+
+  The tourist squeezes lime over the bhaji.
+
+  00:21–00:27 — TASTING
+
+  Close handheld shot. The British man tears off warm pav, dips it into the bhaji and takes a bite.
+
+  He pauses, pleasantly surprised, then smiles at the vendor.
+
+  BRITISH MAN:
+  “Oh, wow! Spicy, buttery… absolutely delicious!”
+
+  The vendor laughs proudly as Mumbai street life continues behind them.
+
+  00:27–00:30 — ENDING
+
+  Selfie framing with the vendor beside him and the steaming stall behind them.
+
+  BRITISH MAN:
+  “Proper Mumbai street food. You have to try this!”
+
+  VENDOR:
+  “Welcome to Mumbai!”
+
+  They laugh. The camera swings toward the sizzling tawa as the vendor drops another piece of butter onto it.
+
+  SSSSSSHHHH!
+
+  Steam rises toward the camera.
+
+  CUT TO BLACK.
+
+  VISUAL & AUDIO DIRECTION
+
+  Photorealistic, spontaneous Mumbai travel vlog. Authentic crowded streets, weathered shopfronts, pedestrians, black-and-yellow taxis, auto-rickshaws and dense Indian architecture. Handheld selfie footage, intimate vendor interactions, macro food photography, shallow depth of field and rapid, coherent editing.
+
+  Authentic Mumbai soundscape: horns, traffic, pedestrians, vendors, metal spatulas striking the tawa, sizzling butter and utensils. Dialogue must be clear and precisely lip-synchronized.
+
+  Avoid: subtitles, captions, logos, watermarks, distorted hands, duplicated people, changing faces or clothing, exaggerated accents, stereotypes, excessive camera shake, artificial-looking food, luxury settings or incorrect lip synchronization.

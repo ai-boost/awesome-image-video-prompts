@@ -1,0 +1,40 @@
+id: wan-japanese-street-candid-glance
+title:
+  en: Woman with long black hair on Japanese street
+  zh: 黑长发女生在日本街头回望镜头
+model: Wan 3.0
+mode: reference-to-video
+category: vlog
+tags:
+- reference-image
+- japanese-street
+- handheld-camera
+source:
+  name: '@Pengchenop on X'
+  url: https://x.com/Pengchenop/status/2109467882153480285
+  credit: 黑大王
+  likes: 58
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+video: https://x.com/Pengchenop/status/2109467882153480285
+notes:
+  en: 'A reference image locks the face, and the prompt scripts the beats in order: looking down at the phone, a street sound drawing her gaze up, then eye contact with the lens. Handheld framing and a Japanese film colour grade keep it reading as a candid street snapshot.'
+  zh: 参考图锁定人脸，提示词按顺序安排动作节拍：先低头看手机，街边声音带动抬头，最后视线与镜头相遇。手持运镜和日系胶片色调让画面像随手抓拍的街头照片。
+prompt: |
+  Based on the provided character reference image, maintain the character's original facial features, proportions of facial features, and overall temperament, and generate a segment of ultra-high-definition, cinematic realistic style Japanese street life short film.
+
+  The scene is set on a sunny and bright morning, on a Japanese street full of life. Both sides of the street are lined with various small shops, with signs and buildings staggered in an orderly manner. In the distance, pedestrians riding bicycles and slowly passing vehicles appear from time to time, creating an authentic and natural urban daily atmosphere.
+
+  The character stands in a safe area by the roadside, with soft black long hair naturally cascading down. A gentle breeze lightly blows the hair tips, with a few strands of hair brushing across the cheeks with the wind. Warm morning light spills from the front side, illuminating the character's facial contours and hair strands, forming a soft and translucent natural glow.
+
+  The character has delicate and harmonious facial features, a straight nose bridge, and naturally delicate skin, exuding an overall pure and gentle, slightly lazy senior sister temperament. She carries a black high-end textured leather bag over one shoulder, holds her phone casually in both hands, and her body posture is relaxed and at ease.
+
+  The camera slowly approaches in a handheld street photography style, accompanied by slight natural shakes. The character first looks down at her phone, then is drawn by the sounds from the street side, gently raises her head, and her gaze inadvertently meets the lens, revealing a naturally relaxed expression. The entire process has no deliberate posing feel.
+
+  A breeze blows through the street, and a few sycamore leaves slowly drift down. In the background, pedestrians, vehicles, and tree shadows move naturally, with realistic and delicate light and shadow changes on the building surfaces.
+
+  The footage adopts a fresh Japanese film snapshot color tone, bright and translucent, with soft colors, retaining authentic skin textures and natural light levels. The composition has a slightly casual and irregular feel, simulating a life moment accidentally captured by a photographer on the street.
+
+  4K ultra-high-definition quality, 24fps, realistic physical lighting, natural depth of field, delicate dynamic performance, highly consistent character facial features, smooth and coherent movements, no obvious AI generation traces.
+
+  Negative prompt: excessive skin smoothing, plastic skin, exaggerated beautification, facial feature distortion, character face swap, deformed fingers, limb twisting, hair clipping, background flickering, vehicle deformation, stiff movements, severe lens shake, over-sharpening, fake light and shadow, cartoon texture, CG rendering feel.

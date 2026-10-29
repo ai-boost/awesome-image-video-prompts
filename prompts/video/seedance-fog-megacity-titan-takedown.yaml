@@ -1,0 +1,29 @@
+id: seedance-fog-megacity-titan-takedown
+title:
+  en: Fog covered megacity at sunrise from above
+  zh: 晨雾笼罩的未来巨型城市航拍
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- sci-fi
+- megacity
+- aerial
+- continuity
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2089538609858875714
+  credit: Sarah
+  likes: 195
+  captured: '2026-10-29'
+  posted: '2026-08-18'
+video: https://x.com/SyntheSarah/status/2089538609858875714
+notes:
+  en: The prompt reads as a shot list, one paragraph per beat, and each beat names its own camera move, such as an over the shoulder track, a 360 degree orbit and a closing aerial pull up, which gives the model a clear edit order. A closing constraints block fixes lens, grain and character continuity so the face and dark suit stay the same across cuts.
+  zh: 提示词按镜头顺序分段书写，每段都给出明确的运镜，如过肩跟拍、360 度环绕和结尾的航拍拉升，为模型提供清晰的剪辑顺序。结尾的约束段锁定镜头焦段、胶片颗粒和角色外观，使人物面部与深色战术服在各镜头间保持一致。
+prompt: |
+  An ultra-photorealistic live-action sci-fi cinematic sequence set in a vast, ruined futuristic megacity at pre-dawn, framed by towering obsidian skyscrapers, rain-drenched streets, hanging fog, and a massive alien mothership hovering silently above the skyline. A 15-meter gunmetal combat robot featuring weathered armor plates, exposed mechanical hydraulics, and a pulsing blue chest core violently charges through the wreckage, sending shockwaves through puddles and scattering concrete debris. The camera rapidly drops into an over-the-shoulder tracking perspective following a 25-year-old female warrior—with long messy dark-brown hair, brown eyes, realistic skin texture, and a practical dark armored tactical suit—as she draws an energy spike weapon and sprints head-on into the titan’s path.
+  As the machine executes a massive overhead downward strike, she dives into a low power-slide directly beneath its crushing fist. The fist shatters the asphalt with heavy physical impact, launching a wall of water, sparks, and pulverized stone into the air with natural motion blur. Utilizing her forward momentum, she vaults onto the robot’s lower leg armor, gripping fractured metal seams and scaling its massive torso while the camera swings in a continuous, dynamic 360-degree orbital arc around the rising combatants. She narrowly dodges a sweeping mechanical hand, maneuvers past sparking internal wiring, and reaches the glowing chest housing.
+  A dramatic tight close-up captures her fierce, determined expression as she drives the high-density energy spike straight into the center of the core. Blinding blue-white electrical arcs burst violently through the titan’s internal conduit networks, illuminating its mechanical structure, causing its red eye-visors to flicker out, and shutting down its central power. The colossal machine loses balance and collapses forward with immense, realistic weight, slamming onto the roadway and kicking up a thick cloud of dust, smoke, and steam.
+  She leaps clear and lands gracefully in a grounded stance beside the smoking wreck, standing tall as the dust settles. The camera smoothly pulls up into a grand high-altitude aerial view as golden sunrise beams break through the storm clouds, washing over the destroyed city street while the giant mothership slowly retreats into the upper atmosphere.
+  Technical Constraints: 4K HDR live-action film quality, photorealistic 35mm grain, 85mm cinematic lens depth of field, realistic gravity and collision physics, volumetric smoke and fog lighting, precise character facial feature and dark tactical suit continuity across all frames, zero morphing, zero cartoon/CGI aesthetic, no extra limbs.

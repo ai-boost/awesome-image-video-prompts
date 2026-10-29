@@ -1,0 +1,30 @@
+id: h3-barista-latte-art-storyboard
+title:
+  en: Anime barista makes latte art from storyboard
+  zh: 动漫咖啡师按分镜制作拉花拿铁
+model: MiniMax H3
+mode: reference-to-video
+category: dialogue
+tags:
+- storyboard
+- latte-art
+- slice-of-life
+- character-reference
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2090556776156742071
+  credit: Kōda
+  likes: 643
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+video: https://x.com/aimikoda/status/2090556776156742071
+notes:
+  en: The prompt tells the model to treat the storyboard as sequential shot guidance and to follow each panel as a separate beat, with no scene text at all. A character sheet locks the look, and the Japanese narration is listed line by line so the dialogue lands on each beat.
+  zh: 提示词要求模型把分镜当作连续镜头指引，逐格执行，且不写任何场景描述。角色图锁定外观，日语旁白按行列出，使台词与每个分镜节拍对应。
+prompt: |
+  Create a 16:9, 9-panel storyboard for a quiet slice-of-life anime video about making latte and latte art. The uploaded character should appear throughout the storyboard. Use a basic Japanese animation storyboard sketch style with loose pencil lines, simple shading and cinematic anime compositions. The overall tone should feel intimate, understated and slightly melancholic, with late-evening café lighting, mundane moments made beautiful, subtle expressions, negative space, off-center framing and close-ups of hands, eyes, steam and small gestures. Avoid flashy commercial shots or exaggerated anime reactions. The character should softly talk to themselves while making the latte, with restrained natural body language. The latte design should gradually form but remain unreadable until the very end.
+  Narration:
+  まずはエスプレッソを淹れます。
+  ミルクをなめらかにスチームして、ゆっくり注ぎます。
+  カップに近づけて、模様を描いていきます。
+  最後にひと仕上げ。ラテアートの完成です。

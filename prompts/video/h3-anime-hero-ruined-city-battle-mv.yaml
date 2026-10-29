@@ -1,0 +1,42 @@
+id: h3-anime-hero-ruined-city-battle-mv
+title:
+  en: Anime hero battles through ruined city at dusk
+  zh: 动漫英雄黄昏中穿越废墟城市
+model: MiniMax H3
+mode: text-to-video
+category: anime
+tags:
+- anime
+- music-video
+- action
+- lyric-typography
+- hard-cuts
+source:
+  name: '@whorange__ on X'
+  url: https://x.com/whorange__/status/2090671364281884983
+  credit: WHORANGE
+  likes: 63
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+video: https://x.com/whorange__/status/2090671364281884983
+notes:
+  en: Each shot is timed to a beat with hard cuts only, and the lyric typography sits inside the scene so it never covers the eyes or mouth. Naming the cel-shaded look, speed lines and burning horizon keeps the style consistent across all six shots.
+  zh: 每个镜头按秒数和节拍设定，全程只用硬切，歌词字幕融入场景且不遮挡眼睛和嘴。明确写出赛璐璐上色、速度线和燃烧地平线等风格词，使六个镜头的画风保持一致。
+prompt: |
+  Create a 15-second 16:9 anime action battle music video with original lyrics.
+
+  Style: sharp cel-shaded anime, neon energy aura, speed lines, glowing particles, cinematic contrast, dramatic impact frames, hard cuts only, no fades, intense motion, heroic and triumphant mood.
+
+  Scene: a lone anime hero in a ruined futuristic city at dusk. The hero stands on a rooftop, then sprints across shattered buildings, faces an enemy silhouette in a smoke-filled street, clashes mid-air, powers up, unleashes a final energy attack, and ends in a victorious silhouette against a burning horizon.
+
+  Typography: bold glitch-neon lyric text, smash-in on beats, floating in 3D space, integrated into the scene, never covering the eyes or mouth, synced to snare hits, bass hits, and vocal accents. Original lyrics: Run through the fire / Break through the night / Hearts like thunder / We ignite / No more fear / No turning back / Every spark becomes attack.
+
+  Shot structure:
+  Shot 1 (0.0s–2.5s): rooftop hero reveal, wind, smoke, glowing aura begins.
+  Shot 2 (2.5s–5.0s): hero dashes across broken rooftops, energy trails, fast tracking motion.
+  Shot 3 (5.0s–7.5s): enemy reveal, aerial clash, impact flash, debris burst.
+  Shot 4 (7.5s–10.0s): close-up power-up, intense resolve, energy spiral around the body.
+  Shot 5 (10.0s–12.5s): final attack, explosive light slash, sky tears open.
+  Shot 6 (12.5s–15.0s): aftermath, glowing crater, hero silhouette, burning skyline, final heroic pose.
+
+  Editing rules: hard cuts only, beat-synced transitions, no soft dissolves, no static subtitle bar, dynamic lyric typography as part of the scene, strong motion continuity, cinematic anime energy throughout.

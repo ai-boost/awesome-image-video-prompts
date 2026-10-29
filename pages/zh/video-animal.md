@@ -1,6 +1,6 @@
 # 动物与萌宠
 
-[返回目录](../../README_zh.md) · 全部 21 条
+[返回目录](../../README_zh.md) · 全部 26 条
 
 <a id="kling-eagle-pov-steppe-flight"></a>
 ### 金雕视角飞越山谷与河流
@@ -132,6 +132,140 @@ NOTE: If some scenes didn't work (action was different than original video) simp
 
 </details>
 
+<a id="wan-panda-pond-canvas-toy-scene"></a>
+### 熊猫池塘场景，竹林与樱花树
+
+<a href="https://x.com/EianLu/status/2115624666161418709"><img src="../../previews/wan-panda-pond-canvas-toy-scene.jpg" width="360"></a>
+
+一个单文件 Canvas 提示词，留有动物、动作、物件和标牌文字的填空位，并固定了地台剖面、光照和移轴模糊等规则。眼部下垂、四肢无毛等要求保证角色可爱，画圈生成角色的交互让场景可玩。
+
+Wan 3.0 · 文生视频 · 出处: [@EianLu on X](https://x.com/EianLu/status/2115624666161418709) · 288 赞，统计于 2026-10-29
+
+[`canvas-2d`](tags.md#tag-canvas-2d) [`html`](tags.md#tag-html) [`panda`](tags.md#tag-panda) [`interactive-toy`](tags.md#tag-interactive-toy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a soothing interactive mini-toy using a single HTML file + Canvas 2D (no image assets needed).
+
+[User fills in]
+
+- Main character animal: ____ (e.g., baby panda / corgi puppy / little lamb / duckling)
+
+- Main character appearance details: ____ (e.g., black-and-white coloring, black eye patches; if left blank, default to the cutest features of that animal)
+
+- Main character's actions: walking + ____ (e.g., sitting and munching bamboo shoots / wagging tail / swimming; can list 2–3)
+
+- Scene theme: ____ (e.g., bamboo grove meadow / beach shore / snowy pine forest)
+
+- Objects in the scene: ____ (e.g., bamboo grove, bamboo shoots, pond, cherry blossom tree, wooden sign; suggest 8–12 items)
+
+- Text on the wooden sign: ____ (can leave blank)
+
+[Visuals]
+
+On a cream-colored paper background floats a miniature terrain platform, viewed from a 3/4 overhead angle with lots of white space around. The platform is a rounded square, exposing about 50px of cross-section thickness; the cross-section material should match the scene (soil layers / sand layers / ice layers, with layering and details). Fill the ground texture according to the scene theme, place the scene objects on it, and add pebbles, little flowers, and grass as accents to make the image full but not cluttered.
+
+Style should be cute, soothing, full, and three-dimensional:
+
+- Build all objects from radially gradient spheres lit from the upper left, with soft shadows and contact shadows; trees, bushes, clouds made of lots of small bumpy shapes with light and dark variations
+
+- Ground uses tens of thousands of short brush strokes plus color block mottling—don't flat-fill
+
+- Tall things (trees, bamboo, pillars) must be drawn complete, with tops and tips, not cut off by the frame; balance the visual weight on left and right sides
+
+- Finally add tilt-shift blur, slight boost in contrast and saturation, warm-to-cool soft light gradient
+
+- Default to bright colors; only dark scenes like nightscapes should be dim
+
+[Main Character]
+
+Chubby, roly-poly baby build: big head, round body, short limbs, big eyes with highlights, blushing cheeks, gentle expression. Eye-area patterns or patches should droop outward and downward—don't make them upturned, or it'll look fierce. Fur edges only with short, soft strokes—no fur on limbs or feet. Every action should be instantly recognizable at a glance (e.g., body level when walking, legs alternating), and it should blink.
+
+[Interactions]
+
+- Draw a circle on the ground with the mouse; a main character pops out in the circle (easeOutBack bounce + star particles)—bigger circle means bigger character; if drawn in water or dense bushes where it can't stand, prompt "Try drawing a circle on some open ground instead." Max 30 characters.
+
+- Characters wander idly near their own circle, randomly doing various actions; they won't enter water or pass through obstacles, and they'll step aside for each other; smaller ones will follow bigger ones.
+
+- Drag characters (they lift off the ground when grabbed). If dropped in an unstandable spot, auto-move to the nearest open ground—don't bounce back to original spot. Select and hit Delete to remove.
+
+- Drag blank space outside the platform or right-click drag to rotate the view: left-right for rotation, up-down for pitch. Top-right has ±45° and reset buttons; keyboard ← → also rotates.
+
+- Add a few moving little things in the scene, like flying or floating ones, water ripples—whatever matches the scene theme.
+
+[Technical Requirements]
+
+- Ground uses u,v ∈ [0,1] coordinates with a perspective camera (yaw + pitch); platform auto-scales on view change to always fit fully in the frame.
+
+- Two layers: Ground layer repaints once per view change; vertical objects pre-rendered as small images at fixed view (auto-crop transparent edges), then positioned by camera, scaled by distance, and sorted with main character by screen y from back to front—so characters can walk behind objects. Dense tree groves broken into individual tree small images.
+
+- Obstacles judged by circular footprints on the ground; character positions also in u,v coordinates, independent of view.
+
+- Don't use ctx.filter blur every frame (way too slow). Dynamic shadows via radial gradients instead; during rotation, use draft quality without blur, switch to full quality and fade in after release. Blur radius doesn't auto-scale—manually multiply by render scale.
+
+- Keep 60fps with about 10 characters on screen at once; adapt to window scaling and mobile screens.
+
+[Process]
+
+1. Start with just the static scene—output 2–3 sample images for my approval: one full panorama, one close-up of main character in various poses.
+
+2. After I approve, build the interactive version; test it yourself in the browser once done—check circle-drawing, dragging, deleting, and rotating, confirm no errors.
+```
+
+</details>
+
+<a id="h3-woman-dog-green-window-breeze-short-film"></a>
+### 绿色窗边的女子与狗在风中
+
+<a href="https://x.com/hey_am_cherry/status/2113115486393409560"><img src="../../previews/h3-woman-dog-green-window-breeze-short-film.jpg" width="360"></a>
+
+从参考图作为精确首帧开始，并明确列出需要保持的形象锚点（短发、白T恤、三色狗、绿色窗框、胶片颗粒）。按每3秒一段的时间表编排动作与声音提示，让风声、爪子动作和钢琴渐强与画面同步。
+
+MiniMax H3 · 图生视频 · 出处: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2113115486393409560) · 217 赞，统计于 2026-10-29
+
+[`dog`](tags.md#tag-dog) [`window-light`](tags.md#tag-window-light) [`wind-hair`](tags.md#tag-wind-hair) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second hyper-realistic emotional short film using the provided image as the exact starting frame. Preserve the woman's identity, short black bob haircut, white T-shirt, tricolor dog, old green window frame, and warm vintage film aesthetic.
+
+FORMAT:
+15 seconds, vertical 3:4, photorealistic, continuous natural handheld footage. Realistic wind physics, detailed hair movement, expressive but believable animal behavior, warm cinematic lighting, subtle 35mm film grain.
+
+STORY AND ACTION:
+
+0–3 SECONDS — THE WIND ARRIVES
+Begin exactly from the reference image. The woman rests her cheek against her hand while the dog lies in the foreground. A sudden gentle breeze enters through the partly open window. Her loose bangs lift and sweep across her eyes, several strands fluttering naturally around her cheeks. She blinks, gives a tiny amused expression, and tries to move the hair away from her face. The curtain in the background sways gently.
+
+Sound: Soft outdoor wind, distant birds, subtle cafe ambience, and a delicate piano melody beginning quietly.
+
+3–6 SECONDS — THE UNEXPECTED REACTION
+The dog suddenly raises its head and notices her windblown hair. It tilts its head, watches her struggle with the loose strands, then carefully lifts one paw and places it on the window ledge near her arm. The woman notices and looks at the dog with genuine surprise. A stronger breeze lifts her hair again, and she lets out a short, natural laugh.
+
+Sound: Gentle wind through the window, soft paw movement, a faint natural laugh. Piano builds with warm strings.
+
+6–10 SECONDS — THE CONNECTION
+The dog moves closer and gently nudges her forearm with its nose, trying to get her attention. She lowers her hand from her cheek and strokes its head. Just then, another gust sweeps her bangs across her face. She leans forward, playfully brushing her hair aside, and the dog stretches up to nuzzle her cheek. Capture the tiny details: moving hair strands, the dog's shifting ears, her changing expression, and realistic fur reacting to the breeze.
+
+Sound: Natural dog breathing, rustling hair, soft fabric movement, piano and strings building emotionally.
+
+10–13 SECONDS — THE WOW MOMENT
+As the woman leans closer, the dog gently places its front paws on the window ledge and reaches toward her. She instinctively wraps both arms around its head and shoulders in a spontaneous affectionate embrace. Her hair blows across both of them as warm late-afternoon sunlight briefly catches the moving strands. She closes her eyes for a moment, smiling genuinely against the dog's head. Keep the interaction physically natural and anatomically correct.
+
+13–15 SECONDS — THE ENDING WORTH WATCHING
+The woman slowly lifts her face from the dog's fur. The dog looks directly into her eyes, then gives her cheek one quick, natural lick. She freezes in surprised delight for a split second, then breaks into a real, uncontrollable little smile and hugs the dog closer. A final gust lifts her bangs away from her face, revealing her full smile. The camera makes a subtle push-in and holds on their joyful expressions as the music reaches its warmest note. End on the dog's happy, relaxed face beside hers.
+
+AUDIO DESIGN:
+Create an original emotional piano-and-strings soundtrack synchronized with the action.
+
+VISUAL QUALITY AND MOTION:
+Natural wind with individual hair strands moving independently; believable hair physics; detailed fur; realistic eye movements and blinking; natural facial expressions; correct hand and paw anatomy; consistent character identity; physically plausible contact between the woman and dog. Preserve the original green window framing and warm, slightly grainy film look. The woman's face remains the visual focus.
+```
+
+</details>
+
 <a id="h3-car-backseat-raccoon-monkey-chip-burst"></a>
 ### 车后座浣熊与猴子的薯片爆开
 
@@ -197,6 +331,54 @@ FINAL FRAME: Gmail, Discord, and Microsoft Teams are EXACTLY back in their origi
 
 </details>
 
+<a id="h3-monkey-snatches-drink-japan-rest-stop"></a>
+### 猴子在日本休息站抢走女子的饮料
+
+<a href="https://x.com/hey_am_cherry/status/2110591304795410797"><img src="../../previews/h3-monkey-snatches-drink-japan-rest-stop.jpg" width="360"></a>
+
+手持 iPhone 竖拍的画面和克制的反应描述让片段像真实的旅行记录，喜剧效果全部来自猴子的意外动作。参考图只锁定人物身份，分段时间轴则固定瓶子、瓶盖、帆布包和零食等道具，使 15 秒内的动作前后连贯。
+
+MiniMax H3 · 参考生视频 · 出处: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2110591304795410797) · 103 赞，统计于 2026-10-29
+
+[`monkey`](tags.md#tag-monkey) [`handheld`](tags.md#tag-handheld) [`japan`](tags.md#tag-japan) [`humor`](tags.md#tag-humor)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create ultra-realistic 15-second vertical iPhone footage during a sunny summer afternoon at a quiet Japanese mountain village rest stop. Use the provided reference image ONLY for the main woman's identity. Keep her facial features, hairstyle, skin tone, outfit, and overall appearance consistent throughout.
+
+The footage should look like a friend casually recording a real travel moment. Natural handheld smartphone movement, imperfect framing, realistic autofocus, authentic daylight, and spontaneous reactions. The scene must feel unscripted and believable, not cinematic.
+
+0–3 seconds:
+The woman stands beside a Japanese vending machine, opening a cold plastic drink. A Japanese macaque monkey sits on a wooden railing nearby, watching her. She notices the monkey briefly, then looks back at her drink.
+
+3–6 seconds:
+Without warning, the monkey quickly jumps down, snatches the bottle from her hand, and darts onto the nearby railing. The woman instinctively reaches for the bottle, then freezes with a genuinely surprised expression. The camera quickly turns to follow the monkey.
+
+6–9 seconds:
+The monkey sits on the railing and investigates the bottle with both hands, trying to open it. The woman takes two cautious steps closer, watching with a confused, disbelieving look. She remains composed, with only a slight natural smile.
+
+9–12 seconds:
+The monkey drops the bottle cap onto the ground. The woman bends slightly to look at it, then glances back at the monkey. Suddenly, a second macaque approaches from behind and reaches into her open tote bag, pulling out a wrapped snack.
+
+12–15 seconds:
+The woman immediately turns at the sound of her bag rustling and discovers the second monkey escaping with her snack. She quickly pulls her bag toward herself, looks from the monkey to her now-empty hand, and gives the camera a silent, incredulous look. The person filming quickly pans toward the escaping monkey as it climbs onto the railing with the snack. End abruptly during the action.
+
+CHARACTER REACTIONS:
+The woman must behave like a normal person experiencing an unexpected situation. Use subtle surprise, brief pauses, raised eyebrows, and natural body movements. No hysterical laughter, no continuous smiling, no exaggerated shock, no repeated pointing, and no laughing without a clear reason. Her reactions should be restrained and realistic. The unexpected monkey behavior provides the humor.
+
+AUDIO:
+Natural outdoor ambience, distant birds, vending machine hum, monkey chatter, bottle rattling, footsteps, and the sound of the snack wrapper. The woman may make one brief surprised gasp but must not laugh continuously. No background music, no narration, and no scripted dialogue.
+
+VISUAL CONSISTENCY:
+Both monkeys must remain anatomically realistic. Keep the same bottle, cap, tote bag, and snack consistent throughout. Every action must happen in a clear sequence with believable contact and movement. Keep the woman's face recognizable and visible during key reactions.
+
+AVOID:
+Hysterical laughter, forced smiles, cartoon behavior, exaggerated acting, cinematic camera movements, slow motion, dramatic visual effects, duplicated monkeys, extra limbs, morphing objects, teleportation, distorted hands, changing character identity, and artificial-looking skin.
+```
+
+</details>
+
 <a id="h3-cat-shelters-abandoned-puppy-rainy-night"></a>
 ### 雨夜纸箱里猫咪守护被遗弃的小狗
 
@@ -214,6 +396,55 @@ MiniMax H3 · 文生视频 · 出处: [@ZarnishNael on X](https://x.com/ZarnishN
 Popo, a cat, finds a puppy abandoned in a cardboard box under the eaves. At first, Popo acts cold and indifferent, but when heavy rain begins, the cat bravely shields the puppy from the storm and spends the night keeping it warm beneath its belly.
 
 By the next morning, a bond has formed between them. They begin facing the harsh life of stray animals together—Popo suppressing its own hunger to give the puppy its prey, even sneaking into a supermarket in search of food. Eventually, with the kindness and help of people around them, the two manage to get something to eat. As they cuddle together beneath the setting sun, they develop a deep and genuine bond that transcends species.
+```
+
+</details>
+
+<a id="h3-impasto-bear-autumn-lake"></a>
+### 厚涂油画中的秋湖棕熊吃浆果
+
+<a href="https://x.com/churvikv/status/2107479794371666073"><img src="../../previews/h3-impasto-bear-autumn-lake.jpg" width="360"></a>
+
+先写画风与笔触质感，再按从前景浆果到远景山脉的顺序描述场景，让布局清晰。用一个具体动作（咀嚼时头部轻微移动）加上风吹草叶的环境运动，让静态油画动起来，不需要镜头运动。
+
+MiniMax H3 · 文生视频 · 出处: [@churvikv on X](https://x.com/churvikv/status/2107479794371666073) · 96 赞，统计于 2026-10-29
+
+[`oil-painting`](tags.md#tag-oil-painting) [`impasto`](tags.md#tag-impasto) [`wildlife`](tags.md#tag-wildlife) [`autumn`](tags.md#tag-autumn) [`bear`](tags.md#tag-bear)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Oil painting style, thick impasto texture. A large brown bear standing by a lake in an autumn forest. The bear is gently eating red berries from a bush in the foreground. The bear's head moves slightly as it chews the berries. Background features snow-capped mountains, yellow autumn trees, and a calm lake with gentle water ripples. Subtle wind blowing the grass and leaves. Cinematic lighting, highly detailed, 4k.
+```
+
+</details>
+
+<a id="kling-park-bench-dog-ball-edit"></a>
+### 公园里狗把球叼给了另一位朋友
+
+<a href="https://x.com/shikoba_86/status/2111760132535099777"><img src="../../previews/kling-park-bench-dog-ball-edit.jpg" width="360"></a>
+
+将角色、摄影、光线和镜头分别锁定在独立段落中，让编辑后的各镜头保持同一对朋友和同一只狗。每个镜头都标注音频线索，使每处改动与原始片段的时间节奏对应。
+
+Kling 4.0 · 视频编辑 · 出处: [@shikoba_86 on X](https://x.com/shikoba_86/status/2111760132535099777) · 51 赞，统计于 2026-10-29
+
+[`video-editing`](tags.md#tag-video-editing) [`character-lock`](tags.md#tag-character-lock) [`dog`](tags.md#tag-dog) [`park`](tags.md#tag-park) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A city park on a sunny late-summer afternoon: a wooden bench beside a gravel path, tall green trees, a few people walking in the background.
+CHARACTER LOCK: Friend A: man in his late 20s, short curly black hair, light stubble, white t-shirt, faded blue denim jacket, beige chinos, white sneakers. Friend B: man in his late 20s, short straight blond hair, clean-shaven, dark green hoodie, black jeans, grey sneakers. Dog: medium-sized golden retriever with a red collar. Same faces, clothes and dog in every frame.
+PHOTOGRAPHY LOCK: 35mm and 50mm lenses, shallow depth of field, warm afternoon sunlight through the leaves, soft dappled shadows on the gravel, natural skin texture. Consistent color and exposure throughout.
+LIGHT AND COLOR: lit only by the sun filtering through the trees. Warm highlights, soft green shadows. Muted, natural colors, no commercial color grade.
+CAMERA LOCK: handheld, calm, slightly off-center compositions. No drone shots, no orbits, no crash zooms.
+SHOT 1 — Wide shot. The two friends sit on the bench. Friend A throws a yellow tennis ball down the gravel path and the dog runs after it. Audio: the dog's paws on gravel, birds, distant voices.
+SHOT 2 — Medium shot on the path. The dog catches the ball and runs back toward the bench with the ball in its mouth. Audio: paws on gravel, panting.
+SHOT 3 — Medium shot on the bench. The dog drops the ball at Friend B's feet instead of Friend A's. Friend B picks it up and laughs. Audio: laughter.
+SHOT 4 — Close-up on Friend A, half smiling, shaking his head.
+FRIEND A (amused, mock-offended): "He always brings it back to you. Never to me."
+Friend B pats the dog on the head. Audio: dog panting, birds.
+AVOID: no music, no subtitles or on-screen text, the ball stays yellow, the dog keeps its red collar, no warped hands, no CGI or AI-generated look.
 ```
 
 </details>

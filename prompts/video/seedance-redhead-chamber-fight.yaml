@@ -1,0 +1,99 @@
+id: seedance-redhead-chamber-fight
+title:
+  en: Redhead heroine battles armored troops in glowing chamber
+  zh: 红发女战士在发光圆形密室中对抗装甲部队
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- action
+- sci-fi
+- animation
+- timed-beats
+source:
+  name: '@Artedeingenio on X'
+  url: https://x.com/Artedeingenio/status/2084205220146434326
+  credit: OscarAI
+  likes: 102
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+video: https://x.com/Artedeingenio/status/2084205220146434326
+notes:
+  en: The prompt is split into timed beats, each with one clear action and one named camera move, so the model does not blur the whole sequence into one shot. The explicit sound design list and the no dialogue line set the score and impacts.
+  zh: 提示词按时间段拆分，每段只写一个动作和一个明确的镜头运动，避免模型把整段动作混成一个镜头。结尾的音效清单和无对白要求，则约束了配乐与打击声。
+prompt: |
+  15-second cinematic futuristic action sequence, breathtaking high-budget sci-fi animated feature, ultra-dynamic editing, fearless red-haired superhuman woman in a sleek white tactical suit battling heavily armored security forces inside a colossal futuristic research facility, gravity-defying martial arts, impossible acrobatic movement, premium cinematic animation, seamless kinetic camera movement, aggressive speed ramps, rapid match cuts, whip pans, rotating camera moves, dramatic perspective shifts, cinematic lens distortion, volumetric blue lighting, sparks, shattered glass, flying debris, metallic reflections, emotionally explosive, no dialogue.
+
+  0–3s
+
+  Inside a vast circular research chamber, emergency lights begin flashing.
+
+  The red-haired woman stands perfectly still at the center of the room.
+
+  Armored security troops slowly surround her from every direction.
+
+  Extreme close-ups.
+
+  Focused eyes.
+
+  Bare feet shifting slightly.
+
+  Fingers relaxing before the attack.
+
+  The camera rapidly alternates between dramatic low angles and intimate facial close-ups.
+
+  Complete silence.
+
+  3–6s
+
+  Without warning, she explodes into motion.
+
+  She sprints directly toward the nearest squad before launching into an impossible aerial flip.
+
+  She rebounds from the curved walls, vaults over the soldiers and lands behind them in a single fluid movement.
+
+  The camera races beside her using aggressive whip pans, rotating tracking shots and impossible overhead dives.
+
+  Everything suddenly accelerates.
+
+  6–9s
+
+  A breathtaking combat montage.
+
+  She disarms one opponent mid-air, slides beneath another, rebounds from a wall and launches into a spinning kick that sends multiple armored soldiers crashing across the chamber.
+
+  Glass shatters.
+
+  Metal sparks erupt.
+
+  Weapons skid across the polished floor.
+
+  The camera never stops moving: seamless orbit shots, handheld pursuit, crash zooms, dramatic perspective shifts and rapid match cuts amplify every impact.
+
+  9–12s
+
+  The remaining soldiers unleash a coordinated assault.
+
+  She sprints vertically along the curved wall, flips over a hail of incoming fire, lands on a suspended platform and dives back into the center of the chamber.
+
+  Slow motion blends into explosive speed ramps.
+
+  The circular architecture transforms into a dizzying visual spectacle as the camera spins around her without interruption.
+
+  12–15s
+
+  Everything suddenly slows.
+
+  The last armored opponent falls.
+
+  Silence returns.
+
+  She stands alone beneath the enormous glowing ring suspended above the chamber.
+
+  Her hair moves gently in the circulating air.
+
+  The camera rapidly cranes upward through the center of the colossal futuristic hall, revealing the immense scale of the facility before fading to black.
+
+  Hard cut to black.
+
+  Sound design: powerful hybrid orchestral score, electronic pulses, deep brass, taiko drums, synthetic bass impacts, metallic footsteps, glass breaking, cinematic whooshes, echoing impacts, rushing air, rising choir, brief silence before the final aerial reveal, overwhelming orchestral finale.

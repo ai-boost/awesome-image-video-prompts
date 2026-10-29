@@ -1,0 +1,32 @@
+id: seedance-roller-skater-misty-cliff-road
+title:
+  en: Roller skater on misty cliff road above valley
+  zh: 薄雾悬崖公路上的轮滑少女
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- roller-skating
+- mountain-cliff
+- timed-shot-script
+- photorealism
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2088122680142930199
+  credit: Sarah
+  likes: 276
+  captured: '2026-10-29'
+  posted: '2026-08-14'
+video: https://x.com/SyntheSarah/status/2088122680142930199
+notes:
+  en: Timed beats (0 to 3 sec, 3 to 6 sec and so on) split the 15 second clip into a shot list, so each segment gets one camera move and one physical event. The identity lock line and the long negative list (face changes, warped wheels, flickering) keep the skater consistent across the cuts.
+  zh: 按秒切分的分镜（0到3秒、3到6秒等）把15秒片段拆成镜头清单，每段只给一个机位运动和一个物理事件。末尾的身份一致性要求和较长的负面词列表（人脸变化、车轮变形、闪烁）用来保证跨镜头时人物一致。
+prompt: |
+  Create a 15-second ultra-photorealistic cinematic action sequence. A young woman is roller skating alone through an extremely dangerous mountain environment. She wears realistic black technical outdoor clothing, protective gloves, helmet, and professional roller skates. Her face, body proportions, clothing, and skating movement remain perfectly consistent throughout the entire video.
+  0–3 sec: Wide aerial establishing shot of enormous jagged mountains surrounding a tiny, narrow cliffside road. The road is barely wide enough for one person, with a terrifying vertical drop into a deep fog-covered valley. Dark clouds move rapidly between the peaks while strong wind blows across the cliffs.
+  3–6 sec: Low-angle tracking shot as the woman skates dangerously close to the edge. Small rocks fall from the cliff beside her and disappear into the abyss. Her wheels realistically react to cracks and uneven pavement. She maintains balance while her hair and clothing move naturally in the powerful wind.
+  6–9 sec: The path suddenly becomes extremely narrow, with a massive rock wall on one side and a huge drop on the other. She passes beneath a giant overhanging rock while loose stones tumble down behind her. The camera moves alongside her, showing the terrifying scale of the environment.
+  9–12 sec: A dramatic close tracking shot as she approaches a broken section of the mountain road. A large crack runs across the path. She jumps over it while skating, landing realistically on the other side. Dust and tiny rocks scatter naturally from the impact.
+  12–15 sec: The camera pulls rapidly backward into a huge cinematic wide shot, revealing the woman skating alone along the impossibly dangerous mountain ridge, surrounded by enormous cliffs, distant waterfalls, heavy clouds, mist, and a seemingly endless valley below.
+  Style: documentary-level realism, physically accurate human movement, realistic roller-skating physics, natural facial expressions, authentic skin texture, individual hair strands, detailed fabric, real rock formations, atmospheric perspective, natural sunlight breaking through clouds, volumetric mountain mist, realistic wind and dust, subtle handheld camera movement, cinematic lens, realistic depth of field, natural motion blur, high dynamic range, 4K photorealism, premium live-action cinematography.
+  Negative: CGI appearance, cartoon look, artificial textures, unrealistic physics, floating objects, distorted anatomy, extra fingers, extra limbs, face changes, identity changes, flickering, warped wheels, duplicated objects, oversaturated colors, excessive slow motion, unnatural camera movement.

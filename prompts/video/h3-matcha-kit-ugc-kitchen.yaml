@@ -1,0 +1,29 @@
+id: h3-matcha-kit-ugc-kitchen
+title:
+  en: Woman shares matcha starter kit in sunlit kitchen
+  zh: 女性在阳光厨房分享抹茶套装
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- ugc
+- product-ad
+- matcha
+- reference-image
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2084241879097303513
+  credit: Anissa
+  likes: 116
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+video: https://x.com/SimplyAnnisa/status/2084241879097303513
+notes:
+  en: A reference image pins the same character across every shot, and the prompt pairs handheld smartphone framing with over-the-shoulder and macro close-ups so the clip reads as creator content. A closing format block (vertical 9:16, 4K HDR, no text or logos) sets the finish.
+  zh: 参考图让每个镜头都保持同一人物形象，提示词把手持手机视角、过肩镜头和微距特写组合起来，让画面像达人自拍内容。结尾的格式段落（竖版9:16、4K HDR、无文字无标志）统一了成片质感。
+prompt: |
+  Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, and facial consistency throughout every shot.
+  Create a 15-second ultra-realistic UGC-style lifestyle advertisement featuring a realistic young woman sharing her favorite premium Matcha Starter Kit in a bright, minimalist Japanese-inspired kitchen with warm morning sunlight, natural wood textures, soft neutral décor, ceramic tableware, and a calm luxury aesthetic.
+  She smiles naturally while holding an elegant matcha tin and says this has become her favorite way to start every morning. She opens the premium matcha container, carefully scoops vibrant green matcha powder into a handcrafted ceramic bowl, pours warm water, and whisks it smoothly using a traditional bamboo whisk until a rich, creamy foam forms. She lifts the bowl, takes a small sip, closes her eyes with a genuine smile, and enjoys the peaceful morning moment.
+  Capture authentic handheld smartphone shots, over-the-shoulder angles, cinematic macro close-ups of the vivid green matcha powder, the bamboo whisk creating silky foam, the handcrafted ceramic bowl, rising steam, natural hand movements, and warm sunlight reflecting across the table. Finish with her holding the completed bowl beside her face, smiling warmly into the camera.
+  Authentic creator-style content, natural facial expressions, healthy glowing skin, cozy morning atmosphere, luxury lifestyle aesthetic, subtle depth of field, premium color grading, smartphone-shot realism, vertical 9:16, 4K HDR, no text, subtitles, logos, or watermarks.

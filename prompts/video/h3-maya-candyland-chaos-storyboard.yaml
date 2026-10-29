@@ -1,0 +1,60 @@
+id: h3-maya-candyland-chaos-storyboard
+title:
+  en: Heroine among giant marshmallows and lollipops in Candyland
+  zh: 女主角站在巨型棉花糖与棒棒糖之间的糖果世界
+model: MiniMax H3
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- storyboard
+- character-consistency
+- camera-direction
+- candyland
+source:
+  name: '@MonetizationDon on X'
+  url: https://x.com/MonetizationDon/status/2105971557772231027
+  credit: LAPTOP LIFESTYLE BLOGGER
+  likes: 162
+  captured: '2026-10-29'
+  posted: '2026-10-02'
+video: https://x.com/MonetizationDon/status/2105971557772231027
+notes:
+  en: Thirteen timed panels each carry a camera move and a beat, and a fixed character sheet with hair, outfit and accessories repeats in every panel to hold identity across cuts. The prompt also names the franchise to avoid and states the content limits in plain words so the world stays original and safe.
+  zh: 十三个带时间码的分镜，每个镜头都写明运镜和动作，并在每个镜头重复同一份角色设定（发型、服装、配饰），以保持跨镜头的人物一致。提示词还点名需要规避的原有作品，并直接写明内容限制，确保世界观原创且内容安全。
+prompt: |
+  Create a 13-panel cinematic storyboard for an original 65-second family-friendly 3D animated short titled “MAYA: CANDYLAND CHAOS.”
+
+  Maya is an original adult fantasy heroine with long dark-brown wavy hair, warm brown eyes, medium-brown skin, a blue adventure outfit, white jacket, red scarf and brown adventure boots. Maintain her exact facial identity, hairstyle, outfit, proportions and accessories across every panel.
+
+  Panel 1 — HERE WE GO AGAIN (0–5s): Close-up, eye-level, slow push-in. Maya talks directly to camera before discovering a mysterious glowing candy portal.
+
+  Panel 2 — THE CANDY PORTAL (5–10s): Wide dynamic shot, Dutch tilt, spiral camera movement as Maya is pulled into a swirling rainbow candy portal.
+
+  Panel 3 — THE SWEET KINGDOM (10–15s): Epic wide establishing shot, low-to-high crane reveal of Candyland: giant lollipops, gumdrop hills, chocolate rivers, candy trees and a spectacular candy castle.
+
+  Panel 4 — THE CHASE BEGINS (15–20s): Side tracking shot as playful original gummy creatures chase Maya through the candy forest.
+
+  Panel 5 — LOLLIPOP ESCAPE (20–25s): Low-angle dynamic tracking shot. Maya dodges giant lollipops and escapes the creatures.
+
+  Panel 6 — MARSHMALLOW CHAOS (25–30s): Fast side-tracking shot as Maya bounces across giant marshmallows in a hilarious chain reaction.
+
+  Panel 7 — THE GIANT GUMMY (30–35s): Extreme low-angle hero shot. A gigantic friendly gummy creature rises in front of Maya.
+
+  Panel 8 — RAINBOW CANDY SLIDE (35–40s): POV and tracking camera as Maya races down a massive rainbow candy slide through sparkling sugar tunnels.
+
+  Panel 9 — CHOCOLATE RIVER (40–45s): Low water-level tracking shot as Maya rides a candy raft across a chocolate river toward the castle.
+
+  Panel 10 — THE CANDY QUEEN (45–50s): Wide shot transitioning into a dramatic close-up. Maya encounters an original Candy Queen at the castle.
+
+  Panel 11 — THE CUPCAKE TRICK (50–55s): Dynamic side-tracking shot. Maya uses a giant cupcake as a springboard to leap over the Queen's candy obstacles.
+
+  Panel 12 — CANDYLAND CELEBRATION (55–60s): Epic wide crane shot. Gummy creatures celebrate as candy fireworks explode across the sky.
+
+  Panel 13 — SWEET ENDING (60–65s): Wide sunset shot with a slow pull-back. Maya overlooks the entire Candyland kingdom and says, “Okay… that was definitely worth it.” She winks at the camera.
+
+  Use professional cinematic composition, dynamic camera movement, dramatic lighting, expressive facial animation, depth of field, motion blur and high-end animated-feature-quality 3D rendering.
+
+  IMPORTANT: Maya and Candyland must be completely original. Do not reference or resemble Alice, Wonderland, Disney, or any existing copyrighted character or franchise. Family-friendly fantasy adventure. No sexual content, suggestive posing, gore, horror or injuries.
+
+  #polloaiCPP
+  @polloai_creator

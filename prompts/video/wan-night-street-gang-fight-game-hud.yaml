@@ -1,0 +1,121 @@
+id: wan-night-street-gang-fight-game-hud
+title:
+  en: Night street gang fight with game HUD
+  zh: 夜间街头帮派斗殴，带游戏界面
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- gameplay-hud
+- open-world
+- street-fight
+- night-city
+source:
+  name: '@Inshrah_ali_ on X'
+  url: https://x.com/Inshrah_ali_/status/2100809690850664865
+  credit: Ai Girllie
+  likes: 192
+  captured: '2026-10-29'
+  posted: '2026-09-18'
+video: https://x.com/Inshrah_ali_/status/2100809690850664865
+notes:
+  en: A timestamped beat sheet with a fixed HUD spec keeps the minimap, health bars and pop-up notifications on screen through every cut. Framing the shot as a live player POV with a follow camera makes the footage read as a real gameplay recording.
+  zh: 按时间点写分镜，并固定 HUD 布局，让小地图、血条和提示弹窗在每次切换中都保持可见。以玩家视角的跟随镜头取景，使画面更像真实的游戏录屏。
+prompt: |
+  Create a 30-second ultra-realistic open-world GANGSTER gameplay cinematic featuring two rival street gangs fighting in a gritty modern city at night. Make the entire video feel like a trending AAA gameplay recording, as if a player is actively controlling the main character.
+
+  GAMEPLAY SCREEN / HUD — VERY IMPORTANT:
+  Add a polished, original modern gameplay interface that stays visible naturally throughout the video:
+
+  Top-left: small circular character portrait + green HEALTH BAR and blue STAMINA BAR
+
+  Top-right: compact MISSION OBJECTIVE panel
+
+  Bottom-left: detailed MINIMAP, circular radar, player arrow, enemy indicators, nearby vehicle icons and objective marker
+
+  Bottom-right: transparent action-button icons for punch, dodge, sprint, interact and crouch
+
+  Center: small dynamic crosshair/aim indicator when appropriate
+
+  Enemy targets: red diamond markers above hostile characters
+
+  Teammates: blue/green indicators above friendly characters
+
+  Combat feedback: subtle hit indicator, combo counter and XP/reward notification
+
+  Mission notifications: sleek pop-up messages such as “RIVAL GANG DETECTED”, “SURVIVE THE AMBUSH”, and “BOSS FIGHT INCOMING”
+
+  Add subtle controller-style button prompts when the player approaches objects or enemies
+
+  HUD should be semi-transparent, futuristic and minimal, integrated naturally into the scene rather than covering the action.
+
+  UI animations should feel responsive: icons pulse, objectives update, health decreases realistically, enemy markers move with characters.
+
+  Make the interface original and not an exact recreation of any existing game UI.
+
+  0–5 SEC — RIVAL GANG DETECTED
+
+  Third-person camera follows the protagonist walking through a neon-lit city street.
+
+  HUD:
+  Minimap activates → several red enemy markers appear → objective panel displays:
+
+  MISSION
+  RIVAL GANG DETECTED
+
+  An enemy warning icon flashes briefly.
+
+  5–10 SEC — STREET FIGHT
+
+  A rival gangster attacks. The player-controlled protagonist blocks, dodges and counterattacks.
+
+  Show bottom-right action icons responding to the player's movements. Red enemy markers appear above opponents. Add a small COMBO ×3 indicator after consecutive successful moves.
+
+  10–15 SEC — CHAOS
+
+  The fight spreads across the street. Gang members run between cars and barriers.
+
+  The minimap becomes crowded with moving red and blue indicators.
+
+  OBJECTIVE UPDATED:
+  SURVIVE THE AMBUSH
+
+  Add subtle screen shake and damage feedback when the protagonist gets hit.
+
+  15–20 SEC — SLOW-MOTION COUNTER
+
+  The protagonist becomes surrounded. Gameplay suddenly enters dramatic slow motion.
+
+  A DODGE prompt appears near the bottom-right controls. He dodges an incoming attack and performs a counterattack.
+
+  The HUD smoothly returns to normal speed.
+
+  20–26 SEC — GANG WAR
+
+  Both gangs charge toward each other.
+
+  The protagonist runs through the battlefield while teammates fight alongside him.
+
+  OBJECTIVE:
+  DEFEAT THE RIVAL GANG
+
+  Show dynamic enemy markers, teammate indicators, minimap movement, stamina depletion while sprinting, and realistic combat feedback.
+
+  26–30 SEC — BOSS FIGHT
+
+  A black SUV arrives. The rival gang leader steps out.
+
+  All enemy indicators converge around him.
+
+  A dramatic BOSS HEALTH BAR appears across the top-center:
+
+  RIVAL GANG LEADER
+  ████████████████████
+
+  Then a large original gameplay notification appears:
+
+  ⚠ BOSS FIGHT INCOMING
+
+  The protagonist raises his fists. Camera moves behind him into a classic third-person gameplay position.
+
+  CUT TO BLACK.

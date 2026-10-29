@@ -1,0 +1,36 @@
+id: h3-kaiju-squid-airplane-window-city
+title:
+  en: Kaiju squid rampages through city seen from airplane
+  zh: 舷窗外巨型章鱼怪兽破坏城市
+model: MiniMax H3
+mode: image-to-video
+category: scifi-fantasy
+tags:
+- kaiju
+- handheld
+- city-destruction
+- explosion
+source:
+  name: '@Spectromachina on X'
+  url: https://x.com/Spectromachina/status/2084307393081401499
+  credit: Spectro
+  likes: 186
+  captured: '2026-10-29'
+  posted: '2026-08-03'
+video: https://x.com/Spectromachina/status/2084307393081401499
+notes:
+  en: The shot is framed as handheld footage through an airplane window, with plexiglass warp and condensation selling the real camera. Turbulence shake, engine and wind audio cues, and a late explosion beat supply motion and escalation.
+  zh: 画面设定为机舱舷窗内的手持纪实镜头，玻璃变形和冷凝水痕迹让它看起来像真实拍摄。机身颠簸的晃动、引擎与风声的音频提示，以及结尾的爆炸冲击，共同带来动感和递进。
+prompt: |
+  New MiniMax H3 video model running on consumer gpu, specs:
+
+   minimax_h3_fl2va_pruned_int8_convrot.safetensors 19gb
+  Sampler: Euler, Scheduler: Normal
+  Steps: 8
+  Sage attention, RTX 4060ti 16gb, 64gb ram, ryzen 7
+  263 seconds, 10 second video
+  Image to video workflow (default from comfyui)
+
+  Prompt: "Handheld documentary-style footage, shot from inside a flying airplane window, slightly warped by the plexiglass and streaked with condensation. Below, a colossal squid-like kaiju monster (see reference image) rampages through a dense city skyline, its massive tentacles coiling around skyscrapers and tearing through steel and concrete — glass and debris raining down in slow cascades. Camera shakes violently with turbulence, the framing jerking and re-settling as the handheld operator struggles to keep the monster in frame, engine drone and wind noise bleeding into the audio.
+
+  Suddenly a blinding explosion detonates against the creature's flank causing major shockwave and destruction"

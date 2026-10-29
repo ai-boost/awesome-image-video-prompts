@@ -1,0 +1,25 @@
+id: h3-lakeside-selfie-vlog-golden-hour
+title:
+  en: Selfie vlog through lakeside town at golden hour
+  zh: 黄金时刻湖畔小镇的自拍 vlog
+model: MiniMax H3
+mode: text-to-video
+category: vlog
+tags:
+- travel
+- selfie
+- lakeside
+- golden-hour
+source:
+  name: '@Aiwithmaha on X'
+  url: https://x.com/Aiwithmaha/status/2115374973250592920
+  credit: Maha
+  likes: 183
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+video: https://x.com/Aiwithmaha/status/2115374973250592920
+notes:
+  en: The prompt splits 15 seconds into timed beats (car arrival, stone street, café, lake panorama, sunset), each with its own camera angle. Repeating fixed wardrobe, bag and hair details keeps the subject consistent across shots, and the handheld selfie cues give it the vlog feel.
+  zh: 提示词把 15 秒拆成几个节拍（进车、石板路、咖啡馆、湖景全景、日落），每段都写明机位。反复固定服装、包和发型等细节，能让主角在各镜头中保持一致，手持自拍的机位描述则带出 vlog 质感。
+prompt: |
+  Create a 15-second ultra-realistic cinematic travel vlog featuring a beautiful girl with long, straight black hair wearing an elegant sleeveless cream-colored dress and carrying a small white shoulder bag. The video begins with the girl sitting inside a modern car with a panoramic sunroof, smiling at the camera as she arrives at a breathtaking lakeside destination surrounded by lush green mountains and sparkling blue water. She gently adjusts her hair while recording herself in selfie-vlog style. Next, she walks along a charming stone pathway surrounded by traditional European houses decorated with colorful flowers, turning toward the camera with a warm smile and a gentle wave as the camera smoothly follows her movements. She then arrives at a beautiful outdoor lakeside café with wooden tables, cream-colored umbrellas, and flower decorations, where she sits down and enjoys a cold iced coffee while admiring the peaceful scenery. She records another selfie, smiles naturally, and turns the camera to capture the panoramic view of the crystal-clear lake, green mountains, and elegant café terrace. In the final moments, she stands beside a wooden lakeside railing during golden hour, smiling at the camera before gently turning toward the sunset reflecting on the water, ending with a breathtaking cinematic view. Use realistic facial expressions, natural skin texture, consistent facial features and clothing, gentle hair movement, smooth camera transitions, authentic handheld vlog angles, beautiful European scenery, warm cinematic lighting, and premium 4K quality. Vertical 9:16 format, exactly 15 seconds long, with no subtitles, no text overlays, and no watermarks.

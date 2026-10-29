@@ -1,0 +1,28 @@
+id: h3-octopus-paris-facade-multi-angle-cuts
+title:
+  en: Octopus on Paris facade across six cuts
+  zh: 巴黎脚手架建筑上的章鱼，六次镜头切换
+model: MiniMax H3
+mode: video-edit
+category: vfx
+tags:
+- multi-angle
+- camera-edit
+- octopus
+- paris
+- surreal
+source:
+  name: '@steftranquillin on X'
+  url: https://x.com/steftranquillin/status/2102318276642553907
+  credit: Stéphane
+  likes: 126
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+video: https://x.com/steftranquillin/status/2102318276642553907
+notes:
+  en: The prompt freezes the octopus, building, pedestrians and light as a reference, then changes only the camera across timed hard cuts. Naming Video1 as the master reference keeps the creature design and lighting consistent from angle to angle.
+  zh: 提示词将章鱼、建筑、行人和光线固定为参考，只通过带时间码的硬切改变镜头。以 Video1 作为主参考，让章鱼造型和光线在各个角度保持一致。
+prompt: |
+  Overcast light, soft light, daytime, documentary photography style, mixed tones, wide-angle. This is documentary-style multi-camera coverage of a single, unchanging surreal moment: a giant octopus draped over a scaffolded Haussmannian building facade on a Paris street, its tentacles hanging down over the netting, pedestrians walking past below completely unfazed by it.
+  @Video1
+   is the master reference for the octopus's exact design, color, texture, scale, and pose, the building's architecture and scaffolding, the pedestrians' presence and unbothered behavior, and the daytime overcast lighting. None of this changes across the sequence below, only the camera does — six rapid, distinct angles cover this same frozen moment in quick succession, as if six different camera crews were filming it at once. Shot 1 [0-2s] Aerial shot. A high aerial view looking down over the street, revealing the full scaffolded building facade with the octopus draped across it, tentacles hanging over several floors, pedestrians walking past below. Shot 2 [2-4s] Hard cut transition, medium shot from street level, matching Video 1's framing and distance: the building's stone facade wrapped in scaffolding, the octopus's tentacles draped down over several floors, pedestrians crossing in the foreground. Shot 3 [4-5.5s] Hard cut transition, close-up on the octopus's head and eye, its textured reddish-brown skin catching the daylight, one tentacle curling around a section of scaffolding pipe. Shot 4 [5.5-7s] Hard cut transition, low-angle shot, camera tilted sharply upward from street level, the octopus looming directly overhead against the cloudy sky. Shot 5 [7-8.5s] Hard cut transition, lateral tracking shot at eye level along the street, the building's facade and the octopus's tentacles draped along it in profile. Shot 6 [8.5-10s] Hard cut transition, over-the-shoulder shot from just behind a pedestrian walking on the sidewalk, their head tilted up toward the octopus as they pass beneath it, unhurried and unreactive. Sound: light outdoor street ambience throughout, distant traffic hum and soft wind, consistent across every rapid cut. No dialogue. No background music.

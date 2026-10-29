@@ -1,0 +1,26 @@
+id: h3-impasto-bear-autumn-lake
+title:
+  en: Impasto autumn bear eating berries by lake
+  zh: 厚涂油画中的秋湖棕熊吃浆果
+model: MiniMax H3
+mode: text-to-video
+category: animal
+tags:
+- oil-painting
+- impasto
+- wildlife
+- autumn
+- bear
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2107479794371666073
+  credit: Viki
+  likes: 96
+  captured: '2026-10-29'
+  posted: '2026-10-06'
+video: https://x.com/churvikv/status/2107479794371666073
+notes:
+  en: Opens with the rendering style and paint texture, then builds the scene from the foreground berries to the background mountains so the layout is clear. It pairs one concrete action (the head moves as it chews) with ambient wind on grass and leaves, so the still painting feels alive without any camera move.
+  zh: 先写画风与笔触质感，再按从前景浆果到远景山脉的顺序描述场景，让布局清晰。用一个具体动作（咀嚼时头部轻微移动）加上风吹草叶的环境运动，让静态油画动起来，不需要镜头运动。
+prompt: |
+  Oil painting style, thick impasto texture. A large brown bear standing by a lake in an autumn forest. The bear is gently eating red berries from a bush in the foreground. The bear's head moves slightly as it chews the berries. Background features snow-capped mountains, yellow autumn trees, and a calm lake with gentle water ripples. Subtle wind blowing the grass and leaves. Cinematic lighting, highly detailed, 4k.

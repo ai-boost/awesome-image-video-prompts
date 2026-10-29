@@ -1,0 +1,169 @@
+id: h3-drought-village-aerial-seed-story
+title:
+  en: Aerial view of a dry village with cracked fields
+  zh: 干旱村庄龟裂农田的航拍全景
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- aerial
+- drought
+- short-film
+- storyline
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2088492634755178598
+  credit: Snow
+  likes: 135
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/iamrealsnow/status/2088492634755178598
+notes:
+  en: Timed beats in 15 second blocks, each with a camera move and a sound cue, keep a long storyline readable from shot to shot. Concrete props such as the empty well, baskets and withered crops set the mood, and dialogue lines are listed as their own beats.
+  zh: 按 15 秒分段列出每个镜头的时间、机位运动和声音提示，让多段故事的节奏可以逐段控制。空井、篮子和枯萎作物等具体道具支撑情绪，对白单独列出，便于模型分镜处理。
+prompt: |
+  .
+
+  PART 1 — THE VILLAGE WITHOUT FOOD
+
+  0–15 seconds
+
+  Open with a sweeping cinematic aerial shot of a beautiful but devastated rural village during a severe drought.
+
+  The farmland surrounding the village is completely cracked and dry. Empty wells, dusty pathways, withered crops, and abandoned baskets show how long the drought has lasted.
+
+  Cut to villagers sitting outside their small homes, looking exhausted and heartbroken. A mother holds an empty grain bowl while an elderly man stares silently at the barren fields. Children sit quietly beside their families.
+
+  Show several villagers gathering in the center of the village. Their faces express desperation and hopelessness.
+
+  Camera slowly pushes toward the villagers as the wind carries dust through the settlement.
+
+  Mood: heartbreaking, quiet, desperate.
+
+  Sound: dry wind, distant crying, footsteps on dust, subtle emotional cinematic music.
+
+  Ending shot: A young villager looks toward the distant mountains and says softly:
+
+  Dialogue: “There must be food somewhere…”
+
+  Cut to black.
+
+  PART 2 — THE SEARCH
+
+  15–30 seconds
+
+  Early morning.
+
+  A small group of villagers leaves the village carrying empty baskets and cloth bags, determined to search for food.
+
+  Follow them as they travel through a dry valley, crossing cracked farmland and rocky terrain.
+
+  Show their exhaustion increasing as the journey continues. One person nearly collapses, another helps them stand.
+
+  They eventually reach a hidden green valley surrounded by large rocks and old trees.
+
+  The atmosphere suddenly changes.
+
+  The wind becomes calm.
+
+  Birds can be heard.
+
+  The villagers notice something unusual in the distance.
+
+  Camera moves behind them as they slowly approach a gigantic ancient-looking tree standing alone in the valley.
+
+  Unlike everything around it, the tree is alive and vibrant.
+
+  Its leaves gently move despite the still air.
+
+  Ending shot: One villager whispers:
+
+  Dialogue: “Look…”
+
+  Camera slowly tilts downward toward the ground beneath the tree.
+
+  ⸻
+
+  PART 3 — THE MYSTERIOUS SEED
+
+  30–45 seconds
+
+  The villagers gather beneath the enormous tree.
+
+  They discover scattered wild fruits and edible plants around its roots, but there is something even more unusual.
+
+  Half-buried beneath the tree is a small mysterious seed.
+
+  It gives off a very subtle golden glow.
+
+  The camera moves into an extreme close-up of the seed.
+
+  Tiny patterns naturally shimmer across its surface.
+
+  Nobody touches it at first.
+
+  The villagers exchange confused looks.
+
+  An elderly villager carefully picks it up.
+
+  The seed glows slightly brighter in their hand.
+
+  The villagers realize that this tiny seed might be their only chance to save their village.
+
+  They place it carefully inside a small cloth pouch.
+
+  Dialogue:
+
+  Elderly villager: “Take it home.”
+
+  Cut to the group beginning their journey back.
+
+  As they walk away, briefly show the enormous tree behind them.
+
+  A single leaf falls silently to the ground.
+
+  Ending shot: Close-up of the glowing seed inside the cloth pouch as the villagers walk through the valley.
+
+  PART 4 — PLANTING HOPE
+
+  45–60 seconds
+
+  The villagers return to their drought-stricken village near sunset.
+
+  Everyone gathers around as the mysterious seed is revealed.
+
+  They walk to a small patch of cracked soil in the center of the village.
+
+  An elderly villager kneels down and carefully plants the seed.
+
+  Another villager pours the last small amount of water they have onto the soil.
+
+  Everyone watches silently.
+
+  For several seconds, nothing happens.
+
+  The villagers begin to lose hope.
+
+  Then—
+
+  A tiny crack appears in the ground.
+
+  A soft golden light emerges from beneath the soil.
+
+  The earth begins to tremble gently.
+
+  A small green shoot breaks through the cracked ground.
+
+  The villagers step backward in disbelief.
+
+  The shoot rapidly grows upward.
+
+  Roots spread beneath the soil.
+
+  A young tree forms before their eyes.
+
+  Sound: silence → low magical rumble → gentle rising orchestral music.
+
+  a freshly grown fruit.
+
+  It falls gently into their hands.

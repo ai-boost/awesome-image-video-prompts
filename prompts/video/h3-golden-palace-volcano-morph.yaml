@@ -1,0 +1,25 @@
+id: h3-golden-palace-volcano-morph
+title:
+  en: Golden palace morphs into volcanic mountain
+  zh: 金色宫殿变身火山
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- morph
+- transition
+- fantasy
+- volcano
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2108262204424229057
+  credit: Viki
+  likes: 139
+  captured: '2026-10-29'
+  posted: '2026-10-08'
+video: https://x.com/churvikv/status/2108262204424229057
+notes:
+  en: The prompt walks through the transition in order from the calm start to the dramatic end, so the model gets a clear timeline. Each change names a concrete surface, such as domes turning into columns and water bubbling to reflect lava, which gives every morph a visible anchor.
+  zh: 提示词按顺序描述从平静开场到戏剧化结尾的全过程，让模型有清晰的时间线。每次变化都指定了具体对象，如穹顶变为石柱、水面冒泡映出岩浆，使每个形变都有可见的锚点。
+prompt: |
+  Smooth transformation from peaceful golden palace to dramatic volcanic mountain. Golden domes morph into ancient Greek columns, calm water begins to bubble and reflect lava, serene sky fills with fiery storm clouds, golden light turns into flowing lava, peaceful atmosphere transforms into epic volcanic drama. Cinematic morphing,

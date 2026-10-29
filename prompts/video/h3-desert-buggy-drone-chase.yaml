@@ -1,0 +1,128 @@
+id: h3-desert-buggy-drone-chase
+title:
+  en: Desert buggy escapes drones past industrial outpost
+  zh: 沙漠越野车在工业据点外甩开无人机
+model: MiniMax H3
+mode: reference-to-video
+category: action
+tags:
+- multi-reference
+- storyboard
+- action-chase
+- timed-beats
+source:
+  name: '@beginnersblog1 on X'
+  url: https://x.com/beginnersblog1/status/2083039412506743096
+  credit: Beginnersblog
+  likes: 84
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/beginnersblog1/status/2083039412506743096
+notes:
+  en: Each of the five reference images gets one job (identity, vehicle, action, location, cockpit), and the prompt assigns it by number. Timed beats end each shot on the physical state the next shot starts from, which keeps the chase continuous.
+  zh: 五张参考图各司其职，分别锁定人物身份、车辆、动作、场景和驾驶舱，提示词按编号指定。分段时间轴让每个镜头结束时的物理状态成为下一镜头的起点，使追逐保持连贯。
+prompt: |
+  @Hailuo_AI
+
+                                                                                                                   Create a 15-second, 16:9 photoreal cinematic action sequence with native stereo audio. Treat the five images as coordinated multimodal references for identity, vehicle design, environment, performance, action, cinematography, and sound.
+
+  Use Image 1 as the strict facial-identity reference for the female racer. Preserve her exact face, dark tied-back hair, amber goggles, dusty skin, black tactical suit, shoulder armor, gloves, and focused expression.
+
+  Use Image 2 as the strict reference for her full costume, body proportions, armored black dune buggy, tire scale, exposed suspension, cyan headlights, roll cage, desert lighting, and industrial-outpost background.
+
+  Use Image 3 as the action reference for the pursuing drones, vehicle speed, dust trails, fire, debris, chase intensity, and camera proximity.
+
+  Use Image 4 as the location reference for Outpost 07, including its rusted towers, pipelines, bridges, rocky terrain, distant mountains, warm sunset atmosphere, and industrial scale.
+
+  Use Image 5 as the cockpit and performance reference. Preserve the same steering wheel, open roll cage, goggles, gloves, facial identity, driving posture, and vehicle interior.
+
+  Sequence
+  [0–2.5 seconds]
+
+  Open on Image 4 with an extreme-wide aerial establishing shot of Outpost 07 at sunset. The industrial complex fills the right side of frame while an empty desert route curves through the rocky foreground.
+
+  The camera dives rapidly toward the road as a small black dune buggy bursts from beneath an elevated pipeline, throwing a long dust plume behind it.
+
+  Keep the vehicle moving consistently from left to right toward the outpost. No direction reversal.
+
+  Audio begins with dry desert wind, distant industrial machinery, a low cinematic pulse, and the buggy engine approaching rapidly.
+
+  [2.5–5 seconds]
+
+  Cut at peak engine sound to Image 5.
+
+  Tight frontal cockpit shot mounted just ahead of the driver. The vehicle shakes naturally over rough ground. Her hands hold the steering wheel firmly while she makes small, physically accurate corrections.
+
+  Her amber goggles remain on top of her head. Loose strands of hair and fabric straps react to wind and vibration. Her eyes briefly check the left mirror, then return immediately to the road.
+
+  A red warning light reflects across her face as a targeting alarm begins.
+
+  Do not make her turn the steering wheel excessively. Her body, wheel movement, and vehicle direction must remain mechanically connected.
+
+  [5–8 seconds]
+
+  Cut to a low front three-quarter tracking shot based on Image 3.
+
+  Three pursuit drones descend behind the buggy in a triangular formation. Their rotors, stabilizers, and body movement respond realistically to speed and turbulence.
+
+  The lead drone fires into the sand beside the buggy. The impact creates a narrow eruption of dirt, sparks, and fragmented rock rather than an oversized fireball.
+
+  The racer steers sharply around the impact. The buggy’s front wheels turn first, the suspension compresses, the body leans, and the rear tires slide outward before regaining traction.
+
+  The camera tracks beside the vehicle without spinning or overtaking it.
+
+  [8–11 seconds]
+  Continue the same drift into a rear three-quarter shot.
+
+  The buggy races toward a narrowing passage between a rock wall and the outer structures of Outpost 07. The racer pulls a mechanical handbrake lever for one brief moment, rotating the vehicle through the opening.
+
+  One drone follows too closely and clips a rusted overhead pipe. Its wing breaks, sending the drone tumbling into the sand behind her.
+
+  Show the collision in the background while keeping the buggy dominant and moving forward. No slow motion.
+
+  Audio: tire scrape, suspension impact, metal tearing, drone rotors failing, engine rev rising.
+
+  [11–13 seconds]
+
+  Cut to a wheel-level macro shot.
+
+  The right rear tire bites into loose sand. Stones fire backward while the suspension rebounds. The camera rises naturally along the buggy’s side and reveals the two remaining drones closing in.
+
+  The racer presses a guarded switch beside the steering wheel.
+
+  A compact rear-mounted electromagnetic pulse discharges as a restrained blue-white distortion wave, briefly disrupting the drones’ lights and stabilizers.
+
+  No magical energy, lightning storm, or giant explosion.
+
+  [13–15 seconds]
+  Cut to a low frontal hero shot as the buggy clears the outpost gate at full speed.
+
+  The two disabled drones fall into the dust behind it while the vehicle launches from a shallow ridge. Keep the jump low, heavy, and physically believable.
+
+  During the brief airborne moment, cut to Image 1 for a tight close-up of the racer. Preserve her exact identity as warm firelight and cool dashboard light cross her face. Her expression remains controlled and determined.
+
+  The buggy lands hard beyond the gate. The suspension compresses, the engine roars, and the vehicle continues directly into the desert.
+
+  End with a sharp cut to black on the landing impact.
+
+  Visual Direction
+  Premium live-action science-fiction action trailer with realistic CGI integration, warm orange sunset light, restrained steel-blue technology accents, dusty atmosphere, hard surface detail, cinematic contrast, subtle film grain, realistic motion blur, and 24 FPS movement.
+
+  Use wide shots to establish scale, cockpit close-ups for tension, low tracking shots for speed, and mechanical macro shots for physical detail.
+
+  Keep the editing fast but readable. Every shot must begin from the physical state established by the previous shot.
+
+  Audio Direction
+  Native stereo sound with:
+  Aggressive combustion engine
+  Tire friction over sand and rock
+  Suspension rattles and chassis vibration
+  Drone rotors and targeting alarms
+  Sand impacts, metal collisions, and falling debris
+  Low percussion and rising electronic tension
+  One heavy bass impact on the final landing
+
+  Keep music underneath the vehicle and environmental sounds. No dialogue or voice-over.
+
+  Restrictions
+  No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatures, motorcycles, futuristic city skyline, nighttime transition, costume changes, facial changes, vehicle redesign, additional wheels, floating vehicle parts, distorted hands, incorrect steering, reversed wheel rotation, teleportation, random explosions, oversized fireballs, weightless motion, impossible jumps, camera spins, circular camera moves, rapid zooms, fluid morphs, soft dissolves, or changes in travel direction.  #MiniMaxH3

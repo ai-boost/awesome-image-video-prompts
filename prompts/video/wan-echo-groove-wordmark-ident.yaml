@@ -1,0 +1,35 @@
+id: wan-echo-groove-wordmark-ident
+title:
+  en: Silver ECHO wordmark built from concentric grooves
+  zh: 由同心凹槽构成的银色 ECHO 字标
+model: Wan 3.0
+mode: text-to-video
+category: commercial
+tags:
+- title-sequence
+- typography
+- macro
+- sound-design
+source:
+  name: '@HBCoop_ on X'
+  url: https://x.com/HBCoop_/status/2114024432666873954
+  credit: Heather Cooper
+  likes: 21
+  captured: '2026-10-29'
+  posted: '2026-10-24'
+video: https://x.com/HBCoop_/status/2114024432666873954
+notes:
+  en: A timed five-beat shot list plus a constraint line that bans other text and glitching keeps the four letters stable. Describing the O as a speaker diaphragm and the letters as solid machined objects keeps the motion physical.
+  zh: 带时间码的五段分镜，加上禁止其他文字和故障效果的约束，让四个字母保持稳定。把 O 写成扬声器振膜、字母写成实体机械件，使运动保持物理质感。
+prompt: |
+  A sophisticated 15-second motion identity for an experimental audio company named ECHO. The custom wordmark is built from concentric grooves and controlled acoustic vibration. Black, warm silver, signal orange, microscopic texture, high-speed macro photography, tactile sound-design aesthetic.
+  Shot progression
+  00:00–00:03: Extreme macro view of a matte-black surface. A single orange pulse strikes the center, sending four perfectly circular pressure rings outward. Dust particles jump briefly from the vibration.
+  00:03–00:06: As the rings expand, portions lock into place and form the letters ECHO. Each character appears cut from the same system of concentric grooves, like a fusion of a vinyl record and precision-machined metal.
+  00:06–00:09: A low-frequency beat pushes through the wordmark. The letters flex once as solid physical objects without melting. The O becomes a speaker diaphragm that moves forward, creating a visible pressure wave through suspended silver particles.
+  00:09–00:12: The camera follows the pressure wave sideways. It compresses into a thin orange line, then wraps around a brushed-aluminum audio device. The engraved ECHO wordmark resolves sharply on its control dial.
+  00:12–00:15: Match cut to a black background. The orange line travels beneath the centered silver wordmark and stops. One final pulse passes through the O, then complete stillness.
+  Audio: Deep sub-bass pulse, granular vibration, precise mechanical clicks, clean decay into silence.
+  Constraints: The only readable text is ECHO. Keep all four letters stable and correctly spelled. No generic equalizer bars, neon nightclub imagery, liquid metal, glass logo, UI overlays, blueprints, random text, excessive glitching, or warped letterforms.
+
+  Swap in your own word and drop your results below 👇

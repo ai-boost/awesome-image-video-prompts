@@ -1,0 +1,52 @@
+id: seedance-golden-panda-exorcist-fox-demon
+title:
+  en: Exorcist girl faces a nine-tailed fox demon
+  zh: 驱魔少女直面九尾狐妖
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- character-lock
+- shot-sequence
+- anime
+- fox-demon
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2088249110709375460
+  credit: Kiki
+  likes: 82
+  captured: '2026-10-29'
+  posted: '2026-08-14'
+video: https://x.com/Mayz1169/status/2088249110709375460
+notes:
+  en: A character lock block fixes the hair, outfit and staff, and a timed expression track sets the face for each beat. A timed shot list with camera moves and layered sound cues builds the escalation to the final reveal.
+  zh: 角色锁定段落固定发型、服装和法杖，逐秒表情轨迹为每个情绪节点设定面部状态。按秒分段的镜头表配合镜头运动和分层音效提示，推动剧情逐步升级到结尾的揭示。
+prompt: |
+  [CHARACTER LOCK]
+  One girl exorcist, age ~17, slim build, composed features, highly expressive eyes.
+  HAIR: long black hair with a hard asymmetric front section — a white streak on her left and an orange streak beside it, blunt straight bangs; two large round panda-ear buns high on the head, black with scattered orange dot markings; one long braid falling over the right shoulder with a white-and-orange tail; small gold chrysanthemum ornaments and orange tassel danglers at the buns.
+  FACE: large amber-gold eyes with bright highlights, thin lashes, pale skin, small mouth, faint warm blush. Gold lantern light always reflected in her irises.
+  OUTFIT: black-and-orange oriental exorcist robe — short black wrap top with gold cloud-scroll embroidery and a round panda emblem at the chest; wide oversized detached hanfu sleeves, black outside with orange lining and gold trim, bare shoulders between; large orange obi sash tied in a bow with long gold-tassel cords; black high collar with a small gold clasp; layered orange-and-gold wrap skirt panels over white shorts; a plush panda-head charm with a red bell hanging at the right hip alongside gold knot tassels and a paw-print talisman; MISMATCHED LEGWEAR — black thigh-high on the left leg, bright orange thigh-high on the right, both with gold bands; black platform heeled boots with gold ribbon bows and white soles.
+  WEAPON: tall gold soul-quelling lantern staff, slightly taller than she is — dark gold shaft with ringed segments, topped by a large white orb wrapped in gold cloud filigree with a small gold spire, long orange-gold tassels at the joint. It burns with GOLDEN spirit fire when active and channels floating gold talisman papers and ring-shaped seal arrays.
+  Night scene: black mist and deep shadow with red lanterns; her gold light is the only warm source.
+  Same face, same hair streaks and panda buns, same robe, same mismatched stockings, same staff in all shots. No costume change, no other lookalike characters.
+  [EXPRESSION TRACK — mandatory, must read on her face]
+  0-3s calm and still, eyes half-lidded, listening to the bell → 3-5s alert: eyes sharpen, brows lower, quick scanning glances as the mist rises → 5-8s awe without fear as the giant fox demon rises — eyes widening slightly, chin lifting, mouth a firm line → 8-12s fierce concentration holding the seal array: teeth set, brows drawn, effort visible, hair blown back → 12-16s cool combat calm, small confident narrowing of the eyes, precise and unhurried → 16-18s dawning realization as she traces the spirit flow, eyes flicking upward, lips parting slightly → 18-21s resolve hardens into determination, a single decisive nod, jaw set → 21-25s driving forward through the horde, unwavering stare, faint defiant smile → 25-27s shock as the sky-eye opens: eyes flying wide, pupils shrinking, breath caught → 27-30s shock resolving into steady fearless resolve — she lowers her chin, grips the staff two-handed, gold fire lighting her face from below.
+  [SHOT SEQUENCE — 30s, continuous escalation]
+  0.0-3.0 Midnight. A temple bell tolls over a silent oriental old town. Slow crane down the street as every red lantern snuffs out in sequence; black mist boils up between the flagstones. She stands alone at the center of a stone bridge, staff in hand.
+  3.0-5.0 The ground cracks open. Spirit wisps and small demons pour out from below; talisman papers on the eaves ignite. Low angle whip-pan.
+  5.0-8.0 A 100m nine-tailed fox demon rises from the black mist, its body eclipsing the whole street and blotting out the moon. Extreme low angle for scale, her tiny silhouette in the foreground.
+  8.0-11.0 She raises the lantern staff. Golden light expands into an enormous circular seal array of rotating talisman rings, blocking a wave of demon shadows that crash against it like surf. Camera pushes through the light.
+  11.0-14.0 The horde swarms. Flying demons dive over the rooftops; a giant spectral claw smashes the street apart; black demon fire devours a building. She springs across the flying eaves, hurling gold talisman papers that pin demons mid-air. Handheld chase cam.
+  14.0-16.5 A massive demon beast lunges head-on. She sidesteps at the last instant, reverses her grip and slams the staff into the ground — a golden barrier detonates outward and blasts the beast back. Speed ramp on the impact.
+  16.5-19.0 The town warps: streets invert, buildings drift upward, illusory demons bloom from the mist. Rotating camera as she reads the flow of spirit energy and sees it all converging on an ancient shrine at the town's center.
+  19.0-22.0 She runs, stepping across burning talisman papers suspended in air like stones. Tracking shot at her heels, gold sparks trailing.
+  22.0-25.0 The hundred demons converge into a tidal horde from every direction. She does not slow — she spins the staff, releasing a spiral burst of golden spirit light, and drives straight through the center of the tide. Orbiting shot through the parting horde.
+  25.0-27.0 She reaches the shrine. A colossal demon core pulses in the ground, the horde feeding power into it. She lifts the lantern to seal it — then the power surges far beyond her expectation, and the black mist above coalesces into a single monstrous EYE spanning the entire sky, slowly opening.
+  27.0-30.0 She looks up. Camera pushes in on her face as shock hardens into resolve, then a low angle behind her: she grips the staff two-handed, golden spirit fire erupting up its length, and takes one step forward toward the sky-eye. Hard cut mid-step.
+  [STYLE / TECHNICAL]
+  High-end stylized 3D anime character-PV animation with painterly texture, expressive high-detail facial rig, silk cloth simulation on sleeves and sash. Aesthetic blend: Onmyoji yokai design language, Inuyasha demon-world atmosphere, Genshin Impact oriental fantasy PV polish, Final Fantasy colossal-boss scale. Night grading: deep blacks and cold blue mist versus warm gold and red lantern light, strong rim lighting, volumetric fog, floating embers and ash, gold particle motes, ink-wash smoke dissolve on demon deaths, anamorphic flares, motion blur, brief speed ramps on seal impacts, camera shake on giant hits. 24fps cinematic shutter, 2.39:1 widescreen, mixed crane / handheld / drone / orbit cameras, camera never static — but hold on her face long enough for each emotional beat to read. Combat reads as sealing and warding, not slaughter: barriers, talismans, binding arrays.
+  [NEGATIVE]
+  static camera, freeze frame, fade to black ending, slow-motion ending, standing idle ending, victory pose ending, blank deadpan face, unchanging expression, character inconsistency, hair color or streak change, missing panda-ear buns, eye color change, matching stockings, costume change, staff design change, second weapon, sword or gun, duplicate lookalike girls, daytime scene, desaturated grading, gore, blood, dismemberment, human corpses, body horror, realistic photo style, off-model face, warped hands, extra fingers, subtitles, text artifacts, watermark, logo overlay, blurry, low detail, dialogue close-ups, idle empty frames.
+  [AUDIO]
+  Oriental orchestral hybrid: single deep temple bell at 0.0s, erhu and guzheng motifs, taiko drums building throughout, low male chant under the fox demon reveal, wind chimes and paper-flutter textures. Demon shrieks and layered growls, stone cracking, whooshing talisman flames, crystalline chime on each seal array, deep gong on the barrier slam. Big riser into 25.0s, then near-silence with only a slow heartbeat as the sky-eye opens, and a single low chord as she steps forward. No dialogue.

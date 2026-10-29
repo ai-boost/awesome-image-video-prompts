@@ -1,0 +1,31 @@
+id: kling-cafe-rain-dialogue-push-in
+title:
+  en: Two men talk in a rainy cafe
+  zh: 雨天咖啡馆里两人低声交谈
+model: Kling 4.0
+mode: image-to-video
+category: dialogue
+tags:
+- dialogue
+- photoreal
+- cafe
+- rain
+source:
+  name: '@HBCoop_ on X'
+  url: https://x.com/HBCoop_/status/2112635806045421843
+  credit: Heather Cooper
+  likes: 60
+  captured: '2026-10-29'
+  posted: '2026-10-20'
+video: https://x.com/HBCoop_/status/2112635806045421843
+notes:
+  en: The spoken line is quoted with its accent, then the camera is set as a slow push in with the sound named (rain, room tone). The action beats are listed in order so the speaker and the listener react on time.
+  zh: 先给出台词原文和口音，再把镜头写成缓慢推近，并点名环境声（雨声、咖啡馆底噪）。动作按顺序列出，让说话的人和聆听的人反应时间对得上。
+prompt: |
+  1. Photoreal with a spoken line.
+
+  Both models spoke. Kling 3.0 added a word that was not in the prompt. Kling 4.0 kept the wording but slurred the middle of the line. Levels are matched in the cut so neither model sounds louder than the other.
+
+  Kling 3.0 first, then Kling 4.0, each with its own sound.
+
+  Prompt: The man on the left leans in and says, in a calm British accent, "You already know what I'm going to say." The other man lowers his cup and gives a small nod. Slow push-in on the two of them, rain running down the window, warm lamps steady. One continuous take, natural dialogue, cafe room tone.

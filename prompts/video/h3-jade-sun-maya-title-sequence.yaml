@@ -1,0 +1,66 @@
+id: h3-jade-sun-maya-title-sequence
+title:
+  en: Carved limestone relief map reveals drama credits
+  zh: 雕刻石灰岩浮雕地图揭示剧集署名
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- maya
+- title-sequence
+- typography
+- timed-beats
+source:
+  name: '@HBCoop_ on X'
+  url: https://x.com/HBCoop_/status/2087539373420228818
+  credit: Heather Cooper
+  likes: 1032
+  captured: '2026-10-29'
+  posted: '2026-08-12'
+video: https://x.com/HBCoop_/status/2087539373420228818
+notes:
+  en: Timed beats at 3, 6, 9 and 11.5 seconds give each credit its own moment and a clear hold cue, so every name stays readable. Explicit bans on mixing other civilizations and inventing glyphs, plus an audio list that names the instruments to use and to avoid, keep the output on-theme.
+  zh: 用3秒、6秒、9秒和11.5秒的时间节点把每条署名放进独立时段，并给出明确的停留指令，保证每个名字都清晰可读。明确禁止混入其他文明元素和伪造字符，音频部分同时列出该用与不该用的乐器，使画面和声音都围绕主题。
+prompt: |
+  Create a visually rich 15-second, 16:9 opening-title sequence for a historical drama titled THE JADE SUN, set within a powerful Classic Maya city-state.
+
+  The story concerns royal succession, drought, trade and political rivalry. Build the titles from historically grounded materials rather than conventional battle scenes.
+
+  VISUAL LANGUAGE
+  Use warm limestone, deep jungle green, polished jade, black obsidian, red mineral pigment, woven cotton and flickering firelight. Show corbelled architecture, reservoir maps, carved relief details, jade mosaics, cacao vessels and the shadow of a ceiba tree.
+
+  Do not mix Maya imagery with Aztec, Incan, Egyptian or European motifs. Do not generate decorative glyphs or invented ancient writing.
+
+  Display only the exact English credits below. Use monumental serif typography inspired by carved geometry without imitating Maya glyphs. Keep all letters correctly spelled, flat and readable.
+
+  0–3s: Sunlight travels across a limestone relief. Shallow carved lines form a map of reservoirs, raised roads and temple platforms. Red pigment fills one route and reveals:
+
+  A SERIES BY
+  ELENA MAR
+
+  Hold the credit clearly.
+
+  3–6s: Small pieces of polished jade slide across black cloth and lock into a circular royal ornament. The empty center opens to reveal:
+
+  STARRING
+  TOMAS REYES
+
+  The jade stops moving before the name appears.
+
+  6–9s: An obsidian mirror reflects firelight and the partial silhouette of a ruler wearing an authentic feathered headdress. Condensation retreats from the mirror to reveal:
+
+  CREATED BY
+  ISABEL CRUZ
+
+  Hold the text in the clean dark reflection.
+
+  9–11.5s: No text. A stone model of the city is gradually covered by the shadow of an approaching eclipse. Reservoir channels dry and turn from blue-green to dark red. One jade bead rolls into the remaining light.
+
+  11.5–15s: The bead becomes a brilliant green sun against black obsidian. Limestone letterforms rise around it to reveal:
+
+  THE JADE
+  SUN
+
+  Gold-green light moves once across the title, then everything becomes still. Hold through the end.
+
+  Audio: distant jungle atmosphere, a low wooden slit drum, clay flute breath, stone movement and one restrained conch tone during the eclipse. No generic chanting, fantasy music, orchestral trailer impacts or modern instruments.

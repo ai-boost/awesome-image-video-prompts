@@ -1,6 +1,6 @@
 # VFX and transformations
 
-[Back to the list](../../README.md) · All 69 entries
+[Back to the list](../../README.md) · All 82 entries
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### Giant girl kneeling over a Tokyo crossing
@@ -127,6 +127,25 @@ Hyper-realistic miniature luxury farmhouse construction site at the very first s
 
 </details>
 
+<a id="h3-police-officer-scooby-doo-haunted-hallway"></a>
+### Live hallway footage restyled as 1970s cartoon
+
+<a href="https://x.com/thefinnmckenty/status/2102140381001617683"><img src="../../previews/h3-police-officer-scooby-doo-haunted-hallway.jpg" width="360"></a>
+
+Pairing the source video with a GPT Image restyled first frame gives the model a locked composition and a target look. The prompt keeps the reference layout and only swaps the style and props, so the officer's walk and camera angle carry over from the real footage.
+
+MiniMax H3 · Reference-to-video · Source: [@thefinnmckenty on X](https://x.com/thefinnmckenty/status/2102140381001617683) · 673 likes on 2026-10-29
+
+[`style-transfer`](tags.md#tag-style-transfer) [`reference-video`](tags.md#tag-reference-video) [`cartoon`](tags.md#tag-cartoon) [`haunted-house`](tags.md#tag-haunted-house)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use this image as reference for overall composition, and create a new image in the style of a vintage 1970s animated cartoon like Scooby Doo. In the new image, a police officer is walking down the hallway of a dusty haunted house with skulls, bones, spiderwebs, and other appropriate objects replacing the ones in the reference image.
+```
+
+</details>
+
 <a id="omni-embroidery-owl-logo-timelapse"></a>
 ### Macro timelapse of embroidery stitching an owl logo
 
@@ -149,6 +168,55 @@ raising into dimensional embroidered texture, until the full logo is
 complete. Camera holds steady, slow satisfying timelapse pace. Soft
 natural side light, shallow depth of field, visible fabric fibers and
 realistic thread sheen. No hands, thread moves on its own. One shot no scene change.”
+```
+
+</details>
+
+<a id="h3-white-model-cat-motion-transfer"></a>
+### White clay cat copies street cat pose
+
+<a href="https://x.com/GeekCatX/status/2102984305924559272"><img src="../../previews/h3-white-model-cat-motion-transfer.jpg" width="360"></a>
+
+The uploaded reference video is the only motion source, and the prompt locks camera, timing and original audio to it. It swaps fur, eyes and colour for a seamless matte sculpt on a plain studio backdrop, with explicit bans on joints and toy looks.
+
+MiniMax H3 · Video edit · Source: [@GeekCatX on X](https://x.com/GeekCatX/status/2102984305924559272) · 598 likes on 2026-10-29
+
+[`white-model`](tags.md#tag-white-model) [`motion-transfer`](tags.md#tag-motion-transfer) [`reference-video`](tags.md#tag-reference-video) [`cat`](tags.md#tag-cat)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Please use the reference video <Video 1> I uploaded as the sole source of motion, converting the [Main Subject] into a 3D white model that perfectly replicates the position, actions, rhythm beats, motion trajectories, and camera compositions of every subject in the original video.
+
+[White Model Appearance]
+The white model is an untextured base sculptural model in 3D animation production, resembling a matte light gray-white (close to #E6E6E6) one-piece molded clay sculpture:
+- Organic, complete, continuous form: Surface is smooth and seamless, with natural transitions between body parts, and joint locations indicated only through natural anatomical forms, without drawing segmentation lines;
+- Remove surface details: Eyes, facial features, hair, feathers, scales, clothing, patterns, colors, textures;
+- Retain the form itself: The subject's original contours, proportions, posture, and muscle undulations, recognizable at a glance as what subject it is, which breed or body type;
+- The number, types, and sizes of subjects correspond one-to-one with the original video.
+
+[Handling Different Subjects] (Apply only to types actually present in the footage)
+- Humans: Smooth humanoid sculptures, faceless, hairless, unclothed, gender-neutral, retaining natural shoulder-neck, waist-back, and limb lines;
+- Cats, dogs, and other furry animals: Retain the outer contour volume shaped by fur, removing only fur texture, making the animal look like a rounded, soft sculpture rather than shaved bald; Shapes of ears, tails, muzzles, and paws remain natural;
+- Birds: Wings and tail feathers as a single soft sculptural form, with shapes in extended and folded states matching the original video;
+- Fish, snakes, reptiles: Body as a continuous, supple curved surface, bending naturally during movement;
+- Cartoon characters: Retain original exaggerated proportions, using the same organic sculptural texture;
+- Props: Retain outer shapes, using the same material.
+
+[Motion Requirements]
+- Pose, orientation, center of gravity in every frame, as well as positions of limbs, tails, wings, and heads, match the exact moment in the original video;
+- Preserve the flexibility and lifelike quality of motions in the original video: Spinal curvature, body extension and contraction, landing cushioning, tail whipping, muscle compression deformations all naturally fluid;
+- Rhythm beats coincide exactly with the original video, without adding motions, omitting motions, or altering amplitudes;
+- Positions, movement paths, and speeds of each subject, as well as contact, pulling, and occlusion relationships between subjects, match the original video.
+
+[Camera and Frame]
+Camera positions, shot scales, lens movements, and compositions match the original video frame by frame; Aspect ratio, duration, and frame rate identical to the original video. Background is a seamless neutral light gray studio, lit with soft, even studio photography lighting, retaining only faint contact shadows beneath the subjects.
+
+[Audio Requirements]
+Fully retain the original audio from the reference video (music, voice, animal sounds, effects, ambient noise), without replacement or regeneration, strictly synced with the visuals, and matching duration.
+
+[Prohibitions]
+No mechanical joints, ball joints, splice seams, segmented structures, screws, hinges, metallic or plastic sensations; Nor any robotic, puppet, doll, toy, or low-polygon feel; Motions must not be rigid or like independent parts rotating; No eyes, facial features, hair textures, clothing, colors, text; Do not add or remove subjects, nor alter motions, speeds, or camera movements.
 ```
 
 </details>
@@ -324,6 +392,27 @@ The final video should feel cute, educational, memorable, calming, and exception
 
 </details>
 
+<a id="h3-laundromat-crayon-doodle-night-sky"></a>
+### Laundromat turns into crayon doodle night sky
+
+<a href="https://x.com/ponyodong/status/2093956013338849386"><img src="../../previews/h3-laundromat-crayon-doodle-night-sky.jpg" width="360"></a>
+
+The shot is set as a 15 second 16:9 handheld phone clip over real footage, so the crayon overlay inherits the camera shake and stays locked to the scene. Each transformation is chained in order with then, giving the model a clear sequence of beats to follow.
+
+MiniMax H3 · Text-to-video · Source: [@ponyodong on X](https://x.com/ponyodong/status/2093956013338849386) · 419 likes on 2026-10-29
+
+[`crayon-doodle`](tags.md#tag-crayon-doodle) [`hand-drawn-overlay`](tags.md#tag-hand-drawn-overlay) [`handheld`](tags.md#tag-handheld) [`transformation`](tags.md#tag-transformation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+15-second 16:9 landscape short film, late-night self-service laundromat, real footage overlaid with hand-drawn glowing animation of crayon-textured jittery lines, shot handheld on a phone. Fingertip trailing a strand of purple thread → purple crayon jellyfish → scurrying into the laundry rack, turning into a hand-drawn sock → hand-drawn sock bouncing and colliding with a real sock, transforming into a purple-blue meteor → sliding into the washing machine, becoming a light blue little fish → turning into a light blue little train, touching the vending machine button → becoming a clothespin robot, purple and light blue hand-drawn patterns spreading everywhere. The whole laundromat turns into a night sky doodle, the washing machine's round window morphing into a twinkling constellation window. Finally, a hand-drawn sock falls into the laundry basket.
+
+Sources: MiniMax H3 release
+```
+
+</details>
+
 <a id="h3-quote-typography-darkness-to-light"></a>
 ### Quote typography journey from darkness to light
 
@@ -392,6 +481,44 @@ Simply replace [LANDMARK]:✨
 
 </details>
 
+<a id="h3-golden-peacock-transformation-hall"></a>
+### Golden peacock forms from light in grand hall
+
+<a href="https://x.com/noorlewisx/status/2110962744841408937"><img src="../../previews/h3-golden-peacock-transformation-hall.jpg" width="360"></a>
+
+The prompt is written as a timed sequence of beats, from the low angle opening shot and white flash through the wireframe cage, body, tail fan and head reveal to the final hero shot, so the model gets a clear order of events. It closes with a lighting and finish tag list (volumetric god rays, iridescent feathers, 8K) that locks the look.
+
+MiniMax H3 · Text-to-video · Source: [@noorlewisx on X](https://x.com/noorlewisx/status/2110962744841408937) · 202 likes on 2026-10-29
+
+[`peacock`](tags.md#tag-peacock) [`transformation`](tags.md#tag-transformation) [`volumetric-light`](tags.md#tag-volumetric-light) [`beat-sequence`](tags.md#tag-beat-sequence)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic golden peacock transformation sequence, ultra detailed, photorealistic 3D animation. Opens on a low-angle shot of a polished wooden floor with converging lines, dramatic warm golden god rays piercing through thick dust and haze in a luxurious grand hall with tall columns. Floating metallic orbs, sparks, and particles drift in the air, some with greenish highlights. Suddenly a bright white flash of light erupts in the center. From the light, an intricate golden wireframe cage structure materializes atop two elegant golden peacock legs with ornate details. The structure rapidly transforms into a peacock’s body covered in shimmering golden scales and feathers. The bird bends and then dramatically fans out its massive tail feathers in a perfect semicircle, revealing intricate blue and teal eyespots. Close-up of the tail and neck rising with exploding golden particles and sparkles. The peacock’s head emerges with a beautiful crest, piercing blue eyes, and delicate golden patterning. Finally, the fully formed majestic golden peacock stands proudly in the center of the hall, tail fully displayed in a spectacular fan, illuminated by strong volumetric golden light rays, floating dust motes and particles, highly detailed iridescent feathers, cinematic lighting, warm golden color palette, 8K, hyper-realistic, magical and luxurious atmosphere.
+```
+
+</details>
+
+<a id="h3-butterfly-letter-morph-realistic-garden"></a>
+### Letters morph into butterfly, then bloom into realism
+
+<a href="https://x.com/umesh_ai/status/2084892304582885414"><img src="../../previews/h3-butterfly-letter-morph-realistic-garden.jpg" width="360"></a>
+
+The morph is staged part by part, with each letter reshaping in turn so the original word stays readable through the change. The second beat slows the butterfly's flaps so each one adds a layer of realism, turning the cartoon world into a real garden without a hard cut.
+
+MiniMax H3 · Text-to-video · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2084892304582885414) · 187 likes on 2026-10-29
+
+[`morph`](tags.md#tag-morph) [`kids`](tags.md#tag-kids) [`education`](tags.md#tag-education) [`stylized-to-realistic`](tags.md#tag-stylized-to-realistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second cute, funny, educational creative animation video for kids ages 3 to 7.  Concept: Teach the letter B using the word “Butterfly” with two major visual highlights:  1. a slow, satisfying, highly engaging transformation from the word “Butterfly” into a cute butterfly 2. a slow, magical transformation from the stylized animated world into a fully realistic natural scene with a realistic butterfly  The video should feel beautiful, colorful, charming, educational, and visually mesmerizing. The transformations must not feel rushed. They should be the centerpiece of the video and should unfold clearly enough for children to enjoy and understand.  Main learning message: “B is for Butterfly.”  Visual style at the beginning: Use a premium kid-friendly animated style with soft pastel skies, rounded shapes, bright happy colors, smooth motion, clean composition, playful details, expressive design, and a light sense of humor. The early part should feel like a beautiful storybook mixed with polished modern animation.  Animation priorities: The word-to-animal transformation must be gradual, elegant, readable, and creatively staged. Children should be able to see how the letters slowly become parts of the butterfly. The stylized-to-realistic transformation must also happen gradually and beautifully, as if the animated world is blooming into real life.  Timing and scene flow:  0:00–0:02 Open on a soft dreamy pastel background with floating flowers, tiny sparkles, and gentle clouds. A large uppercase “B” appears in the center with a smaller lowercase “b” beside it. Both letters bounce softly into place with a cheerful and friendly feeling. The narrator says slowly and clearly: “B is for Butterfly.”  Hold the letters long enough for recognition.  0:02–0:04 The word “BUTTERFLY” writes itself slowly across the screen in large rounded colorful letters. Each letter fills with a different beautiful pattern, such as gradients, dots, stripes, floral shapes, and soft wing-like textures. Keep the word fully readable and centered. Let the audience admire the full word before the transformation begins.  0:04–0:09 This is the main highlight. The word “BUTTERFLY” transforms slowly and satisfyingly into the butterfly.  The transformation must be gradual, staged, and visually delicious to watch: The “B” gently opens outward and unfolds into the top wings. The “U” stretches and curves into one lower wing. The first “T” and second “T” slim down and merge into the butterfly’s long body. The “E” softens and reshapes into decorative wing markings. The “R” curls upward into one antenna. The “F” reshapes into the second antenna with a playful wobble. The “L” and “Y” arc outward and become the final wing edges and tail details.  Important: Do not transform everything at once. Let each part morph one after another in a smooth chain reaction. The letters should bend, curl, unfurl, rotate, stretch, and softly glide into their new forms. The child should still sense the original word during the transformation. Use sparkling trails, flowing color transfer, and soft elastic motion to make it deeply satisfying. The morph should feel magical, clear, and creatively intelligent.  0:09–0:11 The butterfly is now a fully formed cute stylized cartoon butterfly. It has lovely colorful wings, a tiny smiling face, big friendly eyes, and soft funny charm. It flutters gently in a playful little loop, hovers above a flower, almost sneezes from pollen in a cute funny moment, then recovers and smiles. Show the word “Butterfly” below it briefly for reinforcement. The narrator repeats: “Butterfly.”  0:11–0:14 This is the second major highlight. The entire animated scene slowly transforms into a realistic world.  The butterfly flaps its wings in slow motion. With each flap, realism increases gradually: its wing textures become more detailed the colors gain natural variation the body becomes more lifelike the flowers gain realistic petals and depth the background softens into a real sunlit garden the lighting becomes natural and golden the air gains subtle movement and realistic depth of field  This transformation should feel breathtaking, seamless, and immersive. Do not cut abruptly from cartoon to realistic. Instead, let the animated world gently bloom into reality in layers. The viewer should feel they are witnessing imagination turn into nature.  0:14–0:15 End on a beautiful realistic butterfly resting on a real flower in warm sunlight. Display the text: “B is for Butterfly” The narrator says warmly: “B is for Butterfly.” The butterfly gently flutters once, then lifts off lightly.  Style and quality requirements: Keep the letter B and the word “BUTTERFLY” clearly readable before and during transformation. Make the word-to-animal morph slow, rich, and visually rewarding. Make the stylized-to-realistic transformation equally slow, smooth, and magical. Use polished motion design, soft easing, beautiful color transitions, gentle humor, and strong visual clarity. Maintain a child-friendly tone throughout. Use clean typography, stable spelling, and seamless morphing.  Audio direction: Use cheerful, soft, magical music. Add delicate sparkles, soft pops, flutter sounds, a tiny comedic sniffle or sneeze, and a gentle emotional swell during the realism transition. Voiceover should be warm, clear, slow, and easy for children to follow.  Avoid: rushed transformations, unreadable letters, clutter, hard cuts, scary expressions, excessive camera motion, chaotic effects, or anything visually confusing for children.
+```
+
+</details>
+
 <a id="wan-jeweled-creatures-to-heels"></a>
 ### Jewelled creatures turn into high heels
 
@@ -411,6 +538,51 @@ A hyper-realistic high-fashion CGI animation set in an opulent palace with marbl
 
 </details>
 
+<a id="h3-glass-skyscraper-assembles-aerial-drone"></a>
+### Empty lot becomes glass skyscraper in aerial drone shot
+
+<a href="https://x.com/Zyrellix/status/2101221316229558505"><img src="../../previews/h3-glass-skyscraper-assembles-aerial-drone.jpg" width="360"></a>
+
+A single continuous drone shot with timestamped beats lets the model build the tower in sequence while the camera pulls back and lifts. Keeping the cranes fixed and naming the cyan hologram overlay keeps the set stable while the structure changes.
+
+MiniMax H3 · Text-to-video · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2101221316229558505) · 168 likes on 2026-10-29
+
+[`aerial`](tags.md#tag-aerial) [`drone`](tags.md#tag-drone) [`construction`](tags.md#tag-construction) [`hologram`](tags.md#tag-hologram)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic cinematic aerial video of a modern glass skyscraper assembling itself on a city construction site.
+
+Subject: a rectangular glass office tower growing from an empty lot, surrounded by three yellow tower cranes. Cyan holographic construction overlays with grid lines, vertical pillars, and orbiting energy rings.
+
+Environment: dense low-rise East Asian city block with tiled roofs, green rooftops, trees lining the streets, buses and cars on the roads, taller buildings and a sports field in the distance.
+
+Style: ultra-realistic aerial photography, golden-hour to sunset color grade, sharp glass reflections, warm interior lights versus cool cyan holograms.
+
+Camera: one continuous high-angle drone shot. Starts looking down on the lot, then slowly pulls back and lifts as the building grows, ending on a hero three-quarter view of the completed tower against the sunset.
+
+Lighting: late afternoon sun at the start; sky shifts to orange, coral, and pink clouds; finished tower glows with warm yellow office lights.
+
+[0s] Empty rectangular construction pit in the city. Three yellow cranes stand around the site. A faint cyan holographic floor grid appears on the dirt.
+
+[2s] Glowing cyan pillars rise from the grid and lock into a structural skeleton. Cranes stay in place.
+
+[4s] Concrete core and first floor slabs materialize. Cyan rings begin orbiting the structure. Camera starts a slow pull-back and rise.
+
+[7s] Mid-rise floors stack rapidly. Dark glass curtain walls wrap the lower levels. Interior lights start coming on. Sky turns warmer.
+
+[10s] Tower is now a tall glass skyscraper. Cranes lift the last rooftop mechanical sections into place. Cyan hologram fades. Sunset sky is intense orange-pink.
+
+[13s] Construction complete. Clean modern tower with lit interiors, one remaining crane at the base. Hold the final cinematic aerial frame.
+
+Audio: distant city traffic, compressed construction rumble early, then a low cinematic swell as the building finishes. No dialogue. No on-screen text. No watermark.
+
+Avoid: cuts, shaky camera, cartoon look, people close-up, logos, extra towers appearing out of nowhere, watermark, subtitles, UI overlay.
+```
+
+</details>
+
 <a id="h3-rift-dimensional-tear-metal-title-sequence"></a>
 ### White energy rift tears open into metal title
 
@@ -426,6 +598,90 @@ MiniMax H3 · Text-to-video · Source: [@CharaspowerAI on X](https://x.com/Chara
 
 ```text
 High-end sci-fi title sequence beginning with a razor-thin line of white energy slicing vertically through complete darkness. Space immediately begins deforming around it as metallic particles, dust and glowing fragments are violently pulled toward the opening. The line tears wider into a gigantic dimensional fracture filled with unstable plasma and gravitational distortion. The camera accelerates directly toward the rift, violently banking between fragments being stretched into luminous trails. Suddenly the dimensional tear snaps shut with enormous force, compressing all surrounding matter into four gigantic black-metal letterforms that slam together to reveal "RIFT". Brilliant energy remains trapped inside deep cracks across the typography while space visibly bends around its edges. The camera performs a fast orbital move before the title itself splits open along its center, releasing a catastrophic dimensional shockwave that tears through the frame. Sophisticated cosmic distortion, aggressive kinetic typography, premium superhero-film VFX.
+```
+
+</details>
+
+<a id="h3-golden-palace-volcano-morph"></a>
+### Golden palace morphs into volcanic mountain
+
+<a href="https://x.com/churvikv/status/2108262204424229057"><img src="../../previews/h3-golden-palace-volcano-morph.jpg" width="360"></a>
+
+The prompt walks through the transition in order from the calm start to the dramatic end, so the model gets a clear timeline. Each change names a concrete surface, such as domes turning into columns and water bubbling to reflect lava, which gives every morph a visible anchor.
+
+MiniMax H3 · Text-to-video · Source: [@churvikv on X](https://x.com/churvikv/status/2108262204424229057) · 139 likes on 2026-10-29
+
+[`morph`](tags.md#tag-morph) [`transition`](tags.md#tag-transition) [`fantasy`](tags.md#tag-fantasy) [`volcano`](tags.md#tag-volcano)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Smooth transformation from peaceful golden palace to dramatic volcanic mountain. Golden domes morph into ancient Greek columns, calm water begins to bubble and reflect lava, serene sky fills with fiery storm clouds, golden light turns into flowing lava, peaceful atmosphere transforms into epic volcanic drama. Cinematic morphing,
+```
+
+</details>
+
+<a id="h3-octopus-paris-facade-multi-angle-cuts"></a>
+### Octopus on Paris facade across six cuts
+
+<a href="https://x.com/steftranquillin/status/2102318276642553907"><img src="../../previews/h3-octopus-paris-facade-multi-angle-cuts.jpg" width="360"></a>
+
+The prompt freezes the octopus, building, pedestrians and light as a reference, then changes only the camera across timed hard cuts. Naming Video1 as the master reference keeps the creature design and lighting consistent from angle to angle.
+
+MiniMax H3 · Video edit · Source: [@steftranquillin on X](https://x.com/steftranquillin/status/2102318276642553907) · 126 likes on 2026-10-29
+
+[`multi-angle`](tags.md#tag-multi-angle) [`camera-edit`](tags.md#tag-camera-edit) [`octopus`](tags.md#tag-octopus) [`paris`](tags.md#tag-paris) [`surreal`](tags.md#tag-surreal)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Overcast light, soft light, daytime, documentary photography style, mixed tones, wide-angle. This is documentary-style multi-camera coverage of a single, unchanging surreal moment: a giant octopus draped over a scaffolded Haussmannian building facade on a Paris street, its tentacles hanging down over the netting, pedestrians walking past below completely unfazed by it.
+@Video1
+ is the master reference for the octopus's exact design, color, texture, scale, and pose, the building's architecture and scaffolding, the pedestrians' presence and unbothered behavior, and the daytime overcast lighting. None of this changes across the sequence below, only the camera does — six rapid, distinct angles cover this same frozen moment in quick succession, as if six different camera crews were filming it at once. Shot 1 [0-2s] Aerial shot. A high aerial view looking down over the street, revealing the full scaffolded building facade with the octopus draped across it, tentacles hanging over several floors, pedestrians walking past below. Shot 2 [2-4s] Hard cut transition, medium shot from street level, matching Video 1's framing and distance: the building's stone facade wrapped in scaffolding, the octopus's tentacles draped down over several floors, pedestrians crossing in the foreground. Shot 3 [4-5.5s] Hard cut transition, close-up on the octopus's head and eye, its textured reddish-brown skin catching the daylight, one tentacle curling around a section of scaffolding pipe. Shot 4 [5.5-7s] Hard cut transition, low-angle shot, camera tilted sharply upward from street level, the octopus looming directly overhead against the cloudy sky. Shot 5 [7-8.5s] Hard cut transition, lateral tracking shot at eye level along the street, the building's facade and the octopus's tentacles draped along it in profile. Shot 6 [8.5-10s] Hard cut transition, over-the-shoulder shot from just behind a pedestrian walking on the sidewalk, their head tilted up toward the octopus as they pass beneath it, unhurried and unreactive. Sound: light outdoor street ambience throughout, distant traffic hum and soft wind, consistent across every rapid cut. No dialogue. No background music.
+```
+
+</details>
+
+<a id="h3-yellow-triangle-tunnel-graphic-loop"></a>
+### Glowing yellow triangle tunnel in black void
+
+<a href="https://x.com/ZaraIrahh/status/2087762931777716345"><img src="../../previews/h3-yellow-triangle-tunnel-graphic-loop.jpg" width="360"></a>
+
+A timed beat sheet with a fixed palette and a camera verb for each beat, ending with an explicit instruction to match the last frame to the first so the clip loops. Naming stylized 3D cel shading with hard shadows and forbidding photorealism keeps the output graphic rather than rendered.
+
+MiniMax H3 · Text-to-video · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2087762931777716345) · 125 likes on 2026-10-29
+
+[`cel-shading`](tags.md#tag-cel-shading) [`looping`](tags.md#tag-looping) [`camera-moves`](tags.md#tag-camera-moves) [`graphic-poster`](tags.md#tag-graphic-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second viral-ready stylized 3D animation with a bold graphic-poster aesthetic, combining 3D cel shading, abstract motion graphics, surreal transformations, and extremely dynamic camera movement.
+
+STYLE: Stylized 3D toon/cel-shaded animation, low-poly geometric forms, hard-edged shadows, clean surfaces, exaggerated proportions, strong silhouettes, minimal textures, high contrast. Make the world feel like a graphic poster transformed into 3D space. Avoid photorealism and generic CGI.
+
+COLOR PALETTE: Golden yellow, amber, lemon yellow, black, and white dominate the entire video. Metallic gray appears only as a small accent. Red is allowed only on the villain's sofa, liquor, and warning signals.
+
+0–3 SECONDS — INSTANT HOOK:
+Open with an extreme close-up of a mysterious 3D graphic object rushing directly toward the camera. Suddenly pull the camera backward to reveal a surreal geometric city made of pipes, grids, sliced buildings, blocks, signs, and mechanical structures. Use a dramatic perspective shift and rapid camera rotation.
+
+3–7 SECONDS — ESCALATION:
+The city begins transforming at impossible speed. Buildings split into geometric pieces, pipes twist through the streets, blocks rotate in mid-air, and graphic symbols explode outward. The camera flies through the environment with aggressive parallax, speed ramps, and seamless transitions.
+
+7–11 SECONDS — CHARACTER + SURPRISE:
+Reveal the villain sitting on a distinctive red sofa in the middle of the moving city. The villain makes one dramatic gesture. Instantly, the sofa, surrounding architecture, and entire environment transform into a massive surreal 3D geometric structure. Use a rapid push-in followed by a sudden wide shot.
+
+11–14 SECONDS — CLIMAX:
+Everything accelerates. Yellow and black geometric elements spiral around the camera. Buildings fold, rotate, compress, and reconstruct. Use extreme perspective, fast tracking, graphic match cuts, silhouettes, diagonal masks, distortion, and a powerful final camera movement.
+
+14–15 SECONDS — LOOP:
+The entire world rapidly collapses into the same graphic object from the opening shot. End on the exact visual composition needed to seamlessly connect back to the first frame, creating a perfect infinite loop.
+
+ANIMATION LANGUAGE: Constant motion, squash and stretch, geometric morphing, slicing, flipping, compression, distortion, object transformation, impossible physics, speed ramps, freeze-frame accents, and satisfying visual cause-and-effect.
+
+CAMERA: Extreme push-ins, rapid pull-outs, rotating shots, overhead views, low angles, impossible tracking shots, camera-through-object transitions, sudden perspective changes, and dramatic scale shifts.
+
+FINAL LOOK: Premium, surreal, energetic, highly stylized 3D cel animation that feels like a living graphic poster. Every second must introduce a new visual surprise. Make the first second immediately attention-grabbing and the final second perfectly loopable.
 ```
 
 </details>
@@ -946,6 +1202,33 @@ Strict prohibitions: no on screen text, no titles, no logos, no watermarks, no b
 
 </details>
 
+<a id="seedance-snake-dragon-woman-metamorphosis"></a>
+### Snake morphs into dragon, then woman
+
+<a href="https://x.com/hedo_ist/status/2083989211607155054"><img src="../../previews/seedance-snake-dragon-woman-metamorphosis.jpg" width="360"></a>
+
+The prompt supplies three reference images and chains the transformations as two steps, snake to dragon and then dragon to woman, so each morph has a defined start and end. The closing line overrides the default score with ASMR sound and the photorealistic cue sets the look.
+
+Seedance 2.5 · Reference-to-video · Source: [@hedo_ist on X](https://x.com/hedo_ist/status/2083989211607155054) · 72 likes on 2026-10-29
+
+[`metamorphosis`](tags.md#tag-metamorphosis) [`reference-images`](tags.md#tag-reference-images) [`asmr-sound`](tags.md#tag-asmr-sound) [`photorealistic`](tags.md#tag-photorealistic) [`transformation`](tags.md#tag-transformation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+You must add 3 reference images: a snake, a dragon and a woman.
+
+Cinematic, fluid metamorphosis of a snake ￼ into this creature .￼
+
+Cinematic metamorphosis of this creature into a woman.  ￼
+
+Photorealistic cinematic scene.
+
+not music. asmr sounds
+```
+
+</details>
+
 <a id="h3-shapes-mascot-learning-animation"></a>
 ### Animated mascot teaches four basic shapes
 
@@ -1054,6 +1337,146 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 
 </details>
 
+<a id="h3-storm-fire-never-back-down-motion"></a>
+### Golden NEVER BACK DOWN text over storm and fire
+
+<a href="https://x.com/LudovicCreator/status/2092190292254322746"><img src="../../previews/h3-storm-fire-never-back-down-motion.jpg" width="360"></a>
+
+A timed breakdown with separate lines for background, letters and audio stages a build to a peak and a hold. Tracking the background escalation apart from the text keeps the glowing type readable against the chaos.
+
+MiniMax H3 · Text-to-video · Source: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2092190292254322746) · 57 likes on 2026-10-29
+
+[`motion-graphics`](tags.md#tag-motion-graphics) [`typography`](tags.md#tag-typography) [`storm-and-fire`](tags.md#tag-storm-and-fire) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[PROJECT TYPE] Text-to-video. EXACTLY 15 seconds. Motion graphics with dynamic
+storm + fire animated background.
+
+[Global Setting] ANIMATED BACKGROUND  STORM + FIRE COMBINED:
+Dark apocalyptic sky with MASSIVE storm clouds swirling. Lightning crackling
+violently everywhere. Rain falling in torrents. BENEATH/WITHIN: INTENSE ORANGE/RED
+FIRE and FLAMES surging upward, consuming everything. Fire and storm battling.
+Destruction and power. Survival against all odds. Cinematic and overwhelming.
+
+[Background Details]
+✓ Storm clouds dark grey/black, constantly rotating
+✓ Lightning bolts EVERYWHERE multiple simultaneous strikes
+✓ Rain pouring down in heavy sheets
+✓ MASSIVE FIRE/FLAMES rising from below
+✓ Orange/red glow illuminating darkness
+✓ Smoke billowing upward mixing with storm clouds
+✓ Fire and water in conflict steam rising
+✓ Wind-torn clouds, churning motion constant
+✓ Apocalyptic, epic, overwhelming
+✓ MOTION NEVER STOPS, escalates throughout
+
+[EXACT TIMING BREAKDOWN]
+
+[Opening/Setup, 0–2s]
+BACKGROUND EXPLODES INTO LIFE. Dark storm clouds SWIRL violently. Lightning
+STRIKES. Rain POURS. FIRE erupts orange/red from below. Apocalyptic chaos.
+First letter "N" MATERIALIZES glowing golden.
+
+[Word 1: "NEVER", 2–6s] (4 seconds)
+Letters appear sequentially with 1 second each approximately:
+— "N" (already visible from 0s, now with particles and glow)
+— "E" rotates with blue glow
+— "V" slides with motion blur
+— "E" warps into place
+— "R" extrudes with depth
+
+Particles swirl around letters. Electrical arcs connect them. BACKGROUND: storm
+intensifies, lightning increases, fire burns brighter, smoke billows. Music
+building. All elements escalating.
+
+[Word 2: "BACK DOWN", 6–10s] (4 seconds)
+Letters appear sequentially:
+— "B" explodes with energy burst
+— "A" rotates 360°
+— "C" morphs fluidly
+— "K" slides with metallic effect
+— (space)
+— "D" warps into place
+— "O" extrudes from screen
+— "W" connects to others
+— "N" final letter locks
+
+Geometric shapes (circles, lines, triangles) orbit and dance around letters.
+Electrical arcs NETWORK connecting everything. BACKGROUND: MAXIMUM INTENSITY —
+lightning CONSTANTLY striking, fire RAGING, rain TORRENTIAL, clouds VIOLENT,
+smoke BILLOWING.
+
+[Peak Moment, 10–13s] (3 seconds)
+FULL TEXT VISIBLE: "NEVER BACK DOWN"
+ALL LETTERS GLOWING MAXIMUM golden/blue intensity. Particles EXPLODING around
+them. Geometric motion graphics dancing frantically. Electrical network BLAZING
+between all letters. Color shifts: golden → blue → purple → golden.
+
+BACKGROUND AT ABSOLUTE PEAK:
+— Storm clouds VIOLENT rotation
+— Lightning CONSTANT strikes every fraction of second
+— Rain POURING in sheets
+— FIRE ENGULFING lower half completely
+— Smoke and steam swirling
+— Orange glow overwhelming darkness
+— PURE APOCALYPTIC CHAOS
+
+Text and background PERFECTLY SYNCHRONIZED. Peak together.
+
+[Final Hold, 13–15s] (2 seconds)
+Text LOCKS in place GLOWING intensely. Particles SWIRL slowly. Geometric shapes
+settle but keep subtle movement. Background slightly calms but STAYS INTENSE
+storm still raging, lightning still striking regularly, fire still burning bright.
+
+One final POWERFUL ORCHESTRAL NOTE HOLDS across full 2 seconds.
+
+Final frame freezes on:
+"NEVER BACK DOWN"
+GLOWING GOLDEN/BLUE
+Against STORM + FIRE apocalypse
+ABSOLUTE CONVICTION against OVERWHELMING ODDS
+
+[BACKGROUND SPECS — CONSTANT]
+✓ Storm: Dark swirling clouds, constant rotation, lightning frequent
+✓ Fire: Orange/red flames rising from below, intense glow
+✓ Rain: Torrential, visible falling sheets
+✓ Lightning: MULTIPLE strikes, unpredictable, bright white flashes
+✓ Smoke: Billowing upward, mixing with storm clouds
+✓ Steam: From fire meeting rain
+✓ Overall: APOCALYPTIC, POWERFUL, CINEMATIC
+✓ Motion: ESCALATES 0-10s, HOLDS 10-13s, SUSTAINS 13-15s
+
+[TEXT VFX]
+✓ Golden primary glow + blue secondary glow on all letters
+✓ Particles emanating constantly from letters
+✓ Electrical arcs connecting all letters (network effect)
+✓ Geometric shapes orbiting (circles, triangles, lines)
+✓ Individual letter effects: rotation, morphing, extrusion
+✓ Synchronized to music beat and background intensity
+
+[Audio — EXACT 15 SECONDS]
+0-2s: Thunder rumbling, wind howling BUILDING, rain starting, fire crackling emerging
+2-6s: Letter appearance sounds (swoosh/electronic pops), orchestral strings SWELLING, storm sounds INTENSIFYING
+6-10s: Electrical crackling INCREASING, orchestral crescendo BUILDING, storm RAGING, fire ROARING
+10-13s: MASSIVE orchestral climax (strings, horns, brass at PEAK), lightning thunder CONSTANT, fire ROARING LOUDLY, rain POURING LOUDLY
+13-15s: Single POWERFUL sustained orchestral note HOLDING, slight fade in background intensity but still present, storm/fire still audible underneath the note
+
+[Visual Storytelling]
+TEXT = CONVICTION (golden, glowing, perfect, unwavering)
+BACKGROUND = ADVERSITY (storm + fire = apocalypse trying to destroy everything)
+TOGETHER = Standing firm and glowing bright NEVER BACKING DOWN even when world
+is chaos and destruction
+
+[TONE] EPIC. CINEMATIC. POWERFUL. INSPIRATIONAL. ABSOLUTELY WOW.
+
+Made in
+@Hailuo_AI
+```
+
+</details>
+
 <a id="h3-origin-sci-fi-motion-poster-assembly"></a>
 ### Sci-fi ORIGIN poster assembling itself in motion
 
@@ -1108,6 +1531,33 @@ MiniMax H3 · Text-to-video · Source: [@cocktailpeanut on X](https://x.com/cock
 
 ```text
 "Hyper-realistic found-footage horror video, filmed by a cheap action camera mounted inside a small fishing boat on a quiet lake. A lone fisherman violently reels in something heavy. He pulls up a muddy smartphone tangled in weeds. He answers, breathing hard. A distorted voice says, "Finally. I’ve been trying to switch places with you." The phone flashes blinding white and the footage glitches. When the image returns, the phone shows the terrified fisherman trapped inside its screen, silently pounding on the glass. Behind him, an identical soaking-wet fisherman slowly climbs out of the lake into the boat, notices the camera, and reaches toward the lens. Abrupt cut to black. Raw handheld realism, imperfect autofocus, clipped audio, no music, no stylization."
+```
+
+</details>
+
+<a id="wan-outfit-swap-jump-reveal-stop-motion"></a>
+### Woman hesitates then jumps into outfit change
+
+<a href="https://x.com/TanLuAI/status/2096214239815823822"><img src="../../previews/wan-outfit-swap-jump-reveal-stop-motion.jpg" width="360"></a>
+
+A timed beat sheet with per-second cues fixes the order of expression and motion, and the tail frame locks the new outfit so the change lands at the apex of one jump. Holding the final frame and forbidding repeat jumps keeps the transition clean.
+
+Wan 3.0 · First & last frame · Source: [@TanLuAI on X](https://x.com/TanLuAI/status/2096214239815823822) · 42 likes on 2026-10-29
+
+[`outfit-swap`](tags.md#tag-outfit-swap) [`head-tail-frames`](tags.md#tag-head-tail-frames) [`timed-beats`](tags.md#tag-timed-beats) [`stop-motion`](tags.md#tag-stop-motion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+2:3 vertical screen, pure white seamless photography studio, soft and stable side lighting with natural floor projections. Strictly maintain the facial features and body proportions of the same adult woman as in the reference images for the head and tail frames.
+0–0.3 seconds: Starting from the first frame, the character has her left hand on her hip, head slightly tilted, brows gently furrowed, eyes slightly narrowed, lips lightly pursed, with a hint of confusion and hesitation, as if thinking "What should I wear?", without speaking. The right hand naturally lifts from beside the shoulder toward the forehead.
+0.3–1.5 seconds: Maintain a restrained, natural puzzled expression, with the right fingertips lightly touching the hairline and stray hairs on the forehead, gently fiddling with them once or twice, like a small thoughtful gesture; left hand still on the hip. The gaze first looks toward the camera, then slightly shifts to the upper side.
+1.5–2.6 seconds: The right hand moves away from the forehead and naturally drops, the line of sight turns to the left side of the frame, with the head and shoulders following into a three-quarter side profile. The puzzled expression naturally resolves, and the demeanor becomes focused. The left hand leaves the hip, preparing to swing the arm.
+2.6–3.55 seconds: Both feet remain grounded, knees bend into a squat, center of gravity lowers, upper body leans slightly forward, arms swing naturally, with a brief pause in the low position to gather strength.
+3.55–4 seconds: Both legs push off the ground in a light jump, feet leaving the surface. One leg extends downward, the other knee bends and lifts backward; one forearm raises to near the shoulder, the other arm naturally extends backward and to the side. The camera follows the character's jump, pulling back. Hair, bow, and skirt hem rise slightly with the jump in accordance with inertia, skirt hem maintaining natural coverage. And at the highest point in the air, pause to complete the outfit change, with the four elements of the tail frame appearing at the top of the video, finally freezing and pausing on frame 13, and holding for 0.2 seconds.
+The entire sequence completes only one jump, with continuous actions and natural joint and gravity movements. Facial expression changes must be subtle: slight confusion → touching forehead hair while thinking → turning head to focus → squatting and jumping.
+Negative constraints:
+Do not maintain a blank expression from start to finish, do not change clothing or change outfit prematurely, do not have excess limb, finger, clothing clipping or exposure of undergarments. Do not repeat jumps, float prematurely or land early. Do not include text, watermarks, phone frames or top accessory bars. Do not include melodic background music.
 ```
 
 </details>
@@ -1309,6 +1759,25 @@ MiniMax H3 · Text-to-video · Source: [@CharaspowerAI on X](https://x.com/Chara
 
 ```text
 Ultra-cinematic Hollywood title sequence, opening on an extreme macro shot of a perfectly smooth monolithic titanium surface suspended in darkness. A microscopic dent suddenly appears at its center, followed by an invisible supersonic impact that violently propagates across the metal, bending the entire surface in a spectacular pressure ripple. The camera rapidly pulls backward as the titanium plate explodes into thousands of heavy fragments, glowing sparks and molten particles. Time dramatically slows while the debris hangs in the air, then a powerful magnetic force reverses every fragment at once. Pieces accelerate back toward the center, colliding with brutal precision and forging the monumental word "IMPACT" from dense battle-scarred titanium. The camera sweeps inches above the newly formed letters as glowing energy races through their cracks, then whips into a perfectly centered frontal hero shot. A final invisible shockwave slams into the title, creating a spectacular ripple through the metal before blasting sparks, dust and fragments toward the lens. Photorealistic metal deformation, sophisticated destruction physics, aggressive speed ramps, anamorphic cinematography, premium AAA theatrical title design.
+```
+
+</details>
+
+<a id="h3-bioluminescent-vortex-whale-morph"></a>
+### Bioluminescent particles swirl into an underwater vortex
+
+<a href="https://x.com/MrDasCreates/status/2087462260218245401"><img src="../../previews/h3-bioluminescent-vortex-whale-morph.jpg" width="360"></a>
+
+The prompt sets the morph as ordered stages (particles, then ribbons, then a whale silhouette, then solid skin) and gives the camera a timed path: a macro shot that pulls back, then a circling hero shot. Asking parts of the body to briefly re-liquefy gives the transition its seamless feel.
+
+MiniMax H3 · Text-to-video · Source: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2087462260218245401) · 26 likes on 2026-10-29
+
+[`underwater`](tags.md#tag-underwater) [`particles`](tags.md#tag-particles) [`transformation`](tags.md#tag-transformation) [`whale`](tags.md#tag-whale)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate a 15-second ultra-realistic cinematic transformation in a mysterious moonlit ocean at night: countless glowing bioluminescent particles drift beneath the dark water, slowly swirling together into a luminous underwater vortex; the vortex stretches into flowing translucent ribbons that begin forming the silhouette of an enormous whale. The liquid mass seamlessly transforms into realistic wet skin, fins, eyes, and layered textures as the whale emerges from the swirling water, with streams of glowing liquid cascading from its body. The camera starts with an extreme macro shot of glowing particles, gradually pulls backward as the silhouette forms, then smoothly circles around the whale in a majestic underwater hero shot. At the climax, the whale rises toward the surface and bursts through the ocean, sending a massive crown of water into the moonlight before diving back into the glowing depths. Throughout the transformation, parts of its body briefly ripple back into liquid before solidifying again, creating a seamless surreal morphing effect with realistic water physics, volumetric moonlight, underwater caustics, floating particles, cinematic depth of field, and epic atmospheric scale.
 ```
 
 </details>

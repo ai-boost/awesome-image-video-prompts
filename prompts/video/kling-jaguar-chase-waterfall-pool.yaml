@@ -1,0 +1,48 @@
+id: kling-jaguar-chase-waterfall-pool
+title:
+  en: Backpacker chased by jaguar into waterfall pool
+  zh: 背包客被美洲豹追逐跳入瀑布池
+model: Kling 4.0
+mode: reference-to-video
+category: action
+tags:
+- multi-shot
+- reference-images
+- chase
+- jaguar
+source:
+  name: '@PixVerse on X'
+  url: https://x.com/PixVerse/status/2115760864238469589
+  credit: PixVerse
+  likes: 38
+  captured: '2026-10-29'
+  posted: '2026-10-29'
+video: https://x.com/PixVerse/status/2115760864238469589
+notes:
+  en: The prompt is a time coded shot plan with a named shot type for every beat, which gives the model a 30 second edit to follow. Four labelled reference images are each assigned a role, and identity, clothing and backpack are locked by name so the character stays consistent across cuts.
+  zh: 提示词按时间段写出分镜，每一段都指定景别，相当于为模型提供一份30秒的剪辑方案。四张参考图各自绑定角色，并点名锁定人物身份、服装和背包，使角色在多次切镜中保持一致。
+prompt: |
+  Create a 30-second, 16:9 photorealistic adventure thriller. Use Image 1 for the jaguar, Image 2 for the rainforest, Image 3 for the waterfall pool, and Image 4 for the backpacker. Preserve identity, clothing, markings, and backpack throughout.
+
+  **0–5s**
+  Medium tracking shot: the backpacker walks through dense rainforest. A rustle stops him. Cut to his tense face, then over his shoulder as he parts the leaves. A jaguar suddenly lunges.
+
+  **5–9s**
+  Low lateral wide shot: the jaguar knocks him backward, his backpack striking the muddy ground. Leaves scatter. He shields his head, rolls aside, and scrambles upright while the jaguar turns. Realistic impact, no blood.
+
+  **9–15s**
+  Ground-level tracking captures pounding boots and flying mud. Cut wider: he races screen-right, the jaguar close behind. He stumbles over a root, braces against a trunk, and keeps running, backpack bouncing against secured straps.
+
+  **15–19s**
+  Close-up: gasping, he spots an opening. Cut aerial-wide to reveal the trail ending at a rocky bank beside the waterfall pool. The jaguar follows him toward a ledge one meter above the water.
+
+  **19–22s**
+  Lateral wide shot: trapped, he glances back and jumps. Show takeoff through feet-first entry continuously. His backpack remains attached. Water erupts; the jaguar brakes at the edge.
+
+  **22–26s**
+  Water-level medium shot: he surfaces and swims away with strenuous strokes, the backpack dragging through the water. He looks back at the jaguar watching from shore.
+
+  **26–30s**
+  His wet shoulders fill the foreground. Beyond him, the jaguar pauses, turns, and disappears into the forest. He keeps paddling as the waterfall roars.
+
+  Natural filtered light, cinematic contrast, varied framing, readable handheld movement, hard cuts, normal speed. Maintain chase direction and geography. Preserve mud after falling and wet clothing after immersion. No dialogue or text. Emphasize foliage, impacts, running, gasping, and rushing water.

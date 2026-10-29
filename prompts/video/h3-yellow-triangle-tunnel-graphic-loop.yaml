@@ -1,0 +1,50 @@
+id: h3-yellow-triangle-tunnel-graphic-loop
+title:
+  en: Glowing yellow triangle tunnel in black void
+  zh: 黑色虚空中发光的黄色三角隧道
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- cel-shading
+- looping
+- camera-moves
+- graphic-poster
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2087762931777716345
+  credit: Zara
+  likes: 125
+  captured: '2026-10-29'
+  posted: '2026-08-13'
+video: https://x.com/ZaraIrahh/status/2087762931777716345
+notes:
+  en: A timed beat sheet with a fixed palette and a camera verb for each beat, ending with an explicit instruction to match the last frame to the first so the clip loops. Naming stylized 3D cel shading with hard shadows and forbidding photorealism keeps the output graphic rather than rendered.
+  zh: 按秒划分的分镜配合固定配色，每段都给出一个镜头动词，结尾明确要求末帧与首帧衔接以形成循环。明确指定卡通渲染、硬边阴影并禁止写实，使画面保持平面海报感而不是真实渲染。
+prompt: |
+  Create a 15-second viral-ready stylized 3D animation with a bold graphic-poster aesthetic, combining 3D cel shading, abstract motion graphics, surreal transformations, and extremely dynamic camera movement.
+
+  STYLE: Stylized 3D toon/cel-shaded animation, low-poly geometric forms, hard-edged shadows, clean surfaces, exaggerated proportions, strong silhouettes, minimal textures, high contrast. Make the world feel like a graphic poster transformed into 3D space. Avoid photorealism and generic CGI.
+
+  COLOR PALETTE: Golden yellow, amber, lemon yellow, black, and white dominate the entire video. Metallic gray appears only as a small accent. Red is allowed only on the villain's sofa, liquor, and warning signals.
+
+  0–3 SECONDS — INSTANT HOOK:
+  Open with an extreme close-up of a mysterious 3D graphic object rushing directly toward the camera. Suddenly pull the camera backward to reveal a surreal geometric city made of pipes, grids, sliced buildings, blocks, signs, and mechanical structures. Use a dramatic perspective shift and rapid camera rotation.
+
+  3–7 SECONDS — ESCALATION:
+  The city begins transforming at impossible speed. Buildings split into geometric pieces, pipes twist through the streets, blocks rotate in mid-air, and graphic symbols explode outward. The camera flies through the environment with aggressive parallax, speed ramps, and seamless transitions.
+
+  7–11 SECONDS — CHARACTER + SURPRISE:
+  Reveal the villain sitting on a distinctive red sofa in the middle of the moving city. The villain makes one dramatic gesture. Instantly, the sofa, surrounding architecture, and entire environment transform into a massive surreal 3D geometric structure. Use a rapid push-in followed by a sudden wide shot.
+
+  11–14 SECONDS — CLIMAX:
+  Everything accelerates. Yellow and black geometric elements spiral around the camera. Buildings fold, rotate, compress, and reconstruct. Use extreme perspective, fast tracking, graphic match cuts, silhouettes, diagonal masks, distortion, and a powerful final camera movement.
+
+  14–15 SECONDS — LOOP:
+  The entire world rapidly collapses into the same graphic object from the opening shot. End on the exact visual composition needed to seamlessly connect back to the first frame, creating a perfect infinite loop.
+
+  ANIMATION LANGUAGE: Constant motion, squash and stretch, geometric morphing, slicing, flipping, compression, distortion, object transformation, impossible physics, speed ramps, freeze-frame accents, and satisfying visual cause-and-effect.
+
+  CAMERA: Extreme push-ins, rapid pull-outs, rotating shots, overhead views, low angles, impossible tracking shots, camera-through-object transitions, sudden perspective changes, and dramatic scale shifts.
+
+  FINAL LOOK: Premium, surreal, energetic, highly stylized 3D cel animation that feels like a living graphic poster. Every second must introduce a new visual surprise. Make the first second immediately attention-grabbing and the final second perfectly loopable.

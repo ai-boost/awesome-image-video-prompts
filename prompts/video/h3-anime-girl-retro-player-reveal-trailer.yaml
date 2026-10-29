@@ -1,0 +1,62 @@
+id: h3-anime-girl-retro-player-reveal-trailer
+title:
+  en: Anime girl in orange headphones, amber eye glance
+  zh: 橙色耳机动漫少女，琥珀色眼睛特写
+model: MiniMax H3
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- character-consistency
+- motion-graphics
+- retro-ui
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2094085208027103678
+  credit: Sharon Riley
+  likes: 293
+  captured: '2026-10-29'
+  posted: '2026-08-30'
+video: https://x.com/Just_sharon7/status/2094085208027103678
+notes:
+  en: A detailed character sheet plus a rule to preserve face, hair and outfit in every frame keeps the design locked across cuts. A timed shot list with retro media-player UI elements such as window chrome and equalizer bars sets the pacing and the graphic identity.
+  zh: 详细的角色设定加上每一帧都保持脸部、发型和服装不变的要求，让角色在所有镜头中保持一致。按时间码排列的分镜表，加上复古播放器界面元素（窗口标题栏、均衡器条等），决定了节奏和图形风格。
+prompt: |
+  Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13 distinct cuts, 24fps, total 15.00s.
+
+  CHARACTER (lock this design; never redesign):
+  Anime streetwear girl from the reference still. Twin high buns of vivid mint-teal hair with long flowing tails and warm orange/gold streaks. Messy side-swept bangs. Large orange over-ear headphones with mint accents and a small logo plate. Sharp amber-orange eyes, one eye winking. Playful open-mouth grin. Oversized color-block windbreaker: navy body, vivid orange sleeves, white ribbed cuffs, silver zippers, circular teal tech buttons, a teal utility pocket on the sleeve. Orange cropped turtleneck under the open jacket. Light-wash ripped denim shorts, thick orange belt with a silver buckle. Navy thigh-high socks with orange ribbed cuffs and an orange X stitch on the left shin. Chunky white sneakers with orange details. Preserve exact face, proportions, hairstyle, outfit, materials, accessories and colors in every frame.
+
+  This film is 80% bold graphic design in motion and 20% character action. Graphic language is **retro OS chrome + music-player UI**, not ice/frost/barcode-lock. Use slamming window frames, title bars, close/minimize widgets, equalizer bars, waveforms, progress ticks, folder tiles, cursor arrows, CRT scanlines, pixel shatter, vinyl-ring stamps, music-note particles, media-player transport icons. Palette: mint teal, vivid orange, navy, cream-white, silver. Style: premium AAA motion-graphics title sequence × streetwear campaign film × Windows-era media player. Every graphic element moves fast and snaps hard on the beat.
+
+  CUT 01 | 0.00–1.00s — Pure graphics: a mint title-bar slams onto a cream field, an orange CLOSE widget punches the corner, two navy window borders wipe in. Tiny equalizer ticks and a progress strip flicker. The letters **P** then **LAY** punch in one after another with heavy impact shake.
+
+  CUT 02 | 1.00–2.00s — The **A** becomes a headphone cup: extreme close-up of her amber eye inside the orange earcup, glancing up; RGB split flash, then the cup shatters into flat mint/orange tiles.
+
+  CUT 03 | 2.00–3.10s — Navy frame with enormous cream **PLAY**. She sprints in from frame left and power-slides across the baseline of the type, speed lines and orange streaks trailing, shards of the letters kicked up like sparks. Whip-pan out.
+
+  CUT 04 | 3.10–4.00s — A giant retro media-player waveform explodes across the frame as a thick mint-and-orange audio spectrum bends into a tunnel. She bursts through the center of the waveform at full speed, briefly breaking into three stroboscopic motion trails behind her. Each trail leaves behind chunky navy equalizer blocks that rise and collapse to the beat. The camera rapidly pushes through the waveform tunnel with her, while huge vertical text **TRACK 01** scrolls continuously in the background. The waveform suddenly compresses into a single horizontal line and snaps shut behind her on the final beat.
+
+  CUT 05 | 4.00–5.10s — She leaps through a giant rotating ring of typography reading **MAX VOLUME**. Camera tracks her mid-air spin in slow motion as the letters scatter, then snap-zoom on her wink.
+
+  CUT 06 | 5.10–6.00s — Hard cut: cream editorial card, huge navy **DROP** with an orange slash. She vaults over the word itself, palm planted on the D, legs whipping across frame; the word compresses like a spring under her hand and rebounds.
+
+  CUT 07 | 6.00–7.00s — Mint field with a navy diagonal window-bar. She back-flips along the bar in three stroboscopic ghost frames, each ghost tinted mint, orange, or navy. Giant outlined text **LOOP** rotates 180 degrees in sync with her rotation.
+
+  CUT 08 | 7.00–8.00s — Kinetic type barrage: the words **LOUD / WILD / TEAL / HEAT** slam in one per beat with shutter flashes and camera shake, while she slides on her knees across the foreground, jacket flaring, music-note particles bursting from her sneakers.
+
+  CUT 09 | 8.00–9.00s — Navy frame, giant cream wireframe window-grid tilting in 3D. She runs up the grid like a wall, kicks off, and hangs in the air as everything freezes. An orange circular stamp locks around her pose like a media-player target, with transport icons and EQ ticks.
+
+  CUT 10 | 9.00–10.10s — Freeze releases into a burst: she dives toward camera through layered flat-color window panes that shatter one by one like glass shutters, each pane revealing a bigger letter of **P-L-A-Y**. Foreground wipe with her sneaker.
+
+  CUT 11 | 10.10–11.10s — Rapid-fire poster montage: four full-screen graphic posters of her in different action poses (mid-flip, sliding, landing, headphones-up wink) snap past with hard cuts. Each has a different bold layout, oversized numbers **01–04**, equalizer strips and slashes.
+
+  CUT 12 | 11.10–13.00s — Hero moment on a clean cream cyclorama: she lands a final backflip dead center in slow motion, straightens with one hand on her headphones, and a shockwave of concentric mint rings, wind streaks and shattered typography blasts outward from her landing. Brief iconic freeze on her wink, overexpose to white.
+
+  CUT 13 | 13.00–15.00s — Final identity card: enormous navy **PLAY** dominates a pale cream field with translucent mint rings, technical arcs, scanlines, and a rough orange circular emblem containing a ghosted headphone / waveform motif. She stands relaxed overlapping the letters, wind rippling her jacket. One last orange pulse sweeps through the typography and a window-chrome flash punctuates the end.
+
+  Editing: extremely aggressive rhythm — hard cuts on every beat, graphic matches, whip pans, snap zooms, stroboscopic freezes, foreground wipes, RGB splits, shutter flashes, impact shakes and speed ramps. Every cut must feel compositionally different. Typography is always fully readable before the character overlaps it. No weapons, no combat, no fire. All energy comes from motion design, wind, glass, UI chrome and her parkour-style athleticism.
+
+  BGM: hard-hitting electronic / drum-heavy future bass with aggressive drops, risers, sub hits and glitch fills locked to every cut. Sneaker impacts, whooshes, glass shatters, window-slam hits and typography slams are rhythmic sound-design elements. Peak at CUT 12 and end with a cold electronic logo stinger.
+
+  Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive, strong graphic-design identity, consistent character design, exactly 13 cuts.

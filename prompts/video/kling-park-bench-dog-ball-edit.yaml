@@ -1,0 +1,37 @@
+id: kling-park-bench-dog-ball-edit
+title:
+  en: Dog brings ball to the wrong friend in park
+  zh: 公园里狗把球叼给了另一位朋友
+model: Kling 4.0
+mode: video-edit
+category: animal
+tags:
+- video-editing
+- character-lock
+- dog
+- park
+- dialogue
+source:
+  name: '@shikoba_86 on X'
+  url: https://x.com/shikoba_86/status/2111760132535099777
+  credit: Marco "Shikoba" Riccetti
+  likes: 51
+  captured: '2026-10-29'
+  posted: '2026-10-18'
+video: https://x.com/shikoba_86/status/2111760132535099777
+notes:
+  en: Locks character, photography, light and camera in separate blocks so the edit keeps the same friends and dog across shots. Numbered shots with audio cues tie each change to the timing of the base clip.
+  zh: 将角色、摄影、光线和镜头分别锁定在独立段落中，让编辑后的各镜头保持同一对朋友和同一只狗。每个镜头都标注音频线索，使每处改动与原始片段的时间节奏对应。
+prompt: |
+  A city park on a sunny late-summer afternoon: a wooden bench beside a gravel path, tall green trees, a few people walking in the background.
+  CHARACTER LOCK: Friend A: man in his late 20s, short curly black hair, light stubble, white t-shirt, faded blue denim jacket, beige chinos, white sneakers. Friend B: man in his late 20s, short straight blond hair, clean-shaven, dark green hoodie, black jeans, grey sneakers. Dog: medium-sized golden retriever with a red collar. Same faces, clothes and dog in every frame.
+  PHOTOGRAPHY LOCK: 35mm and 50mm lenses, shallow depth of field, warm afternoon sunlight through the leaves, soft dappled shadows on the gravel, natural skin texture. Consistent color and exposure throughout.
+  LIGHT AND COLOR: lit only by the sun filtering through the trees. Warm highlights, soft green shadows. Muted, natural colors, no commercial color grade.
+  CAMERA LOCK: handheld, calm, slightly off-center compositions. No drone shots, no orbits, no crash zooms.
+  SHOT 1 — Wide shot. The two friends sit on the bench. Friend A throws a yellow tennis ball down the gravel path and the dog runs after it. Audio: the dog's paws on gravel, birds, distant voices.
+  SHOT 2 — Medium shot on the path. The dog catches the ball and runs back toward the bench with the ball in its mouth. Audio: paws on gravel, panting.
+  SHOT 3 — Medium shot on the bench. The dog drops the ball at Friend B's feet instead of Friend A's. Friend B picks it up and laughs. Audio: laughter.
+  SHOT 4 — Close-up on Friend A, half smiling, shaking his head.
+  FRIEND A (amused, mock-offended): "He always brings it back to you. Never to me."
+  Friend B pats the dog on the head. Audio: dog panting, birds.
+  AVOID: no music, no subtitles or on-screen text, the ball stays yellow, the dog keeps its red collar, no warped hands, no CGI or AI-generated look.

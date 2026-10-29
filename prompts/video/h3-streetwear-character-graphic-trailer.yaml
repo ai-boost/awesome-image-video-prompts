@@ -1,0 +1,41 @@
+id: h3-streetwear-character-graphic-trailer
+title:
+  en: Teal checker slam and pink wipes open the trailer
+  zh: 青绿格纹方块与粉色色条开场的角色预告片
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- motion-graphics
+- streetwear
+- character-lock
+- typography
+- trailer
+source:
+  name: '@sipteaandcoffee on X'
+  url: https://x.com/sipteaandcoffee/status/2094068060059799762
+  credit: kold Coffee
+  likes: 126
+  captured: '2026-10-29'
+  posted: '2026-08-30'
+video: https://x.com/sipteaandcoffee/status/2094068060059799762
+notes:
+  en: A reference still with a CHARACTER LOCK block fixes the design, and the palette plus 13 timed cuts keep the character consistent across shots. The film is mostly graphic motion, with each cut given its own composition so the typography stays readable before the character enters the frame.
+  zh: 参考图加上 CHARACTER LOCK 锁定形象，配合固定色板和 13 个带时间码的分镜，保证角色在每一镜都保持一致。画面以图形动效为主，每个镜头有独立构图，文字在角色进入画面前始终清晰可读。
+prompt: |
+  CHARACTER LOCK (do not redesign): Use the exact figure from the reference still. Cool, composed cartoon streetwear character with vivid blue skin, short black hair with messy bangs, orange knit beanie, oversized cream hoodie with a pink inner hood and large pink polka dots on the sleeves, small orange square chest mark, black crossbody sling bag with a white logo, holding a paper coffee cup marked CAF, teal-and-cream checkerboard baggy pants with a small black BIG tag on the lower left leg, light-blue socks, chunky orange-black-white sneakers with pink laces. Preserve exact face, proportions, hairstyle, outfit, materials, accessories, and colors in every frame. Never change gender, silhouette, palette, or branding.
+  This film is 80% bold graphic design in motion and 20% character action: giant kinetic typography, hard-edged shapes, split-screens, flat color fields, checker tiles, coffee-ring stamps, city-grid overlays, UI ticks, halftone, speed lines, and shutter flashes. Palette: cream, hot pink, teal, orange, cobalt-blue skin, black, white. Style: premium AAA motion-graphics title sequence × streetwear campaign film × NYC block energy. Every graphic element moves fast and snaps hard on the beat.
+  CUT 01 | 0.00–1.00s — Pure graphics: a massive teal checker square slams onto a cream field, two hot-pink bars wipe across, tiny UI ticks and a coffee-ring stamp flicker; the letters B and I and G punch in one after another with heavy impact shake.
+  CUT 02 | 1.00–2.00s — The G becomes a circular stamp: extreme close-up of the character’s eye inside it, glancing sideways; RGB split flash, then the stamp shatters into flat pink and teal shards.
+  CUT 03 | 2.00–3.10s — Black frame with an enormous cream BIG; the character walks in from frame left holding the CAF cup, then power-slides across the baseline of the typography, speed lines and pink-dot trails kicking letter shards like sparks. Whip-pan out.
+  CUT 04 | 3.10–4.00s — Split-screen triptych of flat cream / teal / hot-pink panels; in each panel the silhouette performs a different freeze: stride, cup-raise, look-back. Huge vertical text BLOCK MODE scrolls behind the panels.
+  CUT 05 | 4.00–5.10s — The character steps through a giant rotating ring of typography reading CITY WALK NO CLOCK; camera tracks a mid-stride turn in slow motion as the letters scatter, then snap-zoom on the composed face.
+  CUT 06 | 5.10–6.00s — Hard cut: cream editorial card, huge black SIP with an orange slash; the character vaults the word, cup planted on the S, legs whipping across frame; the word compresses like a spring under the cup and rebounds.
+  CUT 07 | 6.00–7.00s — Hot-pink field with a teal diagonal checker stripe; the character spin-turns along the stripe in three stroboscopic ghost frames, each ghost tinted cream / teal / orange; giant outlined text SPIN rotates 180 degrees in sync.
+  CUT 08 | 7.00–8.00s — Kinetic type barrage: the words FRESH / LOUD / SOFT / BIG slam in one per beat with shutter flashes and camera shake, while the character slides on sneakers across the foreground, hoodie flaring, pink-dot particles bursting from the laces.
+  CUT 09 | 8.00–9.00s — Black frame, giant white wireframe city grid tilting in 3D; the character walks up the grid like a crosswalk, kicks off, and hangs mid-step as everything freezes; an orange circle stamps around the frozen pose like a target lock with UI brackets and data ticks.
+  CUT 10 | 9.00–10.10s — Freeze releases into a burst: the character leans toward camera through layered flat-color panes that shatter one by one like glass shutters, each pane revealing a bigger letter of B-I-G; foreground wipe with the orange sneaker and CAF cup.
+  CUT 11 | 10.10–11.10s — Rapid-fire poster montage: four full-screen graphic posters of the character in different street poses (mid-stride, cup up, look-back, hands-in-pocket) snap past with hard cuts, each with a different bold layout, oversized numbers 01–04, barcodes, slashes, and checker bands.
+  CUT 12 | 11.10–13.00s — Hero moment on a clean cream cyclorama: the character lands a final easy stride dead center in slow motion, straightens with the cup at the hip, and a shockwave of concentric teal-and-pink rings, wind streaks, and shattered typography blasts outward; brief iconic freeze with a faint confident smile, overexpose to white.
+  CUT 13 | 13.00–15.00s — Final identity card: enormous black BIG dominates a pale cream field with translucent pink rings, technical arcs, halftone, and a rough black circular emblem containing a ghosted coffee-ring / barcode motif; the character stands relaxed overlapping the letters, wind rippling the hoodie; one last teal pulse sweeps through the typography and a checker-flash punctuates the end.
+  Editing: extremely aggressive rhythm — hard cuts on every beat, graphic matches, whip pans, snap zooms, stroboscopic freezes, foreground wipes, RGB splits, shutter flashes, impact shakes, and speed ramps; every cut must feel compositionally different; typography is always fully readable before the character overlaps it. No weapons, no combat, no fire; all energy comes from motion design, wind, frost-free city air, glass, coffee steam, and easy athletic street walking. BGM: hard-hitting electronic / drum-heavy future bass with aggressive drops, risers, sub hits, and glitch fills locked to every cut; sneaker impacts, whooshes, glass shatters, cup clinks, and typography slams are rhythmic sound-design elements. Peak at CUT 12 and end with a cold electronic logo stinger. Premium AAA quality, anime-inspired cinematic rendering composited over / matching the NYC street still energy, stylish and explosive, strong graphic-design identity, consistent character design, exactly 13 cuts.

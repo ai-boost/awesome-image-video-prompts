@@ -1,0 +1,55 @@
+id: seedance-dunhuang-wasteland-city-chase
+title:
+  en: Girl chased through a vertical desert city
+  zh: 少女在沙漠垂直城市中被追逐
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- chase
+- martial-arts
+- wasteland
+- single-take
+source:
+  name: '@VeraVCreates on X'
+  url: https://x.com/VeraVCreates/status/2087005484146635022
+  credit: Vera
+  likes: 67
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+video: https://x.com/VeraVCreates/status/2087005484146635022
+notes:
+  en: A timed shot list with a reference image locking the character, plus a named setting for the worldbuilding. Each location change is hidden by a foreground occlusion such as fabric, a crowd or dust, so the camera keeps one traceable route through the city.
+  zh: 带时间码的分镜列表，用参考图锁定角色形象，并明确指定世界观的场景设定。每次换场都由布料、人群或尘土等前景遮挡自然过渡，让镜头在城市中沿着一条可追踪的路线连续移动。
+prompt: |
+  Reference binding: strictly lock the girl's face, age, black tied-back hairstyle, worn dark-gray work jacket, light inner shirt, body proportions, and photorealistic texture to Image 1. She remains the same character in the same outfit throughout. Use a Dunhuang wasteland civilization for the worldbuilding: its architectural language, sandstorm atmosphere, low-tech transport, rusted machinery, earth-tone palette, and sunset light. Do not replicate the reference image's exact composition or setting. A 30-second single take with no edits or jump cuts.
+
+  The girl is fleeing pursuers, traveling from a cliffside mural cave through a vertical wasteland city before finally soaring up to the highest city wall. The camera flies tightly around her like a high-speed FPV drone, continuously shifting between close pursuit, dives, ground-skimming passes, circling, barrel rolls, and dramatic upward pulls. Every location transition is naturally motivated by foreground occlusion from doorways, fabric, people, animals, smoke, dust, and architecture.
+
+  00:00-00:04 | Mural Cave
+  Begin in close-up on the girl's paint-stained fingers. The camera races along a damaged mural toward her face. She looks back alertly, immediately steps onto a stone table, crouches, and leaps through a narrow window opening. The camera follows her through the window as hanging canvas sweeps across the lens, creating the first foreground wipe.
+  00:04-00:08 | Cliff Dwellings
+  As the camera bursts from the cave, it suddenly opens into a vast wide shot: an entire city clings to an enormous wind-eroded cliff face, with layered cave homes, earthen towers, suspended walkways, wind sails, and rusted power pylons stretching into the distance. The girl lands on a narrow wooden beam and sprints forward. She wall-runs into a light sideways leap, her body crossing the deep gap between two cliffside dwellings. The camera first dives close to her feet, then rises rapidly from the ravine to her side.
+  00:08-00:12 | Camel Caravan Market
+  The girl drops from above into a crowded open-air market. The camera follows her downward trajectory, rolling half a turn, skimming low through camel legs, cart wheels, and beneath market stalls, then tilting back up to find her again. She vaults a cargo cart one-handed, side-flips over stacked pottery jars, lands and lowers her center of gravity to slide beneath a horizontal timber, then spins through the motion to sweep aside a bamboo rack blocking her path. Camels, residents, fluttering awnings, and rolling vessels continuously cross the foreground.
+
+  00:12-00:16 | Long Dyeing Alley
+  A full sheet of ochre-red dyed fabric covers the lens. The camera passes through the cloth and enters a narrow dye workshop alley. The girl alternates between both walls for continuous wall-kicks, rapidly gaining height. She grabs an overhead rope, swings over steaming dye vats, rotates in the air, and lands on a moving cargo cart. The camera snakes between hanging fabrics in FPV motion, briefly barrel-rolling as cloth strips, steam, and water droplets race past the lens.
+  00:16-00:20 | Mechanical Water Channel
+  The cargo cart rushes into a semi-underground mechanical water channel. Using its momentum, the girl jumps forward, tucks her knees and flips in the air, kicking off the edge of a rotating waterwheel. She then uses hand plants, side flips, and low slides to avoid pipes sweeping across her route. The camera enters the center of the waterwheel from beside her shoulder, then races downward with the current, skimming just above the water beneath a stone arch. Water splashes onto the edge of the lens without obscuring the subject.
+  00:20-00:24 | Wind Tower Shaft
+  The girl runs up an angled pipe, takes three consecutive wall steps, and bursts into a giant wind tower. The camera suddenly rises vertically from the water channel, spiraling around her inside the narrow shaft. She grabs the skeleton of a swinging wind sail and is lifted off the ground by the powerful wind. In midair, she performs a clearly controlled spin and hand switch, then swings toward the tower-top exit. Gears, ropes, and flying grains of sand streak rapidly through the foreground.
+
+  00:24-00:27 | Broken Sky Bridge
+  The camera and the girl burst from the tower top together, revealing the full scale of the city again. The sky bridge ahead is collapsing. She runs across falling planks and jumps just before the final board drops away. Two masked pursuers emerge behind her, but remain distant and never take focus from the girl. She performs a long qinggong leap above the abyss, her coat tails pulled straight by the wind. The camera flies backward beneath her, arcs to the front, then continues flipping upward.
+  00:27-00:30 | Sunset City Wall
+  As the girl approaches the opposite city wall, she steps on a long banner whipping in the wind and uses it to gain height again. In midair, she performs a clean, powerful spinning kick that knocks open the wooden mechanism above the sealed city gate. She lands on the highest point of the wall, touching down on one knee before quickly rising. The camera surges over her shoulder, pulls violently backward, and rises into the sky, finally revealing the entire Dunhuang wasteland city, distant salt-alkali desert, moving camel caravans, and monumental cliffside ruins lit by the sunset.
+  Camera movement:
+  The entire shot follows one continuous, traceable spatial route. The camera has the impact and velocity of high-speed FPV flight but always remains centered on the girl. Include at least one ground-skimming pass, one dive followed by a rapid climb, one narrow-space serpentine flight, one spiral ascent, and one large aerial pullback. Use environmental motion blur in high-speed moments while keeping her face and body movements clear. The camera never teleports; every change in speed and direction is motivated by her actions or the architecture along the route.
+
+  Action performance:
+  The girl is light, agile, and convincingly trained in martial arts. Qinggong is expressed through powerful footwork, brief suspension, and the ability to cross extraordinary distances, never through floating or weightless flight. Her actions include wall-running, vaulting, side flips, sliding, sweeping strikes, rope swings, aerial rotations, and flying kicks. Every movement connects naturally, with clear center of gravity, landing points, inertia, and cloth response. She is always actively reading the route, breathing hard, focused, and never looking into the camera.
+  Environment and foreground transitions:
+  Damaged murals, canvas, cliff dwellings, wooden beams, camel legs, cart wheels, pottery jars, dyed fabric, steam, waterwheels, stone arches, gears, wind-sail skeletons, long banners, and windblown sand enter the extreme foreground in sequence. Foreground elements may briefly obscure the frame, but the girl must quickly reappear. The city spaces connect logically and cannot feel like unrelated locations stitched together.
+  Visual style:
+  Photorealistic Eastern wasteland fantasy, blending Dunhuang earth-and-rock architecture with salvaged industrial machinery on the grand scale of a vertical city. Main colors: weathered sandy yellow, ochre, gray-brown, and rust, with the girl's dark-gray costume contrasting against golden sunset light. Strong side and backlight pierce through dusty haze; fine sand floats in the air. Realistic materials, restrained film grain, high-contrast cinematic photography. The mood is tense, expansive, and rugged.

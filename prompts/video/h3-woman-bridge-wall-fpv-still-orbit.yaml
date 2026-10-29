@@ -1,0 +1,45 @@
+id: h3-woman-bridge-wall-fpv-still-orbit
+title:
+  en: Woman stays still as FPV camera circles her
+  zh: 女子保持静止，FPV 镜头环绕拍摄
+model: MiniMax H3
+mode: image-to-video
+category: cinematic
+tags:
+- fpv-camera
+- frozen-subject
+- orbit-shot
+- image-to-video
+source:
+  name: '@Luna_R4ze on X'
+  url: https://x.com/Luna_R4ze/status/2100188951252435024
+  credit: LunaRaze
+  likes: 40
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+video: https://x.com/Luna_R4ze/status/2100188951252435024
+notes:
+  en: The prompt fixes the start frame as a frozen still and lists each camera move in order with a duration, so the model flies a timed path while the subject holds her pose. Ending on an exact return to the start framing keeps the clip's first and last frames matched.
+  zh: 提示词把起始画面设为冻结静帧，并按顺序写明每段镜头动作及时长，让模型沿着定时路径飞行，同时人物保持姿势不动。结尾要求回到与开头完全一致的构图，使片段首尾画面对齐。
+prompt: |
+  Use the start frame as a frozen still. Do not change the woman, pose, dress, bridge, river, light, or colour.
+
+  The camera IS a tiny FPV camera. No drone body visible. No operators. No extra people.
+
+  Locked subject: she stays completely still the whole time, like a photograph the camera is flying through.
+
+  Camera path, in order, one move at a time:
+
+  0. Hold the start framing for 0.5s.
+  1. Slow push-in toward her face, stop when she is chest up three-quarter, 2s.
+  2. Tilt down her body: chest, waist, then legs and bare feet on the concrete wall, 2s.
+  3. Orbit 90 degrees around her to her right side, keeping her in the centre of frame, 2s.
+  4. Rise up to a high angle looking down on her, 1.5s.
+  5. Descend the other side (her left), still centred on her, 2s.
+  6. Return along the same line to the exact start framing, 2s.
+  7. Hold the start framing 0.5s.
+
+  Technical:
+  - Smooth FPV flight, no shake, no whip pans
+  - Always keep her the focus point
+  - Shallow depth, natural late-sun, same grade as the still

@@ -1,0 +1,51 @@
+id: h3-woman-red-polka-dot-dress-leaves-frame
+title:
+  en: Woman in red polka dot dress leaves the frame
+  zh: 红色波点连衣裙女子走出画面
+model: MiniMax H3
+mode: image-to-video
+category: dialogue
+tags:
+- street-fashion
+- reference-image
+- dialogue
+- camera-tracking
+source:
+  name: '@ou_zhen599 on X'
+  url: https://x.com/ou_zhen599/status/2106385077374722148
+  credit: Loriel.AI
+  likes: 127
+  captured: '2026-10-29'
+  posted: '2026-10-03'
+video: https://x.com/ou_zhen599/status/2106385077374722148
+notes:
+  en: The first frame is pinned to the reference pose, and the motion is split into timed beats with fixed waypoints so the camera stays on one side of the wall. Two timed spoken lines and a sound bed are written into the same beats, which keeps the dialogue locked to the action.
+  zh: 首帧锁定参考图的姿态，动作按时间段拆成固定路径点，摄像机始终停留在墙的同一侧。两句定时台词和环境音效写进同一时间段，让对白与动作保持同步。
+prompt: |
+  integrated_multimodal_description:
+  15 seconds, 16:9, live-action cinematic realism. Use <Picture 1> as the only reference for the woman, outfit, location, lighting, and first frame. The opening frame must precisely inherit her leaning pose against the pink weathered wall, with the gray shutter on her left, the old poster on her right, the street in front, and the wall lamp, plants, hair, gold earrings, red polka-dot dress, neckline, waist structure, and facial identity all preserved. Same place, same moment, one continuous performance. Soft retro street-fashion film color: dusty pink wall, stable deep wine-red dress, warm natural skin, restrained gray-green background, medium contrast, soft highlight roll-off, subtle fine grain, real skin texture with slight moisture sheen. Keep the original daylight direction, around 5200K white balance, soft shadows, and continuous exposure. No neon shift, sunset change, rain, extra people, mirrored geography, teleporting, or filter changes.
+
+  She activates immediately from the exact leaning pose. Her path is fixed: P0 at the wall -> short advance to P1 -> diagonal drift to P2 -> slow walk along the wall to P3 -> shutter tap and turn -> final move toward P4. She never leaves the same street side, and the camera never crosses the wall axis. The emotional line is playful control turning into mutual recognition: she tests whether the camera can keep up, confirms it, then rewards it with a final backward smile before leaving.
+
+  [00:00-00:03.0]
+  35mm ground-level tracking rises into a side-follow. Starting from the exact leaning pose in <Picture 1>, she releases her left palm from the wall, pushes shoulder and back away, and advances from P0 to P1 in two short landing steps, the second slightly quicker than the first. The camera retreats a short distance straight backward, keeping a medium framing from head to mid-thigh and bringing her from frame-right toward center. Step impact travels foot -> knee -> hip -> torso; dress waist folds redistribute as she straightens; hair leaves the shoulder a beat later. The pink wall stays clearly behind her. She catches the camera first, then lifts her chin slightly. A restrained hint of a smile appears. During the second landing she absorbs the motion with a small knee bend; the upper body stops first and the chest shows one brief natural rise-and-settle under dress support, while fabric edges and hair tips settle a fraction later. She lowers her chin slightly, checks whether the camera is still backing away, and from 2.7s to 3.4s says quietly: <d>[English] Keep up.</d> The stress lands on “up,” short and clear, lightly challenging.
+
+  [00:03.0-00:07.5]
+  Without resetting pose, she turns diagonally toward P2 and moves slowly along the wall toward screen-left into P3, settling into a three-quarter left-facing side walk. The camera tracks parallel from the street side, framing head, upper torso, right hand, and a slice of wall, with open space ahead on the left. Her right hand rises near shoulder height and lightly skims the wall. One focus idea only: briefly show the fingertip contact while her face stays readable, then over about half a second transfer focus to her eyes as she looks back toward the camera; after that, keep the face sharp. Eyes move first, then the head follows. She exhales slowly; breath gently lifts and lowers chest, shoulders, and neck while she keeps walking. The corner of her mouth lifts and restrains again, as if confirming that the camera really is following. When her fingertips cross a brittle paint edge, a tiny amount of dust flakes off and drops close to the wall; no large peeling or damage. Before 7.5s she reaches P3 and her right hand transitions from the pink wall onto the edge of the gray shutter.
+
+  [00:07.5-00:09.0]
+  At P3 she gives the shutter a light tap with her right hand, producing one short metallic tick, then releases immediately. The shutter never opens. She completes a real stop-and-support under the feet, then the hips, shoulders, and head rotate toward the camera in order. The camera performs one brief left whip of about 0.2-0.3 seconds following her turn, with directional motion blur, then settles instantly into a medium head-to-mid-thigh framing from the street side. No axis jump, no background replacement. As the frame stabilizes, her curls and skirt are still returning from the turn; earrings sway lightly then decay. The chest follows the torso turn with a short constrained lateral inertia under the dress and settles naturally, never bouncing independently.
+
+  [00:09.0-00:12.0]
+  From the settled medium shot at P3, the camera slowly pushes in toward a face-and-upper-body close shot while keeping the shoulder line and dress waist visible. It does not retreat anymore. She notices that the camera is finally coming toward her. She presses her lips together slightly, the smile starts in the outer corners of the eyes, then the mouth releases and she lets out one short natural laugh. Her shoulders drop subtly with the laugh; upper torso and chest move only with the connected exhale. Any remaining turn inertia is already gone. While laughing, she shifts another half-step along the wall toward screen-left, keeping eye contact instead of posing in place. From 10.6s to 11.6s she says softly: <d>[English] That's better.</d> “better” carries the smile, looser than the first line. After the line she takes a small inhale, the smile stays in her eyes, and her right hand begins to rise.
+
+  [00:12.0-00:15.0]
+  Her right palm briefly sweeps across the right edge of the lens area as a partial foreground wipe without touching the lens and without blacking out the frame. As the hand drops naturally with her turn, she continues from P3 toward P4 along the shutter and wall, leaving in two steps that start fast and then return to a natural pace. The camera pans left to send her out, always remaining on the street side. Around 14.0s, while still walking, she turns her head slightly back and gives the camera one last look with the real smile still present. The camera catches that glance and gradually settles; she keeps moving toward the left edge. End on her back-side profile and part of the old wall still visible, with a living-frame finish rather than a distant cut, freeze, blackout, or location change.
+
+  Physical continuity is strict: every inertia must have a source, path, and end state. Step impact moves from foot to knee to hip to torso; turning is driven by planted support under the feet; hair, earrings, skirt hem, and fabric react with slight delay and then decay. The dress retains seam definition, polka-dot pattern, and believable cloth weight. Fitted areas stay constrained by body and seams; only looser skirt edges move with walking, turning, and the light breeze. Chest motion stays synchronized to walking, breathing, and rotation, with stable anatomy and no rubbery deformation or repeated bounce. Contacts happen only at real touch points: feet on ground, hand on wall, hand on shutter. The wall remains intact. The shutter never swaps sides. The poster is ordinary background only and never animates. A light intermittent breeze flows along the wall from the left street opening toward the right, stirring a few loose hairs, soft skirt edges, plant leaves, and one tiny lifted paper corner on the poster, which flutters and settles back.
+
+  overall_soundscape:
+  Continuous low-intensity side-street ambience runs through the full 15 seconds: distant urban air, restrained alley noise, and a light intermittent breeze moving along the wall. At 0.0-3.0s, two distinct footfalls land with slightly different weight as fabric rubs softly and hair shifts. At the landing settle, keep a brief close-range body rustle. From 2.7-3.4s the woman says once, <d>[English] Keep up.</d> in a natural adult female mid-low register, clear conversational English with a faint dry texture, fully synchronized to accurate lip movement. At 3.0-7.5s, keep subtle fingertip friction against painted wall, a quiet exhale, faint cloth motion, and very small paint dust release with no exaggerated debris sound. At 7.5-9.0s, include one short light metallic tap on the shutter with a tiny fast-decaying resonance, plus turning fabric and earring movement. At 9.0-12.0s, her breathing and one short genuine laugh sit close to the camera; from 10.6-11.6s she says once, <d>[English] That's better.</d> more relaxed and smiling than the first line. At 12.0-15.0s, keep the passing hand as a soft foreground whoosh, two departing steps, continued low street tone, and the last glance landing in a quieter tail. Dialogue and real action sounds must always stay clear. No added crowd voices, no poster voice, no exaggerated impacts, no moans, no melodramatic whooshes.
+
+  non_diegetic_music:
+  Use a very light, clean rhythmic bed only. A restrained low bass pulse and sparse dry percussion accents support the first quick approach and the shutter tap as timing marks. Reduce percussion during the slow side-walk and keep the music thinned out under the laugh and the second line. The score should stay minimal, modern, and controlled, never sentimental, never wall-to-wall, and always below dialogue and physical Foley.

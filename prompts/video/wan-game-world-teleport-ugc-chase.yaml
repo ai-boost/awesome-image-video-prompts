@@ -1,0 +1,73 @@
+id: wan-game-world-teleport-ugc-chase
+title:
+  en: Woman teleported into open world game city
+  zh: 女主角被传送进开放世界游戏城市
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- ugc
+- open-world
+- chase
+- character-consistency
+source:
+  name: '@Inshrah_ali_ on X'
+  url: https://x.com/Inshrah_ali_/status/2100078872440324298
+  credit: Ai Girllie
+  likes: 95
+  captured: '2026-10-29'
+  posted: '2026-09-16'
+video: https://x.com/Inshrah_ali_/status/2100078872440324298
+notes:
+  en: A timed beat sheet with one line of dialogue per beat, plus a repeated character lock, keeps the same live actor consistent across cuts. Stating that she must stay a real human and not a CGI avatar anchors the realism inside the game world.
+  zh: 按秒分段的分镜，每段一句台词，并重复同一段角色锁定描述，让同一位真人演员在各镜头中保持一致。明确要求她是真人而非 CGI 角色，有助于她在游戏世界中保持写实感。
+prompt: |
+  Create a 15-second ultra-realistic cinematic UGC-style video where a young female creator suddenly finds herself physically inside a fictional open-world video game. She is a real, live-action human character interacting naturally with the game's world, not a gamer watching a screen.
+
+  CHARACTER CONSISTENCY:
+  The exact same young female creator throughout the entire video. Clear realistic face, natural skin texture, expressive eyes, stylish Gen-Z streetwear, same hairstyle and outfit in every shot. She must look like a real person seamlessly placed inside the game world.
+
+  0–3 SEC — ENTERING THE GAME
+
+  Start with the creator standing in a realistic bedroom holding a game controller. The screen suddenly glitches with a dramatic digital distortion. In a seamless transition, the environment around her transforms and she is teleported directly into a huge fictional open-world city.
+
+  She looks around in shock and says:
+  “Wait… I’m actually inside the game?!”
+
+  3–7 SEC — OPEN-WORLD CHAOS
+
+  She is now physically walking through the game's city streets as a live character. Massive skyscrapers, pedestrians, sports cars, traffic lights, shops and cinematic city details surround her.
+
+  She looks at her hands, then touches a nearby car and reacts with genuine disbelief.
+
+  A police siren suddenly starts in the distance.
+
+  7–11 SEC — THE CHASE
+
+  She jumps into a fictional sports car and starts driving through the city.
+
+  Camera switches between third-person cinematic game-camera shots and close-up live-action shots of her face inside the vehicle.
+
+  Police cars begin chasing her. She laughs nervously and says:
+
+  “Oh no… I think I’m wanted!”
+
+  11–15 SEC — ESCAPE
+
+  She dramatically turns into a narrow alley, narrowly avoids a pursuing police vehicle, and escapes into an underground parking garage.
+
+  She stops the car, looks directly into the camera and says:
+
+  “Okay… how do I get OUT?!”
+
+  End with a dramatic cinematic pull-back revealing the enormous fictional game city around her.
+
+  VISUAL STYLE
+
+  Ultra-realistic live-action human seamlessly integrated into a photorealistic open-world game environment, cinematic game graphics, realistic physics, natural facial expressions, detailed city, dynamic camera movement, realistic vehicles, dramatic lighting, shallow depth of field, high-end VFX, premium gaming trailer + authentic UGC reaction style.
+
+  IMPORTANT: The woman must remain a realistic live human character inside the game world. Do not make her look like a cartoon, CGI avatar, animated character, or video-game model.
+
+  Create an original fictional open-world crime-action game aesthetic. Do not use GTA logos, characters, locations, UI, music, copyrighted assets, or recognizable game elements.
+
+  No text overlays, subtitles, watermarks, logos, or futuristic objects.

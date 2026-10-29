@@ -1,0 +1,41 @@
+id: h3-woman-gas-can-walk-toward-camera
+title:
+  en: Woman walks toward camera with gas can
+  zh: 女子提着红色汽油桶走向镜头
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- facial-realism
+- reference-images
+- gas-station
+- walking-toward-camera
+source:
+  name: '@EndFolding79421 on X'
+  url: https://x.com/EndFolding79421/status/2113021575591264481
+  credit: FoldingEnd A.I.
+  likes: 91
+  captured: '2026-10-29'
+  posted: '2026-10-08'
+video: https://x.com/EndFolding79421/status/2113021575591264481
+notes:
+  en: 'The subject_definitions block gives each reference picture one job: the face comes from the portrait, outfit and build from the character sheet, and the location from the station photo. A stationary camera lets her grow from a tiny full body shot to a medium shot, which tests facial detail at distance.'
+  zh: subject_definitions 把每张参考图分配到一个固定用途：人脸来自肖像图，服装与体型来自角色设定图，场景来自加油站照片。镜头固定，人物从远处的全身小景逐渐走近到中景，用来检验远距离的面部细节。
+prompt: |
+  r34l1sm
+  Facial Realism
+
+  subject_definitions:
+  <Subject 1> is the woman whose exact facial identity comes from the close-up portrait <Picture 1>, whose full-body appearance, hair, proportions, and clothing come from the character sheet <Picture 2>, and whose environment is the gas station in <Picture 3>.
+
+  One woman begins standing far from the camera, positioned in the middle of the gas station near the center gas pump in <Picture 3>. She is small in the frame, with her entire body visible. She walks directly toward the camera across the wet pavement, carrying a red gas can in her right hand.
+
+  The camera remains stationary, allowing her to gradually grow larger in the frame as she approaches, moving naturally from a distant full-body shot to a medium shot. Her face begins very small in the frame, providing a clear test of facial detail preservation at long distances.
+
+  Preserve the woman's exact facial identity from <Picture 1>, and her hair, body proportions, and clothing from <Picture 2>. Keep the gas station layout consistent with <Picture 3>, particularly the position of the center gas pump.
+
+  Natural walking movement, realistic hands, subtle facial expressions, and believable clothing movement.
+
+  Cinematic live-action 35mm film appearance. Practical gas station lighting, natural shadows, muted colors, subtle film grain.
+
+  Exactly ONE woman. No additional people or vehicles. No dialogue. No music. No whip-pan.

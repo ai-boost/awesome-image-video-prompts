@@ -1,0 +1,41 @@
+id: h3-dragon-rider-snowy-forest-deer
+title:
+  en: Woman rides red dragon over snowy mountains
+  zh: 白裙女骑士骑龙飞越雪山
+model: MiniMax H3
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- dragon
+- fantasy
+- winter
+- multi-shot
+source:
+  name: '@Aiwithmaha on X'
+  url: https://x.com/Aiwithmaha/status/2115298302367568077
+  credit: Maha
+  likes: 217
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+video: https://x.com/Aiwithmaha/status/2115298302367568077
+notes:
+  en: The clip is split into timed beats, each with its own action and camera direction, so the rider, dragon and deer appear in a clear sequence. The closing visual style block fixes character, lighting and vertical format across all beats.
+  zh: 将视频拆成带时间点的分段，每段有独立的动作和镜头指令，使骑手、巨龙和鹿按顺序出现。结尾的视觉风格段统一角色、光线与竖屏格式。
+prompt: |
+  Step 1 — 0 to 3 Seconds:
+  A beautiful woman wearing an elegant white flowing gown with delicate lace sleeves rides on the back of a majestic red dragon. The dragon flies gracefully above a snow-covered forest surrounded by towering pine trees and majestic snowy mountains. Its enormous wings move naturally as it glides through the cold winter air. The camera captures a cinematic side view of the woman and the dragon in flight.
+
+  Step 2 — 3 to 5 Seconds:
+  The red dragon begins descending toward a snowy clearing in the forest. The woman remains seated on its back, holding on gently as the dragon lowers its wings. Several wild deer and other animals are visible on the snowy ground below. The camera follows the dragon's smooth descent.
+
+  Step 3 — 5 to 8 Seconds:
+  The dragon lands gracefully in the snowy clearing, spreading its enormous wings. The woman carefully dismounts and walks toward a beautiful brown deer with large antlers. The dragon stands behind her, watching calmly. The camera captures the magical winter environment and the realistic interaction between the characters.
+
+  Step 4 — 8 to 12 Seconds:
+  The woman gently embraces the deer and lovingly strokes its head. The deer calmly approaches her and rests its head near her shoulder. She smiles warmly while the majestic red dragon watches from behind. The camera moves closer to capture the emotional connection between the woman and the deer, with soft snowfall and cinematic lighting.
+
+  Step 5 — 12 to 15 Seconds:
+  The woman continues embracing the deer as the red dragon raises its head and opens its mouth, releasing a powerful stream of bright orange fire into the snowy clearing. The fire illuminates the surrounding snow, the dragon's red scales, and the woman's white gown. The deer remains beside her as the scene ends with a dramatic cinematic fantasy atmosphere.
+
+  Visual Style:
+  Ultra-realistic fantasy cinematography, detailed dragon scales, realistic deer fur, natural character movements, flowing white dress, cinematic camera motion, realistic fire simulation, snowy mountain environment, soft atmospheric lighting, high detail, vertical 9:16 format, consistent character appearance, no text, no watermark.

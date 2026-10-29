@@ -1,0 +1,35 @@
+id: h3-black-adjustable-dumbbells-luxury-gym-ad
+title:
+  en: Black adjustable dumbbells in a luxury gym
+  zh: 豪华健身房中的黑色可调哑铃
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- fitness
+- product-ad
+- macro
+- multi-shot
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2114952308094374334
+  credit: Lavinia
+  likes: 126
+  captured: '2026-10-29'
+  posted: '2026-10-27'
+video: https://x.com/laviniavelle/status/2114952308094374334
+notes:
+  en: Timed shots run from a low close-up on the dials to a macro pass over the selector and a pullback to a wide hero frame, so camera moves do the editing. A list of product details to preserve plus studio lighting terms keeps the design fixed while the look stays premium.
+  zh: 带时间段的镜头依次为低角度特写调节盘、微距扫过选择器、拉远到宽幅主视觉，用运镜代替剪辑。列出需保留的产品细节并加入布光术语，让器械设计保持稳定、质感保持高端。
+prompt: |
+  Create an ultra-realistic, premium fitness product advertisement featuring black adjustable dumbbells in a modern luxury gym. Preserve the original dumbbell design, weight markings, circular adjustment dials, black textured handles, and proportions. Use elegant natural sunlight, cinematic shadows, shallow depth of field, and high-end product photography.
+
+  Scene 1 (0–3s): Show black adjustable dumbbells resting on a smooth gym floor near large floor to ceiling windows Start with a low angle close up and slowly push the camera toward the weight adjustment dials, highlighting the precise markings and premium finish.
+
+  Scene 2 (3–6s): Transition into an extreme macro shot of the dumbbell's circular weight selector and textured black handle. Capture the fine surface details, subtle reflections, and realistic material textures with smooth cinematic camera movement.
+
+  Scene 3 (6–8s): Slowly pull the camera back to reveal the complete pair of adjustable dumbbells. Warm sunlight streams through the windows, creating long, elegant shadows across the floor.
+
+  Scene 4 (8–10s): Finish with a wide, polished hero shot of the dumbbells centered in the luxurious minimalist gym. Use a smooth camera pullback, balanced composition, premium lighting, and a sophisticated fitness-commercial aesthetic.
+
+  Visual Style: Photorealistic, 4K quality, vertical  aspect ratio, smooth camera movements, realistic shadows, natural lighting, crisp product details, premium commercial cinematography, professional color grading.

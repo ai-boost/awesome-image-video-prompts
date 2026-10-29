@@ -1,0 +1,89 @@
+id: wan-livestream-snapper-precision-gun-gameplay
+title:
+  en: Livestream FPS gameplay in an industrial facility
+  zh: 工业厂房中的直播风射击游戏实录
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- livestream
+- fps
+- hud
+- first-person
+- gameplay
+source:
+  name: '@Inshrah_ali_ on X'
+  url: https://x.com/Inshrah_ali_/status/2104256509077328333
+  credit: Ai Girllie
+  likes: 466
+  captured: '2026-10-29'
+  posted: '2026-09-27'
+video: https://x.com/Inshrah_ali_/status/2104256509077328333
+notes:
+  en: Timed beats from 0 to 6 sec, 6 to 12 sec and onward give the model a shot-by-shot structure, and exact HUD values make the interface checkable. Asking for playable gameplay rather than a trailer keeps the camera and HUD grounded.
+  zh: 按时间段写出分镜（0到6秒、6到12秒及之后），让模型有明确的逐镜目标，并给出确切的界面数值便于核对。要求画面像可操作的实际游戏而非预告片，有助于镜头和界面保持真实。
+prompt: |
+  Create a 30-second ultra-realistic AAA third-person/first-person hybrid livestream gameplay video, 16:9, 4K, resembling an actual professional competitive game being livestreamed. The game is an original tactical snapping/shooting game with a futuristic precision weapon. Make everything feel like real playable gameplay, not a cinematic trailer.
+
+  GAMEPLAY STYLE: Unreal Engine 5 quality, realistic physics, responsive controls, detailed environments, professional streamer HUD, weapon animations, hit feedback, minimap, ammo counter, health/armor, objective tracker, kill feed, crosshair, score, ping/FPS indicators, and livestream overlay.
+
+  PLAYER: Professional gamer controlling a futuristic Snapper Precision Gun capable of switching between normal direct targeting, optical lens targeting, and microscopic ultra-precision targeting.
+
+  0–6 SEC — DIRECT SNAP
+
+  The player moves through an abandoned industrial facility while enemies appear from different directions.
+  Quick camera movement → player raises the Snapper Gun → direct hip/shoulder aim → rapid precision shots eliminate two enemy targets.
+  HUD instantly updates the score and kill feed.
+
+  ON-SCREEN: ENEMIES: 6 | AMMO: 24/120 | HP: 100 | ARMOR: 75 | SCORE: 1,250
+
+  6–12 SEC — OPTICAL LENS MODE
+
+  The player spots an enemy far across the facility.
+  Weapon switches into high-powered optical lens mode. Screen smoothly transitions into a realistic scope view with lens reflections, distance marker, wind indicator, rangefinder and moving reticle.
+
+  The player tracks the enemy through the lens → precise shot → enemy drops behind cover.
+
+  HUD: OPTICAL MODE | RANGE: 187M | ACCURACY: 94%
+
+  12–19 SEC — MICROSCOPIC SNAP MODE
+
+  The player discovers a tiny exposed component on an enemy's futuristic shield.
+  Activate Microscope Snap Mode. The screen dramatically magnifies the target, showing an extremely detailed microscopic targeting interface.
+
+  The reticle locks onto the tiny weak point → satisfying precision snap → shield breaks → enemy becomes vulnerable.
+
+  HUD: MICRO SNAP LOCKED | WEAK POINT DETECTED | +500
+
+  19–25 SEC — RAPID COMBAT
+
+  Three enemies rush the player from different angles.
+  The player instantly switches back to direct mode, slides behind cover, leans out and performs fast precision snaps.
+
+  Add realistic muzzle flashes, recoil, shell/effect particles, impact sparks, environmental destruction and smooth weapon animations.
+
+  KILL FEED:
+  PLAYER — PRECISION SNAP — ENEMY
+  PLAYER — HEADSHOT — ENEMY
+
+  25–30 SEC — FINAL TARGET
+
+  Only one enemy remains. The player runs upstairs while the enemy escapes through a narrow corridor.
+
+  Switch between direct view → optical lens → microscope precision mode in one fluid sequence.
+
+  The microscopic reticle locks onto a tiny glowing weak point.
+  FINAL SNAP.
+
+  The screen displays:
+
+  TARGET ELIMINATED
+  MISSION COMPLETE
+  PRECISION: 97%
+  TOTAL SCORE: 4,850
+
+  End with the professional livestream interface still visible, including LIVE indicator, viewer count, chat panel, FPS, ping, minimap, health, armor, ammo, objective tracker, kill feed and weapon status.
+
+  IMPORTANT: Everything must look like a polished real AAA game: consistent speed, realistic movement, accurate weapon animations, responsive HUD, professional UI, natural camera motion, synchronized sound effects, realistic lighting and shadows, no glitches, no floating objects, no random UI elements, no copyrighted game interface, and no text appearing except intentional game HUD/livestream elements.
+
+  5 best caption also add now creating these Livestream video games through wan 3.0 on budgetpixel is so easy

@@ -1,0 +1,136 @@
+id: wan-father-chases-train-station
+title:
+  en: Father sprints through station after son boards train
+  zh: 父亲穿过车站追赶登上列车的儿子
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- chase
+- train-station
+- father-son
+- multi-shot
+source:
+  name: '@AiwithBloodline on X'
+  url: https://x.com/AiwithBloodline/status/2098989311278678061
+  credit: Dr Bloodline | AI
+  likes: 34
+  captured: '2026-10-29'
+  posted: '2026-09-12'
+video: https://x.com/AiwithBloodline/status/2098989311278678061
+notes:
+  en: A fixed character block and a timed beat sheet keep the boy's red jacket and the father's dark jacket consistent across cuts. Each segment names its camera move and sound cue, and the quoted lines come with a lip sync instruction, giving the model a clear shot by shot plan.
+  zh: 固定的角色设定块和分时段剧情表，让男孩的红夹克与父亲的深色外套在各个镜头中保持一致。每段都写明镜头运动和声音提示，并附上台词与口型同步要求，为模型提供逐镜头的清晰指令。
+prompt: |
+  30-second feature-film-quality 3D animation, ultra-realistic cinematic style, premium live-action commercial aesthetic, realistic human characters, physically accurate environments, intense action, emotional storytelling, natural facial expressions, realistic skin and hair, physically based rendering, cinematic lighting, HDR, realistic reflections, dramatic depth of field, dynamic camera movement, realistic motion blur, 4K UHD, 60fps.
+  MAIN CHARACTER
+  Energetic 10-year-old boy, messy curly dark brown hair, expressive brown eyes, red jacket, black jeans, white sneakers, realistic child proportions, consistent appearance throughout the entire video.
+  SECONDARY CHARACTER
+  His father, early 30s, short dark hair, casual dark jacket, jeans, realistic appearance, expressive face.
+  ENVIRONMENT
+  Large modern railway station during rush hour.
+  Crowded platforms, arriving train, electronic signs, commuters, luggage, realistic station architecture, natural afternoon lighting.
+  Everything must look completely real, like a high-budget live-action movie.
+  STORY — EXACTLY 30 SECONDS
+  0–4 SECONDS:
+  The boy and his father hurry through a crowded railway station.
+  The father holds the boy’s hand.
+  Father:
+  “Come on! We’re going to miss it!”
+  Boy:
+  “I’m coming!”
+  A train arrives.
+  The doors open.
+  4–8 SECONDS:
+  The crowd suddenly moves forward.
+  The boy’s hand slips out of his father’s.
+  The boy accidentally gets pushed inside the train.
+  The father remains outside.
+  Father:
+  “WAIT!”
+  The train doors begin closing.
+  Boy:
+  “DAD!”
+  The doors close.
+  The train begins moving.
+  8–13 SECONDS:
+  The boy runs through the train looking for his father.
+  He looks through the window.
+  His father runs alongside the moving train on the platform.
+  Father:
+  “STAY RIGHT THERE!”
+  Boy:
+  “DAD, I’M HERE!”
+  The train accelerates.
+  13–18 SECONDS:
+  The father immediately turns and sprints toward the station exit.
+  He grabs his phone.
+  Father:
+  “Platform three! Stop the next train!”
+  Cut rapidly between the father running through the station and the boy looking anxiously through the train window.
+  Boy:
+  “Where are you going?”
+  Father:
+  “Just stay calm!”
+  18–23 SECONDS:
+  The train begins slowing toward the next platform.
+  The boy spots his father running down the platform ahead.
+  Boy:
+  “DAD!”
+  The father reaches the exact carriage door.
+  The train stops.
+  The doors open.
+  The boy jumps out.
+  His father catches him immediately.
+  23–27 SECONDS:
+  The father kneels and hugs him tightly.
+  Father:
+  “Are you okay?”
+  Boy:
+  “Yeah…”
+  Beat.
+  Boy:
+  “But you run really fast.”
+  The father laughs in relief.
+  Father:
+  “Apparently.”
+  27–30 SECONDS:
+  They walk away together holding hands.
+  The camera slowly pulls backward as the train departs behind them.
+  The boy looks up at his father.
+  Boy:
+  “Next time, don’t let go.”
+  Father smiles.
+  Father:
+  “Deal.”
+  CUT TO BLACK.
+  CAMERA
+  Fast handheld tracking shots during the separation.
+  Close-up of hands separating.
+  Extreme close-up of closing train doors.
+  Dynamic tracking shot alongside the moving train.
+  Rapid cuts between father and son.
+  Low-angle running shots.
+  Close-up emotional reunion.
+  Slow cinematic pull-back for the ending.
+  VOICE
+  Natural American English.
+  Realistic child voice.
+  Natural adult male voice.
+  Fast, emotional dialogue.
+  Authentic breathing and reactions.
+  Perfect lip synchronization.
+  No theatrical or robotic delivery.
+  SOUND
+  Busy station ambience.
+  Train brakes.
+  Train doors closing.
+  Footsteps.
+  Crowd movement.
+  Train acceleration.
+  Phone call.
+  Dramatic orchestral score building throughout the chase.
+  Music drops during the reunion.
+  Warm emotional music during the final dialogue.
+  NEGATIVE PROMPT
+  fantasy, supernatural, superhero abilities, impossible physics, train collision, derailment, person falling onto tracks, injury, death, dangerous stunts, boy on railway tracks, exaggerated action, cartoon appearance, plastic skin, robotic expressions, bad anatomy, extra fingers.

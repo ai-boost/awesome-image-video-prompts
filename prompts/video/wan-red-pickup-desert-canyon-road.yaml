@@ -1,0 +1,25 @@
+id: wan-red-pickup-desert-canyon-road
+title:
+  en: Red pickup truck driving a desert canyon road
+  zh: 红色皮卡驶过沙漠峡谷公路
+model: Wan 3.0
+mode: text-to-video
+category: cinematic
+tags:
+- cartoon
+- cel shaded
+- desert
+- multi-angle
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2098456434778480875
+  credit: Talia
+  likes: 119
+  captured: '2026-10-29'
+  posted: '2026-09-11'
+video: https://x.com/TaliaAariz/status/2098456434778480875
+notes:
+  en: The prompt lists several camera positions in sequence (high aerial, rear tracking, front three quarter, wide overhead) so the model cuts between angles on one subject. Fixed rendering terms such as cel shaded textures, consistent truck design and a warm palette keep the look and the vehicle stable across those angles.
+  zh: 提示词按顺序列出多个机位（高空俯拍、后方跟拍、前方三四分之三视角、广角俯视），让模型在同一辆车的不同角度之间切换。固定的渲染词如赛璐璐着色、车型一致和暖色调，使画风和车辆外观在各个镜头中保持稳定。
+prompt: |
+  A stylized 3D cartoon animation of a bright red vintage pickup truck driving smoothly along a winding mountain road through a rugged desert canyon. The camera follows the truck from multiple dynamic angles—high aerial view, rear tracking shot, front three-quarter view, and wide overhead shots—as it navigates the sharp curves. Warm orange rock formations, sandy terrain, road markings, and dramatic canyon walls surround the vehicle. Smooth vehicle motion, consistent truck design, clean cel-shaded textures, vibrant warm color palette, cinematic composition, soft natural lighting, subtle camera movement, high-detail animated environment, polished feature-film animation style, 4K.”

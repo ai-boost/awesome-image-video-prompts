@@ -1,0 +1,48 @@
+id: wan-ugc-earbuds-reference-identity-ad
+title:
+  en: Bearded man promotes earbuds in golden hour apartment
+  zh: 留胡子的男子在黄金时刻的公寓里推广耳机
+model: Wan 3.0
+mode: reference-to-video
+category: commercial
+tags:
+- ugc
+- product-ad
+- reference-image
+- golden-hour
+- lip-sync
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2093988944392175714
+  credit: Zar⭕on
+  likes: 120
+  captured: '2026-10-29'
+  posted: '2026-08-30'
+video: https://x.com/Xaroon_x/status/2093988944392175714
+notes:
+  en: A reference image locks the character's identity, and a timed beat sheet with the shot and dialogue for each segment sets the order of the ad. Repeating the same wardrobe and setting in every beat keeps the look consistent across cuts.
+  zh: 参考图锁定人物外观，按秒分段写明每段的镜头和台词，决定广告的先后顺序。每一段都重复同样的服装和场景，让各个镜头的画面保持一致。
+prompt: |
+  Create a 20-second ultra-realistic cinematic UGC advertisement, vertical 9:16, featuring the EXACT SAME male character from Reference Image 1. Strictly preserve his facial identity, face structure, skin tone, hairstyle, hairline, eyes, nose, lips, jawline, beard/stubble and overall appearance. No identity drift, face morphing, aging or redesign.
+
+  PRODUCT: premium modern wireless earbuds with sleek minimalist matte-black charging case, subtle metallic details, realistic luxury-tech appearance, no recognizable brand/logo.
+
+  WARDROBE: fitted black premium T-shirt, minimalist dark overshirt/jacket, black watch, subtle accessories, sophisticated urban look.
+
+  SETTING: modern luxury apartment/stylish urban workspace during golden hour, warm window light, realistic shadows, tasteful furniture and subtle city ambience. Premium lifestyle + authentic UGC + cinematic commercial aesthetic.
+
+  0–4s: Close-up of male looking slightly tired after a busy day. He picks up the earbud case from a table, camera quickly pushes toward product. He looks at camera confidently: “These changed my daily routine.”
+
+  4–8s: Cinematic macro reveal as he opens the case, removes an earbud and puts it in. Smooth product movement and shallow depth of field. Dialogue: “The sound is seriously impressive.”
+
+  8–13s: Male walks through apartment and works at desk wearing earbuds. Show natural tap interaction, earbud close-up, working shots and product case. Dialogue: “Music, calls, work… everything feels better.”
+
+  13–17s: Male stands by window in golden-hour light, looks directly into camera and holds case toward lens. Dialogue: “Honestly, I keep them with me everywhere.”
+
+  17–20s: Hero product shot: earbuds and case sharply focused in foreground, male softly blurred behind. Slow cinematic movement and premium reflections. On-screen text: “Sound. Style. Freedom.” then “Upgrade Your Everyday.”
+
+  AUDIO: original modern premium lifestyle beat with smooth electronic bass, atmospheric synth and subtle percussion; minimal at start, gradually builds, slight impact on final reveal. No copyrighted music. Dialogue remains crisp.
+
+  Natural American English male UGC voice, confident, relaxed, authentic, conversational, accurate lip-sync.
+
+  Photorealistic 4K/8K, realistic skin, eyes, blinking, hands, fabric, reflections, shadows, depth of field and motion blur. No distorted hands, extra fingers, text glitches, random logos, watermarks or cartoon look. Maintain exact identity and clothing consistency throughout.

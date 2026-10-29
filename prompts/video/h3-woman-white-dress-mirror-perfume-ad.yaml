@@ -1,0 +1,43 @@
+id: h3-woman-white-dress-mirror-perfume-ad
+title:
+  en: Woman in white dress getting ready at mirror
+  zh: 身穿白色长裙的女子在镜前准备
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- perfume-commercial
+- multi-scene
+- character-consistency
+- luxury-fashion
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2105895582275657852
+  credit: Calira
+  likes: 237
+  captured: '2026-10-29'
+  posted: '2026-10-02'
+video: https://x.com/CaliraVal/status/2105895582275657852
+notes:
+  en: The prompt numbers seven scenes in order and gives each one its own action plus a camera or lighting cue, so the model can carry one character through a full ad. The character is described once in detail (bob haircut, white dress, gold jewelry), and the closing visual style block sets the grade, depth of field and skin texture for every shot.
+  zh: 提示词按顺序列出七个编号场景，每段都写明动作以及镜头或光线要求，便于模型在整支广告中保持同一角色。开头一次性详细描述人物外形（短发、白裙、金色首饰），结尾的视觉风格段统一调色、景深与肤质，让各个镜头风格一致。
+prompt: |
+  Create an ultra-realistic, cinematic luxury perfume commercial with a romantic evening atmosphere.
+
+  Scene 1: A beautiful young woman with a short brunette bob haircut, elegant features, and natural makeup stands in front of a mirror, wearing a sophisticated white evening dress and delicate gold jewelry. She smiles softly while getting ready for a special evening.
+
+  Scene 2: Close-up of her smartphone resting on a bedside table as she receives a message. Warm ambient lighting creates a cozy, intimate mood.
+
+  Scene 3: She opens her wardrobe and chooses an elegant white dress. Capture natural movements, realistic fabric physics, and cinematic framing.
+
+  Scene 4: A macro close-up of her hand holding a luxurious transparent glass perfume bottle with pink fragrance. She gently sprays the perfume on her wrist. Highlight the fine mist, glass reflections, and premium product details.
+
+  Scene 5: She turns away from the mirror, her short hair moving naturally as she prepares to leave. Use a smooth cinematic camera movement.
+
+  Scene 6: A beautiful European city street at night, with warm restaurant lights, passing cars, and soft reflections on the pavement. The woman walks gracefully toward a stylish restaurant.
+
+  Scene 7: A romantic close-up of the woman and a handsome young man meeting outside at night. They exchange warm smiles and look into each other's eyes, creating a subtle romantic moment.
+
+  Visual style: Premium luxury perfume advertisement, cinematic storytelling, warm golden lighting, realistic skin texture, shallow depth of field, elegant camera movements, soft bokeh, natural human expressions, sophisticated color grading, photorealistic details, 4K quality.
+
+  Maintain consistent character identities, realistic movements, seamless transitions, and a refined romantic atmosphere. No text, no subtitles, no logos, no watermark.

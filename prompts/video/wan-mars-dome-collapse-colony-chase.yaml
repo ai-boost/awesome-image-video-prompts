@@ -1,0 +1,29 @@
+id: wan-mars-dome-collapse-colony-chase
+title:
+  en: Colony vehicle races toward collapsing Mars dome
+  zh: 殖民车辆冲向坍塌的火星穹顶
+model: Wan 3.0
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- mars
+- dome-collapse
+- chase
+- sci-fi-disaster
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2098153036682047774
+  credit: Alexandra Aisling
+  likes: 34
+  captured: '2026-10-29'
+  posted: '2026-09-10'
+video: https://x.com/AllaAisling/status/2098153036682047774
+notes:
+  en: The prompt lays out the story as ordered beats, from the chase to the dome collapse to the final slide-through, so the model has a timeline to follow. Naming the overhead camera, the physics and the IMAX scale sets the framing and the sense of size.
+  zh: 提示词按顺序列出故事节拍，从追逐到穹顶坍塌再到最后的滑入，给模型一条清晰的时间线。明确俯视镜头、物理效果和 IMAX 级别的规模，决定了构图与尺度感。
+prompt: |
+  A colony vehicle races across the surface of Mars toward the last human settlement. The camera follows from above. Behind it, a gigantic atmospheric breach spreads across a transparent habitat dome hundreds of kilometers wide. The entire dome begins collapsing. Dust storms surge inward. The vehicle accelerates across rocky terrain while sections of the colony implode in the distance. The settlement airlock begins closing. Final shot: the vehicle slides through seconds before the dome catastrophically fails behind it.
+  Ultra-realistic hard sci-fi, Martian landscape, dramatic tension, realistic physics, cinematic scale, IMAX quality.
+
+  Made with Wan 3.0 in
+  @openart_ai

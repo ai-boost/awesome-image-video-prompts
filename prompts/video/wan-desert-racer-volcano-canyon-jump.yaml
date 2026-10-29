@@ -1,0 +1,30 @@
+id: wan-desert-racer-volcano-canyon-jump
+title:
+  en: Desert racer outruns erupting volcanoes and canyon collapse
+  zh: 沙漠赛车在火山爆发与峡谷崩塌中飞驰
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- racing
+- volcano
+- aerial-shot
+- wan-3
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2093393927306928140
+  credit: Alexandra Aisling
+  likes: 44
+  captured: '2026-10-29'
+  posted: '2026-08-28'
+video: https://x.com/AllaAisling/status/2093393927306928140
+notes:
+  en: The prompt reads as an ordered sequence of beats with explicit camera changes between cockpit and aerial views, which gives the model a clear timeline to follow. Opening on the spinning wheels establishes the vehicle before the action escalates into the eruption and the canyon jump.
+  zh: 提示词按时间顺序写成连续的镜头节拍，并明确标出驾驶舱视角与航拍视角的切换，让模型有清晰的时间线可循。开场从旋转的车轮切入，先确立车辆形象，再逐步推进到火山喷发和跨越峡谷的动作。
+prompt: |
+  My first try with Wan 3.0 in
+  @openart_ai
+
+
+  Prompt: A futuristic desert racing vehicle prepares for the most dangerous race ever attempted. The camera begins close to the spinning wheels as engines roar to life. The vehicle launches across a vast desert at extreme speed. Massive dust trails follow behind. Ahead, a chain of dormant volcanoes suddenly awakens. Explosions send ash and rocks into the sky. The racer speeds between collapsing rock formations. Lava begins flowing across the track. The camera alternates between cockpit views and sweeping aerial shots. One volcano erupts directly ahead, throwing giant boulders through the air. The racer dodges debris at the last moment. The ground starts splitting open. A huge canyon forms across the course. The vehicle accelerates toward the edge. The camera slows slightly as it launches across the gap. The racer lands successfully while the terrain behind collapses into lava. The final shot reveals the vehicle racing toward the horizon as multiple volcanoes erupt across the landscape.
+  Ultra-realistic cinematic racing sequence, extreme speed, realistic vehicle dynamics, volcanic destruction, dramatic scale, detailed environments, smooth camera work, IMAX quality, epic atmosphere, no text, no watermark.

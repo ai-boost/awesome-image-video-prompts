@@ -1,0 +1,54 @@
+id: h3-anime-heroine-yellow-punk-music-video
+title:
+  en: Anime heroine dances through yellow punk music video
+  zh: 动漫女主角穿越黄色朋克MV
+model: MiniMax H3
+mode: reference-to-video
+category: music-dance
+tags:
+- anime
+- music-video
+- character-lock
+- pop-punk
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2094305294117429711
+  credit: Sharon Riley
+  likes: 241
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+video: https://x.com/Just_sharon7/status/2094305294117429711
+notes:
+  en: The prompt locks character details to a reference still, then chains each movement to the next so the camera follows one continuous body motion. Foot impacts set the beat and drive every transition, while the graphic type is styled like stamped screen print.
+  zh: 提示词先用参考图锁定角色细节，再让每个动作带动下一个动作，镜头沿同一段身体动作连续跟拍。脚步落点作为节拍推动每次转场，图形文字则采用丝网印刷般的盖印质感。
+prompt: |
+  15s / 16:9 / high-energy 2D anime pop-punk MV — character-locked
+  Create a 15-second horizontal 16:9 high-energy 2D anime pop-punk music video featuring the exact heroine from the provided character reference. The entire sequence must feel like one continuous, tightly choreographed MV passage; each movement must motivate the next transition.
+  CHARACTER LOCK (absolute authority = the reference still)
+  Twin high black space-buns with messy volume and warm brown inner strands. Green jade disc clusters pinned into both buns. Straight blunt bangs with a small center split. Huge sharp green eyes, thick black outlines, strong lashes. Small mouth, warm cheek blush, pale skin. Green circular dangling jade earrings. Sleeveless lime-to-jade floral qipao with black piping, black frog-button placket, high collar, and black line-art lotuses on the fabric. Bare shoulders and arms. Stylized proportions: oversized head, compact torso, long simplified limbs, chunky hands. Bold black outlines, flat saturated colors, minimal cel shading, early-2000s TV-anime / handmade cartoon finish. Personality: loud, cheeky, rebellious, playful, hyperactive — the still’s fierce stare becomes motion, not a different face.
+
+  Do not change hair color, bun structure, eye color, earrings, qipao cut, floral linework, or outline weight. No pink hair, no red plaid uniform, no extra characters, no 3D, no photorealism, no glossy modern anime redesign.
+  GRAPHIC LANGUAGE (from the still)
+  Primary palette: lemon yellow, jade / lime green, ink black, paper white. Motifs: spinning jade discs, qipao lotus line-art, frog-button glyphs, circular earrings as motion graphics, torn yellow paper, black brush X’s, photocopy grain, tape strips, hand-drawn stars and crosses, rough ink splatters. Kinetic type must look stamped, ripped, or screen-printed — never clean corporate sans.
+  0.0–2.5s
+  Start in motion. She slides in from frame-left, one foot skidding across a clean yellow graphic floor. Body leans forward; both buns, earrings, and qipao hem trail behind. She stomps the second foot down, snaps her chin up, and flashes a mischievous grin over the reference’s fierce eye shape. Impact instantly tiles the yellow field into huge jade-and-black floral blocks. Bold kinetic type “JADE PANIC!” slams in, letters made from ripped yellow paper + green lotus outlines.
+
+  2.5–5.0s
+  No pause. Rebound into a small hop and sharp half-turn. Camera swings from front ¾ into a fast side-track as she takes two exaggerated cartoon steps. Feet hit on alternating beats, leaving jade discs, lotus scribbles, tape, crosses, and comic impact marks. Buns and earrings bounce hard; qipao hem flares.
+  5.0–7.5s
+  Side kick on the beat. Kick momentum spins her. The floral pattern on the qipao stretches into a giant rotating graphic plane and pulls the frame into an abstract 2D punk world: black brush strokes, green lotus line-art, yellow paper shards, jade lightning (mint/cyan accents only as small bolts, never as hair), photocopy texture. She flows straight into a bouncy phrase: head whip → shoulder hit → side step → small kick → fast turn. Poses stay cartoon-exaggerated.
+
+  7.5–10.0s
+  Turn accelerates; camera orbits close. Environment recomposes to the choreography: checker yellow/green slides, hand-drawn crosses rotate, torn-paper strips snap, oversized comic type hits on drums (BAM, 叩, 炸). She lands hard, feet apart. A huge hand-drawn “BAM!” bursts under her feet and shakes every graphic layer. She rebounds upward immediately with a cocky smile — no held fashion pose.
+  10.0–12.3s
+  Same continuous body motion, camera racing along it: whip of the head → bright green eye → jade bun ornament → swinging black bun → bouncing earring → frog-button collar → floral qipao panel → stomping foot. Not a beauty-cut montage; one traveling shot. The footfall fires a jade-floral shockwave across the frame.
+
+  12.3–15.0s
+  Ride the shockwave back to full body. Two confident bouncing steps, abrupt pivot, finish facing camera: weight on one leg, shoulders slightly forward, cheeky rebellious grin. Buns and earrings still swinging. Background erupts into layered yellow paper, black brush X’s, white stars, green lotus line-art, spinning jade discs, rough ink. Elements snap into a 2000s punk magazine-cover lockup. Large “JADE PANIC!” type stacks behind her silhouette on the final beat. Hold her recognizable twin-bun / qipao silhouette. No design drift.
+  MOTION
+  Fast, bouncy, limited-animation timing: strong keys, overshoot, smear frames, anticipation, cartoon impacts. Hair buns, earrings, and qipao hem are the secondary rhythm; feet are the downbeat. Transitions grow only from action: skid → pattern flood → kick → rotating floral plane → spin → orbit → stomp → shockwave. No random cuts, no palm-to-lens, no pointing at camera, no outfit/hair morph.
+
+  AUDIO
+  Tight sync to fast Japanese pop-punk vocals, punchy electronic drums, distorted guitar. SFX: boot/foot skids, stomps, paper snaps, cartoon hits, guitar chops, short graphic whooshes. Type slams on snare/crash.
+  NEGATIVES
+  No hand reaching toward camera, no palm covering the lens, no pointing into the lens, no outfit transformation, no hairstyle transformation, no extra characters, no realistic rooms, no photorealism, no 3D CGI, no modern glossy anime, no cyberpunk holograms, no slow fashion posing, no facial drift, no random accessories, no excessive jump cuts, no disconnected moves, no uncontrolled morphing, no unreadable type, no pink hair, no red plaid school uniform.

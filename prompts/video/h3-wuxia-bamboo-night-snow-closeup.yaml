@@ -1,0 +1,28 @@
+id: h3-wuxia-bamboo-night-snow-closeup
+title:
+  en: Woman in fur collar in snowy bamboo forest
+  zh: 雪夜竹林中披毛领长袍的女子
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- wuxia
+- bamboo-forest
+- period-drama
+- night-snow
+source:
+  name: '@sipteaandcoffee on X'
+  url: https://x.com/sipteaandcoffee/status/2083132770650571041
+  credit: kold Coffee
+  likes: 75
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/sipteaandcoffee/status/2083132770650571041
+notes:
+  en: Out of focus foreground leaves frame the actor from inside the grove, while a cool front key and a backlight separate the face from the dark background. Shallow depth of field turns the snow and bamboo into bokeh, and a restrained shot and reverse shot rhythm keeps the close-up tense.
+  zh: 前景虚化的竹叶从林内框住人物，冷色正面主光加逆光让人脸与暗背景分离。浅景深把雪和竹林化为光斑，克制的正反打节奏让特写保持张力。
+prompt: |
+  A 16:9 cinematic wuxia mystery set in a bamboo forest at night. Use a low-saturation palette of cold blue, ink green, charcoal, and gray. Thin mist fills the forest and fine snow drifts through the air. The mood is austere, lethal, and controlled, with the tension of a martial-arts sect investigating a case and exchanging secret intelligence.
+
+  Deep in the forest, dense vertical bamboo fills the background while cold white mist-light glows in the distance. Soft, out-of-focus leaves partially obscure the foreground, creating the sense of watching from within the grove. A cool, soft front-side key lights the actors’ faces; backlight keeps the foreground dark and the distance luminous. Use shallow depth of field so leaves, snow, and bamboo dissolve into soft bokeh.
+  Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rhythm restrained but tense. Photoreal period-drama production value, cinematic lighting, and no modern elements. No subtitles, on-screen text, watermarks, modern clothing or architecture, animation styling, over-smoothed skin, bright daylight, or comic performance.

@@ -1,0 +1,48 @@
+id: seedance-rain-bronze-arena-duel
+title:
+  en: Two fighters duel under a giant bronze bell
+  zh: 两名武者在巨型青铜钟下决斗
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- anime-action
+- multi-reference
+- duel
+- dialogue
+source:
+  name: '@GlitterPixely on X'
+  url: https://x.com/GlitterPixely/status/2086471938650624231
+  credit: Glitter Gal
+  likes: 175
+  captured: '2026-10-29'
+  posted: '2026-08-09'
+video: https://x.com/GlitterPixely/status/2086471938650624231
+notes:
+  en: Separate labeled reference images lock the arena and each fighter's look, and a LOCK block forbids swaps, clones and afterimages. Flexible shot blocks with the dialogue written inline let the model pace speech and combat together.
+  zh: 三张分别标注的参考图锁定场景和两位角色的外观，[LOCK] 段禁止换脸、残影和分身。分镜不写固定秒数，而是把台词直接放进各镜头，让模型自行安排对白与打斗的节奏。
+prompt: |
+  [REF]
+
+  @Image
+   1 defines only the rain-soaked ancient bronze arena: giant suspended bell, flooded stone lane, furnaces, cranes, timber-and-bronze architecture, orange firelight, storm light, and deep scale. No background people.
+
+  @Image
+   2 defines only the hooded fighter’s face, black bob haircut, eye covering, rust-brown layered clothing, wraps, pendant, belt gear, proportions, and footwear. Exclude the white background and static pose.
+
+  @Image
+   3 defines only the teal-haired fighter’s face, black-and-teal bob haircut, distressed teal-and-black clothing, belt gear, gloves, boots, and single hip blade. Exclude the white background and static pose.
+  [LOCK]
+  Exactly two fighters and one blade. Do not swap faces, hair, clothes, dialogue, weapons, or effects. The hooded fighter begins by the furnace tower and uses rust-red spatial seals plus an original hand-seal teleportation jutsu. The teal-haired fighter begins beneath the bell and uses cyan blade energy. Preserve the axis between those landmarks. Every teleport shows departure, briefly empty space, then one arrival; the previous position fully disappears. No clones or persistent afterimages.
+  [STYLE]
+  High-end stylized anime action-RPG duel. Fast, tactical, forceful combat with rapid hard cuts, explosive acceleration, readable silhouettes, sharp impact endpoints, and immediate environmental damage. Both fighters attack, evade, intercept, and counter. No slow motion or prolonged power-up.
+  [SEQUENCE]
+  Shot 1: Extreme wide down the flooded lane; rain lashes sideways, furnaces flare, and the bell sways over both fighters. Push quickly into paired medium shots. In English, cool and challenging, the teal-haired fighter says, {Take off the blindfold.} The hooded fighter listens with mouth closed, then replies in English, calm and amused, {Make me stay long enough.} The teal-haired fighter keeps their mouth closed.
+  Shot 2: Low lateral tracking. Before the reply fades, the teal-haired fighter explodes forward, the first step blasting water backward, and attacks with one cyan draw-cut. The hooded fighter collapses into a thin rust-red seal ring, fully vanishes, then reappears behind the attacker with a glowing palm strike. The teal-haired fighter spins and catches the palm on the blade flat. A white-hot bronze pressure ring, violent camera jolt, and crater throw water and tiles outward.
+  Shot 3: Medium-wide on the same axis. The hooded fighter attacks with a sweeping kick, teleports above the counter-slash, then drives a heel into the lane; the teal-haired fighter rolls clear as wet stones buckle. Rain bends toward the next exit before it opens. Reading the clue, the teal-haired fighter pivots early, intercepts the reappearance with a shoulder check and spinning kick, and launches the hooded fighter through a wooden scaffold. Braces bend and wood bursts; the hooded fighter lands crouched.
+  Shot 4: Clean waist-up close-up of the hooded fighter’s two unobstructed, anatomically correct hands. At fast but readable speed: palms clap; index and middle fingers interlock into a square lattice; thumbs hook as wrists rotate outward; fingertips close into a triangle. Each sign creates one concentric rust-red geometric seal. The pendant flashes, nearby raindrops halt, the bell hums, and the seals compress into a dark bronze sphere. No extra fingers, fused hands, or hidden poses. The teal-haired fighter rushes in to interrupt. Holding the final seal, the hooded fighter says in English with sudden force, {Resonance Jutsu: Ninefold Gate.} The sphere implodes with a vacuum crack; the hooded fighter vanishes before the cyan thrust lands. The bell tolls once and three gates ignite across walls, puddles, and beams.
+  Shot 5: Three rapid hard cuts show the single hooded fighter teleporting sequentially through three gates, never simultaneously: above with a descending palm; beside the bell chain with a sweeping kick; at ground level with a rust-red thrust. The teal-haired fighter evades the palm, blocks the kick with the blade hilt, and parries the thrust. Each contact creates a cyan-and-rust flash, warped rain, bronze sparks, a vacuum pop, and hard recoil. Re-establish both full bodies after the exchange.
+  Shot 6: Tight shot on rain curving toward the next exit. The teal-haired fighter predicts it, attacks the empty space first, and splits the forming gate with one cyan slash. The hooded fighter reappears off balance but counters by trapping the blade between two palm seals; metal screams and the ground fractures. The teal-haired fighter elbows free and cuts upward. The hooded fighter bends under the blade, teleports above it, and dives with a two-palm seal strike. The teal-haired fighter raises the blade flat to intercept. Their collision detonates a huge spherical cyan-and-rust shockwave: rain blasts outward, furnace flames flatten, scaffolds shake, stone splits across the lane, and the bell booms. Both fighters are hurled apart and skid through shallow water. Camera shakes only at impact, then stabilizes.
+  Shot 7: Low wide aftermath. Both rise into guarded stances as rain crashes back into the empty sphere. Rust-red seals dissolve into bronze dust; cyan electricity drains from the blade into puddles. In English, breathing hard but composed, the teal-haired fighter says, {Every exit leaves a sound.} The hooded fighter stays silent with mouth closed. End with both standing and the swinging bell between them.
+  [VFX / CAMERA / AUDIO]
+  Keep faces, hands, contact points, and landings readable. Use whip-pans, short tracking bursts, directional motion blur, displaced rain, hard cuts, and brief impact shake. Hooded effects originate from the hands and pendant, form as nonverbal rust-red geometric seals, open along the travel path, snap shut after arrival, spark on collision, and dissolve into dust. Teal effects originate only from the blade, follow each slash, flare on contact, and dissipate into cyan sparks and vapor. Heavy rain, splashing boots, cloth snaps, blade rings, teleport vacuum cracks, bass-heavy impacts, cracking stone, bending metal, debris, furnace roar, and bell resonance. No BGM; only dialogue, ambience, and action sounds. No subtitles, narration, readable text, logos, gore, extra fighters, extra weapons, face swaps, wardrobe changes, body merging, extra limbs, VFX-covered faces, or constant camera shake.

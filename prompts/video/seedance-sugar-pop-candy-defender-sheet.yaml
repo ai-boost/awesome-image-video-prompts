@@ -1,0 +1,39 @@
+id: seedance-sugar-pop-candy-defender-sheet
+title:
+  en: Anime candy hero character sheet with turnarounds
+  zh: 糖果风动漫英雄角色设定图，含三视图
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- character-sheet
+- anime
+- game-art
+- turnaround
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2084943718042448060
+  credit: Kiki
+  likes: 156
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+video: https://x.com/Mayz1169/status/2084943718042448060
+notes:
+  en: The prompt lays out the sheet section by section (hero, turnarounds, equipment panels, palette), which keeps proportions and details consistent across views. Naming the 16:9 frame, the white background and a specific style reference gives a clean production-sheet look.
+  zh: 提示词按版面分区逐段描述（主视图、三视图、装备拆解、配色），使比例与细节在各视图间保持一致。指定16:9画幅、白底和明确的风格参考，让结果接近可用于制作的设定稿。
+prompt: |
+  1️⃣character sheet:
+
+  Ultra-detailed 16:9 sci-fi anime character design sheet, official hero shooter game character bible, clean premium editorial layout, minimalist white background.
+
+  Character name "SUGAR POP", title "Candy Defender", subtitle "A hyper-energetic defender armed with oversized dessert-powered weaponry."
+
+  Left section features a full-body hero illustration of a petite anime girl with short bubblegum-pink hair in candy-bun twin tails, bright cyan eyes, oversized colorful candy headphones with antennae, wearing futuristic white powered armor covered in glossy candy buttons, sprinkles, frosting textures, donut-like armor joints, cropped black inner suit, chunky mechanical boots, oversized gauntlets and playful candy-themed mechanical details. She holds a gigantic candy cannon resembling a frosted dessert blaster with striped barrel, dripping neon syrup, colorful plastic components and toy-like sci-fi engineering.
+
+  Center section includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, armor proportions and equipment, neutral pose for production reference.
+
+  Right section contains large equipment breakdown panels including the oversized candy cannon, circular candy-powered backpack energy core (front and side), close-up head profile, shoulder armor detail, torso armor detail and leg armor detail.
+
+  Top left includes a vibrant color palette featuring bubblegum pink, orange, cyan, lime green, cream, lavender and chocolate brown.
+
+  Style: official stylized hero shooter concept art, Overwatch 2, VALORANT skin design, Zenless Zone Zero, NIKKE, colorful sci-fi anime, premium AAA game artbook, glossy hard-surface mechanical design, candycore aesthetic, toy-inspired industrial design, highly detailed production-ready character sheet, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no deformed anatomy, no extra limbs.

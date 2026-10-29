@@ -1,6 +1,6 @@
 # 手机实拍与 Vlog
 
-[返回目录](../../README_zh.md) · 全部 126 条 · **1** · [2](video-vlog-2.md)
+[返回目录](../../README_zh.md) · 全部 143 条 · **1** · [2](video-vlog-2.md)
 
 <a id="seedance-seoul-summer-evening-vlog"></a>
 ### 首尔夏夜，家庭录像质感
@@ -572,6 +572,318 @@ Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one 
 
 </details>
 
+<a id="wan-towel-turban-kitchen-cooking-vlog"></a>
+### 头戴毛巾的女子在夜间厨房煎鸡胸肉
+
+<a href="https://x.com/mightyking/status/2092560921113547253"><img src="../../previews/wan-towel-turban-kitchen-cooking-vlog.jpg" width="360"></a>
+
+将手持自拍镜头与固定外部机位用跳切衔接，镜头本身不出现在画面中。通过持续性规则固定毛巾、服装和单向烹饪顺序，并明确写出镜头起雾、油溅等物理细节。
+
+Wan 3.0 · 参考生视频 · 出处: [@mightyking on X](https://x.com/mightyking/status/2092560921113547253) · 242 赞，统计于 2026-10-29
+
+[`vlog`](tags.md#tag-vlog) [`handheld`](tags.md#tag-handheld) [`jump-cut`](tags.md#tag-jump-cut) [`cooking`](tags.md#tag-cooking)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Handheld digital camcorder aesthetic, landscape framing.
+
+A gorgeous fitness and food influencer films herself by hand in selfie-cam and first-person style while cooking a late-night high-protein meal after training and a shower.
+
+Keep realistic hand shake, slightly crooked framing, autofocus briefly hunting between her face and the food, awkward zoom-ins onto the pan, occasional motion blur, brief lens steam-up over the hot pan that clears naturally, and small framing mistakes where her face or the pan edge slips out of frame.
+
+Mix handheld selfie footage with a few fixed external shots.
+
+Important: never show her placing, adjusting, or setting up a camera.
+
+When switching from handheld footage to a fixed external angle, use a clean jump cut as if the camera had already been positioned before the shot began.
+
+The camera itself must never appear on screen or in the window reflection.
+
+LOOK:
+Warm late-night kitchen light.
+A single warm pendant over the counter, cool blue night visible through the window behind her, under-cabinet strip light glowing on the backsplash.
+
+Slight camcorder softness, faint noise in the shadows, mild bloom on the pendant.
+
+Food realism is the core of the look: real sizzle with fine oil spatter, steam rising and curling from the pan, honest food textures with sear marks and glistening surfaces, knife cuts that separate cleanly, droplets on rinsed vegetables.
+
+Realistic skin texture, fresh-from-the-shower glow, clean dewy skin, realistic skin tones.
+
+STYLE:
+A realistic late-night what-I-eat-after-training vlog.
+The tone is relaxed, hungry, funny, quietly confident, and natural, talking to the lens like a friend while her hands keep working.
+
+She is clearly attractive and charismatic, but the video must feel like a believable self-recorded kitchen vlog, not a food commercial.
+
+Fast clean jump cuts, strong continuity, natural body language, real kitchen sounds, sizzle, chopping, no awkward dead moments.
+
+CHARACTER:
+The woman in the reference image. Her face, features, skin tone, body, and clothing must match the reference image exactly in every shot — she wears exactly what she is wearing in the reference image. Do not restyle, beautify, or alter her in any way beyond the reference.
+
+The one addition: a soft white towel wrapped around her head like a turban, as if she just stepped out of the shower. The towel stays neatly wrapped for the whole video. A few small damp strands of hair may peek out at the hairline and neck.
+
+Minimal or no makeup, fresh clean post-shower look.
+A small kitchen towel over one shoulder for most of the video.
+
+SETTING:
+A small warm real apartment kitchen at night.
+Wooden counter with knife marks, a gas hob with one cast-iron pan, a cutting board with chicken breast and vegetables, a bowl of cooked rice, a bottle of olive oil, salt in a small dish, a fridge with magnets and photos, dishes drying on a rack, dark window over the sink reflecting the warm kitchen.
+
+Lived-in and slightly cluttered.
+No other people, no pets.
+
+IMPORTANT CONTINUITY RULES:
+The same woman from the reference image must remain fully consistent in every shot.
+
+No face changes, no outfit changes, no body changes.
+The head towel stays wrapped in the same position in every shot — it never unwraps, falls, changes color, or disappears.
+
+The meal progresses in one direction only: raw ingredients, then chopping, then searing, then plating, then eating, and never reverses or regenerates.
+Food already cooked never becomes raw again.
+
+Hands and knife are the top priority: five fingers always, correct knife grip with curled guiding fingers, clean cuts, the knife never bends and never passes through her hand.
+
+The pan, board, oil bottle and rice bowl stay in the same positions.
+
+Steam and sizzle must behave with real physics.
+No extra people, including in the dark window reflection, and the reflection never shows a camera.
+
+No duplicated limbs.
+No camera visible.
+No camera setup shown.
+Keep her matching the reference image, warm, and photogenic in every shot.
+
+STORYBOARD:
+30 seconds total, 10 cuts.
+
+(~3s, arm's-length selfie)
+She leans on the counter, towel wrapped on her head, clearly fresh from the shower after training, and grins tiredly at the lens.
+Dialogue:
+"Trained late. Showered. Starving. Let's cook."
+
+(~3s, handheld pan across the counter and back to her)
+The camera drifts across the board with raw chicken and vegetables, the pan, the rice bowl, then back up to her face.
+Dialogue:
+"Ten minute meal. Watch."
+
+(~3s, fixed external medium shot from across the counter)
+Jump cut.
+She is already chopping a red pepper with quick confident cuts, guiding fingers curled, pieces falling evenly.
+No camera setup shown.
+No dialogue, just the knife on the board.
+
+(~3s, same fixed shot)
+She slices the chicken breast into strips, seasons it from the salt dish with a high pinch, and rubs it in with her fingertips.
+Dialogue:
+"Protein first. Always."
+
+(~3s, tight handheld first-person shot over the pan)
+Oil shimmering, she lays the chicken strips in one by one and they hit with a loud real sizzle, fine spatter, steam rising into the lens which fogs for a beat and clears.
+No dialogue, just the sizzle.
+
+(~3s, handheld selfie while the pan sizzles behind her)
+She turns the camera on herself, fanning steam away from her face, laughing, one hand briefly steadying the head towel.
+Dialogue:
+"The smell. You have no idea."
+
+(~3s, tight handheld close-up of the pan)
+She flips the strips with tongs, showing deep golden sear marks, tosses in the peppers, and shakes the pan once so everything jumps and resettles.
+Dialogue:
+"That colour? That's the whole point."
+
+(~3s, fixed external shot)
+Jump cut.
+She plates it: rice pressed from the bowl, chicken and peppers over the top, a last drizzle of olive oil in a thin ribbon, and she wipes the plate rim with the towel like a chef, then smirks at her own seriousness.
+Dialogue:
+"Yes, I wiped the rim. Let me live."
+
+(~3s, tight handheld close-up)
+First fork bite, steam still coming off it, she chews, closes her eyes for a beat and nods slowly.
+Dialogue:
+"Ten minutes. That's it. Ridiculous."
+
+(~3s, arm's-length selfie ending)
+Plate in one hand, camera in the other, she backs out of the kitchen toward the sofa, flicking the kitchen light off with her elbow.
+Dialogue:
+"Okay. Eating. Good night."
+
+FINAL INSTRUCTION:
+The result must feel like a real self-recorded late-night cooking vlog by an athlete who actually cooks, filmed right after her shower.
+
+The highest priorities are matching the reference image exactly, correct hands and knife work at close range, one-directional cooking progression that never reverses, real sizzle, steam and food texture, the head towel staying consistently wrapped, honest warm kitchen light against the dark window, and subtle imperfection.
+
+Keep it warm, hungry, and real.
+Not a food commercial, not overhead recipe content, not stiff.
+```
+
+</details>
+
+<a id="h3-seoul-cherry-blossom-travel-vlog"></a>
+### 樱花、宫殿屋顶与N首尔塔
+
+<a href="https://x.com/aiwithaayat/status/2115382877638836664"><img src="../../previews/h3-seoul-cherry-blossom-travel-vlog.jpg" width="360"></a>
+
+提示词按时间戳拆成八段，每段写明镜头运动（慢摇、手持跟拍、仰拍），并在每段重复同一套人物描述（发型、开衫、包），保证跨镜头的人物一致。
+
+MiniMax H3 · 文生视频 · 出处: [@aiwithaayat on X](https://x.com/aiwithaayat/status/2115382877638836664) · 241 赞，统计于 2026-10-29
+
+[`seoul`](tags.md#tag-seoul) [`cherry-blossom`](tags.md#tag-cherry-blossom) [`travel-vlog`](tags.md#tag-travel-vlog) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second ultra-realistic cinematic Korean travel vlog in vertical 9:16 format. The video follows a beautiful young adult Korean woman exploring Seoul during cherry blossom season. She has natural Korean facial features, long dark brown hair, soft natural makeup, realistic skin texture, and wears a cream-colored knit cardigan, a light pastel outfit, and a small beige shoulder bag.
+
+Scene 1 (0–2 seconds) — Beautiful Seoul Introduction:
+Start with a wide cinematic establishing shot of Seoul, South Korea, during spring. Show beautiful pink cherry blossom trees, traditional Korean architecture, distant N Seoul Tower, and a clear blue sky. The camera slowly pans across the scenery, with delicate cherry blossom petals floating gently in the breeze. Natural daylight, realistic colors, peaceful travel atmosphere.
+
+Scene 2 (2–4 seconds) — Walking Vlog:
+Cut to the Korean girl walking along a beautiful cherry blossom street. She turns her head toward the camera, smiles naturally, and continues walking. Her long hair moves gently in the breeze. Use a handheld travel-vlog camera style with subtle natural camera movement and realistic walking motion.
+
+Scene 3 (4–6 seconds) — Cute Selfie Moment:
+Show a close-up selfie shot of the same girl. She looks directly into the camera, smiles warmly, and makes a peace sign with her fingers. Cherry blossoms fill the softly blurred background. Capture natural blinking, realistic facial expressions, subtle head movement, and authentic vlog energy.
+
+Scene 4 (6–8 seconds) — Cherry Blossom Walk:
+Show the girl from behind as she walks down a scenic path surrounded by blooming pink cherry blossom trees. Her cream cardigan and beige bag remain consistent. The camera smoothly follows her from behind as petals drift across the path. Soft sunlight filters through the branches, creating a dreamy but photorealistic spring atmosphere.
+
+Scene 5 (8–10 seconds) — Korean Street Food:
+Cut to a cozy Korean street food stall in Seoul. The girl holds a freshly prepared Korean street snack on a wooden skewer, takes a small bite, and reacts with a delighted smile. Warm market lights, authentic Korean food-stall details, shallow depth of field, realistic food textures, and natural expressions.
+
+Scene 6 (10–12 seconds) — Scenic City View:
+Show the girl standing at a scenic viewpoint overlooking Seoul, the Han River, and the distant city skyline with N Seoul Tower. The camera gently moves from her side toward the landscape. Warm golden-hour sunlight creates a beautiful cinematic glow. She looks at the view with a peaceful, happy expression.
+
+Scene 7 (12–14 seconds) — Friendly Goodbye:
+Return to a medium close-up of the same girl standing beneath cherry blossoms. She looks into the camera, waves goodbye with one hand, and smiles naturally. A few petals float past her face. The shot feels personal, warm, spontaneous, and like the ending of a real travel vlog.
+
+Scene 8 (14–15 seconds) — Final Cinematic Shot:
+Finish with a beautiful upward view of pink cherry blossom branches against a clear blue sky. A few petals gently drift through the frame. Leave the final frame clean and visually pleasing, with no unnecessary text or logos.
+
+Visual Style and Quality:
+Ultra-photorealistic live-action footage, premium Korean travel-vlog aesthetic, natural human movement, realistic skin pores, detailed hair strands, physically accurate lighting, soft cinematic color grading, gentle depth of field, smooth camera transitions, realistic environmental details, and natural spring atmosphere. Use a consistent character identity, face, hairstyle, clothing, and accessories throughout all scenes.
+
+Camera and Motion:
+Mix wide establishing shots, medium tracking shots, close-up selfies, and scenic detail shots. Use smooth handheld camera movement, natural motion blur, realistic perspective, and seamless cuts between scenes. Every shot must feel like genuine footage captured during a real trip to Seoul.
+```
+
+</details>
+
+<a id="wan-workstation-makeover-14-looks"></a>
+### 工位女孩在14次硬切中换造型
+
+<a href="https://x.com/johnAGI168/status/2092858002193707473"><img src="../../previews/wan-workstation-makeover-14-looks.jpg" width="360"></a>
+
+固定中近景配合每次切换时的击键或移鼠标动作隐藏剪辑点。人物角色卡把脸部锁定在单张参考图上，切换时只改变发型、眼镜、耳饰和服装。
+
+Wan 3.0 · 参考生视频 · 出处: [@johnAGI168 on X](https://x.com/johnAGI168/status/2092858002193707473) · 224 赞，统计于 2026-10-29
+
+[`character-consistency`](tags.md#tag-character-consistency) [`match-cut`](tags.md#tag-match-cut) [`outfit-change`](tags.md#tag-outfit-change) [`workstation`](tags.md#tag-workstation) [`montage`](tags.md#tag-montage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+【人物角色卡】
+@  ​→ 命名为“林澄”，全片唯一人物。后文所有“林澄”均指同一人，不再重复调用参考图。
+身份锁定：全程严格保持参考图中的同一张脸、五官比例、脸部骨相、肤色和年龄感。
+允许变化：发型、眼镜、妆面、耳饰、服装、耳机及手腕配饰只能在剪辑点瞬间改变。
+禁止变化：不换脸、不改变脸型、不生成相似但不同的人物，不因换发型或戴眼镜改变眼睛、鼻子、嘴巴和下颌轮廓。
+
+【风格】写实工位卡点变装短视频（Workstation Makeover Montage），固定机位匹配剪辑（Locked-off Match Cut），快速跳切（Rapid Jump Cut），真实手机摄影质感，4K清晰度，自然皮肤纹理，轻微柔光，无磨皮塑料感
+【时长】19秒
+【画幅】9:16竖屏
+【人物数量】仅林澄一人
+【对白】无对白、无口型表演、无字幕
+【音乐】轻快密集的时尚电子节拍；每次变装必须准确落在强拍上，叠加轻微键盘敲击声和鼠标点击声
+
+【固定场景】
+现代高科技工作室工位。林澄坐在灰色网布办公椅上，面前是白色办公桌；画面右侧被一台大型白色显示器占据，桌面放机械键盘和鼠标；后方是白色开放式置物架，摆放书本、文件、纸张和实验室杂物，远处可见另一张办公椅。环境结构、桌椅位置、显示器位置、背景物品和光线方向全程保持一致。
+
+【固定摄影规则】
+摄影机放在林澄正面偏左约30度，固定中近景，从胸口附近拍到头顶，林澄始终保持朝画面右侧显示器工作的三分之二侧面姿态。等效35—50mm镜头，固定三脚架，不推拉、不环绕、不手持晃动；只允许不同造型之间出现极轻微的构图偏移。
+所有变装均使用干净利落的硬切（Clean Hard Cut），不使用闪光、烟雾、粒子、旋转、遮镜、身体融化或渐变换装。每次切换前后，林澄的头部角度、肩膀位置、手臂位置和视线方向基本吻合，利用正在进行的击键、伸手移鼠标或查看笔记动作隐藏剪辑点。
+
+[00:00-00:01.8] 造型01：开场钩子（Locked Medium Close-up）
+林澄以长直发自然披下、轻薄刘海、无眼镜的状态坐在工位，佩戴醒目的黄色花朵垂坠耳环，穿青绿色修身吊带上衣，领口带少量粉色格纹装饰；妆面为清晰上扬眼线、粉色腮红和水润玫红唇。
+她怀里靠着一只浅棕色毛绒玩偶，左手在粉白色机械键盘上连续敲击，右手伸向鼠标，眼睛始终盯着右侧屏幕。开场第一帧便已经进入快速工作的状态，不做环境铺垫。
+
+[00:01.8-00:02.8] 造型02：白色研究服感造型（Keystroke Match Cut）
+在左手按下按键的一瞬间直接硬切。
+林澄变为盘发，保留轻薄刘海与两缕脸侧碎发；戴细银色椭圆框眼镜、白色无线耳机和大型银色圆片垂坠耳环，换成宽松白色连帽风衣，妆面变为柔和粉调。
+她的脸、坐姿和手部位置与上一帧连续，继续盯着屏幕操作鼠标。毛绒玩偶仍靠在怀里，桌面前景短暂出现一个白色甜甜圈形小物件。
+
+[00:02.8-00:03.8] 造型03：蓝白学院造型（Typing Match Cut）
+下一次击键时瞬间切换。
+头发改为整齐圆形盘发，后侧扎着大型白色荷叶边发饰，刘海与脸侧发丝自然垂下；摘掉眼镜，佩戴白色无线耳机及粉白色蝴蝶花朵耳环。
+服装变成海军蓝泡泡袖上衣，搭配蓝白格纹荷叶边前襟、宽大翻领和黑色细蝴蝶结。林澄两手持续打字，嘴唇微微分开，双眼专注看屏幕，不做夸张表情。
+
+[00:03.8-00:04.8] 造型04：双麻花辫爱心造型（Beat Jump Cut）
+在右手从键盘移向鼠标时硬切。
+头发变成两条长而厚实的麻花辫，保留轻薄刘海和自然卷曲的脸侧发丝；无眼镜，佩戴白色耳机和大型粉色爱心耳环。服装换成印有细小红色爱心图案的白色短袖上衣。
+毛绒玩偶重新出现在怀里。林澄先快速抬眼查看屏幕右上方，随后把视线落回屏幕中央，手指继续敲击键盘。
+
+[00:04.8-00:06.3] 造型05：奶油色针织造型（Matched Typing）
+击键落在音乐强拍上，造型瞬间改变。
+林澄换成长而蓬松的自然波浪发和空气刘海，戴细窄深色矩形眼镜、红色耳钉连接的黄色椭圆耳环，穿奶油白色无袖高领针织上衣；妆面为低饱和粉棕色。
+她身体保持不动，双手快速打字，眼睛隔着镜片持续阅读屏幕内容，神态安静而认真。
+
+[00:06.3-00:07.3] 造型06：白衬衫花朵耳环（Mouse-click Match Cut）
+林澄右手离开键盘、向右侧鼠标伸出的过程中完成硬切。
+头发仍为长波浪发和空气刘海，但摘掉眼镜；佩戴白色无线耳机和两层亮洋红色花朵耳环，穿带小翻领和竖向装饰前襟的白色短袖衬衫。
+右手在鼠标位置轻点一下，脸略微抬起，视线追随屏幕内容，动作不能停顿。
+
+[00:07.3-00:09.3] 造型07：棕色针织背心造型（Continuous Reach Match Cut）
+保持右臂伸向鼠标的姿势直接切换。
+头发变得更顺直，做成半扎发，后侧固定一只大型蓬松白色蝴蝶结；保留空气刘海和两缕长脸侧发丝。无眼镜，佩戴毛绒质感的白色椭圆耳环和白色耳机。
+穿白色贴身长袖上衣，外搭棕色针织背心裙。林澄右手持续操作鼠标，左手停在键盘前方，头部逐渐向右转动并略微抬高，像在认真核对屏幕上的资料。
+
+[00:09.3-00:10.8] 造型08：爱心上衣与手写笔记（Prop Match Cut）
+延续右手伸向鼠标的动作硬切，左手同时自然接入一张写满笔记的纸。
+头发恢复为松散长波浪发，空气刘海，无眼镜；佩戴由银色圆环、螺旋和小型垂坠物组成的长款耳环。妆面稍微加深为粉紫调眼妆和豆沙唇。
+穿白色红爱心短袖上衣和白色分层荷叶边半裙。林澄左手拿着笔记纸，目光在纸张与显示器之间迅速来回核对，右手继续使用鼠标。
+
+[00:10.8-00:11.8] 造型09：灰色荷叶领造型（Keyboard Match Cut）
+林澄把注意力重新移向键盘，在手指落下时完成硬切。
+头发变成长直发，配轻薄刘海；无眼镜，双耳戴白色无线耳机，并佩戴银色水钻垂坠耳环。
+服装变为灰色泡泡袖上衣，胸前是宽大的白色蕾丝荷叶边围兜领，领口系黑色细缎带；右手腕增加淡蓝色、红色包边的荷叶边发圈。
+她放下笔记，两手重新打字，浅色毛绒玩偶靠在腿上，目光固定在显示器中央。
+
+[00:11.8-00:12.8] 造型10：白色薄纱叠穿（Matched Hand Position）
+保持左手压在键盘、右手前伸的位置硬切。
+头发换成松散波浪发和空气刘海，无眼镜、无耳机，佩戴白色花朵垂坠耳环。
+穿带红色线条图案的白色T恤，外搭半透明白色长袖薄纱衬衫；右手腕佩戴浅粉色欧根纱发圈。桌面键盘短暂变成白色机械键盘，局部带黑白棋盘格按键。
+林澄一边读屏幕一边缓慢敲击两次键盘，动作克制、真实。
+
+[00:12.8-00:14.3] 造型11：蓝白条纹大蝴蝶结（Alert Look Match Cut）
+在右手再次伸向鼠标时瞬间硬切。
+头发变成更蓬松的大波浪发和分开的轻薄刘海，无眼镜、无耳机；穿浅蓝白色细条纹短袖上衣，搭配宽大的水手式翻领和同色大蝴蝶结，领边与蝴蝶结边缘均带白色扇形蕾丝，袖面点缀少量深色小图案；右手腕换成浅蓝白蕾丝荷叶边手饰。
+林澄双眼略微睁大，先快速扫视屏幕，然后自然眨眼一次，左手仍停在键盘上，右手继续操作鼠标。
+
+[00:14.3-00:15.3] 造型12：蓝色蕾丝拼接造型（Clean Beat Cut）
+在眨眼结束、手指重新击键时硬切。
+林澄保持松散亮泽波浪发和空气刘海，戴银灰色圆角方框眼镜、长款银色几何环形耳环和白色有线耳机。
+穿亮矢车菊蓝色短袖罗纹上衣，布面带细小浅色圆点；胸前拼接白色镂空蕾丝，并垂下两条白色细长系带。粉白色键盘重新出现。
+她隔着眼镜专注看屏幕，左手打字，右手伸向鼠标，耳机线自然垂到桌面。
+
+[00:15.3-00:16.8] 造型13：白紫运动造型（Mouse Movement Match Cut）
+沿用右手移动鼠标的动作切换，不加入任何变身特效。
+头发变成两条长麻花辫，辫尾用粉色小发圈固定；保留轻薄刘海和脸侧碎发。戴粗框玳瑁棕色椭圆猫眼眼镜、白色无线耳机及大型银色椭圆耳环。
+穿白色短袖立领拉链运动上衣，衣服带紫色弧形包边，胸口仅有少量不可辨认的小型装饰符号，不生成清晰品牌文字。
+林澄保持同一坐姿，一边移动鼠标一边轻敲键盘，视线稍微向屏幕上方移动。
+
+[00:16.8-00:19.0] 造型14：黄色无袖收尾造型（Final Match Cut and Hold）
+最后一次击键落在音乐最强节拍上，瞬间硬切为最终造型。
+头发恢复为非常长的松散波浪发和轻薄刘海，摘掉眼镜；佩戴大型黄色花簇耳环，穿淡柠檬黄色无袖罗纹高领针织上衣。妆面为清晰上扬眼线、长睫毛、粉色腮红和玫瑰红唇。
+毛绒玩偶仍在腿边。林澄先睁大眼睛专注查看屏幕，嘴唇轻微分开，随后双手继续敲击键盘；最后0.5秒视线稍微下移，手指停在按键上，保持最终造型和稳定人脸直到画面结束，不再变装，不淡出。
+
+【表演连续性】
+林澄全程不是面对镜头展示服装，而是真实地专注工作；主要动作只有打字、移鼠标、抬眼看显示器、核对笔记和自然眨眼。每次切换前后保持动作惯性：旧造型的手指开始下压，新造型的手指完成击键；旧造型的手臂开始伸向鼠标，新造型继续完成伸手。神态以安静、专注、略带疲惫的工位状态为主，不看镜头、不摆拍、不微笑营业。
+
+【换装与人脸锁定】
+14套造型必须是同一位林澄。每次硬切后先保证参考脸完全一致，再改变发型、眼镜、耳饰、妆面和服装。眼镜必须正确贴合鼻梁与耳侧，不能改变眼睛大小；刘海可以遮挡额头，但不能导致眉眼重绘；耳环和耳机只能在剪辑点出现或消失；头发、服装和配饰不得在两个造型之间渐变融合。
+```
+
+</details>
+
 <a id="h3-japanese-woman-laundry-day-continuous-action"></a>
 ### 女子端着洗衣篮穿过卧室
 
@@ -656,6 +968,25 @@ Curious how others are using Kling 3.0 for dialogue-driven, selfie-style content
 
 </details>
 
+<a id="h3-lakeside-selfie-vlog-golden-hour"></a>
+### 黄金时刻湖畔小镇的自拍 vlog
+
+<a href="https://x.com/Aiwithmaha/status/2115374973250592920"><img src="../../previews/h3-lakeside-selfie-vlog-golden-hour.jpg" width="360"></a>
+
+提示词把 15 秒拆成几个节拍（进车、石板路、咖啡馆、湖景全景、日落），每段都写明机位。反复固定服装、包和发型等细节，能让主角在各镜头中保持一致，手持自拍的机位描述则带出 vlog 质感。
+
+MiniMax H3 · 文生视频 · 出处: [@Aiwithmaha on X](https://x.com/Aiwithmaha/status/2115374973250592920) · 183 赞，统计于 2026-10-29
+
+[`travel`](tags.md#tag-travel) [`selfie`](tags.md#tag-selfie) [`lakeside`](tags.md#tag-lakeside) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second ultra-realistic cinematic travel vlog featuring a beautiful girl with long, straight black hair wearing an elegant sleeveless cream-colored dress and carrying a small white shoulder bag. The video begins with the girl sitting inside a modern car with a panoramic sunroof, smiling at the camera as she arrives at a breathtaking lakeside destination surrounded by lush green mountains and sparkling blue water. She gently adjusts her hair while recording herself in selfie-vlog style. Next, she walks along a charming stone pathway surrounded by traditional European houses decorated with colorful flowers, turning toward the camera with a warm smile and a gentle wave as the camera smoothly follows her movements. She then arrives at a beautiful outdoor lakeside café with wooden tables, cream-colored umbrellas, and flower decorations, where she sits down and enjoys a cold iced coffee while admiring the peaceful scenery. She records another selfie, smiles naturally, and turns the camera to capture the panoramic view of the crystal-clear lake, green mountains, and elegant café terrace. In the final moments, she stands beside a wooden lakeside railing during golden hour, smiling at the camera before gently turning toward the sunset reflecting on the water, ending with a breathtaking cinematic view. Use realistic facial expressions, natural skin texture, consistent facial features and clothing, gentle hair movement, smooth camera transitions, authentic handheld vlog angles, beautiful European scenery, warm cinematic lighting, and premium 4K quality. Vertical 9:16 format, exactly 15 seconds long, with no subtitles, no text overlays, and no watermarks.
+```
+
+</details>
+
 <a id="h3-street-photographer-candid-old-man-dog"></a>
 ### 街头摄影师抓拍老人与小狗并展示照片
 
@@ -675,6 +1006,151 @@ A young Western female street photographer walks through a lively downtown stree
 
 </details>
 
+<a id="wan-mumbai-pav-bhaji-vlog"></a>
+### 英国游客在孟买街头吃 pav bhaji
+
+<a href="https://x.com/AITalesNBH/status/2092352446676845016"><img src="../../previews/wan-mumbai-pav-bhaji-vlog.jpg" width="360"></a>
+
+为两位人物分别写固定的外形设定，保证各镜头中脸和服装一致；每个时间段都把机位、对白和声音提示写在一起。单独的音频部分与避免清单约束口型同步、环境声并禁止字幕。
+
+Wan 3.0 · 文生视频 · 出处: [@AITalesNBH on X](https://x.com/AITalesNBH/status/2092352446676845016) · 163 赞，统计于 2026-10-29
+
+[`vlog`](tags.md#tag-vlog) [`food`](tags.md#tag-food) [`dialogue`](tags.md#tag-dialogue) [`street-scene`](tags.md#tag-street-scene) [`mumbai`](tags.md#tag-mumbai)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second cinematic travel-food vlog set in Mumbai, India, filmed documentary-style with a handheld camera. Warm, crowded, lively and spontaneous atmosphere. Natural daylight, humid Mumbai air, subtle handheld movement, occasional autofocus shifts, realistic traffic, pedestrians, vendors and cooking sounds. No background music during conversations.
+
+This prompt is designed as a reusable universal template. The tourist, language, location and food can be changed independently while preserving the same structure, pacing and cinematic style.
+
+Maintain strict character consistency:
+
+The vlogger is a friendly British man in his early thirties, wearing a light linen shirt, dark trousers and a small backpack.
+
+The vendor is a friendly Mumbai street-food cook in his fifties, with a moustache, simple shirt and apron.
+
+Dialogue is in English. The vendor speaks clear English with a natural Indian accent—authentic and never exaggerated.
+
+00:00–00:04 — MUMBAI STREET
+
+Handheld selfie shot as the British tourist walks through a bustling Mumbai street with small shops, food stalls, pedestrians, taxis and auto-rickshaws.
+
+He notices a street stall where pav bhaji is being prepared on a large iron griddle, steam rising into the humid air.
+
+BRITISH MAN:
+“I’ve just found this street-food stall in Mumbai. That smells incredible!”
+
+He approaches the vendor.
+
+00:04–00:09 — THE VENDOR
+
+Medium handheld shot beside the sizzling tawa. The vendor rapidly mixes vegetables, tomatoes, spices and butter with a metal spatula.
+
+BRITISH MAN:
+“What are you making?”
+
+VENDOR:
+“Pav bhaji! Very famous Mumbai food.”
+
+BRITISH MAN:
+“Can I try it?”
+
+VENDOR:
+“Of course! Welcome to Mumbai!”
+
+00:09–00:16 — PREPARATION
+
+Fast cinematic food-vlog montage.
+
+Extreme close-up: butter melts across the hot tawa. The vendor adds tomatoes, onions, peppers, potatoes, vegetables and aromatic spices, vigorously crushing and mixing everything with two metal spatulas.
+
+CLACK—CLACK—CLACK.
+
+Steam rises toward the lens. Close-up of rich red-orange bhaji bubbling as fresh coriander is scattered over it.
+
+Soft pav bread rolls are sliced, buttered and toasted until golden.
+
+Capture melting butter, sizzling vegetables, toasted bread, steam and skilled hand movements.
+
+00:16–00:21 — SERVING
+
+The British man sits on a simple stool beside the stall.
+
+The vendor serves steaming pav bhaji topped with butter and coriander, with toasted pav, chopped onion and lime.
+
+VENDOR:
+“Try it with the pav—and squeeze some lime.”
+
+The tourist squeezes lime over the bhaji.
+
+00:21–00:27 — TASTING
+
+Close handheld shot. The British man tears off warm pav, dips it into the bhaji and takes a bite.
+
+He pauses, pleasantly surprised, then smiles at the vendor.
+
+BRITISH MAN:
+“Oh, wow! Spicy, buttery… absolutely delicious!”
+
+The vendor laughs proudly as Mumbai street life continues behind them.
+
+00:27–00:30 — ENDING
+
+Selfie framing with the vendor beside him and the steaming stall behind them.
+
+BRITISH MAN:
+“Proper Mumbai street food. You have to try this!”
+
+VENDOR:
+“Welcome to Mumbai!”
+
+They laugh. The camera swings toward the sizzling tawa as the vendor drops another piece of butter onto it.
+
+SSSSSSHHHH!
+
+Steam rises toward the camera.
+
+CUT TO BLACK.
+
+VISUAL & AUDIO DIRECTION
+
+Photorealistic, spontaneous Mumbai travel vlog. Authentic crowded streets, weathered shopfronts, pedestrians, black-and-yellow taxis, auto-rickshaws and dense Indian architecture. Handheld selfie footage, intimate vendor interactions, macro food photography, shallow depth of field and rapid, coherent editing.
+
+Authentic Mumbai soundscape: horns, traffic, pedestrians, vendors, metal spatulas striking the tawa, sizzling butter and utensils. Dialogue must be clear and precisely lip-synchronized.
+
+Avoid: subtitles, captions, logos, watermarks, distorted hands, duplicated people, changing faces or clothing, exaggerated accents, stereotypes, excessive camera shake, artificial-looking food, luxury settings or incorrect lip synchronization.
+```
+
+</details>
+
+<a id="h3-sequin-backstage-selfie-vlog-hallway"></a>
+### 身着亮片上衣的女孩后台自拍vlog
+
+<a href="https://x.com/Zyrellix/status/2105132975641735258"><img src="../../previews/h3-sequin-backstage-selfie-vlog-hallway.jpg" width="360"></a>
+
+每个节拍都有带时间戳的分镜和引号内的台词，让模型有清晰的顺序并能对上口型。手持自拍取景以及从走廊切到化妆间的镜头，保持了vlog质感和人物在各镜头间的一致性。
+
+MiniMax H3 · 文生视频 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/status/2105132975641735258) · 149 赞，统计于 2026-10-29
+
+[`selfie-vlog`](tags.md#tag-selfie-vlog) [`handheld`](tags.md#tag-handheld) [`dialogue`](tags.md#tag-dialogue) [`shot-list`](tags.md#tag-shot-list)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A glamorous young East Asian woman with long dark wavy hair, dewy glowing skin, winged eyeliner, glossy pink-red lips, and large sparkling teardrop crystal earrings. She wears a nude sheer mesh long-sleeve top densely covered in small silver rhinestones over a tight silver sequin bandeau crop top. Later she is seen in the full look: the same top plus a short black tulle tutu skirt and sparkly silver heels. Handheld selfie-style vlog, energetic, laughing, talking to camera.
+0–2s: Tight smiling close-up in a backstage hallway. She laughs and says “Hey guys, we’re backstage right now.” Camera slightly moves, revealing wooden doors and a long corridor.
+2–4s: She turns, showing the long institutional hallway with wooden handrails, fluorescent lights, people in the distance, and glowing red and green EXIT signs. She says “Look how long this hallway is.”
+4–6s: Close-up of a rectangular brushed stainless-steel wall plaque engraved “ZYRELLIX”. Her manicured finger with long nude-pink nails points at the letters. She says “That’s me. That’s my name. Here.”
+6–7s: Full-body shot of her walking confidently down the center of the long empty hallway toward camera, black tulle skirt bouncing, smiling.
+7–9s: She stands in a brightly lit dressing-room vanity with tall vertical LED light strips and a large mirror. In front of her is a stainless chafing dish filled with colorful candy packets. She adjusts her sequin top, puts hands on hips, smiles big and says “Okay, outfit check. How do I look?”
+9–11s: Back in the hallway, she holds a bright pink/yellow candy packet (like Skittles or similar), opens it, takes a piece, eats it, looks at camera and says “Snack table. Don’t mind if I do.”
+11–14s: She suddenly looks to the side, points with her finger, eyes widen, and says “Wait, wait, wait. That’s my cue. See you guys after the stage.” Then she turns and runs away down the long hallway, long hair swinging.
+Cinematic but casual concert-backstage vlog look, bright even lighting, sparkling fabrics, warm skin tones, slightly handheld camera. No extra text, no watermark, 15 seconds.
+```
+
+</details>
+
 <a id="h3-suburban-backyard-sky-falls-handheld-phone-video"></a>
 ### 郊区后院里天空整片坠落
 
@@ -690,6 +1166,165 @@ MiniMax H3 · 文生视频 · 出处: [@cocktailpeanut on X](https://x.com/cockt
 
 ```text
 A hyper-realistic handheld phone video of a quiet suburban backyard on a bright normal afternoon. A person casually waters plants near a fence while birds chirp, distant traffic hums, and everything feels completely ordinary and mundane. The camera drifts naturally like a real home video, capturing the lawn, patio furniture, and blue sky with soft white clouds. After several seconds of normal peaceful activity, a deep cracking sound suddenly comes from above. Without warning, the entire sky begins dropping straight downward like a gigantic solid ceiling, with the blue sky and clouds moving as one physical surface descending toward the yard. The person looks up in shock just as the sky rapidly fills the frame, swallowing the scene in a terrifying instant. The camera jerks and falls to the ground at the last moment. No cinematic buildup, no surreal visual style, it should feel like a totally normal real-life recording interrupted by one sudden impossible and visceral event.
+```
+
+</details>
+
+<a id="h3-korean-market-rainy-alley-walk"></a>
+### 韩国市场购物女子走入雨中小巷
+
+<a href="https://x.com/aiwithaly/status/2094643685338300751"><img src="../../previews/h3-korean-market-rainy-alley-walk.jpg" width="360"></a>
+
+提示词按时间顺序列出动作节拍（挑选蔬果、试吃、付钱、下雨），并在开头固定服装和发型描述，让角色在各个节拍中保持一致。结尾列出要避免的问题，如 CGI 人脸、瞬移、漂浮的袋子和慢动作，用来约束物理效果和镜头。
+
+MiniMax H3 · 文生视频 · 出处: [@aiwithaly on X](https://x.com/aiwithaly/status/2094643685338300751) · 111 赞，统计于 2026-10-29
+
+[`korean-market`](tags.md#tag-korean-market) [`rainy-alley`](tags.md#tag-rainy-alley) [`lifestyle`](tags.md#tag-lifestyle) [`handheld`](tags.md#tag-handheld)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-photorealistic cinematic 15-second Korean lifestyle film following a young Korean woman with long dark hair in a low ponytail, wearing a cream T-shirt, loose light-blue jeans, white sneakers, and carrying a beige reusable shopping bag. Maintain consistent face, hairstyle, clothing, proportions, and accessories throughout.
+
+She enters a lively traditional Korean market, walking naturally between crowded stalls while vendors call to customers and shoppers move around her. She stops at a produce stall, gently inspects peaches and tomatoes, selects fresh produce, and places them into her reusable bag. The bag swings naturally with her movement and becomes slightly heavier.
+
+She approaches a hot-food stall where a vendor stirs sizzling food in a metal pan. Steam rises naturally from the heat. The vendor offers her a small sample on a wooden pick. She tastes it and reacts with a subtle, genuine smile.
+
+She then pays the vendor with several coins, creating a soft metallic sound, secures her shopping bag, and walks toward the market exit.
+
+Transition into a narrow traditional Korean residential alley. As she walks beneath tiled rooftops, light rain begins to fall. The pavement gradually becomes wet, small ripples form in shallow puddles, and subtle reflections appear on the ground. She looks upward, smiles, pulls the shopping bag closer, and continues walking as the rain gently increases.
+
+End with a cinematic rear tracking shot as she disappears deeper into the peaceful rainy alley.
+
+100% photorealistic live-action, authentic Korean market atmosphere, natural human acting, realistic food preparation, physically accurate object interaction, believable gravity, momentum, friction, weight, steam convection, rain dynamics, wet pavement, natural hair and clothing movement, documentary-style handheld camera, realistic skin texture, cinematic depth of field, natural lighting, restrained color grading, smooth transitions, authentic ambient market and street sounds.
+
+No CGI look, no artificial faces, no robotic movement, no teleportation, no floating objects, no duplicated people, no changing face, clothing, or hairstyle, no unrealistic steam or rain, no weightless shopping bag, no fantasy physics, no excessive camera shake, no slow motion, no text, subtitles, logos, or watermark.
+```
+
+</details>
+
+<a id="h3-tokyo-night-selfie-train-vlog"></a>
+### 女生夜晚东京赶火车的手机vlog
+
+<a href="https://x.com/codewithhajra/status/2093896492000166116"><img src="../../previews/h3-tokyo-night-selfie-train-vlog.jpg" width="360"></a>
+
+用参考图锁定角色，并在每个时间段重复服装与五官约束，让人物在各个镜头之间保持一致。按秒分段写分镜、手持机位和台词，并列出环境音与列车提示音，让画面和声音节奏统一。
+
+MiniMax H3 · 参考生视频 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2093896492000166116) · 108 赞，统计于 2026-10-29
+
+[`tokyo`](tags.md#tag-tokyo) [`night-street`](tags.md#tag-night-street) [`character-lock`](tags.md#tag-character-lock) [`phone-vlog`](tags.md#tag-phone-vlog)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+FORMAT: 15 seconds | 9:16 vertical | Ultra-photorealistic smartphone vlog | Real-world Tokyo at night
+
+CHARACTER LOCK
+Use the attached girl as the exact character and identity reference throughout the entire video. Preserve her recognizable facial features, face shape, warm skin tone, brown eyes, natural makeup, soft features, and dark brown hair styled in a messy high bun with loose strands framing her face.
+She is an adult woman with a natural, approachable travel-vlogger appearance.
+
+OUTFIT LOCK
+
+Match the outfit shown in the storyboard:
+
+Cream-colored knit top
+
+Light beige lightweight jacket, worn open
+
+Charcoal/dark gray straight-leg trousers
+
+Clean white sneakers
+Small silver hoop earrings
+Simple silver wristwatch
+Minimal accessories
+Natural, understated makeup
+The hairstyle, face, outfit, accessories and overall appearance must remain identical across all six storyboard scenes.
+00–04s — RUNNING FOR IT
+Handheld selfie footage on a crowded Tokyo street at night.
+
+The girl from the attached reference walks quickly toward the camera, slightly out of breath. Her beige jacket moves naturally as she walks.
+
+Bright Tokyo signs, storefronts, pedestrians and traffic create an authentic nighttime city background.
+
+She looks directly into the phone camera and laughs:
+
+“Wait—my train leaves in two minutes!”
+
+She quickly turns the phone forward and starts jogging toward the station.
+
+04–08s — THE STATION
+
+Handheld camera follows her from behind and slightly beside her as she rushes down the station stairs.
+
+Her messy brown bun and beige jacket remain clearly recognizable.
+
+She reaches the ticket gate, taps her transit card and quickly passes through.
+
+The phone camera shakes naturally from her movement and briefly loses autofocus.
+
+08–12s — MADE IT
+
+She reaches the platform just as the train arrives.
+
+The camera captures the approaching train headlights before returning to her face.
+
+She steps inside, turns the phone toward herself and smiles while catching her breath.
+
+She says:
+
+“I actually made it!”
+
+The train doors close behind her.
+
+12–15s — TOKYO THROUGH THE WINDOW
+
+Inside the train, she turns the phone toward the window.
+
+Tokyo's illuminated buildings and streets naturally blur past as the train accelerates.
+
+Her face appears softly reflected in the glass.
+
+She looks toward the city and quietly says:
+
+“Okay… Tokyo at night hits different.”
+
+Natural cut.
+
+REALISM & CHARACTER CONSISTENCY
+
+Same attached girl in every shot. No character changes.
+
+Maintain the exact:
+
+Facial identity
+
+Brown eyes
+
+Dark brown messy high bun
+
+Loose face-framing hair strands
+Skin tone
+Facial proportions
+Cream knit top
+Beige jacket
+Charcoal trousers
+White sneakers
+Silver earrings
+Wristwatch
+Natural skin texture, realistic hair strands, authentic blinking, subtle facial expressions and believable body movement.
+No outfit changes, no hairstyle changes, no different woman, no face morphing, no beauty-filter effect.
+
+VISUAL STYLE
+Authentic handheld smartphone footage rather than a polished movie.
+
+Natural motion blur, autofocus hunting, slight exposure shifts, realistic low-light phone noise, imperfect framing, natural Tokyo crowds and physically accurate movement.
+
+No cinematic transitions, no fantasy effects, no exaggerated neon, no artificial-looking skin, no duplicated people, no impossible camera movement.
+
+AUDIO
+Natural Tokyo ambience, footsteps, station announcements, crowd noise, train brakes, door chime and her real voice.
+
+No background music, no subtitles, no watermark.
 ```
 
 </details>
@@ -880,6 +1515,382 @@ No jump cuts during transformations. No duplicated character. No distorted hands
 
 </details>
 
+<a id="seedance-amazon-canoe-selfie-guide"></a>
+### 游客自拍，向导同乘独木舟行驶在亚马逊河上
+
+<a href="https://x.com/Diplomeme/status/2085961080883618249"><img src="../../previews/seedance-amazon-canoe-selfie-guide.jpg" width="360"></a>
+
+用定时分镜、固定的格式模块和连续性清单，让独木舟、向导和器材在每个镜头中保持一致。自拍取景、遮挡画面的植被和禁止电影式稳定的要求营造手持纪实感，同时禁止接触和刻板服装，让远处的人保持距离和尊重。
+
+Seedance 2.5 · 文生视频 · 出处: [@Diplomeme on X](https://x.com/Diplomeme/status/2085961080883618249) · 75 赞，统计于 2026-10-29
+
+[`handheld-vlog`](tags.md#tag-handheld-vlog) [`documentary`](tags.md#tag-documentary) [`amazon`](tags.md#tag-amazon) [`storyboard`](tags.md#tag-storyboard)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+THE PEOPLE WHO DON'T WANT TO BE FOUND
+
+FORMAT
+30 seconds | 16:9 | live-action adventure vlog / documentary
+Fictional dramatization. Fictionalized Indigenous community. Not a recreation of any specific real isolated tribe.
+Authentic handheld travel-vlog realism with cinematic documentary cinematography.
+
+CORE CONCEPT
+A young travel vlogger and an experienced local Amazon guide travel deep into the rainforest by small wooden boat, hoping to document signs of a remote, isolated Indigenous community. They unexpectedly notice distant human figures across the river. The guide immediately signals them to stop and leave. The encounter remains distant and observational; the visitors never approach, communicate with, or enter the community's territory.
+
+CHARACTERS
+
+VLOGGER
+Young adult travel filmmaker, practical expedition clothing, weathered backpack, compact handheld camera, small microphone, natural appearance.
+Curious and energetic at the beginning, gradually becoming quiet and cautious.
+
+LOCAL GUIDE
+Experienced Amazonian river guide, practical field clothing, calm and observant, familiar with the river and rainforest.
+He communicates primarily through subtle gestures and brief whispered instructions.
+
+Maintain identical faces, clothing, backpacks, camera equipment and physical characteristics throughout the entire sequence.
+
+ENVIRONMENT
+
+Deep Amazon rainforest during humid late afternoon.
+Dense layered vegetation, enormous trees, vines, broad leaves, muddy riverbanks, dark water reflecting the canopy, floating vegetation, insects, distant birds and constantly moving foliage.
+
+Heavy humidity visible through moisture on skin, wet clothing and condensation on camera equipment.
+
+No tourist infrastructure, roads, buildings or modern development visible in the deep rainforest.
+
+STORYBOARD
+
+00–04s — COLD OPEN
+
+Begin with authentic handheld selfie footage from inside a narrow wooden canoe moving through a remote Amazon river.
+
+The vlogger quietly addresses the camera while holding it close to his face.
+
+He looks excited but slightly nervous.
+
+He suddenly turns the camera toward the guide.
+
+The guide has stopped paddling and is staring toward dense vegetation on the riverbank.
+
+The guide raises one finger to his lips, signaling silence.
+
+Natural boat rocking, water movement and imperfect handheld framing.
+
+04–08s — INTO THE UNKNOWN
+
+Cut to a forward-facing handheld view from inside the moving canoe.
+
+The boat glides deeper into an increasingly narrow section of river surrounded by dense vegetation.
+
+The vlogger whispers to the camera while keeping his voice low.
+
+The guide carefully scans both banks.
+
+A strange human-sized movement briefly disappears behind vegetation far ahead.
+
+The camera attempts to follow it but loses the subject naturally behind leaves.
+
+Do not reveal the community yet.
+
+08–12s — DISCOVERY
+
+The guide suddenly stops the canoe.
+
+The camera moves toward him as he quietly points toward the opposite riverbank.
+
+On the muddy shoreline are fresh human footprints and several simple recently used objects partially concealed beneath vegetation.
+
+The vlogger's expression changes from excitement to uncertainty.
+
+He slowly lowers the camera.
+
+Nobody speaks for a moment.
+
+12–16s — THE SIGHTING
+
+Longer observational shot across the river.
+
+Through multiple layers of dense foliage, several distant human figures briefly become visible on the far bank.
+
+They remain very small in frame and partially obscured by vegetation.
+
+They do not approach the camera.
+
+The vlogger instinctively raises the camera to record but the guide immediately places a hand on his arm and signals him to stop filming.
+
+The camera lowers slightly, creating an imperfect partially obstructed view.
+
+16–20s — REALIZATION
+
+Close handheld shot of the vlogger looking toward the guide.
+
+The guide whispers quietly that they need to leave.
+
+The vlogger looks back toward the distant riverbank.
+
+Another figure briefly appears between the trees before disappearing.
+
+No dialogue explaining the tribe.
+The audience understands the significance through the characters' reactions.
+
+20–24s — RETREAT
+
+The guide slowly turns the canoe around without sudden movement.
+
+The wooden boat pivots naturally in the narrow river.
+
+The vlogger looks backward over his shoulder while keeping the camera low.
+
+The distant figures remain barely visible through vegetation for a moment before disappearing completely.
+
+The camera shakes subtly with the boat's movement.
+
+24–27s — DISTANCE
+
+The canoe moves away downstream.
+
+The vlogger looks directly into the camera.
+
+He is no longer excited; he is visibly processing what just happened.
+
+He quietly says:
+
+"We should leave them alone."
+
+Keep the delivery natural, understated and unscripted rather than dramatic.
+
+27–30s — FINAL IMAGE
+
+Long observational shot from inside the departing canoe.
+
+The camera looks back toward the distant rainforest.
+
+For a brief moment, one indistinct human figure stands between the trees on the riverbank.
+
+The figure remains far away and partially concealed.
+
+The canoe continues downstream until vegetation completely blocks the view.
+
+Cut to black.
+
+No victory moment.
+No chase.
+No confrontation.
+No direct contact.
+
+CAMERA SYSTEM
+
+Authentic modern travel-vlog camera language.
+
+Primary camera:
+handheld mirrorless / compact cinema camera operated by the vlogger.
+
+Mix:
+selfie-vlog framing
+handheld observational shots
+over-the-shoulder views
+long-lens distant observation
+low camera position inside the canoe
+brief environmental wides
+
+Camera should feel physically operated by a real person sitting inside a moving canoe.
+
+Natural hand movement.
+Small framing corrections.
+Occasional imperfect focus.
+Subtle autofocus adjustments.
+Natural motion blur.
+Minor camera shake caused by the moving boat.
+
+Do not use impossible drone transitions.
+
+Do not create perfectly stabilized cinematic movements.
+
+The camera should sometimes struggle to see through foliage.
+
+ENVIRONMENTAL PHYSICS
+
+The canoe has believable weight and displacement.
+
+Water reacts naturally to the paddle and hull.
+
+Small waves move around the canoe.
+
+Vegetation moves independently in the humid breeze.
+
+Leaves brush naturally against the canoe.
+
+Clothing responds to humidity and wind.
+
+Wet surfaces remain visibly wet.
+
+Water droplets occasionally accumulate on the camera lens.
+
+Insects move naturally through foreground and background.
+
+No floating objects without physical cause.
+
+HUMAN PERFORMANCE
+
+The vlogger begins naturally enthusiastic and curious.
+
+His behavior gradually changes when the guide signals him to stop.
+
+Use subtle eye movements, lowered voice, controlled breathing and hesitation.
+
+The guide remains calm and experienced rather than frightened.
+
+The guide's decision to leave is immediate but restrained.
+
+No screaming.
+No exaggerated fear.
+No heroic behavior.
+No theatrical reactions.
+
+VISUAL REALISM
+
+Photorealistic live-action footage.
+
+Authentic Amazon rainforest density.
+
+Natural skin texture.
+
+Real wet fabric.
+
+Real mud and water interaction.
+
+Subtle sweat and humidity on skin.
+
+Natural imperfections in clothing and equipment.
+
+Realistic depth separation through foliage.
+
+Natural atmospheric haze.
+
+Subtle digital sensor noise.
+
+Organic motion blur.
+
+Natural color reproduction.
+
+Avoid excessive HDR.
+
+Avoid oversaturated tropical greens.
+
+Avoid fantasy-jungle aesthetics.
+
+AUDIO
+
+Synchronized production audio.
+
+Constant Amazon rainforest ambience:
+insects
+birds
+distant animal calls
+moving water
+wind through leaves
+paddle entering water
+wooden canoe creaking
+clothing movement
+quiet breathing
+
+Vlogger's voice recorded naturally close to the camera.
+
+Dialogue should sound spontaneous and quiet.
+
+At the sighting, environmental sound becomes the dominant element.
+
+No dramatic musical swell during the discovery.
+
+No oversized Hollywood trailer effects.
+
+No artificial cinematic bass hits.
+
+LIGHTING
+
+Natural late-afternoon rainforest lighting.
+
+Soft sunlight filters through the canopy.
+
+Strong variations between bright patches and deep green shadow.
+
+Natural reflections on the river.
+
+Realistic exposure changes as the camera turns from the bright river toward darker vegetation.
+
+Occasional sun flare caused naturally by the lens.
+
+No artificial rim lighting.
+
+No studio lighting.
+
+CONTINUITY
+
+The same vlogger, guide, canoe, backpacks, clothing and camera equipment remain consistent throughout.
+
+The canoe's physical position, direction of travel and orientation must remain coherent.
+
+The river geography remains consistent.
+
+The same rainforest density, weather and lighting conditions continue throughout.
+
+The distant community remains geographically across the same riverbank.
+
+The figures must never suddenly appear close to the camera.
+
+Every shot begins from the physical state established by the previous shot.
+
+The final shot must clearly feel like the same continuous expedition recorded moments earlier.
+
+NEGATIVE CONSTRAINTS
+
+Do not depict a specific real isolated tribe.
+
+Do not use recognizable cultural identifiers from a real Indigenous community.
+
+Do not portray the Indigenous people as primitive, savage, threatening or supernatural.
+
+Do not show direct contact.
+
+Do not show the vlogger entering their settlement.
+
+Do not show confrontation or pursuit.
+
+Do not create weapons or threatening gestures.
+
+Do not use stereotypical costumes.
+
+Do not create fantasy or adventure-movie jungle imagery.
+
+No CGI appearance.
+No video-game aesthetics.
+No excessive HDR.
+No oversaturated colors.
+No impossible camera movements.
+No artificial slow motion.
+No perfectly choreographed movement.
+No beauty-filter faces.
+No subtitles or watermarks.
+
+OVERALL CREATIVE DIRECTION
+
+The film should feel like genuine expedition footage that unexpectedly becomes extraordinary.
+
+The first half feels like an adventurous travel vlog.
+
+The middle shifts into quiet uncertainty.
+
+The final seconds become observational and respectful.
+
+The emotional payoff is not "we found a tribe."
+
+The emotional payoff is realizing that the people being observed have their own world and choosing to leave it undisturbed.
+```
+
+</details>
+
 <a id="h3-purikura-sticker-capsule-toy-iphone-vlog"></a>
 ### 大头贴贴纸与扭蛋机的手机随拍日常
 
@@ -944,6 +1955,303 @@ Goal: A small, grounded gardening moment warm, patient, authentic.
 
 </details>
 
+<a id="h3-woman-kitchen-dachshund-living-room"></a>
+### 女子走过厨房进入客厅
+
+<a href="https://x.com/EndFolding79421/status/2110497810554536216"><img src="../../previews/h3-woman-kitchen-dachshund-living-room.jpg" width="360"></a>
+
+一段短视频参考锁定整个房间布局，两张图分别固定女子和小狗的外观。明确禁止镜像、移动家具或增加人物，使转身后露出的区域与参考保持一致。
+
+MiniMax H3 · 参考生视频 · 出处: [@EndFolding79421 on X](https://x.com/EndFolding79421/status/2110497810554536216) · 73 赞，统计于 2026-10-29
+
+[`video-reference`](tags.md#tag-video-reference) [`interior`](tags.md#tag-interior) [`pet`](tags.md#tag-pet) [`continuity`](tags.md#tag-continuity)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+MiniMax H3 — Another Video Reference Test, But This Time for Locations!
+
+This time, instead of using a video reference for a character, I'm testing whether we can use one to keep an entire scene consistent. In this case, the inside of a home.
+
+I started with a still image and used Seedance to generate an 8-second video (video included) showing more of the room. But you could use just about any AI video generator, or even grab your cellphone and record a clip yourself.
+
+One of the biggest problems I've run into when making AI videos is keeping the environment consistent from shot to shot.
+
+Before this, I relied on AI-generated images, screenshots, or sometimes even DAZ Studio renders to establish a location.
+
+The problem is that when the camera starts looking around, AI tends to invent things to fill in the gaps. A chair might be there in one shot and gone in the next, furniture changes color, or the room layout suddenly looks completely different.
+
+So I wanted to test something. What if H3 had a video reference showing more of the actual room instead of just a single image? Would that help it maintain the environment more consistently?
+
+Now, here's a little tip I discovered while testing.
+
+Originally, generating a 10-second H3 clip using the video reference took around 36 minutes.
+
+So I went back into Camtasia and used its Add Clip Speed feature to speed up the original 8-second reference video and cut it to just 4 seconds (video included).
+
+Then I reduced the reference resolution from 1280×720 to 640×360. I might even try going lower, perhaps 540p or 480p, to see how far I can push it.
+
+The result?
+
+Original render: approximately 36 minutes
+Optimized reference render: 19 minutes, 17 seconds
+
+That's nearly half the rendering time.
+
+Now, this is only my first test, and there's still more experimenting to do. I also can't say yet how much of that improvement came from shortening the video versus lowering its resolution.
+
+But overall, I'm not unhappy with the results.
+
+Prompt:...r34l1sm
+
+For the target video, reference <Video 1> for the complete interior environment, <Picture 1> for the woman's appearance, and <Picture 2> for the dog's appearance.
+
+subject_definitions:
+
+<Subject 1> is the adult woman from <Picture 1>. Preserve her exact facial identity, long brown hair, natural body proportions, clothing, blue jeans, and appearance. There is exactly ONE woman.
+
+<Subject 2> is the small dachshund from <Picture 2>. Preserve its exact breed, black-and-tan coloring, long body, short legs, floppy ears, and natural proportions. There is exactly ONE dog.
+
+<Subject 3> is the house interior from <Video 1>. This video is the MASTER ENVIRONMENT REFERENCE. Preserve the exact kitchen, dining area, living room, furniture arrangement, walls, windows, doorways, flooring, cabinets, and spatial relationships. The reference video establishes the real layout of the house, including areas revealed as the camera moves. Do not redesign, rearrange, or invent rooms or furniture.
+
+integrated_multimodal_description:
+
+[Shot 1 — 00:00–00:04]
+Photorealistic cinematic live-action. Natural daytime interior lighting matching <Video 1>.
+
+The woman stands in the kitchen, clearly visible in a medium-wide shot. She begins walking naturally along the kitchen toward the adjoining living room.
+
+The camera smoothly tracks alongside and slightly behind her, maintaining the correct kitchen background and architectural layout established by <Video 1>.
+
+[Shot 2 — 00:04–00:07]
+Continue the same uninterrupted camera movement.
+
+As the woman reaches the living room entrance, she turns RIGHT.
+
+The camera follows her turn with a smooth, natural pan, revealing the living room from the corresponding angle in <Video 1>.
+
+The sofa, chairs, windows, walls, and other furniture remain in their original reference positions.
+
+A small dachshund is standing on the floor directly in front of a living room chair, looking up toward the approaching woman.
+
+[Shot 3 — 00:07–00:10]
+The woman notices the dachshund and stops walking.
+
+The camera settles into a natural medium-wide composition showing both the woman and the dog, with the living room clearly visible behind them.
+
+The dachshund remains standing in front of the chair, tilting its head slightly while looking up at her.
+
+The woman looks down at the dog and smiles warmly.
+
+End with both subjects clearly visible and the surrounding room recognizable from <Video 1>.
+
+CAMERA AND CONTINUITY RULES:
+One continuous 10-second shot.
+No cuts, teleportation, or sudden camera jumps.
+Smooth tracking and natural rightward camera rotation.
+Maintain consistent architectural geometry throughout.
+Preserve the exact environment shown in <Video 1>, including previously hidden areas revealed by camera movement.
+Do not mirror or reverse the room.
+No changing furniture positions.
+No additional people or animals.
+Realistic walking, natural body mechanics, accurate anatomy.
+No artificial cinematic lighting changes.
+No dialogue.
+
+overall_soundscape:
+Quiet natural household ambience. Soft footsteps on the floor, subtle clothing movement, faint room tone, and a gentle sound of the dog's paws shifting on the floor. No barking.
+
+non_diegetic_music:
+None.
+```
+
+</details>
+
+<a id="h3-woman-koi-splash-japanese-canal-vlog"></a>
+### 女子被巨型锦鲤溅水后大笑
+
+<a href="https://x.com/Just_Anika_Here/status/2109495486138999114"><img src="../../previews/h3-woman-koi-splash-japanese-canal-vlog.jpg" width="360"></a>
+
+按时间段列出的分镜表让每个时刻只有一个明确动作，手持手机的晃动、自动对焦跳动和列出的环境音效则让画面保持随意感。参考图只用于锁定人物身份，使她的面容和发型在整段视频中保持一致。
+
+MiniMax H3 · 参考生视频 · 出处: [@Just_Anika_Here on X](https://x.com/Just_Anika_Here/status/2109495486138999114) · 69 赞，统计于 2026-10-29
+
+[`handheld`](tags.md#tag-handheld) [`timed-beats`](tags.md#tag-timed-beats) [`reference-identity`](tags.md#tag-reference-identity) [`koi`](tags.md#tag-koi)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create ultra-realistic spontaneous vertical iPhone footage during a sunny summer afternoon in a small Japanese riverside town.
+
+Use the provided reference image ONLY as the identity reference for the main woman. Keep her facial identity, hairstyle, skin tone, proportions, and overall appearance perfectly consistent throughout the video.
+
+The video should feel like a friend casually recording an unplanned travel adventure. Natural handheld smartphone movement, imperfect framing, occasional autofocus hunting, realistic sunlight and exposure changes, authentic environmental audio, and spontaneous human reactions. No staged acting or cinematic presentation.
+
+0–3s
+The woman walks along a narrow stone path beside a clear Japanese canal, holding a cold bottled drink. Traditional wooden houses, small bridges, green plants, and bicycles line the quiet street. She notices several enormous colorful koi fish gathering near the water's edge and leans forward curiously to get a better look.
+
+3–6s
+As she crouches slightly to film the fish, one giant koi suddenly splashes its tail near the edge, sending water droplets onto her arm and the camera lens. She instantly pulls back in surprise, almost dropping her drink, while the person filming lets out a spontaneous laugh.
+
+6–9s
+She starts laughing at her own reaction and points toward the unusually large fish. Another koi swims rapidly to the surface, creating ripples and splashes. The camera hurriedly tilts down to capture the fish before swinging back to her amused expression.
+
+9–12s
+A local elderly man standing nearby gently tosses a little fish food into the canal. Several koi rush toward the surface together, creating a sudden burst of colorful movement in the water. The woman steps closer to watch, visibly delighted, while trying to keep her drink away from the splashes.
+
+12–15s
+She turns toward the camera with a wide, disbelieving smile and gestures excitedly toward the fish, as if telling her friend to look at them. A cyclist unexpectedly passes close behind her, making the camera shift sideways to avoid the bicycle. The footage ends abruptly in the middle of her laughter.
+
+Visual style: Bright natural afternoon sunshine, realistic reflections on water, authentic Japanese countryside architecture, lush green plants, subtle summer humidity, natural skin texture, realistic koi movement, ordinary vacation atmosphere, genuine reactions, raw handheld smartphone footage.
+
+Audio: Running water, birds chirping, bicycle bell, distant footsteps, koi splashing, quiet neighborhood ambience, and spontaneous laughter. No background music, no narration, no scripted dialogue.
+
+Avoid: Festival scenes, parades, fireworks, staged performances, cinematic camera movements, slow motion, commercial aesthetics, beauty filters, exaggerated acting, duplicated fish, distorted hands, unrealistic water physics, artificial skin, changing character identity, and AI visual artifacts.
+```
+
+</details>
+
+<a id="h3-cafe-woman-notices-first-snow"></a>
+### 年轻女子在咖啡馆发现初雪
+
+<a href="https://x.com/iamrealsnow/status/2091093399084708112"><img src="../../previews/h3-cafe-woman-notices-first-snow.jpg" width="360"></a>
+
+按时间顺序写出一连串动作：在咖啡馆喝饮品、拿出手机、走到户外、雪花落在袖子上、抬头微笑，15秒内节奏清楚。明确写出手持 vlog 拍摄风格，并对比温暖室内与冷蓝户外的色调，让运镜和调色有明确方向；结尾加上不要字幕，避免画面出现文字。
+
+MiniMax H3 · 文生视频 · 出处: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2091093399084708112) · 64 赞，统计于 2026-10-29
+
+[`vlog`](tags.md#tag-vlog) [`winter`](tags.md#tag-winter) [`snow-physics`](tags.md#tag-snow-physics) [`handheld`](tags.md#tag-handheld)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a dreamy 15-second Korean winter vlog. A young woman sits inside a minimalist café holding a hot drink when she notices the first snow beginning outside. She excitedly grabs her phone, walks outside, catches a snowflake on her sleeve, and looks up smiling. Soft Korean winter atmosphere, warm café interior contrasting with cold blue outdoors, realistic snow physics, handheld vlog footage, cinematic and natural, no text.
+```
+
+</details>
+
+<a id="wan-ugc-viral-restaurant-food-review"></a>
+### 自拍博主试吃爆红餐厅的招牌菜
+
+<a href="https://x.com/Diplomeme/status/2092662950633123914"><img src="../../previews/wan-ugc-viral-restaurant-food-review.jpg" width="360"></a>
+
+提示词用手机前置自拍的真实感描述（手持抖动、自动对焦来回切换、曝光随明暗变化），并明确禁止电影化运镜和配乐，让画面像真实博主的素材。连续性条款固定人物外观和菜品形态，使各镜头之间保持一致。
+
+Wan 3.0 · 文生视频 · 出处: [@Diplomeme on X](https://x.com/Diplomeme/status/2092662950633123914) · 61 赞，统计于 2026-10-29
+
+[`ugc`](tags.md#tag-ugc) [`food-review`](tags.md#tag-food-review) [`selfie`](tags.md#tag-selfie) [`smartphone`](tags.md#tag-smartphone) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+They call it AI slop, but i dont think Food influencers will have a peaceful future now
+
+Generated with Wan 3.0 1080P
+
+Try it with prompt : WAN 3.0 — UGC: I TRIED THE VIRAL RESTAURANT **OUTPUT** Authentic vertical UGC food-review video, 16:9 smartphone footage, approximately 30 seconds. The entire sequence feels like a real creator spontaneously documenting their visit to a viral restaurant for TikTok or Instagram Reels. One continuous visit with natural temporal progression, not a polished commercial. **SUBJECT** A young male food creator in his mid-20s, casual black T-shirt, light overshirt, short dark hair and light stubble. He holds a modern smartphone at arm's length while filming himself. His personality is curious and energetic but not exaggerated. Maintain consistent face, hairstyle, clothing and physical appearance throughout. **WORLD** A massively viral contemporary restaurant in a busy upscale city neighborhood during dinner time. A long queue extends outside the entrance, groups of young customers are filming their food, warm interior lighting spills onto the sidewalk, staff move quickly between tables and the dining room is visibly crowded. Inside, the restaurant has modern industrial interiors, stainless-steel cooking equipment, warm wood tables and an open kitchen. **ACTION** The creator begins outside the restaurant, holding the phone toward himself and speaking naturally: “Okay, I finally tried the restaurant that’s literally everywhere on my feed.” He turns the phone toward the long queue and crowded entrance. Cut naturally to him seated inside. He shows the menu, then flips the camera toward the kitchen as the staff prepare the restaurant's viral signature dish. The dish arrives dramatically, steaming and freshly plated. He brings the phone closer for a handheld food close-up, then takes one bite. There is a brief pause as he processes the flavor. His expression changes from skeptical to genuinely surprised. He looks directly into the camera and says: “Wait… this is actually insane.” He takes another bite, laughs naturally and finishes with: “Okay, I get the hype.” **CAMERA** Modern smartphone camera, vertical 9:16 framing. Primarily handheld front-facing selfie footage with occasional rear-camera POV. Natural arm movement, imperfect framing and subtle hand shake. Autofocus briefly hunts when the phone moves from the creator's face to the food, then locks onto the dish. Automatic exposure adjusts naturally when moving between the bright entrance and warmer interior. Occasional slight cropping of the creator's face and spontaneous reframing. Food close-ups are handheld rather than professionally staged. No gimbal movement, crane shots or cinematic camera choreography. **LOOK** Authentic contemporary smartphone image quality: realistic skin texture, natural dynamic range, subtle computational sharpening, believable smartphone HDR, mild motion blur and light social-media compression. Warm practical restaurant lighting mixed with cooler ambient light from outside. Realistic reflections on plates, glassware and stainless steel. The food looks appetizing but physically real, with visible steam, sauce movement and natural texture. No commercial food photography aesthetic. **SOUND** Direct smartphone microphone recording. Natural creator dialogue with spontaneous pauses and slight background bleed. Busy restaurant ambience, conversations, cutlery, plates, kitchen activity, sizzling food and distant staff voices. Food sounds remain subtle and realistic. No background music, cinematic sound design or artificial voice-over. **CONTINUITY / CONSTRAINTS** Preserve the same creator, clothing, restaurant layout, table position and food appearance throughout. The viral dish must remain geometrically consistent between shots. Maintain realistic smartphone perspective and handheld behavior. No professional camera movements, no studio lighting, no beauty-filter appearance, no excessive color grading, no exaggerated facial reactions, no duplicated customers, no changing restaurant architecture, no warped hands or utensils, no disappearing food, no impossible object movement and no artificial slow motion.
+```
+
+</details>
+
+<a id="wan-elderly-moroccan-man-golden-hour-home-video"></a>
+### 傍晚村庄水井旁的老人
+
+<a href="https://x.com/Strength04_X/status/2092549618500546628"><img src="../../previews/wan-elderly-moroccan-man-golden-hour-home-video.jpg" width="360"></a>
+
+按时间拆分的短动作分镜让画面始终围绕同一人物，镜头描述写明不要稳定器、自动对焦在逆光中反复调整、暖色数码噪点等瑕疵，使成片像家庭录像而不是电影。主体外观在提示中完整重复，有助于各段保持面部和服装一致。
+
+Wan 3.0 · 文生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2092549618500546628) · 59 赞，统计于 2026-10-29
+
+[`home-video`](tags.md#tag-home-video) [`documentary`](tags.md#tag-documentary) [`golden-hour`](tags.md#tag-golden-hour) [`handheld`](tags.md#tag-handheld) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Wan 3.0 on
+@openart_ai
+
+
+Prompt b- Create a 30-second, 1080p ultra-realistic documentary-style personal home video showing an ordinary golden-hour evening in the life of an elderly Moroccan man. The footage should feel spontaneous, intimate, imperfect, and genuinely observed rather than performed.
+MAIN SUBJECT
+The same elderly man in his early 70s throughout the entire video.
+Deeply sun-weathered skin, kind and weary eyes, short white beard, calm dignified expression.
+He wears a light sand-colored djellaba, worn leather sandals, and a simple woven cap.
+Keep his face, identity, body proportions, and clothing completely consistent from beginning to end.
+LOCATION
+A small desert-edge village during golden hour. Mudbrick houses, narrow sandy alleys, a few palm trees, a well, tethered goats, low stone benches, and long dramatic shadows from the low sun.
+The village should feel authentic and lived-in. No crowds, tourist attractions, advertisements, or commercial branding.
+CAMERA / VISUAL STYLE
+Authentic casual personal-video footage from an older consumer digital camera, handheld by a grandchild walking nearby.
+Natural camera shake, imperfect framing, autofocus adjusting to strong backlight, soft detail, mild motion blur, warm-toned digital noise, imperfect white balance, occasional lens flare from the low sun.
+No stabilization, gimbal movement, drone shots, cinematic lighting, slow motion, or polished color grading.
+00:00–00:05 — SITTING BY THE WELL
+He sits on a low stone bench near the village well, resting both hands on a wooden cane.
+He looks toward the setting sun, eyes narrowing slightly against the light.
+He notices the camera and gives a slow, warm nod.
+00:05–00:10 — WALKING THROUGH THE ALLEY
+He rises slowly and walks through a narrow sandy alley, cane tapping the ground with each step.
+The camera follows a few steps behind, dust faintly visible in the golden light.
+00:10–00:14 — SMALL EVERYDAY MOMENT
+He stops to pet a tethered goat, speaking softly to it, not clearly audible.
+The goat nudges his hand and he chuckles quietly.
+00:14–00:19 — GREETING A NEIGHBOR
+He passes a younger man carrying firewood and exchanges a brief warm greeting, hands touching chest in respect.
+The camera catches only part of the exchange before drifting slightly off-frame.
+00:19–00:23 — WIND AND SAND
+A gentle desert wind kicks up fine sand around his feet.
+He shields his eyes briefly with one hand and continues walking, unbothered.
+00:23–00:27 — QUIET MOMENT
+He reaches a low wall overlooking the open desert and stops, watching the sun sink lower.
+He turns partway toward the camera and gives a small, genuine smile.
+00:27–00:30 — WALKING HOME
+He turns and walks slowly back toward the village, cane tapping steadily.
+The camera lingers on his figure against the golden horizon.
+At approximately 00:29, the recording abruptly cuts to black mid-motion. No fade-out.
+PHYSICAL REALISM
+Maintain believable physics for the cane, sand, goat, fabric of the djellaba, and his footing throughout. No distorted anatomy, floating objects, or sudden transformations.
+AUDIO
+Natural environmental audio only: cane tapping, wind, distant goats, faint voices, sand shifting underfoot. No music, no narration, no artificial sound effects.
+FINAL FEEL
+Quiet, dignified, weathered, nostalgic, warm, and deeply human a forgotten personal recording of an ordinary golden-hour evening in the desert.
+```
+
+</details>
+
+<a id="wan-japanese-street-candid-glance"></a>
+### 黑长发女生在日本街头回望镜头
+
+<a href="https://x.com/Pengchenop/status/2109467882153480285"><img src="../../previews/wan-japanese-street-candid-glance.jpg" width="360"></a>
+
+参考图锁定人脸，提示词按顺序安排动作节拍：先低头看手机，街边声音带动抬头，最后视线与镜头相遇。手持运镜和日系胶片色调让画面像随手抓拍的街头照片。
+
+Wan 3.0 · 参考生视频 · 出处: [@Pengchenop on X](https://x.com/Pengchenop/status/2109467882153480285) · 58 赞，统计于 2026-10-29
+
+[`reference-image`](tags.md#tag-reference-image) [`japanese-street`](tags.md#tag-japanese-street) [`handheld-camera`](tags.md#tag-handheld-camera)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Based on the provided character reference image, maintain the character's original facial features, proportions of facial features, and overall temperament, and generate a segment of ultra-high-definition, cinematic realistic style Japanese street life short film.
+
+The scene is set on a sunny and bright morning, on a Japanese street full of life. Both sides of the street are lined with various small shops, with signs and buildings staggered in an orderly manner. In the distance, pedestrians riding bicycles and slowly passing vehicles appear from time to time, creating an authentic and natural urban daily atmosphere.
+
+The character stands in a safe area by the roadside, with soft black long hair naturally cascading down. A gentle breeze lightly blows the hair tips, with a few strands of hair brushing across the cheeks with the wind. Warm morning light spills from the front side, illuminating the character's facial contours and hair strands, forming a soft and translucent natural glow.
+
+The character has delicate and harmonious facial features, a straight nose bridge, and naturally delicate skin, exuding an overall pure and gentle, slightly lazy senior sister temperament. She carries a black high-end textured leather bag over one shoulder, holds her phone casually in both hands, and her body posture is relaxed and at ease.
+
+The camera slowly approaches in a handheld street photography style, accompanied by slight natural shakes. The character first looks down at her phone, then is drawn by the sounds from the street side, gently raises her head, and her gaze inadvertently meets the lens, revealing a naturally relaxed expression. The entire process has no deliberate posing feel.
+
+A breeze blows through the street, and a few sycamore leaves slowly drift down. In the background, pedestrians, vehicles, and tree shadows move naturally, with realistic and delicate light and shadow changes on the building surfaces.
+
+The footage adopts a fresh Japanese film snapshot color tone, bright and translucent, with soft colors, retaining authentic skin textures and natural light levels. The composition has a slightly casual and irregular feel, simulating a life moment accidentally captured by a photographer on the street.
+
+4K ultra-high-definition quality, 24fps, realistic physical lighting, natural depth of field, delicate dynamic performance, highly consistent character facial features, smooth and coherent movements, no obvious AI generation traces.
+
+Negative prompt: excessive skin smoothing, plastic skin, exaggerated beautification, facial feature distortion, character face swap, deformed fingers, limb twisting, hair clipping, background flickering, vehicle deformation, stiff movements, severe lens shake, over-sharpening, fake light and shadow, cartoon texture, CG rendering feel.
+```
+
+</details>
+
 <a id="h3-crab-steals-phone-harbor"></a>
 ### 巨蟹在渔港抢走女生手机
 
@@ -1003,6 +2311,40 @@ amateur handheld pov footage of a tourist in their plush and comfortable room of
 
 </details>
 
+<a id="h3-japan-bus-vlog-somen-stream"></a>
+### 女子乘坐青绿色巴士穿越日本乡村田野
+
+<a href="https://x.com/harboriis/status/2092469535844733357"><img src="../../previews/h3-japan-bus-vlog-somen-stream.jpg" width="360"></a>
+
+提示词按镜头规格、主体与环境设定、带时间码的分镜和英文台词分段书写，每个节拍都有独立的镜头和口型台词。用35mm镜头和f/1.8光圈加上光线与虚化描述，固定电影感的画面风格。
+
+MiniMax H3 · 文生视频 · 出处: [@harboriis on X](https://x.com/harboriis/status/2092469535844733357) · 38 赞，统计于 2026-10-29
+
+[`vlog`](tags.md#tag-vlog) [`japan`](tags.md#tag-japan) [`lip-sync`](tags.md#tag-lip-sync) [`multi-scene`](tags.md#tag-multi-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A tranquil 15 second cinematic vlog shot in 8k on a 35mm lens at f/1.8. A young East Asian woman with long brown hair, wearing a white shirt and light blue scarf, rides a vintage teal bus through lush Japanese countryside. She steps off into the crisp air, sits on the wooden veranda of a traditional house, dips her bare feet into a clear running stream, and eats cold somen noodles from a bowl with chopsticks. Natural sun dappled lighting, green rice paddies, swaying wind chimes, soft bokeh, serene atmosphere, with clear English lip sync and dialogue.
+Subject and Environment Specs
+Subject: Young East Asian female, long brown hair, natural makeup, dressed in a casual white t shirt and light blue scarf.
+Environment: Rural Japanese countryside, vintage teal bus, expansive green rice fields, traditional wooden porch engawa, clear stream, glass wind chime furin.
+Scene Breakdown and English Dialogue
+Scene 1: The Countryside Bus Ride 0:00 to 0:03
+Visuals: Medium shot of the woman looking out a vintage bus window at green fields, followed by an aerial tracking shot of the teal bus driving along a rural road.
+Scene 2: Arrival 0:04 to 0:05
+Visuals: Close up of her stepping off the bus into the open countryside, closing her eyes and breathing in the fresh air.
+English Lip Sync: "So peaceful..."
+Scene 3: Noodles by the Stream 0:06 to 0:11
+Visuals: Wide shot sitting on a wooden porch, dangling bare feet into a cool, clear stream while eating cold somen noodles from a black bowl with wooden chopsticks.
+English Lip Sync: "The air tastes so fresh here... these cold noodles are perfect."
+Scene 4: Wind Chime and Farewell 0:12 to 0:14
+Visuals: A glass wind chime sways gently under the eaves. Cuts to a close up of her looking directly at the camera with a warm, relaxed smile in golden sunlight.
+English Lip Sync: "Truly delicious."
+```
+
+</details>
+
 <a id="h3-ramen-selfie-vlog-kitchen"></a>
 ### 厨房自拍视频展示拉面碗
 
@@ -1039,6 +2381,244 @@ Look & Feel
 Warm lighting, natural phone quality, authentic UGC pacing, jump cuts, realistic handheld movement.
 Negative Prompt
 cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic steam, plastic food, distorted chopsticks, extra fingers, warped hands, overprocessed HDR, text artifacts.
+```
+
+</details>
+
+<a id="wan-fitness-vlog-gym-workout-selfie"></a>
+### 健身 Vlog 女生完成一组训练动作
+
+<a href="https://x.com/ImaStudio_ai/status/2092197772082504133"><img src="../../previews/wan-fitness-vlog-gym-workout-selfie.jpg" width="360"></a>
+
+提示词把视频写成带时间段的分镜，每段指定机位，例如手机支架固定、朋友手持跟拍或镜子自拍。通过逐段递进的出汗和泛红设定，加上禁止美颜和塑料皮肤的约束，保证全程人物一致且质感真实。
+
+Wan 3.0 · 文生视频 · 出处: [@ImaStudio_ai on X](https://x.com/ImaStudio_ai/status/2092197772082504133) · 29 赞，统计于 2026-10-29
+
+[`fitness`](tags.md#tag-fitness) [`vlog`](tags.md#tag-vlog) [`selfie`](tags.md#tag-selfie) [`gym`](tags.md#tag-gym) [`ugc`](tags.md#tag-ugc)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a 30-second, 9:16 vertical, ultra-realistic smartphone-shot fitness Vlog featuring a beautiful Western woman. The overall feel should be like a beautiful, stylish young Western fitness blogger casually documenting her daily workout with an iPhone, realistic, natural, relaxed, sophisticated, and full of everyday life. Not a professional fitness advertisement, not a sports brand promotional video, not cinematic photography, and do not use overly polished commercial lighting. The footage should look like a high-quality personal fitness Vlog genuinely posted on TikTok / Instagram Reels.
+
+【Character Setting】
+Throughout the entire video, strictly maintain the same young adult white woman, approximately 23–27 years old, very beautiful but with a realistic human appearance. White female facial features, naturally long light brown hair with a slightly golden tone, tied into a voluminous natural high ponytail, with a few messy flyaways gradually appearing during the workout. Light-colored eyes, beautiful natural eyebrows, refined nose bridge, naturally full lips, smooth and sophisticated facial structure. Overall, she should look like an elegant, timelessly attractive Western beauty, not an exaggerated influencer face, and not a plastic-looking AI beauty.
+
+The woman has a tall, balanced, healthy, toned physique, with natural muscle definition developed through long-term fitness, a tight waist and abdomen, and attractive shoulder, neck, and leg lines, but do not exaggerate bodybuilding muscles or create extreme waist-to-hip proportions that do not conform to human anatomy.
+
+The character must retain realistic skin texture throughout: clearly visible tiny pores, skin texture, fine facial hair, slight unevenness in skin tone, and a small amount of natural imperfections. No skin smoothing and no beauty filters. Makeup is extremely light, natural, sophisticated clean girl makeup.
+
+Because of the gym temperature and sustained exercise, as the workout progresses, her cheeks and the tip of her nose gradually develop a natural light pink flush, like the healthy warmth caused by real exercise, not blush, and do not make her face excessively red. Tiny realistic beads of sweat gradually appear on her forehead, nose tip, temples, neck, and collarbones, with some flyaway strands of hair becoming slightly stuck to the sides of her face from sweat.
+
+No headphones, no over-ear headphones, no in-ear earphones, no hat, and no sunglasses at any point.
+
+Wear a sophisticated minimalist fitness outfit: clean white fitted athletic tank top or sports bra top + black high-waisted athletic shorts + white mid-calf athletic socks + simple white training shoes. No obvious brand logos on the clothing. Use realistic athletic fabric, with visible stretch texture, seams, natural wrinkles, and subtle changes from sweat after exercise. Keep the outfit consistent throughout.
+
+【0–4s｜Entering the Gym】
+Realistic iPhone front-camera selfie video.
+
+The woman has just walked into a bright, modern, spacious, upscale gym. She holds the phone in one hand for a selfie, naturally carrying a black gym bag over her shoulder, while holding a black water bottle in the other hand.
+
+As she walks, she looks toward the phone camera and gives a natural, beautiful slight smile. Do not deliberately pose; it should feel like she has just opened her phone and casually started recording.
+
+The phone has slight realistic movement from walking, and the woman is occasionally not perfectly centered in the frame. Large windows, workout benches, dumbbell racks, and real gym equipment can be seen in the background.
+
+She naturally looks at the camera and says:
+“Quick workout before I start my day.”
+
+The delivery should be relaxed and casual, like a real Vlogger speaking, with no advertising voice-over feel.
+
+【4–7s｜Pre-Workout Preparation】
+Natural hard cut.
+
+The woman casually props the phone against a workout bench or piece of gym equipment, creating a slightly imperfect stationary phone angle.
+
+She stands in front of a mirror and reties her high ponytail, raising both hands to adjust her hair, with her beautiful natural face visible through the mirror.
+
+She then casually rolls her shoulders, moves her arms and legs, lightly stretches her body, and bends down to tighten her shoelaces.
+
+Do not look at the camera and pose; all movements should feel like natural preparation before a real workout.
+
+【7–12s｜Dumbbell Romanian Deadlift】
+Cut to the feeling of a friend casually filming with a phone.
+
+The woman holds two black dumbbells of a reasonable weight and performs Romanian deadlifts.
+
+Use a normal smartphone medium shot or full-body composition, naturally filmed from a front-side angle. The movement must follow realistic human biomechanics: back stable, knees naturally bent, hips moving backward, then standing up through the strength of the legs and core.
+
+Do not deliberately film her buttocks or chest; focus on the complete exercise movement, overall body proportions, and natural sense of strength.
+
+The phone camera has slight handheld movement and occasionally refocuses automatically. The clothing stretches and wrinkles naturally with her movements.
+
+After completing the final repetition, she naturally sets the dumbbells down, stands up, takes a deep breath, and uses her hand to brush a strand of hair away from the side of her face.
+
+At this point, her cheeks begin to show a very subtle natural pink flush.
+
+【12–16s｜Dumbbell Squats】
+Quick natural cut.
+
+The woman holds the dumbbells in front of her body and performs squats.
+
+The phone films the complete movement from normal human height, without an exaggerated low angle.
+
+She trains seriously and does not constantly look at the camera. The descent, brief pause, and rise are natural and fluid, with realistic activation of the legs, arms, and core visible.
+
+During the final two repetitions, she is clearly beginning to feel tired, with heavier breathing.
+
+After completing the final repetition, she stands up, clearly exhales, and gives a slight smile.
+
+Her cheeks are slightly more flushed than before, and a small amount of fine sweat begins to appear on her forehead.
+
+【16–20s｜Lat Pulldown】
+Cut to the lat pulldown machine.
+
+The woman sits on the machine and performs a set of lat pulldowns.
+
+The phone is positioned approximately 45 degrees from the side-back or side-front of the subject, with a friend lightly holding the phone while filming.
+
+She grips the bar with both hands, pulls it steadily downward, then slowly returns it to the top. Her shoulders, back, and arm muscles naturally tighten with the movement, but the muscles should not be exaggerated.
+
+The final repetition is clearly more difficult.
+
+After finishing, she releases the machine, leans back in the seat and catches her breath for two seconds, then turns toward the phone camera and gives a very natural, beautiful smile that looks slightly tired.
+
+She softly says:
+“That was way harder than it looked.”
+
+Then she gives a small laugh.
+
+【20–23s｜Rest and Drink Water】
+The phone is positioned close to the subject for a very realistic workout-break close-up.
+
+The woman sits at the edge of a workout bench, gently wipes the sweat from her forehead, side of her face, and neck with a white towel, then picks up the black water bottle and takes several consecutive sips of water.
+
+This shot should focus on her beautiful but realistic post-workout state.
+
+Because of exercise and body heat, her cheeks and nose tip have a very natural light pink flush, like healthy post-workout color rather than makeup blush.
+
+Very tiny realistic beads of sweat can be seen on her forehead, nose tip, temples, shoulders, and collarbones.
+
+A few light brown flyaway strands are slightly damp from sweat and stick to her forehead and the side of her face.
+
+The phone is relatively close to her face, clearly showing pores, skin texture, a small amount of freckles or very subtle natural imperfections.
+
+Do not smooth the skin.
+
+Do not use beauty filters.
+
+After drinking, she looks toward the camera, slightly raises an eyebrow, then gives a relaxed, natural smile.
+
+【23–27s｜Dumbbell Lunges】
+Cut to a bright training area near large floor-to-ceiling windows.
+
+Natural daylight enters through the windows.
+
+The woman holds two dumbbells and performs alternating lunges.
+
+A friend uses a phone to lightly follow her from approximately waist-to-chest height, keeping her full movement in frame.
+
+During the final repetitions, she is clearly somewhat fatigued, breathing faster, with her cheeks naturally more flushed, but her movements remain stable.
+
+After finishing, she sets the dumbbells down, places both hands on her knees, and catches her breath for two seconds.
+
+Then she raises her head toward the camera, her beautiful face naturally flushed from exercise, and smiles while lightly shaking her head.
+
+Do not act or perform for the camera.
+
+【27–30s｜Post-Workout Mirror Selfie】
+Finally, cut to a realistic gym mirror selfie.
+
+The woman stands in front of a large mirror, holding the phone in one hand and the black water bottle in the other, with the gym bag over her shoulder.
+
+Her post-workout state must remain realistically continuous.
+
+Her high ponytail is now slightly messy, with several flyaway strands around the sides of her face, her cheeks and nose tip naturally flushed, and tiny beads of sweat on her forehead and collarbones, with a healthy natural post-workout glow to her skin.
+
+Do not suddenly restore a perfect makeup look.
+
+She looks at herself through the phone in the mirror and gives a relaxed, beautiful smile.
+
+Then she naturally says:
+“Done. Best way to start the day.”
+
+After saying it, she gives a small laugh and picks up her gym bag, preparing to leave.
+
+The phone naturally lowers with her movement, and the video ends.
+
+【Filming Quality—Extremely Important】
+The entire video must look like it was genuinely shot on a real iPhone, not like a cinema camera simulating a smartphone aesthetic.
+
+Real smartphone front and rear camera quality.
+Real smartphone wide-angle perspective.
+Slight handheld movement.
+Slight motion blur.
+Realistic autofocus.
+Natural automatic exposure changes.
+Some shots with the phone placed stationary.
+Some shots filmed casually by a friend.
+Occasionally allow imperfect framing.
+Not every shot should look like a professional photograph.
+Do not use gimbal-smooth camera movement.
+Do not use excessive shallow depth of field.
+Do not use cinematic background blur.
+Do not use professional commercial lighting.
+
+The gym should be bright, airy, modern, upscale but realistic, primarily featuring black, gray, white, and natural wood tones, with large windows providing real natural daylight.
+
+Image colors must be clean and natural.
+
+No yellow filter.
+No orange filter.
+No dark or gloomy image.
+No teal-and-orange cinematic color grading.
+No excessive saturation.
+Keep skin tones realistic and natural.
+
+Editing should follow the authentic TikTok / Instagram Reels fitness Vlog rhythm, primarily using natural hard cuts and slight Jump Cuts. Preserve realistic everyday details such as picking up dumbbells, putting dumbbells down, catching her breath, wiping sweat, drinking water, adjusting her hair, and so on.
+
+Include natural gym ambience: slight dumbbell clanking, machine sounds, shoe friction against the floor, breathing, drinking water sounds, and softly blurred distant gym ambience.
+
+Background music should be upbeat, rhythmic, sophisticated but not overly intense Western Workout Lifestyle music, with the music volume lower than the woman's speech and the real environmental sounds.
+
+【Character Consistency—Highest Priority】
+The same beautiful white woman must be strictly maintained throughout the entire 30 seconds.
+Same face.
+Same facial features.
+Same light brown hair with a slightly golden tone.
+Same high ponytail.
+Same white athletic top.
+Same black high-waisted athletic shorts.
+Same body proportions.
+Same gym environment.
+
+As the workout progresses, her condition must change naturally:
+Clean, natural skin at the beginning → lightly sweating after exercise → cheeks gradually becoming slightly flushed → finally showing realistic post-workout sweat, healthy redness, and slight messiness.
+
+NO HEADPHONES.
+NO EARPHONES.
+NO TEXT.
+NO SUBTITLES.
+NO CAPTIONS.
+NO LOGO.
+NO WATERMARK.
+NO BEAUTY FILTER.
+NO PLASTIC SKIN.
+NO AIRBRUSHED SKIN.
+NO PERFECT AI FACE.
+NO HEAVY MAKEUP.
+NO EXCESSIVE BLUSH.
+NO COMMERCIAL FITNESS AD LOOK.
+NO CINEMATIC CAMERA LOOK.
+NO EXTREME SHALLOW DEPTH OF FIELD.
+NO EXCESSIVE SLOW MOTION.
+NO SEXUALIZED CAMERA ANGLES.
+NO EXAGGERATED BODY PROPORTIONS.
+NO EXTREME HOURGLASS BODY.
+NO UNNATURAL MUSCLES.
+NO DISTORTED HANDS.
+NO EXTRA FINGERS.
+NO EXTRA LIMBS.
+NO DUPLICATED LIMBS.
 ```
 
 </details>
@@ -3441,1380 +5021,6 @@ Preserve the exact face, hairstyle, identity, skin tone, and body proportions fr
 00:27–00:30 Stops beneath tall coconut trees, turns back toward the camera with a warm smile, waves, and says, "See you in my next adventure. Bye!" before naturally ending the recording.
 
 Natural ambience only: birds, palm leaves rustling, village conversations, coconut chopping sounds, footsteps, breeze, insects, and distant laughter. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera vacation vlog with authentic human movement and realistic interactions.
-```
-
-</details>
-
-<a id="seedance-japan-pov-morning-commute"></a>
-### 第一人称视角走下车站台阶登上海边列车
-
-<a href="https://x.com/higgsfield_ai/status/2083155162475217058"><img src="../../previews/seedance-japan-pov-morning-commute.jpg" width="360"></a>
-
-按时间分段的节拍，加上固定的镜头设定、手持微晃动和列明的环境音，使整段保持为一个连续镜头。禁止调色和霓虹等风格化效果，让画面贴近真实的清晨光线。
-
-Seedance 2.5 · 文生视频 · 出处: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2083155162475217058)
-
-[`pov`](tags.md#tag-pov) [`japan`](tags.md#tag-japan) [`one-take`](tags.md#tag-one-take) [`train`](tags.md#tag-train)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-POV — Morning Commute in Coastal Japan | Ultra-Realistic, One Continuous Take  First-person POV, no cuts, one unbroken handheld-feeling shot from our own eyes on the way through a small seaside town. Ultra-photorealistic, phone-in-hand realism — natural camera micro-shake, subtle head bob with each step, occasional glance down at our own hands and shoes. 4K, shallow but natural depth of field, real morning light, no color-grading fantasy, no neon.  Beat 1 — Descending into the station (0–4s): We walk down worn concrete station stairs into a small coastal-town metro entrance, one hand loosely gripping a canvas bag strap that swings into the lower frame. Fluorescent tint mixes with daylight bleeding from the entrance behind us. Commuters pass in soft focus; we hear muffled announcements and the shuffle of footsteps.  Beat 2 — The orange cat (4–9s): We slow and crouch — the horizon dips as our POV lowers toward the ground. An orange tabby sits by a ticket-gate pillar, tail curled. Our hand (natural skin texture, slightly bitten nails, cuff of a sleeve) reaches into frame and gently strokes its head. The cat leans into the touch, eyes half-closing, ears flicking. We hold there a beat, warm and quiet.  Beat 3 — Boarding, settling by the window (9–14s): We rise, the horizon lifts, and we step through the train doors just as the chime sounds. POV turns and moves toward a window seat; we sit, and the frame settles against the glass. A faint silhouette of us ghosts over the view. The train pulls away with a gentle lurch.  Beat 4 — The shimmering sea (14–20s): Through the window, the town gives way to open coastline. Sunlight scatters across the water in thousands of moving sparkles — real specular glitter, not CGI bloom. Utility poles and wires strobe past in the foreground. We rest our chin lightly (subtle downward frame tilt), just watching.  Beat 5 — Rails into the sea (20–25s): The track curves and runs so close to the shore that the rails seem to vanish straight into the water — the sea fills nearly the whole frame, waves lapping right up to the ballast. Foam catches the light. We're gliding along the edge of the ocean, the horizon line steady, gulls crossing in the distance. Hold on this until the shot ends.  Technical spec: continuous POV, first-person, no cuts or transitions, natural handheld micro-motion, realistic morning ambient audio (station hum, cat, train chime, rail clatter, distant surf), authentic Japanese coastal-railway setting (Shimonada / Enoden-style seaside line), overcast-to-clear soft daylight, photoreal skin and fabric texture, 2.39:1 or 16:9, ultra-realistic.
-```
-
-</details>
-
-<a id="seedance-kamakura-rental-house-dv-afternoon"></a>
-### 黄色上衣女子走出日式老屋
-
-<a href="https://x.com/AIwithAliya/status/2097192902829171098"><img src="../../previews/seedance-kamakura-rental-house-dv-afternoon.jpg" width="360"></a>
-
-提示词用一句明确的一致性要求锁定人物身份、服装和发型，并用自动对焦拉扯、焦点呼吸、曝光跳变等具体痕迹描述摄像机质感。每个场景都是一个短节拍，配有自己的台词，并规定道具的转移路径，使道具在镜头切换中保持连贯。
-
-Seedance 2.5 · 文生视频 · 出处: [@AIwithAliya on X](https://x.com/AIwithAliya/status/2097192902829171098) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dv-camcorder`](tags.md#tag-dv-camcorder) [`slice-of-life`](tags.md#tag-slice-of-life) [`kamakura`](tags.md#tag-kamakura) [`dialogue`](tags.md#tag-dialogue)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic early-2000s DV home video of a 20-year-old Japanese woman spending a quiet late-summer afternoon in an old seaside neighborhood in Kamakura, Japan.
-
-**MAIN SUBJECT**
-
-A 20-year-old Japanese woman, naturally beautiful, realistic skin texture, minimal makeup, long dark-brown wavy hair loosely tied with a simple fabric hair tie, wearing a fitted pale-yellow short-sleeve top, loose light-blue wide-leg trousers, white canvas sneakers, and a delicate silver necklace. Keep her identity, facial features, outfit, hairstyle, body proportions, and age perfectly consistent throughout the entire video.
-
-She leaves a small traditional Japanese rental house carrying a woven shoulder tote bag and walks through a narrow residential lane toward a tiny local bakery near the coast.
-
-**SCENE 1 — LEAVING HOME**
-
-She steps outside, slides the wooden door closed behind her, adjusts her tote bag and walks down a quiet narrow street lined with old Japanese houses, bicycles, potted plants, utility poles and overhead wires.
-
-She looks toward the camera and casually says:
-
-**“I finally have a slow afternoon.”**
-
-The camera follows her from behind with imperfect handheld movement.
-
-**SCENE 2 — LOCAL BAKERY**
-
-She enters a tiny old-fashioned neighborhood bakery with a wooden entrance and glass display case.
-
-She chooses a melon pan, a small red-bean pastry and a bottled ramune. She places everything carefully inside her woven tote bag.
-
-While looking through the small refrigerator, she notices several colorful popsicles.
-
-She picks up two peach-flavored popsicles, smiles and adds them to her bag.
-
-The bakery owner places the items into a small paper package and hands it to her.
-
-She politely says:
-
-**“Thank you, I’ll come again.”**
-
-**SCENE 3 — SEASIDE STREET**
-
-Outside, she walks toward the coast.
-
-She notices two neighborhood children sitting near a low stone wall, watching bicycles pass by.
-
-She takes the two peach popsicles from her bag and gives one to each child.
-
-Each child clearly receives one and happily holds it.
-
-One child says:
-
-**“Really? Thank you!”**
-
-She smiles and replies:
-
-**“Enjoy it before it melts.”**
-
-The children happily begin eating their popsicles.
-
-The popsicles visibly transfer from the bakery refrigerator → woman's tote bag → children's hands. No disappearing or duplicated objects.
-
-**SCENE 4 — BICYCLE**
-
-As she continues walking, she notices one child's bicycle has fallen over beside the sidewalk.
-
-She stops, picks it up and holds the handlebars while the child checks the bicycle.
-
-The child smiles and says:
-
-**“You helped me!”**
-
-She laughs softly and replies:
-
-**“No problem. Ride carefully.”**
-
-The child rides away with the other child.
-
-**SCENE 5 — WATER FOUNTAIN**
-
-She continues toward the seaside and discovers an old public water fountain beside a small park.
-
-She turns the metal tap.
-
-Water begins flowing naturally.
-
-She cups her hands under the water and splashes cool water onto her face.
-
-She laughs naturally, shakes the water from her hands and wipes her face.
-
-She looks refreshed and says:
-
-**“That feels so good.”**
-
-**SCENE 6 — WALKING HOME**
-
-The late-afternoon sunlight falls across the quiet Japanese street.
-
-She walks back toward her house carrying the same woven tote bag.
-
-A bicycle bell rings somewhere in the distance.
-
-She briefly looks directly into the DV camera and says:
-
-**“Best kind of afternoon.”**
-
-She smiles, turns toward her house and walks through the wooden entrance.
-
-The camera remains outside for a moment as the door closes.
-
-**CUT TO BLACK.**
-
-**CAMERA / VISUAL STYLE**
-
-Raw handheld early-2000s Japanese DV camcorder footage. Authentic consumer camcorder aesthetic, shaky handheld movement, imperfect framing, autofocus hunting, occasional focus breathing, faded slightly washed-out colors, soft digital detail, mild compression artifacts, exposure shifts
-```
-
-</details>
-
-<a id="seedance-kansai-platform-near-miss-montage"></a>
-### 站台险情后的关西日常蒙太奇
-
-<a href="https://x.com/oggii_0/status/2099002039141626186"><img src="../../previews/seedance-kansai-platform-near-miss-montage.jpg" width="360"></a>
-
-按秒数划分的时间表把30秒拆成独立场景，救险段落保持为一个连续镜头，之后才开始硬切。具体的MiniDV光学特征（柔光、亮部晕染、曝光跳动）加上固定的服装与眼镜描述，让女主角在各个切换中保持一致。
-
-Seedance 2.5 · 文生视频 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2099002039141626186) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`minidv`](tags.md#tag-minidv) [`first-person`](tags.md#tag-first-person) [`multi-scene`](tags.md#tag-multi-scene) [`japan-travel`](tags.md#tag-japan-travel)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create exactly 30 seconds of photorealistic live-action Japanese travel memories, edited with quick hard cuts, seen through an affectionate adult boyfriend's first-person handheld consumer camcorder. This is a MULTI-SCENE MONTAGE, NOT one continuous take. Begin with a frightening cinematic near-miss at a suburban railway platform, then move immediately into warm, playful, intimate everyday travel. The emotional arc is alarm → relief → affectionate curiosity → golden-hour quiet → joyful night → tender laughter. No disaster imagery. No dramatic movie grading. Output ultrawide 21:9, requested 1080p, high-bitrate encode, with deliberately authentic early-2000s MiniDV aesthetics baked into the image. Use the full wide frame, no 4:3 pillarboxes.
-
-SAME ADULT HEROINE IN EVERY SHOT:
-SAME ADULT HEROINE IN EVERY SHOT:
-A very beautiful young adult Korean woman, age 25–28, with luminous fair warm-toned skin and realistic pores, expressive dark-brown eyes, softly sculpted youthful cheeks, naturally beautiful full rose-pink lips with a subtle satin finish, natural understated Korean makeup, and a warm spontaneous smile. Preserve her facial geometry, body proportions and identity across every cut, without idealized plastic smoothing. Thin dark-metal oval prescription glasses with clear lenses, eyes always readable. Long, naturally dark-brown to soft-black hair, smooth and healthy with subtle natural movement; no blonde hair, no bangs.
-
-One consistent modern Korean Gen Z outfit: an elegant loose ivory ankle-length A-line dress with full-length sleeves and a high neckline, subtle delicate embroidery, paired with a lightweight oversized beige cardigan jacket, clean cream sneakers, and a small structured taupe crossbody bag. Fabric remains naturally flowing, fully opaque and modest during movement. Glasses, hairstyle, outfit and bag remain identical throughout. Contemporary Korean styling, youthful, effortlessly elegant and understated. No spaghetti straps, revealing neckline, exposed midriff, or body-hugging styling. There is no supplied reference image: establish this original Korean heroine from these text details and maintain her exact identity. Never morph into another woman, change her ethnicity, facial features, hairstyle, or body proportions.
-
-MINIDV STYLE LOCK:
-Feels like a cherished home-video cassette recorded around 2003, not polished cinema pretending to be vintage. Gentle optical softness, low contrast, softly washed highlights, warm natural skin, fine luma noise, mild color bleed, subtle consumer-camera edge enhancement, restrained DV compression texture, slightly faded blues and greens, soft halation, occasional exposure pumping when moving between shade and sunlight.
-
-Real handheld wide-angle proximity, uncentered composition, brief autofocus searching that settles on her face. Noticeable motion smear on fast pans and night lights, but keep expressions legible. No heavy glitch overlays, fake VHS tracking bars, film burns between scenes, timestamps, captions, subtitles, logos, or excessive chromatic aberration. Noon feels airy, sunset feels honey-gold, night feels softly smeared and imperfect. Do not use green-noir grading or glossy blockbuster teal-orange.
-
-POV AND EDIT RULES:
-The camera operator is her adult boyfriend, mostly unseen, occasionally one anatomically correct forearm or hand enters. She repeatedly checks where he is, leans toward him, looks back, shares a discovery, and smiles directly into the lens. Small natural gestures, no fashion posing, no slow-motion beauty commercial. Hold each simple action long enough to read. Hard cuts between locations, no morphing transitions.
-
-Geography evokes a remembered Kansai day through Uji and Nara, with ordinary bookshops and shopping streets between famous places. Late spring or early summer green foliage; no contradictory autumn leaves, snow or cherry blossoms. Do not squeeze in extra landmarks or relocate Mount Fuji into Nara.
-
-EXACT 30-SECOND EDIT:
-
-00.00–04.00 — SUBURBAN PLATFORM, DANGER THEN RELIEF
-Open with danger already readable: she has distractedly stepped too near the platform edge while peering down the line, one hand shading her eyes. She remains on the platform, never on the rails. An approaching maroon-and-cream commuter train is already visible behind her and rapidly grows larger.
-
-From first-person POV, one boyfriend hand reaches to her upper arm; upon contact, the arm immediately retracts in ONE continuous movement, pulling her backward toward the lens and behind the tactile safety strip. She visibly moves back one or two quick steps; camera operator steps back naturally with her. Only once she is clear does the train rush past behind her.
-
-Its wind flutters her overshirt and dress hem, never lifts or removes her hijab or exposes her body. Her eyes widen behind glasses, lips part with a brief startled gasp, then relief begins in her expression. No contact with the train, injuries, lingering on the edge, or repeated pulling motion. Believable distances and train direction; staged fictional action with a clearly successful rescue. Keep one continuous shot for this opening.
-
-04.00–06.00 — SUNNY GRASS
-Abrupt warm hard cut: first-person handholding as she guides the viewer along a grassy path. She turns toward the camera with a relieved bright laugh. Sunlight catches her ivory sleeves and navy floral hijab pin; green grass drifts softly behind. One hand linked naturally with the operator, no duplicate fingers.
-
-06.00–07.50 — OLD BOOKSHOP
-Shoot through a gap between shelves of well-used Japanese books. She playfully bends into the gap from the far side, notices the lens, gives a small conspiratorial smile. Dusty window light, crowded wooden shelves, autofocus briefly catches book spines before her eyes. Avoid legible invented titles.
-
-07.50–09.00 — QUIET STREET CROSSING
-Low, casual waist-to-shoe framing of her walking across an ordinary Japanese zebra crossing on a pedestrian signal. Ivory dress hem sways over trainers. Tilt just enough to glimpse her looking back. No fetishized body framing; modest everyday clothing detail and footsteps are the focus.
-
-09.00–10.50 — NARROW LANE
-She walks ahead between traditional wooden storefronts, potted plants and hanging fabric curtains. Her eyes glance sideways first, then she turns her face back to find the camera, smiling softly. Overhead cables and bicycles at the side establish lived-in Japan; no staged crowd.
-
-10.50–12.50 — UJI RIVERSIDE, ADDED RESEARCHED SCENE
-At the scenic Uji River in Kyoto Prefecture, film her by a pedestrian riverbank with the historic bridge in the background. Begin with sunlight moving on water, tilt casually to her leaning lightly on the safe railing. A breeze moves her cuff; she points out the view, then looks at the operator rather than posing for the landscape. Keep her face central to the memory, river sound underneath.
-
-12.50–14.00 — UJI MATCHA, ADDED RESEARCHED SCENE
-Close handheld view of her holding a simple matcha soft-serve outside a small tea shop. She takes a tiny taste, raises her eyebrows appreciatively, then offers the cone toward the lens with a playful smile. Rich natural tea-green against ivory fabric; mild sunlight overexposure, soft storefront background. No visible brand text.
-
-14.00–15.50 — SMALL RAMEN SHOP
-Close-up of steaming vegetarian mushroom-and-vegetable ramen on a wooden counter or small table, then a quick natural focus pull to her sitting opposite, smiling through wisps of steam. Cozy lamps, spoon and bowl sounds, genuine restaurant ambience. No pork slices or alcohol props. Camera remains handheld, not a glossy food advertisement.
-
-15.50–17.00 — MANGA SHOP
-She draws one manga volume from a shelf, opens it and lowers her eyes with a curious smile. Brief close shot of hands and page texture; no readable dialogue or famous copyrighted character emphasis. Maintain same glasses and floral pin.
-
-17.00–18.50 — NARA PARK DEER
-Boyfriend POV offers one designated deer cracker, held flat and released gently to a deer in Nara Park. The woman is softly out of focus a few steps behind on green grass, laughing at the deer's polite approach. No grabbing antlers, hugging or chasing wildlife. Mild camera wobble as the deer approaches.
-
-18.50–20.00 — QUIET READING
-Sitting on a park bench, she flips a manga page. Close details of her hands, gold botanical embroidery and lace cuff, then tilt to her peaceful face behind her glasses. Rustle of paper, leaves and distant birds. Natural, modest, unposed.
-
-20.00–22.50 — UKIMIDO PAVILION, ADDED RESEARCHED SCENE
-Nara Park's hexagonal wooden Ukimido pavilion with its cypress-bark roof on Sagiike Pond, reached by a wooden bridge. From the public bridge, she pauses safely by the railing and turns back toward the camera; warm light and green trees reflect in still water. Start wide enough to read the actual pavilion silhouette, then walk a little closer as she extends her hand toward the viewer. Quiet water, wooden footfalls, no temple ritual invented. Intimate location memory rather than a drone tourism shot.
-
-22.50–24.50 — GOLDEN-HOUR MEADOW
-In Nara's grassy park with deer grazing at a respectful distance, honey-gold backlight edges her hijab and sleeves. She turns gently toward the camera, dress fabric swaying with the evening breeze. A small genuine smile, peaceful eye contact, slight exposure bloom. No spinning near deer, no flying fabric revealing skin.
-
-24.50–27.00 — LIVELY NIGHT SHOPPING STREET
-Blue-hour-to-night hard cut. Warm shop lanterns, illuminated signs and pedestrians in a Kansai shopping street. She suddenly jogs lightly several steps ahead, then looks back laughing, waiting for the operator. He follows; handheld camera movement leaves convincing soft DV light streaks. No vehicles in her running path; stay in a pedestrian area. Preserve facial readability between movement smears.
-
-27.00–28.00 — TACTILE MEMORY INSERT
-One brief close handheld detail of her hand adjusting her embroidered cuff beside her taupe bag, ivory skirt hanging naturally; warm shop light blooms softly off the stitching. A casual recorded detail, not an erotic crop.
-28.00–30.00 — CAMCORDER MEMORY ENDING
-A second small silver early-2000s consumer camcorder is held into the foreground by the operator's free hand, its side LCD flipped outward. Current POV remains on the original recording camera; make this a clearly separate physical device, not an impossible view of itself.
-
-The second camcorder points toward the woman; its LCD shows the same woman in the same pose at the same moment, synchronized without a duplicate person standing nearby. She notices that he is still filming, briefly gives a playful tiny pout with her naturally rose-toned lips, then breaks into a real warm laugh looking directly at him. Frame drifts toward a bright shop lamp and highlights bloom to soft white over the final fraction of a second. End on warmth, not alarm.
-
-AUDIO:
-Real synchronized location sound ONLY, no background music, no soundtrack, no narration, no scripted dialogue.
-
-Opening: rolling rail clatter, approaching train rush, wind blast, a single surprised gasp, shoes stepping back.
-
-Then light footsteps, grass and breeze, natural soft laughter, book pages, distant shop ambience, river water, ice-cream wrapper rustle if present, ramen bowls and chopsticks, park birds, deer footsteps, wooden bridge creaks, evening breeze, night crowd and distant vehicles.
-
-Audio hard-cuts naturally with each location; subtle room-tone tails are acceptable. Finish with her authentic laugh. No artificial whooshes between edits or dramatic suspense score.
-
-FINAL QUALITY RULES:
-Exactly one stable adult heroine, full modest coverage, consistent hijab and glasses, anatomically natural hands, no face drift or changing ethnicity, no glossy skin filter. Requested high-bitrate file must preserve intentional MiniDV texture rather than remove it. The viewer should feel these are precious imperfect memories from a real day together, not a compilation of polished commercial travel footage.
-```
-
-</details>
-
-<a id="seedance-korean-alley-leaf-bicycle-bell-dv-home-video"></a>
-### 韩国女生与自行车铃铛的老式DV家庭录像
-
-<a href="https://x.com/SimplyAnnisa/status/2096931238460178592"><img src="../../previews/seedance-korean-alley-leaf-bicycle-bell-dv-home-video.jpg" width="360"></a>
-
-把30秒按时间码拆成五个6秒段落，每段只有一个小动作和一句台词。详细列出DV摄像机的瑕疵（对焦漂移、意外变焦、磁带噪点），并规定只有现场环境声，让画面更像真实素材。
-
-Seedance 2.5 · 文生视频 · 出处: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2096931238460178592) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dv-camcorder`](tags.md#tag-dv-camcorder) [`home-video`](tags.md#tag-home-video) [`korean`](tags.md#tag-korean) [`street`](tags.md#tag-street) [`timed-beats`](tags.md#tag-timed-beats)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean woman having an ordinary but unexpectedly memorable summer evening in an older Seoul neighborhood.
-
-A naturally pretty Korean woman in her early 20s, realistic skin, minimal makeup, long black slightly wavy hair, pale-blue knit top, loose cream trousers, white sneakers, brown crossbody bag, and silver watch. Keep her identity, face, outfit, hairstyle, and proportions perfectly consistent.
-
-SETTING
-
-A quiet older Seoul residential street with concrete lanes, apartment buildings, potted plants, bicycles, utility poles, leafy trees, and a tiny neighborhood convenience shop. Lived-in and authentic. No brands, logos, advertisements, or tourist locations.
-
-CAMERA STYLE
-
-Raw footage from a cheap early-2000s DV camcorder: shaky handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft detail, mild tape noise, accidental zooms, and natural camera mistakes. No stabilization or cinematic shots.
-
-00:00–00:06 — THE MYSTERY
-
-She walks down the street holding a small plastic bag when she suddenly hears a faint jingling sound behind her.
-
-She stops and looks around.
-
-The camera quickly zooms toward her confused face.
-
-She says:
-
-“Did you hear that?”
-
-00:06–00:12 — THE LITTLE DISCOVERY
-
-She follows the sound and finds a small old bicycle with a tiny bell stuck slightly open.
-
-She gently taps the bell.
-
-Ding.
-
-She looks at the camera and laughs.
-
-Then she notices a small handwritten-looking paper tag hanging from the bicycle, but the writing is too unclear to read.
-
-00:12–00:18 — THE WIND
-
-A sudden breeze blows several dry leaves across the street.
-
-One lands directly on her head.
-
-She doesn't notice.
-
-The camera operator laughs.
-
-She looks confused, then realizes and removes the leaf.
-
-She gives the camera an embarrassed stare.
-
-00:18–00:24 — THE SMALL CHALLENGE
-
-She places the leaf on the bicycle seat and tries to balance it there.
-
-The wind immediately blows it away.
-
-She tries again.
-
-It falls again.
-
-She laughs and finally gives up.
-
-00:24–00:30 — THE MEMORY
-
-She picks up the leaf, puts it into her small bag, and starts walking home.
-
-After a few steps, she turns toward the camera and says:
-
-“Okay, that was pointless.”
-
-She smiles and keeps walking.
-
-The camera follows her for a few seconds before abruptly cutting to black.
-
-AUDIO
-
-Natural location sound only: footsteps, distant traffic, bicycle bell, summer insects, leaves, wind, neighborhood ambience, and natural laughter.
-
-No music, narration, subtitles, captions, logos, watermarks, or on-screen text.
-
-REALISM
-
-Natural human reactions, imperfect timing, realistic physics, consistent objects, authentic Korean neighborhood details, and believable DV-camera imperfections. No CGI look, distorted hands, extra fingers, duplicated people, identity drift, or outfit changes.
-
-16:9 aspect ratio.
-```
-
-</details>
-
-<a id="seedance-korean-apartment-tiktok-dance-fail-home-video"></a>
-### 狭小公寓里笨拙的跟跳舞蹈
-
-<a href="https://x.com/Ciri_ai/status/2095026480552271884"><img src="../../previews/seedance-korean-apartment-tiktok-dance-fail-home-video.jpg" width="360"></a>
-
-每五秒一个时间段，从干净利落的开场逐步升级到撞灯和打翻水杯的混乱，镜头也从固定手机机位中途变成手持晃动。音频只保留现场自然声，并逐句写出台词，保持家庭录像的真实感。
-
-Seedance 2.5 · 文生视频 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2095026480552271884) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`home-video`](tags.md#tag-home-video) [`handheld`](tags.md#tag-handheld) [`comedy`](tags.md#tag-comedy) [`dialogue`](tags.md#tag-dialogue) [`timed-beats`](tags.md#tag-timed-beats)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman confidently attempting to learn a viral TikTok dance trend in her tiny apartment, with her furniture and coordination working against her the entire time. No reference image.
-
-**MAIN SUBJECT**
-
-Young Korean woman in her early 20s, casual and determined energy, natural makeup, expression that shifts from focused confidence to flustered embarrassment.
-
-Hair in a messy half-up bun, a few strands sticking to her face as she gets more flustered, small stud earrings.
-
-Wearing an oversized band t-shirt tucked loosely into biker shorts, white ankle socks, no shoes, phone propped up against a stack of books on the floor to "record for practice."
-
-Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
-
-**SETTING**
-
-A small, cluttered studio apartment living room, evening, warm lamp light mixed with the cool glow of a laptop screen playing the dance tutorial video.
-
-A coffee table pushed slightly out of the way but not far enough, a floor lamp standing a little too close to her "stage area," a pile of laundry on the couch, a half-full water glass on the side table, string lights on the wall, and a roommate's bike leaning against the wall in the background. Cramped, real, an apartment clearly not built for dancing.
-
-**CAMERA / VISUAL AESTHETIC**
-
-Raw personal footage, filmed by her roommate on a phone propped up at first, then grabbed handheld once things go wrong — strong handheld vlog shake for the second half.
-
-Static, slightly low-angle framing for the "practice" shots, mimicking a phone-on-a-stack-of-books setup. Frame is imperfectly centered, cutting off the top of her head slightly. Once the roommate grabs the phone, autofocus hunts, motion blur kicks in during the collision moment, exposure shifts as she moves between lamp light and shadow, visible digital noise in the dim room.
-
-No stabilization, no gimbal smoothness, no cinematic camera moves — it should feel like a real phone recording that was never meant to be watched by anyone but her.
-
----
-
-**00:00–00:05 — THE CONFIDENT SETUP**
-
-She props her phone against a stack of books, steps back into frame, and shakes out her arms like an athlete warming up.
-
-She points at the laptop screen playing the dance tutorial, then back at herself, deadly serious.
-
-*"Okay. I've watched this like twenty times. I got this."*
-
-**00:05–00:10 — FIRST EIGHT-COUNT**
-
-The music starts. She nails the first few moves surprisingly well, sharp and confident, clearly proud of herself mid-move.
-
-Roommate's voice from off-screen, genuinely impressed: *"Wait, okay—?!"*
-
-The camera stays static, catching her in full frame, a rare clean moment.
-
-**00:10–00:15 — THE FIRST WOBBLE**
-
-A quick turn in the choreography catches her off guard — she spins a half-second late, arms flailing to catch up, and clips the edge of the coffee table with her shin.
-
-She yelps, hopping on one foot, still trying to keep the rhythm going through gritted teeth.
-
-*"I'm fine — I'm fine, keep going—"*
-
-**00:15–00:20 — LAMP INCIDENT**
-
-Recovering, she throws herself into the next big arm movement — her hand clips the floor lamp, sending it tilting dangerously.
-
-Her roommate lunges into frame to catch it, grabbing the phone off the books in the process, camera suddenly handheld and shaking.
-
-*"THE LAMP—"*
-
-**00:20–00:25 — FULL CHAOS**
-
-With the lamp saved but the camera now shaky and handheld, she tries to pick the choreography back up from memory, increasingly out of sync with the music, arms going in directions the dance never intended.
-
-She knocks the water glass off the side table with her elbow, doesn't even stop, just grimaces and keeps dancing through the spill.
-
-Roommate, laughing hysterically behind the now-unsteady camera: *"You're literally destroying the apartment—"*
-
-**00:25–00:30 — FINAL MOMENT**
-
-The song ends. She strikes a triumphant final pose — chest heaving, one hand on her hip, completely out of breath, water pooling near her sock.
-
-She looks into the camera, dead serious despite the disaster around her.
-
-*"...Post it. That was clean."*
-
-Her roommate, still laughing, pans the camera slowly down to the spilled water and tipped lamp before swinging back to her unbothered face — and the footage cuts abruptly to black.
-
----
-
-**AUDIO**
-
-Natural location sound only:
-
-The tutorial/dance track playing tinny from the laptop speakers, her footsteps and fabric movement, the thud of her shin hitting the table, the lamp wobbling and roommate's scramble to catch it, glass tipping and water spilling, her roommate's genuine off-camera laughter throughout, and handheld camera noise once it's picked up.
-
-No added music beyond the in-scene laptop track. No narration. No artificial sound effects.
-
-Spoken lines: *"Okay. I've watched this like twenty times. I got this."* / *"Wait, okay—?!"* (roommate) / *"I'm fine — I'm fine, keep going—"* / *"THE LAMP—"* (roommate) / *"You're literally destroying the apartment—"* (roommate) / *"...Post it. That was clean."*
-
-**FINAL FEEL**
-
-Chaotic, cramped-apartment energy — the universal experience of confidently trying a viral dance and immediately losing a fight with your own furniture. Funny, physical, unscripted-feeling, with a deadpan ending that lands harder because she genuinely doesn't acknowledge the destruction around her.
-
-No exaggerated slapstick beyond real physical missteps. No professional dance skill required — the comedy comes from real momentum, real near-misses, and her total refusal to admit defeat.
-```
-
-</details>
-
-<a id="seedance-korean-cafe-vlog-chaos"></a>
-### 韩国女生拍咖啡馆vlog，处处翻车
-
-<a href="https://x.com/Ciri_ai/status/2094706780114952303"><img src="../../previews/seedance-korean-cafe-vlog-chaos.jpg" width="360"></a>
-
-每个约五秒的段落都先做刻意的唯美构图，再接一个突然的手持抖动，喜剧感来自计划好的画面与实际拍摄的落差。自动对焦来回跳、过曝和朋友的笑声等相机瑕疵被明确写进动作与声音，让画面更像真实手机素材。
-
-Seedance 2.5 · 文生视频 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2094706780114952303) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`handheld`](tags.md#tag-handheld) [`comedy`](tags.md#tag-comedy) [`cafe`](tags.md#tag-cafe) [`found-footage`](tags.md#tag-found-footage)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic personal home-video showing a young Korean woman attempting to film an "aesthetic" café vlog for her social media and everything comically not going to plan. No reference image.
-MAIN SUBJECT
-Young Korean woman in her early 20s, trendy and put-together look, dewy makeup, confident expression that keeps cracking into laughter.
-Straight black hair with curtain bangs, small gold hoop earrings, soft pink lip tint.
-Wearing an oversized cream sweater, a plaid mini skirt, chunky white sneakers, and a small quilted shoulder bag she keeps adjusting for the "shot."
-Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
-SETTING
-A charming autumn café street in Seoul on a crisp, sunny afternoon.
-A cozy corner café with outdoor seating, string lights, a chalkboard menu, falling ginkgo leaves, a latte art station visible through the window, a bicycle propped against a brick wall, pedestrians occasionally walking through frame, and a small tree dropping leaves onto the sidewalk table. Warm, golden, Pinterest-looking — until it isn't.
-CAMERA / VISUAL AESTHETIC
-Raw personal footage, filmed by her friend who keeps trying (and failing) to make it look cinematic, strong handheld vlog shake throughout.
-The video oscillates between deliberately "aesthetic" attempted shots — slow pans, artful angles, soft focus — and sudden chaotic handheld jolts when things go wrong. Autofocus hunts comically between her face and the latte. Camera tilts and overcorrects. Exposure blows out when it swings toward the sun. Mild motion blur during quick recoveries. Slightly warm, oversaturated color grade like a try-hard Instagram filter that keeps slipping back to raw reality.
-No stabilization, no real cinematic polish — the "aesthetic" is aspirational, the execution is not.
-00:00–00:05 — THE PERFECT LATTE SHOT (ATTEMPT)
-She sits at the outdoor table, carefully positioning a latte with foam art, trying to casually "candid" sip it for the camera.
-The camera does a slow artful pan down toward the cup — then a leaf falls directly into it with a soft plop.
-She freezes, staring at the ruined latte art, deadpan.
-00:05–00:10 — REACTION
-She looks up at the camera, unimpressed, leaf still floating in the foam.
-"...Are you kidding me right now."
-The friend behind the camera bursts out laughing, shaking the frame violently.
-00:10–00:15 — THE "CANDID" WALK
-She gets up to attempt a slow-motion aesthetic walk past the café window, hair flowing, sunglasses going on in one smooth motion — sunglasses immediately get caught in her hair.
-She stops mid-stride, wincing, trying to untangle them one-handed while still smiling for the camera.
-The camera zooms in awkwardly close on the tangled sunglasses, then yanks back out.
-00:15–00:20 — BICYCLE MISHAP
-She leans against the parked bicycle for a "casual candid lean" pose, one hand in her pocket.
-The bicycle kickstand gives way and it slowly tips sideways, taking her balance with it.
-She stumbles but catches herself, laughing hard, one hand up defensively toward the lens.
-"Okay, delete that, delete that!"
-00:20–00:25 — GINKGO LEAF CHAOS
-She tries to recreate a "leaves falling around me" cinematic moment by tossing a handful of gathered ginkgo leaves into the air above her head.
-A gust of wind blows them straight back into her face instead.
-She spits out a leaf, blinking, completely unbothered and giggling.
-The camera shakes as the operator nearly drops it laughing.
-00:25–00:30 — FINAL MOMENT
-She gives up on the aesthetic altogether, plops back down at the café table, and grabs the leaf-ruined latte anyway, taking a defiant sip through the foam.
-She looks dead into the camera, deadpan, leaf still stuck to her sweater.
-"This is the content. This is it. Post this one."
-She gives an exaggerated thumbs up as the frame shakes with the friend's laughter, and the footage cuts abruptly to black.
-AUDIO
-Natural location sound only:
-Café ambience, cup clinking, leaves rustling, wind gusts, bicycle clattering, footsteps, her friend's audible laughter throughout, fabric rustling, and handheld camera noise.
-No music. No narration. No artificial sound effects.
-Spoken lines: "...Are you kidding me right now." / "Okay, delete that, delete that!" / "This is the content. This is it. Post this one."
-FINAL FEEL
-A self-aware, comedic behind-the-scenes of someone trying to film an aesthetic vlog and getting completely humbled by reality at every turn — warm, golden autumn light paired with genuine, unscripted chaos and laughter.
-No posed perfection sustained for more than a few seconds before something goes wrong. No exaggerated slapstick acting — the comedy comes from real reactions, real mishaps, and the gap between the "vision" and what actually happens on camera.
-```
-
-</details>
-
-<a id="seedance-korean-cafe-vlog-six-scenes"></a>
-### 女子在咖啡馆外喝冰咖啡
-
-<a href="https://x.com/ZorviaLux/status/2106230270282313997"><img src="../../previews/seedance-korean-cafe-vlog-six-scenes.jpg" width="360"></a>
-
-每个场景都编号并重复相同的服装、发型和手提包描述，使角色在各镜头之间保持一致。每个段落都写明镜头运动（远景、特写、跟拍、慢动作）和光源，让黄金时段、蓝调时刻和串灯夜景的变化在时间线上清晰可辨。
-
-Seedance 2.5 · 文生视频 · 出处: [@ZorviaLux on X](https://x.com/ZorviaLux/status/2106230270282313997) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`vlog`](tags.md#tag-vlog) [`character-consistency`](tags.md#tag-character-consistency) [`multi-scene`](tags.md#tag-multi-scene) [`korean`](tags.md#tag-korean)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 60-second ultra-realistic cinematic lifestyle vlog featuring a beautiful young Korean woman with long dark brown hair, soft natural makeup, and a gentle smile. She wears a delicate white floral dress with a light cream cardigan and carries a small white handbag.
-
-**Scene 1:** She stands outside a modern aesthetic café surrounded by lush green plants and glass windows. She holds an iced coffee, takes a sip, gently adjusts her hair, and smiles naturally at the camera.
-
-**Scene 2:** Close-up cinematic shots of her face as she enjoys her coffee. Soft sunlight illuminates her face. She looks relaxed and happy, with subtle natural movements.
-
-**Scene 3:** She walks along a beautiful city street during golden hour, wearing the same outfit. The camera follows her from behind and captures elegant side-profile shots.
-
-**Scene 4:** She arrives at a rooftop viewpoint overlooking a beautiful city skyline during sunset. The golden sun slowly sets behind the buildings. She sits on a bench, gazes at the sunset, and enjoys the peaceful atmosphere.
-
-**Scene 5:** At blue hour, she walks along a modern urban street with glowing streetlights and passing cars. The camera captures her beautiful side profile and flowing hair in a cinematic tracking shot.
-
-**Scene 6:** Nighttime outdoor café with warm fairy lights hanging overhead. She sits at a cozy wooden table with her iced coffee and handbag. She smiles at the camera, raises her drink, takes a sip, and waves goodbye with a cheerful expression.
-
-**Visual style:** Ultra-realistic 4K, photorealistic skin texture, natural facial expressions, cinematic depth of field, soft lighting, warm golden-hour tones, beautiful bokeh, smooth camera movements, professional color grading, realistic hair physics, natural body movements, aesthetic Korean lifestyle vlog, dreamy peaceful atmosphere.
-
-**Camera:** Mix of wide shots, medium shots, close-ups, slow-motion details, smooth tracking shots, and gentle cinematic transitions.
-
-**Mood:** Peaceful, romantic, cozy, elegant, dreamy everyday life.
-
-Maintain perfect character consistency, identical facial features, hairstyle, clothing, and accessories across all scenes. No distorted hands, no flickering, no face changes, no unnatural movements, no text, no watermark.
-```
-
-</details>
-
-<a id="seedance-korean-campus-day-vlog"></a>
-### 韩国女大学生在城市公交上的自拍镜头
-
-<a href="https://x.com/aiwithaly/status/2096818423846334683"><img src="../../previews/seedance-korean-campus-day-vlog.jpg" width="360"></a>
-
-提示词把一天拆成按顺序排列的场景段落并写明地点，再统一手持自拍、POV 和自动对焦的镜头语言，以及环境音清单，使各个镜头保持同一质感。同时限定英文对白且不加背景音乐，让声音贴合真实场景。
-
-Seedance 2.5 · 文生视频 · 出处: [@aiwithaly on X](https://x.com/aiwithaly/status/2096818423846334683) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`vlog`](tags.md#tag-vlog) [`korean-campus`](tags.md#tag-korean-campus) [`day-in-life`](tags.md#tag-day-in-life) [`pov-selfie`](tags.md#tag-pov-selfie)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second photorealistic live-action 2026 Korean university lifestyle vlog following a young Korean female student through one beautiful ordinary day. Start with a morning city-bus ride and ocean-like city reflections through the window, then move naturally through a busy campus lecture, iced coffee break, quiet library study, cafeteria lunch with a friend, energetic dance-club practice, golden-hour campus walk, and peaceful blue-hour night stroll.
-
-Use authentic modern Korean university surroundings, natural student clothing, realistic Korean facial features, subtle expressions and spontaneous interactions. High-end smartphone vlog aesthetic with handheld movement, selfie shots, POV footage, natural autofocus, exposure changes and realistic motion blur. Hair, cardigan, backpack and objects react naturally to movement, wind and gravity. Include realistic bus movement, walking, dancing, coffee condensation, food steam and believable human biomechanics.
-
-English dialogue only, with natural location sounds such as bus noise, classroom ambience, café chatter, footsteps, cafeteria sounds, dance-room audio and nighttime campus ambience. No narrator, no background music, no CGI, animation, subtitles, logos or watermark.
-```
-
-</details>
-
-<a id="seedance-korean-convenience-store-friends-vlog"></a>
-### 两位女生在便利店冰柜前挑选食物
-
-<a href="https://x.com/ayzalnooor24521/status/2109850322286076180"><img src="../../previews/seedance-korean-convenience-store-friends-vlog.jpg" width="360"></a>
-
-提示词把片段按顺序拆成便利店、夜晚街头、离开三段，每次场景切换都写得很明确。两人的服装逐一固定，再加上手持镜头、环境声和纪实风格的描述，让人物前后一致、画面自然。
-
-Seedance 2.5 · 文生视频 · 出处: [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2109850322286076180) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`korean`](tags.md#tag-korean) [`street-vlog`](tags.md#tag-street-vlog) [`convenience-store`](tags.md#tag-convenience-store) [`documentary`](tags.md#tag-documentary)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Created a 30-second ultra-realistic cinematic Korean street vlog, vertical 9:16 format. Beautiful Korean girl with natural Korean beauty, fair clear skin, delicate facial features, dark eyes, and black hair tied in a casual ponytail, wearing a simple black oversized sweatshirt, loose dark track pants, and black-and-white sneakers. Her female friend wears a burgundy zip-up jacket and dark pants. The video begins inside a Korean convenience store, where the girl casually selects food from a refrigerated display while her friend stands nearby. She then pays at the checkout counter, holding a bottle of water and snacks. The scene transitions to a nighttime Korean street, where both girls sit at a small blue outdoor plastic table and chairs under cool streetlights, enjoying their snacks, checking their phones, drinking water, and chatting naturally with relaxed expressions. One girl smiles while looking at her phone, and the other takes a bite of her food and drinks from her water bottle. Near the end, one girl stands up, gathers her belongings, and walks away, leaving the empty blue chairs and table behind as her friend moves into the distance. Authentic Korean everyday lifestyle, candid moments, natural body movements, realistic facial expressions, subtle handheld camera movement, soft focus, shallow depth of field, convenience-store fluorescent lighting, cinematic blue nighttime tones, realistic skin texture, natural ambient street sounds, documentary-style storytelling, high-quality details, consistent character appearance throughout, no exaggerated acting, no artificial beauty filters, no text, no subtitles, no watermark.
-```
-
-</details>
-
-<a id="seedance-korean-countryside-chicken-coop-morning-vlog"></a>
-### 韩国乡村清晨鸡舍生活 Vlog
-
-<a href="https://x.com/aiwithaly/status/2097556131623432569"><img src="../../previews/seedance-korean-countryside-chicken-coop-morning-vlog.jpg" width="360"></a>
-
-用箭头把一连串动作拆成有序的节拍，让 30 秒的片段脉络清晰。再配上纪实手持风格、雾气与风声等环境声提示，结尾列出排除项（无背景音乐、字幕、标志），画面更自然。
-
-Seedance 2.5 · 文生视频 · 出处: [@aiwithaly on X](https://x.com/aiwithaly/status/2097556131623432569) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`vlog`](tags.md#tag-vlog) [`korean-countryside`](tags.md#tag-korean-countryside) [`documentary`](tags.md#tag-documentary) [`handheld`](tags.md#tag-handheld) [`morning-routine`](tags.md#tag-morning-routine)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second photorealistic Korean countryside lifestyle vlog following a woman through her peaceful morning routine. Show her opening the chicken coop → feeding the chickens → collecting fresh eggs → cleaning the coop → preparing a homemade breakfast → sitting outside and enjoying the quiet farmhouse morning.
-
-Authentic 2026 Korean rural life, natural human movement, realistic chicken behavior, fresh farm-to-table details, morning mist, soft sunlight, natural wind and environmental sounds, and documentary-style handheld cinematography. No background music, subtitles, logos or watermark.
-```
-
-</details>
-
-<a id="seedance-korean-couple-lazy-morning-pov-walk"></a>
-### 韩国情侣夏日慵懒清晨第一视角漫步
-
-<a href="https://x.com/AIwithJessica/status/2096779054720639258"><img src="../../previews/seedance-korean-couple-lazy-morning-pov-walk.jpg" width="360"></a>
-
-用参考图锁定两人的脸和服装，再把30秒拆成十个三秒小段，每段只写一个小动作。MiniDV手持风格、只保留现场环境声，并在结尾写明一致性要求，让画面更真实。
-
-Seedance 2.5 · 参考生视频 · 出处: [@AIwithJessica on X](https://x.com/AIwithJessica/status/2096779054720639258) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`pov-vlog`](tags.md#tag-pov-vlog) [`korean-lifestyle`](tags.md#tag-korean-lifestyle) [`couple`](tags.md#tag-couple) [`minidv`](tags.md#tag-minidv) [`reference-images`](tags.md#tag-reference-images)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-POV: Korean couple spends a lazy summer morning wandering their neighborhood 🇰🇷 Create a 30-second, 16:9 ultra-realistic live-action POV vlog using the uploaded reference images as the exact character references. Girl: preserve her face, long straight dark hair, eye color, skin tone, soft natural makeup, delicate drop earrings, and body proportions exactly as in reference image 2, wearing her sage-green sleeveless ribbed knit vest and white wide-leg trousers throughout. Boy: preserve his face, tousled dark wavy hair, earrings, layered silver chain necklace, chain bracelet and wristwatch exactly as in reference image 1, wearing his oversized dusty-pink smiley-face tee and white sweatshorts throughout.
-
-Style: Authentic Korean lifestyle vlog, early-2000s MiniDV/home-video aesthetic, handheld POV, imperfect framing, slight autofocus breathing, natural motion blur and exposure changes, soft overcast morning light. Spontaneous, unstaged chemistry.
-
-0–3s: She leans against a textured green courtyard wall, laughing as she films him approaching down the lane with two iced coffees.
-
-3–6s: They walk side by side down the narrow concrete alley, camera swinging naturally; he hands her a coffee and she takes a sip, smiling at the lens.
-
-6–9s: She spins slowly in front of an old wall covered in dappled tree-shadow, showing off her outfit; he claps and whistles playfully off-camera.
-
-9–12s: They pause by a row of parked bicycles; he pretends to ride one and she films, giggling, telling him to stop.
-
-12–15s: Inside the small convenience store, she picks a snack from the shelf while he sneaks a second item into her basket; she catches him and narrows her eyes.
-
-15–18s: Outside the store, they sit on a low step sharing the snack, passing it back and forth, natural laughter between bites.
-
-18–21s: Walking again, she films their shadows stretching across the pavement; he reaches over and gently tucks a strand of her hair back.
-
-21–24s: They stop by a wall of hanging laundry and potted plants; she pretends to interview him with the coffee cup as a microphone.
-
-24–27s: He points out something off-camera; she turns to look, laughing, then bumps his shoulder with hers.
-
-27–30s: They continue walking down the sunlit lane, hand in hand, camera trailing behind as they shrink into the distance; she glances back once, smiling, before the frame settles into a soft handheld sway.
-
-Audio: Natural location sound only—quiet residential ambience, birds, distant traffic, footsteps, rustling laundry, convenience store door chime, soft conversation and laughter. No music, narration or artificial SFX.
-
-Continuity/realism: Same woman and boyfriend throughout; consistent wardrobe and appearance matching the reference images exactly, believable Korean neighborhood environment, realistic physics and movement, natural couple chemistry. No teleportation, duplicates, distorted faces/hands, exaggerated acting, subtitles, captions, logos or watermarks.
-```
-
-</details>
-
-<a id="seedance-korean-couple-seoul-drive-dv-camcorder"></a>
-### 韩国情侣午后兜风DV摄像机风格
-
-<a href="https://x.com/AIwithkhan/status/2104776214066188611"><img src="../../previews/seedance-korean-couple-seoul-drive-dv-camcorder.jpg" width="360"></a>
-
-prompt按人物、分段剧情、镜头质感、音频、连续性和负面词分区,让30秒内容保持连贯。DV质感来自具体的瑕疵描述,如对焦抖动、意外变焦和曝光波动,音频只用内置麦克风的环境声,不加音乐。
-
-Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2104776214066188611) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dv-camcorder`](tags.md#tag-dv-camcorder) [`couple`](tags.md#tag-couple) [`seoul`](tags.md#tag-seoul) [`lo-fi-realism`](tags.md#tag-lo-fi-realism) [`native-audio`](tags.md#tag-native-audio)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video of a young Korean couple going for a casual afternoon drive through Seoul. The footage should feel like a genuine memory recorded by a friend, imperfect and spontaneous rather than a polished commercial.
-
-=== CHARACTERS ===
-
-GIRL: Young adult Korean woman in her early 20s, naturally beautiful, realistic skin, minimal makeup, long slightly wavy dark hair tied loosely with a few strands framing her face. Ll
-
-BOYFRIEND: Young adult Korean man in his early 20s, natural hairstyle, realistic skin, relaxed expression, wearing a loose white T-shirt, dark jeans and white sneakers. Keep his appearance consistent.
-
-=== STORY ===
-
-She waits outside her apartment building with a small shoulder bag, checking her phone and looking down the street. Her boyfriend arrives in an older compact car and smiles when he sees her. She opens the passenger door, gets inside and playfully looks toward the camera as if embarrassed about being filmed.
-
-They drive slowly through an older Seoul neighborhood. She sits in the passenger seat with the window slightly open, enjoying the breeze while her hair moves naturally. Her boyfriend occasionally glances at her and smiles while keeping his attention on the road.
-
-They stop at a small neighborhood convenience store. She gets out, buys two cold drinks and returns to the car. She hands one to her boyfriend, keeps the other for herself, and they laugh together before continuing the drive.
-
-Later, they park near a quiet riverside road. They get out and walk beside the parked car, talking casually. She takes a sip of her drink, makes a playful expression at the taste, and he laughs. She lightly pushes his shoulder and they continue walking together.
-
-A gentle breeze moves through her hair. He notices a strand across her face and gently moves it aside. She smiles and looks at him for a moment. They stand close together beside the car, sharing a quiet romantic moment.
-
-Near the end, she looks toward the camera and laughs shyly, then turns back toward her boyfriend. He steps closer, she smiles, and they share a brief, natural kiss. They pull back, laugh softly and remain standing close together as the camera keeps recording.
-
-The boyfriend looks toward the camera and jokingly shakes his head while she hides her face against his shoulder, laughing.
-
-=== CAMERA / DV FEEL ===
-
-Raw early-2000s consumer DV camcorder footage. Handheld camera operated by a friend sitting in the back seat and later walking with them. Imperfect framing, subtle handheld shake, autofocus hunting, occasional exposure shifts, faded summer colors, soft digital detail, mild sensor noise, natural motion blur and occasional accidental zooms. No stabilization and no polished cinematic movement.
-
-=== AUDIO ===
-
-Built-in camcorder microphone only. Car engine, road noise, turn signals, window breeze, distant Seoul traffic, convenience-store door chime, refrigerator hum, footsteps, birds, neighborhood voices, fabric movement and natural laughter. Their dialogue should feel casual and partially imperfect like a real home video. No music, no narration, no subtitles.
-
-=== REALISM / CONTINUITY ===
-
-Keep the same couple, faces, hairstyles, outfits, accessories and car throughout. Natural Korean facial features, realistic hands and fingers, believable walking, sitting, driving and kissing. Hair and clothing react naturally to the breeze and movement. Genuine expressions rather than exaggerated acting.
-
-=== NEGATIVE ===
-
-No cinematic commercial look, no gimbal shots, no drone shots, no dramatic lighting, no beauty filters, no plastic skin, no CGI appearance, no anime, no cartoon
-```
-
-</details>
-
-<a id="seedance-korean-farm-day-front-facing-home-video"></a>
-### 韩国农场一日家庭录像
-
-<a href="https://x.com/saniaspeaks_/status/2098742251472261330"><img src="../../previews/seedance-korean-farm-day-front-facing-home-video.jpg" width="360"></a>
-
-五段各五秒的时间线让三十秒的片段保持连贯。反复强调镜头始终在人物正面、手持 DV 的瑕疵以及只保留现场环境音，让家庭录像的真实感立得住。
-
-Seedance 2.5 · 文生视频 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2098742251472261330) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`home-video`](tags.md#tag-home-video) [`dv-camcorder`](tags.md#tag-dv-camcorder) [`korean`](tags.md#tag-korean) [`vlog`](tags.md#tag-vlog) [`farm`](tags.md#tag-farm)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman visiting a small traditional farm and helping with the animals. No reference image.
-
-A naturally pretty beautiful Korean woman in her early 20s, realistic natural skin texture, minimal makeup, relaxed and cheerful personality. Long black hair tied in a loose low ponytail. She wears a loose white cotton T-shirt, light olive-green cargo pants, brown ankle boots, and a beige canvas crossbody bag. Keep the same face, hairstyle, clothing, body proportions, and overall appearance throughout the entire video.
-
-A small traditional countryside farm outside Seoul during a warm summer afternoon. Wooden fences, green fields, an old farmhouse, barn, hay bales, vegetable patches, chickens, cows, buckets, farming tools, trees and natural countryside surroundings. The farm feels ordinary and lived-in, not like a tourist attraction.
-
-The camera is ALWAYS positioned IN FRONT OF THE GIRL, never behind her. A friend stands or walks in front of her, casually filming her with a handheld consumer DV camcorder/smartphone. Her front face must remain clearly visible during the important moments. The camera naturally moves backward while she walks toward it. Use imperfect handheld movement, small shakes, slightly uneven framing, autofocus hunting, occasional exposure changes, natural motion blur, soft digital detail, mild image noise, faded early-2000s home-video colors, and occasional accidental zooms.
-
-Absolutely NO rear-view shots, NO filming from behind, NO drone, NO gimbal, NO cinematic tracking shots, NO polished commercial look, NO beauty filter. It should genuinely feel like a friend casually recorded this afternoon.
-
-TIMELINE
-
-0:00–0:05 — Arriving at the Farm
-
-The girl walks toward the farm entrance while the friend walks backward in front of her filming. She smiles naturally and looks around at the animals and fields. She says casually in Korean:
-
-“오늘 농장에 왔어요.”
-
-Natural footsteps, birds, insects and distant farm sounds.
-
-0:05–0:10 — Feeding the Cow
-
-Still filmed from the front, the girl approaches a calm cow and holds out fresh vegetables. The cow gently eats from her hand. She laughs naturally and looks at the camera, then back at the cow.
-
-0:10–0:15 — Helping With Vegetables
-
-Hard cut. The camera remains in front of her as she walks through a vegetable patch and picks fresh vegetables. She holds them up toward the camera with a happy smile.
-
-0:15–0:20 — Chickens
-
-Hard cut. Several chickens suddenly walk across the path in front of her. The camera stays facing her from the front as she laughs and carefully steps around them. One chicken comes close to her boots.
-
-0:20–0:25 — Farmhouse Break
-
-She sits outside the farmhouse with a basket of freshly picked vegetables and eats a piece of fresh fruit. She looks relaxed and slightly tired from working. She smiles at the camera and says:
-
-“생각보다 재밌어요.”
-
-0:25–0:30 — Walking Away / Goodbye
-She gets up and walks toward the camera, then stops near the farm entrance. The friend keeps filming from directly in front of her. She gives a small wave and says:
-
-“다음에 또 올게요. 안녕!”
-
-She walks past the camera as the recording ends naturally.
-
-AUDIO:
-Only authentic location sound: birds, chickens, cows, insects, footsteps, leaves, distant farm activity and natural conversation. No background music, no narration, no artificial sound effects.
-
-FINAL LOOK:
-Completely believable real-life home-video footage. Slightly imperfect, spontaneous, unpolished and human. Front-facing camera coverage throughout the story, with the girl's face clearly visible.
-```
-
-</details>
-
-<a id="seedance-korean-man-errand-home-video"></a>
-### 年轻男子的日常跑腿，手持家庭录像风格
-
-<a href="https://x.com/Aqib__786Ai/status/2092122339463090626"><img src="../../previews/seedance-korean-man-errand-home-video.jpg" width="360"></a>
-
-提示词先用一段固定的人物与服装描述锁定一致性，再按时间码列出分段动作，并设定手持、对焦漂移、曝光变化等不完美镜头，让画面像朋友随手拍。音频只写现场环境声并禁止音乐和旁白，让成片保留生活质感。
-
-Seedance 2.5 · 文生视频 · 出处: [@Aqib__786Ai on X](https://x.com/Aqib__786Ai/status/2092122339463090626) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`home-video`](tags.md#tag-home-video) [`slice-of-life`](tags.md#tag-slice-of-life) [`handheld`](tags.md#tag-handheld) [`ambient-audio`](tags.md#tag-ambient-audio)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary day in the life of a young Korean man. No reference image.
-
-MAIN SUBJECT
-
-Young Korean man in his early 20s, naturally attractive, realistic skin texture, minimal grooming, relaxed and slightly sleepy expression.
-
-Medium-length naturally messy black hair, subtle stubble, a few loose strands falling across his forehead.
-
-Wearing an oversized faded charcoal T-shirt, loose olive trousers, worn sneakers, and a simple silver watch.
-
-Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
-
-SETTING
-
-A quiet older residential neighborhood during a warm summer afternoon.
-
-Small apartment buildings, narrow concrete alleys, rooftop terraces, neighborhood laundries, corner shops, parked bicycles, potted plants, utility wires, concrete staircases, trees providing patches of shade, and ordinary people going about their day.
-
-Everything should feel lived-in and authentic.
-
-CAMERA / VISUAL AESTHETIC
-
-Raw personal footage casually recorded by a friend.
-
-Handheld camera with natural shake, imperfect framing, occasional partial crops, autofocus hunting, exposure shifts between sunlight and shade, mild motion blur, soft image detail, subtle digital noise, slightly faded colors, and natural camera imperfections.
-
-The camera operator walks with him and reacts naturally.
-
-No stabilization, no cinematic camera movements, no dramatic lighting, no slow motion, no polished commercial appearance.
-
-The footage should feel accidentally beautiful rather than deliberately cinematic.
-
-⸻
-
-00:00–00:05 — LEAVING HOME
-
-He steps out of his apartment carrying a small reusable shopping bag.
-
-He locks the door, checks his pockets for his keys and phone, then starts walking downstairs.
-
-The camera follows behind him.
-
-He briefly looks back at the camera and gives a sleepy half-smile.
-
-⸻
-
-00:05–00:10 — MORNING ERRAND
-
-He walks through a quiet neighborhood alley toward a small local grocery shop.
-
-He passes parked bicycles and people watering plants outside their homes.
-
-He stops at a roadside fruit stand and picks up a couple of oranges, inspecting them casually before placing them into his bag.
-
-The camera briefly focuses on the fruit before returning to his face.
-
-⸻
-
-00:10–00:15 — SMALL BREAK
-
-He sits on a low concrete wall outside the shop.
-
-He opens a cold bottled drink and takes a few sips.
-
-A breeze moves his hair.
-
-He watches people passing by without saying anything.
-
-The camera stays slightly shaky and imperfectly framed, as if his friend is simply sitting nearby filming him.
-
-⸻
-
-00:15–00:20 — WALKING HOME
-
-He gets up and continues walking.
-
-A bicycle passes behind him.
-
-He notices a stray cat sitting beside a wall, crouches down and gently pets it.
-
-The cat walks away.
-
-He laughs quietly and stands back up.
-
-The camera operator accidentally cuts off part of his head while moving closer, then quickly reframes him.
-
-⸻
-
-00:20–00:25 — ROOFTOP
-
-He returns home and walks onto a small rooftop.
-
-He places the shopping bag beside an old chair.
-
-He leans against the railing and looks across the neighborhood.
-
-The afternoon sunlight falls naturally across his face.
-
-He runs his hand through his messy hair and quietly watches the distant buildings.
-
-⸻
-
-00:25–00:30 — FINAL MOMENT
-
-He notices the camera still recording.
-
-He looks directly into the lens and gives a tiny amused smile.
-
-He casually says:
-
-“You’re still recording?”
-
-He shakes his head and walks toward the camera.
-
-The camera moves backward slightly as he approaches.
-
-The recording abruptly cuts to black before he reaches the camera.
-
-⸻
-
-AUDIO
-
-Natural location sound only:
-
-Footsteps, distant traffic, bicycles, birds, wind, neighborhood conversations, shop sounds, bottle opening, fabric movement, doors closing, and subtle handheld camera noise.
-
-No music.
-
-No narration.
-
-No artificial sound effects.
-
-Only the single spoken line: “You’re still recording?”
-
-⸻
-
-FINAL FEEL
-
-The entire video should feel like a completely ordinary day that somehow became a beautiful memory.
-
-Quiet, masculine, youthful, intimate, warm, slightly nostalgic, and spontaneous.
-
-No dramatic events.
-
-No exaggerated acting.
-
-No model poses.
-
-No cinematic hero shots.
-
-The realism should come from tiny imperfections, casual body language, natural expressions, ordinary surroundings, imperfect camera operation, and moments that feel completely unplanned.
-```
-
-</details>
-
-<a id="seedance-korean-market-handheld-vlog"></a>
-### 手持拍摄乡村周日市集里的年轻女性
-
-<a href="https://x.com/Ciri_ai/status/2092839994499174581"><img src="../../previews/seedance-korean-market-handheld-vlog.jpg" width="360"></a>
-
-每个五秒分段都写明一个具体动作，并把手持抖动、对焦跟随和慢跑的拍摄者绑定到这些动作上，画面才像真实的随手拍。音频只保留现场声和两句台词，并明确禁止配乐与旁白，避免模型自行添加。
-
-Seedance 2.5 · 文生视频 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2092839994499174581) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`handheld-vlog`](tags.md#tag-handheld-vlog) [`korean-market`](tags.md#tag-korean-market) [`found-footage`](tags.md#tag-found-footage) [`rural-life`](tags.md#tag-rural-life)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary Sunday morning in the life of a young Korean woman. No reference image.
-
-MAIN SUBJECT
-
-Young Korean woman in her early 20s, natural and approachable look, realistic skin texture with visible pores, bare-faced or barely-there makeup, warm and slightly playful expression.
-
-Shoulder-length wavy black hair left down, side-swept bangs, small mole near her left eye.
-
-Wearing an oversized pastel-yellow hoodie, loose gray jogger pants, fuzzy slide sandals, and a small crossbody pouch bag.
-
-Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
-
-SETTING
-
-A small countryside town on a bright, breezy Sunday morning.
-
-A traditional outdoor market with striped awnings, crates of vegetables, a fishmonger's stall, an old bus stop with a rusted bench, a narrow road running alongside rice paddies, a local bakery with a hand-painted sign, a grandmother's front yard with drying red peppers on a mat, chickens wandering nearby, and mountains faintly visible in the background. Everything sun-bleached, dusty, and authentically rural.
-
-CAMERA / VISUAL AESTHETIC
-
-Raw personal footage casually recorded by a friend, strong handheld vlog feel throughout.
-
-Constant natural hand shake and micro-jitters, footsteps visibly bouncing the frame, imperfect and often off-center framing, occasional partial crops of her face or shoulder, autofocus visibly hunting between her and the background, exposure flaring when the camera swings toward the sun, mild motion blur on quick turns, soft image detail, subtle digital noise, slightly warm and faded color grading like an old phone camera.
-
-The camera operator walks and jogs to keep up with her, breathing audible at times, camera dipping and swaying with each step.
-
-No stabilization, no gimbal smoothness, no cinematic camera movements, no dramatic lighting, no slow motion, no polished commercial appearance.
-
-The footage should feel like a real, unplanned phone recording — accidentally beautiful rather than deliberately cinematic.
-
----
-
-00:00–00:05 — MARKET ENTRANCE
-
-She weaves through the outdoor market stalls, the camera bouncing behind her as it struggles to keep pace.
-
-She stops briefly to pick up a small bag of cherry tomatoes, holding them up toward the camera with a grin.
-
-The frame jolts as the operator steps over a crate in the path.
-
-**00:05–00:10 — FISH STALL DETOUR**
-
-She wanders to the fishmonger's stall, wrinkling her nose playfully at the smell and laughing.
-
-The camera whip-pans slightly too fast trying to follow her hand gesture, briefly blurring before catching focus again.
-
-She waves the camera away, still laughing: *"Ugh, don't film that, film me!"*
-
-**00:10–00:15 — BUS STOP WAIT**
-
-She jogs to catch the local bus stop bench just as an old bus pulls away without her, the camera shaking hard from the sudden running motion.
-
-She throws her hands up in mock frustration, plops down on the rusted bench, and sighs dramatically, laughing at herself.
-
-The frame settles slightly off-center as she rests her chin on her palm.
-
-**00:15–00:20 — RICE PADDY ROAD**
-
-She walks along the narrow road beside the rice paddies, wind blowing loose strands across her face.
-
-The camera drifts low near her feet as she kicks a small pebble, then swings back up to her face, slightly overexposed from the open sky.
-
-She spins around once with her arms out, the frame swaying and overshooting past her before correcting.
-
-**00:20–00:25 — GRANDMOTHER'S YARD**
-
-She ducks into a yard where red peppers dry on a mat, crouching to gently shoo away a curious chicken pecking near her sandals.
-
-The camera jerks back suddenly as the chicken flaps its wings, both of them startled and laughing.
-
-She picks up a dried pepper, sniffs it, makes a face, and tosses it back down.
-
-**00:25–00:30 — FINAL MOMENT**
-
-She grabs a warm bag of fresh bread from the nearby bakery counter, takes a big bite, and turns straight to the camera mid-chew.
-
-The frame shakes as she leans in too close, filling half the screen with her grinning face.
-
-She says, muffled and amused:
-
-*"Okay, stop filming me eating!"*
-
-She swats the camera lens with her hand, and the footage cuts abruptly to black, mid-laugh.
-
----
-
-**AUDIO**
-
-Natural location sound only:
-
-Market chatter, footsteps crunching on gravel, a bus engine pulling away, wind, chickens clucking, rustling plastic bags, distant rooster crow, bread bag crinkling, the operator's breathing and quiet laughter, and audible handheld camera noise.
-
-No music. No narration. No artificial sound effects.
-
-Only the spoken lines: *"Ugh, don't film that, film me!"* and *"Okay, stop filming me eating!"*
-
-**FINAL FEEL**
-
-The entire video should feel like a chaotic, cheerful, completely unplanned Sunday morning caught on a friend's phone — bright, breezy, playful, and warmly nostalgic.
-
-No dramatic events. No exaggerated acting. No model poses. No cinematic hero shots.
-
-The realism should come from constant handheld imperfection, sun glare, dust, uneven pacing, real laughter, and moments that feel genuinely caught rather than staged.
-```
-
-</details>
-
-<a id="seedance-korean-morning-routine-day-in-the-life"></a>
-### 女子醒来，开始安静的早晨
-
-<a href="https://x.com/ChillaiKalan__/status/2095812367527616536"><img src="../../previews/seedance-korean-morning-routine-day-in-the-life.jpg" width="360"></a>
-
-参考图被锁定为精确首帧，并在每个时间段重复身份、服装和光线约束，使模型在整段视频中保持同一人物和同一光源。纪实手持取景加上仅有环境声、无配乐的音频设定，让画面贴近日常生活而不是广告质感。
-
-Seedance 2.5 · 图生视频 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2095812367527616536) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`korean`](tags.md#tag-korean) [`morning-routine`](tags.md#tag-morning-routine) [`day-in-the-life`](tags.md#tag-day-in-the-life) [`handheld`](tags.md#tag-handheld) [`ambient-audio`](tags.md#tag-ambient-audio)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-30 seconds | 16:9 | Ultra-photorealistic live-action
-
-Create a natural Korean morning-routine day-in-the-life video featuring one young Korean woman waking up 
-and easing into her quiet morning at home.
-
-Use the reference image as the EXACT starting frame — she is lying in bed, just waking up. Use the 
-reference image for her exact facial identity, hairstyle, skin tone, and body proportions. Keep her 
-appearance consistent throughout the entire video. The video begins from this reference pose and moves 
-forward naturally.
-
-OUTFIT: Soft cream/white cotton loungewear or a light pajama set to start; she stays in comfortable 
-loungewear throughout (no wardrobe change). Minimal or no jewelry. Hair natural and slightly tousled 
-from sleep at the start, settling as the morning goes on.
-
-TIME & LIGHTING: Soft early-morning summer sunlight, gradually warming as the morning progresses. Gentle, 
-consistent natural light, shadows, color temperature, and time of day across every scene.
-
-00–05s — Waking up (starts from reference image)
-The video opens on the exact reference pose — she is lying in bed, eyes just opening, waking up slowly. 
-Soft morning light filters through sheer curtains onto the bed. She stirs gently, blinks, and slowly 
-sits up, stretching her arms with a soft, sleepy motion. Her hair is naturally tousled.
-She rubs her eyes, looks softly toward the window, and quietly says:
-"Morning already…"
-
-05–11s — Out of bed
-She swings her legs off the bed and stands, stretching gently. She pads across the room and opens the 
-curtains — bright morning light floods in. She looks out the window for a moment at the quiet neighborhood 
-outside (rooftops, trees, soft sky). Natural, unhurried movement.
-
-11–17s — Washing up
-She walks to the bathroom sink. She turns on the faucet and splashes cool water on her face, then pats 
-it dry with a soft towel. Water droplets fall naturally. She looks at herself briefly in the mirror, 
-tucks her hair behind her ear, and takes a slow breath. Fresh and calm.
-
-17–23s — Making breakfast / morning drink
-She moves to the kitchen. She fills a kettle and sets it to boil, then takes a mug and a tea bag (or 
-pour-over coffee) from the counter. Steam rises as she pours the hot water — the liquid swirls naturally 
-in the mug. She sets a simple breakfast on a small plate (toast, fruit, or a pastry). Gentle, homey 
-morning movements.
-
-23–30s — Quiet morning moment
-She sits by the window with her warm mug and breakfast, both hands wrapped around the cup. She takes a 
-slow first sip, pauses, and smiles softly.
-She looks out at the morning light and quietly says:
-"Perfect start."
-The camera slowly drifts backward, capturing the cozy bedroom/kitchen, the open window, gentle curtain 
-movement, soft morning light, and the calm start-of-day atmosphere.
-Cut naturally at the end.
-
-CAMERA STYLE: Documentary lifestyle footage with smooth handheld movement. Natural tracking shots, 
-occasional subtle camera sway, realistic focus transitions, restrained depth of field, natural lens 
-behavior, and authentic perspective. Avoid overly cinematic shots or commercial advertising aesthetics.
-
-AUDIO: Real environmental audio only — soft morning ambience, birdsong outside, sheets rustling, a gentle 
-yawn, curtains sliding open, water running, towel patting, kettle boiling, water pouring into a mug, a 
-spoon clinking, breathing, and natural sipping sounds. No background music.
-
-PHYSICAL REALISM: The bedsheets shift and drape naturally as she wakes and rises. Her stretching, standing, 
-and walking feel spontaneous and physically accurate. Water flows and droplets fall naturally. The kettle 
-steams and the liquid pours with realistic fluid dynamics. Hands maintain believable grip and pressure. 
-All body movements — waking, stretching, walking, washing, pouring, sitting, sipping — should feel natural 
-and unforced.
-```
-
-</details>
-
-<a id="seedance-korean-school-rooftop-sunset"></a>
-### 两名学生在日落屋顶追逐纸张
-
-<a href="https://x.com/Aqsahere_/status/2091001743035564070"><img src="../../previews/seedance-korean-school-rooftop-sunset.jpg" width="360"></a>
-
-参考图锁定两名学生的脸部、发型和校服，提示词列出七个编号镜头，保证片段连贯。风力、不完美对焦、轻微手持抖动等具体细节，加上明确排除的广告感画面，让它更像真实的校园素材。
-
-Seedance 2.5 · 参考生视频 · 出处: [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2091001743035564070)
-
-[`handheld-camera`](tags.md#tag-handheld-camera) [`reference-faces`](tags.md#tag-reference-faces) [`school-life`](tags.md#tag-school-life) [`sunset`](tags.md#tag-sunset)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairstyles, body proportions, school uniforms, and the real rooftop environment. Exactly two students are present. A strong sudden gust of wind hits the rooftop and scatters their loose homework papers across the concrete. Seolran and Mujin react naturally and immediately run in different directions trying to catch the flying pages. Papers blow realistically around their legs and across the rooftop, some sliding along the ground while others briefly lift into the air. They chase the pages with natural hurried movements, occasionally almost catching one before the wind pulls it away. Mujin manages to grab several pages and tries to hand them back to Seolran, but another gust sends one page directly toward her face. The paper gently lands against her face for a moment. She freezes in surprise, pulls it away, looks at Mujin, and they both burst into natural laughter. End with them standing together collecting the remaining papers while the warm sunset and distant mountains remain in the background. Use 7 distinct handheld camera shots: wide rooftop establishing shot, low angle following the papers, side tracking shot while they run, close-up of their hands grabbing papers, medium shot of them chasing in opposite directions, close-up when the paper hits Seolran’s face, and a final wide sunset shot of both laughing and gathering the homework. Make it feel like authentic Korean school-life footage rather than a commercial: realistic smartphone/cinema-camera texture, natural sunset lighting, believable wind physics, realistic paper movement, natural hair and uniform movement, subtle handheld camera shake, imperfect autofocus, natural facial expressions, realistic skin texture and breathing, spontaneous body movement and genuine laughter. No exaggerated comedy, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no fantasy, no extra people, no distorted hands or anatomy.
-```
-
-</details>
-
-<a id="seedance-korean-seaside-harbor-flip-camera-vlog"></a>
-### 韩国海边港口翻盖相机随拍 Vlog
-
-<a href="https://x.com/ShamiWeb3/status/2096101448090267992"><img src="../../previews/seedance-korean-seaside-harbor-flip-camera-vlog.jpg" width="360"></a>
-
-按四秒左右的时间段列出动作和韩语台词，让 30 秒的 Vlog 节奏清晰。统一的风格段落写明 2000 年代末翻盖相机的画质缺陷，再用否定清单排除精致感，并单独写环境音，画面才显得真实粗粝。
-
-Seedance 2.5 · 参考生视频 · 出处: [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2096101448090267992) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`vlog`](tags.md#tag-vlog) [`handheld`](tags.md#tag-handheld) [`korean`](tags.md#tag-korean) [`timestamped`](tags.md#tag-timestamped) [`ambient-sound`](tags.md#tag-ambient-sound)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Preserve the exact facial features, identity, skin tone, and natural facial proportions from @image1 throughout. Do not copy the reference hairstyle or outfit. Outfit: lightweight cream sleeveless blouse, high-waisted faded blue jeans, white canvas sneakers, small gold hoop earrings, loose natural wavy hair. Authentic Korean woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, spontaneous reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
-
-00:00–00:04 Walking quickly down a narrow seaside alley while holding the camera, suddenly spotting the ocean at the end of the street. She turns the camera toward it and excitedly says in Korean, "잠깐, 바다가 보여요!"
-
-00:04–00:08 Runs toward a small harbor, laughing as the camera shakes heavily. She reaches the railing, leans over carefully, and watches fishing boats moving across the water.
-
-00:08–00:12 Spots a fisherman pulling in a small fishing net and asks if she can help. She grabs one end of the net, struggles with the weight, laughs, and says in Korean, "생각보다 훨씬 무거운데요?"
-
-00:12–00:16 The fisherman shows her a freshly caught fish. She reacts with wide-eyed surprise, steps backward laughing, then cautiously reaches out to touch it while saying, "우와, 진짜 크다!"
-
-00:16–00:20 Walks into a tiny harbor-side snack shop, discovers a bowl of freshly made fish cake soup, sits at the counter, takes a sip, and smiles with satisfaction.
-
-00:20–00:24 Steps outside holding the warm cup, notices a group of neighborhood grandmothers playing a casual Korean card game at a plastic table. She joins them briefly, laughs at their playful reactions, and gestures toward the camera.
-
-00:24–00:27 Walks along the harbor promenade eating a small ice cream, filming boats and seagulls before accidentally getting a little ice cream on her nose. She notices it and laughs.
-
-00:27–00:30 Stops beside the harbor railing as the wind moves her hair, turns the camera toward herself, smiles naturally, and says in Korean, "오늘 진짜 재밌었다. 다음에 또 올게요. 안녕!" She waves and the recording ends abruptly.
-
-Natural ambience only: ocean waves, seagulls, fishing boats, harbor conversations, footsteps, wind, net ropes, shop sounds, card-table laughter, distant scooters, and neighborhood activity. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera Korean vacation vlog with spontaneous actions, imperfect framing, authentic Korean dialogue, realistic human movement, and natural interactions. Aspect ratio: 16:9.
-```
-
-</details>
-
-<a id="seedance-korean-summer-peach-snack-day-in-the-life"></a>
-### 韩国夏日午后桃子小食日常
-
-<a href="https://x.com/ChillaiKalan__/status/2094633575547314503"><img src="../../previews/seedance-korean-summer-peach-snack-day-in-the-life.jpg" width="360"></a>
-
-三十秒内按时间戳拆成六个段落，并用参考图锁定人物身份，服装与光线全程一致。镜头风格、环境音、物理真实感和负面提示各自成段，把画面推向纪录片质感而不是广告感。
-
-Seedance 2.5 · 参考生视频 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2094633575547314503) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`day-in-the-life`](tags.md#tag-day-in-the-life) [`photorealistic`](tags.md#tag-photorealistic) [`korean`](tags.md#tag-korean) [`documentary`](tags.md#tag-documentary) [`multi-scene`](tags.md#tag-multi-scene)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-30 seconds | 16:9 | Ultra-photorealistic live-action
-
-Create a natural Korean summer day-in-the-life video featuring one young Korean woman spending a quiet afternoon preparing a simple chilled fruit snack at home.
-
-Use the reference image only for her exact facial identity, hairstyle, skin tone, and body proportions. Keep her appearance consistent throughout the entire video.
-
-OUTFIT: Lightweight pale-yellow short-sleeve blouse, loose white cotton pants, simple canvas shoulder bag, white low-profile sneakers, minimal silver jewelry. Outfit remains unchanged from beginning to end.
-
-TIME & LIGHTING: Warm late-afternoon summer sunlight. Consistent weather, shadows, color temperature, and time of day across every scene.
-
-00–05s — Neighborhood walk
-
-She leaves a small Korean apartment building carrying her canvas bag and walks down a quiet residential street.
-
-Trees move gently in the summer breeze. Parked scooters, apartment entrances, utility poles, bicycles, and distant pedestrians create an authentic neighborhood atmosphere.
-
-She briefly looks at the camera and says:
-“I need something refreshing today.”
-
-05–10s — Local fruit stand
-
-She arrives at a small neighborhood fruit shop with crates of peaches, grapes, melons and Korean pears.
-
-Instead of immediately picking something, she walks around comparing the fruit.
-
-She notices a basket of peaches, picks one up carefully, examines it, smells it, and smiles.
-
-The shop owner says something casually off-camera.
-
-She responds:
-“This one looks perfect.”
-
-She places several peaches into her canvas bag.
-
-10–15s — Walking home
-
-She walks back through the neighborhood carrying the slightly heavier bag.
-
-The camera follows from behind and then moves beside her.
-
-She adjusts the bag against her shoulder as the fruit shifts naturally inside.
-
-A bicycle passes in the background. Leaves move gently in the breeze. Her hair moves subtly with the air.
-
-15–21s — Apartment kitchen
-
-She enters her apartment kitchen and places the peaches on the counter.
-
-She turns on the faucet and rinses them under cool running water.
-
-Water droplets collect on the fruit and fall naturally into the sink.
-
-She dries one peach with a clean kitchen towel and places it onto a small ceramic plate.
-
-21–26s — Preparing the snack
-
-She sits at the kitchen counter.
-
-Using a small kitchen knife, she carefully slices the peach in half.
-
-The knife meets realistic resistance before passing through the soft fruit.
-
-She removes the pit, cuts several thin slices, and arranges them casually on the plate.
-
-Close-up of realistic juice and peach texture.
-
-26–30s — First bite
-
-She picks up one slice and takes her first bite.
-
-She pauses for a moment, smiles naturally, and quietly says:
-
-“So good.”
-
-She looks toward the window as warm sunlight falls across the kitchen.
-
-The camera slowly drifts backward, capturing the cozy kitchen, open window, gentle curtain movement, and late-summer atmosphere.
-
-Cut naturally at the end.
-
-CAMERA STYLE: Documentary lifestyle footage with smooth handheld movement. Natural tracking shots, occasional subtle camera sway, realistic focus transitions, restrained depth of field, natural lens behavior, and authentic perspective. Avoid overly cinematic shots or commercial advertising aesthetics.
-
-AUDIO: Real environmental audio only — distant neighborhood sounds, footsteps, bicycle passing, fruit shop conversations, plastic bags, fruit being handled, apartment door, running water, knife against cutting board, refrigerator hum, subtle curtain movement, breathing, and natural eating sounds. No background music.
-
-PHYSICAL REALISM: The shopping bag reacts naturally to the weight of the fruit. Peach movement follows gravity and momentum. Hands maintain believable grip and pressure. Water flows naturally. Knife movement shows realistic cutting resistance. All body movements, walking, reaching, lifting, sitting, washing, cutting, and eating should feel spontaneous and physically accurate.
-
-CONTINUITY: Same woman, facial identity, hairstyle, body proportions, outfit, bag, fruit, apartment, kitchen, weather, lighting, and time of day throughout. No unexplained object changes.
-
-NEGATIVE PROMPT: No CGI look, synthetic skin, beauty filter, excessive sharpening, HDR, artificial blur, unrealistic depth of field, robotic movement, weightless objects, floating fruit, impossible hand positions, distorted anatomy, extra fingers, malformed hands, face drift, character replacement, wardrobe changes, hairstyle changes, teleportation, instant cutting, duplicated people, inconsistent shadows, sudden weather changes, excessive wind, text, subtitles, logos, watermark, background music, commercial advertisement style. <<<259c3755-e438-49f5-b983-e6673a6ad05c>>> <<<259c3755-e438-49f5-b983-e6673a6ad05c>>>
-```
-
-</details>
-
-<a id="seedance-korean-sunday-chores-dv-home-video"></a>
-### 韩国女子清扫门前台阶的千禧年DV家庭录像
-
-<a href="https://x.com/Ciri_ai/status/2099379932082348417"><img src="../../previews/seedance-korean-sunday-chores-dv-home-video.jpg" width="360"></a>
-
-提示词按主体、场景、动作序列、镜头、音频、连贯性和负面词分块书写。每个动作都是不剪辑的长镜头,并明确列出DV的瑕疵,如自动对焦来回拉扯、褪色和意外变焦。音频只写环境声,连贯性一块锁定道具和猫,避免物体消失或重复。主体通过参考图锁定人物身份。
-
-Seedance 2.5 · 参考生视频 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2099379932082348417) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dv-camcorder`](tags.md#tag-dv-camcorder) [`home-video`](tags.md#tag-home-video) [`observational`](tags.md#tag-observational) [`korean`](tags.md#tag-korean) [`ambient-audio`](tags.md#tag-ambient-audio)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic early-2000s DV home video of a young Korean woman doing quiet Sunday chores around her home in an older Seoul neighborhood. Purely observational, no dialogue, no narrative arc  just rhythmic, textural everyday realism.
-MAIN SUBJECT
-Young Korean woman same as , early 20s, natural beauty, realistic skin texture, no makeup, black hair tied up messily in a claw clip, oversized faded T-shirt, rolled-up sweatpants, bare feet or house slippers. Keep her identity, outfit, hairstyle and proportions perfectly consistent throughout.
-SETTING
-The front step and small yard/alley outside an older Seoul home. Concrete step, a low gate, potted plants, a garden hose, a trash bin, scattered leaves. Ordinary, lived-in, no landmarks or brand names.
-SEQUENCE (rhythmic, no dialogue)
-She sweeps the front step with a short broom, dust and leaves scattering in the light.
-She crouches down and pours a small amount of dry food into a bowl for a neighborhood cat waiting nearby; the cat eats while she watches briefly.
-She stands and waters potted plants along the wall with a small watering can, water visibly darkening the soil.
-She picks up a bagged trash bundle and carries it a few steps to place it by the curb/bin.
-She wipes her hands on her shirt, looks around the now-tidy step and yard for a moment, then exhales/stretches.
-She glances toward the camera briefly with a small, tired smile — no words — then turns and walks back inside.
-Camera holds on the empty, swept step for a beat before cutting to black.
-CAMERA
-Raw handheld early-2000s DV camcorder, shaky footage, autofocus hunting, faded colors, exposure shifts, motion blur, soft digital detail, occasional accidental zooms. Observational, documentary-like framing — lingering shots, no cuts within actions. No polished cinematography.
-AUDIO
-Natural ambience only — broom bristles on concrete, water pouring, cat eating, distant birds, wind, a far-off scooter or dog bark, plastic bag rustling, faint footsteps. No dialogue, no music.
-CONTINUITY
-Broom, watering can and trash bag each remain consistent through their respective actions. Cat stays in frame while eating, doesn't disappear or duplicate. No teleporting or vanishing objects. Smooth, realistic, unhurried movement throughout.
-NEGATIVE
-CGI look, plastic skin, identity drift, outfit changes, distorted hands, extra fingers, subtitles, watermark.
 ```
 
 </details>

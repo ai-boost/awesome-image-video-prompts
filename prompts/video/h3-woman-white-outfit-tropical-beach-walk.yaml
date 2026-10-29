@@ -1,0 +1,60 @@
+id: h3-woman-white-outfit-tropical-beach-walk
+title:
+  en: Woman in white walks along tropical beach
+  zh: 白衣女子漫步热带海滩
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- tropical-beach
+- golden-hour
+- character-consistency
+- multi-scene
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2104438855785136257
+  credit: Calira
+  likes: 219
+  captured: '2026-10-29'
+  posted: '2026-09-28'
+video: https://x.com/CaliraVal/status/2104438855785136257
+notes:
+  en: The prompt splits the brief into labeled sections for character, outfit, environment and lighting, then lists five scenes in order from aerial opening to tracking shot, close-up and orbit. Repeating the identity lock in the character block keeps her face and white outfit consistent across cuts.
+  zh: 提示词按角色、服装、环境、光线分段，再按顺序列出五个镜头，从航拍开场到跟拍、特写、环绕侧拍直至结尾拉远，形成连贯的镜头语言。角色段重复锁定脸部和服装的一致性要求，有助于人物在切换镜头后保持不变。
+prompt: |
+  Created with MiniMax H3.
+
+  Create a 15-second ultra-realistic cinematic tropical beach adventure video set in a breathtaking tropical paradise with crystal-clear turquoise water, golden sandy beaches, lush palm trees, dramatic coastal cliffs, and a beautiful ocean horizon.
+
+  CHARACTER:
+  A beautiful young adult Japanese woman, around 22–25 years old, with natural Japanese facial features, fair skin, expressive dark-brown eyes, long wavy black hair, subtle natural makeup, and a gentle, confident expression. Keep her face, hairstyle, body proportions, clothing, and overall identity perfectly consistent throughout the entire video.
+
+  OUTFIT:
+  She wears a stylish white summer outfit consisting of a lightweight white linen shirt, a cream-colored flowing maxi skirt, comfortable sandals, and a small beige shoulder bag. Her clothes and hair move naturally with the ocean breeze.
+
+  ENVIRONMENT:
+  A breathtaking tropical beach with crystal-clear turquoise waves, soft golden sand, lush green palm trees, distant rocky islands, dramatic coastal cliffs, and sunlight reflecting across the ocean. Gentle waves wash onto the shore, leaving realistic wet sand and reflections. The atmosphere feels peaceful, luxurious, and adventurous.
+
+  LIGHTING AND CINEMATOGRAPHY:
+  Warm golden-hour sunlight, soft highlights on the ocean, natural shadows, realistic skin texture, cinematic depth of field, subtle lens flare, smooth camera movement, natural motion blur, and high-end travel-film color grading.
+
+  SCENE 1 — EPIC BEACH ESTABLISHING SHOT:
+  Start with a breathtaking aerial wide shot of a tropical beach surrounded by lush green cliffs and turquoise water. The woman stands near the shoreline with her back toward the camera, looking out at the endless ocean. Gentle waves roll toward her feet as the camera slowly descends and moves closer.
+
+  SCENE 2 — WALKING ALONG THE SHORE:
+  Transition into a smooth tracking shot as she walks barefoot along the wet sandy beach. Small waves gently touch her feet, leaving realistic footprints in the sand. Her long wavy hair and flowing white shirt move naturally in the ocean breeze. The camera follows her from behind and slightly to the side.
+
+  SCENE 3 — CINEMATIC CLOSE-UP:
+  Cut to an intimate close-up of her face as she turns toward the camera and gives a soft, natural smile. Her hair gently moves across her face in the breeze. Warm sunlight illuminates her skin, while the turquoise ocean creates a beautifully blurred background.
+
+  SCENE 4 — OCEANFRONT MOMENT:
+  Move to a beautiful side-profile shot as she stands near the water, looking toward the distant islands. She gently closes her eyes and feels the ocean breeze. The camera slowly circles around her while sunlight creates a soft golden rim light around her hair.
+
+  SCENE 5 — DRAMATIC CINEMATIC ENDING:
+  Finish with a wide cinematic shot of the woman walking toward a scenic coastal viewpoint overlooking the vast turquoise ocean. The sun begins to set, painting the sky with soft golden, peach, and pink tones. The camera slowly pulls backward and upward, revealing the breathtaking tropical coastline. End on a peaceful, dreamy cinematic frame.
+
+  MOOD AND STYLE:
+  Dreamy, peaceful, adventurous, romantic, elegant, refreshing, tropical paradise, premium cinematic travel-film atmosphere.
+
+  QUALITY REQUIREMENTS:
+  Ultra-realistic, photorealistic, 4K cinematic quality, realistic human anatomy, consistent facial identity, natural facial expressions, realistic ocean waves, accurate water reflections, realistic wind simulation, natural lighting, detailed environment, cinematic depth of field, high dynamic range, and professional color grading. No artificial CGI appearance, no distorted anatomy, no identity changes, and no unnatural movements.

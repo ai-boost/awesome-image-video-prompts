@@ -1,0 +1,27 @@
+id: h3-anime-tomato-egg-noodle-storyboard
+title:
+  en: Anime cook making tomato egg noodles at dusk
+  zh: 动漫女子黄昏厨房制作番茄鸡蛋面
+model: MiniMax H3
+mode: image-to-video
+category: anime
+tags:
+- storyboard
+- anime
+- multi-shot
+- character-consistency
+source:
+  name: '@eternityspring on X'
+  url: https://x.com/eternityspring/status/2091187818639114535
+  credit: 烁皓
+  likes: 137
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+video: https://x.com/eternityspring/status/2091187818639114535
+notes:
+  en: The prompt asks for a 16:9 storyboard of twelve panels in one pass, keeping the same character in every frame with fixed anime styling, evening kitchen light and close-ups of hands and eyes. Its gentle muttering and restrained body language give the storyboard a dialogue rhythm that carries into the video step.
+  zh: 提示词一次性要求生成 16:9 的十二格分镜，每一格角色保持一致，统一日系动画风格、傍晚厨房光线，并包含手部和眼睛的特写。角色轻声自语、动作克制，让分镜带有对白节奏，便于延续到视频生成。
+prompt: |
+  Step 2: Create Storyboard Images
+  Feed the character role images from Step 1 into GPT, then use the following prompt:
+  Please create a 16:9 12-panel animated script about the process of making tomato and egg noodles. In the animation, the character should always be present in the frame. Use a simple Japanese animation style to create a cinematic animated effect. The overall atmosphere should feel warm, understated, and slightly melancholic, with scenes simulating the lighting ambiance of an evening family kitchen, where ordinary moments are depicted as beautiful and richly layered, the character's expressions are delicate and subtle, with clever use of negative space, the frame composition biased toward the center and lower part, along with close-up shots of details like hands and eyes. Avoid overly exaggerated animated expressions or commercialized shots. While making the tomato and egg noodles, the character should mutter to themselves in a gentle manner, with natural and moderate body language.

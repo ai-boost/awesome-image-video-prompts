@@ -1,0 +1,52 @@
+id: h3-saas-analytics-dashboard-cursor-export-demo
+title:
+  en: SaaS analytics dashboard with cursor clicks and export popup
+  zh: SaaS 分析仪表盘 光标点击与导出弹窗
+model: MiniMax H3
+mode: image-to-video
+category: commercial
+tags:
+- ui-design
+- dashboard
+- product-demo
+- micro-interaction
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2095848832294601039
+  credit: Gilbert Odera | Your AI Plug
+  likes: 91
+  captured: '2026-10-29'
+  posted: '2026-09-04'
+video: https://x.com/yourPlugAI/status/2095848832294601039
+notes:
+  en: Timed beats each give the visual, the action and the sound, and the start frame locks the layout so the interface stays consistent across segments. Exact button labels and colour states are spelled out so the model can reproduce on-screen text and hover or click changes.
+  zh: 按时间段逐条列出画面、动作和音效，首帧锁定版面，使界面在各段之间保持一致。按钮文字和颜色状态写得具体，便于模型还原界面文字以及悬停和点击后的变化。
+prompt: |
+  Flat, direct front-facing view of the modern SaaS web dashboard interface based on the start frame.
+
+  UI LAYOUT & ASSETS: Left sidebar features navigation icons with an active cyan glow on "Analytics". Top header displays "NEXUS AI // ANALYTICS DASHBOARD" in crisp white typography. Central area shows real-time line charts, data cards, and a main video preview box. Overall sleek dark-mode glassmorphism aesthetic.
+
+  00:00-00:03:
+  - Visual: The camera holds flat on the web dashboard. A sharp white digital mouse cursor enters from the top-left and glides smoothly across the screen toward a primary button labeled "GENERATE REPORT".
+  - Action: The cursor hovers over the button. The button smoothly transitions from dark gray to a vibrant neon cyan hover state with a soft glowing border.
+  - Sound FX: Soft digital cursor swoosh, subtle glass hover click, and ambient low-fi tech hum.
+
+  00:03-00:06:
+  - Visual: The cursor clicks the "GENERATE REPORT" button. The page smoothly scrolls down, revealing secondary data visualization modules and performance bar charts below the fold.
+  - Action: The line graphs dynamically draw themselves from left to right, with glowing cyan dots lighting up at data peaks.
+  - Sound FX: Crisp mechanical mouse click, ultra-smooth page scroll swoosh, and rising digital beep cues.
+
+  00:06-00:09:
+  - Visual: The cursor glides over to a data card displaying "TOTAL ENGAGEMENT: 84.2%" and clicks the top-right options icon.
+  - Action: A clean glassmorphism pop-up window titled "EXPORT DATA" smoothly scales up and fades in over the center of the dashboard.
+  - Sound FX: Soft window pop-up chime, gentle air-suction UI effect, and continuous ambient synth pad music.
+
+  00:09-00:12:
+  - Visual: Inside the pop-up window, the cursor hovers over a dropdown menu labeled "Format: PDF" and selects "Format: CSV".
+  - Action: The dropdown menu expands with fluid micro-interactions, the option highlights in neon violet, and the selection updates immediately.
+  - Sound FX: Snappy dropdown click, digital tick sound, and light interface feedback tone.
+
+  00:12-00:15:
+  - Visual: The cursor clicks "DOWNLOAD NOW". The pop-up closes with a swift fade-out, and a green success notification toast reads "Report Downloaded!" in the top-right corner.
+  - Action: The metric charts pulse once in bright green, and the dashboard resets into its active real-time monitoring state.
+  - Sound FX: Satisfying task-complete chime, quick UI slide-out sound, and a smooth resolving synth chord.

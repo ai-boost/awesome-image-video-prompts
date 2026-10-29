@@ -1,0 +1,34 @@
+id: seedance-snake-dragon-woman-metamorphosis
+title:
+  en: Snake morphs into dragon, then woman
+  zh: 蛇变成龙再变成女人
+model: Seedance 2.5
+mode: reference-to-video
+category: vfx
+tags:
+- metamorphosis
+- reference-images
+- asmr-sound
+- photorealistic
+- transformation
+source:
+  name: '@hedo_ist on X'
+  url: https://x.com/hedo_ist/status/2083989211607155054
+  credit: hedoήist
+  likes: 72
+  captured: '2026-10-29'
+  posted: '2026-08-02'
+video: https://x.com/hedo_ist/status/2083989211607155054
+notes:
+  en: The prompt supplies three reference images and chains the transformations as two steps, snake to dragon and then dragon to woman, so each morph has a defined start and end. The closing line overrides the default score with ASMR sound and the photorealistic cue sets the look.
+  zh: 提示词提供三张参考图，并把变形拆成两段链式过渡：先蛇变龙，再由龙变女人，每段都有明确的起点和终点。结尾指定无音乐、ASMR 音效，写实电影感的描述决定画面质感。
+prompt: |
+  You must add 3 reference images: a snake, a dragon and a woman.
+
+  Cinematic, fluid metamorphosis of a snake ￼ into this creature .￼
+
+  Cinematic metamorphosis of this creature into a woman.  ￼
+
+  Photorealistic cinematic scene.
+
+  not music. asmr sounds

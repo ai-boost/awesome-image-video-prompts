@@ -1,0 +1,63 @@
+id: kling-thunder-emperor-jiangshi-battle
+title:
+  en: Hooded hero runs across battlefield toward monster army
+  zh: 兜帽英雄冲向怪物大军
+model: Kling 4.0
+mode: reference-to-video
+category: action
+tags:
+- dark-fantasy
+- multi-shot
+- character-lock
+- combat
+source:
+  name: '@RizwanAly07 on X'
+  url: https://x.com/RizwanAly07/status/2112516449080348958
+  credit: Maverick | AI
+  likes: 146
+  captured: '2026-10-29'
+  posted: '2026-10-20'
+video: https://x.com/RizwanAly07/status/2112516449080348958
+notes:
+  en: A character lock block gives each reference image one job, image1 for the protagonist and image2 for the monsters, and repeats the identity rules in the negative prompt. Timed beats of about five seconds each, with camera direction per beat, give the model a clear shot list for a 30 second sequence.
+  zh: 角色锁定段落为每张参考图指定单一用途：image1 只负责主角，image2 只负责怪物，并在负面提示中重复身份约束。按时间段分拍（每段约五秒）并为每段写明镜头运动，为30秒的连续镜头提供清晰的分镜表。
+prompt: |
+  DURATION: 30 seconds | FORMAT: horizontal 16:9
+  STYLE: Ultra-photorealistic dark fantasy combat, 8K HDR, 24fps.
+
+  CHARACTER LOCK — ABSOLUTE PRIORITY
+  image1 = Only reference for the adult MALE Jiangshi protagonist. Preserve his exact male face, hairstyle, outfit, physique, and accessories. Never change his gender, face, or identity.
+  image2 = Only reference for consistent enemy monsters.
+
+  ENVIRONMENT
+  Vast stormy green battlefield, thousands of monsters, gigantic demons, ruined Taoist temples, shattered altars, navy storm clouds, cyan-white lightning, golden talismans, and black demonic energy. Never show an empty battlefield.
+
+  0–5s — LIGHTNING DASH
+  The male Jiangshi dodges monster claws, slides across grass, and throws explosive golden talismans. Lightning-powered punches and kicks destroy enemies. He says: "비켜라."
+
+  5–10s — THUNDERBLADE TORNADO
+  TECHNIQUE 1: 뇌부천쇄 · 천뢰풍폭
+  Thousands of lightning blades form a gigantic golden-cyan tornado, tearing through monster armies and destroying stone altars. He charges forward, shouting: "천뢰를 받아라!"
+
+  10–15s — THUNDERSTORM
+  TECHNIQUE 2: 구천뇌우 · 만뢰천폭
+  He slams a golden talisman into the ground. A colossal Bagua formation appears overhead, unleashing thousands of lightning bolts and three interconnected thunder tornadoes. He shouts: "하늘이여, 쓸어버려라!"
+
+  15–20s — LIGHTNING PRISON
+  TECHNIQUE 3: 팔괘천뢰진 · 팔방봉멸
+  Eight enormous golden sealing pillars rise, connecting sky and ground with cyan lightning. A gigantic octagonal prison traps thousands of monsters in crushing electrical chains. He shouts: "뇌문, 개방!"
+
+  20–25s — DEMON KING
+  The formations explode in a massive blue-white shockwave. A mountain-sized demon king emerges from black storm energy. The protagonist dodges, attacks with lightning-powered palms, and launches aerial counterattacks before being blasted backward.
+
+  25–30s — FINAL ULTIMATE
+  FINAL TECHNIQUE: 구천뇌제 · 만뢰천벌
+  He raises a golden talisman as thousands of lightning bolts converge around him. He says: "구천의 벼락이…" then shouts: "네놈을 멸하리라!"
+
+  A colossal golden-cyan Bagua formation fills the sky. Thousands of gigantic lightning bolts merge into a devastating thunder pillar, engulfing the demon king in an enormous explosion.
+
+  FINAL FRAME: The recognizable male protagonist stands in the foreground as lightning illuminates the monster army and ruined temples.
+
+  CAMERA: Dynamic tracking, aggressive whip-pans, fast combat cuts, dramatic low angles, realistic impact shake, continuous battlefield action.
+
+  NEGATIVE: No female characters, gender swapping, face morphing, identity changes, outfit changes, inconsistent monsters, cartoon CGI, teleportation, empty backgrounds, logos, subtitles, or watermarks.

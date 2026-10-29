@@ -1,0 +1,41 @@
+id: h3-luxury-apartment-three-looks-fashion-film
+title:
+  en: Woman tries three outfits in luxury apartment
+  zh: 女子在豪华公寓试穿三套造型
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- fashion
+- dialogue
+- transitions
+- character-consistency
+source:
+  name: '@itxsarmadd on X'
+  url: https://x.com/itxsarmadd/status/2101244508767666438
+  credit: Sarmad Tahir
+  likes: 94
+  captured: '2026-10-29'
+  posted: '2026-09-19'
+video: https://x.com/itxsarmadd/status/2101244508767666438
+notes:
+  en: Each time range holds one beat with its own dialogue line and a named transition, so the cuts read as planned edits. Repeating an identity lock line across the prompt keeps the face, hair and body consistent across all three looks.
+  zh: 每个时间段写一个情节点、对应台词和指定转场，剪辑节奏清楚。提示词中重复的身份锁定描述让三套造型中的人物脸部、发型和体态保持一致。
+prompt: |
+  15s | 16:9 | 4K HDR | 24fps | Photorealistic Fashion Film
+
+  Use the uploaded girl as the exact character throughout. Maintain identical face, skin tone, hair, body proportions, and identity in every shot.
+
+  0–3s: Luxury apartment overlooking a glowing city skyline. She opens a vintage suitcase, looks at camera and says: "Three outfits… and absolutely no time to decide!"
+
+  3–6s: She places sunglasses over the lens. Seamless transition to Look 1: emerald satin blouse, cream trousers, heels. By the window. "Okay… this one means business."
+
+  6–9s: Finger snap transition to a rooftop party. Look 2: metallic mini dress, ankle boots, statement earrings. Wind in hair. "Now THIS is a little dangerous."
+
+  9–12s: She walks past the lens, creating a body-wipe transition to Look 3: midnight-blue evening gown, elegant rooftop dinner setting. "Or should I go full glam?"
+
+  12–15s: Wide rooftop shot. Holding sunglasses, shoulder bag, and clutch. Smiles and points at camera: "You decide. One, two, or three?"
+
+  Style: Ultra-realistic luxury fashion commercial, cinematic lighting, realistic fabrics, natural expressions, shallow depth of field, smooth camera movement, premium editorial quality.
+
+  Negative: No face changes, identity drift, duplicate character, extra people, distorted hands, bad anatomy, flicker, jump cuts, subtitles, logos, watermarks, or text overlays.

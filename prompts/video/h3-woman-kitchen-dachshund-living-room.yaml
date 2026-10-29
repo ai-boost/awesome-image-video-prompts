@@ -1,0 +1,118 @@
+id: h3-woman-kitchen-dachshund-living-room
+title:
+  en: Woman walks through kitchen into living room
+  zh: 女子走过厨房进入客厅
+model: MiniMax H3
+mode: reference-to-video
+category: vlog
+tags:
+- video-reference
+- interior
+- pet
+- continuity
+source:
+  name: '@EndFolding79421 on X'
+  url: https://x.com/EndFolding79421/status/2110497810554536216
+  credit: FoldingEnd A.I.
+  likes: 73
+  captured: '2026-10-29'
+  posted: '2026-10-14'
+video: https://x.com/EndFolding79421/status/2110497810554536216
+notes:
+  en: A short video reference locks the whole room layout, while separate picture references fix the woman and the dog. Explicit rules forbid mirroring, moving furniture or adding people, so areas revealed by the turn stay consistent with the reference.
+  zh: 一段短视频参考锁定整个房间布局，两张图分别固定女子和小狗的外观。明确禁止镜像、移动家具或增加人物，使转身后露出的区域与参考保持一致。
+prompt: |
+  MiniMax H3 — Another Video Reference Test, But This Time for Locations!
+
+  This time, instead of using a video reference for a character, I'm testing whether we can use one to keep an entire scene consistent. In this case, the inside of a home.
+
+  I started with a still image and used Seedance to generate an 8-second video (video included) showing more of the room. But you could use just about any AI video generator, or even grab your cellphone and record a clip yourself.
+
+  One of the biggest problems I've run into when making AI videos is keeping the environment consistent from shot to shot.
+
+  Before this, I relied on AI-generated images, screenshots, or sometimes even DAZ Studio renders to establish a location.
+
+  The problem is that when the camera starts looking around, AI tends to invent things to fill in the gaps. A chair might be there in one shot and gone in the next, furniture changes color, or the room layout suddenly looks completely different.
+
+  So I wanted to test something. What if H3 had a video reference showing more of the actual room instead of just a single image? Would that help it maintain the environment more consistently?
+
+  Now, here's a little tip I discovered while testing.
+
+  Originally, generating a 10-second H3 clip using the video reference took around 36 minutes.
+
+  So I went back into Camtasia and used its Add Clip Speed feature to speed up the original 8-second reference video and cut it to just 4 seconds (video included).
+
+  Then I reduced the reference resolution from 1280×720 to 640×360. I might even try going lower, perhaps 540p or 480p, to see how far I can push it.
+
+  The result?
+
+  Original render: approximately 36 minutes
+  Optimized reference render: 19 minutes, 17 seconds
+
+  That's nearly half the rendering time.
+
+  Now, this is only my first test, and there's still more experimenting to do. I also can't say yet how much of that improvement came from shortening the video versus lowering its resolution.
+
+  But overall, I'm not unhappy with the results.
+
+  Prompt:...r34l1sm
+
+  For the target video, reference <Video 1> for the complete interior environment, <Picture 1> for the woman's appearance, and <Picture 2> for the dog's appearance.
+
+  subject_definitions:
+
+  <Subject 1> is the adult woman from <Picture 1>. Preserve her exact facial identity, long brown hair, natural body proportions, clothing, blue jeans, and appearance. There is exactly ONE woman.
+
+  <Subject 2> is the small dachshund from <Picture 2>. Preserve its exact breed, black-and-tan coloring, long body, short legs, floppy ears, and natural proportions. There is exactly ONE dog.
+
+  <Subject 3> is the house interior from <Video 1>. This video is the MASTER ENVIRONMENT REFERENCE. Preserve the exact kitchen, dining area, living room, furniture arrangement, walls, windows, doorways, flooring, cabinets, and spatial relationships. The reference video establishes the real layout of the house, including areas revealed as the camera moves. Do not redesign, rearrange, or invent rooms or furniture.
+
+  integrated_multimodal_description:
+
+  [Shot 1 — 00:00–00:04]
+  Photorealistic cinematic live-action. Natural daytime interior lighting matching <Video 1>.
+
+  The woman stands in the kitchen, clearly visible in a medium-wide shot. She begins walking naturally along the kitchen toward the adjoining living room.
+
+  The camera smoothly tracks alongside and slightly behind her, maintaining the correct kitchen background and architectural layout established by <Video 1>.
+
+  [Shot 2 — 00:04–00:07]
+  Continue the same uninterrupted camera movement.
+
+  As the woman reaches the living room entrance, she turns RIGHT.
+
+  The camera follows her turn with a smooth, natural pan, revealing the living room from the corresponding angle in <Video 1>.
+
+  The sofa, chairs, windows, walls, and other furniture remain in their original reference positions.
+
+  A small dachshund is standing on the floor directly in front of a living room chair, looking up toward the approaching woman.
+
+  [Shot 3 — 00:07–00:10]
+  The woman notices the dachshund and stops walking.
+
+  The camera settles into a natural medium-wide composition showing both the woman and the dog, with the living room clearly visible behind them.
+
+  The dachshund remains standing in front of the chair, tilting its head slightly while looking up at her.
+
+  The woman looks down at the dog and smiles warmly.
+
+  End with both subjects clearly visible and the surrounding room recognizable from <Video 1>.
+
+  CAMERA AND CONTINUITY RULES:
+  One continuous 10-second shot.
+  No cuts, teleportation, or sudden camera jumps.
+  Smooth tracking and natural rightward camera rotation.
+  Maintain consistent architectural geometry throughout.
+  Preserve the exact environment shown in <Video 1>, including previously hidden areas revealed by camera movement.
+  Do not mirror or reverse the room.
+  No changing furniture positions.
+  No additional people or animals.
+  Realistic walking, natural body mechanics, accurate anatomy.
+  No artificial cinematic lighting changes.
+  No dialogue.
+
+  overall_soundscape:
+  Quiet natural household ambience. Soft footsteps on the floor, subtle clothing movement, faint room tone, and a gentle sound of the dog's paws shifting on the floor. No barking.
+
+  non_diegetic_music:
+  None.

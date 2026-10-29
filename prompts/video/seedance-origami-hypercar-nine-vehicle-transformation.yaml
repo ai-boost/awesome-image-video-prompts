@@ -1,0 +1,61 @@
+id: seedance-origami-hypercar-nine-vehicle-transformation
+title:
+  en: Origami hypercar morphs through nine vehicles in one shot
+  zh: 折纸超跑在一镜到底中连续变形为九种载具
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- transformation
+- tracking-shot
+- reference-images
+source:
+  name: '@umesh_ai on X'
+  url: https://x.com/umesh_ai/status/2089722918146285690
+  credit: Umesh
+  likes: 69
+  captured: '2026-10-29'
+  posted: '2026-08-18'
+video: https://x.com/umesh_ai/status/2089722918146285690
+notes:
+  en: Reference images lock each vehicle's identity while a single tracking shot and step-by-step transition instructions keep every change continuous. Banning cuts, resets and driver changes keeps one location and one rider across all nine vehicles.
+  zh: 参考图锁定每种载具的外形，单次跟拍镜头加上分步的变形描述让每次转换都连贯。明确禁止切镜、场景重置和更换驾驶者，使九种载具始终处于同一地点、由同一人驾驶。
+prompt: |
+  The images were first generated and used as references with the below prompt.
+
+  Prompt : Create a 30-second cinematic continuous one-shot using the provided vehicle reference images as the identity source for each machine. Preserve each vehicle’s silhouette, proportions, materials, and signature design language.
+
+  Core concept: one man, one uninterrupted high-speed journey, one continuous futuristic coastal megastructure, with vehicles transforming seamlessly around him. The same man must drive or pilot every vehicle throughout.
+
+  Vehicle order:
+  Origami hypercar → chrome futuristic motorcycle → Terra Centipede rover → champagne streamlined speed vehicle → Gravity Beetle air taxi → white organic hovercraft → Orbit Nomad shuttle → Lagoon Manta yacht → translucent bioluminescent aquatic craft.
+  Environment:
+  Keep the entire film inside one coherent coastal megastructure with elevated roads, service paths, platforms, reflective water channels, engineered ocean basins, sea-edge architecture, low-altitude airspace, and transparent underwater sections. Ground, air, water, and underwater zones must feel like connected layers of the same place. The world changes only through forward movement, perspective, and elevation, never through cuts, resets, teleportation, or abrupt location changes.
+
+  Camera:
+  One fluid tracking shot, mainly side or three-quarter side, following left to right. Keep the vehicle large and readable. The camera may arc, rise, descend, or skim the water with the vehicle, but the shot must remain continuous.
+  Action:
+  Begin with the Origami hypercar blasting along an elevated reflective roadway at extreme speed, the man visible through the canopy.
+
+  Hypercar → motorcycle: body narrows, roof drops, panels fold inward, wheel geometry simplifies, cockpit lowers, and the driver shifts naturally into a racing posture.
+  Motorcycle → Terra Centipede rover: frame thickens and lengthens, extra wheel modules unfold, armor grows, cockpit rises, and the driver becomes seated as the road flows into a rough engineered service path.
+
+  Rover → champagne speed vehicle: wheels retract and merge, segmented structures smooth into a low sculptural body, and the cockpit streamlines as the surface reconnects to a sleek high-speed lane.
+  Champagne vehicle → Gravity Beetle air taxi: chassis lightens, wheel structures become propulsion pods, side arms extend, cabin rises, and the craft lifts just above the corridor.
+
+  Air taxi → white organic hovercraft: angular structures soften into biomorphic surfaces, pods merge into the body, and the canopy becomes a smooth bubble.
+
+  Hovercraft → Orbit Nomad shuttle: body stretches into an aerospace silhouette, curves tighten, propulsion reorganizes, cockpit elongates, and the craft climbs slightly above the water and architecture.
+
+  Shuttle → Lagoon Manta yacht: craft descends, broadens, flattens, thrusters retract, and the underside forms aquatic contours as it becomes a yacht skimming a water channel at extreme speed.
+
+  Yacht → bioluminescent aquatic craft: white hull turns translucent and layered, blue internal light glows, fins emerge, and the craft dives smoothly into the transparent underwater level of the same megastructure.
+
+  Ending:
+  Finish underwater with the final bioluminescent craft racing forward, the same man visible inside, with architecture and filtered light around it. Emphasize that the world never changed, only the vehicle evolved.
+
+  Transformation rules:
+  Every transition must be gradual, elegant, mechanically readable, and believable. Existing panels, wheels, arms, hulls, pods, canopies, propulsors, and lighting systems visibly reconfigure in motion. No cuts, scene resets, environment swaps, teleporting, or driver changes.
+
+  Visual style:
+  High-end sci-fi commercial, cinematic realism, premium industrial design, polished materials, clean silhouettes, coherent worldbuilding, fluid mechanical transformations, ultra-smooth camera movement, and extreme speed. The vehicles are the spectacle; the environment remains one continuous unified landscape

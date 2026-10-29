@@ -1,0 +1,65 @@
+id: h3-scent-diffuser-butterfly-mist
+title:
+  en: Diffuser mist turns into glowing butterflies
+  zh: 扩香器雾气化作发光蝴蝶
+model: MiniMax H3
+mode: image-to-video
+category: commercial
+tags:
+- home-fragrance
+- product-ad
+- voiceover
+- butterflies
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2083043306422837477
+  credit: Gilbert Odera | Your AI Plug
+  likes: 107
+  captured: '2026-10-29'
+  posted: '2026-07-30'
+video: https://x.com/yourPlugAI/status/2083043306422837477
+notes:
+  en: Splits the 15 second clip into four timed segments, each with camera, action, sound and voiceover, so the model follows a shot-by-shot timeline. Opening on a still frame locks the presenter, bottle and diffuser before the mist effect is added.
+  zh: 将 15 秒拆成四个带时间码的片段，每段分别写镜头、动作、声音和旁白，让模型按镜头顺序执行。以静帧开场先锁定人物、瓶身和扩香器，再叠加雾气化蝶的特效。
+prompt: |
+  Video Prompt (15 Seconds, MiniMax H3 Timeline Sequence)
+
+  0 to 4 seconds: The Sensory Add & Ignition Hook
+
+  Visual & Camera: Starts on the image frame. The camera quickly moves into a macro close-up focused on the top of the matte ceramic diffuser and the hand holding the amber bottle.
+
+  Action/Movement: Her gloved fingers gently squeeze the gold dropper cap. A single, rich, golden-colored essential oil droplet falls slowly from the dropper and disappears into the diffuser's water reservoir.
+
+  Audio/Sound Cues: A faint, pleasant ambient bell chime sound as the droplet hits. A slow, meditative deep bass synth track fades in.
+
+  Voiceover (Off-camera female voice, spoken at a slow, steady, and moderate pace with clear articulation): "My apartment used to smell like a generic living space... but I found a way to completely rewrite the mood."
+
+  4 to 9 seconds: The Magical Mist Transformation (The Key Visual Hook)
+
+  Visual & Camera: A clean cut to an eye-level medium close-up of the diffuser, highlighting the nozzle.
+
+  Action/Movement: The lighting transitions. The amber ring base blinks once and then glows with a vibrant gold light. A crisp, illuminated stream of mist begins rising vertically from the nozzle. The camera quickly tracks up, following the mist. Within the mist stream, a dense cloud of small, vibrant, multi-colored butterflies (glowing blues, warm golds, deep purples) begins swirling, blossoming, and flowing upward with a mesmerizing, fluid motion.
+
+  Audio/Sound Cues: A gentle mechanical hum layers over the synth track. A soft, magical, twinkling 'whoosh' sound effect as the butterflies appear.
+
+  Voiceover (Off-camera female voice, spoken slowly and deliberately): "Now, I don't just 'scent' my home. I 'scent-scape' it, turning a simple ritual into an experience."
+
+  9 to 12 seconds: The Aesthetic Drift
+
+  Visual & Camera: Quick transition to a slow-motion, low-angle shot, looking up through the cloud of butterflies as they drift lazily toward the ceiling light.
+
+  Action/Movement: The butterflies continue their colorful, slow ascent. They interact gently with the warm, ambient apartment lighting, casting colorful, dancing light reflections onto the surrounding surfaces and walls. The visual flow is purely aesthetic and calming.
+
+  Audio/Sound Cues: Meditative synth music deepens. The twinkles soften into a gentle hum.
+
+  Voiceover (Off-camera female voice, spoken slowly with a calm, impressive cadence): "Cold-air diffusion keeps the scent pure, powerful, and utterly captivating, enveloping you in comfort."
+
+  12 to 15 seconds: The Peaceful Sign-Off
+
+  Visual & Camera: The camera pulls back smoothly into a wider, cinematic medium shot. The host is leaning casually back against her curated bookshelf.
+
+  Action/Movement: Her mouth remains closed. She looks directly into the lens with a calm, serene expression, holding the now glowing-amber essential oil vial gently near her cheek. She gives a very subtle, slow nod of appreciation. The video ends on a steady, hyper-focused shot of her relaxed expression and the product branding.
+
+  Audio/Sound Cues: Music track hits a clean, comforting final piano chord and fades out softly.
+
+  Voiceover (Off-camera female voice, spoken slowly, clearly, and steadily up to the final second): "Stop settling for ordinary. Elevate your everyday space today."

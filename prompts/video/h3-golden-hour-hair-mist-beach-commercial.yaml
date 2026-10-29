@@ -1,0 +1,25 @@
+id: h3-golden-hour-hair-mist-beach-commercial
+title:
+  en: Woman with windblown hair on a golden hour beach
+  zh: 金色时刻海滩上发丝飘动的女子
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- beauty-commercial
+- product-shot
+- golden-hour
+- vertical-video
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2114955141707133421
+  credit: Avelyrah
+  likes: 231
+  captured: '2026-10-29'
+  posted: '2026-10-27'
+video: https://x.com/AvelyrahnAI/status/2114955141707133421
+notes:
+  en: 'The prompt works as a shot list: it sets the 9:16 frame and golden hour light, then moves in order through the portrait, the product hero, the mist, a hair toss and a final product display. Naming the lens behaviour, such as shallow depth of field and smooth stabilization, keeps the commercial look consistent across cuts.'
+  zh: 这段提示词像一份分镜清单：先定下9:16竖屏和黄金时段光线，然后按顺序描述人像、产品特写、喷雾、甩发和最后的产品陈列。加入浅景深和平稳运镜等镜头语言，能让多个镜头保持统一的商业质感。
+prompt: |
+  Cinematic 9:16 vertical luxury beauty commercial video on a sun-drenched tropical beach during golden hour. Ultra-detailed photorealistic visuals, gorgeous young woman with long, lustrous, wind-swept glossy brown hair, soft natural makeup, wearing a chic blue outfit. The sequence flows seamlessly from a close-up portrait smile, to a crisp product hero shot of an orange and blue spray bottle labeled "HAIR ENERGY SCENTSATIONS" held in a clean hand, to a dynamic side-profile shot of a refreshing hair mist spray creating a fine atomized mist catching the warm sunset light, followed by an elegant hair toss and slow-motion turn. Concludes with a pristine product display of the spray bottle resting on wet coastal rocks, surrounded by splashing crystal-clear sea foam and delicate white frangipani flowers. High-end commercial production value, shallow depth of field, vibrant warm color grading, ultra-sharp textures, smooth professional camera stabilization

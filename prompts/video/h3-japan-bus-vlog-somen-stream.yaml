@@ -1,0 +1,40 @@
+id: h3-japan-bus-vlog-somen-stream
+title:
+  en: Woman rides teal bus through Japanese countryside
+  zh: 女子乘坐青绿色巴士穿越日本乡村田野
+model: MiniMax H3
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- japan
+- lip-sync
+- multi-scene
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2092469535844733357
+  credit: Harboris
+  likes: 38
+  captured: '2026-10-29'
+  posted: '2026-08-26'
+video: https://x.com/harboriis/status/2092469535844733357
+notes:
+  en: The prompt is laid out as a camera spec header, a subject and environment block, then timestamped scenes with visuals and quoted English lines, so each beat has its own shot and lip sync line. Naming the lens and aperture (35mm at f/1.8) along with the light and bokeh fixes the cinematic look.
+  zh: 提示词按镜头规格、主体与环境设定、带时间码的分镜和英文台词分段书写，每个节拍都有独立的镜头和口型台词。用35mm镜头和f/1.8光圈加上光线与虚化描述，固定电影感的画面风格。
+prompt: |
+  A tranquil 15 second cinematic vlog shot in 8k on a 35mm lens at f/1.8. A young East Asian woman with long brown hair, wearing a white shirt and light blue scarf, rides a vintage teal bus through lush Japanese countryside. She steps off into the crisp air, sits on the wooden veranda of a traditional house, dips her bare feet into a clear running stream, and eats cold somen noodles from a bowl with chopsticks. Natural sun dappled lighting, green rice paddies, swaying wind chimes, soft bokeh, serene atmosphere, with clear English lip sync and dialogue.
+  Subject and Environment Specs
+  Subject: Young East Asian female, long brown hair, natural makeup, dressed in a casual white t shirt and light blue scarf.
+  Environment: Rural Japanese countryside, vintage teal bus, expansive green rice fields, traditional wooden porch engawa, clear stream, glass wind chime furin.
+  Scene Breakdown and English Dialogue
+  Scene 1: The Countryside Bus Ride 0:00 to 0:03
+  Visuals: Medium shot of the woman looking out a vintage bus window at green fields, followed by an aerial tracking shot of the teal bus driving along a rural road.
+  Scene 2: Arrival 0:04 to 0:05
+  Visuals: Close up of her stepping off the bus into the open countryside, closing her eyes and breathing in the fresh air.
+  English Lip Sync: "So peaceful..."
+  Scene 3: Noodles by the Stream 0:06 to 0:11
+  Visuals: Wide shot sitting on a wooden porch, dangling bare feet into a cool, clear stream while eating cold somen noodles from a black bowl with wooden chopsticks.
+  English Lip Sync: "The air tastes so fresh here... these cold noodles are perfect."
+  Scene 4: Wind Chime and Farewell 0:12 to 0:14
+  Visuals: A glass wind chime sways gently under the eaves. Cuts to a close up of her looking directly at the camera with a warm, relaxed smile in golden sunlight.
+  English Lip Sync: "Truly delicious."

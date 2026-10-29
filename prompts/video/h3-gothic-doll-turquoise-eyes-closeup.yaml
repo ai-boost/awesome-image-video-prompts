@@ -1,0 +1,93 @@
+id: h3-gothic-doll-turquoise-eyes-closeup
+title:
+  en: Anime closeup of turquoise eyes under navy bangs
+  zh: 深蓝刘海下的绿松石色眼睛特写
+model: MiniMax H3
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- style-lock
+- timecode-shots
+- manga-transitions
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2091464848848846983
+  credit: Kiki
+  likes: 263
+  captured: '2026-10-29'
+  posted: '2026-08-18'
+video: https://x.com/Mayz1169/status/2091464848848846983
+notes:
+  en: A character sheet is passed as the identity reference, and a style lock forbids realistic rendering and 3D, so the flat cel look holds. Each beat is written with a timecode, and manga panel wipes, ribbon transitions and hair curtain sweeps carry the cuts.
+  zh: 通过角色设定图作为身份参考，并用风格锁定条款禁止写实渲染与3D效果，让平涂赛璐璐风格保持稳定。每段都标注时间码，漫画分格划像、丝带转场和发丝帘幕扫过承担切镜。
+prompt: |
+  Create a 15-second horizontal 16:9 stylish 2D anime fashion animation featuring the exact same girl character from the provided reference image.
+
+  CHARACTER & STYLE LOCK:Use the provided character sheet as the absolute identity and art-style reference.
+
+  Maintain the exact original visual style:clean thick black outlines, simple 2D cartoon anime design, flat cel colors, minimal shading, cute gothic aesthetic, simplified facial features, oversized expressive eyes, graphic shapes and smooth hand-drawn animation.
+
+  Do NOT transform the character into realistic anime, 3D, semi-realistic illustration, or highly detailed rendering.
+
+  Character design must remain consistent:A small gothic girl with extremely long dark navy-blue straight hair covering most of her body, blunt bangs with small pink highlights, a large blue bow on top of her head, pale skin, turquoise eyes with sharp black lashes, tiny expressionless mouth, small pointed decorative details near the eyes, black gothic dress with white collar details, blue ribbon accents, pink inner hair sections, striped blue-and-black stockings, black rounded shoes, and a small purple cat-like plush companion held in her arms.
+
+  Her personality:quiet, mysterious, cute, slightly emotionless, elegant and doll-like.She feels like a character from a dark fantasy fashion animation.
+
+  0–1.5s — Begin with an extreme close-up of her turquoise eyes beneath her dark bangs. She slowly looks toward the camera with a calm mysterious expression. A soft blue glow reflects in her eyes. Large simple typography “MIDNIGHT DOLL” appears behind her while dark navy, pastel pink and purple graphic shapes float around the frame.
+
+  1.5–3.0s — Camera pulls back from her face into a full-body character reveal. Her enormous navy hair moves like a flowing curtain around her silhouette. She gently hugs her small purple cat companion while the camera slowly rotates around her like a collectible character showcase.
+
+  3.0–4.5s — She slightly tilts her head and raises one hand. Her blue ribbon creates a smooth animated wipe transition across the screen. The ribbon expands into a series of comic panels showing close-ups of her eye, bow, striped stockings and plush companion.
+
+  A vertical title “SILENT HEART” appears in clean white lettering over a black graphic panel.
+
+  4.5–6.5s — Create a fashion animation montage:front portrait → side profile → back view showing the giant hair silhouette → close-up of hands holding the plush → shoes stepping forward.
+
+  Use simple manga-style frames with alternating backgrounds:deep navy, soft pink, lavender and pale cyan.
+
+  Add subtle gothic symbols:small stars, moons, hearts, ribbons, floating dots and hand-drawn decorative marks.
+
+  6.5–7.5s — Her long hair sweeps across the entire screen like a dark blue curtain transition. Pink highlights inside the hair create flowing graphic streaks that reveal the next scene.
+
+  7.5–9.5s — Show a dramatic full-body hero pose. She stands in a dark fantasy fashion space made only from abstract shapes, not a realistic environment. Her giant hair spreads outward like a shadow silhouette while small purple and blue particles float around her.
+
+  The camera slowly pushes closer as she looks directly at the viewer with a calm doll-like expression.
+
+  9.5–11.0s — She reaches one hand toward the camera using exaggerated cute anime perspective. Her small hand fills the foreground while her face remains visible behind it. The movement creates a soft pastel blue and pink ink transition.
+
+  11.0–12.5s — Rapid detail shots:turquoise eye blink → blue bow moving slightly → pink hair highlight → purple plush companion → striped stockings → black shoes.
+
+  Each shot appears like a collectible character card animation.
+
+  12.5–13.8s — Full upper-body portrait against a clean graphic background made of navy, pink and cyan geometric shapes.
+
+  Her long hair forms a large elegant silhouette behind her.
+
+  Text “MIDNIGHT DOLL” appears around her like a fashion magazine cover title.
+
+  13.8–15.0s — Final sequence:eye close-up → ribbon movement → plush companion → confident front portrait.
+
+  Freeze on her quiet direct gaze toward the camera.
+
+  The final frame should look like a premium gothic anime character poster.
+
+  VISUAL DIRECTION:2D hand-drawn anime animation, dark kawaii fashion aesthetic, gothic lolita influence, thick clean outlines, flat colors, limited animation style, cute but mysterious atmosphere, soft graphic shadows, simple shapes, elegant character posing.
+
+  Use:
+
+  manga panel transitions
+
+  hand-drawn motion lines
+
+  ribbon wipes
+
+  hair silhouette transitions
+
+  simple sparkle effects
+
+  paper texture
+
+  subtle comic effects
+
+  Avoid:realistic lighting,3D rendering,photorealism,complex environments,cyberpunk style,neon overload,heavy particle effects,realistic hair strands,character redesign,outfit changes,facial changes,different hairstyle,extra accessories,identity drift,smooth cinematic dissolves,unreadable text.

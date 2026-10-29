@@ -1,0 +1,44 @@
+id: h3-armor-hero-ruined-city-sprint
+title:
+  en: Runner sprints through smoke-filled ruined city
+  zh: 跑者穿过烟尘弥漫的废城
+model: MiniMax H3
+mode: reference-to-video
+category: action
+tags:
+- reference-images
+- continuous-shot
+- armor-transformation
+- chase
+source:
+  name: '@FutureVibesAi on X'
+  url: https://x.com/FutureVibesAi/status/2084230779622638032
+  credit: Future Vibes AI - Testing & Educating
+  likes: 43
+  captured: '2026-10-29'
+  posted: '2026-08-01'
+video: https://x.com/FutureVibesAi/status/2084230779622638032
+notes:
+  en: Each reference image gets a fixed role, Image 1 for the character and Image 2 for the armor. The action is written as one unbroken shot, with each beat (sprint, punch, flying kick, thruster lift-off) described in order and explicit bans on cuts, slow motion and freezes.
+  zh: 为每张参考图指定固定角色，Image 1 作为角色，Image 2 作为装甲。动作写成一个不间断的长镜头，按顺序描述冲刺、出拳、飞踢和推进器升空，并明确禁止切镜、慢动作和定格。
+prompt: |
+  Style: Ultra-realistic live action, IMAX cinematic, photorealistic, Hollywood blockbuster, 4K HDR, 60fps, continuous action shot, no slow motion, no pause, no freeze frame, no music.
+
+  Use Image 1 as WEKA (same face, hairstyle, body proportions, green oversized shirt, cargo pants, sneakers).
+  Use Image 2 as the transformation armor design (blue metallic armor with gold accents). The armor appears only as modular pieces that attach to WEKA during combat.
+
+  Scene:
+  A ruined modern city filled with collapsed buildings, broken highways, smoke, dust, scattered burning vehicles, flying debris, dramatic daylight filtering through thick smoke. Several giant beast-like monsters charge through the streets.
+
+  The camera immediately follows WEKA sprinting at extreme speed through the destroyed city in one continuous IMAX tracking shot. Dust and debris explode beneath every step.
+
+  While still running, glowing blue mechanical armor rapidly deploys onto his right arm. Individual armor plates fly in at high speed and lock perfectly into place with powerful metallic impacts. Without slowing down, WEKA delivers one devastating armored punch into the chest of the nearest monster. The impact creates a massive shockwave, cracked pavement, flying debris, and the monster is violently launched backward, crashing through broken concrete.
+
+  Without stopping, WEKA continues sprinting forward. While airborne during a long leap, blue mechanical armor instantly assembles around both legs. Every plate snaps into place seamlessly in midair. The completed armored legs unleash an explosive flying kick that strikes another charging monster with tremendous force, sending it spinning across the ruined street and smashing through wreckage.
+
+  Immediately after the kick, additional armor modules rapidly fly toward WEKA from every direction. Helmet, chest, shoulders, back, waist, arms, and legs all attach in perfect synchronization while he remains in motion. Bright blue energy pulses through every armor seam as the transformation completes.
+
+  The instant the full armor locks into place, powerful blue energy thrusters ignite from the back and legs. WEKA accelerates upward into the sky above the destroyed city, flying at high speed toward the remaining monsters as dust, sparks, and debris swirl below.
+
+  Camera:
+  Single uninterrupted continuous shot, dynamic IMAX chase camera with smooth orbit transitions, low-angle tracking, close combat follow shots, realistic handheld vibration during impacts, cinematic motion blur, volumetric smoke, detailed destruction, dramatic lighting, no cuts, no pauses, no dialogue, no subtitles, no watermark.

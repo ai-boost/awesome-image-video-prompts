@@ -1,0 +1,35 @@
+id: h3-tokyo-crossing-camera-angle-swap
+title:
+  en: Same crossing scene from three camera angles
+  zh: 同一路口的三个不同机位
+model: MiniMax H3
+mode: video-edit
+category: cinematic
+tags:
+- camera-angle
+- pov-change
+- video-reference
+- street-scene
+source:
+  name: '@magnific on X'
+  url: https://x.com/magnific/status/2090423731055448271
+  credit: Magnific
+  likes: 278
+  captured: '2026-10-29'
+  posted: '2026-08-20'
+video: https://x.com/magnific/status/2090423731055448271
+notes:
+  en: The source clip [vid1] locks the woman's look, timing and stillness, while the prompt explicitly drops its camera position and framing so only the viewpoint changes. A single camera slot plus a rule for exactly one subject keeps the crowd and identity consistent across the new angle.
+  zh: 源视频 [vid1] 锁定人物外观、节奏与静止状态，提示词明确不继承原机位和景别，因此只改变视角。单个机位描述槽加上“只出现一个人物”的约束，使人群和人物身份在新视角中保持一致。
+prompt: |
+  [vid1] defines the woman's identity. It also defines the scene: a busy Tokyo pedestrian crossing in soft overcast daylight, blurred crowds walking past in both directions, a red bus and city buildings in the background. It defines her performance and timing: she stands completely still facing forward while the crowd flows around her, her hair moving slightly in the breeze, her expression calm and steady with subtle lip movement.
+
+  Do not inherit the camera position, framing, or shot size from [vid1].
+
+  Generate the same sequence, at the same location and the same moment, seen from a different camera position:
+
+  [Add the camera description]
+
+  <City crossing ambience: footsteps, distant traffic, a crossing signal chirping>
+
+  Keep the woman's identity, hairstyle, trench coat, sweater, bag strap, posture, and stillness exactly as in [vid1]. Exactly one instance of the woman. The crowd flows around her without colliding. Do not change the time of day, weather, or location.

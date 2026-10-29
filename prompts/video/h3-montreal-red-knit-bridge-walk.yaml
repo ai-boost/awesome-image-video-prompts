@@ -1,0 +1,76 @@
+id: h3-montreal-red-knit-bridge-walk
+title:
+  en: Woman in red knit top walks under Montreal bridge
+  zh: 红色针织上衣女子走过蒙特利尔高架桥下
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- fashion
+- montreal
+- tracking-shot
+- character-reference
+source:
+  name: '@PrometheanAIX on X'
+  url: https://x.com/PrometheanAIX/status/2091512921482227817
+  credit: Promethean
+  likes: 60
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+video: https://x.com/PrometheanAIX/status/2091512921482227817
+notes:
+  en: Locks identity with an explicit character reference and a fixed wardrobe list, then sets an eight scene timing map borrowed from a reference video so the cuts keep rhythm. Each scene pairs a camera move with a motivated pedestrian pass or foreground occlusion, which keeps the tracking shots busy without staging the model.
+  zh: 用明确的角色参考和固定的服装清单锁定人物身份，再借用参考视频的节奏设定八个镜头的时间表，让剪切保持节奏。每个镜头都让运镜与有动机的行人经过或前景遮挡相配合，使跟拍镜头有生气，又不显得摆拍。
+prompt: |
+  A model walking toward a camera on a blank runway shows you the clothes. A woman moving through a city shows you the life those clothes belong to.
+
+  I created this video using Hailuo MiniMax H3.
+
+  Hailuo is great at keeping a character visually consistent while pushing them through fast-moving scenes, changing locations and different camera angles.
+
+  It really shines when you want the camera to feel active, with tracking shots, changing perspectives and movement.
+
+  Creative direction:
+  Keep the character moving through changing environments so each new location gives the clothing a different attitude, context and sense of momentum.
+
+  Treat every location as another chapter of the same fashion story, using forward movement and environmental changes to keep the viewer discovering something new
+
+  Art direction:
+  Elevated city fashion, strong architectural lines, street-level tracking shots, passing pedestrians, transit movement and wider environmental frames balanced against clean full-body looks.
+
+  Modern metropolitan styling, natural city light, cinematic tracking, full-body compositions, active backgrounds and architectural scale that makes the fashion feel aspirational without feeling staged.
+
+  Video prompt:
+  Hailuo MiniMax H3, 15-second cinematic urban fashion video, vertical 9:16. Use the attached woman as the exact character reference. Preserve her face, hair, body proportions, facial structure, and identity throughout. Keep her wardrobe consistent: tomato-red sleeveless knit top, loose white tailored trousers, woven belt, sculptural gold earrings, and flat leather sandals. Contemporary summer streetwear with a confident, polished Montreal attitude.
+
+  Recreate the exact visual rhythm and shot grammar of the Chicago Streetwear 1 reference video. The video should feel like a fast, stylish day-in-the-city portrait with active urban life, not a posed fashion advertisement. Use grounded walking, natural gestures, confident posture, realistic pedestrian movement, motivated camera motion, and quick cinematic cuts. No dialogue, no narration, no text, no logos, no morphing, no plastic skin, no exaggerated choreography.
+
+  Use eight scenes with the same relative timing as the Chicago reference, expanded to 15 seconds: approximately 3.2 seconds, 1.7 seconds, 1.9 seconds, 1.6 seconds, 1.6 seconds, 1.6 seconds, 1.4 seconds, and 2 seconds.
+
+  Scene 1, 0:00–0:03.2:
+  Begin beneath the Bonaventure Expressway in Griffintown, using the massive industrial beams and repeating overhead structure as strong leading lines. Front-facing gimbal tracking moves backward as she walks toward the camera with relaxed confidence. She lightly adjusts the edge of her red knit top or touches the woven belt as she walks. Keep her movement natural and purposeful, with pedestrians and cyclists moving through the background.
+
+  Scene 2, 0:03.2–0:04.9:
+  Hard cut to a colorful mural-lined lane near Saint-Laurent Boulevard in the Plateau. Use a side and slightly rear tracking angle as she walks forward along the brick wall. She briefly touches her collar and glances toward the mural, then continues without stopping. The camera moves with her smoothly while the background slides past.
+
+  Scene 3, 0:04.9–0:06.8:
+  Three-quarter front tracking shot as she crosses Saint-Catherine Street near Place des Arts. Downtown towers, traffic, traffic lights, and pedestrians create depth behind her. She steps confidently through the crosswalk, looks toward something off to the side, and keeps moving. Show her from the waist up and full body in alternating moments. She should look intelligent, stylish, radiant, and completely comfortable in the city.
+
+  Scene 4, 0:06.8–0:08.4:
+  Outside a fashionable boutique in Mile End, she pauses with two stylish local friends. They exchange a quick natural laugh and a few expressive hand gestures, with no audible dialogue. She reacts warmly and intelligently, listening for a moment before smiling and moving on. This should feel like a genuine social encounter, not a staged pose.
+
+  Scene 5, 0:08.4–0:10:
+  At the Jean-Drapeau Montreal Metro platform, she stands near the platform edge as a train rushes past, creating a strong burst of motion and wind through her hair and clothing. She remains composed, then turns and begins walking along the platform as the train disappears. Use a dynamic lateral camera move with realistic motion blur.
+
+  Scene 6, 0:10–0:11.6:
+  Cut to Rue Saint-Paul in Old Montreal. Side-tracking shot as she passes reflective glass storefronts and historic stone buildings. Pedestrians cross close to the lens in the foreground, briefly obscuring her and revealing her again. She maintains a confident, effortless stride and never stops for the camera.
+
+  Scene 7, 0:11.6–0:13:
+  Rear-follow shot along the Old Port waterfront. The camera follows her from behind as she walks beside the river with cyclists, railings, historic architecture, and the Montreal skyline in the distance. She looks slightly toward the water and adjusts her pace naturally. Do not make this a static scenic shot. Keep the camera moving with her.
+
+  Scene 8, 0:13–0:15:
+  Finish with the same type of front-facing hero movement as the Chicago reference, but beneath the dramatic steel structure of the Jacques-Cartier Bridge. The camera tracks backward as she walks directly toward it, framed by powerful architectural lines. Her posture is relaxed, self-assured, and magnetic. She gives a subtle almost-smile while remaining in motion. End mid-stride with the city moving around her, not with a skyline, sunset, turn-away, or stationary fashion pose.
+
+  Overall treatment: energetic urban streetwear film, cinematic realism, crisp architectural composition, realistic Montreal street life, confident feminine movement, natural facial expressions, clean editorial color, subtle film grain, smooth gimbal tracking, lateral movement, rear-follow shots, foreground occlusion, and fast motivated cuts. Preserve her identity and outfit in every scene.
+
+  Paid promotion for Hailuo.

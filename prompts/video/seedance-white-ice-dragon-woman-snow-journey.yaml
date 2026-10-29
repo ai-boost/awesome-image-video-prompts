@@ -1,0 +1,25 @@
+id: seedance-white-ice-dragon-woman-snow-journey
+title:
+  en: Woman stands beside white ice dragon in snowy forest
+  zh: 女子与白色冰龙并立于雪林中
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- fantasy
+- dragon
+- character-reference
+- snow
+source:
+  name: '@Aiwithkami on X'
+  url: https://x.com/Aiwithkami/status/2099056876722041057
+  credit: Kami AI
+  likes: 75
+  captured: '2026-10-29'
+  posted: '2026-09-13'
+video: https://x.com/Aiwithkami/status/2099056876722041057
+notes:
+  en: 'A reference image locks the character''s face, hair and outfit across the shot, while the prompt lists the action as ordered beats: stand, ride, fly over mountains, reach the shelter. Wide-shot cinematic language and atmosphere cues such as snowfall, blue light and warm firelight set the overall look.'
+  zh: 参考图锁定角色的脸、发型和服装，提示词用有序的动作节拍描述站立、骑乘、飞越山脉、抵达遗迹。广角电影镜头语言和氛围词（飘雪、蓝色冷光配暖色火光）定下整体画面质感。
+prompt: |
+  Use the uploaded reference image as the exact character reference. Keep the same face, hair, outfit and appearance throughout. The woman stands beside the giant white ice dragon, then rides on its back as it flies over snowy mountains and a frozen river. They reach an ancient stone shelter where she explores while the dragon protects her. Cinematic camera movement, epic wide shots, realistic motion, glowing blue eyes, snowfall, blue atmosphere with warm firelight, photorealistic fantasy movie quality, 16:9, no background music.

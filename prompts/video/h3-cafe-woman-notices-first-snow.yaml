@@ -1,0 +1,25 @@
+id: h3-cafe-woman-notices-first-snow
+title:
+  en: Young woman in café notices first snow outside
+  zh: 年轻女子在咖啡馆发现初雪
+model: MiniMax H3
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- winter
+- snow-physics
+- handheld
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2091093399084708112
+  credit: Snow
+  likes: 64
+  captured: '2026-10-29'
+  posted: '2026-08-22'
+video: https://x.com/iamrealsnow/status/2091093399084708112
+notes:
+  en: A beat-by-beat sequence (sipping in the café, reaching for the phone, stepping outside, a snowflake landing on the sleeve, looking up and smiling) fits a 15 second clip with clear pacing. Naming handheld vlog footage and contrasting the warm interior with the cold blue outdoors gives the motion and grade a clear target, and the closing no text instruction keeps captions out of the frame.
+  zh: 按时间顺序写出一连串动作：在咖啡馆喝饮品、拿出手机、走到户外、雪花落在袖子上、抬头微笑，15秒内节奏清楚。明确写出手持 vlog 拍摄风格，并对比温暖室内与冷蓝户外的色调，让运镜和调色有明确方向；结尾加上不要字幕，避免画面出现文字。
+prompt: |
+  Create a dreamy 15-second Korean winter vlog. A young woman sits inside a minimalist café holding a hot drink when she notices the first snow beginning outside. She excitedly grabs her phone, walks outside, catches a snowflake on her sleeve, and looks up smiling. Soft Korean winter atmosphere, warm café interior contrasting with cold blue outdoors, realistic snow physics, handheld vlog footage, cinematic and natural, no text.

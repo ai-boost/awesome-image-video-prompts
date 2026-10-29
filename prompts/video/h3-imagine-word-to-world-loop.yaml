@@ -1,0 +1,72 @@
+id: h3-imagine-word-to-world-loop
+title:
+  en: Typed word morphs into a geometric world
+  zh: 打字单词变形为几何城市
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- typography
+- motion-graphics
+- match-cut
+- seamless-loop
+source:
+  name: '@aziz4ai on X'
+  url: https://x.com/aziz4ai/status/2088748628571558159
+  credit: AZIZ | AI 🇸🇦
+  likes: 112
+  captured: '2026-10-29'
+  posted: '2026-08-15'
+video: https://x.com/aziz4ai/status/2088748628571558159
+notes:
+  en: The prompt fixes the exact seven-letter word and one central circle, so each stage morphs through a shared circle, arch or silhouette with a visible geometric cause. Its explicit ban on dissolves and chaotic camera moves keeps the motion clean and closes the loop on the opening frame.
+  zh: 提示词锁定七个字母的确切单词和唯一的圆形中心，每个阶段都通过共享的圆、拱门或轮廓变形，变化有明确的几何依据。明确禁止溶解转场和混乱运镜，使动态保持干净，并让结尾回到开场画面形成循环。
+prompt: |
+  Create a 15-second vertical 9:16 premium motion-graphics film titled “FROM A WORD TO A WORLD.” Build it through seamless geometric morphing, invisible shape-based match cuts and continuous forward momentum. End on the exact opening frame for a perfect infinite loop.
+
+  REFERENCE MAP:
+
+  @Image
+   1 — TYPOGRAPHY LOCK: Defines the exact lowercase word “imagine,” spelled with exactly seven letters: i-m-a-g-i-n-e, its bold geometric type, centered position, black background and typing cursor. Never add, remove, duplicate or rearrange letters.
+
+
+  @Image
+   2 — DOT-TO-SUN: Defines how the dot above the first “i” expands into the sun through concentric circles and cobalt motion trails.
+
+
+  @Image
+   3 — OPTICAL MORPH: Defines sun → optical rings → camera lens → aperture blades → stylized iris. Preserve one circular center and rotational direction.
+
+
+  @Image
+   4 — WORLD SYSTEM: Defines iris → circular tunnel → curved bridges → typographic architecture → surreal graphic city.
+
+
+  @Image
+   5 — STYLE: Defines premium broadcast motion design, Swiss editorial geometry, pure-black negative space, luminous white forms, electric cobalt accents, restrained amber light, crisp vector hierarchy and subtle 2.5D depth.
+
+  REFERENCE LOCK:
+  The images are design and transformation sheets, not video frames. Never show sheets, grids, stacked stages or several reference objects at once. Extract each element individually and animate every stage full-screen. The result must feel like world-class motion graphics, not photoreal CGI, concept art, cyberpunk or a technology poster.
+
+  VISUAL AND MOTION LOCK:
+  Maintain the black, white, cobalt and amber palette. Keep every circular object on the same central axis. Use refined elastic easing, controlled acceleration, rotational continuity, motion echoes and hidden match cuts based on shared circles, curves and silhouettes. Every morph must have a visible geometric cause. No dissolves, teleportation, broken morphs, frame skipping or chaotic camera moves.
+
+  TIMELINE:
+
+  0.00–1.40 — TYPE HOOK
+  Pure black. A thin cobalt cursor blinks once at center. Rapidly type the exact lowercase word “imagine,” one correct letter per keystroke: i-m-a-g-i-n-e. Bold luminous-white geometric typography. Each keystroke sends a subtle cobalt pulse through the letters. Hold briefly.
+
+  1.40–3.10 — DOT TO SUN
+  Push rapidly toward the dot above the first “i.” It detaches while the remaining letters stretch into horizontal speed lines and leave frame. The centered dot expands through concentric graphic rings and morphs into a restrained amber sun disc.
+
+  3.10–5.20 — SUN TO LENS
+  The corona reorganizes into rotating optical rings. Circular match cut into a camera-lens front element. Cobalt reflections sweep across the glass as rings assemble into aperture blades. The aperture closes, then snaps open.
+
+  5.20–6.70 — LENS TO IRIS
+  Without changing size or center, aperture blades soften into a stylized cobalt iris. Metallic edges become clean radial lines and the central lens becomes a black pupil. Never show a face or photoreal eye.
+
+  6.70–10.70 — IRIS TO WORLD
+  Accelerate through the pupil. Iris lines extend into a graphic tunnel. Rapid hidden match cuts: tunnel rings become arches, arches stretch into bridges, bridges rise into bold typographic architecture. Reveal a surreal city made from luminous-white geometry, cobalt routes and one amber sun. Fly smoothly through it as circular windows become tunnels and curved roads become letter-like strokes.
+
+  10.70–13.30 — WORLD TO WORD
+  Rise above the city. Buildings flatten into letter stems, bridges bend into curves and roads align into a baseline. The world compresses into the exact lowercase word “imagine.” The amber sun shrinks into the dot above the first “i.” Keep all seven letters perfectly readable.

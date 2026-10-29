@@ -1,0 +1,47 @@
+id: h3-office-graphics-card-handover-drama
+title:
+  en: Young man hands boss a graphics card
+  zh: 年轻人在办公室把显卡递给领导
+model: MiniMax H3
+mode: text-to-video
+category: dialogue
+tags:
+- drama
+- dialogue
+- multi-scene
+- office
+source:
+  name: '@eternityspring on X'
+  url: https://x.com/eternityspring/status/2112741803871097333
+  credit: 烁皓
+  likes: 145
+  captured: '2026-10-29'
+  posted: '2026-10-19'
+video: https://x.com/eternityspring/status/2112741803871097333
+notes:
+  en: The script is organised into bracketed scene blocks, each pairing a speaker role with one line of dialogue, so every beat maps to a single shot. Roles are described by job and personality instead of appearance, which leaves casting to the model.
+  zh: 剧本按方括号分成场景块，每块是一个角色加一句台词，让每个情节对应一个镜头。角色只用职业和性格描述，不写外貌，外形交给模型决定。
+prompt: |
+  **The Art of Gift-Giving—This Card Isn't Easy to Get**
+
+  **Script:**
+  **Characters:** Leader (Technical Director, AI enthusiast), Little Wang (Honest guy, quotes prices for everything he gives), Little Li (Knows how to give gifts)
+  **Scene:** Before the holiday, Leader's office
+
+  **[Graphics Card]**
+  Little Wang: Leader, for the holiday, I'm giving you a 5090 graphics card—over 20,000 yuan.
+  Leader: That's too generous, but I don't really use this card much; the VRAM is too small.
+  Little Li: Leader, I have a friend who does ops in a server room. He knows you like running models and gave me a few decommissioned cards—something called H100. I don't get it; can you take a look and see if it's any good?
+  Leader (cradling the card, eyes lighting up): Oh man, this card isn't easy to get. I've got to run it tonight no matter what.
+
+  **[Membership]**
+  Little Wang: Leader, I topped up a one-year GPT membership for you—heard it's really handy.
+  Leader: Alright... but don't waste money on this stuff in the future; I've got several accounts already.
+  Little Li: Leader, I took a spin around San Francisco and had someone snag me an invite code for testing a new GPT model. I don't know if it's legit, but it seemed interesting—can you check it out for me?
+  Leader (glancing at his phone and grinning, waving him over eagerly): Oh, this is nice. Come on, sit down—I'll run a demo for you to see.
+
+  **[Computer]**
+  Little Wang: Leader, for the holiday, I brought you an AI laptop—top spec, over 30,000 yuan.
+  Leader: That's too generous, but I don't use one much on the daily.
+  Little Li: Leader, I passed by the computer market and saw these RAM sticks—they looked pretty cool and weren't pricey. Figured you'd use them for running local models.
+  Leader (picking up a RAM stick and holding it to the light): You picked a good one here. You really get AI.

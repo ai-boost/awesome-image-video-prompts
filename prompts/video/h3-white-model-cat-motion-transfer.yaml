@@ -1,0 +1,55 @@
+id: h3-white-model-cat-motion-transfer
+title:
+  en: White clay cat copies street cat pose
+  zh: 白色泥塑猫复刻街头猫的动作
+model: MiniMax H3
+mode: video-edit
+category: vfx
+tags:
+- white-model
+- motion-transfer
+- reference-video
+- cat
+source:
+  name: '@GeekCatX on X'
+  url: https://x.com/GeekCatX/status/2102984305924559272
+  credit: 知识猫AI实验室
+  likes: 598
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+video: https://x.com/GeekCatX/status/2102984305924559272
+notes:
+  en: The uploaded reference video is the only motion source, and the prompt locks camera, timing and original audio to it. It swaps fur, eyes and colour for a seamless matte sculpt on a plain studio backdrop, with explicit bans on joints and toy looks.
+  zh: 上传的参考视频是唯一动作来源，提示词将镜头、节奏和原始音频都锁定到它。用无缝哑光雕塑替换毛发、眼睛和颜色，背景为纯色影棚，并明确禁止关节和玩偶质感。
+prompt: |
+  Please use the reference video <Video 1> I uploaded as the sole source of motion, converting the [Main Subject] into a 3D white model that perfectly replicates the position, actions, rhythm beats, motion trajectories, and camera compositions of every subject in the original video.
+
+  [White Model Appearance]
+  The white model is an untextured base sculptural model in 3D animation production, resembling a matte light gray-white (close to #E6E6E6) one-piece molded clay sculpture:
+  - Organic, complete, continuous form: Surface is smooth and seamless, with natural transitions between body parts, and joint locations indicated only through natural anatomical forms, without drawing segmentation lines;
+  - Remove surface details: Eyes, facial features, hair, feathers, scales, clothing, patterns, colors, textures;
+  - Retain the form itself: The subject's original contours, proportions, posture, and muscle undulations, recognizable at a glance as what subject it is, which breed or body type;
+  - The number, types, and sizes of subjects correspond one-to-one with the original video.
+
+  [Handling Different Subjects] (Apply only to types actually present in the footage)
+  - Humans: Smooth humanoid sculptures, faceless, hairless, unclothed, gender-neutral, retaining natural shoulder-neck, waist-back, and limb lines;
+  - Cats, dogs, and other furry animals: Retain the outer contour volume shaped by fur, removing only fur texture, making the animal look like a rounded, soft sculpture rather than shaved bald; Shapes of ears, tails, muzzles, and paws remain natural;
+  - Birds: Wings and tail feathers as a single soft sculptural form, with shapes in extended and folded states matching the original video;
+  - Fish, snakes, reptiles: Body as a continuous, supple curved surface, bending naturally during movement;
+  - Cartoon characters: Retain original exaggerated proportions, using the same organic sculptural texture;
+  - Props: Retain outer shapes, using the same material.
+
+  [Motion Requirements]
+  - Pose, orientation, center of gravity in every frame, as well as positions of limbs, tails, wings, and heads, match the exact moment in the original video;
+  - Preserve the flexibility and lifelike quality of motions in the original video: Spinal curvature, body extension and contraction, landing cushioning, tail whipping, muscle compression deformations all naturally fluid;
+  - Rhythm beats coincide exactly with the original video, without adding motions, omitting motions, or altering amplitudes;
+  - Positions, movement paths, and speeds of each subject, as well as contact, pulling, and occlusion relationships between subjects, match the original video.
+
+  [Camera and Frame]
+  Camera positions, shot scales, lens movements, and compositions match the original video frame by frame; Aspect ratio, duration, and frame rate identical to the original video. Background is a seamless neutral light gray studio, lit with soft, even studio photography lighting, retaining only faint contact shadows beneath the subjects.
+
+  [Audio Requirements]
+  Fully retain the original audio from the reference video (music, voice, animal sounds, effects, ambient noise), without replacement or regeneration, strictly synced with the visuals, and matching duration.
+
+  [Prohibitions]
+  No mechanical joints, ball joints, splice seams, segmented structures, screws, hinges, metallic or plastic sensations; Nor any robotic, puppet, doll, toy, or low-polygon feel; Motions must not be rigid or like independent parts rotating; No eyes, facial features, hair textures, clothing, colors, text; Do not add or remove subjects, nor alter motions, speeds, or camera movements.

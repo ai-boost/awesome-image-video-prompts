@@ -1,0 +1,39 @@
+id: h3-korean-market-rainy-alley-walk
+title:
+  en: Korean market shopper walks into rainy alley
+  zh: 韩国市场购物女子走入雨中小巷
+model: MiniMax H3
+mode: text-to-video
+category: vlog
+tags:
+- korean-market
+- rainy-alley
+- lifestyle
+- handheld
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2094643685338300751
+  credit: Ali
+  likes: 111
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+video: https://x.com/aiwithaly/status/2094643685338300751
+notes:
+  en: The prompt runs as a timed beat sheet (produce, food sample, coin payment, rain) and restates the outfit and hair in the opening so the character stays consistent across beats. A closing list of artifacts to avoid, such as CGI faces, teleporting, floating bags and slow motion, steers the physics and camera.
+  zh: 提示词按时间顺序列出动作节拍（挑选蔬果、试吃、付钱、下雨），并在开头固定服装和发型描述，让角色在各个节拍中保持一致。结尾列出要避免的问题，如 CGI 人脸、瞬移、漂浮的袋子和慢动作，用来约束物理效果和镜头。
+prompt: |
+  Ultra-photorealistic cinematic 15-second Korean lifestyle film following a young Korean woman with long dark hair in a low ponytail, wearing a cream T-shirt, loose light-blue jeans, white sneakers, and carrying a beige reusable shopping bag. Maintain consistent face, hairstyle, clothing, proportions, and accessories throughout.
+
+  She enters a lively traditional Korean market, walking naturally between crowded stalls while vendors call to customers and shoppers move around her. She stops at a produce stall, gently inspects peaches and tomatoes, selects fresh produce, and places them into her reusable bag. The bag swings naturally with her movement and becomes slightly heavier.
+
+  She approaches a hot-food stall where a vendor stirs sizzling food in a metal pan. Steam rises naturally from the heat. The vendor offers her a small sample on a wooden pick. She tastes it and reacts with a subtle, genuine smile.
+
+  She then pays the vendor with several coins, creating a soft metallic sound, secures her shopping bag, and walks toward the market exit.
+
+  Transition into a narrow traditional Korean residential alley. As she walks beneath tiled rooftops, light rain begins to fall. The pavement gradually becomes wet, small ripples form in shallow puddles, and subtle reflections appear on the ground. She looks upward, smiles, pulls the shopping bag closer, and continues walking as the rain gently increases.
+
+  End with a cinematic rear tracking shot as she disappears deeper into the peaceful rainy alley.
+
+  100% photorealistic live-action, authentic Korean market atmosphere, natural human acting, realistic food preparation, physically accurate object interaction, believable gravity, momentum, friction, weight, steam convection, rain dynamics, wet pavement, natural hair and clothing movement, documentary-style handheld camera, realistic skin texture, cinematic depth of field, natural lighting, restrained color grading, smooth transitions, authentic ambient market and street sounds.
+
+  No CGI look, no artificial faces, no robotic movement, no teleportation, no floating objects, no duplicated people, no changing face, clothing, or hairstyle, no unrealistic steam or rain, no weightless shopping bag, no fantasy physics, no excessive camera shake, no slow motion, no text, subtitles, logos, or watermark.

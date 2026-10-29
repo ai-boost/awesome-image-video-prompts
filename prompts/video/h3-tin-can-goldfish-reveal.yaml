@@ -1,0 +1,30 @@
+id: h3-tin-can-goldfish-reveal
+title:
+  en: Gold tin can on a woven kitchen mat
+  zh: 金色食品罐放在编织厨房垫上
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- product-reveal
+- locked-camera
+- surprise-twist
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/2108935549553656006
+  credit: Glenn Williams
+  likes: 26
+  captured: '2026-10-29'
+  posted: '2026-10-10'
+video: https://x.com/GlennHasABeard/status/2108935549553656006
+notes:
+  en: A locked camera at floor height keeps one object in frame, so the surprise lands on the can itself. Stating the contents as a concrete premise gives the model one clear thing to render.
+  zh: 固定机位保持在地面高度，画面里只有一个物体，反转效果直接落在罐子上。提示词把罐内内容写成具体的前提，让模型只需要呈现一个清楚的画面。
+prompt: |
+  Minimax H3, open weights, generated locally. Dinner is served. Dinner has other plans.
+
+  Prompt: "inside is not food but clear water with one tiny goldfish swimming in it"
+
+  Duration: 15s. Camera: locked, floor height. Rendered locally in ComfyUI, then Topaz to 4K.
+
+  The model keeps peeling the lid from the wrong end, away from the ring pull. The goldfish does not seem to mind, so the best take stays.

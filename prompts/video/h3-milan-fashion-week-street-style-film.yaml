@@ -1,0 +1,58 @@
+id: h3-milan-fashion-week-street-style-film
+title:
+  en: Woman leaves Milan hotel in street-style film
+  zh: 女子离开米兰酒店的街拍风短片
+model: MiniMax H3
+mode: image-to-video
+category: commercial
+tags:
+- fashion
+- milan
+- street-style
+- identity-reference
+- hailuo
+source:
+  name: '@PrometheanAIX on X'
+  url: https://x.com/PrometheanAIX/status/2089355155829325876
+  credit: Promethean
+  likes: 55
+  captured: '2026-10-29'
+  posted: '2026-08-17'
+video: https://x.com/PrometheanAIX/status/2089355155829325876
+notes:
+  en: The reference image locks her identity across a run of very short cuts with a longer hero shot at the end, and the prompt names each camera move (gimbal, lateral tracking, rear follow, push-in) so the edit rhythm stays deliberate. Explicit no morphing and no wardrobe change clauses keep her face and outfit stable from cut to cut.
+  zh: 参考图作为身份锚点，在一连串极短镜头和结尾较长的主镜头中保持同一人物。提示词逐一写明运镜方式（云台跟拍、横向跟踪、背后跟随、推近），并加入不变形、不换装的约束，让人物的脸和服装在每次切镜后保持稳定。
+prompt: |
+  Create a hyper-realistic cinematic fashion-lifestyle video, approximately 15 seconds total, using the reference image as the identity reference for the same woman throughout.
+
+  She is a striking young woman with sun-kissed skin, voluminous blonde hair, and a confident, elevated editorial presence.
+
+  Dress her in a polished contemporary Milan Fashion Week street-style look: a strong, fashion-forward outfit with a clean silhouette, such as tailored trousers, a fitted top, a structured oversized coat, refined boots or heels, and a sleek designer-style bag. Keep the styling sophisticated, modern, and expensive-looking. No wardrobe changes.
+
+  No morphing. Keep her face, hair, body, and overall identity consistent in every shot.
+
+  Make it fast, stylish, highly realistic storytelling with mostly 0.8 to 1.8 second scenes, plus one slightly longer 2 to 3 second hero moment at the end. Camera work should feel premium and dynamic, with smooth gimbal movement, lateral tracking, rear-follow, subtle orbiting, and elegant push-ins.
+
+  The tone is elevated, fashion-insider, and candid, like she is moving through Milan Fashion Week between moments rather than posing for a campaign.
+
+  She should feel self-possessed, magnetic, and naturally cool. No stiff posing, no plastic skin, no uncanny behavior, no scene instability, and no sudden changes in lighting, location logic, or outfit.
+
+  Sequence: Open with her leaving a beautiful Milan hotel or fashion apartment building and stepping onto the street with purpose, the camera moving with her as if catching her in motion.
+
+  Cut to her crossing a stylish Milan street while photographers and fashion people move in the background.
+
+  For the third scene, cut to a very intimate close-up of her face, neck, and the top of her shoulders only. She looks directly into the camera with calm intensity, creating an immediate personal and emotional connection with the viewer. Keep this moment extremely beautiful, confident, and natural, with subtle movement in her hair and a shallow depth of field.
+
+  Then cut to her walking past a cluster of photographers or guests outside a fashion venue, not stopping to pose, just moving through the energy.
+
+  Cut to a quick espresso moment at a standing café bar or outside a polished café, where she glances sideways and then back into motion.
+
+  Cut to a candid social beat where she greets two stylish friends outside a venue or on a narrow Milan street, with a quick cheek kiss, smile, or touch on the arm, making it feel like she belongs in this world.
+
+  End with a dramatic hero shot, slightly longer than the other scenes, showing her from the waist up. She stands or slowly walks in a striking Milan setting, such as outside a fashion venue, beneath elegant architecture, or in a softly glowing evening street scene. The camera performs a subtle, graceful move while she looks directly into the lens again, creating a second intimate emotional connection with the viewer.
+
+  She should look powerful, beautiful, and unforgettable.Make Milan feel specific through elegant streets, fashion-week crowds, refined architecture, luxury vehicles, soft European daylight or golden-hour light, and the understated chaos of the fashion world.
+
+  The result should feel like an insider Milan Fashion Week street-style film, not a runway video, not a tourist video, and not a posed ad. It should feel spontaneous, cinematic, fashion-forward, and emotionally engaging.
+
+  Paid partnership with Hailuo.

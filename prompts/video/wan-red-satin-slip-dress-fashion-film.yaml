@@ -1,0 +1,57 @@
+id: wan-red-satin-slip-dress-fashion-film
+title:
+  en: Red satin slip dress in a luxury fashion film
+  zh: 红色真丝吊带裙奢华时装广告片
+model: Wan 3.0
+mode: reference-to-video
+category: commercial
+tags:
+- fashion
+- luxury
+- multi-shot
+- reference-images
+source:
+  name: '@johnAGI168 on X'
+  url: https://x.com/johnAGI168/status/2091876549985288529
+  credit: John
+  likes: 64
+  captured: '2026-10-29'
+  posted: '2026-08-24'
+video: https://x.com/johnAGI168/status/2091876549985288529
+notes:
+  en: The @Fig1 and @Fig2 reference images lock the model face and the dress details, and each beat gets a timestamp, a named camera move and a sound cue. A dark, low saturation room leaves the red dress as the only strong color in the frame.
+  zh: '@Fig1 和 @Fig2 参考图锁定人物外貌和裙装细节，每个镜头都标注时间码、镜头运动和声音提示。暗色低饱和的空间只留下红裙这一种高饱和颜色，让主体在画面中一眼突出。'
+prompt: |
+  [Style] Luxury Fashion Film / High-End Commercial, photorealistic texture, ARRI Alexa shooting feel, shallow depth of field, 8K ultra-HD, DaVinci advanced color grading, dark low-saturation background to accentuate pure true red, no plastic feel, no AI sheen
+  [Aspect Ratio] 16:9 landscape
+  [Duration] 20 seconds
+  [Scene] Penthouse hotel suite, floor-to-ceiling windows overlooking a twilight city skyline, white sheer curtains billowing in a through-breeze, interior with beige wood-paneled walls and black marble countertops, the only high-saturation color in the entire frame is that red dress
+  [Character] Female model
+  @Fig1
+   (maintain consistent facial features, hairstyle, skin texture, temperament calm and restrained, no smiling or at most the faintest hint of a smile)
+  [Outfit] She wears the red silk satin slip dress from @Fig2 (wing-shaped 3D weave at the chest, hand-braided rope cutouts at the waist sides, irregular handkerchief hem), keeping the style, color, and craftsmanship details completely consistent
+
+  [00:00-00:04] Shot 1: Fabric Tease (Macro / Slider)
+  Macro lateral slide: Red silk satin slowly glides across a dark background, light flowing along the fabric's folds, revealing the yarn weave and satin sheen highlights.
+  The shot slowly pushes toward the wing-shaped 3D weave at the chest, with the braided rope structure clearly visible.
+  Sound: Subtle rustle of fabric friction, low-frequency string note enters.
+
+  [00:04-00:09] Shot 2: Figure Enters Frame (Backlit Tracking)
+  Medium-long side backlit shot: She walks past the sheer curtains in the red dress, twilight side backlight piercing through the curtains, casting a long shadow on the floor.
+  The hem lifts and falls with her steps, the irregular handkerchief hem's pointed edges tracing arcs in the air, the through-breeze making the curtains and hem flutter together.
+  Low-angle horizontal tracking shot, figure always positioned in the right third of the frame.
+
+  [00:09-00:14] Shot 3: Craft Close-Up (Detail Insert)
+  Close-up: Her fingers lightly pinch the end of the satin bow tie at the chest, the ribbon dangling.
+  Cut to close-up: The hand-braided rope cutouts at the waist side form a row of fine dense shadows in the light.
+  Cut to close-up: The hem edge whips through the air in slow motion (slow-mo), the satin flipping from deep burgundy to bright true red.
+
+  [00:14-00:18] Shot 4: Glance Back Medium Shot (Medium Shot / Push-in)
+  Medium shot: She stands with her back to the camera by the window, her shoulder and back lines forming a clean composition with the red ribbon straps, slowly turning her head to look at the camera.
+  Facial pores and skin texture rendered realistically, gaze calm and direct into the lens, chin slightly raised, long hair subtly swaying in the breeze.
+  Very slow push-in (slow push-in), focus locked on her eyes throughout.
+
+  [00:18-00:20] Shot 5: Freeze Frame Close (Freeze / Title Card)
+  Full shot freeze: She stands before the floor-to-ceiling window, the red dress the only bright color in the frame, background city skyline blurred into bokeh light points.
+  The frame gradually fades to black, white thin sans-serif English subtitles fade in at the center: "IN RED."
+  Sound: Strings resolve on a sustained note, with 0.5 seconds of silence at the tail.

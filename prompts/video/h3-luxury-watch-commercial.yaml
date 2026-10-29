@@ -1,0 +1,54 @@
+id: h3-luxury-watch-commercial
+title:
+  en: Luxury watch reveal inside a presentation box
+  zh: 奢华腕表在礼盒中缓缓揭幕
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- luxury
+- product
+- omni-reference
+- minimax-h3
+source:
+  name: '@I_amShiti on X'
+  url: https://x.com/I_amShiti/status/2083051609953903017
+  credit: Kuria | AI
+  likes: 89
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/I_amShiti/status/2083051609953903017
+notes:
+  en: Omni Reference locks the watch design across every shot while the storyboard line sets shot order and pacing. Listing the case, dial, strap and light sources in the prompt keeps the product consistent from the box reveal to the hero shot.
+  zh: Omni Reference 锁定腕表外观，分镜指令负责镜头顺序与节奏。提示词中列明表壳、表盘、表带和光源，使产品从开盒到主视觉保持一致。
+prompt: |
+  Use storyboard as the complete creative direction, shot list, composition, pacing, and cinematic sequence.
+
+  Use LuxuryWatch as the exact product reference. Preserve the watch's design, dial, case, leather strap, proportions, materials, and fine details consistently throughout every scene.
+
+  Create a world-class luxury watch commercial.
+
+  Follow the storyboard exactly while transforming each frame into a seamless cinematic sequence.
+
+  Begin with a dramatic reveal of the luxury watch inside its presentation box. Slowly unveil the timepiece as warm golden light reflects across the polished platinum case and sapphire crystal. Transition into breathtaking macro shots showcasing the intricate dial, sweeping second hand, open-heart mechanical movement, and handcrafted finishing.
+
+  Introduce an impeccably dressed gentleman preparing for an exclusive black-tie gala. He carefully lifts the watch, fastens it to his wrist, and confidently adjusts his tailored suit. Every movement should feel refined, natural, and premium.
+
+  Finish with a powerful hero product reveal on a glossy black marble pedestal surrounded by floating metallic particles, subtle golden dust, and dramatic rim lighting. End with an unforgettable luxury advertising composition worthy of an international Swiss watch campaign.
+
+  Style:
+  Luxury Swiss watch commercial.
+  Ultra-photorealistic.
+  Award-winning commercial cinematography.
+  IMAX-quality visuals.
+  Luxury editorial aesthetic.
+  Hyper-realistic metal reflections.
+  Flawless sapphire crystal.
+  Precision mechanical details.
+  Shallow depth of field.
+  Elegant macro cinematography.
+  Physically accurate lighting.
+  Rich contrast.
+  Premium black, silver, and champagne gold color palette.
+  Commercial-grade production quality.
+  8K masterpiece.

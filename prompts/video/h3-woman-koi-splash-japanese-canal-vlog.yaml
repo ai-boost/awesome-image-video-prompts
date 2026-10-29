@@ -1,0 +1,50 @@
+id: h3-woman-koi-splash-japanese-canal-vlog
+title:
+  en: Woman laughs as giant koi splash her
+  zh: 女子被巨型锦鲤溅水后大笑
+model: MiniMax H3
+mode: reference-to-video
+category: vlog
+tags:
+- handheld
+- timed-beats
+- reference-identity
+- koi
+source:
+  name: '@Just_Anika_Here on X'
+  url: https://x.com/Just_Anika_Here/status/2109495486138999114
+  credit: Anika
+  likes: 69
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+video: https://x.com/Just_Anika_Here/status/2109495486138999114
+notes:
+  en: A timed beat sheet gives each moment one clear action, while handheld phone cues, autofocus hunting and a listed sound set keep it casual. The reference image is limited to identity so her face and hair stay consistent across the clip.
+  zh: 按时间段列出的分镜表让每个时刻只有一个明确动作，手持手机的晃动、自动对焦跳动和列出的环境音效则让画面保持随意感。参考图只用于锁定人物身份，使她的面容和发型在整段视频中保持一致。
+prompt: |
+  Create ultra-realistic spontaneous vertical iPhone footage during a sunny summer afternoon in a small Japanese riverside town.
+
+  Use the provided reference image ONLY as the identity reference for the main woman. Keep her facial identity, hairstyle, skin tone, proportions, and overall appearance perfectly consistent throughout the video.
+
+  The video should feel like a friend casually recording an unplanned travel adventure. Natural handheld smartphone movement, imperfect framing, occasional autofocus hunting, realistic sunlight and exposure changes, authentic environmental audio, and spontaneous human reactions. No staged acting or cinematic presentation.
+
+  0–3s
+  The woman walks along a narrow stone path beside a clear Japanese canal, holding a cold bottled drink. Traditional wooden houses, small bridges, green plants, and bicycles line the quiet street. She notices several enormous colorful koi fish gathering near the water's edge and leans forward curiously to get a better look.
+
+  3–6s
+  As she crouches slightly to film the fish, one giant koi suddenly splashes its tail near the edge, sending water droplets onto her arm and the camera lens. She instantly pulls back in surprise, almost dropping her drink, while the person filming lets out a spontaneous laugh.
+
+  6–9s
+  She starts laughing at her own reaction and points toward the unusually large fish. Another koi swims rapidly to the surface, creating ripples and splashes. The camera hurriedly tilts down to capture the fish before swinging back to her amused expression.
+
+  9–12s
+  A local elderly man standing nearby gently tosses a little fish food into the canal. Several koi rush toward the surface together, creating a sudden burst of colorful movement in the water. The woman steps closer to watch, visibly delighted, while trying to keep her drink away from the splashes.
+
+  12–15s
+  She turns toward the camera with a wide, disbelieving smile and gestures excitedly toward the fish, as if telling her friend to look at them. A cyclist unexpectedly passes close behind her, making the camera shift sideways to avoid the bicycle. The footage ends abruptly in the middle of her laughter.
+
+  Visual style: Bright natural afternoon sunshine, realistic reflections on water, authentic Japanese countryside architecture, lush green plants, subtle summer humidity, natural skin texture, realistic koi movement, ordinary vacation atmosphere, genuine reactions, raw handheld smartphone footage.
+
+  Audio: Running water, birds chirping, bicycle bell, distant footsteps, koi splashing, quiet neighborhood ambience, and spontaneous laughter. No background music, no narration, no scripted dialogue.
+
+  Avoid: Festival scenes, parades, fireworks, staged performances, cinematic camera movements, slow motion, commercial aesthetics, beauty filters, exaggerated acting, duplicated fish, distorted hands, unrealistic water physics, artificial skin, changing character identity, and AI visual artifacts.

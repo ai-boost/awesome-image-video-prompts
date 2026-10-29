@@ -1,0 +1,33 @@
+id: wan-outfit-swap-jump-reveal-stop-motion
+title:
+  en: Woman hesitates then jumps into outfit change
+  zh: 女孩犹豫后起跳完成换装
+model: Wan 3.0
+mode: keyframes-to-video
+category: vfx
+tags:
+- outfit-swap
+- head-tail-frames
+- timed-beats
+- stop-motion
+source:
+  name: '@TanLuAI on X'
+  url: https://x.com/TanLuAI/status/2096214239815823822
+  credit: 探路AI
+  likes: 42
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+video: https://x.com/TanLuAI/status/2096214239815823822
+notes:
+  en: A timed beat sheet with per-second cues fixes the order of expression and motion, and the tail frame locks the new outfit so the change lands at the apex of one jump. Holding the final frame and forbidding repeat jumps keeps the transition clean.
+  zh: 用逐秒的节拍表固定表情与动作的先后顺序，尾帧锁定新服装，让换装恰好发生在一次起跳的最高点。结尾定格并禁止重复起跳，使转场干净利落。
+prompt: |
+  2:3 vertical screen, pure white seamless photography studio, soft and stable side lighting with natural floor projections. Strictly maintain the facial features and body proportions of the same adult woman as in the reference images for the head and tail frames.
+  0–0.3 seconds: Starting from the first frame, the character has her left hand on her hip, head slightly tilted, brows gently furrowed, eyes slightly narrowed, lips lightly pursed, with a hint of confusion and hesitation, as if thinking "What should I wear?", without speaking. The right hand naturally lifts from beside the shoulder toward the forehead.
+  0.3–1.5 seconds: Maintain a restrained, natural puzzled expression, with the right fingertips lightly touching the hairline and stray hairs on the forehead, gently fiddling with them once or twice, like a small thoughtful gesture; left hand still on the hip. The gaze first looks toward the camera, then slightly shifts to the upper side.
+  1.5–2.6 seconds: The right hand moves away from the forehead and naturally drops, the line of sight turns to the left side of the frame, with the head and shoulders following into a three-quarter side profile. The puzzled expression naturally resolves, and the demeanor becomes focused. The left hand leaves the hip, preparing to swing the arm.
+  2.6–3.55 seconds: Both feet remain grounded, knees bend into a squat, center of gravity lowers, upper body leans slightly forward, arms swing naturally, with a brief pause in the low position to gather strength.
+  3.55–4 seconds: Both legs push off the ground in a light jump, feet leaving the surface. One leg extends downward, the other knee bends and lifts backward; one forearm raises to near the shoulder, the other arm naturally extends backward and to the side. The camera follows the character's jump, pulling back. Hair, bow, and skirt hem rise slightly with the jump in accordance with inertia, skirt hem maintaining natural coverage. And at the highest point in the air, pause to complete the outfit change, with the four elements of the tail frame appearing at the top of the video, finally freezing and pausing on frame 13, and holding for 0.2 seconds.
+  The entire sequence completes only one jump, with continuous actions and natural joint and gravity movements. Facial expression changes must be subtle: slight confusion → touching forehead hair while thinking → turning head to focus → squatting and jumping.
+  Negative constraints:
+  Do not maintain a blank expression from start to finish, do not change clothing or change outfit prematurely, do not have excess limb, finger, clothing clipping or exposure of undergarments. Do not repeat jumps, float prematurely or land early. Do not include text, watermarks, phone frames or top accessory bars. Do not include melodic background music.

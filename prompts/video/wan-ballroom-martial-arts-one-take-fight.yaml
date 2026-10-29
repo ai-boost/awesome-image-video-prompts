@@ -1,0 +1,41 @@
+id: wan-ballroom-martial-arts-one-take-fight
+title:
+  en: Woman in pink cardigan fights assassin in ballroom
+  zh: 粉色开衫女子在宴会厅与刺客搏斗
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- one-take
+- timed-beats
+- action-choreography
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2096103896553001298
+  credit: Zara
+  likes: 167
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+video: https://x.com/ZaraIrahh/status/2096103896553001298
+notes:
+  en: The action is split into timed beats, each with its own camera move, and a style block asks for one continuous take. Concrete physical cues such as glass breaking, debris and motion blur carry the realism.
+  zh: 动作按时间码分成多段，每段配一个镜头运动，并用风格段要求一镜到底。碎玻璃、飞溅碎屑和动态模糊等具体物理细节支撑真实感。
+prompt: |
+  A single continuous 20-second cinematic long take set inside a lavish luxury hotel ballroom at night. Massive floor-to-ceiling windows reveal a neon city skyline, elegant chandeliers hang overhead, polished black marble floors reflect the lights, overturned tables and scattered glass create a dangerous environment. The scene feels glamorous and sophisticated, but suddenly erupts into an extremely intense, fast-paced hand-to-hand fight.
+
+  [0:00–0:03] Medium tracking shot. A sophisticated woman with sharp green eyes, bold dark brows, and deep red lips walks calmly through the ballroom. She wears an adorable feminine outfit: a fitted pastel-pink cardigan, white pleated mini skirt, delicate ribbon at the collar, white ankle socks, and elegant Mary Jane shoes. She looks completely composed and graceful. Without warning, a large muscular assassin in a dark tactical outfit charges toward her from behind.
+
+  [0:03–0:06] She instantly turns and blocks his first punch. He throws a rapid combination of heavy strikes. She narrowly dodges each one, ducking, twisting and stepping around him with precise martial-arts movement. Camera circles tightly around them, creating intense kinetic energy. He grabs her arm and attempts to throw her — she reverses the movement and slams him hard onto a marble table.
+
+  [0:06–0:09] Before he can recover, he violently sweeps her legs. She hits the floor, rolls underneath a punch, springs back to her feet and immediately launches a brutal counterattack. Rapid punches, elbows, knee strikes, blocks and evasive movements. Her cute skirt and cardigan move naturally with every movement. Realistic weight, momentum and body mechanics.
+
+  [0:09–0:12] The assassin grabs her and drives her backward through a decorative glass partition. Camera follows through the impact in one fluid movement. Glass explodes around them. She lands, rolls across the marble floor and immediately rises. Her expression becomes cold and determined. The assassin charges again.
+
+  [0:12–0:16] EXTREMELY INTENSE FIGHT SEQUENCE. Continuous rapid choreography with no pause: she parries a punch, strikes his ribs, ducks under a hook, counters with a spinning kick, blocks a heavy strike, grabs his arm and uses his momentum to throw him across the room. He crashes into a wooden table. He immediately gets back up and rushes her. She uses the environment, stepping onto a fallen chair and launching herself into a powerful flying strike. Camera rapidly tracks, whips around and crashes close during every major impact. Realistic motion blur, powerful sound-implied impacts, debris flying through the air.
+
+  [0:16–0:18] The assassin attempts one final desperate attack. She catches his arm, pivots with perfect timing and executes a devastating Judo-style throw, sending him crashing onto the marble floor. The impact sends loose glass fragments sliding across the reflective surface. She remains standing, breathing heavily but composed.
+
+  [0:18–0:20] Extreme close-up. Her sharp green eyes lock onto the defeated attacker. A tiny strand of hair falls across her face. She calmly fixes her pink cardigan, straightens her pleated skirt and adjusts her ribbon as if nothing happened. She turns and walks away gracefully through the ruined ballroom while city lights shimmer behind her. Camera slowly pushes toward the shattered glass and fades to black.
+
+  STYLE: Photorealistic, ultra-detailed 4K cinematic action film, extremely intense hand-to-hand combat, sophisticated feminine aesthetic contrasted with brutal choreography, realistic martial-arts technique, physically accurate body mechanics, realistic impacts and momentum, natural cloth and hair movement, cinematic motion blur, dynamic handheld camera, continuous uninterrupted camera movement, rapid tracking shots, whip pans, dramatic close-ups, shallow depth of field, realistic glass destruction, practical lighting, warm chandelier light mixed with cool blue city light, glossy reflections, high contrast, premium Hollywood action cinematography, relentless pacing, no cuts, one continuous shot.

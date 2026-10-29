@@ -1,0 +1,117 @@
+id: h3-nova-x1-lens-luxury-commercial
+title:
+  en: NOVA X1 lens on glossy pedestal with blue light
+  zh: NOVA X1 镜头置于镜面底座，蓝光流动
+model: MiniMax H3
+mode: image-to-video
+category: commercial
+tags:
+- product-commercial
+- reference-image
+- macro
+- luxury
+source:
+  name: '@AmControo on X'
+  url: https://x.com/AmControo/status/2085366255540637965
+  credit: Fathela Esq
+  likes: 129
+  captured: '2026-10-29'
+  posted: '2026-08-06'
+video: https://x.com/AmControo/status/2085366255540637965
+notes:
+  en: Uploading the product photo as the reference and asking for it to be used exactly as provided locks the design. A five-scene list where each beat pairs one camera move with one line of on screen text gives the model a clear shot by shot structure.
+  zh: 上传产品图作为参考并要求严格按原图使用，锁定外观设计。分五个场景逐条列出，每段配一个镜头运动和一行屏幕文字，让模型按镜头顺序生成。
+prompt: |
+  Use the uploaded reference image exactly as provided.
+
+  Create a 15-second ultra-realistic luxury technology commercial.
+
+  Maintain perfect consistency for the lens body, engraved details, focus ring, aperture blades, reflections, glass elements, lighting, shadows, and metallic textures throughout the entire video.
+
+  Style: premium technology advertisement, ultra-realistic product photography, cinematic lighting, realistic reflections, dramatic shadows, macro photography, luxury commercial style, photorealistic rendering.
+
+  The on-screen text should appear in a clean, modern, minimalist font.
+
+  ────────────────────────
+
+  SCENE 1
+
+  The NOVA X1 lens rests on a glossy black pedestal.
+
+  Blue light slowly travels across the metal body and the front glass element.
+
+  The camera performs a slow orbital movement around the lens.
+
+  Tiny dust particles float through the air.
+
+  On-screen text:
+
+  NOVA X1
+
+  CRAFTED FOR CREATORS
+
+  ────────────────────────
+
+  SCENE 2
+
+  The camera moves closer.
+
+  The focus ring rotates slowly.
+
+  The aperture blades gradually open and close.
+
+  Reflections move naturally across the glass surface.
+
+  On-screen text:
+
+  PRECISION ENGINEERED
+
+  ────────────────────────
+
+  SCENE 3
+
+  The lens rises into the air.
+
+  Internal glass elements, metallic rings, screws, sensors, and aperture blades separate naturally into an exploded-view animation.
+
+  Blue energy pulses move through the structure.
+
+  The camera circles around the floating components.
+
+  On-screen text:
+
+  UNMATCHED CLARITY
+
+  ────────────────────────
+
+  SCENE 4
+
+  All components slowly return to their original positions.
+
+  The aperture blades rotate smoothly and lock into place.
+
+  Blue light radiates outward from the centre of the lens.
+
+  The camera performs a close-up orbital movement around the front element.
+
+  On-screen text:
+
+  BUILT FOR THE EXTRAORDINARY
+
+  ────────────────────────
+
+  SCENE 5
+
+  The lens settles gently onto the pedestal.
+
+  Studio lights illuminate the metal body and the glass surface.
+
+  The camera slowly zooms toward the front element.
+
+  End with an ultra-realistic hero shot.
+
+  On-screen text:
+
+  NOVA X1
+
+  SEE BEYOND

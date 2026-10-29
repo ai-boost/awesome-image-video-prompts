@@ -1,0 +1,42 @@
+id: h3-hair-serum-ugc-bedroom-ad
+title:
+  en: Smiling woman shows hair serum bottle in bedroom
+  zh: 微笑女子在卧室自拍展示生发精华
+model: MiniMax H3
+mode: reference-to-video
+category: commercial
+tags:
+- ugc
+- product-ad
+- beauty
+- hair-care
+source:
+  name: '@SyntheSarah on X'
+  url: https://x.com/SyntheSarah/status/2084567967652843620
+  credit: Sarah
+  likes: 177
+  captured: '2026-10-29'
+  posted: '2026-08-04'
+video: https://x.com/SyntheSarah/status/2084567967652843620
+notes:
+  en: Four timed scenes with inline dialogue and a UGC style block keep the phone-selfie look consistent across cuts. Attaching the product photo as a reference holds the bottle label and dropper shape steady.
+  zh: 按时间划分四个镜头并写入台词，加上 UGC 风格说明，让各镜头保持手机自拍质感。附上产品图作为参考，使瓶身标签和滴管形状在画面中保持稳定。
+prompt: |
+  Create a 15-second authentic UGC-style hair growth serum ad using the provided product image as the exact product reference.
+
+  SCENE 1 — 0–3s
+  A young woman films herself in a bright bedroom using a smartphone front camera. Natural lighting, handheld movement, casual appearance. She looks at the camera and says:
+  “I’ve been trying this hair growth serum lately…”
+
+  SCENE 2 — 3–7s
+  Cut to a close handheld shot of the woman holding the serum bottle. She removes the dropper, applies a few drops directly to her scalp, and gently massages it in. Keep the movement natural and slightly imperfect like real UGC content.
+
+  SCENE 3 — 7–11s
+  Mirror selfie shot. She runs her fingers through her hair, showing healthy-looking, fuller hair while casually talking to the camera:
+  “And honestly, I love how easy it is to add to my routine.”
+
+  SCENE 4 — 11–15s
+  Close-up product shot on her bathroom counter. She picks up the bottle and smiles toward the camera. End with natural on-screen text:
+  “Simple hair care. Every day.”
+
+  Style: authentic TikTok/Reels UGC, smartphone camera, realistic skin texture, natural expressions, subtle handheld motion, imperfect framing, casual home environment, soft daylight, realistic audio, no cinematic commercial look, no excessive beauty filters. Preserve the exact product packaging, label, bottle shape, and branding from the reference image.

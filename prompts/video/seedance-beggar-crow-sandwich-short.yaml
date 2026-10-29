@@ -1,0 +1,41 @@
+id: seedance-beggar-crow-sandwich-short
+title:
+  en: Stylized beggar sits by stone wall with plate
+  zh: 风格化乞丐坐在石墙边的捐款盘旁
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- storyboard
+- continuity
+- audio-cues
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2084900750690279501
+  credit: Kōda
+  likes: 243
+  captured: '2026-10-29'
+  posted: '2026-08-05'
+video: https://x.com/aimikoda/status/2084900750690279501
+notes:
+  en: A timed shot list with explicit continuity rules for props, clothing, light direction and travel direction keeps one character and one prop consistent across cuts. A separate audio line sets the score and sound design so the chase pacing follows the music.
+  zh: 按时间段编写的分镜表，加上道具、服装、光线方向和行进方向等明确的连续性规则，让同一角色和同一道具在多次切镜中保持一致。单独的音频段落定义配乐与音效，使追逐节奏跟随音乐走。
+prompt: |
+  Create a 30-second stylized 3D animated short with appealing rounded character design, expressive facial animation, tactile materials, warm cinematic lighting, playful physical comedy, and sincere emotion. No dialogue, subtitles, logos, or readable text.
+
+  [0–5s — The Street]
+  Frontal wide shot across a busy sidewalk: a weary, kind-eyed middle-aged beggar sits on the ground against an old stone wall, wearing the same patched coat and knitted cap throughout. A shallow donation plate rests in front of him. Pedestrians repeatedly cross between the camera and the beggar, briefly hiding him and emphasizing that he is overlooked. After one foreground passerby fills the frame, cut upward to a glossy black crow watching from a nearby tree branch, its head tilting with alert curiosity.
+  [5–12s — Kindness]
+  Return to the same frontal geography. A pedestrian takes the final bite from a half-eaten sandwich, pauses, and gently places the remaining half beside the beggar’s plate. Hold on the beggar’s grateful expression. The crow glides down and lands beside him. In a closer shared frame, the hungry beggar breaks off a piece of sandwich and offers it on his open palm. The crow cautiously takes it; their eyes meet, establishing trust.
+
+  [12–16s — The Theft]
+  A different passerby drops a paper banknote into the plate. Brief insert as it lands. The beggar’s shoulders lift, his tired face brightens, and he smiles with relief. Cut to the crow noticing this reaction. It snaps its head toward the plate, hops forward, grabs the same banknote in its beak, and launches away. The beggar freezes for one comic beat, then springs up and gives chase.
+  [16–25s — The Chase]
+  Accelerate through a clear, energetic multi-cut pursuit while preserving the crow’s route and the beggar’s direction of travel. The crow flies low between pedestrians; the beggar dodges around them, nearly collides with a fruit cart, regains balance, and keeps running. Lateral tracking through narrow streets between tall buildings; foreground bodies and street objects create fast parallax. The crow darts over the hood of a moving car at the last instant; the beggar skids past behind it as the driver brakes safely. Follow the banknote as the causal visual anchor, always secured in the crow’s beak. Alternate wide geography, close near-misses, and restrained handheld chase views. The crow finally turns into a quiet hidden courtyard and rises toward a wooden treehouse built inside a huge old tree.
+
+  [25–30s — The Gift]
+  The beggar follows up a rough wooden ladder and cautiously enters the small treehouse. Shift from frantic motion into stillness. Over his shoulder, reveal shelves and nests filled with many glittering found treasures: coins, paper money, rings, necklaces, brooches, watches, and polished trinkets. Warm golden shafts of light illuminate the collection. The beggar’s amazement slowly becomes an emotional smile as he realizes the crow deliberately led him here. The crow places the stolen banknote neatly on the treasure pile, turns toward him, and gives a mischievous, affectionate smile. End on a gentle two-shot of the unlikely friends beside the glowing treasure, with the crow nudging one small golden ring toward the beggar.
+  Keep exactly one beggar, one crow, one sandwich, one donation plate, and the same stolen banknote throughout. Preserve clothing, character proportions, prop ownership, daylight direction, travel direction, and treehouse layout. Use expressive but believable body weight, cloth movement, wingbeats, landings, foot contact, traffic motion, and object interactions.
+
+  Audio: lively city ambience, footsteps, cloth and paper rustle, soft crow calls, wingbeats, comic percussion during the theft, rapidly building orchestral rhythm through the chase, then warm strings and delicate piano for the final reveal.

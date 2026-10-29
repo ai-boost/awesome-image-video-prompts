@@ -1,0 +1,25 @@
+id: h3-woman-burning-cargo-corridor-fight
+title:
+  en: Woman fights through burning cargo ship corridor
+  zh: 女战士穿过燃烧货舱走廊格斗
+model: MiniMax H3
+mode: text-to-video
+category: action
+tags:
+- fight-choreography
+- handheld
+- tracking-shot
+- lora
+source:
+  name: '@Sogni_Protocol on X'
+  url: https://x.com/Sogni_Protocol/status/2097952332315050154
+  credit: Sogni.ai
+  likes: 40
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+video: https://x.com/Sogni_Protocol/status/2097952332315050154
+notes:
+  en: The prompt lists the action as ordered beats inside one continuous handheld tracking shot, so the model has a clear sequence to follow. A spoken line gates the door opening, which ties the ending to the dialogue and keeps the timing readable.
+  zh: 提示词把动作按顺序写成多个节拍，并放进一个连续手持跟拍镜头里，让模型有清楚的时间线可循。一句台词决定门何时打开，把结尾和对白连在一起，节奏也更易读。
+prompt: |
+  Live-action, cinematic, 16:9, 85mm, shallow depth of field, realistic grounded fight choreography. A woman in her late twenties, short dark hair, grey tactical jacket, steel baton, runs down a burning cargo-ship corridor in one continuous handheld tracking shot. First guard swings a rifle butt, she takes it on the shoulder, breaks his forearm with the baton and shoves him into the wall. Second guard with a knife, she deflects the wrist and drives his head into her knee. Third guard raises a pistol in front of a sealed bulkhead door; she throws the baton into his shin, slaps the gun away, slams him into the door frame and pins him with her forearm across his throat. Tight two-shot, she says "Open it." Only then does he hit the keypad; the door grinds open and white light floods the frame.

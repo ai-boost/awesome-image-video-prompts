@@ -1,0 +1,25 @@
+id: h3-ugc-skincare-serum-bathroom
+title:
+  en: Young woman showing serum bottle in bathroom
+  zh: 年轻女子在浴室展示精华瓶
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- ugc
+- skincare
+- beauty
+- talking-head
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2083011066800242986
+  credit: Zara
+  likes: 158
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/ZaraIrahh/status/2083011066800242986
+notes:
+  en: The prompt frames the shot as a handheld smartphone UGC clip with one speaker facing the camera, a simple layout the model handles well. Naming soft morning light, a casual room, and skin that is not overly retouched keeps the face natural instead of glossy.
+  zh: 提示词把画面定义为手持手机拍摄的 UGC 素材，单人正对镜头说话，构图简单，模型处理稳定。明确写出柔和晨光、居家浴室和不过度修饰的皮肤质感，让人物更自然，不会显得过度光滑。
+prompt: |
+  UGC-style skincare video featuring a realistic young woman speaking directly to the camera in front of a bathroom mirror while holding a premium facial serum bottle. She smiles naturally, talks about her skincare routine, and demonstrates applying the serum to her face. Authentic, conversational presentation with genuine facial expressions and hand gestures, natural morning light, casual home bathroom setting, clean skincare aesthetic, healthy glowing skin, minimal makeup, smartphone-shot look, candid lifestyle beauty content, soft depth of field, luxury beauty brand feel, vertical 9:16, social media ad quality, highly realistic natural skin texture, not overly retouched.

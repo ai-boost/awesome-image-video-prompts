@@ -1,0 +1,153 @@
+id: wan-towel-turban-kitchen-cooking-vlog
+title:
+  en: Woman with towel turban cooking chicken in night kitchen
+  zh: 头戴毛巾的女子在夜间厨房煎鸡胸肉
+model: Wan 3.0
+mode: reference-to-video
+category: vlog
+tags:
+- vlog
+- handheld
+- jump-cut
+- cooking
+source:
+  name: '@mightyking on X'
+  url: https://x.com/mightyking/status/2092560921113547253
+  credit: Stav Zilbershtein
+  likes: 242
+  captured: '2026-10-29'
+  posted: '2026-08-26'
+video: https://x.com/mightyking/status/2092560921113547253
+notes:
+  en: Mixes handheld selfie shots with fixed external angles joined by jump cuts, so the camera never appears on screen. Continuity rules lock the towel, outfit and cooking order, and physical details such as lens fog and oil spatter are spelled out.
+  zh: 将手持自拍镜头与固定外部机位用跳切衔接，镜头本身不出现在画面中。通过持续性规则固定毛巾、服装和单向烹饪顺序，并明确写出镜头起雾、油溅等物理细节。
+prompt: |
+  Handheld digital camcorder aesthetic, landscape framing.
+
+  A gorgeous fitness and food influencer films herself by hand in selfie-cam and first-person style while cooking a late-night high-protein meal after training and a shower.
+
+  Keep realistic hand shake, slightly crooked framing, autofocus briefly hunting between her face and the food, awkward zoom-ins onto the pan, occasional motion blur, brief lens steam-up over the hot pan that clears naturally, and small framing mistakes where her face or the pan edge slips out of frame.
+
+  Mix handheld selfie footage with a few fixed external shots.
+
+  Important: never show her placing, adjusting, or setting up a camera.
+
+  When switching from handheld footage to a fixed external angle, use a clean jump cut as if the camera had already been positioned before the shot began.
+
+  The camera itself must never appear on screen or in the window reflection.
+
+  LOOK:
+  Warm late-night kitchen light.
+  A single warm pendant over the counter, cool blue night visible through the window behind her, under-cabinet strip light glowing on the backsplash.
+
+  Slight camcorder softness, faint noise in the shadows, mild bloom on the pendant.
+
+  Food realism is the core of the look: real sizzle with fine oil spatter, steam rising and curling from the pan, honest food textures with sear marks and glistening surfaces, knife cuts that separate cleanly, droplets on rinsed vegetables.
+
+  Realistic skin texture, fresh-from-the-shower glow, clean dewy skin, realistic skin tones.
+
+  STYLE:
+  A realistic late-night what-I-eat-after-training vlog.
+  The tone is relaxed, hungry, funny, quietly confident, and natural, talking to the lens like a friend while her hands keep working.
+
+  She is clearly attractive and charismatic, but the video must feel like a believable self-recorded kitchen vlog, not a food commercial.
+
+  Fast clean jump cuts, strong continuity, natural body language, real kitchen sounds, sizzle, chopping, no awkward dead moments.
+
+  CHARACTER:
+  The woman in the reference image. Her face, features, skin tone, body, and clothing must match the reference image exactly in every shot — she wears exactly what she is wearing in the reference image. Do not restyle, beautify, or alter her in any way beyond the reference.
+
+  The one addition: a soft white towel wrapped around her head like a turban, as if she just stepped out of the shower. The towel stays neatly wrapped for the whole video. A few small damp strands of hair may peek out at the hairline and neck.
+
+  Minimal or no makeup, fresh clean post-shower look.
+  A small kitchen towel over one shoulder for most of the video.
+
+  SETTING:
+  A small warm real apartment kitchen at night.
+  Wooden counter with knife marks, a gas hob with one cast-iron pan, a cutting board with chicken breast and vegetables, a bowl of cooked rice, a bottle of olive oil, salt in a small dish, a fridge with magnets and photos, dishes drying on a rack, dark window over the sink reflecting the warm kitchen.
+
+  Lived-in and slightly cluttered.
+  No other people, no pets.
+
+  IMPORTANT CONTINUITY RULES:
+  The same woman from the reference image must remain fully consistent in every shot.
+
+  No face changes, no outfit changes, no body changes.
+  The head towel stays wrapped in the same position in every shot — it never unwraps, falls, changes color, or disappears.
+
+  The meal progresses in one direction only: raw ingredients, then chopping, then searing, then plating, then eating, and never reverses or regenerates.
+  Food already cooked never becomes raw again.
+
+  Hands and knife are the top priority: five fingers always, correct knife grip with curled guiding fingers, clean cuts, the knife never bends and never passes through her hand.
+
+  The pan, board, oil bottle and rice bowl stay in the same positions.
+
+  Steam and sizzle must behave with real physics.
+  No extra people, including in the dark window reflection, and the reflection never shows a camera.
+
+  No duplicated limbs.
+  No camera visible.
+  No camera setup shown.
+  Keep her matching the reference image, warm, and photogenic in every shot.
+
+  STORYBOARD:
+  30 seconds total, 10 cuts.
+
+  (~3s, arm's-length selfie)
+  She leans on the counter, towel wrapped on her head, clearly fresh from the shower after training, and grins tiredly at the lens.
+  Dialogue:
+  "Trained late. Showered. Starving. Let's cook."
+
+  (~3s, handheld pan across the counter and back to her)
+  The camera drifts across the board with raw chicken and vegetables, the pan, the rice bowl, then back up to her face.
+  Dialogue:
+  "Ten minute meal. Watch."
+
+  (~3s, fixed external medium shot from across the counter)
+  Jump cut.
+  She is already chopping a red pepper with quick confident cuts, guiding fingers curled, pieces falling evenly.
+  No camera setup shown.
+  No dialogue, just the knife on the board.
+
+  (~3s, same fixed shot)
+  She slices the chicken breast into strips, seasons it from the salt dish with a high pinch, and rubs it in with her fingertips.
+  Dialogue:
+  "Protein first. Always."
+
+  (~3s, tight handheld first-person shot over the pan)
+  Oil shimmering, she lays the chicken strips in one by one and they hit with a loud real sizzle, fine spatter, steam rising into the lens which fogs for a beat and clears.
+  No dialogue, just the sizzle.
+
+  (~3s, handheld selfie while the pan sizzles behind her)
+  She turns the camera on herself, fanning steam away from her face, laughing, one hand briefly steadying the head towel.
+  Dialogue:
+  "The smell. You have no idea."
+
+  (~3s, tight handheld close-up of the pan)
+  She flips the strips with tongs, showing deep golden sear marks, tosses in the peppers, and shakes the pan once so everything jumps and resettles.
+  Dialogue:
+  "That colour? That's the whole point."
+
+  (~3s, fixed external shot)
+  Jump cut.
+  She plates it: rice pressed from the bowl, chicken and peppers over the top, a last drizzle of olive oil in a thin ribbon, and she wipes the plate rim with the towel like a chef, then smirks at her own seriousness.
+  Dialogue:
+  "Yes, I wiped the rim. Let me live."
+
+  (~3s, tight handheld close-up)
+  First fork bite, steam still coming off it, she chews, closes her eyes for a beat and nods slowly.
+  Dialogue:
+  "Ten minutes. That's it. Ridiculous."
+
+  (~3s, arm's-length selfie ending)
+  Plate in one hand, camera in the other, she backs out of the kitchen toward the sofa, flicking the kitchen light off with her elbow.
+  Dialogue:
+  "Okay. Eating. Good night."
+
+  FINAL INSTRUCTION:
+  The result must feel like a real self-recorded late-night cooking vlog by an athlete who actually cooks, filmed right after her shower.
+
+  The highest priorities are matching the reference image exactly, correct hands and knife work at close range, one-directional cooking progression that never reverses, real sizzle, steam and food texture, the head towel staying consistently wrapped, honest warm kitchen light against the dark window, and subtle imperfection.
+
+  Keep it warm, hungry, and real.
+  Not a food commercial, not overhead recipe content, not stiff.

@@ -1,0 +1,245 @@
+id: wan-fitness-vlog-gym-workout-selfie
+title:
+  en: Gym fitness vlog woman doing a workout sequence
+  zh: 健身 Vlog 女生完成一组训练动作
+model: Wan 3.0
+mode: text-to-video
+category: vlog
+tags:
+- fitness
+- vlog
+- selfie
+- gym
+- ugc
+source:
+  name: '@ImaStudio_ai on X'
+  url: https://x.com/ImaStudio_ai/status/2092197772082504133
+  credit: Ima Studio
+  likes: 29
+  captured: '2026-10-29'
+  posted: '2026-08-25'
+video: https://x.com/ImaStudio_ai/status/2092197772082504133
+notes:
+  en: The prompt writes the clip as timed segments, each with its own camera setup such as a propped phone, a friend's handheld follow or a mirror selfie. A progressive sweat and flush schedule plus a long list of anti-filter and anti-plastic constraints keeps the face and skin consistent across the clip.
+  zh: 提示词把视频写成带时间段的分镜，每段指定机位，例如手机支架固定、朋友手持跟拍或镜子自拍。通过逐段递进的出汗和泛红设定，加上禁止美颜和塑料皮肤的约束，保证全程人物一致且质感真实。
+prompt: |
+  Generate a 30-second, 9:16 vertical, ultra-realistic smartphone-shot fitness Vlog featuring a beautiful Western woman. The overall feel should be like a beautiful, stylish young Western fitness blogger casually documenting her daily workout with an iPhone, realistic, natural, relaxed, sophisticated, and full of everyday life. Not a professional fitness advertisement, not a sports brand promotional video, not cinematic photography, and do not use overly polished commercial lighting. The footage should look like a high-quality personal fitness Vlog genuinely posted on TikTok / Instagram Reels.
+
+  【Character Setting】
+  Throughout the entire video, strictly maintain the same young adult white woman, approximately 23–27 years old, very beautiful but with a realistic human appearance. White female facial features, naturally long light brown hair with a slightly golden tone, tied into a voluminous natural high ponytail, with a few messy flyaways gradually appearing during the workout. Light-colored eyes, beautiful natural eyebrows, refined nose bridge, naturally full lips, smooth and sophisticated facial structure. Overall, she should look like an elegant, timelessly attractive Western beauty, not an exaggerated influencer face, and not a plastic-looking AI beauty.
+
+  The woman has a tall, balanced, healthy, toned physique, with natural muscle definition developed through long-term fitness, a tight waist and abdomen, and attractive shoulder, neck, and leg lines, but do not exaggerate bodybuilding muscles or create extreme waist-to-hip proportions that do not conform to human anatomy.
+
+  The character must retain realistic skin texture throughout: clearly visible tiny pores, skin texture, fine facial hair, slight unevenness in skin tone, and a small amount of natural imperfections. No skin smoothing and no beauty filters. Makeup is extremely light, natural, sophisticated clean girl makeup.
+
+  Because of the gym temperature and sustained exercise, as the workout progresses, her cheeks and the tip of her nose gradually develop a natural light pink flush, like the healthy warmth caused by real exercise, not blush, and do not make her face excessively red. Tiny realistic beads of sweat gradually appear on her forehead, nose tip, temples, neck, and collarbones, with some flyaway strands of hair becoming slightly stuck to the sides of her face from sweat.
+
+  No headphones, no over-ear headphones, no in-ear earphones, no hat, and no sunglasses at any point.
+
+  Wear a sophisticated minimalist fitness outfit: clean white fitted athletic tank top or sports bra top + black high-waisted athletic shorts + white mid-calf athletic socks + simple white training shoes. No obvious brand logos on the clothing. Use realistic athletic fabric, with visible stretch texture, seams, natural wrinkles, and subtle changes from sweat after exercise. Keep the outfit consistent throughout.
+
+  【0–4s｜Entering the Gym】
+  Realistic iPhone front-camera selfie video.
+
+  The woman has just walked into a bright, modern, spacious, upscale gym. She holds the phone in one hand for a selfie, naturally carrying a black gym bag over her shoulder, while holding a black water bottle in the other hand.
+
+  As she walks, she looks toward the phone camera and gives a natural, beautiful slight smile. Do not deliberately pose; it should feel like she has just opened her phone and casually started recording.
+
+  The phone has slight realistic movement from walking, and the woman is occasionally not perfectly centered in the frame. Large windows, workout benches, dumbbell racks, and real gym equipment can be seen in the background.
+
+  She naturally looks at the camera and says:
+  “Quick workout before I start my day.”
+
+  The delivery should be relaxed and casual, like a real Vlogger speaking, with no advertising voice-over feel.
+
+  【4–7s｜Pre-Workout Preparation】
+  Natural hard cut.
+
+  The woman casually props the phone against a workout bench or piece of gym equipment, creating a slightly imperfect stationary phone angle.
+
+  She stands in front of a mirror and reties her high ponytail, raising both hands to adjust her hair, with her beautiful natural face visible through the mirror.
+
+  She then casually rolls her shoulders, moves her arms and legs, lightly stretches her body, and bends down to tighten her shoelaces.
+
+  Do not look at the camera and pose; all movements should feel like natural preparation before a real workout.
+
+  【7–12s｜Dumbbell Romanian Deadlift】
+  Cut to the feeling of a friend casually filming with a phone.
+
+  The woman holds two black dumbbells of a reasonable weight and performs Romanian deadlifts.
+
+  Use a normal smartphone medium shot or full-body composition, naturally filmed from a front-side angle. The movement must follow realistic human biomechanics: back stable, knees naturally bent, hips moving backward, then standing up through the strength of the legs and core.
+
+  Do not deliberately film her buttocks or chest; focus on the complete exercise movement, overall body proportions, and natural sense of strength.
+
+  The phone camera has slight handheld movement and occasionally refocuses automatically. The clothing stretches and wrinkles naturally with her movements.
+
+  After completing the final repetition, she naturally sets the dumbbells down, stands up, takes a deep breath, and uses her hand to brush a strand of hair away from the side of her face.
+
+  At this point, her cheeks begin to show a very subtle natural pink flush.
+
+  【12–16s｜Dumbbell Squats】
+  Quick natural cut.
+
+  The woman holds the dumbbells in front of her body and performs squats.
+
+  The phone films the complete movement from normal human height, without an exaggerated low angle.
+
+  She trains seriously and does not constantly look at the camera. The descent, brief pause, and rise are natural and fluid, with realistic activation of the legs, arms, and core visible.
+
+  During the final two repetitions, she is clearly beginning to feel tired, with heavier breathing.
+
+  After completing the final repetition, she stands up, clearly exhales, and gives a slight smile.
+
+  Her cheeks are slightly more flushed than before, and a small amount of fine sweat begins to appear on her forehead.
+
+  【16–20s｜Lat Pulldown】
+  Cut to the lat pulldown machine.
+
+  The woman sits on the machine and performs a set of lat pulldowns.
+
+  The phone is positioned approximately 45 degrees from the side-back or side-front of the subject, with a friend lightly holding the phone while filming.
+
+  She grips the bar with both hands, pulls it steadily downward, then slowly returns it to the top. Her shoulders, back, and arm muscles naturally tighten with the movement, but the muscles should not be exaggerated.
+
+  The final repetition is clearly more difficult.
+
+  After finishing, she releases the machine, leans back in the seat and catches her breath for two seconds, then turns toward the phone camera and gives a very natural, beautiful smile that looks slightly tired.
+
+  She softly says:
+  “That was way harder than it looked.”
+
+  Then she gives a small laugh.
+
+  【20–23s｜Rest and Drink Water】
+  The phone is positioned close to the subject for a very realistic workout-break close-up.
+
+  The woman sits at the edge of a workout bench, gently wipes the sweat from her forehead, side of her face, and neck with a white towel, then picks up the black water bottle and takes several consecutive sips of water.
+
+  This shot should focus on her beautiful but realistic post-workout state.
+
+  Because of exercise and body heat, her cheeks and nose tip have a very natural light pink flush, like healthy post-workout color rather than makeup blush.
+
+  Very tiny realistic beads of sweat can be seen on her forehead, nose tip, temples, shoulders, and collarbones.
+
+  A few light brown flyaway strands are slightly damp from sweat and stick to her forehead and the side of her face.
+
+  The phone is relatively close to her face, clearly showing pores, skin texture, a small amount of freckles or very subtle natural imperfections.
+
+  Do not smooth the skin.
+
+  Do not use beauty filters.
+
+  After drinking, she looks toward the camera, slightly raises an eyebrow, then gives a relaxed, natural smile.
+
+  【23–27s｜Dumbbell Lunges】
+  Cut to a bright training area near large floor-to-ceiling windows.
+
+  Natural daylight enters through the windows.
+
+  The woman holds two dumbbells and performs alternating lunges.
+
+  A friend uses a phone to lightly follow her from approximately waist-to-chest height, keeping her full movement in frame.
+
+  During the final repetitions, she is clearly somewhat fatigued, breathing faster, with her cheeks naturally more flushed, but her movements remain stable.
+
+  After finishing, she sets the dumbbells down, places both hands on her knees, and catches her breath for two seconds.
+
+  Then she raises her head toward the camera, her beautiful face naturally flushed from exercise, and smiles while lightly shaking her head.
+
+  Do not act or perform for the camera.
+
+  【27–30s｜Post-Workout Mirror Selfie】
+  Finally, cut to a realistic gym mirror selfie.
+
+  The woman stands in front of a large mirror, holding the phone in one hand and the black water bottle in the other, with the gym bag over her shoulder.
+
+  Her post-workout state must remain realistically continuous.
+
+  Her high ponytail is now slightly messy, with several flyaway strands around the sides of her face, her cheeks and nose tip naturally flushed, and tiny beads of sweat on her forehead and collarbones, with a healthy natural post-workout glow to her skin.
+
+  Do not suddenly restore a perfect makeup look.
+
+  She looks at herself through the phone in the mirror and gives a relaxed, beautiful smile.
+
+  Then she naturally says:
+  “Done. Best way to start the day.”
+
+  After saying it, she gives a small laugh and picks up her gym bag, preparing to leave.
+
+  The phone naturally lowers with her movement, and the video ends.
+
+  【Filming Quality—Extremely Important】
+  The entire video must look like it was genuinely shot on a real iPhone, not like a cinema camera simulating a smartphone aesthetic.
+
+  Real smartphone front and rear camera quality.
+  Real smartphone wide-angle perspective.
+  Slight handheld movement.
+  Slight motion blur.
+  Realistic autofocus.
+  Natural automatic exposure changes.
+  Some shots with the phone placed stationary.
+  Some shots filmed casually by a friend.
+  Occasionally allow imperfect framing.
+  Not every shot should look like a professional photograph.
+  Do not use gimbal-smooth camera movement.
+  Do not use excessive shallow depth of field.
+  Do not use cinematic background blur.
+  Do not use professional commercial lighting.
+
+  The gym should be bright, airy, modern, upscale but realistic, primarily featuring black, gray, white, and natural wood tones, with large windows providing real natural daylight.
+
+  Image colors must be clean and natural.
+
+  No yellow filter.
+  No orange filter.
+  No dark or gloomy image.
+  No teal-and-orange cinematic color grading.
+  No excessive saturation.
+  Keep skin tones realistic and natural.
+
+  Editing should follow the authentic TikTok / Instagram Reels fitness Vlog rhythm, primarily using natural hard cuts and slight Jump Cuts. Preserve realistic everyday details such as picking up dumbbells, putting dumbbells down, catching her breath, wiping sweat, drinking water, adjusting her hair, and so on.
+
+  Include natural gym ambience: slight dumbbell clanking, machine sounds, shoe friction against the floor, breathing, drinking water sounds, and softly blurred distant gym ambience.
+
+  Background music should be upbeat, rhythmic, sophisticated but not overly intense Western Workout Lifestyle music, with the music volume lower than the woman's speech and the real environmental sounds.
+
+  【Character Consistency—Highest Priority】
+  The same beautiful white woman must be strictly maintained throughout the entire 30 seconds.
+  Same face.
+  Same facial features.
+  Same light brown hair with a slightly golden tone.
+  Same high ponytail.
+  Same white athletic top.
+  Same black high-waisted athletic shorts.
+  Same body proportions.
+  Same gym environment.
+
+  As the workout progresses, her condition must change naturally:
+  Clean, natural skin at the beginning → lightly sweating after exercise → cheeks gradually becoming slightly flushed → finally showing realistic post-workout sweat, healthy redness, and slight messiness.
+
+  NO HEADPHONES.
+  NO EARPHONES.
+  NO TEXT.
+  NO SUBTITLES.
+  NO CAPTIONS.
+  NO LOGO.
+  NO WATERMARK.
+  NO BEAUTY FILTER.
+  NO PLASTIC SKIN.
+  NO AIRBRUSHED SKIN.
+  NO PERFECT AI FACE.
+  NO HEAVY MAKEUP.
+  NO EXCESSIVE BLUSH.
+  NO COMMERCIAL FITNESS AD LOOK.
+  NO CINEMATIC CAMERA LOOK.
+  NO EXTREME SHALLOW DEPTH OF FIELD.
+  NO EXCESSIVE SLOW MOTION.
+  NO SEXUALIZED CAMERA ANGLES.
+  NO EXAGGERATED BODY PROPORTIONS.
+  NO EXTREME HOURGLASS BODY.
+  NO UNNATURAL MUSCLES.
+  NO DISTORTED HANDS.
+  NO EXTRA FINGERS.
+  NO EXTRA LIMBS.
+  NO DUPLICATED LIMBS.

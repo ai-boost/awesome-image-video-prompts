@@ -1,0 +1,553 @@
+id: wan-fallen-sun-swordswoman-eclipse-battle
+title:
+  en: Swordswoman battles giant knight above floating city
+  zh: 剑士在漂浮城市上空与巨型骑士交战
+model: Wan 3.0
+mode: text-to-video
+category: anime
+tags:
+- anime
+- swordswoman
+- sky-battle
+- multi-beat
+source:
+  name: '@Artedeingenio on X'
+  url: https://x.com/Artedeingenio/status/2092563535901372877
+  credit: OscarAI
+  likes: 61
+  captured: '2026-10-29'
+  posted: '2026-08-26'
+video: https://x.com/Artedeingenio/status/2092563535901372877
+notes:
+  en: A fixed character block (hair, crimson scarf, sword, outfit) is repeated, and each 5 second beat names one physical action, camera move and sound cue, so the clip keeps a continuous escalating structure. Anime style is set with sakuga, pencil frame and impact frame terms rather than generic quality words.
+  zh: 提示词用固定的角色设定块（发型、红围巾、长剑、服装）保持人物一致，并把每个5秒段落拆成一个物理动作、镜头运动和声音提示，使整段有连续递进的结构。动漫风格靠原画动作、铅笔稿帧、冲击帧等作画术语来设定，而不是笼统的画质词。
+prompt: |
+  30-SECOND EPIC ANIME ACTION SEQUENCE - "THE FALLEN SUN"
+
+  Original high-energy anime battle sequence.
+
+  A lone swordswoman faces a colossal celestial warrior above a city being destroyed by an impossible solar eclipse.
+
+  The entire 30 seconds must feel like ONE continuous escalating battle.
+
+  No reference images.
+
+  CHARACTER CONTINUITY - CRITICAL:
+
+  MAIN HERO:
+
+  Young female warrior.
+  Long wild black hair.
+  Sharp determined eyes.
+  Black sleeveless combat outfit.
+  Long torn crimson scarf.
+  Black armored boots.
+  One elegant slightly curved silver katana.
+
+  Keep exactly the same face, hairstyle, costume, body proportions, scarf and sword throughout.
+
+  Her CRIMSON SCARF is the main visual identifier.
+
+  ENEMY:
+
+  A gigantic humanoid celestial knight approximately 40 meters tall.
+
+  Black cracked armor.
+  Glowing golden fractures across the body.
+  Featureless black helmet.
+  Enormous burning golden sword.
+
+  Keep its design consistent throughout.
+
+  VISUAL STYLE:
+
+  Premium hand-drawn 2D anime.
+  Explosive sakuga animation.
+  Detailed painted backgrounds.
+  Sharp expressive linework.
+  Extreme perspective.
+  Dynamic smears.
+  Hand-drawn debris.
+  Stylized impact frames.
+  Intense speed lines.
+  Beautiful cinematic lighting.
+
+  Visual inspiration from ambitious theatrical anime action sequences.
+
+  No photorealism.
+  No 3D appearance.
+  No dialogue.
+  No subtitles.
+  No text.
+  No logos.
+
+  0–5 SECONDS - THE FALL
+
+  BLACK SCREEN.
+
+  A heartbeat.
+
+  Suddenly-
+
+  the heroine FALLS THROUGH THE CLOUDS at enormous speed.
+
+  Extreme close-up on her face.
+
+  Hair and crimson scarf violently whipping upward.
+
+  Camera rotates around her.
+
+  Below her:
+
+  AN ENTIRE CITY IS FLOATING UPSIDE DOWN IN THE SKY.
+
+  Buildings, bridges and enormous pieces of earth drift around a black solar eclipse.
+
+  Then-
+
+  something gigantic emerges through the clouds behind her.
+
+  The CELESTIAL KNIGHT.
+
+  It swings its enormous burning sword.
+
+  She twists in midair.
+
+  The blade misses her by centimeters.
+
+  The shockwave CUTS THE CLOUDS IN HALF.
+
+  She draws her katana.
+
+  CLANG.
+
+  One tiny sword blocks the colossal blade.
+
+  WHITE IMPACT FRAME.
+
+  5–10 SECONDS - SKY BATTLE
+
+  The impact launches her backward across the sky.
+
+  She crashes through the wall of a floating skyscraper-
+
+  but NEVER stops moving.
+
+  Camera follows her THROUGH the building.
+
+  Desks, glass, papers and concrete explode around her.
+
+  She plants one foot against an interior wall-
+
+  SPRINTS horizontally across it-
+
+  then launches herself through another window.
+
+  The celestial knight attacks again.
+
+  She lands ON ITS SWORD.
+
+  Extreme low-angle shot.
+
+  She RUNS ALONG THE GIANT BLADE toward the enemy.
+
+  Golden fire explodes beneath every footstep.
+
+  The giant rotates the weapon.
+
+  She jumps.
+
+  Three enormous chunks of floating city pass beneath her.
+
+  She uses them like stepping stones.
+
+  STEP.
+
+  STEP.
+
+  STEP.
+
+  Then launches directly toward the giant's face.
+
+  10–15 SECONDS - COUNTERATTACK
+
+  Extreme close-up.
+
+  Her eye.
+
+  Golden light reflected inside it.
+
+  She swings.
+
+  The katana leaves a razor-thin RED ARC across the frame.
+
+  The giant blocks with its armored forearm.
+
+  BOOM.
+
+  A circular shockwave expands for kilometers.
+
+  Every cloud around them instantly disappears.
+
+  Complete blue sky.
+
+  For half a second—
+
+  TOTAL SILENCE.
+
+  Then the armor cracks.
+
+  Golden energy erupts outward.
+
+  The explosion throws her downward.
+
+  She falls toward the inverted city.
+
+  Camera dives after her.
+
+  She rotates-
+
+  lands FEET-FIRST against the vertical side of a skyscraper-
+
+  and begins RUNNING DOWN THE BUILDING.
+
+  The celestial knight falls after her.
+
+  Both accelerate toward the city.
+
+  15–20 SECONDS - THE CITY CHASE
+
+  Insane high-speed vertical chase.
+
+  Camera races beside the heroine.
+
+  She runs down the skyscraper while gravity appears completely broken.
+
+  The giant destroys buildings behind her with every strike.
+
+  One enormous blade swing approaches.
+
+  She jumps sideways.
+
+  The sword slices through THREE SKYSCRAPERS.
+
+  Buildings begin collapsing upward toward the eclipse.
+
+  She leaps across the falling debris.
+
+  Wall run.
+
+  Slide.
+
+  Jump.
+
+  Sword deflection.
+
+  MID-AIR SPIN.
+
+  Every movement connects naturally into the next.
+
+  Suddenly the giant punches toward her.
+
+  She runs DIRECTLY TOWARD THE FIST.
+
+  At the final instant-
+
+  she plants one foot on its knuckle.
+
+  Everything enters EXTREME SLOW MOTION.
+
+  Her body compresses.
+
+  Her eyes lock onto the eclipse.
+
+  Then-
+
+  she pushes off.
+
+  20–25 SECONDS - BREAKING THE SKY
+
+  She launches upward like a missile.
+
+  SONIC BOOM.
+
+  The crimson scarf becomes an enormous red streak through the sky.
+
+  Camera follows directly behind her.
+
+  The celestial knight turns upward.
+
+  It raises its burning sword with both hands.
+
+  The eclipse begins feeding energy into the blade.
+
+  The sword becomes impossibly bright.
+
+  The heroine raises her tiny katana.
+
+  Two attacks charge simultaneously.
+
+  One enormous GOLDEN.
+
+  One razor-thin RED.
+
+  They attack.
+
+  COLLISION.
+
+  For one instant-
+
+  the entire animation becomes a rough black-and-white pencil drawing.
+
+  Then-
+
+  RED IMPACT FRAME.
+
+  GOLD IMPACT FRAME.
+
+  BLACK.
+
+  WHITE.
+
+  The shockwave bends the horizon.
+
+  The inverted city begins rotating around them.
+
+  Clouds form a gigantic circular vortex.
+
+  She screams silently with effort.
+
+  Her katana begins pushing through the enormous golden blade.
+
+  A crack appears.
+
+  Then another.
+
+  Then hundreds.
+
+  The giant sword SHATTERS.
+
+  25–30 SECONDS - THE SUN CUT
+
+  She flies directly through the explosion.
+
+  Burning fragments pass inches from camera.
+
+  The giant remains motionless.
+
+  She passes beside its head.
+
+  One elegant sword movement.
+
+  Nothing happens.
+
+  She continues upward.
+
+  Toward the eclipse.
+
+  Everything becomes silent.
+
+  She slowly sheathes the katana.
+
+  CLICK.
+
+  A thin RED LINE appears across the celestial knight.
+
+  The line continues
+
+  through the clouds
+
+  through the floating city
+
+  and finally
+
+  ACROSS THE BLACK ECLIPSE ITSELF.
+
+  One second of complete stillness.
+
+  Then
+
+  THE ECLIPSE SPLITS OPEN.
+
+  Brilliant sunlight explodes across the entire world.
+
+  The celestial knight fractures into thousands of glowing golden fragments.
+
+  The floating city slowly begins returning to normal gravity.
+
+  The heroine falls peacefully through the golden sky.
+
+  Her crimson scarf floats above her.
+
+  Camera dives toward her.
+
+  She opens her eyes.
+
+  Tiny confident smile.
+
+  Suddenly
+
+  one gigantic surviving piece of the enemy's armor falls toward her from behind.
+
+  Her eyes widen.
+
+  CUT TO BLACK.
+
+  End.
+
+  ACTION LANGUAGE - CRITICAL:
+
+  Extremely ambitious sakuga-style anime choreography.
+
+  The heroine should NEVER feel weightless or randomly animated.
+
+  Every movement must have:
+
+  anticipation,
+  acceleration,
+  impact,
+  momentum,
+  follow-through.
+
+  Use environmental geometry as part of the choreography.
+
+  She should:
+
+  run across walls,
+  use falling debris as platforms,
+  land on giant weapons,
+  redirect momentum,
+  fight while falling,
+  fight while gravity changes,
+  use enemy attacks to reposition herself.
+
+  The battle should constantly move through space.
+
+  Avoid characters simply floating and exchanging attacks.
+
+  Avoid repetitive sword clashes.
+
+  Every 5-second section must introduce a new physical idea.
+
+  SCALE CONTRAST - IMPORTANT:
+
+  Constantly emphasize the absurd difference in scale.
+
+  Tiny human warrior
+  versus
+  40-meter celestial knight.
+
+  Show this through:
+
+  extreme wide shots,
+  tiny heroine silhouettes,
+  gigantic hands entering frame,
+  sword blades larger than buildings,
+  close-ups immediately followed by kilometer-wide shots.
+
+  The heroine wins through SPEED and PRECISION rather than strength.
+
+  ANIME IMPACT LANGUAGE:
+
+  Use aggressively:
+
+  extreme foreshortening,
+  perspective distortion,
+  speed lines,
+  animation smears,
+  single-frame color flashes,
+  black-and-white impact frames,
+  rough pencil frames,
+  camera shake only during massive impacts,
+  whip pans,
+  snap zooms,
+  360-degree rotations,
+  rapid dolly shots,
+  POV shots,
+  extreme close-ups,
+  massive aerial pullbacks,
+  brief complete freezes before impacts.
+
+  Alternate:
+
+  FAST → FAST → SILENCE → IMPACT.
+
+  Do not make every second equally chaotic.
+
+  Contrast makes the major attacks feel enormous.
+
+  CAMERA:
+
+  The camera behaves like another participant in the battle.
+
+  Dive beside falling characters.
+
+  Pass through destroyed buildings.
+
+  Orbit around sword clashes.
+
+  Race inches above surfaces.
+
+  Follow weapons through the air.
+
+  Transition naturally from extreme close-ups into enormous wide shots.
+
+  Whenever possible, connect shots through movement rather than conventional cuts.
+
+  The viewer should constantly understand:
+
+  where the heroine is,
+  where the enemy is,
+  what direction they are moving,
+  and what they are trying to do.
+
+  AUDIO:
+
+  No dialogue.
+  No voice-over.
+
+  Aggressive cinematic anime score.
+
+  Taiko drums.
+  Fast orchestral percussion.
+  Distorted electronic bass.
+  Massive brass.
+  Urgent strings.
+  Distant female choir.
+
+  Sword impacts:
+  sharp metallic cracks.
+
+  Giant attacks:
+  deep sub-bass shockwaves.
+
+  Destroyed buildings:
+  concrete rupture and rushing debris.
+
+  High-speed movement:
+  violent air displacement.
+
+  20–25 seconds:
+  music reaches maximum intensity.
+
+  Immediately before the final sword movement—
+
+  COMPLETE SILENCE.
+
+  Katana sheath:
+
+  CLICK.
+
+  One heartbeat.
+
+  The eclipse splits.
+
+  Enormous orchestral and choral explosion.
+
+  Final unexpected falling armor—
+
+  WHOOSH.
+
+  CUT TO BLACK.
+
+  End.

@@ -1,0 +1,41 @@
+id: wan-wuxia-karst-river-glide-timeline
+title:
+  en: Red robed wuxia heroine skims karst river
+  zh: 红衣侠女掠过喀斯特峡谷河面
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- wuxia
+- karst-canyon
+- camera-timeline
+- slow-motion
+source:
+  name: '@liluocheng13 on X'
+  url: https://x.com/liluocheng13/status/2099025919335874938
+  credit: Zidan 子丹
+  likes: 77
+  captured: '2026-10-29'
+  posted: '2026-09-13'
+video: https://x.com/liluocheng13/status/2099025919335874938
+notes:
+  en: The prompt divides the 10 seconds into timed camera beats, from a high dive to a low hero shot, an orbit and a final spin, and adds a music fade cue. Timed shots give the model a sequence to follow instead of one vague action.
+  zh: 提示词把 10 秒拆成按时间排列的镜头节拍，从高空俯冲到低角度特写、环绕，再到结尾旋转定格，并附带音乐渐弱的时间点。分秒级的镜头安排让模型按顺序执行，而不是只描述一个模糊的动作。
+prompt: |
+  Friends, I can’t stop laughing today. 😂
+
+  I took an old text-to-video prompt—generated without any reference image—and used it to test Seedance 2.5 + 2.0, Kling 3.0, and Wan 3.0.
+
+  I originally wrote this 10-second video prompt to test Happyhorse 1.0 on the very day it launched. I never expected that every version I generated today would turn out worse than the one made with Happyhorse 1.0. 😂
+
+  The prompt is attached below: Wuxia Cinematic Epic Prompt:
+  [Core Style] Epic cinematic wuxia film (Wuxia Cinematic Epic), Oriental Xianxia Fantasy Aesthetic, 8K ultra-high resolution, ultra-photorealistic details.
+  [Setting & Environment] A majestic karst canyon landscape, surrounded by mountains, with cascading waterfalls faintly visible through distant mist. A crystal-clear river surface mirrors the sky like a mirror. Volumetric lighting: dreamlike sunlight piercing through heavy clouds, casting dappled, shifting light and shadow onto the river's surface. Pink petals drift through the air.
+  [Character Description] A beautiful Wuxia heroine, dressed in a flowing red-and-white traditional robe, with an exquisite silk sash tied at her waist. Her long black hair dances wildly in the wind. Her gaze is resolute, her body light and graceful as a swallow.
+  [Key Action & Effects] The heroine is performing supreme lightness skill (Qinggong/water-gliding), skimming across the river's surface at extremely high speed. Her toes lightly tap the water's surface, and each step precisely stirs up slow-motion, gentle water splashes. The splashes scatter like pearls in the sunlight, forming an extended trail behind her as she moves. Dynamic motion blur perfectly conveys the sense of high-speed movement.
+  [Camera & Audiovisual Control – Total Duration: 10 Seconds]
+  •0–2s (High Angle Dive & Glide): The camera dives from a high angle above the canyon (drone-style dive), rapidly pushing in to track the heroine's silhouette as she speeds across the water from a distance. This showcases the grandeur of the canyon and the character's speed.
+  •2–4s (Low Angle Hero Shot): Cut to a shoulder-cam medium shot, with the camera positioned close to the water's surface for a low-angle lookup shot. Focus stays tightly on the heroine's feet and face. Close-up of the moment the splash bursts, revealing the flowing texture of her robe and her resolute expression.
+  •4–7s (Orbit & Pan): Multi-camera bullet-time orbit combined with horizontal parallax panning. The camera orbits 180 degrees around the heroine, capturing her profile and front view as she moves at high speed. Petals and water splashes swirl around her in slow motion, with shallow depth of field separating the background from the subject.
+  •8–10s (Pull-back, Spin & Freeze-frame): High frame rate/ultra slow-motion capture. The camera rapidly pulls back and zooms out. The heroine performs one final beautiful 360-degree aerial spin as a finishing move. At the moment the spin completes and her body is fully extended, the protagonist turns her head and smiles. The frame freezes on this smiling moment, with the protagonist remaining in absolute sharp focus.
+  [Sound Design Note]: Epic orchestral music combined with an ethereal flute melody. Starting from the 3rd second, the music begins a linear, smooth fade-out, reaching complete silence by the 10th second.

@@ -1,0 +1,30 @@
+id: h3-running-shoe-golden-hour-commercial
+title:
+  en: Hands tying white running shoes at golden hour
+  zh: 黄昏时分双手系上白色跑鞋
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- product-commercial
+- running-shoes
+- golden-light
+- multi-shot
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2102611185472614491
+  credit: Zyrella
+  likes: 157
+  captured: '2026-10-29'
+  posted: '2026-09-23'
+video: https://x.com/Zyrellix/status/2102611185472614491
+notes:
+  en: The prompt is split into five timed shots, each with its own action, camera move and light, which keeps a 15 second clip readable. Naming concrete product features such as the Cloudtec pods and navy heel collar gives the model details to hold the shoe consistent across cuts.
+  zh: 提示词按五个带时间码的镜头拆分，每个镜头都写明动作、机位移动和光线，让15秒的片段结构清晰。把缓震模块和深蓝色后跟等产品细节写具体，有助于鞋子在各个镜头中保持一致。
+prompt: |
+  Cinematic 15-second luxury running-shoe commercial, golden-hour photorealism, 24fps, shallow depth of field, warm sunset color grade.
+  Shot 1 (0–3s): Extreme close-up of a woman’s hands tying white On Cloud running shoes with visible Cloudtec pods on the midsole. Soft golden sunlight, wooden boardwalk texture, navy heel collar, mesh upper. Slow, tactile motion. Whispered VO: “This is how it feels.”
+  Shot 2 (3–7s): Medium-wide tracking shot of an athletic woman with dark ponytail, black tank and navy tights, running left-to-right on a wooden waterfront promenade. Background: steel arch bridge and Manhattan-style skyline at sunset, river reflecting orange and pink light. Fluid, powerful stride, slight motion blur on hair and shoes.
+  Shot 3 (7–10s): Front-on tracking shot as she runs toward camera through a long, repeating concrete arched underpass. Strong side lighting creates rhythmic stripes of light and shadow across the floor. Determined expression, ponytail swinging.
+  Shot 4 (10–13s): Tight facial close-up, golden rim light on cheekbones and hair, focused green-brown eyes, slight sheen of sweat, black tank straps visible. Subtle camera push-in.
+  Shot 5 (13–15s): Hero product shot — the same white On Cloud shoe floating and slowly rotating in mid-air against a blurred sunset city skyline. Cloudtec pods catch the light. Clean, premium, almost weightless.

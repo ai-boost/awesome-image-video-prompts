@@ -1,0 +1,25 @@
+id: h3-golden-peacock-transformation-hall
+title:
+  en: Golden peacock forms from light in grand hall
+  zh: 金色孔雀从光中成形于宏伟大厅
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- peacock
+- transformation
+- volumetric-light
+- beat-sequence
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2110962744841408937
+  credit: Noor
+  likes: 202
+  captured: '2026-10-29'
+  posted: '2026-10-16'
+video: https://x.com/noorlewisx/status/2110962744841408937
+notes:
+  en: The prompt is written as a timed sequence of beats, from the low angle opening shot and white flash through the wireframe cage, body, tail fan and head reveal to the final hero shot, so the model gets a clear order of events. It closes with a lighting and finish tag list (volumetric god rays, iridescent feathers, 8K) that locks the look.
+  zh: 提示词按时间顺序写成一连串镜头节拍：开场低机位、白光闪现、金色线框笼、身体成形、尾羽展开、头部浮现，最后是主体定格。结尾用光照与质感标签（体积光、虹彩羽毛、8K）锁定整体画面风格。
+prompt: |
+  Cinematic golden peacock transformation sequence, ultra detailed, photorealistic 3D animation. Opens on a low-angle shot of a polished wooden floor with converging lines, dramatic warm golden god rays piercing through thick dust and haze in a luxurious grand hall with tall columns. Floating metallic orbs, sparks, and particles drift in the air, some with greenish highlights. Suddenly a bright white flash of light erupts in the center. From the light, an intricate golden wireframe cage structure materializes atop two elegant golden peacock legs with ornate details. The structure rapidly transforms into a peacock’s body covered in shimmering golden scales and feathers. The bird bends and then dramatically fans out its massive tail feathers in a perfect semicircle, revealing intricate blue and teal eyespots. Close-up of the tail and neck rising with exploding golden particles and sparkles. The peacock’s head emerges with a beautiful crest, piercing blue eyes, and delicate golden patterning. Finally, the fully formed majestic golden peacock stands proudly in the center of the hall, tail fully displayed in a spectacular fan, illuminated by strong volumetric golden light rays, floating dust motes and particles, highly detailed iridescent feathers, cinematic lighting, warm golden color palette, 8K, hyper-realistic, magical and luxurious atmosphere.

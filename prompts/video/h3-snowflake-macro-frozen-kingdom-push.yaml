@@ -1,0 +1,38 @@
+id: h3-snowflake-macro-frozen-kingdom-push
+title:
+  en: Snowflake macro push becomes frozen kingdom
+  zh: 雪花微距推进变成冰封王国
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- macro
+- snowflake
+- camera-push
+- reference-images
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2088928791741481189
+  credit: LudovicCreator
+  likes: 77
+  captured: '2026-10-29'
+  posted: '2026-08-16'
+video: https://x.com/LudovicCreator/status/2088928791741481189
+notes:
+  en: Two @Image references are tied to the shot, and the prompt names the matching features (branch ridges to mountain chains, facets to frozen lakes) so the transition lands on a real visual rhyme. One continuous forward camera move with identical cool lighting keeps it reading as a single push rather than a cut.
+  zh: 用 @Image 标记两张参考图，并写明雪花的枝臂、棱面与冰湖、山脉之间的对应关系，让变形有真实的视觉呼应。全程保持同一推镜和冷蓝光线，使过渡读起来像一次连续推进而非切换。
+prompt: |
+  @Image
+   1: Push steadily toward the center of the snowflake while preserving the extreme macro realism of the crystal. Move deeper into the intricate hexagonal structure, razor-sharp ice branches, delicate crystalline facets, microscopic frost, and shimmering frozen edges. Maintain the shallow depth of field, cold blue-white illumination, subtle refraction, drifting snow particles, and sparkling highlights. As the camera advances, allow the snowflake's branching geometry, frozen ridges, and crystalline valleys to increasingly dominate the frame until the ice structure begins to resemble an immense frozen landscape viewed from above.
+
+  At the exact moment when the snowflake's branching arms, crystalline ridges, hexagonal facets, and frosted textures naturally match the mountain ranges, frozen lakes, icy valleys, and radial layout of
+  @Image
+   2, transition seamlessly into the aerial view of the frozen kingdom. Continue the same uninterrupted forward movement toward the magnificent ice citadel at the center as crystalline facets become frozen lakes, delicate frost becomes snow-covered forests, microscopic ice ridges become towering mountain chains, and the central hexagon transforms into the heart of the kingdom. Preserve the feeling that the viewer has never left the same crystalline structure—only its scale has expanded from a single snowflake to an entire frozen world.
+
+  No tearing, black frames, hard cuts, visible morphing, obvious VFX, or compositing seams. Keep the transformation completely photorealistic, elegant, and physically believable—as though the microscopic architecture of a snowflake naturally unfolds into a colossal frozen kingdom. Preserve the continuity of crystalline branches becoming mountain ridges, ice facets becoming frozen lakes, frost particles becoming drifting snowfall, and sparkling highlights becoming sunlight glinting across glaciers and ice palaces. Maintain identical cool blue lighting, atmospheric continuity, and one continuous cinematic camera push with no visible edit.
+
+  Made in
+  @Hailuo_AI
+    Minimax H3
+
+  What two images would you rhyme?

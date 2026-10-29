@@ -1,0 +1,47 @@
+id: seedance-lightning-swordsman-plaza-battle
+title:
+  en: Lightning-charged swordsman fights soldiers in stormy plaza
+  zh: 雷光剑客在风暴广场中与士兵战斗
+model: Seedance 2.5
+mode: image-to-video
+category: action
+tags:
+- lightning
+- martial-arts
+- timed-beats
+- dutch-angle
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2089393496176427368
+  credit: simeon-sanai
+  likes: 115
+  captured: '2026-10-29'
+  posted: '2026-08-17'
+video: https://x.com/Naiknelofar788/status/2089393496176427368
+notes:
+  en: A reference image locks the character's identity, and the prompt states the one-arm rule with a negative list to prevent drift. Five timed beats pace the fight, while a fixed 40 degree Dutch angle and whip-pans keep the camera kinetic.
+  zh: 参考图锁定角色外观，提示词明确单臂设定并列出负面约束以防止形象漂移。五个时间段分别描述动作，固定的 40 度荷兰角与甩镜头让镜头保持动感。
+prompt: |
+  30 seconds | 16:9 | No music
+
+  Ultra-photorealistic live-action, AAA Hollywood action style with premium VFX. One continuous dynamic shot, permanent 40° Dutch angle, low tracking, fast pursuit, whip-pans and quick orbiting. Real human performance, not CGI.
+
+  IMAGE 1: Preserve exact identity, face, hair, clothing and proportions. Image1 has ONLY ONE ARM — RIGHT ARM ONLY. No left arm, hand, elbow, prosthetic or phantom limb. Sword is always controlled one-handed with the right hand.
+
+  SETTING: Massive medieval royal plaza, castle walls, stormy sky, damaged market structures and dozens of armored soldiers surrounding Image1.
+
+  00–06s: Soldiers attack. Image1 narrowly dodges a sword, parries one-handed, vaults over an attacker and kicks another into a shield wall, then bursts forward with a black afterimage and blue-white lightning trail.
+
+  06–12s: Image1 runs across fallen shields, bends a spear with his foot and cuts it with a lightning-charged slash. He rolls, rises and immediately fights three soldiers using fast parries, kicks and a reverse sword strike.
+
+  12–18s: A dense spear formation attacks. Image1 slides underneath, cuts several spear shafts and spins into a powerful heel kick. Lightning jumps between broken weapons as soldiers are thrown backward.
+
+  18–24s: Surrounded by enemies, Image1 throws the sword upward, then uses rapid Taijutsu—low sweep, shoulder strike, high kick and jumping knee. Brief black afterimages emphasize his physical burst speed. No teleportation.
+
+  24–30s: Image1 catches the falling sword perfectly with his right hand. Electricity surges across the blade. A powerful one-handed slash and spinning kick create a compressed-air shockwave, blasting soldiers outward through dust and debris. Camera pulls back as Image1 keeps advancing and another wave of soldiers enters at 30 seconds. No ending pose.
+
+  VFX: Restrained blue-white lightning, sparks, afterimages, shockwaves, dust and debris. Keep everything physically integrated with realistic lighting, shadows and reflections while Image1 remains fully authentic live-action.
+
+  AUDIO: Wind, armor, sword impacts, electrical crackling, debris and battle cries. No dialogue or music.
+
+  NEGATIVE: Left arm, two-handed grip, teleportation, clones, CGI human, digital double, cartoon look, gameplay camera, broken anatomy, face drift, costume drift, subtitles, logos, watermark.

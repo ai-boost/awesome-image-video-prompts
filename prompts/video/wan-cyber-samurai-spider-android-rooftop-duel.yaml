@@ -1,0 +1,39 @@
+id: wan-cyber-samurai-spider-android-rooftop-duel
+title:
+  en: Cyber samurai duels spider arm android on rooftop
+  zh: 赛博武士在雨夜屋顶与蜘蛛臂机器人对决
+model: Wan 3.0
+mode: image-to-video
+category: anime
+tags:
+- anime-action
+- mecha
+- rain
+- neon-city
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2092589909450060170
+  credit: Gilbert Odera | Your AI Plug
+  likes: 102
+  captured: '2026-10-29'
+  posted: '2026-08-26'
+video: https://x.com/yourPlugAI/status/2092589909450060170
+notes:
+  en: Splitting the fight into four timed beats gives the model a clear action order from a single first frame. Naming the design lock, rain physics and neon lighting keeps the characters and setting stable through the spark effects.
+  zh: 把打斗拆成四个定时段落，让模型从单张首帧中得到清晰的动作顺序。明确写出造型锁定、雨水物理和霓虹光照，使角色与场景在火花特效中保持稳定。
+prompt: |
+  Generate a 15-second 16:9 horizontal hyper-aggressive cybernetic action anime video from the provided first frame.
+
+  Characters: Ryujin (cyber-Oni samurai, plasma katana, red overdrive state) and Valkyrie-X (spider-blade combat android). Maintain 100% costume and mecha design consistency.
+
+  Style & Quality: High-budget sci-fi anime combat, fast-paced mecha-blade choreography, high-voltage spark effects, rain physics, dramatic execution framing.
+
+  Time-Coded Action:
+
+  0.0s – 4.0s: Valkyrie-X attacks with a 4-blade flurry; Ryujin parries with his plasma katana but takes shoulder damage.
+
+  4.0s – 8.0s: Ryujin activates Overdrive Mode (red lightning from mask), snaps Valkyrie-X’s spider arm, and slashes off her secondary blades in a plasma explosion.
+
+  8.0s – 12.0s: Ryujin thrusts his superheated blade straight through her central power core, short-circuiting her entire chassis.
+
+  12.0s – 15.0s: Ryujin kicks her dead body off his blade onto the rain-soaked rooftop, posing under glowing Tokyo neon lights.

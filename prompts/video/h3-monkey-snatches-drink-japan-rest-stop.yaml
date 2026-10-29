@@ -1,0 +1,54 @@
+id: h3-monkey-snatches-drink-japan-rest-stop
+title:
+  en: Monkey snatches drink from woman at Japanese rest stop
+  zh: 猴子在日本休息站抢走女子的饮料
+model: MiniMax H3
+mode: reference-to-video
+category: animal
+tags:
+- monkey
+- handheld
+- japan
+- humor
+source:
+  name: '@hey_am_cherry on X'
+  url: https://x.com/hey_am_cherry/status/2110591304795410797
+  credit: Cherry
+  likes: 103
+  captured: '2026-10-29'
+  posted: '2026-10-15'
+video: https://x.com/hey_am_cherry/status/2110591304795410797
+notes:
+  en: Handheld iPhone framing and restrained reaction beats keep the footage feeling like a real travel clip, so the monkey carries the humor. A reference image locks the woman's identity, while the timed sections pin each prop (bottle, cap, tote, snack) across the 15 second sequence.
+  zh: 手持 iPhone 竖拍的画面和克制的反应描述让片段像真实的旅行记录，喜剧效果全部来自猴子的意外动作。参考图只锁定人物身份，分段时间轴则固定瓶子、瓶盖、帆布包和零食等道具，使 15 秒内的动作前后连贯。
+prompt: |
+  Create ultra-realistic 15-second vertical iPhone footage during a sunny summer afternoon at a quiet Japanese mountain village rest stop. Use the provided reference image ONLY for the main woman's identity. Keep her facial features, hairstyle, skin tone, outfit, and overall appearance consistent throughout.
+
+  The footage should look like a friend casually recording a real travel moment. Natural handheld smartphone movement, imperfect framing, realistic autofocus, authentic daylight, and spontaneous reactions. The scene must feel unscripted and believable, not cinematic.
+
+  0–3 seconds:
+  The woman stands beside a Japanese vending machine, opening a cold plastic drink. A Japanese macaque monkey sits on a wooden railing nearby, watching her. She notices the monkey briefly, then looks back at her drink.
+
+  3–6 seconds:
+  Without warning, the monkey quickly jumps down, snatches the bottle from her hand, and darts onto the nearby railing. The woman instinctively reaches for the bottle, then freezes with a genuinely surprised expression. The camera quickly turns to follow the monkey.
+
+  6–9 seconds:
+  The monkey sits on the railing and investigates the bottle with both hands, trying to open it. The woman takes two cautious steps closer, watching with a confused, disbelieving look. She remains composed, with only a slight natural smile.
+
+  9–12 seconds:
+  The monkey drops the bottle cap onto the ground. The woman bends slightly to look at it, then glances back at the monkey. Suddenly, a second macaque approaches from behind and reaches into her open tote bag, pulling out a wrapped snack.
+
+  12–15 seconds:
+  The woman immediately turns at the sound of her bag rustling and discovers the second monkey escaping with her snack. She quickly pulls her bag toward herself, looks from the monkey to her now-empty hand, and gives the camera a silent, incredulous look. The person filming quickly pans toward the escaping monkey as it climbs onto the railing with the snack. End abruptly during the action.
+
+  CHARACTER REACTIONS:
+  The woman must behave like a normal person experiencing an unexpected situation. Use subtle surprise, brief pauses, raised eyebrows, and natural body movements. No hysterical laughter, no continuous smiling, no exaggerated shock, no repeated pointing, and no laughing without a clear reason. Her reactions should be restrained and realistic. The unexpected monkey behavior provides the humor.
+
+  AUDIO:
+  Natural outdoor ambience, distant birds, vending machine hum, monkey chatter, bottle rattling, footsteps, and the sound of the snack wrapper. The woman may make one brief surprised gasp but must not laugh continuously. No background music, no narration, and no scripted dialogue.
+
+  VISUAL CONSISTENCY:
+  Both monkeys must remain anatomically realistic. Keep the same bottle, cap, tote bag, and snack consistent throughout. Every action must happen in a clear sequence with believable contact and movement. Keep the woman's face recognizable and visible during key reactions.
+
+  AVOID:
+  Hysterical laughter, forced smiles, cartoon behavior, exaggerated acting, cinematic camera movements, slow motion, dramatic visual effects, duplicated monkeys, extra limbs, morphing objects, teleportation, distorted hands, changing character identity, and artificial-looking skin.

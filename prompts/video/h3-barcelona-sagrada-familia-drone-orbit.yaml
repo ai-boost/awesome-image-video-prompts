@@ -1,0 +1,29 @@
+id: h3-barcelona-sagrada-familia-drone-orbit
+title:
+  en: Drone orbit around Sagrada Familia at golden hour
+  zh: 黄金时刻绕圣家堂的无人机环绕飞行
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- drone
+- orbit
+- reference-image
+- barcelona
+- music
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2083056488122380671
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 129
+  captured: '2026-10-29'
+  posted: '2026-07-31'
+video: https://x.com/Diplomeme/status/2083056488122380671
+notes:
+  en: 'A reference image with a hidden red flight path gives the model the route, and the prompt names each beat in order: low skim, fast approach, orbit, climb, pull back. Ending with the audio layers (cello, percussion, choir) and the rule that the red line must not appear keeps the score and the picture in step.'
+  zh: 参考图上画一条红色飞行路线，模型据此确定路线和地标位置；提示词按顺序写出每个动作（低空掠过、加速接近、环绕、爬升、拉远），并要求画面中不出现红线。结尾写明配乐层次（大提琴、打击乐、合唱），让音乐的高潮与环绕完成的时刻同步。
+prompt: |
+  Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-path guide. The drone starts very low above the Barcelona cityscape, almost skimming above the foreground rooftops and streets, facing La Sagrada Família. It accelerates quickly forward over the urban landscape, following the drawn path from the foreground toward the cathedral while maintaining a very low altitude. The drone then performs a dramatic climbing curve as La Sagrada Família fills the frame, executes a close cinematic orbit around the cathedral’s iconic spires, and after the orbit, pulls back while gaining altitude before tilting and opening toward the Barcelona skyline, Mediterranean Sea, Eixample grid, surrounding historic rooftops, golden-hour reflections, distant coastline, and glowing Barcelona atmosphere.
+
+  The red drawn line must not appear in the video; it is only a hidden flight-path reference. Add powerful emotional cinematic music: deep cello melody, dramatic percussion rhythm, orchestral strings, subtle choir texture, epic rising percussion, and a grand heroic crescendo as the drone completes its orbit around La Sagrada Família and reaches the final panoramic reveal. No text, no subtitles, no logos, no graphic overlays.
+  @Image1

@@ -1,0 +1,36 @@
+id: wan-lens-one-camera-commercial
+title:
+  en: Fictional LENS ONE camera on dark studio surface
+  zh: 虚构相机 LENS ONE 置于深色台面
+model: Wan 3.0
+mode: text-to-video
+category: commercial
+tags:
+- product-ad
+- camera
+- macro
+- golden-hour
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2102976373606510839
+  credit: Synthia
+  likes: 67
+  captured: '2026-10-29'
+  posted: '2026-09-24'
+video: https://x.com/AIwithSynthia/status/2102976373606510839
+notes:
+  en: The prompt splits the 30 second spot into timed beats, each with its own shot and camera move, so the model gets a clear shot order. Repeating the same character and camera design lines in every beat keeps the person and product consistent across shots.
+  zh: 提示词把30秒广告拆成带时间段的分镜，每段都写明镜头和运镜，模型能按清晰的顺序生成。每个分镜都重复人物和相机外观的描述，让人物与产品在各镜头间保持一致。
+prompt: |
+  Create a 30-second, ultra-realistic cinematic product commercial for a fictional premium mirrorless digital camera called LENS ONE. Make it feel like a high-end global camera campaign with cinematic storytelling, beautiful photography, premium product cinematography and emotional everyday moments.
+  Feature a stylish young woman in her early 20s with long dark hair, natural makeup and a sophisticated outfit: cream fitted blazer, white top, high-waisted tailored trousers, minimal gold jewelry and elegant sneakers. Keep her face, hairstyle, body proportions and outfit consistent throughout.
+  0–4s: Open with a dramatic macro close-up of the LENS ONE resting on a premium dark surface. Slowly glide around the camera, revealing the textured grip, metallic body, lens barrel, control dial, shutter button and detailed lens glass. Show the aperture opening, then the woman naturally picking up the camera.
+  4–10s: She walks through a beautiful city street during golden-hour light and notices a child chasing soap bubbles. She raises the camera, looks through the viewfinder and presses the shutter. The exact moment briefly freezes into a beautiful cinematic photograph. Show the captured image clearly on the camera's rear display.
+  10–17s: She continues walking and photographs an elderly couple holding hands, a street musician and a dog running through sunlight. Include cinematic close-ups of her eye against the viewfinder, her finger pressing the shutter, the focus ring turning and the camera lens locking focus.
+  17–23s: Create a fast premium montage of the camera capturing different moments: a cyclist passing through golden light, rain droplets falling, friends laughing at a café and sunlight reflecting on wet pavement. Between shots, show detailed macro product shots of the lens, controls, shutter mechanism and rear display.
+  23–27s: She sits at an outdoor café and reviews the photographs on the camera screen. The images appear as a beautiful visual story of her day. She pauses on one photograph, smiles and looks back toward the street.
+  27–30s: She places the camera carefully on the table. The background becomes beautifully blurred as the camera becomes the sole focus. Slowly push toward the product, showing the lens glass catching warm sunset light and revealing the premium body details. End on a clean hero shot of the entire camera against the glowing city skyline.
+  Voiceover:
+  “Some moments happen once. Make them unforgettable.”
+  Ultra-realistic luxury camera advertising, cinematic bokeh, realistic metal and rubber textures, detailed lens reflections, natural skin and fabric textures, smooth camera movement, subtle film grain, realistic motion blur and authentic shutter sounds.
+  Keep the camera design, lens, buttons, dials, proportions and materials identical in every shot. No camera morphing, changing lens design, distorted hands, extra fingers, identity drift, duplicated people, unrealistic reflections, floating camera, excessive VFX, CGI appearance, subtitles, captions, random text, logos or watermark.

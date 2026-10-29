@@ -1,0 +1,31 @@
+id: h3-greenhouse-flower-opens-outside-in
+title:
+  en: Greenhouse bud opens petal by petal under lamp
+  zh: 温室中一朵花在灯下逐圈绽放
+model: MiniMax H3
+mode: text-to-video
+category: nature
+tags:
+- flower-bloom
+- locked-camera
+- greenhouse
+- rain
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/2101008623555997920
+  credit: Glenn Williams
+  likes: 42
+  captured: '2026-10-29'
+  posted: '2026-09-18'
+video: https://x.com/GlennHasABeard/status/2101008623555997920
+notes:
+  en: Restricting motion to one subject with a clear order (outside in, one ring at a time) gives the model a single readable change. A locked camera at pot height keeps the rest of the greenhouse still.
+  zh: 只让一个主体运动，并给出明确顺序（由外向内、一次一圈），模型就只有一处可读的变化。机位锁定在花盆高度，其余温室保持静止。
+prompt: |
+  Minimax H3, open weights, generated locally. One lamp, one flower, rain on the glass.
+
+  Prompt: "the petals open one ring at a time from the outside in"
+
+  Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Topaz to 4K.
+
+  "No other plant moves" is the sentence that kept the greenhouse asleep. One thing opening is a story. Everything opening is a screensaver.

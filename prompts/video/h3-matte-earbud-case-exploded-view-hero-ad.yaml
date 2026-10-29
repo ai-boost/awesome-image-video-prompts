@@ -1,0 +1,46 @@
+id: h3-matte-earbud-case-exploded-view-hero-ad
+title:
+  en: Matte earbud case on dark stone, brushed aluminum
+  zh: 哑光石墨耳机充电盒置于暗色石台与拉丝铝之间
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- product-ad
+- macro
+- exploded-view
+- sound-design
+- typography
+source:
+  name: '@Artedeingenio on X'
+  url: https://x.com/Artedeingenio/status/2097262898368114973
+  credit: OscarAI
+  likes: 30
+  captured: '2026-10-29'
+  posted: '2026-09-08'
+video: https://x.com/Artedeingenio/status/2097262898368114973
+notes:
+  en: A timed shot list with a camera move for each beat gives the model a clear structure to follow. Sound is tied to each visible action, and the slogan is locked to exact quoted text in the final shot so it stays readable.
+  zh: 按秒分段的镜头清单，每段都写明机位运动，让模型有清晰的结构可循。声音与每个可见动作一一对应，结尾镜头把口号锁定为引号内的原文，保证清晰可读。
+prompt: |
+  Create one coherent 15-second 16:9 product-hero commercial. The earbuds and charging case are the absolute protagonists. Sophisticated industrial-design advertising, premium consumer-electronics macro photography, dark architectural minimalism, dark stone and brushed aluminum, soft narrow morning beam, realistic matte and metallic materials, controlled reflections, precise exploded-view animation, restrained transparent technical visualization, elegant motion design. Camera grammar: slow axial macro push-in, precise mechanical reveal, smooth travel through aligned layers, brief reconstruction acceleration, then calm deceleration into a stable final key visual. Primary motion mechanism is structural unfolding; use rounded-earbud shape matching for the sound-wave transition. No generic horizontal light sweep, scanline reveal, lens-flare wipe, or light-band writing. Product highlights are surface-only and never reveal or write typography.
+
+  Sound is H3-native only, with no separate BGM and no narration: restrained low-frequency pulse, precise magnetic clicks, quiet hinge, crisp component ticks, subtle air movement during the wave visualization, and a clean resolving tonal lock. Sync sound to visible actions; do not duplicate tracks.
+
+  Typography Lock: exact user-confirmed English text “SMALLER. CLEARER. EVERYWHERE.” Render only this phrase, exactly, in H3. Compact uppercase geometric sans, medium-bold, restrained tracking, clean white-to-soft-silver material on a transparent architectural plane. It appears only in the final shot in protected upper-left/upper-center negative space beside, never over, the product. Structural plane reveal brings in the complete phrase after the earbuds settle; hold it fully readable and stable through the final pull-back. No extra words, translation, scrambling, omission, subtitle box, or random text.
+
+  0.0–2.2s: Closed case on dark stone beside brushed aluminum. Macro three-quarter close-up, case large and unmistakable. Slow axial push-in with gentle controlled rotation. Morning beam reveals matte graphite shell, subtle indicator light, and USB-C edge. End centered with hinge axis aligned. Quiet pulse and restrained mechanism sound. No typography.
+
+  2.2–4.2s: Same case and light. Tight macro on hinge and open interior. Lid opens with precise mechanical movement; both earbuds rise slightly from magnetic slots and stop in a controlled hover. Camera tilts upward and advances through the hinge axis. Magnetic interior catches a soft reflection. Hinge click and two magnetic release clicks. The opening gap becomes the portal to the exploded view. No typography.
+
+  4.2–7.6s: Dark architectural void using the same stone/aluminum language. Medium macro with enough depth to read every layer. Camera travels smoothly forward and slightly upward through the aligned product axis. Separate into floating, perfectly aligned layers: outer shell, miniature drivers, battery cells, microphones, circuit boards, magnets, and acoustic chambers. Keep realistic scale and material continuity. Add sparse transparent dimensional lines and abstract non-readable engineering marks. Brief hold at maximum separation. Layered precise ticks and restrained electromagnetic hum. No typography.
+
+  7.6–9.2s: Hold the aligned component field, then accelerate smoothly through the centerline. Components rapidly converge and reconstruct both earbuds in mid-air; magnets seat precisely, with no missing or extra parts. Reflections resolve into continuous matte-and-metal surfaces. Accelerating clicks resolve into two clean seating sounds. The rounded earbud silhouette match-cuts to portability. No typography.
+
+  9.2–11.2s: On dark stone, the compact case slides beside a smartphone, keys, and slim wallet as neutral scale references. Track laterally, then pivot and push toward one earbud as it lifts from the case toward camera. Case remains dominant and readable. Smartphone has only a subtle generic charging indicator, no readable UI. Soft slide, magnetic lift click, close-pass air movement. No typography.
+
+  11.2–13.0s: Foreground earbud remains the anchor while the desk environment fades into abstract architectural planes. Controlled micro push-in, then hold. A soft restrained sound-wave visualization expands outward in layered translucent arcs, suggesting immersive audio and active noise isolation without text or performance claims; waves never obscure the earbud. Airy expansion and tonal resonance contract into the oval contour of the open case. No typography.
+
+  13.0–15.0s: Both earbuds settle beside the open matte graphite case on the original dark stone; smartphone nearby with a subtle generic charging indicator and no readable UI. Premium three-quarter packshot, product cluster dominant, clean negative space upper-left/upper-center. Slow cinematic pull-back with slight rise, then lock. Morning beam and controlled reflections return; magnetic interior and USB-C port remain naturally visible. Two soft settling clicks and tonal lock. As the product settles, a transparent architectural plane structurally unfolds in the negative space and reveals exactly “SMALLER. CLEARER. EVERYWHERE.” in stable native H3 typography; fully readable before the pull-back ends and held through the final frame.
+
+  Final requirements: exactly 15 seconds, 16:9, one coherent concept advertisement, strict product consistency, aligned exploded layers, no altered proportions or materials, no extra readable text, no invented logo or claim, no scanline/light-sweep typography, exact slogan stable and legible, product absolute protagonist, native sound only, final two seconds a calm complete hero lock-up.

@@ -1,0 +1,45 @@
+id: seedance-london-grapple-ledge-sunset
+title:
+  en: Woman sits on window ledge above London at sunset
+  zh: 女子坐在窗台上俯瞰伦敦日落
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- london
+- grappling
+- tracking-shot
+- timed-beats
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2086059029995102532
+  credit: Jack
+  likes: 128
+  captured: '2026-10-29'
+  posted: '2026-08-08'
+video: https://x.com/j_smeaton99/status/2086059029995102532
+notes:
+  en: Timed beats split a 30 second sequence into one continuous outside tracking shot. Explicit camera rules plus continuity locks for outfit, devices and environment keep the character consistent through each swing.
+  zh: 按时间段把30秒镜头拆成一个持续的外部跟拍长镜头。明确的镜头规则，以及对服装、装置和环境的连续性锁定，让人物在每次摆荡中保持一致。
+prompt: |
+  30-sec cinematic London grappling sequence. Ultra-photorealistic live-action Hollywood cinematography, realistic physics, natural lighting, detailed London environments, cinematic depth of field, 35mm/50mm look, 4K.
+
+  A beautiful young adult White American woman, mid-20s, long blonde hair, athletic build, natural face. She is an ordinary woman using experimental wrist-mounted grappling devices, not a superhero. No mask, cape, emblem or superhero costume. She wears the same fitted black athletic crop top with subtle piping, black high-waisted athletic shorts, white sneakers and minimal jewelry throughout.
+
+  Camera: One continuous third-person tracking shot. Camera always remains outside her, never first-person, handheld or smartphone. Keep her clearly visible and maintain smooth physically motivated movement. No cuts or perspective changes.
+
+  0:00–0:05: Golden-hour London apartment overlooking the skyline. She sits safely on the balcony ledge, looks toward camera and says, “Okay… let’s see if this works.” Camera slowly moves toward her.
+
+  0:05–0:09: She steps over the railing and descends naturally. Camera follows backward in a wide full-body shot.
+
+  0:09–0:13: Her right wrist device activates with a subtle orange light. Cable shoots to a believable rooftop anchor, visibly attaches and becomes taut, converting her fall into a realistic swing.
+
+  0:13–0:18: Camera tracks beside her as she swings between buildings. River Thames and London skyline below, with buses, black cabs and traffic. She releases the cable and activates her left wrist.
+
+  0:18–0:22: Second cable attaches to a rooftop. She swings again as the camera smoothly arcs around her while keeping her full body visible.
+
+  0:22–0:26: She lands naturally on a rooftop, runs three steps, reaches the edge, pauses briefly, then leaps toward the next building.
+
+  0:26–0:30: She fires a final cable and makes a huge smooth swing above London. Camera pulls backward and upward, revealing Tower Bridge, London Eye, The Shard, Westminster, Thames and the city at sunset. She releases and briefly glides forward before becoming a small silhouette. Fade to black.
+
+  Maintain exact character, outfit, devices and environment continuity. Realistic gravity, momentum, cable tension, wind, hair and clothing physics. No teleportation, impossible movement, distorted hands, duplicated limbs, warped buildings, disappearing cables, changing clothes, excessive VFX or background morphing. Keep it subtle.

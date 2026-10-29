@@ -1,0 +1,45 @@
+id: wan-rainy-street-fight-scene-night
+title:
+  en: Two men face off on a rainy street
+  zh: 两名男子在雨夜街道对峙
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- fight-scene
+- night-rain
+- handheld-camera
+- timed-shots
+source:
+  name: '@navi_Ai2 on X'
+  url: https://x.com/navi_Ai2/status/2099137778386633073
+  credit: 𝐍𝐚𝐯𝐞𝐞 𝐀𝐢
+  likes: 173
+  captured: '2026-10-29'
+  posted: '2026-09-13'
+video: https://x.com/navi_Ai2/status/2099137778386633073
+notes:
+  en: Timed beats (0 to 3 seconds, 3 to 6 seconds and so on) give the model a shot by shot plan, and a separate audio line names the rain, footsteps and breathing. The closing realism block bans superhero physics and requires a consistent cast, which keeps the fight grounded.
+  zh: 用时间分段的分镜(0到3秒、3到6秒等)逐段安排镜头，音频单独一行写明雨声、脚步和呼吸。结尾的写实约束段落(不要超级英雄式物理、角色前后保持一致)让打斗动作更接近真实拍摄。
+prompt: |
+  Create a 15-second ultra-realistic cinematic fight scene, shot like a high-budget action movie. The scene takes place at night in a narrow urban street after light rain. The wet asphalt reflects streetlights and neon signs, creating realistic cinematic reflections. Two adult male fighters face each other, both wearing slightly dirty, realistic everyday clothing.
+
+  0–3 seconds: Start with a wide establishing shot. Both fighters stand several feet apart, breathing heavily and staring at each other with intense expressions. Light rain falls around them. The camera slowly pushes forward with subtle handheld movement. Realistic ambient city sounds, distant traffic, footsteps, rain and heavy breathing.
+
+  3–6 seconds: One fighter suddenly moves forward and throws a realistic punch. The other fighter quickly blocks and steps backward. Use natural body mechanics, realistic weight, believable footwork and authentic reactions. Camera switches to a dynamic medium tracking shot, following the movement.
+
+  6–10 seconds: The second fighter counters with two fast punches. The first fighter dodges the first punch and blocks the second. Show realistic impact reactions without exaggerated superhero movements. Clothing and hair react naturally to the motion. Use a brief slow-motion moment during the dodge, then immediately return to real-time speed.
+
+  10–13 seconds: The fighters exchange a short sequence of close-range defensive movements and strikes. Keep the choreography grounded and realistic, with natural balance, fatigue and imperfect movements. Camera moves around them in a smooth handheld cinematic arc.
+
+  13–15 seconds: One fighter lands a strong final body-level strike, causing the other fighter to stumble backward and fall against a wall. End with a close-up of the standing fighter breathing heavily while rain continues falling. The camera slowly pulls back as the street lights flicker in the background.
+
+  Visual style: photorealistic, cinematic movie quality, realistic human anatomy, natural skin texture, realistic facial expressions, physically accurate movement, detailed wet clothing, realistic rain droplets, atmospheric night lighting, subtle lens flare, shallow depth of field, natural motion blur, realistic shadows, high dynamic range, cinematic contrast, 35mm film look, professional action cinematography.
+
+  Camera: realistic handheld camera, smooth tracking shots, wide establishing shot, medium action shots, close-up reaction shots, natural camera shake during impacts, realistic focus pulls, cinematic depth of field.
+
+  Lighting: practical streetlights, soft neon reflections on wet pavement, realistic rim lighting, subtle volumetric atmosphere, natural shadows, no artificial glowing effects.
+
+  Audio: realistic rain, footsteps on wet asphalt, breathing, clothing movement, distant traffic, realistic impact sounds, subtle cinematic background score that builds tension.
+
+  Important: Make the entire sequence feel like real footage captured by a professional film crew, not animation or a video game. No superhero physics, no exaggerated punches, no impossible movements, no cartoon effects, no excessive camera shake, no distorted faces, no extra fingers or limbs, consistent characters throughout the entire 15 seconds.

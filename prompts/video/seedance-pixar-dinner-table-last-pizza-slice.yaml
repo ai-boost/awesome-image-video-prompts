@@ -1,0 +1,66 @@
+id: seedance-pixar-dinner-table-last-pizza-slice
+title:
+  en: Pixar style dinner table standoff over last pizza slice
+  zh: 皮克斯风格餐桌上争抢最后一块披萨
+model: Seedance 2.5
+mode: text-to-video
+category: dialogue
+tags:
+- pixar-style
+- comedy
+- dialogue
+- sound-design
+source:
+  name: '@itsshara_ai on X'
+  url: https://x.com/itsshara_ai/status/2090853973930692895
+  credit: Shara
+  likes: 112
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+video: https://x.com/itsshara_ai/status/2090853973930692895
+notes:
+  en: The prompt is a timestamped beat sheet where each block lists the visual, the dialogue with its delivery tag, and the sound cue, which gives the model clear pacing across 30 seconds. The freeze-frame and record-scratch cues tell the model where the comedic timing lands.
+  zh: 提示词按时间段分拍，每段写清画面、带语气标注的台词和音效，30 秒内的节奏因此清楚。定格和停顿音效的指示让模型知道笑点落在哪一拍。
+prompt: |
+  30 sec Script Pixar-style Animated Comedy
+
+  [0:00–0:04]
+  VISUAL: DAD (30s, tired, cardigan, coffee stain on shirt) sits at a cluttered dinner table across from his 6-year-old daughter MIA. Between them: one single last piece of pizza on a plate.
+  DAD (mock serious): "Okay. We need to talk about this pizza."
+  SFX: fork tapping plate, kitchen clock ticking.
+
+  [0:04–0:08]
+  VISUAL: Mia narrows her eyes, slowly sliding her hand toward the plate.
+  MIA (deadly serious for a 6-year-old): "It's mine. I called it in the car."
+  DAD (leaning in): "That's not a real rule."
+  SFX: chair creak, dramatic sting.
+
+  [0:08–0:12]
+  VISUAL: Both their hands shoot toward the pizza at the same time — comedic freeze-frame, hands frozen mid-air an inch from the plate.
+  DAD (strained, still frozen): "...rock paper scissors?"
+  MIA (also frozen, gritted teeth): "Best of one."
+  SFX: record-scratch stop, comedic freeze whoosh.
+
+  [0:12–0:17]
+  VISUAL: Quick rock-paper-scissors round — Dad throws rock, Mia throws paper. She gasps, delighted. He stares at his fist in betrayal.
+  MIA (triumphant): "PAPER! I WIN!"
+  DAD (defeated mutter): "I always throw rock. Why do I always throw rock."
+  SFX: paper rustle sound effect (exaggerated), triumphant kid giggle.
+
+  [0:17–0:22]
+  VISUAL: Mia reaches for the pizza — but the family DOG leaps up onto the table from nowhere and swallows the whole slice in one gulp. Frozen silence. Both stare at the dog.
+  MIA (quiet horror): "...Buddy."
+  DOG: (satisfied chewing sound, tail wag)
+  SFX: comedic gulp, table thud, silence.
+
+  [0:22–0:26]
+  VISUAL: Dad and Mia slowly turn to look at each other, both equally betrayed.
+  DAD (flat): "Nobody wins."
+  MIA (still staring at the dog, deadpan): "Buddy wins."
+  SFX: dog's contented sigh, distant ticking clock resumes.
+
+  [0:26–0:30]
+  VISUAL: Dog hops off the table and trots away happily. Dad and Mia both slump back in their chairs, sharing a tired look, then start laughing.
+  DAD (through laughter): "Next time — best of three."
+  MIA (already grinning): "Deal."
+  SFX: warm shared laughter, chair scrape, cut to silence on final laugh.

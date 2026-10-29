@@ -1,0 +1,69 @@
+id: h3-anime-swordfighter-elevator-cut-the-line-mv
+title:
+  en: Anime swordfighter in elevator with CUT THE LINE text
+  zh: 电梯里的动漫剑客与 CUT THE LINE 字样
+model: MiniMax H3
+mode: text-to-video
+category: anime
+tags:
+- anime
+- music-video
+- kinetic-typography
+- paper-collage
+source:
+  name: '@Artedeingenio on X'
+  url: https://x.com/Artedeingenio/status/2099492332944900560
+  credit: OscarAI
+  likes: 56
+  captured: '2026-10-29'
+  posted: '2026-09-14'
+video: https://x.com/Artedeingenio/status/2099492332944900560
+notes:
+  en: The palette is locked to ink black, warning red and paper white, with torn paper collage, halftone and photocopy grain adding a printed texture. A shot by shot timeline with fixed on-screen phrases, plus a locked protagonist, sword and costume, keeps the character and text consistent through hard rhythmic cuts.
+  zh: 将配色锁定为墨黑、警示红和纸白，并加入撕纸拼贴、网点与复印颗粒质感，形成印刷品般的画面。逐镜头时间线配合固定的文字、主角、武器和服装描述，并以硬切节奏保持人物与字幕前后一致。
+prompt: |
+  Create one complete 15-second, 16:9 high-energy anime music video with synchronized original music, vocals, combat sounds, visuals, and kinetic typography.
+
+  STYLE: pure 2D cel animation fused with tactile torn-paper collage. Use only ink black, warning red, and dirty paper white. Strong line art, flat shadows, halftone printing, photocopy grain, fibrous torn edges, dry ink, and brief print misregistration. Hard rhythmic cuts only—no fades or soft transitions.
+
+  CHARACTER: one consistent androgynous anime swordfighter with angular hair, narrow eyes, wrapped forearms, heavy boots, a long asymmetrical coat, and one chipped half-length broken sword. Keep the same face, body, costume, sword, and voice throughout. Enemies appear only as abstract ink-and-paper shadows.
+
+  MUSIC: original K-pop hip-hop × cyber-grunge micro-song, 128 BPM, minor key. Dry kick, metallic half-time snare, rapid controlled hi-hats, distorted metal pluck, photocopier percussion, descending 808, and sword impacts. Close neutral rap vocal expands into a melodic chant Hook. End with a sword ring, bass strike, short vocal tail, and clean stop.
+
+  LYRICS:
+
+  “Cracked steel, black seal, I carve through the night”
+
+  “Red tear, no fear, every scar turns bright”
+
+  “Hear the fault line sing”
+
+  “Break again — I rise”
+
+  “Last edge — still alive”
+
+  “Cut the line”
+
+  “Still standing”
+
+  TIMELINE:
+
+  Shot 1, 0.0–1.5s: Inside a freight elevator, the fighter walks from layered darkness, broken sword held low. A boot lands on a red paper seam as the camera pushes in. Readable paper-white text: “CUT THE LINE.” The sword tears through the letters and opens the next shot.
+
+  Shot 2, 1.5–3.2s: Low lateral tracking through concrete pillars. The fighter plants one foot, pivots from the shoulder, and sweeps the broken blade through an abstract red paper shadow. Readable black text across red posters: “NO CROWN.” The letters split with the sword arc.
+
+  Shot 3, 3.2–5.1s: The fighter runs diagonally, absorbs momentum against a wall with the forearm and shoulder, then rebounds in the opposite direction. Coat opens from the force. Text: “CUT THE LINE.” Wall contact tears the phrase; landing snaps it back together.
+
+  Shot 4, 5.1–6.7s: Extreme close-up and first still point. The fighter freezes; only pupils, breathing, and one coat edge move. The broken sword fills the foreground. On black, readable white text: “BREAK AGAIN.” A red duplicate shifts behind it during the rising Pre-hook, followed by a half-beat black frame.
+
+  Shot 5, 6.7–8.6s: Overhead view of an iron stair platform. The fighter drops from a safe low ledge, absorbs the landing through knees and hips, then rises into a diagonal guard. Red paper cracks radiate from the boot. “BREAK AGAIN” divides into three panels that fold back into one frame.
+
+  Shot 6, 8.6–10.7s: The fighter grips a railing, rotates ninety degrees, releases, and advances. The long coat sweeps across the foreground while the broken sword cuts a red paper silhouette. Readable wall text: “LAST EDGE.” The coat hides and then reveals the intact phrase.
+
+  Shot 7, 10.7–12.6s: Static rooftop shot and second still point. The fighter stands beneath a steel sign frame, blade angled down. Only breath, hair, coat hem, and wrist move. Large red text on black: “STILL STANDING.” Three torn panels briefly show the same eye, sword hand, and full silhouette without cloning the character.
+
+  Shot 8, 12.6–15.0s: The fighter surges forward and swings the broken blade upward. The sword splits the entire frame into two paper halves and cleaves a towering ink shadow, exposing dirty-white sky. The fighter completes a pivot and freezes facing camera. Huge readable text: “STILL STANDING.” Red and white print layers align on the final bass strike, then hard cut to black.
+
+  TYPOGRAPHY: ultra-bold condensed English capitals behaving like physical paper and wall print. Use only “CUT THE LINE,” “NO CROWN,” “BREAK AGAIN,” “LAST EDGE,” and “STILL STANDING.” Show each phrase clearly before tearing or shifting it. No subtitles, random letters, logos, brands, watermarks, or gibberish.
+
+  LOCKS: exactly one protagonist, one broken sword, one costume, and one voice. Preserve anatomy, hands, grip, mouth shapes, cloth physics, and spatial continuity. No repaired sword, extra people, extra weapons, glossy 3D, live action, pastel colors, excessive camera shake, or hand touching the lens. Finish decisively on the final beat and hard cut to black.

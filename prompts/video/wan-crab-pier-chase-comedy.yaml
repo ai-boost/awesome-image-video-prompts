@@ -1,0 +1,31 @@
+id: wan-crab-pier-chase-comedy
+title:
+  en: Fisherman chases giant crab across a wooden pier
+  zh: 渔夫在木质码头追赶巨蟹
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- chase
+- pier
+- comedy
+- handheld-camera
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2097936515087376606
+  credit: M-studioAi
+  likes: 112
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+video: https://x.com/Strength04_X/status/2097936515087376606
+notes:
+  en: Timed blocks of about five seconds give each shot one clear action, so the sequence reads as a continuous story. Handheld camera, 35mm lens and documentary realism wording set the shake, shallow focus and natural look.
+  zh: 按约5秒一段写分镜，每段只有一个动作，模型更容易跟住整条时间线。手持跟拍、35mm镜头和纪实写实等词决定了画面的晃动、浅景深和自然质感。
+prompt: |
+  0–5s: Wide shot of a sunny seaside fishing pier. A fisherman pulls up his fishing net and discovers a huge crab tangled inside. The crab suddenly escapes and starts running across the wooden pier.
+  5–10s: The fisherman drops the net and runs after it, trying to catch the crab before it reaches the edge of the pier.
+  10–15s: Handheld chase shot follows the crab moving sideways at surprising speed, weaving between fishing buckets, ropes, coolers, and tourists.
+  15–20s: The fisherman tries to block its path with a fishing net, but the crab quickly changes direction and races underneath a wooden bench.
+  20–25s: The fisherman crawls under the bench after it, gets tangled in his own fishing rope, falls backward, then quickly gets back up as the crab continues toward the water.
+  25–30s: The fisherman finally corners the crab near the pier edge. He reaches down carefully, but the crab suddenly grabs his fishing hat and runs away wearing it.
+  Style: ultra-realistic, cinematic action-comedy, natural seaside daylight, realistic ocean and fishing pier, lifelike crab movement, realistic human reactions, dynamic handheld chase camera, subtle camera shake, shallow depth of field, 35mm lens look, natural colors, documentary realism.

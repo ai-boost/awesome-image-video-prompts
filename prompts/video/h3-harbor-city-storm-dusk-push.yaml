@@ -1,0 +1,28 @@
+id: h3-harbor-city-storm-dusk-push
+title:
+  en: Aerial push through dense harbor city at dusk
+  zh: 黄昏时分航拍推进密集的海港城市
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- aerial
+- city
+- storm
+- dusk
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2087479235615031569
+  credit: LudovicCreator
+  likes: 83
+  captured: '2026-10-29'
+  posted: '2026-08-12'
+video: https://x.com/LudovicCreator/status/2087479235615031569
+notes:
+  en: One clear aerial push-in move, with the weather named as the light source, keeps a crowded skyline readable as one shot. Listing concrete sensory layers such as signs, scaffolding, horns and thunder gives the model specific details to anchor the mood.
+  zh: 一个清晰的航拍前推运镜，并把天气明确为光源，让拥挤的天际线保持成一个完整的镜头。列出招牌、脚手架、汽笛和雷声等具体感官细节，为模型提供可以锚定氛围的画面依据。
+prompt: |
+  Aerial push toward a dense vertical harbor city as a storm front rolls in at dusk  towers packed so tightly the streets disappear into shadowed canyons, windows lighting one by one against bruised purple clouds, scaffolding rattling around an unfinished high-rise, neon restaurant signs flickering through the wind, ferries crossing a dark jade harbor under sheets of distant rain. Air charged and humid, every sign haloed by approaching weather. Density as pressure. Horns, thunder, harbor water, a city bracing but still alive
+
+  Made  in
+  @LumaLabsAI

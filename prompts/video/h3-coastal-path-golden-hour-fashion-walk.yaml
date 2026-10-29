@@ -1,0 +1,37 @@
+id: h3-coastal-path-golden-hour-fashion-walk
+title:
+  en: Woman walks coastal path at golden hour
+  zh: 黄金时刻女子沿海岸小径漫步
+model: MiniMax H3
+mode: text-to-video
+category: cinematic
+tags:
+- fashion
+- golden-hour
+- lip-sync
+- coastline
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2096833346555023816
+  credit: Calira
+  likes: 189
+  captured: '2026-10-29'
+  posted: '2026-09-07'
+video: https://x.com/CaliraVal/status/2096833346555023816
+notes:
+  en: The prompt orders the shots as a wide establishing shot, then a tracking shot alongside the walker, then close-ups, so the camera movement is spelled out in sequence. Dialogue is quoted verbatim with a lip sync instruction, and ambient audio is listed separately with an explicit no music and no extra voices rule.
+  zh: 提示词按顺序写明镜头：先远景建立镜头，再横向跟拍，最后特写，运镜清晰可控。台词原文引出并要求口型同步，环境声单独列出，并明确不要背景音乐和其他人声。
+prompt: |
+  A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wild greenery and delicate flowers. She wears a relaxed oversized brown knit sweater with elegant ivory trousers. Behind her, crystal-blue ocean waters stretch toward a towering lush green mountain rising from the sea.
+
+  Soft golden-hour sunlight creates a warm, dreamy atmosphere. A gentle ocean breeze naturally moves her hair and sweater. Start with a wide cinematic establishing shot of the coastline, then smoothly track alongside her as she walks, transitioning into elegant close-ups of her outfit, hair, and subtle facial expressions.
+
+  Spoken Voice / Dialogue: The woman speaks naturally while walking, in a soft, calm, confident female voice. Her delivery should feel spontaneous and conversational, with realistic breathing and subtle pauses. She says:
+
+  “Sometimes, all you need is a quiet place, a little fresh air, and a moment to simply slow down and enjoy where you are.”
+
+  Her lip movements must accurately synchronize with every spoken word. Natural facial expressions, realistic mouth movement, and subtle head gestures while speaking. No exaggerated acting.
+
+  Ambient Audio: Gentle ocean waves crashing against the rocks, soft coastal wind, subtle rustling of flowers and leaves, quiet footsteps, and distant seabirds. Keep the environmental sounds natural and cinematic underneath the dialogue. No background music and no additional voices.
+
+  Photorealistic, natural skin and hair, realistic fabric movement, cinematic lighting, smooth camera movement, shallow depth of field, soft bokeh, subtle film grain, premium fashion-commercial aesthetic, atmospheric color grading, 4K cinematic quality. No text, no logos, no watermark.

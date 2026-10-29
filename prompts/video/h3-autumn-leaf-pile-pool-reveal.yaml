@@ -1,0 +1,24 @@
+id: h3-autumn-leaf-pile-pool-reveal
+title:
+  en: Woman leaps into leaf pile revealing pool
+  zh: 女子跳进落叶堆露出蓝色泳池
+model: MiniMax H3
+mode: text-to-video
+category: dialogue
+tags:
+- physical-comedy
+- autumn
+- wide-shot
+source:
+  name: '@amynys on X'
+  url: https://x.com/amynys/status/2102443755240407287
+  credit: Amy G
+  likes: 42
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+video: https://x.com/amynys/status/2102443755240407287
+notes:
+  en: Breaks the gag into ordered beats (line, step, leap, reveal) and pins the camera with a locked off wide shot, so the surprise pool reads clearly in one take. Spelling out the expression and the thumbs up gives the face and gesture concrete targets.
+  zh: 把笑话拆成有先后顺序的节拍（台词、迈步、跳入、揭晓），并用固定广角机位拍摄，让惊喜的泳池在一个长镜头里看得清楚。把表情和竖大拇指的动作写明，给脸部和手势具体的目标。
+prompt: |
+  A cheerful young adult in a cozy mustard sweater stands on a leafy suburban sidewalk beside a perfect pile of orange and red autumn leaves. They beam at the camera and announce “Happy first day of fall!” with delighted confidence, then take one proud step and leap into the pile. The leaves burst outward to reveal a tiny blue inflatable kiddie pool underneath; the person pops up from the pool wearing oversized sunglasses, gives a big thumbs-up, and grins as a few leaves drift onto their head. Warm golden afternoon light, cheerful autumn colors, playful physical comedy, expressive face, clear readable action, one continuous locked-off wide shot, crisp comic timing, natural body motion, upbeat seasonal mood, 24fps film motion with clean detail.

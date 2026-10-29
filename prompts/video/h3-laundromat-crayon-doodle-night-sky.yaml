@@ -1,0 +1,27 @@
+id: h3-laundromat-crayon-doodle-night-sky
+title:
+  en: Laundromat turns into crayon doodle night sky
+  zh: 自助洗衣房变成蜡笔涂鸦夜空
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- crayon-doodle
+- hand-drawn-overlay
+- handheld
+- transformation
+source:
+  name: '@ponyodong on X'
+  url: https://x.com/ponyodong/status/2093956013338849386
+  credit: 波妞PONYO
+  likes: 419
+  captured: '2026-10-29'
+  posted: '2026-08-30'
+video: https://x.com/ponyodong/status/2093956013338849386
+notes:
+  en: The shot is set as a 15 second 16:9 handheld phone clip over real footage, so the crayon overlay inherits the camera shake and stays locked to the scene. Each transformation is chained in order with then, giving the model a clear sequence of beats to follow.
+  zh: 将镜头设定为 15 秒 16:9 手持手机拍摄的真实画面，蜡笔线条叠加其上，因此涂鸦会跟随镜头抖动并贴合场景。各个变形按顺序依次串联，为模型提供清晰的节拍。
+prompt: |
+  15-second 16:9 landscape short film, late-night self-service laundromat, real footage overlaid with hand-drawn glowing animation of crayon-textured jittery lines, shot handheld on a phone. Fingertip trailing a strand of purple thread → purple crayon jellyfish → scurrying into the laundry rack, turning into a hand-drawn sock → hand-drawn sock bouncing and colliding with a real sock, transforming into a purple-blue meteor → sliding into the washing machine, becoming a light blue little fish → turning into a light blue little train, touching the vending machine button → becoming a clothespin robot, purple and light blue hand-drawn patterns spreading everywhere. The whole laundromat turns into a night sky doodle, the washing machine's round window morphing into a twinkling constellation window. Finally, a hand-drawn sock falls into the laundry basket.
+
+  Sources: MiniMax H3 release

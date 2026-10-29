@@ -1,0 +1,31 @@
+id: wan-floating-cathedral-angel-battle
+title:
+  en: Warrior faces fallen angel in floating cathedral
+  zh: 战士与堕落天使在漂浮大教堂对决
+model: Wan 3.0
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- dark-fantasy
+- angel-battle
+- floating-ruins
+- storm
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2093639918031446064
+  credit: LudovicCreator
+  likes: 51
+  captured: '2026-10-29'
+  posted: '2026-08-29'
+video: https://x.com/LudovicCreator/status/2093639918031446064
+notes:
+  en: 'Timed beats (a moment at 2 seconds, then a final shot) pace the clip in stages, and the camera moves are spelled out: a wide circling arc, then a low dive as the sword hits the floor. The closing style line sets the lighting and VFX language for the whole clip.'
+  zh: 用时间点把片子分成几个节拍，第2秒的冲击波和结尾的画面各占一段，镜头运动写得很具体：先是宽幅环绕，接着在剑击地面时压低俯冲。结尾的风格词统一了整段的光影和特效。
+prompt: |
+  A ruined cathedral floats in the sky during a violent storm, broken pillars suspended in mid-air, stained glass fragments orbiting like shards of light. A lone warrior stands on the cracked marble floor facing a colossal fallen angel with black wings, glowing armor, and a burning halo split in half.
+  At the 2-second mark, the angel spreads its wings, creating a shockwave that sends candles, dust, and glass spiraling outward. The warrior charges forward as lightning strikes through the broken roof. The camera circles them in a wide cinematic arc, then dives low as the angel’s sword slams into the floor, cracking the cathedral platform.
+  Final moment: the warrior raises their blade as the entire floating cathedral begins falling through the clouds.
+  Dark fantasy final battle, angelic VFX, storm, floating ruins, cinematic 4K.
+
+  Made in
+  @magnific

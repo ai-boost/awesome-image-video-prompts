@@ -1,0 +1,25 @@
+id: h3-bioluminescent-vortex-whale-morph
+title:
+  en: Bioluminescent particles swirl into an underwater vortex
+  zh: 发光粒子在水下卷成漩涡
+model: MiniMax H3
+mode: text-to-video
+category: vfx
+tags:
+- underwater
+- particles
+- transformation
+- whale
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2087462260218245401
+  credit: Mr Das
+  likes: 26
+  captured: '2026-10-29'
+  posted: '2026-08-12'
+video: https://x.com/MrDasCreates/status/2087462260218245401
+notes:
+  en: 'The prompt sets the morph as ordered stages (particles, then ribbons, then a whale silhouette, then solid skin) and gives the camera a timed path: a macro shot that pulls back, then a circling hero shot. Asking parts of the body to briefly re-liquefy gives the transition its seamless feel.'
+  zh: 提示词把变形写成有先后顺序的阶段（粒子、丝带、鲸鱼轮廓、实体皮肤），并给镜头规定了分段路径：先微距拉远，再环绕英雄镜头。要求身体局部短暂重新液化，让过渡更连贯。
+prompt: |
+  Generate a 15-second ultra-realistic cinematic transformation in a mysterious moonlit ocean at night: countless glowing bioluminescent particles drift beneath the dark water, slowly swirling together into a luminous underwater vortex; the vortex stretches into flowing translucent ribbons that begin forming the silhouette of an enormous whale. The liquid mass seamlessly transforms into realistic wet skin, fins, eyes, and layered textures as the whale emerges from the swirling water, with streams of glowing liquid cascading from its body. The camera starts with an extreme macro shot of glowing particles, gradually pulls backward as the silhouette forms, then smoothly circles around the whale in a majestic underwater hero shot. At the climax, the whale rises toward the surface and bursts through the ocean, sending a massive crown of water into the moonlight before diving back into the glowing depths. Throughout the transformation, parts of its body briefly ripple back into liquid before solidifying again, creating a seamless surreal morphing effect with realistic water physics, volumetric moonlight, underwater caustics, floating particles, cinematic depth of field, and epic atmospheric scale.

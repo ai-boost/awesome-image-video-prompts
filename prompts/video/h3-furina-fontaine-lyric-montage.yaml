@@ -1,0 +1,58 @@
+id: h3-furina-fontaine-lyric-montage
+title:
+  en: Furina Fontaine playbill montage with lyric cards
+  zh: 芙宁娜枫丹节目单歌词蒙太奇
+model: MiniMax H3
+mode: video-edit
+category: music-dance
+tags:
+- furina
+- genshin-impact
+- lyric-montage
+- reference-video
+source:
+  name: '@nanyuan0412 on X'
+  url: https://x.com/nanyuan0412/status/2088552509321195997
+  credit: 南鸢 nuyoah
+  likes: 20
+  captured: '2026-10-29'
+  posted: '2026-08-10'
+video: https://x.com/nanyuan0412/status/2088552509321195997
+notes:
+  en: The prompt keeps the reference video's audio, cut times and density curve as a timing grid, then swaps every visual for Furina and Fontaine typography. Each cut is locked to a listed timestamp so the lyric accents stay in sync with the untouched music.
+  zh: 提示词把参考视频的音轨、切点和节奏曲线作为时间网格，再把所有画面替换为芙宁娜与枫丹的排版元素。每个切点都锁定到指定时间戳，让歌词重音与原曲音乐保持同步。
+prompt: |
+  这个是有参考的版本可以使用
+
+  subject_definitions:
+  <Subject 1> is Furina from Genshin Impact in her canonical default design: pale skin, long white hair with blue underlayers, bright blue eyes, a small navy top hat, and an ornate navy-and-ivory Fontaine outfit with bow, ruffles, shorts, gloves, and restrained gold details. Keep one form and costume. Her elegant, dramatic stage presence remains active, not a static poster. Printed portraits and chibi graphics are designed images, not extra physical characters.
+
+  summary:
+  [video editing] Adapt <Video 1> into a 15.000-second, 16:9 Furina/Fontaine editorial anime montage. Preserve its soundtrack, major cut times, motion-density curve, and dense-to-calm-to-empty pacing. Replace source content with Furina, Fontaine theatre, waterways, hydro motifs, playbills, and tickets. Use ivory, Fontaine navy, water cyan, black type, and sparse gold lines. Do not change music, tempo, lyric timing, section lengths, or ending duration.
+
+  retention_analysis:
+  <Video 1> embedded audio, duration, frame order, cuts, beat alignment, layout trajectories, section functions, and density rhythm: fully_preserved.
+  <Video 1> original character, outfits, cherry location, city/social content, and name labels: weak_reference; replace them with <Subject 1> and Fontaine content while retaining composition and motion load.
+  <Video 1> lyric content and timing: fully_preserved. Exact glyphs, small UI copy, logos, and signatures: partially_preserved; leave stable text zones for post-production and never invent gibberish.
+
+  detailed_description:
+  [Shot 1] From 00:00.000 to 00:00.933, ivory white resolves from overexposure into a monochrome waist-up portrait of <Subject 1>, surrounded by pale-gray letters, a thin opera-arch circle, navy ticket fragments, and two hydro diamonds. Blur rapidly locks crisp while her eyes, hair, hat ribbon, ruffles, and shoulders remain subtly alive.
+  [Shot 2] At 00:00.933, the circle encloses <Subject 1> and restores her white, navy, and cyan colors. Outside snaps to Fontaine navy with huge white "FURINA" type. Portrait and background counter-slide; the circle lifts and pulls an ivory playbill from below.
+  [Shot 3] At 00:01.400, cut to a centered vertical Furina playbill on navy. It drops with one short impact, slightly overshoots, and locks. Use only "FURINA" and "OPERA EPICLESE". Its lower edge stretches sideways until ivory replaces navy.
+  [Shot 4] At 00:02.283, the playbill unfolds into a Fontaine collage: full-body <Subject 1>, aquabus windows, waterways, huge pale-gray "FURINA", navy "FONTAINE", gold rules, and cyan swatches. Begin on shoes and shorts, pull vertically to torso and hat, then reveal the page. A black lower bar appears and the layout whips left.
+  [Shot 5] At 00:03.683, opera programs, tickets, and portrait cards of <Subject 1> sweep left on a curved conveyor between black bars. Navy, ivory, and pale-gold cards pass in depth with controlled blur as printed layers. They fall downward, leaving original lyric words at both sides.
+  [Shot 6] At 00:04.567, a thin hydro-pulse line receives motion. Preserved lyric words enlarge on original vocal accents, briefly offset and shake, while diagonal lines and faint water rings cross ivory. The emphasized word contracts and releases a gold-edged cyan rectangle.
+  [Shot 7] At 00:05.550, the cyan lyric card expands past target size, makes one small settle, and locks. Preserve its source word exactly; add no copy. The card shrinks upper-left and clears.
+  [Shot 8] At 00:06.017, chibi <Subject 1> in the same costume appears left of center with a huge preserved black lyric word behind her. One scale impact lands, then body, hat, and ruffles keep moving. Chibi and word smear horizontally and exit together.
+  [Shot 9] At 00:06.500, one large preserved Chinese lyric character remains on ivory. Horizontal echoes resolve crisp; it drifts left and compresses into a water-droplet slit. The Fontaine water garden is visible inside before opening.
+  [Shot 10] At 00:06.917, the slit opens to <Subject 1> on a luminous Fontaine water terrace under a pale cyan sky, with white stone, blue water, hydro flowers, and translucent droplets. Bright blur clears, then hold a very slow push-in. Her gaze, hair, ribbons, coattails, reflections, flowers, and parallax stay gently active. Add no event or spell. At 00:10.230, push briefly and overexpose to ivory.
+  [Shot 11] At 00:10.333, the preserved handwritten lyric sits in navy ink on ivory with a soft vignette and faint water ring. At OUT it forms a pale-gray echo and drags left, handing direction and speed to <Subject 1>.
+  [Shot 12] At 00:11.267, <Subject 1> enters from lower right with brief blur and settles left of center before pale-gray "FURINA" type. After lock, gaze, hair, shoulders, hat ribbon, and coattails move subtly. At 00:12.067, her layer accelerates downward and exits.
+  [Shot 13] At 00:12.083, centered black "Merci" remains alone on ivory. Hold almost still with a minimal breathing vignette; this is the lowest-density section.
+  [Shot 14] At 00:13.500, replace "Merci" with a thin handwritten "Furina" signature and small "FONTAINE" below at the same center. Add no event through 00:15.000.
+
+  overall_soundscape:
+  Fully copy <Video 1> audio as timing reference. Add no dialogue, Foley, impacts, whooshes, ambience, or synthetic sound. Keep every onset, accent, silence, and mix unchanged. Visual locks remain at 00:00.933, 00:02.283, 00:03.683, 00:04.567, 00:05.550, 00:06.017, 00:06.500, 00:06.917, 00:10.333, 00:11.267, 00:12.083, and 00:13.500.
+
+  non_diegetic_music:
+  Fully copy <Video 1> music without recomposition, replacement, tempo/pitch/time change, fade, ducking, loudness change, or additions. Final production remuxes the untouched original AAC.

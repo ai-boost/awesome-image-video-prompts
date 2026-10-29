@@ -1,0 +1,25 @@
+id: h3-dew-covered-dragon-fruit-farm-to-table
+title:
+  en: Dew covered dragon fruit ripening in golden light
+  zh: 沾满露珠的火龙果在金色光线中
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- dragon-fruit
+- golden-hour
+- food-cinematography
+- vertical-video
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2115436669205885329
+  credit: Zyrella
+  likes: 25
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+video: https://x.com/Zyrellix/status/2115436669205885329
+notes:
+  en: The prompt lays out a farm-to-table shot list in running order, from aerial orchard views to harvesting, slicing and a served table, then ends on a closing product shot. Naming golden hour light, shallow depth of field and smooth camera moves sets a commercial food look and keeps the fruit as the hero.
+  zh: 提示词按顺序列出镜头，从空中俯拍果园到采摘、切开再到摆好的餐桌，最后以产品特写收尾。明确写出金色时刻光线、浅景深和平滑运镜，定下商业美食的质感，并让果实成为画面主角。
+prompt: |
+  Cinematic vertical 9:16 video of dragon fruit from farm to table golden hour lighting ultra realistic 8K quality Show aerial views of dragon fruit farms dew covered ripe pink fruits farmers harvesting with pruning shears a knife slicing open vibrant magenta flesh with tiny black seeds a beautiful young East Asian woman enjoying the fruit outdoors fresh fruits in wooden crates, and an elegant table with sliced dragon fruit and pink juice End with two halved dragon fruits on a wooden board in the orchard Smooth camera movements shallow depth of field vibrant colors soft natural light, high end commercial food cinematography.

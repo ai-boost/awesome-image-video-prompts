@@ -1,0 +1,35 @@
+id: kling-lone-knight-fortress-battle-sequence
+title:
+  en: Lone knight holds fortress gate against armored attackers
+  zh: 孤身骑士守住古堡城门
+model: Kling 4.0
+mode: reference-to-video
+category: action
+tags:
+- medieval
+- battle
+- reference-image
+- multi-shot
+- historical
+source:
+  name: '@AiwithBloodline on X'
+  url: https://x.com/AiwithBloodline/status/2112796958045896801
+  credit: Dr Bloodline | AI
+  likes: 53
+  captured: '2026-10-29'
+  posted: '2026-10-21'
+video: https://x.com/AiwithBloodline/status/2112796958045896801
+notes:
+  en: An uploaded reference image fixes the armor, cloak and sword across every beat, and the prompt splits the action into timed segments with a spatial continuity instruction so the multi-opponent fight stays readable. A separate audio line lists only sound design, which keeps music out of the mix.
+  zh: 上传的参考图在每个节拍中锁定盔甲、披风和长剑的外观，提示词按时间段拆分动作，并要求保持空间连续性，让多人围攻的打斗在镜头切换中依然清晰。音频单独列出，只写音效，避免配乐干扰。
+prompt: |
+  Create a photorealistic medieval battle sequence featuring a lone male knight defending the entrance to an ancient stone fortress. The scene must resemble a premium Hollywood historical film, with realistic armor, physically accurate movement, natural lighting, and consistent character identity.
+  Character reference: Use the uploaded knight image as the strict visual reference. Maintain the same helmet, silver plate armor, dark-blue cloak, sword, shield, and body proportions throughout the video.
+  0–5 seconds: The knight stands alone in front of a massive fortress gate. Wind moves his dark-blue cloak as dust drifts across the stone courtyard. The camera slowly pushes toward him.
+  5–10 seconds: A line of armored soldiers emerges through the distant dust. The knight raises his shield and positions his sword defensively. Sunlight glints naturally off the edges of his armor.
+  10–15 seconds: The first opponent charges. The knight blocks the incoming sword strike with his shield, pivots, and pushes the opponent backward. His armor moves naturally with his body.
+  15–20 seconds: Two more opponents approach from opposite directions. The knight turns to face them, maintaining a defensive stance. The camera tracks around the combatants while preserving spatial continuity.
+  20–25 seconds: The knight deflects another strike and forces the opponents to retreat. Dust rises from their boots as they move across the courtyard.
+  25–30 seconds: The knight lowers his shield slightly and turns toward the fortress gate as it begins to open behind him. Warm sunlight spills through the opening, illuminating his armor and revealing reinforcements arriving inside the fortress.
+  Audio: No music. Metal armor clanking, swords colliding, boots striking stone, wind, distant battle ambience, and natural breathing.
+  Negative prompt: Cartoon armor, inconsistent weapons, changing character appearance, extra limbs, floating swords, graphic gore, dismemberment, exaggerated fighting, unrealistic physics, background music, text, watermark.

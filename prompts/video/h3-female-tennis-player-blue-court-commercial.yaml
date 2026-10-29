@@ -1,0 +1,43 @@
+id: h3-female-tennis-player-blue-court-commercial
+title:
+  en: Female tennis player hits on blue court
+  zh: 女子网球选手在蓝色硬地球场击球
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- tennis
+- sports-commercial
+- golden-hour
+source:
+  name: '@DaniaSafvi on X'
+  url: https://x.com/DaniaSafvi/status/2095008773245211050
+  credit: Dania
+  likes: 115
+  captured: '2026-10-29'
+  posted: '2026-09-02'
+video: https://x.com/DaniaSafvi/status/2095008773245211050
+notes:
+  en: The prompt walks the camera through a fixed shot order (overhead serve, low angle tracking, close ups, golden hour silhouette) and lists the sound cues separately, so the clip reads as one edited commercial. Film look terms such as 35mm, grain and lens flare set the grade, and the negative list targets common hand and racket artifacts.
+  zh: 提示词按固定顺序写明镜头：俯拍发球、低机位跟拍、特写，最后是逆光剪影，并单独列出音效，使片段读起来像一支完整剪辑的广告。35mm、颗粒感和镜头光晕等胶片词定下色调，负向提示则针对手部和球拍的常见瑕疵。
+prompt: |
+  Create a fast-paced, high-energy cinematic sports commercial featuring a professional female tennis player competing on a blue hard court.
+
+  Scene & Camera:
+
+  - Begin with an overhead bird’s-eye shot of her powerful serve.
+  - Transition into low-angle tracking shots capturing her fast footwork and movement across the court.
+  - Use intense close-ups of her focused face, hands, racket, and ball impact.
+  - End with a dramatic golden-hour silhouette as she strikes the ball.
+
+  Visual Style:
+  Photorealistic, premium sports-commercial aesthetic, bright natural sunlight, subtle lens flares, crisp focus, realistic motion blur, dynamic camera movement, cinematic composition, 8K detail, 35mm film look, subtle film grain.
+
+  Performance:
+  Natural athletic movement, realistic tennis technique, accurate racket and ball physics, powerful swings, quick footwork, confident expressions, and believable body mechanics.
+
+  Audio:
+  Realistic tennis-court ambience, racket impacts, ball bounces, quick footsteps, and subtle cinematic sports sound design. No dialogue.
+
+  Negative Prompt:
+  Distorted hands, extra fingers, unnatural anatomy, incorrect tennis technique, floating racket, unrealistic ball movement, duplicated objects, face distortion, flickering, jitter, slow motion unless intentional, CGI appearance, low detail, watermark, text, or logos.

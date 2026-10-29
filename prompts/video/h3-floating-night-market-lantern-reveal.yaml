@@ -1,0 +1,43 @@
+id: h3-floating-night-market-lantern-reveal
+title:
+  en: Floating night market under a full moon
+  zh: 满月下的夜间漂浮集市
+model: MiniMax H3
+mode: image-to-video
+category: cinematic
+tags:
+- night-market
+- lanterns
+- continuous-shot
+- reference-image
+source:
+  name: '@feesyiam on X'
+  url: https://x.com/feesyiam/status/2098436364849320190
+  credit: Nafees
+  likes: 82
+  captured: '2026-10-29'
+  posted: '2026-09-11'
+video: https://x.com/feesyiam/status/2098436364849320190
+notes:
+  en: Anchored to a reference image with an explicit list of elements to keep, so the model animates the scene instead of redesigning it. Timed beats build one continuous camera path (low approach, rise and track forward, arc, wide pull back), and the negative prompt forbids cuts and camera shake.
+  zh: 以参考图为基础，并明确列出需要保留的元素，让模型驱动画面动起来而非重新设计场景。按时间段写出一条连续的运镜路径（低角度靠近、升起前推、环绕、拉远全景），并用反向提示词禁止切镜和晃动。
+prompt: |
+  "Create a 15-second cinematic, photorealistic continuous-shot video based exactly on the reference image of “The Floating Night Market.”
+
+  Preserve the original architecture, floating wooden market platforms, lantern designs, vendors, customers, boats, ocean, mountains, color palette, and overall composition. Do not redesign or replace any major elements.
+
+  0–3 seconds: Begin with a slow, smooth low-angle camera movement just above the dark ocean surface, approaching the floating night market. Hundreds of warm glowing paper lanterns gently sway in the night breeze. Their golden reflections shimmer naturally across the moving water. Small waves softly move around the floating platforms.
+
+  3–7 seconds: The camera slowly rises and moves forward through the market, revealing lively activity. Vendors naturally prepare food at small wooden stalls, gently stirring steaming pots and grilling food. Thin realistic steam rises into the lantern light. Customers walk casually across narrow wooden bridges, talking and browsing. Lanterns flicker subtly and sway with the wind.
+
+  7–11 seconds: Continue the same uninterrupted camera movement with a gentle cinematic arc around the market. Small traditional boats slowly pass underneath the floating platforms. Water ripples spread behind them. Food stalls glow with warm orange and amber light while the cool blue moonlight illuminates the surrounding ocean. The huge full moon remains visible in the background behind misty mountains.
+
+  11–15 seconds: Slowly pull upward and backward into a wider cinematic reveal, showing the entire floating night market surrounded by the vast ocean. Hundreds of lanterns form a glowing trail across the water. Reflections stretch and break naturally with the waves. Mist gently drifts around the distant mountains as the moonlight creates a magical atmosphere. End on a beautiful wide establishing shot.
+
+  Visual style: ultra-photorealistic, cinematic fantasy, realistic human movement, realistic ocean and water physics, detailed wooden textures, natural lantern glow, volumetric moonlight, subtle atmospheric fog, realistic steam, shallow depth of field during close shots, cinematic 35mm photography, high dynamic range, extremely detailed, immersive scale, smooth professional camera movement.
+
+  Motion: natural human gestures, subtle wind movement, gently swaying lanterns, flowing steam, moving water, realistic boat movement, no exaggerated animation.
+
+  Camera: smooth stabilized cinematic camera, slow controlled movement, natural depth of field, gradual push-in → forward tracking → gentle arc → wide pull-back. One continuous shot with no cuts.
+
+  Negative prompt: no scene changes, no cuts, no jump cuts, no camera shake, no distorted faces, no duplicated people, no warped buildings.

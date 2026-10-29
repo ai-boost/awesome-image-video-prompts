@@ -1,0 +1,69 @@
+id: h3-chang-an-champion-first-person-recognition
+title:
+  en: Crowd recognizes new exam champion at results board
+  zh: 人群在放榜处认出新科状元
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- first-person
+- storyboard
+- historical-china
+- dialogue
+source:
+  name: '@eternityspring on X'
+  url: https://x.com/eternityspring/status/2102418200503959894
+  credit: 烁皓
+  likes: 33
+  captured: '2026-10-29'
+  posted: '2026-09-22'
+video: https://x.com/eternityspring/status/2102418200503959894
+notes:
+  en: The storyboard grid is read as nine separate full screen shots with timed cut points, so only the active panel fills the frame. Recognition starts with one scholar and spreads from person to person, so reactions are staggered rather than synchronized, and the protagonist's hands stay out of frame unless an action needs them.
+  zh: 分镜图被拆成九个独立全屏镜头，按时间点逐一切换，每一刻只呈现一个画面。认出状元的人从一个学子开始，反应逐人扩散而非同步，主角的手只在动作需要时入镜。
+prompt: |
+  subject_definitions:
+  <Picture 1> is the supplied revised 3-by-3 storyboard, read left to right and top to bottom, providing the progression of Shots 1-9. Each panel must become a separate FULL-SCREEN cinematic shot, one scene at a time. The image grid is only a shot list: discard the contact-sheet layout completely.
+  <Subject 1> is the unseen first-person protagonist, the newly acclaimed examination champion. Only his realistic hands and red brocade cuffs may appear when the action requires them; never show his face, torso, legs, reflection, or an external view of him.
+  <Subject 2> is the Tang-Song-inspired Chang'an setting from <Picture 1>: earth-toned period crowds, timber streets, white horse, imperial hall and golden city panorama.
+  <Subject 3> is a single male scholar near the left of the camera in the crowd of <Picture 1>; he alone recognizes the protagonist first.
+  <Subject 4> is the surrounding crowd from <Picture 1>, whose individual reactions spread gradually after hearing the first scholar.
+  <Subject 5> is the pair of dark-robed officials from panel 4 of <Picture 1>, carrying a gong and red announcement.
+
+  summary:
+  [reference generation] A 15-second cinematic first-person journey following all nine panels of <Picture 1>, with <Subject 1> experiencing recognition, congratulations, an official announcement, a white-horse procession and an imperial audience before overlooking Chang'an. The recognition starts with <Subject 3> alone and spreads naturally through <Subject 4>. Animate the nine panels as nine distinct full-screen scenes, cutting at 1.6, 3.2, 4.8, 6.4, 8.0, 9.6, 11.2 and 13.0 seconds. Each frame contains ONE scene and ONE viewpoint, with synchronized Chinese dialogue and location sounds only. No background music anywhere in the video.
+
+  retention_analysis:
+  <Picture 1> (Shots 1-9 narrative and individual composition): partially_preserved - remove the grid layout, all borders and simultaneous panels. Expand only the currently active scene to fill the entire video frame. Use every panel in reading order, preserving the revised empty foreground in panels 2, 3 and 8 and flat hand contact with the horizontal stone surface in panel 9. Panel 2 is the endpoint of a spreading reaction, not an instruction for everyone to react simultaneously.
+  <Subject 1> (POV throughout): fully_preserved - hands remain naturally lowered entirely outside the frame in Shots 2, 3 and 8. Hands appear only for motivated actions in the other shots.
+  <Subject 2> (Shots 1-9): fully_preserved - consistent architecture, clothing, white horse, warm golden light and photorealistic texture.
+  <Subject 3> (Shots 1-3): fully_preserved - the first recognizer retains his appearance and left-side position.
+  <Subject 4> (Shots 1-7): fully_preserved - retain period clothing and varied individuals while animating distinct, causally staggered reactions.
+  <Subject 5> (Shots 4-5): fully_preserved - retain uniforms, gong and red announcement.
+
+  detailed_description:
+  Nine distinct sequential FULL-SCREEN cinematic shots, with exactly one continuous scene occupying the entire frame at every instant. Photorealistic historical cinema, widescreen, warm golden natural lighting, soft depth of field and restrained handheld motion. Remain at the protagonist's eye level throughout; no captions, watermarks, modern objects, split screens or readable text.
+
+  [Shot 1] Follow panel 1 of <Picture 1>. <Subject 1>'s hands gently part the densely packed <Subject 4> below a golden imperial results board in <Subject 2>. The camera nudges forward between shoulders. Everyone is initially looking at the board. Near the end, only <Subject 3>, a scholar on the left, glances from the board toward the camera with dawning recognition; the others remain unaware. Cloth brushes and low indistinct murmurs accompany the movement.
+
+  [Shot 2] At 00:01.600, turn toward the left scholar, using panel 2 as the eventual composition. <Subject 3> (S1), in a surprised youthful male voice, alone announces, <d>[Chinese] 这位就是状元郎!</d> The nearest listener turns only after hearing him; another turns slightly later, then a farther face follows. Background people initially continue reading the board. The realization spreads gradually from person to person, never a synchronized snap. The protagonist's arms hang naturally down outside the frame; no foreground hands, forearms or cuffs.
+
+  [Shot 3] At 00:03.200, continue into panel 3 as individuals step closer at different speeds. An elderly man (S2) calls warmly, <d>[Chinese] 状元公!</d> A woman (S3) joins a fraction later, <d>[Chinese] 恭喜呀!</d> A man behind them (S4) adds, <d>[Chinese] 恭喜恭喜!</d> Their voices overlap slightly with distinct entrances and spatial positions. Each person independently smiles and clasps their own hands; gestures and mouths are not synchronized. The protagonist's hands remain completely out of frame.
+
+  [Shot 4] At 00:04.800, match panel 4. <Subject 5> advances with a ringing brass gong and raised red announcement. Nearby people step aside first, followed by others, opening a passage. Camera gently steadies as the officials arrive.
+
+  [Shot 5] At 00:06.400, match panel 5. Two anatomically correct hands extend from below and receive the red announcement, fingers closing around its ends with believable contact. Uneven applause and jubilant crowd sounds rise around the lens.
+
+  [Shot 6] At 00:08.000, match panel 6. Both hands grip the white horse's saddle. The eye-level viewpoint lifts smoothly through mounting, then tips forward toward the horse's ears and street. Keep the protagonist's torso, lap and legs outside the frame throughout. Leather creaks and the horse exhales.
+
+  [Shot 7] At 00:09.600, match panel 7. Glide forward between cheering spectators on the white horse, hands loosely holding reins below its ears. Petals drift across warm sunlight. Gentle vertical movement follows the walking hoofbeats.
+
+  [Shot 8] At 00:11.200, match panel 8. Walk empty-handed down the imperial hall's clear central aisle toward the distant emperor. Red columns, golden carved surfaces and ministers frame the slow approach. Both arms remain naturally lowered entirely outside the image; no foreground hands, scroll, tray or gift. Footsteps reverberate softly.
+
+  [Shot 9] At 00:13.000, match panel 9. Overlook Chang'an from the tower. Both hands rest naturally flat on the broad horizontal stone step-like ledge, palms and relaxed fingers visibly contacting the stone. Keep this contact through the ending while the lens slowly widens toward the expansive golden skyline; hands never float or lift. Wind brushes the sleeves until the final frame at 00:15.000.
+
+  overall_soundscape:
+  Spatially varied street murmurs, individually timed Chinese congratulations, uneven applause, brass gong resonance, cloth and saddle sounds, walking hooves, restrained hall echoes and elevated city wind. The first clear voice belongs solely to the discovering scholar; other voices enter only after hearing him. No narrator or synchronized choral crowd delivery. Use only diegetic speech and real location sounds. The officials' gong is a single on-screen sound effect, never a musical rhythm. No instrumental bed, melodic drone, singing, humming, soundtrack, or background music.
+
+  non_diegetic_music:
+  N/A. Absolutely no background music, no score, no instruments, no musical intro, transition or ending. Preserve only dialogue and diegetic environmental sounds throughout all 15 seconds.

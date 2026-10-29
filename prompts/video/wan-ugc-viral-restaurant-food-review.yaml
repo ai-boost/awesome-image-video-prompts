@@ -1,0 +1,30 @@
+id: wan-ugc-viral-restaurant-food-review
+title:
+  en: Selfie creator tries viral restaurant dish
+  zh: 自拍博主试吃爆红餐厅的招牌菜
+model: Wan 3.0
+mode: text-to-video
+category: vlog
+tags:
+- ugc
+- food-review
+- selfie
+- smartphone
+- dialogue
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2092662950633123914
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 61
+  captured: '2026-10-29'
+  posted: '2026-08-26'
+video: https://x.com/Diplomeme/status/2092662950633123914
+notes:
+  en: The prompt sets a handheld front-camera look with autofocus hunting and exposure shifts, and bans cinematic moves and music, so the clip reads as real creator footage. Continuity lines that fix the creator's look and the dish's shape keep the subject consistent across cuts.
+  zh: 提示词用手机前置自拍的真实感描述（手持抖动、自动对焦来回切换、曝光随明暗变化），并明确禁止电影化运镜和配乐，让画面像真实博主的素材。连续性条款固定人物外观和菜品形态，使各镜头之间保持一致。
+prompt: |
+  They call it AI slop, but i dont think Food influencers will have a peaceful future now
+
+  Generated with Wan 3.0 1080P
+
+  Try it with prompt : WAN 3.0 — UGC: I TRIED THE VIRAL RESTAURANT **OUTPUT** Authentic vertical UGC food-review video, 16:9 smartphone footage, approximately 30 seconds. The entire sequence feels like a real creator spontaneously documenting their visit to a viral restaurant for TikTok or Instagram Reels. One continuous visit with natural temporal progression, not a polished commercial. **SUBJECT** A young male food creator in his mid-20s, casual black T-shirt, light overshirt, short dark hair and light stubble. He holds a modern smartphone at arm's length while filming himself. His personality is curious and energetic but not exaggerated. Maintain consistent face, hairstyle, clothing and physical appearance throughout. **WORLD** A massively viral contemporary restaurant in a busy upscale city neighborhood during dinner time. A long queue extends outside the entrance, groups of young customers are filming their food, warm interior lighting spills onto the sidewalk, staff move quickly between tables and the dining room is visibly crowded. Inside, the restaurant has modern industrial interiors, stainless-steel cooking equipment, warm wood tables and an open kitchen. **ACTION** The creator begins outside the restaurant, holding the phone toward himself and speaking naturally: “Okay, I finally tried the restaurant that’s literally everywhere on my feed.” He turns the phone toward the long queue and crowded entrance. Cut naturally to him seated inside. He shows the menu, then flips the camera toward the kitchen as the staff prepare the restaurant's viral signature dish. The dish arrives dramatically, steaming and freshly plated. He brings the phone closer for a handheld food close-up, then takes one bite. There is a brief pause as he processes the flavor. His expression changes from skeptical to genuinely surprised. He looks directly into the camera and says: “Wait… this is actually insane.” He takes another bite, laughs naturally and finishes with: “Okay, I get the hype.” **CAMERA** Modern smartphone camera, vertical 9:16 framing. Primarily handheld front-facing selfie footage with occasional rear-camera POV. Natural arm movement, imperfect framing and subtle hand shake. Autofocus briefly hunts when the phone moves from the creator's face to the food, then locks onto the dish. Automatic exposure adjusts naturally when moving between the bright entrance and warmer interior. Occasional slight cropping of the creator's face and spontaneous reframing. Food close-ups are handheld rather than professionally staged. No gimbal movement, crane shots or cinematic camera choreography. **LOOK** Authentic contemporary smartphone image quality: realistic skin texture, natural dynamic range, subtle computational sharpening, believable smartphone HDR, mild motion blur and light social-media compression. Warm practical restaurant lighting mixed with cooler ambient light from outside. Realistic reflections on plates, glassware and stainless steel. The food looks appetizing but physically real, with visible steam, sauce movement and natural texture. No commercial food photography aesthetic. **SOUND** Direct smartphone microphone recording. Natural creator dialogue with spontaneous pauses and slight background bleed. Busy restaurant ambience, conversations, cutlery, plates, kitchen activity, sizzling food and distant staff voices. Food sounds remain subtle and realistic. No background music, cinematic sound design or artificial voice-over. **CONTINUITY / CONSTRAINTS** Preserve the same creator, clothing, restaurant layout, table position and food appearance throughout. The viral dish must remain geometrically consistent between shots. Maintain realistic smartphone perspective and handheld behavior. No professional camera movements, no studio lighting, no beauty-filter appearance, no excessive color grading, no exaggerated facial reactions, no duplicated customers, no changing restaurant architecture, no warped hands or utensils, no disappearing food, no impossible object movement and no artificial slow motion.

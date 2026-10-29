@@ -1,0 +1,31 @@
+id: seedance-jade-sword-water-dragon-cave
+title:
+  en: Woman with jade sword summons water dragon
+  zh: 女子持翠玉剑召唤水龙
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- xianxia
+- dragon
+- dark-cave
+- camera-pullback
+source:
+  name: '@AiwithElisia on X'
+  url: https://x.com/AiwithElisia/status/2087051732774011038
+  credit: Elisia
+  likes: 169
+  captured: '2026-10-29'
+  posted: '2026-08-11'
+video: https://x.com/AiwithElisia/status/2087051732774011038
+notes:
+  en: 'The prompt is written as a shot list: a medium close-up opens, the camera pulls back to reveal the dragon behind her, then tilts up with it toward the ceiling, so each move has a clear start and end. Material and light terms such as wet stone, volumetric fog, rim lighting and cyan and emerald glow set the mood and keep the style consistent.'
+  zh: 提示词按镜头顺序写成分镜：先中景特写，镜头后拉露出身后的龙，再随龙上仰至洞顶，每个运镜都有明确起止。湿石地面、体积雾、边缘光和青绿光效等材质与光线词确定氛围，让画面风格保持统一。
+prompt: |
+  A cinematic fantasy scene inside a dark mystical cave. A beautiful young East Asian woman wearing an elegant flowing white and pale-green ancient Chinese fantasy robe, intricate floral hair ornaments and traditional hairstyle, kneels on a wet stone floor. She looks intensely focused as she holds a glowing magical green energy sword with both hands. Bright emerald-green energy flows from the sword into the ground, creating powerful magical light, mist and ripples across the wet floor.
+
+  As the magical energy intensifies, a gigantic translucent ice-blue Chinese dragon made entirely of water and crystalline energy suddenly emerges from the ground behind her. The dragon rises dramatically, its long serpentine body twisting upward, detailed scales, horns, whiskers and glowing cyan-blue aura. Thick mist and water particles surround the dragon. The woman remains small in the foreground while the enormous dragon dominates the cave.
+
+  The camera begins with a medium close-up of the woman, slowly pulls backward and reveals the full dragon emerging behind her, then tilts upward following the dragon as it rises toward the cave ceiling. At the end, the dragon bursts upward toward a bright opening in the cave, with rocks and debris floating and falling through the light.
+
+  Dark cinematic atmosphere, mystical Chinese xianxia fantasy aesthetic, volumetric fog, dramatic rim lighting, glowing cyan and emerald energy, realistic wet surfaces, detailed fabric movement, realistic facial features, highly detailed dragon scales, epic scale, dynamic magical particles, cinematic depth of field, smooth camera movement, photorealistic VFX, movie-quality CGI, ultra-detailed, 4K, dramatic fantasy cinematography, 16:9.

@@ -1,0 +1,25 @@
+id: seedance-floating-cloud-village-reveal
+title:
+  en: Floating cloud village reveal with aerial pull-up
+  zh: 云海之上漂浮村庄的航拍上拉
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- aerial
+- fantasy
+- clouds
+- camera-move
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2097622617968751012
+  credit: Lavinia
+  likes: 216
+  captured: '2026-10-29'
+  posted: '2026-09-09'
+video: https://x.com/laviniavelle/status/2097622617968751012
+notes:
+  en: 'The prompt lays out the shots in order: a wide golden cloud sea, a transition into the village, then a slow upward pull that reveals the whole floating city. Naming each camera move gives the model a clear sequence instead of one static scene.'
+  zh: 提示词按镜头顺序写明：先是金色云海的全景，再过渡到漂浮村庄，最后缓慢上拉揭示整座空中城市。明确的镜头运动让模型按顺序执行，而不是生成单一的静态画面。
+prompt: |
+  Create a cinematic photorealistic fantasy world built entirely above the clouds Start with a breathtaking aerial view of massive fluffy white clouds glowing in warm golden sunlight Smoothly transition into a beautiful futuristic village floating among the clouds with elegant modern white buildings cozy houses lush green gardens colorful flowers and people walking and riding bicycles on soft cloud covered streets Show people enjoying this magical sky world walking cycling gardening, and relaxing Then slowly pull the camera upward and reveal a massive breathtaking floating civilization stretching across the clouds with bridges islands homes gardens and futuristic structures surrounded by endless blue sky and dramatic volumetric clouds Bright cinematic sunlight realistic shadows natural human movement highly detailed environments dreamy but photorealistic, epic scale smooth camera movement, aerial drone shots cinematic depth of field realistic physics 8K, ultra detailed, seamless transitions, inspirational fantasy atmosphere.

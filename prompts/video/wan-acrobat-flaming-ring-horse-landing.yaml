@@ -1,0 +1,32 @@
+id: wan-acrobat-flaming-ring-horse-landing
+title:
+  en: Acrobat leaps through flaming ring onto horse
+  zh: 杂技演员穿越火环跃上奔马
+model: Wan 3.0
+mode: text-to-video
+category: action
+tags:
+- circus
+- stunt
+- slow motion
+- horse
+source:
+  name: '@iam_mian7 on X'
+  url: https://x.com/iam_mian7/status/2095007196258124056
+  credit: Ai Arainz
+  likes: 255
+  captured: '2026-10-29'
+  posted: '2026-09-02'
+video: https://x.com/iam_mian7/status/2095007196258124056
+notes:
+  en: 'The prompt lays out the stunt as ordered beats: setup on the platform, launch through the ring, backflip, then landing on the moving horse. Lens, slow motion and camera shake are named in their own lines, which keeps a fast action sequence readable.'
+  zh: 提示词按时间顺序写出动作：站台准备、穿越火环、后空翻、落到奔马背上，每一步都清楚。镜头、慢动作和震动分别写在独立段落里，让高速动作保持可读。
+prompt: |
+  A cinematic live circus performance inside a massive dark arena packed with an excited audience. A highly skilled female acrobat with long blonde hair, wearing a vivid red athletic costume and white shoes, stands on a tall metal platform beside a huge circular ring engulfed in roaring flames. Warm firelight illuminates her face and body against the deep black background.
+
+  She takes a moment, gathers momentum, then launches herself dramatically through the center of the flaming ring. Capture her in a powerful backward aerial flip, body fully extended and rotating gracefully in mid-air. As she exits the ring, a majestic white horse gallops beneath her, wearing a dark navy saddle and bridle. She completes the rotation and lands safely onto the moving horse in one fluid, perfectly timed motion.
+
+  Camera: vertical 9:16, cinematic telephoto lens, dynamic tracking, slow-motion during the jump, subtle camera shake from the live performance, smooth motion tracking.
+  Lighting: intense orange firelight, dramatic spotlights, deep shadows, realistic flame illumination, atmospheric smoke and sparks.
+  Style: photorealistic, high-end cinematic sports footage, realistic anatomy and physics, detailed horse movement, natural crowd reactions, dramatic contrast, shallow depth of field, 4K, ultra-detailed.
+  Mood: thrilling, dangerous, spectacular, heart-pounding live circus spectacle.

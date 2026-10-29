@@ -1,0 +1,25 @@
+id: h3-desert-runway-fashion
+title:
+  en: Sand dusted runway through dunes at golden hour
+  zh: 黄金时刻沙丘间的沙尘T台
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- fashion
+- luxury-ad
+- golden-hour
+- camera-moves
+source:
+  name: '@noorwithwifi on X'
+  url: https://x.com/noorwithwifi/status/2082897758084907132
+  credit: Noura
+  likes: 120
+  captured: '2026-10-29'
+  posted: '2026-07-30'
+video: https://x.com/noorwithwifi/status/2082897758084907132
+notes:
+  en: Lists the camera moves in one line and names visible physics cues such as cloth motion, wind and sun flare. It closes with a continuity line and a fade to black, so the ad ends cleanly.
+  zh: 提示词用一行列出镜头运动，并点明布料运动、风和阳光光晕等可见的物理细节。结尾加入连续性要求和黑场淡出，让广告有干净的收束。
+prompt: |
+  12s cinematic luxury fashion ad, 4K, 24fps, ultra-photorealistic. A high-fashion model in a flowing iridescent metallic gown walks along a minimalist desert runway at golden hour. Cinematic aerial, tracking, orbit, close-up, and hero shots with realistic cloth physics, flowing fabric, shimmering reflections, soft wind, golden sun flare, HDR lighting, Vogue-style editorial, seamless continuity, consistent face/outfit, no flicker, no warping, no extra limbs, fade to black.
