@@ -116,6 +116,31 @@ def valid(c, d):
     return ok and not any(ch in json.dumps([d["title"], d["notes"]], ensure_ascii=False) for ch in "—–")
 
 
+def prompt_key(text):
+    return re.sub(r"\s+", " ", text).strip().lower()[:400]
+
+
+def image_hash(path):
+    """64x4 bit difference hash; two images within 8 bits are the same picture."""
+    from PIL import Image
+    px = list(Image.open(path).convert("L").resize((17, 16)).getdata())
+    return sum(1 << k for k in range(256) if px[(k // 16) * 17 + k % 16] > px[(k // 16) * 17 + k % 16 + 1])
+
+
+def duplicates(cands):
+    """Candidates whose prompt or picture is already in the list, or repeats an earlier candidate."""
+    keys = {prompt_key(yaml.safe_load(f.read_text())["prompt"]) for f in ROOT.glob("prompts/*/*.yaml")}
+    hashes = [image_hash(f) for f in ROOT.glob("previews/*.jpg")]
+    dup = set()
+    for c in cands:
+        k, h = prompt_key(c["prompt"]), image_hash(c["thumb"])
+        if k in keys or any(bin(h ^ o).count("1") <= 8 for o in hashes):
+            dup.add(c["cid"])
+        keys.add(k)
+        hashes.append(h)
+    return dup
+
+
 def main():
     DONE.mkdir(parents=True, exist_ok=True)
     cands = [json.loads(p.read_text()) for p in sorted(CAND.glob("*.json"))]
@@ -123,6 +148,15 @@ def main():
         print("no candidates")
         return
     log = []
+    dup = duplicates(cands)
+    for c in cands:
+        if c["cid"] in dup:
+            log.append(f"skipped {c['url']}  duplicate of an entry already listed")
+            for ext in ("json", "jpg"):
+                src = CAND / f"{c['cid']}.{ext}"
+                if src.exists():
+                    shutil.move(src, DONE / src.name)
+    cands = [c for c in cands if c["cid"] not in dup]
     with cf.ThreadPoolExecutor(4) as ex:
         for c, d in zip(cands, ex.map(ask, cands)):
             if valid(c, d):

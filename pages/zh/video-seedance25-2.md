@@ -1,58 +1,6 @@
 # Seedance 2.5
 
-[返回目录](../../README_zh.md) · 全部 164 条 · [1](video-seedance25.md) · **2** · [3](video-seedance25-3.md)
-
-<a id="seedance-gym-vlog-leg-day-dv-camcorder"></a>
-### 健身房 vlog 中腿练完的疲惫女孩
-
-<a href="https://x.com/QAiStudio/status/2102992059938587000"><img src="../../previews/seedance-gym-vlog-leg-day-dv-camcorder.jpg" width="360"></a>
-
-提示词按 CAMERA、LOOK、STYLE 分段，再加上带时长和台词的分镜表。把镜头设定为角色本人的第一视角，并刻意加入抖动、迟滞对焦和切头构图，营造自拍式 DV 质感；同时禁止镜头入画，保持沉浸感。
-
-Seedance 2.5 · 文生视频 · 出处: [@QAiStudio on X](https://x.com/QAiStudio/status/2102992059938587000) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dv-tape-look`](tags.md#tag-dv-tape-look) [`handheld-pov`](tags.md#tag-handheld-pov) [`gym-vlog`](tags.md#tag-gym-vlog) [`dialogue-storyboard`](tags.md#tag-dialogue-storyboard)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-**CAMERA:**
-DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on a rack or bench. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
-
-**LOOK:**
-Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
-
-**STYLE:**
-Playful, self-deprecating gym-vlog tone — exaggerated complaining, genuine laughs, exhausted-but-amused energy. Quick handheld cuts, slightly wobbly camera movement matching her shaky legs.
-
-**Character**
-
-CHASE — Korean idol in her 20s. Long black hair in a high ponytail, glowing skin with a heavy post-workout sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings (arms and torso fully covered), sneakers, towel around neck, no jewelry.
-
-**Setting**
-
-A gym in the evening — squat rack, leg press machine, a water fountain across the room, mirror wall, soft overhead lighting.
-
-**Storyboard**
-
-1. *(~2s, propped camera at squat rack, medium shot)* She stands, hands on hips, catching her breath, dramatic exhale. CHASE: "Okay... leg day is not it today."
-
-2. *(~2s, handheld, close on her face)* She winces, shaking out one leg, laughing at herself. CHASE: "Why did I do that many reps—"
-
-3. *(~2s, medium propped shot, leg press machine)* She sits down, pushes through a rep, face straining, then flops back with a groan. CHASE: "Okay that's it, I'm done, I'm so done."
-
-4. *(~1.5s, macro insert, shallow DOF)* Close-up on her hand gripping the machine handle, knuckles slightly tense. No dialogue — ambient gym sound only.
-
-5. *(~2s, handheld, walking, camera wobbling)* She stands up and immediately wobbles, grabbing the rack for balance, bursting into laughter. CHASE: "Wait— okay my legs are literally shaking—"
-
-6. *(~2s, handheld, unsteady walk)* She takes exaggerated, wobbly steps toward the water fountain, camera bouncing with her uneven gait. CHASE (laughing): "This is so embarrassing, someone help me—"
-
-7. *(~1.5s, close handheld, at the fountain)* She leans down for a sip of water, sighs in relief, wipes her mouth with the back of her hand. CHASE: "Okay... water is life right now."
-
-8. *(~2s, arm's-length selfie finish)* She leans against the wall, still catching her breath, grinning tiredly at the lens. CHASE: "Never doing legs again — see you guys, I'm going to go lie down somewhere."
-```
-
-</details>
+[返回目录](../../README_zh.md) · 全部 163 条 · [1](video-seedance25.md) · **2** · [3](video-seedance25-3.md)
 
 <a id="seedance-hammock-motorcycle-wash-dv-home-video"></a>
 ### 千禧年初家用DV：吊床小憩与洗摩托车
@@ -5402,6 +5350,89 @@ Seedance 2.5 · 文生视频 · 出处: [@sakisuta_ on X](https://x.com/sakisuta
 
 ```text
 12-15秒: 眉が緩み、口角が小さく抑えたまま上がる。セリフ言語: 日本語。<Woman> は軽く、ほとんど息のような声で日本語で言う: {……あ、なんで謝るの}。終了状態: かすかに微笑んだまま、彼を見ている。
+```
+
+</details>
+
+<a id="seedance-wizard-duck-monster-storyboard"></a>
+### 女巫变成鸭子逃离怪物
+
+<a href="https://x.com/AIwithNatalia/status/2089170554725265625"><img src="../../previews/seedance-wizard-duck-monster-storyboard.jpg" width="360"></a>
+
+七段分镜精确到秒，每个剧情节点都有独立的时间段。对白和音效直接写进对应段落，结尾用一行文字卡收束。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithNatalia on X](https://x.com/AIwithNatalia/status/2089170554725265625) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`comedy`](tags.md#tag-comedy) [`storyboard`](tags.md#tag-storyboard) [`timed-beats`](tags.md#tag-timed-beats) [`fantasy`](tags.md#tag-fantasy) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+0–3 sec — Hook
+A young wizard stands frozen in a dark forest as a massive monster charges toward her.
+Wizard: “Ten seconds… that’s all I need!”
+
+3–8 sec — The Spell
+She raises her glowing staff and rapidly chants a magical spell. The monster gets closer and closer.
+
+8–12 sec — Countdown
+Monster: “YOU’RE TOO LATE!”
+The wizard finishes the final word: “TRANSFORMUS!”
+
+12–16 sec — Magic Burst
+A huge explosion of purple light fills the screen. Everything goes silent.
+
+16–21 sec — Twist
+The smoke clears. The monster looks confused.
+Instead of the wizard… there’s a tiny, adorable duck standing in her robes.
+
+21–26 sec — Reaction
+The duck looks down at herself, quacks angrily, and smacks the staff with her wing.
+
+26–30 sec — Punchline
+The monster slowly backs away.
+Monster: “...Honestly, I’m scared of her.”
+The duck suddenly starts chasing him.
+SFX: Quack! Quack! Quack!
+End text:
+✨ Never rush a spell. 🦆
+```
+
+</details>
+
+<a id="seedance-woman-crowd-synchronized-turn"></a>
+### 黑色外套女子站在白衣人群中央
+
+<a href="https://x.com/AIwithSynthia/status/2100067816162636164"><img src="../../previews/seedance-woman-crowd-synchronized-turn.jpg" width="360"></a>
+
+用参考图锁定人物、服装和人群，再把动作拆成定格、逐步扩散的转头、最后一次整齐回头三段节拍。镜头只用后退跟拍和缓慢推进，让主角的静止感更突出。
+
+Seedance 2.5 · 参考生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2100067816162636164) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`crowd`](tags.md#tag-crowd) [`reference-image`](tags.md#tag-reference-image) [`cinematic`](tags.md#tag-cinematic) [`synchronized-motion`](tags.md#tag-synchronized-motion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual reference for the woman, crowd, wardrobe, composition, lighting, and atmosphere.
+
+A young woman with a short sleek dark bob, realistic facial features, natural skin texture, and subtle makeup wears a fitted black turtleneck, black trousers, black shoes, and minimal jewelry. Keep her face, hairstyle, outfit, and proportions perfectly consistent.
+
+She walks slowly and confidently toward a large, tightly packed crowd, maintaining a calm and emotionless expression while the camera smoothly tracks backward and keeps her centered.
+
+She reaches the exact center of the crowd and stops completely, standing perfectly still with her arms naturally at her sides and looking directly into the camera.
+
+The crowd remains completely frozen for a brief moment.
+
+Then, without the woman moving, the people behind her slowly begin turning toward her. The head turns start subtly and spread through the entire crowd until everyone is facing and looking directly at her.
+
+The woman remains completely motionless and expressionless, never reacting to the crowd.
+
+The camera slowly pushes closer while the crowd stays turned toward her, creating an unsettling synchronized effect. Their final movement is one sharp, simultaneous turn toward her while she continues staring into the lens.
+
+Dark, mysterious, photorealistic live-action aesthetic, soft cinematic lighting, deep shadows, realistic skin, hair and clothing physics, shallow depth of field, natural human movement.
+
+No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphing, random crowd movement, text, subtitles, logos, watermark, excessive camera movement, artificial fog, glow, or exaggerated effects.
 ```
 
 </details>

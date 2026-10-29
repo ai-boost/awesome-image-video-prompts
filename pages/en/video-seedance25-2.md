@@ -1,49 +1,6 @@
 # Seedance 2.5
 
-[Back to the list](../../README.md) · All 164 entries · [1](video-seedance25.md) · **2** · [3](video-seedance25-3.md)
-
-<a id="seedance-gym-static-martial-arts-vs-five-bullies"></a>
-### Schoolgirl unleashes static martial arts on five bullies
-
-<a href="https://x.com/doctorwasif/status/2091388398153994395"><img src="../../previews/seedance-gym-static-martial-arts-vs-five-bullies.jpg" width="360"></a>
-
-A 30 second single take is split into timed beats of three to five seconds, each with exact dialogue, a short slow motion impact and a snap back to real time. A strict rule block limits the effect to white blue static born from contact, and the camera is told to lag behind her acceleration.
-
-Seedance 2.5 · Text-to-video · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2091388398153994395) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`martial-arts`](tags.md#tag-martial-arts) [`photorealistic`](tags.md#tag-photorealistic) [`one-take`](tags.md#tag-one-take) [`handheld`](tags.md#tag-handheld) [`korean-dialogue`](tags.md#tag-korean-dialogue)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
-
-SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
-
-00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
-
-03–06: He swings again.
-
-06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
-
-09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
-
-12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
-
-17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
-
-22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
-
-27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
-
-COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
-
-STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
-
-CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
-```
-
-</details>
+[Back to the list](../../README.md) · All 163 entries · [1](video-seedance25.md) · **2** · [3](video-seedance25-3.md)
 
 <a id="seedance-gym-vlog-leg-day-dv-camcorder"></a>
 ### Gym vlog of idol shaking after leg day
@@ -5255,6 +5212,98 @@ Setting: A busy city intersection that slowly turns completely empty and silent 
 26–30s: Calm close-ups, soft light on their faces. The blonde woman says quietly: "I thought I was the only one." The Korean woman smiles and answers: "So did I." Slow pull-back as they stand together in the empty street, then cut to black.
 Audio: Rushing wind, tire screeches fading into complete silence, a soft heartbeat, light footsteps, a subtle emotional orchestral score building gently, clear natural English dialogue.
 Style: Realistic grounded sci-fi action-drama, smooth physics, natural human movement, emotional performances, non-graphic, no text, no subtitles, no logos, no watermark.
+```
+
+</details>
+
+<a id="seedance-vampire-romance-castle-teaser"></a>
+### Gothic vampire romance castle teaser in 30 seconds
+
+<a href="https://x.com/ZaraIrahh/status/2094363532636590322"><img src="../../previews/seedance-vampire-romance-castle-teaser.jpg" width="360"></a>
+
+Two reference images lock the leads and the castle, while six timed scenes of five seconds each carry the dialogue and the action. Shot types, a fixed color palette, a sound design list and a cut to black before the kiss keep the tension and the cliffhanger.
+
+Seedance 2.5 · Reference-to-video · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2094363532636590322) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vampire`](tags.md#tag-vampire) [`romance`](tags.md#tag-romance) [`short-drama`](tags.md#tag-short-drama) [`cinematic`](tags.md#tag-cinematic) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second, 16:9 premium live-action vampire-romance teaser for an international short-drama audience. Use Image 1 for the two leads' appearance and Image 2 for the castle environment. Preserve both identities consistently throughout every shot with ultra-realistic live-action cinematography, cinematic lighting, natural skin texture, and emotionally expressive performances.
+
+Story: A curious young woman accidentally wanders into the forbidden wing of a forgotten castle, where she awakens an ancient vampire noble from centuries of sleep. The instant he sees her, he senses the bloodline of an ancient war flowing through her veins. Instead of killing her, he becomes dangerously fascinated. His obsession grows immediately into a possessive desire to keep her close. She is frightened by his overwhelming presence but refuses to surrender completely, meeting his dominance with quiet courage.
+
+Style: Premium ReelShort / DramaBox vampire romance. Darkly romantic, emotionally intense, fate-bound, mysterious, elegant, and seductive without becoming explicit. Build escalating romantic tension through eye contact, silence between lines, restrained emotion, and powerful chemistry. The pacing should feel like the opening episode of a viral international drama with a shocking cliffhanger ending. No gore, no cheap horror, no Halloween costumes, no monsters, and no modern streetwear.
+
+The castle is illuminated only by moonlight filtering through towering stained-glass windows, flickering candlelight, fireplaces, drifting mist, ancient chandeliers, marble floors, velvet curtains, towering bookshelves, gothic arches, carved stone walls, and floating dust particles. Rich black, crimson, silver, and deep blue dominate the color palette.
+
+Shoot entirely for TikTok, ReelShort, and DramaBox. Prioritize medium close-ups, close-ups, extreme close-ups, slow push-ins, over-the-shoulder shots, dramatic eye contact, trembling hands, subtle breathing, and intimate framing. Every shot should maximize emotional tension between the leads.
+
+Scene 1 (0–5s)
+The young woman cautiously walks through the abandoned castle corridor holding an antique candle. The flame flickers violently as if something unseen is watching her.
+
+Woman (whispering):
+"I shouldn't be here..."
+
+A distant male voice echoes through the darkness.
+
+Vampire (O.S., whisper):
+"...You finally came."
+
+Scene 2 (5–10s)
+An enormous stone coffin slowly opens. The vampire noble rises with quiet elegance, his crimson eyes fixed only on her. She freezes in fear.
+
+Woman:
+"Who... who are you?"
+
+Vampire (calmly):
+"The one fate refused to bury."
+
+Scene 3 (10–15s)
+He slowly approaches until only inches separate them. He gently lifts her chin without hurting her, studying her face as though recognizing someone long forgotten.
+
+Vampire:
+"Your blood remembers a war the world has forgotten."
+
+Woman:
+"I don't know what you're talking about."
+
+Scene 4 (15–20s)
+She steps backward, refusing to surrender despite her fear. He blocks her escape with effortless confidence.
+
+Woman:
+"I'm not afraid of you."
+
+Vampire (soft smile):
+"You should be."
+
+Scene 5 (20–25s)
+He leans closer, eyes locked with hers. Their breathing becomes the only sound. His expression shifts from curiosity to obsession.
+
+Vampire:
+"I searched centuries for you..."
+
+Woman (barely whispering):
+"Why me?"
+
+Vampire:
+"Because you belong to my destiny."
+
+Scene 6 (25–30s)
+The castle doors slam shut by themselves. Candle flames extinguish one by one. He gently reaches for her hand while she hesitates, torn between fear and an irresistible pull.
+
+Vampire:
+"You may fight fate..."
+
+(He slowly intertwines his fingers with hers.)
+
+Vampire:
+"...but you'll never escape me."
+
+Final shot: Extreme close-up of their locked eyes as orchestral music swells. Smash cut to black before they kiss.
+
+Editing should feel premium and fast-paced with cinematic hard cuts, dramatic push-ins, elegant slow motion, realistic sound design, orchestral strings, deep piano notes, distant thunder, candle crackles, footsteps, soft breathing, fabric movement, and subtle heartbeats. The final frame ends on a cliffhanger that leaves the audience desperate for Episode 2.
 ```
 
 </details>

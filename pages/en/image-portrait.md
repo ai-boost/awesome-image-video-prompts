@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 217 entries · **1** · [2](image-portrait-2.md)
+[Back to the list](../../README.md) · All 213 entries · **1** · [2](image-portrait-2.md)
 
 <a id="gpt-image-macbook-screen-photo-booth-selfie"></a>
 ### Dim bedroom selfie in Photo Booth on laptop
@@ -66,25 +66,6 @@ Two women framed by a sun-bleached stone archway — one in the near foreground 
 
 </details>
 
-<a id="gpt-image-mediterranean-archway-y2k-flash-courtyard"></a>
-### Woman under bougainvillea archway in Mediterranean courtyard
-
-<a href="https://x.com/abxxai/status/2097698694296686623"><img src="../../previews/gpt-image-mediterranean-archway-y2k-flash-courtyard.jpg" width="360"></a>
-
-The prompt places a detailed foreground subject against a lightly specified second figure and a layered setting, from archway to courtyard to sea. It then adds an early 2000s digicam look with on camera flash, CCD colour, bloom and noise to push the result toward candid realism.
-
-GPT Image 2.5 · Text-to-image · Source: [@abxxai on X](https://x.com/abxxai/status/2097698694296686623) · 2,645 likes on 2026-10-28
-
-[`y2k`](tags.md#tag-y2k) [`digicam`](tags.md#tag-digicam) [`flash-photography`](tags.md#tag-flash-photography) [`mediterranean`](tags.md#tag-mediterranean) [`candid`](tags.md#tag-candid)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.
-```
-
-</details>
-
 <a id="gpt-image-car-door-clifftop-2000s-film-snapshot"></a>
 ### Early 2000s film snapshot through open car door
 
@@ -95,45 +76,6 @@ An uploaded character sheet locks identity, while labeled blocks for scene, ward
 GPT Image 2.5 · Edit · Source: [@abxxai on X](https://x.com/abxxai/status/2102775797509722602) · 1,687 likes on 2026-10-28
 
 [`film-look`](tags.md#tag-film-look) [`candid`](tags.md#tag-candid) [`road-trip`](tags.md#tag-road-trip) [`character-reference`](tags.md#tag-character-reference) [`2000s`](tags.md#tag-2000s)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-4/ the start frame, GPT Image 2.5 made
-
-the old footage look is NOT a filter.. Opus wrote it into the prompt:
-
-Promtp:
-
-Use the uploaded character sheet as the strict identity reference. Keep her exact face, bone structure, brown eyes, light freckles across nose and cheeks, natural full lips, and long straight light-brown hair with sun-kissed caramel highlights parted in the middle. Keep the thin gold chain necklace with the small cross pendant.
-
-SCENE: A candid photo taken from inside a parked silver sedan, looking out through the open rear passenger door. The door frame, the grey fabric headliner, the black door panel with its chrome handle, and part of the seat belt frame the shot on both sides. She stands just outside the open door on a rocky clifftop road above the ocean, both arms raised, one hand gripping the top of the door frame and the other resting on the roof edge, leaning slightly toward the camera. Relaxed, unposed, calm expression, looking straight into the lens.
-
-WARDROBE: Fitted cropped white cotton baby tee with a faded, sun-washed vintage graphic print in pale blue and coral red, slightly worn and soft. Light-wash low-rise denim cutoff shorts with frayed hems. Thin brown leather cord bracelets on one wrist. Hair slightly messy and windblown, a few strands across her face.
-
-BACKGROUND: Deep blue Mediterranean sea filling the frame behind her, sparkling sun glints on the water, a flat horizon line at chest height, pale hazy sky, dark rocks and sandy stones at the cliff edge below.
-
-LIGHT: Harsh direct midday summer sun, bright and slightly overexposed. Sun-warmed skin with a natural sheen and slight glow on the cheeks and nose, soft shadows under the chin, a faint reflection of light off the white car interior.
-
-CAMERA AND LOOK: Early 2000s point-and-shoot film photo, 35mm film, 28mm wide lens with slight barrel distortion at the edges, shot from chest height inside the car. Warm, faded, sun-bleached color grade, lifted blacks, low contrast, creamy highlights that gently blow out in the sky, slightly yellowed whites, soft halation around bright edges, fine visible film grain, a touch of softness and imperfect focus. Looks like a real candid snapshot from a summer road trip, not a studio shot.
-
-REALISM: Real skin texture with visible pores and freckles, no retouching, no plastic skin, natural flyaway hairs, real fabric wrinkles on the tee, real dust and wear on the car interior.
-
-Aspect ratio 4:3. No text, no watermark, no logos.
-```
-
-</details>
-
-<a id="gpt-image-car-door-coastal-film-snapshot"></a>
-### Candid early 2000s film snapshot from inside car
-
-<a href="https://x.com/abxxai/status/2102775755646337530"><img src="../../previews/gpt-image-car-door-coastal-film-snapshot.jpg" width="360"></a>
-
-An uploaded character sheet locks identity, then the scene is framed from inside the car so the door frame, headliner and seat belt create a natural foreground. The film look is written into the prompt as camera and grade details like 28mm barrel distortion, lifted blacks, halation and grain, not applied as a filter.
-
-GPT Image 2.5 · Edit · Source: [@abxxai on X](https://x.com/abxxai/status/2102775755646337530) · 1,687 likes on 2026-10-28
-
-[`film-look`](tags.md#tag-film-look) [`candid-snapshot`](tags.md#tag-candid-snapshot) [`character-reference`](tags.md#tag-character-reference) [`travel`](tags.md#tag-travel) [`y2k`](tags.md#tag-y2k)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3991,46 +3933,6 @@ low quality, blurry, flat lighting, dull colors, bad anatomy, extra limbs, disto
 
 </details>
 
-<a id="gpt-image-black-blazer-editorial-portrait-reference-2"></a>
-### Black Blazer Editorial Portrait from Reference
-
-<a href="https://x.com/MissDelulu9/status/2114321139959001218"><img src="../../previews/gpt-image-black-blazer-editorial-portrait-reference-2.jpg" width="360"></a>
-
-The prompt locks identity to the reference image and adds negative constraints such as no facial changes and no plastic skin. Camera and lens specs (Sony A7R IV, 85mm f/1.4) plus soft side sunlight on a white background give a clean fashion editorial look.
-
-GPT Image 2.5 · Edit · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2114321139959001218) · 96 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`editorial`](tags.md#tag-editorial) [`reference-image`](tags.md#tag-reference-image) [`fashion`](tags.md#tag-fashion) [`studio-light`](tags.md#tag-studio-light)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the girl from the reference image and preserve her face, identity, proportions, and overall appearance exactly. Ultra-realistic 9:16 chest-up editorial portrait. She sits with a slight head tilt, looking directly at the camera with a calm, confident expression. Long straight glossy hair with a clean center part.
-
-Wearing a structured oversized black blazer with broad shoulders. Natural luxury makeup with luminous skin, soft brown eyeshadow, subtle eyeliner, defined lashes, and nude glossy lips. Clean white minimalist background with soft side sunlight creating elegant shadows. Shot on a Sony A7R IV, 85mm f/1.4, shallow depth of field, cinematic lighting, realistic skin texture, 8K RAW, premium fashion editorial, no facial changes, no distortion, no plastic skin, no text, logo, or watermark.
-```
-
-</details>
-
-<a id="nano-banana-pink-picnic-blanket-halo-hair-portrait"></a>
-### Woman lying on pink floral picnic blanket with peonies
-
-<a href="https://x.com/Aqib__786Ai/status/2076174750993236008"><img src="../../previews/nano-banana-pink-picnic-blanket-halo-hair-portrait.jpg" width="360"></a>
-
-The prompt fixes the camera angle, pose and hair shape as a radial halo, then places props by position, such as the basket in the corner and lemonade nearby. Repeating the baby pink palette across fabric, flowers and dress keeps the whole scene in one colour family.
-
-Nano Banana 2 · Text-to-image · Source: [@Aqib__786Ai on X](https://x.com/Aqib__786Ai/status/2076174750993236008) · 95 likes on 2026-10-29
-
-[`picnic`](tags.md#tag-picnic) [`floral`](tags.md#tag-floral) [`top-down`](tags.md#tag-top-down) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A beautiful young East Asian woman lying on her back on a soft baby pink floral picnic blanket, top-down view, long voluminous wavy platinum blonde hair with baby pink highlights dramatically spread out around her head like a golden-pink halo, soft bangs, fair flawless skin, bright cheerful smile showing perfect white teeth, large expressive brown eyes, wearing a cute baby pink summer dress with puffed short sleeves and square neckline showing cleavage, delicate gold layered necklaces with heart pendant, small gold hoop earrings, sunny outdoor park picnic scene, large vibrant baby pink peonies and roses placed around her, wicker picnic basket in the corner, glass of fresh lemonade with lemon slice nearby, soft golden hour sunlight with gentle pink tones, beautiful natural lighting, bokeh background, highly detailed, photorealistic, cinematic composition, vibrant baby pink color palette, dreamy summer atmosphere.
-```
-
-</details>
-
 <a id="nano-banana-mirror-hallway-satin-slip-woman"></a>
 ### Woman in white satin slip dress in mirrored hallway
 
@@ -4675,6 +4577,35 @@ Nano Banana 2 · Edit · Source: [@SadiaMalik182 on X](https://x.com/SadiaMalik1
 
 ```text
 A stylish young man in a premium editorial fashion photoshoot, wearing an oversized black/dark charcoal T-shirt, relaxed beige or white wide-leg trousers, premium Nike sneakers, optional black sunglasses, silver chain, and luxury wristwatch. Dynamic walking or standing pose with a confident expression, looking slightly away or toward the camera. Minimal clean white/light gray studio background, dramatic soft lighting, soft shadows, high contrast, artistic vertical motion blur and subtle glitch smear effect around the body, ultra-realistic skin texture, luxury streetwear campaign, Vogue-inspired fashion photography, cinematic color grading, 2K resolution, razor-sharp details, masterpiece quality, preserve the exact reference face and identity 100%, do not change my real face.
+```
+
+</details>
+
+<a id="nano-banana-amber-glasses-beanie-side-profile-portrait"></a>
+### Side profile portrait in amber glasses and beanie
+
+<a href="https://x.com/weiinberg/status/2071813959901143140"><img src="../../previews/nano-banana-amber-glasses-beanie-side-profile-portrait.jpg" width="360"></a>
+
+A reference image is limited to identity so the outfit, pose and background can be rewritten. The 3/4 angle, 85mm f/1.8 lens, single side window light and a long negative prompt keep skin texture real and the eyes sharp.
+
+Nano Banana 2 · Edit · Source: [@weiinberg on X](https://x.com/weiinberg/status/2071813959901143140) · 72 likes on 2026-10-29
+
+[`portrait`](tags.md#tag-portrait) [`eyewear`](tags.md#tag-eyewear) [`identity-lock`](tags.md#tag-identity-lock) [`window-light`](tags.md#tag-window-light) [`shallow-depth-of-field`](tags.md#tag-shallow-depth-of-field)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded reference image only for preserving the subject's facial identity, facial proportions, skin tone, hairstyle (unless specified otherwise), and overall likeness. Do not copy the original background, pose, clothing, or lighting.
+
+Create a hyper-realistic close-up portrait from a 3/4 side profile (30–45° angle), with the subject looking slightly away from the camera. Frame from the upper chest to the top of the head, filling 80–90% of the frame. Maintain natural facial anatomy and realistic skin texture with visible pores, subtle imperfections, and authentic details.
+
+Style the subject with transparent amber acetate eyeglasses, a rust-colored ribbed knit beanie, a clean white crew-neck t-shirt, and a thin silver chain necklace. Keep the expression neutral, calm, and thoughtful.
+
+Use soft diffused natural window light from one side, creating gentle shadows and smooth highlights across the face. Background should be a clean off-white or light beige studio wall with minimal distractions. Apply a very shallow depth of field with creamy bokeh and crisp focus on the eyes and face.
+
+Editorial fashion photography, minimalist aesthetic, premium lifestyle portrait, luxury eyewear campaign, muted warm color grading, soft contrast, realistic color tones, DSLR quality, 85mm lens, f/1.8, ISO 100, ultra-sharp focus, photorealistic, HDR, 8K, magazine-quality, high-detail facial features, natural skin, cinematic composition.
+
+Negative prompt: low quality, blurry, oversharpened, plastic skin, extra facial features, distorted anatomy, asymmetrical eyes, duplicate glasses, unrealistic beard or hair, oversaturated colors, watermark, logo, text, frame, cartoon, CGI, illustration, low resolution, noise, artifacts.
 ```
 
 </details>

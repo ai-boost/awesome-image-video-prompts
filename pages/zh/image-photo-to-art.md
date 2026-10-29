@@ -1,6 +1,6 @@
 # 照片转艺术风格
 
-[返回目录](../../README_zh.md) · 全部 103 条
+[返回目录](../../README_zh.md) · 全部 99 条
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -1295,25 +1295,6 @@ DO NOT:
 
 FINAL RESULT:
 The final image must look like the exact same target poster recreated with the person/people from the uploaded reference image(s), using their exact face, hair and clothing while preserving everything else from the target image.
-```
-
-</details>
-
-<a id="gpt-image-photo-to-paper-illustration-editorial-split-poster"></a>
-### 上半实景照片下半极简纸本插画的分栏海报
-
-<a href="https://x.com/saniaspeaks_/status/2102972265541304823"><img src="../../previews/gpt-image-photo-to-paper-illustration-editorial-split-poster.jpg" width="360"></a>
-
-严格的上下对半分栏，上半保留原照片，下半把主要元素重绘成小幅手作插画。四色上限、占比10%到20%的尺寸限制和大面积留白让画面安静克制，排除清单则避开卡通、水彩和3D质感。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2102972265541304823) · 248 赞，统计于 2026-10-28
-
-[`editorial-poster`](tags.md#tag-editorial-poster) [`photo-to-illustration`](tags.md#tag-photo-to-illustration) [`split-layout`](tags.md#tag-split-layout) [`paper-texture`](tags.md#tag-paper-texture) [`minimalist`](tags.md#tag-minimalist)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a high-end editorial poster using the uploaded photo as the exact reference, in a strict 3:4 vertical format divided horizontally into two equal 50/50 sections. Preserve the original photo faithfully in the top half, including subjects, identity, pose, clothing, objects, lighting, colors, and realistic texture, with only subtle premium editorial color grading. In the bottom half, reinterpret the most recognizable elements as a small, centered, minimalist handmade paper illustration using delicate imperfect lines, bold flat acrylic-like color shapes, subtle paper grain, organic edges, and no more than 4 colors extracted from the original photo. Keep the illustration only 10–20% of the bottom section with lots of warm off-white negative space and optional minimal editorial typography. The overall result should feel quiet, poetic, refined, artistic, premium, and like an independent art-book cover, avoiding cartoon, watercolor, colored-pencil, 3D, glossy, busy, or commercial aesthetics.
 ```
 
 </details>
@@ -2865,168 +2846,6 @@ FINAL RESULT: One complete 3:4 image, with the untouched original photograph abo
 
 </details>
 
-<a id="gpt-image-photo-to-ink-editorial-split-poster"></a>
-### 照片与黑色墨线插画上下分割海报
-
-<a href="https://x.com/TheVirtualMuse/status/2109930829942288624"><img src="../../previews/gpt-image-photo-to-ink-editorial-split-poster.jpg" width="360"></a>
-
-画面精确对半分割，上半保留参考照片，下半把主体重绘为黑色油墨块上的钢笔插画。严格的尺寸比例、黑白配色加一个可选点缀色，以及固定的手写文字位置（标题、坐标、日记句），让版式保持稳定。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@TheVirtualMuse on X](https://x.com/TheVirtualMuse/status/2109930829942288624) · 69 赞，统计于 2026-10-28
-
-[`editorial`](tags.md#tag-editorial) [`split-layout`](tags.md#tag-split-layout) [`ink-illustration`](tags.md#tag-ink-illustration) [`handwritten-typography`](tags.md#tag-handwritten-typography) [`poster`](tags.md#tag-poster)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.
-
-Divide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.
-
-1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH
-
-Use the uploaded reference photograph directly in the upper 50% of the poster.
-
-Preserve its original photographic quality, sharpness, natural lighting, and color relationships.
-
-Allow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.
-
-If required, naturally extend a small portion of the surrounding environment to fit the composition.
-
-Do not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.
-
-Do not introduce black borders, white margins, or empty edges.
-
-2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION
-
-Use a warm, near-white ivory paper background with an extremely subtle paper texture.
-
-Analyze the main subject and visual story of the uploaded reference image.
-
-Extract only the primary subject, preserving one or two essential identifying elements.
-
-Remove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.
-
-Transform the primary subject into a sophisticated black-ink editorial illustration.
-
-ILLUSTRATION STYLE:
-
-Use natural, clean pen strokes with varied line weight.
-
-Preserve an authentic hand-drawn appearance with expressive but controlled linework.
-
-Avoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.
-
-Place a large, nearly pure-black rectangular ink block behind the illustrated subject.
-
-The rectangular block should have subtly imperfect, handmade print-style edges.
-
-Keep the black background clean, with only fine paper grain and minimal noise.
-
-Avoid obvious hatching, scratches, architectural lines, or complex textures.
-
-ILLUSTRATION SCALE AND COMPOSITION:
-
-The illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.
-
-Maintain a clear visual focal point with generous negative space surrounding the illustration.
-
-3. COLOR RULES
-
-The bottom illustration must follow a strictly black-and-white color palette by default.
-
-Preserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.
-
-Ordinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.
-
-Any preserved accent color must remain strictly localized to the relevant subject or area.
-
-Never allow accent colors to spread across the entire illustration.
-
-4. TYPOGRAPHY AND EDITORIAL LAYOUT
-
-Automatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.
-
-The typography must resemble handwritten editorial annotations from an independent art publication.
-
-TOP-LEFT CORNER:
-
-Generate a short handwritten title consisting of 2–5 words, arranged across two lines.
-
-Directly beneath the title, include three short English action verbs relevant to the photograph.
-
-TOP-RIGHT CORNER:
-
-Display only two lines of geographic coordinates:
-
-Latitude
-Longitude
-
-Do not include any additional text in this area.
-
-BOTTOM-LEFT CORNER:
-
-Display the location name followed by the word "DIARY."
-
-Directly beneath it, add one short descriptive English sentence inspired by the photograph.
-
-TYPOGRAPHY STYLE:
-
-Use a rough, upright, slightly irregular handwritten typeface.
-
-Maintain subtle imperfections and a natural editorial annotation aesthetic.
-
-Avoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.
-
-5. FINAL ART DIRECTION
-
-The finished poster must combine:
-
-Authentic, high-quality photography.
-Minimalist black-and-white editorial illustration.
-Generous negative space.
-Independent art publication aesthetics.
-Quiet, restrained, sophisticated visual storytelling.
-Natural handwritten typography.
-A balanced relationship between documentary realism and expressive hand-drawn artwork.
-
-The overall result should resemble a carefully designed, collectible editorial art print.
-
-6. FINAL OUTPUT REQUIREMENTS
-
-ASPECT RATIO:
-2:3 vertical.
-
-RESOLUTION:
-High-resolution, sharp, print-quality output.
-
-COMPOSITION:
-
-Exactly 50% original reference photography on top.
-
-Exactly 50% editorial illustration on the bottom.
-
-One perfectly straight horizontal dividing line.
-
-One complete, standalone poster.
-
-RESTRICTIONS:
-
-No collages.
-No multi-poster layouts.
-No combined images.
-No unnecessary decorative elements.
-No modifications to the original subject's identity or appearance.
-No excessive illustration details.
-No changes to the original photograph's natural color relationships.
-
-FINAL GOAL:
-
-Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.
-```
-
-</details>
-
 <a id="gpt-image-watercolor-botanical-monochrome-portrait"></a>
 ### 水彩植物花纹中渐隐的黑白人像
 
@@ -3238,30 +3057,6 @@ Ultra-detailed, high-resolution traditional watercolor artwork, refined composit
 
 NEGATIVE PROMPT:
 anime, cartoon, 3D render, CGI, plastic skin, flat digital painting, overly smooth skin, distorted face, altered facial proportions, asymmetrical eyes, extra features, blurry details, harsh outlines, oversaturated colors, photorealistic photography, text, watermark, logo, signature
-```
-
-</details>
-
-<a id="gpt-image-photo-to-watercolor-travel-journal-split"></a>
-### 上方旅行照片与下方同景水彩画
-
-<a href="https://x.com/AiWithTariq/status/2103783895154237769"><img src="../../previews/gpt-image-photo-to-watercolor-travel-journal-split.jpg" width="360"></a>
-
-提示词把竖版画布分成写实照片和同景水彩两部分，并点明构图、人物、姿势和透视必须保留。松散的水彩晕染、可见的纸张纹理和象牙色纸上的手写小字，让画面像旅行手账。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@AiWithTariq on X](https://x.com/AiWithTariq/status/2103783895154237769) · 45 赞，统计于 2026-10-29
-
-[`watercolor`](tags.md#tag-watercolor) [`travel`](tags.md#tag-travel) [`split-layout`](tags.md#tag-split-layout) [`journal`](tags.md#tag-journal) [`reference-photo`](tags.md#tag-reference-photo)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration.
-Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography.
-Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic.
-Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
-Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
-Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
 ```
 
 </details>
@@ -4036,27 +3831,6 @@ HD画質ピクセルアート / 滑らかなグラデーション
 キャラクターを実際のメイプルストーリープレイヤーアバタースプライトとして生成してください。
 汎用的なピクセルアートキャラクターではなく、
 添付画像をメイプルストーリー風に変換した結果に見えること。
-```
-
-</details>
-
-<a id="gpt-image-minimalist-fairytale-children-illustration"></a>
-### 极简童话风手绘儿童插画情侣
-
-<a href="https://x.com/MissDelulu9/status/2057073936295399551"><img src="../../previews/gpt-image-minimalist-fairytale-children-illustration.jpg" width="360"></a>
-
-用具体的绘画特征定义风格：细而不完美的线条、平涂粉彩、红脸颊和纸张质感。再用一长串排除项（写实、3D、光泽、复杂阴影）把画面保持在扁平稚拙的效果。
-
-GPT Image 2 · 上传图改图 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2057073936295399551) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`children-illustration`](tags.md#tag-children-illustration) [`hand-drawn`](tags.md#tag-hand-drawn) [`pastel`](tags.md#tag-pastel) [`storybook`](tags.md#tag-storybook) [`photo-to-illustration`](tags.md#tag-photo-to-illustration)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles.
-
-Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.
 ```
 
 </details>

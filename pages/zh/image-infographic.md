@@ -1,6 +1,6 @@
 # 信息图与幻灯片
 
-[返回目录](../../README_zh.md) · 全部 89 条
+[返回目录](../../README_zh.md) · 全部 88 条
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### 詹姆斯韦伯望远镜百科信息图卡片
@@ -1864,25 +1864,6 @@ GPT Image 2 · 上传图改图 · 出处: [@nawalsehar on X](https://x.com/nawal
 
 ```text
 Create a visual skincare analysis graphic using this portrait. Feature side-by-side comparisons to identify the subject’s likely skin type (oily, dry, combination, or sensitive), visible skin concerns, hydration levels, texture, pores, and overall skin condition. Include a clear skin undertone and skin barrier analysis. Showcase personalised skincare recommendations such as suitable cleansers, moisturisers, sunscreens, serums, and ingredients that would work best for the subject’s skin. The graphic should feel like a premium dermatology/skincare consultation sheet with visual callouts, charts, highlighted facial zones, and before/after-style comparisons. Keep it visual-first using only short labels, tags, icons, arrows, and minimal text – no long paragraphs.
-```
-
-</details>
-
-<a id="gpt-image-terrestrial-life-educational-infographic-template"></a>
-### 带解剖标注的陆地生命科普信息图模板
-
-<a href="https://x.com/iamsofiaijaz/status/2113870479987753371"><img src="../../previews/gpt-image-terrestrial-life-educational-infographic-template.jpg" width="360"></a>
-
-用可替换的 [Subject] 占位符配合固定版式：中央3D插图加引线标注，再逐一点名各个数据模块，如快速档案、大小对比和保护状态。模块标题和四格微距特写栏写得具体，让模型在米色底上稳定输出清晰的文字。
-
-GPT Image 2.5 · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113870479987753371) · 140 赞，统计于 2026-10-28
-
-[`infographic`](tags.md#tag-infographic) [`educational`](tags.md#tag-educational) [`template`](tags.md#tag-template) [`anatomy`](tags.md#tag-anatomy) [`scientific`](tags.md#tag-scientific)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
 ```
 
 </details>

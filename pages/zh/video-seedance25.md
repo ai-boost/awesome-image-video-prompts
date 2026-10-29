@@ -1,6 +1,6 @@
 # Seedance 2.5
 
-[返回目录](../../README_zh.md) · 全部 164 条 · **1** · [2](video-seedance25-2.md) · [3](video-seedance25-3.md)
+[返回目录](../../README_zh.md) · 全部 163 条 · **1** · [2](video-seedance25-2.md) · [3](video-seedance25-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### 首尔地铁站复仇喜剧
@@ -2057,33 +2057,6 @@ A warm, intimate scene continuing a dark-fantasy medieval drama, shot inside a r
 
 </details>
 
-<a id="seedance-baby-dragon-secret-cottage-bond"></a>
-### 石屋里与幼龙的秘密羁绊
-
-<a href="https://x.com/SadiaMalik182/status/2113908264387981758"><img src="../../previews/seedance-baby-dragon-secret-cottage-bond.jpg" width="360"></a>
-
-三段式节奏从好奇嗅探、手喂食物到亲密特写收尾，情绪线清晰。暖色火光对冷色窗光，再加上明确的写实生物质感描述，让幼龙显得可信。
-
-Seedance 2.5 · 文生视频 · 出处: [@SadiaMalik182 on X](https://x.com/SadiaMalik182/status/2113908264387981758) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dark-fantasy`](tags.md#tag-dark-fantasy) [`creature`](tags.md#tag-creature) [`cinematic`](tags.md#tag-cinematic) [`storytelling`](tags.md#tag-storytelling) [`lighting-contrast`](tags.md#tag-lighting-contrast)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A cinematic dark-fantasy medieval scene inside a rustic stone cottage. A young woman with long, dark, tousled hair, wearing a cream lace-trimmed dress and dark woolen cloak, secretly cares for a tiny baby dragon with translucent pink skin, delicate frilled fins, glossy dark eyes, and tiny sharp claws.
-
-The baby dragon crouches on a rough wooden table, curiously sniffing a gleaming gold coin. Warm firelight flickers across its realistic, moist skin while cool daylight enters through a small stone window.
-
-The woman gently offers it a small piece of food. The dragon eagerly opens its mouth, revealing tiny sharp teeth, and flutters its delicate fins excitedly. She smiles affectionately as it leans toward her hand.
-
-End with an intimate close-up of the dragon playfully taking the food while the woman watches with a tender smile, their secret bond growing stronger.
-
-Photorealistic creature textures, realistic anatomy, natural human expressions, cinematic camera movement, shallow depth of field, warm amber firelight contrasted with cool grey daylight, muted earthy colors, subtle film grain, prestige television quality, 16:9 widescreen, 24fps, no cartoon appearance, consistent character design, believable creature movement, emotional storytelling.
-```
-
-</details>
-
 <a id="seedance-bali-travel-vlog-eight-scene-montage"></a>
 ### 巴厘岛八场景旅行 vlog 短片
 
@@ -3651,6 +3624,58 @@ COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast,
 STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
 
 CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
+```
+
+</details>
+
+<a id="seedance-gym-vlog-leg-day-dv-camcorder"></a>
+### 健身房 vlog 中腿练完的疲惫女孩
+
+<a href="https://x.com/QAiStudio/status/2102992059938587000"><img src="../../previews/seedance-gym-vlog-leg-day-dv-camcorder.jpg" width="360"></a>
+
+提示词按 CAMERA、LOOK、STYLE 分段，再加上带时长和台词的分镜表。把镜头设定为角色本人的第一视角，并刻意加入抖动、迟滞对焦和切头构图，营造自拍式 DV 质感；同时禁止镜头入画，保持沉浸感。
+
+Seedance 2.5 · 文生视频 · 出处: [@QAiStudio on X](https://x.com/QAiStudio/status/2102992059938587000) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dv-tape-look`](tags.md#tag-dv-tape-look) [`handheld-pov`](tags.md#tag-handheld-pov) [`gym-vlog`](tags.md#tag-gym-vlog) [`dialogue-storyboard`](tags.md#tag-dialogue-storyboard)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+**CAMERA:**
+DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on a rack or bench. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+**LOOK:**
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
+
+**STYLE:**
+Playful, self-deprecating gym-vlog tone — exaggerated complaining, genuine laughs, exhausted-but-amused energy. Quick handheld cuts, slightly wobbly camera movement matching her shaky legs.
+
+**Character**
+
+CHASE — Korean idol in her 20s. Long black hair in a high ponytail, glowing skin with a heavy post-workout sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings (arms and torso fully covered), sneakers, towel around neck, no jewelry.
+
+**Setting**
+
+A gym in the evening — squat rack, leg press machine, a water fountain across the room, mirror wall, soft overhead lighting.
+
+**Storyboard**
+
+1. *(~2s, propped camera at squat rack, medium shot)* She stands, hands on hips, catching her breath, dramatic exhale. CHASE: "Okay... leg day is not it today."
+
+2. *(~2s, handheld, close on her face)* She winces, shaking out one leg, laughing at herself. CHASE: "Why did I do that many reps—"
+
+3. *(~2s, medium propped shot, leg press machine)* She sits down, pushes through a rep, face straining, then flops back with a groan. CHASE: "Okay that's it, I'm done, I'm so done."
+
+4. *(~1.5s, macro insert, shallow DOF)* Close-up on her hand gripping the machine handle, knuckles slightly tense. No dialogue — ambient gym sound only.
+
+5. *(~2s, handheld, walking, camera wobbling)* She stands up and immediately wobbles, grabbing the rack for balance, bursting into laughter. CHASE: "Wait— okay my legs are literally shaking—"
+
+6. *(~2s, handheld, unsteady walk)* She takes exaggerated, wobbly steps toward the water fountain, camera bouncing with her uneven gait. CHASE (laughing): "This is so embarrassing, someone help me—"
+
+7. *(~1.5s, close handheld, at the fountain)* She leans down for a sip of water, sighs in relief, wipes her mouth with the back of her hand. CHASE: "Okay... water is life right now."
+
+8. *(~2s, arm's-length selfie finish)* She leans against the wall, still catching her breath, grinning tiredly at the lens. CHASE: "Never doing legs again — see you guys, I'm going to go lie down somewhere."
 ```
 
 </details>

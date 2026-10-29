@@ -1,6 +1,6 @@
 # Infographics and slides
 
-[Back to the list](../../README.md) · All 89 entries
+[Back to the list](../../README.md) · All 88 entries
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### Encyclopedia infographic card of the James Webb Telescope
@@ -1864,25 +1864,6 @@ GPT Image 2 · Edit · Source: [@nawalsehar on X](https://x.com/nawalsehar/statu
 
 ```text
 Create a visual skincare analysis graphic using this portrait. Feature side-by-side comparisons to identify the subject’s likely skin type (oily, dry, combination, or sensitive), visible skin concerns, hydration levels, texture, pores, and overall skin condition. Include a clear skin undertone and skin barrier analysis. Showcase personalised skincare recommendations such as suitable cleansers, moisturisers, sunscreens, serums, and ingredients that would work best for the subject’s skin. The graphic should feel like a premium dermatology/skincare consultation sheet with visual callouts, charts, highlighted facial zones, and before/after-style comparisons. Keep it visual-first using only short labels, tags, icons, arrows, and minimal text – no long paragraphs.
-```
-
-</details>
-
-<a id="gpt-image-terrestrial-life-educational-infographic-template"></a>
-### Terrestrial Life educational infographic template with labeled anatomy
-
-<a href="https://x.com/iamsofiaijaz/status/2113870479987753371"><img src="../../previews/gpt-image-terrestrial-life-educational-infographic-template.jpg" width="360"></a>
-
-A reusable [Subject] slot sits inside a fixed layout: a central 3D illustration with pointer line labels, then named data modules such as Quick Profile, Size Comparison and Conservation Status. Quoted module titles and a four-cell macro close-up column make the model render consistent, legible text on a beige palette.
-
-GPT Image 2.5 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113870479987753371) · 140 likes on 2026-10-28
-
-[`infographic`](tags.md#tag-infographic) [`educational`](tags.md#tag-educational) [`template`](tags.md#tag-template) [`anatomy`](tags.md#tag-anatomy) [`scientific`](tags.md#tag-scientific)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
 ```
 
 </details>

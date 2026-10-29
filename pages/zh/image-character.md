@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 72 条
+[返回目录](../../README_zh.md) · 全部 70 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -269,113 +269,6 @@ Row 4:
 
 Format:
 4x4 grid, cinematic portrait photography style, neutral background, tight close-up framing, shallow depth of field, no watermark.
-```
-
-</details>
-
-<a id="gpt-image-character-dance-pose-sheet-4x4"></a>
-### 动漫角色4x4舞蹈姿势表
-
-<a href="https://x.com/Mayz1169/status/2099457417528692871"><img src="../../previews/gpt-image-character-dance-pose-sheet-4x4.jpg" width="360"></a>
-
-用编号的16步编舞清单,从开场姿势到收尾剪影,让每格动作各有分工。严格锁定参考图角色身份,配合固定机位、白底网格和禁止项清单,保证16格角色一致。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2099457417528692871) · 391 赞，统计于 2026-10-28
-
-[`pose-sheet`](tags.md#tag-pose-sheet) [`dance`](tags.md#tag-dance) [`character-consistency`](tags.md#tag-character-consistency) [`grid`](tags.md#tag-grid) [`anime`](tags.md#tag-anime)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
-
-CHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
-
-ADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion.
-
-Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
-
-Use the following movement structure, adapting each action to the character:
-1. Opening pose that establishes the character’s personality.
-2. Small rhythmic step with a coordinated arm gesture.
-3. Side step with one arm extended.
-4. Compact expressive gesture near the face or upper body.
-5. Grounded stance with arms crossing or sweeping inward.
-6. Knee lift or an anatomically appropriate weight shift.
-7. Open, expansive pose with arms spread.
-8. Playful or expressive balance pose.
-9. Turning pose showing a three-quarter rear view.
-10. Forward-reaching movement with a diagonal body lean.
-11. Strong upward-reaching accent.
-12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
-13. Lowered stance with a forward gesture.
-14. Elegant or dynamic side-facing transition.
-15. Signature gesture that suits the character.
-16. Confident final pose with a clear finishing silhouette.
-
-COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
-
-AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
-
-Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
-```
-
-</details>
-
-<a id="gpt-image-maid-character-4x4-dance-pose-sheet"></a>
-### 女仆角色 4x4 舞蹈姿势图
-
-<a href="https://x.com/Mayz1169/status/2103139749540339890"><img src="../../previews/gpt-image-maid-character-4x4-dance-pose-sheet.jpg" width="360"></a>
-
-用编号的动作结构从开场姿势排到收尾造型，固定镜头、纯白背景和单张参考图让16个分格中的服装、比例和角色大小保持一致。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2103139749540339890) · 373 赞，统计于 2026-10-29
-
-[`pose-sheet`](tags.md#tag-pose-sheet) [`anime`](tags.md#tag-anime) [`dance`](tags.md#tag-dance) [`character-sheet`](tags.md#tag-character-sheet)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
-
-CHARACTER CONSISTENCY
-Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.
-
-ADAPTIVE CHOREOGRAPHY
-Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.
-
-Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.
-
-Use the following movement structure, adapting each action to the character:
-
-1. Opening pose that establishes the character’s personality.
-2. Small rhythmic step with a coordinated arm gesture.
-3. Side step with one arm extended.
-4. Compact expressive gesture near the face or upper body.
-5. Grounded stance with arms crossing or sweeping inward.
-6. Knee lift or an anatomically appropriate weight shift.
-7. Open, expansive pose with arms spread.
-8. Playful or expressive balance pose.
-9. Turning pose showing a three-quarter rear view.
-10. Forward-reaching movement with a diagonal body lean.
-11. Strong upward-reaching accent.
-12. Climactic jump or a grounded full-body extension if jumping is unsuitable.
-13. Lowered stance with a forward gesture.
-14. Elegant or dynamic side-facing transition.
-15. Signature gesture that suits the character.
-16. Confident final pose with a clear finishing silhouette.
-
-COMPOSITION AND PRESENTATION
-Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.
-
-Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.
-
-Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.
-
-AVOID
-Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.
-
-Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
 ```
 
 </details>

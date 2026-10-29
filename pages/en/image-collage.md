@@ -1,6 +1,6 @@
 # Collage
 
-[Back to the list](../../README.md) · All 81 entries
+[Back to the list](../../README.md) · All 79 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine accidental phone snapshots of any character
@@ -299,41 +299,6 @@ Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofa
     ]
   }
 }
-```
-
-</details>
-
-<a id="nano-banana-real-rock-ink-cartoon-boy-composite"></a>
-### Ink Cartoon Boy Carrying a Real Rock
-
-<a href="https://x.com/ShamsAmin56/status/2061689192661307402"><img src="../../previews/nano-banana-real-rock-ink-cartoon-boy-composite.jpg" width="360"></a>
-
-A template with placeholders for a real object and the part of the drawing it replaces, so the photo and the line art complete one visual pun. Pairing a photorealistic object with bold black line art on a white background keeps the blend clean.
-
-Nano Banana 2 · Text-to-image · Source: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2061689192661307402) · 321 likes on 2026-10-28
-
-[`composite`](tags.md#tag-composite) [`line-art`](tags.md#tag-line-art) [`visual-pun`](tags.md#tag-visual-pun) [`template`](tags.md#tag-template) [`white-background`](tags.md#tag-white-background)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Creative composite photograph, 9:16 vertical aspect ratio, clean minimalist white background, studio lighting, high detail, sharp focus.
-
-A real-life [EVERYDAY OBJECT] is physically placed and perfectly integrated as a key part of a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading, like a quick sketch on paper.
-
-The [OBJECT] represents [CLEVER PART OF THE SCENE - e.g. hair, weapon, body part, clothing, etc.], cleverly completing the visual pun or concept. The cartoon character interacts dynamically with the object in a humorous, meaningful, or surprising way.
-
-Photorealistic object + bold black line drawing style, perfect seamless blend between real object and illustration, clean negative space, artistic and witty concept, high quality product photography mixed with doodle art.
-
-• How to edit super easy
-
-Just replace the placeholders:
-
-[EVERYDAY OBJECT] → what real thing you'll use (tomato,
-onion, chips, etc.)
-
-[CLEVER PART OF THE SCENE] → what the object becomes in the drawing
-Then customize the character and concept
 ```
 
 </details>
@@ -2969,37 +2934,6 @@ GPT Image 2 · Edit · Source: [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/sta
 
 ```text
 A high-contrast, energetic digital collage on a vibrant solid red gradient background. Large uppercase text across the top reads “AvelyrahnAI” in a clean, modern font. The composition features two distinct, confident images of the same young woman, whose specific face and elaborate side-braid hairstyle are 100% accurate to the reference The large upper portrait shows her smiling confidently, wearing a light pink hoodie, stylish sunglasses on her head, and a modern wristwatch, with one hand near her hair. The second, smaller full-body image in front shows her in a dynamic, playful dancing/stepping pose, wearing a dark green button-up shirt, black tailored trousers, sunglasses, and a trendy watch. A small signature-style watermark "AvelyrahnAi creation" is on the side, and a subtle YouTube logo with link text "Pardesilog386" is at the bottom. The lighting is bright and smooth, giving a slightly airbrushed, edited Photoshop look.
-```
-
-</details>
-
-<a id="gpt-image-scrapbook-mini-me-figurines-doodles"></a>
-### Scrapbook photo with chibi mini selves and doodles
-
-<a href="https://x.com/Kashberg_0/status/2050272100884340783"><img src="../../previews/gpt-image-scrapbook-mini-me-figurines-doodles.jpg" width="360"></a>
-
-The prompt locks identity, pose, lighting and background first, then layers on additions: collectible figurine minis doing varied activities, then handwritten doodles tied to scene elements. A closing line demands the SAME image enhanced, not recreated, which keeps the reference intact.
-
-GPT Image 2 · Edit · Source: [@Kashberg_0 on X](https://x.com/Kashberg_0/status/2050272100884340783) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`scrapbook`](tags.md#tag-scrapbook) [`chibi`](tags.md#tag-chibi) [`mini-figurine`](tags.md#tag-mini-figurine) [`doodle-overlay`](tags.md#tag-doodle-overlay) [`pastel`](tags.md#tag-pastel)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background.
-
-Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing).
-
-Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene.
-
-Use a soft pastel color palette (white base with pink, peach, blue accents).
-
-Keep the frame visually rich and filled but balanced and clean.
-
-Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful.
-
-The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene.
 ```
 
 </details>

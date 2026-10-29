@@ -1,6 +1,6 @@
 # Illustration
 
-[Back to the list](../../README.md) · All 106 entries
+[Back to the list](../../README.md) · All 104 entries
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### Anime style panorama of Shibuya Crossing from map screenshot
@@ -479,65 +479,6 @@ Nano Banana 2 · Text-to-image · Source: [@churvikv on X](https://x.com/churvik
 
 ```text
 A surreal landscape featuring a lone figure standing beneath a large tree with glowing purple leaves on a cliff edge, overlooking a distant mountain at sunset. A stream of luminous turquoise water flows down the cliff, emitting magical sparkles. The scene is bathed in soft pastel colors, creating a tranquil and mystical atmosphere.
-```
-
-</details>
-
-<a id="gpt-image-paper-craft-travel-postcard-diorama"></a>
-### Paper Craft Travel Postcard Diorama of Tokyo
-
-<a href="https://x.com/itxabdullaa/status/2090726810442952830"><img src="../../previews/gpt-image-paper-craft-travel-postcard-diorama.jpg" width="360"></a>
-
-A JSON prompt with a single DESTINATION placeholder swaps the whole scene, while separate keys for landmarks, materials, texture, lighting and palette keep the handmade look consistent. Generous negative space, a vertical 9:16 frame and a small handwritten caption give it a postcard finish.
-
-GPT Image 2 · Text-to-image · Source: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2090726810442952830) · 160 likes on 2026-10-29
-
-[`diorama`](tags.md#tag-diorama) [`paper-craft`](tags.md#tag-paper-craft) [`travel-postcard`](tags.md#tag-travel-postcard) [`json-prompt`](tags.md#tag-json-prompt) [`template`](tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-"concept": "A charming miniature 3D travel diorama inspired by [DESTINATION], designed as an elegant handmade postcard.",
-    "scene": "Create a narrow floating landscape strip featuring tiny handcrafted versions of the destination's most recognizable landmarks, architecture, and cultural details. Arrange the elements naturally as a compact miniature world.",
-    "landmarks": {
-      "description": "Include iconic local landmarks recreated as miniature paper-craft models using layered paper, clay, painted wood, cardboard, and other handcrafted materials.",
-      "details": "Add tiny local transportation, miniature trees, streetlights, pathways, water features, birds, fluffy clouds, and other subtle environmental elements that help identify [DESTINATION]."
-    },
-    "travel_elements": {
-      "airplane": "Place a tiny handcrafted airplane above the scene with a delicate dotted flight trail.",
-      "atmosphere": "Include subtle postcard-inspired travel details while keeping the overall composition uncluttered."
-    },
-    "materials": "Paper, folded cardstock, handmade clay, lightweight wood, cardboard, miniature craft materials, and tactile handmade surfaces.",
-    "texture": "Show realistic miniature textures, visible paper fibers, gentle folds, tiny imperfections, handcrafted edges, subtle paint variations, and authentic artisanal details.",
-    "background": "Soft white textured paper background with a clean studio-like appearance and generous negative space surrounding the miniature landscape.",
-    "lighting": "Gentle natural diffused lighting with soft highlights, delicate ambient shadows, and subtle depth that emphasizes the handcrafted miniature forms.",
-    "color_palette": "Soft pastel colors with warm, muted, harmonious tones and a light whimsical travel-postcard feel.",
-    "composition": {
-      "layout": "Minimal, centered, airy composition.",
-      "orientation": "Vertical 9:16.",
-      "negative_space": "Leave generous clean space around the miniature scene to create an elegant premium postcard aesthetic."
-    },
-    "typography": {
-      "text": "[DESTINATION]",
-      "placement": "Centered near the bottom of the image.",
-      "style": "Small, elegant handwritten lettering that feels delicate and refined."
-    },
-    "visual_style": [
-      "miniature diorama",
-      "handcrafted paper sculpture",
-      "3D paper art",
-      "travel postcard illustration",
-      "whimsical miniature world",
-      "soft pastel aesthetic",
-      "macro photography look",
-      "tactile handmade textures",
-      "delicate craftsmanship",
-      "cozy artistic atmosphere",
-      "high-resolution detail"
-    ],
-    "final_result": "A polished yet charming miniature travel postcard that feels physically handcrafted, photographed like a tiny real-world diorama, with a magical, cozy, premium artistic quality."
-  }
-}
 ```
 
 </details>
@@ -2413,25 +2354,6 @@ GPT Image 2 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/
 
 ```text
 Create a serene painterly landscape of a misty lake at sunrise, in a romantic impressionist oil-painting style. The scene shows a calm reflective pond filled with lily pads and exactly 14 visible water lilies: 5 prominent blossoms in the lower-left foreground, 1 small blossom near the center-left water, 2 blossoms just left of the heron, and 6 blossoms scattered across the right-side lily pads. Place a single elegant great blue heron standing in shallow water slightly right of center, facing left, with long legs, an orange beak, blue-gray feathers, and a clear reflection in the water. In the right background, include a graceful willow-like tree with drooping branches covered in pale pink blossoms, leaning over the water; surround it with reeds and soft greenery. The horizon is hazy with distant trees, low morning fog, and a glowing sun near the center, casting peach, coral, lavender, and gold reflections across the lake. Use a wide cinematic canvas, soft brushstrokes, pastel colors, atmospheric depth, gentle ripples, and a peaceful spiritual mood. Emphasize luminous sunrise light, mirrored reflections, blooming water lilies, reeds, and tranquil stillness. No text, no people, no buildings, no harsh outlines, no photorealistic sharpness.
-```
-
-</details>
-
-<a id="gpt-image-misty-lotus-pond-heron-sunrise"></a>
-### Impressionist Heron at Misty Lotus Pond Sunrise
-
-<a href="https://x.com/churvikv/status/2055338157554491549"><img src="../../previews/gpt-image-misty-lotus-pond-heron-sunrise.jpg" width="360"></a>
-
-The prompt fixes an exact count and placement of water lilies, then pins the heron, sun and willow to named positions, which keeps the wide composition stable. A named pastel palette and loose brushstroke cues hold the impressionist oil look.
-
-GPT Image 2 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2055338157554491549) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`impressionist`](tags.md#tag-impressionist) [`oil-painting`](tags.md#tag-oil-painting) [`landscape`](tags.md#tag-landscape) [`sunrise`](tags.md#tag-sunrise) [`heron`](tags.md#tag-heron)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a serene impressionist oil painting of a misty lotus pond at sunrise, with a great blue heron standing in shallow water slightly right of center among tall reeds and lily pads. The wide horizontal composition shows calm reflective water filling the foreground and middle ground, with exactly 14 visible water lilies: 3 large blossoms clustered at the lower left, 1 bud near them, 3 small pink blossoms near the center, 1 white blossom and 1 pink blossom beside the heron, 4 blossoms scattered across the right-side lily pads, and 1 small blossom near the far right reeds. Add many round green lily pads, soft ripples, and a clear reflected silhouette of the heron in the water. In the background, place a hazy tree line and a graceful willow-like tree on the right bank covered in pale pink blossoms and drooping branches. The sun sits low near the horizon in the center-left, glowing through peach, coral, lavender, and pale blue clouds, with warm golden light reflecting as a vertical path across the pond. Use a dreamy pastel palette, loose visible brushstrokes, atmospheric mist, romantic tranquil mood, painterly realism, soft edges, no text, no people, no buildings, no harsh contrast. Customize the scene with sunrise, pink and white, peach, coral, lavender, and pale blue, and impressionist oil painting.
 ```
 
 </details>

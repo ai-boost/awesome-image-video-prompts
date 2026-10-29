@@ -19,31 +19,31 @@
 ## Contents
 
 - [Recently added](#recent)
-- [Video prompts](#video) (379 entries)
+- [Video prompts](#video) (378 entries)
   - [Wan 3.0](#wan30) (18)
   - [MiniMax H3](#minimaxh3) (93)
-  - [Seedance 2.5](#seedance25) (164)
+  - [Seedance 2.5](#seedance25) (163)
   - [Gemini Omni Flash](#geminiomniflash) (29)
   - [Kling 4.0](#kling40) (26)
   - [Kling 3.0](#kling30) (29)
   - [Veo 3.1](#veo31) (11)
   - [Veo 3](#veo3) (5)
   - [Sora 2](#sora2) (4)
-- [Image prompts](#image) (1176 entries)
-  - [Posters and editorial layouts](#img-poster) (199)
-  - [Infographics and slides](#img-infographic) (89)
+- [Image prompts](#image) (1146 entries)
+  - [Posters and editorial layouts](#img-poster) (187)
+  - [Infographics and slides](#img-infographic) (88)
   - [Phone and UI mockups](#img-ui-mockup) (28)
-  - [Product shots and e-commerce](#img-product) (71)
-  - [Logos, ads and packaging](#img-brand) (26)
-  - [Photo realism](#img-realism) (85)
-  - [Portraits](#img-portrait) (217)
-  - [Characters and figures](#img-character) (72)
-  - [Illustration](#img-illustration) (106)
+  - [Product shots and e-commerce](#img-product) (70)
+  - [Logos, ads and packaging](#img-brand) (25)
+  - [Photo realism](#img-realism) (84)
+  - [Portraits](#img-portrait) (213)
+  - [Characters and figures](#img-character) (70)
+  - [Illustration](#img-illustration) (104)
   - [Comics and storyboards](#img-comic) (20)
-  - [Photo to art](#img-photo-to-art) (103)
+  - [Photo to art](#img-photo-to-art) (99)
   - [Architecture and interiors](#img-architecture) (23)
   - [Maps](#img-map) (15)
-  - [Collage](#img-collage) (81)
+  - [Collage](#img-collage) (79)
   - [Photo editing](#img-edit) (41)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
@@ -55,14 +55,14 @@
 ## Recently added
 
 - 2026-10-29 · [Coca Cola tanker leaking beside Mentos truck](#gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam) · GPT Image 2.5
-- 2026-10-29 · [Coca Cola tanker leaking beside Mentos truck on highway](#gpt-image-coca-cola-tanker-mentos-truck-dashcam) · GPT Image 2.5
+- 2026-10-29 · [Isometric Anime World Map Diorama Poster](#gpt-image-isometric-anime-world-map-diorama-poster) · GPT Image 2
 - 2026-10-29 · [Charmander uses Ember on a sunset route](#nano-banana-charmander-ember-route-101) · Nano Banana 2
+- 2026-10-29 · [Dim bedroom selfie in Photo Booth on laptop](#gpt-image-macbook-screen-photo-booth-selfie) · GPT Image 2
 - 2026-10-29 · [Blonde woman selfie with tongue out](#nano-banana-tongue-out-selfie-engraved-heart-pendant) · Nano Banana 2
+- 2026-10-29 · [Isometric TV Show World Map Diorama Poster](#gpt-image-tv-show-world-isometric-map-diorama) · GPT Image 2
 - 2026-10-29 · [Inflated 3D logotypes with spikes in one colour](#nano-banana-inflated-3d-logotype-spikes) · Nano Banana 2
 - 2026-10-29 · [Adidas runner and Red Bull F1 in muted grid](#nano-banana-brand-grid-poster-template) · Nano Banana 2
-- 2026-10-29 · [Muted grid poster with runner, ball and race car](#nano-banana-muted-brand-grid-poster) · Nano Banana 2
 - 2026-10-29 · [Monkey D. Luffy in red streetwear poster](#gpt-image-luffy-streetwear-poster) · GPT Image 2
-- 2026-10-29 · [Embroidered brand crests on waffle-knit cotton](#nano-banana-embroidered-brand-crest-waffle-knit-2) · Nano Banana 2
 - 2026-10-29 · [Embroidered heritage crests on waffle-knit cotton](#nano-banana-embroidered-brand-crest-waffle-knit) · Nano Banana 2
 - 2026-10-29 · [Tanjiro 16 frame pixel sprite sheet with water attack](#gpt-image-tanjiro-pixel-sprite-sheet-water-attack) · GPT Image 2.5
 - 2026-10-29 · [Model holds open earbud case in ad poster](#gpt-image-pink-hair-earbud-case-infographic) · GPT Image 2
@@ -844,7 +844,7 @@ Natural diegetic audio only. No music, narration, CGI look, artificial rain, fac
 
 </details>
 
-**[All 164 entries](pages/en/video-seedance25.md)**
+**[All 163 entries](pages/en/video-seedance25.md)**
 
 <a id="geminiomniflash"></a>
 ## Gemini Omni Flash
@@ -1731,65 +1731,6 @@ PHASE 5: MINIMALIST BRANDING.
 
 </details>
 
-<a id="nano-banana-muted-brand-grid-poster"></a>
-### Muted grid poster with runner, ball and race car
-
-<a href="https://x.com/AmirMushich/status/2028115573859565716"><img src="previews/nano-banana-muted-brand-grid-poster.jpg" width="360"></a>
-
-The prompt layers the subject with the background, so the runner sits behind geometric blocks while his arm and legs overlap them for depth. A muted palette with flat matte blocks and a single-colour logo keeps the 2x2 grid cohesive, and the brand name slot makes the template reusable.
-
-Nano Banana 2 · Text-to-image · Source: [@AmirMushich on X](https://x.com/AmirMushich/status/2028115573859565716) · 2,570 likes on 2026-10-29
-
-[`poster`](pages/en/tags.md#tag-poster) [`grid-layout`](pages/en/tags.md#tag-grid-layout) [`muted-palette`](pages/en/tags.md#tag-muted-palette) [`brand-template`](pages/en/tags.md#tag-brand-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-(access Nano Banana 2 here:
-https://
-amirmushich.link/LTX_NBP)
-
-[BRAND NAME]. Act as a World-Class Editorial Designer.
-
-PHASE 1: DYNAMIC SUBJECT LOGIC.
-
-- Subject Selection: Autonomously analyze [BRAND NAME].
-
-- Layering (The Sandwich Effect): Interweave the subject with background shapes. Some parts of the car/person must be hidden behind geometric blocks, while other parts (wheels, limbs, props) must overlap them to create 3D depth.
-
-PHASE 2: GRID & GEOMETRY.
-
-- Layout: A clean 2x2 grid composition.
-
-- Overlays: Superimpose large, bold geometric arcs and circles over the grid.
-
-- Visual Balance: Place one iconic product prop (e.g., a floating key fob for cars or a ball for sports) in a separate quadrant to balance the subject.
-
-PHASE 3: SOPHISTICATED MUTED PALETTE.
-
-- Color Direction: DO NOT use aggressive neon or oversaturated colors.
-
-- Palette: Identify the core colors of [BRAND NAME] and shift them to a "Sophisticated Muted" spectrum.
-
-- Tones: Use desaturated, earthy, or "dusty" versions of the brand colors (e.g., instead of hot pink, use dusty rose; instead of bright mint, use sage green; instead of royal blue, use slate blue).
-
-- Finish: Matte, flat color blocks with zero gradients.
-
-PHASE 4: PHOTOGRAPHY & LIGHTING.
-
-- Subject Style: High-end commercial studio photography.
-
-- Lighting: Soft, diffused studio lighting with gentle highlights. No harsh shadows.
-
-- Integration: The subject must feel physically embedded into the graphic grid.
-
-PHASE 5: MINIMALIST BRANDING.
-
-- Logo: Place a clean, single-color [BRAND NAME] logo in the center of one background block. No taglines, just the iconic symbol.
-```
-
-</details>
-
 <a id="gpt-image-luffy-streetwear-poster"></a>
 ### Monkey D. Luffy in red streetwear poster
 
@@ -1874,7 +1815,107 @@ Poster-quality composition
 
 </details>
 
-**[All 199 entries](pages/en/image-poster.md)**
+<a id="nano-banana-monoline-city-travel-poster-kyoto"></a>
+### Kyoto Street Monoline Travel Poster in Red
+
+<a href="https://x.com/Goodmanprotocol/status/2052974175435026714"><img src="previews/nano-banana-monoline-city-travel-poster-kyoto.jpg" width="360"></a>
+
+A destination placeholder lets one template serve any city. The prompt fixes a one ink plus one background palette with examples per city, asks for dense monoline detail and local language signage, and sets a text quality clause to keep the typography readable.
+
+Nano Banana 2 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2052974175435026714) · 1,436 likes on 2026-10-29
+
+[`travel-poster`](pages/en/tags.md#tag-travel-poster) [`line-art`](pages/en/tags.md#tag-line-art) [`monochrome`](pages/en/tags.md#tag-monochrome) [`swiss-modernist`](pages/en/tags.md#tag-swiss-modernist) [`template`](pages/en/tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-high-resolution minimalist line-art travel poster of [DESTINATION], portraying the city as a stylish everyday urban scene rather than a tourist postcard.
+
+CORE COMPOSITION:
+- Central composition shows the city’s most iconic street, intersection, alley, tram street, or pedestrian avenue
+- Foreground includes locals, commuters, cyclists, travelers, shoppers, students, café visitors
+- People should naturally reflect the city’s local lifestyle and fashion culture
+- Background filled with realistic local signage, cafés, restaurants, transportation signs, storefronts, and architectural details
+- Landmarks should appear naturally integrated into everyday life, never exaggerated
+- Include authentic local-language typography and culturally recognizable visual elements
+- Large bold typography at the top center:
+  “[DESTINATION]”
+- Subtitle below:
+  local language + country name
+  examples:
+  東京 JAPAN
+  서울 KOREA
+  ΚΟΛΩΝΙΑ GERMANY
+
+STYLE:
+ultra clean vector illustration,
+Swiss modernist travel poster,
+minimal line art,
+monoline drawing,
+mid-century editorial aesthetic,
+architectural illustration,
+Japanese graphic poster style,
+precise geometric perspective,
+extremely clean negative space,
+premium travel branding aesthetic
+
+LINE STYLE:
+- monochrome line-based illustration only
+- thin and highly precise linework
+- minimal fill areas
+- intricate city-map-like detail density
+- rhythmic layering of signs, buildings, windows, and street objects
+- visually dense yet highly organized composition
+
+COLOR SYSTEM — VERY IMPORTANT:
+- use only ONE main color + ONE background color
+- automatically choose a color that best represents the city’s atmosphere
+- monochrome silkscreen poster aesthetic
+- no rainbow palettes
+- no excessive neon
+- color should reflect the city’s architecture, climate, nightlife, and cultural identity
+
+Examples:
+Tokyo → vivid red on warm ivory
+Paris → deep navy on cream
+New York → charcoal black on light gray
+Kyoto → muted burgundy on warm cream
+Hong Kong → teal blue on pale ivory
+Santorini → Mediterranean blue on white
+Cairo → desert sepia on sand beige
+
+COMPOSITION:
+- vertical poster layout
+- frontal street-level perspective
+- pedestrians crossing streets or moving naturally
+- balanced urban rhythm and visual flow
+- should feel like a premium city-brand campaign poster
+
+MOOD:
+stylish urban life,
+calm but lively,
+editorial travel magazine cover,
+timeless city identity,
+premium tourism campaign visual,
+minimal yet highly detailed
+
+TEXT QUALITY — EXTREMELY IMPORTANT:
+- all typography must be readable and accurate
+- no random characters
+- no broken or distorted letters
+- local signage should feel authentic and natural
+- professional editorial typography alignment
+
+OUTPUT:
+- vertical poster composition
+- 8K ultra detailed
+- print-ready
+- ultra sharp vector quality
+```
+
+</details>
+
+**[All 187 entries](pages/en/image-poster.md)**
 
 <a id="img-infographic"></a>
 ## Infographics and slides
@@ -2049,7 +2090,7 @@ Generate a detailed infographic showcasing the qualifying results for the Austra
 
 </details>
 
-**[All 89 entries](pages/en/image-infographic.md)**
+**[All 88 entries](pages/en/image-infographic.md)**
 
 <a id="img-ui-mockup"></a>
 ## Phone and UI mockups
@@ -2343,7 +2384,7 @@ Check ALTs for ideas 👇
 
 </details>
 
-**[All 71 entries](pages/en/image-product.md)**
+**[All 70 entries](pages/en/image-product.md)**
 
 <a id="img-brand"></a>
 ## Logos, ads and packaging
@@ -2393,63 +2434,6 @@ Background: pure white (#FFFFFF) — clinical studio isolation. Zero texture, ze
 PHASE 4: TECH SPECS
 
 Render engine: Octane Render or Redshift — physically accurate subsurface scattering mandatory. Global illumination: large soft HDRI dome light, neutral white temperature 5500K. No directional shadows. No rim lights. No background elements. Ray tracing: on — for accurate specular and inter-reflection between letter surfaces. Anti-aliasing: maximum — edges must be razor-clean against white background. Output feel: this is a CGI product render, not AI art. Precision over expressionism. Aspect ratio: 1:1 square — centered composition with breathing room on all four sides.
-```
-
-</details>
-
-<a id="nano-banana-embroidered-brand-crest-waffle-knit-2"></a>
-### Embroidered brand crests on waffle-knit cotton
-
-<a href="https://x.com/AmirMushich/status/2044829428513931398"><img src="previews/nano-banana-embroidered-brand-crest-waffle-knit-2.jpg" width="360"></a>
-
-A single [BRAND NAME] slot is resolved by each brand's own logo, while fixed macro camera settings, flat overhead light and an explicit waffle-grid background keep every result on the same textile set. The thread colour follows the brand's signature colour and falls back to navy when none dominates.
-
-Nano Banana 2 · Text-to-image · Source: [@AmirMushich on X](https://x.com/AmirMushich/status/2044829428513931398) · 1,604 likes on 2026-10-29
-
-[`embroidery`](pages/en/tags.md#tag-embroidery) [`macro-photo`](pages/en/tags.md#tag-macro-photo) [`textile`](pages/en/tags.md#tag-textile) [`brand-logo`](pages/en/tags.md#tag-brand-logo)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-(access Nano Banana 2 here:
-https://
-amirmushich.link/AMIR-LTX)
-
-[BRAND NAME]
-
-Act as a Macro Product Photographer and Textile Art Director shooting a close-up editorial campaign of a premium embroidered garment. References: Loro Piana fabric campaigns, Brunello Cucinelli texture photography, A.P.C. garment detail shoots, Japanese boro textile documentation.
-
-PHASE 0: BRAND LOGO INTELLIGENCE
-
-Retrieve the canonical logotype or primary mark of [BRAND NAME] from training data. Identify the core geometric essence of the logo — its fundamental shapes, stroke relationships, and compositional balance. Translate this identity into an embroidery-native form language: sharp geometric elements become satin stitch bars and needle-point spikes, circular elements become dense satin stitch ovals or French knot clusters, complex letterforms are simplified into their most essential strokes while remaining recognizable. The embroidery interpretation must feel like a deliberate premium interpretation of the brand mark — as if [BRAND NAME]'s design team commissioned an embroidery artist to translate their logo into thread. Autonomously determine the thread color most iconic to [BRAND NAME] — this becomes the primary embroidery thread color. If [BRAND NAME] has no dominant single color, default to deep navy #1A2332.
-
-PHASE 1: TEXTILE BACKGROUND
-
-The background is a premium waffle-knit cotton fabric — the weave structure is a precise geometric grid of raised square cells, each cell approximately 2×2mm equivalent, separated by thin recessed channels running both horizontally and vertically. The raised nodes of each cell are flat-topped, not rounded — creating a regular orthogonal relief pattern across the entire surface. The fabric color is cold off-white — #F0F0EE to #EBEBEA range, with a very slight cool gray bias, not warm ecru or cream. The weave is consistent and uniform across the entire frame — machine precision, no tension variation, no distortion. Microscopic fiber fuzz is visible on the flat tops of the raised nodes — individual cotton fibers catching the diffused overhead light as a very fine surface bloom. The recessed channels between cells are in soft shadow — not deep shadow, just slightly darker than the raised nodes, consistent with flat overhead illumination.
-
-PHASE 2: EMBROIDERY CONSTRUCTION SYSTEM
-
-The logo mark of [BRAND NAME] rendered as machine or hand embroidery using these specific stitch techniques. Satin stitch: the primary technique for all filled areas and stroke elements — dense parallel threads laid side by side with zero gap, creating a smooth glossy surface. Thread direction follows the long axis of each stroke element — horizontal strokes have horizontal threads, diagonal strokes have diagonal threads. The characteristic sheen of satin stitch is critical: threads catch light along their length creating bright reflective zones on thread-parallel surfaces and darker zones on thread-perpendicular surfaces, creating a directional shimmer across the embroidery surface. Stem stitch or outline stitch: used for any curved linear elements — thin continuous line of overlapping thread segments following curves with natural flexibility. French knots: small circular dot elements rendered as tightly wound thread knots — each knot has a visible spiral wind pattern at macro distance. Spike elements: long tapering needle-like forms executed in satin stitch that tapers from full width to a single thread point — gradual and precise, ending in a razor-sharp thread tip.
-
-Edge treatment: every embroidered element has a thin visible backing outline — 1 to 2 thread widths of the base fabric visible between the embroidery and the surrounding textile. This underlay/backing edge is slightly lighter than the main embroidery thread — it outlines every form and confirms the physical layering of embroidery over fabric.
-
-Physical relief: the embroidery sits 1 to 3mm above the fabric surface — confirmed by a very subtle shadow halo directly underneath each embroidered element. The shadow is symmetrical around the embroidery perimeter, soft-edged, 1 to 2mm wide — consistent with flat overhead illumination, not directional raking light.
-
-PHASE 3: THREAD MATERIAL
-
-Primary thread color: autonomously determined brand color from PHASE 0. Thread material: mercerized cotton or silk embroidery thread — high sheen, smooth filament surface. The thread color is never flat — it shifts in value along its length based on light angle. Directly lit zones approach a lighter more luminous version of the base color. Shadow zones approach a deeper more saturated version. The overall embroidery reads as one unified color but contains a full tonal range within that color family. Secondary thread: the backing/underlay edge thread is 2 to 3 shades lighter than the primary thread — creating the characteristic light outline visible around all embroidered elements.
-
-PHASE 4: COMPOSITION & CAMERA
-
-Camera body: Canon EOS R5 or Nikon Z8 — full frame, 45 megapixel minimum for fabric texture resolution. Lens: Canon RF 100mm f/2.8L Macro IS USM or Nikon Z MC 105mm f/2.8 VR S — used at moderate close-up distance, not at maximum 1:1 magnification. Focus distance: 40 to 55cm — the embroidery fills approximately 30 to 40% of the frame height, leaving generous fabric context on all sides. This is a moderate close-up, not extreme macro — the full embroidery composition is visible with substantial textile surround. Aperture: f/8 to f/11 — deep depth of field, the entire embroidery and all surrounding fabric texture are in crisp simultaneous focus from corner to corner. No visible bokeh anywhere in the frame. Shutter speed: 1/200s with continuous light source. ISO: 100 — base ISO, zero noise, maximum tonal resolution in the subtle gray shadows of the waffle recesses. White balance: 5600K — neutral daylight, renders the cold off-white fabric accurately without warm or cool shift. Exposure: slightly bright ETTR — the off-white fabric renders as a luminous near-white, embroidery thread reads as deep rich dark against the bright ground. Aspect ratio: 4:5 portrait. Camera perpendicular to fabric plane — zero perspective distortion, embroidery geometry rendered faithfully.
-
-PHASE 5: LIGHTING
-
-Primary light: large diffused overhead source — a 120×120cm softbox or diffusion panel positioned directly above the fabric at 60 to 80cm distance. The light is as close to flat and directionless as possible. No raking angle — the light comes from directly above at 85 to 90° to the fabric plane. This flat overhead lighting creates: uniform brightness across the entire fabric field with no hot spots or falloff. Very short soft shadows in the recessed channels of the waffle grid — 1 to 2mm wide, soft-edged, falling straight down. Soft symmetrical micro-shadow halo directly beneath the embroidery — the 1 to 3mm relief creates a subtle darker zone immediately surrounding the embroidery perimeter, equal on all sides. No directional shadow — the shadow is not cast to one side. Secondary light: none. No fill, no rim, no accent. The single large overhead diffused source is the complete lighting setup. Overall mood: clinical, precise, bright — consistent with product documentation or high-end textile editorial photography where the subject must be seen with maximum clarity and zero atmospheric distraction.
-
-PHASE 6: TECH SPECS
-
-Render: Octane Render or Redshift with fiber/textile displacement geometry. Thread geometry: actual 3D cylindrical thread strands — each thread strand is a real geometric object casting real shadows on adjacent threads, not texture maps. Fabric weave: real geometric displacement mesh for waffle structure — not normal map. Ray tracing: on — for accurate micro-shadow casting between individual thread strands and between embroidery and fabric surface. Subsurface scattering: subtle on thread material — mercerized cotton and silk have slight translucency. Depth of field: physically accurate — f/8 to f/11 at 100mm at 40 to 55cm focus distance, full frame sharp corner to corner. Anti-aliasing: maximum. Sampling: minimum 2048 samples — zero noise in shadow zones, full tonal resolution in the off-white fabric field. Output feel: this image should be indistinguishable from a photograph taken with a Canon 100mm macro in a textile documentation studio. The viewer must feel the urge to touch the fabric.
 ```
 
 </details>
@@ -2651,7 +2635,223 @@ Avoid conventional chrome, fully mirrored surfaces, rainbow metal, translucent g
 
 </details>
 
-**[All 26 entries](pages/en/image-brand.md)**
+<a id="gpt-image-mitsubishi-metallic-glyph-logo-render"></a>
+### Mitsubishi three diamond mark as dark metal glyph
+
+<a href="https://x.com/AmirMushich/status/2084003622753354096"><img src="previews/gpt-image-mitsubishi-metallic-glyph-logo-render.jpg" width="360"></a>
+
+A fill in template with brand, background and object colour slots keeps the logo geometry locked while fixed rules control the bevel, inset matte panels and studio lighting. Explicit bans on redesign, extra text and cast shadow keep the official mark clean.
+
+GPT Image 2 · Text-to-image · Source: [@AmirMushich on X](https://x.com/AmirMushich/status/2084003622753354096) · 687 likes on 2026-10-29
+
+[`logo-render`](pages/en/tags.md#tag-logo-render) [`metallic`](pages/en/tags.md#tag-metallic) [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) [`product-render`](pages/en/tags.md#tag-product-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+(my free & pro AI/design workflows:
+http://
+amirmushich.gumroad.com)
+
+***
+
+[BRAND NAME = _______]
+[BACKGROUND COLOR = _______]
+[OBJECT COLOR = ________]
+
+Create a premium (AR 1:1) studio product render of the official logo or primary symbol of [BRAND NAME], transformed into a single precision-manufactured sculptural metal glyph.
+
+LOGO ACCURACY
+
+Use the authentic, immediately recognizable geometry and canonical proportions of the official [BRAND NAME] mark.
+
+Do not redesign, reinterpret, simplify or invent a new logo.
+
+Preserve the exact front-facing silhouette, internal negative spaces, spacing relationships and characteristic proportions of the original mark.
+
+If the brand has an official standalone symbol, use the symbol only. If no standalone symbol exists, use its official wordmark.
+
+Ignore the brand’s native colors and render the entire object using [OBJECT COLOR] as the single dominant material color family.
+
+Do not add the brand name, captions or secondary typography unless typography is an inseparable part of the official primary logo.
+
+FORM AND CONSTRUCTION
+
+Convert the logo into a physically believable, precision-manufactured object rather than a basic flat extrusion.
+
+The object should feel like a continuous architectural glyph, CNC-milled component or cast industrial emblem:
+
+— broad, clean primary surfaces;
+— substantial physical thickness;
+— softly rounded outer corners;
+— accurate internal cutouts;
+— smooth structural transitions;
+— controlled variation in depth;
+— physically believable edge construction;
+— no unsupported floating parts.
+
+The object must remain elegant and minimal.
+
+Do not add screws, visible mounting hardware, decorative seams, random panels or mechanical details that are not required by the original logo geometry.
+
+EDGE ARCHITECTURE
+
+Build a clearly visible metallic perimeter around the primary faces of the glyph.
+
+The outer bevel must be moderately wide and visually substantial, closely matching the proportion and presence of the reference image.
+
+It should be wider than a conventional narrow chamfer, but must not become oversized, inflated or decorative.
+
+The bevel should:
+
+— remain clearly readable at normal viewing size;
+— follow the logo geometry with precision;
+— transition smoothly around corners;
+— catch long, controlled studio reflections;
+— create a strong but restrained metallic contour;
+— preserve the canonical silhouette of the logo.
+
+Avoid razor-thin highlight lines, excessively sharp edges or oversized chrome borders.
+
+INSET MATTE PANELS
+
+Treat the broad front-facing areas of the logo as precision-fitted matte material inserts embedded inside the surrounding metallic structure.
+
+Each primary matte face should feel slightly inset into the outer metal frame, as though it has been manufactured separately and carefully inserted, bonded or press-fitted into the sculptural body.
+
+The inset panel must include:
+
+— a very shallow recessed position;
+— a soft, subtle bevel around its perimeter;
+— an extremely fine separation gap between the matte insert and the surrounding metal frame;
+— a microscopic slit-like shadow line inside this gap;
+— delicate ambient occlusion where the two materials meet;
+— clean and consistent spacing around the entire perimeter.
+
+The separation gap must be extremely subtle: visible enough to distinguish the materials and communicate precision engineering, but never wide enough to resemble a decorative outline, deep groove or assembled plastic panel.
+
+The matte insert, its micro-bevel, the narrow separation seam and the wider metallic outer bevel should create a refined hierarchy of edges.
+
+Do not flatten the matte face and metallic frame into one continuous surface.
+
+Do not add multiple unnecessary borders, concentric outlines or excessive panel layering.
+
+MATERIAL AND OBJECT COLOR
+
+Use [OBJECT COLOR] as the dominant color of the complete sculptural object.
+
+Interpret [OBJECT COLOR] as a premium metallic finish such as anodized aluminium, PVD-coated metal, blackened titanium, coated steel or another physically believable high-end industrial material.
+
+The broad inset faces should use a darker, softer and more matte variation of [OBJECT COLOR], with:
+
+— refined satin roughness;
+— extremely subtle directional brushing;
+— fine micro-texture;
+— restrained tonal variation;
+— dense, tactile material depth.
+
+The surrounding structural frame and wider outer bevel should use the same [OBJECT COLOR] family but with a smoother, more polished and more reflective finish.
+
+The object should remain monochromatic. Create contrast through roughness, reflection, depth and lighting rather than through unrelated colors.
+
+Selected bevels may catch pale metallic or near-white reflections from the studio lights, but the underlying material must remain visibly connected to [OBJECT COLOR].
+
+The material must feel cold, dense, heavy and precisely manufactured.
+
+Avoid mirror chrome across the entire object, liquid metal, glossy plastic, rubber, carbon fiber, glass, translucent material, glitter or cheap metallic paint.
+
+LIGHTING
+
+Use controlled high-end studio lighting against a perfectly uniform [BACKGROUND COLOR] background.
+
+Place one large cool-white rectangular softbox above and slightly to the left of the object.
+
+This source should create broad, smooth gradients across the upper surfaces and clearly reveal the width of the polished outer bevel.
+
+Add a narrower strip light from the upper-right and slightly behind the object, creating a clean rim reflection along selected edges.
+
+Use very weak frontal fill.
+
+Keep recessed areas, microscopic material gaps, internal cavities and undersides deep enough to preserve dimensionality.
+
+Use delicate ambient occlusion:
+
+— inside internal cutouts;
+— around overlapping or converging sections;
+— inside the microscopic separation gap;
+— beneath the softly beveled edges of the matte inserts.
+
+The lighting must reveal the construction hierarchy:
+
+outer polished frame,
+wide bevel,
+microscopic separation seam,
+softly beveled matte insert,
+deep structural body.
+
+Do not illuminate the object evenly.
+
+REFLECTIONS
+
+Show only controlled abstract reflections produced by large professional studio softboxes and strip lights.
+
+Reflections should appear as long, smooth, carefully placed bands that follow the object’s geometry.
+
+Use the reflections to describe:
+
+— the width of the outer bevel;
+— the physical thickness of the glyph;
+— the transition between polished frame and matte insert;
+— the curvature of softly rounded corners.
+
+Do not reflect a room, photographer, camera, windows, horizon, scenery or identifiable environment.
+
+Avoid colorful environmental reflections, random hotspots, excessive specular noise and uncontrolled mirror-like glare.
+
+CAMERA AND COMPOSITION
+
+Photograph the object almost frontally using the visual character of a premium 90–110 mm product photography lens.
+
+Use very low perspective distortion.
+
+Introduce only a subtle three-quarter rotation and a slightly elevated camera position, allowing the physical depth, upper surfaces and wider bevels to remain visible without distorting the official logo silhouette.
+
+Keep the logo centered horizontally and positioned near the vertical middle of the frame.
+
+The object should occupy approximately 70–75% of the image width while remaining fully visible.
+
+Surround it with generous, calm negative space.
+
+The object should appear suspended in the studio environment without a visible support system.
+
+DEPTH OF FIELD AND RENDER QUALITY
+
+Keep nearly the entire glyph sharply focused.
+
+Use only minimal natural depth falloff on the most distant edges.
+
+No obvious bokeh, exaggerated macro blur or artificial focus effects.
+
+Render with:
+
+— physically accurate PBR materials;
+— path-traced global illumination;
+— realistic micro-roughness;
+— precise ambient occlusion;
+— clean anti-aliasing;
+— high-resolution surface detail;
+— smooth tonal transitions;
+— accurate reflections;
+— refined edge highlights.
+
+The final result should feel like an actual luxury industrial object photographed in a professional studio: restrained, tactile, architectural, cinematic, precisely engineered and art-directed down to the microscopic material transitions.
+
+Do not add extra text, captions, labels, particles, smoke, pedestal, floor, visible support, cast shadow, glow, neon light, lens flare, scenery or surrounding objects.
+```
+
+</details>
+
+**[All 25 entries](pages/en/image-brand.md)**
 
 <a id="img-realism"></a>
 ## Photo realism
@@ -2666,89 +2866,6 @@ Framing the shot as an unstaged in-car dashcam grab, with windshield frame and d
 GPT Image 2.5 · Text-to-image · Source: [@techhalla on X](https://x.com/techhalla/status/2100526486113472703) · 22,510 likes on 2026-10-29
 
 [`dashcam`](pages/en/tags.md#tag-dashcam) [`realism`](pages/en/tags.md#tag-realism) [`branded-vehicles`](pages/en/tags.md#tag-branded-vehicles) [`spill`](pages/en/tags.md#tag-spill)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-First, lock the initial frame to a realistic one. I've used GPT Image 2.5 and the prompt below:
-
-DIRECTIVE:
-Produce one still that reads as a real in-car dashcam frame grabbed from a moving car on a highway. Optical dashcam capture, wide windshield view, windshield glass, A-pillar, a slice of dashboard/hood — lived-in dashcam JPEG, not cinema, not HDR.
-
-BEAT / COMPOSITION:
-Looking forward through the windshield. On the LEFT side of the road (left lane or left shoulder, clearly in frame): TWO branded trucks close together.
-
-COCA-COLA TRUCK (LEFT, CRITICAL):
-A full-size Coca-Cola tanker / delivery truck, official Coca-Cola red livery and logos readable. It has a breakdown: a torn ragged hole in the tank wall. A thick, heavy jet of dark-brown Coca-Cola is blasting out of that hole onto the asphalt — lots of liquid, puddle spreading, foam, spray in the air, wet road shine. The truck is stopped or crawling, hazard situation.
-
-MENTOS TRUCK (BESIDE IT, CRITICAL):
-Right next to the Coca-Cola truck (same left cluster, slightly ahead or alongside): a closed box truck / delivery truck with large, unmistakable MENTOS branding on the side (Mentos logo, candy rolls artwork). Rear and side doors CLOSED. No candy spilling. You can clearly read that it is a Mentos truck.
-
-CAMERA PACK:
-Fixed dashcam behind the windshield, slight barrel wide, dashboard or hood bottom of frame, windshield dirt/reflections, timestamp overlay optional, daytime road, other traffic farther ahead. Real consumer dashcam still.
-
-LIGHT:
-Daylight, overcast or sun, real road color, cola looking like dark soda not black oil.
-
-PHOTOGRAPHIC CHARACTER:
-Unstaged dashcam grab — physically grounded trucks, readable brands, the leak is the event.
-
-Once it's ready, use it as reference for Seedance 2.5 and this prompt:
-
-[STYLE + CAMERA + ATMOSPHERE]
-Vertical 3:4 smartphone video filmed FROM INSIDE a moving car, passenger or driver seat. Phone held handheld (not a bolted dashcam): arms, slight breathing shake, windshield and A-pillar in frame, a slice of dashboard/hood at the bottom, maybe a finger edge. We are ARRIVING — forward motion first, trucks growing larger, then we slow and stop short of the cola lake. CONTINUOUS SINGLE TAKE the entire 30s. Digital pinch-zooms only (no cuts): punch into the Coke jet, the jug fill, the Mentos doors, the launch, then zoom out as he shrinks to the horizon. Daylight, overcast, wet asphalt, rain specks on glass. Consumer phone JPEG, autofocus hunting, rolling shutter. Photoreal live physics: cola viscosity, foam, Mentos cases, one adult body launched like a Mentos rocket.
-
-LOCKED SET / VEHICLES:
-- LEFT ahead through the windshield: red Coca-Cola tanker with a ragged hole, dark-brown Coca-Cola ALREADY blasting onto the lane, spreading cola lake.
-- BESIDE it: Mentos box truck, rear doors CLOSED at arrival, Mentos livery readable ("mentos / The Freshmaker").
-- Highway continuing past them toward a clear vanishing-point horizon.
-- NO other truck for the guy. He does not exit a vehicle.
-
-LOCKED CAST:
-- THE GUY: one very large man alone — sweat-dark tank top, cargo shorts, stained baseball cap, Alabama redneck energy. No second person. He ENTERS FRAME FROM THE RIGHT (shoulder / right edge of the windshield view) already on foot — he does not get out of any truck, van, or car.
-- HERO OBJECT: one giant gas-station plastic jug / Big Gulp–scale cup in his right hand. Starts EMPTY (daylight visible through clear plastic), stays in that hand until the blast.
-
-Diegetic audio: road noise while arriving, cola hiss, gulping, metal latch, volcanic foam roar, Doppler scream as he flies away, phone mic clipping.
-
-[IMAGE REFERENCES]
-[ref_image] = locked opening phone still from inside the car looking through the windshield at the Coke tanker + Mentos truck cluster. Tanker, hole, cola jet, Mentos truck, and in-car foreground are LAW. Clip BEGINS with us still rolling toward that cluster.
-
-[TIMELINE SECOND BY SECOND]
-
-0-3s: [HOOK — ARRIVING + ZOOM] Phone already rolling. Road noise. Through the windshield the Coca-Cola tanker and Mentos truck are already ahead on the left; cola ALREADY jetting from the hole. We close distance — trucks grow. Digital zoom punches into the Coke stream and the hole. By ~2.5s brakes dip. Several events already: motion, the leak, closing in, first zoom.
-
-3-5s: [STOP + HE ENTERS FROM RIGHT] We fully stop. Idle phone shake. Zoom out a notch. THE GUY walks INTO FRAME FROM THE RIGHT — already on foot from the shoulder / right edge, giant EMPTY jug held high, clear plastic with daylight through it. He does not exit any vehicle. He steps straight into the cola lake toward the tanker jet.
-
-5-9s: [FILL — HOLD IT] He shoves the empty jug INTO the Coke stream. ONE CONTACT: jug into the jet. Phone slam-zooms the fill and HOLDS. For a clear ~2 full seconds (through ~7–8s) the jug is STILL filling under the blast — brown liquid climbing the plastic, foam boiling over the rim, overflowing his forearm, stream hammering the mouth of the jug the whole time. Only then does he pull the full heavy jug out and raise it.
-
-9-12s: [CHUG] He tilts and CHUGS — huge gulps, cola down the tank top. Empties most of it, gasps, still holding the jug. Turns to the Mentos rear doors. Phone zooms out enough to keep tanker jet + Mentos bumper + him in frame.
-
-12-16s: [OPEN + DUMP] ONE CONTACT: he yanks both Mentos rear doors open. Cases stacked high. He dumps a case — Mentos rolls cascade into the cola lake. Packs split, white mints into the brown river. Digital zoom on the mint waterfall hitting the puddle. He still stands in the lake with the jug.
-
-16-20s: [IT GOES] Hard fizz, then a WHITE FOAM COLUMN erupts between the trucks. ONE CONTACT: the fountain hits him from below like a human Mentos rocket. Feet leave asphalt. Jug flies. He launches UP and AWAY down the highway axis. Phone slam-zooms his body leaving the ground, then struggles to track him.
-
-20-24s: [HUMAN FOUNTAIN] He is a dark silhouette riding the white column, spinning once, cap gone. The geyser leans him toward the open highway horizon. Foam hits our windshield — phone jerks but stays inside the car, still filming through glass. Digital zoom hunting his shape in the spray.
-
-24-26s: [SHRINKS] Zoom out through foam streaks on the glass. He is airborne over the far lanes, a tiny spinning figure on a white spray trail, Mentos truck hopping, tanker still feeding the column. Phone digital-zooms into the shrinking speck, then out again.
-
-26-30s: [PAYOFF — GONE] He dwindles to a speck and DISAPPEARS into the horizon haze past the vanishing point (~1s earlier than before). Phone holds on empty sky/road where he vanished, foam still climbing between the trucks, Mentos doors still open, Coke still dumping. Final tiny digital zoom into that empty vanishing point. Loop-open: empty horizon, roar still going.
-
-[STYLE & QUALITY BOOSTERS]
-Photoreal handheld phone from inside a car, 3:4 vertical. Arriving motion then stop. Digital pinch-zooms only, continuous take. One man enters from the RIGHT on foot — never exits a vehicle. Empty jug fills on camera for a clear multi-second hold. Body launched to the vanishing point. Coherent liquid physics. Identity lock to [ref_image] for both trucks, the hole, and the in-car windshield framing.
-```
-
-</details>
-
-<a id="gpt-image-coca-cola-tanker-mentos-truck-dashcam"></a>
-### Coca Cola tanker leaking beside Mentos truck on highway
-
-<a href="https://x.com/techhalla/status/2100526482212712584"><img src="previews/gpt-image-coca-cola-tanker-mentos-truck-dashcam.jpg" width="360"></a>
-
-Framing it as an unstaged dashcam still, with the windshield edge and dashboard in frame, makes the scene read as real footage. Naming the livery, the torn tank hole and the closed Mentos doors pins down both trucks and keeps the cola jet as the focal event.
-
-GPT Image 2.5 · Text-to-image · Source: [@techhalla on X](https://x.com/techhalla/status/2100526482212712584) · 22,510 likes on 2026-10-29
-
-[`dashcam`](pages/en/tags.md#tag-dashcam) [`photoreal`](pages/en/tags.md#tag-photoreal) [`road-scene`](pages/en/tags.md#tag-road-scene)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2913,7 +3030,32 @@ Nano Banana 2 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorU
 
 </details>
 
-**[All 85 entries](pages/en/image-realism.md)**
+<a id="gpt-image-pencil-essay-coffee-stain"></a>
+### Pencil handwritten essay on lined paper with coffee stain
+
+<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
+
+The prompt fixes the medium (pencil on 8.5x11 lined paper) and the capture method (phone photo). It asks for stroke variance and one small flaw, a coffee stain in a named corner, which gives the realism.
+
+GPT Image 2.5 · Text-to-image · Source: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 likes on 2026-10-27
+
+[`handwriting`](pages/en/tags.md#tag-handwriting) [`paper`](pages/en/tags.md#tag-paper) [`phone-photo`](pages/en/tags.md#tag-phone-photo) [`texture`](pages/en/tags.md#tag-texture) [`coffee-stain`](pages/en/tags.md#tag-coffee-stain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+🚨 GPT-Image-2.5 Output
+
+I said it to write like einstein it did it without reference < i did not give image or anything   >
+
+left side is AI and right side is real photo from reddit to compare
+
+Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
+```
+
+</details>
+
+**[All 84 entries](pages/en/image-realism.md)**
 
 <a id="img-portrait"></a>
 ## Portraits
@@ -2982,26 +3124,46 @@ Two women framed by a sun-bleached stone archway — one in the near foreground 
 
 </details>
 
-<a id="gpt-image-mediterranean-archway-y2k-flash-courtyard"></a>
-### Woman under bougainvillea archway in Mediterranean courtyard
+<a id="gpt-image-car-door-clifftop-2000s-film-snapshot"></a>
+### Early 2000s film snapshot through open car door
 
-<a href="https://x.com/abxxai/status/2097698694296686623"><img src="previews/gpt-image-mediterranean-archway-y2k-flash-courtyard.jpg" width="360"></a>
+<a href="https://x.com/abxxai/status/2102775797509722602"><img src="previews/gpt-image-car-door-clifftop-2000s-film-snapshot.jpg" width="360"></a>
 
-The prompt places a detailed foreground subject against a lightly specified second figure and a layered setting, from archway to courtyard to sea. It then adds an early 2000s digicam look with on camera flash, CCD colour, bloom and noise to push the result toward candid realism.
+An uploaded character sheet locks identity, while labeled blocks for scene, wardrobe, background, light, camera and realism keep each concern separate. The old footage look comes from written film terms such as 28mm barrel distortion, lifted blacks, halation and grain rather than a filter, and the car door frame adds a natural foreground.
 
-GPT Image 2.5 · Text-to-image · Source: [@abxxai on X](https://x.com/abxxai/status/2097698694296686623) · 2,645 likes on 2026-10-28
+GPT Image 2.5 · Edit · Source: [@abxxai on X](https://x.com/abxxai/status/2102775797509722602) · 1,687 likes on 2026-10-28
 
-[`y2k`](pages/en/tags.md#tag-y2k) [`digicam`](pages/en/tags.md#tag-digicam) [`flash-photography`](pages/en/tags.md#tag-flash-photography) [`mediterranean`](pages/en/tags.md#tag-mediterranean) [`candid`](pages/en/tags.md#tag-candid)
+[`film-look`](pages/en/tags.md#tag-film-look) [`candid`](pages/en/tags.md#tag-candid) [`road-trip`](pages/en/tags.md#tag-road-trip) [`character-reference`](pages/en/tags.md#tag-character-reference) [`2000s`](pages/en/tags.md#tag-2000s)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.
+4/ the start frame, GPT Image 2.5 made
+
+the old footage look is NOT a filter.. Opus wrote it into the prompt:
+
+Promtp:
+
+Use the uploaded character sheet as the strict identity reference. Keep her exact face, bone structure, brown eyes, light freckles across nose and cheeks, natural full lips, and long straight light-brown hair with sun-kissed caramel highlights parted in the middle. Keep the thin gold chain necklace with the small cross pendant.
+
+SCENE: A candid photo taken from inside a parked silver sedan, looking out through the open rear passenger door. The door frame, the grey fabric headliner, the black door panel with its chrome handle, and part of the seat belt frame the shot on both sides. She stands just outside the open door on a rocky clifftop road above the ocean, both arms raised, one hand gripping the top of the door frame and the other resting on the roof edge, leaning slightly toward the camera. Relaxed, unposed, calm expression, looking straight into the lens.
+
+WARDROBE: Fitted cropped white cotton baby tee with a faded, sun-washed vintage graphic print in pale blue and coral red, slightly worn and soft. Light-wash low-rise denim cutoff shorts with frayed hems. Thin brown leather cord bracelets on one wrist. Hair slightly messy and windblown, a few strands across her face.
+
+BACKGROUND: Deep blue Mediterranean sea filling the frame behind her, sparkling sun glints on the water, a flat horizon line at chest height, pale hazy sky, dark rocks and sandy stones at the cliff edge below.
+
+LIGHT: Harsh direct midday summer sun, bright and slightly overexposed. Sun-warmed skin with a natural sheen and slight glow on the cheeks and nose, soft shadows under the chin, a faint reflection of light off the white car interior.
+
+CAMERA AND LOOK: Early 2000s point-and-shoot film photo, 35mm film, 28mm wide lens with slight barrel distortion at the edges, shot from chest height inside the car. Warm, faded, sun-bleached color grade, lifted blacks, low contrast, creamy highlights that gently blow out in the sky, slightly yellowed whites, soft halation around bright edges, fine visible film grain, a touch of softness and imperfect focus. Looks like a real candid snapshot from a summer road trip, not a studio shot.
+
+REALISM: Real skin texture with visible pores and freckles, no retouching, no plastic skin, natural flyaway hairs, real fabric wrinkles on the tee, real dust and wear on the car interior.
+
+Aspect ratio 4:3. No text, no watermark, no logos.
 ```
 
 </details>
 
-**[All 217 entries](pages/en/image-portrait.md)**
+**[All 213 entries](pages/en/image-portrait.md)**
 
 <a id="img-character"></a>
 ## Characters and figures
@@ -3170,7 +3332,7 @@ Prompt: Make a photo of a cute ball-shaped version of a [animal], with big adora
 
 </details>
 
-**[All 72 entries](pages/en/image-character.md)**
+**[All 70 entries](pages/en/image-character.md)**
 
 <a id="img-illustration"></a>
 ## Illustration
@@ -3261,7 +3423,7 @@ Use a warm ivory background with plenty of negative space, soft ground shadows, 
 
 </details>
 
-**[All 106 entries](pages/en/image-illustration.md)**
+**[All 104 entries](pages/en/image-illustration.md)**
 
 <a id="img-comic"></a>
 ## Comics and storyboards
@@ -3607,7 +3769,7 @@ Create a nostalgic editorial photo-to-sketch artbook page based on the reference
 
 </details>
 
-**[All 103 entries](pages/en/image-photo-to-art.md)**
+**[All 99 entries](pages/en/image-photo-to-art.md)**
 
 <a id="img-architecture"></a>
 ## Architecture and interiors
@@ -4048,7 +4210,7 @@ Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Str
 
 </details>
 
-**[All 81 entries](pages/en/image-collage.md)**
+**[All 79 entries](pages/en/image-collage.md)**
 
 <a id="img-edit"></a>
 ## Photo editing
@@ -4339,9 +4501,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
-[`portrait`](pages/en/tags.md#tag-portrait) 144 · [`template`](pages/en/tags.md#tag-template) 126 · [`fashion`](pages/en/tags.md#tag-fashion) 101 · [`cinematic`](pages/en/tags.md#tag-cinematic) 98 · [`typography`](pages/en/tags.md#tag-typography) 94 · [`editorial`](pages/en/tags.md#tag-editorial) 86 · [`anime`](pages/en/tags.md#tag-anime) 75 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 63 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 62 · [`infographic`](pages/en/tags.md#tag-infographic) 62 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 58 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 56 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 52 · [`dialogue`](pages/en/tags.md#tag-dialogue) 51 · [`handheld`](pages/en/tags.md#tag-handheld) 45 · [`fantasy`](pages/en/tags.md#tag-fantasy) 44 · [`macro`](pages/en/tags.md#tag-macro) 43 · [`storyboard`](pages/en/tags.md#tag-storyboard) 42 · [`action`](pages/en/tags.md#tag-action) 42 · [`collage`](pages/en/tags.md#tag-collage) 41 · [`miniature`](pages/en/tags.md#tag-miniature) 41 · [`poster`](pages/en/tags.md#tag-poster) 41 · [`selfie`](pages/en/tags.md#tag-selfie) 40 · [`reference-image`](pages/en/tags.md#tag-reference-image) 39 · [`diorama`](pages/en/tags.md#tag-diorama) 37 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 36 · [`watercolor`](pages/en/tags.md#tag-watercolor) 35 · [`pastel`](pages/en/tags.md#tag-pastel) 34 · [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) 34 · [`vertical`](pages/en/tags.md#tag-vertical) 33 · [`chibi`](pages/en/tags.md#tag-chibi) 33 · [`food`](pages/en/tags.md#tag-food) 32 · [`grid`](pages/en/tags.md#tag-grid) 31 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 30 · [`identity-lock`](pages/en/tags.md#tag-identity-lock) 28 · [`surreal`](pages/en/tags.md#tag-surreal) 27 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 27 · [`film-grain`](pages/en/tags.md#tag-film-grain) 27 · [`split-layout`](pages/en/tags.md#tag-split-layout) 27 · [`monochrome`](pages/en/tags.md#tag-monochrome) 26 · [`reference-photo`](pages/en/tags.md#tag-reference-photo) 25 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 25 · [`architecture`](pages/en/tags.md#tag-architecture) 24 · [`3d-render`](pages/en/tags.md#tag-3d-render) 24 · [`comedy`](pages/en/tags.md#tag-comedy) 23 · [`travel`](pages/en/tags.md#tag-travel) 23 · [`low-angle`](pages/en/tags.md#tag-low-angle) 23 · [`candid`](pages/en/tags.md#tag-candid) 23 · [`isometric`](pages/en/tags.md#tag-isometric) 23 · [`vlog`](pages/en/tags.md#tag-vlog) 22 · [`landscape`](pages/en/tags.md#tag-landscape) 22 · [`face-reference`](pages/en/tags.md#tag-face-reference) 22 · [`doodle`](pages/en/tags.md#tag-doodle) 22 · [`minimalist`](pages/en/tags.md#tag-minimalist) 22 · [`product-ad`](pages/en/tags.md#tag-product-ad) 21 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 21 · [`fashion-editorial`](pages/en/tags.md#tag-fashion-editorial) 21 · [`streetwear`](pages/en/tags.md#tag-streetwear) 20 · [`long-take`](pages/en/tags.md#tag-long-take) 19 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 19 · [`night`](pages/en/tags.md#tag-night) 18 · [`cafe`](pages/en/tags.md#tag-cafe) 18 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 18 · [`pixel-art`](pages/en/tags.md#tag-pixel-art) 18 · [`luxury`](pages/en/tags.md#tag-luxury) 17 · [`reference-images`](pages/en/tags.md#tag-reference-images) 17 · [`studio-portrait`](pages/en/tags.md#tag-studio-portrait) 17 · [`commercial`](pages/en/tags.md#tag-commercial) 16 · [`black-and-white`](pages/en/tags.md#tag-black-and-white) 16 · [`landmark`](pages/en/tags.md#tag-landmark) 16 · [`double-exposure`](pages/en/tags.md#tag-double-exposure) 16 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 15 · [`flat-vector`](pages/en/tags.md#tag-flat-vector) 15 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 15 · [`film-look`](pages/en/tags.md#tag-film-look) 15 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 15 · [`vintage`](pages/en/tags.md#tag-vintage) 15 · [`oil-painting`](pages/en/tags.md#tag-oil-painting) 15 · [`storybook`](pages/en/tags.md#tag-storybook) 15 · [`negative-space`](pages/en/tags.md#tag-negative-space) 15 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 14 · [`sports`](pages/en/tags.md#tag-sports) 14 · [`rain`](pages/en/tags.md#tag-rain) 14 · [`character-reference`](pages/en/tags.md#tag-character-reference) 14 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 14 · [`city`](pages/en/tags.md#tag-city) 14 · [`pixar-style`](pages/en/tags.md#tag-pixar-style) 14 · [`character`](pages/en/tags.md#tag-character) 14 · [`food-photography`](pages/en/tags.md#tag-food-photography) 14 · [`packaging`](pages/en/tags.md#tag-packaging) 14 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 13 · [`dragon`](pages/en/tags.md#tag-dragon) 13 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 13 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 13 · [`japanese`](pages/en/tags.md#tag-japanese) 13 · [`pov`](pages/en/tags.md#tag-pov) 13 · [`studio`](pages/en/tags.md#tag-studio) 13 · [`advertising`](pages/en/tags.md#tag-advertising) 13 · [`motion-blur`](pages/en/tags.md#tag-motion-blur) 13 · [`bokeh`](pages/en/tags.md#tag-bokeh) 12 · [`sound-design`](pages/en/tags.md#tag-sound-design) 12 · [`japanese-text`](pages/en/tags.md#tag-japanese-text) 12 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 12 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 12 · [`couple`](pages/en/tags.md#tag-couple) 12 · [`layout`](pages/en/tags.md#tag-layout) 12 · [`sketchbook`](pages/en/tags.md#tag-sketchbook) 12 · [`chinese-text`](pages/en/tags.md#tag-chinese-text) 12 · [`grid-layout`](pages/en/tags.md#tag-grid-layout) 12 · [`product-photography`](pages/en/tags.md#tag-product-photography) 12 · [`dance`](pages/en/tags.md#tag-dance) 11 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 11 · [`korean`](pages/en/tags.md#tag-korean) 11 · [`neon`](pages/en/tags.md#tag-neon) 11 · [`line-art`](pages/en/tags.md#tag-line-art) 11 · [`cat`](pages/en/tags.md#tag-cat) 11 · [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) 11 · [`flash-photography`](pages/en/tags.md#tag-flash-photography) 11 · [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) 11 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 11 · [`campaign`](pages/en/tags.md#tag-campaign) 11 · [`sunset`](pages/en/tags.md#tag-sunset) 11 · [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) 11 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 10 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 10 · [`ugc`](pages/en/tags.md#tag-ugc) 10 · [`animals`](pages/en/tags.md#tag-animals) 10 · [`street-photography`](pages/en/tags.md#tag-street-photography) 10 · [`y2k`](pages/en/tags.md#tag-y2k) 10 · [`hand-drawn`](pages/en/tags.md#tag-hand-drawn) 10 · [`close-up`](pages/en/tags.md#tag-close-up) 10 · [`85mm`](pages/en/tags.md#tag-85mm) 10 · [`screen-print`](pages/en/tags.md#tag-screen-print) 10 · [`identity-reference`](pages/en/tags.md#tag-identity-reference) 10 · [`documentary`](pages/en/tags.md#tag-documentary) 9 · [`game-ui`](pages/en/tags.md#tag-game-ui) 9 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 9 · [`creature`](pages/en/tags.md#tag-creature) 9 · [`pencil-sketch`](pages/en/tags.md#tag-pencil-sketch) 9 · [`consistency`](pages/en/tags.md#tag-consistency) 9 · [`beverage`](pages/en/tags.md#tag-beverage) 9 · [`logo`](pages/en/tags.md#tag-logo) 9 · [`turnaround`](pages/en/tags.md#tag-turnaround) 9 · [`reference-face`](pages/en/tags.md#tag-reference-face) 9 · [`product-poster`](pages/en/tags.md#tag-product-poster) 9 · [`kawaii`](pages/en/tags.md#tag-kawaii) 9 · [`beauty`](pages/en/tags.md#tag-beauty) 9 · [`impasto`](pages/en/tags.md#tag-impasto) 9 · [`fisheye`](pages/en/tags.md#tag-fisheye) 9 · [`exploded-view`](pages/en/tags.md#tag-exploded-view) 9 · [`timeline`](pages/en/tags.md#tag-timeline) 8 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 8 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 8 · [`halftone`](pages/en/tags.md#tag-halftone) 8 · [`transformation`](pages/en/tags.md#tag-transformation) 8 · [`skincare`](pages/en/tags.md#tag-skincare) 8 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 8 · [`text-rendering`](pages/en/tags.md#tag-text-rendering) 8 · [`silhouette`](pages/en/tags.md#tag-silhouette) 8 · [`hud`](pages/en/tags.md#tag-hud) 8 · [`home-video`](pages/en/tags.md#tag-home-video) 8 · [`horror`](pages/en/tags.md#tag-horror) 8 · [`realism`](pages/en/tags.md#tag-realism) 8 · [`product`](pages/en/tags.md#tag-product) 8 · [`cityscape`](pages/en/tags.md#tag-cityscape) 8 · [`photorealism`](pages/en/tags.md#tag-photorealism) 8 · [`sticker`](pages/en/tags.md#tag-sticker) 8 · [`blueprint`](pages/en/tags.md#tag-blueprint) 8 · [`full-body`](pages/en/tags.md#tag-full-body) 8 · [`menswear`](pages/en/tags.md#tag-menswear) 8 · [`sketch`](pages/en/tags.md#tag-sketch) 8 · [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) 8 · [`natural-light`](pages/en/tags.md#tag-natural-light) 8 · [`cinematic-lighting`](pages/en/tags.md#tag-cinematic-lighting) 8 · [`music-video`](pages/en/tags.md#tag-music-video) 7 · [`automotive`](pages/en/tags.md#tag-automotive) 7 · [`storytelling`](pages/en/tags.md#tag-storytelling) 7 · [`perfume`](pages/en/tags.md#tag-perfume) 7 · [`vfx`](pages/en/tags.md#tag-vfx) 7 · [`product-shot`](pages/en/tags.md#tag-product-shot) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) 7 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 7 · [`video-edit`](pages/en/tags.md#tag-video-edit) 7 · [`embroidery`](pages/en/tags.md#tag-embroidery) 7 · [`animal`](pages/en/tags.md#tag-animal) 7 · [`street`](pages/en/tags.md#tag-street) 7 · [`beach`](pages/en/tags.md#tag-beach) 7 · [`fitness`](pages/en/tags.md#tag-fitness) 7 · [`nature`](pages/en/tags.md#tag-nature) 7 · [`cute`](pages/en/tags.md#tag-cute) 7 · [`illustration`](pages/en/tags.md#tag-illustration) 7 · [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) 7 · [`social-media`](pages/en/tags.md#tag-social-media) 7 · [`pose-sheet`](pages/en/tags.md#tag-pose-sheet) 7 · [`paper-craft`](pages/en/tags.md#tag-paper-craft) 7 · [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) 7 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 7 · [`chinese-typography`](pages/en/tags.md#tag-chinese-typography) 7 · [`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) 7 · [`street-fashion`](pages/en/tags.md#tag-street-fashion) 7 · [`limited-palette`](pages/en/tags.md#tag-limited-palette) 7 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 6 · [`one-take`](pages/en/tags.md#tag-one-take) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 6 · [`realistic`](pages/en/tags.md#tag-realistic) 6 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 6 · [`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) 6 · [`wide-angle`](pages/en/tags.md#tag-wide-angle) 6 · [`object-swap`](pages/en/tags.md#tag-object-swap) 6 · [`music`](pages/en/tags.md#tag-music) 6 · [`animation`](pages/en/tags.md#tag-animation) 6 · [`shot-list`](pages/en/tags.md#tag-shot-list) 6 · [`snow`](pages/en/tags.md#tag-snow) 6 · [`photoreal`](pages/en/tags.md#tag-photoreal) 6 · [`superhero`](pages/en/tags.md#tag-superhero) 6 · [`coastal`](pages/en/tags.md#tag-coastal) 6 · [`pet`](pages/en/tags.md#tag-pet) 6 · [`interior`](pages/en/tags.md#tag-interior) 6 · [`backlight`](pages/en/tags.md#tag-backlight) 6 · [`japanese-typography`](pages/en/tags.md#tag-japanese-typography) 6 · [`screenshot`](pages/en/tags.md#tag-screenshot) 6 · [`colored-pencil`](pages/en/tags.md#tag-colored-pencil) 6 · [`street-style`](pages/en/tags.md#tag-street-style) 6 · [`recipe`](pages/en/tags.md#tag-recipe) 6 · [`doodles`](pages/en/tags.md#tag-doodles) 6 · [`brand-identity`](pages/en/tags.md#tag-brand-identity) 6 · [`concept-art`](pages/en/tags.md#tag-concept-art) 6 · [`chiaroscuro`](pages/en/tags.md#tag-chiaroscuro) 6 · [`mascot`](pages/en/tags.md#tag-mascot) 6 · [`floral`](pages/en/tags.md#tag-floral) 6 · [`expressions`](pages/en/tags.md#tag-expressions) 6 · [`map`](pages/en/tags.md#tag-map) 6 · [`reflection`](pages/en/tags.md#tag-reflection) 6 · [`product-render`](pages/en/tags.md#tag-product-render) 6 · [`mockup`](pages/en/tags.md#tag-mockup) 6 · [`golden-light`](pages/en/tags.md#tag-golden-light) 6 · [`3d`](pages/en/tags.md#tag-3d) 6 · [`papercraft`](pages/en/tags.md#tag-papercraft) 6 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 6 · [`labels`](pages/en/tags.md#tag-labels) 6 · [`historical`](pages/en/tags.md#tag-historical) 5 · [`education`](pages/en/tags.md#tag-education) 5 · [`first-person`](pages/en/tags.md#tag-first-person) 5 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 5 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 5 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 5 · [`educational`](pages/en/tags.md#tag-educational) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`wildlife`](pages/en/tags.md#tag-wildlife) 5 · [`nostalgic`](pages/en/tags.md#tag-nostalgic) 5 · [`handheld-camera`](pages/en/tags.md#tag-handheld-camera) 5 · [`seaside`](pages/en/tags.md#tag-seaside) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`multilingual`](pages/en/tags.md#tag-multilingual) 5 · [`camera-move`](pages/en/tags.md#tag-camera-move) 5 · [`stop-motion`](pages/en/tags.md#tag-stop-motion) 5 · [`chase`](pages/en/tags.md#tag-chase) 5 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 5 · [`autumn`](pages/en/tags.md#tag-autumn) 5 · [`underwater`](pages/en/tags.md#tag-underwater) 5 · [`negative-prompt`](pages/en/tags.md#tag-negative-prompt) 5 · [`top-down`](pages/en/tags.md#tag-top-down) 5 · [`painterly`](pages/en/tags.md#tag-painterly) 5 · [`lookbook`](pages/en/tags.md#tag-lookbook) 5 · [`football`](pages/en/tags.md#tag-football) 5 · [`street-portrait`](pages/en/tags.md#tag-street-portrait) 5 · [`reference-identity`](pages/en/tags.md#tag-reference-identity) 5 · [`before-after`](pages/en/tags.md#tag-before-after) 5 · [`pop-art`](pages/en/tags.md#tag-pop-art) 5 · [`street-art`](pages/en/tags.md#tag-street-art) 5 · [`minimal`](pages/en/tags.md#tag-minimal) 5 · [`birthday`](pages/en/tags.md#tag-birthday) 5 · [`botanical`](pages/en/tags.md#tag-botanical) 5 · [`mediterranean`](pages/en/tags.md#tag-mediterranean) 5 · [`cherry-blossom`](pages/en/tags.md#tag-cherry-blossom) 5 · [`product-photo`](pages/en/tags.md#tag-product-photo) 5 · [`identity-preserve`](pages/en/tags.md#tag-identity-preserve) 5 · [`crayon`](pages/en/tags.md#tag-crayon) 5 · [`travel-journal`](pages/en/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/en/tags.md#tag-ink-sketch) 5 · [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) 5 · [`mid-century`](pages/en/tags.md#tag-mid-century) 5 · [`children-illustration`](pages/en/tags.md#tag-children-illustration) 5 · [`geometric`](pages/en/tags.md#tag-geometric) 5 · [`fan-art`](pages/en/tags.md#tag-fan-art) 5 · [`white-background`](pages/en/tags.md#tag-white-background) 5 · [`risograph`](pages/en/tags.md#tag-risograph) 5 · [`ink-wash`](pages/en/tags.md#tag-ink-wash) 5 · [`graffiti`](pages/en/tags.md#tag-graffiti) 5 · [`paris`](pages/en/tags.md#tag-paris) 5 · [`celebrity`](pages/en/tags.md#tag-celebrity) 5 · [`sunglasses`](pages/en/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`product-reference`](pages/en/tags.md#tag-product-reference) 4 · [`montage`](pages/en/tags.md#tag-montage) 4 · [`samurai`](pages/en/tags.md#tag-samurai) 4 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 4 · [`sitcom`](pages/en/tags.md#tag-sitcom) 4 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 4 · [`single-take`](pages/en/tags.md#tag-single-take) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`single-shot`](pages/en/tags.md#tag-single-shot) 4 · [`physics`](pages/en/tags.md#tag-physics) 4 · [`voiceover`](pages/en/tags.md#tag-voiceover) 4 · [`keyframes`](pages/en/tags.md#tag-keyframes) 4 · [`kids-education`](pages/en/tags.md#tag-kids-education) 4 · [`claymation`](pages/en/tags.md#tag-claymation) 4 · [`asmr`](pages/en/tags.md#tag-asmr) 4 · [`live-action`](pages/en/tags.md#tag-live-action) 4 · [`classroom`](pages/en/tags.md#tag-classroom) 4 · [`family`](pages/en/tags.md#tag-family) 4 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 4 · [`urban`](pages/en/tags.md#tag-urban) 4 · [`romance`](pages/en/tags.md#tag-romance) 4 · [`desert`](pages/en/tags.md#tag-desert) 4 · [`scale-contrast`](pages/en/tags.md#tag-scale-contrast) 4 · [`slice-of-life`](pages/en/tags.md#tag-slice-of-life) 4 · [`restaurant`](pages/en/tags.md#tag-restaurant) 4 · [`thriller`](pages/en/tags.md#tag-thriller) 4 · [`crowd`](pages/en/tags.md#tag-crowd) 4 · [`scale`](pages/en/tags.md#tag-scale) 4 · [`world-building`](pages/en/tags.md#tag-world-building) 4 · [`worldbuilding`](pages/en/tags.md#tag-worldbuilding) 4 · [`character-design`](pages/en/tags.md#tag-character-design) 4 · [`film-photography`](pages/en/tags.md#tag-film-photography) 4 · [`brand-poster`](pages/en/tags.md#tag-brand-poster) 4 · [`glassmorphism`](pages/en/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/en/tags.md#tag-self-portrait) 4 · [`comparison`](pages/en/tags.md#tag-comparison) 4 · [`key-visual`](pages/en/tags.md#tag-key-visual) 4 · [`japan`](pages/en/tags.md#tag-japan) 4 · [`parody`](pages/en/tags.md#tag-parody) 4 · [`ms-paint`](pages/en/tags.md#tag-ms-paint) 4 · [`vector`](pages/en/tags.md#tag-vector) 4 · [`side-profile`](pages/en/tags.md#tag-side-profile) 4 · [`bilingual`](pages/en/tags.md#tag-bilingual) 4 · [`fashion-portrait`](pages/en/tags.md#tag-fashion-portrait) 4 · [`butterfly`](pages/en/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/en/tags.md#tag-candid-portrait) 4 · [`diagram`](pages/en/tags.md#tag-diagram) 4 · [`game-asset`](pages/en/tags.md#tag-game-asset) 4 · [`billboard`](pages/en/tags.md#tag-billboard) 4 · [`low-light`](pages/en/tags.md#tag-low-light) 4 · [`landmarks`](pages/en/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/en/tags.md#tag-direct-flash) 4 · [`photobooth`](pages/en/tags.md#tag-photobooth) 4 · [`contact-sheet`](pages/en/tags.md#tag-contact-sheet) 4 · [`satire`](pages/en/tags.md#tag-satire) 4 · [`cozy`](pages/en/tags.md#tag-cozy) 4 · [`caricature`](pages/en/tags.md#tag-caricature) 4 · [`sepia`](pages/en/tags.md#tag-sepia) 4 · [`zodiac`](pages/en/tags.md#tag-zodiac) 4 · [`movie-poster`](pages/en/tags.md#tag-movie-poster) 4 · [`manga`](pages/en/tags.md#tag-manga) 4 · [`encyclopedia`](pages/en/tags.md#tag-encyclopedia) 4 · [`photo-dump`](pages/en/tags.md#tag-photo-dump) 4 · [`summer`](pages/en/tags.md#tag-summer) 4 · [`flat-color`](pages/en/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/en/tags.md#tag-miniature-world) 4 · [`triptych`](pages/en/tags.md#tag-triptych) 4 · [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) 4 · [`splash`](pages/en/tags.md#tag-splash) 4 · [`color-palette`](pages/en/tags.md#tag-color-palette) 4 · [`textile`](pages/en/tags.md#tag-textile) 4 · [`retro`](pages/en/tags.md#tag-retro) 4 · [`grid-collage`](pages/en/tags.md#tag-grid-collage) 4 · [`bedroom`](pages/en/tags.md#tag-bedroom) 4 · [`photo-restoration`](pages/en/tags.md#tag-photo-restoration) 4 · [`tokyo`](pages/en/tags.md#tag-tokyo) 4 · [`street-photo`](pages/en/tags.md#tag-street-photo) 4 · [`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) 4 · [`liquid-splash`](pages/en/tags.md#tag-liquid-splash) 4 · [`rooftop`](pages/en/tags.md#tag-rooftop) 4 · [`vintage-film`](pages/en/tags.md#tag-vintage-film) 3 · [`kids`](pages/en/tags.md#tag-kids) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`fps`](pages/en/tags.md#tag-fps) 3 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 3 · [`night-scene`](pages/en/tags.md#tag-night-scene) 3 · [`forest`](pages/en/tags.md#tag-forest) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 3 · [`3d-typography`](pages/en/tags.md#tag-3d-typography) 3 · [`timestamped-shots`](pages/en/tags.md#tag-timestamped-shots) 3 · [`morph-transition`](pages/en/tags.md#tag-morph-transition) 3 · [`livestream`](pages/en/tags.md#tag-livestream) 3 · [`timelapse`](pages/en/tags.md#tag-timelapse) 3 · [`match-cut`](pages/en/tags.md#tag-match-cut) 3 · [`camcorder`](pages/en/tags.md#tag-camcorder) 3 · [`aerial`](pages/en/tags.md#tag-aerial) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`image-to-video`](pages/en/tags.md#tag-image-to-video) 3 · [`push-in`](pages/en/tags.md#tag-push-in) 3 · [`felt`](pages/en/tags.md#tag-felt) 3 · [`painting`](pages/en/tags.md#tag-painting) 3 · [`camera-angle`](pages/en/tags.md#tag-camera-angle) 3 · [`pop-out`](pages/en/tags.md#tag-pop-out) 3 · [`reference-character`](pages/en/tags.md#tag-reference-character) 3 · [`timed-scenes`](pages/en/tags.md#tag-timed-scenes) 3 · [`multi-angle`](pages/en/tags.md#tag-multi-angle) 3 · [`short-film`](pages/en/tags.md#tag-short-film) 3 · [`mecha`](pages/en/tags.md#tag-mecha) 3 · [`skateboard`](pages/en/tags.md#tag-skateboard) 3 · [`subtitles`](pages/en/tags.md#tag-subtitles) 3 · [`gym`](pages/en/tags.md#tag-gym) 3 · [`morning-routine`](pages/en/tags.md#tag-morning-routine) 3 · [`subway`](pages/en/tags.md#tag-subway) 3 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 3 · [`noir`](pages/en/tags.md#tag-noir) 3 · [`motorcycle`](pages/en/tags.md#tag-motorcycle) 3 · [`whimsical`](pages/en/tags.md#tag-whimsical) 3 · [`fashion-ad`](pages/en/tags.md#tag-fashion-ad) 3 · [`skin-texture`](pages/en/tags.md#tag-skin-texture) 3 · [`muted-palette`](pages/en/tags.md#tag-muted-palette) 3 · [`amigurumi`](pages/en/tags.md#tag-amigurumi) 3 · [`fashion-illustration`](pages/en/tags.md#tag-fashion-illustration) 3 · [`magazine-cover`](pages/en/tags.md#tag-magazine-cover) 3 · [`style-conversion`](pages/en/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/en/tags.md#tag-e-commerce) 3 · [`graphite`](pages/en/tags.md#tag-graphite) 3 · [`landing-page`](pages/en/tags.md#tag-landing-page) 3 · [`city-map`](pages/en/tags.md#tag-city-map) 3 · [`face-consistency`](pages/en/tags.md#tag-face-consistency) 3 · [`cutout`](pages/en/tags.md#tag-cutout) 3 · [`design-system`](pages/en/tags.md#tag-design-system) 3 · [`light-mode`](pages/en/tags.md#tag-light-mode) 3 · [`beauty-portrait`](pages/en/tags.md#tag-beauty-portrait) 3 · [`night-street`](pages/en/tags.md#tag-night-street) 3 · [`brutalist`](pages/en/tags.md#tag-brutalist) 3 · [`camera-roll`](pages/en/tags.md#tag-camera-roll) 3 · [`humor`](pages/en/tags.md#tag-humor) 3 · [`candlelight`](pages/en/tags.md#tag-candlelight) 3 · [`3d-caricature`](pages/en/tags.md#tag-3d-caricature) 3 · [`food-ad`](pages/en/tags.md#tag-food-ad) 3 · [`calligraphy`](pages/en/tags.md#tag-calligraphy) 3 · [`saas`](pages/en/tags.md#tag-saas) 3 · [`clay`](pages/en/tags.md#tag-clay) 3 · [`comic`](pages/en/tags.md#tag-comic) 3 · [`comic-book`](pages/en/tags.md#tag-comic-book) 3 · [`profile`](pages/en/tags.md#tag-profile) 3 · [`16-9`](pages/en/tags.md#tag-16-9) 3 · [`product-design`](pages/en/tags.md#tag-product-design) 3 · [`expression-grid`](pages/en/tags.md#tag-expression-grid) 3 · [`low-key`](pages/en/tags.md#tag-low-key) 3 · [`digicam`](pages/en/tags.md#tag-digicam) 3 · [`chrome`](pages/en/tags.md#tag-chrome) 3 · [`art-studio`](pages/en/tags.md#tag-art-studio) 3 · [`mural`](pages/en/tags.md#tag-mural) 3 · [`photo-collage`](pages/en/tags.md#tag-photo-collage) 3 · [`engineering`](pages/en/tags.md#tag-engineering) 3 · [`9-16`](pages/en/tags.md#tag-9-16) 3 · [`dramatic-lighting`](pages/en/tags.md#tag-dramatic-lighting) 3 · [`strawberry`](pages/en/tags.md#tag-strawberry) 3 · [`portrait-collage`](pages/en/tags.md#tag-portrait-collage) 3 · [`watch`](pages/en/tags.md#tag-watch) 3 · [`campaign-poster`](pages/en/tags.md#tag-campaign-poster) 3 · [`surreal-scale`](pages/en/tags.md#tag-surreal-scale) 3 · [`panoramic`](pages/en/tags.md#tag-panoramic) 3 · [`ad-poster`](pages/en/tags.md#tag-ad-poster) 3 · [`group-portrait`](pages/en/tags.md#tag-group-portrait) 3 · [`disintegration`](pages/en/tags.md#tag-disintegration) 3 · [`polaroid`](pages/en/tags.md#tag-polaroid) 3 · [`dessert`](pages/en/tags.md#tag-dessert) 3 · [`palette-knife`](pages/en/tags.md#tag-palette-knife) 3 · [`paper-cut`](pages/en/tags.md#tag-paper-cut) 3 · [`text-layout`](pages/en/tags.md#tag-text-layout) 3 · [`ink-doodle`](pages/en/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/en/tags.md#tag-local-edit) 3 · [`upscale`](pages/en/tags.md#tag-upscale) 3 · [`color-analysis`](pages/en/tags.md#tag-color-analysis) 3 · [`magazine`](pages/en/tags.md#tag-magazine) 3 · [`paper-collage`](pages/en/tags.md#tag-paper-collage) 3 · [`advertisement`](pages/en/tags.md#tag-advertisement) 3 · [`paper-cutout`](pages/en/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/en/tags.md#tag-memory-card) 3 · [`hard-light`](pages/en/tags.md#tag-hard-light) 3 · [`naive-art`](pages/en/tags.md#tag-naive-art) 3 · [`ui-design`](pages/en/tags.md#tag-ui-design) 3 · [`chinese-style`](pages/en/tags.md#tag-chinese-style) 3 · [`product-mockup`](pages/en/tags.md#tag-product-mockup) 3 · [`macro-photography`](pages/en/tags.md#tag-macro-photography) 3 · [`phone-photo`](pages/en/tags.md#tag-phone-photo) 3 · [`iphone-style`](pages/en/tags.md#tag-iphone-style) 3 · [`photo-reference`](pages/en/tags.md#tag-photo-reference) 3 · [`split-composition`](pages/en/tags.md#tag-split-composition) 3 · [`composite`](pages/en/tags.md#tag-composite) 3 · [`warm-tones`](pages/en/tags.md#tag-warm-tones) 3 · [`dark-background`](pages/en/tags.md#tag-dark-background) 3 · [`logo-design`](pages/en/tags.md#tag-logo-design) 3 · [`xiaohongshu`](pages/en/tags.md#tag-xiaohongshu) 3 · [`winter`](pages/en/tags.md#tag-winter) 3 · [`brand`](pages/en/tags.md#tag-brand) 3 · [`parchment`](pages/en/tags.md#tag-parchment) 3 · [`cinematic-portrait`](pages/en/tags.md#tag-cinematic-portrait) 3 · [`chocolate`](pages/en/tags.md#tag-chocolate) 3 · [`soft-lighting`](pages/en/tags.md#tag-soft-lighting) 3
+[`portrait`](pages/en/tags.md#tag-portrait) 141 · [`template`](pages/en/tags.md#tag-template) 119 · [`fashion`](pages/en/tags.md#tag-fashion) 100 · [`cinematic`](pages/en/tags.md#tag-cinematic) 97 · [`typography`](pages/en/tags.md#tag-typography) 94 · [`editorial`](pages/en/tags.md#tag-editorial) 83 · [`anime`](pages/en/tags.md#tag-anime) 71 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 63 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 62 · [`infographic`](pages/en/tags.md#tag-infographic) 61 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 58 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 55 · [`dialogue`](pages/en/tags.md#tag-dialogue) 51 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 48 · [`handheld`](pages/en/tags.md#tag-handheld) 45 · [`fantasy`](pages/en/tags.md#tag-fantasy) 44 · [`macro`](pages/en/tags.md#tag-macro) 43 · [`storyboard`](pages/en/tags.md#tag-storyboard) 42 · [`action`](pages/en/tags.md#tag-action) 42 · [`collage`](pages/en/tags.md#tag-collage) 41 · [`miniature`](pages/en/tags.md#tag-miniature) 41 · [`selfie`](pages/en/tags.md#tag-selfie) 40 · [`reference-image`](pages/en/tags.md#tag-reference-image) 38 · [`poster`](pages/en/tags.md#tag-poster) 38 · [`diorama`](pages/en/tags.md#tag-diorama) 36 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 35 · [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) 34 · [`vertical`](pages/en/tags.md#tag-vertical) 33 · [`watercolor`](pages/en/tags.md#tag-watercolor) 33 · [`food`](pages/en/tags.md#tag-food) 32 · [`chibi`](pages/en/tags.md#tag-chibi) 32 · [`pastel`](pages/en/tags.md#tag-pastel) 32 · [`grid`](pages/en/tags.md#tag-grid) 30 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 29 · [`surreal`](pages/en/tags.md#tag-surreal) 27 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 27 · [`film-grain`](pages/en/tags.md#tag-film-grain) 27 · [`identity-lock`](pages/en/tags.md#tag-identity-lock) 27 · [`monochrome`](pages/en/tags.md#tag-monochrome) 26 · [`reference-photo`](pages/en/tags.md#tag-reference-photo) 24 · [`comedy`](pages/en/tags.md#tag-comedy) 23 · [`architecture`](pages/en/tags.md#tag-architecture) 23 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 23 · [`3d-render`](pages/en/tags.md#tag-3d-render) 23 · [`vlog`](pages/en/tags.md#tag-vlog) 22 · [`low-angle`](pages/en/tags.md#tag-low-angle) 22 · [`doodle`](pages/en/tags.md#tag-doodle) 22 · [`split-layout`](pages/en/tags.md#tag-split-layout) 22 · [`candid`](pages/en/tags.md#tag-candid) 22 · [`product-ad`](pages/en/tags.md#tag-product-ad) 21 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 21 · [`travel`](pages/en/tags.md#tag-travel) 21 · [`landscape`](pages/en/tags.md#tag-landscape) 21 · [`face-reference`](pages/en/tags.md#tag-face-reference) 21 · [`fashion-editorial`](pages/en/tags.md#tag-fashion-editorial) 21 · [`isometric`](pages/en/tags.md#tag-isometric) 21 · [`streetwear`](pages/en/tags.md#tag-streetwear) 20 · [`long-take`](pages/en/tags.md#tag-long-take) 19 · [`minimalist`](pages/en/tags.md#tag-minimalist) 19 · [`night`](pages/en/tags.md#tag-night) 18 · [`pixel-art`](pages/en/tags.md#tag-pixel-art) 18 · [`reference-images`](pages/en/tags.md#tag-reference-images) 17 · [`cafe`](pages/en/tags.md#tag-cafe) 17 · [`studio-portrait`](pages/en/tags.md#tag-studio-portrait) 17 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 17 · [`luxury`](pages/en/tags.md#tag-luxury) 16 · [`commercial`](pages/en/tags.md#tag-commercial) 16 · [`black-and-white`](pages/en/tags.md#tag-black-and-white) 16 · [`double-exposure`](pages/en/tags.md#tag-double-exposure) 16 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 15 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 15 · [`landmark`](pages/en/tags.md#tag-landmark) 15 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 15 · [`vintage`](pages/en/tags.md#tag-vintage) 15 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 15 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 14 · [`sports`](pages/en/tags.md#tag-sports) 14 · [`rain`](pages/en/tags.md#tag-rain) 14 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 14 · [`film-look`](pages/en/tags.md#tag-film-look) 14 · [`pixar-style`](pages/en/tags.md#tag-pixar-style) 14 · [`character`](pages/en/tags.md#tag-character) 14 · [`food-photography`](pages/en/tags.md#tag-food-photography) 14 · [`oil-painting`](pages/en/tags.md#tag-oil-painting) 14 · [`storybook`](pages/en/tags.md#tag-storybook) 14 · [`negative-space`](pages/en/tags.md#tag-negative-space) 14 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 13 · [`character-reference`](pages/en/tags.md#tag-character-reference) 13 · [`dragon`](pages/en/tags.md#tag-dragon) 13 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 13 · [`flat-vector`](pages/en/tags.md#tag-flat-vector) 13 · [`japanese`](pages/en/tags.md#tag-japanese) 13 · [`pov`](pages/en/tags.md#tag-pov) 13 · [`studio`](pages/en/tags.md#tag-studio) 13 · [`advertising`](pages/en/tags.md#tag-advertising) 13 · [`packaging`](pages/en/tags.md#tag-packaging) 13 · [`motion-blur`](pages/en/tags.md#tag-motion-blur) 13 · [`bokeh`](pages/en/tags.md#tag-bokeh) 12 · [`sound-design`](pages/en/tags.md#tag-sound-design) 12 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 12 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 12 · [`city`](pages/en/tags.md#tag-city) 12 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 12 · [`couple`](pages/en/tags.md#tag-couple) 12 · [`layout`](pages/en/tags.md#tag-layout) 12 · [`sketchbook`](pages/en/tags.md#tag-sketchbook) 12 · [`chinese-text`](pages/en/tags.md#tag-chinese-text) 12 · [`product-photography`](pages/en/tags.md#tag-product-photography) 12 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 11 · [`japanese-text`](pages/en/tags.md#tag-japanese-text) 11 · [`korean`](pages/en/tags.md#tag-korean) 11 · [`neon`](pages/en/tags.md#tag-neon) 11 · [`cat`](pages/en/tags.md#tag-cat) 11 · [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) 11 · [`grid-layout`](pages/en/tags.md#tag-grid-layout) 11 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 11 · [`campaign`](pages/en/tags.md#tag-campaign) 11 · [`sunset`](pages/en/tags.md#tag-sunset) 11 · [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) 11 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 10 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 10 · [`ugc`](pages/en/tags.md#tag-ugc) 10 · [`animals`](pages/en/tags.md#tag-animals) 10 · [`street-photography`](pages/en/tags.md#tag-street-photography) 10 · [`close-up`](pages/en/tags.md#tag-close-up) 10 · [`line-art`](pages/en/tags.md#tag-line-art) 10 · [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) 10 · [`flash-photography`](pages/en/tags.md#tag-flash-photography) 10 · [`85mm`](pages/en/tags.md#tag-85mm) 10 · [`identity-reference`](pages/en/tags.md#tag-identity-reference) 10 · [`documentary`](pages/en/tags.md#tag-documentary) 9 · [`dance`](pages/en/tags.md#tag-dance) 9 · [`game-ui`](pages/en/tags.md#tag-game-ui) 9 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 9 · [`pencil-sketch`](pages/en/tags.md#tag-pencil-sketch) 9 · [`consistency`](pages/en/tags.md#tag-consistency) 9 · [`beverage`](pages/en/tags.md#tag-beverage) 9 · [`logo`](pages/en/tags.md#tag-logo) 9 · [`hand-drawn`](pages/en/tags.md#tag-hand-drawn) 9 · [`turnaround`](pages/en/tags.md#tag-turnaround) 9 · [`reference-face`](pages/en/tags.md#tag-reference-face) 9 · [`product-poster`](pages/en/tags.md#tag-product-poster) 9 · [`kawaii`](pages/en/tags.md#tag-kawaii) 9 · [`beauty`](pages/en/tags.md#tag-beauty) 9 · [`impasto`](pages/en/tags.md#tag-impasto) 9 · [`fisheye`](pages/en/tags.md#tag-fisheye) 9 · [`exploded-view`](pages/en/tags.md#tag-exploded-view) 9 · [`timeline`](pages/en/tags.md#tag-timeline) 8 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 8 · [`creature`](pages/en/tags.md#tag-creature) 8 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 8 · [`halftone`](pages/en/tags.md#tag-halftone) 8 · [`transformation`](pages/en/tags.md#tag-transformation) 8 · [`skincare`](pages/en/tags.md#tag-skincare) 8 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 8 · [`text-rendering`](pages/en/tags.md#tag-text-rendering) 8 · [`silhouette`](pages/en/tags.md#tag-silhouette) 8 · [`y2k`](pages/en/tags.md#tag-y2k) 8 · [`hud`](pages/en/tags.md#tag-hud) 8 · [`home-video`](pages/en/tags.md#tag-home-video) 8 · [`horror`](pages/en/tags.md#tag-horror) 8 · [`realism`](pages/en/tags.md#tag-realism) 8 · [`product`](pages/en/tags.md#tag-product) 8 · [`cityscape`](pages/en/tags.md#tag-cityscape) 8 · [`photorealism`](pages/en/tags.md#tag-photorealism) 8 · [`sticker`](pages/en/tags.md#tag-sticker) 8 · [`blueprint`](pages/en/tags.md#tag-blueprint) 8 · [`full-body`](pages/en/tags.md#tag-full-body) 8 · [`menswear`](pages/en/tags.md#tag-menswear) 8 · [`screen-print`](pages/en/tags.md#tag-screen-print) 8 · [`sketch`](pages/en/tags.md#tag-sketch) 8 · [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) 8 · [`natural-light`](pages/en/tags.md#tag-natural-light) 8 · [`cinematic-lighting`](pages/en/tags.md#tag-cinematic-lighting) 8 · [`music-video`](pages/en/tags.md#tag-music-video) 7 · [`automotive`](pages/en/tags.md#tag-automotive) 7 · [`perfume`](pages/en/tags.md#tag-perfume) 7 · [`vfx`](pages/en/tags.md#tag-vfx) 7 · [`product-shot`](pages/en/tags.md#tag-product-shot) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) 7 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 7 · [`video-edit`](pages/en/tags.md#tag-video-edit) 7 · [`animal`](pages/en/tags.md#tag-animal) 7 · [`street`](pages/en/tags.md#tag-street) 7 · [`beach`](pages/en/tags.md#tag-beach) 7 · [`fitness`](pages/en/tags.md#tag-fitness) 7 · [`nature`](pages/en/tags.md#tag-nature) 7 · [`cute`](pages/en/tags.md#tag-cute) 7 · [`illustration`](pages/en/tags.md#tag-illustration) 7 · [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) 7 · [`social-media`](pages/en/tags.md#tag-social-media) 7 · [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) 7 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 7 · [`chinese-typography`](pages/en/tags.md#tag-chinese-typography) 7 · [`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) 7 · [`street-fashion`](pages/en/tags.md#tag-street-fashion) 7 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 6 · [`storytelling`](pages/en/tags.md#tag-storytelling) 6 · [`one-take`](pages/en/tags.md#tag-one-take) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 6 · [`realistic`](pages/en/tags.md#tag-realistic) 6 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 6 · [`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) 6 · [`wide-angle`](pages/en/tags.md#tag-wide-angle) 6 · [`object-swap`](pages/en/tags.md#tag-object-swap) 6 · [`music`](pages/en/tags.md#tag-music) 6 · [`embroidery`](pages/en/tags.md#tag-embroidery) 6 · [`animation`](pages/en/tags.md#tag-animation) 6 · [`shot-list`](pages/en/tags.md#tag-shot-list) 6 · [`snow`](pages/en/tags.md#tag-snow) 6 · [`superhero`](pages/en/tags.md#tag-superhero) 6 · [`coastal`](pages/en/tags.md#tag-coastal) 6 · [`pet`](pages/en/tags.md#tag-pet) 6 · [`interior`](pages/en/tags.md#tag-interior) 6 · [`backlight`](pages/en/tags.md#tag-backlight) 6 · [`japanese-typography`](pages/en/tags.md#tag-japanese-typography) 6 · [`paper-craft`](pages/en/tags.md#tag-paper-craft) 6 · [`screenshot`](pages/en/tags.md#tag-screenshot) 6 · [`colored-pencil`](pages/en/tags.md#tag-colored-pencil) 6 · [`street-style`](pages/en/tags.md#tag-street-style) 6 · [`recipe`](pages/en/tags.md#tag-recipe) 6 · [`doodles`](pages/en/tags.md#tag-doodles) 6 · [`brand-identity`](pages/en/tags.md#tag-brand-identity) 6 · [`concept-art`](pages/en/tags.md#tag-concept-art) 6 · [`chiaroscuro`](pages/en/tags.md#tag-chiaroscuro) 6 · [`mascot`](pages/en/tags.md#tag-mascot) 6 · [`expressions`](pages/en/tags.md#tag-expressions) 6 · [`map`](pages/en/tags.md#tag-map) 6 · [`reflection`](pages/en/tags.md#tag-reflection) 6 · [`product-render`](pages/en/tags.md#tag-product-render) 6 · [`mockup`](pages/en/tags.md#tag-mockup) 6 · [`golden-light`](pages/en/tags.md#tag-golden-light) 6 · [`limited-palette`](pages/en/tags.md#tag-limited-palette) 6 · [`3d`](pages/en/tags.md#tag-3d) 6 · [`papercraft`](pages/en/tags.md#tag-papercraft) 6 · [`labels`](pages/en/tags.md#tag-labels) 6 · [`historical`](pages/en/tags.md#tag-historical) 5 · [`education`](pages/en/tags.md#tag-education) 5 · [`first-person`](pages/en/tags.md#tag-first-person) 5 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 5 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 5 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`wildlife`](pages/en/tags.md#tag-wildlife) 5 · [`nostalgic`](pages/en/tags.md#tag-nostalgic) 5 · [`handheld-camera`](pages/en/tags.md#tag-handheld-camera) 5 · [`seaside`](pages/en/tags.md#tag-seaside) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`multilingual`](pages/en/tags.md#tag-multilingual) 5 · [`camera-move`](pages/en/tags.md#tag-camera-move) 5 · [`stop-motion`](pages/en/tags.md#tag-stop-motion) 5 · [`chase`](pages/en/tags.md#tag-chase) 5 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 5 · [`autumn`](pages/en/tags.md#tag-autumn) 5 · [`photoreal`](pages/en/tags.md#tag-photoreal) 5 · [`underwater`](pages/en/tags.md#tag-underwater) 5 · [`negative-prompt`](pages/en/tags.md#tag-negative-prompt) 5 · [`painterly`](pages/en/tags.md#tag-painterly) 5 · [`lookbook`](pages/en/tags.md#tag-lookbook) 5 · [`football`](pages/en/tags.md#tag-football) 5 · [`street-portrait`](pages/en/tags.md#tag-street-portrait) 5 · [`reference-identity`](pages/en/tags.md#tag-reference-identity) 5 · [`before-after`](pages/en/tags.md#tag-before-after) 5 · [`pose-sheet`](pages/en/tags.md#tag-pose-sheet) 5 · [`pop-art`](pages/en/tags.md#tag-pop-art) 5 · [`street-art`](pages/en/tags.md#tag-street-art) 5 · [`minimal`](pages/en/tags.md#tag-minimal) 5 · [`birthday`](pages/en/tags.md#tag-birthday) 5 · [`botanical`](pages/en/tags.md#tag-botanical) 5 · [`cherry-blossom`](pages/en/tags.md#tag-cherry-blossom) 5 · [`floral`](pages/en/tags.md#tag-floral) 5 · [`identity-preserve`](pages/en/tags.md#tag-identity-preserve) 5 · [`crayon`](pages/en/tags.md#tag-crayon) 5 · [`travel-journal`](pages/en/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/en/tags.md#tag-ink-sketch) 5 · [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) 5 · [`geometric`](pages/en/tags.md#tag-geometric) 5 · [`fan-art`](pages/en/tags.md#tag-fan-art) 5 · [`risograph`](pages/en/tags.md#tag-risograph) 5 · [`ink-wash`](pages/en/tags.md#tag-ink-wash) 5 · [`graffiti`](pages/en/tags.md#tag-graffiti) 5 · [`paris`](pages/en/tags.md#tag-paris) 5 · [`celebrity`](pages/en/tags.md#tag-celebrity) 5 · [`sunglasses`](pages/en/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`product-reference`](pages/en/tags.md#tag-product-reference) 4 · [`montage`](pages/en/tags.md#tag-montage) 4 · [`samurai`](pages/en/tags.md#tag-samurai) 4 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 4 · [`sitcom`](pages/en/tags.md#tag-sitcom) 4 · [`educational`](pages/en/tags.md#tag-educational) 4 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 4 · [`single-take`](pages/en/tags.md#tag-single-take) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`single-shot`](pages/en/tags.md#tag-single-shot) 4 · [`physics`](pages/en/tags.md#tag-physics) 4 · [`voiceover`](pages/en/tags.md#tag-voiceover) 4 · [`keyframes`](pages/en/tags.md#tag-keyframes) 4 · [`kids-education`](pages/en/tags.md#tag-kids-education) 4 · [`claymation`](pages/en/tags.md#tag-claymation) 4 · [`asmr`](pages/en/tags.md#tag-asmr) 4 · [`live-action`](pages/en/tags.md#tag-live-action) 4 · [`family`](pages/en/tags.md#tag-family) 4 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 4 · [`urban`](pages/en/tags.md#tag-urban) 4 · [`romance`](pages/en/tags.md#tag-romance) 4 · [`desert`](pages/en/tags.md#tag-desert) 4 · [`scale-contrast`](pages/en/tags.md#tag-scale-contrast) 4 · [`slice-of-life`](pages/en/tags.md#tag-slice-of-life) 4 · [`restaurant`](pages/en/tags.md#tag-restaurant) 4 · [`thriller`](pages/en/tags.md#tag-thriller) 4 · [`crowd`](pages/en/tags.md#tag-crowd) 4 · [`top-down`](pages/en/tags.md#tag-top-down) 4 · [`scale`](pages/en/tags.md#tag-scale) 4 · [`world-building`](pages/en/tags.md#tag-world-building) 4 · [`worldbuilding`](pages/en/tags.md#tag-worldbuilding) 4 · [`character-design`](pages/en/tags.md#tag-character-design) 4 · [`film-photography`](pages/en/tags.md#tag-film-photography) 4 · [`glassmorphism`](pages/en/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/en/tags.md#tag-self-portrait) 4 · [`comparison`](pages/en/tags.md#tag-comparison) 4 · [`japan`](pages/en/tags.md#tag-japan) 4 · [`parody`](pages/en/tags.md#tag-parody) 4 · [`ms-paint`](pages/en/tags.md#tag-ms-paint) 4 · [`vector`](pages/en/tags.md#tag-vector) 4 · [`side-profile`](pages/en/tags.md#tag-side-profile) 4 · [`bilingual`](pages/en/tags.md#tag-bilingual) 4 · [`mediterranean`](pages/en/tags.md#tag-mediterranean) 4 · [`fashion-portrait`](pages/en/tags.md#tag-fashion-portrait) 4 · [`butterfly`](pages/en/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/en/tags.md#tag-candid-portrait) 4 · [`diagram`](pages/en/tags.md#tag-diagram) 4 · [`product-photo`](pages/en/tags.md#tag-product-photo) 4 · [`game-asset`](pages/en/tags.md#tag-game-asset) 4 · [`billboard`](pages/en/tags.md#tag-billboard) 4 · [`low-light`](pages/en/tags.md#tag-low-light) 4 · [`landmarks`](pages/en/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/en/tags.md#tag-direct-flash) 4 · [`photobooth`](pages/en/tags.md#tag-photobooth) 4 · [`contact-sheet`](pages/en/tags.md#tag-contact-sheet) 4 · [`satire`](pages/en/tags.md#tag-satire) 4 · [`cozy`](pages/en/tags.md#tag-cozy) 4 · [`caricature`](pages/en/tags.md#tag-caricature) 4 · [`sepia`](pages/en/tags.md#tag-sepia) 4 · [`zodiac`](pages/en/tags.md#tag-zodiac) 4 · [`movie-poster`](pages/en/tags.md#tag-movie-poster) 4 · [`manga`](pages/en/tags.md#tag-manga) 4 · [`encyclopedia`](pages/en/tags.md#tag-encyclopedia) 4 · [`photo-dump`](pages/en/tags.md#tag-photo-dump) 4 · [`summer`](pages/en/tags.md#tag-summer) 4 · [`flat-color`](pages/en/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/en/tags.md#tag-miniature-world) 4 · [`triptych`](pages/en/tags.md#tag-triptych) 4 · [`children-illustration`](pages/en/tags.md#tag-children-illustration) 4 · [`splash`](pages/en/tags.md#tag-splash) 4 · [`color-palette`](pages/en/tags.md#tag-color-palette) 4 · [`white-background`](pages/en/tags.md#tag-white-background) 4 · [`retro`](pages/en/tags.md#tag-retro) 4 · [`grid-collage`](pages/en/tags.md#tag-grid-collage) 4 · [`bedroom`](pages/en/tags.md#tag-bedroom) 4 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 4 · [`photo-restoration`](pages/en/tags.md#tag-photo-restoration) 4 · [`tokyo`](pages/en/tags.md#tag-tokyo) 4 · [`street-photo`](pages/en/tags.md#tag-street-photo) 4 · [`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) 4 · [`liquid-splash`](pages/en/tags.md#tag-liquid-splash) 4 · [`rooftop`](pages/en/tags.md#tag-rooftop) 4 · [`vintage-film`](pages/en/tags.md#tag-vintage-film) 3 · [`kids`](pages/en/tags.md#tag-kids) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`fps`](pages/en/tags.md#tag-fps) 3 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 3 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 3 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 3 · [`night-scene`](pages/en/tags.md#tag-night-scene) 3 · [`forest`](pages/en/tags.md#tag-forest) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 3 · [`3d-typography`](pages/en/tags.md#tag-3d-typography) 3 · [`timestamped-shots`](pages/en/tags.md#tag-timestamped-shots) 3 · [`morph-transition`](pages/en/tags.md#tag-morph-transition) 3 · [`livestream`](pages/en/tags.md#tag-livestream) 3 · [`timelapse`](pages/en/tags.md#tag-timelapse) 3 · [`match-cut`](pages/en/tags.md#tag-match-cut) 3 · [`camcorder`](pages/en/tags.md#tag-camcorder) 3 · [`aerial`](pages/en/tags.md#tag-aerial) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`image-to-video`](pages/en/tags.md#tag-image-to-video) 3 · [`push-in`](pages/en/tags.md#tag-push-in) 3 · [`felt`](pages/en/tags.md#tag-felt) 3 · [`painting`](pages/en/tags.md#tag-painting) 3 · [`classroom`](pages/en/tags.md#tag-classroom) 3 · [`camera-angle`](pages/en/tags.md#tag-camera-angle) 3 · [`pop-out`](pages/en/tags.md#tag-pop-out) 3 · [`reference-character`](pages/en/tags.md#tag-reference-character) 3 · [`timed-scenes`](pages/en/tags.md#tag-timed-scenes) 3 · [`multi-angle`](pages/en/tags.md#tag-multi-angle) 3 · [`short-film`](pages/en/tags.md#tag-short-film) 3 · [`mecha`](pages/en/tags.md#tag-mecha) 3 · [`skateboard`](pages/en/tags.md#tag-skateboard) 3 · [`subtitles`](pages/en/tags.md#tag-subtitles) 3 · [`gym`](pages/en/tags.md#tag-gym) 3 · [`morning-routine`](pages/en/tags.md#tag-morning-routine) 3 · [`subway`](pages/en/tags.md#tag-subway) 3 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 3 · [`noir`](pages/en/tags.md#tag-noir) 3 · [`motorcycle`](pages/en/tags.md#tag-motorcycle) 3 · [`whimsical`](pages/en/tags.md#tag-whimsical) 3 · [`fashion-ad`](pages/en/tags.md#tag-fashion-ad) 3 · [`skin-texture`](pages/en/tags.md#tag-skin-texture) 3 · [`amigurumi`](pages/en/tags.md#tag-amigurumi) 3 · [`fashion-illustration`](pages/en/tags.md#tag-fashion-illustration) 3 · [`magazine-cover`](pages/en/tags.md#tag-magazine-cover) 3 · [`key-visual`](pages/en/tags.md#tag-key-visual) 3 · [`style-conversion`](pages/en/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/en/tags.md#tag-e-commerce) 3 · [`graphite`](pages/en/tags.md#tag-graphite) 3 · [`landing-page`](pages/en/tags.md#tag-landing-page) 3 · [`city-map`](pages/en/tags.md#tag-city-map) 3 · [`face-consistency`](pages/en/tags.md#tag-face-consistency) 3 · [`cutout`](pages/en/tags.md#tag-cutout) 3 · [`design-system`](pages/en/tags.md#tag-design-system) 3 · [`light-mode`](pages/en/tags.md#tag-light-mode) 3 · [`beauty-portrait`](pages/en/tags.md#tag-beauty-portrait) 3 · [`night-street`](pages/en/tags.md#tag-night-street) 3 · [`brutalist`](pages/en/tags.md#tag-brutalist) 3 · [`camera-roll`](pages/en/tags.md#tag-camera-roll) 3 · [`humor`](pages/en/tags.md#tag-humor) 3 · [`candlelight`](pages/en/tags.md#tag-candlelight) 3 · [`3d-caricature`](pages/en/tags.md#tag-3d-caricature) 3 · [`food-ad`](pages/en/tags.md#tag-food-ad) 3 · [`calligraphy`](pages/en/tags.md#tag-calligraphy) 3 · [`saas`](pages/en/tags.md#tag-saas) 3 · [`clay`](pages/en/tags.md#tag-clay) 3 · [`comic`](pages/en/tags.md#tag-comic) 3 · [`comic-book`](pages/en/tags.md#tag-comic-book) 3 · [`profile`](pages/en/tags.md#tag-profile) 3 · [`16-9`](pages/en/tags.md#tag-16-9) 3 · [`product-design`](pages/en/tags.md#tag-product-design) 3 · [`expression-grid`](pages/en/tags.md#tag-expression-grid) 3 · [`low-key`](pages/en/tags.md#tag-low-key) 3 · [`chrome`](pages/en/tags.md#tag-chrome) 3 · [`art-studio`](pages/en/tags.md#tag-art-studio) 3 · [`mural`](pages/en/tags.md#tag-mural) 3 · [`photo-collage`](pages/en/tags.md#tag-photo-collage) 3 · [`engineering`](pages/en/tags.md#tag-engineering) 3 · [`9-16`](pages/en/tags.md#tag-9-16) 3 · [`dramatic-lighting`](pages/en/tags.md#tag-dramatic-lighting) 3 · [`strawberry`](pages/en/tags.md#tag-strawberry) 3 · [`portrait-collage`](pages/en/tags.md#tag-portrait-collage) 3 · [`watch`](pages/en/tags.md#tag-watch) 3 · [`campaign-poster`](pages/en/tags.md#tag-campaign-poster) 3 · [`surreal-scale`](pages/en/tags.md#tag-surreal-scale) 3 · [`panoramic`](pages/en/tags.md#tag-panoramic) 3 · [`ad-poster`](pages/en/tags.md#tag-ad-poster) 3 · [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) 3 · [`group-portrait`](pages/en/tags.md#tag-group-portrait) 3 · [`mid-century`](pages/en/tags.md#tag-mid-century) 3 · [`disintegration`](pages/en/tags.md#tag-disintegration) 3 · [`polaroid`](pages/en/tags.md#tag-polaroid) 3 · [`dessert`](pages/en/tags.md#tag-dessert) 3 · [`palette-knife`](pages/en/tags.md#tag-palette-knife) 3 · [`paper-cut`](pages/en/tags.md#tag-paper-cut) 3 · [`text-layout`](pages/en/tags.md#tag-text-layout) 3 · [`textile`](pages/en/tags.md#tag-textile) 3 · [`ink-doodle`](pages/en/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/en/tags.md#tag-local-edit) 3 · [`brand-poster`](pages/en/tags.md#tag-brand-poster) 3 · [`upscale`](pages/en/tags.md#tag-upscale) 3 · [`color-analysis`](pages/en/tags.md#tag-color-analysis) 3 · [`magazine`](pages/en/tags.md#tag-magazine) 3 · [`paper-collage`](pages/en/tags.md#tag-paper-collage) 3 · [`advertisement`](pages/en/tags.md#tag-advertisement) 3 · [`paper-cutout`](pages/en/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/en/tags.md#tag-memory-card) 3 · [`hard-light`](pages/en/tags.md#tag-hard-light) 3 · [`naive-art`](pages/en/tags.md#tag-naive-art) 3 · [`ui-design`](pages/en/tags.md#tag-ui-design) 3 · [`chinese-style`](pages/en/tags.md#tag-chinese-style) 3 · [`product-mockup`](pages/en/tags.md#tag-product-mockup) 3 · [`macro-photography`](pages/en/tags.md#tag-macro-photography) 3 · [`phone-photo`](pages/en/tags.md#tag-phone-photo) 3 · [`iphone-style`](pages/en/tags.md#tag-iphone-style) 3 · [`photo-reference`](pages/en/tags.md#tag-photo-reference) 3 · [`split-composition`](pages/en/tags.md#tag-split-composition) 3 · [`warm-tones`](pages/en/tags.md#tag-warm-tones) 3 · [`dark-background`](pages/en/tags.md#tag-dark-background) 3 · [`logo-design`](pages/en/tags.md#tag-logo-design) 3 · [`xiaohongshu`](pages/en/tags.md#tag-xiaohongshu) 3 · [`winter`](pages/en/tags.md#tag-winter) 3 · [`brand`](pages/en/tags.md#tag-brand) 3 · [`parchment`](pages/en/tags.md#tag-parchment) 3 · [`cinematic-portrait`](pages/en/tags.md#tag-cinematic-portrait) 3 · [`chocolate`](pages/en/tags.md#tag-chocolate) 3 · [`soft-lighting`](pages/en/tags.md#tag-soft-lighting) 3
 
-**[All 2197 tags](pages/en/tags.md)**
+**[All 2182 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

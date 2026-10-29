@@ -1,6 +1,6 @@
 # Seedance 2.5
 
-[Back to the list](../../README.md) · All 164 entries · **1** · [2](video-seedance25-2.md) · [3](video-seedance25-3.md)
+[Back to the list](../../README.md) · All 163 entries · **1** · [2](video-seedance25-2.md) · [3](video-seedance25-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### Seoul subway revenge comedy
@@ -2057,33 +2057,6 @@ A warm, intimate scene continuing a dark-fantasy medieval drama, shot inside a r
 
 </details>
 
-<a id="seedance-baby-dragon-secret-cottage-bond"></a>
-### Secret baby dragon bond in stone cottage
-
-<a href="https://x.com/SadiaMalik182/status/2113908264387981758"><img src="../../previews/seedance-baby-dragon-secret-cottage-bond.jpg" width="360"></a>
-
-A three beat structure of curious sniffing, hand feeding and an intimate close-up ending gives the clip a clear emotional arc. Warm firelight against cool window daylight and explicit photorealistic creature texture cues keep the dragon believable.
-
-Seedance 2.5 · Text-to-video · Source: [@SadiaMalik182 on X](https://x.com/SadiaMalik182/status/2113908264387981758) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dark-fantasy`](tags.md#tag-dark-fantasy) [`creature`](tags.md#tag-creature) [`cinematic`](tags.md#tag-cinematic) [`storytelling`](tags.md#tag-storytelling) [`lighting-contrast`](tags.md#tag-lighting-contrast)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic dark-fantasy medieval scene inside a rustic stone cottage. A young woman with long, dark, tousled hair, wearing a cream lace-trimmed dress and dark woolen cloak, secretly cares for a tiny baby dragon with translucent pink skin, delicate frilled fins, glossy dark eyes, and tiny sharp claws.
-
-The baby dragon crouches on a rough wooden table, curiously sniffing a gleaming gold coin. Warm firelight flickers across its realistic, moist skin while cool daylight enters through a small stone window.
-
-The woman gently offers it a small piece of food. The dragon eagerly opens its mouth, revealing tiny sharp teeth, and flutters its delicate fins excitedly. She smiles affectionately as it leans toward her hand.
-
-End with an intimate close-up of the dragon playfully taking the food while the woman watches with a tender smile, their secret bond growing stronger.
-
-Photorealistic creature textures, realistic anatomy, natural human expressions, cinematic camera movement, shallow depth of field, warm amber firelight contrasted with cool grey daylight, muted earthy colors, subtle film grain, prestige television quality, 16:9 widescreen, 24fps, no cartoon appearance, consistent character design, believable creature movement, emotional storytelling.
-```
-
-</details>
-
 <a id="seedance-bali-travel-vlog-eight-scene-montage"></a>
 ### Bali Travel Vlog in Eight Scenes
 
@@ -3608,6 +3581,49 @@ She looks toward the camera while continuing.
 “My legs are already complaining.”
 
 She laughs, loses her rhythm for a second, then continues.
+```
+
+</details>
+
+<a id="seedance-gym-static-martial-arts-vs-five-bullies"></a>
+### Schoolgirl unleashes static martial arts on five bullies
+
+<a href="https://x.com/doctorwasif/status/2091388398153994395"><img src="../../previews/seedance-gym-static-martial-arts-vs-five-bullies.jpg" width="360"></a>
+
+A 30 second single take is split into timed beats of three to five seconds, each with exact dialogue, a short slow motion impact and a snap back to real time. A strict rule block limits the effect to white blue static born from contact, and the camera is told to lag behind her acceleration.
+
+Seedance 2.5 · Text-to-video · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2091388398153994395) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`martial-arts`](tags.md#tag-martial-arts) [`photorealistic`](tags.md#tag-photorealistic) [`one-take`](tags.md#tag-one-take) [`handheld`](tags.md#tag-handheld) [`korean-dialogue`](tags.md#tag-korean-dialogue)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
+
+SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
+
+00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
+
+03–06: He swings again.
+
+06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
+
+09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
+
+12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
+
+17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
+
+22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
+
+27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
+
+COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
+
+STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
+
+CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
 ```
 
 </details>

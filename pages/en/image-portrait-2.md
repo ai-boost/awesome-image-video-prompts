@@ -1,35 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 217 entries · [1](image-portrait.md) · **2**
-
-<a id="nano-banana-amber-glasses-beanie-side-profile-portrait"></a>
-### Side profile portrait in amber glasses and beanie
-
-<a href="https://x.com/weiinberg/status/2071813959901143140"><img src="../../previews/nano-banana-amber-glasses-beanie-side-profile-portrait.jpg" width="360"></a>
-
-A reference image is limited to identity so the outfit, pose and background can be rewritten. The 3/4 angle, 85mm f/1.8 lens, single side window light and a long negative prompt keep skin texture real and the eyes sharp.
-
-Nano Banana 2 · Edit · Source: [@weiinberg on X](https://x.com/weiinberg/status/2071813959901143140) · 72 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`eyewear`](tags.md#tag-eyewear) [`identity-lock`](tags.md#tag-identity-lock) [`window-light`](tags.md#tag-window-light) [`shallow-depth-of-field`](tags.md#tag-shallow-depth-of-field)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the uploaded reference image only for preserving the subject's facial identity, facial proportions, skin tone, hairstyle (unless specified otherwise), and overall likeness. Do not copy the original background, pose, clothing, or lighting.
-
-Create a hyper-realistic close-up portrait from a 3/4 side profile (30–45° angle), with the subject looking slightly away from the camera. Frame from the upper chest to the top of the head, filling 80–90% of the frame. Maintain natural facial anatomy and realistic skin texture with visible pores, subtle imperfections, and authentic details.
-
-Style the subject with transparent amber acetate eyeglasses, a rust-colored ribbed knit beanie, a clean white crew-neck t-shirt, and a thin silver chain necklace. Keep the expression neutral, calm, and thoughtful.
-
-Use soft diffused natural window light from one side, creating gentle shadows and smooth highlights across the face. Background should be a clean off-white or light beige studio wall with minimal distractions. Apply a very shallow depth of field with creamy bokeh and crisp focus on the eyes and face.
-
-Editorial fashion photography, minimalist aesthetic, premium lifestyle portrait, luxury eyewear campaign, muted warm color grading, soft contrast, realistic color tones, DSLR quality, 85mm lens, f/1.8, ISO 100, ultra-sharp focus, photorealistic, HDR, 8K, magazine-quality, high-detail facial features, natural skin, cinematic composition.
-
-Negative prompt: low quality, blurry, oversharpened, plastic skin, extra facial features, distorted anatomy, asymmetrical eyes, duplicate glasses, unrealistic beard or hair, oversaturated colors, watermark, logo, text, frame, cartoon, CGI, illustration, low resolution, noise, artifacts.
-```
-
-</details>
+[Back to the list](../../README.md) · All 213 entries · [1](image-portrait.md) · **2**
 
 <a id="gpt-image-realistic-big-head-miniature-pinwheel-portrait"></a>
 ### Realistic big head miniature portrait holding pinwheel

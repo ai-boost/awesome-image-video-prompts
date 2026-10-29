@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 217 条 · **1** · [2](image-portrait-2.md)
+[返回目录](../../README_zh.md) · 全部 213 条 · **1** · [2](image-portrait-2.md)
 
 <a id="gpt-image-macbook-screen-photo-booth-selfie"></a>
 ### 笔记本屏幕上Photo Booth里的昏暗卧室自拍
@@ -66,25 +66,6 @@ Two women framed by a sun-bleached stone archway — one in the near foreground 
 
 </details>
 
-<a id="gpt-image-mediterranean-archway-y2k-flash-courtyard"></a>
-### 地中海庭院九重葛拱门下的女子
-
-<a href="https://x.com/abxxai/status/2097698694296686623"><img src="../../previews/gpt-image-mediterranean-archway-y2k-flash-courtyard.jpg" width="360"></a>
-
-提示词先写清前景人物的细节，再用简略的第二人物和由拱门、庭院到海面的层次布景铺开空间。随后加入千禧年代数码相机的机顶闪光、CCD 色调、光晕与噪点，让画面更接近随手抓拍的真实感。
-
-GPT Image 2.5 · 文生图 · 出处: [@abxxai on X](https://x.com/abxxai/status/2097698694296686623) · 2,645 赞，统计于 2026-10-28
-
-[`y2k`](tags.md#tag-y2k) [`digicam`](tags.md#tag-digicam) [`flash-photography`](tags.md#tag-flash-photography) [`mediterranean`](tags.md#tag-mediterranean) [`candid`](tags.md#tag-candid)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.
-```
-
-</details>
-
 <a id="gpt-image-car-door-clifftop-2000s-film-snapshot"></a>
 ### 透过敞开车门拍摄的千禧年代胶片抓拍
 
@@ -95,45 +76,6 @@ Two women framed by a sun-bleached stone archway — one in the near foreground 
 GPT Image 2.5 · 上传图改图 · 出处: [@abxxai on X](https://x.com/abxxai/status/2102775797509722602) · 1,687 赞，统计于 2026-10-28
 
 [`film-look`](tags.md#tag-film-look) [`candid`](tags.md#tag-candid) [`road-trip`](tags.md#tag-road-trip) [`character-reference`](tags.md#tag-character-reference) [`2000s`](tags.md#tag-2000s)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-4/ the start frame, GPT Image 2.5 made
-
-the old footage look is NOT a filter.. Opus wrote it into the prompt:
-
-Promtp:
-
-Use the uploaded character sheet as the strict identity reference. Keep her exact face, bone structure, brown eyes, light freckles across nose and cheeks, natural full lips, and long straight light-brown hair with sun-kissed caramel highlights parted in the middle. Keep the thin gold chain necklace with the small cross pendant.
-
-SCENE: A candid photo taken from inside a parked silver sedan, looking out through the open rear passenger door. The door frame, the grey fabric headliner, the black door panel with its chrome handle, and part of the seat belt frame the shot on both sides. She stands just outside the open door on a rocky clifftop road above the ocean, both arms raised, one hand gripping the top of the door frame and the other resting on the roof edge, leaning slightly toward the camera. Relaxed, unposed, calm expression, looking straight into the lens.
-
-WARDROBE: Fitted cropped white cotton baby tee with a faded, sun-washed vintage graphic print in pale blue and coral red, slightly worn and soft. Light-wash low-rise denim cutoff shorts with frayed hems. Thin brown leather cord bracelets on one wrist. Hair slightly messy and windblown, a few strands across her face.
-
-BACKGROUND: Deep blue Mediterranean sea filling the frame behind her, sparkling sun glints on the water, a flat horizon line at chest height, pale hazy sky, dark rocks and sandy stones at the cliff edge below.
-
-LIGHT: Harsh direct midday summer sun, bright and slightly overexposed. Sun-warmed skin with a natural sheen and slight glow on the cheeks and nose, soft shadows under the chin, a faint reflection of light off the white car interior.
-
-CAMERA AND LOOK: Early 2000s point-and-shoot film photo, 35mm film, 28mm wide lens with slight barrel distortion at the edges, shot from chest height inside the car. Warm, faded, sun-bleached color grade, lifted blacks, low contrast, creamy highlights that gently blow out in the sky, slightly yellowed whites, soft halation around bright edges, fine visible film grain, a touch of softness and imperfect focus. Looks like a real candid snapshot from a summer road trip, not a studio shot.
-
-REALISM: Real skin texture with visible pores and freckles, no retouching, no plastic skin, natural flyaway hairs, real fabric wrinkles on the tee, real dust and wear on the car interior.
-
-Aspect ratio 4:3. No text, no watermark, no logos.
-```
-
-</details>
-
-<a id="gpt-image-car-door-coastal-film-snapshot"></a>
-### 车内视角的2000年代初胶片风海边抓拍
-
-<a href="https://x.com/abxxai/status/2102775755646337530"><img src="../../previews/gpt-image-car-door-coastal-film-snapshot.jpg" width="360"></a>
-
-用上传的角色设定图锁定人物身份，再以车内视角取景，车门框、车顶内衬和安全带自然构成前景。胶片感靠提示词里写明的28mm桶形畸变、提升黑位、光晕和颗粒等相机与调色细节实现，而不是后期滤镜。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@abxxai on X](https://x.com/abxxai/status/2102775755646337530) · 1,687 赞，统计于 2026-10-28
-
-[`film-look`](tags.md#tag-film-look) [`candid-snapshot`](tags.md#tag-candid-snapshot) [`character-reference`](tags.md#tag-character-reference) [`travel`](tags.md#tag-travel) [`y2k`](tags.md#tag-y2k)
 
 <details><summary><b>提示词</b></summary>
 
@@ -3991,46 +3933,6 @@ low quality, blurry, flat lighting, dull colors, bad anatomy, extra limbs, disto
 
 </details>
 
-<a id="gpt-image-black-blazer-editorial-portrait-reference-2"></a>
-### 参考图黑色西装编辑风人像
-
-<a href="https://x.com/MissDelulu9/status/2114321139959001218"><img src="../../previews/gpt-image-black-blazer-editorial-portrait-reference-2.jpg" width="360"></a>
-
-提示词先锁定参考图的面部与身份，再用不要改脸、不要塑料皮肤等否定约束保证一致性。相机镜头参数（Sony A7R IV、85mm f/1.4）加白底侧向柔光，营造干净的时尚编辑感。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2114321139959001218) · 96 赞，统计于 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`editorial`](tags.md#tag-editorial) [`reference-image`](tags.md#tag-reference-image) [`fashion`](tags.md#tag-fashion) [`studio-light`](tags.md#tag-studio-light)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use the girl from the reference image and preserve her face, identity, proportions, and overall appearance exactly. Ultra-realistic 9:16 chest-up editorial portrait. She sits with a slight head tilt, looking directly at the camera with a calm, confident expression. Long straight glossy hair with a clean center part.
-
-Wearing a structured oversized black blazer with broad shoulders. Natural luxury makeup with luminous skin, soft brown eyeshadow, subtle eyeliner, defined lashes, and nude glossy lips. Clean white minimalist background with soft side sunlight creating elegant shadows. Shot on a Sony A7R IV, 85mm f/1.4, shallow depth of field, cinematic lighting, realistic skin texture, 8K RAW, premium fashion editorial, no facial changes, no distortion, no plastic skin, no text, logo, or watermark.
-```
-
-</details>
-
-<a id="nano-banana-pink-picnic-blanket-halo-hair-portrait"></a>
-### 女子躺在粉色碎花野餐布上，周围是牡丹
-
-<a href="https://x.com/Aqib__786Ai/status/2076174750993236008"><img src="../../previews/nano-banana-pink-picnic-blanket-halo-hair-portrait.jpg" width="360"></a>
-
-提示词用俯拍视角、躺姿和放射状发丝锁定构图，并按位置安排道具，如角落的编织篮和旁边的柠檬水。布料、花朵和裙装都重复使用同一粉色系，让整幅画面色调统一。
-
-Nano Banana 2 · 文生图 · 出处: [@Aqib__786Ai on X](https://x.com/Aqib__786Ai/status/2076174750993236008) · 95 赞，统计于 2026-10-29
-
-[`picnic`](tags.md#tag-picnic) [`floral`](tags.md#tag-floral) [`top-down`](tags.md#tag-top-down) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A beautiful young East Asian woman lying on her back on a soft baby pink floral picnic blanket, top-down view, long voluminous wavy platinum blonde hair with baby pink highlights dramatically spread out around her head like a golden-pink halo, soft bangs, fair flawless skin, bright cheerful smile showing perfect white teeth, large expressive brown eyes, wearing a cute baby pink summer dress with puffed short sleeves and square neckline showing cleavage, delicate gold layered necklaces with heart pendant, small gold hoop earrings, sunny outdoor park picnic scene, large vibrant baby pink peonies and roses placed around her, wicker picnic basket in the corner, glass of fresh lemonade with lemon slice nearby, soft golden hour sunlight with gentle pink tones, beautiful natural lighting, bokeh background, highly detailed, photorealistic, cinematic composition, vibrant baby pink color palette, dreamy summer atmosphere.
-```
-
-</details>
-
 <a id="nano-banana-mirror-hallway-satin-slip-woman"></a>
 ### 镜面走廊中穿白色缎面吊带裙的女子
 
@@ -4704,6 +4606,127 @@ Use soft diffused natural window light from one side, creating gentle shadows an
 Editorial fashion photography, minimalist aesthetic, premium lifestyle portrait, luxury eyewear campaign, muted warm color grading, soft contrast, realistic color tones, DSLR quality, 85mm lens, f/1.8, ISO 100, ultra-sharp focus, photorealistic, HDR, 8K, magazine-quality, high-detail facial features, natural skin, cinematic composition.
 
 Negative prompt: low quality, blurry, oversharpened, plastic skin, extra facial features, distorted anatomy, asymmetrical eyes, duplicate glasses, unrealistic beard or hair, oversaturated colors, watermark, logo, text, frame, cartoon, CGI, illustration, low resolution, noise, artifacts.
+```
+
+</details>
+
+<a id="gpt-image-realistic-big-head-miniature-pinwheel-portrait"></a>
+### 手持风车的写实大头小身人像
+
+<a href="https://x.com/oggii_0/status/2114231078843973707"><img src="../../previews/gpt-image-realistic-big-head-miniature-pinwheel-portrait.jpg" width="360"></a>
+
+用头部占身高比例和肩宽占头宽比例等数值锁定夸张程度，再分段固定姿势、五官、服装和场景，让结果保持真实照片质感。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2114231078843973707) · 70 赞，统计于 2026-10-29
+
+[`big-head`](tags.md#tag-big-head) [`miniature`](tags.md#tag-miniature) [`photo-edit`](tags.md#tag-photo-edit) [`realistic`](tags.md#tag-realistic) [`chibi`](tags.md#tag-chibi)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn any image into realistic chibi-style portrait using Chat GPT Image 2.5
+
+Prompt: Task: Strictly edit the uploaded original photograph to transform the person or animal into a hyper-realistic, extremely exaggerated big-head miniature figure, matching the visual style of the provided reference image.
+
+Highest Priority: Transform the head-to-body proportions while preserving the subject's recognizable identity, natural facial features, original expression, hairstyle, clothing, accessories, pose, and overall photographic realism. The final result must resemble a real photograph, not a cartoon or CGI creation.
+
+1. Head-to-Body Proportions (Highest Priority)
+
+- Giant Head: Dramatically enlarge the entire head, including hair, hats, ears, and other existing head accessories. The head should dominate the figure, occupying approximately 65–75% of the total visible silhouette height in a full-body composition.
+- Extremely Narrow Shoulders: Reduce shoulder width to approximately 40–50% of the head width. Create a tiny neck and narrow shoulder structure that transitions naturally into the miniature torso.
+- Miniature Body: Compress the torso, waist, hips, and limbs into an extremely small body beneath the oversized head. The torso should be short and narrow, with realistic anatomical connections.
+- Miniature Arms and Hands: Reduce the arms, palms, and fingers proportionally. Keep the arms naturally close to the body, preserving the original gestures and hand positions.
+- Tiny Legs and Feet: Dramatically shorten and narrow the legs, feet, and shoes while preserving the original stance, footwear design, and points of contact with the ground.
+- Strong Proportional Contrast: The head must be unmistakably oversized relative to the tiny body. Preserve the subject's original clothing design while naturally adapting its fit to the miniature proportions.
+
+The transformation must create an extreme, visually striking big-head miniature effect without making the subject look like a toy, doll, or digitally assembled figure.
+
+2. Pose and Actions (Strictly Preserve)
+
+Preserve the original subject's exact pose, body orientation, gestures, facial expression, gaze direction, and interactions with the environment.
+
+- If standing, keep the subject standing in the same position.
+- If sitting, crouching, leaning, kneeling, or lying down, preserve that exact posture.
+- Retain the original hand positions, held objects, arm placement, leg orientation, and contact points.
+- Maintain the original head tilt and gaze direction unless a slight anatomical adjustment is necessary for a seamless transformation.
+- Keep the subject's original framing. For full-body photographs, preserve the entire figure. For selfies, close-ups, and partial-body images, do not invent missing body parts or expand the frame unnecessarily.
+
+The miniature body must adapt to the original pose rather than forcing the subject into a new pose.
+
+3. Facial Features, Hair, and Clothing (Fully Preserve)
+
+- Identity: Preserve the same recognizable person or animal from the original image. Do not replace, reinterpret, or redesign the subject.
+- Face: Retain the original facial structure, eye shape, nose, lips, cheeks, skin tone, expression, and natural facial proportions. Do not apply beauty filters, artificial eye enlargement, face reshaping, or excessive skin smoothing.
+- Hair: Preserve the original hairstyle, hair color, hairline, texture, volume, and distinctive strands. Scale the hair naturally with the enlarged head.
+- Clothing: Preserve the exact original garments, colors, materials, prints, patterns, logos, folds, and textures. Adapt their dimensions to fit the miniature body without changing their design.
+- Accessories: Retain all original jewelry, glasses, hats, bags, watches, and other visible accessories, resizing them only when necessary to fit the transformed proportions.
+- Animals: Preserve the original species, recognizable features, fur patterns, ears, eyes, and expression. Apply the same oversized-head and miniature-body transformation without changing the animal's identity.
+
+4. Scene and Composition (Fully Preserve)
+
+Use the uploaded photograph as the sole reference for the subject and environment.
+
+- Preserve the original background, architecture, furniture, plants, ground surface, and environmental objects.
+- Maintain the original camera angle, perspective, framing, subject placement, composition, and aspect ratio.
+- Keep the surrounding environment at its original scale. The subject's altered proportions should create a striking contrast with the realistic environment.
+- Preserve the original lighting direction, color tones, shadows, reflections, and depth of field.
+- Ensure the miniature figure remains naturally grounded in the scene, with realistic contact shadows beneath the feet and physically consistent lighting across the enlarged head and reduced body.
+- Do not remove, replace, or introduce environmental elements unless a minor reconstruction is essential to repair an editing artifact.
+
+5. Photographic Realism and Visual Quality
+
+The entire image must retain the appearance of an authentic, high-resolution photograph.
+
+- Realistic skin pores, fine facial details, and natural skin texture.
+- Individual hair strands with believable highlights and shadows.
+- Authentic fabric weave, clothing folds, and accessory details.
+- Natural lighting, physically accurate shadows, and consistent reflections.
+- Seamless transitions between the enlarged head, neck, and miniature body.
+- Realistic anatomy, natural edges, and coherent perspective.
+- Subtle photographic imperfections consistent with the original image.
+
+The oversized head must remain fully photorealistic, with the original person's natural facial anatomy and expression intact. The miniature body must look like a physically plausible part of the same person.
+
+6. Strictly Prohibited
+
+- Cartoon, anime, illustration, or stylized 3D figurine aesthetics.
+- Plastic skin, toy-like materials, doll faces, or artificial beauty enhancements.
+- Changing the subject's identity, facial features, expression, hairstyle, or clothing design.
+- Normal adult shoulder width or a body that appears too large relative to the head.
+- Oversized hands, fingers, feet, or shoes.
+- Disconnected heads, visible neck seams, floating limbs, malformed joints, or duplicated body parts.
+- Altered poses, invented gestures, or changed interactions with the environment.
+- Unnecessary background replacement, camera-angle changes, or aspect-ratio changes.
+- Unnatural shadows, inconsistent lighting, visible compositing artifacts, text, watermarks, or interface elements.
+
+Final Output
+
+Transform the original photograph into an ultra-photorealistic big-head miniature portrait with a dramatically enlarged head, extremely narrow shoulders, a tiny compressed body, and proportionally miniature limbs.
+
+Preserve the original subject's identity, expression, pose, clothing, accessories, background, and photographic characteristics as faithfully as possible. The exaggerated head-to-body ratio should be the defining visual transformation, producing the same realistic, charming, oversized-head aesthetic as the reference image.
+
+Editing Rule: Change the subject's proportions only. Preserve everything else from the original photograph.
+```
+
+</details>
+
+<a id="nano-banana-man-beside-anime-self-graffiti-mural"></a>
+### 男子站在自己动漫形象的涂鸦墙前
+
+<a href="https://x.com/Minahil42298354/status/2032956520057414135"><img src="../../previews/nano-banana-man-beside-anime-self-graffiti-mural.jpg" width="360"></a>
+
+写实前景人物与同一人物的赛璐璐漫画风壁画同框，形成真人与动漫的对照。提示词点明壁画配色、片假名文字和涂鸦签名，再用脏旧的小巷地面收住前景，让墙面鲜艳而前景保持照片质感。
+
+Nano Banana 2 · 文生图 · 出处: [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2032956520057414135) · 70 赞，统计于 2026-10-29
+
+[`graffiti`](tags.md#tag-graffiti) [`anime-mural`](tags.md#tag-anime-mural) [`mixed-style`](tags.md#tag-mixed-style) [`street-art`](tags.md#tag-street-art) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A medium shot of a real-life man with short dark hair and a beard, wearing a black hoodie, standing in a pensive pose with his fingers to his temple. He is positioned in front of a massive, vibrant graffiti mural on a concrete wall. The mural depicts an anime-style version of the same man in a dynamic action pose, holding a spray paint can. The art style is bold cel-shaded manga with thick outlines, featuring Japanese katakana text, bright orange and purple splashes, and "
+http://
+YAPPER.SO" tags. Hyper-realistic foreground, gritty urban alleyway floor with scattered paint cans.
 ```
 
 </details>

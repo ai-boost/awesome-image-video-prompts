@@ -1,6 +1,6 @@
 # Product shots and e-commerce
 
-[Back to the list](../../README.md) · All 71 entries
+[Back to the list](../../README.md) · All 70 entries
 
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### Woman leaning on giant Pepsi can ad
@@ -1660,25 +1660,6 @@ GPT Image 2 · Edit · Source: [@lovimg_com on X](https://x.com/lovimg_com/statu
 
 ```text
 100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清
-```
-
-</details>
-
-<a id="gpt-image-moonlit-anime-chocolate-gift-box-2"></a>
-### Moonlit anime chocolate gift box with ten chocolates
-
-<a href="https://x.com/ArtistaNozomu/status/2055605251525513216"><img src="../../previews/gpt-image-moonlit-anime-chocolate-gift-box-2.jpg" width="360"></a>
-
-The prompt numbers all ten chocolates in a 2 by 5 grid and describes each one, which keeps the tray count and layout exact. Exact lid text, a matching display card and a gold and pastel palette tie the packaging together, and the negative list blocks extra chocolates and cluttered type.
-
-GPT Image 2 · Text-to-image · Source: [@ArtistaNozomu on X](https://x.com/ArtistaNozomu/status/2055605251525513216) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`chocolate-box`](tags.md#tag-chocolate-box) [`packaging`](tags.md#tag-packaging) [`anime`](tags.md#tag-anime) [`luxury`](tags.md#tag-luxury) [`product-photo`](tags.md#tag-product-photo)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a premium luxury patisserie product photograph of a limited-edition chocolate box inspired by an original anime-style girl character named Nozomu. The box is open on an elegant dark satin tabletop with crystal glassware, soft flowers, scattered sparkles, and a pale satin ribbon, photographed like a real high-end department-store confectionery gift set. The inside lid features a large illustrated package design: a dreamy moonlit night sky with teal-to-navy gradient, crescent moon, hanging gold stars, city skyline silhouettes, ornate gold corner filigree, pale pink and blue flowers, and an anime girl with long dark bluish-black hair with pink highlights, floral hair accessories, and an off-shoulder white ruffled dress; leave the face unobstructed in the generated image unless a privacy-safe blank face placeholder is desired. Add elegant gold Japanese-style branding text on the lid: のぞむ, small romanized text NOZOMU, script subtitle Moonlit Dream, and small uppercase text "CHOCOLATE COLLECTION". In the lower tray, show exactly 10 luxury chocolates in a 2-by-5 grid with gold dividers and black paper cups: 1 glossy sky-blue dome with gold leaf, 2 cream rose-shaped chocolate, 3 faceted pale blue crystal chocolate, 4 dark round chocolate with gold crescent moon and starry night surface, 5 white daisy flower chocolate with gold center, 6 pale blue-white speckled dome, 7 pink flower chocolate with gold center, 8 glossy purple-blue heart chocolate with tiny star speckles, 9 faceted pale blush crystal chocolate with gold flecks, and 10 sky-blue marbled dome with gold constellation lines. Include a matching small display card in front of the box with the same branding text and moon motif. Use soft cinematic lighting, shallow depth of field, realistic reflections, delicate gold foil details, pastel celestial palette, ultra-detailed premium packaging, and a romantic fantasy luxury chocolate aesthetic. Avoid extra chocolates, avoid modern logos, avoid cluttered typography, and keep the box and all 10 chocolates sharply visible.
 ```
 
 </details>
