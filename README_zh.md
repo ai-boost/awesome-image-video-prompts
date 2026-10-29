@@ -54,18 +54,18 @@
 <a id="recent"></a>
 ## 最近新增
 
+- 2026-10-29 · [窗边阳光下身穿白T恤的手机自拍](pages/zh/image-portrait.md#nano-banana-sunlit-smartphone-selfie-white-tee) · Nano Banana 2.1
+- 2026-10-29 · [逐项复刻一张照片的 JSON 提示词](pages/zh/image-realism.md#nano-banana-json-reconstruction) · Nano Banana 2.1
+- 2026-10-29 · [情侣衫的线头抽成一幅线稿](pages/zh/image-photo-to-art.md#nano-banana-second-world) · Nano Banana 2.1
+- 2026-10-29 · [照片与漫画重绘分割海报，花瓣上的女孩](pages/zh/image-poster.md#gpt-image-photo-to-manga-split-panel-poster) · GPT Image 2.5
+- 2026-10-29 · [巴黎地标丝网印刷风旅行海报配绿色老爷车](pages/zh/image-poster.md#gpt-image-city-screenprint-travel-poster-paris) · GPT Image 2.5
+- 2026-10-29 · [地铁楼梯上身穿黑色大衣的男子](pages/zh/image-portrait.md#nano-banana-subway-stairs-black-coat-street-portrait) · Nano Banana 2
+- 2026-10-29 · [玩具角色冲破设计稿纸奔跑](pages/zh/image-character.md#nano-banana-toy-character-sprinting-through-design-sheets) · Nano Banana 2
+- 2026-10-29 · [手持风车的写实大头小身人像](pages/zh/image-portrait.md#gpt-image-realistic-big-head-miniature-pinwheel-portrait) · GPT Image 2.5
+- 2026-10-29 · [照片亭连拍里情侣逐渐走到同一格](pages/zh/image-collage.md#gpt-image-photo-booth-couple-migrating-contact-sheet) · GPT Image 2.5
+- 2026-10-29 · [日本新年家宴上的动画风家庭冲突](pages/zh/image-illustration.md#nano-banana-anime-new-year-dinner-confrontation) · Nano Banana 2.1
 - 2026-10-29 · [健身房自拍周围环绕Q版迷你分身](#gpt-image-gym-selfie-chibi-minis-doodles) · GPT Image 2
 - 2026-10-29 · [雕刻数字22的奢华生日海报](#gpt-image-carved-22-birthday-poster-pop-out) · GPT Image 2
-- 2026-10-29 · [奶油色宽松卫衣里的温柔自拍](pages/zh/image-portrait.md#gpt-image-cozy-hoodie-sleeve-selfie) · GPT Image 2
-- 2026-10-29 · [模糊人像修复为清晰细节的前后对比](#gpt-image-old-photo-restoration-colorize-sharpen) · GPT Image 2
-- 2026-10-29 · [上方实景照片配下方同场景墨线速写画册页](#gpt-image-photo-to-ink-sketch-artbook-page) · GPT Image 2
-- 2026-10-29 · [母亲与幼儿站在露营车旁的童书插画](pages/zh/image-photo-to-art.md#gpt-image-storybook-mother-toddler-camper-van) · GPT Image 2
-- 2026-10-29 · [暗色展厅里聚光灯下的日式壁画前女子肖像](pages/zh/image-portrait.md#gpt-image-spotlight-museum-mural-portrait) · GPT Image 2
-- 2026-10-29 · [韩系水墨涂鸦风自画像](#gpt-image-korean-doodle-self-portrait-selfie) · GPT Image 2
-- 2026-10-29 · [人物与单车融入巨型字母的编辑排版海报](pages/zh/image-poster.md#gpt-image-human-fragments-typography-poster-template) · GPT Image 2
-- 2026-10-29 · [水晶玻璃数字生日海报，孩子探出画框](pages/zh/image-poster.md#gpt-image-crystal-number-birthday-poster-child) · GPT Image 2
-- 2026-10-29 · [濒危小熊猫带标注的野生动物信息图](pages/zh/image-infographic.md#gpt-image-endangered-animal-annotated-infographic) · GPT Image 2
-- 2026-10-29 · [洛杉矶街角咖啡馆水彩旅行海报](pages/zh/image-poster.md#gpt-image-watercolor-city-travel-poster-cafe) · GPT Image 2
 
 <a id="video"></a>
 ## 视频提示词

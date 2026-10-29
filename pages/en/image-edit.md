@@ -990,7 +990,7 @@ Using REFERENCE_0, restore the old damaged family photo into a clean, high-resol
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"><img src="../../previews/gpt-image-sketch-to-photo-valley.jpg" width="360"></a>
 
-Locks layout, proportions and perspective, lets the model choose materials and light, and bans new elements so it does not reinterpret the sketch. Preview: the Sunburst variant.
+Locks layout, proportions and perspective, lets the model choose materials and light, and bans new elements so it does not reinterpret the sketch.
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
 

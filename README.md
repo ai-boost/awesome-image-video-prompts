@@ -54,18 +54,18 @@
 <a id="recent"></a>
 ## Recently added
 
+- 2026-10-29 · [Sunlit smartphone selfie of woman in white tee](pages/en/image-portrait.md#nano-banana-sunlit-smartphone-selfie-white-tee) · Nano Banana 2.1
+- 2026-10-29 · [JSON prompt that reconstructs a photo shot for shot](pages/en/image-realism.md#nano-banana-json-reconstruction) · Nano Banana 2.1
+- 2026-10-29 · [Couple's shirt threads unravel into a line sketch](pages/en/image-photo-to-art.md#nano-banana-second-world) · Nano Banana 2.1
+- 2026-10-29 · [Photo and manga redraw split poster, girl on petals](pages/en/image-poster.md#gpt-image-photo-to-manga-split-panel-poster) · GPT Image 2.5
+- 2026-10-29 · [Paris landmark screenprint travel poster with green car](pages/en/image-poster.md#gpt-image-city-screenprint-travel-poster-paris) · GPT Image 2.5
+- 2026-10-29 · [Man in black coat on subway stairs](pages/en/image-portrait.md#nano-banana-subway-stairs-black-coat-street-portrait) · Nano Banana 2
+- 2026-10-29 · [Toy character sprinting through torn design sheets](pages/en/image-character.md#nano-banana-toy-character-sprinting-through-design-sheets) · Nano Banana 2
+- 2026-10-29 · [Realistic big head miniature portrait holding pinwheel](pages/en/image-portrait.md#gpt-image-realistic-big-head-miniature-pinwheel-portrait) · GPT Image 2.5
+- 2026-10-29 · [Photo booth story where a couple gradually merges](pages/en/image-collage.md#gpt-image-photo-booth-couple-migrating-contact-sheet) · GPT Image 2.5
+- 2026-10-29 · [Anime Japanese New Year dinner family confrontation](pages/en/image-illustration.md#nano-banana-anime-new-year-dinner-confrontation) · Nano Banana 2.1
 - 2026-10-29 · [Gym selfie surrounded by chibi mini selves](#gpt-image-gym-selfie-chibi-minis-doodles) · GPT Image 2
 - 2026-10-29 · [Luxury birthday poster with carved 22 wall](#gpt-image-carved-22-birthday-poster-pop-out) · GPT Image 2
-- 2026-10-29 · [Cozy selfie in a cream oversized hoodie](pages/en/image-portrait.md#gpt-image-cozy-hoodie-sleeve-selfie) · GPT Image 2
-- 2026-10-29 · [Blurry portrait restored to sharp detail, before and after](#gpt-image-old-photo-restoration-colorize-sharpen) · GPT Image 2
-- 2026-10-29 · [Candid photo above matching ink sketch artbook page](#gpt-image-photo-to-ink-sketch-artbook-page) · GPT Image 2
-- 2026-10-29 · [Mother and toddler beside camper van storybook illustration](pages/en/image-photo-to-art.md#gpt-image-storybook-mother-toddler-camper-van) · GPT Image 2
-- 2026-10-29 · [Spotlit woman before Japanese mural in dark museum](pages/en/image-portrait.md#gpt-image-spotlight-museum-mural-portrait) · GPT Image 2
-- 2026-10-29 · [Korean style ink doodle self portrait with selfie](#gpt-image-korean-doodle-self-portrait-selfie) · GPT Image 2
-- 2026-10-29 · [Editorial typography poster with woman and bicycle](pages/en/image-poster.md#gpt-image-human-fragments-typography-poster-template) · GPT Image 2
-- 2026-10-29 · [Crystal glass number birthday poster with child](pages/en/image-poster.md#gpt-image-crystal-number-birthday-poster-child) · GPT Image 2
-- 2026-10-29 · [Endangered red panda annotated wildlife infographic](pages/en/image-infographic.md#gpt-image-endangered-animal-annotated-infographic) · GPT Image 2
-- 2026-10-29 · [Watercolor Los Angeles Cafe Travel Poster](pages/en/image-poster.md#gpt-image-watercolor-city-travel-poster-cafe) · GPT Image 2
 
 <a id="video"></a>
 ## Video prompts

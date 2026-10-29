@@ -17,8 +17,8 @@ source:
 inputs:
 - https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp
 notes:
-  en: 'Locks layout, proportions and perspective, lets the model choose materials and light, and bans new elements so it does not reinterpret the sketch. Preview: the Sunburst variant.'
-  zh: 锁定布局、比例和透视，材质和光线交给模型，并禁止添加新元素，避免它自由发挥。预览图为 Sunburst 版本。
+  en: 'Locks layout, proportions and perspective, lets the model choose materials and light, and bans new elements so it does not reinterpret the sketch.'
+  zh: 锁定布局、比例和透视，材质和光线交给模型，并禁止添加新元素，避免它自由发挥。
 prompt: |
   Turn this drawing into a photorealistic image.
   Preserve the exact layout, proportions, and perspective.

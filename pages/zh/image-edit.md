@@ -990,7 +990,7 @@ Using REFERENCE_0, restore the old damaged family photo into a clean, high-resol
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"><img src="../../previews/gpt-image-sketch-to-photo-valley.jpg" width="360"></a>
 
-锁定布局、比例和透视，材质和光线交给模型，并禁止添加新元素，避免它自由发挥。预览图为 Sunburst 版本。
+锁定布局、比例和透视，材质和光线交给模型，并禁止添加新元素，避免它自由发挥。
 
 GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
 

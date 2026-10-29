@@ -240,7 +240,7 @@ a fashion campaign for an invented label, shot from a camera on the ground with 
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="../../previews/gpt-image-streetwear-campaign-tagline.jpg" width="360"></a>
 
-标语加引号，并要求只出现一次，再禁止多余文字、水印和无关标志。凡是有固定文案的广告都可以照这个写。预览图为 Sunburst 版本。
+标语加引号，并要求只出现一次，再禁止多余文字、水印和无关标志。凡是有固定文案的广告都可以照这个写。
 
 GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
 

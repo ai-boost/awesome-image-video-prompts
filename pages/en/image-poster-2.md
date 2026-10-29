@@ -240,7 +240,7 @@ a fashion campaign for an invented label, shot from a camera on the ground with 
 
 <a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="../../previews/gpt-image-streetwear-campaign-tagline.jpg" width="360"></a>
 
-The tagline is quoted and the prompt asks for it exactly once, then bans extra text, watermarks and unrelated logos. This is the pattern for any ad with fixed copy. Preview: the Sunburst variant.
+The tagline is quoted and the prompt asks for it exactly once, then bans extra text, watermarks and unrelated logos. This is the pattern for any ad with fixed copy.
 
 GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
 

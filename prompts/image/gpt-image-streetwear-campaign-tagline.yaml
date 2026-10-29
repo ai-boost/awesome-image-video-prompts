@@ -15,8 +15,8 @@ source:
   credit: OpenAI
   captured: '2026-10-28'
 notes:
-  en: 'The tagline is quoted and the prompt asks for it exactly once, then bans extra text, watermarks and unrelated logos. This is the pattern for any ad with fixed copy. Preview: the Sunburst variant.'
-  zh: 标语加引号，并要求只出现一次，再禁止多余文字、水印和无关标志。凡是有固定文案的广告都可以照这个写。预览图为 Sunburst 版本。
+  en: 'The tagline is quoted and the prompt asks for it exactly once, then bans extra text, watermarks and unrelated logos. This is the pattern for any ad with fixed copy.'
+  zh: 标语加引号，并要求只出现一次，再禁止多余文字、水印和无关标志。凡是有固定文案的广告都可以照这个写。
 prompt: |
   Give me a cool in culture ad / fashion shot for a brand called Thread.
   It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
